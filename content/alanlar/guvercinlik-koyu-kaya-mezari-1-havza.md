@@ -29,7 +29,7 @@ wikidata_id: "Q134728194"
 
 # Güvercinlik Köyü Kaya Mezarı 1, Havza
 
-Güvercinlik Köyü Kaya Mezarı 1, Havza, Karadeniz Bölgesi'nin tarihi zenginliklerini ve doğal güzelliklerini bir araya getiren özel bir destinasyon. Bu bölge, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Güvercinlik Köyü, tarihi geçmişi ve doğal güzellikleri ile dikkat çekiyor. Köyün etrafında yer alan ormanlar, çeşitli bitki türleri ve zengin fauna ile ziyaretçileri doğanın içine çekiyor.
+Güvercinlik Köyü Kaya Mezarı 1, Havza, Karadeniz Bölgesi'nin tarihi zenginliklerini ve doğal güzelliklerini bir araya getiren özel bir destinasyon. Güvercinlik Köyü, tarihi geçmişi ve doğal güzellikleri ile dikkat çekiyor. Köyün etrafında yer alan ormanlar, çeşitli bitki türleri ve zengin fauna ile ziyaretçileri doğanın içine çekiyor.
 
 ## Tarihçe
 

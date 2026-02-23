@@ -34,7 +34,7 @@ Tarihin derinliklerinde gizlenen bir hazine gibi, Cihanbeyli/Konya'da yer alan T
 
 ## Tarihçe
 
-Tersakan Gölü, Konya'nın geniş ve verimli ovalarının arasında yer alan bir doğal hazine. Bu bölge, tarihin derinliklerinden gelen bir kültür mirasının parçası. Konya, histórik olarak Hitit, Frig, Roma ve Selçuklu gibi uygarlıkların yaşam alanı olmuş, her biri bölgenin zengin kültürel dokusuna katkıda bulunmuş.
+Tersakan Gölü, Konya'nın geniş ve verimli ovalarının arasında yer alan bir doğal hazine. Bu bölge, tarihin derinliklerinden gelen bir kültür mirasının parçası. Konya, tarihi olarak Hitit, Frig, Roma ve Selçuklu gibi uygarlıkların yaşam alanı olmuş, her biri bölgenin zengin kültürel dokusuna katkıda bulunmuş.
 
 Doğal alanlar gibi Tersakan Gölü, Türkiye'nin tarihsel panoramasında önemli bir yer tutuyor. Bu tür göller ve ovalar, binlerce yıl boyunca insanların yaşamlarını sürdürdükleri, tarım ve hayvancılıkla uğraştıkları, ticaret yolları üzerinde stratejik konumlar olarak hizmet vermiş. Yayla ve otlaklar, bölgede yaşayan topluluklar için hayvancılık ve yaylacılığın temelini oluşturmuş.
 

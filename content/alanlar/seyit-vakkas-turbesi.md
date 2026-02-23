@@ -1,7 +1,7 @@
 ---
 title: "Seyit Vakkas Türbesi"
 date: "2026-01-10T07:55:58.156Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391322"
 
 # Seyit Vakkas Türbesi
 
-Seyit Vakkas Türbesi, Giresun'un merkezinde yer alan tarihi bir mekan. Bu önemli turizm noktası, Karadeniz Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan bir yapı. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Seyit Vakkas Türbesi, Giresun'un en çok ziyaret edilen yerlerinden biri ve tarihi önemi nedeniyle büyük bir çekicilik taşıyor. Bu yapı, bölgenin tarihi geçmişi ve kültürel zenginliği hakkında bilgi edinmek isteyenler için ideal bir destinasyon.
+Seyit Vakkas Türbesi, Giresun'un merkezinde yer alan tarihi bir mekan. Bu önemli turizm noktası, Karadeniz Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan bir yapı. Seyit Vakkas Türbesi, Giresun'un en çok ziyaret edilen yerlerinden biri ve tarihi önemi nedeniyle büyük bir çekicilik taşıyor. Bu yapı, bölgenin tarihi geçmişi ve kültürel zenginliği hakkında bilgi edinmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Seyit Vakkas Türbesi'nin tarihi geçmişi, bölgenin önemli olaylarına tanık
 
 ## Coğrafya
 
-Seyit Vakkas Türbesi, Giresun'un merkezinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Bölge, Karadeniz'in karakteristik yeşil doğası ile kaplı ve zengin bir bitki örtüsüne sahip. Bu coğrafi konum, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Seyit Vakkas Türbesi'nin çevredekiındaki bölge, tarihi ve kültürel açıdan zengin bir bölgede yer alıyor ve ziyaretçilere birçok farklı gezi seçeneği sunuyor. Karadeniz Bölgesi'nin iklimi, ziyaretçilere yılın her döneminde gezi imkanı sunuyor ve Seyit Vakkas Türbesi, bu bölgenin en önemli turizm noktalarından biri.
+Seyit Vakkas Türbesi, Giresun'un merkezinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, Karadeniz'in karakteristik yeşil doğası ile kaplı ve zengin bir bitki örtüsüne sahip. Bu coğrafi konum, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Seyit Vakkas Türbesi'nin çevredekiındaki bölge, tarihi ve kültürel açıdan zengin bir bölgede yer alıyor ve ziyaretçilere birçok farklı gezi seçeneği sunuyor. Karadeniz Bölgesi'nin iklimi, ziyaretçilere yılın her döneminde gezi imkanı sunuyor ve Seyit Vakkas Türbesi, bu bölgenin en önemli turizm noktalarından biri.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q1039186"
 
 # Zincirli Höyük
 
-Zincirli Höyük, Gaziantep'in Oğuzeli ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir höyüktür. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi geçmişi ile dikkat çekiyor. Höyük, Güneydoğu Anadolu Bölgesi'nin önemli arkeolojik sitelerinden biri olarak kabul ediliyor. Burada yapılan kazılar, bölgenin zengin tarihi ve kültürel mirasını ortaya çıkarmaya yardımcı oluyor.
+Zincirli Höyük, Gaziantep'in Oğuzeli ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir höyüktür. Höyük, Güneydoğu Anadolu Bölgesi'nin önemli arkeolojik sitelerinden biri olarak kabul ediliyor. Burada yapılan kazılar, bölgenin zengin tarihi ve kültürel mirasını ortaya çıkarmaya yardımcı oluyor.
 
 ## Tarihçe
 

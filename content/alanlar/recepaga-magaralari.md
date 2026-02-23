@@ -50,7 +50,7 @@ Doğal bir anıt olarak kabul edilen Recepağa Mağaraları, jeolojik açıdan o
 
 ## Flora ve Fauna
 
-Recepağa Mağaraları, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu jeopark, step ve ova ekolojisinin yanı sıra zengin bir orman ekosistemine de ev sahipliği yapar. 
+Recepağa Mağaraları, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu jeopark, step ve ova ekolojisinin yanı sıra zengin bir orman ekosistemine de ev sahipliği yapar.
 
 Bitki örtüsünü oluşturan çeşitli ağaç türleri, mevsimsel değişimlerle birlikte farklı bir güzelliğe bürünür. İlkbaharın gelişiyle birlikte, rengarenk çiçekler açar ve bu bölgeyi bir doğa harikasına dönüştürür. Sonbaharda ise, yaprakların sararmasıyla birlikte, bir başka güzelliğe bürünür.
 

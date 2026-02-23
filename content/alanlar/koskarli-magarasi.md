@@ -35,7 +35,7 @@ Koskarlı Mağarası, Türkiye'nin geniş mağara ağının bir parçası olarak
 
 Doğanın mucizeleri arasında yer alan Koskarlı Mağarası, Trabzon'un güzelliklerini keşfetmek isteyenler için bir hazine. Bu mağaranın bulunduğu coğrafya, Karadeniz Bölgesi'nin kuzeydoğu kesiminde, Trabzon ilinin sınırları içinde yer alır. Trabzon'un merkezine yaklaşık 30 kilometre uzaklıkta bulunan mağara, aynı zamanda Zigana Dağları'nın eteklerinde konumlanmıştır.
 
-Jeolojik açıdan bakıldığında, Koskarlı Mağarası kalker kayalardan oluşmaktadır. Mağaranın iç yapısı, kaya oluşumları ve yer altı su kaynaklarının şekillendirmesiyle birlikte, binlerce yıllık bir geçmişe tanıklık etmektedir. Bu doğal oluşum, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır. Mağaranın giriş ve çıkış noktaları, ziyaretçilere hem doğal güzelliği hem de jeolojik zenginliği keşfetme fırsatı sunmaktadır.
+Jeolojik açıdan bakıldığında, Koskarlı Mağarası kalker kayalardan oluşmaktadır. Mağaranın iç yapısı, kaya oluşumları ve yer altı su kaynaklarının şekillendirmesiyle birlikte, binlerce yıllık bir geçmişe tanıklık etmektedir. Bu doğal oluşum, yaklaşık bir şehir bloğu büyüklüğünde bir alanı kaplamaktadır.
 
 İklimsel olarak, mağaranın bulunduğu bölgede Karadeniz iklimi hakimdir. Bu bölgede, yaz ayları serin ve yağışlı, kış ayları ise soğuk ve kar yağışlı geçer. Mağaranın içi, dışarıdaki hava koşullarından etkilenmez ve yıl boyunca sabit bir sıcaklıkta kalır. Bu durum, mağaranın içinde yer alan jeolojik oluşumların ve canlıların korunmasına yardımcı olur.
 

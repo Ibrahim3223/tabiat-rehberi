@@ -1,7 +1,7 @@
 ---
 title: "Sarı Yakup Türbesi"
 date: "2026-01-10T06:57:38.064Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390885"
 
 # Sarı Yakup Türbesi
 
-Sarı Yakup Türbesi, Karatay, Konya'da yer alan ve tarihi ile doğal güzelliği bir arada sunan özel bir yer. Bu bölge, 140 hektarlık geniş bir alanı kapsıyor, yaklaşık 200 futbol sahası büyüklüğünde. Sarı Yakup Türbesi, ziyaretçilerini tarihi ve kültürel zenginliklerle beraber, doğal güzelliklerle de karşılayan bir destinasyon. Bu türbenin etrafı, geniş ve yeşil alanlarla çevrili, ziyaretçiler için hem dinlenmek hem de tarihi ve kültürel değerleri keşfetmek için ideal bir ortam sunuyor.
+Sarı Yakup Türbesi, Karatay, Konya'da yer alan ve tarihi ile doğal güzelliği bir arada sunan özel bir yer. Sarı Yakup Türbesi, ziyaretçilerini tarihi ve kültürel zenginliklerle beraber, doğal güzelliklerle de karşılayan bir destinasyon. Bu türbenin etrafı, geniş ve yeşil alanlarla çevrili, ziyaretçiler için hem dinlenmek hem de tarihi ve kültürel değerleri keşfetmek için ideal bir ortam sunuyor.
 
 ## Tarihçe
 

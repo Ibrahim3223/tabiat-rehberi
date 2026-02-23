@@ -32,7 +32,7 @@ Siirt'in zorlu coğrafyasında, Azapkale Dağı gibi doğal oluşumlar dikkat ç
 
 ## Tarihçe
 
-Azapkale Dağı, Siirt'in tarihi ve kültürel zenginliklerinin bir parçasıdır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Hitit, Asur, Pers ve Roma uygarlıklarının izlerini taşıyan Siirt, geçmişte önemli ticaret yollarının kesişme noktası olarak dikkat çeker. 
+Azapkale Dağı, Siirt'in tarihi ve kültürel zenginliklerinin bir parçasıdır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Hitit, Asur, Pers ve Roma uygarlıklarının izlerini taşıyan Siirt, geçmişte önemli ticaret yollarının kesişme noktası olarak dikkat çeker.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir role sahiptir. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve kültürel yaşamının temelini oluşturur. İnsanlar, bu doğal güzelliklerin arasında yaşamını sürdürürken, aynı zamanda bu alanları koruma altına almaya çalışmışlardır.
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228718"
 
 # ARDAHAN
 
-Ardahan, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda çeşitli bitki türleri ve yaban hayatı bulunmaktadır. Ziyaretçiler, bu güzel ortamda doğayı ve tarihi bir arada keşfedebilirler. Ardahan'ın tarihi geçmişi, ziyaretçilere zengin bir kültürel deneyim sunmaktadır. Bu milli park, hem doğa severler hem de tarih meraklıları için ideal bir destinasyondur.
+Ardahan, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir milli parktır. Ziyaretçiler, bu güzel ortamda doğayı ve tarihi bir arada keşfedebilirler. Ardahan'ın tarihi geçmişi, ziyaretçilere zengin bir kültürel deneyim sunmaktadır. Bu milli park, hem doğa severler hem de tarih meraklıları için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Ardahan'ı ziyaret etmek, hem doğa severler hem de tarih meraklıları için id
 ## İlginç Bilgiler
 
 - Ardahan, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alır.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Ardahan, çeşitli bitki türleri ve yaban hayatı barındırır.
 - Milli park, yılın her döneminde ziyaret edilebilir.
 - Ardahan'ın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölgede yer almaktadır.

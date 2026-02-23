@@ -29,7 +29,7 @@ wikidata_id: "Q31389840"
 
 # Kavacık Tepesi
 
-Kavacık Tepesi, İç Anadolu Bölgesi'nin görece düz arazilerine nazaran oldukça dikkat çekici bir tepe olup, çevresindeki manzarayla birlikte ziyaretçilerini büyülemektedir. Çankırı ilinin doğal güzelliklerinden biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Kavacık Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir. Bu tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta olup, bu da bölgenin ekolojik zenginliğini göstermektedir.
+Kavacık Tepesi, İç Anadolu Bölgesi'nin görece düz arazilerine nazaran oldukça dikkat çekici bir tepe olup, çevresindeki manzarayla birlikte ziyaretçilerini büyülemektedir. Çankırı ilinin doğal güzelliklerinden biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Kavacık Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir. Bu tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta olup, bu da bölgenin ekolojik zenginliğini göstermektedir.
 
 ## Tarihçe
 

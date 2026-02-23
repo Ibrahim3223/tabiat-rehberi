@@ -1,7 +1,7 @@
 ---
 title: "Keçiören Belediyesi Etnografya Müzesi"
 date: "2026-01-10T15:18:43.317Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950034"
 
 # Keçiören Belediyesi Etnografya Müzesi
 
-Keçiören Belediyesi Etnografya Müzesi, Ankara'nın kalbinde yer alan ve ziyaretçilerine zengin bir kültürel deneyim sunan özel bir mekan olarak dikkat çekiyor. Müzenin bulunduğu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir kültür ve tarih yelpazesi sunuyor. İç Anadolu Bölgesi'nin önemli kültür merkezlerinden biri olan bu müze, Ankara'nın turizm değerlerini ortaya koyuyor. Ziyaretçiler, burada çeşitli etnografik eserler ve sergilerle karşılaşarak tarihin derinliklerine bir yolculuk yapabiliyorlar.
+Keçiören Belediyesi Etnografya Müzesi, Ankara'nın kalbinde yer alan ve ziyaretçilerine zengin bir kültürel deneyim sunan özel bir mekan olarak dikkat çekiyor. İç Anadolu Bölgesi'nin önemli kültür merkezlerinden biri olan bu müze, Ankara'nın turizm değerlerini ortaya koyuyor. Ziyaretçiler, burada çeşitli etnografik eserler ve sergilerle karşılaşarak tarihin derinliklerine bir yolculuk yapabiliyorlar.
 
 ## Tarihçe
 

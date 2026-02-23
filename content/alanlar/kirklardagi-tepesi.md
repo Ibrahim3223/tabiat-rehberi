@@ -28,7 +28,7 @@ wikidata_id: "Q31390676"
 
 # Kırklardağı Tepesi
 
-Kırklardağı Tepesi, Amasya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve şehir merkezine hakim bir konumda bulunuyor. Tepenin etrafında různé bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennet haline getiriyor. Kırklardağı Tepesi, aynı zamanda şehrin tarihi geçmişini yansıtan önemli bir nokta.
+Kırklardağı Tepesi, Amasya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Tepenin etrafında různé bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennet haline getiriyor. Kırklardağı Tepesi, aynı zamanda şehrin tarihi geçmişini yansıtan önemli bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kırklardağı Tepesi, yüzyıllar boyunca önemli bir merkez olarak görev yapm
 
 ## Coğrafya
 
-Kırklardağı Tepesi, Amasya şehir merkezinde yer alıyor. Tepenin coğrafi konumu, şehre hakim bir noktada bulunuyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve çevresinde çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennet haline getiriyor. Tepenin etrafında bulunan yeşillikler, şehrin karmaşasından uzaklaşmak isteyenler için ideal bir kaçış noktası oluşturuyor. Kırklardağı Tepesi, aynı zamanda şehrin iklimini etkileyen önemli bir faktör. Tepenin yüksekliği, şehre gelen rüzgarları ve yağışları etkiliyor. Bu durum, şehrin çevresindeki bitki örtüsünü ve fauna çeşitliliğini olumlu yönde etkiliyor. Tepenin coğrafi konumu ve yapısı, şehre gelen ziyaretçilerin ilgisini çekiyor ve onları bu güzel manzarayı keşfetmeye davet ediyor.
+Kırklardağı Tepesi, Amasya şehir merkezinde yer alıyor. Tepenin coğrafi konumu, şehre hakim bir noktada bulunuyor. Tepenin etrafında bulunan yeşillikler, şehrin karmaşasından uzaklaşmak isteyenler için ideal bir kaçış noktası oluşturuyor. Kırklardağı Tepesi, aynı zamanda şehrin iklimini etkileyen önemli bir faktör. Tepenin yüksekliği, şehre gelen rüzgarları ve yağışları etkiliyor. Bu durum, şehrin çevresindeki bitki örtüsünü ve fauna çeşitliliğini olumlu yönde etkiliyor. Tepenin coğrafi konumu ve yapısı, şehre gelen ziyaretçilerin ilgisini çekiyor ve onları bu güzel manzarayı keşfetmeye davet ediyor.
 
 ## Flora ve Fauna
 

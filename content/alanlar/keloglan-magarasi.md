@@ -52,9 +52,9 @@ Doğal kaynaklar açısından, Keloğlan mağarası, komşu alanlardan gelen su 
 
 ## Flora ve Fauna
 
-Keloğlan mağarası ve çevresi, 1200 hektarlık yeşil cenneti, step bitki örtüsünün hakim olduğu bir jeopark olarak dikkat çekiyor. İlkbaharın gelmesiyle birlikte, bozkırın kurak arazileri rengarenk çiçeklerle donanıyor. 
+Keloğlan mağarası ve çevresi, 1200 hektarlık yeşil cenneti, step bitki örtüsünün hakim olduğu bir jeopark olarak dikkat çekiyor. İlkbaharın gelmesiyle birlikte, bozkırın kurak arazileri rengarenk çiçeklerle donanıyor.
 
-Bitki Örtüsü olarak, kuraklığa adapte olan türler hakimiyet kuruyor. Sonbahar mevsiminde ise, göçmen kuşlar bu bölgeyi ziyaret ediyor. Yaban Hayatı açısından zengin bir çeşitlilik sunan bu bölge, orman memelileri ve çeşitli kuş türlerine ev sahipliği yapıyor. 
+Bitki Örtüsü olarak, kuraklığa adapte olan türler hakimiyet kuruyor. Sonbahar mevsiminde ise, göçmen kuşlar bu bölgeyi ziyaret ediyor. Yaban Hayatı açısından zengin bir çeşitlilik sunan bu bölge, orman memelileri ve çeşitli kuş türlerine ev sahipliği yapıyor.
 
 Ekolojik Değer olarak, bu bölge kuraklığa adapte olan türlerin yaşam alanı olması nedeniyle önemli bir ekosistem oluşturuyor. Bu jeopark, bölgenin ekolojik dengesini korurken, aynı zamanda ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Keloğlan mağarası, step bitki örtüsünün ve yaban hayatının bir arada yaşadığı ender bölgelerden biri olarak, koruma altına alınarak gelecek nesiller için korunuyor.
 

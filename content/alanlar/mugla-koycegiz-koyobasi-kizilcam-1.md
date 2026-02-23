@@ -22,7 +22,7 @@ wikidata_id: "Q108227914"
 
 # Mugla-Koycegiz-Koyobasi Kızılçam 1
 
-Muğla'nın Koycegiz ilçesinde yer alan Koyobasi Kızılçam 1 milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal cennet, ziyaretçilerini yaban hayatının çeşitliliği ve eşsiz manzaralarıyla karşılar. Koycegiz'in bu gizli köşesi, doğa severlerin ve Photographerların gözdesi haline gelmiş durumda. Milli parkın sunduğu geniş alan, hem doğa yürüyüşleri için hem de piknik yapmak için ideal bir ortam sunuyor.
+ Bu doğal cennet, ziyaretçilerini yaban hayatının çeşitliliği ve eşsiz manzaralarıyla karşılar. Koycegiz'in bu gizli köşesi, doğa severlerin ve Photographerların gözdesi haline gelmiş durumda. Milli parkın sunduğu geniş alan, hem doğa yürüyüşleri için hem de piknik yapmak için ideal bir ortam sunuyor.
 
 ## Tarihçe
 

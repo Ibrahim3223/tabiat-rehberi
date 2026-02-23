@@ -28,7 +28,7 @@ wikidata_id: "Q31390674"
 
 # Akpelit Tepesi
 
-Amasya'nın güzide noktalarından biri olan Akpelit Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir dünya sunar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve doğal güzelliği ile dikkat çeker. Akpelit Tepesi, özellikle manzarası ile ön plana çıkarken, aynı zamanda zengin flora ve fauna çeşitliliği ile de dikkat çekmektedir. Doğa severlerin ve fotoğraf tutkunlarının keyif alacağı bir nokta olan Akpelit Tepesi, Amasya'nın önemli turizm noktalarından biridir.
+Amasya'nın güzide noktalarından biri olan Akpelit Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir dünya sunar. Akpelit Tepesi, özellikle manzarası ile ön plana çıkarken, aynı zamanda zengin flora ve fauna çeşitliliği ile de dikkat çekmektedir. Doğa severlerin ve fotoğraf tutkunlarının keyif alacağı bir nokta olan Akpelit Tepesi, Amasya'nın önemli turizm noktalarından biridir.
 
 ## Tarihçe
 

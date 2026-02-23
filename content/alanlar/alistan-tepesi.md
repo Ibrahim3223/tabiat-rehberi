@@ -28,7 +28,7 @@ wikidata_id: "Q31553377"
 
 # Alistan Tepesi
 
-Alistan Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Alistan Tepesi, ziyaretçilerini doğanın güzelliği ve tarihi ile karşılar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Alistan Tepesi, doğa severler ve tarihi sevenler için ideal bir gezi noktası.
+Alistan Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde bulunan bir tepe. Alistan Tepesi, ziyaretçilerini doğanın güzelliği ve tarihi ile karşılar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Alistan Tepesi, doğa severler ve tarihi sevenler için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Alistan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tepen
 
 ## Coğrafya
 
-Alistan Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını gösterir. Tepenin etrafında bulunan dağlar, vadiler ve nehirler, bölgenin coğrafi çeşitliliğini gösterir. Alistan Tepesi, 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, bölgenin coğrafi yapısını etkiler ve iklimi belirler. Alistan Tepesi'nin iklimi, bölgenin coğrafi konumuna göre değişir. Tepenin etrafında bulunan bitki türleri ve fauna, coğrafi yapı ile şekillenir.
+Alistan Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını gösterir. Tepenin etrafında bulunan dağlar, vadiler ve nehirler, bölgenin coğrafi çeşitliliğini gösterir. Tepenin yüksekliği, bölgenin coğrafi yapısını etkiler ve iklimi belirler. Alistan Tepesi'nin iklimi, bölgenin coğrafi konumuna göre değişir. Tepenin etrafında bulunan bitki türleri ve fauna, coğrafi yapı ile şekillenir.
 
 ## Flora ve Fauna
 

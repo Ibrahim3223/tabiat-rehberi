@@ -1,7 +1,7 @@
 ---
 title: "Cincıklı Hamamı"
 date: "2026-01-09T22:11:11.164Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q87817713"
 
 # Cincıklı Hamamı
 
-Cincıklı Hamamı, Diyarbakır'ın Sur ilçesinde bulunan ve yaklaşık 140 hektarlık bir alanı kapsayan tarihi bir plajdır. Bu plaj, Diyarbakır'ın en önemli doğal ve tarihi mekanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna tarafından çevrilidir. Cincıklı Hamamı, Diyarbakır'ın tarihini ve doğasını keşfetmek isteyen ziyaretçiler için ideal bir destinasyondur.
+Cincıklı Hamamı, Diyarbakır'ın Sur ilçesinde bulunan ve yaklaşık 140 hektarlık bir alanı kapsayan tarihi bir plajdır. Bu plaj, Diyarbakır'ın en önemli doğal ve tarihi mekanlarından biridir. Cincıklı Hamamı, Diyarbakır'ın tarihini ve doğasını keşfetmek isteyen ziyaretçiler için ideal bir destinasyondur.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu"
 date: "2026-01-10T04:25:08.296Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

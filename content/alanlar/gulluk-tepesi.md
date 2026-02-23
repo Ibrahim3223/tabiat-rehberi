@@ -28,7 +28,7 @@ wikidata_id: "Q32139128"
 
 # Güllük Tepesi
 
-Güllük Tepesi, Sakarya'nın Marmara Bölgesi'nde yer alan ve 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu alan, ziyaretçilerini çeşitli bitki türleri ve zengin fauna ile karşılar. Güllük Tepesi, hem doğa severler hem de tarihe meraklı olanlar için önemli bir destinasyondur. 1000 metreyi aşkın yüksekliği ile bölgenin en yüksek noktalarından biridir. Güllük Tepesi'nin etrafı, çeşitli ağaç türleri ile çevrili olup, mevsimsel değişimlerle birlikte renklenen manzaralar sunar.
+ Bu alan, ziyaretçilerini çeşitli bitki türleri ve zengin fauna ile karşılar. Güllük Tepesi, hem doğa severler hem de tarihe meraklı olanlar için önemli bir destinasyondur. 1000 metreyi aşkın yüksekliği ile bölgenin en yüksek noktalarından biridir. Güllük Tepesi'nin etrafı, çeşitli ağaç türleri ile çevrili olup, mevsimsel değişimlerle birlikte renklenen manzaralar sunar.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Güllük Tepesi, Sakarya'nın Marmara Bölgesi'nde yer alan bir tepe olarak, co�
 
 ## Flora ve Fauna
 
-Güllük Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölge, mevsimsel değişimlerle birlikte renklenen manzaralar sunar. Ağaç türleri, çalılıklar ve çeşitli bitki türleri, bölgenin doğal güzelliklerini oluşturur. Güllük Tepesi, aynı zamanda çeşitli hayvan türlerinin de yaşadığı bir bölgedir. Bölge, ekolojik dengesi ile dikkat çeker ve ziyaretçilerine, doğal bir ortamda, çeşitli bitki ve hayvan türleri ile karşılaşma fırsatı sunar. Güllük Tepesi, flora ve fauna açısından zengin bir bölge olup, ziyaretçilere, doğal güzellikleri ile unutulmaz bir deneyim sunar.
+ Bölge, mevsimsel değişimlerle birlikte renklenen manzaralar sunar. Ağaç türleri, çalılıklar ve çeşitli bitki türleri, bölgenin doğal güzelliklerini oluşturur. Güllük Tepesi, aynı zamanda çeşitli hayvan türlerinin de yaşadığı bir bölgedir. Bölge, ekolojik dengesi ile dikkat çeker ve ziyaretçilerine, doğal bir ortamda, çeşitli bitki ve hayvan türleri ile karşılaşma fırsatı sunar. Güllük Tepesi, flora ve fauna açısından zengin bir bölge olup, ziyaretçilere, doğal güzellikleri ile unutulmaz bir deneyim sunar.
 
 ## Ziyaret Bilgileri
 
@@ -48,8 +48,7 @@ Güllük Tepesi'ni ziyaret etmek, hem doğa severler hem de tarihe meraklı olan
 
 ## İlginç Bilgiler
 
-- Güllük Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
 - Güllük Tepesi, 1000 metreyi aşkın yüksekliği ile bölgenin en yüksek noktalarından biridir.
-- Güllük Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Güllük Tepesi, coğrafi olarak önemli bir konuma sahiptir.
 - Güllük Tepesi, yılın her döneminde ziyaret edilebilir.

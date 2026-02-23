@@ -22,7 +22,7 @@ wikidata_id: "Q108227360"
 
 # Acikise Ardic Agaci
 
-Acikise Ardic Agaci milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Parkın içinde yer alan arazi, yüksek bir konumda ve bu yükseklik, ziyaretçilere çevreyi izlemek için ideal bir nokta sunuyor. Ayrıca, parkın içindeki doğal kaynaklar, ziyaretçilerin susuzluğunu gidermek için yeterli.
+Acikise Ardic Agaci milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Parkın içinde yer alan arazi, yüksek bir konumda ve bu yükseklik, ziyaretçilere çevreyi izlemek için ideal bir nokta sunuyor. Ayrıca, parkın içindeki doğal kaynaklar, ziyaretçilerin susuzluğunu gidermek için yeterli.
 
 ## Tarihçe
 

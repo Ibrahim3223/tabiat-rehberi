@@ -1,7 +1,7 @@
 ---
 title: "Aspendos Liman Hamamı"
 date: "2026-01-09T23:29:33.909Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739045"
 
 # Aspendos Liman Hamamı
 
-Aspendos Liman Hamamı, Antalya'nın Serik ilçesinde bulunan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alanı kaplar. Bu alan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini etkisi altına alan bir yerdir. Aspendos Liman Hamamı, bölgenin en önemli tarihi ve turistik mekanlarından biridir ve ziyaretçilerine zengin bir deneyim sunar.
+Aspendos Liman Hamamı, Antalya'nın Serik ilçesinde bulunan bir tarihi ve doğal güzellik alanıdır. Bu alan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini etkisi altına alan bir yerdir. Aspendos Liman Hamamı, bölgenin en önemli tarihi ve turistik mekanlarından biridir ve ziyaretçilerine zengin bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Aspendos Liman Hamamı, tarihi geçmişi ile dikkat çeker. Bu alanda yapılan k
 
 ## Coğrafya
 
-Aspendos Liman Hamamı, Akdeniz Bölgesi'nde yer alan Antalya'nın Serik ilçesinde bulunur. Bu alan, 140 hektarlık geniş bir yeşil alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölgenin coğrafi özellikleri, ziyaretçilere geniş bir açık alan sunar. Aspendos Liman Hamamı, bölgenin iklimi ve coğrafi yapısı ile uyum içinde tasarlanmıştır. Bu alan, ziyaretçilerine geniş bir açık alan, temiz hava ve güneşli günler sunar. Aspendos Liman Hamamı'nın coğrafi konumu, ziyaretçilere bölgeyi keşfetme fırsatı sunar.
+Aspendos Liman Hamamı, Akdeniz Bölgesi'nde yer alan Antalya'nın Serik ilçesinde bulunur. Bölgenin coğrafi özellikleri, ziyaretçilere geniş bir açık alan sunar. Aspendos Liman Hamamı, bölgenin iklimi ve coğrafi yapısı ile uyum içinde tasarlanmıştır. Bu alan, ziyaretçilerine geniş bir açık alan, temiz hava ve güneşli günler sunar. Aspendos Liman Hamamı'nın coğrafi konumu, ziyaretçilere bölgeyi keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
-Aspendos Liman Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu alan, mevsimsel değişimlere uygun olarak tasarlanmıştır ve ziyaretçilere her mevsim farklı bir deneyim sunar. Bölgenin flora ve fauna özellikleri, ziyaretçilere bölgeyi keşfetme fırsatı sunar. Aspendos Liman Hamamı, doğa severlerin ziyaret edebileceği bir yerdir ve ziyaretçilerine zengin bir doğa deneyimi sunar.
+ Bu alan, mevsimsel değişimlere uygun olarak tasarlanmıştır ve ziyaretçilere her mevsim farklı bir deneyim sunar. Bölgenin flora ve fauna özellikleri, ziyaretçilere bölgeyi keşfetme fırsatı sunar. Aspendos Liman Hamamı, doğa severlerin ziyaret edebileceği bir yerdir ve ziyaretçilerine zengin bir doğa deneyimi sunar.
 
 ## Ziyaret Bilgileri
 

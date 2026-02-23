@@ -28,7 +28,7 @@ wikidata_id: "Q34829251"
 
 # Çıplak Tepesi
 
-İç Anadolu Bölgesi'nde yer alan Çıplak Tepesi, yaklaşık 140 hektarlık alanıyla dikkat çekici bir doğal güzellik sunuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ve fauna çeşitliliğiyle çevrelenmiş durumda. Çıplak Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle sürükleyen bir destinasyon olarak karşılıyor. Tepenin etrafında çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Bu bölge, doğa severler ve tarihi geçmişe meraklı olanlar için kaçırılmayacak bir fırsat sunuyor.
+İç Anadolu Bölgesi'nde yer alan Çıplak Tepesi, yaklaşık 140 hektarlık alanıyla dikkat çekici bir doğal güzellik sunuyor. Çıplak Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle sürükleyen bir destinasyon olarak karşılıyor. Tepenin etrafında çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Bu bölge, doğa severler ve tarihi geçmişe meraklı olanlar için kaçırılmayacak bir fırsat sunuyor.
 
 ## Tarihçe
 

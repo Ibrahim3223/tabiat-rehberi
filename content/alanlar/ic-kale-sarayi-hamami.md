@@ -1,7 +1,7 @@
 ---
 title: "İç Kale Sarayı Hamamı"
 date: "2026-01-09T23:19:53.861Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739021"
 
 # İç Kale Sarayı Hamamı
 
-İç Kale Sarayı Hamamı, Trabzon'un Ortahisar ilçesinde yer alan tarihi ve doğal güzelliklerin buluşma noktası. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli turistik merkezlerinden biri. Bu alanın tarihi geçmişi, yüzyıllar boyunca birçok medeniyetin izlerini taşıyor. İç Kale Sarayı Hamamı, ziyaretçilerini bir zaman yolculuğuna davet ediyor. Her köşesinde farklı bir hikaye, her taşında farklı bir geçmiş gizli. Bu özel mekan, hem tarih severler hem de doğaşığılar için unutulmaz bir deneyim sunuyor.
+İç Kale Sarayı Hamamı, Trabzon'un Ortahisar ilçesinde yer alan tarihi ve doğal güzelliklerin buluşma noktası. Bu alanın tarihi geçmişi, yüzyıllar boyunca birçok medeniyetin izlerini taşıyor. İç Kale Sarayı Hamamı, ziyaretçilerini bir zaman yolculuğuna davet ediyor. Her köşesinde farklı bir hikaye, her taşında farklı bir geçmiş gizli. Bu özel mekan, hem tarih severler hem de doğaşığılar için unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

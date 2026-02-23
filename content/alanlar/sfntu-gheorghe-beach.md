@@ -30,7 +30,7 @@ wikidata_id: "Q56008278"
 
 # Sfântu Gheorghe Beach
 
-Sfântu Gheorghe Beach, Hızırilyas'ta yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir plajdır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup ziyaretçilerine geniş bir hareket alanı sunar. Hızırilyas'ta bulunan bu plaj, aynı zamanda Tulcea ilinin önemli turizm merkezlerinden biri olarak bilinir. İç Anadolu Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Sfântu Gheorghe Beach, her yıl birçok ziyaretçi tarafından tercih edilmektedir.
+Sfântu Gheorghe Beach, Hızırilyas'ta yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir plajdır. Hızırilyas'ta bulunan bu plaj, aynı zamanda Tulcea ilinin önemli turizm merkezlerinden biri olarak bilinir. İç Anadolu Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Sfântu Gheorghe Beach, her yıl birçok ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 

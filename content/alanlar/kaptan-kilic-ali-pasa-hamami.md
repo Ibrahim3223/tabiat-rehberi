@@ -1,7 +1,7 @@
 ---
 title: "Kaptan Kılıç Ali Paşa Hamamı"
 date: "2026-01-09T22:45:54.820Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738544"
 
 # Kaptan Kılıç Ali Paşa Hamamı
 
-Kaptan Kılıç Ali Paşa Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir nokta. Beyoğlu'nda bulunan bu hamam, Marmara Bölgesi'nin güzelliklerini sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sağlıyor. İstanbul'un kalbinde yer alan Kaptan Kılıç Ali Paşa Hamamı, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sağlıyor.
+Kaptan Kılıç Ali Paşa Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir nokta. Beyoğlu'nda bulunan bu hamam, Marmara Bölgesi'nin güzelliklerini sunuyor. İstanbul'un kalbinde yer alan Kaptan Kılıç Ali Paşa Hamamı, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Kaptan Kılıç Ali Paşa Hamamı, tarihi geçmişiyle dikkat çekiyor. İstanbu
 
 ## Coğrafya
 
-Kaptan Kılıç Ali Paşa Hamamı, Beyoğlu'nda yer alıyor ve Marmara Bölgesi'nin güzelliklerini sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sağlıyor. İstanbul'un kalbinde yer alan bu hamam, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor. Hamamın çevresi, çeşitli bitki türleriyle zengin ve bu doğal güzellik, ziyaretçilere rahat bir gezi deneyimi sunuyor. Kaptan Kılıç Ali Paşa Hamamı, Marmara Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için önemli bir nokta. Coğrafi olarak önemli olan bu hamam, ziyaretçilerine geniş bir gezi alanı sunuyor.
+Kaptan Kılıç Ali Paşa Hamamı, Beyoğlu'nda yer alıyor ve Marmara Bölgesi'nin güzelliklerini sunuyor. İstanbul'un kalbinde yer alan bu hamam, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor. Hamamın çevresi, çeşitli bitki türleriyle zengin ve bu doğal güzellik, ziyaretçilere rahat bir gezi deneyimi sunuyor. Kaptan Kılıç Ali Paşa Hamamı, Marmara Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için önemli bir nokta. Coğrafi olarak önemli olan bu hamam, ziyaretçilerine geniş bir gezi alanı sunuyor.
 
 ## Flora ve Fauna
 
-Kaptan Kılıç Ali Paşa Hamamı, çeşitli bitki türleriyle zengin bir doğal güzelliğe sahip. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sağlıyor. Hamamın çevresi, çeşitli bitki türleriyle dolu ve bu doğal güzellik, ziyaretçilere rahat bir gezi deneyimi sunuyor. Kaptan Kılıç Ali Paşa Hamamı, Marmara Bölgesi'nin faunasını keşfetmek isteyenler için önemli bir nokta. Fauna ve flora açısından zengin olan bu hamam, ziyaretçilerine geniş bir doğal güzellik sunuyor.
+Kaptan Kılıç Ali Paşa Hamamı, çeşitli bitki türleriyle zengin bir doğal güzelliğe sahip. Hamamın çevresi, çeşitli bitki türleriyle dolu ve bu doğal güzellik, ziyaretçilere rahat bir gezi deneyimi sunuyor. Kaptan Kılıç Ali Paşa Hamamı, Marmara Bölgesi'nin faunasını keşfetmek isteyenler için önemli bir nokta. Fauna ve flora açısından zengin olan bu hamam, ziyaretçilerine geniş bir doğal güzellik sunuyor.
 
 ## Ziyaret Bilgileri
 

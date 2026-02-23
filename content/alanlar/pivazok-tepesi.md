@@ -28,7 +28,7 @@ wikidata_id: "Q31385509"
 
 # Pivazok Tepesi
 
-Pivazok Tepesi, Ağrı'nın muhteşem doğası içinde yer alan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Ağrı'nın coğrafi yapısı, Pivazok Tepesi'nin güzelliğini daha da artırıyor. Bu tepe, bölgenin önemli bir turizm merkezi haline gelmesi için elverişli bir konumda bulunuyor. Pivazok Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
+Pivazok Tepesi, Ağrı'nın muhteşem doğası içinde yer alan bir tepe. Ağrı'nın coğrafi yapısı, Pivazok Tepesi'nin güzelliğini daha da artırıyor. Bu tepe, bölgenin önemli bir turizm merkezi haline gelmesi için elverişli bir konumda bulunuyor. Pivazok Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Tarihçe
 

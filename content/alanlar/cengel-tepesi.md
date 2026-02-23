@@ -28,7 +28,7 @@ wikidata_id: "Q34828947"
 
 # Çengel Tepesi
 
-Çengel Tepesi, Denizli'nin Ege Bölgesi'nde yer alan bir tepe. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Denizli'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Çengel Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve yaban hayatı yaşamaktadır. Çengel Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak.
+Çengel Tepesi, Denizli'nin Ege Bölgesi'nde yer alan bir tepe. Denizli'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Çengel Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve yaban hayatı yaşamaktadır. Çengel Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak.
 
 ## Tarihçe
 

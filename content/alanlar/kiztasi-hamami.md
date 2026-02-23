@@ -1,7 +1,7 @@
 ---
 title: "Kıztaşı Hamamı"
 date: "2026-01-09T23:43:24.521Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739142"
 
 # Kıztaşı Hamamı
 
-Kıztaşı Hamamı, Fatih, İstanbul'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir bölgedir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş yeşil alan, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunar. Historik dokusu ve doğal güzelliği ile dikkat çeken bu mekan, İstanbul'un önemli turistik noktalarından biridir.
+Kıztaşı Hamamı, Fatih, İstanbul'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir bölgedir. Bu geniş yeşil alan, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunar. Historik dokusu ve doğal güzelliği ile dikkat çeken bu mekan, İstanbul'un önemli turistik noktalarından biridir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Kıztaşı Hamamı ve çevresini ziyaret etmek, hem tarihi hem de doğal güzell
 ## İlginç Bilgiler
 
 - Kıztaşı Hamamı, İstanbul'un en eski hamamlarından biridir.
-- Bu bölgede, çeşitli histórik eserler ve yapılar bulunmaktadır.
+- Bu bölgede, çeşitli tarihi eserler ve yapılar bulunmaktadır.
 - Kıztaşı Hamamı, çevresindeki yeşil alanlar ile önemli bir ekolojik bölge olarak kabul edilir.
 - Bu mekan, aynı zamanda sosyal ve kültürel etkinliklere ev sahipliği yapmaktadır.
 - Ziyaretçiler, bu bölgede geleneksel Türk mutfağından çeşitli lezzetler tadabilirler.

@@ -1,7 +1,7 @@
 ---
 title: "Hacı Bayram-ı Veli Camii Hamamı"
 date: "2026-01-10T00:01:45.688Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245847"
 
 # Hacı Bayram-ı Veli Camii Hamamı
 
-Hacı Bayram-ı Veli Camii Hamamı, Ankara'nın Altındağ ilçesinde, İç Anadolu Bölgesi'nin kalbinde yer alan tarihi ve kültürel bir hazinedir. Bu önemli mekan, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur, ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hacı Bayram-ı Veli Camii Hamamı, sadece Ankara'nın değil, tüm Türkiye'nin önemli dini ve kültürel merkezlerinden biridir. Bu yer, zengin tarihi geçmişi ve mimari güzelliği ile ziyaretçilerini büyüler.
+Hacı Bayram-ı Veli Camii Hamamı, Ankara'nın Altındağ ilçesinde, İç Anadolu Bölgesi'nin kalbinde yer alan tarihi ve kültürel bir hazinedir. Hacı Bayram-ı Veli Camii Hamamı, sadece Ankara'nın değil, tüm Türkiye'nin önemli dini ve kültürel merkezlerinden biridir. Bu yer, zengin tarihi geçmişi ve mimari güzelliği ile ziyaretçilerini büyüler.
 
 ## Tarihçe
 

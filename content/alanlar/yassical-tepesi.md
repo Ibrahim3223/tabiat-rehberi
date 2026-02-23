@@ -28,7 +28,7 @@ wikidata_id: "Q32195094"
 
 # Yassıçal Tepesi
 
-Yassıçal Tepesi, Samsun'un gözde noktalarından biridir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplar ve ziyaretçilerine Karadeniz Bölgesi'nin eşsiz manzarasını sunar. Tepenin eteklerinde yer alan köyler, geleneksel mimarisi ve misafirperver halkı ile dikkat çeker. Yassıçal Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir destinasyondur.
+Yassıçal Tepesi, Samsun'un gözde noktalarından biridir. Tepenin eteklerinde yer alan köyler, geleneksel mimarisi ve misafirperver halkı ile dikkat çeker. Yassıçal Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir destinasyondur.
 
 ## Tarihçe
 

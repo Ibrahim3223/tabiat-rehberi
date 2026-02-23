@@ -55,7 +55,7 @@ Durmuş Dağı, Aydın'ın zeytinliklerle çevrili eteklerine hakim bir dağ eko
 
 Bitki örtüsünün hakim türleri arasında çam ağaçları ve zeytin ağaçları bulunur. Mevsimsel değişimlerle birlikte, dağda farklı türlerin görüldüğü gözlemlenir. Sonbaharda, göçmen kuşlar dağ üzerinden geçerken, dağ keçileri ve diğer memeliler mevsimsel olarak göç ederler. Sürüngenler ve kuşlar, dağın yükseklik zonalarına adapte olmuş türlerdir.
 
-Durmuş Dağı, ekolojik değerini yükseklik zonları, alpin flora ve dağ hayvanları ile sağlar. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini korumak açısından önemlidir. Zeytinliklerle iç içe olan çam ormanları, bölgenin karakteristik özelliklerini oluştururken, dağın yükseklik zonları farklı türlerin yaşam alanlarını sağlar.
+Durmuş Dağı, ekolojik değerini yükseklik zonları, alpin flora ve dağ hayvanları ile sağlar. Zeytinliklerle iç içe olan çam ormanları, bölgenin karakteristik özelliklerini oluştururken, dağın yükseklik zonları farklı türlerin yaşam alanlarını sağlar.
 
 ## Ziyaret Bilgileri
 

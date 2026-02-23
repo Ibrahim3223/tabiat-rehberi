@@ -1,7 +1,7 @@
 ---
 title: "Uçhisar Cevizlibağ Sit Alanı"
 date: "2026-01-09T18:57:43.992Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -23,7 +23,7 @@ wikidata_id: "Q108226231"
 
 # Uçhisar Cevizlibağ Sit Alanı
 
-Uçhisar Cevizlibağ Sit Alanı, İç Anadolu Bölgesi'nin zengin doğal güzelliklerini sunan bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Uçhisar Cevizlibağ Sit Alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve bu deneyimi zenginleştirmek için çeşitli olanaklar sunuyor.
+Uçhisar Cevizlibağ Sit Alanı, İç Anadolu Bölgesi'nin zengin doğal güzelliklerini sunan bir alan olarak dikkat çekiyor. Uçhisar Cevizlibağ Sit Alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve bu deneyimi zenginleştirmek için çeşitli olanaklar sunuyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Uçhisar Cevizlibağ Sit Alanı, tarihi geçmişiyle de dikkat çekiyor. Bu alan
 
 ## Coğrafya
 
-Uçhisar Cevizlibağ Sit Alanı, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, Ankara'nın güneydoğusunda yer alan bir bölgedir ve Uçhisar Cevizlibağ Sit Alanı, bu bölgenin önemli güzelliklerinden biri olarak kabul ediliyor. Alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Uçhisar Cevizlibağ Sit Alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve bu deneyimi zenginleştirmek için çeşitli olanaklar sunuyor. Alanın coğrafi konumu, ziyaretçilere bölgenin güzelliklerini keşfetmek için bir fırsat sunuyor.
+Uçhisar Cevizlibağ Sit Alanı, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, Ankara'nın güneydoğusunda yer alan bir bölgedir ve Uçhisar Cevizlibağ Sit Alanı, bu bölgenin önemli güzelliklerinden biri olarak kabul ediliyor. Uçhisar Cevizlibağ Sit Alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve bu deneyimi zenginleştirmek için çeşitli olanaklar sunuyor. Alanın coğrafi konumu, ziyaretçilere bölgenin güzelliklerini keşfetmek için bir fırsat sunuyor.
 
 ## Flora ve Fauna
 
@@ -39,7 +39,7 @@ Uçhisar Cevizlibağ Sit Alanı, çeşitli bitki türleri ve zengin fauna ile di
 
 ## Ziyaret Bilgileri
 
-Uçhisar Cevizlibağ Sit Alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Uçhisar Cevizlibağ Sit Alanı, ziyaretçilerine çeşitli olanaklar sunuyor ve bu olanaklar, ziyaretçilere bölgenin güzelliklerini keşfetmek için bir fırsat sunuyor.
+Uçhisar Cevizlibağ Sit Alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Uçhisar Cevizlibağ Sit Alanı, ziyaretçilerine çeşitli olanaklar sunuyor ve bu olanaklar, ziyaretçilere bölgenin güzelliklerini keşfetmek için bir fırsat sunuyor.
 
 ## İlginç Bilgiler
 

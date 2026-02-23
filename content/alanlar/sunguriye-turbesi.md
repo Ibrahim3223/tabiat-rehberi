@@ -1,7 +1,7 @@
 ---
 title: "Sunguriye Türbesi"
 date: "2026-01-10T04:52:14.267Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q118188330"
 
 # Sunguriye Türbesi
 
-Sunguriye Türbesi, Tokat ilinin Niksar ilçesinde, Karadeniz kıyısında yer alan tarihi bir türbedir. Bu türbe, yaklaşık 140 hektarlık bir yeşil alanın içerisinde bulunuyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Sunguriye Türbesi, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir arada sunuyor. Türbenin bulunduğu bölge, yemyeşil ormanlarla çevrilidir ve bu ormanlar, birçok bitki türüne ev sahipliği yapıyor. Türbe, Karadeniz kıyısında olması sebebiyle, ziyaretçilere bölgenin güzelliklerini keşfetme fırsatı sunuyor.
+Sunguriye Türbesi, Tokat ilinin Niksar ilçesinde, Karadeniz kıyısında yer alan tarihi bir türbedir. Sunguriye Türbesi, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir arada sunuyor. Türbenin bulunduğu bölge, yemyeşil ormanlarla çevrilidir ve bu ormanlar, birçok bitki türüne ev sahipliği yapıyor. Türbe, Karadeniz kıyısında olması sebebiyle, ziyaretçilere bölgenin güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

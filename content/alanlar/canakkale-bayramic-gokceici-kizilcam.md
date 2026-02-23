@@ -22,7 +22,7 @@ wikidata_id: "Q108227642"
 
 # Canakkale-Bayramic-Gokceici Kızılçam
 
-İç Anadolu Bölgesi'nin kalbinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan, 140 hektarlık Canakkale-Bayramic-Gokceici Kızılçam milli parkı, ziyaretçilerini doğanın kucağına davet ediyor. Bu cennet, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak sunuyor.
+ Bu cennet, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak sunuyor.
 
 ## Tarihçe
 

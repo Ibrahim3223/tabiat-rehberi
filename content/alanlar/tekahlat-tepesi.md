@@ -28,7 +28,7 @@ wikidata_id: "Q31390073"
 
 # Tekahlat Tepesi
 
-Tekahlat Tepesi, Ankara'nın kalbinde yer alan ve şehrin doğal güzelliklerinin başında gelen bir noktadır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğa alanını keşfetme fırsatı sunuyor. Bu tepe, Ankara'nın coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir nokta. Ziyaretçiler, tepeye çıkarak şehrin panoramik manzarasını seyretme fırsatı bulurken, aynı zamanda çevredeki flora ve fauna hakkında bilgi edinebilirler.
+Tekahlat Tepesi, Ankara'nın kalbinde yer alan ve şehrin doğal güzelliklerinin başında gelen bir noktadır. Bu tepe, Ankara'nın coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir nokta. Ziyaretçiler, tepeye çıkarak şehrin panoramik manzarasını seyretme fırsatı bulurken, aynı zamanda çevredeki flora ve fauna hakkında bilgi edinebilirler.
 
 ## Tarihçe
 

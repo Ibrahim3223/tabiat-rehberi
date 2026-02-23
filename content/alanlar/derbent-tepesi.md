@@ -28,7 +28,7 @@ wikidata_id: "Q31389071"
 
 # Derbent Tepesi
 
-Derbent Tepesi, Erzurum'un eşsiz doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahiptir. Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bu tepe, ziyaretçilerini büyüleyici manzarasıyla karşılar. Derbent Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir gezi noktasıdır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve mevsimsel değişimlerle birlikte bu bitkilerin renkleri değişir. Derbent Tepesi, ziyaretçilerine hem doğayla iç içe bir deneyim hem de tarihi bir yolculuk sunar.
+Derbent Tepesi, Erzurum'un eşsiz doğal güzelliklerinden biridir. Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bu tepe, ziyaretçilerini büyüleyici manzarasıyla karşılar. Derbent Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir gezi noktasıdır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve mevsimsel değişimlerle birlikte bu bitkilerin renkleri değişir. Derbent Tepesi, ziyaretçilerine hem doğayla iç içe bir deneyim hem de tarihi bir yolculuk sunar.
 
 ## Tarihçe
 

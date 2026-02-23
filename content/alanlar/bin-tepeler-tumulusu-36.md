@@ -29,7 +29,7 @@ wikidata_id: "Q134728340"
 
 # Bin Tepeler Tümülüsü 36
 
-Bin Tepeler Tümülüsü 36, Ege Bölgesi'nin tarihi zenginliklerini barındıran önemli bir arkeolojik alandır. 140 hektarlık geniş bir alanda yer alan bu tümülüs, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere tarihi bir yolculuk sunar. Bin Tepeler Tümülüsü 36, tarihi geçmişi ve kültürel önemi ile dikkat çekmektedir. Ziyaretçiler, bu alanda yapılan kazılar ve araştırmalar hakkında bilgi edinebilir ve tarihi eserleri yakından görebilirler. Bin Tepeler Tümülüsü 36, tarih meraklıları ve arkeoloji severler için önemli bir destinasyondur.
+Bin Tepeler Tümülüsü 36, Ege Bölgesi'nin tarihi zenginliklerini barındıran önemli bir arkeolojik alandır. Bu geniş alan, ziyaretçilere tarihi bir yolculuk sunar. Bin Tepeler Tümülüsü 36, tarihi geçmişi ve kültürel önemi ile dikkat çekmektedir. Ziyaretçiler, bu alanda yapılan kazılar ve araştırmalar hakkında bilgi edinebilir ve tarihi eserleri yakından görebilirler. Bin Tepeler Tümülüsü 36, tarih meraklıları ve arkeoloji severler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 36'nın tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 36, Ege Bölgesi'nin coğrafi yapısına uygun olarak tasarlanmıştır. 140 hektarlık geniş bir alanda yer alan bu tümülüs, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere tarihi bir yolculuk sunar. Bin Tepeler Tümülüsü 36, coğrafi konumu itibariyle önemli bir destinasyondur. Ziyaretçiler, tümülüsün coğrafi yapısı hakkında bilgi edinebilir ve tarihi eserleri yakından görebilirler. Bin Tepeler Tümülüsü 36, Ege Bölgesi'nin coğrafi zenginliklerini koruma ve tanıtmak amacıyla yapılan çalışmalara ev sahipliği yapmaktadır. Bu çalışmalar, tümülüsün coğrafi yapısı hakkında daha fazla bilgi edinilmesini sağlamaktadır. Bin Tepeler Tümülüsü 36, çevresindeki diğer tarihi eserlerle birlikte önemli bir kültürel ve tarihi bölge oluşturmaktadır.
+Bin Tepeler Tümülüsü 36, Ege Bölgesi'nin coğrafi yapısına uygun olarak tasarlanmıştır. Bu geniş alan, ziyaretçilere tarihi bir yolculuk sunar. Bin Tepeler Tümülüsü 36, coğrafi konumu itibariyle önemli bir destinasyondur. Ziyaretçiler, tümülüsün coğrafi yapısı hakkında bilgi edinebilir ve tarihi eserleri yakından görebilirler. Bin Tepeler Tümülüsü 36, Ege Bölgesi'nin coğrafi zenginliklerini koruma ve tanıtmak amacıyla yapılan çalışmalara ev sahipliği yapmaktadır. Bu çalışmalar, tümülüsün coğrafi yapısı hakkında daha fazla bilgi edinilmesini sağlamaktadır. Bin Tepeler Tümülüsü 36, çevresindeki diğer tarihi eserlerle birlikte önemli bir kültürel ve tarihi bölge oluşturmaktadır.
 
 ## Flora ve Fauna
 

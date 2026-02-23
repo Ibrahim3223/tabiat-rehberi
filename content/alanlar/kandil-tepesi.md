@@ -28,7 +28,7 @@ wikidata_id: "Q31388404"
 
 # Kandil Tepesi
 
-Kandil Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Muş ilinde yer alır. Bu tepe, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Kandil Tepesi'nin eteklerinde çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşılabilecek bir bölgedir. Bu bölge, hem doğa severlerin hem de tarihe meraklı olanların ziyaret edebileceği bir yerdir. Kandil Tepesi, Muş'un tarihi geçmişi ile de önemli bir noktada yer alır.
+Kandil Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Muş ilinde yer alır. Kandil Tepesi'nin eteklerinde çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşılabilecek bir bölgedir. Bu bölge, hem doğa severlerin hem de tarihe meraklı olanların ziyaret edebileceği bir yerdir. Kandil Tepesi, Muş'un tarihi geçmişi ile de önemli bir noktada yer alır.
 
 ## Tarihçe
 

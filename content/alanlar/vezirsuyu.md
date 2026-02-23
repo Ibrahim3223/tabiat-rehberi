@@ -23,7 +23,7 @@ wikidata_id: "Q108228268"
 
 # Vezirsuyu
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Vezirsuyu milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Vezirsuyu, doğa severler ve turistler için bir cennet harika bir deneyim. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli park, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir rol oynuyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan Vezirsuyu milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Vezirsuyu, doğa severler ve turistler için bir cennet harika bir deneyim. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli park, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir rol oynuyor.
 
 ## Tarihçe
 

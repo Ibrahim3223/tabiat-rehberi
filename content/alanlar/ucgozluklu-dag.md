@@ -32,7 +32,7 @@ Kars'ın büyüleyici dağ manzaraları arasında yer alan Üçgözlüklü Dağ,
 
 ## Tarihçe
 
-Kars bölgesi, tarihin en eski uygarlıklarından beri önemli bir yerleşim ve ticaret merkezi olmuştur. Bölge, Selçuklular, Osmanlılar ve diğer birçok medeniyete ev sahipliği yapmış, kültürel ve tarihi zenginliklere sahip bir coğrafyadır. 
+Kars bölgesi, tarihin en eski uygarlıklarından beri önemli bir yerleşim ve ticaret merkezi olmuştur. Bölge, Selçuklular, Osmanlılar ve diğer birçok medeniyete ev sahipliği yapmış, kültürel ve tarihi zenginliklere sahip bir coğrafyadır.
 
 "Üçgözlüklü Dağ" gibi doğal alanlar, Türkiye'nin tarihi boyunca önemli bir role sahip olmuştur. Bu alanlar, insanların yaşamlarını sürdürmeleri için gerekli olan doğal kaynakları sunmuş, aynı zamanda ticaret yolları ve yaylacılık faaliyetleri için stratejik noktalar olarak kullanılmışlardır. Kars bölgesinde, özellikle hayvancılık faaliyetleri için elverişli olan bu doğal alanlar, bölgenin ekonomi ve sosyal yapısının şekillenmesinde önemli bir rol oynamıştır.
 

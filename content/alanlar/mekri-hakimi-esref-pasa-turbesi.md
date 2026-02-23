@@ -1,7 +1,7 @@
 ---
 title: "Mekri Hakimi Eşref Paşa Türbesi"
 date: "2026-01-10T05:05:12.953Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391579"
 
 # Mekri Hakimi Eşref Paşa Türbesi
 
-Mekri Hakimi Eşref Paşa Türbesi, Muğla'nın Seydikemer ilçesinde, Ege Bölgesi'nin muhteşem doğası içinde yer alan bir tarihi ve kültürel mekân. Bu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeye yayılmış durumda. Tarihi geçmişinin yanı sıra, çevredeki doğal güzellikler de ziyaretçilerin ilgisini çekiyor. Ziyaretçiler, hem tarihin izlerini takip edebiliyor hem de doğanın güzelliğini keşfedebiliyor.
+Mekri Hakimi Eşref Paşa Türbesi, Muğla'nın Seydikemer ilçesinde, Ege Bölgesi'nin muhteşem doğası içinde yer alan bir tarihi ve kültürel mekân. Tarihi geçmişinin yanı sıra, çevredeki doğal güzellikler de ziyaretçilerin ilgisini çekiyor. Ziyaretçiler, hem tarihin izlerini takip edebiliyor hem de doğanın güzelliğini keşfedebiliyor.
 
 ## Tarihçe
 

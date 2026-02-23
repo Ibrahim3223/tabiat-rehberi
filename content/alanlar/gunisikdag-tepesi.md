@@ -28,7 +28,7 @@ wikidata_id: "Q34873345"
 
 # Günışıkdağ Tepesi
 
-Günışıkdağ Tepesi, Şanlıurfa'nın güneydoğu kesiminde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Bu tepe, bölgenin coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, bölgenin doğal güzelliklerini gözler önüne seriyor. Günışıkdağ Tepesi, Şanlıurfa'nın tarihi ve coğrafi güzelliklerini bir araya getiren özel bir mekan.
+Günışıkdağ Tepesi, Şanlıurfa'nın güneydoğu kesiminde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Bu tepe, bölgenin coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta. Günışıkdağ Tepesi, Şanlıurfa'nın tarihi ve coğrafi güzelliklerini bir araya getiren özel bir mekan.
 
 ## Tarihçe
 

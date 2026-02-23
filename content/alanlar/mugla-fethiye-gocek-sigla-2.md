@@ -22,7 +22,7 @@ wikidata_id: "Q108228010"
 
 # Mugla-Fethiye-Gocek Sigla 2
 
-Mugla-Fethiye-Gocek Sigla 2, Muğla'nın Ege Bölgesi'nde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve oldukça geniş bir yeşillik alanı sunar. Bu milli park, doğa severler için bir cennet olup, birçok bitki ve hayvan türüne ev sahipliği yapar. Göcek'e uzun bir mesafe uzaklıkta bulunan bu milli park, ziyaretçilerine hem doğayla iç içe bir deneyim hem de tarihi ve kültürel zenginlikler sunar. Milli parka gelen ziyaretçiler, burada yapabilecekleri birçok aktivite ile keyifli zaman geçirebilir.
+Mugla-Fethiye-Gocek Sigla 2, Muğla'nın Ege Bölgesi'nde yer alan bir milli parktır. Bu milli park, doğa severler için bir cennet olup, birçok bitki ve hayvan türüne ev sahipliği yapar. Göcek'e uzun bir mesafe uzaklıkta bulunan bu milli park, ziyaretçilerine hem doğayla iç içe bir deneyim hem de tarihi ve kültürel zenginlikler sunar. Milli parka gelen ziyaretçiler, burada yapabilecekleri birçok aktivite ile keyifli zaman geçirebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mugla-Fethiye-Gocek Sigla 2 milli parkının tarihi geçmişi oldukça eskidir. 
 
 ## Coğrafya
 
-Mugla-Fethiye-Gocek Sigla 2 milli parkı, Ege Bölgesi'nin en güzel coğrafyalarından birini sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve oldukça geniş bir yeşillik alanıdır. Bu milli park, denize yakın bir konumda yer alır ve yüksek bir konumdadir. İklimi, Akdeniz ikliminin karakteristik özellikleri taşır ve yazları sıcak, kışları ılımandır. Milli parkın coğrafyası, ziyaretçilere birçok farklı peyzaj sunar. Burada, ormanlar, çayırlar ve kayalık alanlar bulunur. Ziyaretçiler, bu çeşitli coğrafyaları keşfederek, doğanın güzelliğini yakından görebilirler.
+Mugla-Fethiye-Gocek Sigla 2 milli parkı, Ege Bölgesi'nin en güzel coğrafyalarından birini sunar. Bu milli park, denize yakın bir konumda yer alır ve yüksek bir konumdadir. İklimi, Akdeniz ikliminin karakteristik özellikleri taşır ve yazları sıcak, kışları ılımandır. Milli parkın coğrafyası, ziyaretçilere birçok farklı peyzaj sunar. Burada, ormanlar, çayırlar ve kayalık alanlar bulunur. Ziyaretçiler, bu çeşitli coğrafyaları keşfederek, doğanın güzelliğini yakından görebilirler.
 
 ## Flora ve Fauna
 

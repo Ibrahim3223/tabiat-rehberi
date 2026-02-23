@@ -22,7 +22,7 @@ wikidata_id: "Q108228897"
 
 # DENİZLİ ÇAL KANYONU
 
-Denizli Çal Kanyonu, İç Anadolu Bölgesi'nin gizli güzelliği olarak bilinir. 140 hektarlık yeşil vadi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu muazzam doğal alan, ziyaretçilerini büyüleyici manzaraları ve zengin fauna ile karşılar. Çal Kanyonu, aynı zamanda bir milli park olarak koruma altına alınmıştır. Bu sayede, doğa severler için ideal bir destinasyon haline gelmiştir. Kanyonun etrafında yer alan dağlar ve vadiler, ziyaretçilere keşfedilecek birçok yol ve rota sunar.
+Denizli Çal Kanyonu, İç Anadolu Bölgesi'nin gizli güzelliği olarak bilinir. Bu muazzam doğal alan, ziyaretçilerini büyüleyici manzaraları ve zengin fauna ile karşılar. Çal Kanyonu, aynı zamanda bir milli park olarak koruma altına alınmıştır. Bu sayede, doğa severler için ideal bir destinasyon haline gelmiştir. Kanyonun etrafında yer alan dağlar ve vadiler, ziyaretçilere keşfedilecek birçok yol ve rota sunar.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ wikidata_id: "Q49634382"
 
 ## Tarihçe
 
-İzmir bölgesi, tarihin en eski uygarlıklarına ev sahipliği yapmış bir coğrafyadır. Bölge, Hitit, Lidya, Pers ve Roma gibi medeniyetlerin izlerini taşıyor. Bu zengin tarih, doğal güzellikleri ile birleşerek, bölgenin kültürel ve coğrafi önemini vurguluyor. 
+İzmir bölgesi, tarihin en eski uygarlıklarına ev sahipliği yapmış bir coğrafyadır. Bölge, Hitit, Lidya, Pers ve Roma gibi medeniyetlerin izlerini taşıyor. Bu zengin tarih, doğal güzellikleri ile birleşerek, bölgenin kültürel ve coğrafi önemini vurguluyor.
 
 Bölme Adası gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahip. Bu alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, yaylacılık ve hayvancılık yapan yerler olarak görev görmüş. Ayrıca, ticaret yolları üzerinde bulunan bu gibi alanlar, tarihi ticaret merkezleri arasında önemli birer durak noktası olarak hizmet vermiş.
 

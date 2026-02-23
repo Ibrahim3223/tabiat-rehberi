@@ -22,7 +22,7 @@ wikidata_id: "Q108227972"
 
 # Adapazari-Akyazi-Dokurcun Saricam 2
 
-Adapazari-Akyazi-Dokurcun Saricam 2 milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu milli park, doğa severlerin ve macera arayanların buluşma noktası olarak hizmet veriyor. İnsanlık tarihi boyunca önemli bir geçiş noktası olan bu bölge, günümüzde de doğal güzelliği ve zengin fauna çeşitliliği ile ziyaretçilerini cezbediyor.
+Adapazari-Akyazi-Dokurcun Saricam 2 milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu milli park, doğa severlerin ve macera arayanların buluşma noktası olarak hizmet veriyor. İnsanlık tarihi boyunca önemli bir geçiş noktası olan bu bölge, günümüzde de doğal güzelliği ve zengin fauna çeşitliliği ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

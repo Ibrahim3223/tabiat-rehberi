@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Hocenti Türbesi"
 date: "2026-01-10T05:46:04.971Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582353"
 
 # Şeyh Hocenti Türbesi
 
-Şeyh Hocenti Türbesi, Konya'nın Çumra ilçesinde yer alan önemli bir tarihi ve dini mekan olarak kabul edilir. Bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şeyh Hocenti Türbesi, hem dini hem de tarihi öneme sahip bir yapı olarak bilinir ve ziyaretçilerini geniş ve yeşil bir alanda ağırlar. Türbenin etrafında bulunan doğal güzellikler ve tarihi yapılar, ziyaretçilere zengin bir deneyim sunar.
+Şeyh Hocenti Türbesi, Konya'nın Çumra ilçesinde yer alan önemli bir tarihi ve dini mekan olarak kabul edilir. Şeyh Hocenti Türbesi, hem dini hem de tarihi öneme sahip bir yapı olarak bilinir ve ziyaretçilerini geniş ve yeşil bir alanda ağırlar. Türbenin etrafında bulunan doğal güzellikler ve tarihi yapılar, ziyaretçilere zengin bir deneyim sunar.
 
 ## Tarihçe
 

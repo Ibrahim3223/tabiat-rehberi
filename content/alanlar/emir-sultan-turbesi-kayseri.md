@@ -1,7 +1,7 @@
 ---
 title: "Emir Sultan Türbesi, Kayseri"
 date: "2026-01-10T06:40:28.626Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -30,7 +30,7 @@ wikidata_id: "Q132134440"
 
 # Emir Sultan Türbesi, Kayseri
 
-Emir Sultan Türbesi, Kayseri'nin Melikgazi ilçesinde yer alan tarihi ve dini bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Emir Sultan Türbesi, Kayseri'nin önemli kültürel ve tarihi mekanlarından biri olarak kabul edilir. Türbenin etrafında, çeşitli tarihi yapılar ve anıtlar bulunur. Bu yapılar, Kayseri'nin zengin tarihi geçmişini yansıtan önemli eserlerdir. Emir Sultan Türbesi, her yıl çok sayıda ziyaretçi tarafından ziyaret edilir. Ziyaretçiler, türbenin tarihi ve kültürel önemini keşfetmek için gelirler. Türbe, Kayseri'nin önemli turistik mekanlarından biridir.
+Emir Sultan Türbesi, Kayseri'nin Melikgazi ilçesinde yer alan tarihi ve dini bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Emir Sultan Türbesi, Kayseri'nin önemli kültürel ve tarihi mekanlarından biri olarak kabul edilir. Türbenin etrafında, çeşitli tarihi yapılar ve anıtlar bulunur. Bu yapılar, Kayseri'nin zengin tarihi geçmişini yansıtan önemli eserlerdir. Emir Sultan Türbesi, her yıl çok sayıda ziyaretçi tarafından ziyaret edilir. Ziyaretçiler, türbenin tarihi ve kültürel önemini keşfetmek için gelirler. Türbe, Kayseri'nin önemli turistik mekanlarından biridir.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Emir Sultan Türbesi, tarihi geçmişi ile dikkat çeker. Türbe, yüzyıllar bo
 
 ## Coğrafya
 
-Emir Sultan Türbesi, Kayseri'nin Melikgazi ilçesinde yer alır. Türbe, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle kura ve karasal bir iklime sahiptir. Emir Sultan Türbesi, yüksek bir konumda yer alır. Türbenin etrafı, históri ve doğal güzelliklerle çevrilidir. Türbe, Kayseri'nin şehir merkezine yakındır. Şehir merkezinden, kolayca ulaşılabilir. Emir Sultan Türbesi, ziyaretçilere şehrin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Türbenin coğrafi konumu, ziyaretçilerin diğer tarihi ve kültürel mekanlara da ulaşmasını kolaylaştırır. Emir Sultan Türbesi, Kayseri'nin coğrafi ve kültürel açıdan önemli bir noktasıdır.
+Emir Sultan Türbesi, Kayseri'nin Melikgazi ilçesinde yer alır. Türbe, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle kura ve karasal bir iklime sahiptir. Emir Sultan Türbesi, yüksek bir konumda yer alır. Türbenin etrafı, tarihi ve doğal güzelliklerle çevrilidir. Türbe, Kayseri'nin şehir merkezine yakındır. Şehir merkezinden, kolayca ulaşılabilir. Emir Sultan Türbesi, ziyaretçilere şehrin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Türbenin coğrafi konumu, ziyaretçilerin diğer tarihi ve kültürel mekanlara da ulaşmasını kolaylaştırır. Emir Sultan Türbesi, Kayseri'nin coğrafi ve kültürel açıdan önemli bir noktasıdır.
 
 ## Flora ve Fauna
 
-Emir Sultan Türbesi, çeşitli bitki türlerine ev sahipliği yapar. Türbenin etrafı, histórik ağaçlar ve çiçeklerle çevrilidir. Bahar mevsiminde, türbenin etrafı rengarenk çiçeklerle dolu olur. Türbenin bahçesinde, çeşitli ağaçlar ve bitkiler bulunur. Bu bitkiler, ziyaretçilere doğal bir güzellik sunar. Emir Sultan Türbesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Türbenin etrafında, kuşlar ve diğer küçük hayvanlar bulunur. Bu hayvanlar, ziyaretçilere doğanın güzelliğini gösterir. Emir Sultan Türbesi, doğanın ve kültürün bir araya geldiği bir yerdir.
+Emir Sultan Türbesi, çeşitli bitki türlerine ev sahipliği yapar. Türbenin etrafı, tarihi ağaçlar ve çiçeklerle çevrilidir. Bahar mevsiminde, türbenin etrafı rengarenk çiçeklerle dolu olur. Türbenin bahçesinde, çeşitli ağaçlar ve bitkiler bulunur. Bu bitkiler, ziyaretçilere doğal bir güzellik sunar. Emir Sultan Türbesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Türbenin etrafında, kuşlar ve diğer küçük hayvanlar bulunur. Bu hayvanlar, ziyaretçilere doğanın güzelliğini gösterir. Emir Sultan Türbesi, doğanın ve kültürün bir araya geldiği bir yerdir.
 
 ## Ziyaret Bilgileri
 

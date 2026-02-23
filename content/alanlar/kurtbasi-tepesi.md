@@ -28,7 +28,7 @@ wikidata_id: "Q31389994"
 
 # Kurtbaşı Tepesi
 
-Kurtbaşı Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin panoramik manzarasını sunmaktadır. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili olup, ziyaretçilere doğayla iç içe bir ortam sunar. Kurtbaşı Tepesi, hem yerel halk hem de turistik amaçla gelen ziyaretçiler için keyifli bir gezi noktası olarak bilinmektedir.
+Kurtbaşı Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Tepenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili olup, ziyaretçilere doğayla iç içe bir ortam sunar. Kurtbaşı Tepesi, hem yerel halk hem de turistik amaçla gelen ziyaretçiler için keyifli bir gezi noktası olarak bilinmektedir.
 
 ## Tarihçe
 

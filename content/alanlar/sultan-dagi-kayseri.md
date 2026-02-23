@@ -32,11 +32,11 @@ Sultan Dağı, Kayseri'nin görkemli manzarasına ev sahipliği yapan bir doğal
 
 ## Tarihçe
 
-Sultan Dağı, Kayseri'nin tarihi ve kültürel zenginliklerle dolu coğrafyasında yer alır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Hitit, Roma ve Bizans uygarlıkları, Kayseri'nin stratejik konumu nedeniyle burada yaşamlarını sürdürmüşlerdir. Sultan Dağı da, bu uygarlıkların izlerini taşıyan bir doğal alan olarak dikkat çeker.
+Sultan Dağı, Kayseri'nin tarihi ve kültürel zenginliklerle dolu coğrafyasında yer alır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Hitit, Roma ve Bizans uygarlıkları, Kayseri'nin stratejik konumu nedeniyle burada yaşamlarını sürdürmüşlerdir. Sultan Dağı da, bu uygarlıkların izlerini taşıyan bir doğal alan olarak dikkat çeker.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. İnsanlar, bu alanları yalnızca doğal güzellikleri için değil, aynı zamanda ekonomi ve kültürel faaliyetler için de kullanmışlardır. Yaylacılık, hayvancılık ve ticaret yolları, bu doğal alanların etrafında şekillenen wichtig ekonomik faaliyetlerdir. Sultan Dağı da, bu faaliyetlerin bir parçası olarak, bölgenin tarihi ve kültürel dokusuna katkıda bulunmuştur.
 
-Kayseri'nin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alır. Bu nedenle, Sultan Dağı ve çevresindeki doğal alanlar, farklı kültürlerin etkileşimine tanıklık etmiştir. Bu etkileşim, bölgenin zengin kültürel mirasını şekillendirmiştir. Sultan Dağı, bu mirasın bir parçası olarak, ziyaretçilerini tarihin sâu sayfalarına götürür.
+Kayseri'nin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alır. Bu nedenle, Sultan Dağı ve çevresindeki doğal alanlar, farklı kültürlerin etkileşimine tanıklık etmiştir. Bu etkileşim, bölgenin zengin kültürel mirasını şekillendirmiştir. Sultan Dağı, bu mirasın bir parçası olarak, ziyaretçilerini tarihin derin sayfalarına götürür.
 
 ## Coğrafya
 
@@ -50,17 +50,17 @@ Mevsimsel olarak Sultan Dağı, İç Anadolu Bölgesi'nin karasal ikliminin etki
 
 ## Flora ve Fauna
 
-Sultan Dağı, Kayseri'nin göbeğinde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
-Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türler ön plana çıkıyor. 
-İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. 
+Sultan Dağı, Kayseri'nin göbeğinde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
+Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türler ön plana çıkıyor.
+İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor.
 Sonbaharda ise, göçmen kuşlar dağları bir geçiş noktası olarak kullanıyor.
 
-Dağın yükseklik zonlarına göre değişen bitki örtüsü, alpin flora türlerini de barındırıyor. 
-Yaban hayatı ise, dağ keçileri, tilkiler ve çeşitli kuş türleri ile zengin. 
+Dağın yükseklik zonlarına göre değişen bitki örtüsü, alpin flora türlerini de barındırıyor.
+Yaban hayatı ise, dağ keçileri, tilkiler ve çeşitli kuş türleri ile zengin.
 Sürüngenler de, bu ekosistemin önemli bir parçasını oluşturuyor.
 
-Sultan Dağı, ekolojik değerinin yanı sıra, bölgenin su kaynaklarını da koruyor. 
-Ancak, insan faaliyetleri nedeniyle tehdit altında olan bu dağ ekosisteminin, koruma altına alınması büyük önem taşıyor. 
+Sultan Dağı, ekolojik değerinin yanı sıra, bölgenin su kaynaklarını da koruyor.
+Ancak, insan faaliyetleri nedeniyle tehdit altında olan bu dağ ekosisteminin, koruma altına alınması büyük önem taşıyor.
 Bu nedenle, Sultan Dağı'nın doğal güzelliklerini koruma ve gelecek nesillere aktarmak, hepimizin sorumluluğu.
 
 ## Ziyaret Bilgileri

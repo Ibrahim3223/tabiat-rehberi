@@ -1,7 +1,7 @@
 ---
 title: "Belediye Hamamı"
 date: "2026-01-09T22:22:17.289Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738416"
 
 # Belediye Hamamı
 
-Belediye Hamamı, Ege Bölgesi'nin en güzel illerinden biri olan Aydın'ın Kuşadası ilçesinde yer alan, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olan bir plajdır. Bu plaj, Kuşadası'nın merkezinde yer alıyor ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Belediye Hamamı plajı, geniş kumsalı, berrak suları ve bol güneşli günleriyle, tatilcilerin keyifli anlar geçirmesine olanak tanır. Plajın etrafında, ziyaretçilerin needsini karşılayabilecek çeşitli tesisler ve işletmeler bulunur.
+ Bu plaj, Kuşadası'nın merkezinde yer alıyor ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Belediye Hamamı plajı, geniş kumsalı, berrak suları ve bol güneşli günleriyle, tatilcilerin keyifli anlar geçirmesine olanak tanır. Plajın etrafında, ziyaretçilerin needsini karşılayabilecek çeşitli tesisler ve işletmeler bulunur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Belediye Hamamı plajının tarihi geçmişi, Kuşadası'nın tarihi ile iç iç
 
 ## Coğrafya
 
-Belediye Hamamı plajı, Kuşadası'nın merkezinde yer alır ve Ege Denizi'nin berrak sularıyla çevrelenmiştir. Plajın coğrafi konumu, ziyaretçilerine deniz, kum ve güneşin keyfini çıkarmak için ideal bir ortam sunar. Plajın etrafında, yeşillik alanlar ve çeşitli tesisler bulunur. Bu bölge, Kuşadası'nın turizm merkezlerinden biri olarak, birçok turistik amaçlı tesis ve işletmeyle çevrilidir. Belediye Hamamı plajı, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olan geniş bir alana sahiptir. Plajın kumsalı geniş ve suları berra olup, ziyaretçilerin keyifli anlar geçirmesine olanak tanır. Plajın coğrafyası, ziyaretçilerine hem dinlenme hem de eğlence olanakları sunar.
+Belediye Hamamı plajı, Kuşadası'nın merkezinde yer alır ve Ege Denizi'nin berrak sularıyla çevrelenmiştir. Plajın coğrafi konumu, ziyaretçilerine deniz, kum ve güneşin keyfini çıkarmak için ideal bir ortam sunar. Plajın etrafında, yeşillik alanlar ve çeşitli tesisler bulunur. Bu bölge, Kuşadası'nın turizm merkezlerinden biri olarak, birçok turistik amaçlı tesis ve işletmeyle çevrilidir. Plajın kumsalı geniş ve suları berra olup, ziyaretçilerin keyifli anlar geçirmesine olanak tanır. Plajın coğrafyası, ziyaretçilerine hem dinlenme hem de eğlence olanakları sunar.
 
 ## Flora ve Fauna
 

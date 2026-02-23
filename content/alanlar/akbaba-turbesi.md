@@ -1,7 +1,7 @@
 ---
 title: "Akbaba Türbesi"
 date: "2026-01-10T05:54:13.981Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q119791698"
 
 # Akbaba Türbesi
 
-Akbaba Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren özel bir mekândır. Marmara Bölgesi'nde yer alan bu alan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbeder. 140 hektarlık bir alanı kaplayan Akbaba Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Bu geniş alan, ziyaretçilere hem tarihi bir yolculuk hem de doğanın güzelliklerini keşfetme fırsatı sunar. Akbaba Türbesi, İstanbul'un önemli turistik noktalarından biri olarak dikkat çeker ve ziyaretçilerini bekler.
+Akbaba Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren özel bir mekândır. Marmara Bölgesi'nde yer alan bu alan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbeder. Bu geniş alan, ziyaretçilere hem tarihi bir yolculuk hem de doğanın güzelliklerini keşfetme fırsatı sunar. Akbaba Türbesi, İstanbul'un önemli turistik noktalarından biri olarak dikkat çeker ve ziyaretçilerini bekler.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Akbaba Türbesi, tarihsel açıdan zengin bir geçmişe sahiptir. İstanbul'un t
 
 ## Coğrafya
 
-Akbaba Türbesi, Marmara Bölgesi'nde yer alır ve coğrafi açıdan özel bir konuma sahiptir. İstanbul'un şehir dokusu içinde yer alan bu türbe, doğal güzellikleriyle ziyaretçilerini etkiler. 140 hektarlık geniş bir alanı kaplayan Akbaba Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Bu geniş alan, ziyaretçilere hem tarihi bir yolculuk hem de doğanın güzelliklerini keşfetme fırsatı sunar. Türbenin coğrafi konumu, ziyaretçilere İstanbul'un farklı bir yüzünü göstererek, şehrin tarihi ve doğal güzelliklerini bir araya getirmiş olur. Akbaba Türbesi, çevresindeki peyzajla birlikte, ziyaretçilerine güzel bir manzara sunar ve İstanbul'un coğrafi çeşitliliğini temsil eder.
+Akbaba Türbesi, Marmara Bölgesi'nde yer alır ve coğrafi açıdan özel bir konuma sahiptir. İstanbul'un şehir dokusu içinde yer alan bu türbe, doğal güzellikleriyle ziyaretçilerini etkiler. Bu geniş alan, ziyaretçilere hem tarihi bir yolculuk hem de doğanın güzelliklerini keşfetme fırsatı sunar. Türbenin coğrafi konumu, ziyaretçilere İstanbul'un farklı bir yüzünü göstererek, şehrin tarihi ve doğal güzelliklerini bir araya getirmiş olur. Akbaba Türbesi, çevresindeki peyzajla birlikte, ziyaretçilerine güzel bir manzara sunar ve İstanbul'un coğrafi çeşitliliğini temsil eder.
 
 ## Flora ve Fauna
 
-Akbaba Türbesi, doğal güzellikleriyle ziyaretçilerini etkiler. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Mevsimsel değişimlere göre, Akbaba Türbesi'nin doğası farklı renklerle ve güzelliklerle ziyaretçilerini karşılar. Bahar aylarında, etrafı yeşeren bitkiler ve çiçekler, ziyaretçilere bir doğa harikası sunar. Kış aylarında ise, karla kaplanan manzara, ziyaretçilere farklı bir güzelli verir. Akbaba Türbesi, doğa severlerin ve fotoğraf tutkunlarının ilgisini çeker ve ziyaretçilerine unutulmaz anlar yaşatır.
+Akbaba Türbesi, doğal güzellikleriyle ziyaretçilerini etkiler. Mevsimsel değişimlere göre, Akbaba Türbesi'nin doğası farklı renklerle ve güzelliklerle ziyaretçilerini karşılar. Bahar aylarında, etrafı yeşeren bitkiler ve çiçekler, ziyaretçilere bir doğa harikası sunar. Kış aylarında ise, karla kaplanan manzara, ziyaretçilere farklı bir güzelli verir.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Akbaba Türbesi'ni ziyaret etmek, ziyaretçilere hem tarihi bir yolculuk hem de 
 
 - Akbaba Türbesi, İstanbul'un en önemli tarihi mekanlarından biridir.
 - Türbe, 140 hektarlık bir alanı kaplar.
-- Akbaba Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Türbe, İstanbul'un coğrafi çeşitliliğini temsil eder.
 - Akbaba Türbesi, ziyaretçilerine güzel bir manzara sunar.

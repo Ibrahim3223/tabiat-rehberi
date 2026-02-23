@@ -28,7 +28,7 @@ wikidata_id: "Q31574255"
 
 # Koca Tepesi
 
-Koca Tepesi, İzmir'in Ege Bölgesi'nde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Koca Tepesi, çevresindeki yeşilliklerle çevrili ve ziyaretçilerine dinlenme ve doğayı seyretme fırsatı sunuyor. Tepenin manzarası, özellikle güneşin batış saatlerinde, büyüleyici bir görünüm sunuyor. Bu doğal alan, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak tanımlanabilir.
+Koca Tepesi, İzmir'in Ege Bölgesi'nde yer alan bir doğa harikasıdır. Koca Tepesi, çevresindeki yeşilliklerle çevrili ve ziyaretçilerine dinlenme ve doğayı seyretme fırsatı sunuyor. Tepenin manzarası, özellikle güneşin batış saatlerinde, büyüleyici bir görünüm sunuyor. Bu doğal alan, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak tanımlanabilir.
 
 ## Tarihçe
 
@@ -52,4 +52,4 @@ Koca Tepesi'ni ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunuyor. Tepe
 - Tepenin yüksekliği, çevredeki diğer tepelerle karşılaştırıldığında, oldukça dikkat çekici.
 - Koca Tepesi, çeşitli bitki türleri ve hayvanlar barındıran zengin bir ekosisteme sahip.
 - Tepenin manzarası, özellikle güneşin batış saatlerinde, büyüleyici bir görünüm sunuyor.
-- Koca Tepesi, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+

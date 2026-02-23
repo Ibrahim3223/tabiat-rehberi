@@ -32,7 +32,7 @@ Siirt'in dağlık bölgesinde, tarihi ve doğal güzelliklerin bir araya geldiğ
 
 ## Tarihçe
 
-Siirt bölgesinde yer alan Yanarsu Dağı, tarihin sâu izlerini taşıyan bir coğrafyanın içinde bulunuyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği önemli bir merkez olarak dikkat çekiyor. Hitit, Asur, Pers ve Roma gibi medeniyetler, Siirt'i ve çevresini etkileyen güçler arasında yer alıyor.
+Siirt bölgesinde yer alan Yanarsu Dağı, tarihin derin izlerini taşıyan bir coğrafyanın içinde bulunuyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği önemli bir merkez olarak dikkat çekiyor. Hitit, Asur, Pers ve Roma gibi medeniyetler, Siirt'i ve çevresini etkileyen güçler arasında yer alıyor.
 
 Doğal güzellikleri ve stratejik konumuyla, bu tür alanlar Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal alanlarla ilişkisini şekillendiren faktörler arasında bulunuyor. Bölgede yaşayan topluluklar, bu doğal kaynakları kullanarak hayatlarını sürdürmüş ve kültürel miraslarını bu coğrafyada şekillendirmişlerdir.
 

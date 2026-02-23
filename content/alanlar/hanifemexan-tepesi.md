@@ -28,7 +28,7 @@ wikidata_id: "Q31535033"
 
 # Hanifemexan Tepesi
 
-Hanifemexan Tepesi, Osmaniye'nin doğal güzellikleri arasında önemli bir yere sahiptir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak ziyaretçilerini karşılar. Doğal güzelliği ve manzarasıyla dikkat çeken Hanifemexan Tepesi, hem doğa severlerin hem de fotoğraf sanatçılarının ilgisini çekmektedir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar ve etraftaki dağların ve vadilerin muhteşem manzarasını seyretme fırsatı verir. Hanifemexan Tepesi, ziyaretçilerine doğanın güzelliğini ve sakinliğini deneyimleme fırsatı sunar.
+Hanifemexan Tepesi, Osmaniye'nin doğal güzellikleri arasında önemli bir yere sahiptir. Doğal güzelliği ve manzarasıyla dikkat çeken Hanifemexan Tepesi, hem doğa severlerin hem de fotoğraf sanatçılarının ilgisini çekmektedir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar ve etraftaki dağların ve vadilerin muhteşem manzarasını seyretme fırsatı verir. Hanifemexan Tepesi, ziyaretçilerine doğanın güzelliğini ve sakinliğini deneyimleme fırsatı sunar.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Hanifemexan Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf sanatçıları 
 ## İlginç Bilgiler
 
 - Hanifemexan Tepesi, 140 hektarlık bir alanı kaplar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Hanifemexan Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır.
 - Bu tepe, çeşitli bitki türleri ile kaplıdır.
 - Hanifemexan Tepesi, aynı zamanda çeşitli hayvan türleri ile ev sahipliği yapar.

@@ -1,7 +1,7 @@
 ---
 title: "Nysa Roma Hamamı"
 date: "2026-01-09T23:21:17.977Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739023"
 
 # Nysa Roma Hamamı
 
-Nysa Roma Hamamı, Ege Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Aydın'ın Sultanhisar ilçesinde bulunan bu tarihi eser, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer alır. Bu alan, ziyaretçilere hem tarihin derinliklerine inme fırsatı sunar hem de bölgenin doğal güzelliklerini keşfetme imkanı sağlar. Nysa Roma Hamamı, tarihin izlerini taşıyan bir mekan olarak, ziyaretçilerini geçmişe götürmeyi vaat eder.
+Nysa Roma Hamamı, Ege Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Bu alan, ziyaretçilere hem tarihin derinliklerine inme fırsatı sunar hem de bölgenin doğal güzelliklerini keşfetme imkanı sağlar. Nysa Roma Hamamı, tarihin izlerini taşıyan bir mekan olarak, ziyaretçilerini geçmişe götürmeyi vaat eder.
 
 ## Tarihçe
 

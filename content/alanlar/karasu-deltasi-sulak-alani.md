@@ -22,7 +22,7 @@ wikidata_id: "Q108228448"
 
 # Karasu Deltası Sulak Alanı
 
-Karasu Deltası Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok canlıya ev sahipliği yapıyor. Bu sulak alan, bölgenin ekolojik dengesini koruyan önemli bir doğal kaynak olarak görülüyor. Karasu Deltası Sulak Alanı, doğa severlerin ve bilim insanlarının ilgisini çekmeye devam ediyor.
+Karasu Deltası Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu sulak alan, bölgenin ekolojik dengesini koruyan önemli bir doğal kaynak olarak görülüyor. Karasu Deltası Sulak Alanı, doğa severlerin ve bilim insanlarının ilgisini çekmeye devam ediyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Karasu Deltası Sulak Alanı, yüzyıllar boyunca doğal bir yaşam alanı olara
 
 ## Coğrafya
 
-Karasu Deltası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde önemli bir yer tutuyor. Bu sulak alan, Karasu Nehri'nin döküldüğü delta bölgesinde yer alıyor ve bölgenin hidrolojik dengesini etkiliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve sulak alanın coğrafi yapısı, çeşitli bitki ve hayvan türlerinin yaşamasına uygun bir ortam sağlıyor. Karasu Deltası Sulak Alanı, bölgenin iklimine uygun olarak mevsimsel değişimler gösteriyor ve bu değişimler, sulak alanın ekolojik dengesini etkiliyor. Sulak alanın çevresinde, çeşitli tarım arazileri ve yerleşim yerleri bulunmakta ve bu durum, sulak alanın korunması açısından önemli bir faktör olarak görülüyor.
+Karasu Deltası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde önemli bir yer tutuyor. Bu sulak alan, Karasu Nehri'nin döküldüğü delta bölgesinde yer alıyor ve bölgenin hidrolojik dengesini etkiliyor. Karasu Deltası Sulak Alanı, bölgenin iklimine uygun olarak mevsimsel değişimler gösteriyor ve bu değişimler, sulak alanın ekolojik dengesini etkiliyor. Sulak alanın çevresinde, çeşitli tarım arazileri ve yerleşim yerleri bulunmakta ve bu durum, sulak alanın korunması açısından önemli bir faktör olarak görülüyor.
 
 ## Flora ve Fauna
 

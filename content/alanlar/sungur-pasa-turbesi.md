@@ -1,7 +1,7 @@
 ---
 title: "Sungur Paşa Türbesi"
 date: "2026-01-10T05:33:34.413Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391365"
 
 # Sungur Paşa Türbesi
 
-Sungur Paşa Türbesi, Bursa'nın İnegöl ilçesinde bulunan ve tarihin derinliklerine uzanan bir nokta. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Tarihi geçmişi ve doğası ile ziyaretçilerini cezbeden bir mekan. Burada, tarihin sayfalarını karıştırma ve doğanın güzelliğini keşfetme mümkün. Sungur Paşa Türbesi, İnegöl'ün önemli tarihi noktalarından biri olarak biliniyor. Bu mekan, hem tarihe meraklı olanlar hem de doğa severler için ideal bir gezi noktası.
+Sungur Paşa Türbesi, Bursa'nın İnegöl ilçesinde bulunan ve tarihin derinliklerine uzanan bir nokta. Tarihi geçmişi ve doğası ile ziyaretçilerini cezbeden bir mekan. Burada, tarihin sayfalarını karıştırma ve doğanın güzelliğini keşfetme mümkün. Sungur Paşa Türbesi, İnegöl'ün önemli tarihi noktalarından biri olarak biliniyor. Bu mekan, hem tarihe meraklı olanlar hem de doğa severler için ideal bir gezi noktası.
 
 ## Tarihçe
 

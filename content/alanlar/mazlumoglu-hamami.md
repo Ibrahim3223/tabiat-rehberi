@@ -1,7 +1,7 @@
 ---
 title: "Mazlumoğlu Hamamı"
 date: "2026-01-09T22:29:45.682Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kars"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738418"
 
 # Mazlumoğlu Hamamı
 
-Kars ilinin merkezinde yer alan Mazlumoğlu Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan historical bir yapıdır. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Kars'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olan Mazlumoğlu Hamamı, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Bu tarihi yapı, Kars'ın coğrafi olarak önemli bir konumda bulunması nedeniyle, birçok farklı kültürden etkilenmiştir. Bu nedenle, ziyaretçiler bu hamamda hem tarihin hem de doğanın güzelliklerini bir arada deneyimleyebilirler.
+Kars ilinin merkezinde yer alan Mazlumoğlu Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan historical bir yapıdır. Kars'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olan Mazlumoğlu Hamamı, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Bu tarihi yapı, Kars'ın coğrafi olarak önemli bir konumda bulunması nedeniyle, birçok farklı kültürden etkilenmiştir. Bu nedenle, ziyaretçiler bu hamamda hem tarihin hem de doğanın güzelliklerini bir arada deneyimleyebilirler.
 
 ## Tarihçe
 

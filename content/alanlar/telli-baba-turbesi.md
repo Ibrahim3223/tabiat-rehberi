@@ -1,7 +1,7 @@
 ---
 title: "Telli Baba Türbesi"
 date: "2026-01-10T07:45:33.514Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391110"
 
 # Telli Baba Türbesi
 
-Telli Baba Türbesi, Marmara Bölgesi'nin en güzel plajlarından biri olarak Sarıyer'de bulunur. Bu plaj, yaklaşık 140 hektarlık bir alana yayılmıştır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş ve yeşil bir alanı kapsar. Telli Baba Türbesi, Sarıyer'in en çok ziyaret edilen yerlerinden biridir ve hem yerli hem de yabancı turistlerin ilgisini çeker. Plajın güzelliği ve temizliği, ziyaretçilerini cezbeder. Telli Baba Türbesi, aynı zamanda tarihi ve kültürel bir önem taşır. Burada, tarihi bir türbe bulunur ve ziyaretçiler, bu türbenin etrafında dinlenerek, manzaranın keyfini çıkarabilirler.
+Telli Baba Türbesi, Marmara Bölgesi'nin en güzel plajlarından biri olarak Sarıyer'de bulunur. Bu plaj, yaklaşık 140 hektarlık bir alana yayılmıştır. Telli Baba Türbesi, Sarıyer'in en çok ziyaret edilen yerlerinden biridir ve hem yerli hem de yabancı turistlerin ilgisini çeker. Plajın güzelliği ve temizliği, ziyaretçilerini cezbeder. Telli Baba Türbesi, aynı zamanda tarihi ve kültürel bir önem taşır. Burada, tarihi bir türbe bulunur ve ziyaretçiler, bu türbenin etrafında dinlenerek, manzaranın keyfini çıkarabilirler.
 
 ## Tarihçe
 

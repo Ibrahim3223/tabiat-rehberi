@@ -28,7 +28,7 @@ wikidata_id: "Q31390223"
 
 # Kocakuz Tepesi
 
-Kocakuz Tepesi, Burdur'un görkemli manzarasına sahip bir nokta olarak karşımıza çıkıyor. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Kocakuz Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine olarak görülebilecek bir bölge. Burada, hem tarihi geçmişi hem de eşsiz doğasını keşfetme fırsatı bulacaksınız.
+Kocakuz Tepesi, Burdur'un görkemli manzarasına sahip bir nokta olarak karşımıza çıkıyor. Kocakuz Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine olarak görülebilecek bir bölge. Burada, hem tarihi geçmişi hem de eşsiz doğasını keşfetme fırsatı bulacaksınız.
 
 ## Tarihçe
 

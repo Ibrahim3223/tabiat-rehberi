@@ -30,7 +30,7 @@ wikidata_id: "Q31191088"
 
 # Çit Kasrı
 
-İstanbul'un kalbinde, Beşiktaş ilçesinde yer alan Çit Kasrı, şehrin tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçilere geniş bir yeşilli ve dinlenme alanı sunuyor. Çit Kasrı, aynı zamanda İstanbul Boğazı'nın güzelliğini izlemek için ideal bir konumda bulunuyor. Burada, hemi yapıları hem de doğal güzelliği bir arada keşfetme mümkün. Çit Kasrı, İstanbul'un önemli turizm noktalarından biri olarak, ziyaretçilerini bekliyor.
+İstanbul'un kalbinde, Beşiktaş ilçesinde yer alan Çit Kasrı, şehrin tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Çit Kasrı, aynı zamanda İstanbul Boğazı'nın güzelliğini izlemek için ideal bir konumda bulunuyor. Burada, hemi yapıları hem de doğal güzelliği bir arada keşfetme mümkün. Çit Kasrı, İstanbul'un önemli turizm noktalarından biri olarak, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

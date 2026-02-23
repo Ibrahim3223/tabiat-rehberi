@@ -30,7 +30,7 @@ wikidata_id: "Q61076476"
 
 # Maral Şelalesi
 
-Maral Şelalesi, Rize ve Artvin illerinin sınırında yer alan bir doğa harikasıdır. Bu muhteşem şelale, yaklaşık 140 hektarlık bir yeşil alan içinde yer alır ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Şelalenin yüksekliği 30 metreden fazla değildir, ancak suyu çok hızlı ve güçlü akar. Maral Şelalesi, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlar. Bu mevsimlerde şelalenin suyu en bol ve en güzel haldedir. Ziyaretçiler, şelalenin güzelliğini seyretmek için burada bulunan çeşitli yürüyüş yollarını ve seyir noktalarını kullanabilirler.
+Maral Şelalesi, Rize ve Artvin illerinin sınırında yer alan bir doğa harikasıdır. Şelalenin yüksekliği 30 metreden fazla değildir, ancak suyu çok hızlı ve güçlü akar. Maral Şelalesi, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlar. Bu mevsimlerde şelalenin suyu en bol ve en güzel haldedir. Ziyaretçiler, şelalenin güzelliğini seyretmek için burada bulunan çeşitli yürüyüş yollarını ve seyir noktalarını kullanabilirler.
 
 ## Tarihçe
 

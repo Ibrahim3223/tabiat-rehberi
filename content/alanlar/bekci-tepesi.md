@@ -28,7 +28,7 @@ wikidata_id: "Q34834993"
 
 # Bekçi Tepesi
 
-Kırklareli'nin güzide tepelerinden biri olan Bekçi Tepesi, Marmara Bölgesi'nin gizli cennetlerinden biri. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bekçi Tepesi, ziyaretçilerini güneşin batışını izleyerek, doğanın güzelliğini keşfetmeye davet ediyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bekçi Tepesi, Kırklareli'nin önemli turizm merkezlerinden biri olarak, ziyaretçilerini bekliyor.
+Kırklareli'nin güzide tepelerinden biri olan Bekçi Tepesi, Marmara Bölgesi'nin gizli cennetlerinden biri. Bekçi Tepesi, ziyaretçilerini güneşin batışını izleyerek, doğanın güzelliğini keşfetmeye davet ediyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bekçi Tepesi, Kırklareli'nin önemli turizm merkezlerinden biri olarak, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

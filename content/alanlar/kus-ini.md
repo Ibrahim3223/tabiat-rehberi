@@ -33,7 +33,7 @@ Mersin'in büyüleyici coğrafyasında, Kuş İni jeoparkı gibi gizli kalmış 
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, Hitit, Fenike ve Roma uygarlıklarının ticaret yollarının kesişme noktası olan bu bölge, doğal güzellikleri ve stratejik konumuyla dikkati çekmiştir. "Kuş İni" jeoparkı da bu geniş tarihsel bağlam içinde, Mersin'in zengin jeolojik mirasının bir parçasını oluşturur.
+Mersin bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, Hitit, Fenike ve Roma uygarlıklarının ticaret yollarının kesişme noktası olan bu bölge, doğal güzellikleri ve stratejik konumuyla dikkati çekmiştir. "Kuş İni" jeoparkı da bu geniş tarihsel bağlam içinde, Mersin'in zengin jeolojik mirasının bir parçasını oluşturur.
 
 Türkiye'de doğal alanların tarihsel önemi, yalnızca turizm açısından değil, aynı zamanda insanların yaşamlarını sürdürmek için bu alanlara olan bağımlılıkları nedeniyle önemlidir. Yaylacılık, hayvancılık ve tarım, bu bölgelerin ekonomi ve sosyal dokusunu şekillendiren geleneksel faaliyetlerdir. Ayrıca, tarihi ticaret yolları often bu doğal güzelliklerin arasında geçer, bu da bu bölgelerin kültürel zenginliğine katkıda bulunur.
 

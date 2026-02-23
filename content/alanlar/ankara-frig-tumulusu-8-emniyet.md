@@ -29,7 +29,7 @@ wikidata_id: "Q134728291"
 
 # Ankara Frig Tümülüsü 8, Emniyet
 
-Ankara Frig Tümülüsü 8, Emniyet, İç Anadolu Bölgesi'nin kalbinde, Yenimahalle'de yer alan bir tarihi ve doğal güzelliktir. Bu alan, yaklaşık 140 hektarlık bir alanı kapsar, ki bu, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Ziyaretçiler, burada hem tarihi hem de doğal güzellikleri keşfedebilir. Ankara Frig Tümülüsü 8, Emniyet, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
+Ankara Frig Tümülüsü 8, Emniyet, İç Anadolu Bölgesi'nin kalbinde, Yenimahalle'de yer alan bir tarihi ve doğal güzelliktir. Ziyaretçiler, burada hem tarihi hem de doğal güzellikleri keşfedebilir. Ankara Frig Tümülüsü 8, Emniyet, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
 
 ## Tarihçe
 

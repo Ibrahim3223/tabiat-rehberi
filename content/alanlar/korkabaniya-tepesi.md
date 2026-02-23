@@ -28,7 +28,7 @@ wikidata_id: "Q31555490"
 
 # Korkabaniya Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin gizli köşelerinden biri olan Korkabaniya Tepesi, Batman'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal miraslarından biri. Korkabaniya Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve bölgenin zengin florası ve faunasını keşfetme fırsatı sunar. Batman'ın şehir merkezine yakın konumuyla, Korkabaniya Tepesi hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu tepe, sadece doğal güzelliği ile değil, aynı zamanda tarihi geçmişiyle de dikkat çekmektedir.
+Güneydoğu Anadolu Bölgesi'nin gizli köşelerinden biri olan Korkabaniya Tepesi, Batman'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Korkabaniya Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve bölgenin zengin florası ve faunasını keşfetme fırsatı sunar. Batman'ın şehir merkezine yakın konumuyla, Korkabaniya Tepesi hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu tepe, sadece doğal güzelliği ile değil, aynı zamanda tarihi geçmişiyle de dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Korkabaniya Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir 
 
 ## Flora ve Fauna
 
-Korkabaniya Tepesi, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir ekosisteme sahiptir. Tepenin etekleri ve çevresinde, mevsimsel değişimlere bağlı olarak, farklı bitki türleri yetişmektedir. Bu bölge, flora ve faunası açısından, Güneydoğu Anadolu Bölgesi'nin önemli doğal miraslarından biridir. Korkabaniya Tepesi, bölgenin ekolojik dengesini korumak açısından da önemli bir role sahiptir. Tepenin doğal güzelliği, sadece bitki türleri ve hayvanlarla sınırlı değildir, aynı zamanda bölgeyi ziyaret edenler için de önemli bir çekim merkezi oluşturmaktadır. Bu tepe, doğal güzelliği ve zengin ekosistemiyle, bölgenin önemli bir turizm merkezi olarak kabul edilebilir.
+Korkabaniya Tepesi, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir ekosisteme sahiptir. Tepenin etekleri ve çevresinde, mevsimsel değişimlere bağlı olarak, farklı bitki türleri yetişmektedir. Bu bölge, flora ve faunası açısından, Güneydoğu Anadolu Bölgesi'nin önemli doğal miraslarından biridir. Tepenin doğal güzelliği, sadece bitki türleri ve hayvanlarla sınırlı değildir, aynı zamanda bölgeyi ziyaret edenler için de önemli bir çekim merkezi oluşturmaktadır. Bu tepe, doğal güzelliği ve zengin ekosistemiyle, bölgenin önemli bir turizm merkezi olarak kabul edilebilir.
 
 ## Ziyaret Bilgileri
 
@@ -52,4 +52,4 @@ Korkabaniya Tepesi, yılın her döneminde ziyaret edilebilir. Ancak, ilkbahar v
 - Tepenin yüksekliği, manzarayı genişleterek, çevredeki dağları ve vadileri gözler önüne serer.
 - Korkabaniya Tepesi, zengin flora ve faunasıyla, doğal bir cennet olarak kabul edilebilir.
 - Tepenin etekleri ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
-- Korkabaniya Tepesi, bölgenin ekolojik dengesini korumak açısından da önemli bir role sahiptir.
+

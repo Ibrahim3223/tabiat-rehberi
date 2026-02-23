@@ -50,7 +50,7 @@ Sakçalı Mağara, Hatay'ın doğal güzelliklerinin bir parçası olarak, çevr
 
 ## Flora ve Fauna
 
-Sakçalı Mağara jeoparkı, maki bitki örtüsünün hakim olduğu bir bölge. İlkbahar mevsiminde, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle süslenir. Kıyı ekosisteminin característicası, kuraklığa dayanıklı türlerin bolluğunu gösterir. 
+Sakçalı Mağara jeoparkı, maki bitki örtüsünün hakim olduğu bir bölge. İlkbahar mevsiminde, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle süslenir. Kıyı ekosisteminin característicası, kuraklığa dayanıklı türlerin bolluğunu gösterir.
 
 Bu bölgede, orman ekosisteminin çeşitliliği dikkat çeker. Çam, meşe ve zeytin ağaçları gibi çeşitli türler, canlılara yaşam alanı sağlar. Yaban hayatı da zengin; memeliler, kuşlar ve sürüngenler bu ekosistemin bir parçasıdır. Sonbahar mevsiminde, göç eden kuşlar bu bölgeden geçer ve doğa severleri büyüler.
 

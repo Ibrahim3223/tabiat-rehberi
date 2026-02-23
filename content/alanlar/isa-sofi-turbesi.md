@@ -1,7 +1,7 @@
 ---
 title: "İsa Sofi türbesi"
 date: "2026-01-10T04:49:42.385Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -29,7 +29,7 @@ wikidata_id: "Q105474252"
 
 # İsa Sofi türbesi
 
-İsa Sofi türbesi, Marmara Bölgesi'nde, Bilecik'in Söğüt ilçesinde yer alan tarihi bir mekan. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide kurulmuştur. İsa Sofi türbesi, ziyaretçilerini tarihi geçmişinin zenginliği ve coğrafi güzelliği ile büyülemektedir. Mekan, hem dini hem de kültürel açıdan önemli bir merkez konumundadır. İnsanlar, bu özel mekanda huzur bulma ve tarihin depthsini keşfetmek için gelirler.
+İsa Sofi türbesi, Marmara Bölgesi'nde, Bilecik'in Söğüt ilçesinde yer alan tarihi bir mekan. İsa Sofi türbesi, ziyaretçilerini tarihi geçmişinin zenginliği ve coğrafi güzelliği ile büyülemektedir. Mekan, hem dini hem de kültürel açıdan önemli bir merkez konumundadır. İnsanlar, bu özel mekanda huzur bulma ve tarihin depthsini keşfetmek için gelirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q105474252"
 
 ## Coğrafya
 
-İsa Sofi türbesi, Marmara Bölgesi'nin coğrafi güzelliği ile dikkat çekmektedir. Mekan, Söğüt ilçesinde yer alan 140 hektarlık bir arazide kurulmuştur. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. İsa Sofi türbesi, coğrafi olarak zengin bir bölgeye sahiptir. Mekan, ziyaretçilerine hem dini hem de kültürel açıdan önemli bir merkez olarak hizmet vermektedir. İklim, çevre ve yapı, İsa Sofi türbesinin coğrafi güzelliğini tamamlamaktadır.
+İsa Sofi türbesi, Marmara Bölgesi'nin coğrafi güzelliği ile dikkat çekmektedir. Mekan, Söğüt ilçesinde yer alan 140 hektarlık bir arazide kurulmuştur. İsa Sofi türbesi, coğrafi olarak zengin bir bölgeye sahiptir. Mekan, ziyaretçilerine hem dini hem de kültürel açıdan önemli bir merkez olarak hizmet vermektedir. İklim, çevre ve yapı, İsa Sofi türbesinin coğrafi güzelliğini tamamlamaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q105474252"
 ## İlginç Bilgiler
 
 - İsa Sofi türbesi, Marmara Bölgesi'nde yer alan tarihi bir mekan.
-- Mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide kurulmuştur.
+
 - İsa Sofi türbesi, hem dini hem de kültürel açıdan önemli bir merkez konumundadır.
 - Mekan, ziyaretçilerine hem dini hem de kültürel açıdan zengin bir deneyim sunmaktadır.
 - İsa Sofi türbesi, coğrafi olarak zengin bir bölgeye sahiptir.

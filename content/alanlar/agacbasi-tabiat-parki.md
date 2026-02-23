@@ -29,7 +29,7 @@ wikidata_id: "Q108228131"
 
 # Ağaçbaşı Tabiat Parkı
 
-Ağaçbaşı Tabiat Parkı, Giresun ilinin merkezinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Ağaçbaşı Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için mükemmel bir destinasyondur. Parka gelen ziyaretçiler, doğanın güzelliğini keşfedebilir, yürüyüş yapabilir ve piknik yapabilirler. Ayrıca, parkın içerisinde bulunan çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın çeşitliliğini gösterir.
+Ağaçbaşı Tabiat Parkı, Giresun ilinin merkezinde yer alan 140 hektarlık bir yeşil alandır. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Ağaçbaşı Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için mükemmel bir destinasyondur. Parka gelen ziyaretçiler, doğanın güzelliğini keşfedebilir, yürüyüş yapabilir ve piknik yapabilirler. Ayrıca, parkın içerisinde bulunan çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın çeşitliliğini gösterir.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Ağaçbaşı Tabiat Parkı, Giresun ilinin merkezinde yer alır ve Karadeniz Bö
 
 ## Flora ve Fauna
 
-Ağaçbaşı Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Parkın içinde, mevsimsel değişimlere göre farklı bitki türleri encontrabilir. Ayrıca, parkta çeşitli hayvanlar da yaşar ve bu, parkın ekolojisini zenginleştirir. Parkın flora ve faunası, Karadeniz Bölgesi'nin doğal güzelliklerini gösterir ve ziyaretçilere doğanın çeşitliliğini keşfetme fırsatı sunar. Mevsimsel değişimlere göre, parkın flora ve faunası değişir ve bu, parkın güzelliğini arttırır.
+ Parkın içinde, mevsimsel değişimlere göre farklı bitki türleri encontrabilir. Ayrıca, parkta çeşitli hayvanlar da yaşar ve bu, parkın ekolojisini zenginleştirir. Parkın flora ve faunası, Karadeniz Bölgesi'nin doğal güzelliklerini gösterir ve ziyaretçilere doğanın çeşitliliğini keşfetme fırsatı sunar. Mevsimsel değişimlere göre, parkın flora ve faunası değişir ve bu, parkın güzelliğini arttırır.
 
 ## Ziyaret Bilgileri
 

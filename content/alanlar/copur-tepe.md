@@ -50,7 +50,7 @@ Doğal güzelliklerin bir araya geldiği bu bölgede, Çopur Tepe'nin fiziksel y
 
 ## Flora ve Fauna
 
-Çopur Tepe, Malatya'nın yüksek dağ ekolojisine ev sahipliği yapan bir dağdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çopur Tepe, Malatya'nın yüksek dağ ekolojisine ev sahipliği yapan bir dağdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne bakıldığında, ilkbahar aylarında çiçek açan çok yıllık otsu bitkiler ve alpin çayırlar hakimdir. Sonbaharda, dağların yüksek kesimlerinde yer alan endemik türlerin bulunduğu alanlar, göçmen kuşların önemli durak noktalarıdır.
 

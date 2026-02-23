@@ -28,7 +28,7 @@ wikidata_id: "Q32210806"
 
 # Kürbaşı Tepesi
 
-Erzurum'un doğusunda yer alan Kürbaşı Tepesi, yaklaşık 140 hektarlık bir alana yayılmaktadır. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Kürbaşı Tepesi, hem yerli hem de yabancı turistler için bir çekim merkezi haline gelmiştir. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kürbaşı Tepesi, Erzurum'un doğal güzellikleri arasında önemli bir yer tutmaktadır.
+Erzurum'un doğusunda yer alan Kürbaşı Tepesi, yaklaşık 140 hektarlık bir alana yayılmaktadır. Kürbaşı Tepesi, hem yerli hem de yabancı turistler için bir çekim merkezi haline gelmiştir. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kürbaşı Tepesi, Erzurum'un doğal güzellikleri arasında önemli bir yer tutmaktadır.
 
 ## Tarihçe
 

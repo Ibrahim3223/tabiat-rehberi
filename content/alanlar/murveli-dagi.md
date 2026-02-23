@@ -32,7 +32,7 @@ Bayburt'un güzelliklerini keşfetmek isteyenler için Mürveli Dağı önemli b
 
 ## Tarihçe
 
-Mürveli Dağı, Bayburt'un tarihi ve kültürel zenginliklerine ev sahipliği yapan bir bölge olarak dikkat çekiyor. Bayburt, tarihin sâu sayfalarında birçok uygarlığa ev sahipliği yapmış bir bölge olarak biliniyor. Hitit, Roma ve Osmanlı gibi güçlü medeniyetlerin izlerini taşıyan bu topraklar, doğal güzellikleri ile de ön plana çıkıyor.
+Mürveli Dağı, Bayburt'un tarihi ve kültürel zenginliklerine ev sahipliği yapan bir bölge olarak dikkat çekiyor. Bayburt, tarihin derin sayfalarında birçok uygarlığa ev sahipliği yapmış bir bölge olarak biliniyor. Hitit, Roma ve Osmanlı gibi güçlü medeniyetlerin izlerini taşıyan bu topraklar, doğal güzellikleri ile de ön plana çıkıyor.
 
 Bayburt ve çevresindeki dağlar, yüzyıllar boyunca insanların yaşamlarına ev sahipliği yapmış, yaylacılık ve hayvancılık faaliyetlerine zemin hazırlamıştır. Bu doğal alanlar, aynı zamanda ticaret yolları üzerinde bulunmaları nedeniyle önemli bir konumda yer almış, insanların ve malların hareketinin sağlandığı stratejik noktalar olarak görev üstlenmiştir.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31517053"
 
 # Karlıkdede Tepesi
 
-Karlıkdede Tepesi, Aydın ilinin güzergahında yer alan ve ziyaretçilerini doğanın kucağına davet eden bir tepe olarak bilinir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin önemli doğal güzelliklerinden birini oluşturur. Tepenin eteklerinde ve çevresinde bulunan yerleşim yerleri, bu bölgeyi hem yerel halk hem de ziyaretçiler için çekici kılar. Karlıkdede Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunar ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı verir.
+Karlıkdede Tepesi, Aydın ilinin güzergahında yer alan ve ziyaretçilerini doğanın kucağına davet eden bir tepe olarak bilinir. Tepenin eteklerinde ve çevresinde bulunan yerleşim yerleri, bu bölgeyi hem yerel halk hem de ziyaretçiler için çekici kılar. Karlıkdede Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunar ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı verir.
 
 ## Tarihçe
 

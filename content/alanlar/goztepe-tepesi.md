@@ -28,7 +28,7 @@ wikidata_id: "Q32138744"
 
 # Göztepe Tepesi
 
-Göztepe Tepesi, Kırıkkale'nin merkezi konumunda yer alan ve şehrin panoramik manzarasına hakim bir nokta olarak dikkat çekiyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Şehrin merkezinde yer alması nedeniyle, Göztepe Tepesi'ne ulaşım oldukça kolay. Tepenin etrafında yer alan çeşitli dükkânlar ve tesisler, ziyaretçilerin ihtiyaçlarını karşılamalarına yardımcı oluyor. Göztepe Tepesi, aynı zamanda Kırıkkale'nin tarihi geçmişini de yansıtan önemli bir nokta olarak kabul ediliyor.
+Göztepe Tepesi, Kırıkkale'nin merkezi konumunda yer alan ve şehrin panoramik manzarasına hakim bir nokta olarak dikkat çekiyor. Şehrin merkezinde yer alması nedeniyle, Göztepe Tepesi'ne ulaşım oldukça kolay. Tepenin etrafında yer alan çeşitli dükkânlar ve tesisler, ziyaretçilerin ihtiyaçlarını karşılamalarına yardımcı oluyor. Göztepe Tepesi, aynı zamanda Kırıkkale'nin tarihi geçmişini de yansıtan önemli bir nokta olarak kabul ediliyor.
 
 ## Tarihçe
 

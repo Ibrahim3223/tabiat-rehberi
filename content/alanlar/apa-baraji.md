@@ -22,7 +22,7 @@ wikidata_id: "Q108227879"
 
 # Apa Barajı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Apa Barajı, 140 hektarlık geniş bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, ziyaretçilere geniş bir doğal ortam sunuyor. Apa Barajı, çevresindeki ormanlarla birlikte bir bütün oluşturuyor ve bu reason doğal güzelliği ile dikkat çekiyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dolu. Ziyaretçiler, bu doğal cennette dinlenme ve doğayı keşfetmek için gelmeyi tercih ediyor.
+ Bu büyük alan, ziyaretçilere geniş bir doğal ortam sunuyor. Apa Barajı, çevresindeki ormanlarla birlikte bir bütün oluşturuyor ve bu reason doğal güzelliği ile dikkat çekiyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dolu. Ziyaretçiler, bu doğal cennette dinlenme ve doğayı keşfetmek için gelmeyi tercih ediyor.
 
 ## Tarihçe
 

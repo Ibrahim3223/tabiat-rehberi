@@ -1,7 +1,7 @@
 ---
 title: "Arapzade Mustafa Efendi Türbesi"
 date: "2026-01-10T07:18:59.441Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390958"
 
 # Arapzade Mustafa Efendi Türbesi
 
-Arapzade Mustafa Efendi Türbesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi bir mekan. Bu türbe, İstanbul'un tarihi zenginliğini yansıtan önemli bir kültür mirası. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ve bu büyük alanın içinde yer alan Arapzade Mustafa Efendi Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Türbenin etrafı, çeşitli bitki türleriyle çevrili ve bu yeşil alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim.
+Arapzade Mustafa Efendi Türbesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi bir mekan. Bu türbe, İstanbul'un tarihi zenginliğini yansıtan önemli bir kültür mirası. Türbenin etrafı, çeşitli bitki türleriyle çevrili ve bu yeşil alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim.
 
 ## Tarihçe
 

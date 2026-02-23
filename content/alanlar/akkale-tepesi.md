@@ -28,7 +28,7 @@ wikidata_id: "Q31390787"
 
 # Akkale Tepesi
 
-Akkale Tepesi, Yozgat'ın güzide bir bölgesinde yer alan, yaklaşık 140 hektarlık yeşil alanıyla dikkat çekiyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne karşılık geliyor. Akkale Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennet haline getiriyor. Akkale Tepesi'ne çıkarak, Yozgat'ın ve çevresinin panoramik manzarasını izleme mümkün.
+Akkale Tepesi, Yozgat'ın güzide bir bölgesinde yer alan, yaklaşık 140 hektarlık yeşil alanıyla dikkat çekiyor. Akkale Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennet haline getiriyor. Akkale Tepesi'ne çıkarak, Yozgat'ın ve çevresinin panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 

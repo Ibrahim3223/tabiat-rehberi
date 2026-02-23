@@ -48,7 +48,7 @@ Mevsimsel değişikliklere göre hava durumu önemli ölçüdeğişen Eşekçi D
 
 ## Flora ve Fauna
 
-Eşekçi Dağı, Çanakkale'nin güzide bir bölgesinde yer alan 1200 hektarlık bir dağ ekosistemi. Bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Eşekçi Dağı, Çanakkale'nin güzide bir bölgesinde yer alan 1200 hektarlık bir dağ ekosistemi. Bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Dağın yükseklik zonlarında, alpin flora ve dağ hayvanları bir arada yaşar. İklim geçiş karakteri taşıdığı için karma ormanlar ve göçmen kuş rotası üzerinde bulunmaktadır.
 
 İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçer. Dağda hakim türler arasında geniş yapraklı ağaçlar ve iğne yapraklı ağaçlar bulunur. Mevsimsel değişimlere bağlı olarak, dağda çeşitli bitki türleri yetişir.

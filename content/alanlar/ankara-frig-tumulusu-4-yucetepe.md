@@ -29,7 +29,7 @@ wikidata_id: "Q134728281"
 
 # Ankara Frig Tümülüsü 4, Yücetepe
 
-Ankara Frig Tümülüsü 4, Yücetepe, Çankaya ilçesinde yer alan ve Ankara'nın tarihi geçmişi hakkında bilgi veren önemli bir eserdir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir tarihi geçmişe yolculuk imkanı sunar. Tümülüs, Frig uygarlığının izlerini taşıyan bir yapıdır ve bu nedenle, Ankara'nın kültürel mirasının önemli bir parçasıdır. Ziyaretçiler, bu tarihi tümülüsün etrafında dolaşarak, Ankara'nın tarihi geçmişi hakkında bilgi edinebilir ve bu önemli eseri yakından inceleyebilirler.
+Ankara Frig Tümülüsü 4, Yücetepe, Çankaya ilçesinde yer alan ve Ankara'nın tarihi geçmişi hakkında bilgi veren önemli bir eserdir. Tümülüs, Frig uygarlığının izlerini taşıyan bir yapıdır ve bu nedenle, Ankara'nın kültürel mirasının önemli bir parçasıdır. Ziyaretçiler, bu tarihi tümülüsün etrafında dolaşarak, Ankara'nın tarihi geçmişi hakkında bilgi edinebilir ve bu önemli eseri yakından inceleyebilirler.
 
 ## Tarihçe
 

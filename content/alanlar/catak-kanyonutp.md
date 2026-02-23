@@ -22,7 +22,7 @@ wikidata_id: "Q108228799"
 
 # ÇATAK KANYONU_TP
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Çatak Kanyonu, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın güzelliğini sunuyor. Kanyonun yüksekliği ve derinliği, ziyaretçilere büyüleyici bir manzara sunarken, aynı zamanda bölgenin zengin fauna ve florasına da ev sahipliği yapıyor. Çatak Kanyonu, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer olarak biliniyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan Çatak Kanyonu, yaklaşık 140 hektarlık bir alanı kapsıyor. Kanyonun yüksekliği ve derinliği, ziyaretçilere büyüleyici bir manzara sunarken, aynı zamanda bölgenin zengin fauna ve florasına da ev sahipliği yapıyor. Çatak Kanyonu, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer olarak biliniyor.
 
 ## Tarihçe
 

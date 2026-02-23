@@ -1,7 +1,7 @@
 ---
 title: "Paşaoğulları Kondolotlar Hamamı"
 date: "2026-01-09T22:37:13.809Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bayburt"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738717"
 
 # Paşaoğulları Kondolotlar Hamamı
 
-Bayburt'un merkezi bir konumunda bulunan Paşaoğulları Kondolotlar Hamamı, tarihi ve doğal güzelliklerinin birleştiği özel bir noktada yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir hareket alanı sunar. Bu tarihi hamam, Karadeniz Bölgesi'nin zengin kültürel mirasının önemli bir parçasını oluşturur. Ziyaretçiler, hem hamamın tarihi dokusunu hem de çevredeki doğal güzellikleri keşfedebilir. Paşaoğulları Kondolotlar Hamamı, Bayburt'un turizm potansiyelini ortaya koyan önemli bir kültürel ve tarihi mekândır.
+Bayburt'un merkezi bir konumunda bulunan Paşaoğulları Kondolotlar Hamamı, tarihi ve doğal güzelliklerinin birleştiği özel bir noktada yer alır. Bu tarihi hamam, Karadeniz Bölgesi'nin zengin kültürel mirasının önemli bir parçasını oluşturur. Ziyaretçiler, hem hamamın tarihi dokusunu hem de çevredeki doğal güzellikleri keşfedebilir. Paşaoğulları Kondolotlar Hamamı, Bayburt'un turizm potansiyelini ortaya koyan önemli bir kültürel ve tarihi mekândır.
 
 ## Tarihçe
 

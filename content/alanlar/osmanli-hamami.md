@@ -1,7 +1,7 @@
 ---
 title: "Osmanlı Hamamı"
 date: "2026-01-09T23:20:01.761Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738997"
 
 # Osmanlı Hamamı
 
-Osmanlı Hamamı, Karacasu'nun merkezine yakın bir konumda yer alan, 140 hektarlık bir alana yayılmış bir plajdır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir hareket alanı sunar. Osmanlı Hamamı, özellikle temiz ve berrak denizi ile tanınır. Plajın kumsalı, ince kumdan oluşur ve denize girerken rahat bir deneyim sunar. Osmanlı Hamamı, doğa severler ve deniz aşığı olanlar için ideal bir destinasyondur.
+Osmanlı Hamamı, Karacasu'nun merkezine yakın bir konumda yer alan, 140 hektarlık bir alana yayılmış bir plajdır. Osmanlı Hamamı, özellikle temiz ve berrak denizi ile tanınır. Plajın kumsalı, ince kumdan oluşur ve denize girerken rahat bir deneyim sunar. Osmanlı Hamamı, doğa severler ve deniz aşığı olanlar için ideal bir destinasyondur.
 
 ## Tarihçe
 

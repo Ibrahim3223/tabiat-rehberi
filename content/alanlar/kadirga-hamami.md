@@ -1,7 +1,7 @@
 ---
 title: "Kadırga Hamamı"
 date: "2026-01-09T22:48:05.743Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738573"
 
 # Kadırga Hamamı
 
-Kadırga Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin göbeğinde yer alan bir plaj ve tarihi hamam kompleksi. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası. Bu bölge, tarihi ve doğal güzellikleri bir araya getiren ender yerlerden biri. Kadırga Hamamı, denize girme imkanının yanı sıra, tarihi hamamının güzelliği ve çevre düzenlemesiyle de dikkat çekiyor. Bu kompleks, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor.
+Kadırga Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin göbeğinde yer alan bir plaj ve tarihi hamam kompleksi. Bu bölge, tarihi ve doğal güzellikleri bir araya getiren ender yerlerden biri. Kadırga Hamamı, denize girme imkanının yanı sıra, tarihi hamamının güzelliği ve çevre düzenlemesiyle de dikkat çekiyor. Bu kompleks, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kadırga Hamamı'nın tarihi geçmişi, İstanbul'un fethine kadar uzanıyor. Bu
 
 ## Coğrafya
 
-Kadırga Hamamı, Marmara Bölgesi'nin önemli bir noktası olan Fatih, İstanbul'da yer alıyor. Bu bölge, deniz seviyesinde ve Marmara Denizi'ne kıyısı bulunuyor. Çevre, genellikle yeşil alanlarla kaplı ve denize girme imkanı sunuyor. İklim, Karadeniz ve Akdeniz iklimleri arasında bir geçiş bölgesi olarak tanımlanabilir. Bölgenin coğrafi konumu, ılıman iklimi ve doğal güzellikleri, ziyaretçileri için önemli bir çekim noktası. 180 hektarlık yeşil alan, yaklaşık 300 futbol sahası büyüklüğünde ve bu yeşil alanlar, ziyaretçilere geniş bir açık alan sunuyor. Bölgenin coğrafi yapısı, denize girme imkanı, hamamın tarihi güzelliği ve çevre düzenlemesiyle, Kadırga Hamamı, ziyaretçilerini bekliyor.
+Kadırga Hamamı, Marmara Bölgesi'nin önemli bir noktası olan Fatih, İstanbul'da yer alıyor. Bu bölge, deniz seviyesinde ve Marmara Denizi'ne kıyısı bulunuyor. Çevre, genellikle yeşil alanlarla kaplı ve denize girme imkanı sunuyor. İklim, Karadeniz ve Akdeniz iklimleri arasında bir geçiş bölgesi olarak tanımlanabilir. Bölgenin coğrafi konumu, ılıman iklimi ve doğal güzellikleri, ziyaretçileri için önemli bir çekim noktası. Bölgenin coğrafi yapısı, denize girme imkanı, hamamın tarihi güzelliği ve çevre düzenlemesiyle, Kadırga Hamamı, ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

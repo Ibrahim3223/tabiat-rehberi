@@ -50,9 +50,9 @@ Mevsimsel olarak, Berzaneka Mağaraları'nın bulunduğu bölge, karasal iklimin
 
 ## Flora ve Fauna
 
-Berzaneka Mağaraları, Batman'da yer alan bir jeopark olarak yarı kurak iklimin hakim olduğu step ve ova ekolojisine ev sahipliği yapar. Bu alanda, orman ekosisteminin çeşitliliği dikkat çeker. İlkbahar aylarında, flora çeşitliliği ile renklenen bu bölge, çiçeklerin açtığı bir görsel şölen sunar. 
+Berzaneka Mağaraları, Batman'da yer alan bir jeopark olarak yarı kurak iklimin hakim olduğu step ve ova ekolojisine ev sahipliği yapar. Bu alanda, orman ekosisteminin çeşitliliği dikkat çeker. İlkbahar aylarında, flora çeşitliliği ile renklenen bu bölge, çiçeklerin açtığı bir görsel şölen sunar.
 
-Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlerle birlikte, sonbaharda göçmen kuşların uğrak noktalarından biri haline gelir. Yaban hayatı ise, memeliler, kuşlar ve sürüngenler ile zengin bir çeşitlilik gösterir. Bu canlılar, mağaraların ve çevresinin sunduğu yaşam alanlarında, birbirleriyle olan ekolojik ilişkilerini sürdürür. 
+Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlerle birlikte, sonbaharda göçmen kuşların uğrak noktalarından biri haline gelir. Yaban hayatı ise, memeliler, kuşlar ve sürüngenler ile zengin bir çeşitlilik gösterir. Bu canlılar, mağaraların ve çevresinin sunduğu yaşam alanlarında, birbirleriyle olan ekolojik ilişkilerini sürdürür.
 
 Berzaneka Mağaraları'nın ekolojik değeri, bu çeşitlili ve ilişki ağının korunmasının önemi ile şekillenir. Bu jeopark, bölgenin doğal dengesini koruma altına almak için kritik bir rol oynar.
 

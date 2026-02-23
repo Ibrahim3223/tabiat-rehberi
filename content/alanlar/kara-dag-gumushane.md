@@ -51,11 +51,11 @@ Mevsimsel değişikliklere bakıldığında, Kara Dağ'ın iklimi oldukça deği
 
 ## Flora ve Fauna
 
-Kara Dağ, Gümüşhane'nin nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosistemi, yükseklik zonları ile birlikte alpin flora ve dağ hayvanlarına ev sahipliği yapar. 
+Kara Dağ, Gümüşhane'nin nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosistemi, yükseklik zonları ile birlikte alpin flora ve dağ hayvanlarına ev sahipliği yapar.
 
-Bitki örtüsüne baktığımızda, ilkbahar mevsiminde dağ yamaçlarında renkli çiçekler açarken, sonbaharda ormanlar sarı, kırmızı ve turuncu tonlara bürünür. Gür ormanlar, yüksek biyoçeşitliliğin önemli bir parçasıdır. 
+Bitki örtüsüne baktığımızda, ilkbahar mevsiminde dağ yamaçlarında renkli çiçekler açarken, sonbaharda ormanlar sarı, kırmızı ve turuncu tonlara bürünür. Gür ormanlar, yüksek biyoçeşitliliğin önemli bir parçasıdır.
 
-Yaban hayatı da bir o kadar çeşitlidir. Dağ keçileri ve karacalar gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu bölgenin sakinleridir. Bu canlılar, dağların farklı yükseklik zonlarında yaşam alanlarını bulurlar. 
+Yaban hayatı da bir o kadar çeşitlidir. Dağ keçileri ve karacalar gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu bölgenin sakinleridir. Bu canlılar, dağların farklı yükseklik zonlarında yaşam alanlarını bulurlar.
 
 Kara Dağ, biyoçeşitlilik açısından önemli bir ekosistemdir. Bu alanın korunması, hem bölgesel hem de ulusal düzeyde büyük önem taşır.
 

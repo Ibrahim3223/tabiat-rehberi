@@ -1,7 +1,7 @@
 ---
 title: "Terzi Ahmet Dede Türbesi"
 date: "2026-01-10T07:12:45.074Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390921"
 
 # Terzi Ahmet Dede Türbesi
 
-Terzi Ahmet Dede Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi türbe ve plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel noktalarından biridir. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Terzi Ahmet Dede Türbesi, bölgenin önemli dini ve turistik mekanlarından biri olarak biliniyor.
+Terzi Ahmet Dede Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi türbe ve plajdır. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Terzi Ahmet Dede Türbesi, bölgenin önemli dini ve turistik mekanlarından biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Terzi Ahmet Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca bölge halk�
 
 ## Coğrafya
 
-Terzi Ahmet Dede Türbesi, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin güzel bir noktasında yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en güzel doğa güzelliklerinden birini sunuyor. Türbenin bulunduğu bölge, deniz kıyısında yer alıyor ve bu nedenle hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekiyor. Bölge, çeşitli bitki türleri ve zengin fauna ile birlikte, doğa severlerin ilgisini çekiyor. Terzi Ahmet Dede Türbesi'nin bulunduğu Şehzadeler ilçesi, Manisa'nın önemli ilçelerinden biri olarak biliniyor ve bölgenin ekonomi ve kültürel hayatında önemli bir role sahip.
+Terzi Ahmet Dede Türbesi, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin güzel bir noktasında yer alıyor. Türbenin bulunduğu bölge, deniz kıyısında yer alıyor ve bu nedenle hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekiyor. Bölge, çeşitli bitki türleri ve zengin fauna ile birlikte, doğa severlerin ilgisini çekiyor. Terzi Ahmet Dede Türbesi'nin bulunduğu Şehzadeler ilçesi, Manisa'nın önemli ilçelerinden biri olarak biliniyor ve bölgenin ekonomi ve kültürel hayatında önemli bir role sahip.
 
 ## Flora ve Fauna
 

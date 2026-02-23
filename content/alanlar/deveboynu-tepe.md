@@ -28,7 +28,7 @@ wikidata_id: "Q31389481"
 
 # Deveboynu Tepe
 
-Deveboynu Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin ilgisini çekiyor. Tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak görülüyor ve bu bölge, yörenin doğal güzelliklerini keşfetmek isteyenler için ideal bir yer. Deveboynu Tepe'nin yüksekliği ve genişliği, burayı ziyaret edenlerin bölgeyi keşfetmeleri için yeterli bir alan sunuyor. Bu tepe, Kahramanmaraş'ın tarihi ve doğal güzellikleri arasında önemli bir yer tutuyor.
+Deveboynu Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak görülüyor ve bu bölge, yörenin doğal güzelliklerini keşfetmek isteyenler için ideal bir yer. Deveboynu Tepe'nin yüksekliği ve genişliği, burayı ziyaret edenlerin bölgeyi keşfetmeleri için yeterli bir alan sunuyor. Bu tepe, Kahramanmaraş'ın tarihi ve doğal güzellikleri arasında önemli bir yer tutuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Deveboynu Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Deveboynu Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık bir yeşil alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak görülüyor ve bu bölge, yörenin doğal güzelliklerini keşfetmek isteyenler için ideal bir yer. Deveboynu Tepe'nin yüksekliği ve genişliği, burayı ziyaret edenlerin bölgeyi keşfetmeleri için yeterli bir alan sunuyor. Bu tepe, Kahramanmaraş'ın coğrafi özellikleri arasında önemli bir yer tutuyor. Tepe ve çevresinin coğrafi yapısı, bölgenin iklimini ve bitki örtüsünü etkiliyor. Deveboynu Tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bu bölgede, çeşitli bitki türleri ve fauna encontrar lehet. Deveboynu Tepe'nin coğrafi konumu, bu bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta olarak görülüyor.
+Deveboynu Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak görülüyor ve bu bölge, yörenin doğal güzelliklerini keşfetmek isteyenler için ideal bir yer. Deveboynu Tepe'nin yüksekliği ve genişliği, burayı ziyaret edenlerin bölgeyi keşfetmeleri için yeterli bir alan sunuyor. Bu tepe, Kahramanmaraş'ın coğrafi özellikleri arasında önemli bir yer tutuyor. Tepe ve çevresinin coğrafi yapısı, bölgenin iklimini ve bitki örtüsünü etkiliyor. Deveboynu Tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bu bölgede, çeşitli bitki türleri ve fauna encontrar lehet. Deveboynu Tepe'nin coğrafi konumu, bu bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta olarak görülüyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Deveboynu Tepe'yi ziyaret etmek, doğa severler için önemli bir deneyim olabil
 ## İlginç Bilgiler
 
 - Deveboynu Tepe, 140 hektarlık bir yeşil alanı kapsıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Deveboynu Tepe, Kahramanmaraş'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir yer.
 - Tepe, yılın her dönemi ziyaret edilebilir.
 - Deveboynu Tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q31537345"
 
 # Okladağ Tepesi
 
-Gaziantep'in sınırları içerisinde yer alan Okladağ Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Okladağ Tepesi, özellikle yürüyüş ve doğa severlerin uğrak noktası haline gelmiş durumda. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor.
+Gaziantep'in sınırları içerisinde yer alan Okladağ Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Okladağ Tepesi, özellikle yürüyüş ve doğa severlerin uğrak noktası haline gelmiş durumda. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

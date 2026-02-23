@@ -1,7 +1,7 @@
 ---
 title: "Kılıçdede Türbesi"
 date: "2026-01-10T06:19:49.947Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391808"
 
 # Kılıçdede Türbesi
 
-Karadeniz Bölgesi'nin güzide şehirlerinden Samsun'un İlkadım ilçesinde yer alan Kılıçdede Türbesi, tarihi ve doğal güzellikleriyle ziyaretçilerini bekliyor. 140 hektarlık bir alanda kurulan bu özel yer, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Kılıçdede Türbesi'ne geldiğinizde, Karadeniz'in masmavi sularını ve yeşilin her tonunu görebilirsiniz. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
+Karadeniz Bölgesi'nin güzide şehirlerinden Samsun'un İlkadım ilçesinde yer alan Kılıçdede Türbesi, tarihi ve doğal güzellikleriyle ziyaretçilerini bekliyor. Kılıçdede Türbesi'ne geldiğinizde, Karadeniz'in masmavi sularını ve yeşilin her tonunu görebilirsiniz. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kılıçdede Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu özel yer, yüzy
 
 ## Coğrafya
 
-Kılıçdede Türbesi, Karadeniz Bölgesi'nin güzide şehirlerinden Samsun'un İlkadım ilçesinde yer alıyor. Bu bölge, Karadeniz'in masmavi sularına ve yeşilin her tonuna sahip. Kılıçdede Türbesi'nin coğrafi konumu, ziyaretçilerine geniş bir alan sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Bu region, Karadeniz'in en güzel plajlarına ev sahipliği yapıyor ve ziyaretçilerin denize girmesine olanak sağlıyor. Kılıçdede Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini ziyaretçileriyle buluşturuyor.
+Kılıçdede Türbesi, Karadeniz Bölgesi'nin güzide şehirlerinden Samsun'un İlkadım ilçesinde yer alıyor. Bu bölge, Karadeniz'in masmavi sularına ve yeşilin her tonuna sahip. Kılıçdede Türbesi'nin coğrafi konumu, ziyaretçilerine geniş bir alan sunuyor. Bu region, Karadeniz'in en güzel plajlarına ev sahipliği yapıyor ve ziyaretçilerin denize girmesine olanak sağlıyor. Kılıçdede Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini ziyaretçileriyle buluşturuyor.
 
 ## Flora ve Fauna
 

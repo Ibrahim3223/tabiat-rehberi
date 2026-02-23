@@ -22,7 +22,7 @@ wikidata_id: "Q108228262"
 
 # Rize-Pazar-Senyuva-Simsir
 
-Rize-Pazar-Senyuva-Simsir milli parkı, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak dikkat çekiyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Milli park,Senyuva ve Simsir gibi önemli yerleri içinde barındırıyor ve bu bölgeler, birbirinden güzel manzaralar sunuyor. Rize-Pazar-Senyuva-Simsir milli parkı, ziyaretçilerini bekliyor ve doğa severler için gerçek bir cennet olarak tanımlanıyor.
+Rize-Pazar-Senyuva-Simsir milli parkı, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak dikkat çekiyor. Milli park,Senyuva ve Simsir gibi önemli yerleri içinde barındırıyor ve bu bölgeler, birbirinden güzel manzaralar sunuyor. Rize-Pazar-Senyuva-Simsir milli parkı, ziyaretçilerini bekliyor ve doğa severler için gerçek bir cennet olarak tanımlanıyor.
 
 ## Tarihçe
 

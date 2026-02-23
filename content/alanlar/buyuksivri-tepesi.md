@@ -28,7 +28,7 @@ wikidata_id: "Q35731434"
 
 # Büyüksivri Tepesi
 
-Büyüksivri Tepesi, Ankara'nın en yüksek noktası olarak bilinir ve 1526 metrelik yüksekliğiyle İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Büyüksivri Tepesi, Ankara'nın şehir merkezine uzun bir mesafe uzaklıktadır. Bu tepe, doğa severler ve dağcılar için önemli bir destinasyondur. Büyüksivri Tepesi, aynı zamanda tarihsel ve kültürel açıdan da önemli bir noktadır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Büyüksivri Tepesi, Ankara'nın en yüksek noktası olarak bilinir ve 1526 metrelik yüksekliğiyle İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Büyüksivri Tepesi, Ankara'nın şehir merkezine uzun bir mesafe uzaklıktadır. Bu tepe, doğa severler ve dağcılar için önemli bir destinasyondur. Büyüksivri Tepesi, aynı zamanda tarihsel ve kültürel açıdan da önemli bir noktadır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Büyüksivri Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını şekillendir
 
 ## Flora ve Fauna
 
-Büyüksivri Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin etrafında, mevsimsel değişimlere göre farklı bitki türleri yetişmektedir. Bu tepe, aynı zamanda önemli bir göç yolu üzerinde bulunmaktadır. Tepenin etrafındaki araziler, çeşitli hayvan türlerine ev sahipliği yapmaktadır. Büyüksivri Tepesi, Ankara'nın ekolojik dengesini koruma açısından önemli bir role sahiptir. Tepenin etrafındaki su kaynakları, çeşitli balık türleri için habitat sunmaktadır. Büyüksivri Tepesi, aynı zamanda önemli bir kuş göç yolu üzerinde bulunmaktadır.
+ Tepenin etrafında, mevsimsel değişimlere göre farklı bitki türleri yetişmektedir. Bu tepe, aynı zamanda önemli bir göç yolu üzerinde bulunmaktadır. Tepenin etrafındaki araziler, çeşitli hayvan türlerine ev sahipliği yapmaktadır. Büyüksivri Tepesi, Ankara'nın ekolojik dengesini koruma açısından önemli bir role sahiptir. Tepenin etrafındaki su kaynakları, çeşitli balık türleri için habitat sunmaktadır. Büyüksivri Tepesi, aynı zamanda önemli bir kuş göç yolu üzerinde bulunmaktadır.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Büyüksivri Tepesi, doğa severler ve dağcılar için önemli bir destinasyond
 
 - Büyüksivri Tepesi, Ankara'nın en yüksek noktasıdır.
 - Büyüksivri Tepesi, 1526 metre yüksekliğiyle, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir.
-- Büyüksivri Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Büyüksivri Tepesi, önemli bir su kaynağı olarak da görev yapmaktadır.
 - Büyüksivri Tepesi, Ankara'nın ekolojik dengesini koruma açısından önemli bir role sahiptir.

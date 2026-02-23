@@ -57,7 +57,7 @@ Yaban Hayatı:
 Memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin bir parçasıdır. Dağ keçileri ve yaban domuzları, bölgenin yüksek kesimlerinde yaşarken, kartallar ve atmacalar gökyüzünde hüküm sürer.
 
 Ekolojik Değer:
-Kartalkaya Tepe, bölgenin ekolojik dengesini korumak açısından önemlidir. Bu dağ ekosisteminin korunması, zeytinlikler ve çam ormanlarının sürekliliğiçin hayati bir rol oynar.
+ Bu dağ ekosisteminin korunması, zeytinlikler ve çam ormanlarının sürekliliğiçin hayati bir rol oynar.
 
 ## Ziyaret Bilgileri
 

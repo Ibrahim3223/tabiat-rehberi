@@ -1,7 +1,7 @@
 ---
 title: "Balikesir-Edremit Fistikcami"
 date: "2026-01-09T11:55:23.077Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -26,7 +26,7 @@ wikidata_id: "Q108227617"
 
 ## Tarihçe
 
-Balikesir-Edremit Fistikcami milli parkının tarihi, 1400'lu yıllara kadar uzanıyor. Bu dönemde, bölgenin doğal güzellikleri ve stratejik konumu nedeniyle, çeşitli medeniyetler tarafından yerleşim yeri olarak kullanılmış. 15. yüzyılda, Osmanlı İmparatorluğu'nun hakimiyetine giren bölge, uzun süre önemli bir ticaret ve kültür merkezi olarak kaldı. 20. yüzyılın ortalarında, milli parkın kuruluşu ile birlikte, bölgenin doğal güzellikleri ve tarihi değerleri koruma altına alınmaya başlandı. 1960'lı yıllarda, milli parkın sınırları belirlenerek, koruma altına alınan alanlar genişletildi. Bugün, Balikesir-Edremit Fistikcami milli parkı, İç Anadolu Bölgesi'nin en önemli doğal ve tarihi değerlerinden biri olarak kabul ediliyor. Parkın tarihi ve doğal güzellikleri, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Balikesir-Edremit Fistikcami milli parkının tarihi, 1400'lu yıllara kadar uzanıyor. Bu dönemde, bölgenin doğal güzellikleri ve stratejik konumu nedeniyle, çeşitli medeniyetler tarafından yerleşim yeri olarak kullanılmış. 15. yüzyılda, Osmanlı İmparatorluğu'nun hakimiyetine giren bölge, uzun süre önemli bir ticaret ve kültür merkezi olarak kaldı. 20. yüzyılın ortalarında, milli parkın kuruluşu ile birlikte, bölgenin doğal güzellikleri ve tarihi değerleri koruma altına alınmaya başlandı. 1960'lı yıllarda, milli parkın sınırları belirlenerek, koruma altına alınan alanlar genişletildi. Bugün, Balikesir-Edremit Fistikcami milli parkı, İç Anadolu Bölgesi'nin en önemli doğal ve tarihi değerlerinden biri olarak kabul ediliyor.
 
 ## Coğrafya
 

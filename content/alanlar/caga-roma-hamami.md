@@ -1,7 +1,7 @@
 ---
 title: "Çağa Roma Hamamı"
 date: "2026-01-09T23:02:49.985Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738798"
 
 # Çağa Roma Hamamı
 
-Çağa Roma Hamamı, Ankara'nın Güdül ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir doğa parçasını oluşturur. Roma Hamamı'nın tarihi geçmişi, bu bölgenin önemli bir turizm merkezi haline gelmesini sağlamıştır. Hamamın etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, burayı doğa severler için önemli bir destinasyon haline getirmektedir.
+Çağa Roma Hamamı, Ankara'nın Güdül ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir alandır. Roma Hamamı'nın tarihi geçmişi, bu bölgenin önemli bir turizm merkezi haline gelmesini sağlamıştır. Hamamın etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, burayı doğa severler için önemli bir destinasyon haline getirmektedir.
 
 ## Tarihçe
 

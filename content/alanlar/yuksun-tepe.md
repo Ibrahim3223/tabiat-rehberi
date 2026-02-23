@@ -28,7 +28,7 @@ wikidata_id: "Q32196184"
 
 # Yüksün Tepe
 
-Yüksün Tepe, Adana'nın Akdeniz Bölgesi'nde yer alan ve ziyaretçilerini büyüleyen bir doğa alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte önemli bir ekosistemi barındırır. Bu bölge, hem yerel halk hem de turistler için keyifli bir gezi deneyimi sunar. Yüksün Tepe'nin yüksekliği ve konumu, ziyaretçilere bölgenin panoramik manzarasını seyretme fırsatı verir. Bu tepe, aynı zamanda bölgedeki tarihi ve kültürel mirası korumak için önemli bir role sahiptir.
+Yüksün Tepe, Adana'nın Akdeniz Bölgesi'nde yer alan ve ziyaretçilerini büyüleyen bir doğa alanıdır. Bu bölge, hem yerel halk hem de turistler için keyifli bir gezi deneyimi sunar. Yüksün Tepe'nin yüksekliği ve konumu, ziyaretçilere bölgenin panoramik manzarasını seyretme fırsatı verir. Bu tepe, aynı zamanda bölgedeki tarihi ve kültürel mirası korumak için önemli bir role sahiptir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31529056"
 
 # Burunsuz Tepesi
 
-Burunsuz Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Burunsuz Tepesi, doğa severler için bir cennet. Bu tepe, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası. Burada, doğanın güzelliğini ve sakinliğini deneyimleyebilirsiniz. Burunsuz Tepesi, aynı zamanda trekking ve doğa yürüyüşü için uygun bir yer. Bu tepe, Ankara'nın önemli turizm noktalarından biri.
+Burunsuz Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor. Burunsuz Tepesi, doğa severler için bir cennet. Bu tepe, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası. Burada, doğanın güzelliğini ve sakinliğini deneyimleyebilirsiniz. Burunsuz Tepesi, aynı zamanda trekking ve doğa yürüyüşü için uygun bir yer. Bu tepe, Ankara'nın önemli turizm noktalarından biri.
 
 ## Tarihçe
 

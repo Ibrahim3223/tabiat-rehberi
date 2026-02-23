@@ -28,7 +28,7 @@ wikidata_id: "Q34828644"
 
 # Çatkara Tepesi
 
-Çatkara Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Çatkara Tepesi, doğa severlerin ve gezginlerin ilgisini çeken bir yerdir. Tepenin etrafında çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşma mümkün. Çatkara Tepesi, Yozgat'ın önemli bir turizm noktasıdır ve her yıl birçok ziyaretçi tarafından ziyaret edilir.
+Çatkara Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepedir. Çatkara Tepesi, doğa severlerin ve gezginlerin ilgisini çeken bir yerdir. Tepenin etrafında çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşma mümkün. Çatkara Tepesi, Yozgat'ın önemli bir turizm noktasıdır ve her yıl birçok ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 

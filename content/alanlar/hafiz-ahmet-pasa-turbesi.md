@@ -1,7 +1,7 @@
 ---
 title: "Hafız Ahmet Paşa Türbesi"
 date: "2026-01-10T07:22:19.060Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391064"
 
 # Hafız Ahmet Paşa Türbesi
 
-Hafız Ahmet Paşa Türbesi, İstanbul'un tarihi mekanlarından biri olarak dikkat çeker. Fatih ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Türbenin tarihi geçmişi, İstanbul'un kültür ve mimari mirasına önemli bir katkı sağlar. Ziyaretçiler, bu tarihi mekanın güzelliğini ve önemini keşfetmek için buraya gelirler.
+Hafız Ahmet Paşa Türbesi, İstanbul'un tarihi mekanlarından biri olarak dikkat çeker. Fatih ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık bir alanı kaplar. Türbenin tarihi geçmişi, İstanbul'un kültür ve mimari mirasına önemli bir katkı sağlar. Ziyaretçiler, bu tarihi mekanın güzelliğini ve önemini keşfetmek için buraya gelirler.
 
 ## Tarihçe
 

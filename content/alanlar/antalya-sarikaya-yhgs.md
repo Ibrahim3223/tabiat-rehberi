@@ -22,7 +22,7 @@ wikidata_id: "Q108228039"
 
 # Antalya Sarıkaya YHGS
 
-Antalya Sarıkaya YHGS, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü doğal güzellikleri barındırmaktadır. Zengin fauna çeşitliliği ve yaban hayatı ile dikkat çekmektedir. Doğal güzellikleri ve yürüyüş parkurlarıyla ziyaretçilerini bekliyor. Ayrıca, bu bölgeye yapılan ziyaretler, hem doğayı korumaya hem de yerel ekonomiye katkıda bulunmaya yardımcı olmaktadır.
+Antalya Sarıkaya YHGS, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alandır. Zengin fauna çeşitliliği ve yaban hayatı ile dikkat çekmektedir. Doğal güzellikleri ve yürüyüş parkurlarıyla ziyaretçilerini bekliyor. Ayrıca, bu bölgeye yapılan ziyaretler, hem doğayı korumaya hem de yerel ekonomiye katkıda bulunmaya yardımcı olmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya Sarıkaya YHGS'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Antalya Sarıkaya YHGS, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve otlaklardan oluşmaktadır. İklimi, karasal iklim özellikleri taşımaktadır. Yaz ayları sıcak ve kuru, kış ayları soğuk ve karlı geçmektedir. Bu bölgenin coğrafi konumu, flora ve fauna çeşitliliğini etkilemektedir. Doğal güzellikleri, yürüyüş parkurları ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor. Ayrıca, bu bölgeye yapılan ziyaretler, hem doğayı korumaya hem de yerel ekonomiye katkıda bulunmaya yardımcı olmaktadır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü doğal güzellikleri barındırmaktadır.
+Antalya Sarıkaya YHGS, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve otlaklardan oluşmaktadır. İklimi, karasal iklim özellikleri taşımaktadır. Yaz ayları sıcak ve kuru, kış ayları soğuk ve karlı geçmektedir. Bu bölgenin coğrafi konumu, flora ve fauna çeşitliliğini etkilemektedir. Doğal güzellikleri, yürüyüş parkurları ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor. Ayrıca, bu bölgeye yapılan ziyaretler, hem doğayı korumaya hem de yerel ekonomiye katkıda bulunmaya yardımcı olmaktadır.
 
 ## Flora ve Fauna
 

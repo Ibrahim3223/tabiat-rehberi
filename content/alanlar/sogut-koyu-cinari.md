@@ -22,7 +22,7 @@ wikidata_id: "Q108227156"
 
 # Söğüt Koyu Cinari
 
-Söğüt Koyu Cinari, İç Anadolu Bölgesi'nin kalbinde yer alan doğal bir cennet. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu milli park, yaban hayatının çeşitliliği ve flora zenginliği ile dikkat çekiyor. Söğüt Koyu Cinari, doğa severlerin ve macera arayışında olanların ziyaret etmesi gereken bir yer. Burada, doğanın sesini dinleyerek, stresinizden kurtulabilirsiniz. Söğüt Koyu Cinari, aynı zamanda fotoğrafçılar için de bir cennet. Çeşitli bitki türleri, hayvanlar ve manzaralar, kameranız için mükemmel birer sahne oluşturuyor.
+Söğüt Koyu Cinari, İç Anadolu Bölgesi'nin kalbinde yer alan doğal bir cennet. Bu milli park, yaban hayatının çeşitliliği ve flora zenginliği ile dikkat çekiyor. Söğüt Koyu Cinari, doğa severlerin ve macera arayışında olanların ziyaret etmesi gereken bir yer. Burada, doğanın sesini dinleyerek, stresinizden kurtulabilirsiniz. Söğüt Koyu Cinari, aynı zamanda fotoğrafçılar için de bir cennet. Çeşitli bitki türleri, hayvanlar ve manzaralar, kameranız için mükemmel birer sahne oluşturuyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31535762"
 
 # Ağoluk Tepesi
 
-Ağoluk Tepesi, Hatay'ın güzide bir noktası olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılıyor. Ağoluk Tepesi, özellikle manzarasıyla dikkat çekiyor. Burada, Akdeniz Bölgesi'nin eşsiz doğasını gözlemleyebilirsiniz. Tepenin etrafındaki yeşil alanlar, yürüyüş için ideal bir ortam sunuyor. Ağoluk Tepesi, hem doğa severler hem de manzarayı izlemekten keyif alanlar için önemli bir destinasyon.
+Ağoluk Tepesi, Hatay'ın güzide bir noktası olarak karşımıza çıkıyor. Ağoluk Tepesi, özellikle manzarasıyla dikkat çekiyor. Burada, Akdeniz Bölgesi'nin eşsiz doğasını gözlemleyebilirsiniz. Tepenin etrafındaki yeşil alanlar, yürüyüş için ideal bir ortam sunuyor. Ağoluk Tepesi, hem doğa severler hem de manzarayı izlemekten keyif alanlar için önemli bir destinasyon.
 
 ## Tarihçe
 

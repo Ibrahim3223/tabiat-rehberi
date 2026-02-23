@@ -1,7 +1,7 @@
 ---
 title: "Vani Hamamı"
 date: "2026-01-09T22:57:17.290Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738658"
 
 # Vani Hamamı
 
-Vani Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Kestel/Bursa'da yer alan bu plaj, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Vani Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyondur. Plajın etrafında yer alan ağaçlar ve Yeşilalan Mahallesi, ziyaretçilere doğayla iç içe bir deneyim sunar. Vani Hamamı, Marmara Bölgesi'nin en çok ziyaret edilen plajlarından biri olarak bilinir ve her yıl binlerce turisti ağırlar.
+Vani Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Vani Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyondur. Plajın etrafında yer alan ağaçlar ve Yeşilalan Mahallesi, ziyaretçilere doğayla iç içe bir deneyim sunar. Vani Hamamı, Marmara Bölgesi'nin en çok ziyaret edilen plajlarından biri olarak bilinir ve her yıl binlerce turisti ağırlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Vani Hamamı'nın tarihi geçmişi hakkındalı bilgiler bulunmamaktadır. Ancak
 
 ## Coğrafya
 
-Vani Hamamı, Kestel/Bursa'da yer alır ve Marmara Bölgesi'nin en güzel plajlarından biridir. Plaj, 140 hektarlık bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir. Vani Hamamı'nın etrafında yer alan Yeşilalan Mahallesi, plaja yakın mesafede bulunan diğer turistik alanlar ve Marmara Denizi, ziyaretçilere geniş bir coğrafi alanda çeşitli aktivite seçenekleri sunar. Plajın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılımandır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hüküm sürer. Vani Hamamı, Marmara Bölgesi'nin en çok ziyaret edilen plajlarından biri olarak bilinir ve her yıl binlerce turisti ağırlar.
+Vani Hamamı, Kestel/Bursa'da yer alır ve Marmara Bölgesi'nin en güzel plajlarından biridir. Vani Hamamı'nın etrafında yer alan Yeşilalan Mahallesi, plaja yakın mesafede bulunan diğer turistik alanlar ve Marmara Denizi, ziyaretçilere geniş bir coğrafi alanda çeşitli aktivite seçenekleri sunar. Plajın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılımandır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hüküm sürer. Vani Hamamı, Marmara Bölgesi'nin en çok ziyaret edilen plajlarından biri olarak bilinir ve her yıl binlerce turisti ağırlar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Vani Hamamı, denize girerek serinlemek isteyenler için ideal bir destinasyondu
 ## İlginç Bilgiler
 
 - Vani Hamamı, Marmara Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, 140 hektarlık bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Vani Hamamı, özellikle yaz aylarında denize girerek serinlemek isteyenler için popüler bir destinasyon haline gelmiştir.
 - Plajın etrafında yer alan tarihi ve kültürel miras, ziyaretçilere bölgenin zengin tarihini keşfetme fırsatı sunar.
 - Vani Hamamı, her yıl birçok etkinliğe ev sahipliği yapar.

@@ -22,7 +22,7 @@ wikidata_id: "Q108228829"
 
 # Aygır Gölü Sulak Alanı
 
-Aygır Gölü Sulak Alanı, İç Anadolu Bölgesi'nin merkezinde yer alan 140 hektarlık bir sulak alan olarak bilinir. Yaklaşık 200 futbol sahası büyüklüğündeki bu alan, bölge için önemli bir ekolojik değer olarak kabul edilir. Göl ve çevresindeki sulak alanlar, su kuşları ve diğer canlılar için önemli bir yaşam alanı sunar. Aygır Gölü Sulak Alanı, doğal güzelliği ve biyolojik çeşitliliği ile dikkat çekici bir destinasyon olarak karşımıza çıkar.
+Aygır Gölü Sulak Alanı, İç Anadolu Bölgesi'nin merkezinde yer alan 140 hektarlık bir sulak alan olarak bilinir. Göl ve çevresindeki sulak alanlar, su kuşları ve diğer canlılar için önemli bir yaşam alanı sunar. Aygır Gölü Sulak Alanı, doğal güzelliği ve biyolojik çeşitliliği ile dikkat çekici bir destinasyon olarak karşımıza çıkar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Aygır Gölü Sulak Alanı'nın tarihi geçmişi, bölgenin jeoloji ve ekolojik 
 
 ## Coğrafya
 
-Aygır Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu sulak alan, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Göl ve çevresindeki sulak alanlar, bölgenin jeoloji ve hidrolojik özellikleri nedeniyle oluşmuştur. Aygır Gölü, sulak alan ekosistemleri için önemli bir yaşam alanı sunar ve çeşitli bitki ve hayvan türleri için habitat görevi görür. Bölgenin iklimi, sulak alanların oluşumu ve canlıların yaşam döngüsünü etkiler. Aygır Gölü Sulak Alanı, coğrafi konumu ve ekolojik özellikleri nedeniyle önemli bir doğal miras olarak kabul edilir.
+Aygır Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Göl ve çevresindeki sulak alanlar, bölgenin jeoloji ve hidrolojik özellikleri nedeniyle oluşmuştur. Aygır Gölü, sulak alan ekosistemleri için önemli bir yaşam alanı sunar ve çeşitli bitki ve hayvan türleri için habitat görevi görür. Bölgenin iklimi, sulak alanların oluşumu ve canlıların yaşam döngüsünü etkiler. Aygır Gölü Sulak Alanı, coğrafi konumu ve ekolojik özellikleri nedeniyle önemli bir doğal miras olarak kabul edilir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Aygır Gölü Sulak Alanı, doğa severler ve çevre bilincine sahip individuals
 ## İlginç Bilgiler
 
 - Aygır Gölü Sulak Alanı, 140 hektarlık bir alanı kaplar.
-- Yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Sulak alan ekosistemleri için önemli bir yaşam alanı sunar.
 - Variası bitki ve hayvan türleri için habitat görevi görür.
 - Bölgenin ekolojik dengesini korur.

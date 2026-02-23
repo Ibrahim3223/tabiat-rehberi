@@ -28,7 +28,7 @@ wikidata_id: "Q32196198"
 
 # Yünlü Tepe
 
-Yünlü Tepe, İç Anadolu Bölgesi'nin geniş ve verimli ovalarının ortasında yükselen bir tepe olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli coğrafi oluşumlarından biri. Yünlü Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin bir bölge. Bu tepe, aynı zamanda tarihi geçmişinin izlerini taşıyan önemli bir kültürel miras alanı olarak görülüyor. Yünlü Tepe'yi ziyaret etmek, hem doğayı hem de tarihin derinliklerini keşfetmek anlamına geliyor.
+Yünlü Tepe, İç Anadolu Bölgesi'nin geniş ve verimli ovalarının ortasında yükselen bir tepe olarak dikkat çekiyor. Yünlü Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin bir bölge. Bu tepe, aynı zamanda tarihi geçmişinin izlerini taşıyan önemli bir kültürel miras alanı olarak görülüyor. Yünlü Tepe'yi ziyaret etmek, hem doğayı hem de tarihin derinliklerini keşfetmek anlamına geliyor.
 
 ## Tarihçe
 

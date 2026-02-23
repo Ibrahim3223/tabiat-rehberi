@@ -1,7 +1,7 @@
 ---
 title: "Ebu Derda Türbesi"
 date: "2026-01-10T00:00:29.268Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bartın"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728096"
 
 # Ebu Derda Türbesi
 
-Ebu Derda Türbesi, Bartın ilinin merkezinde, Karadeniz kıyısında yer alan bir türbe ve plajdır. Bu özel yer, tarihi ve doğal güzelliklerin birleştiği bir noktadır. 140 hektarlık bir alana yayılan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunar. Ebu Derda Türbesi, hem tarihi hem de doğal güzellikleri ile dikkat çeker ve ziyaretçilerine unutulmaz bir deneyim sunar.
+Ebu Derda Türbesi, Bartın ilinin merkezinde, Karadeniz kıyısında yer alan bir türbe ve plajdır. Bu özel yer, tarihi ve doğal güzelliklerin birleştiği bir noktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ebu Derda Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Ebu Derda Türbesi, Karadeniz kıyısında, Bartın ilinin merkezinde yer alır. Bu bölge, 140 hektarlık geniş bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğündedir. Türbenin bulunduğu yer, yüksek bir konumda ve Karadeniz'in güzel manzarasına sahiptir. Ebu Derda Türbesi'nin etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, yaban hayatı ile birlikte, ziyaretçilerine doğanın güzelliklerini sunar. Karadeniz ikliminin etkisi altında olan bu bölge, nemli ve ılıman bir iklime sahiptir. Ebu Derda Türbesi, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini çekmektedir.
+Ebu Derda Türbesi, Karadeniz kıyısında, Bartın ilinin merkezinde yer alır. Türbenin bulunduğu yer, yüksek bir konumda ve Karadeniz'in güzel manzarasına sahiptir. Ebu Derda Türbesi'nin etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, yaban hayatı ile birlikte, ziyaretçilerine doğanın güzelliklerini sunar. Karadeniz ikliminin etkisi altında olan bu bölge, nemli ve ılıman bir iklime sahiptir. Ebu Derda Türbesi, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 

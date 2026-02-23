@@ -23,7 +23,7 @@ wikidata_id: "Q108228640"
 
 # MUGLA
 
-MUGLA milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna ile dolu. Bu güzel milli park, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. MUGLA milli parkı, aynı zamanda bir doğa koruma alanı olarak da faaliyet gösteriyor ve çevre bilincinin artırılması için önemli bir rol üstleniyor.
+MUGLA milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. Bu güzel milli park, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. MUGLA milli parkı, aynı zamanda bir doğa koruma alanı olarak da faaliyet gösteriyor ve çevre bilincinin artırılması için önemli bir rol üstleniyor.
 
 ## Tarihçe
 

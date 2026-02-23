@@ -28,7 +28,7 @@ wikidata_id: "Q31558290"
 
 # Toydemir Tepesi
 
-Ankara'nın İç Anadolu Bölgesi'nde yer alan Toydemir Tepesi, görkemli manzarasıyla dikkat çekiyor. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini etkileyici bir doğa deneyimi sunuyor. Toydemir Tepesi, Ankara'nın merkezi konumundan leicht ulaşılabilirlikteki bu nokta, hem yerel halk hem de ziyaretçiler için keyifli bir gezi seçeneği sunuyor. Tepenin etrafındaki manzara, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere geniş bir görüş açısı sağlıyor.
+Ankara'nın İç Anadolu Bölgesi'nde yer alan Toydemir Tepesi, görkemli manzarasıyla dikkat çekiyor. Toydemir Tepesi, Ankara'nın merkezi konumundan leicht ulaşılabilirlikteki bu nokta, hem yerel halk hem de ziyaretçiler için keyifli bir gezi seçeneği sunuyor. Tepenin etrafındaki manzara, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere geniş bir görüş açısı sağlıyor.
 
 ## Tarihçe
 

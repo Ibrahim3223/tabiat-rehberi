@@ -29,7 +29,7 @@ wikidata_id: "Q134592335"
 
 # Erikli Şelalesi (Yalova-Teşvikiye)
 
-Yalova ilinin Teşvikiye köyünde bulunan Erikli Şelalesi, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içinde yer alıyor. Bu şelale, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak biliniyor. Şelalenin suyu, çevre dağlardan doğan derelerden geliyor ve yüksek bir konumdan düşerek, muhteşem bir manzara sunuyor. Bu alan, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekiyor.
+ Bu şelale, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak biliniyor. Şelalenin suyu, çevre dağlardan doğan derelerden geliyor ve yüksek bir konumdan düşerek, muhteşem bir manzara sunuyor. Bu alan, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekiyor.
 
 ## Tarihçe
 

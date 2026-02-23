@@ -28,7 +28,7 @@ wikidata_id: "Q34878191"
 
 # Karaöce Sivrisi Tepesi
 
-Karaöce Sivrisi Tepesi, Hatay ilinin natuur güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Doğal güzelliği ve tarihi önemiyle ziyaretçilerini cezbeden bu tepe, aynı zamanda coğrafi açıdan önemli bir nokta olarak kabul ediliyor. Karaöce Sivrisi Tepesi, ziyaretçilerine güzel manzaralar sunuyor ve Hatay'ın tarihini keşfetmek isteyenler için ideal bir destinasyon olarak görülüyor.
+Karaöce Sivrisi Tepesi, Hatay ilinin natuur güzelliklerinden biri olarak dikkat çekiyor. Doğal güzelliği ve tarihi önemiyle ziyaretçilerini cezbeden bu tepe, aynı zamanda coğrafi açıdan önemli bir nokta olarak kabul ediliyor. Karaöce Sivrisi Tepesi, ziyaretçilerine güzel manzaralar sunuyor ve Hatay'ın tarihini keşfetmek isteyenler için ideal bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karaöce Sivrisi Tepesi, tarihi geçmişiyle dikkat çekiyor. Bu tepe, yüzyıll
 
 ## Coğrafya
 
-Karaöce Sivrisi Tepesi, Hatay ilinin coğrafi açıdan önemli bir noktası olarak kabul ediliyor. Bu tepe, Akdeniz Bölgesi'nin güzelliklerini sunuyor ve ziyaretçilerine güzel manzaralar sağlıyor. Tepenin coğrafi konumu, ziyaretçilerini büyülüyor ve doğal güzelliği, coğrafi önemini artırıyor. Karaöce Sivrisi Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve coğrafi açıdan önemli bir nokta olarak görülüyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, coğrafi önemini artırıyor.
+Karaöce Sivrisi Tepesi, Hatay ilinin coğrafi açıdan önemli bir noktası olarak kabul ediliyor. Bu tepe, Akdeniz Bölgesi'nin güzelliklerini sunuyor ve ziyaretçilerine güzel manzaralar sağlıyor. Tepenin coğrafi konumu, ziyaretçilerini büyülüyor ve doğal güzelliği, coğrafi önemini artırıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, coğrafi önemini artırıyor.
 
 ## Flora ve Fauna
 

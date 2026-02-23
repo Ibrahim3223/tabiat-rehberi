@@ -23,7 +23,7 @@ wikidata_id: "Q106683817"
 
 # Nefeskesen
 
-Nefeskesen, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleriyle dikkat çeken bir plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Nefeskesen, ziyaretçilerine huzurlu bir ortam ve çeşitli olanaklar sunuyor. Burada, doğayı ve güneşin tadını çıkarabilirsiniz.
+Nefeskesen, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleriyle dikkat çeken bir plajdır. Nefeskesen, ziyaretçilerine huzurlu bir ortam ve çeşitli olanaklar sunuyor. Burada, doğayı ve güneşin tadını çıkarabilirsiniz.
 
 ## Tarihçe
 

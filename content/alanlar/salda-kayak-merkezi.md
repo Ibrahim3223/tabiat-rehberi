@@ -50,7 +50,7 @@ Yüksekli ve eğimleriyle dikkat çeken bu bölge, Eiffel Kulesi'nin yaklaşık 
 
 ## Flora ve Fauna
 
-Salda Kayak Merkezi, dağ ekosisteminin zenginliğini sergileyen bir bölge. Step bitki örtüsü ve bozkırın hakim olduğu bu alanda, kuraklığa adapte olmuş türler göze çarpar. Yükseklik zonlarına bağlı olarak değişen alpin flora, ilkbaharda rengarenk çiçeklerle donanır. 
+Salda Kayak Merkezi, dağ ekosisteminin zenginliğini sergileyen bir bölge. Step bitki örtüsü ve bozkırın hakim olduğu bu alanda, kuraklığa adapte olmuş türler göze çarpar. Yükseklik zonlarına bağlı olarak değişen alpin flora, ilkbaharda rengarenk çiçeklerle donanır.
 
 Bitki örtüsü, mevsimsel değişimlere göre şekil değiştirir. İlkbaharda, dağ yamaçları çiçeklerle kaplanır. Sonbaharda, step bitkileri sararıp kurur. Bu değişim, yaban hayatının yaşamını da etkiler. Memeliler ve kuşlar, mevsimsel olarak göç eder veya beslenme alışkanlıklarını değiştirir. Sürüngenler, sıcak günlerde kayaların üzerinde güneşlenir.
 

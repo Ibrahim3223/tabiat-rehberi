@@ -1,7 +1,7 @@
 ---
 title: "Hasan Efendi Türbesi"
 date: "2026-01-10T07:09:03.284Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390908"
 
 # Hasan Efendi Türbesi
 
-Hasan Efendi Türbesi, Demirci, Manisa'da yer alan tarihi bir yapıdır. Bu bölge, Ege Bölgesi'nin önemli tarihi ve doğal güzellikleri arasında yer alır. Hasan Efendi Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerin birleştiği bir noktada karşılar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplar. Bu geniş alan, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir destinasyon oluşturur. Hasan Efendi Türbesi, Demirci'nin önemli turistik noktaları arasında yer alır ve ziyaretçiler tarafından sıklıkla ziyaret edilir.
+Hasan Efendi Türbesi, Demirci, Manisa'da yer alan tarihi bir yapıdır. Bu bölge, Ege Bölgesi'nin önemli tarihi ve doğal güzellikleri arasında yer alır. Hasan Efendi Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerin birleştiği bir noktada karşılar. Bu geniş alan, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir destinasyon oluşturur. Hasan Efendi Türbesi, Demirci'nin önemli turistik noktaları arasında yer alır ve ziyaretçiler tarafından sıklıkla ziyaret edilir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31548135"
 
 # Bagaraza Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan Bagaraza Tepesi, 1400 metrelik yüksekliğiyle dikkat çeker. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bagaraza Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise Siirt ilinin panoramik manzarasını izleme mümkün.
+Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan Bagaraza Tepesi, 1400 metrelik yüksekliğiyle dikkat çeker. Bagaraza Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise Siirt ilinin panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 

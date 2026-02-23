@@ -1,7 +1,7 @@
 ---
 title: "Murad-ı Münzavi Türbesi"
 date: "2026-01-10T07:08:00.558Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390984"
 
 # Murad-ı Münzavi Türbesi
 
-Murad-ı Münzavi Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. 140 hektarlık bir alanda yer alan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplıyor. Bu büyüklük, ziyaretçilerin geniş bir alanda gezebilmelerine olanak tanıyor. Murad-ı Münzavi Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyon olarak ziyaretçilerini bekliyor.
+Murad-ı Münzavi Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Bu büyüklük, ziyaretçilerin geniş bir alanda gezebilmelerine olanak tanıyor. Murad-ı Münzavi Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyon olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

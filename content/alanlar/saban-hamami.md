@@ -1,7 +1,7 @@
 ---
 title: "Şaban Hamamı"
 date: "2026-01-09T23:10:58.807Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738944"
 
 # Şaban Hamamı
 
-Şanlıurfa'nın Eyyübiye ilçesinde yer alan Şaban Hamamı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar. Bu geniş yeşil alan, hem bölgenin güzelliğini yansıtması hem de ziyaretçilere geniş bir hareket alanı sunması açısından önemlidir. Şaban Hamamı, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel değerleri ile de ön plana çıkıyor. Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle zengin bir tarihi geçmişi bulunuyor.
+ Bu geniş yeşil alan, hem bölgenin güzelliğini yansıtması hem de ziyaretçilere geniş bir hareket alanı sunması açısından önemlidir. Şaban Hamamı, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel değerleri ile de ön plana çıkıyor. Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle zengin bir tarihi geçmişi bulunuyor.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ wikidata_id: "Q131738944"
 
 - Şanlıurfa, tarihin her döneminde önemli bir merkez olarak kabul edilmiştir.
 - Bölge, coğrafi olarak da zengin bir flora ve fauna çeşitliliğine sahiptir.
-- Şaban Hamamı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar.
+
 - Bölge, mevsimsel değişimlere göre farklı bitkilerin ve ağaçların yeşermesine tanık oluyor.
 - Şanlıurfa'nın tarihi geçmişi, Şaban Hamamı'nın da bir parçası olarak görülüyor.

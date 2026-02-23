@@ -28,7 +28,7 @@ wikidata_id: "Q31385881"
 
 # Daztepe
 
-Daztepe, Güneydoğu Anadolu Bölgesi'nin önemli merkezlerinden biri olan Siirt ilinde yer alır. Bu bölge, coğrafi güzelliği ve tarihi önemi ile dikkat çekmektedir. Daztepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu tepe, çevredeki diğer coğrafi oluşumlar ile birlikte, bölgenin doğal güzelliğini sergiler. Daztepe'nin yüksekliği ve konumu, burayı bir gözlem noktası haline getirmekte ve ziyaretçilere geniş bir manzara sunmaktadır.
+Daztepe, Güneydoğu Anadolu Bölgesi'nin önemli merkezlerinden biri olan Siirt ilinde yer alır. Bu bölge, coğrafi güzelliği ve tarihi önemi ile dikkat çekmektedir. Bu tepe, çevredeki diğer coğrafi oluşumlar ile birlikte, bölgenin doğal güzelliğini sergiler. Daztepe'nin yüksekliği ve konumu, burayı bir gözlem noktası haline getirmekte ve ziyaretçilere geniş bir manzara sunmaktadır.
 
 ## Tarihçe
 

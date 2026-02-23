@@ -1,7 +1,7 @@
 ---
 title: "Üçler Dede Türbesi"
 date: "2026-01-10T06:38:40.389Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q134734789"
 
 # Üçler Dede Türbesi
 
-Üçler Dede Türbesi, Marmara Bölgesi'nin en güzel yerlerinden biri olan Edremit'te bulunur. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Üçler Dede Türbesi, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini çekmeyi başaran bir destinasyondur. Burada, denizin maviliği ve güneşin sıcaklığı, ziyaretçilere unutulmaz bir deneyim sunar. Üçler Dede Türbesi, aynı zamanda bir türbe olarak da bilinir ve bu özelliği ile hem dini hem de kültürel açıdan önemli bir yerdir.
+Üçler Dede Türbesi, Marmara Bölgesi'nin en güzel yerlerinden biri olan Edremit'te bulunur. Üçler Dede Türbesi, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini çekmeyi başaran bir destinasyondur. Burada, denizin maviliği ve güneşin sıcaklığı, ziyaretçilere unutulmaz bir deneyim sunar. Üçler Dede Türbesi, aynı zamanda bir türbe olarak da bilinir ve bu özelliği ile hem dini hem de kültürel açıdan önemli bir yerdir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31524893"
 
 # Eğriar Tepesi
 
-Eğriar Tepesi, Antalya'nın görece sakin ve yemyeşil bir bölgesinde yer alan, yaklaşık 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Eğriar Tepesi, ziyaretçilerine şehrin panoramik manzarasını sunar ve doğayla iç içe bir expérience sunar. Eğriar Tepesi, doğa severlerin yanı sıra fotoğrafçılar ve doğa tutkunları için de bir cennet olarak kabul edilir.
+ Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Eğriar Tepesi, ziyaretçilerine şehrin panoramik manzarasını sunar ve doğayla iç içe bir deneyim sunar. Eğriar Tepesi, doğa severlerin yanı sıra fotoğrafçılar ve doğa tutkunları için de bir cennet olarak kabul edilir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386014"
 
 # Bayatkolu Tepe
 
-Bayatkolu Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayacak bir destinasyon. Tepenin etrafındaki manzara, geniş stepler ve uzaklarda yer alan dağlarla birlikte büyüleyici bir görünüm sunuyor. Bayatkolu Tepe, hem doğa severler hem de tarih meraklıları için keyifli bir gezi deneyimi sunuyor.
+Bayatkolu Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Tepenin etrafındaki manzara, geniş stepler ve uzaklarda yer alan dağlarla birlikte büyüleyici bir görünüm sunuyor. Bayatkolu Tepe, hem doğa severler hem de tarih meraklıları için keyifli bir gezi deneyimi sunuyor.
 
 ## Tarihçe
 

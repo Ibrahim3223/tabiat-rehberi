@@ -32,7 +32,7 @@ Erzurum'un dağlık coğrafyasında, kayak severlerin ve doğa tutkunlarının g
 
 ## Tarihçe
 
-Erzurum bölgesi, tarihin sâu sayfalarında önemli bir rol oynamış, çeşitli uygarlıkların geçiş noktası olarak görev yapmıştır. Tosın Dağı da bu bölgenin bir parçası olarak, yüzyıllar boyunca insan faaliyetlerinin merkezinde yer almıştır. Bölge, tarih boyunca Hitit, Roma, Bizans, Selçuklu ve Osmanlı gibi uygarlıkların egemenliğinde bulunmuştur. 
+Erzurum bölgesi, tarihin derin sayfalarında önemli bir rol oynamış, çeşitli uygarlıkların geçiş noktası olarak görev yapmıştır. Tosın Dağı da bu bölgenin bir parçası olarak, yüzyıllar boyunca insan faaliyetlerinin merkezinde yer almıştır. Bölge, tarih boyunca Hitit, Roma, Bizans, Selçuklu ve Osmanlı gibi uygarlıkların egemenliğinde bulunmuştur.
 
 Bu doğal alanlar, Türkiye'de tarihsel öneme sahip yayla ve otlaklar olarak kullanılmış, yaylacılık ve hayvancılık faaliyetlerine ev sahipliği yapmıştır. Ayrıca, tarihi İpek Yolu gibi ticaret yolları üzerinde bulunan bu bölge, ve kültürel alışverişin önemli merkezlerinden biri olarak görev yapmıştır. Tosın Dağı, bölgenin coğrafi konumu ve doğal güzelliği ile insanları çekmiş, çeşitli amaçlarla bu bölgeye gelip gitmelerine neden olmuştur. Bu faaliyetler, bölgenin ekonomi ve kültürel zenginliğine katkıda bulunmuş, aynı zamanda doğal kaynakların korunmasına ve sürdürülebilirliğine önem verilmesini gerektirmiştir.
 

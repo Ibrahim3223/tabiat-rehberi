@@ -1,7 +1,7 @@
 ---
 title: "Süceattin Hamamı"
 date: "2026-01-09T22:58:35.333Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,11 +29,11 @@ wikidata_id: "Q131738663"
 
 # Süceattin Hamamı
 
-Süceattin Hamamı, Eskişehir'in Seyitgazi ilçesinde yer alan ve tarihi ile doğası arasında güzel bir denge sunan bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı faaliyeti içinde barındırmaktadır. Burada hem tarihi yapıların güzelliğini hem dein yeşilliğini ve canlılığını deneyimleme mümkün. Süceattin Hamamı, ziyaretçilerine hem dinlenme hem de kültür deneyimini bir arada sunan özel bir nokta.
+Süceattin Hamamı, Eskişehir'in Seyitgazi ilçesinde yer alan ve tarihi ile doğası arasında güzel bir denge sunan bir destinasyon. Burada hem tarihi yapıların güzelliğini hem dein yeşilliğini ve canlılığını deneyimleme mümkün. Süceattin Hamamı, ziyaretçilerine hem dinlenme hem de kültür deneyimini bir arada sunan özel bir nokta.
 
 ## Tarihçe
 
-Süceattin Hamamı, tarihi geçmişi ile dikkat çeken bir yapı. Tarihi hakkında detaylı bilgi bulunmasa da, bulunduğu bölge itibariyle yüzyıllar boyunca önemli bir merkez olarak görev yapmış olabileceği düşünülmektedir. Özellikle bölgenin kültürel ve tarihi mirasının korunmasında önemli bir rol oynamış olan bu hamam, günümüzde de ziyaretçilerini ağırlamaya devam etmektedir. Süceattin Hamamı, hem tarihi önemi hem de bölgeye kazandırdığı değer ile önemli bir turistik destinasyon olarak kabul edilmektedir.
+Süceattin Hamamı, tarihi geçmişi ile dikkat çeken bir yapı. Tarihi hakkında detaylı bilgi bulunmasa da, bulunduğu bölge itibariyle yüzyıllar boyunca önemli bir merkez olarak görev yapmış olabileceği düşünülmektedir. Özellikle bölgenin kültürel ve tarihi mirasının korunmasında önemli bir rol oynamış olan bu hamam, günümüzde de ziyaretçilerini ağırlamaya devam etmektedir.
 
 ## Coğrafya
 

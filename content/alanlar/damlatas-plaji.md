@@ -29,7 +29,7 @@ wikidata_id: "Q49320494"
 
 # Damlataş Plajı
 
-Damlataş Plajı, Antalya'nın Alanya ilçesinde bulunan ve Türkiye'nin en güzel plajlarından biri olarak kabul edilen bir doğal güzelliktir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte bir plajda güneşin ve denizin tadını çıkarma mümkün. Plajın kumsalı ince kumdan oluşur ve deniz suyu berra ve masmavi bir renge sahiptir. Damlataş Plajı, hem yerli hem de yabancı turistler tarafından sıkça ziyaret edilen bir yerdir. Plajda çeşitli -yani- çeşitli su sporları ve aktiviteler yapılabiliyor. Ancak, bu aktiviteleri yaparken dikkatli olma ve necessary -yani- gerekli önlemleri almak önemlidir.
+Damlataş Plajı, Antalya'nın Alanya ilçesinde bulunan ve Türkiye'nin en güzel plajlarından biri olarak kabul edilen bir doğal güzelliktir. Plajın kumsalı ince kumdan oluşur ve deniz suyu berra ve masmavi bir renge sahiptir. Plajda çeşitli -yani- çeşitli su sporları ve aktiviteler yapılabiliyor. Ancak, bu aktiviteleri yaparken dikkatli olma ve necessary -yani- gerekli önlemleri almak önemlidir.
 
 ## Tarihçe
 

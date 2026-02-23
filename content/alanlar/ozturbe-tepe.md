@@ -1,7 +1,7 @@
 ---
 title: "Öztürbe Tepe"
 date: "2026-01-10T14:38:31.216Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Kastamonu"
@@ -28,7 +28,7 @@ wikidata_id: "Q34829861"
 
 # Öztürbe Tepe
 
-Öztürbe Tepe, Kastamonu'nun zengin doğal ve tarihi mirasını bir araya getiren bir nokta. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzelliği ve tarihi önemi ile dikkat çeken Öztürbe Tepe, ziyaretçilerini Karadeniz Bölgesi'nin eşsiz manzaralarına davet ediyor. Burada, hem doğayı hem de tarihin izlerini keşfetme mümkün.
+Öztürbe Tepe, Kastamonu'nun zengin doğal ve tarihi mirasını bir araya getiren bir nokta. Doğal güzelliği ve tarihi önemi ile dikkat çeken Öztürbe Tepe, ziyaretçilerini Karadeniz Bölgesi'nin eşsiz manzaralarına davet ediyor. Burada, hem doğayı hem de tarihin izlerini keşfetme mümkün.
 
 ## Tarihçe
 

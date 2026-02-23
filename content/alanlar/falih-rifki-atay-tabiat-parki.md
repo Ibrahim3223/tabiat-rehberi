@@ -30,7 +30,7 @@ wikidata_id: "Q24915734"
 
 # Falih Rıfkı Atay Tabiat Parkı
 
-Falih Rıfkı Atay Tabiat Parkı, İstanbul'un Sarıyer ilçesinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Parkın içinde çeşitli bitki türleri ve hayvanlar bulunmakla birlikte, özellikle bahar aylarında renkli bir manzara sunar. Parka gelen ziyaretçiler, doğanın güzelliğini yakından keşfedebilir ve streslerini atabilirler.
+ Bu geniş yeşil alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Parkın içinde çeşitli bitki türleri ve hayvanlar bulunmakla birlikte, özellikle bahar aylarında renkli bir manzara sunar. Parka gelen ziyaretçiler, doğanın güzelliğini yakından keşfedebilir ve streslerini atabilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Falih Rıfkı Atay Tabiat Parkı, tarihi geçmişiyle dikkat çekiyor. Parkın k
 
 ## Coğrafya
 
-Falih Rıfkı Atay Tabiat Parkı, Marmara Bölgesi'nin kuzeydoğusunda, İstanbul'un Sarıyer ilçesinde yer alıyor. Park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi konumu, ziyaretçilere geniş bir yeşil alan sunuyor. Parkın etrafı, yüksek ağaçlarla çevrili ve bu da parka ayrı bir güzellik katıyor. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemli. Parka gelen ziyaretçiler, yılın dört mevsiminde de farklı güzellikler keşfedebilirler. Parkın coğrafi konumu ve iklimi, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Falih Rıfkı Atay Tabiat Parkı, Marmara Bölgesi'nin kuzeydoğusunda, İstanbul'un Sarıyer ilçesinde yer alıyor. Parkın coğrafi konumu, ziyaretçilere geniş bir yeşil alan sunuyor. Parkın etrafı, yüksek ağaçlarla çevrili ve bu da parka ayrı bir güzellik katıyor. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemli. Parka gelen ziyaretçiler, yılın dört mevsiminde de farklı güzellikler keşfedebilirler. Parkın coğrafi konumu ve iklimi, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

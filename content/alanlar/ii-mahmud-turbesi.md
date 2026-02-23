@@ -1,7 +1,7 @@
 ---
 title: "II. Mahmud Türbesi"
 date: "2026-01-09T22:07:56.390Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Fatih"
@@ -30,7 +30,7 @@ wikidata_id: "Q4273774"
 
 # II. Mahmud Türbesi
 
-II. Mahmud Türbesi, Çemberlitaş'ta bulunan 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe ev sahipliği yapıyor. Bu alan, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe ev sahipliği yapıyor. Fatih'in merkezinde yer alan bu plaj, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayacak bir yer olarak biliniyor.
+II. Bu alan, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Fatih'in merkezinde yer alan bu plaj, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayacak bir yer olarak biliniyor.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ II. Mahmud Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu plajın tarihi hakk
 
 ## Coğrafya
 
-II. Mahmud Türbesi, Çemberlitaş'ta bulunan 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe ev sahipliği yapıyor. Bu alan, Fatih'in merkezinde yer alıyor ve ziyaretçilerini tarihi ve doğal güzelliği ile karşılayacak bir yer olarak biliniyor. Coğrafi olarak, bu plaj, İç Anadolu Bölgesi'nde yer alıyor. Bu bölgenin coğrafi özellikleri, II. Mahmud Türbesi'nin güzelliğini daha da artıran faktörler arasında yer alıyor. II. Mahmud Türbesi, ziyaretçilerine çeşitli coğrafi güzellikleri sunuyor. Bu güzellikler arasında, 140 hektarlık yeşil alan, futbol sahası büyüklüğündeki doğal güzellikler ve tarihi geçmişiyle dikkat çekiyor. Ayrıca, bu plajın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yer olarak biliniyor. Fatih'in merkezinde yer alması, bu plajı ziyaretçiler için daha da çekici kılıyor.
+II. Bu alan, Fatih'in merkezinde yer alıyor ve ziyaretçilerini tarihi ve doğal güzelliği ile karşılayacak bir yer olarak biliniyor. Coğrafi olarak, bu plaj, İç Anadolu Bölgesi'nde yer alıyor. Bu bölgenin coğrafi özellikleri, II. Mahmud Türbesi'nin güzelliğini daha da artıran faktörler arasında yer alıyor. II. Mahmud Türbesi, ziyaretçilerine çeşitli coğrafi güzellikleri sunuyor. Bu güzellikler arasında, 140 hektarlık yeşil alan, futbol sahası büyüklüğündeki doğal güzellikler ve tarihi geçmişiyle dikkat çekiyor. Ayrıca, bu plajın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yer olarak biliniyor. Fatih'in merkezinde yer alması, bu plajı ziyaretçiler için daha da çekici kılıyor.
 
 ## Flora ve Fauna
 
-II. Mahmud Türbesi, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe ev sahipliği yapıyor. Bu alan, çeşitli bitki türleri ve fauna ile ziyaretçilerini karşılayacak bir yer olarak biliniyor. Bu plajın florası, mevsimsel değişimlere göre değişiyor. Her mevsim, farklı bitki türleri ve fauna ile ziyaretçilerini karşılayacak bir güzelliğe sahip. II. Mahmud Türbesi, ziyaretçilerine doğal güzelliklerini sunuyor. Bu güzellikler arasında, 140 hektarlık yeşil alan, futbol sahası büyüklüğündeki doğal güzellikler ve tarihi geçmişiyle dikkat çekiyor. Ayrıca, bu plajın fauna, çeşitli hayvan türleri ile ziyaretçilerini karşılayacak bir güzelliğe sahip.
+II. Bu alan, çeşitli bitki türleri ve fauna ile ziyaretçilerini karşılayacak bir yer olarak biliniyor. Bu plajın florası, mevsimsel değişimlere göre değişiyor. Her mevsim, farklı bitki türleri ve fauna ile ziyaretçilerini karşılayacak bir güzelliğe sahip. II. Mahmud Türbesi, ziyaretçilerine doğal güzelliklerini sunuyor. Bu güzellikler arasında, 140 hektarlık yeşil alan, futbol sahası büyüklüğündeki doğal güzellikler ve tarihi geçmişiyle dikkat çekiyor. Ayrıca, bu plajın fauna, çeşitli hayvan türleri ile ziyaretçilerini karşılayacak bir güzelliğe sahip.
 
 ## Ziyaret Bilgileri
 

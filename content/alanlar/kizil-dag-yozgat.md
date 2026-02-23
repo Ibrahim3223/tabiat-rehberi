@@ -53,9 +53,9 @@ Dağın fiziksel yapısına bakıldığında, detaylı fiziksel veri bulunmasa d
 
 Kızıl Dağ, Yozgat'ın görkemli bir doğal güzelliği olarak karşımıza çıkıyor. Bu dağ ekosistemi, yükseklik zonları ile birlikte farklı bitki örtülerine ev sahipliği yapıyor. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler öne çıkıyor.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Step bitkileri ve bozkır türleri, mevsimsel değişimlere uyum sağlıyor. Dağın yüksek kesimlerinde, alpin flora çeşitliliği dikkat çekiyor. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Step bitkileri ve bozkır türleri, mevsimsel değişimlere uyum sağlıyor. Dağın yüksek kesimlerinde, alpin flora çeşitliliği dikkat çekiyor.
 
-Yaban hayatı açısından zengin olan bu bölge, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Göç mevsiminde, dağlar üzerinden geçen kuş sürüleri, bu doğal güzelliğin bir parçası haline geliyor. Sürüngenler de, bu dağ ekosisteminin önemli bir bileşeni olarak yer alıyor. 
+Yaban hayatı açısından zengin olan bu bölge, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Göç mevsiminde, dağlar üzerinden geçen kuş sürüleri, bu doğal güzelliğin bir parçası haline geliyor. Sürüngenler de, bu dağ ekosisteminin önemli bir bileşeni olarak yer alıyor.
 
 Kızıl Dağ, ekolojik açıdan önemli bir bölge olarak kabul ediliyor. Bu alanın korunması, bölgenin biyolojik çeşitliliğini ve doğal dengesini sürdürmek açısından büyük önem taşıyor.
 

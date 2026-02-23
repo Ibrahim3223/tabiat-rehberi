@@ -28,7 +28,7 @@ wikidata_id: "Q34828786"
 
 # Çayırlık Tepe
 
-Diyarbakır, tarihin izlerini taşıyan bir şehir. Çayırlık Tepe, bu şehrin en önemli noktalarından biri. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzelliklerle karşılayan bir mekan. Çayırlık Tepe, Diyarbakır'ın merkezinde yer alıyor ve şehrin tarihini anlamak için ziyaret edilmesi gereken bir yer. Burada, tarihin derinliklerine inebilir ve şehrin kültürel zenginliğini keşfedebilirsiniz.
+Diyarbakır, tarihin izlerini taşıyan bir şehir. Çayırlık Tepe, bu şehrin en önemli noktalarından biri. Çayırlık Tepe, Diyarbakır'ın merkezinde yer alıyor ve şehrin tarihini anlamak için ziyaret edilmesi gereken bir yer. Burada, tarihin derinliklerine inebilir ve şehrin kültürel zenginliğini keşfedebilirsiniz.
 
 ## Tarihçe
 

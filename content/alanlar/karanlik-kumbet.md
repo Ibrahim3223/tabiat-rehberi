@@ -30,7 +30,7 @@ wikidata_id: "Q124066162"
 
 # Karanlık Kümbet
 
-Karanlıkümbet, Erzurum'un Yakutiye ilçesinde yer alan ve doğa severlerin ziyaret ettiği bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir sahil şeridine sahiptir. Karanlıkümbet, doğa yürüyüşleri, piknik alanları ve su sporları ile ziyaretçilerine çeşitli olanaklar sunar. Bu bölge, aynı zamanda doğa fotoğrafçıları için de bir cennet niteliğindedir. Karanlıkümbet'in etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Karanlıkümbet, Erzurum'un Yakutiye ilçesinde yer alan ve doğa severlerin ziyaret ettiği bir plajdır. Karanlıkümbet, doğa yürüyüşleri, piknik alanları ve su sporları ile ziyaretçilerine çeşitli olanaklar sunar. Bu bölge, aynı zamanda doğa fotoğrafçıları için de bir cennet niteliğindedir. Karanlıkümbet'in etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 

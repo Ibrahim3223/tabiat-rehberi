@@ -28,7 +28,7 @@ wikidata_id: "Q31555281"
 
 # Mahzen Tepe
 
-Mardin'in tarihi dokusu içinde yer alan Mahzen Tepe, bölgeye özgü zengin kültürel mirası yansıtan önemli bir nokta. Bu tepe, Mardin ilinin eşsiz coğrafi konumuyla birlikte, ziyaretçilerini tarihin derinliklerine götürmeye hazır. Mardin'in históriki zenginliği, Mahzen Tepe'nin etrafındaki manzarayla birleşerek ziyaretçilere benzersiz bir deneyim sunuyor. Mahzen Tepe, Mardin'in merkezi bir noktasında yer alıyor.
+Mardin'in tarihi dokusu içinde yer alan Mahzen Tepe, bölgeye özgü zengin kültürel mirası yansıtan önemli bir nokta. Bu tepe, Mardin ilinin eşsiz coğrafi konumuyla birlikte, ziyaretçilerini tarihin derinliklerine götürmeye hazır. Mardin'in tarihi zenginliği, Mahzen Tepe'nin etrafındaki manzarayla birleşerek ziyaretçilere benzersiz bir deneyim sunuyor. Mahzen Tepe, Mardin'in merkezi bir noktasında yer alıyor.
 
 ## Tarihçe
 

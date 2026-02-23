@@ -28,7 +28,7 @@ wikidata_id: "Q31387110"
 
 # Karaoluk Tepe
 
-Karaoluk Tepe, Sinop'un zengin tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Karaoluk Tepe, ziyaretçilerini hem tarihi geçmişine hem de doğal güzelliklerine davet ediyor. Bu tepe, Karadeniz Bölgesi'nin önemli noktalarından biri olarak biliniyor ve ziyaretçilerine çok çeşitli deneyimler sunuyor.
+Karaoluk Tepe, Sinop'un zengin tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon. Karaoluk Tepe, ziyaretçilerini hem tarihi geçmişine hem de doğal güzelliklerine davet ediyor. Bu tepe, Karadeniz Bölgesi'nin önemli noktalarından biri olarak biliniyor ve ziyaretçilerine çok çeşitli deneyimler sunuyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31561532"
 
 # Şimşir Tepesi
 
-Karadeniz Bölgesi'nin güzide illerinden Zonguldak'ta yer alan Şimşir Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Şimşir Tepesi, Zonguldak'ın merkezi ile uzun bir mesafe uzaklıkta bulunuyor ve ulaşımı oldukça kolay. Bu tepe, özellikle doğa severlerin ve yürüyüş tutkunlarının uğrak noktalarından biri haline gelmiş durumda. Şimşir Tepesi'nin eteklerinde çeşitli bitki türleri ve zengin fauna bulunuyor.
+Karadeniz Bölgesi'nin güzide illerinden Zonguldak'ta yer alan Şimşir Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor. Şimşir Tepesi, Zonguldak'ın merkezi ile uzun bir mesafe uzaklıkta bulunuyor ve ulaşımı oldukça kolay. Bu tepe, özellikle doğa severlerin ve yürüyüş tutkunlarının uğrak noktalarından biri haline gelmiş durumda. Şimşir Tepesi'nin eteklerinde çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karadeniz Bölgesi'nin güzide illerinden Zonguldak'ta yer alan Şimşir Tepesi,
 
 ## Coğrafya
 
-Şimşir Tepesi, Zonguldak'ın merkezi ile uzun bir mesafe uzaklıkta bulunuyor ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri. Bu tepe, 140 hektarlık bir yeşil alan üzerinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Şimşir Tepesi'nin eteklerinde çeşitli bitki türleri ve zengin fauna bulunuyor. Tepenin zirvesinden, Karadeniz Bölgesi'nin muhteşem manzarasını izleme mümkün. Şimşir Tepesi, özellikle ilkbahar ve sonbahar aylarında, ziyaretçilerini güzelleşen doğasıyla büyülüyor. Bu tepe, Zonguldak'ın iklimini yansıtan bir yapıya sahip ve Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor.
+Şimşir Tepesi, Zonguldak'ın merkezi ile uzun bir mesafe uzaklıkta bulunuyor ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri. Şimşir Tepesi'nin eteklerinde çeşitli bitki türleri ve zengin fauna bulunuyor. Tepenin zirvesinden, Karadeniz Bölgesi'nin muhteşem manzarasını izleme mümkün. Şimşir Tepesi, özellikle ilkbahar ve sonbahar aylarında, ziyaretçilerini güzelleşen doğasıyla büyülüyor. Bu tepe, Zonguldak'ın iklimini yansıtan bir yapıya sahip ve Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor.
 
 ## Flora ve Fauna
 

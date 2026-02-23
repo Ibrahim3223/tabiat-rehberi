@@ -22,7 +22,7 @@ wikidata_id: "Q108227711"
 
 # Kahramanmaras-Antakya-Samandağ Şimşir
 
-Kahramanmaras-Antakya-Samandağ Şimşir milli parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda çeşitli bitki türleri ile zengin fauna dikkat çekiyor. Milli parkın hikayesi, yüzyıllar boyunca oluşan doğal süreçlerin bir araya gelmesi ile şekilleniyor. Doğal güzellikleri koruma ve gelecek nesillere aktarmak amacıyla kurulan bu milli park, aynı zamanda önemli bir turizm merkezini de oluşturuyor.
+Kahramanmaras-Antakya-Samandağ Şimşir milli parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Milli parkın hikayesi, yüzyıllar boyunca oluşan doğal süreçlerin bir araya gelmesi ile şekilleniyor. Doğal güzellikleri koruma ve gelecek nesillere aktarmak amacıyla kurulan bu milli park, aynı zamanda önemli bir turizm merkezini de oluşturuyor.
 
 ## Tarihçe
 

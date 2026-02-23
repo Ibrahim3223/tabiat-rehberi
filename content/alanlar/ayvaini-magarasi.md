@@ -33,7 +33,7 @@ Bursa'nınNilüfer ilçesinde yer alan Ayvaini Mağarası, doğanın mucizesi ol
 
 ## Tarihçe
 
-Bursa bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, bu topraklar Frigler, Lidyalılar ve Persler gibi uygarlıkların hükümranlık alanlarını oluşturmuştur. Daha sonra Roma ve Bizans imparatorluklarının bir parçası haline gelen Bursa, Osmanlı İmparatorluğu'nun da önemli merkezlerinden biri olmuştur.
+Bursa bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, bu topraklar Frigler, Lidyalılar ve Persler gibi uygarlıkların hükümranlık alanlarını oluşturmuştur. Daha sonra Roma ve Bizans imparatorluklarının bir parçası haline gelen Bursa, Osmanlı İmparatorluğu'nun da önemli merkezlerinden biri olmuştur.
 
 Ayvaini Mağarası, bu tarihsel zenginlik içinde yer alan doğal bir hazine olarak dikkat çeker. Türkiye'de, benzeri birçok mağara ve doğal oluşum, binlerce yıllık insan yerleşimlerinin ve uygarlıkların izlerini taşır. Bu tür alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda tarihleri ve kültürel önemi ile de önemlidir.
 
@@ -55,7 +55,7 @@ Ayvaini Mağarası'nın giriş kısmında step bitki örtüsünün hakimiyeti di
 
 Mağaranın içinde ve çevresinde, çeşitli yaban hayvanlarına rastlama mümkün. Memeliler arasında, mağaranın karanlıköşelerinde yaşayan küçük kemirgenler ve yırtıcılar gibi türler bulunuyor. Kuşlar ise, mağaranın girişinde ve çevresinde yuvalanıyor, özellikle göç mevsimlerinde bu alan bir uğrak noktası haline geliyor. Sürüngenler de, mağaranın sıcak ve kuru bölgelerinde ediyor.
 
-Ayvaini Mağarası, bu ekosistemin korunması açısından önemli bir rol oynuyor. Mağaranın özel iklimi, birçok canlı için bir sığınak teşkil ediyor. Bu nedenle, mağaranın korunması ve bu alanda yaşayan türlerin bảo tồn edilmesi büyük önem taşıyor.
+Ayvaini Mağarası, bu ekosistemin korunması açısından önemli bir rol oynuyor. Mağaranın özel iklimi, birçok canlı için bir sığınak teşkil ediyor. Bu nedenle, mağaranın korunması ve bu alanda yaşayan türlerin koruma tồn edilmesi büyük önem taşıyor.
 
 ## Ziyaret Bilgileri
 

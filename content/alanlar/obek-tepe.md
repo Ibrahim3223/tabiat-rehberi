@@ -28,7 +28,7 @@ wikidata_id: "Q34829644"
 
 # Öbek Tepe
 
-Mersin'in Akdeniz Bölgesi'nde yer alan Öbek Tepe, yaklaşık 140 hektarlık bir alanı kaplayan ve doğal güzelliği ile dikkat çeken bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Öbek Tepe, ziyaretçilerini a güzelliği ve tarihi geçmişiyle büyülüyor. Bu tepe, Mersin'in en önemli turistik noktalarından biri ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Mersin'in Akdeniz Bölgesi'nde yer alan Öbek Tepe, yaklaşık 140 hektarlık bir alanı kaplayan ve doğal güzelliği ile dikkat çeken bir tepe. Öbek Tepe, ziyaretçilerini a güzelliği ve tarihi geçmişiyle büyülüyor. Bu tepe, Mersin'in en önemli turistik noktalarından biri ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Mersin'in Akdeniz Bölgesi'nde yer alan Öbek Tepe, yaklaşık 140 hektarlık bi
 
 ## Coğrafya
 
-Öbek Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve doğal güzelliği ile dikkat çekiyor. Öbek Tepe, yüksek bir konumda yer alıyor ve bölgenin en önemli coğrafi noktalarından biri. Bu tepe, Akdeniz ikliminin karakteristik özelliklerini taşıyor ve yıl boyunca ılıman bir hava hüküm sürüyor. Öbek Tepe, flora ve fauna açısından oldukça zengin ve çeşitli bitki türleri ile hayvanları barındırıyor. Bu tepe, Mersin'in en önemli doğal güzelliklerinden biri ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Öbek Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve doğal güzelliği ile dikkat çekiyor. Öbek Tepe, yüksek bir konumda yer alıyor ve bölgenin en önemli coğrafi noktalarından biri. Bu tepe, Akdeniz ikliminin karakteristik özelliklerini taşıyor ve yıl boyunca ılıman bir hava hüküm sürüyor. Bu tepe, Mersin'in en önemli doğal güzelliklerinden biri ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Flora ve Fauna
 
-Öbek Tepe, flora ve fauna açısından oldukça zengin. Bu tepe, çeşitli bitki türleri ile hayvanları barındırıyor ve doğal güzelliği ile dikkat çekiyor. Öbek Tepe, mevsimsel değişimlere göre farklı bitki türleri ile hayvanları barındırıyor ve her sezon ziyaretçilerine farklı bir güzellik sunuyor. Bu tepe, Mersin'in en önemli doğal güzelliklerinden biri ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Öbek Tepe, ziyaretçilerine doğal güzelliği ve flora ile fauna hakkında geniş bilgi veren bir doğa koruma alanı.
+ Bu tepe, çeşitli bitki türleri ile hayvanları barındırıyor ve doğal güzelliği ile dikkat çekiyor. Öbek Tepe, mevsimsel değişimlere göre farklı bitki türleri ile hayvanları barındırıyor ve her sezon ziyaretçilerine farklı bir güzellik sunuyor. Bu tepe, Mersin'in en önemli doğal güzelliklerinden biri ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Öbek Tepe, ziyaretçilerine doğal güzelliği ve flora ile fauna hakkında geniş bilgi veren bir doğa koruma alanı.
 
 ## Ziyaret Bilgileri
 

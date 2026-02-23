@@ -56,7 +56,7 @@ Armut Dağı'nın ekolojik değeri, bölgenin biyolojik çeşitliliğini koruma 
 
 ## Ziyaret Bilgileri
 
-Armut Dağı, doğa severler için bir cennet. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu izleyebilirsiniz. Kahramanmaraş'tan Armut Dağı'na ulaşmak için özel araç veya toplu taşıma kullanabilirsiniz. İlkbahar ve sonbahar ayları, ziyaret için en ideal zamanlardır. Bu mevsimlerde hava sıcaklığı ve doğa manzarası mükemmel bir uyum içinde olur. Trekking, kamp, fotoğrafçılık ve kuş gözlemi gibi aktiviteleri yaparak doğanın güzelliğini keşfedebilirsiniz. Yanınıza mutlaka su, atıştırmalık ve uygun giysiler alın. En güzel manzara noktası, dağın zirvesinde bulunan noktadır, ancak buraya çıkmak için fiziksel olarak hazırlıklı olmanız necessário.
+Armut Dağı, doğa severler için bir cennet. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu izleyebilirsiniz. Kahramanmaraş'tan Armut Dağı'na ulaşmak için özel araç veya toplu taşıma kullanabilirsiniz. İlkbahar ve sonbahar ayları, ziyaret için en ideal zamanlardır. Bu mevsimlerde hava sıcaklığı ve doğa manzarası mükemmel bir uyum içinde olur. Trekking, kamp, fotoğrafçılık ve kuş gözlemi gibi aktiviteleri yaparak doğanın güzelliğini keşfedebilirsiniz. Yanınıza mutlaka su, atıştırmalık ve uygun giysiler alın. En güzel manzara noktası, dağın zirvesinde bulunan noktadır, ancak buraya çıkmak için fiziksel olarak hazırlıklı olmanız gerekli.
 
 ## İlginç Bilgiler
 

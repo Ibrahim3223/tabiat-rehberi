@@ -33,7 +33,7 @@ Gürcistan ve Türkiye sınırında yer alan Samtshe-Cavaheti bölgesinde, Kasri
 
 ## Tarihçe
 
-Gürcistan'da bulunan Kasris-Seri dağının tarihsel bağlamı, bölgenin zengin ve çeşitli geçmişine ışık tutar. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların etkisi altına girmiştir. Antik Çağ'da, Gürcistan'ın stratejik konumu, önemli ticaret yollarının kesişme noktası olarak hizmet vermiş ve bölgenin kültür ve ekonomisini şekillendirmiştir. 
+Gürcistan'da bulunan Kasris-Seri dağının tarihsel bağlamı, bölgenin zengin ve çeşitli geçmişine ışık tutar. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların etkisi altına girmiştir. Antik Çağ'da, Gürcistan'ın stratejik konumu, önemli ticaret yollarının kesişme noktası olarak hizmet vermiş ve bölgenin kültür ve ekonomisini şekillendirmiştir.
 
 Bu tür doğal alanlar, Türkiye'de önemli bir tarihsel öneme sahiptir. Tarihi İpek Yolu gibi önemli ticaret yolları, genellikle dağlık ve doğal güzelliği yüksek bölgelerden geçerdi. Bu bölgeler, aynı zamanda yaylacılık ve hayvancılık faaliyetleri için de elverişli olmuştur. İnsanlar, bu doğal alanları yalnızca ekonomik faaliyetler için değil, aynı zamanda dinlenme ve rehavet için de kullanmışlardır. Kasris-Seri dağı da, bu bağlamda, bölgenin ekonomik, kültürel ve sosyal yaşamında önemli bir role sahip olmalıdır.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31566823"
 
 # Hızırilyas Tepesi
 
-Giresun'un en güzel doğal alanlarından biri olan Hızırilyas Tepesi, Karadeniz Bölgesi'nde yer alır. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Hızırilyas Tepesi, ziyaretçilerini doğal güzelliği ve zengin flora ve faunasıyla karşılar. Bu tepe, aynı zamanda tarihi geçmişiyle de dikkat çeker. Yüzyıllar boyunca, çeşitli uygarlıkların yerleşim alanı olarak kullanılmıştır. Hızırilyas Tepesi, Giresun'un en önemli turizm merkezlerinden biridir.
+Giresun'un en güzel doğal alanlarından biri olan Hızırilyas Tepesi, Karadeniz Bölgesi'nde yer alır. Hızırilyas Tepesi, ziyaretçilerini doğal güzelliği ve zengin flora ve faunasıyla karşılar. Bu tepe, aynı zamanda tarihi geçmişiyle de dikkat çeker. Yüzyıllar boyunca, çeşitli uygarlıkların yerleşim alanı olarak kullanılmıştır. Hızırilyas Tepesi, Giresun'un en önemli turizm merkezlerinden biridir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hızırilyas Tepesi, tarihi geçmişiyle dikkat çeker. Yüzyıllar boyunca, çe
 
 ## Coğrafya
 
-Hızırilyas Tepesi, Karadeniz Bölgesi'nde yer alır. Bu tepe, Giresun ilinin en güzel doğal alanlarından biridir. Hızırilyas Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, deniz seviyesinden yüksek bir konumda yer alır. Hızırilyas Tepesi, aynı zamanda zengin flora ve faunasıyla dikkat çeker. Bu tepe, çeşitli bitki türleri ve hayvanlarla kaplıdır. Hızırilyas Tepesi, ziyaretçilerini doğal güzelliği ve zengin flora ve faunasıyla karşılar. Bu tepe, Giresun'un en önemli turizm merkezlerinden biridir. Hızırilyas Tepesi, aynı zamanda önemli bir çevre alanı olarak da dikkat çeker. Bu tepe, doğal güzelliği ve tarihi geçmişiyle, ziyaretçilerini etkileyen bir alandır.
+Hızırilyas Tepesi, Karadeniz Bölgesi'nde yer alır. Bu tepe, Giresun ilinin en güzel doğal alanlarından biridir. Bu tepe, deniz seviyesinden yüksek bir konumda yer alır. Hızırilyas Tepesi, aynı zamanda zengin flora ve faunasıyla dikkat çeker. Bu tepe, çeşitli bitki türleri ve hayvanlarla kaplıdır. Hızırilyas Tepesi, ziyaretçilerini doğal güzelliği ve zengin flora ve faunasıyla karşılar. Bu tepe, Giresun'un en önemli turizm merkezlerinden biridir. Hızırilyas Tepesi, aynı zamanda önemli bir çevre alanı olarak da dikkat çeker. Bu tepe, doğal güzelliği ve tarihi geçmişiyle, ziyaretçilerini etkileyen bir alandır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Hızırilyas Tepesi, ziyaretçiler için önemli bir çekim merkezi oluşturur. 
 ## İlginç Bilgiler
 
 - Hızırilyas Tepesi, Giresun ilinin en güzel doğal alanlarından biridir.
-- Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Hızırilyas Tepesi, tarihi geçmişiyle dikkat çeker.
 - Bu tepe, aynı zamanda önemli bir ticaret merkezi olarak da kullanılmıştır.
 - Hızırilyas Tepesi, ziyaretçilerini doğal güzelliği ve zengin flora ve faunasıyla karşılar.

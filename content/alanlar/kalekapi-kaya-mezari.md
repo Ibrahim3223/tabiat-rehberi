@@ -29,11 +29,11 @@ wikidata_id: "Q134728192"
 
 # Kalekapı Kaya Mezarı
 
-Kalekapı Kaya Mezarı, Kastamonu'nun Taşköprü ilçesinde, Karadeniz Bölgesi'nin yeşil örtüsünün arasında gizlenen bir tarihi hazine. Bu mezar, yaklaşık 140 hektarlık bir alanda, doğanın içinde yer alan bir kaya oluşumunda bulunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada yer alan kaya mezarları, tarihi ve doğal güzelliklerin bir arada olduğu bir noktayı temsil ediyor. Kalekapı Kaya Mezarı, ziyaretçilerini hem tarihi geçmiş hem de doğal güzelliği ile cezbediyor.
+Kalekapı Kaya Mezarı, Kastamonu'nun Taşköprü ilçesinde, Karadeniz Bölgesi'nin yeşil örtüsünün arasında gizlenen bir tarihi hazine. Bu mezar, yaklaşık 140 hektarlık bir alanda, doğanın içinde yer alan bir kaya oluşumunda bulunuyor. Kalekapı Kaya Mezarı, ziyaretçilerini hem tarihi geçmiş hem de doğal güzelliği ile cezbediyor.
 
 ## Tarihçe
 
-Kalekapı Kaya Mezarı, tarihin sâu sayfalarında gizlenen bir geçmişe sahip. Bu mezarların tam olarak ne zaman ve kimler tarafından yapıldığı bilinmese de, tarihi geçmişi yüzyıllar öncesine dayanıyor. Bu bölgede yaşayan eski medeniyetlerin, ölülerini kaya mezarlarına gömdükleri biliniyor. Kalekapı Kaya Mezarı, bu geleneğin bir parçası olarak, tarihin derinliklerinde gizli kalan bir geçmişe ışık tutuyor. Bu mezarların, o dönemlerin kültürel ve dini inançlarını yansıttığı düşünülüyor. Tarihçiler ve arkeologlar, bu mezarları inceleyerek, o dönemlerin yaşam tarzları ve törenleri hakkında önemli bilgiler elde edebiliyorlar. Kalekapı Kaya Mezarı, sadece bir tarihi mekan değil, aynı zamanda bir kültür mirası olarak da görülebilir.
+Kalekapı Kaya Mezarı, tarihin derin sayfalarında gizlenen bir geçmişe sahip. Bu mezarların tam olarak ne zaman ve kimler tarafından yapıldığı bilinmese de, tarihi geçmişi yüzyıllar öncesine dayanıyor. Bu bölgede yaşayan eski medeniyetlerin, ölülerini kaya mezarlarına gömdükleri biliniyor. Kalekapı Kaya Mezarı, bu geleneğin bir parçası olarak, tarihin derinliklerinde gizli kalan bir geçmişe ışık tutuyor. Bu mezarların, o dönemlerin kültürel ve dini inançlarını yansıttığı düşünülüyor. Tarihçiler ve arkeologlar, bu mezarları inceleyerek, o dönemlerin yaşam tarzları ve törenleri hakkında önemli bilgiler elde edebiliyorlar. Kalekapı Kaya Mezarı, sadece bir tarihi mekan değil, aynı zamanda bir kültür mirası olarak da görülebilir.
 
 ## Coğrafya
 
@@ -50,7 +50,7 @@ Kalekapı Kaya Mezarı, ziyaretçilerine hem tarihi hem de doğal güzelliklerin
 ## İlginç Bilgiler
 
 - Kalekapı Kaya Mezarı, Kastamonu'nun tarihi ve doğal güzelliklerinin bir arada olduğu bir nokta.
-- Bu mezarlar, tarihin sâu sayfalarında gizlenen bir geçmişe sahip.
+- Bu mezarlar, tarihin derin sayfalarında gizlenen bir geçmişe sahip.
 - Kalekapı Kaya Mezarı, Karadeniz Bölgesi'nin yeşil ve dağlık arazisinde yer alıyor.
 - Bu bölgenin flora ve faunası oldukça zengin.
 - Kalekapı Kaya Mezarı, ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunuyor.

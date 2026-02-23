@@ -22,7 +22,7 @@ wikidata_id: "Q108228442"
 
 # İzmir-Bayındır-Ödemiş-Kızılçam
 
-İzmir-Bayındır-Ödemiş-Kızılçam milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ki, bu da yaklaşık 200 futbol sahası büyüklüğüne denk geliyor. Parkın bulunduğu yer, İzmir'in Bayındır, Ödemiş ve Kızılçam ilçeleri arasında yer alıyor. Burada, hem doğal güzellikleri keşfetmek hem de bölgenin tarihi geçmişini öğrenme mümkün. Parkın içinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere benzersiz bir doğa deneyimi sunuyor.
+İzmir-Bayındır-Ödemiş-Kızılçam milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biri olarak karşımıza çıkıyor. Parkın bulunduğu yer, İzmir'in Bayındır, Ödemiş ve Kızılçam ilçeleri arasında yer alıyor. Burada, hem doğal güzellikleri keşfetmek hem de bölgenin tarihi geçmişini öğrenme mümkün. Parkın içinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere benzersiz bir doğa deneyimi sunuyor.
 
 ## Tarihçe
 

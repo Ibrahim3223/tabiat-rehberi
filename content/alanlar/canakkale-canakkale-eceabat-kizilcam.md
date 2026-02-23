@@ -22,7 +22,7 @@ wikidata_id: "Q108228422"
 
 # Çanakkale-Çanakkale-Eceabat-Kızılçam
 
-Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan Çanakkale-Çanakkale-Eceabat-Kızılçam milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklükteki bir alan, ziyaretçilerin doğayla iç içe vakit geçirmesine olanak tanır. Parkın konumu, ziyaretçilerin hem doğayı hem de çevreyi keşfetmesine olanak sağlar. Çanakkale-Çanakkale-Eceabat-Kızılçam milli parkı, ziyaretçilerine hem dinlenme hem de keşif imkanı sunar.
+ Bu büyüklükteki bir alan, ziyaretçilerin doğayla iç içe vakit geçirmesine olanak tanır. Parkın konumu, ziyaretçilerin hem doğayı hem de çevreyi keşfetmesine olanak sağlar. Çanakkale-Çanakkale-Eceabat-Kızılçam milli parkı, ziyaretçilerine hem dinlenme hem de keşif imkanı sunar.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan Çanakkale-Çanak
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Çanakkale-Çanakkale-Eceabat-Kızılçam milli parkı, Marmara Bölgesi'nde yer alan Çanakkale ilinde bulunmaktadır.
 - Parkın coğrafi konumu, ziyaretçilerin hem karasal hem de denizel ekosistemleri keşfetmesine olanak tanır.
 - Parkın flora ve faunası, mevsimsel değişimlere bağlı olarak yıl boyunca farklılık gösterir.

@@ -28,7 +28,7 @@ wikidata_id: "Q31389974"
 
 # Babadağı Tepesi
 
-Babadağı Tepesi, Eskişehir'in eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal zenginliklerini gözler önüne seriyor. Babadağı Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir nokta olarak dikkat çekiyor. Burada, doğanın güzelliği ve coğrafi çeşitlilik bir araya geliyor. Tepenin eteklerinde ve zirvesinde, farklı mevsimlerde değişen manzaralar ve renkler, ziyaretçilere benzersiz bir deneyim sunuyor.
+Babadağı Tepesi, Eskişehir'in eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Babadağı Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir nokta olarak dikkat çekiyor. Burada, doğanın güzelliği ve coğrafi çeşitlilik bir araya geliyor. Tepenin eteklerinde ve zirvesinde, farklı mevsimlerde değişen manzaralar ve renkler, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

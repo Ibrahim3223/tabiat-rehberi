@@ -50,11 +50,11 @@ Doğal bir liman gibi görünen ada, çevresindeki su kaynakları ile birlikte, 
 
 ## Flora ve Fauna
 
-Doğanbey Adası, İzmir'in kıyılarında yer alan bir ada olarak, benzersiz bir ekosisteme ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Doğanbey Adası, İzmir'in kıyılarında yer alan bir ada olarak, benzersiz bir ekosisteme ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ada genelinde zeytinlikler ve çam ormanları hakim. İlkbaharın gelmesiyle birlikte, ada çiçeklerle donanıyor. Çam ağaçlarının altında, çeşitli otsu bitkiler ve yer çalı türleri yetişiyor. 
+Bitki Örtüsü olarak, ada genelinde zeytinlikler ve çam ormanları hakim. İlkbaharın gelmesiyle birlikte, ada çiçeklerle donanıyor. Çam ağaçlarının altında, çeşitli otsu bitkiler ve yer çalı türleri yetişiyor.
 
-Yaban Hayatı olarak, ada özellikle deniz kuşlarını barındırıyor. Kıyı kesimlerinde, çeşitli sürüngenler ve memeliler de yaşamlarını sürdürebiliyorlar. Sonbaharın gelmesiyle, ada göçmen kuşların önemli bir durağı haline geliyor. 
+Yaban Hayatı olarak, ada özellikle deniz kuşlarını barındırıyor. Kıyı kesimlerinde, çeşitli sürüngenler ve memeliler de yaşamlarını sürdürebiliyorlar. Sonbaharın gelmesiyle, ada göçmen kuşların önemli bir durağı haline geliyor.
 
 Ekolojik Değer olarak, ada ekosisteminin izole popülasyonlar barındırması, onu özel kılıyor. Deniz kuşları ve kıyı bitkilerinin yaşamları, ada ekosisteminin dengesiyle direkt olarak bağlantılı. Ada, doğal güzelliği ve biyolojik çeşitliliği nedeniyle koruma altına alınması gereken bir alan olarak öne çıkıyor.
 

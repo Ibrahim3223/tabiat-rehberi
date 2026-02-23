@@ -1,7 +1,7 @@
 ---
 title: "Lala Hüseyin Paşa Hamamı"
 date: "2026-01-09T22:50:27.286Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738634"
 
 # Lala Hüseyin Paşa Hamamı
 
-Lala Hüseyin Paşa Hamamı, Kütahya'nın merkezinde, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş tarihi bir hamamdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yeşilin buluştuğu bir noktadır. Hamam, tarihi geçmişi ve mimari yapısı ile dikkat çekici bir yapıdır. Ziyaretçiler, burada hem tarihi bir yapıyı keşfedebilir hem de şehrin doğal güzelliklerini görebilir.
+Lala Hüseyin Paşa Hamamı, Kütahya'nın merkezinde, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş tarihi bir hamamdır. Hamam, tarihi geçmişi ve mimari yapısı ile dikkat çekici bir yapıdır. Ziyaretçiler, burada hem tarihi bir yapıyı keşfedebilir hem de şehrin doğal güzelliklerini görebilir.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Lala Hüseyin Paşa Hamamı, Kütahya'nın merkezinde yer alan bir yapıdır. Ş
 
 ## Flora ve Fauna
 
-Lala Hüseyin Paşa Hamamı ve çevresi, çeşitli bitki türleri ile zengin bir flora sunar. Ziyaretçiler, mevsimsel değişimlere bağlı olarak farklı bitkileri ve çiçekleri görebilir. Bu bölgede, yaban hayatı da çeşitlilik gösterir ve ziyaretçiler, farklı hayvan türleri ile karşılaşabilir. Ekolojik dengenin korunması, bu bölgenin doğal güzelliklerini gelecek nesiller için korumak açısından önemlidir. Ziyaretçiler, bu bölgeyi keşfederek, flora ve faunayı yakından görebilir ve doğal dengenin güzelliğini deneyimleyebilir.
+Lala Hüseyin Paşa Hamamı ve çevresi, çeşitli bitki türleri ile zengin bir flora sunar. Ziyaretçiler, mevsimsel değişimlere bağlı olarak farklı bitkileri ve çiçekleri görebilir. Bu bölgede, yaban hayatı da çeşitlilik gösterir ve ziyaretçiler, farklı hayvan türleri ile karşılaşabilir. Ziyaretçiler, bu bölgeyi keşfederek, flora ve faunayı yakından görebilir ve doğal dengenin güzelliğini deneyimleyebilir.
 
 ## Ziyaret Bilgileri
 

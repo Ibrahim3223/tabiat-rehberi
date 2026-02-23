@@ -29,7 +29,7 @@ wikidata_id: "Q31391066"
 
 # Kemal Tepe
 
-Kemal Tepe, Adıyaman ilinin merkezi ve çevresinde yer alan önemli bir coğrafi oluşumdur. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana eşittir. Adıyaman'ın coğrafi yapısını etkileyen bu tepe, şehrin panoramik görünümünü de şekillendirir. Kemal Tepe, şehre hakim bir konumda bulunur ve manzarası ile dikkat çeker. Şehir merkezine yakın olması nedeniyle, ziyaretçiler için kolay ulaşılabilir bir noktadır.
+Kemal Tepe, Adıyaman ilinin merkezi ve çevresinde yer alan önemli bir coğrafi oluşumdur. Adıyaman'ın coğrafi yapısını etkileyen bu tepe, şehrin panoramik görünümünü de şekillendirir. Kemal Tepe, şehre hakim bir konumda bulunur ve manzarası ile dikkat çeker. Şehir merkezine yakın olması nedeniyle, ziyaretçiler için kolay ulaşılabilir bir noktadır.
 
 ## Tarihçe
 

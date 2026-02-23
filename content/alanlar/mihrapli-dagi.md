@@ -32,9 +32,9 @@ Mersin'in zengin doğal güzellikleri arasında yer alan Mihraplı Dağı, ziyar
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşam alanı olmuştur. Hitit, Roma ve Bizans gibi medeniyetler bu bölgeye iz bırakmıştır. Doğal güzellikleri ve stratejik konumuyla wichtig bir merkez olarak kabul edilmiştir. 
+Mersin bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşam alanı olmuştur. Hitit, Roma ve Bizans gibi medeniyetler bu bölgeye iz bırakmıştır. Doğal güzellikleri ve stratejik konumuyla wichtig bir merkez olarak kabul edilmiştir.
 
-Mihraplı Dağı gibi doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahip olmuştur. Bu alanlar, yalnızca doğal güzellikleri nedeniyle değil, aynı zamanda insanların yaşam alanlarını ve geçim kaynaklarını destekledikleri için değerlidir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu doğal alanların etrafında gelişmiştir. 
+Mihraplı Dağı gibi doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahip olmuştur. Bu alanlar, yalnızca doğal güzellikleri nedeniyle değil, aynı zamanda insanların yaşam alanlarını ve geçim kaynaklarını destekledikleri için değerlidir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu doğal alanların etrafında gelişmiştir.
 
 Mersin bölgesinde, insan yerleşimleri ve faaliyetleri, coğrafi koşullarla yakından bağlantılıdır. Dağlar, vadiler ve ovalar, insanların yaşam tarzlarını ve ekonomilerini etkilemiştir. Mihraplı Dağı, bu bölgenin bir parçası olarak, insan yaşamının bir parçası haline gelmiştir. Tarihi olaylar ve uygarlıkların izleri, bu doğal alanların etrafında şekillenmiştir. Bu nedenle, Mihraplı Dağı, yalnızca bir doğal güzellik değil, aynı zamanda tarihin bir parçasıdır.
 
@@ -52,7 +52,7 @@ Jeolojik açıdan bakıldığında, Mihraplı Dağı'nın fiziksel yapısı hakk
 
 Mihraplı Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın başlangıcında, dağ yamaçları renkli çiçeklerle donanıyor ve havada kelebeklerin dansı izleniyor. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçerek, farklı ekosistemleri birbirine bağlıyor.
 
-Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çekiyor. Kuraklığa dayanıklı türler, bu zorlu koşullarda hayatta kalma mücadelesini veriyor. Maki bitki örtüsünün hakimiyeti, dağın ekolojik dengesini koruyor. 
+Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çekiyor. Kuraklığa dayanıklı türler, bu zorlu koşullarda hayatta kalma mücadelesini veriyor. Maki bitki örtüsünün hakimiyeti, dağın ekolojik dengesini koruyor.
 
 Yaban hayatı da bir o kadar zengin. Memeliler, dağların yükseklik zonlarında yaşarken, kuşlar ve sürüngenler de bu ekosistemin birer parçası. Bu canlılar, yaşam alanları ile birlikte, doğanın dengesini koruyorlar. Ekolojik değerini koruma altına almak, gelecekteki nesiller için oldukça önemli.
 

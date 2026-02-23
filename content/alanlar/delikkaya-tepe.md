@@ -28,7 +28,7 @@ wikidata_id: "Q31390141"
 
 # Delikkaya Tepe
 
-Delikkaya Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Delikkaya Tepe, ziyaretçilerini doğal güzellikleriyle ve tarihi geçmişiyle karşılar. Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Delikkaya Tepe'yeişsiz bir şekilde ulaşılabilir ve ziyaretçiler burayı rahatlıkla gezebilir. Delikkaya Tepe, Antalya'nın önemli turizm noktalarından biri olarak biliniyor.
+Delikkaya Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe. Delikkaya Tepe, ziyaretçilerini doğal güzellikleriyle ve tarihi geçmişiyle karşılar. Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Delikkaya Tepe'yeişsiz bir şekilde ulaşılabilir ve ziyaretçiler burayı rahatlıkla gezebilir. Delikkaya Tepe, Antalya'nın önemli turizm noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Delikkaya Tepe'nin tarihi geçmişi hakkında detaylı bilgi bulunmuyor. Ancak, 
 
 ## Coğrafya
 
-Delikkaya Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Bu bölge,Akdeniz ikliminin hüküm sürdüğü bir yer. Tepe, çevresindeki doğal güzellikleriyle dikkat çekiyor. Delikkaya Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu alan, ziyaretçilerin gezebileceği ve doğal güzellikleri keşfedebileceği bir yer. Delikkaya Tepe, Antalya'nın önemli coğrafi noktalarından biri olarak biliniyor. Tepe, ziyaretçiler için hem doğal güzellikleri hem de coğrafi özellikleri ile ilgi çekici bir destinasyon.
+Delikkaya Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Bu bölge,Akdeniz ikliminin hüküm sürdüğü bir yer. Tepe, çevresindeki doğal güzellikleriyle dikkat çekiyor. Delikkaya Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu alan, ziyaretçilerin gezebileceği ve doğal güzellikleri keşfedebileceği bir yer. Delikkaya Tepe, Antalya'nın önemli coğrafi noktalarından biri olarak biliniyor. Tepe, ziyaretçiler için hem doğal güzellikleri hem de coğrafi özellikleri ile ilgi çekici bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Delikkaya Tepe'ye ulaşım kolaydır. Ziyaretçiler, tepeye rahatlıkla ulaşabi
 ## İlginç Bilgiler
 
 - Delikkaya Tepe, Antalya'nın önemli turizm noktalarından biri.
-- Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Delikkaya Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Tepe, mevsimsel değişimlere göre farklı canlılarla karşılaşma mümkün.
 - Delikkaya Tepe, ekolojik açıdan önemli bir nokta olarak görülüyor.

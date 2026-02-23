@@ -29,7 +29,7 @@ schema_type: "TouristAttraction"
 
 # Kazdağı Milli Parkı
 
-Kazdağı Milli Parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekmektedir. 21.463 hektarlık bu geniş alan, yaklaşık 300 futbol sahası büyüklüğündeki bir alanda yer almaktadır. Parkın konumu, Edremit ve Balıkesir gibi önemli şehirlerin yakınlarında bulunmasıyla birlikte, ziyaretçilerin kolayca ulaşabileceği bir konumdadır. Kazdağı Milli Parkı, zengin flora ve fauna çeşitliliği ile birlikte, ziyaretçilere benzersiz bir doğal deneyim sunmaktadır.
+Kazdağı Milli Parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekmektedir. 21. Parkın konumu, Edremit ve Balıkesir gibi önemli şehirlerin yakınlarında bulunmasıyla birlikte, ziyaretçilerin kolayca ulaşabileceği bir konumdadır. Kazdağı Milli Parkı, zengin flora ve fauna çeşitliliği ile birlikte, ziyaretçilere benzersiz bir doğal deneyim sunmaktadır.
 
 ## Tarihçe
 

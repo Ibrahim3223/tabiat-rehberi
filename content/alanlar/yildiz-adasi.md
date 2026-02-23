@@ -28,7 +28,7 @@ wikidata_id: "Q34787860"
 
 # Yıldız Adası
 
-Çanakkale'nin histórik liman kentinde, Marmara Denizi'nin sakin sularında yer alan Yıldız Adası, ziyaretçilerini İstanbul Boğazı'nın girişinde bir gizli hazine gibi bekliyor. Bu küçük ada, Çanakkale'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destination. Çanakkale'nin turistik zenginliklerine eklenen Yıldız Adası, şehrin tarihi dokusunu korumakla birlikte, misafirlerine sakin ve huzurlu bir atmosfer sunuyor. Çanakkale'nin merkezine yakınlığıyla da dikkat çeken Yıldız Adası, ziyaretçilerini bekliyor.
+Çanakkale'nin tarihi liman kentinde, Marmara Denizi'nin sakin sularında yer alan Yıldız Adası, ziyaretçilerini İstanbul Boğazı'nın girişinde bir gizli hazine gibi bekliyor. Bu küçük ada, Çanakkale'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destination. Çanakkale'nin turistik zenginliklerine eklenen Yıldız Adası, şehrin tarihi dokusunu korumakla birlikte, misafirlerine sakin ve huzurlu bir atmosfer sunuyor. Çanakkale'nin merkezine yakınlığıyla da dikkat çeken Yıldız Adası, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

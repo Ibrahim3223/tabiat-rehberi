@@ -36,7 +36,7 @@ Diyarbakır, tarihin derin izlerini taşıyan bir bölgedir. Kilik Tepe, bu tari
 
 Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Yaylacılık ve hayvancılık, bölgedeki insanların geleneksel yaşam biçimleri arasında yer almıştır. Ticaret yollarının kesişme noktaları olarak da kullanılan bu alanlar, insanların ve kültürlerin buluşma noktaları olmuştur. İnsanların bu doğal alanlarla ilişkisi, yalnızca ekonomik ihtiyaçları karşılamakla kalmaz, aynı zamanda kültürel ve sosyal bağları da güçlendirir.
 
-Kilik Tepe ve benzeri doğal alanlar, Türkiye'nin zengin tarihsel mirasının bir parçası olarak görülebilir. Bu alanların korunması ve gelecek nesillere aktarılması, tarihimizin bir bölümünü canlı tutmak anlamına gelir. Doğal güzellikleri ve tarihi önemi bir arada sunan Kilik Tepe, ziyaretçilerini tarihin sâu izlerine davet eder.
+Kilik Tepe ve benzeri doğal alanlar, Türkiye'nin zengin tarihsel mirasının bir parçası olarak görülebilir. Bu alanların korunması ve gelecek nesillere aktarılması, tarihimizin bir bölümünü canlı tutmak anlamına gelir. Doğal güzellikleri ve tarihi önemi bir arada sunan Kilik Tepe, ziyaretçilerini tarihin derin izlerine davet eder.
 
 ## Coğrafya
 
@@ -50,11 +50,11 @@ Mevsimsel değişikliklere baktığımızda, Kilik Tepe ve çevresinin iklim kar
 
 ## Flora ve Fauna
 
-Kilik Tepe, Diyarbakır'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. Dağın yükseklik zonları, alpin flora ile kaplıdır ve ilkbahar aylarında, çiçeklerin renkli bir şölenine tanık olunabilir. 
+Kilik Tepe, Diyarbakır'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. Dağın yükseklik zonları, alpin flora ile kaplıdır ve ilkbahar aylarında, çiçeklerin renkli bir şölenine tanık olunabilir.
 
-Bitki örtüsünün hakim türleri, step ve ova ekolojisine uygun olarak, kuraklığa dayanıklı türlerdir. Mevsimsel değişimlere bağlı olarak, sonbahar aylarında göç eden kuşlar, bu dağları konaklama alanı olarak kullanır. 
+Bitki örtüsünün hakim türleri, step ve ova ekolojisine uygun olarak, kuraklığa dayanıklı türlerdir. Mevsimsel değişimlere bağlı olarak, sonbahar aylarında göç eden kuşlar, bu dağları konaklama alanı olarak kullanır.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitli grupları içerir. Dağ keçileri ve yaban domuzları gibi memeliler, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gibi kuşlar, gökyüzünde hüküm sürer. Sürüngenler ise, kayalık alanlarda ve step bölgelerinde yaşarlar. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitli grupları içerir. Dağ keçileri ve yaban domuzları gibi memeliler, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gibi kuşlar, gökyüzünde hüküm sürer. Sürüngenler ise, kayalık alanlarda ve step bölgelerinde yaşarlar.
 
 Kilik Tepe'nin ekolojik değeri, bu farklı türlerin bir arada yaşadığı bir ekosistem oluşturmasından gelir. Bu dağ, bölgenin ekolojik dengesini korumak için önemli bir role sahiptir. Ancak, koruma durumu, insan faaliyetleri ve iklim değişikliği nedeniyle tehdit altındadır.
 

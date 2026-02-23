@@ -1,7 +1,7 @@
 ---
 title: "Antalya Duzlercami"
 date: "2026-01-09T19:29:11.190Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227045"
 
 # Antalya Duzlercami
 
-Antalya Duzlercami milli parkı, İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir milli parktır. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Ziyaretçiler, doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilir. 140 hektarlık bu yeşil alan, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çeker.
+ Ziyaretçiler, doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilir. 140 hektarlık bu yeşil alan, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çeker.
 
 ## Tarihçe
 
@@ -31,11 +31,11 @@ Antalya Duzlercami milli parkının tarihi geçmişi, yüzyıllar boyunca oluşm
 
 ## Coğrafya
 
-Antalya Duzlercami milli parkı, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, coğrafi olarak 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Milli parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşü yapma, piknik alanlarında dinlenme ve çevreyi keşfetme olanağı sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklimdir. Bu bölgede, yaz ayları sıcak ve kuru, kış ayları soğuk ve kar yağışlı geçer. Milli parkın coğrafi konumu, ziyaretçilere çevreyi keşfetme ve doğayla iç içe olma fırsatı sunar.
+Antalya Duzlercami milli parkı, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Milli parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşü yapma, piknik alanlarında dinlenme ve çevreyi keşfetme olanağı sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklimdir. Bu bölgede, yaz ayları sıcak ve kuru, kış ayları soğuk ve kar yağışlı geçer. Milli parkın coğrafi konumu, ziyaretçilere çevreyi keşfetme ve doğayla iç içe olma fırsatı sunar.
 
 ## Flora ve Fauna
 
-Antalya Duzlercami milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Milli parkın florası, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, yeşil alanlar ve çiçekler ziyaretçileri karşılar. Sonbahar ve kış aylarında ise, yaprak dökümü ve kar örtüsüyle karşılaşırlar. Milli parkın faunası, çeşitli hayvan türleri ile zengin bir yapıya sahiptir. Ziyaretçiler, bu bölgede çeşitli kuş türleri, memeliler ve diğer hayvanları gözlemleyebilirler. Milli parkın ekolojik dengesi, ziyaretçilere doğayla iç içe bir deneyim sunar.
+ Milli parkın florası, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, yeşil alanlar ve çiçekler ziyaretçileri karşılar. Sonbahar ve kış aylarında ise, yaprak dökümü ve kar örtüsüyle karşılaşırlar. Milli parkın faunası, çeşitli hayvan türleri ile zengin bir yapıya sahiptir. Ziyaretçiler, bu bölgede çeşitli kuş türleri, memeliler ve diğer hayvanları gözlemleyebilirler. Milli parkın ekolojik dengesi, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Ziyaret Bilgileri
 

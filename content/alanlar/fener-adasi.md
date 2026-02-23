@@ -51,9 +51,9 @@ Doğal güzelliği ile dikkat çeken Fener Adası, jeolojik açıdan da oldukça
 
 ## Flora ve Fauna
 
-Fener Adası, Balıkesir'in güzide bir köşesinde yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Fener Adası, Balıkesir'in güzide bir köşesinde yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsüne baktığımızda, ada genel olarak karma ormanlarla kaplı. İlkbahar mevsiminde, ada çiçeklerle donanıyor ve rengarenk bir güzelliğe bürünüyor. Kıyı kesimlerde, tuzlu suya dayanıklı bitkiler hakim. 
+Bitki örtüsüne baktığımızda, ada genel olarak karma ormanlarla kaplı. İlkbahar mevsiminde, ada çiçeklerle donanıyor ve rengarenk bir güzelliğe bürünüyor. Kıyı kesimlerde, tuzlu suya dayanıklı bitkiler hakim.
 
 Yaban hayatı açısından ise ada, göçmen kuşların önemli bir durağı. Sonbahar aylarında, ada göçmen kuş sürüleriyle dolup taşıyor. Deniz kuşları, ada kıyılarında yuvalanıyor. Ada aynı zamanda çeşitli sürüngen türlerine de ev sahipliği yapıyor.
 

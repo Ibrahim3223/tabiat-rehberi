@@ -28,7 +28,7 @@ wikidata_id: "Q31386645"
 
 # Harapkarakol Tepesi
 
-Harapkarakol Tepesi, Şanlıurfa'nın güneydoğu bölümünde yer alan, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgeye gelen ziyaretçilerin dikkatini çekiyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Harapkarakol Tepesi, aynı zamanda tarihsel bir geçmişi olan bir yer. Tepenin üzerinde, tarihi kalıntılar ve izler bulunmakta. Burada, yüzyıllar boyunca farklı medeniyetlerin yaşadığı anlaşılıyor. Bu özelliği ile Harapkarakol Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+ Bu tepe, bölgeye gelen ziyaretçilerin dikkatini çekiyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Harapkarakol Tepesi, aynı zamanda tarihsel bir geçmişi olan bir yer. Tepenin üzerinde, tarihi kalıntılar ve izler bulunmakta. Burada, yüzyıllar boyunca farklı medeniyetlerin yaşadığı anlaşılıyor. Bu özelliği ile Harapkarakol Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 

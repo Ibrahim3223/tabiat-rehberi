@@ -23,7 +23,7 @@ wikidata_id: "Q108227085"
 
 # Mugla-Koycegiz
 
-Mugla-Koycegiz, Muğla ilinin en önemli doğal güzelliklerinden biridir. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak ziyaretçilerini karşılar. Ege Bölgesi'nin coğrafi yapısı içinde yer alan Koycegiz, geniş bir flora ve fauna çeşitliliğine sahiptir. Bu bölge, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çeker. Ziyaretçiler, burada hem doğayı keşfedebilir hem de bölgenin zengin tarihini öğrenebilirler.
+Mugla-Koycegiz, Muğla ilinin en önemli doğal güzelliklerinden biridir. Ege Bölgesi'nin coğrafi yapısı içinde yer alan Koycegiz, geniş bir flora ve fauna çeşitliliğine sahiptir. Bu bölge, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çeker. Ziyaretçiler, burada hem doğayı keşfedebilir hem de bölgenin zengin tarihini öğrenebilirler.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Mugla-Koycegiz'i ziyaret etmek, hem doğayı keşfetmek hem de tarihi geçmişin
 ## İlginç Bilgiler
 
 - Koycegiz, 140 hektarlık bir alanı kapsar.
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak ziyaretçilerini karşılar.
+
 - Koycegiz, Ege Bölgesi'nin önemli doğal ve tarihi değerlerinden biridir.
 - Bölgede, çeşitli flora ve fauna türleri bulunur.
 - Koycegiz'in tarihi geçmişi, yüzyıllar öncesine dayanır.

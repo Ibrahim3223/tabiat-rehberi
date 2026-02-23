@@ -1,7 +1,7 @@
 ---
 title: "Kiremitçi Hamamı"
 date: "2026-01-09T23:06:29.194Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738877"
 
 # Kiremitçi Hamamı
 
-Kiremitçi Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak dikkat çekiyor. Osmangazi/Bursa'da yer alan bu güzel plaj, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Kiremitçi Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon. Plajın etrafında yer alan yeşil alanlar, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Kiremitçi Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak dikkat çekiyor. Osmangazi/Bursa'da yer alan bu güzel plaj, yaklaşık 140 hektarlık bir alanı kapsıyor. Kiremitçi Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon. Plajın etrafında yer alan yeşil alanlar, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kiremitçi Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Kiremitçi Hamamı, Marmara Bölgesi'nin en güzel coğrafyalarından birini sunuyor. Plaj, Osmangazi/Bursa'da yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Plajın etrafında yer alan yeşil alanlar, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kiremitçi Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon. Plajın coğrafi konumu, ziyaretçilere bölgenin diğer güzelliklerine de ulaşma imkanı sunuyor. Örneğin, plajdan kısa bir yürüyüş mesafesinde, tarihi yapılar ve doğal güzellikler bulunuyor.
+Kiremitçi Hamamı, Marmara Bölgesi'nin en güzel coğrafyalarından birini sunuyor. Plaj, Osmangazi/Bursa'da yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Plajın etrafında yer alan yeşil alanlar, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kiremitçi Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon. Plajın coğrafi konumu, ziyaretçilere bölgenin diğer güzelliklerine de ulaşma imkanı sunuyor. Örneğin, plajdan kısa bir yürüyüş mesafesinde, tarihi yapılar ve doğal güzellikler bulunuyor.
 
 ## Flora ve Fauna
 

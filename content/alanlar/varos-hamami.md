@@ -1,7 +1,7 @@
 ---
 title: "Varoş Hamamı"
 date: "2026-01-09T23:16:08.552Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sinop"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739038"
 
 # Varoş Hamamı
 
-Sinop'un merkezinde yer alan Varoş Hamamı, şehrin önemli plajlarından biridir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde olan bu plaj, geniş kumsalı ve temiz denizi ile ziyaretçilerini çekmektedir. Plajın etrafında çeşitli restoranlar ve kafeler bulunur, bu da ziyaretçilerin hem denizin tadını çıkarmasına hem de lezzetli yemekler yiyerek keyifli bir gün geçirmesine olanak tanır. Varoş Hamamı, especialmente yaz aylarında ziyaretçilerini ağırlar, ancak her mevsim doğasının güzelliğini korumaktadır.
+Sinop'un merkezinde yer alan Varoş Hamamı, şehrin önemli plajlarından biridir. Plajın etrafında çeşitli restoranlar ve kafeler bulunur, bu da ziyaretçilerin hem denizin tadını çıkarmasına hem de lezzetli yemekler yiyerek keyifli bir gün geçirmesine olanak tanır. Varoş Hamamı, especialmente yaz aylarında ziyaretçilerini ağırlar, ancak her mevsim doğasının güzelliğini korumaktadır.
 
 ## Tarihçe
 

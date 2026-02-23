@@ -1,7 +1,7 @@
 ---
 title: "Tarihi Hamam, İzmit"
 date: "2026-01-09T23:46:28.951Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245817"
 
 # Tarihi Hamam, İzmit
 
-İzmit'teki Tarihi Hamam, Marmara Bölgesi'nin en önemli turizm noktalarından biri olarak dikkat çekiyor. Bu tarihi mekân, yaklaşık 140 hektarlık bir alanda yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Tarihi Hamam, İzmit'in merkezinde bulunması nedeniyle kolayca ulaşılabilen bir nokta. Tarihi Hamam, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak olarak kabul edilebilir. Doğal güzellikleri, tarihi yapıları ve kültürel zenginlikleriyle Tarihi Hamam, her yıl binlerce ziyaretçiyi ağırlıyor.
+İzmit'teki Tarihi Hamam, Marmara Bölgesi'nin en önemli turizm noktalarından biri olarak dikkat çekiyor. Tarihi Hamam, İzmit'in merkezinde bulunması nedeniyle kolayca ulaşılabilen bir nokta. Tarihi Hamam, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak olarak kabul edilebilir. Doğal güzellikleri, tarihi yapıları ve kültürel zenginlikleriyle Tarihi Hamam, her yıl binlerce ziyaretçiyi ağırlıyor.
 
 ## Tarihçe
 

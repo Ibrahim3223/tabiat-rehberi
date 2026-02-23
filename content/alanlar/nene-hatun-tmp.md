@@ -22,7 +22,7 @@ wikidata_id: "Q108228130"
 
 # Nene Hatun TMP
 
-Nene Hatun TMP, İç Anadolu Bölgesi'nin güzide mekanlarından biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir alanı kaplıyor. Doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu milli park, ziyaretçilerini tarihi ve doğal bir yolculuğa davet ediyor. Nene Hatun TMP, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
+Nene Hatun TMP, İç Anadolu Bölgesi'nin güzide mekanlarından biridir. Doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu milli park, ziyaretçilerini tarihi ve doğal bir yolculuğa davet ediyor. Nene Hatun TMP, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
 
 ## Tarihçe
 

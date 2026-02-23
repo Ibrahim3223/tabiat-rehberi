@@ -33,7 +33,7 @@ Burdur'un dağlık bölgelerinde gizlenen Kestel Dağı, ilin doğal güzellikle
 
 ## Tarihçe
 
-Burdur bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Binlerce yıl önce, bu topraklarda çeşitli uygarlıklar yaşamıştır. Hitit, Frig, Lidya ve Roma gibi medeniyetler, bölgenin stratejik konumundan yararlanarak ticaret ve kültür merkezleri kurmuşlardır. Doğal güzellikleri ve verimli topraklarıyla, Burdur ve çevresindeki dağlar, insanları her daim çekmiştir.
+Burdur bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Binlerce yıl önce, bu topraklarda çeşitli uygarlıklar yaşamıştır. Hitit, Frig, Lidya ve Roma gibi medeniyetler, bölgenin stratejik konumundan yararlanarak ticaret ve kültür merkezleri kurmuşlardır. Doğal güzellikleri ve verimli topraklarıyla, Burdur ve çevresindeki dağlar, insanları her daim çekmiştir.
 
 Kestel Dağı da, bu tarihsel zenginliğin bir parçasıdır. Türkiye'deki doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için önemli kaynaklar olmuştur. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yaşayan insanların temel faaliyetleri arasında yer almıştır. Ayrıca, tarihi ticaret yolları da bu doğal güzelliklerin arasında geçmekteydi. İnsanların bu alanlarla ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlardadır. Bu doğal alanlar, insanların yaşam tarzlarını, geleneklerini ve folklorunu şekillendirmiştir. Kestel Dağı, Burdur bölgesinin bu zengin tarihsel bağlamının bir parçası olarak, ziyaretçilerini tarihin derinliklerine götürmeye davet etmektedir.
 
@@ -49,9 +49,9 @@ Bölgenin ekosistemini etkileyen Kestel Dağı, komşu alanlar ve su kaynakları
 
 ## Flora ve Fauna
 
-Kestel Dağı, Burdur'un muhteşem doğasında yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açarak renkli bir manzara sunuyor. 
+Kestel Dağı, Burdur'un muhteşem doğasında yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açarak renkli bir manzara sunuyor.
 
-Bitki örtüsünün hakim türü olan maki, kuraklığa dayanıklı türlerle birlikte dağ ekosisteminin temelini oluşturuyor. Kıyı ekosisteminin de etkisiyle, bu bölgede çeşitli yükseklik zonlarına özgü alpin flora türleri de yer alıyor. 
+Bitki örtüsünün hakim türü olan maki, kuraklığa dayanıklı türlerle birlikte dağ ekosisteminin temelini oluşturuyor. Kıyı ekosisteminin de etkisiyle, bu bölgede çeşitli yükseklik zonlarına özgü alpin flora türleri de yer alıyor.
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösteriyor. Göçmen kuşların sonbaharda buradan geçişi, bu bölgenin ekolojik önemini vurguluyor. Kestel Dağı, doğa severler için bir cennet olarak karşımıza çıkıyor.
 

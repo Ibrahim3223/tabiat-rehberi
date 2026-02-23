@@ -50,11 +50,11 @@ Doğal bir oluşum olarak Yumruca Tepe, çevresindeki diğer dağlarla birlikte 
 
 ## Flora ve Fauna
 
-Yumruca Tepe, İzmir'in zeytinliklerle çevrili ve çam ormanlarıyla kaplı dağlık bölgesinde yer alıyor. Bu alan, Akdeniz ikliminin karakteristik özelliklerini taşıyor. 
+Yumruca Tepe, İzmir'in zeytinliklerle çevrili ve çam ormanlarıyla kaplı dağlık bölgesinde yer alıyor. Bu alan, Akdeniz ikliminin karakteristik özelliklerini taşıyor.
 
-İlkbaharla birlikte, tepeye renk getiren çiçekler açmaya başlıyor. Çam ormanlarının altında, çeşitli otsu bitkiler ve çalılar filizleniyor. Sonbaharda, göçmen kuşlar bu bölgeyi ziyaret ediyor ve dağlık alanlar, kışın soğuk günlerinde sığınak olarak kullanılıyor. 
+İlkbaharla birlikte, tepeye renk getiren çiçekler açmaya başlıyor. Çam ormanlarının altında, çeşitli otsu bitkiler ve çalılar filizleniyor. Sonbaharda, göçmen kuşlar bu bölgeyi ziyaret ediyor ve dağlık alanlar, kışın soğuk günlerinde sığınak olarak kullanılıyor.
 
-Yumruca Tepe'nin yaban hayatı, dağ ekosisteminin çeşitliliğiyle dikkat çekiyor. Memeliler, kuşlar ve sürüngenler, bu bölgenin doğal yaşamına katkıda bulunuyor. Bu canlılar, dağlık alanların yükseklik zonlarında yaşamını sürdürüyor ve bölgenin ekolojik dengesini koruyor. 
+Yumruca Tepe'nin yaban hayatı, dağ ekosisteminin çeşitliliğiyle dikkat çekiyor. Memeliler, kuşlar ve sürüngenler, bu bölgenin doğal yaşamına katkıda bulunuyor. Bu canlılar, dağlık alanların yükseklik zonlarında yaşamını sürdürüyor ve bölgenin ekolojik dengesini koruyor.
 
 Yumruca Tepe, bölgenin ekolojik değerini koruma altına almak açısından önemli bir alan. Bu dağlık bölge, zeytinliklerle ve çam ormanlarıyla çevrili olduğu için, ekosistemin korunmasına katkıda bulunabilecek doğal bir kaynak olarak görülüyor.
 

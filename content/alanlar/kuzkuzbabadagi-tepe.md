@@ -50,7 +50,7 @@ Fiziksel olarak Kuzkuzbabadağı Tepe, yaklaşık bir şehir bloğu büyüklüğ
 
 ## Flora ve Fauna
 
-Kuzkuzbabadağı Tepe, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kuzkuzbabadağı Tepe, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, bölgenin karakteristik özelliği olan endemik türlerle bezelidir. Sonbaharda, dağların yükseklik zonlarında bulunan bitkiler, mevsimsel değişimlere uyum sağlar.
 

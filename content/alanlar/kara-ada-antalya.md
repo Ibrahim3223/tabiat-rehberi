@@ -53,7 +53,7 @@ Mevsimsel olarak bakıldığında, Kara Ada'nın iklimi tipik Akdeniz ikliminin 
 
 Kara Ada, Antalya'nın kıyılarında bulunan bir ada ekosistemi olarak, maki bitki örtüsünün hakim olduğu bir bölge. İlkbahar aylarında, ada çiçeklerle donanır ve rengarenk bir görünüm sunar. Kuraklığa dayanıklı türler, ada koşullarına uyum sağlamış ve yıl boyunca yeşilliğini korur.
 
-Ada, deniz kuşları için önemli bir üreme ve göç alanıdır. Kıyı ekosisteminin sunduğu avantajlarla, çeşitli kuş türleri burada yaşamını sürdürür. Sürüngenler ve diğer yaban hayatı da, ada ekosisteminin bir parçası olarak, yaşam alanlarını burada bulur. 
+Ada, deniz kuşları için önemli bir üreme ve göç alanıdır. Kıyı ekosisteminin sunduğu avantajlarla, çeşitli kuş türleri burada yaşamını sürdürür. Sürüngenler ve diğer yaban hayatı da, ada ekosisteminin bir parçası olarak, yaşam alanlarını burada bulur.
 
 Ada ekosisteminin izole popülasyonları, özel bir önem taşır. Bu izolasyon, ada canlılarının benzersiz bir adaptasyon süreci geçirmesine neden olmuştur. Kıyı bitkileri, ada koşullarına uyum sağlamış ve yıl boyunca yeşilliğini korur. Bu ekosistem, deniz ve kara arasındaki etkileşimi gözlemlemek için ideal bir alan sunar.
 

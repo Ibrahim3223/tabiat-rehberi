@@ -51,10 +51,10 @@ Mevsimler değiştiğinde, Ömer Dağı'nın iklimi değişkenlik gösterir. Kı
 
 ## Flora ve Fauna
 
-Ömer Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli bir hal alır. 
-Bu bölgede hakim olan bitki türleri, yükseklik zonlarına göre değişkenlik gösterir. Alpin flora, dağların zorlu koşullarına adapte olmuş özel bitkilerle doludur. 
-Yaban hayatı da oldukça zengin. Dağ keçileri ve yaban keçileri, bölgenin kaya ve çayırlarında yaşar. 
-Kuşlar da bu dağlarda önemli bir yer tutar. Göç mevsiminde, çeşitli kuş türleri Ömer Dağı'nı ziyaret eder. 
+Ömer Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli bir hal alır.
+Bu bölgede hakim olan bitki türleri, yükseklik zonlarına göre değişkenlik gösterir. Alpin flora, dağların zorlu koşullarına adapte olmuş özel bitkilerle doludur.
+Yaban hayatı da oldukça zengin. Dağ keçileri ve yaban keçileri, bölgenin kaya ve çayırlarında yaşar.
+Kuşlar da bu dağlarda önemli bir yer tutar. Göç mevsiminde, çeşitli kuş türleri Ömer Dağı'nı ziyaret eder.
 Bu dağ ekosisteminin korunması, bölgenin doğal dengesini korumak için önemlidir.
 
 ## Ziyaret Bilgileri

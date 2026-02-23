@@ -29,7 +29,7 @@ wikidata_id: "Q134728350"
 
 # Bin Tepeler Tümülüsü 27
 
-Bin Tepeler Tümülüsü 27, Ege Bölgesi'nin güzide şehirlerinden biri olan Manisa'nın Salihli ilçesinde yer alıyor. Bu özel mekan, 140 hektarlık geniş bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bin Tepeler Tümülüsü 27, ziyaretçilerine hem tarihin derinliklerine inme fırsatı sunuyor hem de doğanın güzelliğini gözler önüne seriyor. Burada, tarihi yapılar ve doğal güzelliklerin bir arada bulunması, ziyaretçileri için unutulmaz bir deneyim anlamına geliyor. Bin Tepeler Tümülüsü 27, tarihi ve doğal güzelliklerinin yanı sıra, misafirlerine sunduğu olanaklar ve hizmetler ile de dikkat çekiyor.
+Bin Tepeler Tümülüsü 27, Ege Bölgesi'nin güzide şehirlerinden biri olan Manisa'nın Salihli ilçesinde yer alıyor. Bin Tepeler Tümülüsü 27, ziyaretçilerine hem tarihin derinliklerine inme fırsatı sunuyor hem de doğanın güzelliğini gözler önüne seriyor. Burada, tarihi yapılar ve doğal güzelliklerin bir arada bulunması, ziyaretçileri için unutulmaz bir deneyim anlamına geliyor. Bin Tepeler Tümülüsü 27, tarihi ve doğal güzelliklerinin yanı sıra, misafirlerine sunduğu olanaklar ve hizmetler ile de dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 27'nin tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 27, Ege Bölgesi'nin coğrafi güzellikleri ile çevrili bir konumda yer alıyor. Bu özel mekan, Salihli ilçesinin merkezine yaklaşık olarak 10 kilometre uzaklıkta bulunuyor. Coğrafi olarak, 140 hektarlık bir alana yayılmış olan Bin Tepeler Tümülüsü 27, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem tarihi yapıları hem de doğal güzellikleri keşfetme imkanı sunuyor. Bin Tepeler Tümülüsü 27, etrafı dağlar ve ormanlık alanlarla çevrilidir ve bu coğrafi yapı, ziyaretçilere doğanın güzelliğini sunuyor. Ayrıca, burada yer alan tümülüsler ve tarihi yapılar, ziyaretçilere coğrafi ve tarihi bir perspektif sunuyor.
+Bin Tepeler Tümülüsü 27, Ege Bölgesi'nin coğrafi güzellikleri ile çevrili bir konumda yer alıyor. Bu özel mekan, Salihli ilçesinin merkezine yaklaşık olarak 10 kilometre uzaklıkta bulunuyor. Bu geniş alan, ziyaretçilere hem tarihi yapıları hem de doğal güzellikleri keşfetme imkanı sunuyor. Bin Tepeler Tümülüsü 27, etrafı dağlar ve ormanlık alanlarla çevrilidir ve bu coğrafi yapı, ziyaretçilere doğanın güzelliğini sunuyor. Ayrıca, burada yer alan tümülüsler ve tarihi yapılar, ziyaretçilere coğrafi ve tarihi bir perspektif sunuyor.
 
 ## Flora ve Fauna
 

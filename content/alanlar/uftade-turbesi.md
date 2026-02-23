@@ -1,7 +1,7 @@
 ---
 title: "Üftade Türbesi"
 date: "2026-01-10T06:25:50.115Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390736"
 
 # Üftade Türbesi
 
-Üftade Türbesi, Bursa'nın Osmangazi ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Üftade Türbesi, ziyaretçilerini hem tarihin kokusuyla büyüleyen bir geçmişe hem de doğanın güzelliği ile dolu bir ortama davet ediyor. Burada, tarihi yapıların yanı sıra, yeşilin farklı tonlarını da görme mümkün. Üftade Türbesi, hem yerli hem de yabancı ziyaretçilerin ilgisini çeken bir destinasyon olarak bekannt.
+Üftade Türbesi, Bursa'nın Osmangazi ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir mekan. Üftade Türbesi, ziyaretçilerini hem tarihin kokusuyla büyüleyen bir geçmişe hem de doğanın güzelliği ile dolu bir ortama davet ediyor. Burada, tarihi yapıların yanı sıra, yeşilin farklı tonlarını da görme mümkün. Üftade Türbesi, hem yerli hem de yabancı ziyaretçilerin ilgisini çeken bir destinasyon olarak bekannt.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227485"
 
 # Balikesir-Korucu Karacam
 
-Balikesir-Korucu Karacam Milli Parkı, İç Anadolu Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile zengin fauna bulunmakta. Korucu Karacam Milli Parkı, aynı zamanda turizm açısından da önemli bir destinasyon olarak dikkat çekiyor. Parkın büyüklüğü ve çeşitliliği, ziyaretçilere geniş bir deneyim sunuyor. Ayrıca, parkta yapılan çalışmalar, doğanın korunması ve turizmin desteklenmesi açısından önemli adımlar olarak görülmekte.
+Balikesir-Korucu Karacam Milli Parkı, İç Anadolu Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir milli parktır. Korucu Karacam Milli Parkı, aynı zamanda turizm açısından da önemli bir destinasyon olarak dikkat çekiyor. Parkın büyüklüğü ve çeşitliliği, ziyaretçilere geniş bir deneyim sunuyor. Ayrıca, parkta yapılan çalışmalar, doğanın korunması ve turizmin desteklenmesi açısından önemli adımlar olarak görülmekte.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Karamanoğlu İbrahim Bey Türbesi"
 date: "2026-01-10T06:32:26.639Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582409"
 
 # Karamanoğlu İbrahim Bey Türbesi
 
-Karamanoğlu İbrahim Bey Türbesi, Karaman'ın merkezinde yer alan tarihi bir yapıdır. Bu türbe, Karamanoğlu Beyliği'nin önemli isimlerinden biri olan İbrahim Bey'in mezarını barındırmaktadır. Türbenin çevresinde, Karaman'ın tarihi ve kültürel zenginliklerini yansıtan çeşitli yapılar ve eserler bulunmaktadır. 140 hektarlık bir alan üzerinde kurulan bu tarihi kompleks, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Ziyaretçiler, bu türbeyi ziyaret ederek Karaman'ın zengin tarihini ve kültürel mirasını keşfetme fırsatı bulabilirler.
+Karamanoğlu İbrahim Bey Türbesi, Karaman'ın merkezinde yer alan tarihi bir yapıdır. Bu türbe, Karamanoğlu Beyliği'nin önemli isimlerinden biri olan İbrahim Bey'in mezarını barındırmaktadır. Türbenin çevresinde, Karaman'ın tarihi ve kültürel zenginliklerini yansıtan çeşitli yapılar ve eserler bulunmaktadır. Ziyaretçiler, bu türbeyi ziyaret ederek Karaman'ın zengin tarihini ve kültürel mirasını keşfetme fırsatı bulabilirler.
 
 ## Tarihçe
 

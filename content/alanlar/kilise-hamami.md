@@ -1,7 +1,7 @@
 ---
 title: "Kilise Hamamı"
 date: "2026-01-09T23:17:49.856Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738978"
 
 # Kilise Hamamı
 
-Kilise Hamamı, İzmir'in Bayındır ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olan bir doğal güzelliktir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçilerine sonsuz bir yeşilin ve mavinin birleştiği bir manzara sunar. Bu plaj, özellikle yaz aylarında, güneşin ve denizin tadını çıkarmak isteyenler için ideal bir destinasyondur. Kilise Hamamı, sadece güzelliği ile değil, aynı zamanda ziyaretçilerine sunduğu huzurlu atmosferi ile de bilinir. Burada, doğanın sesini dinleyerek, stresten uzaklaşabilir ve kendinizi yenileyebilirsiniz.
+Kilise Hamamı, İzmir'in Bayındır ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olan bir doğal güzelliktir. Bu plaj, özellikle yaz aylarında, güneşin ve denizin tadını çıkarmak isteyenler için ideal bir destinasyondur. Kilise Hamamı, sadece güzelliği ile değil, aynı zamanda ziyaretçilerine sunduğu huzurlu atmosferi ile de bilinir. Burada, doğanın sesini dinleyerek, stresten uzaklaşabilir ve kendinizi yenileyebilirsiniz.
 
 ## Tarihçe
 

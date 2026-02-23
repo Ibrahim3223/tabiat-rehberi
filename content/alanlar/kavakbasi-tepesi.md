@@ -28,7 +28,7 @@ wikidata_id: "Q31390054"
 
 # Kavakbaşı Tepesi
 
-Kavakbaşı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir doğal güzelliktir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Kavakbaşı Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennettir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur.
+Kavakbaşı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir doğal güzelliktir. Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Kavakbaşı Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennettir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 

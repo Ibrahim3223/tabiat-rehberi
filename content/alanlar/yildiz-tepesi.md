@@ -29,7 +29,7 @@ wikidata_id: "Q31390324"
 
 # Yıldız Tepesi
 
-Yıldız Tepesi, Afyonkarahisar ilinin Ege Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal güzelliklerinden biri. Yıldız Tepesi, ziyaretçilerini doğanın güzelliği ve zenginliğiyle karşılar. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Yıldız Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunar. Bu tepe, yüzyıllar boyunca önemli bir gözlem ve savunma noktası olarak kullanılmıştır.
+Yıldız Tepesi, Afyonkarahisar ilinin Ege Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Yıldız Tepesi, ziyaretçilerini doğanın güzelliği ve zenginliğiyle karşılar. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Yıldız Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunar. Bu tepe, yüzyıllar boyunca önemli bir gözlem ve savunma noktası olarak kullanılmıştır.
 
 ## Tarihçe
 

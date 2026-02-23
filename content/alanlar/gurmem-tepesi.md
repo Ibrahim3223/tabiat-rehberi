@@ -28,7 +28,7 @@ wikidata_id: "Q34873460"
 
 # Gürmem Tepesi
 
-Gürmem Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu tepe, bölgenin coğrafyasını ve tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir nokta. Gürmem Tepesi, ziyaretçilerini hem doğanın güzelliği ile hem de tarihin zenginliğiyle karşılar. Bu bölge, hem doğal güzellikleri hem de tarihi önemiyle dikkat çekiyor.
+Gürmem Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir tepe. Bu tepe, bölgenin coğrafyasını ve tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir nokta. Gürmem Tepesi, ziyaretçilerini hem doğanın güzelliği ile hem de tarihin zenginliğiyle karşılar. Bu bölge, hem doğal güzellikleri hem de tarihi önemiyle dikkat çekiyor.
 
 ## Tarihçe
 

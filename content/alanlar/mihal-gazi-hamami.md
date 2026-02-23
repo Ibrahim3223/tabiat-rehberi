@@ -1,7 +1,7 @@
 ---
 title: "Mihal Gazi Hamamı"
 date: "2026-01-10T04:26:10.166Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738788"
 
 # Mihal Gazi Hamamı
 
-Mihal Gazi Hamamı, Bilecik'in Gölpazarı ilçesinde bulunan ve Marmara Bölgesi'nin önemli turizm noktalarından biri olan bir doğal güzelliktir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda çeşitli bitki türleri ile zengin fauna bulunmaktadır. Bu bölge, hem doğa severler hem de tarih meraklıları için bir çekim noktası olarak dikkat çekmektedir. Mihal Gazi Hamamı, Gölpazarı'nın merkezine yakın bir konumda yer almakta ve ulaşımı oldukça kolaydır. Bu özelliği sayesinde, bölgede hem yerli hem de yabancı turistler tarafından sıklıkla ziyaret edilmektedir.
+Mihal Gazi Hamamı, Bilecik'in Gölpazarı ilçesinde bulunan ve Marmara Bölgesi'nin önemli turizm noktalarından biri olan bir doğal güzelliktir. Bu bölge, hem doğa severler hem de tarih meraklıları için bir çekim noktası olarak dikkat çekmektedir. Mihal Gazi Hamamı, Gölpazarı'nın merkezine yakın bir konumda yer almakta ve ulaşımı oldukça kolaydır.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728299"
 
 # Bin Tepeler Tümülüsü 65
 
-Ahmetli'nin kalbinde, Ege Bölgesi'nin tarihi zenginliğini yansıtan bir mekan olarak karşımıza çıkan Bin Tepeler Tümülüsü 65, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Bin Tepeler Tümülüsü 65, ziyaretçilerini tarihin derinliklerine götürerek, Ege Bölgesi'nin tarihi ve kültürel zenginliğini keşfetme fırsatı sunuyor.
+Ahmetli'nin kalbinde, Ege Bölgesi'nin tarihi zenginliğini yansıtan bir mekan olarak karşımıza çıkan Bin Tepeler Tümülüsü 65, yaklaşık 140 hektarlık bir alanı kaplıyor. Bin Tepeler Tümülüsü 65, ziyaretçilerini tarihin derinliklerine götürerek, Ege Bölgesi'nin tarihi ve kültürel zenginliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

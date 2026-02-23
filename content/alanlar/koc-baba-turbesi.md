@@ -1,7 +1,7 @@
 ---
 title: "Koç Baba Türbesi"
 date: "2026-01-10T06:51:39.067Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -37,7 +37,7 @@ Koç Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve g�
 
 ## Coğrafya
 
-Koç Baba Türbesi, Düzce'nin Akçakoca ilçesinde, Karadeniz Bölgesi'nin güzelliklerine ev sahipliği yapıyor. Bu bölge, dağların ve denizlerin bir araya geldiği özel bir coğrafi konumda yer alıyor. Türbe, yeşilliklerle çevrili ve deniz manzaralı bir alanda bulunuyor. Çevresinde, çeşitli bitki türleri ve zengin fauna encontrabile. Bu bölgenin iklimi, Karadeniz'in karakteristik özellikleri taşıyor ve ziyaretçilere serin ve ferah bir atmosfer sunuyor. 180 hektarlık bir alanda yer alan Koç Baba Türbesi, yaklaşık 400 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerine geniş bir alan sunuyor.
+Koç Baba Türbesi, Düzce'nin Akçakoca ilçesinde, Karadeniz Bölgesi'nin güzelliklerine ev sahipliği yapıyor. Bu bölge, dağların ve denizlerin bir araya geldiği özel bir coğrafi konumda yer alıyor. Türbe, yeşilliklerle çevrili ve deniz manzaralı bir alanda bulunuyor. Çevresinde, çeşitli bitki türleri ve zengin fauna encontrabile. Bu bölgenin iklimi, Karadeniz'in karakteristik özellikleri taşıyor ve ziyaretçilere serin ve ferah bir atmosfer sunuyor.
 
 ## Flora ve Fauna
 

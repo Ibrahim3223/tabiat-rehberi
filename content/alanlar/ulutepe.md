@@ -28,7 +28,7 @@ wikidata_id: "Q31386919"
 
 # Ulutepe
 
-Ulutepe, Kastamonu'nun bir tepe olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Ulutepe'nin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamı tanıma fırsatı sunar. Tepenin zirvesine çıktığınızda, Karadeniz Bölgesi'nin muhteşem manzarasını izleyebilirsiniz.
+Ulutepe, Kastamonu'nun bir tepe olarak bilinir. Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Ulutepe'nin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamı tanıma fırsatı sunar. Tepenin zirvesine çıktığınızda, Karadeniz Bölgesi'nin muhteşem manzarasını izleyebilirsiniz.
 
 ## Tarihçe
 

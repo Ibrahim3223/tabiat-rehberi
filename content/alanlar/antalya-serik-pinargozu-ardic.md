@@ -22,7 +22,7 @@ wikidata_id: "Q108227220"
 
 # Antalya-Serik-Pinargozu Ardic
 
-Antalya-Serik-Pinargozu Ardic, Akdeniz Bölgesi'nde yer alan ve doğa severlerin ziyaret etmesi gereken bir destinasyondur. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Burada, çeşitli bitki türleri ve zengin fauna foundabilir. Bu milli park, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Bölgenin coğrafi yapısı, ziyaretçilere eşsiz bir deneyim sunar.
+Antalya-Serik-Pinargozu Ardic, Akdeniz Bölgesi'nde yer alan ve doğa severlerin ziyaret etmesi gereken bir destinasyondur. Burada, çeşitli bitki türleri ve zengin fauna foundabilir. Bu milli park, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Bölgenin coğrafi yapısı, ziyaretçilere eşsiz bir deneyim sunar.
 
 ## Tarihçe
 

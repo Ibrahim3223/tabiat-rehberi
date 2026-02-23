@@ -1,7 +1,7 @@
 ---
 title: "Alabanda Kuzey Hamamı"
 date: "2026-01-09T23:48:23.196Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245711"
 
 # Alabanda Kuzey Hamamı
 
-Alabanda Kuzey Hamamı, Aydın'ın Çine ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içesinde bir dünya sunuyor. Bu muhteşem bölge, hem yerel halk hem de turistler için bir çekim merkezi olarak görev yapıyor. Alabanda Kuzey Hamamı'nın güzelliği, sadece plajın kendisinden değil, aynı zamanda çevreleyen doğadan da geliyor. Burada, denizin ve güneşin keyfini çıkarırken, aynı zamanda çevreyi keşfetme fırsatına da sahip oluyorsunuz.
+Alabanda Kuzey Hamamı, Aydın'ın Çine ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. Bu muhteşem bölge, hem yerel halk hem de turistler için bir çekim merkezi olarak görev yapıyor. Alabanda Kuzey Hamamı'nın güzelliği, sadece plajın kendisinden değil, aynı zamanda çevreleyen doğadan da geliyor. Burada, denizin ve güneşin keyfini çıkarırken, aynı zamanda çevreyi keşfetme fırsatına da sahip oluyorsunuz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Alabanda Kuzey Hamamı'nın tarihi geçmişi, bölgenin antik dönemlerine kadar
 
 ## Coğrafya
 
-Alabanda Kuzey Hamamı, Çine ilçesinin sahil şeridinde yer alıyor ve Ege Denizi'ne kıyısı bulunuyor. Bu bölge, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Alabanda Kuzey Hamamı'nın coğrafi konumu, ziyaretçilerine hem deniz hem de doğanın güzelliğini sunuyor. Burada, plajın yanı sıra, çevreleyen dağlar ve ormanlar da bulunuyor ve bu reason nedenlerle, ziyaretçiler için bir çok keşif fırsatı sunuyor. Alabanda Kuzey Hamamı'nın iklimi, tipik Akdeniz iklimi özellikleri gösteriyor ve bu reason nedenlerle, yaz aylarında ziyaretçiler için ideal bir destinasyon olarak ortaya çıkıyor. Bölgenin coğrafi yapısı, aynı zamanda bir çok farklı bitki ve hayvan türünün yaşamasına da olanak sağlıyor ve bu reason nedenlerle, ziyaretçiler için bir doğa cenneti olarak görev yapıyor.
+Alabanda Kuzey Hamamı, Çine ilçesinin sahil şeridinde yer alıyor ve Ege Denizi'ne kıyısı bulunuyor. Alabanda Kuzey Hamamı'nın coğrafi konumu, ziyaretçilerine hem deniz hem de doğanın güzelliğini sunuyor. Burada, plajın yanı sıra, çevreleyen dağlar ve ormanlar da bulunuyor ve bu reason nedenlerle, ziyaretçiler için bir çok keşif fırsatı sunuyor. Alabanda Kuzey Hamamı'nın iklimi, tipik Akdeniz iklimi özellikleri gösteriyor ve bu reason nedenlerle, yaz aylarında ziyaretçiler için ideal bir destinasyon olarak ortaya çıkıyor. Bölgenin coğrafi yapısı, aynı zamanda bir çok farklı bitki ve hayvan türünün yaşamasına da olanak sağlıyor ve bu reason nedenlerle, ziyaretçiler için bir doğa cenneti olarak görev yapıyor.
 
 ## Flora ve Fauna
 

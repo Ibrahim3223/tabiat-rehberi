@@ -29,7 +29,7 @@ wikidata_id: "Q131390896"
 
 # Molla Firaki Kabri
 
-Molla Firaki Kabri, Ege Bölgesi'nin Kütahya şehrinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine yakındır. Molla Firaki Kabri, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkündür. Molla Firaki Kabri, aynı zamanda tarihin izlerini taşıyan bir mekândır. Burada, tarihi yapılar ve anıtlar bulunmaktadır.
+Molla Firaki Kabri, Ege Bölgesi'nin Kütahya şehrinde yer alan 140 hektarlık bir yeşil alandır. Molla Firaki Kabri, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkündür. Molla Firaki Kabri, aynı zamanda tarihin izlerini taşıyan bir mekândır. Burada, tarihi yapılar ve anıtlar bulunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Molla Firaki Kabri'nin tarihi geçmişi zengin ve çeşitlidir. Bu alan, yüzyı
 
 ## Coğrafya
 
-Molla Firaki Kabri, Ege Bölgesi'nin Kütahya şehrinde yer alan bir yeşil alandır. Bu alan, 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde. Molla Firaki Kabri, şehrin merkezine yakındır ve ulaşımı kolaydır. Burada, çeşitli bitki türleri ve hayvanlar bulunmaktadır. Molla Firaki Kabri, aynı zamanda önemli bir coğrafi konuma sahiptir. Burada, dağlar, ovalar ve nehirler bulunmaktadır. Molla Firaki Kabri, ziyaretçilerine çeşitli coğrafi oluşumları bir arada görme fırsatı sunmaktadır. Molla Firaki Kabri'nin iklimi, Ege Bölgesi'nin genel iklimine benzemektedir. Burada, yazlar sıcak ve kurak, kışlar ise soğuk ve yağışlıdır. Molla Firaki Kabri, ziyaretçilerine dört mevsim boyunca farklı bir deneyim sunmaktadır.
+Molla Firaki Kabri, Ege Bölgesi'nin Kütahya şehrinde yer alan bir yeşil alandır. Molla Firaki Kabri, şehrin merkezine yakındır ve ulaşımı kolaydır. Burada, çeşitli bitki türleri ve hayvanlar bulunmaktadır. Molla Firaki Kabri, aynı zamanda önemli bir coğrafi konuma sahiptir. Burada, dağlar, ovalar ve nehirler bulunmaktadır. Molla Firaki Kabri, ziyaretçilerine çeşitli coğrafi oluşumları bir arada görme fırsatı sunmaktadır. Molla Firaki Kabri'nin iklimi, Ege Bölgesi'nin genel iklimine benzemektedir. Burada, yazlar sıcak ve kurak, kışlar ise soğuk ve yağışlıdır. Molla Firaki Kabri, ziyaretçilerine dört mevsim boyunca farklı bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Molla Firaki Kabri, ziyaretçilerine çeşitli etkinlikler sunmaktadır. Burada,
 ## İlginç Bilgiler
 
 - Molla Firaki Kabri, 140 hektarlık bir yeşil alandır.
-- Molla Firaki Kabri, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Molla Firaki Kabri, şehrin merkezine yakındır.
 - Molla Firaki Kabri, önemli bir kültürel merkezdir.
 - Molla Firaki Kabri, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır.

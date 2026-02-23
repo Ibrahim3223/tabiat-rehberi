@@ -1,7 +1,7 @@
 ---
 title: "Haseki Hürrem Sultan Hamamı, Haseki"
 date: "2026-01-09T22:40:51.534Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738547"
 
 # Haseki Hürrem Sultan Hamamı, Haseki
 
-Haseki Hürrem Sultan Hamamı, Haseki, İstanbul'un tarihi mekanlarından biridir. Fatih ilçesinde bulunan bu hamam, yaklaşık 500 yıllık bir geçmişi olan, Kanuni Sultan Süleyman'ın eşi Hürrem Sultan tarafından yaptırılmıştır. 140 hektarlık bir alan üzerinde kurulmayan bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Haseki Hürrem Sultan Hamamı, İstanbul'un en önemli tarihi eserlerinden biri olarak kabul edilmektedir. Bu hamam, Osmanlı dönemi hamam kültürünü yansıtan önemli bir yapıttır.
+Haseki Hürrem Sultan Hamamı, Haseki, İstanbul'un tarihi mekanlarından biridir. Fatih ilçesinde bulunan bu hamam, yaklaşık 500 yıllık bir geçmişi olan, Kanuni Sultan Süleyman'ın eşi Hürrem Sultan tarafından yaptırılmıştır. Haseki Hürrem Sultan Hamamı, İstanbul'un en önemli tarihi eserlerinden biri olarak kabul edilmektedir. Bu hamam, Osmanlı dönemi hamam kültürünü yansıtan önemli bir yapıttır.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Haseki Hürrem Sultan Hamamı, 16. yüzyılda Kanuni Sultan Süleyman'ın eşi H
 
 ## Coğrafya
 
-Haseki Hürrem Sultan Hamamı, Fatih ilçesinde bulunmaktadır. Bu hamam, İstanbul'un tarihi merkezi olarak kabul edilen bölgede yer almaktadır. Hamamın etrafında, çeşitli tarihi eserler ve yapılar bulunmaktadır. Haseki Hürrem Sultan Hamamı, Marmara Bölgesi'nin iklim koşullarına uygun bir şekilde tasarlanmıştır. Bu hamam, sıca ve soğuk su kaynaklarına sahip olup, hamam kültürünün önemli bir parçasıdır. Haseki Hürrem Sultan Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Hamamın mimarisi, Osmanlı dönemi hamam mimarisinin önemli örneklerinden biridir. Bu hamam, tarihi ve kültürel değerleri nedeniyle, İstanbul'un en önemli turistik mekanlarından biri olarak kabul edilmektedir.
+Haseki Hürrem Sultan Hamamı, Fatih ilçesinde bulunmaktadır. Bu hamam, İstanbul'un tarihi merkezi olarak kabul edilen bölgede yer almaktadır. Hamamın etrafında, çeşitli tarihi eserler ve yapılar bulunmaktadır. Haseki Hürrem Sultan Hamamı, Marmara Bölgesi'nin iklim koşullarına uygun bir şekilde tasarlanmıştır. Bu hamam, sıca ve soğuk su kaynaklarına sahip olup, hamam kültürünün önemli bir parçasıdır. Hamamın mimarisi, Osmanlı dönemi hamam mimarisinin önemli örneklerinden biridir. Bu hamam, tarihi ve kültürel değerleri nedeniyle, İstanbul'un en önemli turistik mekanlarından biri olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 
-Haseki Hürrem Sultan Hamamı, çevresi itibariyle çeşitli bitki türlerine ev sahipliği yapmaktadır. Hamamın etrafında, tarihi yapılara uygun olarak, çeşitli ağaçlar ve bitkiler bulunmaktadır. Bu bitkiler, hamamın mimarisine uygun bir şekilde tasarlanmış olup, históriki bir atmosfer yaratmaktadır. Haseki Hürrem Sultan Hamamı, mevsimsel değişimlere göre, farklı bitkilerin ve ağaçların yeşerdiği bir yerdir. Bu hamam, İstanbul'un fauna çeşitliliği açısından da önemli bir role sahiptir. Hamamın etrafında, çeşitli kuş türleri ve diğer canlılar bulunmaktadır. Haseki Hürrem Sultan Hamamı, tarihi ve kültürel değerleri nedeniyle, İstanbul'un en önemli doğal ve tarihi mekanlarından biri olarak kabul edilmektedir.
+Haseki Hürrem Sultan Hamamı, çevresi itibariyle çeşitli bitki türlerine ev sahipliği yapmaktadır. Hamamın etrafında, tarihi yapılara uygun olarak, çeşitli ağaçlar ve bitkiler bulunmaktadır. Bu bitkiler, hamamın mimarisine uygun bir şekilde tasarlanmış olup, tarihi bir atmosfer yaratmaktadır. Haseki Hürrem Sultan Hamamı, mevsimsel değişimlere göre, farklı bitkilerin ve ağaçların yeşerdiği bir yerdir. Bu hamam, İstanbul'un fauna çeşitliliği açısından da önemli bir role sahiptir. Hamamın etrafında, çeşitli kuş türleri ve diğer canlılar bulunmaktadır. Haseki Hürrem Sultan Hamamı, tarihi ve kültürel değerleri nedeniyle, İstanbul'un en önemli doğal ve tarihi mekanlarından biri olarak kabul edilmektedir.
 
 ## Ziyaret Bilgileri
 

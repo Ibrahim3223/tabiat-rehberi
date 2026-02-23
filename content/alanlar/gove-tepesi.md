@@ -29,7 +29,7 @@ wikidata_id: "Q31544903"
 
 # Gove Tepesi
 
-Gove Tepesi, Batman şehrinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafi yapısını etkileyen önemli bir nokta. Gove Tepesi, etrafındaki diğer tepelerle birlikte bir bütün olarak düşünülür ve bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin eteklerinde ve çevresinde, farklı mevsimlerde renk değiştiren çayırlar ve ormanlık alanlar bulunur, bu da bölgenin ekolojik zenginliğini göstermektedir.
+Gove Tepesi, Batman şehrinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Tepenin eteklerinde ve çevresinde, farklı mevsimlerde renk değiştiren çayırlar ve ormanlık alanlar bulunur, bu da bölgenin ekolojik zenginliğini göstermektedir.
 
 ## Tarihçe
 

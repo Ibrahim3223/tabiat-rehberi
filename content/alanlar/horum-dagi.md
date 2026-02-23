@@ -32,7 +32,7 @@ Erzurum'un dağlık coğrafyasında yer alan Horum Dağı, ilin doğal güzellik
 
 ## Tarihçe
 
-Erzurum'un doğal güzelliklerinden biri olan Horum Dağı, tarihin sâu izlerini taşıyan bir bölgede yer alır. Doğu Anadolu Bölgesi, binlerce yıldır çeşitli uygarlıkların yerleşim ve geçiş noktası olarak hizmet vermiştir. Urartular, Romalılar, Selçuklular ve Osmanlılar gibi medeniyetler, bu bölgeye izlerini bırakmışlardır.
+Erzurum'un doğal güzelliklerinden biri olan Horum Dağı, tarihin derin izlerini taşıyan bir bölgede yer alır. Doğu Anadolu Bölgesi, binlerce yıldır çeşitli uygarlıkların yerleşim ve geçiş noktası olarak hizmet vermiştir. Urartular, Romalılar, Selçuklular ve Osmanlılar gibi medeniyetler, bu bölgeye izlerini bırakmışlardır.
 
 Doğal güzellikleri ve stratejik konumuyla, Horum Dağı ve çevresi, tarih boyunca insanların yaşamlarını sürdürdüğü, hayvancılık ve yaylacılık yaptığı önemli bir merkez olmuştur. Özellikle yüksek rakımlı bölgelerde, yaz aylarında yaylacılık yapan halk, bu alanları yaşam alanı olarak kullanmıştır. Ayrıca, tarihi İpek Yolu gibi önemli ticaret yolları da bu bölgeden geçmektedir.
 
@@ -50,7 +50,7 @@ Horum Dağı'nın çevresel ilişkileri, bölgenin su kaynakları ve ekosistem b
 
 ## Flora ve Fauna
 
-Horum Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Horum Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ eteklerinde ve alpin çayırlarda çeşitli çiçekler açıyor. Sonbaharda ise, dağların rengi sarı, turuncu ve kırmızıya dönüşüyor.
 
 Yaban Hayatı olarak, memeliler, kuşlar ve sürüngenler bu dağda yaşamlarını sürdürüyor. Dağ keçileri, kurtlar ve ayılar gibi büyük memeliler, dağların yüksek zonlarında yaşarken, çeşitli kuş türleri de göç yolları üzerinde bu bölgeyi ziyaret ediyor.

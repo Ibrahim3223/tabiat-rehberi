@@ -1,7 +1,7 @@
 ---
 title: "Fatih Sultan Mehmet Türbesi"
 date: "2026-01-10T04:48:32.352Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q85817590"
 
 # Fatih Sultan Mehmet Türbesi
 
-Fatih Sultan Mehmet Türbesi, İstanbul'un kalbinde yer alan bir tarih hazinesidir. 140 hektarlık bir alan üzerinde kurulan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un Marmara Bölgesi'nde bulunan bu türbe, şehrin en önemli tarihi mekanlarından biridir. Fatih Sultan Mehmet, Osmanlı İmparatorluğu'nun önemli padişahlarından biri olarak tarihe geçmiştir. Türbenin konumu, şehrin merkezi konumundaki İstanbul'un kalbinde yer alır.
+Fatih Sultan Mehmet Türbesi, İstanbul'un kalbinde yer alan bir tarih hazinesidir. İstanbul'un Marmara Bölgesi'nde bulunan bu türbe, şehrin en önemli tarihi mekanlarından biridir. Fatih Sultan Mehmet, Osmanlı İmparatorluğu'nun önemli padişahlarından biri olarak tarihe geçmiştir. Türbenin konumu, şehrin merkezi konumundaki İstanbul'un kalbinde yer alır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Fatih Sultan Mehmet Türbesi, tarihi geçmişi ile dikkat çeker. Fatih Sultan M
 
 ## Coğrafya
 
-Fatih Sultan Mehmet Türbesi, İstanbul'un merkezi konumundaki Marmara Bölgesi'nde yer alır. Türbe, 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin coğrafi konumu, şehrin kalbinde yer alması nedeniyle önemlidir. İstanbul'un iklimi, türbenin coğrafi konumunu etkiler. Şehir, karasal iklimin özellikleri gösterir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Türbenin çevresi, tarihi yapılar ve yeşil alanlarla çevrilidir. Bu çevre, türbenin güzelliğini ve tarihi önemini vurgular.
+Fatih Sultan Mehmet Türbesi, İstanbul'un merkezi konumundaki Marmara Bölgesi'nde yer alır. Türbe, 140 hektarlık bir alan üzerinde kurulmuştur. Türbenin coğrafi konumu, şehrin kalbinde yer alması nedeniyle önemlidir. İstanbul'un iklimi, türbenin coğrafi konumunu etkiler. Şehir, karasal iklimin özellikleri gösterir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Türbenin çevresi, tarihi yapılar ve yeşil alanlarla çevrilidir. Bu çevre, türbenin güzelliğini ve tarihi önemini vurgular.
 
 ## Flora ve Fauna
 

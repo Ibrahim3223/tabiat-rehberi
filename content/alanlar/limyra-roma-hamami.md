@@ -1,7 +1,7 @@
 ---
 title: "Limyra Roma Hamamı"
 date: "2026-01-09T23:36:41.242Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739208"
 
 # Limyra Roma Hamamı
 
-Limyra Roma Hamamı, Finike/Antalya'da yer alan ve tarihi geçmişi ile dikkat çeken bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Limyra Roma Hamamı, Antalya'nın önemli tarihi ve turistik mekanlarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Bu alan, tarihi yapıları, doğal güzellikleri ve zengin kültürel mirasıyla ziyaretçilerini cezbeden bir yerdir.
+Limyra Roma Hamamı, Finike/Antalya'da yer alan ve tarihi geçmişi ile dikkat çeken bir alandır. Limyra Roma Hamamı, Antalya'nın önemli tarihi ve turistik mekanlarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Bu alan, tarihi yapıları, doğal güzellikleri ve zengin kültürel mirasıyla ziyaretçilerini cezbeden bir yerdir.
 
 ## Tarihçe
 

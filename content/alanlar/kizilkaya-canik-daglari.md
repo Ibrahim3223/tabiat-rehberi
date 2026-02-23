@@ -23,7 +23,7 @@ wikidata_id: "Q6056322"
 
 # Kızılkaya, Canik Dağları
 
-Samsun'un Canik ilçesinde yer alan Kızılkaya, Canik Dağları'nın en dikkat çekici noktalarından biri. Bu dağlık alan, Türkiye'nin Karadeniz Bölgesi'nde bulunan önemli coğrafi oluşumlarından biri. Kızılkaya, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin históri ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Canik Dağları'nın eteklerinde yer alan Kızılkaya, Samsun'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Samsun'un Canik ilçesinde yer alan Kızılkaya, Canik Dağları'nın en dikkat çekici noktalarından biri. Bu dağlık alan, Türkiye'nin Karadeniz Bölgesi'nde bulunan önemli coğrafi oluşumlarından biri. Kızılkaya, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Canik Dağları'nın eteklerinde yer alan Kızılkaya, Samsun'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228186"
 
 # Bolu Karagöl
 
-Bolu Karagöl, Türk milletinin ortak mirası, 140 hektarlık yeşil cennet. Bu muhteşem doğa harikası, yaklaşık 200 futbol sahası büyüklüğünde. İç Anadolu Bölgesi'nin kalbinde yer alan Bolu Karagöl, doğa severlerin ve macera arayanların gözdesi. Doğal güzelliği, zengin florası ve faunası ile ziyaretçilerini büyülüyor. Bolu Karagöl, hem doğa ile iç içe bir gün geçirmek hem de macera dolu anlar yaşamak isteyenler için ideal bir destinasyon.
+Bolu Karagöl, Türk milletinin ortak mirası, 140 hektarlık yeşil cennet. İç Anadolu Bölgesi'nin kalbinde yer alan Bolu Karagöl, doğa severlerin ve macera arayanların gözdesi. Doğal güzelliği, zengin florası ve faunası ile ziyaretçilerini büyülüyor. Bolu Karagöl, hem doğa ile iç içe bir gün geçirmek hem de macera dolu anlar yaşamak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Bolu Karagöl'ün tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge,
 
 ## Coğrafya
 
-Bolu Karagöl, İç Anadolu Bölgesi'nin coğrafi güzelliklerini içerisinde barındırıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal güzelliği ile dikkat çekiyor. Bolu Karagöl'ün coğrafi yapısı, ziyaretçilere unutulmaz manzaralar sunuyor. Bölgenin iklimi, ziyaretçilere dört mevsim farklı deneyimler sunuyor. Kışın karla kaplı, ilkbaharda yeşillenmiş, yazın sıcak ve güneşli, sonbaharda renk cümbüşü ile ziyaretçileri büyülüyor. Bolu Karagöl'ün coğrafi konumu, ziyaretçilere doğa ile iç içe bir deneyim sunuyor.
+Bolu Karagöl, İç Anadolu Bölgesi'nin coğrafi güzelliklerini içerisinde barındırıyor. Bu bölge, doğal güzelliği ile dikkat çekiyor. Bolu Karagöl'ün coğrafi yapısı, ziyaretçilere unutulmaz manzaralar sunuyor. Bölgenin iklimi, ziyaretçilere dört mevsim farklı deneyimler sunuyor. Kışın karla kaplı, ilkbaharda yeşillenmiş, yazın sıcak ve güneşli, sonbaharda renk cümbüşü ile ziyaretçileri büyülüyor. Bolu Karagöl'ün coğrafi konumu, ziyaretçilere doğa ile iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

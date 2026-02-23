@@ -50,7 +50,7 @@ Bölgenin ekosistem bağlantıları açısından önemli bir nokta olan Akpınar
 
 ## Flora ve Fauna
 
-Akpınar Dağı, Samsun'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker. 
+Akpınar Dağı, Samsun'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker.
 
 Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçlarını renkli çiçekler süsler, sonbaharda ise ormanlar sarı, kırmızı ve turuncu tonlara bürünür. Gür ormanlar, dağ ekosisteminin temel taşıdır ve birçok canlıyaşam alanı sağlar.
 

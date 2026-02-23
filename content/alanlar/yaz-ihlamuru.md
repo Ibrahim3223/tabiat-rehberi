@@ -22,7 +22,7 @@ wikidata_id: "Q108227359"
 
 # Yaz Ihlamuru
 
-Yaz Ihlamuru, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Bu alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın huzuruna kavuşturan bir cennettir. Yaz Ihlamuru, doğa severler ve fotoğraf meraklıları için bir çekim merkezi olarak görev yapmaktadır. Ayrıca, bu bölgede yapılan araştırmalar, burada çeşitli bitki türleri ve zengin fauna bulunabileceğini göstermektedir.
+Yaz Ihlamuru, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın huzuruna kavuşturan bir cennettir. Yaz Ihlamuru, doğa severler ve fotoğraf meraklıları için bir çekim merkezi olarak görev yapmaktadır. Ayrıca, bu bölgede yapılan araştırmalar, burada çeşitli bitki türleri ve zengin fauna bulunabileceğini göstermektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Yaz Ihlamuru'nun tarihi geçmişi, yüzyıllar boyunca doğal güzelliğini koru
 
 ## Coğrafya
 
-Yaz Ihlamuru, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer almaktadır. Bu bölgenin coğrafi konumu, 140 hektarlık bir yeşil alanı içerir ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, bölgenin önemli doğal güzelliklerinden biridir ve ziyaretçilerini doğanın güzelliğine davet etmektedir. Yaz Ihlamuru'nun coğrafi konumu, İç Anadolu Bölgesi'nin merkez kısmında yer almaktadır. Bu bölgenin iklimi, karasal iklim özellikleri taşımaktadır ve yaz aylarında sıcak, kış aylarında soğuk olmaktadır. Bu alan, bölgenin en önemli doğal güzelliklerinden biridir ve ziyaretçilerini doğanın güzelliğine davet etmektedir. Ayrıca, bu bölgede, çeşitli bitki türleri ve zengin fauna bulunabileceği düşünülmektedir.
+Yaz Ihlamuru, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer almaktadır. Bu alan, bölgenin önemli doğal güzelliklerinden biridir ve ziyaretçilerini doğanın güzelliğine davet etmektedir. Yaz Ihlamuru'nun coğrafi konumu, İç Anadolu Bölgesi'nin merkez kısmında yer almaktadır. Bu bölgenin iklimi, karasal iklim özellikleri taşımaktadır ve yaz aylarında sıcak, kış aylarında soğuk olmaktadır. Bu alan, bölgenin en önemli doğal güzelliklerinden biridir ve ziyaretçilerini doğanın güzelliğine davet etmektedir. Ayrıca, bu bölgede, çeşitli bitki türleri ve zengin fauna bulunabileceği düşünülmektedir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Yaz Ihlamuru'nu ziyaret etmek, doğa severler ve fotoğraf meraklıları için b
 ## İlginç Bilgiler
 
 - Yaz Ihlamuru, 140 hektarlık bir yeşil alanı kapsamaktadır.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - İç Anadolu Bölgesi'nin coğrafi konumu, bu bölgenin oluşumunda önemli bir rol oynamıştır.
 - Yaz Ihlamuru, çeşitli bitki türleri ve zengin fauna bulunabilecek bir doğa harikasıdır.
 - Bu alan, doğa severler ve fotoğraf meraklıları için bir çekim merkezi olarak görev yapmaktadır.

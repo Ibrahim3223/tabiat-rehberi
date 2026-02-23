@@ -1,7 +1,7 @@
 ---
 title: "Kahramanmaras-Kilis Fistik Cami"
 date: "2026-01-09T19:06:34.223Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228005"
 
 # Kahramanmaras-Kilis Fistik Cami
 
-Kahramanmaras-Kilis Fistik Cami, İç Anadolu Bölgesi'nde yer alan bir tarihi yapıdır. Bu cami, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanının içinde bulunmakta ve ziyaretçilerini doğanın güzelliği ile karşılamaktadır. Caminin tarihi geçmişi, ziyaretçilere bu özel yapı hakkında bilgi vermektedir. 140 hektarlık bu yeşil alan, birçok bitki türünü ve çeşitli canlıları barındırmaktadır. Ziyaretçiler, bu cami ve çevresini ziyaret ederek hem tarihi bir yapıyı görmüş hem de doğanın güzelliğini keşfetmiş olurlar.
+Kahramanmaras-Kilis Fistik Cami, İç Anadolu Bölgesi'nde yer alan bir tarihi yapıdır. Caminin tarihi geçmişi, ziyaretçilere bu özel yapı hakkında bilgi vermektedir. 140 hektarlık bu yeşil alan, birçok bitki türünü ve çeşitli canlıları barındırmaktadır. Ziyaretçiler, bu cami ve çevresini ziyaret ederek hem tarihi bir yapıyı görmüş hem de doğanın güzelliğini keşfetmiş olurlar.
 
 ## Tarihçe
 

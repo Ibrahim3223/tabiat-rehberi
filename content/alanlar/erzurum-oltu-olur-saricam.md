@@ -22,7 +22,7 @@ wikidata_id: "Q108227692"
 
 # Erzurum-Oltu-Olur Saricam
 
-Erzurum-Oltu-Olur Saricam milli parkı, Doğu Anadolu Bölgesi'nin doğal güzelliklerini sergileyen bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal sitelerinden biri. Bu milli park, ziyaretçilerine doğanın içinde huzurlu bir atmosfer sunuyor. Erzurum ilinin Oltu ve Olur ilçeleri arasında bulunan Saricam, doğal güzellikleri ve yaban hayatı ile dikkat çekiyor. Milli parkın zengin flora ve fauna çeşitliliği, ziyaretçilerine doğa hakkında derinlemesine bilgi edinme fırsatı sunuyor.
+Erzurum-Oltu-Olur Saricam milli parkı, Doğu Anadolu Bölgesi'nin doğal güzelliklerini sergileyen bir alan olarak dikkat çekiyor. Bu milli park, ziyaretçilerine doğanın içinde huzurlu bir atmosfer sunuyor. Erzurum ilinin Oltu ve Olur ilçeleri arasında bulunan Saricam, doğal güzellikleri ve yaban hayatı ile dikkat çekiyor. Milli parkın zengin flora ve fauna çeşitliliği, ziyaretçilerine doğa hakkında derinlemesine bilgi edinme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Erzurum-Oltu-Olur Saricam milli parkının tarihi geçmişi, bölgenin jeoloji v
 
 ## Coğrafya
 
-Erzurum-Oltu-Olur Saricam milli parkı, Doğu Anadolu Bölgesi'nin coğrafi özelliklerine göre şekillenmiştir. Milli park, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Saricam milli parkı, Erzurum ilinin Oltu ve Olur ilçeleri arasında bulunuyor. Bu milli park, bölgenin en önemli doğal sitelerinden biri ve ziyaretçilerine doğanın içinde huzurlu bir atmosfer sunuyor. Milli parkın coğrafi özellikleri, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Saricam milli parkı, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Milli parkın iklimi, bölgenin coğrafi özelliklerine göre şekilleniyor ve ziyaretçilerine dört mevsim ayrı güzellikler sunuyor.
+Erzurum-Oltu-Olur Saricam milli parkı, Doğu Anadolu Bölgesi'nin coğrafi özelliklerine göre şekillenmiştir. Saricam milli parkı, Erzurum ilinin Oltu ve Olur ilçeleri arasında bulunuyor. Bu milli park, bölgenin en önemli doğal sitelerinden biri ve ziyaretçilerine doğanın içinde huzurlu bir atmosfer sunuyor. Milli parkın coğrafi özellikleri, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Saricam milli parkı, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Milli parkın iklimi, bölgenin coğrafi özelliklerine göre şekilleniyor ve ziyaretçilerine dört mevsim ayrı güzellikler sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Erzurum-Oltu-Olur Saricam milli parkını ziyaret etmek, doğanın içinde huzur
 ## İlginç Bilgiler
 
 - Saricam milli parkı, 140 hektarlık bir alan üzerinde kurulmuş.
-- Milli park, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Saricam milli parkı, Erzurum ilinin Oltu ve Olur ilçeleri arasında bulunuyor.
 - Milli park, ziyaretçilerine doğanın içinde huzurlu bir atmosfer sunuyor.
 - Saricam milli parkı, zengin flora ve fauna çeşitliliği ile dikkat çekiyor.

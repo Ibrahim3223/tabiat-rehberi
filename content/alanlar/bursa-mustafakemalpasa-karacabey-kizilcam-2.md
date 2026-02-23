@@ -22,7 +22,7 @@ wikidata_id: "Q108227862"
 
 # Bursa-Mustafakemalpaşa-Karacabey Kızılçam 2
 
-Bursa-Mustafakemalpaşa-Karacabey Kızılçam 2 milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biridir. Yaklaşık 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik dengesini korumaktadır. Bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı vermektedir. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu doğal güzellikler ziyaretçileri kendisine çekmektedir.
+Bursa-Mustafakemalpaşa-Karacabey Kızılçam 2 milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biridir. Bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı vermektedir. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu doğal güzellikler ziyaretçileri kendisine çekmektedir.
 
 ## Tarihçe
 

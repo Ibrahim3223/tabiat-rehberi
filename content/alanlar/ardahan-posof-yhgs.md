@@ -23,7 +23,7 @@ wikidata_id: "Q108227091"
 
 # Ardahan-Posof YHGS
 
-Ardahan-Posof YHGS, Doğu Anadolu Bölgesi'nin Ardahan ilinde yer alan ve doğal güzellikleri ile dikkat çeken bir yer. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyen bir manzaraya sahip. Bu bölge, özellikle a severlerin ve doğa tutkunlarının ziyaret ettiği bir yer. Ardahan-Posof YHGS, zengin flora ve faunası ile dikkat çekiyor ve ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
+Ardahan-Posof YHGS, Doğu Anadolu Bölgesi'nin Ardahan ilinde yer alan ve doğal güzellikleri ile dikkat çeken bir yer. Bu bölge, özellikle a severlerin ve doğa tutkunlarının ziyaret ettiği bir yer. Ardahan-Posof YHGS, zengin flora ve faunası ile dikkat çekiyor ve ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Ardahan-Posof YHGS, ziyaretçilerine çeşitli olanaklar sunuyor. Bu bölge, öz
 ## İlginç Bilgiler
 
 - Ardahan-Posof YHGS, 140 hektarlık bir yeşil alana sahip.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Ardahan-Posof YHGS, flora ve faunası bakımından zengin bir çeşitlilik sunuyor.
 - Bu bölge, özellikle doğa severlerin ve macera tutkunlarının ziyaret ettiği bir yer.
 - Ardahan-Posof YHGS, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.

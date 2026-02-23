@@ -1,7 +1,7 @@
 ---
 title: "Ahi Evran Sultan Türbesi"
 date: "2026-01-10T07:14:24.991Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390894"
 
 # Ahi Evran Sultan Türbesi
 
-Ahi Evran Sultan Türbesi, Kütahya'nın merkezinde yer alan ve tarihi önem taşıyan bir mekan olarak ziyaretçilerini bekliyor. 13. yüzyılda yaşamış olan Ahi Evran, Türk tasavvufunun önemli isimlerinden biri olarak bilinir. Türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ahi Evran Sultan Türbesi, Kütahya'nın tarihi ve kültürel zenginliğini yansıtan önemli bir noktadır.
+Ahi Evran Sultan Türbesi, Kütahya'nın merkezinde yer alan ve tarihi önem taşıyan bir mekan olarak ziyaretçilerini bekliyor. 13. yüzyılda yaşamış olan Ahi Evran, Türk tasavvufunun önemli isimlerinden biri olarak bilinir. Ahi Evran Sultan Türbesi, Kütahya'nın tarihi ve kültürel zenginliğini yansıtan önemli bir noktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ahi Evran Sultan Türbesi, 13. yüzyılda yaşayan Ahi Evran'ın hayatını ve �
 
 ## Coğrafya
 
-Ahi Evran Sultan Türbesi, Kütahya'nın merkezinde yer alan bir mekan olarak, şehrin coğrafi yapısını yansıtan önemli bir noktadır. Türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kütahya, Ege Bölgesi'nin kuzeydoğusunda yer alan bir ildir ve coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Ahi Evran Sultan Türbesi, Kütahya'nın merkezinde yer alan bir vadi içerisinde yer alır ve bu vadi, şehrin coğrafi yapısını yansıtan önemli bir noktadır. Türbenin çevresinde, çeşitli tarihi ve kültürel mekanlar yer alır ve bu mekanlar, Kütahya'nın zengin tarihi ve kültürel mirasını yansıtan önemli noktalar olarak kabul edilir. Kütahya'nın iklimi, karasal iklim özellikleri gösterir ve kışlar soğuk, yazlar sıcak geçer. Ahi Evran Sultan Türbesi, Kütahya'nın coğrafi yapısını yansıtan önemli bir noktadır ve ziyaretçilerine, şehrin tarihi ve kültürel zenginliğini sunar.
+Ahi Evran Sultan Türbesi, Kütahya'nın merkezinde yer alan bir mekan olarak, şehrin coğrafi yapısını yansıtan önemli bir noktadır. Kütahya, Ege Bölgesi'nin kuzeydoğusunda yer alan bir ildir ve coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Ahi Evran Sultan Türbesi, Kütahya'nın merkezinde yer alan bir vadi içerisinde yer alır ve bu vadi, şehrin coğrafi yapısını yansıtan önemli bir noktadır. Türbenin çevresinde, çeşitli tarihi ve kültürel mekanlar yer alır ve bu mekanlar, Kütahya'nın zengin tarihi ve kültürel mirasını yansıtan önemli noktalar olarak kabul edilir. Kütahya'nın iklimi, karasal iklim özellikleri gösterir ve kışlar soğuk, yazlar sıcak geçer. Ahi Evran Sultan Türbesi, Kütahya'nın coğrafi yapısını yansıtan önemli bir noktadır ve ziyaretçilerine, şehrin tarihi ve kültürel zenginliğini sunar.
 
 ## Flora ve Fauna
 

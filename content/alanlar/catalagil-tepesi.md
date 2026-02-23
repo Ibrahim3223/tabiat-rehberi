@@ -28,7 +28,7 @@ wikidata_id: "Q34824229"
 
 # Çatalağıl Tepesi
 
-Afyonkarahisar ilinin önemli doğal güzelliklerinden biri olan Çatalağıl Tepesi, Ege Bölgesi'nin coğrafi zenginliklerini gözler önüne serer. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Çatalağıl Tepesi, hem yerli hem de yabancı turistlerin ilgisini çeker. Bu bölge, hem güzelliklerinin keşfedilmesi hem de coğrafi özelliklerinin incelenmesi açısından önemli bir destinasyondur.
+Afyonkarahisar ilinin önemli doğal güzelliklerinden biri olan Çatalağıl Tepesi, Ege Bölgesi'nin coğrafi zenginliklerini gözler önüne serer. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Çatalağıl Tepesi, hem yerli hem de yabancı turistlerin ilgisini çeker. Bu bölge, hem güzelliklerinin keşfedilmesi hem de coğrafi özelliklerinin incelenmesi açısından önemli bir destinasyondur.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227917"
 
 # Mugla-Kemer-Akcay Kızılçam 2
 
-Mugla-Kemer-Akcay Kızılçam 2 milli parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Milli parkın konumu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanır. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar. Burada, ziyaretçiler doğa yürüyüşleri yapabilir, flora ve fauna hakkında bilgi edinebilirler. Milli parkın hikayesi, yüzyıllar boyunca şekillenmiş ve bugünkü haline ulaşmıştır. Ziyaretçiler, bu milli parkı ziyaret ederek hem doğa ile iç içe bir deneyim yaşayabilir hem de bölgenin tarihini ve kültürünü öğrenebilirler.
+ Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Milli parkın konumu, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak tanır. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar. Burada, ziyaretçiler doğa yürüyüşleri yapabilir, flora ve fauna hakkında bilgi edinebilirler. Milli parkın hikayesi, yüzyıllar boyunca şekillenmiş ve bugünkü haline ulaşmıştır. Ziyaretçiler, bu milli parkı ziyaret ederek hem doğa ile iç içe bir deneyim yaşayabilir hem de bölgenin tarihini ve kültürünü öğrenebilirler.
 
 ## Tarihçe
 

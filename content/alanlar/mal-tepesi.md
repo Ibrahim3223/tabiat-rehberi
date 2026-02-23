@@ -29,7 +29,7 @@ wikidata_id: "Q31562632"
 
 # Mal Tepesi
 
-Mal Tepesi, Kastamonu'nun güzide noktalarından biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin yaban hayatı için önemli bir merkez. Mal Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor. Doğa yürüyüşleri, yaban hayatıı ve temiz hava, burayı ziyaret etmek için mükemmel nedenler. Mal Tepesi, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyon.
+Mal Tepesi, Kastamonu'nun güzide noktalarından biri olarak karşımıza çıkıyor. Mal Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor. Doğa yürüyüşleri, yaban hayatıı ve temiz hava, burayı ziyaret etmek için mükemmel nedenler. Mal Tepesi, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

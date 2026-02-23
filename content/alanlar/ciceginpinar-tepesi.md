@@ -28,7 +28,7 @@ wikidata_id: "Q34829389"
 
 # Çiçeğinpınar Tepesi
 
-İç Anadolu Bölgesi'nin geniş ve verimli topraklarında, Çankırı'nın sınırları içerisinde yer alan Çiçeğinpınar Tepesi, 140 hektarlık bir alan kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Çiçeğinpınar Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ön plana çıkıyor. Bu tepe, bölgenin coğrafi ve ekolojik yapısını anlamak için önemli bir nokta olarak kabul ediliyor. Çankırı'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+İç Anadolu Bölgesi'nin geniş ve verimli topraklarında, Çankırı'nın sınırları içerisinde yer alan Çiçeğinpınar Tepesi, 140 hektarlık bir alan kaplıyor. Çiçeğinpınar Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ön plana çıkıyor. Bu tepe, bölgenin coğrafi ve ekolojik yapısını anlamak için önemli bir nokta olarak kabul ediliyor. Çankırı'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

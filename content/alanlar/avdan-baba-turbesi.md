@@ -1,7 +1,7 @@
 ---
 title: "Avdan Baba Türbesi"
 date: "2026-01-10T05:05:30.770Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391577"
 
 # Avdan Baba Türbesi
 
-Avdan Baba Türbesi, Denizli'nin Tavas ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. Bu bölge, Ege Bölgesi'nin doğal güzellikleri ve tarihi zenginliklerinin bir araya geldiği özel bir noktada bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alanı kapsar. Avdan Baba Türbesi, ziyaretçilerine hem tarihi bir deneyim hem de doğanın güzelliğini sunmaktadır. Bu alan, Tavas'ın önemli gezi noktalarından biri olarak bilinir ve tarihi geçmişi ile dikkat çekmektedir.
+Avdan Baba Türbesi, Denizli'nin Tavas ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. Bu bölge, Ege Bölgesi'nin doğal güzellikleri ve tarihi zenginliklerinin bir araya geldiği özel bir noktada bulunmaktadır. Avdan Baba Türbesi, ziyaretçilerine hem tarihi bir deneyim hem de doğanın güzelliğini sunmaktadır. Bu alan, Tavas'ın önemli gezi noktalarından biri olarak bilinir ve tarihi geçmişi ile dikkat çekmektedir.
 
 ## Tarihçe
 

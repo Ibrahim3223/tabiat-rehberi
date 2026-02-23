@@ -29,7 +29,7 @@ wikidata_id: "Q31388205"
 
 # Bayrak Tepesi
 
-Aydın ilinin Ege Bölgesi'nde yer alan Bayrak Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı ziyaretçilerine sunar. Bu büyüleyici tepe, misafirlerine eşsiz bir doğal güzellik deneyimi sunar. Bayrak Tepesi, ziyaretçilerini doğanın içinde kaybolma fırsatı sunar. Burada, doğanın sesleri ve renkleri, ziyaretçilere unutulmaz bir deneyim sunar.
+ Bu büyüleyici tepe, misafirlerine eşsiz bir doğal güzellik deneyimi sunar. Bayrak Tepesi, ziyaretçilerini doğanın içinde kaybolma fırsatı sunar. Burada, doğanın sesleri ve renkleri, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

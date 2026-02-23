@@ -29,7 +29,7 @@ wikidata_id: "Q134728138"
 
 # Roma Mezar Anıtı, Kepiç
 
-Roma Mezar Anıtı, Kepiç, İç Anadolu Bölgesi'nin Kayseri ilinin Felahiye ilçesinde yer alan tarihi bir yapıdır. Bu eser, Roma döneminde inşa edilmiş ve günümüze kadar ulaşmıştır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplar. Roma Mezar Anıtı, Kepiç Plajı'nın hemen yanında bulunur ve ziyaretçilere tarihin sâu sayfalarından birini açar. Bu tarihi yapı, Kepiç Plajı'nı ziyaret edenlerin ilgisini çeker ve bir çok turist tarafından keşfedilir.
+Roma Mezar Anıtı, Kepiç, İç Anadolu Bölgesi'nin Kayseri ilinin Felahiye ilçesinde yer alan tarihi bir yapıdır. Bu eser, Roma döneminde inşa edilmiş ve günümüze kadar ulaşmıştır. Roma Mezar Anıtı, Kepiç Plajı'nın hemen yanında bulunur ve ziyaretçilere tarihin derin sayfalarından birini açar. Bu tarihi yapı, Kepiç Plajı'nı ziyaret edenlerin ilgisini çeker ve bir çok turist tarafından keşfedilir.
 
 ## Tarihçe
 

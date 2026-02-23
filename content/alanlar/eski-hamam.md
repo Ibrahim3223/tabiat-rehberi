@@ -1,7 +1,7 @@
 ---
 title: "Eski Hamam"
 date: "2026-01-09T22:25:06.944Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738448"
 
 # Eski Hamam
 
-Eski Hamam, Tokat'ın Niksar ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla dikkat çekici bir doğal güzellik olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Eski Hamam'ın bu geniş ve yeşillikle kaplı alanı, hem doğa severler hem de dinlenme arayanlar için ideal bir destinasyon. Ziyaretçiler, bu eşsiz ortamda hem doğanın güzelliğini keşfedebilir hem de stres ve yorgunluktan uzaklaşabilir.
+Eski Hamam, Tokat'ın Niksar ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla dikkat çekici bir doğal güzellik olarak karşımıza çıkıyor. Eski Hamam'ın bu geniş ve yeşillikle kaplı alanı, hem doğa severler hem de dinlenme arayanlar için ideal bir destinasyon. Ziyaretçiler, bu eşsiz ortamda hem doğanın güzelliğini keşfedebilir hem de stres ve yorgunluktan uzaklaşabilir.
 
 ## Tarihçe
 

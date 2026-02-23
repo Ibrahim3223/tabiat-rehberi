@@ -1,7 +1,7 @@
 ---
 title: "Tevekkül Sultan Türbesi"
 date: "2026-01-10T06:32:00.787Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582633"
 
 # Tevekkül Sultan Türbesi
 
-Tevekkül Sultan Türbesi, Mersin'in Silifke ilçesinde bulunan ve historical değer taşıyan bir yapıdır. Bu türkbe, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tevekkül Sultan Türbesi, tarihi ve coğrafi konumu itibariyle önemli bir mekan olarak kabul edilmektedir. Bu türkbe, ziyaretçilerine zengin bir tarih ve kültür deneyimi sunmaktadır.
+Tevekkül Sultan Türbesi, Mersin'in Silifke ilçesinde bulunan ve historical değer taşıyan bir yapıdır. Tevekkül Sultan Türbesi, tarihi ve coğrafi konumu itibariyle önemli bir mekan olarak kabul edilmektedir. Bu türkbe, ziyaretçilerine zengin bir tarih ve kültür deneyimi sunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Tevekkül Sultan Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu türkbe,
 
 ## Coğrafya
 
-Tevekkül Sultan Türbesi, Mersin'in Silifke ilçesinde bulunmaktadır. Bu türkbe, coğrafi konumu itibariyle önemli bir mekan olarak kabul edilmektedir. Tevekkül Sultan Türbesi, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu türkbe, deniz seviyesinden yüksek bir konumda bulunmaktadır. Tevekkül Sultan Türbesi, coğrafi konumu itibariyle ziyaretçilerine zengin bir deneyim sunmaktadır. Bu türkbe, Mersin'in Silifke ilçesinde bulunan ve historical değer taşıyan bir yapıdır. Tevekkül Sultan Türbesi, coğrafi konumu itibariyle önemli bir merkez olarak kabul edilmektedir.
+Tevekkül Sultan Türbesi, Mersin'in Silifke ilçesinde bulunmaktadır. Bu türkbe, coğrafi konumu itibariyle önemli bir mekan olarak kabul edilmektedir. Bu türkbe, deniz seviyesinden yüksek bir konumda bulunmaktadır. Tevekkül Sultan Türbesi, coğrafi konumu itibariyle ziyaretçilerine zengin bir deneyim sunmaktadır. Bu türkbe, Mersin'in Silifke ilçesinde bulunan ve historical değer taşıyan bir yapıdır. Tevekkül Sultan Türbesi, coğrafi konumu itibariyle önemli bir merkez olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 

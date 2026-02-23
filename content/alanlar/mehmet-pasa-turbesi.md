@@ -1,7 +1,7 @@
 ---
 title: "Mehmet Paşa Türbesi"
 date: "2026-01-10T07:36:13.371Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391264"
 
 # Mehmet Paşa Türbesi
 
-Mehmet Paşa Türbesi, Amasya'nın merkezi konumunda bulunan ve tarihi geçmişiyle dikkat çeken bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Türbenin etrafında bulunan ağaçlar ve yeşillikler, ziyaretçilere huzurlu bir atmosfer sunar. Mehmet Paşa Türbesi, sadece bir tarihi mekan değil, aynı zamanda doğayı ve tarihi bir arada deneyimlemek isteyenler için önemli bir destinasyondur.
+Mehmet Paşa Türbesi, Amasya'nın merkezi konumunda bulunan ve tarihi geçmişiyle dikkat çeken bir alandır. Türbenin etrafında bulunan ağaçlar ve yeşillikler, ziyaretçilere huzurlu bir atmosfer sunar. Mehmet Paşa Türbesi, sadece bir tarihi mekan değil, aynı zamanda doğayı ve tarihi bir arada deneyimlemek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mehmet Paşa Türbesi, tarihin derinliklerine uzanan bir geçmişe sahiptir. Tar
 
 ## Coğrafya
 
-Mehmet Paşa Türbesi, Amasya'nın coğrafi olarak önemli bir konumunda bulunur. Şehrin merkezi bölgesinde yer alan türbe, yeşilliklerle çevrilidir ve ziyaretçilere şehrin gürültüsünden uzak, sakin bir atmosfer sunar. Türbenin etrafındaki coğrafya, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yeşille dolu vadiler, dağlar ve nehirler ile çevrilidir ve bu coğrafi özellikler, Mehmet Paşa Türbesi'nin doğal güzelliğini daha da artırır. Türbenin bulunduğu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş yeşil alan, ziyaretçilere doğayla iç içe olma ve tarihi bir atmosferi deneyimlemek için yeterli alan sağlar. Coğrafi konumu itibariyle, Mehmet Paşa Türbesi, Amasya'nın önemli bir turizm merkezi olarak kabul edilir ve ziyaretçilere şehrin tarihi, kültürel ve doğal güzelliklerini bir arada sunar.
+Mehmet Paşa Türbesi, Amasya'nın coğrafi olarak önemli bir konumunda bulunur. Şehrin merkezi bölgesinde yer alan türbe, yeşilliklerle çevrilidir ve ziyaretçilere şehrin gürültüsünden uzak, sakin bir atmosfer sunar. Türbenin etrafındaki coğrafya, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yeşille dolu vadiler, dağlar ve nehirler ile çevrilidir ve bu coğrafi özellikler, Mehmet Paşa Türbesi'nin doğal güzelliğini daha da artırır. Coğrafi konumu itibariyle, Mehmet Paşa Türbesi, Amasya'nın önemli bir turizm merkezi olarak kabul edilir ve ziyaretçilere şehrin tarihi, kültürel ve doğal güzelliklerini bir arada sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Mehmet Paşa Türbesi'ni ziyaret etmek, Amasya'nın tarihi ve doğal güzellikle
 ## İlginç Bilgiler
 
 - Mehmet Paşa Türbesi, Amasya'nın en önemli tarihi mekanlarından biridir.
-- Türbenin etrafındaki yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Mehmet Paşa'nın tarihi geçmişi ve significance, ziyaretçilere önemli bir tarih dersi verir.
 - Türbenin mimari özellikleri, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Mehmet Paşa Türbesi, Amasya'nın turizm potansiyelini artıran önemli bir destinasyondur.

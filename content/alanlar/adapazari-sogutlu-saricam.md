@@ -22,7 +22,7 @@ wikidata_id: "Q108227970"
 
 # Adapazari-Sogutlu Saricam
 
-Adapazari-Sogutlu Saricam, İç Anadolu Bölgesi'nin kalbinde yer alan ve ziyaretçilerini büyüleyici doğası ile karşılayan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini koruma altına almak için kurulmuş özel bir doğa rezervidir. Bu doğa harikası, ziyaretçilerine yaban hayatı ile iç içe bir deneyim sunarken, aynı zamanda bölgeye özgü flora ve fauna hakkında bilgi edinme fırsatı sunar.
+Adapazari-Sogutlu Saricam, İç Anadolu Bölgesi'nin kalbinde yer alan ve ziyaretçilerini büyüleyici doğası ile karşılayan bir milli parktır. Bu doğa harikası, ziyaretçilerine yaban hayatı ile iç içe bir deneyim sunarken, aynı zamanda bölgeye özgü flora ve fauna hakkında bilgi edinme fırsatı sunar.
 
 ## Tarihçe
 

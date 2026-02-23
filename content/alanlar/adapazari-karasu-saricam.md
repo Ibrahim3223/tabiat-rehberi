@@ -22,7 +22,7 @@ wikidata_id: "Q108227974"
 
 # Adapazari-Karasu Saricam
 
-Adapazari-Karasu Saricam milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğal güzellik alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok farklı bitki türüne ev sahipliği yapıyor. Parkın içerisinde çeşitli yaban hayvanları da yaşamaktadır. Bu milli park, hem doğa severler hem de yaban hayatı ile ilgilenenler için mükemmel bir gezi alanı sunuyor. Ziyaretçiler, burada doğal güzellikleri keşfedebilir, fotosafari yapabilir ve yaban hayvanlarını yakından görebilirler.
+Adapazari-Karasu Saricam milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğal güzellik alanıdır. Parkın içerisinde çeşitli yaban hayvanları da yaşamaktadır. Bu milli park, hem doğa severler hem de yaban hayatı ile ilgilenenler için mükemmel bir gezi alanı sunuyor. Ziyaretçiler, burada doğal güzellikleri keşfedebilir, fotosafari yapabilir ve yaban hayvanlarını yakından görebilirler.
 
 ## Tarihçe
 

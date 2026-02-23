@@ -29,7 +29,7 @@ wikidata_id: "Q31389732"
 
 # Belen Tepesi
 
-Belen Tepesi, Kastamonu'nun en yüksek noktası olarak bilinir ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Belen Tepesi, Kastamonu'nun merkezine uzun bir mesafe uzaklıkta bulunur ve kolayca ulaşılabilir. Bu tepe, bölgenin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Belen Tepesi'nin etrafında çeşitli bitki türleri bulunur ve bu tepe, doğa severlerin mutlaka ziyaret etmesi gereken bir yerdir.
+Belen Tepesi, Kastamonu'nun en yüksek noktası olarak bilinir ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Belen Tepesi, Kastamonu'nun merkezine uzun bir mesafe uzaklıkta bulunur ve kolayca ulaşılabilir. Bu tepe, bölgenin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Belen Tepesi'nin etrafında çeşitli bitki türleri bulunur ve bu tepe, doğa severlerin mutlaka ziyaret etmesi gereken bir yerdir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Belen Tepesi'nin tarihi geçmişi yüzyıllar öncesine dayanır. Bu tepe, yüzy
 
 ## Coğrafya
 
-Belen Tepesi, Kastamonu'nun en yüksek noktası olarak bilinir ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu tepe, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve khong 200 futbol sahası büyüklüğündedir. Belen Tepesi, Kastamonu'nun merkezine uzun bir mesafe uzaklıkta bulunur ve kolayca ulaşılabilir. Bu tepe, bölgenin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Belen Tepesi'nin etrafında çeşitli bitki türleri bulunur ve bu tepe, doğa severlerin mutlaka ziyaret etmesi gereken bir yerdir. Belen Tepesi, Karadeniz Bölgesi'nin karakteristik iklim koşullarına sahiptir ve bu tepe, yıl boyunca farklı iklim koşullarına sahiptir. Bu tepe, ilkbahar ve yaz aylarında en çok ziyaret edilir ve bu aylarda, bu tepe, en güzel görünümüne sahiptir.
+Belen Tepesi, Kastamonu'nun en yüksek noktası olarak bilinir ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Belen Tepesi, Kastamonu'nun merkezine uzun bir mesafe uzaklıkta bulunur ve kolayca ulaşılabilir. Bu tepe, bölgenin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Belen Tepesi'nin etrafında çeşitli bitki türleri bulunur ve bu tepe, doğa severlerin mutlaka ziyaret etmesi gereken bir yerdir. Belen Tepesi, Karadeniz Bölgesi'nin karakteristik iklim koşullarına sahiptir ve bu tepe, yıl boyunca farklı iklim koşullarına sahiptir. Bu tepe, ilkbahar ve yaz aylarında en çok ziyaret edilir ve bu aylarda, bu tepe, en güzel görünümüne sahiptir.
 
 ## Flora ve Fauna
 

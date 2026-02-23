@@ -51,7 +51,7 @@ Jeolojik açıdan bakıldığında, Kara Dağ'ın oluşumu milyonlarca yıllık 
 
 ## Flora ve Fauna
 
-Kara Dağ, Erzincan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir doğa harikası. 
+Kara Dağ, Erzincan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir doğa harikası.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Sonbaharda, ağaçların sararması ve yapraklarının dökülmesiyle birlikte dağ manzarası değişiyor. Alpin flora, bu yükseklikte yaşamını sürdürebilen özel bitkilerle dolu.
 

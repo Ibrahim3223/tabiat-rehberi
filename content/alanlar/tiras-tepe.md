@@ -50,11 +50,11 @@ Tıraş Tepe, çevresindeki diğer doğal alanlarla bağlantılı bir ekosistem 
 
 ## Flora ve Fauna
 
-Tıraş Tepe, Hatay'ın dağlık bölgesinde yer alan bir ekosistemdir. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapan kuraklığa dayanıklı türlerin yaşadığı bir alandır. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. 
+Tıraş Tepe, Hatay'ın dağlık bölgesinde yer alan bir ekosistemdir. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapan kuraklığa dayanıklı türlerin yaşadığı bir alandır. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır.
 
-Bitki örtüsünün hakim türleri arasında maki ve kuraklığa dayanıklı türler bulunur. Mevsimsel değişimlere bağlı olarak, sonbaharda göç eden kuşlar bu bölgeyi ziyaret eder. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarının yaşam alanlarını oluşturur. 
+Bitki örtüsünün hakim türleri arasında maki ve kuraklığa dayanıklı türler bulunur. Mevsimsel değişimlere bağlı olarak, sonbaharda göç eden kuşlar bu bölgeyi ziyaret eder. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarının yaşam alanlarını oluşturur.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitlilik gösterir. Bu bölgede yaşayan canlılar, yaşam alanlarıyla birlikte ekolojik ilişkiler içinde yer alır. Örneğin, bazı memeliler, sürüngenleri avlayarak beslenirken, kuşlar da bu bölgedeki bitkilerle beslenir. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitlilik gösterir. Bu bölgede yaşayan canlılar, yaşam alanlarıyla birlikte ekolojik ilişkiler içinde yer alır. Örneğin, bazı memeliler, sürüngenleri avlayarak beslenirken, kuşlar da bu bölgedeki bitkilerle beslenir.
 
 Tıraş Tepe'nin ekolojik değeri, bu bölgenin doğal dengesini koruması ve biyolojik çeşitliliğini desteklemesinde yatmaktadır. Bu nedenle, koruma durumu büyük önem taşımaktadır.
 

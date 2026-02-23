@@ -28,7 +28,7 @@ wikidata_id: "Q49742035"
 
 # İnsuyu Kaplıcası
 
-İnsuyu Kaplıcası, Burdur'un güzelliklerinin arasında yer alan bir termal kaynaktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzakta, doğayla iç içe bir ortam sunar. Bu kaplıca, sağlık turizminin önemli merkezlerinden biri olup, ziyaretçilerini şifalı sularıyla ve huzurlu atmosferiyle karşılar. İnsuyu Kaplıcası, yüzyıllar boyunca çeşitli medeniyetlerin uğrak yeri olmuş ve her biri bu bölgeye ayrı bir güzellik katmıştır.
+İnsuyu Kaplıcası, Burdur'un güzelliklerinin arasında yer alan bir termal kaynaktır. Bu kaplıca, sağlık turizminin önemli merkezlerinden biri olup, ziyaretçilerini şifalı sularıyla ve huzurlu atmosferiyle karşılar. İnsuyu Kaplıcası, yüzyıllar boyunca çeşitli medeniyetlerin uğrak yeri olmuş ve her biri bu bölgeye ayrı bir güzellik katmıştır.
 
 ## Tarihçe
 

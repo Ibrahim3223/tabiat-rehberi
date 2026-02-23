@@ -28,7 +28,7 @@ wikidata_id: "Q31390555"
 
 # Tapır Tepesi
 
-Tapır Tepesi, Niğde ilinin içerisinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal güzelliklerinden biri. İç Anadolu Bölgesi'nin coğrafi yapısı ve iklimi, bu bölgede çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Tapır Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Bu tepe, bölgede yaşayan halkın önemli bir gezi ve yürüyüş noktası.
+Tapır Tepesi, Niğde ilinin içerisinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. İç Anadolu Bölgesi'nin coğrafi yapısı ve iklimi, bu bölgede çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Tapır Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Bu tepe, bölgede yaşayan halkın önemli bir gezi ve yürüyüş noktası.
 
 ## Tarihçe
 

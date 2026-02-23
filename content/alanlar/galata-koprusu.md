@@ -1,7 +1,7 @@
 ---
 title: "Galata Köprüsü"
 date: "2026-01-09T22:05:43.736Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Beyoğlu"
@@ -30,7 +30,7 @@ wikidata_id: "Q81523"
 
 # Galata Köprüsü
 
-Galata Köprüsü, Karaköy ve Beyoğlu ilçelerini Haliç'in üzerinde birbirine bağlayan tarihi bir köprüdür. 140 hektarlık bir alana yayılan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Galata Köprüsü, İstanbul'un en önemli tarihi yapılarından biridir ve her yıl milyonlarca insan tarafından ziyaret edilir. Köprü, Haliç'in güzelliğini ve İstanbul'un tarihi dokusunu keşfetmek için ideal bir noktadır. Galata Köprüsü'nü ziyaret edenler, köprünün altında bulunan restoran ve kafelerde yemek yeme keyfini çıkarabilirler.
+Galata Köprüsü, Karaköy ve Beyoğlu ilçelerini Haliç'in üzerinde birbirine bağlayan tarihi bir köprüdür. Galata Köprüsü, İstanbul'un en önemli tarihi yapılarından biridir ve her yıl milyonlarca insan tarafından ziyaret edilir. Köprü, Haliç'in güzelliğini ve İstanbul'un tarihi dokusunu keşfetmek için ideal bir noktadır. Galata Köprüsü'nü ziyaret edenler, köprünün altında bulunan restoran ve kafelerde yemek yeme keyfini çıkarabilirler.
 
 ## Tarihçe
 

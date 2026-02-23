@@ -34,7 +34,7 @@ Eskişehir'in kalbinde, doğanın güzelliğini ve sakinliğini sunan Kent Park,
 
 ## Tarihçe
 
-Eskişehir, tarihin sâu izlerini taşıyan bir bölge. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların yaşadığı bu topraklar, doğal güzellikleriyle de dikkat çekiyor. Kent Park, bu zengin tarihsel mirasın bir parçasını oluşturan botanik bahçesi, Eskişehir'in yeşilinle buluştuğu bir nokta.
+Eskişehir, tarihin derin izlerini taşıyan bir bölge. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların yaşadığı bu topraklar, doğal güzellikleriyle de dikkat çekiyor. Kent Park, bu zengin tarihsel mirasın bir parçasını oluşturan botanik bahçesi, Eskişehir'in yeşilinle buluştuğu bir nokta.
 
 Türkiye'de doğal alanların tarihi önemi büyük. İnsanlar, yüzyıllardır bu bölgelerde yaylacılık, hayvancılık ve ticaret yolları üzerinden yaşamını sürdürmüş. Eskişehir de bu_trade yollarının kesiştiği bir noktada yer alıyor. Kent Park gibi botanik bahçeleri, sadece doğal güzelliği ile değil, aynı zamanda bölgenin ekolojik dengesini koruma altına almasıyla da önemli.
 

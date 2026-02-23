@@ -53,9 +53,9 @@ Mevsimsel değişimler açısından, Ahlat Dağı'nın iklimi, Doğu Anadolu Bö
 
 Ahlat Dağı, Bitlis'in yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçları renkli çiçeklerle donanırken, sonbaharda göç eden kuşlar buraya uğrak noktaları olarak geliyor.
 
-Bitki örtüsünü oluşturan alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliğine sahip. Dağın yüksek kesimlerinde, dayanıklı ve adaptif bitkiler hüküm sürerken, daha alçak kesimlerde çeşitli otsu bitkiler ve çalılar encontrado. 
+Bitki örtüsünü oluşturan alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliğine sahip. Dağın yüksek kesimlerinde, dayanıklı ve adaptif bitkiler hüküm sürerken, daha alçak kesimlerde çeşitli otsu bitkiler ve çalılar encontrado.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, tavşanların yaşadığı bu bölge, aynı zamanda çeşitli kuş türlerinin de yuvalanma alanı. Sürüngenler de bu dağların bir parçası, özellikle yılan ve kertenkele gibi türler. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, tavşanların yaşadığı bu bölge, aynı zamanda çeşitli kuş türlerinin de yuvalanma alanı. Sürüngenler de bu dağların bir parçası, özellikle yılan ve kertenkele gibi türler.
 
 Ahlat Dağı, yüksek dağ ekolojisinin korunması açısından büyük önem taşıyor. Bu alan, endemik türlerin yaşaması için elverişli bir ortam sunuyor ve bölgenin ekolojik dengesini koruyor.
 

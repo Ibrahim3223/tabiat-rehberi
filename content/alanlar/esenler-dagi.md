@@ -51,7 +51,7 @@ Mevsimsel değişikliklere baktığımızda, Esenler Dağı'nın iklim karakteri
 
 ## Flora ve Fauna
 
-Esenler Dağı, Hakkari'nin yüksek dağ ekolojisinin bir parçası olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Esenler Dağı, Hakkari'nin yüksek dağ ekolojisinin bir parçası olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbahar döneminde dağ yamaçları renkli çiçeklerle donanır. Alpin çayırların hakim olduğu bu bölgede, endemik türler de bulunur. Yaz aylarında, yükseklik zonlarına bağlı olarak farklı bitki türleri görülür.
 
@@ -61,7 +61,7 @@ Ekolojik Değer olarak, Esenler Dağı yüksek dağ ekolojisinin korunması aç�
 
 ## Ziyaret Bilgileri
 
-Esenler Dağı, Hakkari'nin doğal güzelliklerinin odak noktasında yer alıyor. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu bu muhteşem manzarayla karşılayabilirsiniz. İl merkezinden yaklaşık 30 kilometre uzaklıkta bulunan dağa, özel araçla veya toplu taşıma araçlarıyla ulaşabilirsiniz. En güzel manzara noktası, zirvede bulunan doğal oluşumları ve çevreyi panoramik olarak izleyebileceğiniz noktadır. Yanınıza mutlaka su, atıştırmalık ve uygun kıyafetler alın çünkü dağcılık ve trekking activitiesi için uygun şartlar sunuyor. Fotoğrafçılık ve kuş gözlemi için de ideal bir destinasyon olan Esenler Dağı, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Esenler Dağı, Hakkari'nin doğal güzelliklerinin odak noktasında yer alıyor. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu bu muhteşem manzarayla karşılayabilirsiniz. İl merkezinden yaklaşık 30 kilometre uzaklıkta bulunan dağa, özel araçla veya toplu taşıma araçlarıyla ulaşabilirsiniz. En güzel manzara noktası, zirvede bulunan doğal oluşumları ve çevreyi panoramik olarak izleyebileceğiniz noktadır. Yanınıza mutlaka su, atıştırmalık ve uygun kıyafetler alın çünkü dağcılık ve trekking activitiesi için uygun şartlar sunuyor.
 
 ## İlginç Bilgiler
 

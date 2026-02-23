@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Baba Türbesi"
 date: "2026-01-10T04:59:48.323Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391483"
 
 # Ahmet Baba Türbesi
 
-Ahmet Baba Türbesi, İstanbul'un Maltepe ilçesinde yer alan ve tarihi önemiyle dikkat çeken bir destinasyon. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ahmet Baba Türbesi, hem doğal güzelliği hem de tarihsel önemiyle ziyaretçilerini bekliyor. Burada, tarihi yapıları, yeşilin farklı tonlarını ve Marmara Denizi'nin güzelliğini bir arada görebilirsiniz. Bu bölge, hem İstanbullular hem de şehre gelenler için keyifli bir gezi noktası.
+Ahmet Baba Türbesi, İstanbul'un Maltepe ilçesinde yer alan ve tarihi önemiyle dikkat çeken bir destinasyon. Ahmet Baba Türbesi, hem doğal güzelliği hem de tarihsel önemiyle ziyaretçilerini bekliyor. Burada, tarihi yapıları, yeşilin farklı tonlarını ve Marmara Denizi'nin güzelliğini bir arada görebilirsiniz. Bu bölge, hem İstanbullular hem de şehre gelenler için keyifli bir gezi noktası.
 
 ## Tarihçe
 

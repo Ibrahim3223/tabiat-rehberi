@@ -28,7 +28,7 @@ wikidata_id: "Q34810513"
 
 # İncirliören Tepe
 
-İncirliören Tepe, Adana'nın tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve büyüklüğü yaklaşık 200 futbol sahası büyüklüğündedir. İncirliören Tepe'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bölgede yaban hayatı oldukça zengin bir yapıya sahiptir. Ayrıca, tepeye tırmanırken, Akdeniz Bölgesi'nin güzel manzaralarını görme mümkündür. İncirliören Tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
+İncirliören Tepe, Adana'nın tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. İncirliören Tepe'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bölgede yaban hayatı oldukça zengin bir yapıya sahiptir. Ayrıca, tepeye tırmanırken, Akdeniz Bölgesi'nin güzel manzaralarını görme mümkündür. İncirliören Tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ wikidata_id: "Q34810513"
 
 ## Flora ve Fauna
 
-İncirliören Tepe, flora ve fauna açısından oldukça zengin bir yapıya sahiptir. Bu bölgede, çeşitli bitki türleri yetişir ve yaban hayatı oldukça önemlidir. Tepe, deniz seviyesinden yüksek bir konumda yer alır ve bu nedenle, Akdeniz Bölgesi'nin karakteristik bitki türlerini barındırır. İncirliören Tepe'nin etrafı, ormanlık alanlarla çevrilidir ve bu bölgede, birçok hayvan türü yaşar. Tepe, ayrıca, birçok kuş türünün yaşam alanı olarak da bilinir. İncirliören Tepe'nin flora ve faunası, mevsimsel değişimlere göre farklılık gösterir ve bu nedenle, tepeyi ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır.
+ Bu bölgede, çeşitli bitki türleri yetişir ve yaban hayatı oldukça önemlidir. Tepe, deniz seviyesinden yüksek bir konumda yer alır ve bu nedenle, Akdeniz Bölgesi'nin karakteristik bitki türlerini barındırır. İncirliören Tepe'nin etrafı, ormanlık alanlarla çevrilidir ve bu bölgede, birçok hayvan türü yaşar. Tepe, ayrıca, birçok kuş türünün yaşam alanı olarak da bilinir. İncirliören Tepe'nin flora ve faunası, mevsimsel değişimlere göre farklılık gösterir ve bu nedenle, tepeyi ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır.
 
 ## Ziyaret Bilgileri
 

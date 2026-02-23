@@ -48,11 +48,11 @@ Mevsimsel değişimler, Huruz Tepe'nin iklim karakterini şekillendiriyor. Bölg
 
 ## Flora ve Fauna
 
-Huruz Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
+Huruz Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelişiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına göre değişen alpin flora, ziyaretçilere eşsiz bir manzara sunuyor.
 
-Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşamını sürdürüyor. Sonbaharın gelmesiyle birlikte, gökyüzü göçmen kuşlarla doluyor. 
+Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşamını sürdürüyor. Sonbaharın gelmesiyle birlikte, gökyüzü göçmen kuşlarla doluyor.
 
 Ekolojik Değer olarak, Huruz Tepe'nin bu dağ ekosistemi, bölgenin ekolojik dengesini koruma açısından büyük önem taşıyor. Bu alanın korunması, yerli türlerin ve ekosistemin sürekliliğiçin elzem.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228445"
 
 # Antalya-Antalya-Antalya-Kızılçam 2
 
-Antalya-Antalya-Antalya-Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin güzide illerinden Antalya'da yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Milli parkın konumu, ziyaretçilere hem şehrin kalabalığından uzaklaşmak hem de doğanın güzelliğini keşfetmek için ideal bir ortam sunar. Burada, yaban hayatı ve flora ile ilgili çeşitli zenginlikler bulunur.
+Antalya-Antalya-Antalya-Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin güzide illerinden Antalya'da yer alır. Milli parkın konumu, ziyaretçilere hem şehrin kalabalığından uzaklaşmak hem de doğanın güzelliğini keşfetmek için ideal bir ortam sunar. Burada, yaban hayatı ve flora ile ilgili çeşitli zenginlikler bulunur.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Antalya-Antalya-Antalya-Kızılçam 2 milli parkı, coğrafi olarak oldukça zen
 
 ## Flora ve Fauna
 
-Milli park, flora ve fauna açısından oldukça zengindir. Çeşitli bitki türleri, ağaçlar ve çalılar, buranın doğal güzelliğini oluşturur. Yaban hayatı da oldukça çeşitlidir; birçok kuş türü, memeli ve sürüngenler bu ekosistemin bir parçasıdır. Ziyaretçiler, doğa yürüyüşleri sırasında bu canlıları gözlemleme fırsatı bulabilirler. Mevsimsel değişimler, parkın biyolojik çeşitliliğini daha da zenginleştirir. İlkbahar ve yaz aylarında flora en aktif haldedir, sonbahar ve kış aylarında ise bazı bitki türleri dinlenmeye geçer.
+ Çeşitli bitki türleri, ağaçlar ve çalılar, buranın doğal güzelliğini oluşturur. Yaban hayatı da oldukça çeşitlidir; birçok kuş türü, memeli ve sürüngenler bu ekosistemin bir parçasıdır. Ziyaretçiler, doğa yürüyüşleri sırasında bu canlıları gözlemleme fırsatı bulabilirler. Mevsimsel değişimler, parkın biyolojik çeşitliliğini daha da zenginleştirir. İlkbahar ve yaz aylarında flora en aktif haldedir, sonbahar ve kış aylarında ise bazı bitki türleri dinlenmeye geçer.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q49741943"
 
 # Kayacık Ilıcası
 
-Kayacık Ilıcası, Burdur'un doğal güzellikleri arasında önemli bir yer tutuyor. Bu termal kaynak, zengin flora ve fauna ile birlikte, ziyaretçilerini doğanın güzelliğine davet ediyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzelliği ile dikkat çekiyor. İl merkezine yakın konumu ile ulaşımı kolay olan bu mekan, hem yerel halk hem de turistler tarafından tercih ediliyor. Kayacık Ilıcası, doğa severler ve sağlık turizmi kapsamında ziyaret edilebilecek bir destinasyon olarak öne çıkıyor.
+Kayacık Ilıcası, Burdur'un doğal güzellikleri arasında önemli bir yer tutuyor. Bu termal kaynak, zengin flora ve fauna ile birlikte, ziyaretçilerini doğanın güzelliğine davet ediyor. İl merkezine yakın konumu ile ulaşımı kolay olan bu mekan, hem yerel halk hem de turistler tarafından tercih ediliyor. Kayacık Ilıcası, doğa severler ve sağlık turizmi kapsamında ziyaret edilebilecek bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Kayacık Ilıcası'nın tarihi geçmişi, yüzyıllar boyunca insanların bu do�
 
 ## Coğrafya
 
-Kayacık Ilıcası, Burdur'un doğal güzellikleri arasında yer alıyor. Bu termal kaynak, Akdeniz Bölgesi'nde yer alan Burdur ilinin merkezine yakın bir konumda bulunuyor. Bölgenin coğrafi yapısı, dağlar ve ovaların bir arada olduğu bir yapıya sahip. Kayacık Ilıcası, 140 hektarlık bir yeşil alan üzerinde yer alıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılıman geçiyor. Kayacık Ilıcası, zengin flora ve fauna ile birlikte, ziyaretçilerine doğanın güzelliğini sunuyor. Bu bölge, aynı zamanda çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahip.
+Kayacık Ilıcası, Burdur'un doğal güzellikleri arasında yer alıyor. Bu termal kaynak, Akdeniz Bölgesi'nde yer alan Burdur ilinin merkezine yakın bir konumda bulunuyor. Bölgenin coğrafi yapısı, dağlar ve ovaların bir arada olduğu bir yapıya sahip. Bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılıman geçiyor. Kayacık Ilıcası, zengin flora ve fauna ile birlikte, ziyaretçilerine doğanın güzelliğini sunuyor. Bu bölge, aynı zamanda çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahip.
 
 ## Flora ve Fauna
 
-Kayacık Ilıcası, zengin flora ve fauna ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunuyor. Mevsimsel değişimler, bu régionun güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında, yeşil alanlar ve çiçekler, ziyaretçileri doğanın güzelliğine davet ediyor. Kış aylarında ise, bölgenin doğal güzelliği, farklı bir boyuta ulaşıyor. Kayacık Ilıcası, aynı zamanda çeşitli hayvan türleri ile dolu zengin bir fauna sunuyor. Bu bölge, doğa severler ve hayvanseverler için önemli bir destinasyon olarak kabul ediliyor.
+Kayacık Ilıcası, zengin flora ve fauna ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunuyor. Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında, yeşil alanlar ve çiçekler, ziyaretçileri doğanın güzelliğine davet ediyor. Kış aylarında ise, bölgenin doğal güzelliği, farklı bir boyuta ulaşıyor. Kayacık Ilıcası, aynı zamanda çeşitli hayvan türleri ile dolu zengin bir fauna sunuyor. Bu bölge, doğa severler ve hayvanseverler için önemli bir destinasyon olarak kabul ediliyor.
 
 ## Ziyaret Bilgileri
 

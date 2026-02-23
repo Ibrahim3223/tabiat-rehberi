@@ -22,7 +22,7 @@ wikidata_id: "Q108227688"
 
 # Adana-Kayseri-Pinarbasi Saricam
 
-Pınarbaşı Sarıçam, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu milli park, Adana ve Kayseri illerinin sınırında yer alıyor ve doğal güzelliği ile dikkat çekiyor. Pınarbaşı Sarıçam, ziyaretçilerine doğanın içinde huzur bulma fırsatı sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın etrafında, çeşitli yürüyüş yolları ve piknik alanları bulunuyor.
+ Bu milli park, Adana ve Kayseri illerinin sınırında yer alıyor ve doğal güzelliği ile dikkat çekiyor. Pınarbaşı Sarıçam, ziyaretçilerine doğanın içinde huzur bulma fırsatı sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın etrafında, çeşitli yürüyüş yolları ve piknik alanları bulunuyor.
 
 ## Tarihçe
 

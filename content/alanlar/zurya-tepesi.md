@@ -28,7 +28,7 @@ wikidata_id: "Q34822883"
 
 # Zürya Tepesi
 
-Zürya Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinir. Batman ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir yeşil alanı kapsar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu tepe, bölgenin en yüksek noktalarından biri olarak dikkat çeker ve çevresi, çeşitli bitki türleri ile kaplıdır. Zürya Tepesi, aynı zamanda bölgenin tarihi geçmişine de ışık tutar. Bu tepe, yüzyıllar boyunca insanların yerleşim yeri olarak kullanılmıştır ve bu nedenle, tepe çevresinde çeşitli tarihi kalıntılar bulunabilir. Zürya Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekici bir destinasyon olarak karşımıza çıkar.
+Zürya Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinir. Bu tepe, bölgenin en yüksek noktalarından biri olarak dikkat çeker ve çevresi, çeşitli bitki türleri ile kaplıdır. Zürya Tepesi, aynı zamanda bölgenin tarihi geçmişine de ışık tutar. Bu tepe, yüzyıllar boyunca insanların yerleşim yeri olarak kullanılmıştır ve bu nedenle, tepe çevresinde çeşitli tarihi kalıntılar bulunabilir. Zürya Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekici bir destinasyon olarak karşımıza çıkar.
 
 ## Tarihçe
 

@@ -48,11 +48,11 @@ Jeolojik açıdan incelendiğinde, Şifa Dağı'nın fiziksel yapısı hakkında
 
 ## Flora ve Fauna
 
-Şifa Dağı, Manisa'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 
+Şifa Dağı, Manisa'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar.
 
-Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Çam ağaçları ve zeytinliklerin arasında, çeşitli otsu bitkiler ve yerli çiçekler yetişir. 
+Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Çam ağaçları ve zeytinliklerin arasında, çeşitli otsu bitkiler ve yerli çiçekler yetişir.
 
-Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban domuzları, bölgenin yüksek kesimlerinde yaşarken, göç mevsiminde çeşitli kuş türleri dağları geçiş noktası olarak kullanır. 
+Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban domuzları, bölgenin yüksek kesimlerinde yaşarken, göç mevsiminde çeşitli kuş türleri dağları geçiş noktası olarak kullanır.
 
 Bu dağ ekosisteminin ekolojik değeri, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliğinden kaynaklanır. Bu çeşitlilik, bölgenin biyolojik zenginliğini korur ve ekosistemin dengesini sağlar.
 

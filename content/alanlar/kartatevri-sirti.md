@@ -32,7 +32,7 @@ Siirt'in dağlık arazisinde, doğa tutkunlarını kendine çeken Kartatevrı S�
 
 ## Tarihçe
 
-Kartatevrı Sırtı, tarihin sâu izlerini taşıyan Siirt bölgesinin kalbinde yer alıyor. Bu bölge, binlerce yıl önce, Medler, Persler ve Romalıların hükümranlık sürdüğü bir coğrafya olarak, zengin bir tarihsel mirasa sahip. Siirt'in tarihi, farklı uygarlıkların izlerini taşıyan bir mozaik gibi, çeşitli kültürlerin bir araya gelip şekillendirdiği bir geçmişe işaret ediyor.
+Kartatevrı Sırtı, tarihin derin izlerini taşıyan Siirt bölgesinin kalbinde yer alıyor. Bu bölge, binlerce yıl önce, Medler, Persler ve Romalıların hükümranlık sürdüğü bir coğrafya olarak, zengin bir tarihsel mirasa sahip. Siirt'in tarihi, farklı uygarlıkların izlerini taşıyan bir mozaik gibi, çeşitli kültürlerin bir araya gelip şekillendirdiği bir geçmişe işaret ediyor.
 
 Doğal güzellikleri ve stratejik konumuyla, Kartatevrı Sırtı gibi alanlar, insanlık tarihi boyunca önemli birer durak noktası olmuşlardır. Türkiye'de, bu tür doğal alanlar, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerin merkezi olarak görev görmüşlerdir. İnsanların bu alanlarla kurdukları ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşıyor. Bu bölgeler, çeşitli toplumların bir araya geldiği, etkileşimde bulunduğu ve birbirinden öğrendiği önemli merkezler olarak, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyorlar.
 

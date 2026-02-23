@@ -28,7 +28,7 @@ wikidata_id: "Q31543896"
 
 # Kerıger Tepesi
 
-Kerıger Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Diyarbakır'da yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Kerıger Tepesi, ziyaretçilerini kendisine çekiyor. Tepenin eteklerinde yer alan yerleşim yerleri, tarihi geçmişi ve kültürel zenginliği hakkında bilgi veriyor. Kerıger Tepesi, doğa severler ve tarih meraklıları için önemli bir destinasyon olarak karşımıza çıkıyor.
+Kerıger Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Diyarbakır'da yer alıyor. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Kerıger Tepesi, ziyaretçilerini kendisine çekiyor. Tepenin eteklerinde yer alan yerleşim yerleri, tarihi geçmişi ve kültürel zenginliği hakkında bilgi veriyor. Kerıger Tepesi, doğa severler ve tarih meraklıları için önemli bir destinasyon olarak karşımıza çıkıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kerıger Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçiy
 
 ## Coğrafya
 
-Kerıger Tepesi, Diyarbakır'ın coğrafi yapısını yansıtan önemli bir nokta. Tepenin yüksekliği ve çevresindeki doğal güzellikler, ziyaretçilere geniş bir manzara sunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, 200 futbol sahası büyüklüğünde bir yeşil alanı temsil ediyor. Tepenin etrafında yer alan dağlar ve vadiler, coğrafi çeşitliliği ile dikkat çekiyor. Kerıger Tepesi, coğrafi konumu itibariyle, ziyaretçilerine geniş bir panorama sunuyor ve bu panoramayı görmek için ziyaret edilmeye değer. Tepenin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak, yazları sıcak ve kışları soğuk passing.
+Kerıger Tepesi, Diyarbakır'ın coğrafi yapısını yansıtan önemli bir nokta. Tepenin yüksekliği ve çevresindeki doğal güzellikler, ziyaretçilere geniş bir manzara sunuyor. Tepenin etrafında yer alan dağlar ve vadiler, coğrafi çeşitliliği ile dikkat çekiyor. Kerıger Tepesi, coğrafi konumu itibariyle, ziyaretçilerine geniş bir panorama sunuyor ve bu panoramayı görmek için ziyaret edilmeye değer. Tepenin iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak, yazları sıcak ve kışları soğuk passing.
 
 ## Flora ve Fauna
 

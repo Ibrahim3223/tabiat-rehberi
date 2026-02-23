@@ -28,7 +28,7 @@ wikidata_id: "Q34816169"
 
 # Tülüce Tepesi
 
-Tülüce Tepesi, Karaman'ın doğal güzelliklerini keşfetmek isteyenler için bir hazine. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Karaman'ın merkezine yakın bir konumda bulunan Tülüce Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Doğa severlerin ziyaret ettiği bu tepe, aynı zamanda fotoğrafçılar için de bir cennet. Güneşin batışını izlemek, manzarayı seyretme ve doğanın seslerini dinlemek için Tülüce Tepesi doğru adres.
+Tülüce Tepesi, Karaman'ın doğal güzelliklerini keşfetmek isteyenler için bir hazine. Karaman'ın merkezine yakın bir konumda bulunan Tülüce Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Doğa severlerin ziyaret ettiği bu tepe, aynı zamanda fotoğrafçılar için de bir cennet. Güneşin batışını izlemek, manzarayı seyretme ve doğanın seslerini dinlemek için Tülüce Tepesi doğru adres.
 
 ## Tarihçe
 

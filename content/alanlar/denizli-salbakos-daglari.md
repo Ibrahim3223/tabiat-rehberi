@@ -23,7 +23,7 @@ wikidata_id: "Q108228891"
 
 # DENİZLİ SALBAKOS DAĞLARI
 
-Denizli Salbakos Dağları, İç Anadolu Bölgesi'nin gizli cenneti olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafyası ile ziyaretçilerini kendine çekiyor. Bu muhteşem doğal alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Denizli Salbakos Dağları, aynı zamanda trekking ve kampçılık için ideal bir yer olarak biliniyor. Ziyaretçiler, bu dağlarda çeşitli bitki türleri ve zengin fauna ile karşılaşabiliyorlar.
+Denizli Salbakos Dağları, İç Anadolu Bölgesi'nin gizli cenneti olarak bilinir. Bu muhteşem doğal alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Denizli Salbakos Dağları, aynı zamanda trekking ve kampçılık için ideal bir yer olarak biliniyor. Ziyaretçiler, bu dağlarda çeşitli bitki türleri ve zengin fauna ile karşılaşabiliyorlar.
 
 ## Tarihçe
 

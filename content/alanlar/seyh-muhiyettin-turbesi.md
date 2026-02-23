@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Muhiyettin Türbesi"
 date: "2026-01-10T05:35:32.267Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Batman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391353"
 
 # Şeyh Muhiyettin Türbesi
 
-Şeyh Muhiyettin Türbesi, Güneydoğu Anadolu Bölgesi'nin Batman iline bağlı Hasankeyf ilçesinde yer alan bir tarihi ve kültürel mekân olarak dikkat çekiyor. Bu bölgenin coğrafi konumu, tarihi geçmişi ve kültürel zenginliği bir araya getirdiğinde, ziyaretçileri için unutulmaz bir deneyim sunuyor. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir hareket alanı sunuyor. Şeyh Muhiyettin Türbesi, hem tarihi hem de kültürel açıdan önemli bir destinasyon olarak karşımıza çıkıyor.
+Şeyh Muhiyettin Türbesi, Güneydoğu Anadolu Bölgesi'nin Batman iline bağlı Hasankeyf ilçesinde yer alan bir tarihi ve kültürel mekân olarak dikkat çekiyor. Bu bölgenin coğrafi konumu, tarihi geçmişi ve kültürel zenginliği bir araya getirdiğinde, ziyaretçileri için unutulmaz bir deneyim sunuyor. Şeyh Muhiyettin Türbesi, hem tarihi hem de kültürel açıdan önemli bir destinasyon olarak karşımıza çıkıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391353"
 
 ## Coğrafya
 
-Şeyh Muhiyettin Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en ilginç bölgelerinden biri olan Hasankeyf'te yer alıyor. Bu bölge, Dicle Nehri'nin kıyısında kurulmuş ve doğal güzellikleri ile dikkat çekiyor. Şeyh Muhiyettin Türbesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve bölgenin coğrafi özellikleri, bir doğa harikası olarak karşımıza çıkıyor. 180 hektarlık bir alanı kapsayan bu bölge, yaklaşık 300 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir hareket alanı sunuyor. Şeyh Muhiyettin Türbesi'nin coğrafi özellikleri, bölgenin iklimi, flora ve fauna gibi özelliklerini de içeriyor. Bu bölgenin coğrafi zenginliği, ziyaretçileri için unutulmaz bir deneyim sunuyor.
+Şeyh Muhiyettin Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en ilginç bölgelerinden biri olan Hasankeyf'te yer alıyor. Bu bölge, Dicle Nehri'nin kıyısında kurulmuş ve doğal güzellikleri ile dikkat çekiyor. Şeyh Muhiyettin Türbesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor ve bölgenin coğrafi özellikleri, bir doğa harikası olarak karşımıza çıkıyor. Şeyh Muhiyettin Türbesi'nin coğrafi özellikleri, bölgenin iklimi, flora ve fauna gibi özelliklerini de içeriyor. Bu bölgenin coğrafi zenginliği, ziyaretçileri için unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ wikidata_id: "Q131391353"
 
 ## Ziyaret Bilgileri
 
-Şeyh Muhiyettin Türbesi'ni ziyaret etmek, ziyaretçiler için unutulmaz bir deneyim sunuyor. Bu bölgeye ulaşmak için, Hasankeyf'e gelmek necessário. Hasankeyf'e gelindiğinde, Şeyh Muhiyettin Türbesi'ne ulaşmak oldukça kolay. Bu bölgede, ziyaretçilere rehberlik hizmeti sunuluyor ve ziyaretçilerin, bu bölgeyi kolayca keşfetmeleri sağlanıyor. Şeyh Muhiyettin Türbesi'ni ziyaret etmek için, en iyi mevsim ilkbahar ve yaz ayları olarak belirleniyor. Bu mevsimlerde, bu bölgenin flora ve fauna türleri, ziyaretçilere renkli bir manzara sunuyor.
+Şeyh Muhiyettin Türbesi'ni ziyaret etmek, ziyaretçiler için unutulmaz bir deneyim sunuyor. Bu bölgeye ulaşmak için, Hasankeyf'e gelmek gerekli. Hasankeyf'e gelindiğinde, Şeyh Muhiyettin Türbesi'ne ulaşmak oldukça kolay. Bu bölgede, ziyaretçilere rehberlik hizmeti sunuluyor ve ziyaretçilerin, bu bölgeyi kolayca keşfetmeleri sağlanıyor. Şeyh Muhiyettin Türbesi'ni ziyaret etmek için, en iyi mevsim ilkbahar ve yaz ayları olarak belirleniyor. Bu mevsimlerde, bu bölgenin flora ve fauna türleri, ziyaretçilere renkli bir manzara sunuyor.
 
 ## İlginç Bilgiler
 

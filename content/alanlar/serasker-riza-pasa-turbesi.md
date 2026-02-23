@@ -1,7 +1,7 @@
 ---
 title: "Serasker Rıza Paşa Türbesi"
 date: "2026-01-10T07:46:53.692Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391153"
 
 # Serasker Rıza Paşa Türbesi
 
-Serasker Rıza Paşa Türbesi, İstanbul'un Fatih ilçesinde bulunan bir tarihi türbedir. Bu önemli tarihi yapı, İstanbul'un zengin tarihsel mirasının bir parçasını oluşturur. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsar. Tarihi ve kültürel açıdan önemli bir yer olan Serasker Rıza Paşa Türbesi, ziyaretçilerini İstanbul'un geçmişine götürmeye hazır. Türbe, şehrin kalabalık sokaklarından uzaklaşmak isteyenler için bir kaçış noktası sunar.
+Serasker Rıza Paşa Türbesi, İstanbul'un Fatih ilçesinde bulunan bir tarihi türbedir. Bu önemli tarihi yapı, İstanbul'un zengin tarihsel mirasının bir parçasını oluşturur. Tarihi ve kültürel açıdan önemli bir yer olan Serasker Rıza Paşa Türbesi, ziyaretçilerini İstanbul'un geçmişine götürmeye hazır. Türbe, şehrin kalabalık sokaklarından uzaklaşmak isteyenler için bir kaçış noktası sunar.
 
 ## Tarihçe
 

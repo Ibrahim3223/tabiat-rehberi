@@ -28,7 +28,7 @@ wikidata_id: "Q31574176"
 
 # Yediler Tepesi (Ankara)
 
-Yediler Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepenin etrafında bulunan köyler ve tarihi alanlar, burayı ziyaret edenlerin ilgisini çekiyor. 140 hektarlık bir alana yayılan Yediler Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin yüksekliği ve genişliği, burayı ziyaret edenlerin Ankara'nın panoramik manzarasını izlemesine olanak tanıyor.
+Yediler Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepenin etrafında bulunan köyler ve tarihi alanlar, burayı ziyaret edenlerin ilgisini çekiyor. Tepenin yüksekliği ve genişliği, burayı ziyaret edenlerin Ankara'nın panoramik manzarasını izlemesine olanak tanıyor.
 
 ## Tarihçe
 

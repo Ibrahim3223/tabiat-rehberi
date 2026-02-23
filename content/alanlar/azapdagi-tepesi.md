@@ -28,7 +28,7 @@ wikidata_id: "Q31387758"
 
 # Azapdağı Tepesi
 
-Azapdağı Tepesi, Erzurum'un kalbinde yer alan ve ziyaretçilerini büyüleyen bir doğal güzellik. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Azapdağı Tepesi, doğa severlerin ve macera arayışında olanların buluşma noktası. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Ziyaretçiler, tepeye tırmanırken, Erzurum'un panoramik manzarasının keyfini çıkarabilirler.
+Azapdağı Tepesi, Erzurum'un kalbinde yer alan ve ziyaretçilerini büyüleyen bir doğal güzellik. Azapdağı Tepesi, doğa severlerin ve macera arayışında olanların buluşma noktası. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Ziyaretçiler, tepeye tırmanırken, Erzurum'un panoramik manzarasının keyfini çıkarabilirler.
 
 ## Tarihçe
 

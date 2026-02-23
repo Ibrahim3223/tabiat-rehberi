@@ -22,7 +22,7 @@ wikidata_id: "Q108228705"
 
 # KIRANARDI
 
-KIRANARDI, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. KIRANARDI'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. KIRANARDI, ziyaretçilerine zengin bir flora ve fauna sunuyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilerin interesseini çekiyor.
+KIRANARDI, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. KIRANARDI'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. KIRANARDI, ziyaretçilerine zengin bir flora ve fauna sunuyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilerin interesseini çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ KIRANARDI'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izl
 
 ## Coğrafya
 
-KIRANARDI, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir milli parktır. Burada, geniş otlaklar ve ormanlık alanlar bulunuyor. KIRANARDI'nin coğrafi konumu, ziyaretçilerine zengin bir flora ve fauna sunuyor. Bu milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. KIRANARDI, ziyaretçilerine farklı coğrafi oluşumlar sunuyor. Burada, yüksek dağlar, vadiler ve ova gibi farklı coğrafi şekiller bulunüyor. KIRANARDI'nin iklimi, İç Anadolu Bölgesi'nin genel iklimi gibi karasal bir yapıya sahip. Bu milli park, ziyaretçilerine dört mevsimin güzelliğini sunuyor.
+KIRANARDI, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir milli parktır. Burada, geniş otlaklar ve ormanlık alanlar bulunuyor. KIRANARDI'nin coğrafi konumu, ziyaretçilerine zengin bir flora ve fauna sunuyor. KIRANARDI, ziyaretçilerine farklı coğrafi oluşumlar sunuyor. Burada, yüksek dağlar, vadiler ve ova gibi farklı coğrafi şekiller bulunüyor. KIRANARDI'nin iklimi, İç Anadolu Bölgesi'nin genel iklimi gibi karasal bir yapıya sahip. Bu milli park, ziyaretçilerine dört mevsimin güzelliğini sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ KIRANARDI, ziyaretçilerine çeşitli etkinlikler sunuyor. Burada, doğa yürüy
 ## İlginç Bilgiler
 
 - KIRANARDI, İç Anadolu Bölgesi'nin en büyük milli parklarından biri.
-- Bu milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
+
 - KIRANARDI, ziyaretçilerine zengin bir flora ve fauna sunuyor.
 - Bu milli park, yılın her dönemi ziyaret edilebilir.
 - KIRANARDI, doğa severlerin ilgi odağı olan bir milli park.

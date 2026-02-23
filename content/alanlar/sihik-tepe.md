@@ -32,7 +32,7 @@ Mardin'in tarihi dokusu içinde yer alan Şıhık Tepe, bölgeye gelen ziyaretç
 
 ## Tarihçe
 
-Mardin bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların hakimiyetini görmüştür. Hititler, Asurlular, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, Mardin'i stratejik konumu nedeniyle önemli bir merkez olarak görmüşlerdir. Şıhık Tepe, bu tarihsel zenginliğin içinde yer alan bir doğal alan olarak, bölgenin kültürel ve coğrafi mirasının önemli bir parçasını oluşturur.
+Mardin bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların hakimiyetini görmüştür. Hititler, Asurlular, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, Mardin'i stratejik konumu nedeniyle önemli bir merkez olarak görmüşlerdir. Şıhık Tepe, bu tarihsel zenginliğin içinde yer alan bir doğal alan olarak, bölgenin kültürel ve coğrafi mirasının önemli bir parçasını oluşturur.
 
 Türkiye'de, özellikle güneydoğu bölgesinde yer alan doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için önemli kaynaklar olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgede insanların doğal alanlarla olan ilişkilerini şekillendirmiştir. Şıhık Tepe gibi dağlar, bölgenin coğrafi yapısını belirlerken, aynı zamanda insan yerleşimlerinin ve ekonomik faaliyetlerin gelişimini de etkilemiştir. Bu doğal alanlar, sadece yerel halk için değil, aynı zamanda tarih boyunca ticaret yolları üzerinde yer alan önemli merkezler için de hayati öneme sahip olmuştur.
 

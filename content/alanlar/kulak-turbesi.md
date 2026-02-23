@@ -1,7 +1,7 @@
 ---
 title: "Kulak Türbesi"
 date: "2026-01-10T05:10:24.490Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391633"
 
 # Kulak Türbesi
 
-Kulak Türbesi, Niksar, Tokat'ta bulunan ve Karadeniz Bölgesi'nin önemli tarihi mekanlarından biri olarak kabul edilen bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir doğal alan sunar. Bu bölge, tarihi geçmişi ve doğal güzelliği ile dikkat çekmektedir. Ziyaretçiler, hem tarihi keşfetmek hem de doğal güzelliği yaşamak için burayı tercih ediyorlar.
+Kulak Türbesi, Niksar, Tokat'ta bulunan ve Karadeniz Bölgesi'nin önemli tarihi mekanlarından biri olarak kabul edilen bir plajdır. Bu bölge, tarihi geçmişi ve doğal güzelliği ile dikkat çekmektedir. Ziyaretçiler, hem tarihi keşfetmek hem de doğal güzelliği yaşamak için burayı tercih ediyorlar.
 
 ## Tarihçe
 

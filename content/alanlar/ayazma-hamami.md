@@ -1,7 +1,7 @@
 ---
 title: "Ayazma Hamamı"
 date: "2026-01-09T22:11:43.892Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q20470940"
 
 # Ayazma Hamamı
 
-Ayazma Hamamı, Üsküdar'da yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir plajdır. Bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Ayazma Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Bu özel yer, İstanbul'un kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası olarak görülüyor.
+Ayazma Hamamı, Üsküdar'da yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir plajdır. Ayazma Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Bu özel yer, İstanbul'un kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası olarak görülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ayazma Hamamı'nın tarihi geçmişi, İstanbul'un tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Ayazma Hamamı, Üsküdar ilçesinde yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu plaj, İstanbul Boğazı'nın kıyısında bulunuyor ve böylece ziyaretçilerine muhteşem bir manzara sunuyor. Ayazma Hamamı'nın coğrafi konumu, ziyaretçilerine çeşitli aktivite seçenekleri sunuyor. Bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor ve genellikle ılıman bir iklim hüküm sürüyor. Ayazma Hamamı'nın coğrafi konumu ve iklimi, ziyaretçilerine çeşitli flora ve fauna türleri ile zengin bir doğal ortam sunuyor.
+Ayazma Hamamı, Üsküdar ilçesinde yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu plaj, İstanbul Boğazı'nın kıyısında bulunuyor ve böylece ziyaretçilerine muhteşem bir manzara sunuyor. Ayazma Hamamı'nın coğrafi konumu, ziyaretçilerine çeşitli aktivite seçenekleri sunuyor. Bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor ve genellikle ılıman bir iklim hüküm sürüyor. Ayazma Hamamı'nın coğrafi konumu ve iklimi, ziyaretçilerine çeşitli flora ve fauna türleri ile zengin bir doğal ortam sunuyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31546399"
 
 # Gırredari Tepesi
 
-Gırredari Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Batman'da yer alır. Bu bölge, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Gırredari Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbeder. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, burayı doğa severler için bir cennet haline getirir. Gırredari Tepesi, aynı zamanda bölge halkının önemli bir kültür mirası olarak kabul edilir ve buradaki tarihi kalıntılar, ziyaretçilere bölgenin geçmişini keşfetme fırsatı sunar.
+Gırredari Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Batman'da yer alır. Gırredari Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbeder. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, burayı doğa severler için bir cennet haline getirir. Gırredari Tepesi, aynı zamanda bölge halkının önemli bir kültür mirası olarak kabul edilir ve buradaki tarihi kalıntılar, ziyaretçilere bölgenin geçmişini keşfetme fırsatı sunar.
 
 ## Tarihçe
 

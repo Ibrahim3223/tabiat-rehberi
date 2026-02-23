@@ -23,7 +23,7 @@ wikidata_id: "Q108228148"
 
 # Bazalt Kayalıkları
 
-Bazalt Kayalıkları, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Kayalıkların benzersiz yapısı, milyonlarca yıl önce oluşan volkanik faaliyetlerin ı. Bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, bu eşsiz doğa harikasını keşfetmek için gelenekselleşmiş bir rota izliyorlar.
+Bazalt Kayalıkları, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Kayalıkların benzersiz yapısı, milyonlarca yıl önce oluşan volkanik faaliyetlerin ı. Bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, bu eşsiz doğa harikasını keşfetmek için gelenekselleşmiş bir rota izliyorlar.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Güneydoğu Anadolu'nun gizli bir hazine olan Batman, doğa severlerin keşfetme
 
 ## Tarihçe
 
-Gora Mevuz Dağı, Batman'ın tarih kokan topraklarında yer alan bir doğal güzellik. Bölge, tarihin sâu sayfalarında önemli bir yer tutmaktadır. Batman, Hitit, Asur, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir coğrafyadır. Bu topraklar, tarih boyunca ticaret yollarının kesişme noktası olarak önemini korumuştur.
+Gora Mevuz Dağı, Batman'ın tarih kokan topraklarında yer alan bir doğal güzellik. Bölge, tarihin derin sayfalarında önemli bir yer tutmaktadır. Batman, Hitit, Asur, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir coğrafyadır. Bu topraklar, tarih boyunca ticaret yollarının kesişme noktası olarak önemini korumuştur.
 
 Doğal güzellikleri ile ünlü olan Türkiye'de, bu tür alanlar tarihsel olarak büyük öneme sahiptir. İnsanlar, bu bölgelerde yaylacılık, hayvancılık ve tarım gibi faaliyetlerle geçimlerini sağlamaya çalışmışlardır. Gora Mevuz Dağı ve çevresinin de bu bağlamda önemli bir rol oynadığı düşünülmektedir. Bölgede yaşayan topluluklar, doğal kaynakları kullanarak hayatlarını sürdürmüş ve bu alanları koruma altına almışlardır.
 

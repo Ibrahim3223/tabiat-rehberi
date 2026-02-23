@@ -1,7 +1,7 @@
 ---
 title: "Hıdır Baba Türbesi"
 date: "2026-01-10T07:03:53.520Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390793"
 
 # Hıdır Baba Türbesi
 
-Hıdır Baba Türbesi, Edirne'nin kalbinde yer alan bir tarihi ve kültürel mekân olarak ziyaretçilerini bekliyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu türbe, tarihin izlerini taşıyan önemli bir kültürel miras olarak Edirne'nin zengin tarihine ışık tutuyor. Hıdır Baba Türbesi'ne geldiğinizde, tarihi atmosferi ve doğal güzelliği bir arada deneyimleyebilirsiniz.
+Hıdır Baba Türbesi, Edirne'nin kalbinde yer alan bir tarihi ve kültürel mekân olarak ziyaretçilerini bekliyor. Bu türbe, tarihin izlerini taşıyan önemli bir kültürel miras olarak Edirne'nin zengin tarihine ışık tutuyor. Hıdır Baba Türbesi'ne geldiğinizde, tarihi atmosferi ve doğal güzelliği bir arada deneyimleyebilirsiniz.
 
 ## Tarihçe
 

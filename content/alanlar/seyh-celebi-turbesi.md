@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Çelebi Türbesi"
 date: "2026-01-10T07:00:58.801Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390785"
 
 # Şeyh Çelebi Türbesi
 
-Şeyh Çelebi Türbesi, Edirne'nin merkezinde yer alan tarihi ve doğal güzelliklerin buluşma noktasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi olup, doğal güzellikleri ve tarihi yapılarıyla dikkat çekmektedir. Şeyh Çelebi Türbesi, Edirne'nin tarihini ve kültürünü yansıtan önemli bir noktadır. Şehir merkezine yakın konumuyla, ziyaretçiler için kolay ulaşılabilir bir yerdir.
+Şeyh Çelebi Türbesi, Edirne'nin merkezinde yer alan tarihi ve doğal güzelliklerin buluşma noktasıdır. Bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi olup, doğal güzellikleri ve tarihi yapılarıyla dikkat çekmektedir. Şeyh Çelebi Türbesi, Edirne'nin tarihini ve kültürünü yansıtan önemli bir noktadır. Şehir merkezine yakın konumuyla, ziyaretçiler için kolay ulaşılabilir bir yerdir.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ wikidata_id: "Q131390785"
 
 ## Coğrafya
 
-Şeyh Çelebi Türbesi, coğrafi olarak Edirne'nin merkezinde yer alır. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Edirne'nin doğal güzelliklerini sunar. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Şeyh Çelebi Türbesi, çevrenin doğal güzelliklerini korumak için önemli bir rol oynar. Bölgenin coğrafi özellikleri, ziyaretçilere geniş bir gezi imkanı sunar. Doğal güzelliklerin yanı sıra, tarihi yapılar da bölgenin coğrafi zenginliğini artırır.
+Şeyh Çelebi Türbesi, coğrafi olarak Edirne'nin merkezinde yer alır. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Edirne'nin doğal güzelliklerini sunar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Şeyh Çelebi Türbesi, çevrenin doğal güzelliklerini korumak için önemli bir rol oynar. Bölgenin coğrafi özellikleri, ziyaretçilere geniş bir gezi imkanı sunar. Doğal güzelliklerin yanı sıra, tarihi yapılar da bölgenin coğrafi zenginliğini artırır.
 
 ## Flora ve Fauna
 
-Şeyh Çelebi Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölgenin flora ve fauna çeşitliliği, ziyaretçilere geniş bir doğal güzellik yelpazesi sunar. Mevsimsel değişimler, bölgenin doğal güzelliklerini farklı bir şekilde sunar. İlkbahar ve yaz aylarında, bölgenin flora çeşitliliği artarken, sonbahar ve kış aylarında fauna çeşitliliği ön plana çıkar. Şeyh Çelebi Türbesi, doğal güzelliklerini korumak için önemli bir rol oynar. Bölgenin ekolojik dengesi, flora ve fauna çeşitliliğiçin önemlidir.
+ Bölgenin flora ve fauna çeşitliliği, ziyaretçilere geniş bir doğal güzellik yelpazesi sunar. Mevsimsel değişimler, bölgenin doğal güzelliklerini farklı bir şekilde sunar. İlkbahar ve yaz aylarında, bölgenin flora çeşitliliği artarken, sonbahar ve kış aylarında fauna çeşitliliği ön plana çıkar. Şeyh Çelebi Türbesi, doğal güzelliklerini korumak için önemli bir rol oynar. Bölgenin ekolojik dengesi, flora ve fauna çeşitliliğiçin önemlidir.
 
 ## Ziyaret Bilgileri
 

@@ -30,7 +30,7 @@ wikidata_id: "Q284093"
 
 # Kaputaş Plajı
 
-Kaputaş Plajı, Antalya'nın Kaş ilçesinde yer alan ve turkuaz rengindeki suyu ile dikkat çeken bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor. Plajın beyaz kumu ve berrak suyu, ziyaretçilere huzurlu ve rahat bir ortam sunuyor. Kaputaş Plajı, özellikle yaz aylarında ziyaret edilmektedir.
+Kaputaş Plajı, Antalya'nın Kaş ilçesinde yer alan ve turkuaz rengindeki suyu ile dikkat çeken bir plajdır. Plajın beyaz kumu ve berrak suyu, ziyaretçilere huzurlu ve rahat bir ortam sunuyor. Kaputaş Plajı, özellikle yaz aylarında ziyaret edilmektedir.
 
 ## Tarihçe
 

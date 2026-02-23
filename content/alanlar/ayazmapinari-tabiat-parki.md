@@ -23,7 +23,7 @@ wikidata_id: "Q108228204"
 
 # Ayazmapınarı Tabiat Parkı
 
-Ayazmapınarı Tabiat Parkı, Marmara Bölgesi'nin önemli doğal alanlarından biri olarak dikkat çekiyor. Çanakkale'nin güzide bölgesinde yer alan bu tabiat parkı, 140 hektarlık geniş yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, ziyaretçilerine doğayla iç içe olabilecekleri geniş bir mekan sunuyor. Parkın konumu, hem şehirden uzaklaşmak hem de doğanın güzelliğini deneyimlemek isteyenler için ideal bir seçim.
+Ayazmapınarı Tabiat Parkı, Marmara Bölgesi'nin önemli doğal alanlarından biri olarak dikkat çekiyor. Bu büyük alan, ziyaretçilerine doğayla iç içe olabilecekleri geniş bir mekan sunuyor. Parkın konumu, hem şehirden uzaklaşmak hem de doğanın güzelliğini deneyimlemek isteyenler için ideal bir seçim.
 
 ## Tarihçe
 

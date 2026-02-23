@@ -28,7 +28,7 @@ wikidata_id: "Q32129724"
 
 # Arıl Hüyüğü
 
-Gaziantep'in zengin tarihi ve kültürel mirasının önemli bir parçası olan Arıl Hüyüğü, ziyaretçilerini geçmişin sâu noktalarına götürmeyi vaat ediyor. Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan bu tarihi mekan, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarihi ve kültürel keşif alanı sunuyor. Arıl Hüyüğü, tarih meraklıları ve kültürel zenginlik arayışında olan gezginler için gerçek bir hazine.
+Gaziantep'in zengin tarihi ve kültürel mirasının önemli bir parçası olan Arıl Hüyüğü, ziyaretçilerini geçmişin derin noktalarına götürmeyi vaat ediyor. Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan bu tarihi mekan, yaklaşık 140 hektarlık bir alanı kaplıyor. Arıl Hüyüğü, tarih meraklıları ve kültürel zenginlik arayışında olan gezginler için gerçek bir hazine.
 
 ## Tarihçe
 

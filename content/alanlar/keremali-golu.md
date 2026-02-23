@@ -46,7 +46,7 @@ Keremali Gölü'nün çevresel ilişkileri, komşu alanlar ve su kaynakları ile
 
 Keremali Gölü, Balıkesir'in step bitki örtüsü ve bozkır ekosistemi içinde bir cennet olarak karşımıza çıkıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, gölün etrafı rengarenk çiçeklerle donanıyor. Step bitkileri ve otları, kuraklığa adapte olmuş türler, gölün su seviyesine göre değişen bir yaşam alanı sunuyor.
 
-Gölün su kuşları, balıklar ve sulak alan bitkileri, bu ekosistemin temel bileşenlerini oluşturuyor. Su kuşları, gölün kıyılarında yuvalanıyor ve besleniyorlar. Balıklar, gölün suyunun temizliğine bağımlı olarak yaşamlarını sürdürüyorlar. Sulak alan bitkileri, gölün su seviyesine göre değişen bir yaşam alanı sunuyor. 
+Gölün su kuşları, balıklar ve sulak alan bitkileri, bu ekosistemin temel bileşenlerini oluşturuyor. Su kuşları, gölün kıyılarında yuvalanıyor ve besleniyorlar. Balıklar, gölün suyunun temizliğine bağımlı olarak yaşamlarını sürdürüyorlar. Sulak alan bitkileri, gölün su seviyesine göre değişen bir yaşam alanı sunuyor.
 
 Keremali Gölü, göçmen kuşlar için önemli bir durak noktası. Sonbaharda, binlerce kuş bu bölgeyi ziyaret ediyor. Bu ekosistem, memeliler, sürüngenler ve diğer canlılar için de önemli bir yaşam alanı. Keremali Gölü'nün ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasından geliyor. Bu nedenle, gölün korunması ve sürdürülebilir kullanımı, gelecek nesiller için çok önemli.
 

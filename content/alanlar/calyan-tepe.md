@@ -32,7 +32,7 @@ Van'ın dağlık bölgelerinde yer alan Çalyan Tepe, doğal güzelliği ile dik
 
 ## Tarihçe
 
-Van bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alıyor. Çalyan Tepe, bu tarihi zenginliğin bir parçası olarak karşımıza çıkıyor. Urartular, Persler, Romalılar ve Selçuklular gibi uygarlıkların hakimiyetinde kalan bu bölge, kültür ve ticaretin önemli merkezlerinden biri olmuş. 
+Van bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alıyor. Çalyan Tepe, bu tarihi zenginliğin bir parçası olarak karşımıza çıkıyor. Urartular, Persler, Romalılar ve Selçuklular gibi uygarlıkların hakimiyetinde kalan bu bölge, kültür ve ticaretin önemli merkezlerinden biri olmuş.
 
 Doğal güzellikleri ile ünlü olan bu coğrafya, insanların yaşamına da ev sahipliği yapıyor. Yaylacılık ve hayvancılık, bölgenin geleneksel faaliyetleri arasında yer alıyor. Çalyan Tepe ve çevresindeki dağlar, bu faaliyetler için elverişli bir ortam sunuyor. Ayrıca, tarihi İpek Yolu'nun bir bölümü de Van bölgesinden geçmekte. Bu ticaret yolu, bölgeyi diğer uygarlıklarla bağlantılı hale getirerek, kültürel ve ekonomik alışverişi teşvik ediyor.
 

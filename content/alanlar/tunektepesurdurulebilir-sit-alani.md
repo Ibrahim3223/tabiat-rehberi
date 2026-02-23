@@ -22,7 +22,7 @@ wikidata_id: "Q108226940"
 
 # Tünektepe_sürdürülebilir Sit Alanı
 
-Tünektepe Sürdürülebilir Sit Alanı, İç Anadolu Bölgesi'nin göbeğinde, yaklaşık 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin yaban hayatının önemli merkezlerinden biri olarak bilinir. Tünektepe, doğa severlerin ve yaban hayatını korumak isteyenlerin gözde mekanlarından biri olma özelliğini taşır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunar.
+Tünektepe Sürdürülebilir Sit Alanı, İç Anadolu Bölgesi'nin göbeğinde, yaklaşık 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Tünektepe, doğa severlerin ve yaban hayatını korumak isteyenlerin gözde mekanlarından biri olma özelliğini taşır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

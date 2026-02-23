@@ -28,7 +28,7 @@ wikidata_id: "Q34828801"
 
 # Çayırlık Hill
 
-Çayırlık Hill, Diyarbakır'ın Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe ve doğal alan olarak dikkat çekmektedir. Yaklaşık 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve tarihi geçmişi ile zengin bir kültürel mirasa sahiptir. Çayırlık Hill'i ziyaret ettiğinizde, hem doğal güzellikleri hem de tarihi eserleri görebilirsiniz.
+Çayırlık Hill, Diyarbakır'ın Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe ve doğal alan olarak dikkat çekmektedir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve tarihi geçmişi ile zengin bir kültürel mirasa sahiptir. Çayırlık Hill'i ziyaret ettiğinizde, hem doğal güzellikleri hem de tarihi eserleri görebilirsiniz.
 
 ## Tarihçe
 

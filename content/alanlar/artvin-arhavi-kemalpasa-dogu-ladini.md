@@ -22,7 +22,7 @@ wikidata_id: "Q108227986"
 
 # Artvin-Arhavi-Kemalpaşa Dogu Ladini
 
-Artvin-Arhavi-Kemalpaşa Dogu Ladini milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini korumak için önemli bir rol oynar. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennettir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunar. Artvin'in bu doğal hazinesi, hem yerli hem de yabancı turistlerin ilgisini çeker ve bölgeye önemli bir turizm katkısı sağlar.
+Artvin-Arhavi-Kemalpaşa Dogu Ladini milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennettir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunar. Artvin'in bu doğal hazinesi, hem yerli hem de yabancı turistlerin ilgisini çeker ve bölgeye önemli bir turizm katkısı sağlar.
 
 ## Tarihçe
 

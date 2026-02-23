@@ -29,7 +29,7 @@ wikidata_id: "Q31385494"
 
 # Şama Dağı
 
-Şama Dağı, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şama Dağı, coğrafyası ve tarihi geçmişi ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor. Şama Dağı, aynı zamanda birçok gezgin tarafından ziyaret ediliyor. Burada, doğa yürüyüşleri, kamping ve fotoğrafçılık gibi faaliyetler yapılıyor.
+Şama Dağı, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe. Şama Dağı, coğrafyası ve tarihi geçmişi ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunuyor. Şama Dağı, aynı zamanda birçok gezgin tarafından ziyaret ediliyor. Burada, doğa yürüyüşleri, kamping ve fotoğrafçılık gibi faaliyetler yapılıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q31385494"
 
 ## Coğrafya
 
-Şama Dağı, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şama Dağı'nın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, birçok farklı türde ağaç, çalı ve bitki bulunuyor. Şama Dağı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçiyor. Şama Dağı, aynı zamanda birçok gezgin tarafından ziyaret ediliyor. Burada, doğa yürüyüşleri, kamping ve fotoğrafçılık gibi faaliyetler yapılıyor.
+Şama Dağı, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Şama Dağı'nın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, birçok farklı türde ağaç, çalı ve bitki bulunuyor. Şama Dağı'nın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçiyor. Şama Dağı, aynı zamanda birçok gezgin tarafından ziyaret ediliyor. Burada, doğa yürüyüşleri, kamping ve fotoğrafçılık gibi faaliyetler yapılıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ wikidata_id: "Q31385494"
 
 ## İlginç Bilgiler
 
-- Şama Dağı, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
 - Bu bölge, birçok uygarlığa ev sahipliği yapmış.
 - Şama Dağı, aynı zamanda birçok tarihi olaya tanıklık etmiş.
 - Burada, çeşitli arkeolojik kazılar yapılmış ve önemli bulgular elde edilmiş.

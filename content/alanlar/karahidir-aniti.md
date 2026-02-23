@@ -30,7 +30,7 @@ wikidata_id: "Q133539662"
 
 # Karahıdır Anıtı
 
-Karahıdır Anıtı, Kırklareli ilinin merkezinde yer alan ve tarihi önem taşıyan bir plajdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir yeşil alanı temsil etmektedir. Karahıdır Anıtı, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır. Anıtın etrafında bulunan ağaçlar ve bitki türleri, bu bölgenin ekolojik zenginliğini göstermektedir. Ayrıca, anıtın bulunduğu plaj, denize girme ve güneşlenme imkânı sunmaktadır.
+Karahıdır Anıtı, Kırklareli ilinin merkezinde yer alan ve tarihi önem taşıyan bir plajdır. Karahıdır Anıtı, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır. Anıtın etrafında bulunan ağaçlar ve bitki türleri, bu bölgenin ekolojik zenginliğini göstermektedir. Ayrıca, anıtın bulunduğu plaj, denize girme ve güneşlenme imkânı sunmaktadır.
 
 ## Tarihçe
 

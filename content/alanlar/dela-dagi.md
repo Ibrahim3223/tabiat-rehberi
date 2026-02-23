@@ -38,7 +38,7 @@ Dela Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer
 
 ## Coğrafya
 
-Dela Dağı, Aydın ilinin sınırları içerisinde yer alan bir coğrafi oluşumdur. 37.9860°K, 28.7899°D koordinatlarına sahiptir. Bu dağ, Ege Bölgesi'nin orta kesiminde, Aydın şehir merkezinin yaklaşık 30 kilometre kuzeydoğusunda bulunmaktadır. Dağın eteklerinde, históri ve kültürel açıdan önemli yerleşim yerleri bulunmaktadır.
+Dela Dağı, Aydın ilinin sınırları içerisinde yer alan bir coğrafi oluşumdur. 37.9860°K, 28.7899°D koordinatlarına sahiptir. Bu dağ, Ege Bölgesi'nin orta kesiminde, Aydın şehir merkezinin yaklaşık 30 kilometre kuzeydoğusunda bulunmaktadır. Dağın eteklerinde, tarihi ve kültürel açıdan önemli yerleşim yerleri bulunmaktadır.
 
 Jeolojik açıdan bakıldığında, Dela Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, coğrafi konumu itibariyle Ege Bölgesi'nin genel jeolojik özelliklerini paylaşmaktadır. Bu bölgede, genellikle kalker ve şist gibi kayaçlar yaygındır. Dağın boyutları hakkında net bir bilgi olmasa da, Ege Bölgesi'ndeki diğer dağlar ile karşılaştırıldığında, orta büyüklükte olduğu söylenebilir; belki de Beşiktaş ilçesi kadar bir alanı kaplayabilir.
 

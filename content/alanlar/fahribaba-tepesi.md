@@ -28,7 +28,7 @@ wikidata_id: "Q31387987"
 
 # Fahribaba Tepesi
 
-Fahribaba Tepesi, Tunceli ilinin güzide bir noktası olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Fahribaba Tepesi, Tunceli'nin doğal güzelliklerinin bir araya geldiği bir nokta olarak biliniyor. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki uyum, ziyaretçileri büyülüyor. Tunceli'nin tarihi geçmişi, Fahribaba Tepesi'nde de hissediliyor. Bu tepenin eteklerinde, tarihi kalıntılar ve antik yerleşim yerleri bulunuyor.
+Fahribaba Tepesi, Tunceli ilinin güzide bir noktası olarak karşımıza çıkıyor. Fahribaba Tepesi, Tunceli'nin doğal güzelliklerinin bir araya geldiği bir nokta olarak biliniyor. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki uyum, ziyaretçileri büyülüyor. Tunceli'nin tarihi geçmişi, Fahribaba Tepesi'nde de hissediliyor. Bu tepenin eteklerinde, tarihi kalıntılar ve antik yerleşim yerleri bulunuyor.
 
 ## Tarihçe
 

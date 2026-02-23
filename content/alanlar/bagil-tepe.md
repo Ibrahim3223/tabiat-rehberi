@@ -29,7 +29,7 @@ wikidata_id: "Q31386698"
 
 # Bagıl Tepe
 
-Bagıl Tepe, Güneydoğu Anadolu Bölgesi'nin kalbinde, Diyarbakır şehrinde yer alan tarihi ve doğal bir güzelliğimizi oluşturuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir açıklık sunuyor. Bu tepe, hem tarihi geçmişi hem de doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, buraya geldiğinde hem tarihin izlerini hem de doğanın güzelliğini bir arada görebiliyorlar.
+Bagıl Tepe, Güneydoğu Anadolu Bölgesi'nin kalbinde, Diyarbakır şehrinde yer alan tarihi ve doğal bir güzelliğimizi oluşturuyor. Bu tepe, hem tarihi geçmişi hem de doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, buraya geldiğinde hem tarihin izlerini hem de doğanın güzelliğini bir arada görebiliyorlar.
 
 ## Tarihçe
 

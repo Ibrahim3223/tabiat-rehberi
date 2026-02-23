@@ -30,7 +30,7 @@ wikidata_id: "Q6078467"
 
 # Düzgün Baba
 
-Düzgün Baba, Nazımiye ilçesinde yer alan yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip olan bu bölge, ziyaretçilerini doğal güzelliği ile büyülüyor. 140 hektarlık bu yeşil alan, görenleri hayran bırakacak bir güzelliğe sahip. Burada, doğanın tüm güzelliğini keşfetme mümkün. Düzgün Baba'nın etrafında, çeşitli bitki türleri ve zengin fauna found. Bu bölge, hem doğa severler hem de tarihi geçmişi öğrenmek isteyenler için ideal bir gezi noktası. Tunceli'nin Nazımiye ilçesinde yer alan Düzgün Baba, ziyaretçilerini bekliyor.
+ 140 hektarlık bu yeşil alan, görenleri hayran bırakacak bir güzelliğe sahip. Burada, doğanın tüm güzelliğini keşfetme mümkün. Düzgün Baba'nın etrafında, çeşitli bitki türleri ve zengin fauna found. Bu bölge, hem doğa severler hem de tarihi geçmişi öğrenmek isteyenler için ideal bir gezi noktası. Tunceli'nin Nazımiye ilçesinde yer alan Düzgün Baba, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Düzgün Baba'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Düzgün Baba, Doğu Anadolu Bölgesi'nin Tunceli ilinin Nazımiye ilçesinde yer alan bir bölgedir. Bu bölge, 140 hektarlık yeşil bir alana sahip olup, yaklaşık 200 futbol sahası büyüklüğündedir. Düzgün Baba'nın coğrafi konumu, ziyaretçilerine birçok avantaj sunuyor. Burada, doğal güzelliğin yanı sıra, birçok bitki ve hayvan türü de bulunmakta. Bu bölge, zengin fauna ve çeşitli bitki türleriyle dikkat çekiyor. Düzgün Baba'nın etrafında, birçok dağ ve tepe yer almakta olup, buranın manzarası görenleri hayran bırakıyor. Bu bölge, doğa severler için ideal bir gezi noktası. Düzgün Baba, Tunceli'nin Nazımiye ilçesinde yer alan bir bölge olarak, ziyaretçilerine coğrafi güzelliğini sunuyor.
+Düzgün Baba, Doğu Anadolu Bölgesi'nin Tunceli ilinin Nazımiye ilçesinde yer alan bir bölgedir. Düzgün Baba'nın coğrafi konumu, ziyaretçilerine birçok avantaj sunuyor. Burada, doğal güzelliğin yanı sıra, birçok bitki ve hayvan türü de bulunmakta. Bu bölge, zengin fauna ve çeşitli bitki türleriyle dikkat çekiyor. Düzgün Baba'nın etrafında, birçok dağ ve tepe yer almakta olup, buranın manzarası görenleri hayran bırakıyor. Bu bölge, doğa severler için ideal bir gezi noktası. Düzgün Baba, Tunceli'nin Nazımiye ilçesinde yer alan bir bölge olarak, ziyaretçilerine coğrafi güzelliğini sunuyor.
 
 ## Flora ve Fauna
 

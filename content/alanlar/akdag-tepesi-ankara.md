@@ -28,7 +28,7 @@ wikidata_id: "Q31558596"
 
 # Akdağ Tepesi (Ankara)
 
-Akdağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir tepe olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Akdağ Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini etkiliyor. Bu bölge, Ankara'nın önemli doğal ve tarihi noktalarından biri olarak kabul ediliyor.
+Akdağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir tepe olarak dikkat çekiyor. Akdağ Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini etkiliyor. Bu bölge, Ankara'nın önemli doğal ve tarihi noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

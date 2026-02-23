@@ -29,7 +29,7 @@ wikidata_id: "Q134728175"
 
 # Idyma Kaya Mezarları
 
-Idyma Kaya Mezarları, Muğla'nın Ula ilçesinde yer alan ve tarihi öneme sahip olan bir bölgedir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. İnsanlık tarihinin önemli bir parçası olan bu mezarlar, ziyaretçilerini geçmişe götürerek tarihi bir yolculuğa çıkarır. Mezarların bulunduğu bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Bu nedenle, bölgenin tarihi ve kültürel önemi oldukça büyüktür.
+Idyma Kaya Mezarları, Muğla'nın Ula ilçesinde yer alan ve tarihi öneme sahip olan bir bölgedir. İnsanlık tarihinin önemli bir parçası olan bu mezarlar, ziyaretçilerini geçmişe götürerek tarihi bir yolculuğa çıkarır. Mezarların bulunduğu bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Bu nedenle, bölgenin tarihi ve kültürel önemi oldukça büyüktür.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Idyma Kaya Mezarları, tarihi geçmişi ile dikkat çeker. Bu mezarların genau 
 
 ## Coğrafya
 
-Idyma Kaya Mezarları, Muğla'nın Ula ilçesinde yer alır ve Ege Bölgesi'nin önemli bir parçasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bölgenin coğrafyası, dağlık ve engebeli bir araziye sahiptir. Mezarların bulunduğu bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Bu nedenle, bölgenin tarihi ve kültürel önemi oldukça büyüktür. Bölgenin iklimi, Akdeniz iklimi özellikleri taşır ve yazları sıcak, kışları ılıman geçer. Bu nedenle, ziyaretçilerin bölgeyi ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır.
+Idyma Kaya Mezarları, Muğla'nın Ula ilçesinde yer alır ve Ege Bölgesi'nin önemli bir parçasıdır. Bölgenin coğrafyası, dağlık ve engebeli bir araziye sahiptir. Mezarların bulunduğu bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Bu nedenle, bölgenin tarihi ve kültürel önemi oldukça büyüktür. Bölgenin iklimi, Akdeniz iklimi özellikleri taşır ve yazları sıcak, kışları ılıman geçer. Bu nedenle, ziyaretçilerin bölgeyi ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır.
 
 ## Flora ve Fauna
 

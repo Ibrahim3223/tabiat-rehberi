@@ -66,5 +66,5 @@ Dağların yaban hayatı da oldukça zengin. Memeliler, kuşlar ve sürüngenler
 - Dağın yüksekliği yaklaşık 2370 metredir.
 - Şerfi Dağı, Göller Yöresinde bulunmaktadır.
 - Bu bölge, 1970'li yıllarda keşfedilmeye başlanmıştır.
-- Dağın eteklerinde, históriki öneme sahip bazı antik kentler bulunmaktadır.
+- Dağın eteklerinde, tarihi öneme sahip bazı antik kentler bulunmaktadır.
 - Şerfi Dağı'nın etrafında, 1000 metreyi aşkın 5 farklı zirve bulunmaktadır.

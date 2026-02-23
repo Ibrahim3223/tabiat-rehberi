@@ -1,7 +1,7 @@
 ---
 title: "Büyük Hamam, Büyükkumla"
 date: "2026-01-09T23:57:27.029Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245846"
 
 # Büyük Hamam, Büyükkumla
 
-Büyük Hamam, Büyükkumla, Marmara Bölgesi'nin en güzel plajlarından biri olarak dikkat çekiyor. Gemlik'in en çok ziyaret edilen yerlerinden biri olan bu plaj, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alan sunuyor. Büyük Hamam, Büyükkumla plajı, ziyaretçilerine güneşin ve denizin keyfini çıkarmak için mükemmel bir ortam sunuyor. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve onlar için unutulmaz bir deneyim sunuyor.
+Büyük Hamam, Büyükkumla, Marmara Bölgesi'nin en güzel plajlarından biri olarak dikkat çekiyor. Büyük Hamam, Büyükkumla plajı, ziyaretçilerine güneşin ve denizin keyfini çıkarmak için mükemmel bir ortam sunuyor. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve onlar için unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Büyük Hamam, Büyükkumla plajının tarihi geçmişi, yüzyıllar boyunca ins
 
 ## Coğrafya
 
-Büyük Hamam, Büyükkumla plajı, Marmara Bölgesi'nin en güzel coğrafi bölgelerinden biri olan Gemlik'te bulunuyor. Bu plaj, deniz kıyısında yer alıyor ve ziyaretçilerine muhteşem bir manzara sunuyor. Büyük Hamam, Büyükkumla plajı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alan sunuyor. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve onlar için unutulmaz bir deneyim sunuyor. Büyük Hamam, Büyükkumla plajı, Gemlik'in en önemli turizm merkezlerinden biri olarak kabul ediliyor ve bu plaj, ziyaretçilerine güzel bir ortam sunuyor. Bu plajın coğrafi konumu, insanların burayı ziyaret etmesine ve burada güzel anlar yaşamasına olanak sağlıyor. Büyük Hamam, Büyükkumla plajı, Gemlik'in en önemli kültürel ve turistik merkezlerinden biri olarak kabul ediliyor.
+Büyük Hamam, Büyükkumla plajı, Marmara Bölgesi'nin en güzel coğrafi bölgelerinden biri olan Gemlik'te bulunuyor. Bu plaj, deniz kıyısında yer alıyor ve ziyaretçilerine muhteşem bir manzara sunuyor. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve onlar için unutulmaz bir deneyim sunuyor. Büyük Hamam, Büyükkumla plajı, Gemlik'in en önemli turizm merkezlerinden biri olarak kabul ediliyor ve bu plaj, ziyaretçilerine güzel bir ortam sunuyor. Bu plajın coğrafi konumu, insanların burayı ziyaret etmesine ve burada güzel anlar yaşamasına olanak sağlıyor. Büyük Hamam, Büyükkumla plajı, Gemlik'in en önemli kültürel ve turistik merkezlerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Büyük Hamam, Büyükkumla plajını ziyaret etmek için en iyi zaman, yaz ayla
 
 ## İlginç Bilgiler
 
-- Büyük Hamam, Büyükkumla plajı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alan sunuyor.
 - Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor.
 - Büyük Hamam, Büyükkumla plajı, Gemlik'in en önemli turizm merkezlerinden biri olarak kabul ediliyor.
 - Bu plaj, deniz kıyısında yer alıyor ve ziyaretçilerine muhteşem bir manzara sunuyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q34884718"
 
 # Naldöken Tepesi
 
-Naldöken Tepesi, Erzurum'un merkezinde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğal güzellik alanıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla dikkat çekiyor. Naldöken Tepesi, ziyaretçilerine hem doğayla iç içe bir deneyim hem de tarihi bir gezi imkanı sunuyor. Tepenin etrafında yer alan çeşitli bitki türleri ve zengin fauna, bu doğal güzelliğin önemini vurguluyor.
+Naldöken Tepesi, Erzurum'un merkezinde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğal güzellik alanıdır. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla dikkat çekiyor. Naldöken Tepesi, ziyaretçilerine hem doğayla iç içe bir deneyim hem de tarihi bir gezi imkanı sunuyor. Tepenin etrafında yer alan çeşitli bitki türleri ve zengin fauna, bu doğal güzelliğin önemini vurguluyor.
 
 ## Tarihçe
 

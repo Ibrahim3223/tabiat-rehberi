@@ -1,7 +1,7 @@
 ---
 title: "Gıj Gıj Dede Türbesi"
 date: "2026-01-10T07:14:58.605Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390951"
 
 # Gıj Gıj Dede Türbesi
 
-Gıj Gıj Dede Türbesi, Tokat'ta bulunan ve tarihi geçmişi olan bir turbe. Bu turbe, yaklaşık 140 hektarlık bir alanda yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Gıj Gıj Dede Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Turbe, Tokat'ın merkezine yakın bir konumda bulunuyor ve ulaşımı kolay.
+Gıj Gıj Dede Türbesi, Tokat'ta bulunan ve tarihi geçmişi olan bir turbe. Bu turbe, yaklaşık 140 hektarlık bir alanda yer alıyor. Gıj Gıj Dede Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Turbe, Tokat'ın merkezine yakın bir konumda bulunuyor ve ulaşımı kolay.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hocabali Hamamı"
 date: "2026-01-09T23:40:26.149Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Burdur"

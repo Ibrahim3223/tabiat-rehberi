@@ -1,7 +1,7 @@
 ---
 title: "Nişanca Hamamı"
 date: "2026-01-09T22:46:11.829Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738557"
 
 # Nişanca Hamamı
 
-Nişanca Hamamı, İstanbul'un tarihi mekanlarından biri olarak Fatih ilçesinde yer alan bir plaj ve hamam kompleksidir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir yeşil alanı kapsar. Bu alan, ziyaretçilerin hem tarihi bir hamam deneyimine sahip olmalarına hem de denize girerek güneşlenmelerine olanak tanır. Nişanca Hamamı, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çekmektedir.
+Nişanca Hamamı, İstanbul'un tarihi mekanlarından biri olarak Fatih ilçesinde yer alan bir plaj ve hamam kompleksidir. Bu alan, ziyaretçilerin hem tarihi bir hamam deneyimine sahip olmalarına hem de denize girerek güneşlenmelerine olanak tanır. Nişanca Hamamı, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Nişanca Hamamı'nın tarihi geçmişi, İstanbul'un fethine kadar uzanır. Bu b
 
 ## Coğrafya
 
-Nişanca Hamamı, İstanbul'un Fatih ilçesinde, Marmara Denizi kıyısında yer almaktadır. Coğrafi olarak, 140 hektarlık bir alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir yeşil alanı içerir. Hamam ve plaj kompleksi, denize sıfır bir konumda inşa edilmiştir ve ziyaretçilere, Marmara Denizi'nin güzelliğini izleme fırsatı sunar. Çevre, tarihi yapılar ve yeşil alanlarla çevrilidir ve bu sayede, ziyaretçiler hem tarihi bir atmosferde hem de doğal güzellikler arasında zaman geçirebilirler. İklim olarak, Marmara Bölgesi'nin ılıman iklimine sahiptir ve bu sayede, yılıninde ziyaret edilebilir.
+Nişanca Hamamı, İstanbul'un Fatih ilçesinde, Marmara Denizi kıyısında yer almaktadır. Hamam ve plaj kompleksi, denize sıfır bir konumda inşa edilmiştir ve ziyaretçilere, Marmara Denizi'nin güzelliğini izleme fırsatı sunar. Çevre, tarihi yapılar ve yeşil alanlarla çevrilidir ve bu sayede, ziyaretçiler hem tarihi bir atmosferde hem de doğal güzellikler arasında zaman geçirebilirler. İklim olarak, Marmara Bölgesi'nin ılıman iklimine sahiptir ve bu sayede, yılıninde ziyaret edilebilir.
 
 ## Flora ve Fauna
 

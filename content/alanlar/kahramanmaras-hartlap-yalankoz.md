@@ -22,7 +22,7 @@ wikidata_id: "Q108227710"
 
 # Kahramanmaras-Hartlap Yalankoz
 
-Kahramanmaras-Hartlap Yalankoz Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerini büyüleyici güzelliği ile karşılar. Parkın etrafı, yüksek dağlar ve yeşil vadiler ile çevrilidir, bu da ziyaretçilere benzersiz bir manzara sunar. Bu milli park, hem doğa severlerin hem de macera tutkunlarının ziyaret etmesi gereken bir yerdir.
+Kahramanmaras-Hartlap Yalankoz Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Parkın etrafı, yüksek dağlar ve yeşil vadiler ile çevrilidir, bu da ziyaretçilere benzersiz bir manzara sunar. Bu milli park, hem doğa severlerin hem de macera tutkunlarının ziyaret etmesi gereken bir yerdir.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Kahramanmaras-Hartlap Yalankoz Milli Parkı, ziyaretçilere benzersiz bir deneyi
 ## İlginç Bilgiler
 
 - Milli park, 140 hektarlık bir alana sahiptir.
-- Park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bölge, yüksek dağlar ve yeşil vadiler ile çevrilidir.
 - Milli park, çeşitli bitki türleri ve yaban hayatı ile zengindir.
 - Parkın iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzemektedir.

@@ -22,7 +22,7 @@ wikidata_id: "Q108228866"
 
 # Marmara Gölü Sulak Alanı
 
-Marmara Gölü Sulak Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu sulak alan, zengin fauna ve flora çeşitliliğine ev sahipliği yapıyor. Yaban hayatının yanı sıra, çeşitli bitki türlerini de barındıran bu doğal alan, aynı zamanda önemli bir sulak alan ekosistemini koruyor. Güneşin batışının görkemini izlemek için ideal bir nokta olan Marmara Gölü Sulak Alanı, doğa severlerin ziyaret etmesi gereken bir yer.
+ Bu sulak alan, zengin fauna ve flora çeşitliliğine ev sahipliği yapıyor. Yaban hayatının yanı sıra, çeşitli bitki türlerini de barındıran bu doğal alan, aynı zamanda önemli bir sulak alan ekosistemini koruyor. Güneşin batışının görkemini izlemek için ideal bir nokta olan Marmara Gölü Sulak Alanı, doğa severlerin ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

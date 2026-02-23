@@ -28,7 +28,7 @@ wikidata_id: "Q32139398"
 
 # Güneydağı Tepesi
 
-Güneydağı Tepesi, İzmir'in Ege Bölgesi'nde yer alan önemli bir doğal alan olarak dikkat çekmektedir. Bu bölge, 140 hektarlık geniş bir yeşil alan sunmakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Güneydağı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile birlikte zengin bir deneyim sunmaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün olmakla birlikte, tepe aynı zamanda çevresindeki manzaralar ile de ziyaretçilerini etkilemektedir.
+Güneydağı Tepesi, İzmir'in Ege Bölgesi'nde yer alan önemli bir doğal alan olarak dikkat çekmektedir. Güneydağı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile birlikte zengin bir deneyim sunmaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün olmakla birlikte, tepe aynı zamanda çevresindeki manzaralar ile de ziyaretçilerini etkilemektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Güneydağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Güneydağı Tepesi, Ege Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak ilgi çekici bir bölgedir. Bu tepe, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Güneydağı Tepesi, çevresindeki manzaralar ile birlikte ziyaretçilerini etkilemektedir. Bu bölge, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün olan bir doğal alan olarak dikkat çekmektedir. Güneydağı Tepesi, coğrafi olarak önemli bir konumda yer almakta ve ziyaretçilerine zengin bir deneyim sunmaktadır. Bu tepe, özellikle çevresindeki dağlar ve ovalar ile birlikte, coğrafi olarak önemli bir bölge olarak dikkat çekmektedir.
+Güneydağı Tepesi, Ege Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak ilgi çekici bir bölgedir. Güneydağı Tepesi, çevresindeki manzaralar ile birlikte ziyaretçilerini etkilemektedir. Bu bölge, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün olan bir doğal alan olarak dikkat çekmektedir. Güneydağı Tepesi, coğrafi olarak önemli bir konumda yer almakta ve ziyaretçilerine zengin bir deneyim sunmaktadır. Bu tepe, özellikle çevresindeki dağlar ve ovalar ile birlikte, coğrafi olarak önemli bir bölge olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Güneydağı Tepesi'ni ziyaret etmek, özellikle doğal güzelliklere ilgi duyan
 ## İlginç Bilgiler
 
 - Güneydağı Tepesi, 140 hektarlık bir yeşil alanı kaplamaktadır.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır.
+
 - Güneydağı Tepesi, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün olan bir doğal alan olarak dikkat çekmektedir.
 - Bu bölge, tarih boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmıştır.
 - Güneydağı Tepesi, özellikle tarihi öneme sahip olan bölgede, ziyaretçilerine bu zengin geçmişi sunmaktadır.

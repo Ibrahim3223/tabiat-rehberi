@@ -1,7 +1,7 @@
 ---
 title: "Meydan (Çarşı) Hamamı"
 date: "2026-01-09T22:38:30.405Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bayburt"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738716"
 
 # Meydan (Çarşı) Hamamı
 
-Bayburt'un merkezinde yer alan Meydan (Çarşı) Hamamı, yaklaşık 140 hektarlık bir alanda, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Karadeniz Bölgesi'nin doğal güzellikleri ve Bayburt'un tarihi yapısı, Meydan Hamamı'nda bir araya geliyor. Ziyaretçiler, hem tarihi hem de doğal güzellikleri keşfedebilecekleri bu özel noktayı, Bayburt'un en önemli turizm merkezlerinden biri olarak görüyor.
+Bayburt'un merkezinde yer alan Meydan (Çarşı) Hamamı, yaklaşık 140 hektarlık bir alanda, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak dikkat çekiyor. Karadeniz Bölgesi'nin doğal güzellikleri ve Bayburt'un tarihi yapısı, Meydan Hamamı'nda bir araya geliyor. Ziyaretçiler, hem tarihi hem de doğal güzellikleri keşfedebilecekleri bu özel noktayı, Bayburt'un en önemli turizm merkezlerinden biri olarak görüyor.
 
 ## Tarihçe
 

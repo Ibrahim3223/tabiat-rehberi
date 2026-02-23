@@ -1,7 +1,7 @@
 ---
 title: "Santralistanbul Enerji Müzesi"
 date: "2026-01-10T15:15:38.635Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q117012211"
 
 # Santralistanbul Enerji Müzesi
 
-Santralistanbul Enerji Müzesi, İstanbul'un Silahtarağa Mahallesi'nde yer alan, tarihi Silahtarağa Elektrik Santrali'nin restore edilmesiyle oluşturulan bir bilim ve enerji merkezi. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un en büyük bilim merkezlerinden biri. Enerji Müzesi, bilim ve teknoloji meraklıları için bir çekim noktası oluşturuyor. Ziyaretçiler, enerji üretimini ve tüketimini öğrenirken, aynı zamanda bilim ve teknoloji hakkında detalı bilgi elde ediyorlar.
+Santralistanbul Enerji Müzesi, İstanbul'un Silahtarağa Mahallesi'nde yer alan, tarihi Silahtarağa Elektrik Santrali'nin restore edilmesiyle oluşturulan bir bilim ve enerji merkezi. Enerji Müzesi, bilim ve teknoloji meraklıları için bir çekim noktası oluşturuyor. Ziyaretçiler, enerji üretimini ve tüketimini öğrenirken, aynı zamanda bilim ve teknoloji hakkında detalı bilgi elde ediyorlar.
 
 ## Tarihçe
 

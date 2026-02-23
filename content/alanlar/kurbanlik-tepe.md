@@ -28,7 +28,7 @@ wikidata_id: "Q31387024"
 
 # Kurbanlık Tepe
 
-Kurbanlık Tepe, Sinop'un zengin tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kurbanlık Tepe, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Bu tepe, Sinop'un önemli bir bölümüdür ve şehrin tarihini ve kültürünü anlamak için önemli bir noktadır.
+Kurbanlık Tepe, Sinop'un zengin tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Kurbanlık Tepe, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Bu tepe, Sinop'un önemli bir bölümüdür ve şehrin tarihini ve kültürünü anlamak için önemli bir noktadır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389906"
 
 # Tepelice Tepesi
 
-Tepelice Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan ve bölgenin önemli coğrafi oluşumlarından biri olarak dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşit. Tepelice Tepesi, ziyaretçilerini bölgenin doğal güzellikleriyle baş başa bırakmak için ideal bir konum sunuyor. Burada, doğanın tüm renklerini ve seslerini deneyimleme mümkün. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Tepelice Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan ve bölgenin önemli coğrafi oluşumlarından biri olarak dikkat çeken bir tepe. Tepelice Tepesi, ziyaretçilerini bölgenin doğal güzellikleriyle baş başa bırakmak için ideal bir konum sunuyor. Burada, doğanın tüm renklerini ve seslerini deneyimleme mümkün. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

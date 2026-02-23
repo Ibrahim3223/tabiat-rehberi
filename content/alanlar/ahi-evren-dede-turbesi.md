@@ -1,7 +1,7 @@
 ---
 title: "Ahi Evren Dede Türbesi"
 date: "2026-01-10T07:18:41.901Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390955"
 
 # Ahi Evren Dede Türbesi
 
-Ahi Evren Dede Türbesi, Trabzon'un Ortahisar ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. Bu özel yer, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve ziyaretçilerini Karadeniz Bölgesi'nin doğal güzelliklerine davet ediyor. Ahi Evren Dede Türbesi'nin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmekte ve onları bu özel mekanın hikayesini keşfetmeye davet etmektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunuyor.
+Ahi Evren Dede Türbesi, Trabzon'un Ortahisar ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. Bu özel yer, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve ziyaretçilerini Karadeniz Bölgesi'nin doğal güzelliklerine davet ediyor. Ahi Evren Dede Türbesi'nin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmekte ve onları bu özel mekanın hikayesini keşfetmeye davet etmektedir.
 
 ## Tarihçe
 

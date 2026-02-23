@@ -22,7 +22,7 @@ wikidata_id: "Q108228040"
 
 # Balıkesir-Kütahya-Akdağ YHGS
 
-Balıkesir-Kütahya-Akdağ Yaban Hayatı Geliştirme Sahası, Marmara Bölgesi'nin doğal güzelliklerinden biridir. Bu alan, 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Doğal güzelliği ve yaban hayatı çeşitliliği ile dikkat çeker. Ziyaretçiler, bu alanda çeşitli doğa aktivitelerini deneyimlemek için gelirler. Alanın büyüklüğü ve güzelliği, ziyaretçilere unutulmaz bir deneyim sunar.
+Balıkesir-Kütahya-Akdağ Yaban Hayatı Geliştirme Sahası, Marmara Bölgesi'nin doğal güzelliklerinden biridir. Doğal güzelliği ve yaban hayatı çeşitliliği ile dikkat çeker. Ziyaretçiler, bu alanda çeşitli doğa aktivitelerini deneyimlemek için gelirler. Alanın büyüklüğü ve güzelliği, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

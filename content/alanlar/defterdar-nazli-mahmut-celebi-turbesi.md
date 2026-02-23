@@ -1,7 +1,7 @@
 ---
 title: "Defterdar Nazlı Mahmut Çelebi Türbesi"
 date: "2026-01-10T07:20:14.219Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391048"
 
 # Defterdar Nazlı Mahmut Çelebi Türbesi
 
-Defterdar Nazlı Mahmut Çelebi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir plaj ve türbe kompleksidir. Bu kompleks, yaklaşık 140 hektarlık bir alanda kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Defterdar Nazlı Mahmut Çelebi Türbesi, Marmara Bölgesi'nin en önemli tarihi ve turistik mekanlarından biridir. Bu kompleks, hem plaj severlerin hem de tarih meraklılarının ilgisini çeker.
+Defterdar Nazlı Mahmut Çelebi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir plaj ve türbe kompleksidir. Bu kompleks, yaklaşık 140 hektarlık bir alanda kurulmuştur. Defterdar Nazlı Mahmut Çelebi Türbesi, Marmara Bölgesi'nin en önemli tarihi ve turistik mekanlarından biridir. Bu kompleks, hem plaj severlerin hem de tarih meraklılarının ilgisini çeker.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Defterdar Nazlı Mahmut Çelebi Türbesi, tarihi geçmişi ile dikkat çeker. Bu
 
 ## Coğrafya
 
-Defterdar Nazlı Mahmut Çelebi Türbesi, Eyüpsultan ilçesinde, Marmara Denizi'nin kıyısında yer alır. Bu kompleks, yaklaşık 140 hektarlık bir alanda kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu kompleks, plaj, türbe ve çevre alanlardan oluşur. Plaj kısmı, Marmara Denizi'nin sakin ve temiz sularına sahiptir. Türbe kısmı, tarihi bir yapı olarak dikkat çeker. Çevre alanlar, yeşilli ve çiçeklerle dolu bir atmosfer sunar. Defterdar Nazlı Mahmut Çelebi Türbesi, coğrafi konumu ve tarihi geçmişi ile birlikte, Marmara Bölgesi'nin en önemli turisti ve tarihi mekanlarından birini oluşturur.
+Defterdar Nazlı Mahmut Çelebi Türbesi, Eyüpsultan ilçesinde, Marmara Denizi'nin kıyısında yer alır. Bu kompleks, yaklaşık 140 hektarlık bir alanda kurulmuştur. Bu kompleks, plaj, türbe ve çevre alanlardan oluşur. Plaj kısmı, Marmara Denizi'nin sakin ve temiz sularına sahiptir. Türbe kısmı, tarihi bir yapı olarak dikkat çeker. Çevre alanlar, yeşilli ve çiçeklerle dolu bir atmosfer sunar. Defterdar Nazlı Mahmut Çelebi Türbesi, coğrafi konumu ve tarihi geçmişi ile birlikte, Marmara Bölgesi'nin en önemli turisti ve tarihi mekanlarından birini oluşturur.
 
 ## Flora ve Fauna
 
-Defterdar Nazlı Mahmut Çelebi Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu kompleks, Marmara Denizi'nin kıyısında yer aldığı için, deniz canlıları ve kuş türleri ile doludur. Çevre alanlar, yeşilli ve çiçeklerle dolu bir atmosfer sunar. Defterdar Nazlı Mahmut Çelebi Türbesi, mevsimsel değişimlere göre, farklı bitki ve hayvan türlerine ev sahipliği yapar. Bu kompleks, doğa severlerin ve hayvan meraklılarının ilgisini çeker.
+ Bu kompleks, Marmara Denizi'nin kıyısında yer aldığı için, deniz canlıları ve kuş türleri ile doludur. Çevre alanlar, yeşilli ve çiçeklerle dolu bir atmosfer sunar. Defterdar Nazlı Mahmut Çelebi Türbesi, mevsimsel değişimlere göre, farklı bitki ve hayvan türlerine ev sahipliği yapar. Bu kompleks, doğa severlerin ve hayvan meraklılarının ilgisini çeker.
 
 ## Ziyaret Bilgileri
 

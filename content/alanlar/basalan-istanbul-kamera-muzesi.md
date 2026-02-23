@@ -1,7 +1,7 @@
 ---
 title: "Başalan İstanbul Kamera Müzesi"
 date: "2026-01-10T15:16:31.226Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949591"
 
 # Başalan İstanbul Kamera Müzesi
 
-İstanbul'un kalbinde, tarihi ve modern yapının iç içe geçtiği bir bölgede yer alan Başalan İstanbul Kamera Müzesi, ziyaretçilerini bekleyen bir hazine. Bu müzenin duvarları arasında, fotoğraf sanatının ve kamera teknolojisindeki gelişmelerin tarihi, zengin bir koleksiyonla sergileniyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilere geniş bir keşif alanı sunuyor. Başalan İstanbul Kamera Müzesi, sadece bir müze değil, aynı zamanda bir eğitim ve kültür merkezi olarak hizmet veriyor.
+İstanbul'un kalbinde, tarihi ve modern yapının iç içe geçtiği bir bölgede yer alan Başalan İstanbul Kamera Müzesi, ziyaretçilerini bekleyen bir hazine. Bu müzenin duvarları arasında, fotoğraf sanatının ve kamera teknolojisindeki gelişmelerin tarihi, zengin bir koleksiyonla sergileniyor. Başalan İstanbul Kamera Müzesi, sadece bir müze değil, aynı zamanda bir eğitim ve kültür merkezi olarak hizmet veriyor.
 
 ## Tarihçe
 

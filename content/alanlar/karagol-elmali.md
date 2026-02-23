@@ -30,7 +30,7 @@ wikidata_id: "Q31190146"
 
 # Karagöl, Elmalı
 
-Elmalı'nın yemyeşil doğası içinde gizli bir hazine olan Karagöl, Antalya'nın en çok ziyaret edilen noktalarından biri. Elmalı ilçesinde bulunan bu doğal göl, etrafındaki dağların eteklerinde bir cennet gibi duruyor. Bölgenin coğrafi yapısı ve iklimi, Karagöl'ü yıl boyunca ziyaret edenler için bir çekim merkezi haline getiriyor. 
+Elmalı'nın yemyeşil doğası içinde gizli bir hazine olan Karagöl, Antalya'nın en çok ziyaret edilen noktalarından biri. Elmalı ilçesinde bulunan bu doğal göl, etrafındaki dağların eteklerinde bir cennet gibi duruyor. Bölgenin coğrafi yapısı ve iklimi, Karagöl'ü yıl boyunca ziyaret edenler için bir çekim merkezi haline getiriyor.
 
 Karagöl, ziyaretçilerini doğanın kucağına davet ediyor ve Elmalı'nın güzelliğini keşfetme fırsatı sunuyor.
 

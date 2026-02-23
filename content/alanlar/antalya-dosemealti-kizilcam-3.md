@@ -22,7 +22,7 @@ wikidata_id: "Q108227848"
 
 # Antalya-Döşemealtı Kızılçam 3
 
-Antalya-Döşemealtı Kızılçam 3 milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennettir. Bu muhteşem alan, ziyaretçilerine çeşitli bitki türleri ve zengin fauna ile büyüleyici bir deneyimi sunar. Parkın içerisinde, yürüyüş yolculukları, piknik alanları ve doğa gözlem noktaları gibi birçok aktivite için uygun alanlar bulunmaktadır. Doğal güzelliği ve zengin ekosistemiyle, bu milli park, hem yerel halk hem de yabancı ziyaretçilerin ilgisini çekmektedir.
+ Bu muhteşem alan, ziyaretçilerine çeşitli bitki türleri ve zengin fauna ile büyüleyici bir deneyimi sunar. Parkın içerisinde, yürüyüş yolculukları, piknik alanları ve doğa gözlem noktaları gibi birçok aktivite için uygun alanlar bulunmaktadır. Doğal güzelliği ve zengin ekosistemiyle, bu milli park, hem yerel halk hem de yabancı ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Döşemealtı Kızılçam 3 milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Antalya-Döşemealtı Kızılçam 3 milli parkı, Akdeniz Bölgesi'nin güneyinde, Antalya ilinin sınırları içerisinde bulunmaktadır. Parkın coğrafi konumu, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunar. Bu bölge, çeşitli coğrafi özelliklere sahip olup, deniz seviyesinden yüksekliği 100-500 metre arasında değişmektedir. Parkın iklimi, Akdeniz ikliminin Characteristics özelliklerine sahiptir; yani, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli bitki türleri ve fauna ile büyüleyici bir deneyimi sunar. Parkın içerisinde, çeşitli su kaynakları, yürüyüş yolculukları, piknik alanları ve doğa gözlem noktaları gibi birçok aktivite için uygun alanlar bulunmaktadır.
+Antalya-Döşemealtı Kızılçam 3 milli parkı, Akdeniz Bölgesi'nin güneyinde, Antalya ilinin sınırları içerisinde bulunmaktadır. Bu bölge, çeşitli coğrafi özelliklere sahip olup, deniz seviyesinden yüksekliği 100-500 metre arasında değişmektedir. Parkın iklimi, Akdeniz ikliminin Characteristics özelliklerine sahiptir; yani, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli bitki türleri ve fauna ile büyüleyici bir deneyimi sunar. Parkın içerisinde, çeşitli su kaynakları, yürüyüş yolculukları, piknik alanları ve doğa gözlem noktaları gibi birçok aktivite için uygun alanlar bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Antalya-Döşemealtı Kızılçam 3 milli parkını ziyaret etmek, doğa severle
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennettir.
 - Parkın flora yapısı, kızılçam, sedir, köknar gibi çeşitli ağaç türlerini içerir.
 - Parkın fauna yapısı, keçiler, yaban domuzları, kurtlar, tilkiler gibi çeşitli hayvan türlerini barındırır.
 - Parkın içerisinde, çeşitli su kaynakları, yürüyüş yolculukları, piknik alanları ve doğa gözlem noktaları gibi birçok aktivite için uygun alanlar bulunmaktadır.

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Zengi Ali Baba Türbesi"
 date: "2026-01-10T07:50:32.481Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391173"
 
 # Şeyh Zengi Ali Baba Türbesi
 
-Şeyh Zengi Ali Baba Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir arada sunan özel bir mekândır. Marmara Bölgesi'nde yer alan bu türbe, Fatih ilçesinde bulunur ve ziyaretçilerini tarihi geçmişinin zenginliği ile karşılar. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Burada, doğal güzellikler ve tarihi yapılar bir arada bulunmakta ve ziyaretçilere benzersiz bir deneyim sunmaktadır.
+Şeyh Zengi Ali Baba Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir arada sunan özel bir mekândır. Marmara Bölgesi'nde yer alan bu türbe, Fatih ilçesinde bulunur ve ziyaretçilerini tarihi geçmişinin zenginliği ile karşılar. Burada, doğal güzellikler ve tarihi yapılar bir arada bulunmakta ve ziyaretçilere benzersiz bir deneyim sunmaktadır.
 
 ## Tarihçe
 

@@ -49,11 +49,11 @@ Adatepe Dağı, çevresindeki ekosistem ile önemli bağlantılar içermektedir.
 
 ## Flora ve Fauna
 
-Adatepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Adatepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünde, ilkbahar aylarında çiçek açan otsu bitkiler ve dikenli çalılar hakimdir. Sonbaharda, dağ yamaçlarında sararan yapraklar, kışın ise karla kaplı zirveler görülmektedir. Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çekmektedir.
 
-Yaban hayatı açısından, dağ keçileri, tilkiler ve çakallar gibi memeliler, kartallar, şahinler ve keklikler gibi kuşlar, ve çeşitli sürüngenler yaşamaktadır. Bu canlılar, dağ ekosisteminin farklı yükseklik zonlarında, kendilerine özgü yaşam alanlarına sahiptirler. 
+Yaban hayatı açısından, dağ keçileri, tilkiler ve çakallar gibi memeliler, kartallar, şahinler ve keklikler gibi kuşlar, ve çeşitli sürüngenler yaşamaktadır. Bu canlılar, dağ ekosisteminin farklı yükseklik zonlarında, kendilerine özgü yaşam alanlarına sahiptirler.
 
 Adatepe'nin ekolojik değeri, bu çeşitlilikte yatmaktadır. Bu dağ ekosisteminin korunması, yalnızca burada yaşayan canlılar için değil, aynı zamanda bölgenin su kaynakları ve toprağı için de önemlidir.
 

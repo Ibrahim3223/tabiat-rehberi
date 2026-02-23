@@ -32,9 +32,9 @@ Diyarbakır'ın zengin tarihine ve doğal güzelliklerine ev sahibi olan "Hırs�
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği stratejik bir noktada yer alır. Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetler, bu topraklarda iz bırakmışlardır. 
+Diyarbakır bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği stratejik bir noktada yer alır. Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetler, bu topraklarda iz bırakmışlardır.
 
-Bölgedeki doğal oluşumlar, zoals "Hırsız Mağaraları", binlerce yıl boyunca insanların yaşayışını ve geçimini etkileyen önemli faktörler olmuştur. Türkiye'de, özellikle güneydoğu bölgesinde, bu tür doğal alanlar, insanların hayatlarına çeşitli şekillerde dahil olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendiren temel faaliyetler arasında yer almıştır. 
+Bölgedeki doğal oluşumlar, zoals "Hırsız Mağaraları", binlerce yıl boyunca insanların yaşayışını ve geçimini etkileyen önemli faktörler olmuştur. Türkiye'de, özellikle güneydoğu bölgesinde, bu tür doğal alanlar, insanların hayatlarına çeşitli şekillerde dahil olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendiren temel faaliyetler arasında yer almıştır.
 
 Bu doğal alanlar, aynı zamanda, bölge halkının kültürel mirasının da bir parçasını oluşturur. İnsanlar, bu alanları yalnızca ekonomik faaliyetler için değil, aynı zamanda dini ve kültürel amaçlar için de kullanmışlardır. "Hırsız Mağaraları" gibi jeolojik oluşumlar, bölgenin zengin tarihsel ve kültürel dokusunun önemli bir bileşenidir.
 
@@ -50,11 +50,11 @@ Doğal çevre açısından, Hırsız Mağaraları, çevresindeki dağlık arazi 
 
 ## Flora ve Fauna
 
-Diyarbakır'ın "Hırsız Mağaraları" jeoparkı, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alıyor. Bu özel alan, step ve ova ekolojisinin yanı sıra orman ekosistemini de barındırıyor. 
+Diyarbakır'ın "Hırsız Mağaraları" jeoparkı, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alıyor. Bu özel alan, step ve ova ekolojisinin yanı sıra orman ekosistemini de barındırıyor.
 
-Bitki örtüsüne baktığımızda, ilkbaharın başlangıcında çiçeklerin rengarenk bir görsel şölen sunmaya başladığını görüyoruz. Mevsimsel değişimlerle birlikte, bu bölgede yer alan ağaçlar ve çalılar farklı bir güzelliğe bürünüyor. 
+Bitki örtüsüne baktığımızda, ilkbaharın başlangıcında çiçeklerin rengarenk bir görsel şölen sunmaya başladığını görüyoruz. Mevsimsel değişimlerle birlikte, bu bölgede yer alan ağaçlar ve çalılar farklı bir güzelliğe bürünüyor.
 
-Yaban hayatı da oldukça zengin. Bu bölgede çeşitli memeli türleri, özellikle de küçük memeliler ve yırtıcılar yaşamını sürdürüyor. Kuşlar ise göç mevsimlerinde bu alanı önemli bir durak olarak kullanıyor. Sürüngenler de bu ekosistemin bir parçasını oluşturuyor. 
+Yaban hayatı da oldukça zengin. Bu bölgede çeşitli memeli türleri, özellikle de küçük memeliler ve yırtıcılar yaşamını sürdürüyor. Kuşlar ise göç mevsimlerinde bu alanı önemli bir durak olarak kullanıyor. Sürüngenler de bu ekosistemin bir parçasını oluşturuyor.
 
 Bu jeoparkın ekolojik değeri, bu farklı habitatların bir arada bulunması ve bölgenin biyolojik çeşitliliğine katkıda bulunmasıyla ölçülüyor. Koruma altına alınması, bu doğal dengenin korunması için çok önemli. Ziyaretçiler, bu özel alanı keşfederken, doğanın güzelliği ve canlıların yaşam mücadelesini yakından gözlemleme fırsatı buluyor.
 

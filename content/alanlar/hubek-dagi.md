@@ -28,7 +28,7 @@ wikidata_id: "Q31385755"
 
 # Hubek Dağı
 
-Kahramanmaraş'ta bulunan Hubek Dağı, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu tepe, çevresindeki diğer tepelerle birlikte bir bütünü oluşturuyor. Hubek Dağı, ziyaretçilerini doğal güzellikleri ve tarihi ile karşılayacak bir destinasyon. Doğa severler ve tarih meraklıları için ideal bir gezi noktası olan Hubek Dağı, ziyaretçilerine unutulmaz bir deneyim sunuyor. Bu dağ, aynı zamanda bölgenin coğrafi yapısını etkileyen önemli bir oluşum.
+ Bu tepe, çevresindeki diğer tepelerle birlikte bir bütünü oluşturuyor. Hubek Dağı, ziyaretçilerini doğal güzellikleri ve tarihi ile karşılayacak bir destinasyon. Bu dağ, aynı zamanda bölgenin coğrafi yapısını etkileyen önemli bir oluşum.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Hubek Dağı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini kar�
 
 ## Ziyaret Bilgileri
 
-Hubek Dağı, ziyaretçilerine unutulmaz bir deneyim sunuyor. Bu dağ, doğa severler ve tarih meraklıları için ideal bir gezi noktası. Ziyaretçiler, dağın.eteklerinde ve çevresinde, tarihi kalıntılar ve eserler bulunmakta. Bu kalıntılar, bölgenin zengin tarihini ve kültürel çeşitliliğini gözler önüne seriyor. Ziyaretçiler, dağın yüksekliğine çıkarak, bölgenin coğrafi yapısını ve doğal güzelliklerini deneyimleyebilir. Bu deneyim, ziyaretçilere tarihin sayfalarında bir yolculuk yapmak için eşsiz bir fırsat sunuyor.
+ Bu dağ, doğa severler ve tarih meraklıları için ideal bir gezi noktası. Ziyaretçiler, dağın.eteklerinde ve çevresinde, tarihi kalıntılar ve eserler bulunmakta. Bu kalıntılar, bölgenin zengin tarihini ve kültürel çeşitliliğini gözler önüne seriyor. Ziyaretçiler, dağın yüksekliğine çıkarak, bölgenin coğrafi yapısını ve doğal güzelliklerini deneyimleyebilir. Bu deneyim, ziyaretçilere tarihin sayfalarında bir yolculuk yapmak için eşsiz bir fırsat sunuyor.
 
 ## İlginç Bilgiler
 

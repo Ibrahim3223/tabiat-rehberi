@@ -1,7 +1,7 @@
 ---
 title: "Silifke Garip Dede Türbesi"
 date: "2026-01-10T06:02:17.407Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390498"
 
 # Silifke Garip Dede Türbesi
 
-Silifke Garip Dede Türbesi, Mersin'in Silifke ilçesinde bulunan tarihi bir türbe ve plaj alanıdır. Bu bölge, 140 hektarlık bir alan kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Silifke Garip Dede Türbesi, hem tarihi önemini hem de doğal güzelliğini ziyaretçilerine sunar. Bu alan, hem dinî bir merkez hem de doğal bir güzellik olarak ziyaretçilerini ağırlar. Tarihi ve doğal güzelliğin birleştiği bu nokta, ziyaretçilerine unutulmaz anlar yaşatır.
+Silifke Garip Dede Türbesi, Mersin'in Silifke ilçesinde bulunan tarihi bir türbe ve plaj alanıdır. Silifke Garip Dede Türbesi, hem tarihi önemini hem de doğal güzelliğini ziyaretçilerine sunar. Bu alan, hem dinî bir merkez hem de doğal bir güzellik olarak ziyaretçilerini ağırlar.
 
 ## Tarihçe
 

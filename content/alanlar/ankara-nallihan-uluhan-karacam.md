@@ -1,7 +1,7 @@
 ---
 title: "Ankara-Nallihan-Uluhan Karacam"
 date: "2026-01-09T20:42:13.957Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Ankara"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227478"
 
 # Ankara-Nallihan-Uluhan Karacam
 
-Ankara-Nallihan-Uluhan Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, Ankara'nın Nallihan ilçesinde bulunuyor ve Uluhan Karacam Dağı'nın eteklerinde kurulmuş. Parkın etrafı, yüksek dağlar ve ormanlarla çevrili, bu da ziyaretçilere hem doğanın güzelliğini hem de dağların heybetini deneyimleme fırsatı sunuyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın zenginliğini gösteriyor.
+Ankara-Nallihan-Uluhan Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu milli park, Ankara'nın Nallihan ilçesinde bulunuyor ve Uluhan Karacam Dağı'nın eteklerinde kurulmuş. Parkın etrafı, yüksek dağlar ve ormanlarla çevrili, bu da ziyaretçilere hem doğanın güzelliğini hem de dağların heybetini deneyimleme fırsatı sunuyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın zenginliğini gösteriyor.
 
 ## Tarihçe
 

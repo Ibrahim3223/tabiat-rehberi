@@ -32,9 +32,9 @@ Van'ın doğusunda yer alan Hasun Dağı, Türkiye'nin önemli coğrafi oluşuml
 
 ## Tarihçe
 
-Van bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölgede, Urartular, Persler, Romalılar ve Selçuklular gibi çeşitli uygarlıklar yaşamıştır. Doğal güzellikleri ve stratejik konumuyla, Van Bölgesi tarih boyunca önemli ticaret yolları üzerinde yer almıştır. 
+Van bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölgede, Urartular, Persler, Romalılar ve Selçuklular gibi çeşitli uygarlıklar yaşamıştır. Doğal güzellikleri ve stratejik konumuyla, Van Bölgesi tarih boyunca önemli ticaret yolları üzerinde yer almıştır.
 
-Bu tür doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir role sahiptir. Örneğin, yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisine katkıda bulunmuştur. Ayrıca, tarihi ticaret yolları, bu alanlardan geçerek, farklı uygarlıkların kültürel alışverişine olanak sağlamıştır. 
+Bu tür doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir role sahiptir. Örneğin, yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisine katkıda bulunmuştur. Ayrıca, tarihi ticaret yolları, bu alanlardan geçerek, farklı uygarlıkların kültürel alışverişine olanak sağlamıştır.
 
 Hasun Dağı, Van Bölgesi'nin bu zengin tarihsel bağlamının bir parçasıdır. Bu dağ, bölgenin coğrafi yapısını şekillendirmiş ve insanların yaşam tarzını etkilemiştir. Yayla ve otlak olarak kullanılan bu alanlar, bölgenin ekonomisine katkıda bulunmuştur. Ayrıca, bölgede yaşayan halkın kültürel ve sosyal yaşamı, bu doğal alanlarla iç içe geçmiştir.
 
@@ -50,11 +50,11 @@ Fiziksel yapısı itibariyle, Hasun Dağı'nın yüksekliği ve büyüklüğü h
 
 ## Flora ve Fauna
 
-Hasun Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ eteklerinde renkli çiçekler açarken, yaz aylarında alpin çayırlar yeşeriyor. 
+Hasun Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ eteklerinde renkli çiçekler açarken, yaz aylarında alpin çayırlar yeşeriyor.
 
-Bitki Örtüsü olarak, hakim türler arasında çeşitli otsu bitkiler ve çalılar yer alıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında renkli çiçekler açmaya başlarken, sonbaharda da bu çiçekler solmaya başlıyor. 
+Bitki Örtüsü olarak, hakim türler arasında çeşitli otsu bitkiler ve çalılar yer alıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında renkli çiçekler açmaya başlarken, sonbaharda da bu çiçekler solmaya başlıyor.
 
-Yaban Hayatı olarak, memeliler ve kuşlar Hasun Dağı'nda sốngluğunu sürdürüyor. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksek zonlarında yaşamını sürdürürken, çeşitli kuş türleri de göç rotalarında burayı ziyaret ediyor. 
+Yaban Hayatı olarak, memeliler ve kuşlar Hasun Dağı'nda sốngluğunu sürdürüyor. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksek zonlarında yaşamını sürdürürken, çeşitli kuş türleri de göç rotalarında burayı ziyaret ediyor.
 
 Ekolojik Değer olarak, Hasun Dağı'nın yüksek dağ ekolojisi ve alpin çayırları, endemik türlerin yaşam alanı olarak büyük önem taşıyor. Bu nedenle, koruma altına alınması ve doğal dengesinin korunması büyük önem taşıyor.
 

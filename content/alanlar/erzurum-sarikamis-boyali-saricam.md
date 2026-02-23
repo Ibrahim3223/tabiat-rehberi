@@ -22,7 +22,7 @@ wikidata_id: "Q108227561"
 
 # Erzurum-Sarikamis-Boyali Saricam
 
-Erzurum-Sarikamis-Boyali Saricam milli parkı, Doğu Anadolu Bölgesi'nin en önemli doğal alanlarından biridir. Yaklaşık 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en büyük milli parklarından biridir. Milli parkın içinde çeşitli bitki türleri ve zengin fauna found. Bu bölge, özellikle doğa severler ve macera arayanlar için ideal bir destinasyondur. Milli parkın içinde çeşitli yürüyüş parkurları ve piknik alanları bulunmaktadır.
+Erzurum-Sarikamis-Boyali Saricam milli parkı, Doğu Anadolu Bölgesi'nin en önemli doğal alanlarından biridir. Milli parkın içinde çeşitli bitki türleri ve zengin fauna found. Bu bölge, özellikle doğa severler ve macera arayanlar için ideal bir destinasyondur. Milli parkın içinde çeşitli yürüyüş parkurları ve piknik alanları bulunmaktadır.
 
 ## Tarihçe
 

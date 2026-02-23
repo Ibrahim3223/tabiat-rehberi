@@ -22,7 +22,7 @@ wikidata_id: "Q108227701"
 
 # Balikesir-Cataldag Mese
 
-Balikesir-Cataldag Mese, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğa severler için bir cennet gibi görünebilir. Mese'nin etrafındaki dağlar ve ormanlar, bu bölgeyi bir doğa harikası haline getirmiştir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çeker. Mese, aynı zamanda bir milli par olup, Türkiye'nin doğal güzelliklerini korumak amacıyla kurulmuştur.
+Balikesir-Cataldag Mese, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Mese'nin etrafındaki dağlar ve ormanlar, bu bölgeyi bir doğa harikası haline getirmiştir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çeker. Mese, aynı zamanda bir milli par olup, Türkiye'nin doğal güzelliklerini korumak amacıyla kurulmuştur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Balikesir-Cataldag Mese'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktad�
 
 ## Coğrafya
 
-Balikesir-Cataldag Mese, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden birisidir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğa severler için bir cennet gibi görünebilir. Mese'nin etrafındaki dağlar ve ormanlar, bu bölgeyi bir doğa harikası haline getirmiştir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çeker. Mese, aynı zamanda bir milli par olup, Türkiye'nin doğal güzelliklerini korumak amacıyla kurulmuştur. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunar. Mese, doğa yürüyüşleri, kampçılık ve doğa fotoğrafçılığı için ideal bir destinasyondur. Burada, ziyaretçiler doğal güzellikleri keşfedebilir ve doğayla iç içe olabilirler.
+Balikesir-Cataldag Mese, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden birisidir. Mese'nin etrafındaki dağlar ve ormanlar, bu bölgeyi bir doğa harikası haline getirmiştir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çeker. Mese, aynı zamanda bir milli par olup, Türkiye'nin doğal güzelliklerini korumak amacıyla kurulmuştur. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunar. Mese, doğa yürüyüşleri, kampçılık ve doğa fotoğrafçılığı için ideal bir destinasyondur. Burada, ziyaretçiler doğal güzellikleri keşfedebilir ve doğayla iç içe olabilirler.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31391290"
 
 # Karakol Dağı
 
-Karakol Dağı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ve fauna ile kaplıdır. Dağın eteklerinde akan akarsular, çevresindeki köylerin yaşam kaynağı olurken, dağdaki çeşitli bitki türleri ve hayvanlar, bu bölgenin ekolojik dengesini sürdürmeye yardımcı oluyor. Karakol Dağı, aynı zamanda bir yürüyüş ve keşif cenneti olarak biliniyor. Dağın zirvesine çıktığınızda, size sunulan manzara, tüm yorgunluğunuzu unutturacak güzellikte.
+Karakol Dağı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Dağın eteklerinde akan akarsular, çevresindeki köylerin yaşam kaynağı olurken, dağdaki çeşitli bitki türleri ve hayvanlar, bu bölgenin ekolojik dengesini sürdürmeye yardımcı oluyor. Karakol Dağı, aynı zamanda bir yürüyüş ve keşif cenneti olarak biliniyor. Dağın zirvesine çıktığınızda, size sunulan manzara, tüm yorgunluğunuzu unutturacak güzellikte.
 
 ## Tarihçe
 

@@ -29,11 +29,11 @@ wikidata_id: "Q134728170"
 
 # Daedala Kaya Mezarı
 
-Daedala Kaya Mezarı, Muğla'nın tarihi zenginliklerini barındıran önemli noktalardan biridir. Bu kaya mezarı, Ege Bölgesi'nin coğrafi güzelliği ile tarihi değerlerini bir araya getiren özel bir yerdir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplar. Bu geniş alan, ziyaretçilere hem doğal güzellikleri hem de tarihi yapıları keşfetme fırsatı sunar. Daedala Kaya Mezarı, ziyaretçilerini tarihin sâu sayfalarına götürerek, geçmişin gizemini keşfetmek isteyenler için önemli bir destinasyondur.
+Daedala Kaya Mezarı, Muğla'nın tarihi zenginliklerini barındıran önemli noktalardan biridir. Bu kaya mezarı, Ege Bölgesi'nin coğrafi güzelliği ile tarihi değerlerini bir araya getiren özel bir yerdir. Bu geniş alan, ziyaretçilere hem doğal güzellikleri hem de tarihi yapıları keşfetme fırsatı sunar. Daedala Kaya Mezarı, ziyaretçilerini tarihin derin sayfalarına götürerek, geçmişin gizemini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
-Daedala Kaya Mezarı'nın tarihi geçmişi, yüzyıllar öncesine uzanır. Bu kaya mezarları, eski uygarlıkların yaşam tarzını ve ölümü algılayışını yansıtan önemli tarihi eserlerdir. Tarihi kayıtlar, bu mezarların inşa edilme amacını ve kullanılan teknikleri ayrıntılı olarak açıklar. Daedala Kaya Mezarı, geçmişin önemli bir parçasını günümüze taşımakta ve ziyaretçilere tarihin derinliklerini keşfetme fırsatı sunmaktadır. Bu mezarlar, tarihi ve kültürel önemi nedeniyle, ziyaretçilerin büyük ilgi gösterdiği yerlerdir. Tarihi geçmişi ve kültürel önemi ile Daedala Kaya Mezarı, Muğla'nın önemli turistik noktalarından biridir.
+Daedala Kaya Mezarı'nın tarihi geçmişi, yüzyıllar öncesine uzanır. Bu kaya mezarları, eski uygarlıkların yaşam tarzını ve ölümü algılayışını yansıtan önemli tarihi eserlerdir. Tarihi kayıtlar, bu mezarların inşa edilme amacını ve kullanılan teknikleri ayrıntılı olarak açıklar. Bu mezarlar, tarihi ve kültürel önemi nedeniyle, ziyaretçilerin büyük ilgi gösterdiği yerlerdir. Tarihi geçmişi ve kültürel önemi ile Daedala Kaya Mezarı, Muğla'nın önemli turistik noktalarından biridir.
 
 ## Coğrafya
 

@@ -29,7 +29,7 @@ wikidata_id: "Q124159489"
 
 # Alemşah Kümbeti
 
-Alemşah Kümbeti, İç Anadolu Bölgesi'nde yer alan tarihi bir yapıdır. Bu kümbet, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Alemşah Kümbeti, ziyaretçiler için önemli bir kültürel ve tarihi destinasyon olarak kabul edilir. Burada, tarihi yapıların güzelliğini ve bölgenin doğal güzelliklerini bir arada görebilirsiniz. Alemşah Kümbeti, aynı zamanda bölgenin tarihi geçmişini öğrenmek isteyenler için önemli bir merkezdir.
+Alemşah Kümbeti, İç Anadolu Bölgesi'nde yer alan tarihi bir yapıdır. Bu kümbet, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Alemşah Kümbeti, ziyaretçiler için önemli bir kültürel ve tarihi destinasyon olarak kabul edilir. Burada, tarihi yapıların güzelliğini ve bölgenin doğal güzelliklerini bir arada görebilirsiniz. Alemşah Kümbeti, aynı zamanda bölgenin tarihi geçmişini öğrenmek isteyenler için önemli bir merkezdir.
 
 ## Tarihçe
 

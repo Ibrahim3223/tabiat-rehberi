@@ -22,7 +22,7 @@ wikidata_id: "Q108228862"
 
 # Aksehir,Eber Golu Sulak Alanı
 
-Aksehir,Eber Golu Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini korumada önemli bir rol oynuyor. Bu sulak alan, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet veriyor. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu alan, aynı zamanda bölgenin turizm potansiyelini artırıyor.
+Aksehir,Eber Golu Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olarak karşımıza çıkıyor. Bu sulak alan, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet veriyor. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu alan, aynı zamanda bölgenin turizm potansiyelini artırıyor.
 
 ## Tarihçe
 

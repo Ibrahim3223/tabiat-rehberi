@@ -34,7 +34,7 @@ Türkiye'nin dağlık bölgeleri arasında yer alan Alandaş Dağı, ziyaretçil
 
 ## Tarihçe
 
-Alandaş Dağı, Türkiye'nin zengin tarihi ve kültürel mirasının bir parçası olan bir bölgede yer alıyor. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşam alanı olmuş; Hititler, Persler, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada izlerini bırakmışlar. 
+Alandaş Dağı, Türkiye'nin zengin tarihi ve kültürel mirasının bir parçası olan bir bölgede yer alıyor. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşam alanı olmuş; Hititler, Persler, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada izlerini bırakmışlar.
 
 İnsanların doğal alanlarla olan ilişkisi, tarih boyunca hayvancılık, yaylacılık ve ticaret yolları gibi faaliyetlerle şekillenmiştir. Türkiye'de, özellikle dağlık ve ormanlık alanlar, binlerce yıl boyunca insanların yaşamını sürdürdüğü, tarım ve hayvancılıkla uğraştığı önemli merkezler olarak görev görmüşlerdir. Bu tür doğal alanlar, sadece yerel halkın yaşam kaynağı değil, aynı zamanda ticaret yolları ve stratejik noktalara da ev sahipliği yapmışlardır.
 

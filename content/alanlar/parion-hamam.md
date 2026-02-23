@@ -1,7 +1,7 @@
 ---
 title: "Parion Hamam"
 date: "2026-01-09T23:47:29.162Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245784"
 
 # Parion Hamam
 
-Parion Hamam, Çanakkale'nin Biga ilçesinde yer alan ve Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan tarihi bir plajdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Parion Hamam, doğal güzelliği ve tarihi önemi ile ziyaretçilerini cezbeden bir destinasyondur. Burada, denizin ve güneşin tadını çıkarma mümkün olduğu gibi, aynı zamanda tarihi kalıntıları keşfetmek de mümkündür. Bu bölge, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
+Parion Hamam, Çanakkale'nin Biga ilçesinde yer alan ve Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan tarihi bir plajdır. Parion Hamam, doğal güzelliği ve tarihi önemi ile ziyaretçilerini cezbeden bir destinasyondur. Burada, denizin ve güneşin tadını çıkarma mümkün olduğu gibi, aynı zamanda tarihi kalıntıları keşfetmek de mümkündür. Bu bölge, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Parion Hamam ve çevresinin flora ve faunası, oldukça zengin ve çeşitli bir 
 
 ## Ziyaret Bilgileri
 
-Parion Hamam'a ziyaret için en uygun zaman, ilkbahar ve yaz aylarıdır. Bu dönemde, hava sıcak ve güneşli olup, denize girme ve güneşlenmek için idealdir. Parion Hamam'a ulaşım, Biga ilçesinden kolayca sağlanabilir. Biga'dan Parion Hamam'a düzenli olarak toplu taşıma araçları çalışmaktadır. Ayrıca, özel araçlarla da ulaşımümkün olup, geniş otopark alanı mevcuttur. Parion Hamam'da, ziyaretçilerin çeşitli etkinlikler yapabilmesi mümkündür. Denizde yüzmek, güneş banyosu yapmak, históriki kalıntıları keşfetme ve doğa yürüyüşleri yapmak, bu etkinliklerden bazılarıdır.
+Parion Hamam'a ziyaret için en uygun zaman, ilkbahar ve yaz aylarıdır. Bu dönemde, hava sıcak ve güneşli olup, denize girme ve güneşlenmek için idealdir. Parion Hamam'a ulaşım, Biga ilçesinden kolayca sağlanabilir. Biga'dan Parion Hamam'a düzenli olarak toplu taşıma araçları çalışmaktadır. Ayrıca, özel araçlarla da ulaşımümkün olup, geniş otopark alanı mevcuttur. Parion Hamam'da, ziyaretçilerin çeşitli etkinlikler yapabilmesi mümkündür. Denizde yüzmek, güneş banyosu yapmak, tarihi kalıntıları keşfetme ve doğa yürüyüşleri yapmak, bu etkinliklerden bazılarıdır.
 
 ## İlginç Bilgiler
 

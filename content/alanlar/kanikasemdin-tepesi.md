@@ -28,7 +28,7 @@ wikidata_id: "Q31544692"
 
 # Kanıkaşemdın Tepesi
 
-Kanıkaşemdın Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan ve doğal güzellikleri ile tarihi zenginlikleriyle dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ki bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Kanıkaşemdın Tepesi, Batman'ın önemli doğal ve kültürel miraslarından biri olarak kabul ediliyor. Tepenin eteklerinde ve etrafında yer alan yerleşim yerleri, bu bölgenin tarihi geçmişi hakkında önemli bilgiler veriyor. Kanıkaşemdın Tepesi, ziyaretçilerini hem doğal güzellikleriyle hem de tarihi zenginlikleriyle karşılayan bir destinasyon.
+Kanıkaşemdın Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan ve doğal güzellikleri ile tarihi zenginlikleriyle dikkat çeken bir tepe. Kanıkaşemdın Tepesi, Batman'ın önemli doğal ve kültürel miraslarından biri olarak kabul ediliyor. Tepenin eteklerinde ve etrafında yer alan yerleşim yerleri, bu bölgenin tarihi geçmişi hakkında önemli bilgiler veriyor. Kanıkaşemdın Tepesi, ziyaretçilerini hem doğal güzellikleriyle hem de tarihi zenginlikleriyle karşılayan bir destinasyon.
 
 ## Tarihçe
 

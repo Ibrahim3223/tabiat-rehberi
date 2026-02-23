@@ -22,7 +22,7 @@ wikidata_id: "Q108227560"
 
 # Erzurum-Ispir Saricam
 
-Erzurum-Ispir Saricam milli parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ile ziyaretçilerini doğal güzelliklerle baş başa bırakıyor. Doğu Anadolu Bölgesi'nin önemli doğa destinasyonlarından biri olan bu milli park, zengin flora ve faunası ile dikkat çekiyor. Saricam, ziyaretçilerine hem doğal güzellikleri keşfetme hem de çeşitli etkinliklerle dolu bir gün geçirmek için ideal bir ortam sunuyor.
+ Doğu Anadolu Bölgesi'nin önemli doğa destinasyonlarından biri olan bu milli park, zengin flora ve faunası ile dikkat çekiyor. Saricam, ziyaretçilerine hem doğal güzellikleri keşfetme hem de çeşitli etkinliklerle dolu bir gün geçirmek için ideal bir ortam sunuyor.
 
 ## Tarihçe
 

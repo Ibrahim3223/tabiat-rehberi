@@ -50,7 +50,7 @@ Bölgenin ekosistem bağlantıları açısından önemli bir role sahip olan Seh
 
 ## Flora ve Fauna
 
-Seher Dağı, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
+Seher Dağı, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
 
 Bitki örtüsüne baktığımızda, ilkbahar aylarında dağ yamaçları renkli çiçeklerle donanıyor. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına göre değişen alpin flora, dağların farklı yüksekliklerinde farklı bitki türlerini barındırıyor.
 

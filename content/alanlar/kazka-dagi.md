@@ -48,11 +48,11 @@ Jeolojik açıdan incelendiğinde, Kazka Dağı'nın cụ thể fiziksel veriler
 
 ## Flora ve Fauna
 
-Kazka Dağı, yüksek dağ ekolojisinin tüm güzelliğini bünyesinde barındıran bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kazka Dağı, yüksek dağ ekolojisinin tüm güzelliğini bünyesinde barındıran bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü: İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle kaplanır. Çam, köknar ve ladin gibi yükseklikseven ağaç türleri, dağ eteklerini süsler. 
+Bitki Örtüsü: İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle kaplanır. Çam, köknar ve ladin gibi yükseklikseven ağaç türleri, dağ eteklerini süsler.
 
-Yaban Hayatı: Dağ keçileri ve yaban keçileri, bu dağların hakimidir. Göç mevsiminde, çeşitli kuş türleri görülebilir. 
+Yaban Hayatı: Dağ keçileri ve yaban keçileri, bu dağların hakimidir. Göç mevsiminde, çeşitli kuş türleri görülebilir.
 
 Ekolojik Değer: Bu dağlar, birçok endemik türün yaşam alanını oluşturur. Koruma altına alınması gereken bir bölge olarak, doğa severlerin ilgisini çekmektedir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Filibeli Tevfik Mehmet Türbesi"
 date: "2026-01-10T06:28:24.871Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390719"
 
 # Filibeli Tevfik Mehmet Türbesi
 
-Filibeli Tevfik Mehmet Türbesi, Bolu'nun Mudurnu ilçesinde yer alan ve tarihi değeri yüksek bir dini ziyaret noktası olarak bilinir. Bu türbe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Türbenin etrafındaki doğal güzellikler ve historical değerler, ziyaretçilere zengin bir deneyim sunuyor. Türbenin mimarisi, geleneksel Türk mimari ögeleriyle dikkat çekiyor ve çevredeki peyzajla uyumlu bir şekilde tasarlanmış.
+Filibeli Tevfik Mehmet Türbesi, Bolu'nun Mudurnu ilçesinde yer alan ve tarihi değeri yüksek bir dini ziyaret noktası olarak bilinir. Türbenin etrafındaki doğal güzellikler ve historical değerler, ziyaretçilere zengin bir deneyim sunuyor. Türbenin mimarisi, geleneksel Türk mimari ögeleriyle dikkat çekiyor ve çevredeki peyzajla uyumlu bir şekilde tasarlanmış.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Filibeli Tevfik Mehmet Türbesi, tarihi geçmişiyle dikkat çekiyor. Türbenin 
 
 ## Coğrafya
 
-Filibeli Tevfik Mehmet Türbesi, Karadeniz Bölgesi'nin Bolu ilinin Mudurnu ilçesinde yer alıyor. Türbe, 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Türbenin etrafındaki coğrafya, dağlık ve ormanlık alanlardan oluşuyor. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşıyor ve yağış miktarı oldukça yüksek. Türbenin yakınında, çeşitli nehirler ve akarsular yer alıyor ve bu su kaynakları, çevredeki ekosistemi besliyor. Türbenin mimarisi, çevredeki coğrafyaya uygun bir şekilde tasarlanmış ve doğal güzelliklerle uyumlu bir şekilde inşa edilmiştir.
+Filibeli Tevfik Mehmet Türbesi, Karadeniz Bölgesi'nin Bolu ilinin Mudurnu ilçesinde yer alıyor. Türbenin etrafındaki coğrafya, dağlık ve ormanlık alanlardan oluşuyor. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşıyor ve yağış miktarı oldukça yüksek. Türbenin yakınında, çeşitli nehirler ve akarsular yer alıyor ve bu su kaynakları, çevredeki ekosistemi besliyor. Türbenin mimarisi, çevredeki coğrafyaya uygun bir şekilde tasarlanmış ve doğal güzelliklerle uyumlu bir şekilde inşa edilmiştir.
 
 ## Flora ve Fauna
 

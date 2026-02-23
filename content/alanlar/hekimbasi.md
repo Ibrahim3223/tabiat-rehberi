@@ -23,7 +23,7 @@ wikidata_id: "Q108228651"
 
 # HEKİMBAŞI
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Hekimbaşı milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğanın güzelliklerini keşfetmek için sonsuz olanaklar sunar. Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösterir. Hekimbaşı milli parkı, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir.
+ Bu geniş alan, ziyaretçilere doğanın güzelliklerini keşfetmek için sonsuz olanaklar sunar. Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösterir. Hekimbaşı milli parkı, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Hekimbaşı milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Hekimbaşı milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösterir. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine benzer. Parkın coğrafi konumu, ziyaretçilere, bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Hekimbaşı milli parkı, ziyaretçilere, doğanın güzelliklerini keşfetmek için sonsuz olanaklar sunar. Parkın coğrafi özellikleri, ziyaretçilere, bu özel yerin neden bu kadar önemli olduğunu gösterir.
+Hekimbaşı milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösterir. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine benzer. Parkın coğrafi konumu, ziyaretçilere, bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Hekimbaşı milli parkı, ziyaretçilere, doğanın güzelliklerini keşfetmek için sonsuz olanaklar sunar. Parkın coğrafi özellikleri, ziyaretçilere, bu özel yerin neden bu kadar önemli olduğunu gösterir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Hekimbaşı milli parkını ziyaret etmek, doğa severler ve tarih meraklıları
 
 ## İlginç Bilgiler
 
-- Hekimbaşı milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkın flora ve fauna, ziyaretçilere, doğanın gerçek yüzünü gösterir.
 - Parkın coğrafi konumu, ziyaretçilere, bölgenin doğal güzelliklerini keşfetme fırsatı sunar.
 - Hekimbaşı milli parkı, doğa severler ve tarih meraklıları için bir hazine niteliğindedir.

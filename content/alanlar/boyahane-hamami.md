@@ -1,7 +1,7 @@
 ---
 title: "Boyahane Hamamı"
 date: "2026-01-09T22:22:50.010Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738423"
 
 # Boyahane Hamamı
 
-Boyahane Hamamı, Doğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak dikkat çekmektedir. Yakutiye/Erzurum'da bulunan bu plaj, yaklaşık 140 hektarlık bir alana yayılmaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş ve ferah bir ortam sunmaktadır. Boyahane Hamamı, doğal güzelliği ve temizliği ile ziyaretçilerini cezbeden bir destinasyon olarak bilinmektedir. Plajın çevresinde, çeşitli restoranlar ve kafeler bulunmaktadır. Bu restoranlarda, yerel lezzetler ve deniz ürünleri tadabilirsiniz.
+Boyahane Hamamı, Doğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak dikkat çekmektedir. Yakutiye/Erzurum'da bulunan bu plaj, yaklaşık 140 hektarlık bir alana yayılmaktadır. Boyahane Hamamı, doğal güzelliği ve temizliği ile ziyaretçilerini cezbeden bir destinasyon olarak bilinmektedir. Plajın çevresinde, çeşitli restoranlar ve kafeler bulunmaktadır. Bu restoranlarda, yerel lezzetler ve deniz ürünleri tadabilirsiniz.
 
 ## Tarihçe
 

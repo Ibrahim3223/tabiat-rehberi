@@ -1,7 +1,7 @@
 ---
 title: "Ümmü Sultan Türbesi"
 date: "2026-01-10T06:56:04.827Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390833"
 
 # Ümmü Sultan Türbesi
 
-Ümmü Sultan Türbesi, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. İzmir'in Ödemiş ilçesinde yer alan bu plaj, 140 hektarlık bir alan üzerinde kurulmuştur. Yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunan Ümmü Sultan Türbesi, hem doğa severlerin hem de plaj severlerin ilgi odağı olmuştur. Plajın çevresinde çeşitli bitki türleri bulunur ve zengin bir fauna sahiptir. Ümmü Sultan Türbesi, aynı zamanda tarihi bir geçmişe sahiptir ve bölgede yapılan kazılarda çeşitli tarihi eserler bulunmuştur.
+Ümmü Sultan Türbesi, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. İzmir'in Ödemiş ilçesinde yer alan bu plaj, 140 hektarlık bir alan üzerinde kurulmuştur. Plajın çevresinde çeşitli bitki türleri bulunur ve zengin bir fauna sahiptir. Ümmü Sultan Türbesi, aynı zamanda tarihi bir geçmişe sahiptir ve bölgede yapılan kazılarda çeşitli tarihi eserler bulunmuştur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131390833"
 
 ## Coğrafya
 
-Ümmü Sultan Türbesi, İzmir'in Ödemiş ilçesinde yer alır ve Ege Bölgesi'nin en güzel plajlarından biridir. Plaj, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Plajın çevresinde çeşitli bitki türleri bulunur ve zengin bir fauna sahiptir. Ümmü Sultan Türbesi, aynı zamanda bölgede önemli bir coğrafi merkez olarak kabul edilir ve birçok ziyaretçi, bu güzel mekânı görmek için gelir. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak sıcak ve kurudur. Yaz aylarında plaj, birçok ziyaretçiyi çekmektedir ve bölgede çeşitli turistik tesisler bulunmaktadır.
+Ümmü Sultan Türbesi, İzmir'in Ödemiş ilçesinde yer alır ve Ege Bölgesi'nin en güzel plajlarından biridir. Plajın çevresinde çeşitli bitki türleri bulunur ve zengin bir fauna sahiptir. Ümmü Sultan Türbesi, aynı zamanda bölgede önemli bir coğrafi merkez olarak kabul edilir ve birçok ziyaretçi, bu güzel mekânı görmek için gelir. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak sıcak ve kurudur. Yaz aylarında plaj, birçok ziyaretçiyi çekmektedir ve bölgede çeşitli turistik tesisler bulunmaktadır.
 
 ## Flora ve Fauna
 

@@ -28,11 +28,11 @@ wikidata_id: "Q31386694"
 
 # Kanuka Tepesi
 
-Kanuka Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir noktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin zengin tarihine götürmektedir. Tepenin eteklerinde yer alan tarihi eserler ve çevredeki doğal güzellikler, ziyaretçilere şehrin kültürel ve doğal zenginliklerini sunmaktadır. Kanuka Tepesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Kanuka Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir noktadır. Tepenin eteklerinde yer alan tarihi eserler ve çevredeki doğal güzellikler, ziyaretçilere şehrin kültürel ve doğal zenginliklerini sunmaktadır. Kanuka Tepesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
-Kanuka Tepesi, Diyarbakır'ın tarihi geçmişiçerisinde önemli bir yere sahiptir. Tarihi kayıtlara göre, bu tepe yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu bölgeye kendi kültürünü bırakmıştır. Tepenin çevresinde yer alan tarihi eserler, bu bölgenin zengin tarihini gözler önüne sermektedir. Kanuka Tepesi, Diyarbakır'ın kültürel mirasının önemli bir parçası olarak kabul edilmektedir. Tepenin tarihi geçmişi, çeşitli uygarlıkların izlerini taşımaktadır ve ziyaretçilere şehrin derin tarihini keşfetme fırsatı sunmaktadır.
+Kanuka Tepesi, Diyarbakır'ın tarihi geçmişiçerisinde önemli bir yere sahiptir. Tarihi kayıtlara göre, bu tepe yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu bölgeye kendi kültürünü bırakmıştır. Tepenin çevresinde yer alan tarihi eserler, bu bölgenin zengin tarihini gözler önüne sermektedir. Kanuka Tepesi, Diyarbakır'ın kültürel mirasının önemli bir parçası olarak kabul edilmektedir.
 
 ## Coğrafya
 
@@ -40,7 +40,7 @@ Kanuka Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak
 
 ## Flora ve Fauna
 
-Kanuka Tepesi, çevresindeki doğal güzellikleri ile birlikte, çeşitli bitki türleri ve hayvanları barındırmaktadır. Tepenin eteklerinde yer alan ormanlar, bölgenin ekolojik dengesini korumaktadır ve birçok hayvan türünün yaşam alanı olarak hizmet vermektedir. Mevsimsel değişimler, bölgenin flora ve faunasını etkilemekte ve her mevsim farklı bir güzelliği ziyaretçilere sunmaktadır. Kanuka Tepesi, ziyaretçilere doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunmaktadır.
+Kanuka Tepesi, çevresindeki doğal güzellikleri ile birlikte, çeşitli bitki türleri ve hayvanları barındırmaktadır. Tepenin eteklerinde yer alan ormanlar, bölgenin ekolojik dengesini korumaktadır ve birçok hayvan türünün yaşam alanı olarak hizmet vermektedir. Mevsimsel değişimler, bölgenin flora ve faunasını etkilemekte ve her mevsim farklı bir güzelliği ziyaretçilere sunmaktadır.
 
 ## Ziyaret Bilgileri
 

@@ -52,7 +52,7 @@ Batman'ın yüksekliklerinde yer alan Aydın Tepe, yarı kurak iklimin hakim old
 
 Bu dağlık alanda, step ve ova ekolojisi hakim olduğundan, yaban hayatı da buna uygun olarak şekilleniyor. Memeliler, özellikle dağ keçileri ve yaban domuzları, bu bölgenin karakteristik hayvanları arasında yer alıyor. Kuşlar ise, sonbahar aylarında göç eden türlerin uğrak noktalarından biri haline geliyor. Sürüngenler de, dağlık alanın kaya ve taşlık bölgelerinde yaşamını sürdürüyor.
 
-Aydın Tepe'nin ekolojik değeri, bu bölgenin flora ve fauna çeşitliliği nedeniyle oldukça yüksek. Bu dağlık alan, bölgenin su kaynaklarının korunması ve toprak erozyonunun önlenmesi açısından da önemli bir rol oynuyor. Ancak, koruma durumuyla ilgili çalışmalar hâlâ devam ediyor. Bu nedenle, Aydın Tepe'nin doğal güzelliklerinin korunması ve gelecek nesiller için bảolanması oldukça önemli.
+Aydın Tepe'nin ekolojik değeri, bu bölgenin flora ve fauna çeşitliliği nedeniyle oldukça yüksek. Bu dağlık alan, bölgenin su kaynaklarının korunması ve toprak erozyonunun önlenmesi açısından da önemli bir rol oynuyor. Ancak, koruma durumuyla ilgili çalışmalar hâlâ devam ediyor. Bu nedenle, Aydın Tepe'nin doğal güzelliklerinin korunması ve gelecek nesiller için korunması oldukça önemli.
 
 ## Ziyaret Bilgileri
 

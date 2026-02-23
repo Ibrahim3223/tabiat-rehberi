@@ -28,7 +28,7 @@ wikidata_id: "Q31544106"
 
 # Maharabutı Tepesi
 
-Maharabutı Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Batman ilinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir tepe olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu ölçek, tekenin büyüklüğünü somut bir şekilde gösteriyor. Maharabutı Tepesi, Batman'ın coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir nokta olarak biliniyor. Tepe, bölgenin tarihi geçmişi ve kültürel zenginliği hakkında da önemli bilgiler sunuyor.
+Maharabutı Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Batman ilinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir tepe olarak dikkat çekiyor. Maharabutı Tepesi, Batman'ın coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir nokta olarak biliniyor. Tepe, bölgenin tarihi geçmişi ve kültürel zenginliği hakkında da önemli bilgiler sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Maharabutı Tepesi'nin tarihi geçmişi, bölgenin kültürel ve tarihi zenginli
 
 ## Coğrafya
 
-Maharabutı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir nokta olarak biliniyor. Tepe, Batman ilinin coğrafi yapısını ve doğal güzelliklerini gösteren geniş bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu ölçek, tekenin büyüklüğünü somut bir şekilde gösteriyor. Maharabutı Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir nokta olarak biliniyor. Tepe, Batman'ın coğrafi yapısını ve doğal güzelliklerini gösteren önemli bir bölge olarak görülüyor. Maharabutı Tepesi'nin coğrafi konumu, bölgenin iklimini ve çevresini de etkiliyor. Tepe, bölgenin iklimini ve çevresini yansıtan önemli bir nokta olarak biliniyor.
+Maharabutı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir nokta olarak biliniyor. Tepe, Batman ilinin coğrafi yapısını ve doğal güzelliklerini gösteren geniş bir alanı kapsıyor. Maharabutı Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir nokta olarak biliniyor. Tepe, Batman'ın coğrafi yapısını ve doğal güzelliklerini gösteren önemli bir bölge olarak görülüyor. Maharabutı Tepesi'nin coğrafi konumu, bölgenin iklimini ve çevresini de etkiliyor. Tepe, bölgenin iklimini ve çevresini yansıtan önemli bir nokta olarak biliniyor.
 
 ## Flora ve Fauna
 

@@ -50,9 +50,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Huati Tepesi'nin çevrese
 
 ## Flora ve Fauna
 
-Huati Tepesi, yarı kurak iklimin hakim olduğu bir dağ ekosisteminde yer alıyor. Bu bölgede, step ve ova ekolojisinin etkileri açıkça görülüyor. Dağın farklı yükseklik zonlarında, alpin flora çeşitliliği dikkat çekiyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanıyor. 
+Huati Tepesi, yarı kurak iklimin hakim olduğu bir dağ ekosisteminde yer alıyor. Bu bölgede, step ve ova ekolojisinin etkileri açıkça görülüyor. Dağın farklı yükseklik zonlarında, alpin flora çeşitliliği dikkat çekiyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanıyor.
 
-Bitki örtüsünün hakim türleri arasında çalı ve otsu bitkiler bulunuyor. Mevsimsel değişimlere bağlı olarak, sonbaharda dağ yollarında göç eden kuş sürüleri izlenebiliyor. Yaban hayatı da oldukça zengin; dağ keçileri, tilkiler ve çeşitli kuş türleri bu bölgede yaşamını sürdürüyor. Sürüngenler de yükseklik zonalarına bağlı olarak farklı türlerle temsil ediliyor. 
+Bitki örtüsünün hakim türleri arasında çalı ve otsu bitkiler bulunuyor. Mevsimsel değişimlere bağlı olarak, sonbaharda dağ yollarında göç eden kuş sürüleri izlenebiliyor. Yaban hayatı da oldukça zengin; dağ keçileri, tilkiler ve çeşitli kuş türleri bu bölgede yaşamını sürdürüyor. Sürüngenler de yükseklik zonalarına bağlı olarak farklı türlerle temsil ediliyor.
 
 Huati Tepesi, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin su döngüsü ve toprağın korunması için de kritik öneme sahiptir.
 

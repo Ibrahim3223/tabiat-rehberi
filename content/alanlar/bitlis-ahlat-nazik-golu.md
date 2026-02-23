@@ -23,7 +23,7 @@ wikidata_id: "Q108228970"
 
 # BITLIS AHLAT NAZIK GÖLÜ
 
-Bitlis Ahlat Nazik Gölü, İç Anadolu Bölgesi'nin doğal güzelliklerini ve tarihi geçmişi ile ziyaretçilerini bekleyen bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte yaklaşık 1000 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu büyük alan, çeşitli bitki türleri ve zengin fauna ile dolu. Nazik Gölü'nün suyu, çevredeki dağlardan gelen kaynak suları ile besleniyor ve gölün suyu, bölgede yaşayan için önemli bir su kaynağı.
+Bitlis Ahlat Nazik Gölü, İç Anadolu Bölgesi'nin doğal güzelliklerini ve tarihi geçmişi ile ziyaretçilerini bekleyen bir destinasyon. Bu büyük alan, çeşitli bitki türleri ve zengin fauna ile dolu. Nazik Gölü'nün suyu, çevredeki dağlardan gelen kaynak suları ile besleniyor ve gölün suyu, bölgede yaşayan için önemli bir su kaynağı.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Bitlis Ahlat Nazik Gölü'nün tarihi geçmişi, yüzyıllar öncesine dayanıyo
 
 ## Coğrafya
 
-Bitlis Ahlat Nazik Gölü, İç Anadolu Bölgesi'nin coğrafi yapısı ile birlikte, ziyaretçileri için bir doğa harikası sunuyor. Göl, çevresi ile birlikte yaklaşık 1000 futbol sahası büyüklüğünde bir alanı kaplıyor ve 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Gölün suyu, çevredeki dağlardan gelen kaynak suları ile besleniyor ve gölün suyu, bölgede yaşayan için önemli bir su kaynağı. Nazik Gölü'nün çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Gölün coğrafi yapısı, ziyaretçileri için unutulmaz bir deneyim sunuyor. Gölün çevresinde, çeşitli yürüyüş parkurları ve piknik alanları bulunuyor. Ziyaretçiler, gölün çevresinde yürüyüş yaparak, doğanın güzelliklerini keşfedebilir ve gölün suyu ile birlikte, bölgede yaşayan canlıları gözlemleyebilir.
+Bitlis Ahlat Nazik Gölü, İç Anadolu Bölgesi'nin coğrafi yapısı ile birlikte, ziyaretçileri için bir doğa harikası sunuyor. Gölün suyu, çevredeki dağlardan gelen kaynak suları ile besleniyor ve gölün suyu, bölgede yaşayan için önemli bir su kaynağı. Nazik Gölü'nün çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Gölün coğrafi yapısı, ziyaretçileri için unutulmaz bir deneyim sunuyor. Gölün çevresinde, çeşitli yürüyüş parkurları ve piknik alanları bulunuyor. Ziyaretçiler, gölün çevresinde yürüyüş yaparak, doğanın güzelliklerini keşfedebilir ve gölün suyu ile birlikte, bölgede yaşayan canlıları gözlemleyebilir.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Mahmud Paşa Türbesi"
 date: "2026-01-10T07:24:48.191Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391022"
 
 # Mahmud Paşa Türbesi
 
-Marmara Bölgesi'nin önemli tarihi mekanlarından biri olan Mahmud Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alır. Bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde kurulmuştur. Mahmud Paşa Türbesi, ziyaretçilerini tarihi bir atmosfere davet eder. İstanbul'un kalbinde yer alan bu tarihi mekan, şehrin zengin tarihinde önemli bir yer tutar.
+Marmara Bölgesi'nin önemli tarihi mekanlarından biri olan Mahmud Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alır. Mahmud Paşa Türbesi, ziyaretçilerini tarihi bir atmosfere davet eder. İstanbul'un kalbinde yer alan bu tarihi mekan, şehrin zengin tarihinde önemli bir yer tutar.
 
 ## Tarihçe
 

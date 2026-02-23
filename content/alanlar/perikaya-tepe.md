@@ -28,7 +28,7 @@ wikidata_id: "Q31386979"
 
 # Perikaya Tepe
 
-Perikaya Tepe, Artvin'in gizli bir köşesinde yer alan ve Karadeniz Bölgesi'nin doğal güzelliklerini sunan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Perikaya Tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon. Bu tepe, ziyaretçilerine geniş bir manzara sunuyor ve Karadeniz Bölgesi'nin eşsiz güzelliklerini keşfetme fırsatı veriyor. Perikaya Tepe, bir doğa harikası olarak karşımıza çıkıyor ve ziyaretçilerini etkileyici bir deneyime davet ediyor.
+Perikaya Tepe, Artvin'in gizli bir köşesinde yer alan ve Karadeniz Bölgesi'nin doğal güzelliklerini sunan bir tepe. Perikaya Tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon. Bu tepe, ziyaretçilerine geniş bir manzara sunuyor ve Karadeniz Bölgesi'nin eşsiz güzelliklerini keşfetme fırsatı veriyor. Perikaya Tepe, bir doğa harikası olarak karşımıza çıkıyor ve ziyaretçilerini etkileyici bir deneyime davet ediyor.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Perikaya Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve çeşit
 
 ## Coğrafya
 
-Perikaya Tepe, Artvin'in doğusunda yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Perikaya Tepe, deniz seviyesinden yüksek bir konumda yer alıyor ve ziyaretçilerine geniş bir manzara sunuyor. Bu tepe, çevresindeki dağların arasında yer alıyor ve Karadeniz Bölgesi'nin eşsiz güzelliklerini keşfetme fırsatı veriyor. Perikaya Tepe'nin iklimi, Karadeniz Bölgesi'nin iklimine benzer ve bu tepe, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor. Perikaya Tepe, çevresindeki ormanlarla çevrili ve bu ormanlar, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
+Perikaya Tepe, Artvin'in doğusunda yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Perikaya Tepe, deniz seviyesinden yüksek bir konumda yer alıyor ve ziyaretçilerine geniş bir manzara sunuyor. Bu tepe, çevresindeki dağların arasında yer alıyor ve Karadeniz Bölgesi'nin eşsiz güzelliklerini keşfetme fırsatı veriyor. Perikaya Tepe'nin iklimi, Karadeniz Bölgesi'nin iklimine benzer ve bu tepe, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor. Perikaya Tepe, çevresindeki ormanlarla çevrili ve bu ormanlar, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 
-Perikaya Tepe, zengin bir flora ve fauna çeşitliliğine sahip. Bu tepe, çevresindeki ormanlarla çevrili ve bu ormanlar, çeşitli bitki türlerine ev sahipliği yapıyor. Perikaya Tepe, mevsimsel değişimlere göre farklı bitki türlerini barındıran bir alandır ve ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor. Bu tepe, ayrıca çeşitli hayvan türlerine de ev sahipliği yapıyor ve ziyaretçilerine bu hayvanları gözlemleme fırsatı veriyor. Perikaya Tepe, ekolojik dengesini korumak açısından büyük önem taşıyor ve ziyaretçilerin bu tepeyi ziyaret etmelerini teşvik ediyor.
+Perikaya Tepe, zengin bir flora ve fauna çeşitliliğine sahip. Bu tepe, çevresindeki ormanlarla çevrili ve bu ormanlar, çeşitli bitki türlerine ev sahipliği yapıyor. Perikaya Tepe, mevsimsel değişimlere göre farklı bitki türlerini barındıran bir alandır ve ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor. Bu tepe, ayrıca çeşitli hayvan türlerine de ev sahipliği yapıyor ve ziyaretçilerine bu hayvanları gözlemleme fırsatı veriyor.
 
 ## Ziyaret Bilgileri
 

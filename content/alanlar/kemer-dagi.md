@@ -52,7 +52,7 @@ Jeolojik açıdan bakıldığında, Kemer Dağı'nın fiziksel yapısı hakkınd
 
 ## Flora ve Fauna
 
-Kemer Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu geniş alan, kuraklığa adapte olan türlerin yaşam alanı olarak karşımıza çıkıyor. İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle kaplanıyor ve bozkırın güzelliği ortaya çıkıyor. 
+Kemer Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu geniş alan, kuraklığa adapte olan türlerin yaşam alanı olarak karşımıza çıkıyor. İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle kaplanıyor ve bozkırın güzelliği ortaya çıkıyor.
 
 Bitki örtüsünün yanı sıra, yaban hayatı da oldukça zengin. Memeliler ve kuşlar, bu dağ ekosisteminin önemli bileşenleri arasında yer alıyor. Göç eden kuşlar, özellikle sonbahar aylarında bu bölgeyi ziyaret ediyor ve dağların yükseklik zonlarını dolduruyor. Sürüngenler de, step bitki örtüsünün sunduğu yaşam alanlarında yer alıyor.
 

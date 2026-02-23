@@ -29,7 +29,7 @@ wikidata_id: "Q49640083"
 
 # Gürmenli Adası
 
-Akdeniz'in berrak sularında gizli bir hazine olarak duran Gürmenli Adası, Kaş/Antalya'nın eşsiz doğası içerisinde bir keşif noktası olarak ziyaretçilerini bekliyor. Bu ada, Antalya'nın turizm cenneti Kaş ilçesinde bulunuyor ve çevresi ile birlikte güzel bir manzara sunuyor. Gürmenli Adası, doğa severler ve su sporları tutkunları için ideal bir destinasyon olarak dikkat çekiyor. Kaş'ın turistik güzelliği ve tarihi zenginliği ile birleşen bu ada, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Akdeniz'in berrak sularında gizli bir hazine olarak duran Gürmenli Adası, Kaş/Antalya'nın eşsiz doğası içerisinde bir keşif noktası olarak ziyaretçilerini bekliyor. Bu ada, Antalya'nın turizm cenneti Kaş ilçesinde bulunuyor ve çevresi ile birlikte güzel bir manzara sunuyor. Gürmenli Adası, doğa severler ve su sporları tutkunları için ideal bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

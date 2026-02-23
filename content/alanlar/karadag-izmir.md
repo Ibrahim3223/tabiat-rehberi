@@ -51,7 +51,7 @@ Mevsimsel değişiklikler açısından bakıldığında, Karadağ'ın iklim kara
 
 ## Flora ve Fauna
 
-Karadağ'ın flora ve fauna zenginliği, ziyaretçilerini büyüleyici bir doğa deneyimine davet ediyor. İklimin değişimiyle birlikte, dağ ekosistemi farklı yükseklik zonlarına bölünmüş durumda. İlkbaharın gelişiyle birlikte, alpin flora çiçek açıyor ve dağ yamaçlarını renkli bir halı gibi kaplıyor. 
+Karadağ'ın flora ve fauna zenginliği, ziyaretçilerini büyüleyici bir doğa deneyimine davet ediyor. İklimin değişimiyle birlikte, dağ ekosistemi farklı yükseklik zonlarına bölünmüş durumda. İlkbaharın gelişiyle birlikte, alpin flora çiçek açıyor ve dağ yamaçlarını renkli bir halı gibi kaplıyor.
 
 Zeytinlikler ve çam ormanları, dağ eteklerinde hakim bitki türlerini oluşturuyor. Bu ormanlar, çeşitli yaban hayvanlarına yaşam alanı sunuyor. Memeliler, dağların yüksek kesimlerinde yaşarken, kuşlar göç mevsimlerinde bu bölgeden geçiş yapıyor. Sürüngenler ise, dağların kayalık alanlarında yuvalanıyor.
 

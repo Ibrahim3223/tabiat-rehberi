@@ -1,7 +1,7 @@
 ---
 title: "Merkez Hamamı"
 date: "2026-01-09T22:44:18.432Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738528"
 
 # Merkez Hamamı
 
-Merkez Hamamı, Dikili'nin en güzel plajlarından biri olarak kabul edilir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel kıyı şeridinde bulunmaktadır. Plajın kumsalı, ince ve beyaz kumdan oluşmaktadır ve deniz suyu, berra ve masmavi bir renge sahiptir. Bu bölge, hem yerli hem de yabancı turistler için bir çekim merkezi olarak kabul edilir. Merkez Hamamı, doğa severler ve deniz aşığılar için bir cennet olarak düşünülebilir.
+Merkez Hamamı, Dikili'nin en güzel plajlarından biri olarak kabul edilir. Plajın kumsalı, ince ve beyaz kumdan oluşmaktadır ve deniz suyu, berra ve masmavi bir renge sahiptir. Bu bölge, hem yerli hem de yabancı turistler için bir çekim merkezi olarak kabul edilir. Merkez Hamamı, doğa severler ve deniz aşığılar için bir cennet olarak düşünülebilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Merkez Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyetin et
 
 ## Coğrafya
 
-Merkez Hamamı, Dikili'nin merkezinde, Ege Bölgesi'nin en güzel kıyı şeridinde bulunmaktadır. Bu bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Plajın kumsalı, ince ve beyaz kumdan oluşmaktadır ve deniz suyu, berra ve masmavi bir renge sahiptir. Bu bölge, hem doğa severler hem de deniz aşığılar için bir cennet olarak düşünülebilir. Merkez Hamamı'nın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir ve yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu sahiptir. Merkez Hamamı, Dikili'nin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce turisti ağırlamaktadır.
+Merkez Hamamı, Dikili'nin merkezinde, Ege Bölgesi'nin en güzel kıyı şeridinde bulunmaktadır. Plajın kumsalı, ince ve beyaz kumdan oluşmaktadır ve deniz suyu, berra ve masmavi bir renge sahiptir. Bu bölge, hem doğa severler hem de deniz aşığılar için bir cennet olarak düşünülebilir. Merkez Hamamı'nın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir ve yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu sahiptir. Merkez Hamamı, Dikili'nin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce turisti ağırlamaktadır.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31391238"
 
 # Kesik Tepe
 
-Kesik Tepe, İç Anadolu Bölgesi'nin coğrafi ve tarihi açıdan önemli noktalarından biridir. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kesik Tepe'nin etrafı, çeşitli bitki türleriyle kaplıdır ve yaban hayatı açısından zengin bir alandır. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim noktasıdır. Ziyaretçiler, burada hem doğal güzellikleri keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilirler.
+Kesik Tepe, İç Anadolu Bölgesi'nin coğrafi ve tarihi açıdan önemli noktalarından biridir. Kesik Tepe'nin etrafı, çeşitli bitki türleriyle kaplıdır ve yaban hayatı açısından zengin bir alandır. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim noktasıdır. Ziyaretçiler, burada hem doğal güzellikleri keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386222"
 
 # Banasor Tepesi
 
-Banasor Tepesi, Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan yeşil bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Banasor Tepesi, aynı zamanda Şanlıurfa'nın tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir noktadır.
+Banasor Tepesi, Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan yeşil bir alandır. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Banasor Tepesi, aynı zamanda Şanlıurfa'nın tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir noktadır.
 
 ## Tarihçe
 

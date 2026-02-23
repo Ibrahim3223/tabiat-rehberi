@@ -28,7 +28,7 @@ wikidata_id: "Q31390696"
 
 # Mantarlık Tepesi
 
-Mantarlık Tepesi, Tokat'ın merkezi bir konumunda yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Mantarlık Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir destinasyon. Ziyaretçiler, bu tepede hem doğa yürüyüşü yapabilir hem de çevreyi keşfedebilir. Tepenin yamacında çeşitli bitki türleri ve zengin fauna bulunması, burayı bir doğa cenneti haline getiriyor.
+Mantarlık Tepesi, Tokat'ın merkezi bir konumunda yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Mantarlık Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir destinasyon. Ziyaretçiler, bu tepede hem doğa yürüyüşü yapabilir hem de çevreyi keşfedebilir. Tepenin yamacında çeşitli bitki türleri ve zengin fauna bulunması, burayı bir doğa cenneti haline getiriyor.
 
 ## Tarihçe
 

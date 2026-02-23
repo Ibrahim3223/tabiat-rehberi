@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Mustafa Türbesi"
 date: "2026-01-10T07:14:49.583Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390936"
 
 # Şeyh Mustafa Türbesi
 
-Şeyh Mustafa Türbesi, Tokat'ın Turhal ilçesinde yer alan bir plaj ve tarihi mekan. Bu alan, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir faaliyet alanı sunuyor. Şeyh Mustafa Türbesi, Karadeniz Bölgesi'nin en önemli dini ve turistik mekanlarından biri olarak biliniyor. Burada, denizin serinliği ve yeşilin huzuru bir arada bulunabiliyor.
+Şeyh Mustafa Türbesi, Tokat'ın Turhal ilçesinde yer alan bir plaj ve tarihi mekan. Bu alan, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor. Şeyh Mustafa Türbesi, Karadeniz Bölgesi'nin en önemli dini ve turistik mekanlarından biri olarak biliniyor. Burada, denizin serinliği ve yeşilin huzuru bir arada bulunabiliyor.
 
 ## Tarihçe
 

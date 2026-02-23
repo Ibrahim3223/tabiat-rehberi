@@ -1,7 +1,7 @@
 ---
 title: "Lyrbe Hamam"
 date: "2026-01-09T23:03:31.609Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738830"
 
 # Lyrbe Hamam
 
-Lyrbe Hamam, Manavgat'ın en güzel plajlarından biri olarak bilinir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere geniş bir hareket alanı sunar. Lyrbe Hamam, deniz suyu ve kumun birleştiği noktada, güneşin ışınlarını hissetme ve serinlemek için ideal bir yerdir. Burada, denizde yüzmek, güneşlenmek, kumda dinlenme ve doğanın güzelliğini keşfetme mümkündür.
+Lyrbe Hamam, Manavgat'ın en güzel plajlarından biri olarak bilinir. Lyrbe Hamam, deniz suyu ve kumun birleştiği noktada, güneşin ışınlarını hissetme ve serinlemek için ideal bir yerdir. Burada, denizde yüzmek, güneşlenmek, kumda dinlenme ve doğanın güzelliğini keşfetme mümkündür.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Lyrbe Hamam'ın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahi
 
 ## Coğrafya
 
-Lyrbe Hamam, Manavgat ilçesinde, Antalya'nın Akdeniz kıyılarında yer alır. Bu plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Lyrbe Hamam'ın coğrafi konumu, Akdeniz ikliminin karakteristik özellikleri olan sıcak yazlar ve ılıman kışlar ile şekillenir. Plajın çevresi, yeşilliklerle kaplı tepelerle çevrilidir ve bu tepeler, plaja doğal bir güzellik katmaktadır. Lyrbe Hamam, deniz suyu ve kumu ile birlikte, ziyaretçilere doğal bir ortam sunar. Burada, denizde yüzmek, güneşlenmek, kumda dinlenme ve doğanın güzelliğini keşfetme mümkündür.
+Lyrbe Hamam, Manavgat ilçesinde, Antalya'nın Akdeniz kıyılarında yer alır. Lyrbe Hamam'ın coğrafi konumu, Akdeniz ikliminin karakteristik özellikleri olan sıcak yazlar ve ılıman kışlar ile şekillenir. Plajın çevresi, yeşilliklerle kaplı tepelerle çevrilidir ve bu tepeler, plaja doğal bir güzellik katmaktadır. Lyrbe Hamam, deniz suyu ve kumu ile birlikte, ziyaretçilere doğal bir ortam sunar. Burada, denizde yüzmek, güneşlenmek, kumda dinlenme ve doğanın güzelliğini keşfetme mümkündür.
 
 ## Flora ve Fauna
 

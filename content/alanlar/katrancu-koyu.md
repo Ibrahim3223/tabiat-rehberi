@@ -22,7 +22,7 @@ wikidata_id: "Q108228181"
 
 # Katrancu Koyu
 
-Katrancu Koyu, İç Anadolu Bölgesi'nin gözdeleri arasında yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Katrancu Koyu'nun sunduğu güzellikler, sadece gözlerinizle değil, ruhunuzla da keşfedeceğiniz bir deneyimi vaat ediyor. Doğal güzellikleri, tarihi değerleri ve benzersiz coğrafyasıyla Katrancu Koyu, her ziyaretçiye unutulmaz anlar yaşatmak için hazır.
+Katrancu Koyu, İç Anadolu Bölgesi'nin gözdeleri arasında yer alan bir doğa harikasıdır. Katrancu Koyu'nun sunduğu güzellikler, sadece gözlerinizle değil, ruhunuzla da keşfedeceğiniz bir deneyimi vaat ediyor. Doğal güzellikleri, tarihi değerleri ve benzersiz coğrafyasıyla Katrancu Koyu, her ziyaretçiye unutulmaz anlar yaşatmak için hazır.
 
 ## Tarihçe
 

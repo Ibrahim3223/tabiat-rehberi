@@ -28,7 +28,7 @@ wikidata_id: "Q31538229"
 
 # Depel Tepesi
 
-Depel Tepesi, Hatay'ın en önemli doğal güzelliklerinden biri olarak kabul ediliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Depel Tepesi, yerli ve yabancı turistler için bir çekim merkezi olarak görev yapıyor. Burada, güneşin doğuşunu ve batışını izlemek, manzaranın tadını çıkarma ve doğanın seslerini dinleme mümkün. Depel Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekiyor.
+Depel Tepesi, Hatay'ın en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Depel Tepesi, yerli ve yabancı turistler için bir çekim merkezi olarak görev yapıyor. Burada, güneşin doğuşunu ve batışını izlemek, manzaranın tadını çıkarma ve doğanın seslerini dinleme mümkün. Depel Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Depel Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Depel Tepesi, Hatay ilinin sınırları içerisinde yer alıyor. Bu bölge, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Depel Tepesi, 140 hektarlık bir yeşil alan üzerinde bulunuyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, deniz seviyesinden yüksek bir konumda yer alıyor ve etraftaki manzarayı izleme mümkün. Depel Tepesi, ziyaretçilerine doğanın tüm güzelliklerini sunuyor. Burada, çeşitli bitkiler, ağaçlar ve çiçekler bulunuyor. Ayrıca, bu bölge, çeşitli hayvan türlerinin de yaşadığı bir habitat. Depel Tepesi, ziyaretçilerine zengin bir flora ve fauna sunuyor. Bu bölge, özellikle bahar ve yaz aylarında ziyaret ediliyor. Ancak, Depel Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları olarak kabul ediliyor. Bu dönemde, hava sıcaklığı uygun ve doğa, en güzel haliyle ziyaretçilerini karşılıyor.
+Depel Tepesi, Hatay ilinin sınırları içerisinde yer alıyor. Bu bölge, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu bölge, deniz seviyesinden yüksek bir konumda yer alıyor ve etraftaki manzarayı izleme mümkün. Depel Tepesi, ziyaretçilerine doğanın tüm güzelliklerini sunuyor. Burada, çeşitli bitkiler, ağaçlar ve çiçekler bulunuyor. Ayrıca, bu bölge, çeşitli hayvan türlerinin de yaşadığı bir habitat. Depel Tepesi, ziyaretçilerine zengin bir flora ve fauna sunuyor. Bu bölge, özellikle bahar ve yaz aylarında ziyaret ediliyor. Ancak, Depel Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları olarak kabul ediliyor. Bu dönemde, hava sıcaklığı uygun ve doğa, en güzel haliyle ziyaretçilerini karşılıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Depel Tepesi'ni ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunuyor. Bu 
 ## İlginç Bilgiler
 
 - Depel Tepesi, 140 hektarlık bir yeşil alan üzerinde bulunuyor.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Depel Tepesi, ziyaretçilerine zengin bir flora ve fauna sunuyor.
 - Bu bölge, özellikle bahar ve yaz aylarında ziyaret ediliyor.
 - Depel Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları olarak kabul ediliyor.

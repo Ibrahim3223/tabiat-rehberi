@@ -23,7 +23,7 @@ wikidata_id: "Q110199633"
 
 # The Land of Legends
 
-The Land of Legends, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş bir doğa parçasını oluşturur. The Land of Legends, ziyaretçilerini bir doğa cennetine davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. The Land of Legends, aynı zamanda bir gezi alanı olarak da hizmet vermektedir. Ziyaretçiler, bu yeşil alanda doğa yürüyüşü yapabilir, piknik yapabilir veya einfach doğayı seyretmek için gelerek keyifli anlar geçirebilirler.
+The Land of Legends, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alandır. The Land of Legends, ziyaretçilerini bir doğa cennetine davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. The Land of Legends, aynı zamanda bir gezi alanı olarak da hizmet vermektedir. Ziyaretçiler, bu yeşil alanda doğa yürüyüşü yapabilir, piknik yapabilir veya einfach doğayı seyretmek için gelerek keyifli anlar geçirebilirler.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ The Land of Legends'in tarihi geçmişi hakkında detaylı bilgi bulunmamaktadı
 
 ## Coğrafya
 
-The Land of Legends, İç Anadolu Bölgesi'nde yer alan bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş bir doğa parçasını oluşturur. The Land of Legends'in coğrafi yapısı, genel olarak düz ve hafif eğimli arazilerden oluşmaktadır. Bu alan, çeşitli bitki türleri ile kaplı olup, zengin bir fauna ile karşılaşma mümkün. The Land of Legends, aynı zamanda, geniş bir açık alan olarak hizmet vermekte olup, ziyaretçiler, bu yeşil alanda doğa yürüyüşü yapabilir, piknik yapabilir veya einfach doğayı seyretmek için gelerek keyifli anlar geçirebilirler. The Land of Legends'in iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermekte olup, karasal iklim özellikleri taşımaktadır. Bu alan, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir iklimi deneyimleyebilir etmektedir.
+The Land of Legends, İç Anadolu Bölgesi'nde yer alan bir yeşil alandır. The Land of Legends'in coğrafi yapısı, genel olarak düz ve hafif eğimli arazilerden oluşmaktadır. Bu alan, çeşitli bitki türleri ile kaplı olup, zengin bir fauna ile karşılaşma mümkün. The Land of Legends, aynı zamanda, geniş bir açık alan olarak hizmet vermekte olup, ziyaretçiler, bu yeşil alanda doğa yürüyüşü yapabilir, piknik yapabilir veya einfach doğayı seyretmek için gelerek keyifli anlar geçirebilirler. The Land of Legends'in iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermekte olup, karasal iklim özellikleri taşımaktadır. Bu alan, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı bir iklimi deneyimleyebilir etmektedir.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ The Land of Legends, ziyaretçilerini, geniş bir yeşil alana davet ediyor. Ziy
 ## İlginç Bilgiler
 
 - The Land of Legends, 140 hektarlık bir yeşil alana sahiptir.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş bir doğa parçasını oluşturur.
+
 - The Land of Legends, İç Anadolu Bölgesi'nde yer alan bir yeşil alandır.
 - Bu alan, çeşitli bitki türleri ile kaplı olup, zengin bir fauna ile karşılaşma mümkün.
 - The Land of Legends, bir gezi alanı olarak da hizmet vermekte olup, ziyaretçiler, burada, farklı türlerde bitkiler ve hayvanlar ile karşılaşabilirler.

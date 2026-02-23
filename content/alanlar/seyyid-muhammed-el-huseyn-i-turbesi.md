@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Muhammed El Hüseyn-i Türbesi"
 date: "2026-01-10T06:48:03.410Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582864"
 
 # Seyyid Muhammed El Hüseyn-i Türbesi
 
-Seyyid Muhammed El Hüseyn-i Türbesi, Mardin'in Artuklu ilçesinde yer alan önemli bir dini merkez. Bu tarihi mekan, bölgeye gelen ziyaretçilerin ilgi odağı. 140 hektarlık bir alan üzerinde kurulmuş olan türbe, yaklaşık 200 futbol sahası büyüklüğünde. Zengin tarihi geçmişi ve kültürel önemiyle dikkat çeker. Güneydoğu Anadolu Bölgesi'nin önemli dini merkezlerinden biri olan Seyyid Muhammed El Hüseyn-i Türbesi, ziyaretçilerini bekliyor.
+Seyyid Muhammed El Hüseyn-i Türbesi, Mardin'in Artuklu ilçesinde yer alan önemli bir dini merkez. Bu tarihi mekan, bölgeye gelen ziyaretçilerin ilgi odağı. Zengin tarihi geçmişi ve kültürel önemiyle dikkat çeker. Güneydoğu Anadolu Bölgesi'nin önemli dini merkezlerinden biri olan Seyyid Muhammed El Hüseyn-i Türbesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

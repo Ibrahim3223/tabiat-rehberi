@@ -1,7 +1,7 @@
 ---
 title: "Amasya-Koyulhisar-Sisorta Saricam"
 date: "2026-01-09T20:50:11.778Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Amasya"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227545"
 
 # Amasya-Koyulhisar-Sisorta Saricam
 
-Amasya-Koyulhisar-Sisorta Saricam milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biri olarak kabul ediliyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine eşsiz bir doğa deneyimi sunuyor. Milli parkın içinde çeşitli bitki türleri ve zengin fauna encontruluyor. Ziyaretçiler, bu güzel milli parkı gezerek hem doğayı keşfedebilir hem de güzel anılar biriktirebilirler.
+Amasya-Koyulhisar-Sisorta Saricam milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biri olarak kabul ediliyor. Milli parkın içinde çeşitli bitki türleri ve zengin fauna encontruluyor. Ziyaretçiler, bu güzel milli parkı gezerek hem doğayı keşfedebilir hem de güzel anılar biriktirebilirler.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Amasya-Koyulhisar-Sisorta Saricam milli parkının tarihi geçmişi oldukça esk
 
 ## Coğrafya
 
-Amasya-Koyulhisar-Sisorta Saricam milli parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve ormanlık bir bölge olarak karşımıza çıkıyor. Milli parkın coğrafi konumu, ziyaretçilere hem dağların güzelliğini hem de ormanların zenginliğini sunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda, ziyaretçiler doğanın tüm güzelliklerini keşfedebilirler. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak, genellikle yağışlı ve serin geçiyor. Bu iklim, milli parkın flora ve faunası için uygun koşulları sağlıyor.
+Amasya-Koyulhisar-Sisorta Saricam milli parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve ormanlık bir bölge olarak karşımıza çıkıyor. Milli parkın coğrafi konumu, ziyaretçilere hem dağların güzelliğini hem de ormanların zenginliğini sunuyor. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak, genellikle yağışlı ve serin geçiyor. Bu iklim, milli parkın flora ve faunası için uygun koşulları sağlıyor.
 
 ## Flora ve Fauna
 
-Amasya-Koyulhisar-Sisorta Saricam milli parkı, flora ve fauna açısından oldukça zengin bir bölgedir. Milli parkta, çeşitli bitki türleri encontruluyor ve bu bitki türleri, ziyaretçilere doğanın güzelliğini gösteriyor. Ayrıca, milli parkın faunası da oldukça zengin ve çeşitli hayvan türleri encontruluyor. Ziyaretçiler, bu güzel milli parkı gezerek, hem doğayı keşfedebilir hem de güzel anılar biriktirebilirler. Milli parkın mevsimsel değişimleri, flora ve faunası üzerinde önemli etkiler yaratıyor ve her mevsim, ziyaretçilere farklı güzellikler sunuyor.
+ Milli parkta, çeşitli bitki türleri encontruluyor ve bu bitki türleri, ziyaretçilere doğanın güzelliğini gösteriyor. Ayrıca, milli parkın faunası da oldukça zengin ve çeşitli hayvan türleri encontruluyor. Ziyaretçiler, bu güzel milli parkı gezerek, hem doğayı keşfedebilir hem de güzel anılar biriktirebilirler. Milli parkın mevsimsel değişimleri, flora ve faunası üzerinde önemli etkiler yaratıyor ve her mevsim, ziyaretçilere farklı güzellikler sunuyor.
 
 ## Ziyaret Bilgileri
 
@@ -43,7 +43,7 @@ Amasya-Koyulhisar-Sisorta Saricam milli parkını ziyaret etmek, doğa severler 
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, bölgeye verilen önem ve doğanın korunmasına yönelik çalışmalara işaret ediyor.
-- Milli park, flora ve fauna açısından oldukça zengin bir bölgedir.
+
 - Milli parkın coğrafi konumu, ziyaretçilere hem dağların güzelliğini hem de ormanların zenginliğini sunuyor.
 - Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak, genellikle yağışlı ve serin geçiyor.
 - Milli park, 140 hektarlık bir alanı kapsıyor.

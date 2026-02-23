@@ -22,7 +22,7 @@ wikidata_id: "Q108227610"
 
 # Kahramanmaras-Andirin Sedir
 
-Kahramanmaras-Andirin Sedir Milli Parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın sâu dalamına götürmeyi vaat ediyor. Parkın doğal güzelliği, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Sedir ağaçlarının arasında dolaşmak, kuş seslerini dinleme ve doğanın huzurunu yaşama mümkün. Bu milli park, doğa severlerin ve macera arayanların buluşma noktası olarak görev yapıyor.
+Kahramanmaras-Andirin Sedir Milli Parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Parkın doğal güzelliği, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Sedir ağaçlarının arasında dolaşmak, kuş seslerini dinleme ve doğanın huzurunu yaşama mümkün. Bu milli park, doğa severlerin ve macera arayanların buluşma noktası olarak görev yapıyor.
 
 ## Tarihçe
 

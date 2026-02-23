@@ -62,6 +62,6 @@ Mersin'in güzide bir bölgesinde yer alan Ziyaret Mağarası, doğa yürüyüş
 - Mersin'de yer alan Ziyaret Mağarası, jeolojik oluşumlarıyla dikkat çeker.
 - Mağaranın içinde çeşitli damlataş oluşumları ve farklı jeolojik yapılar bulunur.
 - Ziyaret Mağarası, Mersin'in doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
-- Mağara, Mersin'in Toros Dağları'nda yer alır ve bölgenin jeolojik história hakkında bilgi verir.
+- Mağara, Mersin'in Toros Dağları'nda yer alır ve bölgenin jeolojik tarihi hakkında bilgi verir.
 - Ziyaret Mağarası, Mersin'in önemli turistik noktalarından biri olarak bilinir ve ziyaretçilerini bekler.
 - Mağaranın giriş bölümü, ziyaretçilere geniş bir alan sunar ve iç kısımlarda çeşitli jeolojik oluşumlar görülebilir.

@@ -28,7 +28,7 @@ wikidata_id: "Q31387022"
 
 # Kurtdumanı Tepe
 
-Kurtdumanı Tepe, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi mekan. Bu alanın bulunduğu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Kurtdumanı Tepe, Ankara'nın merkezine oldukça yakın bir konumda yer alıyor. Bu konumuyla birlikte, hem Ankara'nın tarihi ve kültürel zenginliklerini hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Kurtdumanı Tepe, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi mekan. Kurtdumanı Tepe, Ankara'nın merkezine oldukça yakın bir konumda yer alıyor. Bu konumuyla birlikte, hem Ankara'nın tarihi ve kültürel zenginliklerini hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

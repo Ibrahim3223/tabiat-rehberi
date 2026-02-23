@@ -28,7 +28,7 @@ wikidata_id: "Q31550601"
 
 # Solbadıni Tepesi
 
-Solbadıni Tepesi, Mardin'in merkezi bir konumunda yer alır ve şehrin tarihi dokusunu korumak adına önemli bir noktadır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine şehrin panoramik manzarasını sunar. Solbadıni Tepesi, Mardin'in coğrafi ve tarihi önemini bir araya getirerek, ziyaretçilerine zengin bir deneyim sunar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
+Solbadıni Tepesi, Mardin'in merkezi bir konumunda yer alır ve şehrin tarihi dokusunu korumak adına önemli bir noktadır. Solbadıni Tepesi, Mardin'in coğrafi ve tarihi önemini bir araya getirerek, ziyaretçilerine zengin bir deneyim sunar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 

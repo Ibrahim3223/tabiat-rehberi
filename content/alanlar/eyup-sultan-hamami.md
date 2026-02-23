@@ -1,7 +1,7 @@
 ---
 title: "Eyüp Sultan Hamamı"
 date: "2026-01-09T22:55:01.648Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738587"
 
 # Eyüp Sultan Hamamı
 
-Eyüp Sultan Hamamı, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir doğal ve tarihi güzelliğimizdir. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar, ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Eyüp Sultan Hamamı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbetmektedir. Burada, hem tarihi yapıları inceleyebilir hem de doğanın güzelliğini keşfedebilirsiniz. Eyüp Sultan Hamamı, İstanbul'un önemli turizm noktalarından biridir ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir.
+Eyüp Sultan Hamamı, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir doğal ve tarihi güzelliğimizdir. Eyüp Sultan Hamamı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbetmektedir. Burada, hem tarihi yapıları inceleyebilir hem de doğanın güzelliğini keşfedebilirsiniz. Eyüp Sultan Hamamı, İstanbul'un önemli turizm noktalarından biridir ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 

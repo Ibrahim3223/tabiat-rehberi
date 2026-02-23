@@ -22,7 +22,7 @@ wikidata_id: "Q108228754"
 
 # VAN ŞEHİR ORMANI
 
-Van Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası. Bu muhteşem orman, şehir hayatının yoğunluğundan kaçmak isteyenler için bir sığınak görevi görüyor. Orman, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılayan bir doğa cenneti. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor.
+ Bu muhteşem orman, şehir hayatının yoğunluğundan kaçmak isteyenler için bir sığınak görevi görüyor. Orman, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılayan bir doğa cenneti.
 
 ## Tarihçe
 

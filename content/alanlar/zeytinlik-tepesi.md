@@ -28,7 +28,7 @@ wikidata_id: "Q31386896"
 
 # Zeytinlik Tepesi
 
-Kastamonu'nun eşsiz güzelliği, Zeytinlik Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan doğal bir güzelliği sunuyor. Bu tepe, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olan Kastamonu'nun merkezinde yer alıyor. Zeytinlik Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Doğal güzelliği, temiz havası ve sakin atmosferi ile ziyaretçilerini büyülüyor. Zeytinlik Tepesi, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de ideal bir başlangıç noktası.
+ Bu tepe, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olan Kastamonu'nun merkezinde yer alıyor. Zeytinlik Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Doğal güzelliği, temiz havası ve sakin atmosferi ile ziyaretçilerini büyülüyor. Zeytinlik Tepesi, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de ideal bir başlangıç noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Zeytinlik Tepesi'nin tarihi geçmişi, Kastamonu'nun tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Zeytinlik Tepesi, Kastamonu'nun merkezinde yer alıyor ve Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden biri. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Zeytinlik Tepesi, Kastamonu'nun şehir merkezine yakın olmasına rağmen, şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Bu tepe, aynı zamanda Kastamonu'nun doğal güzelliğini ve tarihi zenginliklerini bir araya getiren önemli bir turizm merkezi. Zeytinlik Tepesi'nin coğrafi konumu, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir başlangıç noktası. Zeytinlik Tepesi, Kastamonu'nun şehir merkezine uzun bir mesafe uzaklıkta yer alıyor ve şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Bu tepe, aynı zamanda Kastamonu'nun doğal güzelliğini ve tarihi zenginliklerini bir araya getiren önemli bir turizm merkezi.
+Zeytinlik Tepesi, Kastamonu'nun merkezinde yer alıyor ve Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden biri. Zeytinlik Tepesi, Kastamonu'nun şehir merkezine yakın olmasına rağmen, şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Bu tepe, aynı zamanda Kastamonu'nun doğal güzelliğini ve tarihi zenginliklerini bir araya getiren önemli bir turizm merkezi. Zeytinlik Tepesi'nin coğrafi konumu, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir başlangıç noktası. Zeytinlik Tepesi, Kastamonu'nun şehir merkezine uzun bir mesafe uzaklıkta yer alıyor ve şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Bu tepe, aynı zamanda Kastamonu'nun doğal güzelliğini ve tarihi zenginliklerini bir araya getiren önemli bir turizm merkezi.
 
 ## Flora ve Fauna
 

@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Keveko Mağaras�
 
 Jeolojik açıdan incelendiğinde, Keveko Mağarası'nın bulunduğu bölge, kalker ve dolomit gibi kayaçlardan oluşuyor. Bu kayaçlar, milyonlarca yıllık erozyon sonucu, çeşitli şekillerde oyulmuş ve mağaranın oluşmasına neden olmuş. Mağaranın boyutları, bir şehir bloğu büyüklüğünde düşünülebilir, ancak bu büyüklük, mağaranın karmaşık yapısını ve içerisindeki çeşitli oluşumları tam olarak yansıtmıyor.
 
-Mevsimsel olarak incelendiğinde, Keveko Mağarası'nın bulunduğu bölge, karasal iklimin etkisi altında. Kış aylarında, région sıcaklık ortalaması 10°C civarında, yaz aylarında ise 25°C'ye ulaşıyor. Bu mevsimsel değişimler, mağaranın iç atmosferini ve ekosistemini etkiliyor. Mağara, yıl boyunca farklı hava koşullarına maruz kalıyor, ancak bu koşullar, mağaranın jeolojik yapısını şekillendirmiş.
+Mevsimsel olarak incelendiğinde, Keveko Mağarası'nın bulunduğu bölge, karasal iklimin etkisi altında. Kış aylarında, bölge sıcaklık ortalaması 10°C civarında, yaz aylarında ise 25°C'ye ulaşıyor. Bu mevsimsel değişimler, mağaranın iç atmosferini ve ekosistemini etkiliyor. Mağara, yıl boyunca farklı hava koşullarına maruz kalıyor, ancak bu koşullar, mağaranın jeolojik yapısını şekillendirmiş.
 
 Doğal bir jeopark olan Keveko Mağarası, çevresindeki ekosistemi de etkiliyor. Mağaranın yakınında, çeşitli bitki türleri ve hayvanlar yaşanıyor. Mağara, aynı zamanda, Batman'ın su kaynaklarını da etkiliyor. Mağaranın içinde ve etrafında, yeraltı suları akıyor, bu sular, bölgenin sulama ve içme suyu ihtiyacını karşılıyor. Bu su kaynakları, mağaranın jeolojik yapısını şekillendirmiş ve bölgenin ekosistemini zenginleştirmiş.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q49042836"
 
 # Kürri Tepe
 
-Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine ev sahipliği yapan Kilis ilinde, dikkat çekici bir doğal oluşum olarak Kürri Tepe yer alıyor. Bu dağ, bölgenin coğrafi yapısını şekillendiren önemli bir unsur. Kilis'in zengin história ve kültürüne doprov eden Kürri Tepe, ziyaretçiler için keşfedilmeyi bekleyen bir hazine. Kilis'in doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine ev sahipliği yapan Kilis ilinde, dikkat çekici bir doğal oluşum olarak Kürri Tepe yer alıyor. Bu dağ, bölgenin coğrafi yapısını şekillendiren önemli bir unsur. Kilis'in zengin tarihi ve kültürüne doprov eden Kürri Tepe, ziyaretçiler için keşfedilmeyi bekleyen bir hazine. Kilis'in doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 

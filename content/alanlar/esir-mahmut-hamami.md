@@ -1,7 +1,7 @@
 ---
 title: "Esir Mahmut Hamamı"
 date: "2026-01-09T23:55:50.226Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Isparta"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245693"
 
 # Esir Mahmut Hamamı
 
-Isparta'nın Şarkikaraağaç ilçesinde, denize nazır bir konumda yer alan Esir Mahmut Hamamı, tarihi ve doğal güzelliklerinin bir arada bulunduğu özel bir nokta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Esir Mahmut Hamamı, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu özel nokta, Isparta'nın turizm değerlerini koruma ve tanıtmak için önemli bir role sahip.
+Isparta'nın Şarkikaraağaç ilçesinde, denize nazır bir konumda yer alan Esir Mahmut Hamamı, tarihi ve doğal güzelliklerinin bir arada bulunduğu özel bir nokta. Esir Mahmut Hamamı, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu özel nokta, Isparta'nın turizm değerlerini koruma ve tanıtmak için önemli bir role sahip.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Esir Mahmut Hamamı, tarihsel geçmişi ile dikkat çekiyor. Bu özel noktanın 
 
 ## Coğrafya
 
-Esir Mahmut Hamamı, Isparta'nın Şarkikaraağaç ilçesinde, denize nazır bir konumda yer alıyor. Bu nokta, 140 hektarlık bir yeşil alan sunuyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş açık alan, ziyaretçilere doğayı keşfetme ve dinlenmek için ideal bir ortam sağlıyor. Esir Mahmut Hamamı'nın coğrafi konumu, hem doğal güzellikleri hem de tarihi değerleri bir arada sunmasıyla dikkat çekiyor. Bu nokta, Isparta'nın turizm değerlerini koruma ve tanıtmak için önemli bir role sahip. Esir Mahmut Hamamı'nın coğrafi yapısı, ziyaretçilere geniş bir açık alan sunuyor ve bu da, bu noktanın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olmasını sağlıyor.
+Esir Mahmut Hamamı, Isparta'nın Şarkikaraağaç ilçesinde, denize nazır bir konumda yer alıyor. Bu geniş açık alan, ziyaretçilere doğayı keşfetme ve dinlenmek için ideal bir ortam sağlıyor. Esir Mahmut Hamamı'nın coğrafi konumu, hem doğal güzellikleri hem de tarihi değerleri bir arada sunmasıyla dikkat çekiyor. Bu nokta, Isparta'nın turizm değerlerini koruma ve tanıtmak için önemli bir role sahip. Esir Mahmut Hamamı'nın coğrafi yapısı, ziyaretçilere geniş bir açık alan sunuyor ve bu da, bu noktanın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olmasını sağlıyor.
 
 ## Flora ve Fauna
 

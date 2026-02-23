@@ -22,7 +22,7 @@ wikidata_id: "Q21696280"
 
 # Mount Boğabül
 
-Mount Boğabül, Muş'un dağlık bölgesinde yer alan ve doğa severlerin ilgi odağı olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilere geniş bir manzara sunuyor. Mount Boğabül'ün eteklerinde kurulan köyler, bölgenin tarihi geçmişi hakkında bilgi veriyor. Mount Boğabül'ü ziyaret etmek, doğa ile iç içe olma ve bölgenin kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Mount Boğabül, Muş'un dağlık bölgesinde yer alan ve doğa severlerin ilgi odağı olan bir tepe. Bu alan, ziyaretçilere geniş bir manzara sunuyor. Mount Boğabül'ün eteklerinde kurulan köyler, bölgenin tarihi geçmişi hakkında bilgi veriyor. Mount Boğabül'ü ziyaret etmek, doğa ile iç içe olma ve bölgenin kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

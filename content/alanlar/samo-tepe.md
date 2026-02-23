@@ -28,7 +28,7 @@ wikidata_id: "Q31386860"
 
 # Samo Tepe
 
-Mardin'in tarihi ve doğal güzellikleriyle dikkat çeken Samo Tepe, ziyaretçiler için unutulmaz bir deneyim sunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alan düşünülürse, Samo Tepe'nin genişliği hakkında fikir sahibi olunabilir. Güneydoğu Anadolu Bölgesi'nin en önemli tarihi ve turistik mekanlarından biri olan Samo Tepe, ziyaretçilerini tarihin derinliklerine götürmeyi başarmaktadır. Samo Tepe, Mardin'in merkezine uzun bir mesafe uzaklıkta bulunuyor ve ulaşım açısından oldukça elverişli bir konumda yer alıyor.
+Mardin'in tarihi ve doğal güzellikleriyle dikkat çeken Samo Tepe, ziyaretçiler için unutulmaz bir deneyim sunuyor. Güneydoğu Anadolu Bölgesi'nin en önemli tarihi ve turistik mekanlarından biri olan Samo Tepe, ziyaretçilerini tarihin derinliklerine götürmeyi başarmaktadır. Samo Tepe, Mardin'in merkezine uzun bir mesafe uzaklıkta bulunuyor ve ulaşım açısından oldukça elverişli bir konumda yer alıyor.
 
 ## Tarihçe
 

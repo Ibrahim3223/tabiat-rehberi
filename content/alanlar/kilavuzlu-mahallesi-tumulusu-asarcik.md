@@ -29,7 +29,7 @@ wikidata_id: "Q134728397"
 
 # Kılavuzlu Mahallesi Tümülüsü, Asarcık
 
-Kılavuzlu Mahallesi Tümülüsü, Asarcık'a bağlı bir bölgede yer alıyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Karadeniz Bölgesi'nin en önemli kültürel varlıklarından biri olarak biliniyor. Yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan bu tümülüs, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Asarcık'ın merkezine yakın bir konumda bulunan Kılavuzlu Mahallesi Tümülüsü, tarihi geçmişi ve zengin kültürel mirasıyla dikkat çekiyor. Bu mekan, Karadeniz Bölgesi'nin zengin tarihi ve kültürel çeşitliliğini yansıtan önemli bir nokta.
+Kılavuzlu Mahallesi Tümülüsü, Asarcık'a bağlı bir bölgede yer alıyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Karadeniz Bölgesi'nin en önemli kültürel varlıklarından biri olarak biliniyor. Asarcık'ın merkezine yakın bir konumda bulunan Kılavuzlu Mahallesi Tümülüsü, tarihi geçmişi ve zengin kültürel mirasıyla dikkat çekiyor. Bu mekan, Karadeniz Bölgesi'nin zengin tarihi ve kültürel çeşitliliğini yansıtan önemli bir nokta.
 
 ## Tarihçe
 

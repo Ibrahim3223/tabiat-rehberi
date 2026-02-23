@@ -50,10 +50,10 @@ Mevsimsel açıdan bakıldığında, Pokir Dağı'nın bulunduğu bölge, karasa
 
 ## Flora ve Fauna
 
-Pokir Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Pokir Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-**Bitki Örtüsü**: İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, yükseklik zonlarına göre değişen bir güzelliğe sahip. 
-**Yaban Hayatı**: Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşamını sürdürürken, kartallar ve doğanları gökyüzünde süzülürken izleyebilirsiniz. 
+**Bitki Örtüsü**: İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, yükseklik zonlarına göre değişen bir güzelliğe sahip.
+**Yaban Hayatı**: Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşamını sürdürürken, kartallar ve doğanları gökyüzünde süzülürken izleyebilirsiniz.
 **Ekolojik Değer**: Bu dağ ekosistemi, endemik türler ve alpin çayırlar için önemli bir yaşam alanıdır. Yüksek dağ ekolojisinin korunması, bölgenin ekolojik dengesi için hayati önem taşır.
 
 ## Ziyaret Bilgileri

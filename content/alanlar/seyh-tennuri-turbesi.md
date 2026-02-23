@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Tennuri Türbesi"
 date: "2026-01-10T06:36:39.917Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582408"
 
 # Şeyh Tennuri Türbesi
 
-Şeyh Tennuri Türbesi, İç Anadolu Bölgesi'nin önemli tarihi mekanlarından biridir. Melikgazi/Kayseri'de yer alan bu mekan, yaklaşık 140 hektarlık yeşil alanıyla dikkat çekiyor. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğayla baş başa bırakıyor. Şeyh Tennuri Türbesi, tarihi ve doğal güzelliği ile birlikte, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Şeyh Tennuri Türbesi, İç Anadolu Bölgesi'nin önemli tarihi mekanlarından biridir. Melikgazi/Kayseri'de yer alan bu mekan, yaklaşık 140 hektarlık yeşil alanıyla dikkat çekiyor. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğayla baş başa bırakıyor.
 
 ## Tarihçe
 

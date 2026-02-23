@@ -23,7 +23,7 @@ wikidata_id: "Q108227875"
 
 # Gumuldur
 
-Gumuldur, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle cezbediyor. Bu bölge, hem doğa severler hem de tarih meraklıları için eşsiz bir destinasyon sunuyor. Gumuldur'un geniş arazisi, ziyaretçilerin keşfetmek için bolca fırsat sunuyor.
+Gumuldur, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu bölge, hem doğa severler hem de tarih meraklıları için eşsiz bir destinasyon sunuyor. Gumuldur'un geniş arazisi, ziyaretçilerin keşfetmek için bolca fırsat sunuyor.
 
 ## Tarihçe
 

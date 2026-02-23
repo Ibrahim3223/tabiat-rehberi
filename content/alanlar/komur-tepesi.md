@@ -50,7 +50,7 @@ Jeolojik açıdan bakıldığında, Komur Tepesi'nin fiziksel yapısı hakkında
 
 ## Flora ve Fauna
 
-Komur Tepesi, dağ ekosisteminin zengin çeşitliliğini sunan bir alandır. Step bitki örtüsünün hakim olduğu bu bölgede, bozkırın kuraklığa adapte olan türleri görülmektedir. Yükseklik zonlarına göre değişen flora, ilkbaharda rengarenk çiçeklerle donanır. 
+Komur Tepesi, dağ ekosisteminin zengin çeşitliliğini sunan bir alandır. Step bitki örtüsünün hakim olduğu bu bölgede, bozkırın kuraklığa adapte olan türleri görülmektedir. Yükseklik zonlarına göre değişen flora, ilkbaharda rengarenk çiçeklerle donanır.
 
 Bitki örtüsünde genellikle kuraklığa dayanıklı otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu bölgeyi ziyaret eder. Çiçeklerin açtığı ilkbahar aylarında, arılar ve kelebekler gibi polen toplayıcılar bu alanları doldurur.
 

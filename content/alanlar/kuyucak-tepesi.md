@@ -28,7 +28,7 @@ wikidata_id: "Q31581811"
 
 # Kuyucak Tepesi
 
-Kuyucak Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan bir tepe olarak ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Doğal güzellikleriyle dikkat çeken bu tepe, aynı zamanda ziyaretçilerini tarihî zenginlikleriyle de karşılar. Kuyucak Tepesi, hem tarihi hem de doğal güzelliklerini bir araya getirdiğiçin, ziyaretçilerin ilgisini çekmeyi başaran bir destinasyon olarak öne çıkıyor.
+Kuyucak Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan bir tepe olarak ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Doğal güzellikleriyle dikkat çeken bu tepe, aynı zamanda ziyaretçilerini tarihî zenginlikleriyle de karşılar. Kuyucak Tepesi, hem tarihi hem de doğal güzelliklerini bir araya getirdiğiçin, ziyaretçilerin ilgisini çekmeyi başaran bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

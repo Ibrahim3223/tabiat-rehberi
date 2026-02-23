@@ -1,7 +1,7 @@
 ---
 title: "Şirin Hatun Türbesi"
 date: "2026-01-10T05:57:28.743Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390470"
 
 # Şirin Hatun Türbesi
 
-Bursa'nın Osmangazi ilçesinde bulunan Şirin Hatun Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Şirin Hatun Türbesi, özellikle plaj severlerin ve tarih meraklılarının ilgisini çekiyor. Bölge, zengin tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor.
+Bursa'nın Osmangazi ilçesinde bulunan Şirin Hatun Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir destinasyondur. Şirin Hatun Türbesi, özellikle plaj severlerin ve tarih meraklılarının ilgisini çekiyor. Bölge, zengin tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

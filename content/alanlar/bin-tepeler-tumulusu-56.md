@@ -29,7 +29,7 @@ wikidata_id: "Q134728319"
 
 # Bin Tepeler Tümülüsü 56
 
-Bin Tepeler Tümülüsü 56, Ege Bölgesi'nin güzelliklerini bir araya getiren özel bir destinasyon. Salihli, Manisa'da bulunan bu mekan, 140 hektarlık bir alanı kaplıyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın kucağına davet ediyor. Bin Tepeler Tümülüsü 56, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkiliyor. Burada, Ege Bölgesi'nin tarihi geçmişini ve doğal güzelliklerini aynı anda deneyimleme mümkün.
+Bin Tepeler Tümülüsü 56, Ege Bölgesi'nin güzelliklerini bir araya getiren özel bir destinasyon. Salihli, Manisa'da bulunan bu mekan, 140 hektarlık bir alanı kaplıyor. Bin Tepeler Tümülüsü 56, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkiliyor. Burada, Ege Bölgesi'nin tarihi geçmişini ve doğal güzelliklerini aynı anda deneyimleme mümkün.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 56'nın tarihi geçmişi, Ege Bölgesi'nin zengin kült
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 56, Ege Bölgesi'nin coğrafi güzelliklerini sergiliyor. Salihli, Manisa'da bulunan bu mekan, 140 hektarlık bir alanı kaplamakta. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğanın kucağında bir gezi deneyimi sunuyor. Bin Tepeler Tümülüsü 56, Ege Bölgesi'nin coğrafi özellikleri ile ziyaretçilerini etkiliyor. Burada, Ege Bölgesi'nin karakteristik coğrafi yapısını ve doğal güzelliklerini deneyimleme mümkün. Mekan, plajın yakınında bulunması ile deniz ve doğanın bir araya geldiği bir noktada yer alıyor.
+Bin Tepeler Tümülüsü 56, Ege Bölgesi'nin coğrafi güzelliklerini sergiliyor. Salihli, Manisa'da bulunan bu mekan, 140 hektarlık bir alanı kaplamakta. Bin Tepeler Tümülüsü 56, Ege Bölgesi'nin coğrafi özellikleri ile ziyaretçilerini etkiliyor. Burada, Ege Bölgesi'nin karakteristik coğrafi yapısını ve doğal güzelliklerini deneyimleme mümkün. Mekan, plajın yakınında bulunması ile deniz ve doğanın bir araya geldiği bir noktada yer alıyor.
 
 ## Flora ve Fauna
 

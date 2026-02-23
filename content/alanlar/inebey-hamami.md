@@ -1,7 +1,7 @@
 ---
 title: "İnebey Hamamı"
 date: "2026-01-09T23:11:36.476Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738872"
 
 # İnebey Hamamı
 
-Marmara Bölgesi'nin en güzel plajlarından biri olan İnebey Hamamı, Osmangazi/Bursa'da yer alıyor. Bu plaj, yaklaşık 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. İnebey Hamamı, temiz suyu ve doğal güzelliği ile dikkat çekiyor. Plajın etrafında çeşitli bitki türleri ve ağaçlar bulunuyor. Bu doğal güzelliği, ziyaretçilerin keyifle yürüyüş yapabilecekleri bir ortam sunuyor. İnebey Hamamı, deniz severlerin ve doğaşığı olanların ziyaret etmesi gereken bir yer.
+Marmara Bölgesi'nin en güzel plajlarından biri olan İnebey Hamamı, Osmangazi/Bursa'da yer alıyor. İnebey Hamamı, temiz suyu ve doğal güzelliği ile dikkat çekiyor. Plajın etrafında çeşitli bitki türleri ve ağaçlar bulunuyor. Bu doğal güzelliği, ziyaretçilerin keyifle yürüyüş yapabilecekleri bir ortam sunuyor. İnebey Hamamı, deniz severlerin ve doğaşığı olanların ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Marmara Bölgesi'nin en güzel plajlarından biri olan İnebey Hamamı, Osmangaz
 
 ## Coğrafya
 
-İnebey Hamamı, Osmangazi/Bursa'da yer alıyor ve Marmara Bölgesi'nin en güzel plajlarından biri. Bu plaj, yaklaşık 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. İnebey Hamamı'nın etrafında çeşitli bitki türleri ve ağaçlar bulunuyor. Bu doğal güzelliği, ziyaretçilerin keyifle yürüyüş yapabilecekleri bir ortam sunuyor. İnebey Hamamı, deniz severlerin ve doğaşığı olanların ziyaret etmesi gereken bir yer. İnebey Hamamı'nın coğrafi konumu, ziyaretçilere hem deniz hem de doğa güzelliği sunuyor. Bu plaj, Marmara Denizi'nin temiz sularına sahip ve ziyaretçilere keyifli bir deniz deneyimi sunuyor. İnebey Hamamı'nın coğrafi güzelliği, ziyaretçilerin bu güzel plajı ziyaret etmesini teşvik ediyor.
+İnebey Hamamı, Osmangazi/Bursa'da yer alıyor ve Marmara Bölgesi'nin en güzel plajlarından biri. İnebey Hamamı'nın etrafında çeşitli bitki türleri ve ağaçlar bulunuyor. Bu doğal güzelliği, ziyaretçilerin keyifle yürüyüş yapabilecekleri bir ortam sunuyor. İnebey Hamamı, deniz severlerin ve doğaşığı olanların ziyaret etmesi gereken bir yer. İnebey Hamamı'nın coğrafi konumu, ziyaretçilere hem deniz hem de doğa güzelliği sunuyor. Bu plaj, Marmara Denizi'nin temiz sularına sahip ve ziyaretçilere keyifli bir deniz deneyimi sunuyor. İnebey Hamamı'nın coğrafi güzelliği, ziyaretçilerin bu güzel plajı ziyaret etmesini teşvik ediyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Geyikli Baba Hamamı"
 date: "2026-01-09T22:57:35.705Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738667"
 
 # Geyikli Baba Hamamı
 
-Geyikli Baba Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Kestel/Bursa'da bulunan bu doğal güzellik, etwa 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş ve yeşillik bir ortam sunar. Geyikli Baba Hamamı, denizinin berraklığı ve kumsalının güzelliği ile ziyaretçilerini cezbetmektedir. Bu bölge, hem doğa severler hem de deniz tutkunları için ideal bir destinasyon olarak dikkat çeker.
+Geyikli Baba Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Kestel/Bursa'da bulunan bu doğal güzellik, etwa 140 hektarlık bir alanı kaplar. Geyikli Baba Hamamı, denizinin berraklığı ve kumsalının güzelliği ile ziyaretçilerini cezbetmektedir. Bu bölge, hem doğa severler hem de deniz tutkunları için ideal bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Geyikli Baba Hamamı ve çevresinde, çeşitli bitki türleri bulunur. Bu bitkil
 
 ## Ziyaret Bilgileri
 
-Geyikli Baba Hamamı'na ziyaret, genellikle yaz aylarında yapılır. Bu dönemde, hava sıcaklığı daha yükse olup, deniz suyu da serin ve berrak olur. Ziyaretçilerin buraya ulaşımı, genellikle özel araçlar veya toplu taşıma araçları ile sağlanır. Geyikli Baba Hamamı, Kestel/Bursa merkezine yakındır ve bu nedenle ulaşım açısından kolaylık sağlar. Ziyaretçilerin, buraya gelirken, özellikle deniz kıyısında geçirecekleri zaman için uygun giysiler ve nécessaire malzemeleri getirmeleri önerilir.
+Geyikli Baba Hamamı'na ziyaret, genellikle yaz aylarında yapılır. Bu dönemde, hava sıcaklığı daha yükse olup, deniz suyu da serin ve berrak olur. Ziyaretçilerin buraya ulaşımı, genellikle özel araçlar veya toplu taşıma araçları ile sağlanır. Geyikli Baba Hamamı, Kestel/Bursa merkezine yakındır ve bu nedenle ulaşım açısından kolaylık sağlar. Ziyaretçilerin, buraya gelirken, özellikle deniz kıyısında geçirecekleri zaman için uygun giysiler ve gerekli malzemeleri getirmeleri önerilir.
 
 ## İlginç Bilgiler
 

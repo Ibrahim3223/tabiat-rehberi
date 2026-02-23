@@ -1,7 +1,7 @@
 ---
 title: "Tavus Baba Türbesi"
 date: "2026-01-10T07:01:32.303Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390888"
 
 # Tavus Baba Türbesi
 
-Tavus Baba Türbesi, Konya'nın Meram ilçesinde bulunan bir tarihi ve dini mekan olarak bilinir. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır, ki bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tavus Baba Türbesi, hem dini hem de kültürel açıdan önemli bir merkez olarak kabul edilir. İç Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan bu türbe, ziyaretçilerini tarihi bir yolculuğa çıkarır. Tavus Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır.
+Tavus Baba Türbesi, Konya'nın Meram ilçesinde bulunan bir tarihi ve dini mekan olarak bilinir. Tavus Baba Türbesi, hem dini hem de kültürel açıdan önemli bir merkez olarak kabul edilir. İç Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan bu türbe, ziyaretçilerini tarihi bir yolculuğa çıkarır. Tavus Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tavus Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Tavus Baba Türbesi, Konya'nın Meram ilçesinde, İç Anadolu Bölgesi'nde bulunur. Bu bölge, genellikle step iklimi ile karakterize edilir ve yazları sıcak, kışları soğuk geçer. Türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır ve bu alan, çeşitli bitki türleri ve fauna ile zengin bir ekosistemi destekler. Tavus Baba Türbesi'nin çevresi, tarihi ve kültürel açıdan önemli diğer mekanlara yakındır. Bu mekan, Meram'ın tarihi ve kültürel kimliğinin önemli bir parçasıdır. Türbe, ziyaretçilerini bir yandan tarihi ve kültürel bir yolculuğa çıkarırken, diğer yandan da doğal güzellikleri ile surroundingsını keşfetme fırsatı sunar. İç Anadolu Bölgesi, históri ve kültürel açıdan zengin bir bölge olarak bilinir ve Tavus Baba Türbesi, bu bölgenin önemli bir parçasıdır.
+Tavus Baba Türbesi, Konya'nın Meram ilçesinde, İç Anadolu Bölgesi'nde bulunur. Bu bölge, genellikle step iklimi ile karakterize edilir ve yazları sıcak, kışları soğuk geçer. Türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır ve bu alan, çeşitli bitki türleri ve fauna ile zengin bir ekosistemi destekler. Tavus Baba Türbesi'nin çevresi, tarihi ve kültürel açıdan önemli diğer mekanlara yakındır. Bu mekan, Meram'ın tarihi ve kültürel kimliğinin önemli bir parçasıdır. Türbe, ziyaretçilerini bir yandan tarihi ve kültürel bir yolculuğa çıkarırken, diğer yandan da doğal güzellikleri ile surroundingsını keşfetme fırsatı sunar. İç Anadolu Bölgesi, tarihi ve kültürel açıdan zengin bir bölge olarak bilinir ve Tavus Baba Türbesi, bu bölgenin önemli bir parçasıdır.
 
 ## Flora ve Fauna
 

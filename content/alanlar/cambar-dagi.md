@@ -46,13 +46,13 @@ Jeolojik açıdan bakıldığında, Çambar Dağı'nın oluşumu ve yapısı hak
 
 Mevsimsel değişimler açısından, Çambar Dağı, Doğu Anadolu Bölgesi'nin karasal iklim koşullarına tabidir. Kış aylarında sert ve soğuk hava koşulları, yaz aylarında ise ılıman ve serin bir hava hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliğini etkileyen önemli bir faktördür. Çambar Dağı'nın çevresindeki ekosistem, bu mevsimsel değişimlere uyum sağlamak zorunda kalmıştır.
 
-Çevresel açıdan bakıldığında, Çambar Dağı, Kars ilinin diğer coğrafi oluşumları ile bağlantılıdır. Yakın çevresinde yer alan su kaynakları ve diğer dağlar, bölgenin ekolojik dengesini korumak açısından önemli role sahiptirler. Çambar Dağı, bu çevresel ilişkiler ağının bir parçası olarak, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemli bir bileşen olarak görülebilir.
+Çevresel açıdan bakıldığında, Çambar Dağı, Kars ilinin diğer coğrafi oluşumları ile bağlantılıdır. Çambar Dağı, bu çevresel ilişkiler ağının bir parçası olarak, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemli bir bileşen olarak görülebilir.
 
 ## Flora ve Fauna
 
-Çambar Dağı, Kars'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-1. Bitki Örtüsü: İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliği sunar. 
-2. Yaban Hayatı: Dağ keçileri, yaban keçileri ve vaşaklar, bu dağların gerçek hükümdarlarıdır. Göç mevsiminde, çeşitli kuş türleri dağları geçer. 
+Çambar Dağı, Kars'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+1. Bitki Örtüsü: İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliği sunar.
+2. Yaban Hayatı: Dağ keçileri, yaban keçileri ve vaşaklar, bu dağların gerçek hükümdarlarıdır. Göç mevsiminde, çeşitli kuş türleri dağları geçer.
 3. Ekolojik Değer: Çambar Dağı, yüksek dağ ekosisteminin korunmasına önemli bir katkı sağlar. Bu alanın korunması, bölgenin biyolojik çeşitliliğini korumak için hayati önem taşır.
 
 ## Ziyaret Bilgileri

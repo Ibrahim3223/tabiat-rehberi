@@ -32,7 +32,7 @@ Siirt'in büyüleyici doğal güzelliklerinden biri olan Yazlıca Dağı, ziyare
 
 ## Tarihçe
 
-Yazlıca Dağı, Türkiye'nin güneydoğusunda, Siirt ilinin dağlık bölgesinde yer alır. Bu bölge, tarihin sâu sayfalarında önemli bir yere sahiptir. Siirt, geçmişte Urartular, Asurlular ve Persler gibi uygarlıkların etkisi altında kalmıştır. Bu bölgede, medeniyetler yükselip alçalmış, ticaret yolları oluşmuş ve insan yerleşimleri kurulmuştur.
+Yazlıca Dağı, Türkiye'nin güneydoğusunda, Siirt ilinin dağlık bölgesinde yer alır. Bu bölge, tarihin derin sayfalarında önemli bir yere sahiptir. Siirt, geçmişte Urartular, Asurlular ve Persler gibi uygarlıkların etkisi altında kalmıştır. Bu bölgede, medeniyetler yükselip alçalmış, ticaret yolları oluşmuş ve insan yerleşimleri kurulmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla, Yazlıca Dağı gibi alanlar Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu tür doğal alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmelerine olanak tanımış, yaylacılık ve hayvancılık faaliyetlerine ev sahipliği yapmıştır. Ayrıca, tarihi ticaret yollarının güzergahında yer alan bu bölge, farklı kültürlerin etkileşimine tanıklık etmiştir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Aydın Baba Türbesi"
 date: "2026-01-10T06:59:13.232Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390821"
 
 # Aydın Baba Türbesi
 
-Aydın Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Şahinbey ilçesinde bulunan bu mekan, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmektedir. 140 hektarlık bir alanda yer alan Aydın Baba Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunmaktadır. Aydın Baba Türbesi, tarihi geçmişi ve doğal güzelliği ile birlikte, bölgenin önemli bir turizm merkezi haline gelmiştir.
+Aydın Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Şahinbey ilçesinde bulunan bu mekan, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmektedir. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunmaktadır. Aydın Baba Türbesi, tarihi geçmişi ve doğal güzelliği ile birlikte, bölgenin önemli bir turizm merkezi haline gelmiştir.
 
 ## Tarihçe
 

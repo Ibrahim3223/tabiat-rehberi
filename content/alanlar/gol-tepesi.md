@@ -29,7 +29,7 @@ wikidata_id: "Q32138395"
 
 # Göl Tepesi
 
-Göl Tepesi, Kırklareli'nin doğal güzellikleri arasında yer alan bir tepe. Yaklaşık 140 hektarlık bir alanı kapsıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu tepe, Marmara Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Göl Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu çeşitlilik, ziyaretçilere doğayla iç içe bir deneyim sunar.
+Göl Tepesi, Kırklareli'nin doğal güzellikleri arasında yer alan bir tepe. Yaklaşık 140 hektarlık bir alanı kapsıyor. Bu tepe, Marmara Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Göl Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu çeşitlilik, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 

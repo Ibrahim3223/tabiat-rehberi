@@ -22,7 +22,7 @@ wikidata_id: "Q108228288"
 
 # Artvin-Arhavi-Arhavi-Kızılagac
 
-Karadeniz Bölgesi'nin en güzel köşelerinden biri olan Artvin-Arhavi-Arhavi-Kızılagac, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor. Bu área, ziyaretçilerini geniş ormanları, şelaleleri ve dağ manzaralarıyla büyülüyor. Doğa severler için bir cennet olan bu bölge, zengin florası ve faunasıyla dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+ Bu área, ziyaretçilerini geniş ormanları, şelaleleri ve dağ manzaralarıyla büyülüyor. Doğa severler için bir cennet olan bu bölge, zengin florası ve faunasıyla dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

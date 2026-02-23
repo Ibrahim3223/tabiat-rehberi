@@ -28,7 +28,7 @@ wikidata_id: "Q32210248"
 
 # Köpeklikarşı Tepesi
 
-Köpeklikarşı Tepesi, Diyarbakır'ın tarihi ve doğal güzellikleri ile dikkat çeken bir bölgedir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, şehrin merkezine yakın bir konumda yer almaktadır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Köpeklikarşı Tepesi, özellikle manzarası ile dikkat çekmekte ve ziyaretçiler tarafından sıkça tercih edilmektedir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunmaktadır.
+Köpeklikarşı Tepesi, Diyarbakır'ın tarihi ve doğal güzellikleri ile dikkat çeken bir bölgedir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Köpeklikarşı Tepesi, özellikle manzarası ile dikkat çekmekte ve ziyaretçiler tarafından sıkça tercih edilmektedir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunmaktadır.
 
 ## Tarihçe
 

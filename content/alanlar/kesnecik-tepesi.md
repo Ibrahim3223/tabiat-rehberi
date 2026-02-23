@@ -28,7 +28,7 @@ wikidata_id: "Q31389860"
 
 # Kesnecik Tepesi
 
-Kesnecik Tepesi, Sinop'un önemli doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nin kalbinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en yüksek noktalarından biridir. Bu tepe, hem doğal güzelliği hem de tarihi önemi nedeniyle ziyaretçilerini büyüler. Kesnecik Tepesi, Sinop'un merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşımı oldukça kolaydır. Bu nedenle, doğa severler ve tarih meraklıları için ideal bir gezi noktasıdır.
+Kesnecik Tepesi, Sinop'un önemli doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nin kalbinde yer alır. Bu tepe, hem doğal güzelliği hem de tarihi önemi nedeniyle ziyaretçilerini büyüler. Kesnecik Tepesi, Sinop'un merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşımı oldukça kolaydır. Bu nedenle, doğa severler ve tarih meraklıları için ideal bir gezi noktasıdır.
 
 ## Tarihçe
 

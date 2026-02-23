@@ -1,7 +1,7 @@
 ---
 title: "Evhaduddin Kirmani Türbesi"
 date: "2026-01-10T07:36:48.389Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -41,7 +41,7 @@ Evhaduddin Kirmani Türbesi, Konya'nın Selçuklu ilçesinde yer alan bir tarihi
 
 ## Flora ve Fauna
 
-Evhaduddin Kirmani Türbesi, Konya'nın coğrafi ve iklimsel koşullarına uygun bir flora ve fauna yapısına sahiptir. Türbenin bulunduğu alan, çeşitli bitki türleri ile çevrilidir. İç Anadolu Bölgesi'nin karakteristik bitki örtüsüne sahip olan Konya, step ve bozkır bitkilerinin çeşitliliğini sunmaktadır. Türbenin çevresinde, mevsimsel olarak değişen bitki örtüsü, ziyaretçilere renkli bir manzara sunmaktadır. Ayrıca, türbenin bulunduğu bölgede, çeşitli hayvan türleri de bulunmaktadır. Konya'nın fauna yapısı, İç Anadolu Bölgesi'nin karakteristik hayvan türlerini içermektedir. Türbe, ziyaretçilere Konya'nın doğal güzelliklerini keşfetme fırsatı sunmaktadır. Mevsimsel değişimlere bağlı olarak, türbenin flora ve fauna yapısı da değişmektedir. Bahar aylarında, türbenin çevresinde renkli çiçekler açarken, kış aylarında ise çevredeki bitkiler kış uykusuna yatmaktadır.
+Evhaduddin Kirmani Türbesi, Konya'nın coğrafi ve iklimsel koşullarına uygun bir flora ve fauna yapısına sahiptir. Türbenin bulunduğu alan, çeşitli bitki türleri ile çevrilidir. İç Anadolu Bölgesi'nin karakteristik bitki örtüsüne sahip olan Konya, step ve bozkır bitkilerinin çeşitliliğini sunmaktadır. Türbenin çevresinde, mevsimsel olarak değişen bitki örtüsü, ziyaretçilere renkli bir manzara sunmaktadır. Ayrıca, türbenin bulunduğu bölgede, çeşitli hayvan türleri de bulunmaktadır. Konya'nın fauna yapısı, İç Anadolu Bölgesi'nin karakteristik hayvan türlerini içermektedir. Mevsimsel değişimlere bağlı olarak, türbenin flora ve fauna yapısı da değişmektedir. Bahar aylarında, türbenin çevresinde renkli çiçekler açarken, kış aylarında ise çevredeki bitkiler kış uykusuna yatmaktadır.
 
 ## Ziyaret Bilgileri
 

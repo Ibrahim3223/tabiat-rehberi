@@ -28,7 +28,7 @@ wikidata_id: "Q31387432"
 
 # Varizer Tepesi
 
-Varizer Tepesi, Van şehrinin güzide noktalarından biri olarak karşımıza çıkıyor. Doğu Anadolu Bölgesi'nin coğrafi çeşitliliği binnen bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplıyor. Bu tepenin etrafındaki manzara, insanı büyüleyecek güzellikte. İnsanın doğayla iç içe olduğu bu noktada, şehrin gürültüsünden uzaklaşma mümkün.
+Varizer Tepesi, Van şehrinin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepenin etrafındaki manzara, insanı büyüleyecek güzellikte. İnsanın doğayla iç içe olduğu bu noktada, şehrin gürültüsünden uzaklaşma mümkün.
 
 ## Tarihçe
 

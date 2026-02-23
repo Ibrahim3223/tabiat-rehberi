@@ -28,7 +28,7 @@ wikidata_id: "Q31568078"
 
 # Evindağı Tepesi
 
-Evindağı Tepesi, Erzurum'un doğal güzelliklerini ön plana çıkaran önemli bir noktadır. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan Evindağı Tepesi, aynı zamanda zengin flora ve faunaya ev sahipliği yapar. Bu özel tepe, Erzurum'un önemli alanlarından biri olarak bilinir ve ziyaretçiler için unutulmaz deneyimler sunar.
+Evindağı Tepesi, Erzurum'un doğal güzelliklerini ön plana çıkaran önemli bir noktadır. Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan Evindağı Tepesi, aynı zamanda zengin flora ve faunaya ev sahipliği yapar. Bu özel tepe, Erzurum'un önemli alanlarından biri olarak bilinir ve ziyaretçiler için unutulmaz deneyimler sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Evindağı Tepesi'nin tarihi geçmişi, yöre halkının kültürel mirasını y
 
 ## Coğrafya
 
-Evindağı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin konumu, ziyaretçilere geniş bir alanı kapsayan manzaralar sunar. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, bu özelliği ile dikkat çeker. Evindağı Tepesi'nin coğrafi konumu, aynı zamanda flora ve faunayı da etkiler. Tepenin eteklerinde ve surroundingsında çeşitli bitki türleri ve hayvanlar yaşar. Bu doğal alan, ziyaretçiler için hem doğayı keşfetme hem de coğrafi yapıyı anlamaya yönelik önemli bir oportunite sunar.
+Evindağı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin konumu, ziyaretçilere geniş bir alanı kapsayan manzaralar sunar. Evindağı Tepesi'nin coğrafi konumu, aynı zamanda flora ve faunayı da etkiler. Tepenin eteklerinde ve surroundingsında çeşitli bitki türleri ve hayvanlar yaşar. Bu doğal alan, ziyaretçiler için hem doğayı keşfetme hem de coğrafi yapıyı anlamaya yönelik önemli bir oportunite sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Evindağı Tepesi'ni ziyaret etmek, doğa severler için önemli bir deneyimdir.
 
 ## İlginç Bilgiler
 
-- Evindağı Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğündedir.
 - Tepenin etrafında ve eteklerinde çeşitli bitki türleri bulunur.
 - Evindağı Tepesi, zengin fauna çeşitliliğine sahiptir.
 - Tepenin konumu, ziyaretçilere geniş bir alanı kapsayan manzaralar sunar.

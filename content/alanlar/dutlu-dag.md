@@ -32,7 +32,7 @@ Erzurum'un doğusunda yükselen Dutlu Dağ, Türkiye'nin en önemli coğrafi olu
 
 ## Tarihçe
 
-Erzurum bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, Selçuklular, Osmanlılar ve diğer uygarlıkların izlerini taşıyan önemli bir yerleşim merkezidir. Dutlu Dağ gibi doğal alanlar, bu bölgenin tarihini şekillendiren önemli faktörlerden biri olmuştur.
+Erzurum bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, Selçuklular, Osmanlılar ve diğer uygarlıkların izlerini taşıyan önemli bir yerleşim merkezidir. Dutlu Dağ gibi doğal alanlar, bu bölgenin tarihini şekillendiren önemli faktörlerden biri olmuştur.
 
 Türkiye'de doğal alanlar, tarihin her döneminde insanların yaşamlarını sürdürdükleri, hayvancılık ve tarım faaliyetleri yürüttükleri önemli merkezler olarak görev üstlenmişlerdir. Yaylacılık, bu bölgelerde yaşayan insanların gelir kaynaklarından biri olarak karşımıza çıkar. İnsanlar, yaz aylarında hayvanlarını otlatabilmek için yüksek rakımlı bu alanlara çıkar, burada geçici yerleşim birimleri kurarlar.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227433"
 
 # Mersin-Anamur-Caltibuku Kızılçam
 
-Mersin-Anamur-Caltibuku Kızılçam milli parkı, Mersin'in doğal güzellikleri arasında önemli bir yer tutuyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda çeşitli bitki türleri yer alıyor. Milli parkın zengin fauna yapısı, birçok canlıya ev sahipliği yapıyor. Bu milli park, Mersin'in Akdeniz Bölgesi'ndeki konumuyla, ziyaretçilere eşsiz bir doğa deneyimi sunuyor.
+Mersin-Anamur-Caltibuku Kızılçam milli parkı, Mersin'in doğal güzellikleri arasında önemli bir yer tutuyor. Milli parkın zengin fauna yapısı, birçok canlıya ev sahipliği yapıyor. Bu milli park, Mersin'in Akdeniz Bölgesi'ndeki konumuyla, ziyaretçilere eşsiz bir doğa deneyimi sunuyor.
 
 ## Tarihçe
 

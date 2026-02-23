@@ -1,7 +1,7 @@
 ---
 title: "Tezveren Sultan Türbesi"
 date: "2026-01-10T05:20:26.997Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391677"
 
 # Tezveren Sultan Türbesi
 
-Tezveren Sultan Türbesi, Ankara'nın Altındağ ilçesinde bulunan tarihi bir türbe ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan içerir, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tezveren Sultan Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çeker. Ziyaretçiler, bu bölgeyi hem tarihi açıdan gezerek hem de doğal güzelliklerini keşfederek ziyaret edebilirler.
+Tezveren Sultan Türbesi, Ankara'nın Altındağ ilçesinde bulunan tarihi bir türbe ve plaj alanıdır. Tezveren Sultan Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çeker. Ziyaretçiler, bu bölgeyi hem tarihi açıdan gezerek hem de doğal güzelliklerini keşfederek ziyaret edebilirler.
 
 ## Tarihçe
 

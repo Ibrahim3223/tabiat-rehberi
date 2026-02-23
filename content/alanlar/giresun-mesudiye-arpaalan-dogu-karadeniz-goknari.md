@@ -22,7 +22,7 @@ wikidata_id: "Q108227588"
 
 # Giresun-Mesudiye-Arpaalan Dogu Karadeniz Goknari
 
-Giresun-Mesudiye-Arpaalan Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini yaban hayatı ile iç içe bir deneyime davet ediyor. Milli parkın sunduğu güzellikler, sadece gözlerimize değil, ruhumuza da hitap ediyor. Doğanın sesleri, ağaçların hışırtısı ve kuşların cıvıltısı, bu alanı ziyaret etmek için geçerli bir neden.
+Giresun-Mesudiye-Arpaalan Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Milli parkın sunduğu güzellikler, sadece gözlerimize değil, ruhumuza da hitap ediyor. Doğanın sesleri, ağaçların hışırtısı ve kuşların cıvıltısı, bu alanı ziyaret etmek için geçerli bir neden.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31547028"
 
 # Berişin Tepesi
 
-Berişin Tepesi, Güneydoğu Anadolu Bölgesi'nin güzide illerinden Siirt'te yer alan ve bölgenin doğal güzelliklerini gözler önüne seren bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu ölçek, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Berişin Tepesi, ziyaretçilerine hem doğa güzellikleri hem de tarihi zenginlikler sunuyor. Bu tepe, Siirt'in önemli gezi noktalarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor.
+Berişin Tepesi, Güneydoğu Anadolu Bölgesi'nin güzide illerinden Siirt'te yer alan ve bölgenin doğal güzelliklerini gözler önüne seren bir tepe. Berişin Tepesi, ziyaretçilerine hem doğa güzellikleri hem de tarihi zenginlikler sunuyor. Bu tepe, Siirt'in önemli gezi noktalarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Berişin Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik 
 
 ## Flora ve Fauna
 
-Berişin Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin etrafında, çeşitli bitki türleri yetişiyor ve bu bitkiler, bölgenin ekolojik dengesine katkıda bulunuyor. Hayvanlar açısından da zengin olan bu bölge, birçok farklı türün yaşam alanı. Mevsimsel değişimlere bağlı olarak, bölgede farklı canlılar görülüyor. Berişin Tepesi, doğal yaşamın güzelliğini gözler önüne seren bir bölge ve bu nedenle, doğa severler için önemli bir gezi noktası.
+ Tepenin etrafında, çeşitli bitki türleri yetişiyor ve bu bitkiler, bölgenin ekolojik dengesine katkıda bulunuyor. Hayvanlar açısından da zengin olan bu bölge, birçok farklı türün yaşam alanı. Mevsimsel değişimlere bağlı olarak, bölgede farklı canlılar görülüyor. Berişin Tepesi, doğal yaşamın güzelliğini gözler önüne seren bir bölge ve bu nedenle, doğa severler için önemli bir gezi noktası.
 
 ## Ziyaret Bilgileri
 

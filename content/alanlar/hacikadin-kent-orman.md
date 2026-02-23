@@ -22,7 +22,7 @@ wikidata_id: "Q108228603"
 
 # HACIKADIN KENT ORMAN
 
-Hacıkadın Kent Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Orman, ziyaretçilerini doğanın serin ve huzurlu atmosferine davet ediyor. Burada, ağaçların arasında dolaşabilir, çiçeklerin kokusunu içinize çekebilir ve kuşların şarkılarını dinleyebilirsiniz. Hacıkadın Kent Ormanı, hem doğa severler hem de şehrin gürültüsünden kaçmak isteyenler için ideal bir destinasyon.
+Hacıkadın Kent Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. Orman, ziyaretçilerini doğanın serin ve huzurlu atmosferine davet ediyor. Burada, ağaçların arasında dolaşabilir, çiçeklerin kokusunu içinize çekebilir ve kuşların şarkılarını dinleyebilirsiniz. Hacıkadın Kent Ormanı, hem doğa severler hem de şehrin gürültüsünden kaçmak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

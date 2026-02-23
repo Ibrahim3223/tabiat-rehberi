@@ -23,7 +23,7 @@ wikidata_id: "Q130367202"
 
 # Canikdere Şelalesi
 
-Canikdere Şelalesi, Trabzon'un muhteşem doğası içerisinde yer alan ve ziyaretçilerini cezbeden bir doğal güzellik. Bu şelale, Karadeniz Bölgesi'nin zengin florası ve faunası ile çevrili. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda çeşitli bitki türleri ve hayvanlar yaşamaktadır. Şelalenin güzelliği, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Canikdere Şelalesi, hem doğa tutkunları hem de fotoğraf sanatçıları için bir cennet.
+Canikdere Şelalesi, Trabzon'un muhteşem doğası içerisinde yer alan ve ziyaretçilerini cezbeden bir doğal güzellik. Bu şelale, Karadeniz Bölgesi'nin zengin florası ve faunası ile çevrili. Şelalenin güzelliği, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Canikdere Şelalesi, hem doğa tutkunları hem de fotoğraf sanatçıları için bir cennet.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Canikdere Şelalesi'nin tarihi geçmişi, Karadeniz Bölgesi'nin zengin kültür
 
 ## Coğrafya
 
-Canikdere Şelalesi, Trabzon'un Karadeniz sahil şeridinde yer alıyor. Bu şelale, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş ve çevresindeki dağlar, ormanlar ve nehirler ile çevrili. Şelalenin bulunduğu alan, 140 hektarlık bir genişlikte ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğa ile iç içe olmak için geniş bir opportunity sunuyor. Canikdere Şelalesi, Karadeniz Bölgesi'nin iklimi nedeniyle yıl boyunca yeşil kalıyor ve ziyaretçilere her mevsim farklı bir güzellik sunuyor. Şelale, Karadeniz'in zengin florası ve faunası ile çevrili ve bu reason, ziyaretçilere doğa ile iç içe olmak için geniş bir imkan sunuyor.
+Canikdere Şelalesi, Trabzon'un Karadeniz sahil şeridinde yer alıyor. Bu şelale, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş ve çevresindeki dağlar, ormanlar ve nehirler ile çevrili. Bu geniş alan, ziyaretçilere doğa ile iç içe olmak için geniş bir opportunity sunuyor. Canikdere Şelalesi, Karadeniz Bölgesi'nin iklimi nedeniyle yıl boyunca yeşil kalıyor ve ziyaretçilere her mevsim farklı bir güzellik sunuyor. Şelale, Karadeniz'in zengin florası ve faunası ile çevrili ve bu reason, ziyaretçilere doğa ile iç içe olmak için geniş bir imkan sunuyor.
 
 ## Flora ve Fauna
 

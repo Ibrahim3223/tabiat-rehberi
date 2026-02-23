@@ -28,7 +28,7 @@ wikidata_id: "Q31389782"
 
 # Taşlıdoruk Tepesi
 
-Taşlıdoruk Tepesi, Bolu'nun muhteşem manzaralarına ev sahipliği yapan bir coğrafi noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Burada, Karadeniz Bölgesi'nin karakteristik flora ve fauna çeşitliliği göze çarpar. Taşlıdoruk Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunar. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak bilinir.
+Taşlıdoruk Tepesi, Bolu'nun muhteşem manzaralarına ev sahipliği yapan bir coğrafi noktadır. Burada, Karadeniz Bölgesi'nin karakteristik flora ve fauna çeşitliliği göze çarpar. Taşlıdoruk Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunar. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak bilinir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Taşlıdoruk Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bö
 
 ## Coğrafya
 
-Taşlıdoruk Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu tepe, 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Bölgenin karakteristik flora ve fauna çeşitliliği, burada göze çarpar. Taşlıdoruk Tepesi, aynı zamanda, bölgenin iklimini de etkileyen bir faktördür. Bu tepe, Karadeniz Bölgesi'nin nemli ve ılıman iklimine sahiptir. Burada, yıllık yağış miktarı, bölgenin genel yağış miktarından daha fazladır. Bu nedenle, Taşlıdoruk Tepesi, yeşilliği ve doğal güzellikleriyle dikkat çeker. Bu tepe, aynı zamanda, bölgenin coğrafi yapısını da etkileyen bir faktördür. Burada, çeşitli türlerde kayalar ve topraklar bulunur.
+Taşlıdoruk Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Bölgenin karakteristik flora ve fauna çeşitliliği, burada göze çarpar. Taşlıdoruk Tepesi, aynı zamanda, bölgenin iklimini de etkileyen bir faktördür. Bu tepe, Karadeniz Bölgesi'nin nemli ve ılıman iklimine sahiptir. Burada, yıllık yağış miktarı, bölgenin genel yağış miktarından daha fazladır. Bu nedenle, Taşlıdoruk Tepesi, yeşilliği ve doğal güzellikleriyle dikkat çeker. Bu tepe, aynı zamanda, bölgenin coğrafi yapısını da etkileyen bir faktördür. Burada, çeşitli türlerde kayalar ve topraklar bulunur.
 
 ## Flora ve Fauna
 

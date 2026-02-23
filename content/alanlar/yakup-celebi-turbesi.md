@@ -1,7 +1,7 @@
 ---
 title: "Yakup Çelebi Türbesi"
 date: "2026-01-10T07:47:28.658Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391203"
 
 # Yakup Çelebi Türbesi
 
-Yakup Çelebi Türbesi, Bursa'nın İznik ilçesinde bulunan ve Marmara Bölgesi'nin önemli dini ve turistik merkezlerinden biri olarak kabul edilen bir tarihi mekândır. İznik Gölü'nün kıyısında yer alan bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Türbenin konumu, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbeden bir noktadır. Yakup Çelebi Türbesi, İznik'in tarihi ve kültürel mirasının bir parçası olarak, ziyaretçilere bu bölgenin zengin tarihini ve doğasını keşfetme fırsatı sunar.
+Yakup Çelebi Türbesi, Bursa'nın İznik ilçesinde bulunan ve Marmara Bölgesi'nin önemli dini ve turistik merkezlerinden biri olarak kabul edilen bir tarihi mekândır. Türbenin konumu, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbeden bir noktadır. Yakup Çelebi Türbesi, İznik'in tarihi ve kültürel mirasının bir parçası olarak, ziyaretçilere bu bölgenin zengin tarihini ve doğasını keşfetme fırsatı sunar.
 
 ## Tarihçe
 

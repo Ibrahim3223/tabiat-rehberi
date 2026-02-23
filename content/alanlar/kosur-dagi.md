@@ -50,7 +50,7 @@ Bölgenin su kaynakları açısından önemli bir role sahip olan Kösür Dağı
 
 Kösür Dağı, Osmaniye'nin güzide bir dağ ekosistemi olarak maki bitki örtüsüne ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamacı rengarenk çiçeklerle donanıyor. Kuraklığa dayanıklı türler, dağın yükseklik zonlarında farklı formações oluşturuyor.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağların yüksek kesimlerinde dolaşıyor. Kuşlar, göç yolları üzerinde önemli bir durak olan Kösür Dağı'nı ziyaret ediyor. Sürüngenler de dağlık alanların kaya kovuklarında yaşamlarını sürdürüyor. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağların yüksek kesimlerinde dolaşıyor. Kuşlar, göç yolları üzerinde önemli bir durak olan Kösür Dağı'nı ziyaret ediyor. Sürüngenler de dağlık alanların kaya kovuklarında yaşamlarını sürdürüyor.
 
 Kösür Dağı'nın ekolojik değeri, bölgesel ekosistem için kritik bir rol oynuyor. Dağ, su kaynaklarının korunmasına katkıda bulunmakla birlikte, yerel fauna ve floranın yaşamsal alanını oluşturuyor. Bu nedenle, dağın korunması ve sürdürülebilir kullanımı büyük önem taşıyor.
 

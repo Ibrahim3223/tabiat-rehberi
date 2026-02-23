@@ -22,7 +22,7 @@ wikidata_id: "Q108227304"
 
 # Antalya-Kas-Lengume Kızılçam 2
 
-Antalya-Kas-Lengume Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin en güzel köşelerinden birini oluşturuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok bitki ve hayvan türüne ev sahipliği yapıyor. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlandı. Parkın girişinden itibaren, ziyaretçiler kendilerini bir doğa harikasının içinde bulacaklar. Yeşilin her tonunu görebileceğiniz bu alanda, doğa severler için bir cennet harika bir deneyim.
+Antalya-Kas-Lengume Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin en güzel köşelerinden birini oluşturuyor. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlandı. Parkın girişinden itibaren, ziyaretçiler kendilerini bir doğa harikasının içinde bulacaklar. Yeşilin her tonunu görebileceğiniz bu alanda, doğa severler için bir cennet harika bir deneyim.
 
 ## Tarihçe
 

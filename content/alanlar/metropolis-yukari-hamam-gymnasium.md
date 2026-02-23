@@ -1,7 +1,7 @@
 ---
 title: "Metropolis Yukarı Hamam Gymnasium"
 date: "2026-01-09T23:05:53.012Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738911"
 
 # Metropolis Yukarı Hamam Gymnasium
 
-Ege Bölgesi'nin güzide şehri İzmir'in Torbalı ilçesinde yer alan Metropolis Yukarı Hamam Gymnasium, ziyaretçiler için keyifli bir atmosfer sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahip. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Deniz suyu temiz ve berrak, kumsal ise ince ve altın rengi kumlarla kaplı. Metropolis Yukarı Hamam Gymnasium, doğayı sevenler için gerçek bir cennet.
+Ege Bölgesi'nin güzide şehri İzmir'in Torbalı ilçesinde yer alan Metropolis Yukarı Hamam Gymnasium, ziyaretçiler için keyifli bir atmosfer sunuyor. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Deniz suyu temiz ve berrak, kumsal ise ince ve altın rengi kumlarla kaplı. Metropolis Yukarı Hamam Gymnasium, doğayı sevenler için gerçek bir cennet.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q119442754"
 
 # Bördübet Yaban Hayatı Geliştirme Sahası
 
-Bördübet Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nde yer alan ve yaban hayatı korumayı hedefleyen önemli bir alandır. Bu saha, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Sahada çeşitli bitki türleri ve zengin fauna bulunur. Bu alan, doğa severler ve yaban hayatı ile ilgilenenler için önemli bir destinasyondur.
+Bördübet Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nde yer alan ve yaban hayatı korumayı hedefleyen önemli bir alandır. Sahada çeşitli bitki türleri ve zengin fauna bulunur. Bu alan, doğa severler ve yaban hayatı ile ilgilenenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

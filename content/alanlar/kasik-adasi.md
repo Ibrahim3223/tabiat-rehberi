@@ -29,12 +29,12 @@ wikidata_id: "Q110585"
 
 # Kaşık Adası
 
-İstanbul'un kalbinde, Marmara Denizi'nin sularında gizli bir hazine olarak duran Kaşık Adası, ziyaretçilerini şehrin gürültüsünden uzak bir mundo sunuyor. İstanbul'un tarihi ve kültürel zenginliklerinin arasında yer alan bu ada, şehrin güzel bir köşesini oluşturuyor. İstanbul'un güzelliğine güzellik katan Kaşık Adası, ilin doğa severler ve tatil arayanlar için önemli bir destinasyon olarak karşımıza çıkıyor. 
+İstanbul'un kalbinde, Marmara Denizi'nin sularında gizli bir hazine olarak duran Kaşık Adası, ziyaretçilerini şehrin gürültüsünden uzak bir mundo sunuyor. İstanbul'un tarihi ve kültürel zenginliklerinin arasında yer alan bu ada, şehrin güzel bir köşesini oluşturuyor. İstanbul'un güzelliğine güzellik katan Kaşık Adası, ilin doğa severler ve tatil arayanlar için önemli bir destinasyon olarak karşımıza çıkıyor.
 Kaşık Adası, İstanbul'un turistik mekanlarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
-İstanbul'un eşsiz güzellikteki Kaşık Adası, tarihin sâu izlerini taşıyan bir bölge içinde yer alır. İstanbul Boğazı'nın önemli bir geçiş noktası olarak, çeşitli uygarlıkların izlerini taşımıştır. Antik Çağ'dan itibaren, Bizans ve Osmanlı dönemlerinde bölgede önemli ticaret yolları bulunmaktaydı. Bu ticaret yolları, bölgenin stratejik önemini artırmış ve insan yerleşimini çekmiştir.
+İstanbul'un eşsiz güzellikteki Kaşık Adası, tarihin derin izlerini taşıyan bir bölge içinde yer alır. İstanbul Boğazı'nın önemli bir geçiş noktası olarak, çeşitli uygarlıkların izlerini taşımıştır. Antik Çağ'dan itibaren, Bizans ve Osmanlı dönemlerinde bölgede önemli ticaret yolları bulunmaktaydı. Bu ticaret yolları, bölgenin stratejik önemini artırmış ve insan yerleşimini çekmiştir.
 
 Doğal güzellikleri ve coğrafi konumuyla, Kaşık Adası gibi alanlar Türkiye'de yaylacılık, hayvancılık ve avcılık faaliyetleri için önemli merkezler olarak kullanılmıştır. Bu tür doğal alanlar, insan yerleşimlerinin yanı sıra, tarım ve hayvancılık faaliyetleri için de elverişli koşullar sunmuştur. İstanbul'un tarihi zenginliği, Kaşık Adası'nın da bir parçası olduğu bu doğal güzelliklerle iç içe geçmiş durumdadır. Bölgenin tarihsel önemi, sadece ticaret yolları ve insan yerleşimleriyle sınırlı değildir, aynı zamanda bölgenin ekolojik dengesi ve doğal kaynakları da önemli birrole sahiptir.
 

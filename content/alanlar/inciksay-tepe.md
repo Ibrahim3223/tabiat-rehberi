@@ -28,7 +28,7 @@ wikidata_id: "Q31389462"
 
 # İnciksay Tepe
 
-İnciksay Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. İnciksay Tepe, ziyaretçilerini kendine çekmeyi başaran bir yerdir. Burada, doğanın güzelliği ve tarihi geçmişin bir araya geldiği bir atmosfer bulunur. Bu tepe, aynı zamanda bir gözlem noktası olarak da düşünülebilir, çünkü buradan çevreyi izleme mümkündür.
+İnciksay Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir doğal güzellik alanıdır. İnciksay Tepe, ziyaretçilerini kendine çekmeyi başaran bir yerdir. Burada, doğanın güzelliği ve tarihi geçmişin bir araya geldiği bir atmosfer bulunur. Bu tepe, aynı zamanda bir gözlem noktası olarak da düşünülebilir, çünkü buradan çevreyi izleme mümkündür.
 
 ## Tarihçe
 

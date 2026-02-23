@@ -52,7 +52,7 @@ Mevsimsel değişimlerin etkisiyle, Kavgalı Dağı'nın iklim karakteri değiş
 
 Kavgalı Dağı, Aydın'ın zeytinliklerle çevrili eteklerinde yükselen bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçları rengarenk çiçeklere bürünürken, sonbaharda göç eden kuş sürüleri gökyüzünü süsler.
 
-Dağın bitki örtüsünü çam ormanları ve zeytinlikler oluşturur. Yükseklik zonlarına göre değişen flora, alpin çiçeklere ve endemik bitkılere ev sahipliği yapar. Bu bitkiler, dağların zorlu koşullarına adapte olmuş, özel türlerdir. 
+Dağın bitki örtüsünü çam ormanları ve zeytinlikler oluşturur. Yükseklik zonlarına göre değişen flora, alpin çiçeklere ve endemik bitkılere ev sahipliği yapar. Bu bitkiler, dağların zorlu koşullarına adapte olmuş, özel türlerdir.
 
 Yaban hayatı da oldukça zengin olan Kavgalı Dağı, çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapar. Dağın ekolojik değeri, bu zengin çeşitlilikten kaynaklanır. Bu alanın korunması, sadece yerel ekosistemi değil, aynı zamanda bölgenin iklim dengesini de korumak açısından önemlidir.
 

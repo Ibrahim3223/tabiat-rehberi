@@ -1,7 +1,7 @@
 ---
 title: "Alaaddin Efendi Türbesi"
 date: "2026-01-10T06:59:57.041Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390856"
 
 # Alaaddin Efendi Türbesi
 
-Alaaddin Efendi Türbesi, Kastamonu il merkezinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği önemli bir noktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbeden bu mekan, Kastamonu'nun önemli turizm noktalarından biridir. Alaaddin Efendi Türbesi, Kastamonu il merkezine blízkığı ve ulaşım kolaylığı nedeniyle ziyaretçilerin ilgisini çeker.
+Alaaddin Efendi Türbesi, Kastamonu il merkezinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği önemli bir noktadır. Tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbeden bu mekan, Kastamonu'nun önemli turizm noktalarından biridir. Alaaddin Efendi Türbesi, Kastamonu il merkezine blízkığı ve ulaşım kolaylığı nedeniyle ziyaretçilerin ilgisini çeker.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Alaaddin Efendi Türbesi, tarihsel geçmişi ile dikkat çeker. Tarihi kaynaklar
 
 ## Coğrafya
 
-Alaaddin Efendi Türbesi, Kastamonu il merkezinde yer alır ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle yeşilin çeşitli tonlarını barındıran ormanlar ve tarlalar ile çevrilidir. İklimi, Karadeniz ikliminin özelliklerini taşır ve genellikle yağışlı ve serin bir hava hakimdir. Alaaddin Efendi Türbesi, ulaşım kolaylığı nedeniyle ziyaretçilerin ilgisini çeker. Bu türebe, Kastamonu il merkezine yakın bir konumda yer alır ve çeşitli ulaşım araçları ile kolayca erişilebilir. Coğrafi konumu ve ulaşım kolaylığı ile Alaaddin Efendi Türbesi, Kastamonu'nun önemli turizm noktalarından biridir. Ayrıca, bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+Alaaddin Efendi Türbesi, Kastamonu il merkezinde yer alır ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle yeşilin çeşitli tonlarını barındıran ormanlar ve tarlalar ile çevrilidir. İklimi, Karadeniz ikliminin özelliklerini taşır ve genellikle yağışlı ve serin bir hava hakimdir. Alaaddin Efendi Türbesi, ulaşım kolaylığı nedeniyle ziyaretçilerin ilgisini çeker. Bu türebe, Kastamonu il merkezine yakın bir konumda yer alır ve çeşitli ulaşım araçları ile kolayca erişilebilir. Coğrafi konumu ve ulaşım kolaylığı ile Alaaddin Efendi Türbesi, Kastamonu'nun önemli turizm noktalarından biridir.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Alaaddin Efendi Türbesi, ziyaretçilerine farklı bir deneyim sunar. Bu türebe
 - Alaaddin Efendi Türbesi, Kastamonu il merkezinde yer alır.
 - Bu türebe, tarihi geçmişi ile dikkat çeker.
 - Alaaddin Efendi Türbesi, doğal güzelliği ile birlikte, ziyaretçilerine farklı bir deneyim sunar.
-- Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Alaaddin Efendi Türbesi, ulaşım kolaylığı nedeniyle ziyaretçilerin ilgisini çeker.

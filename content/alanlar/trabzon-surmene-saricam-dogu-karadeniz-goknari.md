@@ -22,7 +22,7 @@ wikidata_id: "Q108227594"
 
 # Trabzon-Surmene-Saricam Dogu Karadeniz Goknari
 
-Trabzon-Surmene-Saricam Dogu Karadeniz Goknari, Trabzon'un doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeken bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Milli park, Trabzon'un Surmene ve Saricam ilçeleri arasında yer alıyor ve bölgeye özgü bitki türleri ile hayvan çeşitliliği ile dikkat çekiyor.
+Trabzon-Surmene-Saricam Dogu Karadeniz Goknari, Trabzon'un doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeken bir milli parktır. Milli park, Trabzon'un Surmene ve Saricam ilçeleri arasında yer alıyor ve bölgeye özgü bitki türleri ile hayvan çeşitliliği ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Trabzon-Surmene-Saricam Dogu Karadeniz Goknari'nin tarihi geçmişi, bölgenin c
 
 ## Coğrafya
 
-Trabzon-Surmene-Saricam Dogu Karadeniz Goknari, Trabzon'un Surmene ve Saricam ilçeleri arasında yer alan bir milli parktır. Milli park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip ve dağlar, ormanlar ve nehirler ile çevrilidir. Milli parkın iklimi, Karadeniz ikliminin özelliklerini taşıyor ve bölgede, yıl boyunca, yağışlı ve nemli bir hava hakim. Bu durum, bölgenin flora ve fauna çeşitliliğiçin uygun koşullar sağlıyor. Milli parkta, çeşitli bitki türleri ve hayvanlar yaşıyor ve ziyaretçilere, doğa ile iç içe bir deneyim sunuyor.
+Trabzon-Surmene-Saricam Dogu Karadeniz Goknari, Trabzon'un Surmene ve Saricam ilçeleri arasında yer alan bir milli parktır. Bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip ve dağlar, ormanlar ve nehirler ile çevrilidir. Milli parkın iklimi, Karadeniz ikliminin özelliklerini taşıyor ve bölgede, yıl boyunca, yağışlı ve nemli bir hava hakim. Bu durum, bölgenin flora ve fauna çeşitliliğiçin uygun koşullar sağlıyor. Milli parkta, çeşitli bitki türleri ve hayvanlar yaşıyor ve ziyaretçilere, doğa ile iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

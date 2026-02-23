@@ -1,7 +1,7 @@
 ---
 title: "Mehmet Ağa Hamamı"
 date: "2026-01-09T22:53:53.041Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

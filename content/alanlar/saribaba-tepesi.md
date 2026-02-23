@@ -28,7 +28,7 @@ wikidata_id: "Q31387783"
 
 # Sarıbaba Tepesi
 
-Sarıbaba Tepesi, Erzurum'un merkezi bir konumunda yer alır ve şehre hakim bir tepe olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Tepenin etrafında çeşitli bitki türleri bulunur ve mevsimsel değişimlerle birlikte renklenen manzarasıyla ziyaretçilerini etkiler. Sarıbaba Tepesi, Erzurum'un tarihini ve kültürünü anlamak için önemli bir noktadır.
+Sarıbaba Tepesi, Erzurum'un merkezi bir konumunda yer alır ve şehre hakim bir tepe olarak bilinir. Tepenin etrafında çeşitli bitki türleri bulunur ve mevsimsel değişimlerle birlikte renklenen manzarasıyla ziyaretçilerini etkiler. Sarıbaba Tepesi, Erzurum'un tarihini ve kültürünü anlamak için önemli bir noktadır.
 
 ## Tarihçe
 

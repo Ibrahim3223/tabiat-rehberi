@@ -50,7 +50,7 @@ Narman Boğazı, çevresindeki doğal güzelliklerle de önemli bir ekosistem ba
 
 ## Flora ve Fauna
 
-Narman Boğazı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan benzersiz bir kanyon alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Narman Boğazı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan benzersiz bir kanyon alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, alpin çayırların hakim olduğu bu bölgede, ilkbahar aylarında çiçeklerin rengarenk bir görsel şölen sunması dikkat çekicidir. Sonbahar mevsiminde ise, göç eden kuşlar bu bölgeden geçerken, bölgeye farklı türlerin renklerini katarlar.
 

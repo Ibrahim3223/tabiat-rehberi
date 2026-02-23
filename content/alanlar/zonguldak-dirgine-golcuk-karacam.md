@@ -22,7 +22,7 @@ wikidata_id: "Q108227538"
 
 # Zonguldak-Dirgine-Gölcük Karacam
 
-Zonguldak-Dirgine-Gölcük Karacam milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik dengesini oluşturuyor. Bu milli park, ziyaretçilerine zengin bir flora ve fauna sunuyor ve doğal güzelliği ile büyülüyor. Zonguldak ili sınırları içinde yer alan bu milli park, aynı zamanda bölgenin tarihini ve kültürünü de yansıtıyor.
+Zonguldak-Dirgine-Gölcük Karacam milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. Bu milli park, ziyaretçilerine zengin bir flora ve fauna sunuyor ve doğal güzelliği ile büyülüyor. Zonguldak ili sınırları içinde yer alan bu milli park, aynı zamanda bölgenin tarihini ve kültürünü de yansıtıyor.
 
 ## Tarihçe
 

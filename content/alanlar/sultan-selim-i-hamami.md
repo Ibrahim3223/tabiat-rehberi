@@ -1,7 +1,7 @@
 ---
 title: "Sultan Selim (I) Hamamı"
 date: "2026-01-09T23:42:24.685Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739126"
 
 # Sultan Selim (I) Hamamı
 
-Sultan Selim (I) Hamamı, Marmara Bölgesi'nin kalbinde, Fatih/İstanbul'da yer alan tarihi ve doğal güzelliği ile dikkat çeken bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçilere geniş bir alan sunuyor. Sultan Selim (I) Hamamı, İstanbul'un tarihi dokusunu korurken, aynı zamanda doğal güzelliği ile de ziyaretçilerini etkiliyor. Hamamın tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiş ve bu nedenle, tarihi önemi bastante.
+Sultan Selim (I) Hamamı, Marmara Bölgesi'nin kalbinde, Fatih/İstanbul'da yer alan tarihi ve doğal güzelliği ile dikkat çeken bir mekan. Sultan Selim (I) Hamamı, İstanbul'un tarihi dokusunu korurken, aynı zamanda doğal güzelliği ile de ziyaretçilerini etkiliyor. Hamamın tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiş ve bu nedenle, tarihi önemi bastante.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sultan Selim (I) Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok öne
 
 ## Coğrafya
 
-Sultan Selim (I) Hamamı, Marmara Bölgesi'nin kalbinde, Fatih/İstanbul'da yer alıyor. Hamam, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçilere geniş bir alan sunuyor. Hamamın coğrafi konumu, İstanbul'un tarihi dokusunu korurken, aynı zamanda doğal güzelliği ile de dikkat çekiyor. Hamamın etrafı, tarihi binalar ve yeşilliklerle çevrili ve bu nedenle, ziyaretçilere huzurlu bir ortam sunuyor. Sultan Selim (I) Hamamı, İstanbul'un coğrafi güzelliğini korurken, aynı zamanda tarihi değerini de koruyarak, ziyaretçilerini ağırlıyor.
+Sultan Selim (I) Hamamı, Marmara Bölgesi'nin kalbinde, Fatih/İstanbul'da yer alıyor. Hamamın coğrafi konumu, İstanbul'un tarihi dokusunu korurken, aynı zamanda doğal güzelliği ile de dikkat çekiyor. Hamamın etrafı, tarihi binalar ve yeşilliklerle çevrili ve bu nedenle, ziyaretçilere huzurlu bir ortam sunuyor. Sultan Selim (I) Hamamı, İstanbul'un coğrafi güzelliğini korurken, aynı zamanda tarihi değerini de koruyarak, ziyaretçilerini ağırlıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sultan Selim (I) Hamamı, ziyaretçilere zengin bir deneyim sunuyor. Hamama ula�
 ## İlginç Bilgiler
 
 - Sultan Selim (I) Hamamı, İstanbul'un tarihi dokusunu korurken, aynı zamanda doğal güzelliği ile de dikkat çekiyor.
-- Hamam, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Sultan Selim (I) Hamamı, yüzyıllar boyunca birçok önemli olaya tanıklık etmiş.
 - Hamam, İstanbul'un merkezi bir bölgesinde yer alıyor.
 - Sultan Selim (I) Hamamı, yılın her dönemi ziyaret edilebilir.

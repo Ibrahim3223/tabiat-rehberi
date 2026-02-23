@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzellikleriyle ünlü illeri
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölgede, Gayber Tepe gibi doğal güzelliklerin arasında, çeşitli uygarlıkların izlerini görme mümkündür. Diyarbakır, tarihi boyunca Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetlerin hakimiyetine girmiş ve her biri bu topraklara kendi kültürel mirasını bırakmıştır.
+Diyarbakır bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölgede, Gayber Tepe gibi doğal güzelliklerin arasında, çeşitli uygarlıkların izlerini görme mümkündür. Diyarbakır, tarihi boyunca Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetlerin hakimiyetine girmiş ve her biri bu topraklara kendi kültürel mirasını bırakmıştır.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu bölgelerle olan ilişkisini şekillendirmiştir. İnsanların bu alanları kullanması, sadece ekonomik amaçlarla sınırlı kalmamış, aynı zamanda kültürel ve sosyal hayatın da bir parçası haline gelmiştir. Gayber Tepe gibi dağlar, bölgenin coğrafi yapısını şekillendiren önemli unsurlardan biridir. Bu dağların eteklerinde ve zirvelerinde, insanların yaşadığı, ürettiği ve ticaret yaptığı yerler, tarihin derinliklerinden gelen bir mirası taşımaktadır.
 

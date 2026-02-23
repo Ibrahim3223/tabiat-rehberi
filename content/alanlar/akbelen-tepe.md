@@ -28,7 +28,7 @@ wikidata_id: "Q31390146"
 
 # Akbelen Tepe
 
-Akbelen Tepe, Antalya'nın eşsiz doğası ve tarihi geçmişiyle ziyaretçilerini cezbediyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreyi mükemmel bir şekilde yansıtıyor. Akbelen Tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. Doğal güzellikleri ve tarihi kalıntılarıyla, ziyaretçilerini zamanda yolculuğa çıkarıyor. Ayrıca, bu bölgeyi ziyaret etmek, Antalya'nın zengin kültürel mirasını keşfetmek için ideal bir fırsat sunuyor.
+Akbelen Tepe, Antalya'nın eşsiz doğası ve tarihi geçmişiyle ziyaretçilerini cezbediyor. Akbelen Tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. Doğal güzellikleri ve tarihi kalıntılarıyla, ziyaretçilerini zamanda yolculuğa çıkarıyor. Ayrıca, bu bölgeyi ziyaret etmek, Antalya'nın zengin kültürel mirasını keşfetmek için ideal bir fırsat sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Akbelen Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların
 
 ## Coğrafya
 
-Akbelen Tepe, Antalya'nın coğrafi açıdan önemli bir bölgesinde yer alıyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve çevreyi mükemmel bir şekilde yansıtıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzellikleri ile dikkat çekiyor. Akbelen Tepe'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunuyor ve doğa severleri cezbediyor. Ayrıca, bu bölgenin iklimi, genel olarak Akdeniz ikliminin özelliklerini taşıyor ve ziyaretçilere uygun koşullar sağlıyor. Coğrafi konumu ve doğal güzellikleri, Akbelen Tepe'yi ziyaret etmek için ideal bir yer haline getiriyor.
+Akbelen Tepe, Antalya'nın coğrafi açıdan önemli bir bölgesinde yer alıyor. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve çevreyi mükemmel bir şekilde yansıtıyor. Akbelen Tepe'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunuyor ve doğa severleri cezbediyor. Ayrıca, bu bölgenin iklimi, genel olarak Akdeniz ikliminin özelliklerini taşıyor ve ziyaretçilere uygun koşullar sağlıyor. Coğrafi konumu ve doğal güzellikleri, Akbelen Tepe'yi ziyaret etmek için ideal bir yer haline getiriyor.
 
 ## Flora ve Fauna
 

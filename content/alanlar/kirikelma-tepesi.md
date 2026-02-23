@@ -28,7 +28,7 @@ wikidata_id: "Q31535588"
 
 # Kırıkelma Tepesi
 
-Kırıkelma Tepesi, Hatay ilinin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, Akdeniz Bölgesi'nde yer alan önemli bir coğrafi oluşum olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile zengin fauna encontrabilirsiniz. Kırıkelma Tepesi'nin yüksekliği ve genişliği, bu bölgenin coğrafi özelliklerini belirler. Burada doğa severler için birçok gezi ve gözlem alanı bulunur.
+Kırıkelma Tepesi, Hatay ilinin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, Akdeniz Bölgesi'nde yer alan önemli bir coğrafi oluşum olarak bilinir. Kırıkelma Tepesi'nin yüksekliği ve genişliği, bu bölgenin coğrafi özelliklerini belirler. Burada doğa severler için birçok gezi ve gözlem alanı bulunur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kırıkelma Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Kırıkelma Tepesi, Hatay ilinin coğrafi yapısını belirleyen önemli bir oluşumdur. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile zengin fauna bulunur. Kırıkelma Tepesi'nin yüksekliği ve genişliği, bu bölgenin coğrafi özelliklerini belirler. Burada doğa severler için birçok gezi ve gözlem alanı bulunur. Tepenin eteklerinde, küçüköyler ve yerleşim yerleri bulunur ve bu bölge, tarımın geliştiği bir alan olarak bilinir. Kırıkelma Tepesi'nin iklimi, Akdeniz iklimi özellikleri taşır ve genellikle ılıman ve yağışlı bir hava tnar.
+Kırıkelma Tepesi, Hatay ilinin coğrafi yapısını belirleyen önemli bir oluşumdur. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Kırıkelma Tepesi'nin yüksekliği ve genişliği, bu bölgenin coğrafi özelliklerini belirler. Burada doğa severler için birçok gezi ve gözlem alanı bulunur. Tepenin eteklerinde, küçüköyler ve yerleşim yerleri bulunur ve bu bölge, tarımın geliştiği bir alan olarak bilinir. Kırıkelma Tepesi'nin iklimi, Akdeniz iklimi özellikleri taşır ve genellikle ılıman ve yağışlı bir hava tnar.
 
 ## Flora ve Fauna
 

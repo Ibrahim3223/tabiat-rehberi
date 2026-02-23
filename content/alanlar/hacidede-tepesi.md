@@ -28,7 +28,7 @@ wikidata_id: "Q31567108"
 
 # Hacıdede Tepesi
 
-Hacıdede Tepesi, Karabük'ün merkezinde yükselen ve bölgeye hakim olan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevredeki yerleşim yerlerine nazaran daha yüksek bir konumda. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Hacıdede Tepesi, hem yerel halk hem de turistler için bir çekim merkezi ve Karabük'ün doğal güzelliklerini keşfetmek isteyenler için ideal bir başlangıç noktası.
+Hacıdede Tepesi, Karabük'ün merkezinde yükselen ve bölgeye hakim olan bir tepe. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Hacıdede Tepesi, hem yerel halk hem de turistler için bir çekim merkezi ve Karabük'ün doğal güzelliklerini keşfetmek isteyenler için ideal bir başlangıç noktası.
 
 ## Tarihçe
 

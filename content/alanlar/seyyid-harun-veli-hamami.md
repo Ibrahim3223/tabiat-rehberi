@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Harun Veli Hamamı"
 date: "2026-01-09T23:40:08.299Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739169"
 
 # Seyyid Harun Veli Hamamı
 
-Seyyid Harun Veli Hamamı, Konya'nın Seydişehir ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir hamamdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyük alan, ziyaretçilere geniş bir gezi alanı sunmaktadır. Seyyid Harun Veli Hamamı, aynı zamanda bölgenin önemli turizm merkezlerinden biridir. İç Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasını keşfetmek isteyenler için ideal bir destinasyondur. Hamamın tarihi geçmişi, bölgenin önemli olaylarına tanıklık etmiş ve bu nedenle turizm açısından büyük önem taşımaktadır.
+Seyyid Harun Veli Hamamı, Konya'nın Seydişehir ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir hamamdır. Seyyid Harun Veli Hamamı, aynı zamanda bölgenin önemli turizm merkezlerinden biridir. İç Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasını keşfetmek isteyenler için ideal bir destinasyondur. Hamamın tarihi geçmişi, bölgenin önemli olaylarına tanıklık etmiş ve bu nedenle turizm açısından büyük önem taşımaktadır.
 
 ## Tarihçe
 

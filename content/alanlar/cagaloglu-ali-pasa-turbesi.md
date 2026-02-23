@@ -1,7 +1,7 @@
 ---
 title: "Cağaloğlu Ali Paşa Türbesi"
 date: "2026-01-10T06:17:02.898Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390552"
 
 # Cağaloğlu Ali Paşa Türbesi
 
-Cağaloğlu Ali Paşa Türbesi, İzmir'in Tire ilçesinde yer alan tarihi bir türbe ve çevresindeki doğal güzelliklerdir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tire'nin merkezi ve çevresindeki doğal güzellikleri ile birlikte, bu bölge Ege Bölgesi'nin önemli turizm noktalarından biri haline geliyor. Cağaloğlu Ali Paşa Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Cağaloğlu Ali Paşa Türbesi, İzmir'in Tire ilçesinde yer alan tarihi bir türbe ve çevresindeki doğal güzelliklerdir. Tire'nin merkezi ve çevresindeki doğal güzellikleri ile birlikte, bu bölge Ege Bölgesi'nin önemli turizm noktalarından biri haline geliyor. Cağaloğlu Ali Paşa Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Cağaloğlu Ali Paşa Türbesi, tarihin derinliklerinden gelen bir geçmişe sah
 
 ## Coğrafya
 
-Cağaloğlu Ali Paşa Türbesi, İzmir'in Tire ilçesinde, Ege Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Bu bölgenin coğrafyası, genel olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlar, ovalar ve kıyı şeritleri ile çeşitli coğrafi oluşumları barındırıyor. Tire ve çevresindeki arazi, genellikle engebeli ve dağlık bir yapıya sahip. Bu coğrafi yapı, bölgenin iklimini ve bitki örtüsünü etkiliyor. Cağaloğlu Ali Paşa Türbesi'nin bulunduğu alan, 140 hektarlık bir yeşil alan olarak khong 200 futbol sahası büyüklüğünde ve çevresindeki doğal güzelliklerle birlikte önemli bir gezi noktası oluşturuyor. Bölgenin iklimi, genel olarak Akdeniz ikliminin özelliklerini taşıyor; yani yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasını etkileyerek, çeşitli bitki ve hayvan türlerinin yaşamına uygun bir ortam sunuyor.
+Cağaloğlu Ali Paşa Türbesi, İzmir'in Tire ilçesinde, Ege Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Bu bölgenin coğrafyası, genel olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlar, ovalar ve kıyı şeritleri ile çeşitli coğrafi oluşumları barındırıyor. Tire ve çevresindeki arazi, genellikle engebeli ve dağlık bir yapıya sahip. Bu coğrafi yapı, bölgenin iklimini ve bitki örtüsünü etkiliyor. Bölgenin iklimi, genel olarak Akdeniz ikliminin özelliklerini taşıyor; yani yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasını etkileyerek, çeşitli bitki ve hayvan türlerinin yaşamına uygun bir ortam sunuyor.
 
 ## Flora ve Fauna
 

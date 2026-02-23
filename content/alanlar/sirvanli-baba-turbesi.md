@@ -1,7 +1,7 @@
 ---
 title: "Şirvanlı Baba Türbesi"
 date: "2026-01-10T06:18:47.078Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -21,7 +21,7 @@ aktiviteler: ["Türbe ziyaretleri","Plaj activities","Doğa yürüyüşleri","Re
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Şirvanlı Baba Türbesi","caption":"Şirvanlı Baba Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eirvanl%C4%B1%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390663","tip":"genel"}]
-description: "Amasya'da histórik bir figürün ziyaret edilebileceği bir türbe ve plaj"
+description: "Amasya'da tarihi bir figürün ziyaret edilebileceği bir türbe ve plaj"
 keywords: ["Amasya","Karadeniz Bölgesi","Türbe","Plaj","Şirvanlı Baba","Tarih","Doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390663"

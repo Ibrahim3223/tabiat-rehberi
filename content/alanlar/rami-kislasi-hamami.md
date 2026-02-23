@@ -1,7 +1,7 @@
 ---
 title: "Rami Kışlası Hamamı"
 date: "2026-01-09T23:43:06.452Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739148"
 
 # Rami Kışlası Hamamı
 
-Rami Kışlası Hamamı, Eyüpsultan'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş yeşil alan, ziyaretçilerine hem tarihi hem de doğal güzelliklerin keyfini çıkarmalarına olanak tanır. Rami Kışlası Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve huzurlu bir atmosfere sahip bir mekan olarak bilinir.
+Rami Kışlası Hamamı, Eyüpsultan'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir alandır. Bu geniş yeşil alan, ziyaretçilerine hem tarihi hem de doğal güzelliklerin keyfini çıkarmalarına olanak tanır. Rami Kışlası Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve huzurlu bir atmosfere sahip bir mekan olarak bilinir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Rami Kışlası Hamamı'nın tarihi geçmişi, Osmanlı dönemine kadar uzanır.
 
 ## Coğrafya
 
-Rami Kışlası Hamamı, Eyüpsultan'da yer alan ve Marmara Bölgesi'nin doğal güzelliklerine sahip bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve çeşitli bitki türlerini barındırır. Rami Kışlası Hamamı'nın coğrafi konumu, ziyaretçilerine şehrin merkezinden uzaklaşarak doğal güzelliklerin keyfini çıkarmalarına olanak tanır. Bu alanın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemlidir. Rami Kışlası Hamamı'nın çevre güzellikleri, ziyaretçilerine doğayla iç içe bir ortam sunar ve bu reasonswhy bu alanın ziyaretçilerini cezbeden önemli bir faktördür.
+Rami Kışlası Hamamı, Eyüpsultan'da yer alan ve Marmara Bölgesi'nin doğal güzelliklerine sahip bir alandır. Rami Kışlası Hamamı'nın coğrafi konumu, ziyaretçilerine şehrin merkezinden uzaklaşarak doğal güzelliklerin keyfini çıkarmalarına olanak tanır. Bu alanın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemlidir. Rami Kışlası Hamamı'nın çevre güzellikleri, ziyaretçilerine doğayla iç içe bir ortam sunar ve bu reasonswhy bu alanın ziyaretçilerini cezbeden önemli bir faktördür.
 
 ## Flora ve Fauna
 

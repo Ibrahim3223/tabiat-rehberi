@@ -28,7 +28,7 @@ wikidata_id: "Q31558565"
 
 # Kellerkale Tepesi
 
-Kellerkale Tepesi, Ankara'nın güzide noktalarından biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın renklerini sunarken, tepe itself ise muhteşem manzaralar sunuyor. Kellerkale Tepesi, doğa severler ve tarih meraklıları için bir hazine.
+Kellerkale Tepesi, Ankara'nın güzide noktalarından biri olarak karşımıza çıkıyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın renklerini sunarken, tepe itself ise muhteşem manzaralar sunuyor. Kellerkale Tepesi, doğa severler ve tarih meraklıları için bir hazine.
 
 ## Tarihçe
 

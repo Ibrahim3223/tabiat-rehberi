@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Mehmed Haydar Dede Türbesi"
 date: "2026-01-10T07:08:46.766Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390991"
 
 # Seyyid Mehmed Haydar Dede Türbesi
 
-Seyyid Mehmed Haydar Dede Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Fatih ilçesinde bulunan bu tarihi yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Türbenin mimarisi ve tarihi önemi, ziyaretçilerini zamanda yolculuğa çıkarıyor. Bu alan, aynı zamanda İstanbul'un zengin kültür mirasını keşfetmek isteyenler için bir başlangıç noktası olarak düşünülebilir. Seyyid Mehmed Haydar Dede Türbesi, İstanbul'un tarihi dokusunu koruma ve geleceğe taşımak için önemli bir görev üstleniyor.
+Seyyid Mehmed Haydar Dede Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Türbenin mimarisi ve tarihi önemi, ziyaretçilerini zamanda yolculuğa çıkarıyor. Bu alan, aynı zamanda İstanbul'un zengin kültür mirasını keşfetmek isteyenler için bir başlangıç noktası olarak düşünülebilir. Seyyid Mehmed Haydar Dede Türbesi, İstanbul'un tarihi dokusunu koruma ve geleceğe taşımak için önemli bir görev üstleniyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Seyyid Mehmed Haydar Dede Türbesi, İstanbul'un tarihi geçmişiçinde önemli 
 
 ## Coğrafya
 
-Seyyid Mehmed Haydar Dede Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Bu bölge, İstanbul'un tarihi merkezi olarak kabul ediliyor ve birçok önemli tarihi yapıya ev sahipliği yapıyor. Türbenin bulunduğu alan, khong 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Türbe, İstanbul'un coğrafi olarak önemli bir konumda yer alıyor. Şehrin merkezinde bulunması, ziyaretçilerin diğer tarihi yapılara ve önemli noktalara kolayca ulaşabilmesini sağlıyor. İstanbul'un iklimi ve coğrafi özellikleri, türbenin mimari yapısını ve korunmasını etkileyen önemli faktörler arasında. Türbenin çevresi, tarihi yapılar ve yeşil alanlarla dolu, böylece ziyaretçilere zengin bir görsel deneyim sunuyor. Bu coğrafi konum, aynı zamanda türbenin tarihi ve kültürel öneminin anlaşılmasına yardımcı oluyor.
+Seyyid Mehmed Haydar Dede Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Bu bölge, İstanbul'un tarihi merkezi olarak kabul ediliyor ve birçok önemli tarihi yapıya ev sahipliği yapıyor. Türbe, İstanbul'un coğrafi olarak önemli bir konumda yer alıyor. Şehrin merkezinde bulunması, ziyaretçilerin diğer tarihi yapılara ve önemli noktalara kolayca ulaşabilmesini sağlıyor. İstanbul'un iklimi ve coğrafi özellikleri, türbenin mimari yapısını ve korunmasını etkileyen önemli faktörler arasında. Türbenin çevresi, tarihi yapılar ve yeşil alanlarla dolu, böylece ziyaretçilere zengin bir görsel deneyim sunuyor. Bu coğrafi konum, aynı zamanda türbenin tarihi ve kültürel öneminin anlaşılmasına yardımcı oluyor.
 
 ## Flora ve Fauna
 

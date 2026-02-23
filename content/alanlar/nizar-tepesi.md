@@ -28,7 +28,7 @@ wikidata_id: "Q31509857"
 
 # Nizar Tepesi
 
-Nizar Tepesi, Van şehrinin güzide noktalarından biri olarak dikkat çeker. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğanın kucağına davet eder. Nizar Tepesi, Van'ın coğrafi güzelliklerinin bir kanıtı olarak karşımıza çıkar. Bu tepe, şehre gelenlerin ziyaret ettiği önemli noktalar arasındadır. Nizar Tepesi, Van'ın tarihini ve kültürünü yansıtan önemli bir mekândır. Doğal güzellikleri, tarihi geçmişiyle birlikte bu tepe, ziyaretçilerini etkileyen bir güzelliğe sahiptir.
+Nizar Tepesi, Van şehrinin güzide noktalarından biri olarak dikkat çeker. Nizar Tepesi, Van'ın coğrafi güzelliklerinin bir kanıtı olarak karşımıza çıkar. Bu tepe, şehre gelenlerin ziyaret ettiği önemli noktalar arasındadır. Nizar Tepesi, Van'ın tarihini ve kültürünü yansıtan önemli bir mekândır. Doğal güzellikleri, tarihi geçmişiyle birlikte bu tepe, ziyaretçilerini etkileyen bir güzelliğe sahiptir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Nizar Tepesi, tarihi geçmişiyle birlikte Van'ın önemli noktalarından biridi
 
 ## Coğrafya
 
-Nizar Tepesi, Van şehrinin coğrafi güzelliklerini gösteren önemli bir noktadır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, Van'ın doğal güzelliklerini yansıtan bir mekândır. Nizar Tepesi, Van'ın iklimini gösteren önemli bir noktadır. Bu tepe, Van'ın coğrafi yapısını gösteren önemli bir merkezdir. Nizar Tepesi, Van'ın çevre güzelliklerini gösteren önemli bir noktadır. Bu tepe, Van'ın doğal güzelliklerini korumak için önemli bir adımdır. Nizar Tepesi, Van'ın coğrafi güzelliklerini korumak için önemli bir çalışmanın ürünüdür. Bu tepe, Van'ın doğal zenginliklerini gösteren önemli bir noktadır. Nizar Tepesi, Van'ın coğrafi yapısını gösteren önemli bir belgedir. Nizar Tepesi, Van'ın coğrafi güzelliklerini yansıtan önemli bir mekândır.
+Nizar Tepesi, Van şehrinin coğrafi güzelliklerini gösteren önemli bir noktadır. Nizar Tepesi, Van'ın iklimini gösteren önemli bir noktadır. Bu tepe, Van'ın coğrafi yapısını gösteren önemli bir merkezdir. Nizar Tepesi, Van'ın çevre güzelliklerini gösteren önemli bir noktadır. Bu tepe, Van'ın doğal güzelliklerini korumak için önemli bir adımdır. Nizar Tepesi, Van'ın coğrafi güzelliklerini korumak için önemli bir çalışmanın ürünüdür. Bu tepe, Van'ın doğal zenginliklerini gösteren önemli bir noktadır. Nizar Tepesi, Van'ın coğrafi yapısını gösteren önemli bir belgedir. Nizar Tepesi, Van'ın coğrafi güzelliklerini yansıtan önemli bir mekândır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Nizar Tepesi, Van'a gelenlerin ziyaret ettiği önemli noktalar arasındadır. B
 ## İlginç Bilgiler
 
 - Nizar Tepesi, Van'ın en önemli noktalarından biridir.
-- Bu tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Nizar Tepesi, Van'ın coğrafi güzelliklerini gösteren önemli bir noktadır.
 - Bu tepe, Van'ın fauna zenginliğini gösteren önemli bir noktadır.
 - Nizar Tepesi, Van'ın ekolojik dengesini gösteren önemli bir noktadır.

@@ -28,7 +28,7 @@ wikidata_id: "Q31391013"
 
 # Karamağara Tepe
 
-Karamağara Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Karamağara Tepe, ziyaretçilerini doğayla baş başa bırakıyor. Burada, bitki türleri ve zengin fauna encontrabilir. Karamağara Tepe, aynı zamanda tarihi bir geçmişe sahip. Bu tepenin tarihi hakkında bilgi edinmek için, ziyaretçiler buradaki kalıntılara ve eserlere bakabilirler.
+Karamağara Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Karamağara Tepe, ziyaretçilerini doğayla baş başa bırakıyor. Burada, bitki türleri ve zengin fauna encontrabilir. Karamağara Tepe, aynı zamanda tarihi bir geçmişe sahip. Bu tepenin tarihi hakkında bilgi edinmek için, ziyaretçiler buradaki kalıntılara ve eserlere bakabilirler.
 
 ## Tarihçe
 

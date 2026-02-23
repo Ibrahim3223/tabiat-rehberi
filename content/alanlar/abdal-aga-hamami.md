@@ -1,7 +1,7 @@
 ---
 title: "Abdal Ağa Hamamı"
 date: "2026-01-09T23:35:39.827Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739205"
 
 # Abdal Ağa Hamamı
 
-Abdal Ağa Hamamı, Şanlıurfa'nın Siverek ilçesinde yer alan 140 hektarlık bir yeşil alan. Bu geniş arazi, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Hamamın çevresi, çeşitli ağaç türleriyle kaplı ve ziyaretçilere serin bir atmosfer sunuyor. Abdal Ağa Hamamı, doğa yürüyüşleri, piknik yapma ve doğayı seyretmek için ideal bir yer.
+Abdal Ağa Hamamı, Şanlıurfa'nın Siverek ilçesinde yer alan 140 hektarlık bir yeşil alan. Hamamın çevresi, çeşitli ağaç türleriyle kaplı ve ziyaretçilere serin bir atmosfer sunuyor. Abdal Ağa Hamamı, doğa yürüyüşleri, piknik yapma ve doğayı seyretmek için ideal bir yer.
 
 ## Tarihçe
 

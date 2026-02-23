@@ -29,7 +29,7 @@ wikidata_id: "Q108228229"
 
 # Değirmenboğazı Tabiat Parkı
 
-Değirmenboğazı Tabiat Parkı, Marmara Bölgesi'nin güzide illerinden biri olan Balıkesir'de bulunmaktadır. Bu park, yaklaşık 140 hektarlık bir alanı kapsar ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeken bu bölge, hem doğa severlerin hem de araştırma yapanların ilgisini çekmektedir. Parkın içinde, çeşitli bitki türleri ve yaban hayatı bulunur. Bu tabiat parkı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
+Değirmenboğazı Tabiat Parkı, Marmara Bölgesi'nin güzide illerinden biri olan Balıkesir'de bulunmaktadır. Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeken bu bölge, hem doğa severlerin hem de araştırma yapanların ilgisini çekmektedir. Parkın içinde, çeşitli bitki türleri ve yaban hayatı bulunur. Bu tabiat parkı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
 
 ## Tarihçe
 

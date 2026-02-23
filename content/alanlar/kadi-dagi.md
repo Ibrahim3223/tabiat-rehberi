@@ -33,7 +33,7 @@ Manisa'nın yeşillikleri arasında gizli bir hazine gibi duran Kadı Dağı, zi
 
 ## Tarihçe
 
-Manisa bölgesi, tarihin sâu sayfalarında önemli bir yer tutmaktadır. Binlerce yıllık geçmişinde, Lidya, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşımaktadır. Bu zengin tarihsel miras, bölgenin doğal güzellikleriyle birleşerek Kadı Dağı gibi alanların önemini artırmaktadır.
+Manisa bölgesi, tarihin derin sayfalarında önemli bir yer tutmaktadır. Binlerce yıllık geçmişinde, Lidya, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşımaktadır. Bu zengin tarihsel miras, bölgenin doğal güzellikleriyle birleşerek Kadı Dağı gibi alanların önemini artırmaktadır.
 
 Türkiye'de doğal alanlar, tarihin her döneminde insanların yaşamlarında önemli bir rol oynamışlardır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu alanların ekonomi ve sosyal açıdan değerini artırmıştır. Manisa bölgesinde de bu durum geçerlidir. Bölgenin coğrafi konumu, tarihi ticaret yollarının kavşak noktasında olmasını sağlamıştır.
 

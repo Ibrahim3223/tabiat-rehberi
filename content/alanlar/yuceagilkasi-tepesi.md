@@ -28,7 +28,7 @@ wikidata_id: "Q32196065"
 
 # Yüceağılkaşı Tepesi
 
-Yüceağılkaşı Tepesi, Gaziantep'in güneydoğusunda yer alan ve bölgenin önemli güzelliklerinden biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde. Yüceağılkaşı Tepesi, doğa severler ve yürüyüş yapmak isteyenler için ideal bir destinasyon. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Yüceağılkaşı Tepesi, aynı zamanda bölgenin tarihini ve kültürünü keşfetmek isteyenler için önemli bir nokta.
+Yüceağılkaşı Tepesi, Gaziantep'in güneydoğusunda yer alan ve bölgenin önemli güzelliklerinden biri olan bir tepe. Yüceağılkaşı Tepesi, doğa severler ve yürüyüş yapmak isteyenler için ideal bir destinasyon. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Yüceağılkaşı Tepesi, aynı zamanda bölgenin tarihini ve kültürünü keşfetmek isteyenler için önemli bir nokta.
 
 ## Tarihçe
 

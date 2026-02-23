@@ -1,7 +1,7 @@
 ---
 title: "Kayhan Hamamı"
 date: "2026-01-09T22:48:55.637Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738647"
 
 # Kayhan Hamamı
 
-Kayhan Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş, tarihi ve doğal güzelliği ile ziyaretçilerini büyüleyen bir destinasyon. Bu büyüleyici mekan, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzak, sakin bir atmosfere sahip. Kayhan Hamamı, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekiyor ve ziyaretçilerine unutulmaz anlar yaşatmak için bekliyor.
+Kayhan Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş, tarihi ve doğal güzelliği ile ziyaretçilerini büyüleyen bir destinasyon. Bu büyüleyici mekan, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kayhan Hamamı'nın tarihi geçmişi, Bursa'nın zengin kültürel mirasının b
 
 ## Coğrafya
 
-Kayhan Hamamı, Marmara Bölgesi'nin coğrafi güzelliğiçinde yer alıyor. Bursa'nın Osmangazi ilçesinde bulunan bu mekan, şehrin merkezine yakın ancak doğal güzelliği ile uzak bir atmosfere sahip. Hamamın çevresi, yeşilliklerle dolu ve ziyaretçilere şehrin gürültüsünden uzak, sakin bir ortam sunuyor. Coğrafi konumu itibariyle, Kayhan Hamamı'nın iklimi ılıman ve ziyaretçilere dört mevsim boyunca keyifli bir expérience sunuyor. Çevresinde bulunan çeşitli bitki türleri ve zengin fauna, bu mekanın doğal güzelliğini daha da artırıyor. Kayhan Hamamı, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini etkileyen bir destinasyon olarak karşımıza çıkıyor.
+Kayhan Hamamı, Marmara Bölgesi'nin coğrafi güzelliğiçinde yer alıyor. Bursa'nın Osmangazi ilçesinde bulunan bu mekan, şehrin merkezine yakın ancak doğal güzelliği ile uzak bir atmosfere sahip. Hamamın çevresi, yeşilliklerle dolu ve ziyaretçilere şehrin gürültüsünden uzak, sakin bir ortam sunuyor. Coğrafi konumu itibariyle, Kayhan Hamamı'nın iklimi ılıman ve ziyaretçilere dört mevsim boyunca keyifli bir deneyim sunuyor. Çevresinde bulunan çeşitli bitki türleri ve zengin fauna, bu mekanın doğal güzelliğini daha da artırıyor. Kayhan Hamamı, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini etkileyen bir destinasyon olarak karşımıza çıkıyor.
 
 ## Flora ve Fauna
 

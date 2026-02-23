@@ -32,7 +32,7 @@ Antalya'nın görkemli coğrafyası, Kavanoz Dağı gibi birçok doğal güzelli
 
 ## Tarihçe
 
-Kavanoz Dağı, Türkiye'nin güneyinde, Antalya bölgesinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Antalya, Lidya, Pers, Roma ve Osmanlı gibi çeşitli uygarlıkların etkisi altında kalmıştır. Bu bölgede, insan yerleşimlerinin ve ticaret yollarının izleri, binlerce yıl öncesine kadar uzanmaktadır.
+Kavanoz Dağı, Türkiye'nin güneyinde, Antalya bölgesinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Antalya, Lidya, Pers, Roma ve Osmanlı gibi çeşitli uygarlıkların etkisi altında kalmıştır. Bu bölgede, insan yerleşimlerinin ve ticaret yollarının izleri, binlerce yıl öncesine kadar uzanmaktadır.
 
 Doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların geleneksel uğraşlarından biri olmuştur. Ayrıca, ticaret yolları ve kervan rotaları, bu doğal güzellik alanlarından geçerek, bölge halkının ekonomi ve sosyal yaşamını şekillendirmiştir.
 

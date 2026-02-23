@@ -28,7 +28,7 @@ wikidata_id: "Q31566489"
 
 # İkizkaya Tepesi
 
-İkizkaya Tepesi, Artvin ilinin görkemli manzaralarına ev sahipliği yapan bir doğal güzelliktir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü flora ile kaplıdır. İkizkaya Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin muhteşem doğasına davet ediyor. Burada, yaban hayatının çeşitliliği ve bölgeye özgü bitki türleri ile karşılaşma mümkün. İkizkaya Tepesi, hem doğa severlerin hem de fotoğrafçıların ilgisini çeken bir destinasyon olarak ön plana çıkıyor.
+İkizkaya Tepesi, Artvin ilinin görkemli manzaralarına ev sahipliği yapan bir doğal güzelliktir. İkizkaya Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin muhteşem doğasına davet ediyor. Burada, yaban hayatının çeşitliliği ve bölgeye özgü bitki türleri ile karşılaşma mümkün. İkizkaya Tepesi, hem doğa severlerin hem de fotoğrafçıların ilgisini çeken bir destinasyon olarak ön plana çıkıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q31566489"
 
 ## Coğrafya
 
-İkizkaya Tepesi, Karadeniz Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bölgenin en önemli doğal güzelliklerinden biri olarak bekannt. İkizkaya Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve yaban hayatı ile zengin. Bölge, Karadeniz ikliminin etkilerini taşıyor ve bu nedenle de flora ve fauna açısından oldukça zengin. İkizkaya Tepesi'nin eteklerinde, çeşitli akarsular ve dereler bulunuyor. Bu su kaynakları, bölgenin ekolojik dengesini korumada önemli rol oynuyor. İkizkaya Tepesi, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor.
+İkizkaya Tepesi, Karadeniz Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bölgenin en önemli doğal güzelliklerinden biri olarak bekannt. İkizkaya Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve yaban hayatı ile zengin. İkizkaya Tepesi'nin eteklerinde, çeşitli akarsular ve dereler bulunuyor. Bu su kaynakları, bölgenin ekolojik dengesini korumada önemli rol oynuyor. İkizkaya Tepesi, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

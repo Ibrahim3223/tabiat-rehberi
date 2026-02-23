@@ -28,7 +28,7 @@ wikidata_id: "Q31538136"
 
 # Karayuca Tepesi
 
-Hatay ilinin güzide bir bölgesinde yer alan Karayuca Tepesi, 140 hektarlık geniş bir alanı kapsar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş ve yeşil bir doğa harikasıyla karşılar. Karayuca Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte büyüleyici bir deneyim sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğayla iç içe olmasını sağlar.
+Hatay ilinin güzide bir bölgesinde yer alan Karayuca Tepesi, 140 hektarlık geniş bir alanı kapsar. Karayuca Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte büyüleyici bir deneyim sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğayla iç içe olmasını sağlar.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Karayuca Tepesi, Hatay ilinin coğrafi yapısını oluşturan önemli bir unsurd
 
 ## Flora ve Fauna
 
-Karayuca Tepesi, flora ve fauna açısından oldukça zengindir. Tepenin bitki örtüsü, mevsimlere göre değişkenlik gösterir. İlkbahar ve yaz aylarında,tepede çeşitli çiçekler açar ve bu, ziyaretçilere renkli bir manzara sunar. Kış aylarında, bitki örtüsü daha sakin bir görünüm alır, ancak hala güzelliğini korur. Fauna açısından da zengin olan Karayuca Tepesi, çeşitli kuş türleri, böcekler ve diğer küçük hayvanlarla doludur. Tepede, ziyaretçiler, doğanın seslerini dinleyerek, yaban hayatının güzelliğini deneyimleyebilirler.
+ Tepenin bitki örtüsü, mevsimlere göre değişkenlik gösterir. İlkbahar ve yaz aylarında,tepede çeşitli çiçekler açar ve bu, ziyaretçilere renkli bir manzara sunar. Kış aylarında, bitki örtüsü daha sakin bir görünüm alır, ancak hala güzelliğini korur. Fauna açısından da zengin olan Karayuca Tepesi, çeşitli kuş türleri, böcekler ve diğer küçük hayvanlarla doludur. Tepede, ziyaretçiler, doğanın seslerini dinleyerek, yaban hayatının güzelliğini deneyimleyebilirler.
 
 ## Ziyaret Bilgileri
 

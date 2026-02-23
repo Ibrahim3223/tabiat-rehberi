@@ -52,7 +52,7 @@ Fiziksel yapısına bakıldığında, Gökpınar Gölü'nün detaylı fiziksel v
 
 Gökpınar Gölü, Muş'un step bitki örtüsü ve bozkır bölgesinde yer alan bir göldür. Bu ekosistem, su kuşları, balıklar ve sulak alan bitkileri için önemli bir yaşam alanı sunar. İlkbaharın gelmesiyle birlikte, göl çevresindeki bozkırda çeşitli çiçekler açar ve gölü bir renk cümbüşüne boğar. Sonbaharda ise, göç eden kuşlar gölde konaklar ve bu dönemde göl, çeşitli su kuşlarının görülebileceği bir cennet haline gelir.
 
-Gölün bitki örtüsü, kuraklığa adapte türlerden oluşur. Bu bitkiler, gölün su seviyesine göre değişen bir yapıya sahiptir. Gölün yaban hayatı, memeliler, kuşlar ve sürüngenlerden oluşur. Su kuşları, gölün ekosistemini oluşturan önemli bir bileşendir. Memeliler arasında ise, gölün etrafındaki bozkırda yaşayan various türler bulunur. 
+Gölün bitki örtüsü, kuraklığa adapte türlerden oluşur. Bu bitkiler, gölün su seviyesine göre değişen bir yapıya sahiptir. Gölün yaban hayatı, memeliler, kuşlar ve sürüngenlerden oluşur. Su kuşları, gölün ekosistemini oluşturan önemli bir bileşendir. Memeliler arasında ise, gölün etrafındaki bozkırda yaşayan various türler bulunur.
 
 Gökpınar Gölü, ekolojik açıdan önemli bir bölgedir. Göl, bölgedeki su dengesini sağlar ve çeşitli canlıların yaşamını destekler. Bu nedenle, gölün koruma altına alınması büyük önem taşır.
 

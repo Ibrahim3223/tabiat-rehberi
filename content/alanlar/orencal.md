@@ -52,9 +52,9 @@ Bölgenin ekosistem bağlantıları açısından önemli bir role sahip olan Ör
 
 Örençal Dağı, geçiş ikliminin etkilerini taşıyan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu dağlık alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünde, ilkbaharla birlikte açan çiçekler ve sonbaharla birlikte renk değiştiren yapraklar, mevsimsel değişimleri gözler önüne seriyor. Yükseklik zonlarına bağlı olarak değişen alpin flora, dağların farklı kesimlerinde farklı türlerin yaşamasına olanak sağlıyor. 
+Bitki örtüsünde, ilkbaharla birlikte açan çiçekler ve sonbaharla birlikte renk değiştiren yapraklar, mevsimsel değişimleri gözler önüne seriyor. Yükseklik zonlarına bağlı olarak değişen alpin flora, dağların farklı kesimlerinde farklı türlerin yaşamasına olanak sağlıyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle temsil ediliyor. Bu dağlık alanda, göçmen kuşların durakladığı noktalardan biri olarak, sonbahar aylarında göç eden kuşları görme mümkün. Memeliler ve sürüngenler ise, dağların kayalık ve ormanlık bölgelerinde yaşamlarını sürdürüyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle temsil ediliyor. Bu dağlık alanda, göçmen kuşların durakladığı noktalardan biri olarak, sonbahar aylarında göç eden kuşları görme mümkün. Memeliler ve sürüngenler ise, dağların kayalık ve ormanlık bölgelerinde yaşamlarını sürdürüyor.
 
 Bu dağ ekosisteminin ekolojik değeri, karma ormanların ve göçmen kuş rotalarının birleştiği noktada yatıyor. Bu nedenle, koruma altına alınması ve doğal dengesinin korunması büyük önem taşıyor.
 

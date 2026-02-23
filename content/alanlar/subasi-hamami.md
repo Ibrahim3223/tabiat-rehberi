@@ -1,7 +1,7 @@
 ---
 title: "Subaşı Hamamı"
 date: "2026-01-10T04:27:09.086Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738771"
 
 # Subaşı Hamamı
 
-Konya'nın Selçuklu ilçesinde bulunan Subaşı Hamamı, şehrin tarihi dokusunu yansıtan önemli bir yapı. 140 hektarlık bir alan üzerinde yer alan bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tarihi geçmişi ve mimarisiyle dikkat çeken Subaşı Hamamı, ziyaretçilerini geçmişe götürmeye hazırlanıyor. Hamamın tarihi hakkında bilgi edinme ve mimarisini yakından incelemek, ziyaretçilere benzersiz bir deneyim sunuyor.
+Konya'nın Selçuklu ilçesinde bulunan Subaşı Hamamı, şehrin tarihi dokusunu yansıtan önemli bir yapı. Tarihi geçmişi ve mimarisiyle dikkat çeken Subaşı Hamamı, ziyaretçilerini geçmişe götürmeye hazırlanıyor. Hamamın tarihi hakkında bilgi edinme ve mimarisini yakından incelemek, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Subaşı Hamamı, Konya'nın tarihi geçmişi hakkında önemli bilgiler sunan b
 
 ## Coğrafya
 
-Subaşı Hamamı, Konya'nın Selçuklu ilçesinde yer alıyor. İlçe merkezine yakın bir konumda bulunan hamam, şehrin tarihi dokusunu yansıtan bir bölgede yer alıyor. Hamamın çevresi, tarihi yapılarla dolu bir bölge ve ziyaretçilere, şehrin tarihi hakkında bilgi edinme fırsatı sunuyor. Hamamın mimarisi, geleneksel Türk hamam mimarisini yansıtıyor ve ziyaretçilere, geçmişin izlerini taşıyan bir yapı sunuyor. Subaşı Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilere, geniş bir alanda gezebilmeleri için olanak sağlıyor.
+Subaşı Hamamı, Konya'nın Selçuklu ilçesinde yer alıyor. İlçe merkezine yakın bir konumda bulunan hamam, şehrin tarihi dokusunu yansıtan bir bölgede yer alıyor. Hamamın çevresi, tarihi yapılarla dolu bir bölge ve ziyaretçilere, şehrin tarihi hakkında bilgi edinme fırsatı sunuyor. Hamamın mimarisi, geleneksel Türk hamam mimarisini yansıtıyor ve ziyaretçilere, geçmişin izlerini taşıyan bir yapı sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Subaşı Hamamı, ziyaretçilere, Konya'nın tarihi geçmişi hakkında bilgi ed
 ## İlginç Bilgiler
 
 - Subaşı Hamamı, Konya'nın tarihi geçmişi hakkında önemli bilgiler sunan bir yapıdır.
-- Hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Hamamın mimarisi, geleneksel Türk hamam mimarisini yansıtır.
 - Hamamın çevresinde, çeşitli bitki türleri ve ağaçlar yer alır.
 - Hamam, ziyaretçilere, şehrin flora ve faunası hakkında bilgi edinme fırsatı sunar.

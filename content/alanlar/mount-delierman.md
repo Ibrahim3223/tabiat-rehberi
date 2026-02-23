@@ -22,7 +22,7 @@ wikidata_id: "Q21697382"
 
 # Mount Delierman
 
-Mardin, Güneydoğu Anadolu Bölgesi'nin en önemli kültür ve turizm merkezlerinden biridir. Bu bölgenin en dikkat çekici noktalarından biri, Mount Delierman'dir. Mount Delierman, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarıyla karşılar. Mount Delierman, hem doğa severler hem de tarih meraklıları için ideal bir destinasyondur.
+Mardin, Güneydoğu Anadolu Bölgesi'nin en önemli kültür ve turizm merkezlerinden biridir. Bu bölgenin en dikkat çekici noktalarından biri, Mount Delierman'dir. Mount Delierman, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren önemli bir noktadır. Mount Delierman, hem doğa severler hem de tarih meraklıları için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Mount Delierman, Mardin'in güneydoğu bölümünde yer alır. Bölge, Güneydo�
 
 ## Flora ve Fauna
 
-Mount Delierman, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölge, mevsimsel değişimlere göre farklı türlerde bitki ve hayvanlara ev sahipliği yapar. Mount Delierman'ın flora ve fauna zenginliği, bölgenin doğal güzelliklerini keşfetmek isteyenler için büyük önem taşır. Bölge, özellikle bahar aylarında ziyaret edilebilir. Mount Delierman, doğa severler ve hayvanseverler için önemli bir destinasyondur. Mount Delierman'ın flora ve fauna zenginliği, bölgenin ekolojik dengesini korumak açısından büyük önem taşır.
+Mount Delierman, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölge, mevsimsel değişimlere göre farklı türlerde bitki ve hayvanlara ev sahipliği yapar. Mount Delierman'ın flora ve fauna zenginliği, bölgenin doğal güzelliklerini keşfetmek isteyenler için büyük önem taşır. Bölge, özellikle bahar aylarında ziyaret edilebilir. Mount Delierman, doğa severler ve hayvanseverler için önemli bir destinasyondur.
 
 ## Ziyaret Bilgileri
 

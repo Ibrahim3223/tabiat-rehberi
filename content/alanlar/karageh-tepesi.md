@@ -28,7 +28,7 @@ wikidata_id: "Q31391120"
 
 # Karageh Tepesi
 
-Sivas'ın İç Anadolu Bölgesi'nde yer alan Karageh Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir görüş açısı sunuyor. Karageh Tepesi, Sivas'ın tarihi ve coğrafi açıdan önemli noktalarından biri olarak kabul ediliyor. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Sivas'ın İç Anadolu Bölgesi'nde yer alan Karageh Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Karageh Tepesi, Sivas'ın tarihi ve coğrafi açıdan önemli noktalarından biri olarak kabul ediliyor. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

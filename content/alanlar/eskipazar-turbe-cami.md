@@ -22,7 +22,7 @@ wikidata_id: "Q108228012"
 
 # Eskipazar Turbe Çamı
 
-Eskipazar Turbe Çamı, İç Anadolu Bölgesi'nin güzide milli parklarından biridir. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölge, yaban hayatının zenginliği ve çam ağaçlarının bolluğuyla dikkat çeker. Eskipazar Turbe Çamı, aynı zamanda bölgenin tarihi ve kültürel açıdan önemli bir merkezi olarak da bilinir. Ziyaretçiler, bu milli parkta hem doğayı keşfetme hem de tarihin izlerini sürme fırsatını bulabilirler. Eskipazar Turbe Çamı, ziyaretçilerini bekleyen bir doğa cennetidir.
+Eskipazar Turbe Çamı, İç Anadolu Bölgesi'nin güzide milli parklarından biridir. Bu bölge, yaban hayatının zenginliği ve çam ağaçlarının bolluğuyla dikkat çeker. Eskipazar Turbe Çamı, aynı zamanda bölgenin tarihi ve kültürel açıdan önemli bir merkezi olarak da bilinir. Ziyaretçiler, bu milli parkta hem doğayı keşfetme hem de tarihin izlerini sürme fırsatını bulabilirler. Eskipazar Turbe Çamı, ziyaretçilerini bekleyen bir doğa cennetidir.
 
 ## Tarihçe
 

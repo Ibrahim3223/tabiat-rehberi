@@ -1,7 +1,7 @@
 ---
 title: "Hanefi Sultan Türbesi"
 date: "2026-01-10T07:11:19.411Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390909"
 
 # Hanefi Sultan Türbesi
 
-Hanefi Sultan Türbesi, Ege Bölgesi'nin önemli turizm merkezlerinden biri olan Manisa'nın Gölmarmara ilçesinde yer alıyor. Bu özel yer, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Hanefi Sultan Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Tarihi geçmişi ile dikkat çeken bu türbe, aynı zamanda çevresi ile birlikte yaklaşık 1400 metre uzunluğundaki sahil şeridini de kapsıyor. Bu sahil şeridi, plaj severlerin keyif alabileceği bir yer olarak biliniyor.
+Hanefi Sultan Türbesi, Ege Bölgesi'nin önemli turizm merkezlerinden biri olan Manisa'nın Gölmarmara ilçesinde yer alıyor. Hanefi Sultan Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Tarihi geçmişi ile dikkat çeken bu türbe, aynı zamanda çevresi ile birlikte yaklaşık 1400 metre uzunluğundaki sahil şeridini de kapsıyor. Bu sahil şeridi, plaj severlerin keyif alabileceği bir yer olarak biliniyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hanefi Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir 
 
 ## Coğrafya
 
-Hanefi Sultan Türbesi, Ege Bölgesi'nin coğrafi güzelliklerinin bir araya geldiği bir noktada yer alıyor. 140 hektarlık bir alanı kapsayan bu özel yer, yaklaşık 200 futbol sahası büyüklüğünde. Türbe, Gölmarmara ilçesinin merkezine yakın bir konumda bulunuyor ve etrafı yeşilliklerle çevrili. Hanefi Sultan Türbesi'nin bulunduğu saha, yüksek bir konumda ve Ege Denizi'ne oldukça yakın. Bu coğrafi konum, ziyaretçilere hem tarihi bir türbe hem de güzel bir plaj deneyimi sunuyor. Çevre, çeşitli bitki türleri ile zengin bir flora sunarken, fauna açısından da önemli bir yaşam alanı olarak kabul ediliyor.
+Hanefi Sultan Türbesi, Ege Bölgesi'nin coğrafi güzelliklerinin bir araya geldiği bir noktada yer alıyor. Türbe, Gölmarmara ilçesinin merkezine yakın bir konumda bulunuyor ve etrafı yeşilliklerle çevrili. Hanefi Sultan Türbesi'nin bulunduğu saha, yüksek bir konumda ve Ege Denizi'ne oldukça yakın. Bu coğrafi konum, ziyaretçilere hem tarihi bir türbe hem de güzel bir plaj deneyimi sunuyor. Çevre, çeşitli bitki türleri ile zengin bir flora sunarken, fauna açısından da önemli bir yaşam alanı olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

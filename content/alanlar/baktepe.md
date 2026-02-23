@@ -28,7 +28,7 @@ wikidata_id: "Q31386147"
 
 # Baktepe
 
-Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Baktepe, Gaziantep'in gözde mekanlarından biri olarak bilinir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en yüksek noktalarından biri. Baktepe, doğa severler ve trekking yapanlar için ideal bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Baktepe, aynı zamanda Gaziantep'in tarihi ve kültürel mirasının önemli bir parçası olarak kabul edilir.
+Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Baktepe, Gaziantep'in gözde mekanlarından biri olarak bilinir. Baktepe, doğa severler ve trekking yapanlar için ideal bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Baktepe, aynı zamanda Gaziantep'in tarihi ve kültürel mirasının önemli bir parçası olarak kabul edilir.
 
 ## Tarihçe
 

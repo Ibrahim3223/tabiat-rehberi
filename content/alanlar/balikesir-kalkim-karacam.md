@@ -22,7 +22,7 @@ wikidata_id: "Q108227675"
 
 # Balıkesir-Kalkim Karacam
 
-İç Anadolu Bölgesi'nin kalbinde, Balıkesir'in Kalkim ilçesinde yer alan Karacam milli parkı, 140 hektarlık geniş bir alanı kapsıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne karşılık geliyor. Doğa severler için gerçek bir cennet olan bu bölge, zengin flora ve fauna çeşitliliği ile ziyaretçilerini cezbediyor. Karacam milli parkı, hem doğa tutkunları hem de tatil arayanlar için ideal bir destinasyon.
+İç Anadolu Bölgesi'nin kalbinde, Balıkesir'in Kalkim ilçesinde yer alan Karacam milli parkı, 140 hektarlık geniş bir alanı kapsıyor. Doğa severler için gerçek bir cennet olan bu bölge, zengin flora ve fauna çeşitliliği ile ziyaretçilerini cezbediyor. Karacam milli parkı, hem doğa tutkunları hem de tatil arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

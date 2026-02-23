@@ -28,7 +28,7 @@ wikidata_id: "Q34811761"
 
 # Taşlıhüyük Tepesi
 
-Taşlıhüyük Tepesi, Ankara'nın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli doğal alanlarından biri. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Taşlıhüyük Tepesi, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini bekliyor.
+Taşlıhüyük Tepesi, Ankara'nın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Taşlıhüyük Tepesi, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

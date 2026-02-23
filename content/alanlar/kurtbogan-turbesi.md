@@ -1,7 +1,7 @@
 ---
 title: "Kurtboğan Türbesi"
 date: "2026-01-10T06:03:24.514Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390510"
 
 # Kurtboğan Türbesi
 
-Kurtboğan Türbesi, Amasya'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Bu özel alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kurtboğan Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekiyor. Burada, tarihi geçmişi ve doğal güzellikleri hakkında detaylı bilgi edinme mümkün.
+Kurtboğan Türbesi, Amasya'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Kurtboğan Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekiyor. Burada, tarihi geçmişi ve doğal güzellikleri hakkında detaylı bilgi edinme mümkün.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kurtboğan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve b
 
 ## Coğrafya
 
-Kurtboğan Türbesi, Karadeniz Bölgesi'nin Amasya ilinde yer alıyor. Bu bölge, coğrafi olarak oldukça çeşitli ve zengin bir yapıya sahip. Türbe, yaklaşık 140 hektarlık bir yeşil alan içerisinde bulunuyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklim olarak, Karadeniz Bölgesi'nin karakteristik nemli ve ılıman iklimini taşıyor. Çevre, tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alıyor, ki bu da ziyaretçilere benzersiz bir deneyim sunuyor.
+Kurtboğan Türbesi, Karadeniz Bölgesi'nin Amasya ilinde yer alıyor. Bu bölge, coğrafi olarak oldukça çeşitli ve zengin bir yapıya sahip. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklim olarak, Karadeniz Bölgesi'nin karakteristik nemli ve ılıman iklimini taşıyor. Çevre, tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alıyor, ki bu da ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

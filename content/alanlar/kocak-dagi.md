@@ -32,7 +32,7 @@ Iğdır ilinin doğal güzelliklerinden biri olan Koçak Dağı, Türkiye'nin do
 
 ## Tarihçe
 
-Iğdır bölgesi, tarihin sâu sayfalarına uzanan zengin bir geçmişe sahip. Bu bölge, çeşitli uygarlıkların yerleşim yeri olarak kullanılan önemli bir coğrafya olmuştur. Iğdır'ın tarihi, Urartular, Romalılar, Selçuklular ve Osmanlılar gibi birçok medeniyetin izlerini taşımaktadır. Bu bölgede, ticaret yolları ve yaylacılık faaliyetleri, insanların yaşamını şekillendiren önemli etkenlerarasında yer almıştır.
+Iğdır bölgesi, tarihin derin sayfalarına uzanan zengin bir geçmişe sahip. Bu bölge, çeşitli uygarlıkların yerleşim yeri olarak kullanılan önemli bir coğrafya olmuştur. Iğdır'ın tarihi, Urartular, Romalılar, Selçuklular ve Osmanlılar gibi birçok medeniyetin izlerini taşımaktadır. Bu bölgede, ticaret yolları ve yaylacılık faaliyetleri, insanların yaşamını şekillendiren önemli etkenlerarasında yer almıştır.
 
 Koçak Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Bu tür alanlar, sadece doğal güzellikleri ile değil, aynı zamanda insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde yer almaları bakımından da büyük önem taşırlar. Yaylacılık ve hayvancılık, bu bölgede insanların yaşamını sürdürmelerini sağlayan geleneksel faaliyetler arasında yer almıştır. Ayrıca, tarihi ticaret yolları, Iğdır bölgesini diğer bölgelerle bağlantılı hale getirmiş, kültürel ve ekonomik alışverişin gerçekleşmesini sağlamıştır. Bunatural alanların korunması ve gelecek nesillere aktarılması, Türkiye'nin kültürel ve doğal mirasının zenginleştirilmesi açısından büyük önem taşımaktadır.
 

@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Gedelme Çınarı
 
-Gedelme Çınarı, Antalya'nın güzide bir bölgesinde yer alan ve 140 hektarlık bir alanı kapsayan bir tabiat anıtıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Akdeniz Bölgesi'nin eşsiz doğal güzelliklerinden birini sunmaktadır. Bölge, ziyaretçilerini büyüleyici bir atmosfere davet ediyor. Gedelme Çınarı, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul edilebilir. Antalya'nın turizm açısından önemli noktalarından biri olan bu bölge, ziyaretçilere unutulmaz bir deneyim vaat ediyor.
+Gedelme Çınarı, Antalya'nın güzide bir bölgesinde yer alan ve 140 hektarlık bir alanı kapsayan bir tabiat anıtıdır. Bölge, ziyaretçilerini büyüleyici bir atmosfere davet ediyor. Gedelme Çınarı, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul edilebilir. Antalya'nın turizm açısından önemli noktalarından biri olan bu bölge, ziyaretçilere unutulmaz bir deneyim vaat ediyor.
 
 ## Tarihçe
 
@@ -33,7 +33,7 @@ Gedelme Çınarı, coğrafi açıdan oldukça zengin bir bölge. 140 hektarlık 
 
 ## Flora ve Fauna
 
-Gedelme Çınarı, flora ve fauna açısından oldukça zengin bir bölge. Çeşitli bitki türleri, çam ağaçları, zeytinlik alanlar ve diğer bitki türleri, bölgenin doğal güzelliğini oluşturuyor. Fauna açısından da zengin olan bölge, çeşitli hayvan türleri ile ziyaretçilerini karşılayacak bir ortam sunuyor. Mevsimsel değişimler, bölgenin ekolojik dengesini etkiliyor. Kış aylarında, yağışlar nedeniyle bitki örtüsü daha yeşil ve canlı oluyor. Yaz aylarında ise, sıcak ve kurak hava, bitki örtüsünü biraz daha kuruyor. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkiliyor ve ziyaretçilere her mevsim farklı bir güzellik sunuyor.
+ Çeşitli bitki türleri, çam ağaçları, zeytinlik alanlar ve diğer bitki türleri, bölgenin doğal güzelliğini oluşturuyor. Fauna açısından da zengin olan bölge, çeşitli hayvan türleri ile ziyaretçilerini karşılayacak bir ortam sunuyor. Mevsimsel değişimler, bölgenin ekolojik dengesini etkiliyor. Kış aylarında, yağışlar nedeniyle bitki örtüsü daha yeşil ve canlı oluyor. Yaz aylarında ise, sıcak ve kurak hava, bitki örtüsünü biraz daha kuruyor. Bu mevsimsel değişimler, bölgenin flora ve faunasını etkiliyor ve ziyaretçilere her mevsim farklı bir güzellik sunuyor.
 
 ## Ziyaret Bilgileri
 

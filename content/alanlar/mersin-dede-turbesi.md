@@ -1,7 +1,7 @@
 ---
 title: "Mersin Dede Türbesi"
 date: "2026-01-10T07:48:59.640Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale (ilçe)"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391197"
 
 # Mersin Dede Türbesi
 
-Mersin Dede Türbesi, Çanakkale'nin tarihi ve doğal güzellikleri arasında önemli bir yer tutar. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Mersin Dede Türbesi, tarihi geçmişinin yanı sıra doğal güzellikleriyle de ziyaretçilerini çekmektedir. Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekmektedir. Ziyaretçiler, bu güzel ortamda huzur bulabilir ve tarihi yapıları yakından inceleyebilirler.
+Mersin Dede Türbesi, Çanakkale'nin tarihi ve doğal güzellikleri arasında önemli bir yer tutar. Mersin Dede Türbesi, tarihi geçmişinin yanı sıra doğal güzellikleriyle de ziyaretçilerini çekmektedir. Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekmektedir. Ziyaretçiler, bu güzel ortamda huzur bulabilir ve tarihi yapıları yakından inceleyebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mersin Dede Türbesi'nin tarihi geçmişi, Çanakkale'nin tarihsel sürecine ba�
 
 ## Coğrafya
 
-Mersin Dede Türbesi, Çanakkale'nin coğrafi yapısı içinde önemli bir yer tutmaktadır. Bu bölge, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Mersin Dede Türbesi'nin bulunduğu yer, çeşitli bitki türleri ve fauna çeşitliliği ile dikkat çekmektedir. Bu bölge, Çanakkale'nin coğrafi çeşitliliğiçinde önemli bir yer tutar. Mersin Dede Türbesi, ziyaretçilere geniş bir manzara sunarken, aynı zamanda bölgenin coğrafi özelliklerini de yansıtmaktadır. Bu alan, Çanakkale'nin doğal güzelliklerinin önemli bir parçasıdır.
+Mersin Dede Türbesi, Çanakkale'nin coğrafi yapısı içinde önemli bir yer tutmaktadır. Bölgenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Mersin Dede Türbesi'nin bulunduğu yer, çeşitli bitki türleri ve fauna çeşitliliği ile dikkat çekmektedir. Bu bölge, Çanakkale'nin coğrafi çeşitliliğiçinde önemli bir yer tutar. Mersin Dede Türbesi, ziyaretçilere geniş bir manzara sunarken, aynı zamanda bölgenin coğrafi özelliklerini de yansıtmaktadır. Bu alan, Çanakkale'nin doğal güzelliklerinin önemli bir parçasıdır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Mersin Dede Türbesi'ni ziyaret etmek, Çanakkale'nin tarihi ve doğal güzellik
 ## İlginç Bilgiler
 
 - Mersin Dede Türbesi, Çanakkale'nin en önemli tarihi yapılarından biridir.
-- Bu bölge, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Mersin Dede Türbesi, zengin fauna ve flora çeşitliliği ile dikkat çekmektedir.
 - Ziyaretçiler, bu güzel ortamda huzur bulabilir ve tarihi yapıları yakından inceleyebilirler.
 - Mersin Dede Türbesi, Çanakkale'nin doğal güzelliklerinin önemli bir parçasıdır.

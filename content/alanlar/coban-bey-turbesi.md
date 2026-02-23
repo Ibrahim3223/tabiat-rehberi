@@ -1,7 +1,7 @@
 ---
 title: "Çoban Bey Türbesi"
 date: "2026-01-10T04:44:22.176Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q20476815"
 
 # Çoban Bey Türbesi
 
-Bursa'nın Yıldırım ilçesinde, Marmara Bölgesi'nin kalbinde yer alan Çoban Bey Türbesi, tarihi ve kültürel açıdan önemli bir mekan olarak ziyaretçilerini bekliyor. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve yeşillikler içinde bir ova gibi görünüyor. Çoban Bey Türbesi, çevresi ile birlikte yaklaşık 300 yıllık bir geçmişi olan bir türbe ve çevresindeki tarihi yapılar, bölgenin zengin tarihini yansıtıyor. Burada, tarihi yapıların güzelliği ve çevrenin doğal güzellikleri bir araya geliyor.
+Bursa'nın Yıldırım ilçesinde, Marmara Bölgesi'nin kalbinde yer alan Çoban Bey Türbesi, tarihi ve kültürel açıdan önemli bir mekan olarak ziyaretçilerini bekliyor. Çoban Bey Türbesi, çevresi ile birlikte yaklaşık 300 yıllık bir geçmişi olan bir türbe ve çevresindeki tarihi yapılar, bölgenin zengin tarihini yansıtıyor. Burada, tarihi yapıların güzelliği ve çevrenin doğal güzellikleri bir araya geliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bursa'nın Yıldırım ilçesinde, Marmara Bölgesi'nin kalbinde yer alan Çoban
 
 ## Coğrafya
 
-Çoban Bey Türbesi, Bursa'nın Yıldırım ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. Türbenin bulunduğu bölge, yeşillikler içinde ve yaklaşık 140 hektarlık bir alanı kaplıyor. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte yaklaşık 300 yıllık bir geçmişi olan bir türbe ve çevresindeki tarihi yapılar, bölgenin zengin tarihini yansıtıyor. Çoban Bey Türbesi'nin etrafı, tarihi yapılar, camiler ve diğer önemli mekanlarla çevrili. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve yağışlı. Kış aylarında yağan yağmurlar, bölgenin yeşilliklerini ve doğal güzelliklerini artırıyor. Çoban Bey Türbesi, doğal güzellikleri, tarihi yapıları ve kültürel zenginliği ile birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor.
+Çoban Bey Türbesi, Bursa'nın Yıldırım ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. Türbenin bulunduğu bölge, yeşillikler içinde ve yaklaşık 140 hektarlık bir alanı kaplıyor. Çoban Bey Türbesi'nin etrafı, tarihi yapılar, camiler ve diğer önemli mekanlarla çevrili. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve yağışlı. Kış aylarında yağan yağmurlar, bölgenin yeşilliklerini ve doğal güzelliklerini artırıyor. Çoban Bey Türbesi, doğal güzellikleri, tarihi yapıları ve kültürel zenginliği ile birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

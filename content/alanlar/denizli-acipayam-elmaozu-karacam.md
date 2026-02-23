@@ -22,7 +22,7 @@ wikidata_id: "Q108227677"
 
 # Denizli-Acipayam-Elmaozu Karacam
 
-Denizli-Acipayam-Elmaozu Karacam milli parkı, Ege Bölgesi'nin güzide illerinden Denizli'de yer alır. Bu milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Ziyaretçilerini doğal güzelliklerle karşılayan bu milli park, özellikle doğa severlerin ilgi odağıdır. Milli parkın kuruluş amacı, bölgedeki doğal güzellikleri koruma ve ziyaretçilere doğayla iç içe bir deneyim sunmaktır. Bu amaç doğrultusunda, milli parkta çeşitli doğal güzellikler ve canlı türleri bulunur.
+Denizli-Acipayam-Elmaozu Karacam milli parkı, Ege Bölgesi'nin güzide illerinden Denizli'de yer alır. Ziyaretçilerini doğal güzelliklerle karşılayan bu milli park, özellikle doğa severlerin ilgi odağıdır. Milli parkın kuruluş amacı, bölgedeki doğal güzellikleri koruma ve ziyaretçilere doğayla iç içe bir deneyim sunmaktır. Bu amaç doğrultusunda, milli parkta çeşitli doğal güzellikler ve canlı türleri bulunur.
 
 ## Tarihçe
 

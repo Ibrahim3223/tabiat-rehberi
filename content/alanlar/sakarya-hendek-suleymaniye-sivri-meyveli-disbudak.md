@@ -22,7 +22,7 @@ wikidata_id: "Q108228050"
 
 # Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak
 
-Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak milli parkı, Marmara Bölgesi'nin Sakarya ilinde yer alan bir doğa harikasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğayla baş başa bırakarak onların huzur ve sakinlik bulmasına olanak tanır. Milli parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekerken, aynı zamanda bu bölgeye özgü Sivri Meyveli Disbudak ağaçları da dikkat çekicidir.
+Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak milli parkı, Marmara Bölgesi'nin Sakarya ilinde yer alan bir doğa harikasıdır. Milli parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekerken, aynı zamanda bu bölgeye özgü Sivri Meyveli Disbudak ağaçları da dikkat çekicidir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak milli parkının tarihi geçmi
 
 ## Coğrafya
 
-Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak milli parkı, Marmara Bölgesi'nin Sakarya ilinde yer alır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, deniz seviyesinden belirli bir yükseklikte yer alır. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak tanıyan bir iklimi ve toprağıyla dikkat çeker. Bölge, zengin fauna ve flora çeşitliliğine sahiptir. Milli parkın içinde yer alan Sivri Meyveli Disbudak ağaçları, bölgenin özel florasını oluştururken, aynı zamanda ziyaretçilerin ilgisini çeker. Milli parkın coğrafi konumu, ziyaretçilerin doğayı keşfetmesine ve bölgenin güzelliklerini görme fırsatı sunar.
+Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak milli parkı, Marmara Bölgesi'nin Sakarya ilinde yer alır. Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak tanıyan bir iklimi ve toprağıyla dikkat çeker. Bölge, zengin fauna ve flora çeşitliliğine sahiptir. Milli parkın içinde yer alan Sivri Meyveli Disbudak ağaçları, bölgenin özel florasını oluştururken, aynı zamanda ziyaretçilerin ilgisini çeker. Milli parkın coğrafi konumu, ziyaretçilerin doğayı keşfetmesine ve bölgenin güzelliklerini görme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak milli parkına ziyaretçiler, 
 ## İlginç Bilgiler
 
 - Milli parkın içinde yer alan Sivri Meyveli Disbudak ağaçları, bölgenin özel florasını oluşturur.
-- Milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölge, zengin fauna ve flora çeşitliliğine sahiptir.
 - Milli parkın coğrafi konumu, ziyaretçilerin doğayı keşfetmesine olanak tanır.
 - Ziyaretçiler, milli parkın içinde yer alan yürüyüş yollarını kullanarak doğayı keşfedebilir.

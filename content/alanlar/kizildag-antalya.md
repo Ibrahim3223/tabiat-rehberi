@@ -33,7 +33,7 @@ Antalya'nın doğal güzelliklerini keşfetmek isteyenler için Kızıldağ, bir
 
 ## Tarihçe
 
-Kızıldağ, Antalya'nın zengin tarihî dokusu içinde yer alan bir doğal güzellik. Bölge, tarihin sâu sayfalarında önemli roller oynayan uygarlıkların izlerine ev sahipliği yapıyor. Antalya, Likya, Pamfilya ve Roma dönemlerinde önemli bir ticaret ve kültür merkezi olarak bilinirdi. Bu bölgede yaşayan halklar, doğal güzellikleri ve verimli toprakları kullanarak hayvancılık, tarım ve ticaret gibi faaliyetlerle geçimlerini sağladılar.
+Kızıldağ, Antalya'nın zengin tarihî dokusu içinde yer alan bir doğal güzellik. Bölge, tarihin derin sayfalarında önemli roller oynayan uygarlıkların izlerine ev sahipliği yapıyor. Antalya, Likya, Pamfilya ve Roma dönemlerinde önemli bir ticaret ve kültür merkezi olarak bilinirdi. Bu bölgede yaşayan halklar, doğal güzellikleri ve verimli toprakları kullanarak hayvancılık, tarım ve ticaret gibi faaliyetlerle geçimlerini sağladılar.
 
 Kızıldağ gibi doğal alanlar, Türkiye'nin tarihî ve kültürel mirasının önemli bir parçasını oluşturuyor. Bu tür alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insan yerleşimlerinin ve faaliyetlerinin bir parçası olarak da önem taşıyor. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve sosyal hayatında önemli roller oynamıştır. Antalya bölgesinin tarihsel zenginliği, Kızıldağ'ın da bir parçası olduğu bu doğal güzelliklerin korunması ve gelecek nesiller için yaşatılmasının önemini vurguluyor.
 

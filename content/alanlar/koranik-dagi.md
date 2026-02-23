@@ -50,11 +50,11 @@ Mevsimsel olarak, Koranik Dağı'nın iklimi Doğu Anadolu Bölgesi'nin genel ik
 
 ## Flora ve Fauna
 
-Koranik Dağı, Muş'un yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Koranik Dağı, Muş'un yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelişiyle birlikte, dağ eteklerinde çiçekler açar, yaz aylarında ise yükseklik zonlarında alpin çayırlar yeşerir. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı renklere bürünür. 
+Bitki Örtüsü olarak, ilkbaharın gelişiyle birlikte, dağ eteklerinde çiçekler açar, yaz aylarında ise yükseklik zonlarında alpin çayırlar yeşerir. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı renklere bürünür.
 
-Yaban Hayatı, dağ keçileri, kurtlar ve ayılar gibi memelilerin yaşadığı bir alandır. Kuşlar, özellikle göç mevsimlerinde, dağların üzerindeki gökyüzünü süsler. Sürüngenler de, kayalık alanlarda ve çayırlarda yaşamlarını sürdürür. 
+Yaban Hayatı, dağ keçileri, kurtlar ve ayılar gibi memelilerin yaşadığı bir alandır. Kuşlar, özellikle göç mevsimlerinde, dağların üzerindeki gökyüzünü süsler. Sürüngenler de, kayalık alanlarda ve çayırlarda yaşamlarını sürdürür.
 
 Ekolojik Değer olarak, Koranik Dağı, yüksek dağ ekosisteminin korunması açısından büyük önem taşır. Bu alanın korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin ekolojik dengesi için de önemlidir.
 

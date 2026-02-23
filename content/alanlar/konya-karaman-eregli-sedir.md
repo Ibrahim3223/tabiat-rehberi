@@ -22,7 +22,7 @@ wikidata_id: "Q108228572"
 
 # Konya-Karaman-Eregli-Sedir
 
-Konya-Karaman-Eregli-Sedir milli parkı, yaklaşık 140 hektarlık bir alanı kapsayan ve İç Anadolu Bölgesi'nde yer alan bir doğal güzelliktir. Bu alan, Konya ilinin Karaman ilçesi ve Eregli ilçesi sınırları içerisinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok farklı türde bitki ve hayvanın yaşadığı bir ekosistemdir. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Konya-Karaman-Eregli-Sedir milli parkı, yaklaşık 140 hektarlık bir alanı kapsayan ve İç Anadolu Bölgesi'nde yer alan bir doğal güzelliktir. Bu alan, Konya ilinin Karaman ilçesi ve Eregli ilçesi sınırları içerisinde yer alır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 

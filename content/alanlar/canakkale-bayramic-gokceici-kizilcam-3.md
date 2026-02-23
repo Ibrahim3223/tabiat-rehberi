@@ -22,7 +22,7 @@ wikidata_id: "Q108227863"
 
 # Canakkale-Bayramic-Gokceici Kızılçam 3
 
-Canakkale-Bayramic-Gokceici Kızılçam 3, Marmara Bölgesi'nin eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Çanakkale ilinin Bayramic ilçesinde yer alan bu milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzelliği, yaban hayatı ve flora çeşitliliği ile ziyaretçilerini etkileyen bu mekan, aynı zamanda bölge için önemli bir turizm merkezi. İnsanlık tarihine de tanıklık eden bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
+Canakkale-Bayramic-Gokceici Kızılçam 3, Marmara Bölgesi'nin eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Doğal güzelliği, yaban hayatı ve flora çeşitliliği ile ziyaretçilerini etkileyen bu mekan, aynı zamanda bölge için önemli bir turizm merkezi. İnsanlık tarihine de tanıklık eden bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Tarihi geçmişi ile dikkat çeken Canakkale-Bayramic-Gokceici Kızılçam 3, y�
 
 ## Coğrafya
 
-Coğrafi konumu itibariyle Marmara Bölgesi'nin önemli bir parçası olan Canakkale-Bayramic-Gokceici Kızılçam 3, Çanakkale ilinin Bayramic ilçesinde yer alıyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğündeki bu milli park, coğrafi çeşitliliği ile dikkat çekiyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklim şartlarına uygun olarak değişkenlik gösteriyor. Kış aylarında yağışlı ve serin, yaz aylarında ise sıcak ve kurak olan iklim, flora ve fauna çeşitliliğini etkileyen önemli bir faktör. Bölge, coğrafi konumunun yanı sıra yaban hayatı ve flora çeşitliliği ile de dikkat çekiyor. Canakkale-Bayramic-Gokceici Kızılçam 3'ün coğrafi güzelliği, ziyaretçilerini etkileyen önemli bir unsur.
+Coğrafi konumu itibariyle Marmara Bölgesi'nin önemli bir parçası olan Canakkale-Bayramic-Gokceici Kızılçam 3, Çanakkale ilinin Bayramic ilçesinde yer alıyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklim şartlarına uygun olarak değişkenlik gösteriyor. Kış aylarında yağışlı ve serin, yaz aylarında ise sıcak ve kurak olan iklim, flora ve fauna çeşitliliğini etkileyen önemli bir faktör. Bölge, coğrafi konumunun yanı sıra yaban hayatı ve flora çeşitliliği ile de dikkat çekiyor. Canakkale-Bayramic-Gokceici Kızılçam 3'ün coğrafi güzelliği, ziyaretçilerini etkileyen önemli bir unsur.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Canakkale-Bayramic-Gokceici Kızılçam 3'ü ziyaret etmek, doğa ve tarih hakk�
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bölge, yaban hayatı ve flora çeşitliliği ile dikkat çekiyor.
 - Milli park, Çanakkale ilinin Bayramic ilçesinde yer alıyor.
 - Bölge, coğrafi çeşitliliği ile dikkat çekiyor.

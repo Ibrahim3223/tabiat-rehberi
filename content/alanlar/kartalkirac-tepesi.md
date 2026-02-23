@@ -28,7 +28,7 @@ wikidata_id: "Q34878301"
 
 # Kartalkıraç Tepesi
 
-Kartalkıraç Tepesi, Diyarbakır'ın doğal güzelliklerinden biri olarak bilinir. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tepenin yüksekliği ve genişliği, ziyaretçilerine geniş bir görüş açısı sunar. Kartalkıraç Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin tercih ettiği bir noktadır. Tepenin etrafında bulunan çeşitli bitkiler ve çiçekler, ziyaretçilere renkli bir manzara sunar. Ayrıca, tepeye çıkan yolculuk, ziyaretçilere farklı bir deneyim sunar.
+Kartalkıraç Tepesi, Diyarbakır'ın doğal güzelliklerinden biri olarak bilinir. Tepenin yüksekliği ve genişliği, ziyaretçilerine geniş bir görüş açısı sunar. Kartalkıraç Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin tercih ettiği bir noktadır. Tepenin etrafında bulunan çeşitli bitkiler ve çiçekler, ziyaretçilere renkli bir manzara sunar. Ayrıca, tepeye çıkan yolculuk, ziyaretçilere farklı bir deneyim sunar.
 
 ## Tarihçe
 

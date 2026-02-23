@@ -28,7 +28,7 @@ wikidata_id: "Q49741953"
 
 # Kürttacın Ilıcası
 
-Ankara'nın İç Anadolu Bölgesi'nde yer alan Kürttacın Ilıcası, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası sunuyor. Bu bölge, aynı zamanda coğrafi olarak önemli bir konumda yer alıyor ve civarındaki dağlar ve ovalarla birlikte bir bütün olarak değerlendiriliyor. Kürttacın Ilıcası, hem doğal güzellikleri hem de termal kaynaklarıyla dikkat çekiyor ve böylece ziyaretçiler için oldukça cazip bir destinasyon haline geliyor.
+ Bu bölge, aynı zamanda coğrafi olarak önemli bir konumda yer alıyor ve civarındaki dağlar ve ovalarla birlikte bir bütün olarak değerlendiriliyor. Kürttacın Ilıcası, hem doğal güzellikleri hem de termal kaynaklarıyla dikkat çekiyor ve böylece ziyaretçiler için oldukça cazip bir destinasyon haline geliyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kürttacın Ilıcası, yılın her mevsimi ziyaret edilebilir, ancak ilkbahar ve
 ## İlginç Bilgiler
 
 - Kürttacın Ilıcası, Ankara'nın en önemli termal kaynaklarından biridir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Kürttacın Ilıcası, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmış ve bu nedenle önemli bir kültürel miras biriktirmiştir.
 - Bu bölge, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet veriyor.
 - Kürttacın Ilıcası, ilkbahar ve yaz aylarında en çok ziyaret ediliyor.

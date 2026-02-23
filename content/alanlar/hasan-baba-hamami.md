@@ -1,7 +1,7 @@
 ---
 title: "Hasan Baba Hamamı"
 date: "2026-01-09T23:34:29.993Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739212"
 
 # Hasan Baba Hamamı
 
-Hasan Baba Hamamı, Güneydoğu Anadolu Bölgesi'nin güzide illerinden Şanlıurfa'nın Birecik ilçesinde yer alır. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Hasan Baba Hamamı, çevresindeki dağların eteklerinde kurulmuş ve bölgenin tarihi geçmişi ile iç içe geçmiş bir alandır. Bu bölge, doğa severlerin ve tarihe meraklı olanların ilgi odağı haline gelmiştir. 140 hektarlık bu yeşil alan, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+Hasan Baba Hamamı, Güneydoğu Anadolu Bölgesi'nin güzide illerinden Şanlıurfa'nın Birecik ilçesinde yer alır. Hasan Baba Hamamı, çevresindeki dağların eteklerinde kurulmuş ve bölgenin tarihi geçmişi ile iç içe geçmiş bir alandır. Bu bölge, doğa severlerin ve tarihe meraklı olanların ilgi odağı haline gelmiştir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Hasan Baba Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve b
 
 ## Coğrafya
 
-Hasan Baba Hamamı, coğrafi açıdan oldukça zengin bir bölgede yer alır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Hasan Baba Hamamı, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölgenin coğrafyası, dağlar, ovalar ve akarsularla birlikte şekillenmiştir. Hasan Baba Hamamı, bu coğrafi özelliklerin birleştiği bir noktada yer alır ve bu nedenle, bu bölgenin coğrafyası oldukça çeşitli ve zengin bir yapıya sahiptir. Bu bölgenin iklimi, genellikle sıcak ve kurudur. Ancak, mevsimsel değişimlerle birlikte, bu bölgenin iklimi değişkenlik gösterir.
+Hasan Baba Hamamı, coğrafi açıdan oldukça zengin bir bölgede yer alır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bu bölgenin coğrafyası, dağlar, ovalar ve akarsularla birlikte şekillenmiştir. Hasan Baba Hamamı, bu coğrafi özelliklerin birleştiği bir noktada yer alır ve bu nedenle, bu bölgenin coğrafyası oldukça çeşitli ve zengin bir yapıya sahiptir. Bu bölgenin iklimi, genellikle sıcak ve kurudur. Ancak, mevsimsel değişimlerle birlikte, bu bölgenin iklimi değişkenlik gösterir.
 
 ## Flora ve Fauna
 
-Hasan Baba Hamamı, flora ve fauna açısından oldukça zengin bir bölgedir. Bu bölgede, çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin coğrafi özelliklerine göre farklılık gösterir. Hasan Baba Hamamı, aynı zamanda zengin fauna ile dikkat çeker. Bu bölgede, çeşitli hayvan türleri bulunur ve bu hayvan türleri, bölgenin ekolojik dengesini sağlar. Mevsimsel değişimlerle birlikte, bu bölgenin flora ve faunası da değişkenlik gösterir. Bu nedenle, Hasan Baba Hamamı, doğa severlerin ve bilim insanlarının ilgi odağı haline gelmiştir.
+ Bu bölgede, çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin coğrafi özelliklerine göre farklılık gösterir. Hasan Baba Hamamı, aynı zamanda zengin fauna ile dikkat çeker. Bu bölgede, çeşitli hayvan türleri bulunur ve bu hayvan türleri, bölgenin ekolojik dengesini sağlar. Mevsimsel değişimlerle birlikte, bu bölgenin flora ve faunası da değişkenlik gösterir. Bu nedenle, Hasan Baba Hamamı, doğa severlerin ve bilim insanlarının ilgi odağı haline gelmiştir.
 
 ## Ziyaret Bilgileri
 
@@ -49,8 +49,6 @@ Hasan Baba Hamamı, ziyaretçilerin ilgi odağı haline gelmiştir. Bu bölgeye,
 
 ## İlginç Bilgiler
 
-- Hasan Baba Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
-- Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
 - Hasan Baba Hamamı, tarihin farklı sayfalarında yer alan olaylara tanıklık etmiş.
 - Bu bölgede, tarihin farklı dönemlerinde önemli bir merkez olarak kullanılmış.
 - Hasan Baba Hamamı, doğa severlerin ve bilim insanlarının ilgi odağı haline gelmiştir.

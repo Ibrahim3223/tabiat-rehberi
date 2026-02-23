@@ -22,7 +22,7 @@ wikidata_id: "Q108228861"
 
 # Tortum Golu Sulak Alanı
 
-Tortum Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için özel bir destinasyon. Yaklaşık 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgenin ekolojik dengesini korumak açısından büyük önem taşıyor. Zengin fauna ve flora çeşitliliği ile dikkat çeken bu sulak alan, aynı zamanda birçok kuş türünün yaşam alanı olarak da biliniyor. Doğa severler ve kuş gözlemcileri için ideal bir yer olan Tortum Gölü Sulak Alanı, ziyaretçilerini bekliyor.
+Tortum Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için özel bir destinasyon. Zengin fauna ve flora çeşitliliği ile dikkat çeken bu sulak alan, aynı zamanda birçok kuş türünün yaşam alanı olarak da biliniyor. Doğa severler ve kuş gözlemcileri için ideal bir yer olan Tortum Gölü Sulak Alanı, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Tortum Gölü Sulak Alanı, tarihi geçmişi ile de dikkat çekiyor. Bu bölgeni
 
 ## Coğrafya
 
-Tortum Gölü Sulak Alanı, İç Anadolu Bölgesi'nde yer alan bir sulak alan. Bu bölge, coğrafi olarak çeşitli özellikler taşıyor. Sulak alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu bölgenin ekolojik dengesini korumak açısından büyük önem taşıyor. İklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor ve karasal iklim özellikleri taşıyor. Bölge, çeşitli bitki türleri ile zengin bir flora çeşitliliğine sahip. Sulak alanın coğrafi konumu, birçok kuş türünün yaşam alanı olmasını sağlıyor. Ayrıca, bu bölgenin jeolojik yapısı, sulak alanın oluşumunda etkili olmuş. Tortum Gölü Sulak Alanı, coğrafi ve ekolojik özellikleri ile dikkat çekiyor ve ziyaretçilere bir deneyim sunuyor.
+Tortum Gölü Sulak Alanı, İç Anadolu Bölgesi'nde yer alan bir sulak alan. Bu bölge, coğrafi olarak çeşitli özellikler taşıyor. İklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor ve karasal iklim özellikleri taşıyor. Bölge, çeşitli bitki türleri ile zengin bir flora çeşitliliğine sahip. Sulak alanın coğrafi konumu, birçok kuş türünün yaşam alanı olmasını sağlıyor. Ayrıca, bu bölgenin jeolojik yapısı, sulak alanın oluşumunda etkili olmuş. Tortum Gölü Sulak Alanı, coğrafi ve ekolojik özellikleri ile dikkat çekiyor ve ziyaretçilere bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

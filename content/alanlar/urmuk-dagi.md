@@ -66,5 +66,5 @@ Yaban hayatı da aynı derecede zenginlik gösterir. Memeliler ve kuşlar, dağl
 - Dağın yüksekliği 2.330 metredir.
 - Ürmük Dağı, 10 kilometre çapında bir alanı kaplar.
 - Dağ, third Jeolojik Devir'de oluşmuştur.
-- Ürmük Dağı'nın eteklerinde birçok histórik yerleşim yeri bulunmaktadır.
+- Ürmük Dağı'nın eteklerinde birçok tarihi yerleşim yeri bulunmaktadır.
 - Dağın zirvesinden, çevresindeki diğer dağları ve ovaları net bir şekilde görme mümkündür.

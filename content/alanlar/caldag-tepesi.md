@@ -28,7 +28,7 @@ wikidata_id: "Q34823567"
 
 # Çaldağ Tepesi
 
-Ankara'nın İç Anadolu Bölgesi'nde yer alan Çaldağ Tepesi, şehrin doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla baş başa bırakmaktadır. Çaldağ Tepesi, özellikle doğa severlerin ilgi odağı olan bir yerdir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Çaldağ Tepesi, aynı zamanda Ankara'nın panoramik manzarasına da ev sahipliği yapmaktadır.
+Ankara'nın İç Anadolu Bölgesi'nde yer alan Çaldağ Tepesi, şehrin doğal güzelliklerinden biridir. Çaldağ Tepesi, özellikle doğa severlerin ilgi odağı olan bir yerdir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Çaldağ Tepesi, aynı zamanda Ankara'nın panoramik manzarasına da ev sahipliği yapmaktadır.
 
 ## Tarihçe
 

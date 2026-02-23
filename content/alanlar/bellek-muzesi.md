@@ -1,7 +1,7 @@
 ---
 title: "Bellek Müzesi"
 date: "2026-01-10T15:12:28.667Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950184"
 
 # Bellek Müzesi
 
-Bellek Müzesi, Ankara'nın merkezi bir konumunda yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir yayladır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunar. Doğal güzellikleri, tarihi geçmişi ve kültürel zenginliği ile Bellek Müzesi, Ankara'nın önemli turizm merkezlerinden biridir. Ziyaretçiler, burada hem doğayı keşfedebilir hem de tarih ve kültürle iç içe olabilirler.
+Bellek Müzesi, Ankara'nın merkezi bir konumunda yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir yayladır. Doğal güzellikleri, tarihi geçmişi ve kültürel zenginliği ile Bellek Müzesi, Ankara'nın önemli turizm merkezlerinden biridir. Ziyaretçiler, burada hem doğayı keşfedebilir hem de tarih ve kültürle iç içe olabilirler.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bellek Müzesi'ni ziyaret etmek, oldukça kolaydır. Ziyaretçiler, toplu taşı
 ## İlginç Bilgiler
 
 - Bellek Müzesi, Ankara'nın en büyük yeşil alanlarından biridir.
-- Müze, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Bellek Müzesi, çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır.
 - Müze, sadece bir müze değil, aynı zamanda bir kültür ve tarih merkezidir.
 - Bellek Müzesi, ziyaretçilere geniş bir faaliyet yelpazesi sunar.

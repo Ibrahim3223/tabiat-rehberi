@@ -1,7 +1,7 @@
 ---
 title: "Balikesir-Edremit-Cinarlihan Piramidal Kızılçam"
 date: "2026-01-09T13:11:15.919Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"

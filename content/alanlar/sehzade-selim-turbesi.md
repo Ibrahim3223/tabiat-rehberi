@@ -1,7 +1,7 @@
 ---
 title: "Şehzade Selim Türbesi"
 date: "2026-01-10T07:41:32.994Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391270"
 
 # Şehzade Selim Türbesi
 
-Şehzade Selim Türbesi, Edirne'nin merkezinde yer alan tarihi bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Şehzade Selim Türbesi, yüzyıllar boyunca önemli bir kültür merkezi olarak görev yaptı. Burada, tarihin izlerini taşıyan çeşitli yapılar ve anıtlar bulma mümkün.
+Şehzade Selim Türbesi, Edirne'nin merkezinde yer alan tarihi bir mekan. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Şehzade Selim Türbesi, yüzyıllar boyunca önemli bir kültür merkezi olarak görev yaptı. Burada, tarihin izlerini taşıyan çeşitli yapılar ve anıtlar bulma mümkün.
 
 ## Tarihçe
 

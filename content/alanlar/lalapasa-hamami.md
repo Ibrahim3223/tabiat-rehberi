@@ -1,7 +1,7 @@
 ---
 title: "Lalapaşa Hamamı"
 date: "2026-01-09T22:26:32.623Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738427"
 
 # Lalapaşa Hamamı
 
-Lalapaşa Hamamı, Erzurum'un Yakutiye ilçesinde yer alan ve Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir bölgedir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla baş başa bırakmak için tasarlanmış bir cennettir. Lalapaşa Hamamı, ziyaretçilerine hem doğanın güzelliğini hem de tarihi değerlerini keşfetme fırsatı sunar. Özellikle bölgenin coğrafi özelliklerinin ve flora/faunanın çeşitliliği, bu alanı ziyaretçilerin ilgisini çekmektedir.
+Lalapaşa Hamamı, Erzurum'un Yakutiye ilçesinde yer alan ve Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir bölgedir. Lalapaşa Hamamı, ziyaretçilerine hem doğanın güzelliğini hem de tarihi değerlerini keşfetme fırsatı sunar. Özellikle bölgenin coğrafi özelliklerinin ve flora/faunanın çeşitliliği, bu alanı ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Lalapaşa Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Lalapaşa Hamamı, Erzurum'un Yakutiye ilçesinde yer alan ve coğrafi olarak çeşitlilik gösteren bir bölgedir. Bu alan, 140 hektarlık bir büyüklüğe sahip olup, yaklaşık 200 futbol sahası büyüklüğündedir. Lalapaşa Hamamı'nın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunmaktadır. Bölgenin iklimi, mevsimsel değişimlere göre şekillenmektedir. Lalapaşa Hamamı, ziyaretçilerine doğayla iç içe olabilecekleri bir ortam sunmaktadır. Bu bölgenin coğrafi özellikleri, flora ve faunayı çeşitlendirmekte ve ziyaretçilere zengin bir doğal deneyim sunmaktadır. Lalapaşa Hamamı, doğa tutkunları için ideal bir destinasyondur.
+Lalapaşa Hamamı, Erzurum'un Yakutiye ilçesinde yer alan ve coğrafi olarak çeşitlilik gösteren bir bölgedir. Lalapaşa Hamamı'nın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunmaktadır. Bölgenin iklimi, mevsimsel değişimlere göre şekillenmektedir. Lalapaşa Hamamı, ziyaretçilerine doğayla iç içe olabilecekleri bir ortam sunmaktadır. Bu bölgenin coğrafi özellikleri, flora ve faunayı çeşitlendirmekte ve ziyaretçilere zengin bir doğal deneyim sunmaktadır. Lalapaşa Hamamı, doğa tutkunları için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Lalapaşa Hamamı, ziyaretçilere çeşitli aktivite seçenekleri sunmaktadır. 
 ## İlginç Bilgiler
 
 - Lalapaşa Hamamı, Erzurum'un Yakutiye ilçesinde yer almaktadır.
-- Bu alan, 140 hektarlık bir büyüklüğe sahiptir.
+
 - Lalapaşa Hamamı, flora ve fauna açısından zengin bir bölgedir.
 - Bu bölgede, ziyaretçiler çeşitli flora ve fauna türlerini gözlemleyebilirler.
 - Lalapaşa Hamamı, doğa tutkunları için ideal bir destinasyondur.

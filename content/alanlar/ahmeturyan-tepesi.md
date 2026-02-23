@@ -28,7 +28,7 @@ wikidata_id: "Q32126619"
 
 # Ahmetüryan Tepesi
 
-Ahmetüryan Tepesi, Eskişehir'in sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Ahmetüryan Tepesi, ziyaretçilerine doğal güzellikleri ve coğrafi özellikleri ile dikkat çekiyor. Tepenin çevresinde 다양한 bitki türleri ve zengin fauna bulunmakta.
+Ahmetüryan Tepesi, Eskişehir'in sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Ahmetüryan Tepesi, ziyaretçilerine doğal güzellikleri ve coğrafi özellikleri ile dikkat çekiyor. Tepenin çevresinde 다양한 bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

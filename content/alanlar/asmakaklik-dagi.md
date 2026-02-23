@@ -46,11 +46,11 @@ Jeolojik açıdan bakıldığında, Asmakaklık Dağı'nın fiziksel yapısı ol
 
 ## Flora ve Fauna
 
-Asmakaklık Dağı, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker. 
+Asmakaklık Dağı, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker.
 
-Bitki örtüsünü oluşturan step türleri, ilkbaharda renkli çiçeklerle donanırken, yaz aylarında kuraklığa adapte olmuş bitkiler ön plana çıkar. Dağın yüksek kesimlerinde, alpin flora ile karşılaşma mümkün. 
+Bitki örtüsünü oluşturan step türleri, ilkbaharda renkli çiçeklerle donanırken, yaz aylarında kuraklığa adapte olmuş bitkiler ön plana çıkar. Dağın yüksek kesimlerinde, alpin flora ile karşılaşma mümkün.
 
-Yaban hayatı da aynı derecede çeşitlilik gösterir. Memeliler, dağların kayalık bölgelerinde yaşarken, kuşlar göç mevsimlerinde bu bölgeyi önemli bir durak olarak kullanır. Sürüngenler ise, step ve bozkır bölgelerindeliklerini sürdürür. 
+Yaban hayatı da aynı derecede çeşitlilik gösterir. Memeliler, dağların kayalık bölgelerinde yaşarken, kuşlar göç mevsimlerinde bu bölgeyi önemli bir durak olarak kullanır. Sürüngenler ise, step ve bozkır bölgelerindeliklerini sürdürür.
 
 Asmakaklık Dağı'nın ekolojik değeri, bu çeşitli yaşam formlarının bir arada yaşamasına olanak tanımasıdır. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve doğal dengesini korumak için önemlidir.
 

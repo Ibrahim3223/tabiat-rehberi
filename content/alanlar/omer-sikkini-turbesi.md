@@ -1,7 +1,7 @@
 ---
 title: "Ömer Sıkkini Türbesi"
 date: "2026-01-10T06:14:05.692Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390706"
 
 # Ömer Sıkkini Türbesi
 
-Ömer Sıkkini Türbesi, Karadeniz Bölgesi'nin Bolu ilinin Göynük ilçesinde yer alan tarihi ve doğal bir güzelliktir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda yer alan Ömer Sıkkini Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu alan, hem tarihi hem de doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerine zengin bir gezi deneyimi sunuyor. Göynük'ün merkezine uzun bir mesafe uzaklıkta bulunan Ömer Sıkkini Türbesi, tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Ömer Sıkkini Türbesi, Karadeniz Bölgesi'nin Bolu ilinin Göynük ilçesinde yer alan tarihi ve doğal bir güzelliktir. Bu alan, hem tarihi hem de doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerine zengin bir gezi deneyimi sunuyor. Göynük'ün merkezine uzun bir mesafe uzaklıkta bulunan Ömer Sıkkini Türbesi, tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390706"
 
 ## Coğrafya
 
-Ömer Sıkkini Türbesi, Karadeniz Bölgesi'nin Bolu ilinin Göynük ilçesinde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda yer alan Ömer Sıkkini Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Göynük'ün merkezine uzun bir mesafe uzaklıkta bulunan Ömer Sıkkini Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bölgenin iklimi, Karadeniz ikliminin característicasını taşır ve ziyaretçileri, dört mevsim farklı güzellikleriyle karşılar. Göynük'ün coğrafi yapısı, Ömer Sıkkini Türbesi'ni ziyaret edenler için bir keşif destinasyonu olarak dikkat çekiyor.
+Ömer Sıkkini Türbesi, Karadeniz Bölgesi'nin Bolu ilinin Göynük ilçesinde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Göynük'ün merkezine uzun bir mesafe uzaklıkta bulunan Ömer Sıkkini Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bölgenin iklimi, Karadeniz ikliminin característicasını taşır ve ziyaretçileri, dört mevsim farklı güzellikleriyle karşılar. Göynük'ün coğrafi yapısı, Ömer Sıkkini Türbesi'ni ziyaret edenler için bir keşif destinasyonu olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131390706"
 ## İlginç Bilgiler
 
 - Ömer Sıkkini Türbesi, Karadeniz Bölgesi'nin Bolu ilinin Göynük ilçesinde yer alıyor.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip.
 - Göynük'ün merkezine uzun bir mesafe uzaklıkta bulunuyor.
 - Ömer Sıkkini Türbesi, yüzyıllar boyunca birçok kişinin ziyaret ettiği ve saygı gösterdiği bir yer olarak biliniyor.

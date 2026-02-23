@@ -22,7 +22,7 @@ wikidata_id: "Q108228458"
 
 # Hazar Gölü Sulak Alanı
 
-Hazar Gölü Sulak Alanı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kaplayan bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli sulak alanlarından biridir. Göl ve çevresinin doğal güzelliği, ziyaretçilerini büyülerken, aynı zamanda çeşitli canlılara ev sahipliği yapmaktadır. Hazar Gölü Sulak Alanı, doğa severler ve bilim insanları için bir cennet olarak kabul edilmektedir.
+Hazar Gölü Sulak Alanı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kaplayan bir doğa harikasıdır. Göl ve çevresinin doğal güzelliği, ziyaretçilerini büyülerken, aynı zamanda çeşitli canlılara ev sahipliği yapmaktadır. Hazar Gölü Sulak Alanı, doğa severler ve bilim insanları için bir cennet olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Hazar Gölü Sulak Alanı, ziyaretçilerini doğanın güzelliği ile büyüleme
 ## İlginç Bilgiler
 
 - Hazar Gölü Sulak Alanı, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
-- Sulak alan, 200 futbol sahası büyüklüğündedir.
+
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır.
 - Göl, çevresindeki dağlardan gelen akarsularla beslenmektedir.
 - Sulak alan, bölgenin su dengesini korumakta önemli bir görev üstlenmektedir.

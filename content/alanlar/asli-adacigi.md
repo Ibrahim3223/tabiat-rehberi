@@ -28,7 +28,7 @@ wikidata_id: "Q19610576"
 
 # Aslı Adacığı
 
-Balıkesir'in kıyılarında, Marmara Denizi'nin sakin suları içinde gizli bir hazine olarak duran Aslı Adacığı, ziyaretçilerini doğanın sade güzelliği ile karşılar. Bu küçük ada, Balıkesir'in doğal zenginliklerini keşfetmek isteyenler için bir durak noktasıdır. Balıkesir'in eşsiz manzaralarına ev sahipliği yapan Aslı Adacığı, şehrin turistlerin ilgisini çeken önemli noktalarından biri olarak dikkat çeker. Doğal güzelliği ve sakin atmosferi ile Aslı Adacığı, ziyaretçilerine unutulmaz anlar vaat eder.
+Balıkesir'in kıyılarında, Marmara Denizi'nin sakin suları içinde gizli bir hazine olarak duran Aslı Adacığı, ziyaretçilerini doğanın sade güzelliği ile karşılar. Bu küçük ada, Balıkesir'in doğal zenginliklerini keşfetmek isteyenler için bir durak noktasıdır. Balıkesir'in eşsiz manzaralarına ev sahipliği yapan Aslı Adacığı, şehrin turistlerin ilgisini çeken önemli noktalarından biri olarak dikkat çeker.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31387074"
 
 # Kemerli Tepe
 
-Kemerli Tepe, Artvin ilinin sınırları içerisinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklüğü ile yaklaşık 200 futbol sahası büyüklüğünde bir alana denk geliyor. Kemerli Tepe, yükseltisi ve konumu itibariyle bölgenin önemli bir noktası olarak kabul ediliyor. Ayrıca, tepe çevresinde çeşitli bitki türleri ve zengin fauna encontruluyor.
+Kemerli Tepe, Artvin ilinin sınırları içerisinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe olarak karşımıza çıkıyor. Kemerli Tepe, yükseltisi ve konumu itibariyle bölgenin önemli bir noktası olarak kabul ediliyor. Ayrıca, tepe çevresinde çeşitli bitki türleri ve zengin fauna encontruluyor.
 
 ## Tarihçe
 

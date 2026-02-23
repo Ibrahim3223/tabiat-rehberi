@@ -28,7 +28,7 @@ wikidata_id: "Q31554559"
 
 # Duarinder Tepesi
 
-Duarinder Tepesi, Mardin'in güneydoğusunda yer alan ve şehrin tarihi ile doğal güzelliklerinin birleştiği bir nokta. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini  ve doğa ile baş başa bırakıyor. Tepenin üzerinde yer alan tarihi yapılar, Mardin'in zengin geçmişini gözler önüne sererken, eteklerinde yer alan yeşil alanlar da ziyaretçilere huzur dolu anlar sunuyor. Duarinder Tepesi, Mardin'in önemli ziyaret noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih ediliyor.
+Duarinder Tepesi, Mardin'in güneydoğusunda yer alan ve şehrin tarihi ile doğal güzelliklerinin birleştiği bir nokta. Tepenin üzerinde yer alan tarihi yapılar, Mardin'in zengin geçmişini gözler önüne sererken, eteklerinde yer alan yeşil alanlar da ziyaretçilere huzur dolu anlar sunuyor. Duarinder Tepesi, Mardin'in önemli ziyaret noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih ediliyor.
 
 ## Tarihçe
 

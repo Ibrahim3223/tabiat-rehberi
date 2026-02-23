@@ -22,7 +22,7 @@ wikidata_id: "Q108228505"
 
 # Giresun-Tirebolu-Gorele-Kizilagac
 
-Giresun-Tirebolu-Gorele-Kizilagac milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Milli parkın etrafında çeşitli bitki türleri ve zengin fauna found. Bu milli park, hem doğa severler hem de fotoğraf sanatçıları için bir cennet. Ziyaretçiler, milli parkın güzel manzarasını izlerken, aynı zamanda çeşitli bitki ve hayvan türleriyle karşılaşabilirler.
+Giresun-Tirebolu-Gorele-Kizilagac milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Milli parkın etrafında çeşitli bitki türleri ve zengin fauna found. Bu milli park, hem doğa severler hem de fotoğraf sanatçıları için bir cennet. Ziyaretçiler, milli parkın güzel manzarasını izlerken, aynı zamanda çeşitli bitki ve hayvan türleriyle karşılaşabilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Giresun-Tirebolu-Gorele-Kizilagac milli parkı, tarihi geçmişiyle dikkat çeki
 
 ## Coğrafya
 
-Giresun-Tirebolu-Gorele-Kizilagac milli parkı, Karadeniz Bölgesi'nin coğrafi güzelliğini yansıtıyor. Milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgenin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın etrafında, çeşitli dağlar ve vadiler bulunmakta. Ziyaretçiler, milli parkın güzel manzarasını izlerken, aynı zamanda bu bölgenin coğrafi güzelliğini keşfedebilirler. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine benzer. Bu bölgenin iklimi, genellikle yağışlı ve nemli. Ziyaretçiler, milli parkı gezerken, aynı zamanda bu bölgenin iklimini ve coğrafyasını deneyimleyebilirler.
+Giresun-Tirebolu-Gorele-Kizilagac milli parkı, Karadeniz Bölgesi'nin coğrafi güzelliğini yansıtıyor. Bu bölgenin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın etrafında, çeşitli dağlar ve vadiler bulunmakta. Ziyaretçiler, milli parkın güzel manzarasını izlerken, aynı zamanda bu bölgenin coğrafi güzelliğini keşfedebilirler. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine benzer. Bu bölgenin iklimi, genellikle yağışlı ve nemli. Ziyaretçiler, milli parkı gezerken, aynı zamanda bu bölgenin iklimini ve coğrafyasını deneyimleyebilirler.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Giresun-Tirebolu-Gorele-Kizilagac milli parkını ziyaret etmek, doğa severler 
 
 ## İlginç Bilgiler
 
-- Milli parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli parkın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Milli park, Karadeniz Bölgesi'nin en güzel köşelerinden biri.
 - Milli parkın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.

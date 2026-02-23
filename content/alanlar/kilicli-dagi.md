@@ -50,9 +50,9 @@ Bölgenin ekosistem bağlantıları açısından, Kılıçlı Dağı, komşu ala
 
 ## Flora ve Fauna
 
-Kılıçlı Dağı, Hakkari'de yüksek dağ ekolojisinin tüm güzelliğini sergiler. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları renklendirilir; çeşitli çiçekler ve otsu bitkiler çayırları süsler. Alpin flora, yükseklik zonlarına bağlı olarak değişir; bazı bitkiler sadece belirli yüksekliklerde yetişir. 
+Kılıçlı Dağı, Hakkari'de yüksek dağ ekolojisinin tüm güzelliğini sergiler. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları renklendirilir; çeşitli çiçekler ve otsu bitkiler çayırları süsler. Alpin flora, yükseklik zonlarına bağlı olarak değişir; bazı bitkiler sadece belirli yüksekliklerde yetişir.
 
-Yaban hayatı da bir o kadar çeşitlidir. Dağ keçileri ve yaban keçileri kayalık alanları mesken tutar. Kuşlar, özellikle göç mevsimlerinde, dağların semalarını süsler. Sürüngenler ve amfibiler, daha alçak bölgelerde yaşamayı tercih eder. 
+Yaban hayatı da bir o kadar çeşitlidir. Dağ keçileri ve yaban keçileri kayalık alanları mesken tutar. Kuşlar, özellikle göç mevsimlerinde, dağların semalarını süsler. Sürüngenler ve amfibiler, daha alçak bölgelerde yaşamayı tercih eder.
 
 Kılıçlı Dağı, endemik türlerin varlığıyla dikkat çeker ve yüksek dağ ekosisteminin korunması için önemli bir alandır. Bu bölge, doğa severler için bir cennet, biyologlar için ise bir laboratuvardır.
 

@@ -1,7 +1,7 @@
 ---
 title: "Pertev Mehmet Paşa Türbesi"
 date: "2026-01-10T07:43:21.969Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391098"
 
 # Pertev Mehmet Paşa Türbesi
 
-Pertev Mehmet Paşa Türbesi, İstanbul'un tarihi mekanlarından biri olarak Eyüpsultan'da bulunmaktadır. Bu türbe, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsar. Pertev Mehmet Paşa Türbesi, İstanbul'un en önemli tarihi noktalarından biri olarak kabul edilmektedir. Türbenin etrafında çeşitli tarihi eserler ve yapılar bulunmaktadır.
+Pertev Mehmet Paşa Türbesi, İstanbul'un tarihi mekanlarından biri olarak Eyüpsultan'da bulunmaktadır. Pertev Mehmet Paşa Türbesi, İstanbul'un en önemli tarihi noktalarından biri olarak kabul edilmektedir. Türbenin etrafında çeşitli tarihi eserler ve yapılar bulunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Pertev Mehmet Paşa Türbesi'nin tarihi geçmişi, Osmanlı İmparatorluğu dön
 
 ## Coğrafya
 
-Pertev Mehmet Paşa Türbesi, Eyüpsultan'da bulunmaktadır. Bu bölge, İstanbul'un en önemli tarihi bölgelerinden biri olarak kabul edilmektedir. Türbenin etrafında, çeşitli tarihi eserler ve yapılar bulunmaktadır. Pertev Mehmet Paşa Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsar. Türbenin iklimi, Marmara Bölgesi'nin karakteristik iklimine sahiptir. Bu iklim, ılıman ve nemlidir. Pertev Mehmet Paşa Türbesi'nin etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır.
+Pertev Mehmet Paşa Türbesi, Eyüpsultan'da bulunmaktadır. Bu bölge, İstanbul'un en önemli tarihi bölgelerinden biri olarak kabul edilmektedir. Türbenin etrafında, çeşitli tarihi eserler ve yapılar bulunmaktadır. Pertev Mehmet Paşa Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur. Türbenin iklimi, Marmara Bölgesi'nin karakteristik iklimine sahiptir. Bu iklim, ılıman ve nemlidir. Pertev Mehmet Paşa Türbesi'nin etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Muslihittin Türbesi"
 date: "2026-01-10T06:41:36.275Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Isparta"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582631"
 
 # Şeyh Muslihittin Türbesi
 
-Şeyh Muslihittin Türbesi, Isparta'nın Eğirdir ilçesinde yer alan ve hem tarihi hem de doğal güzelliği ile dikkat çeken bir noktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alıyor ve 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Türbenin yanı sıra, Eğirdir Gölü'nün kıyısında yer alan plajı ile de ziyaretçilerini cezbediyor. Şeyh Muslihittin Türbesi, hem tarihi açıdan hem de doğal güzelliği ile bölgenin önemli noktalarından biri olarak kabul ediliyor.
+Şeyh Muslihittin Türbesi, Isparta'nın Eğirdir ilçesinde yer alan ve hem tarihi hem de doğal güzelliği ile dikkat çeken bir noktadır. Türbenin yanı sıra, Eğirdir Gölü'nün kıyısında yer alan plajı ile de ziyaretçilerini cezbediyor. Şeyh Muslihittin Türbesi, hem tarihi açıdan hem de doğal güzelliği ile bölgenin önemli noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

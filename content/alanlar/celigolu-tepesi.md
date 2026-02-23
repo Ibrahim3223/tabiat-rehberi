@@ -28,7 +28,7 @@ wikidata_id: "Q34837577"
 
 # Celigölü Tepesi
 
-Celigölü Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir doğa harikasıdır. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevredeki diğer tepelerle birlikte bir doğa koridorunu oluşturur. Celigölü Tepesi, ziyaretçilerini geniş ve yeşil alanlarıyla karşılar. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkündür. Celigölü Tepesi, doğa severler ve turistler için bir çekim merkezi olarak hizmet eder.
+Celigölü Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir doğa harikasıdır. Celigölü Tepesi, ziyaretçilerini geniş ve yeşil alanlarıyla karşılar. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkündür. Celigölü Tepesi, doğa severler ve turistler için bir çekim merkezi olarak hizmet eder.
 
 ## Tarihçe
 

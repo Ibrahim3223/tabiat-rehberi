@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Selamlık Kasrı"
 date: "2026-01-10T04:34:25.099Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133683982"
 
 # Yıldız Sarayı Selamlık Kasrı
 
-Yıldız Sarayı Selamlık Kasrı, İstanbul'un Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, İstanbul'un önemli tarihi mekanlarından biridir. Bu alan, İstanbul'un kalabalık sokaklarından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Yıldız Sarayı Selamlık Kasrı, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan bir mekan olarak ziyaretçilerini bekliyor.
+Yıldız Sarayı Selamlık Kasrı, İstanbul'un Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir yapıdır. Bu alan, İstanbul'un kalabalık sokaklarından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Yıldız Sarayı Selamlık Kasrı, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan bir mekan olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

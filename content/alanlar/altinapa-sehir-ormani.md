@@ -22,7 +22,7 @@ wikidata_id: "Q108228700"
 
 # ALTINAPA ŞEHİR ORMANI
 
-Altınapa Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa cenneti olarak karşımıza çıkıyor. 140 hektarlık geniş bir alanı kapsayan bu şehir ormanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil ediyor. Bu geniş alan, ziyaretçilerine temiz hava, doğal güzellikler ve sakin bir ortam sunuyor. Altınapa Şehir Ormanı, hem yerel halk hem de ziyaretçiler için bir kaçış noktası olarak görev yapıyor ve doğa ile iç içe olmak isteyenler için ideal bir destinasyon olarak görülüyor.
+Altınapa Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa cenneti olarak karşımıza çıkıyor. Bu geniş alan, ziyaretçilerine temiz hava, doğal güzellikler ve sakin bir ortam sunuyor. Altınapa Şehir Ormanı, hem yerel halk hem de ziyaretçiler için bir kaçış noktası olarak görev yapıyor ve doğa ile iç içe olmak isteyenler için ideal bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Altınapa Şehir Ormanı, ziyaretçilerine birçok aktivite ve deneyim sunar. Or
 ## İlginç Bilgiler
 
 - Altınapa Şehir Ormanı, 140 hektarlık bir alanı kapsar.
-- Orman, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil eder.
+
 - Altınapa Şehir Ormanı, İç Anadolu Bölgesi'nin en önemli doğal miraslarından biridir.
 - Orman, çeşitli ağaç türleri, çalılar ve otsu bitkiler ile kaplıdır.
 - Altınapa Şehir Ormanı, flora ve fauna çeşitliliği ile bir doğa cenneti olarak kabul ediliyor.

@@ -1,7 +1,7 @@
 ---
 title: "Fatih Ahmet Baba Türbesi"
 date: "2026-01-10T06:57:03.380Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390802"
 
 # Fatih Ahmet Baba Türbesi
 
-Fatih Ahmet Baba Türbesi, Elazığ'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Fatih Ahmet Baba Türbesi, Elazığ'ın merkezinde yer alır ve şehrin önemli tarihi yapılarından biridir. Türbenin etrafında, çeşitli bitkiler ve ağaçlar bulunur, ziyaretçilere dinlenebilecekleri bir ortam sunar.
+Fatih Ahmet Baba Türbesi, Elazığ'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Fatih Ahmet Baba Türbesi, Elazığ'ın merkezinde yer alır ve şehrin önemli tarihi yapılarından biridir. Türbenin etrafında, çeşitli bitkiler ve ağaçlar bulunur, ziyaretçilere dinlenebilecekleri bir ortam sunar.
 
 ## Tarihçe
 

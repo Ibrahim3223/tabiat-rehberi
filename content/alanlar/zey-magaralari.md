@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzellikleriyle dolu cityleri
 
 ## Tarihçe
 
-Adıyaman bölgesi, tarihin sâu sayfalarında önemli bir yer tutmaktadır. Bu bölge, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan zengin bir tarihi mirasa sahiptir. Zey Mağaraları, bu tarihsel zenginliğin bir parçasını oluşturan jeolojik oluşumlardan biri olarak görülebilir.
+Adıyaman bölgesi, tarihin derin sayfalarında önemli bir yer tutmaktadır. Bu bölge, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan zengin bir tarihi mirasa sahiptir. Zey Mağaraları, bu tarihsel zenginliğin bir parçasını oluşturan jeolojik oluşumlardan biri olarak görülebilir.
 
 Türkiye'de, benzer doğal oluşumlar binlerce yıldır insan yaşamının bir parçası olmuştur. İnsanların bu doğal alanlarla kurduğu ilişki, sadece hayvancılık ve yaylacılıkla sınırlı kalmamış, aynı zamanda ticaret yolları ve yerleşim yerleri olarak da hizmet vermiştir. Bu alanlar, aynı zamanda kültürel ve dini törenlerin gerçekleştirildiği kutsal mekânlar olarak da kullanılmıştır.
 

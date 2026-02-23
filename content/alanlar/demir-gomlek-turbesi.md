@@ -1,7 +1,7 @@
 ---
 title: "Demir Gömlek Türbesi"
 date: "2026-01-10T06:04:23.702Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390491"
 
 # Demir Gömlek Türbesi
 
-Demir Gömlek Türbesi, Karaman'ın merkezinde, şehrin tarihi dokusunu koruyarak günümüze ulaşan önemli yapılarından biridir. Bu tarihi türbe, 1400'lü yıllarda inşa edilmiş ve o günden bu yana bölgeye gelenlerin ilgisini çekmiştir. Demir Gömlek Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer alır ve şehrin kalbinde yer alan önemli bir kültürel mirastır. Tarihi ve doğal güzellikleri bir arada sunan bu türbe, Karaman'ın ziyaret edilmesi gereken yerlerinden biridir.
+Demir Gömlek Türbesi, Karaman'ın merkezinde, şehrin tarihi dokusunu koruyarak günümüze ulaşan önemli yapılarından biridir. Bu tarihi türbe, 1400'lü yıllarda inşa edilmiş ve o günden bu yana bölgeye gelenlerin ilgisini çekmiştir. Tarihi ve doğal güzellikleri bir arada sunan bu türbe, Karaman'ın ziyaret edilmesi gereken yerlerinden biridir.
 
 ## Tarihçe
 

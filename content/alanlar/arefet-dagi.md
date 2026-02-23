@@ -32,9 +32,9 @@ Artvin'in dağlık arazisinde yer alan Arefet Dağı, Türkiye'nin kuzeydoğu uc
 
 ## Tarihçe
 
-Arefet Dağı, Türkiye'nin kuzeydoğu ucunda, Artvin ilinin sınırları içinde yer alan bir doğa harikasıdır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Artvin ve çevresinde, tarihi boyunca çeşitli uygarlıklar yaşamıştır. M.Ö. 8. yüzyılda Urartular, ardından Roma ve Bizans imparatorlukları, daha sonra da Osmanlı Devleti bu topraklarda hüküm sürmüştür.
+Arefet Dağı, Türkiye'nin kuzeydoğu ucunda, Artvin ilinin sınırları içinde yer alan bir doğa harikasıdır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Artvin ve çevresinde, tarihi boyunca çeşitli uygarlıklar yaşamıştır. M.Ö. 8. yüzyılda Urartular, ardından Roma ve Bizans imparatorlukları, daha sonra da Osmanlı Devleti bu topraklarda hüküm sürmüştür.
 
-Bu doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bölge halkının yaşam tarzı ve ekonomisini şekillendirmiştir. Arefet Dağı gibi dağlar, sadece doğal güzellikleriyle değil, aynı zamanda tarihi ticaret yollarının geçiş noktaları olarak da önem taşımaktadır. Bölge, Karadeniz Bölgesi'nin karakteristik özellikleri olan yeşilin ve mavinin birleştiği bir coğrafyada yer alır. Bu dağların eteklerinde ve zirvelerinde, insanlığın binlerce yıllık geçmişi, izlerini bırakmıştır. Arefet Dağı, bu zengin tarihsel ve kültürel mirasın bir parçası olarak, ziyaretçilerini tarihin sâu sayfalarına götürmeye hazırdır.
+Bu doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bölge halkının yaşam tarzı ve ekonomisini şekillendirmiştir. Arefet Dağı gibi dağlar, sadece doğal güzellikleriyle değil, aynı zamanda tarihi ticaret yollarının geçiş noktaları olarak da önem taşımaktadır. Bölge, Karadeniz Bölgesi'nin karakteristik özellikleri olan yeşilin ve mavinin birleştiği bir coğrafyada yer alır. Bu dağların eteklerinde ve zirvelerinde, insanlığın binlerce yıllık geçmişi, izlerini bırakmıştır. Arefet Dağı, bu zengin tarihsel ve kültürel mirasın bir parçası olarak, ziyaretçilerini tarihin derin sayfalarına götürmeye hazırdır.
 
 ## Coğrafya
 
@@ -48,7 +48,7 @@ Mevsimsel özellikler bakımından, Arefet Dağı'nın iklimi Karadeniz Bölgesi
 
 ## Flora ve Fauna
 
-Arefet Dağı, Artvin'in nemli iklimine sahip bölgesinde, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çeken bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Arefet Dağı, Artvin'in nemli iklimine sahip bölgesinde, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çeken bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü açısından, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle kaplanır. Sonbaharda ise yaprak döken ağaçlar sarı, kahverengi ve kırmızı tonlara bürünür. Dağın yükseklik zonlarına göre değişen flora, alpin çayırların hakim olduğu yüksek bölgelerden, geniş yapraklı ormanların baskın olduğu daha alçak kesimlere kadar çeşitlilik gösterir.
 

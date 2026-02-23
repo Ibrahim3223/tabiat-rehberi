@@ -1,7 +1,7 @@
 ---
 title: "Elyasa Peygamber Türbesi"
 date: "2026-01-10T06:54:21.071Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -45,7 +45,7 @@ Elyasa Peygamber Türbesi etrafındaki flora, çeşitli bitki türleri ile karş
 
 ## Ziyaret Bilgileri
 
-Elyasa Peygamber Türbesi'ni ziyaret etmek, tarihi ve kültürel bir deneyim olmaktadır. Türbeye ulaşım, Diyarbakır'ın Eğilçesinden mogelijk olmaktadır. Ziyaretçiler, türbenin história ve kültürel değerlerini öğrenmek için rehberlik hizmeti alabilirler. Elyasa Peygamber Türbesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Ziyaretçilerin, türbenin tarihi ve kültürel değerlerini öğrenmek için yeterli zaman ayırmaları önerilir.
+Elyasa Peygamber Türbesi'ni ziyaret etmek, tarihi ve kültürel bir deneyim olmaktadır. Türbeye ulaşım, Diyarbakır'ın Eğilçesinden mogelijk olmaktadır. Ziyaretçiler, türbenin tarihi ve kültürel değerlerini öğrenmek için rehberlik hizmeti alabilirler. Elyasa Peygamber Türbesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Ziyaretçilerin, türbenin tarihi ve kültürel değerlerini öğrenmek için yeterli zaman ayırmaları önerilir.
 
 ## İlginç Bilgiler
 

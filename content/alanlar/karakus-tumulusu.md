@@ -30,7 +30,7 @@ wikidata_id: "Q1728921"
 
 # Karakuş Tümülüsü
 
-Karakuş Tümülüsü, Güneydoğu Anadolu Bölgesi'nde, Kâhta, Adıyaman'da yer alan tarihi bir yapıdır. Bu önemli tarihî eser, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Karakuş Tümülüsü, ziyaretçilerini bölgeye özgü zengin tarihsel ve kültürel mirası keşfetmeye davet eder. Tarihi geçmişi ve benzersiz mimarisi ile dikkat çeken bu yapı, ziyaretçilerini geçmişe götüren bir kapı olarak kabul edilebilir.
+Karakuş Tümülüsü, Güneydoğu Anadolu Bölgesi'nde, Kâhta, Adıyaman'da yer alan tarihi bir yapıdır. Karakuş Tümülüsü, ziyaretçilerini bölgeye özgü zengin tarihsel ve kültürel mirası keşfetmeye davet eder. Tarihi geçmişi ve benzersiz mimarisi ile dikkat çeken bu yapı, ziyaretçilerini geçmişe götüren bir kapı olarak kabul edilebilir.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Karakuş Tümülüsü, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliğiçin
 
 ## Flora ve Fauna
 
-Karakuş Tümülüsü ve çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölge, mevsimsel değişimlere göre farklı canlıları barındırır. Bahar aylarında çiçeklerin açtığı, yaz aylarında sıcaklığın arttığı, sonbahar ve kış aylarında ise doğanın farklı bir güzelliğe büründüğü bu coğrafya, ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Karakuş Tümülüsü, doğal güzellikleri ve canlıları ile ziyaretçilerini etkileyen bir doğa harikası olarak kabul edilebilir.
+ Bölge, mevsimsel değişimlere göre farklı canlıları barındırır. Bahar aylarında çiçeklerin açtığı, yaz aylarında sıcaklığın arttığı, sonbahar ve kış aylarında ise doğanın farklı bir güzelliğe büründüğü bu coğrafya, ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Karakuş Tümülüsü, doğal güzellikleri ve canlıları ile ziyaretçilerini etkileyen bir doğa harikası olarak kabul edilebilir.
 
 ## Ziyaret Bilgileri
 

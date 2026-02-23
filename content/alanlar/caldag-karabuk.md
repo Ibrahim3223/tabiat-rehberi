@@ -51,7 +51,7 @@ Mevsimsel değişikliklere baktığımızda, Çaldağ'ın iklim karakteri Karab�
 
 ## Flora ve Fauna
 
-Çaldağ (Karabük), nemli iklimin hüküm sürdüğü bir dağ ekosistemi olarak, gür ormanlar ve yüksek biyoçeşitlilik sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çaldağ (Karabük), nemli iklimin hüküm sürdüğü bir dağ ekosistemi olarak, gür ormanlar ve yüksek biyoçeşitlilik sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 **Bitki Örtüsü**: İlkbaharla birlikte, dağ eteklerinde çiçekler açmaya başlar. Sonbaharda, renkli yapraklar dağları bir sanat eserine çevirir. Yükseklik zonlarına bağlı olarak, farklı bitki türleri görülebilir.
 

@@ -23,11 +23,11 @@ wikidata_id: "Q108228716"
 
 # FİNİKE
 
-FİNİKE milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir alanıyla doğa severlerin buluşma noktasıdır. Bu yeşil cennet, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayarak, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. FİNİKE, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Bu milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
+FİNİKE milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir alanıyla doğa severlerin buluşma noktasıdır. FİNİKE, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Bu milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
-FİNİKE milli parkı, İç Anadolu Bölgesi'nin tarihi geçmişiçerisinde önemli bir yere sahiptir. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak biliniyor. FİNİKE, tarihi değerlerinin yanı sıra, doğal güzellikleri ve zengin fauna yapısıyla da dikkat çekiyor. Bu milli park, ziyaretçilerini hem histórik bir gezi hem de doğal bir keşifte buluşturuyor. FİNİKE'nin tarihi geçmişi, ziyaretçilerine bu bölge hakkında geniş bir perspektif sunuyor.
+FİNİKE milli parkı, İç Anadolu Bölgesi'nin tarihi geçmişiçerisinde önemli bir yere sahiptir. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak biliniyor. FİNİKE, tarihi değerlerinin yanı sıra, doğal güzellikleri ve zengin fauna yapısıyla da dikkat çekiyor. Bu milli park, ziyaretçilerini hem tarihi bir gezi hem de doğal bir keşifte buluşturuyor. FİNİKE'nin tarihi geçmişi, ziyaretçilerine bu bölge hakkında geniş bir perspektif sunuyor.
 
 ## Coğrafya
 

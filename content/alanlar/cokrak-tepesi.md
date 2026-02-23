@@ -28,7 +28,7 @@ wikidata_id: "Q34819605"
 
 # Çokrak Tepesi
 
-Çokrak Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Tepenin eteklerinde çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşma mümkün. Çokrak Tepesi, hem doğa severlerin hem de Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenlerin ziyaret edebileceği bir noktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir bakış açısı sunar ve Ankara'nın panoramik manzarasını izleme imkanı sağlar.
+Çokrak Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşma mümkün. Çokrak Tepesi, hem doğa severlerin hem de Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenlerin ziyaret edebileceği bir noktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir bakış açısı sunar ve Ankara'nın panoramik manzarasını izleme imkanı sağlar.
 
 ## Tarihçe
 

@@ -51,11 +51,11 @@ Mevsimsel açıdan bakıldığında, Akbaba Dağı'nın iklim karakteri oldukça
 
 ## Flora ve Fauna
 
-Akbaba Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Akbaba Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharla birlikte dağ yamaçları renkli çiçeklerle donanırken, sonbaharda yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünüyor. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunuyor. 
+Bitki Örtüsü olarak, ilkbaharla birlikte dağ yamaçları renkli çiçeklerle donanırken, sonbaharda yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünüyor. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunuyor.
 
-Yaban Hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir fauna sunuyor. Dağ keçileri, yaban keçileri ve ayılar gibi büyük memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri göç yolları üzerinde bu dağları kullanıyor. 
+Yaban Hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir fauna sunuyor. Dağ keçileri, yaban keçileri ve ayılar gibi büyük memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri göç yolları üzerinde bu dağları kullanıyor.
 
 Ekolojik Değer olarak, bu yüksek dağ ekosistemi, endemik türlerin yaşadığı bir bölge. Koruma durumu, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemli.
 

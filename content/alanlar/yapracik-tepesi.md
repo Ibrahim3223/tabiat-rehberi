@@ -36,7 +36,7 @@ Yapracık Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapm
 
 ## Coğrafya
 
-Yapracık Tepesi, Çorum'un merkezi bir bölgesinde yer alır. Bu tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle engebeli arazilerden oluşur ve tepeler ile vadilerin bir arada olduğu bir coğrafi yapıya sahiptir. Yapracık Tepesi, bu coğrafi yapıyı temsil eder ve ziyaretçilerine güzel manzaralar sunar. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Bölge, genellikle ormanlık alanlarla kaplıdır ve ziyaretçilerine doğanın güzelliğini sunar. Yapracık Tepesi, ziyaretçilerine Karadeniz Bölgesi'nin coğrafi güzelliğini seyretme fırsatı sunar.
+Yapracık Tepesi, Çorum'un merkezi bir bölgesinde yer alır. Bu tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle engebeli arazilerden oluşur ve tepeler ile vadilerin bir arada olduğu bir coğrafi yapıya sahiptir. Yapracık Tepesi, bu coğrafi yapıyı temsil eder ve ziyaretçilerine güzel manzaralar sunar. Bölge, genellikle ormanlık alanlarla kaplıdır ve ziyaretçilerine doğanın güzelliğini sunar. Yapracık Tepesi, ziyaretçilerine Karadeniz Bölgesi'nin coğrafi güzelliğini seyretme fırsatı sunar.
 
 ## Flora ve Fauna
 

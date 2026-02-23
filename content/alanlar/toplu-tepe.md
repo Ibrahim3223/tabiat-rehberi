@@ -28,7 +28,7 @@ wikidata_id: "Q31389649"
 
 # Toplu Tepe
 
-Toplu Tepe, Kastamonu'nun gizli cennetlerinden biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir hazine. Kastamonu'nun merkezine yakın konumuyla, şehirden kaçmak isteyenler için ideal bir kaçış noktası. Toplu Tepe, kendi içerisinde birçok farklı ekosistemi barındıran bir bölge. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Toplu Tepe, Kastamonu'nun gizli cennetlerinden biri olarak bilinir. Kastamonu'nun merkezine yakın konumuyla, şehirden kaçmak isteyenler için ideal bir kaçış noktası. Toplu Tepe, kendi içerisinde birçok farklı ekosistemi barındıran bir bölge. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227932"
 
 # Balikesir-Sindirgi-Ulus Karacam
 
-Balikesir-Sindirgi-Ulus Karacam milli parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu milli park, doğal güzellikleri ve zengin fauna çeşitliliğiyle dikkat çekmektedir. İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, bu alanın coğrafyası da oldukça interessan bir yapıya sahiptir. Milli parkın yer aldığı bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+Balikesir-Sindirgi-Ulus Karacam milli parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. Bu milli park, doğal güzellikleri ve zengin fauna çeşitliliğiyle dikkat çekmektedir. İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, bu alanın coğrafyası da oldukça interessan bir yapıya sahiptir. Milli parkın yer aldığı bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Gülnuş Emetullah Valide Sultan Türbesi"
 date: "2026-01-10T07:27:00.921Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391058"
 
 # Gülnuş Emetullah Valide Sultan Türbesi
 
-Gülnuş Emetullah Valide Sultan Türbesi, Üsküdar'da bulunan ve Osmanlı İmparatorluğu'nun önemli simgelerinden biri olan bir türbedir. Bu tarihi mekan, İstanbul'un Marmara Bölgesi'nde yer alan Üsküdar ilçesinde bulunur. Gülnuş Emetullah Valide Sultan, IV. Mehmet'in annesi ve II. Mustafa ile III. Ahmet'in validesidir. Türbe, 1700'lerin başlarında inşa edilmiştir. 140 hektarlık bir alana yayılan çevre, yaklaşık 200 futbol sahası büyüklüğünde ve çevrede çeşitli tarihi yapılar bulunmaktadır.
+Gülnuş Emetullah Valide Sultan Türbesi, Üsküdar'da bulunan ve Osmanlı İmparatorluğu'nun önemli simgelerinden biri olan bir türbedir. Bu tarihi mekan, İstanbul'un Marmara Bölgesi'nde yer alan Üsküdar ilçesinde bulunur. Gülnuş Emetullah Valide Sultan, IV. Mehmet'in annesi ve II. Mustafa ile III. Ahmet'in validesidir. Türbe, 1700'lerin başlarında inşa edilmiştir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gülnuş Emetullah Valide Sultan Türbesi, yüzyıllar boyunca Osmanlı İmparat
 
 ## Coğrafya
 
-Gülnuş Emetullah Valide Sultan Türbesi, Üsküdar'ın merkezi bir bölgesinde yer alır. Türbe, Marmara Denizi'ne yakın bir konumda bulunur ve çevresinde çeşitli tarihi yapılar, camiler ve parklar yer alır. Üsküdar, İstanbul'un en eski ve önemli ilçelerinden biridir ve coğrafi konumu itibariyle stratejik bir öneme sahiptir. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde ve çevrede çeşitli bitki türleri ve ağaçlar bulunmaktadır. İklim, Marmara Bölgesi'nin ılıman iklimine uygun olarak değişir ve yıl boyunca ziyaret edilebilir. Çevredeki yapılar, Osmanlı mimarisinin özellikleri taşır ve ziyaretçilere tarihin derinliklerine yolculuk imkanı sunar.
+Gülnuş Emetullah Valide Sultan Türbesi, Üsküdar'ın merkezi bir bölgesinde yer alır. Türbe, Marmara Denizi'ne yakın bir konumda bulunur ve çevresinde çeşitli tarihi yapılar, camiler ve parklar yer alır. Üsküdar, İstanbul'un en eski ve önemli ilçelerinden biridir ve coğrafi konumu itibariyle stratejik bir öneme sahiptir. İklim, Marmara Bölgesi'nin ılıman iklimine uygun olarak değişir ve yıl boyunca ziyaret edilebilir. Çevredeki yapılar, Osmanlı mimarisinin özellikleri taşır ve ziyaretçilere tarihin derinliklerine yolculuk imkanı sunar.
 
 ## Flora ve Fauna
 

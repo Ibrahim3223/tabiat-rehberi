@@ -28,7 +28,7 @@ wikidata_id: "Q31588969"
 
 # Sivinek Tepesi
 
-Sivinek Tepesi, Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman'da yer alır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine geniş bir görüş açısı sunar. Sivinek Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için sakin bir kaçış noktası olarak hizmet vermekte. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu da ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanır. Sivinek Tepesi, Batman'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir gözlem noktasıdır.
+Sivinek Tepesi, Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman'da yer alır. Sivinek Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için sakin bir kaçış noktası olarak hizmet vermekte. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu da ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanır. Sivinek Tepesi, Batman'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir gözlem noktasıdır.
 
 ## Tarihçe
 

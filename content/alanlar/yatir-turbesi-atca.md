@@ -1,7 +1,7 @@
 ---
 title: "Yatır Türbesi, Atça"
 date: "2026-01-10T05:49:02.788Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582184"
 
 # Yatır Türbesi, Atça
 
-Yatır Türbesi, Atça, Aydın'ın Sultanhisar ilçesinde yer alan tarihi ve doğal güzelliklerin bir arada bulunduğu özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğanın güzelliğini keşfetmek için geniş bir alan sunuyor. Yatır Türbesi, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Bu mekan, tarihi ve doğal güzelliklerin bir arada bulunduğu ender yerlerden biri.
+Yatır Türbesi, Atça, Aydın'ın Sultanhisar ilçesinde yer alan tarihi ve doğal güzelliklerin bir arada bulunduğu özel bir mekan. Yatır Türbesi, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Bu mekan, tarihi ve doğal güzelliklerin bir arada bulunduğu ender yerlerden biri.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yatır Türbesi, Atça'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş 
 
 ## Coğrafya
 
-Yatır Türbesi, Atça, Sultanhisar ilçesinin merkezinde yer alıyor ve bu konumu, ziyaretçilere, आसani ile ulaşım sağlamayı mümkün kılıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğanın güzelliğini keşfetmek için geniş bir alan sunuyor. Bu bölgenin coğrafi özellikleri, ziyaretçilere, çeşitli doğa güzelliklerini keşfetme fırsatı sunuyor. Yatır Türbesi, Atça'nın coğrafi olarak zengin bir bölge olması, ziyaretçilere, doğanın güzelliğini keşfetmek için geniş bir alan sunuyor. Bu bölgenin iklimi, genellikle ılıman ve ziyaretçilere, yılın her döneminde, doğanın güzelliğini keşfetme fırsatı sunuyor.
+Yatır Türbesi, Atça, Sultanhisar ilçesinin merkezinde yer alıyor ve bu konumu, ziyaretçilere, आसani ile ulaşım sağlamayı mümkün kılıyor. Bu bölgenin coğrafi özellikleri, ziyaretçilere, çeşitli doğa güzelliklerini keşfetme fırsatı sunuyor. Yatır Türbesi, Atça'nın coğrafi olarak zengin bir bölge olması, ziyaretçilere, doğanın güzelliğini keşfetmek için geniş bir alan sunuyor. Bu bölgenin iklimi, genellikle ılıman ve ziyaretçilere, yılın her döneminde, doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

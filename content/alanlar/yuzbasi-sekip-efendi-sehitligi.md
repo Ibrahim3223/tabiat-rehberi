@@ -29,7 +29,7 @@ wikidata_id: "Q134728262"
 
 # Yüzbaşı Şekip Efendi Şehitliği
 
-Yüzbaşı Şekip Efendi Şehitliği, Ege Bölgesi'nin Kütahya iline bağlı Altıntaş'ta yer alan bir plajdır. Bu plaj, tarihi önemi ve doğal güzelliği ile dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Yüzbaşı Şekip Efendi Şehitliği, denize girme imkanı sunan bir plaj olarak bilinir. Plajın etrafı, çeşitli bitki türleriyle çevrilidir. Bu plaj, hem doğa severler hem de tarihe ilgi duyanlar için ideal bir destinasyondur.
+Yüzbaşı Şekip Efendi Şehitliği, Ege Bölgesi'nin Kütahya iline bağlı Altıntaş'ta yer alan bir plajdır. Bu plaj, tarihi önemi ve doğal güzelliği ile dikkat çeker. Yüzbaşı Şekip Efendi Şehitliği, denize girme imkanı sunan bir plaj olarak bilinir. Plajın etrafı, çeşitli bitki türleriyle çevrilidir. Bu plaj, hem doğa severler hem de tarihe ilgi duyanlar için ideal bir destinasyondur.
 
 ## Tarihçe
 

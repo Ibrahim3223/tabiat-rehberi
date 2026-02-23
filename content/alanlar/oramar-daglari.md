@@ -33,7 +33,7 @@ Oramar Dağları, Türkiye'nin doğal güzelliklerinin sergilendiği önemli bir
 
 ## Tarihçe
 
-Oramar Dağları, Türkiye'nin doğusunda yer alan bir dağ sırasıdır. Bu bölge, tarihin sâu sayfalarında wicht bir rol oynamıştır. Hitit, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmıştır. Türkiye'nin coğrafi konumu, doğu-batı ve kuzey-güney ticaret yollarının kesişme noktasında yer alması, Oramar Dağları gibi doğal alanların tarihsel öneminin anlaşılmasına yardımcı olur.
+Oramar Dağları, Türkiye'nin doğusunda yer alan bir dağ sırasıdır. Bu bölge, tarihin derin sayfalarında wicht bir rol oynamıştır. Hitit, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmıştır. Türkiye'nin coğrafi konumu, doğu-batı ve kuzey-güney ticaret yollarının kesişme noktasında yer alması, Oramar Dağları gibi doğal alanların tarihsel öneminin anlaşılmasına yardımcı olur.
 
 Bu dağlar, yüzyıllar boyunca insanların yaşamlarını sürdürmesi için önemli bir kaynak olmuştur. Yaylacılık ve hayvancılık, bölge halkının geleneksel uğraşları arasında yer almıştır. Aynı zamanda, tarihi İpek Yolu gibi önemli ticaret yolları, Oramar Dağları'nın eteklerinden geçmiştir. Bu doğal güzellikler, sadece yerel halkın değil, aynı zamanda ticaret kervanlarının ve seyahat edenlerin de önemli bir durağı olmuştur.
 

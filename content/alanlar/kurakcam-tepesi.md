@@ -28,7 +28,7 @@ wikidata_id: "Q32206009"
 
 # Kurakçam Tepesi
 
-Kurakçam Tepesi, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir ve Hatay'da yer alır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli coğrafi özelliklerinden biridir. Tepenin eteklerinde ve etrafında çeşitli bitki türleri bulunur ve yaban hayatı açısından zengin bir bölgedir. Kurakçam Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbeder.
+Kurakçam Tepesi, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir ve Hatay'da yer alır. Tepenin eteklerinde ve etrafında çeşitli bitki türleri bulunur ve yaban hayatı açısından zengin bir bölgedir. Kurakçam Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbeder.
 
 ## Tarihçe
 

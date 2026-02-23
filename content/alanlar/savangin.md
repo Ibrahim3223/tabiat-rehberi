@@ -44,7 +44,7 @@ Jeolojik açıdan bakıldığında, Savangin'in fiziksel yapısı oldukça ilgi 
 
 ## Flora ve Fauna
 
-Savangin Jeoparkı, step bitki örtüsü ve bozkırın hakim olduğu bir bölge olarak, kuraklığa adapte olmuş türlerin yaşam alanıdır. İlkbaharın gelmesiyle birlikte, bu 1200 hektarlık yeşil cennet, rengarenk çiçeklerle donanır. Step bitkilerinin yeşillendiği bu mevsimde, orman ekosisteminin çeşitliliği de kendini gösterir. 
+Savangin Jeoparkı, step bitki örtüsü ve bozkırın hakim olduğu bir bölge olarak, kuraklığa adapte olmuş türlerin yaşam alanıdır. İlkbaharın gelmesiyle birlikte, bu 1200 hektarlık yeşil cennet, rengarenk çiçeklerle donanır. Step bitkilerinin yeşillendiği bu mevsimde, orman ekosisteminin çeşitliliği de kendini gösterir.
 
 Yaban hayatı, orman memelileri ve çeşitli kuş türleriyle zengin bir yapıya sahiptir. Sonbaharın yaklaşmasıyla birlikte, göç eden kuşlar bu bölgeden geçer. Bu ekosistemde, canlılar yaşam alanlarıyla birlikte düşünülür; ağaçlar, memelilerin barınma alanları olarak hizmet ederken, çayırlar ve otlaklar ise sürüngenlerin yaşam alanlarıdır.
 

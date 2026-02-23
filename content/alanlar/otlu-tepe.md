@@ -28,7 +28,7 @@ wikidata_id: "Q31390902"
 
 # Otlu Tepe
 
-Yozgat'ta bulunan Otlu Tepe, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte çeşitli bitki türleri ve zengin fauna bulunmakta. Bu tepe, hem yerli hem de yabancı turistlerin ilgisini çekmekte. Doğa severler için ideal bir destinasyon olan Otlu Tepe, hem gezi hem de turizm açısından önemli bir merkez.
+Yozgat'ta bulunan Otlu Tepe, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, hem yerli hem de yabancı turistlerin ilgisini çekmekte. Doğa severler için ideal bir destinasyon olan Otlu Tepe, hem gezi hem de turizm açısından önemli bir merkez.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Otlu Tepe, Yozgat ilinin coğrafi yapısına uygun olarak, İç Anadolu Bölgesi
 
 ## Flora ve Fauna
 
-Otlu Tepe, flora ve fauna açısından oldukça zengin bir bölge. Bu tepe, çeşitli bitki türleri ile kaplı ve bu reason'dan dolayı, bölgenin ekolojik dengesini koruyor. Otlu Tepe'nin fauna'sı da oldukça çeşitli ve bu tepe, birçok hayvan türüne ev sahipliği yapıyor. Mevsimsel değişimler, bu bölgenin doğal güzelliklerini daha da tăngıştriyor. İlkbahar ve yaz aylarında, bu tepe, yeşilin tüm tonlarını sunarken, sonbahar ve kış aylarında, farklı bir güzelliğe bürünüyor.
+ Bu tepe, çeşitli bitki türleri ile kaplı ve bu reason'dan dolayı, bölgenin ekolojik dengesini koruyor. Otlu Tepe'nin fauna'sı da oldukça çeşitli ve bu tepe, birçok hayvan türüne ev sahipliği yapıyor. Mevsimsel değişimler, bu bölgenin doğal güzelliklerini daha da tăngıştriyor. İlkbahar ve yaz aylarında, bu tepe, yeşilin tüm tonlarını sunarken, sonbahar ve kış aylarında, farklı bir güzelliğe bürünüyor.
 
 ## Ziyaret Bilgileri
 

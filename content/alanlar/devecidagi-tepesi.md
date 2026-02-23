@@ -28,7 +28,7 @@ wikidata_id: "Q31568980"
 
 # Devecidağı Tepesi
 
-Devecidağı Tepesi, Çorum'un güzelliklerini keşfetmek isteyenlerin ziyaret ettiği önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Doğal güzelliği ve çevresindeki manzarasıyla, ziyaretçilerini cezbediyor. Devecidağı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Bu tepe, Çorum'un tarihi ve kültürel zenginliklerini yansıtması bakımından önemli bir konumda bulunuyor.
+Devecidağı Tepesi, Çorum'un güzelliklerini keşfetmek isteyenlerin ziyaret ettiği önemli bir nokta. Doğal güzelliği ve çevresindeki manzarasıyla, ziyaretçilerini cezbediyor. Devecidağı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Bu tepe, Çorum'un tarihi ve kültürel zenginliklerini yansıtması bakımından önemli bir konumda bulunuyor.
 
 ## Tarihçe
 

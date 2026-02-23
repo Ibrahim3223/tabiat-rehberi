@@ -49,9 +49,9 @@ Dari Tepe'nin fiziksel yapısı hakkında detaylı bilgiler olmasa da, bu tepe B
 
 ## Flora ve Fauna
 
-Dari Tepe, Batman'da yer alan yarı kurak iklimin karakteristik özelliklerini taşıyan bir dağ ekosistemi.  Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bölgenin flora ve fauna çeşitliliği, mevsimsel değişimlere bağlı olarak değişkenlik gösterir. İlkbaharla birlikte, step ve ova ekolojisi çiçeklerle donanır. Alpin flora, yükseklik zonlarında yoğunlaşır. 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri ve yaban keçileri, yükseklik zonalarında yaşarken, göçmen kuşlar sonbaharda bu bölgeyi ziyaret eder. 
+Dari Tepe, Batman'da yer alan yarı kurak iklimin karakteristik özelliklerini taşıyan bir dağ ekosistemi.  Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bölgenin flora ve fauna çeşitliliği, mevsimsel değişimlere bağlı olarak değişkenlik gösterir. İlkbaharla birlikte, step ve ova ekolojisi çiçeklerle donanır. Alpin flora, yükseklik zonlarında yoğunlaşır.
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri ve yaban keçileri, yükseklik zonalarında yaşarken, göçmen kuşlar sonbaharda bu bölgeyi ziyaret eder.
 Dari Tepe'nin ekolojik değeri, bu dağ ekosisteminin korunmasına bağlıdır. Bu alanın korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini korumak için önemlidir.
 
 ## Ziyaret Bilgileri

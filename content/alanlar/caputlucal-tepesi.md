@@ -28,7 +28,7 @@ wikidata_id: "Q34823960"
 
 # Çaputluçal Tepesi
 
-Çaputluçal Tepesi, İç Anadolu Bölgesi'nin kalbinde, Ankara şehrinin sınırları içerisinde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini geniş ve yeşillik bir alanla karşılar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğa severler için ideal bir gezi noktasıdır. Tepenin etrafı, çeşitli bitki türleriyle dolu zengin bir flora tarafından çevrilidir. Bu bitkiler, mevsimsel değişimlere göre ren ve tür olarak değişir, böylece her mevsim ziyaretçiler için farklı bir güzellik sunar.
+Çaputluçal Tepesi, İç Anadolu Bölgesi'nin kalbinde, Ankara şehrinin sınırları içerisinde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini geniş ve yeşillik bir alanla karşılar. Tepenin etrafı, çeşitli bitki türleriyle dolu zengin bir flora tarafından çevrilidir. Bu bitkiler, mevsimsel değişimlere göre ren ve tür olarak değişir, böylece her mevsim ziyaretçiler için farklı bir güzellik sunar.
 
 ## Tarihçe
 

@@ -36,7 +36,7 @@ wikidata_id: "Q34903377"
 
 İzmir bölgesi, binlerce yıllık tarihi boyunca çeşitli uygarlıklara ev sahipliği yapmış bir coğrafyadır. Antik Çağ'da İyonyalılar, Persler ve Romalılar bu topraklarda yaşamış, her biri bölgenin kültürel ve doğal dokusuna katkıda bulunmuştur. Büyük Park'ın bulunduğu alan da, tarihin çeşitli dönemlerinde insanların yaşam alanları, ticaret yolları ve doğal kaynaklara erişim noktaları olarak kullanılmıştır.
 
-Doğal alanlar, Türkiye'nin tarihi boyunca önemli bir rol oynamıştır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, insanların bu alanlarla sıkı bir bağ kurmasına neden olmuştur. Ayrıca, coğrafi konumu nedeniyle İzmir, históriki ticaret yollarının kesişme noktası olarak görev yapmış, bu da bölgenin kültürel zenginliğine katkıda bulunmuştur. Büyük Park, bu geniş tarihsel bağlam içinde, insanların doğayla  etkileşimini anlama ve korumak için önemli bir alan olarak karşımıza çıkar. Bu doğal cennet, İzmir'in tarihi ve kültürel mirasının bir parçası olarak, ziyaretçilerini geçmişin izlerini keşfetmeye davet ediyor.
+Doğal alanlar, Türkiye'nin tarihi boyunca önemli bir rol oynamıştır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, insanların bu alanlarla sıkı bir bağ kurmasına neden olmuştur. Ayrıca, coğrafi konumu nedeniyle İzmir, tarihi ticaret yollarının kesişme noktası olarak görev yapmış, bu da bölgenin kültürel zenginliğine katkıda bulunmuştur. Büyük Park, bu geniş tarihsel bağlam içinde, insanların doğayla  etkileşimini anlama ve korumak için önemli bir alan olarak karşımıza çıkar. Bu doğal cennet, İzmir'in tarihi ve kültürel mirasının bir parçası olarak, ziyaretçilerini geçmişin izlerini keşfetmeye davet ediyor.
 
 ## Coğrafya
 

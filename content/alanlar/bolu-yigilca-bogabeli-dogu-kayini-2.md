@@ -22,7 +22,7 @@ wikidata_id: "Q108227778"
 
 # Bolu-Yigilca-Bogabeli Dogu Kayini 2
 
-Bolu-Yigilca-Bogabeli Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Bu milli park, hem doğa severler hem de tatil arayanlar için ideal bir destinasyon olarak görünüyor. Bolu'nun merkezi ile milli park arasındaki mesafe, khong 20 kilometre ve araç ile yaklaşık 30 dakika sürüyor. Milli parka ulaşmak için, Bolu merkezden hareket eden toplu taşıma araçları veya özel araçlar kullanabilirsiniz.
+Bolu-Yigilca-Bogabeli Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biri olarak dikkat çekiyor. Bu milli park, hem doğa severler hem de tatil arayanlar için ideal bir destinasyon olarak görünüyor. Bolu'nun merkezi ile milli park arasındaki mesafe, khong 20 kilometre ve araç ile yaklaşık 30 dakika sürüyor. Milli parka ulaşmak için, Bolu merkezden hareket eden toplu taşıma araçları veya özel araçlar kullanabilirsiniz.
 
 ## Tarihçe
 

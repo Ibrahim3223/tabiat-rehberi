@@ -49,9 +49,9 @@ Mevsimsel açıdan bakıldığında, Arsiani Dağı'nın iklimi, Karadeniz Bölg
 
 ## Flora ve Fauna
 
-Arsiani Dağı, nemli ikliminin etkisiyle gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Yükseklik zonlarına bağlı olarak değişen flora, alpin çayırların egemen olduğu alanlarla karşılaşılır. 
+Arsiani Dağı, nemli ikliminin etkisiyle gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Yükseklik zonlarına bağlı olarak değişen flora, alpin çayırların egemen olduğu alanlarla karşılaşılır.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri ve ayılar gibi büyük memeliler, ormanların derinliklerinde yaşarken, çeşitli kuş türleri göç mevsimlerinde bu bölgeden geçer. Sürüngenler ise, kayalık alanlarda ve orman zemininde yaşamlarını sürdürürler. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri ve ayılar gibi büyük memeliler, ormanların derinliklerinde yaşarken, çeşitli kuş türleri göç mevsimlerinde bu bölgeden geçer. Sürüngenler ise, kayalık alanlarda ve orman zemininde yaşamlarını sürdürürler.
 
 Arsiani Dağı, yüksek biyoçeşitliliğine ve dağ ekosisteminin korunmasına önemli bir katkı sağlar. Bu dağ, bölgede yaşayan birçok canlı için yaşam alanı ve göç rotaları üzerinde kritik bir nokta teşkil eder. Koruma durumu, dağın doğal güzelliğini ve biyolojik zenginliğini gelecek nesiller için korumak açısından büyük önem taşır.
 

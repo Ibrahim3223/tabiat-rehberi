@@ -22,7 +22,7 @@ wikidata_id: "Q108227772"
 
 # Amasya-Bafra-Ondokuzmayis Dogu Kayini 1
 
-Amasya-Bafra-Ondokuzmayis Dogu Kayini 1 milli parkı, Karadeniz Bölgesi'nin güzide illerinden Amasya'da yer alıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık geliyor. Bu muhteşem doğa alanı, ziyaretçilerini kendi içerisinde bir worlds olarak sunuyor. Zengin faunası ve çeşitli bitki türleri ile dikkat çekiyor. Milli park, hem doğa severler hem de turistik geziSevenler için ideal bir destinasyon.
+Amasya-Bafra-Ondokuzmayis Dogu Kayini 1 milli parkı, Karadeniz Bölgesi'nin güzide illerinden Amasya'da yer alıyor. Bu muhteşem doğa alanı, ziyaretçilerini kendi içerisinde bir worlds olarak sunuyor. Zengin faunası ve çeşitli bitki türleri ile dikkat çekiyor. Milli park, hem doğa severler hem de turistik geziSevenler için ideal bir destinasyon.
 
 ## Tarihçe
 

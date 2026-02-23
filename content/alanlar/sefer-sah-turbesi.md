@@ -1,7 +1,7 @@
 ---
 title: "Sefer Şah Türbesi"
 date: "2026-01-10T05:00:33.044Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391500"
 
 # Sefer Şah Türbesi
 
-Sefer Şah Türbesi, Edirne ilinin merkezinde yer alan ve 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir tarihi mekân. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Sefer Şah Türbesi, tarihi ve doğası ile ziyaretçilerini cezbeden bir destinasyon.
+Sefer Şah Türbesi, Edirne ilinin merkezinde yer alan ve 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir tarihi mekân. Sefer Şah Türbesi, tarihi ve doğası ile ziyaretçilerini cezbeden bir destinasyon.
 
 ## Tarihçe
 

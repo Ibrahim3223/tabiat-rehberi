@@ -1,7 +1,7 @@
 ---
 title: "Kızılcahamam - Hocalı Müzesi"
 date: "2026-01-10T15:16:59.441Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950048"
 
 # Kızılcahamam - Hocalı Müzesi
 
-Kızılcahamam - Hocalı Müzesi, Ankara'nın doğusunda yer alan bir yayla ve müze kompleksi olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzellikleri, tarihi değerleri ve kültürel zenginlikleriyle ziyaretçilerini bekliyor. Hocalı Müzesi, bu bölgenin en önemli ziyaret noktalarından biri olarak biliniyor. Müze, bölgenin tarihi ve kültürel mirasını yansıtmasıyla dikkat çekiyor.
+Kızılcahamam - Hocalı Müzesi, Ankara'nın doğusunda yer alan bir yayla ve müze kompleksi olarak dikkat çekiyor. Doğal güzellikleri, tarihi değerleri ve kültürel zenginlikleriyle ziyaretçilerini bekliyor. Hocalı Müzesi, bu bölgenin en önemli ziyaret noktalarından biri olarak biliniyor. Müze, bölgenin tarihi ve kültürel mirasını yansıtmasıyla dikkat çekiyor.
 
 ## Tarihçe
 

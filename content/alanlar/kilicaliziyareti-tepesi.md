@@ -32,7 +32,7 @@ Hatay'ın zengin tarihi ve doğal güzellikleri arasında gizli bir hazine olan 
 
 ## Tarihçe
 
-Hatay bölgesi, tarihin sâu sayfalarına ışık tutan bir coğrafyadır. Binlerce yıl boyunca, çeşitli uygarlıkların izlerini taşıyan bu topraklar, insanlık tarihinin önemli bir parçası olmuştur. Hitit, Roma, Bizans ve Osmanlı gibi uygarlıkların etkilerini taşıyan Hatay, kültürel ve tarihi zenginliğiyle dikkat çeker.
+Hatay bölgesi, tarihin derin sayfalarına ışık tutan bir coğrafyadır. Binlerce yıl boyunca, çeşitli uygarlıkların izlerini taşıyan bu topraklar, insanlık tarihinin önemli bir parçası olmuştur. Hitit, Roma, Bizans ve Osmanlı gibi uygarlıkların etkilerini taşıyan Hatay, kültürel ve tarihi zenginliğiyle dikkat çeker.
 
 Doğal güzellikleri ve stratejik konumuyla, bu bölge her dönemde insanların ilgisini çekmiştir. Yaylacılık, hayvancılık ve ticaret yolları, insanlar tarafından bu coğrafyada kullanılmıştır. Türkiye'deki doğal alanlar, tarihsel olarak önemli bir role sahiptir. Bu alanlar, insanların yaşamını sürdürmesi, ekonomisini güçlendirmesi ve kültürel kimliğini şekillendirmesi açısından büyük önem taşımıştır.
 
@@ -44,7 +44,7 @@ Güneydoğu Akdeniz Bölgesi'nin güzide illerinden biri olan Hatay'da yer alan 
 
 Doğal güzellikleri ile dikkat çeken bu tepe, Hatay'ın dağlık arazisinin bir parçası. Tepenin fiziksel yapısı, bölgenin jeolojik geçmişini yansıtıyor. Kılıçaliziyareti Tepesi, Eiffel Kulesi'nin yaklaşık 1/5'i yükseklikte bir nokta olarak karşımıza çıkıyor. Bu yükseklik, tepeyi bölgenin diğer noktalarından ayıran önemli bir özellik.
 
-Mevsimsel değişikliklere göre değişen hava durumu, Kılıçaliziyareti Tepesi'nin iklim karakterini şekillendiriyor. İlkbahar ve sonbahar aylarında ılıman bir iklim hakimken, yaz aylarında sıcaklık artıyor. Kış aylarında ise régionun genelinde görülen soğuk hava dalgaları, bu tepeyi de etkiliyor.
+Mevsimsel değişikliklere göre değişen hava durumu, Kılıçaliziyareti Tepesi'nin iklim karakterini şekillendiriyor. İlkbahar ve sonbahar aylarında ılıman bir iklim hakimken, yaz aylarında sıcaklık artıyor. Kış aylarında ise bölgenin genelinde görülen soğuk hava dalgaları, bu tepeyi de etkiliyor.
 
 Çevresel açıdan bakıldığında, Kılıçaliziyareti Tepesi, bölgenin su kaynaklarına yakın bir konumda bulunuyor. Tepenin yakınından geçen akarsular, bölgenin ekosistemini besliyor. Monaco'nun çok küçük bir bölümü büyüklüğünde olan bu tepe, bölgenin doğal dengesini koruması açısından önemli bir rol üstleniyor.
 

@@ -1,7 +1,7 @@
 ---
 title: "Altuntaş Hamamı"
 date: "2026-01-09T23:18:30.906Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738950"
 
 # Altuntaş Hamamı
 
-Amasya ilinin güzide bir bölgesinde yer alan Altuntaş Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Doğal güzellikleri ile dikkat çeken bu bölge, hem yerel halk hem de turistlerin ilgisini çekiyor. Altuntaş Hamamı'nın büyüleyici atmosferi, ziyaretçilerini doğanın güzelliğine götürüyor.
+Amasya ilinin güzide bir bölgesinde yer alan Altuntaş Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor. Doğal güzellikleri ile dikkat çeken bu bölge, hem yerel halk hem de turistlerin ilgisini çekiyor. Altuntaş Hamamı'nın büyüleyici atmosferi, ziyaretçilerini doğanın güzelliğine götürüyor.
 
 ## Tarihçe
 

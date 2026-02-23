@@ -22,7 +22,7 @@ wikidata_id: "Q108228789"
 
 # AYMAÇ_TP
 
-AYMAÇ_TP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. AYMAÇ_TP, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın seslerine kula vermeye davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçileri için unutulmaz bir deneyim sunuyor.
+AYMAÇ_TP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. AYMAÇ_TP, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın seslerine kula vermeye davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçileri için unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

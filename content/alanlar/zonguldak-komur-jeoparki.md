@@ -22,7 +22,7 @@ wikidata_id: "Q116413227"
 
 # Zonguldak Kömür Jeoparkı
 
-Zonguldak Kömür Jeoparkı, Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla dikkat çekici bir doğal güzelliğe sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Kömür Jeoparkı, aynı zamanda bölgeye özgü jeolojik oluşumları ve kömür rezervlerini de içerisinde barındırmaktadır. Ziyaretçiler, bu eşsiz doğal güzelliği keşfetmek için buraya gelerek, doğa ile iç içe bir gün geçirebilmektedir.
+Zonguldak Kömür Jeoparkı, Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla dikkat çekici bir doğal güzelliğe sahiptir. Kömür Jeoparkı, aynı zamanda bölgeye özgü jeolojik oluşumları ve kömür rezervlerini de içerisinde barındırmaktadır. Ziyaretçiler, bu eşsiz doğal güzelliği keşfetmek için buraya gelerek, doğa ile iç içe bir gün geçirebilmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Zonguldak Kömür Jeoparkı, tarihi geçmişi ile de dikkat çekmektedir. Bu bö
 
 ## Coğrafya
 
-Zonguldak Kömür Jeoparkı, Karadeniz Bölgesi'nde yer alan bir jeoparktır. Bu jeopark, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Kömür Jeoparkı, aynı zamanda bölgeye özgü jeolojik oluşumları ve kömür rezervlerini de içerisinde barındırmaktadır. Ziyaretçiler, bu eşsiz doğal güzelliği keşfetmek için buraya gelerek, doğa ile iç içe bir gün geçirebilmektedir. Jeoparkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş ve keşif fırsatları sunmaktadır. Ayrıca, bölgenin iklimi ve bitki örtüsü de ziyaretçilere farklı bir deneyim sunmaktadır. Zonguldak Kömür Jeoparkı, bu özellikleri ile ziyaretçilerini doğa ve kültürün güzelliği ile baş başa bırakmaktadır.
+Zonguldak Kömür Jeoparkı, Karadeniz Bölgesi'nde yer alan bir jeoparktır. Kömür Jeoparkı, aynı zamanda bölgeye özgü jeolojik oluşumları ve kömür rezervlerini de içerisinde barındırmaktadır. Ziyaretçiler, bu eşsiz doğal güzelliği keşfetmek için buraya gelerek, doğa ile iç içe bir gün geçirebilmektedir. Jeoparkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş ve keşif fırsatları sunmaktadır. Ayrıca, bölgenin iklimi ve bitki örtüsü de ziyaretçilere farklı bir deneyim sunmaktadır. Zonguldak Kömür Jeoparkı, bu özellikleri ile ziyaretçilerini doğa ve kültürün güzelliği ile baş başa bırakmaktadır.
 
 ## Flora ve Fauna
 

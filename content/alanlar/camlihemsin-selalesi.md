@@ -29,7 +29,7 @@ wikidata_id: "Q130366737"
 
 # Çamlıhemşin Şelalesi
 
-Çamlıhemşin Şelalesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içerisine davet ediyor. Şelalenin güzelliği, çevresindeki ormanlık alanlarla birlikte daha da ön plana çıkıyor. Çamlıhemşin Şelalesi, doğa severlerin ve photographerlerin uğrak noktalarından biri olarak kabul ediliyor.
+Çamlıhemşin Şelalesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. Şelalenin güzelliği, çevresindeki ormanlık alanlarla birlikte daha da ön plana çıkıyor. Çamlıhemşin Şelalesi, doğa severlerin ve photographerlerin uğrak noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

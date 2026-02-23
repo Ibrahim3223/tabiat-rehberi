@@ -1,7 +1,7 @@
 ---
 title: "Aphrodisias Tiyatro Hamamı"
 date: "2026-01-09T23:32:48.829Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739073"
 
 # Aphrodisias Tiyatro Hamamı
 
-Aphrodisias Tiyatro Hamamı, Aydın'ın Karacasu ilçesinde yer alan ve Ege Bölgesi'nin önemli kültürel miraslarından biri olan bir tarihi alandır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi tarihi kalıntılarla dolu. Aphrodisias Tiyatro Hamamı, antik döneme ait bir tiyatro ve hamam kompleksinin kalıntılarını barındırmaktadır. Tarihi geçmişi yüzyıllar öncesine dayanan bu alan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat etmektedir. Aphrodisias Tiyatro Hamamı, aynı zamanda Aphrodisias antik kentinin bir parçasıdır ve bu bölgenin zengin tarihi ve kültürünü yansıtmaktadır.
+Aphrodisias Tiyatro Hamamı, Aydın'ın Karacasu ilçesinde yer alan ve Ege Bölgesi'nin önemli kültürel miraslarından biri olan bir tarihi alandır. Aphrodisias Tiyatro Hamamı, antik döneme ait bir tiyatro ve hamam kompleksinin kalıntılarını barındırmaktadır. Tarihi geçmişi yüzyıllar öncesine dayanan bu alan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat etmektedir. Aphrodisias Tiyatro Hamamı, aynı zamanda Aphrodisias antik kentinin bir parçasıdır ve bu bölgenin zengin tarihi ve kültürünü yansıtmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Aphrodisias Tiyatro Hamamı, tarihinin derinliklerinde kaybolmuş bir geçmişe 
 
 ## Coğrafya
 
-Aphrodisias Tiyatro Hamamı, Aydın'ın Karacasu ilçesinde yer almaktadır ve Ege Bölgesi'nin coğrafi olarak önemli bir noktasında bulunmaktadır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi tarihi kalıntılarla dolu. Aphrodisias Tiyatro Hamamı, Aphrodisias antik kentinin bir parçası olarak coğrafi olarak önemli bir konuma sahiptir. Bu alan, Ege Bölgesi'nin karakteristik coğrafi özellikleri olan dağlık ve engebeli arazilerle çevrilidir. Aphrodisias Tiyatro Hamamı'nın bulunduğu bölge, Akdeniz ikliminin etkisi altındadır ve bu nedenle ziyaretçileri yıl boyunca ılıman bir hava ile karşılar. Bu coğrafi konum, Aphrodisias Tiyatro Hamamı'nı ziyaret etmek için ideal bir mekân haline getirmektedir. Ayrıca, bu bölgenin coğrafi özellikleri, ziyaretçilere tarihi bir atmosferin yanı sıra doğal güzellikleri de sunmaktadır.
+Aphrodisias Tiyatro Hamamı, Aydın'ın Karacasu ilçesinde yer almaktadır ve Ege Bölgesi'nin coğrafi olarak önemli bir noktasında bulunmaktadır. Aphrodisias Tiyatro Hamamı, Aphrodisias antik kentinin bir parçası olarak coğrafi olarak önemli bir konuma sahiptir. Bu alan, Ege Bölgesi'nin karakteristik coğrafi özellikleri olan dağlık ve engebeli arazilerle çevrilidir. Aphrodisias Tiyatro Hamamı'nın bulunduğu bölge, Akdeniz ikliminin etkisi altındadır ve bu nedenle ziyaretçileri yıl boyunca ılıman bir hava ile karşılar. Bu coğrafi konum, Aphrodisias Tiyatro Hamamı'nı ziyaret etmek için ideal bir mekân haline getirmektedir. Ayrıca, bu bölgenin coğrafi özellikleri, ziyaretçilere tarihi bir atmosferin yanı sıra doğal güzellikleri de sunmaktadır.
 
 ## Flora ve Fauna
 

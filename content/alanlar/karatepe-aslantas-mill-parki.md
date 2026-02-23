@@ -33,7 +33,7 @@ Osmaniye ilinin merkezine yaklaşık 22 kilometre uzaklıkta bulunan Karatepe-As
 
 ## Tarihçe
 
-Karatepe-Aslantaş Millî Parkı, tarihin sâu izlerini taşıyan bir bölge olarak biliniyor. M.Ö. 8. yüzyılda Hititlerin ve Luvi krallarının hakimiyetinde olan bölge, daha sonra Roma ve Bizans dönemlerinde de önemli bir merkez olarak kabul edilmiştir. 1953 yılında millî park olarak ilan edilen bu bölge, 1976 yılında da 'Arkeolojik Sit Alanı' olarak tescillenmiştir. Parkın en önemli tarihi özelliği, Aslantaş ve Karatepe gibi önemli höyüklerin yer almasıdır.
+Karatepe-Aslantaş Millî Parkı, tarihin derin izlerini taşıyan bir bölge olarak biliniyor. M.Ö. 8. yüzyılda Hititlerin ve Luvi krallarının hakimiyetinde olan bölge, daha sonra Roma ve Bizans dönemlerinde de önemli bir merkez olarak kabul edilmiştir. 1953 yılında millî park olarak ilan edilen bu bölge, 1976 yılında da 'Arkeolojik Sit Alanı' olarak tescillenmiştir. Parkın en önemli tarihi özelliği, Aslantaş ve Karatepe gibi önemli höyüklerin yer almasıdır.
 
 ## Coğrafya
 

@@ -1,7 +1,7 @@
 ---
 title: "Çoban Baba Türbesi"
 date: "2026-01-10T07:33:47.359Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391251"
 
 # Çoban Baba Türbesi
 
-Çoban Baba Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alan tarihi bir türbe ve plaj olarak dikkat çekiyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Çoban Baba Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılamakta. Bu bölgede, çeşitli bitki türleri ve zengin fauna görme mümkün. Çoban Baba Türbesi, hem dinî hem de kültürel açıdan önemli bir merkez olarak kabul ediliyor.
+Çoban Baba Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alan tarihi bir türbe ve plaj olarak dikkat çekiyor. Çoban Baba Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılamakta. Bu bölgede, çeşitli bitki türleri ve zengin fauna görme mümkün. Çoban Baba Türbesi, hem dinî hem de kültürel açıdan önemli bir merkez olarak kabul ediliyor.
 
 ## Tarihçe
 

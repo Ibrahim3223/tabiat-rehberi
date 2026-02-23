@@ -29,7 +29,7 @@ wikidata_id: "Q39091388"
 
 # Karaekşi Tabiat Parkı
 
-Karaekşi Tabiat Parkı, İç Anadolu Bölgesi'nin göbeğinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölge için önemli bir doğal güzellik olarak kabul ediliyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunması, onu doğa severler için bir cennet haline getiriyor. Parkın tarihi geçmişi, yüzyıllar boyunca bölgede yaşayan toplulukların izlerini taşıyor. Karaekşi Tabiat Parkı, hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerini bekliyor.
+Karaekşi Tabiat Parkı, İç Anadolu Bölgesi'nin göbeğinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunması, onu doğa severler için bir cennet haline getiriyor. Parkın tarihi geçmişi, yüzyıllar boyunca bölgede yaşayan toplulukların izlerini taşıyor. Karaekşi Tabiat Parkı, hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Karaekşi Tabiat Parkı, ziyaretçilerine çeşitli olanaklar sunuyor. Parka, İ
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunabiliyor.
 - Parkın coğrafi konumu, bölgenin diğer doğal güzelliklerine ve tarihi zenginliklerine yakın.
 - Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapıya sahip.

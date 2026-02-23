@@ -1,7 +1,7 @@
 ---
 title: "Süleyman Paşa Türbesi"
 date: "2026-01-10T07:56:05.891Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Artvin"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391316"
 
 # Süleyman Paşa Türbesi
 
-Süleyman Paşa Türbesi, Ardanuç'un merkezi bir konumda yer alır ve yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir. Tarihi geçmişi ve doğal güzellikleri bir araya getiren Süleyman Paşa Türbesi, ziyaretçilerini bekliyor. Bu mekan, hem tarihe ilgi duyanların hem de doğa severlerin ilgi odağıdır.
+Süleyman Paşa Türbesi, Ardanuç'un merkezi bir konumda yer alır ve yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir. Tarihi geçmişi ve doğal güzellikleri bir araya getiren Süleyman Paşa Türbesi, ziyaretçilerini bekliyor. Bu mekan, hem tarihe ilgi duyanların hem de doğa severlerin ilgi odağıdır.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Süleyman Paşa Türbesi, tarihi geçmişi ile dikkat çeker. Bu tarihsel mekan,
 
 ## Coğrafya
 
-Süleyman Paşa Türbesi, Karadeniz Bölgesi'nin güzelliklerini içinde barındıran Ardanuç ilçesinde yer alır. Bu bölge, yeşilin her tonuna sahip ormanlar, dağlar ve nehirlerle çevrilidir. Türbenin bulunduğu alan, 140 hektarlık geniş bir arazi üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, ziyaretçilere geniş bir açık alan sunar ve doğa ile iç içe olmak isteyenler için ideal bir mekandır. Bölgenin iklimi, Karadeniz Bölgesi'nin genel iklim özellikleri gösterir ve genellikle yağışlı ve serin bir hava görülür. Tüm bu özellikler, Süleyman Paşa Türbesi'ni ziyaret etmek için ideal bir ortam sağlar.
+Süleyman Paşa Türbesi, Karadeniz Bölgesi'nin güzelliklerini içinde barındıran Ardanuç ilçesinde yer alır. Bu bölge, yeşilin her tonuna sahip ormanlar, dağlar ve nehirlerle çevrilidir. Bu geniş alan, ziyaretçilere geniş bir açık alan sunar ve doğa ile iç içe olmak isteyenler için ideal bir mekandır. Bölgenin iklimi, Karadeniz Bölgesi'nin genel iklim özellikleri gösterir ve genellikle yağışlı ve serin bir hava görülür. Tüm bu özellikler, Süleyman Paşa Türbesi'ni ziyaret etmek için ideal bir ortam sağlar.
 
 ## Flora ve Fauna
 
-Süleyman Paşa Türbesi ve çevresindeki bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri yetişir. Ağaçlar, çalılar ve çeşitli otsu bitkiler, bu bölgenin güzelliklerini artırır. Ayrıca, bölgede yaşayan hayvanlar da dikkat çekicidir. Kuşlar, böcekler ve diğer küçük hayvanlar, bu bölgenin fauna zenginliğini gösterir. Mevsimsel değişimler, bölgenin doğal güzelliklerini farklı şekillerde sunar. İlkbahar ve yaz aylarında, bölge daha yeşil ve canlıdır, mentre kış aylarında, manzara daha sakin ve beyazdır.
+ Bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri yetişir. Ağaçlar, çalılar ve çeşitli otsu bitkiler, bu bölgenin güzelliklerini artırır. Ayrıca, bölgede yaşayan hayvanlar da dikkat çekicidir. Kuşlar, böcekler ve diğer küçük hayvanlar, bu bölgenin fauna zenginliğini gösterir. Mevsimsel değişimler, bölgenin doğal güzelliklerini farklı şekillerde sunar. İlkbahar ve yaz aylarında, bölge daha yeşil ve canlıdır, mentre kış aylarında, manzara daha sakin ve beyazdır.
 
 ## Ziyaret Bilgileri
 

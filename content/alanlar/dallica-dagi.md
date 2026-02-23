@@ -42,7 +42,7 @@ Güneydoğu Anadolu Bölgesi'nin en uzak köşesinde, Şırnak ilinin dağlık a
 
 Doğal bir kaya oluşumu olan Dalica Dağı, bölgenin jeolojik yapısını yansıtan önemli bir oluşumdur. Ancak, detaylı fiziksel verileri bulunmamasına rağmen, bu dağ Şırnak ilinin coğrafi yapısını etkileyen önemli bir faktördür. Monaco'nun küçük bir bölümü büyüklüğünde olan bu dağ, bölgenin topoğrafyasını şekillendiren önemli bir faktör olarak görülmektedir.
 
-Mevsimsel olarak değişen hava koşulları, Dalica Dağı'nın iklim karakterini etkilemektedir. Kış aylarında kar yağışının görüldüğü bu région, yaz aylarında ise sıcak ve kurak bir iklimi yaşamaktadır. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin hava koşullarını etkileyen önemli bir faktördür.
+Mevsimsel olarak değişen hava koşulları, Dalica Dağı'nın iklim karakterini etkilemektedir. Kış aylarında kar yağışının görüldüğü bu bölge, yaz aylarında ise sıcak ve kurak bir iklimi yaşamaktadır. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan bu dağ, bölgenin hava koşullarını etkileyen önemli bir faktördür.
 
 Bölgenin ekosistemini etkileyen önemli bir faktör olan Dalica Dağı, komşu alanlar ve su kaynakları ile bağlantılıdır. Tigris Nehri'nin bir kolu olan Çağlayan Çayı, bu dağların eteklerinden geçmektedir. Bu su kaynağı, bölgenin tarım ve hayvancılık faaliyetlerini etkileyen önemli bir faktördür.
 

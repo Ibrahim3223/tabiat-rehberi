@@ -50,9 +50,9 @@ Doğal bir platform olarak, Kalınpınar Yaylası'nın boyutları, yaklaşık ol
 
 ## Flora ve Fauna
 
-Kalınpınar Yaylası, dağ ekosisteminin tüm güzelliğini sunan bir bölgedir. İlkbaharın başlangıcında, step bitki örtüsü çiçeklerle donanır ve bozkır manzarası renklenir. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği gösterir. 
+Kalınpınar Yaylası, dağ ekosisteminin tüm güzelliğini sunan bir bölgedir. İlkbaharın başlangıcında, step bitki örtüsü çiçeklerle donanır ve bozkır manzarası renklenir. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği gösterir.
 
-Bu dağlık alanda, memeliler ve kuşlar yaşam alanlarını paylaşır. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturur. Sonbaharın gelmesiyle, göç eden kuşlar bu bölgeyi ziyaret eder ve beslenme alanları bulurlar. 
+Bu dağlık alanda, memeliler ve kuşlar yaşam alanlarını paylaşır. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturur. Sonbaharın gelmesiyle, göç eden kuşlar bu bölgeyi ziyaret eder ve beslenme alanları bulurlar.
 
 Kalınpınar Yaylası, yüksek biodiversiteye sahip bir bölgedir ve koruma altına alınması önemlidir. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda tüm ekosistem için hayati bir öneme sahiptir.
 

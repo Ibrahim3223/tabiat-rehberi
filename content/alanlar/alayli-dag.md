@@ -48,7 +48,7 @@ Mevsimsel açıdan bakıldığında, Alaylı Dağ'ın iklim karakteri oldukça d
 
 ## Flora ve Fauna
 
-Alaylı Dağ, Kayseri'nin(step bitki örtüsü ve bozkır karakteristiği taşıyan) benzersiz coğrafyasında yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanır; kuraklığa adapte olan türler, yaz sıcaklarına karşı dayanıklılık gösterir. 
+Alaylı Dağ, Kayseri'nin(step bitki örtüsü ve bozkır karakteristiği taşıyan) benzersiz coğrafyasında yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanır; kuraklığa adapte olan türler, yaz sıcaklarına karşı dayanıklılık gösterir.
 
 Bitki örtüsünde hakim türler, step ve bozkır karakterine uygun olarak kuraklığa dayanıklı otlar ve çalılardan oluşur. Sonbaharda, dağ yollarında göç eden kuş sürüleri görülebilir. Dağların yüksek zonlarında, alpin flora çeşitliliği dikkat çeker.
 
@@ -67,4 +67,4 @@ Alaylı Dağ'a gitmeden önce, sabah erken yola çıkmayı düşünmenizi öneri
 - Alaylı Dağ, Kapadokya bölgesinin bir parçasıdır ve volkanik kökenlidir.
 - Dağda çeşitli bitki türleri bulunur, özellikle de meşe ve çam ağaçları yaygındır.
 - Alaylı Dağ, trekking ve doğa yürüyüşü için popüler bir destinasyondur.
-- Dağın okolí, históri ve kültürel açıdan zengin olan Kapadokya bölgesinin önemli yerleşim yerlerine yakındır.
+- Dağın okolí, tarihi ve kültürel açıdan zengin olan Kapadokya bölgesinin önemli yerleşim yerlerine yakındır.

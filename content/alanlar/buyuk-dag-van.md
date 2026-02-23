@@ -33,7 +33,7 @@ Van ilinin doğal güzelliklerini barındıran bölgelerinden biri olan Büyük 
 
 ## Tarihçe
 
-Van bölgesi, tarihin depthsinde gizli bir hazine gibi duruyor. Bu topraklar, Urartular, Persler, Romalılar ve Osmanlılar gibi birçok uygarlığa ev sahipliği yapmış. Bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişinin merkezi olmuş. 
+Van bölgesi, tarihin depthsinde gizli bir hazine gibi duruyor. Bu topraklar, Urartular, Persler, Romalılar ve Osmanlılar gibi birçok uygarlığa ev sahipliği yapmış. Bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişinin merkezi olmuş.
 
 Büyük Dağ gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Bu alanlar, yüzyıllar boyunca insanların yaşamını sürdürmesine olanak sağlamış. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların temel geçim kaynaklarından olmuş. Ayrıca, bu doğal güzellikler, ticaret yollarının güzergahında bulunması nedeniyle, seyahat edenlerin konaklama noktaları olarak da kullanılmış.
 

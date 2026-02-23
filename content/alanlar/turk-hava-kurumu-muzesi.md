@@ -1,7 +1,7 @@
 ---
 title: "Türk Hava Kurumu Müzesi"
 date: "2026-01-10T15:11:35.196Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"

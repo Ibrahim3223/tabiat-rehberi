@@ -29,7 +29,7 @@ wikidata_id: "Q32124029"
 
 # Lülük Tepesi
 
-Lülük Tepesi, İç Anadolu Bölgesi'nin Çankırı ilinde yer alan ve doğa severlerin ilgisini çeken bir nokta. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Lülük Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu tepe, özellikle bahar aylarında yeşilin her tonunu sergiliyor. Lülük Tepesi, hem doğa yürüyüşleri hem de panorama seyir noktaları açısından önemli bir destinasyon.
+Lülük Tepesi, İç Anadolu Bölgesi'nin Çankırı ilinde yer alan ve doğa severlerin ilgisini çeken bir nokta. Lülük Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu tepe, özellikle bahar aylarında yeşilin her tonunu sergiliyor. Lülük Tepesi, hem doğa yürüyüşleri hem de panorama seyir noktaları açısından önemli bir destinasyon.
 
 ## Tarihçe
 

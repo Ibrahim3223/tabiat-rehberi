@@ -36,7 +36,7 @@ Karaman bölgesi, tarihin derinliklerinden gelen izlerle dolu bir coğrafyada ye
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu tür bölgeler, yalnızca doğal güzellikleriyle değil, aynı zamanda kültürel ve ekonomik faaliyetlerin merkezi olarak da görev görürler. Yaylacılık, hayvancılık ve yerel ticaret, bu alanların insanlarla olan bağlantısını güçlendirir. Arpakurusu Dağı gibi dağlar, yalnızca coğrafi bir oluşum olarak değil, aynı zamanda bölgenin sosyal ve ekonomik yapısını şekillendiren önemli unsurlardır.
 
-Karaman'ın tarihi ve kültürel zenginliği, Arpakurusu Dağı'nı sadece bir doğal oluşum olarak değil, aynı zamanda bölgenin tarihsel ve kültürel mirasının bir parçası olarak görmek önemlidir. Bu dağ, bölgenin geniş tarihini ve insanlarla olan sâu bağlantısını yansıtan bir doğal anıttır.
+Karaman'ın tarihi ve kültürel zenginliği, Arpakurusu Dağı'nı sadece bir doğal oluşum olarak değil, aynı zamanda bölgenin tarihsel ve kültürel mirasının bir parçası olarak görmek önemlidir. Bu dağ, bölgenin geniş tarihini ve insanlarla olan derin bağlantısını yansıtan bir doğal anıttır.
 
 ## Coğrafya
 

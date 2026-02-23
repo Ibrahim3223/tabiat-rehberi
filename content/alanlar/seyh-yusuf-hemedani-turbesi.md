@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Yusuf Hemedani Türbesi"
 date: "2026-01-10T06:46:19.420Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582863"
 
 # Şeyh Yusuf Hemedani Türbesi
 
-Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Şeyh Yusuf Hemedani Türbesi, hem dini hem de doğal güzellikleri bir arada sunan özel bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğanın güzelliğini deneyimlemek için geniş bir mekan sunuyor. Tarihi ve doğal güzelliklerinin birleşimi, bu türbeyi bölge için önemli bir çekim merkezi haline getiriyor.
+Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Şeyh Yusuf Hemedani Türbesi, hem dini hem de doğal güzellikleri bir arada sunan özel bir destinasyon. Tarihi ve doğal güzelliklerinin birleşimi, bu türbeyi bölge için önemli bir çekim merkezi haline getiriyor.
 
 ## Tarihçe
 

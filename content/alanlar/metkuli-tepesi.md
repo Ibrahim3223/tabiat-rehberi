@@ -50,9 +50,9 @@ Jeolojik açıdan bakıldığında, Metkuli Tepesi'nin fiziksel yapısı hakkın
 
 ## Flora ve Fauna
 
-Metkuli Tepesi, Türkiye'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Metkuli Tepesi, Türkiye'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçlarında çiçekler açar. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte olmuş türler bulunmakta. 
+Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçlarında çiçekler açar. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte olmuş türler bulunmakta.
 
 Yaban Hayatı olarak, memeliler ve kuşlar bu dağ ekosisteminde sốngar. Sonbahar aylarında göç eden kuşlar, bu bölgeyi ziyaret eder. Sürüngenler de bu dağların yükseklik zonlarında yaşar.
 

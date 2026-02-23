@@ -28,11 +28,11 @@ wikidata_id: "Q31390706"
 
 # Turnalık Tepesi
 
-Turnalık Tepesi, Tokat'ın görkemli manzaralarına ev sahipliği yapan bir doğa harikası. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici bir güzelliğe davet ediyor. Tokat'ın merkezine yakın konumuyla, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Doğa yürüyüşleri, manzara seyri ve temiz hava arayışında olanların favori destinasyonlarından biri haline geliyor. Turnalık Tepesi, yılın dört mevsimi ziyaret edilebilecek bir yer ve her mevsim farklı bir güzelliğe sahip.
+Turnalık Tepesi, Tokat'ın görkemli manzaralarına ev sahipliği yapan bir doğa harikası. Tokat'ın merkezine yakın konumuyla, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Doğa yürüyüşleri, manzara seyri ve temiz hava arayışında olanların favori destinasyonlarından biri haline geliyor. Turnalık Tepesi, yılın dört mevsimi ziyaret edilebilecek bir yer ve her mevsim farklı bir güzelliğe sahip.
 
 ## Tarihçe
 
-Turnalık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyetin yaşadığı Tokat'ın zengin kültürel mirasını yansıtıyor. Bu bölge, tarihin sâu izlerini taşıyan bir bölge ve ziyaretçiler, bu zengin tarihin bir parçası olmak için buraya akın ediyor. Tepenin eteklerinde ve civarında bulunan tarihi kalıntılar, bölgenin geçmişini anlamak için önemli ipuçları sunuyor. Turnalık Tepesi, sadece doğal güzellikleri değil, aynı zamanda tarihi ve kültürel önemini de ziyaretçilerine sunuyor. Yüzyıllar boyu birçok önemli olaya tanıklık eden bu tepe, bugün hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Turnalık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyetin yaşadığı Tokat'ın zengin kültürel mirasını yansıtıyor. Bu bölge, tarihin derin izlerini taşıyan bir bölge ve ziyaretçiler, bu zengin tarihin bir parçası olmak için buraya akın ediyor. Tepenin eteklerinde ve civarında bulunan tarihi kalıntılar, bölgenin geçmişini anlamak için önemli ipuçları sunuyor. Turnalık Tepesi, sadece doğal güzellikleri değil, aynı zamanda tarihi ve kültürel önemini de ziyaretçilerine sunuyor. Yüzyıllar boyu birçok önemli olaya tanıklık eden bu tepe, bugün hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Coğrafya
 

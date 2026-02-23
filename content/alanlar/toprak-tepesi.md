@@ -29,7 +29,7 @@ wikidata_id: "Q31504380"
 
 # Toprak Tepesi
 
-Toprak Tepesi, İç Anadolu Bölgesi'nin göbeğinde yer alan, yaklaşık 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu tepe, bölgenin gizli güzelliği olarak biliniyor. Doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekliyor. Toprak Tepesi, doğa severler ve tarih meraklıları için bir hazine. Bölgenin coğrafi özelliklerini ve tarihi değerlerini keşfetmek için ideal bir nokta.
+Toprak Tepesi, İç Anadolu Bölgesi'nin göbeğinde yer alan, yaklaşık 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu tepe, bölgenin gizli güzelliği olarak biliniyor. Doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekliyor. Toprak Tepesi, doğa severler ve tarih meraklıları için bir hazine. Bölgenin coğrafi özelliklerini ve tarihi değerlerini keşfetmek için ideal bir nokta.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Toprak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlere 
 
 ## Coğrafya
 
-Toprak Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olarak dikkat çekiyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Toprak Tepesi, çevresi ile birlikte uzun bir mesafe çapında bir alanı kaplıyor. Bu tepe, bölgenin coğrafi yapısını oluşturan ana özelliklerden biri. Toprak Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin bir fauna sahip. Bu tepe, aynı zamanda bir su kaynağı olarak da biliniyor ve bölgenin su ihtiyacını karşılıyor. Toprak Tepesi, coğrafi konumu itibariyle, bölgenin iklimini ve ekolojisini şekillendiren bir faktör.
+Toprak Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olarak dikkat çekiyor. Toprak Tepesi, çevresi ile birlikte uzun bir mesafe çapında bir alanı kaplıyor. Bu tepe, bölgenin coğrafi yapısını oluşturan ana özelliklerden biri. Toprak Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin bir fauna sahip. Bu tepe, aynı zamanda bir su kaynağı olarak da biliniyor ve bölgenin su ihtiyacını karşılıyor. Toprak Tepesi, coğrafi konumu itibariyle, bölgenin iklimini ve ekolojisini şekillendiren bir faktör.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh İbrahim Türbesi, Alanşeyhi"
 date: "2026-01-10T06:45:06.420Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582717"
 
 # Şeyh İbrahim Türbesi, Alanşeyhi
 
-Şeyh İbrahim Türbesi, Vezirköprü/Samsun'da yer alan ve tarihi geçmişiyle dikkat çeken bir mekan. Bu bölge, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Şeyh İbrahim Türbesi, çevresi güneşin batışını izleyebileceğiniz bir noktada bulunmakta. Burada, hem doğal güzellikleri hem de tarihi yapıları keşfedebilirsiniz. Şeyh İbrahim Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarırken, aynı zamanda Karadeniz Bölgesi'nin doğal güzelliğini de sunuyor.
+Şeyh İbrahim Türbesi, Vezirköprü/Samsun'da yer alan ve tarihi geçmişiyle dikkat çeken bir mekan. Şeyh İbrahim Türbesi, çevresi güneşin batışını izleyebileceğiniz bir noktada bulunmakta. Burada, hem doğal güzellikleri hem de tarihi yapıları keşfedebilirsiniz. Şeyh İbrahim Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarırken, aynı zamanda Karadeniz Bölgesi'nin doğal güzelliğini de sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q135582717"
 
 ## Coğrafya
 
-Şeyh İbrahim Türbesi, Vezirköprü/Samsun'da yer alıyor ve Karadeniz Bölgesi'nin doğal güzelliklerini sunuyor. Bu bölge, 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğündeki arazisiyle ziyaretçilerini büyülüyor. Şeyh İbrahim Türbesi'nin etrafı, yeşilin farklı tonlarıyla kaplı ve ziyaretçilere dinlenmek için huzurlu bir ortam sunuyor. Bölge, Karadeniz ikliminin característicasını taşıyor ve four mevsimi ayrı bir güzellikte yaşıyor. Şeyh İbrahim Türbesi, çevresi güneşin batışını izleyebileceğiniz bir noktada bulunmakta ve ziyaretçilerine doğanın güzelliğini sunuyor.
+Şeyh İbrahim Türbesi, Vezirköprü/Samsun'da yer alıyor ve Karadeniz Bölgesi'nin doğal güzelliklerini sunuyor. Şeyh İbrahim Türbesi'nin etrafı, yeşilin farklı tonlarıyla kaplı ve ziyaretçilere dinlenmek için huzurlu bir ortam sunuyor. Bölge, Karadeniz ikliminin característicasını taşıyor ve four mevsimi ayrı bir güzellikte yaşıyor. Şeyh İbrahim Türbesi, çevresi güneşin batışını izleyebileceğiniz bir noktada bulunmakta ve ziyaretçilerine doğanın güzelliğini sunuyor.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ wikidata_id: "Q135582717"
 
 ## Ziyaret Bilgileri
 
-Şeyh İbrahim Türbesi'ni ziyaret etmek için, Vezirköprü/Samsun'a ulaşmanız gerekiyor. Buraya ulaşım, karayolu veya demiryolu ile sağlanabiliyor. Şeyh İbrahim Türbesi, çevre güzelliği ve tarihi yapılarıyla birlikte, ziyaretçilerine unutulmaz bir deneyim sunuyor. Ziyaretçiler, buraya gelerek hem tarihi bir yolculuğa çıkabiliyor hem de Karadeniz Bölgesi'nin doğal güzelliğini keşfedebiliyorlar. Şeyh İbrahim Türbesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları olarak düşünülüyor.
+Şeyh İbrahim Türbesi'ni ziyaret etmek için, Vezirköprü/Samsun'a ulaşmanız gerekiyor. Buraya ulaşım, karayolu veya demiryolu ile sağlanabiliyor. Ziyaretçiler, buraya gelerek hem tarihi bir yolculuğa çıkabiliyor hem de Karadeniz Bölgesi'nin doğal güzelliğini keşfedebiliyorlar. Şeyh İbrahim Türbesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayları olarak düşünülüyor.
 
 ## İlginç Bilgiler
 

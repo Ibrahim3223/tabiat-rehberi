@@ -28,7 +28,7 @@ wikidata_id: "Q31388700"
 
 # Karamanbaşı Tepesi
 
-Karamanbaşı Tepesi, Muğla'nın zengin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Ege Bölgesi'nin önemli noktalarından biri olan Karamanbaşı Tepesi, ziyaretçilerini bekliyor. Doğa severler, bu tepeyi ziyaret ederek bölgenin güzel manzarasını keşfedebilirler. Ayrıca, burada yapılan yürüyüşler ve tırmanışlar, ziyaretçilere farklı deneyimler sunuyor.
+Karamanbaşı Tepesi, Muğla'nın zengin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Ege Bölgesi'nin önemli noktalarından biri olan Karamanbaşı Tepesi, ziyaretçilerini bekliyor. Doğa severler, bu tepeyi ziyaret ederek bölgenin güzel manzarasını keşfedebilirler. Ayrıca, burada yapılan yürüyüşler ve tırmanışlar, ziyaretçilere farklı deneyimler sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Karamanbaşı Tepesi'ni ziyaret etmek, doğa severler için bir dream harika bir
 ## İlginç Bilgiler
 
 - Karamanbaşı Tepesi, Muğla'nın en yüksek noktalarından biri.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Karamanbaşı Tepesi, Ege Bölgesi'nin önemli noktalarından biri.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 - Karamanbaşı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginliklerini sunuyor.

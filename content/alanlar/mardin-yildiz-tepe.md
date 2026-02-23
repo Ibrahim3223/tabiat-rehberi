@@ -29,7 +29,7 @@ wikidata_id: "Q31556378"
 
 # Mardin Yıldız Tepe
 
-Mardin'in histórik dokusu içinde yer alan Yıldız Tepe, bölgenin en önemli doğal oluşumlarından biri. Mardin ilinde, şehrin kalbinde bulunan bu tepe, şehrin tarihi zenginliğini ve doğal güzelliğini bir araya getiriyor. Yıldız Tepe, Mardin'in panoramik manzarasına hakim bir konumda bulunuyor ve şehri farklı bir açıdan gören ziyaretçilere benzersiz bir deneyim sunuyor. Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir nokta olan Yıldız Tepe, şehrin en önemli ziyaret noktalarından biri.
+Mardin'in tarihi dokusu içinde yer alan Yıldız Tepe, bölgenin en önemli doğal oluşumlarından biri. Mardin ilinde, şehrin kalbinde bulunan bu tepe, şehrin tarihi zenginliğini ve doğal güzelliğini bir araya getiriyor. Yıldız Tepe, Mardin'in panoramik manzarasına hakim bir konumda bulunuyor ve şehri farklı bir açıdan gören ziyaretçilere benzersiz bir deneyim sunuyor. Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir nokta olan Yıldız Tepe, şehrin en önemli ziyaret noktalarından biri.
 
 ## Tarihçe
 

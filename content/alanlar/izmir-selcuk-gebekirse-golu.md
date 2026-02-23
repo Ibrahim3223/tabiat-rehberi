@@ -30,7 +30,7 @@ Gebekirse Golu'nun tarihi geçmişi, yüzyıllar boyunca süregelen bir doğal o
 
 ## Coğrafya
 
-Izmir-Selcuk Gebekirse Golu, Ege Bölgesi'nin coğrafi yapısına uygun olarak, dağların eteklerinde yer alan bir sulak alan olarak karşımıza çıkıyor. Bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi konumu itibariyle, Ege Bölgesi'nin ikliminin etkilerini taşıyor. Bu bölgede, Akdeniz ikliminin özellikleri hakim ve yazları sıcak, kışları ılıman bir iklim görülüyor. Çevresindeki dağlar, bölgenin iklimini etkileyen önemli faktörler arasında yer alıyor. Milli park olarak ilan edilmesinin ardından, koruma altına alınmış ve doğal güzelliğinin korunmasına önem verilmiştir. Gebekirse Golu'nun coğrafi konumu, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+Izmir-Selcuk Gebekirse Golu, Ege Bölgesi'nin coğrafi yapısına uygun olarak, dağların eteklerinde yer alan bir sulak alan olarak karşımıza çıkıyor. Coğrafi konumu itibariyle, Ege Bölgesi'nin ikliminin etkilerini taşıyor. Bu bölgede, Akdeniz ikliminin özellikleri hakim ve yazları sıcak, kışları ılıman bir iklim görülüyor. Çevresindeki dağlar, bölgenin iklimini etkileyen önemli faktörler arasında yer alıyor. Milli park olarak ilan edilmesinin ardından, koruma altına alınmış ve doğal güzelliğinin korunmasına önem verilmiştir. Gebekirse Golu'nun coğrafi konumu, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

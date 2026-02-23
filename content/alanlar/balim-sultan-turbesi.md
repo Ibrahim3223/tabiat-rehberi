@@ -1,7 +1,7 @@
 ---
 title: "Balım Sultan Türbesi"
 date: "2026-01-10T06:07:18.374Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390561"
 
 # Balım Sultan Türbesi
 
-Balım Sultan Türbesi, İzmir'in Tire ilçesinde yer alan bir plaj ve tarihi mekan. Bu alan, yaklaşık 140 hektarlık bir yeşil alanıyla, 200 futbol sahası büyüklüğünde bir bölgeyi kapsıyor. Konum olarak Ege Bölgesi'nde yer alan bu mekan, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekiyor. Ziyaretçiler, hem tarihi bir mekanın atmosferini soluyor hem de plajın sunduğu olanaklardan yararlanabiliyor. Balım Sultan Türbesi, ziyaretçilerini bir yandan denizin serinliğinde dinlendirebileceği, bir yandan da tarihin izlerini sürebileceği bir ortam sunuyor.
+Balım Sultan Türbesi, İzmir'in Tire ilçesinde yer alan bir plaj ve tarihi mekan. Konum olarak Ege Bölgesi'nde yer alan bu mekan, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekiyor. Ziyaretçiler, hem tarihi bir mekanın atmosferini soluyor hem de plajın sunduğu olanaklardan yararlanabiliyor. Balım Sultan Türbesi, ziyaretçilerini bir yandan denizin serinliğinde dinlendirebileceği, bir yandan da tarihin izlerini sürebileceği bir ortam sunuyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31385498"
 
 # Şahinlik Tepe
 
-Gaziantep'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Şahinlik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Şahinlik Tepe, hem doğal güzellikleri hem de tarihi önemiyle dikkat çekiyor. Ziyaretçiler, bu tepeyi keşfederek hem doğayı hem de tarihin zenginliklerini deneyimleyebilirler.
+Gaziantep'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Şahinlik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Şahinlik Tepe, hem doğal güzellikleri hem de tarihi önemiyle dikkat çekiyor. Ziyaretçiler, bu tepeyi keşfederek hem doğayı hem de tarihin zenginliklerini deneyimleyebilirler.
 
 ## Tarihçe
 

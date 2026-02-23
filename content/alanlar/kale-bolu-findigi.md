@@ -22,7 +22,7 @@ wikidata_id: "Q108227058"
 
 # Kale Bolu Fındığı
 
-Kale Bolu Fındığı, İç Anadolu Bölgesi'nin göbeğinde yer alan bir milli parktır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğayla baş başa kalmayı sağlayan bir cennettir. Yeşilin her tonunu görebileceğiniz bu milli parkta, çeşitli bitkiler ve ağaçlar bulunur. Ayrıca, Kale Bolu Fındığı, birçok hayvan türünün de yaşam alanıdır.
+Kale Bolu Fındığı, İç Anadolu Bölgesi'nin göbeğinde yer alan bir milli parktır. Bu alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğayla baş başa kalmayı sağlayan bir cennettir. Yeşilin her tonunu görebileceğiniz bu milli parkta, çeşitli bitkiler ve ağaçlar bulunur. Ayrıca, Kale Bolu Fındığı, birçok hayvan türünün de yaşam alanıdır.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Kale Bolu Fındığı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Kale Bolu Fındığı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölgenin coğrafyası, genellikle step ve ormanlardan oluşur. Milli park, 140 hektarlık bir yeşil alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Burada, çeşitli bitkiler ve ağaçlar bulunur. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Çevre, doğayla iç içe geçer ve ziyaretçilere doğanın güzelliğini sunar.
+Kale Bolu Fındığı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölgenin coğrafyası, genellikle step ve ormanlardan oluşur. Burada, çeşitli bitkiler ve ağaçlar bulunur. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Çevre, doğayla iç içe geçer ve ziyaretçilere doğanın güzelliğini sunar.
 
 ## Flora ve Fauna
 
-Kale Bolu Fındığı, flora ve fauna açısından oldukça zengindir. Burada, çeşitli bitkiler ve ağaçlar bulunur. Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırır. İlkbahar ve yaz aylarında, yeşilin her tonunu görebileceğiniz bu milli parkta, birçok hayvan türü de yaşar. Kuşlar, memeliler ve sürüngenler, bu bölgenin fauna çeşitliliğine örnek olara verilebilir. Ekoloji açısından da önemli bir role sahip olan Kale Bolu Fındığı, doğa severlerin ziyaret etmesi gereken bir yerdir.
+ Burada, çeşitli bitkiler ve ağaçlar bulunur. Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırır. İlkbahar ve yaz aylarında, yeşilin her tonunu görebileceğiniz bu milli parkta, birçok hayvan türü de yaşar. Kuşlar, memeliler ve sürüngenler, bu bölgenin fauna çeşitliliğine örnek olara verilebilir. Ekoloji açısından da önemli bir role sahip olan Kale Bolu Fındığı, doğa severlerin ziyaret etmesi gereken bir yerdir.
 
 ## Ziyaret Bilgileri
 

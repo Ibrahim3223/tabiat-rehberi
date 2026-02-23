@@ -22,7 +22,7 @@ wikidata_id: "Q108227800"
 
 # Üzümören
 
-Üzümören, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan Üzümören, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekmektedir. Üzümören'in storia geçmişi, yüzyıllar boyunca bu bölgeyi önemli kılmıştır.
+Üzümören, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan Üzümören, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekmektedir. Üzümören'in storia geçmişi, yüzyıllar boyunca bu bölgeyi önemli kılmıştır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108227800"
 
 ## Coğrafya
 
-Üzümören, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir milli parktır. Bu bölge, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Üzümören'in coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. İklim, İç Anadolu Bölgesi'nin tipik karasal iklimi şeklindedir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçer. Üzümören, ziyaretçilerine doğanın güzelliğini sunmaktadır. Milli parkın çevresi, çeşitli dağlar ve tepelerle çevrilidir. Bu coğrafi özellikler, Üzümören'i bir doğa cenneti haline getirmiştir.
+Üzümören, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir milli parktır. Üzümören'in coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. İklim, İç Anadolu Bölgesi'nin tipik karasal iklimi şeklindedir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve karlı geçer. Üzümören, ziyaretçilerine doğanın güzelliğini sunmaktadır. Milli parkın çevresi, çeşitli dağlar ve tepelerle çevrilidir. Bu coğrafi özellikler, Üzümören'i bir doğa cenneti haline getirmiştir.
 
 ## Flora ve Fauna
 

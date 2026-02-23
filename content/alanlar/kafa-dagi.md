@@ -28,7 +28,7 @@ wikidata_id: "Q31385738"
 
 # Kafa Dağı
 
-Kafa Dağı, Konya ilinin sınırları içerisinde yer alan ve bölgenin önemli coğrafi oluşumlarından biri olan bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Kafa Dağı, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur ve etrafındaki yerleşim yerleri için önemli bir referans noktasıdır. Dağın eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin ekolojik dengesini korur.
+Kafa Dağı, Konya ilinin sınırları içerisinde yer alan ve bölgenin önemli coğrafi oluşumlarından biri olan bir tepedir. Kafa Dağı, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur ve etrafındaki yerleşim yerleri için önemli bir referans noktasıdır. Dağın eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin ekolojik dengesini korur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kafa Dağı'nın tarihi geçmişi, bölgenin tarihine paralel olarak şekillenmi
 
 ## Coğrafya
 
-Kafa Dağı, Konya ilinin sınırları içerisinde yer alan bir tepedir. Bu tepe, İç Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir unsurdur. Kafa Dağı, etrafındaki yerleşim yerleri için önemli bir referans noktasıdır ve bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak, tarih boyunca önemli bir role sahip olmuştur. Dağın eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin ekolojik dengesini korur. Kafa Dağı, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu alan, bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak, çeşitli bitki türleri ve hayvan türleri için önemli bir yaşam alanıdır.
+Kafa Dağı, Konya ilinin sınırları içerisinde yer alan bir tepedir. Bu tepe, İç Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir unsurdur. Kafa Dağı, etrafındaki yerleşim yerleri için önemli bir referans noktasıdır ve bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak, tarih boyunca önemli bir role sahip olmuştur. Dağın eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin ekolojik dengesini korur. Bu alan, bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak, çeşitli bitki türleri ve hayvan türleri için önemli bir yaşam alanıdır.
 
 ## Flora ve Fauna
 

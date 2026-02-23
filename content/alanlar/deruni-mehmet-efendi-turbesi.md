@@ -1,7 +1,7 @@
 ---
 title: "Deruni Mehmet Efendi Türbesi"
 date: "2026-01-10T05:12:22.790Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391646"
 
 # Deruni Mehmet Efendi Türbesi
 
-Deruni Mehmet Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan. Fatih ilçesinde bulunan bu türbe, Marmara Bölgesi'nin doğal güzelliklerini ve tarihi geçmişini bir araya getiren özel bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda ziyaretçiler hem tarihi hem de doğal güzellikleri keşfedebilir. Deruni Mehmet Efendi Türbesi, aynı zamanda İstanbul'un önemli dini merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Deruni Mehmet Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan. Fatih ilçesinde bulunan bu türbe, Marmara Bölgesi'nin doğal güzelliklerini ve tarihi geçmişini bir araya getiren özel bir nokta. Deruni Mehmet Efendi Türbesi, aynı zamanda İstanbul'un önemli dini merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Deruni Mehmet Efendi Türbesi, tarihi geçmişi ile dikkat çeken bir mekan. İs
 
 ## Coğrafya
 
-Deruni Mehmet Efendi Türbesi, Marmara Bölgesi'nin önemli bir kısmını kapsayan İstanbul'un Fatih ilçesinde bulunur. Bu bölge, tarihi ve doğal güzellikleri ile dikkat çeker. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alanda ziyaretçiler, tarihi mekanların yanı sıra doğal güzellikleri de keşfedebilir. Deruni Mehmet Efendi Türbesi, İstanbul'un coğrafi konumu itibariyle önemli bir noktada bulunmakta ve ziyaretçilere şehir merkezine ulaşım kolaylığı sağlıyor. Türbenin etrafında, çeşitli tarihi ve kültürel mekanlar yer alıyor ve bu nedenle ziyaretçiler, geniş bir alanda tarihi ve doğal güzellikleri keşfedebilir. İstanbul'un iklimi, Deruni Mehmet Efendi Türbesi'nin bulunduğu bölgede de etkili olmakta ve ziyaretçilere farklı mevsimlerde çeşitli deneyimler sunuyor.
+Deruni Mehmet Efendi Türbesi, Marmara Bölgesi'nin önemli bir kısmını kapsayan İstanbul'un Fatih ilçesinde bulunur. Bu bölge, tarihi ve doğal güzellikleri ile dikkat çeker. Bu geniş alanda ziyaretçiler, tarihi mekanların yanı sıra doğal güzellikleri de keşfedebilir. Deruni Mehmet Efendi Türbesi, İstanbul'un coğrafi konumu itibariyle önemli bir noktada bulunmakta ve ziyaretçilere şehir merkezine ulaşım kolaylığı sağlıyor. Türbenin etrafında, çeşitli tarihi ve kültürel mekanlar yer alıyor ve bu nedenle ziyaretçiler, geniş bir alanda tarihi ve doğal güzellikleri keşfedebilir. İstanbul'un iklimi, Deruni Mehmet Efendi Türbesi'nin bulunduğu bölgede de etkili olmakta ve ziyaretçilere farklı mevsimlerde çeşitli deneyimler sunuyor.
 
 ## Flora ve Fauna
 

@@ -50,7 +50,7 @@ Avgarsa Dağı, çevresindeki ekosistemle bağlantılıdır. Van Gölü'nün yak
 
 ## Flora ve Fauna
 
-Avgarsa Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda göç eden kuşlar gökyüzünü süsler. 
+Avgarsa Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda göç eden kuşlar gökyüzünü süsler.
 
 Bitki örtüsünü oluşturan alpin flora, dağların yükseklik zonlarına göre değişkenlik gösterir. Mevsimsel değişimlere uyum sağlayan bu bitkiler, dağ ekosisteminin temel taşıdır. Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Memeliler, dağların yüksek kesimlerinde yaşarken, kuşlar göç yolları üzerinde konaklar. Sürüngenler ise kayalık alanlarda yaşamlarını sürdürür.
 

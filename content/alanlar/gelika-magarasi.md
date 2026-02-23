@@ -48,7 +48,7 @@ Gelika Mağarası, doğal güzelliği ve jeolojik önemi nedeniyle çevresindeki
 
 ## Flora ve Fauna
 
-Gelika Mağarası'nın flora ve fauna bölümü, yarı kurak iklimin hakim olduğu bu jeoparkta, doğanın eşsiz güzelliğini sunuyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gelika Mağarası'nın flora ve fauna bölümü, yarı kurak iklimin hakim olduğu bu jeoparkta, doğanın eşsiz güzelliğini sunuyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, step ve ova ekolojisinin karakteristik bitkileri ortaya çıkıyor. Bu bölgede, genellikle çayırlar ve otlaklar hakimdir. Sonbaharda ise, göçmen kuşların uğrak noktalarından biri haline geliyor.
 

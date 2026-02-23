@@ -22,7 +22,7 @@ wikidata_id: "Q108228776"
 
 # ALLEBEN_TP
 
-ALLEBEN_TP, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir yeşil alandır. Bu doğa harikasının içerisinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. ALLEBEN_TP, ziyaretçilerini doğanın kucağına davet ediyor. 140 hektarlık bu geniş alan, ziyaretçilerin doğayla iç içe olmasını sağlıyor. İster yürüyüş yapmak, ister doğa fotoğrafçılığı yapmak, ALLEBEN_TP her türlü doğaaktivitesine ev sahipliği yapıyor.
+ Bu doğa harikasının içerisinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. ALLEBEN_TP, ziyaretçilerini doğanın kucağına davet ediyor. 140 hektarlık bu geniş alan, ziyaretçilerin doğayla iç içe olmasını sağlıyor. İster yürüyüş yapmak, ister doğa fotoğrafçılığı yapmak, ALLEBEN_TP her türlü doğaaktivitesine ev sahipliği yapıyor.
 
 ## Tarihçe
 

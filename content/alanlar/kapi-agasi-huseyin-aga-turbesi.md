@@ -1,7 +1,7 @@
 ---
 title: "Kapı Ağası Hüseyin Ağa Türbesi"
 date: "2026-01-10T07:29:13.483Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391018"
 
 # Kapı Ağası Hüseyin Ağa Türbesi
 
-Kapı Ağası Hüseyin Ağa Türbesi, İstanbul'un tarihi dokusunu taşıyan önemli bir mekan olarak dikkat çeker. Fatih ilçesinde bulunan bu tarihi türbe, Marmara Bölgesi'nin kalbinde yer alır ve ziyaretçilerini İstanbul'un zengin tarihi geçmişine götürür. 140 hektarlık bir alanda yer almayan bu türbe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir alana spread etmez, ancak tarihi önemi ile dikkat çeker. İstanbul'un tarihi mekanları arasında önemli bir yere sahip olan Kapı Ağası Hüseyin Ağa Türbesi, ziyaretçilerine şehrin geçmişini keşfetme fırsatı sunar.
+Kapı Ağası Hüseyin Ağa Türbesi, İstanbul'un tarihi dokusunu taşıyan önemli bir mekan olarak dikkat çeker. Fatih ilçesinde bulunan bu tarihi türbe, Marmara Bölgesi'nin kalbinde yer alır ve ziyaretçilerini İstanbul'un zengin tarihi geçmişine götürür. İstanbul'un tarihi mekanları arasında önemli bir yere sahip olan Kapı Ağası Hüseyin Ağa Türbesi, ziyaretçilerine şehrin geçmişini keşfetme fırsatı sunar.
 
 ## Tarihçe
 

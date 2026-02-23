@@ -22,7 +22,7 @@ wikidata_id: "Q108228838"
 
 # Yarışlı Gölü Sulak Alanı
 
-Yarışlı Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi çeşitlilik gösteren bir bölgesinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik dengesini sağlayan sulak alanlardan biri. Bu doğal alan, hem yerli hem de yabancı birçok canlı türüne ev sahipliği yapıyor. Yarışlı Gölü Sulak Alanı, doğa severler ve araştırmacılar için bir cennet niteliğinde. Burada, çeşitli bitki türleri ve hayvanlar, özellikle de su kuşları, doğal yaşam alanlarını bulabiliyorlar.
+Yarışlı Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi çeşitlilik gösteren bir bölgesinde yer alıyor. Bu doğal alan, hem yerli hem de yabancı birçok canlı türüne ev sahipliği yapıyor. Yarışlı Gölü Sulak Alanı, doğa severler ve araştırmacılar için bir cennet niteliğinde. Burada, çeşitli bitki türleri ve hayvanlar, özellikle de su kuşları, doğal yaşam alanlarını bulabiliyorlar.
 
 ## Tarihçe
 

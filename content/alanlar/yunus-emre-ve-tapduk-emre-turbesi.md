@@ -1,7 +1,7 @@
 ---
 title: "Yunus Emre ve Tapduk Emre Türbesi"
 date: "2026-01-10T07:17:40.267Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390910"
 
 # Yunus Emre ve Tapduk Emre Türbesi
 
-Yunus Emre ve Tapduk Emre Türbesi, Manisa'nın Kula ilçesinde yer alan tarihi bir mekan. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem tarihi bir deneyimi hem de doğanın güzelliğini sunuyor. Türbe, ünlü Türk sûfî şairi Yunus Emre ve Tapduk Emre'nin anısına inşa edilmiş. Yaklaşık 600 yıllık bir geçmişe sahip olan bu türbe, Ege Bölgesi'nin önemli tarihi noktalarından biri. Türbenin yakınında bulunan plaj, ziyaretçilere dinlenme ve güneşin tadını çıkarmak için ideal bir yer.
+Yunus Emre ve Tapduk Emre Türbesi, Manisa'nın Kula ilçesinde yer alan tarihi bir mekan. Bu geniş alan, ziyaretçilere hem tarihi bir deneyimi hem de doğanın güzelliğini sunuyor. Türbe, ünlü Türk sûfî şairi Yunus Emre ve Tapduk Emre'nin anısına inşa edilmiş. Yaklaşık 600 yıllık bir geçmişe sahip olan bu türbe, Ege Bölgesi'nin önemli tarihi noktalarından biri. Türbenin yakınında bulunan plaj, ziyaretçilere dinlenme ve güneşin tadını çıkarmak için ideal bir yer.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yunus Emre ve Tapduk Emre Türbesi'nin tarihi geçmişi, 13. yüzyıla kadar uza
 
 ## Coğrafya
 
-Yunus Emre ve Tapduk Emre Türbesi, Manisa'nın Kula ilçesinde, Ege Bölgesi'nin merkezinde yer alıyor. 180 hektarlık bir alanı kaplayan bu bölge, yaklaşık 250 futbol sahası büyüklüğünde. Türbe, yüksek bir konumda. Bu yükseklik, ziyaretçilere çevreyi panoramik olarak izleme fırsatı sunuyor. Türbenin yakınında, uzun bir mesafe uzunluğundaki plaj, Ege Denizi'nin güzel bir kısmını oluşturuyor. Plajın kumları, ince ve beyaz; denizin suyu, berra ve mavi. Bu doğal güzellikler, ziyaretçilere huzur verici bir atmosfer sunuyor. Çevrede, çeşitli bitki türleri ve zengin fauna, doğa severler için önemli bir çekim noktası.
+Yunus Emre ve Tapduk Emre Türbesi, Manisa'nın Kula ilçesinde, Ege Bölgesi'nin merkezinde yer alıyor. Türbe, yüksek bir konumda. Bu yükseklik, ziyaretçilere çevreyi panoramik olarak izleme fırsatı sunuyor. Türbenin yakınında, uzun bir mesafe uzunluğundaki plaj, Ege Denizi'nin güzel bir kısmını oluşturuyor. Plajın kumları, ince ve beyaz; denizin suyu, berra ve mavi. Bu doğal güzellikler, ziyaretçilere huzur verici bir atmosfer sunuyor. Çevrede, çeşitli bitki türleri ve zengin fauna, doğa severler için önemli bir çekim noktası.
 
 ## Flora ve Fauna
 

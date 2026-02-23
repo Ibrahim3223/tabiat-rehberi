@@ -29,7 +29,7 @@ wikidata_id: "Q31548804"
 
 # Baruş Tepe
 
-Siirt'in dağlık bölgesinde yer alan Baruş Tepe, doğa severlerin ilgi odağı haline gelmiş bir destinasyon. Bu dağ, Siirt'in zengin tarihi ve kültürel mirasının yanı sıra doğal güzelliklerini de gözler önüne seriyor. Siirt'in coğrafi yapısını belirleyen Baruş Tepe, bölgenin eşsiz manzaralarına ev sahipliği yapıyor. Doğal güzelliği ve históriki önemi ile dikkat çeken Baruş Tepe, ziyaretçilerini Siirt'in eşsiz atmosferine davet ediyor.
+Siirt'in dağlık bölgesinde yer alan Baruş Tepe, doğa severlerin ilgi odağı haline gelmiş bir destinasyon. Bu dağ, Siirt'in zengin tarihi ve kültürel mirasının yanı sıra doğal güzelliklerini de gözler önüne seriyor. Siirt'in coğrafi yapısını belirleyen Baruş Tepe, bölgenin eşsiz manzaralarına ev sahipliği yapıyor. Doğal güzelliği ve tarihi önemi ile dikkat çeken Baruş Tepe, ziyaretçilerini Siirt'in eşsiz atmosferine davet ediyor.
 
 ## Tarihçe
 

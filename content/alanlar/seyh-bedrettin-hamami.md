@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Bedrettin Hamamı"
 date: "2026-01-09T23:55:14.264Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245738"
 
 # Şeyh Bedrettin Hamamı
 
-İvrindi'nin eşsiz güzellikteki plajı Şeyh Bedrettin Hamamı, Marmara Bölgesi'nin en çok ziyaret edilen yerlerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve misafirlerine geniş bir alan sunuyor. Şeyh Bedrettin Hamamı, İvrindi'nin merkezine uzun bir mesafe uzaklıkta bulunuyor ve kolay ulaşılabilir bir konumda.
+İvrindi'nin eşsiz güzellikteki plajı Şeyh Bedrettin Hamamı, Marmara Bölgesi'nin en çok ziyaret edilen yerlerinden biri. Şeyh Bedrettin Hamamı, İvrindi'nin merkezine uzun bir mesafe uzaklıkta bulunuyor ve kolay ulaşılabilir bir konumda.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q133245738"
 
 ## Coğrafya
 
-Şeyh Bedrettin Hamamı, İvrindi'nin doğal güzellikleri arasında yer alıyor. Bu plaj, Marmara Bölgesi'nin en güzel plajlarından biri ve misafirlerine geniş bir alan sunuyor. Şeyh Bedrettin Hamamı, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Plaj, İvrindi'nin merkezine uzun bir mesafe uzaklıkta bulunuyor ve kolay ulaşılabilir bir konumda. Şeyh Bedrettin Hamamı'nın çevresi, yeşilliklerle dolu ve misafirlerine doğal bir ortam sunuyor. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve misafirlerine güneşin ve denizin tadını çıkarma imkanı sunuyor.
+Şeyh Bedrettin Hamamı, İvrindi'nin doğal güzellikleri arasında yer alıyor. Bu plaj, Marmara Bölgesi'nin en güzel plajlarından biri ve misafirlerine geniş bir alan sunuyor. Plaj, İvrindi'nin merkezine uzun bir mesafe uzaklıkta bulunuyor ve kolay ulaşılabilir bir konumda. Şeyh Bedrettin Hamamı'nın çevresi, yeşilliklerle dolu ve misafirlerine doğal bir ortam sunuyor. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve misafirlerine güneşin ve denizin tadını çıkarma imkanı sunuyor.
 
 ## Flora ve Fauna
 

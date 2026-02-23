@@ -28,7 +28,7 @@ wikidata_id: "Q34828813"
 
 # Çayırlık Tepesi
 
-Çayırlık Tepesi, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe olarak dikkat çekmektedir. 140 hektarlık bu geniş alan, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini beklemektedir. Bu bölge, coğrafi konumu ve iklimi ile birlikte, flora ve faunayı da etkileyen önemli bir bölgedir. Çayırlık Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişi sunmaktadır.
+ 140 hektarlık bu geniş alan, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini beklemektedir. Bu bölge, coğrafi konumu ve iklimi ile birlikte, flora ve faunayı da etkileyen önemli bir bölgedir. Çayırlık Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişi sunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34828813"
 
 ## Coğrafya
 
-Çayırlık Tepesi, İç Anadolu Bölgesi'nde yer alan bir tepe olarak, coğrafi konumu itibari ile önemli bir bölgedir. Bu bölge, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Çayırlık Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin genel coğrafyasına benzerlik gösterir. Bu bölge, yükse ve alçak alanlardan oluşur ve iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Çayırlık Tepesi, flora ve faunayı da etkileyen önemli bir coğrafi bölgedir. Bu tepe, çeşitli bitki türleri ve hayvanlar ile birlikte, ziyaretçilerini beklemektedir. Çayırlık Tepesi'nin coğrafyası, ziyaretçilerine hem doğal güzelliği hem de tarihi geçmişi sunmaktadır.
+Çayırlık Tepesi, İç Anadolu Bölgesi'nde yer alan bir tepe olarak, coğrafi konumu itibari ile önemli bir bölgedir. Çayırlık Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin genel coğrafyasına benzerlik gösterir. Bu bölge, yükse ve alçak alanlardan oluşur ve iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Çayırlık Tepesi, flora ve faunayı da etkileyen önemli bir coğrafi bölgedir. Bu tepe, çeşitli bitki türleri ve hayvanlar ile birlikte, ziyaretçilerini beklemektedir. Çayırlık Tepesi'nin coğrafyası, ziyaretçilerine hem doğal güzelliği hem de tarihi geçmişi sunmaktadır.
 
 ## Flora ve Fauna
 

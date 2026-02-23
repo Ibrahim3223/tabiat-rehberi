@@ -29,7 +29,7 @@ wikidata_id: "Q49741944"
 
 # Kazancı Kaplıcası
 
-Kazancı Kaplıcası, İç Anadolu Bölgesi'nin Çankırı ilinde yer alan ve 140 hektarlık geniş yeşil alanı ile ziyaretçilerini ağırlayan bir termal kaynak merkezi. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severler ve termal su sevenler için bir cennet. Kazancı Kaplıcası, tarihi geçmişi ve zengin fauna çeşitliliği ile de dikkat çekiyor. Bu doğal güzelliği keşfetmek için ziyaretçiler, yılın her dönemi buraya gelerek termal suyun rahatlatıcı etkisinden yararlanabiliyor.
+Kazancı Kaplıcası, İç Anadolu Bölgesi'nin Çankırı ilinde yer alan ve 140 hektarlık geniş yeşil alanı ile ziyaretçilerini ağırlayan bir termal kaynak merkezi. Kazancı Kaplıcası, tarihi geçmişi ve zengin fauna çeşitliliği ile de dikkat çekiyor. Bu doğal güzelliği keşfetmek için ziyaretçiler, yılın her dönemi buraya gelerek termal suyun rahatlatıcı etkisinden yararlanabiliyor.
 
 ## Tarihçe
 

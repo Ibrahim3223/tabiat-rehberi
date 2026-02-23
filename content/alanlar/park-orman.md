@@ -23,7 +23,7 @@ wikidata_id: "Q108228111"
 
 # Park Orman
 
-Park Orman, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüleyici doğa harikası, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sakinliği ve güzelliği ile baş başa bırakıyor. Park Orman, hem yerli hem de yabancı turistler için bir çekim merkezi haline gelmiştir. Ziyaretçiler, burada doğanın tadını çıkarabilir, piknik yapabilir, yürüyüş ve bisiklet sürüşü gibi çeşitli etkinliklere katılabilirler.
+ Bu büyüleyici doğa harikası, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sakinliği ve güzelliği ile baş başa bırakıyor. Park Orman, hem yerli hem de yabancı turistler için bir çekim merkezi haline gelmiştir. Ziyaretçiler, burada doğanın tadını çıkarabilir, piknik yapabilir, yürüyüş ve bisiklet sürüşü gibi çeşitli etkinliklere katılabilirler.
 
 ## Tarihçe
 

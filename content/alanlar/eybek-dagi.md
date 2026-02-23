@@ -48,7 +48,7 @@ Mevsimsel değişikliklere göre değişen hava koşulları, Eybek Dağı'nın i
 
 ## Flora ve Fauna
 
-Eybek Dağı, Balıkesir'in güzide bir bölgesinde yer alan bir dağ ekosistemi olarak, geçiş ikliminin karakteristik özelliklerini taşır. Bu dağ, karma ormanlarla kaplıdır ve göçmen kuşların önemli bir rotasıdır. 
+Eybek Dağı, Balıkesir'in güzide bir bölgesinde yer alan bir dağ ekosistemi olarak, geçiş ikliminin karakteristik özelliklerini taşır. Bu dağ, karma ormanlarla kaplıdır ve göçmen kuşların önemli bir rotasıdır.
 
 Bitki örtüsü olarak, ilkbahar aylarında çiçeklerin rengarenk bir halı gibi dağ eteklerini süslediği görülür. Sonbahar ise, yaprakların sararması ve göç eden kuşların geçişine tanıklık eder. Dağın yükseklik zonlarına çıktıkça, alpin flora çeşitliliği dikkat çeker.
 

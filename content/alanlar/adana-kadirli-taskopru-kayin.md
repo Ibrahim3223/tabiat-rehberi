@@ -22,7 +22,7 @@ wikidata_id: "Q108227233"
 
 # Adana-Kadirli-Taskopru Kayin
 
-Adana-Kadirli-Taskopru Kayin, Akdeniz Bölgesi'nde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin flora sunar. Bu milli park, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar. Taskopru Kayin, aynı zamanda yaban hayatı açısından da önemli bir alandır. Burada, çeşitli hayvan türleri ve kuşlar gözlemlenebilir. Milli parkın büyüklüğü ve çeşitliliği, ziyaretçilere unutulmaz bir deneyim sunar.
+Adana-Kadirli-Taskopru Kayin, Akdeniz Bölgesi'nde yer alan bir milli parktır. Bu milli park, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar. Taskopru Kayin, aynı zamanda yaban hayatı açısından da önemli bir alandır. Burada, çeşitli hayvan türleri ve kuşlar gözlemlenebilir. Milli parkın büyüklüğü ve çeşitliliği, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

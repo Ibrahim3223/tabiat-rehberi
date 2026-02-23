@@ -22,7 +22,7 @@ wikidata_id: "Q108227756"
 
 # Isparta-Davras Yalanci Akasya
 
-Isparta-Davras Yalancı Akasya, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevre ile iç içe geçmiş bir yapıya sahiptir. Yalancı Akasya olarak bilinen bu bölge, adını aynı isimli ağaç türünden alır. Bu ağaçlar, özellikle ilkbahar ve yaz aylarında bölgeyi süsleyen güzel çiçeklere sahiptir. Isparta-Davras Yalancı Akasya, hem yerli hem de yabancı turistlerin ilgi odağıdır. Doğal güzelliği, zengin flora ve fauna ile ziyaretçilerini büyüleyen bu yer, aynı zamanda bir milli park olarak korunmaktadır.
+Isparta-Davras Yalancı Akasya, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Yalancı Akasya olarak bilinen bu bölge, adını aynı isimli ağaç türünden alır. Bu ağaçlar, özellikle ilkbahar ve yaz aylarında bölgeyi süsleyen güzel çiçeklere sahiptir. Isparta-Davras Yalancı Akasya, hem yerli hem de yabancı turistlerin ilgi odağıdır. Doğal güzelliği, zengin flora ve fauna ile ziyaretçilerini büyüleyen bu yer, aynı zamanda bir milli park olarak korunmaktadır.
 
 ## Tarihçe
 

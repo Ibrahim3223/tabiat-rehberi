@@ -29,7 +29,7 @@ wikidata_id: "Q31390352"
 
 # Emre Tepesi
 
-Afyonkarahisar'ın merkezinde yer alan Emre Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli bir doğal ve tarihi merkezini oluşturuyor. Emre Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna yer alıyor. Bu tepe, aynı zamanda Afyonkarahisar'ın önemli bir sembolü ve turistik merkezi olarak kabul ediliyor.
+Afyonkarahisar'ın merkezinde yer alan Emre Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Emre Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna yer alıyor. Bu tepe, aynı zamanda Afyonkarahisar'ın önemli bir sembolü ve turistik merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 

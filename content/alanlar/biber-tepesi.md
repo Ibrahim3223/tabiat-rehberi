@@ -29,7 +29,7 @@ wikidata_id: "Q31389340"
 
 # Biber Tepesi
 
-Biber Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu bölge, ziyaretçilerini natuurun güzelliği ile baş başa bırakmayı amaçlıyor. Biber Tepesi, yerli ve yabancı turistlerin ilgisini çeken bir destinasyon olarak dikkat çekiyor. Mersin'in güzelliklerini keşfetmek isteyenler için Biber Tepesi, önemli bir durak noktası olarak görülüyor.
+ Bu bölge, ziyaretçilerini natuurun güzelliği ile baş başa bırakmayı amaçlıyor. Biber Tepesi, yerli ve yabancı turistlerin ilgisini çeken bir destinasyon olarak dikkat çekiyor. Mersin'in güzelliklerini keşfetmek isteyenler için Biber Tepesi, önemli bir durak noktası olarak görülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Biber Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Biber Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve coğrafi olarak zengin bir yapıya sahip. Bu bölge, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini natuurun güzelliği ile baş başa bırakmayı amaçlıyor. Biber Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunuyor. Bu bölgede, mevsimsel değişimler gözlemlenebiliyor ve bu durum, Biber Tepesi'nin doğal güzelliğini daha da artırıyor. Biber Tepesi, Mersin'in güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak görülüyor.
+Biber Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve coğrafi olarak zengin bir yapıya sahip. Biber Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunuyor. Bu bölgede, mevsimsel değişimler gözlemlenebiliyor ve bu durum, Biber Tepesi'nin doğal güzelliğini daha da artırıyor. Biber Tepesi, Mersin'in güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak görülüyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Biber Tepesi'ni ziyaret etmek için, Mersin'e gelmek gerekiyor. Biber Tepesi, Me
 
 ## İlginç Bilgiler
 
-- Biber Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Biber Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor.
 - Biber Tepesi, zengin bir flora ve fauna sunuyor.
 - Biber Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu.

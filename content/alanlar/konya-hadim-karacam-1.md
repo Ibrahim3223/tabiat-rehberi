@@ -22,7 +22,7 @@ wikidata_id: "Q108228107"
 
 # Konya-Hadim-Karacam 1
 
-Konya ilinin Hadim ilçesinde yer alan Konya-Hadim-Karacam 1 milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu geniş alan, ziyaretçilere doğayı keşfetme ve yaban hayatını gözlemleme fırsatı sunuyor. Milli parkın konumu, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtıyor. Bölge, yüksek platolardan oluşuyor ve burada yer alan milli park, bu coğrafi yapıyı yansıtan bir güzellik sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğa alanı sunuyor.
+ Bu geniş alan, ziyaretçilere doğayı keşfetme ve yaban hayatını gözlemleme fırsatı sunuyor. Milli parkın konumu, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtıyor. Bölge, yüksek platolardan oluşuyor ve burada yer alan milli park, bu coğrafi yapıyı yansıtan bir güzellik sunuyor.
 
 ## Tarihçe
 

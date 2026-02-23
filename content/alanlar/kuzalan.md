@@ -23,7 +23,7 @@ wikidata_id: "Q108228403"
 
 # Kuzalan
 
-Kuzalan, İç Anadolu Bölgesi'nin doğal güzellikleriyle dolu bir milli parktır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok farklı türün yaşadığı bir ekosistem sunar. Kuzalan, doğal güzellikleri ve zengin faunayla ziyaretçilerini bekliyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor. Kuzalan, hem doğa severler hem de turistler için bir çekim merkezi olarak dikkat çekiyor.
+Kuzalan, İç Anadolu Bölgesi'nin doğal güzellikleriyle dolu bir milli parktır. Kuzalan, doğal güzellikleri ve zengin faunayla ziyaretçilerini bekliyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor. Kuzalan, hem doğa severler hem de turistler için bir çekim merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 

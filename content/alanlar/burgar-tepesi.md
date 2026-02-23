@@ -29,7 +29,7 @@ wikidata_id: "Q31386401"
 
 # Burgar Tepesi
 
-Burgar Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak, Gaziantep'in şehir merkezine oldukça yakın bir konumda yer alıyor. Bu tepenin etrafında oluşan yerleşim yerleri, tarihi ve kültürel zenginlikleriyle dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevredeki diğer tepe ve dağlarla birlikte bir bütün olarak düşünüldüğünde, oldukça geniş bir coğrafi yapı sunuyor. Burgar Tepesi, aynı zamanda bölgenin ekolojik dengesinde önemli bir role sahip, çeşitli bitki türleri ve hayvanlarla zengin bir fauna sunuyor.
+Burgar Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak, Gaziantep'in şehir merkezine oldukça yakın bir konumda yer alıyor. Bu tepenin etrafında oluşan yerleşim yerleri, tarihi ve kültürel zenginlikleriyle dikkat çekiyor. Burgar Tepesi, aynı zamanda bölgenin ekolojik dengesinde önemli bir role sahip, çeşitli bitki türleri ve hayvanlarla zengin bir fauna sunuyor.
 
 ## Tarihçe
 

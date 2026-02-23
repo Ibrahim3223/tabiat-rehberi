@@ -1,7 +1,7 @@
 ---
 title: "Gümrükönü Hamamı"
 date: "2026-01-09T23:12:52.834Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738894"
 
 # Gümrükönü Hamamı
 
-Gümrükönü Hamamı, Aydın'ın Efeler ilçesinde bulunan ve Ege Bölgesi'nin önemli turizm noktalarından biri olarak bilinen bir plajdır. Bu bölgede, güneşin ve denizin tadını çıkarırken, aynı zamanda históri ve kültürel zenginliklere de tanıklık edebilirsiniz. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunar. Gümrükönü Hamamı, hem yerel halkın hem de turistik ziyaretçilerin tercih ettiği bir noktadır.
+Gümrükönü Hamamı, Aydın'ın Efeler ilçesinde bulunan ve Ege Bölgesi'nin önemli turizm noktalarından biri olarak bilinen bir plajdır. Bu bölgede, güneşin ve denizin tadını çıkarırken, aynı zamanda tarihi ve kültürel zenginliklere de tanıklık edebilirsiniz. Gümrükönü Hamamı, hem yerel halkın hem de turistik ziyaretçilerin tercih ettiği bir noktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gümrükönü Hamamı'nın tarihi geçmişi, bölgenin zengin kültürel mirası
 
 ## Coğrafya
 
-Gümrükönü Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alır ve coğrafi olarak önemli bir konuma sahiptir. Bu plaj, bölgeye has olan ve genellikle sıcak ve kurak geçen yaz aylarına karşın, serin ve ferah bir atmosfer sunar. Gümrükönü Hamamı'nın coğrafyası, denizin immediate yakınında yer alan ve geniş bir kumsala sahip olan bir plaj olarak tanımlanabilir. Bölgenin iklimi, genel olarak Akdeniz ikliminin özellikleri gösterir ve yaz aylarında sıcak, kış aylarında ise ılıman bir hava hüküm sürer. Bu coğrafi konumu ve iklimi, Gümrükönü Hamamı'nı yıl boyunca ziyaret edilebilir bir nokta haline getirir. Ayrıca, bölgenin flora ve fauna açısından zengin olması, ziyaretçilere doğayla iç içe bir deneyim sunar. 180 hektarın üzerinde bir alanı kaplayan bu bölge, yaklaşık 300 futbol sahası büyüklüğünde bir alanı kapsar ve ziyaretçilere geniş bir alan sunar.
+Gümrükönü Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alır ve coğrafi olarak önemli bir konuma sahiptir. Bu plaj, bölgeye has olan ve genellikle sıcak ve kurak geçen yaz aylarına karşın, serin ve ferah bir atmosfer sunar. Gümrükönü Hamamı'nın coğrafyası, denizin immediate yakınında yer alan ve geniş bir kumsala sahip olan bir plaj olarak tanımlanabilir. Bölgenin iklimi, genel olarak Akdeniz ikliminin özellikleri gösterir ve yaz aylarında sıcak, kış aylarında ise ılıman bir hava hüküm sürer. Bu coğrafi konumu ve iklimi, Gümrükönü Hamamı'nı yıl boyunca ziyaret edilebilir bir nokta haline getirir. Ayrıca, bölgenin flora ve fauna açısından zengin olması, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Gümrükönü Hamamı'na ziyaretçiler, yıl boyunca gelerek bu güzel bölgenin
 ## İlginç Bilgiler
 
 - Gümrükönü Hamamı, Ege Bölgesi'nin önemli turizm noktalarından biridir.
-- Bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Bölge, flora ve fauna açısından zengin bir bölge olarak bilinir.
 - Gümrükönü Hamamı, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet eder.
 - Bu plaj, Efeler ilçesine yakın bir konumda yer alır ve buraya ulaşım, genellikle özel araçlar veya toplu taşıma araçları ile sağlanır.

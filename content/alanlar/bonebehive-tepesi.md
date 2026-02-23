@@ -29,7 +29,7 @@ wikidata_id: "Q31555697"
 
 # Bonebehive Tepesi
 
-Bonebehive Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve çevredeki diğer tepe ve dağlarla birlikte muhteşem bir manzara sunuyor. Bonebehive Tepesi, bölgenin coğrafi yapısını ve iklimini anlamak için önemli bir nokta olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Bonebehive Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Bonebehive Tepesi, bölgenin coğrafi yapısını ve iklimini anlamak için önemli bir nokta olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Bonebehive Tepesi'ni ziyaret etmek için, en uygun zaman bahar ve yaz aylarıdı
 
 ## İlginç Bilgiler
 
-- Bonebehive Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
 - Bu tepe, İç Anadolu Bölgesi'nin coğrafi yapısını ve iklimini anlamak için önemli bir nokta olarak kabul ediliyor.
 - Bonebehive Tepesi, flora ve fauna açısından zengin bir bölgedir.
 - Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.

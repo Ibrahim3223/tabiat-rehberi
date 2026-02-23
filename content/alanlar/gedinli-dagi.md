@@ -36,7 +36,7 @@ Mersin bölgesi, tarihin derinliklerinden gelen bir kültür mozaiği olarak kar
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendirmiştir. Gedinli Dağı'nın eteklerinde ve çevresindeki köyler, bu geleneksel yaşam tarzlarını sürdüren topluluklara ev sahipliği yapar.
 
-Bölgenin coğrafi konumu, histórik ticaret yollarının geçiş noktası olmasını sağlamıştır. İpek Yolu gibi önemli ticaret yolları, Mersin bölgesinden geçerek doğuyu batıyla bağlar. Bu ticaret yolları, bölgenin kültürel ve ekonomik gelişimine katkıda bulunmuştur. Gedinli Dağı, bu tarih boyunca insanların yaşamını etkileyen önemli bir coğrafi oluşum olarak yer alır.
+Bölgenin coğrafi konumu, tarihi ticaret yollarının geçiş noktası olmasını sağlamıştır. İpek Yolu gibi önemli ticaret yolları, Mersin bölgesinden geçerek doğuyu batıyla bağlar. Bu ticaret yolları, bölgenin kültürel ve ekonomik gelişimine katkıda bulunmuştur. Gedinli Dağı, bu tarih boyunca insanların yaşamını etkileyen önemli bir coğrafi oluşum olarak yer alır.
 
 ## Coğrafya
 

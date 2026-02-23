@@ -28,7 +28,7 @@ wikidata_id: "Q31391208"
 
 # Tabya Tepesi
 
-Tabya Tepesi, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak bilinir. Bu bölge, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tabya Tepesi, hem tarihi hem de coğrafi açıdan önemli bir konumdadır. Bu tepe, geniş bir görüş açısına sahip olup, çevredeki doğal güzellikleri izlemek için ideal bir noktadır. Tabya Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, mevsimsel değişimlerle birlikte, bitki örtüsü ve hayvan çeşitliliği değişir.
+Tabya Tepesi, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak bilinir. Tabya Tepesi, hem tarihi hem de coğrafi açıdan önemli bir konumdadır. Bu tepe, geniş bir görüş açısına sahip olup, çevredeki doğal güzellikleri izlemek için ideal bir noktadır. Tabya Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, mevsimsel değişimlerle birlikte, bitki örtüsü ve hayvan çeşitliliği değişir.
 
 ## Tarihçe
 

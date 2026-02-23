@@ -28,7 +28,7 @@ wikidata_id: "Q32210827"
 
 # Kürtosman Tepesi
 
-Kürtosman Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Gaziantep'in sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Tepenin yüksekliği ve genişliği, bölgenin en önemli doğal güzelliklerinden biri olmasını sağlar. Bölgede yapılan araştırmalar, Kürtosman Tepesi'nin zengin bir ekosisteme sahip olduğunu göstermiştir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+Kürtosman Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Gaziantep'in sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Tepenin yüksekliği ve genişliği, bölgenin en önemli doğal güzelliklerinden biri olmasını sağlar. Bölgede yapılan araştırmalar, Kürtosman Tepesi'nin zengin bir ekosisteme sahip olduğunu göstermiştir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## Tarihçe
 

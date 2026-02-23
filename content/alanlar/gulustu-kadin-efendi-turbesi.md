@@ -1,7 +1,7 @@
 ---
 title: "Gülustu Kadın Efendi Türbesi"
 date: "2026-01-10T07:26:07.201Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391059"
 
 # Gülustu Kadın Efendi Türbesi
 
-Gülustu Kadın Efendi Türbesi, Fatih ilçesinde, İstanbul'un kalbinde yer alan tarihi bir türbe ve plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli tarihi mekanlarından biridir. Türbenin etrafı, çeşitli bitki türleriyle dolu yeşil alanlarla çevrilidir ve ziyaretçilere tarihi bir atmosfer sunar. İstanbul'un kalabalık şehir yaşamından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
+Gülustu Kadın Efendi Türbesi, Fatih ilçesinde, İstanbul'un kalbinde yer alan tarihi bir türbe ve plajdır. Türbenin etrafı, çeşitli bitki türleriyle dolu yeşil alanlarla çevrilidir ve ziyaretçilere tarihi bir atmosfer sunar. İstanbul'un kalabalık şehir yaşamından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
 
 ## Tarihçe
 

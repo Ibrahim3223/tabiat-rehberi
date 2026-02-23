@@ -1,7 +1,7 @@
 ---
 title: "Meryem Ana Kilisesi, Ayazini"
 date: "2026-01-10T03:40:34.196Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245874"
 
 # Meryem Ana Kilisesi, Ayazini
 
-Meryem Ana Kilisesi, Ayazini, Ege Bölgesi'nin İhsaniye ilçesinde yer alan bir tarihi kilisedir. 140 hektarlık bir alanı kaplayan Ayazini köyü, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu köy, Meryem Ana Kilisesi'ne ev sahipliği yapmaktadır. Kilisenin tarihi geçmişi, ziyaretçilerini cezbeden önemli bir özelliktir. Meryem Ana Kilisesi, hem dini hem de turistik olarak önemli bir destinasyondur. Kilisenin mimarisi, çevresindeki doğa ile uyum içinde olup, ziyaretçilerine huzur veren bir atmosfer sunar.
+Meryem Ana Kilisesi, Ayazini, Ege Bölgesi'nin İhsaniye ilçesinde yer alan bir tarihi kilisedir. Bu köy, Meryem Ana Kilisesi'ne ev sahipliği yapmaktadır. Kilisenin tarihi geçmişi, ziyaretçilerini cezbeden önemli bir özelliktir. Meryem Ana Kilisesi, hem dini hem de turistik olarak önemli bir destinasyondur. Kilisenin mimarisi, çevresindeki doğa ile uyum içinde olup, ziyaretçilerine huzur veren bir atmosfer sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Meryem Ana Kilisesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Meryem Ana Kilisesi, İhsaniye ilçesinin Ayazini köyünde yer alır. Köy, Ege Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde bulunmaktadır. Ayazini köyü, 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Köyün coğrafi konumu, ziyaretçilerine çeşitli manzaralar sunar. Meryem Ana Kilisesi de, bu coğrafi çeşitlilik içinde yer alır ve ziyaretçilerine doğanın güzelliğini sunar. Kilisenin çevresi, yeşilliklerle kaplıdır ve bu, ziyaretçilere huzur veren bir atmosfer sağlar. İklim, bölgenin genel iklimine uygun olarak değişkenlik gösterir ve mevsimsel olarak farklılıklar sergiler. Bu coğrafi çeşitlilik, Meryem Ana Kilisesi'ni ziyaret etmek için çeşitli nedenler sunar.
+Meryem Ana Kilisesi, İhsaniye ilçesinin Ayazini köyünde yer alır. Köy, Ege Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir bölgesinde bulunmaktadır. Köyün coğrafi konumu, ziyaretçilerine çeşitli manzaralar sunar. Meryem Ana Kilisesi de, bu coğrafi çeşitlilik içinde yer alır ve ziyaretçilerine doğanın güzelliğini sunar. Kilisenin çevresi, yeşilliklerle kaplıdır ve bu, ziyaretçilere huzur veren bir atmosfer sağlar. İklim, bölgenin genel iklimine uygun olarak değişkenlik gösterir ve mevsimsel olarak farklılıklar sergiler. Bu coğrafi çeşitlilik, Meryem Ana Kilisesi'ni ziyaret etmek için çeşitli nedenler sunar.
 
 ## Flora ve Fauna
 

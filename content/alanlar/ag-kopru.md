@@ -1,7 +1,7 @@
 ---
 title: "Ağ Köprü"
 date: "2026-01-08T23:37:14.186Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Van"
@@ -51,7 +51,7 @@ Gözlemleyerek bakıldığında, Ağ Köprü'nün çevresinde yer alan dağlar, 
 
 ## Flora ve Fauna
 
-Ağ Köprü, Van'ın dağlık bölgesinde yer alan bir doğa harikasıdır. Yüksek dağ ekosisteminin hakim olduğu bu bölgede, alpin çayırlar ve endemik türler bulunur. 
+Ağ Köprü, Van'ın dağlık bölgesinde yer alan bir doğa harikasıdır. Yüksek dağ ekosisteminin hakim olduğu bu bölgede, alpin çayırlar ve endemik türler bulunur.
 
 Bitki örtüsünü oluşturan çeşitli türler, mevsimsel değişimlere göre farklı görünümde ortaya çıkar. İlkbahar aylarında, çayırlar rengarenk çiçeklerle örtülür. Sonbaharda ise, sarı ve kahverengi tonlara bürünen bitki örtüsü, doğanın güzelliğini sergiler.
 

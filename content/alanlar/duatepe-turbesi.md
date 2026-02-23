@@ -1,7 +1,7 @@
 ---
 title: "Duatepe Türbesi"
 date: "2026-01-10T06:00:14.425Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390486"
 
 # Duatepe Türbesi
 
-Duatepe Türbesi, Tarsus'un merkezi konumunda yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir noktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunar. Burada, tarihi yapıları ve doğal güzelliği bir arada deneyimleyebilirsiniz. Duatepe Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alan Tarsus ilçesinde bulunur ve bu bölgenin önemli gezi noktalarından birisidir.
+Duatepe Türbesi, Tarsus'un merkezi konumunda yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir noktadır. Burada, tarihi yapıları ve doğal güzelliği bir arada deneyimleyebilirsiniz. Duatepe Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alan Tarsus ilçesinde bulunur ve bu bölgenin önemli gezi noktalarından birisidir.
 
 ## Tarihçe
 

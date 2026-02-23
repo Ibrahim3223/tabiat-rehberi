@@ -22,7 +22,7 @@ wikidata_id: "Q108227522"
 
 # Kastamonu-Daday-Karacam
 
-Kastamonu-Daday-Karacam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle dolu. Bu milli park, yaban hayatısevenler ve doğa tutkunları için gerçek bir cennet. Kastamonu ilinin Daday ve Karacam köylerinin arasında yer alan milli park, zengin fauna ve florasıyla dikkat çekiyor. Burada, mevsimsel değişimlerin getirdiği renk cümbüşü ve canlı çeşitliliğiyle karşılaşacaksınız. Milli parka gitmek, hem doğanın güzelliklerini keşfetmek hem de bu bölgeye özgü kültürel özellikleri tanımak için ideal bir fırsat.
+Kastamonu-Daday-Karacam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu milli park, yaban hayatısevenler ve doğa tutkunları için gerçek bir cennet. Kastamonu ilinin Daday ve Karacam köylerinin arasında yer alan milli park, zengin fauna ve florasıyla dikkat çekiyor. Burada, mevsimsel değişimlerin getirdiği renk cümbüşü ve canlı çeşitliliğiyle karşılaşacaksınız. Milli parka gitmek, hem doğanın güzelliklerini keşfetmek hem de bu bölgeye özgü kültürel özellikleri tanımak için ideal bir fırsat.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31553743"
 
 # Hemeci Tepesi
 
-Hemeci Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olarak kabul edilen bir tepe. Batman ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, hem doğa severler hem de tarihi merakı olan ziyaretçiler için bir çekim merkezi. Hemeci Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor. Ziyaretçiler, bu tepeye çıkarak hem güzel manzaralar izleyebilir hem de bölgenin tarihini öğrenebilir.
+Hemeci Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olarak kabul edilen bir tepe. Batman ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu bölge, hem doğa severler hem de tarihi merakı olan ziyaretçiler için bir çekim merkezi. Hemeci Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor. Ziyaretçiler, bu tepeye çıkarak hem güzel manzaralar izleyebilir hem de bölgenin tarihini öğrenebilir.
 
 ## Tarihçe
 

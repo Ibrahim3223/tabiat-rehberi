@@ -30,7 +30,7 @@ wikidata_id: "Q28657490"
 
 # Çamlıca Kulesi
 
-Çamlıca Kulesi, İstanbul'un Üsküdar ilçesinde yer alan ve şehre hakim bir manzaraya sahip olan bir televizyon kulesidir. 140 metre yüksekliğiyle İstanbul'un en yüksek noktalarından biridir. Çamlıca Kulesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve şehrin önemli bir turistik yeridir. Kule, İstanbul Boğazı'na ve şehrin diğer önemli noktalarına hakim bir manzaraya sahiptir. Çamlıca Kulesi, aynı zamanda İstanbul'un önemli bir iletişim merkezidir ve birçok televizyon ve radyo istasyonuna ev sahipliği yapar.
+Çamlıca Kulesi, İstanbul'un Üsküdar ilçesinde yer alan ve şehre hakim bir manzaraya sahip olan bir televizyon kulesidir. 140 metre yüksekliğiyle İstanbul'un en yüksek noktalarından biridir. Kule, İstanbul Boğazı'na ve şehrin diğer önemli noktalarına hakim bir manzaraya sahiptir. Çamlıca Kulesi, aynı zamanda İstanbul'un önemli bir iletişim merkezidir ve birçok televizyon ve radyo istasyonuna ev sahipliği yapar.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ wikidata_id: "Q28657490"
 ## İlginç Bilgiler
 
 - Çamlıca Kulesi, 140 metre yüksekliği ile İstanbul'un en yüksek noktalarından biridir.
-- Çamlıca Kulesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Çamlıca Kulesi, İstanbul Boğazı'na ve şehrin diğer önemli noktalarına hakim bir manzaraya sahiptir.
 - Çamlıca Kulesi, aynı zamanda İstanbul'un önemli bir iletişim merkezidir ve birçok televizyon ve radyo istasyonuna ev sahipliği yapar.
 - Çamlıca Kulesi, Üsküdar ilçesinin merkezinde yer alır ve şehrin diğer önemli noktalarına yakındır.

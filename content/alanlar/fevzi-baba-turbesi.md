@@ -1,7 +1,7 @@
 ---
 title: "Fevzi Baba Türbesi"
 date: "2026-01-10T06:04:06.097Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390530"
 
 # Fevzi Baba Türbesi
 
-Fevzi Baba Türbesi, Merzifon'un merkezinde yer alan ve tarihi öneme sahip bir turbe olarak dikkat çekmektedir. 140 hektarlık bir alana yayılan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve Merzifon'un önemli bir kültürel mirası olarak kabul edilmektedir. Fevzi Baba Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu türbe, özellikle İç Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir ziyaret noktası olarak görülüyor.
+Fevzi Baba Türbesi, Merzifon'un merkezinde yer alan ve tarihi öneme sahip bir turbe olarak dikkat çekmektedir. Fevzi Baba Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu türbe, özellikle İç Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir ziyaret noktası olarak görülüyor.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Fevzi Baba Türbesi, Merzifon'un coğrafi yapısını yansıtan bir bölgede yer
 
 ## Flora ve Fauna
 
-Fevzi Baba Türbesi'nin bulunduğu bölge, çeşitli flora ve fauna türleri ile zengindir. Bu bölgede, özellikle mevsimsel değişimlere bağlı olarak farklı bitki türleri ve hayvanlar gözlemlenebilir. Bahar aylarında, bölgenin flora çeşitliliği artmakta ve özellikle çiçek açan bitkiler dikkat çekmektedir. Kış aylarında ise, bölgenin fauna çeşitliliği daha belirgin hale gelmekte ve özellikle kuş türleri ziyaretçileri karşılamaktadır. Fevzi Baba Türbesi'nin etrafındaki doğa, ziyaretçilere hem dinlenme hem de doğayı keşfetme fırsatı sunmaktadır.
+Fevzi Baba Türbesi'nin bulunduğu bölge, çeşitli flora ve fauna türleri ile zengindir. Bu bölgede, özellikle mevsimsel değişimlere bağlı olarak farklı bitki türleri ve hayvanlar gözlemlenebilir. Bahar aylarında, bölgenin flora çeşitliliği artmakta ve özellikle çiçek açan bitkiler dikkat çekmektedir. Kış aylarında ise, bölgenin fauna çeşitliliği daha belirgin hale gelmekte ve özellikle kuş türleri ziyaretçileri karşılamaktadır.
 
 ## Ziyaret Bilgileri
 

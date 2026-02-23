@@ -1,7 +1,7 @@
 ---
 title: "Hamam 2, Malkara"
 date: "2026-01-09T23:58:02.983Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245859"
 
 # Hamam 2, Malkara
 
-Hamam 2, Malkara, İstanbul Vilayeti'nin İç Anadolu Bölgesi'nde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Yeşilin ve mavinin birleştiği bu noktada, Malkara'nın sakin ve güzellikle dolu bir köşesini keşfetme mümkün. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar. Hamam 2, Malkara, hem doğa severler hem de deniz keyfi yapmak isteyenler için ideal bir destinasyon.
+Hamam 2, Malkara, İstanbul Vilayeti'nin İç Anadolu Bölgesi'nde yer alan bir plajdır. Yeşilin ve mavinin birleştiği bu noktada, Malkara'nın sakin ve güzellikle dolu bir köşesini keşfetme mümkün. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar. Hamam 2, Malkara, hem doğa severler hem de deniz keyfi yapmak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

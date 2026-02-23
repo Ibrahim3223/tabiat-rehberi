@@ -28,7 +28,7 @@ wikidata_id: "Q31385554"
 
 # Leskeri Tepesi
 
-Leskeri Tepesi, Niğde'nin güzide bir bölgesinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli fiziksel özellikleri arasında sayılır. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennet. Leskeri Tepesi, ziyaretçilerine doğa yürüyüşleri, piknik alanları ve doğa fotoğrafçılığı gibi çeşitli olanaklar sunuyor. Ayrıca, tepe etrafındaki manzara, ziyaretçilerin bölgenin tarihi ve kültürel önemini anlamalarına yardımcı oluyor.
+Leskeri Tepesi, Niğde'nin güzide bir bölgesinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennet. Leskeri Tepesi, ziyaretçilerine doğa yürüyüşleri, piknik alanları ve doğa fotoğrafçılığı gibi çeşitli olanaklar sunuyor. Ayrıca, tepe etrafındaki manzara, ziyaretçilerin bölgenin tarihi ve kültürel önemini anlamalarına yardımcı oluyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Leskeri Tepesi'ni ziyaret etmek, doğa severler ve macera arayışında olanlar 
 ## İlginç Bilgiler
 
 - Leskeri Tepesi, 140 hektarlık bir yeşil alana sahip.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Leskeri Tepesi, Niğde'nin en önemli doğal güzelliklerinden biri.
 - Bu tepe, ziyaretçilerine doğa yürüyüşleri, piknik alanları ve doğa fotoğrafçılığı gibi çeşitli olanaklar sunuyor.
 - Leskeri Tepesi'ne ulaşmak, Niğde şehir merkezinden yaklaşık 30 dakika sürüyor.

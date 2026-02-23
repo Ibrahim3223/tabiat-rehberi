@@ -50,11 +50,11 @@ Mevsimsel özellikler açısından, Yumru Dağı'nın bulunduğu bölge Akdeniz 
 
 ## Flora ve Fauna
 
-Yumru Dağı, Manisa'nın zeytinlikler ve çam ormanları arasında yükselen bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yumru Dağı, Manisa'nın zeytinlikler ve çam ormanları arasında yükselen bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, Yumru Dağı'nın ilkbahar aylarında çiçeklerle dolu olduğunu görürüz. Çam ormanları ve zeytinlikler, mevsimsel değişimlere bağlı olarak farklı görünümde olur. 
+Bitki Örtüsü bölümünde, Yumru Dağı'nın ilkbahar aylarında çiçeklerle dolu olduğunu görürüz. Çam ormanları ve zeytinlikler, mevsimsel değişimlere bağlı olarak farklı görünümde olur.
 
-Yaban Hayatı bölümünde, dağların yükseklik zonlarına adapte olmuş memeliler, kuşlar ve sürüngenler yaşamaktadır. Sonbaharda, göç eden kuşlar bu bölgeden geçer. 
+Yaban Hayatı bölümünde, dağların yükseklik zonlarına adapte olmuş memeliler, kuşlar ve sürüngenler yaşamaktadır. Sonbaharda, göç eden kuşlar bu bölgeden geçer.
 
 Ekolojik Değer bölümünde, Yumru Dağı'nın neden önemli olduğu ve koruma durumuna değinilir. Bu dağ ekosistemi, bölgenin ekolojik dengesini sağlar ve birçok canlıyaşam alanı sunar.
 

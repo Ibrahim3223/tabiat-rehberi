@@ -51,13 +51,13 @@ Bölgenin ekosistem bağlantıları açısından önemli bir role sahip olan Cal
 
 ## Flora ve Fauna
 
-Calva dağının nemli iklimi, gür ormanları ve yüksek biyoçeşitliliği, bu alanı benzersiz bir flora ve fauna cenneti haline getirir. 
+Calva dağının nemli iklimi, gür ormanları ve yüksek biyoçeşitliliği, bu alanı benzersiz bir flora ve fauna cenneti haline getirir.
 
 Bitki Örtüsü olarak, ilkbaharda çiçeklenen ağaçlar ve çalılıklar, yazın yeşillenen otlaklar ve sonbaharda renk değiştiren yapraklı ağaçlar hakimdir. Dağın yükseklik zonlarına bağlı olarak, alpin flora da görülebilir.
 
 Yaban Hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirir. Dağ keçileri ve yaban domuzları, ormanlık alanlarda yaşarken, kartallar ve şahinler gökyüzünde süzülür. Sonbaharda, göçmen kuşlar bu alanı ziyaret eder.
 
-Ekolojik Değer olarak, Calva dağı, régionün biyoçeşitliliğini koruma açısından önemlidir. Gür ormanlar ve yüksek biyoçeşitlilik, birçok canlıyaşam alanı sağlar. Bu alanın korunması, bölge ekosisteminin dengesini korumak için kritik öneme sahiptir.
+Ekolojik Değer olarak, Calva dağı, bölgeün biyoçeşitliliğini koruma açısından önemlidir. Gür ormanlar ve yüksek biyoçeşitlilik, birçok canlıyaşam alanı sağlar. Bu alanın korunması, bölge ekosisteminin dengesini korumak için kritik öneme sahiptir.
 
 ## Ziyaret Bilgileri
 

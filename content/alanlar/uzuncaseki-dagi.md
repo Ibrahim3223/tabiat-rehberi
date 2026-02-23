@@ -52,7 +52,7 @@ Uzuncaseki Dağı, Diyarbakır'ın yarı kurak ikliminde yer alan bir dağ ekosi
 
 Dağın yüksek kesimlerinde, alpin flora hakimdir. Bu bölgede, dayanıklı ve adaptasyon yeteneği yüksek bitkiler yaşamlarını sürdürüyor. Mevsimsel değişimlere bağlı olarak, dağda çeşitli yaban hayvanları sốnguyor. Memeliler, kuşlar ve sürüngenler, dağın ekosistemini oluşturan önemli bileşenler. İlkbahar ve yaz aylarında, dağda yaşayan kuşlar yuva yapıyor, sonbahar aylarında ise bazı kuş türleri göç ediyor.
 
-Uzuncaseki Dağı, bölgenin ekolojik dengesini korumak açısından önemli bir role sahip. Dağın ekosistemi, bölgenin su kaynaklarını ve toprağını koruyor. Ancak, insan faaliyetleri nedeniyle dağda yaşayan bazı türlerin yaşam alanları tehdit altında. Koruma çalışmaları, bu önemli ekosistemin sürekliliğini sağlamak için gerekli.
+ Dağın ekosistemi, bölgenin su kaynaklarını ve toprağını koruyor. Ancak, insan faaliyetleri nedeniyle dağda yaşayan bazı türlerin yaşam alanları tehdit altında. Koruma çalışmaları, bu önemli ekosistemin sürekliliğini sağlamak için gerekli.
 
 ## Ziyaret Bilgileri
 

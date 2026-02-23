@@ -29,7 +29,7 @@ wikidata_id: "Q4200748"
 
 # İnceburun
 
-Karadeniz'in en kuzey ucunda, Sinop'un eşsiz doğal güzelliklerine ev sahipliği yapan İnceburun, gerçek bir doğa harikası. Bu khuş cenneti, Sinop'un sakin ve doğal ortamında yer alıyor. İnceburun, Kuş türlerinin çeşitliliği ile dikkat çekiyor. Sinop'un doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olan İnceburun, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Karadeniz'in en kuzey ucunda, Sinop'un eşsiz doğal güzelliklerine ev sahipliği yapan İnceburun, gerçek bir doğa harikası. Bu khuş cenneti, Sinop'un sakin ve doğal ortamında yer alıyor. İnceburun, Kuş türlerinin çeşitliliği ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -45,13 +45,13 @@ Doğal güzellikleri ile tanınan İnceburun, Sinop'un kuzeydoğu kesiminde, 42.
 
 Jeolojik açıdan bakıldığında, İnceburun'un coğrafi yapısı hakkında spesifi veriler bulunmasa da, Karadeniz bölgesinin genel jeolojik özellikleri dikkate alındığında, bu bölgenin de benzer özellikler taşıdığı söylenebilir. Bu bölgenin coğrafi yapısı, Karadeniz'in diğer kesimlerinde olduğu gibi, dağlık ve engebeli bir yapıya sahiptir. İnceburun'un boyutları, yaklaşık bir olimpik havuz kadar bir alanı kaplar, bu da bu bölgenin oldukça küçük ve özel bir alan olduğunu göstermektedir.
 
-İklim açısından bakıldığında, İnceburun'un bulunduğu Karadeniz bölgesi, Türkiye'nin en yağışlı bölgelerinden biridir. Bu bölgede, yıllık yağış miktarı 1000 mm'nin üzerindedir ve bu durum, bölgenin yeşilliği ve bitki örtüsünün zenginliği açısından önemli bir faktördür. Mevsimsel olarak, bölge kış aylarında soğuk ve yağışlı, yaz aylarında ise serin ve yağışlı bir iklime sahiptir. 
+İklim açısından bakıldığında, İnceburun'un bulunduğu Karadeniz bölgesi, Türkiye'nin en yağışlı bölgelerinden biridir. Bu bölgede, yıllık yağış miktarı 1000 mm'nin üzerindedir ve bu durum, bölgenin yeşilliği ve bitki örtüsünün zenginliği açısından önemli bir faktördür. Mevsimsel olarak, bölge kış aylarında soğuk ve yağışlı, yaz aylarında ise serin ve yağışlı bir iklime sahiptir.
 
 Çevresel açıdan bakıldığında, İnceburun'un komşu alanları ileconnectionsı önemli bir ekosistem oluşturmaktadır. Bu bölgenin yakınında bulunan su kaynakları, bölgenin bitki örtüsünün zenginliği ve hayvan çeşitliliği açısından önemli bir role sahiptir. İnceburun'un bulunduğu bölge, Monaco'nun yaklaşık 1/10'u kadar bir alanı kaplar, bu da bu bölgenin oldukça küçük ama önemli bir ekosistem olduğunu göstermektedir.
 
 ## Flora ve Fauna
 
-İnceburun, Sinop'un nemli ikliminin hüküm sürdüğü bir bölgede, gür ormanlarla kaplı 1200 hektarlık bir alan. Bu bölge, yüksek biyoçeşitlilik nedeniyle bir "kuş cenneti" olarak bilinir. 
+İnceburun, Sinop'un nemli ikliminin hüküm sürdüğü bir bölgede, gür ormanlarla kaplı 1200 hektarlık bir alan. Bu bölge, yüksek biyoçeşitlilik nedeniyle bir "kuş cenneti" olarak bilinir.
 
 Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, ilkbahar aylarında renkli çiçeklerle donanırken, sonbaharda sarı, turuncu ve kırmızı tonlarıyla manzaraya farklı bir güzellik kazandırır. Bu ormanlık alanda, çeşitli türlerin yaşamını sürdürdüğü bir ekosistem mevcuttur.
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728221"
 
 # Kaya Mezarı 1 (Günören Mahallesi), Altınordu
 
-Kaya Mezarı 1 (Günören Mahallesi), Altınordu, Karadeniz Bölgesi'nin en güzel plajlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve denize sıfır bir konumdadır. Bu alan, hem doğa severlerin hem de deniz aşığıların buluşma noktalarından biridir. Kaya Mezarı 1 (Günören Mahallesi), doğal güzelliği ve tarihi önemi ile ziyaretçilerini cezbeden bir yerdir. Plajın yakınında bulunan kaya mezarları, tarihi geçmişi hakkında bilgi vermektedir. Kaya Mezarı 1 (Günören Mahallesi), ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır.
+Kaya Mezarı 1 (Günören Mahallesi), Altınordu, Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu alan, hem doğa severlerin hem de deniz aşığıların buluşma noktalarından biridir. Kaya Mezarı 1 (Günören Mahallesi), doğal güzelliği ve tarihi önemi ile ziyaretçilerini cezbeden bir yerdir. Plajın yakınında bulunan kaya mezarları, tarihi geçmişi hakkında bilgi vermektedir. Kaya Mezarı 1 (Günören Mahallesi), ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaya Mezarı 1 (Günören Mahallesi), Altınordu'nun tarihi geçmişi hakkında 
 
 ## Coğrafya
 
-Kaya Mezarı 1 (Günören Mahallesi), Altınordu'nun en güzel doğal alanlarından biridir. Bu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Kaya Mezarı 1 (Günören Mahallesi), denize sıfır bir konumda bulunmaktadır. Bu alanda, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kaya Mezarı 1 (Günören Mahallesi), Karadeniz Bölgesi'nin tipik iklimini yaşamaktadır. Bu alan, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Kaya Mezarı 1 (Günören Mahallesi), çevresi ile birlikte yaklaşık 500 metrelik bir sahil şeridine sahiptir. Bu sahil, deniz severlerin keyifli zaman geçirebileceği bir yerdir. Kaya Mezarı 1 (Günören Mahallesi), doğal güzelliği ve coğrafi konumu ile ziyaretçilerini çekmektedir.
+Kaya Mezarı 1 (Günören Mahallesi), Altınordu'nun en güzel doğal alanlarından biridir. Kaya Mezarı 1 (Günören Mahallesi), denize sıfır bir konumda bulunmaktadır. Bu alanda, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kaya Mezarı 1 (Günören Mahallesi), Karadeniz Bölgesi'nin tipik iklimini yaşamaktadır. Bu alan, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Kaya Mezarı 1 (Günören Mahallesi), çevresi ile birlikte yaklaşık 500 metrelik bir sahil şeridine sahiptir. Bu sahil, deniz severlerin keyifli zaman geçirebileceği bir yerdir. Kaya Mezarı 1 (Günören Mahallesi), doğal güzelliği ve coğrafi konumu ile ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 

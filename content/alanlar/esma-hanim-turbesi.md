@@ -1,7 +1,7 @@
 ---
 title: "Esma Hanım Türbesi"
 date: "2026-01-10T06:27:09.071Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391819"
 
 # Esma Hanım Türbesi
 
-Esma Hanım Türbesi, İç Anadolu Bölgesi'nde yer alan Kayseri'nin Talas ilçesinde bulunan bir türbe ve plaj alanı olarak dikkat çekiyor. Bu alan, tarihi ve doğal güzellikleri bir arada sunmasıyla ziyaretçilerini cezbediyor. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Esma Hanım Türbesi, Talas'ın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay.
+Esma Hanım Türbesi, İç Anadolu Bölgesi'nde yer alan Kayseri'nin Talas ilçesinde bulunan bir türbe ve plaj alanı olarak dikkat çekiyor. Bu alan, tarihi ve doğal güzellikleri bir arada sunmasıyla ziyaretçilerini cezbediyor. Esma Hanım Türbesi, Talas'ın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 

@@ -36,7 +36,7 @@ Iğdır bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe 
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutmaktadır. Yayla ve dağlık bölgeler, geleneksel hayvancılık ve tarım faaliyetleri için elverişli ortamlar sunmuş, aynı zamanda ticaret yolları ve stratejik noktalar olarak görev görmüşlerdir. İnsanlar, bu bölgelerle temasları aracılığıyla, kültürel ve ekonomik etkileşimleri gerçekleştirmişlerdir.
 
-Iğdır bölgesinde, çeşitli uygarlıkların izleri görülebilmektedir. Bölgenin coğrafi konumu, tarihi olayların şekillenmesinde önemli bir faktör olmuştur. Alimahmed Dağı ve çevresindeki doğal güzellikler, bu tarihsel bağlamın bir parçası olarak, ziyaretçilere bölgeyi keşfetme fırsatı sunmaktadır.
+Iğdır bölgesinde, çeşitli uygarlıkların izleri görülebilmektedir. Bölgenin coğrafi konumu, tarihi olayların şekillenmesinde önemli bir faktör olmuştur.
 
 ## Coğrafya
 
@@ -52,7 +52,7 @@ Jeolojik açıdan bakıldığında, Alimahmed Dağı'nın fiziksel yapısına il
 
 Alimahmed Dağı, yüksek dağ ekolojisinin tüm ihtişamını sergiler. 1200 hektarlık bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir cennettir. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır, sonbaharda ise göç eden kuşların sesleri dağları doldurur.
 
-Bitki örtüsünü oluşturan hakim türler, yükseklik zonlarına göre değişir. Alpin otlaklar ve çayırlar, dağlık alanın karakterini belirler. Özel bitkiler, dağların zorlu koşullarına adapte olmuştur. 
+Bitki örtüsünü oluşturan hakim türler, yükseklik zonlarına göre değişir. Alpin otlaklar ve çayırlar, dağlık alanın karakterini belirler. Özel bitkiler, dağların zorlu koşullarına adapte olmuştur.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu bir çeşitlilik sunar. Memeliler, dağların kaya aziğini mesken tutar, kuşlar ise gökyüzünde süzülür. Sürüngenler, dağların sıcak ve kuru bölgelerinde yaşar. Ekolojik değer, bu dağlık alanın neden önemli olduğu ve koruma durumunu vurgular. Alimahmed Dağı, yüksek dağ ekosisteminin bir parçası olarak, bu ekosistemin korunması için büyük önem taşır.
 

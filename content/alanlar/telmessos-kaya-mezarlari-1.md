@@ -30,7 +30,7 @@ wikidata_id: "Q134728172"
 
 # Telmessos Kaya Mezarları 1
 
-Telmessos Kaya Mezarları 1, Muğla'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde. Telmessos Kaya Mezarları 1, Ege Bölgesi'nde yer alan bir plaj ve tarihi alan. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri  ve bu nedenle zengin bir tarihi geçmişi bulunuyor. Telmessos Kaya Mezarları 1, Muğla'nın en önemli turizm merkezlerinden biri olarak kabul ediliyor.
+Telmessos Kaya Mezarları 1, Muğla'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta. Telmessos Kaya Mezarları 1, Ege Bölgesi'nde yer alan bir plaj ve tarihi alan. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri  ve bu nedenle zengin bir tarihi geçmişi bulunuyor. Telmessos Kaya Mezarları 1, Muğla'nın en önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Telmessos Kaya Mezarları 1'in tarihi geçmişi, yüzyıllar öncesine dayanıyo
 
 ## Coğrafya
 
-Telmessos Kaya Mezarları 1, Muğla'nın Ege Bölgesi'nde yer alan bir plaj ve tarihi alan. Bu bölge, 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Telmessos Kaya Mezarları 1, yüksek bir konumda yer alıyor. Bu bölge, Muğla'nın en önemli turizm merkezlerinden biri olarak kabul ediliyor. Telmessos Kaya Mezarları 1'in coğrafi konumu, ziyaretçilerinin bu bölgeyi kolayca keşfetmesine olanak sağlıyor. Bu bölge, Muğla'nın merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Telmessos Kaya Mezarları 1'in iklimi, Akdeniz iklimi özellikleri gösteriyor ve bu nedenle ziyaretçileri, yıl boyunca ziyaret edebilir.
+Telmessos Kaya Mezarları 1, Muğla'nın Ege Bölgesi'nde yer alan bir plaj ve tarihi alan. Telmessos Kaya Mezarları 1, yüksek bir konumda yer alıyor. Bu bölge, Muğla'nın en önemli turizm merkezlerinden biri olarak kabul ediliyor. Telmessos Kaya Mezarları 1'in coğrafi konumu, ziyaretçilerinin bu bölgeyi kolayca keşfetmesine olanak sağlıyor. Bu bölge, Muğla'nın merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Telmessos Kaya Mezarları 1'in iklimi, Akdeniz iklimi özellikleri gösteriyor ve bu nedenle ziyaretçileri, yıl boyunca ziyaret edebilir.
 
 ## Flora ve Fauna
 

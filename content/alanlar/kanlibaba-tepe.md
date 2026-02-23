@@ -28,7 +28,7 @@ wikidata_id: "Q31572795"
 
 # Kanlıbaba Tepe
 
-Giresun'un históri ve doğal güzellikleriyle dolu coğrafyasında yer alan Kanlıbaba Tepe, ziyaretçilerini büyüleyen bir doğa harikası. Giresun ilinin merkezine yakın bir konumda bulunan bu tepe, şehrin panoramik manzarasını sunan önemli bir nokta. Kanlıbaba Tepe, Giresun'un doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi olarak dikkat çekiyor. Bu tepe, Giresun'un tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliğini de keşfetmek isteyenler için ideal bir destinasyon.
+Giresun'un tarihi ve doğal güzellikleriyle dolu coğrafyasında yer alan Kanlıbaba Tepe, ziyaretçilerini büyüleyen bir doğa harikası. Giresun ilinin merkezine yakın bir konumda bulunan bu tepe, şehrin panoramik manzarasını sunan önemli bir nokta. Kanlıbaba Tepe, Giresun'un doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi olarak dikkat çekiyor. Bu tepe, Giresun'un tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliğini de keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

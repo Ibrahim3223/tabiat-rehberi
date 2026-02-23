@@ -34,7 +34,7 @@ Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için Seki Dağı, öne
 
 Kayseri bölgesinde yer alan Seki Dağı, tarihin derinliklerine uzanan bir coğrafyanın parçası. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış; Hititler, Roma ve Bizans dönemlerinden izler taşıyor. Seki Dağı gibi doğal alanlar, Türkiye'nin tarihsel zenginliğinin önemli bir parçasını oluşturuyor. Bu tür dağlık ve ormanlık alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve yaylacılık yapan bölgeler olarak önemli bir role sahip olmuşlar.
 
-Ticaret yolları üzerinde yer alan bu coğrafya, históriki ticaret merkezlerinin de yakınında bulunuyor. İnsanların bu doğal güzelliklerle kurdukları ilişki, sadece ekonomik faaliyetlerle sınırlı değil. Bu alanlar, aynı zamanda kültürel ve sosyal hayatın önemli bir parçası. Seki Dağı, Kayseri'nin tarihi ve kültürel mirasının bir parçası olarak, bölgenin doğal güzelliğini ve zenginliğini koruma altına alıyor. Bu dağ, sadece bir coğrafi oluşum değil, aynı zamanda insanlığın tarih boyunca doğayla kurduğu ilişkiyi yansıtan önemli bir kültür mirası.
+Ticaret yolları üzerinde yer alan bu coğrafya, tarihi ticaret merkezlerinin de yakınında bulunuyor. İnsanların bu doğal güzelliklerle kurdukları ilişki, sadece ekonomik faaliyetlerle sınırlı değil. Bu alanlar, aynı zamanda kültürel ve sosyal hayatın önemli bir parçası. Seki Dağı, Kayseri'nin tarihi ve kültürel mirasının bir parçası olarak, bölgenin doğal güzelliğini ve zenginliğini koruma altına alıyor. Bu dağ, sadece bir coğrafi oluşum değil, aynı zamanda insanlığın tarih boyunca doğayla kurduğu ilişkiyi yansıtan önemli bir kültür mirası.
 
 ## Coğrafya
 

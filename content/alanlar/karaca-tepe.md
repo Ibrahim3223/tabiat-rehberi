@@ -53,7 +53,7 @@ Mevsimsel açıdan, Karaca Tepe ve çevresinin iklimi karasal iklim özellikleri
 
 Karaca Tepe, Sivas'ın.step bitki örtüsüne ve bozkırına ev sahipliği yapan dağ ekosisteminde, yükseklik zonları ile çeşitlilik gösteren bir alpin flora sunar. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Bu mevsimsel değişim, kuraklığa adapte türlerin hayatta kalma mücadelesini gözler önüne serer.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağların yüksek kesimlerinde, göçmen kuşlar sonbaharda görülebilecek önemli bir güzergah oluşturur. Bu ekosistem, canlıların birbirine bağımlı olduğu kompleks bir ilişki ağıdır. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağların yüksek kesimlerinde, göçmen kuşlar sonbaharda görülebilecek önemli bir güzergah oluşturur. Bu ekosistem, canlıların birbirine bağımlı olduğu kompleks bir ilişki ağıdır.
 
 Karaca Tepe'nin ekolojik değeri, bölge için kritik bir su kaynağı olarak işlev gören dağ ekosisteminden gelir. Bu alanın korunması, ekosistemin dengesini korumak için hayati önem taşır.
 

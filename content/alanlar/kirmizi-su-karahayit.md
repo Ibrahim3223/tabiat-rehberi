@@ -29,7 +29,7 @@ wikidata_id: "Q126059099"
 
 # Kırmızı Su Karahayıt
 
-Kırmızı Su Karahayıt, Denizli'nin Pamukkale ilçesinde bulunan, 140 hektarlık bir alanda yer alan termal bir kaynak. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Karahayıt, kırmızı suyunun yanı sıra, zengin flora ve faunası ile de dikkat çeker. Ziyaretçiler, buradaki ılıcaların şifalı sularında dinlenebilir ve aynı zamanda doğanın güzelliğini keşfedebilir.
+Kırmızı Su Karahayıt, Denizli'nin Pamukkale ilçesinde bulunan, 140 hektarlık bir alanda yer alan termal bir kaynak. Karahayıt, kırmızı suyunun yanı sıra, zengin flora ve faunası ile de dikkat çeker. Ziyaretçiler, buradaki ılıcaların şifalı sularında dinlenebilir ve aynı zamanda doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Kırmızı Su Karahayıt'ı ziyaret etmek, yılın her dönemi mümkündür. Anc
 
 - Kırmızı Su Karahayıt, termal sularının yanı sıra, zengin bir flora ve faunaya sahiptir.
 - Bölge, yüzyıllar öncesine kadar uzanan bir tarihi geçmişi sahiptir.
-- Karahayıt, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Bölge, ilkbahar ve yaz aylarında en çok ziyaret edilir.
 - Kırmızı Su Karahayıt, Ege Bölgesi'nin önemli termal kaynaklarından biridir.

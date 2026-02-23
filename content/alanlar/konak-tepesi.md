@@ -28,7 +28,7 @@ wikidata_id: "Q31390617"
 
 # Konak Tepesi
 
-Kırıkkale'nin doğal güzelliklerinden biri olan Konak Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu tepe, şehrin merkezine yakın bir konumda yer alır ve ziyaretçiler için kolay ulaşılabilir bir noktadır. Konak Tepesi, Kırıkkale'nin coğrafi yapısını ve tarihi geçmişini anlamak için önemli bir noktadır. Tepenin etrafında çeşitli bitki türleri bulunur ve bu, bölgenin ekolojik zenginliğini gösterir. Konak Tepesi, ziyaretçilere şehrin panoramik manzarasını sunar ve bu nedenle özellikle gün batımı saatlerinde tercih edilen bir gezi noktasıdır.
+ Bu tepe, şehrin merkezine yakın bir konumda yer alır ve ziyaretçiler için kolay ulaşılabilir bir noktadır. Konak Tepesi, Kırıkkale'nin coğrafi yapısını ve tarihi geçmişini anlamak için önemli bir noktadır. Tepenin etrafında çeşitli bitki türleri bulunur ve bu, bölgenin ekolojik zenginliğini gösterir. Konak Tepesi, ziyaretçilere şehrin panoramik manzarasını sunar ve bu nedenle özellikle gün batımı saatlerinde tercih edilen bir gezi noktasıdır.
 
 ## Tarihçe
 

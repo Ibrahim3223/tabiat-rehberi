@@ -29,7 +29,7 @@ wikidata_id: "Q134728357"
 
 # Bin Tepeler Tümülüsü 34
 
-Bin Tepeler Tümülüsü 34, Ege Bölgesi'nin zengin tarihi ve kültürel mirasına ışık tutan önemli bir arkeolojik alan olarak dikkat çekiyor. Manisa'nın Salihli ilçesinde yer alan bu tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu devasa alan, ziyaretçilere Ege Bölgesi'nin tarihine dair derinlemesine bir göz atmaya olanak tanıyor. Bin Tepeler Tümülüsü 34, yalnızca bir tarihi alan olarak değil, aynı zamanda bölgenin coğrafi güzelliğini de sunuyor.
+Bin Tepeler Tümülüsü 34, Ege Bölgesi'nin zengin tarihi ve kültürel mirasına ışık tutan önemli bir arkeolojik alan olarak dikkat çekiyor. Bu devasa alan, ziyaretçilere Ege Bölgesi'nin tarihine dair derinlemesine bir göz atmaya olanak tanıyor. Bin Tepeler Tümülüsü 34, yalnızca bir tarihi alan olarak değil, aynı zamanda bölgenin coğrafi güzelliğini de sunuyor.
 
 ## Tarihçe
 

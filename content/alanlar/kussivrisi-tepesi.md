@@ -28,7 +28,7 @@ wikidata_id: "Q31390067"
 
 # Kuşsivrisi Tepesi
 
-Kuşsivrisi Tepesi, Ankara'nın içlerinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir doğa harikasıdır. Bu muhteşem tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin güzide mekanlarından biridir. Kuşsivrisi Tepesi, Ankara'nın merkezine yakınlığıyla dikkat çekmekte ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak karşımıza çıkmaktadır. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunmakta ve bu durum, ziyaretçilerin doğayla iç içe bir deneyim yaşamasına olanak tanımaktadır.
+Kuşsivrisi Tepesi, Ankara'nın içlerinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir doğa harikasıdır. Bu muhteşem tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Kuşsivrisi Tepesi, Ankara'nın merkezine yakınlığıyla dikkat çekmekte ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak karşımıza çıkmaktadır. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunmakta ve bu durum, ziyaretçilerin doğayla iç içe bir deneyim yaşamasına olanak tanımaktadır.
 
 ## Tarihçe
 

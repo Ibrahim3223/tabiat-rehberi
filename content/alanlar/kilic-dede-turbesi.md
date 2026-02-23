@@ -1,7 +1,7 @@
 ---
 title: "Kılıç Dede Türbesi"
 date: "2026-01-10T07:44:14.302Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391195"
 
 # Kılıç Dede Türbesi
 
-Kılıç Dede Türbesi, Merzifon ilçe merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu yeşil alan, ziyaretçilerini doğanın güzelliği ile karşılar. Kılıç Dede Türbesi, Merzifon'un tarihi ve doğal güzelliklerini bir araya getiren özel bir yer.
+Kılıç Dede Türbesi, Merzifon ilçe merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. Kılıç Dede Türbesi, Merzifon'un tarihi ve doğal güzelliklerini bir araya getiren özel bir yer.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34827782"
 
 # Çadıryazısı Tepesi
 
-Kastamonu'nun muhteşem manzarasına ev sahipliği yapan Çadıryazısı Tepesi, ziyaretçilerini 140 hektarlık yeşil alanıyla karşılar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık hava deneyimi sunar. Çadıryazısı Tepesi, Kastamonu'nun önemli doğal güzelliklerinden biri olup, her yıl birçok ziyaretçiyi ağırlamaktadır.
+Kastamonu'nun muhteşem manzarasına ev sahipliği yapan Çadıryazısı Tepesi, ziyaretçilerini 140 hektarlık yeşil alanıyla karşılar. Çadıryazısı Tepesi, Kastamonu'nun önemli doğal güzelliklerinden biri olup, her yıl birçok ziyaretçiyi ağırlamaktadır.
 
 ## Tarihçe
 

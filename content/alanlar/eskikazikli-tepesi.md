@@ -28,7 +28,7 @@ wikidata_id: "Q31386364"
 
 # Eskikazıklı Tepesi
 
-Eskikazıklı Tepesi, Gaziantep'in merkezinde yer alan ve şehrin tarihi ile doğal güzelliklerini birleştiren bir bölge. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, şehrin diğer bölgelerine nazaran daha yükse ve bu nedenle, tepe üzerinden Gaziantep'in muhteşem manzarasına tanık olma mümkün. Tepede, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Eskikazıklı Tepesi, Gaziantep'in merkezinde yer alan ve şehrin tarihi ile doğal güzelliklerini birleştiren bir bölge. Tepenin yüksekliği, şehrin diğer bölgelerine nazaran daha yükse ve bu nedenle, tepe üzerinden Gaziantep'in muhteşem manzarasına tanık olma mümkün. Tepede, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

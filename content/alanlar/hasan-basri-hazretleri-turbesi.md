@@ -1,7 +1,7 @@
 ---
 title: "Hasan Basri Hazretleri Türbesi"
 date: "2026-01-10T05:25:45.800Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Malatya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391675"
 
 # Hasan Basri Hazretleri Türbesi
 
-Doğu Anadolu Bölgesi'nin önemli kültür merkezlerinden biri olan Battalgazi, Malatya'da bulunan Hasan Basri Hazretleri Türbesi, tarihi ve dini açıdan büyük önem taşıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir yeşil alanın içinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Hasan Basri Hazretleri Türbesi, tarihi geçmişi ve kültürel değerleriyle ziyaretçilerini çekiyor. Bu türbe, özellikle dini ve tarihi açıdan önemli bir merkez olarak biliniyor.
+Doğu Anadolu Bölgesi'nin önemli kültür merkezlerinden biri olan Battalgazi, Malatya'da bulunan Hasan Basri Hazretleri Türbesi, tarihi ve dini açıdan büyük önem taşıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir yeşil alanın içinde yer alıyor. Hasan Basri Hazretleri Türbesi, tarihi geçmişi ve kültürel değerleriyle ziyaretçilerini çekiyor. Bu türbe, özellikle dini ve tarihi açıdan önemli bir merkez olarak biliniyor.
 
 ## Tarihçe
 

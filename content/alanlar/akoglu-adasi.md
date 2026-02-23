@@ -48,13 +48,13 @@ Akoğlu Adası, çevresindeki su kaynakları ve ekosistem bağlantıları ile ö
 
 ## Flora ve Fauna
 
-Akoğlu Adası, Balıkesir'in kıyılarında yer alan 1200 hektarlık bir yeşil cennet. Bu ada ekosisteminde, geçiş iklimi ve karma ormanlar, flora ve faunayı şekillendiriyor. 
+Akoğlu Adası, Balıkesir'in kıyılarında yer alan 1200 hektarlık bir yeşil cennet. Bu ada ekosisteminde, geçiş iklimi ve karma ormanlar, flora ve faunayı şekillendiriyor.
 
 Bitki örtüsünü oluşturan kıyı bitkileri ve ormanlar, mevsimsel değişimlere göre farklılık gösteriyor. İlkbaharda, ada çiçeklerle kaplanıyor. Kış aylarında ise, bazı bitkiler uyumaya geçerken, diğerleri bu dönemi dayanıklı bir şekilde atlatabiliyor.
 
 Yaban hayatına baktığımızda, ada özellikle deniz kuşları için önemli bir üreme ve göç alanı. Göçmen kuşlar, sonbaharda ada üzerinden geçerek güneye doğru yol alıyorlar. Ada aynı zamanda çeşitli sürüngen ve memeli türlerine de ev sahipliği yapıyor.
 
-Akoğlu Adası, izole popülasyonlar ve deniz kuşları nedeniyle ekolojik açıdan büyük bir önem taşıyor. Bu nedenle, ada ekosisteminin korunması ve gelecek nesiller için bảolanması necessário.
+Akoğlu Adası, izole popülasyonlar ve deniz kuşları nedeniyle ekolojik açıdan büyük bir önem taşıyor. Bu nedenle, ada ekosisteminin korunması ve gelecek nesiller için korunması gerekli.
 
 ## Ziyaret Bilgileri
 

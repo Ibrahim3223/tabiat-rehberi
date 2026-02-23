@@ -1,7 +1,7 @@
 ---
 title: "Okçular Köyü Türbesi"
 date: "2026-01-10T05:37:59.250Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582359"
 
 # Okçular Köyü Türbesi
 
-Okçular Köyü Türbesi, Çubuk ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir bölge olarak dikkat çekmektedir. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olarak, 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tarihi geçmişi ile birlikte, ziyaretçilerini geçmişe götürmeyi amaçlayan bir yerdir. Doğal güzellikleri ile birlikte, tarihi eserlerin bir arada bulunduğu bu mekan, ziyaretçilerine hem doğayı hem de tarihi bir arada deneyimleme fırsatı sunmaktadır.
+Okçular Köyü Türbesi, Çubuk ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir bölge olarak dikkat çekmektedir. Tarihi geçmişi ile birlikte, ziyaretçilerini geçmişe götürmeyi amaçlayan bir yerdir. Doğal güzellikleri ile birlikte, tarihi eserlerin bir arada bulunduğu bu mekan, ziyaretçilerine hem doğayı hem de tarihi bir arada deneyimleme fırsatı sunmaktadır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Nişancı Mehmet Paşa Türbesi"
 date: "2026-01-10T07:50:15.125Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391097"
 
 # Nişancı Mehmet Paşa Türbesi
 
-Fatih, İstanbul'un kalbinde yer alan Nişancı Mehmet Paşa Türbesi, tarihi önemi ve mimari güzelliği ile dikkat çekiyor. 140 hektarlık bir alanda bulunan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplıyor. Bu tarihi mekan, ziyaretçilerini geçmişin atmosferine götürerek, İstanbul'un zengin tarihini discoverye davet ediyor. Türbenin çevresinde, şehrin günlük hayatının ritmi, tarihi yapıların arasında uyum içinde devam ediyor.
+Fatih, İstanbul'un kalbinde yer alan Nişancı Mehmet Paşa Türbesi, tarihi önemi ve mimari güzelliği ile dikkat çekiyor. Bu tarihi mekan, ziyaretçilerini geçmişin atmosferine götürerek, İstanbul'un zengin tarihini discoverye davet ediyor. Türbenin çevresinde, şehrin günlük hayatının ritmi, tarihi yapıların arasında uyum içinde devam ediyor.
 
 ## Tarihçe
 

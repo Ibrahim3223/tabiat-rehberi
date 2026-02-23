@@ -46,15 +46,15 @@ Doğal güzelliği ve coğrafi özellikleri ile dikkat çeken Körali Tepesi, An
 
 Mevsimsel değişikliklere göre farklı bir hava sunan Körali Tepesi, Ankara'nın iklim karakterini yansıtmaktadır. İlkbahar ve yaz aylarında yeşil örtüsü ile dikkat çeken tepe, sonbahar ve kış aylarında ise kıraç bir görünüm kazanmaktadır. Ankara'nın genel iklimi gibi, Körali Tepesi de karasal iklimin etkilerini taşır ve mevsimsel sıcaklık farklılıkları gözlemlenir.
 
-Körali Tepesi, Ankara'nın kuzeyindeki ormanlık alanlar ve su kaynakları ile bağlantılıdır. Bu bölge, Ankara'nın su kaynaklarının bir kısmını oluşturan kuzeydeki dağlık alanların bir parçasıdır. Körali Tepesi, Ankara'nın doğal güzelliklerini koruma altına alma ve şehrin ekolojik dengesini korumak açısından önemli bir role sahiptir. Bu tepe, Ankara'nın kuzeyindeki doğal güzelliklerini keşfetmek isteyenler için bir başlangıç noktası olarak düşünülebilir.
+Körali Tepesi, Ankara'nın kuzeyindeki ormanlık alanlar ve su kaynakları ile bağlantılıdır. Bu bölge, Ankara'nın su kaynaklarının bir kısmını oluşturan kuzeydeki dağlık alanların bir parçasıdır. Bu tepe, Ankara'nın kuzeyindeki doğal güzelliklerini keşfetmek isteyenler için bir başlangıç noktası olarak düşünülebilir.
 
 ## Flora ve Fauna
 
-Körali Tepesi, Ankara'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Körali Tepesi, Ankara'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açar ve renklendirir. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler gibi çok yıllık otlar ve dikenli bitkiler bulunur. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açar ve renklendirir. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler gibi çok yıllık otlar ve dikenli bitkiler bulunur.
 
-Yaban Hayatı bölümünde, dağların yükseklik zonlarında, çeşitli memeliler ve kuşlar yaşar. Göç mevsiminde, birçok kuş türü bu bölgeyi ziyaret eder ve beslenir. Sürüngenler de, sıcak ve kurak alanlarda yaşar. 
+Yaban Hayatı bölümünde, dağların yükseklik zonlarında, çeşitli memeliler ve kuşlar yaşar. Göç mevsiminde, birçok kuş türü bu bölgeyi ziyaret eder ve beslenir. Sürüngenler de, sıcak ve kurak alanlarda yaşar.
 
 Ekolojik Değer bölümünde, bu dağ ekosisteminin önemini vurgular. Bu alan, birçok canlıyaşam alanı sağlar ve ekolojik dengenin korunmasına katkıda bulunur. Koruma durumu ise, bu alanın gelecek nesiller için korunmasına dikkat çekilir.
 

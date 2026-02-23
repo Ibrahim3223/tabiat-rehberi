@@ -28,7 +28,7 @@ wikidata_id: "Q31386282"
 
 # Homlı Tepe
 
-Gaziantep'in güneydoğu bölgesinde yer alan Homlı Tepe, şehrin tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alana tekabül etmektedir. Homlı Tepe, ziyaretçilerini hem tarihi hem de doğal güzellikleri ile çekmektedir. Tepe, şehrin merkezine yakın bir konumda bulunmakta ve ulaşımı oldukça kolaydır. Ziyaretçiler, tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı bulmaktadırlar.
+Gaziantep'in güneydoğu bölgesinde yer alan Homlı Tepe, şehrin tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Homlı Tepe, ziyaretçilerini hem tarihi hem de doğal güzellikleri ile çekmektedir. Tepe, şehrin merkezine yakın bir konumda bulunmakta ve ulaşımı oldukça kolaydır. Ziyaretçiler, tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı bulmaktadırlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Homlı Tepe, tarihi geçmişi ile dikkat çekmektedir. Bu tepe, yüzyıllar boyu
 
 ## Coğrafya
 
-Homlı Tepe, coğrafi olarak Gaziantep'in güneydoğu bölgesinde yer almaktadır. Tepe, şehrin merkezine yakın bir konumda bulunmakta ve ulaşımı oldukça kolaydır. Tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alana tekabül etmektedir. Homlı Tepe, çevresi ile birlikte düşünüldüğünde, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Tepe, iklim olarak ılıman bir bölgeye sahiptir ve ziyaretçileri, dört mevsim boyunca farklı güzellikleri ile çekmektedir. Homlı Tepe, coğrafi konumu ile ziyaretçilerini hem doğal güzellikleri hem de tarihi ile çekmektedir. Tepe, çevresi ile birlikte düşünüldüğünde, ekolojik olarak önemli bir bölgeye sahiptir ve ziyaretçileri, doğa ile iç içe bir deneyim yaşamalarına olanak sağlamaktadır.
+Homlı Tepe, coğrafi olarak Gaziantep'in güneydoğu bölgesinde yer almaktadır. Tepe, şehrin merkezine yakın bir konumda bulunmakta ve ulaşımı oldukça kolaydır. Homlı Tepe, çevresi ile birlikte düşünüldüğünde, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Tepe, iklim olarak ılıman bir bölgeye sahiptir ve ziyaretçileri, dört mevsim boyunca farklı güzellikleri ile çekmektedir. Homlı Tepe, coğrafi konumu ile ziyaretçilerini hem doğal güzellikleri hem de tarihi ile çekmektedir. Tepe, çevresi ile birlikte düşünüldüğünde, ekolojik olarak önemli bir bölgeye sahiptir ve ziyaretçileri, doğa ile iç içe bir deneyim yaşamalarına olanak sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Homlı Tepe, ziyaretçilerini hem tarihi hem de doğal güzellikleri ile çekmek
 ## İlginç Bilgiler
 
 - Homlı Tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
-- Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana tekabül etmektedir.
+
 - Homlı Tepe, tarihi geçmişi ile dikkat çekmektedir.
 - Tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, tepeye kendi izini bırakmıştır.
 - Homlı Tepe, coğrafi olarak Gaziantep'in güneydoğu bölgesinde yer almaktadır.

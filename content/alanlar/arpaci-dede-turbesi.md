@@ -1,7 +1,7 @@
 ---
 title: "Arpacı Dede Türbesi"
 date: "2026-01-10T06:28:08.115Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391785"
 
 # Arpacı Dede Türbesi
 
-Arpacı Dede Türbesi, Adana'nın Seyhan ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alan kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Arpacı Dede Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin bir arada bulunduğu bir ortamda ağırlıyor. Burada, tarihi yapılar, doğal güzellikler ve kültürel etkinlikler bir arada sunuluyor.
+Arpacı Dede Türbesi, Adana'nın Seyhan ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Arpacı Dede Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin bir arada bulunduğu bir ortamda ağırlıyor. Burada, tarihi yapılar, doğal güzellikler ve kültürel etkinlikler bir arada sunuluyor.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Arpacı Dede Türbesi, Adana'nın Seyhan ilçesinde yer alıyor. Bu bölge, Akde
 
 ## Flora ve Fauna
 
-Arpacı Dede Türbesi, doğa severler için bir cennet olarak kabul ediliyor. Bu bölge, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosistemi barındırıyor. Burada, mevsimsel değişimler, canlılar ve ekoloji gibi konular hakkında bilgi edinme mümkün. Arpacı Dede Türbesi, ziyaretçilerine doğanın güzelliklerini tanıtmaya yönelik çeşitli etkinlikler sunuyor. Bu bölge, doğa severlerin ilgisini çekiyor ve ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Arpacı Dede Türbesi, doğa severler için bir cennet olarak kabul ediliyor. Bu bölge, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosistemi barındırıyor. Burada, mevsimsel değişimler, canlılar ve ekoloji gibi konular hakkında bilgi edinme mümkün. Arpacı Dede Türbesi, ziyaretçilerine doğanın güzelliklerini tanıtmaya yönelik çeşitli etkinlikler sunuyor.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31546922"
 
 # Tecdin Tepesi
 
-Siirt ilinin doğal güzelliklerinden biri olan Tecdin Tepesi, ziyaretçilerini bekliyor. 140 hektarlık bir alana yayılan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Tecdin Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde bulunan köyler, misafirperverlikleriyle ünlü. Tecdin Tepesi, doğa severler ve macera tutkunları için bir cennet. Tepenin zirvesine çıktığınızda, Güneydoğu Anadolu Bölgesi'nin geniş düzlüklerini ve uzak dağları görebilirsiniz.
+Siirt ilinin doğal güzelliklerinden biri olan Tecdin Tepesi, ziyaretçilerini bekliyor. Tecdin Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde bulunan köyler, misafirperverlikleriyle ünlü. Tecdin Tepesi, doğa severler ve macera tutkunları için bir cennet. Tepenin zirvesine çıktığınızda, Güneydoğu Anadolu Bölgesi'nin geniş düzlüklerini ve uzak dağları görebilirsiniz.
 
 ## Tarihçe
 

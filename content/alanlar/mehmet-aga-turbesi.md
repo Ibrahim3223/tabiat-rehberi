@@ -1,7 +1,7 @@
 ---
 title: "Mehmet Ağa Türbesi"
 date: "2026-01-10T07:33:54.273Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391295"
 
 # Mehmet Ağa Türbesi
 
-Mehmet Ağa Türbesi, İstanbul'un tarihi ve kültürel değerlerini taşıyan önemli bir mekan olarak Fatih'te yer almaktadır. 140 hektarlık bir alanda bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Mehmet Ağa Türbesi, İstanbul'un Marmara Bölgesi'nde bulunan bir konumda yer almaktadır. Bu türbe, İstanbul'un tarihi ve kültürel değerlerini yansıtması bakımından önemlidir. Mehmet Ağa Türbesi, İstanbul'un tarihi mekanları arasında yer alan bir türbe olarak ziyaretçilerini beklemektedir.
+Mehmet Ağa Türbesi, İstanbul'un tarihi ve kültürel değerlerini taşıyan önemli bir mekan olarak Fatih'te yer almaktadır. Mehmet Ağa Türbesi, İstanbul'un Marmara Bölgesi'nde bulunan bir konumda yer almaktadır. Bu türbe, İstanbul'un tarihi ve kültürel değerlerini yansıtması bakımından önemlidir. Mehmet Ağa Türbesi, İstanbul'un tarihi mekanları arasında yer alan bir türbe olarak ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mehmet Ağa Türbesi, yüzyıllar boyunca İstanbul'un tarihi ve kültürel değ
 
 ## Coğrafya
 
-Mehmet Ağa Türbesi, İstanbul'un Marmara Bölgesi'nde bulunan bir konumda yer almaktadır. Bu türbe, 140 hektarlık bir alanda bulunmaktadır. Mehmet Ağa Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu türbe, İstanbul'un tarihi mekanları arasında yer alan bir türbe olarak ziyaretçilerini beklemektedir. Mehmet Ağa Türbesi, yüzyıllar boyunca İstanbul'un tarihi ve kültürel değerlerini taşıyan önemli bir mekan olarak bilinmektedir. Mehmet Ağa Türbesi, İstanbul'un Marmara Bölgesi'nde bulunan bir konumda yer almaktadır. Bu türbe, İstanbul'un tarihi ve kültürel değerlerini yansıtması bakımından önemlidir. Mehmet Ağa Türbesi, İstanbul'un tarihi mekanları arasında yer alan bir türbe olarak ziyaretçilerini beklemektedir. Mehmet Ağa Türbesi, yüzyıllar boyunca İstanbul'un tarihi ve kültürel değerlerini taşıyan önemli bir mekan olarak bilinmektedir. Mehmet Ağa Türbesi, İstanbul'un Marmara Bölgesi'nde bulunan bir konumda yer almaktadır. Bu türbe, İstanbul'un tarihi mekanları arasında yer alan bir türbe olarak ziyaretçilerini beklemektedir.
+Mehmet Ağa Türbesi, İstanbul'un Marmara Bölgesi'nde bulunan bir konumda yer almaktadır. Bu türbe, 140 hektarlık bir alanda bulunmaktadır. Bu türbe, İstanbul'un tarihi mekanları arasında yer alan bir türbe olarak ziyaretçilerini beklemektedir. Mehmet Ağa Türbesi, yüzyıllar boyunca İstanbul'un tarihi ve kültürel değerlerini taşıyan önemli bir mekan olarak bilinmektedir. Mehmet Ağa Türbesi, İstanbul'un Marmara Bölgesi'nde bulunan bir konumda yer almaktadır. Bu türbe, İstanbul'un tarihi ve kültürel değerlerini yansıtması bakımından önemlidir. Mehmet Ağa Türbesi, İstanbul'un tarihi mekanları arasında yer alan bir türbe olarak ziyaretçilerini beklemektedir. Mehmet Ağa Türbesi, yüzyıllar boyunca İstanbul'un tarihi ve kültürel değerlerini taşıyan önemli bir mekan olarak bilinmektedir. Mehmet Ağa Türbesi, İstanbul'un Marmara Bölgesi'nde bulunan bir konumda yer almaktadır. Bu türbe, İstanbul'un tarihi mekanları arasında yer alan bir türbe olarak ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 

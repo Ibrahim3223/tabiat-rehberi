@@ -28,7 +28,7 @@ wikidata_id: "Q31506855"
 
 # Şeyhhasan Tepesi
 
-Şeyhhasan Tepesi, Van'ın görkemli manzarasına sahip önemli bir noktadır. 140 hektarlık geniş bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Bu bölge, ziyaretçilerini doğal güzellikleriyle ve tarihi geçmişiyle karşılar. Şeyhhasan Tepesi, doğa severlerin ve tarih meraklılarının ilgi odağıdır. Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu tepe, ziyaretçilerine benzersiz bir deneyim sunar.
+Şeyhhasan Tepesi, Van'ın görkemli manzarasına sahip önemli bir noktadır. Bu bölge, ziyaretçilerini doğal güzellikleriyle ve tarihi geçmişiyle karşılar. Şeyhhasan Tepesi, doğa severlerin ve tarih meraklılarının ilgi odağıdır. Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu tepe, ziyaretçilerine benzersiz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q31506855"
 
 ## Coğrafya
 
-Şeyhhasan Tepesi, Van ilinin coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Tepenin coğrafi konumu, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölgenin iklimi, kışları soğuk ve karlı, yazları ise sıcak ve kurudur. Şeyhhasan Tepesi, bu coğrafi özelliklere sahip bir bölgede yer alır ve ziyaretçilerine benzersiz bir doğal güzellik sunar. Tepenin etrafında, çeşitli bitki türleri ve fauna çeşitliliği bulunur. Bu bölge, doğa severlerin ve coğrafya meraklılarının ilgi odağıdır.
+Şeyhhasan Tepesi, Van ilinin coğrafi yapısını temsil eden önemli bir noktadır. Tepenin coğrafi konumu, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölgenin iklimi, kışları soğuk ve karlı, yazları ise sıcak ve kurudur. Şeyhhasan Tepesi, bu coğrafi özelliklere sahip bir bölgede yer alır ve ziyaretçilerine benzersiz bir doğal güzellik sunar. Tepenin etrafında, çeşitli bitki türleri ve fauna çeşitliliği bulunur. Bu bölge, doğa severlerin ve coğrafya meraklılarının ilgi odağıdır.
 
 ## Flora ve Fauna
 

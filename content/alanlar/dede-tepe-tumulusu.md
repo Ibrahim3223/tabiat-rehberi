@@ -29,7 +29,7 @@ wikidata_id: "Q134728306"
 
 # Dede Tepe Tümülüsü
 
-Dede Tepe Tümülüsü, Çanakkale'nin Biga ilçesinde yer alan bir tarihi alan olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan tarihi bir tümülüs olarak biliniyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, tarih severlerin ilgisini çekiyor. Dede Tepe Tümülüsü, Marmara Bölgesi'nin önemli tarihi noktalarından biri olarak kabul ediliyor. Bu tümülüs, bölgenin tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak görülüyor.
+Dede Tepe Tümülüsü, Çanakkale'nin Biga ilçesinde yer alan bir tarihi alan olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan tarihi bir tümülüs olarak biliniyor. Dede Tepe Tümülüsü, Marmara Bölgesi'nin önemli tarihi noktalarından biri olarak kabul ediliyor. Bu tümülüs, bölgenin tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 

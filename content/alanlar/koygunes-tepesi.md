@@ -50,13 +50,13 @@ Köygünes Tepesi, Mardin'in doğal ve tarihi zenginliklerine bağlı olarak, ç
 
 ## Flora ve Fauna
 
-Köygünes Tepesi, Mardin'in yarı kurak ikliminde steppede ve ovalarıyla birlikte yükseklik zonlarına sahip bir dağ ekosistemi sunar. 
+Köygünes Tepesi, Mardin'in yarı kurak ikliminde steppede ve ovalarıyla birlikte yükseklik zonlarına sahip bir dağ ekosistemi sunar.
 
 Bitki örtüsünde, ilkbahar aylarında renkli çiçekler açar ve yaz aylarında kuraklığa dayanıklı otsu bitkiler hüküm sürer. Sonbaharda, dağ yamaçlarındaki ağaçlar sarı ve kızıl tonlarıyla bir renk cümbüşü yaratır. Özel bitkiler arasında, yüksek irtifalarda yetişen ve soğuğa dayanıklı türler bulunur.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban domuzları, dağların yükseklerinde yaşarken, kartallar ve şahinler gökyüzünde süzülür. Sürüngenler arasında, yılanlar ve kertenkeleler taşlık alanlarda görülür. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban domuzları, dağların yükseklerinde yaşarken, kartallar ve şahinler gökyüzünde süzülür. Sürüngenler arasında, yılanlar ve kertenkeleler taşlık alanlarda görülür.
 
-Bu dağ ekosisteminin ekolojik değeri, biyolojik çeşitlili ve habitat çeşitliliği nedeniyle önemlidir. Ancak, koruma durumu endişe vericidir ve insan faaliyetleri nedeniyle tehdit altındadır. Köygünes Tepesi, doğa severler için bir cennet olabilecekken, koruma altına alınması nécessaire.
+Bu dağ ekosisteminin ekolojik değeri, biyolojik çeşitlili ve habitat çeşitliliği nedeniyle önemlidir. Ancak, koruma durumu endişe vericidir ve insan faaliyetleri nedeniyle tehdit altındadır. Köygünes Tepesi, doğa severler için bir cennet olabilecekken, koruma altına alınması gerekli.
 
 ## Ziyaret Bilgileri
 

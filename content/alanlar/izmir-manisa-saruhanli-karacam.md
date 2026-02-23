@@ -22,7 +22,7 @@ wikidata_id: "Q108227948"
 
 # Izmir-Manisa-Saruhanli Karacam
 
-İzmir-Manisa-Saruhanlı Karacam milli parkı, İç Anadolu Bölgesi'nin güzide bir noktasında yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, hem doğa severler hem de tarihi yapıları keşfetmek isteyenler için ideal bir destinasyon. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunması, ziyaretçilere unutulmaz bir deneyim sunuyor.
+İzmir-Manisa-Saruhanlı Karacam milli parkı, İç Anadolu Bölgesi'nin güzide bir noktasında yer alıyor. Bu milli park, hem doğa severler hem de tarihi yapıları keşfetmek isteyenler için ideal bir destinasyon. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunması, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108227948"
 
 ## Coğrafya
 
-İzmir-Manisa-Saruhanlı Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Parkın coğrafyası, çeşitli bitki türleri ve hayvan yaşamının bir arada bulunabileceği şekilde oluşmuş. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğanın farklı yönlerini keşfetme fırsatı tanıyor. Parkın iklimi, bölgenin genel iklimine uygun olarak mevsimsel değişimlere sahip. Bahar aylarında yeşeren flora, sonbaharın renk cümbüşü, kışın karlı manzarası ve yazın serin sıcaklığı, her mevsim ziyaretçilere farklı deneyimler sunuyor. Parkın çevresi, tarihi ve doğal güzelliklerle dolu diğer destinasyonlara yakınlığı ile de dikkat çekiyor.
+İzmir-Manisa-Saruhanlı Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Parkın coğrafyası, çeşitli bitki türleri ve hayvan yaşamının bir arada bulunabileceği şekilde oluşmuş. Parkın iklimi, bölgenin genel iklimine uygun olarak mevsimsel değişimlere sahip. Bahar aylarında yeşeren flora, sonbaharın renk cümbüşü, kışın karlı manzarası ve yazın serin sıcaklığı, her mevsim ziyaretçilere farklı deneyimler sunuyor. Parkın çevresi, tarihi ve doğal güzelliklerle dolu diğer destinasyonlara yakınlığı ile de dikkat çekiyor.
 
 ## Flora ve Fauna
 

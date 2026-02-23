@@ -32,9 +32,9 @@ Kocaeli'nin doğal güzelliklerini keşfetmek isteyenler için Ala Dağ, önemli
 
 ## Tarihçe
 
-Kocaeli bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim ve geçiş noktaları arasında yer almıştır. Antik Çağ'da Bithynia olarak bilinen bu topraklar, Roma ve Bizans dönemlerinde önemli bir merkez olarak kabul edilmiştir. 
+Kocaeli bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim ve geçiş noktaları arasında yer almıştır. Antik Çağ'da Bithynia olarak bilinen bu topraklar, Roma ve Bizans dönemlerinde önemli bir merkez olarak kabul edilmiştir.
 
-Ala Dağ gibi doğal alanlar, Türkiye'nin tarih boyunca önemli ticaret yolları üzerinde bulunmaları nedeniyle stratejik öneme sahip olmuştur. Bu bölgeler, insanların yaşamlarını sürdürmek için hayvancılık ve yaylacılıkla uğraştıkları yerler olarak da dikkat çekmiştir. Bu doğal güzellikler, aynı zamanda insanların doğayla iç içe yaşadıkları ve geleneksel yaşam biçimlerini sürdürdükleri alanlardır. 
+Ala Dağ gibi doğal alanlar, Türkiye'nin tarih boyunca önemli ticaret yolları üzerinde bulunmaları nedeniyle stratejik öneme sahip olmuştur. Bu bölgeler, insanların yaşamlarını sürdürmek için hayvancılık ve yaylacılıkla uğraştıkları yerler olarak da dikkat çekmiştir. Bu doğal güzellikler, aynı zamanda insanların doğayla iç içe yaşadıkları ve geleneksel yaşam biçimlerini sürdürdükleri alanlardır.
 
 Kocaeli bölgesinin coğrafi konumu, insanlar arasında kültürel ve ekonomik alışverişin gerçekleştiği bir köprü olarak görev yapmıştır. Ala Dağ ve benzeri doğal alanlar, bu bölgede yaşamın sürmesi ve gelişmesi için önemli bir kaynak olarak kabul edilmiştir. Bu nedenle, bu tür alanların korunması ve gelecek nesiller için yaşatılması büyük bir önem taşımaktadır.
 
@@ -50,7 +50,7 @@ Bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları açısından �
 
 ## Flora ve Fauna
 
-Ala Dağ, Kocaeli'nin gözde doğal güzelliği, geçiş ikliminin etkisiyle karma ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Ala Dağ, Kocaeli'nin gözde doğal güzelliği, geçiş ikliminin etkisiyle karma ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünde, ilkbaharla birlikte çiçeklerin renk cümbüşü başlar. Sonbaharın gelmesiyle, dağ yamaçlarındaki yaprak dökümü, bir renk şölenine dönüşür. Bu mevsimsel dönüşüm, dağda yaşayan canlıları da etkiler. Göçmen kuşlar, sonbaharın gelmesiyle, Ala Dağ'ın üzerinden geçer.
 

@@ -1,7 +1,7 @@
 ---
 title: "Anemurium Merkez Hamamı"
 date: "2026-01-09T23:31:30.804Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739104"
 
 # Anemurium Merkez Hamamı
 
-Anemurium Merkez Hamamı, Mersin'in Anamur ilçesinde yer alan, hem tarihi hem de doğal güzellikleri ile dikkat çeken bir turistik nokta. Bu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Anemurium Merkez Hamamı, ziyaretçilerine hem tarihi bir gezi hem de güzel bir doğa manzarası sunuyor. Anamur'un tarihi geçmişi, bu hamamda da hissediliyor. Ziyaretçiler, hamamın tarihi duvarlarını, mozaiklerini ve tarihi yapılarını yakından inceleyebilir.
+Anemurium Merkez Hamamı, Mersin'in Anamur ilçesinde yer alan, hem tarihi hem de doğal güzellikleri ile dikkat çeken bir turistik nokta. Anemurium Merkez Hamamı, ziyaretçilerine hem tarihi bir gezi hem de güzel bir doğa manzarası sunuyor. Anamur'un tarihi geçmişi, bu hamamda da hissediliyor. Ziyaretçiler, hamamın tarihi duvarlarını, mozaiklerini ve tarihi yapılarını yakından inceleyebilir.
 
 ## Tarihçe
 

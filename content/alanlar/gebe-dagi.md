@@ -28,15 +28,15 @@ wikidata_id: "Q31386340"
 
 # Gebe Dağı
 
-Gebe Dağı, Kilis ilinin güneydoğu kesiminde yer alan bir tepe olarak dikkat çekmektedir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli fiziksel özelliklerinden biridir. Gebe Dağı, çevresi ile birlikte uzun bir mesafelik bir alanı kaplamaktadır. Burada yer alan bitki türleri ve hayvan çeşitliliği, bu bölgenin ekolojik önemini artırmaktadır. Gebe Dağı, Kilis il merkezine uzun bir mesafe uzaklıkta yer alır ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Gebe Dağı, Kilis ilinin güneydoğu kesiminde yer alan bir tepe olarak dikkat çekmektedir. Gebe Dağı, çevresi ile birlikte uzun bir mesafelik bir alanı kaplamaktadır. Burada yer alan bitki türleri ve hayvan çeşitliliği, bu bölgenin ekolojik önemini artırmaktadır. Gebe Dağı, Kilis il merkezine uzun bir mesafe uzaklıkta yer alır ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
-Gebe Dağı'nın tarihi geçmişi, bölgenin genel tarihçesi ile paralellik göstermektedir. Güneydoğu Anadolu Bölgesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu reasonla zengin bir kültürel mirasa sahiptir. Gebe Dağı ve çevresi, bu medeniyetlerin izlerini taşımakta ve bölgenin tarihi önemini artırmaktadır. Tarihi kaynaklara göre, bu bölgeye ilk yerleşimler Neolitik Dönem'de gerçekleşmiş ve bu région, zamanla farklı uygarlıkların etkisi altına girmiştir. Gebe Dağı, bu süreçte önemli bir yerleşim ve ticaret merkezi olarak görev yapmıştır. Tarihi geçmişi, bölgenin doğal güzellikleri ile birleşerek Gebe Dağı'nı önemli bir turizm destinasyonu haline getirmektedir.
+Gebe Dağı'nın tarihi geçmişi, bölgenin genel tarihçesi ile paralellik göstermektedir. Güneydoğu Anadolu Bölgesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu reasonla zengin bir kültürel mirasa sahiptir. Gebe Dağı ve çevresi, bu medeniyetlerin izlerini taşımakta ve bölgenin tarihi önemini artırmaktadır. Tarihi kaynaklara göre, bu bölgeye ilk yerleşimler Neolitik Dönem'de gerçekleşmiş ve bu bölge, zamanla farklı uygarlıkların etkisi altına girmiştir. Gebe Dağı, bu süreçte önemli bir yerleşim ve ticaret merkezi olarak görev yapmıştır. Tarihi geçmişi, bölgenin doğal güzellikleri ile birleşerek Gebe Dağı'nı önemli bir turizm destinasyonu haline getirmektedir.
 
 ## Coğrafya
 
-Gebe Dağı, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bu bölge, genellikle yüksek platolardan oluşmakta ve dağlık alanlar ile çevrilidir. Gebe Dağı, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil etmektedir. Dağın etrafı, çeşitli bitki türleri ile kaplıdır ve bölgenin ekolojik dengesini korumaktadır. İklim olarak, Gebe Dağı ve çevresi, karasal iklimin etkilerini göstermektedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçmektedir. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmekte ve çeşitliliği artırmaktadır. Gebe Dağı, bu coğrafi özellikleriyle birlikte, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekmektedir.
+Gebe Dağı, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bu bölge, genellikle yüksek platolardan oluşmakta ve dağlık alanlar ile çevrilidir. Dağın etrafı, çeşitli bitki türleri ile kaplıdır ve bölgenin ekolojik dengesini korumaktadır. İklim olarak, Gebe Dağı ve çevresi, karasal iklimin etkilerini göstermektedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçmektedir. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmekte ve çeşitliliği artırmaktadır. Gebe Dağı, bu coğrafi özellikleriyle birlikte, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Gebe Dağı, ziyaretçilerini beklemektedir. Buraya ulaşım, Kilis il merkezind
 ## İlginç Bilgiler
 
 - Gebe Dağı, 140 hektarlık bir alanı kaplamaktadır.
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil etmektedir.
+
 - Gebe Dağı, Kilis il merkezine uzun bir mesafe uzaklıkta yer alır.
 - Bölge, ekolojik olarak önemli bir role sahiptir.
 - Gebe Dağı, bölgenin önemli bir su kaynağı olup, çevreyi sulamakta ve bitki örtüsünü desteklemektedir.

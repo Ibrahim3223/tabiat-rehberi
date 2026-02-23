@@ -32,9 +32,9 @@ Antalya'nın büyüleyici manzarasına ev sahipliği yapan Yelek Tepe, ziyaretç
 
 ## Tarihçe
 
-Antalya bölgesinin zengin tarihi, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşır. Likya, Pamfilya ve Roma uygarlıkları, bu bölgeye hükmetmiş ve birbirinden farklı kültürel miraslar bırakmıştır. Bu bölgede yer alan Yelek Tepe, Türkiye'nin doğal güzelliklerinin önemli bir parçasını oluşturur. 
+Antalya bölgesinin zengin tarihi, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşır. Likya, Pamfilya ve Roma uygarlıkları, bu bölgeye hükmetmiş ve birbirinden farklı kültürel miraslar bırakmıştır. Bu bölgede yer alan Yelek Tepe, Türkiye'nin doğal güzelliklerinin önemli bir parçasını oluşturur.
 
-Türkiye'de, tarihin her döneminde, doğal alanlar insan yaşamı için hayati önem taşımıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin insanlarla bağlantılı olmasına neden olmuştur. Antalya bölgesinde de, bu tür doğal alanlar, insanların geçim kaynakları ve kültürel faaliyetleri için önemli merkezler olarak görev görmüştür. 
+Türkiye'de, tarihin her döneminde, doğal alanlar insan yaşamı için hayati önem taşımıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin insanlarla bağlantılı olmasına neden olmuştur. Antalya bölgesinde de, bu tür doğal alanlar, insanların geçim kaynakları ve kültürel faaliyetleri için önemli merkezler olarak görev görmüştür.
 
 Yelek Tepe, bu bölgenin tarihini ve kültürel zenginliğini yansıtan bir doğal güzelliğin temsilcisidir. İnsan yerleşimleri, ticaret yolları ve yaylacılık faaliyetleri, bu bölgenin tarihsel önemini vurgular. Türkiye'nin doğal mirasının bir parçası olan Yelek Tepe, ziyaretçilere tarihin depthsinden gelen bir hikaye sunar.
 
@@ -50,11 +50,11 @@ Mevsimsel değişiklikler, Yelek Tepe'nin iklim karakterini etkiler. Bölge, Akd
 
 ## Flora ve Fauna
 
-Yelek Tepe, Antalya'nın dağlık bölgesinde yer alan bir ekosistemdir. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapar ve kuraklığa dayanıklı türlerle doludur. 
+Yelek Tepe, Antalya'nın dağlık bölgesinde yer alan bir ekosistemdir. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapar ve kuraklığa dayanıklı türlerle doludur.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları renklendir. Mevsimsel değişimlerin etkisiyle, bazı bitkiler sadece belirli dönemlerde görülebilir. Kıyı ekosisteminin yakınında bulunması, bu bölgenin florasını zenginleştirir. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları renklendir. Mevsimsel değişimlerin etkisiyle, bazı bitkiler sadece belirli dönemlerde görülebilir. Kıyı ekosisteminin yakınında bulunması, bu bölgenin florasını zenginleştirir.
 
-Yaban Hayatı olarak, bu dağlık bölgede çeşitli memeliler, kuşlar ve sürüngenler yaşar. Dağ keçileri gibi bazı memeliler, dağların yükseklik zonlarında yaşarken, bazı kuş türleri göç ederken buradan geçer. Sürüngenler ise, genellikle kayalık alanlarda bulunur. 
+Yaban Hayatı olarak, bu dağlık bölgede çeşitli memeliler, kuşlar ve sürüngenler yaşar. Dağ keçileri gibi bazı memeliler, dağların yükseklik zonlarında yaşarken, bazı kuş türleri göç ederken buradan geçer. Sürüngenler ise, genellikle kayalık alanlarda bulunur.
 
 Ekolojik Değer olarak, Yelek Tepe'nin korunması önemlidir. Bu ekosistemin bozulması, birçok canlı türünün yaşam alanını tehdit edebilir. Bu nedenle, bu dağlık bölgenin doğal dengesinin korunmasına dikkat edilmelidir.
 

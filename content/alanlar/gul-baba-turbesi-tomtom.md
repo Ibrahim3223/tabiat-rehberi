@@ -1,7 +1,7 @@
 ---
 title: "Gül Baba Türbesi, Tomtom"
 date: "2026-01-10T05:40:50.369Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q135430367"
 
 # Gül Baba Türbesi, Tomtom
 
-Gül Baba Türbesi, Tomtom, İstanbul'un en önemli tarihi ve kültürel mekanlarından biridir. 140 hektarlık bir alana kurulan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un kalbinde yer alan Gül Baba Türbesi, Tomtom, ziyaretçilerini tarihi ve kültürel zenginliklerle karşılar. Bu mekan, İstanbul'un en çok ziyaret edilen yerlerinden biridir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Gül Baba Türbesi, Tomtom, İstanbul'un tarihini ve kültürünü öğrenmek isteyenler için ideal bir ziyaret noktasıdır.
+Gül Baba Türbesi, Tomtom, İstanbul'un en önemli tarihi ve kültürel mekanlarından biridir. İstanbul'un kalbinde yer alan Gül Baba Türbesi, Tomtom, ziyaretçilerini tarihi ve kültürel zenginliklerle karşılar. Bu mekan, İstanbul'un en çok ziyaret edilen yerlerinden biridir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Gül Baba Türbesi, Tomtom, İstanbul'un tarihini ve kültürünü öğrenmek isteyenler için ideal bir ziyaret noktasıdır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gül Baba Türbesi, Tomtom'un tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Gül Baba Türbesi, Tomtom, İstanbul'un kalbinde yer alan bir mekanidir. Bu mekan, Beyoğlu ilçesinde, Tomtom semtinde yer alır. Gül Baba Türbesi, Tomtom, Marmara Bölgesi'nde yer alan bir ziyaret noktasıdır. Bu mekan, 140 hektarlık bir alana kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Gül Baba Türbesi, Tomtom, İstanbul'un en önemli ziyaret noktalarından biridir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Bu mekan, İstanbul'un tarihini ve kültürünü öğrenmek isteyenler için ideal bir ziyaret noktasıdır. Gül Baba Türbesi, Tomtom, ziyaretçilerine İstanbul'un güzelliğini ve zenginliğini sunar. Bu mekan, İstanbul'un en çok ziyaret edilen yerlerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+Gül Baba Türbesi, Tomtom, İstanbul'un kalbinde yer alan bir mekanidir. Bu mekan, Beyoğlu ilçesinde, Tomtom semtinde yer alır. Gül Baba Türbesi, Tomtom, Marmara Bölgesi'nde yer alan bir ziyaret noktasıdır. Gül Baba Türbesi, Tomtom, İstanbul'un en önemli ziyaret noktalarından biridir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Bu mekan, İstanbul'un tarihini ve kültürünü öğrenmek isteyenler için ideal bir ziyaret noktasıdır. Gül Baba Türbesi, Tomtom, ziyaretçilerine İstanbul'un güzelliğini ve zenginliğini sunar. Bu mekan, İstanbul'un en çok ziyaret edilen yerlerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Gül Baba Türbesi, Tomtom, ziyaretçilerine birçok imkan sunar. Bu mekan, İst
 
 - Gül Baba Türbesi, Tomtom, İstanbul'un en önemli tarihi ve kültürel mekanlarından biridir.
 - Bu mekan, 140 hektarlık bir alana kurulmuştur.
-- Gül Baba Türbesi, Tomtom, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Bu mekan, İstanbul'un en çok ziyaret edilen yerlerinden biridir.
 - Gül Baba Türbesi, Tomtom, her yıl binlerce ziyaretçi tarafından keşfedilir.

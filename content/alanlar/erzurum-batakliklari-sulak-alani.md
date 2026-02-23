@@ -22,7 +22,7 @@ wikidata_id: "Q108229022"
 
 # Erzurum Bataklıkları Sulak Alanı
 
-Erzurum Bataklıkları Sulak Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Sulak alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada birçok farklı türün bir arada yaşadığı görülüyor. Bu doğal güzelliği korumak için Necessary önlemler alınıyor. Alan, ziyaretçilere açık ve doğa severler için önemli bir destinasyon.
+Erzurum Bataklıkları Sulak Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor. Sulak alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada birçok farklı türün bir arada yaşadığı görülüyor. Bu doğal güzelliği korumak için Necessary önlemler alınıyor. Alan, ziyaretçilere açık ve doğa severler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Erzurum Bataklıkları Sulak Alanı, ziyaretçilere açık ve doğa severler iç
 ## İlginç Bilgiler
 
 - Sulak alanın 140 hektarlık geniş bir alanı kapsıyor.
-- Alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Erzurum Bataklıkları Sulak Alanı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Sulak alan, yüzyıllar boyunca birçok farklı kültürün etkilerini taşımış.
 - Alanın coğrafi konumu, birçok farklı türün bir arada yaşamasına olanak tanıyor.

@@ -22,7 +22,7 @@ wikidata_id: "Q108227488"
 
 # Bolu-Mengen-Daren Karacam 1
 
-Bolu-Mengen-Daren Karacam 1 milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Bolu'nun Mengen ilçesinde yer alır. Bu milli park, doğa severlerin gözdesi olarak kabul edilir ve her yıl binlerce ziyaretçi ağırlar. Ziyaretçiler, burada yer alan çeşitli bitki türleri ve zengin faunayı keşfedebilirler. Ayrıca, milli parkın içerisinde yer alan yürüyüş parkurları, ziyaretçilerin doğayı daha yakından tanımasına olanak sağlar.
+Bolu-Mengen-Daren Karacam 1 milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Bu milli park, doğa severlerin gözdesi olarak kabul edilir ve her yıl binlerce ziyaretçi ağırlar. Ziyaretçiler, burada yer alan çeşitli bitki türleri ve zengin faunayı keşfedebilirler. Ayrıca, milli parkın içerisinde yer alan yürüyüş parkurları, ziyaretçilerin doğayı daha yakından tanımasına olanak sağlar.
 
 ## Tarihçe
 

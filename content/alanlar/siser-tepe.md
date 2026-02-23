@@ -29,7 +29,7 @@ wikidata_id: "Q31385444"
 
 # Şişer Tepe
 
-Şişer Tepe, Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Şişer Tepe, coğrafi konumu itibariyle önemli bir nokta olarak kabul ediliyor. Doğal güzellikleri ve coğrafi yapısı ile dikkat çeken bu tepe, ziyaretçilerin ilgisini çekiyor. Şişer Tepe, Bitlis ilinin önemli doğal güzelliklerinden biri olarak bilinir ve bu bölge, coğrafi çeşitliliği ile dikkat çekiyor.
+Şişer Tepe, Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alan bir tepe olarak dikkat çekiyor. Şişer Tepe, coğrafi konumu itibariyle önemli bir nokta olarak kabul ediliyor. Doğal güzellikleri ve coğrafi yapısı ile dikkat çeken bu tepe, ziyaretçilerin ilgisini çekiyor. Şişer Tepe, Bitlis ilinin önemli doğal güzelliklerinden biri olarak bilinir ve bu bölge, coğrafi çeşitliliği ile dikkat çekiyor.
 
 ## Tarihçe
 

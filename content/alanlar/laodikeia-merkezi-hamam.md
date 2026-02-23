@@ -1,7 +1,7 @@
 ---
 title: "Laodikeia Merkezi Hamam"
 date: "2026-01-09T23:05:44.784Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738925"
 
 # Laodikeia Merkezi Hamam
 
-Laodikeia Merkezi Hamam, Ege Bölgesi'nin Pamukkale/Denizli ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki doğal güzelliklerle birlikte ziyaretçilere geniş bir gezi alanı sunmaktadır. Bu bölge, tarihi Laodikeia antik kentinin kalbinde yer almakta ve ziyaretçilere antik dönemlerin ihtişamını gözler önüne sermektedir. Laodikeia Merkezi Hamam, tarih ve doğa severler için bir cennet niteliğindedir.
+Laodikeia Merkezi Hamam, Ege Bölgesi'nin Pamukkale/Denizli ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir destinasyondur. Bu bölge, tarihi Laodikeia antik kentinin kalbinde yer almakta ve ziyaretçilere antik dönemlerin ihtişamını gözler önüne sermektedir. Laodikeia Merkezi Hamam, tarih ve doğa severler için bir cennet niteliğindedir.
 
 ## Tarihçe
 

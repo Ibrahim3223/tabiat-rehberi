@@ -28,7 +28,7 @@ wikidata_id: "Q31386440"
 
 # Şıhmehmet Tepesi
 
-Şıhmehmet Tepesi, Kilis'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Güneydoğu Anadolu Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Şıhmehmet Tepesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle büyülüyor. Bu tepe, bölgenin coğrafi özelliklerini ve tarihi geçmişini keşfetmek isteyenler için mükemmel bir seçim.
+Şıhmehmet Tepesi, Kilis'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şıhmehmet Tepesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle büyülüyor. Bu tepe, bölgenin coğrafi özelliklerini ve tarihi geçmişini keşfetmek isteyenler için mükemmel bir seçim.
 
 ## Tarihçe
 

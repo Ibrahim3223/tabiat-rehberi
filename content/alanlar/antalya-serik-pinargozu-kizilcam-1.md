@@ -22,7 +22,7 @@ wikidata_id: "Q108227306"
 
 # Antalya-Serik-Pinargozu Kızılçam 1
 
-Antalya-Serik-Pinargozu Kızılçam 1 milli parkı, Antalya'nın güneşli ve yeşillik bir bölgesinde, 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreye uyum sağlayan bir yapıya sahiptir. Milli parkın establishment amacı, yaban hayatı ve doğayı korumak, aynı zamanda insanların doğayla iç içe bir şekilde vakit geçirmesini sağlamaktır. Bu milli park, hem doğa severler hem de aileler için keyifli bir gezi noktası olarak hizmet vermektedir.
+Antalya-Serik-Pinargozu Kızılçam 1 milli parkı, Antalya'nın güneşli ve yeşillik bir bölgesinde, 140 hektarlık bir alan üzerinde kurulmuştur. Milli parkın establishment amacı, yaban hayatı ve doğayı korumak, aynı zamanda insanların doğayla iç içe bir şekilde vakit geçirmesini sağlamaktır. Bu milli park, hem doğa severler hem de aileler için keyifli bir gezi noktası olarak hizmet vermektedir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Eski Hamam, Kemalpaşa"
 date: "2026-01-10T00:04:25.219Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245837"
 
 # Eski Hamam, Kemalpaşa
 
-Eski Hamam, Kemalpaşa, İzmir'in en güzel plajlarından biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en çok tercih edilen tatil noktalarından biri. Bu güzel plaj, denizin maviliği ve güneşin sıcaklığını bir araya getirerek, ziyaretçilerine unutulmaz bir deneyim sunuyor. Eski Hamam, plaj severlerin ve doğaşığıların gözdesi haline gelmiş durumda. Burada, deniz suyu ve kumuyla birlikte, güneşin tadını çıkarma mümkün. Ayrıca, plajın yakınında bulunan tarihi ve doğal güzellikler, ziyaretçilerin ilgisini çekiyor.
+Eski Hamam, Kemalpaşa, İzmir'in en güzel plajlarından biri olarak dikkat çekiyor. Eski Hamam, plaj severlerin ve doğaşığıların gözdesi haline gelmiş durumda. Burada, deniz suyu ve kumuyla birlikte, güneşin tadını çıkarma mümkün. Ayrıca, plajın yakınında bulunan tarihi ve doğal güzellikler, ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 

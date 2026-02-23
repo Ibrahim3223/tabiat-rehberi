@@ -32,7 +32,7 @@ Mardin'in tarihi dokusu içinde yer alan Torbalı Tepe, ilin doğal güzellikler
 
 ## Tarihçe
 
-Mardin'in zengin tarihi, Torbalı Tepe'nin eteklerine kadar uzanır. Bu bölge, tarihin sâu sayfalarında yer alan uygarlıkların izlerini taşır. Hitit, Asur, Pers ve Roma gibi medeniyetler, Mardin'in topraklarında hüküm sürmüş, her biri bölgenin kültürel dokusuna katkıda bulunmuştur. Torbalı Tepe, bu tarihsel sürecin bir parçası olarak, doğal güzelliği ve stratejik konumuyla önem kazanmıştır.
+Mardin'in zengin tarihi, Torbalı Tepe'nin eteklerine kadar uzanır. Bu bölge, tarihin derin sayfalarında yer alan uygarlıkların izlerini taşır. Hitit, Asur, Pers ve Roma gibi medeniyetler, Mardin'in topraklarında hüküm sürmüş, her biri bölgenin kültürel dokusuna katkıda bulunmuştur. Torbalı Tepe, bu tarihsel sürecin bir parçası olarak, doğal güzelliği ve stratejik konumuyla önem kazanmıştır.
 
 Türkiye'de, Torbalı Tepe gibi doğal alanlar, tarihsel olarak insanların yaşamı için hayati önem taşımıştır. Bu alanlar, yaylacılık ve hayvancılık faaliyetleri için elverişli ortamlar sunmuş, aynı zamanda ticaret yolları üzerinde bulunarak bölgeye canlılık katmıştır. İnsanların bu doğal alanlarla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Bu nedenle, Torbalı Tepe, Mardin'in tarihi ve kültürel mirasının bir parçasıdır.
 

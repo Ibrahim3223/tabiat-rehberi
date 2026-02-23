@@ -28,7 +28,7 @@ wikidata_id: "Q34872989"
 
 # Güliyad Tepesi
 
-Güliyad Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği önemli bir noktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en yüksek noktalarından biridir. Tepenin eteklerinde yer alan tarihi yapılar, bölgenin zengin tarihini yansıtmaktadır. Güliyad Tepesi, aynı zamanda doğa severlerin de ilgi odağıdır. Tepenin etrafında yer alan çeşitli bitki türleri ve fauna, ziyaretçilere doğanın güzelliğini sunmaktadır. Mardin'in merkezine yakın konumuyla, Güliyad Tepesi hem yerli hem de yabancı turistlerin ziyaret ettiği bir destinasyondur.
+Güliyad Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği önemli bir noktadır. Tepenin eteklerinde yer alan tarihi yapılar, bölgenin zengin tarihini yansıtmaktadır. Güliyad Tepesi, aynı zamanda doğa severlerin de ilgi odağıdır. Tepenin etrafında yer alan çeşitli bitki türleri ve fauna, ziyaretçilere doğanın güzelliğini sunmaktadır. Mardin'in merkezine yakın konumuyla, Güliyad Tepesi hem yerli hem de yabancı turistlerin ziyaret ettiği bir destinasyondur.
 
 ## Tarihçe
 

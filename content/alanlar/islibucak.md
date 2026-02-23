@@ -22,7 +22,7 @@ wikidata_id: "Q108228127"
 
 # İslibucak
 
-İslibucak, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleriyle dikkat çeken bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya hazırdır. Bu bölge, yaban hayatının zenginliği ve çeşitli bitki türleriyle ziyaretçilerini sürükleyen bir hikayeye sahiptir. İslibucak, doğaseverlerin ve gezi severlerin keşfetmeye değer bir destinasyondur.
+İslibucak, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleriyle dikkat çeken bir milli parktır. Bu bölge, yaban hayatının zenginliği ve çeşitli bitki türleriyle ziyaretçilerini sürükleyen bir hikayeye sahiptir. İslibucak, doğaseverlerin ve gezi severlerin keşfetmeye değer bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108228127"
 
 ## Coğrafya
 
-İslibucak, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli toprak türleri ve iklim koşullarıyla karakterizedir. Bu bölge, farklı mevsimlerde çeşitli bitki türlerini barındırır ve yaban hayatı açısından zengindir. İslibucak'ın coğrafi konumu, ziyaretçilerine geniş bir panorama sunar ve doğal güzelliği ile baş başa bırakır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi özellikleri itibariyle ziyaretçilerini etkileyen bir deneyim sunar. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal iklim özellikleri taşır.
+İslibucak, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli toprak türleri ve iklim koşullarıyla karakterizedir. Bu bölge, farklı mevsimlerde çeşitli bitki türlerini barındırır ve yaban hayatı açısından zengindir. İslibucak'ın coğrafi konumu, ziyaretçilerine geniş bir panorama sunar ve doğal güzelliği ile baş başa bırakır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak, karasal iklim özellikleri taşır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ wikidata_id: "Q108228127"
 ## İlginç Bilgiler
 
 - İslibucak, İç Anadolu Bölgesi'nde yer alan bir milli parktır.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bu bölge, flora ve fauna açısından zengindir.
 - İslibucak, doğaseverler ve gezi severler için unutulmaz bir deneyimi sunar.
 - Bu bölgenin coğrafi konumu, ziyaretçilerine geniş bir panorama sunar.

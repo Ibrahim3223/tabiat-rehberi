@@ -28,7 +28,7 @@ wikidata_id: "Q31389944"
 
 # Aliocağı Tepe
 
-Aliocağı Tepe, Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biridir. Gaziantep iline bağlı olarak bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahip. Doğa severlerin ziyaret ettiği bir nokta olan Aliocağı Tepe, çevre düzenlemesiyle de dikkat çekiyor. Tepeye çıkan ziyaretçiler, bölgenin güzelliğini ve panoramik manzarasını izleme fırsatı buluyor. Aliocağı Tepe, hem doğa severler hem de tarih meraklıları için önemli bir gezi noktası olarak kabul ediliyor.
+Aliocağı Tepe, Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biridir. Gaziantep iline bağlı olarak bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Doğa severlerin ziyaret ettiği bir nokta olan Aliocağı Tepe, çevre düzenlemesiyle de dikkat çekiyor. Tepeye çıkan ziyaretçiler, bölgenin güzelliğini ve panoramik manzarasını izleme fırsatı buluyor. Aliocağı Tepe, hem doğa severler hem de tarih meraklıları için önemli bir gezi noktası olarak kabul ediliyor.
 
 ## Tarihçe
 

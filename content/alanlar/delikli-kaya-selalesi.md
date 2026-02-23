@@ -23,7 +23,7 @@ wikidata_id: "Q97207563"
 
 # Delikli Kaya Şelalesi
 
-Delikli Kaya Şelalesi, Artvin'in Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet içinde yer alıyor. Şelalenin çevresindeki ormanlık alan, çeşitli bitki türleri ve zengin fauna ile süslü bir peyzaj sunuyor. Delikli Kaya Şelalesi, ziyaretçilerini city hayatının stresinden uzaklaştırmak için ideal bir kaçış noktası olarak hizmet veriyor.
+Delikli Kaya Şelalesi, Artvin'in Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. Şelalenin çevresindeki ormanlık alan, çeşitli bitki türleri ve zengin fauna ile süslü bir peyzaj sunuyor. Delikli Kaya Şelalesi, ziyaretçilerini city hayatının stresinden uzaklaştırmak için ideal bir kaçış noktası olarak hizmet veriyor.
 
 ## Tarihçe
 

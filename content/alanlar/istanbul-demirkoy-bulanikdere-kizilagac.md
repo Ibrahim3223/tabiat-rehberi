@@ -22,7 +22,7 @@ wikidata_id: "Q108227750"
 
 # Istanbul-Demirkoy-Bulanıkdere Kizilagac
 
-Istanbul-Demirkoy-Bulanıkdere Kizilagac milli parkı, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir doğal alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılayacak bir ortam sunuyor. Bu milli park, zengin florası ve faunası ile birlikte, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Istanbul-Demirkoy-Bulanıkdere Kizilagac milli parkı, aynı zamanda tarihi geçmişi ve kültürel önemi ile de dikkat çekiyor. Bu doğal alan, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmış ve birçok önemli olaya şahitlik etmiş.
+Istanbul-Demirkoy-Bulanıkdere Kizilagac milli parkı, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir doğal alan olarak dikkat çekiyor. Bu milli park, zengin florası ve faunası ile birlikte, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Istanbul-Demirkoy-Bulanıkdere Kizilagac milli parkı, aynı zamanda tarihi geçmişi ve kültürel önemi ile de dikkat çekiyor. Bu doğal alan, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmış ve birçok önemli olaya şahitlik etmiş.
 
 ## Tarihçe
 

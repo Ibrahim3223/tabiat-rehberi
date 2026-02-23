@@ -1,7 +1,7 @@
 ---
 title: "Ulukışla Öküz Mehmet Paşa Hamamı Niğde"
 date: "2026-01-09T22:35:17.129Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Niğde"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738686"
 
 # Ulukışla Öküz Mehmet Paşa Hamamı Niğde
 
-Ulukışla Öküz Mehmet Paşa Hamamı Niğde, İç Anadolu Bölgesi'nin önemli kültürel miraslarından biridir. 140 hektarlık bir alan üzerine kurulmuş olan hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tarihi yapı, bölgenin zengin tarihini ve mimari özelliklerini yansıtan önemli bir gezi noktasıdır. Hamamın etrafında bulunan tarihi evler ve yapılar, ziyaretçilere bir zaman yolculuğu fırsatı sunar. Her yıl birçok turisti ağırlayan bu mekan, Niğde'nin turizm potansiyelini ortaya koyar.
+Ulukışla Öküz Mehmet Paşa Hamamı Niğde, İç Anadolu Bölgesi'nin önemli kültürel miraslarından biridir. Bu tarihi yapı, bölgenin zengin tarihini ve mimari özelliklerini yansıtan önemli bir gezi noktasıdır. Hamamın etrafında bulunan tarihi evler ve yapılar, ziyaretçilere bir zaman yolculuğu fırsatı sunar. Her yıl birçok turisti ağırlayan bu mekan, Niğde'nin turizm potansiyelini ortaya koyar.
 
 ## Tarihçe
 

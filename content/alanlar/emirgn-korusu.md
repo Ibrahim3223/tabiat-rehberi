@@ -52,9 +52,9 @@ Emirgân Korusu, çevresindeki diğer doğal alanlarla bağlantılı bir ekosist
 
 Emirgân Korusu, 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu botanik bahçesi, step bitki örtüsüne ev sahipliği yapıyor ve kuraklığa adapte türlerle dolu.
 
-İlkbaharda, koru rengarenk çiçeklerle donanıyor. Bozkırın karakteristik bitkileri, gibi otsu türler ve çalılar, mevsimsel değişimlere uyum sağlıyorlar. Sonbaharda, göç eden kuşlar koruyu ziyaret ediyor ve burada konaklıyorlar. 
+İlkbaharda, koru rengarenk çiçeklerle donanıyor. Bozkırın karakteristik bitkileri, gibi otsu türler ve çalılar, mevsimsel değişimlere uyum sağlıyorlar. Sonbaharda, göç eden kuşlar koruyu ziyaret ediyor ve burada konaklıyorlar.
 
-Koru, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunuyor. Bu ekosistemin önemli bir parçası, bitkilerin ve hayvanların birbirine bağımlı olması. Örneğin, bazı bitkiler, belirli kuş türlerinin beslenmesi için gerekli tohumları üretiyor. 
+Koru, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunuyor. Bu ekosistemin önemli bir parçası, bitkilerin ve hayvanların birbirine bağımlı olması. Örneğin, bazı bitkiler, belirli kuş türlerinin beslenmesi için gerekli tohumları üretiyor.
 
 Emirgân Korusu'nun ekolojik değeri, İstanbul'un doğal alanlarının korunması açısından büyük önem taşıyor. Bu alan, şehir içinde bir nefes alma bölgesi olarak işlev görüyor ve doğa severler için bir çekim merkezi oluşturuyor.
 

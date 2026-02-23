@@ -28,7 +28,7 @@ wikidata_id: "Q31389432"
 
 # Kocakuz Tepe
 
-Kocakuz Tepe, Güneydoğu Anadolu Bölgesi'nin zengin tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. Gaziantep ilinin önemli ziyaret noktalarından biri olan bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Kocakuz Tepe'nin konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Bu tepe, bölgenin coğrafi ve kültürel özelliklerini yansıtması bakımından önemli bir değer taşır.
+Kocakuz Tepe, Güneydoğu Anadolu Bölgesi'nin zengin tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. Kocakuz Tepe'nin konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Bu tepe, bölgenin coğrafi ve kültürel özelliklerini yansıtması bakımından önemli bir değer taşır.
 
 ## Tarihçe
 

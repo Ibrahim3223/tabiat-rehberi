@@ -28,7 +28,7 @@ wikidata_id: "Q31386856"
 
 # Berhagulik Tepe
 
-Berhagulik Tepe, Güneydoğu Anadolu Bölgesi'nde yer alan Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir yer. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Berhagulik Tepe, Mardin'in merkezi ile arasındaki uzun bir mesafelik mesafe, ziyaretçilerin kolayca ulaşabileceği bir konumda bulunuyor. Bu tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor ve Mardin'in önemli ziyaret noktalarından biri olarak kabul ediliyor.
+Berhagulik Tepe, Güneydoğu Anadolu Bölgesi'nde yer alan Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir yer. Berhagulik Tepe, Mardin'in merkezi ile arasındaki uzun bir mesafelik mesafe, ziyaretçilerin kolayca ulaşabileceği bir konumda bulunuyor. Bu tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor ve Mardin'in önemli ziyaret noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Berhagulik Tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapm�
 
 ## Coğrafya
 
-Berhagulik Tepe, Mardin'in coğrafi yapısını yansıtan bir yer. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu tepe, Mardin'in merkezi ile arasındaki uzun bir mesafelik mesafe, ziyaretçilerin kolayca ulaşabileceği bir konumda bulunuyor. Berhagulik Tepe, Mardin'in coğrafi yapısını yansıtan bir yer ve ziyaretçilerine, Mardin'in doğal güzelliklerini sunuyor. Bu tepe, Mardin'in iklimini de yansıtan bir yer ve ziyaretçileri, Mardin'in dört mevsimlik iklimini deneyimleyebilecekleri bir yer.
+Berhagulik Tepe, Mardin'in coğrafi yapısını yansıtan bir yer. Bu tepe, Mardin'in merkezi ile arasındaki uzun bir mesafelik mesafe, ziyaretçilerin kolayca ulaşabileceği bir konumda bulunuyor. Berhagulik Tepe, Mardin'in coğrafi yapısını yansıtan bir yer ve ziyaretçilerine, Mardin'in doğal güzelliklerini sunuyor. Bu tepe, Mardin'in iklimini de yansıtan bir yer ve ziyaretçileri, Mardin'in dört mevsimlik iklimini deneyimleyebilecekleri bir yer.
 
 ## Flora ve Fauna
 

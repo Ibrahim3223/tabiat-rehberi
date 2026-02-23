@@ -28,7 +28,7 @@ wikidata_id: "Q31385492"
 
 # Sancak Tepesi
 
-Sancak Tepesi, Elazığ şehrinin merkezinde yer alan ve şehrin panoramik manzarasını sunan bir tepe olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Sancak Tepesi, şehrin önemli bir noktası olup, ziyaretçilerin şehri keşfetmesine olanak tanır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Sancak Tepesi, Elazığ'ın önemli bir turizm merkezidir.
+Sancak Tepesi, Elazığ şehrinin merkezinde yer alan ve şehrin panoramik manzarasını sunan bir tepe olarak bilinir. Sancak Tepesi, şehrin önemli bir noktası olup, ziyaretçilerin şehri keşfetmesine olanak tanır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Sancak Tepesi, Elazığ'ın önemli bir turizm merkezidir.
 
 ## Tarihçe
 

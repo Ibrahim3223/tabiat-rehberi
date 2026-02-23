@@ -1,7 +1,7 @@
 ---
 title: "Daday Hamamı"
 date: "2026-01-09T23:53:12.962Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739219"
 
 # Daday Hamamı
 
-Daday Hamamı, Kastamonu'nun Daday ilçesinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en çok ziyaret edilen yerlerinden biridir. Daday Hamamı, doğa severlerin ve tatil yapmak isteyenlerin gözdesi haline gelmiştir. Bu bölge, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir.
+Daday Hamamı, Kastamonu'nun Daday ilçesinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. Daday Hamamı, doğa severlerin ve tatil yapmak isteyenlerin gözdesi haline gelmiştir. Bu bölge, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Daday Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu b�
 
 ## Coğrafya
 
-Daday Hamamı, Kastamonu'nun Daday ilçesinde, Karadeniz Bölgesi'nin kıyı şeridinde yer almaktadır. Bu plaj, bölgenin en güzel ve en çok ziyaret edilen yerlerinden biridir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz'in güzel kıyı şeridini oluşturmaktadır. Daday Hamamı'nın coğrafi konumu, Karadeniz Bölgesi'nin iklimi ve doğal güzelliklerini yansıtmaktadır. Bu bölge, hem doğa severler hem de tatil yapmak isteyenler için ideal bir yerdir. Daday Hamamı'nın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu plaj, Karadeniz Bölgesi'nin doğal güzelliklerini ve coğrafi özelliklerini gözler önüne sermektedir.
+Daday Hamamı, Kastamonu'nun Daday ilçesinde, Karadeniz Bölgesi'nin kıyı şeridinde yer almaktadır. Bu plaj, bölgenin en güzel ve en çok ziyaret edilen yerlerinden biridir. Daday Hamamı'nın coğrafi konumu, Karadeniz Bölgesi'nin iklimi ve doğal güzelliklerini yansıtmaktadır. Bu bölge, hem doğa severler hem de tatil yapmak isteyenler için ideal bir yerdir. Daday Hamamı'nın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu plaj, Karadeniz Bölgesi'nin doğal güzelliklerini ve coğrafi özelliklerini gözler önüne sermektedir.
 
 ## Flora ve Fauna
 

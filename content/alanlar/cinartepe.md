@@ -50,7 +50,7 @@ Mevsimsel açıdan, Çınartepe ve çevresi, Karadeniz Bölgesi'nin tipik iklim 
 
 ## Flora ve Fauna
 
-Çınartepe Dağı, step bitki örtüsünün hakim olduğu bir bölge olup, bozkır ve kuraklığa adapte türlerle dolu bir dağ ekosistemidir. 
+Çınartepe Dağı, step bitki örtüsünün hakim olduğu bir bölge olup, bozkır ve kuraklığa adapte türlerle dolu bir dağ ekosistemidir.
 
 Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çeşitli çiçekler açar, sonbaharda ise yaprak döken ağaçlar sarı, turuncu ve kırmızının tonlarıyla dağ manzarasını renklendirir. Yükseklik zonlarına bağlı olarak, alpin flora da görülebilir.
 

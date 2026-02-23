@@ -49,11 +49,11 @@ Derebucak Çamlık Mağaraları, etrafındaki orman ekosistemiyle bağlantılı 
 
 ## Flora ve Fauna
 
-Derebucak Çamlık Mağaraları jeoparkı, step bitki örtüsüne ve bozkır ekosistemine ev sahipliği yapan benzersiz bir bölgedir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Derebucak Çamlık Mağaraları jeoparkı, step bitki örtüsüne ve bozkır ekosistemine ev sahipliği yapan benzersiz bir bölgedir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, bölgede hakim türler olarak kuraklığa adapte edilmiş çalı ve otların yanı sıra, ilkbaharın gelmesiyle birlikte rengarenk çiçekler açar. Bu çiçekler, arılar ve kelebekler için önemli bir besin kaynağı oluşturur. 
+Bitki Örtüsü olarak, bölgede hakim türler olarak kuraklığa adapte edilmiş çalı ve otların yanı sıra, ilkbaharın gelmesiyle birlikte rengarenk çiçekler açar. Bu çiçekler, arılar ve kelebekler için önemli bir besin kaynağı oluşturur.
 
-Yaban Hayatı açısından, bölgede çeşitli memeliler, kuşlar ve sürüngenler bulunur. Bu canlılar, bölgenin ekosistemini oluşturan önemli parçalardır. Örneğin, bazı memeliler, bölgedeki bitkileri tüketerek beslenirken, kuşlar ve sürüngenler ise bu memelileri avlayarak dengenin korunmasına katkıda bulunurlar. 
+Yaban Hayatı açısından, bölgede çeşitli memeliler, kuşlar ve sürüngenler bulunur. Bu canlılar, bölgenin ekosistemini oluşturan önemli parçalardır. Örneğin, bazı memeliler, bölgedeki bitkileri tüketerek beslenirken, kuşlar ve sürüngenler ise bu memelileri avlayarak dengenin korunmasına katkıda bulunurlar.
 
 Ekolojik Değer olarak, bu jeopark, bölge için önemli bir ekosistemdir. Bu ekosistemin korunması, bölgedeki canlıların yaşamını devam ettirmesi açısından önemlidir.
 

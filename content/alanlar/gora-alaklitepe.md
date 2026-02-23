@@ -28,7 +28,7 @@ wikidata_id: "Q31385371"
 
 # Gora Alaklıtepe
 
-Gora Alaklıtepe, İç Anadolu Bölgesi'nin gizli bir incisi gibi görünüyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir tepe ile çevrilidir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir manzara sunuyor. Gora Alaklıtepe, doğa severler için bir cennet gibi görünüyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Birçok ziyaretçi, bu bölgeyi keşfetmek için gelir ve doğanın güzelliğini deneyimleme fırsatı bulur.
+Gora Alaklıtepe, İç Anadolu Bölgesi'nin gizli bir incisi gibi görünüyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir tepe ile çevrilidir. Gora Alaklıtepe, doğa severler için bir cennet gibi görünüyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Birçok ziyaretçi, bu bölgeyi keşfetmek için gelir ve doğanın güzelliğini deneyimleme fırsatı bulur.
 
 ## Tarihçe
 

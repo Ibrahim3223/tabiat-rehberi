@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Sadi Türbesi"
 date: "2026-01-10T06:11:16.000Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390655"
 
 # Şeyh Sadi Türbesi
 
-Şeyh Sadi Türbesi, Amasya'nın tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en güzel manzaralarından birini sunuyor. Bu tarihi mekan, dini ve turistik açıdan büyük önem taşıyor. Şeyh Sadi Türbesi'ni ziyaret ettiğinizde, hem tarihi hem de doğal güzellikleri keşfetme fırsatı bulacaksınız. Amasya'nın merkezinde yer alan bu türbe, şehirdeki önemli dini merkezlerden biri.
+Şeyh Sadi Türbesi, Amasya'nın tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta. Bu tarihi mekan, dini ve turistik açıdan büyük önem taşıyor. Şeyh Sadi Türbesi'ni ziyaret ettiğinizde, hem tarihi hem de doğal güzellikleri keşfetme fırsatı bulacaksınız. Amasya'nın merkezinde yer alan bu türbe, şehirdeki önemli dini merkezlerden biri.
 
 ## Tarihçe
 
@@ -37,15 +37,15 @@ wikidata_id: "Q131390655"
 
 ## Coğrafya
 
-Şeyh Sadi Türbesi, Amasya'nın merkezi bir noktasında yer alıyor. Karadeniz Bölgesi'nin coğrafi özellikleri, bu bölgede kendini gösteriyor. Yeşil dağlar, derin vadiler ve zengin bitki örtüsü, türbenin etrafını süslüyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgenin en güzel manzaralarından birini sunuyor. Türbe, deniz seviyesinden yüksek bir konumda yer alıyor ve Karadeniz'in güzel manzarasını seyretme mümkün. Amasya'nın iklimi, Karadeniz iklimi özellikleri gösteriyor. Yağışlı ve nemli bir hava, bu bölgenin karakteristik özelliklerinden biri. Şeyh Sadi Türbesi, bu coğrafi özellikler içinde, önemli bir dini ve turistik merkez olarak dikkat çekiyor.
+Şeyh Sadi Türbesi, Amasya'nın merkezi bir noktasında yer alıyor. Karadeniz Bölgesi'nin coğrafi özellikleri, bu bölgede kendini gösteriyor. Yeşil dağlar, derin vadiler ve zengin bitki örtüsü, türbenin etrafını süslüyor. Türbe, deniz seviyesinden yüksek bir konumda yer alıyor ve Karadeniz'in güzel manzarasını seyretme mümkün. Amasya'nın iklimi, Karadeniz iklimi özellikleri gösteriyor. Yağışlı ve nemli bir hava, bu bölgenin karakteristik özelliklerinden biri. Şeyh Sadi Türbesi, bu coğrafi özellikler içinde, önemli bir dini ve turistik merkez olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 
-Şeyh Sadi Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölgede, Karadeniz Bölgesi'nin karakteristik bitki türleri bulunmakta. Mevsimsel değişimlere göre, farklı bitkiler ve çiçekler açıyor. İlkbahar ve yaz aylarında, régionun renkli bir görünüm kazandığını görme mümkün. Ayrıca, bu bölgede yaşayan çeşitli hayvan türleri de bulunmakta. Kuşlar, kelebekler ve diğer küçük hayvanlar, türbenin etrafındaki doğada yaşamlarını sürdürüyorlar. Şeyh Sadi Türbesi, doğal güzellikleri ve zengin ekosistemi ile dikkat çekiyor.
+Şeyh Sadi Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölgede, Karadeniz Bölgesi'nin karakteristik bitki türleri bulunmakta. Mevsimsel değişimlere göre, farklı bitkiler ve çiçekler açıyor. İlkbahar ve yaz aylarında, bölgenin renkli bir görünüm kazandığını görme mümkün. Ayrıca, bu bölgede yaşayan çeşitli hayvan türleri de bulunmakta. Kuşlar, kelebekler ve diğer küçük hayvanlar, türbenin etrafındaki doğada yaşamlarını sürdürüyorlar. Şeyh Sadi Türbesi, doğal güzellikleri ve zengin ekosistemi ile dikkat çekiyor.
 
 ## Ziyaret Bilgileri
 
-Şeyh Sadi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Amasya'nın merkezinde yer alan türbeye, toplu taşıma araçları veya özel araçlarla ulaşma mümkün. Türbeyi ziyaret etmek için en uygun zaman, ilkbahar ve yaz ayları. Bu dönemde, régionun güzelliği ve renkli görünümü en çok dikkat çekiyor. Şeyh Sadi Türbesi'ni ziyaret ettiğinizde, tarihi ve dini önemi yüksek olan birçok eser ve kalıntı görebilirsiniz. Ayrıca, çevresindeki doğal güzellikleri keşfetmek için yürüyüş veya trekking yapma fırsatı da bulunmakta.
+Şeyh Sadi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Amasya'nın merkezinde yer alan türbeye, toplu taşıma araçları veya özel araçlarla ulaşma mümkün. Türbeyi ziyaret etmek için en uygun zaman, ilkbahar ve yaz ayları. Bu dönemde, bölgenin güzelliği ve renkli görünümü en çok dikkat çekiyor. Şeyh Sadi Türbesi'ni ziyaret ettiğinizde, tarihi ve dini önemi yüksek olan birçok eser ve kalıntı görebilirsiniz. Ayrıca, çevresindeki doğal güzellikleri keşfetmek için yürüyüş veya trekking yapma fırsatı da bulunmakta.
 
 ## İlginç Bilgiler
 

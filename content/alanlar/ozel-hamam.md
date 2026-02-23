@@ -1,7 +1,7 @@
 ---
 title: "Özel Hamam"
 date: "2026-01-09T23:30:28.125Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739041"
 
 # Özel Hamam
 
-Özel Hamam, Muğla'nın Milas ilçesinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanıyla dikkat çekiyor. Bu alan, ziyaretçilerini doğal güzellikleriyle büyülüyor. Özel Hamam, plaj olarak da kullanılabiliyor ve denize girerek serinleyebileceğiniz bir yer. Yeşil alanın büyüklüğü, ziyaretçilerin doğayla iç içe olmasını sağlıyor. 140 hektarlık bu yeşil alan, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+ Bu alan, ziyaretçilerini doğal güzellikleriyle büyülüyor. Özel Hamam, plaj olarak da kullanılabiliyor ve denize girerek serinleyebileceğiniz bir yer. Yeşil alanın büyüklüğü, ziyaretçilerin doğayla iç içe olmasını sağlıyor. 140 hektarlık bu yeşil alan, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ wikidata_id: "Q131739041"
 
 ## İlginç Bilgiler
 
-- Özel Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Özel Hamam, plaj olarak da kullanılabiliyor ve denize girerek serinleyebileceğiniz bir yer.
 - Özel Hamam, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Özel Hamam, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.

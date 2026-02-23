@@ -1,7 +1,7 @@
 ---
 title: "Bursa Ulu Camii"
 date: "2026-01-10T04:26:35.302Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q32339"
 
 # Bursa Ulu Camii
 
-Bursa Ulu Camii, Marmara Bölgesi'nin en büyük ve en önemli dini yapılarından biri olarak kabul edilir. 1396 yılında yapımına başlanılan ve 1400 yılında tamamlanan cami, yaklaşık 140 hektarlık bir alanı kaplar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bursa'nın kalbinde yer alan Ulu Camii, şehrin en önemli turisti ve dini merkezlerinden biridir. Caminin mimarisi, Osmanlı dönemi mimari özellikleri taşır ve tarihi değerleriyle ziyaretçilerini büyüler.
+Bursa Ulu Camii, Marmara Bölgesi'nin en büyük ve en önemli dini yapılarından biri olarak kabul edilir. 1396 yılında yapımına başlanılan ve 1400 yılında tamamlanan cami, yaklaşık 140 hektarlık bir alanı kaplar. Bursa'nın kalbinde yer alan Ulu Camii, şehrin en önemli turisti ve dini merkezlerinden biridir. Caminin mimarisi, Osmanlı dönemi mimari özellikleri taşır ve tarihi değerleriyle ziyaretçilerini büyüler.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Bursa Ulu Camii, Bursa ilinin merkezi bölgesinde yer alır. Cami, şehrin en ö
 
 ## Flora ve Fauna
 
-Bursa Ulu Camii, zengin bir flora ve fauna çeşitliliğine sahiptir. Cami, çevresindeki yeşillik alanlarla birlikte, çeşitli bitkilerin yetiştiği bir bölge olarak dikkat çeker. Caminin etrafında, histórik çınar ve kestane ağaçları gibi uzun süre önce dikilen ağaçlar bulunur. Bu ağaçlar, caminin tarihi geçmişiyle birlikte, önemli bir doğal miras olarak kabul edilir. Ulu Camii'nin flora ve faunası, mevsimsel değişimlere uygun olarak çeşitlilik gösterir ve ziyaretçilerine yılın her dönemi farklı bir deneyim sunar. Cami, çevresindeki doğal güzellikleriyle birlikte, önemli bir ekolojik değer olarak kabul edilir.
+Bursa Ulu Camii, zengin bir flora ve fauna çeşitliliğine sahiptir. Cami, çevresindeki yeşillik alanlarla birlikte, çeşitli bitkilerin yetiştiği bir bölge olarak dikkat çeker. Caminin etrafında, tarihi çınar ve kestane ağaçları gibi uzun süre önce dikilen ağaçlar bulunur. Bu ağaçlar, caminin tarihi geçmişiyle birlikte, önemli bir doğal miras olarak kabul edilir. Ulu Camii'nin flora ve faunası, mevsimsel değişimlere uygun olarak çeşitlilik gösterir ve ziyaretçilerine yılın her dönemi farklı bir deneyim sunar. Cami, çevresindeki doğal güzellikleriyle birlikte, önemli bir ekolojik değer olarak kabul edilir.
 
 ## Ziyaret Bilgileri
 

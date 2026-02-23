@@ -1,7 +1,7 @@
 ---
 title: "Kızıl Tepe (Aksaray)"
 date: "2026-01-09T01:50:42.395Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Aksaray"
@@ -51,7 +51,7 @@ Jeolojik açıdan bakıldığında, Kızıl Tepe'nin (Aksaray) fiziksel yapısı
 
 ## Flora ve Fauna
 
-Kızıl Tepe, Aksaray'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. İlkbaharla birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Dağ ekosisteminin yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. 
+Kızıl Tepe, Aksaray'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. İlkbaharla birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Dağ ekosisteminin yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker.
 
 Bitki örtüsünün hakim türü, kuraklığa adapte olan step bitkileridir. Mevsimsel değişimlerle birlikte, sonbaharda dağ yamaçlarında göç eden kuşları izleme mümkün. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri, kaya yamaçlarında yaşamlarını sürdürürken, kartallar ve şahinler yüksekliklerden avlarını izler.
 
@@ -66,6 +66,6 @@ Kızıl Tepe'yi ziyaret etmek isteyenler, Aksaray'dan hareket ederek keyifli bir
 - Kızıl Tepe, Aksaray ilinin güneydoğusunda yer alır.
 - Aksaray il merkezine yaklaşık 25 kilometre uzaklıktadır.
 - Kızıl Tepe, Hasan Dağı ile birlikte Aksaray'ın önemli coğrafi oluşumlarından biridir.
-- Bölgede históriki dönemlerde yerleşim olduğu bilinmektedir.
+- Bölgede tarihi dönemlerde yerleşim olduğu bilinmektedir.
 - Kızıl Tepe'nin yüksekliği hakkında spesifik bilgi bulunmamaktadır.
 - Aksaray ilinin toplam yüzölçümü 7.659 kilometrekare, nüfus yoğunluğu ise 2019 verilerine göre 51 kişi/km²'dir.

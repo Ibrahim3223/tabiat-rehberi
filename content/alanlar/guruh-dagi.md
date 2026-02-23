@@ -32,7 +32,7 @@ Kastamonu'nun yeşil doğası, ziyaretçilerini büyüleyici bir yolculuğa çı
 
 ## Tarihçe
 
-Kastamonu bölgesi, tarihin sâu izlerini taşıyan zengin bir coğrafyaya sahiptir. Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların hükümranlığı altında kalan bu bölge, kültürel ve tarihi açıdan önemli bir mirasa sahiptir. Güruh Dağı, bu zengin tarihsel bağlam içinde yer alan bir doğal alan olarak dikkat çeker.
+Kastamonu bölgesi, tarihin derin izlerini taşıyan zengin bir coğrafyaya sahiptir. Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların hükümranlığı altında kalan bu bölge, kültürel ve tarihi açıdan önemli bir mirasa sahiptir. Güruh Dağı, bu zengin tarihsel bağlam içinde yer alan bir doğal alan olarak dikkat çeker.
 
 Türkiye'de tarihi boyunca, doğal alanlar insan yaşamı için hayati önem taşımıştır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu alanların ekonomi ve sosyal açıdan değerini artırmıştır. Kastamonu bölgesinde de benzer şekilde, doğal alanlar insanların yaşamını şekillendirmiş ve ticaret yolları olarak kullanılmıştır.
 
@@ -50,7 +50,7 @@ Jeolojik açıdan bakıldığında, Güruh Dağı'nın fiziksel yapısı hakkın
 
 ## Flora ve Fauna
 
-Güruh Dağı, Kastamonu'nun nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur. 
+Güruh Dağı, Kastamonu'nun nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur.
 
 Bitki örtüsünde, ilkbaharın gelmesiyle birlikte çiçekler açmaya başlar ve dağ yamaçları bir renk cümbüşüne dönüşür. Sonbaharda ise yaprakların renk değiştirmesiyle birlikte, dağ manzarası kırmızılık ve sarılıkla bezlenir. Dağın yüksek kesimlerinde, alpin flora türleri hakimdir ve bu bitkiler, zorlu iklim koşullarına adapte olmuşlardır.
 

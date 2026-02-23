@@ -48,11 +48,11 @@ Bölgenin coğrafi yapısı, Yalama Dağı'nın çevresindeki diğer dağlar ve 
 
 ## Flora ve Fauna
 
-Yalama Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapar. 1200 hektarlık bu dağ ekosistemi, kuraklığa dayanıklı türlerle kaplıdır. İlkbaharın gelmesiyle birlikte, dağ yamacı renkli çiçeklerle donanır. 
+Yalama Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapar. 1200 hektarlık bu dağ ekosistemi, kuraklığa dayanıklı türlerle kaplıdır. İlkbaharın gelmesiyle birlikte, dağ yamacı renkli çiçeklerle donanır.
 
-Bitki örtüsünün hakim olduğu bu alanda, yükseklik zonlarına göre değişen flora çeşitliliği dikkat çeker. Alpin flora, dağların yüksek kesimlerinde bulunur. Dağ hayvanları ise bu bitki örtüsüne bağımlı olarak yaşamlarını sürdürür. 
+Bitki örtüsünün hakim olduğu bu alanda, yükseklik zonlarına göre değişen flora çeşitliliği dikkat çeker. Alpin flora, dağların yüksek kesimlerinde bulunur. Dağ hayvanları ise bu bitki örtüsüne bağımlı olarak yaşamlarını sürdürür.
 
-Yaban hayatı açısından zengin olan Yalama Dağı, memeliler, kuşlar ve sürüngenlerin yaşadığı bir ekosistemdir. Kış aylarında, göç eden kuşlar dağların yüksek kesimlerinde konaklar. Sürüngenler ve memeliler ise dağların kayalık ve ormanlık alanlarında yaşamlarını sürdürür. 
+Yaban hayatı açısından zengin olan Yalama Dağı, memeliler, kuşlar ve sürüngenlerin yaşadığı bir ekosistemdir. Kış aylarında, göç eden kuşlar dağların yüksek kesimlerinde konaklar. Sürüngenler ve memeliler ise dağların kayalık ve ormanlık alanlarında yaşamlarını sürdürür.
 
 Yalama Dağı'nın ekolojik değeri, kıyı ekosisteminin bir parçası olması ve biyolojik çeşitliliğin korunması açısından önemlidir. Bu nedenle, koruma altına alınması gereken bir doğal alandır.
 

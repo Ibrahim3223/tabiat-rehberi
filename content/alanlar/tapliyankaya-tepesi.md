@@ -28,7 +28,7 @@ wikidata_id: "Q31386711"
 
 # Tapliyankaya Tepesi
 
-Tapliyankaya Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal ve tarihi güzelliklerinden biri olarak Diyarbakır'ın merkezinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzellikleri ve tarihi geçmişi ile ziyaretçilerini cezbeden Tapliyankaya Tepesi, bölgenin en önemli turizm noktalarından biri olarak dikkat çekiyor. Tepenin etrafında bitki türleri ve zengin fauna bulunuyor. Ayrıca, tepeye tırmanan ziyaretçiler, şehrin panoramik manzarasını izleme fırsatı buluyor.
+Tapliyankaya Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal ve tarihi güzelliklerinden biri olarak Diyarbakır'ın merkezinde yer alıyor. Doğal güzellikleri ve tarihi geçmişi ile ziyaretçilerini cezbeden Tapliyankaya Tepesi, bölgenin en önemli turizm noktalarından biri olarak dikkat çekiyor. Tepenin etrafında bitki türleri ve zengin fauna bulunuyor. Ayrıca, tepeye tırmanan ziyaretçiler, şehrin panoramik manzarasını izleme fırsatı buluyor.
 
 ## Tarihçe
 

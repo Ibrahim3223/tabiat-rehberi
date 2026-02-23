@@ -28,7 +28,7 @@ wikidata_id: "Q31536491"
 
 # Kaleninbaşı Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Kaleninbaşı Tepesi, Gaziantep'in güzide noktalarından biri. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Kaleninbaşı Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini sunuyor. Tepenin eteklerinde ve çevresinde bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Kaleninbaşı Tepesi, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta.
+Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Kaleninbaşı Tepesi, Gaziantep'in güzide noktalarından biri. Kaleninbaşı Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini sunuyor. Tepenin eteklerinde ve çevresinde bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Kaleninbaşı Tepesi, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta.
 
 ## Tarihçe
 

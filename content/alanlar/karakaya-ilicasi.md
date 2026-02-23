@@ -28,7 +28,7 @@ wikidata_id: "Q49741940"
 
 # Karakaya Ilıcası
 
-Ankara'nın merkezine uzun bir mesafe uzaklıkta bulunan Karakaya Ilıcası, 140 hektarlık bir alanı kaplayan termal bir kaynaktır. Bu doğal güzelliğin etrafında, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunmaktadır. Karakaya Ilıcası, sağlık turizminin önemli merkezlerinden biri olarak bilinir. Sıcak su kaynaklarının yanı sıra, çevre düzenlemesi ile ziyaretçilerine keyifli bir deneyim sunar. İlkbahar ve yaz aylarında, ilica çevresindeki flora zenginleşir ve ziyaretçilere renkli bir manzara sunar.
+Ankara'nın merkezine uzun bir mesafe uzaklıkta bulunan Karakaya Ilıcası, 140 hektarlık bir alanı kaplayan termal bir kaynaktır. Karakaya Ilıcası, sağlık turizminin önemli merkezlerinden biri olarak bilinir. Sıcak su kaynaklarının yanı sıra, çevre düzenlemesi ile ziyaretçilerine keyifli bir deneyim sunar. İlkbahar ve yaz aylarında, ilica çevresindeki flora zenginleşir ve ziyaretçilere renkli bir manzara sunar.
 
 ## Tarihçe
 

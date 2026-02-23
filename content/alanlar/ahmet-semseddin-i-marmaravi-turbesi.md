@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Şemseddin-i Marmaravi Türbesi"
 date: "2026-01-10T07:12:36.620Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390916"
 
 # Ahmet Şemseddin-i Marmaravi Türbesi
 
-Ahmet Şemseddin-i Marmaravi Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi türbedir. Bu türbe, aynı zamanda bir plaj olarak da hizmet vermektedir. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Ahmet Şemseddin-i Marmaravi Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini etkilemektedir. Türbenin etrafında bulunan yeşillikler ve plaj, ziyaretçilere dinlenme ve eğlenme imkanı sunmaktadır.
+Ahmet Şemseddin-i Marmaravi Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi türbedir. Bu türbe, aynı zamanda bir plaj olarak da hizmet vermektedir. Ahmet Şemseddin-i Marmaravi Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini etkilemektedir. Türbenin etrafında bulunan yeşillikler ve plaj, ziyaretçilere dinlenme ve eğlenme imkanı sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ahmet Şemseddin-i Marmaravi Türbesi, tarihi geçmişi ile dikkat çekmektedir.
 
 ## Coğrafya
 
-Ahmet Şemseddin-i Marmaravi Türbesi, Manisa'nın Şehzadeler ilçesinde yer almaktadır. Bu bölge, Ege Bölgesi'nin önemli noktalarından biridir. Türbenin bulunduğu alan, 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Türbenin etrafında bulunan yeşillikler, ziyaretçilere dinlenme ve eğlenme imkanı sunmaktadır. Ayrıca, plajın bulunduğu alan, ziyaretçilere deniz ve güneş keyfi sunmaktadır. Ahmet Şemseddin-i Marmaravi Türbesi, coğrafi konumu ile dikkat çekmektedir. Türbenin bulunduğu bölge, dağların ve ovaların birleştiği bir noktada yer almaktadır. Bu bölge, ziyaretçilere doğanın güzelliğini göstermektedir.
+Ahmet Şemseddin-i Marmaravi Türbesi, Manisa'nın Şehzadeler ilçesinde yer almaktadır. Bu bölge, Ege Bölgesi'nin önemli noktalarından biridir. Türbenin bulunduğu alan, 140 hektarlık bir alanı kaplamaktadır. Türbenin etrafında bulunan yeşillikler, ziyaretçilere dinlenme ve eğlenme imkanı sunmaktadır. Ayrıca, plajın bulunduğu alan, ziyaretçilere deniz ve güneş keyfi sunmaktadır. Ahmet Şemseddin-i Marmaravi Türbesi, coğrafi konumu ile dikkat çekmektedir. Türbenin bulunduğu bölge, dağların ve ovaların birleştiği bir noktada yer almaktadır. Bu bölge, ziyaretçilere doğanın güzelliğini göstermektedir.
 
 ## Flora ve Fauna
 

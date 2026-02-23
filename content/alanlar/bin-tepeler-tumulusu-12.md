@@ -29,7 +29,7 @@ wikidata_id: "Q134728370"
 
 # Bin Tepeler Tümülüsü 12
 
-Bin Tepeler Tümülüsü 12, Ege Bölgesi'nin zengin tarihi geçmişini yansıtan önemli bir arkeolojik alandır. Manisa'nın Salihli ilçesinde bulunan bu tarihi hazine, ziyaretçilerini mera ve heyecanla bekliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada bulunan tümülüsler, bölgeye özgü tarihi ve kültürel mirası yansıtıyor. Bin Tepeler Tümülüsü 12, bölgenin tarihi geçmişini keşfetmek isteyenler için önemli bir destinasyon.
+Bin Tepeler Tümülüsü 12, Ege Bölgesi'nin zengin tarihi geçmişini yansıtan önemli bir arkeolojik alandır. Manisa'nın Salihli ilçesinde bulunan bu tarihi hazine, ziyaretçilerini mera ve heyecanla bekliyor. Bin Tepeler Tümülüsü 12, bölgenin tarihi geçmişini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 12'nin tarihi geçmişi, yüzyıllar öncesine dayanıy
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 12, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Manisa'nın Salihli ilçesinde bulunan bu alan, 140 hektarlık geniş bir bölgeyi kapsıyor. Bölge, Ege Denizi'ne yakın bir konumda ve bu nedenle iklimi ılıman ve nemli. Bin Tepeler Tümülüsü 12'nin coğrafi konumu, ziyaretçilerin bölgedeki diğer tarihi ve turistik alanlara kolayca ulaşabilmesini sağlıyor. Ayrıca, bölgenin doğal güzellikleri, ziyaretçilerin doğayı keşfetme ve dinlenme imkanını sunuyor. Bin Tepeler Tümülüsü 12, çevresindeki diğer tümülüsler ve tarihi alanlar ile birlikte, bölgenin zengin kültürel ve tarihi mirasını yansıtıyor.
+Bin Tepeler Tümülüsü 12, Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bölge, Ege Denizi'ne yakın bir konumda ve bu nedenle iklimi ılıman ve nemli. Bin Tepeler Tümülüsü 12'nin coğrafi konumu, ziyaretçilerin bölgedeki diğer tarihi ve turistik alanlara kolayca ulaşabilmesini sağlıyor. Ayrıca, bölgenin doğal güzellikleri, ziyaretçilerin doğayı keşfetme ve dinlenme imkanını sunuyor. Bin Tepeler Tümülüsü 12, çevresindeki diğer tümülüsler ve tarihi alanlar ile birlikte, bölgenin zengin kültürel ve tarihi mirasını yansıtıyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Ramazan Dede Türbesi"
 date: "2026-01-10T06:08:06.746Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390703"
 
 # Ramazan Dede Türbesi
 
-Ramazan Dede Türbesi, Bolu'nun Gerede ilçesinde yer alan ve Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen bir turistik noktadır. 140 hektarlık bir alana yayılmış olan bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ramazan Dede Türbesi, hem doğal güzelliği hem de tarihi önemi ile dikkat çeker. Bu plaj, Gerede'nin merkezine oldukça yakın bir mesafede yer alır ve ulaşımı oldukça kolaydır. Ramazan Dede Türbesi, özellikle yaz aylarında ziyaretçilerini ağırlar ve Karadeniz Bölgesi'nin en popüler turistik noktalarından biri haline gelir.
+Ramazan Dede Türbesi, Bolu'nun Gerede ilçesinde yer alan ve Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen bir turistik noktadır. Ramazan Dede Türbesi, hem doğal güzelliği hem de tarihi önemi ile dikkat çeker. Bu plaj, Gerede'nin merkezine oldukça yakın bir mesafede yer alır ve ulaşımı oldukça kolaydır. Ramazan Dede Türbesi, özellikle yaz aylarında ziyaretçilerini ağırlar ve Karadeniz Bölgesi'nin en popüler turistik noktalarından biri haline gelir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ramazan Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu t
 
 ## Coğrafya
 
-Ramazan Dede Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ramazan Dede Türbesi, Gerede'nin merkezine oldukça yakın bir mesafede yer alır ve ulaşımı oldukça kolaydır. Plajın kumsalı, ince ve beyaz kumdan oluşur ve denizi, berra ve temizdir. Ramazan Dede Türbesi'nin hinterlandında, çeşitli bitki türleri ve zengin fauna bulunur. Bu plaj, aynı zamanda bir türbe olarak hizmet vermekte ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır. Ramazan Dede Türbesi, Karadeniz Bölgesi'nin iklimine uygun olarak, yaz aylarında sıcak ve nemli, kış aylarında ise serin ve yağışlı bir hava sahiptir.
+Ramazan Dede Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Ramazan Dede Türbesi, Gerede'nin merkezine oldukça yakın bir mesafede yer alır ve ulaşımı oldukça kolaydır. Plajın kumsalı, ince ve beyaz kumdan oluşur ve denizi, berra ve temizdir. Ramazan Dede Türbesi'nin hinterlandında, çeşitli bitki türleri ve zengin fauna bulunur. Bu plaj, aynı zamanda bir türbe olarak hizmet vermekte ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır. Ramazan Dede Türbesi, Karadeniz Bölgesi'nin iklimine uygun olarak, yaz aylarında sıcak ve nemli, kış aylarında ise serin ve yağışlı bir hava sahiptir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ramazan Dede Türbesi'ni ziyaret etmek, özellikle yaz aylarında oldukça popü
 ## İlginç Bilgiler
 
 - Ramazan Dede Türbesi, Gerede'nin merkezine oldukça yakın bir mesafede yer alır.
-- Bu plaj, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Ramazan Dede Türbesi, aynı zamanda bir türbe olarak hizmet vermekte ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır.
 - Bu bölgede, genellikle Karadeniz Bölgesi'ne özgü bitki türleri yetişir.
 - Ramazan Dede Türbesi, Karadeniz Bölgesi'nin iklimine uygun olarak, yaz aylarında sıcak ve nemli, kış aylarında ise serin ve yağışlı bir hava sahiptir.

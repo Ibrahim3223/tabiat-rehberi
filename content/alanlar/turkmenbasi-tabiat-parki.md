@@ -30,7 +30,7 @@ wikidata_id: "Q24915681"
 
 # Türkmenbaşı Tabiat Parkı
 
-Türkmenbaşı Tabiat Parkı, İstanbul'un Sarıyer ilçesinde yer alan 140 hektarlık bir yeşil alandır. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Park, ziyaretçilerine doğayla iç içe olmayı ve şehrin gürültüsünden uzaklaşmayı vaat ediyor. Burada, doğanın güzelliğini keşfetme ve şehrin stresinden kurtulma mümkün.
+Türkmenbaşı Tabiat Parkı, İstanbul'un Sarıyer ilçesinde yer alan 140 hektarlık bir yeşil alandır. Park, ziyaretçilerine doğayla iç içe olmayı ve şehrin gürültüsünden uzaklaşmayı vaat ediyor. Burada, doğanın güzelliğini keşfetme ve şehrin stresinden kurtulma mümkün.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Türkmenbaşı Tabiat Parkı, yılın her döneminde ziyaret edilebilir. Ancak, 
 ## İlginç Bilgiler
 
 - Türkmenbaşı Tabiat Parkı, İstanbul'un en büyük yeşil alanlarından biridir.
-- Park, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Parkta, çeşitli bitki türleri ve zengin fauna yaşamlarını sürdürüyor.
 - Park, yılın her döneminde ziyaret edilebilir.
 - Parkta, yürüyüş yapmak, piknik yeme ve doğayı keşfetmek gibi olanaklar mevcut.

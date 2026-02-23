@@ -28,7 +28,7 @@ wikidata_id: "Q31515914"
 
 # Keklikkıran Tepesi
 
-Keklikkıran Tepesi, Erzincan'ın güzel manzaralarına ev sahipliği yapan bir doğa harikası. Bu tepe, khong 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Ziyaretçiler, bu güzel tepeye tırmanarak Erzincan'ın panoramik manzarasını izleyebilirler. Keklikkıran Tepesi, aynı zamanda çeşitli bitki türlerine ve zengin faunaya ev sahipliği yapıyor. Bu nedenle, doğa severler için ideal bir gezi noktası.
+Keklikkıran Tepesi, Erzincan'ın güzel manzaralarına ev sahipliği yapan bir doğa harikası. Ziyaretçiler, bu güzel tepeye tırmanarak Erzincan'ın panoramik manzarasını izleyebilirler. Keklikkıran Tepesi, aynı zamanda çeşitli bitki türlerine ve zengin faunaya ev sahipliği yapıyor. Bu nedenle, doğa severler için ideal bir gezi noktası.
 
 ## Tarihçe
 

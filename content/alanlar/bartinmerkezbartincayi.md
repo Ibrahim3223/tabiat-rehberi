@@ -22,7 +22,7 @@ wikidata_id: "Q108228955"
 
 # BARTIN,MERKEZ,BARTINÇAYI
 
-Bartın Merkez'de yer alan Bartınçayı, 140 hektarlık geniş bir yeşil alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bartınçayı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın güzelliği ile baş başa bırakılan bir mekan olarak dikkat çeker. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bartınçayı, doğa severler için ideal bir destinasyon olarak ön plana çıkıyor.
+Bartın Merkez'de yer alan Bartınçayı, 140 hektarlık geniş bir yeşil alanı kapsar. Bartınçayı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın güzelliği ile baş başa bırakılan bir mekan olarak dikkat çeker. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bartınçayı, doğa severler için ideal bir destinasyon olarak ön plana çıkıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bartınçayı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Bartınçayı, Bartın Merkez'de yer alan bir doğa harikasıdır. Bu bölge, 140 hektarlık bir yeşil alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak dikkat çeker. Bartınçayı'nın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu bölgede, ziyaretçileri doğanın güzelliği ile baş başa bırakmak için ideal bir ortam sunuluyor. Bartınçayı'nın iklimi, İç Anadolu Bölgesi'nin genel iklim yapısına uygun olarak şekillenir. Bu bölgede, ziyaretçilerin doğa yürüyüşleri yapması, bitki ve hayvan türlerinilemek gibi çeşitli etkinlikler gerçekleştirmesi mümkün. Bartınçayı, ziyaretçilerine doğal güzelliği ve zengin fauna yapısı ile bir doğa belgeseli sunuyor.
+Bartınçayı, Bartın Merkez'de yer alan bir doğa harikasıdır. Bartınçayı'nın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu bölgede, ziyaretçileri doğanın güzelliği ile baş başa bırakmak için ideal bir ortam sunuluyor. Bartınçayı'nın iklimi, İç Anadolu Bölgesi'nin genel iklim yapısına uygun olarak şekillenir. Bu bölgede, ziyaretçilerin doğa yürüyüşleri yapması, bitki ve hayvan türlerinilemek gibi çeşitli etkinlikler gerçekleştirmesi mümkün. Bartınçayı, ziyaretçilerine doğal güzelliği ve zengin fauna yapısı ile bir doğa belgeseli sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Bartınçayı, ziyaretçilerine doğanın güzelliği ile baş başa bırakmak i
 ## İlginç Bilgiler
 
 - Bartınçayı, 140 hektarlık bir yeşil alanı kapsar.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
+
 - Bartınçayı, çeşitli bitki türleri ve zengin fauna ile karakterizedir.
 - Bu bölgede, ziyaretçilerin doğa yürüyüşleri yapması ve bitki türlerini gözlemlemesi mümkün.
 - Bartınçayı, doğa severler için ideal bir destinasyon olarak ön plana çıkıyor.

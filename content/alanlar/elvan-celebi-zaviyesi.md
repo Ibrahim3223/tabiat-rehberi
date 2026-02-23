@@ -29,7 +29,7 @@ wikidata_id: "Q132134372"
 
 # Elvan Çelebi Zaviyesi
 
-Elvan Çelebi Zaviyesi, Çorum'un Mecitözü ilçesinde yer alan, hem tarihi hem de doğal güzellikleriyle dikkat çeken bir destinasyon. Bu özel yer, yaklaşık 140 hektarlık bir alanı kapsıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Zaviye, tarihi geçmişinin yanı sıra, Karadeniz Bölgesi'nin zengin doğal çeşitliliği ile de ziyaretçilerini bekliyor. Elvan Çelebi Zaviyesi, hem dinî bir merkez hem de doğa severlerin keyiflenebileceği bir nokta olarak ön plana çıkıyor.
+Elvan Çelebi Zaviyesi, Çorum'un Mecitözü ilçesinde yer alan, hem tarihi hem de doğal güzellikleriyle dikkat çeken bir destinasyon. Zaviye, tarihi geçmişinin yanı sıra, Karadeniz Bölgesi'nin zengin doğal çeşitliliği ile de ziyaretçilerini bekliyor. Elvan Çelebi Zaviyesi, hem dinî bir merkez hem de doğa severlerin keyiflenebileceği bir nokta olarak ön plana çıkıyor.
 
 ## Tarihçe
 

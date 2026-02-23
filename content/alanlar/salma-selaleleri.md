@@ -28,7 +28,7 @@ wikidata_id: "Q97212552"
 
 # Salma Şelaleleri
 
-Rize'nin güzelliklerine bir yenisini ekleyen Salma Şelaleleri, yaklaşık 140 hektarlık bir alanda yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Şelalelerin sesi, kuşların şakıması ve etrafını saran yeşillik, bu alanı ziyaret edenleri doğanın güzelliği ile baş başa bırakıyor. Salma Şelaleleri, Rize'nin doğal güzellikleri arasında önemli bir yere sahip ve ziyaretçilerini etkileyen bir doğa harikası.
+ Şelalelerin sesi, kuşların şakıması ve etrafını saran yeşillik, bu alanı ziyaret edenleri doğanın güzelliği ile baş başa bırakıyor. Salma Şelaleleri, Rize'nin doğal güzellikleri arasında önemli bir yere sahip ve ziyaretçilerini etkileyen bir doğa harikası.
 
 ## Tarihçe
 

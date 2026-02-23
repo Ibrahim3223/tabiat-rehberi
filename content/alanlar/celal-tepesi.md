@@ -28,7 +28,7 @@ wikidata_id: "Q34837560"
 
 # Celal Tepesi
 
-Celal Tepesi, Van'ın doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Doğa severler için bir cennet olan bu tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.Celal Tepesi, Van'ın şehir merkezi yakınlarında yer alıyor ve ulaşımı oldukça kolay. Bu nedenle, hem şehrin gürültüsünden uzaklaşmak hem de doğayı keşfetmek isteyenler için ideal bir destinasyon.
+Celal Tepesi, Van'ın doğal güzelliklerinden biri olarak dikkat çekiyor. Doğa severler için bir cennet olan bu tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.Celal Tepesi, Van'ın şehir merkezi yakınlarında yer alıyor ve ulaşımı oldukça kolay. Bu nedenle, hem şehrin gürültüsünden uzaklaşmak hem de doğayı keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Celal Tepesi'nin tarihi geçmişi, bölgenin genel tarihine paralel olarak şeki
 
 ## Coğrafya
 
-Celal Tepesi, Van'da yer alıyor ve Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yüksek dağlar, geniş ovalar ve zengin su kaynakları ile karakterize ediliyor. Celal Tepesi, 140 hektarlık bir yeşil alana sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Tepenin coğrafi konumu, Van Gölü'ne yakın olmasından dolayı da önemlidir. Bu sayede, ziyaretçiler hem Celal Tepesi'nin doğal güzelliğini keşfedebilir hem de Van Gölü'nün muhteşem manzarasını izleyebilirler. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanabiliyor.
+Celal Tepesi, Van'da yer alıyor ve Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yüksek dağlar, geniş ovalar ve zengin su kaynakları ile karakterize ediliyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Tepenin coğrafi konumu, Van Gölü'ne yakın olmasından dolayı da önemlidir. Bu sayede, ziyaretçiler hem Celal Tepesi'nin doğal güzelliğini keşfedebilir hem de Van Gölü'nün muhteşem manzarasını izleyebilirler. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim belirgin olarak yaşanabiliyor.
 
 ## Flora ve Fauna
 

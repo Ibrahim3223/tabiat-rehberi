@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Sücaeddin Türbesi"
 date: "2026-01-10T07:39:15.145Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391287"
 
 # Şeyh Sücaeddin Türbesi
 
-140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve Konya'nın Selçuklu ilçesinde yer alıyor. Şeyh Sücaeddin Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir mekan. İç Anadolu Bölgesi'nin kalbinde, ziyaretçilerini bekleyen bu türbe ve plaj, hem dinî hem de turistik açıdan önemli bir destinasyon. Burada, tarihi geçmişi ve doğal güzellikleri bir araya getiren benzersiz bir atmosfer bulunur.
+ Şeyh Sücaeddin Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir mekan. İç Anadolu Bölgesi'nin kalbinde, ziyaretçilerini bekleyen bu türbe ve plaj, hem dinî hem de turistik açıdan önemli bir destinasyon. Burada, tarihi geçmişi ve doğal güzellikleri bir araya getiren benzersiz bir atmosfer bulunur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391287"
 
 ## Coğrafya
 
-Şeyh Sücaeddin Türbesi, Konya'nın Selçuklu ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alıyor. Burada, geniş ova ve yüksek dağların birleştiği bir coğrafi yapı bulunur. Türbe ve plaj, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere geniş bir açık alan sunuyor. İç Anadolu Bölgesi'nin karakteristik iklim şartlarına uygun olarak, burada yazlar sıcak ve kurak, kışlar soğuk ve karlı geçer. Bu coğrafi ve iklimsel özellikler, türbenin ve plajın doğal güzelliğini vurgulayan önemli faktörlerdir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan olarak hizmet veriyor.
+Şeyh Sücaeddin Türbesi, Konya'nın Selçuklu ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alıyor. Burada, geniş ova ve yüksek dağların birleştiği bir coğrafi yapı bulunur. Türbe ve plaj, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere geniş bir açık alan sunuyor. İç Anadolu Bölgesi'nin karakteristik iklim şartlarına uygun olarak, burada yazlar sıcak ve kurak, kışlar soğuk ve karlı geçer. Bu coğrafi ve iklimsel özellikler, türbenin ve plajın doğal güzelliğini vurgulayan önemli faktörlerdir.
 
 ## Flora ve Fauna
 

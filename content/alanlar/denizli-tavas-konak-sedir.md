@@ -22,7 +22,7 @@ wikidata_id: "Q108227210"
 
 # Denizli-Tavas-Konak Sedir
 
-Denizli-Tavas-Konak Sedir milli parkı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmıştır. Ziyaretçiler, parkın içinde yer alan çeşitli bitki türleri ve zengin faunayı keşfedebilir. Parkın konumu, ziyaretçilerin Ege Bölgesi'nin güzelliklerini keşfetmesine olanak sağlar. Denizli-Tavas-Konak Sedir milli parkı, doğa severlerin ve turistlerin ziyaret etmesi gereken bir yerdir.
+Denizli-Tavas-Konak Sedir milli parkı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmıştır. Ziyaretçiler, parkın içinde yer alan çeşitli bitki türleri ve zengin faunayı keşfedebilir. Parkın konumu, ziyaretçilerin Ege Bölgesi'nin güzelliklerini keşfetmesine olanak sağlar. Denizli-Tavas-Konak Sedir milli parkı, doğa severlerin ve turistlerin ziyaret etmesi gereken bir yerdir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Denizli-Tavas-Konak Sedir milli parkının tarihi geçmişi, yüzyıllar boyunca
 
 ## Coğrafya
 
-Denizli-Tavas-Konak Sedir milli parkı, Ege Bölgesi'nin coğrafyası içinde yer alır. Parkın coğrafi konumu, ziyaretçilerin Ege Bölgesi'nin güzelliklerini keşfetmesine olanak sağlar. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Parkın iklimi, Ege Bölgesi'nin iklimine benzer ve ziyaretçilerin yıl boyunca ziyaret etmesine olanak sağlar. Parkın çevresi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Denizli-Tavas-Konak Sedir milli parkı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. Parkın coğrafyası, ziyaretçilerin doğanın güzelliği ile baş başa bırakmak için tasarlanmıştır.
+Denizli-Tavas-Konak Sedir milli parkı, Ege Bölgesi'nin coğrafyası içinde yer alır. Parkın coğrafi konumu, ziyaretçilerin Ege Bölgesi'nin güzelliklerini keşfetmesine olanak sağlar. Parkın iklimi, Ege Bölgesi'nin iklimine benzer ve ziyaretçilerin yıl boyunca ziyaret etmesine olanak sağlar. Parkın çevresi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Denizli-Tavas-Konak Sedir milli parkı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. Parkın coğrafyası, ziyaretçilerin doğanın güzelliği ile baş başa bırakmak için tasarlanmıştır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Denizli-Tavas-Konak Sedir milli parkını ziyaret etmek, doğa severlerin ve tur
 
 ## İlginç Bilgiler
 
-- Parkın içinde yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
 - Denizli-Tavas-Konak Sedir milli parkı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Parkın flora ve faunası, Ege Bölgesi'nin flora ve faunasına benzer.
 - Ziyaretçiler, parkın içinde yer alan çeşitli bitki türleri ve zengin faunayı keşfedebilir.

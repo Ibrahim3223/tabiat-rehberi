@@ -29,7 +29,7 @@ wikidata_id: "Q134728128"
 
 # Aigai Diaphenes Mezar Anıtı
 
-Aigai Diaphenes Mezar Anıtı, Manisa'nın Yunusemre ilçesinde, Ege Bölgesi'nin kalbinde yer alan tarihi bir hazine. Bu mezar anıtı, yaklaşık 140 hektarlık bir alanda, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Burada, geçmişin izleri, taşların ve toprakların arasında gizli. Aigai Diaphenes Mezar Anıtı, ziyaretçilerini tarihin derinliklerine götürmeye hazır.
+Aigai Diaphenes Mezar Anıtı, Manisa'nın Yunusemre ilçesinde, Ege Bölgesi'nin kalbinde yer alan tarihi bir hazine. Burada, geçmişin izleri, taşların ve toprakların arasında gizli. Aigai Diaphenes Mezar Anıtı, ziyaretçilerini tarihin derinliklerine götürmeye hazır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Aigai Diaphenes Mezar Anıtı, yüzyıllar boyunca birçok medeniyete ev sahipli
 
 ## Coğrafya
 
-Aigai Diaphenes Mezar Anıtı, Ege Bölgesi'nin coğrafi güzelliğinin ortasında yer alıyor. Manisa'nın Yunusemre ilçesinde, yaklaşık 140 hektarlık bir alanda, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu mezar anıtı, çevredeki dağların, ormanların ve ovaların arasında, bir tarihi hazine olarak duruyor. Aigai Diaphenes Mezar Anıtı, ziyaretçilerini Ege Bölgesi'nin coğrafi güzelliği ile baş başa bırakmaya hazır. Burada, doğanın ve tarihin birleştiği noktada, ziyaretçiler kendilerini farklı bir dünyada bulabilirler.
+Aigai Diaphenes Mezar Anıtı, Ege Bölgesi'nin coğrafi güzelliğinin ortasında yer alıyor. Bu mezar anıtı, çevredeki dağların, ormanların ve ovaların arasında, bir tarihi hazine olarak duruyor. Aigai Diaphenes Mezar Anıtı, ziyaretçilerini Ege Bölgesi'nin coğrafi güzelliği ile baş başa bırakmaya hazır. Burada, doğanın ve tarihin birleştiği noktada, ziyaretçiler kendilerini farklı bir dünyada bulabilirler.
 
 ## Flora ve Fauna
 

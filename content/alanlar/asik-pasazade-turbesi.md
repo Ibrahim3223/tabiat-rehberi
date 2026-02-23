@@ -1,7 +1,7 @@
 ---
 title: "Aşık Paşazade Türbesi"
 date: "2026-01-10T07:27:51.793Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391037"
 
 # Aşık Paşazade Türbesi
 
-Aşık Paşazade Türbesi, İstanbul'un Fatih ilçesinde yer alan tarihi bir türbedir. Bu türbe, aynı zamanda bir plaj alanı olarak da bilinir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Denizi'ne kıyısı bulunmaktadır. Aşık Paşazade Türbesi, tarihi geçmişi ve doğal güzelliği ile dikkat çeker. Ziyaretçiler, bu türbenin tarihi önemini öğrenirken aynı zamanda Marmara Denizi'nin güzelliğini de keşfedebilirler.
+Aşık Paşazade Türbesi, İstanbul'un Fatih ilçesinde yer alan tarihi bir türbedir. Bu türbe, aynı zamanda bir plaj alanı olarak da bilinir. Aşık Paşazade Türbesi, tarihi geçmişi ve doğal güzelliği ile dikkat çeker. Ziyaretçiler, bu türbenin tarihi önemini öğrenirken aynı zamanda Marmara Denizi'nin güzelliğini de keşfedebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Aşık Paşazade Türbesi, tarihi geçmişi ile önemli bir mekândır. Bu türb
 
 ## Coğrafya
 
-Aşık Paşazade Türbesi, Fatih ilçesinde yer alır ve Marmara Denizi'ne kıyısı bulunmaktadır. Bu türbe, 140 hektarlık bir alanda kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Türbenin coğrafi konumu, ziyaretçilerin Marmara Denizi'nin güzelliğini keşfetmelerine olanak tanır. Ayrıca, türbenin çevresinde çeşitli yeşillik alanlar ve yürüyüş yolları bulunmaktadır. Ziyaretçiler, bu alanları keşfederek doğanın güzelliğini deneyimleyebilirler. Aşık Paşazade Türbesi, coğrafi konumu itibariyle ziyaretçilere çeşitli olanaklar sunar. Marmara Denizi'ne kıyısı olan bu türbe, aynı zamanda İstanbul'un tarihi ve kültürel zenginliklerini de keşfetmek isteyenler için önemli bir destinasyondur.
+Aşık Paşazade Türbesi, Fatih ilçesinde yer alır ve Marmara Denizi'ne kıyısı bulunmaktadır. Türbenin coğrafi konumu, ziyaretçilerin Marmara Denizi'nin güzelliğini keşfetmelerine olanak tanır. Ayrıca, türbenin çevresinde çeşitli yeşillik alanlar ve yürüyüş yolları bulunmaktadır. Ziyaretçiler, bu alanları keşfederek doğanın güzelliğini deneyimleyebilirler. Aşık Paşazade Türbesi, coğrafi konumu itibariyle ziyaretçilere çeşitli olanaklar sunar. Marmara Denizi'ne kıyısı olan bu türbe, aynı zamanda İstanbul'un tarihi ve kültürel zenginliklerini de keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Flora ve Fauna
 

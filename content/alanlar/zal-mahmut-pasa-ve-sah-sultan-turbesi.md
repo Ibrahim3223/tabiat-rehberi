@@ -1,7 +1,7 @@
 ---
 title: "Zal Mahmut Paşa ve Şah Sultan Türbesi"
 date: "2026-01-10T07:43:56.887Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391114"
 
 # Zal Mahmut Paşa ve Şah Sultan Türbesi
 
-Zal Mahmut Paşa ve Şah Sultan Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi ve kültürel bir değerdir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli tarihi mekanlarından biridir. Bu türbe, Osmanlı İmparatorluğu'nun önemli figürlerinden Zal Mahmut Paşa ve Şah Sultan'ın mezarlarını barındırmaktadır. İstanbul'un tarihini ve kültürünü keşfetmek isteyenler için bu türbe, önemli bir destinasyondur.
+Zal Mahmut Paşa ve Şah Sultan Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi ve kültürel bir değerdir. Bu türbe, Osmanlı İmparatorluğu'nun önemli figürlerinden Zal Mahmut Paşa ve Şah Sultan'ın mezarlarını barındırmaktadır. İstanbul'un tarihini ve kültürünü keşfetmek isteyenler için bu türbe, önemli bir destinasyondur.
 
 ## Tarihçe
 

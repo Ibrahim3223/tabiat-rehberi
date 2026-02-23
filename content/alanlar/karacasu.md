@@ -23,7 +23,7 @@ wikidata_id: "Q108228629"
 
 # KARACASU
 
-Karacasu Milli Parkı, İç Anadolu Bölgesi'nin ortasında, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu park, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, sakin ve huzurlu bir ortam sunar. Burada, zengin bir flora ve fauna çeşitliliğiyle karşılaşabilirsiniz. Karacasu Milli Parkı, hem doğa severlerin hem de araştırma yapanların ilgisini çekebilecek bir destinasyondur.
+ Bu park, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, sakin ve huzurlu bir ortam sunar. Burada, zengin bir flora ve fauna çeşitliliğiyle karşılaşabilirsiniz. Karacasu Milli Parkı, hem doğa severlerin hem de araştırma yapanların ilgisini çekebilecek bir destinasyondur.
 
 ## Tarihçe
 

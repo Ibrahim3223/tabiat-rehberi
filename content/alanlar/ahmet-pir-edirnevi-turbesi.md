@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Pir Edirnevi Türbesi"
 date: "2026-01-10T04:52:22.892Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q118929317"
 
 # Ahmet Pir Edirnevi Türbesi
 
-Ahmet Pir Edirnevi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir türbedir. Bu önemli kültürel varlık, şehrin zengin tarihini ve dini mirasını yansıtan önemli bir noktadır. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ahmed Pir Edirnevi'nin hayatını ve teachingsini öğrenmek için ziyaretçiler buraya gelir. Ahmet Pir Edirnevi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Ahmet Pir Edirnevi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir türbedir. Bu önemli kültürel varlık, şehrin zengin tarihini ve dini mirasını yansıtan önemli bir noktadır. Ahmed Pir Edirnevi'nin hayatını ve teachingsini öğrenmek için ziyaretçiler buraya gelir. Ahmet Pir Edirnevi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32125065"
 
 # Masat Hüyüğü
 
-Masat Hüyüğü, Hatay'ın zengin tarihini ve doğal güzelliklerini bir araya getiren bir kültür mirasıdır. 140 hektarlık geniş bir alanı kaplayan bu tarihi mekân, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş alanın her bir köşesi, ziyaretçilere tarihi ve coğrafi zenginlikler sunuyor. Masat Hüyüğü, hem tarih hem de doğa severlerin ilgisini çeken önemli bir destinasyon olarak dikkat çekiyor.
+Masat Hüyüğü, Hatay'ın zengin tarihini ve doğal güzelliklerini bir araya getiren bir kültür mirasıdır. Bu geniş alanın her bir köşesi, ziyaretçilere tarihi ve coğrafi zenginlikler sunuyor. Masat Hüyüğü, hem tarih hem de doğa severlerin ilgisini çeken önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -52,4 +52,4 @@ Masat Hüyüğü'ne ziyaretçiler, yılın her dönemi gelebilir. Ancak, ilkbaha
 - Bu bölge, yüzyıllar boyunca farklı uygarlıkların izlerini taşıyor.
 - Masat Hüyüğü, flora ve fauna bakımından zengin.
 - Masat Hüyüğü, ziyaretçilere, hem tarihi hem de coğrafi açıdan zengin bir deneyim sunuyor.
-- Masat Hüyüğü, ilkbahar ve sonbahar aylarında ziyaret için en uygun dönem. 
+- Masat Hüyüğü, ilkbahar ve sonbahar aylarında ziyaret için en uygun dönem.

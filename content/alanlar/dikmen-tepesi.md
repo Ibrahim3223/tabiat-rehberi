@@ -33,7 +33,7 @@ Denizli'nin doğal güzelliklerini keşfetmek isteyenler için Dikmen Tepesi, bi
 
 ## Tarihçe
 
-Dikmen Tepesi, Denizli'nin doğal güzelliklerini sergileyen bir bölgedir. Bu bölge, tarihin sâu sayfalarında önemli bir role sahip olan uygarlıkların yaşadığı topraklardır. Denizli, Likya, Frigya ve Roma uygarlıklarının izlerini taşıyan zengin bir tarihi mirasa sahiptir. Bu bölgede yaşamış olan uygarlıklar, coğrafyanın sunduğu avantajları kullanarak ticaret, tarım ve hayvancılıkla uğraşmışlardır.
+Dikmen Tepesi, Denizli'nin doğal güzelliklerini sergileyen bir bölgedir. Bu bölge, tarihin derin sayfalarında önemli bir role sahip olan uygarlıkların yaşadığı topraklardır. Denizli, Likya, Frigya ve Roma uygarlıklarının izlerini taşıyan zengin bir tarihi mirasa sahiptir. Bu bölgede yaşamış olan uygarlıklar, coğrafyanın sunduğu avantajları kullanarak ticaret, tarım ve hayvancılıkla uğraşmışlardır.
 
 Dikmen Tepesi gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutmaktadır. Bu tür alanlar, insanların yaşam alanı olarak, ticaret yolları olara ve aynı zamanda dinlenme ve avlanma alanları olarak kullanılmıştır. Türkiye'de yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu doğal alanların önemini vurgulamaktadır. İnsanların bu alanlarla olan ilişkisi, bölgeye özgü kültürel ve ekonomik faaliyetlerin gelişimini etkilemiştir. Dikmen Tepesi, bu zengin tarihsel bağlam içinde, Denizli'nin doğal ve kültürel mirasının önemli bir parçasını oluşturmaktadır.
 
@@ -70,5 +70,5 @@ Dikmen Tepesi, Denizli'nin gizli bir cenneti. Sabah erken gitmenizi öneririm, h
 - Tepenin deniz seviyesinden yüksekliği 1.250 metredir.
 - Bu bölge, 1994 yılında Tabiat Parkı olarak ilan edilmiştir.
 - Dikmen Tepesi, trekking ve doğa yürüyüşü için popüler bir destinasyondur.
-- Tepenin eteklerinde, histórik öneme sahip several kale ve höyükler bulunur.
+- Tepenin eteklerinde, tarihi öneme sahip several kale ve höyükler bulunur.
 - Dikmen Tepesi'nden, çevredeki vadilere ve dağlara panoramik manzaralar sunar.

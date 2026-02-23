@@ -23,7 +23,7 @@ wikidata_id: "Q108228768"
 
 # Amazon Tabiat Parkı
 
-Amazon Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Bu muazzam alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için gerçek bir cennet. Parkın içinde çeşitli bitki türleri ve hayvanlar bulunduğunu söyleyebiliriz, ancak burası özellikle zengin flora ve fauna çeşitliliği ile dikkat çekiyor. 70-80 hektarlık bir bölümü ormanlarla kaplı olan bu park, aynı zamanda birçok su kaynağına ev sahipliği yapıyor.
+Amazon Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Parkın içinde çeşitli bitki türleri ve hayvanlar bulunduğunu söyleyebiliriz, ancak burası özellikle zengin flora ve fauna çeşitliliği ile dikkat çekiyor. 70-80 hektarlık bir bölümü ormanlarla kaplı olan bu park, aynı zamanda birçok su kaynağına ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Amazon Tabiat Parkı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu
 
 ## Coğrafya
 
-Amazon Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlar, ovalar ve su kaynakları ile çevrili. Parkın coğrafi konumu, zengin flora ve fauna çeşitliliğine sahip olmasını sağlıyor. Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanın büyük bir bölümü ormanlarla kaplı. Parkta, birçok su kaynağı bulunmakta ve bu su kaynakları, parkın ekosistemini desteklemektedir. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Bu nedenle, parkın flora ve fauna çeşitliliği, mevsimsel değişimlere göre çeşitlilik gösteriyor.
+Amazon Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlar, ovalar ve su kaynakları ile çevrili. Parkın coğrafi konumu, zengin flora ve fauna çeşitliliğine sahip olmasını sağlıyor. Parkta, birçok su kaynağı bulunmakta ve bu su kaynakları, parkın ekosistemini desteklemektedir. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Bu nedenle, parkın flora ve fauna çeşitliliği, mevsimsel değişimlere göre çeşitlilik gösteriyor.
 
 ## Flora ve Fauna
 

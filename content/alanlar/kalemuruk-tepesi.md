@@ -28,11 +28,11 @@ wikidata_id: "Q34877456"
 
 # Kalemürük Tepesi
 
-Kalemürük Tepesi, Doğu Anadolu Bölgesi'nin Van ilinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde. Kalemürük Tepesi, Van ilinin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta.
+Kalemürük Tepesi, Doğu Anadolu Bölgesi'nin Van ilinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Kalemürük Tepesi, Van ilinin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 
-Kalemürük Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgeye hükmetmiş medeniyetlerin izlerini taşımakta. Bu tepenin ve çevresi, tarihin farklı dönemlerinde çeşitli kültürel ve ekonomik önem taşıyan bir région olarak kabul edilmiş. Bölgede yapılan araştırmalar, tarihi geçmişi hakkında önemli bilgiler sunmakta. Kalemürük Tepesi, Van ilinin kültür ve turizm açısından önemli bir destinasyonu olarak kabul edilmekte. Tepenin tarihi ve kültürel önemi, ziyaretçilerin bölgeyi keşfetmelerini teşvik etmekte.
+Kalemürük Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgeye hükmetmiş medeniyetlerin izlerini taşımakta. Bu tepenin ve çevresi, tarihin farklı dönemlerinde çeşitli kültürel ve ekonomik önem taşıyan bir bölge olarak kabul edilmiş. Bölgede yapılan araştırmalar, tarihi geçmişi hakkında önemli bilgiler sunmakta. Kalemürük Tepesi, Van ilinin kültür ve turizm açısından önemli bir destinasyonu olarak kabul edilmekte. Tepenin tarihi ve kültürel önemi, ziyaretçilerin bölgeyi keşfetmelerini teşvik etmekte.
 
 ## Coğrafya
 

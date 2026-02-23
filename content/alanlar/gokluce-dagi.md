@@ -50,7 +50,7 @@ Mevsimsel değişimler, Göklüce Dağı'nın iklim karakterini şekillendiriyor
 
 Göklüce Dağı, Ankara'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen bir flora ve fauna çeşitliliği bulunur. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçer.
 
-Dağın bitki örtüsü, kuraklığa adapte olmuş türlerle karakterizedir. Step bitki örtüsünün hakim olduğu bu bölgede, bozkır bitkileri de görülür. Dağın yüksek kesimlerinde, alpin flora çeşitliliği dikkat çeker. 
+Dağın bitki örtüsü, kuraklığa adapte olmuş türlerle karakterizedir. Step bitki örtüsünün hakim olduğu bu bölgede, bozkır bitkileri de görülür. Dağın yüksek kesimlerinde, alpin flora çeşitliliği dikkat çeker.
 
 Yaban hayatı da zengin ve çeşitli olan Göklüce Dağı, memeliler, kuşlar ve sürüngenler için yaşam alanı sağlar. Dağın ekolojik değeri, bu zengin çeşitliliğin korunmasına bağlıdır. Göklüce Dağı, Ankara'nın doğal mirasının önemli bir parçasıdır ve koruma altına alınmıştır.
 

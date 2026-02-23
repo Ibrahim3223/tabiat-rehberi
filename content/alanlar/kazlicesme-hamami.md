@@ -1,7 +1,7 @@
 ---
 title: "Kazlıçeşme Hamamı"
 date: "2026-01-09T22:41:07.976Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738561"
 
 # Kazlıçeşme Hamamı
 
-Kazlıçeşme Hamamı, İstanbul'un Zeytinburnu ilçesinde, Marmara Denizi'nin kıyısında yer alan bir plaj ve tarihi hamam kompleksidir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un en büyük doğal plajlarından biridir. Kazlıçeşme Hamamı, tarihi geçmişi ve doğal güzellikleri ile birlikte, şehrin kalabalığından kaçmak isteyenlerin sığındığı bir noktadır. Bu bölge, aynı zamanda İstanbul'un en eski ve en önemli tarihi yapılarından bazılarına ev sahipliği yapmaktadır.
+Kazlıçeşme Hamamı, İstanbul'un Zeytinburnu ilçesinde, Marmara Denizi'nin kıyısında yer alan bir plaj ve tarihi hamam kompleksidir. Kazlıçeşme Hamamı, tarihi geçmişi ve doğal güzellikleri ile birlikte, şehrin kalabalığından kaçmak isteyenlerin sığındığı bir noktadır. Bu bölge, aynı zamanda İstanbul'un en eski ve en önemli tarihi yapılarından bazılarına ev sahipliği yapmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kazlıçeşme Hamamı'nın tarihi geçmişi, Bizans İmparatorluğu dönemine ka
 
 ## Coğrafya
 
-Kazlıçeşme Hamamı, Marmara Denizi'nin kıyısında, Zeytinburnu ilçesinin merkezinde yer almaktadır. Bu bölge, İstanbul'un en önemli doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un en büyük doğal plajlarından biridir. Plaj, ince kumlu ve sığ suludur, bu nedenle özellikle çocuklu ailelerin tercih ettiği bir noktadır. Kazlıçeşme Hamamı'nın çevresinde, çeşitli tarihi yapılar, parklar ve bahçeler bulunmaktadır. Bu bölge, aynı zamanda İstanbul'un en önemli ulaşım merkezlerinden biridir, çünkü_herek ulaşım aracı ile kolayca ulaşılabilir. Kazlıçeşme Hamamı, Marmara Bölgesi'nin iklimine sahiptir, yani ılıman ve nemli bir iklimi vardır. Bu bölge, özellikle ilkbahar ve yaz aylarında, turizm sezonunun en yoğun olduğu dönemdir.
+Kazlıçeşme Hamamı, Marmara Denizi'nin kıyısında, Zeytinburnu ilçesinin merkezinde yer almaktadır. Bu bölge, İstanbul'un en önemli doğal güzelliklerinden biridir. Plaj, ince kumlu ve sığ suludur, bu nedenle özellikle çocuklu ailelerin tercih ettiği bir noktadır. Kazlıçeşme Hamamı'nın çevresinde, çeşitli tarihi yapılar, parklar ve bahçeler bulunmaktadır. Bu bölge, aynı zamanda İstanbul'un en önemli ulaşım merkezlerinden biridir, çünkü_herek ulaşım aracı ile kolayca ulaşılabilir. Kazlıçeşme Hamamı, Marmara Bölgesi'nin iklimine sahiptir, yani ılıman ve nemli bir iklimi vardır. Bu bölge, özellikle ilkbahar ve yaz aylarında, turizm sezonunun en yoğun olduğu dönemdir.
 
 ## Flora ve Fauna
 

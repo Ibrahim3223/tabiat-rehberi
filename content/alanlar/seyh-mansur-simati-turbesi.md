@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Mansur Simati Türbesi"
 date: "2026-01-10T07:06:57.872Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilis"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390870"
 
 # Şeyh Mansur Simati Türbesi
 
-Şeyh Mansur Simati Türbesi, Kilis ilinin tarihi ve doğal güzelliklerinin birleştiği özel bir noktadır. Bu önemli turbe, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alır ve ziyaretçilerini tarihin depthsine götürür. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yeşil alanlarla kaplıdır. Türbenin etrafında geniş bir açık alan bulunmaktadır ve ziyaretçiler burada dinlenebilir, piknik yapabilirler. Şeyh Mansur Simati Türbesi, Kilis'in önemli dini ve kültürel merkezlerinden biridir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilmektedir.
+Şeyh Mansur Simati Türbesi, Kilis ilinin tarihi ve doğal güzelliklerinin birleştiği özel bir noktadır. Bu önemli turbe, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alır ve ziyaretçilerini tarihin depthsine götürür. Türbenin etrafında geniş bir açık alan bulunmaktadır ve ziyaretçiler burada dinlenebilir, piknik yapabilirler. Şeyh Mansur Simati Türbesi, Kilis'in önemli dini ve kültürel merkezlerinden biridir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 

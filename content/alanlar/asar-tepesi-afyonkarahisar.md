@@ -1,7 +1,7 @@
 ---
 title: "Asar Tepesi (Afyonkarahisar)"
 date: "2026-01-10T12:02:06.636Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Afyonkarahisar"

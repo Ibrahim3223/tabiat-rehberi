@@ -1,7 +1,7 @@
 ---
 title: "Samut Baba Türbesi"
 date: "2026-01-10T06:17:47.448Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390564"
 
 # Samut Baba Türbesi
 
-Samut Baba Türbesi, İzmir'in Urla ilçesinde, denize yakın bir konumda yer alır. Bu tarihi ve doğal güzelliğin birleştiği nokta, yaklaşık 140 hektarlık bir alanı kaplar, ki bu yaklaşık 200 futbol sahası büyüklüğünde bir alan anlamına gelir. Samut Baba Türbesi, hem tarihi önemi hem de doğal güzelliği ile dikkat çeker. Ziyaretçiler, hem tarihin izlerini sürerken hem de denizin serinliğini hissetme fırsatı bulurlar. Bu özel mekan, Ege Bölgesi'nin zengin tarihi ve coğrafyasının bir yansıması olarak görülür.
+Samut Baba Türbesi, İzmir'in Urla ilçesinde, denize yakın bir konumda yer alır. Samut Baba Türbesi, hem tarihi önemi hem de doğal güzelliği ile dikkat çeker. Ziyaretçiler, hem tarihin izlerini sürerken hem de denizin serinliğini hissetme fırsatı bulurlar. Bu özel mekan, Ege Bölgesi'nin zengin tarihi ve coğrafyasının bir yansıması olarak görülür.
 
 ## Tarihçe
 

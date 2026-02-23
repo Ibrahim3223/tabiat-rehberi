@@ -33,7 +33,7 @@ Kars'ın doğusunda, yüksek dağların arasında gizlenen Uzunburun Dağı, Tü
 
 ## Tarihçe
 
-Kars bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Uzunburun Dağı, bu bölgenin doğal güzelliklerinin önemli bir parçasını oluşturur. Kars, Selçuklular, Osmanlılar ve diğer uygarlıkların hakimiyetinde kalmış, ticaret yollarının kesişme noktasında yer almış bir bölgedir. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, doğu-batı ticaretinin canlı bir merkezi olmuştur.
+Kars bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Uzunburun Dağı, bu bölgenin doğal güzelliklerinin önemli bir parçasını oluşturur. Kars, Selçuklular, Osmanlılar ve diğer uygarlıkların hakimiyetinde kalmış, ticaret yollarının kesişme noktasında yer almış bir bölgedir. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, doğu-batı ticaretinin canlı bir merkezi olmuştur.
 
 Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahip olmuşlardır. Yayla ve dağlık bölgeler, yaylacılık ve hayvancılık faaliyetleri için elverişli ortamlar sunmuş, aynı zamanda ticaret yolları ve stratejik noktalara ev sahipliği yapmışlardır. Bölgedeki topluluklar, bu doğal kaynakları kullanarak yaşamını sürdürmüş, kültürel ve ekonomik faaliyetlerini bu alanlar etrafında şekillendirmişlerdir.
 
@@ -51,9 +51,9 @@ Uzunburun Dağı, Sarıkamış Ormanları gibi önemli ekosistemlere yakın bir 
 
 ## Flora ve Fauna
 
-Uzunburun dağının yükseklik zonları, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu dağlık alan, yüksek dağ ekolojisinin tüm özelliklerini taşır. İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle donanır. Bu mevsimde, dağlık alanların karakteristik bitkileri, güneşin ısıdığı yerleri kaplar. 
+Uzunburun dağının yükseklik zonları, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu dağlık alan, yüksek dağ ekolojisinin tüm özelliklerini taşır. İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle donanır. Bu mevsimde, dağlık alanların karakteristik bitkileri, güneşin ısıdığı yerleri kaplar.
 
-Yaban hayatı da bir o kadar çeşitlilik gösterir. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşarken, kartallar ve diğer yırtıcı kuşlar, gökyüzünde hüküm sürer. Sürüngenler de, kayalık alanlarda ve çayırlarda yaşamlarını sürdürür. 
+Yaban hayatı da bir o kadar çeşitlilik gösterir. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşarken, kartallar ve diğer yırtıcı kuşlar, gökyüzünde hüküm sürer. Sürüngenler de, kayalık alanlarda ve çayırlarda yaşamlarını sürdürür.
 
 Bu dağlık ekosistem, bölgenin ekolojik dengesi için kritik bir öneme sahiptir. Yüksek dağ ekolojisi, birçok endemik türün yaşadığı bir alandır ve koruma altına alınması büyük önem taşır.
 

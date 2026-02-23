@@ -22,7 +22,7 @@ wikidata_id: "Q108228294"
 
 # Zonguldak-Ereğli-Caylıoglu-Yabani kiraz
 
-Zonguldak ilinin Ereğli ilçesinde, Caylıoglu ile Yabani kiraz arasında uzanan 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, Karadeniz Bölgesi'nin güzide illerinden Zonguldak'ta, doğanın mucizelerini keşfetmek için ideal bir yer. Yeşilin her tonunu bulabileceğiniz bu môi park, ziyaretçilerini doğanın kucakladığı bir ortam sunuyor. Burada, doğanın güzelliğini ve zenginliğini keşfetmenin keyfini çıkarabilirsiniz.
+ Bu bölge, Karadeniz Bölgesi'nin güzide illerinden Zonguldak'ta, doğanın mucizelerini keşfetmek için ideal bir yer. Yeşilin her tonunu bulabileceğiniz bu môi park, ziyaretçilerini doğanın kucakladığı bir ortam sunuyor. Burada, doğanın güzelliğini ve zenginliğini keşfetmenin keyfini çıkarabilirsiniz.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Zonguldak-Ereğli-Caylıoglu-Yabani kiraz millet parkının tarihi geçmişi, y�
 
 ## Coğrafya
 
-Zonguldak-Ereğli-Caylıoglu-Yabani kiraz millet parkı, Karadeniz Bölgesi'nin Zonguldak ilinde, Ereğli ilçesinde bulunmaktadır. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşmaktadır. Burada, çeşitli bitki türleri ve yaban hayatı bulunmakta olup, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmaktadır. Parkın iklimi, Karadeniz ikliminin característicasını taşıyor. Bölge, yıl boyunca yeşilin her tonunu bulunduran bir güzelliğe sahip. Parkın coğrafi konumu, doğa severlerin keyif alacağı bir ortam sunuyor.
+Zonguldak-Ereğli-Caylıoglu-Yabani kiraz millet parkı, Karadeniz Bölgesi'nin Zonguldak ilinde, Ereğli ilçesinde bulunmaktadır. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşmaktadır. Parkın iklimi, Karadeniz ikliminin característicasını taşıyor. Bölge, yıl boyunca yeşilin her tonunu bulunduran bir güzelliğe sahip. Parkın coğrafi konumu, doğa severlerin keyif alacağı bir ortam sunuyor.
 
 ## Flora ve Fauna
 
-Zonguldak-Ereğli-Caylıoglu-Yabani kiraz millet parkı, flora ve fauna açısından zengin bir alandır. Burada, çeşitli bitki türleri ve yaban hayatı bulunmakta olup, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmaktadır. Parkın flora çeşitliliği, mevsimsel değişimlere göre farklılık göstermektedir. Bahar ve yaz aylarında, parkın flora çeşitliliği en yüksek seviyededir. Parkın fauna çeşitliliği de zengin olup, çeşitli hayvan türleri bulunmakta.
+Zonguldak-Ereğli-Caylıoglu-Yabani kiraz millet parkı, flora ve fauna açısından zengin bir alandır. Parkın flora çeşitliliği, mevsimsel değişimlere göre farklılık göstermektedir. Bahar ve yaz aylarında, parkın flora çeşitliliği en yüksek seviyededir. Parkın fauna çeşitliliği de zengin olup, çeşitli hayvan türleri bulunmakta.
 
 ## Ziyaret Bilgileri
 

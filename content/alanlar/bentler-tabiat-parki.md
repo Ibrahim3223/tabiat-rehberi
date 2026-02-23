@@ -29,7 +29,7 @@ wikidata_id: "Q24915700"
 
 # Bentler Tabiat Parkı
 
-Bentler Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu muhteşem doğa alanı, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Parkın giriş kısmından itibaren, çevreyi saran yeşillik, ziyaretçileri doğanın kucağına alır. Bentler Tabiat Parkı, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+ Bu muhteşem doğa alanı, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Parkın giriş kısmından itibaren, çevreyi saran yeşillik, ziyaretçileri doğanın kucağına alır. Bentler Tabiat Parkı, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

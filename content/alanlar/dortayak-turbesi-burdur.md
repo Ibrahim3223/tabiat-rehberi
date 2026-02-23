@@ -1,7 +1,7 @@
 ---
 title: "Dörtayak Türbesi, Burdur"
 date: "2026-01-10T06:35:12.955Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Burdur"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582635"
 
 # Dörtayak Türbesi, Burdur
 
-Dörtayak Türbesi, Burdur'un merkezinde yer alan tarihi bir yapıdır. 140 hektarlık bir alan üzerinde kurulan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Burdur'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olan Dörtayak Türbesi, ziyaretçilerini büyüleyici mimarisi ve zengin tarihi ile karşılar. Türbenin çevresinde çeşitli tarihi yapılar ve anıtlar bulunmakta olup, burayı ziyaret edenler bu yapıları da keşfetme fırsatı bulabilirler.
+Dörtayak Türbesi, Burdur'un merkezinde yer alan tarihi bir yapıdır. Burdur'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olan Dörtayak Türbesi, ziyaretçilerini büyüleyici mimarisi ve zengin tarihi ile karşılar. Türbenin çevresinde çeşitli tarihi yapılar ve anıtlar bulunmakta olup, burayı ziyaret edenler bu yapıları da keşfetme fırsatı bulabilirler.
 
 ## Tarihçe
 

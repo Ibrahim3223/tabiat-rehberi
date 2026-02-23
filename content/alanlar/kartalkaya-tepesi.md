@@ -28,7 +28,7 @@ wikidata_id: "Q31389382"
 
 # Kartalkaya Tepesi
 
-Kartalkaya Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir yer. 1000 metre rakımla, Akdeniz'in eşsiz manzarasını sunan Kartalkaya Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının ziyaret etmesi gereken bir destinasyon. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Kartalkaya Tepesi, Mersin'in önemli turizm noktalarından biri olarak, her yıl binlerce ziyaretçi tarafından tercih ediliyor.
+ Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir yer. 1000 metre rakımla, Akdeniz'in eşsiz manzarasını sunan Kartalkaya Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının ziyaret etmesi gereken bir destinasyon. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Kartalkaya Tepesi, Mersin'in önemli turizm noktalarından biri olarak, her yıl binlerce ziyaretçi tarafından tercih ediliyor.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Kartalkaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Kartalkaya Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu bölge, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve 1000 metre rakımla, Akdeniz'in eşsiz manzarasını sunuyor. Kartalkaya Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere unutulmaz bir deneyim sunuyor. Bu tepe, Mersin'in önemli turizm noktalarından biri olarak, her yıl binlerce ziyaretçi tarafından tercih ediliyor. Kartalkaya Tepesi'nin coğrafi konumu, ziyaretçilere doğanın güzelliğini ve tarihin zenginliğini sunuyor. Bu bölge, Mersin'in turizm potansiyelini ortaya koyan önemli bir destinasyon olarak, ziyaretçilere hem doğanın güzelliğini hem de tarihin zenginliğini sunuyor. Kartalkaya Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir yer. Bu bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere unutulmaz bir deneyim sunuyor.
+Kartalkaya Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Kartalkaya Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere unutulmaz bir deneyim sunuyor. Bu tepe, Mersin'in önemli turizm noktalarından biri olarak, her yıl binlerce ziyaretçi tarafından tercih ediliyor. Kartalkaya Tepesi'nin coğrafi konumu, ziyaretçilere doğanın güzelliğini ve tarihin zenginliğini sunuyor. Bu bölge, Mersin'in turizm potansiyelini ortaya koyan önemli bir destinasyon olarak, ziyaretçilere hem doğanın güzelliğini hem de tarihin zenginliğini sunuyor. Kartalkaya Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir yer. Bu bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
-Kartalkaya Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere unutulmaz bir deneyim sunuyor. Bu bölge, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve 1000 metre rakımla, Akdeniz'in eşsiz manzarasını sunuyor. Kartalkaya Tepesi, Mersin'in önemli turizm noktalarından biri olarak, her yıl binlerce ziyaretçi tarafından tercih ediliyor. Bu tepe, ziyaretçilere doğanın güzelliğini ve tarihin zenginliğini sunuyor. Kartalkaya Tepesi'nin flora ve fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Bu bölge, Mersin'in turizm potansiyelini ortaya koyan önemli bir destinasyon olarak, ziyaretçilere hem doğanın güzelliğini hem de tarihin zenginliğini sunuyor. Kartalkaya Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere unutulmaz bir deneyim sunuyor.
+Kartalkaya Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere unutulmaz bir deneyim sunuyor. Kartalkaya Tepesi, Mersin'in önemli turizm noktalarından biri olarak, her yıl binlerce ziyaretçi tarafından tercih ediliyor. Bu tepe, ziyaretçilere doğanın güzelliğini ve tarihin zenginliğini sunuyor. Kartalkaya Tepesi'nin flora ve fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Bu bölge, Mersin'in turizm potansiyelini ortaya koyan önemli bir destinasyon olarak, ziyaretçilere hem doğanın güzelliğini hem de tarihin zenginliğini sunuyor. Kartalkaya Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Ziyaret Bilgileri
 
@@ -48,7 +48,6 @@ Kartalkaya Tepesi'ni ziyaret etmek isteyenler, Mersin'in Akdeniz Bölgesi'nde ye
 
 ## İlginç Bilgiler
 
-- Kartalkaya Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu bölge, 1000 metre rakımla, Akdeniz'in eşsiz manzarasını sunuyor.
 - Kartalkaya Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere unutulmaz bir deneyim sunuyor.
 - Bu tepe, Mersin'in önemli turizm noktalarından biri olarak, her yıl binlerce ziyaretçi tarafından tercih ediliyor.

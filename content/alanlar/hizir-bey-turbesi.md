@@ -1,7 +1,7 @@
 ---
 title: "Hızır Bey Türbesi"
 date: "2026-01-10T05:28:05.884Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391397"
 
 # Hızır Bey Türbesi
 
-Hızır Bey Türbesi, Samsun'un Bafra ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir turbe olarak bilinir. 140 hektarlık bir alanı kaplayan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Hızır Bey Türbesi, ziyaretçilerini Karadeniz Bölgesi'nin zengin tarihi ve kültürünü keşfetmeye davet eder. Bu önemli mekan, tarihi ve turistik açıdan büyük bir öneme sahiptir ve ziyaretçilerin ilgisini çeker.
+Hızır Bey Türbesi, Samsun'un Bafra ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir turbe olarak bilinir. Hızır Bey Türbesi, ziyaretçilerini Karadeniz Bölgesi'nin zengin tarihi ve kültürünü keşfetmeye davet eder. Bu önemli mekan, tarihi ve turistik açıdan büyük bir öneme sahiptir ve ziyaretçilerin ilgisini çeker.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hızır Bey Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Hızır Bey Türbesi, Samsun'un Bafra ilçesinde yer alan bir turbe olarak bilinir. Bu mekan, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alır. 140 hektarlık bir alanı kaplayan Hızır Bey Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu mekan, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgede yer alır. Hızır Bey Türbesi'nin etrafı, Karadeniz Bölgesi'nin karakteristik bitki türleri ve fauna ile çevrilidir. Bu mekan, ziyaretçilerini Karadeniz Bölgesi'nin güzelliğini keşfetmeye davet eder.
+Hızır Bey Türbesi, Samsun'un Bafra ilçesinde yer alan bir turbe olarak bilinir. Bu mekan, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alır. Bu mekan, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgede yer alır. Hızır Bey Türbesi'nin etrafı, Karadeniz Bölgesi'nin karakteristik bitki türleri ve fauna ile çevrilidir. Bu mekan, ziyaretçilerini Karadeniz Bölgesi'nin güzelliğini keşfetmeye davet eder.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Hızır Bey Türbesi, ziyaretçilerini Karadeniz Bölgesi'nin tarihi ve kültür
 
 - Hızır Bey Türbesi, Karadeniz Bölgesi'nin önemli tarihi ve turistik mekanlarından biridir.
 - Bu mekan, 140 hektarlık bir alanı kaplar.
-- Hızır Bey Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Bu mekan, Karadeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapar.
 - Hızır Bey Türbesi, ziyaretçilerini Karadeniz Bölgesi'nin tarihi ve kültürünü keşfetmeye davet eder.

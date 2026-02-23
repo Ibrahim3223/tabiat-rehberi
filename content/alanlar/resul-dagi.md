@@ -32,9 +32,9 @@ Van'ın eşsiz doğası, Resul Dağı ile birlikte bir başka boyuta taşınır.
 
 ## Tarihçe
 
-Van bölgesinin tarihçesi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisine maruz kalmıştır. Resul Dağı, Van Gölü'nün yakınında yer alan bir doğal güzelliğimizdir. Bu tür dağlar ve doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasını oluşturur. 
+Van bölgesinin tarihçesi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisine maruz kalmıştır. Resul Dağı, Van Gölü'nün yakınında yer alan bir doğal güzelliğimizdir. Bu tür dağlar ve doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasını oluşturur.
 
-İnsanlar, yüzyıllar boyunca bu doğal alanları yaylacılık, hayvancılık ve ticaret yolları olarak kullanmışlardır. Van bölgesinin coğrafi konumu, doğu-batı ticaret yollarının kesişme noktasında olması, bu bölgenin tarih boyunca önemli bir merkez olmasını sağlamıştır. Resul Dağı ve benzeri doğal güzellikler, bölgenin kültürel ve ekonomik yaşamının bir parçası olarak kabul edilebilir. 
+İnsanlar, yüzyıllar boyunca bu doğal alanları yaylacılık, hayvancılık ve ticaret yolları olarak kullanmışlardır. Van bölgesinin coğrafi konumu, doğu-batı ticaret yollarının kesişme noktasında olması, bu bölgenin tarih boyunca önemli bir merkez olmasını sağlamıştır. Resul Dağı ve benzeri doğal güzellikler, bölgenin kültürel ve ekonomik yaşamının bir parçası olarak kabul edilebilir.
 
 Bu doğal alanlar, sadece yerel halkın değil, aynı zamanda çeşitli uygarlıkların da yaşamını etkilemiştir. Türkiye'nin tarihsel zenginliği, bu tür doğal güzelliklerin korunmasına ve gelecek nesiller için yaşatılmasına bağlıdır. Resul Dağı, Van bölgesinin tarihini ve kültürünü anlamak için önemli bir noktayı temsil eder.
 

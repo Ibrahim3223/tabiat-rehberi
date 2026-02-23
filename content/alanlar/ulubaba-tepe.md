@@ -28,7 +28,7 @@ wikidata_id: "Q31385390"
 
 # Ulubaba Tepe
 
-Ulubaba Tepe, Adıyaman ilinin güneydoğu kesiminde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir bölgedir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yakındaki diğer tepe ve dağlarla birlikte bir bütünü oluşturur. Ulubaba Tepe'nin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu bölge aynı zamanda önemli bir ekolojik bölge olarak kabul edilir. Bölgenin yüksekliği ve coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve tarihi kalıntılar, bu bölgenin geçmişini anlamak için önemli birer kaynaktır.
+Ulubaba Tepe, Adıyaman ilinin güneydoğu kesiminde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir bölgedir. Ulubaba Tepe'nin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu bölge aynı zamanda önemli bir ekolojik bölge olarak kabul edilir. Bölgenin yüksekliği ve coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve tarihi kalıntılar, bu bölgenin geçmişini anlamak için önemli birer kaynaktır.
 
 ## Tarihçe
 

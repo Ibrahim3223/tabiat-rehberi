@@ -22,7 +22,7 @@ wikidata_id: "Q108227769"
 
 # Sakarya-Akyazi-Guneydokurcun Dogu Kayini
 
-Sakarya-Akyazi-Guneydokurcun Dogu Kayini milli parkı, Marmara Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile karşılaşma mümkün. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennet olarak düşünülebilir. Sakarya-Akyazi-Guneydokurcun Dogu Kayini, doğa severlerin ve vahşi yaşamın güzelliğini keşfetmek isteyenlerin bir araya gelebileceği ideal bir nokta.
+Sakarya-Akyazi-Guneydokurcun Dogu Kayini milli parkı, Marmara Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennet olarak düşünülebilir. Sakarya-Akyazi-Guneydokurcun Dogu Kayini, doğa severlerin ve vahşi yaşamın güzelliğini keşfetmek isteyenlerin bir araya gelebileceği ideal bir nokta.
 
 ## Tarihçe
 

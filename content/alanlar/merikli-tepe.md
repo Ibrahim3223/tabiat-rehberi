@@ -28,7 +28,7 @@ wikidata_id: "Q31389437"
 
 # Merikli Tepe
 
-Merikli Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan ve tarihi ile coğrafi özellikleri ile dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile oldukça geniş bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Merikli Tepe'nin yüksekliği ve genişliği, onu bölgenin önemli noktalarından biri haline getiriyor. Bu tepe, hem doğa severler hem de tarih meraklıları için ilgi çekici bir destinasyon.
+Merikli Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan ve tarihi ile coğrafi özellikleri ile dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile oldukça geniş bir alanı kaplıyor. Merikli Tepe'nin yüksekliği ve genişliği, onu bölgenin önemli noktalarından biri haline getiriyor. Bu tepe, hem doğa severler hem de tarih meraklıları için ilgi çekici bir destinasyon.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Merikli Tepe, ziyaretçiler için çeşitli olanaklar sunuyor. Bu tepe, doğa y�
 ## İlginç Bilgiler
 
 - Merikli Tepe, 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Merikli Tepe, Akdeniz Bölgesi'nin ılıman ikliminin etkisinde.
 - Bu tepe, yıl boyunca ziyaret edilebiliyor.
 - Merikli Tepe, zengin bir flora ve fauna ile dikkat çekiyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q31390509"
 
 # Kızılbayır Tepesi
 
-Kızılbayır Tepesi, Konya'nın merkezinde yer alan ve şehrin önemli doğal güzelliklerinden biri olan bir tepedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin panoramik manzarasına hakim bir konumdadır. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunurken, zirvesinde ise şehrin dört bir yanını görebileceğiniz geniş bir alan bulunmaktadır. Kızılbayır Tepesi, hem doğa severlerin hem de şehri keşfetmek isteyenlerin ziyaret etmesi gereken bir noktadır.
+Kızılbayır Tepesi, Konya'nın merkezinde yer alan ve şehrin önemli doğal güzelliklerinden biri olan bir tepedir. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunurken, zirvesinde ise şehrin dört bir yanını görebileceğiniz geniş bir alan bulunmaktadır. Kızılbayır Tepesi, hem doğa severlerin hem de şehri keşfetmek isteyenlerin ziyaret etmesi gereken bir noktadır.
 
 ## Tarihçe
 

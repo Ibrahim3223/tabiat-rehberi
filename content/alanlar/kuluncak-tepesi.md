@@ -28,7 +28,7 @@ wikidata_id: "Q31390974"
 
 # Kuluncak Tepesi
 
-Kuluncak Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan ve 1400 metre yüksekliğiyle dikkat çeken bir doğa harikasıdır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kayseri'nin tarihi ve kültürel zenginliklerinin bir parçası olan Kuluncak Tepesi, aynı zamanda doğa severlerin de favori destinasyonlarından biri.
+Kuluncak Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan ve 1400 metre yüksekliğiyle dikkat çeken bir doğa harikasıdır. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kayseri'nin tarihi ve kültürel zenginliklerinin bir parçası olan Kuluncak Tepesi, aynı zamanda doğa severlerin de favori destinasyonlarından biri.
 
 ## Tarihçe
 

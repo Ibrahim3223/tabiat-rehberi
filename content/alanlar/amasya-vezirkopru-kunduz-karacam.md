@@ -22,7 +22,7 @@ wikidata_id: "Q108227475"
 
 # Amasya-Vezirkopru-Kunduz Karacam
 
-Amasya-Vezirkopru-Kunduz Karacam milli parkı, Karadeniz Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna ile dikkat çekmektedir. Bu milli park, ziyaretçilerine doğa ile iç içe bir deneyim sunmakta ve bölgenin tarihi geçmişi hakkında bilgi vermektedir. Kunduz Karacam milli parkı, coğrafi konumu itibariyle Karadeniz Bölgesi'nin en güzel yerlerinden biri olarak kabul edilmektedir.
+Amasya-Vezirkopru-Kunduz Karacam milli parkı, Karadeniz Bölgesi'nin önemli doğal alanlarından biridir. Bu milli park, ziyaretçilerine doğa ile iç içe bir deneyim sunmakta ve bölgenin tarihi geçmişi hakkında bilgi vermektedir. Kunduz Karacam milli parkı, coğrafi konumu itibariyle Karadeniz Bölgesi'nin en güzel yerlerinden biri olarak kabul edilmektedir.
 
 ## Tarihçe
 

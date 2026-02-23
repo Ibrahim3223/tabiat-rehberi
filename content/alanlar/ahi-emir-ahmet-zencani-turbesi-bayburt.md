@@ -1,7 +1,7 @@
 ---
 title: "Ahi Emir Ahmet Zencani Türbesi, Bayburt"
 date: "2026-01-10T06:47:03.458Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bayburt"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582723"
 
 # Ahi Emir Ahmet Zencani Türbesi, Bayburt
 
-Ahi Emir Ahmet Zencani Türbesi, Bayburt'un merkezinde yer alan tarihi ve kültürel bir zenginliktir. 140 hektarlık bir alan üzerinde konumlanan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir araziyi kaplar. Bu önemli dini merkez, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri olup, her yıl binlerce ziyaretçiyi ağırlar. Türbenin mimarisi ve tarihi önemi, ziyaretçilere unutulmaz bir deneyim sunar. Ahi Emir Ahmet Zencani Türbesi, Bayburt'un tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyon olup, ziyaretçilere şehir hakkında derin bir fikir verir.
+Ahi Emir Ahmet Zencani Türbesi, Bayburt'un merkezinde yer alan tarihi ve kültürel bir zenginliktir. Bu önemli dini merkez, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri olup, her yıl binlerce ziyaretçiyi ağırlar. Türbenin mimarisi ve tarihi önemi, ziyaretçilere unutulmaz bir deneyim sunar. Ahi Emir Ahmet Zencani Türbesi, Bayburt'un tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyon olup, ziyaretçilere şehir hakkında derin bir fikir verir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ahi Emir Ahmet Zencani Türbesi, tarihi geçmişi ile dikkat çekmektedir. Türb
 
 ## Coğrafya
 
-Ahi Emir Ahmet Zencani Türbesi, Bayburt'un merkezi bir bölgesinde yer alır. Türbe, 140 hektarlık bir arazide konumlanmakta olup, yaklaşık 200 futbol sahası büyüklüğündedir. Bayburt'un coğrafi konumu, Karadeniz Bölgesi'nin önemli bir kısmını kapsar ve türbe, bu bölgenin merkezi bir noktasında bulunur. Türbenin etrafı, yeşilliklerle çevrilidir ve ziyaretçilere huzurlu bir ortam sunar. Bayburt'un iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, genellikle yağışlı ve serin bir yapıya sahiptir. Türbenin coğrafi konumu ve çevre özellikleri, ziyaretçilere şehir hakkında geniş bir fikir verir ve Bayburt'un doğal güzelliklerini keşfetme fırsatı sunar.
+Ahi Emir Ahmet Zencani Türbesi, Bayburt'un merkezi bir bölgesinde yer alır. Bayburt'un coğrafi konumu, Karadeniz Bölgesi'nin önemli bir kısmını kapsar ve türbe, bu bölgenin merkezi bir noktasında bulunur. Türbenin etrafı, yeşilliklerle çevrilidir ve ziyaretçilere huzurlu bir ortam sunar. Bayburt'un iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, genellikle yağışlı ve serin bir yapıya sahiptir. Türbenin coğrafi konumu ve çevre özellikleri, ziyaretçilere şehir hakkında geniş bir fikir verir ve Bayburt'un doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

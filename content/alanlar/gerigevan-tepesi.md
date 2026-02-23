@@ -28,7 +28,7 @@ wikidata_id: "Q31540961"
 
 # Gerigevan Tepesi
 
-Gerigevan Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir doğal güzelliktir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir yeşil alan olarak dikkat çekmektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Gerigevan Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Tepenin etrafında çeşitli bitki türleri ve zengin fauna foundır. Bu tepe, bölgenin tarihi geçmişi ile de bağlantılıdır.
+Gerigevan Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir doğal güzelliktir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir yeşil alan olarak dikkat çekmektedir. Gerigevan Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Tepenin etrafında çeşitli bitki türleri ve zengin fauna foundır. Bu tepe, bölgenin tarihi geçmişi ile de bağlantılıdır.
 
 ## Tarihçe
 

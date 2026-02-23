@@ -1,7 +1,7 @@
 ---
 title: "Kilise Dağı"
 date: "2026-01-09T02:10:00.764Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Diyarbakır"
@@ -73,4 +73,4 @@ Kilise Dağı, Diyarbakır'ın saklı bir hazine gibi bekleyen bir doğa harikas
 - Diyarbakır Kalesi'ne yaklaşık 5 kilometre uzaklıktadır.
 - Kilise Dağı'nın tarihi M.S. 2. yüzyıla kadar uzanmaktadır.
 - Diyarbakır'ın tarihi ve kültürel mirasını koruma altına alan sit alanlarından biridir.
-- Kilise Dağı'nda históri ve arkeolojik kazılar yapılmıştır.
+- Kilise Dağı'nda tarihi ve arkeolojik kazılar yapılmıştır.

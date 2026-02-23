@@ -50,11 +50,11 @@ Mevsimsel değişikliklerin etkisi altında kalan Gevenli Dağı, Konya'nın kar
 
 ## Flora ve Fauna
 
-Gevenli Dağı, Konya'nın step bitki örtüsüne ve bozkırına ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gevenli Dağı, Konya'nın step bitki örtüsüne ve bozkırına ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbahar aylarında çiçeklerin açtığı ve step bitki örtüsünün hakim olduğu bir manzara ile karşılaşıyoruz. Yükseklik zonlarına göre değişen alpin flora, dağların yüksek kesimlerinde kendine özgü bir güzelliğe sahip.
 
-Yaban Hayatı olarak, memeliler, kuşlar ve sürüngenler bu dağda yaşamlarını sürdürüyor. Sonbahar aylarında göç eden kuşlar, bu dağları önemli bir göç yolu olarak kullanıyor. 
+Yaban Hayatı olarak, memeliler, kuşlar ve sürüngenler bu dağda yaşamlarını sürdürüyor. Sonbahar aylarında göç eden kuşlar, bu dağları önemli bir göç yolu olarak kullanıyor.
 
 Ekolojik Değer olarak, bu dağ ekosisteminin korunması büyük önem taşıyor. Kuraklığa adapte türlerin yaşadığı bu bölge, ekolojik dengenin korunması için önemli bir role sahip.
 

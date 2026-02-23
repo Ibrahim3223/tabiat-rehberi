@@ -29,7 +29,7 @@ wikidata_id: "Q31389241"
 
 # Şeyhbedrettin Tepesi
 
-Şeyhbedrettin Tepesi, İç Anadolu Bölgesi'nin coğrafi ve tarihi zenginliklerini bir araya getiren bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türüne ev sahipliği yapıyor. Tepenin eteklerinde kurulan yerleşim yerleri, bölgenin tarihi geçmişine ışık tutuyor. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir gezi noktası.
+Şeyhbedrettin Tepesi, İç Anadolu Bölgesi'nin coğrafi ve tarihi zenginliklerini bir araya getiren bir destinasyon. Tepenin eteklerinde kurulan yerleşim yerleri, bölgenin tarihi geçmişine ışık tutuyor. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir gezi noktası.
 
 ## Tarihçe
 

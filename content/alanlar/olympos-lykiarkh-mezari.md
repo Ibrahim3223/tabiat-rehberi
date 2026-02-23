@@ -29,7 +29,7 @@ wikidata_id: "Q134728234"
 
 # Olympos Lykiarkh Mezarı
 
-Olympos Lykiarkh Mezarı, Antalya'nın Kumluca ilçesinde yer alan tarihi ve doğal güzellikleri ile dikkat çeken bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Olympos Lykiarkh Mezarı, tarihi geçmişi ve zengin fauna ile ziyaretçilerini bekliyor. Bu mezarlık, Lykia Bölgesi'nin önemli tarihi kalıntılarından biri olarak kabul ediliyor ve bölgenin tarihsel önemini vurguluyor.
+Olympos Lykiarkh Mezarı, Antalya'nın Kumluca ilçesinde yer alan tarihi ve doğal güzellikleri ile dikkat çeken bir alandır. Olympos Lykiarkh Mezarı, tarihi geçmişi ve zengin fauna ile ziyaretçilerini bekliyor. Bu mezarlık, Lykia Bölgesi'nin önemli tarihi kalıntılarından biri olarak kabul ediliyor ve bölgenin tarihsel önemini vurguluyor.
 
 ## Tarihçe
 

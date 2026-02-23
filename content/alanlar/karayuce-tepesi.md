@@ -28,7 +28,7 @@ wikidata_id: "Q34878062"
 
 # Karayüce Tepesi
 
-Hatay ilinin güzide tepelerinden biri olan Karayüce Tepesi, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu tepe, ziyaretçilerine geniş bir manzara sunar ve Akdeniz Bölgesi'nin güzelliğini gözler önüne serer. Karayüce Tepesi, hem doğa severler hem de tarih meraklıları için bir cazibe merkezi olup, ziyaretçilerini büyüleyici bir deneyime davet eder. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve geniş bir görüş açısı sunar.
+ Bu tepe, ziyaretçilerine geniş bir manzara sunar ve Akdeniz Bölgesi'nin güzelliğini gözler önüne serer. Karayüce Tepesi, hem doğa severler hem de tarih meraklıları için bir cazibe merkezi olup, ziyaretçilerini büyüleyici bir deneyime davet eder.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karayüce Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Karayüce Tepesi, Hatay ilinin coğrafi yapısını gözler önüne seren bir tepe olup, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu tepe, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Karayüce Tepesi'nin coğrafi konumu, ziyaretçilerine geniş bir manzara sunar ve Akdeniz Bölgesi'nin güzelliğini gözler önüne serer. Bu tepe, deniz seviyesinden belirli bir yükseklikte yer alır ve etrafındaki diğer tepelerle birlikte bir dağ silsilesini oluşturur. Karayüce Tepesi'nin iklimi, Akdeniz ikliminin özellikleri gösterir ve genellikle ılıman ve yağışlı bir hava hüküm sürer. Bu tepe, çeşitli bitki türleri ve hayvanlarla birlikte zengin bir ekosisteme sahiptir.
+Karayüce Tepesi, Hatay ilinin coğrafi yapısını gözler önüne seren bir tepe olup, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Karayüce Tepesi'nin coğrafi konumu, ziyaretçilerine geniş bir manzara sunar ve Akdeniz Bölgesi'nin güzelliğini gözler önüne serer. Bu tepe, deniz seviyesinden belirli bir yükseklikte yer alır ve etrafındaki diğer tepelerle birlikte bir dağ silsilesini oluşturur. Karayüce Tepesi'nin iklimi, Akdeniz ikliminin özellikleri gösterir ve genellikle ılıman ve yağışlı bir hava hüküm sürer. Bu tepe, çeşitli bitki türleri ve hayvanlarla birlikte zengin bir ekosisteme sahiptir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Karayüce Tepesi'ni ziyaret etmek, ziyaretçilere geniş bir manzara sunar ve Ak
 ## İlginç Bilgiler
 
 - Karayüce Tepesi, 140 hektarlık bir alanı kapsar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar.
+
 - Karayüce Tepesi, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Bu tepe, verschiedenen bitki türleri ve hayvanlarla birlikte zengin bir ekosisteme sahiptir.
 - Karayüce Tepesi, yılın her döneminde ziyaret edilebilir.

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Şerafettin Türbesi"
 date: "2026-01-10T05:06:42.015Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Yalova"
@@ -29,15 +29,15 @@ wikidata_id: "Q131391649"
 
 # Şeyh Şerafettin Türbesi
 
-Şeyh Şerafettin Türbesi, Yalova'nın merkezinde yer alan ve Marmara Bölgesi'nin en önemli turistik noktalarından biri olan bir tarihi mekan. Bu mekan, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan içinde bulunuyor. Şeyh Şerafettin Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir ortamda ağırlıyor. Burada, hem tarihin sâu izlerini görebilir hem de Marmara Denizi'nin güzel plajlarını keşfedebilirsiniz.
+Şeyh Şerafettin Türbesi, Yalova'nın merkezinde yer alan ve Marmara Bölgesi'nin en önemli turistik noktalarından biri olan bir tarihi mekan. Şeyh Şerafettin Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir ortamda ağırlıyor. Burada, hem tarihin derin izlerini görebilir hem de Marmara Denizi'nin güzel plajlarını keşfedebilirsiniz.
 
 ## Tarihçe
 
-Şeyh Şerafettin Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve önemli olaylara şahitlik etmiş. Bu mekan, tarihi boyunca çeşitli medeniyetlerin izlerini taşıyor ve ziyaretçilerine zengin bir kültürel miras sunuyor. Şeyh Şerafettin Türbesi, özellikle Osmanlı Dönemi'nde önemli bir role sahip olmuş ve çeşitli tarihi olaylara ev sahipliği yapmış. Burada, tarihin sâu izlerini görme ve tarihi olayları öğrenme mümkün.
+Şeyh Şerafettin Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve önemli olaylara şahitlik etmiş. Bu mekan, tarihi boyunca çeşitli medeniyetlerin izlerini taşıyor ve ziyaretçilerine zengin bir kültürel miras sunuyor. Şeyh Şerafettin Türbesi, özellikle Osmanlı Dönemi'nde önemli bir role sahip olmuş ve çeşitli tarihi olaylara ev sahipliği yapmış. Burada, tarihin derin izlerini görme ve tarihi olayları öğrenme mümkün.
 
 ## Coğrafya
 
-Şeyh Şerafettin Türbesi, Yalova'nın merkezinde yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu mekan, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan içinde bulunuyor. Şeyh Şerafettin Türbesi'nin coğrafi konumu, ziyaretçilerine Marmara Denizi'nin güzel plajlarını keşfetme fırsatı sunuyor. Burada, hem tarihi mekanları gezebilir hem de doğal güzellikleri keşfedebilirsiniz. Şeyh Şerafettin Türbesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı ve ziyaretçilerine doğanın güzelliklerini sunuyor.
+Şeyh Şerafettin Türbesi, Yalova'nın merkezinde yer alıyor ve Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Şeyh Şerafettin Türbesi'nin coğrafi konumu, ziyaretçilerine Marmara Denizi'nin güzel plajlarını keşfetme fırsatı sunuyor. Burada, hem tarihi mekanları gezebilir hem de doğal güzellikleri keşfedebilirsiniz. Şeyh Şerafettin Türbesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı ve ziyaretçilerine doğanın güzelliklerini sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131391649"
 ## İlginç Bilgiler
 
 - Şeyh Şerafettin Türbesi, Yalova'nın en önemli turistik noktalarından biri.
-- Bu mekan, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan içinde bulunuyor.
+
 - Şeyh Şerafettin Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir ortamda ziyaretçilerini ağırlıyor.
-- Burada, hem tarihin sâu izlerini görebilir hem de Marmara Denizi'nin güzel plajlarını keşfedebilirsiniz.
+- Burada, hem tarihin derin izlerini görebilir hem de Marmara Denizi'nin güzel plajlarını keşfedebilirsiniz.
 - Şeyh Şerafettin Türbesi, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlıyor.

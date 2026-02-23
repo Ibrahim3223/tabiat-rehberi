@@ -50,9 +50,9 @@ Doğal kaynaklar bakımından zengin olan Kırna Dağları, çevresindeki su kay
 
 ## Flora ve Fauna
 
-Kırna Dağları, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bitki örtüsü ve yaban hayatı bulunur. 
-İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır. Sonbaharda ise, göçmen kuşlar dağları geçerek yeni yuvalarına giderler. Bu dağlarda, step ve ova ekolojisinin karakteristik bitkileri hakimdir. 
-Dağların yüksek kesimlerinde, alpin flora typesi görülür. Burada yaşayan yaban hayvanları, dağların zorlu koşullarına adapte olmuştur. 
+Kırna Dağları, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bitki örtüsü ve yaban hayatı bulunur.
+İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır. Sonbaharda ise, göçmen kuşlar dağları geçerek yeni yuvalarına giderler. Bu dağlarda, step ve ova ekolojisinin karakteristik bitkileri hakimdir.
+Dağların yüksek kesimlerinde, alpin flora typesi görülür. Burada yaşayan yaban hayvanları, dağların zorlu koşullarına adapte olmuştur.
 Kırna Dağları, bölgenin ekolojik dengesini koruma açısından önemlidir. Bu dağların korunması, hem bitki örtüsünün hem de yaban hayatının devamını sağlar.
 
 ## Ziyaret Bilgileri

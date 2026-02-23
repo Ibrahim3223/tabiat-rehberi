@@ -29,7 +29,7 @@ wikidata_id: "Q31387313"
 
 # Allahuekber Tepesi
 
-Allahuekber Tepesi, Doğu Anadolu Bölgesi'nin dağlık bölgesinde yer alan bir tepe. Erzurum'un merkezine yakın konumuyla dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna encontruluyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğayı keşfetme fırsatı sunuyor. Tepenin yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunuyor.
+Allahuekber Tepesi, Doğu Anadolu Bölgesi'nin dağlık bölgesinde yer alan bir tepe. Erzurum'un merkezine yakın konumuyla dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna encontruluyor. Bu geniş alan, ziyaretçilere doğayı keşfetme fırsatı sunuyor. Tepenin yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunuyor.
 
 ## Tarihçe
 

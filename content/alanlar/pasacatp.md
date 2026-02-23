@@ -22,7 +22,7 @@ wikidata_id: "Q108229006"
 
 # PAŞACA_TP
 
-PAŞACA_TP milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Parkın çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. PAŞACA_TP, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+PAŞACA_TP milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Parkın çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. PAŞACA_TP, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ PAŞACA_TP milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-PAŞACA_TP milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Parkın çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal ve stepping iklimi arasında değişiyor. PAŞACA_TP, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Parkın coğrafyası, visitorlerin doğayı keşfetmeleri için ideal bir ortam sunuyor.
+PAŞACA_TP milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Parkın çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal ve stepping iklimi arasında değişiyor. PAŞACA_TP, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Parkın coğrafyası, visitorlerin doğayı keşfetmeleri için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ PAŞACA_TP milli parkını ziyaret etmek, doğa severler ve macera arayanlar iç
 ## İlginç Bilgiler
 
 - PAŞACA_TP, 140 hektarlık bir yeşil alana sahip.
-- PAŞACA_TP, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - PAŞACA_TP, İç Anadolu Bölgesi'nin kalbinde yer alıyor.
 - PAŞACA_TP, ziyaretçilerini doğanın kucağına davet ediyor.
 - PAŞACA_TP, doğa severler ve macera arayanlar için ideal bir destinasyon.

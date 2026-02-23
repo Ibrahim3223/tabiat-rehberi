@@ -1,7 +1,7 @@
 ---
 title: "Beşikli Baba Türbesi"
 date: "2026-01-10T06:59:48.599Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390801"
 
 # Beşikli Baba Türbesi
 
-Beşikli Baba Türbesi, Elazığ'ın merkezinde yer alan historically önemli bir yapıdır. Bu türbe, şehrin en çok ziyaret edilen yerlerinden biri olarak bilinir. Türbenin etrafında, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve yeşilliklerle kaplıdır. Bu geniş alan, ziyaretçilere huzurlu bir ortam sunar. Beşikli Baba Türbesi, şehrin kültürel ve tarihi zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Türbenin tarihi geçmişi, ziyaretçilere bu özel yerin önemini anlatır.
+Beşikli Baba Türbesi, Elazığ'ın merkezinde yer alan historically önemli bir yapıdır. Bu türbe, şehrin en çok ziyaret edilen yerlerinden biri olarak bilinir. Bu geniş alan, ziyaretçilere huzurlu bir ortam sunar. Beşikli Baba Türbesi, şehrin kültürel ve tarihi zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Türbenin tarihi geçmişi, ziyaretçilere bu özel yerin önemini anlatır.
 
 ## Tarihçe
 

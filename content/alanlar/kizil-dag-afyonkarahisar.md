@@ -1,7 +1,7 @@
 ---
 title: "Kızıl Dağ (Afyonkarahisar)"
 date: "2026-01-09T01:56:28.305Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Afyonkarahisar"
@@ -33,7 +33,7 @@ Afyonkarahisar'ın doğal güzellikleri arasında yer alan Kızıl Dağ, ilin co
 
 ## Tarihçe
 
-Afyonkarahisar bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölge, históriyenin en eski dönemlerinden beri çeşitli uygarlıkların yerleşim ve geçiş noktalarından biri olmuştur. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada izler bırakmışlardır.
+Afyonkarahisar bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, tarihi en eski dönemlerinden beri çeşitli uygarlıkların yerleşim ve geçiş noktalarından biri olmuştur. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada izler bırakmışlardır.
 
 Doğal güzellikleri ve coğrafi konumuyla önemli bir merkez olan Afyonkarahisar, tarih boyunca insanların yaşamlarını sürdürdüğü, ticaret yollarının kesiştiği ve kültürel etkileşimlerin yaşandığı bir bölge olmuştur. Bu tür doğal alanlar, Türkiye'de tarih boyunca insanların yaşamını destekleyen, ekonomisini şekillendiren ve kültürel kimliğini oluşturan önemli unsurlar arasında yer almıştır.
 

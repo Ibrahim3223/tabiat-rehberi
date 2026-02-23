@@ -28,7 +28,7 @@ wikidata_id: "Q31542639"
 
 # Hacıalinin Tepesi
 
-Hacıalinin Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli kültür ve doğa merkezlerinden biri olan Diyarbakır'da yer alır. Bu bölge, yaklaşık 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Hacıalinin Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle büyüler. Tarihi geçmişi, coğrafi konumu ve zengin flora ve faunasıyla bu tepe, bölgeyi keşfetmek isteyenler için önemli bir destinasyon haline gelir.
+Hacıalinin Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli kültür ve doğa merkezlerinden biri olan Diyarbakır'da yer alır. Hacıalinin Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle büyüler. Tarihi geçmişi, coğrafi konumu ve zengin flora ve faunasıyla bu tepe, bölgeyi keşfetmek isteyenler için önemli bir destinasyon haline gelir.
 
 ## Tarihçe
 

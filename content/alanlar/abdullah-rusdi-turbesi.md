@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Rüşdi Türbesi"
 date: "2026-01-10T06:25:58.417Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390715"
 
 # Abdullah Rüşdi Türbesi
 
-Abdullah Rüşdi Türbesi, Bolu'nun Mudurnu ilçesinde yer alan ve hem tarihi hem de doğal güzellikleri bir arada sunan özel bir mekan. 140 hektarlık bir alan üzerinde bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Tarihi geçmişi ile dikkat çeken bu mekan, aynı zamanda Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Abdullah Rüşdi Türbesi, Bolu'nun Mudurnu ilçesinde yer alan ve hem tarihi hem de doğal güzellikleri bir arada sunan özel bir mekan. Tarihi geçmişi ile dikkat çeken bu mekan, aynı zamanda Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

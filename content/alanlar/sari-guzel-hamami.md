@@ -1,7 +1,7 @@
 ---
 title: "Sarı Güzel Hamamı"
 date: "2026-01-09T23:32:30.812Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739122"
 
 # Sarı Güzel Hamamı
 
-Sarı Güzel Hamamı, İstanbul'un Fatih ilçesinde bulunan bir plaj ve tarihi hamam kompleksi olarak dikkat çekiyor. Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerine kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Sarı Güzel Hamamı, İstanbul'un kalabalık ve gürültülü streetsinden uzaklaşmak isteyenler için bir sığınak olarak görülüyor. Bu mekan, hem tarihi hem de doğal güzelliklerini bir arada sunuyor ve ziyaretçilerini rahatlatmak için tasarlanmış bir atmosfere sahip.
+Sarı Güzel Hamamı, İstanbul'un Fatih ilçesinde bulunan bir plaj ve tarihi hamam kompleksi olarak dikkat çekiyor. Sarı Güzel Hamamı, İstanbul'un kalabalık ve gürültülü streetsinden uzaklaşmak isteyenler için bir sığınak olarak görülüyor. Bu mekan, hem tarihi hem de doğal güzelliklerini bir arada sunuyor ve ziyaretçilerini rahatlatmak için tasarlanmış bir atmosfere sahip.
 
 ## Tarihçe
 

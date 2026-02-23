@@ -29,7 +29,7 @@ wikidata_id: "Q31516654"
 
 # Katır Tepesi
 
-İç Anadolu Bölgesi'nin geniş ve verimli ovaları arasında yer alan Katır Tepesi, bölgeye gelenler için önemli bir gezi noktası. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılıyor. Katır Tepesi, aynı zamanda bölgede yer alan önemli bir coğrafi oluşum ve bu nedenle coğrafya meraklıları tarafından da sıkça ziyaret ediliyor.
+İç Anadolu Bölgesi'nin geniş ve verimli ovaları arasında yer alan Katır Tepesi, bölgeye gelenler için önemli bir gezi noktası. Katır Tepesi, aynı zamanda bölgede yer alan önemli bir coğrafi oluşum ve bu nedenle coğrafya meraklıları tarafından da sıkça ziyaret ediliyor.
 
 ## Tarihçe
 

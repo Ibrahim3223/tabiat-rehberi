@@ -29,7 +29,7 @@ wikidata_id: "Q32139115"
 
 # Güllü Dağ
 
-Yozgat'ın merkezinde yer alan Güllü Dağ, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu dağ, şehrin silüetini oluşturan önemli bir coğrafi oluşumdur. Güllü Dağ, doğal güzelliği ve tarihi geçmişiyle ziyaretçilerini çekiyor. Dağın eteklerinde bulunan yerleşim yerleri, bu coğrafi oluşumun insan yaşamı üzerindeki etkisini gösteriyor. Güllü Dağ, aynı zamanda bölgede bulunan çeşitli bitki türleri ve hayvanlarla da dikkat çekiyor. Bu dağ, Yozgat'ın önemli bir turizm merkezi haline gelmesini sağlıyor.
+ Bu dağ, şehrin silüetini oluşturan önemli bir coğrafi oluşumdur. Güllü Dağ, doğal güzelliği ve tarihi geçmişiyle ziyaretçilerini çekiyor. Dağın eteklerinde bulunan yerleşim yerleri, bu coğrafi oluşumun insan yaşamı üzerindeki etkisini gösteriyor. Güllü Dağ, aynı zamanda bölgede bulunan çeşitli bitki türleri ve hayvanlarla da dikkat çekiyor. Bu dağ, Yozgat'ın önemli bir turizm merkezi haline gelmesini sağlıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Güllü Dağ, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir böl
 
 ## Coğrafya
 
-Güllü Dağ, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir dağ olarak dikkat çekiyor. Bu dağ, Yozgat'ın merkezinde yer alıyor ve şehrin coğrafi yapısını oluşturan önemli bir unsurdur. Güllü Dağ, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu dağ, şehrin silüetini oluşturan önemli bir coğrafi oluşumdur. Güllü Dağ'ın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla da dikkat çekiyor. Bu dağ, aynı zamanda bölgede bulunan iklim özellikleri ve çevre koşullarıyla da ilgili olarak değerlendiriliyor. Güllü Dağ, Yozgat'ın coğrafi zenginliklerini yansıtmasıyla dikkat çekiyor. Bu dağ, şehrin doğal güzelliğini oluşturan önemli bir unsur olarak kabul ediliyor.
+Güllü Dağ, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir dağ olarak dikkat çekiyor. Bu dağ, Yozgat'ın merkezinde yer alıyor ve şehrin coğrafi yapısını oluşturan önemli bir unsurdur. Bu dağ, şehrin silüetini oluşturan önemli bir coğrafi oluşumdur. Güllü Dağ'ın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla da dikkat çekiyor. Bu dağ, aynı zamanda bölgede bulunan iklim özellikleri ve çevre koşullarıyla da ilgili olarak değerlendiriliyor. Güllü Dağ, Yozgat'ın coğrafi zenginliklerini yansıtmasıyla dikkat çekiyor. Bu dağ, şehrin doğal güzelliğini oluşturan önemli bir unsur olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Güllü Dağ, ziyaretçilerini bekleyen bir coğrafi oluşum olarak dikkat çeki
 
 ## İlginç Bilgiler
 
-- Güllü Dağ, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
 - Bu dağ, Yozgat'ın merkezinde yer alıyor ve şehrin silüetini oluşturan önemli bir coğrafi oluşumdur.
 - Güllü Dağ, doğal güzelliği ve tarihi geçmişiyle ziyaretçilerini çekiyor.
 - Bu dağ, aynı zamanda bölgede bulunan çeşitli bitki türleri ve hayvanlarla da dikkat çekiyor.

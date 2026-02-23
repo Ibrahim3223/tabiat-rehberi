@@ -28,7 +28,7 @@ wikidata_id: "Q31386558"
 
 # Tartı Tepesi
 
-Tartı Tepesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Siirt ilinde yer alan bir doğal güzelliğimiz. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile beraber büyük bir doğal zenginlik sunuyor. Tarihçesi ve coğrafi konumu ile birlikte, ziyaretçilerini büyüleyen bir destinasyon. Tepenin etrafı, çeşitli bitki türleri ile örtülmüş ve zengin fauna ile dolu. Bu tepe, bölgenin önemli bir doğal ve kültürel mirası olarak kabul ediliyor.
+Tartı Tepesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Siirt ilinde yer alan bir doğal güzelliğimiz. Tarihçesi ve coğrafi konumu ile birlikte, ziyaretçilerini büyüleyen bir destinasyon. Tepenin etrafı, çeşitli bitki türleri ile örtülmüş ve zengin fauna ile dolu. Bu tepe, bölgenin önemli bir doğal ve kültürel mirası olarak kabul ediliyor.
 
 ## Tarihçe
 

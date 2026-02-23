@@ -29,7 +29,7 @@ wikidata_id: "Q31386458"
 
 # Karataş Tepesi
 
-Karataş Tepesi, Hatay ilinin güzide bir bölgesinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Bu tepenin etrafında yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Karataş Tepesi, Hatay'ın doğal ve tarihi zenginliklerini bir araya getiren özel bir nokta.
+Karataş Tepesi, Hatay ilinin güzide bir bölgesinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Karataş Tepesi, Hatay'ın doğal ve tarihi zenginliklerini bir araya getiren özel bir nokta.
 
 ## Tarihçe
 

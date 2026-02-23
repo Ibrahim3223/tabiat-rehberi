@@ -51,11 +51,11 @@ Mevsimsel değişikliklere göre, Keşiş Dağı'nın iklim karakteri oldukça �
 
 ## Flora ve Fauna
 
-Keşiş Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, alpin çayırlar renkli çiçeklerle donanır. 
+Keşiş Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, alpin çayırlar renkli çiçeklerle donanır.
 
-Bitki örtüsünü oluşturan hakim türler, mevsimsel değişimlerle birlikte güzelleşir. Yükseklik zonlarına bağlı olarak, farklı türler bulunur. Dağın yüksek kesimlerinde, dayanıklı ve adaptasyon yeteneği yüksek bitkiler yaşamını sürdürür. 
+Bitki örtüsünü oluşturan hakim türler, mevsimsel değişimlerle birlikte güzelleşir. Yükseklik zonlarına bağlı olarak, farklı türler bulunur. Dağın yüksek kesimlerinde, dayanıklı ve adaptasyon yeteneği yüksek bitkiler yaşamını sürdürür.
 
-Yaban hayatı da bir o kadar zengin ve çeşitli. Dağ keçileri, ayılar ve kurtlar gibi memeliler, dağların yüksek kesimlerinde yaşamını sürdürür. Kuşlar, özellikle göç mevsimlerinde, Keşiş Dağı'nı önemli bir uğrak noktası olarak kullanır. Sürüngenler de, dağların kayalık ve taşlık alanlarında yaşamlarını sürdürür. 
+Yaban hayatı da bir o kadar zengin ve çeşitli. Dağ keçileri, ayılar ve kurtlar gibi memeliler, dağların yüksek kesimlerinde yaşamını sürdürür. Kuşlar, özellikle göç mevsimlerinde, Keşiş Dağı'nı önemli bir uğrak noktası olarak kullanır. Sürüngenler de, dağların kayalık ve taşlık alanlarında yaşamlarını sürdürür.
 
 Keşiş Dağı'nın ekolojik değeri, yüksek dağ ekosisteminin tüm bileşenlerini barındırmasıdır. Bu alan, endemik türlerin yaşam alanı olarak büyük önem taşır. Koruma durumu, bu alanın gelecek nesiller için korunması açısından kritik bir öneme sahiptir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Terzizade Ahmet Efendi Türbesi"
 date: "2026-01-10T07:54:00.739Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391341"
 
 # Terzizade Ahmet Efendi Türbesi
 
-Terzizade Ahmet Efendi Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan tarihi bir türbe ve plajdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşittir. Türbenin bulunduğu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeder. İnsanlar, hem tarihi bir yapıyı görmeye hem de denize girerek güneşin tadını çıkarmaya gelirler. Bu mevkide, tarihi ve doğal güzelliğin birleştiği noktada, ziyaretçiler huzurlu bir atmosferde zaman geçirebilirler.
+Terzizade Ahmet Efendi Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan tarihi bir türbe ve plajdır. Türbenin bulunduğu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeder. İnsanlar, hem tarihi bir yapıyı görmeye hem de denize girerek güneşin tadını çıkarmaya gelirler. Bu mevkide, tarihi ve doğal güzelliğin birleştiği noktada, ziyaretçiler huzurlu bir atmosferde zaman geçirebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Terzizade Ahmet Efendi Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar u
 
 ## Coğrafya
 
-Terzizade Ahmet Efendi Türbesi, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin doğal güzellikleri arasında yer alır. Bu bölge, denize yakın konumu ile dikkat çeker ve ziyaretçilere hem tarihi bir türbe hem de güzel bir plaj sunar. Türbe, 140 hektarlık bir yeşil alanın içinde yer alır ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bölgenin coğrafi yapısı, ziyaretçilerin hem denize girerek hem de tarihi bir yapıyı gezerek zaman geçirmelerine olanak tanır. İklim, Ege Bölgesi'nin karakteristik Akdeniz iklimi özellikleri taşır, yani yazları sıcak ve kurak, kışları ılıman ve yağışlıdır. Bu coğrafi özellikler, bölgeyi yıl boyunca ziyaret etmek için uygun hale getirir.
+Terzizade Ahmet Efendi Türbesi, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin doğal güzellikleri arasında yer alır. Bu bölge, denize yakın konumu ile dikkat çeker ve ziyaretçilere hem tarihi bir türbe hem de güzel bir plaj sunar. Bölgenin coğrafi yapısı, ziyaretçilerin hem denize girerek hem de tarihi bir yapıyı gezerek zaman geçirmelerine olanak tanır. İklim, Ege Bölgesi'nin karakteristik Akdeniz iklimi özellikleri taşır, yani yazları sıcak ve kurak, kışları ılıman ve yağışlıdır. Bu coğrafi özellikler, bölgeyi yıl boyunca ziyaret etmek için uygun hale getirir.
 
 ## Flora ve Fauna
 

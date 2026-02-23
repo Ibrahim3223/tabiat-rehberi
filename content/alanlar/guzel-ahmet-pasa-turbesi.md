@@ -1,7 +1,7 @@
 ---
 title: "Güzel Ahmet Paşa Türbesi"
 date: "2026-01-10T07:26:34.045Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391060"
 
 # Güzel Ahmet Paşa Türbesi
 
-Güzel Ahmet Paşa Türbesi, İstanbul'un Fatih ilçesinde bulunan tarihi bir türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Denizi'ne kıyısı bulunan bir bölgedir. Güzel Ahmet Paşa Türbesi, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini beklemektedir.
+Güzel Ahmet Paşa Türbesi, İstanbul'un Fatih ilçesinde bulunan tarihi bir türbe ve plaj alanıdır. Güzel Ahmet Paşa Türbesi, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 
@@ -41,11 +41,11 @@ Güzel Ahmet Paşa Türbesi, Marmara Bölgesi'nde, İstanbul'un Fatih ilçesinde
 
 ## Flora ve Fauna
 
-Güzel Ahmet Paşa Türbesi, zengin flora ve fauna ile dikkat çekmektedir. Bu bölge, çeşitli bitki türleri ile çevrilidir ve mevsimsel değişimlere göre farklı güzellikleri ile ziyaretçilerini beklemektedir. Bölgede, çoğunlukla ağaçlar ve çalılar bulunmaktadır ve bu bitkiler, ziyaretçilere doğal güzellikleri ile birlikte histórik geçmişi hakkında bilgi vermektedir. Güzel Ahmet Paşa Türbesi, fauna açısından da zengin bir bölgedir ve çeşitli hayvan türleri bu bölgede yaşamaktadır. Bu bölge, doğal güzellikleri ile birlikte tarihi geçmişi ile önemli bir turistik merkez haline gelmiştir.
+Güzel Ahmet Paşa Türbesi, zengin flora ve fauna ile dikkat çekmektedir. Bu bölge, çeşitli bitki türleri ile çevrilidir ve mevsimsel değişimlere göre farklı güzellikleri ile ziyaretçilerini beklemektedir. Bölgede, çoğunlukla ağaçlar ve çalılar bulunmaktadır ve bu bitkiler, ziyaretçilere doğal güzellikleri ile birlikte tarihi geçmişi hakkında bilgi vermektedir. Güzel Ahmet Paşa Türbesi, fauna açısından da zengin bir bölgedir ve çeşitli hayvan türleri bu bölgede yaşamaktadır. Bu bölge, doğal güzellikleri ile birlikte tarihi geçmişi ile önemli bir turistik merkez haline gelmiştir.
 
 ## Ziyaret Bilgileri
 
-Güzel Ahmet Paşa Türbesi, yıl boyunca ziyaret edilebilir ve her mevsim farklı güzellikleri ile ziyaretçilerini beklemektedir. Bu bölge, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Ziyaretçiler, bu bölgede tarihi yapıları ve kalıntıları görebilir ve doğal güzellikleri ile birlikte histórik geçmişi hakkında bilgi edinebilirler. Güzel Ahmet Paşa Türbesi, kolay ulaşılabilir bir bölgedir ve ziyaretçilere çeşitli etkinlikler sunmaktadır. Bu bölge, ziyaretçilerini beklemektedir ve her mevsim farklı güzellikleri ile ziyaret edilebilir.
+Güzel Ahmet Paşa Türbesi, yıl boyunca ziyaret edilebilir ve her mevsim farklı güzellikleri ile ziyaretçilerini beklemektedir. Bu bölge, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Ziyaretçiler, bu bölgede tarihi yapıları ve kalıntıları görebilir ve doğal güzellikleri ile birlikte tarihi geçmişi hakkında bilgi edinebilirler. Güzel Ahmet Paşa Türbesi, kolay ulaşılabilir bir bölgedir ve ziyaretçilere çeşitli etkinlikler sunmaktadır. Bu bölge, ziyaretçilerini beklemektedir ve her mevsim farklı güzellikleri ile ziyaret edilebilir.
 
 ## İlginç Bilgiler
 

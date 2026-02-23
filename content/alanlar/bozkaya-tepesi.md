@@ -29,7 +29,7 @@ wikidata_id: "Q31386353"
 
 # Bozkaya Tepesi
 
-Bozkaya Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu tepe, 140 hektarlık bir alanı kaplamaktadır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tepenin zirvesinden Gaziantep'in panoramik manzarasını izleme mümkündür. Bozkaya Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarmaktadır. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, burayı doğa için önemli bir merkez haline getirmektedir.
+Bozkaya Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Tepenin zirvesinden Gaziantep'in panoramik manzarasını izleme mümkündür. Bozkaya Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarmaktadır. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, burayı doğa için önemli bir merkez haline getirmektedir.
 
 ## Tarihçe
 

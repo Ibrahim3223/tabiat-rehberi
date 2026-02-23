@@ -22,7 +22,7 @@ wikidata_id: "Q108228540"
 
 # Erzurum-Ardahan-Posof Hus
 
-Erzurum-Ardahan-Posof Hus, Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik noktalarından biri. Bu alanda çeşitli bitki türleri ve zengin fauna bulunuyor. Doğal güzellikleri ve tarihi geçmişiyle birlikte, ziyaretçilere benzersiz bir deneyim sunuyor. Erzurum-Ardahan-Posof Hus, turizm açısından önemli bir nokta ve ziyaretçilerini bekliyor.
+Erzurum-Ardahan-Posof Hus, Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu alanda çeşitli bitki türleri ve zengin fauna bulunuyor. Doğal güzellikleri ve tarihi geçmişiyle birlikte, ziyaretçilere benzersiz bir deneyim sunuyor. Erzurum-Ardahan-Posof Hus, turizm açısından önemli bir nokta ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Erzurum-Ardahan-Posof Hus'un tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Erzurum-Ardahan-Posof Hus, Doğu Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan zengin ve çeşitli bir yapıya sahip. Dağlar, ormanlar ve nehirler, bu bölgenin coğrafi yapısını oluşturuyor. İklim, karasal ve soğuk bir yapıya sahip. Kışlar uzun ve soğuk, yazlar ise kısa ve serin. Bu bölgenin coğrafi yapısı, ziyaretçilerine benzersiz bir deneyim sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik noktalarından biri. Bu alanda çeşitli bitki türleri ve zengin fauna bulunuyor.
+Erzurum-Ardahan-Posof Hus, Doğu Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan zengin ve çeşitli bir yapıya sahip. Dağlar, ormanlar ve nehirler, bu bölgenin coğrafi yapısını oluşturuyor. İklim, karasal ve soğuk bir yapıya sahip. Kışlar uzun ve soğuk, yazlar ise kısa ve serin. Bu bölgenin coğrafi yapısı, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu alanda çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Flora ve Fauna
 

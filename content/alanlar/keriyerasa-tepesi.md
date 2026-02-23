@@ -28,7 +28,7 @@ wikidata_id: "Q31548384"
 
 # Keriyeraşa Tepesi
 
-Keriyeraşa Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir alanı kapsıyor. Yerliler ve ziyaretçiler için önemli bir çekim merkezi olan Keriyeraşa Tepesi, bölgenin kültürel ve doğal mirasını keşfetmek isteyenler için ideal bir destinasyon.
+Keriyeraşa Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan bir tepe. Yerliler ve ziyaretçiler için önemli bir çekim merkezi olan Keriyeraşa Tepesi, bölgenin kültürel ve doğal mirasını keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

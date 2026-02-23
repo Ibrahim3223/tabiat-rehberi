@@ -33,7 +33,7 @@ Güneydoğu Anadolu'nun gizli hazinelerinden biri olan Karatepe Dağı, Siirt il
 
 ## Tarihçe
 
-Siirt'in doğusunda yer alan Karatepe Dağı, ülkemizin doğu kesiminde yer alan önemli coğrafi oluşumlardan biridir. Bu bölge, tarihin sâu sayfalarında önemli uygarlıkların izlerini taşımaktadır. Hitit, Urartu ve Osmanlı gibi medeniyetler, Siirt ve çevresini etkileyen büyük güçler arasında yer almıştır.
+Siirt'in doğusunda yer alan Karatepe Dağı, ülkemizin doğu kesiminde yer alan önemli coğrafi oluşumlardan biridir. Bu bölge, tarihin derin sayfalarında önemli uygarlıkların izlerini taşımaktadır. Hitit, Urartu ve Osmanlı gibi medeniyetler, Siirt ve çevresini etkileyen büyük güçler arasında yer almıştır.
 
 Doğu Anadolu Bölgesi, tarihi İpek Yolu'nun önemli bir bölümünü barındırmaktadır. Bu ticaret yolu, Karatepe Dağı gibi doğal oluşumların eteklerinde ve yakın çevresinde yer alan yerleşim merkezlerini de etkilemiştir. Yaylacılık ve hayvancılık, bölgenin ekonomisinde önemli bir yer tutmaktadır. Bu doğal alanlar, sadece ekonomik faaliyetler için değil, aynı zamanda kültürel ve sosyal yaşamın önemli bir parçasıdır.
 

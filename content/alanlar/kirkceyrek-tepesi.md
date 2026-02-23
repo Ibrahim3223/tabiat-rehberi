@@ -48,9 +48,9 @@ Bölgenin ekosistemini düşünüldüğünde, Kırkçeyrek Tepesi, Van Gölü ve
 
 ## Flora ve Fauna
 
-Kırkçeyrek Tepesi, Van'da yer alan 1200 hektarlık bu dağlık alan, yüksek dağ ekolojisi ve alpin çayırların hakim olduğu bir bölge. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda göç eden kuşlar bu bölgeyi ziyaret ediyor. 
+Kırkçeyrek Tepesi, Van'da yer alan 1200 hektarlık bu dağlık alan, yüksek dağ ekolojisi ve alpin çayırların hakim olduğu bir bölge. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda göç eden kuşlar bu bölgeyi ziyaret ediyor.
 
-Bitki örtüsüne bakıldığında, alpin flora çeşitliliği dikkat çekiyor. Mevsimsel değişimlerle birlikte, farklı türlerin açtığı çiçekler bu dağlık bölgenin güzelliğini artırıyor. Yaban hayatı açısından da zengin bir ekosistem sunan Kırkçeyrek Tepesi, memeliler, kuşlar ve sürüngenler için uygun bir yaşam alanı oluşturuyor. 
+Bitki örtüsüne bakıldığında, alpin flora çeşitliliği dikkat çekiyor. Mevsimsel değişimlerle birlikte, farklı türlerin açtığı çiçekler bu dağlık bölgenin güzelliğini artırıyor. Yaban hayatı açısından da zengin bir ekosistem sunan Kırkçeyrek Tepesi, memeliler, kuşlar ve sürüngenler için uygun bir yaşam alanı oluşturuyor.
 
 Dağ keçileri ve yaban keçileri gibi memeliler, yüksek dağlık alanlarda yaşarken, çeşitli kuş türleri de bu bölgede yuva yapıyor. Sürüngenler de bu ekosistemin bir parçası olarak, kayalık alanlarda ve çayırlarda yaşamlarını sürdürüyor. Ekolojik açıdan önemli olan bu bölge, endemik türlerin korunması açısından da büyük bir değer taşıyor.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388831"
 
 # Gaziyiğit Tepesi
 
-Gaziyiğit Tepesi, Tekirdağ ilinin sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli doğal alanlarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Gaziyiğit Tepesi, ziyaretçilerini doğal güzellikleri ve zengin flora ile karşılar. Burada, çeşitli bitki türleri ve fauna örnekleri bulunabilir. Bu tepe, aynı zamanda bölgenin coğrafi yapısını gözlemlemek için de ideal bir noktadır.
+Gaziyiğit Tepesi, Tekirdağ ilinin sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli doğal alanlarından biridir. Gaziyiğit Tepesi, ziyaretçilerini doğal güzellikleri ve zengin flora ile karşılar. Burada, çeşitli bitki türleri ve fauna örnekleri bulunabilir. Bu tepe, aynı zamanda bölgenin coğrafi yapısını gözlemlemek için de ideal bir noktadır.
 
 ## Tarihçe
 

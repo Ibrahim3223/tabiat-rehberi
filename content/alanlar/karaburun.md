@@ -33,7 +33,7 @@ wikidata_id: "Q34957880"
 
 ## Tarihçe
 
-Çanakkale, tarihin sâu izlerini taşıyan bir bölge. Karaburun gibi doğal alanlar, bu bölgenin zengin tarihini anlamak için önemli birer parçadır. Çanakkale, Truva Savaşı'ndan Bizans ve Osmanlı dönemlerine kadar çeşitli uygarlıkların izlerini taşımıştır. Bu topraklar, tarih boyunca önemli ticaret yollarının kesişme noktası olarak da görev yapmıştır.
+Çanakkale, tarihin derin izlerini taşıyan bir bölge. Karaburun gibi doğal alanlar, bu bölgenin zengin tarihini anlamak için önemli birer parçadır. Çanakkale, Truva Savaşı'ndan Bizans ve Osmanlı dönemlerine kadar çeşitli uygarlıkların izlerini taşımıştır. Bu topraklar, tarih boyunca önemli ticaret yollarının kesişme noktası olarak da görev yapmıştır.
 
 Doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir yer tutar. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların geleneksel yaşam biçimleri arasında yer almıştır. Çanakkale bölgesinde de benzer bir durum gözlemlenir. İnsanlar, bu doğal alanları kullanarak geçimlerini sağlamıştır. Ticaret yolları üzerinde bulunan bu bölge, çeşitli medeniyetlerin etkilerini taşımıştır.
 
@@ -51,11 +51,11 @@ Doğal bir cennet olarak kabul edilen Karaburun, çevresindeki ekosistemle olduk
 
 ## Flora ve Fauna
 
-Karaburun, Çanakkale'nin doğal güzelliklerini barındıran bir bölgedir. Bu geçiş ikliminin karakteristiği olan karma ormanlar, ilkbaharda rengarenk çiçeklerle donanırken, sonbaharda göçmen kuşların uğrak noktası haline gelir. 
+Karaburun, Çanakkale'nin doğal güzelliklerini barındıran bir bölgedir. Bu geçiş ikliminin karakteristiği olan karma ormanlar, ilkbaharda rengarenk çiçeklerle donanırken, sonbaharda göçmen kuşların uğrak noktası haline gelir.
 
-Bitki örtüsünü oluşturan geniş yapraklı ağaçlar ve iğne yapraklı türler, mevsimsel değişimlere uyum sağlar. Mevsimlerin değişmesiyle birlikte, flora da ren ve çeşitlilik kazanır. 
+Bitki örtüsünü oluşturan geniş yapraklı ağaçlar ve iğne yapraklı türler, mevsimsel değişimlere uyum sağlar. Mevsimlerin değişmesiyle birlikte, flora da ren ve çeşitlilik kazanır.
 
-Yaban hayatı, bu bölgenin ekolojik dengesini sağlar. Göçmen kuşlar, memeliler ve sürüngenler, yaşam alanlarını bu karma ormanlarda bulur. Bu canlılar, birbirleriyle ve çevreleriyle olan ilişkileriyle, bölgenin ekolojik değerini oluşturur. 
+Yaban hayatı, bu bölgenin ekolojik dengesini sağlar. Göçmen kuşlar, memeliler ve sürüngenler, yaşam alanlarını bu karma ormanlarda bulur. Bu canlılar, birbirleriyle ve çevreleriyle olan ilişkileriyle, bölgenin ekolojik değerini oluşturur.
 
 Karaburun'un ekolojik değeri, göçmen kuş rotasının üzerinde bulunması ve karma orman ekosistemine ev sahipliği yapmasıyla önemlidir. Bu bölge, doğal yaşamın korunması için kritik bir noktada yer alır.
 
@@ -68,6 +68,6 @@ Karaburun, Çanakkale'de bulunan bir doğa cenneti. Sabah erken gitmenizi öneri
 - Karaburun, Çanakkale ilinin Gelibolu ilçesine bağlı bir köydür.
 - Çanakkale Boğazı'nın girişinde, Avrupa ile Asya'yı ayıran boğazın Avrupa yakasında yer alır.
 - Köy, Gelibolu Yarımadası'nın en kuzey ucunda, Saros Körfezi'nin girişinde bulunmaktadır.
-- Karaburun, histórik olarak önemli bir konumda olup, 1915 yılında Çanakkale Savaşı sırasında önemli bir bölgedir.
+- Karaburun, tarihi olarak önemli bir konumda olup, 1915 yılında Çanakkale Savaşı sırasında önemli bir bölgedir.
 - Köyün ekonomisi olarak tarıma dayalıdır ve bölgede çoğunlukla buğday, arpa ve ayçiçeği yetiştirilmektedir.
 - Karaburun, aynı zamanda önemli bir kuş göç yolu üzerinde yer almakta olup, birçok kuş türüne ev sahipliği yapmaktadır.

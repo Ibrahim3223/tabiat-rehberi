@@ -32,7 +32,7 @@ Türkiye'nin doğusunda, doğal güzellikleriyle ön plana çıkan bir bölge ol
 
 ## Tarihçe
 
-Arayit Dağı, Türkiye'nin doğusunda yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşadığı bir coğrafyada bulunmaktadır. Hitit, Urartu, Pers ve Osmanlı gibi medeniyetler, bu topraklarda izler bırakmışlardır. 
+Arayit Dağı, Türkiye'nin doğusunda yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşadığı bir coğrafyada bulunmaktadır. Hitit, Urartu, Pers ve Osmanlı gibi medeniyetler, bu topraklarda izler bırakmışlardır.
 
 Bu tür doğal alanlar, Türkiye'de önemli bir tarihsel öneme sahiptir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin insanlarla olan bağlantısını güçlendirmiştir. İnsanlar, bu doğal güzellikleri kullanarak geçimlerini sağlamış ve kültürel miraslarını şekillendirmişlerdir. Arayit Dağı da, bu bağlamda önemli bir role sahiptir. Bölgede yaşayan topluluklar, dağın kaynaklarını kullanarak hayatlarını sürdürmüş ve bu doğal güzelliği korumuşlardır.
 

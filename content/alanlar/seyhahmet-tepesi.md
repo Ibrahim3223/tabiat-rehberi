@@ -20,7 +20,7 @@ aktiviteler: ["tarih gezisi","doğa yürüyüşü","manzara izleme","fotografcı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Şeyhahmet Tepesi","caption":"Şeyhahmet Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhahmet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552358","tip":"genel"}]
-description: "Mardin'in históri ve doğal güzelliklerini keşfedin. Şeyhahmet Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli bir turizm noktası."
+description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin. Şeyhahmet Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli bir turizm noktası."
 keywords: ["Mardin","Şeyhahmet Tepesi","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31552358"
@@ -28,15 +28,15 @@ wikidata_id: "Q31552358"
 
 # Şeyhahmet Tepesi
 
-Şeyhahmet Tepesi, Mardin'in históri ve doğal güzelliklerini bir araya getiren bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzelliklerle büyülüyor. Burada, yüzyılların izlerini taşıyan tarihi yapılar ve eşsiz doğal manzaralarla karşılaşacaksınız. Şeyhahmet Tepesi, Mardin'in önemli bir turizm noktası olarak dikkat çekiyor ve her yıl binlerce ziyaretçi tarafından keşfediliyor.
+Şeyhahmet Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren bir destinasyon. Burada, yüzyılların izlerini taşıyan tarihi yapılar ve eşsiz doğal manzaralarla karşılaşacaksınız. Şeyhahmet Tepesi, Mardin'in önemli bir turizm noktası olarak dikkat çekiyor ve her yıl binlerce ziyaretçi tarafından keşfediliyor.
 
 ## Tarihçe
 
-Şeyhahmet Tepesi'nin tarihi geçmişi, Mardin'in histórik zenginliklerini yansıtıyor. Bu tepenin tarihi, yüzyıllar öncesine dayanıyor ve çeşitli uygarlıkların izlerini taşıyor. Tarihi yapılar, bu bölgenin önemli bir kültür merkezi olduğunu gösteriyor. Şeyhahmet Tepesi, Mardin'in önemli bir turizm noktası olarak, ziyaretçilerine tarihi ve kültürel zenginliklerini sunuyor. Tepenin tarihi geçmişi, ziyaretçilerini geçmişe götürerek, bu bölgenin ik önemini ortaya koyuyor.
+Şeyhahmet Tepesi'nin tarihi geçmişi, Mardin'in tarihi zenginliklerini yansıtıyor. Bu tepenin tarihi, yüzyıllar öncesine dayanıyor ve çeşitli uygarlıkların izlerini taşıyor. Tarihi yapılar, bu bölgenin önemli bir kültür merkezi olduğunu gösteriyor. Şeyhahmet Tepesi, Mardin'in önemli bir turizm noktası olarak, ziyaretçilerine tarihi ve kültürel zenginliklerini sunuyor. Tepenin tarihi geçmişi, ziyaretçilerini geçmişe götürerek, bu bölgenin ik önemini ortaya koyuyor.
 
 ## Coğrafya
 
-Şeyhahmet Tepesi, Mardin'in coğrafi güzelliklerini gözler önüne seriyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan ve ziyaretçilerini doğal güzelliklerle büyülüyor. Tepenin coğrafi konumu, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Şeyhahmet Tepesi, Mardin'in önemli bir coğrafi oluşumu olarak, ziyaretçilerine eşsiz manzaralar sunuyor. Tepenin eteklerinde, tarihi yapılar ve doğal güzellikler bir araya geliyor ve ziyaretçileri, bu bölgenin coğrafi zenginliklerini keşfetmeye davet ediyor.
+Şeyhahmet Tepesi, Mardin'in coğrafi güzelliklerini gözler önüne seriyor. Tepenin coğrafi konumu, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Şeyhahmet Tepesi, Mardin'in önemli bir coğrafi oluşumu olarak, ziyaretçilerine eşsiz manzaralar sunuyor. Tepenin eteklerinde, tarihi yapılar ve doğal güzellikler bir araya geliyor ve ziyaretçileri, bu bölgenin coğrafi zenginliklerini keşfetmeye davet ediyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ wikidata_id: "Q31552358"
 
 ## Ziyaret Bilgileri
 
-Şeyhahmet Tepesi'ni ziyaret etmek, Mardin'in históri ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin coğrafi konumu, ziyaretçilerine eşsiz manzaralar sunuyor ve tarihi yapılar, bu bölgenin histórik zenginliklerini ortaya koyuyor. Şeyhahmet Tepesi'ni ziyaret etmek için, Mardin'e gelme ve buradaki tarihi yapıları keşfetmek gerekiyor. Tepenin eteklerinde, çeşitli restoranlar ve kafeler, ziyaretçilere hizmet veriyor ve bu bölgenin lezzetlerini sunuyor.
+Şeyhahmet Tepesi'ni ziyaret etmek, Mardin'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin coğrafi konumu, ziyaretçilerine eşsiz manzaralar sunuyor ve tarihi yapılar, bu bölgenin tarihi zenginliklerini ortaya koyuyor. Şeyhahmet Tepesi'ni ziyaret etmek için, Mardin'e gelme ve buradaki tarihi yapıları keşfetmek gerekiyor. Tepenin eteklerinde, çeşitli restoranlar ve kafeler, ziyaretçilere hizmet veriyor ve bu bölgenin lezzetlerini sunuyor.
 
 ## İlginç Bilgiler
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31548685"
 
 # Muavin Tepesi
 
-Muavin Tepesi, Güneydoğu Anadolu Bölgesi'nin en ilgi çekici doğal alanlarından biridir. Siirt ilinin sınırları içerisinde yer alan bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Bu tepe, özellikle doğa severlerin ve gezi tutkunlarının ilgisini çeker. Muavin Tepesi'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu da tepeye ayrı bir güzellik kazandırır. Burada, yaban hayatının zenginliğini gözlemleyebilirsiniz.
+Muavin Tepesi, Güneydoğu Anadolu Bölgesi'nin en ilgi çekici doğal alanlarından biridir. Siirt ilinin sınırları içerisinde yer alan bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar. Bu tepe, özellikle doğa severlerin ve gezi tutkunlarının ilgisini çeker. Muavin Tepesi'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu da tepeye ayrı bir güzellik kazandırır. Burada, yaban hayatının zenginliğini gözlemleyebilirsiniz.
 
 ## Tarihçe
 

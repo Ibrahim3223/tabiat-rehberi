@@ -1,7 +1,7 @@
 ---
 title: "Küçük Mustafa Paşa Hamamı"
 date: "2026-01-09T22:15:23.492Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,11 +29,11 @@ wikidata_id: "Q121464930"
 
 # Küçük Mustafa Paşa Hamamı
 
-Küçük Mustafa Paşa Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Bu hamam, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini çekiyor. Konumu itibarıyla da ulaşımın kolay olduğu bir bölgede yer alıyor.
+Küçük Mustafa Paşa Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir yapıdır. Bu hamam, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini çekiyor. Konumu itibarıyla da ulaşımın kolay olduğu bir bölgede yer alıyor.
 
 ## Tarihçe
 
-Küçük Mustafa Paşa Hamamı, tarihsel geçmişi ile dikkat çekiyor. Tarihi kaynaklara göre, bu hamamın inşaatı Osmanlı döneminde gerçekleşti. O dönemden kalan izler, hamamın mimari yapısında hala görülebiliyor. Yüzyıllar boyunca çeşitli onarımlar ve restorasyonlarla günümüze ulaşan bu hamam, ziyaretçilerine tarihin sâu sayfalarını keşfetme fırsatı sunuyor. Geçmişte önemli bir role sahip olan bu yapı, günümüzde de İstanbul'un kültürel mirasının önemli bir parçasını oluşturuyor.
+Küçük Mustafa Paşa Hamamı, tarihsel geçmişi ile dikkat çekiyor. Tarihi kaynaklara göre, bu hamamın inşaatı Osmanlı döneminde gerçekleşti. O dönemden kalan izler, hamamın mimari yapısında hala görülebiliyor. Yüzyıllar boyunca çeşitli onarımlar ve restorasyonlarla günümüze ulaşan bu hamam, ziyaretçilerine tarihin derin sayfalarını keşfetme fırsatı sunuyor. Geçmişte önemli bir role sahip olan bu yapı, günümüzde de İstanbul'un kültürel mirasının önemli bir parçasını oluşturuyor.
 
 ## Coğrafya
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389468"
 
 # Karaziyaret
 
-Karaziyaret, Gaziantep'in güneydoğu bölgesinde yer alan bir tepe ve doğal alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Bu bölgede, türlü bitkiler ve zengin fauna ile karşılaşma mümkün. Karaziyaret'te doğa yürüyüşleri, pikni ve fotoğraf çekimi gibi aktiviteleri yapabilirsiniz. Doğal güzelliği ve sakin atmosferi ile Karaziyaret, doğa severlerin ziyaret etmesi gereken bir yer.
+Karaziyaret, Gaziantep'in güneydoğu bölgesinde yer alan bir tepe ve doğal alan olarak dikkat çekiyor. Bu bölgede, türlü bitkiler ve zengin fauna ile karşılaşma mümkün. Karaziyaret'te doğa yürüyüşleri, pikni ve fotoğraf çekimi gibi aktiviteleri yapabilirsiniz. Doğal güzelliği ve sakin atmosferi ile Karaziyaret, doğa severlerin ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Karaziyaret, coğrafi olarak Gaziantep'in güneydoğu bölgesinde yer alıyor. B
 
 ## Flora ve Fauna
 
-Karaziyaret, flora ve fauna açısından oldukça zengin bir bölge. Bu bölgede, çeşitli bitkiler ve hayvanlar ile karşılaşma mümkün. Mevsimsel değişimlere göre, Karaziyaret'te farklı türlerde bitkiler ve hayvanlar görülüyor. İlkbahar ve yaz aylarında, Karaziyaret'te çiçekler açıyor ve bu bölge, renkli bir görünüme sahip oluyor. Sonbahar ve kış aylarında ise, Karaziyaret'te genellikle otlaklar ve step bitkileri görülüyor. Hayvanlar açısından da Karaziyaret, zengin bir bölge. Bu bölgede, çeşitli kuş türleri, sürüngenler ve memeliler ile karşılaşma mümkün. Karaziyaret, flora ve fauna açısından zengin bir bölge ve bu nedenle doğa severlerin ilgisini çeken bir yer.
+ Bu bölgede, çeşitli bitkiler ve hayvanlar ile karşılaşma mümkün. Mevsimsel değişimlere göre, Karaziyaret'te farklı türlerde bitkiler ve hayvanlar görülüyor. İlkbahar ve yaz aylarında, Karaziyaret'te çiçekler açıyor ve bu bölge, renkli bir görünüme sahip oluyor. Sonbahar ve kış aylarında ise, Karaziyaret'te genellikle otlaklar ve step bitkileri görülüyor. Hayvanlar açısından da Karaziyaret, zengin bir bölge. Bu bölgede, çeşitli kuş türleri, sürüngenler ve memeliler ile karşılaşma mümkün. Karaziyaret, flora ve fauna açısından zengin bir bölge ve bu nedenle doğa severlerin ilgisini çeken bir yer.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,7 @@ Karaziyaret'i ziyaret etmek, doğa severler için ideal bir aktivite. Bu bölged
 ## İlginç Bilgiler
 
 - Karaziyaret, 140 hektarlık bir alana yayılmış.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Karaziyaret'te, çeşitli bitkiler ve zengin fauna ile karşılaşma mümkün.
 - Bu bölge, doğa yürüyüşleri, pikni ve fotoğraf çekimi gibi aktiviteleri için ideal.
 - Karaziyaret, Gaziantep'in güneydoğu bölgesinde yer alıyor.

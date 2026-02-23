@@ -1,7 +1,7 @@
 ---
 title: "Yörük Ali Efe Anıt Mezarı"
 date: "2026-01-10T00:01:16.198Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728123"
 
 # Yörük Ali Efe Anıt Mezarı
 
-Yörük Ali Efe Anıt Mezarı, Aydın'ın Yenipazar ilçesinde yer alan tarihi bir mekan olarak dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihi ve coğrafi güzelliği ile karşılamaktadır. Bu mekan, Ege Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan önemli bir noktadır. Yörük Ali Efe Anıt Mezarı, ziyaretçilerine hem tarihi hem de doğayı iç içe deneyimleme fırsatı sunmaktadır.
+Yörük Ali Efe Anıt Mezarı, Aydın'ın Yenipazar ilçesinde yer alan tarihi bir mekan olarak dikkat çekmektedir. Bu mekan, Ege Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan önemli bir noktadır. Yörük Ali Efe Anıt Mezarı, ziyaretçilerine hem tarihi hem de doğayı iç içe deneyimleme fırsatı sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yörük Ali Efe Anıt Mezarı, tarihsel olarak önemli bir figür olan Yörük A
 
 ## Coğrafya
 
-Yörük Ali Efe Anıt Mezarı, Ege Bölgesi'nin coğrafi güzelliğini yansıtan bir noktada yer almaktadır. 180 hektarlık bir alana yayılan bu mekan, yaklaşık 250 futbol sahası büyüklüğündedir. Coğrafi olarak, bu bölge Akdeniz ikliminin characteristics özelliklerini taşır. Yazları sıcak ve kuru, kışları ılık ve yağışlı bir iklimi bulunan bu bölge, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunar. Çevre, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Anıt mezarın bulunduğu alan, geniş ormanlık bölgelerle çevrilidir ve ziyaretçiler, doğanın güzelliğini burada deneyimleyebilirler.
+Yörük Ali Efe Anıt Mezarı, Ege Bölgesi'nin coğrafi güzelliğini yansıtan bir noktada yer almaktadır. Coğrafi olarak, bu bölge Akdeniz ikliminin characteristics özelliklerini taşır. Yazları sıcak ve kuru, kışları ılık ve yağışlı bir iklimi bulunan bu bölge, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunar. Çevre, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Anıt mezarın bulunduğu alan, geniş ormanlık bölgelerle çevrilidir ve ziyaretçiler, doğanın güzelliğini burada deneyimleyebilirler.
 
 ## Flora ve Fauna
 

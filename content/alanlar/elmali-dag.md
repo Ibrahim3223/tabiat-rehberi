@@ -33,7 +33,7 @@ Kahramanmaraş'ın doğusunda yükselen Elmalı Dağ, bölgenin en önemli doğa
 
 ## Tarihçe
 
-Kahramanmaraş bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, Elmalı Dağ gibi doğal güzelliklerle bezelidir. İnsanlık tarihinin önemli ticaret yollarının kesiştiği bir noktada bulunan bu bölge, binlerce yıldır insanların yaşadığı, çalıştığı ve doğayla iç içe olduğu bir alan olmuştur.
+Kahramanmaraş bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, Elmalı Dağ gibi doğal güzelliklerle bezelidir. İnsanlık tarihinin önemli ticaret yollarının kesiştiği bir noktada bulunan bu bölge, binlerce yıldır insanların yaşadığı, çalıştığı ve doğayla iç içe olduğu bir alan olmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla dikkat çeken Kahramanmaraş, geçmişte çeşitli medeniyetlerin uğrak yeri olmuştur. Yaylacılık ve hayvancılıkla geçinen yerel halk, bu doğal alanlarısummer mevsiminde hayvancılık faaliyetleri için kullanmıştır. Ayrıca, tarihi İpek Yolu gibi önemli ticaret yollarının yakınında bulunması, bölgenin ekonomi ve kültürel olarak zenginleşmesine katkıda bulunmuştur.
 

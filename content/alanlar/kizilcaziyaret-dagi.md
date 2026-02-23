@@ -51,9 +51,9 @@ Mevsimsel olarak, Kızılcaziyaret Dağı ve çevresinin iklimi, Doğu Anadolu B
 
 ## Flora ve Fauna
 
-Kızılcaziyaret Dağı, Iğdır'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kızılcaziyaret Dağı, Iğdır'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-**Bitki Örtüsü**: Ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle süslenir. Alpin flora, yükseklik zonlarına göre değişkenlik gösterir. 
+**Bitki Örtüsü**: Ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle süslenir. Alpin flora, yükseklik zonlarına göre değişkenlik gösterir.
 **Yaban Hayatı**: Dağ keçileri, yaban keçileri ve vaşaklar gibi memeliler, dağların yüksek kesimlerinde yaşamlarını sürdürür. Kuşlar, özellikle sonbaharda göç ederken, dağların üzerinde büyük sürüler halinde görülür.
 **Ekolojik Değer**: Kızılcaziyaret Dağı, endemik türleri ve yüksek dağ ekosistemi nedeniyle büyük önem taşır. Bu alanın korunması, gelecek nesiller için kritik öneme sahiptir.
 

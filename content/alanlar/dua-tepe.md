@@ -29,7 +29,7 @@ wikidata_id: "Q31387593"
 
 # Dua Tepe
 
-İç Anadolu Bölgesi'nin geniş ve verimli topraklarında yer alan Dua Tepe, yaklaşık 140 hektarlık bir alanı kaplar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini yeşilin her tonuna sahip doğası ile karşılar. Dua Tepe, bir doğa severin hayalini süsleyecek bir yerdir. Burada, doğanın güzelliğini ve canlılığını gözlemleme mümkündür. Dua Tepe, aynı zamanda zengin bir tarihe sahiptir. Yüzyıllar boyunca, bu bölge, farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor.
+İç Anadolu Bölgesi'nin geniş ve verimli topraklarında yer alan Dua Tepe, yaklaşık 140 hektarlık bir alanı kaplar. Dua Tepe, bir doğa severin hayalini süsleyecek bir yerdir. Burada, doğanın güzelliğini ve canlılığını gözlemleme mümkündür. Dua Tepe, aynı zamanda zengin bir tarihe sahiptir. Yüzyıllar boyunca, bu bölge, farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor.
 
 ## Tarihçe
 

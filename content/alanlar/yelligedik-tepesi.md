@@ -28,11 +28,11 @@ wikidata_id: "Q31536155"
 
 # Yelligedik Tepesi
 
-Yelligedik Tepesi, Hatay ilinin güzide mekanlarından biri olarak karşımıza çıkıyor. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Yelligedik Tepesi, hem doğal güzellikleri hem de tarihi zenginlikleri ile dikkat çekiyor. Bu tepe, Hatay'ın önemli turizm noktalarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi ağırlıyor.
+Yelligedik Tepesi, Hatay ilinin güzide mekanlarından biri olarak karşımıza çıkıyor. Yelligedik Tepesi, hem doğal güzellikleri hem de tarihi zenginlikleri ile dikkat çekiyor. Bu tepe, Hatay'ın önemli turizm noktalarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi ağırlıyor.
 
 ## Tarihçe
 
-Yelligedik Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tepe, tarihi süreç içerisinde çeşitli medeniyetlerin izlerini taşıyor. Yelligedik Tepesi, özellikle bölgenin stratejik konumu nedeniyle histórik önem taşıyor. Tepenin üzerinde ve çevresinde yapılan araştırmalar, bu bölgenin yüzyıllar boyunca çeşitli kültürler tarafından yerleşim ve ticaret merkezi olarak kullanıldığını gösteriyor. Yelligedik Tepesi'nin tarihi zenginlikleri, ziyaretçilere bu bölgenin geçmişini keşfetme fırsatı sunuyor.
+Yelligedik Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tepe, tarihi süreç içerisinde çeşitli medeniyetlerin izlerini taşıyor. Yelligedik Tepesi, özellikle bölgenin stratejik konumu nedeniyle tarihi önem taşıyor. Tepenin üzerinde ve çevresinde yapılan araştırmalar, bu bölgenin yüzyıllar boyunca çeşitli kültürler tarafından yerleşim ve ticaret merkezi olarak kullanıldığını gösteriyor. Yelligedik Tepesi'nin tarihi zenginlikleri, ziyaretçilere bu bölgenin geçmişini keşfetme fırsatı sunuyor.
 
 ## Coğrafya
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390182"
 
 # Karadiş Tepesi
 
-Karadiş Tepesi, Antalya'nın güzide noktalarından biri olarak bilinir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu da burayı doğa severler için bir cennet haline getirir. Karadiş Tepesi, aynı zamanda tarihi geçmişiyle de dikkat çeker. Yüzyıllar boyunca farklı medeniyetlerin yaşadığı bu bölge, zengin bir kültürel mirasa sahiptir. Karadiş Tepesi'ni ziyaret etmek, hem doğayı hem de tarihin derinliklerini keşfetmek isteyenler için eşsiz bir fırsat sunar.
+Karadiş Tepesi, Antalya'nın güzide noktalarından biri olarak bilinir. Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu da burayı doğa severler için bir cennet haline getirir. Karadiş Tepesi, aynı zamanda tarihi geçmişiyle de dikkat çeker. Yüzyıllar boyunca farklı medeniyetlerin yaşadığı bu bölge, zengin bir kültürel mirasa sahiptir. Karadiş Tepesi'ni ziyaret etmek, hem doğayı hem de tarihin derinliklerini keşfetmek isteyenler için eşsiz bir fırsat sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karadiş Tepesi'nin tarihi geçmişi, yüzyıllarca öncesine dayanır. Bu bölg
 
 ## Coğrafya
 
-Karadiş Tepesi, Antalya'nın coğrafi olarak en dikkat çekici noktalarından biridir. 140 hektarlık bir alana yayılan tepe, yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin yüksekliği, deniz seviyesinden khong 1000 metre yukarıdadır ve bu yükseklik, ziyaretçilere muhteşem bir manzara sunar. Karadiş Tepesi'nin coğrafi yapısı, genellikle dağlık ve engebelidir. Tepenin eteklerinde, çeşitli bitki türleri ve ormanlık alanlar bulunur. Bu bitki örtüsü, tepeyi bir doğa cenneti haline getirir. Karadiş Tepesi, aynı zamanda iklimsel olarak da dikkat çekicidir. Tepenin bulunduğu bölge, Akdeniz ikliminin etkisindedir ve bu nedenle, yazları sıcak ve kurak, kışları ise ılık ve yağışlı geçer. Bu iklim, tepeyi yıl boyunca ziyaret edilebilir bir yer haline getirir. Karadiş Tepesi'nin coğrafi konumu, aynı zamanda önemli bir su kaynağına da sahiptir. Tepenin eteklerinde, çeşitli su kaynakları ve akarsular bulunur ve bunlar, tepeyi bir ekolojik zenginlik merkezine dönüştürür.
+Karadiş Tepesi, Antalya'nın coğrafi olarak en dikkat çekici noktalarından biridir. Tepenin yüksekliği, deniz seviyesinden khong 1000 metre yukarıdadır ve bu yükseklik, ziyaretçilere muhteşem bir manzara sunar. Karadiş Tepesi'nin coğrafi yapısı, genellikle dağlık ve engebelidir. Tepenin eteklerinde, çeşitli bitki türleri ve ormanlık alanlar bulunur. Bu bitki örtüsü, tepeyi bir doğa cenneti haline getirir. Karadiş Tepesi, aynı zamanda iklimsel olarak da dikkat çekicidir. Tepenin bulunduğu bölge, Akdeniz ikliminin etkisindedir ve bu nedenle, yazları sıcak ve kurak, kışları ise ılık ve yağışlı geçer. Bu iklim, tepeyi yıl boyunca ziyaret edilebilir bir yer haline getirir. Karadiş Tepesi'nin coğrafi konumu, aynı zamanda önemli bir su kaynağına da sahiptir. Tepenin eteklerinde, çeşitli su kaynakları ve akarsular bulunur ve bunlar, tepeyi bir ekolojik zenginlik merkezine dönüştürür.
 
 ## Flora ve Fauna
 

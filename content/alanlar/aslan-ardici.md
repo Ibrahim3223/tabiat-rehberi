@@ -22,7 +22,7 @@ wikidata_id: "Q108227171"
 
 # Aslan Ardici
 
-Aslan Ardici milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerine çeşitli bitki türleri ve zengin fauna ile dolu bir ekosistem sunar. Bu doğal alan, yaban hayatının korunması ve sürdürülebilir turizmin desteklenmesi için önemli bir merkez olarak karşımıza çıkar. Aslan Ardici, ziyaretçilerini doğanın güzelliği ve sakinliği ile baş başa bırakmak için ideal bir destinasyondur.
+Aslan Ardici milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu doğal alan, yaban hayatının korunması ve sürdürülebilir turizmin desteklenmesi için önemli bir merkez olarak karşımıza çıkar. Aslan Ardici, ziyaretçilerini doğanın güzelliği ve sakinliği ile baş başa bırakmak için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Aslan Ardici milli parkını ziyaret etmek, doğa severler için unutulmaz bir d
 
 ## İlginç Bilgiler
 
-- Aslan Ardici milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu park, İç Anadolu Bölgesi'nin kalbinde yer alır.
 - Aslan Ardici, çeşitli bitki türleri ve zengin fauna ile dolu bir ekosistem sunar.
 - Bu bölgenin coğrafyası, farklı yüksekliklerde ve iklim koşullarında çeşitlilik gösteren bir yapıya sahiptir.

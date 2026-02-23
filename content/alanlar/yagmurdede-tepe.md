@@ -28,7 +28,7 @@ wikidata_id: "Q31387370"
 
 # Yağmurdede Tepe
 
-Yağmurdede Tepe, Samsun'un Karadeniz Bölgesi'nde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölge, ziyaretçilerine doğal güzellikleri ve zengin flora/fauna çeşitliliği ile unutulmaz bir deneyim sunar. Yağmurdede Tepe'nin yüksekliği ve geniş yeşil alanları, ziyaretçilere geniş bir görüş açısı ve rahat bir gezi deneyimi sağlar. Bu bölge, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennettir.
+ Bu bölge, ziyaretçilerine doğal güzellikleri ve zengin flora/fauna çeşitliliği ile unutulmaz bir deneyim sunar. Yağmurdede Tepe'nin yüksekliği ve geniş yeşil alanları, ziyaretçilere geniş bir görüş açısı ve rahat bir gezi deneyimi sağlar. Bu bölge, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennettir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Yağmurdede Tepe, ziyaretçilere unutulmaz bir gezi deneyimi sunar. Bu bölge, h
 ## İlginç Bilgiler
 
 - Yağmurdede Tepe, 140 hektarlık bir yeşil alana sahiptir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Yağmurdede Tepe, Samsun'un önemli bir turizm merkezidir.
 - Bu bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Yağmurdede Tepe, ziyaretçilere geniş bir coğrafi çeşitlilik sunar.

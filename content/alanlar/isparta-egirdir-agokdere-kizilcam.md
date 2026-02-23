@@ -22,7 +22,7 @@ wikidata_id: "Q108227650"
 
 # Isparta-Egirdir-A.gokdere Kızılçam
 
-Isparta'nın yeşilin her tonunu bir araya getiren Egirdir-A.gokdere Kızılçam milli parkı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir doğa harikası. Bu bölge, İç Anadolu Bölgesi'nin kalbinde yer alıyor ve ziyaretçilerini doğanın kucağına davet ediyor. 140 hektarlık bu yeşil alan, ziyaretçilerine doğanın güzelliğini ve sakinliğini sunuyor.
+Isparta'nın yeşilin her tonunu bir araya getiren Egirdir-A. Bu bölge, İç Anadolu Bölgesi'nin kalbinde yer alıyor ve ziyaretçilerini doğanın kucağına davet ediyor. 140 hektarlık bu yeşil alan, ziyaretçilerine doğanın güzelliğini ve sakinliğini sunuyor.
 
 ## Tarihçe
 

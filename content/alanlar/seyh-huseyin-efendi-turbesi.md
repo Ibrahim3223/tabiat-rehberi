@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Hüseyin Efendi Türbesi"
 date: "2026-01-10T07:35:07.307Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391273"
 
 # Şeyh Hüseyin Efendi Türbesi
 
-Şeyh Hüseyin Efendi Türbesi, Akdeniz Bölgesi'nin güzide şehirlerinden biri olan Hatay'ın Antakya ilçesinde yer alan tarihi ve doğal güzelliklerin bir arada bulunduğu özel bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, denize girerken veya doğanın güzelliğini izlerken, aynı zamanda tarihin derinliklerine dalma fırsatı bulacaksınız. Şeyh Hüseyin Efendi Türbesi, Hatay'ın tarihi ve turistik açıdan önemli noktalarından biri.
+Şeyh Hüseyin Efendi Türbesi, Akdeniz Bölgesi'nin güzide şehirlerinden biri olan Hatay'ın Antakya ilçesinde yer alan tarihi ve doğal güzelliklerin bir arada bulunduğu özel bir destinasyon. Burada, denize girerken veya doğanın güzelliğini izlerken, aynı zamanda tarihin derinliklerine dalma fırsatı bulacaksınız. Şeyh Hüseyin Efendi Türbesi, Hatay'ın tarihi ve turistik açıdan önemli noktalarından biri.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728333"
 
 # Bin Tepeler Tümülüsü 45
 
-Bin Tepeler Tümülüsü 45, Ege Bölgesi'nin en önemli arkeolojik sitelerinden biri olarak kabul ediliyor. Salihli'nin merkezine uzun bir mesafe uzaklıkta bulunan bu tarihi alan, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarihi ve doğal güzellik yelpazesi sunuyor. Bin Tepeler Tümülüsü 45, ziyaretçilerini tarihin derinliklerine götürerek, Ege Bölgesi'nin zengin kültürel mirasını keşfetme fırsatı sunuyor.
+Bin Tepeler Tümülüsü 45, Ege Bölgesi'nin en önemli arkeolojik sitelerinden biri olarak kabul ediliyor. Salihli'nin merkezine uzun bir mesafe uzaklıkta bulunan bu tarihi alan, yaklaşık 140 hektarlık bir alanı kapsıyor. Bin Tepeler Tümülüsü 45, ziyaretçilerini tarihin derinliklerine götürerek, Ege Bölgesi'nin zengin kültürel mirasını keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

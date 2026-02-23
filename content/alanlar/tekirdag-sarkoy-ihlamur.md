@@ -22,7 +22,7 @@ wikidata_id: "Q108227720"
 
 # Tekirdag-Sarkoy Ihlamur
 
-Tekirdag-Sarkoy Ihlamur, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir milli parktır. Bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. İnsanlar, bu doğal güzelliğin içerisinde, yaban hayatının çeşitliliği ve flora ile fauna arasındaki dengeyi gözlemleyebilir. Bu milli park, aynı zamanda, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir.
+Tekirdag-Sarkoy Ihlamur, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir milli parktır. İnsanlar, bu doğal güzelliğin içerisinde, yaban hayatının çeşitliliği ve flora ile fauna arasındaki dengeyi gözlemleyebilir. Bu milli park, aynı zamanda, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Tekirdag-Sarkoy Ihlamur'un tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Tekirdag-Sarkoy Ihlamur, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu milli park, yaklaşık 140 hektarlık alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İklim, bu bölgede, karasal iklimdir ve yazları sıcak, kışları soğuk geçer. Bu milli park, aynı zamanda, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir. İnsanlar, bu doğal güzelliğin içerisinde, yaban hayatının çeşitliliği ve flora ile fauna arasındaki dengeyi gözlemleyebilir. Bu milli park, aynı zamanda, doğa ile iç içe olabilecekleri bir alan olarak hizmet vermektedir. Bu bölgenin coğrafi yapısı, insanların, doğa ile iç içe olabilecekleri bir alanı sunar. İnsanlar, bu doğal güzelliğin içerisinde, yaban hayatının çeşitliliği ve flora ile fauna arasındaki dengeyi gözlemleyebilir. Bu milli park, aynı zamanda, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir.
+Tekirdag-Sarkoy Ihlamur, İç Anadolu Bölgesi'nde yer alan bir milli parktır. İklim, bu bölgede, karasal iklimdir ve yazları sıcak, kışları soğuk geçer. Bu milli park, aynı zamanda, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir. İnsanlar, bu doğal güzelliğin içerisinde, yaban hayatının çeşitliliği ve flora ile fauna arasındaki dengeyi gözlemleyebilir. Bu milli park, aynı zamanda, doğa ile iç içe olabilecekleri bir alan olarak hizmet vermektedir. Bu bölgenin coğrafi yapısı, insanların, doğa ile iç içe olabilecekleri bir alanı sunar. İnsanlar, bu doğal güzelliğin içerisinde, yaban hayatının çeşitliliği ve flora ile fauna arasındaki dengeyi gözlemleyebilir. Bu milli park, aynı zamanda, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir.
 
 ## Flora ve Fauna
 

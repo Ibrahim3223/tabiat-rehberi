@@ -29,11 +29,11 @@ wikidata_id: "Q134728403"
 
 # İkiztepe Tümülüsü, Alucra
 
-İkiztepe Tümülüsü, Alucra, Karadeniz Bölgesi'nin Giresun ilinde yer alan bir tarih ve doğa harikasıdır. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve yemyeşil bir ortamda ziyaretçilerini ağırlamaktadır. İkiztepe Tümülüsü, tarihi geçmişi ve eşsiz doğal güzellikleriyle ziyaretçilerini büyülemektedir. Burada, yüzyıllar önce yaşamış uygarlıkların izlerini görme mümkün ve bu durum, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
+İkiztepe Tümülüsü, Alucra, Karadeniz Bölgesi'nin Giresun ilinde yer alan bir tarih ve doğa harikasıdır. İkiztepe Tümülüsü, tarihi geçmişi ve eşsiz doğal güzellikleriyle ziyaretçilerini büyülemektedir. Burada, yüzyıllar önce yaşamış uygarlıkların izlerini görme mümkün ve bu durum, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
 
 ## Tarihçe
 
-İkiztepe Tümülüsü'nün tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu bölge, çeşitli uygarlıkların yerleşim yeri olarak kullanılmış ve her bir uygarlık, bu topraklara kendi kültürünü ve mirasını bırakmıştır. İkiztepe Tümülüsü, bu uygarlıkların izlerini taşıyan önemli bir tarihi merkez olarak kabul edilmektedir. Burada, yapılan kazılar ve araştırmalar, bu bölgenin zengin tarihi geçmişi hakkında bilgi vermektedir. İkiztepe Tümülüsü, ziyaretçilere bu tarihi geçmişi keşfetme fırsatı sunmaktadır.
+İkiztepe Tümülüsü'nün tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu bölge, çeşitli uygarlıkların yerleşim yeri olarak kullanılmış ve her bir uygarlık, bu topraklara kendi kültürünü ve mirasını bırakmıştır. İkiztepe Tümülüsü, bu uygarlıkların izlerini taşıyan önemli bir tarihi merkez olarak kabul edilmektedir. Burada, yapılan kazılar ve araştırmalar, bu bölgenin zengin tarihi geçmişi hakkında bilgi vermektedir.
 
 ## Coğrafya
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108227181"
 
 # Yemişçi Çınarı Anıt Ağacı
 
-Yemişçi Çınarı Anıt Ağacı, İzmir'in Güzelbahçe ilçesinde bulunan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir anıt ağaçtır. Bu ağaç, yaklaşık 140 hektarlık bir alanda yer alan ve çevresindeki yeşilliklerle birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Yemişçi Çınarı Anıt Ağacı, not only doğal güzelliği ile dikkat çekmekle kalmaz, aynı zamanda tarihi ve kültürel önemiyle de ziyaretçilerini etkiler. Ağacın çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu nedenle, Yemişçi Çınarı Anıt Ağacı, doğa severlerin ve kültürel zenginliklere ilgi duyanların mutlaka ziyaret etmesi gereken bir yer.
+Yemişçi Çınarı Anıt Ağacı, İzmir'in Güzelbahçe ilçesinde bulunan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir anıt ağaçtır. Yemişçi Çınarı Anıt Ağacı, not only doğal güzelliği ile dikkat çekmekle kalmaz, aynı zamanda tarihi ve kültürel önemiyle de ziyaretçilerini etkiler. Ağacın çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu nedenle, Yemişçi Çınarı Anıt Ağacı, doğa severlerin ve kültürel zenginliklere ilgi duyanların mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Yemişçi Çınarı Anıt Ağacı'nın tarihi geçmişi, yüzyıllar boyunca şe
 
 ## Coğrafya
 
-Yemişçi Çınarı Anıt Ağacı, İzmir'in Güzelbahçe ilçesinde, Ege Bölgesi'nin kıyı kesiminde yer alır. Ağacın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alandır ve etrafındaki tepe ve vadilerle birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve Akdeniz ikliminin etkilerini gösterir. Ağacın çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yemişçi Çınarı Anıt Ağacı, çevresindeki doğal güzelliklerle birlikte, bir bütün olarak değerlendirilmelidir. Ağacın bulunduğu alan, aynı zamanda, birçok farklı türden hayvanın yaşam alanıdır ve bu reason, bu bölgenin ekolojik önemi daha da artar.
+Yemişçi Çınarı Anıt Ağacı, İzmir'in Güzelbahçe ilçesinde, Ege Bölgesi'nin kıyı kesiminde yer alır. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve Akdeniz ikliminin etkilerini gösterir. Ağacın çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yemişçi Çınarı Anıt Ağacı, çevresindeki doğal güzelliklerle birlikte, bir bütün olarak değerlendirilmelidir. Ağacın bulunduğu alan, aynı zamanda, birçok farklı türden hayvanın yaşam alanıdır ve bu reason, bu bölgenin ekolojik önemi daha da artar.
 
 ## Flora ve Fauna
 

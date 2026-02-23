@@ -30,7 +30,7 @@ wikidata_id: "Q108228141"
 
 # Sera Gölü Tabiat Parkı
 
-Sera Gölü Tabiat Parkı, Trabzon'un Akçaabat ilçesinde yer alan ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu güzel park, yerlilerin ve turistlerin ziyaret ettiği popüler bir destinasyondur. Parkın etrafı, çeşitli ağaç türleriyle kaplıdır ve burada birçok kuş türü de yaşamaktadır. Sera Gölü Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için mükemmel bir seçenektir. Parkta yürüyüş yapabilir, gölün etrafında piknik yapabilir veya sadece doğanın güzelliğini izleyebilirsiniz.
+ Bu güzel park, yerlilerin ve turistlerin ziyaret ettiği popüler bir destinasyondur. Parkın etrafı, çeşitli ağaç türleriyle kaplıdır ve burada birçok kuş türü de yaşamaktadır. Sera Gölü Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için mükemmel bir seçenektir. Parkta yürüyüş yapabilir, gölün etrafında piknik yapabilir veya sadece doğanın güzelliğini izleyebilirsiniz.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sera Gölü Tabiat Parkı, yüzyıllar boyunca bölgede yaşayan insanların ya�
 
 ## Coğrafya
 
-Sera Gölü Tabiat Parkı, Trabzon'un Akçaabat ilçesinde yer almaktadır. Park, Karadeniz Bölgesi'nin en güzel yerlerinden biridir ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Sera Gölü, parkın merkezinde yer alan ve bölgenin en önemli su kaynaklarından biridir. Gölün etrafında, çeşitli ağaç türleriyle kaplı olan bir orman bulunmaktadır. Bu orman, birçok kuş türü ve diğer canlıları barındırmaktadır. Parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer ve burada yıl boyunca yağış görme mümkündür. Sera Gölü Tabiat Parkı, hem doğal güzelliği hem de coğrafi konumuyla ziyaretçilerini etkilemektedir.
+Sera Gölü Tabiat Parkı, Trabzon'un Akçaabat ilçesinde yer almaktadır. Sera Gölü, parkın merkezinde yer alan ve bölgenin en önemli su kaynaklarından biridir. Gölün etrafında, çeşitli ağaç türleriyle kaplı olan bir orman bulunmaktadır. Bu orman, birçok kuş türü ve diğer canlıları barındırmaktadır. Parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer ve burada yıl boyunca yağış görme mümkündür. Sera Gölü Tabiat Parkı, hem doğal güzelliği hem de coğrafi konumuyla ziyaretçilerini etkilemektedir.
 
 ## Flora ve Fauna
 

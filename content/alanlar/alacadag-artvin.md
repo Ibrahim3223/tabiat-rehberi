@@ -33,7 +33,7 @@ Artvin'in doğa harikalarına ev sahipliği yapan Alacadağ, ziyaretçilerini b�
 
 ## Tarihçe
 
-Artvin'in doğal güzelliklerinden biri olan Alacadağ, tarihin sâu sayfalarında gizli bir hazine gibi bekliyor. Bölge, tarih boyunca çeşitli uygarlıkların izlerini taşıyor. Antik Çağ'da Kolhislere ev sahipliği yapan Artvin, daha sonra Roma ve Bizans egemenliğine girdi. 11. yüzyılda Türklerin yerleşmesi ile birlikte, bölgenin kültürel ve coğrafi özellikleri şekillenmeye başladı.
+Artvin'in doğal güzelliklerinden biri olan Alacadağ, tarihin derin sayfalarında gizli bir hazine gibi bekliyor. Bölge, tarih boyunca çeşitli uygarlıkların izlerini taşıyor. Antik Çağ'da Kolhislere ev sahipliği yapan Artvin, daha sonra Roma ve Bizans egemenliğine girdi. 11. yüzyılda Türklerin yerleşmesi ile birlikte, bölgenin kültürel ve coğrafi özellikleri şekillenmeye başladı.
 
 Doğal güzellikleri ile ünlü olan Alacadağ, Türkiye'nin diğer dağlık bölgeleri gibi, tarih boyunca insanların yaşamına ev sahipliği yaptı. Yaylacılık ve hayvancılık, bölgenin ekonomik yaşamının temelini oluşturdu. Ticaret yolları üzerinde bulunan Artvin, farklı kültürlerin buluşma noktası oldu. Bu doğal alanlar, sadece coğrafi güzelliklerinden değil, aynı zamanda tarih boyunca insanların yaşamını sürdürmesine olanak sağlayan ekosistemler olarak da önem taşıyor. Alacadağ da, bu tarihsel bağlam içinde, bölgenin zengin kültürel mirasının bir parçası olarak karşımıza çıkıyor.
 

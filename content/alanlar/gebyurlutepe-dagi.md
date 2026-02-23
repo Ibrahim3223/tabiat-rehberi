@@ -50,7 +50,7 @@ Mevsimsel açıdan, Gebyürlütepe Dağı'nın bulunduğu bölge, genellikle sı
 
 ## Flora ve Fauna
 
-Gebyürlütepe Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gebyürlütepe Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 1. **Bitki Örtüsü**: İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle donanır. Kuraklığa adapte türler, yaz aylarında bile canlılıklarını korur. Step bitki örtüsünün hakim olduğu bu bölgede, bozkırın karakteristik bitkileri de görülür.
 

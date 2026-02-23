@@ -1,7 +1,7 @@
 ---
 title: "Ağabey Hamamı"
 date: "2026-01-09T23:28:35.061Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739052"
 
 # Ağabey Hamamı
 
-Ağabey Hamamı, İstanbul'un Kadıköy ilçesinde bulunan, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir deniz ve kum cenneti. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yeşilliklerle dolu. Ağabey Hamamı, denize girme ve güneşlenme imkanları sunmasının yanı sıra, çevre gezileri ve doğa yürüyüşleri için de ideal bir yer. Burada, denizde serinleyerek, güneşin keyfini çıkarabilir ve çevredeki tarihi ve doğal güzellikleri keşfedebilirsiniz. Ağabey Hamamı, özellikle yaz aylarında, hem yerli hem de yabancı turistlerin ziyaret ettiği bir destinasyon.
+Ağabey Hamamı, İstanbul'un Kadıköy ilçesinde bulunan, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir deniz ve kum cenneti. Ağabey Hamamı, denize girme ve güneşlenme imkanları sunmasının yanı sıra, çevre gezileri ve doğa yürüyüşleri için de ideal bir yer. Burada, denizde serinleyerek, güneşin keyfini çıkarabilir ve çevredeki tarihi ve doğal güzellikleri keşfedebilirsiniz. Ağabey Hamamı, özellikle yaz aylarında, hem yerli hem de yabancı turistlerin ziyaret ettiği bir destinasyon.
 
 ## Tarihçe
 

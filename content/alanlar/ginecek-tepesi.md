@@ -36,7 +36,7 @@ Ginecek Tepesi, tarihsel olarak önemli bir geçmişe sahip. Bu tepe, yüzyılla
 
 ## Coğrafya
 
-Ginecek Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Ginecek Tepesi, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere muhteşem bir manzara sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bitki türleri ve fauna, bölgenin ekolojik zenginliğini ortaya koyuyor. Ginecek Tepesi, aynı zamanda bölgenin iklimini de yansıtıyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik iklimini taşıyor ve ziyaretçilerine, dört mevsim boyunca farklı deneyimler sunuyor. Ginecek Tepesi, coğrafi yapısı ve iklimi ile ziyaretçilerini büyüleyici bir deneyime davet ediyor.
+Ginecek Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çekiyor. Ginecek Tepesi, yüksek bir konumda yer alıyor ve bu yükseklik, ziyaretçilere muhteşem bir manzara sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bitki türleri ve fauna, bölgenin ekolojik zenginliğini ortaya koyuyor. Ginecek Tepesi, aynı zamanda bölgenin iklimini de yansıtıyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik iklimini taşıyor ve ziyaretçilerine, dört mevsim boyunca farklı deneyimler sunuyor. Ginecek Tepesi, coğrafi yapısı ve iklimi ile ziyaretçilerini büyüleyici bir deneyime davet ediyor.
 
 ## Flora ve Fauna
 

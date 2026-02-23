@@ -30,15 +30,15 @@ wikidata_id: "Q12506"
 
 # Ayasofya
 
-Ayasofya, Cankurtaran'da yer alan ve tarihi geçmişi ile dikkat çeken bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Ayasofya, deniz kıyısında yer alan bir plaj olarak, hem denize girme hem de tarihi yerleri gezme imkanı sunar. Bu bölge, hem turistlerin hem de yerlilerin ziyaret ettiği popüler bir destinasyondur. Ayasofya'nın tarihi geçmişi, ziyaretçilerini bir zaman yolculuğuna çıkarır ve bu deneyimi eşsiz kılar.
+Ayasofya, Cankurtaran'da yer alan ve tarihi geçmişi ile dikkat çeken bir plajdır. Ayasofya, deniz kıyısında yer alan bir plaj olarak, hem denize girme hem de tarihi yerleri gezme imkanı sunar. Bu bölge, hem turistlerin hem de yerlilerin ziyaret ettiği popüler bir destinasyondur. Ayasofya'nın tarihi geçmişi, ziyaretçilerini bir zaman yolculuğuna çıkarır ve bu deneyimi eşsiz kılar.
 
 ## Tarihçe
 
-Ayasofya'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri kendi kültürünü ve mimarisini bırakmıştır. Ayasofya, Bizans döneminden kalan tarihi bir yapı olarak, o dönemlerin mimari özelliklerini taşır. Tarihi geçmişi, ziyaretçilere bu bölgenin önemini ve değerini gösterir. Ayasofya, Cankurtaran'ın en önemli tarihi yerlerinden biri olarak kabul edilir ve ziyaretçilerini tarihin sâu sayfalarına götürür. Bu bölgenin tarihi, çeşitli kaynaklarda ve tarihi belgelerde detaylı olarak anlatılır ve ziyaretçilere zengin bir bilgi kaynağı sunar.
+Ayasofya'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri kendi kültürünü ve mimarisini bırakmıştır. Ayasofya, Bizans döneminden kalan tarihi bir yapı olarak, o dönemlerin mimari özelliklerini taşır. Tarihi geçmişi, ziyaretçilere bu bölgenin önemini ve değerini gösterir. Ayasofya, Cankurtaran'ın en önemli tarihi yerlerinden biri olarak kabul edilir ve ziyaretçilerini tarihin derin sayfalarına götürür. Bu bölgenin tarihi, çeşitli kaynaklarda ve tarihi belgelerde detaylı olarak anlatılır ve ziyaretçilere zengin bir bilgi kaynağı sunar.
 
 ## Coğrafya
 
-Ayasofya, Cankurtaran'da yer alan ve deniz kıyısında bulunan bir plajdır. Bu bölge, coğrafi olarak 140 hektarlık bir yeşil alan olarak tanımlanabilir ve yaklaşık 200 futbol sahası büyüklüğündedir. Ayasofya'nın coğrafi konumu, ziyaretçilere hem denize girme hem de tarihi yerleri gezme imkanı sunar. Bu bölgenin iklimi, genel olarak ılımandır ve ziyaretçilere yıl boyunca ziyaret imkanı sağlar. Ayasofya'nın coğrafyası, deniz kıyısında yer alması ve tarihi geçmişi ile dikkat çeker. Bu bölge, ziyaretçilere doğal güzellikleri ve tarihi yerleri keşfetme imkanı sunar ve coğrafi olarak zengin bir destinasyondur.
+Ayasofya, Cankurtaran'da yer alan ve deniz kıyısında bulunan bir plajdır. Ayasofya'nın coğrafi konumu, ziyaretçilere hem denize girme hem de tarihi yerleri gezme imkanı sunar. Bu bölgenin iklimi, genel olarak ılımandır ve ziyaretçilere yıl boyunca ziyaret imkanı sağlar. Ayasofya'nın coğrafyası, deniz kıyısında yer alması ve tarihi geçmişi ile dikkat çeker. Bu bölge, ziyaretçilere doğal güzellikleri ve tarihi yerleri keşfetme imkanı sunar ve coğrafi olarak zengin bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -46,7 +46,7 @@ Ayasofya, doğal güzellikleri ve çeşitli bitki türleri ile dikkat çeker. Bu
 
 ## Ziyaret Bilgileri
 
-Ayasofya'yı ziyaret etmek, tarih ve doğa severler için eşsiz bir deneyim sunar. Bu bölgeye ulaşım kolaydır ve ziyaretçilere yıl boyunca ziyaret imkanı sağlar. Ayasofya'yı ziyaret etmek için en iyi zaman, ilkbahar ve yaz aylarıdır ve bu dönemde ziyaretçiler, tarihi yerleri gezme ve denize girme imkanı bulabilirler. Bu bölgenin ziyaret edilmesi, ziyaretçilere tarihin sâu sayfalarına götürür ve doğanın güzelliklerini keşfetme imkanı sunar.
+Ayasofya'yı ziyaret etmek, tarih ve doğa severler için eşsiz bir deneyim sunar. Bu bölgeye ulaşım kolaydır ve ziyaretçilere yıl boyunca ziyaret imkanı sağlar. Ayasofya'yı ziyaret etmek için en iyi zaman, ilkbahar ve yaz aylarıdır ve bu dönemde ziyaretçiler, tarihi yerleri gezme ve denize girme imkanı bulabilirler. Bu bölgenin ziyaret edilmesi, ziyaretçilere tarihin derin sayfalarına götürür ve doğanın güzelliklerini keşfetme imkanı sunar.
 
 ## İlginç Bilgiler
 

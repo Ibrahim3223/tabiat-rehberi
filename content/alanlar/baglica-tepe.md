@@ -28,7 +28,7 @@ wikidata_id: "Q31389346"
 
 # Bağlıca Tepe
 
-Bağlıca Tepe, Mersin'in güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık yeşil bir cennet olarak düşünülebilir. Burada, doğa ile iç içe bir gezi deneyimi sunan Bağlıca Tepe, ziyaretçilerini bekliyor. Bu güzel tepe, Mersin'in zengin coğrafyası ve tarihi geçmişi ile birleşerek,turistlere unutulmaz bir deneyim vaat ediyor.
+Bağlıca Tepe, Mersin'in güzide noktalarından biri olarak karşımıza çıkıyor. Burada, doğa ile iç içe bir gezi deneyimi sunan Bağlıca Tepe, ziyaretçilerini bekliyor. Bu güzel tepe, Mersin'in zengin coğrafyası ve tarihi geçmişi ile birleşerek,turistlere unutulmaz bir deneyim vaat ediyor.
 
 ## Tarihçe
 

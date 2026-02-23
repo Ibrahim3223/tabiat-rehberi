@@ -28,11 +28,11 @@ wikidata_id: "Q31563568"
 
 # Mete Tepesi
 
-Mete Tepesi, Artvin'in güzide noktalarından biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin keyifle dolaşabileceği bir yer. Mete Tepesi, Karadeniz Bölgesi'nin eşsiz manzarasına sahip ve ziyaretçilerini büyüleyen bir tepe. Doğal güzellikleri, yürüyüş parkurları ve panoramik manzarasıyla Mete Tepesi, doğa tutkunlarının kaçırmaması gereken bir destinasyon.
+Mete Tepesi, Artvin'in güzide noktalarından biri olarak karşımıza çıkıyor. Mete Tepesi, Karadeniz Bölgesi'nin eşsiz manzarasına sahip ve ziyaretçilerini büyüleyen bir tepe. Doğal güzellikleri, yürüyüş parkurları ve panoramik manzarasıyla Mete Tepesi, doğa tutkunlarının kaçırmaması gereken bir destinasyon.
 
 ## Tarihçe
 
-Mete Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu tepe, tarih boyunca önemli bir stratejik nokta olarak kullanılmış ve bölgenin kültürel mirasına katkıda bulunmuş. Mete Tepesi, ziyaretçilerini tarihin sâu sayfalarına götürüyor ve bölgenin zengin kültürel geçmişini keşfetme fırsatı sunuyor. Tarihi açıdan önemli bir nokta olarak Mete Tepesi, ziyaretçilerini bekliyor.
+Mete Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu tepe, tarih boyunca önemli bir stratejik nokta olarak kullanılmış ve bölgenin kültürel mirasına katkıda bulunmuş. Mete Tepesi, ziyaretçilerini tarihin derin sayfalarına götürüyor ve bölgenin zengin kültürel geçmişini keşfetme fırsatı sunuyor. Tarihi açıdan önemli bir nokta olarak Mete Tepesi, ziyaretçilerini bekliyor.
 
 ## Coğrafya
 

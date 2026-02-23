@@ -1,7 +1,7 @@
 ---
 title: "Çarşı Hamamı (Ünye)"
 date: "2026-01-10T04:31:32.449Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ordu"
@@ -30,7 +30,7 @@ wikidata_id: "Q118188056"
 
 # Çarşı Hamamı (Ünye)
 
-Ünye'de bulunan Çarşı Hamamı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Çarşı Hamamı, Ünye'nin merkezinde yer alıyor ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Bu alan, doğa severler ve huzur arayanlar için bir sığınak harika bir deneyim. Çarşı Hamamı, aynı zamanda Ünye'nin tarihi ve kültürel zenginliklerini de keşfetmenize olanak sağlıyor.
+Ünye'de bulunan Çarşı Hamamı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin. Çarşı Hamamı, Ünye'nin merkezinde yer alıyor ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Bu alan, doğa severler ve huzur arayanlar için bir sığınak harika bir deneyim. Çarşı Hamamı, aynı zamanda Ünye'nin tarihi ve kültürel zenginliklerini de keşfetmenize olanak sağlıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q118188056"
 
 ## Coğrafya
 
-Çarşı Hamamı, Ünye'nin merkezinde yer alıyor ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Bu alan, 140 hektarlık bir yeşil alan sunuyor ve geniş bir doğa alanı olarak hizmet veriyor. Çarşı Hamamı, aynı zamanda Ünye'nin coğrafi yapısını da keşfetmenize olanak sağlıyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve doğa severler için bir cennet harika bir deneyim. Çarşı Hamamı, Ünye'nin iklimini ve coğrafi yapısını keşfetmek isteyenler için önemli bir nokta. Bu alan, aynı zamanda Ünye'nin çevre zenginliklerini de keşfetmenize olanak sağlıyor.
+Çarşı Hamamı, Ünye'nin merkezinde yer alıyor ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Çarşı Hamamı, aynı zamanda Ünye'nin coğrafi yapısını da keşfetmenize olanak sağlıyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve doğa severler için bir cennet harika bir deneyim. Çarşı Hamamı, Ünye'nin iklimini ve coğrafi yapısını keşfetmek isteyenler için önemli bir nokta. Bu alan, aynı zamanda Ünye'nin çevre zenginliklerini de keşfetmenize olanak sağlıyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q118188056"
 ## İlginç Bilgiler
 
 - Çarşı Hamamı, Ünye'nin merkezinde yer alıyor.
-- Bu alan, 140 hektarlık bir yeşil alan sunuyor.
+
 - Çarşı Hamamı, Ünye'nin tarihi ve kültürel zenginliklerini keşfetmenize olanak sağlıyor.
 - Bu bölge, ilkbahar ve yaz aylarında yeşilin tüm tonlarını sunuyor.
 - Çarşı Hamamı, Ünye'nin çevre zenginliklerini korumak için önemli bir rol oynuyor.

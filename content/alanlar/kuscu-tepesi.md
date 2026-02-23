@@ -28,7 +28,7 @@ wikidata_id: "Q32206434"
 
 # Kuşçu Tepesi
 
-Kuşçu Tepesi, Gaziantep'in güneydoğu kesiminde yer alan ve şehrin doğal güzelliklerinden biri olarak bilinen bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin panoramik manzarasını sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontruluyor. Kuşçu Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon.
+Kuşçu Tepesi, Gaziantep'in güneydoğu kesiminde yer alan ve şehrin doğal güzelliklerinden biri olarak bilinen bir tepe. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontruluyor. Kuşçu Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon.
 
 ## Tarihçe
 

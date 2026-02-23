@@ -28,7 +28,7 @@ wikidata_id: "Q31390986"
 
 # Kuzluk Tepesi
 
-Kuzluk Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini gözler önüne seren bir doğal alan olarak dikkat çekiyor. Kayseri'nin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kuzluk Tepesi, ziyaretçilerini doğanın güzelliği ve tarihi geçmişiyle karşılayacak bir destinasyon olarak öne çıkıyor. Bu tepe, özellikle doğal güzelliklere meraklı olan gezginler için önemli bir hedef olarak görülüyor.
+Kuzluk Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini gözler önüne seren bir doğal alan olarak dikkat çekiyor. Kayseri'nin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Kuzluk Tepesi, ziyaretçilerini doğanın güzelliği ve tarihi geçmişiyle karşılayacak bir destinasyon olarak öne çıkıyor. Bu tepe, özellikle doğal güzelliklere meraklı olan gezginler için önemli bir hedef olarak görülüyor.
 
 ## Tarihçe
 

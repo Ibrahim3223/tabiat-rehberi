@@ -1,7 +1,7 @@
 ---
 title: "İcadiye Dağ Hamamı"
 date: "2026-01-09T22:57:09.037Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738593"
 
 # İcadiye Dağ Hamamı
 
-İcadiye Dağ Hamamı, Üsküdar'ın en güzel ve sakin noktalarından biridir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. İcadiye Dağ Hamamı, deniz kıyısında yer alan bir plaj olarak, denizin serinliği ve güneşin sıcaklığını bir arada sunuyor. Ziyaretçiler, plajın geniş kum sahiline yerleşerek, denizde yüzme ve güneşlenme keyfi yaşayabiliyorlar.
+İcadiye Dağ Hamamı, Üsküdar'ın en güzel ve sakin noktalarından biridir. İcadiye Dağ Hamamı, deniz kıyısında yer alan bir plaj olarak, denizin serinliği ve güneşin sıcaklığını bir arada sunuyor. Ziyaretçiler, plajın geniş kum sahiline yerleşerek, denizde yüzme ve güneşlenme keyfi yaşayabiliyorlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738593"
 
 ## Coğrafya
 
-İcadiye Dağ Hamamı, Üsküdar'ın en güzel ve sakin noktalarından biridir. Bu plaj, deniz kıyısında yer alıyor ve Marmara Denizi'nin serin sularına açılıyor. İcadiye Dağ Hamamı, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerine rahatça yerleşebilecekleri ve denizin keyfini çıkarabilecekleri bir ortam sunuyor. İcadiye Dağ Hamamı'nın coğrafyası, deniz, kum ve güneşin bir araya geldiği bir noktada yer alıyor. Bu nedenle, ziyaretçiler, plajın geniş kum sahiline yerleşerek, denizde yüzme ve güneşlenme keyfi yaşayabiliyorlar.
+İcadiye Dağ Hamamı, Üsküdar'ın en güzel ve sakin noktalarından biridir. Bu plaj, deniz kıyısında yer alıyor ve Marmara Denizi'nin serin sularına açılıyor. Bu geniş alan, ziyaretçilerine rahatça yerleşebilecekleri ve denizin keyfini çıkarabilecekleri bir ortam sunuyor. İcadiye Dağ Hamamı'nın coğrafyası, deniz, kum ve güneşin bir araya geldiği bir noktada yer alıyor. Bu nedenle, ziyaretçiler, plajın geniş kum sahiline yerleşerek, denizde yüzme ve güneşlenme keyfi yaşayabiliyorlar.
 
 ## Flora ve Fauna
 

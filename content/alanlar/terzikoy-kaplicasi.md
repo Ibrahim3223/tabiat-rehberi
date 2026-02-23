@@ -28,7 +28,7 @@ wikidata_id: "Q49742002"
 
 # Terziköy Kaplıcası
 
-Terziköy Kaplıcası, Amasya'nın doğal güzellikleri arasında yer alan bir termal kaynak olarak dikkat çekiyor. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini doğanın güzelliği ile buluşturuyor. Kaplıcanın suyunun tedavi edici özellikleri ile tanınan Terziköy Kaplıcası, sağlık turizmi açısından önemli bir destinasyon olarak biliniyor. Bu doğal güzelliğin içerisinde, ziyaretçiler hem doğa ile iç içe vakit geçirebiliyor hem de sağlık açısından faydalanabiliyor.
+Terziköy Kaplıcası, Amasya'nın doğal güzellikleri arasında yer alan bir termal kaynak olarak dikkat çekiyor. Kaplıcanın suyunun tedavi edici özellikleri ile tanınan Terziköy Kaplıcası, sağlık turizmi açısından önemli bir destinasyon olarak biliniyor. Bu doğal güzelliğin içerisinde, ziyaretçiler hem doğa ile iç içe vakit geçirebiliyor hem de sağlık açısından faydalanabiliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Terziköy Kaplıcası, yüzyıllar boyunca insanların sağlık arayışında ö
 
 ## Coğrafya
 
-Terziköy Kaplıcası, Karadeniz Bölgesi'nin güzelliklerini içinde barındıran Amasya ilinde yer alıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini doğanın güzelliği ile buluşturuyor. Kaplıcanın suyu, yeraltından gelen sıcak suyun tedavi edici özellikleri ile tanınıyor. Çevresindeki yeşilli ve doğal güzellikler, ziyaretçilere huzurlu bir ortam sunuyor. Terziköy Kaplıcası, Karadeniz Bölgesi'nin iklimi ile uyumlu bir şekilde, dört mevsim ziyaret edilebilecek bir destinasyon olarak biliniyor. Kış aylarında, karla örtülü olan bu bölge, ziyaretçilere kışın güzelliğini gösterirken, yaz aylarında ise yeşilin her tonunu sunuyor.
+Terziköy Kaplıcası, Karadeniz Bölgesi'nin güzelliklerini içinde barındıran Amasya ilinde yer alıyor. Kaplıcanın suyu, yeraltından gelen sıcak suyun tedavi edici özellikleri ile tanınıyor. Çevresindeki yeşilli ve doğal güzellikler, ziyaretçilere huzurlu bir ortam sunuyor. Terziköy Kaplıcası, Karadeniz Bölgesi'nin iklimi ile uyumlu bir şekilde, dört mevsim ziyaret edilebilecek bir destinasyon olarak biliniyor. Kış aylarında, karla örtülü olan bu bölge, ziyaretçilere kışın güzelliğini gösterirken, yaz aylarında ise yeşilin her tonunu sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Terziköy Kaplıcası, ziyaretçilerine sağlık ve doğa güzelliği sunan bir 
 
 ## İlginç Bilgiler
 
-- Terziköy Kaplıcası, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Kaplıcanın suyu, yeraltından gelen sıcak suyun tedavi edici özellikleri ile tanınüyor.
 - Bu bölgede, çeşitli bitki türleri ve ağaçlar, ziyaretçilere doğanın güzelliğini gösterirken, aynı zamanda bu bölgede yaşayan canlılar, ziyaretçilere doğanın çeşitliliğini sunuyor.
 - Terziköy Kaplıcası, yüzyıllar boyunca insanların sağlık arayışında önemli bir rol oynamıştır.

@@ -28,7 +28,7 @@ wikidata_id: "Q32129444"
 
 # Arkaçal Tepesi
 
-Arkaçal Tepesi, Kastamonu'nun doğal güzelliklerinden biri olarak dikkat çeker. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçiler için çeşitli aktiviteler sunar. Kaya ve yürüyüş gibi etkinliklerle doğayı keşfetme mümkün. Arkçal Tepesi, Kastamonu'nun önemli turizm merkezlerinden biri olarak bilinir. Burada yapılan birçok gezi ve etkinlik, ziyaretçilere unutulmaz anlar yaşatır.
+Arkaçal Tepesi, Kastamonu'nun doğal güzelliklerinden biri olarak dikkat çeker. Kaya ve yürüyüş gibi etkinliklerle doğayı keşfetme mümkün. Arkçal Tepesi, Kastamonu'nun önemli turizm merkezlerinden biri olarak bilinir. Burada yapılan birçok gezi ve etkinlik, ziyaretçilere unutulmaz anlar yaşatır.
 
 ## Tarihçe
 

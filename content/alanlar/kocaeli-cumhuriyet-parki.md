@@ -22,7 +22,7 @@ wikidata_id: "Q108228911"
 
 # KOCAELİ CUMHURİYET PARKI
 
-Kocaeli Cumhuriyet Parkı, yaklaşık 140 hektarlık bir alanı kaplayan, İç Anadolu Bölgesi'nde yer alan bir doğal alandır. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna ile dikkat çeker. Park, ziyaretçilerine doğayı yakından tanıma ve doğal güzellikleri keşfetmek için ideal bir ortam sunar. Kocaeli'nin merkezinde yer alan bu park, hem yerel halk hem de ziyaretçiler için önemli bir dinlenme ve eğlenme alanıdır.
+Kocaeli Cumhuriyet Parkı, yaklaşık 140 hektarlık bir alanı kaplayan, İç Anadolu Bölgesi'nde yer alan bir doğal alandır. Park, ziyaretçilerine doğayı yakından tanıma ve doğal güzellikleri keşfetmek için ideal bir ortam sunar. Kocaeli'nin merkezinde yer alan bu park, hem yerel halk hem de ziyaretçiler için önemli bir dinlenme ve eğlenme alanıdır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kocaeli Cumhuriyet Parkı'nın tarihi geçmişi, yüzyıllar öncesine dayanır.
 
 ## Coğrafya
 
-Kocaeli Cumhuriyet Parkı, İç Anadolu Bölgesi'nde yer alan bir doğal alandır. Park, 140 hektarlık bir alanı kaplar ve çeşitli bitki türleri ile zengin fauna ile dikkat çeker. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğayı yakından tanımak için ideal bir ortam sunar. Parkın coğrafi yapısı, çeşitli tepe ve vadileri içerir ve bu nedenle, ziyaretçilere farklı manzaralar sunar. İklim, karasal iklim özellikleri taşır ve bu nedenle, parkın flora ve faunası mevsimsel değişimlere göre uyum gösterir.
+Kocaeli Cumhuriyet Parkı, İç Anadolu Bölgesi'nde yer alan bir doğal alandır. Park, 140 hektarlık bir alanı kaplar ve çeşitli bitki türleri ile zengin fauna ile dikkat çeker. Parkın coğrafi yapısı, çeşitli tepe ve vadileri içerir ve bu nedenle, ziyaretçilere farklı manzaralar sunar. İklim, karasal iklim özellikleri taşır ve bu nedenle, parkın flora ve faunası mevsimsel değişimlere göre uyum gösterir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Kocaeli Cumhuriyet Parkı, ziyaretçilerine doğayı yakından tanıma ve doğal
 
 ## İlginç Bilgiler
 
-- Parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunur.
 - Park, yılın her dönemi ziyaret edilebilir.
 - Parkın flora ve faunası, mevsimsel değişimlere göre uyum gösterir.

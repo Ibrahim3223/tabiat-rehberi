@@ -28,7 +28,7 @@ wikidata_id: "Q31387308"
 
 # Aydınlıkkaya Tepe
 
-Aydınlıkkaya Tepe, Bolu'nun merkezinde bulunan ve şehrin önemli doğal güzelliklerinden biri olan bir tepedir. Bu tepe, khong 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Aydınlıkkaya Tepe, şehir merkezine yakınlığı ve doğal güzelliği ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Tepe, aynı zamanda Bolu'nun tarihi geçmişi hakkında da önemli bilgiler sunar. Aydınlıkkaya Tepe'nin üzerinde bulunan tarihi kalıntılar, bu bölgenin yüzyıllar boyunca önemli bir yerleşim yeri olduğunu göstermektedir.
+Aydınlıkkaya Tepe, Bolu'nun merkezinde bulunan ve şehrin önemli doğal güzelliklerinden biri olan bir tepedir. Aydınlıkkaya Tepe, şehir merkezine yakınlığı ve doğal güzelliği ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Tepe, aynı zamanda Bolu'nun tarihi geçmişi hakkında da önemli bilgiler sunar. Aydınlıkkaya Tepe'nin üzerinde bulunan tarihi kalıntılar, bu bölgenin yüzyıllar boyunca önemli bir yerleşim yeri olduğunu göstermektedir.
 
 ## Tarihçe
 

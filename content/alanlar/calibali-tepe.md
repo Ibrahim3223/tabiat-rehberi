@@ -28,7 +28,7 @@ wikidata_id: "Q34828051"
 
 # Çalıbalı Tepe
 
-İzmir'in doğal güzellikleri arasında yer alan Çalıbalı Tepe, ziyaretçilerini bekleyen bir doğa cenneti. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Çalıbalı Tepe, Ege Bölgesi'nin zengin coğrafyası içinde yer alıyor ve bölgenin tarihi geçmişi ile iç içe.
+İzmir'in doğal güzellikleri arasında yer alan Çalıbalı Tepe, ziyaretçilerini bekleyen bir doğa cenneti. Çalıbalı Tepe, Ege Bölgesi'nin zengin coğrafyası içinde yer alıyor ve bölgenin tarihi geçmişi ile iç içe.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ wikidata_id: "Q34828051"
 
 - Çalıbalı Tepe, Ege Bölgesi'nin güzide şehirlerinden İzmir'de bulunuyor.
 - Tepe, 140 hektarlık bir yeşil alana sahip.
-- Çalıbalı Tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Tepe ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Çalıbalı Tepe, yılın her dönemi ziyaret edilebilir.

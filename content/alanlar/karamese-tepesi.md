@@ -28,7 +28,7 @@ wikidata_id: "Q31588799"
 
 # Karameşe Tepesi
 
-Karameşe Tepesi, Batman şehrinin merkezine yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşit. Karameşe Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle cezbediyor. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, bu bölgeyi doğa severler için bir cennet haline getiriyor. Karameşe Tepesi, aynı zamanda manzarası ile de dikkat çekiyor. Tepenin tepesinden, Batman şehrinin panoramik manzarasını izleme mümkün.
+Karameşe Tepesi, Batman şehrinin merkezine yakın bir konumda yer alıyor. Karameşe Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle cezbediyor. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, bu bölgeyi doğa severler için bir cennet haline getiriyor. Karameşe Tepesi, aynı zamanda manzarası ile de dikkat çekiyor. Tepenin tepesinden, Batman şehrinin panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 

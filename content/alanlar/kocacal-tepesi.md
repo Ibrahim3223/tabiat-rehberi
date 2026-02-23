@@ -50,9 +50,9 @@ Mevsimsel değişikliklere bağlı olarak, Kocaçal Tepesi'nin iklim karakteri d
 
 ## Flora ve Fauna
 
-Kocaçal Tepesi, Ankara'nın step bitki örtüsü ve bozkır ekosisteminin bir parçası olan dağlık bir bölgedir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kocaçal Tepesi, Ankara'nın step bitki örtüsü ve bozkır ekosisteminin bir parçası olan dağlık bir bölgedir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar aylarında çiçek açan çok yıllık otlar ve küçük çalılıklar hakimdir. Sonbaharda, kuraklığa adapte olan türler öne çıkar. Yaban Hayatı olarak, dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, kartallar ve şahinler gibi kuşlar ve verschill sürüngenler bu bölgede yaşar. 
+Bitki Örtüsü olarak, ilkbahar aylarında çiçek açan çok yıllık otlar ve küçük çalılıklar hakimdir. Sonbaharda, kuraklığa adapte olan türler öne çıkar. Yaban Hayatı olarak, dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, kartallar ve şahinler gibi kuşlar ve verschill sürüngenler bu bölgede yaşar.
 
 Ekolojik Değer olarak, Kocaçal Tepesi'nin yükseklik zonları ve alpin flora, dağ hayvanları için önemli bir yaşam alanı sunar. Bu bölgenin korunması, ekosistemin dengesini korumak için önemlidir.
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228213"
 
 # Bespinarlar
 
-Bespinarlar, İç Anadolu Bölgesi'nin zengin doğasını keşfetmek için ideal bir destinasyon. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilerini büyüleyici bir doğa deneyimi sunuyor. Bu milli park, ziyaretçilerine çeşitli bitki türleri ve zengin fauna ile dolu bir dünya sunuyor. Bespinarlar, doğa severlerin ve macera arayışında olanların gözdesi haline geliyor.
+Bespinarlar, İç Anadolu Bölgesi'nin zengin doğasını keşfetmek için ideal bir destinasyon. Bu milli park, ziyaretçilerine çeşitli bitki türleri ve zengin fauna ile dolu bir dünya sunuyor. Bespinarlar, doğa severlerin ve macera arayışında olanların gözdesi haline geliyor.
 
 ## Tarihçe
 

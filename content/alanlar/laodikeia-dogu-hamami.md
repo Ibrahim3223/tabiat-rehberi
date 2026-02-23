@@ -1,7 +1,7 @@
 ---
 title: "Laodikeia Doğu Hamamı"
 date: "2026-01-09T23:12:10.920Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738923"
 
 # Laodikeia Doğu Hamamı
 
-Pamukkale'nin tarihi ve doğal güzelliklerine ev sahipliği yapan Laodikeia Doğu Hamamı, Ege Bölgesi'nin önemli bir turizm merkezi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, antik kentlerin kalıntılarını, tarihi hamamları ve doğal güzellikleri keşfedebilirsiniz. Laodikeia, Lydia ve Roma dönemlerinde önemli bir merkez olarak bilinir. Bu bölgede, tarihi ve doğal güzellikleri bir arada görme mümkün.
+Pamukkale'nin tarihi ve doğal güzelliklerine ev sahipliği yapan Laodikeia Doğu Hamamı, Ege Bölgesi'nin önemli bir turizm merkezi. Burada, antik kentlerin kalıntılarını, tarihi hamamları ve doğal güzellikleri keşfedebilirsiniz. Laodikeia, Lydia ve Roma dönemlerinde önemli bir merkez olarak bilinir. Bu bölgede, tarihi ve doğal güzellikleri bir arada görme mümkün.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Alaeddin Camii"
 date: "2026-01-10T04:48:00.199Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sinop"
@@ -30,7 +30,7 @@ wikidata_id: "Q6055249"
 
 # Alaeddin Camii
 
-Alaeddin Camii, Sinop'un merkezinde yer alan ve şehrin tarihi geçmişini yansıtan önemli bir yapıdır. 140 hektarlık bir alanı kaplayan bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğünde ve Sinop'un en önemli turistik noktalarından biridir. Bu cami, Sinop'un kültürel ve tarihi zenginliklerinin bir parçası olarak kabul edilir ve ziyaretçilerini şehrin geçmişine götürmektedir. Alaeddin Camii'nin tarihi önemi ve mimari güzelliği, ziyaretçilere unutulmaz bir deneyim sunar.
+Alaeddin Camii, Sinop'un merkezinde yer alan ve şehrin tarihi geçmişini yansıtan önemli bir yapıdır. Bu cami, Sinop'un kültürel ve tarihi zenginliklerinin bir parçası olarak kabul edilir ve ziyaretçilerini şehrin geçmişine götürmektedir. Alaeddin Camii'nin tarihi önemi ve mimari güzelliği, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

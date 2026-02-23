@@ -1,7 +1,7 @@
 ---
 title: "Labraunda Anıt Mezarı"
 date: "2026-01-09T23:59:06.446Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728130"
 
 # Labraunda Anıt Mezarı
 
-Labraunda Anıt Mezarı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin güzelliklerini ve tarihi zenginliklerini bir araya getiren özel bir noktada yer alır. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğal güzellikleri ve tarihi değerleriyle ziyaretçilerini etkileyen Labraunda Anıt Mezarı, aynı zamanda bölgenin önemli kültür varlıklarından biridir. Burada, antik dönemden kalma yapılar ve mezar anıtları, ziyaretçilere tarihin sayfalarından bir sayfa açar.
+Labraunda Anıt Mezarı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin güzelliklerini ve tarihi zenginliklerini bir araya getiren özel bir noktada yer alır. Doğal güzellikleri ve tarihi değerleriyle ziyaretçilerini etkileyen Labraunda Anıt Mezarı, aynı zamanda bölgenin önemli kültür varlıklarından biridir. Burada, antik dönemden kalma yapılar ve mezar anıtları, ziyaretçilere tarihin sayfalarından bir sayfa açar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Labraunda Anıt Mezarı'nın tarihi geçmişi, bölgenin antik dönemlerine kada
 
 ## Coğrafya
 
-Labraunda Anıt Mezarı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin coğrafi güzelliklerinin birleştiği bir noktada yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Coğrafi olarak, Labraunda Anıt Mezarı'nın çevresi, doğal güzelliklerle dolu bir bölgedir. Burada, yeşilin çeşitli tonlarını görebileceğiniz ormanlar, ziyaretçilere doğanın güzelliğini sunar. Ayrıca, bölgenin iklimi, Akdeniz ikliminin özellikleri taşır ve ziyaretçilere sıcak ve güneşli bir ortam sunar. Labraunda Anıt Mezarı'nın coğrafi konumu, aynı zamanda ziyaretçilere bölgenin diğer turistik noktalarına ulaşma imkanı sağlar.
+Labraunda Anıt Mezarı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin coğrafi güzelliklerinin birleştiği bir noktada yer alır. Coğrafi olarak, Labraunda Anıt Mezarı'nın çevresi, doğal güzelliklerle dolu bir bölgedir. Burada, yeşilin çeşitli tonlarını görebileceğiniz ormanlar, ziyaretçilere doğanın güzelliğini sunar. Ayrıca, bölgenin iklimi, Akdeniz ikliminin özellikleri taşır ve ziyaretçilere sıcak ve güneşli bir ortam sunar. Labraunda Anıt Mezarı'nın coğrafi konumu, aynı zamanda ziyaretçilere bölgenin diğer turistik noktalarına ulaşma imkanı sağlar.
 
 ## Flora ve Fauna
 

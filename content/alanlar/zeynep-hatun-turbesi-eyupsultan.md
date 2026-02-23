@@ -1,7 +1,7 @@
 ---
 title: "Zeynep Hatun Türbesi, Eyüpsultan"
 date: "2026-01-10T05:49:21.224Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

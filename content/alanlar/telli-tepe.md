@@ -28,7 +28,7 @@ wikidata_id: "Q31386663"
 
 # Telli Tepe
 
-Telli Tepe, Mardin'in eşsiz manzarasına ev sahipliği yapan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Telli Tepe, Mardin'in merkezine yakın bir konumda yer alır ve şehrin tarihi dokusunu korumuştur. Bölgenin coğrafi özellikleri, ziyaretçilererich bir deneyim sunar. Telli Tepe, her mevsim farklı bir güzellik sunar ve ziyaretçilerini bekler.
+Telli Tepe, Mardin'in eşsiz manzarasına ev sahipliği yapan bir tepe. Telli Tepe, Mardin'in merkezine yakın bir konumda yer alır ve şehrin tarihi dokusunu korumuştur. Bölgenin coğrafi özellikleri, ziyaretçilererich bir deneyim sunar. Telli Tepe, her mevsim farklı bir güzellik sunar ve ziyaretçilerini bekler.
 
 ## Tarihçe
 

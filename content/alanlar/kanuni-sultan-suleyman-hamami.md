@@ -1,7 +1,7 @@
 ---
 title: "Kanuni Sultan Süleyman Hamamı"
 date: "2026-01-09T23:24:07.912Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738993"
 
 # Kanuni Sultan Süleyman Hamamı
 
-Kanuni Sultan Süleyman Hamamı, Hatay'ın Belen ilçesinde, Akdeniz Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik noktasıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin gizemine ve doğanın muhteşem manzaralarına davet ediyor. Bu özel mekan, ziyaretçilerine hem tarihsel bir derinlik hem de doğal güzellikler sunuyor. Kanuni Sultan Süleyman Hamamı, tarihi ve doğası ile ziyaretçilerini büyülüyor ve unutulmaz anlar yaşatmak için ideal bir destinasyon.
+Kanuni Sultan Süleyman Hamamı, Hatay'ın Belen ilçesinde, Akdeniz Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu özel mekan, ziyaretçilerine hem tarihsel bir derinlik hem de doğal güzellikler sunuyor. Kanuni Sultan Süleyman Hamamı, tarihi ve doğası ile ziyaretçilerini büyülüyor ve unutulmaz anlar yaşatmak için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kanuni Sultan Süleyman Hamamı, tarihsel bir geçmişe sahip önemli bir noktad
 
 ## Coğrafya
 
-Kanuni Sultan Süleyman Hamamı, Hatay'ın Belen ilçesinde, Akdeniz Bölgesi'nin coğrafi güzelliğinin tam ortasında yer alıyor. Bu bölge, Akdeniz ikliminin karakteristik özellikleri ile tanınır; ılıman kışlar ve sıcak yazlar ziyaretçileri bekliyor. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan ve bu, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilere hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. Coğrafi konumu itibariyle, Kanuni Sultan Süleyman Hamamı, ziyaretçilerine Akdeniz Bölgesi'nin coğrafi güzelliklerini ve tarihi zenginliklerini sunuyor. Bu özel nokta, ziyaretçilerini tarihin gizemine ve doğanın güzelliğine davet ediyor ve unutulmaz bir deneyim sunmak için ideal bir yer.
+Kanuni Sultan Süleyman Hamamı, Hatay'ın Belen ilçesinde, Akdeniz Bölgesi'nin coğrafi güzelliğinin tam ortasında yer alıyor. Bu bölge, Akdeniz ikliminin karakteristik özellikleri ile tanınır; ılıman kışlar ve sıcak yazlar ziyaretçileri bekliyor. Bu geniş yeşil alan, ziyaretçilere hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. Coğrafi konumu itibariyle, Kanuni Sultan Süleyman Hamamı, ziyaretçilerine Akdeniz Bölgesi'nin coğrafi güzelliklerini ve tarihi zenginliklerini sunuyor. Bu özel nokta, ziyaretçilerini tarihin gizemine ve doğanın güzelliğine davet ediyor ve unutulmaz bir deneyim sunmak için ideal bir yer.
 
 ## Flora ve Fauna
 

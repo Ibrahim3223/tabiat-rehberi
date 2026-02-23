@@ -32,7 +32,7 @@ Van ilinin doğal güzelliklerinin arasında yer alan İsmailbaba Dağı, bölge
 
 ## Tarihçe
 
-Van bölgesinin zengin tarihi, İsmailbaba Dağı'nın eteklerinde de hissedilir. Binlerce yıl önce, Urartular bu topraklarda hüküm sürmüştür. Daha sonra, Persler, Romalılar ve Osmanlılar da bu bölgede izler bırakmıştır. İsmailbaba Dağı, tarihin sâu izlerini taşıyan bir coğrafyanın parçası olarak, insanlık tarihinin önemli ticaret yollarının kesişme noktasında yer alır.
+Van bölgesinin zengin tarihi, İsmailbaba Dağı'nın eteklerinde de hissedilir. Binlerce yıl önce, Urartular bu topraklarda hüküm sürmüştür. Daha sonra, Persler, Romalılar ve Osmanlılar da bu bölgede izler bırakmıştır. İsmailbaba Dağı, tarihin derin izlerini taşıyan bir coğrafyanın parçası olarak, insanlık tarihinin önemli ticaret yollarının kesişme noktasında yer alır.
 
 Türkiye'de doğal alanlar, tarihsel olarak önemli yerleşim ve geçiş noktaları olarak görev görmüşlerdir. İnsanlar, bu bölgelerde hayvancılık, yaylacılık ve avcılıkla uğraşmış, bu doğal kaynaklara bağlı olarak yaşamını sürdürmüştür. İsmailbaba Dağı da, bölgede yaşayan halkın yaşamını sürdürdüğü, hayvanlarını otlatmak için kullandığı bir alan olarak tarihsel öneme sahiptir. Bölgenin coğrafi yapısı, ticaret yollarının oluşmasına da etkide bulunmuş, insanların ve malların taşınmasına olanak sağlamıştır. Bu şekilde, İsmailbaba Dağı, Van bölgesinin zengin tarihinin bir parçası olarak, insanlık tarihinin önemli bir bölümünü şekillendirmiştir.
 

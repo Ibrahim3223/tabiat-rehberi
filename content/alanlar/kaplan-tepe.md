@@ -28,7 +28,7 @@ wikidata_id: "Q31391058"
 
 # Kaplan Tepe
 
-Kaplan Tepe, Adıyaman'ın güneydoğusunda yer alan, hem tarih hem de doğaçısından önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir manzara ile karşılar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Kaplan Tepe, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu tepe, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
+Kaplan Tepe, Adıyaman'ın güneydoğusunda yer alan, hem tarih hem de doğaçısından önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir manzara ile karşılar. Kaplan Tepe, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu tepe, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
 
 ## Tarihçe
 

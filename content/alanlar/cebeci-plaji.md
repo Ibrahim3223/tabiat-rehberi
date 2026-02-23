@@ -29,7 +29,7 @@ wikidata_id: "Q106889464"
 
 # Cebeci Plajı
 
-Cebeci Plajı, Kocaeli'nin en çok ziyaret edilen yerlerinden biri olarak bilinir. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu geniş alan, ziyaretçilere geniş bir kumsal ve güneşlenme alanı sağlar. Plajın etrafındaki yeşilli ve ağaçlar, ziyaretçilere serin ve huzurlu bir ortam sunar. Cebeci Plajı, hem yerel halk hem de turistler için popüler bir destinasyondur.
+Cebeci Plajı, Kocaeli'nin en çok ziyaret edilen yerlerinden biri olarak bilinir. Bu geniş alan, ziyaretçilere geniş bir kumsal ve güneşlenme alanı sağlar. Plajın etrafındaki yeşilli ve ağaçlar, ziyaretçilere serin ve huzurlu bir ortam sunar. Cebeci Plajı, hem yerel halk hem de turistler için popüler bir destinasyondur.
 
 ## Tarihçe
 

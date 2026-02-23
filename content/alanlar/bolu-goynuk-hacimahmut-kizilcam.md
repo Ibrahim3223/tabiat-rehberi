@@ -22,7 +22,7 @@ wikidata_id: "Q108227323"
 
 # Bolu-Goynuk-Hacimahmut Kızılçam
 
-Bolu-Goynuk-Hacimahmut Kızılçam, Karadeniz Bölgesi'nin güzide illerinden Bolu'da yer alan 140 hektarlık bir milli parktır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın kucağına davet ediyor. Milli parkın kuruluşu, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak amacıyla gerçekleşmiştir. Bolu-Goynuk-Hacimahmut Kızılçam, ziyaretçilerine geniş yeşil alanlar, yürüyüş parkurları ve bol oksijen sunuyor. Bu milli park, doğa severler ve hafta sonu kaçamağı arayanlar için ideal bir destinasyon olarak dikkat çekiyor.
+Bolu-Goynuk-Hacimahmut Kızılçam, Karadeniz Bölgesi'nin güzide illerinden Bolu'da yer alan 140 hektarlık bir milli parktır. Milli parkın kuruluşu, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak amacıyla gerçekleşmiştir. Bolu-Goynuk-Hacimahmut Kızılçam, ziyaretçilerine geniş yeşil alanlar, yürüyüş parkurları ve bol oksijen sunuyor. Bu milli park, doğa severler ve hafta sonu kaçamağı arayanlar için ideal bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

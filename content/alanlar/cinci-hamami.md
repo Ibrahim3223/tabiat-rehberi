@@ -1,7 +1,7 @@
 ---
 title: "Cinci Hamamı"
 date: "2026-01-09T23:09:06.132Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karabük"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738868"
 
 # Cinci Hamamı
 
-Cinci Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak Safranbolu'nun Karabük ilçesinde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir kumsal sunar. Bu güzel plaj, denizin serin sularının ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyon. Cinci Hamamı, doğanın güzelliği ve sakinliği ile ziyaretçilerini büyüler.
+Cinci Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak Safranbolu'nun Karabük ilçesinde yer alır. Bu güzel plaj, denizin serin sularının ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyon. Cinci Hamamı, doğanın güzelliği ve sakinliği ile ziyaretçilerini büyüler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Cinci Hamamı'nın tarihi geçmişi, bölgenin zengin kültürel mirasına işar
 
 ## Coğrafya
 
-Cinci Hamamı, Karadeniz Bölgesi'nin coğrafi güzelliğiçinde yer alır. Bölgenin en güzel plajlarından biri olan Cinci Hamamı, denizin serin suları ve güneşin ılıman ısıları ile ziyaretçilerini cezbeder. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsal sunar. Cinci Hamamı'nın coğrafi konumu, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunar. Bölgenin iklimi, ılıman ve serin geçer, bu da ziyaretçilerin yılın her döneminde Cinci Hamamı'nı ziyaret etmelerini sağlar.
+Cinci Hamamı, Karadeniz Bölgesi'nin coğrafi güzelliğiçinde yer alır. Bölgenin en güzel plajlarından biri olan Cinci Hamamı, denizin serin suları ve güneşin ılıman ısıları ile ziyaretçilerini cezbeder. Cinci Hamamı'nın coğrafi konumu, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunar. Bölgenin iklimi, ılıman ve serin geçer, bu da ziyaretçilerin yılın her döneminde Cinci Hamamı'nı ziyaret etmelerini sağlar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Cinci Hamamı'nı ziyaret etmek, ziyaretçilere birçok olanak sunar. Plajın g�
 ## İlginç Bilgiler
 
 - Cinci Hamamı, Safranbolu'nun Karabük ilçesinde yer alır.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Cinci Hamamı, denizin serin suları ve güneşin ılıman ısıları ile ziyaretçilerini cezbeder.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Cinci Hamamı'nı ziyaret etmek, ziyaretçilere birçok olanak sunar.

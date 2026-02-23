@@ -28,7 +28,7 @@ wikidata_id: "Q31388776"
 
 # Alemli Tepe
 
-Alemli Tepe, İç Anadolu Bölgesi'nin geniş ve verimli topraklarında yer alan bir tepe olarak, ziyaretçilerini doğal güzellikleri ve tarihi zenginlikleriyle karşılar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, çeşitli bitki türleri ve fauna örnekleri bulunur. Alemli Tepe, bir bütün olarak doğa severler ve tarih meraklıları için ideal bir gezi noktasıdır. Bu tepe, bölgenin coğrafi özelliklerini ve tarihi geçmişini keşfetmek isteyenler için önemli bir destinasyondur.
+Alemli Tepe, İç Anadolu Bölgesi'nin geniş ve verimli topraklarında yer alan bir tepe olarak, ziyaretçilerini doğal güzellikleri ve tarihi zenginlikleriyle karşılar. Alemli Tepe, bir bütün olarak doğa severler ve tarih meraklıları için ideal bir gezi noktasıdır. Bu tepe, bölgenin coğrafi özelliklerini ve tarihi geçmişini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

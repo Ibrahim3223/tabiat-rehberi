@@ -1,7 +1,7 @@
 ---
 title: "Kızılcahamam Kent Ormanı"
 date: "2026-01-09T21:05:01.337Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228609"
 
 # Kızılcahamam Kent Ormanı
 
-Kızılcahamam Kent Ormanı, İç Anadolu Bölgesi'nin güzide bir bölümüdür. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu orman, bölgenin doğal güzelliğini korurken, aynı zamanda ziyaretçilerine dinlenme ve eğlenme fırsatı sağlar. Kent ormanı, şehir hayatının yoğunluğundan kaçmak isteyenler için ideal bir kaçış noktasıdır. Ormanın içinde bulunan yürüyüş yolları, ziyaretçilerin doğayı yakından tanımasına olanak tanır.
+Kızılcahamam Kent Ormanı, İç Anadolu Bölgesi'nin güzide bir bölümüdür. Bu orman, bölgenin doğal güzelliğini korurken, aynı zamanda ziyaretçilerine dinlenme ve eğlenme fırsatı sağlar. Kent ormanı, şehir hayatının yoğunluğundan kaçmak isteyenler için ideal bir kaçış noktasıdır. Ormanın içinde bulunan yürüyüş yolları, ziyaretçilerin doğayı yakından tanımasına olanak tanır.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Kızılcahamam Kent Ormanı, ziyaretçiler için çeşitli olanaklar sunar. Ziya
 ## İlginç Bilgiler
 
 - Kızılcahamam Kent Ormanı, İç Anadolu Bölgesi'nin en büyük kent ormanlarından biridir.
-- Orman, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir.
+
 - Kızılcahamam Kent Ormanı, çeşitli bitki ve hayvan türleri ile zengin bir ekosisteme sahiptir.
 - Orman, ziyaretçilere doğayı keşfetme ve rozumlanma fırsatı sunar.
 - Kent ormanı, tarihi geçmişi ile birlikte doğal güzelliğini korumuştur.

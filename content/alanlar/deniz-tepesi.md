@@ -29,7 +29,7 @@ wikidata_id: "Q31389751"
 
 # Deniz Tepesi
 
-Kocaeli'nin doğal güzelliklerinden biri olan Deniz Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş bir alan sunarak, doğayla iç içe olabilecekleri bir ortam sağlar. Deniz Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunar. Deniz Tepesi, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir.
+ Bu büyüklük, ziyaretçilere geniş bir alan sunarak, doğayla iç içe olabilecekleri bir ortam sağlar. Deniz Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunar. Deniz Tepesi, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Deniz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Deniz Tepesi, Kocaeli'nin coğrafi olarak en önemli bölgelerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. Deniz Tepesi, deniz seviyesinden yüksekliğiyle birlikte, ziyaretçilere geniş bir manzara sunar. Bu bölge, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere benzersiz bir deneyim sunar. Deniz Tepesi, coğrafi olarak önemli bir konumda bulunmasıyla birlikte, ziyaretçilere geniş bir alan sunar. Bu bölge, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir. Deniz Tepesi'nin coğrafi konumu, ziyaretçilere benzersiz bir deneyim sunar.
+Deniz Tepesi, Kocaeli'nin coğrafi olarak en önemli bölgelerinden biridir. Deniz Tepesi, deniz seviyesinden yüksekliğiyle birlikte, ziyaretçilere geniş bir manzara sunar. Bu bölge, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere benzersiz bir deneyim sunar. Deniz Tepesi, coğrafi olarak önemli bir konumda bulunmasıyla birlikte, ziyaretçilere geniş bir alan sunar. Bu bölge, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir. Deniz Tepesi'nin coğrafi konumu, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

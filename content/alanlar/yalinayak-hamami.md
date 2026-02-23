@@ -1,7 +1,7 @@
 ---
 title: "Yalınayak Hamamı"
 date: "2026-01-09T22:27:12.038Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738479"
 
 # Yalınayak Hamamı
 
-Yalınayak Hamamı, İzmir'in Tire ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahiptir. Yalınayak Hamamı, ziyaretçilerini güneşin ve denizin tadını çıkarabilecekleri bir cennet olarak bekliyor. Plajın çevresinde çeşitli ağaçlar ve bitkiler bulunmakta ve bu da ziyaretçilere doğal bir ortam sunmaktadır.
+Yalınayak Hamamı, İzmir'in Tire ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. Yalınayak Hamamı, ziyaretçilerini güneşin ve denizin tadını çıkarabilecekleri bir cennet olarak bekliyor. Plajın çevresinde çeşitli ağaçlar ve bitkiler bulunmakta ve bu da ziyaretçilere doğal bir ortam sunmaktadır.
 
 ## Tarihçe
 

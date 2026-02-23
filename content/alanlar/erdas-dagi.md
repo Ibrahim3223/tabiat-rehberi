@@ -48,11 +48,11 @@ Mevsimsel değişimler, Erdas Dağı'nın iklim karakterini şekillendirir. Böl
 
 ## Flora ve Fauna
 
-Erdaş Dağı, Nevşehir'in step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekmektedir. 
+Erdaş Dağı, Nevşehir'in step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekmektedir.
 
-Bitki örtüsünde, ilkbahar aylarında renkli çiçekler açan kuraklığa adapte türler hakimdir. Sonbaharda, dağ yamaçlarında sararan otların arasında göçmen kuşlar görülebilir. 
+Bitki örtüsünde, ilkbahar aylarında renkli çiçekler açan kuraklığa adapte türler hakimdir. Sonbaharda, dağ yamaçlarında sararan otların arasında göçmen kuşlar görülebilir.
 
-Yaban hayatı bakımından, dağ keçileri, tilkiler ve çeşitli kuş türleri bu bölgede yaşamlarını sürdürmektedir. Sürüngenler de dağlık alanlarda sıkça karşılaşılan bir diğer canlı grubudur. 
+Yaban hayatı bakımından, dağ keçileri, tilkiler ve çeşitli kuş türleri bu bölgede yaşamlarını sürdürmektedir. Sürüngenler de dağlık alanlarda sıkça karşılaşılan bir diğer canlı grubudur.
 
 Ekolojik değer bakımından, Erdas Dağı, bölgedeki step ve bozkır ekosistemlerinin korunması için önemli bir alandır. Bu dağ, çeşitli canlı türleri için yaşam alanı ve göç güzergahı olarak işlev görür.
 

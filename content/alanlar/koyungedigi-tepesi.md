@@ -28,7 +28,7 @@ wikidata_id: "Q31391015"
 
 # Koyungediği Tepesi
 
-Koyungediği Tepesi, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Koyungediği Tepesi, bölgenin önemli doğal güzelliklerinden biri olarak biliniyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor.
+Koyungediği Tepesi, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Koyungediği Tepesi, bölgenin önemli doğal güzelliklerinden biri olarak biliniyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Koyungediği Tepesi, Akdeniz Bölgesi'nin coğrafi olarak en önemli noktaların
 
 ## Flora ve Fauna
 
-Koyungediği Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunmakta. Bu bölge, mevsimsel değişimlere göre, farklı türdeki bitkiler ve hayvanlar barındırıyor. Koyungediği Tepesi, özellikle bahar aylarında, rengarenk çiçeklerle kaplanıyor. Ayrıca, bu bölgede, birçok kuş türü ve diğer hayvanlar bulunmakta. Koyungediği Tepesi, doğa severler için bir cennet.
+ Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunmakta. Bu bölge, mevsimsel değişimlere göre, farklı türdeki bitkiler ve hayvanlar barındırıyor. Koyungediği Tepesi, özellikle bahar aylarında, rengarenk çiçeklerle kaplanıyor. Ayrıca, bu bölgede, birçok kuş türü ve diğer hayvanlar bulunmakta. Koyungediği Tepesi, doğa severler için bir cennet.
 
 ## Ziyaret Bilgileri
 

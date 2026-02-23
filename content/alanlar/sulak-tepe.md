@@ -28,7 +28,7 @@ wikidata_id: "Q31388257"
 
 # Sulak Tepe
 
-Sulak Tepe, Kars ilinin tarihi ve doğal güzelliklerinin bir araya geldiği bir nokta olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Sulak Tepe, Kars'ın tarihi geçmişi ile ilgili önemli bilgiler sunuyor. Bu tepe, Kars'ın merkezi konumunda yer alıyor ve ziyaretçilerin ilgisini çekiyor. Sulak Tepe, Kars ilinin önemli bir turizm merkezlerinden biri olarak kabul ediliyor.
+Sulak Tepe, Kars ilinin tarihi ve doğal güzelliklerinin bir araya geldiği bir nokta olarak karşımıza çıkıyor. Sulak Tepe, Kars'ın tarihi geçmişi ile ilgili önemli bilgiler sunuyor. Bu tepe, Kars'ın merkezi konumunda yer alıyor ve ziyaretçilerin ilgisini çekiyor. Sulak Tepe, Kars ilinin önemli bir turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sulak Tepe, tarihin derinliklerine uzanan bir geçmişe sahip. Bu tepe, yüzyıl
 
 ## Coğrafya
 
-Sulak Tepe, Kars ilinin merkezi konumunda yer alıyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Sulak Tepe, Kars'ın doğal güzellikleri ile dolu. Bu tepe, ziyaretçilerine Kars'ın doğal güzellikleri hakkında önemli bilgiler sunuyor. Sulak Tepe, Kars'ın iklimi ve coğrafyası ile ilgili önemli bilgiler sunuyor. Bu tepe, Kars'ın çevre güzellikleri ile dolu. Sulak Tepe, ziyaretçilerine Kars'ın çevre güzellikleri hakkında önemli bilgiler sunuyor. Sulak Tepe, Kars'ın doğal ve tarihi güzellikleri ile ziyaretçilerini bekliyor.
+Sulak Tepe, Kars ilinin merkezi konumunda yer alıyor. Sulak Tepe, Kars'ın doğal güzellikleri ile dolu. Bu tepe, ziyaretçilerine Kars'ın doğal güzellikleri hakkında önemli bilgiler sunuyor. Sulak Tepe, Kars'ın iklimi ve coğrafyası ile ilgili önemli bilgiler sunuyor. Bu tepe, Kars'ın çevre güzellikleri ile dolu. Sulak Tepe, ziyaretçilerine Kars'ın çevre güzellikleri hakkında önemli bilgiler sunuyor. Sulak Tepe, Kars'ın doğal ve tarihi güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

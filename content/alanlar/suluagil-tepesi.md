@@ -28,7 +28,7 @@ wikidata_id: "Q31561220"
 
 # Suluağıl Tepesi
 
-Suluağıl Tepesi, Zonguldak ilinin sınırları içerisinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe olarak karşımıza çıkıyor. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Suluağıl Tepesi, ziyaretçilerini bölgeye özgü flora ve fauna ile buluşturuyor. Ayrıca, burası trekking ve doğa yürüyüşü için ideal bir destinasyon olarak kabul ediliyor.
+Suluağıl Tepesi, Zonguldak ilinin sınırları içerisinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe olarak karşımıza çıkıyor. Suluağıl Tepesi, ziyaretçilerini bölgeye özgü flora ve fauna ile buluşturuyor. Ayrıca, burası trekking ve doğa yürüyüşü için ideal bir destinasyon olarak kabul ediliyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31581367"
 
 # Hırkababa Tepesi
 
-Hırkababa Tepesi, Karadeniz Bölgesi'nin güzide illerinden Çorum'da yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir genişliğe sahiptir. Hırkababa Tepesi, ziyaretçilerini doğanın kucağına davet eder. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Çorum'un merkezinden uzun bir mesafe uzaklıkta bulunan Hırkababa Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
+Hırkababa Tepesi, Karadeniz Bölgesi'nin güzide illerinden Çorum'da yer alır. Hırkababa Tepesi, ziyaretçilerini doğanın kucağına davet eder. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Çorum'un merkezinden uzun bir mesafe uzaklıkta bulunan Hırkababa Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227605"
 
 # Isparta-Kizildag MP Sedir 1
 
-Isparta-Kizildag MP Sedir 1, Isparta ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin doğal güzelliklerini sunan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik alanlarından biridir. Milli park, Sedir Ormanları ile çevrili olup, ziyaretçilere doğanın güzelliklerini keşfetme imkanı sunar. Isparta-Kizildag MP Sedir 1, hem doğa severler hem de turistik gezi isteyenler için ideal bir destinasyondur.
+Isparta-Kizildag MP Sedir 1, Isparta ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin doğal güzelliklerini sunan bir milli parktır. Milli park, Sedir Ormanları ile çevrili olup, ziyaretçilere doğanın güzelliklerini keşfetme imkanı sunar. Isparta-Kizildag MP Sedir 1, hem doğa severler hem de turistik gezi isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Isparta-Kizildag MP Sedir 1'in tarihi geçmişi, bölgenin doğal güzelliklerin
 
 ## Coğrafya
 
-Isparta-Kizildag MP Sedir 1, Isparta ilinin sınırları içerisinde yer alan bir milli parktır. Milli park, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır ve Sedir Ormanları ile çevrilidir. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikleri keşfetme imkanı sunar. Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, bölgenin önemli ekolojik alanlarından biridir. Isparta-Kizildag MP Sedir 1'in coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme imkanı sunar. Milli parkın coğrafi yapısı, Sedir Ormanları, çayırlar ve dağlık alanlar gibi çeşitli coğrafi özelliklere sahiptir.
+Isparta-Kizildag MP Sedir 1, Isparta ilinin sınırları içerisinde yer alan bir milli parktır. Milli park, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır ve Sedir Ormanları ile çevrilidir. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikleri keşfetme imkanı sunar. Isparta-Kizildag MP Sedir 1'in coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme imkanı sunar. Milli parkın coğrafi yapısı, Sedir Ormanları, çayırlar ve dağlık alanlar gibi çeşitli coğrafi özelliklere sahiptir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Isparta-Kizildag MP Sedir 1'i ziyaret etmek, doğa severler ve turistik gezi ist
 ## İlginç Bilgiler
 
 - Isparta-Kizildag MP Sedir 1, Sedir Ormanları ile çevrilidir.
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Isparta-Kizildag MP Sedir 1, Türkiye'nin önemli milli parklarından biridir.
 - Milli parkın flora ve faunası, mevsimsel değişimlere göre zenginleşir.
 - Isparta-Kizildag MP Sedir 1, yılın her mevsiminde ziyaret edilebilir.

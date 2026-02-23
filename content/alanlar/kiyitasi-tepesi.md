@@ -28,7 +28,7 @@ wikidata_id: "Q31390184"
 
 # Kıyıtaşı Tepesi
 
-Kıyıtaşı Tepesi, Burdur'un güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Kıyıtaşı Tepesi, ziyaretçilerini bekliyor. Burada doğa ile iç içe olabileceğiniz, históriki izler taşıyan bir bölge. Kıyıtaşı Tepesi, Burdur'un önemli turizm noktalarından biri.
+Kıyıtaşı Tepesi, Burdur'un güzide noktalarından biri olarak karşımıza çıkıyor. Doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Kıyıtaşı Tepesi, ziyaretçilerini bekliyor. Burada doğa ile iç içe olabileceğiniz, tarihi izler taşıyan bir bölge. Kıyıtaşı Tepesi, Burdur'un önemli turizm noktalarından biri.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kıyıtaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Do�
 
 ## Coğrafya
 
-Kıyıtaşı Tepesi, Burdur'un coğrafi güzelliklerini içinde barındırıyor. Akdeniz Bölgesi'nde yer alan bu tepe, doğal güzellikleri ile dikkat çekiyor. Yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsayan Kıyıtaşı Tepesi, ziyaretçilerine geniş bir manzara sunuyor. Bu tepenin coğrafi konumu, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Kıyıtaşı Tepesi, coğrafi güzellikleri ve doğal zenginlikleriyle ziyaretçilerini bekliyor. Burdur'un önemli noktalarından biri olan Kıyıtaşı Tepesi, coğrafi güzelliklerinin yanı sıra tarihi değerleri ile de dikkat çekiyor.
+Kıyıtaşı Tepesi, Burdur'un coğrafi güzelliklerini içinde barındırıyor. Akdeniz Bölgesi'nde yer alan bu tepe, doğal güzellikleri ile dikkat çekiyor. Bu tepenin coğrafi konumu, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Kıyıtaşı Tepesi, coğrafi güzellikleri ve doğal zenginlikleriyle ziyaretçilerini bekliyor. Burdur'un önemli noktalarından biri olan Kıyıtaşı Tepesi, coğrafi güzelliklerinin yanı sıra tarihi değerleri ile de dikkat çekiyor.
 
 ## Flora ve Fauna
 

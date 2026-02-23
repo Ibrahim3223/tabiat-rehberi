@@ -29,7 +29,7 @@ wikidata_id: "Q31389853"
 
 # Atabey Tepesi
 
-Atabey Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte muhteşem bir manzara sunuyor. Atabey Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve burada geçirilen her an, unutulmaz bir deneyim oluyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı tanıtmak için mükemmel bir fırsat sunuyor.
+Atabey Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, yaklaşık 140 hektarlık bir alanı kaplıyor. Atabey Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve burada geçirilen her an, unutulmaz bir deneyim oluyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı tanıtmak için mükemmel bir fırsat sunuyor.
 
 ## Tarihçe
 

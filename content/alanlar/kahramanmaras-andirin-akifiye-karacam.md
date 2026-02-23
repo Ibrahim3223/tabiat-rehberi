@@ -22,7 +22,7 @@ wikidata_id: "Q108227516"
 
 # Kahramanmaras-Andirin-Akifiye Karacam
 
-Kahramanmaras-Andirin-Akifiye Karacam milli parkı, İç Anadolu Bölgesi'nin en güzel köşelerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar. Milli parkın kuruluş amacı, bölgenin doğal kaynaklarını koruma ve ziyaretçilere doğayla iç içe bir deneyim sunmaktır. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmakta olup, ziyaretçiler bu güzellikleri keşfetmek için burayı ziyaret edebilirler.
+Kahramanmaras-Andirin-Akifiye Karacam milli parkı, İç Anadolu Bölgesi'nin en güzel köşelerinden biri olarak dikkat çekiyor. Milli parkın kuruluş amacı, bölgenin doğal kaynaklarını koruma ve ziyaretçilere doğayla iç içe bir deneyim sunmaktır. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmakta olup, ziyaretçiler bu güzellikleri keşfetmek için burayı ziyaret edebilirler.
 
 ## Tarihçe
 

@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarihî alan gezisi","yaban hayatı gözlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Pervane Tepeleri","caption":"Pervane Tepeleri","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pervane%20Tepeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386658","tip":"genel"}]
-description: "Şanlıurfa'nın doğal güzellikleri arasında yer alan Pervane Tepeleri, históri ve coğrafik açıdan önemli bir bölge"
+description: "Şanlıurfa'nın doğal güzellikleri arasında yer alan Pervane Tepeleri, tarihi ve coğrafik açıdan önemli bir bölge"
 keywords: ["Pervane Tepeleri","Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa","coğrafya","tarih","gezi","turizm","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386658"
@@ -28,7 +28,7 @@ wikidata_id: "Q31386658"
 
 # Pervane Tepeleri
 
-Pervane Tepeleri, Şanlıurfa'nın Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe grubudur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, coğrafik açıdan önemli bir konumda yer alır ve histórik açıdan da zengin bir geçmişe sahiptir. Pervane Tepeleri, ziyaretçilerini doğal güzellikleri ve tarihi değerleri ile etkilemektedir. Burada, çeşitli bitki türleri ve yaban hayatı örnekleri görülebilmektedir.
+Pervane Tepeleri, Şanlıurfa'nın Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe grubudur. Bu bölge, coğrafik açıdan önemli bir konumda yer alır ve tarihi açıdan da zengin bir geçmişe sahiptir. Pervane Tepeleri, ziyaretçilerini doğal güzellikleri ve tarihi değerleri ile etkilemektedir. Burada, çeşitli bitki türleri ve yaban hayatı örnekleri görülebilmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Pervane Tepeleri'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Pervane Tepeleri, Şanlıurfa'nın coğrafyasında önemli bir yer tutuyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafyasını yansıtan bir yapıya sahip. Tepelerin eteklerinde, çeşitli bitki türleri ve yaban hayatı örnekleri görülebilmektedir. İklim, bölgeye özgü kuru ve sıcak bir karaktere sahip. Çevre, tarihi ve coğrafik açıdan önemli bir konumda yer alıyor ve ziyaretçilere geniş bir görüş açısı sunuyor. Pervane Tepeleri'nin coğrafyası, ziyaretçilerini doğal güzellikleri ve histórik değerleri ile etkilemektedir.
+Pervane Tepeleri, Şanlıurfa'nın coğrafyasında önemli bir yer tutuyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafyasını yansıtan bir yapıya sahip. Tepelerin eteklerinde, çeşitli bitki türleri ve yaban hayatı örnekleri görülebilmektedir. İklim, bölgeye özgü kuru ve sıcak bir karaktere sahip. Çevre, tarihi ve coğrafik açıdan önemli bir konumda yer alıyor ve ziyaretçilere geniş bir görüş açısı sunuyor. Pervane Tepeleri'nin coğrafyası, ziyaretçilerini doğal güzellikleri ve tarihi değerleri ile etkilemektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Pervane Tepeleri'ni ziyaret etmek, ziyaretçiler için unutulmaz bir deneyim ola
 ## İlginç Bilgiler
 
 - Pervane Tepeleri, Şanlıurfa'nın önemli turistik merkezlerinden biridir
-- Bu bölge, coğrafi ve histórik açıdan önemlidir
+- Bu bölge, coğrafi ve tarihi açıdan önemlidir
 - Pervane Tepeleri, çeşitli bitki türleri ve yaban hayatı ile zengindir
 - Bölge, mevsimsel değişimlere göre farklı canlı türleri barındırır
 - Pervane Tepeleri, ziyaretçilerine doğal güzellikleri ve tarihi değerleri hakkında bilgi verir

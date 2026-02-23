@@ -1,7 +1,7 @@
 ---
 title: "Dağıstanlı Sultanlar Türbesi"
 date: "2026-01-10T06:54:29.519Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390809"
 
 # Dağıstanlı Sultanlar Türbesi
 
-Dağıstanlı Sultanlar Türbesi, Pasinler ilçesinde, Erzurum'un tarihi zenginliklerini barındıran önemli bir destinasyondur. Doğu Anadolu Bölgesi'nin kalbinde yer alan bu türbe, 140 hektarlık bir alan üzerinde kurulmuştur. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık mekan sunar. Tarihi ve kültürel öneme sahip bu türbenin etrafı, zengin flora ve fauna ile çevrilidir. Doğal güzellikleri ve tarihi önemi bir araya getiren Dağıstanlı Sultanlar Türbesi, ziyaretçilerini bekliyor.
+Dağıstanlı Sultanlar Türbesi, Pasinler ilçesinde, Erzurum'un tarihi zenginliklerini barındıran önemli bir destinasyondur. Doğu Anadolu Bölgesi'nin kalbinde yer alan bu türbe, 140 hektarlık bir alan üzerinde kurulmuştur. Tarihi ve kültürel öneme sahip bu türbenin etrafı, zengin flora ve fauna ile çevrilidir. Doğal güzellikleri ve tarihi önemi bir araya getiren Dağıstanlı Sultanlar Türbesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Dağıstanlı Sultanlar Türbesi, Pasinler ilçesinin merkezi bir noktasında ye
 
 ## Flora ve Fauna
 
-Dağıstanlı Sultanlar Türbesi, zengin flora ve fauna ile çevrilidir. Çevrede, çeşitli bitki türleri bulunur ve mevsimsel değişimlere göre farklı bitkiler yetişir. Bahar aylarında, çevredeki bitkiler yeşerir ve renkli bir manzara vytvármaktadır. Kış aylarında ise, karla kaplı bir peyzaj oluşur ve türbe, bir kış masalı gibi görünür. Bölgede, çeşitli hayvan türleri de bulunur ve ziyaretçiler, bu hayvanları doğal ortamlarında görebilir. Dağıstanlı Sultanlar Türbesi, doğal güzellikleri ve canlıları ile ziyaretçilerine unutulmaz anlar sunar.
+Dağıstanlı Sultanlar Türbesi, zengin flora ve fauna ile çevrilidir. Çevrede, çeşitli bitki türleri bulunur ve mevsimsel değişimlere göre farklı bitkiler yetişir. Bahar aylarında, çevredeki bitkiler yeşerir ve renkli bir manzara vytvármaktadır. Kış aylarında ise, karla kaplı bir peyzaj oluşur ve türbe, bir kış masalı gibi görünür. Bölgede, çeşitli hayvan türleri de bulunur ve ziyaretçiler, bu hayvanları doğal ortamlarında görebilir.
 
 ## Ziyaret Bilgileri
 

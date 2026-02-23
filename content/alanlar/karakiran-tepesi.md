@@ -28,7 +28,7 @@ wikidata_id: "Q31387911"
 
 # Karakıran Tepesi
 
-Karakıran Tepesi, Ege Bölgesi'nin güzel illerinden biri olan Kütahya'da yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok bitki türüne ev sahipliği yapıyor. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğa severler için ideal bir gezi noktası olan Karakıran Tepesi, ziyaretçilerine huzur verici bir ortam sunuyor.
+Karakıran Tepesi, Ege Bölgesi'nin güzel illerinden biri olan Kütahya'da yer alan bir doğa harikasıdır. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğa severler için ideal bir gezi noktası olan Karakıran Tepesi, ziyaretçilerine huzur verici bir ortam sunuyor.
 
 ## Tarihçe
 

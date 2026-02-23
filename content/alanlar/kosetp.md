@@ -22,7 +22,7 @@ wikidata_id: "Q108228774"
 
 # KÖSE_TP
 
-KÖSE_TP, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennettir. Bu bölge, doğa severler ve macera arayışında olanlar için bir çekim merkezi durumundadır. KÖSE_TP, ziyaretçilerini yaban hayatı, çeşitli bitki türleri ve zengin fauna ile karşılaşmaya davet eder. Milli parkın sunduğu manzaralar, ziyaretçilerin doğayla iç içe olmasını sağlar.
+KÖSE_TP, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu bölge, doğa severler ve macera arayışında olanlar için bir çekim merkezi durumundadır. KÖSE_TP, ziyaretçilerini yaban hayatı, çeşitli bitki türleri ve zengin fauna ile karşılaşmaya davet eder. Milli parkın sunduğu manzaralar, ziyaretçilerin doğayla iç içe olmasını sağlar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Elgiz Müzesi"
 date: "2026-01-10T15:11:51.643Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -28,7 +28,7 @@ wikidata_id: "Q2112323"
 
 # Elgiz Müzesi
 
-İstanbul'un kalbinde, Marmara Bölgesi'nin önemli kültür merkezlerinden biri olarak bilinen Elgiz Müzesi, modern sanatın önemli noktalarından biri olarak dikkat çekiyor. 140 hektarlık bir alanı kaplayan müze, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu büyük alan, ziyaretçilere geniş bir sanat deneyimi sunuyor. Elgiz Müzesi, modern sanatın önemli eserlerini sergileyen bir merkez olarak bilinir ve ziyaretçilere sanatın güzelliğini keşfetme fırsatı sunar.
+İstanbul'un kalbinde, Marmara Bölgesi'nin önemli kültür merkezlerinden biri olarak bilinen Elgiz Müzesi, modern sanatın önemli noktalarından biri olarak dikkat çekiyor. Bu büyük alan, ziyaretçilere geniş bir sanat deneyimi sunuyor. Elgiz Müzesi, modern sanatın önemli eserlerini sergileyen bir merkez olarak bilinir ve ziyaretçilere sanatın güzelliğini keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Elgiz Müzesi, modern sanatın önemli merkezlerinden biri olarak kurulmuştur. 
 
 ## Coğrafya
 
-Elgiz Müzesi, İstanbul'un kalbinde, Marmara Bölgesi'nde yer alır. Müzenin coğrafi konumu, ziyaretçilere kolay ulaşım imkanları sunar. Müze, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu büyük alan, ziyaretçilere geniş bir sanat deneyimi sunar. Müzenin çevresi, modern sanatın önemli merkezleri ile çevrilidir ve ziyaretçilere sanatın güzelliğini keşfetme fırsatı sunar. Elgiz Müzesi, modern sanatın önemli noktalarından biri olarak bilinir ve ziyaretçilere sanatın evrimini göstermektedir.
+Elgiz Müzesi, İstanbul'un kalbinde, Marmara Bölgesi'nde yer alır. Müzenin coğrafi konumu, ziyaretçilere kolay ulaşım imkanları sunar. Bu büyük alan, ziyaretçilere geniş bir sanat deneyimi sunar. Müzenin çevresi, modern sanatın önemli merkezleri ile çevrilidir ve ziyaretçilere sanatın güzelliğini keşfetme fırsatı sunar. Elgiz Müzesi, modern sanatın önemli noktalarından biri olarak bilinir ve ziyaretçilere sanatın evrimini göstermektedir.
 
 ## Flora ve Fauna
 

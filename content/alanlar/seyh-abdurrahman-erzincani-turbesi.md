@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Abdurrahman Erzincani Türbesi"
 date: "2026-01-10T05:16:16.076Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adıyaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391710"
 
 # Şeyh Abdurrahman Erzincani Türbesi
 
-Şeyh Abdurrahman Erzincani Türbesi, Adıyaman ilinin merkezinde yer alan bir tarihi türbe ve plajdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tarihi geçmişi olan bu türbe, Şeyh Abdurrahman Erzincani'nin hayatını ve teachingsini anlatan önemli bir kültürel mirastır. Türbenin yanında bulunan plaj, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği bir alandır. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir yerdir.
+Şeyh Abdurrahman Erzincani Türbesi, Adıyaman ilinin merkezinde yer alan bir tarihi türbe ve plajdır. Tarihi geçmişi olan bu türbe, Şeyh Abdurrahman Erzincani'nin hayatını ve teachingsini anlatan önemli bir kültürel mirastır. Türbenin yanında bulunan plaj, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği bir alandır. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir yerdir.
 
 ## Tarihçe
 

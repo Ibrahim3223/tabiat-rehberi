@@ -28,7 +28,7 @@ wikidata_id: "Q34872059"
 
 # Gökca Tepesi
 
-Gökca Tepesi, Kilis'in merkezine yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilerin doğanın güzelliklerini keşfetmeleri için geniş bir mekan sunuyor. Gökca Tepesi, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor.
+Gökca Tepesi, Kilis'in merkezine yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Gökca Tepesi, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor.
 
 ## Tarihçe
 

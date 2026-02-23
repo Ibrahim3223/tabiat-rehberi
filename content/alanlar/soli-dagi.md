@@ -50,7 +50,7 @@ Mevsimsel olarak, Şoli Dağı ve çevresinin iklimi, Van'ın genel iklim karakt
 
 ## Flora ve Fauna
 
-Şoli Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Şoli Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelisiyle birlikte dağ yamaçları renkli çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliği sunar. Bu bölgede, endemik türler de bulunur.
 

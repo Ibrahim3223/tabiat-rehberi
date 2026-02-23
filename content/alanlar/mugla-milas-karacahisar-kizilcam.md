@@ -1,7 +1,7 @@
 ---
 title: "Mugla-Milas-Karacahisar Kızılçam"
 date: "2026-01-09T18:14:39.908Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227669"
 
 # Mugla-Milas-Karacahisar Kızılçam
 
-Mugla-Milas-Karacahisar Kızılçam milli parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekmektedir. Parkın konumu, doğa severlerin ve turistlerin ilgisini çekmektedir. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve hayvanlar için yaşam alanı sağlamaktadır.
+ Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekmektedir. Parkın konumu, doğa severlerin ve turistlerin ilgisini çekmektedir. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve hayvanlar için yaşam alanı sağlamaktadır.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Mugla-Milas-Karacahisar Kızılçam milli parkını ziyaret etmek, doğa severle
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
 - Park, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Parkın coğrafi yapısı, ziyaretçilere zengin bir doğa deneyimi sunar.
 - Parkın iklimi, mevsimsel değişimlere göre farklılık gösterir.

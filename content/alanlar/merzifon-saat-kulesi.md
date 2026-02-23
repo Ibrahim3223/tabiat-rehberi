@@ -30,7 +30,7 @@ wikidata_id: "Q6079726"
 
 # Merzifon Saat Kulesi
 
-Merzifon Saat Kulesi, İç Anadolu Bölgesi'nin önemli kültür merkezlerinden biri olan Merzifon'da yer alır. Bu tarihi yapı, şehrin merkezinde bulunmaktadır. Merzifon Saat Kulesi, yaklaşık 30 metre yüksekliğiyle şehrin önemli bir sembolüdür. 140 hektarlık Merzifon ilçesinin kalbinde yer alan saat kulesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Merzifon'un tarihini ve kültürünü yansıtan önemli bir eser olan Merzifon Saat Kulesi, ziyaretçilerini bekliyor. Bu eser, Merzifon'un geçmişine ışık tutan önemli bir yapıttır.
+Merzifon Saat Kulesi, İç Anadolu Bölgesi'nin önemli kültür merkezlerinden biri olan Merzifon'da yer alır. Bu tarihi yapı, şehrin merkezinde bulunmaktadır. Merzifon Saat Kulesi, yaklaşık 30 metre yüksekliğiyle şehrin önemli bir sembolüdür. Merzifon'un tarihini ve kültürünü yansıtan önemli bir eser olan Merzifon Saat Kulesi, ziyaretçilerini bekliyor. Bu eser, Merzifon'un geçmişine ışık tutan önemli bir yapıttır.
 
 ## Tarihçe
 

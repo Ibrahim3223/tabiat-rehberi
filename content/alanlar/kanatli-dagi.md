@@ -32,7 +32,7 @@ Bingöl'ün doğal güzelliklerinin arasında yer alan Kanatlı Dağı, ziyaret�
 
 ## Tarihçe
 
-Kanatlı Dağı, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan Bingöl ilinin sınırları içerisinde bulunan bir doğa harikası. Bu bölge, tarihin sâu sayfalarına ışık tutan bir coğrafyada yer alıyor. Bingöl ve çevresinde, Urartular, Romalılar, Selçuklular ve Osmanlılar gibi çeşitli uygarlıkların izlerini görme mümkün. Bu bölgenin tarihçesi, aynı zamanda Türkiye'nin genel tarihî sürecinin bir parçasını oluşturuyor.
+Kanatlı Dağı, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan Bingöl ilinin sınırları içerisinde bulunan bir doğa harikası. Bu bölge, tarihin derin sayfalarına ışık tutan bir coğrafyada yer alıyor. Bingöl ve çevresinde, Urartular, Romalılar, Selçuklular ve Osmanlılar gibi çeşitli uygarlıkların izlerini görme mümkün. Bu bölgenin tarihçesi, aynı zamanda Türkiye'nin genel tarihî sürecinin bir parçasını oluşturuyor.
 
 Doğal güzellikleri ve stratejik konumuyla, Kanatlı Dağı ve çevresi, yüzyıllar boyunca insanların yaşam alanı ve ticaret yolları üzerinde önemli bir rol oynamış. Bu tür doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihini şekillendirmede kritik bir öneme sahip. Özellikle yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin insanlarla olan bağlantısını güçlendirmiş. Kanatlı Dağı, bu bağlamda, bölgenin tarihî ve kültürel dokusuna önemli bir katkı sağlıyor.
 
@@ -48,11 +48,11 @@ Jeolojik açıdan bakıldığında, Kanatlı Dağı'nın yapısı hakkında deta
 
 ## Flora ve Fauna
 
-Kanatlı Dağı, yüksek dağ ekolojisinin eşsiz örneklerinden birini sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanır. 
+Kanatlı Dağı, yüksek dağ ekolojisinin eşsiz örneklerinden birini sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanır.
 
-Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlerle birlikte, dağın yükseklik zonlarında farklı bitki toplulukları oluşur. Sonbaharda, dağ çayırları sarı ve altın renklerine bürünürken, göç eden kuşlar dağların üstünden geçer. 
+Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlerle birlikte, dağın yükseklik zonlarında farklı bitki toplulukları oluşur. Sonbaharda, dağ çayırları sarı ve altın renklerine bürünürken, göç eden kuşlar dağların üstünden geçer.
 
-Yaban hayatı da bir o kadar çeşitlidir. Dağ keçileri ve yaban keçileri gibi memeliler, dağların dik yamaçlarında ederken, kartallar ve diğer yırtıcı kuşlar gökyüzünde süzülür. Sürüngenler de dağların kayalık alanlarında yaşamlarını sürdürür. 
+Yaban hayatı da bir o kadar çeşitlidir. Dağ keçileri ve yaban keçileri gibi memeliler, dağların dik yamaçlarında ederken, kartallar ve diğer yırtıcı kuşlar gökyüzünde süzülür. Sürüngenler de dağların kayalık alanlarında yaşamlarını sürdürür.
 
 Kanatlı Dağı'nın ekolojik değeri, endemik türlerin varlığı ve yüksek dağ ekosisteminin korunmasıyla ilgilidir. Bu alan, bölgenin biyolojik çeşitliliğini koruma açısından önemlidir ve koruma altına alınması gereken bir doğa alanıdır.
 

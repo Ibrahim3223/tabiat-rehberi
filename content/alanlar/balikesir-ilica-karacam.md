@@ -22,7 +22,7 @@ wikidata_id: "Q108227930"
 
 # Balikesir-Ilica Karacam
 
-Balikesir-Ilica Karacam milli parkı, İç Anadolu Bölgesi'nin güzelliklerini gözler önüne seren bir doğal alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Burada, doğanın tüm güzelliğini bir arada görebilir ve huzurlu bir atmosferde zaman geçirebilirsiniz. Milli parkın sunduğu olanaklar ve güzergahlar, ziyaretçilerin keyifli ve dinlendirici bir gezi deneyimi yaşamalarına olanak tanıyor.
+Balikesir-Ilica Karacam milli parkı, İç Anadolu Bölgesi'nin güzelliklerini gözler önüne seren bir doğal alan olarak dikkat çekiyor. Burada, doğanın tüm güzelliğini bir arada görebilir ve huzurlu bir atmosferde zaman geçirebilirsiniz. Milli parkın sunduğu olanaklar ve güzergahlar, ziyaretçilerin keyifli ve dinlendirici bir gezi deneyimi yaşamalarına olanak tanıyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386332"
 
 # Hiltanlıyolu Tepesi
 
-Hiltanlıyolu Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan bir tepe. Bu tepenin etrafında birçok doğal güzelli ve tarihi eser bulunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin üzerinde yer alan tarihi eserler, bölgenin zengin tarihini yansıtıyor. Hiltanlıyolu Tepesi, doğa severler ve tarih meraklıları için ideal bir destinasyon.
+Hiltanlıyolu Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan bir tepe. Bu tepenin etrafında birçok doğal güzelli ve tarihi eser bulunuyor. Tepenin üzerinde yer alan tarihi eserler, bölgenin zengin tarihini yansıtıyor. Hiltanlıyolu Tepesi, doğa severler ve tarih meraklıları için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hiltanlıyolu Tepesi, tarihin çeşitli dönemlerinde önemli bir merkez olarak 
 
 ## Coğrafya
 
-Hiltanlıyolu Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alıyor. Tepenin etrafında yer alan doğal güzellikler, ziyaretçilere geniş bir görüş açısı sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunuyor. Tepenin üzerinde yer alan tarihi eserler, bölgenin zengin tarihini yansıtıyor. Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Mevsimsel değişimler, bölgenin doğal güzelliklerini farklı şekillerde sunuyor. Kış aylarında karla kaplanan tepeler, yaz aylarında yeşilin çeşitli tonlarına bürünüyor.
+Hiltanlıyolu Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alıyor. Tepenin etrafında yer alan doğal güzellikler, ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin üzerinde yer alan tarihi eserler, bölgenin zengin tarihini yansıtıyor. Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip. Mevsimsel değişimler, bölgenin doğal güzelliklerini farklı şekillerde sunuyor. Kış aylarında karla kaplanan tepeler, yaz aylarında yeşilin çeşitli tonlarına bürünüyor.
 
 ## Flora ve Fauna
 

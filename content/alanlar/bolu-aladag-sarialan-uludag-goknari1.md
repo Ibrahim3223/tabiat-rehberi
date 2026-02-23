@@ -22,7 +22,7 @@ wikidata_id: "Q108228515"
 
 # Bolu-Aladag-Sarıalan-Uludağ Göknarı1
 
-Bolu-Aladag-Sarıalan-Uludağ Göknarı1 milli parkı, Karadeniz Bölgesi'nin en güzide noktalarından biri olarak ziyaretçilerini ağırlıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Milli parkın bulunduğu Bolu, tarihi ve kültürel zenginlikleriyle de ön plana çıkıyor. Ziyaretçiler, hem doğanın güzelliğini keşfediyor hem de bölgenin tarihi geçmişini öğrenme fırsatı buluyor.
+Bolu-Aladag-Sarıalan-Uludağ Göknarı1 milli parkı, Karadeniz Bölgesi'nin en güzide noktalarından biri olarak ziyaretçilerini ağırlıyor. Milli parkın bulunduğu Bolu, tarihi ve kültürel zenginlikleriyle de ön plana çıkıyor. Ziyaretçiler, hem doğanın güzelliğini keşfediyor hem de bölgenin tarihi geçmişini öğrenme fırsatı buluyor.
 
 ## Tarihçe
 

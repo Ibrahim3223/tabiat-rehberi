@@ -1,7 +1,7 @@
 ---
 title: "Malkoçoğlu Türbesi"
 date: "2026-01-10T05:29:57.266Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391556"
 
 # Malkoçoğlu Türbesi
 
-Malkoçoğlu Türbesi, Kocaeli'nin Gebze ilçesinde yer alan ve tarihin izlerini taşıyan bir mekan. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Malkoçoğlu Türbesi, tarihi geçmişi ve coğrafi konumuyla dikkat çekici bir yer. Bu mekan, tarihin ve doğanın bir arada bulunduğu özel bir nokta.
+Malkoçoğlu Türbesi, Kocaeli'nin Gebze ilçesinde yer alan ve tarihin izlerini taşıyan bir mekan. Malkoçoğlu Türbesi, tarihi geçmişi ve coğrafi konumuyla dikkat çekici bir yer. Bu mekan, tarihin ve doğanın bir arada bulunduğu özel bir nokta.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Malkoçoğlu Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu mekanın tarihi h
 
 ## Coğrafya
 
-Malkoçoğlu Türbesi, Kocaeli'nin Gebze ilçesinde yer alıyor. Bu mekan, coğrafi konumu itibariyle dikkat çekici bir yer. Malkoçoğlu Türbesi, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Bu mekanın coğrafi konumu, ziyaretçilerine çeşitli doğa güzellikleri sunuyor. Malkoçoğlu Türbesi, coğrafi konumu itibariyle ziyaretçilerine zengin bir deneyim sunuyor. Bu mekan, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor ve ziyaretçilerini bu bölgeye özgü güzelliklerle karşılar.
+Malkoçoğlu Türbesi, Kocaeli'nin Gebze ilçesinde yer alıyor. Bu mekan, coğrafi konumu itibariyle dikkat çekici bir yer. Bu mekanın coğrafi konumu, ziyaretçilerine çeşitli doğa güzellikleri sunuyor. Malkoçoğlu Türbesi, coğrafi konumu itibariyle ziyaretçilerine zengin bir deneyim sunuyor. Bu mekan, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor ve ziyaretçilerini bu bölgeye özgü güzelliklerle karşılar.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "İlisıra Hamamı"
 date: "2026-01-09T23:47:03.636Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245692"
 
 # İlisıra Hamamı
 
-İlisıra Hamamı, Karaman'ın merkezinde yer alan ve 140 hektarlık yeşil alanıyla ziyaretçilerini karşılayan bir doğal güzelliktir. Bu alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içinde, doğanın güzelliği ve canlılığıyla karşılaşma mümkün. İlisıra Hamamı, şehrin gürültüsünden uzaklaşma ve doğanın sakinliğiçinde vakit geçirmek isteyenler için ideal bir destinasyon.
+İlisıra Hamamı, Karaman'ın merkezinde yer alan ve 140 hektarlık yeşil alanıyla ziyaretçilerini karşılayan bir doğal güzelliktir. İlisıra Hamamı, şehrin gürültüsünden uzaklaşma ve doğanın sakinliğiçinde vakit geçirmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ wikidata_id: "Q133245692"
 ## İlginç Bilgiler
 
 - İlisıra Hamamı, 140 hektarlık bir yeşil alana sahiptir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - İlisıra Hamamı, Karaman'ın turizm merkezlerinden biridir.
 - Bu doğal güzellik, yılın her dönemi ziyaret edilebilir.
 - İlisıra Hamamı, doğayla iç içe olmayı sağlar.

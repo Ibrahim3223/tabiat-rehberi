@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Ahmet Buhara Türbesi"
 date: "2026-01-10T07:45:15.523Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391134"
 
 # Şeyh Ahmet Buhara Türbesi
 
-Şeyh Ahmet Buhara Türbesi, İstanbul'un Fatih ilçesinde, Marmara Denizi kıyısında yer alan bir türbe ve plaj alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok tarihi yapıya ev sahipliği yapmaktadır. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini beklemektedir. Şeyh Ahmet Buhara Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak görülmektedir.
+Şeyh Ahmet Buhara Türbesi, İstanbul'un Fatih ilçesinde, Marmara Denizi kıyısında yer alan bir türbe ve plaj alanıdır. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini beklemektedir. Şeyh Ahmet Buhara Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak görülmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391134"
 
 ## Coğrafya
 
-Şeyh Ahmet Buhara Türbesi, Marmara Denizi kıyısında, Fatih ilçesinde yer almaktadır. Bu bölge, coğrafi olarak İstanbul'un merkezi kısmında bulunmakta ve birçok önemli tarihi ve kültürel yere yakındır. Türbenin etrafı, yeşillik alanlar ve tarihi yapılar ile çevrilidir. Bu alan, yaklaşık 140 hektarlık bir genişliğe sahiptir ve birçok farklı türde bitki ve ağaca ev sahipliği yapmaktadır. Şeyh Ahmet Buhara Türbesi, ziyaretçilerine hem deniz hem de yeşil alanların keyfini çıkarma imkanı sunmaktadır. Coğrafi konumu itibariyle, bu bölge, İstanbul'un en önemli turistik destinasyonlarından biridir.
+Şeyh Ahmet Buhara Türbesi, Marmara Denizi kıyısında, Fatih ilçesinde yer almaktadır. Bu bölge, coğrafi olarak İstanbul'un merkezi kısmında bulunmakta ve birçok önemli tarihi ve kültürel yere yakındır. Türbenin etrafı, yeşillik alanlar ve tarihi yapılar ile çevrilidir. Şeyh Ahmet Buhara Türbesi, ziyaretçilerine hem deniz hem de yeşil alanların keyfini çıkarma imkanı sunmaktadır. Coğrafi konumu itibariyle, bu bölge, İstanbul'un en önemli turistik destinasyonlarından biridir.
 
 ## Flora ve Fauna
 

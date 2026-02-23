@@ -29,7 +29,7 @@ wikidata_id: "Q134728084"
 
 # Antik Nekropol Alanı, Dağbeli
 
-Antalya'nın Döşemealtı ilçesinde yer alan Dağbeli Antik Nekropol Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi geçmişi ile dikkat çekiyor. Antalya'nın tarihi güzellikleri arasında önemli bir yer tutan bu nekropol, ziyaretçilerini geçmişin derinliklerine götürüyor. yüksek bir konumdate yer alan bu alan, aynı zamanda manzarasıyla da ziyaretçilerini etkiliyor.
+Antalya'nın Döşemealtı ilçesinde yer alan Dağbeli Antik Nekropol Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor. Antalya'nın tarihi güzellikleri arasında önemli bir yer tutan bu nekropol, ziyaretçilerini geçmişin derinliklerine götürüyor. yüksek bir konumdate yer alan bu alan, aynı zamanda manzarasıyla da ziyaretçilerini etkiliyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Dağbeli Antik Nekropol Alanı, ziyaretçilere zengin bir kültür mirası sunuy
 ## İlginç Bilgiler
 
 - Dağbeli Antik Nekropol Alanı, 140 hektarlık bir alanı kapsıyor.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Nekropol, yüksek bir konumdate yer alıyor.
 - Antalya'nın tarihi geçmişi, Lidya, Pers, Roma ve Bizans dönemlerini kapsıyor.
 - Dağbeli Antik Nekropol Alanı, Antalya'nın turizm merkezlerine yakınlığıyla dikkat çekiyor.

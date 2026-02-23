@@ -1,7 +1,7 @@
 ---
 title: "İlbeyoğlu Hamamı"
 date: "2026-01-09T22:30:02.405Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kars"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738417"
 
 # İlbeyoğlu Hamamı
 
-Kars ilinin merkezinde yer alan İlbeyoğlu Hamamı, tarihi ve kültürel zenginlikleri ile dikkat çekiyor. Bu bölgede, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini a ve tarihin zenginliklerine davet ediyor. İlbeyoğlu Hamamı, Kars'ın önemli turizm merkezlerinden biri olarak ziyaretçilerini ağırlıyor. İlbeyoğlu Hamamı, Kars'ın merkezinde yer alıyor ve ulaşımı oldukça kolay.
+Kars ilinin merkezinde yer alan İlbeyoğlu Hamamı, tarihi ve kültürel zenginlikleri ile dikkat çekiyor. İlbeyoğlu Hamamı, Kars'ın önemli turizm merkezlerinden biri olarak ziyaretçilerini ağırlıyor. İlbeyoğlu Hamamı, Kars'ın merkezinde yer alıyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kars ilinin merkezinde yer alan İlbeyoğlu Hamamı, tarihi ve kültürel zengin
 
 ## Coğrafya
 
-İlbeyoğlu Hamamı, Kars ilinin merkezinde yer alıyor ve doğal güzellikleri ile dikkat çekiyor. Bu bölgede, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliklerine davet ediyor. İlbeyoğlu Hamamı, Kars'ın coğrafi yapısı ile birlikte, ziyaretçilerini doğal güzelliklerine götürüyor. İlbeyoğlu Hamamı, Kars'ın merkezinde yer alıyor ve ulaşımı oldukça kolay. Bu bölgede, ziyaretçilerin keyif alacağı birçok doğal güzelli ve tarihi yapı yer alıyor. İlbeyoğlu Hamamı, Kars'ın coğrafi yapısı ile birlikte, ziyaretçilerini doğal güzelliklerine ve tarihi yapılarına davet ediyor.
+İlbeyoğlu Hamamı, Kars ilinin merkezinde yer alıyor ve doğal güzellikleri ile dikkat çekiyor. İlbeyoğlu Hamamı, Kars'ın coğrafi yapısı ile birlikte, ziyaretçilerini doğal güzelliklerine götürüyor. İlbeyoğlu Hamamı, Kars'ın merkezinde yer alıyor ve ulaşımı oldukça kolay. Bu bölgede, ziyaretçilerin keyif alacağı birçok doğal güzelli ve tarihi yapı yer alıyor. İlbeyoğlu Hamamı, Kars'ın coğrafi yapısı ile birlikte, ziyaretçilerini doğal güzelliklerine ve tarihi yapılarına davet ediyor.
 
 ## Flora ve Fauna
 

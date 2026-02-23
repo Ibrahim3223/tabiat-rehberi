@@ -28,7 +28,7 @@ wikidata_id: "Q31389595"
 
 # Davutdede Tepesi
 
-Davutdede Tepesi, Marmara Bölgesi'nin önemli tepe noktalarından biri olarak Balıkesir'de yer alır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Zengin bir tarihi geçmişi ve çeşitli bitki türleriyle dikkat çeker. Doğa severler için bir cennet olan bu tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Balıkesir'in en önemli doğal güzelliklerinden biri olan Davutdede Tepesi, bölgenin coğrafi yapısını ve ekolojik dengesini korumada önemli bir role sahiptir.
+Davutdede Tepesi, Marmara Bölgesi'nin önemli tepe noktalarından biri olarak Balıkesir'de yer alır. Zengin bir tarihi geçmişi ve çeşitli bitki türleriyle dikkat çeker. Doğa severler için bir cennet olan bu tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Balıkesir'in en önemli doğal güzelliklerinden biri olan Davutdede Tepesi, bölgenin coğrafi yapısını ve ekolojik dengesini korumada önemli bir role sahiptir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Davutdede Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Bu t
 ## İlginç Bilgiler
 
 - Davutdede Tepesi, Marmara Bölgesi'nin en önemli tepe noktalarından biri olarak kabul edilir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Davutdede Tepesi, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Tepenin etekleri, çeşitli bitki türleriyle kaplıdır ve bölgenin fauna açısından zengin olmasını sağlar.
 - Davutdede Tepesi, yılın her mevsiminde ziyaret edilebilir ancak bahar ve yaz ayları en uygun dönemi teşkil eder.

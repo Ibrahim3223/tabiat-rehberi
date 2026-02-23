@@ -23,7 +23,7 @@ wikidata_id: "Q108228717"
 
 # IĞDIR
 
-IĞDIR milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. İnsanın doğayla iç içe olduğu bu mekan, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. IĞDIR, gezginler için bir hazine olarak kabul edilebilir; çünkü burada doğa, tarih ve kültür bir araya geliyor.
+IĞDIR milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. İnsanın doğayla iç içe olduğu bu mekan, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. IĞDIR, gezginler için bir hazine olarak kabul edilebilir; çünkü burada doğa, tarih ve kültür bir araya geliyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ IĞDIR milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve �
 
 ## Coğrafya
 
-IĞDIR milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş yeşil alan, ziyaretçilere doğayla iç içe olma fırsatı sunuyor. Coğrafi konumu itibariyle, IĞDIR çevredeki dağlar ve ovalarla çevrili ve bu coğrafi özellikler, parkın iklimini ve bitki örtüsünü etkiliyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçilere mevsimsel olarak değişen bir doğa güzelliği sunuyor. Coğrafi konumu ve iklimi, IĞDIR'i ziyaretçilere çekici bir destinasyon haline getiriyor.
+IĞDIR milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Coğrafi konumu itibariyle, IĞDIR çevredeki dağlar ve ovalarla çevrili ve bu coğrafi özellikler, parkın iklimini ve bitki örtüsünü etkiliyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçilere mevsimsel olarak değişen bir doğa güzelliği sunuyor. Coğrafi konumu ve iklimi, IĞDIR'i ziyaretçilere çekici bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ IĞDIR milli parkını ziyaret etmek, doğa ve tarihle iç içe bir deneyim sunu
 ## İlginç Bilgiler
 
 - IĞDIR milli parkı, 140 hektarlık bir yeşil alana sahip.
-- Park, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - IĞDIR, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.
 - Park, zengin bir flora ve fauna çeşitliliğine sahip.
 - IĞDIR, gezginler için bir hazine olarak kabul edilebilir.

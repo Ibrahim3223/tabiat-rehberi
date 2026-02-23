@@ -22,7 +22,7 @@ wikidata_id: "Q108227506"
 
 # Isparta-Egirdir Karacam
 
-Isparta-Egirdir Karacam, Isparta'nın doğal güzelliklerini keşfetmek isteyenler için mükemmel bir destinasyon. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu doğa harikası, ziyaretçilerini büyülüyor. Yerel flora ve fauna, ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Isparta-Egirdir Karacam, aynı zamanda tarihî geçmişiyle de dikkat çekiyor. Bu bölgede, yüzyıllar boyunca çeşitli medeniyetler yaşamıştır. Bu nedenle, ziyaretçiler hem doğal güzellikleri hem de tarihî zenginlikleri keşfedebilirler.
+Isparta-Egirdir Karacam, Isparta'nın doğal güzelliklerini keşfetmek isteyenler için mükemmel bir destinasyon. Yerel flora ve fauna, ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Isparta-Egirdir Karacam, aynı zamanda tarihî geçmişiyle de dikkat çekiyor. Bu bölgede, yüzyıllar boyunca çeşitli medeniyetler yaşamıştır. Bu nedenle, ziyaretçiler hem doğal güzellikleri hem de tarihî zenginlikleri keşfedebilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Isparta-Egirdir Karacam'ın tarihi geçmişi, yüzyıllar öncesine dayanıyor. 
 
 ## Coğrafya
 
-Isparta-Egirdir Karacam, Isparta'nın Akdeniz Bölgesi'nde yer alan bir doğa harikası. Bu bölge, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Isparta-Egirdir Karacam, deniz seviyesinden yüksek bir bölgede yer alıyor ve bu nedenle, ziyaretçiler buraya çıktıklarında, muhteşem bir manzara ile karşılaşiyorlar. Bölge, aynı zamanda çeşitli coğrafi oluşumlarla da dikkat çekiyor. Dağlar, ormanlar ve göller, Isparta-Egirdir Karacam'ın coğrafi yapısını oluşturuyor. Bu bölge, aynı zamanda iklim açısından da önemli bir bölge. Isparta-Egirdir Karacam, Akdeniz ikliminin etkilerini taşıyor ve bu nedenle, ziyaretçiler buraya geldiğinde, sıcak ve güneşli bir hava ile karşılaşiyorlar. Isparta-Egirdir Karacam, coğrafi konumu itibariyle, ziyaretçilere çeşitli aktivitelere katılma fırsatı sunuyor. Bu bölge, aynı zamanda çevre açısından da önemli bir bölge. Isparta-Egirdir Karacam, doğal güzelliklerini korumak amacıyla, çeşitli çevre projelerine ev sahipliği yapıyor.
+Isparta-Egirdir Karacam, Isparta'nın Akdeniz Bölgesi'nde yer alan bir doğa harikası. Isparta-Egirdir Karacam, deniz seviyesinden yüksek bir bölgede yer alıyor ve bu nedenle, ziyaretçiler buraya çıktıklarında, muhteşem bir manzara ile karşılaşiyorlar. Bölge, aynı zamanda çeşitli coğrafi oluşumlarla da dikkat çekiyor. Dağlar, ormanlar ve göller, Isparta-Egirdir Karacam'ın coğrafi yapısını oluşturuyor. Bu bölge, aynı zamanda iklim açısından da önemli bir bölge. Isparta-Egirdir Karacam, Akdeniz ikliminin etkilerini taşıyor ve bu nedenle, ziyaretçiler buraya geldiğinde, sıcak ve güneşli bir hava ile karşılaşiyorlar. Isparta-Egirdir Karacam, coğrafi konumu itibariyle, ziyaretçilere çeşitli aktivitelere katılma fırsatı sunuyor. Bu bölge, aynı zamanda çevre açısından da önemli bir bölge. Isparta-Egirdir Karacam, doğal güzelliklerini korumak amacıyla, çeşitli çevre projelerine ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Isparta-Egirdir Karacam, ziyaretçilerine, çeşitli aktivitelere katılma fırs
 
 ## İlginç Bilgiler
 
-- Isparta-Egirdir Karacam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu bölge, yüzyıllar öncesine dayanan bir tarihî geçmişe sahip.
 - Isparta-Egirdir Karacam, çeşitli bitki türleri ve hayvanlar ile ziyaretçilerine benzersiz bir doğa deneyimi sunuyor.
 - Bu bölge, especialmente mevsimsel değişimlerle dikkat çekiyor.

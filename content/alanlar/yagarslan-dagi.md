@@ -64,5 +64,5 @@ Eskişehir'in gizli cennetlerinden biri olan Yağarslan Dağı, doğa severler i
 - Dağın zirvesi, Eskişehir'in merkezinden yaklaşık 30 kilometre uzaklıktadır.
 - Yağarslan Dağı, özellikle trekking ve doğa yürüyüşü için popüler bir destinasyondur.
 - Dağın etrafında, çeşitli bitki türleri ve fauna bulunur, bu nedenle ekolojik önem taşır.
-- Yağarslan Dağı, aynı zamanda histórik öneme sahip olan Frig Vadisi'ne de yakındır.
+- Yağarslan Dağı, aynı zamanda tarihi öneme sahip olan Frig Vadisi'ne de yakındır.
 - Bu bölge, 2009 yılında 'Tabiat Parkı' olarak ilan edilmiştir.

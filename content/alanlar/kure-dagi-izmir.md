@@ -52,7 +52,7 @@ Bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları ile yakından 
 
 Küre Dağı, İzmir'in zeytinli ve çam ormanlarıyla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar ve yükseklik zonlarına göre değişen flora ve fauna çeşitliliği gösterir.
 
-Bitki örtüsünde çam ağaçları hakimdir ve ilkbaharla birlikte dağ yamaçlarında çiçekler açar. Sonbaharda ise dağlar, göç eden kuşların önemli bir uğrak noktası haline gelir. Dağ hayvanları da bu ekosistemin bir parçası olarak, zeytinli ve ormanlık alanlarda yaşamlarını sürdürür. 
+Bitki örtüsünde çam ağaçları hakimdir ve ilkbaharla birlikte dağ yamaçlarında çiçekler açar. Sonbaharda ise dağlar, göç eden kuşların önemli bir uğrak noktası haline gelir. Dağ hayvanları da bu ekosistemin bir parçası olarak, zeytinli ve ormanlık alanlarda yaşamlarını sürdürür.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağların yüksek kesimlerinde, alpin flora ve fauna çeşitliliği dikkat çekicidir. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak için önemlidir.
 

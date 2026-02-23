@@ -1,7 +1,7 @@
 ---
 title: "Çukur Hamam"
 date: "2026-01-09T22:34:08.736Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738702"
 
 # Çukur Hamam
 
-Çukur Hamam, Ege Bölgesi'nin Şehzadeler ilçesinde yer alan, doğal güzelliği ile dikkat çeken bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleri ile kaplıdır. Bu bölgede, denizin serinliği ve güneşin sıcaklığı bir araya gelir, ziyaretçilere huzurlu bir atmosfer sunar. Çukur Hamam, özellikle yaz aylarında, sıcaktan bunalanların kaçış noktası haline gelir.
+Çukur Hamam, Ege Bölgesi'nin Şehzadeler ilçesinde yer alan, doğal güzelliği ile dikkat çeken bir plajdır. Bu bölgede, denizin serinliği ve güneşin sıcaklığı bir araya gelir, ziyaretçilere huzurlu bir atmosfer sunar. Çukur Hamam, özellikle yaz aylarında, sıcaktan bunalanların kaçış noktası haline gelir.
 
 ## Tarihçe
 

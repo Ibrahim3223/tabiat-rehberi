@@ -1,7 +1,7 @@
 ---
 title: "Osmanlı Bankası Müzesi"
 date: "2026-01-10T15:16:40.811Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q132949448"
 
 # Osmanlı Bankası Müzesi
 
-İstanbul'un kalbinde, şehrin canlı sokaklarının arasında yer alan Osmanlı Bankası Müzesi, ziyaretçilerini bankacılık dünyasının içinde bir yolculuğa çıkarır. 1892 yılında inşa edilen tarihi binası, mimari açıdan da önemli bir yapıttır. Müze, 140 hektarlık alanın parçası olan Bankalar Caddesi'nde bulunur ve yaklaşık 200 futbol sahası büyüklüğündeki bir alanı kaplar. Bu önemli kurum, Osmanlı Bankası'nın kuruluşundan günümüze kadar olan serencamını ve bankacılık tarihindeki yerini anlatır. Ziyaretçiler, burada sergilenen çeşitli eserler ve belgeler sayesinde bankacılığın gelişimini ve Osmanlı Bankası'nın rolünü daha yakından tanıyabilirler.
+İstanbul'un kalbinde, şehrin canlı sokaklarının arasında yer alan Osmanlı Bankası Müzesi, ziyaretçilerini bankacılık dünyasının içinde bir yolculuğa çıkarır. 1892 yılında inşa edilen tarihi binası, mimari açıdan da önemli bir yapıttır. Bu önemli kurum, Osmanlı Bankası'nın kuruluşundan günümüze kadar olan serencamını ve bankacılık tarihindeki yerini anlatır. Ziyaretçiler, burada sergilenen çeşitli eserler ve belgeler sayesinde bankacılığın gelişimini ve Osmanlı Bankası'nın rolünü daha yakından tanıyabilirler.
 
 ## Tarihçe
 

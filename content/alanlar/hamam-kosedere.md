@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Kösedere"
 date: "2026-01-10T03:38:31.040Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245857"
 
 # Hamam, Kösedere
 
-Ayvacık'ın güzide plajlarından biri olan Hamam, Kösedere, Marmara Bölgesi'nde yer alır ve ziyaretçilerini büyüler. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, birçok ziyaretçiye hizmet verebilecek kapasiteye sahiptir. Kösedere Plajı, denize girerek serinlemek isteyenler için ideal bir yer olup, aynı zamanda doğayı sevenlerin de keyif alabileceği bir nokta olarak dikkat çeker. Bu bölge, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
+Ayvacık'ın güzide plajlarından biri olan Hamam, Kösedere, Marmara Bölgesi'nde yer alır ve ziyaretçilerini büyüler. Kösedere Plajı, denize girerek serinlemek isteyenler için ideal bir yer olup, aynı zamanda doğayı sevenlerin de keyif alabileceği bir nokta olarak dikkat çeker. Bu bölge, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 

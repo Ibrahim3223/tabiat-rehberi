@@ -1,7 +1,7 @@
 ---
 title: "Gazi Atik Ali Paşa Türbesi"
 date: "2026-01-10T05:55:51.726Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390465"
 
 # Gazi Atik Ali Paşa Türbesi
 
-Gazi Atik Ali Paşa Türbesi, Amasya'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tarihi yapı, yaklaşık 140 hektarlık bir alanda yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Gazi Atik Ali Paşa'nın hayatını ve döneminin özelliklerini öğrenmek isteyenler için ideal bir yer. Türbe, tarihi geçmişi ve mimari yapısı ile ziyaretçilerini etkiliyor.
+Gazi Atik Ali Paşa Türbesi, Amasya'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Gazi Atik Ali Paşa'nın hayatını ve döneminin özelliklerini öğrenmek isteyenler için ideal bir yer. Türbe, tarihi geçmişi ve mimari yapısı ile ziyaretçilerini etkiliyor.
 
 ## Tarihçe
 

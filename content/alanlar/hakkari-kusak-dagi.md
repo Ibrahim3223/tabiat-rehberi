@@ -50,11 +50,11 @@ Doğal kaynaklar ve ekosistem bağlantıları açısından, Hakkari Kuşak Dağ�
 
 ## Flora ve Fauna
 
-Hakkari Kuşak Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hakkari Kuşak Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü açısından, ilkbaharda dağ yamaçları renkli çiçeklerle donanır. Alpin çayırlar, endemik türlerle bezenir. Mevsimsel değişimlerle birlikte, sonbaharda dağlar sarı, turuncu ve kırmızı tonlara bürünür. 
+Bitki Örtüsü açısından, ilkbaharda dağ yamaçları renkli çiçeklerle donanır. Alpin çayırlar, endemik türlerle bezenir. Mevsimsel değişimlerle birlikte, sonbaharda dağlar sarı, turuncu ve kırmızı tonlara bürünür.
 
-Yaban Hayatı, memeliler ve kuşlar açısından zengindir. Dağ keçileri ve yaban keçileri, kayalık alanlarda yaşarken, kartallar ve akbabalar gökyüzünde süzülür. Sürüngenler de bu dağ ekosisteminin bir parçasıdır. 
+Yaban Hayatı, memeliler ve kuşlar açısından zengindir. Dağ keçileri ve yaban keçileri, kayalık alanlarda yaşarken, kartallar ve akbabalar gökyüzünde süzülür. Sürüngenler de bu dağ ekosisteminin bir parçasıdır.
 
 Ekolojik Değer olarak, bu alanın yüksek dağ ekolojisi ve alpin çayırları, endemik türlerin yaşaması için önemlidir. Bu nedenle, koruma durumuna dikkat etmek gerekir.
 

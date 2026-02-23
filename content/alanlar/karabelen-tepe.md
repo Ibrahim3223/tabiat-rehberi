@@ -28,7 +28,7 @@ wikidata_id: "Q31389399"
 
 # Karabelen Tepe
 
-Karabelen Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini bekliyor. Yaklaşık 200 futbol sahası büyüklüğündeki bu doğa harikası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. Karabelen Tepe'nin hikayesi, yüzyıllar boyunca süre gelen bir geçmişe sahip. Bu tepe, Mersin'in önemli noktalarından biri olarak kabul ediliyor ve ziyaretçilere unutulmaz bir deneyim sunuyor.
+Karabelen Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini bekliyor. Bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. Karabelen Tepe'nin hikayesi, yüzyıllar boyunca süre gelen bir geçmişe sahip. Bu tepe, Mersin'in önemli noktalarından biri olarak kabul ediliyor ve ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karabelen Tepe'nin tarihi geçmişi, yüzyıllar boyunca süregelen bir geçmiş
 
 ## Coğrafya
 
-Karabelen Tepe, Mersin'in Akdeniz Bölgesi'nde yer alıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu doğa harikası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölge, Akdeniz ikliminin etkisi altında bulunuyor ve bu iklim, tepeye özgü bitki türlerinin yetişmesine olanak sağlıyor. Karabelen Tepe, deniz seviyesinden yüksek bir noktada yer alıyor ve bu yükseklik, tepeye panoramik bir görünüm kazandırıyor. Bölge, Mersin'in önemli bir noktası olarak kabul ediliyor ve ziyaretçilere unutulmaz bir deneyim sunuyor. Karabelen Tepe'nin coğrafi konumu, ziyaretçilere doğa ve tarihle iç içe bir deneyim sunuyor.
+Karabelen Tepe, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bu doğa harikası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölge, Akdeniz ikliminin etkisi altında bulunuyor ve bu iklim, tepeye özgü bitki türlerinin yetişmesine olanak sağlıyor. Karabelen Tepe, deniz seviyesinden yüksek bir noktada yer alıyor ve bu yükseklik, tepeye panoramik bir görünüm kazandırıyor. Bölge, Mersin'in önemli bir noktası olarak kabul ediliyor ve ziyaretçilere unutulmaz bir deneyim sunuyor. Karabelen Tepe'nin coğrafi konumu, ziyaretçilere doğa ve tarihle iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

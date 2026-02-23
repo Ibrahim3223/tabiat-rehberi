@@ -30,7 +30,7 @@ wikidata_id: "Q63372490"
 
 # Gazi Köşkü
 
-Gazi Köşkü, Diyarbakır'ın Yenişehir ilçesinde yer alan ve şehrin tarihi ile doğal güzelliklerini bir araya getiren özel bir mekan. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Gazi Köşkü, hem doğal güzelliği hem de tarihi önemi ile dikkat çekiyor. Bu özel mekan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası.
+Gazi Köşkü, Diyarbakır'ın Yenişehir ilçesinde yer alan ve şehrin tarihi ile doğal güzelliklerini bir araya getiren özel bir mekan. Gazi Köşkü, hem doğal güzelliği hem de tarihi önemi ile dikkat çekiyor. Bu özel mekan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 

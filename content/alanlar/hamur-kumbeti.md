@@ -29,7 +29,7 @@ wikidata_id: "Q135582841"
 
 # Hamur Kümbeti
 
-Hamur Kümbeti, Doğu Anadolu Bölgesi'nin Ağrı ilinin Hamur ilçesinde yer alan bir doğa harikasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve büyüklüğü yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hamur Kümbeti, çevresindeki dağların eteklerinde yer alan bir vadi içerisinde bulunur ve bu vadi, bölgenin coğrafi yapısını şekillendiren önemli bir özelliktir. Bu alan, doğal güzellikleri ve zengin flora ile fauna çeşitliliği ile ziyaretçilerini cezbeder. Hamur Kümbeti, aynı zamanda bölgenin tarihi geçmişi ile de dikkat çeker ve ziyaretçilere farklı bir deneyim sunar.
+Hamur Kümbeti, Doğu Anadolu Bölgesi'nin Ağrı ilinin Hamur ilçesinde yer alan bir doğa harikasıdır. Hamur Kümbeti, çevresindeki dağların eteklerinde yer alan bir vadi içerisinde bulunur ve bu vadi, bölgenin coğrafi yapısını şekillendiren önemli bir özelliktir. Bu alan, doğal güzellikleri ve zengin flora ile fauna çeşitliliği ile ziyaretçilerini cezbeder. Hamur Kümbeti, aynı zamanda bölgenin tarihi geçmişi ile de dikkat çeker ve ziyaretçilere farklı bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hamur Kümbeti'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Hamur Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir bölgedir. Bu alan, yaklaşık 140 hektarlık bir alanı kapsar ve büyüklüğü yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hamur Kümbeti, çevresindeki dağların eteklerinde yer alan bir vadi içerisinde bulunur ve bu vadi, bölgenin coğrafi yapısını şekillendiren önemli bir özelliktir. Bu alan, doğal güzellikleri ve zengin flora ile fauna çeşitliliği ile ziyaretçilerini cezbeder. Hamur Kümbeti, aynı zamanda bölgenin iklimini de etkileyen bir faktördür. Bu bölge, karasal iklimin hüküm sürdüğü bir bölgedir ve bu nedenle ziyaretçilerin, mevsimsel değişimlere göre plan yapmaları gerekmektedir. Hamur Kümbeti, çevresindeki dağlar ve vadiler ile birlikte, bölgenin coğrafi yapısını tamamlayan bir parçadır. Bu reason, Hamur Kümbeti'nin doğal güzelliklerini ve coğrafi özelliklerini daha da dikkat çekici hale getirir.
+Hamur Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir bölgedir. Hamur Kümbeti, çevresindeki dağların eteklerinde yer alan bir vadi içerisinde bulunur ve bu vadi, bölgenin coğrafi yapısını şekillendiren önemli bir özelliktir. Bu alan, doğal güzellikleri ve zengin flora ile fauna çeşitliliği ile ziyaretçilerini cezbeder. Hamur Kümbeti, aynı zamanda bölgenin iklimini de etkileyen bir faktördür. Bu bölge, karasal iklimin hüküm sürdüğü bir bölgedir ve bu nedenle ziyaretçilerin, mevsimsel değişimlere göre plan yapmaları gerekmektedir. Hamur Kümbeti, çevresindeki dağlar ve vadiler ile birlikte, bölgenin coğrafi yapısını tamamlayan bir parçadır. Bu reason, Hamur Kümbeti'nin doğal güzelliklerini ve coğrafi özelliklerini daha da dikkat çekici hale getirir.
 
 ## Flora ve Fauna
 

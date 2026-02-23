@@ -1,7 +1,7 @@
 ---
 title: "Nuruosmaniye Camii"
 date: "2026-01-10T04:19:39.681Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q1430090"
 
 # Nuruosmaniye Camii
 
-Fatih, İstanbul'da bulunan Nuruosmaniye Camii, 140 hektarlık alanın içinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan tarihi bir yapıdır. Bu cami, Osmanlı mimarisinin en önemli örneklerinden biri olarak kabul edilir. Nuruosmaniye Camii, Marmara Bölgesi'nin en önemli turistik mekanlarından biridir. Caminin tarihi ve mimari özellikleri, ziyaretçilerini büyülemektedir. Nuruosmaniye Camii, İstanbul'un en önemli kültürel ve tarihi mekanlarından biridir.
+ Bu cami, Osmanlı mimarisinin en önemli örneklerinden biri olarak kabul edilir. Nuruosmaniye Camii, Marmara Bölgesi'nin en önemli turistik mekanlarından biridir. Caminin tarihi ve mimari özellikleri, ziyaretçilerini büyülemektedir. Nuruosmaniye Camii, İstanbul'un en önemli kültürel ve tarihi mekanlarından biridir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Nuruosmaniye Camii'nin tarihi, 18. yüzyıla kadar uzanmaktadır. Cami, Sultan O
 
 ## Coğrafya
 
-Nuruosmaniye Camii, Fatih, İstanbul'da bulunmaktadır. Cami, Marmara Bölgesi'nin en önemli turistik mekanlarından biridir. Nuruosmaniye Camii, 140 hektarlık alanın içinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan tarihi bir yapıdır. Cami, Osmanlı mimarisinin en önemli örneklerinden biri olarak kabul edilir. Nuruosmaniye Camii'nin çevresi, tarihi ve kültürel mekanlarla dolu bir bölgedir. Cami, İstanbul'un en önemli kültürel ve tarihi mekanlarından biridir. Nuruosmaniye Camii, ziyaretçilerini etkilemektedir. Cami, Türk mimarisinin en önemli örneklerinden biridir. Nuruosmaniye Camii'nin konumu, ziyaretçilerin kolayca ulaşabileceği bir bölgededir.
+Nuruosmaniye Camii, Fatih, İstanbul'da bulunmaktadır. Cami, Marmara Bölgesi'nin en önemli turistik mekanlarından biridir. Cami, Osmanlı mimarisinin en önemli örneklerinden biri olarak kabul edilir. Nuruosmaniye Camii'nin çevresi, tarihi ve kültürel mekanlarla dolu bir bölgedir. Cami, İstanbul'un en önemli kültürel ve tarihi mekanlarından biridir. Nuruosmaniye Camii, ziyaretçilerini etkilemektedir. Cami, Türk mimarisinin en önemli örneklerinden biridir. Nuruosmaniye Camii'nin konumu, ziyaretçilerin kolayca ulaşabileceği bir bölgededir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Nuruosmaniye Camii'ni ziyaret etmek, ziyaretçilerin Türk kültürünü ve mima
 ## İlginç Bilgiler
 
 - Nuruosmaniye Camii, Osmanlı mimarisinin en önemli örneklerinden biridir.
-- Cami, 140 hektarlık alanın içinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan tarihi bir yapıdır.
+
 - Nuruosmaniye Camii, İstanbul'un en önemli kültürel ve tarihi mekanlarından biridir.
 - Cami, birçok önemli olaya tanıklık etmiştir.
 - Nuruosmaniye Camii, Türk kültürünün en önemli örneklerinden biridir.

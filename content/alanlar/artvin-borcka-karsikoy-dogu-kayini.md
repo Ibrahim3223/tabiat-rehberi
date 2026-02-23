@@ -22,7 +22,7 @@ wikidata_id: "Q108227774"
 
 # Artvin-Borcka-Karsikoy Dogu Kayini
 
-Artvin-Borcka-Karsikoy Dogu Kayini milli parkı, Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik merkezlerinden biridir. Bu milli park, ziyaretçilerini doğanın güzelliği ve zengin faunası ile karşılar. Burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli parkın doğal güzelliği ve zengin faunası, ziyaretçilere unutulmaz bir deneyim sunar.
+Artvin-Borcka-Karsikoy Dogu Kayini milli parkı, Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu milli park, ziyaretçilerini doğanın güzelliği ve zengin faunası ile karşılar. Burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli parkın doğal güzelliği ve zengin faunası, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Artvin-Borcka-Karsikoy Dogu Kayini milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Artvin-Borcka-Karsikoy Dogu Kayini milli parkı, Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. Milli parkın coğrafi yapısı, dağlar, ormanlar ve nehirler ile çevrilidir. Bu milli park, 140 hektarlık bir alanı kaplamaktadır ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Milli parkın iklimi, Karadeniz iklimi özellikleri gösterir ve ziyaretçilere dört mevsim ayrı güzellikler sunar. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini ve zengin faunasını keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır ve ziyaretçiler, milli parkın doğal güzelliğini ve zengin faunasını keşfedebilir.
+Artvin-Borcka-Karsikoy Dogu Kayini milli parkı, Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. Milli parkın coğrafi yapısı, dağlar, ormanlar ve nehirler ile çevrilidir. Milli parkın iklimi, Karadeniz iklimi özellikleri gösterir ve ziyaretçilere dört mevsim ayrı güzellikler sunar. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini ve zengin faunasını keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır ve ziyaretçiler, milli parkın doğal güzelliğini ve zengin faunasını keşfedebilir.
 
 ## Flora ve Fauna
 

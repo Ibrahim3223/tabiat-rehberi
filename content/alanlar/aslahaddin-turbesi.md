@@ -1,7 +1,7 @@
 ---
 title: "Aslahaddin Türbesi"
 date: "2026-01-10T06:18:55.701Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390712"
 
 # Aslahaddin Türbesi
 
-Bolu ilinin merkezinde yer alan Aslahaddin Türbesi, tarihi bir mekan olarak dikkat çekmektedir. Bu türbe, Bolu ilinin önemli kültürel varlıklarından biri olarak bilinmektedir. 140 hektarlık bir alanda yer alan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Aslahaddin Türbesi, Bolu ilinin tarihi geçmişi hakkında bilgiler edinmek isteyenler için önemli bir gezi noktası olarak kabul edilmektedir. Türbenin etrafında yer alan doğal güzellikler, ziyaretçilerin ilgisini çekmektedir. Bolu il merkezine yakın bir konumda bulunan Aslahaddin Türbesi, kolay ulaşılabilir bir mekan olarak dikkat çekmektedir.
+Bolu ilinin merkezinde yer alan Aslahaddin Türbesi, tarihi bir mekan olarak dikkat çekmektedir. Bu türbe, Bolu ilinin önemli kültürel varlıklarından biri olarak bilinmektedir. Aslahaddin Türbesi, Bolu ilinin tarihi geçmişi hakkında bilgiler edinmek isteyenler için önemli bir gezi noktası olarak kabul edilmektedir. Türbenin etrafında yer alan doğal güzellikler, ziyaretçilerin ilgisini çekmektedir. Bolu il merkezine yakın bir konumda bulunan Aslahaddin Türbesi, kolay ulaşılabilir bir mekan olarak dikkat çekmektedir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Garibi Bosnavi Türbesi"
 date: "2026-01-10T07:07:15.750Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390891"
 
 # Abdullah Garibi Bosnavi Türbesi
 
-Abdullah Garibi Bosnavi Türbesi, Meram'da yer alan ve tarihi önem taşıyan bir türbedir. 140 hektarlık bir alana yayılmış olan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi ve kültürel değerlerin yanı sıra, doğal güzellikleriyle de dikkat çeken bu mekan, ziyaretçilerini bekliyor. Türbenin etrafında yer alan geniş yeşil alanlar ve deniz manzarası, ziyaretçilere huzurlu bir ortam sunuyor.
+Abdullah Garibi Bosnavi Türbesi, Meram'da yer alan ve tarihi önem taşıyan bir türbedir. Tarihi ve kültürel değerlerin yanı sıra, doğal güzellikleriyle de dikkat çeken bu mekan, ziyaretçilerini bekliyor. Türbenin etrafında yer alan geniş yeşil alanlar ve deniz manzarası, ziyaretçilere huzurlu bir ortam sunuyor.
 
 ## Tarihçe
 

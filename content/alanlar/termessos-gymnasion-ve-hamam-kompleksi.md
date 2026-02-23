@@ -1,7 +1,7 @@
 ---
 title: "Termessos Gymnasion ve Hamam Kompleksi"
 date: "2026-01-09T23:04:36.437Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738828"
 
 # Termessos Gymnasion ve Hamam Kompleksi
 
-Termessos Gymnasion ve Hamam Kompleksi, Antalya'nın Döşemealtı ilçesinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanıyla dikkat çekiyor. Bu kompleks, antik bir kent olan Termessos'un kalbinde bulunuyor ve tarihin sâu izlerini taşıyor. Ziyaretçileri, bu tarihi yerin mistik atmosferine sürükleyen bir gezi deneyimi sunuyor. Termessos Gymnasion ve Hamam Kompleksi, antik dönemden kalan önemli bir miras olarak, ziyaretçilerine tarihin sayfalarını keşfetme fırsatı veriyor.
+ Bu kompleks, antik bir kent olan Termessos'un kalbinde bulunuyor ve tarihin derin izlerini taşıyor. Ziyaretçileri, bu tarihi yerin mistik atmosferine sürükleyen bir gezi deneyimi sunuyor. Termessos Gymnasion ve Hamam Kompleksi, antik dönemden kalan önemli bir miras olarak, ziyaretçilerine tarihin sayfalarını keşfetme fırsatı veriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Termessos Gymnasion ve Hamam Kompleksi, tarihin derinliklerinden gelen bir geçm
 
 ## Coğrafya
 
-Termessos Gymnasion ve Hamam Kompleksi, Antalya'nın Döşemealtı ilçesinde, Akdeniz Bölgesi'nin göbeğinde yer alıyor. Bu kompleks, 140 hektarlık bir yeşil alan üzerinde kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Kompleksin coğrafi konumu, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Termessos Gymnasion ve Hamam Kompleksi, çevresi ile birlikte bir bütün olarak, ziyaretçilere zengin bir coğrafi experiencia sunuyor. Bu kompleksin coğrafyası, ziyaretçilere antik bir kent olan Termessos'un nasıl bir çevreye sahip olduğu hakkında fikir veriyor.
+Termessos Gymnasion ve Hamam Kompleksi, Antalya'nın Döşemealtı ilçesinde, Akdeniz Bölgesi'nin göbeğinde yer alıyor. Kompleksin coğrafi konumu, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Termessos Gymnasion ve Hamam Kompleksi, çevresi ile birlikte bir bütün olarak, ziyaretçilere zengin bir coğrafi experiencia sunuyor. Bu kompleksin coğrafyası, ziyaretçilere antik bir kent olan Termessos'un nasıl bir çevreye sahip olduğu hakkında fikir veriyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Termessos Gymnasion ve Hamam Kompleksi, ziyaretçilere yıl boyunca açık bir g
 ## İlginç Bilgiler
 
 - Termessos Gymnasion ve Hamam Kompleksi, antik bir kent olan Termessos'un kalbinde yer alıyor.
-- Bu kompleks, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir yeşil alan üzerinde kurulu.
-- Termessos Gymnasion ve Hamam Kompleksi, ziyaretçilere tarihin sâu izlerini taşıyan bir gezi deneyimi sunuyor.
+
+- Termessos Gymnasion ve Hamam Kompleksi, ziyaretçilere tarihin derin izlerini taşıyan bir gezi deneyimi sunuyor.
 - Bu kompleks, antik dönemde eğitim ve spor faaliyetleri için kullanılan bir gymnasion ve hamam olarak inşa edilmiştir.
 - Termessos Gymnasion ve Hamam Kompleksi, doğa severler için bir cennet olarak, ziyaretçilere zengin bir doğal experiencia sunuyor.

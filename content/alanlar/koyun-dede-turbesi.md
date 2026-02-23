@@ -1,7 +1,7 @@
 ---
 title: "Koyun Dede Türbesi"
 date: "2026-01-10T06:10:38.389Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390598"
 
 # Koyun Dede Türbesi
 
-Koyun Dede Türbesi, Ceyhan'da yer alan tarihi ve doğal güzelliklerin birleştiği özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunuyor. Türbenin bulunduğu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve bu reason, burayı tarih ve kültür meraklıları için önemli bir destinasyon haline getiriyor. Koyun Dede Türbesi, not only tarihi önemiyle değil, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Çevresindeki yeşillikler ve Akdeniz manzaraları, ziyaretçilere huzurlu ve dinlendirici bir ortam sunuyor.
+Koyun Dede Türbesi, Ceyhan'da yer alan tarihi ve doğal güzelliklerin birleştiği özel bir mekan. Türbenin bulunduğu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve bu reason, burayı tarih ve kültür meraklıları için önemli bir destinasyon haline getiriyor. Koyun Dede Türbesi, not only tarihi önemiyle değil, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Çevresindeki yeşillikler ve Akdeniz manzaraları, ziyaretçilere huzurlu ve dinlendirici bir ortam sunuyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387628"
 
 # Domuz Tepesi
 
-Domuz Tepesi, Hakkari ilinin güzide bir noktası, yüksek bir konumdate yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanı kapsıyor, ki bu da 200 futbol sahası büyüklüğüne eşdeğer. Doğa severler için cennet gibi bir yer olan Domuz Tepesi, ziyaretçilerini bekliyor. Burada, doğanın tüm güzelliğini bir arada görebilirsiniz. Yemyeşil çayırlar, yüksek dağlar ve temiz hava, burayı ziyaret etmek için yeterince iyi nedenler.
+Domuz Tepesi, Hakkari ilinin güzide bir noktası, yüksek bir konumdate yer alıyor. Doğa severler için cennet gibi bir yer olan Domuz Tepesi, ziyaretçilerini bekliyor. Burada, doğanın tüm güzelliğini bir arada görebilirsiniz. Yemyeşil çayırlar, yüksek dağlar ve temiz hava, burayı ziyaret etmek için yeterince iyi nedenler.
 
 ## Tarihçe
 

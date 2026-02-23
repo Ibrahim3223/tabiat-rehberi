@@ -22,7 +22,7 @@ wikidata_id: "Q108228888"
 
 # VAN BİTLİS BATMIŞ GÖLÜ
 
-Van Bitlis Batmış Gölü, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleriyle ön plana çıkan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyülemektedir. Bu güzel göl, birçok canlıya ev sahipliği yapmakta ve turizm açısından önemli bir yere sahiptir. Gölün etrafındaki manzaralar, ziyaretçilere unutulmaz anlar yaşatmaktadır. Van Bitlis Batmış Gölü, doğa severlerin ve fotoğraf tutkunlarının mutlaka ziyaret etmesi gereken bir yerdir.
+Van Bitlis Batmış Gölü, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleriyle ön plana çıkan bir milli parktır. Bu güzel göl, birçok canlıya ev sahipliği yapmakta ve turizm açısından önemli bir yere sahiptir. Gölün etrafındaki manzaralar, ziyaretçilere unutulmaz anlar yaşatmaktadır. Van Bitlis Batmış Gölü, doğa severlerin ve fotoğraf tutkunlarının mutlaka ziyaret etmesi gereken bir yerdir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Van Bitlis Batmış Gölü, tarihi geçmişi ile ziyaretçilerini cezbeden bir y
 
 ## Coğrafya
 
-Van Bitlis Batmış Gölü, İç Anadolu Bölgesi'nde yer alan ve coğrafi özellikleri ile dikkat çeken bir milli parktır. Göl, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde olarak ziyaretçilerini büyülemektedir. Gölün etrafındaki manzaralar, ziyaretçilere unutulmaz anlar yaşatmaktadır. Bu bölge, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilerine doğa ile iç içe bir deneyim sunmaktadır. Van Bitlis Batmış Gölü, coğrafi konumu itibariyle, birçok farklı iklim ve doğa koşuluna ev sahipliği yapmaktadır. Gölün derinliği ve suyu, ziyaretçilere birçok farklı aktivite imkanı sunmaktadır.
+Van Bitlis Batmış Gölü, İç Anadolu Bölgesi'nde yer alan ve coğrafi özellikleri ile dikkat çeken bir milli parktır. Gölün etrafındaki manzaralar, ziyaretçilere unutulmaz anlar yaşatmaktadır. Bu bölge, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilerine doğa ile iç içe bir deneyim sunmaktadır. Van Bitlis Batmış Gölü, coğrafi konumu itibariyle, birçok farklı iklim ve doğa koşuluna ev sahipliği yapmaktadır. Gölün derinliği ve suyu, ziyaretçilere birçok farklı aktivite imkanı sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Van Bitlis Batmış Gölü, ziyaretçilerine birçok farklı aktivite imkanı su
 ## İlginç Bilgiler
 
 - Van Bitlis Batmış Gölü, 140 hektarlık bir alanı kaplamaktadır.
-- Göl, yaklaşık 200 futbol sahası büyüklüğünde olarak ziyaretçilerini büyülemektedir.
+
 - Van Bitlis Batmış Gölü, birçok farklı bitki türüne ve canlıya ev sahipliği yapmaktadır.
 - Göl, mevsimsel değişimlerle birlikte, ziyaretçilerine birçok farklı doğa koşulunu deneyimleme imkanı sunmaktadır.
 - Van Bitlis Batmış Gölü, doğa severlerin ve fotoğraf tutkunlarının mutlaka ziyaret etmesi gereken bir yerdir.

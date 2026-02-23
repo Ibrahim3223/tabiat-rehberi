@@ -22,7 +22,7 @@ wikidata_id: "Q108228672"
 
 # GEREDE ŞEHİR ORMANI
 
-Gerede Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa cenneti olarak dikkat çekiyor. 140 hektarlık geniş bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alan sunuyor. Bu şehir ormanı, bölgenin yeşillendirilmiş alanlarından biri olarak önemli bir role sahip. Gerede Şehir Ormanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yer. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Ayrıca, bu ormanda çeşitli bitki türleri ve zengin fauna bulunmakta.
+Gerede Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa cenneti olarak dikkat çekiyor. Bu şehir ormanı, bölgenin yeşillendirilmiş alanlarından biri olarak önemli bir role sahip. Gerede Şehir Ormanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yer. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Ayrıca, bu ormanda çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Gerede Şehir Ormanı'nın tarihi geçmişi, bölgenin yerleşim tarihi ile bağ
 
 ## Coğrafya
 
-Gerede Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir yeşil alan. Orman, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere geniş çaplı bir doğa deneyimi sunuyor. Orman, çeşitli bitki türleri ile zengin bir flora sunarken, aynı zamanda fauna açısından da oldukça zengin. İç Anadolu Bölgesi'nin iklimi, karasal bir iklim olarak tanımlanmakta. Bu iklim, ormanın gelişimini ve bitki örtüsünü doğrudan etkilemekte. Gerede Şehir Ormanı, bölgenin coğrafi koşullarına uygun olarak, doğa ile iç içe bir yaşam sunuyor.
+Gerede Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir yeşil alan. Bu geniş alan, ziyaretçilere geniş çaplı bir doğa deneyimi sunuyor. Orman, çeşitli bitki türleri ile zengin bir flora sunarken, aynı zamanda fauna açısından da oldukça zengin. İç Anadolu Bölgesi'nin iklimi, karasal bir iklim olarak tanımlanmakta. Bu iklim, ormanın gelişimini ve bitki örtüsünü doğrudan etkilemekte. Gerede Şehir Ormanı, bölgenin coğrafi koşullarına uygun olarak, doğa ile iç içe bir yaşam sunuyor.
 
 ## Flora ve Fauna
 

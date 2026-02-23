@@ -28,7 +28,7 @@ wikidata_id: "Q31523391"
 
 # Geriali Dağı
 
-Van'ın doğal güzelliklerinin arasında yer alan Geriali Dağı, ziyaretçilerini doğanın sâu noktalarına davet ediyor. Bu dağ, Van ilinin zengin coğrafyasının bir parçası olarak karşımıza çıkıyor. Geriali Dağı, bölgeye hakim olan bir tepe olarak dikkat çekiyor. Van'ın şehir merkezine yakın konumda bulunan bu dağ, şehrin doğal zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Van'ın doğal güzelliklerinin arasında yer alan Geriali Dağı, ziyaretçilerini doğanın derin noktalarına davet ediyor. Bu dağ, Van ilinin zengin coğrafyasının bir parçası olarak karşımıza çıkıyor. Geriali Dağı, bölgeye hakim olan bir tepe olarak dikkat çekiyor. Van'ın şehir merkezine yakın konumda bulunan bu dağ, şehrin doğal zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 

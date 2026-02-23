@@ -23,7 +23,7 @@ wikidata_id: "Q108227063"
 
 # Beykoz-Göknarlik
 
-Beykoz-Göknarlik, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere doğayı keşfetme ve dinlenme fırsatı sunar. Milli parkın giriş kısmı, büyük bir ormanlık alan ile çevrilidir. Ormanlık alanda, çeşitli ağaç türleri ve bitki örtüsü bulunur. Bu doğal güzelliğin içinde, ziyaretçiler huzurlu bir ortamda vakit geçirebilir.
+Beykoz-Göknarlik, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. Bu geniş alan, ziyaretçilere doğayı keşfetme ve dinlenme fırsatı sunar. Milli parkın giriş kısmı, büyük bir ormanlık alan ile çevrilidir. Ormanlık alanda, çeşitli ağaç türleri ve bitki örtüsü bulunur. Bu doğal güzelliğin içinde, ziyaretçiler huzurlu bir ortamda vakit geçirebilir.
 
 ## Tarihçe
 

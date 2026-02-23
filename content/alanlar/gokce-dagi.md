@@ -50,9 +50,9 @@ Mevsimsel değişimler, Gökçe Dağı'nın iklim karakterini belirler. Bölge, 
 
 ## Flora ve Fauna
 
-Gökçe Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ etekleri rengarenk çiçeklerle donanır. Yükseklik zonlarına göre değişen bitki örtüsü, alpin çayırların hakim olduğu bir manzarayı ortaya çıkarır. 
+Gökçe Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ etekleri rengarenk çiçeklerle donanır. Yükseklik zonlarına göre değişen bitki örtüsü, alpin çayırların hakim olduğu bir manzarayı ortaya çıkarır.
 
-Yaban hayatında, dağ keçileri ve yaban keçileri gibi memeliler, dağların kaya dik yamaçlarında yaşamlarını sürdürür. Kuşlar ise, göç mevsiminde dağların üzerinden geçen önemli bir güzergah olarak kullanılır. Sürüngenler de, dağların sıca ve kayalık bölgelerinde yaşamlarını sürdürür. 
+Yaban hayatında, dağ keçileri ve yaban keçileri gibi memeliler, dağların kaya dik yamaçlarında yaşamlarını sürdürür. Kuşlar ise, göç mevsiminde dağların üzerinden geçen önemli bir güzergah olarak kullanılır. Sürüngenler de, dağların sıca ve kayalık bölgelerinde yaşamlarını sürdürür.
 
 Gökçe Dağı, endemik türlerin yaşam alanı olarak önemli bir ekolojik değer taşır. Bu dağ ekosisteminin korunması, sadece bölgenin biyolojik çeşitliliğini değil, aynı zamanda tüm ekosistemi korumak için çok önemlidir.
 

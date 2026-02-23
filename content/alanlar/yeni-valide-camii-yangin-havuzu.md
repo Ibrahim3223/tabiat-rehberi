@@ -1,7 +1,7 @@
 ---
 title: "Yeni Valide Camii Yangın Havuzu"
 date: "2026-01-09T09:52:08.140Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "gol"
 il: "İstanbul"
@@ -41,7 +41,7 @@ Bu bölgenin tarihsel önemi, sadece doğal güzelliklerinden değil, aynı zama
 
 ## Coğrafya
 
-Koordinatları 41.0250°K, 29.0145°D olan Yeni Valide Camii Yangın Havuzu, İstanbul'un kalbinde, histórik yarımadanın yakınında yer alıyor. Bu stratejik konum, havuzun şehir yaşamına entegre olmasını sağlıyor. Yaklaşık olarak bir şehir bloğu büyüklüğünde olan bu alan, İstanbul'un yoğun nüfusuna rağmen, sakin bir nokta sunuyor.
+Koordinatları 41.0250°K, 29.0145°D olan Yeni Valide Camii Yangın Havuzu, İstanbul'un kalbinde, tarihi yarımadanın yakınında yer alıyor. Bu stratejik konum, havuzun şehir yaşamına entegre olmasını sağlıyor. Yaklaşık olarak bir şehir bloğu büyüklüğünde olan bu alan, İstanbul'un yoğun nüfusuna rağmen, sakin bir nokta sunuyor.
 
 Doğal ve yapay unsurların birleştiği bu noktada, fiziksel yapı hakkında detaylı bilgi olmamasına rağmen, konumu itibariyle, İstanbul'un karmaşık jeolojisine uyumlu bir şekilde tasarlandığı anlaşılıyor. Birkaç olimpik havuz kadar büyüklüğe sahip olan bu havuz, şehrin su kaynaklarına katkıda bulunuyor.
 

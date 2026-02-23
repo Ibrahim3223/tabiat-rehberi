@@ -29,7 +29,7 @@ wikidata_id: "Q34872904"
 
 # Gülbahar Tepesi
 
-Gülbahar Tepesi, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğaseverler için gerçek bir cennet. Gülbahar Tepesi, hem doğanın güzelliğini keşfetmek hem de bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için ideal bir destinasyon.
+Gülbahar Tepesi, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Gülbahar Tepesi, hem doğanın güzelliğini keşfetmek hem de bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Gülbahar Tepesi'ni ziyaret etmek, doğaseverler ve tarih meraklıları için ge
 
 ## İlginç Bilgiler
 
-- Gülbahar Tepesi, yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin etrafında, çeşitli bitki türleri encontrabilir.
 - Gülbahar Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili.
 - Tepenin yamacında ve çevresinde, mevsimsel olarak değişen bitki örtüsü encontrabilir.

@@ -29,7 +29,7 @@ wikidata_id: "Q30544590"
 
 # Kösemtuğ tümülüsü
 
-Kösemtuğ tümülüsü, Marmara Bölgesi'nin Bandırma ilçesinde yer alan tarihi ve doğal güzelliği ile dikkat çeken bir alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzelliği ile karşılar. Kösemtuğ tümülüsü, Bandırma'nın merkezine uzun bir mesafe uzaklıkta olup, şehrin kalabalığından uzaklaşmak isteyenlerin sıklıkla ziyaret ettiği bir yerdir. Bu bölge, tarihi geçmişi ve doğal güzelliği ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
+Kösemtuğ tümülüsü, Marmara Bölgesi'nin Bandırma ilçesinde yer alan tarihi ve doğal güzelliği ile dikkat çeken bir alandır. Kösemtuğ tümülüsü, Bandırma'nın merkezine uzun bir mesafe uzaklıkta olup, şehrin kalabalığından uzaklaşmak isteyenlerin sıklıkla ziyaret ettiği bir yerdir. Bu bölge, tarihi geçmişi ve doğal güzelliği ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kösemtuğ tümülüsü, tarihi geçmişiyle dikkat çeken bir alandır. Bu böl
 
 ## Coğrafya
 
-Kösemtuğ tümülüsü, Marmara Bölgesi'nin Bandırma ilçesinde yer alan bir alandır. Bu bölge, 140 hektarlık geniş bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğal güzelliği ile karşılar. Kösemtuğ tümülüsünün coğrafi konumu, Marmara Denizi'ne olan yakınlığıyla dikkat çekmektedir. Bu bölge, Bandırma'nın merkezine uzun bir mesafe uzaklıkta olup, şehrin kalabalığından uzaklaşmak isteyenlerin sıklıkla ziyaret ettiği bir yerdir. Kösemtuğ tümülüsünün coğrafyası, ziyaretçilerine geniş bir alanda gezebilmeleri için uygun koşullar sunar.
+Kösemtuğ tümülüsü, Marmara Bölgesi'nin Bandırma ilçesinde yer alan bir alandır. Kösemtuğ tümülüsünün coğrafi konumu, Marmara Denizi'ne olan yakınlığıyla dikkat çekmektedir. Bu bölge, Bandırma'nın merkezine uzun bir mesafe uzaklıkta olup, şehrin kalabalığından uzaklaşmak isteyenlerin sıklıkla ziyaret ettiği bir yerdir. Kösemtuğ tümülüsünün coğrafyası, ziyaretçilerine geniş bir alanda gezebilmeleri için uygun koşullar sunar.
 
 ## Flora ve Fauna
 

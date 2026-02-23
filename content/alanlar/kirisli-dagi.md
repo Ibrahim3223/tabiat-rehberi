@@ -32,8 +32,8 @@ Antalya'nın büyüleyici coğrafyası, ziyaretçilerine her köşesinde farklı
 
 ## Tarihçe
 
-Antalya bölgesi, tarihin en eski uygarlıklarına ev sahipliği yapmış bir coğrafyadır. Hititler, Lidyalılar, Persler ve Roma İmparatorluğu gibi medeniyetler bu topraklarda yaşamış, ticaret ve kültür merkezleri kurmuşlardır. Bu bölgeninNatural güzellikleri, tarihi boyunca insanların dikkatini çekmiştir. 
-Kirişli Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturur. Bu tür alanlar, insanların yaşamlarında önemli bir rol oynamış, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlere ev sahipliği yapmıştır. 
+Antalya bölgesi, tarihin en eski uygarlıklarına ev sahipliği yapmış bir coğrafyadır. Hititler, Lidyalılar, Persler ve Roma İmparatorluğu gibi medeniyetler bu topraklarda yaşamış, ticaret ve kültür merkezleri kurmuşlardır. Bu bölgeninNatural güzellikleri, tarihi boyunca insanların dikkatini çekmiştir.
+Kirişli Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturur. Bu tür alanlar, insanların yaşamlarında önemli bir rol oynamış, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlere ev sahipliği yapmıştır.
 Kirişli Dağı, Antalya'nın doğal güzelliklerinin bir parçası olarak, bölgenin tarihsel ve kültürel zenginliğine katkıda bulunmuştur. Bu tür doğal alanlar, Türkiye'nin tarihi ve kültürel mirasının korunması ve gelecek nesillere aktarılması için önemlidir.
 
 ## Coğrafya

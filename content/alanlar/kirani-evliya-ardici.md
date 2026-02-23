@@ -22,7 +22,7 @@ wikidata_id: "Q108227152"
 
 # Kirani Evliya Ardici
 
-Kirani Evliya Ardici milli parkı, İç Anadolu Bölgesi'nde yer alan doğal güzelliklerin önemli bir parçasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölge için önemli bir ekosistem olarak kabul edilir. Bu milli park, ziyaretçilerine doğayla iç içe olabilecekleri bir ortam sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor. Milli parkın etrafındaki manzara, ziyaretçilerin doğanın güzelliğini keşfetmelerine olanak tanır.
+Kirani Evliya Ardici milli parkı, İç Anadolu Bölgesi'nde yer alan doğal güzelliklerin önemli bir parçasıdır. Bu milli park, ziyaretçilerine doğayla iç içe olabilecekleri bir ortam sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor. Milli parkın etrafındaki manzara, ziyaretçilerin doğanın güzelliğini keşfetmelerine olanak tanır.
 
 ## Tarihçe
 

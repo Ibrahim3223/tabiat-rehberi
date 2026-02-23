@@ -1,7 +1,7 @@
 ---
 title: "Memi Dede Mescidi ve Türbesi"
 date: "2026-01-10T06:47:12.984Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bitlis Vilayeti"

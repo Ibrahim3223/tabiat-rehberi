@@ -32,9 +32,9 @@ Burdur'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destina
 
 ## Tarihçe
 
-Burdur bölgesinde yer alan Boğaziçi Dağı, Türkiye'nin zengin tarihsel mirasının bir parçasını oluşturur. Bu bölge, históri boyunca çeşitli uygarlıkların yaşadığı önemli bir coğrafyadır. Hitit, Roma ve Osmanlı gibi medeniyetler, Burdur'un tarihini şekillendirmişlerdir. 
+Burdur bölgesinde yer alan Boğaziçi Dağı, Türkiye'nin zengin tarihsel mirasının bir parçasını oluşturur. Bu bölge, tarihi boyunca çeşitli uygarlıkların yaşadığı önemli bir coğrafyadır. Hitit, Roma ve Osmanlı gibi medeniyetler, Burdur'un tarihini şekillendirmişlerdir.
 
-Doğal güzellikleri ve stratejik konumuyla, Boğaziçi Dağı ve çevresi, insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bölgenin ekonomisinde historically önemli bir yer tutmuş, insanların bu doğal alanlarla ilişkisi ticaret yolları ve yerleşim yerleriyle şekillenmiştir. Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için elverişli ortamlar sağlamıştır. Boğaziçi Dağı da, bu doğal alanlardan biri olarak, bölgenin kültürel ve ekonomik dokusuna katkıda bulunmuştur. 
+Doğal güzellikleri ve stratejik konumuyla, Boğaziçi Dağı ve çevresi, insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bölgenin ekonomisinde historically önemli bir yer tutmuş, insanların bu doğal alanlarla ilişkisi ticaret yolları ve yerleşim yerleriyle şekillenmiştir. Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için elverişli ortamlar sağlamıştır. Boğaziçi Dağı da, bu doğal alanlardan biri olarak, bölgenin kültürel ve ekonomik dokusuna katkıda bulunmuştur.
 
 Boğaziçi Dağı'nın tarihi, bölgenin genel tarihine paralel olarak gelişmiştir. Ancak, spesifik tarihsel veriler bulunmaması, bu doğal alanın tarihini daha da gizemli kılmaktadır. Bölgenin tarihi zenginliği, Boğaziçi Dağı'nın da bir parçası olduğu geniş bir coğrafyayı kapsar.
 

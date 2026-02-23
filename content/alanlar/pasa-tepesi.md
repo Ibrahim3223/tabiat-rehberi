@@ -29,7 +29,7 @@ wikidata_id: "Q31508858"
 
 # Paşa Tepesi
 
-Paşa Tepesi, Konya'nın merkezinde yer alan ve şehre hakim bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Tepenin eteklerinde tarihi yapılar ve doğal güzellikler bir arada bulunuyor. Bu durum, Paşa Tepesi'ni hem tarihe meraklı olanlar hem de doğa severler için ideal bir gezi noktası haline getiriyor. Tepenin üstünden Konya şehri manzarası, özellikle gün batımında büyüleyici bir görünüm sunuyor.
+Paşa Tepesi, Konya'nın merkezinde yer alan ve şehre hakim bir tepe. Tepenin eteklerinde tarihi yapılar ve doğal güzellikler bir arada bulunuyor. Bu durum, Paşa Tepesi'ni hem tarihe meraklı olanlar hem de doğa severler için ideal bir gezi noktası haline getiriyor. Tepenin üstünden Konya şehri manzarası, özellikle gün batımında büyüleyici bir görünüm sunuyor.
 
 ## Tarihçe
 

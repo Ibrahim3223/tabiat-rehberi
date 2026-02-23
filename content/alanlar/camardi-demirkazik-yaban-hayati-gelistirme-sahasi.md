@@ -22,7 +22,7 @@ wikidata_id: "Q119442755"
 
 # Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası
 
-Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçiler çeşitli doğa manzaralarına şahit olabilir. Sahada, çeşitli bitki türleri ve zengin fauna found, bu da ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası, hem doğa severler hem de yaban hayatı ile ilgilenenler için önemli bir merkez konumunda.
+Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Sahada, çeşitli bitki türleri ve zengin fauna found, bu da ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası, hem doğa severler hem de yaban hayatı ile ilgilenenler için önemli bir merkez konumunda.
 
 ## Tarihçe
 

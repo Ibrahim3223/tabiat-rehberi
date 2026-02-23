@@ -28,7 +28,7 @@ wikidata_id: "Q31387078"
 
 # Keklikdoruğu Tepe
 
-Keklikdoruğu Tepe, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Keklikdoruğu Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Tepe, Ankara'nın merkezi konumuna göre uzun bir mesafe uzaklıkta yer alıyor. Keklikdoruğu Tepe'nin yüksekliği ise yaklaşık 1000 metre. Bu tepe, Ankara'nın önemli doğal güzelliklerinden biri olarak biliniyor.
+Keklikdoruğu Tepe, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Keklikdoruğu Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Tepe, Ankara'nın merkezi konumuna göre uzun bir mesafe uzaklıkta yer alıyor. Keklikdoruğu Tepe'nin yüksekliği ise yaklaşık 1000 metre. Bu tepe, Ankara'nın önemli doğal güzelliklerinden biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Keklikdoruğu Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlık
 
 ## Coğrafya
 
-Keklikdoruğu Tepe, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Keklikdoruğu Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Tepe, Ankara'nın merkezi konumuna göre uzun bir mesafe uzaklıkta yer alıyor. Keklikdoruğu Tepe'nin yüksekliği ise yaklaşık 1000 metre. Bu tepe, Ankara'nın önemli doğal güzelliklerinden biri olarak biliniyor. Keklikdoruğu Tepe'nin coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, Ankara'nın coğrafi yapısının önemli bir parçası olarak kabul ediliyor. Keklikdoruğu Tepe'nin eteklerinde, çeşitli bitki türleri ve hayvanlar yaşuyor. Bu tepe, Ankara'nın flora ve faunası açısından önemli bir nokta olarak biliniyor.
+Keklikdoruğu Tepe, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Keklikdoruğu Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Tepe, Ankara'nın merkezi konumuna göre uzun bir mesafe uzaklıkta yer alıyor. Keklikdoruğu Tepe'nin yüksekliği ise yaklaşık 1000 metre. Bu tepe, Ankara'nın önemli doğal güzelliklerinden biri olarak biliniyor. Keklikdoruğu Tepe'nin coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, Ankara'nın coğrafi yapısının önemli bir parçası olarak kabul ediliyor. Keklikdoruğu Tepe'nin eteklerinde, çeşitli bitki türleri ve hayvanlar yaşuyor. Bu tepe, Ankara'nın flora ve faunası açısından önemli bir nokta olarak biliniyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Keklikdoruğu Tepe, Ankara'nın merkezi konumuna göre uzun bir mesafe uzaklıkt
 ## İlginç Bilgiler
 
 - Keklikdoruğu Tepe, Ankara'nın önemli doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Keklikdoruğu Tepe, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmasıyla şekillenmiştir.
 - Bu tepe, Ankara'nın tarihi geçmişi açısından önemli bir nokta olarak biliniyor.
 - Keklikdoruğu Tepe, Ankara'nın flora ve faunası açısından önemli bir nokta olarak biliniyor.

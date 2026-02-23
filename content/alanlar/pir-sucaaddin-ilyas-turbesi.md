@@ -1,7 +1,7 @@
 ---
 title: "Pir Sücaaddin İlyas Türbesi"
 date: "2026-01-10T07:43:48.148Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391211"
 
 # Pir Sücaaddin İlyas Türbesi
 
-Pir Sücaaddin İlyas Türbesi, Amasya'nın tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Amasya'nın en önemli kültürel merkezlerinden biri olarak kabul ediliyor. Türbenin çevresinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunuyor. Bu alan, hem yerli hem de yabancı turistler için bir çekim merkezi olarak hizmet veriyor. Pir Sücaaddin İlyas Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkisi altına alıyor.
+Pir Sücaaddin İlyas Türbesi, Amasya'nın tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Amasya'nın en önemli kültürel merkezlerinden biri olarak kabul ediliyor. Bu alan, hem yerli hem de yabancı turistler için bir çekim merkezi olarak hizmet veriyor. Pir Sücaaddin İlyas Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkisi altına alıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Pir Sücaaddin İlyas Türbesi, yüzyıllar boyunca Amasya'nın önemli dini ve 
 
 ## Coğrafya
 
-Pir Sücaaddin İlyas Türbesi, Amasya'nın coğrafi yapısını yansıtan bir bölgede kurulmuştur. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Türbenin çevresinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunuyor. Bu yeşil alan, hem doğa severler hem de tarihi mekanları keşfetmek isteyenler için ideal bir ortam sunuyor. Coğrafi konumu itibariyle, Pir Sücaaddin İlyas Türbesi, Amasya'nın önemli bir kültürel ve doğal güzelliği olarak kabul ediliyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşuyor. Coğrafi yapısı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkiliyor.
+Pir Sücaaddin İlyas Türbesi, Amasya'nın coğrafi yapısını yansıtan bir bölgede kurulmuştur. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bu yeşil alan, hem doğa severler hem de tarihi mekanları keşfetmek isteyenler için ideal bir ortam sunuyor. Coğrafi konumu itibariyle, Pir Sücaaddin İlyas Türbesi, Amasya'nın önemli bir kültürel ve doğal güzelliği olarak kabul ediliyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşuyor. Coğrafi yapısı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkiliyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34829602"
 
 # Çukurçam Tepesi
 
-Çukurçam Tepesi, İç Anadolu Bölgesi'nin kalbinde, Çankırı'da yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Çukurçam Tepesi, ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılar. Bahar aylarında çiçeklerle dolu, yaz aylarında serin ve ferah, sonbahar aylarında renk cümbüşü, kış aylarında karla kaplı olan bu tepe, her mevsim farklı bir güzelliğe sahiptir.
+Çukurçam Tepesi, İç Anadolu Bölgesi'nin kalbinde, Çankırı'da yer alan bir doğa harikasıdır. Çukurçam Tepesi, ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılar. Bahar aylarında çiçeklerle dolu, yaz aylarında serin ve ferah, sonbahar aylarında renk cümbüşü, kış aylarında karla kaplı olan bu tepe, her mevsim farklı bir güzelliğe sahiptir.
 
 ## Tarihçe
 

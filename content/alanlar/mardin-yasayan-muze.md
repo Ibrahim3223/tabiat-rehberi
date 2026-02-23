@@ -1,7 +1,7 @@
 ---
 title: "Mardin Yaşayan Müze"
 date: "2026-01-10T15:14:40.835Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Türkiye"
@@ -28,7 +28,7 @@ wikidata_id: "Q125536786"
 
 # Mardin Yaşayan Müze
 
-Mardin Yaşayan Müze, İç Anadolu Bölgesi'nde yer alan bir yayla olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini histórik bir yolculuğa çıkarıyor. Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olan bu müze, aynı zamanda doğa severlerin de ilgisini çekiyor. Yayla, yıl boyunca çeşitli etkinliklere ev sahipliği yapıyor ve ziyaretçilere unutulmaz anlar yaşatıyor.
+Mardin Yaşayan Müze, İç Anadolu Bölgesi'nde yer alan bir yayla olarak dikkat çekiyor. Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olan bu müze, aynı zamanda doğa severlerin de ilgisini çekiyor. Yayla, yıl boyunca çeşitli etkinliklere ev sahipliği yapıyor ve ziyaretçilere unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mardin Yaşayan Müze'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Mardin Yaşayan Müze, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, farklı coğrafi oluşumların bir araya geldiği bir alan ve ziyaretçilere çeşitli manzaralar sunuyor. Müze, 140 hektarlık bir alana yayılmış durumda ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Yayla, yıl boyunca ziyaretçilere açık ve her mevsim, farklı bir güzelliğe sahip. Kışın karla kaplı tepeleri, ilkbaharın renkli çiçekleri, yazın yeşilin hakim olduğu manzaraları ve sonbaharın sarı yapraklarıyla bezeli doğası, ziyaretçilere dört mevsim boyunca farklı bir deneyim sunuyor. Müzenin coğrafi konumu, ziyaretçilere doğa yürüyüşleri, trekking ve diğer açık hava etkinlikleri için ideal bir ortam sunuyor.
+Mardin Yaşayan Müze, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, farklı coğrafi oluşumların bir araya geldiği bir alan ve ziyaretçilere çeşitli manzaralar sunuyor. Yayla, yıl boyunca ziyaretçilere açık ve her mevsim, farklı bir güzelliğe sahip. Kışın karla kaplı tepeleri, ilkbaharın renkli çiçekleri, yazın yeşilin hakim olduğu manzaraları ve sonbaharın sarı yapraklarıyla bezeli doğası, ziyaretçilere dört mevsim boyunca farklı bir deneyim sunuyor. Müzenin coğrafi konumu, ziyaretçilere doğa yürüyüşleri, trekking ve diğer açık hava etkinlikleri için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Mardin Yaşayan Müze, yıl boyunca ziyaretçilere açık ve her mevsim, farklı
 ## İlginç Bilgiler
 
 - Mardin Yaşayan Müze, 140 hektarlık bir alana yayılmış durumda.
-- Müze, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bu bölge, farklı coğrafi oluşumların bir araya geldiği bir alan.
 - Mardin Yaşayan Müze, flora ve fauna açısından zengin bir alana sahip.
 - Müze, yıl boyunca ziyaretçilere açık.

@@ -22,7 +22,7 @@ wikidata_id: "Q108228056"
 
 # Istanbul Demirkoy Bulanikdere-Disbudak 2
 
-Istanbul Demirkoy Bulanikdere-Disbudak 2 milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu muhteşem doğa alanı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Parkın içinde, çeşitli bitkiler ve ağaçlar bulunmakta. Ziyaretçiler, bu güzel doğa alanını keşfederek, doğayla iç içe bir gün geçirebiliyorlar. Demirkoy Bulanikdere-Disbudak 2 milli parkı, Istanbul'un en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+ Bu muhteşem doğa alanı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Parkın içinde, çeşitli bitkiler ve ağaçlar bulunmakta. Ziyaretçiler, bu güzel doğa alanını keşfederek, doğayla iç içe bir gün geçirebiliyorlar. Demirkoy Bulanikdere-Disbudak 2 milli parkı, Istanbul'un en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Istanbul Demirkoy Bulanikdere-Disbudak 2 milli parkının tarihi geçmişi, yüz
 
 ## Coğrafya
 
-Istanbul Demirkoy Bulanikdere-Disbudak 2 milli parkı, İç Anadolu Bölgesi'nde bulunmaktadır. Parkın coğrafi yapısı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Demirkoy Bulanikdere-Disbudak 2 milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Parkın içinde, çeşitli su kaynakları ve akarsular bulunmakta. Bu doğa alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdedir. Demirkoy Bulanikdere-Disbudak 2 milli parkı, Istanbul'un en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Istanbul Demirkoy Bulanikdere-Disbudak 2 milli parkı, İç Anadolu Bölgesi'nde bulunmaktadır. Parkın coğrafi yapısı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Parkın içinde, çeşitli su kaynakları ve akarsular bulunmakta. Bu doğa alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdedir. Demirkoy Bulanikdere-Disbudak 2 milli parkı, Istanbul'un en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

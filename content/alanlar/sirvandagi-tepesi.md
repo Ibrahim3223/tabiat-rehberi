@@ -28,7 +28,7 @@ wikidata_id: "Q31388482"
 
 # Şirvandağı Tepesi
 
-Şirvandağı Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biridir. Erzurum'un merkezine yakın bir konumda bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir doğal alan sunar. Şirvandağı Tepesi, hem doğal güzellikleri hem de coğrafi konumuyla dikkat çekici bir noktadır. Bu tepe, bölgenin en önemli gezilecek yerlerinden biri olarak kabul edilir ve doğa severlerin ilgisini çeker.
+Şirvandağı Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biridir. Erzurum'un merkezine yakın bir konumda bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kapsar. Şirvandağı Tepesi, hem doğal güzellikleri hem de coğrafi konumuyla dikkat çekici bir noktadır. Bu tepe, bölgenin en önemli gezilecek yerlerinden biri olarak kabul edilir ve doğa severlerin ilgisini çeker.
 
 ## Tarihçe
 

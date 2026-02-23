@@ -28,7 +28,7 @@ wikidata_id: "Q31559294"
 
 # Kanlışehit Tepesi
 
-Kanlışehit Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir panorama sunuyor. Kanlışehit Tepesi, aynı zamanda çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor. Bu tepeler, bölgenin coğrafyasını şekillendiren önemli unsurlar. Kanlışehit Tepesi, Ankara'nın önemli doğal alanlarından biri olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde yer alan yerleşim yerleri, bu bölgenin tarihi ve kültürel zenginliğini gösteriyor.
+Kanlışehit Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir panorama sunuyor. Kanlışehit Tepesi, aynı zamanda çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor. Bu tepeler, bölgenin coğrafyasını şekillendiren önemli unsurlar. Kanlışehit Tepesi, Ankara'nın önemli doğal alanlarından biri olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde yer alan yerleşim yerleri, bu bölgenin tarihi ve kültürel zenginliğini gösteriyor.
 
 ## Tarihçe
 

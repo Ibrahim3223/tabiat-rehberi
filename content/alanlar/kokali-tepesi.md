@@ -28,7 +28,7 @@ wikidata_id: "Q31555937"
 
 # Kokali Tepesi
 
-Kokali Tepesi, Güneydoğu Anadolu Bölgesi'ninBatman ilinde yer alan bir doğal güzellik noktasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde geniş bir alan sunuyor. Kokali Tepesi, çevresi ile birlikte yüksek bir konumda bulunuyor ve ziyaretçilerine muhteşem bir manzara sunuyor. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna gefunden. Ayrıca, tepenin zirvesine ulaşan ziyaretçiler, Batman şehrinin panoramik görünümünü izleme fırsatı buluyor.
+Kokali Tepesi, Güneydoğu Anadolu Bölgesi'ninBatman ilinde yer alan bir doğal güzellik noktasıdır. Kokali Tepesi, çevresi ile birlikte yüksek bir konumda bulunuyor ve ziyaretçilerine muhteşem bir manzara sunuyor. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna gefunden. Ayrıca, tepenin zirvesine ulaşan ziyaretçiler, Batman şehrinin panoramik görünümünü izleme fırsatı buluyor.
 
 ## Tarihçe
 

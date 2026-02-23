@@ -28,7 +28,7 @@ wikidata_id: "Q31389755"
 
 # Beşikli Tepe
 
-Beşikli Tepe, Kocaeli'nin merkezinde yer alan ve tarihi geçmişiyle dikkat çekici bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile bölgenin en önemli doğal ve tarihi merkezlerinden biri. Bu tepe, ziyaretçilerini şehrin kalabalığından uzaklaştıran ve doğayla baş başa bırakarak dinlenme imkanı sunuyor. Beşikli Tepe, aynı zamanda bölgenin coğrafi yapısını gözlemlemek için ideal bir nokta olarak kabul ediliyor. Burada, Marmara Bölgesi'nin coğrafi özellikleri hakkında detaylı bilgi edinme mümkün.
+Beşikli Tepe, Kocaeli'nin merkezinde yer alan ve tarihi geçmişiyle dikkat çekici bir nokta. Bu tepe, ziyaretçilerini şehrin kalabalığından uzaklaştıran ve doğayla baş başa bırakarak dinlenme imkanı sunuyor. Beşikli Tepe, aynı zamanda bölgenin coğrafi yapısını gözlemlemek için ideal bir nokta olarak kabul ediliyor. Burada, Marmara Bölgesi'nin coğrafi özellikleri hakkında detaylı bilgi edinme mümkün.
 
 ## Tarihçe
 

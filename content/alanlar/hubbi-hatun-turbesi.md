@@ -1,7 +1,7 @@
 ---
 title: "Hubbi Hatun Türbesi"
 date: "2026-01-10T07:25:49.854Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391072"
 
 # Hubbi Hatun Türbesi
 
-İstanbul'un tarihi ve kültürel zenginliklerini barındıran Eyüpsultan ilçesinde yer alan Hubbi Hatun Türbesi, ziyaretçiler için önemli bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul Boğazı'na yakın konumuyla dikkat çekmektedir. Bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. İstanbul'un kalbinde yer alan bu türbe, şehrin karmaşasından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Ziyaretçiler, türbenin históriki geçmişini keşfetırken aynı zamanda çevredeki doğayı da keşfedebilirler.
+İstanbul'un tarihi ve kültürel zenginliklerini barındıran Eyüpsultan ilçesinde yer alan Hubbi Hatun Türbesi, ziyaretçiler için önemli bir destinasyondur. Bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. İstanbul'un kalbinde yer alan bu türbe, şehrin karmaşasından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Ziyaretçiler, türbenin tarihi geçmişini keşfetırken aynı zamanda çevredeki doğayı da keşfedebilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hubbi Hatun Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu türbe,
 
 ## Coğrafya
 
-Hubbi Hatun Türbesi, İstanbul'un Eyüpsultan ilçesinde yer almaktadır. Bu bölge, İstanbul Boğazı'na yakın bir konumda bulunmakta ve ziyaretçilere şehrin doğal güzelliklerini keşfetme fırsatı sunmaktadır. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerine kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, ziyaretçilere geniş yeşil alanlar sunmakta ve doğayla iç içe bir gezi deneyimi sağlamaktadır. İstanbul'un coğrafi konumu, şehirdeki iklimi ve çevre koşullarını etkilemektedir. Türbenin çevresi, çeşitli bitki türleriyle kaplıdır ve ziyaretçiler, bahçelerde gezerken doğanın güzelliğini deneyimleyebilirler. Ayrıca, türbenin yakınlarında bulunan su kaynakları ve yeşillikler, bölgenin doğal güzelliğini daha da artırmaktadır. Ziyaretçiler, türbenin çevresi ve İstanbul'un diğer bölgelerini keşfetmek için yürüyüş yapabilir veya toplu taşıma araçlarını kullanabilirler.
+Hubbi Hatun Türbesi, İstanbul'un Eyüpsultan ilçesinde yer almaktadır. Bu geniş alan, ziyaretçilere geniş yeşil alanlar sunmakta ve doğayla iç içe bir gezi deneyimi sağlamaktadır. İstanbul'un coğrafi konumu, şehirdeki iklimi ve çevre koşullarını etkilemektedir. Türbenin çevresi, çeşitli bitki türleriyle kaplıdır ve ziyaretçiler, bahçelerde gezerken doğanın güzelliğini deneyimleyebilirler. Ayrıca, türbenin yakınlarında bulunan su kaynakları ve yeşillikler, bölgenin doğal güzelliğini daha da artırmaktadır. Ziyaretçiler, türbenin çevresi ve İstanbul'un diğer bölgelerini keşfetmek için yürüyüş yapabilir veya toplu taşıma araçlarını kullanabilirler.
 
 ## Flora ve Fauna
 

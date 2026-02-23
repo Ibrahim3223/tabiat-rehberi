@@ -28,7 +28,7 @@ wikidata_id: "Q31389770"
 
 # Aydemir Tepesi
 
-Aydemir Tepesi, Bilecik'in eşsiz doğal güzelliklerinden biri olarak ziyaretçilerini ağırlayan bir tepe. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu tepe, Marmara Bölgesi'nin önemli coğrafi noktalarından biri olarak dikkat çekiyor. Aydemir Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu bölge, yüzyıllar boyunca insanların yerleşim yeri ve gezilmesi gereken bir nokta olarak biliniyor.
+Aydemir Tepesi, Bilecik'in eşsiz doğal güzelliklerinden biri olarak ziyaretçilerini ağırlayan bir tepe. Bu tepe, Marmara Bölgesi'nin önemli coğrafi noktalarından biri olarak dikkat çekiyor. Aydemir Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu bölge, yüzyıllar boyunca insanların yerleşim yeri ve gezilmesi gereken bir nokta olarak biliniyor.
 
 ## Tarihçe
 

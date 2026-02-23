@@ -1,7 +1,7 @@
 ---
 title: "Fatma Sultan Türbesi"
 date: "2026-01-10T07:46:10.166Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391182"
 
 # Fatma Sultan Türbesi
 
-Fatma Sultan Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir plajdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Plajın tarihi geçmişi, İstanbul'un zengin kültürel mirasının bir parçasını oluşturur. Fatma Sultan Türbesi, deniz kenarında yer alan bir türbe olup, tarihi önemi taşıyan bir yapıdır. Bu bölge, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbeder.
+Fatma Sultan Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir plajdır. Plajın tarihi geçmişi, İstanbul'un zengin kültürel mirasının bir parçasını oluşturur. Fatma Sultan Türbesi, deniz kenarında yer alan bir türbe olup, tarihi önemi taşıyan bir yapıdır. Bu bölge, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbeder.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Fatma Sultan Türbesi'nin tarihi geçmişi, Osmanlı İmparatorluğu'nun altın 
 
 ## Coğrafya
 
-Fatma Sultan Türbesi, Marmara Bölgesi'nin kalbinde, Fatih ilçesinde yer alır. Bu bölge, deniz kenarında olup, kum plajı ve temiz suyu ile dikkat çeker. Plajın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İstanbul'un merkezi bir konumunda yer alan Fatma Sultan Türbesi, ulaşım açısından da thun li bir noktadır. Türbenin bulunduğu bölge, histórik yapılar ve modern tesislerin bir arada bulunduğu bir alandır. Fatma Sultan Türbesi ve çevresinin coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri sunar.
+Fatma Sultan Türbesi, Marmara Bölgesi'nin kalbinde, Fatih ilçesinde yer alır. Bu bölge, deniz kenarında olup, kum plajı ve temiz suyu ile dikkat çeker. Plajın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İstanbul'un merkezi bir konumunda yer alan Fatma Sultan Türbesi, ulaşım açısından da thun li bir noktadır. Türbenin bulunduğu bölge, tarihi yapılar ve modern tesislerin bir arada bulunduğu bir alandır. Fatma Sultan Türbesi ve çevresinin coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri sunar.
 
 ## Flora ve Fauna
 

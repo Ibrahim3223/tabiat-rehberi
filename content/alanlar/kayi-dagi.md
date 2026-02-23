@@ -51,7 +51,7 @@ Doğal bir anıt olarak görülebilecek Kayı Dağı, çevresindeki coğrafyaya 
 
 ## Flora ve Fauna
 
-Kayı Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır ve yükseklik zonlarına özgü alpin flora ortaya çıkar. 
+Kayı Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır ve yükseklik zonlarına özgü alpin flora ortaya çıkar.
 
 Dağın bitki örtüsünü çam ağaçları ve zeytinliklerin yanı sıra, çeşitli otsu bitkiler ve çalılıklar oluşturur. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuş sürüleri bu bölgeyi ziyaret eder. Yaban hayatı ise, çeşitli memeli hayvanlar, kuşlar ve sürüngenlerle temsil edilir. Dağ keçileri ve yaban domuzları, bu bölgenin karakteristik memeli hayvanlarıdır.
 

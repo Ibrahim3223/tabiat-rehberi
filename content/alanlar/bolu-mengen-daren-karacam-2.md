@@ -22,7 +22,7 @@ wikidata_id: "Q108227486"
 
 # Bolu-Mengen-Daren Karacam 2
 
-Bolu-Mengen-Daren Karacam 2 milli parkı, Karadeniz Bölgesi'nin güzide illerinden biri olan Bolu'da yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte oldukça geniş bir alanı kaplar. Bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Doğal güzelliği, zengin florası ve faunası ile dikkat çeken Bolu-Mengen-Daren Karacam 2 milli parkı, hem doğa severlerin hem de macera arayanların keyifle ziyaret edebileceği bir destinasyon.
+Bolu-Mengen-Daren Karacam 2 milli parkı, Karadeniz Bölgesi'nin güzide illerinden biri olan Bolu'da yer alan bir milli parktır. Bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Doğal güzelliği, zengin florası ve faunası ile dikkat çeken Bolu-Mengen-Daren Karacam 2 milli parkı, hem doğa severlerin hem de macera arayanların keyifle ziyaret edebileceği bir destinasyon.
 
 ## Tarihçe
 

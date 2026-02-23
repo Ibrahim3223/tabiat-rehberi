@@ -28,7 +28,7 @@ wikidata_id: "Q34875182"
 
 # Hüseyintarla Tepesi
 
-Hüseyintarla Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne karşılık geliyor. Hüseyintarla Tepesi, ziyaretçilerine hem histórik bir yolculuk hem de doğal güzelliklerin keyfini çıkarma fırsatı sunuyor.
+Hüseyintarla Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Hüseyintarla Tepesi, ziyaretçilerine hem tarihi bir yolculuk hem de doğal güzelliklerin keyfini çıkarma fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Hüseyintarla Tepesi ve çevresi, çeşitli bitki türleri ve fauna ile zengin b
 
 ## Ziyaret Bilgileri
 
-Hüseyintarla Tepesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerin keyfini çıkarma fırsatı sunuyor. Tepenin yakınında bulunan köylerden veya şehir merkezinden ulaşım mogelijk. Ziyaretçiler, tepenin höyük yapısını keşfedebilir, çevredeki doğal güzellikleri gezerek, bölgenin história ve kültürel değerlerini öğrenebilirler. Hüseyintarla Tepesi, ilkbahar ve sonbahar aylarında ziyaret edilmeye özellikle uygun.
+Hüseyintarla Tepesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerin keyfini çıkarma fırsatı sunuyor. Tepenin yakınında bulunan köylerden veya şehir merkezinden ulaşım mogelijk. Ziyaretçiler, tepenin höyük yapısını keşfedebilir, çevredeki doğal güzellikleri gezerek, bölgenin tarihi ve kültürel değerlerini öğrenebilirler. Hüseyintarla Tepesi, ilkbahar ve sonbahar aylarında ziyaret edilmeye özellikle uygun.
 
 ## İlginç Bilgiler
 

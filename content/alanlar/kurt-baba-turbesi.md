@@ -1,7 +1,7 @@
 ---
 title: "Kurt Baba Türbesi"
 date: "2026-01-10T07:04:21.219Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,11 +30,11 @@ wikidata_id: "Q131390838"
 
 # Kurt Baba Türbesi
 
-Kurt Baba Türbesi, Tire'nin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu tarihi ve doğal güzelliklerin birleştiği nokta, ziyaretçilerini Ege Bölgesi'nin zengin mirasına davet ediyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kurt Baba Türbesi, hem dinî bir merkez hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
+Kurt Baba Türbesi, Tire'nin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu tarihi ve doğal güzelliklerin birleştiği nokta, ziyaretçilerini Ege Bölgesi'nin zengin mirasına davet ediyor. Kurt Baba Türbesi, hem dinî bir merkez hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
-Kurt Baba Türbesi'nin tarihi geçmişi, Ege Bölgesi'nin zengin kültürel mirasını yansıtıyor. Bu bölgede, yüzyıllar boyunca çeşitli medeniyetler hüküm sürmüş ve her biri bu topraklara kendi kültürel ve dini izlerini bırakmış. Kurt Baba Türbesi de, bu toprakların tarihinde önemli bir yer tutuyor. Tarihi kaynaklara göre, bu türbe, önemli bir dinî figür olan Kurt Baba'ya adanmış. Türbenin etrafındaki yerleşim yerleri ve tarihi yapılar, bu bölgenin zengin tarihini gözler önüne seriyor. Ziyaretçiler, bu türbeyi ziyaret ederek hem dinî bir expérience yaşayabiliyor hem de Ege Bölgesi'nin histórik geçmişi hakkında bilgi edinebiliyor.
+Kurt Baba Türbesi'nin tarihi geçmişi, Ege Bölgesi'nin zengin kültürel mirasını yansıtıyor. Bu bölgede, yüzyıllar boyunca çeşitli medeniyetler hüküm sürmüş ve her biri bu topraklara kendi kültürel ve dini izlerini bırakmış. Kurt Baba Türbesi de, bu toprakların tarihinde önemli bir yer tutuyor. Tarihi kaynaklara göre, bu türbe, önemli bir dinî figür olan Kurt Baba'ya adanmış. Türbenin etrafındaki yerleşim yerleri ve tarihi yapılar, bu bölgenin zengin tarihini gözler önüne seriyor. Ziyaretçiler, bu türbeyi ziyaret ederek hem dinî bir deneyim yaşayabiliyor hem de Ege Bölgesi'nin tarihi geçmişi hakkında bilgi edinebiliyor.
 
 ## Coğrafya
 

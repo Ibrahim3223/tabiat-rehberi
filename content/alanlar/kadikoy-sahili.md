@@ -30,7 +30,7 @@ wikidata_id: "Q125299505"
 
 # Kadıköy Sahili
 
-Kadıköy Sahili, İstanbul'un en güzel ve hareketli sahillerinden biri olarak bilinir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu sahil, ziyaretçilerini deniz manzarasıyla büyüler. Sahilin uzunluğu boyunca yürüyüş yapmak, denizde yüzmenin keyfini çıkarma veya sadece güneşin tadını çıkarma mümkündür. Bu sahil, hem yerlilerin hem de turistlerin favori mekanlarından biridir.
+Kadıköy Sahili, İstanbul'un en güzel ve hareketli sahillerinden biri olarak bilinir. Sahilin uzunluğu boyunca yürüyüş yapmak, denizde yüzmenin keyfini çıkarma veya sadece güneşin tadını çıkarma mümkündür. Bu sahil, hem yerlilerin hem de turistlerin favori mekanlarından biridir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kadıköy Sahili, tarihsel olarak önemli bir geçmişe sahiptir. Bu bölge, yü
 
 ## Coğrafya
 
-Kadıköy Sahili, Marmara Bölgesi'nde, İstanbul ilinin içinde yer alır. Bu sahil, İstanbul'un en güzel ve hareketli sahillerinden biri olarak bilinir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu sahil, deniz manzarasıyla ziyaretçilerini büyüler. Sahilin coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yer olmasıyla dikkat çeker. Sahil, İstanbul'un merkezine yakın bir konumda yer alır ve ulaşım için çeşitli seçenekler mevcuttur. Bu sahil, doğal güzelliği ve coğrafi konumuyla ziyaretçilerini çekmektedir.
+Kadıköy Sahili, Marmara Bölgesi'nde, İstanbul ilinin içinde yer alır. Bu sahil, İstanbul'un en güzel ve hareketli sahillerinden biri olarak bilinir. Sahilin coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yer olmasıyla dikkat çeker. Sahil, İstanbul'un merkezine yakın bir konumda yer alır ve ulaşım için çeşitli seçenekler mevcuttur. Bu sahil, doğal güzelliği ve coğrafi konumuyla ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 

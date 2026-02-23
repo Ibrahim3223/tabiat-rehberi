@@ -22,7 +22,7 @@ wikidata_id: "Q108227221"
 
 # Denizli-Acipayam-Alci Ardic 1
 
-Denizli-Acipayam-Alci Ardic 1 milli parkı, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Denizli ilinin Acipayam ilçesinde bulunmaktadır. Bu milli park, doğa severlerin ve macera arayanların ziyaret ettiği bir bölgedir. Burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Milli parkın güzergahı, ziyaretçilere keyifli bir doğa yürüyüşü imkanı sunmaktadır.
+Denizli-Acipayam-Alci Ardic 1 milli parkı, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu milli park, doğa severlerin ve macera arayanların ziyaret ettiği bir bölgedir. Burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Milli parkın güzergahı, ziyaretçilere keyifli bir doğa yürüyüşü imkanı sunmaktadır.
 
 ## Tarihçe
 

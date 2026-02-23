@@ -28,7 +28,7 @@ wikidata_id: "Q31390006"
 
 # Karayatak Tepesi
 
-Karayatak Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir doğa harikası. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgede, çeşitli bitki türleri ve zengin fauna found. Karayatak Tepesi, doğa severler için bir cennet. Burada, doğayı keşfetme ve güzelliğini görme mümkün. Tepenin etrafında, çeşitli yürüyüş parkurları ve manzaralı noktalara ulaşma mümkün. Karayatak Tepesi, Eskişehir'in önemli turizm noktalarından biri.
+Karayatak Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Bu bölgede, çeşitli bitki türleri ve zengin fauna found. Karayatak Tepesi, doğa severler için bir cennet. Burada, doğayı keşfetme ve güzelliğini görme mümkün. Tepenin etrafında, çeşitli yürüyüş parkurları ve manzaralı noktalara ulaşma mümkün. Karayatak Tepesi, Eskişehir'in önemli turizm noktalarından biri.
 
 ## Tarihçe
 

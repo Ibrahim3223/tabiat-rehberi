@@ -1,7 +1,7 @@
 ---
 title: "Tarihi Hamam"
 date: "2026-01-09T23:10:33.246Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738885"
 
 # Tarihi Hamam
 
-Tarihi Hamam, İstanbul'un Kadıköy ilçesinde bulunan ve Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak kabul edilir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tarihi Hamam, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle etkilemeyi başarır. Bu bölge, aynı zamanda zengin bir flora ve faunaya ev sahipliği yapmaktadır. Tarihi Hamam'ın tarihi ve coğrafi özellikleri, onu ziyaretçiler için önemli bir destinasyon haline getirir.
+Tarihi Hamam, İstanbul'un Kadıköy ilçesinde bulunan ve Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak kabul edilir. Tarihi Hamam, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle etkilemeyi başarır. Bu bölge, aynı zamanda zengin bir flora ve faunaya ev sahipliği yapmaktadır. Tarihi Hamam'ın tarihi ve coğrafi özellikleri, onu ziyaretçiler için önemli bir destinasyon haline getirir.
 
 ## Tarihçe
 

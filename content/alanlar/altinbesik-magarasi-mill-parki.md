@@ -38,7 +38,7 @@ Altınbeşik Mağarası Millî Parkı, tarihin farklı dönemlerinde çeşitli m
 
 ## Coğrafya
 
-Altınbeşik Mağarası Millî Parkı, Akdeniz Bölgesi'nin coğrafi çeşitliliğiçinde yer alıyor. Parkın coğrafyası, 1200 metre yükseklikte ve 1200 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Parkın iklimi, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı. Bu iklim, bölgenin flora ve faunasının çeşitliliğine katkıda bulunmuş.
+Altınbeşik Mağarası Millî Parkı, Akdeniz Bölgesi'nin coğrafi çeşitliliğiçinde yer alıyor. Parkın coğrafyası, 1200 metre yükseklikte ve 1200 hektarlık bir alanı kapsıyor. Parkın iklimi, Akdeniz ikliminin karakteristik özellikleri gösteriyor; yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı. Bu iklim, bölgenin flora ve faunasının çeşitliliğine katkıda bulunmuş.
 
 ## Flora ve Fauna
 

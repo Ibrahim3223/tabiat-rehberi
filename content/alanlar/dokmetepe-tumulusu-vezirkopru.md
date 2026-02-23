@@ -1,7 +1,7 @@
 ---
 title: "Dökmetepe Tümülüsü, Vezirköprü"
 date: "2026-01-10T04:38:43.977Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728405"
 
 # Dökmetepe Tümülüsü, Vezirköprü
 
-Dökmetepe Tümülüsü, Samsun'un Vezirköprü ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir tümülüstür. 140 hektarlık bir alanı kaplayan bu tümülüs, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tümülüs, Karadeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak bilinir. Dökmetepe Tümülüsü, ziyaretçilerini tarihi ve doğal güzelliği ile etkiliyor. Bu tümülüs, Samsun'un önemli turistik yerlerinden biri olarak kabul ediliyor.
+Dökmetepe Tümülüsü, Samsun'un Vezirköprü ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir tümülüstür. Bu tümülüs, Karadeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak bilinir. Dökmetepe Tümülüsü, ziyaretçilerini tarihi ve doğal güzelliği ile etkiliyor. Bu tümülüs, Samsun'un önemli turistik yerlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dökmetepe Tümülüsü, tarihi geçmişi ile dikkat çeken bir yerdir. Bu tüm�
 
 ## Coğrafya
 
-Dökmetepe Tümülüsü, Samsun'un Vezirköprü ilçesinde yer alıyor. Bu tümülüs, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. 140 hektarlık bir alanı kaplayan bu tümülüs, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Dökmetepe Tümülüsü, yeşilin ve mavinin bir araya geldiği bir güzelliği sunuyor. Bu tümülüs, Karadeniz Bölgesi'nin iklimi ile uyumlu bir şekilde yeşilleniyor. Dökmetepe Tümülüsü, ziyaretçilerini coğrafi güzelliği ile etkiliyor. Bu tümülüs, Samsun'un coğrafi güzelliklerinden biri olarak kabul ediliyor.
+Dökmetepe Tümülüsü, Samsun'un Vezirköprü ilçesinde yer alıyor. Bu tümülüs, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. Dökmetepe Tümülüsü, yeşilin ve mavinin bir araya geldiği bir güzelliği sunuyor. Bu tümülüs, Karadeniz Bölgesi'nin iklimi ile uyumlu bir şekilde yeşilleniyor. Dökmetepe Tümülüsü, ziyaretçilerini coğrafi güzelliği ile etkiliyor. Bu tümülüs, Samsun'un coğrafi güzelliklerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Dökmetepe Tümülüsü, ziyaretçilerini tarihi ve doğal güzelliği ile etkil
 ## İlginç Bilgiler
 
 - Dökmetepe Tümülüsü, 140 hektarlık bir alanı kaplıyor.
-- Bu tümülüs, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Dökmetepe Tümülüsü, Karadeniz Bölgesi'nin önemli tarihi yerlerinden biri olarak kabul ediliyor.
 - Bu tümülüs, Samsun'un önemli turistik yerlerinden biri olarak bilinir.
 - Dökmetepe Tümülüsü, flora ve fauna açısından zengin bir yerdir.

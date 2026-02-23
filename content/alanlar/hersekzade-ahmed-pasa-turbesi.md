@@ -1,7 +1,7 @@
 ---
 title: "Hersekzade Ahmed Paşa Türbesi"
 date: "2026-01-10T05:20:18.179Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Altınova"
@@ -29,7 +29,7 @@ wikidata_id: "Q127786769"
 
 # Hersekzade Ahmed Paşa Türbesi
 
-Hersekzade Ahmed Paşa Türbesi, İç Anadolu Bölgesi'nin gizli kalmış bir hazine olarak karşımıza çıkıyor. Bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide yer alıyor. Hersekzade Ahmed Paşa'nın anıtsal mezarı, ziyaretçilerini tarihin sâu sayfalarına götürüyor. Türbenin mimarisi, Osmanlı dönemine ait ince işçiliği ve sanatsal değerleri yansıtıyor. Bu tarihi durağı ziyaret etmek, tarihe karşı meraklı olanların kaçırmaması gereken bir fırsat.
+Hersekzade Ahmed Paşa Türbesi, İç Anadolu Bölgesi'nin gizli kalmış bir hazine olarak karşımıza çıkıyor. Hersekzade Ahmed Paşa'nın anıtsal mezarı, ziyaretçilerini tarihin derin sayfalarına götürüyor. Türbenin mimarisi, Osmanlı dönemine ait ince işçiliği ve sanatsal değerleri yansıtıyor. Bu tarihi durağı ziyaret etmek, tarihe karşı meraklı olanların kaçırmaması gereken bir fırsat.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hersekzade Ahmed Paşa Türbesi'nin tarihi geçmişi, Osmanlı İmparatorluğu'n
 
 ## Coğrafya
 
-Hersekzade Ahmed Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Altınova ilçesinin Hersek köyünde bulunan türbe, çevresi geniş yeşil alanlarla çevrili ve doğal güzelliği ile dikkat çekiyor. Türbenin bulunduğu arazi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere tarihi mekanın yanı sıra doğal güzelliği de sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik kuru karasal iklimine uygun olarak yazları sıcak ve kuru, kışları soğuk ve kar yağışlı geçiyor. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplı, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Hersekzade Ahmed Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Altınova ilçesinin Hersek köyünde bulunan türbe, çevresi geniş yeşil alanlarla çevrili ve doğal güzelliği ile dikkat çekiyor. Bu geniş alan, ziyaretçilere tarihi mekanın yanı sıra doğal güzelliği de sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik kuru karasal iklimine uygun olarak yazları sıcak ve kuru, kışları soğuk ve kar yağışlı geçiyor. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplı, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

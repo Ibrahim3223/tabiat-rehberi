@@ -1,7 +1,7 @@
 ---
 title: "Hatun Sultan Türbesi"
 date: "2026-01-10T05:31:57.640Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"

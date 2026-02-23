@@ -29,7 +29,7 @@ wikidata_id: "Q753230"
 
 # Atakule
 
-Atakule, Ankara'nın kalbinde yer alan 140 hektarlık devasa bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görüyor. Atakule, aynı zamanda çevresindeki güzellikleriyle de ziyaretçilerini büyülüyor. 1989 yılında açılan Atakule, o günden beri Ankara'nın önemli bir sembolü haline geldi.
+ Bu büyük alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görüyor. Atakule, aynı zamanda çevresindeki güzellikleriyle de ziyaretçilerini büyülüyor. 1989 yılında açılan Atakule, o günden beri Ankara'nın önemli bir sembolü haline geldi.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Atakule'nin tarihi geçmişi, Ankara'nın hızlı gelişimiyle bağlantılı. 19
 
 ## Coğrafya
 
-Atakule, Ankara'nın merkezinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan Atakule, çevresindeki tepe ve vadilerle birlikte güzel bir manzara sunuyor. Atakule'nin coğrafi konumu, ziyaretçilerine Ankara'nın doğal güzelliklerini keşfetme fırsatı sunuyor. Atakule'nin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyük alan, ziyaretçilerine geniş yeşil alanlar, yürüyüş yolları ve piknik alanları sunuyor. Atakule'nin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Genellikle kura ve soğuk bir iklim hakim olsa da, Atakule'nin yeşil alanları, ziyaretçilerine serin ve ferah bir ortam sunuyor.
+Atakule, Ankara'nın merkezinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan Atakule, çevresindeki tepe ve vadilerle birlikte güzel bir manzara sunuyor. Atakule'nin coğrafi konumu, ziyaretçilerine Ankara'nın doğal güzelliklerini keşfetme fırsatı sunuyor. Atakule'nin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Genellikle kura ve soğuk bir iklim hakim olsa da, Atakule'nin yeşil alanları, ziyaretçilerine serin ve ferah bir ortam sunuyor.
 
 ## Flora ve Fauna
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228762"
 
 # GEBZE
 
-Gebze milli parkı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu park, çeşitli bitki türleri ve zengin fauna yapısı ile dikkat çeker. Yüzyıllar boyunca doğal güzelliğini korumuş olan Gebze, ziyaretçilerini doğanın içine davet ediyor. Bu milli park, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Ziyaretçiler, burada hem doğal güzellikleri keşfedebilir hem de tarihi geçmiş hakkında bilgi edinebilirler.
+Gebze milli parkı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir. Yüzyıllar boyunca doğal güzelliğini korumuş olan Gebze, ziyaretçilerini doğanın içine davet ediyor. Bu milli park, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Ziyaretçiler, burada hem doğal güzellikleri keşfedebilir hem de tarihi geçmiş hakkında bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Gebze milli parkının tarihi geçmişi, yüzyıllar öncesine dayanır. Bu böl
 
 ## Coğrafya
 
-Gebze milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşam alanı oluşturur. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir alan sunar. Parkın coğrafi konumu, ziyaretçilerin doğanın güzelliklerini keşfetmesine olanak tanır. Gebze'nin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Parkın çevresinde, çeşitli doğal güzellikler ve tarihi alanlar bulunur. Bu milli park, ziyaretçilere doğanın güzelliklerini keşfetme ve tarihi önemiı hakkında bilgi edinme fırsatı sunar.
+Gebze milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşam alanı oluşturur. Parkın coğrafi konumu, ziyaretçilerin doğanın güzelliklerini keşfetmesine olanak tanır. Gebze'nin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Parkın çevresinde, çeşitli doğal güzellikler ve tarihi alanlar bulunur. Bu milli park, ziyaretçilere doğanın güzelliklerini keşfetme ve tarihi önemiı hakkında bilgi edinme fırsatı sunar.
 
 ## Flora ve Fauna
 

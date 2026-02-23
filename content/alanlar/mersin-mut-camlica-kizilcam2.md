@@ -22,7 +22,7 @@ wikidata_id: "Q108228528"
 
 # Mersin-Mut-Camlica-Kizilcam2
 
-Mersin-Mut-Camlica-Kizilcam2 milli parkı, Mersin'in eşsiz doğal güzelliklerini sunan bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, bu doğal cennette huzur bulabilir ve doğanın güzelliğini keşfedebilir.
+Mersin-Mut-Camlica-Kizilcam2 milli parkı, Mersin'in eşsiz doğal güzelliklerini sunan bir destinasyon. Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, bu doğal cennette huzur bulabilir ve doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 

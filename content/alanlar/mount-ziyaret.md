@@ -29,7 +29,7 @@ wikidata_id: "Q32196374"
 
 # Mount Ziyaret
 
-Mount Ziyaret, Doğu Anadolu Bölgesi'nin gözde noktalarından biri olarak Bingöl'de yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini etkileyen bir doğa harikasıdır. Bu tepe, yıl boyunca birçok ziyaretçiyi ağırlar ve doğa severler için bir cennet olarak kabul edilir. Mount Ziyaret, doğa yürüyüşleri, fotoğrafçılık ve doğa için ideal bir noktadır. Ziyaretçiler, bu güzel tepeye çıkarak çevreyi keşfedebilir ve doğanın güzelliğini yakından görebilirler.
+Mount Ziyaret, Doğu Anadolu Bölgesi'nin gözde noktalarından biri olarak Bingöl'de yer alır. Bu tepe, yıl boyunca birçok ziyaretçiyi ağırlar ve doğa severler için bir cennet olarak kabul edilir. Mount Ziyaret, doğa yürüyüşleri, fotoğrafçılık ve doğa için ideal bir noktadır. Ziyaretçiler, bu güzel tepeye çıkarak çevreyi keşfedebilir ve doğanın güzelliğini yakından görebilirler.
 
 ## Tarihçe
 

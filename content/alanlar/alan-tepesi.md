@@ -29,7 +29,7 @@ wikidata_id: "Q31388916"
 
 # Alan Tepesi
 
-Alan Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan, 140 hektarlık genişlikteki bir yeşil alan olarak karşımıza çıkıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve yüzyıllık bir tarihi geçmişi barındırıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ziyaretçileri karşılıyor. Doğal güzelliği ve tarihi önemi ile Alan Tepesi, bölgede önemli bir konumda yer alıyor.
+Alan Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan, 140 hektarlık genişlikteki bir yeşil alan olarak karşımıza çıkıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ziyaretçileri karşılıyor. Doğal güzelliği ve tarihi önemi ile Alan Tepesi, bölgede önemli bir konumda yer alıyor.
 
 ## Tarihçe
 

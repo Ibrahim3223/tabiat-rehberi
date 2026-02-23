@@ -28,7 +28,7 @@ wikidata_id: "Q31551394"
 
 # Kefallo Tepesi
 
-Kefallo Tepesi, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yer tutuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle bekliyor. Bu tepe, Mardin'in merkezine yakın bir konumda bulunmakta ve ulaşımı oldukça kolay. Kefallo Tepesi, Mardin'in tarihi geçmişi ve doğal güzelliklerini bir arada sunuyor. Burada, tarihi yapılar, doğal güzellikler ve eşsiz manzaralar ziyaretçilerini bekliyor.
+Kefallo Tepesi, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yer tutuyor. Bu tepe, Mardin'in merkezine yakın bir konumda bulunmakta ve ulaşımı oldukça kolay. Kefallo Tepesi, Mardin'in tarihi geçmişi ve doğal güzelliklerini bir arada sunuyor. Burada, tarihi yapılar, doğal güzellikler ve eşsiz manzaralar ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kefallo Tepesi, Mardin'in tarihi geçmişi ile ilgili önemli bir yer tutuyor. T
 
 ## Coğrafya
 
-Kefallo Tepesi, Mardin'in coğrafi yapısına uygun olarak, şehrin merkezine yakın bir konumda bulunuyor. Bu tepe, doğal güzellikleriyle dikkat çekiyor ve ziyaretçilerine eşsiz manzaralar sunuyor. Kefallo Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve bu nedenle ziyaretçilerine geniş bir alan sunuyor. Tepenin coğrafi yapısı, ziyaretçilerin doğayı keşfetmesine olanak tanıyor. Kefallo Tepesi, Mardin'in coğrafi güzelliklerini ve tarihi yapılarını bir arada sunuyor. Bu tepe, ziyaretçilerine Mardin'in doğal güzelliklerini keşfetme fırsatı sunuyor.
+Kefallo Tepesi, Mardin'in coğrafi yapısına uygun olarak, şehrin merkezine yakın bir konumda bulunuyor. Bu tepe, doğal güzellikleriyle dikkat çekiyor ve ziyaretçilerine eşsiz manzaralar sunuyor. Tepenin coğrafi yapısı, ziyaretçilerin doğayı keşfetmesine olanak tanıyor. Kefallo Tepesi, Mardin'in coğrafi güzelliklerini ve tarihi yapılarını bir arada sunuyor. Bu tepe, ziyaretçilerine Mardin'in doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

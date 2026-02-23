@@ -1,7 +1,7 @@
 ---
 title: "Hatun Hamamı"
 date: "2026-01-09T22:35:52.364Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738701"
 
 # Hatun Hamamı
 
-Hatun Hamamı, Karaman'ın merkezinde, şehrin gürültüsünden uzak bir noktada yer alıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu doğal güzellik, Karaman'ın en önemli turizm noktalarından biri. Şehrin merkezine yakın olmasına rağmen, Hatun Hamamı'nın çevresi yeşilliklerle dolu ve sakin bir atmosfere sahip. Bu alan, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Hatun Hamamı, Karaman'ın tarihi ve kültürel değerlerini korumak amacıyla da büyük önem taşıyor.
+Hatun Hamamı, Karaman'ın merkezinde, şehrin gürültüsünden uzak bir noktada yer alıyor. Şehrin merkezine yakın olmasına rağmen, Hatun Hamamı'nın çevresi yeşilliklerle dolu ve sakin bir atmosfere sahip. Bu alan, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Hatun Hamamı, Karaman'ın tarihi ve kültürel değerlerini korumak amacıyla da büyük önem taşıyor.
 
 ## Tarihçe
 

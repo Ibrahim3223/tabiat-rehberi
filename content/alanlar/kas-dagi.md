@@ -33,7 +33,7 @@ Artvin'in dağlık arazisinde yer alan Kaş Dağı, doğaseverlerin merakla ziya
 
 ## Tarihçe
 
-Artvin'in büyüleyici peyzajına ev sahipliği yapan Kaş Dağı, Türkiye'nin kuzeydoğu ucunda yer alıyor. Bu bölge, tarihin farklı dönemlerinde various uygarlıkların yerleşimlerine sahne oldu. Antik Çağ'da Kolhis Krallığı'nın bir parçası olan Artvin, daha sonra Roma ve Bizans dönemlerini yaşadı. Geçmişte, bu coğrafya önemli ticaret yollarının kesişme noktasında bulunuyordu. 
+Artvin'in büyüleyici peyzajına ev sahipliği yapan Kaş Dağı, Türkiye'nin kuzeydoğu ucunda yer alıyor. Bu bölge, tarihin farklı dönemlerinde various uygarlıkların yerleşimlerine sahne oldu. Antik Çağ'da Kolhis Krallığı'nın bir parçası olan Artvin, daha sonra Roma ve Bizans dönemlerini yaşadı. Geçmişte, bu coğrafya önemli ticaret yollarının kesişme noktasında bulunuyordu.
 
 Doğal güzellikleri ve stratejik konumuyla Kaş Dağı, insan yerleşimlerinin ve faaliyetlerinin merkezinde yer aldı. Yaylacılık ve hayvancılık, bölgenin ekonomik yaşamının temelini oluşturdu. Dağların eteklerinde ve yakın çevresindeki vadiler, binlerce yıl boyunca insanların yaşamlarını sürdürdükleri alanlar oldu. Türkiye'de benzer doğal alanlar, tarihsel olarak sadece ekonomik değil, kültürel ve sosyal açıdan da önemli roller üstlendi. Bu tür bölgeler, toplumların gelişimine ve kültürel mirasına katkıda bulundu.
 

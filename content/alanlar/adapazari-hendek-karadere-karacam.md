@@ -22,7 +22,7 @@ wikidata_id: "Q108227921"
 
 # Adapazari-Hendek-Karadere Karacam
 
-Adapazari-Hendek-Karadere Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik zenginliklerinden biridir. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennettir. Burada, doğanın seslerini dinleyebilir, çiçeklerin kokusunu soluyabilir ve bölgenin eşsiz güzelliğini keşfedebilirsiniz. Adapazari-Hendek-Karadere Karacam, doğa severler için bir sığına ve İç Anadolu Bölgesi'nin en önemli turizm noktalarından biridir.
+Adapazari-Hendek-Karadere Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennettir. Burada, doğanın seslerini dinleyebilir, çiçeklerin kokusunu soluyabilir ve bölgenin eşsiz güzelliğini keşfedebilirsiniz. Adapazari-Hendek-Karadere Karacam, doğa severler için bir sığına ve İç Anadolu Bölgesi'nin en önemli turizm noktalarından biridir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adapazari-Hendek-Karadere Karacam milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Adapazari-Hendek-Karadere Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Milli park, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve bölgenin ekolojik dengesini korur. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, bölgenin güzelliğini keşfetmek için en uygun zamanlardır. Adapazari-Hendek-Karadere Karacam, ziyaretçilerine doğanın güzelliğini sunmak için tasarlanmış bir cennettir ve bölgenin coğrafi özellikleri, ziyaretçilerin doğayla iç içe olabilmesini sağlar.
+Adapazari-Hendek-Karadere Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Milli park, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve bölgenin ekolojik dengesini korur. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve dört mevsim belirgindir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, bölgenin güzelliğini keşfetmek için en uygun zamanlardır. Adapazari-Hendek-Karadere Karacam, ziyaretçilerine doğanın güzelliğini sunmak için tasarlanmış bir cennettir ve bölgenin coğrafi özellikleri, ziyaretçilerin doğayla iç içe olabilmesini sağlar.
 
 ## Flora ve Fauna
 

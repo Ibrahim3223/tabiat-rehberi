@@ -50,11 +50,11 @@ Kartalkıracı Tepe'nin iklimi, bölgenin genel iklim karakterine uygun olarak, 
 
 ## Flora ve Fauna
 
-Kartalkıracı Tepe, Diyarbakır'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kartalkıracı Tepe, Diyarbakır'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünde step ve ova ekolojisinin izleri görülür. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği de göze çarpar. 
+Bitki örtüsünde step ve ova ekolojisinin izleri görülür. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği de göze çarpar.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, çakallar gibi memeliler, kartallar, şahinler gibi kuşlar ve çeşitli sürüngenler bu dağların yaşam alanını paylaşır. Sonbaharda, göçmen kuşlar dağları geçit olarak kullanır. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, çakallar gibi memeliler, kartallar, şahinler gibi kuşlar ve çeşitli sürüngenler bu dağların yaşam alanını paylaşır. Sonbaharda, göçmen kuşlar dağları geçit olarak kullanır.
 
 Kartalkıracı Tepe'nin ekolojik değeri, bu çeşitlilikte gizli. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak için çok önemli.
 

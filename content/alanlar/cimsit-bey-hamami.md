@@ -1,7 +1,7 @@
 ---
 title: "Cimşit Bey Hamamı"
 date: "2026-01-09T22:30:18.174Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738454"
 
 # Cimşit Bey Hamamı
 
-Elazığ'ın merkezinde yer alan Cimşit Bey Hamamı, tarihi ve doğal güzelliklerinin birleştiği özel bir mekan. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en önemli turizm noktalarından biri. Cimşit Bey Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Burada, Elazığ'ın tarihini ve kültürünü yakından keşfetme fırsatı bulacaksınız. Cimşit Bey Hamamı, Elazığ'ın önemli bir turizm merkezidir ve her yıl birçok ziyaretçi tarafından tercih edilmektedir.
+Elazığ'ın merkezinde yer alan Cimşit Bey Hamamı, tarihi ve doğal güzelliklerinin birleştiği özel bir mekan. Cimşit Bey Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Burada, Elazığ'ın tarihini ve kültürünü yakından keşfetme fırsatı bulacaksınız. Cimşit Bey Hamamı, Elazığ'ın önemli bir turizm merkezidir ve her yıl birçok ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Cimşit Bey Hamamı, tarihi geçmişi ile dikkat çekiyor. Bu tarihi mekan, yüz
 
 ## Coğrafya
 
-Cimşit Bey Hamamı, Elazığ'ın merkezinde yer alan bir mekan. Bu mekan, şehrin en önemli turizm noktalarından biri ve birçok ziyaretçi tarafından tercih edilmektedir. Cimşit Bey Hamamı, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde. Bu mekan, Elazığ'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Cimşit Bey Hamamı, şehrin en önemli coğrafi noktalarından biri ve birçok ziyaretçi tarafından ziyaret edilmektedir. Cimşit Bey Hamamı'nın coğrafi konumu, ziyaretçilerin şehrin diğer önemli noktalarına kolayca ulaşabilmesini sağlamaktadır. Cimşit Bey Hamamı, Elazığ'ın merkezi bir noktasında yer almakta ve birçok önemli nokta ile çevrili.
+Cimşit Bey Hamamı, Elazığ'ın merkezinde yer alan bir mekan. Bu mekan, şehrin en önemli turizm noktalarından biri ve birçok ziyaretçi tarafından tercih edilmektedir. Bu mekan, Elazığ'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Cimşit Bey Hamamı, şehrin en önemli coğrafi noktalarından biri ve birçok ziyaretçi tarafından ziyaret edilmektedir. Cimşit Bey Hamamı'nın coğrafi konumu, ziyaretçilerin şehrin diğer önemli noktalarına kolayca ulaşabilmesini sağlamaktadır. Cimşit Bey Hamamı, Elazığ'ın merkezi bir noktasında yer almakta ve birçok önemli nokta ile çevrili.
 
 ## Flora ve Fauna
 

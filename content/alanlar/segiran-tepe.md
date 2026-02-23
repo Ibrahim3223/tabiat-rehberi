@@ -32,7 +32,7 @@ Diyarbakır'ın tarihi ve kültürel zenginliklerinin ortasında yer alan Seğir
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Bu bölgede, Seğiran Tepe gibi doğal güzellikler, binlerce yıllık bir geçmişin tanığıdır. Diyarbakır, tarihi boyunca çeşitli uygarlıkların hakimiyetine girmiş, Medler, Persler, Romalılar, Bizanslılar ve Selçuklular gibi birçok medeniyete ev sahipliği yapmıştır.
+Diyarbakır bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Bu bölgede, Seğiran Tepe gibi doğal güzellikler, binlerce yıllık bir geçmişin tanığıdır. Diyarbakır, tarihi boyunca çeşitli uygarlıkların hakimiyetine girmiş, Medler, Persler, Romalılar, Bizanslılar ve Selçuklular gibi birçok medeniyete ev sahipliği yapmıştır.
 
 Bu tür doğal alanlar, Türkiye'de tarihsel önemi yüksek yerlerdir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin önemini artırmıştır. İnsanlar, bu alanları yalnızca doğal güzellikleri için değil, aynı zamanda ekonomi ve stratejik açıdan da değerlendirmişlerdir. Seğiran Tepe de, Diyarbakır bölgesinin zengin tarihsel mirasının bir parçasıdır. Bu tepe, bölgenin coğrafi ve kültürel çeşitliliğini yansıtan bir noktadır. İnsanların bu bölgeyle ilişkisi, binlerce yıl önce başlamış ve günümüze kadar devam etmiştir. Bu doğal alan, geçmişin izlerini taşıyan bir belge niteliğindedir ve Türkiye'nin zengin kültürel mirasının bir parçası olarak değerlendirilir.
 

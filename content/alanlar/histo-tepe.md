@@ -32,7 +32,7 @@ Diyarbakır'ın tarihi ve kültürel zenginliklerinin arasında yer alan Hişto 
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, çeşitli uygarlıkların etkilerini taşımaktadır. Hititler, Asurlular, Persler, Romalılar ve Osmanlılar gibi medeniyetler, Diyarbakır'ı önemli bir merkez olarak kullanmışlardır. Bu zengin tarihsel miras, bölgenin kültürel ve coğrafi çeşitliliğine de yansımıştır.
+Diyarbakır bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, çeşitli uygarlıkların etkilerini taşımaktadır. Hititler, Asurlular, Persler, Romalılar ve Osmanlılar gibi medeniyetler, Diyarbakır'ı önemli bir merkez olarak kullanmışlardır. Bu zengin tarihsel miras, bölgenin kültürel ve coğrafi çeşitliliğine de yansımıştır.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insanların yaşamlarını sürdürmelerine olanak sağlayan ekosistemlerle de dikkat çeker. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal alanlarla olan ilişkisini şekillendirmiştir. İnsanların bu alanlara olan bağı, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Bu bağlamda, Hişto Tepe gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçasını oluşturur.
 

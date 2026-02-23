@@ -28,7 +28,7 @@ wikidata_id: "Q31511687"
 
 # Kurusababa Tepesi
 
-Kurusababa Tepesi, Erzurum'un doğal güzellikleri arasında yer alan bir tepe olarak dikkat çekiyor. Bu tepenin etrafında yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu bölge, hem yerli halk hem de ziyaretçiler için keyifli bir gezi deneyimi sunuyor. Kurusababa Tepesi, doğa yürüyüşleri, manzara izleme ve fotoğraf çekme gibi faaliyetler için ideal bir yer olarak biliniyor. 140 hektarlık bu yeşil alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Kurusababa Tepesi, Erzurum'un doğal güzellikleri arasında yer alan bir tepe olarak dikkat çekiyor. Bu bölge, hem yerli halk hem de ziyaretçiler için keyifli bir gezi deneyimi sunuyor. Kurusababa Tepesi, doğa yürüyüşleri, manzara izleme ve fotoğraf çekme gibi faaliyetler için ideal bir yer olarak biliniyor. 140 hektarlık bu yeşil alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Gazi Ömer Bey Türbesi"
 date: "2026-01-10T06:20:58.359Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tekirdağ"
@@ -29,15 +29,15 @@ wikidata_id: "Q131391813"
 
 # Gazi Ömer Bey Türbesi
 
-Gazi Ömer Bey Türbesi, Tekirdağ'ın Malkara ilçesinde yer alan bir tarihi türbe ve plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli turizm noktalarından biridir. Türbe, Gazi Ömer Bey'in mezarının bulunduğu bir yapıdır ve história değerlere sahiptir. Plaj, denize girilebilen ve güneşlenilebilen bir alandır. Gazi Ömer Bey Türbesi, tarihi ve doğal güzellikleri bir arada sunan bir destinasyondur.
+Gazi Ömer Bey Türbesi, Tekirdağ'ın Malkara ilçesinde yer alan bir tarihi türbe ve plajdır. Türbe, Gazi Ömer Bey'in mezarının bulunduğu bir yapıdır ve tarihi değerlere sahiptir. Plaj, denize girilebilen ve güneşlenilebilen bir alandır. Gazi Ömer Bey Türbesi, tarihi ve doğal güzellikleri bir arada sunan bir destinasyondur.
 
 ## Tarihçe
 
-Gazi Ömer Bey Türbesi, tarihi geçmişi olan bir yapıdır. Türbe, Gazi Ömer Bey'in mezarının bulunduğu bir yapıdır ve história değerlere sahiptir. Gazi Ömer Bey, Osmanlı İmparatorluğu'nun önemli komutanlarından biridir ve birçok savaşta başarılı olmuştur. Türbe, yüzyıllar boyunca çeşitli restorasyonlar geçirmiştir ve günümüzde hala ayakta durmaktadır. Gazi Ömer Bey Türbesi, tarihin izlerini taşıyan bir yapıdır ve ziyarete açık bir yerdir. Türbenin tarihi değerleri, ziyaretçilere önemli bilgiler sunmaktadır. Gazi Ömer Bey'in hayatı ve başarıları, türbede bulunan çeşitli eserlerde görülebilir.
+Gazi Ömer Bey Türbesi, tarihi geçmişi olan bir yapıdır. Türbe, Gazi Ömer Bey'in mezarının bulunduğu bir yapıdır ve tarihi değerlere sahiptir. Gazi Ömer Bey, Osmanlı İmparatorluğu'nun önemli komutanlarından biridir ve birçok savaşta başarılı olmuştur. Türbe, yüzyıllar boyunca çeşitli restorasyonlar geçirmiştir ve günümüzde hala ayakta durmaktadır. Gazi Ömer Bey Türbesi, tarihin izlerini taşıyan bir yapıdır ve ziyarete açık bir yerdir. Türbenin tarihi değerleri, ziyaretçilere önemli bilgiler sunmaktadır. Gazi Ömer Bey'in hayatı ve başarıları, türbede bulunan çeşitli eserlerde görülebilir.
 
 ## Coğrafya
 
-Gazi Ömer Bey Türbesi, Tekirdağ'ın Malkara ilçesinde yer almaktadır. Türbe, Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Plaj, denize girilebilen ve güneşlenilebilen bir alandır. Gazi Ömer Bey Türbesi, 140 hektarlık bir alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Türbenin çevresinde, çeşitli bitki türleri ve ağaçlar bulunmaktadır. İklim, Marmara Bölgesi'nin karakteristik iklimine sahiptir ve dört mevsim yaşanmaktadır. Gazi Ömer Bey Türbesi, coğrafi konumu itibariyle önemli bir destinasyondur. Türbe, Malkara ilçesinin merkezine yakın bir konumda yer almaktadır ve ulaşımı kolaydır. Gazi Ömer Bey Türbesi, doğal güzellikleri ve tarihi değerleri bir arada sunan bir yerdir.
+Gazi Ömer Bey Türbesi, Tekirdağ'ın Malkara ilçesinde yer almaktadır. Türbe, Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Plaj, denize girilebilen ve güneşlenilebilen bir alandır. Türbenin çevresinde, çeşitli bitki türleri ve ağaçlar bulunmaktadır. İklim, Marmara Bölgesi'nin karakteristik iklimine sahiptir ve dört mevsim yaşanmaktadır. Gazi Ömer Bey Türbesi, coğrafi konumu itibariyle önemli bir destinasyondur. Türbe, Malkara ilçesinin merkezine yakın bir konumda yer almaktadır ve ulaşımı kolaydır. Gazi Ömer Bey Türbesi, doğal güzellikleri ve tarihi değerleri bir arada sunan bir yerdir.
 
 ## Flora ve Fauna
 

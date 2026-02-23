@@ -32,7 +32,7 @@ Muş'un doğası, Subaşı Dağı gibi doğal güzelliklerle süslenmiş bir co�
 
 ## Tarihçe
 
-Muş bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği stratejik bir noktada yer alır. Urartular, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, Muş'u ve çevresini etkisi altına almıştır. Subaşı Dağı da bu tarihsel sürecin içinde önemli bir doğal unsur olarak yer alır.
+Muş bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği stratejik bir noktada yer alır. Urartular, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, Muş'u ve çevresini etkisi altına almıştır. Subaşı Dağı da bu tarihsel sürecin içinde önemli bir doğal unsur olarak yer alır.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamı için hayati önem taşımıştır. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yaşayan insanların temel geçim kaynakları arasında yer almıştır. Subaşı Dağı ve çevresindeki dağlık alanlar, yüksek otlakları ve su kaynaklarıyla, bölgede yaşayan insanların yaşamını sürdürmesi için elverişli koşullar sunmuştur. Ayrıca, tarihi İpek Yolu ve diğer ticaret yolları, Muş bölgesinden geçerek, bu doğal alanların ekonomik önemini de artırmıştır. Bu nedenle, Subaşı Dağı, sadece bir doğal güzellik değil, aynı zamanda bölgenin tarihsel ve kültürel zenginliğinin bir parçasıdır.
 

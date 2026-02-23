@@ -22,7 +22,7 @@ wikidata_id: "Q108227995"
 
 # Antalya-Akseki-Ibradi Toros Sediri
 
-Antalya-Akseki-Ibradi Toros Sediri, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik dengesini oluşturan bir milli parktır. Toros Sediri, Türkiye'nin en önemli sedir ormanlarından biri olarak bilinir ve bu özelliği ile dikkat çekmektedir. Ayrıca, bu milli parkta çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ziyaretçiler, bu doğal güzelliği keşfetmek için buraya gelerek, doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve flora ile faunayı yakından inceleyebilirler.
+Antalya-Akseki-Ibradi Toros Sediri, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir. Toros Sediri, Türkiye'nin en önemli sedir ormanlarından biri olarak bilinir ve bu özelliği ile dikkat çekmektedir. Ayrıca, bu milli parkta çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ziyaretçiler, bu doğal güzelliği keşfetmek için buraya gelerek, doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve flora ile faunayı yakından inceleyebilirler.
 
 ## Tarihçe
 

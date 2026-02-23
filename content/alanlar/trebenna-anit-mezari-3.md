@@ -1,7 +1,7 @@
 ---
 title: "Trebenna Anıt Mezarı 3"
 date: "2026-01-10T03:38:49.923Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728108"
 
 # Trebenna Anıt Mezarı 3
 
-Trebenna Anıt Mezarı 3, Antalya'nın Konyaaltı ilçesinde bulunan tarihi bir anıt mezarıdır. Bu eser, Akdeniz Bölgesi'nin zengin tarihi geçmişi hakkında önemli bilgiler sunar. 140 hektarlık bir alan içinde yer alan anıt mezar, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere tarihi ve kültürel açıdan zengin bir deneyim sunar. Anıt mezarın tarihi geçmişi, bölgenin önemli bir kültürel merkezi olduğunu gösterir. Konyaaltı'nın güzelliği, Trebenna Anıt Mezarı 3'ü ziyaret etmek için mükemmel bir reasondır.
+Trebenna Anıt Mezarı 3, Antalya'nın Konyaaltı ilçesinde bulunan tarihi bir anıt mezarıdır. Bu eser, Akdeniz Bölgesi'nin zengin tarihi geçmişi hakkında önemli bilgiler sunar. Bu geniş alan, ziyaretçilere tarihi ve kültürel açıdan zengin bir deneyim sunar. Anıt mezarın tarihi geçmişi, bölgenin önemli bir kültürel merkezi olduğunu gösterir. Konyaaltı'nın güzelliği, Trebenna Anıt Mezarı 3'ü ziyaret etmek için mükemmel bir reasondır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Trebenna Anıt Mezarı 3'ün tarihi geçmişi, Antalya'nın zengin tarihi hakkı
 
 ## Coğrafya
 
-Trebenna Anıt Mezarı 3, Konyaaltı ilçesinde, Akdeniz Bölgesi'nde yer alır. Bu bölge, Türkiye'nin en güzeli ve en önemli turistik merkezlerinden biridir. Anıt mezar, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu geniş alan, ziyaretçilere tarihi ve kültürel açıdan zengin bir deneyim sunar. Anıt mezarın konumu, Konyaaltı'nın güzelliği ve Akdeniz Bölgesi'nin zengin tarihi geçmişi ile birleşerek, ziyaretçilere mükemmel bir gezi deneyimi sunar. Trebenna Anıt Mezarı 3'ün coğrafi konumu, bölgenin önemli bir kültürel merkezi olarak hizmet vermesini sağlar. Anıt mezarın çevresi, çeşitli bitki türleri ve hayvanlarla zengin bir ekosistemi sunar. Bu ekosistem, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunar.
+Trebenna Anıt Mezarı 3, Konyaaltı ilçesinde, Akdeniz Bölgesi'nde yer alır. Bu bölge, Türkiye'nin en güzeli ve en önemli turistik merkezlerinden biridir. Bu geniş alan, ziyaretçilere tarihi ve kültürel açıdan zengin bir deneyim sunar. Anıt mezarın konumu, Konyaaltı'nın güzelliği ve Akdeniz Bölgesi'nin zengin tarihi geçmişi ile birleşerek, ziyaretçilere mükemmel bir gezi deneyimi sunar. Trebenna Anıt Mezarı 3'ün coğrafi konumu, bölgenin önemli bir kültürel merkezi olarak hizmet vermesini sağlar. Anıt mezarın çevresi, çeşitli bitki türleri ve hayvanlarla zengin bir ekosistemi sunar. Bu ekosistem, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 

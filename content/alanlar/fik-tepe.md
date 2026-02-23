@@ -28,7 +28,7 @@ wikidata_id: "Q31391086"
 
 # Fik Tepe
 
-Fik Tepe, Şanlıurfa'nın önemli tarihi ve doğal güzelliklerinden biri olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Fik Tepe, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda bölgeye özgü doğal güzellikleri sunar. Şanlıurfa'nın tarihi geçmişi, Fik Tepe'de kendini gösterir. Ziyaretçiler, bu tepeye çıktıklarında hem tarihin izlerini takip edebilecekler hem de bölgenin eşsiz manzarasını seyretme fırsatı bulacaklar.
+Fik Tepe, Şanlıurfa'nın önemli tarihi ve doğal güzelliklerinden biri olarak dikkat çeker. Fik Tepe, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda bölgeye özgü doğal güzellikleri sunar. Şanlıurfa'nın tarihi geçmişi, Fik Tepe'de kendini gösterir. Ziyaretçiler, bu tepeye çıktıklarında hem tarihin izlerini takip edebilecekler hem de bölgenin eşsiz manzarasını seyretme fırsatı bulacaklar.
 
 ## Tarihçe
 

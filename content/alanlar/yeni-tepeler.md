@@ -29,7 +29,7 @@ wikidata_id: "Q31385361"
 
 # Yeni Tepeler
 
-İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Yeni Tepeler, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş ve yeşillik dolu alan, ziyaretçilerini doğayla iç içe bir dünyaya davet ediyor. Yeni Tepeler, sadece doğal güzellikleri ile değil, aynı zamanda coğrafi yapısı ve flora/fauna çeşitliliği ile de dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor.
+ Bu geniş ve yeşillik dolu alan, ziyaretçilerini doğayla iç içe bir dünyaya davet ediyor. Yeni Tepeler, sadece doğal güzellikleri ile değil, aynı zamanda coğrafi yapısı ve flora/fauna çeşitliliği ile de dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yeni Tepeler'in tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin
 
 ## Coğrafya
 
-Yeni Tepeler, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahip. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir doğa deneyimi sunuyor. Bu alan, coğrafi olarak çevredeki dağlar ve ovalarla çevrili ve bu konum, burayı bir doğa cenneti haline getiriyor. Yeni Tepeler'in iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal ve bu, flora ve fauna çeşitliliğini etkiliyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Coğrafi yapısı ve iklimi, Yeni Tepeler'i bir doğa merkezine dönüştürüyor.
+Yeni Tepeler, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahip. Bu alan, coğrafi olarak çevredeki dağlar ve ovalarla çevrili ve bu konum, burayı bir doğa cenneti haline getiriyor. Yeni Tepeler'in iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal ve bu, flora ve fauna çeşitliliğini etkiliyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Coğrafi yapısı ve iklimi, Yeni Tepeler'i bir doğa merkezine dönüştürüyor.
 
 ## Flora ve Fauna
 

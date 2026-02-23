@@ -1,7 +1,7 @@
 ---
 title: "Mersin Kent Tarihi Müzesi"
 date: "2026-01-10T15:21:38.564Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Mersin"

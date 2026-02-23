@@ -1,7 +1,7 @@
 ---
 title: "Tarihi Hamam, Araç"
 date: "2026-01-09T23:28:52.638Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -21,7 +21,7 @@ aktiviteler: ["Tarihi Hamam'ın tarihi mimarisini incelemek","Etrafındaki doğa
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Tarihi Hamam, Araç","caption":"Tarihi Hamam, Araç","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarihi%20Hamam%2C%20Ara%C3%A7","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739050","tip":"genel"}]
-description: "Kastamonu'nun Araç ilçesinde bulunan Tarihi Hamam, ziyaretçilerini histórik bir atmosfere davet ediyor. 140 hektarlık bir alan üzerine kurulu tarihi hamam, yaklaşık 200 futbol sahası büyüklüğünde."
+description: "Kastamonu'nun Araç ilçesinde bulunan Tarihi Hamam, ziyaretçilerini tarihi bir atmosfere davet ediyor. 140 hektarlık bir alan üzerine kurulu tarihi hamam, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Tarihi Hamam","Araç","Kastamonu","Karadeniz Bölgesi","Tarih","Kültür","Gezi","Turizm","Doğa","Mimari"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739050"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739050"
 
 # Tarihi Hamam, Araç
 
-Tarihi Hamam, Araç, Kastamonu'nun tarihi ve kültürel zenginliklerini ziyaretçileriyle buluşturan önemli bir destinasyon. 140 hektarlık bir alan üzerine kurulu bu tarihi yapı, yaklaşık 200 futbol sahası büyüklüğünde. Tarihi Hamam'ın mimarisi, geleneksel Türk hamam kültürünü yansıtıyor. Ziyaretçiler, bu tarihi yapıda hem dinlenip hem de tarihi bir atmosferi deneyimleyebiliyorlar. Tarihi Hamam, Araç'ın merkezinde yer alıyor ve ulaşımı oldukça kolay.
+Tarihi Hamam, Araç, Kastamonu'nun tarihi ve kültürel zenginliklerini ziyaretçileriyle buluşturan önemli bir destinasyon. Tarihi Hamam'ın mimarisi, geleneksel Türk hamam kültürünü yansıtıyor. Ziyaretçiler, bu tarihi yapıda hem dinlenip hem de tarihi bir atmosferi deneyimleyebiliyorlar. Tarihi Hamam, Araç'ın merkezinde yer alıyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 

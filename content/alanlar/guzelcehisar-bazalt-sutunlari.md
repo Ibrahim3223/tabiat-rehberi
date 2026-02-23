@@ -1,7 +1,7 @@
 ---
 title: "Güzelcehisar Bazalt Sütunları"
 date: "2026-01-10T08:14:37.236Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tabiat-aniti"
 il: "Bartın"
@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Güzelcehisar Bazalt Sütunları
 
-Güzelcehisar Bazalt Sütunları, Bartın ilinin doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak karşımıza çıkıyor. Bu doğal anıt, Karadeniz Bölgesi'nin coğrafyasını ve flora/faunayı gözlemlemek için ideal bir yer. Güzelcehisar Bazalt Sütunları, doğa severlerin ve coğrafya meraklılarının buluşma noktası olarak hizmet veriyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilerini bekliyor.
+Güzelcehisar Bazalt Sütunları, Bartın ilinin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu doğal anıt, Karadeniz Bölgesi'nin coğrafyasını ve flora/faunayı gözlemlemek için ideal bir yer. Güzelcehisar Bazalt Sütunları, doğa severlerin ve coğrafya meraklılarının buluşma noktası olarak hizmet veriyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

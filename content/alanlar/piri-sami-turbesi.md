@@ -1,7 +1,7 @@
 ---
 title: "Piri Sami Türbesi"
 date: "2026-01-10T05:33:15.625Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzincan"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391653"
 
 # Piri Sami Türbesi
 
-Piri Sami Türbesi, Erzincan ilinin merkezinde bulunan tarihi ve doğal güzelliklerin birleştiği bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Piri Sami Türbesi, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, tarihi yapıların yanı sıra, zengin flora ve fauna da bulunuyor. Piri Sami Türbesi, Erzincan'ın önemli turizm merkezlerinden biri olarak biliniyor.
+Piri Sami Türbesi, Erzincan ilinin merkezinde bulunan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Piri Sami Türbesi, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, tarihi yapıların yanı sıra, zengin flora ve fauna da bulunuyor. Piri Sami Türbesi, Erzincan'ın önemli turizm merkezlerinden biri olarak biliniyor.
 
 ## Tarihçe
 

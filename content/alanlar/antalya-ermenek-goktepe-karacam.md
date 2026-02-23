@@ -22,7 +22,7 @@ wikidata_id: "Q108228258"
 
 # Antalya-Ermenek-Göktepe-Karaçam
 
-Antalya-Ermenek-Göktepe-Karaçam milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede yer alan flora ve fauna çeşitliliği, ziyaretçileri kendine hayran bırakır. Milli park, özellikle doğal güzellikleri ve yaban hayatı ile öne çıkarken, aynı zamanda bölgenin tarihi geçmişi de dikkat çekicidir. Ziyaretçiler, burada hem doğayı keşfedebilir hem de tarihi tentanglarını öğrenebilirler.
+Antalya-Ermenek-Göktepe-Karaçam milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Milli park, özellikle doğal güzellikleri ve yaban hayatı ile öne çıkarken, aynı zamanda bölgenin tarihi geçmişi de dikkat çekicidir. Ziyaretçiler, burada hem doğayı keşfedebilir hem de tarihi tentanglarını öğrenebilirler.
 
 ## Tarihçe
 

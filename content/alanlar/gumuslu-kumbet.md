@@ -29,7 +29,7 @@ wikidata_id: "Q135582823"
 
 # Gümüşlü Kümbet
 
-Gümüşlü Kümbet, Doğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak bilinir. Yakutiye ilçesinde yer alan bu plaj, Erzurum'un en çok ziyaret edilen yerlerinden biridir. 140 hektarlık bir alana sahip olan Gümüşlü Kümbet, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu büyüklük, ziyaretçilerin rahatça güneşlenmeleri ve deniz keyfi yapabilmeleri için yeterli alan sunar. Gümüşlü Kümbet, özellikle yaz aylarında ziyaretçilerini ağırlar. Bu dönemde, plajın çevresinde çeşitli etkinlikler ve aktiviteler düzenlenir.
+Gümüşlü Kümbet, Doğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak bilinir. Yakutiye ilçesinde yer alan bu plaj, Erzurum'un en çok ziyaret edilen yerlerinden biridir. Bu büyüklük, ziyaretçilerin rahatça güneşlenmeleri ve deniz keyfi yapabilmeleri için yeterli alan sunar. Gümüşlü Kümbet, özellikle yaz aylarında ziyaretçilerini ağırlar. Bu dönemde, plajın çevresinde çeşitli etkinlikler ve aktiviteler düzenlenir.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Gümüşlü Kümbet, Doğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekic
 
 ## Flora ve Fauna
 
-Gümüşlü Kümbet ve çevresinde, çeşitli bitki türleri ve fauna bulunur. Bu bölge, özellikle yaz aylarında ziyaret edildiğinde, etrafındaki dağlarda ve ovalarda yetişen çiçekler ve ağaçlar ile ziyaretçilerini karşılar. Gümüşlü Kümbet'in etrafındaki dağlarda, genellikle çam ve köknar ağaçları bulunur. Bu ağaçlar, plajın etrafındaki manzaranın daha da güzel olmasını sağlar. Fauna açısından, Gümüşlü Kümbet ve çevresinde, çeşitli kuş türleri ve diğer canlılar bulunur. Bu canlılar, bölgenin ekolojik dengesini korumak açısından önemlidir. Gümüşlü Kümbet, doğal güzellikleri ve fauna çeşitliliği ile ziyaretçilerini cezbeder.
+Gümüşlü Kümbet ve çevresinde, çeşitli bitki türleri ve fauna bulunur. Bu bölge, özellikle yaz aylarında ziyaret edildiğinde, etrafındaki dağlarda ve ovalarda yetişen çiçekler ve ağaçlar ile ziyaretçilerini karşılar. Gümüşlü Kümbet'in etrafındaki dağlarda, genellikle çam ve köknar ağaçları bulunur. Bu ağaçlar, plajın etrafındaki manzaranın daha da güzel olmasını sağlar. Fauna açısından, Gümüşlü Kümbet ve çevresinde, çeşitli kuş türleri ve diğer canlılar bulunur. Gümüşlü Kümbet, doğal güzellikleri ve fauna çeşitliliği ile ziyaretçilerini cezbeder.
 
 ## Ziyaret Bilgileri
 

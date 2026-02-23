@@ -22,7 +22,7 @@ wikidata_id: "Q108227208"
 
 # Amasya-Almus-Baraj Sedir
 
-Amasya-Almus-Baraj Sedir, Karadeniz Bölgesi'nin güzide illerinden Amasya'da bulunmaktadır. Bu milli park, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çekmektedir. Sedir ormanları, çeşitli bitki türleri ve yaban hayatı ile ziyaretçilerini büyülemektedir. Konum itibariyle, Karadeniz Bölgesi'nin en güzel noktalarından birini oluşturmaktadır.
+Amasya-Almus-Baraj Sedir, Karadeniz Bölgesi'nin güzide illerinden Amasya'da bulunmaktadır. Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çekmektedir. Sedir ormanları, çeşitli bitki türleri ve yaban hayatı ile ziyaretçilerini büyülemektedir. Konum itibariyle, Karadeniz Bölgesi'nin en güzel noktalarından birini oluşturmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Amasya-Almus-Baraj Sedir'in tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Amasya-Almus-Baraj Sedir, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, sedir ormanları, çeşitli bitki türleri ve yaban hayatı ile zengin bir doğaya sahiptir. Milli park, Almus Barajı'nıninde yer almaktadır. Bu baraj, bölgenin su kaynaklarını düzenlemektedir. Coğrafi olarak, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyan bu milli park, dağlık ve engebeli bir araziye sahiptir. İklim olarak, Karadeniz Bölgesi'nin ılıman iklimini paylaşmaktadır. Bu milli park, ziyaretçilerine, doğal güzellikleri ve fauna çeşitliliği ile birlikte, coğrafi olarak da zengin bir deneyim sunmaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil etmektedir.
+Amasya-Almus-Baraj Sedir, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, sedir ormanları, çeşitli bitki türleri ve yaban hayatı ile zengin bir doğaya sahiptir. Milli park, Almus Barajı'nıninde yer almaktadır. Bu baraj, bölgenin su kaynaklarını düzenlemektedir. Coğrafi olarak, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyan bu milli park, dağlık ve engebeli bir araziye sahiptir. İklim olarak, Karadeniz Bölgesi'nin ılıman iklimini paylaşmaktadır. Bu milli park, ziyaretçilerine, doğal güzellikleri ve fauna çeşitliliği ile birlikte, coğrafi olarak da zengin bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

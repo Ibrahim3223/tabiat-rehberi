@@ -28,7 +28,7 @@ wikidata_id: "Q31552591"
 
 # Hanoşki Tepesi
 
-Hanoşki Tepesi, Mardin'in tarihi ve doğal güzellikleri ile dikkat çeken bir bölgedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini bekliyor. Bu tepe, Mardin'in coğrafi yapısını ve tarihi geçmişi hakkında bilgi edinmek isteyenler için ideal bir destinasyondur. Hanoşki Tepesi, Mardin'in merkezine yakın bir konumda bulunmakta ve ulaşımı oldukça kolaydır. Buraya gelerek, Mardin'in tarihi ve doğal güzelliklerini keşfedebilirsiniz.
+Hanoşki Tepesi, Mardin'in tarihi ve doğal güzellikleri ile dikkat çeken bir bölgedir. Bu tepe, Mardin'in coğrafi yapısını ve tarihi geçmişi hakkında bilgi edinmek isteyenler için ideal bir destinasyondur. Hanoşki Tepesi, Mardin'in merkezine yakın bir konumda bulunmakta ve ulaşımı oldukça kolaydır. Buraya gelerek, Mardin'in tarihi ve doğal güzelliklerini keşfedebilirsiniz.
 
 ## Tarihçe
 

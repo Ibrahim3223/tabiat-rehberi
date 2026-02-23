@@ -28,7 +28,7 @@ wikidata_id: "Q31389577"
 
 # Kestanelik Tepesi
 
-Kestanelik Tepesi, Marmara Bölgesi'nin en güzel köşelerinden biri olan Balıkesir'de yer alıyor. Bu tepenin etrafı, yaklaşık 140 hektarlık bir yeşil alanla çevrili ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Kestanelik Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini kendisine çekiyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Burada, mevsimsel değişimlere göre farklı canlılara rastlama mümkün. Kestanelik Tepesi, doğa severlerin ve tarih meraklılarının mutlaka ziyaret etmesi gereken bir yer.
+Kestanelik Tepesi, Marmara Bölgesi'nin en güzel köşelerinden biri olan Balıkesir'de yer alıyor. Kestanelik Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini kendisine çekiyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Burada, mevsimsel değişimlere göre farklı canlılara rastlama mümkün. Kestanelik Tepesi, doğa severlerin ve tarih meraklılarının mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

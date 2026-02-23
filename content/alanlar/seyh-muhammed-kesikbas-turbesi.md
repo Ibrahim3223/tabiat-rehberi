@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Muhammed Kesikbaş Türbesi"
 date: "2026-01-10T06:29:14.658Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şırnak"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391835"
 
 # Şeyh Muhammed Kesikbaş Türbesi
 
-Şeyh Muhammed Kesikbaş Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini merkezlerinden biri olarak bilinir. Cizre/Şırnak'ta yer alan bu türbe, çevresindeki doğal güzellikleriyle dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içine çekmektedir. Şeyh Muhammed Kesikbaş Türbesi, hem dini hem de doğal güzellikleri bir arada sunan özel bir destinasyondur. Tarihi ve coğrafi konumuyla birlikte, ziyaretçilerine zengin bir deneyim sunmaktadır.
+Şeyh Muhammed Kesikbaş Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini merkezlerinden biri olarak bilinir. Cizre/Şırnak'ta yer alan bu türbe, çevresindeki doğal güzellikleriyle dikkat çekmektedir. Şeyh Muhammed Kesikbaş Türbesi, hem dini hem de doğal güzellikleri bir arada sunan özel bir destinasyondur. Tarihi ve coğrafi konumuyla birlikte, ziyaretçilerine zengin bir deneyim sunmaktadır.
 
 ## Tarihçe
 

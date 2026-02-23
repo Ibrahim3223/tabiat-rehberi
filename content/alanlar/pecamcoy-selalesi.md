@@ -28,7 +28,7 @@ wikidata_id: "Q130366633"
 
 # Peçamçoy Şelalesi
 
-Peçamçoy Şelalesi, Rize'nin dağlık bölgesinde yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şelalenin etrafındaki orman, ziyaretçilere huzurlu bir ortam sunar. Şelalenin yüksekliği ve suyu, ziyaretçileri büyüler ve doğal güzelliğin tadını çıkarmanıza olanak tanır. Peçamçoy Şelalesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yerdir. Ziyaretçiler, şelalenin etrafındaki ormanları keşfedebilir ve bölgeye özgü flora ve fauna hakkında bilgi edinebilirler.
+Peçamçoy Şelalesi, Rize'nin dağlık bölgesinde yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Şelalenin yüksekliği ve suyu, ziyaretçileri büyüler ve doğal güzelliğin tadını çıkarmanıza olanak tanır. Peçamçoy Şelalesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yerdir. Ziyaretçiler, şelalenin etrafındaki ormanları keşfedebilir ve bölgeye özgü flora ve fauna hakkında bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Peçamçoy Şelalesi, tarihsel olarak önemli bir bölgede yer alır. Bölge, y�
 
 ## Coğrafya
 
-Peçamçoy Şelalesi, Rize'nin dağlık bölgesinde yer alır ve Karadeniz Bölgesi'nin coğrafi olarak en önemli bölgelerinden biridir. Şelalenin etrafındaki orman, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şelalenin yüksekliği, 50 metreyi aşar ve suyu, ziyaretçileri büyüler. Bölge, aynı zamanda flora ve fauna açısından zengindir ve ziyaretçiler, şelalenin etrafındaki ormanda, bölgenin doğal güzelliğini ve çeşitliliğini görebilirler. Peçamçoy Şelalesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yerdir ve ziyaretçiler, şelalenin etrafındaki ormanları keşfedebilir ve bölgeye özgü flora ve fauna hakkında bilgi edinebilirler. Şelalenin suyu, bölgenin ekolojik dengesini korur ve ziyaretçiler, şelalenin etrafındaki ormanda, bölgenin doğal güzelliğini ve çeşitliliğini görebilirler.
+Peçamçoy Şelalesi, Rize'nin dağlık bölgesinde yer alır ve Karadeniz Bölgesi'nin coğrafi olarak en önemli bölgelerinden biridir. Şelalenin yüksekliği, 50 metreyi aşar ve suyu, ziyaretçileri büyüler. Bölge, aynı zamanda flora ve fauna açısından zengindir ve ziyaretçiler, şelalenin etrafındaki ormanda, bölgenin doğal güzelliğini ve çeşitliliğini görebilirler. Peçamçoy Şelalesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yerdir ve ziyaretçiler, şelalenin etrafındaki ormanları keşfedebilir ve bölgeye özgü flora ve fauna hakkında bilgi edinebilirler. Şelalenin suyu, bölgenin ekolojik dengesini korur ve ziyaretçiler, şelalenin etrafındaki ormanda, bölgenin doğal güzelliğini ve çeşitliliğini görebilirler.
 
 ## Flora ve Fauna
 

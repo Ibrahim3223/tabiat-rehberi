@@ -28,7 +28,7 @@ wikidata_id: "Q31390038"
 
 # Heylik Tepesi
 
-Ankara'nın doğal güzelliklerinden biri olan Heylik Tepesi, İç Anadolu Bölgesi'nde yer alır. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Heylik Tepesi, ziyaretçilerini doğayla baş başa bırakarak, stres ve yorgunluktan arınmalarını sağlar. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkündür. Ziyaretçiler, bu yeşil cennette yürüyüş yapabilir, piknik düzenleyebilir veya sadece doğanın seslerini dinleyerek rahatlama şansına sahip olabilirler.
+Ankara'nın doğal güzelliklerinden biri olan Heylik Tepesi, İç Anadolu Bölgesi'nde yer alır. Heylik Tepesi, ziyaretçilerini doğayla baş başa bırakarak, stres ve yorgunluktan arınmalarını sağlar. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkündür. Ziyaretçiler, bu yeşil cennette yürüyüş yapabilir, piknik düzenleyebilir veya sadece doğanın seslerini dinleyerek rahatlama şansına sahip olabilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Heylik Tepesi, yüzyıllar boyunca Anadolu'nun tarihinde önemli bir rol oynamı
 
 ## Coğrafya
 
-Heylik Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak oldukça zengin bir yapıya sahiptir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Bu bölge, genellikle step ikliminin hüküm sürdüğü bir bölgede yer alır, ancak Heylik Tepesi ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin eteklerinde, küçük dere ve çaylar bulunur ve bu su kaynakları, bölgenin ekolojisini destekler. Heylik Tepesi, Ankara'nın merkezine oldukça yakın bir konumda yer alır, ancak şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Ziyaretçiler, bu doğal güzelliği keşfederek, stres ve yorgunluktan arınabilirler.
+Heylik Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak oldukça zengin bir yapıya sahiptir. Bu bölge, genellikle step ikliminin hüküm sürdüğü bir bölgede yer alır, ancak Heylik Tepesi ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin eteklerinde, küçük dere ve çaylar bulunur ve bu su kaynakları, bölgenin ekolojisini destekler. Heylik Tepesi, Ankara'nın merkezine oldukça yakın bir konumda yer alır, ancak şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Ziyaretçiler, bu doğal güzelliği keşfederek, stres ve yorgunluktan arınabilirler.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Heylik Tepesi'ni ziyaret etmek, Ankara'da bulunmak için ideal bir fırsattır. 
 ## İlginç Bilgiler
 
 - Heylik Tepesi, Ankara'nın doğal güzelliklerinden biridir.
-- 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bu bölge, genellikle step ikliminin hüküm sürdüğü bir bölgede yer alır.
 - Heylik Tepesi, yüzyıllar boyunca Anadolu'nun tarihinde önemli bir rol oynamıştır.
 - Ziyaretçiler, buraya toplu taşıma araçları veya özel araçlarıyla ulaşabilirler.

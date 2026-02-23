@@ -52,7 +52,7 @@ Mevsimsel değişimlere göre şekillenen iklim karakteri, Büyükhacı Dağı'n
 
 Büyükhacı Dağı, Edirne'nin güzide bir köşesinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Geçiş ikliminin hakim olduğu bu bölgede, karma ormanlar ve göçmen kuş rotaları bir araya geliyor.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçlarında rengarenk çiçekler açar. Sonbaharda ise, göçmen kuşlar bu dağları konaklama noktaları olarak kullanır. Dağın yükseklik zonlarına göre değişen flora, alpin bitki türlerine ev sahipliği yapar. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçlarında rengarenk çiçekler açar. Sonbaharda ise, göçmen kuşlar bu dağları konaklama noktaları olarak kullanır. Dağın yükseklik zonlarına göre değişen flora, alpin bitki türlerine ev sahipliği yapar.
 
 Dağın yaban hayatı da oldukça zengin. Memeliler, kuşlar ve sürüngenler bu dağlarda yaşam alanları bulur. Dağın ekolojik değeri, bu canlıların yaşam alanlarını koruma altına almasıdır. Bu nedenle, Büyükhacı Dağı'nın korunması büyük önem taşır.
 

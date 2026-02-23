@@ -29,7 +29,7 @@ wikidata_id: "Q31386111"
 
 # Azap Tepe
 
-Azap Tepe, İzmir'in güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar. Azap Tepe'nin eteklerinde, çeşitli değil, çeşitli bitki türleri ve zengin fauna found değil, bulunur. Bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
+Azap Tepe, İzmir'in güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Azap Tepe'nin eteklerinde, çeşitli değil, çeşitli bitki türleri ve zengin fauna found değil, bulunur. Bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
 
 ## Tarihçe
 

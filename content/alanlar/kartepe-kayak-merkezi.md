@@ -34,7 +34,7 @@ Kartepe Kayak Merkezi, Kocaeli'nin Kartepe ilçesinde kayak severleri bekleyen b
 
 ## Tarihçe
 
-Kartepe Kayak Merkezi, Kocaeli'nin doğa harikası bir bölgesinde yer alıyor. Bu bölge, tarihin sâu sayfalarında önemli bir yere sahip. Kocaeli, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Hitit, Pers, Roma ve Osmanlı gibi medeniyetler bu topraklarda izler bırakmışlar. 
+Kartepe Kayak Merkezi, Kocaeli'nin doğa harikası bir bölgesinde yer alıyor. Bu bölge, tarihin derin sayfalarında önemli bir yere sahip. Kocaeli, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Hitit, Pers, Roma ve Osmanlı gibi medeniyetler bu topraklarda izler bırakmışlar.
 
 Bu bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunmasıyla önemli bir stratejik öneme sahip. İnsanların bu doğal alanlarla ilişkisi, yaylacılık, hayvancılık ve ticaretle şekillenmiş. Kış aylarında karla kaplanan dağlar, yaz aylarında ise yeşilin tüm tonlarını sunuyor. Bu mevsimsel değişim, bölgenin ekolojik zenginliğini gösterirken, aynı zamanda insanların bu doğal güzelliklerle olan bağını da vurguluyor.
 

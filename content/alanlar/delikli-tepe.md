@@ -28,7 +28,7 @@ wikidata_id: "Q31385876"
 
 # Delikli Tepe
 
-Delikli Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan önemli bir doğal güzellik olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Delikli Tepe, bölgeye gelen ziyaretçiler için önemli bir çekim merkezi oluşturuyor. Ziyaretçiler, bu tepeye çıktıklarında, çevreyi panoramik olarak izleme fırsatı buluyorlar. Ayrıca, tepe etrafında 다양한 bitki türleri ve zengin bir fauna bulunması, bu alanı doğa severler için önemli bir destinasyon haline getiriyor.
+Delikli Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan önemli bir doğal güzellik olarak dikkat çekiyor. Delikli Tepe, bölgeye gelen ziyaretçiler için önemli bir çekim merkezi oluşturuyor. Ziyaretçiler, bu tepeye çıktıklarında, çevreyi panoramik olarak izleme fırsatı buluyorlar. Ayrıca, tepe etrafında 다양한 bitki türleri ve zengin bir fauna bulunması, bu alanı doğa severler için önemli bir destinasyon haline getiriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Delikli Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Delikli Tepe, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, çevresindeki dağlarla birlikte bir bütün olarak kabul ediliyor ve bölgeye gelen ziyaretçiler için önemli bir doğal güzellik sunuyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Delikli Tepe'nin etrafında, çeşitli bitki türleri ve zengin bir fauna bulunuyor. Bu bitki türleri, mevsimsel olarak değişim gösteriyor ve tepeyi yıl boyunca farklı bir güzelliğe sahip oluyor. Ayrıca, tepeyi çevreleyen dağlar, bölgeye gelen ziyaretçiler için önemli bir panorama sunuyor. Delikli Tepe, coğrafi olarak önemli bir konumda bulunuyor ve bölgeye gelen ziyaretçiler için önemli bir doğal güzellik oluşturuyor.
+Delikli Tepe, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bu tepe, çevresindeki dağlarla birlikte bir bütün olarak kabul ediliyor ve bölgeye gelen ziyaretçiler için önemli bir doğal güzellik sunuyor. Delikli Tepe'nin etrafında, çeşitli bitki türleri ve zengin bir fauna bulunuyor. Bu bitki türleri, mevsimsel olarak değişim gösteriyor ve tepeyi yıl boyunca farklı bir güzelliğe sahip oluyor. Ayrıca, tepeyi çevreleyen dağlar, bölgeye gelen ziyaretçiler için önemli bir panorama sunuyor. Delikli Tepe, coğrafi olarak önemli bir konumda bulunuyor ve bölgeye gelen ziyaretçiler için önemli bir doğal güzellik oluşturuyor.
 
 ## Flora ve Fauna
 

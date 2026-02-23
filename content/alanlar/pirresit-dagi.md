@@ -52,9 +52,9 @@ Bölgenin ekosistem bağlantıları açısından, Pirreşit Dağı, Van Gölü'n
 
 Pirreşit Dağı, Van'ın yüksek dağ ekolojisinin tüm güzelliğini sergiliyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, alpin flora ve fauna için ideal bir ortam sunuyor.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin çayırlar, endemik türlerle dolu ve mevsimsel değişimlerle birlikte, çiçekler sonbahara kadar dağların güzelliğini artırıyor. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin çayırlar, endemik türlerle dolu ve mevsimsel değişimlerle birlikte, çiçekler sonbahara kadar dağların güzelliğini artırıyor.
 
-Dağın yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri, dağların yüksekliklerine adapte olmuş ve burada yaşamını sürdürüyor. Kuşlar, özellikle göç mevsiminde, dağların gökyüzünü süsleyen önemli bir unsur. 
+Dağın yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri, dağların yüksekliklerine adapte olmuş ve burada yaşamını sürdürüyor. Kuşlar, özellikle göç mevsiminde, dağların gökyüzünü süsleyen önemli bir unsur.
 
 Pirreşit Dağı, yüksek dağ ekosisteminin korunması açısından büyük önem taşıyor. Bu ekosistem, birçok endemik tür için yaşam alanı sunuyor ve bu türlerin korunması için önemli bir rol oynuyor.
 

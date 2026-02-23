@@ -1,7 +1,7 @@
 ---
 title: "Hadra Hamamı"
 date: "2026-01-09T23:31:55.492Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739065"
 
 # Hadra Hamamı
 
-Hadra Hamamı, Mersin'in en güzel plajlarından biri olarak bilinen bir doğal güzelliktir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile ziyaretçilerini etkilemektedir. Hadra Hamamı, özellikle yaz aylarında sıcaktan bunalanların serinlemek için tercih ettiği bir yerdir. Ayrıca, bu bölgeye gelen ziyaretçiler, burada bulunan çeşitli restoranlarda deniz ürünleri ve diğer lezzetleri tadabilirler. Hadra Hamamı, Mersin'in turizm açısından önemli bir merkezi olarak bilinmektedir.
+Hadra Hamamı, Mersin'in en güzel plajlarından biri olarak bilinen bir doğal güzelliktir. Hadra Hamamı, özellikle yaz aylarında sıcaktan bunalanların serinlemek için tercih ettiği bir yerdir. Ayrıca, bu bölgeye gelen ziyaretçiler, burada bulunan çeşitli restoranlarda deniz ürünleri ve diğer lezzetleri tadabilirler. Hadra Hamamı, Mersin'in turizm açısından önemli bir merkezi olarak bilinmektedir.
 
 ## Tarihçe
 

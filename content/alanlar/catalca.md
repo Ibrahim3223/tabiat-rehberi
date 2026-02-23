@@ -29,7 +29,7 @@ wikidata_id: "Q34828529"
 
 # Çatalca
 
-Mardin'in tarihi ve doğal güzelliklerinin bir arada bulunduğu Çatalca, ziyaretçilerini bekleyen bir hazine. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Çatalca, coğrafi konumu itibariyle de önemli bir noktada yer alıyor. Güneydoğu Anadolu Bölgesi'nin kalbinde, Mardin şehrinin bir parçası olarak karşımıza çıkıyor. Tarihi geçmişi, zengin flora ve fauna çeşitliliği ile birlikte, bu bölgenin keşfedilmeye değer olduğunu söyleme mümkün. Çatalca, hem doğa severlerin hem de tarih meraklılarının ilgisini çekebilecek bir destinasyon olarak görülüyor.
+Mardin'in tarihi ve doğal güzelliklerinin bir arada bulunduğu Çatalca, ziyaretçilerini bekleyen bir hazine. Çatalca, coğrafi konumu itibariyle de önemli bir noktada yer alıyor. Güneydoğu Anadolu Bölgesi'nin kalbinde, Mardin şehrinin bir parçası olarak karşımıza çıkıyor. Tarihi geçmişi, zengin flora ve fauna çeşitliliği ile birlikte, bu bölgenin keşfedilmeye değer olduğunu söyleme mümkün. Çatalca, hem doğa severlerin hem de tarih meraklılarının ilgisini çekebilecek bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mardin'in tarihi ve doğal güzelliklerinin bir arada bulunduğu Çatalca, ziyar
 
 ## Coğrafya
 
-Çatalca, Mardin şehrinin bir parçası olarak, Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak önemli bir noktada . Çatalca'nın coğrafi konumu, bölgenin iklimini ve flora/fauna çeşitliliğini etkiliyor. Çatalca, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Çatalca'nın coğrafi yapısı, bölgenin doğal güzelliklerini de etkiliyor. Çatalca, dağların ve ovaların bir araya geldiği bir bölgede yer alıyor. Bu nedenle, bölgenin coğrafi çeşitliliği, Çatalca'nın güzelliğini artırıyor. Çatalca'nın iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak, sıcak ve kurak bir iklim. Bu iklim, bölgenin flora ve fauna çeşitliliğini de etkiliyor. Çatalca, coğrafi konumu itibariyle, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor.
+Çatalca, Mardin şehrinin bir parçası olarak, Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak önemli bir noktada . Çatalca'nın coğrafi konumu, bölgenin iklimini ve flora/fauna çeşitliliğini etkiliyor. Çatalca, yaklaşık 140 hektarlık bir alanı kapsıyor. Çatalca'nın coğrafi yapısı, bölgenin doğal güzelliklerini de etkiliyor. Çatalca, dağların ve ovaların bir araya geldiği bir bölgede yer alıyor. Bu nedenle, bölgenin coğrafi çeşitliliği, Çatalca'nın güzelliğini artırıyor. Çatalca'nın iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine uygun olarak, sıcak ve kurak bir iklim. Bu iklim, bölgenin flora ve fauna çeşitliliğini de etkiliyor. Çatalca, coğrafi konumu itibariyle, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

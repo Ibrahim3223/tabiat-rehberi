@@ -23,7 +23,7 @@ wikidata_id: "Q108227161"
 
 # Örümcek Ormani Goknari 1
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Örümcek Ormani Goknari 1, 140 hektarlık geniş bir yeşil alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın kucağına davet ediyor. Örümcek Ormani Goknari 1, zengin flora ve fauna çeşitliliğiyle dikkat çekerek, doğa severlerin ilgisini çekmeyi başarmaktadır. Bu doğal alan, hem doğa yürüyüşleri hem de piknik için ideal bir ortam sunmaktadır. 140 hektarlık bu yeşil cennet, ziyaretçilerine geniş bir faaliyet yelpazesi sunuyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan Örümcek Ormani Goknari 1, 140 hektarlık geniş bir yeşil alana sahiptir. Örümcek Ormani Goknari 1, zengin flora ve fauna çeşitliliğiyle dikkat çekerek, doğa severlerin ilgisini çekmeyi başarmaktadır. Bu doğal alan, hem doğa yürüyüşleri hem de piknik için ideal bir ortam sunmaktadır. 140 hektarlık bu yeşil cennet, ziyaretçilerine geniş bir faaliyet yelpazesi sunuyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ wikidata_id: "Q108227161"
 ## İlginç Bilgiler
 
 - Örümcek Ormani Goknari 1, 140 hektarlık bir yeşil alana sahiptir.
-- Bu doğal alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Örümcek Ormani Goknari 1, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğal alandır.
 - Bu doğal alan, ziyaretçilerine geniş bir faaliyet yelpazesi sunuyor.
 - Örümcek Ormani Goknari 1, flora ve fauna çeşitliliği itibariyle Türkiye'nin önemli doğal alanlarından biridir.

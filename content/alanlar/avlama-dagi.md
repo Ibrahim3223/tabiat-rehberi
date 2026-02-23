@@ -32,7 +32,7 @@ Mersin'in dağlık bölgelerinde yer alan Avlama Dağı, bölgenin doğal güzel
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hitit, Pers ve Roma uygarlıkları bu topraklarda yaşamış, her biri bölgenin kültürel dokusuna katkıda bulunmuştur. Avlama Dağı da, bu zengin tarihsel mirasın bir parçası olarak öne çıkar. Türkiye'de doğal alanlar, insanoğlunun varoluşundan bu yana önemli bir role sahiptir. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve kültür için hayati önemini vurgular.
+Mersin bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hitit, Pers ve Roma uygarlıkları bu topraklarda yaşamış, her biri bölgenin kültürel dokusuna katkıda bulunmuştur. Avlama Dağı da, bu zengin tarihsel mirasın bir parçası olarak öne çıkar. Türkiye'de doğal alanlar, insanoğlunun varoluşundan bu yana önemli bir role sahiptir. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve kültür için hayati önemini vurgular.
 
 Avlama Dağı, bölgenin coğrafi yapısını şekillendiren etkenlerden biri olarak görülebilir. İnsanların bu dağla ilişkisi, yüzyıllar boyunca sürdü. Yayla ve otlaklar, bölgenin ekonomisinin temelini oluşturdu. Ticaret yolları da, bu doğal güzelliklerin arasında geçerek, bölgenin kültürel zenginliğine katkıda bulundu. Avlama Dağı, Mersin'in doğal ve tarihsel mirasının bir parçası olarak, ziyaretçilerini bekliyor.
 

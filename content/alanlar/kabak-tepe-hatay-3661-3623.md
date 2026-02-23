@@ -66,5 +66,5 @@ Kabak Tepe, Hatay'da yer alan bir dağdır. Buraya gitmek için Hatay'dan hareke
 - Bölge, zengin flora ve fauna çeşitliliğine sahiptir, 36.61 ve 36.23 enlem derecelerinde bulunur.
 - Hatay'ın önemli doğal güzelliklerinden biri olan bu tepe, trekking ve doğa yürüyüşü severler arasında popülerdir.
 - Kabak Tepe'nin yüksekliği ve coğrafi konumu, bölgede çeşitli bitki türlerinin yetişmesine olanak tanır.
-- Amanos Dağları'nın bir parçası olan bu bölge, aynı zamanda históri ve kültürel açıdan da zengin bir geçmişe sahiptir.
+- Amanos Dağları'nın bir parçası olan bu bölge, aynı zamanda tarihi ve kültürel açıdan da zengin bir geçmişe sahiptir.
 - Kabak Tepe ve çevresindeki Amanos Dağları, birçok endemik bitki türüne ev sahipliği yapar.

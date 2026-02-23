@@ -22,7 +22,7 @@ wikidata_id: "Q108228847"
 
 # Çelebibağ Sazlıkları Sulak Alanı
 
-140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri. Çelebibağ Sazlıkları Sulak Alanı, birçok canlı türünün yaşam alanı olarak büyük önem taşıyor. Bu bölge, hem doğa severler hem de bilim insanları için bir hazine. Çelebibağ Sazlıkları Sulak Alanı, birçok bitki ve hayvan türünü barındıran zengin bir ekosisteme sahip. Burada, doğanın güzelliğini ve çeşitliliğini yakından keşfetme mümkün.
+ Çelebibağ Sazlıkları Sulak Alanı, birçok canlı türünün yaşam alanı olarak büyük önem taşıyor. Bu bölge, hem doğa severler hem de bilim insanları için bir hazine. Çelebibağ Sazlıkları Sulak Alanı, birçok bitki ve hayvan türünü barındıran zengin bir ekosisteme sahip. Burada, doğanın güzelliğini ve çeşitliliğini yakından keşfetme mümkün.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108228847"
 
 ## Coğrafya
 
-Çelebibağ Sazlıkları Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Çelebibağ Sazlıkları Sulak Alanı, birçok farklı bitki ve hayvan türünü barındıran zengin bir ekosisteme sahip. Bu bölge, sulak alanların karakteristiği olan sazlıklar, bataklıklar ve göllerle kaplı. Çelebibağ Sazlıkları Sulak Alanı, birçok farklı habitatı barındıran ve bu nedenle, birçok canlı türünün yaşam alanı olarak büyük önem taşıyor. Bu bölge, aynı zamanda, birçok önemli göç yolu üzerinde yer alıyor ve bu nedenle, birçok kuş türünün göç rotalarında önemli bir durak olarak kullanılıyor.
+Çelebibağ Sazlıkları Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Çelebibağ Sazlıkları Sulak Alanı, birçok farklı bitki ve hayvan türünü barındıran zengin bir ekosisteme sahip. Bu bölge, sulak alanların karakteristiği olan sazlıklar, bataklıklar ve göllerle kaplı. Çelebibağ Sazlıkları Sulak Alanı, birçok farklı habitatı barındıran ve bu nedenle, birçok canlı türünün yaşam alanı olarak büyük önem taşıyor. Bu bölge, aynı zamanda, birçok önemli göç yolu üzerinde yer alıyor ve bu nedenle, birçok kuş türünün göç rotalarında önemli bir durak olarak kullanılıyor.
 
 ## Flora ve Fauna
 

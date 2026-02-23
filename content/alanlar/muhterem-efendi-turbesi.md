@@ -1,7 +1,7 @@
 ---
 title: "Muhterem Efendi Türbesi"
 date: "2026-01-10T07:15:16.626Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390971"
 
 # Muhterem Efendi Türbesi
 
-Muhterem Efendi Türbesi, Fatih, İstanbul'da bulunan bir tarihi türbe ve plajdır. 140 hektarlık bir alan üzerinde kurulan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tarihi geçmişi ve doğal güzelliği ile ziyaretçilerin ilgisini çeker. Muhterem Efendi Türbesi, İstanbul'un kalbinde bir doğa ve tarih cenneti olarak tanımlanabilir. Ziyaretçiler, hem tarihi bir türbe hem de güzel bir plajı aynı anda deneyimleyebilirler.
+Muhterem Efendi Türbesi, Fatih, İstanbul'da bulunan bir tarihi türbe ve plajdır. Tarihi geçmişi ve doğal güzelliği ile ziyaretçilerin ilgisini çeker. Muhterem Efendi Türbesi, İstanbul'un kalbinde bir doğa ve tarih cenneti olarak tanımlanabilir. Ziyaretçiler, hem tarihi bir türbe hem de güzel bir plajı aynı anda deneyimleyebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Muhterem Efendi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. �
 
 ## Coğrafya
 
-Muhterem Efendi Türbesi, Fatih, İstanbul'da bulunmaktadır. Marmara Bölgesi'nin önemli bir częsi olan bu bölge, yüksek bir konumdadir. Türbe ve plaj, 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bölge, deniz ve kara iklimlerinin birleştiği bir noktada bulunmaktadır. Kışın ılıman, yazın sıcak ve nemli bir iklimi vardır. Ziyaretçiler, türbenin ve plajın güzelliğini जबकar, aynı zamanda İstanbul'un tarihi ve doğal güzelliğini de deneyimleyebilirler. Muhterem Efendi Türbesi, İstanbul'un kalbinde bir doğa ve tarih cenneti olarak tanımlanabilir. Türbe ve plaj, ziyaretçilere hem tarihi hem de doğal güzelliği sunar.
+Muhterem Efendi Türbesi, Fatih, İstanbul'da bulunmaktadır. Marmara Bölgesi'nin önemli bir częsi olan bu bölge, yüksek bir konumdadir. Türbe ve plaj, 140 hektarlık bir alan üzerinde kurulmuştur. Bölge, deniz ve kara iklimlerinin birleştiği bir noktada bulunmaktadır. Kışın ılıman, yazın sıcak ve nemli bir iklimi vardır. Ziyaretçiler, türbenin ve plajın güzelliğini जबकar, aynı zamanda İstanbul'un tarihi ve doğal güzelliğini de deneyimleyebilirler. Muhterem Efendi Türbesi, İstanbul'un kalbinde bir doğa ve tarih cenneti olarak tanımlanabilir. Türbe ve plaj, ziyaretçilere hem tarihi hem de doğal güzelliği sunar.
 
 ## Flora ve Fauna
 

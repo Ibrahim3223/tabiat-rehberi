@@ -1,7 +1,7 @@
 ---
 title: "Tütünsüz Baba Türbesi"
 date: "2026-01-10T06:59:21.777Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,11 +29,11 @@ wikidata_id: "Q131390790"
 
 # Tütünsüz Baba Türbesi
 
-Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için Tütünsüz Baba Türbesi, önemli bir durak noktası. Bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alana yayılmış ve ziyaretçilerini tarihi bir atmosfere davet ediyor. Tütünsüz Baba Türbesi, Edirne'nin merkezinde yer alıyor ve şehrin diğer tarihi mekanlarına da yakınlığıyla dikkat çekiyor. Burada, hem doğal güzellikleri hem de tarihi yapıları yakından inceleyebilirsiniz.
+Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için Tütünsüz Baba Türbesi, önemli bir durak noktası. Tütünsüz Baba Türbesi, Edirne'nin merkezinde yer alıyor ve şehrin diğer tarihi mekanlarına da yakınlığıyla dikkat çekiyor. Burada, hem doğal güzellikleri hem de tarihi yapıları yakından inceleyebilirsiniz.
 
 ## Tarihçe
 
-Tütünsüz Baba Türbesi'nin tarihi geçmişi, Edirne'nin zengin kültürel mirasının bir parçasını oluşturuyor. Bu mekan, yüzyıllar boyunca önemli bir dini merkez olarak hizmet vermiş ve birçok kişinin ziyaret ettiği kutsal bir yer olarak biliniyor. Tütünsüz Baba Türbesi, tarihi yapıları ve kültürel önemini korurken, aynı zamanda ziyaretçilerine huzurlu bir atmosfer sunuyor. Burada, tarihi ve kültürel zenginliklerin bir araya geldiği özel bir expérience yaşayabilirsiniz.
+Tütünsüz Baba Türbesi'nin tarihi geçmişi, Edirne'nin zengin kültürel mirasının bir parçasını oluşturuyor. Bu mekan, yüzyıllar boyunca önemli bir dini merkez olarak hizmet vermiş ve birçok kişinin ziyaret ettiği kutsal bir yer olarak biliniyor. Tütünsüz Baba Türbesi, tarihi yapıları ve kültürel önemini korurken, aynı zamanda ziyaretçilerine huzurlu bir atmosfer sunuyor. Burada, tarihi ve kültürel zenginliklerin bir araya geldiği özel bir deneyim yaşayabilirsiniz.
 
 ## Coğrafya
 

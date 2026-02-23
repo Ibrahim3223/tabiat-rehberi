@@ -28,7 +28,7 @@ wikidata_id: "Q34903742"
 
 # Sarp Dağı
 
-Çanakkale'nin histórik dokusu içinde gizli bir hazine olarak bulunan Sarp Dağı, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir thếyahat deneyimi sunuyor. Bu dağ, Çanakkale'nin coğrafi çeşitliliğinin önemli bir parçasını oluşturur. Sarp Dağı, Çanakkale'nin zengin tarihini ve doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
+Çanakkale'nin tarihi dokusu içinde gizli bir hazine olarak bulunan Sarp Dağı, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir thếyahat deneyimi sunuyor. Bu dağ, Çanakkale'nin coğrafi çeşitliliğinin önemli bir parçasını oluşturur. Sarp Dağı, Çanakkale'nin zengin tarihini ve doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

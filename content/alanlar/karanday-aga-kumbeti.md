@@ -29,7 +29,7 @@ wikidata_id: "Q135582815"
 
 # Karanday Ağa Kümbeti
 
-Karanday Ağa Kümbeti, Doğu Anadolu Bölgesi'nin Güroymak ilçesinde, Bitlis ilinin sınırında yer alan tarihi ve doğal güzelliklerin birleştiği özel bir nokta. Bu alan, yaklaşık 140 hektarlık bir araziyi kapsıyor; bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Karanday Ağa Kümbeti, hem tarihi önemini hem de doğal güzelliklerini korumuş, ziyaretçilerini doğanın ve tarihin birleştiği bu özel noktaya çekmeyi başarmış bir destinasyon. Güroymak'ın merkezine yakın konumuyla da kolay ulaşılabilirlik sunuyor. Bu özelliği, ziyaretçilerin hem Karanday Ağa Kümbeti'ni hem de Güroymak'ın diğer güzelliklerini keşfetmesine olanak tanıyor.
+Karanday Ağa Kümbeti, Doğu Anadolu Bölgesi'nin Güroymak ilçesinde, Bitlis ilinin sınırında yer alan tarihi ve doğal güzelliklerin birleştiği özel bir nokta. Karanday Ağa Kümbeti, hem tarihi önemini hem de doğal güzelliklerini korumuş, ziyaretçilerini doğanın ve tarihin birleştiği bu özel noktaya çekmeyi başarmış bir destinasyon. Güroymak'ın merkezine yakın konumuyla da kolay ulaşılabilirlik sunuyor. Bu özelliği, ziyaretçilerin hem Karanday Ağa Kümbeti'ni hem de Güroymak'ın diğer güzelliklerini keşfetmesine olanak tanıyor.
 
 ## Tarihçe
 

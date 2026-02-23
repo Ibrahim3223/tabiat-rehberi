@@ -50,9 +50,9 @@ Ada ile çevresi arasındaki ilişkiler, su kaynakları ve ekosistem bağlantıl
 
 ## Flora ve Fauna
 
-Küçükada, Çanakkale'nin kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İklim geçiş bölgesinde yer alan ada, karma ormanların zenginliklerini sunuyor. 
+Küçükada, Çanakkale'nin kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İklim geçiş bölgesinde yer alan ada, karma ormanların zenginliklerini sunuyor.
 
-Bitki örtüsünde, ilkbaharla birlikte lenen çiçekler ve sonbaharın renk cümbüşü hakim. Kıyı bitkileri, ada kıyılarının karakteristik özelliğini oluşturuyor. Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle çeşitlilik gösteriyor. Deniz kuşları, ada ekosisteminin önemli bir parçasını oluşturuyor. 
+Bitki örtüsünde, ilkbaharla birlikte lenen çiçekler ve sonbaharın renk cümbüşü hakim. Kıyı bitkileri, ada kıyılarının karakteristik özelliğini oluşturuyor. Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle çeşitlilik gösteriyor. Deniz kuşları, ada ekosisteminin önemli bir parçasını oluşturuyor.
 
 Küçükada, göçmen kuş rotası üzerinde yer alıyor. Sonbaharda, bu rotada yer alan birçok kuş türünü ada üzerinde gözlemleme mümkün. Ada ekosisteminin izole popülasyonları, ekolojik ilişkiler açısından önemli bir role sahip. Bu relationships, ada canlılarının yaşamını ve çeşitliliğini sürdürmesine katkıda bulunuyor.
 

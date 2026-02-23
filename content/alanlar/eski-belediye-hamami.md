@@ -1,7 +1,7 @@
 ---
 title: "Eski Belediye Hamamı"
 date: "2026-01-09T23:38:04.848Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739159"
 
 # Eski Belediye Hamamı
 
-Eski Belediye Hamamı, Denizli'nin Acıpayam ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir plajdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde geniş bir yeşil alanı kaplıyor. Eski Belediye Hamamı, hem doğal güzelliği hem de tarihi dokusuyla ziyaretçilerini etkiliyor. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Eski Belediye Hamamı, Denizli'nin Acıpayam ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir plajdır. Eski Belediye Hamamı, hem doğal güzelliği hem de tarihi dokusuyla ziyaretçilerini etkiliyor. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Euromos Anıt Mezar"
 date: "2026-01-10T03:44:29.852Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728238"
 
 # Euromos Anıt Mezar
 
-Euromos Anıt Mezar, Muğla'nın Milas ilçesinde yer alan bir tarihi yapıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide bulunmaktadır. Euromos Anıt Mezar, Ege Bölgesi'nin önemli kültür miraslarından biri olarak bilinir. Burada, ziyaretçiler hem tarihi bir yapıyı keşfedebilir hem de doğal güzelliği ile dikkat çeken bir bölgede zaman geçirebilirler. Euromos Anıt Mezar, tarihi ve doğayı sevenler için ideal bir destinasyondur.
+Euromos Anıt Mezar, Muğla'nın Milas ilçesinde yer alan bir tarihi yapıdır. Euromos Anıt Mezar, Ege Bölgesi'nin önemli kültür miraslarından biri olarak bilinir. Burada, ziyaretçiler hem tarihi bir yapıyı keşfedebilir hem de doğal güzelliği ile dikkat çeken bir bölgede zaman geçirebilirler. Euromos Anıt Mezar, tarihi ve doğayı sevenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Euromos Anıt Mezar, yüzyıllar boyunca önemli bir kültür merkezi olarak gö
 
 ## Coğrafya
 
-Euromos Anıt Mezar, Muğla'nın Milas ilçesinde yer alır ve Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu bölge, doğal güzelliği ile dikkat çekmektedir. Euromos Anıt Mezar, çevresi ağaçlarla kaplı bir tepe üzerinde yer alır ve ziyaretçilere geniş bir görüş açısı sunar. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide bulunmaktadır. Euromos Anıt Mezarın bulunduğu bölge, iklim açısından ılıman bir bölgedir ve ziyaretçiler yılın her döneminde bu bölgeyi ziyaret edebilirler. Bu bölgede, çeşitli bitki türleri ve fauna bulunmaktadır. Euromos Anıt Mezar, coğrafi güzelliği ve tarihi önemiyle dikkat çekmektedir.
+Euromos Anıt Mezar, Muğla'nın Milas ilçesinde yer alır ve Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu bölge, doğal güzelliği ile dikkat çekmektedir. Euromos Anıt Mezar, çevresi ağaçlarla kaplı bir tepe üzerinde yer alır ve ziyaretçilere geniş bir görüş açısı sunar. Euromos Anıt Mezarın bulunduğu bölge, iklim açısından ılıman bir bölgedir ve ziyaretçiler yılın her döneminde bu bölgeyi ziyaret edebilirler. Bu bölgede, çeşitli bitki türleri ve fauna bulunmaktadır. Euromos Anıt Mezar, coğrafi güzelliği ve tarihi önemiyle dikkat çekmektedir.
 
 ## Flora ve Fauna
 

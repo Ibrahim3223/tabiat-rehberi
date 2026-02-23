@@ -28,7 +28,7 @@ wikidata_id: "Q31387946"
 
 # Gedik Tepe
 
-Gedik Tepe, Tunceli'nin sınırları içinde yer alan ve ziyaretçilerini etkileyen bir doğa harikasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açıklık sunuyor. Bu tepe, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahip ve ziyaretçilere Tunceli'nin güzelliklerini keşfetme fırsatı sunuyor. Gedik Tepe, doğaseverler için bir cennet niteliğinde ve burayı ziyaret edenler, bölgenin doğal güzelliklerini yakından görme fırsatı buluyorlar.
+Gedik Tepe, Tunceli'nin sınırları içinde yer alan ve ziyaretçilerini etkileyen bir doğa harikasıdır. Bu tepe, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahip ve ziyaretçilere Tunceli'nin güzelliklerini keşfetme fırsatı sunuyor. Gedik Tepe, doğaseverler için bir cennet niteliğinde ve burayı ziyaret edenler, bölgenin doğal güzelliklerini yakından görme fırsatı buluyorlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gedik Tepe'nin tarihi geçmişi, bölgenin oluşumuna kadar uzanır. Tunceli'nin
 
 ## Coğrafya
 
-Gedik Tepe, Tunceli'nin coğrafi yapısını yansıtan bir tepe ve bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bu tepe, 140 hektarlık bir alana sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Gedik Tepe'nin coğrafi yapısı, bölgenin jeolojik oluşumunu yansıtan bir yapıya sahip ve ziyaretçilere Tunceli'nin doğal tarihini keşfetme fırsatı sunuyor. Tunceli'nin iklimi, karasal iklim özellikleri gösteriyor ve Gedik Tepe, bu iklimin etkilerini yansıtan bir tepe. Bu tepe, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahip ve ziyaretçilere geniş bir açıklık sunuyor. Gedik Tepe'nin çevresi, çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Tunceli'nin coğrafi yapısı, yüzyıllar boyunca çeşitli doğal olayların sonucunda şekillenmiştir ve Gedik Tepe, bu oluşumun bir parçası niteliğinde.
+Gedik Tepe, Tunceli'nin coğrafi yapısını yansıtan bir tepe ve bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Gedik Tepe'nin coğrafi yapısı, bölgenin jeolojik oluşumunu yansıtan bir yapıya sahip ve ziyaretçilere Tunceli'nin doğal tarihini keşfetme fırsatı sunuyor. Tunceli'nin iklimi, karasal iklim özellikleri gösteriyor ve Gedik Tepe, bu iklimin etkilerini yansıtan bir tepe. Bu tepe, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahip ve ziyaretçilere geniş bir açıklık sunuyor. Gedik Tepe'nin çevresi, çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Tunceli'nin coğrafi yapısı, yüzyıllar boyunca çeşitli doğal olayların sonucunda şekillenmiştir ve Gedik Tepe, bu oluşumun bir parçası niteliğinde.
 
 ## Flora ve Fauna
 

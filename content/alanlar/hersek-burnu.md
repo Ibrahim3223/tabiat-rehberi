@@ -32,9 +32,9 @@ wikidata_id: "Q5744386"
 
 ## Tarihçe
 
-Hersek Burnu, tarihi boyunca çeşitli uygarlıkların izlerini taşıyan bir bölgede yer alır. Bu bölge, antik çağlardan beri ticaret yollarının kavşak noktası olarak önemini korumuştur. İnsanların bölgedeki varlığı, M.Ö. dönemlerine kadar uzanır. Tarihi ticaret yolları, bölgenin stratejik konumunu vurgular. 
+Hersek Burnu, tarihi boyunca çeşitli uygarlıkların izlerini taşıyan bir bölgede yer alır. Bu bölge, antik çağlardan beri ticaret yollarının kavşak noktası olarak önemini korumuştur. İnsanların bölgedeki varlığı, M.Ö. dönemlerine kadar uzanır. Tarihi ticaret yolları, bölgenin stratejik konumunu vurgular.
 
-Doğal güzellikleri ve zengin ekosistemi, Hersek Burnu'nu bir "kuş cenneti" haline getirir. Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Yaylacılık, hayvancılık ve avcılık gibi faaliyetler, insanlar ve doğa arasındaki bağın güçlü olduğunu gösterir. 
+Doğal güzellikleri ve zengin ekosistemi, Hersek Burnu'nu bir "kuş cenneti" haline getirir. Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Yaylacılık, hayvancılık ve avcılık gibi faaliyetler, insanlar ve doğa arasındaki bağın güçlü olduğunu gösterir.
 
 Bölgenin tarihsel önemi, sadece ticaret ve insan yerleşimine değil, aynı zamanda doğal yaşamın korunmasına da dikkat çeker. İnsanların bu alanla ilişkisi, sadece ekonomik faaliyetlerle sınırlı değildir; aynı zamanda bölgenin doğal güzelliğine duyulan saygı ve koruma bilinci de önemlidir. Bu şekilde, Hersek Burnu gibi doğal alanlar, Türkiye'nin zengin kültürel ve doğal mirasının bir parçası olarak değerlendirilir.
 

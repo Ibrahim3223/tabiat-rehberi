@@ -29,7 +29,7 @@ wikidata_id: "Q31389298"
 
 # Kurudağ Tepesi
 
-Kurudağ Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu bölge, geniş ve yeşil alanlarıyla dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Kurudağ Tepesi, aynı zamanda doğal güzelliklerin yanı sıra tarihsel öneme de sahip. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinden izler taşıyor. Doğal güzelliği ve tarihsel önemiyle Kurudağ Tepesi, ziyaretçilerini büyüleyen bir yer.
+Kurudağ Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu bölge, geniş ve yeşil alanlarıyla dikkat çekiyor. Kurudağ Tepesi, aynı zamanda doğal güzelliklerin yanı sıra tarihsel öneme de sahip. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinden izler taşıyor. Doğal güzelliği ve tarihsel önemiyle Kurudağ Tepesi, ziyaretçilerini büyüleyen bir yer.
 
 ## Tarihçe
 

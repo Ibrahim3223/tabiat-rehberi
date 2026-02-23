@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Ada Köşkü"
 date: "2026-01-10T04:34:43.095Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133683984"
 
 # Yıldız Sarayı Ada Köşkü
 
-Yıldız Sarayı Ada Köşkü, İstanbul'un Beşiktaş ilçesinde yer alan, tarihi bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en güzel kıyı şeritlerinden birini oluşturur. Ada Köşkü'nün tarihi geçmişi, Osmanlı döneminde başlamıştır. Saray ve çevresindeki köşkler, o dönemlerin önemli yapılarından biri olarak kabul edilir. Günümüzde, Yıldız Sarayı Ada Köşkü, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur. Ziyaretçiler, tarihi yapıları gezerek, plajın tadını çıkarabilir ve bölgenin zengin tarihini keşfedebilirler.
+Yıldız Sarayı Ada Köşkü, İstanbul'un Beşiktaş ilçesinde yer alan, tarihi bir plajdır. Ada Köşkü'nün tarihi geçmişi, Osmanlı döneminde başlamıştır. Saray ve çevresindeki köşkler, o dönemlerin önemli yapılarından biri olarak kabul edilir. Günümüzde, Yıldız Sarayı Ada Köşkü, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur. Ziyaretçiler, tarihi yapıları gezerek, plajın tadını çıkarabilir ve bölgenin zengin tarihini keşfedebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yıldız Sarayı Ada Köşkü'nün tarihi, 19. yüzyıla kadar uzanır. Osmanlı
 
 ## Coğrafya
 
-Yıldız Sarayı Ada Köşkü, İstanbul'un Beşiktaş ilçesinde, Marmara Denizi kıyısında yer alır. Bölge, doğal güzelliği ile dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en güzel kıyı şeritlerinden birini oluşturur. Ada Köşkü'nün çevresi, yeşilliklerle kaplıdır ve çeşitli ağaç türleri bulunur. Plaj, kumlu ve sığdır, bu nedenle çocuklu aileler için idealdir. Yıldız Sarayı Ada Köşkü, İstanbul'un şehir hayatından uzak, doğayla iç içe bir ortam sunar. Bölge, aynı zamanda çeşitli su sporları ve etkinliklerine de ev sahipliği yapar. Ziyaretçiler, plajın tadını çıkarabilir, tarihi yapıları gezebilir ve bölgenin doğal güzelliğini keşfedebilirler. Yıldız Sarayı Ada Köşkü, İstanbul'un en güzel ve tarihi mekanlarından biridir.
+Yıldız Sarayı Ada Köşkü, İstanbul'un Beşiktaş ilçesinde, Marmara Denizi kıyısında yer alır. Bölge, doğal güzelliği ile dikkat çeker. Ada Köşkü'nün çevresi, yeşilliklerle kaplıdır ve çeşitli ağaç türleri bulunur. Plaj, kumlu ve sığdır, bu nedenle çocuklu aileler için idealdir. Yıldız Sarayı Ada Köşkü, İstanbul'un şehir hayatından uzak, doğayla iç içe bir ortam sunar. Bölge, aynı zamanda çeşitli su sporları ve etkinliklerine de ev sahipliği yapar. Ziyaretçiler, plajın tadını çıkarabilir, tarihi yapıları gezebilir ve bölgenin doğal güzelliğini keşfedebilirler. Yıldız Sarayı Ada Köşkü, İstanbul'un en güzel ve tarihi mekanlarından biridir.
 
 ## Flora ve Fauna
 

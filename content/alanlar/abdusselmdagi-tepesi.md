@@ -28,7 +28,7 @@ wikidata_id: "Q35723426"
 
 # Abdüsselâmdağı Tepesi
 
-Abdüsselâmdağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğal güzellik. 140 hektarlık bir alan kaplayan tepe, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontruyor. Abdüsselâmdağı Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Abdüsselâmdağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğal güzellik. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontruyor. Abdüsselâmdağı Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Abdüsselâmdağı Tepesi'nin tarihi geçmişi, bölgenin yerleşim tarihi ile b
 
 ## Coğrafya
 
-Abdüsselâmdağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Tepenin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. 140 hektarlık bir alan kaplayan tepe, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sağlıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontruyor. Bölge, İç Anadolu Bölgesi'nin karakteristik ikliminin etkisinde kalıyor. Yaz ayları sıcak ve kuru, kış ayları soğuk ve kar yağışlı geçiyor. İlkbahar ve sonbahar ayları, ziyaretçiler için en uygun zamanlar.
+Abdüsselâmdağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Tepenin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sağlıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontruyor. Bölge, İç Anadolu Bölgesi'nin karakteristik ikliminin etkisinde kalıyor. Yaz ayları sıcak ve kuru, kış ayları soğuk ve kar yağışlı geçiyor. İlkbahar ve sonbahar ayları, ziyaretçiler için en uygun zamanlar.
 
 ## Flora ve Fauna
 

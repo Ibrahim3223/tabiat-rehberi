@@ -22,7 +22,7 @@ wikidata_id: "Q108227776"
 
 # Bolu-Ayikayasi Dogu Kayini
 
-Bolu-Ayikayasi Dogu Kayini milli parkı, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal alanı temsil ediyor. Bu bölge, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak biliniyor. Milli parkın içinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Burada, yaban hayatı koruma ve doğayı korumak için önemli çalışmalar yapılmaktadır. Milli park, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+ Bu bölge, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak biliniyor. Milli parkın içinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Burada, yaban hayatı koruma ve doğayı korumak için önemli çalışmalar yapılmaktadır. Milli park, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

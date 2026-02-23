@@ -1,7 +1,7 @@
 ---
 title: "Kemer Hamamı"
 date: "2026-01-09T23:36:58.654Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739131"
 
 # Kemer Hamamı
 
-Kemer Hamamı, Kütahya ilinin merkezinde yer alan ve Ege Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar. Bu güzel plaj, Kütahya'nın en çok ziyaret edilen yerlerinden biri olup, yerli ve yabancı turistlerin ilgisini çekmektedir. Kemer Hamamı, geniş ve temiz plajı, sığ ve berrak suyu ile aileler ve çocuklar için ideal bir destinasyondur.
+Kemer Hamamı, Kütahya ilinin merkezinde yer alan ve Ege Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. Bu güzel plaj, Kütahya'nın en çok ziyaret edilen yerlerinden biri olup, yerli ve yabancı turistlerin ilgisini çekmektedir. Kemer Hamamı, geniş ve temiz plajı, sığ ve berrak suyu ile aileler ve çocuklar için ideal bir destinasyondur.
 
 ## Tarihçe
 

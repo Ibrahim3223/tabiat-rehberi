@@ -29,7 +29,7 @@ wikidata_id: "Q31390836"
 
 # Nefes Tepesi
 
-Nefes Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık geniş bir alana yayılan bir doğal güzelliktir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğal güzelliği ve temiz havasıyla çekiyor. Nefes Tepesi, özellikle ilkbahar ve sonbahar mevsimlerinde ziyaret ediliyor. Bu mevsimlerde, tepeye çıkan ziyaretçiler, bölgenin zengin flora ve faunasını gözlemleyebiliyor. Nefes Tepesi, aynı zamanda trekking ve doğa yürüyüşü yapmak isteyenler için ideal bir destinasyon olarak öne çıkıyor.
+Nefes Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık geniş bir alana yayılan bir doğal güzelliktir. Nefes Tepesi, özellikle ilkbahar ve sonbahar mevsimlerinde ziyaret ediliyor. Bu mevsimlerde, tepeye çıkan ziyaretçiler, bölgenin zengin flora ve faunasını gözlemleyebiliyor. Nefes Tepesi, aynı zamanda trekking ve doğa yürüyüşü yapmak isteyenler için ideal bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

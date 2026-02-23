@@ -29,7 +29,7 @@ wikidata_id: "Q31386272"
 
 # Bel Tepe
 
-Bel Tepe, Gaziantep'in merkezinde yer alan ve şehrin en önemli doğal ve tarihi güzelliklerinden biri olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin panoramik manzarasıyla karşılayan bir noktada bulunuyor. Bel Tepe, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerine hem gezi hem de eğitim fırsatı sunuyor.
+Bel Tepe, Gaziantep'in merkezinde yer alan ve şehrin en önemli doğal ve tarihi güzelliklerinden biri olan bir tepe. Bel Tepe, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerine hem gezi hem de eğitim fırsatı sunuyor.
 
 ## Tarihçe
 

@@ -33,7 +33,7 @@ Maltepe Tümülüsü, Sivas'ın merkezinde yer alan ve yaklaşık 140 hektarlık
 
 ## Tarihçe
 
-Maltepe Tümülüsü'nün tarihi geçmişi, Sivas'ın zengin kültürel mirasını yansıtır. Bu tümülüs, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan önemli bir tarihi eser. Sivas, tarihinin her döneminde önemli bir kültürel ve ticari merkez olarak known. Maltepe Tümülüsü de bu dönemde inşa edilmiş ve günümüze kadar ulaşmıştır. Tümülüsün tarihi, Sivas'ın tarihini anlamak için önemli bir kaynak. Ziyaretçiler, bu tümülüsün histórik değerini keşfedebilir ve Sivas'ın kültürel zenginliğini deneyimleyebilir.
+Maltepe Tümülüsü'nün tarihi geçmişi, Sivas'ın zengin kültürel mirasını yansıtır. Bu tümülüs, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan önemli bir tarihi eser. Sivas, tarihinin her döneminde önemli bir kültürel ve ticari merkez olarak known. Maltepe Tümülüsü de bu dönemde inşa edilmiş ve günümüze kadar ulaşmıştır. Tümülüsün tarihi, Sivas'ın tarihini anlamak için önemli bir kaynak. Ziyaretçiler, bu tümülüsün tarihi değerini keşfedebilir ve Sivas'ın kültürel zenginliğini deneyimleyebilir.
 
 ## Coğrafya
 

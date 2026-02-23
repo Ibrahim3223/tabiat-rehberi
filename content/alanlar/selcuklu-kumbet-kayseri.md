@@ -29,7 +29,7 @@ wikidata_id: "Q135582343"
 
 # Selçuklu Kümbet, Kayseri
 
-Selçuklu Kümbet, Kayseri'nin Melikgazi ilçesinde yer alan tarihi bir yapıdır. 140 hektarlık bir alan üzerinde kurulu olan bu yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu kümbet, Selçuklu dönemine ait bir eser olup, tarihi ve kültürel değerleri ile dikkat çeker. Ziyaretçiler, bu kümbeti gezerek, Selçuklu döneminin mimari özelliklerini ve tarihi geçmişi hakkında bilgi edinebilirler. Selçuklu Kümbet, Kayseri'nin önemli turizm merkezlerinden biridir ve her yıl birçok ziyaretçi tarafından gezilir.
+Selçuklu Kümbet, Kayseri'nin Melikgazi ilçesinde yer alan tarihi bir yapıdır. Bu kümbet, Selçuklu dönemine ait bir eser olup, tarihi ve kültürel değerleri ile dikkat çeker. Ziyaretçiler, bu kümbeti gezerek, Selçuklu döneminin mimari özelliklerini ve tarihi geçmişi hakkında bilgi edinebilirler. Selçuklu Kümbet, Kayseri'nin önemli turizm merkezlerinden biridir ve her yıl birçok ziyaretçi tarafından gezilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Selçuklu Kümbet, 12. yüzyılda inşa edilmiştir. Bu dönemde, Selçuklu hük
 
 ## Coğrafya
 
-Selçuklu Kümbet, Kayseri'nin Melikgazi ilçesinde yer alan bir tepe üzerinde kurulmuştur. Bu tepe, yaklaşık 1000 metre yüksekliğindedir ve çevredeki diğer tepelerden daha yüksektir. Kümbet, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Çevresinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. İklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Selçuklu Kümbet, çevresindeki doğal güzellikleri ile birlikte, ziyaretçilere güzel bir manzara sunar. Ziyaretçiler, bu kümbeti gezerek, çevredeki doğal güzellikleri ve tarihi eserleri keşfedebilirler.
+Selçuklu Kümbet, Kayseri'nin Melikgazi ilçesinde yer alan bir tepe üzerinde kurulmuştur. Bu tepe, yaklaşık 1000 metre yüksekliğindedir ve çevredeki diğer tepelerden daha yüksektir. Çevresinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. İklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Selçuklu Kümbet, çevresindeki doğal güzellikleri ile birlikte, ziyaretçilere güzel bir manzara sunar. Ziyaretçiler, bu kümbeti gezerek, çevredeki doğal güzellikleri ve tarihi eserleri keşfedebilirler.
 
 ## Flora ve Fauna
 

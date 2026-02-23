@@ -22,7 +22,7 @@ wikidata_id: "Q108227929"
 
 # Balikesir-Bandirma-Gonen Karacam
 
-Balikesir-Bandirma-Gonen Karacam milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Milli parkın konumu, İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin doğal güzelliklerini yansıtıyor. Ziyaretçiler, milli parkın sunduğu olanaklar ve güzelliklerle birlikte, doğa ile baş başa kalmanın keyfini çıkarabiliyorlar.
+Balikesir-Bandirma-Gonen Karacam milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Milli parkın konumu, İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin doğal güzelliklerini yansıtıyor. Ziyaretçiler, milli parkın sunduğu olanaklar ve güzelliklerle birlikte, doğa ile baş başa kalmanın keyfini çıkarabiliyorlar.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Balikesir-Bandirma-Gonen Karacam milli parkını ziyaret etmek, doğa severler i
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, doğal güzellikleri korumak amacıyla gerçekleştirilmiştir.
-- Milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Ziyaretçiler, milli parkın sunduğu olanaklarla birlikte, doğanın güzelliklerini keşfetme fırsatı bulabiliyorlar.
 - Milli parkın flora ve faunası, mevsimsel değişimlere göre şekilleniyor.
 - Milli parka ulaşım, genellikle araç veya toplu taşıma araçları ile sağlanıyor.

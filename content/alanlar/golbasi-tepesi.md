@@ -28,7 +28,7 @@ wikidata_id: "Q32138411"
 
 # Gölbaşı Tepesi
 
-Gölbaşı Tepesi, Kilis ilinin güneydoğu kesiminde yer alan bir tepe. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Gölbaşı Tepesi, özellikle bahar aylarında yeşilin her tonunu görebileceğiniz bir yer. Doğal güzelliği ile ziyaretçilerini etkileyen bu tepe, aynı zamanda bölgenin flora ve fauna çeşitliliği açısından da önemli bir merkez.
+Gölbaşı Tepesi, Kilis ilinin güneydoğu kesiminde yer alan bir tepe. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Gölbaşı Tepesi, özellikle bahar aylarında yeşilin her tonunu görebileceğiniz bir yer. Doğal güzelliği ile ziyaretçilerini etkileyen bu tepe, aynı zamanda bölgenin flora ve fauna çeşitliliği açısından da önemli bir merkez.
 
 ## Tarihçe
 

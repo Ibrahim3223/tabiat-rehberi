@@ -28,7 +28,7 @@ wikidata_id: "Q31386517"
 
 # Ayınşavkı Tepesi
 
-Ayınşavkı Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbediyor. Ayınşavkı Tepesi, Hatay'ın önemli doğal ve tarihi alanlarından biri olarak kabul ediliyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve zengin fauna yapısına sahip. Ziyaretçiler, tepeye çıktıklarında, muhteşem manzaralarla karşılaşuyor ve tarihi anıtları keşfedebiliyor.
+Ayınşavkı Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbediyor. Ayınşavkı Tepesi, Hatay'ın önemli doğal ve tarihi alanlarından biri olarak kabul ediliyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve zengin fauna yapısına sahip. Ziyaretçiler, tepeye çıktıklarında, muhteşem manzaralarla karşılaşuyor ve tarihi anıtları keşfedebiliyor.
 
 ## Tarihçe
 

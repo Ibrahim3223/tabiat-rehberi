@@ -1,7 +1,7 @@
 ---
 title: "İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi"
 date: "2026-01-10T15:20:10.509Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949064"
 
 # İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi
 
-İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi, İstanbul'un kalbinde, Beyazıt Meydanı'nda yer alan tarihi bir yapıdır. 85 metre yüksekliğiyle dikkat çekici olan bu kule, yaklaşık 200 futbol sahası büyüklüğünde bir alana kurulmuştur. İstanbul Üniversitesi'nin önemli bir parçası olan bu müze, ziyaretçilerine zengin bir tarih ve kültür sunmaktadır. 2000 yılı aşkın bir geçmişe sahip olan bu bölge, çeşitli medeniyetlerin izlerini taşımaktadır. İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi, bu tarihî geçmişin önemli bir bölümünü gözler önüne sermektedir.
+İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi, İstanbul'un kalbinde, Beyazıt Meydanı'nda yer alan tarihi bir yapıdır. İstanbul Üniversitesi'nin önemli bir parçası olan bu müze, ziyaretçilerine zengin bir tarih ve kültür sunmaktadır. 2000 yılı aşkın bir geçmişe sahip olan bu bölge, çeşitli medeniyetlerin izlerini taşımaktadır. İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi, bu tarihî geçmişin önemli bir bölümünü gözler önüne sermektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q132949064"
 
 ## Coğrafya
 
-İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi, İstanbul'un merkezinde, Beyazıt Meydanı'nda bulunmaktadır. Bu bölge, İstanbul'un histórik yarımadanın kalbinde yer alan bir bölgedir. Müze, yaklaşık 140 hektarlık bir alana kurulmuştur. Bu alan, çeşitli tarihi yapılar, parklar ve meydanlarla çevrilidir. İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi'nin bulunduğu bölge, yıl boyunca ılıman bir iklimi sahiptir. Kış aylarında hafif yağış alan bu bölge, yaz aylarında ise sıcak ve güneşlidir. İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi, tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleri de ziyaretçilerine sunmaktadır. Müzenin etrafında yer alan tarihi yapılar, parklar ve meydanlar, ziyaretçilere zengin bir görsel şölen sunmaktadır.
+İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi, İstanbul'un merkezinde, Beyazıt Meydanı'nda bulunmaktadır. Bu bölge, İstanbul'un tarihi yarımadanın kalbinde yer alan bir bölgedir. Müze, yaklaşık 140 hektarlık bir alana kurulmuştur. Bu alan, çeşitli tarihi yapılar, parklar ve meydanlarla çevrilidir. İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi'nin bulunduğu bölge, yıl boyunca ılıman bir iklimi sahiptir. Kış aylarında hafif yağış alan bu bölge, yaz aylarında ise sıcak ve güneşlidir. İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi, tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleri de ziyaretçilerine sunmaktadır. Müzenin etrafında yer alan tarihi yapılar, parklar ve meydanlar, ziyaretçilere zengin bir görsel şölen sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ wikidata_id: "Q132949064"
 - İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi, 85 metre yüksekliğiyle dikkat çekmektedir.
 - Müze, yaklaşık 140 hektarlık bir alana kurulmuştur.
 - İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi, yüzyıllar boyunca çeşitli restorasyon ve yenileme çalışmaları görmüştür.
-- Bu bölge, İstanbul'un histórik yarımadanın kalbinde yer alan bir bölgedir.
+- Bu bölge, İstanbul'un tarihi yarımadanın kalbinde yer alan bir bölgedir.
 - Müze, ziyaretçilere zengin bir tarih ve kültür sunmaktadır.

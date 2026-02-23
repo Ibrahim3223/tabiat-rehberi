@@ -23,7 +23,7 @@ wikidata_id: "Q108228239"
 
 # Çamlık
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Çamlık, 140 hektarlık bir yeşil alan sunuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü floranın çeşitliliğini ediyor. Bölge, ziyaretçiler için hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. Çamlık'ın geniş yeşil alanları, piknik yapma ve doğa yürüyüşleri için ideal bir ortam sağlıyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan Çamlık, 140 hektarlık bir yeşil alan sunuyor. Bölge, ziyaretçiler için hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. Çamlık'ın geniş yeşil alanları, piknik yapma ve doğa yürüyüşleri için ideal bir ortam sağlıyor.
 
 ## Tarihçe
 

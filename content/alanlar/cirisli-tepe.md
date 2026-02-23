@@ -28,7 +28,7 @@ wikidata_id: "Q34829304"
 
 # Çirişli Tepe
 
-Erzurum'un kalbinde yer alan Çirişli Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet. Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak huzurlu bir atmosfere davet ediyor. Çirişli Tepe, hem doğa severler hem de tarih meraklıları için bir hazine. Burada, yüzyılların izlerini taşıyan tarihi yapılar ve eşsiz manzaralar bir araya geliyor. Çirişli Tepe, bir gezi rotası olarak düşünüldüğünde, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
+ Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak huzurlu bir atmosfere davet ediyor. Çirişli Tepe, hem doğa severler hem de tarih meraklıları için bir hazine. Burada, yüzyılların izlerini taşıyan tarihi yapılar ve eşsiz manzaralar bir araya geliyor. Çirişli Tepe, bir gezi rotası olarak düşünüldüğünde, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
 
 ## Tarihçe
 

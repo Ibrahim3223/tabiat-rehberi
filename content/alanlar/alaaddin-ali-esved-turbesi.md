@@ -1,7 +1,7 @@
 ---
 title: "Alaaddin Ali Esved Türbesi"
 date: "2026-01-10T06:26:07.226Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390727"
 
 # Alaaddin Ali Esved Türbesi
 
-Alaaddin Ali Esved Türbesi, İznik'in tarihi dokusu içinde yer alan önemli bir kültürel miras. Bu türbe, İznik'in merkezinde, şehrin zengin tarihini yansıtan önemli bir nokta. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada deneyimleme fırsatı sunuyor. Türbenin mimarisi, bölgenin geleneksel tarzını yansıtıyor ve İznik'in kültürel zenginliğini gözler önüne seriyor.
+Alaaddin Ali Esved Türbesi, İznik'in tarihi dokusu içinde yer alan önemli bir kültürel miras. Bu türbe, İznik'in merkezinde, şehrin zengin tarihini yansıtan önemli bir nokta. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada deneyimleme fırsatı sunuyor. Türbenin mimarisi, bölgenin geleneksel tarzını yansıtıyor ve İznik'in kültürel zenginliğini gözler önüne seriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Alaaddin Ali Esved Türbesi, İznik'in tarihi geçmişiçinde önemli bir yere s
 
 ## Coğrafya
 
-Alaaddin Ali Esved Türbesi, İznik'in merkezinde, şehrin tarihi dokusu içinde yer alıyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada deneyimleme fırsatı sunuyor. İznik, Marmara Bölgesi'nde yer alıyor ve bölgenin coğrafi özellikleri, türbenin çevresinde de görülüyor. İznik Gölü'nün yakınlarında yer alan türbe, gölün güzelliğini de ziyaretçilere sunuyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor ve ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor. Türbenin mimarisi, bölgenin geleneksel tarzını yansıtıyor ve İznik'in kültürel zenginliğini gözler önüne seriyor.
+Alaaddin Ali Esved Türbesi, İznik'in merkezinde, şehrin tarihi dokusu içinde yer alıyor. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada deneyimleme fırsatı sunuyor. İznik, Marmara Bölgesi'nde yer alıyor ve bölgenin coğrafi özellikleri, türbenin çevresinde de görülüyor. İznik Gölü'nün yakınlarında yer alan türbe, gölün güzelliğini de ziyaretçilere sunuyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor ve ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor. Türbenin mimarisi, bölgenin geleneksel tarzını yansıtıyor ve İznik'in kültürel zenginliğini gözler önüne seriyor.
 
 ## Flora ve Fauna
 

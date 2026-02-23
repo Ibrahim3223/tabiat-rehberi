@@ -1,7 +1,7 @@
 ---
 title: "Murat Sevdâkâr Türbesi"
 date: "2026-01-10T04:57:38.795Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"

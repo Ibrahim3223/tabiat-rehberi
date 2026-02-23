@@ -28,7 +28,7 @@ wikidata_id: "Q31386684"
 
 # Yanıktarla Tepesi
 
-Yanıktarla Tepesi, Diyarbakır'ın güneyinde yer alan ve şehrin en yüksek noktalarından biri olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin tarihi merkezi ile doğal güzelliklerinin birleştiği bir noktada yer alıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Yanıktarla Tepesi, şehrin panoramik manzarasını izleme ve tarihi geçmişi hakkında bilgi edinmek için ideal bir yer.
+Yanıktarla Tepesi, Diyarbakır'ın güneyinde yer alan ve şehrin en yüksek noktalarından biri olan bir tepe. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Yanıktarla Tepesi, şehrin panoramik manzarasını izleme ve tarihi geçmişi hakkında bilgi edinmek için ideal bir yer.
 
 ## Tarihçe
 

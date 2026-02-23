@@ -28,7 +28,7 @@ wikidata_id: "Q31390338"
 
 # Begirkayası Tepesi
 
-Begirkayası Tepesi, Afyonkarahisar ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve büyüklüğü itibariyle yaklaşık 200 futbol sahası büyüklüğünde. Begirkayası Tepesi, özellikle manzarası ve doğal güzelliği ile dikkat çekiyor. Doğa severlerin ve trekking yapanların ilgisini çeken bu tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrável. Ayrıca, tepeye tırmanırken çevredeki manzarasının güzelliği de ziyaretçileri cezbediyor.
+Begirkayası Tepesi, Afyonkarahisar ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Begirkayası Tepesi, özellikle manzarası ve doğal güzelliği ile dikkat çekiyor. Doğa severlerin ve trekking yapanların ilgisini çeken bu tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrável. Ayrıca, tepeye tırmanırken çevredeki manzarasının güzelliği de ziyaretçileri cezbediyor.
 
 ## Tarihçe
 

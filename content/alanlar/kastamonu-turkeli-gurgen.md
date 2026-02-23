@@ -22,7 +22,7 @@ wikidata_id: "Q108228542"
 
 # Kastamonu-Turkeli-Gurgen
 
-Kastamonu-Turkeli-Gurgen milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, Kastamonu'nun Turkeli ve Gurgen ilçeleri arasında yer alıyor. Doğal güzellikleri, zengin flora ve faunası ile ziyaretçilerini cezbeden bu milli park, aynı zamanda tarih ve kültür açısından da önemli bir değer taşıyor. Burada, yaban hayatını gözlemlemek, doğa yürüyüşleri yapma ve temiz havanın keyfini çıkarma mümkün.
+Kastamonu-Turkeli-Gurgen milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biridir. Bu milli park, Kastamonu'nun Turkeli ve Gurgen ilçeleri arasında yer alıyor. Doğal güzellikleri, zengin flora ve faunası ile ziyaretçilerini cezbeden bu milli park, aynı zamanda tarih ve kültür açısından da önemli bir değer taşıyor. Burada, yaban hayatını gözlemlemek, doğa yürüyüşleri yapma ve temiz havanın keyfini çıkarma mümkün.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Dede Hamamı"
 date: "2026-01-09T23:14:13.548Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738878"
 
 # Yıldız Dede Hamamı
 
-Yıldız Dede Hamamı, Fatih, İstanbul'da yer alan tarihi bir hamam ve plaj olarak bilinir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kapsar. Yıldız Dede Hamamı, Marmara Bölgesi'nin önemli bir turizm merkezlerinden biri olarak kabul edilir. Tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbeden bu mekan, İstanbul'un en önemli kültürel ve tarihi değerlerinden biridir. Yıldız Dede Hamamı, özellikle yaz aylarında plaj olarak kullanılmaktadır.
+Yıldız Dede Hamamı, Fatih, İstanbul'da yer alan tarihi bir hamam ve plaj olarak bilinir. Yıldız Dede Hamamı, Marmara Bölgesi'nin önemli bir turizm merkezlerinden biri olarak kabul edilir. Tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbeden bu mekan, İstanbul'un en önemli kültürel ve tarihi değerlerinden biridir. Yıldız Dede Hamamı, özellikle yaz aylarında plaj olarak kullanılmaktadır.
 
 ## Tarihçe
 

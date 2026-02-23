@@ -28,7 +28,7 @@ wikidata_id: "Q31386759"
 
 # Girinoket Tepesi
 
-Girinoket Tepesi, Diyarbakır'ın güneydoğusunda yer alan ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu tepe, bölgenin coğrafyasını şekillendiren önemli bir yer. Girinoket Tepesi, Diyarbakır'ın şehir merkezine uzun bir mesafe uzaklıkta ve ulaşımı oldukça kolay. Bu tepe, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Girinoket Tepesi, ziyaretçilerine hem şehri panoramik olarak izleme imkanı sunuyor hem de bölgenin flora ve faunasını keşfetme fırsatı veriyor.
+ Bu tepe, bölgenin coğrafyasını şekillendiren önemli bir yer. Girinoket Tepesi, Diyarbakır'ın şehir merkezine uzun bir mesafe uzaklıkta ve ulaşımı oldukça kolay. Bu tepe, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Girinoket Tepesi, ziyaretçilerine hem şehri panoramik olarak izleme imkanı sunuyor hem de bölgenin flora ve faunasını keşfetme fırsatı veriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Girinoket Tepesi, tarihi geçmişiyle oldukça zengin bir yer. Bu tepe, yüzyıl
 
 ## Coğrafya
 
-Girinoket Tepesi, Diyarbakır'ın güneydoğusunda yer alan bir tepe. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Girinoket Tepesi, bölgenin coğrafyasını şekillendiren önemli bir yer. Bu tepe, Diyarbakır'ın şehir merkezine uzun bir mesafe uzaklıkta ve ulaşımı oldukça kolay. Girinoket Tepesi, ziyaretçilerine hem şehri panoramik olarak izleme imkanı sunuyor hem de bölgenin flora ve faunasını keşfetme fırsatı veriyor. Bu tepe, bölgenin iklimini de etkileyen önemli bir faktördür. Girinoket Tepesi, Diyarbakır'ın coğrafyasını öğrenmek isteyenler için önemli bir merkezdir. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir yer. Girinoket Tepesi, ziyaretçilerine bölgenin coğrafyası hakkında detaylı bilgi sunuyor.
+Girinoket Tepesi, Diyarbakır'ın güneydoğusunda yer alan bir tepe. Girinoket Tepesi, bölgenin coğrafyasını şekillendiren önemli bir yer. Bu tepe, Diyarbakır'ın şehir merkezine uzun bir mesafe uzaklıkta ve ulaşımı oldukça kolay. Girinoket Tepesi, ziyaretçilerine hem şehri panoramik olarak izleme imkanı sunuyor hem de bölgenin flora ve faunasını keşfetme fırsatı veriyor. Bu tepe, bölgenin iklimini de etkileyen önemli bir faktördür. Girinoket Tepesi, Diyarbakır'ın coğrafyasını öğrenmek isteyenler için önemli bir merkezdir. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir yer. Girinoket Tepesi, ziyaretçilerine bölgenin coğrafyası hakkında detaylı bilgi sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Girinoket Tepesi, ziyaretçilerine hem doğal güzelliğini hem de tarihi geçmi
 
 ## İlginç Bilgiler
 
-- Girinoket Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu tepe, Diyarbakır'ın şehir merkezine uzun bir mesafe uzaklıkta.
 - Girinoket Tepesi, ziyaretçilerine hem doğal güzelliğini hem de tarihi geçmişiyle birlikte sunuyor.
 - Bu tepe, bölgenin flora ve faunasını keşfetme fırsatı veriyor.

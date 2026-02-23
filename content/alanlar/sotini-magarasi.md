@@ -48,7 +48,7 @@ Mevsimsel değişiklikler, Sotini Mağarası'nın iklim karakterini etkiliyor. A
 
 ## Flora ve Fauna
 
-Sotini Mağarası'nın bulunduğu jeopark, maki bitki örtüsünün hakim olduğu bir bölge. İlkbahar aylarında, bu alanlar rengarenk çiçeklerle kaplanır. Kuraklığa dayanıklı türler, bu bölgenin karakteristik özellikleridir. 
+Sotini Mağarası'nın bulunduğu jeopark, maki bitki örtüsünün hakim olduğu bir bölge. İlkbahar aylarında, bu alanlar rengarenk çiçeklerle kaplanır. Kuraklığa dayanıklı türler, bu bölgenin karakteristik özellikleridir.
 
 Bitki örtüsünün çeşitliliği, orman memelileri ve kuşlar için ideal bir yaşam alanı sağlar. Kıyı ekosistemi, göçmen kuşların uğrak noktalarından biridir. Sonbaharda, bu bölgede binlerce göçmen kuş görülebilir. Orman ekosistemindeki ağaç çeşitliliği, birçok türün yuvalanmasına olanak tanır.
 

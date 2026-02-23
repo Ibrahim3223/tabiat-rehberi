@@ -22,7 +22,7 @@ wikidata_id: "Q108228489"
 
 # Kahramanmaras-Andirin-Yesilova Citlenbik
 
-Kahramanmaras-Andirin-Yesilova Citlenbik milli parkı, İç Anadolu Bölgesi'nin srdce olan Kahramanmaras ilinin Andirin ilçesinde, Yesilova köyü yakınlarında yer alan bir doğa harikası. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu güzel mekanda, ziyaretçiler doğanın seslerini dinleyebilir, çam ağaçlarının altında dinlenebilir ve bol oksijenli havayı soluyabilir. Milli park, aynı zamanda çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
+Kahramanmaras-Andirin-Yesilova Citlenbik milli parkı, İç Anadolu Bölgesi'nin srdce olan Kahramanmaras ilinin Andirin ilçesinde, Yesilova köyü yakınlarında yer alan bir doğa harikası. Bu güzel mekanda, ziyaretçiler doğanın seslerini dinleyebilir, çam ağaçlarının altında dinlenebilir ve bol oksijenli havayı soluyabilir. Milli park, aynı zamanda çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

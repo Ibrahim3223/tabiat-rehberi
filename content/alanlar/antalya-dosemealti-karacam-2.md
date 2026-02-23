@@ -22,7 +22,7 @@ wikidata_id: "Q108227927"
 
 # Antalya-Döşemealtı Karaçam 2
 
-Antalya-Döşemealtı Karaçam 2, Antalya'nın Döşemealtı ilçesinde yer alan ve 140 hektarlık alanıyla dikkat çeken bir milli parktır. Bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Doğal güzellikleri ve zengin flora/fauna çeşitliliği ile ziyaretçilerini bekliyor. Karaçam 2 milli parkı, hem doğa severlerin hem de tatil arayanların ilgisini çekiyor. Bu bölge, yüzyıllar boyunca doğal güzelliğini korumuştur ve ziyaretçilere benzersiz bir deneyim sunuyor.
+Antalya-Döşemealtı Karaçam 2, Antalya'nın Döşemealtı ilçesinde yer alan ve 140 hektarlık alanıyla dikkat çeken bir milli parktır. Doğal güzellikleri ve zengin flora/fauna çeşitliliği ile ziyaretçilerini bekliyor. Karaçam 2 milli parkı, hem doğa severlerin hem de tatil arayanların ilgisini çekiyor. Bu bölge, yüzyıllar boyunca doğal güzelliğini korumuştur ve ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

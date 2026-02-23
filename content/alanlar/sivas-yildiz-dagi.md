@@ -33,7 +33,7 @@ Sivas ilinin coğrafi güzelliklerinin arasında yer alan Yıldız Dağı, ziyar
 
 ## Tarihçe
 
-Sivas Yıldız Dağı, Türkiye'nin tarihi ve kültürel zenginliklerinin bir parçası olan Sivas bölgesinde yer alır. Bu bölge, tarihin sâu sayfalarına ışık tutan Hitit, Roma ve Selçuklu gibi uygarlıkların izlerini taşır. Sivas, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişinin merkezi olmuştur.
+Sivas Yıldız Dağı, Türkiye'nin tarihi ve kültürel zenginliklerinin bir parçası olan Sivas bölgesinde yer alır. Bu bölge, tarihin derin sayfalarına ışık tutan Hitit, Roma ve Selçuklu gibi uygarlıkların izlerini taşır. Sivas, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişinin merkezi olmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla, Sivas Yıldız Dağı gibi alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdüğü, hayvancılık ve yaylacılık yapan topluluklar için önemli merkezler olagelmiştir. Türkiye'de, bu tür doğal alanlar, yalnızca doğal güzellikleri değil, aynı zamanda kültürel ve tarihi mirasın korunması açısından da büyük önem taşır. İnsanların bu alanlarla olan ilişkisi, yalnızca doğal güzelliklerinin keşfedilmesiyle sınırlı değildir, aynı zamanda bu bölgelerin, ticaret yolları ve kültürel etkileşimlerin merkezi olarakhistorik bir rol oynamıştır. Sivas Yıldız Dağı, bu zengin tarihsel ve kültürel bağlam içinde, Türkiye'nin doğal ve kültürel mirasının önemli bir parçasını oluşturur.
 
@@ -49,11 +49,11 @@ Jeolojik açıdan bakıldığında, Sivas Yıldız Dağı'nın fiziksel yapısı
 
 ## Flora ve Fauna
 
-Sivas Yıldız Dağı, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan bir dağ ekosistemi olarak, step bitki örtüsü ve bozkırın hakim olduğu bir bölge içinde bulunur. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sivas Yıldız Dağı, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan bir dağ ekosistemi olarak, step bitki örtüsü ve bozkırın hakim olduğu bir bölge içinde bulunur. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle kaplanırken, yaz aylarında kuraklığa adapte olan türler ön plana çıkıyor. Dağın yükseklik zonlarına göre değişen alpin flora, dağın benzersiz özelliklerinden biri.
 
-Yaban Hayatı açısından, dağda memeliler, kuşlar ve sürüngenler yaşamaktadır. Göçmen kuşlar, sonbahar aylarında dağ üzerinden geçiş yaparak kışlarını daha sıcak bölgelerde geçirmek için göç ediyorlar. 
+Yaban Hayatı açısından, dağda memeliler, kuşlar ve sürüngenler yaşamaktadır. Göçmen kuşlar, sonbahar aylarında dağ üzerinden geçiş yaparak kışlarını daha sıcak bölgelerde geçirmek için göç ediyorlar.
 
 Ekolojik Değer olarak, Sivas Yıldız Dağı, bölge ekolojisinde kritik bir role sahip. Bu dağ, bölgedeki su döngüsünü düzenleyen ve yerel wildlife'nin yaşamsal önem taşıyan bir parçası.
 

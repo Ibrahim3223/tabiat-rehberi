@@ -28,7 +28,7 @@ wikidata_id: "Q32139599"
 
 # Gürle Tepe
 
-Gürle Tepe, Bursa'nın Marmara Bölgesi'nde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu bölge, doğa severler ve tarihe meraklı olanlar için bir hazine. Gürle Tepe'nin eteklerinde, tarih boyunca çeşitli uygarlıkların yaşamış olduğu görülüyor. Tepe, şehrin gürültüsünden uzaklaşmak isteyenler için de bir kaçış noktası. Gürle Tepe'nin manzarası, özellikle gün batımında, görenleri büyülüyor. Doğa yürüyüşleri, piknik alanları ve tarihi kalıntıları ile Gürle Tepe, ziyaretçilerini cezbediyor.
+ Bu bölge, doğa severler ve tarihe meraklı olanlar için bir hazine. Gürle Tepe'nin eteklerinde, tarih boyunca çeşitli uygarlıkların yaşamış olduğu görülüyor. Tepe, şehrin gürültüsünden uzaklaşmak isteyenler için de bir kaçış noktası. Gürle Tepe'nin manzarası, özellikle gün batımında, görenleri büyülüyor. Doğa yürüyüşleri, piknik alanları ve tarihi kalıntıları ile Gürle Tepe, ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gürle Tepe'nin tarihi geçmişi, çeşitli uygarlıkların yaşamış olduğu b
 
 ## Coğrafya
 
-Gürle Tepe, Bursa'nın Marmara Bölgesi'nde yer alıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğa severler için bir cennet. Gürle Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepe, şehrin gürültüsünden uzaklaşmak isteyenler için de bir kaçış noktası. Gürle Tepe'nin manzarası, özellikle gün batımında, görenleri büyülüyor. Doğa yürüyüşleri, piknik alanları ve tarihi kalıntıları ile Gürle Tepe, ziyaretçilerini cezbediyor. Gürle Tepe'nin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun. Yaz ayları sıcak ve nemli, kış ayları soğuk ve yağışlı. Gürle Tepe, yıl boyunca ziyaret edilebiliyor.
+Gürle Tepe, Bursa'nın Marmara Bölgesi'nde yer alıyor. Bu bölge, doğa severler için bir cennet. Gürle Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepe, şehrin gürültüsünden uzaklaşmak isteyenler için de bir kaçış noktası. Gürle Tepe'nin manzarası, özellikle gün batımında, görenleri büyülüyor. Doğa yürüyüşleri, piknik alanları ve tarihi kalıntıları ile Gürle Tepe, ziyaretçilerini cezbediyor. Gürle Tepe'nin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun. Yaz ayları sıcak ve nemli, kış ayları soğuk ve yağışlı. Gürle Tepe, yıl boyunca ziyaret edilebiliyor.
 
 ## Flora ve Fauna
 

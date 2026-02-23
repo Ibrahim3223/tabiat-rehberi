@@ -1,7 +1,7 @@
 ---
 title: "Frenkşah Hamamı"
 date: "2026-01-09T22:50:43.695Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738633"
 
 # Frenkşah Hamamı
 
-Frenkşah Hamamı, Kastamonu merkezinde yer alan ve şehrin önemli kültürel miraslarından biri olan tarihi bir hamamdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgede konumlanmıştır. Tarihi geçmişi ve mimarisi ile dikkat çeker. Bu hamam, Kastamonu'nun zengin tarihinin bir parçasını oluşturur ve ziyaretçilerini şehrin derin geçmişine götürür. Frenkşah Hamamı, sadece bir tarihi eser değil, aynı zamanda Kastamonu'nun kimliği ve kültürel zenginliğinin bir sembolüdür.
+Frenkşah Hamamı, Kastamonu merkezinde yer alan ve şehrin önemli kültürel miraslarından biri olan tarihi bir hamamdır. Tarihi geçmişi ve mimarisi ile dikkat çeker. Bu hamam, Kastamonu'nun zengin tarihinin bir parçasını oluşturur ve ziyaretçilerini şehrin derin geçmişine götürür. Frenkşah Hamamı, sadece bir tarihi eser değil, aynı zamanda Kastamonu'nun kimliği ve kültürel zenginliğinin bir sembolüdür.
 
 ## Tarihçe
 

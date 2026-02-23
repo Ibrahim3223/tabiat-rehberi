@@ -1,7 +1,7 @@
 ---
 title: "Büyük Hamam, Ödemiş"
 date: "2026-01-10T00:04:15.884Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245842"
 
 # Büyük Hamam, Ödemiş
 
-Büyük Hamam, Ödemiş, İzmir'in Ödemiş ilçesinde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Büyük Hamam, Ödemiş'in merkezine yakın bir konumda yer alır, bu da ulaşım açısından kolaylık sağlar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Bu alan, hem doğa severler hem de tatil arayanlar için ideal bir destinasyon olarak dikkat çeker.
+ Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Büyük Hamam, Ödemiş'in merkezine yakın bir konumda yer alır, bu da ulaşım açısından kolaylık sağlar. Bu alan, hem doğa severler hem de tatil arayanlar için ideal bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Büyük Hamam, Ödemiş'in tarihi geçmişi, yüzyıllar boyunca çeşitli meden
 
 ## Coğrafya
 
-Büyük Hamam, Ödemiş, Ege Bölgesi'nin Ödemiş ilçesinde yer alır ve coğrafi olarak oldukça zengin bir bölgedir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar ile karakterizedir. Bu coğrafi konum, Büyük Hamam'ı doğa severler ve tatil arayanlar için ideal bir destinasyon haline getirir. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunarken, aynı zamanda bölgeyi keşfetmek için de ideal bir zemin sağlar.
+Büyük Hamam, Ödemiş, Ege Bölgesi'nin Ödemiş ilçesinde yer alır ve coğrafi olarak oldukça zengin bir bölgedir. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar ile karakterizedir. Bu coğrafi konum, Büyük Hamam'ı doğa severler ve tatil arayanlar için ideal bir destinasyon haline getirir. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunarken, aynı zamanda bölgeyi keşfetmek için de ideal bir zemin sağlar.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Büyük Hamam, Ödemiş'i ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar
 - Bölge, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak sıcak ve kurak yazlar, ılıman ve yağışlı kışlar ile karakterizedir
 - Büyük Hamam, Ödemiş'in flora ve faunası, bölgenin turizm değerini artıran önemli bir unsurdur
 - Büyük Hamam, Ödemiş, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor
-- Bölge, históri ve kültürel açıdan zengin bir geçmişe sahip
+- Bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahip

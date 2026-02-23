@@ -23,11 +23,11 @@ wikidata_id: "Q108228128"
 
 # Bogazkoy-Alacahoyuk
 
-Bogazkoy-Alacahoyuk milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal ve tarihi alan olarak dikkat çekmektedir. Yaklaşık 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzelliklerle dolu bire davet etmektedir. Bu milli park, hem tarih hem de doğa severler için bir cennet olarak kabul edilebilir. Bölgenin coğrafi konumu ve iklimi, çeşitli bitki türlerinin yetişmesini ve zengin faunaın oluşmasını sağlamıştır. Bogazkoy-Alacahoyuk, ziyaretçilerine hem tarihi geçmişi hem de doğal güzellikleri keşfetme fırsatı sunmaktadır.
+Bogazkoy-Alacahoyuk milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal ve tarihi alan olarak dikkat çekmektedir. Bu milli park, hem tarih hem de doğa severler için bir cennet olarak kabul edilebilir. Bölgenin coğrafi konumu ve iklimi, çeşitli bitki türlerinin yetişmesini ve zengin faunaın oluşmasını sağlamıştır. Bogazkoy-Alacahoyuk, ziyaretçilerine hem tarihi geçmişi hem de doğal güzellikleri keşfetme fırsatı sunmaktadır.
 
 ## Tarihçe
 
-Bogazkoy-Alacahoyuk milli parkının tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmasıyla şekillenmiştir. Tarihi kayıtlar, bu bölgenin eski uygarlıkların önemli merkezlerinden biri olduğunu göstermektedir. Milli parkın içerisinde yer alan Alacahoyuk höyüğü, Hitit dönemi kalıntıları ile dikkat çekmektedir. Tarihi geçmişi ve kültürel önemi nedeniyle, Bogazkoy-Alacahoyuk milli parkı, Türkiye'nin önemli turizm merkezlerinden biri haline gelmiştir. Tarihi ve kültürel değerleri, ziyaretçilere bu bölgenin zengin geçmişini keşfetme fırsatı sunmaktadır.
+Bogazkoy-Alacahoyuk milli parkının tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmasıyla şekillenmiştir. Tarihi kayıtlar, bu bölgenin eski uygarlıkların önemli merkezlerinden biri olduğunu göstermektedir. Milli parkın içerisinde yer alan Alacahoyuk höyüğü, Hitit dönemi kalıntıları ile dikkat çekmektedir. Tarihi geçmişi ve kültürel önemi nedeniyle, Bogazkoy-Alacahoyuk milli parkı, Türkiye'nin önemli turizm merkezlerinden biri haline gelmiştir.
 
 ## Coğrafya
 

@@ -1,7 +1,7 @@
 ---
 title: "Andriake Doğu Hamamı"
 date: "2026-01-09T23:35:56.839Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739199"
 
 # Andriake Doğu Hamamı
 
-Demre'de, Antalya'nın Akdeniz Bölgesi'nde yer alan Andriake Doğu Hamamı, tarihi bir plaj ve hamam kompleksi olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir hareket alanı sunuyor. Andriake Doğu Hamamı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini etkiliyor. Plajın etrafında yer alan tarihi yapılar ve hamam kompleksi, ziyaretçilere geçmişe yolculuk imkanı sunuyor. Andriake Doğu Hamamı, Demre'nin en önemli turistik noktalarından biri olarak kabul ediliyor.
+Demre'de, Antalya'nın Akdeniz Bölgesi'nde yer alan Andriake Doğu Hamamı, tarihi bir plaj ve hamam kompleksi olarak dikkat çekiyor. Andriake Doğu Hamamı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini etkiliyor. Plajın etrafında yer alan tarihi yapılar ve hamam kompleksi, ziyaretçilere geçmişe yolculuk imkanı sunuyor. Andriake Doğu Hamamı, Demre'nin en önemli turistik noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

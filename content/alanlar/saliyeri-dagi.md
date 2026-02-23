@@ -50,9 +50,9 @@ Doğal bir sınır gibi davranan Salıyeri Dağı, çevresindeki diğer coğrafi
 
 ## Flora ve Fauna
 
-Salıyeri Dağı, İzmir'in yeşille örtülü bir köşesi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. 1200 hektarlık bu yeşil cennet, zeytinliklerle çevrili ve çam ormanlarıyla kaplı. Dağın yükseklik zonlarına göre değişen flora, ilkbaharda rengarenk çiçeklerle süsleniyor. 
+Salıyeri Dağı, İzmir'in yeşille örtülü bir köşesi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. 1200 hektarlık bu yeşil cennet, zeytinliklerle çevrili ve çam ormanlarıyla kaplı. Dağın yükseklik zonlarına göre değişen flora, ilkbaharda rengarenk çiçeklerle süsleniyor.
 
-Bitki örtüsünün hakim türleri, çam ağaçları ve zeytinliklerle birlikte, alpin flora da bu dağda yaşam buluyor. Mevsimsel değişimlere uyum gösteren bu bitkiler, sonbaharda göç eden kuşları ağırlıyor. 
+Bitki örtüsünün hakim türleri, çam ağaçları ve zeytinliklerle birlikte, alpin flora da bu dağda yaşam buluyor. Mevsimsel değişimlere uyum gösteren bu bitkiler, sonbaharda göç eden kuşları ağırlıyor.
 
 Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin. Dağ keçileri, tilkiler ve yaban domuzları gibi memeliler, çam ormanlarında ve zeytinliklerde yaşamını sürdürüyor. Kuşlar ise, göç rotalarının üzerinde bulunan bu dağda, önemli bir konaklama alanı buluyor. Ekolojik değerini koruma altına almak, bu dağ ekosisteminin sürekliliğiçin büyük önem taşıyor.
 

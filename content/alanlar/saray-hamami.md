@@ -1,7 +1,7 @@
 ---
 title: "Saray Hamamı"
 date: "2026-01-10T04:26:18.171Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ordu"
@@ -30,7 +30,7 @@ wikidata_id: "Q118780429"
 
 # Saray Hamamı
 
-Ünye'nin gizli cenneti olarak bilinen Saray Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok insanı ağırlayabilecek kapasiteye sahiptir. Saray Hamamı, Ünye'nin merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır. Bu plaj, geniş kumsalları, berra ve temiz denizi ile ziyaretçilerini cezbeder. Saray Hamamı, özellikle yaz aylarında tatilcilere ev sahipliği yapar ve birçok insan bu güzel plajda güneşlenmek, denize girme ve doğanın güzelliğini hissetmek için gelir. Saray Hamamı, Ünye'nin en önemli turizm noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
+Ünye'nin gizli cenneti olarak bilinen Saray Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. Saray Hamamı, Ünye'nin merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır. Bu plaj, geniş kumsalları, berra ve temiz denizi ile ziyaretçilerini cezbeder. Saray Hamamı, özellikle yaz aylarında tatilcilere ev sahipliği yapar ve birçok insan bu güzel plajda güneşlenmek, denize girme ve doğanın güzelliğini hissetmek için gelir. Saray Hamamı, Ünye'nin en önemli turizm noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Saray Hamamı, Ünye'nin merkezine uzun bir mesafe uzaklıkta yer alır ve Karad
 
 ## Flora ve Fauna
 
-Saray Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu plaj, geniş kumsalları ve berrak denizi ile birçok canlıya ev sahipliği yapar. Saray Hamamı, özellikle yaz aylarında birçok türde deniz canlısına ev sahipliği yapar ve bu plajda birçok insan deniz canlılarını gözlemlemek için gelir. Saray Hamamı'nın flora ve faunası, Ünye'nin flora ve faunası ile bağlantılıdır ve bu plaj, Ünye'nin en önemli ekolojik noktalarından biri olarak kabul edilir. Saray Hamamı, birçok insan tarafından ziyaret edilir ve bu plajda güzel anılar yaratılır. Saray Hamamı'nın flora ve faunası, Ünye'nin doğal güzelliğini gösterir ve bu plaj, Ünye'nin en önemli turizm noktalarından biri olarak kabul edilir.
+ Bu plaj, geniş kumsalları ve berrak denizi ile birçok canlıya ev sahipliği yapar. Saray Hamamı, özellikle yaz aylarında birçok türde deniz canlısına ev sahipliği yapar ve bu plajda birçok insan deniz canlılarını gözlemlemek için gelir. Saray Hamamı'nın flora ve faunası, Ünye'nin flora ve faunası ile bağlantılıdır ve bu plaj, Ünye'nin en önemli ekolojik noktalarından biri olarak kabul edilir. Saray Hamamı, birçok insan tarafından ziyaret edilir ve bu plajda güzel anılar yaratılır. Saray Hamamı'nın flora ve faunası, Ünye'nin doğal güzelliğini gösterir ve bu plaj, Ünye'nin en önemli turizm noktalarından biri olarak kabul edilir.
 
 ## Ziyaret Bilgileri
 

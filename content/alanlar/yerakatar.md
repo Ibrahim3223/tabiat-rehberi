@@ -50,11 +50,11 @@ Mevsimsel değişimler, Yerakatar Dağı'nın iklim karakterini önemli ölçüd
 
 ## Flora ve Fauna
 
-Yerakatar dağının yükseklik zonları, alpin çayırlarla kaplı bir görsel şölen sunar. İlkbaharda, dağ yamaçları renkli çiçeklerle donanır; sonbaharda ise göç eden kuş sürüleri gökyüzünü doldurur. 
+Yerakatar dağının yükseklik zonları, alpin çayırlarla kaplı bir görsel şölen sunar. İlkbaharda, dağ yamaçları renkli çiçeklerle donanır; sonbaharda ise göç eden kuş sürüleri gökyüzünü doldurur.
 
-Bitki örtüsünde hakim türler, yüksekli ve iklim koşullarına uyum sağlamış çayırlık bitkilerdir. Mevsimsel değişimlerle birlikte, dağ çayırları farklı bir görünüm kazanır. 
+Bitki örtüsünde hakim türler, yüksekli ve iklim koşullarına uyum sağlamış çayırlık bitkilerdir. Mevsimsel değişimlerle birlikte, dağ çayırları farklı bir görünüm kazanır.
 
-Yaban hayatı dağların yükseklik zonlarına adapte olmuş türlerle doludur. Memeliler ve kuşlar, bu dağ ekosisteminin önemli bileşenleridir. Sürüngenler de, sıca ve kayalık alanlarda yaşamını sürdürür. 
+Yaban hayatı dağların yükseklik zonlarına adapte olmuş türlerle doludur. Memeliler ve kuşlar, bu dağ ekosisteminin önemli bileşenleridir. Sürüngenler de, sıca ve kayalık alanlarda yaşamını sürdürür.
 
 Yerakatar dağının ekolojik değeri, yüksek dağ ekolojisi ve endemik türlerin varlığından gelir. Bu alanın korunması, bölgenin biyolojik çeşitliliğinin korunması için önemlidir.
 

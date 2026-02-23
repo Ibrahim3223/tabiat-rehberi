@@ -28,7 +28,7 @@ wikidata_id: "Q31385721"
 
 # Karabayır Tepesi
 
-Karabayır Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kayseri şehrinin sınırları içinde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve büyüklüğü itibarıyla yaklaşık 200 futbol sahası büyüklüğüne eşittir. Karabayır Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet eder. Tepenin eteklerinde ve surroundingsında çeşitli bitki türleri bulunur ve bu bölge, yaban hayatının zenginleştirilmesi açısından önemli bir rol oynar. Karabayır Tepesi, aynı zamanda şehrin tarihi geçmişini anlamak için de önemli bir noktadır.
+Karabayır Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kayseri şehrinin sınırları içinde yer alır. Karabayır Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet eder. Tepenin eteklerinde ve surroundingsında çeşitli bitki türleri bulunur ve bu bölge, yaban hayatının zenginleştirilmesi açısından önemli bir rol oynar. Karabayır Tepesi, aynı zamanda şehrin tarihi geçmişini anlamak için de önemli bir noktadır.
 
 ## Tarihçe
 

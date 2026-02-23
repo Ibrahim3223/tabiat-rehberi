@@ -22,7 +22,7 @@ wikidata_id: "Q108228096"
 
 # Canakkale Can-Kazdagigoknari
 
-Canakkale Can-Kazdagigoknari milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın kucağına davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Canakkale Can-Kazdagigoknari, doğa severlerin ve macera arayanların buluşma noktası olarak hizmet vermeye devam ediyor.
+Canakkale Can-Kazdagigoknari milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Canakkale Can-Kazdagigoknari, doğa severlerin ve macera arayanların buluşma noktası olarak hizmet vermeye devam ediyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Canakkale Can-Kazdagigoknari milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Canakkale Can-Kazdagigoknari milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerine geniş veengin bir doğa deneyimi sunuyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu. İklimi, mevsimsel değişimlere göre farklılık gösteriyor. kışın soğukk, yazın sıcakk olan bu bölgede, mevsimler arasında önemli farklılıklar var. Canakkale Can-Kazdagigoknari, ziyaretçilerine doğanın tüm güzelliklerini sunuyor. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor.
+Canakkale Can-Kazdagigoknari milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu. İklimi, mevsimsel değişimlere göre farklılık gösteriyor. kışın soğukk, yazın sıcakk olan bu bölgede, mevsimler arasında önemli farklılıklar var. Canakkale Can-Kazdagigoknari, ziyaretçilerine doğanın tüm güzelliklerini sunuyor. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Canakkale Can-Kazdagigoknari milli parkını ziyaret etmek, doğa severler için
 
 ## İlginç Bilgiler
 
-- Canakkale Can-Kazdagigoknari milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Park, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 - Canakkale Can-Kazdagigoknari, yüzyıllar boyunca şekillenmiş bir tarihi geçmişi var.
 - Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu.

@@ -51,11 +51,11 @@ Mevesimlik değişikliklere göre iklim karakteri değişen İncirli Ada, yaz ay
 
 ## Flora ve Fauna
 
-İncirli Ada, İzmir'in kıyılarında bulunan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+İncirli Ada, İzmir'in kıyılarında bulunan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak bakıldığında, ada zeytinlikler ve çam ormanları ile kaplıdır. İlkbaharın gelmesiyle birlikte ada, rengarenk çiçeklerle donanır. Kıyı bitkileri, ada çevresindeki kayalıkları süsler. 
+Bitki Örtüsü olarak bakıldığında, ada zeytinlikler ve çam ormanları ile kaplıdır. İlkbaharın gelmesiyle birlikte ada, rengarenk çiçeklerle donanır. Kıyı bitkileri, ada çevresindeki kayalıkları süsler.
 
-Yaban Hayatı olarak, ada özellikle deniz kuşlarına ev sahipliği yapar. Sonbaharın gelmesiyle birlikte, göç eden kuşlar ada üzerinde kısa bir mola verir. Ada aynı zamanda memeliler ve sürüngenler için de uygun bir yaşam alanını sunar. 
+Yaban Hayatı olarak, ada özellikle deniz kuşlarına ev sahipliği yapar. Sonbaharın gelmesiyle birlikte, göç eden kuşlar ada üzerinde kısa bir mola verir. Ada aynı zamanda memeliler ve sürüngenler için de uygun bir yaşam alanını sunar.
 
 Ekolojik Değer olarak, ada ekosistemi izole popülasyonlara ev sahipliği yapar. Bu izole popülasyonlar, ada için önemli bir ekolojik değer oluşturur. Ada, aynı zamanda deniz kuşları ve diğer canlılar için önemli bir yaşam alanıdır. Bu nedenle, ada ekosisteminin korunması büyük önem taşır.
 

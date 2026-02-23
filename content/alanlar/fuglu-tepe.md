@@ -28,7 +28,7 @@ wikidata_id: "Q31387514"
 
 # Fuglu Tepe
 
-Fuglu Tepe, Çanakkale'nin kalbinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezinden kolayca ulaşılabilir. Fuglu Tepe, ziyaretçilerini şehrin ve çevrenin doğal güzelliklerini keşfetmeye davet ediyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için bir hazine.
+Fuglu Tepe, Çanakkale'nin kalbinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Fuglu Tepe, ziyaretçilerini şehrin ve çevrenin doğal güzelliklerini keşfetmeye davet ediyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için bir hazine.
 
 ## Tarihçe
 

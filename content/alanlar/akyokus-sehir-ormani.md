@@ -22,7 +22,7 @@ wikidata_id: "Q108228699"
 
 # AKYOKUŞ ŞEHİR ORMANI
 
-Akyokuş Şehir Ormanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup ziyaretçilerini doğayla baş başa bırakıyor. Ormanın içerisinde çeşitli bitki türleri ve zengin fauna bulunur. Akyokuş Şehir Ormanı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyon. Orman, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim farklı bir güzelliğe sahip.
+Akyokuş Şehir Ormanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alana sahiptir. Ormanın içerisinde çeşitli bitki türleri ve zengin fauna bulunur. Akyokuş Şehir Ormanı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyon. Orman, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim farklı bir güzelliğe sahip.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Akyokuş Şehir Ormanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Akyokuş Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Orman, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu yeşil alan, ziyaretçilerini doğayla baş başa bırakır ve çeşitli bitki türleri ile zengin fauna barındırır. Ormanın coğrafi konumu, bölgenin iklim koşullarını da etkiler. Akyokuş Şehir Ormanı, yıl boyunca farklı mevsimlere uyum sağlar ve her mevsim farklı bir güzelliğe sahip. Orman, aynı zamanda çevresindeki doğal güzelliklerle de dikkat çeker. Akyokuş Şehir Ormanı'nın coğrafi yapısı, ziyaretçilerine doğanın güzelliğini deneyimleme fırsatı sunar.
+Akyokuş Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu yeşil alan, ziyaretçilerini doğayla baş başa bırakır ve çeşitli bitki türleri ile zengin fauna barındırır. Ormanın coğrafi konumu, bölgenin iklim koşullarını da etkiler. Akyokuş Şehir Ormanı, yıl boyunca farklı mevsimlere uyum sağlar ve her mevsim farklı bir güzelliğe sahip. Orman, aynı zamanda çevresindeki doğal güzelliklerle de dikkat çeker. Akyokuş Şehir Ormanı'nın coğrafi yapısı, ziyaretçilerine doğanın güzelliğini deneyimleme fırsatı sunar.
 
 ## Flora ve Fauna
 
-Akyokuş Şehir Ormanı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Ormanda, mevsimsel değişimlere bağlı olarak farklı bitki türleri bulunur. Bu bitki türleri, ormanın ekolojik dengesini sağlar ve ziyaretçilere renkli bir manzara sunar. Akyokuş Şehir Ormanı'nın fauna zenginliği de dikkat çeker. Ormanda, çeşitli hayvan türleri yaşar ve ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunar. Ormanın flora ve fauna zenginliği, ziyaretçilerin doğayla iç içe etmesine olanak tanır.
+ Ormanda, mevsimsel değişimlere bağlı olarak farklı bitki türleri bulunur. Bu bitki türleri, ormanın ekolojik dengesini sağlar ve ziyaretçilere renkli bir manzara sunar. Akyokuş Şehir Ormanı'nın fauna zenginliği de dikkat çeker. Ormanda, çeşitli hayvan türleri yaşar ve ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunar. Ormanın flora ve fauna zenginliği, ziyaretçilerin doğayla iç içe etmesine olanak tanır.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390969"
 
 # Otlukdağı Tepesi
 
-Otlukdağı Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık geniş bir alanı kapsayan bir doğa harikasıdır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Tepenin eteklerinde yer alan köyler, geleneksel mimari ile süslenmiş ve ziyaretçilere sıcak bir karşılama sunar. Otlukdağı Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak dikkat çekmektedir.
+Otlukdağı Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık geniş bir alanı kapsayan bir doğa harikasıdır. Tepenin eteklerinde yer alan köyler, geleneksel mimari ile süslenmiş ve ziyaretçilere sıcak bir karşılama sunar. Otlukdağı Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak dikkat çekmektedir.
 
 ## Tarihçe
 

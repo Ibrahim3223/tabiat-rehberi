@@ -22,7 +22,7 @@ wikidata_id: "Q108227742"
 
 # Zonguldak-Yenice-Bakraz Dogu Kayini
 
-Zonguldak-Yenice-Bakraz Dogu Kayini milli parkı, Karadeniz Bölgesi'nin güzide kentlerinden Zonguldak'ta yer alan bir doğal güzelliğimiz. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, yemyeşil ormanları, çıplak kayaları ve çeşitli bitki türleri ile ziyaretçilerini büyülüyor. Tarihi geçmişi ile de dikkat çeken bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış. Zonguldak-Yenice-Bakraz Dogu Kayini milli parkını ziyaret ettiğinizde, doğanın güzelliğini ve tarihin zenginliğini aynı anda keşfetme fırsatı bulacaksınız.
+Zonguldak-Yenice-Bakraz Dogu Kayini milli parkı, Karadeniz Bölgesi'nin güzide kentlerinden Zonguldak'ta yer alan bir doğal güzelliğimiz. Tarihi geçmişi ile de dikkat çeken bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış. Zonguldak-Yenice-Bakraz Dogu Kayini milli parkını ziyaret ettiğinizde, doğanın güzelliğini ve tarihin zenginliğini aynı anda keşfetme fırsatı bulacaksınız.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Zonguldak-Yenice-Bakraz Dogu Kayini milli parkının tarihi geçmişi, birçok m
 
 ## Coğrafya
 
-Zonguldak-Yenice-Bakraz Dogu Kayini milli parkı, Karadeniz Bölgesi'nin Zonguldak ilinde yer alıyor. Parkın coğrafi yapısı, yemyeşil ormanları, çıplak kayaları ve çeşitli bitki türleri ile dikkat çekiyor. Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilere geniş bir gezi alanı sunuyor. Parkın iklimi, Karadeniz Bölgesi'nin iklimi ile benzerlik gösteriyor. Bu bölgede, genellikle ılıman ve yağışlı bir iklim hüküm sürüyor. Parkın coğrafi konumu, ziyaretçilere birçok gezi ve keşif fırsatı sunuyor. Zonguldak-Yenice-Bakraz Dogu Kayini milli parkını ziyaret ettiğinizde, bu coğrafi güzelliği ve çeşitliliği keşfetme fırsatı bulacaksınız. Parkın coğrafi yapısı, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar, ziyaretçileri bekliyor.
+Zonguldak-Yenice-Bakraz Dogu Kayini milli parkı, Karadeniz Bölgesi'nin Zonguldak ilinde yer alıyor. Parkın coğrafi yapısı, yemyeşil ormanları, çıplak kayaları ve çeşitli bitki türleri ile dikkat çekiyor. Bu alan, ziyaretçilere geniş bir gezi alanı sunuyor. Parkın iklimi, Karadeniz Bölgesi'nin iklimi ile benzerlik gösteriyor. Bu bölgede, genellikle ılıman ve yağışlı bir iklim hüküm sürüyor. Parkın coğrafi konumu, ziyaretçilere birçok gezi ve keşif fırsatı sunuyor. Zonguldak-Yenice-Bakraz Dogu Kayini milli parkını ziyaret ettiğinizde, bu coğrafi güzelliği ve çeşitliliği keşfetme fırsatı bulacaksınız. Parkın coğrafi yapısı, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar, ziyaretçileri bekliyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Zonguldak-Yenice-Bakraz Dogu Kayini milli parkını ziyaret etmek, birçok gezi 
 ## İlginç Bilgiler
 
 - Zonguldak-Yenice-Bakraz Dogu Kayini milli parkı, Karadeniz Bölgesi'nin güzide kentlerinden Zonguldak'ta yer alıyor.
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Parkın coğrafi yapısı, yemyeşil ormanları, çıplak kayaları ve çeşitli bitki türleri ile dikkat çekiyor.
 - Zonguldak-Yenice-Bakraz Dogu Kayini milli parkı, zengin bir flora ve fauna çeşitliliğine sahip.
 - Parkın flora ve fauna çeşitliliği, ziyaretçilere birçok gezi ve keşif fırsatı sunuyor.

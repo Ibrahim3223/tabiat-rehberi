@@ -28,7 +28,7 @@ wikidata_id: "Q34835334"
 
 # Beşardıç Tepesi
 
-Beşardıç Tepesi, Karaman'ın güzide noktalarından biridir. 140 hektarlık bu yeşil alan, aproximadamente 200 futbol sahası büyüklüğünde. Burada, ziyaretçiler hem doğayı hem de coğrafi güzelliği keşfedebilir. Bu tepe, Karaman'ın önemli bir parçası olarak bilinir ve ziyaretçilerini bekliyor. İç Anadolu Bölgesi'nin önemli noktalarından biri olan Beşardıç Tepesi, ziyaretçiler için unutulmaz bir deneyimi sunar.
+Beşardıç Tepesi, Karaman'ın güzide noktalarından biridir. Burada, ziyaretçiler hem doğayı hem de coğrafi güzelliği keşfedebilir. Bu tepe, Karaman'ın önemli bir parçası olarak bilinir ve ziyaretçilerini bekliyor. İç Anadolu Bölgesi'nin önemli noktalarından biri olan Beşardıç Tepesi, ziyaretçiler için unutulmaz bir deneyimi sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Beşardıç Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Beşardıç Tepesi, Karaman'da yer alan bir coğrafi noktadır. 140 hektarlık bu yeşil alan, aproximadamente 200 futbol sahası büyüklüğünde. Burada, ziyaretçiler hem doğayı hem de coğrafi güzelliği keşfedebilir. Bu tepe, İç Anadolu Bölgesi'nin önemli noktalarından biri olarak bilinir ve ziyaretçilerini bekliyor. Beşardıç Tepesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Burada, ziyaretçiler hem flora hem de fauna hakkında bilgi edinebilir. Bu tepe, Karaman'ın önemli bir parçası olarak bilinir ve ziyaretçilerini bekliyor.
+Beşardıç Tepesi, Karaman'da yer alan bir coğrafi noktadır. Burada, ziyaretçiler hem doğayı hem de coğrafi güzelliği keşfedebilir. Bu tepe, İç Anadolu Bölgesi'nin önemli noktalarından biri olarak bilinir ve ziyaretçilerini bekliyor. Beşardıç Tepesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Burada, ziyaretçiler hem flora hem de fauna hakkında bilgi edinebilir. Bu tepe, Karaman'ın önemli bir parçası olarak bilinir ve ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108226493"
 
 # Marzalli Koru Yaylasi Sit Alanı
 
-Marzalli Koru Yaylasi Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal sit alanlarından biri. Doğal güzellikleri, zengin florası ve faunası ile ziyaretçilerini büyüleyen Marzalli Koru Yaylasi, aynı zamanda birkoru ve yayla olarak da tanımlanıyor. Koru ve yayla arasındaki geçişin güzel bir örneğini sunan bu alan, doğa severler için bir cennet niteliğinde. Marzalli Koru Yaylasi Sit Alanı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor ve bölgenin tarihini, kültürünü ve doğal zenginliklerini deneyimleme olanağı sağlıyor.
+Marzalli Koru Yaylasi Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Doğal güzellikleri, zengin florası ve faunası ile ziyaretçilerini büyüleyen Marzalli Koru Yaylasi, aynı zamanda birkoru ve yayla olarak da tanımlanıyor. Koru ve yayla arasındaki geçişin güzel bir örneğini sunan bu alan, doğa severler için bir cennet niteliğinde. Marzalli Koru Yaylasi Sit Alanı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor ve bölgenin tarihini, kültürünü ve doğal zenginliklerini deneyimleme olanağı sağlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Marzalli Koru Yaylasi Sit Alanı'nın tarihi geçmişi oldukça zengin. Bu bölg
 
 ## Coğrafya
 
-Marzalli Koru Yaylasi Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. 140 hektarlık bir alanı kapsayan bu sit, yaklaşık 200 futbol sahası büyüklüğünde. Alanın coğrafi yapısı, koru ve yayla arasındaki geçişin güzel bir örneğini sunuyor. Marzalli Koru Yaylasi, yüksekli ve eğim açısından çeşitli coğrafi özelliklere sahip. Bu sit alanı, bölgenin iklimine uygun olarak, çeşitli bitki türleri ve hayvanlarla dolu. Coğrafi yapı, ziyaretçilerin doğayı keşfetmelerine olanak tanıyan yürüyüş yolları ve gözlem noktalarıyla zenginleştiriliyor. Marzalli Koru Yaylasi Sit Alanı, coğrafi güzellikleri, doğal zenginlikleri ve tarihi önemiyle birlikte, ziyaretçilere benzersiz bir deneyim sunuyor.
+Marzalli Koru Yaylasi Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Alanın coğrafi yapısı, koru ve yayla arasındaki geçişin güzel bir örneğini sunuyor. Marzalli Koru Yaylasi, yüksekli ve eğim açısından çeşitli coğrafi özelliklere sahip. Bu sit alanı, bölgenin iklimine uygun olarak, çeşitli bitki türleri ve hayvanlarla dolu. Coğrafi yapı, ziyaretçilerin doğayı keşfetmelerine olanak tanıyan yürüyüş yolları ve gözlem noktalarıyla zenginleştiriliyor. Marzalli Koru Yaylasi Sit Alanı, coğrafi güzellikleri, doğal zenginlikleri ve tarihi önemiyle birlikte, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

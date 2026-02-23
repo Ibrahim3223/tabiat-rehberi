@@ -32,8 +32,8 @@ Diyarbakır'ın tarihi ve kültürel zenginliklerinin arasında yer alan Girbeş
 
 ## Tarihçe
 
-Diyarbakır bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu topraklar, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşamına ev sahipliği yapmıştır. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu bölgede izlerini bırakmışlardır. 
-Girbeşik Tepe, bu tarihsel zenginliğin bir parçası olarak görülebilir. Türkiye'de benzer doğal alanlar, genellikle insan yerleşimlerinin kurulduğu, ticaret yollarının oluştuğu ve hayvancılık faaliyetlerinin yürütüldüğü önemli merkezler olarak görev görmüşlerdir. Yaylacılık ve hayvan otlatma gibi geleneksel faaliyetler, bu bölgelerin ekonomi ve kültürel yaşamında önemli bir yer tutmuştur. 
+Diyarbakır bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu topraklar, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşamına ev sahipliği yapmıştır. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu bölgede izlerini bırakmışlardır.
+Girbeşik Tepe, bu tarihsel zenginliğin bir parçası olarak görülebilir. Türkiye'de benzer doğal alanlar, genellikle insan yerleşimlerinin kurulduğu, ticaret yollarının oluştuğu ve hayvancılık faaliyetlerinin yürütüldüğü önemli merkezler olarak görev görmüşlerdir. Yaylacılık ve hayvan otlatma gibi geleneksel faaliyetler, bu bölgelerin ekonomi ve kültürel yaşamında önemli bir yer tutmuştur.
 Girbeşik Tepe'nin bulunduğu Diyarbakır bölgesi, coğrafi konumu itibariyle tarihin her döneminde önemli bir geçiş noktası olarak kullanılmıştır. Bu bölgedeki doğal güzellikler, sadece yerel halkın değil, aynı zamanda ticaret kervanlarının ve seyahat edenlerin de önemli durak noktaları olmuştur. Bu tür alanlar, insanların doğayla iç içe yaşadığı ve doğal kaynakları değerlendirdiği yerler olarak, Türkiye'nin kültürel ve tarihi mirasının önemli bir parçasını oluşturur.
 
 ## Coğrafya

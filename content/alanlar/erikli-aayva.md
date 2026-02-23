@@ -22,7 +22,7 @@ wikidata_id: "Q108227803"
 
 # Erikli-A.Ayva
 
-Erikli-A.Ayva milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Burası, hem doğa severler hem de tarih meraklıları için bir cennet olarak kabul edilir. Gökyüzünün mavi tonları, yeşilin farklı tonları ve coğrafyanın eşsiz güzelliği, ziyaretçilere unutulmaz bir deneyim sunar. Milli parkın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Doğal güzellikleri, flora ve fauna çeşitliliği ile birlikte, bu bölgeyi ziyaret etmek, bir doğa belgeseli izlemek gibi bir deneyim sağlar.
+Erikli-A.Ayva milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Burası, hem doğa severler hem de tarih meraklıları için bir cennet olarak kabul edilir. Gökyüzünün mavi tonları, yeşilin farklı tonları ve coğrafyanın eşsiz güzelliği, ziyaretçilere unutulmaz bir deneyim sunar. Milli parkın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Doğal güzellikleri, flora ve fauna çeşitliliği ile birlikte, bu bölgeyi ziyaret etmek, bir doğa belgeseli izlemek gibi bir deneyim sağlar.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Erikli-A.Ayva milli parkını ziyaret etmek, bir doğa sever için unutulmaz bir
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğüne eşittir.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır.
 - Milli park, flora ve fauna açısından zengin bir bölge olarak kabul edilir.
 - Doğal güzellikleri, flora ve fauna çeşitliliği ile birlikte, bu bölgeyi ziyaret etmek, bir doğa belgeseli izlemek gibi bir deneyim sağlar.

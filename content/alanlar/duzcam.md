@@ -50,9 +50,9 @@ Mevsimsel açıdan incelendiğinde, Düzçam Dağı'nın iklimi, Ege Bölgesi'ni
 
 ## Flora ve Fauna
 
-Düzçam Dağı, Çanakkale'nin gözde alanlarından biri. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Geçiş ikliminin karakteristik özelliği olan karma ormanlar, bu dağda hakim. 
+Düzçam Dağı, Çanakkale'nin gözde alanlarından biri. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Geçiş ikliminin karakteristik özelliği olan karma ormanlar, bu dağda hakim.
 
-Bitki örtüsünde, ilkbaharla birlikte çiçekler açmaya başlar. Sonbaharda ise göçmen kuşlar buraya uğrar. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarını bir arada barındırır. 
+Bitki örtüsünde, ilkbaharla birlikte çiçekler açmaya başlar. Sonbaharda ise göçmen kuşlar buraya uğrar. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarını bir arada barındırır.
 
 Yaban hayatında, memeliler, kuşlar ve sürüngenler bulunur. Dağların yüksek kesimlerinde, kartallar ve diğer yırtıcı kuşlar yaşar. Ekolojik değerini, göçmen kuş rotası üzerinde oluşu ve karma orman ekosistemi sağlar. Koruma durumu ise, bölgenin ekolojik değerinin fark edilmesi ve korunmasına yönelik çalışmaların sürmesi ile önemlidir.
 

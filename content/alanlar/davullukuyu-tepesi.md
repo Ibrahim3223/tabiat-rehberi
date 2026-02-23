@@ -28,7 +28,7 @@ wikidata_id: "Q31557775"
 
 # Davullukuyu Tepesi
 
-Davullukuyu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu bölge, coğrafi özellikleri ve tarihi geçmişi ile dikkat çekmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini geniş ve yeşil bir mekan ile karşılar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Davullukuyu Tepesi, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini bekliyor.
+Davullukuyu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu bölge, coğrafi özellikleri ve tarihi geçmişi ile dikkat çekmektedir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Davullukuyu Tepesi, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Davullukuyu Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve b�
 
 ## Coğrafya
 
-Davullukuyu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, coğrafi özellikleri ile dikkat çekmektedir. Tepenin yüksekliği ve genişliği, ziyaretçilerine geniş ve yeşil bir mekan sunar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, etrafında ve çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin eteklerinde, küçük akarsular ve derenin oluşturduğu vadiler, bölgenin coğrafi çeşitliliğini artırmaktadır. Davullukuyu Tepesi, coğrafi özelliklerinin yanı sıra, ikliminin de ziyaretçilerine uygun olması ile bilinir. Bölge, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri göstermektedir.
+Davullukuyu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, coğrafi özellikleri ile dikkat çekmektedir. Tepenin yüksekliği ve genişliği, ziyaretçilerine geniş ve yeşil bir mekan sunar. Tepenin eteklerinde, küçük akarsular ve derenin oluşturduğu vadiler, bölgenin coğrafi çeşitliliğini artırmaktadır. Davullukuyu Tepesi, coğrafi özelliklerinin yanı sıra, ikliminin de ziyaretçilerine uygun olması ile bilinir. Bölge, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri göstermektedir.
 
 ## Flora ve Fauna
 

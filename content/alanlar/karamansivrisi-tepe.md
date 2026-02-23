@@ -28,7 +28,7 @@ wikidata_id: "Q31390207"
 
 # Karamansivrisi Tepe
 
-Karamansivrisi Tepe, Burdur'un merkezine yakın bir konumda yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Karamansivrisi Tepe, tarihi geçmişi ve doğal güzellikleri ile dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, yüzyıllar boyunca farklı uygarlıkların izleri görülebilir. Karamansivrisi Tepe, hem tarih meraklıları hem de doğa severler için önemli bir destinasyondur.
+Karamansivrisi Tepe, Burdur'un merkezine yakın bir konumda yer alır. Karamansivrisi Tepe, tarihi geçmişi ve doğal güzellikleri ile dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, yüzyıllar boyunca farklı uygarlıkların izleri görülebilir. Karamansivrisi Tepe, hem tarih meraklıları hem de doğa severler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Karamansivrisi Tepe, Akdeniz Bölgesi'nde yer alır ve coğrafi olarak önemli b
 
 ## Flora ve Fauna
 
-Karamansivrisi Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, yaban hayatı çeşitlilik gösterir ve birçok farklı canlı türü bulunur. Karamansivrisi Tepe'nin flora ve fauna yapısı, mevsimsel değişimlere göre şekillenir. Burada, bahar aylarında çiçeklerin açması ve yaz aylarında yeşilliğin hakim olması dikkat çeker. Karamansivrisi Tepe, ekolojik olarak önemli bir bölgedir ve koruma altına alınmıştır. Bu bölge, doğa severler ve bilim insanları için önemli bir araştırma ve gözlem alanı olarak kabul edilir.
+ Bu bölgede, yaban hayatı çeşitlilik gösterir ve birçok farklı canlı türü bulunur. Karamansivrisi Tepe'nin flora ve fauna yapısı, mevsimsel değişimlere göre şekillenir. Burada, bahar aylarında çiçeklerin açması ve yaz aylarında yeşilliğin hakim olması dikkat çeker. Karamansivrisi Tepe, ekolojik olarak önemli bir bölgedir ve koruma altına alınmıştır. Bu bölge, doğa severler ve bilim insanları için önemli bir araştırma ve gözlem alanı olarak kabul edilir.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,7 @@ Karamansivrisi Tepe, yılın her dönemi ziyaret edilebilir. Ancak, en uygun zam
 ## İlginç Bilgiler
 
 - Karamansivrisi Tepe, Burdur'un en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Karamansivrisi Tepe, yüzyıllar boyunca farklı uygarlıkların hakimiyeti altında bulunmuştur.
 - Bu bölgede, çeşitli kazılar ve araştırmalar yapılmış ve önemli tarihi eserler bulunmuştur.
 - Karamansivrisi Tepe, coğrafi olarak önemli bir konuma sahiptir ve Akdeniz Bölgesi'nde yer alır.

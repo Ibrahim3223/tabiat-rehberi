@@ -28,7 +28,7 @@ wikidata_id: "Q32138529"
 
 # Gölük Tepe
 
-Gölük Tepe, İç Anadolu Bölgesi'nin merkezinde, Niğde ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Gölük Tepe, ziyaretçiler için bir çekim merkezi olan bir doğa harikası. Tepe, çevresindeki manzaralarla birlikte, bir bütün olarak doğa severlerin ilgisini çekiyor. Gölük Tepe, Niğde'nin güzelliklerini keşfetmek isteyenler için önemli bir durak noktası.
+Gölük Tepe, İç Anadolu Bölgesi'nin merkezinde, Niğde ilinde yer alan bir tepe. Gölük Tepe, ziyaretçiler için bir çekim merkezi olan bir doğa harikası. Tepe, çevresindeki manzaralarla birlikte, bir bütün olarak doğa severlerin ilgisini çekiyor. Gölük Tepe, Niğde'nin güzelliklerini keşfetmek isteyenler için önemli bir durak noktası.
 
 ## Tarihçe
 

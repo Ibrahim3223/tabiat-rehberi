@@ -36,7 +36,7 @@ Darlıksivrisi Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeni
 
 ## Coğrafya
 
-Darlıksivrisi Tepesi, Manisa ilinin coğrafi yapısına uygun olarak Ege Bölgesi'nin karakteristik özelliklerini taşır. Bu tepe, 140 hektarlık bir arazide yer alır ve yaklaşık olarak 200 futbol sahası büyüklüğündedir. Tepenin coğrafi konumu, ziyaretçilerine çevredeki diğer güzellikleri keşfetme fırsatı sunar. Ege Bölgesi'nin iklimi, bu bölgede yer alan Darlıksivrisi Tepesi'nin güzelliğini daha da artırır. Tepenin eteklerinde ve çevresinde yer alan vadiler ve diğer tepeler, bu bölgenin coğrafi çeşitliliğini gözler önüne serer. Ayrıca, Darlıksivrisi Tepesi'nin coğrafi konumu, ziyaretçilerin bu bölgeyi ziyaret ederken diğer güzellikleri de keşfetmesine olanak sağlar.
+Darlıksivrisi Tepesi, Manisa ilinin coğrafi yapısına uygun olarak Ege Bölgesi'nin karakteristik özelliklerini taşır. Tepenin coğrafi konumu, ziyaretçilerine çevredeki diğer güzellikleri keşfetme fırsatı sunar. Ege Bölgesi'nin iklimi, bu bölgede yer alan Darlıksivrisi Tepesi'nin güzelliğini daha da artırır. Tepenin eteklerinde ve çevresinde yer alan vadiler ve diğer tepeler, bu bölgenin coğrafi çeşitliliğini gözler önüne serer. Ayrıca, Darlıksivrisi Tepesi'nin coğrafi konumu, ziyaretçilerin bu bölgeyi ziyaret ederken diğer güzellikleri de keşfetmesine olanak sağlar.
 
 ## Flora ve Fauna
 

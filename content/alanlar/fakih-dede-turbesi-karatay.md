@@ -1,7 +1,7 @@
 ---
 title: "Fakih Dede Türbesi, Karatay"
 date: "2026-01-10T05:52:29.265Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582377"
 
 # Fakih Dede Türbesi, Karatay
 
-Fakih Dede Türbesi, Konya'nın Karatay ilçesinde yer alan tarihi ve kültürel açıdan önemli bir dini mekan olarak karşımıza çıkıyor. Bu mekan, yaklaşık 140 hektarlık bir alanda, şehrin merkezi bölgesinde bulunuyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu türbe, ziyaretçilerini tarihi ve dini açıdan zengin bir expérience sunuyor. Fakih Dede Türbesi, özellikle dini ve kültürel değerleri öğrenmek isteyenler için önemli bir destinasyon olarak görülüyor.
+Fakih Dede Türbesi, Konya'nın Karatay ilçesinde yer alan tarihi ve kültürel açıdan önemli bir dini mekan olarak karşımıza çıkıyor. Bu mekan, yaklaşık 140 hektarlık bir alanda, şehrin merkezi bölgesinde bulunuyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu türbe, ziyaretçilerini tarihi ve dini açıdan zengin bir deneyim sunuyor. Fakih Dede Türbesi, özellikle dini ve kültürel değerleri öğrenmek isteyenler için önemli bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Fakih Dede Türbesi'nin tarihi geçmişi, bölgenin dini ve kültürel gelişimi
 
 ## Coğrafya
 
-Fakih Dede Türbesi, Konya'nın Karatay ilçesinde, şehrin merkezi bölgesinde yer alıyor. Bu mekan, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Türbenin etrafı, tarihi yapılar ve yeşillik alanlarla çevrili. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu bölgede de görülüyor. Step ikliminin hakim olduğu bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Fakih Dede Türbesi, ziyaretçilerine hem tarihi hem de coğrafi açıdan zengin bir deneyim sunuyor. Türbenin yakınında, çeşitli restoranlar ve dükkanlar bulunmakta. Ziyaretçilerin, bu bölgede yöresel lezzetleri tatma ve yerel ürünler satın alma fırsatı buluyor.
+Fakih Dede Türbesi, Konya'nın Karatay ilçesinde, şehrin merkezi bölgesinde yer alıyor. Türbenin etrafı, tarihi yapılar ve yeşillik alanlarla çevrili. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu bölgede de görülüyor. Step ikliminin hakim olduğu bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçiyor. Fakih Dede Türbesi, ziyaretçilerine hem tarihi hem de coğrafi açıdan zengin bir deneyim sunuyor. Türbenin yakınında, çeşitli restoranlar ve dükkanlar bulunmakta. Ziyaretçilerin, bu bölgede yöresel lezzetleri tatma ve yerel ürünler satın alma fırsatı buluyor.
 
 ## Flora ve Fauna
 

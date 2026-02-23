@@ -1,7 +1,7 @@
 ---
 title: "Hepkebirler Türbesi"
 date: "2026-01-10T05:57:04.299Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390534"
 
 # Hepkebirler Türbesi
 
-Kastamonu ilinin merkezinde bulunan Hepkebirler Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir yer. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Türbenin tarihi geçmişi, Kastamonu'nun önemli dini ve kültürel merkezlerinden biri olarak kabul ediliyor. Hepkebirler Türbesi, aynı zamanda plaj alanı olarak da kullanılıyor ve Karadeniz'in güzel sahillerinden birini sunuyor.
+Kastamonu ilinin merkezinde bulunan Hepkebirler Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir yer. Türbenin tarihi geçmişi, Kastamonu'nun önemli dini ve kültürel merkezlerinden biri olarak kabul ediliyor. Hepkebirler Türbesi, aynı zamanda plaj alanı olarak da kullanılıyor ve Karadeniz'in güzel sahillerinden birini sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hepkebirler Türbesi'nin tarihi geçmişi, Kastamonu'nun önemli dini ve kültü
 
 ## Coğrafya
 
-Hepkebirler Türbesi, Kastamonu ilinin merkezinde bulunuyor ve Karadeniz Bölgesi'nin güzel sahillerinden birini sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili ve ziyaretçilerine doğal bir ortam sunuyor. Karadeniz'in güzel sahillerinden biri olan bu plaj, ziyaretçilerine güzel bir manzara sunuyor. Kastamonu ilinin coğrafi konumu, ziyaretçilerine tarihi ve doğal güzellikleri bir arada sunuyor.
+Hepkebirler Türbesi, Kastamonu ilinin merkezinde bulunuyor ve Karadeniz Bölgesi'nin güzel sahillerinden birini sunuyor. Türbenin etrafı, çeşitli bitki türleri ve ağaçlarla çevrili ve ziyaretçilerine doğal bir ortam sunuyor. Karadeniz'in güzel sahillerinden biri olan bu plaj, ziyaretçilerine güzel bir manzara sunuyor. Kastamonu ilinin coğrafi konumu, ziyaretçilerine tarihi ve doğal güzellikleri bir arada sunuyor.
 
 ## Flora ve Fauna
 

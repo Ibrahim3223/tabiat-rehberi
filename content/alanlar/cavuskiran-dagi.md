@@ -50,9 +50,9 @@ Jeolojik açıdan, Çavuşkıran Dağı'nın oluşumu, bölgenin karmaşık jeol
 
 ## Flora ve Fauna
 
-Çavuşkıran Dağı, Bayburt'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, gür ormanlar ve yüksek biyoçeşitlilik dikkat çeker. Dağın yükseklik zonlarında, alpin flora çeşitliliği göze çarpar. 
+Çavuşkıran Dağı, Bayburt'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, gür ormanlar ve yüksek biyoçeşitlilik dikkat çeker. Dağın yükseklik zonlarında, alpin flora çeşitliliği göze çarpar.
 
-İlkbaharla birlikte, dağ yamaçlarında çiçekler açar ve renkli bir manzara oluşur. Sonbaharda ise, göç eden kuşlar dağların üzerinde uçarken, yaprakların renk değişimiyle birlikte bir doğa şöleni yaşanır. Dağın hakim bitki türleri arasında çam, köknar ve kayın ağacı bulunur. 
+İlkbaharla birlikte, dağ yamaçlarında çiçekler açar ve renkli bir manzara oluşur. Sonbaharda ise, göç eden kuşlar dağların üzerinde uçarken, yaprakların renk değişimiyle birlikte bir doğa şöleni yaşanır. Dağın hakim bitki türleri arasında çam, köknar ve kayın ağacı bulunur.
 
 Dağın yaban hayatı da zenginlik gösterir. Memeliler arasında, dağ keçileri ve ayılar yaşam alanlarını burada bulur. Kuşlar arasında, kartallar ve çaylaklar dağların üzerinde uçarken, sürüngenler arasında yılanlar ve kertenkeleler dağların kayalık bölgelerinde yaşamlarını sürdürür. Bu dağ ekosisteminde, canlılar birbirleriyle etkileşim içinde yaşar ve doğanın dengesi korunur. Çavuşkıran Dağı, yüksek biyoçeşitliliğini koruması nedeniyle önemli bir ekolojik değer taşır.
 

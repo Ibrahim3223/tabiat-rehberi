@@ -28,7 +28,7 @@ wikidata_id: "Q31389720"
 
 # Keklik Tepesi
 
-Keklik Tepesi, Kastamonu'nun dağlıkarithane bölgesinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Bu tepenin büyüklüğü, yaklaşık 200 futbol sahası büyüklüğünde. Keklik Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor. Tepenin etrafındaki ormanlar, çeşitli ağaç türleriyle kaplı. Bu tepenin üzerinde, güneş batımı izlemek, doğayı keşfetme ve temiz hava alma mümkün.
+Keklik Tepesi, Kastamonu'nun dağlıkarithane bölgesinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Keklik Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor. Tepenin etrafındaki ormanlar, çeşitli ağaç türleriyle kaplı. Bu tepenin üzerinde, güneş batımı izlemek, doğayı keşfetme ve temiz hava alma mümkün.
 
 ## Tarihçe
 

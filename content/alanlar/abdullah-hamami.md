@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Hamamı"
 date: "2026-01-09T23:53:23.723Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739240"
 
 # Abdullah Hamamı
 
-Abdullah Hamamı, Edirne'nin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Denizi'nin sakin sularına sahip. Bu bölgede, tarihi yapılar ve doğal güzellikler bir arada bulunmakta, ziyaretçilere hem dinlenme hem de kültürel keşif imkanı sunmaktadır. Abdullah Hamamı, özellikle yaz aylarında ziyaretçilerin akın ettiği bir nokta olarak bilinir.
+Abdullah Hamamı, Edirne'nin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir plajdır. Bu bölgede, tarihi yapılar ve doğal güzellikler bir arada bulunmakta, ziyaretçilere hem dinlenme hem de kültürel keşif imkanı sunmaktadır. Abdullah Hamamı, özellikle yaz aylarında ziyaretçilerin akın ettiği bir nokta olarak bilinir.
 
 ## Tarihçe
 

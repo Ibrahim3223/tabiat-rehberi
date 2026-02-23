@@ -1,7 +1,7 @@
 ---
 title: "Mihrişah Valide Sultan Türbesi"
 date: "2026-01-10T07:21:43.266Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391023"
 
 # Mihrişah Valide Sultan Türbesi
 
-Mihrişah Valide Sultan Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan ve Osmanlı Dönemi'nden kalan tarihi bir türbedir. Bu türbe, Mihrişah Valide Sultan tarafından yaptırılmıştır ve İstanbul'un önemli tarihi yapılarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve türbenin çevresinde çeşitli tarihi yapılar bulunmaktadır. Türbenin mimarisi, Osmanlı Dönemi'nin karakteristik özelliklerini taşımaktadır ve ziyaretçilerin ilgisini çekmektedir.
+Mihrişah Valide Sultan Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan ve Osmanlı Dönemi'nden kalan tarihi bir türbedir. Bu türbe, Mihrişah Valide Sultan tarafından yaptırılmıştır ve İstanbul'un önemli tarihi yapılarından biridir. Türbenin mimarisi, Osmanlı Dönemi'nin karakteristik özelliklerini taşımaktadır ve ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -38,20 +38,20 @@ Mihrişah Valide Sultan Türbesi, III. Mustafa'nın annesi Mihrişah Sultan tara
 
 ## Coğrafya
 
-Mihrişah Valide Sultan Türbesi, İstanbul'un Eyüpsultan ilçesinde, Haliç'in kıyısında bulunmaktadır. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan ve yaklaşık 200 futbol sahası büyüklüğünde bir parka sahiptir. Bu park, ziyaretçilerin dinlenmesine ve türbeyi gezmesine olanak tanıyan bir dinlenme alanıdır. Türbenin çevresinde, çeşitli tarihi yapılar ve Osmanlı Dönemi'nden kalan eserler bulunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşımaktadır ve ziyaretçiler, dört mevsimi farklı güzelliği ile deneyimleyebilirler. Türbenin mimarisi, Osmanlı Dönemi'nin karakteristik özelliklerini taşımaktadır ve ziyaretçilerin ilgisini çekmektedir. Türbenin bulunduğu alan, aynı zamanda çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir.
+Mihrişah Valide Sultan Türbesi, İstanbul'un Eyüpsultan ilçesinde, Haliç'in kıyısında bulunmaktadır. Bu park, ziyaretçilerin dinlenmesine ve türbeyi gezmesine olanak tanıyan bir dinlenme alanıdır. Türbenin çevresinde, çeşitli tarihi yapılar ve Osmanlı Dönemi'nden kalan eserler bulunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşımaktadır ve ziyaretçiler, dört mevsimi farklı güzelliği ile deneyimleyebilirler. Türbenin mimarisi, Osmanlı Dönemi'nin karakteristik özelliklerini taşımaktadır ve ziyaretçilerin ilgisini çekmektedir. Türbenin bulunduğu alan, aynı zamanda çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir.
 
 ## Flora ve Fauna
 
-Mihrişah Valide Sultan Türbesi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan ve yaklaşık 200 futbol sahası büyüklüğünde bir parka sahiptir. Bu park, ziyaretçilerin dinlenmesine ve türbeyi gezmesine olanak tanıyan bir dinlenme alanıdır. Parkta, çeşitli ağaçlar, çiçekler ve bitkiler bulunmaktadır ve ziyaretçiler, doğanın güzelliğini deneyimleyebilirler. Aynı zamanda, parkta çeşitli hayvanlar ve kuşlar yaşamaktadır ve ziyaretçiler, fauna ile yakın temas kurabilirler. Mevsimsel değişimler, parkın güzelliğini farklı şekilde etkilemektedir ve ziyaretçiler, dört mevsimi farklı güzelliği ile deneyimleyebilirler.
+Mihrişah Valide Sultan Türbesi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Bu park, ziyaretçilerin dinlenmesine ve türbeyi gezmesine olanak tanıyan bir dinlenme alanıdır. Parkta, çeşitli ağaçlar, çiçekler ve bitkiler bulunmaktadır ve ziyaretçiler, doğanın güzelliğini deneyimleyebilirler. Aynı zamanda, parkta çeşitli hayvanlar ve kuşlar yaşamaktadır ve ziyaretçiler, fauna ile yakın temas kurabilirler. Mevsimsel değişimler, parkın güzelliğini farklı şekilde etkilemektedir ve ziyaretçiler, dört mevsimi farklı güzelliği ile deneyimleyebilirler.
 
 ## Ziyaret Bilgileri
 
-Mihrişah Valide Sultan Türbesi, ziyaretçiler için önemli bir destinasyondur. Türbeye, toplu taşıma araçları ile veya özel araçlarla ulaşılabilir. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan ve yaklaşık 200 futbol sahası büyüklüğünde bir parka sahiptir. Ziyaretçiler, türbeyi gezebilir, parkta dinlenebilir ve doğanın güzelliğini deneyimleyebilirler. Aynı zamanda, ziyaretçiler, türbenin çevresinde bulunan çeşitli tarihi yapılar ve Osmanlı Dönemi'nden kalan eserleri keşfedebilirler. Ziyaret süresi, ziyaretçilerin ilgisine ve türbeyi gezme süresine göre değişebilir.
+Mihrişah Valide Sultan Türbesi, ziyaretçiler için önemli bir destinasyondur. Türbeye, toplu taşıma araçları ile veya özel araçlarla ulaşılabilir. Ziyaretçiler, türbeyi gezebilir, parkta dinlenebilir ve doğanın güzelliğini deneyimleyebilirler. Aynı zamanda, ziyaretçiler, türbenin çevresinde bulunan çeşitli tarihi yapılar ve Osmanlı Dönemi'nden kalan eserleri keşfedebilirler. Ziyaret süresi, ziyaretçilerin ilgisine ve türbeyi gezme süresine göre değişebilir.
 
 ## İlginç Bilgiler
 
 - Mihrişah Valide Sultan Türbesi, 18. yüzyılda yaptırılmıştır.
 - Türbenin mimarisi, Osmanlı Dönemi'nin karakteristik özelliklerini taşımaktadır.
-- Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan ve yaklaşık 200 futbol sahası büyüklüğünde bir parka sahiptir.
+
 - Türbenin çevresinde, çeşitli tarihi yapılar ve Osmanlı Dönemi'nden kalan eserler bulunmaktadır.
 - Türbe, Mihrişah Sultan tarafından yaptırılmıştır.

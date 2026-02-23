@@ -1,7 +1,7 @@
 ---
 title: "İnecik Hamamı"
 date: "2026-01-09T22:23:49.924Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tekirdağ"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738505"
 
 # İnecik Hamamı
 
-İnecik Hamamı, Süleymanpaşa'nın güzel bir köşesinde, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir yer. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa ile iç içe bir konumda bulunuyor. İnecik Hamamı, Tekirdağ'ın en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Burada, güneşin ve denizin keyfini çıkarabilir, aynı zamanda doğanın güzelliğini keşfedebilirsiniz. İnecik Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlayan bir yer. Bu bölge, hem yerli hem de yabancı turistler için bir çekim merkezi olarak kabul ediliyor.
+İnecik Hamamı, Süleymanpaşa'nın güzel bir köşesinde, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir yer. İnecik Hamamı, Tekirdağ'ın en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Burada, güneşin ve denizin keyfini çıkarabilir, aynı zamanda doğanın güzelliğini keşfedebilirsiniz. İnecik Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlayan bir yer. Bu bölge, hem yerli hem de yabancı turistler için bir çekim merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738505"
 
 ## Coğrafya
 
-İnecik Hamamı, Süleymanpaşa'nın en güzel ve önemli bir bölgesinde, Marmara Bölgesi'nde yer alıyor. Bu bölge, 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. İnecik Hamamı, denizle iç içe bir konumda ve bu nedenle, özellikle deniz severler için bir çekim merkezi olarak kabul ediliyor. Bu bölge, aynı zamanda, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İnecik Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlayan bir yer ve bu reason, bölgeyi daha da önemli hale getirmiş. Bu bölge, aynı zamanda, güzel plajları, temiz denizi ve zengin doğası ile dikkat çekiyor. İnecik Hamamı, Süleymanpaşa'nın en önemli turizm merkezlerinden biri olarak görülüyor ve bölgenin ekonomisine önemli katkılar sağlıyor.
+İnecik Hamamı, Süleymanpaşa'nın en güzel ve önemli bir bölgesinde, Marmara Bölgesi'nde yer alıyor. İnecik Hamamı, denizle iç içe bir konumda ve bu nedenle, özellikle deniz severler için bir çekim merkezi olarak kabul ediliyor. Bu bölge, aynı zamanda, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İnecik Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlayan bir yer ve bu reason, bölgeyi daha da önemli hale getirmiş. Bu bölge, aynı zamanda, güzel plajları, temiz denizi ve zengin doğası ile dikkat çekiyor. İnecik Hamamı, Süleymanpaşa'nın en önemli turizm merkezlerinden biri olarak görülüyor ve bölgenin ekonomisine önemli katkılar sağlıyor.
 
 ## Flora ve Fauna
 

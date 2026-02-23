@@ -22,7 +22,7 @@ wikidata_id: "Q108227828"
 
 # Adana-Kadirli Kızılçam 6
 
-Adana-Kadirli Kızılçam 6, Akdeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada doğanın güzelliğini keşfetme mümkün. Bu alan, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu milli park, hem doğa severler hem de rahatlamak isteyenler için ideal bir destinasyon.
+Adana-Kadirli Kızılçam 6, Akdeniz Bölgesi'nin en güzel köşelerinden biri. Bu alan, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu milli park, hem doğa severler hem de rahatlamak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adana-Kadirli Kızılçam 6'nın tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Adana-Kadirli Kızılçam 6, Akdeniz Bölgesi'nde yer alıyor ve burada coğrafya oldukça çeşitlilik gösteriyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli coğrafi özellikler görülüyor. Bu bölgede, dağlar, vadiler ve ovalar bir arada bulunuyor. İklim, genellikle Akdeniz iklimi özellikleri gösteriyor ve burada yazlar sıcak, kışlar ılıman geçiyor. Çevre, doğal güzelliği ile dikkat çekiyor ve burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
+Adana-Kadirli Kızılçam 6, Akdeniz Bölgesi'nde yer alıyor ve burada coğrafya oldukça çeşitlilik gösteriyor. Bu bölgede, dağlar, vadiler ve ovalar bir arada bulunuyor. İklim, genellikle Akdeniz iklimi özellikleri gösteriyor ve burada yazlar sıcak, kışlar ılıman geçiyor. Çevre, doğal güzelliği ile dikkat çekiyor ve burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

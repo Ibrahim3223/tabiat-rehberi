@@ -28,7 +28,7 @@ wikidata_id: "Q31588753"
 
 # Levenge Tepesi
 
-Levenge Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. Batman'ın sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, ziyaretçilerini etkileyici manzaralarıyla karşılar. Levenge Tepesi, bölgenin coğrafi ve ekolojik zenginliklerini gözler önüne serer. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunar. Levenge Tepesi, hem doğa severler hem de macera tutkunları için ideal bir destinasyon olarak ortaya çıkar.
+Levenge Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. Bu tepe, ziyaretçilerini etkileyici manzaralarıyla karşılar. Levenge Tepesi, bölgenin coğrafi ve ekolojik zenginliklerini gözler önüne serer. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunar. Levenge Tepesi, hem doğa severler hem de macera tutkunları için ideal bir destinasyon olarak ortaya çıkar.
 
 ## Tarihçe
 

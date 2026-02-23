@@ -1,7 +1,7 @@
 ---
 title: "Mehmet Zengi Türbesi"
 date: "2026-01-10T06:05:06.205Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -30,15 +30,15 @@ wikidata_id: "Q131390514"
 
 # Mehmet Zengi Türbesi
 
-Mehmet Zengi Türbesi, Kayseri'nin Melikgazi ilçesinde bulunan bir tarihi türbe ve plaj olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine hem tarihi bir deneyim hem de güzel bir doğa manzarası sunuyor. Mehmet Zengi Türbesi, özellikle tarih ve doğa severlerin ilgisini çekiyor. Ziyaretçiler, bu tarihi mekanda hem dinlenip hem de bilgi edinebiliyorlar. Mehmet Zengi Türbesi, Kayseri'nin önemli tarihi ve turistik noktalarından biri olarak görülüyor.
+Mehmet Zengi Türbesi, Kayseri'nin Melikgazi ilçesinde bulunan bir tarihi türbe ve plaj olarak dikkat çekiyor. Mehmet Zengi Türbesi, özellikle tarih ve doğa severlerin ilgisini çekiyor. Ziyaretçiler, bu tarihi mekanda hem dinlenip hem de bilgi edinebiliyorlar. Mehmet Zengi Türbesi, Kayseri'nin önemli tarihi ve turistik noktalarından biri olarak görülüyor.
 
 ## Tarihçe
 
-Mehmet Zengi Türbesi, tarihsel olarak önemli bir geçmişe sahip. Bu türbenin história geçmişi, bölgenin kültürel ve dini açıdan zenginleşmesine katkıda bulunmuş. Mehmet Zengi Türbesi, yüzyıllar boyunca çeşitli dönemlerde restore edilmiş ve günümüze kadar ulaşmıştır. Türbenin tarihi hakkında detaylı bilgiler bulunsa da, ziyaretçiler bu tarihi mekanda hissedebilecekleri atmosferi deneyimlemek için burayı ziyaret ediyorlar. Mehmet Zengi Türbesi, İslami sanatın ve mimarinin güzel örneklerinden biri olarak kabul ediliyor. Tarihi geçmişi ve kültürel önemi ile Mehmet Zengi Türbesi, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Mehmet Zengi Türbesi, tarihsel olarak önemli bir geçmişe sahip. Bu türbenin tarihi geçmişi, bölgenin kültürel ve dini açıdan zenginleşmesine katkıda bulunmuş. Mehmet Zengi Türbesi, yüzyıllar boyunca çeşitli dönemlerde restore edilmiş ve günümüze kadar ulaşmıştır. Türbenin tarihi hakkında detaylı bilgiler bulunsa da, ziyaretçiler bu tarihi mekanda hissedebilecekleri atmosferi deneyimlemek için burayı ziyaret ediyorlar. Mehmet Zengi Türbesi, İslami sanatın ve mimarinin güzel örneklerinden biri olarak kabul ediliyor. Tarihi geçmişi ve kültürel önemi ile Mehmet Zengi Türbesi, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Coğrafya
 
-Mehmet Zengi Türbesi, Kayseri'nin Melikgazi ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi olarak önemli noktalarından biri. Mehmet Zengi Türbesi, 140 hektarlık bir alana yayılmış durumda ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem tarihi bir türbe hem de güzel bir doğa manzarası sunuyor. Mehmet Zengi Türbesi'nin coğrafi konumu, ziyaretçilere şehrin kalabalığından uzaklaşarak doğayla iç içe bir deneyim sunuyor. Bu bölge, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir nokta olarak biliniyor. Mehmet Zengi Türbesi, plaj ve doğa severlerin ilgisini çekiyor. Ziyaretçiler, bu güzel mekanın sunduğu olanaklardan yararlanarak hem dinlenip hem de eğlenebiliyorlar.
+Mehmet Zengi Türbesi, Kayseri'nin Melikgazi ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi olarak önemli noktalarından biri. Bu geniş alan, ziyaretçilere hem tarihi bir türbe hem de güzel bir doğa manzarası sunuyor. Mehmet Zengi Türbesi'nin coğrafi konumu, ziyaretçilere şehrin kalabalığından uzaklaşarak doğayla iç içe bir deneyim sunuyor. Bu bölge, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir nokta olarak biliniyor. Mehmet Zengi Türbesi, plaj ve doğa severlerin ilgisini çekiyor. Ziyaretçiler, bu güzel mekanın sunduğu olanaklardan yararlanarak hem dinlenip hem de eğlenebiliyorlar.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Kapıağası Yakup Ağa Hamamı"
 date: "2026-01-09T22:47:56.622Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738560"
 
 # Kapıağası Yakup Ağa Hamamı
 
-Kapıağası Yakup Ağa Hamamı, İstanbul'un tarihi semtlerinden biri olan Fatih'te, Marmara Bölgesi'nde yer alan önemli bir kültürel miras alanıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar ve tarihi bir hamam olarak hizmet vermektedir. Hamamın tarihi geçmişi, İstanbul'un zengin mimari çeşitliliğini yansıtan önemli bir yapıdır. 140 hektarlık bu yeşil alan, ziyaretçilere hem tarihi bir gezi hem de dinlenme alanı sunar. Kapıağası Yakup Ağa Hamamı, İstanbul'un tarihi dokusunu keşfetmek isteyenler için önemli bir destinasyondur.
+Kapıağası Yakup Ağa Hamamı, İstanbul'un tarihi semtlerinden biri olan Fatih'te, Marmara Bölgesi'nde yer alan önemli bir kültürel miras alanıdır. Hamamın tarihi geçmişi, İstanbul'un zengin mimari çeşitliliğini yansıtan önemli bir yapıdır. 140 hektarlık bu yeşil alan, ziyaretçilere hem tarihi bir gezi hem de dinlenme alanı sunar. Kapıağası Yakup Ağa Hamamı, İstanbul'un tarihi dokusunu keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

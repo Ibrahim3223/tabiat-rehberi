@@ -1,7 +1,7 @@
 ---
 title: "Cemali Sultan Türbesi"
 date: "2026-01-10T07:05:56.075Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilis"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390873"
 
 # Cemali Sultan Türbesi
 
-Cemali Sultan Türbesi, Kilis'in merkezinde yer alan ve tarihi olarak önemli bir nokta olan bir bölgedir. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Cemali Sultan Türbesi, Kilis'in tarihini ve kültürünü yansıtması açısından önemli bir noktada bulunmaktadır. Şehir merkezine yakın konumuyla da ziyaretçilerin ilgisini çeker.
+Cemali Sultan Türbesi, Kilis'in merkezinde yer alan ve tarihi olarak önemli bir nokta olan bir bölgedir. Cemali Sultan Türbesi, Kilis'in tarihini ve kültürünü yansıtması açısından önemli bir noktada bulunmaktadır. Şehir merkezine yakın konumuyla da ziyaretçilerin ilgisini çeker.
 
 ## Tarihçe
 

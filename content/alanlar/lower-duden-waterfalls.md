@@ -30,7 +30,7 @@ wikidata_id: "Q72177820"
 
 # Lower Düden Waterfalls
 
-Lower Düden Waterfalls, Antalya'nın merkezine uzun bir mesafe uzaklıkta bulunan, 140 hektarlık bir alanı kapsayan doğal bir güzelliktir. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Lower Düden Waterfalls, Antalya'nın en önemli turizm merkezlerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Şelaleler, özellikle ilkbahar ve yaz aylarında ziyaret edilmekte ve bu dönemlerde doğanın güzelliği ile ziyaretçilerini büyülüyor.
+Lower Düden Waterfalls, Antalya'nın merkezine uzun bir mesafe uzaklıkta bulunan, 140 hektarlık bir alanı kapsayan doğal bir güzelliktir. Lower Düden Waterfalls, Antalya'nın en önemli turizm merkezlerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Şelaleler, özellikle ilkbahar ve yaz aylarında ziyaret edilmekte ve bu dönemlerde doğanın güzelliği ile ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Lower Düden Waterfalls'in tarihi geçmişi, binlerce yıl öncesine dayanmaktad
 
 ## Coğrafya
 
-Lower Düden Waterfalls, Antalya'nın merkezine uzun bir mesafe uzaklıkta bulunan bir bölgedir. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Lower Düden Waterfalls, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip bir bölgedir. Bu bölge, yüksek bir konumda bulunmakta ve bu bölgede çeşitli bitki türleri yaşamaktadır. Lower Düden Waterfalls, aynı zamanda bir şelale olarak bilinmekte ve bu bölgede yüksek bir konumdan su akışları bulunmaktadır. Bu bölge, özellikle ilkbahar ve yaz aylarında ziyaret edilmekte ve bu dönemlerde doğanın güzelliği ile ziyaretçilerini büyülüyor.
+Lower Düden Waterfalls, Antalya'nın merkezine uzun bir mesafe uzaklıkta bulunan bir bölgedir. Lower Düden Waterfalls, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip bir bölgedir. Bu bölge, yüksek bir konumda bulunmakta ve bu bölgede çeşitli bitki türleri yaşamaktadır. Lower Düden Waterfalls, aynı zamanda bir şelale olarak bilinmekte ve bu bölgede yüksek bir konumdan su akışları bulunmaktadır. Bu bölge, özellikle ilkbahar ve yaz aylarında ziyaret edilmekte ve bu dönemlerde doğanın güzelliği ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Lower Düden Waterfalls, özellikle ilkbahar ve yaz aylarında ziyaret edilmekte
 ## İlginç Bilgiler
 
 - Lower Düden Waterfalls, 140 hektarlık bir alanı kapsıyor.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Lower Düden Waterfalls, özellikle ilkbahar ve yaz aylarında ziyaret edilmekte.
 - Bu bölgede, çeşitli bitki ve hayvan türleri yaşamaktadır.
 - Lower Düden Waterfalls, bir doğa koruma alanı olarak kabul ediliyor.

@@ -51,9 +51,9 @@ Su kaynakları ve ekosistem bağlantıları açısından bakıldığında, Kamer
 
 ## Flora ve Fauna
 
-Kamera Dağı'nın flora ve fauna zenginliği, ziyaretçilerini bir doğa harikasına davet ediyor. 
+Kamera Dağı'nın flora ve fauna zenginliği, ziyaretçilerini bir doğa harikasına davet ediyor.
 1. Bitki Örtüsü: Step bitki örtüsü ve bozkırın hakim olduğu bu dağ, ilkbaharda rengarenk çiçeklerle donanıyor. Yükseklik zonlarına göre değişen alpin flora, dağın doğal güzelliğini vurguluyor.
-2. Yaban Hayatı: Dağ keçileri ve yaban kedileri, dağlık alanların karakteristik memelileridir. Göçmen kuşlar, sonbaharda dağların üzerinde bir göçmen kuş sürüsü oluşturur. 
+2. Yaban Hayatı: Dağ keçileri ve yaban kedileri, dağlık alanların karakteristik memelileridir. Göçmen kuşlar, sonbaharda dağların üzerinde bir göçmen kuş sürüsü oluşturur.
 3. Ekolojik Değer: Bu dağ ekosistemi, kuraklığa adapte olmuş türlerin yaşam alanıdır. Koruma durumu, yerel otoritelerin himayesinde olmakla birlikte, daha fazla dikkat ve koruma gerektiriyor.
 
 ## Ziyaret Bilgileri

@@ -28,7 +28,7 @@ wikidata_id: "Q31389957"
 
 # Evcik Tepesi
 
-Evcik Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde bulunan bir tepe olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu dinekle yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Evcik Tepesi, çevresi ve manzarasıyla dikkat çekici bir destinasyon olarak biliniyor. Burada, hem doğal güzellikleri keşfetmek hem de tarihi geçmişi öğrenme mümkün.
+Evcik Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde bulunan bir tepe olarak karşımıza çıkıyor. Evcik Tepesi, çevresi ve manzarasıyla dikkat çekici bir destinasyon olarak biliniyor. Burada, hem doğal güzellikleri keşfetmek hem de tarihi geçmişi öğrenme mümkün.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Ferah Baba Türbesi"
 date: "2026-01-10T05:30:24.711Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,11 +29,11 @@ wikidata_id: "Q131391380"
 
 # Ferah Baba Türbesi
 
-Ferah Baba Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan ve Marmara Bölgesi'nin önemli tarihi noktalarından biri olan bir türbedir. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer alır ve ziyaretçilerini tarihi bir yolculuğa çıkarır. Ferah Baba Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olup, aynı zamanda doğal güzelliklerini keşfetmek isteyenler için de ideal bir noktadır.
+Ferah Baba Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan ve Marmara Bölgesi'nin önemli tarihi noktalarından biri olan bir türbedir. Ferah Baba Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olup, aynı zamanda doğal güzelliklerini keşfetmek isteyenler için de ideal bir noktadır.
 
 ## Tarihçe
 
-Ferah Baba Türbesi'nin tarihi geçmişi, İstanbul'un fethi döneminde başlar. Bu dönem, İstanbul'un tarihinde önemli bir dönemeç teşkil eder ve türbenin de história'sı bu dönemle bağlantılıdır. Türbenin tam kuruluş tarihi bilinmese de, yüzyıllar boyunca İstanbul'un önemli dini ve kültürel noktalarından biri olarak kabul edilmiştir. Historia'sı zengin olan bu türbe, ziyaretçiler için önemli bir bilgi kaynağı oluşturur. İstanbul'un fethi ve sonrasında yaşanan olaylar, türbenin bugünkü halini şekillendirmiş ve önemli bir tarihi miras bırakmıştır.
+Ferah Baba Türbesi'nin tarihi geçmişi, İstanbul'un fethi döneminde başlar. Bu dönem, İstanbul'un tarihinde önemli bir dönemeç teşkil eder ve türbenin de tarihi'sı bu dönemle bağlantılıdır. Türbenin tam kuruluş tarihi bilinmese de, yüzyıllar boyunca İstanbul'un önemli dini ve kültürel noktalarından biri olarak kabul edilmiştir. Historia'sı zengin olan bu türbe, ziyaretçiler için önemli bir bilgi kaynağı oluşturur. İstanbul'un fethi ve sonrasında yaşanan olaylar, türbenin bugünkü halini şekillendirmiş ve önemli bir tarihi miras bırakmıştır.
 
 ## Coğrafya
 

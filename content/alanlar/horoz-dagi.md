@@ -32,11 +32,11 @@ Kayseri'nin zengin doğal güzelliklerinin arasında yer alan Horoz Dağı, ziya
 
 ## Tarihçe
 
-Horoz Dağı, Kayseri'nin zengin tarihî dokusunun bir parçasını oluşturur. Bu bölge, tarihin sâu sayfalarında, Hititler, Romalılar ve Selçuklular gibi çeşitli uygarlıkların izlerini taşır. Kayseri, stratejik konumu nedeniyle, tarih boyunca önemli ticaret yollarının kesişme noktası olarak hizmet vermiştir. 
+Horoz Dağı, Kayseri'nin zengin tarihî dokusunun bir parçasını oluşturur. Bu bölge, tarihin derin sayfalarında, Hititler, Romalılar ve Selçuklular gibi çeşitli uygarlıkların izlerini taşır. Kayseri, stratejik konumu nedeniyle, tarih boyunca önemli ticaret yollarının kesişme noktası olarak hizmet vermiştir.
 
 Doğal güzellikleri ve verimli toprakları, Horoz Dağı'nı ve çevresini, insanların yerleşim ve geçim alanı olarak tercih ettirmiştir. Yaylacılık ve hayvancılık, bu bölgede uzun zamandır sürdürülen geleneksel faaliyetlerdir. İnsanlar, mevsimlik göçlerle, hayvanlarını otlatmak için bu dağların yeşil sırtlarına çıkarlar. Bu gelenek, sadece ekonomik bir faaliyet değil, aynı zamanda kültürel bir mirası da temsil eder.
 
-Horoz Dağı, Türkiye'nin diğer doğal alanları gibi, ülkenin tarihî ve kültürel kimliğinin önemli bir bileşenidir. Bu tür alanlar, sadece doğal güzellikleri ile değil, aynı zamanda insanlarla olan sâu bağları ile değerlidir. Horoz Dağı, Kayseri'nin tarihî ve kültürel zenginliğinin bir parçası olarak, ziyaretçilerini bu bölgenin derin geçmişine ve yaşayan geleneklerine davet eder.
+Horoz Dağı, Türkiye'nin diğer doğal alanları gibi, ülkenin tarihî ve kültürel kimliğinin önemli bir bileşenidir. Bu tür alanlar, sadece doğal güzellikleri ile değil, aynı zamanda insanlarla olan derin bağları ile değerlidir. Horoz Dağı, Kayseri'nin tarihî ve kültürel zenginliğinin bir parçası olarak, ziyaretçilerini bu bölgenin derin geçmişine ve yaşayan geleneklerine davet eder.
 
 ## Coğrafya
 

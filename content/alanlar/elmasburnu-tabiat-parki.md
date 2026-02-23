@@ -30,7 +30,7 @@ wikidata_id: "Q30623519"
 
 # Elmasburnu Tabiat Parkı
 
-İstanbul'un kalbinde yer alan Elmasburnu Tabiat Parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kapsıyor. Bu yeşil alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görüyor. Parkın içinde çeşitli değil, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Elmasburnu Tabiat Parkı, aynı zamanda İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek için ideal bir başlangıç noktası sunuyor. 140 hektarlık bu alan, ziyaretçilerini şehrin kalbinde doğanın güzelliklerine davet ediyor.
+ Bu yeşil alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görüyor. Parkın içinde çeşitli değil, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Elmasburnu Tabiat Parkı, aynı zamanda İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek için ideal bir başlangıç noktası sunuyor. 140 hektarlık bu alan, ziyaretçilerini şehrin kalbinde doğanın güzelliklerine davet ediyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Elmasburnu Tabiat Parkı'nın tarihi geçmişi, İstanbul'un tarihi ile iç içe
 
 ## Coğrafya
 
-Elmasburnu Tabiat Parkı, Marmara Bölgesi'nin en güzel doğal alanlarından biri olarak kabul ediliyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi desteklemekte. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezinde yer alıyor. Parkın coğrafi konumu, ziyaretçilere şehrin gürültüsünden uzaklaşarak doğanın güzelliklerine şahit olma fırsatı sunuyor. Elmasburnu Tabiat Parkı, İstanbul'un iklimine uygun şekilde tasarlanmış ve bu bölgeye özgü flora ve fauna ile dolu. Parkın çevresi, İstanbul'un şehir hayatının tüm olanaklarına yakın mesafede yer alıyor. Bu coğrafi konum, parkı ziyaretçiler için ulaşılabilir ve keyifli bir destinasyon haline getiriyor. Parkın yapısı, ziyaretçilere hem doğanın güzelliğini keşfetme hem de şehir hayatının tüm olanaklarından yararlanabilme imkanı sunuyor.
+Elmasburnu Tabiat Parkı, Marmara Bölgesi'nin en güzel doğal alanlarından biri olarak kabul ediliyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi desteklemekte. Parkın coğrafi konumu, ziyaretçilere şehrin gürültüsünden uzaklaşarak doğanın güzelliklerine şahit olma fırsatı sunuyor. Elmasburnu Tabiat Parkı, İstanbul'un iklimine uygun şekilde tasarlanmış ve bu bölgeye özgü flora ve fauna ile dolu. Parkın çevresi, İstanbul'un şehir hayatının tüm olanaklarına yakın mesafede yer alıyor. Bu coğrafi konum, parkı ziyaretçiler için ulaşılabilir ve keyifli bir destinasyon haline getiriyor. Parkın yapısı, ziyaretçilere hem doğanın güzelliğini keşfetme hem de şehir hayatının tüm olanaklarından yararlanabilme imkanı sunuyor.
 
 ## Flora ve Fauna
 

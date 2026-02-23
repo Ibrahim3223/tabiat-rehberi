@@ -29,7 +29,7 @@ wikidata_id: "Q31388563"
 
 # Solar Tepesi
 
-Solar Tepesi, Erzurum'un doğal güzelliklerinin başında gelen bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içerisine davet ediyor.Solar Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktası. Burada, doğanın sesini dinleyerek, stresinizi atabilirsiniz. Tepenin eteklerinde bulunan köyler, geleneksel mimari örnekleri sunuyor ve ziyaretçilere bölgenin kültürel zenginliğini tanıma fırsatı veriyor.
+Solar Tepesi, Erzurum'un doğal güzelliklerinin başında gelen bir destinasyon.Solar Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktası. Burada, doğanın sesini dinleyerek, stresinizi atabilirsiniz. Tepenin eteklerinde bulunan köyler, geleneksel mimari örnekleri sunuyor ve ziyaretçilere bölgenin kültürel zenginliğini tanıma fırsatı veriyor.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228639"
 
 # RİZE
 
-Rize milli parkı, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplıyor. Bu doğal alan, ziyaretçilerini güzellikleri ve tarihi geçmişiyle cezbediyor. Rize'nin coğrafi konumu, milli parkın zengin flora ve faunasına ev sahipliği yapıyor. Milli park, ziyaretçilerine çeşitli gezi seçenekleri sunuyor. Gökyüzünden gelen ışığın, yeşilin tonlarıyla dans ettiği bu doğa harikası, ziyaretçilerini büyülüyor.
+ Bu doğal alan, ziyaretçilerini güzellikleri ve tarihi geçmişiyle cezbediyor. Rize'nin coğrafi konumu, milli parkın zengin flora ve faunasına ev sahipliği yapıyor. Milli park, ziyaretçilerine çeşitli gezi seçenekleri sunuyor. Gökyüzünden gelen ışığın, yeşilin tonlarıyla dans ettiği bu doğa harikası, ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

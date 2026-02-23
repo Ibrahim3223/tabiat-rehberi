@@ -1,7 +1,7 @@
 ---
 title: "Eski Hamam, Bağyurdu"
 date: "2026-01-10T00:04:43.903Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245829"
 
 # Eski Hamam, Bağyurdu
 
-Eski Hamam, Bağyurdu, İzmir'in Kemalpaşa ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve misafirlerine geniş bir deniz kıyısı sunuyor. Bu plaj, temiz ve berrak denizi, altın rengi kumları ve etrafını çevreleyen yeşilliklerle birlikte, doğaseverlerin ve denizseverlerin buluşma noktası. Eski Hamam, Bağyurdu, aynı zamanda tarihi ve kültürel zenginliklerle dolu bir bölgenin parçası, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunuyor.
+Eski Hamam, Bağyurdu, İzmir'in Kemalpaşa ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyon. Bu plaj, temiz ve berrak denizi, altın rengi kumları ve etrafını çevreleyen yeşilliklerle birlikte, doğaseverlerin ve denizseverlerin buluşma noktası. Eski Hamam, Bağyurdu, aynı zamanda tarihi ve kültürel zenginliklerle dolu bir bölgenin parçası, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunuyor.
 
 ## Tarihçe
 

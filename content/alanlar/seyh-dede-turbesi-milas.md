@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Dede Türbesi, Milas"
 date: "2026-01-10T06:36:23.114Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735175"
 
 # Şeyh Dede Türbesi, Milas
 
-Muğla'nın Milas ilçesinde bulunan Şeyh Dede Türbesi, ziyaretçilerini tarihin ve doğanın kucaklaşına davet ediyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve yemyeşil bir ortam sunuyor. Şeyh Dede Türbesi, hem dini hem de kültürel açıdan önemli bir yer olarak kabul ediliyor. Burada, tarihin izlerini takip ederken, aynı zamanda doğanın güzelliğini de keşfedebilirsiniz. Bu mekan, doğa severlerin ve tarih meraklılarının ilgisini çekecek bir destinasyon olarak dikkat çekiyor.
+Muğla'nın Milas ilçesinde bulunan Şeyh Dede Türbesi, ziyaretçilerini tarihin ve doğanın kucaklaşına davet ediyor. Şeyh Dede Türbesi, hem dini hem de kültürel açıdan önemli bir yer olarak kabul ediliyor. Burada, tarihin izlerini takip ederken, aynı zamanda doğanın güzelliğini de keşfedebilirsiniz. Bu mekan, doğa severlerin ve tarih meraklılarının ilgisini çekecek bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

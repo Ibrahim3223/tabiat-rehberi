@@ -48,7 +48,7 @@ Eyerli Dağ, çevresindeki ekosistemle güçlü bir bağlantısı olan bir aland
 
 ## Flora ve Fauna
 
-Eyerli Dağ, Afyonkarahisar'ın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak, çeşitli yükseklik zonlarına ev sahipliği yapar. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, sonbaharda göç eden kuşlar gökyüzünü süsler. 
+Eyerli Dağ, Afyonkarahisar'ın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak, çeşitli yükseklik zonlarına ev sahipliği yapar. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, sonbaharda göç eden kuşlar gökyüzünü süsler.
 
 Bitki örtüsünü oluşturan çam ormanları ve zeytinlikler, bölgenin Akdeniz iklimine uyum sağlayan türlerin yaşam alanıdır. Yükseklik zonlarına bağlı olarak, farklı bitki türleri ortaya çıkar. Alpin flora, dağların yüksek kesimlerinde bulunur ve bu bölge, endemik türlerin yaşam alanı olarak önemlidir.
 

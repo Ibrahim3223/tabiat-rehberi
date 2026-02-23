@@ -28,7 +28,7 @@ wikidata_id: "Q32138962"
 
 # Gücük Tepe
 
-Gücük Tepe, İç Anadolu Bölgesi'nin kalbinde, Niğde ilinde bulunan bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gücük Tepe, yüzyıllar boyunca çeşitli kültürlerin birleştiği ve tarihi olaylara şahitlik ettiği bir yer. Burada, doğa ve tarih bir arada bulunuyor. Ziyaretçiler, bu tepeyi ziyaret ettiğinde, hem güzel manzaraları görebiliyor hem de tarihi geçmişi hakkında bilgi sahibi olabiliyor.
+Gücük Tepe, İç Anadolu Bölgesi'nin kalbinde, Niğde ilinde bulunan bir tepe. Gücük Tepe, yüzyıllar boyunca çeşitli kültürlerin birleştiği ve tarihi olaylara şahitlik ettiği bir yer. Burada, doğa ve tarih bir arada bulunuyor. Ziyaretçiler, bu tepeyi ziyaret ettiğinde, hem güzel manzaraları görebiliyor hem de tarihi geçmişi hakkında bilgi sahibi olabiliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gücük Tepe'nin tarihi geçmişi, yüzyıllar öncesine kadar uzanıyor. Bu bö
 
 ## Coğrafya
 
-Gücük Tepe, Niğde ilinin coğrafi yapısında önemli bir yere sahip. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gücük Tepe'nin coğrafi yapısı, ziyaretçiler için güzel manzaralar sunuyor. Bu tepe, aynı zamanda birçok bitki ve hayvan türüne de ev sahipliği yapıyor. Ziyaretçiler, bu tepeyi ziyaret ettiğinde, hem güzel manzaraları görebiliyor hem de çeşitli bitki ve hayvan türleri hakkında bilgi sahibi olabiliyor. Gücük Tepe'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bu bölge, yazları sıcak ve kuru, kışları soğuk ve karlı bir iklime sahip.
+Gücük Tepe, Niğde ilinin coğrafi yapısında önemli bir yere sahip. Gücük Tepe'nin coğrafi yapısı, ziyaretçiler için güzel manzaralar sunuyor. Bu tepe, aynı zamanda birçok bitki ve hayvan türüne de ev sahipliği yapıyor. Ziyaretçiler, bu tepeyi ziyaret ettiğinde, hem güzel manzaraları görebiliyor hem de çeşitli bitki ve hayvan türleri hakkında bilgi sahibi olabiliyor. Gücük Tepe'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Bu bölge, yazları sıcak ve kuru, kışları soğuk ve karlı bir iklime sahip.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Gücük Tepe, ziyaretçiler için birçok imkan sunuyor. Ziyaretçiler, bu tepey
 ## İlginç Bilgiler
 
 - Gücük Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Gücük Tepe, yüzyıllar öncesine kadar uzanan bir tarihi geçmişi var.
 - Bu tepe, birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 - Gücük Tepe, özellikle bahar ve yaz aylarında ziyaret edildiğinde, ziyaretçiler için birçok imkan sunuyor.

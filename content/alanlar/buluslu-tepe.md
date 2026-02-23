@@ -28,7 +28,7 @@ wikidata_id: "Q31388778"
 
 # Buluşlu Tepe
 
-Buluşlu Tepe, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için bir cennet. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en önemli tepe noktalarından biri. Buluşlu Tepe, ziyaretçilerini güneşin batışını izlemeye, doğanın seslerini dinlemeye ve huzurlu bir atmosferde vakit geçirmeye davet ediyor. Konum itibarıyla Muğla'nın merkezine yakın olan bu tepe, kolay ulaşılabilirlik açısından da dikkat çekiyor.
+Buluşlu Tepe, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için bir cennet. Buluşlu Tepe, ziyaretçilerini güneşin batışını izlemeye, doğanın seslerini dinlemeye ve huzurlu bir atmosferde vakit geçirmeye davet ediyor. Konum itibarıyla Muğla'nın merkezine yakın olan bu tepe, kolay ulaşılabilirlik açısından da dikkat çekiyor.
 
 ## Tarihçe
 

@@ -63,7 +63,7 @@ Cerran Tepe, Diyarbakır'ın güzide bir dağcılık ve trekking noktası. Sabah
 ## İlginç Bilgiler
 
 - Cerran Tepe, Diyarbakır ilinin merkezine yaklaşık 10 kilometre uzaklıktadır.
-- Diyarbakır'ın históri ve kültürel zenginliklerini sunan önemli noktalarından biridir.
+- Diyarbakır'ın tarihi ve kültürel zenginliklerini sunan önemli noktalarından biridir.
 - Cerran Tepe'nin etrafında tarihi surlar ve yapılar bulunmaktadır.
 - Bu tepe, Diyarbakır'ın coğrafi yapısını şekillendiren önemli noktalardan biridir.
 - Diyarbakır Kalesi'ne yaklaşık 5 kilometre mesafededir.

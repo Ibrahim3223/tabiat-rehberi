@@ -32,9 +32,9 @@ Antalya'nın turkuaz sularının arasında gizlenen Kovanlı Adası, ziyaretçil
 
 ## Tarihçe
 
-Kovanlı Adası, Akdeniz'in turkuaz sularında, Antalya'nın eşsiz güzelliğiçinde yer alıyor. Bu bölgenin tarihi, binlerce yıl öncesine dayanıyor. Antalya, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Lidyalılar, Persler, Romalılar ve Osmanlılar gibi medeniyetler bu topraklarda izler bırakmışlar. 
+Kovanlı Adası, Akdeniz'in turkuaz sularında, Antalya'nın eşsiz güzelliğiçinde yer alıyor. Bu bölgenin tarihi, binlerce yıl öncesine dayanıyor. Antalya, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Lidyalılar, Persler, Romalılar ve Osmanlılar gibi medeniyetler bu topraklarda izler bırakmışlar.
 
-Doğal güzellikleri ve stratejik konumuyla, Antalya ve çevresindeki adalar, ticaret yolları ve yerleşim yerleri olarak önemli roller üstlenmişler. Bu tür doğal alanlar, Türkiye'nin tarihsel zenginliğinin bir parçasını oluşturuyor. Yaylacılık, hayvancılık ve balıkçılık, bu bölgelerde yaşayan insanların geleneksel geçim kaynakları arasında yer almış. 
+Doğal güzellikleri ve stratejik konumuyla, Antalya ve çevresindeki adalar, ticaret yolları ve yerleşim yerleri olarak önemli roller üstlenmişler. Bu tür doğal alanlar, Türkiye'nin tarihsel zenginliğinin bir parçasını oluşturuyor. Yaylacılık, hayvancılık ve balıkçılık, bu bölgelerde yaşayan insanların geleneksel geçim kaynakları arasında yer almış.
 
 Kovanlı Adası da, bu tarihsel ve kültürel mirasın bir parçası olarak, ziyaretçilerini bölgeye çekiyor. Ada, insan faaliyetlerinin yanı sıra, doğal yaşamın da önemli bir parçası. Bu tür alanların korunması, Türkiye'nin kültürel ve doğal zenginliğini gelecek nesillere taşımak için büyük önem taşıyor.
 

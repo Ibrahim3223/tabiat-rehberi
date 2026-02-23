@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Battal Gazi Türbesi, Kayseri"
 date: "2026-01-10T05:48:21.271Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"

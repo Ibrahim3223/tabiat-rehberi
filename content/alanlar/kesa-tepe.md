@@ -28,7 +28,7 @@ wikidata_id: "Q31386865"
 
 # Keşa Tepe
 
-Mardin'in tarihi ve kültürel zenginliklerini keşfedenler, Keşa Tepe'yi mutlaka ziyaret edeceklerdir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerini geçmişe götürüyor. Mardin'in merkezine yakın konumuyla kolayca ulaşılabilen Keşa Tepe, şehrin tarihi değerleri arasında önemli bir yer tutuyor. Tarihi geçmişi yüzyıllar öncesine dayanan bu tepe, ziyaretçilerini geçmişe götürerek onların tarihin içinde yaşamalarına olanak tanıyor.
+Mardin'in tarihi ve kültürel zenginliklerini keşfedenler, Keşa Tepe'yi mutlaka ziyaret edeceklerdir. Mardin'in merkezine yakın konumuyla kolayca ulaşılabilen Keşa Tepe, şehrin tarihi değerleri arasında önemli bir yer tutuyor. Tarihi geçmişi yüzyıllar öncesine dayanan bu tepe, ziyaretçilerini geçmişe götürerek onların tarihin içinde yaşamalarına olanak tanıyor.
 
 ## Tarihçe
 

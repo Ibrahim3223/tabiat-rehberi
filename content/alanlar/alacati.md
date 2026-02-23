@@ -30,7 +30,7 @@ wikidata_id: "Q941328"
 
 # Alaçatı
 
-Alaçatı, İzmir'in Çeşme ilçesinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanı ile dikkat çekiyor. Bu bölge, yüzyıllar boyunca farklı kültürlerin etkisi altında kalmıştır. Alaçatı'nın tarihi geçmişi, zengin flora ve fauna çeşitliliği ile birlikte turistik bir cazibe merkezi haline gelmiştir. Doğal güzellikleri, tarihi yapıları ve canlı atmosferi ile Alaçatı, ziyaretçilerini bekliyor.
+ Bu bölge, yüzyıllar boyunca farklı kültürlerin etkisi altında kalmıştır. Alaçatı'nın tarihi geçmişi, zengin flora ve fauna çeşitliliği ile birlikte turistik bir cazibe merkezi haline gelmiştir. Doğal güzellikleri, tarihi yapıları ve canlı atmosferi ile Alaçatı, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Alaçatı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, fa
 
 ## Coğrafya
 
-Alaçatı, Ege Bölgesi'nin en güzel kıyı şeridinde yer alan bir bölgedir. Bu bölge, 140 hektarlık yeşil alanı ile birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Alaçatı'nın coğrafi konumu, Ege Denizi'nin güzel plajlarına ve tarihi yapılara yakın olması ile dikkat çekiyor. Bölgenin iklimi, Akdeniz ikliminin característicasını taşıyor ve yazları sıcak, kışları ılıman geçiyor. Bu durum, Alaçatı'yı yıl boyunca ziyaret edilebilir bir yer haline getiriyor. Alaçatı'nın coğrafi yapısı, ziyaretçilere doğa ile iç içe bir deneyim sunuyor.
+Alaçatı, Ege Bölgesi'nin en güzel kıyı şeridinde yer alan bir bölgedir. Alaçatı'nın coğrafi konumu, Ege Denizi'nin güzel plajlarına ve tarihi yapılara yakın olması ile dikkat çekiyor. Bölgenin iklimi, Akdeniz ikliminin característicasını taşıyor ve yazları sıcak, kışları ılıman geçiyor. Bu durum, Alaçatı'yı yıl boyunca ziyaret edilebilir bir yer haline getiriyor. Alaçatı'nın coğrafi yapısı, ziyaretçilere doğa ile iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

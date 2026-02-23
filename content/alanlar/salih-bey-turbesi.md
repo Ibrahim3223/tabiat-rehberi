@@ -1,7 +1,7 @@
 ---
 title: "Salih Bey Türbesi"
 date: "2026-01-10T05:10:01.126Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tunceli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391589"
 
 # Salih Bey Türbesi
 
-Salih Bey Türbesi, Pertek ilçesi sınırları içerisinde yer alan tarihi ve kültürel öneme sahip bir türbe ve plajdır. Pertek'in merkezine uzun bir mesafe uzaklıkta bulunan bu alan, hem dini ziyaret hem de doğal güzelliklerin keşfedilmesi için ideal bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Burada, tarihi türbenin huzurunu ve plajın serinletici atmosferini bir arada deneyimleme mümkün.
+Salih Bey Türbesi, Pertek ilçesi sınırları içerisinde yer alan tarihi ve kültürel öneme sahip bir türbe ve plajdır. Pertek'in merkezine uzun bir mesafe uzaklıkta bulunan bu alan, hem dini ziyaret hem de doğal güzelliklerin keşfedilmesi için ideal bir destinasyondur. Burada, tarihi türbenin huzurunu ve plajın serinletici atmosferini bir arada deneyimleme mümkün.
 
 ## Tarihçe
 

@@ -45,7 +45,7 @@ Kesrika Nazukê Nekropol Alanı Anıtsal Mezar, Güneydoğu Anadolu Bölgesi'nin
 
 ## Ziyaret Bilgileri
 
-Kesrika Nazukê Nekropol Alanı Anıtsal Mezar, yılın her dönemi ziyaret edilebilir. Ancak, en iyi ziyaret dönemi, ilkbahar ve sonbahar aylarıdır. Bu dönemlerde, mezarlık alanı daha güzel ve ziyaretçilerine daha iyi bir deneyim sunuyor. Ziyaretçilerin, mezarlık alanına ulaşmak için, Savur ilçesine gelmeleri gerekiyor. İlçeye ulaştıktan sonra, mezarlık alanı fácil bir şekilde ulaşılabilir. Ziyaretçilerin, mezarlık alanında, çeşitli etkinlikler yapabilmeleri mümkün. Bu etkinlikler, mezarlık alanının atmosferini anlama ve keşfetmek için fırsat sunuyor.
+Kesrika Nazukê Nekropol Alanı Anıtsal Mezar, yılın her dönemi ziyaret edilebilir. Ancak, en iyi ziyaret dönemi, ilkbahar ve sonbahar aylarıdır. Bu dönemlerde, mezarlık alanı daha güzel ve ziyaretçilerine daha iyi bir deneyim sunuyor. Ziyaretçilerin, mezarlık alanına ulaşmak için, Savur ilçesine gelmeleri gerekiyor. İlçeye ulaştıktan sonra, mezarlık alanı kolay bir şekilde ulaşılabilir. Ziyaretçilerin, mezarlık alanında, çeşitli etkinlikler yapabilmeleri mümkün. Bu etkinlikler, mezarlık alanının atmosferini anlama ve keşfetmek için fırsat sunuyor.
 
 ## İlginç Bilgiler
 

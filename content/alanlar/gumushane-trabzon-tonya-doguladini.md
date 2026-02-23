@@ -22,7 +22,7 @@ wikidata_id: "Q108228219"
 
 # Gumushane-Trabzon-Tonya-Doguladini
 
-Gümüşhane-Trabzon-Tonya-Doğuladini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin zengin flora ve faunasını barındırıyor. Milli parkın konumuna baktığımızda, Gümüşhane ilinin Trabzon ve Tonya ilçelerine yakın bir konumda yer aldığını görebiliyoruz. Doğuladini milli parkı, doğal güzellikleri ve tarihi geçmişiyle birlikte ziyaretçiler için önemli bir destinasyon haline geliyor.
+Gümüşhane-Trabzon-Tonya-Doğuladini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Milli parkın konumuna baktığımızda, Gümüşhane ilinin Trabzon ve Tonya ilçelerine yakın bir konumda yer aldığını görebiliyoruz. Doğuladini milli parkı, doğal güzellikleri ve tarihi geçmişiyle birlikte ziyaretçiler için önemli bir destinasyon haline geliyor.
 
 ## Tarihçe
 

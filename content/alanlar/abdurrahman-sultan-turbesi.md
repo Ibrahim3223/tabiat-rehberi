@@ -1,7 +1,7 @@
 ---
 title: "Abdurrahman Sultan Türbesi"
 date: "2026-01-10T06:16:53.332Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390601"
 
 # Abdurrahman Sultan Türbesi
 
-Abdurrahman Sultan Türbesi, Afyonkarahisar'ın Başmakçı ilçesinde yer alan bir tarihi mekan olarak dikkati çekiyor. Bu önemli dini merkez, Ege Bölgesi'nin zengin tarihi ve kültürel mirasının bir parçası olarak karşımıza çıkıyor. 140 hektarlık bir alan üzerinde kurulmuş olan Abdurrahman Sultan Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tarihi geçmişi ve kültürel önemi ile dikkat çeken bu mekan, ziyaretçilerini geçmişe götürmeye hazırlanıyor. Abdurrahman Sultan Türbesi, Ege Bölgesi'nin önemli turistik noktalarından biri olarak ön plana çıkıyor.
+Abdurrahman Sultan Türbesi, Afyonkarahisar'ın Başmakçı ilçesinde yer alan bir tarihi mekan olarak dikkati çekiyor. Bu önemli dini merkez, Ege Bölgesi'nin zengin tarihi ve kültürel mirasının bir parçası olarak karşımıza çıkıyor. Tarihi geçmişi ve kültürel önemi ile dikkat çeken bu mekan, ziyaretçilerini geçmişe götürmeye hazırlanıyor. Abdurrahman Sultan Türbesi, Ege Bölgesi'nin önemli turistik noktalarından biri olarak ön plana çıkıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abdurrahman Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Abdurrahman Sultan Türbesi, Afyonkarahisar'ın Başmakçı ilçesinde yer alıyor. Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde bulunan bu mekan, doğa güzelliği ve kültürel önemi ile dikkat çekiyor. 180 hektarlık bir alana kurulan Abdurrahman Sultan Türbesi, çevresi ile birlikte yaklaşık 300 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu önemli dini merkez, Ege Bölgesi'nin iklimsel koşullarına uygun olarak tasarlanmış ve inşa edilmiştir. Abdurrahman Sultan Türbesi, ziyaretçilerini Ege Bölgesi'nin güzelliği ile buluştururken, aynı zamanda bu bölgenin kültürel mirasını da tanıtmaktadır. Bu mekanın coğrafi konumu, onu Ege Bölgesi'nin önemli turistik noktalarından biri haline getirmiştir.
+Abdurrahman Sultan Türbesi, Afyonkarahisar'ın Başmakçı ilçesinde yer alıyor. Ege Bölgesi'nin coğrafi olarak zengin bir bölgesinde bulunan bu mekan, doğa güzelliği ve kültürel önemi ile dikkat çekiyor. Bu önemli dini merkez, Ege Bölgesi'nin iklimsel koşullarına uygun olarak tasarlanmış ve inşa edilmiştir. Abdurrahman Sultan Türbesi, ziyaretçilerini Ege Bölgesi'nin güzelliği ile buluştururken, aynı zamanda bu bölgenin kültürel mirasını da tanıtmaktadır. Bu mekanın coğrafi konumu, onu Ege Bölgesi'nin önemli turistik noktalarından biri haline getirmiştir.
 
 ## Flora ve Fauna
 

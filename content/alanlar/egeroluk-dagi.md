@@ -32,8 +32,8 @@ Ordu ilinin yeşil doğası, Eğeroluk Dağı gibi doğal güzelliklerle süslen
 
 ## Tarihçe
 
-Ordu bölgesinin zengin tarihi, Eğeroluk Dağı'nın eteklerinde de kendini gösterir. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların yaşamına ev sahipliği yapmış; Hitit, Pers, Roma ve Bizans gibi medeniyetlerin izleri, bölgenin kültürel dokusunda stiller. Eğeroluk Dağı'nın itselfi, Türkiye'nin doğal mirasının önemli bir parçası olarak görülebilir. 
-Türkiye'de, özellikle Karadeniz Bölgesi'nde, dağlık alanlarhistorik olarak önemli ticaret yolları ve yaylacılık faaliyetleri için tercih edilmiştir. Bu bölgeler, yerel halkın hayvancılıkla uğraşması ve geçimini sağlaması açısından da büyük önem taşır. Eğeroluk Dağı da, bu bağlamda, çevresindeki topluluklar için hayvancılık ve tarım faaliyetlerinde kullanılan bir alan olarak hizmet vermiştir. 
+Ordu bölgesinin zengin tarihi, Eğeroluk Dağı'nın eteklerinde de kendini gösterir. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların yaşamına ev sahipliği yapmış; Hitit, Pers, Roma ve Bizans gibi medeniyetlerin izleri, bölgenin kültürel dokusunda stiller. Eğeroluk Dağı'nın itselfi, Türkiye'nin doğal mirasının önemli bir parçası olarak görülebilir.
+Türkiye'de, özellikle Karadeniz Bölgesi'nde, dağlık alanlarhistorik olarak önemli ticaret yolları ve yaylacılık faaliyetleri için tercih edilmiştir. Bu bölgeler, yerel halkın hayvancılıkla uğraşması ve geçimini sağlaması açısından da büyük önem taşır. Eğeroluk Dağı da, bu bağlamda, çevresindeki topluluklar için hayvancılık ve tarım faaliyetlerinde kullanılan bir alan olarak hizmet vermiştir.
 Doğal güzellikleri ve tarihi önemi ile Eğeroluk Dağı, Türkiye'nin zengin kültürel ve doğal mirasını temsil eden önemli bir noktadır. Bu dağ, bölgenin tarihini ve kültürünü anlamak için ziyaretçilere bir pencere açar.
 
 ## Coğrafya

@@ -22,7 +22,7 @@ wikidata_id: "Q108227476"
 
 # Ankara-Cerkes-Ismetpaşa Karacam
 
-Ankara-Cerkes-Ismetpaşa Karacam, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte yaklaşık 500 futbol sahası büyüklüğündedir. Bu alan, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yerdir. Ankara'nın merkezine yakın konumuyla, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Milli park, doğal güzellikleri, yürüyüş parkurları ve piknik alanları ile ziyaretçilerini bekliyor.
+Ankara-Cerkes-Ismetpaşa Karacam, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu alan, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yerdir. Ankara'nın merkezine yakın konumuyla, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Milli park, doğal güzellikleri, yürüyüş parkurları ve piknik alanları ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Ankara-Cerkes-Ismetpaşa Karacam milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Ankara-Cerkes-Ismetpaşa Karacam milli parkı, coğrafi olarakInternal Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Park, 140 hektarlık bir alanı kaplıyor ve etrafı ile birlikte yaklaşık 500 futbol sahası büyüklüğünde bir alanı kapsıyor. Milli parkın coğrafi yapısı, dağlar, vadiler ve ormanlık alanlardan oluşuyor. İklim, İç Anadolu Bölgesi'nin karasal ikliminin özelliklerini taşıyor ve dört mevsim belirgin olarak yaşanır. Parkın coğrafi konumu, ziyaretçilere doğa ile iç içe bir deneyim sunuyor ve çeşitli bitki türleri ile zengin fauna sunuyor.
+Ankara-Cerkes-Ismetpaşa Karacam milli parkı, coğrafi olarakInternal Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Milli parkın coğrafi yapısı, dağlar, vadiler ve ormanlık alanlardan oluşuyor. İklim, İç Anadolu Bölgesi'nin karasal ikliminin özelliklerini taşıyor ve dört mevsim belirgin olarak yaşanır. Parkın coğrafi konumu, ziyaretçilere doğa ile iç içe bir deneyim sunuyor ve çeşitli bitki türleri ile zengin fauna sunuyor.
 
 ## Flora ve Fauna
 

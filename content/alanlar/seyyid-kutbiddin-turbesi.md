@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Kutbiddin Türbesi"
 date: "2026-01-10T07:53:05.907Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391330"
 
 # Seyyid Kutbiddin Türbesi
 
-Seyyid Kutbiddin Türbesi, Samsun'un İlkadım ilçesinde bulunan bir tarihi mekan. Bu mekan, Karadeniz Bölgesi'nde yer alıyor ve ziyaretçilerini bekliyor. 140 hektarlık bir alanda kurulan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde. Seyyid Kutbiddin Türbesi, tarihi ve kültürel açıdan önemli bir mekan. Ziyaretçiler, bu mekanı ziyaret ederek tarih ve kültür hakkında bilgi edinebilirler. Mekan, güzel bir mimariye sahip ve ziyaretçilerini etkiliyor.
+Seyyid Kutbiddin Türbesi, Samsun'un İlkadım ilçesinde bulunan bir tarihi mekan. Bu mekan, Karadeniz Bölgesi'nde yer alıyor ve ziyaretçilerini bekliyor. Seyyid Kutbiddin Türbesi, tarihi ve kültürel açıdan önemli bir mekan. Ziyaretçiler, bu mekanı ziyaret ederek tarih ve kültür hakkında bilgi edinebilirler. Mekan, güzel bir mimariye sahip ve ziyaretçilerini etkiliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Seyyid Kutbiddin Türbesi'nin tarihi geçmişi hakkında bilgi edinmek, ziyaret�
 
 ## Coğrafya
 
-Seyyid Kutbiddin Türbesi, Karadeniz Bölgesi'nde yer alıyor. Mekan, Samsun'un İlkadım ilçesinde bulunuyor. 140 hektarlık bir alanda kurulan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde. Seyyid Kutbiddin Türbesi, güzel bir mimariye sahip ve ziyaretçilerini etkiliyor. Mekan, Karadeniz Bölgesi'nin güzel coğrafyası içinde yer alıyor. Ziyaretçiler, bu mekanı ziyaret ederek güzel manzaralar ve tarihi mekanlar görebilirler. Mekan, Karadeniz Bölgesi'nin iklimine uygun olarak tasarlanmış ve ziyaretçilerin konforunu düşünerek inşa edilmiş. Çevre, güzel ve temiz. Ziyaretçiler, bu mekanı ziyaret ederek güzel bir gün geçirebilirler.
+Seyyid Kutbiddin Türbesi, Karadeniz Bölgesi'nde yer alıyor. Mekan, Samsun'un İlkadım ilçesinde bulunuyor. Seyyid Kutbiddin Türbesi, güzel bir mimariye sahip ve ziyaretçilerini etkiliyor. Mekan, Karadeniz Bölgesi'nin güzel coğrafyası içinde yer alıyor. Ziyaretçiler, bu mekanı ziyaret ederek güzel manzaralar ve tarihi mekanlar görebilirler. Mekan, Karadeniz Bölgesi'nin iklimine uygun olarak tasarlanmış ve ziyaretçilerin konforunu düşünerek inşa edilmiş. Çevre, güzel ve temiz. Ziyaretçiler, bu mekanı ziyaret ederek güzel bir gün geçirebilirler.
 
 ## Flora ve Fauna
 

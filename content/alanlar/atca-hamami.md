@@ -1,7 +1,7 @@
 ---
 title: "Atça Hamamı"
 date: "2026-01-09T23:32:04.020Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739100"
 
 # Atça Hamamı
 
-Atça Hamamı, Aydın'ın Sultanhisar ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliktir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alanda güneşlenmek, denize girme ve doğanın güzelliğini keşfetmek için ideal bir ortam sunar. Bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve Ege Bölgesi'ndeki en popüler tatil noktalarından biri olarak kabul edilmektedir.
+Atça Hamamı, Aydın'ın Sultanhisar ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliktir. Bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve Ege Bölgesi'ndeki en popüler tatil noktalarından biri olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Atça Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Atça Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliktir. Bu plaj, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Atça Hamamı, Aydın'ın Sultanhisar ilçesinde bulunmaktadır ve Ege Denizi'ne kıyısı vardır. Bu plajın etrafı, çeşitli bitki türleri ile kaplıdır ve zengin bir fauna sahiptir. Atça Hamamı, ziyaretçilerine geniş bir alanda güneşlenmek, denize girme ve doğanın güzelliğini keşfetmek için ideal bir ortam sunar. Bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve Ege Bölgesi'ndeki en popüler tatil noktalarından biri olarak kabul edilmektedir. Atça Hamamı'nın iklimi, Akdeniz iklimi özellikleri göstermekte ve yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava sahiptir.
+Atça Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliktir. Atça Hamamı, Aydın'ın Sultanhisar ilçesinde bulunmaktadır ve Ege Denizi'ne kıyısı vardır. Bu plajın etrafı, çeşitli bitki türleri ile kaplıdır ve zengin bir fauna sahiptir. Atça Hamamı, ziyaretçilerine geniş bir alanda güneşlenmek, denize girme ve doğanın güzelliğini keşfetmek için ideal bir ortam sunar. Bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve Ege Bölgesi'ndeki en popüler tatil noktalarından biri olarak kabul edilmektedir. Atça Hamamı'nın iklimi, Akdeniz iklimi özellikleri göstermekte ve yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir hava sahiptir.
 
 ## Flora ve Fauna
 
-Atça Hamamı, zengin bir flora ve fauna ile dikkat çekmektedir. Bu plajın etrafı, çeşitli bitki türleri ile kaplıdır ve özellikle zeytin ağaçları, kestane ağaçları ve çam ağaçları gibi türler bulunmaktadır. Atça Hamamı, ayrıca bir çok hayvan türüne de ev sahipliği yapmaktadır. Bu plajda, özellikle deniz kuşları, keklikler ve tavşan gibi türler görülebilmektedir. Atça Hamamı'nın deniz suyu, çeşitli balık türleri ile dolu olup, bu plajda balık avı da yapılmaktadır. Atça Hamamı, mevsimsel değişimlere göre farklı bir güzellik sunmaktadır. İlkbahar aylarında, çiçeklerin açması ile birlikte bu plaj, bir çiçek denizi gibi görünmekte ve ziyaretçilerine unutulmaz bir manzara sunmaktadır.
+Atça Hamamı, zengin bir flora ve fauna ile dikkat çekmektedir. Bu plajın etrafı, çeşitli bitki türleri ile kaplıdır ve özellikle zeytin ağaçları, kestane ağaçları ve çam ağaçları gibi türler bulunmaktadır. Atça Hamamı, ayrıca bir çok hayvan türüne de ev sahipliği yapmaktadır. Bu plajda, özellikle deniz kuşları, keklikler ve tavşan gibi türler görülebilmektedir. Atça Hamamı'nın deniz suyu, çeşitli balık türleri ile dolu olup, bu plajda balık avı da yapılmaktadır. Atça Hamamı, mevsimsel değişimlere göre farklı bir güzellik sunmaktadır.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Atça Hamamı, ziyaretçilerine geniş bir alanda güneşlenmek, denize girme ve
 ## İlginç Bilgiler
 
 - Atça Hamamı, 140 hektarlık bir alana yayılmıştır.
-- Bu plaj, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Atça Hamamı, Aydın'ın Sultanhisar ilçesinde bulunmaktadır.
 - Bu plaj, Ege Denizi'ne kıyısı vardır.
 - Atça Hamamı, zengin bir flora ve fauna ile dikkat çekmektedir.

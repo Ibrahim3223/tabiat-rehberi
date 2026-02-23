@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Alaman Türbesi"
 date: "2026-01-10T05:32:49.736Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391373"
 
 # Şeyh Alaman Türbesi
 
-Şeyh Alaman Türbesi, Konya'nın Karatay ilçesinde yer alan bir historical mekan. Bu mekan, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde. Şeyh Alaman Türbesi, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu mekan, aynı zamanda önemli bir kültür merkezi olarak kabul ediliyor.
+Şeyh Alaman Türbesi, Konya'nın Karatay ilçesinde yer alan bir historical mekan. Şeyh Alaman Türbesi, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu mekan, aynı zamanda önemli bir kültür merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391373"
 
 ## Coğrafya
 
-Şeyh Alaman Türbesi, Konya'nın Karatay ilçesinde, İç Anadolu Bölgesi'nde yer alıyor. Mekan, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Şeyh Alaman Türbesi, aynı zamanda önemli bir coğrafi konumda yer alıyor. Mekan, Konya şehir merkezine yakın bir konumda bulunuyor. Burada, doğal güzellikler ve tarihi mekanlar encontrabilir. Şeyh Alaman Türbesi, coğrafi konumu ve doğal güzelliği ile dikkat çekiyor.
+Şeyh Alaman Türbesi, Konya'nın Karatay ilçesinde, İç Anadolu Bölgesi'nde yer alıyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Şeyh Alaman Türbesi, aynı zamanda önemli bir coğrafi konumda yer alıyor. Mekan, Konya şehir merkezine yakın bir konumda bulunuyor. Burada, doğal güzellikler ve tarihi mekanlar encontrabilir. Şeyh Alaman Türbesi, coğrafi konumu ve doğal güzelliği ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

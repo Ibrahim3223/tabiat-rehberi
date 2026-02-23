@@ -51,7 +51,7 @@ Mevsimsel özellikler açısından, Aktepe'nin iklim karakteri oldukça değişk
 
 Aktepe dağının flora ve fauna çeşitliliği, step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türlerin zenginliğini gözler önüne serer. İlkbaharda, dağ yamaçları renkli çiçeklerle örtülür, sonbaharda ise göçmen kuşlar bu alanı ziyaret eder.
 
-Bitki Örtüsü: Dağın yükseklik zonlarına göre değişen flora, alpin bitkilerin çeşitliliğini sunar. Step bitkileri ve bozkır türleri, kuraklığa dayanıklı yapraklarla kendini gösterir. 
+Bitki Örtüsü: Dağın yükseklik zonlarına göre değişen flora, alpin bitkilerin çeşitliliğini sunar. Step bitkileri ve bozkır türleri, kuraklığa dayanıklı yapraklarla kendini gösterir.
 
 Yaban Hayatı: Memeliler, kuşlar ve sürüngenler, dağ ekosisteminin çeşitliliğini oluşturur. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşar. Kuşlar, özellikle göç mevsimlerinde, bu alanı önemli bir konaklama alanı olarak kullanır.
 

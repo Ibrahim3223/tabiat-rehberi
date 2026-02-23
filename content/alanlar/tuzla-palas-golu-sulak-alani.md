@@ -22,7 +22,7 @@ wikidata_id: "Q108229011"
 
 # Tuzla Palas Gölü Sulak Alanı
 
-Tuzla Palas Gölü Sulak Alanı, İç Anadolu Bölgesi'nin gizli bir cevheri olarak karşımıza çıkıyor. 140 hektarlık alana kurulu bu doğal güzellik, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu sulak alan, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Göller, sazlıklar ve çamurlu alanlardan oluşan bu bölge, birçok canlı için yaşam alanı sunuyor. Tuzla Palas Gölü Sulak Alanı, doğa severler ve kuş gözlemcileri için bir cennet olarak kabul ediliyor.
+Tuzla Palas Gölü Sulak Alanı, İç Anadolu Bölgesi'nin gizli bir cevheri olarak karşımıza çıkıyor. Bu sulak alan, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Göller, sazlıklar ve çamurlu alanlardan oluşan bu bölge, birçok canlı için yaşam alanı sunuyor. Tuzla Palas Gölü Sulak Alanı, doğa severler ve kuş gözlemcileri için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Tuzla Palas Gölü Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca şeki
 
 ## Coğrafya
 
-Tuzla Palas Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, göller, sazlıklar ve çamurlu alanlardan oluşuyor. Bu sulak alan, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. İklim, karasal iklim özellikleri gösteriyor ve yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçiyor. Bu coğrafi yapı, birçok canlı için uygun bir yaşam alanı sunuyor. Bölge, aynı zamanda önemli bir kuş göç yolu üzerinde yer alıyor ve birçok kuş türüne ev sahipliği yapıyor.
+Tuzla Palas Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, göller, sazlıklar ve çamurlu alanlardan oluşuyor. Bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. İklim, karasal iklim özellikleri gösteriyor ve yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçiyor. Bu coğrafi yapı, birçok canlı için uygun bir yaşam alanı sunuyor. Bölge, aynı zamanda önemli bir kuş göç yolu üzerinde yer alıyor ve birçok kuş türüne ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Tuzla Palas Gölü Sulak Alanı, doğa severler ve kuş gözlemcileri için bir 
 ## İlginç Bilgiler
 
 - Tuzla Palas Gölü Sulak Alanı, 140 hektarlık bir alanı kaplıyor.
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Tuzla Palas Gölü Sulak Alanı, zengin fauna ve flora çeşitliliği ile dikkat çekiyor.
 - Bölge, önemli bir kuş göç yolu üzerinde yer alıyor.
 - Tuzla Palas Gölü Sulak Alanı, doğa severler ve kuş gözlemcileri için bir cennet olarak kabul ediliyor.

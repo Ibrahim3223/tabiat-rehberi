@@ -23,7 +23,7 @@ wikidata_id: "Q119442756"
 
 # Çamlıhemşin Kaçkar Yaban Hayatı Geliştirme Sahası
 
-Çamlıhemşin Kaçkar Yaban Hayatı Geliştirme Sahası, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu muhteşem doğa alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyüler. Doğa severler için bir cennet olan bu saha, hem doğa yürüyüşleri hem de yaban hayatı gözlemi için ideal bir destinasyondur. Ziyaretçiler, bu eşsiz ortamda doğanın güzelliğini keşfedebilir ve yaban hayatını yakından tanıyabilirler.
+ Bu muhteşem doğa alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyüler. Doğa severler için bir cennet olan bu saha, hem doğa yürüyüşleri hem de yaban hayatı gözlemi için ideal bir destinasyondur. Ziyaretçiler, bu eşsiz ortamda doğanın güzelliğini keşfedebilir ve yaban hayatını yakından tanıyabilirler.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Kral II. Solomon Türbesi"
 date: "2026-01-10T06:40:45.451Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582711"
 
 # Kral II. Solomon Türbesi
 
-Kral II. Solomon Türbesi, Trabzon'un Ortahisar ilçesinde bulunan bir plaj ve tarihi mekan. Bu özel destinasyon, Karadeniz Bölgesi'nin güzide illerinden biri olan Trabzon'un doğal ve tarihi güzelliklerini bir arada sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Tarihi geçmişi ile dikkat çeken bu mekan, ziyaretçilerini geçmişe götürüyor. Kral II. Solomon Türbesi, doğa severler ve tarih meraklıları için idealdiğer bir destinasyon.
+Kral II. Solomon Türbesi, Trabzon'un Ortahisar ilçesinde bulunan bir plaj ve tarihi mekan. Bu özel destinasyon, Karadeniz Bölgesi'nin güzide illerinden biri olan Trabzon'un doğal ve tarihi güzelliklerini bir arada sunuyor. Tarihi geçmişi ile dikkat çeken bu mekan, ziyaretçilerini geçmişe götürüyor. Kral II. Solomon Türbesi, doğa severler ve tarih meraklıları için idealdiğer bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kral II. Solomon Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Kral II. Solomon Türbesi, Trabzon'un Ortahisar ilçesinde yer alıyor. Bu mekan, Karadeniz Bölgesi'nin güzide illerinden biri olan Trabzon'un doğal güzelliklerini bir araya getiriyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Kral II. Solomon Türbesi, Karadeniz'in doğal güzellikleri ile tarihi mekanlarını bir araya getirerek ziyaretçilerine benzersiz bir deneyim sunuyor. Bu mekanın coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin güzelliklerini keşfetme fırsatı sunuyor.
+Kral II. Solomon Türbesi, Trabzon'un Ortahisar ilçesinde yer alıyor. Bu mekan, Karadeniz Bölgesi'nin güzide illerinden biri olan Trabzon'un doğal güzelliklerini bir araya getiriyor. Kral II. Solomon Türbesi, Karadeniz'in doğal güzellikleri ile tarihi mekanlarını bir araya getirerek ziyaretçilerine benzersiz bir deneyim sunuyor. Bu mekanın coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

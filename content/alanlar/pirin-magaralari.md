@@ -62,7 +62,7 @@ Pirin Mağaraları, Adıyaman'ın gizli bir incisi. Sabah erken gitmenizi öneri
 
 - Pirin Mağaraları, Adıyaman ilinin Gerger ilçesinde bulunmaktadır.
 - Mağaranın oluşumu milyonlarca yıl öncesine dayanmaktadır.
-- Mağara, jeolojik oluşumları ve histórik önemini korumak amacıyla jeopark olarak ilan edilmiştir.
+- Mağara, jeolojik oluşumları ve tarihi önemini korumak amacıyla jeopark olarak ilan edilmiştir.
 - Adıyaman'ın turizm potansiyelini artırmaya katkıda bulunmaktadır.
 - Mağaranın ziyaretçileri, eşsiz jeolojik oluşumlarını ve tarihi kalıntılarını görme fırsatı bulmaktadır.
 - Pirin Mağaraları, Türkiye'nin önemli jeoloji ve tarihi sitelerinden biridir.

@@ -28,7 +28,7 @@ wikidata_id: "Q31387967"
 
 # Dalalı Tepesi
 
-Dalalı Tepesi, Tunceli'nin doğal güzelliklerinin görülebileceği bir noktada yer alır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki örtüsüne sahiptir. Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir yer olan Dalalı Tepesi, ziyaretçilerini doğal güzellikleriyle büyüler. Tunceli'nin eşsiz manzarasına sahip bu tepe, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir durak noktasıdır.
+Dalalı Tepesi, Tunceli'nin doğal güzelliklerinin görülebileceği bir noktada yer alır. Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir yer olan Dalalı Tepesi, ziyaretçilerini doğal güzellikleriyle büyüler. Tunceli'nin eşsiz manzarasına sahip bu tepe, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir durak noktasıdır.
 
 ## Tarihçe
 

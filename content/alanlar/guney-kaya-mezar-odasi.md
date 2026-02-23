@@ -29,7 +29,7 @@ wikidata_id: "Q134728171"
 
 # Güney Kaya Mezar Odası
 
-Güney Kaya Mezar Odası, Malatya'nın Akçadağ ilçesinde, coğrafi olarak Doğu Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Bu bölge, 140 hektarlık bir alanı kapsayan geniş bir arazide, tarihi ve doğal güzelliklerini bir araya getirerek ziyaretçilerini ağırlıyor. Güney Kaya Mezar Odası, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve bu özelliği ile dikkat çekici bir yer olarak görünüyor. Tarihi ve kültürel açıdan zengin bir geçmişe sahip olan bu mekan, ziyaretçilerine hem eğitim hem de eğlence sunuyor.
+Güney Kaya Mezar Odası, Malatya'nın Akçadağ ilçesinde, coğrafi olarak Doğu Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Bu bölge, 140 hektarlık bir alanı kapsayan geniş bir arazide, tarihi ve doğal güzelliklerini bir araya getirerek ziyaretçilerini ağırlıyor. Tarihi ve kültürel açıdan zengin bir geçmişe sahip olan bu mekan, ziyaretçilerine hem eğitim hem de eğlence sunuyor.
 
 ## Tarihçe
 

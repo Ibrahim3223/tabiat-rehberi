@@ -28,7 +28,7 @@ wikidata_id: "Q31387867"
 
 # Hanımkaya Tepesi
 
-Hanımkaya Tepesi, Manisa'nın en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel manzaralarına ev sahipliği yapıyor. Hanımkaya Tepesi, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle etkileyen bir destinasyon. Bu tepe, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul ediliyor. Hanımkaya Tepesi'nin güzelliği, bölgenin iklimi ve coğrafi yapısıyla da yakından ilgili. Ege Bölgesi'nin karakteristik özellikleri, Hanımkaya Tepesi'nin benzersiz bir deneyimi sunmasına katkıda bulunuyor.
+Hanımkaya Tepesi, Manisa'nın en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Hanımkaya Tepesi, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle etkileyen bir destinasyon. Bu tepe, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul ediliyor. Hanımkaya Tepesi'nin güzelliği, bölgenin iklimi ve coğrafi yapısıyla da yakından ilgili. Ege Bölgesi'nin karakteristik özellikleri, Hanımkaya Tepesi'nin benzersiz bir deneyimi sunmasına katkıda bulunuyor.
 
 ## Tarihçe
 

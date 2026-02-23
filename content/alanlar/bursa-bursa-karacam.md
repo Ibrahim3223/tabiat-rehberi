@@ -22,7 +22,7 @@ wikidata_id: "Q108227490"
 
 # Bursa-Bursa-Karacam
 
-Bursa'nın kalbinde yer alan Karacam Milli Parkı, 140 hektarlık genişlikteki yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasını gözler önüne serer. Bu muhteşem park, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet eder. Parkın etrafındaki yüksek dağlar ve ormanlar, ziyaretçilere doğal bir koruma alanı sunar. Karacam Milli Parkı, yaban hayatının zengin çeşitliliği ve eşsiz flora ile dikkat çeker. Burada, çeşitli bitki türleri ve ağaçlar, ziyaretçilere doğanın güzelliğini gösterir.
+ Bu muhteşem park, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet eder. Parkın etrafındaki yüksek dağlar ve ormanlar, ziyaretçilere doğal bir koruma alanı sunar. Karacam Milli Parkı, yaban hayatının zengin çeşitliliği ve eşsiz flora ile dikkat çeker. Burada, çeşitli bitki türleri ve ağaçlar, ziyaretçilere doğanın güzelliğini gösterir.
 
 ## Tarihçe
 

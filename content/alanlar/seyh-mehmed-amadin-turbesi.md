@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Mehmed Amadin Türbesi"
 date: "2026-01-10T06:59:30.786Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilis"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390875"
 
 # Şeyh Mehmed Amadin Türbesi
 
-Şeyh Mehmed Amadin Türbesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan bir tarihi türbe ve plajdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alana sahiptir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şeyh Mehmed Amadin Türbesi, hem tarihi önemi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Türbe, Şeyh Mehmed Amadin tarafından yaptırılmıştır ve tarihi geçmişi ile dikkat çeker. Şeyh Mehmed Amadin Türbesi, yerli ve yabancı turistler tarafından sıkça ziyaret edilen bir yerdir.
+Şeyh Mehmed Amadin Türbesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan bir tarihi türbe ve plajdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alana sahiptir. Şeyh Mehmed Amadin Türbesi, hem tarihi önemi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Türbe, Şeyh Mehmed Amadin tarafından yaptırılmıştır ve tarihi geçmişi ile dikkat çeker. Şeyh Mehmed Amadin Türbesi, yerli ve yabancı turistler tarafından sıkça ziyaret edilen bir yerdir.
 
 ## Tarihçe
 

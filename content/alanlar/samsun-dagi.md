@@ -66,6 +66,6 @@ Samsun Dağı, Afyonkarahisar'ın doğal güzelliklerini keşfetmek isteyenler i
 - Samsun Dağı, Afyonkarahisar ilinde yer alan bir dağdır.
 - Dağ, Ege Bölgesi'nin en yüksek noktalarından biridir.
 - Afyonkarahisar'ın coğrafi yapısını etkileyen önemli bir oluşumdur.
-- Dağın eteklerinde históri ve turistik yerler bulunmaktadır.
+- Dağın eteklerinde tarihi ve turistik yerler bulunmaktadır.
 - Samsun Dağı, bölgenin flora ve fauna çeşitliliğine ev sahipliği yapmaktadır.
 - Dağarounda yapılan araştırmalar, bölgenin jeolojik yapısı hakkında bilgi vermektedir.

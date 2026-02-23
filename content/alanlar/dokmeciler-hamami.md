@@ -1,7 +1,7 @@
 ---
 title: "Dökmeciler Hamamı"
 date: "2026-01-09T22:09:37.636Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,11 +30,11 @@ wikidata_id: "Q749094"
 
 # Dökmeciler Hamamı
 
-Dökmeciler Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi hamam ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir yeşil alan olarak hayal edilebilir. Dökmeciler Hamamı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon olarak ön plana çıkıyor. İstanbul'un kalabalık ve hareketli streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olan bu hamam ve plaj, şehrin tarihi dokusu ile modern yaşamın birleştiği bir noktada bulunuyor.
+Dökmeciler Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi hamam ve plaj alanıdır. Dökmeciler Hamamı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon olarak ön plana çıkıyor. İstanbul'un kalabalık ve hareketli streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olan bu hamam ve plaj, şehrin tarihi dokusu ile modern yaşamın birleştiği bir noktada bulunuyor.
 
 ## Tarihçe
 
-Dökmeciler Hamamı'nın tarihi geçmişi, İstanbul'un fethine dayanıyor. Bu bölgede, yüzyıllar boyunca çeşitli medeniyetler hüküm sürmüş ve her biri bu topraklara kendi kültürlerini ve mimari yapılarını bırakmışlardır. Hamam, Osmanlı döneminde inşa edilmiş ve o günden bugüne, çeşitli restorasyonlar geçirerek günümüze ulaşmıştır. Dökmeciler Hamamı, sadece bir tarihi yapı değil, aynı zamanda bir kültürel miras olarak da kabul ediliyor. Ziyaretçiler, bu hamamda, geçmişin izlerini taşıyan duvarları, histórik odaları ve geleneksel Türk hamam kültürünü deneyimleyebiliyorlar.
+Dökmeciler Hamamı'nın tarihi geçmişi, İstanbul'un fethine dayanıyor. Bu bölgede, yüzyıllar boyunca çeşitli medeniyetler hüküm sürmüş ve her biri bu topraklara kendi kültürlerini ve mimari yapılarını bırakmışlardır. Hamam, Osmanlı döneminde inşa edilmiş ve o günden bugüne, çeşitli restorasyonlar geçirerek günümüze ulaşmıştır. Dökmeciler Hamamı, sadece bir tarihi yapı değil, aynı zamanda bir kültürel miras olarak da kabul ediliyor. Ziyaretçiler, bu hamamda, geçmişin izlerini taşıyan duvarları, tarihi odaları ve geleneksel Türk hamam kültürünü deneyimleyebiliyorlar.
 
 ## Coğrafya
 

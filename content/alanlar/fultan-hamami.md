@@ -1,7 +1,7 @@
 ---
 title: "Fultan Hamamı"
 date: "2026-01-09T23:30:00.588Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bingöl"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739059"
 
 # Fultan Hamamı
 
-Fultan Hamamı, Doğu Anadolu Bölgesi'nin Bingöl ilinin Kiğı ilçesinde yer alan, 140 hektarlık geniş bir alana sahip olan bir plajdır. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu doğal alan, ziyaretçilerini büyüleyen bir güzelliğe sahiptir. Yerliler ve turistler için bir çekim merkezi olan Fulton Hamamı, doğanın güzelliğini ve sakinliğini deneyimlemek isteyenler için ideal bir destinasyondur. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Fulton Hamamı, ziyaretçilerine unutulmaz anlar yaşatmak için bekliyor.
+Fultan Hamamı, Doğu Anadolu Bölgesi'nin Bingöl ilinin Kiğı ilçesinde yer alan, 140 hektarlık geniş bir alana sahip olan bir plajdır. Bu doğal alan, ziyaretçilerini büyüleyen bir güzelliğe sahiptir. Yerliler ve turistler için bir çekim merkezi olan Fulton Hamamı, doğanın güzelliğini ve sakinliğini deneyimlemek isteyenler için ideal bir destinasyondur. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Fultan Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev 
 
 ## Coğrafya
 
-Fultan Hamamı, Doğu Anadolu Bölgesi'nin coğrafi olarak en güzel bölgelerinden birisidir. Bu bölge, Bingöl ilinin Kiğı ilçesinde yer alır. Fulton Hamamı, 140 hektarlık bir alana sahiptir ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu doğal alan, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Fulton Hamamı, ziyaretçilerine doğanın güzelliğini ve sakinliğini deneyimlemek için ideal bir oportunite sunar. Bu bölgede, birçok nehir ve akarsu bulunur ve bu su kaynakları, bölgenin ekolojisini zenginleştirir. Fulton Hamamı, ziyaretçilerini güneşin doğuşu ve batışının güzelliği ile büyüler.
+Fultan Hamamı, Doğu Anadolu Bölgesi'nin coğrafi olarak en güzel bölgelerinden birisidir. Bu bölge, Bingöl ilinin Kiğı ilçesinde yer alır. Bu doğal alan, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Fulton Hamamı, ziyaretçilerine doğanın güzelliğini ve sakinliğini deneyimlemek için ideal bir oportunite sunar. Bu bölgede, birçok nehir ve akarsu bulunur ve bu su kaynakları, bölgenin ekolojisini zenginleştirir. Fulton Hamamı, ziyaretçilerini güneşin doğuşu ve batışının güzelliği ile büyüler.
 
 ## Flora ve Fauna
 
-Fultan Hamamı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu doğal alan, birçok farklı türde ağaç, çalı ve çiçeklerin bulunduğu bir bölgedir. Fulton Hamamı, ziyaretçilerine doğanın güzelliğini ve sakinliğini deneyimlemek için ideal bir destinasyondur. Bu bölgede, birçok farklı türde hayvanlar bulunur ve bu hayvanlar, bölgenin ekolojisini zenginleştirir. Fulton Hamamı, ziyaretçilerini doğanın güzelliği ile büyüler ve aynı zamanda birçok farklı türde bitki ve hayvanların bulunduğu bir bölgeyi keşfetme fırsatı sunar. Bu doğal alan, ziyaretçilerine unutulmaz anlar yaşatmak için bekliyor.
+Fultan Hamamı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu doğal alan, birçok farklı türde ağaç, çalı ve çiçeklerin bulunduğu bir bölgedir. Fulton Hamamı, ziyaretçilerine doğanın güzelliğini ve sakinliğini deneyimlemek için ideal bir destinasyondur. Bu bölgede, birçok farklı türde hayvanlar bulunur ve bu hayvanlar, bölgenin ekolojisini zenginleştirir. Fulton Hamamı, ziyaretçilerini doğanın güzelliği ile büyüler ve aynı zamanda birçok farklı türde bitki ve hayvanların bulunduğu bir bölgeyi keşfetme fırsatı sunar.
 
 ## Ziyaret Bilgileri
 

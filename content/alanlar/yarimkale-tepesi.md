@@ -28,7 +28,7 @@ wikidata_id: "Q31390631"
 
 # Yarımkale Tepesi
 
-Yarımkale Tepesi, İç Anadolu Bölgesi'nin güzide şehirlerinden biri olan Kırşehir'de yer alan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılıyor. Yarımkale Tepesi, şehrin merkezine yakın konumuyla kolay ulaşılabilirlik sunuyor. Bu tepe, özellikle şehir hayatından uzaklaşmak isteyenler için bir kaçış noktası olarak kabul ediliyor. Yarımkale Tepesi'nin tarihi geçmişi, coğrafi özellikleri ve ziyaret bilgileri, bu bölgeyi ziyaret etmek isteyenler için önemli bilgiler sunuyor.
+Yarımkale Tepesi, İç Anadolu Bölgesi'nin güzide şehirlerinden biri olan Kırşehir'de yer alan bir tepe. Yarımkale Tepesi, şehrin merkezine yakın konumuyla kolay ulaşılabilirlik sunuyor. Bu tepe, özellikle şehir hayatından uzaklaşmak isteyenler için bir kaçış noktası olarak kabul ediliyor. Yarımkale Tepesi'nin tarihi geçmişi, coğrafi özellikleri ve ziyaret bilgileri, bu bölgeyi ziyaret etmek isteyenler için önemli bilgiler sunuyor.
 
 ## Tarihçe
 

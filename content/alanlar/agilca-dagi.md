@@ -51,11 +51,11 @@ Ağılca Dağı, çevresindeki ekosistemle birlikte bir bütünlük oluşturmakt
 
 ## Flora ve Fauna
 
-Ağılca Dağı, yükseklik zonları ile karakterize edilen bir dağ ekosistemi sunar. Bu bölgede, step bitki örtüsü ve bozkır hakimdir. İklim kuraklığa adapte edilmiş türlerle doludur. 
+Ağılca Dağı, yükseklik zonları ile karakterize edilen bir dağ ekosistemi sunar. Bu bölgede, step bitki örtüsü ve bozkır hakimdir. İklim kuraklığa adapte edilmiş türlerle doludur.
 
-Bitki örtüsünde, ilkbaharın gelmesiyle birlikte renkli çiçekler açar ve dağ eteklerinde geniş otlaklar oluşur. Sonbaharda, yaprak döken ağaçlar sarı, altın ve kırmızıyla dağ manzarasına renk katar. 
+Bitki örtüsünde, ilkbaharın gelmesiyle birlikte renkli çiçekler açar ve dağ eteklerinde geniş otlaklar oluşur. Sonbaharda, yaprak döken ağaçlar sarı, altın ve kırmızıyla dağ manzarasına renk katar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağın yüksek kesimlerinde, dağ keçileri ve diğer adaptasyon göstermiş türler yaşar. Kuşlar, özellikle göç mevsimlerinde, dağları geçiş noktası olarak kullanır. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağın yüksek kesimlerinde, dağ keçileri ve diğer adaptasyon göstermiş türler yaşar. Kuşlar, özellikle göç mevsimlerinde, dağları geçiş noktası olarak kullanır.
 
 Ekolojik değer olarak, Ağılca Dağı, bu türlerin yaşam alanlarını korur ve bölge ekosisteminin dengesini sağlar. Bu dağ ekosisteminin korunması, hem yerel hem de global açıdan önemlidir.
 

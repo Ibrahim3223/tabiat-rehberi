@@ -29,7 +29,7 @@ wikidata_id: "Q31388934"
 
 # Kuzey Tepesi
 
-Kuzey Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için bir kapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilerini büyüleyici manzaralarla karşılar. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösterir. Kuzey Tepesi, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+Kuzey Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için bir kapıdır. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösterir. Kuzey Tepesi, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

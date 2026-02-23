@@ -22,7 +22,7 @@ wikidata_id: "Q108227664"
 
 # Mugla-Dalaman Kızılçam
 
-Mugla-Dalaman Kızılçam milli parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir yeşil alanı kapsıyor. Bu alan, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini deneyimleme fırsatı sunuyor. Parkın zengin florası, çeşitli ağaç türleri ve çiçeklerle dolu. Her mevsim, parkın güzelliği farklı bir şekilde ortaya çıkıyor. İlkbaharın renkli çiçekleri, yazın serin gölgesi, sonbaharın sarı yaprakları ve kışın karla kaplı manzarası, her sezon parka ayrı bir güzellik katıyor.
+ Bu alan, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini deneyimleme fırsatı sunuyor. Parkın zengin florası, çeşitli ağaç türleri ve çiçeklerle dolu. Her mevsim, parkın güzelliği farklı bir şekilde ortaya çıkıyor. İlkbaharın renkli çiçekleri, yazın serin gölgesi, sonbaharın sarı yaprakları ve kışın karla kaplı manzarası, her sezon parka ayrı bir güzellik katıyor.
 
 ## Tarihçe
 

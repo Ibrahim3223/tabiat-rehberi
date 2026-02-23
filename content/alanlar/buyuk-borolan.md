@@ -32,7 +32,7 @@ Iğdır'ın dağlık bölgesinde yer alan Büyük Borolan, ziyaretçilerini doğ
 
 ## Tarihçe
 
-Iğdır bölgesi, tarihin sâu sayfalarında gizlenen bir hazinedir. Bu coğrafya, tarih boyunca çeşitli uygarlıkların izlerini taşıyan bir geçiş noktası olmuştur. Iğdır'ın stratejik konumu, ticaret yollarının kesişme noktasında yer alması, bölgenin önemini artırmıştır. Büyük Borolan Dağı da bu tarihi coğrafyanın bir parçasıdır.
+Iğdır bölgesi, tarihin derin sayfalarında gizlenen bir hazinedir. Bu coğrafya, tarih boyunca çeşitli uygarlıkların izlerini taşıyan bir geçiş noktası olmuştur. Iğdır'ın stratejik konumu, ticaret yollarının kesişme noktasında yer alması, bölgenin önemini artırmıştır. Büyük Borolan Dağı da bu tarihi coğrafyanın bir parçasıdır.
 
 Türkiye'nin doğal alanları, binlerce yıldır insan yaşamının bir parçası olmuştur. Yayla ve dağlık bölgeler, özellikle yaylacılık ve hayvancılık faaliyetleri için önemli merkezler olarak görev görmüşlerdir. Büyük Borolan Dağı ve çevresindeki doğal güzellikler, bölgenin ekolojik dengesini korumakla kalmamış, aynı zamanda yerel halkın geçim kaynaklarını da oluşturmuştur. Ticaret yolları üzerinde yer alan bu bölge, tarihi İpek Yolu'nun da bir parçasıdır. İnsanların bu doğal alanlarla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşır. Bu nedenle, Büyük Borolan Dağı ve benzeri doğal alanlar, Türkiye'nin zengin tarihsel ve kültürel mirasının önemli bir bileşenidir.
 
@@ -48,9 +48,9 @@ Büyük Borolan Dağı, çevresindeki diğer doğal alanlarla da bağlantılı. 
 
 ## Flora ve Fauna
 
-Büyük Borolan dağının yükseklik zonları, çeşitli flora ve fauna türlerine ev sahipliği yapmakta. İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle donanırken, sonbaharda göç eden kuşlar bu alanı geçiş noktası olarak kullanmakta. 
+Büyük Borolan dağının yükseklik zonları, çeşitli flora ve fauna türlerine ev sahipliği yapmakta. İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle donanırken, sonbaharda göç eden kuşlar bu alanı geçiş noktası olarak kullanmakta.
 
-Bitki örtüsünü oluşturan yüksek dağ ekosisteminde, alpin flora türleri hakim. Bu türler, yüksek rakımlara adapte olmuş ve mevsimsel değişimlere karşı dayanıklı. Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerden oluşmakta. Dağ keçileri ve yaban keçileri gibi memeliler, kayalık alanlarda yaşarken, various kuş türleri ise göç rotalarında bu alanı kullanmakta. 
+Bitki örtüsünü oluşturan yüksek dağ ekosisteminde, alpin flora türleri hakim. Bu türler, yüksek rakımlara adapte olmuş ve mevsimsel değişimlere karşı dayanıklı. Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerden oluşmakta. Dağ keçileri ve yaban keçileri gibi memeliler, kayalık alanlarda yaşarken, various kuş türleri ise göç rotalarında bu alanı kullanmakta.
 
 Büyük Borolan'ın ekolojik değeri, endemik türlerin varlığı ve yüksek dağ ekosisteminin korunmasıyla ilgili. Bu alan, bölge için önemli bir ekosistem hizmeti sunarken, aynı zamanda biyolojik çeşitlilik açısından da önemli bir role sahip. Koruma durumu ise, bölgesel ve ulusal düzeyde koruma çabalarıyla desteklenmekte.
 

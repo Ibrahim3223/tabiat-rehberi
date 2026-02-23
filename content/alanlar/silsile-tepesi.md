@@ -28,7 +28,7 @@ wikidata_id: "Q31386201"
 
 # Silsile Tepesi
 
-Silsile Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Gaziantep'in sınırları içerisinde yer alan bu tepenin yüksekliği yaklaşık 1000 metre civarındadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal çekim merkezlerinden biri olarak kabul edilir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve mevsimsel değişimlerle birlikte farklı renkler sunar. Silsile Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
+Silsile Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Gaziantep'in sınırları içerisinde yer alan bu tepenin yüksekliği yaklaşık 1000 metre civarındadır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve mevsimsel değişimlerle birlikte farklı renkler sunar. Silsile Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Silsile Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli bir par
 
 ## Flora ve Fauna
 
-Silsile Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin eteklerinde ve tepesinde farklı bitki türleri bulunur ve mevsimsel değişimlerle birlikte farklı renkler sunar. Bölgenin fauna zenginliği, farklı hayvan türlerini barındırır ve bu hayvanlar, bölgenin ekolojik dengesini sağlar. Silsile Tepesi, hem flora hem de fauna açısından önemli bir destinasyondur. Mevsimsel değişimlerle birlikte, farklı bitki ve hayvan türleri gözlemlenebilir ve bu, bölgenin doğal güzelliğini artırır.
+ Tepenin eteklerinde ve tepesinde farklı bitki türleri bulunur ve mevsimsel değişimlerle birlikte farklı renkler sunar. Bölgenin fauna zenginliği, farklı hayvan türlerini barındırır ve bu hayvanlar, bölgenin ekolojik dengesini sağlar. Silsile Tepesi, hem flora hem de fauna açısından önemli bir destinasyondur. Mevsimsel değişimlerle birlikte, farklı bitki ve hayvan türleri gözlemlenebilir ve bu, bölgenin doğal güzelliğini artırır.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Silsile Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklıları i
 
 - Silsile Tepesi, Gaziantep'in en önemli doğal güzelliklerinden biridir.
 - Tepenin yüksekliği yaklaşık 1000 metre civarındadır.
-- 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Tepenin eteklerinde çeşitli bitki türleri bulunur.
 - Bölgenin fauna zenginliği, farklı hayvan türlerini barındırır.

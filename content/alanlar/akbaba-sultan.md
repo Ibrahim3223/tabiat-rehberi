@@ -30,7 +30,7 @@ wikidata_id: "Q20474511"
 
 # Akbaba Sultan
 
-Akbaba Sultan, İstanbul'un Beykoz ilçesinde, Marmara Bölgesi'nin eşsiz güzellikteki kıyı şeridinde yer alan bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Denizi'nin sakin sularına sahip. Bu bölge, hem İstanbul'un hem de Marmara Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çeker. Akbaba Sultan Plajı, ziyaretçilerine denizin serinliği ve güneşin sıcaklığının bir arada hissedildiği özel bir deneyim sunar.
+Akbaba Sultan, İstanbul'un Beykoz ilçesinde, Marmara Bölgesi'nin eşsiz güzellikteki kıyı şeridinde yer alan bir plajdır. Bu bölge, hem İstanbul'un hem de Marmara Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çeker. Akbaba Sultan Plajı, ziyaretçilerine denizin serinliği ve güneşin sıcaklığının bir arada hissedildiği özel bir deneyim sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Akbaba Sultan Plajı, tarihi geçmişi ile dikkat çeker. Bu bölgenin tarihi ge
 
 ## Coğrafya
 
-Akbaba Sultan Plajı, coğrafi olarak Marmara Denizi'nin kıyısında, Beykoz ilçesinde yer alır. Bu plaj, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Plajın etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Marmara Denizi'nin sakin suları, plajın güzelliğini daha da artırır. Akbaba Sultan Plajı, coğrafi konumu itibari ile İstanbul'un diğer önemli noktalarına da yakınlık sağlar. Bu nedenle, plaj ziyaretçileri, aynı zamanda İstanbul'un tarihi ve turistik yerlerini de keşfedebilir.
+Akbaba Sultan Plajı, coğrafi olarak Marmara Denizi'nin kıyısında, Beykoz ilçesinde yer alır. Plajın etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Marmara Denizi'nin sakin suları, plajın güzelliğini daha da artırır. Akbaba Sultan Plajı, coğrafi konumu itibari ile İstanbul'un diğer önemli noktalarına da yakınlık sağlar. Bu nedenle, plaj ziyaretçileri, aynı zamanda İstanbul'un tarihi ve turistik yerlerini de keşfedebilir.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227362"
 
 # Acıkise Dogu Cınarı
 
-Acıkise Dogu Cınarı, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın içiçek geçtiği bir dünya sunuyor. Burada, zengin flora ve fauna çeşitliliğiyle birlikte, yaban hayatı da korumaya alınan önemli bir bölge olarak dikkat çekiyor. Doğal güzellikleri ve biyolojik çeşitliliğiyle zusammen, bu bölge, hem doğa severler hem de bilim insanları için önemli bir destinasyon olarak öne çıkıyor.
+Acıkise Dogu Cınarı, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Burada, zengin flora ve fauna çeşitliliğiyle birlikte, yaban hayatı da korumaya alınan önemli bir bölge olarak dikkat çekiyor. Doğal güzellikleri ve biyolojik çeşitliliğiyle zusammen, bu bölge, hem doğa severler hem de bilim insanları için önemli bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Acıkise Dogu Cınarı'nın tarihi geçmişi, binlerce yıl öncesine kadar uzan
 
 ## Coğrafya
 
-Acıkise Dogu Cınarı, İç Anadolu Bölgesi'nin coğrafi açıdan oldukça zengin bir bölgesinde yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bölgenin coğrafyası, genellikle geniş ovalar ve bu ovaları çevreleyen dağlarla karakterize ediliyor. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri gösteriyor; yani kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel özellikler, bölgeye özgü flora ve fauna çeşitliliğinin gelişmesine katkıda bulunmuş. Acıkise Dogu Cınarı'nın coğrafyası, aynı zamanda çeşitli su kaynaklarına da ev sahipliği yapıyor. Bu su kaynakları, bölgenin ekolojik dengesinin korunmasına yardımcı oluyor. Coğrafi konumu ve doğal kaynakları, Acıkise Dogu Cınarı'nı önemli bir ekoloji ve turistik destinasyon haline getiriyor.
+Acıkise Dogu Cınarı, İç Anadolu Bölgesi'nin coğrafi açıdan oldukça zengin bir bölgesinde yer alıyor. Bölgenin coğrafyası, genellikle geniş ovalar ve bu ovaları çevreleyen dağlarla karakterize ediliyor. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri gösteriyor; yani kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel özellikler, bölgeye özgü flora ve fauna çeşitliliğinin gelişmesine katkıda bulunmuş. Acıkise Dogu Cınarı'nın coğrafyası, aynı zamanda çeşitli su kaynaklarına da ev sahipliği yapıyor. Bu su kaynakları, bölgenin ekolojik dengesinin korunmasına yardımcı oluyor. Coğrafi konumu ve doğal kaynakları, Acıkise Dogu Cınarı'nı önemli bir ekoloji ve turistik destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Acıkise Dogu Cınarı, ziyaretçilerine çeşitli aktiviteler sunuyor. Doğa y�
 ## İlginç Bilgiler
 
 - Acıkise Dogu Cınarı, 140 hektarlık bir alana yayılmış.
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - İç Anadolu Bölgesi'nin doğal güzelliklerinden biri.
 - Zengin flora ve fauna çeşitliliğine sahip.
 - Doğa severler ve bilim insanları için önemli bir destinasyon.

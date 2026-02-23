@@ -28,7 +28,7 @@ wikidata_id: "Q31549105"
 
 # Geresusik Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin zengin coğrafyasında yer alan Geresusik Tepesi, Siirt ilinin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ki bu, 200 futbol sahası büyüklüğüne eşdeğer. Geresusik Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ayrıca, tepe etrafındaki manzara, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Güneydoğu Anadolu Bölgesi'nin zengin coğrafyasında yer alan Geresusik Tepesi, Siirt ilinin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Geresusik Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ayrıca, tepe etrafındaki manzara, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

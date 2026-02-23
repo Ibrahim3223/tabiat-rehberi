@@ -22,7 +22,7 @@ wikidata_id: "Q108227537"
 
 # Kastamonu-Ayancik-Cangal Karacam
 
-Kastamonu-Ayancık-Cangal Karacam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu milli park, Kastamonu'nun tarihi ve kültürel zenginliklerinin yanı sıra, doğa severlerin de ilgisini çekiyor. Burada, doğanın sesini dinleyerek, stresinizi atabilirsiniz.
+Kastamonu-Ayancık-Cangal Karacam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu milli park, Kastamonu'nun tarihi ve kültürel zenginliklerinin yanı sıra, doğa severlerin de ilgisini çekiyor. Burada, doğanın sesini dinleyerek, stresinizi atabilirsiniz.
 
 ## Tarihçe
 

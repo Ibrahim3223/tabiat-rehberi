@@ -28,7 +28,7 @@ wikidata_id: "Q31559524"
 
 # Oklak Tepesi
 
-Oklak Tepesi, Ankara'nın kalbinde, İç Anadolu Bölgesi'nin geniş ve verimli topraklarında yer alan bir tepe olarak bilinir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak dikkat çekmektedir. Oklak Tepesi, ziyaretçilerini doğal güzellikleriyle cezbeder ve geniş görünümüyle Ankara'nın önemli bir turizm noktası olarak kabul edilir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölgede zengin fauna çeşitliliği dikkat çekmektedir.
+Oklak Tepesi, Ankara'nın kalbinde, İç Anadolu Bölgesi'nin geniş ve verimli topraklarında yer alan bir tepe olarak bilinir. Oklak Tepesi, ziyaretçilerini doğal güzellikleriyle cezbeder ve geniş görünümüyle Ankara'nın önemli bir turizm noktası olarak kabul edilir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölgede zengin fauna çeşitliliği dikkat çekmektedir.
 
 ## Tarihçe
 

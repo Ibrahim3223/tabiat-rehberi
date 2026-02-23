@@ -33,7 +33,7 @@ wikidata_id: "Q31540723"
 
 ## Tarihçe
 
-Şırnak bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisi altına girmiştir. İlüsu Vadisi'nden başlayarak Güneydoğu Anadolu Bölgesi'nin kalbine uzanan bu coğrafya, tarih boyunca ticaret yollarının kesişme noktası olmuştur. İnsanların bu bölgeyle ilişkisi, yaylacılık ve hayvancılık faaliyetleriyle başlamış, zamanla ticaret yollarının güzergahı haline gelmiştir.
+Şırnak bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisi altına girmiştir. İlüsu Vadisi'nden başlayarak Güneydoğu Anadolu Bölgesi'nin kalbine uzanan bu coğrafya, tarih boyunca ticaret yollarının kesişme noktası olmuştur. İnsanların bu bölgeyle ilişkisi, yaylacılık ve hayvancılık faaliyetleriyle başlamış, zamanla ticaret yollarının güzergahı haline gelmiştir.
 
 İlıca Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insanların yaşamlarını sürdürmelerine olanak sağlayan ekosistemlerle de ön plana çıkar. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin önemli bir parçası olmuştur. İnsanlar, bu doğal alanları yalnızca geçim kaynakları olarak değil, aynı zamanda kültürel ve sosyal faaliyetlerin merkezi olarak da kullanmışlardır.
 
@@ -51,7 +51,7 @@ Yaz aylarında sıcakların artmasıyla birlikte, İlıca Dağı'nın iklim kara
 
 ## Flora ve Fauna
 
-İlıca Dağı, Şırnak'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak çeşitli bitki türleri bulunur. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle kaplanır ve bu bölge, alpin flora örneklerini sunar. 
+İlıca Dağı, Şırnak'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak çeşitli bitki türleri bulunur. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle kaplanır ve bu bölge, alpin flora örneklerini sunar.
 
 Dağın bitki örtüsü, mevsimlere göre değişkenlik gösterir. Yaz aylarında, kuraklığa dayanıklı step ve ova bitkileri hakim olurken, ilkbahar ve sonbahar aylarında daha çeşitli bir bitki örtüsü görülür. Bu bitkiler, dağ hayvanları için yaşam alanı oluşturur. Dağ keçileri ve yaban keçileri gibi memeliler, bu bölgede yaşamlarını sürdürür. Kuşlar ise, özellikle göç mevsimlerinde dağların üzerinde uçarken görülebilir. Sürüngenler de, dağların kayalık alanlarında yaşamını sürdürür.
 
@@ -68,4 +68,4 @@ Ilıca Dağı'na gitmeden önce, Şırnak şehir merkezinden dağın eteklerine 
 - Şırnak ilinin coğrafi özellikleri arasında dağlık ve engebeli araziler bulunur.
 - Ilıca Dağı, bölgenin jeolojik yapısını etkileyen tektonik hareketler nedeniyle oluşmuştur.
 - Dağın eteklerinde ve etrafında çeşitli köyler ve doğal kaynaklar mevcuttur.
-- Ilıca Dağı, bölgenin ekolojik dengesini korumak açısından önemli bir doğal alandır.
+

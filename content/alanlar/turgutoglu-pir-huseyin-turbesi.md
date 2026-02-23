@@ -1,7 +1,7 @@
 ---
 title: "Turgutoğlu Pir Hüseyin Türbesi"
 date: "2026-01-10T05:28:48.824Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391399"
 
 # Turgutoğlu Pir Hüseyin Türbesi
 
-Turgutoğlu Pir Hüseyin Türbesi, Konya'nın Meram ilçesinde, yaklaşık 140 hektarlık bir yeşil alan üzerinde yer alan tarihi bir türbe ve plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli bitki türleri ile zengin fauna bulunan bir bölgedir. Turgutoğlu Pir Hüseyin Türbesi, özellikle yaz aylarında ziyaretçilerin ilgisini çeken bir destinasyon olarak bilinir. Burada, hem tarihi açıdan önemli bir türbe hem de dinlenme ve doğayı seyretmek için güzel bir plaj bulunmaktadır.
+Turgutoğlu Pir Hüseyin Türbesi, Konya'nın Meram ilçesinde, yaklaşık 140 hektarlık bir yeşil alan üzerinde yer alan tarihi bir türbe ve plajdır. Turgutoğlu Pir Hüseyin Türbesi, özellikle yaz aylarında ziyaretçilerin ilgisini çeken bir destinasyon olarak bilinir. Burada, hem tarihi açıdan önemli bir türbe hem de dinlenme ve doğayı seyretmek için güzel bir plaj bulunmaktadır.
 
 ## Tarihçe
 

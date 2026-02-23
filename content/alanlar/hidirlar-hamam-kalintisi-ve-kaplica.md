@@ -1,7 +1,7 @@
 ---
 title: "Hıdırlar Hamam Kalıntısı ve Kaplıca"
 date: "2026-01-09T22:36:18.373Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738746"
 
 # Hıdırlar Hamam Kalıntısı ve Kaplıca
 
-Hıdırlar Hamam Kalıntısı ve Kaplıca, Çanakkale'nin Yenice ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Hıdırlar Hamam Kalıntısı, tarihi geçmişiyle dikkat çekerken, Kaplıca ise doğal güzelliği ve şifalı sularıyla ziyaretçilerini bekliyor. Bu mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası.
+Hıdırlar Hamam Kalıntısı ve Kaplıca, Çanakkale'nin Yenice ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Hıdırlar Hamam Kalıntısı, tarihi geçmişiyle dikkat çekerken, Kaplıca ise doğal güzelliği ve şifalı sularıyla ziyaretçilerini bekliyor. Bu mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası.
 
 ## Tarihçe
 

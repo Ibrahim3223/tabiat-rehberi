@@ -22,7 +22,7 @@ wikidata_id: "Q108227175"
 
 # Örümcek Ormani Ladini 4
 
-Örümcek Ormani Ladini 4, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu doğal alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Girişte, geniş açıklıkta yer alan çam ağaçlarının arasında yürüyüş yapmak, ziyaretçilere huzur dolu anlar yaşatır. Bu doğal güzelliği keşfederken, aynı zamanda bölgenin tarihini ve kültürünü de öğrenme mümkün.
+Örümcek Ormani Ladini 4, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Girişte, geniş açıklıkta yer alan çam ağaçlarının arasında yürüyüş yapmak, ziyaretçilere huzur dolu anlar yaşatır. Bu doğal güzelliği keşfederken, aynı zamanda bölgenin tarihini ve kültürünü de öğrenme mümkün.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108227175"
 
 ## Coğrafya
 
-Örümcek Ormani Ladini 4, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir doğal alandır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Yaz aylarında sıcaklık artarken, kış aylarında soğuma gözlemlenir. Bu doğal alan, ziyaretçilerine geniş açıklıkta yer alan çam ağaçları, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Ayrıca, bölgenin coğrafi yapısı, ziyaretçilere yürüyüş ve keşif fırsatı sunar.
+Örümcek Ormani Ladini 4, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir doğal alandır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Yaz aylarında sıcaklık artarken, kış aylarında soğuma gözlemlenir. Bu doğal alan, ziyaretçilerine geniş açıklıkta yer alan çam ağaçları, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Ayrıca, bölgenin coğrafi yapısı, ziyaretçilere yürüyüş ve keşif fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108227175"
 
 ## İlginç Bilgiler
 
-- Örümcek Ormani Ladini 4, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bölgede, çam ağaçları, meşe ağaçları ve diğer ağaç türleri bulunur.
 - İlkbahar ve yaz aylarında, flora ve fauna daha aktif olur.
 - Ziyaretçiler, bölgenin tarihini, kültürünü ve coğrafi özelliklerini öğrenebilir.

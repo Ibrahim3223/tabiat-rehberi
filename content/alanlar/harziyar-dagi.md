@@ -32,7 +32,7 @@ Kars'ın zorlu iklimine rağmen, büyüleyici bir güzelliğe sahip olan Harziya
 
 ## Tarihçe
 
-Kars bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisi altında kalmıştır. İskitler, Persler, Romalılar ve Selçuklular gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. Kars, coğrafi konumu itibariyle tarihi İpek Yolu'nun önemli bir durağı olarak bilinir.
+Kars bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisi altında kalmıştır. İskitler, Persler, Romalılar ve Selçuklular gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. Kars, coğrafi konumu itibariyle tarihi İpek Yolu'nun önemli bir durağı olarak bilinir.
 
 Doğal güzellikleri ve stratejik konumuyla, Kars bölgesi insanlık tarihi boyunca önemli bir geçiş noktası olmuştur. Bu bölgedeki dağlar, yaylalar ve ovalar, insanların yaşamlarını sürdürmeleri için elverişli ortamlar sunmuştur. Yaylacılık ve hayvancılık, bu bölgede uzun yıllardır sürdürülen geleneksel faaliyetlerdir. İnsanlar, bu doğal alanları kullanarak geçimlerini sağlamaya çalışmışlardır.
 
@@ -50,11 +50,11 @@ Mevsimsel değişiklikler, Harziyar Dağı'nın iklim karakterini etkiler. Doğu
 
 ## Flora ve Fauna
 
-Harziyar Dağı, Kars'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Harziyar Dağı, Kars'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsüne baktığımızda, ilkbaharla birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin flora, yükseklik zonlarına göre çeşitlilik gösteriyor. Sonbaharda, çayırlar sarı ve altın gibi tonlara bürünüyor. 
+Bitki örtüsüne baktığımızda, ilkbaharla birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin flora, yükseklik zonlarına göre çeşitlilik gösteriyor. Sonbaharda, çayırlar sarı ve altın gibi tonlara bürünüyor.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağ sıçanları ve ayılar gibi memeliler, bu dağların gerçek sahibi. Kuşlar ise göç mevsimlerinde bu alanı önemli bir durak olarak kullanıyor. Sürüngenler de kayalık alanlarda yaşamlarını sürdürüyor. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağ sıçanları ve ayılar gibi memeliler, bu dağların gerçek sahibi. Kuşlar ise göç mevsimlerinde bu alanı önemli bir durak olarak kullanıyor. Sürüngenler de kayalık alanlarda yaşamlarını sürdürüyor.
 
 Bu dağ ekosisteminin ekolojik değeri oldukça yüksek. Yükseklik zonları ve alpin flora, endemik türlerin yaşam alanı oluşturuyor. Bu nedenle, koruma altına alınması büyük önem taşıyor.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386461"
 
 # Zorlu Tepe
 
-Zorlu Tepe, Hatay ilinin sınırları içerisinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Bu tepenin etrafı, yaklaşık 140 hektarlık bir yeşil alan ile çevrili ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Zorlu Tepe, aynı zamanda bölgenin coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, bölgede yaşayan insanların yaşantısını etkileyen iklim koşullarını da belirlemekte önemli bir rol oynuyor. Zorlu Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Zorlu Tepe, Hatay ilinin sınırları içerisinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Zorlu Tepe, aynı zamanda bölgenin coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, bölgede yaşayan insanların yaşantısını etkileyen iklim koşullarını da belirlemekte önemli bir rol oynuyor. Zorlu Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

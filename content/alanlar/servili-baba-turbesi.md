@@ -1,7 +1,7 @@
 ---
 title: "Servili Baba Türbesi"
 date: "2026-01-10T05:00:15.164Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391480"
 
 # Servili Baba Türbesi
 
-Servili Baba Türbesi, İstanbul'un Fatih ilçesinde, tarihi ve doğal güzellikleri bir arada sunan özel bir yer. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Türbenin bulunduğu bölgede, ziyaretçiler hem tarihi bir yapıyı görebiliyor hem de deniz kenarında keyifli bir gün geçirebiliyor. Bu bölge, İstanbul'un kalabalık streetsinden uzaklaşma ve doğayla baş başa kalmak isteyenler için ideal bir kaçış noktası.
+Servili Baba Türbesi, İstanbul'un Fatih ilçesinde, tarihi ve doğal güzellikleri bir arada sunan özel bir yer. Türbenin bulunduğu bölgede, ziyaretçiler hem tarihi bir yapıyı görebiliyor hem de deniz kenarında keyifli bir gün geçirebiliyor. Bu bölge, İstanbul'un kalabalık streetsinden uzaklaşma ve doğayla baş başa kalmak isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 

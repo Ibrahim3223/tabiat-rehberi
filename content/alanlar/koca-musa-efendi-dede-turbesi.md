@@ -1,7 +1,7 @@
 ---
 title: "Koca Musa Efendi Dede Türbesi"
 date: "2026-01-10T05:06:58.405Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391624"
 
 # Koca Musa Efendi Dede Türbesi
 
-Koca Musa Efendi Dede Türbesi, Ege Bölgesi'nin önemli dini ve turistik mekanlarından biridir. Aydın'ın Nazilli ilçesinde bulunan bu mekan, geniş bir alana yayılmış vehistoric bir geçmişe sahiptir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine geniş bir açık alan sunar. Tarihi geçmişi ve dini önemiyle birlikte, turistik bir çekim noktası olarak da önemlidir. Ziyaretçiler, bu mekanın zengin tarihi ve doğal güzelliklerini keşfetme fırsatı bulurlar.
+Koca Musa Efendi Dede Türbesi, Ege Bölgesi'nin önemli dini ve turistik mekanlarından biridir. Aydın'ın Nazilli ilçesinde bulunan bu mekan, geniş bir alana yayılmış vehistoric bir geçmişe sahiptir. Tarihi geçmişi ve dini önemiyle birlikte, turistik bir çekim noktası olarak da önemlidir. Ziyaretçiler, bu mekanın zengin tarihi ve doğal güzelliklerini keşfetme fırsatı bulurlar.
 
 ## Tarihçe
 

@@ -50,7 +50,7 @@ Mevsimsel değişikliklere göre şekillenen hava durumu, Köroğluağılı Tepe
 
 Köroğluağılı Tepesi, bir dağ ekosisteminin tüm güzelliğini sunuyor. Step bitki örtüsünün hakim olduğu bu bölgede, ilkbaharın gelmesiyle birlikte dağ yamaçları renkleniyor. Kuraklığa adapte edilmiş türler, yazın sıcakğına karşı dayanıklılık gösteriyor.
 
-Bitki örtüsünün çeşitliliği, mevsimsel değişimlere bağlı olarak farklılık gösteriyor. İlkbaharın çiçek açan bitkileri, yazın kurak koşullarına adapte olan türlerle yer değiştiriyor. Bu dağlık alanda, alpin flora örneklerine de rastlama mümkün. 
+Bitki örtüsünün çeşitliliği, mevsimsel değişimlere bağlı olarak farklılık gösteriyor. İlkbaharın çiçek açan bitkileri, yazın kurak koşullarına adapte olan türlerle yer değiştiriyor. Bu dağlık alanda, alpin flora örneklerine de rastlama mümkün.
 
 Yaban hayatı da bu bölgenin zenginliğini gözler önüne seriyor. Memeliler, kuşlar ve sürüngenler, dağlık alanın sunduğu yaşam olanaklarından yararlanıyor. Sonbaharın gelmesiyle birlikte, göç eden kuşlar bu alanı ziyaret ediyor. Ekolojik değerini koruma altına almak, bu doğa harikasının gelecek nesillere aktarılması için çok önemli.
 

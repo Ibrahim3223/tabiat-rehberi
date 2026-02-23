@@ -29,7 +29,7 @@ wikidata_id: "Q32210360"
 
 # Köseoluk Tepesi
 
-Köseoluk Tepesi, İç Anadolu Bölgesi'nin geniş veengin coğrafyasında yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Köseoluk Tepesi, doğal güzelliği ve tarihi geçmişiyle birlikte, ziyaretçilerini cezbeden bir destinasyon olarak karşımıza çıkıyor. Burada, ziyaretçiler hem doğanın güzelliğini keşfedebilir hem de tarihi geçmişin izlerini sürebilir. Bu tepe, aynı zamanda bölgenin iklimini ve coğrafi yapısını gözlemlemek için ideal bir nokta olarak görülüyor.
+Köseoluk Tepesi, İç Anadolu Bölgesi'nin geniş veengin coğrafyasında yer alan bir tepe olarak dikkat çekiyor. Köseoluk Tepesi, doğal güzelliği ve tarihi geçmişiyle birlikte, ziyaretçilerini cezbeden bir destinasyon olarak karşımıza çıkıyor. Burada, ziyaretçiler hem doğanın güzelliğini keşfedebilir hem de tarihi geçmişin izlerini sürebilir. Bu tepe, aynı zamanda bölgenin iklimini ve coğrafi yapısını gözlemlemek için ideal bir nokta olarak görülüyor.
 
 ## Tarihçe
 

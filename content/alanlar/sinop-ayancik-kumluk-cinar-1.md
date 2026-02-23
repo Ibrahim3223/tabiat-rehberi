@@ -22,7 +22,7 @@ wikidata_id: "Q108227724"
 
 # Sinop-Ayancik-Kumluk Cinar 1
 
-Sinop-Ayancik-Kumluk Cinar 1 milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü birçok bitki türüne ev sahipliği yapıyor. Bu doğal cennet, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Milli parkın etrafında, tarihi ve kültürel zenginlikler sunan Sinop ilinin merkezi ve Ayancık ilçesi bulunuyor.
+Sinop-Ayancik-Kumluk Cinar 1 milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Bu doğal cennet, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Milli parkın etrafında, tarihi ve kültürel zenginlikler sunan Sinop ilinin merkezi ve Ayancık ilçesi bulunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sinop-Ayancik-Kumluk Cinar 1 milli parkının tarihi geçmişi, bölgeye ilk yer
 
 ## Coğrafya
 
-Sinop-Ayancik-Kumluk Cinar 1 milli parkı, Karadeniz Bölgesi'nin kuzeyinde, Sinop ilinin Ayancık ilçesi sınırları içinde yer alıyor. 140 hektarlık bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü birçok bitki türüne ev sahipliği yapıyor. Parkın coğrafi yapısı, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor; dağlık araziler, ormanlık alanlar ve nehirler bu bölgenin coğrafyasını şekillendiriyor. İklim, genel olarak Karadeniz ikliminin özelliklerini taşıyor; yağışlı ve nemli bir hava hakim. Bu coğrafi ve iklimsel koşullar, parkın flora ve faunasının zenginleşmesine katkıda bulunmuş. Çevre, doğa ile iç içe ve insan eli değmemiş birçok noktaya sahip.
+Sinop-Ayancik-Kumluk Cinar 1 milli parkı, Karadeniz Bölgesi'nin kuzeyinde, Sinop ilinin Ayancık ilçesi sınırları içinde yer alıyor. Parkın coğrafi yapısı, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor; dağlık araziler, ormanlık alanlar ve nehirler bu bölgenin coğrafyasını şekillendiriyor. İklim, genel olarak Karadeniz ikliminin özelliklerini taşıyor; yağışlı ve nemli bir hava hakim. Bu coğrafi ve iklimsel koşullar, parkın flora ve faunasının zenginleşmesine katkıda bulunmuş. Çevre, doğa ile iç içe ve insan eli değmemiş birçok noktaya sahip.
 
 ## Flora ve Fauna
 

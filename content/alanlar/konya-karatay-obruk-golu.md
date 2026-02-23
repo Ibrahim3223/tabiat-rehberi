@@ -23,7 +23,7 @@ wikidata_id: "Q108228924"
 
 # KONYA KARATAY OBRUK GÖLÜ
 
-Konya Karatay Obruğu, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, doğa severlerin ilgisini çekiyor. Obruğun etrafında bulunan tepeler, manzaraya farklı bir güzellik katarken, gölün sakin suları, ziyaretçilere huzur veren bir atmosfer sunuyor. Konya Karatay Obruğu'nun tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmış ve bu bölgede birçok tarihi eser bulunmakta.
+Konya Karatay Obruğu, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Obruğun etrafında bulunan tepeler, manzaraya farklı bir güzellik katarken, gölün sakin suları, ziyaretçilere huzur veren bir atmosfer sunuyor. Konya Karatay Obruğu'nun tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmış ve bu bölgede birçok tarihi eser bulunmakta.
 
 ## Tarihçe
 

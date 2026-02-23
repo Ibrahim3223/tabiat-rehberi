@@ -1,7 +1,7 @@
 ---
 title: "Nureddin Cerrahi Türbesi"
 date: "2026-01-10T07:14:41.726Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -41,7 +41,7 @@ Nureddin Cerrahi Türbesi, İstanbul'un Fatih ilçesinde yer alır. Türbe, Marm
 
 ## Flora ve Fauna
 
-Nureddin Cerrahi Türbesi, çevresindeki flora ve fauna ile birlikte, ziyaretçiler için önemli bir doğal ve kültürel expérience sunar. Türbe, özellikle bahar ve yaz aylarında, çevredeki yeşil alanlar ve çeşitli bitki türleri ile güzelleşir. Nureddin Cerrahi Türbesi'nin etrafında, çeşitli kuş türleri ve diğer canlılar bulunabilir. Türbe, ziyaretçiler için hem dini hem de doğal bir çekim merkezi olarak hizmet verir. Nureddin Cerrahi Türbesi, İstanbul'un tarihi ve doğal güzelliklerinin bir arada bulunabileceği bir bölgede yer alır.
+Nureddin Cerrahi Türbesi, çevresindeki flora ve fauna ile birlikte, ziyaretçiler için önemli bir doğal ve kültürel deneyim sunar. Türbe, özellikle bahar ve yaz aylarında, çevredeki yeşil alanlar ve çeşitli bitki türleri ile güzelleşir. Nureddin Cerrahi Türbesi'nin etrafında, çeşitli kuş türleri ve diğer canlılar bulunabilir. Türbe, ziyaretçiler için hem dini hem de doğal bir çekim merkezi olarak hizmet verir. Nureddin Cerrahi Türbesi, İstanbul'un tarihi ve doğal güzelliklerinin bir arada bulunabileceği bir bölgede yer alır.
 
 ## Ziyaret Bilgileri
 

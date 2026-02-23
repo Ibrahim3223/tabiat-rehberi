@@ -1,7 +1,7 @@
 ---
 title: "Pirce Alaeddin Sultan Türbesi"
 date: "2026-01-10T06:18:22.100Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390680"
 
 # Pirce Alaeddin Sultan Türbesi
 
-Pirce Alaeddin Sultan Türbesi, Alanya'nın tarihi ve kültürel zenginliğini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Bu tarihi türbe, Akdeniz Bölgesi'nin en önemli kültürel miraslarından biri olarak kabul edilir. Alanya'nın merkezine yakın konumuyla, ziyaretçiler kolayca ulaşabilir ve tarihi atmosferini keşfedebilir. Türbenin etrafındaki yeşil alan, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunar.
+Pirce Alaeddin Sultan Türbesi, Alanya'nın tarihi ve kültürel zenginliğini keşfetmek isteyenler için ideal bir destinasyon. Bu tarihi türbe, Akdeniz Bölgesi'nin en önemli kültürel miraslarından biri olarak kabul edilir. Alanya'nın merkezine yakın konumuyla, ziyaretçiler kolayca ulaşabilir ve tarihi atmosferini keşfedebilir. Türbenin etrafındaki yeşil alan, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunar.
 
 ## Tarihçe
 

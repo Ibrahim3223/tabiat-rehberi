@@ -51,9 +51,9 @@ Doğal olarak, Karlı Dağı'nın fiziksel yapısı hakkında detaylı bilgi bul
 
 ## Flora ve Fauna
 
-Karlı Dağı, Kocaeli'nin gözde doğal alanlarından biri olarak, geçiş ikliminin karakteristik özellikleri ile şekillenmiş bir dağ ekosistemine ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Karlı Dağı, Kocaeli'nin gözde doğal alanlarından biri olarak, geçiş ikliminin karakteristik özellikleri ile şekillenmiş bir dağ ekosistemine ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünü oluşturan karma ormanlar, ilkbaharın gelişiyle together renklenen çiçeklerle donanırken, sonbaharda sarı, turuncu ve kırmızının tonlarına bürünüyor. Dağın yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği de göze çarpıyor. 
+Bitki örtüsünü oluşturan karma ormanlar, ilkbaharın gelişiyle together renklenen çiçeklerle donanırken, sonbaharda sarı, turuncu ve kırmızının tonlarına bürünüyor. Dağın yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği de göze çarpıyor.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Göçmen kuş rotası üzerinde bulunduğundan, özellikle sonbahar aylarında bu bölge, farklı kuş türlerinin geçişine tanıklık ediyor. Ekolojik değerini korumak, bu dağ ekosisteminin sürekliliğiçin büyük önem taşıyor.
 

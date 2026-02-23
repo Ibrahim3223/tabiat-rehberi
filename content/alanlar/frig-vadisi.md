@@ -23,7 +23,7 @@ wikidata_id: "Q98669330"
 
 # Frig Vadisi
 
-Türkiye'nin en önemli coğrafi oluşumlarından biri olan Frig Vadisi, Afrodisias antik kentinin bulunduğu Aydın'ın Karacasu ilçesinde yer alıyor. Tarihî ve doğal güzelliği bir araya getiren bu vadi, ziyaretçilerini antik dönemlerin gizemli atmosferine davet ediyor. Doğal güzellikleri ve históriki önemi ile dikkat çeken Frig Vadisi, doğa yürüyüşleri ve kültürel keşifler için ideal bir destinasyon.
+Türkiye'nin en önemli coğrafi oluşumlarından biri olan Frig Vadisi, Afrodisias antik kentinin bulunduğu Aydın'ın Karacasu ilçesinde yer alıyor. Tarihî ve doğal güzelliği bir araya getiren bu vadi, ziyaretçilerini antik dönemlerin gizemli atmosferine davet ediyor. Doğal güzellikleri ve tarihi önemi ile dikkat çeken Frig Vadisi, doğa yürüyüşleri ve kültürel keşifler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -45,9 +45,9 @@ Mevsimsel olarak bakıldığında, Frig Vadisi'nin iklimi karasal iklim özellik
 
 ## Flora ve Fauna
 
-Frig Vadisi, 1200 hektarlık bu kanyon, step bitki örtüsüne ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, bozkırın rengi değişir ve çiçeklerin renkleri vadide yaşamı canlandırır. Step bitkileri, kuraklığa adapte edilmiş türler, vadide yaşamın temelini oluşturur. 
+Frig Vadisi, 1200 hektarlık bu kanyon, step bitki örtüsüne ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, bozkırın rengi değişir ve çiçeklerin renkleri vadide yaşamı canlandırır. Step bitkileri, kuraklığa adapte edilmiş türler, vadide yaşamın temelini oluşturur.
 
-Vadideki yaban hayatında, çeşitli memeliler ve kuşlar bulunur. Göç mevsiminde, vadide farklı türlerin varlığı gözlemlenebilir. Sürüngenler de vadide yaşamın bir parçasını oluşturur. 
+Vadideki yaban hayatında, çeşitli memeliler ve kuşlar bulunur. Göç mevsiminde, vadide farklı türlerin varlığı gözlemlenebilir. Sürüngenler de vadide yaşamın bir parçasını oluşturur.
 
 Frig Vadisi, ekolojik değeri yüksek bir alandır. Bu bölgenin korunması, step ekosisteminin ve burada yaşayan canlıların varlığının devamı için önemlidir. Vadideki canlılar, birbirleriyle ve yaşam alanlarıyla bağlantılıdır. Bu nedenle, bu alanın korunması, tüm ekosistemin dengesinin korunması için kritik öneme sahiptir.
 
@@ -60,6 +60,6 @@ Frig Vadisi'ne gitmeden önce planlamanızı yapın. Sabah erken gitmenizi öner
 - Frig Vadisi, Eskişehir ilinin Han ilçesinde yer alan bir doğa harikasıdır.
 - Vadi, yaklaşık 2 milyon yıllık bir tarihe sahiptir ve tektonik hareketler sonucu oluşmuştur.
 - Frig Vadisi, 25 kilometre uzunluğunda ve 1 kilometre genişliğindedir.
-- Vadi, histórik Frigler tarafından kullanılmış ve onlar tarafından kutsal kabul edilmiştir.
+- Vadi, tarihi Frigler tarafından kullanılmış ve onlar tarafından kutsal kabul edilmiştir.
 - Frig Vadisi, 1998 yılında doğal sit alanı ilan edilmiştir.
 - Vadi, her yıl binlerce turist tarafından ziyaret edilmektedir.

@@ -32,11 +32,11 @@ Mersin'in doğal güzelliklerinin arasında yer alan Burtkız İni, jeolojik olu
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Binlerce yıllık geçmişinde, Hitit, Roma, Bizans ve Osmanlı gibi çeşitli uygarlıkların izlerini görme mümkündür. Bu zengin tarihi miras, bölgenin doğal güzellikleriyle birleşerek, Burtkız İni gibi jeoparkların ortaya çıkmasını sağlamıştır.
+Mersin bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Binlerce yıllık geçmişinde, Hitit, Roma, Bizans ve Osmanlı gibi çeşitli uygarlıkların izlerini görme mümkündür. Bu zengin tarihi miras, bölgenin doğal güzellikleriyle birleşerek, Burtkız İni gibi jeoparkların ortaya çıkmasını sağlamıştır.
 
 Türkiye'de, özellikle kıyı bölgelerinde yer alan doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmesi için önemli kaynaklar olmuştur. Bu alanlar, yaylacılık, hayvancılık ve tarım faaliyetlerine ev sahipliği yapmış, ayrıca ticaret yolları için stratejik noktalar olarak kullanılmıştır. Mersin bölgesinin de bu bağlamda önemli bir role sahip olduğu bilinmektedir.
 
-Burtkız İni, bu tarihsel ve kültürel zenginliğin bir parçasıdır. Doğal güzelliği ve coğrafi özellikleri, bu bölgenin insan yaşamı için her zaman önemli bir merkez olmasını sağlamıştır. İnsanların bu doğal alanla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Bu tür alanların korunması ve gelecek nesiller için bảolanması, Türkiye'nin kültürel ve doğal mirasının zenginleştirilmesi açısından büyük önem taşımaktadır.
+Burtkız İni, bu tarihsel ve kültürel zenginliğin bir parçasıdır. Doğal güzelliği ve coğrafi özellikleri, bu bölgenin insan yaşamı için her zaman önemli bir merkez olmasını sağlamıştır. İnsanların bu doğal alanla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Bu tür alanların korunması ve gelecek nesiller için korunması, Türkiye'nin kültürel ve doğal mirasının zenginleştirilmesi açısından büyük önem taşımaktadır.
 
 ## Coğrafya
 
@@ -52,7 +52,7 @@ Bölgenin iklim karakteri, Akdeniz ikliminin tipik özelliklerini taşıyor. Yaz
 
 Burtkız İni, Mersin'in jeopark alanında yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapmakta ve kuraklığa dayanıklı türlerle dolu bir kıyı ekosistemini barındırmaktadır.
 
-Bitki Örtüsü bölümünde, ilkbahar mevsiminde çiçeklerin açtığı ve renkli bir manzara sunduğu görülmektedir. Bölgenin hakim türleri, kuraklığa dayanıklı ağaçlar ve çalılar gibi maki bitki örtüsünü oluşturan türlerdir. 
+Bitki Örtüsü bölümünde, ilkbahar mevsiminde çiçeklerin açtığı ve renkli bir manzara sunduğu görülmektedir. Bölgenin hakim türleri, kuraklığa dayanıklı ağaçlar ve çalılar gibi maki bitki örtüsünü oluşturan türlerdir.
 
 Yaban Hayatı bölümünde, orman memelileri ve çeşitli kuş türleri yaşamaktadır. Sonbahar mevsiminde, göç eden kuşlar bu bölgeden geçerek kışlaklarına ulaşır. Sürüngenler de bu ekosistemin bir parçası olarak görülmektedir.
 

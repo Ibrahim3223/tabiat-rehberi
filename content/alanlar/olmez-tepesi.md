@@ -28,7 +28,7 @@ wikidata_id: "Q34829737"
 
 # Ölmez Tepesi
 
-Ölmez Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan Niğde'nin önemli doğal güzelliklerinden biridir. Bu tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve ziyaretçileri bir doğa harikasına davet eder. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin fauna ile süslüdür. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar ve buradan çevreyi izlemek keyiflidir. Doğa severler için ideal bir destinasyon olan Ölmez Tepesi, hem doğayı keşfetmek hem de dinlenmek için mükemmel bir seçenektir.
+Ölmez Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan Niğde'nin önemli doğal güzelliklerinden biridir. Bu tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve ziyaretçileri bir doğa harikasına davet eder. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar ve buradan çevreyi izlemek keyiflidir. Doğa severler için ideal bir destinasyon olan Ölmez Tepesi, hem doğayı keşfetmek hem de dinlenmek için mükemmel bir seçenektir.
 
 ## Tarihçe
 

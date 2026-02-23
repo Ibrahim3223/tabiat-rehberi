@@ -28,7 +28,7 @@ wikidata_id: "Q34829030"
 
 # Çermik Tepesi
 
-Çermik Tepesi, Bingöl ilinin coğrafi zenginliklerini gözler önüne seren bir doğal güzellik. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Çermik Tepesi, Doğu Anadolu Bölgesi'nin önemli noktalarından biri olarak biliniyor ve gezi severlerin ilgisini çekiyor. Bu tepe, bölgeye özgü bitki türleri ve fauna ile çevrilidir. Çermik Tepesi'ne yapılan ziyaretler, genellikle doğa yürüyüşleri ve manzaraların keşfi ile geçiyor. Ziyaretçiler, bu doğal güzelliğin sunduğu olanaklardan faydalanarak, doğayla iç içe bir gün geçirebiliyor.
+Çermik Tepesi, Bingöl ilinin coğrafi zenginliklerini gözler önüne seren bir doğal güzellik. Çermik Tepesi, Doğu Anadolu Bölgesi'nin önemli noktalarından biri olarak biliniyor ve gezi severlerin ilgisini çekiyor. Bu tepe, bölgeye özgü bitki türleri ve fauna ile çevrilidir. Çermik Tepesi'ne yapılan ziyaretler, genellikle doğa yürüyüşleri ve manzaraların keşfi ile geçiyor. Ziyaretçiler, bu doğal güzelliğin sunduğu olanaklardan faydalanarak, doğayla iç içe bir gün geçirebiliyor.
 
 ## Tarihçe
 

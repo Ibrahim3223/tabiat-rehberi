@@ -1,7 +1,7 @@
 ---
 title: "Posta ve Telgraf Nazırı İzzet Efendi Türbesi"
 date: "2026-01-10T04:52:32.902Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q31189535"
 
 # Posta ve Telgraf Nazırı İzzet Efendi Türbesi
 
-Posta ve Telgraf Nazırı İzzet Efendi Türbesi, Eyüpsultan'da bulunan bir plaj ve aynı zamanda önemli bir tarihi figürün mezarıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferi deneyimleme hem de doğanın güzelliklerini keşfetme fırsatı sunar. İzzet Efendi'nin türbesi, bu bölgenin tarihi ve kültürel önemini vurgulamaktadır.
+Posta ve Telgraf Nazırı İzzet Efendi Türbesi, Eyüpsultan'da bulunan bir plaj ve aynı zamanda önemli bir tarihi figürün mezarıdır. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferi deneyimleme hem de doğanın güzelliklerini keşfetme fırsatı sunar. İzzet Efendi'nin türbesi, bu bölgenin tarihi ve kültürel önemini vurgulamaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Posta ve Telgraf Nazırı İzzet Efendi Türbesi, Eyüpsultan'ın tarihi geçmi�
 
 ## Coğrafya
 
-Posta ve Telgraf Nazırı İzzet Efendi Türbesi, Marmara Bölgesi'nde, Eyüpsultan ilçesinde yer almaktadır. Bu bölgenin coğrafyası, denize yakın bir konumda bulunmasıyla karakterizedir. Alan, 140 hektarlık bir büyüklüğe sahip olup, bu genişlik yaklaşık 200 futbol sahası büyüklüğüne eşittir. Coğrafi konumu itibariyle, ziyaretçiler hem deniz hem de karada bulunan tarihi ve doğal güzellikleri keşfedebilir. İklimi, Marmara Bölgesi'nin genel iklim şartlarına uygun olarak değişkenlik gösterir. Çevre, tarihi ve kültürel açıdan zengin bir bölgedir, çeşitli tarihi yapılar ve doğal güzellikler barındırır. Bu coğrafi özellikler, ziyaretçilere farklı deneyimler sunar.
+Posta ve Telgraf Nazırı İzzet Efendi Türbesi, Marmara Bölgesi'nde, Eyüpsultan ilçesinde yer almaktadır. Bu bölgenin coğrafyası, denize yakın bir konumda bulunmasıyla karakterizedir. Coğrafi konumu itibariyle, ziyaretçiler hem deniz hem de karada bulunan tarihi ve doğal güzellikleri keşfedebilir. İklimi, Marmara Bölgesi'nin genel iklim şartlarına uygun olarak değişkenlik gösterir. Çevre, tarihi ve kültürel açıdan zengin bir bölgedir, çeşitli tarihi yapılar ve doğal güzellikler barındırır. Bu coğrafi özellikler, ziyaretçilere farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

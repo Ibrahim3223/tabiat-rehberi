@@ -23,7 +23,7 @@ wikidata_id: "Q108228644"
 
 # ESPİYE
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Espiye milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğayla iç içe bir ortam sunan ender mekanlardan biri. Espiye milli parkı, ziyaretçilerine hem dinlenme hem de keşif imkânı sunuyor. Parkın içinde bulunan yürüyüş yolları, ziyaretçilerin doğayı yakından tanımasına ve eşsiz manzaraları keşfetmesine olanak sağlıyor. Espiye milli parkı, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve hayvanlarla karşılaşabileceğiniz bir yer.
+ Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğayla iç içe bir ortam sunan ender mekanlardan biri. Espiye milli parkı, ziyaretçilerine hem dinlenme hem de keşif imkânı sunuyor. Parkın içinde bulunan yürüyüş yolları, ziyaretçilerin doğayı yakından tanımasına ve eşsiz manzaraları keşfetmesine olanak sağlıyor. Espiye milli parkı, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve hayvanlarla karşılaşabileceğiniz bir yer.
 
 ## Tarihçe
 

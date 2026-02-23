@@ -1,7 +1,7 @@
 ---
 title: "Şah Bali Türbesi"
 date: "2026-01-10T07:06:30.005Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390795"
 
 # Şah Bali Türbesi
 
-Şah Bali Türbesi, Marmara Bölgesi'nin Edirne ilinin Uzunköprü ilçesinde bulunan bir tarihi ve doğal güzellik alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Şah Bali Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır. Bu türebin tarihi geçmişi, yüzyıllar boyunca insanların dini ve kültürel faaliyetlerine ev sahipliği yapmıştır.
+Şah Bali Türbesi, Marmara Bölgesi'nin Edirne ilinin Uzunköprü ilçesinde bulunan bir tarihi ve doğal güzellik alanıdır. Şah Bali Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır. Bu türebin tarihi geçmişi, yüzyıllar boyunca insanların dini ve kültürel faaliyetlerine ev sahipliği yapmıştır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390795"
 
 ## Coğrafya
 
-Şah Bali Türbesi, Marmara Bölgesi'nin Edirne ilinin Uzunköprü ilçesinde yer almaktadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Şah Bali Türbesi, ziyaretçilerine doğal güzellikleri sunmaktadır. Bu alan, çeşitli bitki türleri ve hayvan türleri ile zengin bir ekosisteme sahiptir. Şah Bali Türbesi, Marmara Bölgesi'nin önemli doğal güzellik merkezlerinden biridir. Bu türenin coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikleri sunmaktadır. Şah Bali Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır.
+Şah Bali Türbesi, Marmara Bölgesi'nin Edirne ilinin Uzunköprü ilçesinde yer almaktadır. Şah Bali Türbesi, ziyaretçilerine doğal güzellikleri sunmaktadır. Bu alan, çeşitli bitki türleri ve hayvan türleri ile zengin bir ekosisteme sahiptir. Şah Bali Türbesi, Marmara Bölgesi'nin önemli doğal güzellik merkezlerinden biridir. Bu türenin coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikleri sunmaktadır. Şah Bali Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131390795"
 ## İlginç Bilgiler
 
 - Şah Bali Türbesi, Marmara Bölgesi'nin Edirne ilinin Uzunköprü ilçesinde yer almaktadır.
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Şah Bali Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır.
 - Bu türenin tarihi geçmişi, yüzyıllar boyunca insanların dini ve kültürel faaliyetlerine ev sahipliği yapmıştır.
 - Şah Bali Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel merkezlerinden biridir.

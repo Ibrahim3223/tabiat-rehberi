@@ -28,7 +28,7 @@ wikidata_id: "Q31387041"
 
 # Koturdağı Tepesi
 
-Koturdağı Tepesi, Kars ilinin sınırları içerisinde yer alan ve doğaseverlerin ilgisini çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Koturdağı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor. Doğal güzellikleri ve tarihi önemiyle Koturdağı Tepesi, Kars'ta gezilecek yerler listesinin başında geliyor.
+Koturdağı Tepesi, Kars ilinin sınırları içerisinde yer alan ve doğaseverlerin ilgisini çeken bir tepe. Koturdağı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor. Doğal güzellikleri ve tarihi önemiyle Koturdağı Tepesi, Kars'ta gezilecek yerler listesinin başında geliyor.
 
 ## Tarihçe
 

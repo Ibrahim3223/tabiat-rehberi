@@ -1,7 +1,7 @@
 ---
 title: "Mahmud Türbesi"
 date: "2026-01-10T07:15:41.160Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Niğde"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390931"
 
 # Mahmud Türbesi
 
-Mahmud Türbesi, Niğde'nin merkezinde yer alan ve tarihi ile doğal güzelliklerini bir arada sunan özel bir bölge. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve kültürel zenginliklerle karşılamak için hazır. Bu alan, hem Niğde'nin hem de İç Anadolu Bölgesi'nin önemli turizm noktalarından biri. Ziyaretçiler, tarihi yapıları, doğal güzellikleri ve kültürel etkinlikleri deneyimleyerek bu bölgeyi keşfedebilir.
+Mahmud Türbesi, Niğde'nin merkezinde yer alan ve tarihi ile doğal güzelliklerini bir arada sunan özel bir bölge. Bu alan, hem Niğde'nin hem de İç Anadolu Bölgesi'nin önemli turizm noktalarından biri. Ziyaretçiler, tarihi yapıları, doğal güzellikleri ve kültürel etkinlikleri deneyimleyerek bu bölgeyi keşfedebilir.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Mahmud Türbesi'nin tarihi çok eskilere dayanır. Bu bölge, yüzyıllar boyunc
 
 ## Coğrafya
 
-Mahmud Türbesi, Niğde'nin merkezinde yer alır ve coğrafi olarak özel bir konuma sahiptir. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Mahmud Türbesi, geniş otlaklarıyla ve histórik yapılarıyla dikkat çeker. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, Mahmud Türbesi'nin flora ve faunasını etkiler. Bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mahmud Türbesi, doğal güzellikleri ile ziyaretçilerini çekmektedir. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar.
+Mahmud Türbesi, Niğde'nin merkezinde yer alır ve coğrafi olarak özel bir konuma sahiptir. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Mahmud Türbesi, geniş otlaklarıyla ve tarihi yapılarıyla dikkat çeker. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, Mahmud Türbesi'nin flora ve faunasını etkiler. Bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mahmud Türbesi, doğal güzellikleri ile ziyaretçilerini çekmektedir. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar.
 
 ## Flora ve Fauna
 
-Mahmud Türbesi, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahiptir. Bu bölge, özellikle histórik yapıları ve doğal güzellikleriyle dikkat çeker. Mahmud Türbesi'nin flora ve faunası, mevsimsel değişimlere göre şekillenir. İlkbahar ve yaz aylarında, bölgeye özgü bitki türleri açar ve hayvanlar daha aktif hale gelir. Kış aylarında, bazı hayvanlar bölgeyi terk eder veya daha az aktif olur. Mahmud Türbesi, ekolojik dengesi ile önemli bir doğal alan olarak kabul edilir. Ziyaretçiler, bu bölgeyi keşfederek flora ve faunayı yakından görebilir.
+Mahmud Türbesi, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahiptir. Bu bölge, özellikle tarihi yapıları ve doğal güzellikleriyle dikkat çeker. Mahmud Türbesi'nin flora ve faunası, mevsimsel değişimlere göre şekillenir. İlkbahar ve yaz aylarında, bölgeye özgü bitki türleri açar ve hayvanlar daha aktif hale gelir. Kış aylarında, bazı hayvanlar bölgeyi terk eder veya daha az aktif olur. Mahmud Türbesi, ekolojik dengesi ile önemli bir doğal alan olarak kabul edilir. Ziyaretçiler, bu bölgeyi keşfederek flora ve faunayı yakından görebilir.
 
 ## Ziyaret Bilgileri
 
@@ -54,4 +54,4 @@ Mahmud Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliklerini deneyimlemek 
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır.
 - Mahmud Türbesi, özellikle Osmanlı Dönemi'nde önemli bir merkez olarak bilinmiştir.
 - Bölge, 140 hektarlık bir alana sahiptir.
-- Mahmud Türbesi, geniş otlaklarıyla ve histórik yapılarıyla dikkat çeker.
+- Mahmud Türbesi, geniş otlaklarıyla ve tarihi yapılarıyla dikkat çeker.

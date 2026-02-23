@@ -29,7 +29,7 @@ wikidata_id: "Q131391707"
 
 # Eş Şeyh Aliyyü-l Müslahiddin Hazretleri
 
-Eş Şeyh Aliyyü-l Müslahiddin Hazretleri, Düzce'nin Çilimli ilçesinde yer alan bir plajdır. Bu muhteşem doğal alan, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak bilinir. Eş Şeyh Aliyyü-l Müslahiddin Hazretleri, yaklaşık 140 hektarlık bir alana yayılmış olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş ve güzel plaj, ziyaretçilerini Karadeniz'in serin sularına davet ediyor. Eş Şeyh Aliyyü-l Müslahiddin Hazretleri'nin güzelliği, Karadeniz Bölgesi'nin en önemli doğal zenginliklerinden biri olarak kabul ediliyor. Bu doğal güzelliği görmek isteyen ziyaretçiler, buraya gelerek Karadeniz'in güzelliğini keşfedebilir.
+Eş Şeyh Aliyyü-l Müslahiddin Hazretleri, Düzce'nin Çilimli ilçesinde yer alan bir plajdır. Bu muhteşem doğal alan, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak bilinir. Bu geniş ve güzel plaj, ziyaretçilerini Karadeniz'in serin sularına davet ediyor. Eş Şeyh Aliyyü-l Müslahiddin Hazretleri'nin güzelliği, Karadeniz Bölgesi'nin en önemli doğal zenginliklerinden biri olarak kabul ediliyor. Bu doğal güzelliği görmek isteyen ziyaretçiler, buraya gelerek Karadeniz'in güzelliğini keşfedebilir.
 
 ## Tarihçe
 

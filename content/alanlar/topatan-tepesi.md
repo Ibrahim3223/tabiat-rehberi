@@ -52,7 +52,7 @@ Mevsimsel değişiklikler açısından, Topatan Tepesi'nin iklim karakteri Doğu
 
 Topatan Tepesi, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir bölge. 2000 metre üzerinde yer alan bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir cennet. İlkbaharın gelişiyle birlikte, tepelerin yamaçları rengarenk çiçeklerle kaplanır. Sonbaharda ise, göçmen kuşlar bu bölgeyi geçiş noktası olarak kullanır.
 
-Bitki örtüsüne baktığımızda, yükseklik zonlarına göre değişen bir çeşitlilik görürüz. Alpin flora, bu bölgenin karakteristik özelliğini oluşturur. Dağ keçileri ve yaban keçilerinin yaşam alanı olan bu tepeler, aynı zamanda çeşitli sürüngenlerin de yuvasıdır. 
+Bitki örtüsüne baktığımızda, yükseklik zonlarına göre değişen bir çeşitlilik görürüz. Alpin flora, bu bölgenin karakteristik özelliğini oluşturur. Dağ keçileri ve yaban keçilerinin yaşam alanı olan bu tepeler, aynı zamanda çeşitli sürüngenlerin de yuvasıdır.
 
 Bu dağ ekosisteminin ekolojik değeri oldukça yüksektir. Yüksek dağ ekolojisine özgü türlerin yaşadığı bu bölge, bilim insanları ve doğa severler için bir hazine niteliğindedir. Topatan Tepesi, koruma altına alınması gereken bir alan olarak öne çıkıyor.
 

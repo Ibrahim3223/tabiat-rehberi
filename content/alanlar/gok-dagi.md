@@ -49,16 +49,16 @@ Gök Dağı, çevresindeki diğer coğrafi oluşumlarla ve su kaynaklarıyla ba�
 
 ## Flora ve Fauna
 
-Gök Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi sunar. 
-İlkbaharla birlikte, dağ yamaçlarında renkli çiçekler açar ve yükseklik zonlarına göre değişen alpin flora ortaya çıkar. 
+Gök Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi sunar.
+İlkbaharla birlikte, dağ yamaçlarında renkli çiçekler açar ve yükseklik zonlarına göre değişen alpin flora ortaya çıkar.
 Çam ve meşe gibi ağaç türleri, dağın daha yüksek kesimlerinde bulunurken, alçak kesimlerde otlar ve çalılar hakimdir.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. 
-Kaya ve dağ yamaçlarında yaşayan keçilerin yanı sıra, çeşitli kuş türleri de bu bölgede yuvalanır. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir.
+Kaya ve dağ yamaçlarında yaşayan keçilerin yanı sıra, çeşitli kuş türleri de bu bölgede yuvalanır.
 Sonbaharda, göçmen kuşlar dağları geçerek güneye doğru yol alır.
 
-Gök Dağı, ekolojik açıdan önemli bir bölgedir. 
-Bu dağ ekosisteminin korunması, bölgeye özgü türlerin yaşaması ve ekosistemin dengesinin korunması için önemlidir. 
+Gök Dağı, ekolojik açıdan önemli bir bölgedir.
+Bu dağ ekosisteminin korunması, bölgeye özgü türlerin yaşaması ve ekosistemin dengesinin korunması için önemlidir.
 Doğal yaşam alanlarının korunmasına dikkat edilmesi, gelecek nesiller için bu önemli ekosistemin sürdürülmesini sağlar.
 
 ## Ziyaret Bilgileri

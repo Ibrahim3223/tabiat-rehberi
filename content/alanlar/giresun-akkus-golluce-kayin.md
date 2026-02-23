@@ -22,7 +22,7 @@ wikidata_id: "Q108228548"
 
 # Giresun-Akkus-Golluce-Kayin
 
-Giresun-Akkus-Golluce-Kayin milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle dolu. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yer. Ziyaretçiler, bu muhteşem doğa güzelliğinin içinde huzur bulabilir ve doğanın seslerini dinleyebilir. Milli parkın etrafında bulunan dağlar ve ormanlar, ziyaretçilere geniş bir manzara sunuyor.
+Giresun-Akkus-Golluce-Kayin milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yer. Ziyaretçiler, bu muhteşem doğa güzelliğinin içinde huzur bulabilir ve doğanın seslerini dinleyebilir. Milli parkın etrafında bulunan dağlar ve ormanlar, ziyaretçilere geniş bir manzara sunuyor.
 
 ## Tarihçe
 

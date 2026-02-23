@@ -28,7 +28,7 @@ wikidata_id: "Q31387903"
 
 # Kelez Tepesi
 
-Kars ilinin doğusunda yer alan Kelez Tepesi, 2800 metre yüksekliğiyle bölgenin önemli tepe noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir doğa parçasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için keşif dolu bir destinasyon sunar. Kelez Tepesi, hem coğrafi konumu hem de doğal güzelliği ile dikkat çekici bir noktadır. Bu tepe, Kars'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir durak olabilir.
+Kars ilinin doğusunda yer alan Kelez Tepesi, 2800 metre yüksekliğiyle bölgenin önemli tepe noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir doğa parçasıdır. Kelez Tepesi, hem coğrafi konumu hem de doğal güzelliği ile dikkat çekici bir noktadır. Bu tepe, Kars'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir durak olabilir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Kelez Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak önemli noktalarından 
 
 ## Flora ve Fauna
 
-Kelez Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu tepe, mevsimsel değişimlere göre farklı bitki örtüsüne sahiptir. Kış aylarında karla kaplı olan tepe, yaz aylarında ise yeşilin çeşitli tonlarını sunar. Bu bitki türleri, bölgenin iklim koşullarına uyum sağlamış ve Kelez Tepesi'nin doğal güzelliğini artırmıştır. Ayrıca, bu tepe çevresindeki fauna da oldukça zengindir. çeşitli hayvan türleri, bu tepe ve çevresinde yaşamaktadır. Bu zengin fauna, Kelez Tepesi'ni doğa severler için önemli bir destinasyon haline getirir. Mevsimsel değişimler, bu tepe ve çevresindeki flora ve faunayı da etkiler. Bu nedenle, Kelez Tepesi'ni ziyaret etmek için en uygun zaman, mevsimsel koşullara göre belirlenmelidir.
+ Bu tepe, mevsimsel değişimlere göre farklı bitki örtüsüne sahiptir. Kış aylarında karla kaplı olan tepe, yaz aylarında ise yeşilin çeşitli tonlarını sunar. Bu bitki türleri, bölgenin iklim koşullarına uyum sağlamış ve Kelez Tepesi'nin doğal güzelliğini artırmıştır. Ayrıca, bu tepe çevresindeki fauna da oldukça zengindir. çeşitli hayvan türleri, bu tepe ve çevresinde yaşamaktadır. Bu zengin fauna, Kelez Tepesi'ni doğa severler için önemli bir destinasyon haline getirir. Mevsimsel değişimler, bu tepe ve çevresindeki flora ve faunayı da etkiler. Bu nedenle, Kelez Tepesi'ni ziyaret etmek için en uygun zaman, mevsimsel koşullara göre belirlenmelidir.
 
 ## Ziyaret Bilgileri
 

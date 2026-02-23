@@ -29,7 +29,7 @@ wikidata_id: "Q31386678"
 
 # Arap Tepe
 
-Arap Tepe, Diyarbakır'ın tarihi ve coğrafi güzelliklerini bir araya getiren önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Doğal güzellikleri ve tarihi önemi ile dikkat çeken bu tepe, ziyaretçilerini beklemektedir. Arap Tepe, Diyarbakır'ın merkezine yakın bir konumda bulunur ve ulaşımı oldukça kolaydır. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Arap Tepe, Diyarbakır'ın tarihi ve coğrafi güzelliklerini bir araya getiren önemli bir noktadır. Doğal güzellikleri ve tarihi önemi ile dikkat çeken bu tepe, ziyaretçilerini beklemektedir. Arap Tepe, Diyarbakır'ın merkezine yakın bir konumda bulunur ve ulaşımı oldukça kolaydır. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Arap Tepe'nin tarihi geçmişi oldukça eskidir. Bu tepe, yüzyıllar boyunca ç
 
 ## Coğrafya
 
-Arap Tepe, Diyarbakır'ın coğrafi güzelliklerini bir araya getiren önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Arap Tepe, Diyarbakır'ın merkezine yakın bir konumda bulunur ve ulaşımı oldukça kolaydır. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Arap Tepe'nin coğrafyası, çeşitli bitki türleri ve hayvanlarla zenginleştirilmiştir. Bu tepe, mevsimsel değişimlere göre farklı güzellikler sunmaktadır. Kışın karla kaplanan tepe, ilkbaharda yeşillenir ve yazın sıcakk günlerinde serin bir kaçış noktası olur. Arap Tepe, coğrafi güzellikleri ve tarihi önemi ile ziyaretçilerini beklemektedir.
+Arap Tepe, Diyarbakır'ın coğrafi güzelliklerini bir araya getiren önemli bir noktadır. Arap Tepe, Diyarbakır'ın merkezine yakın bir konumda bulunur ve ulaşımı oldukça kolaydır. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Arap Tepe'nin coğrafyası, çeşitli bitki türleri ve hayvanlarla zenginleştirilmiştir. Bu tepe, mevsimsel değişimlere göre farklı güzellikler sunmaktadır. Kışın karla kaplanan tepe, ilkbaharda yeşillenir ve yazın sıcakk günlerinde serin bir kaçış noktası olur. Arap Tepe, coğrafi güzellikleri ve tarihi önemi ile ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 

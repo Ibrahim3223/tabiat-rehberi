@@ -1,7 +1,7 @@
 ---
 title: "İmaret Hamamı"
 date: "2026-01-09T22:32:33.530Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738682"
 
 # İmaret Hamamı
 
-Afyonkarahisar ilinin merkezinde bulunan İmaret Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana karşılık gelmektedir. İmaret Hamamı, Ege Bölgesi'nin en önemli tarihi ve kültürel mekanlarından biridir. Bu mekan, Afyonkarahisar'ın zengin tarihinin bir parçası olarak kabul edilir. İmaret Hamamı, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini cezbeden bir yerdir.
+Afyonkarahisar ilinin merkezinde bulunan İmaret Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. İmaret Hamamı, Ege Bölgesi'nin en önemli tarihi ve kültürel mekanlarından biridir. Bu mekan, Afyonkarahisar'ın zengin tarihinin bir parçası olarak kabul edilir. İmaret Hamamı, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini cezbeden bir yerdir.
 
 ## Tarihçe
 

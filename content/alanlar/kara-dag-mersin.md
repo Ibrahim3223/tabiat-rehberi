@@ -33,7 +33,7 @@ Mersin'in doğal güzellikleri arasında yer alan Kara Dağ, ilin coğrafi yapı
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu sayfalarında önemli bir yere sahip. Binlerce yıl önce, Hitit, Roma ve Bizans uygarlıkları bu topraklarda yaşamış, ticaret yollarını oluşturmuş ve kültürlerini bırakmışlardır. Kara Dağ, bu zengin tarihsel mirasın bir parçası olarak, yüzyıllar boyunca insanların yaşamlarına yön vermiştir.
+Mersin bölgesi, tarihin derin sayfalarında önemli bir yere sahip. Binlerce yıl önce, Hitit, Roma ve Bizans uygarlıkları bu topraklarda yaşamış, ticaret yollarını oluşturmuş ve kültürlerini bırakmışlardır. Kara Dağ, bu zengin tarihsel mirasın bir parçası olarak, yüzyıllar boyunca insanların yaşamlarına yön vermiştir.
 
 Türkiye'de, doğal alanlar her zaman önemli bir rol oynamıştır. İnsanlar, bu alanları yaylacılık, hayvancılık ve avcılık için kullanmış, ayrıca ticaret yolları olarak değerlendirmişlerdir. Mersin bölgesinde de, Kara Dağ gibi doğal güzellikler, insanların geçim kaynakları ve kültürel aktivitelerinin merkezinde yer almıştır.
 

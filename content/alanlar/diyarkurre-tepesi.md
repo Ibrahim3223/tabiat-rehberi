@@ -28,7 +28,7 @@ wikidata_id: "Q31550500"
 
 # Diyarkurre Tepesi
 
-Diyarkurre Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal ve tarihi noktalarından biri olarak dikkat çekiyor. Diyarbakır ilinde bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleri ile karşılıyor. Bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak biliniyor. Diyarkurre Tepesi, tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Diyarkurre Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal ve tarihi noktalarından biri olarak dikkat çekiyor. Diyarbakır ilinde bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak biliniyor. Diyarkurre Tepesi, tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

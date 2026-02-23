@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Rakım Efendi Türbesi"
 date: "2026-01-10T07:51:13.193Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391092"
 
 # Mustafa Rakım Efendi Türbesi
 
-Mustafa Rakım Efendi Türbesi, İstanbul'un Fatih ilçesinde, şehrin tarihi dokusu içinde yer alan önemli bir yapıttır. 140 hektarlık bir alanın içinde bulunmayan bu türbe, yaklaşık olarak 200 futbol sahası büyüklüğünde bir bölgeyi kaplayan Fatih'in tarihî merkezi içerisinde bulunur. Mustafa Rakım Efendi Türbesi, mimarisi ve tarihi geçmişi ile dikkat çekici bir gezi noktasıdır. İstanbul'un kalbinde, tarihi mekanların arasında yer alan bu türbe, ziyaretçilerini şehrin zengin tarihine götürür.
+Mustafa Rakım Efendi Türbesi, İstanbul'un Fatih ilçesinde, şehrin tarihi dokusu içinde yer alan önemli bir yapıttır. Mustafa Rakım Efendi Türbesi, mimarisi ve tarihi geçmişi ile dikkat çekici bir gezi noktasıdır. İstanbul'un kalbinde, tarihi mekanların arasında yer alan bu türbe, ziyaretçilerini şehrin zengin tarihine götürür.
 
 ## Tarihçe
 

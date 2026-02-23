@@ -50,7 +50,7 @@ Mevsimsel değişiklikler, Ferandah Dağı'nın iklim karakterini şekillendirir
 
 ## Flora ve Fauna
 
-Ferandah Dağı, Erzincan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Ferandah Dağı, Erzincan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, endemik türlerle bezelidir. Mevsimsel değişimlerle birlikte, sonbaharda dağların rengi sarı, kahverengi ve kırmızı tonlara bürünür.
 

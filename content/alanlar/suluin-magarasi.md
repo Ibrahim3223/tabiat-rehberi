@@ -51,11 +51,11 @@ Mevsimsel olarak, Suluin Mağarası ve çevresi, Akdeniz ikliminin karakteristik
 
 ## Flora ve Fauna
 
-Suluin Mağarası'nın flora ve fauna bölümü, Antalya'nın step bitki örtüsüne ve bozkır ekosistemine ev sahipliği yapar. Bu 1200 hektarlık yeşil cennet, kuraklığa adapte olmuş türlerin yaşam alanıdır. 
+Suluin Mağarası'nın flora ve fauna bölümü, Antalya'nın step bitki örtüsüne ve bozkır ekosistemine ev sahipliği yapar. Bu 1200 hektarlık yeşil cennet, kuraklığa adapte olmuş türlerin yaşam alanıdır.
 
-Bitki örtüsünde, ilkbaharın gelmesiyle birlikte renkli çiçekler açar ve bu bölgeyi bir çiçek denizi haline getirir. Sonbaharda ise, göç eden kuşlar bu alanı konaklama yeri olarak kullanır. 
+Bitki örtüsünde, ilkbaharın gelmesiyle birlikte renkli çiçekler açar ve bu bölgeyi bir çiçek denizi haline getirir. Sonbaharda ise, göç eden kuşlar bu alanı konaklama yeri olarak kullanır.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Bu canlılar, mağaranın etrafındaki bozkır ve step ekosistemine adapte olmuşlardır. Memeliler, mağaranın etrafındaki çalılıklarda yaşamayı tercih ederken, kuşlar mağaranın yüksek noktalarında yuvalanır. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Bu canlılar, mağaranın etrafındaki bozkır ve step ekosistemine adapte olmuşlardır. Memeliler, mağaranın etrafındaki çalılıklarda yaşamayı tercih ederken, kuşlar mağaranın yüksek noktalarında yuvalanır.
 
 Ekolojik değer olarak, Suluin Mağarası'nın bu ekosistemi koruması önemlidir. Bu alan, birçok canlı türünün yaşam alanı olarak hizmet eder ve bölgenin ekolojik dengesini sağlar. Koruma durumu ise, bölgenin jeopark olarak tanımlanmasıyla birlikte, doğal güzelliğinin ve biyolojik çeşitliliğinin korunmasına yönelik çalışmalar yapılmaktadır.
 

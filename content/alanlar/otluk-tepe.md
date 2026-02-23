@@ -32,7 +32,7 @@ Mardin'in tarihi dokusu içinde yer alan Otluk Tepe, bölgenin coğrafi çeşitl
 
 ## Tarihçe
 
-Mardin'in tarihi dokusu, Otluk Tepe'nin eteklerinde de hissedilir. Bu bölge, tarihin sâu sayfalarında yer alan uygarlıkların izlerini taşır. Hititlerden, Asurlulara; Roma ve Bizans dönemlerinden, İslam'ın yayılışına kadar birçok medeniyet, Mardin'i önemli bir merkez olarak görmüştür. Otluk Tepe, bu zengin tarihsel mirasın bir parçası olarak, bölgenin kültürel ve doğal çeşitliliğini yansıtır.
+Mardin'in tarihi dokusu, Otluk Tepe'nin eteklerinde de hissedilir. Bu bölge, tarihin derin sayfalarında yer alan uygarlıkların izlerini taşır. Hititlerden, Asurlulara; Roma ve Bizans dönemlerinden, İslam'ın yayılışına kadar birçok medeniyet, Mardin'i önemli bir merkez olarak görmüştür. Otluk Tepe, bu zengin tarihsel mirasın bir parçası olarak, bölgenin kültürel ve doğal çeşitliliğini yansıtır.
 
 Türkiye'nin doğal alanları, tarihin her döneminde insan yerleşimleri, ticaret yolları ve yaylacılık için önemli olmuştur. Bu alanlar, sadece doğal güzellikleri ile değil, aynı zamanda kültürel ve ekonomik açıdan da büyük öneme sahiptir. Otluk Tepe de, bölgede yaşayan insanların hayatında önemli bir rol oynamış, yaylacılık ve hayvancılık için elverişli bir ortam sunmuştur. Ayrıca, tarihi ticaret yollarının geçtiği bu bölge, farklı kültürlerin etkileşimine tanıklık etmiştir. Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin bir parçasıdır ve Otluk Tepe, bu mirasın önemli bir bölümünü temsil eder.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227767"
 
 # Zonguldak-Dirgine-Aksu Mese
 
-Zonguldak-Dirgine-Aksu Mese milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından biri olarak kabul edilir. Milli park, Zonguldak ilinin merkezi ve çevresindeki yerleşim yerlerine yakın bir konumda yer alır. Bu özel konum, ziyaretçilere hem şehrin avantajlarını hem de doğanın güzelliğini aynı anda sunar. Zonguldak-Dirgine-Aksu Mese, ziyaretçilerini doğanın kucağına davet ediyor ve herekese unutulmaz anlar vaat ediyor.
+Zonguldak-Dirgine-Aksu Mese milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biridir. Milli park, Zonguldak ilinin merkezi ve çevresindeki yerleşim yerlerine yakın bir konumda yer alır. Bu özel konum, ziyaretçilere hem şehrin avantajlarını hem de doğanın güzelliğini aynı anda sunar. Zonguldak-Dirgine-Aksu Mese, ziyaretçilerini doğanın kucağına davet ediyor ve herekese unutulmaz anlar vaat ediyor.
 
 ## Tarihçe
 

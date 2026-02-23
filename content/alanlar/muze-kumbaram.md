@@ -1,7 +1,7 @@
 ---
 title: "Müze Kumbaram"
 date: "2026-01-10T15:13:40.781Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950147"
 
 # Müze Kumbaram
 
-Müze Kumbaram, Ankara'nın merkezinde yer alan bir doğa alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşabileceğiniz bir kaçış noktası sunar. Müze Kumbaram, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmesi gereken bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Yayla, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlıyor.
+Müze Kumbaram, Ankara'nın merkezinde yer alan bir doğa alanıdır. Müze Kumbaram, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmesi gereken bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Yayla, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlıyor.
 
 ## Tarihçe
 

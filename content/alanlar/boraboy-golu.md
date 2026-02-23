@@ -34,7 +34,7 @@ Amasya'nın zengin doğası, ziyaretçilerini her köşesinde farklı bir güzel
 
 ## Tarihçe
 
-Amasya'nın doğusunda yer alan Boraboy Gölü, tarihin sâu izlerini taşıyan bir bölgenin gizli hazinelerinden biri. Amasya, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış; Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorluklar bu topraklarda hüküm sürmüşlerdir. Bu zengin tarihsel miras, bölgenin doğal güzellikleriyle birleşerek Boraboy Gölü'nü özel kılar.
+Amasya'nın doğusunda yer alan Boraboy Gölü, tarihin derin izlerini taşıyan bir bölgenin gizli hazinelerinden biri. Amasya, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış; Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorluklar bu topraklarda hüküm sürmüşlerdir. Bu zengin tarihsel miras, bölgenin doğal güzellikleriyle birleşerek Boraboy Gölü'nü özel kılar.
 
 Türkiye'de, göller ve doğal alanlar her zaman önemli birer yaşam kaynağı olmuş, insanların yerleşim, tarım, hayvancılık ve ticaret faaliyetlerinde kilit rol oynamışlardır. Boraboy Gölü de, bölgede yaşayan halkın yaşamına dahil olmuş, yaylacılık, balıkçılık ve tarımın yanında, ticaret yolları üzerinde stratejik bir konumda yer almıştır. İnsanlar, bu doğal alanları sadece ekonomik faaliyetler için değil, aynı zamanda maneviyatlarını zenginleştirme ve doğayla iç içe olmak için de kullanmışlardır.
 

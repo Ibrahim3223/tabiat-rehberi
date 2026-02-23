@@ -32,10 +32,10 @@ Mersin'in yeşille mavinin iç içe geçtiği manzaraları arasında yer alan Sa
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşadığı önemli bir merkezdir. Sarıseki Dağı da bu bölge içinde yer alır. Hitit, Roma ve Bizans dönemlerinde bölgenin stratejik konumu nedeniyle ticaret ve kültür merkezi olarak kullanılmıştır. 
+Mersin bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşadığı önemli bir merkezdir. Sarıseki Dağı da bu bölge içinde yer alır. Hitit, Roma ve Bizans dönemlerinde bölgenin stratejik konumu nedeniyle ticaret ve kültür merkezi olarak kullanılmıştır.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel zenginliğinde önemli bir yer tutar. especially yaylacılık ve hayvancılık faaliyetleri için tercih edilen bölgelerdir. Sarıseki Dağı'nın eteklerinde ve çevresinde, insan yerleşimlerinin ve faaliyetlerinin izlerini görme mümkündür. 
-Bölgenin coğrafi yapısı, tarihi ticaret yollarının geçiş noktalarından biri olarak da görev yapmıştır. 
+Bu tür doğal alanlar, Türkiye'nin tarihsel zenginliğinde önemli bir yer tutar. especially yaylacılık ve hayvancılık faaliyetleri için tercih edilen bölgelerdir. Sarıseki Dağı'nın eteklerinde ve çevresinde, insan yerleşimlerinin ve faaliyetlerinin izlerini görme mümkündür.
+Bölgenin coğrafi yapısı, tarihi ticaret yollarının geçiş noktalarından biri olarak da görev yapmıştır.
 Bu nedenle, Sarıseki Dağı'nın doğal güzelliği, aynı zamanda tarihsel bir miras olarak da değerlendirilebilir.
 
 ## Coğrafya

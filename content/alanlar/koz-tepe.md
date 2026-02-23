@@ -42,7 +42,7 @@ Bingöl bölgesinde, yaylacılık ve hayvancılık faaliyetleri yüzyıllar boyu
 
 Doğunun gizli köşelerinden biri olan Koz Tepe, Bingöl'ün dağlık arazisinde 38.6231° kuzey enlemi ve 40.6714° doğu boylamında yer alıyor. Bu dağ, bölgenin doğal güzelliğini vurgulayan bir coğrafi oluşum olarak dikkat çekiyor. Özellikle Bingöl'ün merkezine yaklaşık 20 kilometre uzaklıkta bulunması, ziyaretçiler için ulaşımı kolaylaştırıyor.
 
-Coğrafi olarak bakıldığında, Koz Tepe'nin konumunu anlamak için bölgenin genel yapısını göz önünde bulundurmak necessário. Bingöl'ün coğrafyası, dağlık ve engebeli bir yapıya sahip. Bu dağlık bölge, geniş ovalar ve vadilerle çevrili. Koz Tepe, bu dağlık arazinin bir parçası olarak, bölgenin jeolojik yapısını temsil ediyor.
+Coğrafi olarak bakıldığında, Koz Tepe'nin konumunu anlamak için bölgenin genel yapısını göz önünde bulundurmak gerekli. Bingöl'ün coğrafyası, dağlık ve engebeli bir yapıya sahip. Bu dağlık bölge, geniş ovalar ve vadilerle çevrili. Koz Tepe, bu dağlık arazinin bir parçası olarak, bölgenin jeolojik yapısını temsil ediyor.
 
 Bölgenin iklimine baktığımızda, Koz Tepe ve çevresinin karasal iklimin etkisi altında olduğu görülüyor. Kış aylarında soğuk ve karlı, yaz aylarında ise sıcak ve kurak bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor.
 

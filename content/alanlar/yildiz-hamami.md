@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Hamamı"
 date: "2026-01-09T22:28:51.183Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738482"
 
 # Yıldız Hamamı
 
-Yıldız Hamamı, Amasya'nın güzide mekanlarından biri olarak Karadeniz Bölgesi'nin kalbinde yer alıyor. Bu doğal güzellik, çevresindeki yeşilliklerle birlikte 140 hektarlık bir alanı kapsıyor. Yaklaşık 200 futbol sahası büyüklüğündeki bu alan, ziyaretçiler için geniş bir gezi alanı sunuyor. Yıldız Hamamı, özellikle plaj severlerin ve doğa tutkunlarının ilgisini çekiyor. Bu bölge, hem deniz hem de yeşil alanlarıyla ziyaretçilerini büyülüyor.
+Yıldız Hamamı, Amasya'nın güzide mekanlarından biri olarak Karadeniz Bölgesi'nin kalbinde yer alıyor. Bu doğal güzellik, çevresindeki yeşilliklerle birlikte 140 hektarlık bir alanı kapsıyor. Yıldız Hamamı, özellikle plaj severlerin ve doğa tutkunlarının ilgisini çekiyor. Bu bölge, hem deniz hem de yeşil alanlarıyla ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

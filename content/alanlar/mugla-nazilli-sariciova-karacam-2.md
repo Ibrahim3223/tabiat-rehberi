@@ -22,7 +22,7 @@ wikidata_id: "Q108227535"
 
 # Mugla-Nazilli-Sariciova Karacam 2
 
-Mugla-Nazilli-Sariciova Karacam 2 milli parkı, Muğla ilinin nazilli ilçesinde yer alan bir doğal alan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, bu alanda doğa yürüyüşü yapabilir, bitki türlerini inceleyebilir ve yaban hayvanlarını gözlemleyebilir. Parkın çevresi, yeşilliklerle kaplı ve ziyaretçilere huzurlu bir ortam sunuyor. Ayrıca, parkta birçok trekking rotası bulunuyor ve ziyaretçiler, bu rotaları takip ederek parkın güzelliklerini keşfedebilir.
+Mugla-Nazilli-Sariciova Karacam 2 milli parkı, Muğla ilinin nazilli ilçesinde yer alan bir doğal alan. Bu park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, bu alanda doğa yürüyüşü yapabilir, bitki türlerini inceleyebilir ve yaban hayvanlarını gözlemleyebilir. Parkın çevresi, yeşilliklerle kaplı ve ziyaretçilere huzurlu bir ortam sunuyor. Ayrıca, parkta birçok trekking rotası bulunuyor ve ziyaretçiler, bu rotaları takip ederek parkın güzelliklerini keşfedebilir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Mugla-Nazilli-Sariciova Karacam 2 milli parkını ziyaret etmek, yılın her dö
 
 ## İlginç Bilgiler
 
-- Parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunmakla birlikte, bu türler, parkın doğal yapısını korumak amacıyla, ziyaretçilere kapalı tutuluyor.
 - Parkın çevresi, yeşilliklerle kaplı ve ziyaretçilere huzurlu bir ortam sunuyor.
 - Parkta, birçok trekking rotası bulunmakla birlikte, bu rotaları takip ederek, parkın güzelliklerini keşfedebilir.

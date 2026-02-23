@@ -30,7 +30,7 @@ wikidata_id: "Q116046933"
 
 # Mermer Kule
 
-Mermer Kule, İstanbul'un kalbi sayılan Fatih ilçesinde, Marmara Bölgesi'nin en güzel noktalarından birinde yer alan tarihi bir plajdır. Bu plaj, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Mermer Kule'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Plajın etrafındaki tarihi yapılar, ziyaretçilere zengin bir kültürel deneyim sunar. Mermer Kule, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbeder.
+Mermer Kule, İstanbul'un kalbi sayılan Fatih ilçesinde, Marmara Bölgesi'nin en güzel noktalarından birinde yer alan tarihi bir plajdır. Mermer Kule'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Plajın etrafındaki tarihi yapılar, ziyaretçilere zengin bir kültürel deneyim sunar. Mermer Kule, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbeder.
 
 ## Tarihçe
 

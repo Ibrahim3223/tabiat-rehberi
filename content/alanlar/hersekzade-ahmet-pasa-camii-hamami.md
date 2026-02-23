@@ -1,7 +1,7 @@
 ---
 title: "Hersekzade Ahmet Paşa Camii Hamamı"
 date: "2026-01-09T23:53:33.118Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -37,7 +37,7 @@ Hersekzade Ahmet Paşa Camii Hamamı, tarihin derinliklerinden gelen bir geçmi�
 
 ## Coğrafya
 
-Hersekzade Ahmet Paşa Camii Hamamı, Keşan'ın merkezi bir bölgesinde yer alır ve Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Çevresinde tarihi yapılar, parklar ve sosyal alanlar bulunan bu mekan, ziyaretçilerine geniş bir perspektif sunar. 140 hektarlık bir alan üzerinde kurulu olan bu yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin coğrafi yapısı, tarihi dokusunu korurken aynı zamanda modern yaşamın gereksinimlerini de karşılar. İklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Çevre, tarihi eserlerin korunmasına özen gösteren bir bölgedir ve ziyaretçilere zengin bir kültürel atmosfer sunar.
+Hersekzade Ahmet Paşa Camii Hamamı, Keşan'ın merkezi bir bölgesinde yer alır ve Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Çevresinde tarihi yapılar, parklar ve sosyal alanlar bulunan bu mekan, ziyaretçilerine geniş bir perspektif sunar. Bölgenin coğrafi yapısı, tarihi dokusunu korurken aynı zamanda modern yaşamın gereksinimlerini de karşılar. İklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Çevre, tarihi eserlerin korunmasına özen gösteren bir bölgedir ve ziyaretçilere zengin bir kültürel atmosfer sunar.
 
 ## Flora ve Fauna
 

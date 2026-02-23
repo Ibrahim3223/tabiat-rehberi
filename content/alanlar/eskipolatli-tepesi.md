@@ -28,7 +28,7 @@ wikidata_id: "Q31558173"
 
 # Eskipolatlı Tepesi
 
-Eskipolatlı Tepesi, Ankara'nın kalbinde yer alan ve ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla baş başa bırakmayı vaat eden bir destinasyon. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir yeşil cennet olup, yaklaşık 200 futbol sahası büyüklüğünde. Eskipolatlı Tepesi, şehrin merkezinden uzaklaşmadan doğanın güzelliğini deneyimlemek isteyenler için ideal bir kaçış noktası.
+Eskipolatlı Tepesi, Ankara'nın kalbinde yer alan ve ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla baş başa bırakmayı vaat eden bir destinasyon. Eskipolatlı Tepesi, şehrin merkezinden uzaklaşmadan doğanın güzelliğini deneyimlemek isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 

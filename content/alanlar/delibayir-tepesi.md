@@ -28,7 +28,7 @@ wikidata_id: "Q31390785"
 
 # Delibayır Tepesi
 
-Delibayır Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak dikkat çeken bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafi yapısını şekillendiren önemli bir nokta. Delibayır Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğayla iç içe bir deneyim sunan özel bir destinasyon. Tepenin etrafında çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu doğal güzellik, hem doğa severlerin hem de tarihi ve coğrafi açıdan ilgi duyanların ilgisini çekiyor.
+Delibayır Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak dikkat çeken bir tepe. Delibayır Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğayla iç içe bir deneyim sunan özel bir destinasyon. Tepenin etrafında çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu doğal güzellik, hem doğa severlerin hem de tarihi ve coğrafi açıdan ilgi duyanların ilgisini çekiyor.
 
 ## Tarihçe
 

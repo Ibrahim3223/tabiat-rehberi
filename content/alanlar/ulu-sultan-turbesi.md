@@ -1,7 +1,7 @@
 ---
 title: "Ulu Sultan Türbesi"
 date: "2026-01-10T06:52:47.009Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ezine"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390752"
 
 # Ulu Sultan Türbesi
 
-Ulu Sultan Türbesi, Ezine'de yer alan ve tarihi geçmişiyle dikkat çeken bir nokta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılıyor. Burada, tarihi yapıların yanında doğal güzellikler de bulunuyor. Ulu Sultan Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Bu bölge, özellikle doğa severler ve tarihe ilgi duyanlar için ideal bir gezi noktası.
+Ulu Sultan Türbesi, Ezine'de yer alan ve tarihi geçmişiyle dikkat çeken bir nokta. Burada, tarihi yapıların yanında doğal güzellikler de bulunuyor. Ulu Sultan Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Bu bölge, özellikle doğa severler ve tarihe ilgi duyanlar için ideal bir gezi noktası.
 
 ## Tarihçe
 

@@ -32,9 +32,9 @@ Siirt'in dağlık bölgesinde, Razago Tepe dağının heybetli görünümü dikk
 
 ## Tarihçe
 
-Razago Tepe, Siirt'in zengin tarihi ve kültürel mirasının bir parçasıdır. Bu bölge, tarihin sâu sayfalarında, birçok uygarlığın izlerini taşıyor. Hitit, Asur, Pers ve Roma gibi medeniyetler, Siirt'i ve çevresini etkileyerek, bölgenin kültürel dokusunu şekillendirmişlerdir. 
+Razago Tepe, Siirt'in zengin tarihi ve kültürel mirasının bir parçasıdır. Bu bölge, tarihin derin sayfalarında, birçok uygarlığın izlerini taşıyor. Hitit, Asur, Pers ve Roma gibi medeniyetler, Siirt'i ve çevresini etkileyerek, bölgenin kültürel dokusunu şekillendirmişlerdir.
 
-Doğal güzellikleri ve stratejik konumuyla, Razago Tepe ve benzeri alanlar, tarih boyunca insanların dikkatini çekmiştir. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların yaşam tarzı olmuştur. Ayrıca, tarihi ticaret yollarının geçtiği bu bölgede, insanların birbirleriyle etkileşimi ve kültür alışverişi de xảymıştır. 
+Doğal güzellikleri ve stratejik konumuyla, Razago Tepe ve benzeri alanlar, tarih boyunca insanların dikkatini çekmiştir. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların yaşam tarzı olmuştur. Ayrıca, tarihi ticaret yollarının geçtiği bu bölgede, insanların birbirleriyle etkileşimi ve kültür alışverişi de xảymıştır.
 
 Türkiye'de, bu tür doğal alanlar, sadece güzellikleri nedeniyle değil, aynı zamanda tarihsel ve kültürel önemleri nedeniyle değerlidir. Razago Tepe, Siirt'in tarihini ve kültürünü anlamak için önemli bir noktadır. Bu bölge, insanlık tarihini şekillendiren uygarlıkların izlerini taşır ve ziyaretçilerine, tarihin derinliklerine bir yolculuk sunar.
 

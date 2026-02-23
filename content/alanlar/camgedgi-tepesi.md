@@ -28,7 +28,7 @@ wikidata_id: "Q34828160"
 
 # Çamgedği Tepesi
 
-Çamgedği Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Çamgedği Tepesi, özellikle doğa severler ve trekking tutkunları için bir cennet olarak görülüyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrabilir. Çamgedği Tepesi'ne tırmanmak, hem bedeni hem de ruhu yenileyen bir deneyim sunuyor.
+Çamgedği Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Çamgedği Tepesi, özellikle doğa severler ve trekking tutkunları için bir cennet olarak görülüyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrabilir. Çamgedği Tepesi'ne tırmanmak, hem bedeni hem de ruhu yenileyen bir deneyim sunuyor.
 
 ## Tarihçe
 

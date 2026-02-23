@@ -22,7 +22,7 @@ wikidata_id: "Q108228428"
 
 # Erzurum-Erzincan-Erzincan-Sarıçam
 
-Erzurum-Erzincan-Erzincan-Sarıçam milli parkı, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet olarak ziyaretçilerini karşılar. Bu alan, Doğu Anadolu Bölgesi'nin güzide milli parklarından biri olarak, ziyaretçilerini büyüleyici doğası ve zengin fauna çeşitliliği ile büyüler. Ziyaretçiler, bu milli parkta, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Milli parkın konumu, ziyaretçilerin kolayca ulaşabileceği bir noktada yer alır.
+ Bu alan, Doğu Anadolu Bölgesi'nin güzide milli parklarından biri olarak, ziyaretçilerini büyüleyici doğası ve zengin fauna çeşitliliği ile büyüler. Ziyaretçiler, bu milli parkta, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Milli parkın konumu, ziyaretçilerin kolayca ulaşabileceği bir noktada yer alır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Erzurum-Erzincan-Erzincan-Sarıçam milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Erzurum-Erzincan-Erzincan-Sarıçam milli parkı, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer alır. Milli parkın coğrafi konumu, ziyaretçilerin, çeşitli bitki türleri ve fauna ile karşılaşabilecekleri bir ortam sağlar. Bu bölgede, iklim conditions, ziyaretçilerin, mevsimsel değişimlere göre, farklı deneyimler yaşayabilecekleri bir yapıya sahiptir. Coğrafi olarak, milli park, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet olarak ziyaretçilerini karşılar. Milli parkın yüksekliği, deniz seviyesinden khong yüksek bir konumdate yer alır. Bu yükseklik, ziyaretçilerin, bölgenin doğal güzelliklerini, geniş bir perspektiften izleyebilecekleri bir noktada yer alır.
+Erzurum-Erzincan-Erzincan-Sarıçam milli parkı, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer alır. Milli parkın coğrafi konumu, ziyaretçilerin, çeşitli bitki türleri ve fauna ile karşılaşabilecekleri bir ortam sağlar. Bu bölgede, iklim conditions, ziyaretçilerin, mevsimsel değişimlere göre, farklı deneyimler yaşayabilecekleri bir yapıya sahiptir. Milli parkın yüksekliği, deniz seviyesinden khong yüksek bir konumdate yer alır. Bu yükseklik, ziyaretçilerin, bölgenin doğal güzelliklerini, geniş bir perspektiften izleyebilecekleri bir noktada yer alır.
 
 ## Flora ve Fauna
 

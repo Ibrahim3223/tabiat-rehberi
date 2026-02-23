@@ -1,7 +1,7 @@
 ---
 title: "İmam Caferi Sadık Tayyar Türbesi"
 date: "2026-01-10T05:00:58.849Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391538"
 
 # İmam Caferi Sadık Tayyar Türbesi
 
-İzmir'in Konak ilçesinde bulunan İmam Caferi Sadık Tayyar Türbesi, Ege Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. İmam Caferi Sadık Tayyar Türbesi, İmam Cafer-i Sâdık'ın torunlarından olan İmam Sadık Tayyar'ın mezarının bulunduğu bir türbe olarak biliniyor. Bu önemli dini merkez, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Çevresinde bulunan yeşillikler ve deniz manzarası, ziyaretçilere huzurlu bir ortam sunuyor.
+İzmir'in Konak ilçesinde bulunan İmam Caferi Sadık Tayyar Türbesi, Ege Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan. İmam Caferi Sadık Tayyar Türbesi, İmam Cafer-i Sâdık'ın torunlarından olan İmam Sadık Tayyar'ın mezarının bulunduğu bir türbe olarak biliniyor. Bu önemli dini merkez, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Çevresinde bulunan yeşillikler ve deniz manzarası, ziyaretçilere huzurlu bir ortam sunuyor.
 
 ## Tarihçe
 

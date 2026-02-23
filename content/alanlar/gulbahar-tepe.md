@@ -32,7 +32,7 @@ Gülbahar Tepe, Güneydoğu Anadolu Bölgesi'nde yer alan Kilis'in önemli turiz
 
 ## Tarihçe
 
-Gülbahar Tepe'nin tarihi geçmişi, Kilis'in genel tarihini yansıtmaktadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin hakimiyeti altında kalmış ve her bir medeniyet buraya kendi kültürel ve mimari izlerini bırakmıştır. Tarihçesirich bir geçmişe sahip olan Gülbahar Tepe, ziyaretçilere bu zengin tarihsel mirası keşfetme fırsatı sunmaktadır. Tepe ve çevresinde yapılan arkeolojik kazılar, bu bölgenin tarihinin derinliklerine ışık tutmaktadır. Bu kazılar esnasında ortaya çıkan tarihi eserler, bölgenin tarihsel önemini daha da vurgulamaktadır.
+Gülbahar Tepe'nin tarihi geçmişi, Kilis'in genel tarihini yansıtmaktadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin hakimiyeti altında kalmış ve her bir medeniyet buraya kendi kültürel ve mimari izlerini bırakmıştır. Tepe ve çevresinde yapılan arkeolojik kazılar, bu bölgenin tarihinin derinliklerine ışık tutmaktadır. Bu kazılar esnasında ortaya çıkan tarihi eserler, bölgenin tarihsel önemini daha da vurgulamaktadır.
 
 ## Coğrafya
 

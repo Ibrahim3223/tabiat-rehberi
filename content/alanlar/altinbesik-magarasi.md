@@ -23,7 +23,7 @@ wikidata_id: "Q108227120"
 
 # Altinbesik Magarasi
 
-Altinbesik Magarasi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu doğal güzelliğin büyüklüğü, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyülüyor. Bu mağaranın oluşumu, milyonlarca yıl önce gerçekleşmiş ve zamanla şekillenmiştir. Mağaranın girişi, ziyaretçilere geniş bir açıyla karşılayarak, içerideki zengin doğayı keşfetmek için davet ediyor.
+Altinbesik Magarasi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu doğal güzelliğin büyüklüğü, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu mağaranın oluşumu, milyonlarca yıl önce gerçekleşmiş ve zamanla şekillenmiştir. Mağaranın girişi, ziyaretçilere geniş bir açıyla karşılayarak, içerideki zengin doğayı keşfetmek için davet ediyor.
 
 ## Tarihçe
 

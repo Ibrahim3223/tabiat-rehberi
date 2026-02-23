@@ -1,7 +1,7 @@
 ---
 title: "Abdal Musa Tekkesi"
 date: "2026-01-10T05:58:29.216Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390496"
 
 # Abdal Musa Tekkesi
 
-Abdal Musa Tekkesi, Antalya'nın Elmalı ilçesinde yer alan tarihi ve doğal bir güzelliği bir arada sunan özel bir mekan. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tarihi geçmişi ve coğrafi konumuyla dikkat çeken Abdal Musa Tekkesi, ziyaretçilerini hem tarihi mirasla hem de doğal güzelliklerle buluşturuyor. Burada, yüzyıllar boyunca şekillenen bir kültürel ve doğal mirası keşfetme mümkün.
+Abdal Musa Tekkesi, Antalya'nın Elmalı ilçesinde yer alan tarihi ve doğal bir güzelliği bir arada sunan özel bir mekan. Tarihi geçmişi ve coğrafi konumuyla dikkat çeken Abdal Musa Tekkesi, ziyaretçilerini hem tarihi mirasla hem de doğal güzelliklerle buluşturuyor. Burada, yüzyıllar boyunca şekillenen bir kültürel ve doğal mirası keşfetme mümkün.
 
 ## Tarihçe
 

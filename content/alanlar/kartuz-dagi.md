@@ -33,7 +33,7 @@ Kartüz Dağı, Türkiye'nin doğal güzelliklerinin keşfedilmeyi bekleyen bir 
 
 ## Tarihçe
 
-Kartüz Dağı, Türkiye'nin zengin doğal mirasının bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin sâu sayfalarında da önemli bir role sahip. İç Anadolu Bölgesi'nde yer alan Kartüz Dağı, binlerce yıllık bir geçmişe tanıklık etmektedir. Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu coğrafya, tarih boyunca önemli ticaret yollarının kesişme noktası olarak hizmet vermiştir.
+Kartüz Dağı, Türkiye'nin zengin doğal mirasının bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin derin sayfalarında da önemli bir role sahip. İç Anadolu Bölgesi'nde yer alan Kartüz Dağı, binlerce yıllık bir geçmişe tanıklık etmektedir. Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu coğrafya, tarih boyunca önemli ticaret yollarının kesişme noktası olarak hizmet vermiştir.
 
 Doğal güzellikleri ve stratejik konumuyla, Kartüz Dağı ve benzeri alanlar, Türkiye'de insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde yer almıştır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin ekonomi ve kültürel yaşamının ayrılmaz bir parçasını oluşturmuştur. Ayrıca, tarihi İpek Yolu gibi önemli ticaret yolları, bu doğal güzelliklerin arasında geçmekteydi. Bu nedenle, Kartüz Dağı gibi doğal alanlar, sadece coğrafi olarak değil, aynı zamanda tarihsel ve kültürel olarak da büyük önem taşıyor.
 

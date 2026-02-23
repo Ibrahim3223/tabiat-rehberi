@@ -33,7 +33,7 @@ Sivas'ın coğrafi çeşitliliği, doğa severleri cezbeden birçok doğal güze
 
 ## Tarihçe
 
-Sivas bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alıyor. Bu bölge, Hitit, Roma ve Selçuklu gibi uygarlıkların izlerini taşıyan bir geçmişe sahip. "Büyük Göl" gibi doğal alanlar, bu bölgenin tarihsel zenginliğinin bir parçası olarak görülüyor.
+Sivas bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alıyor. Bu bölge, Hitit, Roma ve Selçuklu gibi uygarlıkların izlerini taşıyan bir geçmişe sahip. "Büyük Göl" gibi doğal alanlar, bu bölgenin tarihsel zenginliğinin bir parçası olarak görülüyor.
 
 Türkiye'de, özellikle İç Anadolu Bölgesi'nde bulunan bu tür göller ve doğal alanlar, insan yerleşimlerinin ve ticaret yollarının gelişiminde önemli bir rol oynamışlardır. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisine katkıda bulunmuştur. Ayrıca, bu doğal güzellikler, insanların yaşam alanı olarak da kullanılmıştır.
 

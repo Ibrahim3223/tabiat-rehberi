@@ -28,7 +28,7 @@ wikidata_id: "Q34828657"
 
 # Çavdar Tepesi
 
-Çavdar Tepesi, Denizli'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde ve tepesinde bulunan çeşitli bitki türleri, mevsimsel değişimlerle birlikte farklı renklerle donanıyor. Çavdar Tepesi, hem doğa tutkunları hem de fotoğraf sanatçıları için gerçek bir cennet olarak kabul ediliyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz.
+Çavdar Tepesi, Denizli'nin güzide noktalarından biri olarak karşımıza çıkıyor. Tepenin eteklerinde ve tepesinde bulunan çeşitli bitki türleri, mevsimsel değişimlerle birlikte farklı renklerle donanıyor. Çavdar Tepesi, hem doğa tutkunları hem de fotoğraf sanatçıları için gerçek bir cennet olarak kabul ediliyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz.
 
 ## Tarihçe
 

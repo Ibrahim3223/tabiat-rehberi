@@ -53,7 +53,7 @@ Ada, Marmaris Körfezi'nin önemli su kaynaklarına yakın bir konumda yer alıy
 
 Kameriye Adası, Muğla'nın kıyılarında bulunan bir ada ve 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu ada, zeytinlikler ve çam ormanları ile çevrili, Akdeniz ikliminin hakim olduğu bir bölge ekolojisine sahiptir.
 
-Bitki Örtüsü olarak, ada ilkbahar aylarında rengarenk çiçeklerle kaplanır, sonbaharda ise zeytin ağaçları olgun meyvelerini verir. Kıyı çizgisinde, tuzlu suya dayanıklı bitkiler bulunur. 
+Bitki Örtüsü olarak, ada ilkbahar aylarında rengarenk çiçeklerle kaplanır, sonbaharda ise zeytin ağaçları olgun meyvelerini verir. Kıyı çizgisinde, tuzlu suya dayanıklı bitkiler bulunur.
 
 Yaban Hayatı açısından, ada özellikle deniz kuşları için önemli bir üreme ve göç alanıdır. Ada, izole bir popülasyon olarak, benzersiz bir ekosistem sunar. Memeliler, sürüngenler ve çeşitli kuş türleri, bu ada ekosisteminin bir parçası olarak yaşam alanlarını paylaşır.
 

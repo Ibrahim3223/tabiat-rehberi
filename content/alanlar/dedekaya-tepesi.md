@@ -28,7 +28,7 @@ wikidata_id: "Q31390071"
 
 # Dedekaya Tepesi
 
-Dedekaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar. Dedekaya Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve ulaşımı oldukça kolaydır. Tepenin etrafında çeşitli bitki türleri bulunur ve zengin fauna ile dikkat çeker. Dedekaya Tepesi, Ankara'nın önemli doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçilerini bekliyor.
+Dedekaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Dedekaya Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve ulaşımı oldukça kolaydır. Tepenin etrafında çeşitli bitki türleri bulunur ve zengin fauna ile dikkat çeker. Dedekaya Tepesi, Ankara'nın önemli doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Dedekaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır. Bu bölge, co�
 
 ## Flora ve Fauna
 
-Dedekaya Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin etrafında bulunan bitkiler, mevsimsel değişimlere göre farklılık gösterir. Bu bölge, ziyaretçilerin doğal güzellikleri keşfetmesine olanak sağlar. Dedekaya Tepesi'nin flora ve fauna zenginliği, Ankara'nın doğal güzelliklerinin bir parçası olarak kabul edilir. Bu tepe, Ankara'nın önemli doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Dedekaya Tepesi, ziyaretçilerin doğal güzelliklerini keşfetmelerine olanak tanıyan bir alandır.
+ Tepenin etrafında bulunan bitkiler, mevsimsel değişimlere göre farklılık gösterir. Bu bölge, ziyaretçilerin doğal güzellikleri keşfetmesine olanak sağlar. Dedekaya Tepesi'nin flora ve fauna zenginliği, Ankara'nın doğal güzelliklerinin bir parçası olarak kabul edilir. Bu tepe, Ankara'nın önemli doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Dedekaya Tepesi, ziyaretçilerin doğal güzelliklerini keşfetmelerine olanak tanıyan bir alandır.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,6 @@ Dedekaya Tepesi'ni ziyaret etmek isteyenler, Ankara'nın merkezine yakın bir ko
 ## İlginç Bilgiler
 
 - Dedekaya Tepesi, Ankara'nın doğal güzelliklerinden biri olarak kabul edilir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
-- Dedekaya Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Tepenin etrafında bulunan bitkiler, mevsimsel değişimlere göre farklılık gösterir.
 - Dedekaya Tepesi, Ankara'nın panoramik manzarasını izlemeye olanak tanır.

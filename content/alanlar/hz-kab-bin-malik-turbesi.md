@@ -1,7 +1,7 @@
 ---
 title: "Hz. Kab Bin Malik Türbesi"
 date: "2026-01-10T07:16:16.604Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390975"
 
 # Hz. Kab Bin Malik Türbesi
 
-Eyüpsultan'da yer alan Hz. Kab Bin Malik Türbesi, İstanbul'un önemli dinî ve tarihi mekanlarından biridir. Bu tarihi türbe, Marmara Bölgesi'nde bulunan İstanbul'un zengin kültürel mirasının bir parçasıdır. 140 hektarlık bir alan içinde yer almasa da, çevresindeki yeşil alanlar ve tarihi yapılar ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir bölgede ziyaretçilerini ağırlamaktadır. Hz. Kab Bin Malik Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir diğer önemli tarihi mekan olan Eyüp Sultan Camii'ne de yakındır. Bu iki önemli mekan, birlikte İstanbul'un dinî ve kültürel zenginliğini yansıtan önemli bir gezi noktası oluşturmaktadır.
+Eyüpsultan'da yer alan Hz. Kab Bin Malik Türbesi, İstanbul'un önemli dinî ve tarihi mekanlarından biridir. Bu tarihi türbe, Marmara Bölgesi'nde bulunan İstanbul'un zengin kültürel mirasının bir parçasıdır. Hz. Kab Bin Malik Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir diğer önemli tarihi mekan olan Eyüp Sultan Camii'ne de yakındır. Bu iki önemli mekan, birlikte İstanbul'un dinî ve kültürel zenginliğini yansıtan önemli bir gezi noktası oluşturmaktadır.
 
 ## Tarihçe
 

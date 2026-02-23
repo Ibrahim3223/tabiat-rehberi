@@ -28,7 +28,7 @@ wikidata_id: "Q31509841"
 
 # Nifkarlığı Tepesi
 
-Nifkarlığı Tepesi, İzmir'in Ege Bölgesi'nde yer alan doğal güzelliklerinden biridir. Bu bölge, yaklaşık 140 hektarlık bir alan kaplar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu, bölgeye zengin bir flora katkısı sağlar. Nifkarlığı Tepesi, hem doğa severlerin hem de ιστοri meraklılarının ilgisini çeker. Bu tepe, İzmir'in önemli doğal alanlarından biri olarak kabul edilir ve çeşitli etkinliklere ev sahipliği yapar.
+Nifkarlığı Tepesi, İzmir'in Ege Bölgesi'nde yer alan doğal güzelliklerinden biridir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu, bölgeye zengin bir flora katkısı sağlar. Nifkarlığı Tepesi, hem doğa severlerin hem de ιστοri meraklılarının ilgisini çeker. Bu tepe, İzmir'in önemli doğal alanlarından biri olarak kabul edilir ve çeşitli etkinliklere ev sahipliği yapar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Nifkarlığı Tepesi'nin tarihi geçmişi oldukça zengindir. Yüzyıllar boyunc
 
 ## Coğrafya
 
-Nifkarlığı Tepesi, İzmir'in Ege Bölgesi'nde yer alır. Bu tepe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu, bölgeye zengin bir flora katkısı sağlar. Nifkarlığı Tepesi'nin coğrafi yapısı, ziyaretçilerine farklı manzaralar sunar. Tepenin zirvesinden, Ege Bölgesi'nin geniş bir bölümü görülebilir. Nifkarlığı Tepesi, aynı zamanda zengin fauna çeşitliliğine sahiptir. Bu tepe, İzmir'in önemli doğal alanlarından biri olarak kabul edilir ve çeşitli etkinliklere ev sahipliği yapar. Nifkarlığı Tepesi'nin iklimi, Ege Bölgesi'nin genel iklimine benzer. Bu bölge, yazları sıcak ve kuru, kışları ılık ve yağışlı bir iklime sahiptir. Nifkarlığı Tepesi, ziyaretçilerine doğanın güzelliği ve tarihin depthsine davet eder.
+Nifkarlığı Tepesi, İzmir'in Ege Bölgesi'nde yer alır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu, bölgeye zengin bir flora katkısı sağlar. Nifkarlığı Tepesi'nin coğrafi yapısı, ziyaretçilerine farklı manzaralar sunar. Tepenin zirvesinden, Ege Bölgesi'nin geniş bir bölümü görülebilir. Nifkarlığı Tepesi, aynı zamanda zengin fauna çeşitliliğine sahiptir. Bu tepe, İzmir'in önemli doğal alanlarından biri olarak kabul edilir ve çeşitli etkinliklere ev sahipliği yapar. Nifkarlığı Tepesi'nin iklimi, Ege Bölgesi'nin genel iklimine benzer. Bu bölge, yazları sıcak ve kuru, kışları ılık ve yağışlı bir iklime sahiptir. Nifkarlığı Tepesi, ziyaretçilerine doğanın güzelliği ve tarihin depthsine davet eder.
 
 ## Flora ve Fauna
 

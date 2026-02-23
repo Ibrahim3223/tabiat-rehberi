@@ -28,7 +28,7 @@ wikidata_id: "Q31386766"
 
 # Kagnimelezıbıt Tepesi
 
-Diyarbakır'ın históri ve coğrafi güzellikleri arasında yer alan Kagnimelezıbıt Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve bölgeye hakim bir konumda bulunuyor. Kagnimelezıbıt Tepesi, Diyarbakır'ın tarihî ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımakta.
+Diyarbakır'ın tarihi ve coğrafi güzellikleri arasında yer alan Kagnimelezıbıt Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor. Kagnimelezıbıt Tepesi, Diyarbakır'ın tarihî ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımakta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kagnimelezıbıt Tepesi, Diyarbakır'ın tarihî geçmişinde önemli bir rol oy
 
 ## Coğrafya
 
-Kagnimelezıbıt Tepesi, Diyarbakır'ın coğrafi güzellikleri arasında yer alan bir bölgedir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve bölgeye hakim bir konumda bulunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşımakta. Kagnimelezıbıt Tepesi, coğrafi güzellikleri ve tarihi önemi ile ziyaretçilerini büyülemektedir. Tepenin manzarası, çevredeki dağları, ovaları ve nehirleri içine almakta ve ziyaretçilere geniş bir perspektif sunmakta.
+Kagnimelezıbıt Tepesi, Diyarbakır'ın coğrafi güzellikleri arasında yer alan bir bölgedir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşımakta. Kagnimelezıbıt Tepesi, coğrafi güzellikleri ve tarihi önemi ile ziyaretçilerini büyülemektedir. Tepenin manzarası, çevredeki dağları, ovaları ve nehirleri içine almakta ve ziyaretçilere geniş bir perspektif sunmakta.
 
 ## Flora ve Fauna
 

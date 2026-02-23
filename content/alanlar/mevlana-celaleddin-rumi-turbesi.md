@@ -1,7 +1,7 @@
 ---
 title: "Mevlana Celaleddin Rumi Türbesi"
 date: "2026-01-10T06:55:38.467Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390886"
 
 # Mevlana Celaleddin Rumi Türbesi
 
-Mevlana Celaleddin Rumi Türbesi, Konya'nın Karatay ilçesinde yer alan, Türk tasavvufunun en önemli figürlerinden biri olan Mevlana Celaleddin Rumi'nin huzuruna ulaştıran bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir alan sunuyor. Mevlana'nın öğretileri, bu türbenin duvarlarında, tavanlarında ve her köşesinde hissediliyor. Türbenin mimarisi, Selçuklu dönemi özellikleri taşıyor ve bu dönemin en önemli eserlerinden biri olarak kabul ediliyor. Mevlana Celaleddin Rumi Türbesi, her yıl binlerce ziyaretçiyi ağırlıyor ve Türk kültürünün önemli bir parçasını oluşturuyor.
+Mevlana Celaleddin Rumi Türbesi, Konya'nın Karatay ilçesinde yer alan, Türk tasavvufunun en önemli figürlerinden biri olan Mevlana Celaleddin Rumi'nin huzuruna ulaştıran bir mekan. Mevlana'nın öğretileri, bu türbenin duvarlarında, tavanlarında ve her köşesinde hissediliyor. Türbenin mimarisi, Selçuklu dönemi özellikleri taşıyor ve bu dönemin en önemli eserlerinden biri olarak kabul ediliyor. Mevlana Celaleddin Rumi Türbesi, her yıl binlerce ziyaretçiyi ağırlıyor ve Türk kültürünün önemli bir parçasını oluşturuyor.
 
 ## Tarihçe
 

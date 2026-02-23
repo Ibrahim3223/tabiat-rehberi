@@ -28,7 +28,7 @@ wikidata_id: "Q34816696"
 
 # Uzunçam Tepesi
 
-Uzunçam Tepesi, Karabük'ün en yüksek noktalarından biri olarak dikkat çekiyor. Yaklaşık 140 hektarlık yeşil alanıyla, bu bölge yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Tepenin yüksekliği ve genişliği, burayı bir doğa cenneti haline getiriyor. Üstelik, Uzunçam Tepesi'nin manzarası, Karadeniz Bölgesi'nin güzelliğini gözler önüne seriyor. Ziyaretçiler, bu tepeye çıkarak Karabük'ün panoramik viewünü izleme fırsatı buluyor.
+Uzunçam Tepesi, Karabük'ün en yüksek noktalarından biri olarak dikkat çekiyor. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Tepenin yüksekliği ve genişliği, burayı bir doğa cenneti haline getiriyor. Üstelik, Uzunçam Tepesi'nin manzarası, Karadeniz Bölgesi'nin güzelliğini gözler önüne seriyor. Ziyaretçiler, bu tepeye çıkarak Karabük'ün panoramik viewünü izleme fırsatı buluyor.
 
 ## Tarihçe
 

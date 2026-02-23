@@ -55,9 +55,9 @@ Mevsimsel değişiklikler, Kars Ziyaret Dağı'nın iklim karakterini beliriyor.
 
 Kars Ziyaret Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Yükseklik zonları, alpin flora ve dağ hayvanları ile birlikte, bu dağ ekosistemi yıl boyunca farklı bir güzelliğe bürünür.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Alpin çayırlar, yüksek dağ ekolojisinin karakteristik özelliklerinden biridir. Bu çayırlarda, çeşitli yüksekliklerde yetişen bitkiler, mevsimsel değişimlere uyum sağlar. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Alpin çayırlar, yüksek dağ ekolojisinin karakteristik özelliklerinden biridir. Bu çayırlarda, çeşitli yüksekliklerde yetişen bitkiler, mevsimsel değişimlere uyum sağlar.
 
-Dağın yaban hayatı da oldukça zengin. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin bir parçası. Göç eden kuşlar, sonbaharda dağdan geçerken, bu bölgeye renk katar. Dağ keçileri, dağların yüksekliklerine uyum sağlamış, güçlü hayvanlardır. 
+Dağın yaban hayatı da oldukça zengin. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin bir parçası. Göç eden kuşlar, sonbaharda dağdan geçerken, bu bölgeye renk katar. Dağ keçileri, dağların yüksekliklerine uyum sağlamış, güçlü hayvanlardır.
 
 Kars Ziyaret Dağı, yüksek dağ ekolojisinin korunması açısından önemli bir bölgedir. Bu dağ ekosisteminin korunması, sadece bu bölgeye özgü türlerin değil, tüm yüksek dağ ekosisteminin korunması için önemlidir.
 

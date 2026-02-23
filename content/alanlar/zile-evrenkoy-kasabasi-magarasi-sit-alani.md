@@ -22,7 +22,7 @@ wikidata_id: "Q108226181"
 
 # Zile Evrenköy Kasabası Mağarası Sit Alanı
 
-İç Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasının bir parçası olan Zile Evrenköy Kasabası Mağarası Sit Alanı, ziyaretçilerini doğanın içinden geçen bir yolculuğa davet ediyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin eşsiz coğrafyasını keşfetmek için ideal bir yer. Zile Evrenköy Kasabası Mağarası Sit Alanı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir destinasyon.
+İç Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasının bir parçası olan Zile Evrenköy Kasabası Mağarası Sit Alanı, ziyaretçilerini doğanın içinden geçen bir yolculuğa davet ediyor. Zile Evrenköy Kasabası Mağarası Sit Alanı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir destinasyon.
 
 ## Tarihçe
 

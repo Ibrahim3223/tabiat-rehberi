@@ -50,9 +50,9 @@ Doğal kaynaklar açısından, Atlık Dağı'nın çevresi genellikle verimli ov
 
 ## Flora ve Fauna
 
-Atlık Dağı, Kahramanmaraş'ın gizli bir doğa harikasıdır. Bu dağ ekosisteminde, maki bitki örtüsü hakimdir ve kuraklığa dayanıklı türler, yükseklik zonlarına bağlı olarak değişen bir manzarayı oluşturur. İlkbaharın başlangıcında, dağ yamaçları rengarenk çiçeklerle donanır. 
+Atlık Dağı, Kahramanmaraş'ın gizli bir doğa harikasıdır. Bu dağ ekosisteminde, maki bitki örtüsü hakimdir ve kuraklığa dayanıklı türler, yükseklik zonlarına bağlı olarak değişen bir manzarayı oluşturur. İlkbaharın başlangıcında, dağ yamaçları rengarenk çiçeklerle donanır.
 
-Yaban hayatı, dağın yükseklik zonlarına bağlı olarak çeşitlilik gösterir. Dağ keçileri ve yaban domuzları gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri mevsimsel olarak göç eder. Sürüngenler ve diğer küçük hayvanlar, dağların kura ve kayalık bölgelerinde yaşarlar. 
+Yaban hayatı, dağın yükseklik zonlarına bağlı olarak çeşitlilik gösterir. Dağ keçileri ve yaban domuzları gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri mevsimsel olarak göç eder. Sürüngenler ve diğer küçük hayvanlar, dağların kura ve kayalık bölgelerinde yaşarlar.
 
 Atlık Dağı'nın ekolojik değeri, bölge için hayati önem taşır. Bu dağ ekosistemi, su kaynaklarının korunmasına katkıda bulunur ve yerel fauna için bir yaşam alanı sağlar. Koruma durumu, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemlidir.
 

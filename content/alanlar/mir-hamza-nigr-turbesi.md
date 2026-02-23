@@ -1,7 +1,7 @@
 ---
 title: "Mir Hamza Nigârî Türbesi"
 date: "2026-01-10T05:03:27.918Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391464"
 
 # Mir Hamza Nigârî Türbesi
 
-Mir Hamza Nigârî Türbesi, Amasya'nın zengin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir noktadır. Bu tarihi mekan, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şehrin kalbinde yer alan türbe, ziyaretçilerini geçmişe götürerek, tarihi ve kültürel bir yolculuğa çıkarır. Mir Hamza Nigârî Türbesi, sadece bir tarihi yapı değil, aynı zamanda bir kültür mirasıdır. Ziyaretçiler, bu özel mekanda, geçmişin izlerini taşır ve günümüze ulaşan önemli bir tarihi eser olarak kabul edilir.
+Mir Hamza Nigârî Türbesi, Amasya'nın zengin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir noktadır. Şehrin kalbinde yer alan türbe, ziyaretçilerini geçmişe götürerek, tarihi ve kültürel bir yolculuğa çıkarır. Mir Hamza Nigârî Türbesi, sadece bir tarihi yapı değil, aynı zamanda bir kültür mirasıdır. Ziyaretçiler, bu özel mekanda, geçmişin izlerini taşır ve günümüze ulaşan önemli bir tarihi eser olarak kabul edilir.
 
 ## Tarihçe
 

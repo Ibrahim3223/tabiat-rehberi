@@ -1,7 +1,7 @@
 ---
 title: "Cahit Külebi Anıt Mezarı, Niksar"
 date: "2026-01-10T03:39:47.860Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728093"
 
 # Cahit Külebi Anıt Mezarı, Niksar
 
-Cahit Külebi Anıt Mezarı, Niksar ilçesinde yer alan ve Türk edebiyatının önemli isimlerinden Cahit Külebi'nin anısına dngülmüştür. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunmaktadır. Anıt mezar, Niksar'ın tarihi ve kültürel zenginliklerinin bir parçasmı ve edebiyatseverler için önemli bir çekim noktasıdır. Cahit Külebi'nin hayatı ve eserleri, Türk edebiyatında önemli bir yere sahiptir ve bu anıt mezar, onun anısını yaşatmaktadır.
+Cahit Külebi Anıt Mezarı, Niksar ilçesinde yer alan ve Türk edebiyatının önemli isimlerinden Cahit Külebi'nin anısına dngülmüştür. Anıt mezar, Niksar'ın tarihi ve kültürel zenginliklerinin bir parçasmı ve edebiyatseverler için önemli bir çekim noktasıdır. Cahit Külebi'nin hayatı ve eserleri, Türk edebiyatında önemli bir yere sahiptir ve bu anıt mezar, onun anısını yaşatmaktadır.
 
 ## Tarihçe
 

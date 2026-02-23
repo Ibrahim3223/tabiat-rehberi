@@ -32,7 +32,7 @@ Hatay'ın zengin tarihi ve kültürel mirasının yanı sıra, Kölemezdağı da
 
 ## Tarihçe
 
-Hatay bölgesinin tarihi, binlerce yıl öncesine dayanan zengin bir geçmişe sahiptir. Bölge, tarih boyunca birçok uygarlığa ev sahipliği yapmış ve önemli ticaret yollarının kesişme noktası olmuştur. Hitit, Roma ve Bizans gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. 
+Hatay bölgesinin tarihi, binlerce yıl öncesine dayanan zengin bir geçmişe sahiptir. Bölge, tarih boyunca birçok uygarlığa ev sahipliği yapmış ve önemli ticaret yollarının kesişme noktası olmuştur. Hitit, Roma ve Bizans gibi medeniyetler, bu topraklarda izlerini bırakmışlardır.
 
 Kölemezdağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Bu alanlar, insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlamıştır. Yaylacılık, hayvancılık ve tarım, bu bölgede yaşayan insanların temel faaliyetleri arasındadır. Ayrıca, tarihi İpek Yolu ve diğer ticaret yolları, bu bölge üzerinden geçerek, kültürel ve ekonomik alışverişlerin gerçekleşmesine olanak sağlamıştır.
 
@@ -50,9 +50,9 @@ Bölgenin çevresel ilişkileri, su kaynakları ve ekosistem bağlantıları aç
 
 ## Flora ve Fauna
 
-Kölemezdağı'nın flora ve fauna bakımından zengin bir dünya sunuyor. 
-Bitki Örtüsü olarak maki türleri hakimdir. İlkbaharla birlikte dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında kuraklığa dayanıklı türler ön plana çıkıyor. 
-Yaban Hayatı açısından bakıldığında, dağ keçileri, tilkiler ve çeşitli kuş türleri bu dağların sakinleri. Sonbaharda göç eden kuş sürüleri, Kölemezdağı'nın gökyüzünü renklendiriyor. 
+Kölemezdağı'nın flora ve fauna bakımından zengin bir dünya sunuyor.
+Bitki Örtüsü olarak maki türleri hakimdir. İlkbaharla birlikte dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında kuraklığa dayanıklı türler ön plana çıkıyor.
+Yaban Hayatı açısından bakıldığında, dağ keçileri, tilkiler ve çeşitli kuş türleri bu dağların sakinleri. Sonbaharda göç eden kuş sürüleri, Kölemezdağı'nın gökyüzünü renklendiriyor.
 Ekolojik Değer olarak, bu dağ ekosistemi, yükseklik zonlarına bağlı olarak değişen alpin flora ve fauna ile dikkat çekiyor. Bu bölge, birçok canlı türünün yaşam alanı ve geçiş noktası olarak önemli bir rol oynuyor. Koruma altına alınması, bu zengin ekosistemin sürekliliğiçin büyük önem taşıyor.
 
 ## Ziyaret Bilgileri

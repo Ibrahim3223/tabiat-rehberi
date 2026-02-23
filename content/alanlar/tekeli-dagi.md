@@ -33,7 +33,7 @@ Mersin'in yeşil örtüsünü taçlandıran Tekeli Dağı, bölgenin en önemli 
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu köklerine uzanan bir coğrafyadır. Bu bölgede, Tekeli Dağı'nın eteklerinde, Hitit, Roma ve Bizans uygarlıkları gibi birçok medeniyet yaşamıştır. Mersin'in stratejik konumu, önemli ticaret yollarının kesişme noktasında bulunması, bu bölgenin tarihsel öneminin artmasını sağlamıştır.
+Mersin bölgesi, tarihin derin köklerine uzanan bir coğrafyadır. Bu bölgede, Tekeli Dağı'nın eteklerinde, Hitit, Roma ve Bizans uygarlıkları gibi birçok medeniyet yaşamıştır. Mersin'in stratejik konumu, önemli ticaret yollarının kesişme noktasında bulunması, bu bölgenin tarihsel öneminin artmasını sağlamıştır.
 
 Doğal güzellikleri ve verimli toprakları ile Mersin, insanların yerleşimine ve ekonomik faaliyetlere elverişli bir ortam sunmuştur. Yayla ve otlakların bolluğu, bölgede hayvancılığın gelişmesine katkıda bulunmuştur. İnsanların bu doğal alanlarla ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda kültürel ve sosyal yaşantılarını da etkilemiştir. Yaylacılık ve hayvan otlatma, bölgenin geleneksel yaşam tarzı olmuştur.
 

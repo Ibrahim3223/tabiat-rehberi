@@ -22,7 +22,7 @@ wikidata_id: "Q108227584"
 
 # Artvin-Ortakoy Dogu Karadeniz Goknari
 
-Artvin-Ortakoy Dogu Karadeniz Goknari, Karadeniz Bölgesi'nin doğa harikalarından biri olarak ziyaretçilerini ağırlıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Doğal güzelliği, zengin flora ve fauna çeşitliliği ile dikkat çeken bu milli park, doğa severlerin keyifli bir gün geçirmesine olanak sağlıyor. Gökkuşağı gibi renklerle bezeli çiçekler, yüksek dağlar ve serin ormanlar, bu bölgeyi ziyaret etmek için yeterli neden.
+Artvin-Ortakoy Dogu Karadeniz Goknari, Karadeniz Bölgesi'nin doğa harikalarından biri olarak ziyaretçilerini ağırlıyor. Doğal güzelliği, zengin flora ve fauna çeşitliliği ile dikkat çeken bu milli park, doğa severlerin keyifli bir gün geçirmesine olanak sağlıyor. Gökkuşağı gibi renklerle bezeli çiçekler, yüksek dağlar ve serin ormanlar, bu bölgeyi ziyaret etmek için yeterli neden.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Artvin-Ortakoy Dogu Karadeniz Goknari'nin tarihi geçmişi, yüzyıllar önceye 
 
 ## Coğrafya
 
-Artvin-Ortakoy Dogu Karadeniz Goknari, Karadeniz Bölgesi'nin kuzeydoğusunda yer alan bir milli parktır. Bu bölge, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Bölgenin coğrafi yapısı, yüksek dağlar, serin ormanlar ve doğal güzellikler ile karakterizedir. Bu bölge, Karadeniz Bölgesi'nin iklimine uygun olarak, serin ve yağışlı bir iklime sahiptir. Bölgenin yüksekliği, yüksek bir konumda olup, bu yükseklik, bölgenin iklimini ve doğal güzelliklerini etkilemektedir. Bölgenin coğrafi yapısı, ziyaretçilere doğa yürüyüşü, kamp ve diğer outdoor aktiviteler için uygun bir ortam sağlar.
+Artvin-Ortakoy Dogu Karadeniz Goknari, Karadeniz Bölgesi'nin kuzeydoğusunda yer alan bir milli parktır. Bölgenin coğrafi yapısı, yüksek dağlar, serin ormanlar ve doğal güzellikler ile karakterizedir. Bu bölge, Karadeniz Bölgesi'nin iklimine uygun olarak, serin ve yağışlı bir iklime sahiptir. Bölgenin yüksekliği, yüksek bir konumda olup, bu yükseklik, bölgenin iklimini ve doğal güzelliklerini etkilemektedir. Bölgenin coğrafi yapısı, ziyaretçilere doğa yürüyüşü, kamp ve diğer outdoor aktiviteler için uygun bir ortam sağlar.
 
 ## Flora ve Fauna
 

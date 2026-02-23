@@ -1,7 +1,7 @@
 ---
 title: "Şeytan Hamamı, Foça"
 date: "2026-01-10T00:02:29.744Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728101"
 
 # Şeytan Hamamı, Foça
 
-Foça'da yer alan Şeytan Hamamı, İzmir'in en güzel ve gizli cennetlerinden biri olarak dikkat çekiyor. Bu doğal güzellik, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Şeytan Hamamı, Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Doğal güzelliği, tarihi geçmişi ve ziyaretçilere sunduğu olanaklarla, Şeytan Hamamı her yıl binlerce turisti ağırlıyor.
+Foça'da yer alan Şeytan Hamamı, İzmir'in en güzel ve gizli cennetlerinden biri olarak dikkat çekiyor. Bu doğal güzellik, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Şeytan Hamamı, Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Doğal güzelliği, tarihi geçmişi ve ziyaretçilere sunduğu olanaklarla, Şeytan Hamamı her yıl binlerce turisti ağırlıyor.
 
 ## Tarihçe
 

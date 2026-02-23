@@ -33,9 +33,9 @@ Diyarbakır'ın tarihi ve kültürel zenginliklerinin arasında yer alan Aktepe 
 
 ## Tarihçe
 
-Diyarbakır bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarihin çeşitli dönemlerinde birçok uygarlığa ev sahipliği yapmıştır. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, Diyarbakır'ı stratejik konumu nedeniyle önemli bir merkez olarak değerlendirmişlerdir. 
+Diyarbakır bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarihin çeşitli dönemlerinde birçok uygarlığa ev sahipliği yapmıştır. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, Diyarbakır'ı stratejik konumu nedeniyle önemli bir merkez olarak değerlendirmişlerdir.
 
-Aktepe Dağı gibi doğal alanlar, bu bölgede yaşayan halkların hayatında önemli bir yer tutmuştur. Yaylacılık ve hayvancılık, bölgenin coğrafi koşullarına bağlı olarak gelişen geleneksel faaliyetler arasındadır. Ayrıca, tarihsel ticaret yollarının da bu bölge üzerinden geçmesi, doğal alanların insanların yaşamında ne kadar merkezi bir rol oynadığını göstermektedir. 
+Aktepe Dağı gibi doğal alanlar, bu bölgede yaşayan halkların hayatında önemli bir yer tutmuştur. Yaylacılık ve hayvancılık, bölgenin coğrafi koşullarına bağlı olarak gelişen geleneksel faaliyetler arasındadır. Ayrıca, tarihsel ticaret yollarının da bu bölge üzerinden geçmesi, doğal alanların insanların yaşamında ne kadar merkezi bir rol oynadığını göstermektedir.
 
 Türkiye'de, tarih boyunca insanların doğal alanlarla ilişkisi çok önemli olmuştur. Bu alanlar, sadece ekonomik faaliyetler için değil, aynı zamanda kültürel ve sosyal hayatın bir parçası olarak görülmüştür. İnsanların doğayla iç içe yaşayan bir toplum oluşturmaları, bu doğal alanların korunması ve sürdürülebilir kullanımı açısından kritik bir önem taşımaktadır.
 
@@ -67,5 +67,5 @@ Aktepe Dağı, Diyarbakır'ın doğal güzelliklerini keşfetmek isteyenler içi
 - Aktepe dağının zirvesi 1145 metre yüksekliktedir.
 - Diyarbakır'ın coğrafi yapısını oluşturan Güneydoğu Toroslar dağ sırasının bir parçasıdır.
 - Aktepe ve çevresinde yapılan arkeolojik kazılar, bölgenin tarih öncesi dönemlerden beri yerleşim alanı olduğunu göstermektedir.
-- Aktepe'nin eteklerinde yer alan histórik yapılardan biri, 12. yüzyılda inşa edilen Harput Kalesi'dir.
+- Aktepe'nin eteklerinde yer alan tarihi yapılardan biri, 12. yüzyılda inşa edilen Harput Kalesi'dir.
 - Aktepe, flora ve fauna açısından zengin bir alandır ve bölgede çeşitli bitki ve hayvan türleri bulunmaktadır.

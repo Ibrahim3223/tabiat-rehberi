@@ -22,7 +22,7 @@ wikidata_id: "Q108227423"
 
 # Izmir-Bergama Kızılçam
 
-İzmir-Bergama Kızılçam milli parkı, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin flora ile fauna çeşitliliğine sahiptir. Bu alan, doğa severlerin ve turistlerin ziyaret ettiği önemli bir merkezdir. İzmir'in Bergama ilçesinde bulunan milli park, aynı zamanda bölgenin tarihi ve kültürel değerlerini de barındırmaktadır. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini çekmektedir.
+İzmir-Bergama Kızılçam milli parkı, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu alan, doğa severlerin ve turistlerin ziyaret ettiği önemli bir merkezdir. İzmir'in Bergama ilçesinde bulunan milli park, aynı zamanda bölgenin tarihi ve kültürel değerlerini de barındırmaktadır. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini çekmektedir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Eskici Baba Türbesi"
 date: "2026-01-10T06:29:49.960Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,11 +30,11 @@ wikidata_id: "Q131390735"
 
 # Eskici Baba Türbesi
 
-Eskici Baba Türbesi, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Osmangazi/Bursa'da bulunan bu plaj, bölgeye gelen ziyaretçilerin keyifli anlar geçirmesine olanak sağlar. Güneşin altın ışıkları ile aydınlanan kumsalları ve çevredeki yeşillikler, ziyaretçilere huzurlu bir atmosfer sunar. Ayrıca, bu bölgede yapılan yürüyüşler ve doğa gezileri, ziyaretçilere bölgeyi daha iyi tanıma fırsatı verir.
+Eskici Baba Türbesi, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir. Osmangazi/Bursa'da bulunan bu plaj, bölgeye gelen ziyaretçilerin keyifli anlar geçirmesine olanak sağlar. Güneşin altın ışıkları ile aydınlanan kumsalları ve çevredeki yeşillikler, ziyaretçilere huzurlu bir atmosfer sunar. Ayrıca, bu bölgede yapılan yürüyüşler ve doğa gezileri, ziyaretçilere bölgeyi daha iyi tanıma fırsatı verir.
 
 ## Tarihçe
 
-Eskici Baba Türbesi'nin tarihi geçmişi, bölgenin önemli bir kültürel mirası olarak kabul edilir. Bu tarihin derinliklerine inildiğinde, buranın yüzyıllar boyunca önemli bir dini merkez olarak kullanıldığı görülür. Ayrıca, bu bölgede yapılan kazılar ve araştırmalar, buranın histórik önemini daha da vurgular. Ancak, buranın tam olarak ne zaman ve kimler tarafından kurulduğu bilinmemektedir. Buna rağmen, Eskici Baba Türbesi, ziyaretçilere bölge hakkında değerli bilgiler sunar ve tarihi açıdan önemli bir ziyaret noktası olarak kabul edilir. Bu türbenin hikayesi, bölgenin kültürel zenginliğini ve tarihi derinliğini yansıtan önemli bir öğedir.
+Eskici Baba Türbesi'nin tarihi geçmişi, bölgenin önemli bir kültürel mirası olarak kabul edilir. Bu tarihin derinliklerine inildiğinde, buranın yüzyıllar boyunca önemli bir dini merkez olarak kullanıldığı görülür. Ayrıca, bu bölgede yapılan kazılar ve araştırmalar, buranın tarihi önemini daha da vurgular. Ancak, buranın tam olarak ne zaman ve kimler tarafından kurulduğu bilinmemektedir. Buna rağmen, Eskici Baba Türbesi, ziyaretçilere bölge hakkında değerli bilgiler sunar ve tarihi açıdan önemli bir ziyaret noktası olarak kabul edilir. Bu türbenin hikayesi, bölgenin kültürel zenginliğini ve tarihi derinliğini yansıtan önemli bir öğedir.
 
 ## Coğrafya
 

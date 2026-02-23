@@ -28,7 +28,7 @@ wikidata_id: "Q31388889"
 
 # Atyolu Tepe
 
-Atyolu Tepe, Marmara Bölgesi'nin Kırklareli ilinde bulunan bir tepe. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Atyolu Tepe'nin yüksekliği ve genişliği, burayı bir doğa harikasına dönüştürüyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerini bekliyor. Atyolu Tepe, aynı zamanda tarihsel öneme sahip bir bölge. Burada, tarihi geçmişi yansıtan çeşitli kalıntılar ve eserler bulunduruyor. Atyolu Tepe, ziyaretçilerine hem doğa hem de tarih açısından zengin bir deneyim sunuyor.
+Atyolu Tepe, Marmara Bölgesi'nin Kırklareli ilinde bulunan bir tepe. Atyolu Tepe'nin yüksekliği ve genişliği, burayı bir doğa harikasına dönüştürüyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerini bekliyor. Atyolu Tepe, aynı zamanda tarihsel öneme sahip bir bölge. Burada, tarihi geçmişi yansıtan çeşitli kalıntılar ve eserler bulunduruyor. Atyolu Tepe, ziyaretçilerine hem doğa hem de tarih açısından zengin bir deneyim sunuyor.
 
 ## Tarihçe
 

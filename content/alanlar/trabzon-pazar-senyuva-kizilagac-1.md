@@ -22,7 +22,7 @@ wikidata_id: "Q108227752"
 
 # Trabzon-Pazar-Senyuva Kizilagac 1
 
-Trabzon-Pazar-Senyuva Kizilagac 1 milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden birini oluşturur. Bu milli park, doğa severler için bir cennet olup, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbeder. Trabzon-Pazar-Senyuva Kizilagac 1 milli parkı, aynı zamanda bölgenin tarihi geçmişi ile de dikkat çeker ve ziyaretçilere hem doğayı hem de kültürel mirası keşfetme fırsatı sunar.
+Trabzon-Pazar-Senyuva Kizilagac 1 milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu milli park, doğa severler için bir cennet olup, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbeder. Trabzon-Pazar-Senyuva Kizilagac 1 milli parkı, aynı zamanda bölgenin tarihi geçmişi ile de dikkat çeker ve ziyaretçilere hem doğayı hem de kültürel mirası keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Trabzon-Pazar-Senyuva Kizilagac 1 milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Trabzon-Pazar-Senyuva Kizilagac 1 milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Milli park, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alanda, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Milli parkın coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir ve bu nedenle, bölgenin iklimi de oldukça değişken olabilir. Milli parkın konumu, Karadeniz Bölgesi'nin merkezi bir yerinde olup, ulaşımı da oldukça kolaydır. Trabzon-Pazar-Senyuva Kizilagac 1 milli parkı, aynı zamanda çevresi ile de uyumlu bir şekilde tasarlanmış ve bu nedenle, milli parkın doğal güzellikleri korunmuştur.
+Trabzon-Pazar-Senyuva Kizilagac 1 milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Bu alanda, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Milli parkın coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir ve bu nedenle, bölgenin iklimi de oldukça değişken olabilir. Milli parkın konumu, Karadeniz Bölgesi'nin merkezi bir yerinde olup, ulaşımı da oldukça kolaydır. Trabzon-Pazar-Senyuva Kizilagac 1 milli parkı, aynı zamanda çevresi ile de uyumlu bir şekilde tasarlanmış ve bu nedenle, milli parkın doğal güzellikleri korunmuştur.
 
 ## Flora ve Fauna
 

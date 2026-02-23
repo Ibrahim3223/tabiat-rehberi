@@ -29,7 +29,7 @@ wikidata_id: "Q134728186"
 
 # Kaya Mezarı,  Belen
 
-Kaya Mezarı, Belen, Muğla'nın Ege Bölgesi'nde yer alan bir doğal güzellik olarak dikkat çekiyor. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici bir manzara ile karşılıyor. Belen'in bu önemli noktası, hem tarihi hem de coğrafi açıdan zengin bir geçmişi sunuyor. Ziyaretçiler, bu eşsiz noktanın sunduğu doğal güzellikleri ve tarihi değerleri keşfetmenin heyecanını yaşayabiliyor.
+Kaya Mezarı, Belen, Muğla'nın Ege Bölgesi'nde yer alan bir doğal güzellik olarak dikkat çekiyor. Belen'in bu önemli noktası, hem tarihi hem de coğrafi açıdan zengin bir geçmişi sunuyor. Ziyaretçiler, bu eşsiz noktanın sunduğu doğal güzellikleri ve tarihi değerleri keşfetmenin heyecanını yaşayabiliyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q35731351"
 
 # Büyükgüney Tepesi
 
-Büyükgüney Tepesi, Çorum'un eşsiz doğal güzelliklerinden biridir. Bu tepe, ziyaretçilerini hem doğanın güzelliği hem de tarihin zenginliğiyle karşılar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Büyükgüney Tepesi, özellikle doğa severler ve tarihe meraklı olanlar için bir çekim merkezi olarak dikkat çeker. Bu tepe, Karadeniz Bölgesi'nin zengin florası ve faunasıyla ziyaretçilerini büyüler.
+Büyükgüney Tepesi, Çorum'un eşsiz doğal güzelliklerinden biridir. Bu tepe, ziyaretçilerini hem doğanın güzelliği hem de tarihin zenginliğiyle karşılar. Büyükgüney Tepesi, özellikle doğa severler ve tarihe meraklı olanlar için bir çekim merkezi olarak dikkat çeker. Bu tepe, Karadeniz Bölgesi'nin zengin florası ve faunasıyla ziyaretçilerini büyüler.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Büyükgüney Tepesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunar. Bu 
 
 ## Flora ve Fauna
 
-Büyükgüney Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu tepede, özellikle ilkbahar ve yaz aylarında, farklı bitki türleri görülür. Tepenin etrafında, çeşitli ağaçlar ve çalılar bulunur. Bu bölge, aynı zamanda zengin fauna ile dikkat çeker. Burada, farklı hayvan türleri ve kuş türleri görülür. Büyükgüney Tepesi, doğa severler ve hayvanseverler için bir çekim merkezi olarak dikkat çeker. Bu tepe, ziyaretçilerini doğanın güzelliği ve zenginliğiyle karşılar.
+ Bu tepede, özellikle ilkbahar ve yaz aylarında, farklı bitki türleri görülür. Tepenin etrafında, çeşitli ağaçlar ve çalılar bulunur. Bu bölge, aynı zamanda zengin fauna ile dikkat çeker. Burada, farklı hayvan türleri ve kuş türleri görülür. Büyükgüney Tepesi, doğa severler ve hayvanseverler için bir çekim merkezi olarak dikkat çeker. Bu tepe, ziyaretçilerini doğanın güzelliği ve zenginliğiyle karşılar.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Büyükgüney Tepesi'ni ziyaret etmek, doğa severler ve tarihe meraklı olanlar
 
 - Büyükgüney Tepesi, Çorum'un en yüksek noktalarından biridir.
 - Bu tepe, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunar.
-- Büyükgüney Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Bu tepe, tarihin farklı dönemlerinde çeşitli uygarlıkların yaşadığı bir bölge olarak dikkat çeker.
 - Büyükgüney Tepesi, doğa severler ve tarihe meraklı olanlar için bir çekim merkezi olarak dikkat çeker.

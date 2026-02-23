@@ -1,7 +1,7 @@
 ---
 title: "Kanuni Sultan Süleyman Türbesi"
 date: "2026-01-10T04:51:41.619Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Fatih"
@@ -30,7 +30,7 @@ wikidata_id: "Q55698717"
 
 # Kanuni Sultan Süleyman Türbesi
 
-Kanuni Sultan Süleyman Türbesi, İstanbul'un Eminönü ilçesinde yer alan ve Kanuni Sultan Süleyman'ın eşi Hürrem Sultan için yaptırılmış olan bir türbedir. 1558 yılında inşa edilen türbe, Mimar Sinan tarafından tasarlanmıştır. 140 hektarlık bir alan üzerinde bulunan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Türbenin mimarisi, Osmanlı dönemi mimari özelliklerini taşır ve ziyaretçilerini tarihi bir atmosfere davet eder. Kanuni Sultan Süleyman Türbesi, İstanbul'un tarihi mekanlarından biri olarak ziyaretçilerini beklemektedir.
+Kanuni Sultan Süleyman Türbesi, İstanbul'un Eminönü ilçesinde yer alan ve Kanuni Sultan Süleyman'ın eşi Hürrem Sultan için yaptırılmış olan bir türbedir. 1558 yılında inşa edilen türbe, Mimar Sinan tarafından tasarlanmıştır. Türbenin mimarisi, Osmanlı dönemi mimari özelliklerini taşır ve ziyaretçilerini tarihi bir atmosfere davet eder. Kanuni Sultan Süleyman Türbesi, İstanbul'un tarihi mekanlarından biri olarak ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 

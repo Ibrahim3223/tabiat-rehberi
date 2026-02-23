@@ -49,11 +49,11 @@ Doğal kaynaklar açısından, Loras Dağı'nın bulunduğu bölge, su kaynaklar
 
 ## Flora ve Fauna
 
-Loras Dağı, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Loras Dağı, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak bakıldığında, ilkbahar aylarında dağ etekleri rengarenk çiçeklerle kaplanırken, yaz aylarında kuraklığa adapte olmuş türler hakim oluyor. Dağın yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artıyor. 
+Bitki Örtüsü olarak bakıldığında, ilkbahar aylarında dağ etekleri rengarenk çiçeklerle kaplanırken, yaz aylarında kuraklığa adapte olmuş türler hakim oluyor. Dağın yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artıyor.
 
-Yaban Hayatı bakımından, dağda memeliler, kuşlar ve sürüngenler yaşamaktadır. Göçmen kuşlar, sonbahar aylarında dağ üzerinden göç ederken, memeliler ve sürüngenler dağın kayalık ve çalılık alanlarında yaşamlarını sürdürüyorlar. 
+Yaban Hayatı bakımından, dağda memeliler, kuşlar ve sürüngenler yaşamaktadır. Göçmen kuşlar, sonbahar aylarında dağ üzerinden göç ederken, memeliler ve sürüngenler dağın kayalık ve çalılık alanlarında yaşamlarını sürdürüyorlar.
 
 Ekolojik Değer olarak, Loras Dağı'nın koruma durumu oldukça önemlidir. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak için hayati öneme sahiptir.
 

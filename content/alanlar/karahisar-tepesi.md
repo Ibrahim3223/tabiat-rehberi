@@ -1,7 +1,7 @@
 ---
 title: "Karahisar Tepesi"
 date: "2026-01-10T09:45:32.659Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Erzurum"
@@ -28,15 +28,15 @@ wikidata_id: "Q31388402"
 
 # Karahisar Tepesi
 
-Erzurum'un tarihi ve doğal güzellikleriyle dolu bir bölge olan Karahisar Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu bölge, hem tarihi geçmişi hem de doğal güzellikleri ile dikkat çekmektedir. Karahisar Tepesi, Doğu Anadolu Bölgesi'nin en önemli turizm merkezlerinden biridir. Burada, tarihi eserler, doğal güzellikler ve farklı kültürel etkinlikler bulunmakta olup, ziyaretçilerin ilgisini çekmektedir.
+ Bu bölge, hem tarihi geçmişi hem de doğal güzellikleri ile dikkat çekmektedir. Karahisar Tepesi, Doğu Anadolu Bölgesi'nin en önemli turizm merkezlerinden biridir. Burada, tarihi eserler, doğal güzellikler ve farklı kültürel etkinlikler bulunmakta olup, ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 
-Karahisar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır. Bu bölge, tarihi boyunca farklı kültürlerin birleştiği bir merkez olarak bilinir. Karahisar Tepesi, tarihinin her döneminde önemli bir rol oynamıştır. Burada, tarihi eserler ve kalıntılar bulunmakta olup, ziyaretçilerin bu tarihi bölgeyi keşfetmeleri mümkündür. Karahisar Tepesi'nin tarihi zenginlikleri, ziyaretçilere bu bölgeyi keşfetme fırsatı sunmaktadır.
+Karahisar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır. Bu bölge, tarihi boyunca farklı kültürlerin birleştiği bir merkez olarak bilinir. Karahisar Tepesi, tarihinin her döneminde önemli bir rol oynamıştır. Burada, tarihi eserler ve kalıntılar bulunmakta olup, ziyaretçilerin bu tarihi bölgeyi keşfetmeleri mümkündür.
 
 ## Coğrafya
 
-Karahisar Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak en önemli bölgelerinden biridir. Bu bölge, Erzurum'un merkezine yakındır ve ulaşımı kolaydır. Karahisar Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu bölge, farklı coğrafi özelliklere sahiptir. Burada, dağlar, vadiler ve ovalar bulunmakta olup, ziyaretçilerin bu doğal güzellikleri keşfetmeleri mümkündür. Karahisar Tepesi, coğrafi olarak zengin bir bölge olup, ziyaretçilere çeşitli doğa aktiviteleri sunmaktadır.
+Karahisar Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak en önemli bölgelerinden biridir. Bu bölge, Erzurum'un merkezine yakındır ve ulaşımı kolaydır. Bu bölge, farklı coğrafi özelliklere sahiptir. Burada, dağlar, vadiler ve ovalar bulunmakta olup, ziyaretçilerin bu doğal güzellikleri keşfetmeleri mümkündür. Karahisar Tepesi, coğrafi olarak zengin bir bölge olup, ziyaretçilere çeşitli doğa aktiviteleri sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Karahisar Tepesi'ni ziyaret etmek isteyenler, yılın her döneminde bu bölgeye
 
 - Karahisar Tepesi, Erzurum'un en önemli turizm merkezlerinden biridir.
 - Bu bölge, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir.
-- Karahisar Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir.
+
 - Bu bölge, flora ve fauna açısından zengin bir bölgedir.
 - Karahisar Tepesi, mevsimsel değişimlere göre farklı bir görünüm sunmaktadır.

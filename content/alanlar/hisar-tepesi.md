@@ -1,7 +1,7 @@
 ---
 title: "Hisar Tepesi"
 date: "2026-01-10T10:14:45.556Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Tekirdağ"
@@ -29,11 +29,11 @@ wikidata_id: "Q31388817"
 
 # Hisar Tepesi
 
-Hisar Tepesi, Marmara Bölgesi'nin önemli noktalarından biri olan Tekirdağ'da yer alan tarihi bir tepe. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Hisar Tepesi, hem tarihi geçmiş hem de doğal güzelliği ile ziyaretçilerini bekliyor. Tepenin üzerinden bakıldığında, şehrin panoramik manzarası izlenebilmekte.
+Hisar Tepesi, Marmara Bölgesi'nin önemli noktalarından biri olan Tekirdağ'da yer alan tarihi bir tepe. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Hisar Tepesi, hem tarihi geçmiş hem de doğal güzelliği ile ziyaretçilerini bekliyor. Tepenin üzerinden bakıldığında, şehrin panoramik manzarası izlenebilmekte.
 
 ## Tarihçe
 
-Hisar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, farklı medeniyetlerin izlerini taşıyan önemli bir kültür merkezi. Geçmişi hakkında detaylı bilgiler bulunmasa da, bu tepenin histórik önemi tartışılmaz. Hisar Tepesi, Tekirdağ'ın önemli sembollerinden biri olarak kabul ediliyor. Tepenin tarihi hakkında daha fazla bilgi edinmek için, ziyaretçiler yerel rehberlerle birlikte turlara katılabilirler.
+Hisar Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, farklı medeniyetlerin izlerini taşıyan önemli bir kültür merkezi. Geçmişi hakkında detaylı bilgiler bulunmasa da, bu tepenin tarihi önemi tartışılmaz. Hisar Tepesi, Tekirdağ'ın önemli sembollerinden biri olarak kabul ediliyor. Tepenin tarihi hakkında daha fazla bilgi edinmek için, ziyaretçiler yerel rehberlerle birlikte turlara katılabilirler.
 
 ## Coğrafya
 
@@ -41,7 +41,7 @@ Hisar Tepesi, coğrafi olarak Tekirdağ'ın merkezinde yer alıyor. Tepenin etra
 
 ## Flora ve Fauna
 
-Hisar Tepesi, flora ve fauna açısından oldukça zengin. Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu bölgede, mevsimsel değişimler de yaşanmakta. İlkbahar ve yaz aylarında, tepede yer alan bitkiler ve çiçekler renkli bir manzara sunarken, kış aylarında tepenin karla kaplı hali ziyaretçilere farklı bir güzellik sunuyor. Hisar Tepesi, fauna açısından da önemli bir bölge. Tepede, çeşitli hayvan türleri ve kuşlar bulunmakta.
+ Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu bölgede, mevsimsel değişimler de yaşanmakta. İlkbahar ve yaz aylarında, tepede yer alan bitkiler ve çiçekler renkli bir manzara sunarken, kış aylarında tepenin karla kaplı hali ziyaretçilere farklı bir güzellik sunuyor. Hisar Tepesi, fauna açısından da önemli bir bölge. Tepede, çeşitli hayvan türleri ve kuşlar bulunmakta.
 
 ## Ziyaret Bilgileri
 

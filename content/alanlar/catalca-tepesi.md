@@ -28,7 +28,7 @@ wikidata_id: "Q34828554"
 
 # Çatalca Tepesi
 
-Konya'nın İç Anadolu Bölgesi'nde yer alan Çatalca Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Çatalca Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunuyor. Tepenin eteklerinde yer alan köyler, geleneksel mimari özellikleriyle dikkat çekiyor ve ziyaretçilere bölgenin kültürel zenginliğini tanıma fırsatı veriyor.
+Konya'nın İç Anadolu Bölgesi'nde yer alan Çatalca Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Çatalca Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunuyor. Tepenin eteklerinde yer alan köyler, geleneksel mimari özellikleriyle dikkat çekiyor ve ziyaretçilere bölgenin kültürel zenginliğini tanıma fırsatı veriyor.
 
 ## Tarihçe
 

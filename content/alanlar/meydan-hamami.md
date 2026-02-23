@@ -1,7 +1,7 @@
 ---
 title: "Meydan Hamamı"
 date: "2026-01-09T22:20:54.352Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738473"
 
 # Meydan Hamamı
 
-Meydan Hamamı, Antakya'nın tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Meydan Hamamı, Akdeniz Bölgesi'nin en önemli turizm merkezlerinden biri olan Hatay ilinin Antakya ilçesinde bulunur. Bu bölge, tarihi geçmişi ve doğal güzellikleri ile dikkat çeker. Meydan Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon olarak görülür.
+Meydan Hamamı, Antakya'nın tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. Meydan Hamamı, Akdeniz Bölgesi'nin en önemli turizm merkezlerinden biri olan Hatay ilinin Antakya ilçesinde bulunur. Bu bölge, tarihi geçmişi ve doğal güzellikleri ile dikkat çeker. Meydan Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon olarak görülür.
 
 ## Tarihçe
 

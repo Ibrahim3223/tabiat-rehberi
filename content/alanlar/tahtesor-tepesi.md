@@ -28,7 +28,7 @@ wikidata_id: "Q34811486"
 
 # Tahtesor Tepesi
 
-Tahtesor Tepesi, Diyarbakır'ın güzelliklerini keşfetmek isteyenler için önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve etrafındaki manzaralarla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Doğa severler için ideal bir gezi noktası olan Tahtesor Tepesi, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar bulunuyor.
+Tahtesor Tepesi, Diyarbakır'ın güzelliklerini keşfetmek isteyenler için önemli bir nokta. Doğa severler için ideal bir gezi noktası olan Tahtesor Tepesi, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar bulunuyor.
 
 ## Tarihçe
 

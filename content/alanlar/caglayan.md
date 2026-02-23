@@ -23,7 +23,7 @@ wikidata_id: "Q108228472"
 
 # Çağlayan
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Çağlayan milli parkı, yaklaşık 200 futbol sahası büyüklüğündeki 140 hektarlık alanı ile ziyaretçilerini doğal güzelliklerle baş başa bırakıyor. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu, ziyaretçilere doğanın tüm ihtişamını sunuyor. Çağlayan, hem doğa severlerin hem de yaban hayatı ile ilgilenenlerin ilgisini çeken bir destinasyon olarak öne çıkıyor.
+ Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu, ziyaretçilere doğanın tüm ihtişamını sunuyor. Çağlayan, hem doğa severlerin hem de yaban hayatı ile ilgilenenlerin ilgisini çeken bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ wikidata_id: "Q108228472"
 
 ## Coğrafya
 
-Çağlayan milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla kaplıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Parkın coğrafi konumu, ziyaretçilere, bölgenin karakteristik iklimini ve bitki örtüsünü deneyimleme fırsatı sunuyor. Çağlayan, özellikle bahar aylarında, rengarenk çiçeklerle dolu bir manzara sunarken, kış aylarında karla kaplı bir manzarasına dönüşüyor. Bu mevsimsel değişim, parkın güzelliğini ve çekiciliğini artırıyor. Ayrıca, parkın yakınlarında, ziyaretçilerin konaklayabileceği ve doğal güzellikleri keşfedebileceği çeşitli noktalara da ev sahipliği yapıyor.
+Çağlayan milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla kaplıdır. Parkın coğrafi konumu, ziyaretçilere, bölgenin karakteristik iklimini ve bitki örtüsünü deneyimleme fırsatı sunuyor. Çağlayan, özellikle bahar aylarında, rengarenk çiçeklerle dolu bir manzara sunarken, kış aylarında karla kaplı bir manzarasına dönüşüyor. Bu mevsimsel değişim, parkın güzelliğini ve çekiciliğini artırıyor. Ayrıca, parkın yakınlarında, ziyaretçilerin konaklayabileceği ve doğal güzellikleri keşfedebileceği çeşitli noktalara da ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

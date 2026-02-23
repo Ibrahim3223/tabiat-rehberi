@@ -28,7 +28,7 @@ wikidata_id: "Q31388454"
 
 # Kara Tepe (Erzurum)
 
-Kara Tepe, Erzurum'un coğrafi güzelliklerini sunan önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, ziyaretçilere geniş bir manzara sunar ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı verir. Kara Tepe, doğa severler ve tarih meraklıları için önemli bir destinasyondur. Ziyaretçiler, tepeye tırmanarak çevreyi keşfedebilir ve bölgenin güzelliklerini görebilir.
+Kara Tepe, Erzurum'un coğrafi güzelliklerini sunan önemli bir noktadır. Bu tepe, ziyaretçilere geniş bir manzara sunar ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı verir. Kara Tepe, doğa severler ve tarih meraklıları için önemli bir destinasyondur. Ziyaretçiler, tepeye tırmanarak çevreyi keşfedebilir ve bölgenin güzelliklerini görebilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kara Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe, b
 
 ## Coğrafya
 
-Kara Tepe, Erzurum'un coğrafi güzelliklerini sunan önemli bir noktadır. Tepe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu tepe, ziyaretçilere geniş bir manzara sunar ve bölgenin coğrafi özellikleri hakkında bilgi edinme fırsatı verir. Kara Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bölgenin iklimi, karasal iklim olup, kışları soğuk ve yazları serin geçer. Kara Tepe, doğa severler ve coğrafya meraklıları için önemli bir destinasyondur. Ziyaretçiler, tepeye tırmanarak çevreyi keşfedebilir ve bölgenin güzelliklerini görebilir.
+Kara Tepe, Erzurum'un coğrafi güzelliklerini sunan önemli bir noktadır. Bu tepe, ziyaretçilere geniş bir manzara sunar ve bölgenin coğrafi özellikleri hakkında bilgi edinme fırsatı verir. Kara Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bölgenin iklimi, karasal iklim olup, kışları soğuk ve yazları serin geçer. Kara Tepe, doğa severler ve coğrafya meraklıları için önemli bir destinasyondur. Ziyaretçiler, tepeye tırmanarak çevreyi keşfedebilir ve bölgenin güzelliklerini görebilir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kara Tepe, ziyaretçilere geniş bir manzara sunar ve bölgenin güzelliklerini 
 ## İlginç Bilgiler
 
 - Kara Tepe, 140 hektarlık bir alanı kaplar.
-- Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Kara Tepe, doğa severler ve tarih meraklıları için önemli bir destinasyondur.
 - Bölgenin iklimi, karasal iklim olup, kışları soğuk ve yazları serin geçer.
 - Kara Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir.

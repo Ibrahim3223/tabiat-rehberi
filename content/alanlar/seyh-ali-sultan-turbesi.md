@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Ali Sultan Türbesi"
 date: "2026-01-10T07:06:48.548Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390848"
 
 # Şeyh Ali Sultan Türbesi
 
-Şeyh Ali Sultan Türbesi, Karaman ilinin merkezinde, şehrin tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta olarak karşımıza çıkıyor. 140 hektarlık bir alanda yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Burada, tarihin izlerini ve doğanın güzelliklerini bir arada deneyimleme mümkün. Şeyh Ali Sultan Türbesi, hem Karaman'ın hem de Türkiye'nin önemli tarihi ve dini mekanlarından biri olarak kabul ediliyor. Bu türbenin etrafında, şehrin diğer tarihi ve kültürel noktalarına ulaşım oldukça kolay. Şeyh Ali Sultan Türbesi, ziyaretçilerini Karaman'ın tarihi ve doğal güzelliklerine davet ediyor.
+Şeyh Ali Sultan Türbesi, Karaman ilinin merkezinde, şehrin tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta olarak karşımıza çıkıyor. Burada, tarihin izlerini ve doğanın güzelliklerini bir arada deneyimleme mümkün. Şeyh Ali Sultan Türbesi, hem Karaman'ın hem de Türkiye'nin önemli tarihi ve dini mekanlarından biri olarak kabul ediliyor. Bu türbenin etrafında, şehrin diğer tarihi ve kültürel noktalarına ulaşım oldukça kolay. Şeyh Ali Sultan Türbesi, ziyaretçilerini Karaman'ın tarihi ve doğal güzelliklerine davet ediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390848"
 
 ## Coğrafya
 
-Şeyh Ali Sultan Türbesi, Karaman ilinin merkezinde, şehrin tarihi ve kültürel mekanları arasında yer alıyor. Bu türbe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Şeyh Ali Sultan Türbesi, Karaman'ın coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle step ve bozkır gibi doğal yaşam alanlarına ev sahipliği yapıyor. Şeyh Ali Sultan Türbesi'nin etrafında, çeşitli bitki türleri ve hayvanlar bulunabilir. Bu bölge, özellikle bahar ve yaz aylarında, yeşilin ve çiçeklerin renkleri ile bezeniyor. Kış aylarında ise, karın beyazlığı ve soğuk havanın serinliği hakim oluyor. Şeyh Ali Sultan Türbesi, Karaman'ın coğrafi güzellikleri arasında önemli bir yer tutuyor ve ziyaretçilerini şehrin doğal güzelliklerine davet ediyor. Türbenin konumu, şehrin diğer önemli noktalarına ulaşımı kolaylaştırıyor. Şeyh Ali Sultan Türbesi, Karaman'ın coğrafi ve kültürel zenginliklerini yansıtan önemli bir mekan olarak ziyaretçilerini bekliyor.
+Şeyh Ali Sultan Türbesi, Karaman ilinin merkezinde, şehrin tarihi ve kültürel mekanları arasında yer alıyor. Şeyh Ali Sultan Türbesi, Karaman'ın coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle step ve bozkır gibi doğal yaşam alanlarına ev sahipliği yapıyor. Şeyh Ali Sultan Türbesi'nin etrafında, çeşitli bitki türleri ve hayvanlar bulunabilir. Bu bölge, özellikle bahar ve yaz aylarında, yeşilin ve çiçeklerin renkleri ile bezeniyor. Kış aylarında ise, karın beyazlığı ve soğuk havanın serinliği hakim oluyor. Şeyh Ali Sultan Türbesi, Karaman'ın coğrafi güzellikleri arasında önemli bir yer tutuyor ve ziyaretçilerini şehrin doğal güzelliklerine davet ediyor. Türbenin konumu, şehrin diğer önemli noktalarına ulaşımı kolaylaştırıyor. Şeyh Ali Sultan Türbesi, Karaman'ın coğrafi ve kültürel zenginliklerini yansıtan önemli bir mekan olarak ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

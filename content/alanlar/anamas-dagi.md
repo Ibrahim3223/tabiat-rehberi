@@ -33,9 +33,9 @@ Isparta'nın dağlık arazisinde yer alan Anamas Dağı, bölgenin önemli coğr
 
 ## Tarihçe
 
-Isparta bölgesi, tarihi boyunca çeşitli uygarlıkların izlerini taşıyan zengin bir coğrafyadır. Anamas Dağı, bu bölgenin önemli doğal oluşumlarından biridir. Tarih boyunca, Likya, Roma ve Selçuklu gibi uygarlıkların etkisi altında kalan Isparta, kültürel ve ticari açıdan önemli bir merkezdir. 
+Isparta bölgesi, tarihi boyunca çeşitli uygarlıkların izlerini taşıyan zengin bir coğrafyadır. Anamas Dağı, bu bölgenin önemli doğal oluşumlarından biridir. Tarih boyunca, Likya, Roma ve Selçuklu gibi uygarlıkların etkisi altında kalan Isparta, kültürel ve ticari açıdan önemli bir merkezdir.
 
-Bu bölge, tarihi İpek Yolu'nun güzergahında yer alır ve ticaretin canlı olduğu bir bölge olmuştur. İnsanlar, doğal güzelliği ve stratejik konumu nedeniyle Anamas Dağı ve çevresini hep önemli görmüşlerdir. Yaylacılık ve hayvancılık, bölgenin ekonomik yapısında önemli rol oynamıştır. 
+Bu bölge, tarihi İpek Yolu'nun güzergahında yer alır ve ticaretin canlı olduğu bir bölge olmuştur. İnsanlar, doğal güzelliği ve stratejik konumu nedeniyle Anamas Dağı ve çevresini hep önemli görmüşlerdir. Yaylacılık ve hayvancılık, bölgenin ekonomik yapısında önemli rol oynamıştır.
 
 Doğal alanlar, Türkiye'nin kültürel ve tarihi mirasının önemli bir parçasıdır. Bu alanlar, insanların doğayla etkileşimini, geleneksel yaşam şekillerini ve coğrafyanın toplumlar üzerindeki etkisini gösterir. Anamas Dağı, Isparta bölgesinin tarihi ve kültürel zenginliğini yansıtan önemli bir doğal alandır.
 

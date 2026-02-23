@@ -29,7 +29,7 @@ wikidata_id: "Q106889431"
 
 # Bağırganlı Plajı
 
-Bağırganlı Plajı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul ediliyor. Kocaeli ilinde yer alan bu plaj, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu büyüklüğü ile yaklaşık 200 futbol sahası büyüklüğünde olan Bağırganlı Plajı, geniş ve ferah bir kumsala sahip. Plajın etrafında ise yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar yer alıyor. Bu doğal güzelliği ile ziyaretçilerini cezbeden Bağırganlı Plajı, özellikle yaz aylarında çok sayıda insanın ziyaret ettiği bir destinasyon haline geliyor.
+Bağırganlı Plajı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul ediliyor. Kocaeli ilinde yer alan bu plaj, yaklaşık 140 hektarlık bir alanı kapsıyor. Plajın etrafında ise yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar yer alıyor. Bu doğal güzelliği ile ziyaretçilerini cezbeden Bağırganlı Plajı, özellikle yaz aylarında çok sayıda insanın ziyaret ettiği bir destinasyon haline geliyor.
 
 ## Tarihçe
 

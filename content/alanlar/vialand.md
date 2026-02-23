@@ -30,7 +30,7 @@ wikidata_id: "Q15078111"
 
 # Vialand
 
-Vialand, İstanbul'un Eyüpsultan ilçesinde bulunan bir eğlence ve alışveriş merkezi olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu büyük alan, ziyaretçilerine geniş bir faaliyet yelpazesi sunuyor. Eğlence, alışveriş, yeme içme ve daha pek çok aktivite, Vialand'da bulunabileceğiniz birçok olanak sunuyor. Bu önemli merkez, İstanbul'un turizm ve ekonomisine de önemli katkılar sağlıyor.
+Vialand, İstanbul'un Eyüpsultan ilçesinde bulunan bir eğlence ve alışveriş merkezi olarak dikkat çekiyor. Bu büyük alan, ziyaretçilerine geniş bir faaliyet yelpazesi sunuyor. Eğlence, alışveriş, yeme içme ve daha pek çok aktivite, Vialand'da bulunabileceğiniz birçok olanak sunuyor. Bu önemli merkez, İstanbul'un turizm ve ekonomisine de önemli katkılar sağlıyor.
 
 ## Tarihçe
 

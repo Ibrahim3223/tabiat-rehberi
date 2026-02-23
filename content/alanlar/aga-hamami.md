@@ -1,7 +1,7 @@
 ---
 title: "Ağa Hamamı"
 date: "2026-01-09T22:14:24.410Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q18694451"
 
 # Ağa Hamamı
 
-Ağa Hamamı, İstanbul'un kalbinde, Beyoğlu'nda bulunan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda ziyaretçiler çeşitli etkinliklere katılabilirler. İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren Ağa Hamamı, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunar. Bu güzel plaj, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder.
+Ağa Hamamı, İstanbul'un kalbinde, Beyoğlu'nda bulunan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren Ağa Hamamı, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunar. Bu güzel plaj, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ağa Hamamı'nın tarihi geçmişi, İstanbul'un tarihinde önemli bir yere sahi
 
 ## Coğrafya
 
-Ağa Hamamı, coğrafi olarak Marmara Bölgesi'nde yer alan bir plajdır. Bu bölge, İstanbul Boğazı'nın kıyısında yer alır ve çevresinde çeşitli tarihi ve doğal güzellikler bulunur. Plajın genişliği, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alana sahiptir. Ağa Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini keşfetme fırsatı sunar. Bu plaj, özellikle yaz aylarında güneşin ve denizin tadını çıkarmak isteyenler için ideal bir yerdir. Çevresindeki diğer doğal güzelliklerle birlikte, Ağa Hamamı ziyaretçilerine geniş bir keşif alanı sunar.
+Ağa Hamamı, coğrafi olarak Marmara Bölgesi'nde yer alan bir plajdır. Bu bölge, İstanbul Boğazı'nın kıyısında yer alır ve çevresinde çeşitli tarihi ve doğal güzellikler bulunur. Ağa Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini keşfetme fırsatı sunar. Bu plaj, özellikle yaz aylarında güneşin ve denizin tadını çıkarmak isteyenler için ideal bir yerdir. Çevresindeki diğer doğal güzelliklerle birlikte, Ağa Hamamı ziyaretçilerine geniş bir keşif alanı sunar.
 
 ## Flora ve Fauna
 

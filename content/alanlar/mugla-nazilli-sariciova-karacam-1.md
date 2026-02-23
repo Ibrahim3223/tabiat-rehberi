@@ -22,7 +22,7 @@ wikidata_id: "Q108227534"
 
 # Mugla-Nazilli-Sariciova Karacam 1
 
-Mugla-Nazilli-Sariciova Karacam 1 milli parkı, Muğla ilinin Nazilli ilçesinde yer alan ve Ege Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilen bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini koruma altına alan önemli bir doğal rezervdur. Bu milli park, ziyaretçilerine geniş ve çeşitli bir flora ve fauna sunar. Burada, yaban hayatının çeşitliliği ve bölgeye özgü bitkilerle karşılaşma mümkün.
+Mugla-Nazilli-Sariciova Karacam 1 milli parkı, Muğla ilinin Nazilli ilçesinde yer alan ve Ege Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilen bir milli parktır. Bu milli park, ziyaretçilerine geniş ve çeşitli bir flora ve fauna sunar. Burada, yaban hayatının çeşitliliği ve bölgeye özgü bitkilerle karşılaşma mümkün.
 
 ## Tarihçe
 

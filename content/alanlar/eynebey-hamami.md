@@ -1,7 +1,7 @@
 ---
 title: "Eynebey Hamamı"
 date: "2026-01-09T22:17:33.196Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Altındağ"
@@ -38,7 +38,7 @@ Eynebey Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu 
 
 ## Coğrafya
 
-Eynebey Hamamı, İç Anadolu Bölgesi'nde yer alan Hacı Bayram/Altındağ'da bulunmaktadır. Bu bölge, coğrafi olarak çeşitli dağlar, ovalar ve nehirler ile çevrilidir. Eynebey Hamamı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine bir doğal ortam sunmaktadır. Bu alan, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Eynebey Hamamı'nın coğrafi konumu, ziyaretçilerine birçok doğal güzelliği keşfetme fırsatı sunmaktadır. Bu bölge, çeşitli bitki türleri ve hayvanlar ile çevrilidir ve ziyaretçilerine bir doğa belgeseli gibi bir deneyim sunmaktadır.
+Eynebey Hamamı, İç Anadolu Bölgesi'nde yer alan Hacı Bayram/Altındağ'da bulunmaktadır. Bu bölge, coğrafi olarak çeşitli dağlar, ovalar ve nehirler ile çevrilidir. Eynebey Hamamı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine bir doğal ortam sunmaktadır. Eynebey Hamamı'nın coğrafi konumu, ziyaretçilerine birçok doğal güzelliği keşfetme fırsatı sunmaktadır. Bu bölge, çeşitli bitki türleri ve hayvanlar ile çevrilidir ve ziyaretçilerine bir doğa belgeseli gibi bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

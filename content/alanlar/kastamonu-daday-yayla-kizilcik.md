@@ -22,7 +22,7 @@ wikidata_id: "Q108228557"
 
 # Kastamonu-Daday-Yayla-Kizilcik
 
-Kastamonu-Daday-Yayla-Kizilcik milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından biri olarak kabul ediliyor. Milli park, zengin flora ve fauna çeşitliliği ile ziyaretçilerini kendine çekiyor. Kastamonu ilinin Daday ilçesine bağlı Yayla ve Kizilcik köyleri arasında yer alan bu doğal alan, hem yerli hem de yabancı turistler için önemli bir destinasyon olarak görülüyor. Milli parkın doğal güzelliği, ziyaretçilerini doğanın kalbinde bir maceraya davet ediyor.
+Kastamonu-Daday-Yayla-Kizilcik milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Milli park, zengin flora ve fauna çeşitliliği ile ziyaretçilerini kendine çekiyor. Kastamonu ilinin Daday ilçesine bağlı Yayla ve Kizilcik köyleri arasında yer alan bu doğal alan, hem yerli hem de yabancı turistler için önemli bir destinasyon olarak görülüyor. Milli parkın doğal güzelliği, ziyaretçilerini doğanın kalbinde bir maceraya davet ediyor.
 
 ## Tarihçe
 

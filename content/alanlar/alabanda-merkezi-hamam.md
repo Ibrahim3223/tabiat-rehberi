@@ -1,7 +1,7 @@
 ---
 title: "Alabanda Merkezi Hamam"
 date: "2026-01-09T23:20:27.432Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,11 +29,11 @@ wikidata_id: "Q131738999"
 
 # Alabanda Merkezi Hamam
 
-Alabanda Merkezi Hamam, Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Çine ilçesinde yer alır. Bu tarihi hamam, bölgenin doğal güzellikleri ve tarihi geçmişinin birleştiği özel bir noktada bulunmakta. Alabanda Merkezi Hamam, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklüğü ile yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferi deneyimlemek hem de doğanın güzelliğini keşfetmek için geniş bir olanak sunar.
+Alabanda Merkezi Hamam, Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Çine ilçesinde yer alır. Bu tarihi hamam, bölgenin doğal güzellikleri ve tarihi geçmişinin birleştiği özel bir noktada bulunmakta. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferi deneyimlemek hem de doğanın güzelliğini keşfetmek için geniş bir olanak sunar.
 
 ## Tarihçe
 
-Alabanda Merkezi Hamam, tarihi geçmişi ile dikkat çeker. Bu hamam, yüzyıllar önce inşa edilmiş ve o günden bu güne birçok medeniyete ev sahipliği yapmıştır. Hamamın tarihi boyunca, çeşitli onarımlar ve restorasyonlar yapılmış, ancak aslına uygun olarak korunmaya özen gösterilmiştir. Bu nedenle, Alabanda Merkezi Hamam, sadece bir tarihi yapı değil, aynı zamanda bölgenin kültürel mirasının önemli bir parçasıdır. Tarihi geçmişi ile Alabanda Merkezi Hamam, ziyaretçilere bir zaman yolculuğu deneyimi sunar. Bu hamam, geçmişte önemli bir sosyal merkez olarak görev yapmış, insanların bir araya gelerek sohbet ettikleri, temizlik yaptıkları ve sosyal ilişkilerini güçlendirdikleri bir yerdi. Günümüzde de Alabanda Merkezi Hamam, ziyaretçilerini tarihin sâu sayfalarına götürerek, geçmişin atmosferini hissetme fırsatı sunar.
+Alabanda Merkezi Hamam, tarihi geçmişi ile dikkat çeker. Bu hamam, yüzyıllar önce inşa edilmiş ve o günden bu güne birçok medeniyete ev sahipliği yapmıştır. Hamamın tarihi boyunca, çeşitli onarımlar ve restorasyonlar yapılmış, ancak aslına uygun olarak korunmaya özen gösterilmiştir. Bu nedenle, Alabanda Merkezi Hamam, sadece bir tarihi yapı değil, aynı zamanda bölgenin kültürel mirasının önemli bir parçasıdır. Tarihi geçmişi ile Alabanda Merkezi Hamam, ziyaretçilere bir zaman yolculuğu deneyimi sunar. Bu hamam, geçmişte önemli bir sosyal merkez olarak görev yapmış, insanların bir araya gelerek sohbet ettikleri, temizlik yaptıkları ve sosyal ilişkilerini güçlendirdikleri bir yerdi. Günümüzde de Alabanda Merkezi Hamam, ziyaretçilerini tarihin derin sayfalarına götürerek, geçmişin atmosferini hissetme fırsatı sunar.
 
 ## Coğrafya
 

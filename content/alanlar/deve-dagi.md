@@ -50,7 +50,7 @@ Deve Dağı'nın çevresel ilişkileri, bölgenin su kaynakları ve komşu alanl
 
 ## Flora ve Fauna
 
-Deve Dağı, Hatay'ın eşsiz doğa güzelliklerinden biridir. Bu dağ ekosisteminde, maki bitki örtüsünün hakim olduğu görülür. İlbahar mevsiminde, dağ yamaçları rengarenk çiçeklerle donanır ve dağ keçileri bu çiçeklerin arasında otlarken görülebilir. 
+Deve Dağı, Hatay'ın eşsiz doğa güzelliklerinden biridir. Bu dağ ekosisteminde, maki bitki örtüsünün hakim olduğu görülür. İlbahar mevsiminde, dağ yamaçları rengarenk çiçeklerle donanır ve dağ keçileri bu çiçeklerin arasında otlarken görülebilir.
 
 Kuraklığa dayanıklı türlerin hakim olduğu bu bölgede, yükseklik zonlarına bağlı olarak farklı bitki türleri bulunur. Dağın yüksek kesimlerinde, alpin flora örneklerine rastlama mümkündür. Bu flora, dağların zorlu koşullarına adapte olmuş özel bitkilerden oluşur.
 

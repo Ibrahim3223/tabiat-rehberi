@@ -48,7 +48,7 @@ Mevsimsel özellikler açısından bakıldığında, Çakırgöl Dağı'nın ikl
 
 ## Flora ve Fauna
 
-Çakırgöl Dağı, Gümüşhane'nin nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosistemi, yüksek biyoçeşitlili ve gür ormanlarla karakterizedir. 
+Çakırgöl Dağı, Gümüşhane'nin nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosistemi, yüksek biyoçeşitlili ve gür ormanlarla karakterizedir.
 
 Bitki örtüsü açısından, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle kaplanır. Sonbaharda ise ormanlar sarı, turuncu ve kırmızının tonlarında bir güzelliğe bürünür. Dağın yükseklik zonlarına göre değişen flora, alpin bitkilerin yaşadığı bölgelerde daha yoğun olarak bulunur.
 
@@ -65,6 +65,6 @@ Yaban hayatı açısından, dağda çeşitli memeli ve kuş türleri yaşar. Gö
 - Çakırgöl Dağı, Gümüşhane ilinin Torul ilçesinde yer alır.
 - Dağın yüksekliği yaklaşık 3.300 metredir.
 - Çakırgöl Dağı, Kuzey Anadolu Dağları'nın bir parçasıdır.
-- Bölge, flora ve fauna açısından oldukça zengindir.
+
 - Çakırgöl Dağı, trekking ve doğa yürüyüşü için popüler bir destinasyondur.
 - Gümüşhane ilinin coğrafi yapısını şekillendiren önemli dağlardan biridir.

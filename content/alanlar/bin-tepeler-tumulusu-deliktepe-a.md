@@ -29,7 +29,7 @@ wikidata_id: "Q134728381"
 
 # Bin Tepeler Tümülüsü Deliktepe A
 
-Bin Tepeler Tümülüsü Deliktepe A, Ege Bölgesi'nin önemli tarih ve doğa merkezlerinden biri olarak Salihli, Manisa'da yer alıyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle karşılamaya hazırlanıyor. Bin Tepeler Tümülüsü Deliktepe A, geçmişin izlerini taşıyan bir bölgedir ve zengin tarihini yansıtan çeşitli kalıntılar ve yapılar içerir. Ege Bölgesi'nin en önemli tarihi ve turistik mekanlarından biri olarak kabul edilen bu bölge, ziyaretçilerine hem kültür hem de doğa severler için eşsiz bir deneyim sunuyor.
+Bin Tepeler Tümülüsü Deliktepe A, Ege Bölgesi'nin önemli tarih ve doğa merkezlerinden biri olarak Salihli, Manisa'da yer alıyor. Bin Tepeler Tümülüsü Deliktepe A, geçmişin izlerini taşıyan bir bölgedir ve zengin tarihini yansıtan çeşitli kalıntılar ve yapılar içerir. Ege Bölgesi'nin en önemli tarihi ve turistik mekanlarından biri olarak kabul edilen bu bölge, ziyaretçilerine hem kültür hem de doğa severler için eşsiz bir deneyim sunuyor.
 
 ## Tarihçe
 

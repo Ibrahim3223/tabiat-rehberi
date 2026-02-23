@@ -28,7 +28,7 @@ wikidata_id: "Q31390316"
 
 # Soput Tepesi
 
-Soput Tepesi, Afyonkarahisar ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Soput Tepesi, ziyaretçilerini doğal güzellikleri ve zengin flora ile karşılamaktadır. Tepenin eteklerinde ve etrafında çeşitli bitki türleri bulunmakta ve bu bölgede yaban hayatı da oldukça zengin olarak görülmektedir.
+Soput Tepesi, Afyonkarahisar ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepedir. Soput Tepesi, ziyaretçilerini doğal güzellikleri ve zengin flora ile karşılamaktadır. Tepenin eteklerinde ve etrafında çeşitli bitki türleri bulunmakta ve bu bölgede yaban hayatı da oldukça zengin olarak görülmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Soput Tepesi'nin tarihi geçmişi hakkındalı bilgiler bulunmamaktadır. Ancak,
 
 ## Coğrafya
 
-Soput Tepesi, Afyonkarahisar ilinin coğrafi yapısında önemli bir yer tutmaktadır. Bu tepe, Ege Bölgesi'nin coğrafi özelliklerini taşıyan bir yapıya sahiptir. Tepenin etrafında ve eteklerinde çeşitli bitki türleri bulunmakta ve bu bölgede yaban hayatı da oldukça zengin olarak görülmektedir. Soput Tepesi, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Tepenin yüksekliği ve coğrafi konumu, bu bölgenin iklimini ve doğal yaşamını etkilemektedir. Soput Tepesi, doğal güzellikleri ve coğrafi özellikleri ile önemli bir turizm merkezi olarak dikkat çekmektedir.
+Soput Tepesi, Afyonkarahisar ilinin coğrafi yapısında önemli bir yer tutmaktadır. Bu tepe, Ege Bölgesi'nin coğrafi özelliklerini taşıyan bir yapıya sahiptir. Tepenin etrafında ve eteklerinde çeşitli bitki türleri bulunmakta ve bu bölgede yaban hayatı da oldukça zengin olarak görülmektedir. Tepenin yüksekliği ve coğrafi konumu, bu bölgenin iklimini ve doğal yaşamını etkilemektedir. Soput Tepesi, doğal güzellikleri ve coğrafi özellikleri ile önemli bir turizm merkezi olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 

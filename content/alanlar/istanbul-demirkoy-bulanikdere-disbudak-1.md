@@ -22,7 +22,7 @@ wikidata_id: "Q108228057"
 
 # Istanbul Demirkoy Bulanikdere-Disbudak 1
 
-Istanbul Demirkoy Bulanikdere-Disbudak 1 milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak, ziyaretçilerini 140 hektarlık yeşil alanı ile karşılar. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin huzur bulacağı bir cennet olarak karşımıza çıkıyor. Milli parkın sunduğu geniş alan, ziyaretçilerin doğayı keşfetmelerine olanak tanır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+Istanbul Demirkoy Bulanikdere-Disbudak 1 milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak, ziyaretçilerini 140 hektarlık yeşil alanı ile karşılar. Milli parkın sunduğu geniş alan, ziyaretçilerin doğayı keşfetmelerine olanak tanır.
 
 ## Tarihçe
 

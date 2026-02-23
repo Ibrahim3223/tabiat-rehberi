@@ -22,7 +22,7 @@ wikidata_id: "Q108227946"
 
 # Istanbul-Bahcekoy Karacam
 
-İstanbul'un kuzeyinde, Marmara Bölgesi'nin önemli milli parklarından biri olan Bahçeköy Karacam, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Bahçeköy Karacam, ziyaretçilerine doğayla iç içe bir  sunuyor. Milli park, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
+ Bu geniş yeşil alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Bahçeköy Karacam, ziyaretçilerine doğayla iç içe bir  sunuyor. Milli park, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bahçeköy Karacam Milli Parkı, tarihi geçmişiyle dikkat çekiyor. Yüzyılla
 
 ## Coğrafya
 
-Bahçeköy Karacam Milli Parkı, Marmara Bölgesi'nin kuzeyinde, İstanbul'un Bahçeköy ilçesinde bulunuyor. Milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlıyor. Milli parkın coğrafi yapısı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Bahçeköy Karacam, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Milli parkın coğrafi konumu, ziyaretçilerine şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor.
+Bahçeköy Karacam Milli Parkı, Marmara Bölgesi'nin kuzeyinde, İstanbul'un Bahçeköy ilçesinde bulunuyor. Bu geniş yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlıyor. Milli parkın coğrafi yapısı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Bahçeköy Karacam, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Milli parkın coğrafi konumu, ziyaretçilerine şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor.
 
 ## Flora ve Fauna
 

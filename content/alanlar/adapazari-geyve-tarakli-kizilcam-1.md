@@ -22,7 +22,7 @@ wikidata_id: "Q108227295"
 
 # Adapazari-Geyve-Tarakli Kızılçam 1
 
-Adapazari-Geyve-Tarakli Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş yeşil alanları, çeşitli bitki türleri ve zengin fauna çeşitliliği ile karşılar. Bu milli park, doğa severlerin ve macera arayışındaki gezginlerin buluşma noktasıdır. Parkın sunduğu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar.
+Adapazari-Geyve-Tarakli Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu milli park, doğa severlerin ve macera arayışındaki gezginlerin buluşma noktasıdır. Parkın sunduğu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

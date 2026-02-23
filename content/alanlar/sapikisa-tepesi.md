@@ -28,7 +28,7 @@ wikidata_id: "Q31535297"
 
 # Sapıkısa Tepesi
 
-Sapıkısa Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alanı sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir alan sunar. Sapıkısa Tepesi, ziyaretçilerini doğal güzelliği ve zengin flora ve fauna çeşitliliği ile cezbeder. Bu tepe, özellikle doğa severler ve trekking yapanlar için önemli bir destinasyon olarak kabul edilir.
+Sapıkısa Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alanı sunar. Sapıkısa Tepesi, ziyaretçilerini doğal güzelliği ve zengin flora ve fauna çeşitliliği ile cezbeder. Bu tepe, özellikle doğa severler ve trekking yapanlar için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 

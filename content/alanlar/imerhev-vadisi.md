@@ -34,9 +34,9 @@ Artvin'in Şavşat ilçesinde, doğanın mucizelerinden biri olarak karşımıza
 
 ## Tarihçe
 
-İmerhev Vadisi, Türkiye'nin kuzeydoğu köşesinde, Artvin ilinin büyüleyici bir köşesinde yer alıyor. Bu bölge, tarihin sâu izlerini taşıyan bir coğrafya olarak, çeşitli uygarlıkların izlerini barındırıyor. Artvin, tarihi boyunca Gürcü Krallığı, Osmanlı İmparatorluğu ve diğer birçok medeniyetin etkilerini görme mümkün. Bu zengin tarih, İmerhev Vadisi'nin de bir parçası olduğu geniş ve çeşitli kültürel mirası yansıtıyor.
+İmerhev Vadisi, Türkiye'nin kuzeydoğu köşesinde, Artvin ilinin büyüleyici bir köşesinde yer alıyor. Bu bölge, tarihin derin izlerini taşıyan bir coğrafya olarak, çeşitli uygarlıkların izlerini barındırıyor. Artvin, tarihi boyunca Gürcü Krallığı, Osmanlı İmparatorluğu ve diğer birçok medeniyetin etkilerini görme mümkün. Bu zengin tarih, İmerhev Vadisi'nin de bir parçası olduğu geniş ve çeşitli kültürel mirası yansıtıyor.
 
-Doğal güzellikleri ve coğrafi konumuyla, İmerhev Vadisi, yüzyıllar boyunca insanların yaşamını ve faaliyetlerini etkilemiştir. Yaylacılık ve hayvancılık, bu bölgede uzun süredir devam eden geleneksel faaliyetlerdir. Ayrıca, tarihi ticaret yollarının bir bölümü de bu bölgeyi kapsıyor. İnsanların bu doğal alanlarla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşıyor. İmerhev Vadisi, bu zengin tarih ve kültürel mirasın bir parçası olarak, ziyaretçilerini tarihin sâu izlerine davet ediyor.
+Doğal güzellikleri ve coğrafi konumuyla, İmerhev Vadisi, yüzyıllar boyunca insanların yaşamını ve faaliyetlerini etkilemiştir. Yaylacılık ve hayvancılık, bu bölgede uzun süredir devam eden geleneksel faaliyetlerdir. Ayrıca, tarihi ticaret yollarının bir bölümü de bu bölgeyi kapsıyor. İnsanların bu doğal alanlarla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşıyor. İmerhev Vadisi, bu zengin tarih ve kültürel mirasın bir parçası olarak, ziyaretçilerini tarihin derin izlerine davet ediyor.
 
 ## Coğrafya
 
@@ -65,4 +65,4 @@ Vadideki yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Bu canlılar
 - İmerhev Vadisi, 1973 yılında ilk kez keşfedilmiş ve 1988 yılında doğal sit alanı olarak tescil edilmiştir.
 - Vadi, yaklaşık 10 kilometre uzunluğa ve 800 metre derinliğe sahiptir.
 - İmerhev Vadisi, Şavşat'ın en önemli turizm merkezlerinden biridir ve yılda binlerce ziyaretçi tarafından gezilmektedir.
-- Vadi, flora ve fauna açısından oldukça zengin olup, birçok endemik tür barındırmaktadır.
+

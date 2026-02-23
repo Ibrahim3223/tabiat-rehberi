@@ -28,7 +28,7 @@ wikidata_id: "Q31386972"
 
 # Sakırgalık Tepe
 
-Sakırgalık Tepe, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak Bilecik'te yer alır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil doku içerir. Sakırgalık Tepe, ziyaretçilerine hem doğal güzelliğini hem de tarihi geçmişiyle birlikte bir hikaye sunar. Bu tepe, bölgenin coğrafi yapısını ve zengin ekosistemini gözler önüne serer. Sakırgalık Tepe, aynı zamanda bir gözlem noktası olarak da dikkat çeker, çünkü buradan çevreyi izleme mümkün.
+Sakırgalık Tepe, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak Bilecik'te yer alır. Sakırgalık Tepe, ziyaretçilerine hem doğal güzelliğini hem de tarihi geçmişiyle birlikte bir hikaye sunar. Bu tepe, bölgenin coğrafi yapısını ve zengin ekosistemini gözler önüne serer. Sakırgalık Tepe, aynı zamanda bir gözlem noktası olarak da dikkat çeker, çünkü buradan çevreyi izleme mümkün.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Sakırgalık Tepe'yi ziyaret etmek, doğa severler için bir keyif olabilir. Bu 
 
 - Sakırgalık Tepe, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir.
 - Bu tepe, Bilecik'te yer alır.
-- Sakırgalık Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil doku içerir.
+
 - Bu tepe, bir gözlem noktası olarak da dikkat çeker.
 - Sakırgalık Tepe, ziyaretçilerine hem doğal güzelliğini hem de tarihi geçmişiyle birlikte bir hikaye sunar.

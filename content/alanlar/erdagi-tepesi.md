@@ -28,7 +28,7 @@ wikidata_id: "Q31387177"
 
 # Erdağı Tepesi
 
-Erdağı Tepesi, Kars ilinin merkezine uzun bir mesafe uzaklıkta bulunan, 3200 metre yüksekliğe sahip bir tepe. Bu yükseklik, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsayacak kadar geniş bir görüş alanını sunar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Erdağı Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbeden bir destinasyon.
+Erdağı Tepesi, Kars ilinin merkezine uzun bir mesafe uzaklıkta bulunan, 3200 metre yüksekliğe sahip bir tepe. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Erdağı Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbeden bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Erdağı Tepesi, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmı�
 
 ## Coğrafya
 
-Erdağı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir tepe. Tepenin zirvesi, yüksek bir konumdate ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu yükseklik, ziyaretçilere geniş bir görüş alanı sunar ve bölgenin diğer tepe ve dağlarını görme mümkün. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bölge, aynı zamanda birçok nehrin ve derenin kaynağı olarak görev yapmakta. Erdağı Tepesi, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini etkileyen bir destinasyon.
+Erdağı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir tepe. Bu yükseklik, ziyaretçilere geniş bir görüş alanı sunar ve bölgenin diğer tepe ve dağlarını görme mümkün. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bölge, aynı zamanda birçok nehrin ve derenin kaynağı olarak görev yapmakta. Erdağı Tepesi, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini etkileyen bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -52,4 +52,4 @@ Erdağı Tepesi, ziyaretçileri için birçok aktivite sunar. Tepenin zirvesine 
 - Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 - Bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış bir bölge.
 - Erdağı Tepesi, birçok efsaneye ve rivayete konu olmuş bir yer.
-- Tepenin zirvesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+

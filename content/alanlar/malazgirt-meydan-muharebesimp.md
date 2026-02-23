@@ -22,7 +22,7 @@ wikidata_id: "Q108228763"
 
 # MALAZGİRT MEYDAN MUHAREBESİ_MP
 
-Malazgirt Meydan Muharebesi Milli Parkı, İç Anadolu Bölgesi'nde yer alan ve tarihi bir savaşın yaşandığı önemli bir mekândır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin sâu sayfalarına götürmeye hazır. Bu milli park, doğa severler ve tarih meraklıları için bir hazine niteliğindedir. Ziyaretçiler, bu önemli tarihi olayın gerçekleştiği toprakları gezerken, aynı zamanda bölgenin zengin florası ve faunası ile karşılaşacaktır.
+Malazgirt Meydan Muharebesi Milli Parkı, İç Anadolu Bölgesi'nde yer alan ve tarihi bir savaşın yaşandığı önemli bir mekândır. Bu milli park, doğa severler ve tarih meraklıları için bir hazine niteliğindedir. Ziyaretçiler, bu önemli tarihi olayın gerçekleştiği toprakları gezerken, aynı zamanda bölgenin zengin florası ve faunası ile karşılaşacaktır.
 
 ## Tarihçe
 

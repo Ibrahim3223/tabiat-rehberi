@@ -1,7 +1,7 @@
 ---
 title: "Milet Türk Hamamı"
 date: "2026-01-09T23:27:31.628Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739081"
 
 # Milet Türk Hamamı
 
-Milet Türk Hamamı, Aydın'ın Didim ilçesinde yer alan ve Ege Bölgesi'nin önemli ziyaret noktalarından biri olan bir plajdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzellikleri ile dikkat çekiyor. Bu alan, ziyaretçilere deniz, kum ve güneşin keyfini çıkarabilecekleri bir ortam sunuyor. Milet Türk Hamamı, özellikle yaz aylarında tatilciler için popüler bir destinasyon haline geliyor.
+Milet Türk Hamamı, Aydın'ın Didim ilçesinde yer alan ve Ege Bölgesi'nin önemli ziyaret noktalarından biri olan bir plajdır. Bu alan, ziyaretçilere deniz, kum ve güneşin keyfini çıkarabilecekleri bir ortam sunuyor. Milet Türk Hamamı, özellikle yaz aylarında tatilciler için popüler bir destinasyon haline geliyor.
 
 ## Tarihçe
 

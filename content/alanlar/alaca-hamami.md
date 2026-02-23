@@ -1,7 +1,7 @@
 ---
 title: "Alaca Hamamı"
 date: "2026-01-09T23:03:47.846Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738802"
 
 # Alaca Hamamı
 
-Alaca Hamamı, Afyonkarahisar ilinin merkezinde yer alan ve Ege Bölgesi'nin önemli turizm merkezlerinden biri olan bir plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok turisti çekmektedir. Alaca Hamamı, doğal güzellikleri ve temiz suyu ile dikkat çekmektedir. Bu bölge, hem yerel halk hem de turistler için popüler bir destinasyondur.
+Alaca Hamamı, Afyonkarahisar ilinin merkezinde yer alan ve Ege Bölgesi'nin önemli turizm merkezlerinden biri olan bir plajdır. Alaca Hamamı, doğal güzellikleri ve temiz suyu ile dikkat çekmektedir. Bu bölge, hem yerel halk hem de turistler için popüler bir destinasyondur.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31390927"
 
 # Gelence Tepesi
 
-Gelence Tepesi, Kayseri'nin eşsiz doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak için ideal bir kaçış noktası. Tepenin eteklerinde uzanan geniş otlaklar ve yeşillikler, ziyaretçilere huzurlu bir atmosfer sunuyor. Gelence Tepesi, sadece Kayseri'nin değil, tüm İç Anadolu Bölgesi'nin önemli bir doğal ve tarihi zenginliği olarak kabul ediliyor.
+Gelence Tepesi, Kayseri'nin eşsiz doğal güzelliklerinden biri olarak dikkat çekiyor. Tepenin eteklerinde uzanan geniş otlaklar ve yeşillikler, ziyaretçilere huzurlu bir atmosfer sunuyor. Gelence Tepesi, sadece Kayseri'nin değil, tüm İç Anadolu Bölgesi'nin önemli bir doğal ve tarihi zenginliği olarak kabul ediliyor.
 
 ## Tarihçe
 

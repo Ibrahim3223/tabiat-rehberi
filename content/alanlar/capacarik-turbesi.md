@@ -1,7 +1,7 @@
 ---
 title: "Çapaçarık Türbesi"
 date: "2026-01-10T05:36:08.279Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391669"
 
 # Çapaçarık Türbesi
 
-Manisa'nın Yunusemre ilçesinde yer alan Çapaçarık Türbesi, tarihin sâu izlerini taşıyan bir cultura varlık. Bu tarihi türbe, Ege Bölgesi'nin en önemli kültür miraslarından biri olarak kabul ediliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçiler için geniş bir gezi alanı sunuyor. Çapaçarık Türbesi, hem tarihin izlerini keşfetmek hem de Ege'nin güzelliğini deneyimlemek isteyenler için bir çekim merkezi.
+Manisa'nın Yunusemre ilçesinde yer alan Çapaçarık Türbesi, tarihin derin izlerini taşıyan bir cultura varlık. Bu tarihi türbe, Ege Bölgesi'nin en önemli kültür miraslarından biri olarak kabul ediliyor. Çapaçarık Türbesi, hem tarihin izlerini keşfetmek hem de Ege'nin güzelliğini deneyimlemek isteyenler için bir çekim merkezi.
 
 ## Tarihçe
 
@@ -45,12 +45,12 @@ Manisa'nın Yunusemre ilçesinde yer alan Çapaçarık Türbesi, tarihin sâu iz
 
 ## Ziyaret Bilgileri
 
-Çapaçarık Türbesi'ni ziyaret etmek, tarihin sâu izlerini keşfetme ve Ege'nin güzelliğini deneyimlemek isteyenler için ideal bir gezi seçeneği. Bu tarihi türbeye, Manisa'nın merkezinden veya Yunusemre ilçesinden kolayca ulaşabilirsiniz. Giriş, genellikle ücretsiz veya düşük ücretli. Ziyaretçiler, türbenin tarihi ve kültürel önemini öğrenmek için rehberli turlara katılabilir veya çevreyi keşfetmek için yürüyüş yapabilir. Çapaçarık Türbesi, ziyaretçilere, hem tarihin derinliklerine inmek hem de Ege'nin doğal güzelliklerini keşfetmek için eşsiz bir fırsat sunuyor.
+Çapaçarık Türbesi'ni ziyaret etmek, tarihin derin izlerini keşfetme ve Ege'nin güzelliğini deneyimlemek isteyenler için ideal bir gezi seçeneği. Bu tarihi türbeye, Manisa'nın merkezinden veya Yunusemre ilçesinden kolayca ulaşabilirsiniz. Giriş, genellikle ücretsiz veya düşük ücretli. Ziyaretçiler, türbenin tarihi ve kültürel önemini öğrenmek için rehberli turlara katılabilir veya çevreyi keşfetmek için yürüyüş yapabilir. Çapaçarık Türbesi, ziyaretçilere, hem tarihin derinliklerine inmek hem de Ege'nin doğal güzelliklerini keşfetmek için eşsiz bir fırsat sunuyor.
 
 ## İlginç Bilgiler
 
 - Çapaçarık Türbesi, Manisa'nın en önemli kültürel miraslarından biri.
 - Türbenin çevresinde, çeşitli bitki ve ağaç türleri bulunur.
 - Bu bölge, farklı kuş türleri ve memelilerin yaşam alanı olarak görev yapar.
-- Çapaçarık Türbesi, tarihin sâu izlerini taşıyan bir cultura varlık.
+- Çapaçarık Türbesi, tarihin derin izlerini taşıyan bir cultura varlık.
 - Ziyaretçiler, türbenin tarihi ve kültürel önemini öğrenmek için rehberli turlara katılabilir.

@@ -23,7 +23,7 @@ wikidata_id: "Q108227807"
 
 # Caygoren
 
-Caygoren milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alanda kurulmuş, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölge, zengin flora ve faunasıyla dikkat çekmektedir. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Milli parkın establishment tarihi bilinmese de, yüzyıllar boyunca bu bölge, çeşitli bitki ve hayvan türleriyle dolu, canlı bir ekosistem olarak varlığını sürdürmüştür.
+ Bu bölge, zengin flora ve faunasıyla dikkat çekmektedir. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Milli parkın establishment tarihi bilinmese de, yüzyıllar boyunca bu bölge, çeşitli bitki ve hayvan türleriyle dolu, canlı bir ekosistem olarak varlığını sürdürmüştür.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Caygoren milli parkının tarihi geçmişi, İç Anadolu Bölgesi'nin genel tari
 
 ## Coğrafya
 
-Caygoren milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden birisidir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Milli parkın coğrafyası, çeşitli bitki türleriyle kaplı, ormanlık alanlar ve geniş otlaklardan oluşmaktadır. Parkın yüksek noktaları, bölgenin genel coğrafyasını gözlemlemek için idealdir. Ayrıca, milli parkın içinde yer alan birkaç küçük göl ve akarsu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmaktadır. Caygoren milli parkı, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçmektedir. Bu iklim koşulları, bölgede yer alan flora ve faunayı etkilemektedir. Milli parkın coğrafi konumu, ziyaretçilere, bölgenin doğal güzelliklerini keşfetme fırsatı sunmaktadır.
+Caygoren milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden birisidir. Milli parkın coğrafyası, çeşitli bitki türleriyle kaplı, ormanlık alanlar ve geniş otlaklardan oluşmaktadır. Parkın yüksek noktaları, bölgenin genel coğrafyasını gözlemlemek için idealdir. Caygoren milli parkı, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçmektedir. Bu iklim koşulları, bölgede yer alan flora ve faunayı etkilemektedir.
 
 ## Flora ve Fauna
 

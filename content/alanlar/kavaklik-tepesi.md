@@ -28,7 +28,7 @@ wikidata_id: "Q31388274"
 
 # Kavaklık Tepesi
 
-Kavaklık Tepesi, Kars şehrinin doğal güzelliklerinin en önemli temsilcilerinden biri olarak karşımıza çıkıyor. Bu tepenin etrafında yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede çeşitli bitki türleri ve zengin fauna bulunmakta. Kavaklık Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere bölge hakkında dahalı bilgi edinme fırsatı sunuyor ve bu sayede Kavaklık Tepesi, sadece bir doğal güzellik değil, aynı zamanda bir kültürel deneyim olarak da değerlendiriliyor.
+Kavaklık Tepesi, Kars şehrinin doğal güzelliklerinin en önemli temsilcilerinden biri olarak karşımıza çıkıyor. Kavaklık Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere bölge hakkında dahalı bilgi edinme fırsatı sunuyor ve bu sayede Kavaklık Tepesi, sadece bir doğal güzellik değil, aynı zamanda bir kültürel deneyim olarak da değerlendiriliyor.
 
 ## Tarihçe
 
@@ -36,20 +36,20 @@ Kavaklık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Kavaklık Tepesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerinin en önemli temsilcilerinden biri olarak karşımıza çıkıyor. Tepenin etrafında yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede çeşitli bitki türleri ve zengin fauna bulunmakta. Kavaklık Tepesi, Kars şehrinin merkezine uzun bir mesafe uzaklıkta yer alıyor ve bu sayede ziyaretçilere şehrin gürültüsünden uzaklaşarak doğayla iç içe bir deneyim sunuyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre yukarıda ve bu nedenle bölgede iklim, genellikle soğuk ve karlı olarak görülüyor. Kavaklık Tepesi'nin coğrafi konumu, aynı zamanda bölgede yer alan diğer doğal güzelliklere de yakınlık sağlıyor ve bu sayede ziyaretçiler, bölgede yer alan diğer önemli noktaları da keşfetme fırsatı bulabiliyor.
+Kavaklık Tepesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerinin en önemli temsilcilerinden biri olarak karşımıza çıkıyor. Kavaklık Tepesi, Kars şehrinin merkezine uzun bir mesafe uzaklıkta yer alıyor ve bu sayede ziyaretçilere şehrin gürültüsünden uzaklaşarak doğayla iç içe bir deneyim sunuyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre yukarıda ve bu nedenle bölgede iklim, genellikle soğuk ve karlı olarak görülüyor. Kavaklık Tepesi'nin coğrafi konumu, aynı zamanda bölgede yer alan diğer doğal güzelliklere de yakınlık sağlıyor ve bu sayede ziyaretçiler, bölgede yer alan diğer önemli noktaları da keşfetme fırsatı bulabiliyor.
 
 ## Flora ve Fauna
 
-Kavaklık Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepenin etrafında yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede farklı mevsimlerde çeşitli bitki türleri bulunuyor. Bölgede, genellikle çam, köknar ve ladin gibi ağaç türleri görülüyor ve bu sayede Kavaklık Tepesi, bir orman ekosistemi olarak değerlendiriliyor. Tepenin fauna açısından da zengin olması, bölgede yer alan çeşitli hayvan türleri ile sağlanıyor. Kavaklık Tepesi, aynı zamanda bir kuş cenneti olarak görülüyor ve bölgede, özellikle kırlangıç ve keklik gibi kuş türleri bulunuyor.
+Kavaklık Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölgede, genellikle çam, köknar ve ladin gibi ağaç türleri görülüyor ve bu sayede Kavaklık Tepesi, bir orman ekosistemi olarak değerlendiriliyor. Tepenin fauna açısından da zengin olması, bölgede yer alan çeşitli hayvan türleri ile sağlanıyor. Kavaklık Tepesi, aynı zamanda bir kuş cenneti olarak görülüyor ve bölgede, özellikle kırlangıç ve keklik gibi kuş türleri bulunuyor.
 
 ## Ziyaret Bilgileri
 
-Kavaklık Tepesi, ziyaretçilere doğayla iç içe bir deneyim sunuyor ve bu sayede bölgede yer alan diğer önemli noktaları da keşfetme fırsatı bulabiliyor. Tepenin etrafında yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede çeşitli bitki türleri ve zengin fauna bulunmakta. Kavaklık Tepesi'ne ulaşmak için, Kars şehrinin merkezinden uzun bir mesafe uzaklıkta yer alan bir yoldan yararlanabilirsiniz. Tepenin ziyaretçileri, genellikle ilkbahar ve yaz aylarında bölgede yer alan çeşitli etkinliklere katılıyor ve bu sayede Kavaklık Tepesi, bir turizm merkezi olarak değerlendiriliyor.
+Kavaklık Tepesi, ziyaretçilere doğayla iç içe bir deneyim sunuyor ve bu sayede bölgede yer alan diğer önemli noktaları da keşfetme fırsatı bulabiliyor. Kavaklık Tepesi'ne ulaşmak için, Kars şehrinin merkezinden uzun bir mesafe uzaklıkta yer alan bir yoldan yararlanabilirsiniz. Tepenin ziyaretçileri, genellikle ilkbahar ve yaz aylarında bölgede yer alan çeşitli etkinliklere katılıyor ve bu sayede Kavaklık Tepesi, bir turizm merkezi olarak değerlendiriliyor.
 
 ## İlginç Bilgiler
 
 - Kavaklık Tepesi, Kars şehrinin doğal güzelliklerinin en önemli temsilcilerinden biri olarak görülüyor.
-- Tepenin etrafında yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Kavaklık Tepesi, bir orman ekosistemi olarak değerlendiriliyor.
 - Bölgede, genellikle çam, köknar ve ladin gibi ağaç türleri görülüyor.
 - Kavaklık Tepesi, bir kuş cenneti olarak görülüyor ve bölgede, özellikle kırlangıç ve keklik gibi kuş türleri bulunuyor.

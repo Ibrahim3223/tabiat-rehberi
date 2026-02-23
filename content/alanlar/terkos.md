@@ -23,7 +23,7 @@ wikidata_id: "Q108227873"
 
 # Terkos
 
-Terkos, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, doğa severler için gerçek bir cennet. Terkos'un tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olmasıyla da dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor. Terkos'un konumu, ziyaretçilerin kolayca ulaşabileceği bir noktada bulunuyor. Milli parkın giriş ücreti, ziyaretçilerin bütçesini zorlamayacak şekilde belirlenmiştir.
+Terkos, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Terkos'un tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olmasıyla da dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor. Terkos'un konumu, ziyaretçilerin kolayca ulaşabileceği bir noktada bulunuyor. Milli parkın giriş ücreti, ziyaretçilerin bütçesini zorlamayacak şekilde belirlenmiştir.
 
 ## Tarihçe
 

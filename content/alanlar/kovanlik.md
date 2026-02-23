@@ -23,7 +23,7 @@ wikidata_id: "Q108228175"
 
 # Kovanlık
 
-Kovanlık, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedenler için bir cennet. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, çeşitli bitki türleri ve zengin faunasıyla dikkat çekiyor. Kovanlık, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmesi gereken bir yer.
+Kovanlık, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedenler için bir cennet. Bu geniş alan, çeşitli bitki türleri ve zengin faunasıyla dikkat çekiyor. Kovanlık, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

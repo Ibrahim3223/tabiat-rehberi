@@ -49,7 +49,7 @@ Bölgenin su kaynakları açısından da önemli bir role sahip olan Munzur Dağ
 
 ## Flora ve Fauna
 
-Munzur Dağı, Erzincan'ın yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Munzur Dağı, Erzincan'ın yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ eteklerinde renkli çiçekler açar. Alpin flora, dağların yükseklik zonlarına özgüdür ve bu bölgede endemik türlerle karşılaşma mümkün. Sonbaharda, dağ çayırları sarı ve altın rengine bürünür, bu manzara görenleri büyüler.
 

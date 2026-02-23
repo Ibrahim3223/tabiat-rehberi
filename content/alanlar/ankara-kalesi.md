@@ -30,7 +30,7 @@ wikidata_id: "Q206225"
 
 # Ankara Kalesi
 
-Ankara Kalesi, Türkiye'nin başkenti Ankara'nın merkezinde yer alan tarihi bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin en önemli turistik noktalarından biridir. Kale, tarihi geçmişi ile dikkat çeker ve ziyaretçilerini geçmişe götürür. Ankara Kalesi, şehrin kalbidir ve ziyaretçilere zengin bir kültürel deneyim sunar. Bu tarihi mekan, Ankara'nın en önemli sembollerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
+Ankara Kalesi, Türkiye'nin başkenti Ankara'nın merkezinde yer alan tarihi bir yapıdır. Kale, tarihi geçmişi ile dikkat çeker ve ziyaretçilerini geçmişe götürür. Ankara Kalesi, şehrin kalbidir ve ziyaretçilere zengin bir kültürel deneyim sunar. Bu tarihi mekan, Ankara'nın en önemli sembollerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 

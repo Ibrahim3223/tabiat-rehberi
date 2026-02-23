@@ -1,7 +1,7 @@
 ---
 title: "Mugla-Karabortlen-Fistikcami1"
 date: "2026-01-09T20:14:46.405Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Muğla"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228520"
 
 # Mugla-Karabortlen-Fistikcami1
 
-Muğla'nın güzide bir bölgesinde yer alan Mugla-Karabortlen-Fistikcami1 milli parkı, ziyaretçilerini yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ile karşılar. Bu bölgenin coğrafi konumu, Ege Bölgesi'nin en güzel köşelerinden birini oluşturur. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tarihi geçmişi ile de dikkat çeken bu milli park, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
+ Bu bölgenin coğrafi konumu, Ege Bölgesi'nin en güzel köşelerinden birini oluşturur. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tarihi geçmişi ile de dikkat çeken bu milli park, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Mugla-Karabortlen-Fistikcami1 milli parkı, Ege Bölgesi'nin en güzel coğrafi 
 
 ## Flora ve Fauna
 
-Mugla-Karabortlen-Fistikcami1 milli parkı, flora ve fauna açısından oldukça zengindir. Bu bölgenin bitki örtüsü, çeşitli ağaç türleri, çalıları ve otsu bitkileri içerir. Mevsimsel değişimlere bağlı olarak, bu bitki türleri, renkli bir görsellik sunar. Fauna açısından da zengin olan milli parkta, çeşitli hayvan türleri ile karşılaşma mümkün. Bu hayvanlar, milli parkın içerisinde, özgürce dolaşır ve yaşar. Milli parkın ekolojik dengesi, flora ve faunanın birlikte var olmasına bağlı olarak şekillenir.
+ Bu bölgenin bitki örtüsü, çeşitli ağaç türleri, çalıları ve otsu bitkileri içerir. Mevsimsel değişimlere bağlı olarak, bu bitki türleri, renkli bir görsellik sunar. Fauna açısından da zengin olan milli parkta, çeşitli hayvan türleri ile karşılaşma mümkün. Bu hayvanlar, milli parkın içerisinde, özgürce dolaşır ve yaşar. Milli parkın ekolojik dengesi, flora ve faunanın birlikte var olmasına bağlı olarak şekillenir.
 
 ## Ziyaret Bilgileri
 

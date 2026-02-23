@@ -50,11 +50,11 @@ Bakırlıdağı Tepe'nin çevresel ilişkileri, komşu alanlar ve su kaynakları
 
 ## Flora ve Fauna
 
-Bakırlıdağı Tepe, Antalya'nın maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemidir. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Kuraklığa dayanıklı türler, dağın yükseklik zonlarında yaşamını sürdürür. 
+Bakırlıdağı Tepe, Antalya'nın maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemidir. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Kuraklığa dayanıklı türler, dağın yükseklik zonlarında yaşamını sürdürür.
 
 Bitki örtüsünde maki türleri hakimdir. İlkbaharda, çiçeklerin açtığı dönemde, dağ manzarası renkli bir hal alır. Sonbaharda, göç eden kuşlar dağ ekosisteminde konaklar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri, dağların yüksek zonlarında dolaşırken, kartallar gökyüzünde süzülür. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri, dağların yüksek zonlarında dolaşırken, kartallar gökyüzünde süzülür.
 Bakırlıdağı Tepe'nin ekolojik değeri, kıyı ekosisteminin bir parçası olmasıdır. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğinin sürdürülmesi için önemlidir.
 
 ## Ziyaret Bilgileri

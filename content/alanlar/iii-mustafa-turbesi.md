@@ -1,7 +1,7 @@
 ---
 title: "III. Mustafa Türbesi"
 date: "2026-01-09T23:04:02.316Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391079"
 
 # III. Mustafa Türbesi
 
-III. Mustafa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok aktivite ve gezi imkanına sahiptir. Bu plaj, hem tarihi hem de doğal güzellikleri bir arada sunan ender yerlerden biridir. III. Mustafa Türbesi, İstanbul'un merkezinde bir nefes alma alanı olarak kabul edilebilir.
+III. Mustafa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir plajdır. Bu plaj, hem tarihi hem de doğal güzellikleri bir arada sunan ender yerlerden biridir. III. Mustafa Türbesi, İstanbul'un merkezinde bir nefes alma alanı olarak kabul edilebilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ III. Mustafa Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu türbe
 
 ## Coğrafya
 
-III. Mustafa Türbesi, coğrafi olarak Marmara Bölgesi'nin içinde yer alır. İstanbul'un merkezinde, Fatih ilçesinde bulunan bu plaj, Boğaziçi'nin güzelliklerini sunar. Bu bölge, coğrafi açıdan oldukça çeşitli olup, deniz, orman ve şehir dokusunu bir arada barındırır. İstanbul Boğazı'nın kıyısında, Haliç'in karşı yakasında yer alan III. Mustafa Türbesi, şehrin trafi ve gürültüsünden uzak, sakin bir atmosfere sahiptir. Yaklaşık 200 futbol sahası büyüklüğündeki 140 hektarlık alan, geniş yeşil alanları, yürüyüş yolları ve deniz kenarı ile ziyaretçilerine geniş olanaklar sunar.
+III. Mustafa Türbesi, coğrafi olarak Marmara Bölgesi'nin içinde yer alır. İstanbul'un merkezinde, Fatih ilçesinde bulunan bu plaj, Boğaziçi'nin güzelliklerini sunar. Bu bölge, coğrafi açıdan oldukça çeşitli olup, deniz, orman ve şehir dokusunu bir arada barındırır. İstanbul Boğazı'nın kıyısında, Haliç'in karşı yakasında yer alan III. Mustafa Türbesi, şehrin trafi ve gürültüsünden uzak, sakin bir atmosfere sahiptir.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ III. Mustafa Türbesi'ni ziyaret etmek, tarihi ve doğal güzellikleri bir arada
 - III. Mustafa Türbesi, İstanbul'un en önemli tarihi yapılardan biridir.
 - Türbe, III. Mustafa'nın hatırasına inşa edilmiştir.
 - Bölge, doğal güzellikleri ve tarihi yapıları bir arada sunar.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - III. Mustafa, 18. yüzyılda hüküm süren bir Osmanlı padişahıdır.

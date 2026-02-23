@@ -22,7 +22,7 @@ wikidata_id: "Q108227713"
 
 # Kastamonu-Cide-Sehdag Kayacik
 
-Kastamonu ilinin doğal güzellikleri arasında yer alan Kastamonu-Cide-Sehdag Kayacik milli parkı, 140 hektarlık bir alan üzerinde kurulmuştur. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir yeşil alan sunmaktadır. Milli park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Kastamonu ilinin Cide ilçesinde bulunan milli park, ziyaretçilere doğa ile iç içe bir deneyim sunmaktadır. Milli parkın içerisinde, çeşitli doğa güzellikleri ve yürüyüş parkurları bulunmaktadır. Ziyaretçiler, milli parkın içerisinde doğa yürüyüşleri yapabilir, piknik yapabilir veya simply doğayı seyrederek dinlenebilir.
+Kastamonu ilinin doğal güzellikleri arasında yer alan Kastamonu-Cide-Sehdag Kayacik milli parkı, 140 hektarlık bir alan üzerinde kurulmuştur. Milli park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Kastamonu ilinin Cide ilçesinde bulunan milli park, ziyaretçilere doğa ile iç içe bir deneyim sunmaktadır. Milli parkın içerisinde, çeşitli doğa güzellikleri ve yürüyüş parkurları bulunmaktadır. Ziyaretçiler, milli parkın içerisinde doğa yürüyüşleri yapabilir, piknik yapabilir veya simply doğayı seyrederek dinlenebilir.
 
 ## Tarihçe
 

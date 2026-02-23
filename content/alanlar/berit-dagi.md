@@ -33,7 +33,7 @@ Kahramanmaraş'ın doğal güzelliklerine ev sahipliği yapan Berit Dağı, böl
 
 ## Tarihçe
 
-Kahramanmaraş bölgesi, tarihin sâu sayfalarında yer alan bir coğrafyada bulunmaktadır. Bu bölge, Hititlerden Roma İmparatorluğu'na, Selçuklulara ve Osmanlılara kadar birçok uygarlığa ev sahipliği yapmış, zengin bir kültürel mirasa sahip olmuştur. Berit Dağı, bu tarihsel coğrafyanın önemli bir parçasını oluşturmaktadır.
+Kahramanmaraş bölgesi, tarihin derin sayfalarında yer alan bir coğrafyada bulunmaktadır. Bu bölge, Hititlerden Roma İmparatorluğu'na, Selçuklulara ve Osmanlılara kadar birçok uygarlığa ev sahipliği yapmış, zengin bir kültürel mirasa sahip olmuştur. Berit Dağı, bu tarihsel coğrafyanın önemli bir parçasını oluşturmaktadır.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için önemli kaynaklar olmuştur. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların geleneksel faaliyetleri arasında yer almıştır. Berit Dağı da, bu faaliyetlerin yürütüldüğü önemli bir merkez olarak karşımıza çıkmaktadır. Bölgenin coğrafi konumu, tarihi ticaret yollarının da burada bulunmasını sağlamıştır. İnsanların bu doğal alanlarla olan ilişkisi, sadece ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda kültürel ve sosyal yaşamın da önemli bir parçası haline gelmiştir.
 

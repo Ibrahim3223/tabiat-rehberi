@@ -1,7 +1,7 @@
 ---
 title: "Kissebükü Hamamı"
 date: "2026-01-09T23:54:00.214Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245710"
 
 # Kissebükü Hamamı
 
-Kissebükü Hamamı Plajı, Bodrum'un en güzel ve sakin plajlarından biri olarak bilinen bir yer. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Denizi'nin masmavi suları ile çevrilidir. Plajın golden kumlu sahili ve berrak suları, ziyaretçilerin güneşlenmek, yüzme ve deniz faaliyetleri yapmak için ideal bir ortam sunar. Kissebükü Hamamı Plajı, doğa severler ve deniz aşığı olanlar için bir cennet olarak düşünülebilir.
+Kissebükü Hamamı Plajı, Bodrum'un en güzel ve sakin plajlarından biri olarak bilinen bir yer. Plajın golden kumlu sahili ve berrak suları, ziyaretçilerin güneşlenmek, yüzme ve deniz faaliyetleri yapmak için ideal bir ortam sunar. Kissebükü Hamamı Plajı, doğa severler ve deniz aşığı olanlar için bir cennet olarak düşünülebilir.
 
 ## Tarihçe
 

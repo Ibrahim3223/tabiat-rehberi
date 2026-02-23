@@ -1,7 +1,7 @@
 ---
 title: "Felezade Süleyman Çavuş Türbesi"
 date: "2026-01-10T07:37:50.432Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391282"
 
 # Felezade Süleyman Çavuş Türbesi
 
-Felezade Süleyman Çavuş Türbesi, Afyonkarahisar'ın merkezi bölgesinde yer alan tarihi ve doğal güzelliklerin bir arada bulunmasını sağlayan özel bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi tarihi yapılarla çevrili olan bu özel bölge, ziyaretçilerini tarihin ve doğanın kucaklamasıyla karşılar. Felezade Süleyman Çavuş Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunması bakımından önemli bir turistik noktadır.
+Felezade Süleyman Çavuş Türbesi, Afyonkarahisar'ın merkezi bölgesinde yer alan tarihi ve doğal güzelliklerin bir arada bulunmasını sağlayan özel bir destinasyondur. Felezade Süleyman Çavuş Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunması bakımından önemli bir turistik noktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Felezade Süleyman Çavuş Türbesi'nin tarihi geçmişi, yüzyıllar boyunca ç
 
 ## Coğrafya
 
-Felezade Süleyman Çavuş Türbesi, coğrafi olarak Afyonkarahisar'ın merkezi bölgesinde yer alır ve Ege Bölgesi'nin doğal güzelliklerini sunar. Türbe ve çevresindeki alan, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Çevresi tarihi yapılarla çevrili olan bu bölge, ziyaretçilere hem tarihin hem de doğanın güzelliklerini bir arada sunar. İklim olarak, Ege Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çeker ve ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
+Felezade Süleyman Çavuş Türbesi, coğrafi olarak Afyonkarahisar'ın merkezi bölgesinde yer alır ve Ege Bölgesi'nin doğal güzelliklerini sunar. Çevresi tarihi yapılarla çevrili olan bu bölge, ziyaretçilere hem tarihin hem de doğanın güzelliklerini bir arada sunar. İklim olarak, Ege Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Felezade Süleyman Çavuş Türbesi'ni ziyaret etmek, hem tarihi hem de doğal g
 ## İlginç Bilgiler
 
 - Felezade Süleyman Çavuş Türbesi, tarihi ve doğal güzelliklerinin bir arada bulunması bakımından önemli bir destinasyondur.
-- Türbe, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir.
-- Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Ziyaretçiler, türbeyi ve çevresindeki tarihi yapıları gezebilir ve bölgenin kültürel mirasını öğrenme fırsatı bulabilir.
 - Felezade Süleyman Çavuş Türbesi, Afyonkarahisar'ın merkezi bölgesinde yer alır ve Ege Bölgesi'nin doğal güzelliklerini sunar.

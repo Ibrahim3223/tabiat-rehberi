@@ -22,7 +22,7 @@ wikidata_id: "Q108227952"
 
 # Mersin-Mut Karacam
 
-Mersin-Mut Karacam milli parkı, yaklaşık 140 hektarlık bir alanı kapsayan ve Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Mersin-Mut Karacam milli parkı, ziyaretçiler için zengin bir flora ve fauna sunmaktadır. Burada, çeşitli bitki türleri ve hayvanlar bulunmakta ve doğa severler için bir cennet niteliğinde olmasıyla dikkat çekmektedir. Mersin-Mut Karacam milli parkı, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini büyülemektedir.
+Mersin-Mut Karacam milli parkı, yaklaşık 140 hektarlık bir alanı kapsayan ve Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Mersin-Mut Karacam milli parkı, ziyaretçiler için zengin bir flora ve fauna sunmaktadır. Burada, çeşitli bitki türleri ve hayvanlar bulunmakta ve doğa severler için bir cennet niteliğinde olmasıyla dikkat çekmektedir. Mersin-Mut Karacam milli parkı, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 

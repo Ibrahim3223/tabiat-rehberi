@@ -28,7 +28,7 @@ wikidata_id: "Q112748145"
 
 # Faso Şelalesi
 
-İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık yeşil bir alan, yaklaşık 200 futbol sahası büyüklüğünde, Faso Şelalesi'nin güzelliğini sergiliyor. Bu doğa harikası, ziyaretçilerini büyüleyici bir dünyaya götürüyor. Şelalenin sesi, kuşların şarkısı ve rüzgarın hışırdatması, burada bulunan herkesi huzura davet ediyor. Faso Şelalesi, sadece bir şelale değil, aynı zamanda bir doğa cenneti.
+ Bu doğa harikası, ziyaretçilerini büyüleyici bir dünyaya götürüyor. Şelalenin sesi, kuşların şarkısı ve rüzgarın hışırdatması, burada bulunan herkesi huzura davet ediyor. Faso Şelalesi, sadece bir şelale değil, aynı zamanda bir doğa cenneti.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Faso Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca burada yaşamış meden
 
 ## Coğrafya
 
-Faso Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından birisidir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alan, çeşitli bitki türleri ile kaplıdır. Şelalenin suyu, çevredeki dağlardan gelen kaynak suları ile beslenmektedir. Faso Şelalesi, bir vadi içinde yer alıyor ve çevredeki tepeler, bu alanı bir doğa koruma alanı haline getirmiştir. Bu bölgenin iklimi, karasal iklim özellikleri göstermektedir. kışın soğuk ve yağışlı, yazın ise sıcak ve kurak bir hava hakimdir. Faso Şelalesi, bu coğrafi özellikler ile birlikte, ziyaretçilerine benzersiz bir doğa deneyimi sunuyor.
+Faso Şelalesi, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından birisidir. Şelalenin suyu, çevredeki dağlardan gelen kaynak suları ile beslenmektedir. Faso Şelalesi, bir vadi içinde yer alıyor ve çevredeki tepeler, bu alanı bir doğa koruma alanı haline getirmiştir. Bu bölgenin iklimi, karasal iklim özellikleri göstermektedir. kışın soğuk ve yağışlı, yazın ise sıcak ve kurak bir hava hakimdir. Faso Şelalesi, bu coğrafi özellikler ile birlikte, ziyaretçilerine benzersiz bir doğa deneyimi sunuyor.
 
 ## Flora ve Fauna
 

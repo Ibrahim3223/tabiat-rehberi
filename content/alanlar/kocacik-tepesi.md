@@ -28,7 +28,7 @@ wikidata_id: "Q31387053"
 
 # Kocacık Tepesi
 
-Kocacık Tepesi, Amasya'nın merkezi bir noktasında yer alan ve şehrin panoramik manzarasına hakim olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin tarihi dokusunu korumak için önemli bir bölgedir. Tepenin eteklerinde tarihi yapılar ve yeşil alanlar yer alır. Bu bölge, hem şehrin tarihini hem de doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
+Kocacık Tepesi, Amasya'nın merkezi bir noktasında yer alan ve şehrin panoramik manzarasına hakim olan bir tepe. Tepenin eteklerinde tarihi yapılar ve yeşil alanlar yer alır. Bu bölge, hem şehrin tarihini hem de doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

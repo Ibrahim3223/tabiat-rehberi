@@ -28,7 +28,7 @@ wikidata_id: "Q32211045"
 
 # Küçüktepeler
 
-Küçüktepeler, Mersin ilinin sınırları içerisinde yer alan ve doğal güzellikleri ile dikkat çeken bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Küçüktepeler, Akdeniz Bölgesi'nin güzide noktalarından biridir ve hem doğal güzellikleri hem de tarihi geçmişi ile dikkat çekmektedir. Bu bölge, ziyaretçilerine doğayı keşfetme ve tarihi geçmişini öğrenme fırsatı sunar.
+Küçüktepeler, Mersin ilinin sınırları içerisinde yer alan ve doğal güzellikleri ile dikkat çeken bir alandır. Küçüktepeler, Akdeniz Bölgesi'nin güzide noktalarından biridir ve hem doğal güzellikleri hem de tarihi geçmişi ile dikkat çekmektedir. Bu bölge, ziyaretçilerine doğayı keşfetme ve tarihi geçmişini öğrenme fırsatı sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Küçüktepeler'in tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Küçüktepeler, Mersin ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Bu bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, Küçüktepeler'in çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklimi, Akdeniz ikliminin özellikleri taşır ve genellikle sıcak ve kurudur. Bu bölge, deniz seviyesinden belirli bir yükseklikte yer alır ve çevresi, dağlar ve tepelerle çevrilidir. Küçüktepeler'in coğrafi konumu, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunar ve çeşitli coğrafi oluşumları görmelerine olanak sağlar.
+Küçüktepeler, Mersin ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Coğrafi olarak, Küçüktepeler'in çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklimi, Akdeniz ikliminin özellikleri taşır ve genellikle sıcak ve kurudur. Bu bölge, deniz seviyesinden belirli bir yükseklikte yer alır ve çevresi, dağlar ve tepelerle çevrilidir. Küçüktepeler'in coğrafi konumu, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunar ve çeşitli coğrafi oluşumları görmelerine olanak sağlar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Küçüktepeler'i ziyaret etmek, doğayı keşfetme ve tarihi geçmişi öğrenm
 ## İlginç Bilgiler
 
 - Küçüktepeler, 140 hektarlık bir yeşil alana sahiptir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Küçüktepeler'in çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Bu bölge, deniz seviyesinden belirli bir yükseklikte yer alır.
 - Küçüktepeler, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunar.

@@ -28,7 +28,7 @@ wikidata_id: "Q31568317"
 
 # Elibağlı Tepesi
 
-Elibağlı Tepesi, Samsun'un doğal güzellikleri arasında yer alan bir tepe. Bu tepe, 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda. Bu yükseklik, ziyaretçilere Samsun'un şehir manzarasını izleme fırsatı sunuyor. Elibağlı Tepesi, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepede, mevsimsel değişimlere göre farklı bitki türleri yetişiyor. İlkbahar ve yaz aylarında, tepenin çevresi yeşilleniyor ve çiçek açıyor. Kış aylarında ise, tepenin üst kısmı karla kaplanıyor.
+Elibağlı Tepesi, Samsun'un doğal güzellikleri arasında yer alan bir tepe. Bu tepe, 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda. Bu yükseklik, ziyaretçilere Samsun'un şehir manzarasını izleme fırsatı sunuyor. Elibağlı Tepesi, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepede, mevsimsel değişimlere göre farklı bitki türleri yetişiyor. İlkbahar ve yaz aylarında, tepenin çevresi yeşilleniyor ve çiçek açıyor. Kış aylarında ise, tepenin üst kısmı karla kaplanıyor.
 
 ## Tarihçe
 

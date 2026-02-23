@@ -1,7 +1,7 @@
 ---
 title: "Sebastopolis Roma Hamamı"
 date: "2026-01-09T23:30:36.457Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739108"
 
 # Sebastopolis Roma Hamamı
 
-Sebastopolis Roma Hamamı, Tokat'ın Sulusaray ilçesinde bulunan ve tarihi öneme sahip bir Roma hamamıdır. Bu hamam, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu størrelği ile ziyaretçilerini etkileyen bir alandır. Sebastopolis Roma Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekleyen özel bir gezi noktasıdır.
+Sebastopolis Roma Hamamı, Tokat'ın Sulusaray ilçesinde bulunan ve tarihi öneme sahip bir Roma hamamıdır. Bu hamam, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. Sebastopolis Roma Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekleyen özel bir gezi noktasıdır.
 
 ## Tarihçe
 

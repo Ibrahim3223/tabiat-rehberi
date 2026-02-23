@@ -1,7 +1,7 @@
 ---
 title: "Fethullah Dede Türbesi"
 date: "2026-01-10T06:38:31.520Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735179"
 
 # Fethullah Dede Türbesi
 
-Fethullah Dede Türbesi, Bursa'nın Yıldırım ilçesinde yer alan bir tarihi mekan. Bu mekan, Marmara Bölgesi'nin önemli kültür miraslarından biri olarak kabul ediliyor. 140 hektarlık bir alanda bulunan Fethullah Dede Türbesi, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Fethullah Dede Türbesi, yıl boyunca birçok ziyaretçiyi ağırlıyor ve bölgenin önemli turizm noktalarından biri haline geliyor.
+Fethullah Dede Türbesi, Bursa'nın Yıldırım ilçesinde yer alan bir tarihi mekan. Bu mekan, Marmara Bölgesi'nin önemli kültür miraslarından biri olarak kabul ediliyor. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Fethullah Dede Türbesi, yıl boyunca birçok ziyaretçiyi ağırlıyor ve bölgenin önemli turizm noktalarından biri haline geliyor.
 
 ## Tarihçe
 

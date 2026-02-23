@@ -1,7 +1,7 @@
 ---
 title: "Altınoluk Hamamı"
 date: "2026-01-09T23:28:15.725Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -30,11 +30,11 @@ wikidata_id: "Q131739051"
 
 # Altınoluk Hamamı
 
-Altınoluk Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyon. Edremit'in merkezine yakın konumu ve geniş kumsalı ile ziyaretçilerini cezbeden bu plaj, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Altınoluk Hamamı, denize girerek güneşin tadını çıkarmak isteyenler için ideal bir seçim. Plajın etrafındaki yeşil alanlar ve ağaçlar, ziyaretçilere serin ve gölge bir ortam sunuyor.
+Altınoluk Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyon. Altınoluk Hamamı, denize girerek güneşin tadını çıkarmak isteyenler için ideal bir seçim. Plajın etrafındaki yeşil alanlar ve ağaçlar, ziyaretçilere serin ve gölge bir ortam sunuyor.
 
 ## Tarihçe
 
-Altınoluk Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olan Edremit'in tarihini yansıtıyor. Bu bölge, antik dönemlerden beri önemli bir yerleşim merkezi olarak biliniyor. Altınoluk Hamamı, doğal güzelliği ve tarihi önemi ile birlikte, ziyaretçilerini zamanda yolculuğa çıkarıyor. Bölgenin tarihi geçmişi, birçok tarihi yapı ve kalıntı ile desteklenmektedir. Altınoluk Hamamı, bu tarihi zenginliklerin bir parçası olarak, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Altınoluk Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olan Edremit'in tarihini yansıtıyor. Bu bölge, antik dönemlerden beri önemli bir yerleşim merkezi olarak biliniyor. Altınoluk Hamamı, doğal güzelliği ve tarihi önemi ile birlikte, ziyaretçilerini zamanda yolculuğa çıkarıyor. Bölgenin tarihi geçmişi, birçok tarihi yapı ve kalıntı ile desteklenmektedir.
 
 ## Coğrafya
 
@@ -50,7 +50,6 @@ Altınoluk Hamamı, ziyaretçilerine birçok olanak sunuyor. Plaj, denize girere
 
 ## İlginç Bilgiler
 
-- Altınoluk Hamamı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Plajın etrafındaki yeşil alanlar, birçok bitki türünü barındırıyor.
 - Altınoluk Hamamı'nın deniz suyu, temiz ve berrak.
 - Plajın etrafında, birçok otel, restoran ve alışveriş merkezi bulunmakta.

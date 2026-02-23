@@ -52,7 +52,7 @@ Mevsimsel değişikliklere bağlı olarak, Kelmis Dağı'nın iklim karakteri de
 
 Kelmis Dağı, step bitki örtüsünün hakim olduğu bir bölge olarak, kuraklığa adapte etmiş türlerle dolu bir dağ ekosistemi sunar. İnce dalları ve küçük yapraklarıyla, bu bitkiler su kaybını minimize ederler. İlkbaharla birlikte, dağ eteklerinde renkli çiçekler açar, bu bölgenin güzelliğini ortaya çıkarır.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağların yüksek zonlarında, dağ keçileri ve yaban keçileri yaşamlarını sürdürürler. Göç mevsiminde, çeşitli kuş türleri bu bölgeyi ziyaret eder, dağların yükseklik zonlarını kullanarak göç yollarını oluşturur. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağların yüksek zonlarında, dağ keçileri ve yaban keçileri yaşamlarını sürdürürler. Göç mevsiminde, çeşitli kuş türleri bu bölgeyi ziyaret eder, dağların yükseklik zonlarını kullanarak göç yollarını oluşturur.
 
 Kelmis Dağı'nın ekolojik değeri, bu dağ ekosisteminin korunmasına bağlıdır. Bu bölgenin korunması, yalnızca yerel türlerin yaşamlarını sürdürmelerine değil, aynı zamanda ekosistemin dengesini korumaya da yardımcı olur.
 

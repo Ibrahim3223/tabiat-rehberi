@@ -1,7 +1,7 @@
 ---
 title: "Zeynel Arap Türbesi"
 date: "2026-01-10T06:52:31.698Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -37,7 +37,7 @@ Zeynel Arap Türbesi'nin tarihi geçmişi, Gelibolu'nun tarihi ile iç içe geç
 
 ## Coğrafya
 
-Zeynel Arap Türbesi, Çanakkale'nin Gelibolu ilçesinde, Marmara Bölgesi'nin coğrafi güzelliklerini sergileyen bir konumda yer alıyor. Bu bölgenin coğrafyası, Gelibolu Yarımadası'nın karakteristik özelliklerini taşıyor. Türbenin bulunduğu alanı, yaklaşık 140 hektarlık bir yeşil alan kaplıyor ve bu, yaklaşık 200 futbol sahası büyüklüğünde bir alanı karşılıyor. Bu bölge, Gelibolu'nun coğrafi güzelliklerini ve tarihi değerlerini bir araya getiren önemli bir destinasyon. Zeynel Arap Türbesi'nin okolí, Gelibolu'nun doğal güzelliklerini keşfetmek için ideal bir başlangıç noktası sunuyor. Bu bölgede, ziyaretçiler hem tarihsel açıdan önemli yapıları hem de Gelibolu'nun doğal güzelliklerini keşfetme fırsatına sahip oluyorlar.
+Zeynel Arap Türbesi, Çanakkale'nin Gelibolu ilçesinde, Marmara Bölgesi'nin coğrafi güzelliklerini sergileyen bir konumda yer alıyor. Bu bölgenin coğrafyası, Gelibolu Yarımadası'nın karakteristik özelliklerini taşıyor. Bu bölge, Gelibolu'nun coğrafi güzelliklerini ve tarihi değerlerini bir araya getiren önemli bir destinasyon. Zeynel Arap Türbesi'nin okolí, Gelibolu'nun doğal güzelliklerini keşfetmek için ideal bir başlangıç noktası sunuyor. Bu bölgede, ziyaretçiler hem tarihsel açıdan önemli yapıları hem de Gelibolu'nun doğal güzelliklerini keşfetme fırsatına sahip oluyorlar.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34810138"
 
 # Üçler Tepesi
 
-Üçler Tepesi, Kars'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir manzara sunuyor. Bu tepe, özellikle doğa severlerin ve fotoğrafçıların ilgisini çekiyor. Üçler Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, yaban hayatının korunmasına yardımcı olmak adına önemli bir rol oynuyor.
+Üçler Tepesi, Kars'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, özellikle doğa severlerin ve fotoğrafçıların ilgisini çekiyor. Üçler Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, yaban hayatının korunmasına yardımcı olmak adına önemli bir rol oynuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34810138"
 
 ## Coğrafya
 
-Üçler Tepesi, Kars ilinin coğrafi yapısının önemli bir parçasını oluşturuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Üçler Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Bu bölge, özellikle doğa severlerin ve fotoğrafçıların ilgisini çekiyor. Üçler Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu tepe, yaban hayatının korunmasına yardımcı olmak adına önemli bir rol oynuyor. Coğrafi konumu itibariyle, Üçler Tepesi, Kars ilinin diğer doğal güzelliklerine yakın bir konumda bulunuyor.
+Üçler Tepesi, Kars ilinin coğrafi yapısının önemli bir parçasını oluşturuyor. Üçler Tepesi'nin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Bu bölge, özellikle doğa severlerin ve fotoğrafçıların ilgisini çekiyor. Üçler Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu tepe, yaban hayatının korunmasına yardımcı olmak adına önemli bir rol oynuyor. Coğrafi konumu itibariyle, Üçler Tepesi, Kars ilinin diğer doğal güzelliklerine yakın bir konumda bulunuyor.
 
 ## Flora ve Fauna
 

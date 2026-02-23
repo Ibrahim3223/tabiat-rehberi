@@ -28,7 +28,7 @@ wikidata_id: "Q31386805"
 
 # Yanmış Tepe
 
-Yanmış Tepe, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanıyla, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Bu tepe, coğrafi konumu itibarıyla bölgenin önemli noktalarından biri olarak kabul ediliyor. Tarihi geçmişi ve coğrafi özellikleri ile birlikte, doğa severlerin ve tarih meraklılarının ilgisini çekmeyi başarıyor. Yanmış Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor. 200 futbol sahası büyüklüğündeki bu alan, geniş ve verimli bir bölgedir.
+ Bu tepe, coğrafi konumu itibarıyla bölgenin önemli noktalarından biri olarak kabul ediliyor. Tarihi geçmişi ve coğrafi özellikleri ile birlikte, doğa severlerin ve tarih meraklılarının ilgisini çekmeyi başarıyor. Yanmış Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor. 200 futbol sahası büyüklüğündeki bu alan, geniş ve verimli bir bölgedir.
 
 ## Tarihçe
 

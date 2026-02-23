@@ -1,7 +1,7 @@
 ---
 title: "Yeniceköy Hamamı"
 date: "2026-01-10T04:31:24.651Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738778"
 
 # Yeniceköy Hamamı
 
-Yeniceköy Hamamı, İzmir'in Tire ilçesinde yer alan bir plajdır. Bu güzel plaj, Ege Bölgesi'nin en güzel ve sakin yerlerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahiptir. Deniz suyu berra ve temizdir, ayrıca plaj çevresinde çeşitli bitki türleri bulunmaktadır. Bu plaj, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor.
+Yeniceköy Hamamı, İzmir'in Tire ilçesinde yer alan bir plajdır. Bu güzel plaj, Ege Bölgesi'nin en güzel ve sakin yerlerinden biridir. Deniz suyu berra ve temizdir, ayrıca plaj çevresinde çeşitli bitki türleri bulunmaktadır. Bu plaj, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor.
 
 ## Tarihçe
 

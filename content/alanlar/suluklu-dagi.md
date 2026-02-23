@@ -51,10 +51,10 @@ Sülüklü Dağı'nın çevresel ilişkileri, komşu alanlar ve su kaynakları a
 
 ## Flora ve Fauna
 
-Sülüklü Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrilmiş bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde zeytin ağaçları çiçek açıyor ve çam ormanları da yeşilleniyor. 
+Sülüklü Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrilmiş bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde zeytin ağaçları çiçek açıyor ve çam ormanları da yeşilleniyor.
 
-Bitki örtüsünün hakim türleri arasında çam, zeytin ve maki gibi türler yer alıyor. Mevsimsel değişimlerle birlikte, dağın yükseklik zonlarında farklı flora türlerine rastlama mümkün. 
-Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağda yaşayan canlılar, yaşam alanlarına bağlı olarak farklı ekolojik ilişkiler içinde yer alıyor. Örneğin, zeytinliklerde yaşayan bazı memeliler, çam ormanlarına göç ediyor. 
+Bitki örtüsünün hakim türleri arasında çam, zeytin ve maki gibi türler yer alıyor. Mevsimsel değişimlerle birlikte, dağın yükseklik zonlarında farklı flora türlerine rastlama mümkün.
+Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağda yaşayan canlılar, yaşam alanlarına bağlı olarak farklı ekolojik ilişkiler içinde yer alıyor. Örneğin, zeytinliklerde yaşayan bazı memeliler, çam ormanlarına göç ediyor.
 Sülüklü Dağı, ekolojik değerini koruma altına almak için önemli bir bölgedir. Bu dağ ekosisteminin korunması, sadece bölgedeki canlıları değil, aynı zamanda iklim dengesini de korumaya yardımcı oluyor.
 
 ## Ziyaret Bilgileri
@@ -65,7 +65,7 @@ Sülüklü Dağı, Muğla'nın güzide noktalarından biri. Sabah erken gitmeniz
 
 - Sülüklü Dağı, Muğla ilinin Datça Yarımadası'nda yer alır.
 - Dağın yüksekliği yaklaşık 781 metre ile yöresel bir tepe olarak kabul edilir.
-- Sülüklü Dağı'nın eteklerinde históriki yerleşim yerleri ve antik kalıntılar bulunmakta olup, tarihi açıdan önemlidir.
+- Sülüklü Dağı'nın eteklerinde tarihi yerleşim yerleri ve antik kalıntılar bulunmakta olup, tarihi açıdan önemlidir.
 - Dağ ve çevresindeki ormanlık alanlar, flora ve fauna açısından zengin bir çeşitliliğe sahiptir.
 - Yörenin iklimi, Akdeniz iklimi özellikleri gösterir ve yıllık ortalama sıcaklık 18°C civarındadır.
 - Sülüklü Dağı ve çevresindeki doğal güzellikler, trekking ve doğa yürüyüşü için popüler alanlardır.

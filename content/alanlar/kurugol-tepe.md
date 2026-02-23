@@ -28,7 +28,7 @@ wikidata_id: "Q32206206"
 
 # Kurugöl Tepe
 
-Kurugöl Tepe, İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kurugöl Tepe, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılamaya hazır. Bu tepe, bölgeye gelenlerin bir destinasyon olarak kabul ediliyor.
+Kurugöl Tepe, İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Kurugöl Tepe, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılamaya hazır. Bu tepe, bölgeye gelenlerin bir destinasyon olarak kabul ediliyor.
 
 ## Tarihçe
 

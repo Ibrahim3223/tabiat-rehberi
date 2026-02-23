@@ -22,7 +22,7 @@ wikidata_id: "Q108227517"
 
 # Kahramanmaras-Antakya-Ulucinar Karacam
 
-Kahramanmaras-Antakya-Ulucinar Karacam milli parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini sağlayan önemli bir bölgedir. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennettir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli parkın hikayesi, yüzyıllar boyunca süregelen bir doğal mirasın korunmasına dayanır.
+Kahramanmaras-Antakya-Ulucinar Karacam milli parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennettir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli parkın hikayesi, yüzyıllar boyunca süregelen bir doğal mirasın korunmasına dayanır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kahramanmaras-Antakya-Ulucinar Karacam milli parkının tarihi geçmişi, bölge
 
 ## Coğrafya
 
-Kahramanmaras-Antakya-Ulucinar Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilginç bölgelerinden biridir. Burada, çeşitli coğrafi oluşumlar ve iklim tipleri bulunmaktadır. Milli park, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Bölgenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin faunanın oluşmasına olanak tanımaktadır. Milli parkın coğrafyası, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır. Burada, coğrafi oluşumlar, iklim ve çevre arasındaki etkileşimi gözlemleyebilirsiniz. Milli parkın coğrafyası, aynı zamanda bölgenin ekolojik dengesini sağlayan önemli bir faktördür.
+Kahramanmaras-Antakya-Ulucinar Karacam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en ilginç bölgelerinden biridir. Burada, çeşitli coğrafi oluşumlar ve iklim tipleri bulunmaktadır. Bölgenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin faunanın oluşmasına olanak tanımaktadır. Milli parkın coğrafyası, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır. Burada, coğrafi oluşumlar, iklim ve çevre arasındaki etkileşimi gözlemleyebilirsiniz. Milli parkın coğrafyası, aynı zamanda bölgenin ekolojik dengesini sağlayan önemli bir faktördür.
 
 ## Flora ve Fauna
 
@@ -45,5 +45,5 @@ Kahramanmaras-Antakya-Ulucinar Karacam milli parkını ziyaret etmek, doğanın 
 - Milli parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak tanımaktadır.
 - Burada, zengin fauna ile karşılaşabilirsiniz.
 - Milli parkın hikayesi, yüzyıllar boyunca süregelen bir doğal mirasın korunmasına dayanır.
-- Milli park, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır.
+
 - Milli parkın flora ve faunası, bölgenin ekolojik dengesini sağlayan önemli bir faktördür.

@@ -28,7 +28,7 @@ wikidata_id: "Q31509889"
 
 # Namazlar Tepesi
 
-Namazlar Tepesi, Marmara Bölgesi'nin güzide illerinden biri olan Balıkesir'de yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Namazlar Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor ve buradaki yürüyüş parkurları, ziyaretçilerin doğayla baş başa kalmasını sağlıyor. Bu tepe, her mevsim farklı güzelliğini ziyaretçilerine sunuyor.
+Namazlar Tepesi, Marmara Bölgesi'nin güzide illerinden biri olan Balıkesir'de yer alan bir tepe. Namazlar Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor ve buradaki yürüyüş parkurları, ziyaretçilerin doğayla baş başa kalmasını sağlıyor. Bu tepe, her mevsim farklı güzelliğini ziyaretçilerine sunuyor.
 
 ## Tarihçe
 

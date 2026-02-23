@@ -22,7 +22,7 @@ wikidata_id: "Q108227953"
 
 # Mugla-Kemer-Akcay Karacam
 
-Muğla ilinin zengin doğası, Kemer-Akcay Karacam milli parkında tüm güzelliği ile karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin önemli doğal miraslarından biri. Bu milli park, ziyaretçilerini doğanın tüm renkleri ve sesleri ile baş başa bırakıyor. Muğla'nın tarihi ve kültürel zenginliklerinin yanı sıra, bu doğal güzelliği de keşfetmek, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Muğla ilinin zengin doğası, Kemer-Akcay Karacam milli parkında tüm güzelliği ile karşımıza çıkıyor. Bu milli park, ziyaretçilerini doğanın tüm renkleri ve sesleri ile baş başa bırakıyor. Muğla'nın tarihi ve kültürel zenginliklerinin yanı sıra, bu doğal güzelliği de keşfetmek, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

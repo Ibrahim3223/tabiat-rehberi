@@ -50,7 +50,7 @@ Doğal güzelliği ve coğrafi konumuyla dikkat çeken Alem Dağı, Taksim Meyda
 
 ## Flora ve Fauna
 
-Alem Dağı, İstanbul'un doğal güzelliklerinden biri olarak, geçiş ikliminin etkilerini taşıyan karma ormanlarla örtülü bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Alem Dağı, İstanbul'un doğal güzelliklerinden biri olarak, geçiş ikliminin etkilerini taşıyan karma ormanlarla örtülü bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü bakımından, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda, yaprak döken ağaçların sarı, turuncu ve kırmızı tonları dağ manzarasına eşsiz bir güzellik katar. Alem Dağı, aynı zamanda göçmen kuş rotası üzerinde yer alır; bu nedenle sonbahar ve ilkbahar aylarında çeşitli kuş türlerini gözlemleme mümkündür.
 

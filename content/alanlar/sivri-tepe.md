@@ -65,5 +65,5 @@ Sivri Tepe'nin ekolojik değeri, yüksek biyoçeşitliliğinden ve doğal yaşam
 - Sivri Tepe'nin yüksekliği 1.704 metredir.
 - Dağın eteklerinde İskilip ilçesi bulunmaktadır.
 - Sivri Tepe, bölgede trekking ve doğa yürüyüşü için popüler bir destinasyondur.
-- Dağın okolí, históri ve kültürel açıdan önemli yerleşim yerlerine ev sahipliği yapmaktadır.
+- Dağın okolí, tarihi ve kültürel açıdan önemli yerleşim yerlerine ev sahipliği yapmaktadır.
 - Sivri Tepe ve çevresi, Çorum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir çekim merkezidir.

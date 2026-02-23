@@ -28,7 +28,7 @@ wikidata_id: "Q31390666"
 
 # Kartak Tepesi
 
-Kartak Tepesi, Amasya'nın merkezine yakın bir konumda yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Yaklaşık 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde bulunan tarihi yapılar ve çevredeki ormanlar, ziyaretçilere zengin bir deneyim sunuyor.
+Kartak Tepesi, Amasya'nın merkezine yakın bir konumda yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Tepenin eteklerinde bulunan tarihi yapılar ve çevredeki ormanlar, ziyaretçilere zengin bir deneyim sunuyor.
 
 ## Tarihçe
 

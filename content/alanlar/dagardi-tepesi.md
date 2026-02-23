@@ -28,7 +28,7 @@ wikidata_id: "Q31388734"
 
 # Dağardı Tepesi
 
-Dağardı Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Dağardı Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepe, aynı zamanda manzarasıyla da dikkat çekiyor. Ziyaretçiler, buradan Muğla'nın eşsiz manzarasını izleyebilirler.
+Dağardı Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Dağardı Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepe, aynı zamanda manzarasıyla da dikkat çekiyor. Ziyaretçiler, buradan Muğla'nın eşsiz manzarasını izleyebilirler.
 
 ## Tarihçe
 

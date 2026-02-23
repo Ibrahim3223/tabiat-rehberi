@@ -48,9 +48,9 @@ Gebekirse Gölü, çevresindeki diğer doğal alanlarla etkileşim içinde bulun
 
 ## Flora ve Fauna
 
-Gebekirse Gölü, zeytinlikler ve çam ormanları ile çevrili bir sulak alan olarak, Akdeniz ikliminin karakteristik özelliklerini taşır. 
-1. Bitki Örtüsü: Gölün etrafında, ilkbahar aylarında renkli çiçekler açan otsu bitkiler ve sucul bitkiler görülür. 
-2. Yaban Hayatı: Su kuşları ve balıklar, gölün ekosistemini oluşturan önemli bileşenlerdir. 
+Gebekirse Gölü, zeytinlikler ve çam ormanları ile çevrili bir sulak alan olarak, Akdeniz ikliminin karakteristik özelliklerini taşır.
+1. Bitki Örtüsü: Gölün etrafında, ilkbahar aylarında renkli çiçekler açan otsu bitkiler ve sucul bitkiler görülür.
+2. Yaban Hayatı: Su kuşları ve balıklar, gölün ekosistemini oluşturan önemli bileşenlerdir.
 3. Ekolojik Değer: Göçmen kuşlar için önemli bir durak noktası olan Gebekirse Gölü, bölgenin biyolojik çeşitliliğine katkıda bulunur.
 
 ## Ziyaret Bilgileri

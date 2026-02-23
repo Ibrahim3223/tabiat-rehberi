@@ -1,7 +1,7 @@
 ---
 title: "Tarihi Vakıf Hamamı"
 date: "2026-01-09T22:26:14.591Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738497"
 
 # Tarihi Vakıf Hamamı
 
-Kastamonu'nun merkezinde yer alan Tarihi Vakıf Hamamı, şehrin en önemli tarihi mekanlarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Buhistorik mekan, şehrin kültürel ve tarihi zenginliğini yansıtması bakımından önemlidir. Tarihi Vakıf Hamamı, Kastamonu'nun geçmişini öğrenme ve şehrin tarihi atmosferini hissetmek isteyenler için ideal bir destinasyondur. Mekan, şehrin merkezi konumunda yer alır ve kolayca ulaşılabilir.
+Kastamonu'nun merkezinde yer alan Tarihi Vakıf Hamamı, şehrin en önemli tarihi mekanlarından biridir. Buhistorik mekan, şehrin kültürel ve tarihi zenginliğini yansıtması bakımından önemlidir. Tarihi Vakıf Hamamı, Kastamonu'nun geçmişini öğrenme ve şehrin tarihi atmosferini hissetmek isteyenler için ideal bir destinasyondur. Mekan, şehrin merkezi konumunda yer alır ve kolayca ulaşılabilir.
 
 ## Tarihçe
 

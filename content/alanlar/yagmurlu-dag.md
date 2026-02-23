@@ -32,7 +32,7 @@ Kars'ın doğal güzelliklerini keşfetmek isteyenler için "Yağmurlu Dağ", bi
 
 ## Tarihçe
 
-Kars bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, histórik olarak birçok uygarlığın etkisi altında kalmıştır. İskitler, Romalılar, Bizanslılar ve Selçuklular gibi büyük uygarlıkların izlerini taşıyan Kars, kültürel ve coğrafi olarak önemli bir konumdadır. "Yağmurlu Dağ" da bu tarihsel zenginliğin bir parçasıdır.
+Kars bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, tarihi olarak birçok uygarlığın etkisi altında kalmıştır. İskitler, Romalılar, Bizanslılar ve Selçuklular gibi büyük uygarlıkların izlerini taşıyan Kars, kültürel ve coğrafi olarak önemli bir konumdadır. "Yağmurlu Dağ" da bu tarihsel zenginliğin bir parçasıdır.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için hayati önem taşımıştır. Bu bölgeler, yaylacılık ve hayvancılık faaliyetleri için elverişli ortamlar sunmuştur. Ayrıca, ticaret yolları üzerinde bulunan bu alanlar, farklı kültürlerin etkileşimine sahne olmuştur. İnsanların bu doğal alanlarla ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir.
 
@@ -50,7 +50,7 @@ Genel olarak bakıldığında, Yağmurlu Dağ'ın fiziksel yapısı hakkında de
 
 ## Flora ve Fauna
 
-Yağmurlu Dağ, Kars'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yağmurlu Dağ, Kars'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne baktığımızda, ilkbahar aylarında dağ yamaçlarını renkli çiçekler süsler. Alpin flora, bu yükseklikte yaşamaya adapte olmuş endemik türlerle bezelidir. Sonbaharın yaklaşmasıyla birlikte, dağlar sarı, turuncu ve kırmızı tonlara bürünür.
 

@@ -30,11 +30,11 @@ Konya-Kadinhani-Karacam Milli Parkı, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Konya-Kadinhani-Karacam Milli Parkı, Konya ilinin coğrafi yapısına uygun olarak kurulmuş ve 140 hektarlık bir alanı kapsıyor. Parkın coğrafi konumu, ziyaretçilere geniş bir yeşil alan sunuyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Parkın içinde yer alan tepe ve vadiler, ziyaretçilere çeşitli manzaralar sunuyor. Ayrıca, parkın iklimi, Konya'nın genel iklimine uygun olarak kura ve step iklimi olarak tanımlanabilir. Parkın coğrafi yapısı, ziyaretçilere doğayı yakından tanımaları için olanak sağlıyor ve özellikle bahar aylarında, flora çeşitliliği oldukça zenginleşiyor. Parkın çevresinde, çeşitli tarım alanları ve yerleşim yerleri bulunsa da, parkın kendisi, doğal güzellikleri korumak amacıyla kurulmuş.
+Konya-Kadinhani-Karacam Milli Parkı, Konya ilinin coğrafi yapısına uygun olarak kurulmuş ve 140 hektarlık bir alanı kapsıyor. Parkın içinde yer alan tepe ve vadiler, ziyaretçilere çeşitli manzaralar sunuyor. Ayrıca, parkın iklimi, Konya'nın genel iklimine uygun olarak kura ve step iklimi olarak tanımlanabilir. Parkın coğrafi yapısı, ziyaretçilere doğayı yakından tanımaları için olanak sağlıyor ve özellikle bahar aylarında, flora çeşitliliği oldukça zenginleşiyor. Parkın çevresinde, çeşitli tarım alanları ve yerleşim yerleri bulunsa da, parkın kendisi, doğal güzellikleri korumak amacıyla kurulmuş.
 
 ## Flora ve Fauna
 
-Konya-Kadinhani-Karacam Milli Parkı, flora ve fauna açısından oldukça zengin bir alana sahip. Parkın içinde, çeşitli ağaç ve bitki türleri yer alıyor ve özellikle bahar aylarında, flora çeşitliliği oldukça zenginleşiyor. Parkın fauna açısından zenginliği, özellikle kuş türleri ve çeşitli hayvan türleriyle dikkat çekiyor. Parkın içinde, ziyaretçilere, doğayı yakından tanımaları için olanak sağlayan yürüyüş yolları ve gözlem alanları bulunuyor. Ayrıca, parkın flora ve fauna çeşitliliği, ziyaretçilere, doğal güzellikleri korumak amacıyla kurulmuş bir alanın önemini gösteriyor.
+ Parkın içinde, çeşitli ağaç ve bitki türleri yer alıyor ve özellikle bahar aylarında, flora çeşitliliği oldukça zenginleşiyor. Parkın fauna açısından zenginliği, özellikle kuş türleri ve çeşitli hayvan türleriyle dikkat çekiyor. Parkın içinde, ziyaretçilere, doğayı yakından tanımaları için olanak sağlayan yürüyüş yolları ve gözlem alanları bulunuyor. Ayrıca, parkın flora ve fauna çeşitliliği, ziyaretçilere, doğal güzellikleri korumak amacıyla kurulmuş bir alanın önemini gösteriyor.
 
 ## Ziyaret Bilgileri
 

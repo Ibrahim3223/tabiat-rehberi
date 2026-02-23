@@ -28,7 +28,7 @@ wikidata_id: "Q34818940"
 
 # Çifteağıl Tepesi
 
-Ankara'nın İç Anadolu Bölgesi'nde yer alan Çifteağıl Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölge, Ankara'nın şehir merkezine yakın bir konumda yer alır ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Çifteağıl Tepesi, ziyaretçilerine geniş ve yeşil bir alan sunar, aynı zamanda Ankara'nın tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu özellikler, Çifteağıl Tepesi'ni Ankara'nın önemli doğal ve kültürel varlıklarından biri haline getirir.
+ Bu bölge, Ankara'nın şehir merkezine yakın bir konumda yer alır ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Çifteağıl Tepesi, ziyaretçilerine geniş ve yeşil bir alan sunar, aynı zamanda Ankara'nın tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu özellikler, Çifteağıl Tepesi'ni Ankara'nın önemli doğal ve kültürel varlıklarından biri haline getirir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ankara'nın İç Anadolu Bölgesi'nde yer alan Çifteağıl Tepesi, 140 hektarl�
 
 ## Coğrafya
 
-Çifteağıl Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve bu bölge, Türkiye'nin coğrafi olarak en büyük bölgesidir. İç Anadolu Bölgesi, geniş ovaları, yüksek platoları ve dağlık alanları ile karakterizedir. Çifteağıl Tepesi de bu coğrafi özelliklerin bir parçası olarak, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu özellikler, Çifteağıl Tepesi'ni Ankara'nın önemli doğal ve kültürel varlıklarından biri haline getirir. Tepenin coğrafi konumu, ziyaretçilerine Ankara'nın coğrafi zenginliklerini keşfetme fırsatı sunar. Ankara'nın şehir merkezine yakın bir konumda yer alan Çifteağıl Tepesi, aynı zamanda şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
+Çifteağıl Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve bu bölge, Türkiye'nin coğrafi olarak en büyük bölgesidir. İç Anadolu Bölgesi, geniş ovaları, yüksek platoları ve dağlık alanları ile karakterizedir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu özellikler, Çifteağıl Tepesi'ni Ankara'nın önemli doğal ve kültürel varlıklarından biri haline getirir. Tepenin coğrafi konumu, ziyaretçilerine Ankara'nın coğrafi zenginliklerini keşfetme fırsatı sunar. Ankara'nın şehir merkezine yakın bir konumda yer alan Çifteağıl Tepesi, aynı zamanda şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
 
 ## Flora ve Fauna
 

@@ -38,7 +38,7 @@ Doğal alanlar, Türkiye'nin tarihsel mirasının önemli bir bileşenini oluşt
 
 ## Coğrafya
 
-Doğu Anadolu Bölgesi'nin kalbinde yer alan Apuchyekh Dağı, 39.2372°K ve 38.5083°D koordinatlarında Erzincan ilinin sınırları içinde bulunuyor. Bu dağ, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur ve çevresindeki yerleşim yerlerine göre konumlandırıldığında, bir şehir bloğu büyüklüğünde bir alan kaplıyor. 
+Doğu Anadolu Bölgesi'nin kalbinde yer alan Apuchyekh Dağı, 39.2372°K ve 38.5083°D koordinatlarında Erzincan ilinin sınırları içinde bulunuyor. Bu dağ, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur ve çevresindeki yerleşim yerlerine göre konumlandırıldığında, bir şehir bloğu büyüklüğünde bir alan kaplıyor.
 
 Jeolojik açıdan bakıldığında, Apuchyekh Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmuyor. Ancak, dağların genellikle karmaşık jeolojik yapılara sahip olduğu düşünülürse, bu dağ da benzer özellikler taşıyor olabilir. Eiffel Kulesi'nin yaklaşık 4 katı yükseklikte olan bir dağ, çevresindeki manzarayı etkileyen bir unsur olarak görünüyor.
 

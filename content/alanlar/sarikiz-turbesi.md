@@ -1,7 +1,7 @@
 ---
 title: "Sarıkız Türbesi"
 date: "2026-01-10T06:18:13.093Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390673"
 
 # Sarıkız Türbesi
 
-Sarıkız Türbesi, Ankara'nın Gölbaşı ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Sarıkız Türbesi, hem tarihi geçmişi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon. Bu mekan, özellikle hafta sonları ve tatil günlerinde, Ankara'nın dört bir yanından gelen ziyaretçilerle dolup taşıyor. Sarıkız Türbesi, aynı zamanda bir dinlenme ve eğlence alanı olarak da hizmet veriyor.
+Sarıkız Türbesi, Ankara'nın Gölbaşı ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Sarıkız Türbesi, hem tarihi geçmişi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon. Bu mekan, özellikle hafta sonları ve tatil günlerinde, Ankara'nın dört bir yanından gelen ziyaretçilerle dolup taşıyor. Sarıkız Türbesi, aynı zamanda bir dinlenme ve eğlence alanı olarak da hizmet veriyor.
 
 ## Tarihçe
 
@@ -53,5 +53,5 @@ Sarıkız Türbesi'ni ziyaret etmek, özellikle hafta sonları ve tatil günleri
 - Sarıkız Türbesi, Ankara'nın en önemli turistik destinasyonlarından biridir.
 - Türbenin tarihi, Osmanlı Dönemi'ne kadar uzanıyor.
 - Sarıkız Türbesi, aynı zamanda bir dini merkez olarak hizmet veriyor.
-- Türbenin etrafındaki yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Sarıkız Türbesi, doğal güzelliği ile dikkat çekiyor.

@@ -33,7 +33,7 @@ Balıkesir'in kıyılarında gizli bir hazine gibi duran Koyun Adası, ziyaretç
 
 ## Tarihçe
 
-Balıkesir bölgesi, tarihin derinliklerine uzanan bir geçmişe sahiptir. Binlerce yıl önce, bu topraklarda çeşitli uygarlıklar yaşamıştır. Hitit, Frig, Lidya ve Roma uygarlıkları, bölgenin zengin tarihini şekillendirmiştir. Bu région, ticaret yollarının kesişme noktasında yer alan stratejik bir konumda bulunmaktaydı.
+Balıkesir bölgesi, tarihin derinliklerine uzanan bir geçmişe sahiptir. Binlerce yıl önce, bu topraklarda çeşitli uygarlıklar yaşamıştır. Hitit, Frig, Lidya ve Roma uygarlıkları, bölgenin zengin tarihini şekillendirmiştir. Bu bölge, ticaret yollarının kesişme noktasında yer alan stratejik bir konumda bulunmaktaydı.
 
 Doğal güzellikleri ve verimli topraklarıyla, insan yerleşimini çekmiş ve bölgenin ekonomisini etkilemiştir. Yaylacılık ve hayvancılık, bu bölgede uzun süredir devam eden geleneksel faaliyetlerdir. İnsanlar, mevsimsel olarak bu alanlara gelerek hayvancılık yapmıştır. Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahip olmuştur. Özellikle Osmanlı döneminde, bu bölgeler ticaret ve ulaşım için önemli merkezler olarak kullanılmıştır.
 
@@ -51,9 +51,9 @@ Doğal güzellikleri ve sakin atmosferiyle dikkat çeken Koyun Adası, çevresin
 
 ## Flora ve Fauna
 
-Koyun Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Koyun Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ada özellikle ilkbahar aylarında çiçeklerle örtülür ve renkli bir manzara sunar. Kışın ise yeşilin tonlarını gösterir. 
+Bitki Örtüsü olarak, ada özellikle ilkbahar aylarında çiçeklerle örtülür ve renkli bir manzara sunar. Kışın ise yeşilin tonlarını gösterir.
 
 Yaban Hayatı olarak, ada özellikle deniz kuşları açısından önemli bir uğrak noktasıdır. Göçmen kuşlar, ada üzerinde konaklar ve beslenirler. Ayrıca, ada kıyılarında çeşitli sürüngenler de yaşamaktadır.
 

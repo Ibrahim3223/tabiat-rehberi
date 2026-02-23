@@ -1,7 +1,7 @@
 ---
 title: "Şadgeldi Türbesi"
 date: "2026-01-10T05:03:00.757Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391547"
 
 # Şadgeldi Türbesi
 
-Şadgeldi Türbesi, Amasya'nın merkezinde yer alan tarihi bir yapıdır. 140 hektarlık bir alanı kaplayan bu türbe, yaklaşık 200 futbol sahası büyüklüğündedir. Şadgeldi Türbesi, ziyaretçilerini Amasya'nın zengin tarihine ve kültürel mirasına götürür. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerinin özelliklerini taşır. Ziyaretçiler, burada hem tarihi bir yapıyı keşfedebilir hem de Amasya'nın doğal güzelliklerini görebilir.
+Şadgeldi Türbesi, Amasya'nın merkezinde yer alan tarihi bir yapıdır. Şadgeldi Türbesi, ziyaretçilerini Amasya'nın zengin tarihine ve kültürel mirasına götürür. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerinin özelliklerini taşır. Ziyaretçiler, burada hem tarihi bir yapıyı keşfedebilir hem de Amasya'nın doğal güzelliklerini görebilir.
 
 ## Tarihçe
 

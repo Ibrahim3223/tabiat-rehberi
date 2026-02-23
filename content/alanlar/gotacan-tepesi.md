@@ -28,7 +28,7 @@ wikidata_id: "Q34872612"
 
 # Götaçan Tepesi
 
-Götaçan Tepesi, Hatay'ın Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin görmesi gereken bir yer. Götaçan Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginliği sunan özel bir mekân. Bu tepe, doğa severlerin ve tarihi sevenlerin ilgisini çekecek bir destinasyon.
+ Bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin görmesi gereken bir yer. Götaçan Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginliği sunan özel bir mekân. Bu tepe, doğa severlerin ve tarihi sevenlerin ilgisini çekecek bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Götaçan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Götaçan Tepesi, Hatay'ın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bir alanı kapsamaktadır. Götaçan Tepesi'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunmaktadır. Bu tepenin etrafında bulunan dağlar, vadiler ve nehirler, bölgenin coğrafi zenginliğini gözler önüne sermektedir. Götaçan Tepesi, ziyaretçilerine hem doğal güzellikleri hem de coğrafi zenginliği sunan özel bir mekân. Bu tepe, doğa severlerin ve coğrafya sevenlerin ilgisini çekecek bir destinasyon. Götaçan Tepesi'nin iklimi, Akdeniz iklimi özellikleri taşımaktadır. Bu nedenle, Götaçan Tepesi'ni ziyaret etmek isteyenler, en iyi ziyaret zamanının ilkbahar ve sonbahar ayları olduğunu bilmelidir.
+Götaçan Tepesi, Hatay'ın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Götaçan Tepesi'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunmaktadır. Bu tepenin etrafında bulunan dağlar, vadiler ve nehirler, bölgenin coğrafi zenginliğini gözler önüne sermektedir. Götaçan Tepesi, ziyaretçilerine hem doğal güzellikleri hem de coğrafi zenginliği sunan özel bir mekân. Bu tepe, doğa severlerin ve coğrafya sevenlerin ilgisini çekecek bir destinasyon. Götaçan Tepesi'nin iklimi, Akdeniz iklimi özellikleri taşımaktadır. Bu nedenle, Götaçan Tepesi'ni ziyaret etmek isteyenler, en iyi ziyaret zamanının ilkbahar ve sonbahar ayları olduğunu bilmelidir.
 
 ## Flora ve Fauna
 

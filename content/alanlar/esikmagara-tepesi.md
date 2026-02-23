@@ -28,7 +28,7 @@ wikidata_id: "Q31544392"
 
 # Eşikmağara Tepesi
 
-Eşikmağara Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Eşikmağara Tepesi, çevresi ile birlikte yaklaşık 300 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu tepe, bölgeye gelen ziyaretçilerin ilgisini çekmekte. Eşikmağara Tepesi'nin yüksekliği, yüksek bir konumda. Bu yükseklik, ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunuyor.
+Eşikmağara Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu tepe, bölgeye gelen ziyaretçilerin ilgisini çekmekte. Eşikmağara Tepesi'nin yüksekliği, yüksek bir konumda. Bu yükseklik, ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunuyor.
 
 ## Tarihçe
 

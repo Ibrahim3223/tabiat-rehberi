@@ -34,7 +34,7 @@ Artvin'in Murgul ilçesinde yer alan Karagöl, bölgenin en güzel doğal güzel
 
 ## Tarihçe
 
-Artvin'in yemyeşil vadileri ve dağları, binlerce yıl boyunca çeşitli uygarlıkların yaşadığı önemli bir bölge olmuştur. Karagöl gibi doğal alanlar, bu bölgenin tarihsel zenginliğini ve güzelliğini korumuştur. Tarih boyunca, Gürcü Krallığı, Roma ve Bizans İmparatorluğu gibi medeniyetler, bu bölgeyi egemenlikleri altına almışlardır. 
+Artvin'in yemyeşil vadileri ve dağları, binlerce yıl boyunca çeşitli uygarlıkların yaşadığı önemli bir bölge olmuştur. Karagöl gibi doğal alanlar, bu bölgenin tarihsel zenginliğini ve güzelliğini korumuştur. Tarih boyunca, Gürcü Krallığı, Roma ve Bizans İmparatorluğu gibi medeniyetler, bu bölgeyi egemenlikleri altına almışlardır.
 
 Bölge, tarihi İpek Yolu'nun önemli bir bölümünü oluşturmuş ve ticaret yolları üzerinde yer almıştır. Yaylacılık ve hayvancılık, bölgenin ekonomisinin temelini oluşturmuştur. Karagöl gibi doğal alanlar, bu faaliyetler için önemli kaynaklar olmuştur. Türkiye'de, bu tür doğal alanlar, ülkenin kültürel ve ekonomik tarihini şekillendirmiştir. İnsanların bu alanlarla ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bağlamda da önemlidir. Bu bölgeler, insanların yaşam tarzlarını, geleneklerini ve değerlerini etkilemiştir. Karagöl, Artvin'in doğal güzelliğini ve tarihsel önemini korumuştur ve bölgenin zengin kültürel mirasının bir parçasıdır.
 
@@ -52,7 +52,7 @@ Mevsimsel olarak bakıldığında, Karagöl'ün iklim karakteri, bölgenin coğr
 
 Karagöl (Murgul) göl ekosistemi, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İlkbaharın gelişiyle birlikte, göl çevresindeki bozkır alanlar renklenir ve kuraklığa adapte olan türler çiçek açmaya başlar. Sonbaharda ise, göç eden su kuşları göle konaklar ve bu alanda önemli bir beslenme kaynağı bulur.
 
-Gölün su kuşları, sulak alan bitkileri arasında yuvalarını kurar ve balıklarla birlikte gölün ekosisteminin temel bileşenlerini oluşturur. Memeliler ve sürüngenler de bu ekosistemin bir parçası olup, göle yakınlıklarına göre yaşam alanlarını belirler. 
+Gölün su kuşları, sulak alan bitkileri arasında yuvalarını kurar ve balıklarla birlikte gölün ekosisteminin temel bileşenlerini oluşturur. Memeliler ve sürüngenler de bu ekosistemin bir parçası olup, göle yakınlıklarına göre yaşam alanlarını belirler.
 
 Bu ekosistem, su kuşlarının göç yolları üzerinde önemli bir konaklama noktasıdır. Göç eden kuşlar, gölde bulunan balıklar ve diğer su canlılarıyla beslenir ve enerji depolar. Bu reasonla, Karagöl (Murgul) göl ekosisteminin korunması, bölgenin biyolojik çeşitliliğinin sürdürülmesi açısından önemlidir.
 

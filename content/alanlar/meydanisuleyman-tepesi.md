@@ -28,7 +28,7 @@ wikidata_id: "Q32126873"
 
 # Meydanısüleyman Tepesi
 
-Meydanısüleyman Tepesi, Siirt'in merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilere şehrin panoramik manzarasını sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar found, bu da bölgenin ekolojik zenginliğini gösteriyor. Meydanısüleyman Tepesi, hem tarihi hem de doğal güzelliklerini bir araya getiren bir destinasyon olarak ziyaretçilerini bekliyor.
+Meydanısüleyman Tepesi, Siirt'in merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepe olarak dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar found, bu da bölgenin ekolojik zenginliğini gösteriyor. Meydanısüleyman Tepesi, hem tarihi hem de doğal güzelliklerini bir araya getiren bir destinasyon olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

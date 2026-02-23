@@ -1,7 +1,7 @@
 ---
 title: "Çobandede Türbesi, Nazilli"
 date: "2026-01-10T06:39:38.389Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735174"
 
 # Çobandede Türbesi, Nazilli
 
-Çobandede Türbesi, Aydın'ın Nazilli ilçesinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir büyüklüğe sahiptir. Tarihi ve kültürel açıdan önemli bir yere sahip olan Çobandede Türbesi, ziyaretçilerini bekliyor. Bu türbe, Ege Bölgesi'nin zengin tarihini ve kültürel mirasını yansıtan önemli bir noktada yer alıyor. Çobandede Türbesi, Nazilli'nin tarihi ve kültürel kimliğinin önemli bir parçasıdır.
+Çobandede Türbesi, Aydın'ın Nazilli ilçesinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Tarihi ve kültürel açıdan önemli bir yere sahip olan Çobandede Türbesi, ziyaretçilerini bekliyor. Bu türbe, Ege Bölgesi'nin zengin tarihini ve kültürel mirasını yansıtan önemli bir noktada yer alıyor. Çobandede Türbesi, Nazilli'nin tarihi ve kültürel kimliğinin önemli bir parçasıdır.
 
 ## Tarihçe
 

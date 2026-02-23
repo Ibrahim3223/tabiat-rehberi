@@ -28,7 +28,7 @@ wikidata_id: "Q31390193"
 
 # Eğrek Tepesi
 
-Eğrek Tepesi, Burdur'un eşsiz doğal güzelliklerinden biridir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Eğrek Tepesi, Burdur'un merkezi ile uzun bir mesafe uzaklıkta bulunmaktadır. Bu tepe, şehrin gürültüsünden uzaklaşma ve doğanın güzelliğini deneyimlemek isteyenler için ideal bir destinasyondur. Eğrek Tepesi'ne yapılan gezi, hem şehrin tarihi ve kültürel zenginliklerini keşfetmek hem de doğanın güzelliğini deneyimlemek için harika bir fırsattır.
+Eğrek Tepesi, Burdur'un eşsiz doğal güzelliklerinden biridir. Eğrek Tepesi, Burdur'un merkezi ile uzun bir mesafe uzaklıkta bulunmaktadır. Bu tepe, şehrin gürültüsünden uzaklaşma ve doğanın güzelliğini deneyimlemek isteyenler için ideal bir destinasyondur. Eğrek Tepesi'ne yapılan gezi, hem şehrin tarihi ve kültürel zenginliklerini keşfetmek hem de doğanın güzelliğini deneyimlemek için harika bir fırsattır.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Eğrek Tepesi'ne ziyaret, hem şehrin tarihi ve kültürel zenginliklerini keşf
 
 ## İlginç Bilgiler
 
-- Eğrek Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Eğrek Tepesi, Burdur merkezine uzun bir mesafe uzaklıkta.
 - Eğrek Tepesi, flora ve fauna açısından zengindir.
 - Eğrek Tepesi, ilkbahar ve yaz aylarında en güzel haldedir.

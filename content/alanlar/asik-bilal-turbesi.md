@@ -1,7 +1,7 @@
 ---
 title: "Aşık Bilal Türbesi"
 date: "2026-01-10T04:56:28.232Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391543"
 
 # Aşık Bilal Türbesi
 
-Aşık Bilal Türbesi, Karacasu, Aydın'da yer alan bir tarih ve doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türünü barındırmaktadır. Bu bölgede, tarih ve doğa bir araya gelir ve ziyaretçilere unutulmaz bir deneyim sunar. Aşık Bilal Türbesi, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir ve ziyaretçilerini bekliyor.
+Aşık Bilal Türbesi, Karacasu, Aydın'da yer alan bir tarih ve doğa harikasıdır. Bu bölgede, tarih ve doğa bir araya gelir ve ziyaretçilere unutulmaz bir deneyim sunar. Aşık Bilal Türbesi, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227328"
 
 # Canakkale-Yenice Kızılçam
 
-Çanakkale'de yer alan Canakkale-Yenice Kızılçam milli parkı, yaklaşık 200 futbol sahası büyüklüğündeki 140 hektarlık yeşil alanıyla ziyaretçilerini doğayla baş başa bırakmaya davet ediyor. Bu doğal alan, Marmara Bölgesi'nin en önemli ekolojik bölgelerinden biri olarak dikkat çekiyor. Milli parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Ayrıca, milli parkın tarihi geçmişi ve coğrafi konumu, burayı ziyaret etmek için önemli nedenler arasında yer alıyor.
+ Bu doğal alan, Marmara Bölgesi'nin en önemli ekolojik bölgelerinden biri olarak dikkat çekiyor. Milli parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Ayrıca, milli parkın tarihi geçmişi ve coğrafi konumu, burayı ziyaret etmek için önemli nedenler arasında yer alıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Canakkale-Yenice Kızılçam milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Canakkale-Yenice Kızılçam milli parkı, Marmara Bölgesi'nde yer alan bir doğal alandır. Milli parkın coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörlerden biri olarak dikkat çekiyor. Milli park, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğanın güzelliğini gösteriyor. Milli parkın coğrafi yapısı, ziyaretçilere farklı ekosistemleri keşfetme fırsatı sunuyor. Ayrıca, milli parkın konumu, ziyaretçilere bölgenin diğer doğal güzelliklerini keşfetme fırsatı sunuyor.
+Canakkale-Yenice Kızılçam milli parkı, Marmara Bölgesi'nde yer alan bir doğal alandır. Milli parkın coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörlerden biri olarak dikkat çekiyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğanın güzelliğini gösteriyor. Milli parkın coğrafi yapısı, ziyaretçilere farklı ekosistemleri keşfetme fırsatı sunuyor. Ayrıca, milli parkın konumu, ziyaretçilere bölgenin diğer doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -45,5 +45,5 @@ Canakkale-Yenice Kızılçam milli parkını ziyaret etmek, ziyaretçilere doğa
 - Canakkale-Yenice Kızılçam milli parkı, Marmara Bölgesi'nin en önemli ekolojik bölgelerinden biri olarak dikkat çekiyor.
 - Milli parkta, çeşitli bitki türleri ve zengin fauna yer alıyor.
 - Milli parkın coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkileyen önemli faktörlerden biri olarak dikkat çekiyor.
-- Milli park, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir.
+
 - Milli parkın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.

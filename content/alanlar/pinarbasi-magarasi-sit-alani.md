@@ -22,7 +22,7 @@ wikidata_id: "Q108226404"
 
 # Pınarbaşı Mağarası Sit Alanı
 
-Pınarbaşı Mağarası Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzelliktir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Pınarbaşı Mağarası, bölgenin en önemli turizm merkezlerinden biri olarak dikkat çekmektedir. Mağaranın içinde, çeşitli oluşumlar ve doğal güzellikler ziyaretçileri beklemektedir. Pınarbaşı Mağarası Sit Alanı, aynı zamanda yaban hayatı açısından da zengin bir alandır.
+Pınarbaşı Mağarası Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzelliktir. Pınarbaşı Mağarası, bölgenin en önemli turizm merkezlerinden biri olarak dikkat çekmektedir. Mağaranın içinde, çeşitli oluşumlar ve doğal güzellikler ziyaretçileri beklemektedir. Pınarbaşı Mağarası Sit Alanı, aynı zamanda yaban hayatı açısından da zengin bir alandır.
 
 ## Tarihçe
 

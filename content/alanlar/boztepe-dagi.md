@@ -32,7 +32,7 @@ Muğla'nın dağlık bölgelerinde yer alan Boztepe Dağı, çevreye hâkim bir 
 
 ## Tarihçe
 
-Boztepe Dağı, Muğla'nın zengin tarihi ve kültürel mirasının bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin sâu sayfalarında önemli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği bir nokta olarak biliniyor. Hititler, Lidyalılar ve Romalılar gibi medeniyetler, Muğla'nın stratejik konumunu kullanarak bölgeyi kontrol altında tutmuşlardır.
+Boztepe Dağı, Muğla'nın zengin tarihi ve kültürel mirasının bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin derin sayfalarında önemli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği bir nokta olarak biliniyor. Hititler, Lidyalılar ve Romalılar gibi medeniyetler, Muğla'nın stratejik konumunu kullanarak bölgeyi kontrol altında tutmuşlardır.
 
 Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Boztepe Dağı, tarih boyunca insanların yaşam alanları ve geçim kaynakları açısından büyük önem taşımıştır. Yaylacılık ve hayvancılık, bölgede yaşayan halkın geleneksel faaliyetleri arasında yer almış, dağların eteklerinde kurulmuş köyler ve kasabalar, ticaret yolları üzerinde önemli merkezler olarak hizmet vermiştir.
 
@@ -50,7 +50,7 @@ Bölgenin iklim karakterine bakıldığında, Akdeniz ikliminin hakim olduğu g�
 
 ## Flora ve Fauna
 
-Boztepe Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Boztepe Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle süslüyor. Çam ormanları, zeytinliklerle iç içe geçerek benzersiz bir manzara oluşturuyor. Sonbaharda, göçmen kuşlar dağları ziyaret ediyor ve bu bölgeyi önemli bir göç rotasına dönüştürüyor.
 
 Dağın yükseklik zonlarında, alpin flora typesi bitkiler ve çam ağaçları hakim. Bu bitkiler, dağ hayvanlarının yaşam alanlarını oluşturuyor. Dağ keçileri, çakallar ve tilkiler gibi memeliler, bu bölgede yaşamlarını sürdürüyor. Kuşlar ise, çam ormanları ve zeytinliklerde yuvalanıyor. Sürüngenler, dağ yamaçlarında ve kayalık alanlarda görülüyor.

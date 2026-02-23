@@ -28,7 +28,7 @@ wikidata_id: "Q31385562"
 
 # Kuşca Tepesi
 
-Kuşca Tepesi, Marmara Bölgesi'nin en güzel noktalarından biri olan Balıkesir'de yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle dolu. Tepenin eteklerinde, çeşitli ağaç türleri ve çiçekler bulunuyor. Bu tepe, hem doğa severlerin hem de fotoğraf tutkunlarının keyif alacağı bir destinasyon.
+Kuşca Tepesi, Marmara Bölgesi'nin en güzel noktalarından biri olan Balıkesir'de yer alıyor. Tepenin eteklerinde, çeşitli ağaç türleri ve çiçekler bulunuyor. Bu tepe, hem doğa severlerin hem de fotoğraf tutkunlarının keyif alacağı bir destinasyon.
 
 ## Tarihçe
 

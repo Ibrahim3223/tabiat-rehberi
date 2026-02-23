@@ -29,7 +29,7 @@ wikidata_id: "Q131738959"
 
 # Abdülaziz Ağa Kulesi
 
-Abdülaziz Ağa Kulesi, Muğla'nın Milas ilçesinde yer alan ve tarihi değerinin yanı sıra doğal güzelliği ile de dikkat çeken bir mekan. Bu bölgede, yaklaşık 200 futbol sahası büyüklüğünde bir alan, 140 hektarlık bir yeşil cennet gibi ziyaretçilerini ağırlıyor. Abdülaziz Ağa Kulesi ve çevresindeki yeşil alan, Muğla'nın güzide ilçelerinden Milas'ın önemli turizm merkezlerinden biri olarak kabul ediliyor. Bu bölge, hem tarihi hem de doğal güzelliklerini keşfetmek isteyen ziyaretçilerin ilgisini çekiyor.
+Abdülaziz Ağa Kulesi, Muğla'nın Milas ilçesinde yer alan ve tarihi değerinin yanı sıra doğal güzelliği ile de dikkat çeken bir mekan. Abdülaziz Ağa Kulesi ve çevresindeki yeşil alan, Muğla'nın güzide ilçelerinden Milas'ın önemli turizm merkezlerinden biri olarak kabul ediliyor. Bu bölge, hem tarihi hem de doğal güzelliklerini keşfetmek isteyen ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Soğuksu Hamam Kalıntısı"
 date: "2026-01-09T23:34:47.120Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739120"
 
 # Soğuksu Hamam Kalıntısı
 
-Soğuksu Hamam Kalıntısı, Marmara Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan olarak dikkat çekiyor. Gönen ilçesinde bulunan bu tarihi yer, Balıkesir'in önemli turizm merkezlerinden biri olarak biliniyor. Soğuksu Hamam Kalıntısı, yaklaşık 140 hektarlık bir alan üzerinde kurulu ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşit. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Soğuksu Hamam Kalıntısı, ziyaretçilerini tarihin derinliklerine götürerek aynı zamanda bölgenin eşsiz doğal güzelliklerini sunuyor.
+Soğuksu Hamam Kalıntısı, Marmara Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan olarak dikkat çekiyor. Gönen ilçesinde bulunan bu tarihi yer, Balıkesir'in önemli turizm merkezlerinden biri olarak biliniyor. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Soğuksu Hamam Kalıntısı, ziyaretçilerini tarihin derinliklerine götürerek aynı zamanda bölgenin eşsiz doğal güzelliklerini sunuyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Soğuksu Hamam Kalıntısı, zengin bir flora ve fauna ile dikkat çekiyor. Bu b
 
 ## Ziyaret Bilgileri
 
-Soğuksu Hamam Kalıntısı, yıl boyunca ziyaret edilebilen bir destinasyon olarak biliniyor. Ziyaretçiler, Soğuksu Hamam Kalıntısı'na çeşitli ulaşım araçları ile ulaşabilirler. Soğuksu Hamam Kalıntısı, Gönen ilçesi merkezine uzun bir mesafe uzaklıkta yer alıyor ve bu uzaklık, yürüyere veya bisikletle fácil olarak kat edilebilir. Soğuksu Hamam Kalıntısı, ziyaretçilere rehberli turlar sunuyor ve bu turlar, ziyaretçilere bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı sunuyor. Soğuksu Hamam Kalıntısı, aynı zamanda çeşitli aktiviteler sunuyor ve ziyaretçilere bölgenin flora ve fauna zenginliğini keşfetme fırsatı sunuyor.
+Soğuksu Hamam Kalıntısı, yıl boyunca ziyaret edilebilen bir destinasyon olarak biliniyor. Ziyaretçiler, Soğuksu Hamam Kalıntısı'na çeşitli ulaşım araçları ile ulaşabilirler. Soğuksu Hamam Kalıntısı, Gönen ilçesi merkezine uzun bir mesafe uzaklıkta yer alıyor ve bu uzaklık, yürüyere veya bisikletle kolay olarak kat edilebilir. Soğuksu Hamam Kalıntısı, ziyaretçilere rehberli turlar sunuyor ve bu turlar, ziyaretçilere bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı sunuyor. Soğuksu Hamam Kalıntısı, aynı zamanda çeşitli aktiviteler sunuyor ve ziyaretçilere bölgenin flora ve fauna zenginliğini keşfetme fırsatı sunuyor.
 
 ## İlginç Bilgiler
 

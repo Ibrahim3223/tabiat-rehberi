@@ -28,7 +28,7 @@ wikidata_id: "Q31547250"
 
 # Bestikan Tepesi
 
-Bestikan Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Bestikan Tepesi, doğa severlerin ve macera arayışında olanların ziyaret etmesi gereken bir yerdir. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu tepe, aynı zamanda bir doğa belgeseli seti olarak da düşünülebilir. Her mevsim, Bestikan Tepesi'nin güzelliğini keşfetme mümkün.
+Bestikan Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir doğa harikasıdır. Bestikan Tepesi, doğa severlerin ve macera arayışında olanların ziyaret etmesi gereken bir yerdir. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu tepe, aynı zamanda bir doğa belgeseli seti olarak da düşünülebilir. Her mevsim, Bestikan Tepesi'nin güzelliğini keşfetme mümkün.
 
 ## Tarihçe
 

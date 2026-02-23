@@ -1,7 +1,7 @@
 ---
 title: "Sinop-Boyabat-Sarayduzu Kayin"
 date: "2026-01-09T19:52:22.686Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Sinop"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227268"
 
 # Sinop-Boyabat-Sarayduzu Kayin
 
-Sinop-Boyabat-Sarayduzu Kayin milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin flora ile fauna çeşitliliğine ev sahipliği yapıyor. Milli parkın içinde, doğa severlerin keyifle dolaşabileceği patikalar ve yürüyüş yolları bulunuyor. Ayrıca, bu bölgede çeşitli bitki türleri ve hayvanlar yaşadığından, ziyaretçiler için bir doğa belgeseli harika bir deneyim.
+Sinop-Boyabat-Sarayduzu Kayin milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Milli parkın içinde, doğa severlerin keyifle dolaşabileceği patikalar ve yürüyüş yolları bulunuyor. Ayrıca, bu bölgede çeşitli bitki türleri ve hayvanlar yaşadığından, ziyaretçiler için bir doğa belgeseli harika bir deneyim.
 
 ## Tarihçe
 

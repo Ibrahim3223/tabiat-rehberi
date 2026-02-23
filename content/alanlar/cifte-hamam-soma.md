@@ -1,7 +1,7 @@
 ---
 title: "Çifte Hamam, Soma"
 date: "2026-01-09T23:50:51.301Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245824"
 
 # Çifte Hamam, Soma
 
-Ege Bölgesi'nin güzide illerinden Manisa'nın Soma ilçesinde bulunan Çifte Hamam, ziyaretçilerini doğal güzelliği ve sakin atmosferi ile karşılar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir sahile sahiptir. Çifte Hamam, plaj severlerin ve doğa tutkunlarının ortak noktası olarak dikkat çeker. Bu büyüleyici mekan, Ege Bölgesi'nin turizm değerlerinden biri olarak ön plana çıkar.
+Ege Bölgesi'nin güzide illerinden Manisa'nın Soma ilçesinde bulunan Çifte Hamam, ziyaretçilerini doğal güzelliği ve sakin atmosferi ile karşılar. Çifte Hamam, plaj severlerin ve doğa tutkunlarının ortak noktası olarak dikkat çeker. Bu büyüleyici mekan, Ege Bölgesi'nin turizm değerlerinden biri olarak ön plana çıkar.
 
 ## Tarihçe
 

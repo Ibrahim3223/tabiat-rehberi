@@ -50,7 +50,7 @@ Jeolojik açıdan bakıldığında, Kalosmta'nın fiziksel yapısı hakkında de
 
 ## Flora ve Fauna
 
-Kalosmta'nın yüksek dağ ekosisteminde, 1200 metre ile 3000 metre arasındaki yükseklik zonlarında, alpin çayırlar ve endemik türlerle zengin bir flora çeşitliliği bulunur. İlkbaharda, çayırlar rengarenk çiçeklerle donanır, sonbaharda ise göç eden kuşlar bu bölgeden geçer. 
+Kalosmta'nın yüksek dağ ekosisteminde, 1200 metre ile 3000 metre arasındaki yükseklik zonlarında, alpin çayırlar ve endemik türlerle zengin bir flora çeşitliliği bulunur. İlkbaharda, çayırlar rengarenk çiçeklerle donanır, sonbaharda ise göç eden kuşlar bu bölgeden geçer.
 
 Bitki örtüsünde hakim türler arasında çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlerle birlikte, çayırların görünümü değişir. Özel bitkiler arasında, yüksek dağlık bölgelerde yetişen nadir türler yer alır.
 
@@ -67,4 +67,4 @@ Kalosmta dağının güzelliğini keşfetmek için Ardahan'dan hareket ederek ya
 - Ardahan ilinin nüfusu yaklaşık 98.000 kişidir ve bu nüfusun bir kısmı Kalosmta dağının eteklerinde yaşamaktadır.
 - Kalosmta dağının etrafındaki bölge, zengin flora ve fauna çeşitliliği ile bilinmektedir.
 - Ardahan ilinin ekonomisi tarıma dayalıdır ve bu bölgede yetiştirilen ürünlerin bir kısmı Kalosmta dağının eteklerinde yetiştirilmektedir.
-- Kalosmta dağının bulunduğu bölge, histórik olarak significance taşır ve bu bölgede birçok tarihi eser bulunmaktadır.
+- Kalosmta dağının bulunduğu bölge, tarihi olarak significance taşır ve bu bölgede birçok tarihi eser bulunmaktadır.

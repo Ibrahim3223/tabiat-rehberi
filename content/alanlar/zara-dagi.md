@@ -51,7 +51,7 @@ Bölgenin iklim karakteri, Zara Dağı'nın coğrafi konumunu da etkiliyor. Kara
 
 ## Flora ve Fauna
 
-Zara Dağı, Artvin'in nemli ikliminde, gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, yüksek biyoçeşitlilikle dikkat çeker. 
+Zara Dağı, Artvin'in nemli ikliminde, gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, yüksek biyoçeşitlilikle dikkat çeker.
 
 Bitki Örtüsü olarak, ilkbaharla birlikte dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise yaprak döken ağaçlar, dağ manzarasına sarı, kırmızı ve turuncu tonlar katar. Bu mevsimsel değişim, dağ ekosisteminin canlılığını gösterir.
 
@@ -68,6 +68,6 @@ Artvin'in güzide dağlarından biri olan Zara Dağı, doğa severler için bir 
 - Zara Dağı, Artvin ilinin Yusufeli ilçesinde yer alır.
 - Dağ, Kaçkar Dağları silsilesinin bir parçasıdır.
 - Zara Dağı'nın zirvesi 3.136 metreye ulaşır.
-- Bölge, flora ve fauna açısından oldukça zengindir.
+
 - Zara Dağı ve çevresi, trekking ve doğa yürüyüşü için popüler bir destinasyondur.
 - Dağın eteklerinde, tarihi Zara Köyü bulunur.

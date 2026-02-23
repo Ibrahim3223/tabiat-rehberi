@@ -28,7 +28,7 @@ wikidata_id: "Q31390722"
 
 # Ağcakışla Tepesi
 
-Ağcakışla Tepesi, Yozgat'ın merkezi bir konumunda yer alan ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet olarak karşımıza çıkıyor. Bu doğal alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Ağcakışla Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sakin ve huzurlu atmosferine davet ediyor. Tepenin eteklerinde bulunan köylerin geleneksel mimarisi ve yöresel lezzetler, bu bölgeyi ziyaret etmek için bir başka neden olarak ortaya çıkıyor.
+ Bu doğal alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Ağcakışla Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sakin ve huzurlu atmosferine davet ediyor. Tepenin eteklerinde bulunan köylerin geleneksel mimarisi ve yöresel lezzetler, bu bölgeyi ziyaret etmek için bir başka neden olarak ortaya çıkıyor.
 
 ## Tarihçe
 

@@ -48,8 +48,8 @@ Doğal kaynaklar açısından bakıldığında, Geramoyn Dağı'nın çevresel i
 
 ## Flora ve Fauna
 
-Geramoyn dağının yükseklik zonlarında, alpin flora çeşitliliği hakimdir. İlkbaharın gelmesiyle birlikte, dağ yamaçları renklendirilir ve çeşitli çiçekler açar. 1200 hektarlık bu yeşil cennet, Van'ın doğal güzelliklerini gözler önüne serer. 
-Yaban hayatı da bir o kadar zengin olan bu dağda, memeliler ve kuşlar yaşam alanlarını paylaşır. Sonbaharda, göçmen kuşlar dağları geçerek yeni yuvalarına ulaşır. 
+Geramoyn dağının yükseklik zonlarında, alpin flora çeşitliliği hakimdir. İlkbaharın gelmesiyle birlikte, dağ yamaçları renklendirilir ve çeşitli çiçekler açar. 1200 hektarlık bu yeşil cennet, Van'ın doğal güzelliklerini gözler önüne serer.
+Yaban hayatı da bir o kadar zengin olan bu dağda, memeliler ve kuşlar yaşam alanlarını paylaşır. Sonbaharda, göçmen kuşlar dağları geçerek yeni yuvalarına ulaşır.
 Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini sağlamada önemli bir role sahiptir.
 
 ## Ziyaret Bilgileri

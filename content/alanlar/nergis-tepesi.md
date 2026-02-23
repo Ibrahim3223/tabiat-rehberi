@@ -50,9 +50,9 @@ Mevsimsel özellikler açısından Nergis Tepesi, Doğu Anadolu Bölgesi'nin kar
 
 ## Flora ve Fauna
 
-Nergis Tepesi, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü bölümünden başlarsak, ilkbaharın gelişiyle birlikte, alpin çayırlar renkli bir hal alır. Çiçekler açar ve dağların eteklerinde yer alan bitkiler, mevsimsel değişimlere uyum sağlar. 
-Bu yüksek dağ ekosisteminde, yaban hayat da oldukça zengin. Memeliler ve kuşlar, dağların yükseklik zonlarına adapte olur. Sürüngenler ise, kayalık alanlarda yaşamını sürdürür. 
+Nergis Tepesi, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü bölümünden başlarsak, ilkbaharın gelişiyle birlikte, alpin çayırlar renkli bir hal alır. Çiçekler açar ve dağların eteklerinde yer alan bitkiler, mevsimsel değişimlere uyum sağlar.
+Bu yüksek dağ ekosisteminde, yaban hayat da oldukça zengin. Memeliler ve kuşlar, dağların yükseklik zonlarına adapte olur. Sürüngenler ise, kayalık alanlarda yaşamını sürdürür.
 Nergis Tepesi, yüksek dağ ekolojisi ve endemik türleri nedeniyle ekolojik olarak önemli bir alandır. Bu alanın korunması, doğanın dengesinin korunması açısından büyük önem taşır.
 
 ## Ziyaret Bilgileri

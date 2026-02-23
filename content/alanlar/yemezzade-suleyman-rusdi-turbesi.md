@@ -1,7 +1,7 @@
 ---
 title: "Yemezzade Süleyman Rüşdi Türbesi"
 date: "2026-01-10T05:41:24.443Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735188"
 
 # Yemezzade Süleyman Rüşdi Türbesi
 
-Karacasu, Aydın'da bulunan Yemezzade Süleyman Rüşdi Türbesi, hem tarihi hem de doğal güzelliği ile dikkat çekiyor. Bu özel mekan, Ege Bölgesi'nin en güzel noktalarından biri olarak biliniyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyülüyor. Tarihi ve doğal güzelliğin bir arada olduğu bu yer, hem yerel halk hem de turistler için önemli bir çekim merkezi.
+Karacasu, Aydın'da bulunan Yemezzade Süleyman Rüşdi Türbesi, hem tarihi hem de doğal güzelliği ile dikkat çekiyor. Bu özel mekan, Ege Bölgesi'nin en güzel noktalarından biri olarak biliniyor. Tarihi ve doğal güzelliğin bir arada olduğu bu yer, hem yerel halk hem de turistler için önemli bir çekim merkezi.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yemezzade Süleyman Rüşdi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca �
 
 ## Coğrafya
 
-Yemezzade Süleyman Rüşdi Türbesi, Karacasu, Aydın'da bulunuyor ve Ege Bölgesi'nin doğal güzelliğine sahip bir bölgede yer alıyor. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyülüyor. Bölgenin coğrafi yapısı, dağların ve ovaların bir arada olduğu bir yer. İklim, Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılıman geçiyor. Çevre, tarihi yapılar ve doğal güzelliği ile dikkat çekiyor. Türbenin yakınında, çeşitli bitki türleri ve zengin fauna found. Bu özel mekan, hem doğa severler hem de tarihi yapılar sevenler için ideal bir yer.
+Yemezzade Süleyman Rüşdi Türbesi, Karacasu, Aydın'da bulunuyor ve Ege Bölgesi'nin doğal güzelliğine sahip bir bölgede yer alıyor. Bölgenin coğrafi yapısı, dağların ve ovaların bir arada olduğu bir yer. İklim, Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılıman geçiyor. Çevre, tarihi yapılar ve doğal güzelliği ile dikkat çekiyor. Türbenin yakınında, çeşitli bitki türleri ve zengin fauna found. Bu özel mekan, hem doğa severler hem de tarihi yapılar sevenler için ideal bir yer.
 
 ## Flora ve Fauna
 

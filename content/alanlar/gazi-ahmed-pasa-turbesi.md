@@ -1,7 +1,7 @@
 ---
 title: "Gazi Ahmed Paşa Türbesi"
 date: "2026-01-10T04:53:30.215Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q122706523"
 
 # Gazi Ahmed Paşa Türbesi
 
-Gazi Ahmed Paşa Türbesi, İstanbul'un tarihi ve turistik mekanlarından biridir. Fatih ilçesinde yer alan bu türbe, aynı zamanda plaj olarak da kullanılan bir alana sahiptir. Gazi Ahmed Paşa Türbesi, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin tarihi geçmişi, İstanbul'un fethinden sonra başlar. Bu nedenle, İstanbul'un fethi ve Osmanlı İmparatorluğu'nun kuruluş döneminde önemli bir role sahiptir. Gazi Ahmed Paşa Türbesi, İstanbul'un en önemli tarihi ve turistik mekanlarından biridir.
+Gazi Ahmed Paşa Türbesi, İstanbul'un tarihi ve turistik mekanlarından biridir. Fatih ilçesinde yer alan bu türbe, aynı zamanda plaj olarak da kullanılan bir alana sahiptir. Gazi Ahmed Paşa Türbesi, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Türbenin tarihi geçmişi, İstanbul'un fethinden sonra başlar. Bu nedenle, İstanbul'un fethi ve Osmanlı İmparatorluğu'nun kuruluş döneminde önemli bir role sahiptir. Gazi Ahmed Paşa Türbesi, İstanbul'un en önemli tarihi ve turistik mekanlarından biridir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gazi Ahmed Paşa Türbesi, Osmanlı İmparatorluğu döneminde inşa edilmiştir
 
 ## Coğrafya
 
-Gazi Ahmed Paşa Türbesi, Fatih ilçesinde yer alan bir alana kurulmuştur. Bu alan, yaklaşık 140 hektarlık bir alanı kaplar. Türbenin bulunduğu alan, deniz seviyesinden yüksek değildir. Bu nedenle, türbe ve plaj, deniz seviyesinde yer alır. Gazi Ahmed Paşa Türbesi, Marmara Denizi'ne yakındır. Bu nedenle, türbe ve plaj, deniz manzarasına sahiptir. Türbenin bulunduğu alan, çeşitli bitki türleri ile kaplıdır. Bu nedenle, Gazi Ahmed Paşa Türbesi, doğa severlerin ziyaret ettiği bir mekandır. Türbenin iklimi, Akdeniz iklimi ile Karadeniz iklimi arasında bir geçiş iklimidir. Bu nedenle, Gazi Ahmed Paşa Türbesi, sıca ve soğuk iklimlerin bir karışımıdır.
+Gazi Ahmed Paşa Türbesi, Fatih ilçesinde yer alan bir alana kurulmuştur. Türbenin bulunduğu alan, deniz seviyesinden yüksek değildir. Bu nedenle, türbe ve plaj, deniz seviyesinde yer alır. Gazi Ahmed Paşa Türbesi, Marmara Denizi'ne yakındır. Bu nedenle, türbe ve plaj, deniz manzarasına sahiptir. Türbenin bulunduğu alan, çeşitli bitki türleri ile kaplıdır. Bu nedenle, Gazi Ahmed Paşa Türbesi, doğa severlerin ziyaret ettiği bir mekandır. Türbenin iklimi, Akdeniz iklimi ile Karadeniz iklimi arasında bir geçiş iklimidir. Bu nedenle, Gazi Ahmed Paşa Türbesi, sıca ve soğuk iklimlerin bir karışımıdır.
 
 ## Flora ve Fauna
 

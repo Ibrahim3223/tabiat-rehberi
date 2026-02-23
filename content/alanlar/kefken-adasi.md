@@ -29,7 +29,7 @@ wikidata_id: "Q6047559"
 
 # Kefken Adası
 
-Kocaeli'nin kıyı şeridindeki küçük bir cennet olan Kefken Adası, ziyaretçilerini doğanın güzelliği ile karşılar. Bu ada, Kocaeli ilinin sınırları içerisinde yer alır ve bölgenin önemli turistik noktalarından biri olarak bilinir. Kefken Adası, çevresindeki suyun berraklığı ve yeşilin çeşitli tonlarıyla dikkat çekerek, ziyaretçilerine unutulmaz anlar sunar. Kocaeli'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Kefken Adası, ilin turizm potansiyelini artırır.
+Kocaeli'nin kıyı şeridindeki küçük bir cennet olan Kefken Adası, ziyaretçilerini doğanın güzelliği ile karşılar. Bu ada, Kocaeli ilinin sınırları içerisinde yer alır ve bölgenin önemli turistik noktalarından biri olarak bilinir. Kocaeli'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Kefken Adası, ilin turizm potansiyelini artırır.
 
 ## Tarihçe
 
@@ -51,11 +51,11 @@ Ada, çevresindeki su kaynakları ve ekosistemlerle güçlü bir bağlantı içe
 
 ## Flora ve Fauna
 
-Kefken Adası, Kocaeli'nin kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İklimi, Karadeniz ve Akdeniz iklimleri arasında bir geçiş noktası oluşturur. 
+Kefken Adası, Kocaeli'nin kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İklimi, Karadeniz ve Akdeniz iklimleri arasında bir geçiş noktası oluşturur.
 
-Bitki Örtüsü olarak, ada çoğunlukla karma ormanlarla kaplı. İlkbaharın gelişiyle birlikte, ada yaban laleleri ve çiçekleriyle donanır. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler hüküm sürer. 
+Bitki Örtüsü olarak, ada çoğunlukla karma ormanlarla kaplı. İlkbaharın gelişiyle birlikte, ada yaban laleleri ve çiçekleriyle donanır. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler hüküm sürer.
 
-Yaban Hayatı olarak, ada özellikle göçmen kuşlar için önemli bir durak noktası. Sonbaharda, binlerce kuş bu ada üzerinde konaklar. Memeliler ve sürüngenler de bu ada ekosisteminin bir parçasıdır. 
+Yaban Hayatı olarak, ada özellikle göçmen kuşlar için önemli bir durak noktası. Sonbaharda, binlerce kuş bu ada üzerinde konaklar. Memeliler ve sürüngenler de bu ada ekosisteminin bir parçasıdır.
 
 Ekolojik Değer olarak, Kefken Adası'nın izole konumu, benzersiz bir ekosistem yaratmıştır. Bu ada, deniz kuşları ve kıyı bitkileri için önemli bir yaşam alanı. Ada, aynı zamanda göçmen kuşların konaklama noktalarından biri.
 

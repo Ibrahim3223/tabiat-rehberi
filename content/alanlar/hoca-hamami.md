@@ -1,7 +1,7 @@
 ---
 title: "Hoca Hamamı"
 date: "2026-01-09T22:31:51.186Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilis"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738731"
 
 # Hoca Hamamı
 
-Hoca Hamamı, Kilis'in güler yüzlü yüzü olan bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Hoca Hamamı, Kilis'in merkezine yakın bir konumda yer alır ve ulaşım açısından oldukça elverişlidir. Bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve bölge turizmine önemli katkılar sağlamaktadır. Hoca Hamamı, ziyaretçilerine huzurlu bir atmosfer sunmanın yanı sıra, çeşitli aktivite olanakları da sunar.
+Hoca Hamamı, Kilis'in güler yüzlü yüzü olan bir plajdır. Hoca Hamamı, Kilis'in merkezine yakın bir konumda yer alır ve ulaşım açısından oldukça elverişlidir. Bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve bölge turizmine önemli katkılar sağlamaktadır. Hoca Hamamı, ziyaretçilerine huzurlu bir atmosfer sunmanın yanı sıra, çeşitli aktivite olanakları da sunar.
 
 ## Tarihçe
 

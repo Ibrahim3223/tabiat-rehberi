@@ -28,7 +28,7 @@ wikidata_id: "Q97320213"
 
 # Eğvane Şelalesi
 
-Eğvane Şelalesi, İç Anadolu Bölgesi'nin en güzel doğa harikalarından biri olarak bilinir. 140 hektarlık geniş yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Burada, doğanın seslerini dinleyerek, stres ve yorgunluğunuzu unutabilir, huzurlu bir atmosferde zaman geçirebilirsiniz. Eğvane Şelalesi, özellikle ilkbahar ve yaz aylarında, yeşilin tüm tonlarını görebileceğiniz bir cennet gibidir.
+Eğvane Şelalesi, İç Anadolu Bölgesi'nin en güzel doğa harikalarından biri olarak bilinir. Bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Burada, doğanın seslerini dinleyerek, stres ve yorgunluğunuzu unutabilir, huzurlu bir atmosferde zaman geçirebilirsiniz. Eğvane Şelalesi, özellikle ilkbahar ve yaz aylarında, yeşilin tüm tonlarını görebileceğiniz bir cennet gibidir.
 
 ## Tarihçe
 

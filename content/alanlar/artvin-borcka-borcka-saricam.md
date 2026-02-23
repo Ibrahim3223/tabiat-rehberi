@@ -22,7 +22,7 @@ wikidata_id: "Q108228554"
 
 # Artvin-Borcka-Borcka-Saricam
 
-Artvin-Borcka-Borcka-Saricam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli park, ziyaretçilerine hem huzur verici bir atmosfer hem de doğal güzellikleri keşfetme fırsatı sunuyor. Tarihçesi ve coğrafi konumuyla da dikkat çeken bu milli park, her yıl birçok ziyaretçi tarafından tercih ediliyor.
+Artvin-Borcka-Borcka-Saricam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli park, ziyaretçilerine hem huzur verici bir atmosfer hem de doğal güzellikleri keşfetme fırsatı sunuyor. Tarihçesi ve coğrafi konumuyla da dikkat çeken bu milli park, her yıl birçok ziyaretçi tarafından tercih ediliyor.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Artvin-Borcka-Borcka-Saricam milli parkı, Karadeniz Bölgesi'nin coğrafi açı
 
 ## Flora ve Fauna
 
-Artvin-Borcka-Borcka-Saricam milli parkı, flora ve fauna açısından oldukça zengin. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşma mümkün. Milli park, mevsimsel değişimlere göre farklı bir güzelliğe sahip. İlkbahar ve yaz aylarında, bölgeye özgü bitki türleri ve çiçekler açarken, sonbahar ve kış aylarında ise farklı bir manzara sunuyor. Milli parkın fauna açısından da zengin olduğunu söyleme mümkün. Burada, birçok farklı hayvan türü ile karşılaşma mümkün ve bu nedenle doğa severler için ideal bir yer.
+ Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşma mümkün. Milli park, mevsimsel değişimlere göre farklı bir güzelliğe sahip. İlkbahar ve yaz aylarında, bölgeye özgü bitki türleri ve çiçekler açarken, sonbahar ve kış aylarında ise farklı bir manzara sunuyor. Milli parkın fauna açısından da zengin olduğunu söyleme mümkün. Burada, birçok farklı hayvan türü ile karşılaşma mümkün ve bu nedenle doğa severler için ideal bir yer.
 
 ## Ziyaret Bilgileri
 
@@ -44,6 +44,6 @@ Artvin-Borcka-Borcka-Saricam milli parkını ziyaret etmek, doğa severler için
 
 - Milli parkın kuruluşu, bölgenin doğal güzelliklerini korumak amacıyla gerçekleşmiştir.
 - Bölge, farklı medeniyetlere ev sahipliği yapmış ve bu nedenle kültürel bir mirasa sahiptir.
-- Milli park, flora ve fauna açısından oldukça zengin.
+
 - Bölge, coğrafi olarak oldukça çeşitli.
 - Milli park, ziyaretçilerine birçok farklı aktivite ve keşif fırsatı sunuyor.

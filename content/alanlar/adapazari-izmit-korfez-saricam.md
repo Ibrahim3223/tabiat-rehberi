@@ -22,7 +22,7 @@ wikidata_id: "Q108227973"
 
 # Adapazari-Izmit-Korfez Saricam
 
-Adapazari-Izmit-Korfez Saricam milli parkı, İç Anadolu Bölgesi'nin güzide doğal alanlarından biridir. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir harikası sunar. Burada, yaban hayatı ve ekosistemin zengin çeşitliliği ziyaretçilerini bekliyor. Milli park, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. Ziyaretçiler, bu doğal cennette doğayı keşfetmenin keyfini çıkarabilir.
+Adapazari-Izmit-Korfez Saricam milli parkı, İç Anadolu Bölgesi'nin güzide doğal alanlarından biridir. Burada, yaban hayatı ve ekosistemin zengin çeşitliliği ziyaretçilerini bekliyor. Milli park, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. Ziyaretçiler, bu doğal cennette doğayı keşfetmenin keyfini çıkarabilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adapazari-Izmit-Korfez Saricam milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Adapazari-Izmit-Korfez Saricam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça çeşitli bir yapıya sahip. Milli park, 140 hektarlık bir alan kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, yaban hayatı ve ekosistemin zengin çeşitliliği ziyaretçileri bekliyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. İklim, flora ve fauna açısından zengin bir çeşitlilik gösteren bu bölge, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Milli parkın coğrafi konumu, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
+Adapazari-Izmit-Korfez Saricam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça çeşitli bir yapıya sahip. Burada, yaban hayatı ve ekosistemin zengin çeşitliliği ziyaretçileri bekliyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. İklim, flora ve fauna açısından zengin bir çeşitlilik gösteren bu bölge, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Milli parkın coğrafi konumu, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
 
 ## Flora ve Fauna
 

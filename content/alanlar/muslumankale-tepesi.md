@@ -28,7 +28,7 @@ wikidata_id: "Q34884550"
 
 # Müslümankale Tepesi
 
-Müslümankale Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir doğa harikası. Bu bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Müslümankale Tepesi, Ankara'nın merkezine yakın bir konumda yer alıyor ve ulaşım açısından oldukça elverişli. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepe, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
+Müslümankale Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir doğa harikası. Müslümankale Tepesi, Ankara'nın merkezine yakın bir konumda yer alıyor ve ulaşım açısından oldukça elverişli. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepe, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 

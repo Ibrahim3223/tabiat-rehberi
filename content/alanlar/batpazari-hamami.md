@@ -1,7 +1,7 @@
 ---
 title: "Batpazarı Hamamı"
 date: "2026-01-09T22:54:37.002Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738646"
 
 # Batpazarı Hamamı
 
-Batpazarı Hamamı, Osmangazi, Bursa'da yer alan ve Marmara Denizi kıyısında bulunan bir plajdır. Bu plaj, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Ziyaretçiler, bu büyük alanda güneşin tadını çıkarabilir, denizde serinleyebilir ve doğanın güzelliğini keşfedebilir. Bursa'nın turizm potansiyelini gösteren bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Plajın çevresinde, ziyaretçilerin ihtiyaçlarını karşılayabilecek çeşitli tesisler ve hizmetler bulunur.
+Batpazarı Hamamı, Osmangazi, Bursa'da yer alan ve Marmara Denizi kıyısında bulunan bir plajdır. Ziyaretçiler, bu büyük alanda güneşin tadını çıkarabilir, denizde serinleyebilir ve doğanın güzelliğini keşfedebilir. Bursa'nın turizm potansiyelini gösteren bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Plajın çevresinde, ziyaretçilerin ihtiyaçlarını karşılayabilecek çeşitli tesisler ve hizmetler bulunur.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Batpazarı Hamamı, yıl boyunca ziyaret edilebilir bir plajdır. Ziyaretçiler,
 ## İlginç Bilgiler
 
 - Plajın uzunluğu, uzun bir mesafeyi bulur.
-- Plaj, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar.
+
 - Plajın denizi, temiz ve berrak bir suya sahiptir.
 - Plajda, çeşitli bitkiler, kuşlar, böcekler ve diğer canlılar bulunur.
 - Plajın etrafında, çeşitli tesisler ve hizmetler bulunur.

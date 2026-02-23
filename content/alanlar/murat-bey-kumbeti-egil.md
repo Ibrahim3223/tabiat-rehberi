@@ -37,7 +37,7 @@ Murat Bey Kümbeti'nin tarihi geçmişi, yüzyıllar boyunca süregelmiştir. Bu
 
 ## Coğrafya
 
-Murat Bey Kümbeti, Eğilçesinde yer almaktadır. Bu ilçe, Güneydoğu Anadolu Bölgesi'nin Diyarbakır iline bağlıdır. Murat Bey Kümbeti, 140 hektarlık bir alan içinde yer almaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu kümbet, bölgenin önemli coğrafi oluşumlarından biridir. Murat Bey Kümbeti, bölgenin iklimi ve çevresi hakkında bilgi vermektedir. Bu kümbet, bölgenin flora ve faunası hakkında da bilgi vermektedir.
+Murat Bey Kümbeti, Eğilçesinde yer almaktadır. Bu ilçe, Güneydoğu Anadolu Bölgesi'nin Diyarbakır iline bağlıdır. Murat Bey Kümbeti, 140 hektarlık bir alan içinde yer almaktadır. Bu kümbet, bölgenin önemli coğrafi oluşumlarından biridir. Murat Bey Kümbeti, bölgenin iklimi ve çevresi hakkında bilgi vermektedir. Bu kümbet, bölgenin flora ve faunası hakkında da bilgi vermektedir.
 
 ## Flora ve Fauna
 

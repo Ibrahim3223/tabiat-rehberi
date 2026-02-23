@@ -28,7 +28,7 @@ wikidata_id: "Q34820542"
 
 # Üçkuyu Tepesi
 
-Üçkuyu Tepesi, Kahramanmaraş'ın gözde noktalarından biri olarak dikkat çekmektedir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta ve zengin bir fauna yapısına sahiptir. Üçkuyu Tepesi, hem yaban hayatı hem de ekosistemiyle ziyaretçilerini cezbeden bir destinasyon olarak ön plana çıkmaktadır. Tepenin manzarası, özellikle gün batımında ziyaretçilere unutulmaz anlar yaşatmaktadır.
+Üçkuyu Tepesi, Kahramanmaraş'ın gözde noktalarından biri olarak dikkat çekmektedir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta ve zengin bir fauna yapısına sahiptir. Üçkuyu Tepesi, hem yaban hayatı hem de ekosistemiyle ziyaretçilerini cezbeden bir destinasyon olarak ön plana çıkmaktadır. Tepenin manzarası, özellikle gün batımında ziyaretçilere unutulmaz anlar yaşatmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34820542"
 
 ## Coğrafya
 
-Üçkuyu Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre olarak ölçülmüştür. Eteklerinde ve çevresinde, çeşitli bitki türleri bulunmakta ve zengin bir fauna yapısına sahiptir. Tepenin coğrafi yapısı, milyonlarca yıl önce şekillenmeye başlamış ve jeolojik oluşum, bölgenin önemli bir özelliği olarak ön plana çıkmaktadır. Üçkuyu Tepesi, özellikle gün batımında ziyaretçilerine unutulmaz manzaralar sunmaktadır. Tepenin etrafı, yeşilliklerle çevrilidir ve bölgenin ekosisteminin önemli bir parçasıdır. Tepenin iklimi, genel olarak Akdeniz iklimi özellikleri taşımaktadır ve yazları sıcak, kışları ılımandır.
+Üçkuyu Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre olarak ölçülmüştür. Eteklerinde ve çevresinde, çeşitli bitki türleri bulunmakta ve zengin bir fauna yapısına sahiptir. Tepenin coğrafi yapısı, milyonlarca yıl önce şekillenmeye başlamış ve jeolojik oluşum, bölgenin önemli bir özelliği olarak ön plana çıkmaktadır. Tepenin etrafı, yeşilliklerle çevrilidir ve bölgenin ekosisteminin önemli bir parçasıdır. Tepenin iklimi, genel olarak Akdeniz iklimi özellikleri taşımaktadır ve yazları sıcak, kışları ılımandır.
 
 ## Flora ve Fauna
 

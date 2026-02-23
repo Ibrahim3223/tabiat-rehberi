@@ -22,7 +22,7 @@ wikidata_id: "Q108227293"
 
 # Zonguldak-Karabuk-Saricicek Uludag Goknari
 
-Zonguldak-Karabuk-Saricicek Uludag Goknari milli parkı, Karadeniz Bölgesi'nin kalbinde yer alan bir doğa harikası. Bu park, 140 hektarlık bir alanı kaplıyor, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Zonguldak ilinin güzelliğini ve çeşitliliğini yansıtan bu milli park, ziyaretçilerini doğanın içlerine davet ediyor. Parkın sunduğu manzaralar ve doğa güzellikleri, ziyaretçilere unutulmaz anlar yaşatıyor.
+Zonguldak-Karabuk-Saricicek Uludag Goknari milli parkı, Karadeniz Bölgesi'nin kalbinde yer alan bir doğa harikası. Zonguldak ilinin güzelliğini ve çeşitliliğini yansıtan bu milli park, ziyaretçilerini doğanın içlerine davet ediyor. Parkın sunduğu manzaralar ve doğa güzellikleri, ziyaretçilere unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 

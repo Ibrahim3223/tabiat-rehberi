@@ -1,7 +1,7 @@
 ---
 title: "Darülhadis Camii Açık Türbe"
 date: "2026-01-10T07:35:22.556Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391252"
 
 # Darülhadis Camii Açık Türbe
 
-Edirne'nin kalbinde yer alan Darülhadis Camii Açık Türbe, şehrin tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Edirne'nin en önemli tarihi mekanlarından biri. Burada, geçmişin izlerini taşıyan tarihi yapılar ve doğal güzellikler bir arada bulunmakta. Darülhadis Camii Açık Türbe, Edirne'nin en çok ziyaret edilen yerlerinden biri ve her yıl binlerce ziyaretçi tarafından ilgi görüyor. Bu özel mekan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
+Edirne'nin kalbinde yer alan Darülhadis Camii Açık Türbe, şehrin tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Burada, geçmişin izlerini taşıyan tarihi yapılar ve doğal güzellikler bir arada bulunmakta. Darülhadis Camii Açık Türbe, Edirne'nin en çok ziyaret edilen yerlerinden biri ve her yıl binlerce ziyaretçi tarafından ilgi görüyor. Bu özel mekan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

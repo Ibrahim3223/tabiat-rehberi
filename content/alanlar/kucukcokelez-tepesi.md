@@ -50,11 +50,11 @@ Doğal güzelliği ve coğrafi yapısıyla dikkat çeken Küçükçökelez Tepes
 
 ## Flora ve Fauna
 
-Küçükçökelez Tepesi, Denizli'nin dağlık bölgesinde yer alan bir ekosistem olarak, zengin bir flora ve fauna çeşitliliğine sahiptir. 
+Küçükçökelez Tepesi, Denizli'nin dağlık bölgesinde yer alan bir ekosistem olarak, zengin bir flora ve fauna çeşitliliğine sahiptir.
 
-Bitki Örtüsü olarak, çam ormanları ve zeytinlikler hakimdir. İlkbahar mevsiminde, tepenin yamaçlarında çeşitli çiçekler açar ve dağların yeşillenmesiyle birlikte, bir renk cümbüşü oluşur. 
+Bitki Örtüsü olarak, çam ormanları ve zeytinlikler hakimdir. İlkbahar mevsiminde, tepenin yamaçlarında çeşitli çiçekler açar ve dağların yeşillenmesiyle birlikte, bir renk cümbüşü oluşur.
 
-Yaban Hayatı olarak, dağlık alanın yükseklik zonlarına adapte olmuş memeliler, kuşlar ve sürüngenler bulunur. Bu canlılar, dağların ekosistemine bağlı olarak, kendi yaşam alanlarını oluşturmuşlardır. 
+Yaban Hayatı olarak, dağlık alanın yükseklik zonlarına adapte olmuş memeliler, kuşlar ve sürüngenler bulunur. Bu canlılar, dağların ekosistemine bağlı olarak, kendi yaşam alanlarını oluşturmuşlardır.
 
 Ekolojik Değer olarak, Küçükçökelez Tepesi, Akdeniz ikliminin karakteristik özelliklerini taşır. Bu bölgenin korunması, sadece yerel değil, aynı zamanda ulusal düzeyde önemlidir. Zeytinlikler ve çam ormanları, bölgenin ekolojik dengesini sağlar ve biyolojik çeşitliliğin korunmasına yardımcı olur.
 

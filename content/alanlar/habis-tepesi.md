@@ -28,7 +28,7 @@ wikidata_id: "Q31385787"
 
 # Habis Tepesi
 
-Habis Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan ve doğa severlerin ilgisini çeken bir noktadır. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Habis Tepesi, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Şırnak'ın coğrafi konumu ve iklimi, bu tepenin flora ve faunasını etkileyen önemli faktörlerdir. Habis Tepesi, bölgenin tarihi ve kültürel zenginliklerini de keşfetmek için ideal bir lokasyondur.
+Habis Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan ve doğa severlerin ilgisini çeken bir noktadır. Habis Tepesi, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Şırnak'ın coğrafi konumu ve iklimi, bu tepenin flora ve faunasını etkileyen önemli faktörlerdir. Habis Tepesi, bölgenin tarihi ve kültürel zenginliklerini de keşfetmek için ideal bir lokasyondur.
 
 ## Tarihçe
 

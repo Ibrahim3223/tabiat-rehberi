@@ -22,7 +22,7 @@ wikidata_id: "Q108227082"
 
 # Mersin-Mut Kestel Dagi
 
-Mersin-Mut Kestel Dagi, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülüyor. Bu geniş ve yeşillik dolu bölge, ziyaretçilerini doğayla baş başa bırakarak dinlenmelerine olanak sağlıyor. Kestel Dağı, Mersin'in Mut ilçe merkezine uzun bir mesafe uzaklıkta yer alıyor. Doğal güzelliği ve tarihi geçmişiyle birlikte, bu bölge her yıl çok sayıda ziyaretçiyi ağırlıyor.
+Mersin-Mut Kestel Dagi, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu geniş ve yeşillik dolu bölge, ziyaretçilerini doğayla baş başa bırakarak dinlenmelerine olanak sağlıyor. Kestel Dağı, Mersin'in Mut ilçe merkezine uzun bir mesafe uzaklıkta yer alıyor. Doğal güzelliği ve tarihi geçmişiyle birlikte, bu bölge her yıl çok sayıda ziyaretçiyi ağırlıyor.
 
 ## Tarihçe
 

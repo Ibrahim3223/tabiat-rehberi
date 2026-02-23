@@ -1,7 +1,7 @@
 ---
 title: "Karakadı Mecdettin Türbesi"
 date: "2026-01-10T06:58:39.226Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390839"
 
 # Karakadı Mecdettin Türbesi
 
-Karakadı Mecdettin Türbesi, Tire'nin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin yeşilliklerle bezeli tepelerinde yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin gizemine davet ediyor. Tarihi Mecdettin Türbesi, bölgenin mistik atmosferini ziyaretçilere sunuyor. İzmir'in Tire ilçesinde bulunan bu mekan, tarihin derinliklerinde gizli bir hazine olarak kabul ediliyor. Karakadı Mecdettin Türbesi, ziyaretçilerini Ege Bölgesi'nin büyüleyici manzarasına davet ediyor.
+Karakadı Mecdettin Türbesi, Tire'nin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin yeşilliklerle bezeli tepelerinde yer alıyor. Tarihi Mecdettin Türbesi, bölgenin mistik atmosferini ziyaretçilere sunuyor. İzmir'in Tire ilçesinde bulunan bu mekan, tarihin derinliklerinde gizli bir hazine olarak kabul ediliyor. Karakadı Mecdettin Türbesi, ziyaretçilerini Ege Bölgesi'nin büyüleyici manzarasına davet ediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karakadı Mecdettin Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Karakadı Mecdettin Türbesi, Tire'nin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin yeşilliklerle bezeli tepelerinde yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin gizemine davet ediyor. İzmir'in Tire ilçesinde bulunan bu mekan, Ege Bölgesi'nin coğrafi yapısını ziyaretçilerine sunuyor. Karakadı Mecdettin Türbesi, bölgenin ikliminin ılıman ve yeşilliklerin bol olduğu bir alanda bulunuyor. Bu mekan, ziyaretçilerini Ege Bölgesi'nin büyüleyici manzarasına davet ediyor. Karakadı Mecdettin Türbesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor.
+Karakadı Mecdettin Türbesi, Tire'nin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin yeşilliklerle bezeli tepelerinde yer alıyor. İzmir'in Tire ilçesinde bulunan bu mekan, Ege Bölgesi'nin coğrafi yapısını ziyaretçilerine sunuyor. Karakadı Mecdettin Türbesi, bölgenin ikliminin ılıman ve yeşilliklerin bol olduğu bir alanda bulunuyor. Bu mekan, ziyaretçilerini Ege Bölgesi'nin büyüleyici manzarasına davet ediyor. Karakadı Mecdettin Türbesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Flora ve Fauna
 

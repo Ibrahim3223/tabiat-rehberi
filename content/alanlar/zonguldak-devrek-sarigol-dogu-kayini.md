@@ -22,7 +22,7 @@ wikidata_id: "Q108227739"
 
 # Zonguldak-Devrek-Sarigol Dogu Kayini
 
-Zonguldak-Devrek-Sarigol Dogu Kayini milli parkı, Zonguldak ilinin güzergahında yer alan ve 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde geniş bir alanı kapsıyor. Bu alanda çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için çekici kılıyor. Milli parkın konumunun Karadeniz Bölgesi'nde olması, ziyaretçilere bölgeye özgü kültürel ve doğal güzellikleri keşfetme fırsatı sunuyor.
+ Bu alanda çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için çekici kılıyor. Milli parkın konumunun Karadeniz Bölgesi'nde olması, ziyaretçilere bölgeye özgü kültürel ve doğal güzellikleri keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Zonguldak-Devrek-Sarigol Dogu Kayini milli parkının tarihi geçmişi, yüzyıl
 
 ## Coğrafya
 
-Zonguldak-Devrek-Sarigol Dogu Kayini milli parkı, Karadeniz Bölgesi'nin coğrafi güzelliklerini barındıran bir alana sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal kaynaklarından biridir. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvan yaşamını destekleyecek şekilde oluşmuştur. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik featuresine uygun olarak, ılıman ve yağışlı bir yapıya sahiptir. Çevre düzenlemeleri, ziyaretçilerin bu doğal güzellikleri rahatça keşfedebilmesi için yapılmıştır.
+Zonguldak-Devrek-Sarigol Dogu Kayini milli parkı, Karadeniz Bölgesi'nin coğrafi güzelliklerini barındıran bir alana sahiptir. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvan yaşamını destekleyecek şekilde oluşmuştur. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik featuresine uygun olarak, ılıman ve yağışlı bir yapıya sahiptir. Çevre düzenlemeleri, ziyaretçilerin bu doğal güzellikleri rahatça keşfedebilmesi için yapılmıştır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Zonguldak-Devrek-Sarigol Dogu Kayini milli parkını ziyaret etmek, doğa severl
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Bölgenin doğal güzellikleri, yüzyıllar boyunca korunmaya çalışılmış.
 - Milli park, çeşitli bitki türleri ve zengin fauna barındırmaktadır.
 - Ziyaretçiler, milli parkın güzelliklerini yürüyüş yaparak keşfedebilir.

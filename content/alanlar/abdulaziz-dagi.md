@@ -33,7 +33,7 @@ Diyarbakır'ıni ve kültürel zenginlikleriyle ünlü coğrafyasında yer alan 
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Abdülaziz Dağı, bu tarihi bölgenin önemli bir parçasını oluşturur. Diyarbakır, binlerce yıllık geçmişinde birçok uygarlığa ev sahipliği yapmış; Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetlerin izlerini taşır. Bu bölgede, tarihi ticaret yolları ve yaylacılık faaliyetleri, insan yaşamının önemli bir parçası olmuştur.
+Diyarbakır bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Abdülaziz Dağı, bu tarihi bölgenin önemli bir parçasını oluşturur. Diyarbakır, binlerce yıllık geçmişinde birçok uygarlığa ev sahipliği yapmış; Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetlerin izlerini taşır. Bu bölgede, tarihi ticaret yolları ve yaylacılık faaliyetleri, insan yaşamının önemli bir parçası olmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla, Abdülaziz Dağı ve çevresindeki alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdüğü, hayvancılık yaptığı ve ticaret yaptığı önemli merkezler arasında yer almıştır. Türkiye'de, bu tür doğal alanlar, sadece coğrafi açıdan değil, aynı zamanda kültürel ve tarihi açıdan da büyük önem taşır. Bu alanlar, insanlık tarihinin önemli bir bölümünü şekillendirmiş, ticaret yolları, yayla ve otlaklar olarak kullanılmıştır. Abdülaziz Dağı, Diyarbakır'ın zengin tarihi ve kültürel mirasının bir parçası olarak, bölgeyi ziyaret edenler için önemli bir destinasyon teşkil eder.
 

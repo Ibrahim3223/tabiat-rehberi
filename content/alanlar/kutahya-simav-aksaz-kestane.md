@@ -22,7 +22,7 @@ wikidata_id: "Q108228220"
 
 # Kutahya-Simav-Aksaz-Kestane
 
-Kutahya-Simav-Aksaz-Kestane milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Bu muhteşem doğa harikası, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. 140 hektarlık bu yeşil alan, ziyaretçilere doğayı keşfetme ve dinlenme imkanı sunuyor.
+Kutahya-Simav-Aksaz-Kestane milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. 140 hektarlık bu yeşil alan, ziyaretçilere doğayı keşfetme ve dinlenme imkanı sunuyor.
 
 ## Tarihçe
 

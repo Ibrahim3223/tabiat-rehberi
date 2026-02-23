@@ -1,7 +1,7 @@
 ---
 title: "Kumacık Hamamı"
 date: "2026-01-09T22:20:00.577Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738480"
 
 # Kumacık Hamamı
 
-Kumacık Hamamı, Amasya'nın saklı bir cenneti olarak bilinir. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Kumacık Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak tanınır ve her yıl çok sayıda ziyaretçi çeker. Bu özel mekan, hem doğa severlerin hem de plaj tutkunlarının ilgisini çeker. Kumacık Hamamı, Amasya'nın merkezine yakın bir konumda bulunur ve ulaşımı oldukça kolaydır. Ziyaretçiler, bu güzel plajda doğanın güzelliğini keşfetmenin yanı sıra, çeşitli aktivitelerle de keyifli zaman geçirebilirler.
+Kumacık Hamamı, Amasya'nın saklı bir cenneti olarak bilinir. Kumacık Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak tanınır ve her yıl çok sayıda ziyaretçi çeker. Bu özel mekan, hem doğa severlerin hem de plaj tutkunlarının ilgisini çeker. Kumacık Hamamı, Amasya'nın merkezine yakın bir konumda bulunur ve ulaşımı oldukça kolaydır. Ziyaretçiler, bu güzel plajda doğanın güzelliğini keşfetmenin yanı sıra, çeşitli aktivitelerle de keyifli zaman geçirebilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kumacık Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete e
 
 ## Coğrafya
 
-Kumacık Hamamı, Amasya ilinin merkezine yakın bir konumda yer alır ve Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu plaj, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş ve güzel bir sahil şeridiyle karşılar. Kumacık Hamamı'nın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle yeşilinTonlarındaki ormanlarla kaplıdır ve doğanın güzelliğini sunar. Kumacık Hamamı'nın iklimi, Karadeniz Bölgesi'nin ılıman iklimine benzer ve ziyaretçiler, bu güzel plajda hem yaz hem de ilkbahar mevsimlerinde keyifli zaman geçirebilirler. Kumacık Hamamı'nın etrafı, yeşilin verschilli tonlarını taşıyan ormanlarla çevrilidir ve bu bölge, doğa severler için bir cennet olarak bilinir.
+Kumacık Hamamı, Amasya ilinin merkezine yakın bir konumda yer alır ve Karadeniz Bölgesi'nin en güzel plajlarından biridir. Kumacık Hamamı'nın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle yeşilinTonlarındaki ormanlarla kaplıdır ve doğanın güzelliğini sunar. Kumacık Hamamı'nın iklimi, Karadeniz Bölgesi'nin ılıman iklimine benzer ve ziyaretçiler, bu güzel plajda hem yaz hem de ilkbahar mevsimlerinde keyifli zaman geçirebilirler. Kumacık Hamamı'nın etrafı, yeşilin verschilli tonlarını taşıyan ormanlarla çevrilidir ve bu bölge, doğa severler için bir cennet olarak bilinir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Kumacık Hamamı'nı ziyaret etmek, hem doğa severler hem de plaj tutkunları i
 ## İlginç Bilgiler
 
 - Kumacık Hamamı, Amasya'nın en güzel plajlarından biridir.
-- Bu plaj, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Kumacık Hamamı, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Bu plaj, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.
 - Kumacık Hamamı, mevsimsel değişimlere göre farklı canlıları barındırır.

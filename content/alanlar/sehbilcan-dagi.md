@@ -28,7 +28,7 @@ wikidata_id: "Q31386174"
 
 # Şehbilcan Dağı
 
-Şehbilcan Dağı, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak, Gaziantep'in doğal güzellikleriyle dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal varlıklarından biri. Bu tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, Gaziantep'in turizm potansiyelini arttırıyor. Şehbilcan Dağı, aynı zamanda bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip. Bu tepe, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+Şehbilcan Dağı, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak, Gaziantep'in doğal güzellikleriyle dikkat çekiyor. Bu tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, Gaziantep'in turizm potansiyelini arttırıyor. Şehbilcan Dağı, aynı zamanda bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip. Bu tepe, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

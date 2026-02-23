@@ -1,7 +1,7 @@
 ---
 title: "Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi"
 date: "2026-01-10T07:10:45.968Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390962"
 
 # Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi
 
-Fatih ilçesinde bulunan Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi, İstanbul'un tarihi ve dini açıdan önemli mekanlarından biridir. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır ve 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un kalabalık ve histórik streetsinden uzakta, sakin bir atmosfere sahip olan bu türbe, ziyaretçilerine huzurlu bir ortam sunar. İstanbul'un Marmara Bölgesi'nde yer alan bu türbe, şehrin tarihi geçmişi hakkında önemli bilgiler sunar.
+Fatih ilçesinde bulunan Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi, İstanbul'un tarihi ve dini açıdan önemli mekanlarından biridir. İstanbul'un kalabalık ve tarihi streetsinden uzakta, sakin bir atmosfere sahip olan bu türbe, ziyaretçilerine huzurlu bir ortam sunar. İstanbul'un Marmara Bölgesi'nde yer alan bu türbe, şehrin tarihi geçmişi hakkında önemli bilgiler sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi, İstanbul'un tarihi geçmi
 
 ## Coğrafya
 
-Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi, İstanbul'un Fatih ilçesinde yer alır. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır ve 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un Marmara Bölgesi'nde yer alan bu türbe, şehrin tarihi geçmişi hakkında önemli bilgiler sunar. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Bu bölgede, mevsimsel değişimler gözlemlenebilir. Kış aylarında, alan soğu ve yağmurlu olurken, yaz aylarında sıcak ve güneşli bir hava hakimdir. Bu türbe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar.
+Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi, İstanbul'un Fatih ilçesinde yer alır. İstanbul'un Marmara Bölgesi'nde yer alan bu türbe, şehrin tarihi geçmişi hakkında önemli bilgiler sunar. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Bu bölgede, mevsimsel değişimler gözlemlenebilir. Kış aylarında, alan soğu ve yağmurlu olurken, yaz aylarında sıcak ve güneşli bir hava hakimdir. Bu türbe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar.
 
 ## Flora ve Fauna
 

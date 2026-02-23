@@ -1,7 +1,7 @@
 ---
 title: "Çavuşbaşı Hamamı"
 date: "2026-01-09T22:52:00.528Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738611"
 
 # Çavuşbaşı Hamamı
 
-Çavuşbaşı Hamamı, İstanbul'un tarihi dokusu içinde yer alan önemli bir kültürel miras olarak karşımıza çıkar. Beyoğlu'nda bulunan bu hamam, Marmara Bölgesi'nin zengin tarihi ve kültürünü yansıtan önemli bir yapıdır. 140 hektarlık bir alanda yer alan Çavuşbaşı Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu geniş alan, ziyaretçilere hem tarihi bir gezi hem de dinlenme imkanı sunar. Çavuşbaşı Hamamı, İstanbul'un turizm ve kültür hayatında önemli bir yere sahiptir.
+Çavuşbaşı Hamamı, İstanbul'un tarihi dokusu içinde yer alan önemli bir kültürel miras olarak karşımıza çıkar. Beyoğlu'nda bulunan bu hamam, Marmara Bölgesi'nin zengin tarihi ve kültürünü yansıtan önemli bir yapıdır. Bu geniş alan, ziyaretçilere hem tarihi bir gezi hem de dinlenme imkanı sunar. Çavuşbaşı Hamamı, İstanbul'un turizm ve kültür hayatında önemli bir yere sahiptir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131738611"
 
 ## Coğrafya
 
-Çavuşbaşı Hamamı, Beyoğlu'nda, İstanbul'un kalbinde yer alır. Bu konumu, hamamın şehirdeki önemli bir merkezini oluşturur. Hamamın çevresinde, çeşitli tarihi ve kültürel yapılar bulunur. Bu yapılar, hamamın etrafını zengin bir kültürel ve tarihi atmosferle doldurur. Çavuşbaşı Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu geniş alan, ziyaretçilere hem tarihi bir gezi hem de dinlenme imkanı sunar. Hamamın coğrafi konumu, şehrin önemli merkezlerinden biri olarak görülmesini sağlar. Ayrıca, hamamın iklimi, İstanbul'un genel iklimine benzer ve ziyaretçilere, şehrin dört mevsimini deneyimleme imkanı sunar.
+Çavuşbaşı Hamamı, Beyoğlu'nda, İstanbul'un kalbinde yer alır. Bu konumu, hamamın şehirdeki önemli bir merkezini oluşturur. Hamamın çevresinde, çeşitli tarihi ve kültürel yapılar bulunur. Bu yapılar, hamamın etrafını zengin bir kültürel ve tarihi atmosferle doldurur. Hamamın coğrafi konumu, şehrin önemli merkezlerinden biri olarak görülmesini sağlar. Ayrıca, hamamın iklimi, İstanbul'un genel iklimine benzer ve ziyaretçilere, şehrin dört mevsimini deneyimleme imkanı sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131738611"
 ## İlginç Bilgiler
 
 - Çavuşbaşı Hamamı, İstanbul'un en eski hamamlarından biridir.
-- Hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Hamamın çevresinde, çeşitli tarihi ve kültürel yapılar bulunur.
 - Hamam, şehrin önemli bir kültürel ve tarihi merkezlerinden biri olarak görülür.
 - Hamamın iklimi, İstanbul'un genel iklimine benzer.

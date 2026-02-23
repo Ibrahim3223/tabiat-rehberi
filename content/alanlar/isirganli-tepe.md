@@ -28,7 +28,7 @@ wikidata_id: "Q31389768"
 
 # Isırganlı Tepe
 
-Isırganlı Tepe, Bilecik'in kalbinde yer alan ve şehrin tarihi geçmişine ışık tutan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin çevresindeki doğal güzelliklere ev sahipliği yapıyor. Isırganlı Tepe, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle cezbediyor. Tepenin eteklerinde, şehrin tarihi dokusunu yansıtan yapılar ve sokaklar bulunuyor. Bu bölge, şehrin kültür ve tarihini keşfetmek isteyenler için ideal bir destinasyon.
+Isırganlı Tepe, Bilecik'in kalbinde yer alan ve şehrin tarihi geçmişine ışık tutan bir tepe. Isırganlı Tepe, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle cezbediyor. Tepenin eteklerinde, şehrin tarihi dokusunu yansıtan yapılar ve sokaklar bulunuyor. Bu bölge, şehrin kültür ve tarihini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

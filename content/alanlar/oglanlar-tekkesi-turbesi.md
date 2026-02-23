@@ -1,7 +1,7 @@
 ---
 title: "Oğlanlar Tekkesi Türbesi"
 date: "2026-01-10T04:58:39.421Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391463"
 
 # Oğlanlar Tekkesi Türbesi
 
-Oğlanlar Tekkesi Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir mekan. Bu mekan, yaklaşık 140 hektarlık alanıyla, geniş bir yeşil alanı kapsar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Oğlanlar Tekkesi Türbesi, İstanbul'un tarihi geçmişini yansıtan önemli bir nokta. Burada, geçmişin izlerini sürerken, aynı zamanda İstanbul'un kültür ve tarihini keşfetme fırsatı bulacaksınız. Oğlanlar Tekkesi Türbesi, özelliklehistorya meraklıları ve kültürel zenginliklere ilgi duyan ziyaretçiler için ideal bir destinasyon.
+Oğlanlar Tekkesi Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir mekan. Bu mekan, yaklaşık 140 hektarlık alanıyla, geniş bir yeşil alanı kapsar. Oğlanlar Tekkesi Türbesi, İstanbul'un tarihi geçmişini yansıtan önemli bir nokta. Burada, geçmişin izlerini sürerken, aynı zamanda İstanbul'un kültür ve tarihini keşfetme fırsatı bulacaksınız. Oğlanlar Tekkesi Türbesi, özelliklehistorya meraklıları ve kültürel zenginliklere ilgi duyan ziyaretçiler için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -37,7 +37,7 @@ Boğazköy-Alacahöyük Tarihî Millî Parkı, tarihin derinliklerine uzanan bir
 
 ## Coğrafya
 
-Boğazköy-Alacahöyük Tarihî Millî Parkı, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir alandır. Parkın etrafı, 1000 metreyi aşan dağlar ile çevrilidir ve bu dağların eteklerinde numerous dere ve çaylar bulunmaktadır. Bu coğrafi yapı, parkın iklimini de etkileyerek, Karadeniz Bölgesi'nin nemli ve ılıman ikliminin hakim olmasına yol açmıştır. Parkın 1200 hektarlık alanı, yaklaşık 2000 futbol sahası kadar bir büyüklüğe sahiptir ve bu alanda çeşitli bitki ve hayvan türleri yaşamaktadır.
+Boğazköy-Alacahöyük Tarihî Millî Parkı, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir alandır. Parkın etrafı, 1000 metreyi aşan dağlar ile çevrilidir ve bu dağların eteklerinde numerous dere ve çaylar bulunmaktadır. Bu coğrafi yapı, parkın iklimini de etkileyerek, Karadeniz Bölgesi'nin nemli ve ılıman ikliminin hakim olmasına yol açmıştır.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Boğazköy-Alacahöyük Tarihî Millî Parkı, yılın her mevsimi ziyaret edile
 - Parkta, numerous tarihi eserler ve kalıntılar bulunmakta.
 - Boğazköy, Hitit İmparatorluğu'nun başkenti olarak bilinir.
 - Alacahöyük, M.Ö. 4. binyılda kurulmuş bir yerleşim yeridir.
-- Parkın 1200 hektarlık alanı, yaklaşık 2000 futbol sahası kadar bir büyüklüğe sahiptir.
+

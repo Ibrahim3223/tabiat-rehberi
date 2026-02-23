@@ -1,7 +1,7 @@
 ---
 title: "Hamam Boğazı (Bolu)"
 date: "2026-01-09T11:01:10.943Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "kanyon"
 il: "Bolu"
@@ -32,9 +32,9 @@ Bolu'nun doğal güzelliklerinin arasında gizli bir hazine olarak duran Hamam B
 
 ## Tarihçe
 
-Bolu bölgesi, zengin bir tarihe sahip olan bir coğrafyada yer alır. Tarihi İpek Yolu'nun güzergahında bulunan bu bölge, farklı uygarlıkların izlerini taşır. Hitit, Roma ve Osmanlı gibi medeniyetler, Bolu'nun stratejik konumu nedeniyle burada yaşamış ve ticaret yapmışlardır. 
+Bolu bölgesi, zengin bir tarihe sahip olan bir coğrafyada yer alır. Tarihi İpek Yolu'nun güzergahında bulunan bu bölge, farklı uygarlıkların izlerini taşır. Hitit, Roma ve Osmanlı gibi medeniyetler, Bolu'nun stratejik konumu nedeniyle burada yaşamış ve ticaret yapmışlardır.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Kanyonlar, yaylalar ve ormanlar, insanların yaşamlarını sürdürdükleri, tarım ve hayvancılıkla uğraştıkları alanlar olarak görev yapmışlardır. Özellikle yaylacılık, bu bölgede önemli bir gelenek olarak devam etmektedir. 
+Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Kanyonlar, yaylalar ve ormanlar, insanların yaşamlarını sürdürdükleri, tarım ve hayvancılıkla uğraştıkları alanlar olarak görev yapmışlardır. Özellikle yaylacılık, bu bölgede önemli bir gelenek olarak devam etmektedir.
 
 Hamam Boğazı da, bu coğrafyanın bir parçası olarak, insanların yaşamlarına ev sahipliği yapmış olmalıdır. Ticaret yolları, insanların bu doğal güzelliği keşfetmelerine ve yaşam alanlarına dahil etmelerine olanak sağlamıştır. Bu bölgenin tarihi, Türkiye'nin genel tarihsel bağlamının bir parçasıdır ve doğal güzellikleri, insanların yaşamlarını şekillendirmiş olan önemli faktörlerden biri olmuştur.
 
@@ -42,7 +42,7 @@ Hamam Boğazı da, bu coğrafyanın bir parçası olarak, insanların yaşamlar�
 
 Doğal güzelliklerin zenginliklerini keşfetmek isteyenler için, Bolu'nun Hamam Boğazı kanyonu gerçek bir hazine. 40.1494°K, 30.8100°D koordinatlarında yer alan bu kanyon, coğrafi olarak da oldukça ilgi çekici bir konumda bulunuyor. Yaklaşık olarak Taksim Meydanı'nın 10 katı büyüklüğünde bir alanda yer alan Hamam Boğazı, geniş ve derin bir vadiden oluşuyor.
 
-Jeolojik açıdan bakıldığında, Hamam Boğazı'nın fiziksel yapısı oldukça ilginç. Kanyonun jeolojik oluşumu, bölgenin karmaşık bir história sahip olduğunu gösteriyor. Ancak, fiziksel veri eksikliği nedeniyle, kanyonun tam olarak boyutları ve jeolojik özellikleri hakkında net bilgiler bulunmuyor. Buna rağmen, kanyonun genişliği ve derinliği, Monaco'nun yarısı kadar bir alanı kaplayabilecek büyüklükte olduğu söylenebilir.
+Jeolojik açıdan bakıldığında, Hamam Boğazı'nın fiziksel yapısı oldukça ilginç. Kanyonun jeolojik oluşumu, bölgenin karmaşık bir tarihi sahip olduğunu gösteriyor. Ancak, fiziksel veri eksikliği nedeniyle, kanyonun tam olarak boyutları ve jeolojik özellikleri hakkında net bilgiler bulunmuyor. Buna rağmen, kanyonun genişliği ve derinliği, Monaco'nun yarısı kadar bir alanı kaplayabilecek büyüklükte olduğu söylenebilir.
 
 Mevsimsel değişimlerin etkisi altında, Hamam Boğazı'nın iklim karakteri de oldukça dikkat çekici. Kanyon, genellikle serin ve nemli bir havaya sahip. Hava durumu, mevsimlere göre değişkenlik gösteriyor; yaz aylarında sıcaklık 25 derece civarında iken, kış aylarında 0 dereceye kadar düşebiliyor. Bu mevsimsel özellikler, kanyonun ekosistemini zenginleştiriyor.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387744"
 
 # Diktaş Tepesi
 
-Diktaş Tepesi, Erzurum'un etkileyici doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Konum olarak Doğu Anadolu Bölgesi'nde bulunan Diktaş Tepesi, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle bekliyor. Tepenin etrafındaki manzara, ziyaretçilere doğanın güzelliğini gösterirken, aynı zamanda bu bölgenin zengin tarihi geçmişi hakkında da bilgi veriyor.
+Diktaş Tepesi, Erzurum'un etkileyici doğal güzelliklerinden biri olarak karşımıza çıkıyor. Konum olarak Doğu Anadolu Bölgesi'nde bulunan Diktaş Tepesi, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle bekliyor. Tepenin etrafındaki manzara, ziyaretçilere doğanın güzelliğini gösterirken, aynı zamanda bu bölgenin zengin tarihi geçmişi hakkında da bilgi veriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Diktaş Tepesi, tarihi geçmişiyle dikkat çekiyor. Bu bölge, yüzyıllar boyu
 
 ## Coğrafya
 
-Diktaş Tepesi, coğrafi olarak zengin bir bölgede yer alıyor. Tepenin etrafındaki manzara, ziyaretçilere doğanın güzelliğini gösterirken, aynı zamanda bu bölgenin coğrafi özellikleri hakkında da bilgi veriyor. Diktaş Tepesi, yaklaşık 140 hektarlık bir alanı kaplayarak, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu bölge, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunuyor. Coğrafi konumu itibariyle, Diktaş Tepesi, ziyaretçilerine doğanın güzelliğini ve coğrafi zenginliklerini göstermeye devam ediyor. Ayrıca, bu bölge, iklim olarak da dikkat çekiyor. Diktaş Tepesi, ziyaretçilerine dört mevsimi yaşayan bir bölge olarak, her mevsim farklı bir güzellik sunuyor.
+Diktaş Tepesi, coğrafi olarak zengin bir bölgede yer alıyor. Tepenin etrafındaki manzara, ziyaretçilere doğanın güzelliğini gösterirken, aynı zamanda bu bölgenin coğrafi özellikleri hakkında da bilgi veriyor. Bu bölge, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunuyor. Coğrafi konumu itibariyle, Diktaş Tepesi, ziyaretçilerine doğanın güzelliğini ve coğrafi zenginliklerini göstermeye devam ediyor. Ayrıca, bu bölge, iklim olarak da dikkat çekiyor. Diktaş Tepesi, ziyaretçilerine dört mevsimi yaşayan bir bölge olarak, her mevsim farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Diktaş Tepesi, ziyaretçilerine çeşitli imkanlar sunuyor. Ziyaretçiler, bu b
 
 - Diktaş Tepesi, Erzurum'un en yüksek noktalarından biridir
 - Tepenin etrafındaki manzara, ziyaretçilere doğanın güzelliğini gösterir
-- Diktaş Tepesi, históri geçmişiyle dikkat çekiyor
+- Diktaş Tepesi, tarihi geçmişiyle dikkat çekiyor
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaya devam ediyor
 - Diktaş Tepesi, flora ve fauna açısından zengin bir bölgedir

@@ -1,7 +1,7 @@
 ---
 title: "Küplü Hamam"
 date: "2026-01-09T23:10:49.930Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738929"
 
 # Küplü Hamam
 
-Küplü Hamam, İzmir'in Bergama ilçesinde yer alan, yaklaşık 200 futbol sahası büyüklüğündeki 140 hektarlık yeşil alanıyla dikkat çekiyor. Bu alan, ziyaretçilerini doğanın güzelliğine ve sakinliğine davet ediyor. Burada, yeşilin farklı tonlarını görme mümkün. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğayla iç içe olmak için geniş bir olanak sunuyor.
+ Bu alan, ziyaretçilerini doğanın güzelliğine ve sakinliğine davet ediyor. Burada, yeşilin farklı tonlarını görme mümkün.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Küplü Hamam'ın tarihi geçmişi, Bergama'nın zengin tarihi mirasıyla iç i�
 
 ## Coğrafya
 
-Küplü Hamam, İzmir'in Bergama ilçesinde, Ege Bölgesi'nin güzelliğini yansıtan bir coğrafyada yer alıyor. Bu bölgenin coğrafyası, geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğayla iç içe olmak için geniş bir olanak sunuyor. Bölgenin iklimi, Ege Bölgesi'nin ılıman ikliminin özelliklerini taşıyor ve bu, ziyaretçilere yılın büyükinde ziyaret imkanı veriyor. Çevre, doğal güzelliklerle dolu ve bu, ziyaretçilere geniş bir olanak sunuyor.
+Küplü Hamam, İzmir'in Bergama ilçesinde, Ege Bölgesi'nin güzelliğini yansıtan bir coğrafyada yer alıyor. Bu bölgenin coğrafyası, geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bölgenin iklimi, Ege Bölgesi'nin ılıman ikliminin özelliklerini taşıyor ve bu, ziyaretçilere yılın büyükinde ziyaret imkanı veriyor. Çevre, doğal güzelliklerle dolu ve bu, ziyaretçilere geniş bir olanak sunuyor.
 
 ## Flora ve Fauna
 

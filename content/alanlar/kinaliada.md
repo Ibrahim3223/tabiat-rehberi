@@ -30,7 +30,7 @@ wikidata_id: "Q579117"
 
 # Kınalıada
 
-İstanbul'un gizli güzelliği Kınalıada, Adalar ilçesinin en büyük adalarından biri olarak dikkat çekiyor. İstanbul'un kalbinde, Marmara Denizi'nin sakin sularında yer alan bu ada, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak olarak görülüyor. Kınalıada, tarihi ve doğal güzelliklerinin yanı sıra, İstanbul'un önemli turistik noktalarından biri olarak kabul ediliyor. 
+İstanbul'un gizli güzelliği Kınalıada, Adalar ilçesinin en büyük adalarından biri olarak dikkat çekiyor. İstanbul'un kalbinde, Marmara Denizi'nin sakin sularında yer alan bu ada, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak olarak görülüyor. Kınalıada, tarihi ve doğal güzelliklerinin yanı sıra, İstanbul'un önemli turistik noktalarından biri olarak kabul ediliyor.
 Adalar ilçesinde bulunan Kınalıada, İstanbul'un toplam turizm potansiyelini önemli ölçüde artırıyor.
 
 ## Tarihçe

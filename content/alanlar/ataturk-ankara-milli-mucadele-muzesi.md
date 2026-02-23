@@ -1,7 +1,7 @@
 ---
 title: "Atatürk Ankara Milli Mücadele Müzesi"
 date: "2026-01-10T15:12:37.025Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -30,11 +30,11 @@ wikidata_id: "Q132950250"
 
 # Atatürk Ankara Milli Mücadele Müzesi
 
-Atatürk Ankara Milli Mücadele Müzesi, Ankara'nın kalbinde, tarihin derinliklerine bir yolculuk sunuyor. 1919 yılında başlanan Milli Mücadele'nin önemli merkezlerinden biri olan bu mekan, Atatürk'ün önderliğinde verilen bağımsızlık mücadelesini gözler önüne seriyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilere geniş bir tarihî panorama sunuyor. Burada, Türkiye'nin bağımsızlık mücadelesinin önemli evreleri, belgelerle ve eserlerle sergileniyor.
+Atatürk Ankara Milli Mücadele Müzesi, Ankara'nın kalbinde, tarihin derinliklerine bir yolculuk sunuyor. 1919 yılında başlanan Milli Mücadele'nin önemli merkezlerinden biri olan bu mekan, Atatürk'ün önderliğinde verilen bağımsızlık mücadelesini gözler önüne seriyor. Burada, Türkiye'nin bağımsızlık mücadelesinin önemli evreleri, belgelerle ve eserlerle sergileniyor.
 
 ## Tarihçe
 
-Atatürk Ankara Milli Mücadele Müzesi, Türkiye'nin kuruluşunda önemli bir role sahip olan Milli Mücadele'nin hikayesini anlatıyor. Müze, Ankara'nın Kurtuluş Savaşı'na katkısını ve bu sürecin lideri Atatürk'ü merkezine alıyor. Tarihi geçmişi, çeşitli dönemlerdeki önemli olayları ve kişileri kronolojik olarak sunmakla birlikte, ziyaretçilere bir história belgeseli gibi hissettiren bir atmosfer yaratıyor. Burada, Türkiye'nin bağımsızlık mücadelesinin önemli adımları, belgelerle ve fotoğraf galerileriyle ziyaretçilerin ilgisini çekiyor.
+Atatürk Ankara Milli Mücadele Müzesi, Türkiye'nin kuruluşunda önemli bir role sahip olan Milli Mücadele'nin hikayesini anlatıyor. Müze, Ankara'nın Kurtuluş Savaşı'na katkısını ve bu sürecin lideri Atatürk'ü merkezine alıyor. Tarihi geçmişi, çeşitli dönemlerdeki önemli olayları ve kişileri kronolojik olarak sunmakla birlikte, ziyaretçilere bir tarihi belgeseli gibi hissettiren bir atmosfer yaratıyor. Burada, Türkiye'nin bağımsızlık mücadelesinin önemli adımları, belgelerle ve fotoğraf galerileriyle ziyaretçilerin ilgisini çekiyor.
 
 ## Coğrafya
 

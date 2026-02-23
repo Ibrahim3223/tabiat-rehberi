@@ -1,7 +1,7 @@
 ---
 title: "Behramşah Türbesi"
 date: "2026-01-10T05:30:56.182Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzincan"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391370"
 
 # Behramşah Türbesi
 
-Behramşah Türbesi, Kemah ilçesinde, Doğu Anadolu Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik merkezidir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Behramşah Türbesi, tarihi geçmişinin zenginliği ve doğal güzelliği ile ziyaretçilerini cezbetmektedir. Burada, tarihi yapıların yanında, çeşitli bitki türleri ve zengin fauna da bulunmaktadır.
+Behramşah Türbesi, Kemah ilçesinde, Doğu Anadolu Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik merkezidir. Behramşah Türbesi, tarihi geçmişinin zenginliği ve doğal güzelliği ile ziyaretçilerini cezbetmektedir. Burada, tarihi yapıların yanında, çeşitli bitki türleri ve zengin fauna da bulunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Behramşah Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Behramşah Türbesi, coğrafi olarak, Kemah ilçesinin merkezinde yer almaktadır. Bu bölge, Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Behramşah Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin coğrafi yapısı, dağlık ve engebeli arazilerle karakterizedir. Behramşah Türbesi, ziyaretçilerine, doğal güzelliğin ve tarihi zenginliğin birleştiği bir ortam sunmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermekte olup, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı geçmektedir.
+Behramşah Türbesi, coğrafi olarak, Kemah ilçesinin merkezinde yer almaktadır. Bu bölge, Doğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bölgenin coğrafi yapısı, dağlık ve engebeli arazilerle karakterizedir. Behramşah Türbesi, ziyaretçilerine, doğal güzelliğin ve tarihi zenginliğin birleştiği bir ortam sunmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermekte olup, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı geçmektedir.
 
 ## Flora ve Fauna
 

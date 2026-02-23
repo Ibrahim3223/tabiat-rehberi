@@ -1,7 +1,7 @@
 ---
 title: "Taşçı Hamamı"
 date: "2026-01-09T23:15:15.089Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzincan"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739004"
 
 # Taşçı Hamamı
 
-Erzincan merkezinde yer alan Taşçı Hamamı, şehrin tarihi ve doğal güzelliklerini bir arada sunan önemli bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Taşçı Hamamı, şehrin kalbinde yer alıyor ve kolay ulaşılabilirlik nedeniyle her yıl birçok ziyaretçi çekiyor. Tarihi geçmişi ve kültürel önemi ile dikkat çekiyor. Şehir merkezinde yer alması, ziyaretçilerin diğer tarihi ve kültürel noktaları da kolayca keşfetmesine olanak sağlıyor.
+Erzincan merkezinde yer alan Taşçı Hamamı, şehrin tarihi ve doğal güzelliklerini bir arada sunan önemli bir destinasyon. Taşçı Hamamı, şehrin kalbinde yer alıyor ve kolay ulaşılabilirlik nedeniyle her yıl birçok ziyaretçi çekiyor. Tarihi geçmişi ve kültürel önemi ile dikkat çekiyor. Şehir merkezinde yer alması, ziyaretçilerin diğer tarihi ve kültürel noktaları da kolayca keşfetmesine olanak sağlıyor.
 
 ## Tarihçe
 

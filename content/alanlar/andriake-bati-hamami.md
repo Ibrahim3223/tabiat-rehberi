@@ -1,7 +1,7 @@
 ---
 title: "Andriake Batı Hamamı"
 date: "2026-01-09T23:41:28.853Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739200"
 
 # Andriake Batı Hamamı
 
-Demre'nin merkezinde yer alan Andriake Batı Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir plaj. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde. Andriake Batı Hamamı, Demre'nin turizm gelirine büyük katkı sağlıyor. Plajın genişliği ve güzelliği, ziyaretçilerin ilgisini çekiyor. Andriake Batı Hamamı, Demre'nin en önemli turizm merkezlerinden biri.
+Demre'nin merkezinde yer alan Andriake Batı Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir plaj. Andriake Batı Hamamı, Demre'nin turizm gelirine büyük katkı sağlıyor. Plajın genişliği ve güzelliği, ziyaretçilerin ilgisini çekiyor. Andriake Batı Hamamı, Demre'nin en önemli turizm merkezlerinden biri.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Andriake Batı Hamamı, tarihi geçmişi ile dikkat çekiyor. Bu bölgenin tarih
 
 ## Coğrafya
 
-Andriake Batı Hamamı, Demre'nin merkezinde yer alıyor. Bu plaj, Akdeniz Bölgesi'nin en güzel plajlarından biri. Andriake Batı Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde. Plajın uzunluğu, uzun bir mesafe. Andriake Batı Hamamı, Demre'nin en önemli turizm merkezlerinden biri. Plajın çevresi, yeşilliklerle dolu. Andriake Batı Hamamı, ziyaretçilerine güzel bir manzara sunuyor. Plajın iklimi, Akdeniz iklimi. Kışlar ılıman, yazlar sıcak geçiyor. Andriake Batı Hamamı, yılın her döneminde ziyaret edilebiliyor.
+Andriake Batı Hamamı, Demre'nin merkezinde yer alıyor. Bu plaj, Akdeniz Bölgesi'nin en güzel plajlarından biri. Andriake Batı Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor. Plajın uzunluğu, uzun bir mesafe. Andriake Batı Hamamı, Demre'nin en önemli turizm merkezlerinden biri. Plajın çevresi, yeşilliklerle dolu. Andriake Batı Hamamı, ziyaretçilerine güzel bir manzara sunuyor. Plajın iklimi, Akdeniz iklimi. Kışlar ılıman, yazlar sıcak geçiyor. Andriake Batı Hamamı, yılın her döneminde ziyaret edilebiliyor.
 
 ## Flora ve Fauna
 

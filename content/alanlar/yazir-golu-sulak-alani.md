@@ -22,7 +22,7 @@ wikidata_id: "Q108228836"
 
 # Yazır Gölü Sulak Alanı
 
-Yazır Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli sulak alanlarından biri. Gölün etrafını çevreleyen dağlar ve tepeler, bu alanı bir cennete çeviriyor. Yazır Gölü Sulak Alanı, hem doğa severler hem de Photographerlar için bir cennet. Gölde yaşayan çeşitli kuş türleri, bu alanı Kuş gözlemcileri için bir çekim merkezi haline getiriyor.
+Yazır Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Gölün etrafını çevreleyen dağlar ve tepeler, bu alanı bir cennete çeviriyor. Yazır Gölü Sulak Alanı, hem doğa severler hem de Photographerlar için bir cennet. Gölde yaşayan çeşitli kuş türleri, bu alanı Kuş gözlemcileri için bir çekim merkezi haline getiriyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227998"
 
 # Eskişehir-Inonu Toros Sediri
 
-Eskişehir-Inonu Toros Sediri milli parkı, İç Anadolu Bölgesi'nin yeşil cenneti olarak bilinir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktasıdır. Toros sedirinin güzelliği ve milli parkın doğal güzellikleri, ziyaretçilerini büyüler. Bu milli park, hem doğa severler hem de şehrin kalabalığından bunalan için harika bir kaçış noktasıdır.
+Eskişehir-Inonu Toros Sediri milli parkı, İç Anadolu Bölgesi'nin yeşil cenneti olarak bilinir. Toros sedirinin güzelliği ve milli parkın doğal güzellikleri, ziyaretçilerini büyüler. Bu milli park, hem doğa severler hem de şehrin kalabalığından bunalan için harika bir kaçış noktasıdır.
 
 ## Tarihçe
 

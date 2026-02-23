@@ -32,7 +32,7 @@ wikidata_id: "Q31539991"
 
 ## Tarihçe
 
-Şırnak bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölge, Mezopotamya'nın kuzey ucunda yer alır ve tarih boyunca çeşitli uygarlıkların geçiş noktası olmuştur. Sümerler, Asurlar, Persler ve Roma İmparatorluğu gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. 
+Şırnak bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölge, Mezopotamya'nın kuzey ucunda yer alır ve tarih boyunca çeşitli uygarlıkların geçiş noktası olmuştur. Sümerler, Asurlar, Persler ve Roma İmparatorluğu gibi medeniyetler, bu topraklarda izlerini bırakmışlardır.
 
 Buda Dağı, bu tarihsel zenginliğin bir parçasıdır. Türkiye'de bulunan doğal alanlar, yalnızca coğrafi güzellikleri ile değil, aynı zamanda tarihsel önemi ile de dikkat çeker. Bu tür dağlar ve ormanlar, insan yerleşimlerinin ve ticaret yollarının oluşmasında önemli rol oynamıştır. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerde binlerce yıldır devam etmektedir. İnsanların bu doğal alanlarla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal açıdan da önemlidir.
 
@@ -50,11 +50,11 @@ Bölgenin iklim karakteri, mevsimsel özellikler ve hava durumu açısından inc
 
 ## Flora ve Fauna
 
-Buda Dağı, Şırnak'ta bulunan bir dağ ekosistemi olarak yarı kurak iklimin hakim olduğu bir bölgede yer alır. Bu dağ, yükseklik zonları ve alpin flora ile dikkat çeker. 
+Buda Dağı, Şırnak'ta bulunan bir dağ ekosistemi olarak yarı kurak iklimin hakim olduğu bir bölgede yer alır. Bu dağ, yükseklik zonları ve alpin flora ile dikkat çeker.
 
-Bitki örtüsü olarak, ilkbahar aylarında renkli çiçekler ile kaplanırken, sonbaharda sararan yapraklar ile farklı bir güzelliğe bürünür. Step ve ova ekolojisi, bölgenin flora çeşitliliğini etkiler. 
+Bitki örtüsü olarak, ilkbahar aylarında renkli çiçekler ile kaplanırken, sonbaharda sararan yapraklar ile farklı bir güzelliğe bürünür. Step ve ova ekolojisi, bölgenin flora çeşitliliğini etkiler.
 
-Yaban hayatı açısından, dağda various memeliler, kuşlar ve sürüngenler bulunur. Göç eden kuşlar, sonbaharda bu dağları ziyaret eder ve buradaki yaşam alanlarını kullanır. Memeliler, dağların yüksek kesimlerinde ve ormanlık alanlarda yaşar. 
+Yaban hayatı açısından, dağda various memeliler, kuşlar ve sürüngenler bulunur. Göç eden kuşlar, sonbaharda bu dağları ziyaret eder ve buradaki yaşam alanlarını kullanır. Memeliler, dağların yüksek kesimlerinde ve ormanlık alanlarda yaşar.
 
 Ekolojik değer olarak, Buda Dağı'nın korunması önemlidir. Bu dağ, yerel ekosistemin dengesini sağlar ve birçok canlıyaşam alanı sunar. Ancak, koruma durumu yeterli düzeyde değildir ve daha fazla çaba göstermek gerekir.
 

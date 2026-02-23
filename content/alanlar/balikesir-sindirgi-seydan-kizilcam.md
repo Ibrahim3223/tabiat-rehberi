@@ -22,7 +22,7 @@ wikidata_id: "Q108228434"
 
 # Balikesir-Sindirgi-Seydan-Kızılçam
 
-Balikesir-Sindirgi-Seydan-Kızılçam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, çeşitli bitki türleri ve zengin fauna ile dolu. Milli parkın konumu, ziyaretçilere şehir hayatından uzaklaşarak doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın girişinde, misafirleri geniş ve ferah bir açık alan karşılıyor. Bu alan, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor.
+ Bu büyük alan, çeşitli bitki türleri ve zengin fauna ile dolu. Milli parkın konumu, ziyaretçilere şehir hayatından uzaklaşarak doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın girişinde, misafirleri geniş ve ferah bir açık alan karşılıyor. Bu alan, ziyaretçilerin doğa ile iç içe olmasını sağlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Balikesir-Sindirgi-Seydan-Kızılçam milli parkının tarihi geçmişi, yüzyı
 
 ## Coğrafya
 
-Balikesir-Sindirgi-Seydan-Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Parkın coğrafi konumu, ziyaretçilere geniş bir gezi alanı sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile dolu. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak kuru ve soğuk. Parkın çevresi, zengin fauna ile dolu ve ziyaretçilere doğa ile iç içe olmayı sağlayan geniş açık alanlar sunuyor. Milli parkın coğrafi yapısı, ziyaretçilere gezi için uygun bir ortam sunuyor. Parkın konumu, ziyaretçilere şehir hayatından uzaklaşarak doğanın güzelliğini keşfetme fırsatı sunuyor.
+Balikesir-Sindirgi-Seydan-Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Parkın coğrafi konumu, ziyaretçilere geniş bir gezi alanı sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak kuru ve soğuk. Parkın çevresi, zengin fauna ile dolu ve ziyaretçilere doğa ile iç içe olmayı sağlayan geniş açık alanlar sunuyor. Milli parkın coğrafi yapısı, ziyaretçilere gezi için uygun bir ortam sunuyor. Parkın konumu, ziyaretçilere şehir hayatından uzaklaşarak doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

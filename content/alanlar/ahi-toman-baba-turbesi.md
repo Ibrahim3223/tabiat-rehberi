@@ -1,7 +1,7 @@
 ---
 title: "Ahi Toman Baba Türbesi"
 date: "2026-01-10T05:18:38.327Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391713"
 
 # Ahi Toman Baba Türbesi
 
-Ahi Toman Baba Türbesi, Erzurum'un Yakutiye ilçesinde yer alan histórik bir yapıdır. Yakutiye'nin merkezine oldukça yakın olan bu türbe, ziyaretçilerini tarihi ve kültürel zenginliklerle karşılar. 140 hektarın üzerinde bir alanda konumlanmış olan Ahi Toman Baba Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu türbe, sadece tarihi değerleriyle değil, aynı zamanda doğal güzellikleriyle de dikkat çeker. Çevresinde yer alan yüksek dağlar ve yeşillikler, ziyaretçilere huzur verici bir ortam sunar. Ahi Toman Baba Türbesi, Erzurum'un önemli tarihi ve kültürel merkezlerinden biri olarak kabul edilir.
+Ahi Toman Baba Türbesi, Erzurum'un Yakutiye ilçesinde yer alan tarihi bir yapıdır. Yakutiye'nin merkezine oldukça yakın olan bu türbe, ziyaretçilerini tarihi ve kültürel zenginliklerle karşılar. Bu türbe, sadece tarihi değerleriyle değil, aynı zamanda doğal güzellikleriyle de dikkat çeker. Çevresinde yer alan yüksek dağlar ve yeşillikler, ziyaretçilere huzur verici bir ortam sunar. Ahi Toman Baba Türbesi, Erzurum'un önemli tarihi ve kültürel merkezlerinden biri olarak kabul edilir.
 
 ## Tarihçe
 

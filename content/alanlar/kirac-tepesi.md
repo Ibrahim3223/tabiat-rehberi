@@ -28,7 +28,7 @@ wikidata_id: "Q32211205"
 
 # Kıraç Tepesi
 
-Kıraç Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunar. Bu tepe, bölgenin tarihi geçmişi ve doğal güzellikleri ile dikkat çeker. Ziyaretçiler, buraya gelerek hem doğa ile iç içe zaman geçirebilir hem de bölgenin tarihi hakkında bilgi edinebilir. Kıraç Tepesi, Eskişehir'in önemli turizm noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi ağırlar.
+Kıraç Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, bölgenin tarihi geçmişi ve doğal güzellikleri ile dikkat çeker. Ziyaretçiler, buraya gelerek hem doğa ile iç içe zaman geçirebilir hem de bölgenin tarihi hakkında bilgi edinebilir. Kıraç Tepesi, Eskişehir'in önemli turizm noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi ağırlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kıraç Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Kıraç Tepesi, Eskişehir'in coğrafi yapısını yansıtan bir tepe olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genel olarak step ve ormanlık alanların bir arada bulunduğu bir coğrafi yapıya sahiptir. Tepenin bulunduğu alan, 140 hektarlık bir yeşil alan sunar ve bu, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere geniş bir yeşil alan sunar ve doğa ile iç içe zaman geçirmelerine olanak tanır. Ayrıca, bu tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal bir iklimdir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu coğrafi özellikler, Kıraç Tepesi'ni ziyaret edenlerin, doğa ile iç içe zaman geçirebileceği ve bölgenin çeşitli coğrafi yapısını keşfedebileceği bir mekan haline getirir.
+Kıraç Tepesi, Eskişehir'in coğrafi yapısını yansıtan bir tepe olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genel olarak step ve ormanlık alanların bir arada bulunduğu bir coğrafi yapıya sahiptir. Bu geniş alan, ziyaretçilere geniş bir yeşil alan sunar ve doğa ile iç içe zaman geçirmelerine olanak tanır. Ayrıca, bu tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal bir iklimdir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bu coğrafi özellikler, Kıraç Tepesi'ni ziyaret edenlerin, doğa ile iç içe zaman geçirebileceği ve bölgenin çeşitli coğrafi yapısını keşfedebileceği bir mekan haline getirir.
 
 ## Flora ve Fauna
 

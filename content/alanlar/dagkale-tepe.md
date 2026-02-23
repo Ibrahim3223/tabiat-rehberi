@@ -50,11 +50,11 @@ Mevsimsel olarak, Dağkale Tepe'nin bulunduğu bölge, karasal iklimin hakim old
 
 ## Flora ve Fauna
 
-Dağkale Tepe, Erzurum'un yüksek dağ ekosistemini barındıran bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Dağkale Tepe, Erzurum'un yüksek dağ ekosistemini barındıran bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünde, ilkbaharda çiçeklerin açtığı alpin çayırlar hakim. Bu çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliğini sunar. Sonbaharda, çayırların sararması ve göç eden kuşların geçişi bölgeyi renklendirir. 
+Bitki örtüsünde, ilkbaharda çiçeklerin açtığı alpin çayırlar hakim. Bu çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliğini sunar. Sonbaharda, çayırların sararması ve göç eden kuşların geçişi bölgeyi renklendirir.
 
-Yaban hayatı, memeliler ve kuşlar açısından zengindir. Dağ keçileri ve yaban keçileri, bölgenin yüksek kesimlerinde yaşar. Kuşlar ise, göç mevsimlerinde bölgeden geçer. Sürüngenler de, güneşli günlerde kayaların üzerinde görülebilir. 
+Yaban hayatı, memeliler ve kuşlar açısından zengindir. Dağ keçileri ve yaban keçileri, bölgenin yüksek kesimlerinde yaşar. Kuşlar ise, göç mevsimlerinde bölgeden geçer. Sürüngenler de, güneşli günlerde kayaların üzerinde görülebilir.
 
 Ekolojik değeri, endemik türlerin varlığı ve yüksek dağ ekosistemini barındırmasıyla önemli. Bu bölgenin korunması, hem yerel hem de ulusal düzeyde önemlidir.
 

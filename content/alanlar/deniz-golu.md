@@ -52,7 +52,7 @@ Göl, Ardanuç ilçesinin su kaynakları açısından önemli bir role sahip. Ç
 
 ## Flora ve Fauna
 
-Deniz Gölü, Artvin'in step bitki örtüsü ve bozkırının içinde bir vaha gibi duruyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Deniz Gölü, Artvin'in step bitki örtüsü ve bozkırının içinde bir vaha gibi duruyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 1. Bitki Örtüsü: İlkbaharda, gölün etrafı rengarenk çiçeklerle donanıyor. Step bitkileri ve otları, kuraklığa adapte olmuş türler, gölün su seviyesine göre değişen bir manzara sunuyor.
 2. Yaban Hayatı: Göl, su kuşları ve balıklar için önemli bir yaşam alanı. Sürüngenler ve memeliler de bu ekosistemin bir parçası. Sonbaharda, göç eden kuşlar gölde konaklıyor.
 3. Ekolojik Değer: Deniz Gölü, bölgenin ekolojik dengesini koruyor. Su kuşları ve balıkların yaşam alanı, aynı zamanda sürüngenler ve memeliler için de önemli bir kaynak. Bu alanın korunması, bölgenin doğal dengesini korumak için çok önemli.

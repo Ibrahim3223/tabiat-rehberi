@@ -1,7 +1,7 @@
 ---
 title: "Samsa Çavuş Türbesi"
 date: "2026-01-10T05:32:33.131Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391368"
 
 # Samsa Çavuş Türbesi
 
-Samsa Çavuş Türbesi, Bursa'nın İnegöl ilçesinde yer alan bir plaj ve tarihi mekan. Bu alan, Marmara Bölgesi'nin doğal ve tarihi güzelliklerini bir araya getiren özel bir yer. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açıklık sunuyor. Samsa Çavuş Türbesi, hem tarihi önemi hem de doğal güzelliği ile dikkat çekiyor.
+Samsa Çavuş Türbesi, Bursa'nın İnegöl ilçesinde yer alan bir plaj ve tarihi mekan. Bu alan, Marmara Bölgesi'nin doğal ve tarihi güzelliklerini bir araya getiren özel bir yer. Samsa Çavuş Türbesi, hem tarihi önemi hem de doğal güzelliği ile dikkat çekiyor.
 
 ## Tarihçe
 

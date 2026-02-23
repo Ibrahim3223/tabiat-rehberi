@@ -1,7 +1,7 @@
 ---
 title: "Hamam Kalıntısı"
 date: "2026-01-09T23:26:29.715Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739061"
 
 # Hamam Kalıntısı
 
-Hamam Kalıntısı, İstanbul'un Silivri ilçesinde, Marmara Bölgesi'nin güzide noktalarından biridir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hamam Kalıntısı, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder. Plajın etrafındaki doğal güzellikler, ziyaretçilerin doğayla iç içe bir gün geçirmesine olanak tanır. Burada, deniz kıyısında keyifli anlar yaşanabilir ve aynı zamanda historia zenginliği hakkında bilgi edinilebilir.
+Hamam Kalıntısı, İstanbul'un Silivri ilçesinde, Marmara Bölgesi'nin güzide noktalarından biridir. Hamam Kalıntısı, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder. Plajın etrafındaki doğal güzellikler, ziyaretçilerin doğayla iç içe bir gün geçirmesine olanak tanır. Burada, deniz kıyısında keyifli anlar yaşanabilir ve aynı zamanda historia zenginliği hakkında bilgi edinilebilir.
 
 ## Tarihçe
 

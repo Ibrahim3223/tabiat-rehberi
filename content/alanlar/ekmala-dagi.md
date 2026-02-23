@@ -52,7 +52,7 @@ Hava koşulları açısından bakıldığında, Ekmala Dağı ve çevresinin ikl
 
 Ekmala Dağı, Şırnak'ta yer alan bir dağ ekosistemi olarak, yarı kurak iklimin hakim olduğu bir bölgede bulunmaktadır. Bu dağ, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliğine ev sahipliği yapmaktadır. İlkbahar döneminde, dağ eteklerinde ve yamaçlarında çeşitli çiçekler açarken, sonbaharda göç eden kuşlar bu bölgeyi ziyaret etmektedir.
 
-Bitki örtüsü olarak, step ve ova ekolojisinin karakteristik türleri hakimdir. Dağın yüksek kesimlerinde, alpin flora türlerine rastlanır. Bu türler, yüksekli ve iklim koşullarına adapte olmuşlardır. 
+Bitki örtüsü olarak, step ve ova ekolojisinin karakteristik türleri hakimdir. Dağın yüksek kesimlerinde, alpin flora türlerine rastlanır. Bu türler, yüksekli ve iklim koşullarına adapte olmuşlardır.
 
 Yaban hayatı olarak, memeliler, kuşlar ve sürüngenler dağda yaşamaktadır. Dağ keçileri, tilkiler ve diğer memeliler, dağın yüksek kesimlerinde yaşarken, çeşitli kuş türleri dağda yuva yapmaktadır. Sürüngenler olarak, yılanlar ve kertenkeleler de bu bölgede görülmektedir.
 

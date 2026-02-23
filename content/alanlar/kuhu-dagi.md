@@ -33,7 +33,7 @@ Antalya'nın eşsiz coğrafyasında yer alan Kuhu Dağı, ziyaretçilerini doğa
 
 ## Tarihçe
 
-Kuhu Dağı, Antalya'nın zengin tarihi dokusu içinde yer alan bir doğal güzellik. Bölge, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Antalya, Lidya, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir coğrafyada bulunmaktadır. Bu topraklar, yüzyıllar boyunca çeşitli medeniyetlerin ticaret, kültür ve yerleşim merkezleri olarak hizmet vermiştir.
+Kuhu Dağı, Antalya'nın zengin tarihi dokusu içinde yer alan bir doğal güzellik. Bölge, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Antalya, Lidya, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir coğrafyada bulunmaktadır. Bu topraklar, yüzyıllar boyunca çeşitli medeniyetlerin ticaret, kültür ve yerleşim merkezleri olarak hizmet vermiştir.
 
 Doğal güzellikleri, Türkiye'nin tarihsel zenginliğinin ayrılmaz bir parçasıdır. Bu gibi alanlar, insanların yaşamlarını sürdürmeleri, hayvancılık yapmaları ve ticaret yolları üzerinde bulunmaları açısından önemli roller oynamıştır. Yaylacılık gibi geleneksel faaliyetler, bu bölgelerin ekonomisine ve kültürüne katkıda bulunmuştur. Kuhu Dağı da, bu bağlamda, Antalya'nın tarihi ve kültürel mirasının bir parçası olarak görülebilir. Bölgenin insanlarla olan ilişkisi, sadece doğal güzelliği ile sınırlı değildir; aynı zamanda ekonomik, sosyal ve kültürel açıdan da önemlidir.
 

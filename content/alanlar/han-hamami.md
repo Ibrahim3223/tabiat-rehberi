@@ -1,7 +1,7 @@
 ---
 title: "Han Hamamı"
 date: "2026-01-09T22:42:44.599Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bitlis Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738520"
 
 # Han Hamamı
 
-Han Hamamı, Bitlis ilinin merkezinde yer alan ve yaklaşık 140 hektarlık alanı kaplayan bir doğa harikasıdır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir yeşil alan sunar. Han Hamamı, şehrin kalabalığından kaçma ve doğayla baş başa kalmak isteyenler için ideal bir kaçış noktasıdır. Ziyaretçiler, bu güzel mekanın sunduğu huzurlu atmosferi ve güzelliği keşfetmek için burayı ziyaret edebilirler.
+Han Hamamı, Bitlis ilinin merkezinde yer alan ve yaklaşık 140 hektarlık alanı kaplayan bir doğa harikasıdır. Han Hamamı, şehrin kalabalığından kaçma ve doğayla baş başa kalmak isteyenler için ideal bir kaçış noktasıdır. Ziyaretçiler, bu güzel mekanın sunduğu huzurlu atmosferi ve güzelliği keşfetmek için burayı ziyaret edebilirler.
 
 ## Tarihçe
 
@@ -52,6 +52,6 @@ Han Hamamı, ziyaretçilere çeşitli gezme ve keşfetme fırsatları sunar. Ziy
 
 - Han Hamamı, yaklaşık 140 hektarlık bir alanı kaplar
 - Han Hamamı, Bitlis ilinin merkezinde yer alır
-- Bu bölge, histórik öneme sahiptir
+- Bu bölge, tarihi öneme sahiptir
 - Han Hamamı, doğa severler için önemli bir destinasyondur
 - Han Hamamı, çeşitli bitki ve hayvan türlerine ev sahipliği yapar

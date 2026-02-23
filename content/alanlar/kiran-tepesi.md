@@ -28,7 +28,7 @@ wikidata_id: "Q31580969"
 
 # Kıran Tepesi
 
-Kıran Tepesi, Çorum'un doğal güzellikleri arasında önemli bir yer tutar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ziyaretçiler, bu tepenin muhteşem manzarasını seyretmek için gelir ve buranın doğal güzelliği, onları etkiler. Tepenin etrafı, çeşitli ağaç türleriyle çevrilidir ve bu, buranın zengin bitki örtüsünü gösterir. Kıran Tepesi, aynı zamanda yürüyüş ve doğa yürüyüşü severlerin tercih ettiği bir yerdir. Burada, ziyaretçiler doğanın güzelliğini keşfetme fırsatı bulurlar.
+Kıran Tepesi, Çorum'un doğal güzellikleri arasında önemli bir yer tutar. Ziyaretçiler, bu tepenin muhteşem manzarasını seyretmek için gelir ve buranın doğal güzelliği, onları etkiler. Tepenin etrafı, çeşitli ağaç türleriyle çevrilidir ve bu, buranın zengin bitki örtüsünü gösterir. Kıran Tepesi, aynı zamanda yürüyüş ve doğa yürüyüşü severlerin tercih ettiği bir yerdir. Burada, ziyaretçiler doğanın güzelliğini keşfetme fırsatı bulurlar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Merkez Efendi Hamamı"
 date: "2026-01-09T22:45:28.828Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738575"
 
 # Merkez Efendi Hamamı
 
-Merkez Efendi Hamamı, Zeytinburnu'nun en güzel plajlarından biri olarak kabul edilir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunar. Plajın güzelliği, çevredeki doğal güzelliklerle birleşerek ziyaretçilere unutulmaz bir deneyim sunar. Merkez Efendi Hamamı, aynı zamanda tarihi bir geçmişe sahip olup, bölgenin kültürel mirasının önemli bir parçasıdır. Ziyaretçiler, burada hem doğanın güzelliğini keşfedebilir hem de tarihi yapıları gezebilirler. Plajın sunduğu olanaklar, ziyaretçilerin keyifli bir gün geçirmesini sağlar.
+Merkez Efendi Hamamı, Zeytinburnu'nun en güzel plajlarından biri olarak kabul edilir. Plajın güzelliği, çevredeki doğal güzelliklerle birleşerek ziyaretçilere unutulmaz bir deneyim sunar. Merkez Efendi Hamamı, aynı zamanda tarihi bir geçmişe sahip olup, bölgenin kültürel mirasının önemli bir parçasıdır. Ziyaretçiler, burada hem doğanın güzelliğini keşfedebilir hem de tarihi yapıları gezebilirler. Plajın sunduğu olanaklar, ziyaretçilerin keyifli bir gün geçirmesini sağlar.
 
 ## Tarihçe
 

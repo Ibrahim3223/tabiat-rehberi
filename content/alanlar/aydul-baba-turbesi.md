@@ -1,7 +1,7 @@
 ---
 title: "Aydul Baba Türbesi"
 date: "2026-01-10T06:09:25.115Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390674"
 
 # Aydul Baba Türbesi
 
-Aydul Baba Türbesi, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Haymana ilçesinde yer alan tarihi ve doğal bir güzelliktir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzelliği ile karşılar. Aydul Baba Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak kabul edilmiştir. Burada yer alan türbe, çevresindeki doğa güzelliği ile birlikte ziyaretçilerine huzurlu bir atmosfer sunar.
+Aydul Baba Türbesi, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Haymana ilçesinde yer alan tarihi ve doğal bir güzelliktir. Aydul Baba Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak kabul edilmiştir. Burada yer alan türbe, çevresindeki doğa güzelliği ile birlikte ziyaretçilerine huzurlu bir atmosfer sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Aydul Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bö
 
 ## Coğrafya
 
-Aydul Baba Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step ve ormanlarla kaplıdır. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alandır ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, ziyaretçilerine geniş bir açık alan sunar. Aydul Baba Türbesi'nin coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunar. Burada, çevredeki dağlar, ormanlar ve diğer doğal güzellikler görülebilir. Bölgenin iklimi, genellikle karasal iklimdir. Kışlar soğuk, yazlar sıcak ve kuraktır. Bu iklim, bölgenin doğal güzelliğini etkiler. Aydul Baba Türbesi, bu coğrafi ve iklimsel özellikleriyle birlikte, ziyaretçilerine benzersiz bir deneyim sunar.
+Aydul Baba Türbesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step ve ormanlarla kaplıdır. Bu alan, ziyaretçilerine geniş bir açık alan sunar. Aydul Baba Türbesi'nin coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunar. Burada, çevredeki dağlar, ormanlar ve diğer doğal güzellikler görülebilir. Bölgenin iklimi, genellikle karasal iklimdir. Kışlar soğuk, yazlar sıcak ve kuraktır. Bu iklim, bölgenin doğal güzelliğini etkiler. Aydul Baba Türbesi, bu coğrafi ve iklimsel özellikleriyle birlikte, ziyaretçilerine benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Mustafa Devati Türbesi"
 date: "2026-01-10T07:44:23.019Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391164"
 
 # Şeyh Mustafa Devati Türbesi
 
-Şeyh Mustafa Devati Türbesi, Üsküdar ilçesinde, Marmara Bölgesi'nde yer alan tarihi bir türbe ve plajdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Şeyh Mustafa Devati Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini çekmektedir. Türbenin etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçiler, hem tarihi bir yapıyı hem de doğal güzelliği aynı anda deneyimleyebilirler.
+Şeyh Mustafa Devati Türbesi, Üsküdar ilçesinde, Marmara Bölgesi'nde yer alan tarihi bir türbe ve plajdır. Şeyh Mustafa Devati Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini çekmektedir. Türbenin etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçiler, hem tarihi bir yapıyı hem de doğal güzelliği aynı anda deneyimleyebilirler.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728341"
 
 # Bin Tepeler Tümülüsü 21
 
-Bin Tepeler Tümülüsü 21, Manisa'nın Salihli ilçesinde yer alan bir arkeolojik site olarak dikkat çekiyor. Bu bölge, tarihi ve doğal güzellikleri ile ziyaretçilerini büyülüyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada bulunan tümülüsler, Lidya Dönemi'ne ait olarak biliniyor. Bin Tepeler Tümülüsü 21, hem tarihi hem de doğa severler için önemli bir destinasyon olarak karşımıza çıkıyor.
+Bin Tepeler Tümülüsü 21, Manisa'nın Salihli ilçesinde yer alan bir arkeolojik site olarak dikkat çekiyor. Bu bölge, tarihi ve doğal güzellikleri ile ziyaretçilerini büyülüyor. Bin Tepeler Tümülüsü 21, hem tarihi hem de doğa severler için önemli bir destinasyon olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

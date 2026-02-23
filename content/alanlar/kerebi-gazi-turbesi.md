@@ -1,7 +1,7 @@
 ---
 title: "Kerebi Gazi Türbesi"
 date: "2026-01-10T06:05:24.095Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çorum"
@@ -28,7 +28,7 @@ wikidata_id: "Q131390509"
 
 # Kerebi Gazi Türbesi
 
-Kerebi Gazi Türbesi, Çorum'un Karadeniz kıyısında yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir noktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi ile dikkat çeken bu mekan, aynı zamanda doğal güzelliği ile ziyaretçilerini etkileyen bir yerdir. Kerebi Gazi Türbesi, Karadeniz Bölgesi'nin en özel noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir.
+Kerebi Gazi Türbesi, Çorum'un Karadeniz kıyısında yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir noktadır. Tarihi geçmişi ile dikkat çeken bu mekan, aynı zamanda doğal güzelliği ile ziyaretçilerini etkileyen bir yerdir. Kerebi Gazi Türbesi, Karadeniz Bölgesi'nin en özel noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hazer Dinari Hz. Anıt Mezarı"
 date: "2026-01-10T00:01:55.786Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -37,7 +37,7 @@ Hazer Dinari Hz. Anıt Mezarı, Kütahya'nın tarihi geçmişi hakkında önemli
 
 ## Coğrafya
 
-Hazer Dinari Hz. Anıt Mezarı, Kütahya ilinin merkezi bölgesinde yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir noktasında bulunmakta. Mezarın bulunduğu alan, 140 hektarlık bir arazi kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerin mezarı ve çevresini rahatça gezebilmesini sağlıyor. Kütahya'nın coğrafi yapısı, genel olarak dağlık ve engebeli bir araziye sahip. Hazer Dinari Hz. Anıt Mezarı'nın bulunduğu bölge ise, şehrin merkezi kısmında yer alıyor ve ziyaretçilerin ulaşımı kolay. Mezarın çevresi, şehrin diğer tarihi ve kültürel noktalarına yakın bir mesafede bulunmakta. Kütahya'nın iklimi, genel olarak karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Hazer Dinari Hz. Anıt Mezarı, bu coğrafi ve iklimsel koşullar altında, Kütahya'nın önemli bir kültürel ve dini merkezi olarak kabul ediliyor.
+Hazer Dinari Hz. Anıt Mezarı, Kütahya ilinin merkezi bölgesinde yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir noktasında bulunmakta. Bu geniş alan, ziyaretçilerin mezarı ve çevresini rahatça gezebilmesini sağlıyor. Kütahya'nın coğrafi yapısı, genel olarak dağlık ve engebeli bir araziye sahip. Hazer Dinari Hz. Anıt Mezarı'nın bulunduğu bölge ise, şehrin merkezi kısmında yer alıyor ve ziyaretçilerin ulaşımı kolay. Mezarın çevresi, şehrin diğer tarihi ve kültürel noktalarına yakın bir mesafede bulunmakta. Kütahya'nın iklimi, genel olarak karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Hazer Dinari Hz. Anıt Mezarı, bu coğrafi ve iklimsel koşullar altında, Kütahya'nın önemli bir kültürel ve dini merkezi olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31549522"
 
 # Modal Tepesi
 
-Modal Tepesi, Siirt ilinin sınırları içerisinde yer alan ve bölgeye özgü doğal güzelliklere ev sahipliği yapan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Doğa severler için ideal bir destinasyon olan Modal Tepesi, ziyaretçilerini bekliyor. Tepe, bölgeye özgü bitki türleri ve hayvanlarla dolu. Modal Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir nokta.
+Modal Tepesi, Siirt ilinin sınırları içerisinde yer alan ve bölgeye özgü doğal güzelliklere ev sahipliği yapan bir tepe. Doğa severler için ideal bir destinasyon olan Modal Tepesi, ziyaretçilerini bekliyor. Tepe, bölgeye özgü bitki türleri ve hayvanlarla dolu. Modal Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Modal Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge,
 
 ## Coğrafya
 
-Modal Tepesi, Siirt ilinin coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, bölgeye özgü coğrafi özelliklere sahip. Modal Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Tepe, bölgeye özgü bitki türleri ve hayvanlarla dolu. Coğrafi yapısı, ziyaretçilerini cezbeden Modal Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri. Modal Tepesi'nin coğrafi konumu, ziyaretçilerine bölgeyi keşfetme fırsatı sunuyor. Tepe, bölgenin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir nokta.
+Modal Tepesi, Siirt ilinin coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, bölgeye özgü coğrafi özelliklere sahip. Tepe, bölgeye özgü bitki türleri ve hayvanlarla dolu. Coğrafi yapısı, ziyaretçilerini cezbeden Modal Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri. Modal Tepesi'nin coğrafi konumu, ziyaretçilerine bölgeyi keşfetme fırsatı sunuyor. Tepe, bölgenin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir nokta.
 
 ## Flora ve Fauna
 

@@ -27,8 +27,8 @@ wikidata_id: "Q31190485"
 
 ## Tarihçe
 
-Şırnak bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahip. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların etkisi altında kalmıştır. Mezopotamya'nın kalbinde yer alan Şırnak, tarih boyunca ticaret yollarının kesişme noktası olarak önemli bir role sahip olmuştur. 
-Küpeli Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutmaktadır. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insan yerleşimlerinin ve ticaret yollarının gelişiminde de önemli bir rol oynamışlardır. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların geleneksel yaşam biçimleri arasında yer almıştır. 
+Şırnak bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahip. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların etkisi altında kalmıştır. Mezopotamya'nın kalbinde yer alan Şırnak, tarih boyunca ticaret yollarının kesişme noktası olarak önemli bir role sahip olmuştur.
+Küpeli Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutmaktadır. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insan yerleşimlerinin ve ticaret yollarının gelişiminde de önemli bir rol oynamışlardır. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların geleneksel yaşam biçimleri arasında yer almıştır.
 Küpeli Dağı'nın eteklerinde ve çevresindeki vadiler, tarih boyunca insanların yaşamlarına ev sahipliği yapmış, çeşitli kültürlerin birbiriyle etkileşimine tanıklık etmiştir. Bu doğal alanlar, yalnızca yerel halkın değil, aynı zamanda bölgeyi ziyaret edenlerin de ilgi odağı olmuştur. Doğal güzelliği, tarihi önemi ve insanların bu alanlarla kurduğu bağ, bu tür bölgelerin Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçası olmasını sağlamıştır.
 
 ## Coğrafya

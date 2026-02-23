@@ -28,7 +28,7 @@ wikidata_id: "Q31385691"
 
 # Kara Tepe (Şanlıurfa, 37.14 N 38.67 E)
 
-Kara Tepe, Şanlıurfa'nın merkezine yakın bir konumda yer alan ve tarihi ile doğal güzelliklerin birleştiği bir tepe olarak bilinir. 37.14 kuzey enlemi ve 38.67 doğu boylamında bulunan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kara Tepe, ziyaretçilerini hem tarihsel açıdan hem de doğal güzellikleriyle cezbeder. Bu tepe, Şanlıurfa'nın önemli tarihi ve kültürel noktalarından biri olarak kabul edilir ve birçok ziyaretçi tarafından keşfedilir.
+Kara Tepe, Şanlıurfa'nın merkezine yakın bir konumda yer alan ve tarihi ile doğal güzelliklerin birleştiği bir tepe olarak bilinir. 37.14 kuzey enlemi ve 38. Kara Tepe, ziyaretçilerini hem tarihsel açıdan hem de doğal güzellikleriyle cezbeder. Bu tepe, Şanlıurfa'nın önemli tarihi ve kültürel noktalarından biri olarak kabul edilir ve birçok ziyaretçi tarafından keşfedilir.
 
 ## Tarihçe
 

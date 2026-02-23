@@ -1,7 +1,7 @@
 ---
 title: "Mehdi Abbas Türbesi"
 date: "2026-01-10T06:44:04.398Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582831"
 
 # Mehdi Abbas Türbesi
 
-Mehdi Abbas Türbesi, Erzurum'un Yakutiye ilçesinde yer alan tarihi ve doğal güzellikleri bir arada sunan bir destinasyon. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan bu mekan, ziyaretçilerini hem tarihin derinliklerine hem de doğanın güzelliğine davet ediyor. Mehdi Abbas Türbesi, tarihin izlerini taşıyan bir yapı olarak, aynı zamanda çevresi ile birlikte ziyaretçilere zengin bir deneyim sunuyor. Bu geniş yeşil alan, hem doğa severler hem de tarihe meraklı olanlar için ideal bir gezi noktası.
+Mehdi Abbas Türbesi, Erzurum'un Yakutiye ilçesinde yer alan tarihi ve doğal güzellikleri bir arada sunan bir destinasyon. Mehdi Abbas Türbesi, tarihin izlerini taşıyan bir yapı olarak, aynı zamanda çevresi ile birlikte ziyaretçilere zengin bir deneyim sunuyor. Bu geniş yeşil alan, hem doğa severler hem de tarihe meraklı olanlar için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mehdi Abbas Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve 
 
 ## Coğrafya
 
-Mehdi Abbas Türbesi, Erzurum'un Yakutiye ilçesinde yer alıyor. Bu bölgenin coğrafi yapısı, geniş yeşil alanlar ve tarihi yapılar ile karakterize ediliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Mehdi Abbas Türbesi, çevresindeki dağların ve ovaların manzarasını sunan bir konumda bulunuyor. Bu coğrafi konum, ziyaretçilere hem doğal güzellikleri hem de tarihi yapıları bir arada deneyimleme fırsatı sunuyor. Mehdi Abbas Türbesi'nin bulunduğu bölge, iklim olarak karasal iklimin özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçiyor. Bu iklim özellikleri, ziyaretçilerin gezi planlarını yaparken dikkate almaları gereken faktörler. Mehdi Abbas Türbesi, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilere doğa ve tarih arasında zengin bir deneyimi sunuyor.
+Mehdi Abbas Türbesi, Erzurum'un Yakutiye ilçesinde yer alıyor. Bu bölgenin coğrafi yapısı, geniş yeşil alanlar ve tarihi yapılar ile karakterize ediliyor. Mehdi Abbas Türbesi, çevresindeki dağların ve ovaların manzarasını sunan bir konumda bulunuyor. Bu coğrafi konum, ziyaretçilere hem doğal güzellikleri hem de tarihi yapıları bir arada deneyimleme fırsatı sunuyor. Mehdi Abbas Türbesi'nin bulunduğu bölge, iklim olarak karasal iklimin özellikleri gösteriyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçiyor. Bu iklim özellikleri, ziyaretçilerin gezi planlarını yaparken dikkate almaları gereken faktörler. Mehdi Abbas Türbesi, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilere doğa ve tarih arasında zengin bir deneyimi sunuyor.
 
 ## Flora ve Fauna
 

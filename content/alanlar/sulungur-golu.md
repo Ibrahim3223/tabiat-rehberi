@@ -33,7 +33,7 @@ Muğla'nın doğal güzelliklerini keşfetmek isteyenler için Sülüngür Göl�
 
 ## Tarihçe
 
-Muğla bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Antik Çağ'da Likya ve Karya uygarlıklarının yaşadığı bu topraklar, daha sonra Roma ve Bizans dönemlerini görmüştür. Türkiye'nin güneybatı köşesinde yer alan Muğla, tarih boyunca farklı kültürlerin etkileşimine sahne olmuştur.
+Muğla bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Antik Çağ'da Likya ve Karya uygarlıklarının yaşadığı bu topraklar, daha sonra Roma ve Bizans dönemlerini görmüştür. Türkiye'nin güneybatı köşesinde yer alan Muğla, tarih boyunca farklı kültürlerin etkileşimine sahne olmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla Muğla, insan yerleşimlerine ve ticaret yollarına ev sahipliği yapmıştır. Sülüngür Gölü de bu doğal güzelliklerin arasında yer alır. Bu tür sulak alanlar, Türkiye'de tarih boyunca önemli ekosistemler olarak görev yapmış, insanların yaşamlarını sürdürmelerine katkıda bulunmuştur. Yaylacılık, hayvancılık ve tarım, insanların bu doğal alanlarla ilişkisini şekillendiren faaliyetler olmuştur.
 
@@ -55,7 +55,7 @@ Sülüngür Gölü, Muğla'nın zeytinli ve çam ormanları arasında gizli bir 
 
 Gölde çeşitli su kuşları yaşar ve özellikle sonbaharda göç eden kuşlar için önemli bir durak noktasıdır. Su kuşları, gölün kıyılarında ve sulak alanlarda yaşamını sürdürürken, balıklar ise gölün sularında yüzerek beslenir. Çam ormanları ve zeytinlikler, gölün ekosistemini destekler ve çeşitli yaban hayvanlarına ev sahipliği yapar.
 
-Gölün ekolojik değeri, su kuşları ve diğer yaban hayvanları için önemli bir yaşam alanı olmasından kaynaklanır. Ayrıca, sulak alan bitkileri ve diğer bitki türleri, gölün doğal dengesini korumada önemli bir rol oynar. Bu nedenle, Sülüngür Gölü'nün korunması ve bảo tồn edilmesi, bölgenin ekolojik zenginliğini korumak için çok önemlidir.
+Gölün ekolojik değeri, su kuşları ve diğer yaban hayvanları için önemli bir yaşam alanı olmasından kaynaklanır. Ayrıca, sulak alan bitkileri ve diğer bitki türleri, gölün doğal dengesini korumada önemli bir rol oynar. Bu nedenle, Sülüngür Gölü'nün korunması ve koruma tồn edilmesi, bölgenin ekolojik zenginliğini korumak için çok önemlidir.
 
 ## Ziyaret Bilgileri
 

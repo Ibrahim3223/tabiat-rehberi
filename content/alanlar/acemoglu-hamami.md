@@ -1,7 +1,7 @@
 ---
 title: "Acemoğlu Hamamı"
 date: "2026-01-09T22:46:37.163Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738576"
 
 # Acemoğlu Hamamı
 
-Acemoğlu Hamamı, İstanbul'un tarihi semtlerinden biri olan Fatih'te yer alır. Bu tarihi hamam ve plaj alanı, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir sahil şeridine sahiptir. Acemoğlu Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini çekmektedir.
+Acemoğlu Hamamı, İstanbul'un tarihi semtlerinden biri olan Fatih'te yer alır. Bu tarihi hamam ve plaj alanı, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Acemoğlu Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini çekmektedir.
 
 ## Tarihçe
 

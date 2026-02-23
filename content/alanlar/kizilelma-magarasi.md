@@ -50,7 +50,7 @@ Mevsimsel değişiklikler, Kızılelma Mağarası'nın iklimini etkiler. Kış a
 
 ## Flora ve Fauna
 
-Kızılelma Mağarası'nın jeopark alanı, step bitki örtüsünün hakim olduğu bir bölge. İlkbaharla birlikte, bozkırın kurak topraklarında çeşitli çiçekler açar. Bu mevsimsel değişim, bölgenin flora çeşitliliğini gösterir. 
+Kızılelma Mağarası'nın jeopark alanı, step bitki örtüsünün hakim olduğu bir bölge. İlkbaharla birlikte, bozkırın kurak topraklarında çeşitli çiçekler açar. Bu mevsimsel değişim, bölgenin flora çeşitliliğini gösterir.
 
 Yaban hayatı, memeliler ve kuşlarla temsil edilir. Bu canlılar, mağaranın etrafındaki bozkırda yaşam bulur. Mevsimsel göçler, bu bölgede önemli bir ekolojik olaydır. Sonbaharda, bazı kuş türleri güneye göç ederken, diğerleri bu bölgede kalır.
 

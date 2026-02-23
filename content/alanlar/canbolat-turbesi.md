@@ -1,7 +1,7 @@
 ---
 title: "Canbolat Türbesi"
 date: "2026-01-10T07:52:31.496Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilis"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391333"
 
 # Canbolat Türbesi
 
-Canbolat Türbesi, Kilis ilinin merkezinde bulunan tarihi bir dini yapıdır. Bu önemli dini mekan, ziyaretçiler için bir çekim merkezi olarak görev yapmaktadır. 140 hektarlık bir alanı kaplayan Kilis il merkezi, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Canbolat Türbesi, bu geniş alan içinde yer alan önemli bir noktadır. Tarihi geçmişi ile dikkat çeken bu türbe, ziyaretçilerini beklemektedir.
+Canbolat Türbesi, Kilis ilinin merkezinde bulunan tarihi bir dini yapıdır. Bu önemli dini mekan, ziyaretçiler için bir çekim merkezi olarak görev yapmaktadır. Canbolat Türbesi, bu geniş alan içinde yer alan önemli bir noktadır. Tarihi geçmişi ile dikkat çeken bu türbe, ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Ağrı'nın yüksek dağlarıyla çevrili coğrafyasında, İmam Tepe dağının
 
 ## Tarihçe
 
-Ağrı bölgesi, tarihin sâu sayfalarında önemli bir yere sahip. İnsanlık tarihinin en eski uygarlıklarından Urartular, bu coğrafyada yaşamış ve iz bırakmışlar. İmam Tepe de, bu zengin tarihsel mirasın bir parçası olarak öne çıkıyor. Türkiye'nin doğusunda yer alan bu bölge, ticaret yollarının kesişme noktasında bulunması nedeniyle stratejik önemi taşıyor.
+Ağrı bölgesi, tarihin derin sayfalarında önemli bir yere sahip. İnsanlık tarihinin en eski uygarlıklarından Urartular, bu coğrafyada yaşamış ve iz bırakmışlar. İmam Tepe de, bu zengin tarihsel mirasın bir parçası olarak öne çıkıyor. Türkiye'nin doğusunda yer alan bu bölge, ticaret yollarının kesişme noktasında bulunması nedeniyle stratejik önemi taşıyor.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir role sahip. Yüzyıllar boyunca, insanlar bu gibi bölgelerde yaylacılık, hayvancılık ve avcılık yaparak geçimlerini sağlamışlar. İnsanların bu alanlarla ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşıyor. Örneğin, yaylacılık geleneği, bu bölgede yaşayan arasında güçlü bir bağ oluşturmuş ve ortak bir kimlik yaratmıştır.
 
@@ -50,10 +50,10 @@ Ekosistem bağlamında, İmam Tepe çevresindeki su kaynakları ve komşu alanla
 
 ## Flora ve Fauna
 
-İmam Tepe, Ağrı'da yer alan bir dağ ekosistemi olarak, yüksek dağ ekolojisi ve alpin çayırların çeşitliliğini sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+İmam Tepe, Ağrı'da yer alan bir dağ ekosistemi olarak, yüksek dağ ekolojisi ve alpin çayırların çeşitliliğini sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları renkli çiçeklerle donanırken, sonbaharda ağaçlar sarı ve kırmızı tonlara bürünür. Alpin flora, yükseklik zonlarına bağlı olarak değişkenlik gösterir. 
-Yaban Hayatı olarak, dağ keçileri, ayılar ve çeşitli kuş türleri bu bölgede yaşar. Göçmen kuşlar, sonbaharda ấmaları için buradan geçer. 
+Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları renkli çiçeklerle donanırken, sonbaharda ağaçlar sarı ve kırmızı tonlara bürünür. Alpin flora, yükseklik zonlarına bağlı olarak değişkenlik gösterir.
+Yaban Hayatı olarak, dağ keçileri, ayılar ve çeşitli kuş türleri bu bölgede yaşar. Göçmen kuşlar, sonbaharda ấmaları için buradan geçer.
 Ekolojik Değer olarak, İmam Tepe'nin yüksek dağ ekosistemi ve endemik türleri, koruma altına alınması gereken önemli bir doğal alan olarak dikkat çeker.
 
 ## Ziyaret Bilgileri

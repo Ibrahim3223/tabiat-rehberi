@@ -28,7 +28,7 @@ wikidata_id: "Q34824510"
 
 # Çağşak Tepesi
 
-Hatay'ın dağlık bölgesinde yer alan Çağşak Tepesi, 140 hektarlık geniş bir alan kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ormanlarla çevrili. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken bu tepe, ziyaretçilerini bekliyor. Çağşak Tepesi, Hatay'ın merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Hatay'ın dağlık bölgesinde yer alan Çağşak Tepesi, 140 hektarlık geniş bir alan kaplıyor. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken bu tepe, ziyaretçilerini bekliyor. Çağşak Tepesi, Hatay'ın merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

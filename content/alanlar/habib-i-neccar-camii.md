@@ -1,7 +1,7 @@
 ---
 title: "Habib-i Neccar Camii"
 date: "2026-01-10T04:25:23.247Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -29,7 +29,7 @@ wikidata_id: "Q6064113"
 
 # Habib-i Neccar Camii
 
-Habib-i Neccar Camii, Hatay ilinin merkezinde yer alan ve tarihi öneme sahip bir dini yapıdır. 140 hektarlık bir alan üzerinde kurulmuş olan cami, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Caminin tarihi geçmişi, yüzyıllar boyunca birçok farklı uygarlığı ağırlamış olan Hatay'ın zengin kültürel mirasına katkıda bulunur. Cami, dini ve kültürel açıdan önemli bir merkez olarak kabul edilir ve birçok ziyaretçi tarafından yıl boyunca ziyaret edilir.
+Habib-i Neccar Camii, Hatay ilinin merkezinde yer alan ve tarihi öneme sahip bir dini yapıdır. Caminin tarihi geçmişi, yüzyıllar boyunca birçok farklı uygarlığı ağırlamış olan Hatay'ın zengin kültürel mirasına katkıda bulunur. Cami, dini ve kültürel açıdan önemli bir merkez olarak kabul edilir ve birçok ziyaretçi tarafından yıl boyunca ziyaret edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Habib-i Neccar Camii'nin tarihi geçmişi, Hatay'ın tarihi ile yakından bağla
 
 ## Coğrafya
 
-Habib-i Neccar Camii, Hatay ilinin merkezinde yer alan bir dini yapıdır. Cami, 140 hektarlık bir alan üzerinde kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Caminin çevresi, tarihi ve doğal güzellikler açısından zengin bir bölgedir. Cami, Akdeniz Bölgesi'nin karakteristik iklim koşullarına sahiptir ve yıl boyunca ılıman bir iklime sahiptir. Caminin bulunduğu bölge, birçok doğal güzelliğe ev sahipliği yapar ve ziyaretçilere, tarihi ve doğal güzellikleri aynı anda keşfetme fırsatı sunar. Caminin coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlar ve birçok ulaşım seçeneği sunar.
+Habib-i Neccar Camii, Hatay ilinin merkezinde yer alan bir dini yapıdır. Caminin çevresi, tarihi ve doğal güzellikler açısından zengin bir bölgedir. Cami, Akdeniz Bölgesi'nin karakteristik iklim koşullarına sahiptir ve yıl boyunca ılıman bir iklime sahiptir. Caminin bulunduğu bölge, birçok doğal güzelliğe ev sahipliği yapar ve ziyaretçilere, tarihi ve doğal güzellikleri aynı anda keşfetme fırsatı sunar. Caminin coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlar ve birçok ulaşım seçeneği sunar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Habib-i Neccar Camii'ni ziyaret etmek, birçok ziyaretçiçin önemli bir deneyi
 
 - Habib-i Neccar Camii, Hatay ilinin merkezinde yer alır.
 - Cami, 140 hektarlık bir alan üzerinde kurulmuştur.
-- Cami, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Cami, dini ve kültürel açıdan önemli bir merkez olarak kabul edilir.
 - Cami, birçok ziyaretçi tarafından yıl boyunca ziyaret edilir.

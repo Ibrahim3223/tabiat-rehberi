@@ -28,7 +28,7 @@ wikidata_id: "Q31387672"
 
 # Eşkel Tepesi
 
-Eşkel Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Artvin'de yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerinin başkenti olarak biliniyor. Eşkel Tepesi, hem yerli hem de yabancı turistlerin ziyaret ettiği bir nokta ve burada doğa yürüyüşleri, pikni ve manzara seyri gibi aktivitelerin keyfini çıkarabilirsiniz. Eşkel Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
+Eşkel Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Artvin'de yer alıyor. Eşkel Tepesi, hem yerli hem de yabancı turistlerin ziyaret ettiği bir nokta ve burada doğa yürüyüşleri, pikni ve manzara seyri gibi aktivitelerin keyfini çıkarabilirsiniz. Eşkel Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227950"
 
 # Kahramanmaras-Elmalar Karacam
 
-Kahramanmaras-Elmalar Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası. Bu muhteşem bölge, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Parkın girişinden itibaren, mis gibi çam kokusu ve kuş sesleri sizi sarıyor. Doğa severler için bir cennet olan bu milli park, hem gezi hem de doğayı keşfetmek isteyenler için ideal bir destinasyon.
+Kahramanmaras-Elmalar Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alıyor. Bu muhteşem bölge, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Parkın girişinden itibaren, mis gibi çam kokusu ve kuş sesleri sizi sarıyor. Doğa severler için bir cennet olan bu milli park, hem gezi hem de doğayı keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

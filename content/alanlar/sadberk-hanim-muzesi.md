@@ -1,7 +1,7 @@
 ---
 title: "Sadberk Hanımüzesi"
 date: "2026-01-10T15:10:37.454Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q3300324"
 
 # Sadberk Hanım Müzesi
 
-Sadberk Hanımüzesi, İstanbul'un Sarıyer ilçesinde, 140 hektarlık bir alanda kurulmuş, Marmara Bölgesi'nin önemli kültür merkezlerinden biri olarak dikkat çekiyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir perspektif sunuyor. Müzenin kuruluş hikayesi, Türkiye'nin kültür ve sanat tarihindeki önemli bir döneme ışık tutuyor. Ziyaretçiler, bu özel mekanın sunduğu zengin içeriği keşfetmeye davet ediliyor.
+Sadberk Hanımüzesi, İstanbul'un Sarıyer ilçesinde, 140 hektarlık bir alanda kurulmuş, Marmara Bölgesi'nin önemli kültür merkezlerinden biri olarak dikkat çekiyor. Müzenin kuruluş hikayesi, Türkiye'nin kültür ve sanat tarihindeki önemli bir döneme ışık tutuyor. Ziyaretçiler, bu özel mekanın sunduğu zengin içeriği keşfetmeye davet ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sadberk Hanımüzesi'nin tarihi geçmişi, Türkiye'nin kültür ve sanat tarihi
 
 ## Coğrafya
 
-Sadberk Hanımüzesi, İstanbul'un Sarıyer ilçesinde, Marmara Bölgesi'nin güzel bir köşesinde yer alıyor. Müzenin bulunduğu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir perspektif sunuyor. Bu geniş alan, ziyaretçilere doğanın güzelliğini ve sanatın zenginliğini bir arada keşfetme fırsatı sunuyor. Müzenin coğrafi konumu, Marmara Bölgesi'nin iklimini ve çevresini yansıtıyor. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, müzenin sunduğu doğa güzelliği ve sanat eserleri ile karşılaşiyor.
+Sadberk Hanımüzesi, İstanbul'un Sarıyer ilçesinde, Marmara Bölgesi'nin güzel bir köşesinde yer alıyor. Bu geniş alan, ziyaretçilere doğanın güzelliğini ve sanatın zenginliğini bir arada keşfetme fırsatı sunuyor. Müzenin coğrafi konumu, Marmara Bölgesi'nin iklimini ve çevresini yansıtıyor. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, müzenin sunduğu doğa güzelliği ve sanat eserleri ile karşılaşiyor.
 
 ## Flora ve Fauna
 

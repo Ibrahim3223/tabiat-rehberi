@@ -34,7 +34,7 @@ Mardin'in tarihi dokusu içinde gizlenen Darabismara Dağı, şehrin doğal güz
 
 Mardin bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıklara ev sahipliği yapmış bir coğrafyadır. Darabismara Dağı da bu tarihsel zenginliğin bir parçasını oluşturur. Bölge, Hititler, Asurlular, Romalılar ve daha birçok medeniyetin izlerini taşır. Bu zengin tarihsel miras, bölgenin stratejik konumuyla da doğrudan bağlantılıdır.
 
-Doğal güzellikleri ve coğrafi konumuyla Darabismara Dağı, insan yerleşimlerinin ve ticaret yollarının önemli bir kavşak noktası olmuştur. Yaylacılık ve hayvancılık, bölgenin ekonomik yaşamının temelini oluşturmuş, insanların bu doğal alanlarla olan ilişkisi asırlar boyu sürmüştür. Türkiye'de, özellikle güneydoğu bölgesindeki dağlık alanlar, kültürel ve ekonomik faaliyetlerin merkezi olarak históriki önemini korumuştur.
+Doğal güzellikleri ve coğrafi konumuyla Darabismara Dağı, insan yerleşimlerinin ve ticaret yollarının önemli bir kavşak noktası olmuştur. Yaylacılık ve hayvancılık, bölgenin ekonomik yaşamının temelini oluşturmuş, insanların bu doğal alanlarla olan ilişkisi asırlar boyu sürmüştür. Türkiye'de, özellikle güneydoğu bölgesindeki dağlık alanlar, kültürel ve ekonomik faaliyetlerin merkezi olarak tarihi önemini korumuştur.
 
 Bu dağlık bölgeler, sadece doğal güzellikleri açısından değil, aynı zamanda tarihsel ve kültürel mirasın korunmasında da kritik bir role sahiptir. Darabismara Dağı, Mardin'in tarihi ve kültürel dokusuna katkıda bulunan önemli bir doğal varlıktır. Bu tür alanların korunması ve sürdürülebilir kullanımı, hem bölgenin hem de Türkiye'nin kültürel ve doğal mirasının geleceği açısından büyük önem taşır.
 
@@ -50,7 +50,7 @@ Bölgenin coğrafi yapısı, Darabismara Dağı'nın çevresel ilişkilerini de 
 
 ## Flora ve Fauna
 
-Darabismara Dağı, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. 
+Darabismara Dağı, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar.
 
 Bitki örtüsünde, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharın approachıyla birlikte, göçmen kuşlar dağların üzerinden geçer. Dağların yükseklik zonları, alpin flora için elverişli bir ortam sağlar.
 

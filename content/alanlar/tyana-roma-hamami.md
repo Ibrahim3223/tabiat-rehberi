@@ -1,7 +1,7 @@
 ---
 title: "Tyana Roma Hamamı"
 date: "2026-01-09T23:30:08.787Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Niğde"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739118"
 
 # Tyana Roma Hamamı
 
-Tyana Roma Hamamı, İç Anadolu Bölgesi'nin wichtığı bir tarihi mekan olarak dikkat çeker. 140 hektarlık bir alanı kaplayan bu hamam ve plaj alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu bölge, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor. Tyana Roma Hamamı, Bor/Niğde'de bulunan bir diğer önemli tarihi mekan olan Tyana Antik Kenti'ne de yakındır.
+Tyana Roma Hamamı, İç Anadolu Bölgesi'nin wichtığı bir tarihi mekan olarak dikkat çeker. Bu bölge, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor. Tyana Roma Hamamı, Bor/Niğde'de bulunan bir diğer önemli tarihi mekan olan Tyana Antik Kenti'ne de yakındır.
 
 ## Tarihçe
 

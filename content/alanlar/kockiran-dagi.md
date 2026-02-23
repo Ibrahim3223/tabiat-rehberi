@@ -48,7 +48,7 @@ Mevsimsel açıdan bakıldığında, Koçkıran Dağı'nın iklim karakteri, Van
 
 ## Flora ve Fauna
 
-Koçkıran Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Koçkıran Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle donanır. Yükseklik zonlarına göre değişen bitki örtüsü, dağların farklı bölgelerinde farklı türlerin yaşamasına olanak tanır.
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Yüksek dağ ekolojisine adapte olmuş canlılar, mevsimsel değişimlere göre yaşam alanlarını düzenler. Sonbaharda, göçmen kuşlar dağları ziyaret ederken, memeliler kışın soğuklarına karşı daha alçak bölgelere iner.

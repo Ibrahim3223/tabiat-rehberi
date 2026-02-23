@@ -1,7 +1,7 @@
 ---
 title: "Mugla-Karabortlen-Fistikcami2"
 date: "2026-01-09T20:15:09.884Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Muğla"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228524"
 
 # Mugla-Karabortlen-Fistikcami2
 
-Muğla ilinin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan milli park, 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğa deneyimi sunuyor. Milli parkın konumu, Ege Bölgesi'nin muhteşem manzaralarına ev sahipliği yapıyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Doğa severler, bu milli parkı ziyaret ederek Ege Bölgesi'nin doğal güzelliklerini keşfedebilir.
+Muğla ilinin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan milli park, 140 hektarlık bir alanı kaplıyor. Milli parkın konumu, Ege Bölgesi'nin muhteşem manzaralarına ev sahipliği yapıyor ve ziyaretçilere benzersiz bir deneyim sunuyor. Doğa severler, bu milli parkı ziyaret ederek Ege Bölgesi'nin doğal güzelliklerini keşfedebilir.
 
 ## Tarihçe
 

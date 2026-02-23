@@ -1,7 +1,7 @@
 ---
 title: "Isparta-Golhisar-Dirmil Sedir"
 date: "2026-01-09T20:58:19.436Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Isparta"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227607"
 
 # Isparta-Golhisar-Dirmil Sedir
 
-Isparta-Golhisar-Dirmil Sedir milli parkı, Isparta'nın Golhisar ilçesinde yer alan bir doğal güzellik alanıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu alan, Sedir ağaçları ile örtülü ve yeşilin her tonunu görebileceğiniz bir cennet. Burada, doğanın seslerini dinleyerek, stresten uzaklaşabilirsiniz. Isparta'nın tarihi geçmişi ve kültürel zenginlikleri de bu alanın önemini artırıyor.
+Isparta-Golhisar-Dirmil Sedir milli parkı, Isparta'nın Golhisar ilçesinde yer alan bir doğal güzellik alanıdır. Bu alan, Sedir ağaçları ile örtülü ve yeşilin her tonunu görebileceğiniz bir cennet. Burada, doğanın seslerini dinleyerek, stresten uzaklaşabilirsiniz. Isparta'nın tarihi geçmişi ve kültürel zenginlikleri de bu alanın önemini artırıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Isparta-Golhisar-Dirmil Sedir milli parkı, yüzyıllar boyunca çeşitli uygarl
 
 ## Coğrafya
 
-Isparta-Golhisar-Dirmil Sedir milli parkı, Isparta'nın Golhisar ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu alan, Sedir ağaçları ile örtülü ve yeşilin her tonunu görebileceğiniz bir doğa cenneti. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu alan, aynı zamanda bir doğal koruma alanı olarak da görev yapıyor ve Sedir ağaçlarının korunmasına katkıda bulunuyor. Isparta'nın iklimi, Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılıman geçiyor. Bu milli park, Isparta'nın turizm potansiyelini de artırıyor ve ziyaretçilere tarihi ve doğal güzellikleri bir arada sunuyor.
+Isparta-Golhisar-Dirmil Sedir milli parkı, Isparta'nın Golhisar ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu alan, Sedir ağaçları ile örtülü ve yeşilin her tonunu görebileceğiniz bir doğa cenneti. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu alan, aynı zamanda bir doğal koruma alanı olarak da görev yapıyor ve Sedir ağaçlarının korunmasına katkıda bulunuyor. Isparta'nın iklimi, Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılıman geçiyor. Bu milli park, Isparta'nın turizm potansiyelini de artırıyor ve ziyaretçilere tarihi ve doğal güzellikleri bir arada sunuyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31548318"
 
 # Seregir Tepesi
 
-Seregir Tepesi, Güneydoğu Anadolu Bölgesi'nin güzel illerinden Siirt'te yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Seregir Tepesi, doğal güzellikleri ve tarihi geçmişiyle birlikte, ziyaretçilerini etkileyen bir yerdir. Bu tepe, bölgeye gelenler için hem gezi hem de keşif imkânı sunar.
+Seregir Tepesi, Güneydoğu Anadolu Bölgesi'nin güzel illerinden Siirt'te yer alan bir doğa harikasıdır. Seregir Tepesi, doğal güzellikleri ve tarihi geçmişiyle birlikte, ziyaretçilerini etkileyen bir yerdir. Bu tepe, bölgeye gelenler için hem gezi hem de keşif imkânı sunar.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Seregir Tepesi, ziyaretçilerine güzel bir gezi deneyimi sunar. Bu tepe, ulaş�
 ## İlginç Bilgiler
 
 - Seregir Tepesi, yaklaşık 140 hektarlık bir alanı kapsar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğüne eşittir.
+
 - Seregir Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır.
 - Bu tepe, bölgede yaşayan halkın da önemli bir parçası olmuş ve onların yaşantısını etkilemiştir.
 - Seregir Tepesi, çeşitli bitki türleri ve hayvanlarla birlikte, zengin bir ekosisteme sahiptir.

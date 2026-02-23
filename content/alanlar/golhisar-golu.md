@@ -1,7 +1,7 @@
 ---
 title: "Gölhisar Gölü"
 date: "2026-01-09T09:29:07.286Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "gol"
 il: "Burdur"
@@ -33,9 +33,9 @@ Burdur'un doğal güzelliklerinin arasında yer alan Gölhisar Gölü, ilin gün
 
 ## Tarihçe
 
-Burdur bölgesinin tarihi, Paleolitik Çağ'a kadar uzanan zengin bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Hitit, Frig, Lidya ve Roma uygarlıkları, bölgenin stratejik konumu nedeniyle burayı önemli bir merkez olarak görmüşlerdir. 
+Burdur bölgesinin tarihi, Paleolitik Çağ'a kadar uzanan zengin bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Hitit, Frig, Lidya ve Roma uygarlıkları, bölgenin stratejik konumu nedeniyle burayı önemli bir merkez olarak görmüşlerdir.
 
-Gölhisar Gölü gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Bu tür göller ve sulak alanlar, insanların yerleşim yerleri, tarım arazileri ve ticaret yolları için her zaman çekim merkezi olmuştur. Özellikle yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve sosyal hayatında önemli bir role sahiptir. 
+Gölhisar Gölü gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Bu tür göller ve sulak alanlar, insanların yerleşim yerleri, tarım arazileri ve ticaret yolları için her zaman çekim merkezi olmuştur. Özellikle yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve sosyal hayatında önemli bir role sahiptir.
 
 Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alması, insan yerleşimlerini ve ekonomik faaliyetleri etkilemiştir. Gölhisar Gölü ve çevresinin tarihi, bölgenin genel tarihsel bağlamı içinde önemli bir yer tutar. Bu doğal alan, sadece bir gölden daha fazlasını temsil eder; bölgenin kültürel ve ekonomik geçmişinin bir parçasıdır.
 
@@ -51,13 +51,13 @@ Gölhisar Gölü, çevresindeki ekosistemi destekleyen önemli bir su kaynağıd
 
 ## Flora ve Fauna
 
-Gölhisar Gölü, Burdur'un maki bitki örtüsüne sahip kurak bölgesinde, 1200 hektarlık bir yeşil cennet olarak karşımıza çıkıyor. Bu göl ekosisteminde, su kuşları, balıklar ve sulak alan bitkileri bir arada yaşıyor. 
+Gölhisar Gölü, Burdur'un maki bitki örtüsüne sahip kurak bölgesinde, 1200 hektarlık bir yeşil cennet olarak karşımıza çıkıyor. Bu göl ekosisteminde, su kuşları, balıklar ve sulak alan bitkileri bir arada yaşıyor.
 
-Bitki Örtüsü bölümünde göle çevredeki maki türleri, ilkbaharda rengarenk çiçeklerle donanıyor. Kıyı ekosisteminde, suyun kenarında yer alan bitkiler, su kuşlarının yuvalanmasına yardımcı oluyor. 
+Bitki Örtüsü bölümünde göle çevredeki maki türleri, ilkbaharda rengarenk çiçeklerle donanıyor. Kıyı ekosisteminde, suyun kenarında yer alan bitkiler, su kuşlarının yuvalanmasına yardımcı oluyor.
 
-Yaban Hayatı bölümünde, göç eden su kuşları sonbaharda göle gelirken, balıklar ve diğer su canlıları yılboyu burada yaşıyor. Memeliler ve sürüngenler de göle yakın alanlarda yaşamlarını sürdürüyor. 
+Yaban Hayatı bölümünde, göç eden su kuşları sonbaharda göle gelirken, balıklar ve diğer su canlıları yılboyu burada yaşıyor. Memeliler ve sürüngenler de göle yakın alanlarda yaşamlarını sürdürüyor.
 
-Ekolojik Değer olarak, Gölhisar Gölü, bölgenin ekolojik dengesini koruyor ve su kuşlarının göç yollarında önemli bir durak noktası olarak işlev görüyor. Bu nedenle, koruma altına alınmış ve gelecek nesiller için bảo tồn edilmesi gerekiyor.
+Ekolojik Değer olarak, Gölhisar Gölü, bölgenin ekolojik dengesini koruyor ve su kuşlarının göç yollarında önemli bir durak noktası olarak işlev görüyor. Bu nedenle, koruma altına alınmış ve gelecek nesiller için koruma tồn edilmesi gerekiyor.
 
 ## Ziyaret Bilgileri
 

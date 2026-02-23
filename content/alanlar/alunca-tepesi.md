@@ -28,7 +28,7 @@ wikidata_id: "Q31387940"
 
 # Alunca Tepesi
 
-Alunca Tepesi, Gümüşhane'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu bölge, Karadeniz Bölgesi'nin zengin coğrafyası içinde yer alıyor. Alunca Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Tepe, çevresindeki diğer dağlar ve vadilerle birlikte bir bütün olarak düşünüldüğünde, gerçek bir doğa harikası olarak karşımıza çıkıyor.
+Alunca Tepesi, Gümüşhane'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu bölge, Karadeniz Bölgesi'nin zengin coğrafyası içinde yer alıyor. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Tepe, çevresindeki diğer dağlar ve vadilerle birlikte bir bütün olarak düşünüldüğünde, gerçek bir doğa harikası olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

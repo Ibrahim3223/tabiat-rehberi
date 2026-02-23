@@ -28,7 +28,7 @@ wikidata_id: "Q32133225"
 
 # Bağüstü Tepesi
 
-Bağüstü Tepesi, Tekirdağ'ın güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, Marmara Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bağüstü Tepesi, hem doğa severler hem de coğrafya meraklıları için bir hazine. Burada, doğanın güzelliğini ve bölgenin coğrafi özelliklerini yakından gözlemleyebilirsiniz. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor.
+Bağüstü Tepesi, Tekirdağ'ın güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, Marmara Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Bağüstü Tepesi, hem doğa severler hem de coğrafya meraklıları için bir hazine. Burada, doğanın güzelliğini ve bölgenin coğrafi özelliklerini yakından gözlemleyebilirsiniz. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 

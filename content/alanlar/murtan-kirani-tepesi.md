@@ -28,7 +28,7 @@ wikidata_id: "Q31389605"
 
 # Murtan Kıranı Tepesi
 
-Murtan Kıranı Tepesi, Balıkesir'in yüksek noktalarından biri olarak, Marmara Bölgesi'nin doğal güzelliklerini sunar. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin yüksekliği ve çevresinin coğrafi yapısı, burayı bir doğa harikası haline getirir. Ziyaretçiler, tepeye çıktıklarında, Marmara Bölgesi'nin geniş bir bölümünü görebilirler. Bu manzara, özellikle gün batımında daha da etkileyici bir hal alır.
+Murtan Kıranı Tepesi, Balıkesir'in yüksek noktalarından biri olarak, Marmara Bölgesi'nin doğal güzelliklerini sunar. Tepenin yüksekliği ve çevresinin coğrafi yapısı, burayı bir doğa harikası haline getirir. Ziyaretçiler, tepeye çıktıklarında, Marmara Bölgesi'nin geniş bir bölümünü görebilirler. Bu manzara, özellikle gün batımında daha da etkileyici bir hal alır.
 
 ## Tarihçe
 

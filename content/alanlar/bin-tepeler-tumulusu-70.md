@@ -29,7 +29,7 @@ wikidata_id: "Q134728294"
 
 # Bin Tepeler Tümülüsü 70
 
-Bin Tepeler Tümülüsü 70, Ege Bölgesi'nin Manisa ilinin Salihli ilçesinde bulunan bir arkeoloji ve tarihi alan olarak karşımıza çıkıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahip. Bin Tepeler Tümülüsü 70, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor. Burada, yüzyıllar boyunca insanların yaşadığı ve çeşitli kültürlerin izlerini taşıyan bir bölgeyle karşılaşma mümkün.
+Bin Tepeler Tümülüsü 70, Ege Bölgesi'nin Manisa ilinin Salihli ilçesinde bulunan bir arkeoloji ve tarihi alan olarak karşımıza çıkıyor. Bin Tepeler Tümülüsü 70, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor. Burada, yüzyıllar boyunca insanların yaşadığı ve çeşitli kültürlerin izlerini taşıyan bir bölgeyle karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 70'in tarihi geçmişi, yüzyıllar öncesine dayanıyo
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 70, Ege Bölgesi'nin coğrafi özellikleri bakımından zengin bir bölgede bulunuyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahip. Coğrafi olarak, bu bölgeyi çeviren dağlar ve ovalar, ziyaretçilere a güzelliklerinin tümünü sunuyor. Bin Tepeler Tümülüsü 70, iklim olarak ılıman bir bölgeye sahip ve ziyaretçilere dört mevsim boyunca gezi imkanı sunuyor. Bu bölgenin coğrafi özellikleri, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı veriyor. Bin Tepeler Tümülüsü 70, coğrafi olarak zengin bir bölge ve ziyaretçilere birçok doğal güzelliği sunuyor.
+Bin Tepeler Tümülüsü 70, Ege Bölgesi'nin coğrafi özellikleri bakımından zengin bir bölgede bulunuyor. Coğrafi olarak, bu bölgeyi çeviren dağlar ve ovalar, ziyaretçilere a güzelliklerinin tümünü sunuyor. Bin Tepeler Tümülüsü 70, iklim olarak ılıman bir bölgeye sahip ve ziyaretçilere dört mevsim boyunca gezi imkanı sunuyor. Bu bölgenin coğrafi özellikleri, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı veriyor. Bin Tepeler Tümülüsü 70, coğrafi olarak zengin bir bölge ve ziyaretçilere birçok doğal güzelliği sunuyor.
 
 ## Flora ve Fauna
 

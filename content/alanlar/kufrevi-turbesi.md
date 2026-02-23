@@ -1,7 +1,7 @@
 ---
 title: "Küfrevi Türbesi"
 date: "2026-01-10T06:05:59.926Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bitlis"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390702"
 
 # Küfrevi Türbesi
 
-Küfrevi Türbesi, Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Bu bölge, yaklaşık olarak 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tarihi geçmişiyle birlikte, ziyaretçilerini bir zaman yolculuğuna çıkarıyor. İnsanlar, bu türbeyi ziyaret ederek hem tarihi hem de doğal güzellikleri bir arada keşfedebiliyorlar.
+Küfrevi Türbesi, Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Tarihi geçmişiyle birlikte, ziyaretçilerini bir zaman yolculuğuna çıkarıyor. İnsanlar, bu türbeyi ziyaret ederek hem tarihi hem de doğal güzellikleri bir arada keşfedebiliyorlar.
 
 ## Tarihçe
 

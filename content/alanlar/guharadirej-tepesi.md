@@ -28,7 +28,7 @@ wikidata_id: "Q31546777"
 
 # Guharadirej Tepesi
 
-Guharadirej Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olarak Batman ilinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor ve tepe, bölgenin coğrafi güzelliğini gözler önüne seriyor. Guharadirej Tepesi'nin etrafı, çeşitli bitki türleriyle kaplı ve bu, tepeyi ziyaret edenler için bir doğa cenneti gibi görünüyor. Tepenin yüksekliği, bölgenin diğer noktalarına nazaran oldukça dikkat çekici ve bu, ziyaretçilere geniş bir manzara sunuyor.
+Guharadirej Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olarak Batman ilinde yer alıyor. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor ve tepe, bölgenin coğrafi güzelliğini gözler önüne seriyor. Guharadirej Tepesi'nin etrafı, çeşitli bitki türleriyle kaplı ve bu, tepeyi ziyaret edenler için bir doğa cenneti gibi görünüyor. Tepenin yüksekliği, bölgenin diğer noktalarına nazaran oldukça dikkat çekici ve bu, ziyaretçilere geniş bir manzara sunuyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Guharadirej Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli bir
 
 ## Flora ve Fauna
 
-Guharadirej Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu, tepeyi ziyaret edenler için bir doğa cenneti gibi görünüyor. Tepenin yüksekliği, bölgenin diğer noktalarına nazaran oldukça dikkat çekici ve bu, ziyaretçilere geniş bir manzara sunuyor. Guharadirej Tepesi, fauna açısından da önemli bir bölge ve bu tepenin etrafında birçok önemli hayvan türü bulunmakta. Tepenin flora ve fauna yapısı, bölgenin ekolojisini de etkiliyor ve bu, Guharadirej Tepesi'ni ziyaret edenler için önemli bir deneyim oluşturuyor. Guharadirej Tepesi'nin flora ve fauna çeşitliliği, bölgenin diğer noktalarına nazaran oldukça yükse ve bu, tepeyi ziyaret edenler için bir doğa belgeseli gibi görünüyor.
+ Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu, tepeyi ziyaret edenler için bir doğa cenneti gibi görünüyor. Tepenin yüksekliği, bölgenin diğer noktalarına nazaran oldukça dikkat çekici ve bu, ziyaretçilere geniş bir manzara sunuyor. Guharadirej Tepesi, fauna açısından da önemli bir bölge ve bu tepenin etrafında birçok önemli hayvan türü bulunmakta. Tepenin flora ve fauna yapısı, bölgenin ekolojisini de etkiliyor ve bu, Guharadirej Tepesi'ni ziyaret edenler için önemli bir deneyim oluşturuyor. Guharadirej Tepesi'nin flora ve fauna çeşitliliği, bölgenin diğer noktalarına nazaran oldukça yükse ve bu, tepeyi ziyaret edenler için bir doğa belgeseli gibi görünüyor.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Guharadirej Tepesi'ni ziyaret etmek, oldukça keyifli bir deneyim oluşturuyor. 
 
 - Guharadirej Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
 - Tepenin yüksekliği, bölgenin diğer noktalarına nazaran oldukça dikkat çekici.
-- Guharadirej Tepesi, flora ve fauna açısından oldukça zengin bir bölge.
+
 - Tepenin etrafı, çeşitli bitki türleriyle kaplı.
 - Guharadirej Tepesi, coğrafi olarak da önemli bir bölge.

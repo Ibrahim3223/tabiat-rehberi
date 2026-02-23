@@ -28,7 +28,7 @@ wikidata_id: "Q31386740"
 
 # Abir Tepesi
 
-Abir Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin en önemli doğal güzelliklerinden biri olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en yüksek noktalarından biri. Abir Tepesi, ziyaretçilerine Diyarbakır'ın panoramik manzarasını sunuyor. Tepenin eteklerinde yer alan tarihi yapılar ve doğal güzellikler, ziyaretçilerin ilgisini çekiyor. Abir Tepesi, aynı zamanda bir yürüyüş ve doğa severlerin uğrak noktası.
+Abir Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin en önemli doğal güzelliklerinden biri olan bir tepe. Abir Tepesi, ziyaretçilerine Diyarbakır'ın panoramik manzarasını sunuyor. Tepenin eteklerinde yer alan tarihi yapılar ve doğal güzellikler, ziyaretçilerin ilgisini çekiyor. Abir Tepesi, aynı zamanda bir yürüyüş ve doğa severlerin uğrak noktası.
 
 ## Tarihçe
 

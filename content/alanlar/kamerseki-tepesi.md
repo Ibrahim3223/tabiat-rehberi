@@ -28,11 +28,11 @@ wikidata_id: "Q31519589"
 
 # Kamerseki Tepesi
 
-Kamerseki Tepesi, Diyarbakır'ın merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşit. Şehrin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta olan Kamerseki Tepesi, ziyaretçilerini bekliyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found. Bu tepenin hikayesi, Diyarbakır'ın tarihi geçmişiyle iç içe geçmiş durumda.
+Kamerseki Tepesi, Diyarbakır'ın merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepe. Şehrin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta olan Kamerseki Tepesi, ziyaretçilerini bekliyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found. Bu tepenin hikayesi, Diyarbakır'ın tarihi geçmişiyle iç içe geçmiş durumda.
 
 ## Tarihçe
 
-Kamerseki Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölge. Tarihi geçmişi, Diyarbakır'ın históriaıyla birlikte ele alınabilecek bir konu. Bu tepe, farklı zamanlarda farklı amaçlar için kullanılmış ve her dönemde önemli bir merkez olarak kabul edilmiş. Tepenin tarihi, Diyarbakır'ın tarihini anlamak için önemli bir kaynak. Burada, çeşitli uygarlıkların izlerini görme mümkün ve bu izler, tepeye ayrı bir güzellik katıyor. Kamerseki Tepesi, sadece bir doğal güzellik değil, aynı zamanda bir tarih hazinesi.
+Kamerseki Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölge. Tarihi geçmişi, Diyarbakır'ın tarihiıyla birlikte ele alınabilecek bir konu. Bu tepe, farklı zamanlarda farklı amaçlar için kullanılmış ve her dönemde önemli bir merkez olarak kabul edilmiş. Tepenin tarihi, Diyarbakır'ın tarihini anlamak için önemli bir kaynak. Burada, çeşitli uygarlıkların izlerini görme mümkün ve bu izler, tepeye ayrı bir güzellik katıyor. Kamerseki Tepesi, sadece bir doğal güzellik değil, aynı zamanda bir tarih hazinesi.
 
 ## Coğrafya
 

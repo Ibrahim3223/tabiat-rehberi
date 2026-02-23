@@ -28,7 +28,7 @@ wikidata_id: "Q34819048"
 
 # Çılktaş Tepesi
 
-Şanlıurfa'nın eşsiz manzarasına ev sahipliği yapan Çılktaş Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal ve tarihi mekanlarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Doğal güzelliği ve tarihi önemiyle dikkat çekici bir yer olan Çılktaş Tepesi, ziyaretçilerini şehrin kalabalığından uzaklaştırarak sakin bir atmosfer sunar.
+Şanlıurfa'nın eşsiz manzarasına ev sahipliği yapan Çılktaş Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal ve tarihi mekanlarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Doğal güzelliği ve tarihi önemiyle dikkat çekici bir yer olan Çılktaş Tepesi, ziyaretçilerini şehrin kalabalığından uzaklaştırarak sakin bir atmosfer sunar.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ wikidata_id: "Q34819048"
 
 ## Ziyaret Bilgileri
 
-Çılktaş Tepesi'ni ziyaret etmek, Şanlıurfa'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için mükemmel bir fırsattır. Ziyaretçiler, tepeye çıkarak Şanlıurfa'nın panoramik manzarasını görebilirler. Tepenin etrafında yer alan históri ve doğal güzellikler, ziyaretçilere şehri daha iyi tanımak için olanak sağlar. Çılktaş Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar mevsimleri olabilir, çünkü bu mevsimlerde hava daha serin ve ziyaret için daha elverişlidir.
+Çılktaş Tepesi'ni ziyaret etmek, Şanlıurfa'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için mükemmel bir fırsattır. Ziyaretçiler, tepeye çıkarak Şanlıurfa'nın panoramik manzarasını görebilirler. Tepenin etrafında yer alan tarihi ve doğal güzellikler, ziyaretçilere şehri daha iyi tanımak için olanak sağlar. Çılktaş Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar mevsimleri olabilir, çünkü bu mevsimlerde hava daha serin ve ziyaret için daha elverişlidir.
 
 ## İlginç Bilgiler
 

@@ -1,7 +1,7 @@
 ---
 title: "Yeni Camii"
 date: "2026-01-10T04:17:16.919Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Fatih"
@@ -30,7 +30,7 @@ wikidata_id: "Q911720"
 
 # Yeni Camii
 
-Yeni Camii, Eminönü ve Fatih ilçelerinin kesişme noktasında bulunan bir yeşil alandır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok gezi rotasının önemli bir durağıdır. Yeni Camii'nin etrafında tarihi yapılar ve önemli noktalar bulunması, burayı bir gezi için ideal bir yer haline getirir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok gezi rotasının önemli bir durağıdır.
+Yeni Camii, Eminönü ve Fatih ilçelerinin kesişme noktasında bulunan bir yeşil alandır. Yeni Camii'nin etrafında tarihi yapılar ve önemli noktalar bulunması, burayı bir gezi için ideal bir yer haline getirir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yeni Camii'nin tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya tanı
 
 ## Coğrafya
 
-Yeni Camii, İç Anadolu Bölgesi'nin kalbinde, Eminönü ve Fatih ilçelerinin birleştiği noktada bulunmaktadır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve birçok gezi rotasının önemli bir durağıdır. Yeni Camii'nin etrafında tarihi yapılar ve önemli noktalar bulunması, burayı bir gezi için ideal bir yer haline getirir. Yeni Camii'nin coğrafi konumu, birçok önemli noktaya yakınlığı ile dikkat çeker. İç Anadolu Bölgesi'nin kalbinde bulunan Yeni Camii, Eminönü ve Fatih ilçelerinin birleştiği noktada bulunmaktadır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve birçok gezi rotasının önemli bir durağıdır. Yeni Camii'nin coğrafi konumu, birçok önemli noktaya yakınlığı ile dikkat çeker ve burayı bir gezi için ideal bir yer haline getirir.
+Yeni Camii, İç Anadolu Bölgesi'nin kalbinde, Eminönü ve Fatih ilçelerinin birleştiği noktada bulunmaktadır. Yeni Camii'nin etrafında tarihi yapılar ve önemli noktalar bulunması, burayı bir gezi için ideal bir yer haline getirir. Yeni Camii'nin coğrafi konumu, birçok önemli noktaya yakınlığı ile dikkat çeker. İç Anadolu Bölgesi'nin kalbinde bulunan Yeni Camii, Eminönü ve Fatih ilçelerinin birleştiği noktada bulunmaktadır. Yeni Camii'nin coğrafi konumu, birçok önemli noktaya yakınlığı ile dikkat çeker ve burayı bir gezi için ideal bir yer haline getirir.
 
 ## Flora ve Fauna
 
@@ -46,7 +46,7 @@ Yeni Camii'nin 140 hektarlık yeşil alanı, birçok bitki türüne ev sahipliğ
 
 ## Ziyaret Bilgileri
 
-Yeni Camii'yi ziyaret etmek için, Eminönü ve Fatih ilçelerinin birleştiği noktaya gelmek gerekir. Yeni Camii'nin etrafında bulunan tarihi yapılar ve önemli noktalar, burayı bir gezi için ideal bir yer haline getirir. Yeni Camii'nin 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve birçok gezi rotasının önemli bir durağıdır. Yeni Camii'yi ziyaret etmek için, birçok ulaşım seçeneği bulunmaktadır. Eminönü ve Fatih ilçelerinin birleştiği noktaya gelmek, Yeni Camii'yi ziyaret etmek için ideal bir başlangıç noktasıdır.
+Yeni Camii'yi ziyaret etmek için, Eminönü ve Fatih ilçelerinin birleştiği noktaya gelmek gerekir. Yeni Camii'nin etrafında bulunan tarihi yapılar ve önemli noktalar, burayı bir gezi için ideal bir yer haline getirir. Yeni Camii'yi ziyaret etmek için, birçok ulaşım seçeneği bulunmaktadır. Eminönü ve Fatih ilçelerinin birleştiği noktaya gelmek, Yeni Camii'yi ziyaret etmek için ideal bir başlangıç noktasıdır.
 
 ## İlginç Bilgiler
 

@@ -1,7 +1,7 @@
 ---
 title: "Bulgurlu Hamamı"
 date: "2026-01-09T22:50:09.426Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738622"
 
 # Bulgurlu Hamamı
 
-Bulgurlu Hamamı, Üsküdar'da bulunmakta olan bir plajdır. Bu plaj, Marmara Bölgesi'nin önemli denize girme noktalarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunmaktadır. Bu plaj, hem lokal halk hem de turistler tarafından tercih edilen bir noktadır. Deniz suyu, temiz ve berrak olmakla birlikte, plajın etrafındaki yeşil alanlar da piknik yapmak için idealdir.
+Bulgurlu Hamamı, Üsküdar'da bulunmakta olan bir plajdır. Bu plaj, Marmara Bölgesi'nin önemli denize girme noktalarından biridir. Bu plaj, hem lokal halk hem de turistler tarafından tercih edilen bir noktadır. Deniz suyu, temiz ve berrak olmakla birlikte, plajın etrafındaki yeşil alanlar da piknik yapmak için idealdir.
 
 ## Tarihçe
 

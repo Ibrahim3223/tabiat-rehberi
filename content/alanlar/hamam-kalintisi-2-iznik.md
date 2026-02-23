@@ -1,7 +1,7 @@
 ---
 title: "Hamam Kalıntısı 2, İznik"
 date: "2026-01-09T23:44:52.870Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739176"
 
 # Hamam Kalıntısı 2, İznik
 
-Hamam Kalıntısı 2, İznik, Marmara Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olarak dikkat çekiyor. Bu alan, İznik'in zengin tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini büyülüyor. İznik Gölü'nün kıyısında yer alan Hamam Kalıntısı 2, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ziyaretçiler, bu geniş ve yeşil alanda hem tarihi kalıntıları keşfedebilir hem de doğanın güzelliğini yaşayabilir.
+Hamam Kalıntısı 2, İznik, Marmara Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olarak dikkat çekiyor. Bu alan, İznik'in zengin tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini büyülüyor. İznik Gölü'nün kıyısında yer alan Hamam Kalıntısı 2, yaklaşık 140 hektarlık bir alanı kapsıyor. Ziyaretçiler, bu geniş ve yeşil alanda hem tarihi kalıntıları keşfedebilir hem de doğanın güzelliğini yaşayabilir.
 
 ## Tarihçe
 

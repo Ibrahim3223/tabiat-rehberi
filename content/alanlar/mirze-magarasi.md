@@ -50,9 +50,9 @@ Bölgenin ekosistem bağlantıları açısından da önemli bir role sahip olan 
 
 ## Flora ve Fauna
 
-Mirze Mağarası'nın jeopark alanında, yarı kurak iklimin hakim olduğu bu step ve ova ekosisteminde, zengin bir flora ve fauna çeşitliliği bulunur. İlkbaharla birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Step bitkileri ve ova florası, mevsimsel değişimlerle birlikte farklı bir güzelliğe bürünür. 
+Mirze Mağarası'nın jeopark alanında, yarı kurak iklimin hakim olduğu bu step ve ova ekosisteminde, zengin bir flora ve fauna çeşitliliği bulunur. İlkbaharla birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Step bitkileri ve ova florası, mevsimsel değişimlerle birlikte farklı bir güzelliğe bürünür.
 
-Yaban hayatı da bu bölgede oldukça çeşitlidir. Orman memelileri ve çeşitli kuş türleri, bu ekosistemin temel bileşenlerini oluşturur. Göç mevsimlerinde, gökyüzü farklı türlerin geçişine sahne olur. Sürüngenler ve diğer küçük hayvanlar da bu yaşam alanının bir parçasını oluşturur. 
+Yaban hayatı da bu bölgede oldukça çeşitlidir. Orman memelileri ve çeşitli kuş türleri, bu ekosistemin temel bileşenlerini oluşturur. Göç mevsimlerinde, gökyüzü farklı türlerin geçişine sahne olur. Sürüngenler ve diğer küçük hayvanlar da bu yaşam alanının bir parçasını oluşturur.
 
 Bu ekosistemin korunması, bölgenin ekolojik dengesini korumak için büyük önem taşır. Mirze Mağarası'nın jeopark alanı, doğal yaşamın sürdürülmesi ve gelecek nesiller için korunması gereken bir bölge olarak dikkat çeker.
 

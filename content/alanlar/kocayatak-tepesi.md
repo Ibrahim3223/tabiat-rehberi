@@ -28,7 +28,7 @@ wikidata_id: "Q31391270"
 
 # Kocayatak Tepesi
 
-Kocayatak Tepesi, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Kocayatak Tepesi, ziyaretçilerini zengin doğası ve tarihi geçmişiyle karşılayacak bir mekan olarak biliniyor. Bu tepe, bölgenin coğrafyasını ve florasını yakından tanımak isteyenler için önemli bir gezi noktası olarak kabul ediliyor.
+Kocayatak Tepesi, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. Kocayatak Tepesi, ziyaretçilerini zengin doğası ve tarihi geçmişiyle karşılayacak bir mekan olarak biliniyor. Bu tepe, bölgenin coğrafyasını ve florasını yakından tanımak isteyenler için önemli bir gezi noktası olarak kabul ediliyor.
 
 ## Tarihçe
 

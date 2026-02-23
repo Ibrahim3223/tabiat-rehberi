@@ -50,11 +50,11 @@ Jeolojik açıdan incelendiğinde, Harkever Dağı'nın coğrafyası oldukça il
 
 ## Flora ve Fauna
 
-Harkever Dağı, 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ancak bu dağ, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapıyor. 
+Harkever Dağı, 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ancak bu dağ, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ eteklerinde çiçekler açıyor. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunuyor. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ eteklerinde çiçekler açıyor. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunuyor.
 
-Yaban Hayatı açısından, dağ keçileri, ayılar ve çeşitli kuş türleri burada yaşıyor. Sonbaharda, bazı kuş türleri göç ediyor. 
+Yaban Hayatı açısından, dağ keçileri, ayılar ve çeşitli kuş türleri burada yaşıyor. Sonbaharda, bazı kuş türleri göç ediyor.
 
 Ekolojik Değer olarak, bu dağ ekosistemi, endemik türlerin yaşaması için önemli bir alan. Ancak, koruma durumu hakkında daha fazla bilgiye ihtiyaç var.
 

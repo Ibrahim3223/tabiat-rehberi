@@ -1,7 +1,7 @@
 ---
 title: "Ömer Dede Türbesi"
 date: "2026-01-10T05:29:40.610Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391668"
 
 # Ömer Dede Türbesi
 
-Ömer Dede Türbesi, Ege Bölgesi'nin Manisa ilinin Selendi ilçesinde bulunan bir plaj ve tarihi mekan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Denizi'nin güzel kıyılarında yer alıyor. Bu alan, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini etkiliyor. Plajın yanında yer alan Ömer Dede Türbesi, tarihi geçmişi ile dikkat çekiyor ve ziyaretçiler için önemli bir çekim merkezi oluşturuyor.
+Ömer Dede Türbesi, Ege Bölgesi'nin Manisa ilinin Selendi ilçesinde bulunan bir plaj ve tarihi mekan olarak dikkat çekiyor. Bu alan, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini etkiliyor. Plajın yanında yer alan Ömer Dede Türbesi, tarihi geçmişi ile dikkat çekiyor ve ziyaretçiler için önemli bir çekim merkezi oluşturuyor.
 
 ## Tarihçe
 

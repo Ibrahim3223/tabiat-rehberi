@@ -28,7 +28,7 @@ wikidata_id: "Q31574287"
 
 # Tahkımatlı Tepesi
 
-Tahkımatlı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrabilir. Bu bölge, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekmeyi başaran bir destinasyon.
+Tahkımatlı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrabilir. Bu bölge, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekmeyi başaran bir destinasyon.
 
 ## Tarihçe
 

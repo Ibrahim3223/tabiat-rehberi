@@ -28,7 +28,7 @@ wikidata_id: "Q31387085"
 
 # Kayıkkayası Tepesi
 
-Kayıkkayası Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tepenin yüksekliği ve konumu, çevreyi panoramik olarak görmeye olanak tanır. Kayıkkayası Tepesi, hem doğa severler hem de tarih meraklıları için ziyaret edilebilecek bir destinasyon olarak dikkat çekmektedir.
+Kayıkkayası Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Tepenin yüksekliği ve konumu, çevreyi panoramik olarak görmeye olanak tanır. Kayıkkayası Tepesi, hem doğa severler hem de tarih meraklıları için ziyaret edilebilecek bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 

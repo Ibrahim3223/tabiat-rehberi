@@ -32,7 +32,7 @@ wikidata_id: "Q34867985"
 
 ## Tarihçe
 
-Çanakkale'nin doğusunda yer alan Eğrikabaağaç Dağı, tarihin sâu izlerini taşıyan bir bölgeye konumlanmıştır. Çanakkale, tarih boyunca çeşitli uygarlıklara ev sahipliği yapmış bir bölgedir. Troya'nın kalıntıları, bu bölgenin antik dönemlerdeki önemini vurgular. Truva Savaşı'nın efsanesi, bu toprakların derin tarihsel zenginliğini gözler önüne serer.
+Çanakkale'nin doğusunda yer alan Eğrikabaağaç Dağı, tarihin derin izlerini taşıyan bir bölgeye konumlanmıştır. Çanakkale, tarih boyunca çeşitli uygarlıklara ev sahipliği yapmış bir bölgedir. Troya'nın kalıntıları, bu bölgenin antik dönemlerdeki önemini vurgular. Truva Savaşı'nın efsanesi, bu toprakların derin tarihsel zenginliğini gözler önüne serer.
 
 Doğal güzellikleri ve stratejik konumuyla, Eğrikabaağaç Dağı ve çevresi, yüzyıllar boyu insanların yaşamlarına ev sahipliği yapmış olmalıdır. Türkiye'de, özellikle de Anadolu'nun çeşitli bölgelerinde, doğal alanlar her zaman önemli birer yaşam merkezi olmuşlardır. Bu alanlar, yaylacılık ve hayvancılık faaliyetleri için elverişli ortamlar sunmuş, ayrıca ticaret yolları üzerinde yer almalarıyla ekonomilerin canlandırılmasına katkıda bulunmuşlardır.
 

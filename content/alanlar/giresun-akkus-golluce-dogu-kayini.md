@@ -22,7 +22,7 @@ wikidata_id: "Q108227790"
 
 # Giresun-Akkus-Golluce Dogu Kayini
 
-Giresun-Akkus-Golluce Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda çeşitli bitki türleri ve yaban hayatı bulunur. Bu milli park, Giresun'un Akkus ilçesinde yer alır ve Golluce Dogu Kayini olarak bilinen bölgede bulunur. Milli parkın konumu, ziyaretçilere güzel manzaralar sunar ve burada doğa yürüyüşleri yapma mümkün. Giresun-Akkus-Golluce Dogu Kayini milli parkı, doğa severler için ideal bir destinasyondur.
+Giresun-Akkus-Golluce Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu milli park, Giresun'un Akkus ilçesinde yer alır ve Golluce Dogu Kayini olarak bilinen bölgede bulunur. Milli parkın konumu, ziyaretçilere güzel manzaralar sunar ve burada doğa yürüyüşleri yapma mümkün. Giresun-Akkus-Golluce Dogu Kayini milli parkı, doğa severler için ideal bir destinasyondur.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Sunullah Gaybi Türbesi"
 date: "2026-01-10T07:15:50.700Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390900"
 
 # Sunullah Gaybi Türbesi
 
-Sunullah Gaybi Türbesi, Kütahya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken önemli bir mekan. Bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde. Tarihi ve doğal güzelliklerinin bir arada sunulduğu bu mekan, ziyaretçilerini geçmişe götürmeyi başarıyor. Türbenin etrafında yer alan yeşil alanlar, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunuyor.
+Sunullah Gaybi Türbesi, Kütahya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken önemli bir mekan. Tarihi ve doğal güzelliklerinin bir arada sunulduğu bu mekan, ziyaretçilerini geçmişe götürmeyi başarıyor. Türbenin etrafında yer alan yeşil alanlar, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunuyor.
 
 ## Tarihçe
 

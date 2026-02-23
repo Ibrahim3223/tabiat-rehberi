@@ -1,7 +1,7 @@
 ---
 title: "Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi"
 date: "2026-01-10T06:21:15.495Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çankırı"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391815"
 
 # Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi
 
-Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi, Çerkeş ilçesinde yer alan bir tarihi türbedir. Çankırı'nın İç Anadolu Bölgesi'nde bulunan bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çekmektedir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsar. Bu türbe, aynı zamanda çevredeki doğal güzelliklerin de merkezi haline gelmiştir. Çerkeş'in tarihi ve doğal güzelliklerini bir arada sunan bu bölge, ziyaretçilere zengin bir deneyim sunar.
+Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi, Çerkeş ilçesinde yer alan bir tarihi türbedir. Çankırı'nın İç Anadolu Bölgesi'nde bulunan bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çekmektedir. Bu türbe, aynı zamanda çevredeki doğal güzelliklerin de merkezi haline gelmiştir. Çerkeş'in tarihi ve doğal güzelliklerini bir arada sunan bu bölge, ziyaretçilere zengin bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi, tarihi geçmişi ile önem
 
 ## Coğrafya
 
-Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi, Çerkeş ilçesinde, İç Anadolu Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Türbenin etrafı, çeşitli bitki türleri ile çevrili olup, ziyaretçilere doğal bir ortam sunar. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri taşır ve mevsimsel değişimler, bu bölgenin güzelliklerini farklı şekillerde gösterir. Çevre, tarihi ve doğal güzellikleri ile ziyaretçileri çekmektedir. 180 hektarlık bir alanda, yaklaşık 300 futbol sahası büyüklüğünde bir yeşil alan, ziyaretçilere geniş bir gezi alanı sunar. Bu bölgenin coğrafyası, aynı zamanda çeşitli fauna türlerine de ev sahipliği yapar.
+Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi, Çerkeş ilçesinde, İç Anadolu Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Türbenin etrafı, çeşitli bitki türleri ile çevrili olup, ziyaretçilere doğal bir ortam sunar. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri taşır ve mevsimsel değişimler, bu bölgenin güzelliklerini farklı şekillerde gösterir. Çevre, tarihi ve doğal güzellikleri ile ziyaretçileri çekmektedir. Bu bölgenin coğrafyası, aynı zamanda çeşitli fauna türlerine de ev sahipliği yapar.
 
 ## Flora ve Fauna
 

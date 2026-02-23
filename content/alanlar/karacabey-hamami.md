@@ -1,7 +1,7 @@
 ---
 title: "Karacabey Hamamı"
 date: "2026-01-09T22:10:39.525Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q19611618"
 
 # Karacabey Hamamı
 
-Ankara'nın kalbinde yer alan Karacabey Hamamı, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanıyla ziyaretçilerini doğal güzelliklerle karşılar. Bu geniş alan, hem doğa severler hem de dinlenmek isteyenler için ideal bir ortam sunar. Karacabey Hamamı, özellikle hafta sonları ve tatil günlerinde Ankara'nın dört bir yanından gelen ziyaretçilerin uğrak noktası haline gelmiştir. Burada, doğanın güzelliğini ve sakinliğini keşfetme mümkündür.
+ Bu geniş alan, hem doğa severler hem de dinlenmek isteyenler için ideal bir ortam sunar. Karacabey Hamamı, özellikle hafta sonları ve tatil günlerinde Ankara'nın dört bir yanından gelen ziyaretçilerin uğrak noktası haline gelmiştir. Burada, doğanın güzelliğini ve sakinliğini keşfetme mümkündür.
 
 ## Tarihçe
 

@@ -50,9 +50,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Kat Dağı'nın çevresel
 
 ## Flora ve Fauna
 
-Kat Dağı, yarı kurak iklimin hüküm sürdüğü bir bölge olan Siirt'te yer alan bir dağ ekosistemi. Bu dağ, yükseklik zonlarına bağlı olarak çeşitli bitki türlerini barındıran bir alpin flora ev sahipliği yapar. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanır. 
+Kat Dağı, yarı kurak iklimin hüküm sürdüğü bir bölge olan Siirt'te yer alan bir dağ ekosistemi. Bu dağ, yükseklik zonlarına bağlı olarak çeşitli bitki türlerini barındıran bir alpin flora ev sahipliği yapar. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanır.
 
-Dağın yüksek kesimlerinde, step ve ova ekolojisinin hakim olduğu bölgelerde, çayır otları ve maki türleri bulunur. Bu bitki örtüsünün arasında, dağ keçileri ve yaban keçileri yaşamını sürdürür. Sonbahar aylarında, göçmen kuşlar bu dağları ziyaret eder ve burada konaklar. 
+Dağın yüksek kesimlerinde, step ve ova ekolojisinin hakim olduğu bölgelerde, çayır otları ve maki türleri bulunur. Bu bitki örtüsünün arasında, dağ keçileri ve yaban keçileri yaşamını sürdürür. Sonbahar aylarında, göçmen kuşlar bu dağları ziyaret eder ve burada konaklar.
 
 Bu dağ ekosisteminin sürüngenleri de çeşitlilik gösterir. Yılan ve kertenkele gibi türler, bu dağların kayaçlarında ve otlaklarında yaşamlarını sürdürür. Bu dağ, ekolojik açıdan önemli bir bölgedir. Doğal yaşamın korunması ve sürdürülebilirliğinin sağlanması için, bu tür dağ ekosistemlerinin korunması büyük önem taşır.
 

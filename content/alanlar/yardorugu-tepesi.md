@@ -28,7 +28,7 @@ wikidata_id: "Q31390004"
 
 # Yardoruğu Tepesi
 
-Yardoruğu Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir doğal güzelliktir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Eskişehir'in coğrafi yapısını oluşturan tepe, aynı zamanda bölgenin önemli bir turizm merkezi olarak dikkat çeker. Yardoruğu Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, aynı zamanda coğrafi olarak önemli bir konumda yer alır ve bölgenin tarihi geçmişi hakkında bilgi verir.
+Yardoruğu Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir doğal güzelliktir. Eskişehir'in coğrafi yapısını oluşturan tepe, aynı zamanda bölgenin önemli bir turizm merkezi olarak dikkat çeker. Yardoruğu Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, aynı zamanda coğrafi olarak önemli bir konumda yer alır ve bölgenin tarihi geçmişi hakkında bilgi verir.
 
 ## Tarihçe
 

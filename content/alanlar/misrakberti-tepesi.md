@@ -28,7 +28,7 @@ wikidata_id: "Q31554451"
 
 # Mısrakberti Tepesi
 
-Mısrakberti Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Mardin'in Güneydoğu Anadolu Bölgesi'nde yer alan Mısrakberti Tepesi, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel halkın yaşam tarzını ve kültürünü tanıma fırsatı sunuyor.
+Mısrakberti Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Mardin'in Güneydoğu Anadolu Bölgesi'nde yer alan Mısrakberti Tepesi, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel halkın yaşam tarzını ve kültürünü tanıma fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mısrakberti Tepesi, tarihsel olarak önemli bir yere sahip. Bu tepenin tarihi g
 
 ## Coğrafya
 
-Mısrakberti Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli bir noktası. Tepenin konumu, Mardin'in merkezine yakın bir yerde ve şehrin panoramik manzarasını sunuyor. Mısrakberti Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tepenin yüksekliği, bölgenin coğrafi yapısını da etkiliyor. Mısrakberti Tepesi, aynı zamanda bölgenin iklimini de etkileyen bir faktör olarak kabul ediliyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel halkın yaşam tarzını ve kültürünü tanıma fırsatı sunuyor. Mısrakberti Tepesi, coğrafi olarak önemli bir yere sahip ve bölgenin doğal güzelliklerini sunuyor.
+Mısrakberti Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli bir noktası. Tepenin konumu, Mardin'in merkezine yakın bir yerde ve şehrin panoramik manzarasını sunuyor. Tepenin yüksekliği, bölgenin coğrafi yapısını da etkiliyor. Mısrakberti Tepesi, aynı zamanda bölgenin iklimini de etkileyen bir faktör olarak kabul ediliyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel halkın yaşam tarzını ve kültürünü tanıma fırsatı sunuyor. Mısrakberti Tepesi, coğrafi olarak önemli bir yere sahip ve bölgenin doğal güzelliklerini sunuyor.
 
 ## Flora ve Fauna
 

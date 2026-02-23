@@ -1,7 +1,7 @@
 ---
 title: "Küçükçekmece Hamamı"
 date: "2026-01-09T22:55:20.590Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,11 +30,11 @@ wikidata_id: "Q131738608"
 
 # Küçükçekmece Hamamı
 
-Küçükçekmece Hamamı, İstanbul'un Küçükçekmece ilçesinde yer alan ve Marmara Denizi'nin kıyısında bulunan bir plajdır. Bu plaj, 140 hektarlık geniş bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şehir merkezine yakın olması ve ulaşımın kolay olması, ziyaretçilerin burayı tercih etmesini sağlar. Plajın çevresi, yeşilliklerle dolu ve doğa severler için ideal bir ortam sunar. Güneşin altın ışıkları altında, kumlarda uzanma ve denizin serin sularında yüzmenin keyfini çıkarma mümkün.
+Küçükçekmece Hamamı, İstanbul'un Küçükçekmece ilçesinde yer alan ve Marmara Denizi'nin kıyısında bulunan bir plajdır. Şehir merkezine yakın olması ve ulaşımın kolay olması, ziyaretçilerin burayı tercih etmesini sağlar. Plajın çevresi, yeşilliklerle dolu ve doğa severler için ideal bir ortam sunar. Güneşin altın ışıkları altında, kumlarda uzanma ve denizin serin sularında yüzmenin keyfini çıkarma mümkün.
 
 ## Tarihçe
 
-Küçükçekmece Hamamı'nın tarihi geçmişi, İstanbul'un histórik geçmişine paralel olarak gelişmiştir. İstanbul'un fethi üzerinden asırlar geçtikçe, bu bölge de şehirleşme sürecine dahil olmuştur. Özellikle Osmanlı döneminde, bölgeye yapılan hamamlar ve diğer yapılar, bölgenin tarihi önemini artırmıştır. Ancak, plajın bugünkü hali, daha yakın bir geçmişte şekillenmiştir. Turizmin gelişmesiyle, plajın altyapısı güçlendirilmiş ve ziyaretçilere daha iyi hizmet sunulması amaçlanmıştır. Bugün, Küçükçekmece Hamamı, hem yerel halk hem de turistler tarafından ziyaret edilen popüler bir destinasyondur.
+Küçükçekmece Hamamı'nın tarihi geçmişi, İstanbul'un tarihi geçmişine paralel olarak gelişmiştir. İstanbul'un fethi üzerinden asırlar geçtikçe, bu bölge de şehirleşme sürecine dahil olmuştur. Özellikle Osmanlı döneminde, bölgeye yapılan hamamlar ve diğer yapılar, bölgenin tarihi önemini artırmıştır. Ancak, plajın bugünkü hali, daha yakın bir geçmişte şekillenmiştir. Turizmin gelişmesiyle, plajın altyapısı güçlendirilmiş ve ziyaretçilere daha iyi hizmet sunulması amaçlanmıştır. Bugün, Küçükçekmece Hamamı, hem yerel halk hem de turistler tarafından ziyaret edilen popüler bir destinasyondur.
 
 ## Coğrafya
 

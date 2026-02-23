@@ -1,7 +1,7 @@
 ---
 title: "Felâhoğlu Nureddin Türbesi"
 date: "2026-01-10T05:40:08.668Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilikya"

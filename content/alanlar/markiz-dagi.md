@@ -33,9 +33,9 @@ Kumluca'nın yeşille maviyi bir araya getiren muhteşem manzaralarına ev sahip
 
 ## Tarihçe
 
-Antalya bölgesi, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuştur. Likya, Pamfilya ve Roma uygarlıkları, bu bölgeye hükümranlık etmiş ve kendi kültürlerini bırakmışlardır. Markiz Dağı, bu zengin tarihsel mirasın bir parçasıdır. 
+Antalya bölgesi, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuştur. Likya, Pamfilya ve Roma uygarlıkları, bu bölgeye hükümranlık etmiş ve kendi kültürlerini bırakmışlardır. Markiz Dağı, bu zengin tarihsel mirasın bir parçasıdır.
 
-Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahiptir. İnsanlar, bu alanları yaylacılık, hayvancılık ve ticaret yolları için kullanmışlardır. Antalya bölgesinin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunmasını sağlamıştır. 
+Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahiptir. İnsanlar, bu alanları yaylacılık, hayvancılık ve ticaret yolları için kullanmışlardır. Antalya bölgesinin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunmasını sağlamıştır.
 
 Markiz Dağı, insan faaliyetlerinin yanı sıra, doğal güzelliği ve biyolojik çeşitliliği ile de dikkat çekmektedir. Bu alan, bölgenin ekolojik dengesini korumak için önemli bir role sahiptir. İnsanların bu alanla ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı değildir. Aynı zamanda, bu doğal güzellikler, insanların maneviyatını ve ruhunu beslemiştir.
 

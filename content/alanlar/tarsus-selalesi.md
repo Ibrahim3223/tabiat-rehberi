@@ -30,7 +30,7 @@ wikidata_id: "Q7686789"
 
 # Tarsus Şelalesi
 
-Tarsus Şelalesi, Mersin'in Tarsus ilçesinde yer alan ve doğal güzelliği ile dikkat çeken bir destinasyon. Bu şelale, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Tarsus Şelalesi, hem yerli hem de yabancı turistler tarafından ziyaret edilen bir nokta. Şelalenin etrafında yürüyüş parkurları, piknik alanları ve dinlenme tesisleri, ziyaretçilerin doğa ile iç içe vakit geçirmesine olanak tanıyor.
+Tarsus Şelalesi, Mersin'in Tarsus ilçesinde yer alan ve doğal güzelliği ile dikkat çeken bir destinasyon. Şelalenin etrafında yürüyüş parkurları, piknik alanları ve dinlenme tesisleri, ziyaretçilerin doğa ile iç içe vakit geçirmesine olanak tanıyor.
 
 ## Tarihçe
 

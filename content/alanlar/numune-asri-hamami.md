@@ -1,7 +1,7 @@
 ---
 title: "Numune Asri Hamamı"
 date: "2026-01-09T23:55:23.349Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245733"
 
 # Numune Asri Hamamı
 
-Numune Asri Hamamı, Ankara'nın Etimesgut ilçesinde bulunan bir tarihi hamam ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve çevresindeki yeşil alanlar ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Numune Asri Hamamı, tarihi geçmişinin yanı sıra doğal güzelliği ile de dikkat çekmektedir. Burada, hem tarihi bir hamamın atmosferini hisseder hem de plajın sunduğu olanaklardan yararlanabilirsiniz.
+Numune Asri Hamamı, Ankara'nın Etimesgut ilçesinde bulunan bir tarihi hamam ve plaj alanıdır. Numune Asri Hamamı, tarihi geçmişinin yanı sıra doğal güzelliği ile de dikkat çekmektedir. Burada, hem tarihi bir hamamın atmosferini hisseder hem de plajın sunduğu olanaklardan yararlanabilirsiniz.
 
 ## Tarihçe
 

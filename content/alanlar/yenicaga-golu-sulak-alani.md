@@ -23,7 +23,7 @@ wikidata_id: "Q108228876"
 
 # Yeniçağa Gölü Sulak Alanı
 
-Yeniçağa Gölü Sulak Alanı, İç Anadolu Bölgesi'nde yer alan ve bölge için önemli bir sulak alan olan bir doğa harikasıdır. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Bu sulak alan, aynı zamanda birçok kuş türünün yaşam alanı olarak da bilinir ve doğa severler için bir cennet olarak kabul ediliyor. Gölün etrafındaki yeşil alanlar, piknik için ideal bir ortam sunarken, göle bakan manzara da ziyaretçilerin hayran olmasına neden oluyor.
+Yeniçağa Gölü Sulak Alanı, İç Anadolu Bölgesi'nde yer alan ve bölge için önemli bir sulak alan olan bir doğa harikasıdır. Bu sulak alan, aynı zamanda birçok kuş türünün yaşam alanı olarak da bilinir ve doğa severler için bir cennet olarak kabul ediliyor. Gölün etrafındaki yeşil alanlar, piknik için ideal bir ortam sunarken, göle bakan manzara da ziyaretçilerin hayran olmasına neden oluyor.
 
 ## Tarihçe
 

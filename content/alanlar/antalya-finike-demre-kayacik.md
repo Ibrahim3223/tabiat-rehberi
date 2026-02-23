@@ -22,7 +22,7 @@ wikidata_id: "Q108228463"
 
 # Antalya-Finike-Demre Kayacik
 
-Antalya-Finike-Demre Kayacik Milli Parkı, Akdeniz Bölgesi'nin güzide illerinden biri olan Antalya'da yer almaktadır. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, doğa severlerin ve turistlerin ilgi odağıdır. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found. Milli parkın tarihi geçmişi ve coğrafi yapısı, ziyaretçilere benzersiz bir deneyim sunmaktadır. Parkın bulunduğu bölge, yıl boyunca ziyaret edilebilir ve her mevsim farklı güzelliği ile dikkat çekmektedir.
+Antalya-Finike-Demre Kayacik Milli Parkı, Akdeniz Bölgesi'nin güzide illerinden biri olan Antalya'da yer almaktadır. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found. Milli parkın tarihi geçmişi ve coğrafi yapısı, ziyaretçilere benzersiz bir deneyim sunmaktadır. Parkın bulunduğu bölge, yıl boyunca ziyaret edilebilir ve her mevsim farklı güzelliği ile dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Finike-Demre Kayacik Milli Parkı'nın tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Antalya-Finike-Demre Kayacik Milli Parkı, Akdeniz Bölgesi'nin güneyinde yer alan Antalya ilinin Finike ilçesinde bulunmaktadır. Parkın coğrafi yapısı, dağlar, ormanlar ve akarsular ile çevrilidir. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Parkın iklimi, Akdeniz iklimi özellikleri göstermekte ve yıl boyunca ılıman bir hava hüküm sürmektedir. Parkın bulunduğu bölge, yıl boyunca ziyaret edilebilir ve her mevsim farklı güzelliği ile dikkat çekmektedir. Milli parkın coğrafi yapısı ve iklimi, ziyaretçilere doğa ile iç içe bir deneyim sunmaktadır.
+Antalya-Finike-Demre Kayacik Milli Parkı, Akdeniz Bölgesi'nin güneyinde yer alan Antalya ilinin Finike ilçesinde bulunmaktadır. Parkın coğrafi yapısı, dağlar, ormanlar ve akarsular ile çevrilidir. Parkın iklimi, Akdeniz iklimi özellikleri göstermekte ve yıl boyunca ılıman bir hava hüküm sürmektedir. Parkın bulunduğu bölge, yıl boyunca ziyaret edilebilir ve her mevsim farklı güzelliği ile dikkat çekmektedir. Milli parkın coğrafi yapısı ve iklimi, ziyaretçilere doğa ile iç içe bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

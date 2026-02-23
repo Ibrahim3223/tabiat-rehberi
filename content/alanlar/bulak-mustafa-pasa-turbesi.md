@@ -1,7 +1,7 @@
 ---
 title: "Bulak Mustafa Paşa Türbesi"
 date: "2026-01-10T07:23:22.402Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391010"
 
 # Bulak Mustafa Paşa Türbesi
 
-Bulak Mustafa Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir türbe ve plajdır. Bu bölge, yaklaşık 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişiyle dikkat çeken bu bölge, aynı zamanda doğal güzelliği ile de ziyaretçilerini etkiler. İstanbulluların ve turistlerin uğrak noktası olan Bulak Mustafa Paşa Türbesi, hem dinî hem de kültürel açıdan önemli bir yerdir. Türbenin etrafındaki yeşil alan, çeşitli bitki türleriyle dolu olup, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunar.
+Bulak Mustafa Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir türbe ve plajdır. Tarihi geçmişiyle dikkat çeken bu bölge, aynı zamanda doğal güzelliği ile de ziyaretçilerini etkiler. İstanbulluların ve turistlerin uğrak noktası olan Bulak Mustafa Paşa Türbesi, hem dinî hem de kültürel açıdan önemli bir yerdir. Türbenin etrafındaki yeşil alan, çeşitli bitki türleriyle dolu olup, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Bayramgazi Türbesi"
 date: "2026-01-10T06:22:10.554Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391829"
 
 # Bayramgazi Türbesi
 
-Bayramgazi Türbesi, Kastamonu'nun Bozkurt ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini kendine hayran bırakıyor. Bu mekan, Karadeniz Bölgesi'nin zengin tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon. Bayramgazi Türbesi, aynı zamanda doğa severler için de bir cennet olan bu bölgede, ziyaretçilerin doğayla iç içe olabilecekleri ender yerlerden biri.
+Bayramgazi Türbesi, Kastamonu'nun Bozkurt ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir mekan. Bu mekan, Karadeniz Bölgesi'nin zengin tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon. Bayramgazi Türbesi, aynı zamanda doğa severler için de bir cennet olan bu bölgede, ziyaretçilerin doğayla iç içe olabilecekleri ender yerlerden biri.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bayramgazi Türbesi'nin tarihi geçmişi, Kastamonu'nun zengin tarihini yansıt�
 
 ## Coğrafya
 
-Bayramgazi Türbesi, Kastamonu'nun Bozkurt ilçesinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerini sergiliyor. Bu bölge, yeşilin ve mavinin bir araya geldiği, doğanın tüm güzelliklerini sunan özel bir yer. Bayramgazi Türbesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna encontruluyor. Bu mekanın coğrafi konumu, ziyaretçilerin doğayla iç içe olabilecekleri ve Karadeniz Bölgesi'nin doğal güzelliklerini keşfedebilecekleri bir ortam sunuyor. Bayramgazi Türbesi, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanıyla, ziyaretçilerini geniş ve yeşil bir alanda ağırlıyor.
+Bayramgazi Türbesi, Kastamonu'nun Bozkurt ilçesinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerini sergiliyor. Bu bölge, yeşilin ve mavinin bir araya geldiği, doğanın tüm güzelliklerini sunan özel bir yer. Bayramgazi Türbesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna encontruluyor. Bu mekanın coğrafi konumu, ziyaretçilerin doğayla iç içe olabilecekleri ve Karadeniz Bölgesi'nin doğal güzelliklerini keşfedebilecekleri bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Bayramgazi Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'nin tarihi ve doğal g�
 
 - Bayramgazi Türbesi, Kastamonu'nun önemli tarihi mekanlarından biri.
 - Bu mekan, Karadeniz Bölgesi'nin flora ve faunasını sergiliyor.
-- Bayramgazi Türbesi, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanıyla, ziyaretçilerini geniş ve yeşil bir alanda ağırlıyor.
+
 - Bu mekan, doğa severler için bir cennet olan Karadeniz Bölgesi'nin doğal güzelliklerini sunuyor.
 - Bayramgazi Türbesi, ziyaretçilerini bu bölgenin tarihini, kültürünü ve doğal güzelliklerini keşfetmelerine olanak tanıyor.

@@ -1,7 +1,7 @@
 ---
 title: "Milet Güney Roma Hamamı"
 date: "2026-01-09T23:24:59.104Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İyonya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739082"
 
 # Milet Güney Roma Hamamı
 
-Milet Güney Roma Hamamı, Didim'in merkezinde yer alan ve İyonya'nın önemli tarihi mekânlarından biri olan bir Roma hamamıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda tarihi kalıntılar yer almaktadır. Güney Roma Hamamı, Milet'in önemli yapılarından biri olarak kabul edilir ve ziyaretçilerini tarihin derinliklerine götürür. Bu tarihi mekân, İyonya'nın zengin tarihini ve kültürünü yansıtan önemli bir destinasyondur.
+Milet Güney Roma Hamamı, Didim'in merkezinde yer alan ve İyonya'nın önemli tarihi mekânlarından biri olan bir Roma hamamıdır. Güney Roma Hamamı, Milet'in önemli yapılarından biri olarak kabul edilir ve ziyaretçilerini tarihin derinliklerine götürür. Bu tarihi mekân, İyonya'nın zengin tarihini ve kültürünü yansıtan önemli bir destinasyondur.
 
 ## Tarihçe
 

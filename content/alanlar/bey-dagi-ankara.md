@@ -32,7 +32,7 @@ Ankara'nın coğrafi zenginliklerinin önemli bir parçası olan Bey Dağı, şe
 
 ## Tarihçe
 
-Bey Dağı, Ankara'nın doğal güzelliklerinden biridir. Ankara, tarihin sâu sayfalarında önemli bir yer tutmuş, Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşımaktadır. Bu bölgenin coğrafi konumu, tarih boyunca çeşitli medeniyetlerin ticaret ve yerleşim merkezi olmasını sağlamıştır.
+Bey Dağı, Ankara'nın doğal güzelliklerinden biridir. Ankara, tarihin derin sayfalarında önemli bir yer tutmuş, Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşımaktadır. Bu bölgenin coğrafi konumu, tarih boyunca çeşitli medeniyetlerin ticaret ve yerleşim merkezi olmasını sağlamıştır.
 
 Doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların geleneksel geçim kaynakları arasında yer almıştır. Ayrıca, ticaret yollarının geçtiği bu bölgeler, farklı kültürlerin etkileşimine sahne olmuştur.
 

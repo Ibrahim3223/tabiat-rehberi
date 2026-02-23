@@ -1,7 +1,7 @@
 ---
 title: "Sinan-ı Erdebilî Türbesi"
 date: "2026-01-10T05:20:45.245Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391679"
 
 # Sinan-ı Erdebilî Türbesi
 
-Sinan-ı Erdebilî Türbesi, İstanbul'un Zeytinburnu ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Türbe, Sinan-ı Erdebilî adlı bir tarihi figura adanmıştır ve bölgenin önemli bir tarihi değeridir. Bu alan, hem tarihi açıdan hem de doğal güzelliği açısından ziyaretçilerini beklemektedir. Zeytinburnu'nun kalbinde yer alan bu türbe ve plaj, şehrin gürültüsünden kaçmak isteyenler için bir sığınak olarak hizmet vermektedir.
+Sinan-ı Erdebilî Türbesi, İstanbul'un Zeytinburnu ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. Türbe, Sinan-ı Erdebilî adlı bir tarihi figura adanmıştır ve bölgenin önemli bir tarihi değeridir. Bu alan, hem tarihi açıdan hem de doğal güzelliği açısından ziyaretçilerini beklemektedir. Zeytinburnu'nun kalbinde yer alan bu türbe ve plaj, şehrin gürültüsünden kaçmak isteyenler için bir sığınak olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sinan-ı Erdebilî Türbesi, tarihi geçmişi ile dikkat çeker. Bu türbenin ta
 
 ## Coğrafya
 
-Sinan-ı Erdebilî Türbesi ve plaj alanı, Marmara Bölgesi'nin en güzel noktalarından biridir. Bu bölge, Zeytinburnu ilçesinin sahil şeridinde yer alır ve denize sıfır bir konumda bulunmaktadır. Türbe ve plaj, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu bölge, şehrin merkezine yakın olmasına rağmen, doğal güzelliği ile dikkat çeker. Plaj alanı, denizin maviliği ve güneşin ışığı ile ziyaretçilerini cezbeder. Bölge, çeşitli bitki türleri ile zengin bir floranın ev sahibi olup, yaban hayatı açısından da önemlidir. Sinan-ı Erdebilî Türbesi ve plaj alanı, İstanbul'un en güzel ve önemli noktalarından biridir ve ziyaretçilerini beklemektedir.
+Sinan-ı Erdebilî Türbesi ve plaj alanı, Marmara Bölgesi'nin en güzel noktalarından biridir. Bu bölge, Zeytinburnu ilçesinin sahil şeridinde yer alır ve denize sıfır bir konumda bulunmaktadır. Bu bölge, şehrin merkezine yakın olmasına rağmen, doğal güzelliği ile dikkat çeker. Plaj alanı, denizin maviliği ve güneşin ışığı ile ziyaretçilerini cezbeder. Bölge, çeşitli bitki türleri ile zengin bir floranın ev sahibi olup, yaban hayatı açısından da önemlidir. Sinan-ı Erdebilî Türbesi ve plaj alanı, İstanbul'un en güzel ve önemli noktalarından biridir ve ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 

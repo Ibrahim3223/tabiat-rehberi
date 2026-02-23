@@ -22,7 +22,7 @@ wikidata_id: "Q108228820"
 
 # Akyatan Lagünü Sulak Alanı
 
-Akyatan Lagünü Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli sulak alanlarından biri olarak kabul ediliyor. Bu sulak alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Akyatan Lagünü Sulak Alanı, aynı zamanda birçok kuş türünün yaşam alanı olarak biliniyor. Bu bölge, doğal güzelliği ve biyolojik çeşitliliği ile ziyaretçilerini cezbediyor.
+Akyatan Lagünü Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu sulak alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Akyatan Lagünü Sulak Alanı, aynı zamanda birçok kuş türünün yaşam alanı olarak biliniyor. Bu bölge, doğal güzelliği ve biyolojik çeşitliliği ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

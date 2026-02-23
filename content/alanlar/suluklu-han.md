@@ -30,7 +30,7 @@ wikidata_id: "Q63349559"
 
 # Sülüklü Han
 
-Sülüklü Han, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. Sur ilçe merkezine uzun bir mesafe uzaklıkta bulunan bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Sülüklü Han, ziyaretçilerine doğal güzelliği, tarihi geçmişi ve zengin fauna ile birlikte unutulmaz bir deneyim sunuyor.
+Sülüklü Han, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. Sur ilçe merkezine uzun bir mesafe uzaklıkta bulunan bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. Sülüklü Han, ziyaretçilerine doğal güzelliği, tarihi geçmişi ve zengin fauna ile birlikte unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

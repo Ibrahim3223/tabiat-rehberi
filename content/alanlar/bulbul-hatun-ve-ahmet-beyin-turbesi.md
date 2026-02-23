@@ -1,7 +1,7 @@
 ---
 title: "Bülbül Hatun ve Ahmet Bey’in Türbesi"
 date: "2026-01-10T06:23:21.003Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391821"
 
 # Bülbül Hatun ve Ahmet Bey’in Türbesi
 
-Bülbül Hatun ve Ahmet Bey’in Türbesi, Karacabey, Bursa'da bulunan tarihi bir plajdır. Bu plaj, Marmara Bölgesi'nin en güzel ve tarihi yerlerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli bitki türleri bulunur. Plajın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmıştır. Bülbül Hatun ve Ahmet Bey’in Türbesi, Karacabey'in en önemli turistik mekanlarından biridir.
+Bülbül Hatun ve Ahmet Bey’in Türbesi, Karacabey, Bursa'da bulunan tarihi bir plajdır. Bu plaj, Marmara Bölgesi'nin en güzel ve tarihi yerlerinden biridir. Plajın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmıştır. Bülbül Hatun ve Ahmet Bey’in Türbesi, Karacabey'in en önemli turistik mekanlarından biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bülbül Hatun ve Ahmet Bey’in Türbesi'nin tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Bülbül Hatun ve Ahmet Bey’in Türbesi, Karacabey, Bursa'da bulunur. Plaj, Marmara Bölgesi'nin en güzel ve tarihi yerlerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli bitki türleri bulunur. Plajın iklimi, Marmara Bölgesi'nin iklimine benzer ve yazları sıcak, kışları soğuk geçer. Plajın çevresi, tarihi mekanlar ve doğal güzelliklerle çevrilidir. Karacabey'in merkezine yakın olan plaj, ulaşımı kolaydır. Plajda, çeşitli etkinlikler ve faaliyetler düzenlenmektedir. Ayrıca, plajın çevresinde birçok restoran ve kafe bulunur.
+Bülbül Hatun ve Ahmet Bey’in Türbesi, Karacabey, Bursa'da bulunur. Plaj, Marmara Bölgesi'nin en güzel ve tarihi yerlerinden biridir. Plajın iklimi, Marmara Bölgesi'nin iklimine benzer ve yazları sıcak, kışları soğuk geçer. Plajın çevresi, tarihi mekanlar ve doğal güzelliklerle çevrilidir. Karacabey'in merkezine yakın olan plaj, ulaşımı kolaydır. Plajda, çeşitli etkinlikler ve faaliyetler düzenlenmektedir. Ayrıca, plajın çevresinde birçok restoran ve kafe bulunur.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Bülbül Hatun ve Ahmet Bey’in Türbesi'ni ziyaret etmek, Karacabey'in en güz
 
 - Bülbül Hatun ve Ahmet Bey’in Türbesi, Karacabey'in en önemli turistik mekanlarından biridir.
 - Plaj, Marmara Bölgesi'nin en güzel ve tarihi yerlerinden biridir.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli bitki türleri bulunur.
+
 - Plajın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmıştır.
 - Plajda, birçok kuş türü ve diğer hayvanlar yaşar.

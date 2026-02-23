@@ -28,7 +28,7 @@ wikidata_id: "Q31553711"
 
 # Mehaddat Tepesi
 
-Mehaddat Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Batman'da yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Mehaddat Tepesi, aynı zamanda bölgenin coğrafi özellikleri ile dikkat çekiyor. Tepenin eteklerinde yer alan köyler, tarihi geçmişleri ve kültürel zenginlikleriyle ziyaretçilere benzersiz bir deneyim sunuyor.
+Mehaddat Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Batman'da yer alıyor. Mehaddat Tepesi, aynı zamanda bölgenin coğrafi özellikleri ile dikkat çekiyor. Tepenin eteklerinde yer alan köyler, tarihi geçmişleri ve kültürel zenginlikleriyle ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

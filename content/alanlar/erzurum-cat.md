@@ -23,7 +23,7 @@ wikidata_id: "Q108227394"
 
 # Erzurum-Cat
 
-Erzurum-Cat milli parkı, Doğu Anadolu Bölgesi'nin en güzel yerlerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet etmektedir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilir, doğanın güzelliğini keşfedebilirsiniz. Erzurum-Cat milli parkı, hem doğa severler hem de tarih meraklıları için bir cennet gibi görünmektedir.
+Erzurum-Cat milli parkı, Doğu Anadolu Bölgesi'nin en güzel yerlerinden biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilir, doğanın güzelliğini keşfedebilirsiniz. Erzurum-Cat milli parkı, hem doğa severler hem de tarih meraklıları için bir cennet gibi görünmektedir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Erzurum-Cat milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Erzurum-Cat milli parkı, Doğu Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Park, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu bölgenin coğrafyası, dağlar, vadiler ve nehirler ile şekillenmiştir. Parkın iklimi, karasal iklim özellikleri taşımakta ve dört mevsim ayrı ayrı yaşanmaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilir ve doğanın güzelliğini keşfedebilirsiniz. Erzurum-Cat milli parkı, coğrafi olarak zengin bir bölge ve ziyaretçilerini doğanın kucağına davet etmektedir.
+Erzurum-Cat milli parkı, Doğu Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Bu bölgenin coğrafyası, dağlar, vadiler ve nehirler ile şekillenmiştir. Parkın iklimi, karasal iklim özellikleri taşımakta ve dört mevsim ayrı ayrı yaşanmaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilir ve doğanın güzelliğini keşfedebilirsiniz. Erzurum-Cat milli parkı, coğrafi olarak zengin bir bölge ve ziyaretçilerini doğanın kucağına davet etmektedir.
 
 ## Flora ve Fauna
 
@@ -39,12 +39,12 @@ Erzurum-Cat milli parkı, çeşitli bitki türleri ve zengin fauna ile ziyaretç
 
 ## Ziyaret Bilgileri
 
-Erzurum-Cat milli parkını ziyaret etmek, doğa severler ve tarih meraklıları için bir fırsat gibi görünmektedir. Burada, nasıl gidilir, ne zaman gidilir ve ne yapılır gibi soruların cevaplarını bulabilirsiniz. Erzurum-Cat milli parkına ulaşım, karayolu ile sağlanmaktadır ve parka gelen ziyaretçiler, doğanın güzelliğini keşfedebilirler. Parkın içinde, çeşitli yürüyüş parkurları ve gözlem noktaları bulunmakta ve ziyaretçilere doğayı keşfetme fırsatı sunmaktadır.
+Erzurum-Cat milli parkını ziyaret etmek, doğa severler ve tarih meraklıları için bir fırsat gibi görünmektedir. Burada, nasıl gidilir, ne zaman gidilir ve ne yapılır gibi soruların cevaplarını bulabilirsiniz. Erzurum-Cat milli parkına ulaşım, karayolu ile sağlanmaktadır ve parka gelen ziyaretçiler, doğanın güzelliğini keşfedebilirler.
 
 ## İlginç Bilgiler
 
 - Erzurum-Cat milli parkı, 140 hektarlık bir alanı kaplamaktadır.
-- Parkın içinde, çeşitli yürüyüş parkurları ve gözlem noktaları bulunmakta ve ziyaretçilere doğayı keşfetme fırsatı sunmaktadır.
+
 - Erzurum-Cat milli parkı, doğa severler ve tarih meraklıları için bir cennet gibi görünmektedir.
 - Parkın fauna açısından zengin olması, birçok hayvan türünün burada yaşamasına olanak sağlamaktadır.
 - Erzurum-Cat milli parkı, coğrafi olarak zengin bir bölge ve ziyaretçilerini doğanın kucağına davet etmektedir.

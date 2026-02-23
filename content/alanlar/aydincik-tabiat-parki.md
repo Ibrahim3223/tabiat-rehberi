@@ -29,7 +29,7 @@ wikidata_id: "Q48791812"
 
 # Aydıncık Tabiat Parkı
 
-Aydıncık Tabiat Parkı, Mersin'in bir ilçesi olan Aydıncık'ta yer alan, 140 hektarlık geniş bir yeşil alana sahip doğa harikası bir bölgedir. Bu park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar. Aydıncık Tabiat Parkı, özellikle doğa severlerin ve piknik yapmak isteyenlerin tercih ettiği bir yerdir. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunur. Ayrıca, parkın çevresi, ziyaretçilere geniş ve ferah bir ortam sunar.
+Aydıncık Tabiat Parkı, Mersin'in bir ilçesi olan Aydıncık'ta yer alan, 140 hektarlık geniş bir yeşil alana sahip doğa harikası bir bölgedir. Aydıncık Tabiat Parkı, özellikle doğa severlerin ve piknik yapmak isteyenlerin tercih ettiği bir yerdir. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunur. Ayrıca, parkın çevresi, ziyaretçilere geniş ve ferah bir ortam sunar.
 
 ## Tarihçe
 

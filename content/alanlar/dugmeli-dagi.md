@@ -50,11 +50,11 @@ Mevsimsel açıdan, Düğmeli Dağı'nın bulunduğu bölge karasal iklim karakt
 
 ## Flora ve Fauna
 
-Düğmeli Dağı, Yozgat'ın kurak bozkır bölgesinde yer alan bir dağ ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Düğmeli Dağı, Yozgat'ın kurak bozkır bölgesinde yer alan bir dağ ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünden başlarsak; Düğmeli Dağı'nın flora'sı, step bitki örtüsü ve bozkır türleri ile karakterizedir. İlkbaharın başlangıcında, dağ yamaçları rengarenk çiçeklerle kaplanır. Step bitkileri, kuraklığa adapte olmuş türler ve otsu bitkiler hakimdir. 
+Bitki Örtüsü bölümünden başlarsak; Düğmeli Dağı'nın flora'sı, step bitki örtüsü ve bozkır türleri ile karakterizedir. İlkbaharın başlangıcında, dağ yamaçları rengarenk çiçeklerle kaplanır. Step bitkileri, kuraklığa adapte olmuş türler ve otsu bitkiler hakimdir.
 
-Yaban Hayatı bölümünde; dağda yaşayan memeliler, kuşlar ve sürüngenler görülebilir. Kış aylarında, dağda yaşayan bazı memeliler, daha düşük irtifalara inerken, bazı kuş türleri göç eder. Sürüngenler ve diğer küçük hayvanlar, dağın kayalık bölgelerinde yaşar. 
+Yaban Hayatı bölümünde; dağda yaşayan memeliler, kuşlar ve sürüngenler görülebilir. Kış aylarında, dağda yaşayan bazı memeliler, daha düşük irtifalara inerken, bazı kuş türleri göç eder. Sürüngenler ve diğer küçük hayvanlar, dağın kayalık bölgelerinde yaşar.
 
 Ekolojik Değer bölümünden bahsedecek olursak; Düğmeli Dağı, bölgenin ekolojik dengesini sağlayan önemli bir habitat alanıdır. Bu dağ ekosisteminin korunması, bölgedeki canlıların yaşamını sürdürmesi için gerekli olup, aynı zamanda bölgenin ekolojik değerini de korur.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388032"
 
 # Beşpelit Tepesi
 
-Beşpelit Tepesi, Kütahya'nın önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, Ege Bölgesi'nin coğrafi çeşitliliğini göstermesi açısından büyük önem taşıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türünü barındırıyor. Tepenin yüksekliği, çevreyi panoramik olarak seyretmek için ideal bir nokta sunuyor. Beşpelit Tepesi, hem doğa severler hem de tarih ve kültür meraklıları için bir çekim merkezi olarak görülüyor.
+Beşpelit Tepesi, Kütahya'nın önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, Ege Bölgesi'nin coğrafi çeşitliliğini göstermesi açısından büyük önem taşıyor. Tepenin yüksekliği, çevreyi panoramik olarak seyretmek için ideal bir nokta sunuyor. Beşpelit Tepesi, hem doğa severler hem de tarih ve kültür meraklıları için bir çekim merkezi olarak görülüyor.
 
 ## Tarihçe
 

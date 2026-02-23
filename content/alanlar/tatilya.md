@@ -28,11 +28,11 @@ wikidata_id: "Q6037020"
 
 # Tatilya
 
-Tatilya, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandan oluşur. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet gibidir. Tatilya, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve burada geçirilen her an, unutulmaz bir deneyim haline gelir. Bu régionun eşsiz güzelliği, ziyaretçilerini doğanın kucağına davet eder.
+Tatilya, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandan oluşur. Tatilya, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve burada geçirilen her an, unutulmaz bir deneyim haline gelir. Bu bölgenin eşsiz güzelliği, ziyaretçilerini doğanın kucağına davet eder.
 
 ## Tarihçe
 
-Tatilya'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, geçmişte çeşitli medeniyetlerin etkisi altında kalmış ve her biri, buraya özgü bir karakter kazandırmıştır. Tatilya, bir zamanlar küçük bir köy olarak kurulmuş ve zamanla, doğal güzelliği ve tarihi zenginliği nedeniyle, ziyaretçilerin ilgisini çekmeye başlamıştır. Regionun histórik geçmişi, günümüzde de hissedilir ve ziyaretçiler, buranınliğine ve gizemine hayran kalırlar. Tatilya'nın hikayesi, bir doğa harikasının, insanların yaşamına nasıl dokunduğunu anlatır.
+Tatilya'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, geçmişte çeşitli medeniyetlerin etkisi altında kalmış ve her biri, buraya özgü bir karakter kazandırmıştır. Tatilya, bir zamanlar küçük bir köy olarak kurulmuş ve zamanla, doğal güzelliği ve tarihi zenginliği nedeniyle, ziyaretçilerin ilgisini çekmeye başlamıştır. Regionun tarihi geçmişi, günümüzde de hissedilir ve ziyaretçiler, buranınliğine ve gizemine hayran kalırlar. Tatilya'nın hikayesi, bir doğa harikasının, insanların yaşamına nasıl dokunduğunu anlatır.
 
 ## Coğrafya
 

@@ -52,7 +52,7 @@ Mevsimsel açıdan, Hamzakalesi Burnu'nun iklimi Karadeniz'in karakteristik öze
 
 Hamzakalesi Burnu, Giresun'un nemli ikliminde yer alan bir kuş cenneti. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle süslenir. Gür ormanlar, yüksek biyoçeşitlilik sunar ve çeşitli bitki türlerine ev sahipliği yapar.
 
-Yaban hayatı da oldukça zengin. Mevsimsel göçler sırasında, birçok kuş türü buraya uğrar. Göçmen kuşlar, ormanların yüksek dallarında konaklar ve beslenir. Memeliler ve sürüngenler de bu ekosistemin bir parçası. 
+Yaban hayatı da oldukça zengin. Mevsimsel göçler sırasında, birçok kuş türü buraya uğrar. Göçmen kuşlar, ormanların yüksek dallarında konaklar ve beslenir. Memeliler ve sürüngenler de bu ekosistemin bir parçası.
 
 Bu bölgenin ekolojik değeri oldukça yüksek. Yüksek biyoçeşitlilik, nemli iklim ve gür ormanlar, birçok canlıyaşam alanı sağlar. Bu nedenle, koruma altına alınması büyük önem taşır.
 

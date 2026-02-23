@@ -28,7 +28,7 @@ wikidata_id: "Q31531178"
 
 # Aysekizi Tepesi
 
-Aysekizi Tepesi, Manisa ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe olarak karşımıza çıkıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevre ile uyumlu bir şekilde doğal güzelliğini koruyor. Bu tepe, doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olarak görülüyor. Aysekizi Tepesi, hem yaban hayatı hem de flora açısından zengin bir çeşitliliğe sahip. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerini ve doğal güzelliğini gözlemlemek için ziyaret edilebilir.
+Aysekizi Tepesi, Manisa ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe olarak karşımıza çıkıyor. Bu tepe, doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olarak görülüyor. Aysekizi Tepesi, hem yaban hayatı hem de flora açısından zengin bir çeşitliliğe sahip. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerini ve doğal güzelliğini gözlemlemek için ziyaret edilebilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Aysekizi Tepesi'nin tarihi geçmişi, yüzyıllar boyunca süregelen bir süreç
 
 ## Coğrafya
 
-Aysekizi Tepesi, Ege Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde tasarlanmış doğal bir güzellik olarak karşımıza çıkıyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Aysekizi Tepesi, Manisa ilinin sınırları içerisinde yer alıyor ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak görülüyor. Bu bölge, yaban hayatı ve flora açısından zengin bir çeşitliliğe sahip ve doğal güzelliği ile ziyaretçileri etkiliyor. Aysekizi Tepesi, çevre ile uyumlu bir şekilde tasarlanmış ve bu nedenle bu bölge, doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olarak kabul ediliyor.
+Aysekizi Tepesi, Ege Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde tasarlanmış doğal bir güzellik olarak karşımıza çıkıyor. Aysekizi Tepesi, Manisa ilinin sınırları içerisinde yer alıyor ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak görülüyor. Bu bölge, yaban hayatı ve flora açısından zengin bir çeşitliliğe sahip ve doğal güzelliği ile ziyaretçileri etkiliyor. Aysekizi Tepesi, çevre ile uyumlu bir şekilde tasarlanmış ve bu nedenle bu bölge, doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

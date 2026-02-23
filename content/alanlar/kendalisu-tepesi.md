@@ -28,7 +28,7 @@ wikidata_id: "Q31542460"
 
 # Kendalisu Tepesi
 
-Kendalisu Tepesi, Diyarbakır'ın güneyinde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevre ile doğal güzelliği ile dikkat çekiyor. Tepenin yüksekliği ve konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Bu tepe, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbediyor.
+Kendalisu Tepesi, Diyarbakır'ın güneyinde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği ve konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Bu tepe, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

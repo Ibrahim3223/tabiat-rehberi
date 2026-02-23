@@ -29,7 +29,7 @@ wikidata_id: "Q134728327"
 
 # Bin Tepeler Tümülüsü 41
 
-Bin Tepeler Tümülüsü 41, Ege Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için bir hazine. Manisa'nın Salihli ilçesinde yer alan bu tarihi alan, yaklaşık 140 hektarlık bir büyüklüğe sahip. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin derinliklerine götürmeye hazırlanıyor. Bin Tepeler Tümülüsü 41, geçmişin gizemini ve ihtişamını keşfetmek isteyenler için ideal bir destinasyon.
+Bin Tepeler Tümülüsü 41, Ege Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için bir hazine. Manisa'nın Salihli ilçesinde yer alan bu tarihi alan, yaklaşık 140 hektarlık bir büyüklüğe sahip. Bin Tepeler Tümülüsü 41, geçmişin gizemini ve ihtişamını keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 41'in tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 41, Ege Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Manisa'nın Salihli ilçesinde bulunan bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve ziyaretçilerini tarihin derinliklerine götürmeye hazırlanıyor. Bu bölge, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlık ve engebeli bir coğrafyaya sahip ve iklimi, Ege Bölgesi'nin genel iklimine benzer. Bin Tepeler Tümülüsü 41, ziyaretçilerini bu coğrafi güzelliklerin arasında, tarihin ihtişamını keşfetmeye davet ediyor.
+Bin Tepeler Tümülüsü 41, Ege Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Bu bölge, coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, dağlık ve engebeli bir coğrafyaya sahip ve iklimi, Ege Bölgesi'nin genel iklimine benzer. Bin Tepeler Tümülüsü 41, ziyaretçilerini bu coğrafi güzelliklerin arasında, tarihin ihtişamını keşfetmeye davet ediyor.
 
 ## Flora ve Fauna
 

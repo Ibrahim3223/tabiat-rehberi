@@ -28,7 +28,7 @@ wikidata_id: "Q32210839"
 
 # Kürtören Tepesi
 
-Kürtören Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde yer alan bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplamakta ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tarihi geçmişi ve coğrafi konumuyla önemli bir nokta olan Kürtören Tepesi, ziyaretçilerini bölgeye çekmektedir. Tepenin konumu, şehir merkezine yakınlığı ve doğal güzelliği, bu bölgenin değerini artırmaktadır.
+Kürtören Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde yer alan bir tepe olarak dikkat çekmektedir. Tarihi geçmişi ve coğrafi konumuyla önemli bir nokta olan Kürtören Tepesi, ziyaretçilerini bölgeye çekmektedir. Tepenin konumu, şehir merkezine yakınlığı ve doğal güzelliği, bu bölgenin değerini artırmaktadır.
 
 ## Tarihçe
 

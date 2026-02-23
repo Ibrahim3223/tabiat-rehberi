@@ -50,7 +50,7 @@ Mevsimler boyunca Hasanağa Tepe'nin iklimi, Van'ın genel iklim karakterini yan
 
 ## Flora ve Fauna
 
-Hasanağa Tepe, Van'ın yüksek dağ ekolojisinin tüm güzelliğini sunan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hasanağa Tepe, Van'ın yüksek dağ ekolojisinin tüm güzelliğini sunan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte çayırlar renkli bir hal alır. Çiçekler açar ve bölgeye renk katar. Sonbaharda ise bu çiçekler solar ve yerini otsu bitkilerin sarıya dönüşmesine bırakır.
 

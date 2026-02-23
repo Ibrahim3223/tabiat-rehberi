@@ -28,15 +28,15 @@ wikidata_id: "Q31385819"
 
 # Geyik Tepesi
 
-Geyik Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık geniş yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan doğal bir güzelliktir. Bu tepe, bölgeye özgü flora ve fauna çeşitliliği ile dikkat çekmekte ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Geyik Tepesi, özellikle doğa severler ve trekking tutkunları için bir cennet olarak kabul edilmektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin keyifle dolaşabilmesine olanak tanımaktadır.
+ Bu tepe, bölgeye özgü flora ve fauna çeşitliliği ile dikkat çekmekte ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Geyik Tepesi, özellikle doğa severler ve trekking tutkunları için bir cennet olarak kabul edilmektedir.
 
 ## Tarihçe
 
-Geyik Tepesi, tarihsel açıdan zengin bir geçmişe sahiptir. Bu tepenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır. Bölge, tarihi boyunca önemli bir yerleşim ve ticaret merkezi olarak görev yapmış ve farklı kültürlerin birleştiği bir nokta olmuştur. Geyik Tepesi, bugün bir doğa harikası olarak ziyaretçilerini ağırlamaktadır. Tarihin izlerini taşıyan bu tepe, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini büyülemektedir. Geyik Tepesi'nin tarihi geçmişi, ziyaretçilere bu özel noktayı keşfetme fırsatı sunmaktadır.
+Geyik Tepesi, tarihsel açıdan zengin bir geçmişe sahiptir. Bu tepenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır. Bölge, tarihi boyunca önemli bir yerleşim ve ticaret merkezi olarak görev yapmış ve farklı kültürlerin birleştiği bir nokta olmuştur. Geyik Tepesi, bugün bir doğa harikası olarak ziyaretçilerini ağırlamaktadır. Tarihin izlerini taşıyan bu tepe, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini büyülemektedir.
 
 ## Coğrafya
 
-Geyik Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer almaktadır. Bu tepe, coğrafi olarak zengin bir çeşitliliğe sahip bir bölgede bulunmaktadır. Bölgenin coğrafyası, genellikle yüksek tepeler ve geniş ovalardan oluşmaktadır. Geyik Tepesi, 140 hektarlık geniş yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamakta ve bu genişlik, ziyaretçilerin keyifle dolaşabilmesine olanak tanımaktadır. Tepenin coğrafi konumu, ziyaretçilere farklı mevsimlerde farklı güzellikler sunmaktadır. İlkbahar ve yaz aylarında yeşilin tüm tonlarını sergileyen tepe, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünmektedir. Geyik Tepesi'nin coğrafyası, ziyaretçilere doğanın tüm güzelliklerini sunmaktadır.
+Geyik Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer almaktadır. Bu tepe, coğrafi olarak zengin bir çeşitliliğe sahip bir bölgede bulunmaktadır. Bölgenin coğrafyası, genellikle yüksek tepeler ve geniş ovalardan oluşmaktadır. Tepenin coğrafi konumu, ziyaretçilere farklı mevsimlerde farklı güzellikler sunmaktadır. İlkbahar ve yaz aylarında yeşilin tüm tonlarını sergileyen tepe, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünmektedir. Geyik Tepesi'nin coğrafyası, ziyaretçilere doğanın tüm güzelliklerini sunmaktadır.
 
 ## Flora ve Fauna
 

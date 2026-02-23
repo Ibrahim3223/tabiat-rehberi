@@ -33,7 +33,7 @@ Türkiye'nin doğa harikalarından biri olan Mahmut Dağı, ziyaretçilerini bü
 
 ## Tarihçe
 
-Mahmut Dağı, Türkiye'nin zengin doğal mirasının bir parçası olarak dikkat çekiyor. Bu bölge, tarihin sâu sayfalarında yer alan çeşitli uygarlıkların izlerini taşıyor. Hitit, Pers, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada yaşamış ve bölgenin kültürel dokusunu şekillendirmişlerdir.
+Mahmut Dağı, Türkiye'nin zengin doğal mirasının bir parçası olarak dikkat çekiyor. Bu bölge, tarihin derin sayfalarında yer alan çeşitli uygarlıkların izlerini taşıyor. Hitit, Pers, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada yaşamış ve bölgenin kültürel dokusunu şekillendirmişlerdir.
 
 Doğal alanlar, Türkiye'nin tarihsel ve kültürel kimliğinde önemli bir yer tutuyor. Bu tür alanlar, insanların yaşamını sürdürdüğü, tarım ve hayvancılıkla uğraştığı, ticaret yollarının kesiştiği noktalardı. Mahmut Dağı da, bölgenin coğrafi konumu itibariyle, insan yerleşimlerinin ve ticari faaliyetlerin önemli bir merkezi olarak görev yapmış olabilir.
 

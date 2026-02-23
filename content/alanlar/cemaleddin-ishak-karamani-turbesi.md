@@ -1,7 +1,7 @@
 ---
 title: "Cemaleddin İshak Karamani Türbesi"
 date: "2026-01-10T07:17:48.616Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390965"
 
 # Cemaleddin İshak Karamani Türbesi
 
-Cemaleddin İshak Karamani Türbesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezi bölümünde bulunmaktadır. Bu türbe, aynı zamanda önemli bir kültürel miras olarak kabul edilmektedir. İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon oluşturmaktadır.
+Cemaleddin İshak Karamani Türbesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi bir yapıdır. Bu türbe, aynı zamanda önemli bir kültürel miras olarak kabul edilmektedir. İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon oluşturmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Cemaleddin İshak Karamani Türbesi'nin tarihi geçmişi, yüzyıllar boyunca İ
 
 ## Coğrafya
 
-Cemaleddin İshak Karamani Türbesi, İstanbul'un merkezi bölümünde, Beyoğlu'nda yer almaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli ulaşım noktalarına yakındır. Türbenin bulunduğu bölgede, çeşitli tarihi ve kültürel yapılar bulunmaktadır. İstanbul Boğazı'na yakın konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak sağlar. Bölge, yıl boyunca ziyaretçilerini ağırlamak için hazırdır ve İstanbul'un dört mevsim ziyaret edilebilecek bir destinasyon olması, burayı daha da çekici kılmaktadır.
+Cemaleddin İshak Karamani Türbesi, İstanbul'un merkezi bölümünde, Beyoğlu'nda yer almaktadır. Türbenin bulunduğu bölgede, çeşitli tarihi ve kültürel yapılar bulunmaktadır. İstanbul Boğazı'na yakın konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak sağlar. Bölge, yıl boyunca ziyaretçilerini ağırlamak için hazırdır ve İstanbul'un dört mevsim ziyaret edilebilecek bir destinasyon olması, burayı daha da çekici kılmaktadır.
 
 ## Flora ve Fauna
 

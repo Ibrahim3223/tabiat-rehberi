@@ -29,7 +29,7 @@ wikidata_id: "Q134728377"
 
 # Bin Tepeler Tümülüsü 17
 
-Bin Tepeler Tümülüsü 17, Manisa'nın Salihli ilçesinde bulunan ve tarihin derinliklerine uzanan bir geçmişe sahip olan bir arkeolojik alandır. Bu bölge, Ege Bölgesi'nin önemli kültürel merkezlerinden biri olarak kabul edilir. Bin Tepeler Tümülüsü 17, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere tarihin zenginliklerini keşfetme fırsatı sunar. Bin Tepeler Tümülüsü 17, tarihi geçmişi ve kültürel önemi ile dikkat çeker. Burada, ziyaretçiler tarihin izlerini takip edebilir ve bölgenin zengin geçmişini keşfedebilirler.
+Bin Tepeler Tümülüsü 17, Manisa'nın Salihli ilçesinde bulunan ve tarihin derinliklerine uzanan bir geçmişe sahip olan bir arkeolojik alandır. Bu bölge, Ege Bölgesi'nin önemli kültürel merkezlerinden biri olarak kabul edilir. Bu geniş alan, ziyaretçilere tarihin zenginliklerini keşfetme fırsatı sunar. Bin Tepeler Tümülüsü 17, tarihi geçmişi ve kültürel önemi ile dikkat çeker. Burada, ziyaretçiler tarihin izlerini takip edebilir ve bölgenin zengin geçmişini keşfedebilirler.
 
 ## Tarihçe
 

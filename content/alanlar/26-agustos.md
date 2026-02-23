@@ -23,7 +23,7 @@ wikidata_id: "Q108228108"
 
 # 26 Agustos
 
-26 Agustos milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu alan, ziyaretçilerine geniş ve güzel bir doğa deneyimi sunmaktadır. Milli park, çevresindeki yerleşim yerlerine göre daha yüksek bir konumda olup, bu özelliği sayesinde ziyaretçilerine geniş bir manzara sunar. Ayrıca, milli parkın içinde ve çevresinde çeşitli bitki türleri ve yaban hayatı bulunmaktadır.
+26 Agustos milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Milli park, çevresindeki yerleşim yerlerine göre daha yüksek bir konumda olup, bu özelliği sayesinde ziyaretçilerine geniş bir manzara sunar. Ayrıca, milli parkın içinde ve çevresinde çeşitli bitki türleri ve yaban hayatı bulunmaktadır.
 
 ## Tarihçe
 

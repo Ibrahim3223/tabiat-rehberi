@@ -1,7 +1,7 @@
 ---
 title: "Sultan Sarı Baba Türbesi"
 date: "2026-01-10T06:52:55.079Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390769"
 
 # Sultan Sarı Baba Türbesi
 
-Sultan Sarı Baba Türbesi, Denizli'nin Sarayköy ilçesinde bulunan önemli bir tarihi ve kültürel mekandır. Bu mekan, 140 hektarlık bir alanı kaplayan Sultan Sarı Baba Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Sultan Sarı Baba Türbesi, tarih ve kültür meraklılarının ziyaret ettiği önemli bir yerdir. Burada, tarihin izlerini taşıyan çeşitli yapılar ve tarihi eserler bulunmaktadır.
+Sultan Sarı Baba Türbesi, Denizli'nin Sarayköy ilçesinde bulunan önemli bir tarihi ve kültürel mekandır. Sultan Sarı Baba Türbesi, tarih ve kültür meraklılarının ziyaret ettiği önemli bir yerdir. Burada, tarihin izlerini taşıyan çeşitli yapılar ve tarihi eserler bulunmaktadır.
 
 ## Tarihçe
 

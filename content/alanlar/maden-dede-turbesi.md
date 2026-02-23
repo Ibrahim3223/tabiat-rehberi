@@ -1,7 +1,7 @@
 ---
 title: "Maden Dede Türbesi"
 date: "2026-01-10T05:34:56.557Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391382"
 
 # Maden Dede Türbesi
 
-Maden Dede Türbesi, Kastamonu ilinin merkezinde yer alan ve tarihi ile doğal güzellikleri birleştiren özel bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyük alan, ziyaretçilere geniş bir faaliyet alanı sunuyor. Tarihi geçmişi ile önemli birRoles oynayan bu mekan, aynı zamanda bölgenin coğrafi yapısını da yansıtıyor. Maden Dede Türbesi, doğal güzellikleri ve tarihi değerleri ile ziyaretçilerini bekliyor.
+Maden Dede Türbesi, Kastamonu ilinin merkezinde yer alan ve tarihi ile doğal güzellikleri birleştiren özel bir nokta. Tarihi geçmişi ile önemli birRoles oynayan bu mekan, aynı zamanda bölgenin coğrafi yapısını da yansıtıyor. Maden Dede Türbesi, doğal güzellikleri ve tarihi değerleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Maden Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve �
 
 ## Coğrafya
 
-Maden Dede Türbesi, Kastamonu ilinin coğrafi yapısını yansıtan önemli bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyük alan, ziyaretçilere geniş bir faaliyet alanı sunuyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli faaliyetler için uygun ortamlar sağlıyor. İklim, flora ve fauna, Maden Dede Türbesi'nin güzelliklerini daha da artırıyor. Ziyaretçiler, bu mekanın doğal güzelliklerini keşfetmek için çeşitli activities gerçekleştirebiliyor.
+Maden Dede Türbesi, Kastamonu ilinin coğrafi yapısını yansıtan önemli bir nokta. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli faaliyetler için uygun ortamlar sağlıyor. İklim, flora ve fauna, Maden Dede Türbesi'nin güzelliklerini daha da artırıyor. Ziyaretçiler, bu mekanın doğal güzelliklerini keşfetmek için çeşitli activities gerçekleştirebiliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Maden Dede Türbesi'ni ziyaret etmek, Kastamonu'nun tarihi ve doğal güzellikle
 ## İlginç Bilgiler
 
 - Maden Dede Türbesi, Kastamonu'nun en önemli tarihi mekanlarından biri.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölgenin coğrafi yapısı, ziyaretçilere çeşitli faaliyetler için uygun ortamlar sağlıyor.
 - Maden Dede Türbesi, çeşitli flora ve fauna türlerine ev sahipliği yapıyor.
 - Ziyaretçiler, mevsimsel değişimlere bağlı olarak, farklı flora ve fauna türleri ile karşılaşabiliyor.

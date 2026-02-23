@@ -22,7 +22,7 @@ wikidata_id: "Q108227219"
 
 # Mugla-Dalaman-Bahtiyar Sedir
 
-Mugla-Dalaman-Bahtiyar Sedir, Muğla'nın en güzel ve gizli cennetlerinden biri. Bu 140 hektarlık Sedir Adası, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en önemli turistik noktalarından biri. Adanın güzel plajları, berrak suları ve yemyeşil ormanları, ziyaretçilerine unutulmaz bir doğa deneyimi sunuyor. Sedir Adası, aynı zamanda tarihsel bir geçmişe sahip ve ada üzerinde çeşitli tarihi kalıntılar bulunmakta.
+Mugla-Dalaman-Bahtiyar Sedir, Muğla'nın en güzel ve gizli cennetlerinden biri. Sedir Adası, aynı zamanda tarihsel bir geçmişe sahip ve ada üzerinde çeşitli tarihi kalıntılar bulunmakta.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sedir Adası'nın tarihi geçmişi, yüzyıllar öncesine dayanmakta. Ada, çeş
 
 ## Coğrafya
 
-Mugla-Dalaman-Bahtiyar Sedir, Muğla'nın güneyinde, Ege Denizi'nde yer alan bir ada. Ada, 140 hektarlık bir alana sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Sedir Adası, güzel plajları, berrak suları ve yemyeşil ormanları ile ziyaretçilere bir doğa cenneti sunuyor. Ada, aynı zamanda önemli bir coğrafi konuma sahip ve ada, Ege Bölgesi'nin en önemli turistik noktalarından biri. Sedir Adası'nın iklimi, ılıman ve ziyaretçilere yıl boyunca güzel bir hava sunuyor. Ada, ziyaretçilere çeşitli doğa aktiviteleri sunuyor ve ada, doğa severlerin cenneti.
+Mugla-Dalaman-Bahtiyar Sedir, Muğla'nın güneyinde, Ege Denizi'nde yer alan bir ada. Sedir Adası, güzel plajları, berrak suları ve yemyeşil ormanları ile ziyaretçilere bir doğa cenneti sunuyor. Ada, aynı zamanda önemli bir coğrafi konuma sahip ve ada, Ege Bölgesi'nin en önemli turistik noktalarından biri. Sedir Adası'nın iklimi, ılıman ve ziyaretçilere yıl boyunca güzel bir hava sunuyor. Ada, ziyaretçilere çeşitli doğa aktiviteleri sunuyor ve ada, doğa severlerin cenneti.
 
 ## Flora ve Fauna
 

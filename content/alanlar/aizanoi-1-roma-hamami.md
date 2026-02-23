@@ -1,7 +1,7 @@
 ---
 title: "Aizanoi 1. Roma Hamamı"
 date: "2026-01-09T23:06:03.100Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738853"
 
 # Aizanoi 1. Roma Hamamı
 
-Aizanoi 1. Roma Hamamı, Ege Bölgesi'nin Kütahya ilinin Çavdarhisar ilçesinde yer alan tarihi bir yapıdır. Bu alan, Roma dönemine ait önemli bir yerleşim merkezinin kalıntılarını barındırmaktadır. Aizanoi, tarihi geçmişi ve kültürel zenginliği ile dikkat çekmektedir. 140 hektarlık bu tarihi alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarihi keşif alanı sunmaktadır. Aizanoi'nin tarihi önemi, Roma İmparatorluğu'nun Anadolu'daki varlığı ile yakından ilgilidir. Bu bölgede yapılan kazılar, Roma dönemine ait önemli eserleri gün ışığına çıkarmıştır.
+Aizanoi 1. Roma Hamamı, Ege Bölgesi'nin Kütahya ilinin Çavdarhisar ilçesinde yer alan tarihi bir yapıdır. Bu alan, Roma dönemine ait önemli bir yerleşim merkezinin kalıntılarını barındırmaktadır. Aizanoi, tarihi geçmişi ve kültürel zenginliği ile dikkat çekmektedir. Aizanoi'nin tarihi önemi, Roma İmparatorluğu'nun Anadolu'daki varlığı ile yakından ilgilidir. Bu bölgede yapılan kazılar, Roma dönemine ait önemli eserleri gün ışığına çıkarmıştır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Aizanoi 1. Roma Hamamı, Roma İmparatorluğu'nun Anadolu'da kurduğu önemli me
 
 ## Coğrafya
 
-Aizanoi 1. Roma Hamamı, Çavdarhisar ilçesinin merkezinde yer alır ve Ege Bölgesi'nin coğrafi olarak önemli bir bölgesindedir. Bu bölge, históri ve kültürel zenginliklerinin yanı sıra, coğrafi olarak da dikkat çekicidir. Aizanoi, Porsuk Çayı'nın yakınında kurulmuş ve tarihi boyunca su kaynaklarına yakın bir yerleşim olarak varlığını sürdürmüştür. Bölgenin coğrafi yapısı, tarihi yerleşimlerin kurulmasına elverişli şartlar sunmaktadır. Aizanoi 1. Roma Hamamı, 140 hektarlık bir alanda yer alan tarihi bir kompleksin parçasıdır. Bu kompleks, Roma dönemine ait çeşitli yapıları barındırmaktadır. Aizanoi'nin coğrafi konumu, tarihi boyunca ticaret ve kültür merkezliği açısından önemli bir role sahip olmuştur. Bölge, coğrafi olarak ılıman bir iklime sahiptir ve ziyaretçilere yıl boyunca çeşitli aktiviteler sunar. Aizanoi 1. Roma Hamamı, coğrafi ve tarihi açıdan önemli bir noktada yer almaktadır.
+Aizanoi 1. Roma Hamamı, Çavdarhisar ilçesinin merkezinde yer alır ve Ege Bölgesi'nin coğrafi olarak önemli bir bölgesindedir. Bu bölge, tarihi ve kültürel zenginliklerinin yanı sıra, coğrafi olarak da dikkat çekicidir. Aizanoi, Porsuk Çayı'nın yakınında kurulmuş ve tarihi boyunca su kaynaklarına yakın bir yerleşim olarak varlığını sürdürmüştür. Bölgenin coğrafi yapısı, tarihi yerleşimlerin kurulmasına elverişli şartlar sunmaktadır. Aizanoi 1. Roma Hamamı, 140 hektarlık bir alanda yer alan tarihi bir kompleksin parçasıdır. Bu kompleks, Roma dönemine ait çeşitli yapıları barındırmaktadır. Aizanoi'nin coğrafi konumu, tarihi boyunca ticaret ve kültür merkezliği açısından önemli bir role sahip olmuştur. Bölge, coğrafi olarak ılıman bir iklime sahiptir ve ziyaretçilere yıl boyunca çeşitli aktiviteler sunar. Aizanoi 1. Roma Hamamı, coğrafi ve tarihi açıdan önemli bir noktada yer almaktadır.
 
 ## Flora ve Fauna
 

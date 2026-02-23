@@ -1,7 +1,7 @@
 ---
 title: "Aziz Mahmud Hüdai Türbesi"
 date: "2026-01-10T07:16:59.938Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390961"
 
 # Aziz Mahmud Hüdai Türbesi
 
-Aziz Mahmud Hüdai Türbesi, İstanbul'un Üsküdar ilçesinde yer alan tarihi bir türbe ve çevresi. Bu önemli dini merkez, yüzyıllar boyunca birçok ziyaretçiyi ağırladı. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere huzurlu bir atmosfer sunuyor. Tarihi geçmişi ile dikkat çeken bu türbe, Üsküdar'ın önemli kültürel miraslarından biri olarak kabul ediliyor.
+Aziz Mahmud Hüdai Türbesi, İstanbul'un Üsküdar ilçesinde yer alan tarihi bir türbe ve çevresi. Bu önemli dini merkez, yüzyıllar boyunca birçok ziyaretçiyi ağırladı. Tarihi geçmişi ile dikkat çeken bu türbe, Üsküdar'ın önemli kültürel miraslarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

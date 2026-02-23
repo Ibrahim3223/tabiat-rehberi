@@ -1,7 +1,7 @@
 ---
 title: "Syedra Hamamı"
 date: "2026-01-09T23:33:53.987Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739113"
 
 # Syedra Hamamı
 
-Alanya'nın güneyinde yer alan Syedra Hamamı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu doğal güzellik, ziyaretçilerini tarihi ve coğrafi açıdan zengin bir deneyim bekliyor. Syedra Hamamı, Antalya'nın Akdeniz Bölgesi'nde yer alıyor ve tarihi geçmişi ile dikkat çekiyor. Konum itibariyle de önemli bir noktada yer alan Syedra Hamamı, ziyaretçilerini bekliyor.
+ Bu doğal güzellik, ziyaretçilerini tarihi ve coğrafi açıdan zengin bir deneyim bekliyor. Syedra Hamamı, Antalya'nın Akdeniz Bölgesi'nde yer alıyor ve tarihi geçmişi ile dikkat çekiyor. Konum itibariyle de önemli bir noktada yer alan Syedra Hamamı, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

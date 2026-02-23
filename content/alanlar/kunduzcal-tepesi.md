@@ -28,7 +28,7 @@ wikidata_id: "Q32205972"
 
 # Kunduzçal Tepesi
 
-Kunduzçal Tepesi, Sinop'un doğal güzelliklerinin başında gelen bir destinasyon. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Tepenin eteklerinde yeşilin her tonunu bulabilecek olan ziyaretçiler, aynı zamanda Karadeniz Bölgesi'nin karakteristik bitki örtüsünü gözlemleme fırsatını da buluyor. Kunduzçal Tepesi, hem doğa severler hem de şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktası.
+Kunduzçal Tepesi, Sinop'un doğal güzelliklerinin başında gelen bir destinasyon. Tepenin eteklerinde yeşilin her tonunu bulabilecek olan ziyaretçiler, aynı zamanda Karadeniz Bölgesi'nin karakteristik bitki örtüsünü gözlemleme fırsatını da buluyor. Kunduzçal Tepesi, hem doğa severler hem de şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 

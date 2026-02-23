@@ -1,7 +1,7 @@
 ---
 title: "Kale Hamamı"
 date: "2026-01-09T22:17:41.217Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırklareli"
@@ -30,7 +30,7 @@ wikidata_id: "Q131555490"
 
 # Kale Hamamı
 
-Kırklareli'nin Vize ilçesinde yer alan Kale Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir faaliyet alanı sunuyor. Kale Hamamı, tarihi kale kalıntıları ve doğal güzellikleri ile bir araya gelerek ziyaretçilerini cezbediyor. Burada, denizin serinliği ve güneşin sıcaklığını bir arada hissedebilirsiniz. Kale Hamamı, hem tarihi hem de doğal güzelliklerin bir arada bulunabileceği ender yerlerden biri olarak dikkat çekiyor.
+Kırklareli'nin Vize ilçesinde yer alan Kale Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor. Kale Hamamı, tarihi kale kalıntıları ve doğal güzellikleri ile bir araya gelerek ziyaretçilerini cezbediyor. Burada, denizin serinliği ve güneşin sıcaklığını bir arada hissedebilirsiniz. Kale Hamamı, hem tarihi hem de doğal güzelliklerin bir arada bulunabileceği ender yerlerden biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kale Hamamı, tarihi geçmişi ile dikkat çekiyor. Bu bölgede, yüzyıllar boy
 
 ## Coğrafya
 
-Kale Hamamı, Marmara Bölgesi'nin güzel bir köşesinde yer alıyor. Bu bölge, coğrafi konumu itibariyle Karadeniz ve Marmara Denizi arasında bir geçit görevi görüyor. Kale Hamamı, Vize ilçesinin merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli faaliyetler sunuyor. Burada, denize girme, güneşlenme, doğa yürüyüşleri ve tarihi kaleleri gezip keşfetme gibi birçok aktivite melakukan mümkün. Kale Hamamı, ziyaretçilerine geniş ve yeşil alanlar sunuyor ve doğa ile iç içe bir deneyim sunuyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve ziyaretçilere geniş bir faaliyet alanı sunuyor.
+Kale Hamamı, Marmara Bölgesi'nin güzel bir köşesinde yer alıyor. Bu bölge, coğrafi konumu itibariyle Karadeniz ve Marmara Denizi arasında bir geçit görevi görüyor. Kale Hamamı, Vize ilçesinin merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli faaliyetler sunuyor. Burada, denize girme, güneşlenme, doğa yürüyüşleri ve tarihi kaleleri gezip keşfetme gibi birçok aktivite melakukan mümkün. Kale Hamamı, ziyaretçilerine geniş ve yeşil alanlar sunuyor ve doğa ile iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

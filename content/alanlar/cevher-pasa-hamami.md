@@ -1,7 +1,7 @@
 ---
 title: "Cevher Paşa Hamamı"
 date: "2026-01-09T23:33:19.878Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739090"
 
 # Cevher Paşa Hamamı
 
-Cevher Paşa Hamamı, Ege Bölgesi'nin Kale/Denizli ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Bu tarihi hamam, bölgenin önemli kültürel miraslarından biri olarak kabul ediliyor. Cevher Paşa Hamamı, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Çevresinde bulunan yeşillik alanlar ve su kaynakları, ziyaretçilere huzur verici bir ortam sunuyor.
+Cevher Paşa Hamamı, Ege Bölgesi'nin Kale/Denizli ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir alandır. Bu tarihi hamam, bölgenin önemli kültürel miraslarından biri olarak kabul ediliyor. Cevher Paşa Hamamı, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Çevresinde bulunan yeşillik alanlar ve su kaynakları, ziyaretçilere huzur verici bir ortam sunuyor.
 
 ## Tarihçe
 

@@ -52,11 +52,11 @@ Sığırcıklar Adası, Ege Denizi'nin zengin su kaynaklarına ve çeşitli ekos
 
 ## Flora ve Fauna
 
-Sığırcıklar Adası, Mikonos belediyesinin bir parçası olarak, step bitki örtüsü ve bozkırın karakteristik özelliklerini taşıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sığırcıklar Adası, Mikonos belediyesinin bir parçası olarak, step bitki örtüsü ve bozkırın karakteristik özelliklerini taşıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-İlkbaharın gelmesiyle birlikte, ada çiçeklerle kaplanıyor. Step bitkileri, kuraklığa adapte olmuş türler, adanın hakim bitki örtüsünü oluşturuyor. Kıyı bitkileri, ada kıyılarını süslüyor. 
+İlkbaharın gelmesiyle birlikte, ada çiçeklerle kaplanıyor. Step bitkileri, kuraklığa adapte olmuş türler, adanın hakim bitki örtüsünü oluşturuyor. Kıyı bitkileri, ada kıyılarını süslüyor.
 
-Yaban hayatı, deniz kuşları ve kıyı bitkileri ile birlikte, ada ekosisteminin önemli bir parçasını oluşturuyor. Kış aylarında, ada göçmen kuşların önemli bir uğrak noktası haline geliyor. 
+Yaban hayatı, deniz kuşları ve kıyı bitkileri ile birlikte, ada ekosisteminin önemli bir parçasını oluşturuyor. Kış aylarında, ada göçmen kuşların önemli bir uğrak noktası haline geliyor.
 
 Adanın ekolojik değeri, izole popülasyonlar ve deniz kuşlarının yaşam alanı olması nedeniyle oldukça yüksek. Bu nedenle, adanın koruma durumu da çok önemli.
 

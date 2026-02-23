@@ -52,9 +52,9 @@ Hava durumu açısından, Karyol Dağı ve çevresinin iklimi, Karadeniz Bölges
 
 Karyol Dağı, Artvin'in nemli ikliminin hâkim olduğu bir bölge olarak, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çekiyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı flora ve fauna çeşitliliği göze çarpıyor.
 
-Bitki örtüsünde, ilkbahar aylarında renkli çiçekler açarken, sonbaharda ormanlar altın sarısı bir görünüm kazanıyor. Dağın yüksek kesimlerinde, alpin flora hakimken, daha alçak kesimlerde geniş yapraklı ağaçlar ve çalılar bulunuyor. 
+Bitki örtüsünde, ilkbahar aylarında renkli çiçekler açarken, sonbaharda ormanlar altın sarısı bir görünüm kazanıyor. Dağın yüksek kesimlerinde, alpin flora hakimken, daha alçak kesimlerde geniş yapraklı ağaçlar ve çalılar bulunuyor.
 
-Yaban hayatı açısından, memeliler ve kuşlar bu bölgede oldukça zengin bir çeşitlilik gösteriyor. Göç mevsimlerinde, çeşitli kuş türleri bu dağları geçiş noktası olarak kullanıyor. Sürüngenler de dağların kayalık ve taşlık alanlarında yaşamını sürdürüyor. 
+Yaban hayatı açısından, memeliler ve kuşlar bu bölgede oldukça zengin bir çeşitlilik gösteriyor. Göç mevsimlerinde, çeşitli kuş türleri bu dağları geçiş noktası olarak kullanıyor. Sürüngenler de dağların kayalık ve taşlık alanlarında yaşamını sürdürüyor.
 
 Bu dağ ekosisteminin ekolojik değeri, yüksek biyoçeşitlili ve doğal yaşam alanlarının korunması açısından oldukça önemlidir. Bu nedenle, koruma altına alınması ve sürdürülebilir kullanımının sağlanması büyük bir önem taşıyor.
 

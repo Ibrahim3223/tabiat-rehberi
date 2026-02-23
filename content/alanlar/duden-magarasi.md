@@ -49,9 +49,9 @@ Düden Mağarası'nın bulunduğu bölge, su kaynakları açısından da zengin 
 
 ## Flora ve Fauna
 
-Düden Mağarası, Antalya'nın maki bitki örtüsüne ev sahipliği yapan bir jeoparktır. Bu bölgenin flora ve faunası, kuraklığa dayanıklı türlerin hakim olduğu bir ekosistem tarafından şekillenir. İlkbaharın gelmesiyle birlikte, maki bitki örtüsü rengarenk çiçeklerle donanır ve mağaranın girişini süsler. 
+Düden Mağarası, Antalya'nın maki bitki örtüsüne ev sahipliği yapan bir jeoparktır. Bu bölgenin flora ve faunası, kuraklığa dayanıklı türlerin hakim olduğu bir ekosistem tarafından şekillenir. İlkbaharın gelmesiyle birlikte, maki bitki örtüsü rengarenk çiçeklerle donanır ve mağaranın girişini süsler.
 
-Yaban hayatı, bu ekosistemin önemli bir parçasını oluşturur. Orman memelileri, mağaranın yakınlarında yaşamını sürdürürken, çeşitli kuş türleri bu bölgede yuvalarını kurar. Sonbaharda, göç eden kuşlar bu bölgeyi ziyaret eder ve mağaranın etrafındaki ağaçlarda konaklar. 
+Yaban hayatı, bu ekosistemin önemli bir parçasını oluşturur. Orman memelileri, mağaranın yakınlarında yaşamını sürdürürken, çeşitli kuş türleri bu bölgede yuvalarını kurar. Sonbaharda, göç eden kuşlar bu bölgeyi ziyaret eder ve mağaranın etrafındaki ağaçlarda konaklar.
 
 Düden Mağarası, ekolojik değer açısından oldukça önemlidir. Bu bölge, maki bitki örtüsünün korunması ve sürdürülmesi için önemli bir alan teşkil eder. Mağaranın ve çevresinin korunması, bu ekosistemin devamı için hayati önem taşır.
 

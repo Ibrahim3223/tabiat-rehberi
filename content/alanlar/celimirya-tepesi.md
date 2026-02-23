@@ -28,7 +28,7 @@ wikidata_id: "Q34828905"
 
 # Çelimirya Tepesi
 
-Hakkari'nin görkemli doğası, Çelimirya Tepesi'ne ev sahipliği yapıyor. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve bu boyutlar, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Çelimirya Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, huzurlu bir atmosfer sunuyor. Burada, doğa yürüyüşleri yapabilir, çevreyi keşfedebilir ve doğanın tadını çıkarabilirsiniz. Çelimirya Tepesi, Hakkari'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Hakkari'nin görkemli doğası, Çelimirya Tepesi'ne ev sahipliği yapıyor. Çelimirya Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, huzurlu bir atmosfer sunuyor. Burada, doğa yürüyüşleri yapabilir, çevreyi keşfedebilir ve doğanın tadını çıkarabilirsiniz. Çelimirya Tepesi, Hakkari'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hakkari'nin görkemli doğası, Çelimirya Tepesi'ne ev sahipliği yapıyor. Bu 
 
 ## Coğrafya
 
-Çelimirya Tepesi, Hakkari'nin coğrafi yapısının önemli bir parçasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu boyutlar, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Çelimirya Tepesi, doğu-batı yönünde uzanan bir tepe olarak, ziyaretçilerine farklı coğrafi noktaları keşfetme fırsatı sunuyor. Tepenin yamacında, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu bitkiler, tepeye renkli bir görünüm kazandırıyor. Çelimirya Tepesi, Hakkari'nin coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul ediliyor. Burada, ziyaretçiler, tepeye tırmanarak, çevreyi keşfedebilir ve doğanın güzelliğini yakından inceleyebilirler.
+Çelimirya Tepesi, Hakkari'nin coğrafi yapısının önemli bir parçasıdır. Çelimirya Tepesi, doğu-batı yönünde uzanan bir tepe olarak, ziyaretçilerine farklı coğrafi noktaları keşfetme fırsatı sunuyor. Tepenin yamacında, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu bitkiler, tepeye renkli bir görünüm kazandırıyor. Çelimirya Tepesi, Hakkari'nin coğrafi güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul ediliyor. Burada, ziyaretçiler, tepeye tırmanarak, çevreyi keşfedebilir ve doğanın güzelliğini yakından inceleyebilirler.
 
 ## Flora ve Fauna
 

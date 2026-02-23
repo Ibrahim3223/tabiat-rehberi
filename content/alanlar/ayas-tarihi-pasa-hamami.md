@@ -1,7 +1,7 @@
 ---
 title: "Ayaş Tarihi Paşa Hamamı"
 date: "2026-01-09T22:51:35.582Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara Vilayeti"
@@ -45,7 +45,7 @@ Ayaş Tarihi Paşa Hamamı'nın bulunduğu region, çeşitli flora ve fauna tür
 
 ## Ziyaret Bilgileri
 
-Ayaş Tarihi Paşa Hamamı'nı ziyaret etmek, bölgenin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir etkinliktir. Hamama ulaşım, Ankara'nın merkezi noktalarından kolaylıkla sağlanabilmektedir. Ziyaretçiler, hamamın tarihi atmosferini keşfetme ve bölgenin doğal güzelliklerini görmek için ideal bir oportunite bulmaktadırlar. Ayaş Paşa Hamamı'nı ziyaret etmek, ziyaretçilere bölgenin kültürel ve tarihi değerlerini keşfetme fırsatı sunmaktadır.
+Ayaş Tarihi Paşa Hamamı'nı ziyaret etmek, bölgenin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir etkinliktir. Hamama ulaşım, Ankara'nın merkezi noktalarından kolaylıkla sağlanabilmektedir. Ziyaretçiler, hamamın tarihi atmosferini keşfetme ve bölgenin doğal güzelliklerini görmek için ideal bir oportunite bulmaktadırlar.
 
 ## İlginç Bilgiler
 

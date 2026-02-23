@@ -23,7 +23,7 @@ wikidata_id: "Q108227042"
 
 # Yedigoller
 
-Yedigoller, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak ziyaretçilerini ağırlayan bir milli parktır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, göllerinin güzelliği ve çevreleyen ormanların yeşilliğiyle dikkat çekmektedir. Burada, doğa ile iç içe bir gün geçirme ve bölgenin eşsiz güzelliklerini keşfetme mümkündür. Yedigoller, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çekmektedir. Bölge, farklı mevsimlerde farklı güzellikler sunmaktadır. İlkbahar ve yaz aylarında yeşilin tonlarını görme mümkündürken, sonbahar ve kış aylarında göllerin ve çevrenin başka bir güzelliği ortaya çıkmaktadır.
+Yedigoller, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak ziyaretçilerini ağırlayan bir milli parktır. Burada, doğa ile iç içe bir gün geçirme ve bölgenin eşsiz güzelliklerini keşfetme mümkündür. Yedigoller, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çekmektedir. Bölge, farklı mevsimlerde farklı güzellikler sunmaktadır. İlkbahar ve yaz aylarında yeşilin tonlarını görme mümkündürken, sonbahar ve kış aylarında göllerin ve çevrenin başka bir güzelliği ortaya çıkmaktadır.
 
 ## Tarihçe
 

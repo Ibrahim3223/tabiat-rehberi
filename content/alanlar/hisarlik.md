@@ -1,7 +1,7 @@
 ---
 title: "Hisarlık"
 date: "2026-01-10T08:19:27.779Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q2261221"
 
 # Hisarlık
 
-Hisarlık, Çanakkale'nin merkezinde yer alan ve şehrin tarihi zenginliklerini barındıran önemli bir nokta. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin coğrafi yapısını anlamak için ideal bir gözlem noktası. Hisarlık, aynı zamanda Çanakkale'nin stratejik konumu nedeniyle históriki bir öneme sahip. Bu tepe, şehrin panoramik manzarasını sunarken, aynı zamanda Marmara Denizi'ne uzanan güzel bir görünüm sunuyor. Hisarlık'a çıkan ziyaretçiler, hem şehrin hem de çevrenin güzelliğini keşfedebilirler.
+Hisarlık, Çanakkale'nin merkezinde yer alan ve şehrin tarihi zenginliklerini barındıran önemli bir nokta. Hisarlık, aynı zamanda Çanakkale'nin stratejik konumu nedeniyle tarihi bir öneme sahip. Bu tepe, şehrin panoramik manzarasını sunarken, aynı zamanda Marmara Denizi'ne uzanan güzel bir görünüm sunuyor. Hisarlık'a çıkan ziyaretçiler, hem şehrin hem de çevrenin güzelliğini keşfedebilirler.
 
 ## Tarihçe
 
@@ -53,4 +53,4 @@ Hisarlık, ziyaretçiler için önemli bir gezi noktası. Bu tepeye çıkanlar, 
 - Bu tepe, şehrin tarihi ve coğrafi zenginliklerini barındırıyor
 - Hisarlık, Marmara Denizi'ne uzanan güzel bir manzaraya sahip
 - Bu tepe, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip
-- Hisarlık, Çanakkale'nin stratejik konumu nedeniyle históriki bir öneme sahip
+- Hisarlık, Çanakkale'nin stratejik konumu nedeniyle tarihi bir öneme sahip

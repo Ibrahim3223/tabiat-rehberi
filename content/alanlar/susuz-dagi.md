@@ -28,11 +28,11 @@ wikidata_id: "Q34933142"
 
 # Susuz Dağı
 
-Çanakkale'nin histórik topraklarında yer alan Susuz Dağı, doğa severlerin keşfetmeye hazırlandığı bir bölge. Bu dağ, Çanakkale'nin eşsiz manzaralarına ev sahipliği yapmakta. Susuz Dağı, özellikle yerel turistlerin ilgisini çekmekte. Çanakkale'nin doğal güzellikleri arasında önemli bir yere sahip.
+Çanakkale'nin tarihi topraklarında yer alan Susuz Dağı, doğa severlerin keşfetmeye hazırlandığı bir bölge. Bu dağ, Çanakkale'nin eşsiz manzaralarına ev sahipliği yapmakta. Susuz Dağı, özellikle yerel turistlerin ilgisini çekmekte. Çanakkale'nin doğal güzellikleri arasında önemli bir yere sahip.
 
 ## Tarihçe
 
-Çanakkale bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşamına ev sahipliği yapmış önemli bir coğrafyadır. Bu bölge, Troya'nın efsanevi topraklarına ve históriki Gelibolu Yarımadası'na ev sahipliği yapmasıyla bilinir. Susuz Dağı da bu tarihsel coğrafyanın bir parçasıdır.
+Çanakkale bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşamına ev sahipliği yapmış önemli bir coğrafyadır. Bu bölge, Troya'nın efsanevi topraklarına ve tarihi Gelibolu Yarımadası'na ev sahipliği yapmasıyla bilinir. Susuz Dağı da bu tarihsel coğrafyanın bir parçasıdır.
 
 Türkiye'nin doğal alanları, binlerce yıllık tarihinde önemli roller oynamıştır. Bunlar, yalnızca doğal güzellikleri ve biyolojik çeşitlilikleriyle değil, aynı zamanda insanların yaşamlarını sürdürdükleri, tarım ve hayvancılıkla uğraştıkları, ticaret yolları olarak kullandıkları alanlar olarak da tarihe tanıklık etmişlerdir. Yaylacılık ve hayvancılık, bölgede yaşayan halkın geleneksel faaliyetleri arasında yer almıştır. Bu doğal alanlar, aynı zamanda ticaret ve kültür alışverişinin yapıldığı önemli merkezler olarak da görev üstlenmişlerdir.
 

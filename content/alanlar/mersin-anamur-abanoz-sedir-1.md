@@ -22,7 +22,7 @@ wikidata_id: "Q108227217"
 
 # Mersin-Anamur-Abanoz Sedir 1
 
-Mersin-Anamur-Abanoz Sedir 1 milli parkı, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Bu milli park, hem doğa severler hem de tarih meraklıları için bir hazine. Parkın hikayesi, ziyaretçilerini geçmişe götürerek, bu bölgeye özel tarihi ve kültürel özellikler hakkında bilgi sahibi olmalarına olanak tanır.
+Mersin-Anamur-Abanoz Sedir 1 milli parkı, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Bu milli park, hem doğa severler hem de tarih meraklıları için bir hazine. Parkın hikayesi, ziyaretçilerini geçmişe götürerek, bu bölgeye özel tarihi ve kültürel özellikler hakkında bilgi sahibi olmalarına olanak tanır.
 
 ## Tarihçe
 

@@ -34,7 +34,7 @@ Diyarbakır'ın tarih ve kültür zenginliklerinin arasında yer alan Kılavuz D
 
 Diyarbakır bölgesi, tarihin derinliklerinden gelen bir geçmişe sahiptir. Bu topraklar, Medler, Persler, Romalılar ve Osmanlılar gibi uygarlıkların izlerini taşıyor. Kılavuz Dağı, bu zengin tarihsel bağlam içinde yer alıyor. Türkiye'de doğal alanlar, sadece güzellikleri ile değil, aynı zamanda tarihi ve kültürel önemi ile de dikkat çekiyorlar. Yaylacılık, hayvancılık ve ticaret yolları, insanları bu doğal güzelliklere yönlendiren etkenler arasında yer alıyor.
 
-Kılavuz Dağı ve benzeri doğal alanlar, bölgenin ekolojik dengesini korurken, aynı zamanda yerel halkın yaşam tarzını da biçimlendirmişlerdir. İnsanların bu alanlarla kurdukları ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahip. Bu dağların eteklerinde, tarih boyunca kurulan yerleşim yerleri ve ticaret merkezleri, bölgenin zenginli ve çeşitliliğini yansıtıyor. Kılavuz Dağı, Diyarbakır'ın tarihi ve kültürel mirasının bir parçasıdır ve bu bölgeyi ziyaret edenler, sadece doğal güzelliği değil, aynı zamanda derin bir tarihi ve kültürel expérience de yaşayabilirler.
+Kılavuz Dağı ve benzeri doğal alanlar, bölgenin ekolojik dengesini korurken, aynı zamanda yerel halkın yaşam tarzını da biçimlendirmişlerdir. İnsanların bu alanlarla kurdukları ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahip. Bu dağların eteklerinde, tarih boyunca kurulan yerleşim yerleri ve ticaret merkezleri, bölgenin zenginli ve çeşitliliğini yansıtıyor. Kılavuz Dağı, Diyarbakır'ın tarihi ve kültürel mirasının bir parçasıdır ve bu bölgeyi ziyaret edenler, sadece doğal güzelliği değil, aynı zamanda derin bir tarihi ve kültürel deneyim de yaşayabilirler.
 
 ## Coğrafya
 
@@ -48,7 +48,7 @@ Doğal kaynaklar açısından, Kılavuz Dağı ve çevresindeki bölge, su kayna
 
 ## Flora ve Fauna
 
-Kılavuz Dağı, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur. İlkbaharın gelmesiyle birlikte, dağ yamaçları çeşitli çiçeklerle renklenir ve step ekosisteminin karakteristik bitkileri görülür. 
+Kılavuz Dağı, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur. İlkbaharın gelmesiyle birlikte, dağ yamaçları çeşitli çiçeklerle renklenir ve step ekosisteminin karakteristik bitkileri görülür.
 
 Yaban hayatını oluşturan memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenleridir. Dağ keçileri ve yaban keçileri dağlık alanlarda yaşarken, çeşitli kuş türleri göç mevsimlerinde bu bölgeyi ziyaret eder. Sürüngenler ise, sıcak ve kurak bölgelerde daha çok görülür.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389091"
 
 # Aşağıkurt Tepesi
 
-Aşağıkurt Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Bingöl ilinin sınırları içerisinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Tepenin etrafı, çeşitli bitki türleriyle dolu ve yaban hayatı açısından oldukça zengin bir alana sahiptir. Aşağıkurt Tepesi, ziyaretçilerine hem doğa güzelliği hem de tarihi değerler sunan bir destinasyon olarak dikkat çekiyor.
+Aşağıkurt Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Bingöl ilinin sınırları içerisinde yer alıyor. Tepenin etrafı, çeşitli bitki türleriyle dolu ve yaban hayatı açısından oldukça zengin bir alana sahiptir. Aşağıkurt Tepesi, ziyaretçilerine hem doğa güzelliği hem de tarihi değerler sunan bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Aşağıkurt Tepesi, coğrafi konumu itibariyle oldukça özel bir bölgede yer 
 
 ## Flora ve Fauna
 
-Aşağıkurt Tepesi, flora ve fauna açısından oldukça zengin bir alana sahip. Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu bitkiler, mevsimsel değişimlere göre farklı bir güzelliğe sahip oluyor. Tepede yetişen bitkiler, bölgenin iklimine ve coğrafi yapısına uyum sağlamış durumda ve bu bitkiler, tepeyi ziyaret eden canlılar için önemli bir kaynak oluşturuyor. Tepenin faunai de oldukça zengin ve çeşitli hayvan türleri, bu bölgede yaşamlarını sürdürüyor. Tepede yaşayan hayvanlar, bölgenin ekolojik dengesini koruyor ve bu bölgeyi ziyaret etmek, yaban hayatının güzelliğini keşfetmek gibi bir hissiyat uyandırıyor.
+ Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu bitkiler, mevsimsel değişimlere göre farklı bir güzelliğe sahip oluyor. Tepede yetişen bitkiler, bölgenin iklimine ve coğrafi yapısına uyum sağlamış durumda ve bu bitkiler, tepeyi ziyaret eden canlılar için önemli bir kaynak oluşturuyor. Tepenin faunai de oldukça zengin ve çeşitli hayvan türleri, bu bölgede yaşamlarını sürdürüyor. Tepede yaşayan hayvanlar, bölgenin ekolojik dengesini koruyor ve bu bölgeyi ziyaret etmek, yaban hayatının güzelliğini keşfetmek gibi bir hissiyat uyandırıyor.
 
 ## Ziyaret Bilgileri
 

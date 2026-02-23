@@ -1,7 +1,7 @@
 ---
 title: "Mimar Ahmet Oğlu Mehmet Türbesi"
 date: "2026-01-10T05:13:23.777Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -45,7 +45,7 @@ Mimar Ahmet Oğlu Mehmet Türbesi, zengin flora ve fauna çeşitliliği ile dikk
 
 ## Ziyaret Bilgileri
 
-Mimar Ahmet Oğlu Mehmet Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için mükemmel bir fırsat sunuyor. Türbeye ulaşım, Çeşme merkezinden kolayca sağlanabiliyor ve türbenin yakınında bulunan otopark, ziyaretçilere araçlarını park etme imkanı sunuyor. Türbeye giriş, ücretsiz olup, ziyaretçiler, türbenin histórik dokusunu ve çevresindeki doğal güzellikleri keşfedebilir. Ziyaretçiler, türbenin tarihi ve kültürel önemi hakkında bilgi edinebilir ve çevresindeki doğal güzellikleri keşfedebilir. Ayrıca, türbenin yakınında bulunan restoran ve kafeler, ziyaretçilere yeme ve içecek imkanı sunuyor.
+Mimar Ahmet Oğlu Mehmet Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için mükemmel bir fırsat sunuyor. Türbeye ulaşım, Çeşme merkezinden kolayca sağlanabiliyor ve türbenin yakınında bulunan otopark, ziyaretçilere araçlarını park etme imkanı sunuyor. Türbeye giriş, ücretsiz olup, ziyaretçiler, türbenin tarihi dokusunu ve çevresindeki doğal güzellikleri keşfedebilir. Ziyaretçiler, türbenin tarihi ve kültürel önemi hakkında bilgi edinebilir ve çevresindeki doğal güzellikleri keşfedebilir. Ayrıca, türbenin yakınında bulunan restoran ve kafeler, ziyaretçilere yeme ve içecek imkanı sunuyor.
 
 ## İlginç Bilgiler
 

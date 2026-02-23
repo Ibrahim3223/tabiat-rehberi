@@ -29,7 +29,7 @@ wikidata_id: "Q134728180"
 
 # Akbayırlar Kaya Mezarları
 
-Akbayırlar Kaya Mezarları, Bilecik ilinin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir destinasyondur. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğal güzellikleri ve tarihi önemiyle birlikte, ziyaretçiler için önemli bir cazibe merkezi oluşturur. Akbayırlar Kaya Mezarları, Marmara Bölgesi'nin önemli kültürel ve tarihi miraslarından biri olarak kabul edilir.
+Akbayırlar Kaya Mezarları, Bilecik ilinin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir destinasyondur. Doğal güzellikleri ve tarihi önemiyle birlikte, ziyaretçiler için önemli bir cazibe merkezi oluşturur. Akbayırlar Kaya Mezarları, Marmara Bölgesi'nin önemli kültürel ve tarihi miraslarından biri olarak kabul edilir.
 
 ## Tarihçe
 

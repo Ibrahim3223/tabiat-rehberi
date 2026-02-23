@@ -28,7 +28,7 @@ wikidata_id: "Q35731296"
 
 # Büyükbel Tepesi
 
-Büyükbel Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Burada, yemyeşil ormanların içinde huzur bulabilir ve bölgenin zengin flora ve faunasını keşfedebilirsiniz. Büyükbel Tepesi, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennet. Bu bölge, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim farklı bir güzelliği sunuyor.
+Büyükbel Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan bir doğa harikası. Burada, yemyeşil ormanların içinde huzur bulabilir ve bölgenin zengin flora ve faunasını keşfedebilirsiniz. Büyükbel Tepesi, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennet. Bu bölge, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim farklı bir güzelliği sunuyor.
 
 ## Tarihçe
 

@@ -29,11 +29,11 @@ wikidata_id: "Q135582720"
 
 # Ahi Muhyiddin Zaviyesi
 
-Ahi Muhyiddin Zaviyesi, Tokat ilinin merkezinde, Karadeniz Bölgesi'nin en güzel doğal alanlarından birinde yer alır. Bu tarihi ve doğal güzelliğin birleştiği nokta, ziyaretçiler için önemli bir destinasyon olarak dikkat çekmektedir. Ahi Muhyiddin Zaviyesi, yaklaşık 140 hektarlık bir alan kaplar, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar.
+Ahi Muhyiddin Zaviyesi, Tokat ilinin merkezinde, Karadeniz Bölgesi'nin en güzel doğal alanlarından birinde yer alır. Bu tarihi ve doğal güzelliğin birleştiği nokta, ziyaretçiler için önemli bir destinasyon olarak dikkat çekmektedir. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar.
 
 ## Tarihçe
 
-Ahi Muhyiddin Zaviyesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir hikayeye sahiptir. Bu zaviye, Ahi Muhyiddin tarafından kurulmuş ve zamanla önemli bir dini ve kültürel merkez haline gelmiştir. Tarihi boyunca çeşitli restore işlemlerine tabi tutulan zaviye, günümüzde de önemli bir tarihi mekan olarak ziyaret edilmektedir. Zaviyenin tarihi, bölgenin kültürel ve dini yaşamına sâu şekilde etki etmiş ve birçok önemli olaya tanıklık etmiştir. Ahi Muhyiddin Zaviyesi, ziyaretçilere geçmişte yaşayan insanların yaşam tarzını, inançlarını ve kültürel değerlerini anlamak için önemli bir fırsat sunar.
+Ahi Muhyiddin Zaviyesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir hikayeye sahiptir. Bu zaviye, Ahi Muhyiddin tarafından kurulmuş ve zamanla önemli bir dini ve kültürel merkez haline gelmiştir. Tarihi boyunca çeşitli restore işlemlerine tabi tutulan zaviye, günümüzde de önemli bir tarihi mekan olarak ziyaret edilmektedir. Zaviyenin tarihi, bölgenin kültürel ve dini yaşamına derin şekilde etki etmiş ve birçok önemli olaya tanıklık etmiştir. Ahi Muhyiddin Zaviyesi, ziyaretçilere geçmişte yaşayan insanların yaşam tarzını, inançlarını ve kültürel değerlerini anlamak için önemli bir fırsat sunar.
 
 ## Coğrafya
 
@@ -41,7 +41,7 @@ Ahi Muhyiddin Zaviyesi, Tokat ilinin merkezinde, Karadeniz Bölgesi'nin en güze
 
 ## Flora ve Fauna
 
-Ahi Muhyiddin Zaviyesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri yaşamaktadır. Zaviye, ormanlık alanlarla çevrilidir ve bu ormanlarda birçok ağaç türü bulunmaktadır. Ayrıca, bu bölgede, çeşitli hayvan türleri de yaşamaktadır. Ziyaretçiler, bu bölgede, doğa yürüyüşleri yapabilir, bitki ve hayvan türlerini gözlemleyebilir ve bölgenin ekolojik dengesini deneyimleyebilir. Ahi Muhyiddin Zaviyesi, ziyaretçilere doğanın güzelliklerini keşfetme ve bölgenin ekolojik önemini anlamak için önemli bir fırsat sunar.
+ Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri yaşamaktadır. Zaviye, ormanlık alanlarla çevrilidir ve bu ormanlarda birçok ağaç türü bulunmaktadır. Ayrıca, bu bölgede, çeşitli hayvan türleri de yaşamaktadır. Ziyaretçiler, bu bölgede, doğa yürüyüşleri yapabilir, bitki ve hayvan türlerini gözlemleyebilir ve bölgenin ekolojik dengesini deneyimleyebilir. Ahi Muhyiddin Zaviyesi, ziyaretçilere doğanın güzelliklerini keşfetme ve bölgenin ekolojik önemini anlamak için önemli bir fırsat sunar.
 
 ## Ziyaret Bilgileri
 

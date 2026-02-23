@@ -28,7 +28,7 @@ wikidata_id: "Q31389493"
 
 # Heyikkalesi Tepe
 
-Güneydoğu Anadolu Bölgesi'nin kalbinde, Gaziantep ilinin zengin tarihi ve kültürel dokusuyla çevrili olan Heyikkalesi Tepe, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu tepe, bölgenin coğrafi ve tarihi önemini bir araya getiren bir nokta olarak dikkat çekiyor. Heyikkalesi Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri keşfetme fırsatı sunuyor. Tepe, bölgenin tarihi geçmişi hakkında önemli bilgiler sunarken, aynı zamanda doğal güzellikleriyle de ziyaretçilerini büyülüyor.
+ Bu tepe, bölgenin coğrafi ve tarihi önemini bir araya getiren bir nokta olarak dikkat çekiyor. Heyikkalesi Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri keşfetme fırsatı sunuyor. Tepe, bölgenin tarihi geçmişi hakkında önemli bilgiler sunarken, aynı zamanda doğal güzellikleriyle de ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Heyikkalesi Tepe'nin tarihi geçmişi, binlerce yıl öncesine dayanıyor. Bu te
 
 ## Coğrafya
 
-Heyikkalesi Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Tepe, bölgenin iklimini yansıtan çeşitli bitki türleri ile kaplıdır ve zengin fauna ile ziyaretçilerini karşılar. Coğrafi konumu itibariyle, bu tepe birçok farklı ekosistemi bir araya getiren bir bölge olarak dikkat çekiyor. Heyikkalesi Tepe, ziyaretçilerine bölgenin coğrafi güzelliklerini keşfetme fırsatı sunarken, aynı zamanda doğal yaşamın zenginliğini de gösteriyor. Bu tepe, bölgenin coğrafi ve ekolojik önemini vurgulayan bir destinasyon olarak bilinir.
+Heyikkalesi Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Tepe, bölgenin iklimini yansıtan çeşitli bitki türleri ile kaplıdır ve zengin fauna ile ziyaretçilerini karşılar. Coğrafi konumu itibariyle, bu tepe birçok farklı ekosistemi bir araya getiren bir bölge olarak dikkat çekiyor. Heyikkalesi Tepe, ziyaretçilerine bölgenin coğrafi güzelliklerini keşfetme fırsatı sunarken, aynı zamanda doğal yaşamın zenginliğini de gösteriyor. Bu tepe, bölgenin coğrafi ve ekolojik önemini vurgulayan bir destinasyon olarak bilinir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Heyikkalesi Tepe'yi ziyaret etmek, bölgenin tarihi ve doğal güzelliklerini ke
 ## İlginç Bilgiler
 
 - Heyikkalesi Tepe, bölgenin coğrafi ve tarihi önemini bir araya getiren bir nokta olarak bilinir.
-- Tepe, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar.
+
 - Bu tepe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her biri bu topraklara kendi kültürel ve tarihi izlerini bırakmışlardır.
 - Heyikkalesi Tepe, ziyaretçilerine hem tarihi hem de doğal güzelliklerinin keyfini çıkarma fırsatı sunar.
 - Tepe, bölgenin iklimini yansıtan çeşitli bitki türleri ile kaplıdır ve zengin fauna ile ziyaretçilerini karşılar.

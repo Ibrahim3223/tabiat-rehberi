@@ -1,7 +1,7 @@
 ---
 title: "Köprülü Mehmet Paşa Türbesi"
 date: "2026-01-10T07:45:52.094Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391170"
 
 # Köprülü Mehmet Paşa Türbesi
 
-Köprülü Mehmet Paşa Türbesi, İstanbul'un kalbi olan Fatih ilçesinde yer alan tarihi bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un en önemli tarihi bölgelerinden biri. Bu tarihi mekan, ziyaretçilerini İstanbul'un geçmişine götürerek, tarihin izlerini keşfetme fırsatı sunuyor. Köprülü Mehmet Paşa Türbesi, Türk mimarlık sanatının en güzel örneklerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Köprülü Mehmet Paşa Türbesi, İstanbul'un kalbi olan Fatih ilçesinde yer alan tarihi bir mekan. Bu tarihi mekan, ziyaretçilerini İstanbul'un geçmişine götürerek, tarihin izlerini keşfetme fırsatı sunuyor. Köprülü Mehmet Paşa Türbesi, Türk mimarlık sanatının en güzel örneklerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 

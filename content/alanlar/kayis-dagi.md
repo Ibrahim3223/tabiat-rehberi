@@ -49,11 +49,11 @@ Mevsimsel özelliklerine baktığımızda, Kayış Dağı, İstanbul'un genel ik
 
 ## Flora ve Fauna
 
-Kayış Dağı, İstanbul'un doğal güzelliklerini barındıran bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kayış Dağı, İstanbul'un doğal güzelliklerini barındıran bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, Kayış Dağı'nda hakim türler olarak karma ormanlar görülüyor. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, sonbaharda sarı, kahverengi ve kırmızının tonlarıyla renk cümbüşü yaşanır. 
+Bitki Örtüsü olarak, Kayış Dağı'nda hakim türler olarak karma ormanlar görülüyor. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, sonbaharda sarı, kahverengi ve kırmızının tonlarıyla renk cümbüşü yaşanır.
 
-Yaban Hayatı açısından, dağda various memeliler, kuşlar ve sürüngenler yaşar. Göçmen kuş rotası üzerinde yer alan Kayış Dağı, özellikle sonbaharda binlerce göçmen kuşa ev sahipliği yapar. 
+Yaban Hayatı açısından, dağda various memeliler, kuşlar ve sürüngenler yaşar. Göçmen kuş rotası üzerinde yer alan Kayış Dağı, özellikle sonbaharda binlerce göçmen kuşa ev sahipliği yapar.
 
 Ekolojik Değer olarak, Kayış Dağı'nın korunması büyük önem taşır. Dağın yükseklik zonları, alpin flora ve dağ hayvanları, bölge ekolojisini destekler ve İstanbul'un doğal dengesini korur.
 

@@ -49,7 +49,7 @@ Mevsimsel değişiklikler açısından, Kösedağ'ın bulunduğu bölge, karasal
 
 ## Flora ve Fauna
 
-Kösedağ'ın yüksek dağ ekosisteminde, flora ve fauna birbirleriyle sıkı bir ilişki içinde yaşar. İlkbaharın gelişiyle birlikte, 1200 hektarlık bu yeşil cennet, çeşitli alpin çiçeklerle renklenir. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen bitki türleriyle kaplıdır. 
+Kösedağ'ın yüksek dağ ekosisteminde, flora ve fauna birbirleriyle sıkı bir ilişki içinde yaşar. İlkbaharın gelişiyle birlikte, 1200 hektarlık bu yeşil cennet, çeşitli alpin çiçeklerle renklenir. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen bitki türleriyle kaplıdır.
 
 Yaban hayatı da bu dağ ekosisteminde önemli bir yer tutar. Dağ keçileri ve yaban keçileri, dik yamaçlarda ve kayalık alanlarda yaşar. Kuşlar, özellikle sonbaharda, göç ettikleri sırasında bu bölgeden geçer. Sürüngenler de, özellikle güneşli alanlarda, aktif bir hayat sürer.
 

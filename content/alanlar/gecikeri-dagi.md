@@ -50,10 +50,10 @@ Gecikeri Dağı, Mersin'in doğal güzelliklerine ev sahipliği yapan bir bölge
 
 ## Flora ve Fauna
 
-Gecikeri Dağı, Mersin'in kıyı şeridinde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü bölümünde, maki bitki örtüsünün hakimiyeti dikkat çekiyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Kuraklığa dayanıklı türler, özellikle yaz aylarında su kaynaklarının azaldığı dönemde hayati önem taşıyor. 
-Yaban Hayatı bölümünde, dağ ekosisteminin sunduğu yükseklik zonları, çeşitli memeli, kuş ve sürüngen türleri için yaşam alanı sağlıyor. Sonbahar aylarında, göç eden kuşlar dağları geçit olarak kullanıyor. 
-Ekolojik Değer bölümünde, Gecikeri Dağı'nın neden önemli olduğu ve koruma durumu ele alınıyor. Bu dağ ekosisteminin korunması, sadece yerel ekosistemi değil, aynı zamanda bölgesel ekolojiyi de bảoıyor.
+Gecikeri Dağı, Mersin'in kıyı şeridinde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü bölümünde, maki bitki örtüsünün hakimiyeti dikkat çekiyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Kuraklığa dayanıklı türler, özellikle yaz aylarında su kaynaklarının azaldığı dönemde hayati önem taşıyor.
+Yaban Hayatı bölümünde, dağ ekosisteminin sunduğu yükseklik zonları, çeşitli memeli, kuş ve sürüngen türleri için yaşam alanı sağlıyor. Sonbahar aylarında, göç eden kuşlar dağları geçit olarak kullanıyor.
+Ekolojik Değer bölümünde, Gecikeri Dağı'nın neden önemli olduğu ve koruma durumu ele alınıyor. Bu dağ ekosisteminin korunması, sadece yerel ekosistemi değil, aynı zamanda bölgesel ekolojiyi de korumaıyor.
 
 ## Ziyaret Bilgileri
 

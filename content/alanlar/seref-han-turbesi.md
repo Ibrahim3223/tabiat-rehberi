@@ -1,7 +1,7 @@
 ---
 title: "Şeref Han Türbesi"
 date: "2026-01-10T12:53:00.808Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bitlis"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391261"
 
 # Şeref Han Türbesi
 
-Şeref Han Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini barındıran önemli bir destinasyondur. Bitlis ilinin merkezinde yer alan bu tarihi yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şeref Han Türbesi, ziyaretçilerini tarihin sâuıklarına götürerek, geçmişin izlerini keşfetme fırsatı sunuyor. Bu türbe, aynı zamanda bölgenin önemli bir kültürel mirası olarak kabul ediliyor.
+Şeref Han Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini barındıran önemli bir destinasyondur. Şeref Han Türbesi, ziyaretçilerini tarihin derinıklarına götürerek, geçmişin izlerini keşfetme fırsatı sunuyor. Bu türbe, aynı zamanda bölgenin önemli bir kültürel mirası olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -45,12 +45,12 @@ wikidata_id: "Q131391261"
 
 ## Ziyaret Bilgileri
 
-Şeref Han Türbesi'ni ziyaret etmek, tarihin sâuıklarına inme ve kültürel zenginlikleri keşfetme fırsatı sunuyor. Ziyaretçiler, bu türbeyi ziyaret ederken, tarihin derinliklerine inebilir ve bölgenin doğal güzelliklerini keşfedebilir. Şeref Han Türbesi'ne ulaşım, çeşitli ulaşım araçları ile sağlanabilir. Ziyaretçiler, bu bölgede, çeşitli restoranlar ve konaklama tesisleri bulunmakta. Bu nedenle, ziyaretçiler, Şeref Han Türbesi'ni ziyaret ederken, konaklama ve yemek ihtiyaçlarını kolayca karşılayabilir.
+Şeref Han Türbesi'ni ziyaret etmek, tarihin derinıklarına inme ve kültürel zenginlikleri keşfetme fırsatı sunuyor. Ziyaretçiler, bu türbeyi ziyaret ederken, tarihin derinliklerine inebilir ve bölgenin doğal güzelliklerini keşfedebilir. Şeref Han Türbesi'ne ulaşım, çeşitli ulaşım araçları ile sağlanabilir. Ziyaretçiler, bu bölgede, çeşitli restoranlar ve konaklama tesisleri bulunmakta. Bu nedenle, ziyaretçiler, Şeref Han Türbesi'ni ziyaret ederken, konaklama ve yemek ihtiyaçlarını kolayca karşılayabilir.
 
 ## İlginç Bilgiler
 
 - Şeref Han Türbesi, yüzyıllar boyunca şekillenmiştir.
-- Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Bu bölge, coğrafi açıdan çeşitli dağlar, ovalar ve nehirlerle çevrili.
 - Şeref Han Türbesi'nin etrafında, çeşitli bitki türleri ve fauna bulunmakta.
 - Ziyaretçiler, bu bölgede, doğanın güzelliklerini ve tarihin derinliklerini keşfedebilir.

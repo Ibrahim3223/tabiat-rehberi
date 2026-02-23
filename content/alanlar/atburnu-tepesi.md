@@ -28,7 +28,7 @@ wikidata_id: "Q31387909"
 
 # Atburnu Tepesi
 
-Atburnu Tepesi, Doğu Anadolu Bölgesi'nin Iğdır ilinde bulunan ve bölgenin doğal güzelliklerini gözler önüne seren bir tepe olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Atburnu Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir destinasyon olarak öne çıkar.
+Atburnu Tepesi, Doğu Anadolu Bölgesi'nin Iğdır ilinde bulunan ve bölgenin doğal güzelliklerini gözler önüne seren bir tepe olarak dikkat çeker. Atburnu Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir destinasyon olarak öne çıkar.
 
 ## Tarihçe
 
@@ -40,16 +40,16 @@ Atburnu Tepesi, coğrafi konumu itibariyle Doğu Anadolu Bölgesi'nin karakteris
 
 ## Flora ve Fauna
 
-Atburnu Tepesi, flora ve fauna açısından oldukça zengin bir alandır. Bu tepe, çeşitli bitki türlerine ev sahipliği yapar ve bu bitki örtüsü, bölgenin iklimine uygun olarak şekillenmiştir. Atburnu Tepesi'nin etrafı, ağaçlar, çalılar ve diğer bitki türleriyle kaplıdır ve bu bitki örtüsü, bölgenin ekolojik dengesini korumada önemli bir rol oynar. Bu tepe, aynı zamanda, çeşitli hayvan türlerine de ev sahipliği yapar ve bu hayvanlar, bölgenin fauna yapısını oluşturur. Atburnu Tepesi, flora ve fauna açısından zengin bir alan olarak, ziyaretçilerin doğayla iç içe vakit geçirmelerine olanak tanır.
+ Bu tepe, çeşitli bitki türlerine ev sahipliği yapar ve bu bitki örtüsü, bölgenin iklimine uygun olarak şekillenmiştir. Atburnu Tepesi'nin etrafı, ağaçlar, çalılar ve diğer bitki türleriyle kaplıdır ve bu bitki örtüsü, bölgenin ekolojik dengesini korumada önemli bir rol oynar. Bu tepe, aynı zamanda, çeşitli hayvan türlerine de ev sahipliği yapar ve bu hayvanlar, bölgenin fauna yapısını oluşturur. Atburnu Tepesi, flora ve fauna açısından zengin bir alan olarak, ziyaretçilerin doğayla iç içe vakit geçirmelerine olanak tanır.
 
 ## Ziyaret Bilgileri
 
-Atburnu Tepesi, ziyaretçilerine doğanın güzelliği ile baş başa bırakmak için ideal bir destinasyon olarak öne çıkar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Atburnu Tepesi'ne gitmek için, Iğdır iline ulaşım sağlamak gerekir. Iğdır iline ulaşıldıktan sonra, Atburnu Tepesi'ne özel araç veya toplu taşıma araçları ile ulaşılabilir. Atburnu Tepesi, ziyaretçilerine doğayla iç içe vakit geçirmelerine olanak tanıyan bir alan olarak dikkat çeker.
+Atburnu Tepesi, ziyaretçilerine doğanın güzelliği ile baş başa bırakmak için ideal bir destinasyon olarak öne çıkar. Atburnu Tepesi'ne gitmek için, Iğdır iline ulaşım sağlamak gerekir. Iğdır iline ulaşıldıktan sonra, Atburnu Tepesi'ne özel araç veya toplu taşıma araçları ile ulaşılabilir. Atburnu Tepesi, ziyaretçilerine doğayla iç içe vakit geçirmelerine olanak tanıyan bir alan olarak dikkat çeker.
 
 ## İlginç Bilgiler
 
 - Atburnu Tepesi, Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çeker.
 - Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
-- Atburnu Tepesi, flora ve fauna açısından oldukça zengin bir alandır.
+
 - Bu tepe, çeşitli bitki türlerine ev sahipliği yapar.
 - Atburnu Tepesi, doğayla iç içe vakit geçirmek için ideal bir destinasyon olarak öne çıkar.

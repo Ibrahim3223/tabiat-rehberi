@@ -1,7 +1,7 @@
 ---
 title: "Köprühisar Hamamı"
 date: "2026-01-09T23:59:14.840Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245877"
 
 # Köprühisar Hamamı
 
-Köprühisar Hamamı, Bursa'nın Yenişehir ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki yeşil alanlarla birlikte doğa severler için bir cennet. Hamamın tarihi geçmişi, bölgenin kültür mirasının önemli bir parçası. Köprühisar Hamamı, hem tarihi merakı olanlar hem de doğa güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası.
+Köprühisar Hamamı, Bursa'nın Yenişehir ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir destinasyon. Hamamın tarihi geçmişi, bölgenin kültür mirasının önemli bir parçası. Köprühisar Hamamı, hem tarihi merakı olanlar hem de doğa güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası.
 
 ## Tarihçe
 

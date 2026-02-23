@@ -1,7 +1,7 @@
 ---
 title: "Kurd Baba Türbesi"
 date: "2026-01-10T07:00:50.384Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390787"
 
 # Kurd Baba Türbesi
 
-Kurd Baba Türbesi, Edirne'nin merkezinde bulunan ve Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olan bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunuyor. Bu güzel plaj, deniz severlerin ve doğaşığıların keyiflenebileceği bir yer. Kurd Baba Türbesi, aynı zamanda tarihi bir geçmişe sahip ve bu özelliği ile ziyaretçilerini cezbediyor. Plajın etrafında bulunan ağaçlar ve yeşillik, ziyaretçilere serin ve ferah bir ortam sunuyor.
+Kurd Baba Türbesi, Edirne'nin merkezinde bulunan ve Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olan bir plajdır. Bu güzel plaj, deniz severlerin ve doğaşığıların keyiflenebileceği bir yer. Kurd Baba Türbesi, aynı zamanda tarihi bir geçmişe sahip ve bu özelliği ile ziyaretçilerini cezbediyor. Plajın etrafında bulunan ağaçlar ve yeşillik, ziyaretçilere serin ve ferah bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kurd Baba Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu güzel plaj, yüzy�
 
 ## Coğrafya
 
-Kurd Baba Türbesi, Edirne'nin merkezinde bulunan bir plajdır. Bu plaj, Marmara Bölgesi'nin en güzel plajlarından biri olarak biliniyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunuyor. Plajın etrafında bulunan dağlar ve tepeler, ziyaretçilere güzel bir manzara sunuyor. Kurd Baba Türbesi, aynı zamanda deniz suyu kalitesi ile dikkat çekiyor ve bu özelliği ile ziyaretçilerini cezbediyor. Plajın etrafında bulunan ağaçlar ve yeşillik, ziyaretçilere serin ve ferah bir ortam sunuyor. Kurd Baba Türbesi, Edirne'nin önemli turizm merkezlerinden biri olarak biliniyor ve bu özelliği ile birçok ziyaretçi, bu plajı ziyaret ediyor.
+Kurd Baba Türbesi, Edirne'nin merkezinde bulunan bir plajdır. Bu plaj, Marmara Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Plajın etrafında bulunan dağlar ve tepeler, ziyaretçilere güzel bir manzara sunuyor. Kurd Baba Türbesi, aynı zamanda deniz suyu kalitesi ile dikkat çekiyor ve bu özelliği ile ziyaretçilerini cezbediyor. Plajın etrafında bulunan ağaçlar ve yeşillik, ziyaretçilere serin ve ferah bir ortam sunuyor. Kurd Baba Türbesi, Edirne'nin önemli turizm merkezlerinden biri olarak biliniyor ve bu özelliği ile birçok ziyaretçi, bu plajı ziyaret ediyor.
 
 ## Flora ve Fauna
 

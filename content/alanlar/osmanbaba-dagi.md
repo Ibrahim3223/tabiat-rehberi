@@ -51,7 +51,7 @@ Osmanbaba Dağı, çevresindeki diğer coğrafi oluşumlarla bağlantılı olara
 
 ## Flora ve Fauna
 
-Osmanbaba Dağı, step bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Yükseklik zonları, alpin flora ve dağ hayvanlarına ev sahipliği yapan bu alan, ekolojik çeşitlilik açısından zengin bir bölge. İlkbahar aylarında, çiçeklerin renkli bir şölenine tanık olabileceğiniz dağ, yaz aylarında kuraklığa adapte olmuş türlerle donanıyor. 
+Osmanbaba Dağı, step bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Yükseklik zonları, alpin flora ve dağ hayvanlarına ev sahipliği yapan bu alan, ekolojik çeşitlilik açısından zengin bir bölge. İlkbahar aylarında, çiçeklerin renkli bir şölenine tanık olabileceğiniz dağ, yaz aylarında kuraklığa adapte olmuş türlerle donanıyor.
 
 Bitki örtüsünün hakim türleri arasında bozkır otları ve kuraklığa dayanıklı çalılar yer alıyor. Mevsimsel değişimlerle birlikte, dağ yamacında farklı renkler ve kokularla karşılaşma mümkün. Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle çeşitlilik gösteriyor. Dağ keçileri, yaban domuzları ve tilkiler, burada yaşayan memelilerin başında geliyor. Kuşlar ise göç mevsimlerinde dağları bir geçiş noktası olarak kullanıyor.
 

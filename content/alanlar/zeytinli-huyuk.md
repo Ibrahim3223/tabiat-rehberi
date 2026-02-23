@@ -28,7 +28,7 @@ wikidata_id: "Q32196300"
 
 # Zeytinli Hüyük
 
-Zeytinli Hüyük, yaklaşık 140 hektarlık bir alanı kaplayan ve Gaziantep'in tarihi ve doğal güzellikleri arasında önemli bir yer tutan bir höyüktür. Bu höyük, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini tarihin derinliklerine götürür. Zeytinli Hüyük, Gaziantep'in merkezine yakındır ve ulaşım açısından oldukça kolaydır. Höyük, bölgenin coğrafi yapısını da yansıtan bir şekilde, etrafındaki diğer höyükler ve doğal oluşumlarla birlikte bir bütün olarak karşımıza çıkar.
+Zeytinli Hüyük, yaklaşık 140 hektarlık bir alanı kaplayan ve Gaziantep'in tarihi ve doğal güzellikleri arasında önemli bir yer tutan bir höyüktür. Zeytinli Hüyük, Gaziantep'in merkezine yakındır ve ulaşım açısından oldukça kolaydır. Höyük, bölgenin coğrafi yapısını da yansıtan bir şekilde, etrafındaki diğer höyükler ve doğal oluşumlarla birlikte bir bütün olarak karşımıza çıkar.
 
 ## Tarihçe
 

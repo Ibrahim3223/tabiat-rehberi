@@ -28,7 +28,7 @@ wikidata_id: "Q31548887"
 
 # Deryasi Tepesi
 
-Deryasi Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve coğrafi güzelliği ile tarihi geçmişiyle dikkat çeken bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsar. Deryasi Tepesi, ziyaretçilerini doğanın güzelliğine ve tarihi eserlerine davet eder. Burada, doğal güzelliklerin yanı sıra, tarihi yapılar ve kalıntılar da bulunur. Deryasi Tepesi, Siirt ilinin önemli turizm merkezlerinden biri olarak kabul edilir.
+Deryasi Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve coğrafi güzelliği ile tarihi geçmişiyle dikkat çeken bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Deryasi Tepesi, ziyaretçilerini doğanın güzelliğine ve tarihi eserlerine davet eder. Burada, doğal güzelliklerin yanı sıra, tarihi yapılar ve kalıntılar da bulunur. Deryasi Tepesi, Siirt ilinin önemli turizm merkezlerinden biri olarak kabul edilir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Deryasi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliğini yansıta
 
 ## Flora ve Fauna
 
-Deryasi Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu tepenin etrafında, doğal güzellikler ve tarihi kalıntılar bulunur. Deryasi Tepesi, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar. Burada, çeşitli bitkiler ve hayvanlar bulunur. Deryasi Tepesi'nin flora ve fauna zenginliği, ziyaretçileri için önemli bir çekim noktasıdır. Bu tepenin etrafında, doğal güzelliklerin yanı sıra, tarihi yapılar ve kalıntılar da bulunur.
+ Bu tepenin etrafında, doğal güzellikler ve tarihi kalıntılar bulunur. Deryasi Tepesi, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar. Burada, çeşitli bitkiler ve hayvanlar bulunur. Deryasi Tepesi'nin flora ve fauna zenginliği, ziyaretçileri için önemli bir çekim noktasıdır. Bu tepenin etrafında, doğal güzelliklerin yanı sıra, tarihi yapılar ve kalıntılar da bulunur.
 
 ## Ziyaret Bilgileri
 

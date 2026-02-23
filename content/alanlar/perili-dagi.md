@@ -32,11 +32,11 @@ Iğdır'ın eşsiz doğasında yer alan Perili Dağı, ziyaretçilerini büyüle
 
 ## Tarihçe
 
-Iğdır bölgesi, tarihin sâu sayfalarında yer alan bir coğrafyadır. Bu bölge, Urartular, Persler, Romalılar ve Selçuklular gibi çeşitli uygarlıkların izlerini taşımaktadır. Perili Dağı da, bu coğrafyanın bir parçasını oluşturmaktadır.
+Iğdır bölgesi, tarihin derin sayfalarında yer alan bir coğrafyadır. Bu bölge, Urartular, Persler, Romalılar ve Selçuklular gibi çeşitli uygarlıkların izlerini taşımaktadır. Perili Dağı da, bu coğrafyanın bir parçasını oluşturmaktadır.
 
 Tarihi ticaret yollarının kesişme noktasında yer alan Iğdır, önemli bir stratejik konumda bulunmaktaydı. Bu bölgede yaşayan halk, yaylacılık, hayvancılık ve tarımla uğraşarak geçimlerini sağlardı. Dağlık alanlar, özellikle yaylacılık için elverişliydi ve insanlar, yaz aylarında hayvanlarını otlaklara çıkararak geçimlerini sağlardı.
 
-Bu tür doğal alanlar, Türkiye'de önemli bir tarihsel öneme sahiptir. Doğal güzellikleri ve stratejik konumları, çeşitli uygarlıkların dikkatini çekmiştir. Iğdır bölgesinin tarihi, bu doğal alanların insan yaşamı üzerindeki etkilerini göstermektedir. Perili Dağı da, bu coğrafyanın bir parçası olarak, tarihin sâu sayfalarında yer alan bir doğal güzelliği temsil etmektedir.
+Bu tür doğal alanlar, Türkiye'de önemli bir tarihsel öneme sahiptir. Doğal güzellikleri ve stratejik konumları, çeşitli uygarlıkların dikkatini çekmiştir. Iğdır bölgesinin tarihi, bu doğal alanların insan yaşamı üzerindeki etkilerini göstermektedir. Perili Dağı da, bu coğrafyanın bir parçası olarak, tarihin derin sayfalarında yer alan bir doğal güzelliği temsil etmektedir.
 
 ## Coğrafya
 
@@ -50,7 +50,7 @@ Mevsimsel açıdan, Perili Dağı'nın bulunduğu bölge, karasal iklim özellik
 
 ## Flora ve Fauna
 
-Perili Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Perili Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçlarında renkli bir çiçek şöleni başlar. Alpin çayırlar, yükseklik zonlarına göre değişen bitkilerle kaplıdır. Sonbaharda, yaprak döken ağaçlar altın sarısı bir görünüm verir.
 
@@ -67,6 +67,6 @@ Perili Dağı, Iğdır'ın doğal güzelliklerini keşfetmek isteyenler için m�
 - Perili Dağı, Iğdır ilinin merkezine yaklaşık 15 kilometre uzaklıktadır.
 - Dağın yüksekliği 2.988 metredir ve Iğdır Ovası'na hakim bir konumdadır.
 - Perili Dağı, jeolojik açıdan volkanik kökenlidir ve çevresinde volkanik kayaçlar bulunur.
-- Dağın eteklerinde ve çevresinde çeşitli histórik yerleşim yerleri ve arkeolojik kalıntılar mevcuttur.
+- Dağın eteklerinde ve çevresinde çeşitli tarihi yerleşim yerleri ve arkeolojik kalıntılar mevcuttur.
 - Perili Dağı, flora ve fauna açısından zengin bir alandır ve çeşitli bitki türlerine ev sahipliği yapar.
 - Dağ, Iğdır ilinin turizm potansiyelini artıran önemli bir doğal güzelliğidir.

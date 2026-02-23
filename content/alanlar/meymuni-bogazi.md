@@ -40,7 +40,7 @@ Türkiye'de bulunan birçok kanyon ve doğal oluşum, tarih boyunca insanların 
 
 Güneydoğu Anadolu Bölgesi'nin doğa harikalarından biri olan Meymuni Boğazı, 37.7772°K ve 41.2439°D koordinatlarında yer alıyor. Batman şehrine yakınlığıyla dikkat çeken bu kanyon, bölgenin coğrafi çeşitliliğini gözler önüne seriyor. Batman'ın merkezinden yaklaşık 20 kilometre uzaklıkta bulunan Meymuni Boğazı, şehir merkezine göre daha yüksek bir rakımda yer alıyor.
 
-Doğal güzelliği ile dikkat çeken Meymuni Boğazı, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama etkileyici alan, jeolojik açıdan oldukça zengin bir yapıya sahip. Kanyonun oluşumu, bölgenin jeolojik história ile yakından ilgili. Meymuni Boğazı'nın oluşumunda, bölgenin tektonik hareketleri önemli bir rol oynamış.
+Doğal güzelliği ile dikkat çeken Meymuni Boğazı, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Bu küçük ama etkileyici alan, jeolojik açıdan oldukça zengin bir yapıya sahip. Kanyonun oluşumu, bölgenin jeolojik tarihi ile yakından ilgili. Meymuni Boğazı'nın oluşumunda, bölgenin tektonik hareketleri önemli bir rol oynamış.
 
 Meymuni Boğazı'nın iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklim karakterine uygun olarak kura ve sıcak bir yapıya sahip. Yaz aylarında sıcaklık 40 dereceleri bulurken, kış aylarında 0 derecenin altına düşüyor. Bu mevsimsel değişimler, bölgenin flora ve fauna açısından zengin bir çeşitlilik sunmasını sağlıyor.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31546127"
 
 # Deviyadıza Tepesi
 
-Deviyadıza Tepesi, Batman'ın sınırları içerisinde yer alan ve coğrafi güzellikleriyle ilgi çeken bir tepe olarak bilinmektedir. Batman, Güneydoğu Anadolu Bölgesi'nin önemli illerinden biri olarak, Deviyadıza Tepesi gibi doğal güzelliklere ev sahipliği yapmaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Deviyadıza Tepesi, bölgeye özgü bitki türleri ve yaban hayatıyla birlikte, ziyaretçilerini doğayla baş başa bırakmaktadır. Bu tepe, Batman'ın güzide noktalarından biri olarak, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
+Deviyadıza Tepesi, Batman'ın sınırları içerisinde yer alan ve coğrafi güzellikleriyle ilgi çeken bir tepe olarak bilinmektedir. Batman, Güneydoğu Anadolu Bölgesi'nin önemli illerinden biri olarak, Deviyadıza Tepesi gibi doğal güzelliklere ev sahipliği yapmaktadır. Deviyadıza Tepesi, bölgeye özgü bitki türleri ve yaban hayatıyla birlikte, ziyaretçilerini doğayla baş başa bırakmaktadır. Bu tepe, Batman'ın güzide noktalarından biri olarak, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
 
 ## Tarihçe
 

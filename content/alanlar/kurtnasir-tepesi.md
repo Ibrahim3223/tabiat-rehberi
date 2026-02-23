@@ -28,7 +28,7 @@ wikidata_id: "Q31386467"
 
 # Kurtnasır Tepesi
 
-Kurtnasır Tepesi, Hatay ilinin sınırları içinde yer alan ve doğal güzellikleri ile tarihi zenginliklerini bir araya getiren özel bir destinasyon. Bu bölgede, ziyaretçiler yaklaşık 140 hektarlık yeşil alanın içinde yer alan çeşitli bitki türleri ile karşılaşabilirler. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için cennet gibi bir ortam sunuyor. Ziyaretçiler, bu bölgeyi gezerken hem doğanın güzelliğini hem de tarihi kalıntıları keşfetme fırsatı buluyorlar.
+Kurtnasır Tepesi, Hatay ilinin sınırları içinde yer alan ve doğal güzellikleri ile tarihi zenginliklerini bir araya getiren özel bir destinasyon. Bu bölgede, ziyaretçiler yaklaşık 140 hektarlık yeşil alanın içinde yer alan çeşitli bitki türleri ile karşılaşabilirler. Ziyaretçiler, bu bölgeyi gezerken hem doğanın güzelliğini hem de tarihi kalıntıları keşfetme fırsatı buluyorlar.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kurtnasır Tepesi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yap�
 
 ## Ziyaret Bilgileri
 
-Kurtnasır Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için eşsiz bir deneyim sunuyor. Ziyaretçiler, bu bölgede yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içinde yer alan doğal güzellikleri ve tarihi kalıntıları keşfetme fırsatı buluyorlar. Bölgeye ulaşım, genellikle araç veya yürüyüş yoluyla sağlanıyor. Ziyaretçilerin, bu bölgede yapacakları things to do arasında, doğa yürüyüşleri, tarihi kalıntıları keşfetme ve bölgenin güzelliğini seyretmek yer alıyor.
+Kurtnasır Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için eşsiz bir deneyim sunuyor. Bölgeye ulaşım, genellikle araç veya yürüyüş yoluyla sağlanıyor. Ziyaretçilerin, bu bölgede yapacakları things to do arasında, doğa yürüyüşleri, tarihi kalıntıları keşfetme ve bölgenin güzelliğini seyretmek yer alıyor.
 
 ## İlginç Bilgiler
 

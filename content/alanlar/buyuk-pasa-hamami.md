@@ -1,7 +1,7 @@
 ---
 title: "Büyük Paşa Hamamı"
 date: "2026-01-09T22:27:45.418Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738470"
 
 # Büyük Paşa Hamamı
 
-Büyük Paşa Hamamı, Gaziantep'in Şahinbey ilçesinde bulunan ve şehrin tarihi dokusu ile doğal güzellikleri arasında önemli bir noktaya sahip olan bir plajdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Büyük Paşa Hamamı, hem yerel halk hem de şehri ziyaret edenler için keyifli bir kaçış noktası olarak dikkat çekiyor. Bu bölge, Gaziantep'in tarihi ve kültürel zenginliklerini discovery etmek isteyenler için de önemli bir destinasyon.
+Büyük Paşa Hamamı, Gaziantep'in Şahinbey ilçesinde bulunan ve şehrin tarihi dokusu ile doğal güzellikleri arasında önemli bir noktaya sahip olan bir plajdır. Büyük Paşa Hamamı, hem yerel halk hem de şehri ziyaret edenler için keyifli bir kaçış noktası olarak dikkat çekiyor. Bu bölge, Gaziantep'in tarihi ve kültürel zenginliklerini discovery etmek isteyenler için de önemli bir destinasyon.
 
 ## Tarihçe
 

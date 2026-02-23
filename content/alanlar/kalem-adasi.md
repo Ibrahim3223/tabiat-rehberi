@@ -51,7 +51,7 @@ Yaz aylarında sıcaklığın arttığı Kalem Adası, Ege Bölgesi'nin karakter
 
 ## Flora ve Fauna
 
-Kalem Adası, İzmir'in kıyılarında yer alan bir ada ekosistemini barındıran özel bir bölge. Ada, zeytinlikler ve çam ormanları ile kaplı yaklaşık 1200 hektarlık bir alanı kapsıyor. 
+Kalem Adası, İzmir'in kıyılarında yer alan bir ada ekosistemini barındıran özel bir bölge. Ada, zeytinlikler ve çam ormanları ile kaplı yaklaşık 1200 hektarlık bir alanı kapsıyor.
 
 Bitki Örtüsü olarak, ilkbahar mevsiminde ada renkli bir hal alıyor. Çiçekler açıyor ve ada yeşilleniyor. Çam ağaçları ve zeytinlikler, ada için karakteristik bir görünüm sağlıyor.
 

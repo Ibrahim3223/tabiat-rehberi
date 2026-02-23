@@ -30,7 +30,7 @@ wikidata_id: "Q135582807"
 
 # Ahlat Anonim Kümbet
 
-Ahlat Anonim Kümbet, Doğu Anadolu Bölgesi'nin Bitlis ilinde bulunan tarihi bir yapıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve tarihi geçmişi ile dikkat çekmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ahlat Anonim Kümbet, ziyaretçilerini tarihi bir yolculuğa davet ediyor. Bu yapı, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve zengin bir kültürel mirasa sahip.
+Ahlat Anonim Kümbet, Doğu Anadolu Bölgesi'nin Bitlis ilinde bulunan tarihi bir yapıdır. Ahlat Anonim Kümbet, ziyaretçilerini tarihi bir yolculuğa davet ediyor. Bu yapı, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve zengin bir kültürel mirasa sahip.
 
 ## Tarihçe
 

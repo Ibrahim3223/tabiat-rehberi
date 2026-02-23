@@ -1,7 +1,7 @@
 ---
 title: "V. Murat Av Köşkü Hamamı"
 date: "2026-01-09T23:40:44.183Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739152"
 
 # V. Murat Av Köşkü Hamamı
 
-V. Murat Av Köşkü Hamamı, İstanbul'un Kadıköy ilçesinde bulunan bir tarihi alan olarak dikkat çekiyor. Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Tarihi av köşkü ve hamam, bölgenin önemli kültürel ve tarihi değerlerini koruyor. Ziyaretçiler, bu alanda hem tarihi yapıları inceleyerek hem de yeşil alanların keyfini çıkararak güzel bir gün geçirebiliyorlar. V. Murat Av Köşkü Hamamı, aynı zamanda bölgenin doğal güzellikleri ve tarihi zenginliklerini bir arada sunuyor.
+V. Murat Av Köşkü Hamamı, İstanbul'un Kadıköy ilçesinde bulunan bir tarihi alan olarak dikkat çekiyor. Tarihi av köşkü ve hamam, bölgenin önemli kültürel ve tarihi değerlerini koruyor. Ziyaretçiler, bu alanda hem tarihi yapıları inceleyerek hem de yeşil alanların keyfini çıkararak güzel bir gün geçirebiliyorlar. V. Murat Av Köşkü Hamamı, aynı zamanda bölgenin doğal güzellikleri ve tarihi zenginliklerini bir arada sunuyor.
 
 ## Tarihçe
 

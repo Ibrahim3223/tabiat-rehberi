@@ -51,9 +51,9 @@ Doğal güzelliği ile dikkat çeken bu bölgenin fiziksel yapısı, Konya'nın 
 
 ## Flora ve Fauna
 
-Kızılören Dağı, Konya'nın step ve bozkır bölgesinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, alpin flora ve dağ hayvanları ile zengin bir biodiversity sunuyor. 
+Kızılören Dağı, Konya'nın step ve bozkır bölgesinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, alpin flora ve dağ hayvanları ile zengin bir biodiversity sunuyor.
 
-Bitki örtüsü olarak step ve bozkır türleri hakim iken, ilkbahar aylarında dağ yamaçlarında renklendirici çiçekler açıyor. Sonbaharda ise göçmen kuşlar, dağların yüksek kesimlerinden geçerken bir gösteri sunuyor. 
+Bitki örtüsü olarak step ve bozkır türleri hakim iken, ilkbahar aylarında dağ yamaçlarında renklendirici çiçekler açıyor. Sonbaharda ise göçmen kuşlar, dağların yüksek kesimlerinden geçerken bir gösteri sunuyor.
 
 Yaban hayatı olarak memeliler, kuşlar ve sürüngenler dağda yaşamını sürdürüyor. Bu canlılar, dağın yükseklik zonlarına ve mevsimsel değişimlere adapte olmuş durumda. Ekolojik olarak, bu dağ ekosisteminin korunması, bölgenin su döngüsü ve toprağın verimliliğiçin çok önemli.
 

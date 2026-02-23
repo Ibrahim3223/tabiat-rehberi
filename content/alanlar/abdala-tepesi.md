@@ -28,7 +28,7 @@ wikidata_id: "Q31541491"
 
 # Abdala Tepesi
 
-Abdala Tepesi, Diyarbakır'ın merkeziunda bulunan ve tarih boyunca önemli bir rolesahip olmuş bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Abdala Tepesi, şehrin panoramik manzarasını sunan bir noktadır ve özellikle gün batımı saatlerinde ziyaretçilerini büyüler. Tepenin eteklerinde bulunan tarihi eserler ve kalıntılar, bu bölgenin zengin tarihini ve kültürel önemini vurgular.
+Abdala Tepesi, Diyarbakır'ın merkeziunda bulunan ve tarih boyunca önemli bir rolesahip olmuş bir tepedir. Abdala Tepesi, şehrin panoramik manzarasını sunan bir noktadır ve özellikle gün batımı saatlerinde ziyaretçilerini büyüler. Tepenin eteklerinde bulunan tarihi eserler ve kalıntılar, bu bölgenin zengin tarihini ve kültürel önemini vurgular.
 
 ## Tarihçe
 

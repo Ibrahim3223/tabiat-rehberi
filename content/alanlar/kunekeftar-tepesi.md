@@ -50,9 +50,9 @@ Doğal güzelliği ile dikkat çeken Künekeftar Tepesi, Batman'ın coğrafi yap
 
 ## Flora ve Fauna
 
-Künekeftar Tepesi, Batman'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki örtüsü, ilkbaharın gelmesiyle birlikte renkli bir hal alır; çiçekler açar ve dağ yamaçlarını bir halı gibi kaplar. Sonbaharda ise, göç eden kuşlar bölgenin gökyüzünü doldurur. Dağın yükseklik zonlarında, alpin flora hakimdir. 
-Yaban hayatı da oldukça zengin; memeliler, kuşlar ve sürüngenler yaşam alanlarını bu dağda bulur. Dağ keçileri, yüksekliklerde yaşayan hayvanlardan biridir ve bu bölgede rahatça yaşayabilir. 
+Künekeftar Tepesi, Batman'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki örtüsü, ilkbaharın gelmesiyle birlikte renkli bir hal alır; çiçekler açar ve dağ yamaçlarını bir halı gibi kaplar. Sonbaharda ise, göç eden kuşlar bölgenin gökyüzünü doldurur. Dağın yükseklik zonlarında, alpin flora hakimdir.
+Yaban hayatı da oldukça zengin; memeliler, kuşlar ve sürüngenler yaşam alanlarını bu dağda bulur. Dağ keçileri, yüksekliklerde yaşayan hayvanlardan biridir ve bu bölgede rahatça yaşayabilir.
 Künekeftar Tepesi, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgede yaşayan canlıların yaşamını sürdürmesi açısından büyük önem taşır.
 
 ## Ziyaret Bilgileri

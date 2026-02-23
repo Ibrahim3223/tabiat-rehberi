@@ -28,7 +28,7 @@ wikidata_id: "Q31388174"
 
 # Erentaş Tepe
 
-Erentaş Tepe, Denizli'nin doğusunda yer alan ve Ege Bölgesi'nin önemli kaya oluşumlarından biri olarak dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu alanda yer alan kaya oluşumları, milyonlarca yıllık bir geçmişe sahiptir. Erentaş Tepe, trekking ve doğa yürüyüşü severler için ideal bir destinasyon olup, aynı zamanda bölgenin tarihi ve kültürel mirasını keşfetmek isteyenler için de önemli bir merkez olarak kabul edilir. Erentaş Tepe, ziyaretçilerini büyüleyici manzaralar ve eşsiz doğal güzelliklerle karşılar.
+Erentaş Tepe, Denizli'nin doğusunda yer alan ve Ege Bölgesi'nin önemli kaya oluşumlarından biri olarak dikkat çeker. Bu alanda yer alan kaya oluşumları, milyonlarca yıllık bir geçmişe sahiptir. Erentaş Tepe, trekking ve doğa yürüyüşü severler için ideal bir destinasyon olup, aynı zamanda bölgenin tarihi ve kültürel mirasını keşfetmek isteyenler için de önemli bir merkez olarak kabul edilir. Erentaş Tepe, ziyaretçilerini büyüleyici manzaralar ve eşsiz doğal güzelliklerle karşılar.
 
 ## Tarihçe
 

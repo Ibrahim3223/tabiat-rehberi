@@ -28,11 +28,11 @@ wikidata_id: "Q31562057"
 
 # Pendik Tepesi
 
-Pendik Tepesi, Kırklareli'nin doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, aynı zamanda yüksek bir konumda bulunuyor. Bu yükseklik, ziyaretçilere bölgeyi panoramik olarak izleme imkanı sunuyor. Bölgenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sağlıyor. Pendik Tepesi, hem doğa severler hem de bölgeyi keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor.
+Pendik Tepesi, Kırklareli'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu yükseklik, ziyaretçilere bölgeyi panoramik olarak izleme imkanı sunuyor. Bölgenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sağlıyor. Pendik Tepesi, hem doğa severler hem de bölgeyi keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor.
 
 ## Tarihçe
 
-Pendik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin uğrak yeri olmasıyla şekillenmiştir. Bu tepenin bulunduğu Kırklareli bölgesi, históriki olarak önemli bir konumda yer alıyor. Bölge, çeşitli kültürel ve tarihi olaylara sahne olmuştur. Ancak Pendik Tepesi'nin spesifik bir tarihi olaya veya döneme ait bilgileri bulunmuyor. Genel olarak, bu tepe ve çevresi, yüzyıllar boyunca insanların yerleşim ve geçiş noktaları olarak kullanılmıştır. Pendik Tepesi, bu nedenle hem coğrafi hem de tarihi açıdan önemli bir noktada yer alıyor.
+Pendik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin uğrak yeri olmasıyla şekillenmiştir. Bu tepenin bulunduğu Kırklareli bölgesi, tarihi olarak önemli bir konumda yer alıyor. Bölge, çeşitli kültürel ve tarihi olaylara sahne olmuştur. Ancak Pendik Tepesi'nin spesifik bir tarihi olaya veya döneme ait bilgileri bulunmuyor. Genel olarak, bu tepe ve çevresi, yüzyıllar boyunca insanların yerleşim ve geçiş noktaları olarak kullanılmıştır. Pendik Tepesi, bu nedenle hem coğrafi hem de tarihi açıdan önemli bir noktada yer alıyor.
 
 ## Coğrafya
 

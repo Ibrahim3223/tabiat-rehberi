@@ -23,15 +23,15 @@ wikidata_id: "Q108228372"
 
 # Burdur-Karataş Gölü
 
-Burdur-Karataş Gölü, Burdur'un doğal güzellikleri arasında yer alan ve 140 hektarlık bir alanı kaplayan bir göldür. Yaklaşık 200 futbol sahası büyüklüğünde olan bu göl, çevredeki flora ve faunayı destekleyen önemli bir ekosistemdir. Gölün etrafında çeşitli bitki türleri ve hayvanlar yaşamaktadır. Burdur-Karataş Gölü, aynı zamanda bir milli park olarak korunmakta ve turizm açısından önemli bir destinasyondur. Gölün güzelliği ve doğal zenginliği, ziyaretçilerini cezbeden unsurlardan biridir.
+Burdur-Karataş Gölü, Burdur'un doğal güzellikleri arasında yer alan ve 140 hektarlık bir alanı kaplayan bir göldür. Gölün etrafında çeşitli bitki türleri ve hayvanlar yaşamaktadır. Burdur-Karataş Gölü, aynı zamanda bir milli park olarak korunmakta ve turizm açısından önemli bir destinasyondur. Gölün güzelliği ve doğal zenginliği, ziyaretçilerini cezbeden unsurlardan biridir.
 
 ## Tarihçe
 
-Burdur-Karataş Gölü'nün tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşam alanı olarak kullanıldığını göstermektedir. Ancak, gölün oluşumu ve histórik gelişimi hakkındalı bilgiler bulunmamaktadır. Göl, çevredeki jeolojik yapı ve iklim koşulları nedeniyle oluşmuş ve zaman içinde çeşitli değişimler geçirmiştir. Tarihi geçmişi, bölgenin kültürel ve doğal mirasını koruma altına alma açısından önemlidir. Burdur-Karataş Gölü, günümüzde bir milli park olarak korunmakta ve turizm açısından önemli bir destinasyondur.
+Burdur-Karataş Gölü'nün tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşam alanı olarak kullanıldığını göstermektedir. Ancak, gölün oluşumu ve tarihi gelişimi hakkındalı bilgiler bulunmamaktadır. Göl, çevredeki jeolojik yapı ve iklim koşulları nedeniyle oluşmuş ve zaman içinde çeşitli değişimler geçirmiştir. Tarihi geçmişi, bölgenin kültürel ve doğal mirasını koruma altına alma açısından önemlidir. Burdur-Karataş Gölü, günümüzde bir milli park olarak korunmakta ve turizm açısından önemli bir destinasyondur.
 
 ## Coğrafya
 
-Burdur-Karataş Gölü, Akdeniz Bölgesi'nde yer alan Burdur ilinin sınırları içerisinde bulunmaktadır. Göl, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde olup, çevredeki flora ve faunayı destekleyen önemli bir ekosistemdir. Gölün etrafında bitki türleri ve hayvanlar yaşamaktadır. Bölge, Akdeniz ikliminin özellikleri gösteren bir yapıya sahiptir. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hakimdir. Gölün su seviyesi, mevsimsel değişimlere bağlı olarak değişmektedir. Göl, aynı zamanda bir milli park olarak korunmakta ve turizm açısından önemli bir destinasyondur. Çevredeki doğal güzellikler, ziyaretçileri çekmektedir.
+Burdur-Karataş Gölü, Akdeniz Bölgesi'nde yer alan Burdur ilinin sınırları içerisinde bulunmaktadır. Gölün etrafında bitki türleri ve hayvanlar yaşamaktadır. Bölge, Akdeniz ikliminin özellikleri gösteren bir yapıya sahiptir. Yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hakimdir. Gölün su seviyesi, mevsimsel değişimlere bağlı olarak değişmektedir. Göl, aynı zamanda bir milli park olarak korunmakta ve turizm açısından önemli bir destinasyondur. Çevredeki doğal güzellikler, ziyaretçileri çekmektedir.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Burdur-Karataş Gölü, ziyaretçilerini doğal güzellikleri ve zengin ekosiste
 ## İlginç Bilgiler
 
 - Göl, 140 hektarlık bir alanı kaplamaktadır.
-- Göl, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Göl, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Göl, bir milli park olarak korunmaktadır.
 - Göl, turizm açısından önemli bir destinasyondur.

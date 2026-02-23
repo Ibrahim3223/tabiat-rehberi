@@ -30,7 +30,7 @@ wikidata_id: "Q2859182"
 
 # İstanbul Akvaryum
 
-İstanbul Akvaryum, Marmara Bölgesi'nin en büyük ve en önemli akvaryumlarından biri olarak, İstanbul'un Bakırköy ilçesinde yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un en büyük akvaryumu olarak biliniyor. İstanbul Akvaryum, deniz canlıları ve su altı dünyasını keşfetmek isteyenler için ideal bir yer. Burada, çeşitli balık türleri, su altı hayvanları ve other deniz canlılarını yakından görebilir ve su altı dünyasını keşfedebilirsiniz.
+İstanbul Akvaryum, Marmara Bölgesi'nin en büyük ve en önemli akvaryumlarından biri olarak, İstanbul'un Bakırköy ilçesinde yer alıyor. İstanbul Akvaryum, deniz canlıları ve su altı dünyasını keşfetmek isteyenler için ideal bir yer. Burada, çeşitli balık türleri, su altı hayvanları ve other deniz canlılarını yakından görebilir ve su altı dünyasını keşfedebilirsiniz.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q2859182"
 
 ## Coğrafya
 
-İstanbul Akvaryum, Marmara Bölgesi'nin en büyük akvaryumu olarak, İstanbul'un Bakırköy ilçesinde yer alıyor. Akvaryum, 140 hektarlık bir alanda kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. İstanbul Akvaryum'un coğrafi konumu, Marmara Denizi'ne yakın olması nedeniyle, su altı dünyasını keşfetmek isteyenler için ideal bir yer. Akvaryum, çeşitli balık türleri, su altı hayvanları ve diğer deniz canlılarını barındıran bir su altı dünyasına sahip ve ziyaretçiler, bu su altı dünyasını keşfetmek için çeşitli Möglichkeiten sunuyor. İstanbul Akvaryum'un coğrafi konumu, aynı zamanda, İstanbul'un diğer önemli yerlerine yakın olması nedeniyle, ziyaretçiler, akvaryumu ziyaret ettikten sonra, diğer önemli yerleri de ziyaret edebilirler.
+İstanbul Akvaryum, Marmara Bölgesi'nin en büyük akvaryumu olarak, İstanbul'un Bakırköy ilçesinde yer alıyor. İstanbul Akvaryum'un coğrafi konumu, Marmara Denizi'ne yakın olması nedeniyle, su altı dünyasını keşfetmek isteyenler için ideal bir yer. Akvaryum, çeşitli balık türleri, su altı hayvanları ve diğer deniz canlılarını barındıran bir su altı dünyasına sahip ve ziyaretçiler, bu su altı dünyasını keşfetmek için çeşitli Möglichkeiten sunuyor. İstanbul Akvaryum'un coğrafi konumu, aynı zamanda, İstanbul'un diğer önemli yerlerine yakın olması nedeniyle, ziyaretçiler, akvaryumu ziyaret ettikten sonra, diğer önemli yerleri de ziyaret edebilirler.
 
 ## Flora ve Fauna
 

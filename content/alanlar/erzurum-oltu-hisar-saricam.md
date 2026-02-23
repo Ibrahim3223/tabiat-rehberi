@@ -1,7 +1,7 @@
 ---
 title: "Erzurum-Oltu-Hisar Saricam"
 date: "2026-01-09T21:21:01.735Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Erzurum"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227691"
 
 # Erzurum-Oltu-Hisar Saricam
 
-Erzurum-Oltu-Hisar Saricam milli parkı, Doğu Anadolu Bölgesi'nin en önemli doğal alanlarından biridir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en büyük milli parklarından biri olarak dikkat çekmektedir. Burada, doğanın güzelliği ve çeşitliliği bir araya gelir. Milli park, ziyaretçilerine zengin bir flora ve fauna sunar. Erzurum'un Oltu ilçesinde bulunan Hisar Saricam, doğal güzelliği ve tarihi değerleriyle önemli bir turizm merkezidir. Burada, hem doğa hem de tarih hakkında bilgi sahibi olabilirsiniz.
+Erzurum-Oltu-Hisar Saricam milli parkı, Doğu Anadolu Bölgesi'nin en önemli doğal alanlarından biridir. Burada, doğanın güzelliği ve çeşitliliği bir araya gelir. Milli park, ziyaretçilerine zengin bir flora ve fauna sunar. Erzurum'un Oltu ilçesinde bulunan Hisar Saricam, doğal güzelliği ve tarihi değerleriyle önemli bir turizm merkezidir. Burada, hem doğa hem de tarih hakkında bilgi sahibi olabilirsiniz.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Erzurum-Oltu-Hisar Saricam milli parkının tarihi geçmişi, yüzyıllar önces
 
 ## Coğrafya
 
-Erzurum-Oltu-Hisar Saricam milli parkı, Doğu Anadolu Bölgesi'nde bulunmaktadır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en büyük milli parklarından biri olarak dikkat çekmektedir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim olarak, karasal iklimin hüküm sürdüğü bu bölge, yazları sıcak ve kurak, kışları ise soğuk ve karlı geçmektedir. Milli park, doğal güzelliği ve coğrafi çeşitliliğiyle birlikte, ziyaretçilerine benzersiz bir deneyim sunmaktadır.
+Erzurum-Oltu-Hisar Saricam milli parkı, Doğu Anadolu Bölgesi'nde bulunmaktadır. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahiptir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim olarak, karasal iklimin hüküm sürdüğü bu bölge, yazları sıcak ve kurak, kışları ise soğuk ve karlı geçmektedir. Milli park, doğal güzelliği ve coğrafi çeşitliliğiyle birlikte, ziyaretçilerine benzersiz bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

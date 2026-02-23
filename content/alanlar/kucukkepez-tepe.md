@@ -28,7 +28,7 @@ wikidata_id: "Q32211023"
 
 # Küçükkepez Tepe
 
-Küçükkepez Tepe, Karaman'ın merkezinde yer alan ve tarihi geçmişe sahip olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepe, bölgeyi keşfetmek isteyenler için önemli bir nokta olarak görülmektedir. Ayrıca, tepe etrafında bulunan yerleşim yerleri ve tarihi yapılar, bölgeye ayrı bir güzellik katmaktadır.
+Küçükkepez Tepe, Karaman'ın merkezinde yer alan ve tarihi geçmişe sahip olan bir tepe. Tepe, bölgeyi keşfetmek isteyenler için önemli bir nokta olarak görülmektedir. Ayrıca, tepe etrafında bulunan yerleşim yerleri ve tarihi yapılar, bölgeye ayrı bir güzellik katmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Küçükkepez Tepe, tarihsel olarak önemli bir geçmişe sahiptir. Tepe, yüzy�
 
 ## Coğrafya
 
-Küçükkepez Tepe, Karaman'ın merkezinde yer alan bir tepe. Tepe, 140 hektarlık bir alan kaplamakta ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepe etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bölge, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtmakta ve tepe, bölgenin en önemli coğrafi özelliklerinden biri. Tepe, aynı zamanda bölgenin iklimini de etkilemekte. Tepe etrafındaki yerleşim yerleri, tepe ile birlikte gelişmiş ve bu gelişme, bölgenin coğrafi yapısını da etkilemiştir. Tepe, bölgenin coğrafi yapısını anlamak için önemli bir nokta.
+Küçükkepez Tepe, Karaman'ın merkezinde yer alan bir tepe. Tepe etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bölge, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtmakta ve tepe, bölgenin en önemli coğrafi özelliklerinden biri. Tepe, aynı zamanda bölgenin iklimini de etkilemekte. Tepe etrafındaki yerleşim yerleri, tepe ile birlikte gelişmiş ve bu gelişme, bölgenin coğrafi yapısını da etkilemiştir. Tepe, bölgenin coğrafi yapısını anlamak için önemli bir nokta.
 
 ## Flora ve Fauna
 

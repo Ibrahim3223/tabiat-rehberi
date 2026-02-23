@@ -28,7 +28,7 @@ wikidata_id: "Q31385693"
 
 # Kara Tepe (Şanlıurfa, 36.99 N 39.98 E)
 
-Kara Tepe, Şanlıurfa'nın zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir bölge. 36.99 N 39.98 E koordinatlarında yer alan bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbetmeyi başarıyor. Kara Tepe'nin sunduğu manzaralar, ziyaretçilere bölgenin doğal güzelliğini sunarken, tarihi kalıntılar ise geçmişin izlerini taşıyor.
+Kara Tepe, Şanlıurfa'nın zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir bölge. 36.99 N 39.98 E koordinatlarında yer alan bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbetmeyi başarıyor. Kara Tepe'nin sunduğu manzaralar, ziyaretçilere bölgenin doğal güzelliğini sunarken, tarihi kalıntılar ise geçmişin izlerini taşıyor.
 
 ## Tarihçe
 

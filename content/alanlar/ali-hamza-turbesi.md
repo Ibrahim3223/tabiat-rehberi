@@ -1,7 +1,7 @@
 ---
 title: "Ali Hamza Türbesi"
 date: "2026-01-10T07:00:14.071Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390784"
 
 # Ali Hamza Türbesi
 
-Ali Hamza Türbesi, Düzce'nin merkezinde yer alan ve ziyaretçilerini tarihi ve kültürel zenginlikleriyle karşılayan bir dini mekândır. 140 hektarlık bir alan üzerinde konumlanan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ali Hamza Türbesi, özellikle dini önemi nedeniyle çok sayıda ziyaretçi çekmektedir. Bu mekan, aynı zamanda doğa severler için de bir çekim merkezi olarak dikkat çeker. Ziyaretçiler, buraya gelirken hem tarihi ve kültürel zenginlikleri keşfedebilir, hem de doğal güzelliklere tanıklık edebilir.
+Ali Hamza Türbesi, Düzce'nin merkezinde yer alan ve ziyaretçilerini tarihi ve kültürel zenginlikleriyle karşılayan bir dini mekândır. Ali Hamza Türbesi, özellikle dini önemi nedeniyle çok sayıda ziyaretçi çekmektedir. Bu mekan, aynı zamanda doğa severler için de bir çekim merkezi olarak dikkat çeker. Ziyaretçiler, buraya gelirken hem tarihi ve kültürel zenginlikleri keşfedebilir, hem de doğal güzelliklere tanıklık edebilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ali Hamza Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu meka
 
 ## Coğrafya
 
-Ali Hamza Türbesi, Düzce'nin merkezinde yer alan bir bölgede konumlanmıştır. Bu mekan, Karadeniz Bölgesi'nin doğal güzelliklerine yakındır. Ali Hamza Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve 140 hektarlık bir arazi üzerinde kurulmuştur. Bu mekanın coğrafi konumu, ziyaretçilerin hem tarihi ve kültürel zenginliklere, hem de doğal güzelliklere kolayca ulaşabilmesini sağlar. Ali Hamza Türbesi'nin etrafı, yeşilliklerle çevrili bir bölgede yer alır ve ziyaretçilere dinlenme ve gezinme imkanı sunar. Bu mekan, aynı zamanda çevresindeki diğer tarihi ve kültürel mekanlara da yakındır.
+Ali Hamza Türbesi, Düzce'nin merkezinde yer alan bir bölgede konumlanmıştır. Bu mekan, Karadeniz Bölgesi'nin doğal güzelliklerine yakındır. Bu mekanın coğrafi konumu, ziyaretçilerin hem tarihi ve kültürel zenginliklere, hem de doğal güzelliklere kolayca ulaşabilmesini sağlar. Ali Hamza Türbesi'nin etrafı, yeşilliklerle çevrili bir bölgede yer alır ve ziyaretçilere dinlenme ve gezinme imkanı sunar. Bu mekan, aynı zamanda çevresindeki diğer tarihi ve kültürel mekanlara da yakındır.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31389083"
 
 # Cim Tepe
 
-Cim Tepe, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Cim Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayacak bir destinasyon. Bu tepe, bölgenin coğrafi yapısını ve tarihi geçmişini yansıtıyor. Cim Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrující. Bu tepe, doğa severler ve tarih meraklıları için ideal bir gezi noktası.
+Cim Tepe, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor. Cim Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayacak bir destinasyon. Bu tepe, bölgenin coğrafi yapısını ve tarihi geçmişini yansıtıyor. Cim Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrující. Bu tepe, doğa severler ve tarih meraklıları için ideal bir gezi noktası.
 
 ## Tarihçe
 

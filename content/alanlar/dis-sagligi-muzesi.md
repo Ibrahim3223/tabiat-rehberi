@@ -1,7 +1,7 @@
 ---
 title: "Diş Sağlığı Müzesi"
 date: "2026-01-10T15:17:51.084Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949541"
 
 # Diş Sağlığı Müzesi
 
-Diş Sağlığı Müzesi, İstanbul'un kalbinde yer alan ve diş sağlığı hakkındaki geniş bilgiyi sunan özel bir müzedir. Bu müze, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Müzenin kuruluş amacı, diş sağlığı ve tıbbın tarihini ortaya koyma ve bu alanda yapılan çalışmaları sergilemektir. Ziyaretçiler, burada diş sağlığıyla ilgili çeşitli eserleri ve tarihi araçları yakından görebilirler.
+Diş Sağlığı Müzesi, İstanbul'un kalbinde yer alan ve diş sağlığı hakkındaki geniş bilgiyi sunan özel bir müzedir. Müzenin kuruluş amacı, diş sağlığı ve tıbbın tarihini ortaya koyma ve bu alanda yapılan çalışmaları sergilemektir. Ziyaretçiler, burada diş sağlığıyla ilgili çeşitli eserleri ve tarihi araçları yakından görebilirler.
 
 ## Tarihçe
 

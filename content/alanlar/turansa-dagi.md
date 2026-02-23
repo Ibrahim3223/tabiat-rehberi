@@ -50,11 +50,11 @@ Doğal kaynaklar açısından, Turanşa Dağı'nın çevresinde yer alan su kayn
 
 ## Flora ve Fauna
 
-Turanşa Dağı, Karaman'ın.step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur. 
+Turanşa Dağı, Karaman'ın.step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Mevsimsel değişimlerle birlikte, kuraklığa adapte olmuş bitkiler hayat bulur. Dağın yüksek kesimlerinde, alpin flora türleri hakimdir. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Mevsimsel değişimlerle birlikte, kuraklığa adapte olmuş bitkiler hayat bulur. Dağın yüksek kesimlerinde, alpin flora türleri hakimdir.
 
-Yaban hayatı açısından zengin olan Turanşa Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağın yüksek kesimlerinde, göçmen kuşlar sonbahar ve ilkbahar aylarında görülebilir. Sürüngenler de, dağın kayalık ve kuru alanlarında yaşamlarını sürdürür. 
+Yaban hayatı açısından zengin olan Turanşa Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağın yüksek kesimlerinde, göçmen kuşlar sonbahar ve ilkbahar aylarında görülebilir. Sürüngenler de, dağın kayalık ve kuru alanlarında yaşamlarını sürdürür.
 
 Turanşa Dağı'nın ekolojik değeri, bölgenin biyolojik çeşitliliğini koruma açısından önemlidir. Bu alan, step ve bozkır ekosistemlerinin korunması için kritik bir bölgedir.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34828974"
 
 # Çengerli Tepe
 
-Kırklareli'nin eşsiz güzelliklerinden biri olan Çengerli Tepe, Marmara Bölgesi'nin önemli doğal ve tarihi noktalarından biridir. Çengerli Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsayan 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar. Bu tepe, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekmektedir. Ziyaretçiler, buradaki zengin flora ve faunayı keşfedebilir, aynı zamanda tarihi kalıntıları inceleyerek bölge hakkında daha fazla bilgi edinebilirler.
+Kırklareli'nin eşsiz güzelliklerinden biri olan Çengerli Tepe, Marmara Bölgesi'nin önemli doğal ve tarihi noktalarından biridir. Bu tepe, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekmektedir. Ziyaretçiler, buradaki zengin flora ve faunayı keşfedebilir, aynı zamanda tarihi kalıntıları inceleyerek bölge hakkında daha fazla bilgi edinebilirler.
 
 ## Tarihçe
 

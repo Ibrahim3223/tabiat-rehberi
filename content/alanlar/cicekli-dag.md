@@ -33,7 +33,7 @@ Erzincan'ın doğal güzellikteki "Çiçekli Dağ" bölgesi, ziyaretçilerini b�
 
 ## Tarihçe
 
-Erzincan bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarihin çeşitli dönemlerinde Hitit, Roma ve Osmanlı gibi uygarlıkların etkileri altında kalmıştır. "Çiçekli Dağ" olarak bilinen bu bölge, Türkiye'nin doğusunda yer alan bir doğal güzelliğe ev sahipliği yapar. 
+Erzincan bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarihin çeşitli dönemlerinde Hitit, Roma ve Osmanlı gibi uygarlıkların etkileri altında kalmıştır. "Çiçekli Dağ" olarak bilinen bu bölge, Türkiye'nin doğusunda yer alan bir doğal güzelliğe ev sahipliği yapar.
 
 Doğal güzelliklerin Türkiye'deki tarihsel önemi, yalnızca turizm açısından değil, aynı zamanda kültürel ve ekonomik açıdan da önemlidir. Bu bölgeler, yüzyıllardır insanların hayatlarını sürdürdüğü, hayvancılık ve tarımla uğraştığı alanlar olmuştur. Ayrıca, tarihi ticaret yollarının da bu bölgelerden geçmesi, bölgenin stratejik önemini artırmıştır.
 

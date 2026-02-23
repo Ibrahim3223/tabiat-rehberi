@@ -50,9 +50,9 @@ Su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sah
 
 ## Flora ve Fauna
 
-Küçükada, Muğla'da doğanın renkli güzelliği her mevsim farklı bir şekilde ortaya çıkıyor. İlkbaharın gelmesiyle birlikte, ada çam ormanları ve zeytinlikler çiçeklerle bezleniyor. Kıyı şeridinde, tuzlu suya dayanıklı bitkiler hakimiyet kuruyor. 
+Küçükada, Muğla'da doğanın renkli güzelliği her mevsim farklı bir şekilde ortaya çıkıyor. İlkbaharın gelmesiyle birlikte, ada çam ormanları ve zeytinlikler çiçeklerle bezleniyor. Kıyı şeridinde, tuzlu suya dayanıklı bitkiler hakimiyet kuruyor.
 
-Ada ekosisteminin izole doğası, benzersiz bir flora ve faunaya ev sahipliği yapıyor. Deniz kuşları, ada kıyılarını üreme ve beslenme alanı olarak kullanıyor. Sonbaharda, göç eden kuşlar adayı konaklama noktası olarak seçiyor. 
+Ada ekosisteminin izole doğası, benzersiz bir flora ve faunaya ev sahipliği yapıyor. Deniz kuşları, ada kıyılarını üreme ve beslenme alanı olarak kullanıyor. Sonbaharda, göç eden kuşlar adayı konaklama noktası olarak seçiyor.
 
 Yaban hayatında, çeşitli memeliler, kuşlar ve sürüngenler sốnglarını sürdürüyor. Ada ekosisteminin korunması, bu canlıların yaşamını sürdürmesi için büyük önem taşıyor. Küçükada, ekolojik değerini koruma altına almak için önemli bir bölge olarak görülüyor.
 

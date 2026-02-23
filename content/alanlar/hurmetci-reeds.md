@@ -23,7 +23,7 @@ wikidata_id: "Q130360502"
 
 # Hürmetçi Reeds
 
-Hürmetçi Reeds, İç Anadolu Bölgesi'nin göbeğinde, Kayseri'nin doğal güzelliklerine ev sahipliği yapan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevre dostu bir ortam sunuyor. Ziyaretçiler, parkın sunduğu çeşitli aktivitelerle doğayla iç içe vakit geçirebiliyorlar. Hürmetçi Reeds, hem doğa severler hem de aileler için ideal bir gezi noktası olarak dikkat çekiyor.
+Hürmetçi Reeds, İç Anadolu Bölgesi'nin göbeğinde, Kayseri'nin doğal güzelliklerine ev sahipliği yapan bir milli parktır. Ziyaretçiler, parkın sunduğu çeşitli aktivitelerle doğayla iç içe vakit geçirebiliyorlar. Hürmetçi Reeds, hem doğa severler hem de aileler için ideal bir gezi noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 

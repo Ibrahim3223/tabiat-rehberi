@@ -30,7 +30,7 @@ wikidata_id: "Q6343944"
 
 # Kabatepe
 
-Çanakkale Boğazı'nın eşsiz manzarasına karşı, Eceabat ilçesi sınırları içerisinde yer alan Kabatepe, bir doğa cenneti. Bu bölge, Eceabat'ın merkezi ile birlikte aynı ilçede bulunuyor. Kuş gözlemcilerinin ve doğa severlerin sık sık ziyaret ettiği Kabatepe, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Eceabat'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta olan Kabatepe, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Çanakkale Boğazı'nın eşsiz manzarasına karşı, Eceabat ilçesi sınırları içerisinde yer alan Kabatepe, bir doğa cenneti. Bu bölge, Eceabat'ın merkezi ile birlikte aynı ilçede bulunuyor. Kuş gözlemcilerinin ve doğa severlerin sık sık ziyaret ettiği Kabatepe, zengin flora ve fauna çeşitliliği ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -66,7 +66,7 @@ Kabatepe'yi keşfetmek için sabah erken saatlerde gitmenizi öneririm, hem kala
 
 - Kabatepe, Çanakkale'nın Eceabat ilçesinde bulunan bir doğa alanıdır.
 - Bu bölge, özellikle kuş gözlemcileri için önemli bir noktadır.
-- Kabatepe, Çanakkale Savaşı'nın önemli çatışmalarından birinin yaşandığı histórik bir alandır.
+- Kabatepe, Çanakkale Savaşı'nın önemli çatışmalarından birinin yaşandığı tarihi bir alandır.
 - Çanakkale Savaşı'na dair kalıntılar ve anıtlar bu bölgede bulunur.
 - Kabatepe'de, Çanakkale Savaşı ile ilgili bir müzede ziyaretçiler tarafından gezilebiliyor.
 - Kabatepe, Gelibolu Yarımadası'nın önemli bir bölümünü kapsar.

@@ -1,7 +1,7 @@
 ---
 title: "Halil Oğlu Haşim Hamamı"
 date: "2026-01-10T04:27:00.733Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738784"
 
 # Halil Oğlu Haşim Hamamı
 
-Halil Oğlu Haşim Hamamı, Gölmarmara'nın en güzel plajlarından biri olarak bilinen bu alan, yaklaşık 140 hektarlık bir alanı kaplar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunar. Gölmarmara'nın merkezi konumunda bulunan bu plaj, Ege Bölgesi'nin en önemli turizm merkezlerinden biri olarak bilinir. Ziyaretçileri, deniz, kum ve güneşin birleştiği bu doğal güzelliği keşfetmeye davet ediyor.
+ Gölmarmara'nın merkezi konumunda bulunan bu plaj, Ege Bölgesi'nin en önemli turizm merkezlerinden biri olarak bilinir. Ziyaretçileri, deniz, kum ve güneşin birleştiği bu doğal güzelliği keşfetmeye davet ediyor.
 
 ## Tarihçe
 

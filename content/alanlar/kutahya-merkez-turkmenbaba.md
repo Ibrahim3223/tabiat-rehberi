@@ -22,7 +22,7 @@ wikidata_id: "Q108227403"
 
 # Kutahya-Merkez Turkmenbaba
 
-Kutahya-Merkez Turkmenbaba, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Turkmenbaba Milli Parkı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki uyumlu ilişki, ziyaretçilere benzersiz bir deneyim sunuyor. İnsanın doğayla iç içe olduğu bu môinde, her mevsim farklı bir güzellik sunuyor.
+Kutahya-Merkez Turkmenbaba, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Turkmenbaba Milli Parkı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki uyumlu ilişki, ziyaretçilere benzersiz bir deneyim sunuyor. İnsanın doğayla iç içe olduğu bu môinde, her mevsim farklı bir güzellik sunuyor.
 
 ## Tarihçe
 

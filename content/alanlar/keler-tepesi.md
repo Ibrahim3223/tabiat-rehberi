@@ -28,7 +28,7 @@ wikidata_id: "Q31388188"
 
 # Keler Tepesi
 
-Keler Tepesi, Denizli'nin Ege Bölgesi'nde yer alan ve ziyaretçilerini doğal güzellikleri ile büyüleyen bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Keler Tepesi, hem yerel halk hem de turistler için keyifli bir gezi noktası olarak hizmet vermekte. Bu alanda, doğa yürüyüşleri, pikni ve fotoğraf çekimi gibi aktiviteler yapabilirsiniz. Keler Tepesi'ne ulaşım, Denizli şehir merkezinden kolay bir şekilde sağlanabiliyor.
+Keler Tepesi, Denizli'nin Ege Bölgesi'nde yer alan ve ziyaretçilerini doğal güzellikleri ile büyüleyen bir tepe. Keler Tepesi, hem yerel halk hem de turistler için keyifli bir gezi noktası olarak hizmet vermekte. Bu alanda, doğa yürüyüşleri, pikni ve fotoğraf çekimi gibi aktiviteler yapabilirsiniz. Keler Tepesi'ne ulaşım, Denizli şehir merkezinden kolay bir şekilde sağlanabiliyor.
 
 ## Tarihçe
 

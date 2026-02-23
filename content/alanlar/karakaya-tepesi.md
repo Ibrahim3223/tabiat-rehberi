@@ -44,7 +44,7 @@ Bu tür doğal alanlar, Türkiye'de tarihsel olarak büyük önem taşımıştı
 
 Doğal yapısı itibariyle Karakaya Tepesi, bir şehir bloğu büyüklüğünde bir alanı kaplıyor. Tepenin şekli ve boyutları, çoğunlukla yerliler tarafından bilinen bir bilgi değil. Ancak, bu tepe, bölgenin diğer tepelerinden farklı olarak daha sivri bir yapıya sahip. Jeolojik olarak, tepe, bölgede bulunan kireçtaşı ve şist kayalardan oluşuyor. Bu kayalar, milyonlarca yıllık bir süreçte erozyon sonucu şekillenerek bugünkü halini almış.
 
-Karakaya Tepesi'nin iklim karakteri, Çorum'un genel iklimine benzer. İlkbahar ve yaz aylarında sıcaklık 25 derecenin üzerine çıkarken, kış aylarında -5 derecenin altına düşebiliyor. Tepenin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/10'u kadar yükseklikte. Bu yükseklik, tepeye tırmandığınızda, etraftaki vadileri ve düzlükleri geniş bir açıdan görmenizi sağlıyor. 
+Karakaya Tepesi'nin iklim karakteri, Çorum'un genel iklimine benzer. İlkbahar ve yaz aylarında sıcaklık 25 derecenin üzerine çıkarken, kış aylarında -5 derecenin altına düşebiliyor. Tepenin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/10'u kadar yükseklikte. Bu yükseklik, tepeye tırmandığınızda, etraftaki vadileri ve düzlükleri geniş bir açıdan görmenizi sağlıyor.
 
 Karakaya Tepesi, çevresindeki diğer doğal alanlarla da bağlantılı. Tepenin etrafında, küçük dere ve çaylar akıyor. Bu su kaynakları, tepeye yakın köylerin tarlalarını sulamada önemli bir rol oynuyor. Ayrıca, tepe, bölgede yaşayan çeşitli hayvan türleri için bir yaşam alanı oluşturuyor. Bu hayvanlar, tepe ve çevresindeki ekosistemi zenginleştiren önemli bir bileşen.
 

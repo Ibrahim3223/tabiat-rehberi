@@ -1,7 +1,7 @@
 ---
 title: "Cem Sultan Türbesi"
 date: "2026-01-10T06:19:57.461Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390740"
 
 # Cem Sultan Türbesi
 
-Bursa'nın tarihi ve doğal güzelliklerini bir araya getiren Cem Sultan Türbesi, Marmara Bölgesi'nin değerli noktalarından biri olarak dikkat çekiyor. Bu özel yer, 140 hektarlık bir alanın içerisinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bursa'nın merkezine yakın konumuyla ziyaretçilerin kolayca ulaşabileceği bir nokta olarak öne çıkıyor. Doğal güzellikleri ve tarihi önemiyle birlikte, bu alan hem yerel halk hem de turistler için önemli bir çekim merkezi olarak görülüyor.
+Bursa'nın tarihi ve doğal güzelliklerini bir araya getiren Cem Sultan Türbesi, Marmara Bölgesi'nin değerli noktalarından biri olarak dikkat çekiyor. Bursa'nın merkezine yakın konumuyla ziyaretçilerin kolayca ulaşabileceği bir nokta olarak öne çıkıyor. Doğal güzellikleri ve tarihi önemiyle birlikte, bu alan hem yerel halk hem de turistler için önemli bir çekim merkezi olarak görülüyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Ali Paşa Türbesi"
 date: "2026-01-10T04:54:10.057Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391507"
 
 # Ali Paşa Türbesi
 
-Ali Paşa Türbesi, Tokat ilinin merkezinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir gezi alanı sunar. Ali Paşa Türbesi, Tokat'ın tarihi ve kültürel mirasının önemli bir parçasıdır. Türbenin yakınında, çeşitli bitki türleri ve zengin fauna bulunan doğal alanlar yer alır. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir gezi deneyimi sunar.
+Ali Paşa Türbesi, Tokat ilinin merkezinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Ali Paşa Türbesi, Tokat'ın tarihi ve kültürel mirasının önemli bir parçasıdır. Türbenin yakınında, çeşitli bitki türleri ve zengin fauna bulunan doğal alanlar yer alır. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir gezi deneyimi sunar.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Ali Paşa Türbesi'nin bulunduğu Karadeniz Bölgesi, zengin bir flora ve fauna 
 
 ## Ziyaret Bilgileri
 
-Ali Paşa Türbesi'ni ziyaret etmek, Tokat'ın tarihi ve doğal güzelliklerini keşfetmek için ideal bir fırsat sunar. Ziyaretçiler, türbenin yakınındaki doğal alanlarda, çeşitli bitki türleri ve zengin fauna bulunan bölgeleri gezebilirler. Ali Paşa Türbesi'ne, Tokat il merkezinden fácil ulaşılabilir. Ziyaretçiler, türbeyi ziyaret ederken, Tokat'ın tarihi ve kültürel mirasını da keşfedebilirler. En iyi ziyaret mevsimi, ilkbahar ve yaz aylarıdır.
+Ali Paşa Türbesi'ni ziyaret etmek, Tokat'ın tarihi ve doğal güzelliklerini keşfetmek için ideal bir fırsat sunar. Ziyaretçiler, türbenin yakınındaki doğal alanlarda, çeşitli bitki türleri ve zengin fauna bulunan bölgeleri gezebilirler. Ali Paşa Türbesi'ne, Tokat il merkezinden kolay ulaşılabilir. Ziyaretçiler, türbeyi ziyaret ederken, Tokat'ın tarihi ve kültürel mirasını da keşfedebilirler. En iyi ziyaret mevsimi, ilkbahar ve yaz aylarıdır.
 
 ## İlginç Bilgiler
 

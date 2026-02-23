@@ -32,7 +32,7 @@ Erzurum'un dağlık coğrafyası, Türkiye'nin en etkileyici doğal güzellikler
 
 ## Tarihçe
 
-Erzurum bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, bu topraklarda Hitit, Urartu ve Pers uygarlıkları hüküm sürmüştür. Daha sonra Roma ve Bizans İmparatorluklarının etkisi altına giren bölge, 11. yüzyılda Türklerin yerleşim yeri haline gelmiştir. Bu tarihsel zenginlik, Paşapınar Dağı gibi doğal alanların da önemli bir Role sahip olduğunu göstermektedir.
+Erzurum bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, bu topraklarda Hitit, Urartu ve Pers uygarlıkları hüküm sürmüştür. Daha sonra Roma ve Bizans İmparatorluklarının etkisi altına giren bölge, 11. yüzyılda Türklerin yerleşim yeri haline gelmiştir. Bu tarihsel zenginlik, Paşapınar Dağı gibi doğal alanların da önemli bir Role sahip olduğunu göstermektedir.
 
 Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde bulunan dağlık alanlar, tarihsel olarak önemli ticaret yollarının kavşak noktası olmuştur. İpek Yolu gibi önemli ticaret güzergahları, bu bölgeden geçerek Anadolu'nun çeşitli bölgelerini birbirine bağlamıştır. Bu nedenle, Paşapınar Dağı gibi doğal alanlar, sadece doğal güzellikleri ile değil, aynı zamanda tarihsel önemi ile de dikkat çekmektedir.
 
@@ -50,11 +50,11 @@ Jeolojik açıdan bakıldığında, Paşapınar Dağı'nın fiziksel yapısı ha
 
 ## Flora ve Fauna
 
-Paşapınar Dağı, Erzurum'un yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Paşapınar Dağı, Erzurum'un yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü açısından, ilkbaharın gelmesiyle birlikte dağ yamaçları renkli bir hal alır. Çiçekler açmaya başlar ve dağ eteklerinde çeşitli otsu bitkiler yetişir. Sonbaharda, yükseklik zonlarına bağlı olarak farklı bitki türleri görülebilir.
 
-Yaban hayatı açısından, Paşapınar Dağı memeliler, kuşlar ve sürüngenlerle dolu bir yaşam alanı sunar. Dağ keçileri, yaban keçileri gibi memeliler, dağların yüksek kesimlerinde yaşamını sürdürürken, çeşitli kuş türleri göç için burayı kullanır. 
+Yaban hayatı açısından, Paşapınar Dağı memeliler, kuşlar ve sürüngenlerle dolu bir yaşam alanı sunar. Dağ keçileri, yaban keçileri gibi memeliler, dağların yüksek kesimlerinde yaşamını sürdürürken, çeşitli kuş türleri göç için burayı kullanır.
 
 Ekolojik değer açısından, Paşapınar Dağı yüksek dağ ekolojisi ve alpin çayırlarıyla birlikte endemik türlerin yaşam alanıdır. Bu bölgenin korunması, doğa dengesinin sürdürülmesi için önemlidir.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228282"
 
 # Sinop-Sinop-Erfelek-Yabani kiraz
 
-Sinop'un Erfelek ilçesinde yer alan milli park, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanı ve yabanî kiraz ağaçlarıyla dikkat çekiyor. Bu doğal alan, Karadeniz Bölgesi'nin zengin flora ve fauna çeşitliliğini sunuyor. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna found. Doğa severler için ideal bir destinasyon olan milli park, ziyaretçilerini doğanın güzelliği ile büyülüyor.
+ Bu doğal alan, Karadeniz Bölgesi'nin zengin flora ve fauna çeşitliliğini sunuyor. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna found. Doğa severler için ideal bir destinasyon olan milli park, ziyaretçilerini doğanın güzelliği ile büyülüyor.
 
 ## Tarihçe
 

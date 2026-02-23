@@ -1,7 +1,7 @@
 ---
 title: "Anemurium Küçük Hamam"
 date: "2026-01-09T23:34:03.294Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739103"
 
 # Anemurium Küçük Hamam
 
-Anemurium Küçük Hamam, Mersin'in Anamur ilçesinde bulunan, tarihi ve doğal güzellikleri bir araya getiren özel bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Akdeniz Bölgesi'nin en önemli tarihi sitelerinden biridir. Bu plaj, hem tarihi kalıntılarını keşfetmek hem de deniz ve güneşin tadını çıkarmak isteyenler için eşsiz bir destinasyon sunuyor. Anemurium Küçük Hamam, ziyaretçilerini hem geçmişe yolculuğa çıkarıyor hem de günümüzün rahatlık ve eğlencesini sunuyor.
+Anemurium Küçük Hamam, Mersin'in Anamur ilçesinde bulunan, tarihi ve doğal güzellikleri bir araya getiren özel bir plajdır. Bu plaj, hem tarihi kalıntılarını keşfetmek hem de deniz ve güneşin tadını çıkarmak isteyenler için eşsiz bir destinasyon sunuyor. Anemurium Küçük Hamam, ziyaretçilerini hem geçmişe yolculuğa çıkarıyor hem de günümüzün rahatlık ve eğlencesini sunuyor.
 
 ## Tarihçe
 

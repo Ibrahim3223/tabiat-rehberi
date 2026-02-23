@@ -1,7 +1,7 @@
 ---
 title: "Emir Nureddin Türbesi"
 date: "2026-01-10T05:50:47.403Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582379"
 
 # Emir Nureddin Türbesi
 
-Emir Nureddin Türbesi, Konya'nın Meram ilçesinde yer alan tarihi ve kültürel zenginliğiyle dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi geçmişiyle ziyaretçilerini etkiliyor. Bu alan, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor. Emir Nureddin Türbesi, Konya'nın önemli tarihi mekanlarından biri olarak ziyaretçilerini bekliyor.
+Emir Nureddin Türbesi, Konya'nın Meram ilçesinde yer alan tarihi ve kültürel zenginliğiyle dikkat çekiyor. Bu alan, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor. Emir Nureddin Türbesi, Konya'nın önemli tarihi mekanlarından biri olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -54,4 +54,4 @@ Emir Nureddin Türbesi, ziyaretçilerine tarihi geçmişi hakkında bilgi sahibi
 - Türbenin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmıştır.
 - Emir Nureddin Türbesi, coğrafi konumu ve doğal güzellikleriyle dikkat çekiyor.
 - Ziyaretçiler, bu türbeyi ziyaret ederek flora ve faunayı gözlemleyebilir ve doğal güzellik hakkında bilgi sahibi olabilirler.
-- Emir Nureddin Türbesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
+

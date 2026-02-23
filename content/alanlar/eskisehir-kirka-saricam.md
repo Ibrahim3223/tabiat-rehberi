@@ -22,7 +22,7 @@ wikidata_id: "Q108227979"
 
 # Eskişehir-Kirka Saricam
 
-Eskişehir-Kirka Saricam Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzak bir sığınak sunar. Kirka Saricam, Eskişehir'in doğal güzelliklerinin buluşma noktası olarak bilinir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Park, hem yerli hem de yabancı turistlerin ilgisini çeker ve doğa severler için bir cennet olarak kabul edilir. Kirka Saricam Milli Parkı, Eskişehir'in turizm potansiyelini yükselten önemli bir destinasyondur.
+Eskişehir-Kirka Saricam Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Kirka Saricam, Eskişehir'in doğal güzelliklerinin buluşma noktası olarak bilinir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Park, hem yerli hem de yabancı turistlerin ilgisini çeker ve doğa severler için bir cennet olarak kabul edilir. Kirka Saricam Milli Parkı, Eskişehir'in turizm potansiyelini yükselten önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Eskişehir-Kirka Saricam Milli Parkı, yüzyıllar boyunca doğa ve insan arası
 
 ## Coğrafya
 
-Eskişehir-Kirka Saricam Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Kirka Saricam, Eskişehir'in merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna için elverişli bir ortam sunar. Bölge, farklı mevsimlerde ziyaretçilere farklı güzellikler sunar. İlkbahar ve yaz aylarında, parkın yeşilliği ve rengarenk çiçekleri ziyaretçileri karşılar. Sonbahar ve kış aylarında ise, parkın manzarası farklı bir güzelliğe bürünür. Kirka Saricam Milli Parkı, Eskişehir'in doğal güzelliklerinin sergilendiği bir açık hava müzesi olarak da düşünülebilir.
+Eskişehir-Kirka Saricam Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Kirka Saricam, Eskişehir'in merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna için elverişli bir ortam sunar. Bölge, farklı mevsimlerde ziyaretçilere farklı güzellikler sunar. İlkbahar ve yaz aylarında, parkın yeşilliği ve rengarenk çiçekleri ziyaretçileri karşılar. Sonbahar ve kış aylarında ise, parkın manzarası farklı bir güzelliğe bürünür. Kirka Saricam Milli Parkı, Eskişehir'in doğal güzelliklerinin sergilendiği bir açık hava müzesi olarak da düşünülebilir.
 
 ## Flora ve Fauna
 

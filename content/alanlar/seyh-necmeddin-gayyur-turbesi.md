@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Necmeddin Gayyur Türbesi"
 date: "2026-01-10T05:37:33.321Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391778"
 
 # Şeyh Necmeddin Gayyur Türbesi
 
-Şeyh Necmeddin Gayyur Türbesi, Mersin'in Tarsus ilçesinde yer alan bir kültür ve tarih merkezi. Bu önemli mekan, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir bölgeye yayılmış durumda. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Tarsus'un merkezinde bulunan Şeyh Necmeddin Gayyur Türbesi, şehir hayatının içinde tarihi ve doğal güzellikleri bir araya getiren özel bir nokta.
+Şeyh Necmeddin Gayyur Türbesi, Mersin'in Tarsus ilçesinde yer alan bir kültür ve tarih merkezi. Bu önemli mekan, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir bölgeye yayılmış durumda. Tarsus'un merkezinde bulunan Şeyh Necmeddin Gayyur Türbesi, şehir hayatının içinde tarihi ve doğal güzellikleri bir araya getiren özel bir nokta.
 
 ## Tarihçe
 

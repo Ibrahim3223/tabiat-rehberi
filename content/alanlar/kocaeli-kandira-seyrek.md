@@ -23,7 +23,7 @@ wikidata_id: "Q108227401"
 
 # Kocaeli-Kandira Seyrek
 
-Kocaeli-Kandira Seyrek, Marmara Bölgesi'nin en güzel milli parklarından biri olarak dikkat çekiyor. 140 hektarlık bir alanı kapsayan bu doğal alan, yaklaşık 200 futbol sahası büyüklüğünde. Kandira Seyrek, Kocaeli ilinin önemli bir turizm merkezi olarak bilinir. Burada ziyaretçiler, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir. Kandira Seyrek, aynı zamanda zengin fauna ve florasıyla dikkat çekiyor. Bu milli park, özellikle doğa severler ve fotoğraf tutkunları için ideal bir destinasyon.
+Kocaeli-Kandira Seyrek, Marmara Bölgesi'nin en güzel milli parklarından biri olarak dikkat çekiyor. Kandira Seyrek, Kocaeli ilinin önemli bir turizm merkezi olarak bilinir. Burada ziyaretçiler, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir. Kandira Seyrek, aynı zamanda zengin fauna ve florasıyla dikkat çekiyor. Bu milli park, özellikle doğa severler ve fotoğraf tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Kocaeli-Kandira Seyrek milli parkının tarihi geçmişi, yüzyıllar boyunca ş
 
 ## Coğrafya
 
-Kocaeli-Kandira Seyrek, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziden oluşur. Bu milli park, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde. Kandira Seyrek'in coğrafi konumu, ziyaretçilere geniş bir manzara sunar. Burada, Marmara Denizi'ne doğru uzanan tepeler ve vadiler, ziyaretçilere eşsiz bir görünüm sağlar. Kocaeli-Kandira Seyrek, aynı zamanda iklim açısından da dikkat çekiyor. Bu bölgede, karasal iklim hakimdir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, Kandira Seyrek'in flora ve faunasını şekillendirmiştir. Burada, çeşitli bitki türleri ve hayvanlar, mevsimsel değişimlere uyum sağlamışlardır.
+Kocaeli-Kandira Seyrek, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziden oluşur. Kandira Seyrek'in coğrafi konumu, ziyaretçilere geniş bir manzara sunar. Burada, Marmara Denizi'ne doğru uzanan tepeler ve vadiler, ziyaretçilere eşsiz bir görünüm sağlar. Kocaeli-Kandira Seyrek, aynı zamanda iklim açısından da dikkat çekiyor. Bu bölgede, karasal iklim hakimdir ve mevsimsel değişimler belirgindir. Kışlar soğuk ve yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, Kandira Seyrek'in flora ve faunasını şekillendirmiştir. Burada, çeşitli bitki türleri ve hayvanlar, mevsimsel değişimlere uyum sağlamışlardır.
 
 ## Flora ve Fauna
 
@@ -45,6 +45,6 @@ Kocaeli-Kandira Seyrek, ziyaretçilere doğa yürüyüşleri, piknik alanları v
 
 - Kocaeli-Kandira Seyrek, Marmara Bölgesi'nin en büyük milli parklarından biri.
 - Kandira Seyrek, 140 hektarlık bir alanı kapsar.
-- Bu milli park, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Kocaeli-Kandira Seyrek, zengin fauna ve florasına sahiptir.
 - Kandira Seyrek, Marmara Denizi'ne doğru uzanan tepeler ve vadilerle çevrilidir.

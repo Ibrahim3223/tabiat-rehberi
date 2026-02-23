@@ -22,7 +22,7 @@ wikidata_id: "Q108227357"
 
 # Sırıkyayla Göknari
 
-Sırıkyayla Göknari, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bir milli parktır. Bu bölge, zengin flora ve faunasıyla dikkat çekmektedir. Göknari'nin eşsiz güzelliği, ziyaretçilerini doğanın depthsına çekmektedir. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Sırıkyayla Göknari, doğa severler için bir cennet olarak karşımıza çıkmaktadır.
+ Bu bölge, zengin flora ve faunasıyla dikkat çekmektedir. Göknari'nin eşsiz güzelliği, ziyaretçilerini doğanın depthsına çekmektedir. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Sırıkyayla Göknari, doğa severler için bir cennet olarak karşımıza çıkmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sırıkyayla Göknari'nin tarihi geçmişi, yüzyıllar boyunca süregelmiştir.
 
 ## Coğrafya
 
-Sırıkyayla Göknari, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğündedir. Göknari'nin coğrafi yapısı, ziyaretçilerini doğanın depthsına çekmektedir. Milli park, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. Sırıkyayla Göknari, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Bu bölge, özellikle bahar ve yaz aylarında, yeşilin çeşitli tonlarını ziyaretçilerine sunmaktadır. Coğrafi konumu itibariyle, Göknari, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biridir.
+Sırıkyayla Göknari, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Göknari'nin coğrafi yapısı, ziyaretçilerini doğanın depthsına çekmektedir. Milli park, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. Sırıkyayla Göknari, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Bu bölge, özellikle bahar ve yaz aylarında, yeşilin çeşitli tonlarını ziyaretçilerine sunmaktadır. Coğrafi konumu itibariyle, Göknari, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biridir.
 
 ## Flora ve Fauna
 

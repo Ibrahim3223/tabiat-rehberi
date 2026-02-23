@@ -1,7 +1,7 @@
 ---
 title: "Masumiyet Müzesi"
 date: "2026-01-09T22:59:57.599Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q15961492"
 
 # Masumiyet Müzesi
 
-Masumiyet Müzesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan özel bir plajdır. 140 hektarlık bir yeşil alan içinde bulunan bu plaj, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerine geniş bir açık alan sunuyor. Bu alan, hem doğayı sevdiğini hem de şehrin kalbinde olmak isteyenler için ideal bir seçim.
+Masumiyet Müzesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan özel bir plajdır. 140 hektarlık bir yeşil alan içinde bulunan bu plaj, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim. Bu alan, hem doğayı sevdiğini hem de şehrin kalbinde olmak isteyenler için ideal bir seçim.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Masumiyet Müzesi, tarihi geçmişiyle dikkat çekiyor. Bu bölge, yüzyıllar b
 
 ## Coğrafya
 
-Masumiyet Müzesi, Marmara Bölgesi'nin en güzel noktalarından biri olan Beyoğlu'nda yer alıyor. Bu bölge, İstanbul'un kalbinde yer alıyor ve şehrin tüm olanaklarına yakın mesafede. Müze, 140 hektarlık bir yeşil alan içinde bulunuyor ve ziyaretçilerine geniş bir açık alan sunuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim. Müzenin etrafında, çeşitli bitki türleri ve zengin fauna found. Bu coğrafi konumu, müzenin güzelliğini ve ziyaretçilerine sunduğu deneyimi daha da özel kılıyor.
+Masumiyet Müzesi, Marmara Bölgesi'nin en güzel noktalarından biri olan Beyoğlu'nda yer alıyor. Bu bölge, İstanbul'un kalbinde yer alıyor ve şehrin tüm olanaklarına yakın mesafede. Müze, 140 hektarlık bir yeşil alan içinde bulunuyor ve ziyaretçilerine geniş bir açık alan sunuyor. Müzenin etrafında, çeşitli bitki türleri ve zengin fauna found. Bu coğrafi konumu, müzenin güzelliğini ve ziyaretçilerine sunduğu deneyimi daha da özel kılıyor.
 
 ## Flora ve Fauna
 

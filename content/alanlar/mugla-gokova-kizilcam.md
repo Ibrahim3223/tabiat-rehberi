@@ -22,7 +22,7 @@ wikidata_id: "Q108227462"
 
 # Mugla-Gokova Kızılçam
 
-Mugla-Gokova Kızılçam, Muğla'nın Ege Bölgesi'nde yer alan 140 hektarlık bir milli parktır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Parkın içinde yer alan kızılçam ağaçları, hem ziyaretçilere görsel bir şölen sunar hem de bölgenin ekolojisine katkı sağlar. Mugla-Gokova Kızılçam, doğa severlerin ve fotoğraf tutkunlarının mutlaka ziyaret etmesi gereken bir destinasyon olarak dikkat çeker.
+Mugla-Gokova Kızılçam, Muğla'nın Ege Bölgesi'nde yer alan 140 hektarlık bir milli parktır. Parkın içinde yer alan kızılçam ağaçları, hem ziyaretçilere görsel bir şölen sunar hem de bölgenin ekolojisine katkı sağlar. Mugla-Gokova Kızılçam, doğa severlerin ve fotoğraf tutkunlarının mutlaka ziyaret etmesi gereken bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228491"
 
 # Kahramanmaras-Dortyol-Ufacik-Dogu Kayini
 
-Kahramanmaras-Dortyol-Ufacik-Dogu Kayini milli parkı, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerini sunan bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle dolu. Bu bölge, doğa severler ve macera arayışında olanlar için ideal bir kaçış noktası. Milli parkın sunduğu manzaralar, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunuyor.
+Kahramanmaras-Dortyol-Ufacik-Dogu Kayini milli parkı, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerini sunan bir destinasyon. Bu bölge, doğa severler ve macera arayışında olanlar için ideal bir kaçış noktası. Milli parkın sunduğu manzaralar, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

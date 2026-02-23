@@ -22,7 +22,7 @@ wikidata_id: "Q108227264"
 
 # Kastamonu-Samatlar-Dorukyayla Kayin
 
-Kastamonu'nun Samatlar ve Dorukyayla köyleri arasında yer alan Dorukyayla Kayin Milli Parkı, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini karşılar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin doğal güzelliklerini bir araya getiren önemli bir destinasyon. Milli park, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. Dorukyayla Kayin Milli Parkı, hem doğa severler hem de tarih meraklıları için keyifli bir gezi deneyimi sunuyor. Parkın etrafındaki köyler, geleneksel mimari örnekleriyle ziyaretçileri karşılar.
+Kastamonu'nun Samatlar ve Dorukyayla köyleri arasında yer alan Dorukyayla Kayin Milli Parkı, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini karşılar. Milli park, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. Dorukyayla Kayin Milli Parkı, hem doğa severler hem de tarih meraklıları için keyifli bir gezi deneyimi sunuyor. Parkın etrafındaki köyler, geleneksel mimari örnekleriyle ziyaretçileri karşılar.
 
 ## Tarihçe
 

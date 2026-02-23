@@ -22,7 +22,7 @@ wikidata_id: "Q108226187"
 
 # Boğazcık Koyu Mağara Sit Alanı
 
-Boğazcık Koyu Mağara Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda çeşitli bitki türleri yetiştiriliyor. Bölgenin coğrafi yapısı, ziyaretçilere benzersiz bir deneyim sunuyor. Boğazcık Koyu Mağara Sit Alanı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer.
+Boğazcık Koyu Mağara Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bölgenin coğrafi yapısı, ziyaretçilere benzersiz bir deneyim sunuyor. Boğazcık Koyu Mağara Sit Alanı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Boğazcık Koyu Mağara Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca ş
 
 ## Coğrafya
 
-Boğazcık Koyu Mağara Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bölge, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda çeşitli bitki türleri yetiştiriliyor. Mağara sit alanı, coğrafi olarak farklı iklim ve toprak koşullarına sahiptir. Bölgenin coğrafi yapısı, ziyaretçilere benzersiz bir deneyim sunuyor. Boğazcık Koyu Mağara Sit Alanı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer. Bölgenin coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor.
+Boğazcık Koyu Mağara Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Mağara sit alanı, coğrafi olarak farklı iklim ve toprak koşullarına sahiptir. Bölgenin coğrafi yapısı, ziyaretçilere benzersiz bir deneyim sunuyor. Boğazcık Koyu Mağara Sit Alanı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer. Bölgenin coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Boğazcık Koyu Mağara Sit Alanı, ziyaretçilere doğa ve tarih hakkında bilg
 
 ## İlginç Bilgiler
 
-- Boğazcık Koyu Mağara Sit Alanı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bölge, çeşitli bitki türleri ile birlikte, farklı hayvan türlerine de ev sahipliği yapıyor.
 - Mağara sit alanı, mevsimsel değişimlere uyum sağlayan ekosistemi ile dikkat çekiyor.
 - Boğazcık Koyu Mağara Sit Alanı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer.

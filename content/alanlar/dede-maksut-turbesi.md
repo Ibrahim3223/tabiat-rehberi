@@ -1,7 +1,7 @@
 ---
 title: "Dede Maksut Türbesi"
 date: "2026-01-10T06:05:41.541Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bitlis"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390522"
 
 # Dede Maksut Türbesi
 
-Dede Maksut Türbesi, Doğu Anadolu Bölgesi'nin Bitlis ilinin Ahlat ilçesinde bulunan bir tarihi ve kültürel mekândır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yüksek dağlarla çevrili bir bölgede yer alıyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve zengin bir tarihi geçmişe sahiptir. Dede Maksut Türbesi, bu bölgenin en önemli tarihi ve kültürel yapılarından biri olarak kabul ediliyor.
+Dede Maksut Türbesi, Doğu Anadolu Bölgesi'nin Bitlis ilinin Ahlat ilçesinde bulunan bir tarihi ve kültürel mekândır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve zengin bir tarihi geçmişe sahiptir. Dede Maksut Türbesi, bu bölgenin en önemli tarihi ve kültürel yapılarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Dede Maksut Türbesi'nin tarihi geçmişi, bölgenin tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Dede Maksut Türbesi, Doğu Anadolu Bölgesi'nin Bitlis ilinin Ahlat ilçesinde, yüksek dağlarla çevrili bir bölgede yer alıyor. Bu bölge, coğrafi olarak çeşitli dağlar, vadiler ve nehirler ile çevrilidir. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu bölge, coğrafi olarak çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Ayrıca, bölgenin iklimi, karasal iklim özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Dede Maksut Türbesi, bu coğrafi ortam içinde, bölgenin doğal güzelliklerini ve tarihi değerlerini bir araya getiren önemli bir kültürel merkez olarak kabul ediliyor.
+Dede Maksut Türbesi, Doğu Anadolu Bölgesi'nin Bitlis ilinin Ahlat ilçesinde, yüksek dağlarla çevrili bir bölgede yer alıyor. Bu bölge, coğrafi olarak çeşitli dağlar, vadiler ve nehirler ile çevrilidir. Bu bölge, coğrafi olarak çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Ayrıca, bölgenin iklimi, karasal iklim özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Dede Maksut Türbesi, bu coğrafi ortam içinde, bölgenin doğal güzelliklerini ve tarihi değerlerini bir araya getiren önemli bir kültürel merkez olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

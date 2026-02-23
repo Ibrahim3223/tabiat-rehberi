@@ -52,7 +52,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Herekol Dağı'nın çevr
 
 Herekol Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çeker. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle kaplanır ve bozkırın kuraklığına adapte olmuş bitkiler yeşerir. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği de göze çarpar. Dağın farklı yüksekliklerinde, farklı türlerin yaşam alanlarını gözlemleme mümkündür.
 
-Yaban hayatı açısından zengin olan Herekol Dağı, memeliler, kuşlar ve sürüngenler için uygun bir yaşam alanı sunar. Sonbahar aylarında, göç eden kuşlar dağ üzerinden geçer ve bu dönemde dağ, various türlerin konaklama alanı haline gelir. Dağın ekolojik değeri, bu çeşitlilikte yatmaktadır. Ancak, koruma durumu açısından bazı endişeler vardır. İklim değişikliği ve insan faaliyetleri, bu dağ ekosisteminin dengesini tehdit etmektedir. Bu nedenle, Herekol Dağı'nın korunması ve gelecek nesiller için bảo tồn edilmesi önemlidir.
+Yaban hayatı açısından zengin olan Herekol Dağı, memeliler, kuşlar ve sürüngenler için uygun bir yaşam alanı sunar. Sonbahar aylarında, göç eden kuşlar dağ üzerinden geçer ve bu dönemde dağ, various türlerin konaklama alanı haline gelir. Dağın ekolojik değeri, bu çeşitlilikte yatmaktadır. Ancak, koruma durumu açısından bazı endişeler vardır. İklim değişikliği ve insan faaliyetleri, bu dağ ekosisteminin dengesini tehdit etmektedir. Bu nedenle, Herekol Dağı'nın korunması ve gelecek nesiller için koruma tồn edilmesi önemlidir.
 
 ## Ziyaret Bilgileri
 

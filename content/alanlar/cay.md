@@ -23,7 +23,7 @@ wikidata_id: "Q108228614"
 
 # ÇAY
 
-İç Anadolu Bölgesi'nin kalbinde yer alan ÇAY milli parkı, 140 hektarlık geniş bir yeşil alana sahiptir. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Böyle geniş bir alan, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar. Milli park, bölgenin ekolojik dengesini korumak amacıyla kurulmuş ve doğal güzellikleri ile ziyaretçilerini çekmektedir. ÇAY, bölgede yer alan diğer milli parklardan farklı olarak, benzersiz flora ve fauna çeşitliliğine sahiptir.
+İç Anadolu Bölgesi'nin kalbinde yer alan ÇAY milli parkı, 140 hektarlık geniş bir yeşil alana sahiptir. Böyle geniş bir alan, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar. Milli park, bölgenin ekolojik dengesini korumak amacıyla kurulmuş ve doğal güzellikleri ile ziyaretçilerini çekmektedir. ÇAY, bölgede yer alan diğer milli parklardan farklı olarak, benzersiz flora ve fauna çeşitliliğine sahiptir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ wikidata_id: "Q108228614"
 
 ## Coğrafya
 
-ÇAY milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Park, 140 hektarlık bir alanı kaplamakta ve bu genişlik, ziyaretçilere doğayı keşfetme fırsatı sunmaktadır. Milli parkın coğrafi yapısı, genellikle yeşil alanlardan oluşmaktadır. Ayrıca, parkta çeşitli su kaynakları ve akarsular da bulunmaktadır. Bu su kaynakları, parkın flora ve fauna çeşitliliğini desteklemektedir. ÇAY milli parkı, coğrafi konumu itibariyle, ziyaretçilere farklı mevsimlerde çeşitli güzellikler sunmaktadır. Kışın karla kaplı olan park, ilkbaharda yeşillenerek ziyaretçilerini ağırlamaya başlamaktadır. Yaz aylarında ise, serin ve ferah bir atmosfer sunmaktadır. Sonbaharda ise, renkli bir manzara ile ziyaretçilerini büyülemektedir.
+ÇAY milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Milli parkın coğrafi yapısı, genellikle yeşil alanlardan oluşmaktadır. Ayrıca, parkta çeşitli su kaynakları ve akarsular da bulunmaktadır. Bu su kaynakları, parkın flora ve fauna çeşitliliğini desteklemektedir. ÇAY milli parkı, coğrafi konumu itibariyle, ziyaretçilere farklı mevsimlerde çeşitli güzellikler sunmaktadır. Kışın karla kaplı olan park, ilkbaharda yeşillenerek ziyaretçilerini ağırlamaya başlamaktadır. Yaz aylarında ise, serin ve ferah bir atmosfer sunmaktadır. Sonbaharda ise, renkli bir manzara ile ziyaretçilerini büyülemektedir.
 
 ## Flora ve Fauna
 

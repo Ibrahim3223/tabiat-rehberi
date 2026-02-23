@@ -1,7 +1,7 @@
 ---
 title: "Tavuk Pazarı Hamamı"
 date: "2026-01-09T22:49:52.561Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738657"
 
 # Tavuk Pazarı Hamamı
 
-Tavuk Pazarı Hamamı, Bursa'nın Osmangazi ilçesinde yer alan tarihi bir hamamdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Tavuk Pazarı Hamamı, ziyaretçilerini hem tarihi güzellikleriyle hem de doğal güzellikleriyle karşılar. Buradaki hamam, yüzyıllar boyunca insanların temizlenme ve sosyalize olmak için geldikleri önemli bir merkez olarak hizmet vermiştir. Tavuk Pazarı Hamamı, günümüzde de tarihi ve kültürel önemi nedeniyle ziyaretçilerini ağırlamaya devam ediyor.
+Tavuk Pazarı Hamamı, Bursa'nın Osmangazi ilçesinde yer alan tarihi bir hamamdır. Tavuk Pazarı Hamamı, ziyaretçilerini hem tarihi güzellikleriyle hem de doğal güzellikleriyle karşılar. Buradaki hamam, yüzyıllar boyunca insanların temizlenme ve sosyalize olmak için geldikleri önemli bir merkez olarak hizmet vermiştir. Tavuk Pazarı Hamamı, günümüzde de tarihi ve kültürel önemi nedeniyle ziyaretçilerini ağırlamaya devam ediyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Tavuk Pazarı Hamamı, tarihi geçmişi ile dikkat çeker. Bu hamam, yüzyıllar
 
 ## Coğrafya
 
-Tavuk Pazarı Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor. Bu ilçe, Marmara Bölgesi'nde bulunur ve coğrafi olarak önemli bir konuma sahiptir. Tavuk Pazarı Hamamı, ilçe merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Bu hamam, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Tavuk Pazarı Hamamı, çevresi ile birlikte doğal güzellikleri ile dikkat çeker. Buradaki flora, çeşitli ağaçlar ve bitkiler ile zengin bir yapıya sahiptir. Tavuk Pazarı Hamamı, fauna olarak da zengin bir yapıya sahiptir ve buradaki canlılar, ziyaretçileri tarafından büyük ilgi görür. Tavuk Pazarı Hamamı, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+Tavuk Pazarı Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor. Bu ilçe, Marmara Bölgesi'nde bulunur ve coğrafi olarak önemli bir konuma sahiptir. Tavuk Pazarı Hamamı, ilçe merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Tavuk Pazarı Hamamı, çevresi ile birlikte doğal güzellikleri ile dikkat çeker. Buradaki flora, çeşitli ağaçlar ve bitkiler ile zengin bir yapıya sahiptir. Tavuk Pazarı Hamamı, fauna olarak da zengin bir yapıya sahiptir ve buradaki canlılar, ziyaretçileri tarafından büyük ilgi görür. Tavuk Pazarı Hamamı, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Tavuk Pazarı Hamamı, ziyaretçilerini bekliyor. Bu hamam, ulaşımı kolay bir
 
 - Tavuk Pazarı Hamamı, yüzyıllar boyunca insanların temizlenme ve sosyalize olmak için geldikleri önemli bir merkez olarak hizmet vermiştir.
 - Tavuk Pazarı Hamamı, Osmanlı Dönemi'nde inşa edilmiştir.
-- Tavuk Pazarı Hamamı, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Tavuk Pazarı Hamamı, flora olarak çeşitli ağaçlar ve bitkiler ile zengin bir yapıya sahiptir.
 - Tavuk Pazarı Hamamı, fauna olarak da zengin bir yapıya sahiptir ve buradaki canlılar, ziyaretçileri tarafından büyük ilgi görür.

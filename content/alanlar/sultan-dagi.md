@@ -51,11 +51,11 @@ Sultan Dağı'nın iklim karakteri, bölgenin genel iklim özelliklerini yansıt
 
 ## Flora ve Fauna
 
-Sultan Dağı, Manisa'nın zeytinlikler ve çam ormanları ile çevrili bir bölgesinde yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sultan Dağı, Manisa'nın zeytinlikler ve çam ormanları ile çevrili bir bölgesinde yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsüne baktığımızda, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında çam ormanları serin bir sığınak oluyor. Sonbaharda ise dağların yükseklik zonlarında alpin flora ortaya çıkıyor. 
+Bitki örtüsüne baktığımızda, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında çam ormanları serin bir sığınak oluyor. Sonbaharda ise dağların yükseklik zonlarında alpin flora ortaya çıkıyor.
 
-Yaban hayatı da bir o kadar zengin. Dağın yüksek kesimlerinde memeliler ve kuşlar yaşarken, sürüngenler ise daha çok alçak kesimlerde görülüyor. Göç mevsimlerinde, dağlar birçok kuş türünün konaklama yeri oluyor. 
+Yaban hayatı da bir o kadar zengin. Dağın yüksek kesimlerinde memeliler ve kuşlar yaşarken, sürüngenler ise daha çok alçak kesimlerde görülüyor. Göç mevsimlerinde, dağlar birçok kuş türünün konaklama yeri oluyor.
 
 Bu dağ ekosisteminin ekolojik değeri oldukça yüksek. Zeytinlikler ve çam ormanları ile birlikte bir bütün olan bu bölge, birçok canlı türünün yaşam alanı. Ancak, bu doğal alanların korunmasına dikkat etmek gerekiyor. Sultan Dağı, sadece bölgenin ekolojik dengesi için değil, aynı zamanda turizm ve doğa severler için de önemli bir değer.
 

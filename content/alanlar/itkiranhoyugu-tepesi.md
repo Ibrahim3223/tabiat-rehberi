@@ -28,7 +28,7 @@ wikidata_id: "Q34810527"
 
 # İtkiranhöyüğü Tepesi
 
-İtkiranhöyüğü Tepesi, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. İtkiranhöyüğü Tepesi, hem tarihi hem de doğal güzellikleri ile dikkat çeker. Bu tepe, bölgenin önemli bir turizm merkezi olarak kabul edilir ve ziyaretçiler, burada hem tarihi kalıntıları inceleyebilir hem de doğal güzelliklerin keyfini çıkarabilir.
+İtkiranhöyüğü Tepesi, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. İtkiranhöyüğü Tepesi, hem tarihi hem de doğal güzellikleri ile dikkat çeker. Bu tepe, bölgenin önemli bir turizm merkezi olarak kabul edilir ve ziyaretçiler, burada hem tarihi kalıntıları inceleyebilir hem de doğal güzelliklerin keyfini çıkarabilir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ wikidata_id: "Q34810527"
 ## İlginç Bilgiler
 
 - İtkiranhöyüğü Tepesi, 140 hektarlık bir alanı kapsar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - İtkiranhöyüğü Tepesi, hem tarihi hem de doğal güzellikleri ile dikkat çeker.
 - Bu tepe, bölgenin önemli bir turizm merkezi olarak kabul edilir.
 - İtkiranhöyüğü Tepesi, ziyaretçilere hem tarihi hem de kültürel bir deneyimi sunar.

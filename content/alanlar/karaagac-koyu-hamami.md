@@ -1,7 +1,7 @@
 ---
 title: "Karaağaç Köyü Hamamı"
 date: "2026-01-10T04:26:44.361Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738790"
 
 # Karaağaç Köyü Hamamı
 
-Karaağaç Köyü Hamamı, Marmara Bölgesi'nin Gölpazarı ilçesinde, Bilecik'in merkezine uzun bir mesafe uzaklıkta bulunan bir plajdır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş ve yeşil bir alan sunar. Bu plaj, bölge halkının ve turistlerin tercih ettiği bir yerdir. Karaağaç Köyü Hamamı, aynı zamanda tarihi ve kültürel açıdan da önemli bir yer olarak bilinir. Plajın yakınında, tarihi hamam kalıntıları ve diğer tarihi eserler bulunmaktadır. Bu nedenle, hem doğa hem de tarih severler için ideal bir destinasyondur.
+Karaağaç Köyü Hamamı, Marmara Bölgesi'nin Gölpazarı ilçesinde, Bilecik'in merkezine uzun bir mesafe uzaklıkta bulunan bir plajdır. Bu plaj, bölge halkının ve turistlerin tercih ettiği bir yerdir. Karaağaç Köyü Hamamı, aynı zamanda tarihi ve kültürel açıdan da önemli bir yer olarak bilinir. Plajın yakınında, tarihi hamam kalıntıları ve diğer tarihi eserler bulunmaktadır. Bu nedenle, hem doğa hem de tarih severler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karaağaç Köyü Hamamı'nın tarihi geçmişi, bölgeye yapılan ilk yerleşim
 
 ## Coğrafya
 
-Karaağaç Köyü Hamamı, Marmara Bölgesi'nin Gölpazarı ilçesinde, Bilecik'in merkezine uzun bir mesafe uzaklıkta bulunur. Plaj, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde geniş bir yeşil alan sunar. Bu bölge, Marmara Denizi'nin kıyısında yer alır ve deniz suyu, plajın güzelliğini artırır. Karaağaç Köyü Hamamı'nın coğrafi konumu, bölgenin iklimini de etkiler. Plajın yakınında, ormanlık alanlar ve tarım arazileri bulunmaktadır. Bu reason, plajın doğal güzelliğini artırır ve bölgeyi ziyaret edenler için önemli bir çekim merkezi oluşturur. Karaağaç Köyü Hamamı, aynı zamanda bölgenin flora ve faunasının çeşitliliğini de sunar. Plajın yakınında, çeşitli bitki türleri ve hayvanlar bulunur. Bu nedenle, doğa severler için ideal bir destinasyondur.
+Karaağaç Köyü Hamamı, Marmara Bölgesi'nin Gölpazarı ilçesinde, Bilecik'in merkezine uzun bir mesafe uzaklıkta bulunur. Bu bölge, Marmara Denizi'nin kıyısında yer alır ve deniz suyu, plajın güzelliğini artırır. Karaağaç Köyü Hamamı'nın coğrafi konumu, bölgenin iklimini de etkiler. Plajın yakınında, ormanlık alanlar ve tarım arazileri bulunmaktadır. Bu reason, plajın doğal güzelliğini artırır ve bölgeyi ziyaret edenler için önemli bir çekim merkezi oluşturur. Karaağaç Köyü Hamamı, aynı zamanda bölgenin flora ve faunasının çeşitliliğini de sunar. Plajın yakınında, çeşitli bitki türleri ve hayvanlar bulunur. Bu nedenle, doğa severler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

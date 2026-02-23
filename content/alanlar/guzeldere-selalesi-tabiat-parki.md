@@ -29,7 +29,7 @@ wikidata_id: "Q61076619"
 
 # Güzeldere Şelalesi Tabiat Parkı
 
-Güzeldere Şelalesi Tabiat Parkı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir alan olarak dikkat çeker. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunan bu park, ziyaretçilerini doğayla baş başa bırakmak için mükemmel bir fırsat sunar. Parkın içerisinde yer alan şelale, çevreyi serinleten ve güzelleştiren önemli bir öge olarak görülür. Ziyaretçiler, parkın sunduğu yürüyüş yollarında dolaşabilir, doğayı izleyebilir ve şelalenin güzelliğine tanıklık edebilir.
+Güzeldere Şelalesi Tabiat Parkı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir alan olarak dikkat çeker. Parkın içerisinde yer alan şelale, çevreyi serinleten ve güzelleştiren önemli bir öge olarak görülür. Ziyaretçiler, parkın sunduğu yürüyüş yollarında dolaşabilir, doğayı izleyebilir ve şelalenin güzelliğine tanıklık edebilir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Güzeldere Şelalesi Tabiat Parkı, ziyaretçilere doğayla baş başa bırakmak
 ## İlginç Bilgiler
 
 - Güzeldere Şelalesi Tabiat Parkı, 140 hektarlık bir alana sahiptir.
-- Parkın içerisinde yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunur.
+
 - Şelale, parkın en önemli coğrafi ögesi olarak görülür.
 - Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir.
 - Güzeldere Şelalesi Tabiat Parkı, ziyaretçilere yıl boyunca açık bir alan olarak hizmet verir.

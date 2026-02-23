@@ -22,7 +22,7 @@ wikidata_id: "Q108228753"
 
 # BEŞİKKAYA
 
-BEŞİKKAYA milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğal güzelliktir. Bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayarak ziyaretçilerine geniş bir yeşil alan sunar. BEŞİKKAYA, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmeyi çok sevdiği bir yerdir. Milli parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. BEŞİKKAYA milli parkı, doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyondur.
+BEŞİKKAYA milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğal güzelliktir. BEŞİKKAYA, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmeyi çok sevdiği bir yerdir. Milli parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. BEŞİKKAYA milli parkı, doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

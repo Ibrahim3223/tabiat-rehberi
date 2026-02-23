@@ -28,7 +28,7 @@ wikidata_id: "Q34828063"
 
 # Çalılı Tepe
 
-İzmir'in Ege Bölgesi'nde bulunan Çalılı Tepe, yaklaşık 140 hektarlık yeşil alanıyla doğa severlerin gözdesi haline gelmiştir. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle kaplıdır. Çalılı Tepe, ziyaretçilerine hem doğayla iç içe bir deneyim sunuyor hem de bölgenin tarihi geçmişi hakkında bilgiler veriyor. Çalılı Tepe, şehrin gürültüsünden kaçma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
+İzmir'in Ege Bölgesi'nde bulunan Çalılı Tepe, yaklaşık 140 hektarlık yeşil alanıyla doğa severlerin gözdesi haline gelmiştir. Çalılı Tepe, ziyaretçilerine hem doğayla iç içe bir deneyim sunuyor hem de bölgenin tarihi geçmişi hakkında bilgiler veriyor. Çalılı Tepe, şehrin gürültüsünden kaçma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34828063"
 
 ## Coğrafya
 
-Çalılı Tepe, İzmir'in Ege Bölgesi'nde yer alıyor ve 140 hektarlık geniş bir yeşil alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle kaplıdır. Çalılı Tepe'nin coğrafi konumu, ziyaretçilere hem dağların güzelliğini hem de deniz kıyısının serinliğini sunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Çalılı Tepe, çevre düzenlemesiyle de dikkat çekiyor ve ziyaretçilere temiz ve güvenli bir ortam sunuyor. Çalılı Tepe'nin coğrafyası, ziyaretçilere doğayla iç içe bir deneyim sunuyor ve bölgenin güzelliğini keşfetmeleri için ideal bir ortam sunuyor.
+Çalılı Tepe, İzmir'in Ege Bölgesi'nde yer alıyor ve 140 hektarlık geniş bir yeşil alanı kapsıyor. Çalılı Tepe'nin coğrafi konumu, ziyaretçilere hem dağların güzelliğini hem de deniz kıyısının serinliğini sunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Çalılı Tepe, çevre düzenlemesiyle de dikkat çekiyor ve ziyaretçilere temiz ve güvenli bir ortam sunuyor. Çalılı Tepe'nin coğrafyası, ziyaretçilere doğayla iç içe bir deneyim sunuyor ve bölgenin güzelliğini keşfetmeleri için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 

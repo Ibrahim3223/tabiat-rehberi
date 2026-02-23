@@ -1,7 +1,7 @@
 ---
 title: "Hisaralan Kaplıcası"
 date: "2026-01-10T15:07:55.677Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "termal-kaynak"
 il: "Balıkesir"
@@ -28,7 +28,7 @@ wikidata_id: "Q49741928"
 
 # Hisaralan Kaplıcası
 
-Hisaralan Kaplıcası, Marmara Bölgesi'nin güzel illerinden biri olan Balıkesir'de yer alan bir termal ve sağlık turizmi merkezi olarak dikkat çekiyor. Bu kaplıca, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Doğal güzelliği ve sağlık açısından sunduğu imkanlar ile ziyaretçilerini cezbediyor. Hisaralan Kaplıcası, doğa ile iç içe bir şekilde kurulmuş ve ziyaretçilerine huzurlu bir atmosfer sunuyor. Kaplıcanın termal suları, çeşitli sağlık sorunlarına iyi geldiği bilinen bir özelliğe sahip.
+Hisaralan Kaplıcası, Marmara Bölgesi'nin güzel illerinden biri olan Balıkesir'de yer alan bir termal ve sağlık turizmi merkezi olarak dikkat çekiyor. Doğal güzelliği ve sağlık açısından sunduğu imkanlar ile ziyaretçilerini cezbediyor. Hisaralan Kaplıcası, doğa ile iç içe bir şekilde kurulmuş ve ziyaretçilerine huzurlu bir atmosfer sunuyor. Kaplıcanın termal suları, çeşitli sağlık sorunlarına iyi geldiği bilinen bir özelliğe sahip.
 
 ## Tarihçe
 

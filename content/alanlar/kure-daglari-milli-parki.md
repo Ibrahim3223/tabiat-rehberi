@@ -29,7 +29,7 @@ schema_type: "TouristAttraction"
 
 # Küre Dağları Milli Parkı
 
-Küre Dağları Milli Parkı, Kastamonu'nun Pınarbaşı ilçesinde yer alan ve Karadeniz Bölgesi'nin doğal güzelliklerini sunan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa alanı sunmaktadır. Bu milli park, çeşitli bitki türleri ve zengin faunaıyla dikkat çekmektedir. Ziyaretçilerin doğayla iç içe olabilecekleri ve birçok canlı türünü görebilecekleri bir alandır. Ayrıca, bu milli parkın tarihi geçmişi ve kültürel önemi de oldukça önemlidir.
+Küre Dağları Milli Parkı, Kastamonu'nun Pınarbaşı ilçesinde yer alan ve Karadeniz Bölgesi'nin doğal güzelliklerini sunan bir milli parktır. Bu milli park, çeşitli bitki türleri ve zengin faunaıyla dikkat çekmektedir. Ziyaretçilerin doğayla iç içe olabilecekleri ve birçok canlı türünü görebilecekleri bir alandır. Ayrıca, bu milli parkın tarihi geçmişi ve kültürel önemi de oldukça önemlidir.
 
 ## Tarihçe
 

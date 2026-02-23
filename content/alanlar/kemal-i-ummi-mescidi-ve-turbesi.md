@@ -1,7 +1,7 @@
 ---
 title: "Kemal-i Ümmi Mescidi ve Türbesi"
 date: "2026-01-10T05:41:42.995Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Niğde"
@@ -29,11 +29,11 @@ wikidata_id: "Q135582249"
 
 # Kemal-i Ümmi Mescidi ve Türbesi
 
-Kemal-i Ümmi Mescidi ve Türbesi, Niğde'nin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir yapıdır. 140 hektarlık bir alanın içerisinde bulunan bu mescid ve türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İç Anadolu Bölgesi'nin kültürel zenginliklerini barındıran bu mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Mescidin ve türbenin etrafında yer alan tarihi evler ve sokaklar, ziyaretçilere bu bölgenin geçmişini anlatan bir açık hava müzesi gibi hizmet vermektedir.
+Kemal-i Ümmi Mescidi ve Türbesi, Niğde'nin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir yapıdır. İç Anadolu Bölgesi'nin kültürel zenginliklerini barındıran bu mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Mescidin ve türbenin etrafında yer alan tarihi evler ve sokaklar, ziyaretçilere bu bölgenin geçmişini anlatan bir açık hava müzesi gibi hizmet vermektedir.
 
 ## Tarihçe
 
-Kemal-i Ümmi Mescidi ve Türbesi, yüzyıllar boyunca bölgenin dini ve kültürel hayatında önemli bir rol oynamıştır. Bu mescid ve türbe, geçmişte birçok önemli olaya tanıklık etmiş ve bölge halkının dini hayatında önemli bir merkez olarak görev yapmıştır. Tarihi geçmişi hakkındalı bilgiler bulunmasa da, mescidin ve türbenin mimari yapısı, bölgenin kültürel zenginliklerini yansıtmaktadır. Mescidin duvarlarında yer alan histórik yazılar ve süslemeler, ziyaretçilere bu yapının geçmişini anlatmaktadır. Kemal-i Ümmi Mescidi ve Türbesi, İç Anadolu Bölgesi'nin tarihi ve kültürel mirasının önemli bir parçasıdır.
+Kemal-i Ümmi Mescidi ve Türbesi, yüzyıllar boyunca bölgenin dini ve kültürel hayatında önemli bir rol oynamıştır. Bu mescid ve türbe, geçmişte birçok önemli olaya tanıklık etmiş ve bölge halkının dini hayatında önemli bir merkez olarak görev yapmıştır. Tarihi geçmişi hakkındalı bilgiler bulunmasa da, mescidin ve türbenin mimari yapısı, bölgenin kültürel zenginliklerini yansıtmaktadır. Mescidin duvarlarında yer alan tarihi yazılar ve süslemeler, ziyaretçilere bu yapının geçmişini anlatmaktadır. Kemal-i Ümmi Mescidi ve Türbesi, İç Anadolu Bölgesi'nin tarihi ve kültürel mirasının önemli bir parçasıdır.
 
 ## Coğrafya
 

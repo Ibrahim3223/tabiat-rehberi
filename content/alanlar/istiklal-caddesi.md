@@ -30,7 +30,7 @@ wikidata_id: "Q344348"
 
 # İstiklal Caddesi
 
-İstiklal Caddesi, İstanbul'un en önemli ve tarihi caddelerinden biridir. 140 hektarlık büyük bir yeşil alanın içinde yer alan bu cadde, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. İstanbul'un kalbinde yer alan İstiklal Caddesi, her yıl milyonlarca ziyaretçiyi ağırlayan bir turizm merkezidir. Caddenin her iki tarafında histórik binalar, mağazalar, restoranlar ve eğlence mekanları bulunmaktadır.
+İstiklal Caddesi, İstanbul'un en önemli ve tarihi caddelerinden biridir. İstanbul'un kalbinde yer alan İstiklal Caddesi, her yıl milyonlarca ziyaretçiyi ağırlayan bir turizm merkezidir. Caddenin her iki tarafında tarihi binalar, mağazalar, restoranlar ve eğlence mekanları bulunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q344348"
 
 ## Coğrafya
 
-İstiklal Caddesi, İstanbul'un Beyoğlu ilçesinde yer almaktadır. Caddenin etrafında histórik binalar, parklar ve yeşil alanlar bulunmaktadır. İstiklal Caddesi, Marmara Bölgesi'nin en büyük şehirlerinden biri olan İstanbul'un kalbinde yer almaktadır. Caddenin coğrafi konumu, İstanbul Boğazı'na yakın bir konumdadır. İstiklal Caddesi, yıl boyunca ılıman bir iklimi olan İstanbul'un en önemli caddelerinden biridir. Caddenin etrafındaki binalar, genellikle 19. yüzyıldan kalma tarihi binalardır. İstiklal Caddesi, İstanbul'un en önemli turizm merkezlerinden biri olarak, her yıl milyonlarca ziyaretçiyi ağırlamaktadır.
+İstiklal Caddesi, İstanbul'un Beyoğlu ilçesinde yer almaktadır. Caddenin etrafında tarihi binalar, parklar ve yeşil alanlar bulunmaktadır. İstiklal Caddesi, Marmara Bölgesi'nin en büyük şehirlerinden biri olan İstanbul'un kalbinde yer almaktadır. Caddenin coğrafi konumu, İstanbul Boğazı'na yakın bir konumdadır. İstiklal Caddesi, yıl boyunca ılıman bir iklimi olan İstanbul'un en önemli caddelerinden biridir. Caddenin etrafındaki binalar, genellikle 19. yüzyıldan kalma tarihi binalardır. İstiklal Caddesi, İstanbul'un en önemli turizm merkezlerinden biri olarak, her yıl milyonlarca ziyaretçiyi ağırlamaktadır.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31391048"
 
 # Heyik Tepesi
 
-Heyik Tepesi, Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olarak Kahramanmaraş'ta yer alır. Bu tepe, bölgenin doğal güzelliklerini sunan bir alan olarak dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte çeşitli bitki türleri ve zengin fauna bulunur. Heyik Tepesi, ziyaretçilerini doğanın kucağına davet ediyor.
+Heyik Tepesi, Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olarak Kahramanmaraş'ta yer alır. Bu tepe, bölgenin doğal güzelliklerini sunan bir alan olarak dikkat çeker. Heyik Tepesi, ziyaretçilerini doğanın kucağına davet ediyor.
 
 ## Tarihçe
 

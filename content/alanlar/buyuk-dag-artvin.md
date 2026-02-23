@@ -48,13 +48,13 @@ Mevsimsel açıdan bakıldığında, Büyük Dağ'ın iklim karakteri Karadeniz 
 
 ## Flora ve Fauna
 
-Büyük Dağ, Artvin'in nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitliliğe sahiptir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse %0.2'sine tekabül ediyor. 
+Büyük Dağ, Artvin'in nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitliliğe sahiptir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse %0.2'sine tekabül ediyor.
 
 Bitki örtüsünü oluşturan gür ormanlar, ilkbaharda çiçeklerle donanırken, sonbaharda renk cümbüşüne dönüşür. Dağın yükseklik zonlarında, alpin flora hakimdir. Bu bölgede, çeşitli ağaç türleri ve çalılar, dağ hayvanlarının yaşam alanlarını oluşturur.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, ayılar ve kurtlar gibi memeliler, ormanların derinliklerinde yaşarken, çeşitli kuş türleri göç ederken bu dağları ziyaret eder. Sürüngenler de, kayalık alanlarda ve orman zemininde yaşamlarını sürdürür.
 
-Büyük Dağ, ekolojik değeri yüksek bir alandır. Bu dağ ekosisteminin korunması, bölgenin biyoçeşitliliğini ve ekolojik dengesini korumak açısından önemlidir.
+Büyük Dağ, ekolojik değeri yüksek bir alandır.
 
 ## Ziyaret Bilgileri
 

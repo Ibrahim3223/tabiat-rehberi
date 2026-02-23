@@ -28,7 +28,7 @@ wikidata_id: "Q31387183"
 
 # Eğripınar Tepe
 
-Eğripınar Tepe, Karadeniz Bölgesi'nin güzide noktalarından biri olarak, Artvin ilinin sınırları içinde yer alır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Doğal güzellikleri ve eşsiz manzaralarıyla dikkat çeker. Eğripınar Tepe, ziyaretçilerini doğayla baş başa bırakacak bir ortam sunar. Burada, doğanın seslerini dinleyerek, güneşin batışını izleyere ve çevreyle iç içe olarak zaman geçirebilirsiniz. Eğripınar Tepe, aynı zamanda yürüyüş ve trekking için ideal bir noktadır. Ziyaretçiler, bu güzel tepeyi keşfederek, Karadeniz Bölgesi'nin güzelliğini yakından görebilirler.
+Eğripınar Tepe, Karadeniz Bölgesi'nin güzide noktalarından biri olarak, Artvin ilinin sınırları içinde yer alır. Doğal güzellikleri ve eşsiz manzaralarıyla dikkat çeker. Eğripınar Tepe, ziyaretçilerini doğayla baş başa bırakacak bir ortam sunar. Burada, doğanın seslerini dinleyerek, güneşin batışını izleyere ve çevreyle iç içe olarak zaman geçirebilirsiniz. Eğripınar Tepe, aynı zamanda yürüyüş ve trekking için ideal bir noktadır. Ziyaretçiler, bu güzel tepeyi keşfederek, Karadeniz Bölgesi'nin güzelliğini yakından görebilirler.
 
 ## Tarihçe
 

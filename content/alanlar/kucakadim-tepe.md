@@ -49,9 +49,9 @@ Doğal kaynaklar ve ekosistem bağlantıları açısından ele alındığında, 
 
 ## Flora ve Fauna
 
-Kuçakadim Tepe, yükseklik zonlarına sahip dağ ekosisteminin zenginliğini sunar. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türler ön plana çıkar. İlkbaharda, dağ yamaçlarında çeşitli çiçekler açarak renkli bir manzara yaratır. 
+Kuçakadim Tepe, yükseklik zonlarına sahip dağ ekosisteminin zenginliğini sunar. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türler ön plana çıkar. İlkbaharda, dağ yamaçlarında çeşitli çiçekler açarak renkli bir manzara yaratır.
 
-Dağın yüksek kesimlerinde alpin flora bulunur. Bu alan, memeliler, kuşlar ve sürüngenler için yaşam alanı sağlar. Memeliler arasında dağ keçileri ve yaban domuzları bulunurken, kuşlar arasında çeşitli türlerin göç yolları üzerinde yer alır. Sürüngenler, kayalık alanlarda ve step bitkileri arasında yaşamlarını sürdürürler. 
+Dağın yüksek kesimlerinde alpin flora bulunur. Bu alan, memeliler, kuşlar ve sürüngenler için yaşam alanı sağlar. Memeliler arasında dağ keçileri ve yaban domuzları bulunurken, kuşlar arasında çeşitli türlerin göç yolları üzerinde yer alır. Sürüngenler, kayalık alanlarda ve step bitkileri arasında yaşamlarını sürdürürler.
 
 Bu dağ ekosisteminin ekolojik değeri, çeşitlilik gösteren flora ve faunaya ev sahipliği yapmasıdır. Ayrıca, bölgenin kuraklığa adapte olmuş türleri, iklim değişikliği karşısında önemli bir araştırma alanı oluşturur. Bu nedenle, Kuçakadim Tepe'nin korunması, bölgenin doğal dengesinin sürdürülmesi açısından büyük önem taşır.
 

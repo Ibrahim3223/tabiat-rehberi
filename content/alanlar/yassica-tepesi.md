@@ -28,7 +28,7 @@ wikidata_id: "Q31388163"
 
 # Yassıca Tepesi
 
-Yassıca Tepesi, Denizli'nin doğal güzelliklerine ev sahipliği yapan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel noktalarından biri. Yassıca Tepesi, ziyaretçilerini büyüleyen bir manzaraya sahip. Doğa severlerin ve gezi tutkunlarının mutlaka görmesi gereken bir yer. Yassıca Tepesi, çevreyi keşfetme ve doğanın güzelliklerini görmek için ideal bir nokta.
+Yassıca Tepesi, Denizli'nin doğal güzelliklerine ev sahipliği yapan bir tepe. Yassıca Tepesi, ziyaretçilerini büyüleyen bir manzaraya sahip. Doğa severlerin ve gezi tutkunlarının mutlaka görmesi gereken bir yer. Yassıca Tepesi, çevreyi keşfetme ve doğanın güzelliklerini görmek için ideal bir nokta.
 
 ## Tarihçe
 

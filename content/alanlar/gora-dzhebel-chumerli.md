@@ -46,9 +46,9 @@ Doğal su kaynakları ve ekosistem bağlantıları açısından, Gora Dzhebel'-C
 
 ## Flora ve Fauna
 
-Gora Dzhebel'-Chumerli dağının eteklerinde, ilkbaharın gelmesiyle birlikte renkli bir çiçek örtüsü ortaya çıkar. 1200 hektarlık bu yeşil cennet, maki bitki örtüsüne ev sahipliği yapar. Kuraklığa dayanıklı türler, dağ ekosisteminin yükseklik zonlarında çeşitlilik gösterir. 
+Gora Dzhebel'-Chumerli dağının eteklerinde, ilkbaharın gelmesiyle birlikte renkli bir çiçek örtüsü ortaya çıkar. 1200 hektarlık bu yeşil cennet, maki bitki örtüsüne ev sahipliği yapar. Kuraklığa dayanıklı türler, dağ ekosisteminin yükseklik zonlarında çeşitlilik gösterir.
 
-Kıyı ekosisteminin yakınlığı, bu bölgeyi özel kılar. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar dağların üzerinde uçarken, ilkbaharda çiçekler açar. Dağ hayvanları, bu yükseklik zonlarında yaşamını sürdürür. 
+Kıyı ekosisteminin yakınlığı, bu bölgeyi özel kılar. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar dağların üzerinde uçarken, ilkbaharda çiçekler açar. Dağ hayvanları, bu yükseklik zonlarında yaşamını sürdürür.
 
 Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini sağlar. Gora Dzhebel'-Chumerli, Hatay'ın doğal güzelliklerini korumak için önemli bir alandır.
 

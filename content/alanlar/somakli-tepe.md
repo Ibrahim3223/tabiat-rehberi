@@ -28,7 +28,7 @@ wikidata_id: "Q31388629"
 
 # Somaklı Tepe
 
-Somaklı Tepe, Muğla'nın Ege Bölgesi'nde yer alan ve ziyaretçilerini doğal güzellikleriyle cezbeden bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türüyle karşılaşma mümkün. Somaklı Tepe, hem doğa severler hem de manzara izlemeyi sevenler için ideal bir yer. Burada, ziyaretçilerin keyiflenebileceği birçok farklı faaliyet ve aktivite de mevcut.
+Somaklı Tepe, Muğla'nın Ege Bölgesi'nde yer alan ve ziyaretçilerini doğal güzellikleriyle cezbeden bir destinasyondur. Somaklı Tepe, hem doğa severler hem de manzara izlemeyi sevenler için ideal bir yer. Burada, ziyaretçilerin keyiflenebileceği birçok farklı faaliyet ve aktivite de mevcut.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Somaklı Tepe'nin tarihi geçmişi, yüzyıllar boyunca birçok farklı medeniye
 
 ## Coğrafya
 
-Somaklı Tepe, Muğla'nın Ege Bölgesi'nde yer alan bir tepe ve bu bölgenin coğrafi olarak önemli bir noktasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türüyle karşılaşma mümkün. Somaklı Tepe'nin coğrafi konumu, ziyaretçilerin birçok farklı manzara izlemesine olanak tanır. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta ve bu da Somaklı Tepe'yi doğa severler için bir cennet haline getirmektedir. Ayrıca, Somaklı Tepe'nin iklimi, Ege Bölgesi'nin genel iklimine benzer ve bu da ziyaretçilerin yılın birçok döneminde bu bölgeyi ziyaret etmelerine olanak tanır.
+Somaklı Tepe, Muğla'nın Ege Bölgesi'nde yer alan bir tepe ve bu bölgenin coğrafi olarak önemli bir noktasıdır. Somaklı Tepe'nin coğrafi konumu, ziyaretçilerin birçok farklı manzara izlemesine olanak tanır. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta ve bu da Somaklı Tepe'yi doğa severler için bir cennet haline getirmektedir. Ayrıca, Somaklı Tepe'nin iklimi, Ege Bölgesi'nin genel iklimine benzer ve bu da ziyaretçilerin yılın birçok döneminde bu bölgeyi ziyaret etmelerine olanak tanır.
 
 ## Flora ve Fauna
 

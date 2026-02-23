@@ -1,7 +1,7 @@
 ---
 title: "Bayram Paşa Camii"
 date: "2026-01-10T07:27:34.218Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391043"
 
 # Bayram Paşa Camii
 
-Bayram Paşa Camii, İstanbul'un Fatih ilçesinde yer alan ve Marmara Bölgesi'nin önemli tarihi ve kültürel merkezlerinden biri olan bir camiidir. 140 hektarlık bir alanda yer alan camii, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Camii, İstanbul'un fethinden sonra inşa edilen ilk camiler arasında yer alır ve tarihi geçmişi ile dikkat çekmektedir. Bayram Paşa Camii, mimari özellikleri ile de ilgi çekmekte ve ziyaretçilerini tarihi bir atmosfere davet etmektedir.
+Bayram Paşa Camii, İstanbul'un Fatih ilçesinde yer alan ve Marmara Bölgesi'nin önemli tarihi ve kültürel merkezlerinden biri olan bir camiidir. Camii, İstanbul'un fethinden sonra inşa edilen ilk camiler arasında yer alır ve tarihi geçmişi ile dikkat çekmektedir. Bayram Paşa Camii, mimari özellikleri ile de ilgi çekmekte ve ziyaretçilerini tarihi bir atmosfere davet etmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Bayram Paşa Camii, 15. yüzyılda inşa edilmiştir. Camii, İstanbul'un fethin
 
 ## Coğrafya
 
-Bayram Paşa Camii, İstanbul'un Fatih ilçesinde yer alan bir camiidir. Camii, Marmara Bölgesi'nin önemli tarihi ve kültürel merkezlerinden biridir. Camii, 140 hektarlık bir alanda yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Camii, yüksek bir konumda yer almaktadır. Camii, İstanbul'un merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Camii, çevresindeki diğer tarihi eserler ile birlikte bir kültür kompleksi oluşturmaktadır. Camii, mimari özellikleri ile de ilgi çekmekte ve İstanbul'un önemli tarihi eserleri arasında yer almaktadır. Camii, ziyaretçilerini tarihi bir atmosfere davet etmektedir ve İstanbul'un kültürel mirasının önemli bir parçasıdır.
+Bayram Paşa Camii, İstanbul'un Fatih ilçesinde yer alan bir camiidir. Camii, Marmara Bölgesi'nin önemli tarihi ve kültürel merkezlerinden biridir. Camii, yüksek bir konumda yer almaktadır. Camii, İstanbul'un merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Camii, çevresindeki diğer tarihi eserler ile birlikte bir kültür kompleksi oluşturmaktadır. Camii, mimari özellikleri ile de ilgi çekmekte ve İstanbul'un önemli tarihi eserleri arasında yer almaktadır. Camii, ziyaretçilerini tarihi bir atmosfere davet etmektedir ve İstanbul'un kültürel mirasının önemli bir parçasıdır.
 
 ## Flora ve Fauna
 

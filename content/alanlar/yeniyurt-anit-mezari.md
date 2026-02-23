@@ -1,7 +1,7 @@
 ---
 title: "Yeniyurt Anıt Mezarı"
 date: "2026-01-10T03:44:12.345Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728140"
 
 # Yeniyurt Anıt Mezarı
 
-Yeniyurt Anıt Mezarı, Mersin'in Erdemli ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir nokta. Bu alan, yaklaşık 140 hektarlık bir büyüklüğü kapsıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne denk geliyor. Anıt mezarın bulunduğu bölge, Akdeniz Bölgesi'nin önemli noktalarından biri olarak biliniyor. Bu tarihi mekân, ziyaretçilerini geçmişe götürmeyi başarıyor. Yeniyurt Anıt Mezarı, Erdemli'nin önemli turizm noktalarından biri olarak kabul ediliyor.
+Yeniyurt Anıt Mezarı, Mersin'in Erdemli ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir nokta. Anıt mezarın bulunduğu bölge, Akdeniz Bölgesi'nin önemli noktalarından biri olarak biliniyor. Bu tarihi mekân, ziyaretçilerini geçmişe götürmeyi başarıyor. Yeniyurt Anıt Mezarı, Erdemli'nin önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yeniyurt Anıt Mezarı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş.
 
 ## Coğrafya
 
-Yeniyurt Anıt Mezarı, Erdemli ilçesinde yer alıyor ve coğrafi konumu itibariyle dikkat çekiyor. Bu bölge, Akdeniz Bölgesi'nin önemli coğrafi noktalarından biri. Anıt mezarın bulunduğu alan, 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğüne denk geliyor. Bu bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliğini sunuyor. İklimi, Akdeniz ikliminin características'ini taşıyor ve ziyaretçiler için uygun bir gezi noktası oluşturuyor. Çevre, tarihi ve kültürel önemi ile birlikte, Yeniyurt Anıt Mezarı, önemli bir turizm noktası olarak biliniyor.
+Yeniyurt Anıt Mezarı, Erdemli ilçesinde yer alıyor ve coğrafi konumu itibariyle dikkat çekiyor. Bu bölge, Akdeniz Bölgesi'nin önemli coğrafi noktalarından biri. Bu bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliğini sunuyor. İklimi, Akdeniz ikliminin características'ini taşıyor ve ziyaretçiler için uygun bir gezi noktası oluşturuyor. Çevre, tarihi ve kültürel önemi ile birlikte, Yeniyurt Anıt Mezarı, önemli bir turizm noktası olarak biliniyor.
 
 ## Flora ve Fauna
 

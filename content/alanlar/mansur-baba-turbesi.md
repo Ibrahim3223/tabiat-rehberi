@@ -1,7 +1,7 @@
 ---
 title: "Mansur Baba Türbesi"
 date: "2026-01-10T07:49:50.703Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391210"
 
 # Mansur Baba Türbesi
 
-Mansur Baba Türbesi, Elazığ'ın kalbinde yer alan tarihi bir mekan olarak dikkat çekiyor. 140 hektarlık bir alanda kurulan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Mansur Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Bu mekan, Elazığ'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor. Mansur Baba Türbesi, bölgeye gelenlerin ziyaret ettiği önemli bir nokta olarak biliniyor.
+Mansur Baba Türbesi, Elazığ'ın kalbinde yer alan tarihi bir mekan olarak dikkat çekiyor. Mansur Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Bu mekan, Elazığ'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor. Mansur Baba Türbesi, bölgeye gelenlerin ziyaret ettiği önemli bir nokta olarak biliniyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mansur Baba Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak hizmet 
 
 ## Coğrafya
 
-Mansur Baba Türbesi, Elazığ'ın merkezinde yer alan bir bölgede kurulmuştur. Bu türbe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Mansur Baba Türbesi, bölgeye hakim bir tepe üzerinde yer alıyor ve çevresindeki manzarayı izleme mümkün oluyor. Bu türbe, Elazığ'ın coğrafi özelliklerini yansıtan bir mekan olarak biliniyor. Mansur Baba Türbesi, bölgenin iklimini ve coğrafi yapısını yansıtan önemli bir nokta olarak görülüyor. Bu mekan, Elazığ'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor. Mansur Baba Türbesi, bölgenin flora ve faunasını yansıtan önemli bir mekan olarak biliniyor.
+Mansur Baba Türbesi, Elazığ'ın merkezinde yer alan bir bölgede kurulmuştur. Mansur Baba Türbesi, bölgeye hakim bir tepe üzerinde yer alıyor ve çevresindeki manzarayı izleme mümkün oluyor. Bu türbe, Elazığ'ın coğrafi özelliklerini yansıtan bir mekan olarak biliniyor. Mansur Baba Türbesi, bölgenin iklimini ve coğrafi yapısını yansıtan önemli bir nokta olarak görülüyor. Bu mekan, Elazığ'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor. Mansur Baba Türbesi, bölgenin flora ve faunasını yansıtan önemli bir mekan olarak biliniyor.
 
 ## Flora ve Fauna
 

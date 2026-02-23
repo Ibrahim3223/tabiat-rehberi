@@ -1,7 +1,7 @@
 ---
 title: "Opramoas Anıt Mezarı"
 date: "2026-01-10T04:40:11.202Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728429"
 
 # Opramoas Anıt Mezarı
 
-Opramoas Anıt Mezarı, Kumluca ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir yapıdır. Bu anıt mezar, Akdeniz Bölgesi'nin güzelliğini ve tarihi zenginliğini keşfetmek isteyenler için önemli bir destinasyondur. 140 hektarlık bir alanda yer alan bu mezar, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Historik önemi ve doğal güzelliği ile ziyaretçilerini bekleyen Opramoas Anıt Mezarı, Kumluca'nın önemli turistik noktalarından biridir.
+Opramoas Anıt Mezarı, Kumluca ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir yapıdır. Bu anıt mezar, Akdeniz Bölgesi'nin güzelliğini ve tarihi zenginliğini keşfetmek isteyenler için önemli bir destinasyondur. Historik önemi ve doğal güzelliği ile ziyaretçilerini bekleyen Opramoas Anıt Mezarı, Kumluca'nın önemli turistik noktalarından biridir.
 
 ## Tarihçe
 

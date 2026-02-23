@@ -28,7 +28,7 @@ wikidata_id: "Q34873170"
 
 # Gümüşki Tepesi
 
-Gümüşki Tepesi, Trabzon'un Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu büyüklükte bir alan, ziyaretçilerine geniş bir açık alan sunar. Gümüşki Tepesi, aynı zamanda bölgenin en önemli doğal güzelliklerinden biridir. Tepenin yüksekliği ve genişliği, ziyaretçilerine bölgenin panoramik manzarasını sunar.
+Gümüşki Tepesi, Trabzon'un Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu büyüklükte bir alan, ziyaretçilerine geniş bir açık alan sunar. Gümüşki Tepesi, aynı zamanda bölgenin en önemli doğal güzelliklerinden biridir. Tepenin yüksekliği ve genişliği, ziyaretçilerine bölgenin panoramik manzarasını sunar.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Gümüşki Tepesi, ziyaretçilerine çeşitli olanaklar sunar. Tepenin yüksekli
 
 ## İlginç Bilgiler
 
-- Gümüşki Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
 - Tepenin yüksekliği, bölgenin panoramik manzarasını sunar.
 - Gümüşki Tepesi, bölgenin flora ve faunasını yansıtan bir doğa harikasıdır.
 - Tepede, çeşitli yürüyüş yolları bulunur.

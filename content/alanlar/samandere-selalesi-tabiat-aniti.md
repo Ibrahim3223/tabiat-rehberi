@@ -29,7 +29,7 @@ wikidata_id: "Q6015569"
 
 # Samandere Şelalesi Tabiat Anıtı
 
-Samandere Şelalesi Tabiat Anıtı, Karadeniz Bölgesi'nin Düzce ilinde bulunan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin önemli bir ziyaret noktasıdır. Şelaleler, zengin fauna ve florasıyla birlikte, Samandere Şelalesi Tabiat Anıtı, ziyaretçilerine doğayla iç içe bir deneyim sunar. Doğal güzelliği, yürüyüş parkurları ve piknik alanlarıyla, bu tabiat anıtı, hem yerel halk hem de turistler için bir çekim merkezi haline gelmiştir.
+Samandere Şelalesi Tabiat Anıtı, Karadeniz Bölgesi'nin Düzce ilinde bulunan 140 hektarlık bir yeşil alandır. Şelaleler, zengin fauna ve florasıyla birlikte, Samandere Şelalesi Tabiat Anıtı, ziyaretçilerine doğayla iç içe bir deneyim sunar. Doğal güzelliği, yürüyüş parkurları ve piknik alanlarıyla, bu tabiat anıtı, hem yerel halk hem de turistler için bir çekim merkezi haline gelmiştir.
 
 ## Tarihçe
 

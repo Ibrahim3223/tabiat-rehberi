@@ -1,7 +1,7 @@
 ---
 title: "Elti Hatun Türbesi, Mazgirt"
 date: "2026-01-10T06:49:23.618Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tunceli"
@@ -37,7 +37,7 @@ Elti Hatun Türbesi'nin tarihi geçmişi, bölgeye hakim olan çeşitli medeniye
 
 ## Coğrafya
 
-Elti Hatun Türbesi, Tunceli ilinin Mazgirt ilçesinde, yaklaşık 140 hektarlık bir alan içerisinde yer almaktadır. Bu alan, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Türbe, çevresindeki dağların ve ovaların manzarasına karşı, ziyaretçilere güzel bir görünüm sunmaktadır. Bölgenin iklimi, karasal iklim özellikleri taşımakta ve dört mevsim ayrı bit yaşanmaktadır. Elti Hatun Türbesi'nin bulunduğu, bölgenin flora ve faunasına ev sahipliği yapmakta ve çeşitli bitki ve hayvan türlerine yaşam alanı sunmaktadır. Yapının bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır ve ziyaretçilere geniş bir açık alan sunmaktadır.
+Elti Hatun Türbesi, Tunceli ilinin Mazgirt ilçesinde, yaklaşık 140 hektarlık bir alan içerisinde yer almaktadır. Bu alan, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Türbe, çevresindeki dağların ve ovaların manzarasına karşı, ziyaretçilere güzel bir görünüm sunmaktadır. Bölgenin iklimi, karasal iklim özellikleri taşımakta ve dört mevsim ayrı bit yaşanmaktadır. Elti Hatun Türbesi'nin bulunduğu, bölgenin flora ve faunasına ev sahipliği yapmakta ve çeşitli bitki ve hayvan türlerine yaşam alanı sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Elti Hatun Türbesi'ni ziyaret etmek, Tunceli ilinin Mazgirt ilçesine gelmek is
 - Türbenin mimarisi, bölgenin geleneksel tarzını yansıtmakta ve ziyaretçilere zengin bir kültürel deneyim sunmaktadır.
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır.
 - Elti Hatun Türbesi, yaklaşık 140 hektarlık bir alan içerisinde bulunmakta ve ziyaretçiler için önemli bir kültürel merkez olarak hizmet vermektedir.
-- Türbenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır.
+

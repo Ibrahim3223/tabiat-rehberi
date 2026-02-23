@@ -34,7 +34,7 @@ Afyonkarahisar'ın İhsaniye ilçesinde yer alan Ayazini Metropolisi, Türkiye'n
 
 ## Tarihçe
 
-Afyonkarahisar bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, históriya boyunca çeşitli uygarlıkların yerleşim alanlarından biri olmuştur. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel dokusunu zenginleştirmiştir.
+Afyonkarahisar bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, tarihi boyunca çeşitli uygarlıkların yerleşim alanlarından biri olmuştur. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel dokusunu zenginleştirmiştir.
 
 Doğal güzellikleri ve stratejik konumuyla, Afyonkarahisar ve çevresindeki alanlar, insanların yaşamına ev sahipliği yapmış ve ticaret yolları üzerinde önemli bir noktada bulunmuştur. İnsanların bu doğal alanlarla vztahı, yalnızca görsel bir güzellik olarak değil, aynı zamanda ekonomi ve kültürel faaliyetlerin merkezinde yer almıştır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bölgenin ekonomisine katkıda bulunmuş ve insanların bu alanlarla bağını güçlendirmiştir.
 

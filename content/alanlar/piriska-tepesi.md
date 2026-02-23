@@ -28,7 +28,7 @@ wikidata_id: "Q31548151"
 
 # Piriska Tepesi
 
-Piriska Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Yaklaşık 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, burada doğanın güzelliğini ve canlı çeşitliliğini gözlemleyebilir.
+Piriska Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu büyük alan, ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, burada doğanın güzelliğini ve canlı çeşitliliğini gözlemleyebilir.
 
 ## Tarihçe
 

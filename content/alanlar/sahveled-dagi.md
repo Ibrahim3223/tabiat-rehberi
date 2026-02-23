@@ -50,9 +50,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Şahveled Da
 
 ## Flora ve Fauna
 
-Şahveled Dağı, Erzurum'un yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, alpin çayırlar renkli çiçeklerle donanır. 
+Şahveled Dağı, Erzurum'un yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, alpin çayırlar renkli çiçeklerle donanır.
 
-Bitki örtüsünde, yükseklik zonlarına uygun olarak değişen türler hakimdir. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar dağları terk eder. Dağ ekosisteminin bir parçası olan memeliler, kuşlar ve sürüngenler, bu alanın canlılığını sağlar. 
+Bitki örtüsünde, yükseklik zonlarına uygun olarak değişen türler hakimdir. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar dağları terk eder. Dağ ekosisteminin bir parçası olan memeliler, kuşlar ve sürüngenler, bu alanın canlılığını sağlar.
 
 Ekolojik değerini düşünüldüğünde, Şahveled Dağı'nın yüksek dağ ekolojisi ve endemik türleri, bu alanı önemli kılar. Bu tür alanların korunması, gelecek nesiller için hayati önem taşır.
 

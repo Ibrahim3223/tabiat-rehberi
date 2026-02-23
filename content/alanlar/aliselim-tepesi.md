@@ -28,7 +28,7 @@ wikidata_id: "Q31386670"
 
 # Aliselim Tepesi
 
-Aliselim Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Diyarbakır'da yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Doğal güzelliği ve tarihi zenginliğiyle dikkat çeken Aliselim Tepesi, ziyaretçilerini tarihin derinliklerine götürüyor. Tepenin eteklerinde kurulan yerleşim yerleri, bölgenin tarihi geçmişini yansıtıyor. Aliselim Tepesi, Diyarbakır'ın önemli turizm noktalarından biri olarak dikkat çekiyor.
+Aliselim Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Diyarbakır'da yer alıyor. Doğal güzelliği ve tarihi zenginliğiyle dikkat çeken Aliselim Tepesi, ziyaretçilerini tarihin derinliklerine götürüyor. Tepenin eteklerinde kurulan yerleşim yerleri, bölgenin tarihi geçmişini yansıtıyor. Aliselim Tepesi, Diyarbakır'ın önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Aliselim Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Aliselim Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Diyarbakır'da yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Tepenin yüksekliği, deniz seviyesinden 500 metre kadar yüksekte yer alıyor. Aliselim Tepesi, doğu-batı yönünde uzanan bir tepe olarak dikkat çekiyor. Tepenin eteklerinde kurulan yerleşim yerleri, bölgenin coğrafi yapısını yansıtıyor. Aliselim Tepesi, Diyarbakır'ın coğrafi zenginliklerini yansıtan önemli bir nokta olarak dikkat çekiyor.
+Aliselim Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Diyarbakır'da yer alıyor. Tepenin yüksekliği, deniz seviyesinden 500 metre kadar yüksekte yer alıyor. Aliselim Tepesi, doğu-batı yönünde uzanan bir tepe olarak dikkat çekiyor. Tepenin eteklerinde kurulan yerleşim yerleri, bölgenin coğrafi yapısını yansıtıyor. Aliselim Tepesi, Diyarbakır'ın coğrafi zenginliklerini yansıtan önemli bir nokta olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Aliselim Tepesi, flora ve fauna açısından zengin bir bölge olarak dikkat çe
 
 ## Ziyaret Bilgileri
 
-Aliselim Tepesi'ni ziyaret etmek, Diyarbakır'ın tarihi ve doğal güzelliğini keşfetmek isteyenler için önemli bir expérience. Tepenin eteklerinde kurulan yerleşim yerleri, ziyaretçilere tarihi ve kültürel zenginliği sunuyor. Ziyaretçiler, tepeye çıktıklarında, bölgenin coğrafi yapısını ve flora/fauna zenginliğini görebiliyor. Aliselim Tepesi, ziyaretçilerini tarihin derinliklerine götürüyor.
+Aliselim Tepesi'ni ziyaret etmek, Diyarbakır'ın tarihi ve doğal güzelliğini keşfetmek isteyenler için önemli bir deneyim. Tepenin eteklerinde kurulan yerleşim yerleri, ziyaretçilere tarihi ve kültürel zenginliği sunuyor. Ziyaretçiler, tepeye çıktıklarında, bölgenin coğrafi yapısını ve flora/fauna zenginliğini görebiliyor. Aliselim Tepesi, ziyaretçilerini tarihin derinliklerine götürüyor.
 
 ## İlginç Bilgiler
 

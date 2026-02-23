@@ -1,7 +1,7 @@
 ---
 title: "Muhterem Hatun Türbesi"
 date: "2026-01-10T06:24:57.989Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırşehir"
@@ -29,11 +29,11 @@ wikidata_id: "Q131391790"
 
 # Muhterem Hatun Türbesi
 
-Kırşehir'in merkezinde yer alan Muhterem Hatun Türbesi, şehrin önemli tarihi ve kültürel değerlerinden biridir. 140 hektarlık bir alan üzerinde kurulu olan bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini şehrin zengin geçmişine götürüyor. İç Anadolu Bölgesi'nin coğrafi ve kültürel özellikleri, bu türbede somut olarak hissediliyor. Tarih ve doğa severlerin ilgisini çeken bu özel yer, Kırşehir'in turizm değerlerini gözler önüne seriyor.
+Kırşehir'in merkezinde yer alan Muhterem Hatun Türbesi, şehrin önemli tarihi ve kültürel değerlerinden biridir. İç Anadolu Bölgesi'nin coğrafi ve kültürel özellikleri, bu türbede somut olarak hissediliyor. Tarih ve doğa severlerin ilgisini çeken bu özel yer, Kırşehir'in turizm değerlerini gözler önüne seriyor.
 
 ## Tarihçe
 
-Muhterem Hatun Türbesi, tarihin derinliklerinden gelen bir geçmişe sahip. Bu türbenin história geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkilerini taşıyor. Tarihi kaynaklara göre, bu türbe, önemli bir figür olan Muhterem Hatun içinşa edildi. Türbenin yapımı ve restore edilmesi, Kırşehir'in kültürel mirasına katkıda bulunmuş. Yüzyıllar boyunca birçok restorasyon gören bu tarihi yapı, günümüzde de ziyaretçilerini karşılamaya devam ediyor. Tarihi geçmişi ve kültürel önemi, bu türbeyi önemli bir turizm noktası haline getiriyor.
+Muhterem Hatun Türbesi, tarihin derinliklerinden gelen bir geçmişe sahip. Bu türbenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkilerini taşıyor. Tarihi kaynaklara göre, bu türbe, önemli bir figür olan Muhterem Hatun içinşa edildi. Türbenin yapımı ve restore edilmesi, Kırşehir'in kültürel mirasına katkıda bulunmuş. Yüzyıllar boyunca birçok restorasyon gören bu tarihi yapı, günümüzde de ziyaretçilerini karşılamaya devam ediyor. Tarihi geçmişi ve kültürel önemi, bu türbeyi önemli bir turizm noktası haline getiriyor.
 
 ## Coğrafya
 

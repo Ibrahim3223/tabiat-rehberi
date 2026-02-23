@@ -1,7 +1,7 @@
 ---
 title: "Demokrasi ve Özgürlükler Adası Müze Kompleksi"
 date: "2026-01-10T15:21:02.795Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949127"
 
 # Demokrasi ve Özgürlükler Adası Müze Kompleksi
 
-Demokrasi ve Özgürlükler Adası Müze Kompleksi, İstanbul'un kalbinde, Marmara Bölgesi'nde bulunmaktadır. Bu kompleks, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Adanın coğrafi konumu ve tarihi geçmişi, ziyaretçilere benzersiz bir deney sunuyor. Adada bulunan müze kompleksi, ziyaretçilere demokrasi ve özgürlüklerin tarihini ve önemini anlatan çeşitli sergiler sunuyor. Ayrıca, ada doğal güzellikleri ile de dikkat çekiyor ve ziyaretçilere doğa yürüyüşleri ve piknik alanları sunuyor.
+Demokrasi ve Özgürlükler Adası Müze Kompleksi, İstanbul'un kalbinde, Marmara Bölgesi'nde bulunmaktadır. Adanın coğrafi konumu ve tarihi geçmişi, ziyaretçilere benzersiz bir deney sunuyor. Adada bulunan müze kompleksi, ziyaretçilere demokrasi ve özgürlüklerin tarihini ve önemini anlatan çeşitli sergiler sunuyor. Ayrıca, ada doğal güzellikleri ile de dikkat çekiyor ve ziyaretçilere doğa yürüyüşleri ve piknik alanları sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Demokrasi ve Özgürlükler Adası Müze Kompleksi, yüzyıllar boyunca çeşitl
 
 ## Coğrafya
 
-Demokrasi ve Özgürlükler Adası Müze Kompleksi, Marmara Bölgesi'nde, İstanbul'un kalbinde yer alıyor. Ada, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Adanın coğrafi konumu, ziyaretçilere benzersiz bir deney sunuyor. Ada, doğal güzellikleri ile de dikkat çekiyor ve ziyaretçilere doğa yürüyüşleri ve piknik alanları sunuyor. Adanın iklimi, Marmara Bölgesi'nin iklimine benzer ve ziyaretçilere yıl boyunca çeşitli aktiviteler sunuyor. Adanın çevresi, yeşil alanlar ve su kaynakları ile dolu ve ziyaretçilere doğa ile iç içe bir deneyim sunuyor. Ada, ziyaretçilere çeşitli coğrafi özellikler sunuyor ve ziyaretçilere benzersiz bir deneyim sunuyor.
+Demokrasi ve Özgürlükler Adası Müze Kompleksi, Marmara Bölgesi'nde, İstanbul'un kalbinde yer alıyor. Adanın coğrafi konumu, ziyaretçilere benzersiz bir deney sunuyor. Ada, doğal güzellikleri ile de dikkat çekiyor ve ziyaretçilere doğa yürüyüşleri ve piknik alanları sunuyor. Adanın iklimi, Marmara Bölgesi'nin iklimine benzer ve ziyaretçilere yıl boyunca çeşitli aktiviteler sunuyor. Adanın çevresi, yeşil alanlar ve su kaynakları ile dolu ve ziyaretçilere doğa ile iç içe bir deneyim sunuyor. Ada, ziyaretçilere çeşitli coğrafi özellikler sunuyor ve ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Demokrasi ve Özgürlükler Adası Müze Kompleksi, yıl boyunca ziyaretçilere 
 ## İlginç Bilgiler
 
 - Demokrasi ve Özgürlükler Adası Müze Kompleksi, yaklaşık 140 hektarlık bir alanı kaplıyor.
-- Ada, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Ada, doğal güzellikleri ile de dikkat çekiyor.
 - Ada, çeşitli bitki türleri ile dolu.
 - Ada, çeşitli hayvan türleri ile dikkat çekiyor.

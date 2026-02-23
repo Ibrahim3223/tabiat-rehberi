@@ -50,9 +50,9 @@ Sertmeşe Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosis
 
 ## Flora ve Fauna
 
-Sertmeşe Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sertmeşe Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharda çiçeklerle kaplanan alpin çayırların güzelliği dikkat çekiyor. Dağın yükseklik zonlarına bağlı olarak, flora çeşitliliği değişiyor. Alpin flora, dağların yüksek kesimlerinde hakim oluyor. 
+Bitki Örtüsü olarak, ilkbaharda çiçeklerle kaplanan alpin çayırların güzelliği dikkat çekiyor. Dağın yükseklik zonlarına bağlı olarak, flora çeşitliliği değişiyor. Alpin flora, dağların yüksek kesimlerinde hakim oluyor.
 
 Yaban Hayatı olarak, dağ keçileri, yaban keçileri ve dağ tavşanları gibi memeliler, dağların kaya dik yamaçlarında yaşamlarını sürdürüyor. Kuşlar ise, göç mevsimlerinde bu dağları önemli bir uğrak noktası olarak kullanıyor. Sürüngenler de, dağların sıcak ve kuru bölgelerinde yaşamlarını sürdürüyor.
 

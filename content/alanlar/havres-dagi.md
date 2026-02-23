@@ -54,7 +54,7 @@ Havres Dağı, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bölgesinde y
 
 Bitki örtüsünün hakim türleri arasında různé otsu bitkiler ve çalılar bulunur. Sonbaharda, göçmen kuşlar dağların üzerinden geçer, bu bölgenin ekolojik önemini vurgular. Yaban hayatı da zengin; memeliler, kuşlar ve sürüngenler dağların yükseklik zonlarına göre dağılım gösterirler. Dağ keçileri, yaban kedileri gibi memeliler, kartallar ve şahinler gibi kuşlar, ve çeşitli yılan ve kertenkele türleri, bu dağ ekosisteminin birer parçasıdır.
 
-Havres Dağı, bölgenin ekolojik dengesini korumak açısından önemli bir role sahiptir. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlıların değil, aynı zamanda bölgenin tüm ekolojisini etkiler. Bu nedenle, Havres Dağı'nın doğal güzelliği ve biyolojik çeşitliliği, gelecek nesiller için korunmalıdır.
+ Bu dağ ekosisteminin korunması, sadece burada yaşayan canlıların değil, aynı zamanda bölgenin tüm ekolojisini etkiler. Bu nedenle, Havres Dağı'nın doğal güzelliği ve biyolojik çeşitliliği, gelecek nesiller için korunmalıdır.
 
 ## Ziyaret Bilgileri
 

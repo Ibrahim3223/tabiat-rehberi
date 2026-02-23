@@ -22,7 +22,7 @@ wikidata_id: "Q108228091"
 
 # Bolu Ayikaya-Akcaagac
 
-Bolu Ayikaya-Akcaagac Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Parkın bulunduğu bölge, yüzyıllar boyunca insanların yaşadığı ve doğal güzelliğini koruduğu bir alandır. Bolu Ayikaya-Akcaagac Milli Parkı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir destinasyondur.
+Bolu Ayikaya-Akcaagac Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Parkın bulunduğu bölge, yüzyıllar boyunca insanların yaşadığı ve doğal güzelliğini koruduğu bir alandır. Bolu Ayikaya-Akcaagac Milli Parkı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir destinasyondur.
 
 ## Tarihçe
 

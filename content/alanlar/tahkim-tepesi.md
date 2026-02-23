@@ -28,7 +28,7 @@ wikidata_id: "Q31387985"
 
 # Tahkim Tepesi
 
-Tahkim Tepesi, Tunceli ilinin sınırları içerisinde yer alan ve doğa severlerin ilgisini çeken bir noktadır. 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunmaktadır. Tahkim Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Bu tepe, aynı zamanda bölgenin tarihi geçmişini de yansıtan önemli bir noktadır. Tunceli ilinin doğal güzelliklerini keşfetmek isteyenler için Tahkim Tepesi, önemli bir destinasyondur.
+Tahkim Tepesi, Tunceli ilinin sınırları içerisinde yer alan ve doğa severlerin ilgisini çeken bir noktadır. Tahkim Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Bu tepe, aynı zamanda bölgenin tarihi geçmişini de yansıtan önemli bir noktadır. Tunceli ilinin doğal güzelliklerini keşfetmek isteyenler için Tahkim Tepesi, önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tahkim Tepesi'nin tarihi geçmişi, bölgenin kültürel ve coğrafi yapısını
 
 ## Coğrafya
 
-Tahkim Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı sunmaktadır. Tahkim Tepesi, bölgenin coğrafi yapısını şekillendiren önemli faktörlerden biridir. Bu tepe, aynı zamanda bölgenin iklimini ve doğal güzelliklerini etkileyen önemli bir noktadır. Tunceli ilinin coğrafi yapısı, Tahkim Tepesi'nin etrafındaki alanlarda da görülebilmektedir. Bu tepe, bölgenin coğrafi zenginliklerini yansıtan önemli bir noktadır. Tahkim Tepesi, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, aynı zamanda bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır.
+Tahkim Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tahkim Tepesi, bölgenin coğrafi yapısını şekillendiren önemli faktörlerden biridir. Bu tepe, aynı zamanda bölgenin iklimini ve doğal güzelliklerini etkileyen önemli bir noktadır. Tunceli ilinin coğrafi yapısı, Tahkim Tepesi'nin etrafındaki alanlarda da görülebilmektedir. Bu tepe, bölgenin coğrafi zenginliklerini yansıtan önemli bir noktadır. Tahkim Tepesi, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, aynı zamanda bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Tahkim Tepesi, ziyaretçilere doğal güzelliklerini ve tarihi geçmişini sunma
 ## İlginç Bilgiler
 
 - Tahkim Tepesi, 140 hektarlık bir alanı kaplamaktadır.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı sunmaktadır.
+
 - Tahkim Tepesi, Tunceli ilinin sınırları içerisinde yer almaktadır.
 - Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır.
 - Tahkim Tepesi, aynı zamanda bölgenin tarihi geçmişini yansıtan önemli bir noktadır.

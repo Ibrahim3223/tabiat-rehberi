@@ -28,7 +28,7 @@ wikidata_id: "Q31582325"
 
 # Kaşımtaşı Tepesi
 
-Kaşımtaşı Tepesi, Çorum'un merkezinde yer alan ve yaklaşık 140 hektarlık geniş alanı ile ziyaretçilerini bekleyen bir doğal güzelliktir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin merkezi bölgesinde yer almaktadır. Kaşımtaşı Tepesi, şehre gelen ziyaretçilerin gezi noktalarından biridir ve burada yapılan faaliyetler arasında doğa yürüyüşleri, manzara seyri ve çevre gezileri bulunmaktadır.
+Kaşımtaşı Tepesi, Çorum'un merkezinde yer alan ve yaklaşık 140 hektarlık geniş alanı ile ziyaretçilerini bekleyen bir doğal güzelliktir. Kaşımtaşı Tepesi, şehre gelen ziyaretçilerin gezi noktalarından biridir ve burada yapılan faaliyetler arasında doğa yürüyüşleri, manzara seyri ve çevre gezileri bulunmaktadır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31540094"
 
 # Gayser Tepesi
 
-Gayser Tepesi, Şırnak ilinin güneydoğu kısmında yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Gayser Tepesi'nin çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta. Burada, mevsimsel değişimlere göre farklı canlılar yaşamaktadır. Bu tepenin en önemli özelliği, doğal güzelliklerinin yanı sıra coğrafi konumu itibariyle de dikkat çekici olmasıdır. Gayser Tepesi, bölgeye gelen gezginlerin mutlaka ziyaret etmesi gereken bir yer
+Gayser Tepesi, Şırnak ilinin güneydoğu kısmında yer alan bir tepe. Gayser Tepesi'nin çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta. Burada, mevsimsel değişimlere göre farklı canlılar yaşamaktadır. Bu tepenin en önemli özelliği, doğal güzelliklerinin yanı sıra coğrafi konumu itibariyle de dikkat çekici olmasıdır. Gayser Tepesi, bölgeye gelen gezginlerin mutlaka ziyaret etmesi gereken bir yer
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Altunizade İsmail Paşa Hamamı"
 date: "2026-01-09T22:42:08.916Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

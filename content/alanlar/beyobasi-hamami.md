@@ -1,7 +1,7 @@
 ---
 title: "Beyobası Hamamı"
 date: "2026-01-09T23:51:18.318Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245708"
 
 # Beyobası Hamamı
 
-Beyobası Hamamı, Tokat'ın Pazar ilçesinde bulunan ve tarihi bir hamam ile plaj alanının birleştiği özel bir mekan. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Bu alan, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çeker. Ziyaretçiler, hem tarihi hamamın atmosferini hem de Karadeniz'in serin sularında serinleyerek keyifli anlar yaşayabilirler.
+Beyobası Hamamı, Tokat'ın Pazar ilçesinde bulunan ve tarihi bir hamam ile plaj alanının birleştiği özel bir mekan. Bu alan, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çeker. Ziyaretçiler, hem tarihi hamamın atmosferini hem de Karadeniz'in serin sularında serinleyerek keyifli anlar yaşayabilirler.
 
 ## Tarihçe
 

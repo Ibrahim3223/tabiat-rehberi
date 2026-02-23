@@ -22,7 +22,7 @@ wikidata_id: "Q108228606"
 
 # KIRIKKALE KENT ORMAN
 
-Kırıkkale Kent Ormanı, İç Anadolu Bölgesi'nin görece küçük ama zengin doğal alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölge için önemli bir ekoloji ve turistik merkez olarak kabul ediliyor. Kentin kalabalığından uzaklaşma ve doğayla iç içe olmak isteyenler için ideal bir destinasyon. Orman, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. Kırıkkale'nin merkezine yakın konumuyla da ulaşım açısından kolaylıklar sağlıyor.
+Kırıkkale Kent Ormanı, İç Anadolu Bölgesi'nin görece küçük ama zengin doğal alanlarından biri olarak karşımıza çıkıyor. Kentin kalabalığından uzaklaşma ve doğayla iç içe olmak isteyenler için ideal bir destinasyon. Orman, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. Kırıkkale'nin merkezine yakın konumuyla da ulaşım açısından kolaylıklar sağlıyor.
 
 ## Tarihçe
 

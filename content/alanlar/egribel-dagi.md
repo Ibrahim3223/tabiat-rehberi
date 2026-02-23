@@ -36,7 +36,7 @@ Sivas bölgesinin tarihi, binlerce yıl öncesine kadar uzanır. Bu bölge, tari
 
 Eğribel Dağı da, bu tarihsel zenginlik içinde yer alan bir doğal alanken, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur. Türkiye'de, özellikle İç Anadolu Bölgesi'nde bulunan dağlar ve doğal alanlar, tarih boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve yaylacılık yaptıkları önemli merkezler olmuştur. Bu alanlar, aynı zamanda ticaret yolları üzerinde yer almış ve bölgenin ekonomi ve kültürel gelişimine katkıda bulunmuşlardır.
 
-İnsanların Eğribel Dağı ile ilişkisi, bölgenin coğrafi özelliklerine ve doğal kaynaklarına bağlı olarak şekillenmiştir. Dağın eteklerinde ve çevresinde yer alan köyler ve yerleşim yerleri, bölgenin históriyasel ve kültürel mirasını taşıyan önemli noktalar olarak görülür. Bu doğal alan, sadece bölge halkı için değil, aynı zamanda ülke genelinde önemli bir doğal ve kültürel değer olarak kabul edilir.
+İnsanların Eğribel Dağı ile ilişkisi, bölgenin coğrafi özelliklerine ve doğal kaynaklarına bağlı olarak şekillenmiştir. Dağın eteklerinde ve çevresinde yer alan köyler ve yerleşim yerleri, bölgenin tarihi ve kültürel mirasını taşıyan önemli noktalar olarak görülür. Bu doğal alan, sadece bölge halkı için değil, aynı zamanda ülke genelinde önemli bir doğal ve kültürel değer olarak kabul edilir.
 
 ## Coğrafya
 

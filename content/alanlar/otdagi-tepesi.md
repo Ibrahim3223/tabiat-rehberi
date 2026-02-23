@@ -28,7 +28,7 @@ wikidata_id: "Q31572573"
 
 # Otdağı Tepesi
 
-Otdağı Tepesi, Van şehrinin panoramik manzarasına hakim olan bir tepe. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, şehrin merkezine yakın bir konumda yer alıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Otdağı Tepesi, Van'ın coğrafi yapısını ve doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
+Otdağı Tepesi, Van şehrinin panoramik manzarasına hakim olan bir tepe. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Otdağı Tepesi, Van'ın coğrafi yapısını ve doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

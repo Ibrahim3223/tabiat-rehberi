@@ -1,7 +1,7 @@
 ---
 title: "Intercity Otomobil Müzesi"
 date: "2026-01-10T15:16:12.977Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949363"
 
 # Intercity Otomobil Müzesi
 
-Intercity Otomobil Müzesi, İstanbul'un kalbinde yer alan bir kültür ve sanat merkezidir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda ziyaretçilerine geniş bir sergi deneyimi sunuyor. Müze, zengin koleksiyonu ile otomobil severlerin bir araya geldiği önemli bir merkez olarak dikkat çekiyor. Intercity Otomobil Müzesi, ziyaretçilerine keyifli bir gün geçirmeleri için gereken tüm olanakları sağlıyor.
+Intercity Otomobil Müzesi, İstanbul'un kalbinde yer alan bir kültür ve sanat merkezidir. Müze, zengin koleksiyonu ile otomobil severlerin bir araya geldiği önemli bir merkez olarak dikkat çekiyor. Intercity Otomobil Müzesi, ziyaretçilerine keyifli bir gün geçirmeleri için gereken tüm olanakları sağlıyor.
 
 ## Tarihçe
 

@@ -39,7 +39,7 @@ Nevşehir bölgesi, tarih boyunca çeşitli uygarlıkların izlerini taşıyan z
 
 ## Coğrafya
 
-Coğrafi olarak, Gomeda Vadisi, Nevşehir'in kalbinde, 38.5716°K ve 34.8599°D koordinatlarında yer alır. Bu konum, Kapadokya bölgesinin merkezine yakın bir konumda, históri ve kültürel olarak zengin bir bölgede bulunmaktadır. Vadinin etrafı, Kapadokya'nın karakteristik peribacaları ve volkanik oluşumlarıyla çevrilidir.
+Coğrafi olarak, Gomeda Vadisi, Nevşehir'in kalbinde, 38.5716°K ve 34.8599°D koordinatlarında yer alır. Bu konum, Kapadokya bölgesinin merkezine yakın bir konumda, tarihi ve kültürel olarak zengin bir bölgede bulunmaktadır. Vadinin etrafı, Kapadokya'nın karakteristik peribacaları ve volkanik oluşumlarıyla çevrilidir.
 
 Jeolojik açıdan bakıldığında, Gomeda Vadisi, bir şehir bloğu büyüklüğünde bir alana yayılmış gibi görünse de, etrafındaki yüksekliklere ve derinliklere bakıldığında, daha büyük bir coğrafi yapıya işaret eder. Vadideki kanyonun derinliği ve genişliği, Eiffel Kulesi'nin birkaç katı yükseklikte oluşumları barındırabilir. Bu oluşumlar, volkanik faaliyetler sonucu oluşan kayaçlardan oluşmaktadır.
 

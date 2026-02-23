@@ -22,7 +22,7 @@ wikidata_id: "Q108228462"
 
 # Akyamaç Şelalesi
 
-Akyamaç Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alanda yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şelalenin yüksekliği ve suyun debisi, ziyaretçilerin gözlerini büyütecek güzelliktedir. Akyamaç Şelalesi, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yerdir. Şelalenin etrafındaki yeşil alanlar, ziyaretçilere piknik yapma ve doğanın güzelliklerini seyretme imkanı sunar.
+Akyamaç Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Şelalenin yüksekliği ve suyun debisi, ziyaretçilerin gözlerini büyütecek güzelliktedir. Akyamaç Şelalesi, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yerdir. Şelalenin etrafındaki yeşil alanlar, ziyaretçilere piknik yapma ve doğanın güzelliklerini seyretme imkanı sunar.
 
 ## Tarihçe
 

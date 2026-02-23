@@ -28,7 +28,7 @@ wikidata_id: "Q31569028"
 
 # Depelice Tepesi
 
-Depelice Tepesi, Kastamonu'nun önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu bölge, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor ve yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Depelice Tepesi, hem doğal güzelliği hem de bölgenin tarihi geçmişiyle interest çekiyor. Bu tepe, Kastamonu'nun en yüksek noktalarından biri olarak biliniyor ve bölgenin manzarasını seyretmek için ideal bir nokta.
+Depelice Tepesi, Kastamonu'nun önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Depelice Tepesi, hem doğal güzelliği hem de bölgenin tarihi geçmişiyle interest çekiyor. Bu tepe, Kastamonu'nun en yüksek noktalarından biri olarak biliniyor ve bölgenin manzarasını seyretmek için ideal bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Depelice Tepesi'nin tarihi geçmişi, Kastamonu'nun tarihi ile iç içe geçmiş
 
 ## Coğrafya
 
-Depelice Tepesi, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir alan. Tepenin yüksekliği, Kastamonu'nun en yüksek noktalarından biri olarak biliniyor ve bölgenin manzarasını seyretmek için ideal bir nokta. Depelice Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafı, ormanlarla çevrili ve bu ormanlar, bölgenin ekolojik dengesini koruyor. Depelice Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve bölgenin iklimi, ılıman ve yağışlı. Tepenin yüksekliği ve coğrafi konumu, bölgenin iklimini etkiliyor ve Depelice Tepesi, Kastamonu'nun en soğuk noktalarından biri olarak biliniyor.
+Depelice Tepesi, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir alan. Tepenin yüksekliği, Kastamonu'nun en yüksek noktalarından biri olarak biliniyor ve bölgenin manzarasını seyretmek için ideal bir nokta. Tepenin etrafı, ormanlarla çevrili ve bu ormanlar, bölgenin ekolojik dengesini koruyor. Depelice Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve bölgenin iklimi, ılıman ve yağışlı. Tepenin yüksekliği ve coğrafi konumu, bölgenin iklimini etkiliyor ve Depelice Tepesi, Kastamonu'nun en soğuk noktalarından biri olarak biliniyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Depelice Tepesi, zengin bir flora ve fauna ile dikkat çekiyor. Tepenin etrafı,
 
 ## Ziyaret Bilgileri
 
-Depelice Tepesi, Kastamonu'nun önemli turizm noktalarından biri. Tepenin yüksekliği ve coğrafi konumu, bölgenin manzarasını seyretmek için ideal bir nokta. Depelice Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafı, ormanlarla çevrili ve bu ormanlar, bölgenin ekolojik dengesini koruyor. Depelice Tepesi, yılın her döneminde ziyaret edilebilir, ancak en iyi ziyaret dönemi ilkbahar ve yaz ayları. Tepenin yüksekliği ve coğrafi konumu, bölgenin iklimini etkiliyor ve Depelice Tepesi, Kastamonu'nun en soğuk noktalarından biri olarak biliniyor.
+Depelice Tepesi, Kastamonu'nun önemli turizm noktalarından biri. Tepenin yüksekliği ve coğrafi konumu, bölgenin manzarasını seyretmek için ideal bir nokta. Tepenin etrafı, ormanlarla çevrili ve bu ormanlar, bölgenin ekolojik dengesini koruyor. Depelice Tepesi, yılın her döneminde ziyaret edilebilir, ancak en iyi ziyaret dönemi ilkbahar ve yaz ayları. Tepenin yüksekliği ve coğrafi konumu, bölgenin iklimini etkiliyor ve Depelice Tepesi, Kastamonu'nun en soğuk noktalarından biri olarak biliniyor.
 
 ## İlginç Bilgiler
 

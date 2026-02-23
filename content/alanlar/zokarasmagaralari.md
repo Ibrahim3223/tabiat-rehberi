@@ -32,7 +32,7 @@ Siirt ilinin doğal güzelliklerinin arasında yer alan Zokarasmağaraları, jeo
 
 ## Tarihçe
 
-Siirt bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, histórik süreçte birçok uygarlığa ev sahipliği yapmış, Medler, Persler, Romalılar ve Osmanlılar gibi devletlerin izlerini taşımaktadır. Zokarasmağaraları, bu tarihsel zenginliğin bir parçasını oluşturan doğal bir hazinedir.
+Siirt bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, tarihi süreçte birçok uygarlığa ev sahipliği yapmış, Medler, Persler, Romalılar ve Osmanlılar gibi devletlerin izlerini taşımaktadır. Zokarasmağaraları, bu tarihsel zenginliğin bir parçasını oluşturan doğal bir hazinedir.
 
 Türkiye, jeolojik açıdan zengin bir coğrafyaya sahiptir ve Zokarasmağaraları gibi doğal oluşumlar, bu zenginliğin bir göstergesidir. Bu tür doğal alanlar, insanlık tarihinin önemli bir bölümünde, insanların yaşam alanı, ticaret yolu veya dini merkez olarak kullanılmıştır. Yaylacılık ve hayvancılık faaliyetleri, bölgede yerleşik bir yaşamın temelini oluşturmuş, ticaret yolları ise farklı kültürlerin etkileşimine zemin hazırlamıştır.
 

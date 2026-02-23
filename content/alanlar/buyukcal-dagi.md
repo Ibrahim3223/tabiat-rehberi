@@ -48,11 +48,11 @@ Büyükçal Dağı, çevresindeki diğer coğrafi oluşumlarla da önemli bağla
 
 ## Flora ve Fauna
 
-Büyükçal Dağı, Balıkesir'in güzide bir köşesinde, geçiş ikliminin karakteristik özelliklerini taşıyan bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. 
+Büyükçal Dağı, Balıkesir'in güzide bir köşesinde, geçiş ikliminin karakteristik özelliklerini taşıyan bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar.
 
-Bitki örtüsünde, ilkbaharın başlangıcında çiçekler patla verirken, sonbaharda yaprakların sararmasıyla birlikte göçmen kuşlar bu bölgeyi ziyaret eder. Dağın yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çeker. 
+Bitki örtüsünde, ilkbaharın başlangıcında çiçekler patla verirken, sonbaharda yaprakların sararmasıyla birlikte göçmen kuşlar bu bölgeyi ziyaret eder. Dağın yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çeker.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban domuzları, bu dağların yerli sakinleridir. Göçmen kuşlar ise sonbaharda buradan geçer. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban domuzları, bu dağların yerli sakinleridir. Göçmen kuşlar ise sonbaharda buradan geçer.
 
 Büyükçal Dağı, ekolojik değerleriyle önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve doğal dengesini korumak için önemlidir.
 

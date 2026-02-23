@@ -1,7 +1,7 @@
 ---
 title: "Şarköy Hamamı"
 date: "2026-01-09T23:52:11.333Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tekirdağ"
@@ -30,7 +30,7 @@ wikidata_id: "Q133245782"
 
 # Şarköy Hamamı
 
-Şarköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Şarköy ilçe merkezine yakın bir konumda bulunan bu plaj, geniş ve temiz kumuyla ziyaretçilerini cezbeder. Şarköy Hamamı, denize girme ve güneşlenme imkanı sunan bir plaj olarak, özellikle yaz aylarında ziyaretçilerin favori mekanlarından biridir. Plajın çevresinde, ziyaretçilerin ihtiyaçlarını karşılayabilecek restoran ve kafeler bulunur.
+Şarköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Şarköy ilçe merkezine yakın bir konumda bulunan bu plaj, geniş ve temiz kumuyla ziyaretçilerini cezbeder. Şarköy Hamamı, denize girme ve güneşlenme imkanı sunan bir plaj olarak, özellikle yaz aylarında ziyaretçilerin favori mekanlarından biridir. Plajın çevresinde, ziyaretçilerin ihtiyaçlarını karşılayabilecek restoran ve kafeler bulunur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q133245782"
 
 ## Coğrafya
 
-Şarköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak, coğrafi olarak önemli bir konumda bulunur. Plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Şarköy ilçe merkezine yakın bir konumda bulunan bu plaj, geniş ve temiz kumuyla ziyaretçilerini cezbeder. Plajın çevresinde, ziyaretçilerin ihtiyaçlarını karşılayabilecek restoran ve kafeler bulunur. Şarköy Hamamı, denize girme ve güneşlenme imkanı sunan bir plaj olarak, özellikle yaz aylarında ziyaretçilerin favori mekanlarından biridir. Plajın coğrafi konumu, ziyaretçilerin hem denize girme hem de çevredeki tarihi mekanları gezme imkanı sunar. Şarköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak, coğrafi olarak önemli bir konumda bulunur ve ziyaretçilerine zengin bir deneyim sunar.
+Şarköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak, coğrafi olarak önemli bir konumda bulunur. Şarköy ilçe merkezine yakın bir konumda bulunan bu plaj, geniş ve temiz kumuyla ziyaretçilerini cezbeder. Plajın çevresinde, ziyaretçilerin ihtiyaçlarını karşılayabilecek restoran ve kafeler bulunur. Şarköy Hamamı, denize girme ve güneşlenme imkanı sunan bir plaj olarak, özellikle yaz aylarında ziyaretçilerin favori mekanlarından biridir. Plajın coğrafi konumu, ziyaretçilerin hem denize girme hem de çevredeki tarihi mekanları gezme imkanı sunar. Şarköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak, coğrafi olarak önemli bir konumda bulunur ve ziyaretçilerine zengin bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q133245782"
 ## İlginç Bilgiler
 
 - Şarköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biridir.
-- Plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Şarköy ilçe merkezine yakın bir konumda bulunur.
 - Plajın çevresinde, ziyaretçilerin ihtiyaçlarını karşılayabilecek restoran ve kafeler bulunur.
 - Şarköy Hamamı, denize girme ve güneşlenme imkanı sunan bir plaj olarak, özellikle yaz aylarında ziyaretçilerin favori mekanlarından biridir.

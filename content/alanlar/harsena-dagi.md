@@ -51,11 +51,11 @@ Mevsimsel değişiklikler açısından, Harşena Dağı çevresindeki iklim kara
 
 ## Flora ve Fauna
 
-Harşena Dağı, Amasya'nın nemli ikliminin etkisinde, gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, yüksek biyoçeşitlili ve farklı yükseklik zonları ile dikkat çeker. 
+Harşena Dağı, Amasya'nın nemli ikliminin etkisinde, gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, yüksek biyoçeşitlili ve farklı yükseklik zonları ile dikkat çeker.
 
 Bitki örtüsünde, ilkbaharın gelmesiyle birlikte renkli çiçekler açar ve dağ eteklerinde yeşillikler belirir. Sonbaharda, yaprakların dökülmesiyle birlikte, dağ manzarası değişir ve göçmen kuşlar görülmeye başlar. Dağın yüksek kesimlerinde, alpin flora hakimdir ve bu bölgede özel bitkiler yetişir.
 
-Yaban hayatı da zengin bir çeşitlilik gösterir. Memeliler, dağların yüksek kesimlerinde yaşarken, kuşlar ve sürüngenler daha alçak kesimlerde görülür. Bu canlılar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle etkileşim içinde yaşar. 
+Yaban hayatı da zengin bir çeşitlilik gösterir. Memeliler, dağların yüksek kesimlerinde yaşarken, kuşlar ve sürüngenler daha alçak kesimlerde görülür. Bu canlılar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle etkileşim içinde yaşar.
 
 Harşena Dağı, yüksek biyoçeşitlili ve ekolojik değerleri nedeniyle önemlidir. Bu alanın korunması, gelecek nesiller için önemli bir görevdir.
 

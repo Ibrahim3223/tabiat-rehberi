@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Mahmut Suzani Türbesi"
 date: "2026-01-10T06:39:04.977Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735163"
 
 # Seyyid Mahmut Suzani Türbesi
 
-Seyyid Mahmut Suzani Türbesi, Eskişehir'in Sivrihisar ilçesinde yer alan tarihi bir türbe ve plaj olarak dikkat çekmektedir. Bu alan, yaklaşık 140 hektarlık bir yeşil alan içerisinde konumlanmış olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Sivrihisar ilçesinin merkezine yakın bir konumda bulunan Seyyid Mahmut Suzani Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini beklemektedir. Türbenin etrafı, çeşitli ağaçlar ve çiçeklerle dolu olan bir par ile çevrilidir. Bu parkta, ziyaretçiler doğanın güzelliğini yakından inceleyebilir ve dinlenebilirler.
+Seyyid Mahmut Suzani Türbesi, Eskişehir'in Sivrihisar ilçesinde yer alan tarihi bir türbe ve plaj olarak dikkat çekmektedir. Sivrihisar ilçesinin merkezine yakın bir konumda bulunan Seyyid Mahmut Suzani Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini beklemektedir. Türbenin etrafı, çeşitli ağaçlar ve çiçeklerle dolu olan bir par ile çevrilidir. Bu parkta, ziyaretçiler doğanın güzelliğini yakından inceleyebilir ve dinlenebilirler.
 
 ## Tarihçe
 

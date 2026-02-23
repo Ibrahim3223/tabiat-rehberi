@@ -22,7 +22,7 @@ wikidata_id: "Q108229010"
 
 # Metruk Tuzlası Sulak Alanı
 
-Metruk Tuzlası Sulak Alanı, İç Anadolu Bölgesi'nin önemli sulak alanlarından biridir. Yaklaşık 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini sağlayan önemli bir doğal alan olarak kabul edilir. Bu sulak alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Metruk Tuzlası Sulak Alanı, aynı zamanda önemli bir göçmen kuş yolu üzerinde bulunmakta ve birçok kuş türüne ev sahipliği yapmaktadır. Bu nedenle, doğa severler ve kuş gözlemcileri için önemli bir destinasyon olarak kabul edilmektedir. Alanın büyüklüğü ve çeşitliliği, ziyaretçilere zengin bir doğa deneyimi sunmaktadır.
+Metruk Tuzlası Sulak Alanı, İç Anadolu Bölgesi'nin önemli sulak alanlarından biridir. Bu sulak alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Metruk Tuzlası Sulak Alanı, aynı zamanda önemli bir göçmen kuş yolu üzerinde bulunmakta ve birçok kuş türüne ev sahipliği yapmaktadır. Bu nedenle, doğa severler ve kuş gözlemcileri için önemli bir destinasyon olarak kabul edilmektedir. Alanın büyüklüğü ve çeşitliliği, ziyaretçilere zengin bir doğa deneyimi sunmaktadır.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Metruk Tuzlası Sulak Alanı, ziyaretçilere zengin bir doğa deneyimi sunmaktad
 ## İlginç Bilgiler
 
 - Metruk Tuzlası Sulak Alanı, İç Anadolu Bölgesi'nin en önemli sulak alanlarından biridir.
-- Bu sulak alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Metruk Tuzlası Sulak Alanı, birçok farklı bitki ve hayvan türüne ev sahipliği yapmaktadır.
 - Sulak alan, özellikle göçmen kuşlar için önemli bir uğrak noktasıdır.
 - Metruk Tuzlası Sulak Alanı, ziyaretçilere zengin bir doğa deneyimi sunmaktadır.

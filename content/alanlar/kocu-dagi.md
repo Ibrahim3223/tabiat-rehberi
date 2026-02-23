@@ -50,9 +50,9 @@ Mevsimsel açıdan bakıldığında, Koçu Dağı'nın iklim karakteri, Manisa'n
 
 ## Flora ve Fauna
 
-Koçu Dağı, Manisa'nın zeytinlikler ve çam ormanları arasında yükselen bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Koçu Dağı, Manisa'nın zeytinlikler ve çam ormanları arasında yükselen bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Çam ormanları, zeytinlikler ve otsu bitkiler bir arada sốnguyor. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Çam ormanları, zeytinlikler ve otsu bitkiler bir arada sốnguyor.
 Yaban Hayatı açısından, dağda çeşitli memeli ve kuş türleri yaşamlarını sürdürüyor. Göç mevsiminde, dağ yollarını kuş sürüleri dolduruyor.
 
 Ekolojik Değer olarak, Koçu Dağı bölgenin ekolojik dengesini koruyor. Zeytinlikler ve çam ormanları, bölgenin karakterini belirliyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak için çok önemli.

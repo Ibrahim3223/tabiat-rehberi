@@ -28,7 +28,7 @@ wikidata_id: "Q31388314"
 
 # Haşhaş Tepesi
 
-Haşhaş Tepesi, Iğdır ilinin merkezine yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve geniş bir yeşil alan sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan deneyimi sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunmakta ve bu doğal güzellik, ziyaretçileri doğayla baş başa bırakıyor. Haşhaş Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor ve ziyaretçilerine zengin bir deneyim sunuyor.
+Haşhaş Tepesi, Iğdır ilinin merkezine yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve geniş bir yeşil alan sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunmakta ve bu doğal güzellik, ziyaretçileri doğayla baş başa bırakıyor. Haşhaş Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor ve ziyaretçilerine zengin bir deneyim sunuyor.
 
 ## Tarihçe
 

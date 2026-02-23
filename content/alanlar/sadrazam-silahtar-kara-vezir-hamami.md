@@ -1,7 +1,7 @@
 ---
 title: "Sadrazam Silahtar Kara Vezir Hamamı"
 date: "2026-01-09T22:24:24.821Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Nevşehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738430"
 
 # Sadrazam Silahtar Kara Vezir Hamamı
 
-Sadrazam Silahtar Kara Vezir Hamamı, Gülşehir'in merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan tarihi bir plajdır. Bu plaj, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini geniş ve yeşil bir alana davet etmektedir. İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olan bu plaj, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır. Plajın etrafında çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe bir deneyim sunmaktadır.
+Sadrazam Silahtar Kara Vezir Hamamı, Gülşehir'in merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan tarihi bir plajdır. İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olan bu plaj, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunmaktadır. Plajın etrafında çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe bir deneyim sunmaktadır.
 
 ## Tarihçe
 

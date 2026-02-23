@@ -22,7 +22,7 @@ wikidata_id: "Q108228464"
 
 # Artvin-Savsat-Dogu Karadeniz Goknari
 
-Artvin-Savsat-Doğu Karadeniz Gök Narı milli parkı, Karadeniz Bölgesi'nin en önemli doğal ve tarihi değerlerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklüğü ile ziyaretçilerini etkileyen bir güzelliğe sahiptir. Milli parkın bulunduğu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Doğal güzellikleri ve tarihi değerleri ile birlikte, bu milli park ziyaretçilerine unutulmaz bir deneyim sunmaktadır.
+Artvin-Savsat-Doğu Karadeniz Gök Narı milli parkı, Karadeniz Bölgesi'nin en önemli doğal ve tarihi değerlerinden biridir. Milli parkın bulunduğu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir.
 
 ## Tarihçe
 

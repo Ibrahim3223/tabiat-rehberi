@@ -22,7 +22,7 @@ wikidata_id: "Q108228531"
 
 # Kutahya-Tavsanli-Balikoy-Karacam
 
-Kutahya-Tavsanli-Balikoy-Karacam milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini bir araya getiren bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Bu milli park, hem doğa severler hem de tarih meraklıları için bir hazine. Parkın içinde, tarihi geçmişi olan yapılar ve anıtlar bulunmakta. Ayrıca, parkın coğrafi konumu, ziyaretçilere bölgenin eşsiz manzarasını sunuyor.
+Kutahya-Tavsanli-Balikoy-Karacam milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini bir araya getiren bir destinasyon. Bu milli park, hem doğa severler hem de tarih meraklıları için bir hazine. Parkın içinde, tarihi geçmişi olan yapılar ve anıtlar bulunmakta. Ayrıca, parkın coğrafi konumu, ziyaretçilere bölgenin eşsiz manzarasını sunuyor.
 
 ## Tarihçe
 

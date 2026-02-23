@@ -29,7 +29,7 @@ wikidata_id: "Q31390406"
 
 # Baş Tepe
 
-Konya'nın İç Anadolu Bölgesi'nde yer alan Baş Tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş bir açık alan sunuyor. Baş Tepe, Konya'nın merkezine yakın bir konumda yer alıyor. Bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahip. Baş Tepe, ziyaretçilerine doğayla iç içe bir gezi deneyimi sunuyor. Yeşil alanın ortasında yer alan tepe, çevresindeki manzaraya hakim bir konumda bulunuyor.
+ Bu büyüklük, ziyaretçilere geniş bir açık alan sunuyor. Baş Tepe, Konya'nın merkezine yakın bir konumda yer alıyor. Bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahip. Baş Tepe, ziyaretçilerine doğayla iç içe bir gezi deneyimi sunuyor. Yeşil alanın ortasında yer alan tepe, çevresindeki manzaraya hakim bir konumda bulunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Baş Tepe'nin tarihi geçmişi, Konya'nın tarihi ile iç içe geçmiş durumda.
 
 ## Coğrafya
 
-Baş Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alıyor. Bölge, coğrafi açıdan zengin bir çeşitliliğe sahip. Baş Tepe, 140 hektarlık yeşil alanıyla birlikte, khong 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Yeşil alan, çeşitli bitki türleri ile kaplı. Baş Tepe, tepeye hakim bir konumda yer alıyor. Bu konum, ziyaretçilere çevreyilemek için ideal bir nokta sunuyor. Baş Tepe'nin iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzer. Bölge, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklim özelliği gösteriyor. Bu iklim, bölgenin flora ve faunasını etkiliyor.
+Baş Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alıyor. Bölge, coğrafi açıdan zengin bir çeşitliliğe sahip. Yeşil alan, çeşitli bitki türleri ile kaplı. Baş Tepe, tepeye hakim bir konumda yer alıyor. Bu konum, ziyaretçilere çevreyilemek için ideal bir nokta sunuyor. Baş Tepe'nin iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzer. Bölge, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklim özelliği gösteriyor. Bu iklim, bölgenin flora ve faunasını etkiliyor.
 
 ## Flora ve Fauna
 

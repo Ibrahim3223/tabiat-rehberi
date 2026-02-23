@@ -29,7 +29,7 @@ wikidata_id: "Q134728396"
 
 # Gökgöl Mahallesi Tümülüsü, Asarcık
 
-Asarcık'ta yer alan Gökgöl Mahallesi Tümülüsü, Karadeniz Bölgesi'nin Samsun ilinde bulunan özel bir tarihi ve doğal bölge. Bu alan, 140 hektarlık geniş bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gökgöl Mahallesi Tümülüsü, tarihi geçmişi ve eşsiz doğal güzellikleriyle ziyaretçilerini bekliyor. Bölge, yaban hayatının zengin çeşitliliği ve doğanın güzelliği ile dikkat çekiyor. Gökgöl Mahallesi Tümülüsü, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Asarcık'ta yer alan Gökgöl Mahallesi Tümülüsü, Karadeniz Bölgesi'nin Samsun ilinde bulunan özel bir tarihi ve doğal bölge. Gökgöl Mahallesi Tümülüsü, tarihi geçmişi ve eşsiz doğal güzellikleriyle ziyaretçilerini bekliyor. Bölge, yaban hayatının zengin çeşitliliği ve doğanın güzelliği ile dikkat çekiyor. Gökgöl Mahallesi Tümülüsü, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gökgöl Mahallesi Tümülüsü'nün tarihi geçmişi oldukça zengin. Bu bölge
 
 ## Coğrafya
 
-Gökgöl Mahallesi Tümülüsü, Karadeniz Bölgesi'nin Samsun ilinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Gökgöl Mahallesi Tümülüsü, 140 hektarlık geniş bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafyası, ziyaretçilere doğanın güzelliğini gösteriyor. Gökgöl Mahallesi Tümülüsü, yaban hayatının zengin çeşitliliği ve eşsiz doğal güzellikleriyle dikkat çekiyor. Bölge, ziyaretçilere çeşitli coğrafi oluşumları ve doğal güzellikleri keşfetme fırsatı sunuyor. Gökgöl Mahallesi Tümülüsü'nün coğrafyası, ziyaretçileri etkileyen önemli bir unsur.
+Gökgöl Mahallesi Tümülüsü, Karadeniz Bölgesi'nin Samsun ilinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Bölgenin coğrafyası, ziyaretçilere doğanın güzelliğini gösteriyor. Gökgöl Mahallesi Tümülüsü, yaban hayatının zengin çeşitliliği ve eşsiz doğal güzellikleriyle dikkat çekiyor. Bölge, ziyaretçilere çeşitli coğrafi oluşumları ve doğal güzellikleri keşfetme fırsatı sunuyor. Gökgöl Mahallesi Tümülüsü'nün coğrafyası, ziyaretçileri etkileyen önemli bir unsur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Gökgöl Mahallesi Tümülüsü, ziyaretçilere çeşitli olanaklar sunuyor. Bu 
 ## İlginç Bilgiler
 
 - Gökgöl Mahallesi Tümülüsü, 140 hektarlık geniş bir alanı kaplıyor.
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Gökgöl Mahallesi Tümülüsü, yaban hayatının zengin çeşitliliği ve eşsiz doğal güzellikleriyle dikkat çekiyor.
 - Bölge, mevsimsel değişimlere göre farklı bir güzellik sunuyor.
 - Gökgöl Mahallesi Tümülüsü, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.

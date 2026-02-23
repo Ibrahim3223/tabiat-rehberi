@@ -28,7 +28,7 @@ wikidata_id: "Q31389591"
 
 # Kıygındede Tepesi
 
-Kıygındede Tepesi, Marmara Bölgesi'nin en güzel köşelerinden biri olan Balıkesir'de yer alır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğal güzellikleriyle büyüler. Burada, temiz hava ve doğanın seslerini dinleyerek, stresten uzaklaşabilir ve kendinizi yenileyebilirsiniz. Tepeye çıkarken, etrafınızı saran yeşilli ve çiçekler, size doğanın güzelliğini hatırlatır. Bu tepe, hem doğa severlerin hem de fotoğraf tutkunlarının ziyaret etmesi gereken bir yerdir.
+Kıygındede Tepesi, Marmara Bölgesi'nin en güzel köşelerinden biri olan Balıkesir'de yer alır. Burada, temiz hava ve doğanın seslerini dinleyerek, stresten uzaklaşabilir ve kendinizi yenileyebilirsiniz. Tepeye çıkarken, etrafınızı saran yeşilli ve çiçekler, size doğanın güzelliğini hatırlatır. Bu tepe, hem doğa severlerin hem de fotoğraf tutkunlarının ziyaret etmesi gereken bir yerdir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kıygındede Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf tutkunları i�
 ## İlginç Bilgiler
 
 - Kıygındede Tepesi, Marmara Bölgesi'nin en güzel teplerinden biridir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Tepe ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşar.
 - Kıygındede Tepesi, hem doğal güzellikleri hem de tarihi değeriyle önemli bir destinasyondur.
 - Bu bölge, tarihin sayfalarında önemli bir yer tutar.

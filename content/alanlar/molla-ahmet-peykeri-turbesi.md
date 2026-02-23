@@ -1,7 +1,7 @@
 ---
 title: "Molla Ahmet Peykeri Türbesi"
 date: "2026-01-10T07:01:08.074Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390799"
 
 # Molla Ahmet Peykeri Türbesi
 
-Molla Ahmet Peykeri Türbesi, Elazığ'ın merkezinde yer alan ve tarihi geçmişiyle ön plana çıkan bir ziyaret noktasıdır. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilere geniş bir alan sunmaktadır. Molla Ahmet Peykeri Türbesi, özellikle tarihi ve kültürel değerleriyle dikkat çekmekte ve ziyaretçilerini geçmişe götürmektedir. Bu türbe, Elazığ'ın önemli simgelerinden biri olarak kabul edilmektedir.
+Molla Ahmet Peykeri Türbesi, Elazığ'ın merkezinde yer alan ve tarihi geçmişiyle ön plana çıkan bir ziyaret noktasıdır. Molla Ahmet Peykeri Türbesi, özellikle tarihi ve kültürel değerleriyle dikkat çekmekte ve ziyaretçilerini geçmişe götürmektedir. Bu türbe, Elazığ'ın önemli simgelerinden biri olarak kabul edilmektedir.
 
 ## Tarihçe
 

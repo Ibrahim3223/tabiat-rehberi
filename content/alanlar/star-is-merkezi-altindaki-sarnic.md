@@ -29,7 +29,7 @@ wikidata_id: "Q135429075"
 
 # Star İş Merkezi Altındaki Sarnıç
 
-Star İş Merkezi Altındaki Sarnıç, İstanbul'un kalbinde, Fatih ilçesinde yer alan bir doğal güzellik. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Sarnıç, tarihi geçmişi ve doğal güzellikleriyle birlikte, İstanbul'un en önemli turistik noktalarından biri haline gelmiş durumda. Ziyaretçiler, bu eşsiz noktada hem doğayı keşfedebilir hem de tarihin izlerini sürebilirler.
+Star İş Merkezi Altındaki Sarnıç, İstanbul'un kalbinde, Fatih ilçesinde yer alan bir doğal güzellik. Sarnıç, tarihi geçmişi ve doğal güzellikleriyle birlikte, İstanbul'un en önemli turistik noktalarından biri haline gelmiş durumda. Ziyaretçiler, bu eşsiz noktada hem doğayı keşfedebilir hem de tarihin izlerini sürebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Star İş Merkezi Altındaki Sarnıç'ın tarihi geçmişi, İstanbul'un kurulu�
 
 ## Coğrafya
 
-Star İş Merkezi Altındaki Sarnıç, coğrafi olarak İstanbul'un merkezinde yer alan bir bölge. Fatih ilçesinde bulunan bu sarnıç, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri. Bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Sarnıç'ın coğrafi konumu, ziyaretçilerin kolaylıkla ulaşabileceği bir noktada. İstanbul'un merkezinde yer alan bu doğal güzellik, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası sunuyor. Sarnıç'ın etrafı, çeşitli bitki türleriyle çevrili ve bu bitkiler, ziyaretçilere doğal bir atmosfer sunuyor. İklim olarak, Marmara Bölgesi'nin ılıman iklimi hüküm sürüyor ve bu, ziyaretçilerin her mevsim ziyaret edebileceği bir bölge yapıyor.
+Star İş Merkezi Altındaki Sarnıç, coğrafi olarak İstanbul'un merkezinde yer alan bir bölge. Fatih ilçesinde bulunan bu sarnıç, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri. Sarnıç'ın coğrafi konumu, ziyaretçilerin kolaylıkla ulaşabileceği bir noktada. İstanbul'un merkezinde yer alan bu doğal güzellik, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası sunuyor. Sarnıç'ın etrafı, çeşitli bitki türleriyle çevrili ve bu bitkiler, ziyaretçilere doğal bir atmosfer sunuyor. İklim olarak, Marmara Bölgesi'nin ılıman iklimi hüküm sürüyor ve bu, ziyaretçilerin her mevsim ziyaret edebileceği bir bölge yapıyor.
 
 ## Flora ve Fauna
 

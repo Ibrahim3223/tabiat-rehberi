@@ -29,7 +29,7 @@ wikidata_id: "Q31385394"
 
 # Tuzlu Tepe
 
-Tuzlu Tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ile dikkat çeken bir bölgedir. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı ifade eder. Doğa severlerin ziyaret ettiği bu bölge, yaban hayatı ile dikkat çeker. Tuzlu Tepe'nin bulunduğu bölgede çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölge, doğa yürüyüşleri ve doğa gözlemi için ideal bir yerdir.
+Tuzlu Tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ile dikkat çeken bir bölgedir. Doğa severlerin ziyaret ettiği bu bölge, yaban hayatı ile dikkat çeker. Tuzlu Tepe'nin bulunduğu bölgede çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölge, doğa yürüyüşleri ve doğa gözlemi için ideal bir yerdir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tuzlu Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge
 
 ## Coğrafya
 
-Tuzlu Tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ile dikkat çeken bir bölgedir. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı ifade eder. Tuzlu Tepe'nin bulunduğu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölge, doğa yürüyüşleri ve doğa gözlemi için ideal bir yerdir. Tuzlu Tepe'nin coğrafi yapısı, bölgenin iklimini ve çevre koşullarını etkiler. Bu bölge, coğrafi çeşitliliği ile dikkat çeker.
+Tuzlu Tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ile dikkat çeken bir bölgedir. Tuzlu Tepe'nin bulunduğu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölge, doğa yürüyüşleri ve doğa gözlemi için ideal bir yerdir. Tuzlu Tepe'nin coğrafi yapısı, bölgenin iklimini ve çevre koşullarını etkiler. Bu bölge, coğrafi çeşitliliği ile dikkat çeker.
 
 ## Flora ve Fauna
 

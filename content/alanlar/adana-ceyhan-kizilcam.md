@@ -1,7 +1,7 @@
 ---
 title: "Adana-Ceyhan Kızılçam"
 date: "2026-01-09T21:23:55.287Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Adana"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227833"
 
 # Adana-Ceyhan Kızılçam
 
-Adana-Ceyhan Kızılçam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu doğal güzellik, ziyaretçilerini Adana'nıninde, Ceyhan Nehri'nin kıyısında bekliyor. Parkın giriş kısmı, geniş bir otopar ve konukevi ile ziyaretçilere hizmet veriyor. Burada, doğa yürüyüşleri, piknik alanları ve çeşitli etkinlikler için uygun ortamlar bulunmakta.
+ Bu doğal güzellik, ziyaretçilerini Adana'nıninde, Ceyhan Nehri'nin kıyısında bekliyor. Parkın giriş kısmı, geniş bir otopar ve konukevi ile ziyaretçilere hizmet veriyor. Burada, doğa yürüyüşleri, piknik alanları ve çeşitli etkinlikler için uygun ortamlar bulunmakta.
 
 ## Tarihçe
 

@@ -30,7 +30,7 @@ wikidata_id: "Q108228144"
 
 # Turgut Özal Tabiat Parkı
 
-Turgut Özal Tabiat Parkı, Doğu Anadolu Bölgesi'nin Malatya ilinin Battalgazi ilçesinde yer alan, 140 hektarlık bir alana sahip doğal bir cennet. Bu park, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Turgut Özal Tabiat Parkı, ziyaretçilerini büyüleyici manzaralar ve zengin flora ile karşılar. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve dinlenme noktaları bulunur, bu da ziyaretçilere doğayı yakından keşfetme ve dinlenme fırsatı sunar.
+Turgut Özal Tabiat Parkı, Doğu Anadolu Bölgesi'nin Malatya ilinin Battalgazi ilçesinde yer alan, 140 hektarlık bir alana sahip doğal bir cennet. Turgut Özal Tabiat Parkı, ziyaretçilerini büyüleyici manzaralar ve zengin flora ile karşılar. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve dinlenme noktaları bulunur, bu da ziyaretçilere doğayı yakından keşfetme ve dinlenme fırsatı sunar.
 
 ## Tarihçe
 

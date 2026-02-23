@@ -30,15 +30,15 @@ wikidata_id: "Q108228805"
 
 # A
 
-İbradı, Antalya'da yer alan milli park, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük yeşil alan, birçok bitki türünü ve hayvanı barındırıyor. Milli parkın bulunduğu Akdeniz Bölgesi, iklimi ve coğrafi yapısı ile birçok canlıya ev sahipliği yapıyor. Milli parkın içinde yer alan çeşitli yürüyüş parkurları, ziyaretçilere doğayı yakından tanımaları için fırsat sunuyor.
+ Bu büyük yeşil alan, birçok bitki türünü ve hayvanı barındırıyor. Milli parkın bulunduğu Akdeniz Bölgesi, iklimi ve coğrafi yapısı ile birçok canlıya ev sahipliği yapıyor. Milli parkın içinde yer alan çeşitli yürüyüş parkurları, ziyaretçilere doğayı yakından tanımaları için fırsat sunuyor.
 
 ## Tarihçe
 
-Milli parkın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olan Akdeniz Bölgesi'nin zengin kültürel mirasını yansıtıyor. Bu bölge, tarih boyunca birçok uygarlığa beşiklik etmiş ve her bir medeniyet, bölgenin kültürel dokusuna katkıda bulunmuş. Milli parkın oluşumu, bu uzun tarihin bir parçası olarak değerlendirilebilir. Ancak, milli parkın tam olarak ne zaman kurulduğu bilinmemekle birlikte, bölgenin tarihi geçmişi, ziyaretçilere derin bir kültürel expérience sunuyor.
+Milli parkın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olan Akdeniz Bölgesi'nin zengin kültürel mirasını yansıtıyor. Bu bölge, tarih boyunca birçok uygarlığa beşiklik etmiş ve her bir medeniyet, bölgenin kültürel dokusuna katkıda bulunmuş. Milli parkın oluşumu, bu uzun tarihin bir parçası olarak değerlendirilebilir. Ancak, milli parkın tam olarak ne zaman kurulduğu bilinmemekle birlikte, bölgenin tarihi geçmişi, ziyaretçilere derin bir kültürel deneyim sunuyor.
 
 ## Coğrafya
 
-İbradı, Antalya'da yer alan milli park, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir alanı kapsıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları sunuyor. Bu parkurlar, ziyaretçilere doğayı yakından tanımaları için fırsat sunuyor. Milli parkın bulunduğu Akdeniz Bölgesi, iklimi ve coğrafi yapısı ile birçok canlıya ev sahipliği yapıyor. Bölgenin coğrafi yapısı, ziyaretçilere zengin bir flora ve fauna sunuyor.
+İbradı, Antalya'da yer alan milli park, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir alanı kapsıyor. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları sunuyor. Bu parkurlar, ziyaretçilere doğayı yakından tanımaları için fırsat sunuyor. Milli parkın bulunduğu Akdeniz Bölgesi, iklimi ve coğrafi yapısı ile birçok canlıya ev sahipliği yapıyor. Bölgenin coğrafi yapısı, ziyaretçilere zengin bir flora ve fauna sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Milli parkı ziyaret etmek, ziyaretçilere doğayı yakından tanımaları için
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli park, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir alanı kapsıyor.
 - Milli parkın flora ve fauna açısından zengin bir yapıya sahip olduğu söylenebilir.
 - Ziyaretçiler, milli parkın yürüyüş parkurlarını kullanarak doğayı keşfedebilirler.

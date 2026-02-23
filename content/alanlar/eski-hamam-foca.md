@@ -1,7 +1,7 @@
 ---
 title: "Eski Hamam, Foça"
 date: "2026-01-10T00:02:04.247Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245833"
 
 # Eski Hamam, Foça
 
-Eski Hamam, Foça, İzmir'in Ege Bölgesi'nde bulunan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kapsar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Eski Hamam, Foça'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Plajın etrafında çeşitli bitki türleri bulunur ve zengin fauna ile çevrilidir. Bu bölgede, denizin ve güneşin keyfini çıkarırken, aynı zamanda tarihi ve kültürel zenginliklerin tadını çıkarabilirsiniz.
+Eski Hamam, Foça, İzmir'in Ege Bölgesi'nde bulunan bir plajdır. Eski Hamam, Foça'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Plajın etrafında çeşitli bitki türleri bulunur ve zengin fauna ile çevrilidir. Bu bölgede, denizin ve güneşin keyfini çıkarırken, aynı zamanda tarihi ve kültürel zenginliklerin tadını çıkarabilirsiniz.
 
 ## Tarihçe
 

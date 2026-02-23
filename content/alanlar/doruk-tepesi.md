@@ -28,7 +28,7 @@ wikidata_id: "Q31388217"
 
 # Doruk Tepesi
 
-Doruk Tepesi, Kars ilinin yüksek noktalarından biri olarak bilinir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kars'ın coğrafi yapısı, Doruk Tepesi gibi yüksek noktaların oluşmasına neden olmuştur. Tepenin eteklerinde çeşitli bitki türleri bulunur ve fauna açısından da zengin bir bölge olarak kabul edilir. Doruk Tepesi, doğa severlerin keyif alabileceği bir destinasyon olarak dikkat çeker.
+Doruk Tepesi, Kars ilinin yüksek noktalarından biri olarak bilinir. Kars'ın coğrafi yapısı, Doruk Tepesi gibi yüksek noktaların oluşmasına neden olmuştur. Tepenin eteklerinde çeşitli bitki türleri bulunur ve fauna açısından da zengin bir bölge olarak kabul edilir. Doruk Tepesi, doğa severlerin keyif alabileceği bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Doruk Tepesi'ni ziyaret etmek, doğa severler için keyif alabilecekleri bir den
 ## İlginç Bilgiler
 
 - Doruk Tepesi, Kars ilinin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Doruk Tepesi'nin etrafında, çeşitli bitki türleri bulunur.
 - Bu bölge, fauna açısından da zengin bir bölgedir.
 - Doruk Tepesi, doğa severlerin keyif alabileceği bir destinasyon olarak dikkat çeker.

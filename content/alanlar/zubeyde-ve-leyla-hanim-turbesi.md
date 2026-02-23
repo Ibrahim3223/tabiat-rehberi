@@ -1,7 +1,7 @@
 ---
 title: "Zübeyde ve Leyla Hanım Türbesi"
 date: "2026-01-10T06:50:55.104Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390773"
 
 # Zübeyde ve Leyla Hanım Türbesi
 
-Zübeyde ve Leyla Hanım Türbesi, Diyarbakır'ın Sur ilçesinde yer alan tarihi bir mekan. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde kurulmuş ve şehrin önemli kültürel miraslarından biri. Türbenin tarihi geçmişi, şehrin zengin kültürel dokusunu yansıtan önemli bir nokta. Zübeyde ve Leyla Hanım Türbesi, Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Zübeyde ve Leyla Hanım Türbesi, Diyarbakır'ın Sur ilçesinde yer alan tarihi bir mekan. Türbenin tarihi geçmişi, şehrin zengin kültürel dokusunu yansıtan önemli bir nokta. Zübeyde ve Leyla Hanım Türbesi, Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Zübeyde ve Leyla Hanım Türbesi, Diyarbakır'ın tarih boyunca önemli bir kü
 
 ## Coğrafya
 
-Zübeyde ve Leyla Hanım Türbesi, Diyarbakır'ın Sur ilçesinde yer alan bir mekan. Bu türbe, şehrin tarihi dokusunu yansıtan önemli bir yapı. Türbenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli kültürel merkezlerinden biri. Diyarbakır'ın coğrafi konumu, şehrin tarihi ve kültürel zenginliklerini şekillendirmiş. Şehrin iklimi, türbenin inşa edildiği döneme uygun olarak tasarlanmış. Zübeyde ve Leyla Hanım Türbesi, Diyarbakır'ın coğrafi ve kültürel özelliklerini yansıtan önemli bir nokta. Türbenin çevresinde, şehrin tarihi dokusunu yansıtan çeşitli yapılar yer alıyor.
+Zübeyde ve Leyla Hanım Türbesi, Diyarbakır'ın Sur ilçesinde yer alan bir mekan. Bu türbe, şehrin tarihi dokusunu yansıtan önemli bir yapı. Diyarbakır'ın coğrafi konumu, şehrin tarihi ve kültürel zenginliklerini şekillendirmiş. Şehrin iklimi, türbenin inşa edildiği döneme uygun olarak tasarlanmış. Zübeyde ve Leyla Hanım Türbesi, Diyarbakır'ın coğrafi ve kültürel özelliklerini yansıtan önemli bir nokta. Türbenin çevresinde, şehrin tarihi dokusunu yansıtan çeşitli yapılar yer alıyor.
 
 ## Flora ve Fauna
 

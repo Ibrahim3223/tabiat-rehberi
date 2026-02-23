@@ -23,7 +23,7 @@ wikidata_id: "Q108228679"
 
 # M.AKİF
 
-M.AKİF milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş arazi, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunuyor. Parkın içinde, çeşitli bitki türleri ve zengin fauna found. M.AKİF, hem doğa severlerin hem de macera arayışında olanların uğrak noktası haline gelmiş durumda.
+M. Bu geniş arazi, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunuyor. Parkın içinde, çeşitli bitki türleri ve zengin fauna found. M.AKİF, hem doğa severlerin hem de macera arayışında olanların uğrak noktası haline gelmiş durumda.
 
 ## Tarihçe
 

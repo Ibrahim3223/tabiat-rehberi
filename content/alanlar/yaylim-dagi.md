@@ -50,11 +50,11 @@ Yaylım Dağı'nın fiziksel yapısını anlamak için, bölgenin jeolojik özel
 
 ## Flora ve Fauna
 
-Yaylım Dağı, Bingöl'ün yüksek dağ ekolojisinin zenginliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yaylım Dağı, Bingöl'ün yüksek dağ ekolojisinin zenginliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünü oluşturan alpin çayırlar, ilkbaharda renkli çiçeklerle donanırken, sonbaharda sarı ve altın rengi tonlara bürünüyor. Bu mevsimsel değişim, dağ ekosisteminin canlılığını gözler önüne seriyor. 
+Bitki örtüsünü oluşturan alpin çayırlar, ilkbaharda renkli çiçeklerle donanırken, sonbaharda sarı ve altın rengi tonlara bürünüyor. Bu mevsimsel değişim, dağ ekosisteminin canlılığını gözler önüne seriyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösteriyor. Dağ keçileri, yükseklik zonlarında yaşarken, kartallar ve diğer yırtıcı kuşlar, bu bölgeyi üreme ve beslenme alanı olarak kullanıyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösteriyor. Dağ keçileri, yükseklik zonlarında yaşarken, kartallar ve diğer yırtıcı kuşlar, bu bölgeyi üreme ve beslenme alanı olarak kullanıyor.
 
 Yaylım Dağı, endemik türlerin varlığı ve yüksek dağ ekolojisinin korunması açısından önemli bir bölgedir. Bu alanın korunması, sadece yerel canlıların değil, tüm ekosistemin devamlılığı için zorunludur.
 

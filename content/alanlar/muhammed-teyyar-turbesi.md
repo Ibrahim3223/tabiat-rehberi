@@ -1,7 +1,7 @@
 ---
 title: "Muhammed Teyyar Türbesi"
 date: "2026-01-10T06:21:34.218Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Van"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391788"
 
 # Muhammed Teyyar Türbesi
 
-Muhammed Teyyar Türbesi, Doğu Anadolu Bölgesi'nin Van iline bağlı Çatak ilçesinde bulunan bir tarihi mekan. Bu türbe, 140 hektarlık bir alan üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Türbenin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olan bu bölgeye ışık tutuyor. Muhammed Teyyar Türbesi, hem tarihin derinliklerinde gizli bir hazine hem de ziyaretçilerine doğanın güzelliğini sunan bir mekan.
+Muhammed Teyyar Türbesi, Doğu Anadolu Bölgesi'nin Van iline bağlı Çatak ilçesinde bulunan bir tarihi mekan. Türbenin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olan bu bölgeye ışık tutuyor. Muhammed Teyyar Türbesi, hem tarihin derinliklerinde gizli bir hazine hem de ziyaretçilerine doğanın güzelliğini sunan bir mekan.
 
 ## Tarihçe
 

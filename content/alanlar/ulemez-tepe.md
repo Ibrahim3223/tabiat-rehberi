@@ -28,7 +28,7 @@ wikidata_id: "Q34810050"
 
 # Ülemez Tepe
 
-Ülemez Tepe, Muğla'nın Ege Bölgesi'nde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir alan. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Ülemez Tepe, ziyaretçilerini tarihi geçmişi ve zengin doğası ile cezbediyor. Bu özel tepe, Muğla'nın turizm değerleri arasında önemli bir yer tutuyor.
+Ülemez Tepe, Muğla'nın Ege Bölgesi'nde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir alan. Ülemez Tepe, ziyaretçilerini tarihi geçmişi ve zengin doğası ile cezbediyor. Bu özel tepe, Muğla'nın turizm değerleri arasında önemli bir yer tutuyor.
 
 ## Tarihçe
 

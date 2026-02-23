@@ -22,7 +22,7 @@ wikidata_id: "Q108228044"
 
 # Sanlıurfa-Merkez Kizilkuyu
 
-Sanlıurfa-Merkez Kizilkuyu milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini büyülüyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Doğa severler için bir cennet olan bu milli park, aynı zamanda kültürel açıdan da önemli bir değer taşıyor.
+Sanlıurfa-Merkez Kizilkuyu milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. Bu milli park, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini büyülüyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Doğa severler için bir cennet olan bu milli park, aynı zamanda kültürel açıdan da önemli bir değer taşıyor.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Sanlıurfa-Merkez Kizilkuyu milli parkı, coğrafi açıdan oldukça zengin bir 
 
 ## Flora ve Fauna
 
-Sanlıurfa-Merkez Kizilkuyu milli parkı, flora ve fauna açısından oldukça zengin bir yapıya sahip. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Mevsimsel değişimler, bu milli parkın güzelliğini daha da artırıyor. Bahar aylarında, bitki türleri renkli çiçeklerle süslüyor ve bu manzara, ziyaretçilere unutulmaz bir deneyim sunuyor. Kış aylarında, milli parkın karla kaplı manzarası, ziyaretçilere farklı bir güzellik sunuyor. Bu milli park, aynı zamanda birçok hayvan türüne ev sahipliği yapıyor ve ziyaretçilerin bu hayvanları doğal ortamlarında görmelerine olanak tanıyor.
+ Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Mevsimsel değişimler, bu milli parkın güzelliğini daha da artırıyor. Bahar aylarında, bitki türleri renkli çiçeklerle süslüyor ve bu manzara, ziyaretçilere unutulmaz bir deneyim sunuyor. Kış aylarında, milli parkın karla kaplı manzarası, ziyaretçilere farklı bir güzellik sunuyor. Bu milli park, aynı zamanda birçok hayvan türüne ev sahipliği yapıyor ve ziyaretçilerin bu hayvanları doğal ortamlarında görmelerine olanak tanıyor.
 
 ## Ziyaret Bilgileri
 

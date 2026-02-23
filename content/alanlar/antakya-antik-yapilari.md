@@ -30,7 +30,7 @@ wikidata_id: "Q131738990"
 
 # Antakya Antik Yapıları
 
-Antakya Antik Yapıları, yaklaşık 200 futbol sahası büyüklüğünde, 140 hektarlık bir alanda yer alıyor. Bu tarihi bölge, ziyaretçilere Antakya'nın zengin tarihini ve kültürel mirasını keşfetme fırsatı sunuyor. Antakya Antik Yapıları, Hatay ilinin merkezinde, Akdeniz Bölgesi'nin kalbinde bulunuyor. Bu bölgenin coğrafi konumu, tarihi ve kültürel açıdan büyük önem taşıyor. Antakya Antik Yapıları, tarihi yapılar, anıtlar ve kalıntılarla dolu bir açık hava müzesi gibi görünüyor.
+ Bu tarihi bölge, ziyaretçilere Antakya'nın zengin tarihini ve kültürel mirasını keşfetme fırsatı sunuyor. Antakya Antik Yapıları, Hatay ilinin merkezinde, Akdeniz Bölgesi'nin kalbinde bulunuyor. Bu bölgenin coğrafi konumu, tarihi ve kültürel açıdan büyük önem taşıyor. Antakya Antik Yapıları, tarihi yapılar, anıtlar ve kalıntılarla dolu bir açık hava müzesi gibi görünüyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Antakya Antik Yapıları, yüzyıllar boyunca çeşitli uygarlıkların etkisind
 
 ## Coğrafya
 
-Antakya Antik Yapıları, Hatay ilinin merkezinde, Akdeniz Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak önemli bir konumda bulunuyor. Antakya Antik Yapıları, yaklaşık 200 futbol sahası büyüklüğünde, 140 hektarlık bir alanı kapsıyor. Bu bölgenin coğrafi yapısı, tarihi yapılar ve anıtlarla dolu. Antakya Antik Yapıları, ziyaretçilere tarihi bir atmosfer sunuyor. Bu bölge, Akdeniz Bölgesi'nin iklimine uygun olarak, sıcak ve kurak yazlar, ılıman kışlar geçiriyor. Antakya Antik Yapıları, ziyaretçilere tarihi bir gezi sunuyor. Bu bölgenin coğrafi konumu, tarihi ve kültürel açıdan büyük önem taşıyor.
+Antakya Antik Yapıları, Hatay ilinin merkezinde, Akdeniz Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak önemli bir konumda bulunuyor. Bu bölgenin coğrafi yapısı, tarihi yapılar ve anıtlarla dolu. Antakya Antik Yapıları, ziyaretçilere tarihi bir atmosfer sunuyor. Bu bölge, Akdeniz Bölgesi'nin iklimine uygun olarak, sıcak ve kurak yazlar, ılıman kışlar geçiriyor. Antakya Antik Yapıları, ziyaretçilere tarihi bir gezi sunuyor. Bu bölgenin coğrafi konumu, tarihi ve kültürel açıdan büyük önem taşıyor.
 
 ## Flora ve Fauna
 
@@ -46,12 +46,12 @@ Antakya Antik Yapıları, zengin bir flora ve fauna çeşitliliğine sahip. Bu b
 
 ## Ziyaret Bilgileri
 
-Antakya Antik Yapıları, ziyaretçilere tarihi bir gezi sunuyor. Bu bölgede, tarihi yapılar, anıtlar ve kalıntılar ziyaret edilebilir. Antakya Antik Yapıları, yaklaşık 200 futbol sahası büyüklüğünde, 140 hektarlık bir alanı kapsıyor. Bu bölge, ziyaretçilere tarihi bir atmosfer sunuyor. Antakya Antik Yapıları, ziyaretçilere doğanın güzelliğini de sunuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor.
+Antakya Antik Yapıları, ziyaretçilere tarihi bir gezi sunuyor. Bu bölgede, tarihi yapılar, anıtlar ve kalıntılar ziyaret edilebilir. Bu bölge, ziyaretçilere tarihi bir atmosfer sunuyor. Antakya Antik Yapıları, ziyaretçilere doğanın güzelliğini de sunuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor.
 
 ## İlginç Bilgiler
 
 - Antakya Antik Yapıları, yüzyıllar boyunca çeşitli uygarlıkların etkisinde kalmış.
 - Bu bölge, Roma İmparatorluğu döneminde önemli bir merkez olarak kabul ediliyordu.
-- Antakya Antik Yapıları, yaklaşık 200 futbol sahası büyüklüğünde, 140 hektarlık bir alanı kapsıyor.
+
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor.
 - Antakya Antik Yapıları, ekolojik açıdan önemli bir bölge.

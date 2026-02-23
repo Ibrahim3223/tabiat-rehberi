@@ -22,7 +22,7 @@ wikidata_id: "Q108228556"
 
 # Kastamonu-Tosya-Yesilgol-Ahlat
 
-Kastamonu-Tosya-Yesilgol-Ahlat milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu bölge, Yeşilgöl'ün güzelliği ve Ahlat'ın tarihi geçmişiyle birlikte, ziyaretçilerini etkileyen bir destinasyon haline gelmiştir. Milli parkın büyüklüğü, yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplar ve bu, ziyaretçilerin keşfetmek için geniş bir alan sunar. Kastamonu-Tosya-Yesilgol-Ahlat milli parkı, ziyaretçilerine doğanın güzelliğini ve tarihi geçmişiyle birlikte, unutulmaz bir deneyim sunar.
+Kastamonu-Tosya-Yesilgol-Ahlat milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde yer alan bir doğa harikasıdır. Bu bölge, Yeşilgöl'ün güzelliği ve Ahlat'ın tarihi geçmişiyle birlikte, ziyaretçilerini etkileyen bir destinasyon haline gelmiştir. Kastamonu-Tosya-Yesilgol-Ahlat milli parkı, ziyaretçilerine doğanın güzelliğini ve tarihi geçmişiyle birlikte, unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kastamonu-Tosya-Yesilgol-Ahlat milli parkı, ziyaretçilerine çeşitli bitki t�
 
 ## Ziyaret Bilgileri
 
-Kastamonu-Tosya-Yesilgol-Ahlat milli parkını ziyaret etmek, ziyaretçilerine unutulmaz bir deneyim sunar. Bu bölge, ziyaretçilerini etkileyen bir destinasyon haline gelmiştir. Milli parkı ziyaret etmek için, ziyaretçilerin Kastamonu iline gitmeleri gerekir. Kastamonu-Tosya-Yesilgol-Ahlat milli parkına ulaşmak için, ziyaretçilerin çeşitli ulaşım seçeneklerini kullanabilirler. Milli parkı ziyaret etmek için, en iyi mevsim ilkbahar ve yaz aylarıdır. Bu mevsimlerde, ziyaretçilerin doğanın güzelliğini ve tarihi geçmişiyle birlikte, unutulmaz bir deneyim sunar.
+ Bu bölge, ziyaretçilerini etkileyen bir destinasyon haline gelmiştir. Milli parkı ziyaret etmek için, ziyaretçilerin Kastamonu iline gitmeleri gerekir. Kastamonu-Tosya-Yesilgol-Ahlat milli parkına ulaşmak için, ziyaretçilerin çeşitli ulaşım seçeneklerini kullanabilirler. Milli parkı ziyaret etmek için, en iyi mevsim ilkbahar ve yaz aylarıdır. Bu mevsimlerde, ziyaretçilerin doğanın güzelliğini ve tarihi geçmişiyle birlikte, unutulmaz bir deneyim sunar.
 
 ## İlginç Bilgiler
 

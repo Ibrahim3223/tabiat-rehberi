@@ -1,7 +1,7 @@
 ---
 title: "Şirmerd Çavuş Türbesi"
 date: "2026-01-10T07:51:21.539Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391174"
 
 # Şirmerd Çavuş Türbesi
 
-Fatih, İstanbul'da bulunan Şirmerd Çavuş Türbesi, hem tarihi hem de doğal güzelliği ile dikkat çekiyor. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahip ve bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne karşılık geliyor. Şirmerd Çavuş Türbesi, Marmara Bölgesi'nde yer alıyor ve bu bölgenin coğrafi özellikleri ile şekillenmiş bir yapıya sahip. Tarihi ve coğrafi açıdan önemli bir konumda bulunan bu türbe, ziyaretçilerini bekliyor.
+Fatih, İstanbul'da bulunan Şirmerd Çavuş Türbesi, hem tarihi hem de doğal güzelliği ile dikkat çekiyor. Şirmerd Çavuş Türbesi, Marmara Bölgesi'nde yer alıyor ve bu bölgenin coğrafi özellikleri ile şekillenmiş bir yapıya sahip. Tarihi ve coğrafi açıdan önemli bir konumda bulunan bu türbe, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

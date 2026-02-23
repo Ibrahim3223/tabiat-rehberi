@@ -1,7 +1,7 @@
 ---
 title: "Ankara Üniversitesi Eczacılık Fakültesi Müzesi"
 date: "2026-01-10T15:18:25.499Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949957"
 
 # Ankara Üniversitesi Eczacılık Fakültesi Müzesi
 
-Ankara Üniversitesi Eczacılık Fakültesi Müzesi, Ankara'nın merkezinde yer alan bir kültür ve eğitim merkezi olarak hizmet vermektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgede yer alan müze, eczacılık tarihi ve bilimi hakkında geniş bir bilgi yelpazesi sunmaktadır. Müzenin içerisinde eczacılık tarihi boyunca kullanılan çeşitli araç ve gereçler sergilenmektedir. Bu müze, eczacılık alanında eğitim gören öğrenciler ve bu alanda çalışmak isteyenler için önemli bir kaynak olmaktadır.
+Ankara Üniversitesi Eczacılık Fakültesi Müzesi, Ankara'nın merkezinde yer alan bir kültür ve eğitim merkezi olarak hizmet vermektedir. Müzenin içerisinde eczacılık tarihi boyunca kullanılan çeşitli araç ve gereçler sergilenmektedir. Bu müze, eczacılık alanında eğitim gören öğrenciler ve bu alanda çalışmak isteyenler için önemli bir kaynak olmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ankara Üniversitesi Eczacılık Fakültesi Müzesi, eczacılık tarihi ve bilim
 
 ## Coğrafya
 
-Ankara Üniversitesi Eczacılık Fakültesi Müzesi, Ankara'nın merkezinde yer alan bir bölgede bulunmaktadır. Müze, 140 hektarlık bir alanda kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir bölgede hizmet vermektedir. Müzenin çevresinde, çeşitli kültür ve eğitim merkezleri yer almaktadır. Ankara, İç Anadolu Bölgesi'nin merkezi bir şehri olarak, müze için uygun bir konuma sahiptir. Müze, Ankara'nın coğrafi konumu nedeniyle, eczacılık tarihi ve bilimi hakkında bilgi edinmek isteyenler için önemli bir merkez olarak hizmet vermektedir. Ankara'nın iklimi, karasal iklim özellikleri göstermektedir ve bu nedenle, müze içerisinde sergilenen eserlerin korunması için uygun koşullar sağlanmaktadır.
+Ankara Üniversitesi Eczacılık Fakültesi Müzesi, Ankara'nın merkezinde yer alan bir bölgede bulunmaktadır. Müzenin çevresinde, çeşitli kültür ve eğitim merkezleri yer almaktadır. Ankara, İç Anadolu Bölgesi'nin merkezi bir şehri olarak, müze için uygun bir konuma sahiptir. Müze, Ankara'nın coğrafi konumu nedeniyle, eczacılık tarihi ve bilimi hakkında bilgi edinmek isteyenler için önemli bir merkez olarak hizmet vermektedir. Ankara'nın iklimi, karasal iklim özellikleri göstermektedir ve bu nedenle, müze içerisinde sergilenen eserlerin korunması için uygun koşullar sağlanmaktadır.
 
 ## Flora ve Fauna
 

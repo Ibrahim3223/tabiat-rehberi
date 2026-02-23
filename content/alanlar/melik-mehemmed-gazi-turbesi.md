@@ -1,7 +1,7 @@
 ---
 title: "Melik Mehemmed Gazi Türbesi"
 date: "2026-01-10T07:56:42.736Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ordu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391325"
 
 # Melik Mehemmed Gazi Türbesi
 
-Melik Mehemmed Gazi Türbesi, Karadeniz Bölgesi'nin Ordu ilinin Akkuş ilçesinde bulunan bir tarihi ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tarihi ve doğal güzellikleri bir arada sunan bu mekan, ziyaretçilerine hem tarihi hem de doğayı birlikte deneyimleme fırsatı sunar. İnsanlar, bu türbe ve çevresini gezerken, hem bölgenin tarihi geçmişini öğrenebilir hem de doğal güzelliklerin keyfini çıkarabilirler.
+Melik Mehemmed Gazi Türbesi, Karadeniz Bölgesi'nin Ordu ilinin Akkuş ilçesinde bulunan bir tarihi ve doğal güzellik alanıdır. Tarihi ve doğal güzellikleri bir arada sunan bu mekan, ziyaretçilerine hem tarihi hem de doğayı birlikte deneyimleme fırsatı sunar. İnsanlar, bu türbe ve çevresini gezerken, hem bölgenin tarihi geçmişini öğrenebilir hem de doğal güzelliklerin keyfini çıkarabilirler.
 
 ## Tarihçe
 

@@ -52,7 +52,7 @@ Suludere ve Körikini Mağarası, çevresindeki doğal kaynaklarla da bağlantı
 
 Suludere ve Körikini Mağarası Jeoparkı, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir bölge. Bu alan, kuraklığa adapte olmuş türlerin yaşadığı bir cennet.
 
-Bitki Örtüsü: Step bitki örtüsünün hakim olduğu bu bölgede, ilkbaharla birlikte çiçekler açar. Mevsimsel değişimlerle birlikte, bölgeye özel bazı bitkiler ortaya çıkar. 
+Bitki Örtüsü: Step bitki örtüsünün hakim olduğu bu bölgede, ilkbaharla birlikte çiçekler açar. Mevsimsel değişimlerle birlikte, bölgeye özel bazı bitkiler ortaya çıkar.
 
 Yaban Hayatı: Bu bölge, çeşitli memelilerin, özellikle de step ekosistemine özgü türlerin yaşadığı bir yer. Kuşlar da bu bölgede önemli bir yer tutar; özellikle sonbaharda göç eden kuşlar, bölgeyi ziyaret eder. Sürüngenler de bu bölgenin bir parçası, kuraklığa adapte olmuş türler olarak.
 

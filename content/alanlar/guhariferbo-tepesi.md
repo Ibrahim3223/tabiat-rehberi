@@ -28,7 +28,7 @@ wikidata_id: "Q34872843"
 
 # Gühariferbo Tepesi
 
-Gühariferbo Tepesi, Diyarbakır'ın tarihi ve doğal güzellikleri içerisinde yer alan önemli bir nokta olarak ziyaretçilerini bekliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin karmaşasından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan tarihi yapılar, ziyaretçilere bölgenin zengin tarihini anlatıyor. Gühariferbo Tepesi, doğa severlerin ve tarih meraklılarının ilgisini çekmekle birlikte, bölgenin coğrafi yapısı ve iklimi hakkında da önemli bilgiler sunuyor.
+Gühariferbo Tepesi, Diyarbakır'ın tarihi ve doğal güzellikleri içerisinde yer alan önemli bir nokta olarak ziyaretçilerini bekliyor. Tepenin eteklerinde yer alan tarihi yapılar, ziyaretçilere bölgenin zengin tarihini anlatıyor. Gühariferbo Tepesi, doğa severlerin ve tarih meraklılarının ilgisini çekmekle birlikte, bölgenin coğrafi yapısı ve iklimi hakkında da önemli bilgiler sunuyor.
 
 ## Tarihçe
 

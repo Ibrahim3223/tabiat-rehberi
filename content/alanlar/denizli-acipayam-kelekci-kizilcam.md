@@ -22,7 +22,7 @@ wikidata_id: "Q108227334"
 
 # Denizli-Acipayam-Kelekci Kızılçam
 
-Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olan Denizli-Acipayam-Kelekci Kızılçam milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak harika bir deneyim. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli parkın güzelliği, yalnızca flora ve faunasıyla sınırlı değil, aynı zamanda ziyaretçilere tarihini ve coğrafyasını keşfetme fırsatı sunuyor.
+ Bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak harika bir deneyim. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli parkın güzelliği, yalnızca flora ve faunasıyla sınırlı değil, aynı zamanda ziyaretçilere tarihini ve coğrafyasını keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Denizli-Acipayam-Kelekci Kızılçam milli parkını ziyaret etmek, doğal güze
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunur.
 - Milli parkın iklimi, bölgenin genel iklimine uygun olarak sıcak ve kurak yazlar, ılıman kışlar şeklinde.
 - Parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve manzaralar sunuyor.

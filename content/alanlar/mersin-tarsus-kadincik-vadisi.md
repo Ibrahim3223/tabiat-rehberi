@@ -22,7 +22,7 @@ wikidata_id: "Q108228043"
 
 # Mersin-Tarsus Kadincik Vadisi
 
-Mersin-Tarsus Kadincik Vadisi, Akdeniz Bölgesi'nde yer alan Mersin ilinin Tarsus ilçesinde bulunur. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu vadi, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Vadide çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, vadiyi gezerken hem doğanın güzelliğini keşfeder hem de bu eşsiz ortamın tadını çıkarabilir. Mersin-Tarsus Kadincik Vadisi, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağıdır.
+Mersin-Tarsus Kadincik Vadisi, Akdeniz Bölgesi'nde yer alan Mersin ilinin Tarsus ilçesinde bulunur. Vadide çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, vadiyi gezerken hem doğanın güzelliğini keşfeder hem de bu eşsiz ortamın tadını çıkarabilir. Mersin-Tarsus Kadincik Vadisi, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağıdır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-Tarsus Kadincik Vadisi'nin tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Mersin-Tarsus Kadincik Vadisi, Mersin ilinin Tarsus ilçesinde yer alır. Vadide, çeşitli bitki türleri ve zengin fauna bulunur. Vadi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Vadideki iklim, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlıdır. Vadi, ziyaretçilerine doğal güzellikleri ve zengin kültürel mirasıyla birlikte, eşsiz bir deneyim sunar. Mersin-Tarsus Kadincik Vadisi, ziyaretçilerini doğanın içinde bir maceraya davet eder.
+Mersin-Tarsus Kadincik Vadisi, Mersin ilinin Tarsus ilçesinde yer alır. Vadide, çeşitli bitki türleri ve zengin fauna bulunur. Vadideki iklim, Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlıdır. Vadi, ziyaretçilerine doğal güzellikleri ve zengin kültürel mirasıyla birlikte, eşsiz bir deneyim sunar. Mersin-Tarsus Kadincik Vadisi, ziyaretçilerini doğanın içinde bir maceraya davet eder.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mersin-Tarsus Kadincik Vadisi'ni ziyaret etmek, ziyaretçilere doğanın güzell
 
 ## İlginç Bilgiler
 
-- Mersin-Tarsus Kadincik Vadisi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir.
 - Vadide, çeşitli bitki türleri ve zengin fauna bulunur.
 - Mersin-Tarsus Kadincik Vadisi, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağıdır.
 - Vadi, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar.

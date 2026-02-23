@@ -1,7 +1,7 @@
 ---
 title: "Liman Baba Türbesi"
 date: "2026-01-10T07:03:26.749Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırklareli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390865"
 
 # Liman Baba Türbesi
 
-Liman Baba Türbesi, Demirköy'de yer alan ve Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olan bir türbedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Bu bölge, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Liman Baba Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
+Liman Baba Türbesi, Demirköy'de yer alan ve Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olan bir türbedir. Bu bölge, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Liman Baba Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Liman Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca devam ediyor. Tari
 
 ## Coğrafya
 
-Liman Baba Türbesi, Demirköy'de yer alıyor ve Marmara Bölgesi'nin coğrafyasına özgü bir yapıya sahip. 180 hektarlık bir alanda yer alan türbe, yaklaşık 300 futbol sahası büyüklüğünde bir alanı kapsıyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Liman Baba Türbesi'nin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Türbenin etrafında, Marmara Denizi'nin güzelliğini veinın dağlarını görme mümkün. İklim, genel olarak ılıman ve yağışlı bir yapıya sahip. Bölge, coğrafi konumu itibariyle önemli bir doğal güzelliğe sahip.
+Liman Baba Türbesi, Demirköy'de yer alıyor ve Marmara Bölgesi'nin coğrafyasına özgü bir yapıya sahip. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Liman Baba Türbesi'nin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor. Türbenin etrafında, Marmara Denizi'nin güzelliğini veinın dağlarını görme mümkün. İklim, genel olarak ılıman ve yağışlı bir yapıya sahip. Bölge, coğrafi konumu itibariyle önemli bir doğal güzelliğe sahip.
 
 ## Flora ve Fauna
 

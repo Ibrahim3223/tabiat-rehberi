@@ -29,7 +29,7 @@ wikidata_id: "Q31389686"
 
 # Abdal Tepe
 
-Abdal Tepe, Kastamonu'nun merkezi bir konumda yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir doğa alanıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Abdal Tepe, ziyaretçilerini Karadeniz Bölgesi'nin eşsiz güzellikleriyle buluşturuyor. Tepe, bölgenin en önemli doğal değerlerinden biri olarak kabul ediliyor. Ziyaretçiler, tepeye tırmanırken, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfedebilirler.
+Abdal Tepe, Kastamonu'nun merkezi bir konumda yer alan, yaklaşık 140 hektarlık bir alanı kaplayan bir doğa alanıdır. Abdal Tepe, ziyaretçilerini Karadeniz Bölgesi'nin eşsiz güzellikleriyle buluşturuyor. Tepe, bölgenin en önemli doğal değerlerinden biri olarak kabul ediliyor. Ziyaretçiler, tepeye tırmanırken, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfedebilirler.
 
 ## Tarihçe
 

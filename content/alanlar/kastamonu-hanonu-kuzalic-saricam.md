@@ -22,7 +22,7 @@ wikidata_id: "Q108228574"
 
 # Kastamonu-Hanonu-Kuzalic-Saricam
 
-Kastamonu-Hanonu-Kuzalic-Saricam milli parkı, Kastamonu'nun yeşil cenneti olarak bilinir. 140 hektarlık bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu milli park, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar. Kastamonu'nun tarihi geçmişi ve doğal güzellikleri, bu bölgenin önemli bir turizm merkezi olmasını sağlar. Ziyaretçiler, milli parkın içinde yer alan çeşitli yürüyüş yolları ve piknik alanlarından yararlanabilirler.
+Kastamonu-Hanonu-Kuzalic-Saricam milli parkı, Kastamonu'nun yeşil cenneti olarak bilinir. Bu milli park, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar. Kastamonu'nun tarihi geçmişi ve doğal güzellikleri, bu bölgenin önemli bir turizm merkezi olmasını sağlar. Ziyaretçiler, milli parkın içinde yer alan çeşitli yürüyüş yolları ve piknik alanlarından yararlanabilirler.
 
 ## Tarihçe
 

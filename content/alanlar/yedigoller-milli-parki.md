@@ -29,7 +29,7 @@ schema_type: "TouristAttraction"
 
 # Yedigöller Milli Parkı
 
-Yedigöller Milli Parkı, Bolu'nun Mengen ilçesinde yer alan ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu park, yedi farklı gölün bir araya gelmesiyle oluşmuş ve thus, Türkiye'nin en önemli doğa rezervlerinden biridir. Gölleri, ormanları ve dağlarıyla Yedigöller Milli Parkı, hem doğa severler hem de turistler için bir çekim merkezi haline gelmiştir. Parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu nedenle, Yedigöller Milli Parkı, sadece doğal güzelliği ile değil, aynı zamanda zengin fauna ve florasıyla da dikkat çekmektedir.
+ Bu park, yedi farklı gölün bir araya gelmesiyle oluşmuş ve thus, Türkiye'nin en önemli doğa rezervlerinden biridir. Gölleri, ormanları ve dağlarıyla Yedigöller Milli Parkı, hem doğa severler hem de turistler için bir çekim merkezi haline gelmiştir. Parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu nedenle, Yedigöller Milli Parkı, sadece doğal güzelliği ile değil, aynı zamanda zengin fauna ve florasıyla da dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yedigöller Milli Parkı, tarihsel geçmişine bakıldığında, yüzyıllar boy
 
 ## Coğrafya
 
-Yedigöller Milli Parkı, Karadeniz Bölgesi'nde, Bolu'nun Mengen ilçesinde yer almaktadır. Parkın coğrafi yapısı, yedi farklı gölün bir araya gelmesiyle oluşmuştur. Bu göller, Nazlıoğlu Gölü, Sazlı Göl, Küçük Göl, İnce Göl, Büyükgöl, Deringöl ve Sülüklü Göl'dür. Parkın toplam alanı 140 hektar olup, yaklaşık 200 futbol sahası büyüklüğündedir. Yedigöller Milli Parkı, dağlık bir bölgede yer almakta ve parkın etrafı ormanlarla çevrilidir. Parkın iklimi, Karadeniz ikliminin özellikleri göstermektedir. Parkın coğrafi yapısı, ziyaretçilere hem doğal güzelliği ile hem de doğayla iç içe bir deneyim sunmaktadır. Yedigöller Milli Parkı, Türkiye'nin en önemli doğa rezervlerinden biri olarak, ziyaretçilerini doğanın güzelliği ile büyülemektedir.
+Yedigöller Milli Parkı, Karadeniz Bölgesi'nde, Bolu'nun Mengen ilçesinde yer almaktadır. Parkın coğrafi yapısı, yedi farklı gölün bir araya gelmesiyle oluşmuştur. Bu göller, Nazlıoğlu Gölü, Sazlı Göl, Küçük Göl, İnce Göl, Büyükgöl, Deringöl ve Sülüklü Göl'dür. Yedigöller Milli Parkı, dağlık bir bölgede yer almakta ve parkın etrafı ormanlarla çevrilidir. Parkın iklimi, Karadeniz ikliminin özellikleri göstermektedir. Parkın coğrafi yapısı, ziyaretçilere hem doğal güzelliği ile hem de doğayla iç içe bir deneyim sunmaktadır. Yedigöller Milli Parkı, Türkiye'nin en önemli doğa rezervlerinden biri olarak, ziyaretçilerini doğanın güzelliği ile büyülemektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Yedigöller Milli Parkı, ziyaretçilerine birçok olanak sunmaktadır. Parka, M
 ## İlginç Bilgiler
 
 - Yedigöller Milli Parkı, Türkiye'nin ilk milli parklarından biridir.
-- Parkın alanı 140 hektar olup, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Yedigöller Milli Parkı, yedi farklı gölün bir araya gelmesiyle oluşmuştur.
 - Parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Yedigöller Milli Parkı, Türkiye'nin en önemli doğa rezervlerinden biridir.

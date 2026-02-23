@@ -22,7 +22,7 @@ wikidata_id: "Q108227999"
 
 # Isparta-Afyon-Dinar Toros Sediri
 
-Isparta-Afyon-Dinar Toros Sediri milli parkı, Akdeniz Bölgesi'nin en güzel doğal alanlarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklüğü ile ziyaretçilerini etkiliyor. Milli park, Toros sedirlerinin güzelliğini sunarken aynı zamanda ziyaretçilerine doğayı keşfetme fırsatı sunuyor. Isparta ilinin güzelliğini görmek isteyenler için ideal bir destinasyon olan milli park, her yıl birçok ziyaretçi tarafından tercih ediliyor.
+Isparta-Afyon-Dinar Toros Sediri milli parkı, Akdeniz Bölgesi'nin en güzel doğal alanlarından biridir. Milli park, Toros sedirlerinin güzelliğini sunarken aynı zamanda ziyaretçilerine doğayı keşfetme fırsatı sunuyor. Isparta ilinin güzelliğini görmek isteyenler için ideal bir destinasyon olan milli park, her yıl birçok ziyaretçi tarafından tercih ediliyor.
 
 ## Tarihçe
 

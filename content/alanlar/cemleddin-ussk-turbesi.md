@@ -1,7 +1,7 @@
 ---
 title: "Cemâleddin Uşşâkî Türbesi"
 date: "2026-01-10T07:12:12.230Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -21,7 +21,7 @@ aktiviteler: ["Türbe ziyaret","Yeşil alan gezintisi","Doğa fotoğrafçılığ
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Cemâleddin Uşşâkî Türbesi","caption":"Cemâleddin Uşşâkî Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cem%C3%A2leddin%20U%C5%9F%C5%9F%C3%A2k%C3%AE%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390966","tip":"genel"}]
-description: "Eyüpsultan'da histórik bir turbe, 140 hektarlık yeşil alanın içerisinde yer alır."
+description: "Eyüpsultan'da tarihi bir turbe, 140 hektarlık yeşil alanın içerisinde yer alır."
 keywords: ["Cemâleddin Uşşâkî","Eyüpsultan","İstanbul","Marmara Bölgesi","Türbe","Yeşil Alan","Tarih","Doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390966"
@@ -29,15 +29,15 @@ wikidata_id: "Q131390966"
 
 # Cemâleddin Uşşâkî Türbesi
 
-Cemâleddin Uşşâkî Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan histórik bir turbe olarak bilinir. 140 hektarlık yeşil alanın içerisinde konumlanan bu turbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanın içerisinde yer alır. Bu geniş yeşil alan, ziyaretçilere hem dinlenmek hem de tarihi bir yapıyı ziyaret etmek için ideal bir ortam sunar. Cemâleddin Uşşâkî Türbesi, tarihi geçmişi ve natuur güzelliği ile ziyaretçilerini cezbeden bir destinasyon olarak dikkat çeker.
+Cemâleddin Uşşâkî Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir turbe olarak bilinir. Bu geniş yeşil alan, ziyaretçilere hem dinlenmek hem de tarihi bir yapıyı ziyaret etmek için ideal bir ortam sunar. Cemâleddin Uşşâkî Türbesi, tarihi geçmişi ve natuur güzelliği ile ziyaretçilerini cezbeden bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 
-Cemâleddin Uşşâkî Türbesi, tarihi geçmişi ile dikkat çeker. Bu türbenin inşa tarihi bilinmemekle birlikte, yüzyıllar boyunca önemli bir dini merkez olarak hizmet verdiği bilinir. Türbenin çevresindeki yeşil alan, ziyaretçilere hem dinlenmek hem de tarihi bir yapıyı ziyaret etmek için ideal bir ortam sunar. Cemâleddin Uşşâkî Türbesi, İstanbul'un históri ve kültür varlıklarını koruma ve tanıtmak amacıyla önemli bir rol oynar. Türbenin tarihi geçmişi, ziyaretçilere bu önemli dini merkezi daha iyi anlamak için değerli bilgiler sunar.
+Cemâleddin Uşşâkî Türbesi, tarihi geçmişi ile dikkat çeker. Bu türbenin inşa tarihi bilinmemekle birlikte, yüzyıllar boyunca önemli bir dini merkez olarak hizmet verdiği bilinir. Türbenin çevresindeki yeşil alan, ziyaretçilere hem dinlenmek hem de tarihi bir yapıyı ziyaret etmek için ideal bir ortam sunar. Cemâleddin Uşşâkî Türbesi, İstanbul'un tarihi ve kültür varlıklarını koruma ve tanıtmak amacıyla önemli bir rol oynar. Türbenin tarihi geçmişi, ziyaretçilere bu önemli dini merkezi daha iyi anlamak için değerli bilgiler sunar.
 
 ## Coğrafya
 
-Cemâleddin Uşşâkî Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan İstanbul'un kalbinde bulunur. Türbenin bulunduğu yeşil alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu geniş alan, ziyaretçilere natuur güzelliği sunar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemlidir. Cemâleddin Uşşâkî Türbesi, çevredeki yeşil alan ile birlikte ziyaretçilere hem dinlenmek hem de tarihi bir yapıyı ziyaret etmek için ideal bir ortam sunar. Türbenin coğrafi konumu, ziyaretçilere İstanbul'un históri ve kültür varlıklarını keşfetmek için ideal bir başlangıç noktası sunar.
+Cemâleddin Uşşâkî Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan İstanbul'un kalbinde bulunur. Türbenin bulunduğu yeşil alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu geniş alan, ziyaretçilere natuur güzelliği sunar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemlidir. Cemâleddin Uşşâkî Türbesi, çevredeki yeşil alan ile birlikte ziyaretçilere hem dinlenmek hem de tarihi bir yapıyı ziyaret etmek için ideal bir ortam sunar. Türbenin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve kültür varlıklarını keşfetmek için ideal bir başlangıç noktası sunar.
 
 ## Flora ve Fauna
 
@@ -49,8 +49,8 @@ Cemâleddin Uşşâkî Türbesi, ziyaretçilere hem dinlenmek hem de tarihi bir 
 
 ## İlginç Bilgiler
 
-- Cemâleddin Uşşâkî Türbesi, histórik bir turbe olarak bilinir.
+- Cemâleddin Uşşâkî Türbesi, tarihi bir turbe olarak bilinir.
 - Türbenin bulunduğu yeşil alan, yaklaşık 140 hektarlık bir alanı kaplar.
 - Bölge, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılıman ve nemlidir.
-- Türbenin coğrafi konumu, ziyaretçilere İstanbul'un históri ve kültür varlıklarını keşfetmek için ideal bir başlangıç noktası sunar.
+- Türbenin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve kültür varlıklarını keşfetmek için ideal bir başlangıç noktası sunar.
 - Bölgenin fauna zenginliği, ziyaretçilere pembeeşitli kuş ve hayvan türleri ile karşılaşma fırsatı sunar.

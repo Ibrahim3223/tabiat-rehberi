@@ -28,7 +28,7 @@ wikidata_id: "Q32139426"
 
 # Berçene Tepesi
 
-Berçene Tepesi, Nevşehir'in tarihi ve doğal güzellikleri arasında yer alan önemli bir nokta. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini büyüleyen manzarasıyla dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri bulunmakta, bu da bölgenin ekolojik zenginliğini gösteriyor. Berçene Tepesi, hem doğal güzellikleri hem de tarihi önemiyle ziyaretçilerini bekliyor.
+Berçene Tepesi, Nevşehir'in tarihi ve doğal güzellikleri arasında yer alan önemli bir nokta. Tepenin eteklerinde çeşitli bitki türleri bulunmakta, bu da bölgenin ekolojik zenginliğini gösteriyor. Berçene Tepesi, hem doğal güzellikleri hem de tarihi önemiyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

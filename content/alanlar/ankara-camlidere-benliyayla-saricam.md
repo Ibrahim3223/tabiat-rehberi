@@ -22,7 +22,7 @@ wikidata_id: "Q108227549"
 
 # Ankara-Camlidere-Benliyayla Saricam
 
-Ankara-Camlidere-Benliyayla Saricam, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Saricam, benzersiz coğrafi konumuyla dikkat çekiyor ve Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu milli park, ziyaretçilerine zengin bir flora ve fauna sunuyor ve doğa severlerin görmeye değer bir yer olarak kabul ediliyor.
+Ankara-Camlidere-Benliyayla Saricam, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Saricam, benzersiz coğrafi konumuyla dikkat çekiyor ve Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu milli park, ziyaretçilerine zengin bir flora ve fauna sunuyor ve doğa severlerin görmeye değer bir yer olarak kabul ediliyor.
 
 ## Tarihçe
 

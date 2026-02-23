@@ -29,7 +29,7 @@ wikidata_id: "Q134728195"
 
 # Kaya Mezarı 2 (Güvercinlik Köyü) Havza
 
-Kaya Mezarı 2, Havza'da bulunan ve tarihi geçmişi ile dikkat çeken bir mekân. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde. Kaya Mezarı 2, doğa severler ve tarih meraklıları için eşsiz bir deneyim sunuyor. Ziyaretçiler, bu mekanın büyüleyici atmosferini keşfedebilir ve Karadeniz Bölgesi'nin güzelliğini yakından görebilir. Kaya Mezarı 2, aynı zamanda bölgenin florası ve faunası hakkında da bilgi sahibi olmak için ideal bir yer.
+Kaya Mezarı 2, Havza'da bulunan ve tarihi geçmişi ile dikkat çeken bir mekân. Kaya Mezarı 2, doğa severler ve tarih meraklıları için eşsiz bir deneyim sunuyor. Ziyaretçiler, bu mekanın büyüleyici atmosferini keşfedebilir ve Karadeniz Bölgesi'nin güzelliğini yakından görebilir. Kaya Mezarı 2, aynı zamanda bölgenin florası ve faunası hakkında da bilgi sahibi olmak için ideal bir yer.
 
 ## Tarihçe
 

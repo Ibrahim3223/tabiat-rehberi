@@ -1,7 +1,7 @@
 ---
 title: "Celal Baba Türbesi"
 date: "2026-01-10T06:57:20.192Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kars"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390854"
 
 # Celal Baba Türbesi
 
-Celal Baba Türbesi, Kars ilinin merkezinde yer alan ve tarihin derinliklerine uzanan bir nokta. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tarihi önemi ve doğal güzelliği bir araya getiren bu mekan, ziyaretçileri için hem bir lchşi hem de bir doğa cenneti sunuyor. Celal Baba Türbesi, Kars'ın tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor ve buraya gelenler, bu özel mekanın atmosferini deneyimleme fırsatı buluyor.
+Celal Baba Türbesi, Kars ilinin merkezinde yer alan ve tarihin derinliklerine uzanan bir nokta. Tarihi önemi ve doğal güzelliği bir araya getiren bu mekan, ziyaretçileri için hem bir lchşi hem de bir doğa cenneti sunuyor. Celal Baba Türbesi, Kars'ın tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor ve buraya gelenler, bu özel mekanın atmosferini deneyimleme fırsatı buluyor.
 
 ## Tarihçe
 

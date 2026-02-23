@@ -23,7 +23,7 @@ wikidata_id: "Q108227883"
 
 # Inkum
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Inkum, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor. Bu geniş alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile doğa severler için bir cennet harika bir deneyim. Inkum'un hikayesi, yüzyıllar boyunca şekillenen coğrafyası ve tarihi geçmişi ile zengin bir kültürel mirası da sunuyor. Doğal güzelliği ve tarihi önemi ile Inkum, Türkiye'nin önemli turizm noktalarından biri olarak dikkat çekiyor.
+ Bu geniş alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile doğa severler için bir cennet harika bir deneyim. Inkum'un hikayesi, yüzyıllar boyunca şekillenen coğrafyası ve tarihi geçmişi ile zengin bir kültürel mirası da sunuyor. Doğal güzelliği ve tarihi önemi ile Inkum, Türkiye'nin önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Inkum'un tarihi geçmişi, yüzyılların izlerini taşıyor. Bu bölge, tarihin
 
 ## Coğrafya
 
-İç Anadolu Bölgesi'nin coğrafyası, Inkum'un doğal güzelliğini şekillendiren önemli faktörlerden biri. Inkum, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile doğa severler için bir cennet harika bir deneyim. Inkum'un coğrafyası, ziyaretçilere geniş açık alanlar ve doğal güzellikler sunuyor. Inkum'un iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Bu iklim, Inkum'un flora ve fauna çeşitliliğini etkileyen önemli bir faktör. Inkum'un konumu, ziyaretçilere kolay ulaşım opportunities sunuyor ve Inkum, Türkiye'nin önemli turizm noktalarından biri olarak dikkat çekiyor.
+İç Anadolu Bölgesi'nin coğrafyası, Inkum'un doğal güzelliğini şekillendiren önemli faktörlerden biri. Bu geniş alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile doğa severler için bir cennet harika bir deneyim. Inkum'un coğrafyası, ziyaretçilere geniş açık alanlar ve doğal güzellikler sunuyor. Inkum'un iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir iklim özelliği gösteriyor. Bu iklim, Inkum'un flora ve fauna çeşitliliğini etkileyen önemli bir faktör. Inkum'un konumu, ziyaretçilere kolay ulaşım opportunities sunuyor ve Inkum, Türkiye'nin önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

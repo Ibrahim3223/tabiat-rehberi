@@ -23,7 +23,7 @@ wikidata_id: "Q108225463"
 
 # Sit Alanı
 
-Sit Alanı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan özel bir alandır. Yaklaşık 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu alan, aynı zamanda birçok bitki ve hayvan türünün yaşadığı bir ekosistem olarak dikkat çeker. Sit Alanı, ziyaretçilerine doğayla iç içe bir deneyim sunar ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sağlar.
+Sit Alanı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan özel bir alandır. Bu alan, aynı zamanda birçok bitki ve hayvan türünün yaşadığı bir ekosistem olarak dikkat çeker. Sit Alanı, ziyaretçilerine doğayla iç içe bir deneyim sunar ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sağlar.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Sit Alanı, tarihi geçmişi itibarıyla önemli bir bölgedir. Bu bölge, yüzy
 
 ## Coğrafya
 
-Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Sit Alanı, aynı zamanda birçok bitki ve hayvan türünün yaşadığı bir ekosistem olarak dikkat çeker. Bu bölge, ziyaretçilerine doğayla iç içe bir deneyim sunar ve bölgenin coğrafi güzellikleri hakkında bilgi edinme fırsatı sağlar. Sit Alanı, aynı zamanda birçok dağ, tepe ve vadiye ev sahipliği yapar ve ziyaretçilerine bölgenin coğrafi zenginliğini keşfetme fırsatı sunar. Bu bölge, aynı zamanda birçok nehir ve akarsuya ev sahipliği yapar ve ziyaretçilerine bölgenin su kaynakları hakkında bilgi edinme fırsatı sunar.
+Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Sit Alanı, aynı zamanda birçok bitki ve hayvan türünün yaşadığı bir ekosistem olarak dikkat çeker. Bu bölge, ziyaretçilerine doğayla iç içe bir deneyim sunar ve bölgenin coğrafi güzellikleri hakkında bilgi edinme fırsatı sağlar. Sit Alanı, aynı zamanda birçok dağ, tepe ve vadiye ev sahipliği yapar ve ziyaretçilerine bölgenin coğrafi zenginliğini keşfetme fırsatı sunar. Bu bölge, aynı zamanda birçok nehir ve akarsuya ev sahipliği yapar ve ziyaretçilerine bölgenin su kaynakları hakkında bilgi edinme fırsatı sunar.
 
 ## Flora ve Fauna
 

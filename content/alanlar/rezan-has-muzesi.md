@@ -1,7 +1,7 @@
 ---
 title: "Rezan Has Müzesi"
 date: "2026-01-10T15:10:30.247Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q7319839"
 
 # Rezan Has Müzesi
 
-Rezan Has Müzesi, İstanbul'un kalbinde, Fatih ilçesinde yer alan bir kültür ve sanat merkezidir. 140 hektarlık yeşil alanıyla, ziyaretçilerini doğayla iç içe bir ortamda ağırlar. Yaklaşık 200 futbol sahası büyüklüğündeki bu alan, hem doğa severlerin hem de sanatseverlerin ilgisini çeker. Müzenin içerisinde, çeşitli sanat eserleri ve Sergiler bulunur. Ziyaretçiler, hem doğanın güzelliğini hem de sanatın zenginliğini bir arada deneyimleyebilirler.
+Rezan Has Müzesi, İstanbul'un kalbinde, Fatih ilçesinde yer alan bir kültür ve sanat merkezidir. 140 hektarlık yeşil alanıyla, ziyaretçilerini doğayla iç içe bir ortamda ağırlar. Müzenin içerisinde, çeşitli sanat eserleri ve Sergiler bulunur. Ziyaretçiler, hem doğanın güzelliğini hem de sanatın zenginliğini bir arada deneyimleyebilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Rezan Has Müzesi, tarihi geçmişi ile dikkat çeker. Müzenin kuruluş hikayes
 
 ## Coğrafya
 
-Rezan Has Müzesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nde yer alır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğündedir. Müzenin coğrafi konumu, ziyaretçilerin hem doğayı hem de sanatı deneyimlemesine olanak tanır. Çevre, zengin flora ve fauna ile dikkat çeker. Mevsimsel değişimler, müzenin güzelliğini daha da artırır. İlkbahar ve sonbahar aylarında, doğanın renkleri ziyaretçileri etkiler. Kış aylarında, karla örtülü yeşil alan, ziyaretçilere farklı bir güzellik sunar. Yaz aylarında ise, serin ve ferah bir ortam, ziyaretçilerin dinlenmesine katkıda bulunur.
+Rezan Has Müzesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nde yer alır. Müzenin coğrafi konumu, ziyaretçilerin hem doğayı hem de sanatı deneyimlemesine olanak tanır. Çevre, zengin flora ve fauna ile dikkat çeker. Mevsimsel değişimler, müzenin güzelliğini daha da artırır. İlkbahar ve sonbahar aylarında, doğanın renkleri ziyaretçileri etkiler. Kış aylarında, karla örtülü yeşil alan, ziyaretçilere farklı bir güzellik sunar. Yaz aylarında ise, serin ve ferah bir ortam, ziyaretçilerin dinlenmesine katkıda bulunur.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Rezan Has Müzesi'ni ziyaret etmek, hem doğa severler hem de sanatseverler içi
 
 - Rezan Has Müzesi, 140 hektarlık yeşil alanıyla dikkat çeker.
 - Müze, çeşitli sanat eserleri ve sergiler sunar.
-- Yeşil alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Müzenin tarihi geçmişi, yüzyıllar boyunca sanatın ve doğanın bir arada yaşandığı bir bölge olarak bilinir.
 - Müze, mevsimsel değişimlere göre güzelliğini değiştirir.

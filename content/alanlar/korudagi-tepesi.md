@@ -28,7 +28,7 @@ wikidata_id: "Q31388642"
 
 # Korudağı Tepesi
 
-Korudağı Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplı. Korudağı Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi. Bu tepenin eteklerinde, yüzyıllar boyunca insanların yaşadığı izleri görme mümkün. Korudağı Tepesi, aynı zamanda bölgenin coğrafi açıdan da önemli bir nokta. Tepenin zirvesinden, Ege Bölgesi'nin geniş bir bölümünü görme mümkün
+Korudağı Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir tepe. Korudağı Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi. Bu tepenin eteklerinde, yüzyıllar boyunca insanların yaşadığı izleri görme mümkün. Korudağı Tepesi, aynı zamanda bölgenin coğrafi açıdan da önemli bir nokta. Tepenin zirvesinden, Ege Bölgesi'nin geniş bir bölümünü görme mümkün
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Korudağı Tepesi'nin tarihi geçmişi, bölgenin zengin kültür mirasını yan
 
 ## Coğrafya
 
-Korudağı Tepesi, Muğla'nın Ege Bölgesi'nde yer alıyor. Bu tepe, coğrafi açıdan önemli bir nokta. Tepenin zirvesinden, Ege Bölgesi'nin geniş bir bölümünü görme mümkün. Korudağı Tepesi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu bitki türleri, bölgeye özgü. Korudağı Tepesi, aynı zamanda bölgenin iklimini de etkiliyor. Tepenin yüksekliği, bölgenin hava koşullarını değiştiriyor. Korudağı Tepesi'nin çevresi, zengin fauna ve flora ile kaplı. Bu tepe, aynı zamanda çeşitli hayvan türlerinin yaşadığı bir bölge. Korudağı Tepesi, coğrafi açıdan önemli bir nokta ve ziyaretçilerine, doğanın güzelliğini sunuyor
+Korudağı Tepesi, Muğla'nın Ege Bölgesi'nde yer alıyor. Bu tepe, coğrafi açıdan önemli bir nokta. Tepenin zirvesinden, Ege Bölgesi'nin geniş bir bölümünü görme mümkün. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bu bitki türleri, bölgeye özgü. Korudağı Tepesi, aynı zamanda bölgenin iklimini de etkiliyor. Tepenin yüksekliği, bölgenin hava koşullarını değiştiriyor. Korudağı Tepesi'nin çevresi, zengin fauna ve flora ile kaplı. Bu tepe, aynı zamanda çeşitli hayvan türlerinin yaşadığı bir bölge. Korudağı Tepesi, coğrafi açıdan önemli bir nokta ve ziyaretçilerine, doğanın güzelliğini sunuyor
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228418"
 
 # Aksaz-Karaagac
 
-Aksaz-Karaagac milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmayı amaçlıyor. Milli parkın konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin tarihi ve kültürel değerlerini öğrenmesine olanak tanır. Aksaz-Karaagac, doğal güzelliği ve zengin faunasıyla ziyaretçilerini bekliyor.
+Aksaz-Karaagac milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Milli parkın konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin tarihi ve kültürel değerlerini öğrenmesine olanak tanır. Aksaz-Karaagac, doğal güzelliği ve zengin faunasıyla ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

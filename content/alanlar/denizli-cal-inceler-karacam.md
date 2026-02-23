@@ -22,7 +22,7 @@ wikidata_id: "Q108227498"
 
 # Denizli-Cal-Inceler Karacam
 
-Denizli-Cal-Inceler Karacam milli parkı, Ege Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü çeşitli bitki türlerini barındırmaktadır. Parkın coğrafi konumu, ziyaretçilere güzel manzaralar sunarken, aynı zamanda zengin fauna çeşitliliğini de gözler önüne sermektedir. Bu milli park, hem doğa severler hem de bilim insanları için önemli bir destinasyondur.
+Denizli-Cal-Inceler Karacam milli parkı, Ege Bölgesi'nin önemli doğal alanlarından biridir. Parkın coğrafi konumu, ziyaretçilere güzel manzaralar sunarken, aynı zamanda zengin fauna çeşitliliğini de gözler önüne sermektedir. Bu milli park, hem doğa severler hem de bilim insanları için önemli bir destinasyondur.
 
 ## Tarihçe
 

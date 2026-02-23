@@ -28,7 +28,7 @@ wikidata_id: "Q31389635"
 
 # Karamanlardağı Tepesi
 
-Karamanldağı Tepesi, Kastamonu'nun en yüksek noktalarından biridir ve yaklaşık 1400 metrelik yüksekliğiyle bölgenin en güzel manzaralarına ev sahipliği yapar. Bu tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleriyle doludur ve özellikle ilkbahar aylarında ziyaretçilerini güzelliği ile büyüler. 1400 metrelik bu yükseklik, yaklaşık 400 futbol sahası büyüklüğünde bir alanı kapsar ve bu nedenle ziyaretçilere geniş bir görüş açısı sunar.
+Karamanldağı Tepesi, Kastamonu'nun en yüksek noktalarından biridir ve yaklaşık 1400 metrelik yüksekliğiyle bölgenin en güzel manzaralarına ev sahipliği yapar. Bu tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleriyle doludur ve özellikle ilkbahar aylarında ziyaretçilerini güzelliği ile büyüler.
 
 ## Tarihçe
 

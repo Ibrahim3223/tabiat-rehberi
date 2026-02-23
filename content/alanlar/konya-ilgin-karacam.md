@@ -22,7 +22,7 @@ wikidata_id: "Q108228105"
 
 # Konya-Ilgin-Karacam
 
-Konya-Ilgin-Karacam Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik. 140 hektarlık geniş bir alan sunan bu park, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğayı keşfetmek için geniş bir olanak sunuyor. Parkın konumu, Konya'nın Ilgin ilçesinde yer alıyor. Bu konum, ziyaretçilere doğal güzellikleri keşfetmek için ideal bir başlangıç noktası sunuyor.
+Konya-Ilgin-Karacam Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik. Bu geniş alan, ziyaretçilere doğayı keşfetmek için geniş bir olanak sunuyor. Parkın konumu, Konya'nın Ilgin ilçesinde yer alıyor. Bu konum, ziyaretçilere doğal güzellikleri keşfetmek için ideal bir başlangıç noktası sunuyor.
 
 ## Tarihçe
 

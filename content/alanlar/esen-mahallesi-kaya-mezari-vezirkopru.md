@@ -1,7 +1,7 @@
 ---
 title: "Esen Mahallesi Kaya Mezarı, Vezirköprü"
 date: "2026-01-10T03:42:38.179Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728201"
 
 # Esen Mahallesi Kaya Mezarı, Vezirköprü
 
-Esen Mahallesi Kaya Mezarı, Vezirköprü ilçesine bağlı Esen Mahallesi'nde yer alan tarihi bir kaya mezarıdır. Bu mezar, Karadeniz Bölgesi'nin Samsun ilinin zengin tarihi ve kültürel mirasını yansıtan önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Esen Mahallesi Kaya Mezarı, doğa severlerin ve tarih meraklılarının ilgisini çekmektedir. Bu mezar, Vezirköprü'nün tarihi ve doğal güzelliğini bir arada sunan özel bir yerdir.
+Esen Mahallesi Kaya Mezarı, Vezirköprü ilçesine bağlı Esen Mahallesi'nde yer alan tarihi bir kaya mezarıdır. Bu mezar, Karadeniz Bölgesi'nin Samsun ilinin zengin tarihi ve kültürel mirasını yansıtan önemli bir noktadır. Esen Mahallesi Kaya Mezarı, doğa severlerin ve tarih meraklılarının ilgisini çekmektedir. Bu mezar, Vezirköprü'nün tarihi ve doğal güzelliğini bir arada sunan özel bir yerdir.
 
 ## Tarihçe
 

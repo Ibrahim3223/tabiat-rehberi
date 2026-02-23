@@ -48,12 +48,12 @@ Ortafener Adası'nın çevresel ilişkileri, komşu alanlar ve su kaynakları il
 
 ## Flora ve Fauna
 
-Ortafener Adası, Çanakkale'nin güzide bir köşesinde yer alan bir ada. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlk baharda, ada çiçek açan çalı ve ağaçlar ile süslenir. Kıyı şeridinde, tuzlu suya dayanıklı bitkiler hakimdir. 
-Sonbaharda, ada göçmen kuşların önemli bir durağı haline gelir. Deniz kuşları, ada kıyılarında yuvalarını kurar. 
-Ada ekosisteminde, izole popülasyonlar ve deniz kuşları önemli bir rol oynar. 
-Ortafener Adası, geçiş ikliminin karakteristik özelliklerini taşır. Karma ormanlar ve göçmen kuş rotası, bu bölgenin ekolojisini şekillendirir. 
-Ada, yaban hayatının çeşitliliği ile dikkat çeker. Memeliler, kuşlar ve sürüngenler, bu ekosistemin önemli bileşenleridir. 
+Ortafener Adası, Çanakkale'nin güzide bir köşesinde yer alan bir ada. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlk baharda, ada çiçek açan çalı ve ağaçlar ile süslenir. Kıyı şeridinde, tuzlu suya dayanıklı bitkiler hakimdir.
+Sonbaharda, ada göçmen kuşların önemli bir durağı haline gelir. Deniz kuşları, ada kıyılarında yuvalarını kurar.
+Ada ekosisteminde, izole popülasyonlar ve deniz kuşları önemli bir rol oynar.
+Ortafener Adası, geçiş ikliminin karakteristik özelliklerini taşır. Karma ormanlar ve göçmen kuş rotası, bu bölgenin ekolojisini şekillendirir.
+Ada, yaban hayatının çeşitliliği ile dikkat çeker. Memeliler, kuşlar ve sürüngenler, bu ekosistemin önemli bileşenleridir.
 Ekolojik değeri yüksek olan bu ada, koruma altına alınmıştır. Bu sayede, ada ekosisteminin bütünlüğü korunmuştur.
 
 ## Ziyaret Bilgileri
@@ -67,4 +67,4 @@ Ortafener Adası, Çanakkale'nin gizli bir cenneti. Sabah erken gitmenizi öneri
 - Çanakkale ilinin toplam yüzölçümünün çok küçük bir bölümünü oluşturur.
 - Ortafener Adası, Çanakkale ilinin diğer adalarıyla birlikte önemli bir doğa koruma alanını oluşturur.
 - Ada, özellikle deniz kuşlarının yaşam alanlarından biridir.
-- Ortafener Adası, históriki ve doğal güzellikleri açısından önemli bir turizm potansiyeline sahiptir.
+- Ortafener Adası, tarihi ve doğal güzellikleri açısından önemli bir turizm potansiyeline sahiptir.

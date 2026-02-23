@@ -52,9 +52,9 @@ Tecer Dağı, çevresindeki diğer dağlar ve ovalar ile birlikte bir ekosistem 
 
 Tecer Dağı, Sivas'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı bitki türleri ve hayvanlar yaşamaktadır. İlkbaharda, dağ yamaçlarında renkli çiçekler açar, sonbaharda ise göçmen kuşlar dağları geçer.
 
-Bitki örtüsü olarak step ve bozkır türleri hakimdir. Mevsimsel değişimlere adapte olan bu bitkiler, kuraklığa dayanıklıdır. Dağın yüksek kesimlerinde alpin flora bulunur. 
+Bitki örtüsü olarak step ve bozkır türleri hakimdir. Mevsimsel değişimlere adapte olan bu bitkiler, kuraklığa dayanıklıdır. Dağın yüksek kesimlerinde alpin flora bulunur.
 
-Yaban hayatı da çeşitlilik gösterir. Memeliler, kuşlar ve sürüngenler dağda yaşar. Bu canlılar, dağın ekosistemine bağlıdır ve birbirleriyle ekolojik ilişkiler içinde yaşar. 
+Yaban hayatı da çeşitlilik gösterir. Memeliler, kuşlar ve sürüngenler dağda yaşar. Bu canlılar, dağın ekosistemine bağlıdır ve birbirleriyle ekolojik ilişkiler içinde yaşar.
 
 Tecer Dağı, bölgenin ekolojik dengesi için önemlidir. Bu nedenle, koruma altına alınmasıdir.
 

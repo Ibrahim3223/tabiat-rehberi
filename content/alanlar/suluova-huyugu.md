@@ -28,7 +28,7 @@ wikidata_id: "Q32138721"
 
 # Suluova Hüyüğü
 
-Suluova Hüyüğü, Amasya'nın zengin tarihi ve kültürel mirasının önemli bir parçası olarak karşımıza çıkıyor. Bu tarihi höyük, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Suluova Hüyüğü, Karadeniz Bölgesi'nin coğrafi ve kültürel çeşitliliğini yansıtan önemli bir destinasyon olarak ziyaretçilerini bekliyor. Höyüğün etrafındaki doğal güzellikler ve tarihi kalıntılar, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Suluova Hüyüğü, Amasya'nın zengin tarihi ve kültürel mirasının önemli bir parçası olarak karşımıza çıkıyor. Suluova Hüyüğü, Karadeniz Bölgesi'nin coğrafi ve kültürel çeşitliliğini yansıtan önemli bir destinasyon olarak ziyaretçilerini bekliyor. Höyüğün etrafındaki doğal güzellikler ve tarihi kalıntılar, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Sultan Memduh Türbesi"
 date: "2026-01-10T07:17:56.631Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Siirt"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390939"
 
 # Sultan Memduh Türbesi
 
-Sultan Memduh Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt iline bağlı Tillo ilçesinde yer alan bir tarihi mekan. Bu mekan, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Sultan Memduh Türbesi, tarihi ve kültürel zenginlikleri ile dikkat çekiyor. Mechanın etrafı, çeşitli bitki türleri ile çevrili ve zengin fauna yapısı ile dikkat çekiyor. Mechanın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.
+Sultan Memduh Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt iline bağlı Tillo ilçesinde yer alan bir tarihi mekan. Sultan Memduh Türbesi, tarihi ve kültürel zenginlikleri ile dikkat çekiyor. Mechanın etrafı, çeşitli bitki türleri ile çevrili ve zengin fauna yapısı ile dikkat çekiyor. Mechanın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sultan Memduh Türbesi, tarihi geçmişi ile dikkat çekiyor. Mechanın tarihi, 
 
 ## Coğrafya
 
-Sultan Memduh Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt iline bağlı Tillo ilçesinde yer alıyor. Bu mekan, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Mechanın etrafı, çeşitli bitki türleri ile çevrili ve zengin fauna yapısı ile dikkat çekiyor. Mechanın coğrafi konumu, ziyaretçilerin ilgisini çekiyor. Sultan Memduh Türbesi, coğrafi olarak zengin bir bölgeye sahip ve birçok doğal güzelliğe ev sahipliği yapıyor. Mechanın iklimi, ziyaretçilerin mekanın güzelliğini tam olarak deneyimlemesine olanak sağlıyor.
+Sultan Memduh Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt iline bağlı Tillo ilçesinde yer alıyor. Mechanın etrafı, çeşitli bitki türleri ile çevrili ve zengin fauna yapısı ile dikkat çekiyor. Mechanın coğrafi konumu, ziyaretçilerin ilgisini çekiyor. Sultan Memduh Türbesi, coğrafi olarak zengin bir bölgeye sahip ve birçok doğal güzelliğe ev sahipliği yapıyor. Mechanın iklimi, ziyaretçilerin mekanın güzelliğini tam olarak deneyimlemesine olanak sağlıyor.
 
 ## Flora ve Fauna
 

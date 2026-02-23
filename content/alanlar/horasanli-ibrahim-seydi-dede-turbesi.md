@@ -1,7 +1,7 @@
 ---
 title: "Horasanlı İbrahim Seydi Dede Türbesi"
 date: "2026-01-10T07:53:42.371Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391342"
 
 # Horasanlı İbrahim Seydi Dede Türbesi
 
-Horasanlı İbrahim Seydi Dede Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir dini ziyaret ve tarihi mekan olarak dikkat çekiyor. Bu önemli türbe, aynı zamanda doğal güzelliği ile de ziyaretçilerini etkiliyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan olup, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilere hem dinlenme hem de doğayla iç içe olma fırsatı sunuyor. Horasanlı İbrahim Seydi Dede Türbesi, hem dini ziyaret için hem de doğal güzelliği nedeniyle ziyaret ediliyor.
+Horasanlı İbrahim Seydi Dede Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir dini ziyaret ve tarihi mekan olarak dikkat çekiyor. Bu önemli türbe, aynı zamanda doğal güzelliği ile de ziyaretçilerini etkiliyor. Bu geniş yeşil alan, ziyaretçilere hem dinlenme hem de doğayla iç içe olma fırsatı sunuyor. Horasanlı İbrahim Seydi Dede Türbesi, hem dini ziyaret için hem de doğal güzelliği nedeniyle ziyaret ediliyor.
 
 ## Tarihçe
 

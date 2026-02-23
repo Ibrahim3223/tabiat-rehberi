@@ -28,7 +28,7 @@ wikidata_id: "Q31563644"
 
 # Kocaorman Tepesi
 
-Kocaorman Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bolu ilinin sınırları içerisinde yer alan bu tepe, 140 hektarlık bir alanı kapsıyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin flora ile fauna çeşitliliği sunuyor. Kocaorman Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise Karadeniz Bölgesi'nin eşsiz manzaraları izlenebiliyor. Kocaorman Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
+Kocaorman Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bolu ilinin sınırları içerisinde yer alan bu tepe, 140 hektarlık bir alanı kapsıyor. Kocaorman Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise Karadeniz Bölgesi'nin eşsiz manzaraları izlenebiliyor. Kocaorman Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kocaorman Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkla
 
 ## Coğrafya
 
-Kocaorman Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise Karadeniz Bölgesi'nin eşsiz manzaraları izlenebiliyor. Kocaorman Tepesi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin coğrafi yapısı, ziyaretçilerine zengin bir doğa deneyimi sunuyor. Kocaorman Tepesi'nin iklimi, Karadeniz Bölgesi'nin karakteristik iklimini yansıtıyor. Tepenin eteklerinde bulunan akarsular, bu bölgenin su kaynaklarını zenginleştiren önemli bir unsur olarak kabul ediliyor. Kocaorman Tepesi, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon olarak kabul ediliyor.
+Kocaorman Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise Karadeniz Bölgesi'nin eşsiz manzaraları izlenebiliyor. Tepenin coğrafi yapısı, ziyaretçilerine zengin bir doğa deneyimi sunuyor. Kocaorman Tepesi'nin iklimi, Karadeniz Bölgesi'nin karakteristik iklimini yansıtıyor. Tepenin eteklerinde bulunan akarsular, bu bölgenin su kaynaklarını zenginleştiren önemli bir unsur olarak kabul ediliyor. Kocaorman Tepesi, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

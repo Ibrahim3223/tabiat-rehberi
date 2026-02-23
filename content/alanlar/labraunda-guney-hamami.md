@@ -1,7 +1,7 @@
 ---
 title: "Labraunda Güney Hamamı"
 date: "2026-01-09T23:07:32.389Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738857"
 
 # Labraunda Güney Hamamı
 
-Ege Bölgesi'nin en güzel plajlarından biri olan Labraunda Güney Hamamı, Milas'ta yer alıyor. Bu plaj, denize sıfır konumuyla dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Labraunda Güney Hamamı, hem yerel halk hem de turistler tarafından tercih edilen bir destinasyon. Plajın etrafında çeşitli restoranlar ve kafeler bulunmakta. Labraunda Güney Hamamı, Ege Bölgesi'nin güzelliğini gözler önüne seriyor.
+Ege Bölgesi'nin en güzel plajlarından biri olan Labraunda Güney Hamamı, Milas'ta yer alıyor. Bu plaj, denize sıfır konumuyla dikkat çekiyor. Labraunda Güney Hamamı, hem yerel halk hem de turistler tarafından tercih edilen bir destinasyon. Plajın etrafında çeşitli restoranlar ve kafeler bulunmakta. Labraunda Güney Hamamı, Ege Bölgesi'nin güzelliğini gözler önüne seriyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Labraunda Güney Hamamı'nın tarihi geçmişi, Milas'ın tarihine bağlı. Mila
 
 ## Coğrafya
 
-Labraunda Güney Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Plaj, Milas'ta yer alıyor ve denize sıfır konumuyla dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Plajın etrafında, çeşitli restoranlar ve kafeler bulunmakta. Labraunda Güney Hamamı, Ege Bölgesi'nin güzelliğini gözler önüne seriyor. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimi olarak biliniyor. Yaz aylarında sıcak ve güneşli, kış aylarında ise serin ve yağışlı bir iklim hüküm sürüyor. Labraunda Güney Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak görülüyor.
+Labraunda Güney Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Plaj, Milas'ta yer alıyor ve denize sıfır konumuyla dikkat çekiyor. Plajın etrafında, çeşitli restoranlar ve kafeler bulunmakta. Labraunda Güney Hamamı, Ege Bölgesi'nin güzelliğini gözler önüne seriyor. Plajın iklimi, Ege Bölgesi'nin karakteristik iklimi olarak biliniyor. Yaz aylarında sıcak ve güneşli, kış aylarında ise serin ve yağışlı bir iklim hüküm sürüyor. Labraunda Güney Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak görülüyor.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Labraunda Güney Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak g
 
 - Labraunda Güney Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak biliniyor.
 - Plaj, Milas'ta yer alıyor ve denize sıfır konumuyla dikkat çekiyor.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Plajın etrafında, çeşitli restoranlar ve kafeler bulunmakta.
 - Labraunda Güney Hamamı, Ege Bölgesi'nin en önemli turizm merkezlerinden biri olarak görülüyor.

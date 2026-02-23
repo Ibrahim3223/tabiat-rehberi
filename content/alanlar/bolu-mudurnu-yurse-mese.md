@@ -22,7 +22,7 @@ wikidata_id: "Q108227759"
 
 # Bolu-Mudurnu-Yurse Mese
 
-Bolu-Mudurnu-Yurse Mese milli parkı, Karadeniz Bölgesi'nin en önemli doğal ve tarihi alanlarından biri. Yaklaşık 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik bölgelerinden biri. Milli park, zengin flora ve faunası ile dikkat çekiyor ve birçok farklı türün yaşam alanı olarak hizmet veriyor. Ayrıca, tarihi geçmişiyle de önemli bir turizm merkezi olarak kabul ediliyor.
+Bolu-Mudurnu-Yurse Mese milli parkı, Karadeniz Bölgesi'nin en önemli doğal ve tarihi alanlarından biri. Milli park, zengin flora ve faunası ile dikkat çekiyor ve birçok farklı türün yaşam alanı olarak hizmet veriyor. Ayrıca, tarihi geçmişiyle de önemli bir turizm merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Mudurnu-Yurse Mese milli parkının tarihi geçmişi, yüzyıllar öncesine
 
 ## Coğrafya
 
-Bolu-Mudurnu-Yurse Mese milli parkı, Karadeniz Bölgesi'nin kuzeyinde yer alıyor ve bölgenin en önemli coğrafi özelliklerinden biri olarak kabul ediliyor. Milli park, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bölge, zengin flora ve faunası ile dikkat çekiyor ve birçok farklı türün yaşam alanı olarak hizmet veriyor. Ayrıca, bölgenin coğrafi yapısı, ziyaretçilere birçok farklı aktivite imkanı sunuyor. Milli park, dağlık bir bölgede yer alıyor ve bu nedenle, ziyaretçiler, trekking, kamp ve diğer outdoor aktivitelerini yapabiliyor.
+Bolu-Mudurnu-Yurse Mese milli parkı, Karadeniz Bölgesi'nin kuzeyinde yer alıyor ve bölgenin en önemli coğrafi özelliklerinden biri olarak kabul ediliyor. Bölge, zengin flora ve faunası ile dikkat çekiyor ve birçok farklı türün yaşam alanı olarak hizmet veriyor. Ayrıca, bölgenin coğrafi yapısı, ziyaretçilere birçok farklı aktivite imkanı sunuyor. Milli park, dağlık bir bölgede yer alıyor ve bu nedenle, ziyaretçiler, trekking, kamp ve diğer outdoor aktivitelerini yapabiliyor.
 
 ## Flora ve Fauna
 

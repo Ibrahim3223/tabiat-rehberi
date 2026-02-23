@@ -28,7 +28,7 @@ wikidata_id: "Q35731189"
 
 # Böğürlü Tepesi
 
-Böğürlü Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Böğürlü Tepesi, bölgenin coğrafi yapısını ve iklimini anlamak için önemli bir nokta. Ayrıca, tepe etrafındaki köyler ve kasabalar, ziyaretçiler için zengin bir kültürel deneyim sunuyor. Tarihi ve doğal güzelliklerinin yanı sıra, Böğürlü Tepesi, bölgenin ekonomisine de katkıda bulunacak bir potansiyele sahip.
+Böğürlü Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu bölge, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Böğürlü Tepesi, bölgenin coğrafi yapısını ve iklimini anlamak için önemli bir nokta. Ayrıca, tepe etrafındaki köyler ve kasabalar, ziyaretçiler için zengin bir kültürel deneyim sunuyor. Tarihi ve doğal güzelliklerinin yanı sıra, Böğürlü Tepesi, bölgenin ekonomisine de katkıda bulunacak bir potansiyele sahip.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Böğürlü Tepesi'nin tarihi geçmişi, bölgenin antik dönemlerine kadar uzan
 
 ## Coğrafya
 
-Böğürlü Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Tepenin etrafındaki köyler ve kasabalar, ziyaretçiler için zengin bir kültürel deneyim sunuyor. Bölgenin coğrafi yapısı, dağlık ve engebeli bir araziye sahip. Böğürlü Tepesi, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre. Bu yükseklik, bölgenin iklimini ve coğrafi yapısını etkiliyor. Ayrıca, tepe, bölgenin flora ve faunasını anlamak için önemli bir nokta. Böğürlü Tepesi, doğal güzellikleri ve coğrafi yapısı ile, ziyaretçilerini bekliyor.
+Böğürlü Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Tepenin etrafındaki köyler ve kasabalar, ziyaretçiler için zengin bir kültürel deneyim sunuyor. Bölgenin coğrafi yapısı, dağlık ve engebeli bir araziye sahip. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre. Bu yükseklik, bölgenin iklimini ve coğrafi yapısını etkiliyor. Ayrıca, tepe, bölgenin flora ve faunasını anlamak için önemli bir nokta. Böğürlü Tepesi, doğal güzellikleri ve coğrafi yapısı ile, ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Böğürlü Tepesi'ni ziyaret etmek, hem doğal güzellikleri hem de tarihi geç
 
 ## İlginç Bilgiler
 
-- Böğürlü Tepesi, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre.
 - Böğürlü Tepesi, zengin bir flora ve fauna ile dikkat çekiyor.
 - Tepenin etrafındaki köyler ve kasabalar, ziyaretçiler için zengin bir kültürel deneyim sunuyor.

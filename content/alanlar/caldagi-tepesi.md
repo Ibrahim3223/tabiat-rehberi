@@ -28,7 +28,7 @@ wikidata_id: "Q34828039"
 
 # Çaldağı Tepesi
 
-Çaldağı Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kırşehir ilinin sınırları içinde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor ve doğayla iç içe olmak isteyenler için ideal bir nokta haline geliyor. Çaldağı Tepesi, aynı zamanda coğrafi konumu itibariyle, bölgenin önemli bir bölümünü panoramik olarak görebileceğiniz bir đim olarak dikkat çekiyor.
+Çaldağı Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kırşehir ilinin sınırları içinde yer alan bir doğa harikasıdır. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor ve doğayla iç içe olmak isteyenler için ideal bir nokta haline geliyor. Çaldağı Tepesi, aynı zamanda coğrafi konumu itibariyle, bölgenin önemli bir bölümünü panoramik olarak görebileceğiniz bir đim olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ wikidata_id: "Q34828039"
 
 ## İlginç Bilgiler
 
-- Çaldağı Tepesi, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
 - Tepenin eteklerinde ve çevresinde, tarihi kalıntılar ve yerleşim yerleri bulunur.
 - Çaldağı Tepesi, coğrafi konumu itibariyle, bölgenin önemli bir bölümünü panoramik olarak görebileceğiniz bir noktadır.
 - Tepenin yeşil alanları, çeşitli bitki türleriyle kaplıdır ve bu bitki örtüsü, mevsimsel değişimlerle birlikte farklı renkler ve kokularla ziyaretçileri karşılar.

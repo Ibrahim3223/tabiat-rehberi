@@ -28,7 +28,7 @@ wikidata_id: "Q31553538"
 
 # Nirıvari Tepesi
 
-Nirıvari Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak öne çıkıyor. Batman'da yer alan bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde yer alan köyler, misafirperver halkı ve geleneksel mimarisiyle bir wholeüslüman kültürünü yansıtıyor. Nirıvari Tepesi, hem doğa severlerin hem de kültürel zenginlik arayışında olanların buluşma noktası olarak hizmet ediyor.
+Nirıvari Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak öne çıkıyor. Tepenin eteklerinde yer alan köyler, misafirperver halkı ve geleneksel mimarisiyle bir wholeüslüman kültürünü yansıtıyor. Nirıvari Tepesi, hem doğa severlerin hem de kültürel zenginlik arayışında olanların buluşma noktası olarak hizmet ediyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Nirıvari Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik
 
 ## Flora ve Fauna
 
-Nirıvari Tepesi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Bölgede, çeşitli bitki türleri, ağaçlar ve çiçekler, mevsimsel değişimlerle birlikte farklı renkler ve kokular sunuyor. Fauna açısından da zengin olan Nirıvari Tepesi, farklı hayvan türlerine ev sahipliği yapıyor. Mevsimsel değişimler, bu canlıların yaşam döngüsünü etkiliyor ve bölgenin ekolojik dengesini koruyor. Nirıvari Tepesi, bu canlıların yaşam alanlarını koruma ve doğanın dengesini sağlamak için önemli bir role sahip. Doğal güzellikleri ve canlı çeşitliliğiyle Nirıvari Tepesi, doğa severlerin ilgisini çekiyor ve ziyaretçilerine unutulmaz anlar sunuyor.
+Nirıvari Tepesi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Bölgede, çeşitli bitki türleri, ağaçlar ve çiçekler, mevsimsel değişimlerle birlikte farklı renkler ve kokular sunuyor. Fauna açısından da zengin olan Nirıvari Tepesi, farklı hayvan türlerine ev sahipliği yapıyor. Mevsimsel değişimler, bu canlıların yaşam döngüsünü etkiliyor ve bölgenin ekolojik dengesini koruyor. Nirıvari Tepesi, bu canlıların yaşam alanlarını koruma ve doğanın dengesini sağlamak için önemli bir role sahip.
 
 ## Ziyaret Bilgileri
 

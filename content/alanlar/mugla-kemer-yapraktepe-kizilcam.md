@@ -22,7 +22,7 @@ wikidata_id: "Q108227667"
 
 # Mugla-Kemer-Yapraktepe Kızılçam
 
-Mugla-Kemer-Yapraktepe Kızılçam milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzellikleri, zengin florası ve faunasıyla dikkat çekiyor. Milli park, İç Anadolu Bölgesi'nde yer alıyor ve ziyaretçilerine doğayla iç içe bir deneyim sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla baş başa bırakıyor.
+Mugla-Kemer-Yapraktepe Kızılçam milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Milli park, İç Anadolu Bölgesi'nde yer alıyor ve ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

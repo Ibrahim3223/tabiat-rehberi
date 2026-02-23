@@ -23,7 +23,7 @@ wikidata_id: "Q108228665"
 
 # TOKAT
 
-Tokat, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte büyüleyici bir manzaraya sahiptir. Tokat'ın coğrafi konumu, ziyaretçilere hem doğanın güzelliklerini hem de tarihi yapılarını keşfetme fırsatı sunar. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tokat, ziyaretçilerini doğanın ve tarihin kucakladığı bir bölge olarak karşılıyor.
+Tokat, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir milli parktır. Tokat'ın coğrafi konumu, ziyaretçilere hem doğanın güzelliklerini hem de tarihi yapılarını keşfetme fırsatı sunar. Tokat, ziyaretçilerini doğanın ve tarihin kucakladığı bir bölge olarak karşılıyor.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Tokat milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan 
 
 ## Flora ve Fauna
 
-Tokat milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Parkın flora ve faunası, mevsimsel değişimlere göre farklılık gösterir. Tokat'ın flora ve faunası, bölgenin ekolojik dengesini korumak açısından önemlidir. Parkın çevresinde, çeşitli hayvan türleri ve bitki türleri bulunur. Tokat'ın flora ve faunası, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar. Parkın fauna ve florası, bölgenin doğal değerlerini korumak açısından önemlidir ve ziyaretçilere doğanın güzelliklerini sunar.
+ Parkın flora ve faunası, mevsimsel değişimlere göre farklılık gösterir. Parkın çevresinde, çeşitli hayvan türleri ve bitki türleri bulunur. Tokat'ın flora ve faunası, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar. Parkın fauna ve florası, bölgenin doğal değerlerini korumak açısından önemlidir ve ziyaretçilere doğanın güzelliklerini sunar.
 
 ## Ziyaret Bilgileri
 

@@ -51,7 +51,7 @@ Pınar Dağı'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile i
 
 Pınar Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapar. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bitki örtüsü, ilkbaharda renkli çiçeklerle donanır. Kuraklığa dayanıklı türler, bu bölgenin karakteristiğidir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Göç mevsimlerinde, çeşitli kuş türleri bu dağları ziyaret eder. Dağların yüksek kesimlerinde, alpin flora ve fauna, benzersiz bir yaşam alanı sunar. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Göç mevsimlerinde, çeşitli kuş türleri bu dağları ziyaret eder. Dağların yüksek kesimlerinde, alpin flora ve fauna, benzersiz bir yaşam alanı sunar.
 
 Pınar Dağı, ekolojik değerini koruma altına almak için önemli bir bölgedir. Bu dağ ekosisteminin korunması, sadece yerel canlıları değil, aynı zamanda bölge ekosistemini de korumayı sağlar.
 

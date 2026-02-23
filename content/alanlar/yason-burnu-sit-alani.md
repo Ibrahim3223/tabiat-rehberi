@@ -22,7 +22,7 @@ wikidata_id: "Q108226180"
 
 # Yason Burnu Sit Alanı
 
-Yason Burnu Sit Alanı, İç Anadolu Bölgesi'nin natuur güzelliklerini keşfedeceğiniz bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojisini korumak amacıyla kurulmuştur. Bu sit alanı, ziyaretçilere doğanın güzelliğini ve bölgenin yaban hayatını keşfetme fırsatı sunar. Yürüyüş parkurları, göller ve ormanlık alanlar ile ziyaretçilere doğa ile iç içe bir deneyim sunar.
+Yason Burnu Sit Alanı, İç Anadolu Bölgesi'nin natuur güzelliklerini keşfedeceğiniz bir destinasyon. Bu sit alanı, ziyaretçilere doğanın güzelliğini ve bölgenin yaban hayatını keşfetme fırsatı sunar. Yürüyüş parkurları, göller ve ormanlık alanlar ile ziyaretçilere doğa ile iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Yason Burnu Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin doğ
 
 ## Coğrafya
 
-Yason Burnu Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu sit alanı, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölgenin coğrafi yapısı, yürüyüş parkurları, göller ve ormanlık alanları ile ziyaretçilere doğa ile iç içe bir deneyim sunar. İklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini keşfetme fırsatı sunar ve doğa ile iç içe bir deneyim sağlar.
+Yason Burnu Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bölgenin coğrafi yapısı, yürüyüş parkurları, göller ve ormanlık alanları ile ziyaretçilere doğa ile iç içe bir deneyim sunar. İklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini keşfetme fırsatı sunar ve doğa ile iç içe bir deneyim sağlar.
 
 ## Flora ve Fauna
 

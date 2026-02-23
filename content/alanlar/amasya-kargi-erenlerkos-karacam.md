@@ -22,7 +22,7 @@ wikidata_id: "Q108227472"
 
 # Amasya-Kargi-Erenlerkos Karacam
 
-Amasya ilinde bulunan Amasya-Kargi-Erenlerkos Karacam milli parkı, yaklaşık 140 hektarlık bir yeşil alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Milli park, ziyaretçilerine doğayla iç içe bir ortam sunar. Yeşilin her tonunu görebileceğiniz bu park, aynı zamanda çeşitli bitki türleriyle zengin bir floraya sahiptir. Ziyaretçilerin doğayı keşfetmeleri ve bu muhteşem manzaraları görerek dinlenmeleri için ideal bir yerdir.
+Amasya ilinde bulunan Amasya-Kargi-Erenlerkos Karacam milli parkı, yaklaşık 140 hektarlık bir yeşil alanı kapsar. Milli park, ziyaretçilerine doğayla iç içe bir ortam sunar. Yeşilin her tonunu görebileceğiniz bu park, aynı zamanda çeşitli bitki türleriyle zengin bir floraya sahiptir. Ziyaretçilerin doğayı keşfetmeleri ve bu muhteşem manzaraları görerek dinlenmeleri için ideal bir yerdir.
 
 ## Tarihçe
 

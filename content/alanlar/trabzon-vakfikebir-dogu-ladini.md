@@ -22,7 +22,7 @@ wikidata_id: "Q108228065"
 
 # Trabzon Vakfikebir-Dogu Ladini
 
-Trabzon'un Vakfikebir ilçesinde yer alan Trabzon Vakfikebir-Dogu Ladini milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu milli park, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunuyor. Doğa severler için ideal bir destinasyon olan bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin bir ortam sunuyor.
+ Bu milli park, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunuyor. Doğa severler için ideal bir destinasyon olan bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Trabzon Vakfikebir-Dogu Ladini milli parkını ziyaret etmek, doğa severler iç
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli parkın flora ve fauna yapısı, coğrafi konumu ve iklimi nedeniyle şekillenmiştir.
 - Milli parkın ziyaretçileri, doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunuyor.
 - Milli parkın giriş ücreti, ziyaretçilere uygun fiyatlar sunuyor.

@@ -22,7 +22,7 @@ wikidata_id: "Q108227284"
 
 # Antalya-Akseki Toros Goknari
 
-Antalya-Akseki Toros Goknari, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanı ile ziyaretçilerini doğal güzellikleri ile baş başa bırakıyor. Bu milli park, Akdeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. Toros Dağları'nın eteklerinde yer alan bu bölge, zengin flora ve faunası ile dikkat çekiyor. Ziyaretçiler, bu alanda çeşitli bitki türleri ve hayvanlarıleme fırsatı buluyor.
+ Bu milli park, Akdeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. Toros Dağları'nın eteklerinde yer alan bu bölge, zengin flora ve faunası ile dikkat çekiyor. Ziyaretçiler, bu alanda çeşitli bitki türleri ve hayvanlarıleme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Antalya-Akseki Toros Goknari, coğrafi açıdan oldukça zengin bir bölgedir. T
 
 ## Flora ve Fauna
 
-Antalya-Akseki Toros Goknari, flora ve fauna açısından oldukça zengin bir bölgedir. Bu milli park, çeşitli bitki türleri ve hayvanları barındırıyor. Ziyaretçiler, bu alanda çam, sedir, ve diğer ağaç türleri ile karşılaşabilir. Ayrıca, bu bölgede, yaban keçisi, tavşan, ve diğer hayvan türleri yaşuyor. Mevsimsel değişimler, bu bölgenin doğal güzelliklerini farklı şekillerde ortaya koyuyor. İlkbahar aylarında, bölge, rengarenk çiçeklerle dolu bir manzara sunarken, kış aylarında karla kaplı bir görünüm sergiliyor.
+ Bu milli park, çeşitli bitki türleri ve hayvanları barındırıyor. Ziyaretçiler, bu alanda çam, sedir, ve diğer ağaç türleri ile karşılaşabilir. Ayrıca, bu bölgede, yaban keçisi, tavşan, ve diğer hayvan türleri yaşuyor. Mevsimsel değişimler, bu bölgenin doğal güzelliklerini farklı şekillerde ortaya koyuyor. İlkbahar aylarında, bölge, rengarenk çiçeklerle dolu bir manzara sunarken, kış aylarında karla kaplı bir görünüm sergiliyor.
 
 ## Ziyaret Bilgileri
 
@@ -42,7 +42,6 @@ Antalya-Akseki Toros Goknari'ni ziyaret etmek, doğa severler için unutulmaz bi
 
 ## İlginç Bilgiler
 
-- Antalya-Akseki Toros Goknari, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu milli park, Toros Dağları'nın eteklerinde yer alıyor.
 - Ziyaretçiler, bu alanda çeşitli bitki türleri ve hayvanları gözlemleyebilir.
 - Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır.

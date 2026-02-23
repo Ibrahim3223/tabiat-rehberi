@@ -29,7 +29,7 @@ wikidata_id: "Q134728361"
 
 # Bin Tepeler Tümülüsü 5
 
-Bin Tepeler Tümülüsü 5, Manisa'nın Salihli ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olan bir tümülüs. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Bu tümülüs, bölgenin zengin tarihi geçmişini yansıtan önemli bir kültürel miras. Ziyaretçiler, bu özel yerde hem doğayı keşfedebilir hem de tarihin depthsini hissedebilir.
+Bin Tepeler Tümülüsü 5, Manisa'nın Salihli ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olan bir tümülüs. Bu tümülüs, bölgenin zengin tarihi geçmişini yansıtan önemli bir kültürel miras. Ziyaretçiler, bu özel yerde hem doğayı keşfedebilir hem de tarihin depthsini hissedebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 5'in  geçmişi oldukça zengin. Bu tümülüs, yüzyı
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 5, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin güzel coğrafyasında yer alıyor. Bu tümülüs, 140 hektarlık geniş bir yeşil alanda kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, tümülüsün etrafındaki doğal güzellikleri keşfedebilir ve bölgenin iklimini deneyimleyebilir. Ege Bölgesi'nin karakteristik özellikleri, bu tümülüsün coğrafyasını şekillendirmiş ve ziyaretçilere benzersiz bir deneyim sunuyor. Bin Tepeler Tümülüsü 5'in coğrafyası, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir bölgede yer alıyor.
+Bin Tepeler Tümülüsü 5, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin güzel coğrafyasında yer alıyor. Bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, tümülüsün etrafındaki doğal güzellikleri keşfedebilir ve bölgenin iklimini deneyimleyebilir. Ege Bölgesi'nin karakteristik özellikleri, bu tümülüsün coğrafyasını şekillendirmiş ve ziyaretçilere benzersiz bir deneyim sunuyor. Bin Tepeler Tümülüsü 5'in coğrafyası, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir bölgede yer alıyor.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ wikidata_id: "Q123014456"
 
 # Fairy chimneys in Cappadoce
 
-Kapadokya'nın merkezi bir bölgesinde bulunan Peri Bacaları, yaklaşık 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu benzersiz doğal oluşum, yüzyıllar boyunca rüzgar ve su erozyonunun etkisiyle şekillenmiş ve ortaya gerçek bir doğa harikası çıkarmıştır. Peri Bacaları, aynı zamanda insan yerleşimine de ev sahipliği yapmış ve tarih boyunca çeşitli medeniyetlerin izlerini taşımıştır. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak dikkat çekmektedir.
+ Bu benzersiz doğal oluşum, yüzyıllar boyunca rüzgar ve su erozyonunun etkisiyle şekillenmiş ve ortaya gerçek bir doğa harikası çıkarmıştır. Peri Bacaları, aynı zamanda insan yerleşimine de ev sahipliği yapmış ve tarih boyunca çeşitli medeniyetlerin izlerini taşımıştır. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 

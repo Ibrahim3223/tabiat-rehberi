@@ -29,7 +29,7 @@ wikidata_id: "Q546010"
 
 # Ani
 
-Ani, Kars ilinin merkezine uzun bir mesafe uzaklıkta, Doğu Anadolu Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin-depth bir yolculuğa çıkarıyor. Ani, tarihi geçmişi ve doğal güzelliği ile her yıl binlerce turisti ağırlayan bir destinasyon.
+Ani, Kars ilinin merkezine uzun bir mesafe uzaklıkta, Doğu Anadolu Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biri olarak karşımıza çıkıyor. Ani, tarihi geçmişi ve doğal güzelliği ile her yıl binlerce turisti ağırlayan bir destinasyon.
 
 ## Tarihçe
 

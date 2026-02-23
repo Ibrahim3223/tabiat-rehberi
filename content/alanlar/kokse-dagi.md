@@ -32,7 +32,7 @@ Türkiye'nin farklı köşelerinde bulunan birçok dağdan biri olan Kokse Dağ�
 
 ## Tarihçe
 
-Kokse Dağı, tarihin sâu sayfalarında gizli bir hazine gibi duruyor. Bu bölgenin tarihi, Anadolu'nun kadim uygarlıklarıyla iç içe geçmiştir. Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüş ve her biri bölgenin kültürel dokusuna katkıda bulunmuştur.
+Kokse Dağı, tarihin derin sayfalarında gizli bir hazine gibi duruyor. Bu bölgenin tarihi, Anadolu'nun kadim uygarlıklarıyla iç içe geçmiştir. Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüş ve her biri bölgenin kültürel dokusuna katkıda bulunmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla, Kokse Dağı gibi alanlar, tarihin akışında önemli bir role sahip olmuşlardır. Bu tür doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasını oluşturur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendiren faktörler olmuştur.
 

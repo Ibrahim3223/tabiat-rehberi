@@ -22,7 +22,7 @@ wikidata_id: "Q108226107"
 
 # Çınarlık Sit Alanı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Çınarlık Sit Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için bekliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini gözler önüne seriyor. Çınarlık Sit Alanı, sadece doğal güzelliği ile değil, aynı zamanda ziyaretçilerine sunduğu huzurlu atmosferiyle de dikkat çekiyor. Doğa severlerin ve huzuru arayanların vazgeçilmezi olan bu sit alanı, her mevsim farklı bir güzelliğe bürünerek ziyaretçilerine benzersiz deneyimler sunuyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan Çınarlık Sit Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için bekliyor. Çınarlık Sit Alanı, sadece doğal güzelliği ile değil, aynı zamanda ziyaretçilerine sunduğu huzurlu atmosferiyle de dikkat çekiyor. Doğa severlerin ve huzuru arayanların vazgeçilmezi olan bu sit alanı, her mevsim farklı bir güzelliğe bürünerek ziyaretçilerine benzersiz deneyimler sunuyor.
 
 ## Tarihçe
 

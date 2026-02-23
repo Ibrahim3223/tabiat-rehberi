@@ -28,7 +28,7 @@ wikidata_id: "Q31555598"
 
 # Necer Tepesi
 
-Necer Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olarak Batman şehir sınırları içerisinde yer alıyor. Bu bölge, hem coğrafi özellikleri hem de tarihçesi ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Necer Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası olarak görülüyor. Burada, doğa ile iç içe olma ve bölgeye özel flora ile fauna örneklerinileme mümkün.
+Necer Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olarak Batman şehir sınırları içerisinde yer alıyor. Bu bölge, hem coğrafi özellikleri hem de tarihçesi ile dikkat çekiyor. Necer Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası olarak görülüyor. Burada, doğa ile iç içe olma ve bölgeye özel flora ile fauna örneklerinileme mümkün.
 
 ## Tarihçe
 

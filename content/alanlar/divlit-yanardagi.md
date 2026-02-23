@@ -33,7 +33,7 @@ Manisa'nın Kula ilçesinde yer alan Divlit Yanardağı, Türkiye'nin volkanik c
 
 ## Tarihçe
 
-Manisa bölgesinin zengin tarihi, Divlit Yanardağı'nın eteklerine kadar uzanır. Bu bölge, Lidya, Roma ve Osmanlı gibi uygarlıkların izlerini taşır. Tarihin sâu izleri, bölgenin kültürel ve doğal mirasını şekillendirmiştir. 
+Manisa bölgesinin zengin tarihi, Divlit Yanardağı'nın eteklerine kadar uzanır. Bu bölge, Lidya, Roma ve Osmanlı gibi uygarlıkların izlerini taşır. Tarihin derin izleri, bölgenin kültürel ve doğal mirasını şekillendirmiştir.
 
 Divlit Yanardağı gibi doğal alanlar, Türkiye'nin coğrafi çeşitliliğini ve zenginliğini gösterir. Bu tür alanlar, insan yerleşimlerinin ve ekonomik faaliyetlerin şekillenmesinde önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bölgenin ekonomisini ve kültürel yaşamını etkileyen temel unsurlardır.
 

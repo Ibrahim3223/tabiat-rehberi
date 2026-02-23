@@ -33,7 +33,7 @@ Mersin'in büyüleyici sahillerinde, Akdeniz'in sakin suları arasında yer alan
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu topraklar, Hititlerden Roma İmparatorluğu'na, Bizans'tan Osmanlı'ya kadar birçok uygarlığa ev sahipliği yapmış, kültürel ve ticari merkezler olarak önemli roller oynamıştır. Boğsak Adası da, bu tarihsel zenginliğin bir parçasını oluşturur. Türkiye'nin doğal mirasının önemli bir bileşeni olan adalar ve kıyı şeritleri, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, ticaret yaptıkları ve kültürel etkileşimlerde bulundukları alanlar olarak dikkat çeker.
+Mersin bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu topraklar, Hititlerden Roma İmparatorluğu'na, Bizans'tan Osmanlı'ya kadar birçok uygarlığa ev sahipliği yapmış, kültürel ve ticari merkezler olarak önemli roller oynamıştır. Boğsak Adası da, bu tarihsel zenginliğin bir parçasını oluşturur. Türkiye'nin doğal mirasının önemli bir bileşeni olan adalar ve kıyı şeritleri, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, ticaret yaptıkları ve kültürel etkileşimlerde bulundukları alanlar olarak dikkat çeker.
 
 Bu tür doğal alanlar, sadece güzellikleri ile değil, aynı zamanda tarihî ve kültürel açıdan da büyük önem taşırlar. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu doğal güzelliklerle olan ilişkilerini şekillendirmiş, bölgenin sosyal ve ekonomik dokusunu etkilemiştir. Mersin bölgesinin zengin tarihi ve Boğsak Adası gibi doğal güzellikleri, Türkiye'nin kültürel ve coğrafi çeşitliliğinin birer parçaları olarak önemli roller üstlenmeye devam ederler.
 

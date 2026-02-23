@@ -1,7 +1,7 @@
 ---
 title: "Sefer Paşa Türbesi"
 date: "2026-01-10T05:23:36.545Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391751"
 
 # Sefer Paşa Türbesi
 
-Sefer Paşa Türbesi, Tokat ilinin merkezinde, Karadeniz Bölgesi'nin önemli kültürel değerlerinden biri olarak karşımıza çıkıyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, bu tarihi mekanın bulunduğu bölgeyi kapsıyor. Sefer Paşa Türbesi, Tokat'ın tarihi geçmişi ve kültürel zenginliği hakkında ziyaretçilerine derinlemesine bilgi sunuyor. Tokat ilinin coğrafi konumu ve tarihi değerleri, Sefer Paşa Türbesi'nin önemini daha da artırıyor.
+Sefer Paşa Türbesi, Tokat ilinin merkezinde, Karadeniz Bölgesi'nin önemli kültürel değerlerinden biri olarak karşımıza çıkıyor. Sefer Paşa Türbesi, Tokat'ın tarihi geçmişi ve kültürel zenginliği hakkında ziyaretçilerine derinlemesine bilgi sunuyor. Tokat ilinin coğrafi konumu ve tarihi değerleri, Sefer Paşa Türbesi'nin önemini daha da artırıyor.
 
 ## Tarihçe
 

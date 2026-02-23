@@ -29,7 +29,7 @@ wikidata_id: "Q34872082"
 
 # Gökdağ
 
-Muğla'nın doğal güzellikleriyle dolu coğrafyasında, Gökdağ dikkat çekici bir yer almaktadır. Bu dağ, Muğla ilinin zengin jeolojik yapısını temsil etmektedir. Doğal güzelliği ve tarihi önemiyle dikkat çeken Gökdağ, ziyaretçilerini büyülemektedir. Muğla'nın eşsiz manzaralarına ev sahipliği yapan Gökdağ, ziyaretçilerine unutulmaz anlar sunmaktadır.
+Muğla'nın doğal güzellikleriyle dolu coğrafyasında, Gökdağ dikkat çekici bir yer almaktadır. Bu dağ, Muğla ilinin zengin jeolojik yapısını temsil etmektedir. Doğal güzelliği ve tarihi önemiyle dikkat çeken Gökdağ, ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 

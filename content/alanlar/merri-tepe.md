@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin en ilgi çekici noktalarından biri olan Merri 
 
 ## Tarihçe
 
-Merri Tepe, Batman'ın zengin tarihi ve kültürel mirasının içinde yer alan bir doğal güzellik. Bu bölgenin tarihçesi, binlerce yıl öncesine uzanan uygarlıkların izlerini taşır. Batman ve çevresinde, tarihin sâu sayfalarında yer alan Asur, Pers, Roma ve Osmanlı gibi uygarlıkların izleri görülebilir. Bu medeniyetler, bölgenin stratejik konumu nedeniyle ticaret yolları ve yerleşim merkezleri kurmuşlardır.
+Merri Tepe, Batman'ın zengin tarihi ve kültürel mirasının içinde yer alan bir doğal güzellik. Bu bölgenin tarihçesi, binlerce yıl öncesine uzanan uygarlıkların izlerini taşır. Batman ve çevresinde, tarihin derin sayfalarında yer alan Asur, Pers, Roma ve Osmanlı gibi uygarlıkların izleri görülebilir. Bu medeniyetler, bölgenin stratejik konumu nedeniyle ticaret yolları ve yerleşim merkezleri kurmuşlardır.
 
 Doğal güzellikleri ve verimli topraklarıyla Merri Tepe, bölgede yaşayan halk için her zaman önemli bir kaynak olmuştur. Yaylacılık ve hayvancılık, bu bölgede yüzlerce yıldır sürdürülen geleneksel faaliyetlerdir. Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunun önemli bir parçasını oluşturur. İnsanların bu alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut taşır. Ticaret yolları, göç yolları ve yerleşim yerleri, bu doğal güzelliklerin etrafında şekillenmiştir. Merri Tepe, bu zengin tarihsel ve kültürel mirasın bir parçasıdır ve bölgenin doğal güzelliğini koruma altına almak, gelecek nesiller için önemli bir sorumluluktur.
 
@@ -48,9 +48,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Merri Tepe'nin çevresel 
 
 ## Flora ve Fauna
 
-Merri Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine sahiptir. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanır ve step ekosisteminin karakteristik bitkileri, ova ekolojisinin geniş alanlarını kaplar. 
+Merri Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine sahiptir. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanır ve step ekosisteminin karakteristik bitkileri, ova ekolojisinin geniş alanlarını kaplar.
 
-Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu bölgeyi ziyaret eder ve dağların yükseklik zonlarında, alpin flora çeşitliliği gözlenir. 
+Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu bölgeyi ziyaret eder ve dağların yükseklik zonlarında, alpin flora çeşitliliği gözlenir.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle temsil edilir. Bu dağ ekosisteminde, yükseklik zonlarına adapte olmuş dağ hayvanları yaşar. Ekolojik olarak, bu canlılar birbirlerine bağımlıdır ve dağların yükseklik zonları, her bir türü için yaşam alanı sağlar.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108226202"
 
 # Toptepe Sit Alanı
 
-Toptepe Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzelliğimiz. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından biri. Bu bölge, zengin flora ve fauna çeşitliliğine sahip, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Doğa severler için bir cennet olan Toptepe Sit Alanı, ziyaretçilerini bekliyor.
+Toptepe Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzelliğimiz. Bu bölge, zengin flora ve fauna çeşitliliğine sahip, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Doğa severler için bir cennet olan Toptepe Sit Alanı, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

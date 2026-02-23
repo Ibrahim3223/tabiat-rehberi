@@ -1,7 +1,7 @@
 ---
 title: "Uşak Kent Tarihi Müzesi"
 date: "2026-01-10T15:20:27.434Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Uşak"
@@ -29,7 +29,7 @@ wikidata_id: "Q132682074"
 
 # Uşak Kent Tarihi Müzesi
 
-Uşak Kent Tarihi Müzesi, Ege Bölgesi'nin kalbinde, Uşak ilinin merkezinde yer alan bir kültür ve tarih harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin tarihi dokusunu yansıtan bir müzeye ev sahipliği yapıyor. Müzenin ön cephesi, şehrin tarihi geçmişi hakkında fikir veren bir mimari yapıya sahip. Burada, Uşak'ın tarihi ve kültürel zenginliğini keşfetme mümkün. Müze, ziyaretçilere Uşak'ın geçmişini ve günümüzdeki durumunu gösteren geniş bir koleksiyona sahip.
+Uşak Kent Tarihi Müzesi, Ege Bölgesi'nin kalbinde, Uşak ilinin merkezinde yer alan bir kültür ve tarih harikasıdır. Müzenin ön cephesi, şehrin tarihi geçmişi hakkında fikir veren bir mimari yapıya sahip. Burada, Uşak'ın tarihi ve kültürel zenginliğini keşfetme mümkün. Müze, ziyaretçilere Uşak'ın geçmişini ve günümüzdeki durumunu gösteren geniş bir koleksiyona sahip.
 
 ## Tarihçe
 

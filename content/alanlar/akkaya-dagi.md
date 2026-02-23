@@ -28,7 +28,7 @@ wikidata_id: "Q31583257"
 
 # Akkaya Dağı
 
-Balıkesir'in doğal güzelliklerini keşfetmek isteyenler için Akkaya Dağı, keyifli bir gezi rotası sunuyor. Bu dağ, Balıkesir'in sınırları içinde yer alıyor ve régionun zengin doğasını objev etmeye davet ediyor. Ziyaretçiler, Akkaya Dağı'nın eteklerinde ve zirvesinde doğanın güzelliğini keşfedebilirler. Balıkesir'in sunduğu bu doğal alan, şehrin diğer turistik noktaları ile birlikte ziyaretçilere unutulmaz bir deneyim vaat ediyor.
+Balıkesir'in doğal güzelliklerini keşfetmek isteyenler için Akkaya Dağı, keyifli bir gezi rotası sunuyor. Bu dağ, Balıkesir'in sınırları içinde yer alıyor ve bölgenin zengin doğasını objev etmeye davet ediyor. Ziyaretçiler, Akkaya Dağı'nın eteklerinde ve zirvesinde doğanın güzelliğini keşfedebilirler. Balıkesir'in sunduğu bu doğal alan, şehrin diğer turistik noktaları ile birlikte ziyaretçilere unutulmaz bir deneyim vaat ediyor.
 
 ## Tarihçe
 

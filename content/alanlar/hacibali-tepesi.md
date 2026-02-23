@@ -28,7 +28,7 @@ wikidata_id: "Q31390497"
 
 # Hacıbalı Tepesi
 
-Hacıbalı Tepesi, Konya'nın merkezi bir konumunda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahiptir. Tepenin yüksekliği ise Konya'nın genel coğrafyasına uygun olarak düzenlenmiştir. Hacıbalı Tepesi, Konya'nın tarihi ve coğrafi güzelliklerini bir araya getiren önemli bir destinasyondur. Ziyaretçiler, bu tepeyi ziyaret ederek Konya'nın panoramik manzarasını izleyebilir ve tarihi hakkında bilgi edinebilirler. Tepenin eteklerinde bulunan çeşitli bitkiler ve ağaçlar, ziyaretçilere doğanın güzelliklerini sunar.
+Hacıbalı Tepesi, Konya'nın merkezi bir konumunda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin yüksekliği ise Konya'nın genel coğrafyasına uygun olarak düzenlenmiştir. Hacıbalı Tepesi, Konya'nın tarihi ve coğrafi güzelliklerini bir araya getiren önemli bir destinasyondur. Ziyaretçiler, bu tepeyi ziyaret ederek Konya'nın panoramik manzarasını izleyebilir ve tarihi hakkında bilgi edinebilirler. Tepenin eteklerinde bulunan çeşitli bitkiler ve ağaçlar, ziyaretçilere doğanın güzelliklerini sunar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Seyid Bilal Türbesi, Batman"
 date: "2026-01-10T07:54:11.174Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Batman"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582876"
 
 # Seyid Bilal Türbesi, Batman
 
-Seyid Bilal Türbesi, Batman'ın Gercüş ilçesinde yer alan ve bölgeyi ziyaret edenlerin önemli bir durağı olan tarihi bir dinî mekan. 140 hektarlık bir alanı kaplayan bu tesis, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle kaplı. Tarihi ve kültürel önemi ile dikkat çeken Seyid Bilal Türbesi, aynı zamanda bölgeye özgü mimari özellikler taşıyor. Türbenin iç ve dış mimarisi, ziyaretçilere Türk sanatının güzelliğini ve inceliğini gösteriyor. Gercüş'ün merkezine yakın konumu, ulaşım açısından büyük kolaylık sağlıyor. Bu önemli dinî ve kültürel merkez, hem yerel halk hem de yabancı ziyaretçiler için bir çekim noktası olarak kabul ediliyor.
+Seyid Bilal Türbesi, Batman'ın Gercüş ilçesinde yer alan ve bölgeyi ziyaret edenlerin önemli bir durağı olan tarihi bir dinî mekan. Tarihi ve kültürel önemi ile dikkat çeken Seyid Bilal Türbesi, aynı zamanda bölgeye özgü mimari özellikler taşıyor. Türbenin iç ve dış mimarisi, ziyaretçilere Türk sanatının güzelliğini ve inceliğini gösteriyor. Gercüş'ün merkezine yakın konumu, ulaşım açısından büyük kolaylık sağlıyor. Bu önemli dinî ve kültürel merkez, hem yerel halk hem de yabancı ziyaretçiler için bir çekim noktası olarak kabul ediliyor.
 
 ## Tarihçe
 

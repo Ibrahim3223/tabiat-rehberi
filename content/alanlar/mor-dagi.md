@@ -33,7 +33,7 @@ Hakkari'nin dağlık bölgesinde, tarihi ve doğal güzelliklerin birleştiği b
 
 ## Tarihçe
 
-Hakkari'nin dağlık bölgesinde yer alan Mor Dağı, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarih boyunca çeşitli uygarlıkların geçiş noktalarından biri olarak önemini korumuştur. Medler, Persler, Romalılar ve daha sonra da Osmanlılar, bu topraklarda izler bırakmışlardır. Mor Dağı gibi doğal alanlar, yalnızca coğrafi olarak değil, aynı zamanda kültürel ve tarihi açıdan da büyük önem taşımaktadır.
+Hakkari'nin dağlık bölgesinde yer alan Mor Dağı, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarih boyunca çeşitli uygarlıkların geçiş noktalarından biri olarak önemini korumuştur. Medler, Persler, Romalılar ve daha sonra da Osmanlılar, bu topraklarda izler bırakmışlardır. Mor Dağı gibi doğal alanlar, yalnızca coğrafi olarak değil, aynı zamanda kültürel ve tarihi açıdan da büyük önem taşımaktadır.
 
 Türkiye'de, özellikle doğu ve güneydoğu bölgelerinde, bu tür dağlık alanlar, binlerce yıllık bir geçmişe sahip ticaret yolları, yaylacılık ve hayvancılık faaliyetleri için önemli merkezler olarak görev görmüştür. İnsanların bu doğal alanlarla kurdukları ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Yaylacılık geleneği, bu bölgede yaşayan arasında güçlü bir bağ oluşturmuş, mevsimsel göçler ve hayvancılık faaliyetleri, bölgenin sosyal dokusunu şekillendirmiştir. Mor Dağı, bu geniş ve zengin tarihsel bağlam içinde, Hakkari'nin doğal ve kültürel mirasının önemli bir parçasını oluşturmaktadır.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31544858"
 
 # Diyaramam Tepesi
 
-Diyaramam Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel doğa noktalarından biri olarak bilinir. Batman'ın güzelliğini gözler önüne seren bu tepe, yaklaşık 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir görüş açısı sunar. Tepenin yüksekliği ve genişliği, ziyaretçilerin bölgeyi keşfetmelerine olanak tanır. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bu tepe, doğa severler ve macera arayışında olanlar için ideal bir destinasyondur.
+Diyaramam Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel doğa noktalarından biri olarak bilinir. Batman'ın güzelliğini gözler önüne seren bu tepe, yaklaşık 140 hektarlık bir alanı kapsar. Tepenin yüksekliği ve genişliği, ziyaretçilerin bölgeyi keşfetmelerine olanak tanır. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bu tepe, doğa severler ve macera arayışında olanlar için ideal bir destinasyondur.
 
 ## Tarihçe
 

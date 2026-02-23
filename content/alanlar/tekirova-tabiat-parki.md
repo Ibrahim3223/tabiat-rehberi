@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Tekirova Tabiat Parkı
 
-Tekirova Tabiat Parkı, Antalya'nın önemli turizm merkezlerinden biri olan Kemer'in Tekirova mevkiinde yer alıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu doğal alan, ziyaretçilerini yemyeşil ormanlarıyla, çeşitli bitki türleriyle ve zengin faunasıyla karşılamaya hazır. Bu tabiat parkı, hem doğa severlerin hem de tatil amaçlı gelenlerin keyifli zaman geçirebileceği bir mekan. Parka gelen ziyaretçiler, doğanın içinde huzur bulabilir, çeşitli yürüyüş parkurlarından yararlanabilir ve bol oksijenli havayı soluyabilir.
+Tekirova Tabiat Parkı, Antalya'nın önemli turizm merkezlerinden biri olan Kemer'in Tekirova mevkiinde yer alıyor. Bu tabiat parkı, hem doğa severlerin hem de tatil amaçlı gelenlerin keyifli zaman geçirebileceği bir mekan. Parka gelen ziyaretçiler, doğanın içinde huzur bulabilir, çeşitli yürüyüş parkurlarından yararlanabilir ve bol oksijenli havayı soluyabilir.
 
 ## Tarihçe
 
@@ -29,7 +29,7 @@ Tekirova Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin doğ
 
 ## Coğrafya
 
-Tekirova Tabiat Parkı, Akdeniz Bölgesi'nin önemli coğrafi özelliklerine sahiptir. Park, Antalya'nın Kemer ilçesinde, denize yakın bir konumda yer alır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu doğal alan, yemyeşil ormanlarla kaplıdır. Parkın coğrafi yapısı, ziyaretçilerin çeşitli yürüyüş parkurlarından yararlanmalarına olanak tanır. Ayrıca, parkın iklimi, Akdeniz Bölgesi'nin genel iklim özellikleri gösterir; yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürer. Bu coğrafi ve iklimsel özellikler, parkın zengin faunası ve florası için uygun koşulları sağlar. Parkın çevresi, diğer doğal güzelliklerle çevrilidir ve ziyaretçilere geniş bir alanda doğayı keşfetme fırsatı sunar.
+Tekirova Tabiat Parkı, Akdeniz Bölgesi'nin önemli coğrafi özelliklerine sahiptir. Park, Antalya'nın Kemer ilçesinde, denize yakın bir konumda yer alır. Parkın coğrafi yapısı, ziyaretçilerin çeşitli yürüyüş parkurlarından yararlanmalarına olanak tanır. Ayrıca, parkın iklimi, Akdeniz Bölgesi'nin genel iklim özellikleri gösterir; yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim hüküm sürer. Bu coğrafi ve iklimsel özellikler, parkın zengin faunası ve florası için uygun koşulları sağlar. Parkın çevresi, diğer doğal güzelliklerle çevrilidir ve ziyaretçilere geniş bir alanda doğayı keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

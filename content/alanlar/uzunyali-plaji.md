@@ -28,7 +28,7 @@ wikidata_id: "Q49325113"
 
 # Uzunyalı Plajı
 
-Uzunyalı Plajı, Muğla'nın turizm cenneti olan bir bölgede yer alır. Plajın uzunluğu uzun bir mesafeyi bulur ve genişliği ise 50 metreye yakındır. Bu büyüklükteki bir alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Uzunyalı Plajı, Ege Denizi'nin serin suları ve güneşin ışınları altında, ziyaretçilerini güler yüzlü bir şekilde karşılar. Plajın etrafında, doğal güzelliği ile dikkat çeken tepeler ve yeşillikler bulunur. Bu tepeler, plaja gelen ziyaretçilere, huzurlu ve sakin bir atmosfer sunar.
+Uzunyalı Plajı, Muğla'nın turizm cenneti olan bir bölgede yer alır. Plajın uzunluğu uzun bir mesafeyi bulur ve genişliği ise 50 metreye yakındır. Uzunyalı Plajı, Ege Denizi'nin serin suları ve güneşin ışınları altında, ziyaretçilerini güler yüzlü bir şekilde karşılar. Plajın etrafında, doğal güzelliği ile dikkat çeken tepeler ve yeşillikler bulunur. Bu tepeler, plaja gelen ziyaretçilere, huzurlu ve sakin bir atmosfer sunar.
 
 ## Tarihçe
 

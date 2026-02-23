@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Salih Türbesi"
 date: "2026-01-10T07:51:56.179Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -46,7 +46,7 @@ wikidata_id: "Q135582868"
 
 ## Ziyaret Bilgileri
 
-Şeyh Salih Türbesi'ni ziyaret etmek, Mardin'in tarihi ve kültürel mirasını keşfetmek için önemli bir fırsat sunar. Ziyaretçiler, buraya gelerek tarihin derinliklerine dalabilirler ve Mardin'in coğrafi yapısını keşfedebilirler. Şeyh Salih Türbesi'ne ulaşmak, Mardin'in Artuklu ilçesinden fácil bir şekilde mümkündür. Ziyaretçiler, buraya gelerek farklı mevsimlerde farklı güzellikleri keşfedebilirler ve Şeyh Salih Türbesi'nin güzelliğini ve önemini daha da artırabilirler.
+Şeyh Salih Türbesi'ni ziyaret etmek, Mardin'in tarihi ve kültürel mirasını keşfetmek için önemli bir fırsat sunar. Ziyaretçiler, buraya gelerek tarihin derinliklerine dalabilirler ve Mardin'in coğrafi yapısını keşfedebilirler. Şeyh Salih Türbesi'ne ulaşmak, Mardin'in Artuklu ilçesinden kolay bir şekilde mümkündür. Ziyaretçiler, buraya gelerek farklı mevsimlerde farklı güzellikleri keşfedebilirler ve Şeyh Salih Türbesi'nin güzelliğini ve önemini daha da artırabilirler.
 
 ## İlginç Bilgiler
 

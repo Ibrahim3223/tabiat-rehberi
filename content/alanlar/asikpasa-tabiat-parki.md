@@ -23,7 +23,7 @@ wikidata_id: "Q108228132"
 
 # Aşıkpaşa Tabiat Parkı
 
-Aşıkpaşa Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde, Kırşehir ilinin sınırları içerisinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tabiat parkı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın huzurunu sunan bir cennet olarak hizmet veriyor. Kırşehir'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Aşıkpaşa Tabiat Parkı, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla önemli bir rol üstleniyor. Ziyaretçiler, parkın içerisinde yürüyüş parkurlarından yararlanabilir, piknik alanlarında keyifli anlar geçirebilir ve doğanın güzelliğini keşfedebilir.
+ Bu tabiat parkı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın huzurunu sunan bir cennet olarak hizmet veriyor. Kırşehir'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Aşıkpaşa Tabiat Parkı, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla önemli bir rol üstleniyor. Ziyaretçiler, parkın içerisinde yürüyüş parkurlarından yararlanabilir, piknik alanlarında keyifli anlar geçirebilir ve doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 

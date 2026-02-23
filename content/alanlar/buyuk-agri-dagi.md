@@ -51,9 +51,9 @@ Büyük Ağrı Dağı, çevresindeki ekosistemlerle önemli bağlantılar içerm
 
 ## Flora ve Fauna
 
-Büyük Ağrı Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Büyük Ağrı Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharda dağ yamaçları renkli çiçeklerle donanırken, sonbaharda da göçmen kuşlar bu bölgeyi ziyaret eder. Alpin çayırlar, endemik türlerle zengin bir flora sunar. 
+Bitki Örtüsü olarak, ilkbaharda dağ yamaçları renkli çiçeklerle donanırken, sonbaharda da göçmen kuşlar bu bölgeyi ziyaret eder. Alpin çayırlar, endemik türlerle zengin bir flora sunar.
 
 Yaban Hayatı açısından, memeliler ve kuşlar bu dağda yaşam bulur. Sürüngenler de bu ekosistemin bir parçasıdır. Dağ keçileri ve kartallar, bu bölgenin simgeleri gibidir.
 

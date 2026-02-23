@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Ayıkayası Tabiat Parkı
 
-Ayıkayası Tabiat Parkı, Bolu'nun güzide mekanlarından biri olarak Karadeniz Bölgesi'nin doğal güzelliklerini sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa deneyimi sağlar. Parkın konumu, ziyaretçilerin hem doğayı keşfetmelerine hem de Bolu'nun tarihi ve kültürel zenginliklerini deneyimlemelerine olanak tanır. Ayıkayası Tabiat Parkı, yıl boyunca ziyaretçilerini ağırlayan ve doğa severlerin keyifle zaman geçirebileceği bir mekan olarak öne çıkmaktadır.
+Ayıkayası Tabiat Parkı, Bolu'nun güzide mekanlarından biri olarak Karadeniz Bölgesi'nin doğal güzelliklerini sunar. Parkın konumu, ziyaretçilerin hem doğayı keşfetmelerine hem de Bolu'nun tarihi ve kültürel zenginliklerini deneyimlemelerine olanak tanır. Ayıkayası Tabiat Parkı, yıl boyunca ziyaretçilerini ağırlayan ve doğa severlerin keyifle zaman geçirebileceği bir mekan olarak öne çıkmaktadır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32138758"
 
 # Gözüdağı Tepesi
 
-Gözüdağı Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşit. Bu geniş alan, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Gözüdağı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgiler sunuyor. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor. Ziyaretçiler, bu tepeyi keşfederek hem doğal güzellikleri hem de tarihsel zenginlikleri deneyimleyebilirler.
+Gözüdağı Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu geniş alan, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Gözüdağı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgiler sunuyor. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor. Ziyaretçiler, bu tepeyi keşfederek hem doğal güzellikleri hem de tarihsel zenginlikleri deneyimleyebilirler.
 
 ## Tarihçe
 

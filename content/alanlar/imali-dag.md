@@ -32,7 +32,7 @@ Bayburt'un doğal güzelliklerini keşfetmek isteyenler için İmalı Dağ, öne
 
 ## Tarihçe
 
-Bayburt bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. İmalı Dağ, bu zengin tarihsel mirasın bir parçası olarak karşımıza çıkar. Bölge, geçmişte Hitit, Pers, Roma ve Bizans gibi uygarlıkların egemenliği altında kalmıştır. Özellikle İpek Yolu'nun önemli bir durağı olan Bayburt, tarih boyunca ticaret ve kültür alışverişinin merkezi olmuştur.
+Bayburt bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. İmalı Dağ, bu zengin tarihsel mirasın bir parçası olarak karşımıza çıkar. Bölge, geçmişte Hitit, Pers, Roma ve Bizans gibi uygarlıkların egemenliği altında kalmıştır. Özellikle İpek Yolu'nun önemli bir durağı olan Bayburt, tarih boyunca ticaret ve kültür alışverişinin merkezi olmuştur.
 
 Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Yaylacılık ve hayvancılık, bölgede yaşayan insanların geleneksel geçim kaynaklarından olmuştur. İnsanlar, mevsimlik göçlerle birlikte bu dağlık alanlarısummer yaylalarına doğru taşımış, burada hayvancılıkla uğraşmışlardır. Ticaret yolları da bu bölgeden geçerek, bölge halkının ekonomi ve kültürel yaşamını şekillendirmiştir.
 
@@ -52,9 +52,9 @@ Doğal güzelliklerin bir araya geldiği bu bölgede, İmalı Dağı'nın fiziks
 
 İmalı Dağ, nemli iklimin hakim olduğu bir bölge olup, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çeker. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı flora ve fauna türleri bulunur.
 
-Bitki örtüsünde, ilkbahar aylarında renkli çiçekler açarken, sonbaharda yaprakların dönüşümü ile dağ manzarası değişir. Gür ormanlar, çeşitli ağaç türlerinin yanı sıra, yüksek yerlerde alpin flora görülür. 
+Bitki örtüsünde, ilkbahar aylarında renkli çiçekler açarken, sonbaharda yaprakların dönüşümü ile dağ manzarası değişir. Gür ormanlar, çeşitli ağaç türlerinin yanı sıra, yüksek yerlerde alpin flora görülür.
 
-Yaban hayatında, memeliler ve kuşlar da bu dağ ekosisteminin önemli parçalarıdır. Göçmen kuşlar, sonbaharda dağları geçerken, yerli türler ise burada yaşamını sürdürür. Sürüngenler de dağların kayalık alanlarında yaşamlarını sürdürür. 
+Yaban hayatında, memeliler ve kuşlar da bu dağ ekosisteminin önemli parçalarıdır. Göçmen kuşlar, sonbaharda dağları geçerken, yerli türler ise burada yaşamını sürdürür. Sürüngenler de dağların kayalık alanlarında yaşamlarını sürdürür.
 
 İmalı Dağ, yüksek biyoçeşitlilik nedeniyle ekolojik açıdan önemli bir alandır. Bu alanın korunması, doğa dengesinin sürdürülmesi için büyük önem taşır.
 

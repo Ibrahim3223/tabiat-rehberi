@@ -28,7 +28,7 @@ wikidata_id: "Q32139675"
 
 # Güven Tepesi
 
-Güven Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve önemli bir doğal alan olarak dikkat çeker. Yaklaşık 140 hektarlık bir alanı kaplayan bu yeşil alan, 200 futbol sahası büyüklüğünde bir bölgeyi kapsar. Doğal güzelliği ve tarihi geçmişiyle ziyaretçilerini cezbeder. Güven Tepesi, bölgenin coğrafi yapısını ve iklimini şekillendiren önemli bir faktördür. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla Güven Tepesi, ziyaretçilerine benzersiz bir deneyim sunar.
+Güven Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve önemli bir doğal alan olarak dikkat çeker. Doğal güzelliği ve tarihi geçmişiyle ziyaretçilerini cezbeder. Güven Tepesi, bölgenin coğrafi yapısını ve iklimini şekillendiren önemli bir faktördür. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla Güven Tepesi, ziyaretçilerine benzersiz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Güven Tepesi'nin tarihi geçmişi, bölgenin kültürel ve coğrafi yapısını
 
 ## Coğrafya
 
-Güven Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve önemli bir coğrafi oluşumdur. Yaklaşık 140 hektarlık bir alanı kaplayan bu yeşil alan, 200 futbol sahası büyüklüğünde bir bölgeyi kapsar. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla Güven Tepesi, ziyaretçilerine benzersiz bir deneyim sunar. Güven Tepesi'nin coğrafi yapısı, bölgenin iklimini ve çevre koşullarını şekillendiren önemli bir faktördür. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Güven Tepesi, bölgenin coğrafi ve iklimsel yapısını anlamak için önemli bir noktadır.
+Güven Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve önemli bir coğrafi oluşumdur. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla Güven Tepesi, ziyaretçilerine benzersiz bir deneyim sunar. Güven Tepesi'nin coğrafi yapısı, bölgenin iklimini ve çevre koşullarını şekillendiren önemli bir faktördür. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Güven Tepesi, bölgenin coğrafi ve iklimsel yapısını anlamak için önemli bir noktadır.
 
 ## Flora ve Fauna
 

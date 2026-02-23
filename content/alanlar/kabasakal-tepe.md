@@ -46,9 +46,9 @@ Doğal güzellikleri ve jeolojik oluşumlarıyla dikkat çeken Kabasakal Tepe, �
 
 ## Flora ve Fauna
 
-Kabasakal Tepe, Tokat'ın nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapıyor. 
+Kabasakal Tepe, Tokat'ın nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelişiyle birlikte dağ yamaçlarında çiçeklerin açtığını görüyoruz. Gür ormanlar, yüksek biyoçeşitlilikle birlikte, çeşitli ağaç türlerini barındırıyor. 
+Bitki Örtüsü bölümünde, ilkbaharın gelişiyle birlikte dağ yamaçlarında çiçeklerin açtığını görüyoruz. Gür ormanlar, yüksek biyoçeşitlilikle birlikte, çeşitli ağaç türlerini barındırıyor.
 
 Yaban Hayatı bölümünde, memelilerin, kuşların ve sürüngenlerin bu dağ ekosisteminde yaşamlarını sürdürdüklerini gözlemliyoruz. Mevsimsel değişimlerle birlikte, göçmen kuşlar sonbaharda bu bölgeyi ziyaret ediyor.
 
@@ -64,5 +64,5 @@ Kabasakal Tepe, Tokat'ın gizli bir hazine gibi bekleyen bir doğa harikası. Sa
 - Tokat il merkezine yaklaşık 30 kilometre uzaklıktadır.
 - Kabasakal Tepe'nin yüksekliği hakkında net bir veri bulunmamaktadır.
 - Tokat ilinin coğrafi yapısı genellikle dağlık ve engebeli arazilerden oluşur.
-- Kabasakal Tepe ve çevresindeki bölge, históri ve kültürel açıdan zengin bir geçmişe sahiptir.
+- Kabasakal Tepe ve çevresindeki bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir.
 - Tokat ili, 1923 yılında Türkiye Cumhuriyeti'nin kurulmasından sonra illerden biri olarak belirlenmiştir.

@@ -29,7 +29,7 @@ schema_type: "TouristAttraction"
 
 # Termessos Milli Parkı
 
-Termessos Milli Parkı, Antalya'nın Döşemealtı ilçesinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir yeşil alana sahiptir. Bu milli park, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbetmektedir. Parkın içinde, çeşitli bitki türleri ve zengin fauna ziyaretçilerin ilgisini çekmektedir. Termessos, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve bu yüzden tarihi açıdan da önemli bir değer taşımaktadır.
+ Bu milli park, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbetmektedir. Parkın içinde, çeşitli bitki türleri ve zengin fauna ziyaretçilerin ilgisini çekmektedir. Termessos, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve bu yüzden tarihi açıdan da önemli bir değer taşımaktadır.
 
 ## Tarihçe
 

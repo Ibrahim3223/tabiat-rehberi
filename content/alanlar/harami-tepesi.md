@@ -28,7 +28,7 @@ wikidata_id: "Q31385766"
 
 # Harami Tepesi
 
-Harami Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi mekan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Konya'nın şehir merkezine oldukça yakında bulunuyor. Bu tepenin etrafında, şehrin tarihi geçmişi hakkında önemli ipuçları ve doğal güzellikler yer alıyor. Konya'nın coğrafi yapısı, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
+Harami Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi mekan olarak dikkat çekiyor. Bu tepenin etrafında, şehrin tarihi geçmişi hakkında önemli ipuçları ve doğal güzellikler yer alıyor. Konya'nın coğrafi yapısı, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 
 ## Tarihçe
 

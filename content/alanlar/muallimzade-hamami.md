@@ -1,7 +1,7 @@
 ---
 title: "Muallimzade Hamamı"
 date: "2026-01-09T22:54:19.381Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738654"
 
 # Muallimzade Hamamı
 
-Muallimzade Hamamı, Bursa'nın Yıldırım ilçesinde bulunan ve Marmara Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Muallimzade Hamamı, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor. Burası, hem dinlenmek hem de tarihle iç içe olmak isteyenler için ideal bir destinasyon.
+Muallimzade Hamamı, Bursa'nın Yıldırım ilçesinde bulunan ve Marmara Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. Muallimzade Hamamı, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor. Burası, hem dinlenmek hem de tarihle iç içe olmak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

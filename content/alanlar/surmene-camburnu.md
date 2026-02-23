@@ -23,7 +23,7 @@ wikidata_id: "Q108228241"
 
 # Sürmene Çamburnu
 
-Sürmene Çamburnu milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve benzersiz bir doğa deneyimi sunar. Park, ziyaretçilerine zengin flora ve fauna çeşitliliği ile birlikte, tarihi geçmişi ve kültürel önemi ile de dikkat çekmektedir. Sürmene Çamburnu milli parkı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir destinasyondur.
+Sürmene Çamburnu milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. Park, ziyaretçilerine zengin flora ve fauna çeşitliliği ile birlikte, tarihi geçmişi ve kültürel önemi ile de dikkat çekmektedir. Sürmene Çamburnu milli parkı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir destinasyondur.
 
 ## Tarihçe
 

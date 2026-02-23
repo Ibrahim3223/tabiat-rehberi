@@ -34,9 +34,9 @@ Demre'nin sakin sularında, Antalya'nın güneşli kıyı şeridinde yer alan Ke
 
 ## Tarihçe
 
-Kekova adası, Türkiye'nin güney kıyılarında yer alan Antalya bölgesinde bulunan bir ada. Bu bölge, tarihin derinliklerinde pek çok uygarlığa ev sahipliği yapmış bir coğrafya. Antalya, Likya, Pamfilya ve Roma uygarlıklarının izlerini taşıyan bir bölge olarak dikkat çekiyor. 
+Kekova adası, Türkiye'nin güney kıyılarında yer alan Antalya bölgesinde bulunan bir ada. Bu bölge, tarihin derinliklerinde pek çok uygarlığa ev sahipliği yapmış bir coğrafya. Antalya, Likya, Pamfilya ve Roma uygarlıklarının izlerini taşıyan bir bölge olarak dikkat çekiyor.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel zenginliklerinin önemli bir parçasını oluşturuyor. İnsanların bu alanlarla olan ilişkisi, binlerce yıl öncesine dayanıyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal güzelliklerle iç içe geçmelerine neden oldu. Kekova adası ve civarındaki bölgeler, bu anlamda önemli birer durak olarak görülüyor. 
+Bu tür doğal alanlar, Türkiye'nin tarihsel zenginliklerinin önemli bir parçasını oluşturuyor. İnsanların bu alanlarla olan ilişkisi, binlerce yıl öncesine dayanıyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal güzelliklerle iç içe geçmelerine neden oldu. Kekova adası ve civarındaki bölgeler, bu anlamda önemli birer durak olarak görülüyor.
 
 Tarih boyunca, bu bölgede yaşamış olan uygarlıklar, doğal güzellikleri ve coğrafi konumun stratejik önemini fark etmişler. Bu nedenle, Kekova adası ve çevresi, ticaret ve kültür alışverişinin yoğunlaştığı bir bölge olarak dikkat çekiyor. Bu doğal alanların korunması ve gelecek nesillere aktarılması, Türkiye'nin kültürel ve tarihsel mirasının önemli bir parçası olarak görülüyor.
 

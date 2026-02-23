@@ -22,7 +22,7 @@ wikidata_id: "Q108228989"
 
 # Kemiklitepe Fosil Yatakları Doğal Sit Alanı
 
-İç Anadolu Bölgesi'nin zengin doğal kaynakları arasında yer alan Kemiklitepe Fosil Yatakları Doğal Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, bölgenin doğal güzelliklerini korumak amacıyla oluşturulmuştur. Kemiklitepe Fosil Yatakları, Özellikle fosil merakı olan ziyaretçiler için bir cennet olup, bölgede yapılan kazılar ve araştırmalar, bu alandaki zengin fosil kaynaklarını ortaya çıkarmıştır. Doğal Sit Alanı, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir rol oynamaktadır.
+İç Anadolu Bölgesi'nin zengin doğal kaynakları arasında yer alan Kemiklitepe Fosil Yatakları Doğal Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsar. Kemiklitepe Fosil Yatakları, Özellikle fosil merakı olan ziyaretçiler için bir cennet olup, bölgede yapılan kazılar ve araştırmalar, bu alandaki zengin fosil kaynaklarını ortaya çıkarmıştır. Doğal Sit Alanı, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir rol oynamaktadır.
 
 ## Tarihçe
 

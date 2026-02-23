@@ -1,7 +1,7 @@
 ---
 title: "Tezveren Şeyh Kamil Türbesi"
 date: "2026-01-10T05:07:33.914Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391569"
 
 # Tezveren Şeyh Kamil Türbesi
 
-Tezveren Şeyh Kamil Türbesi, Ege Bölgesi'nin güzide illerinden biri olan İzmir'in Menemen ilçesinde yer alan tarihi ve doğal bir güzelliktir. Bu bölge, hem tarihi değerleri hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, hem tarihi türbeyi hem de plajı barındırmaktadır. Bu alan, tatilseverler için hem dinlenme hem de kültürel keşif olanakları sunmaktadır.
+Tezveren Şeyh Kamil Türbesi, Ege Bölgesi'nin güzide illerinden biri olan İzmir'in Menemen ilçesinde yer alan tarihi ve doğal bir güzelliktir. Bu bölge, hem tarihi değerleri hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Bu alan, tatilseverler için hem dinlenme hem de kültürel keşif olanakları sunmaktadır.
 
 ## Tarihçe
 

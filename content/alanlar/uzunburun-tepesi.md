@@ -28,7 +28,7 @@ wikidata_id: "Q31389580"
 
 # Uzunburun Tepesi
 
-Uzunburun Tepesi, Balıkesir'in Marmara Bölgesi'nde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanıyla dikkat çekici bir doğal güzelliğe sahiptir. Bu tepe, ziyaretçilerini doğayla baş başa bırakırken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Uzunburun Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
+ Bu tepe, ziyaretçilerini doğayla baş başa bırakırken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Uzunburun Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Uzunburun Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Uzunburun Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, zengin bitki örtüsü ve çeşitliliği ile dikkat çeker. Bölgenin iklimi, genel olarak Marmara Bölgesi'nin iklimine benzerlik gösterir ve ziyaretçilere dört mevsim boyunca farklı güzellikler sunar. Uzunburun Tepesi'nin coğrafi konumu, ziyaretçilerin hem doğayı hem de çevreyi keşfetmesine olanak tanır. Tepe, farklı yüksekliklerde ve eğimlerde yer alan çeşitli yürüyüş parkurları ve manzaralar sunar.
+Uzunburun Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bölgenin iklimi, genel olarak Marmara Bölgesi'nin iklimine benzerlik gösterir ve ziyaretçilere dört mevsim boyunca farklı güzellikler sunar. Uzunburun Tepesi'nin coğrafi konumu, ziyaretçilerin hem doğayı hem de çevreyi keşfetmesine olanak tanır. Tepe, farklı yüksekliklerde ve eğimlerde yer alan çeşitli yürüyüş parkurları ve manzaralar sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Uzunburun Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için �
 
 ## İlginç Bilgiler
 
-- Uzunburun Tepesi, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanıyla dikkat çeker.
 - Tepe, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır.
 - Uzunburun Tepesi, zengin flora ve fauna çeşitliliği ile dikkat çeker.
 - Tepe ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunur.

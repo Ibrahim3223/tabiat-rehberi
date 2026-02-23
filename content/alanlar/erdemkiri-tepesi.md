@@ -29,7 +29,7 @@ wikidata_id: "Q31568191"
 
 # Erdemkırı Tepesi
 
-İç Anadolu Bölgesi'nin coğrafi çeşitliliği, Erdemkırı Tepesi gibi doğal güzelliklerle zenginleşiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal miraslarından biri olarak kabul ediliyor. Erdemkırı Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılayacak bir destinasyon. Bu tepe, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir role sahip.
+İç Anadolu Bölgesi'nin coğrafi çeşitliliği, Erdemkırı Tepesi gibi doğal güzelliklerle zenginleşiyor. Erdemkırı Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılayacak bir destinasyon. Bu tepe, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir role sahip.
 
 ## Tarihçe
 

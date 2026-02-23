@@ -22,7 +22,7 @@ wikidata_id: "Q108227985"
 
 # Artvin-Borcka-Ciftekopru Dogu Ladini
 
-Artvin-Borcka-Ciftekopru Dogu Ladini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerini barındırıyor. Milli park, ziyaretçilerini hem doğal güzelliği hem de zengin fauna ve flora çeşitliliği ile cezbediyor. Burada, çeşitli bitki türleri ve hayvanlar bir arada snguyor ve bu bölgeyi doğa tutkunları için bir cennet haline getiriyor.
+Artvin-Borcka-Ciftekopru Dogu Ladini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Milli park, ziyaretçilerini hem doğal güzelliği hem de zengin fauna ve flora çeşitliliği ile cezbediyor. Burada, çeşitli bitki türleri ve hayvanlar bir arada snguyor ve bu bölgeyi doğa tutkunları için bir cennet haline getiriyor.
 
 ## Tarihçe
 

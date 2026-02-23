@@ -28,7 +28,7 @@ wikidata_id: "Q31536477"
 
 # Annıyaslı Tepesi
 
-Gaziantep'in güneydoğu bölgesinde yer alan Annıyaslı Tepesi, şehrin doğal güzellikleri arasında önemli bir yer tutar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir nokta olarak dikkat çeker. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede yapılan geziler, hem doğayı keşfetmek hem de yerel tarihi tanımak için idealdir.
+Gaziantep'in güneydoğu bölgesinde yer alan Annıyaslı Tepesi, şehrin doğal güzellikleri arasında önemli bir yer tutar. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede yapılan geziler, hem doğayı keşfetmek hem de yerel tarihi tanımak için idealdir.
 
 ## Tarihçe
 

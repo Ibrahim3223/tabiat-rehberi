@@ -28,7 +28,7 @@ wikidata_id: "Q31390635"
 
 # Kızılkale Tepesi
 
-Kızılkale Tepesi, Kırşehir ilinin sınırları içerisinde yer alan bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Kızılkale Tepesi, tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini beklemektedir. İç Anadolu Bölgesi'nin coğrafi özelliklerinilemek isteyenler için önemli bir destinasyon olan Kızılkale Tepesi, aynı zamanda bölgenin tarihini keşfetmek isteyenler için de bir cazibe merkezi olarak karşımıza çıkmaktadır.
+Kızılkale Tepesi, Kırşehir ilinin sınırları içerisinde yer alan bir tepe olarak dikkat çekmektedir. Kızılkale Tepesi, tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini beklemektedir. İç Anadolu Bölgesi'nin coğrafi özelliklerinilemek isteyenler için önemli bir destinasyon olan Kızılkale Tepesi, aynı zamanda bölgenin tarihini keşfetmek isteyenler için de bir cazibe merkezi olarak karşımıza çıkmaktadır.
 
 ## Tarihçe
 

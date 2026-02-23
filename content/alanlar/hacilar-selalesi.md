@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Hacılar Şelalesi
 
-Hacılar Şelalesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alan üzerinde yer alan, çeşitli bitki türleriyle çevrili bir yeşil cennettir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Hacılar Şelalesi, Ankara'nın merkezinden uzun bir mesafe uzaklıkta bulunur ve buraya ulaşım oldukça kolaydır. Şelalenin bulunduğu bölge, yaban hayatı açısından da oldukça zengindir. Burada, çeşitli hayvan türleri ve bitkiler bulunur.
+Hacılar Şelalesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alan üzerinde yer alan, çeşitli bitki türleriyle çevrili bir yeşil cennettir. Hacılar Şelalesi, Ankara'nın merkezinden uzun bir mesafe uzaklıkta bulunur ve buraya ulaşım oldukça kolaydır. Şelalenin bulunduğu bölge, yaban hayatı açısından da oldukça zengindir. Burada, çeşitli hayvan türleri ve bitkiler bulunur.
 
 ## Tarihçe
 

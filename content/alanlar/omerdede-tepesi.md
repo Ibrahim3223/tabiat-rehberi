@@ -28,7 +28,7 @@ wikidata_id: "Q31536987"
 
 # Omerdede Tepesi
 
-Omerdede Tepesi, Kilis şehrinin güzide noktalarından biri olarak ziyaretçilerini ağırlar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve büyüklüğü itibariyle yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Omerdede Tepesi, doğa severler ve macera arayışındaki kişiler için ideal bir destinasyondur. Burada, ziyaretçiler doğal güzellikleri keşfedebilir, manzarayı izleyebilir ve çeşitli etkinlikler gerçekleştirebilirler. Omerdede Tepesi, aynı zamanda tarihsel bir geçmişe sahip olup, bölgenin kültürel zenginliğini yansıtan önemli bir noktadır.
+Omerdede Tepesi, Kilis şehrinin güzide noktalarından biri olarak ziyaretçilerini ağırlar. Omerdede Tepesi, doğa severler ve macera arayışındaki kişiler için ideal bir destinasyondur. Burada, ziyaretçiler doğal güzellikleri keşfedebilir, manzarayı izleyebilir ve çeşitli etkinlikler gerçekleştirebilirler. Omerdede Tepesi, aynı zamanda tarihsel bir geçmişe sahip olup, bölgenin kültürel zenginliğini yansıtan önemli bir noktadır.
 
 ## Tarihçe
 

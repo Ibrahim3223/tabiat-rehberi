@@ -32,7 +32,7 @@ wikidata_id: "Q49650051"
 
 ## Tarihçe
 
-Çanakkale, tarihin sâu izlerini taşıyan bir bölgedir. Bu topraklar, binlerce yıldır çeşitli uygarlıklara ev sahipliği yapmış, Truva'nın efsanesi burada doğmuş, Bizans ve Osmanlı gibi imparatorluklar burada hüküm sürmüştür. "Küçük Eşek Adası" da bu tarihsel zenginliğin bir parçasıdır.
+Çanakkale, tarihin derin izlerini taşıyan bir bölgedir. Bu topraklar, binlerce yıldır çeşitli uygarlıklara ev sahipliği yapmış, Truva'nın efsanesi burada doğmuş, Bizans ve Osmanlı gibi imparatorluklar burada hüküm sürmüştür. "Küçük Eşek Adası" da bu tarihsel zenginliğin bir parçasıdır.
 
 Türkiye'de doğal alanlar, insan yaşamının önemli bir parçası olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, toplumların bu alanlarla ilişkisini şekillendirmiştir. Bu bölgeler, sadece doğal güzellikleriyle değil, aynı zamanda kültürel ve ekonomik önemleriyle de dikkat çeker.
 
@@ -50,9 +50,9 @@ Ada'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile şekillenir
 
 ## Flora ve Fauna
 
-Küçük Eşek Adası, Çanakkale'nin kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ada, geçiş iklimi ve karma ormanların birleştiği bir bölgede yer alıyor. 
+Küçük Eşek Adası, Çanakkale'nin kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ada, geçiş iklimi ve karma ormanların birleştiği bir bölgede yer alıyor.
 
-Bitki örtüsüne baktığımızda, ilkbahar aylarında ada, rengarenk çiçeklerle kaplanıyor. Kıyı bölgelerinde deniz kenarına özgü bitkiler yetişirken, iç kısımlarda karma ormanlar hakim oluyor. 
+Bitki örtüsüne baktığımızda, ilkbahar aylarında ada, rengarenk çiçeklerle kaplanıyor. Kıyı bölgelerinde deniz kenarına özgü bitkiler yetişirken, iç kısımlarda karma ormanlar hakim oluyor.
 
 Yaban hayatı açısından zengin bir bölge olan ada, özellikle göçmen kuş rotasında yer alıyor. Sonbahar aylarında, göç eden kuşlar ada üzerinde konaklıyor. Deniz kuşları da adanın kıyılarında yuva yapıyor. Ada, izole popülasyonlara ev sahipliği yapıyor ve bu nedenle ekolojik olarak önemli bir bölge.
 

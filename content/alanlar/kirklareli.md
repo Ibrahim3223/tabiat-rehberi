@@ -23,7 +23,7 @@ wikidata_id: "Q108228647"
 
 # KIRKLARELİ
 
-KIRKLARELİ milli parkı, İç Anadolu Bölgesi'nin merkezinde yer alan 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş bir doğa alanı sunmakta. Milli parkın büyüklüğü, hem bitki hem de hayvan türleri için uygun bir yaşam alanı oluşturmakta. Ayrıca, ziyaretçiler için çeşitli gezi rotaları ve gözlem noktaları bulunmakta.
+ Bu büyüklük, ziyaretçilere geniş bir doğa alanı sunmakta. Milli parkın büyüklüğü, hem bitki hem de hayvan türleri için uygun bir yaşam alanı oluşturmakta. Ayrıca, ziyaretçiler için çeşitli gezi rotaları ve gözlem noktaları bulunmakta.
 
 ## Tarihçe
 

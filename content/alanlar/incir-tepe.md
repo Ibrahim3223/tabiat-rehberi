@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nde, Batman ilinin doğa harikaları arasında yer 
 
 ## Tarihçe
 
-İncir Tepe, tarihi zenginliklerle dolu Batman bölgesinde yer alan bir doğal güzellik. Bu bölge, tarihin sâu sayfalarında önemli bir role sahip olmuş, çeşitli uygarlıkların izlerini taşıyor. Hitit, Asur ve Pers gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada yer almışlar. İncir Tepe gibi doğal alanlar, bu uygarlıkların ticaret yolları ve yerleşim yerleri arasında önemli bir konumda bulunmuş.
+İncir Tepe, tarihi zenginliklerle dolu Batman bölgesinde yer alan bir doğal güzellik. Bu bölge, tarihin derin sayfalarında önemli bir role sahip olmuş, çeşitli uygarlıkların izlerini taşıyor. Hitit, Asur ve Pers gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada yer almışlar. İncir Tepe gibi doğal alanlar, bu uygarlıkların ticaret yolları ve yerleşim yerleri arasında önemli bir konumda bulunmuş.
 
 Türkiye'de, özellikle doğu ve güneydoğu bölgelerinde yer alan doğal alanlar, tarihsel olarak önemli birer yaşam merkezi olmuşlar. Bu bölgeler, yaylacılık ve hayvancılık faaliyetleri için elverişli koşullar sunmuş, aynı zamanda ticaret yolları üzerinde yer almalarıyla da önemli birer geçiş noktası görevi görmüşler. İncir Tepe de, bu bağlamda, bölgede yaşayan insanların yaşam alışkanlıkları ve ekonomik faaliyetleri açısından önemli bir  oynamış.
 
@@ -50,11 +50,11 @@ Mevsimsel değişimler, İncir Tepe'nin iklim karakterini şekillendiriyor. Gün
 
 ## Flora ve Fauna
 
-İncir Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede, step ve ova ekolojisinin içinde yükselen bir dağ ekosistemi sunar. Bu dağ, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliğine ev sahipliği yapar. 
+İncir Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede, step ve ova ekolojisinin içinde yükselen bir dağ ekosistemi sunar. Bu dağ, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliğine ev sahipliği yapar.
 
 Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle kaplanır. Step ve ova bitkileri, yüksek irtifalarda alpin flora türlerine dönüşür. Bu bitkiler, dağ ekosisteminin önemli bileşenleri olup, hayvanlar için yaşam alanı ve besin kaynağı sağlar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağların yüksek kesimlerinde, yaban keçileri ve diğer dağ hayvanları yaşar. Kuşlar, özellikle göç mevsimlerinde, dağların üzerinde ve eteklerinde görülür. Sürüngenler, step ve ova ekolojisinin karakteristik türleridir. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağların yüksek kesimlerinde, yaban keçileri ve diğer dağ hayvanları yaşar. Kuşlar, özellikle göç mevsimlerinde, dağların üzerinde ve eteklerinde görülür. Sürüngenler, step ve ova ekolojisinin karakteristik türleridir.
 
 İncir Tepe'nin ekolojik değeri, bu dağ ekosisteminin çeşitliliği ve bölge için önemli bir yaşam alanı oluşturmasıdır. Bu alanın korunması, hem yerel hem de göçmen türlerin sürekliliğiçin çok önemlidir.
 

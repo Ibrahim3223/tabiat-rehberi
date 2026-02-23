@@ -29,7 +29,7 @@ wikidata_id: "Q31387377"
 
 # Art Tepe
 
-Art Tepe, Doğu Anadolu Bölgesi'nin Van ilinde yer alan bir tepe olarak bilinir. Bu bölge, coğrafi açıdan önemli bir noktada bulunur ve tarihi geçmişi ile dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğal güzelliği ve tarihi değerleri ile ziyaretçilerini cezbeder. Art Tepe, Van ilinin önemli noktalarından biri olarak kabul edilir ve coğrafi çeşitliliği ile dikkat çeker.
+Art Tepe, Doğu Anadolu Bölgesi'nin Van ilinde yer alan bir tepe olarak bilinir. Bu bölge, coğrafi açıdan önemli bir noktada bulunur ve tarihi geçmişi ile dikkat çeker. Doğal güzelliği ve tarihi değerleri ile ziyaretçilerini cezbeder. Art Tepe, Van ilinin önemli noktalarından biri olarak kabul edilir ve coğrafi çeşitliliği ile dikkat çeker.
 
 ## Tarihçe
 

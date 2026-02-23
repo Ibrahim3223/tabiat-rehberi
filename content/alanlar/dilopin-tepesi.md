@@ -28,7 +28,7 @@ wikidata_id: "Q31553121"
 
 # Dilopin Tepesi
 
-Dilopin Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. Bu tepe, bölgenin coğrafi özellikleri ve iklim koşulları nedeniyle benzersiz bir ekosisteme ev sahipliği yapıyor. Dilopin Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor.
+Dilopin Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepe, bölgenin coğrafi özellikleri ve iklim koşulları nedeniyle benzersiz bir ekosisteme ev sahipliği yapıyor. Dilopin Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

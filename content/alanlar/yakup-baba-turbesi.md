@@ -1,7 +1,7 @@
 ---
 title: "Yakup Baba Türbesi"
 date: "2026-01-10T07:13:28.256Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390927"
 
 # Yakup Baba Türbesi
 
-Marmaris'te, Muğla'nın Ege Bölgesi'nde yer alan Yakup Baba Türbesi, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini natuur ve tarihle buluşturuyor. Yakup Baba Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde kurulmuş ve çevresi tarihi ve doğal güzelliklerle dolu. Bu mekan, Marmaris'in önemli tarihi ve turistik noktalarından biri olarak kabul ediliyor. Yakup Baba Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı, bu da ziyaretçilere doğanın güzelliğini gösteren bir alan sunuyor.
+Marmaris'te, Muğla'nın Ege Bölgesi'nde yer alan Yakup Baba Türbesi, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini natuur ve tarihle buluşturuyor. Bu mekan, Marmaris'in önemli tarihi ve turistik noktalarından biri olarak kabul ediliyor. Yakup Baba Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı, bu da ziyaretçilere doğanın güzelliğini gösteren bir alan sunuyor.
 
 ## Tarihçe
 

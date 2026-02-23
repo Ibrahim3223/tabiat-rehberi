@@ -33,7 +33,7 @@ Ankara'nın dağlık bölgelerinde yer alan Yıldız Dağı, Türkiye'nin başke
 
 ## Tarihçe
 
-Ankara bölgesinin zengin tarihi, Yıldız Dağı'nın eteklerine kadar uzanır. Bu bölge, tarihin sâu sayfalarında Hitit, Frig, Galat ve Roma uygarlıklarının izlerini taşır. Bu medeniyetlerin her biri, Ankara'nın coğrafi konumundan yararlanarak ticaret, tarım ve hayvancılıkla uğraşmışlardır.
+Ankara bölgesinin zengin tarihi, Yıldız Dağı'nın eteklerine kadar uzanır. Bu bölge, tarihin derin sayfalarında Hitit, Frig, Galat ve Roma uygarlıklarının izlerini taşır. Bu medeniyetlerin her biri, Ankara'nın coğrafi konumundan yararlanarak ticaret, tarım ve hayvancılıkla uğraşmışlardır.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu bölgeler, yalnızca doğal güzellikleriyle değil, aynı zamanda insanların yaşamlarını sürdürdükleri, yaylacılık ve hayvancılık yaptıkları alanlar olarak da dikkat çeker. Yıldız Dağı gibi dağlar, insan yerleşimlerinin yanı sıra, ticaret yollarının da güzergahını belirlemiş, bölgenin ekonomi ve sosyal hayatını şekillendirmiştir.
 
@@ -65,5 +65,5 @@ Yıldız Dağı, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için 
 - Dağ sırasının en yüksek noktası 1.607 metre ile Eldivan Dağı'dır.
 - Yıldız Dağı, İç Anadolu Bölgesi'nin karasal ikliminin etkilerini taşır.
 - Dağda çeşitli bitki türleri bulunur, bunlar arasında çam, köknar ve meşe ağaçları yer alır.
-- Yıldız Dağı ve çevresinde histórik dönemden kalan çeşitli höyük ve kale kalıntıları bulunur.
+- Yıldız Dağı ve çevresinde tarihi dönemden kalan çeşitli höyük ve kale kalıntıları bulunur.
 - Dağ, Ankara'nın doğal ve tarihi zenginliklerini koruma altına almak amacıyla çeşitli koruma çalışmaları yapılmaktadır.

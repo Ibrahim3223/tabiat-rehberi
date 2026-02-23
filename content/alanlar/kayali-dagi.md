@@ -32,9 +32,9 @@ Konya'nın tarihi ve kültürel zenginliklerinin yanı sıra, Kayalı Dağı gib
 
 ## Tarihçe
 
-Konya bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Hititlerden Roma İmparatorluğu'na, Selçuklulardan Osmanlı'ya kadar birçok uygarlık bu topraklarda yaşamış ve izler bırakmıştır. Kayalı Dağı da bu tarihsel zenginliğin bir parçasıdır.
+Konya bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Hititlerden Roma İmparatorluğu'na, Selçuklulardan Osmanlı'ya kadar birçok uygarlık bu topraklarda yaşamış ve izler bırakmıştır. Kayalı Dağı da bu tarihsel zenginliğin bir parçasıdır.
 
-Türkiye'nin doğal alanları, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için önemli kaynaklar olmuştur. Yayla ve otlaklar, yaylacılık ve hayvancılık için elverişli ortamlar sunarken, ticaret yolları da bu bölgelerin stratejik önemini artırmıştır. Konya bölgesi, histórik İpek Yolu güzergahı üzerinde yer alan önemli bir merkezdir.
+Türkiye'nin doğal alanları, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için önemli kaynaklar olmuştur. Yayla ve otlaklar, yaylacılık ve hayvancılık için elverişli ortamlar sunarken, ticaret yolları da bu bölgelerin stratejik önemini artırmıştır. Konya bölgesi, tarihi İpek Yolu güzergahı üzerinde yer alan önemli bir merkezdir.
 
 İnsanların Kayalı Dağı ile ilişkisi, bölgenin coğrafi özellikleri ile şekillenmiştir. Dağın etekleri ve çevresindeki ovalar, tarım ve hayvancılık için uygun alanlar sunarken, dağlık bölgeler avcılık ve odun toplama gibi faaliyetler için kullanılmıştır. Bu doğal alan, bölge halkının yaşamını sürdürmesi için gerekli kaynakları sağlarken, aynı zamanda kültürel ve tarihsel bir miras olarak da korunmaktadır.
 

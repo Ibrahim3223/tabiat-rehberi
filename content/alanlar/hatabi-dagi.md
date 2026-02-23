@@ -29,7 +29,7 @@ wikidata_id: "Q31520984"
 
 # Hatabi Dağı
 
-Türkiye'nin doğa harikalarına ev sahipliği yapan Hatabi Dağı, ziyaretçilerini doğal güzellikleri ile büyülüyor. Bu dağ, Türkiye'nin farklı bölgelerinde yer alan çeşitli coğrafi oluşumlardan biri olarak dikkat çekiyor. Türkiye'nin çeşitli illerinde bulunan Hatabi Dağı, özellikle doğa severler için keyifli bir gezi noktası oluyor. Türkiye'de yer alan bu dağ, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Türkiye'nin doğa harikalarına ev sahipliği yapan Hatabi Dağı, ziyaretçilerini doğal güzellikleri ile büyülüyor. Bu dağ, Türkiye'nin farklı bölgelerinde yer alan çeşitli coğrafi oluşumlardan biri olarak dikkat çekiyor. Türkiye'nin çeşitli illerinde bulunan Hatabi Dağı, özellikle doğa severler için keyifli bir gezi noktası oluyor.
 
 ## Tarihçe
 

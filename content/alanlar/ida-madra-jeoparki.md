@@ -23,7 +23,7 @@ wikidata_id: "Q113238751"
 
 # İda Madra Jeoparkı
 
-İda Madra Jeoparkı, Marmara Bölgesi'nin Balıkesir ilinde yer alan, doğa güzelliği ve jeolojik önemi ile dikkat çeken bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunar. Bu bölge, aynı zamanda zengin bir flora ve fauna çeşitliliğine sahiptir. İda Madra Jeoparkı, doğa severler ve jeoloji ile ilgilenenler için ideal bir destinasyondur. Burada, yerli ve yabancı turistler, eşsiz bir doğa deneyimi yaşayabilirler.
+İda Madra Jeoparkı, Marmara Bölgesi'nin Balıkesir ilinde yer alan, doğa güzelliği ve jeolojik önemi ile dikkat çeken bir alandır. Bu bölge, aynı zamanda zengin bir flora ve fauna çeşitliliğine sahiptir. İda Madra Jeoparkı, doğa severler ve jeoloji ile ilgilenenler için ideal bir destinasyondur. Burada, yerli ve yabancı turistler, eşsiz bir doğa deneyimi yaşayabilirler.
 
 ## Tarihçe
 

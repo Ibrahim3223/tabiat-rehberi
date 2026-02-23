@@ -1,7 +1,7 @@
 ---
 title: "Beyazıt Hamam Kültürü Müzesi"
 date: "2026-01-09T22:14:31.679Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q68217803"
 
 # Beyazıt Hamam Kültürü Müzesi
 
-Beyazıt Hamam Kültürü Müzesi, İstanbul'un tarihi merkezi Fatih'te yer alan bir kültür mekanıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir arazide kurulmuştur. Bu müze, hamam kültürünün tarihini ve önemini sergileyen bir mekândır. Ziyaretçiler, burada hamam kültürünün geçmişini ve günümüzdeki yerini keşfedebilirler. Müzenin içerisinde, çeşitli sergi ve etkinlikler düzenlenmektedir. Beyazıt Hamam Kültürü Müzesi, kültür severler ve tarih meraklıları için ideal bir gezi noktasıdır.
+Beyazıt Hamam Kültürü Müzesi, İstanbul'un tarihi merkezi Fatih'te yer alan bir kültür mekanıdır. Bu müze, hamam kültürünün tarihini ve önemini sergileyen bir mekândır. Ziyaretçiler, burada hamam kültürünün geçmişini ve günümüzdeki yerini keşfedebilirler. Müzenin içerisinde, çeşitli sergi ve etkinlikler düzenlenmektedir. Beyazıt Hamam Kültürü Müzesi, kültür severler ve tarih meraklıları için ideal bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Beyazıt Hamam Kültürü Müzesi, yüzyıllar boyunca hamam kültürünün geli
 
 ## Coğrafya
 
-Beyazıt Hamam Kültürü Müzesi, İstanbul'un tarihi merkezi Fatih'te yer alan bir kültür mekanıdır. Müze, 140 hektarlık bir arazide kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Çevresinde, tarihi yapılar ve kültürel merkezler bulunmaktadır. Müzenin konumu, visitçiler için ulaşım açısından da thun li bir noktadır. İstanbul'un merkezi konumu, ziyaretçilerin diğer tarihi ve kültürel mekanlara kolayca ulaşmasını sağlar. Beyazıt Hamam Kültürü Müzesi, İstanbul'un coğrafi ve kültürel zenginliklerinin bir parçasıdır. Müze, ziyaretçilerine İstanbul'un tarihi ve kültürel değerlerini keşfetme fırsatı sunar.
+Beyazıt Hamam Kültürü Müzesi, İstanbul'un tarihi merkezi Fatih'te yer alan bir kültür mekanıdır. Çevresinde, tarihi yapılar ve kültürel merkezler bulunmaktadır. Müzenin konumu, visitçiler için ulaşım açısından da thun li bir noktadır. İstanbul'un merkezi konumu, ziyaretçilerin diğer tarihi ve kültürel mekanlara kolayca ulaşmasını sağlar. Beyazıt Hamam Kültürü Müzesi, İstanbul'un coğrafi ve kültürel zenginliklerinin bir parçasıdır. Müze, ziyaretçilerine İstanbul'un tarihi ve kültürel değerlerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

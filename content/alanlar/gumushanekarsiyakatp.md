@@ -22,7 +22,7 @@ wikidata_id: "Q108228767"
 
 # GÜMÜŞHANE_KARŞIYAKA_TP
 
-Gümüşhane Karşıyaka TP, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık bir alan olarak doğa severler için bir sığınak görevi görüyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok farklı bitki türünü barındırıyor. Gümüşhane'nin coğrafi yapısına uygun olarak, Karşıyaka TP'nin de coğrafyası oldukça çeşitli ve zengin. Burada gezerken, birçok farklı bitki türüyle karşılaşma mümkün ve bu, bölgeyi doğa meraklıları için ideal bir destinasyon haline getiriyor.
+Gümüşhane Karşıyaka TP, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık bir alan olarak doğa severler için bir sığınak görevi görüyor. Gümüşhane'nin coğrafi yapısına uygun olarak, Karşıyaka TP'nin de coğrafyası oldukça çeşitli ve zengin. Burada gezerken, birçok farklı bitki türüyle karşılaşma mümkün ve bu, bölgeyi doğa meraklıları için ideal bir destinasyon haline getiriyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Kudbeddin Dede Türbesi"
 date: "2026-01-10T05:42:08.177Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391774"
 
 # Kudbeddin Dede Türbesi
 
-Kudbeddin Dede Türbesi, Eskişehir'in Sivrihisar ilçesinde bulunan bir tarihi mekan. Bu türbe, 140 hektarlık bir alan üzerine kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Kudbeddin Dede Türbesi, tarihi değerleri ve doğal güzellikleriyle birlikte ziyaretçilerini bekliyor. Türbenin etrafında çeşitli değil, çeşitli ağaçlar ve bitkiler bulunuyor. Bu mekan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini sürükleyen bir yer.
+Kudbeddin Dede Türbesi, Eskişehir'in Sivrihisar ilçesinde bulunan bir tarihi mekan. Kudbeddin Dede Türbesi, tarihi değerleri ve doğal güzellikleriyle birlikte ziyaretçilerini bekliyor. Türbenin etrafında çeşitli değil, çeşitli ağaçlar ve bitkiler bulunuyor. Bu mekan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini sürükleyen bir yer.
 
 ## Tarihçe
 

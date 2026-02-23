@@ -23,7 +23,7 @@ wikidata_id: "Q108228653"
 
 # KANUNİ SULTAN SÜLEYMAN
 
-Kanunî Sultan Süleyman Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine doğanın güzelliğini sunar. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlar. Bu milli park, hem doğa severler hem de tarih meraklıları için eşsiz bir destinasyondur.
+Kanunî Sultan Süleyman Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlar. Bu milli park, hem doğa severler hem de tarih meraklıları için eşsiz bir destinasyondur.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390587"
 
 # Ayaktaş Tepesi
 
-Ayaktaş Tepesi, Nevşehir'in doğal güzelliklerinden biri olarak İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ki bu, 200 futbol sahası büyüklüğünde bir alan demek. Ayaktaş Tepesi, doğa severlerin ve trekkingDoingsevenlerin favori mekanlarından biri. Tepenin zirvesinden manzaranın keyfini çıkarma ve çevreyi keşfetmek mogelijk. Ayaktaş Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinilebilecek bir yer.
+Ayaktaş Tepesi, Nevşehir'in doğal güzelliklerinden biri olarak İç Anadolu Bölgesi'nde yer alıyor. Ayaktaş Tepesi, doğa severlerin ve trekkingDoingsevenlerin favori mekanlarından biri. Tepenin zirvesinden manzaranın keyfini çıkarma ve çevreyi keşfetmek mogelijk. Ayaktaş Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinilebilecek bir yer.
 
 ## Tarihçe
 

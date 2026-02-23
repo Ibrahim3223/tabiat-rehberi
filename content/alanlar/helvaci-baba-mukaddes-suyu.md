@@ -29,7 +29,7 @@ wikidata_id: "Q131390831"
 
 # Helvacı Baba Mukaddes Suyu
 
-Helvacı Baba Mukaddes Suyu, İzmir'in Bergama ilçesinde yer alan bir plaj ve tarihi mekân olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir doğa parçasını temsil ediyor. Helvacı Baba Mukaddes Suyu, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Bu mekân, Bergama'nın önemli turizm noktalarından biri olarak karşımıza çıkıyor.
+Helvacı Baba Mukaddes Suyu, İzmir'in Bergama ilçesinde yer alan bir plaj ve tarihi mekân olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alıyor. Helvacı Baba Mukaddes Suyu, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Bu mekân, Bergama'nın önemli turizm noktalarından biri olarak karşımıza çıkıyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Helvacı Baba Mukaddes Suyu'nun etrafı, çeşitli bitki türleri ile çevrili v
 
 ## Ziyaret Bilgileri
 
-Helvacı Baba Mukaddes Suyu'nu ziyaret etmek için, en uygun zaman ilkbahar ve yaz ayları. Bu dönemde, hava sıcaklığı ve deniz suyu sıcaklığı, ziyaretçilerin keyifli bir gün geçirmesine olanak tanıyor. Bu bölgede, ziyaretçiler, plajın keyfini çıkarabiliyor, denizde yüzebiliyor ve güneşin tadını çıkarabiliyor. Ayrıca, bu bölgede, tarihi mekânları gezerek, Bergama'nın kültürel mirasını keşfedebiliyorlar. Helvacı Baba Mukaddes Suyu'na ulaşım, Bergama ilçesinden fácil bir şekilde sağlanabiliyor.
+Helvacı Baba Mukaddes Suyu'nu ziyaret etmek için, en uygun zaman ilkbahar ve yaz ayları. Bu dönemde, hava sıcaklığı ve deniz suyu sıcaklığı, ziyaretçilerin keyifli bir gün geçirmesine olanak tanıyor. Bu bölgede, ziyaretçiler, plajın keyfini çıkarabiliyor, denizde yüzebiliyor ve güneşin tadını çıkarabiliyor. Ayrıca, bu bölgede, tarihi mekânları gezerek, Bergama'nın kültürel mirasını keşfedebiliyorlar. Helvacı Baba Mukaddes Suyu'na ulaşım, Bergama ilçesinden kolay bir şekilde sağlanabiliyor.
 
 ## İlginç Bilgiler
 

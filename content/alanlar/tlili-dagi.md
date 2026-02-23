@@ -33,9 +33,9 @@ Ardahan'ın doğal güzelliklerinin arasında yer alan Tlili Dağı, ziyaretçil
 
 ## Tarihçe
 
-Ardahan bölgesinin tarihi, binlerce yıl öncesine kadar uzanır. Bu bölge, tarih boyunca çeşitli uygarlıkların hüküm sürdüğü önemli bir kavşak noktası olmuştur. Tlili Dağı da bu bölgenin bir parçası olarak, yüzyıllar boyu insanların yaşamlarına tanıklık etmiştir. 
+Ardahan bölgesinin tarihi, binlerce yıl öncesine kadar uzanır. Bu bölge, tarih boyunca çeşitli uygarlıkların hüküm sürdüğü önemli bir kavşak noktası olmuştur. Tlili Dağı da bu bölgenin bir parçası olarak, yüzyıllar boyu insanların yaşamlarına tanıklık etmiştir.
 
-Tarihsel kayıtlara göre, Ardahan ve çevresinde Hitit, Urartu, Roma ve Osmanlı gibi uygarlıkların izleri görülmektedir. Bu bölgenin coğrafi konumu, ticaret yolları ve yaylacılık için elverişli olması, insanların burada yaşamasına ve çeşitli faaliyetlerde bulunmasına neden olmuştur. 
+Tarihsel kayıtlara göre, Ardahan ve çevresinde Hitit, Urartu, Roma ve Osmanlı gibi uygarlıkların izleri görülmektedir. Bu bölgenin coğrafi konumu, ticaret yolları ve yaylacılık için elverişli olması, insanların burada yaşamasına ve çeşitli faaliyetlerde bulunmasına neden olmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla Tlili Dağı, bölgenin tarihsel dokusunun bir parçasını oluşturur. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yerleşim, tarım, hayvancılık ve ticaret için önemli merkezler olarak görev görmüştür. Bu bölgeler, aynı zamanda kültürel ve sosyal faaliyetlerin de merkezi olmuştur. Tlili Dağı da bu bağlamda, insan yaşamının bir parçası olarak, bölgenin tarihsel ve kültürel mirasına katkıda bulunmuştur.
 
@@ -51,7 +51,7 @@ Tlili Dağı, çevresindeki diğer dağlarla ve vadilerle birlikte bir ekosistem
 
 ## Flora ve Fauna
 
-Tlili Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Tlili Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 İlkbaharla birlikte, dağ eteklerinde çiçekler açmaya başlar. Alpin çayırlar, renklendirir ve dağ havasını tatlandırır. Sonbaharda, göçmen kuşlar dağları bir geçit olarak kullanır.
 
 Dağların yükseklik zonlarında, çeşitli memeli ve kuş türleri yaşar. Sürüngenler ve diğer küçük canlılar, bu dağların ekosisteminin önemli bir parçasıdır. Dağların yüksekliği ve iklimi, burada yaşayan canlıların uyum sağlama yeteneklerini geliştirmiştir.

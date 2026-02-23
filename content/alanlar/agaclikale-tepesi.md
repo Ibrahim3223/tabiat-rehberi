@@ -28,7 +28,7 @@ wikidata_id: "Q32131421"
 
 # Ağaçlıkale Tepesi
 
-Ağaçlıkale Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu tepe, Eskişehir'in şehir merkezine yakınlığıyla dikkat çekmekte ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet vermektedir. Tepenin etrafı, çeşitli bitkilerle kaplı ve zengin fauna ile dolu olan geniş bir yeşil alanla çevrilidir. Bu alan, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekmektedir.
+ Bu tepe, Eskişehir'in şehir merkezine yakınlığıyla dikkat çekmekte ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet vermektedir. Tepenin etrafı, çeşitli bitkilerle kaplı ve zengin fauna ile dolu olan geniş bir yeşil alanla çevrilidir. Bu alan, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Ağaçlıkale Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer almakta ve co�
 
 ## Flora ve Fauna
 
-Ağaçlıkale Tepesi, flora ve fauna açısından oldukça zengin bir yapıya sahiptir. Tepenin etrafı, çeşitli bitkilerle kaplı geniş bir yeşil alanla çevrilidir ve bu alan, birçok farklı bitki türünü barındırmaktadır. Tepede, ayrıca birçok farklı hayvan türü de yaşamaktadır. Bu hayvanlar, tepeye özgü fauna ile birlikte, bölgenin ekolojik dengesini korumaktadır. Tepenin flora ve faunası, mevsimsel değişimlere göre şekil almakta ve her mevsim, tepeye farklı bir güzellik katmaktadır. İlkbahar ve yaz aylarında, tepeye renk katan çiçekler açmakta ve bu, doğa severler için büyük bir çekim merkezi olmaktadır.
+ Tepenin etrafı, çeşitli bitkilerle kaplı geniş bir yeşil alanla çevrilidir ve bu alan, birçok farklı bitki türünü barındırmaktadır. Tepede, ayrıca birçok farklı hayvan türü de yaşamaktadır. Bu hayvanlar, tepeye özgü fauna ile birlikte, bölgenin ekolojik dengesini korumaktadır. Tepenin flora ve faunası, mevsimsel değişimlere göre şekil almakta ve her mevsim, tepeye farklı bir güzellik katmaktadır. İlkbahar ve yaz aylarında, tepeye renk katan çiçekler açmakta ve bu, doğa severler için büyük bir çekim merkezi olmaktadır.
 
 ## Ziyaret Bilgileri
 

@@ -48,8 +48,8 @@ Fiziksel yapısına baktığımızda, Leylek Dağı'nın boyutları hakkında de
 
 ## Flora ve Fauna
 
-Leylek Dağı, Malatya'nın yüksek dağ ekolojisine ev sahipliği yapan bir bölge. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-1. **Bitki Örtüsü**: İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanır. Yükseklik zonlarına bağlı olarak, flora çeşitliliği değişir. 
+Leylek Dağı, Malatya'nın yüksek dağ ekolojisine ev sahipliği yapan bir bölge. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+1. **Bitki Örtüsü**: İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanır. Yükseklik zonlarına bağlı olarak, flora çeşitliliği değişir.
 2. **Yaban Hayatı**: Dağ keçileri, yaban keçileri ve ayılar gibi memeliler bu dağların yerlileridir. Kuşlar ise, özellikle göç mevsimlerinde, Leylek Dağı'nı önemli bir uğrak noktası olarak kullanır.
 3. **Ekolojik Değer**: Bu dağ ekosisteminin korunması, sadece yerel canlıların değil, aynı zamanda tüm bölgenin ekolojik dengesi için önemlidir.
 

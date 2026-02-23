@@ -28,7 +28,7 @@ wikidata_id: "Q31390584"
 
 # Yalınızdağ Tepesi
 
-Yalınızdağ Tepesi, Nevşehir ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Yalınızdağ Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırma ve doğanın huzurunu yaşamak isteyenler için bir kaçış noktası.
+Yalınızdağ Tepesi, Nevşehir ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe. Bu bölge, doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Yalınızdağ Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırma ve doğanın huzurunu yaşamak isteyenler için bir kaçış noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yalliğindeğ Tepesi'nin tarihi geçmişi, bölgenin coğrafi özelliklerine ba�
 
 ## Coğrafya
 
-Yalınızdağ Tepesi, Nevşehir ilinin coğrafi yapısını yansıtan bir tepe. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, geniş otlakları ve doğal güzellikleri ile dikkat çekmektedir. Yalınızdağ Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Yalınızdağ Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırma ve doğanın huzurunu yaşamak isteyenler için bir kaçış noktası. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
+Yalınızdağ Tepesi, Nevşehir ilinin coğrafi yapısını yansıtan bir tepe. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, geniş otlakları ve doğal güzellikleri ile dikkat çekmektedir. Bu bölge, doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Yalınızdağ Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırma ve doğanın huzurunu yaşamak isteyenler için bir kaçış noktası. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 

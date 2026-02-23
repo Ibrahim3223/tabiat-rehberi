@@ -53,7 +53,7 @@ Bölgenin ekosistemine bakıldığında, Gelincik Dağı'nın önemli bir yer tu
 
 Gelincik Dağı, Burdur'un güzide bir köşesinde yer alan bu dağ ekosistemi, maki bitki örtüsünün hakim olduğu bir bölge. İklimin kuraklığına rağmen, bu alanın flora ve fauna zenginliği dikkat çekiyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarını renklendiren çeşitli çiçekler göze çarpıyor. Maki türleri, kuraklığa dayanıklı bitkiler ve yükseklik zonlarına özgü alpin flora, bu dağın benzersiz görünümünü oluşturuyor. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarını renklendiren çeşitli çiçekler göze çarpıyor. Maki türleri, kuraklığa dayanıklı bitkiler ve yükseklik zonlarına özgü alpin flora, bu dağın benzersiz görünümünü oluşturuyor.
 
 Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler, bu dağda yaşamını sürdüren canlılar arasında yer alıyor. Kış aylarında dağdan inen memeliler, ilkbaharla birlikte again dağ yamaçlarında görülebiliyor. Göçmen kuşlar, sonbaharda bu dağ üzerinde konaklıyor.
 

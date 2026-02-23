@@ -1,7 +1,7 @@
 ---
 title: "Hisar Dağı"
 date: "2026-01-09T05:40:46.382Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Mersin"
@@ -49,7 +49,7 @@ Hisar Dağı, Mersin'in çevresel dengesini sağlayan önemli bir bileşendir. D
 
 ## Flora ve Fauna
 
-Hisar Dağı, Mersin'in sunduğu doğal güzelliklerin başında gelir. Bu dağ ekosisteminde, maki bitki örtüsü hakimdir ve kuraklığa dayanıklı türler bulunur. İlkbaharla birlikte, dağ yamacında çiçekler açar ve renkli bir manzara sunar. 
+Hisar Dağı, Mersin'in sunduğu doğal güzelliklerin başında gelir. Bu dağ ekosisteminde, maki bitki örtüsü hakimdir ve kuraklığa dayanıklı türler bulunur. İlkbaharla birlikte, dağ yamacında çiçekler açar ve renkli bir manzara sunar.
 
 Bitki örtüsünün yanı sıra, Hisar Dağı'nın yaban hayatı da dikkat çekicidir. Dağ keçileri ve yaban kedileri gibi memeliler, dağların yüksek zonlarında yaşar. Kuşlar, özellikle göç mevsimlerinde, bu bölgede önemli bir rol oynar. Sürüngenler de, dağların kura ve kayalık regionsinde bulunur.
 

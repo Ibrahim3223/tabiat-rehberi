@@ -1,7 +1,7 @@
 ---
 title: "Muhyiddin-i Rumi Türbesi"
 date: "2026-01-10T05:18:20.020Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391748"
 
 # Muhyiddin-i Rumi Türbesi
 
-Muhyiddin-i Rumi Türbesi, Marmara Bölgesi'nin Balıkesir iline bağlı Burhaniye'de yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Muhyiddin-i Rumi Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekiyor. Burhaniye'nin merkezine yakın konumuyla da ziyaretçilere kolaylık sağlıyor. Tarihi geçmişi ve doğal güzellikleriyle bu mekan, bölgede önemli bir çekim merkezi olarak kabul ediliyor.
+Muhyiddin-i Rumi Türbesi, Marmara Bölgesi'nin Balıkesir iline bağlı Burhaniye'de yer alan bir tarihi ve doğal güzellik alanıdır. Muhyiddin-i Rumi Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekiyor. Burhaniye'nin merkezine yakın konumuyla da ziyaretçilere kolaylık sağlıyor. Tarihi geçmişi ve doğal güzellikleriyle bu mekan, bölgede önemli bir çekim merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 

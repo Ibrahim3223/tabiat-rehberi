@@ -1,7 +1,7 @@
 ---
 title: "Tekkedağı Tabiat Parkı"
 date: "2026-01-09T20:01:17.954Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228345"
 
 # Tekkedağı Tabiat Parkı
 
-Tekkedağı Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Bu muhteşem park, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaya hazırdır. Parkın geniş arazisi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Tekkedağı Tabiat Parkı, doğa severlerin ve macera arayanların uğrak noktası olmayı başarmıştır.
+Tekkedağı Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Parkın geniş arazisi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Tekkedağı Tabiat Parkı, doğa severlerin ve macera arayanların uğrak noktası olmayı başarmıştır.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Tekkedağı Tabiat Parkı, ziyaretçilerini doğanın güzellikleriyle baş baş
 ## İlginç Bilgiler
 
 - Tekkedağı Tabiat Parkı, 140 hektarlık bir yeşil alana sahiptir.
-- Park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Tekkedağı Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Parkın coğrafi konumu, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır.
 - Tekkedağı Tabiat Parkı, doğa severlerin ve macera arayanların uğrak noktası olmayı başarmıştır.

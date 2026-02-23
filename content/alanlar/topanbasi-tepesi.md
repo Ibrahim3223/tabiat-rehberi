@@ -29,7 +29,7 @@ wikidata_id: "Q31560866"
 
 # Topanbaşı Tepesi
 
-Topanbaşı Tepesi, Zonguldak ilinin Karadeniz Bölgesi'nde yer alan bir doğal güzellik. 140 hektarlık bir alana yayılmış bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgede yer alan tepe, ziyaretçilerini doğal güzelliği ve zengin flora ile karşılıyor. Tomanbaşı Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, yaklaşık 1000 metre yüksekliğinde ve eteklerinde çeşitli bitki türleri bulunuyor. Tomanbaşı Tepesi, doğa severlerin ve trekking yapanların tercih ettiği bir yer.
+Topanbaşı Tepesi, Zonguldak ilinin Karadeniz Bölgesi'nde yer alan bir doğal güzellik. Bu bölgede yer alan tepe, ziyaretçilerini doğal güzelliği ve zengin flora ile karşılıyor. Tomanbaşı Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, yaklaşık 1000 metre yüksekliğinde ve eteklerinde çeşitli bitki türleri bulunuyor. Tomanbaşı Tepesi, doğa severlerin ve trekking yapanların tercih ettiği bir yer.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tomanbaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir sür
 
 ## Coğrafya
 
-Tomanbaşı Tepesi, Zonguldak ilinin Karadeniz Bölgesi'nde yer alan bir tepe. Bu tepe, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Tomanbaşı Tepesi, yaklaşık 1000 metre yüksekliğinde ve eteklerinde çeşitli bitki türleri bulunuyor. Bu bölgede, Karadeniz iklimi hüküm sürüyor ve yağış miktarı yüksek. Tomanbaşı Tepesi, etrafındaki diğer tepelerle birlikte bir dağ silsilesini oluşturuyor. Bu tepe, Karadeniz Bölgesi'nin en önemli coğrafi merkezlerinden biri olarak kabul ediliyor. Tomanbaşı Tepesi, ziyaretçilerini doğal güzelliği ve coğrafi konumu ile karşılıyor.
+Tomanbaşı Tepesi, Zonguldak ilinin Karadeniz Bölgesi'nde yer alan bir tepe. Tomanbaşı Tepesi, yaklaşık 1000 metre yüksekliğinde ve eteklerinde çeşitli bitki türleri bulunuyor. Bu bölgede, Karadeniz iklimi hüküm sürüyor ve yağış miktarı yüksek. Tomanbaşı Tepesi, etrafındaki diğer tepelerle birlikte bir dağ silsilesini oluşturuyor. Bu tepe, Karadeniz Bölgesi'nin en önemli coğrafi merkezlerinden biri olarak kabul ediliyor. Tomanbaşı Tepesi, ziyaretçilerini doğal güzelliği ve coğrafi konumu ile karşılıyor.
 
 ## Flora ve Fauna
 

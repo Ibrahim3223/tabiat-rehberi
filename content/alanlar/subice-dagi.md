@@ -32,8 +32,8 @@ Aydın'ın zengin doğası, Subice Dağı gibi birçok doğal güzelliği barın
 
 ## Tarihçe
 
-Aydın bölgesinde yer alan Subice Dağı, Türkiye'nin zengin tarihsel mirasının bir parçasını oluşturur. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir yerleşim merkezi olmuştur. Antik Çağ'da İyonya ve Lidya uygarlıklarının izlerini taşıyan Aydın, daha sonra Roma ve Bizans dönemlerini de yaşamıştır. 
-Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir role sahiptir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin ekonomi ve sosyal hayatında önemli bir yer tutmuştur. Subice Dağı da bu bağlamda, bölgenin coğrafi ve kültürel zenginliğinin bir parçası olarak görülür. 
+Aydın bölgesinde yer alan Subice Dağı, Türkiye'nin zengin tarihsel mirasının bir parçasını oluşturur. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir yerleşim merkezi olmuştur. Antik Çağ'da İyonya ve Lidya uygarlıklarının izlerini taşıyan Aydın, daha sonra Roma ve Bizans dönemlerini de yaşamıştır.
+Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir role sahiptir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin ekonomi ve sosyal hayatında önemli bir yer tutmuştur. Subice Dağı da bu bağlamda, bölgenin coğrafi ve kültürel zenginliğinin bir parçası olarak görülür.
 İnsanların doğal alanlarla ilişkisi, sadece ekonomik faaliyetlerle sınırlı değildir. Bu bölgeler, aynı zamanda kültürel ve sosyal hayatın önemli bir parçasını oluşturur. Subice Dağı gibi doğal alanlar, insanların doğayla iç içe yaşadığı ve onun bir parçası olduğu bir zamanın hafızasını taşır. Bu nedenle, bu tür alanların korunması ve geleceğe taşınması, Türkiye'nin kültürel ve doğal mirasının önemli bir parçasıdır.
 
 ## Coğrafya
@@ -48,10 +48,10 @@ Doğal güzellikleri koruma açısından, Subice Dağı'nın çevresel ilişkile
 
 ## Flora ve Fauna
 
-Subice Dağı, Aydın'ın zeytinli ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Subice Dağı, Aydın'ın zeytinli ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Dağın yükseklik zonları, alpin flora ve dağ hayvanlarına ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle dolu oluyor. Çam ormanları, zeytinliklerin arasında gizli bir cennet gibi görünüyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yüksek kesimlerinde yaşarken, göçmen kuşlar sonbaharda dağları geçerek yeni yuvalarına ulaşıyor. Sürüngenler, kayaların arasında gizleniyor ve avlarını bekliyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yüksek kesimlerinde yaşarken, göçmen kuşlar sonbaharda dağları geçerek yeni yuvalarına ulaşıyor. Sürüngenler, kayaların arasında gizleniyor ve avlarını bekliyor.
 Ekolojik değer olarak, Subice Dağı, bölgenin ekosistem dengesini koruyor ve biyolojik çeşitliliğe katkıda bulunuyor. Ancak, insan faaliyetleri ve iklim değişikliği tehdidi altında olan bu dağ ekosisteminin korunması gerekiyor.
 
 ## Ziyaret Bilgileri

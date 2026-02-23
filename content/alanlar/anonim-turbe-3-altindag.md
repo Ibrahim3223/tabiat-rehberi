@@ -1,7 +1,7 @@
 ---
 title: "Anonim Türbe-3, Altındağ"
 date: "2026-01-10T05:41:16.016Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582362"
 
 # Anonim Türbe-3, Altındağ
 
-Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir yer olan Anonim Türbe-3, Altındağ'da bulunmaktadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, çevresindeki tarihi yapılar ve doğal güzelliklerle birlikte ziyaretçilere geniş bir gezi alanı sunmaktadır. Anonim Türbe-3'ün etrafındaki tarihi mekanlar, Ankara'nın zengin tarihinde önemli bir yer tutmaktadır. Burada, Ankara'nın kültürel ve tarihi değerlerini yakından görme mümkün olmaktadır.
+Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir yer olan Anonim Türbe-3, Altındağ'da bulunmaktadır. Anonim Türbe-3'ün etrafındaki tarihi mekanlar, Ankara'nın zengin tarihinde önemli bir yer tutmaktadır. Burada, Ankara'nın kültürel ve tarihi değerlerini yakından görme mümkün olmaktadır.
 
 ## Tarihçe
 

@@ -34,7 +34,7 @@ Doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir par�
 
 ## Coğrafya
 
-Genel olarak Hawirok dağının konumu, coğrafyası ve fiziksel yapısı hakkında bilgi verilmesi gerekmektedir. 
+Genel olarak Hawirok dağının konumu, coğrafyası ve fiziksel yapısı hakkında bilgi verilmesi gerekmektedir.
 
 Hawirok dağının bulunduğu bölge, coğrafi olarak dağlık bir araziye sahiptir. Bu dağlık arazi, çeşitli jeolojik oluşumlar ve farklı yüksekliklere sahip alanlardan oluşmaktadır. Hawirok dağı, bu dağlık arazinin önemli bir parçasını oluşturur.
 

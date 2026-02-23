@@ -1,7 +1,7 @@
 ---
 title: "Çerkez İsa Bey Türbesi"
 date: "2026-01-10T05:20:35.584Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Yozgat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391709"
 
 # Çerkez İsa Bey Türbesi
 
-Çerkez İsa Bey Türbesi, İç Anadolu Bölgesi'nin Yozgat ilinin Çayıralan ilçesinde yer alan tarihi bir mekan olarak dikkat çekmektedir. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahiptir ve 200 futbol sahası büyüklüğüne eşittir. Çerkez İsa Bey Türbesi, çevresindeki doğal güzelliklerle birlikte bir bütün olarak değerlendirilmekte ve ziyaretçilerini tarihi ve doğası ile etkilemektedir. Özellikle ilkbahar ve yaz aylarında ziyaretçilerin ilgisini çeken bu mekan, yöresel flora ve fauna ile zengin bir ekosisteme sahiptir.
+Çerkez İsa Bey Türbesi, İç Anadolu Bölgesi'nin Yozgat ilinin Çayıralan ilçesinde yer alan tarihi bir mekan olarak dikkat çekmektedir. Çerkez İsa Bey Türbesi, çevresindeki doğal güzelliklerle birlikte bir bütün olarak değerlendirilmekte ve ziyaretçilerini tarihi ve doğası ile etkilemektedir. Özellikle ilkbahar ve yaz aylarında ziyaretçilerin ilgisini çeken bu mekan, yöresel flora ve fauna ile zengin bir ekosisteme sahiptir.
 
 ## Tarihçe
 

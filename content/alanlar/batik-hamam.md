@@ -1,7 +1,7 @@
 ---
 title: "Batık Hamam"
 date: "2026-01-09T23:24:00.088Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739030"
 
 # Batık Hamam
 
-Batık Hamam, Dalaman'da yer alan ve Muğla'nın saklı güzellerinden biri olarak bilinen bir plaj. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş ve yeşilliklerle dolu bir mekanla karşılar. Bu bölge, hem doğa severler hem de tarih meraklıları tarafından ilgi görüyor. Batık Hamam, tarihi ve coğrafi özellikleri ile ziyaretçilerini büyülüyor. Dalaman'ın bu güzel plajı, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Batık Hamam, Dalaman'da yer alan ve Muğla'nın saklı güzellerinden biri olarak bilinen bir plaj. Bu bölge, hem doğa severler hem de tarih meraklıları tarafından ilgi görüyor. Batık Hamam, tarihi ve coğrafi özellikleri ile ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Batık Hamam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Batık Hamam, Dalaman'da yer alan ve Muğla'nın en önemli coğrafi bölgelerinden biri olarak bilinen bir plaj. Bu bölge, Ege Bölgesi'nin güzelliklerini taşır ve ziyaretçilerini geniş ve yeşilliklerle dolu bir mekanla karşılar. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve yeşilliklerle dolu. Coğrafi olarak, Batık Hamam'ın bulunduğu bölge, dağların ve denizlerin bir araya geldiği bir noktada yer alıyor. Bu bölge, iklimi ve coğrafi yapısı ile birlikte, ziyaretçilerine çeşitli flora ve fauna örnekleri sunuyor. Batık Hamam, coğrafi özellikleri ile birlikte, ziyaretçilerine doğa yürüyüşleri, deniz etkinlikleri ve diğer outdoor aktiviteleri için ideal bir mekan sunuyor.
+Batık Hamam, Dalaman'da yer alan ve Muğla'nın en önemli coğrafi bölgelerinden biri olarak bilinen bir plaj. Bu bölge, Ege Bölgesi'nin güzelliklerini taşır ve ziyaretçilerini geniş ve yeşilliklerle dolu bir mekanla karşılar. Coğrafi olarak, Batık Hamam'ın bulunduğu bölge, dağların ve denizlerin bir araya geldiği bir noktada yer alıyor. Bu bölge, iklimi ve coğrafi yapısı ile birlikte, ziyaretçilerine çeşitli flora ve fauna örnekleri sunuyor. Batık Hamam, coğrafi özellikleri ile birlikte, ziyaretçilerine doğa yürüyüşleri, deniz etkinlikleri ve diğer outdoor aktiviteleri için ideal bir mekan sunuyor.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Batık Hamam, coğrafi özellikleri ile birlikte, ziyaretçilerine çeşitli flo
 
 ## Ziyaret Bilgileri
 
-Batık Hamam'a ziyaret için en uygun zaman, ilkbahar ve yaz aylarıdır. Bu dönemde, bölgeye özgü bitkiler ve çiçekler açar ve hava sıcaklığı ziyaretçilere uygun olur. Batık Hamam'a ulaşmak için, Dalaman'dan hareket eden toplu taşıma araçları veya özel araçlar kullanılabilir. Ziyaretçilerin, bölgeye gelirken, doğa yürüyüşleri, deniz etkinlikleri ve diğer outdoor aktiviteleri için olan malzemeleri yanlarında getirmeleri gerekir. Batık Hamam, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Batık Hamam'a ziyaret için en uygun zaman, ilkbahar ve yaz aylarıdır. Bu dönemde, bölgeye özgü bitkiler ve çiçekler açar ve hava sıcaklığı ziyaretçilere uygun olur. Batık Hamam'a ulaşmak için, Dalaman'dan hareket eden toplu taşıma araçları veya özel araçlar kullanılabilir. Ziyaretçilerin, bölgeye gelirken, doğa yürüyüşleri, deniz etkinlikleri ve diğer outdoor aktiviteleri için olan malzemeleri yanlarında getirmeleri gerekir.
 
 ## İlginç Bilgiler
 

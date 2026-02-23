@@ -29,7 +29,7 @@ wikidata_id: "Q31386103"
 
 # Akbaba Tepesi
 
-Akbaba Tepesi, Elazığ'ın güzergahında yer alan ve doğal güzelliği ile dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanın etrafında çeşitli bitki türleri bulunmakta. Tepenin eteklerinde, Elazığ'ın tarihi geçmişi hakkında bilgi edinilebilecek birkaç eser yer almakta. Tepenin zirvesine ulaştığınızda, size sunulan manzara, gözlerinizi genişletece ve doğanın güzelliğini hissettirecek.
+Akbaba Tepesi, Elazığ'ın güzergahında yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Tepenin eteklerinde, Elazığ'ın tarihi geçmişi hakkında bilgi edinilebilecek birkaç eser yer almakta. Tepenin zirvesine ulaştığınızda, size sunulan manzara, gözlerinizi genişletece ve doğanın güzelliğini hissettirecek.
 
 ## Tarihçe
 

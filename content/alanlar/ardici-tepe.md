@@ -28,7 +28,7 @@ wikidata_id: "Q32129261"
 
 # Ardıçı Tepe
 
-Ardıçı Tepe, Erzurum'un doğal güzelliklerinden biri olarak ziyaretçilerini ağırlıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Ardıçı Tepe, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiş bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepe, aynı zamanda şehre hakim bir konumda bulunduğundan, Erzurum'un panoramik manzarasını izlemek için de ziyaret edilebilir.
+Ardıçı Tepe, Erzurum'un doğal güzelliklerinden biri olarak ziyaretçilerini ağırlıyor. Ardıçı Tepe, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiş bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepe, aynı zamanda şehre hakim bir konumda bulunduğundan, Erzurum'un panoramik manzarasını izlemek için de ziyaret edilebilir.
 
 ## Tarihçe
 

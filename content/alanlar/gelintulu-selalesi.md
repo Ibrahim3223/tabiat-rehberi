@@ -30,7 +30,7 @@ wikidata_id: "Q61076474"
 
 # Gelintülü Şelalesi
 
-Gelintülü Şelalesi, Rize'nin Çamlıhemşin ilçesinde yer alan ve doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, çeşitli bitki türleri ile zengin bir fauna sunuyor. Şelalenin güzelliği, özellikle bahar aylarında, doğanın uyanışıyla birlikte daha da belirginleşiyor. Bu bölge, hem doğa severler hem de macera tutkunları için ideal bir yer.
+Gelintülü Şelalesi, Rize'nin Çamlıhemşin ilçesinde yer alan ve doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyon. Şelalenin güzelliği, özellikle bahar aylarında, doğanın uyanışıyla birlikte daha da belirginleşiyor. Bu bölge, hem doğa severler hem de macera tutkunları için ideal bir yer.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gelintülü Şelalesi, tarihsel geçmişi ile de dikkat çekiyor. Yüzyıllar bo
 
 ## Coğrafya
 
-Gelintülü Şelalesi, coğrafi konumu itibariyle de dikkat çekici bir yer. Rize'nin Çamlıhemşin ilçesinde yer alan şelale, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturuyor. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam sunuyor. Şelale, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve bu bölgede, ziyaretçilerin doğayı ve güzelliği deneyimlemesi için geniş bir alan mevcut. Gelintülü Şelalesi, özellikle bahar ve yaz aylarında ziyaret ediliyor, çünkü bu mevsimlerde doğanın güzelliği en belirgin haliyle ortaya çıkıyor. Bölgenin iklimi, Karadeniz ikliminin característicasını taşıyor ve bu, bitki örtüsü ve fauna için uygun koşulları sağlıyor.
+Gelintülü Şelalesi, coğrafi konumu itibariyle de dikkat çekici bir yer. Rize'nin Çamlıhemşin ilçesinde yer alan şelale, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturuyor. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam sunuyor. Gelintülü Şelalesi, özellikle bahar ve yaz aylarında ziyaret ediliyor, çünkü bu mevsimlerde doğanın güzelliği en belirgin haliyle ortaya çıkıyor. Bölgenin iklimi, Karadeniz ikliminin característicasını taşıyor ve bu, bitki örtüsü ve fauna için uygun koşulları sağlıyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Gelintülü Şelalesi'ni ziyaret etmek, özellikle doğa severler ve macera tutk
 ## İlginç Bilgiler
 
 - Gelintülü Şelalesi, Rize'nin turizm potansiyelini gösteren önemli bir destinasyon.
-- Şelale, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Bölge, çeşitli bitki türleri ve fauna ile zengin.
 - Gelintülü Şelalesi, özellikle bahar aylarında ziyaret ediliyor.
 - Şelale, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturuyor.

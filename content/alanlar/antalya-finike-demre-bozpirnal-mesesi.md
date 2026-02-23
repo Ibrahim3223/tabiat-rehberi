@@ -22,7 +22,7 @@ wikidata_id: "Q108228571"
 
 # Antalya-Finike-Demre-Bozpirnal Mesesi
 
-Antalya-Finike-Demre-Bozpirnal Mesesi, Akdeniz Bölgesi'nin en çekici noktalarından biri olarak ziyaretçilerini ağırlıyor. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğal alan sunuyor. Bu milli park, Finike ilçesinin merkezine uzun bir mesafe uzaklıkta yer alıyor ve kolay ulaşılabilir olmasıyla da dikkat çekiyor. Doğal güzellikleri, tarihi değerleri ve zengin ekosistemiyle Bozpirnal Mesesi, her yıl binlerce ziyaretçiyi ağırlıyor.
+Antalya-Finike-Demre-Bozpirnal Mesesi, Akdeniz Bölgesi'nin en çekici noktalarından biri olarak ziyaretçilerini ağırlıyor. Bu milli park, Finike ilçesinin merkezine uzun bir mesafe uzaklıkta yer alıyor ve kolay ulaşılabilir olmasıyla da dikkat çekiyor. Doğal güzellikleri, tarihi değerleri ve zengin ekosistemiyle Bozpirnal Mesesi, her yıl binlerce ziyaretçiyi ağırlıyor.
 
 ## Tarihçe
 

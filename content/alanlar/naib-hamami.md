@@ -1,7 +1,7 @@
 ---
 title: "Naib Hamamı"
 date: "2026-01-09T22:11:50.644Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -30,7 +30,7 @@ wikidata_id: "Q6006443"
 
 # Naib Hamamı
 
-Naib Hamamı, Gaziantep'in merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. Naib Hamamı, özellikle yaz aylarında serinleme ve tarihi mekanları keşfetmek isteyenler için ideal bir destinasyon.
+Naib Hamamı, Gaziantep'in merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir plajdır. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. Naib Hamamı, özellikle yaz aylarında serinleme ve tarihi mekanları keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Naib Hamamı, Gaziantep'in tarihindeki önemli mekanlardan biridir. Tarihi geçm
 
 ## Coğrafya
 
-Naib Hamamı, Gaziantep'in güneyinde yer alan bir plajdır. Bu bölge, güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. İklimi, yazları sıcak ve kurak, kışları ılıman ve yağışlı olan bir bölgede yer alıyor. Naib Hamamı, çevresindeki dağlarla çevrili ve bu dağlar, plaja doğal bir güzellik katıyor. Plajın bulunduğu alan, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerine rahat ve konforlu bir ortam sunuyor. Naib Hamamı, doğal güzellikleri ve tarihi mekanları ile ziyaretçilerini cezbediyor.
+Naib Hamamı, Gaziantep'in güneyinde yer alan bir plajdır. Bu bölge, güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. İklimi, yazları sıcak ve kurak, kışları ılıman ve yağışlı olan bir bölgede yer alıyor. Naib Hamamı, çevresindeki dağlarla çevrili ve bu dağlar, plaja doğal bir güzellik katıyor. Bu geniş alan, ziyaretçilerine rahat ve konforlu bir ortam sunuyor. Naib Hamamı, doğal güzellikleri ve tarihi mekanları ile ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 
@@ -46,7 +46,7 @@ Naib Hamamı, çevresindeki doğal güzelliklere sahip bir bölgede yer alıyor.
 
 ## Ziyaret Bilgileri
 
-Naib Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, en iyi ziyaret dönemi, yaz aylarıdır. Bu dönemde, plajın güzellikleri ve serinliği, ziyaretçilerini bekliyor. Naib Hamamı'na ulaşmak, Gaziantep merkezinden kolayca sağlanabilir. Toplu taşıma veya özel araçlarla, plaja rahatça ulaşılabilir. Ziyaretçiler, plajda çeşitli etkinlikler yapabilir ve doğayı keşfedebilir. Naib Hamamı, ziyaretçilerine unutulmaz anlar yaşatmak için, her türlü imkan sunuyor.
+Naib Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, en iyi ziyaret dönemi, yaz aylarıdır. Bu dönemde, plajın güzellikleri ve serinliği, ziyaretçilerini bekliyor. Naib Hamamı'na ulaşmak, Gaziantep merkezinden kolayca sağlanabilir. Toplu taşıma veya özel araçlarla, plaja rahatça ulaşılabilir. Ziyaretçiler, plajda çeşitli etkinlikler yapabilir ve doğayı keşfedebilir.
 
 ## İlginç Bilgiler
 

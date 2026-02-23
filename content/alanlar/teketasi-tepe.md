@@ -28,7 +28,7 @@ wikidata_id: "Q31389418"
 
 # Teketaşı Tepe
 
-Teketaşı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan önemli bir doğa alanıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bölgenin en önemli doğal güzelliklerinden biridir. Teketaşı Tepe, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle etkilemeyi amaçlar. Bu tepe, bölgenin coğrafi yapısını ve flora/faunayı gözlemlemek için ideal bir noktadır.
+Teketaşı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan önemli bir doğa alanıdır. Teketaşı Tepe, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle etkilemeyi amaçlar. Bu tepe, bölgenin coğrafi yapısını ve flora/faunayı gözlemlemek için ideal bir noktadır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31535160"
 
 # Iskındık Tepesi
 
-Iskındık Tepesi, Akdeniz Bölgesi'nin güzide illerinden Hatay'da yer alan bir tepe. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri, ziyaretçilere hem gözlemlenecek hem de fotoğraflanacak birçok güzellik sunuyor. Iskındık Tepesi, aynı zamanda tarihsel bir geçmişi de bünyesinde barındırıyor. Bu tepenin tarihi geçmişini keşfetmek, ziyaretçilerin bölge hakkında daha fazla bilgi edinmesini sağlıyor.
+Iskındık Tepesi, Akdeniz Bölgesi'nin güzide illerinden Hatay'da yer alan bir tepe. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri, ziyaretçilere hem gözlemlenecek hem de fotoğraflanacak birçok güzellik sunuyor. Iskındık Tepesi, aynı zamanda tarihsel bir geçmişi de bünyesinde barındırıyor. Bu tepenin tarihi geçmişini keşfetmek, ziyaretçilerin bölge hakkında daha fazla bilgi edinmesini sağlıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Iskındık Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yap
 
 ## Coğrafya
 
-Iskındık Tepesi, Hatay ilinin coğrafi yapısını gösteren önemli bir nokta. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin zirvesinden, Akdeniz Bölgesi'nin güzide manzaralarını izleme mümkün. Tepenin surroundingsında, çeşitli bitki türleri ve fauna bulunmakta. Iskındık Tepesi, coğrafi olarak önemli bir bölge. Tepenin eteklerinde ve zirvesinde, çeşitli iklim şartlarına uyarlanabilen bitki türleri bulunmakta. Iskındık Tepesi, coğrafi yapısı ve iklimi ile, ziyaretçilere birçok güzellik sunuyor. Bu tepe, aynı zamanda, Akdeniz Bölgesi'nin coğrafi özelliklerini gösteren önemli bir nokta.
+Iskındık Tepesi, Hatay ilinin coğrafi yapısını gösteren önemli bir nokta. Tepenin zirvesinden, Akdeniz Bölgesi'nin güzide manzaralarını izleme mümkün. Tepenin surroundingsında, çeşitli bitki türleri ve fauna bulunmakta. Iskındık Tepesi, coğrafi olarak önemli bir bölge. Tepenin eteklerinde ve zirvesinde, çeşitli iklim şartlarına uyarlanabilen bitki türleri bulunmakta. Iskındık Tepesi, coğrafi yapısı ve iklimi ile, ziyaretçilere birçok güzellik sunuyor. Bu tepe, aynı zamanda, Akdeniz Bölgesi'nin coğrafi özelliklerini gösteren önemli bir nokta.
 
 ## Flora ve Fauna
 

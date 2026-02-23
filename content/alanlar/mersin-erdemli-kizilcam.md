@@ -23,7 +23,7 @@ wikidata_id: "Q108228533"
 
 # Mersin-Erdemli-Kizilcam
 
-Mersin-Erdemli-Kizilcam Milli Parkı, Akdeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Mersin'in Erdemli ilçesinde bulunan bu doğa harikası, yıl boyunca birçok ziyaretçi çekiyor. Kızılcam Milli Parkı, hem doğa severler hem de tarihi geçmişe ilgi duyanlar için ideal bir gezi noktası.
+Mersin-Erdemli-Kizilcam Milli Parkı, Akdeniz Bölgesi'nin en güzel köşelerinden biri. Bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Mersin'in Erdemli ilçesinde bulunan bu doğa harikası, yıl boyunca birçok ziyaretçi çekiyor. Kızılcam Milli Parkı, hem doğa severler hem de tarihi geçmişe ilgi duyanlar için ideal bir gezi noktası.
 
 ## Tarihçe
 

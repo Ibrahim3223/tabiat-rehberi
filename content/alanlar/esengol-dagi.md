@@ -50,9 +50,9 @@ Doğal güzelliği ile dikkat çeken Eşengöl Dağı, Van'ın coğrafi yapısı
 
 ## Flora ve Fauna
 
-Eşengöl Dağı, Van'ın yüksek dağ ekolojisini barındıran bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamacındaki alpin çayırlar renkli bir hal alır. Çiçekler açmaya başlar ve dağ, bir gökkuşağı gibi renklenir. 
+Eşengöl Dağı, Van'ın yüksek dağ ekolojisini barındıran bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamacındaki alpin çayırlar renkli bir hal alır. Çiçekler açmaya başlar ve dağ, bir gökkuşağı gibi renklenir.
 
-Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Bu bitkiler, dağın yükseklik zonlarına göre değişir. Yüksek bölgelerde, daha az oksijen içeren havada, dayanıklı ve Adaptasyon yeteneği yüksek bitkiler bulunur. Mevsimsel değişimlerle birlikte, dağda yaşayan hayvanlar da değişir. Sonbaharda, göçmen kuşlar dağdan geçer ve ilkbaharda tekrar geri döner. 
+Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Bu bitkiler, dağın yükseklik zonlarına göre değişir. Yüksek bölgelerde, daha az oksijen içeren havada, dayanıklı ve Adaptasyon yeteneği yüksek bitkiler bulunur. Mevsimsel değişimlerle birlikte, dağda yaşayan hayvanlar da değişir. Sonbaharda, göçmen kuşlar dağdan geçer ve ilkbaharda tekrar geri döner.
 
 Dağda yaşayan memeliler arasında various yaban hayvanları bulunur. Bu hayvanlar, dağın yükseklik zonlarına göre yaşam alanlarını belirler. Örneğin, daha yüksek bölgelerde, dağ keçileri gibi dayanıklı hayvanlar bulunur. Sürüngenler de dağda yaşar ve genellikle kayalık alanlarda görülür. Eşengöl Dağı, yüksek dağ ekolojisini koruma altına almak açısından önemli bir bölge. Bu alanın korunması, bölgedeki canlıların yaşam alanlarını koruma ve ekolojik dengenin korunmasına katkı sağlar.
 

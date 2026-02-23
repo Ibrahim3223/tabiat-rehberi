@@ -28,7 +28,7 @@ wikidata_id: "Q31390231"
 
 # Deliiskan Tepesi
 
-Deliiskan Tepesi, Burdur'un sınırları içerisinde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini karşılayacak şekilde tasarlanmış. Deliiskan Tepesi, özellikle doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, doğanın içerisinde huzurlu bir atmosferde zaman geçirebilir ve çevrenin güzelliğini keşfedebilirsiniz. Deliiskan Tepesi, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir merkez.
+Deliiskan Tepesi, Burdur'un sınırları içerisinde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. Deliiskan Tepesi, özellikle doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, doğanın içerisinde huzurlu bir atmosferde zaman geçirebilir ve çevrenin güzelliğini keşfedebilirsiniz. Deliiskan Tepesi, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir merkez.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Deliiskan Tepesi'ni ziyaret etmek, özellikle doğal güzelliklerini keşfetmek 
 ## İlginç Bilgiler
 
 - Deliiskan Tepesi, 140 hektarlık bir alana sahiptir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Deliiskan Tepesi, Burdur'un coğrafi yapısını etkileyen önemli bir tepe.
 - Bu bölge, flora ve fauna açısından zengin bir çeşitlilik sunar.
 - Deliiskan Tepesi, özellikle kuş gözlemcileri ve doğa severler için ideal bir destinasyon.

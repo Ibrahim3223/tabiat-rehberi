@@ -28,7 +28,7 @@ wikidata_id: "Q31535572"
 
 # Domuzcu Tepesi
 
-Domuzcu Tepesi, Hatay ilinin güzide bir bölgesinde yer alan ve yaklaşık 140 hektarlık alanıyla etwa 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu bölge, ziyaretçilerini etkileyici manzarasıyla ve zengin doğasıyla karşılar. Hatay'ın Akdeniz Bölgesi'nde bulunan bu tepenin yüksekliği ve genişliği, burayı bir doğa severin hayalini süsleyen bir yer haline getirir. Ziyaretçilerin, bu bölgeyi keşfetmeleri ve doğanın güzelliğini görmeleri için birçok olanak sunar.
+ Bu bölge, ziyaretçilerini etkileyici manzarasıyla ve zengin doğasıyla karşılar. Hatay'ın Akdeniz Bölgesi'nde bulunan bu tepenin yüksekliği ve genişliği, burayı bir doğa severin hayalini süsleyen bir yer haline getirir. Ziyaretçilerin, bu bölgeyi keşfetmeleri ve doğanın güzelliğini görmeleri için birçok olanak sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Domuzcu Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyetin ya�
 
 ## Coğrafya
 
-Domuzcu Tepesi, coğrafi açıdan bakıldığında, Hatay ilinin Akdeniz Bölgesi'nde yer alır. Bu bölge, 140 hektarlık alanıyla etwa 200 futbol sahası büyüklüğünde olup, yüksekliği ve genişliğiyle dikkat çeker. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, mevsimsel değişimlere bağlı olarak, farklı canlı türleri ve bitkiler yetişir. Domuzcu Tepesi, coğrafi konumu itibariyle, bir doğa harikasıdır ve ziyaretçilerini etkileyici manzarasıyla karşılar. Bu bölgede, ziyaretçiler, doğanın güzelliğini ve çeşitliliğini görebilir. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunar ve burayı bir doğa severin hayalini süsleyen bir yer haline getirir.
+Domuzcu Tepesi, coğrafi açıdan bakıldığında, Hatay ilinin Akdeniz Bölgesi'nde yer alır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, mevsimsel değişimlere bağlı olarak, farklı canlı türleri ve bitkiler yetişir. Domuzcu Tepesi, coğrafi konumu itibariyle, bir doğa harikasıdır ve ziyaretçilerini etkileyici manzarasıyla karşılar. Bu bölgede, ziyaretçiler, doğanın güzelliğini ve çeşitliliğini görebilir. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunar ve burayı bir doğa severin hayalini süsleyen bir yer haline getirir.
 
 ## Flora ve Fauna
 

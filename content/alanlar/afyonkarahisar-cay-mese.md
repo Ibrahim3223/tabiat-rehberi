@@ -1,7 +1,7 @@
 ---
 title: "Afyonkarahisar-Cay Mese"
 date: "2026-01-09T18:15:09.822Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Afyonkarahisar"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227705"
 
 # Afyonkarahisar-Cay Mese
 
-Afyonkarahisar'da yer alan Cay Mese Milli Parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, zengin fauna çeşitliliği ile ziyaretçilerini etkilemektedir. Cay Mese Milli Parkı, doğal güzellikleri ve tarihi geçmişi ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+Afyonkarahisar'da yer alan Cay Mese Milli Parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. Cay Mese Milli Parkı, doğal güzellikleri ve tarihi geçmişi ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Cay Mese Milli Parkı, yüzyıllar boyunca doğal güzellikleri ile dikkat çekm
 
 ## Coğrafya
 
-Cay Mese Milli Parkı, Ege Bölgesi'nde yer alan Afyonkarahisar ilinde bulunmaktadır. Milli park, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Parkın coğrafi yapısı, dağlar, vadiler ve ova gibi farklı toprak şekillerini içermektedir. Cay Mese Milli Parkı, iklim açısından ılıman bir bölgede yer almaktadır. Parkın iklimi, yazları sıcak ve kuru, kışları soğuk ve yağışlıdır. Milli park, flora ve fauna açısından zengin bir çeşitlilik sunmaktadır. Parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+Cay Mese Milli Parkı, Ege Bölgesi'nde yer alan Afyonkarahisar ilinde bulunmaktadır. Parkın coğrafi yapısı, dağlar, vadiler ve ova gibi farklı toprak şekillerini içermektedir. Cay Mese Milli Parkı, iklim açısından ılıman bir bölgede yer almaktadır. Parkın iklimi, yazları sıcak ve kuru, kışları soğuk ve yağışlıdır. Milli park, flora ve fauna açısından zengin bir çeşitlilik sunmaktadır. Parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## Flora ve Fauna
 

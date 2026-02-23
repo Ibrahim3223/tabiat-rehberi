@@ -22,7 +22,7 @@ wikidata_id: "Q108227682"
 
 # Kastamonu-Golkoy Piramidal Karacam
 
-Kastamonu-Golkoy Piramidal Karacam, Karadeniz Bölgesi'nin güzide illerinden Kastamonu'da yer alır. 140 hektarlık bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölgenin doğal güzelliği, ziyaretçilerini etkileyen bir atmosfere sahiptir. Kastamonu'nun coğrafi yapısı, milli parkın oluşumunda önemli bir rol oynamıştır. Burada, yaban hayatının çeşitliliği ve flora, ziyaretçilere benzersiz bir deneyim sunar.
+Kastamonu-Golkoy Piramidal Karacam, Karadeniz Bölgesi'nin güzide illerinden Kastamonu'da yer alır. Bu bölgenin doğal güzelliği, ziyaretçilerini etkileyen bir atmosfere sahiptir. Kastamonu'nun coğrafi yapısı, milli parkın oluşumunda önemli bir rol oynamıştır. Burada, yaban hayatının çeşitliliği ve flora, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Tarihçe
 

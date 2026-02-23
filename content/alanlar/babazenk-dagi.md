@@ -48,11 +48,11 @@ Mevsimsel değişimlerin yaşandığı Babazenk Dağı, iklimsel olarak karasal 
 
 ## Flora ve Fauna
 
-Babazenk Dağı, Van'ın yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Babazenk Dağı, Van'ın yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünü oluşturan alpin çayırlar, ilkbaharda renkli çiçeklerle donanırken, sonbaharda göç eden kuşların konaklama alanı haline geliyor. Dağın yükseklik zonlarında, endemik türler ve alpin flora hakimdir. 
+Bitki örtüsünü oluşturan alpin çayırlar, ilkbaharda renkli çiçeklerle donanırken, sonbaharda göç eden kuşların konaklama alanı haline geliyor. Dağın yükseklik zonlarında, endemik türler ve alpin flora hakimdir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri ve yaban keçileri, dağların zorlu koşullarına adapte olmuş canlılardır. Kuşlar, özellikle göç mevsimlerinde, dağların yüksek kesimlerini kullanıyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri ve yaban keçileri, dağların zorlu koşullarına adapte olmuş canlılardır. Kuşlar, özellikle göç mevsimlerinde, dağların yüksek kesimlerini kullanıyor.
 
 Ekolojik değerini koruma altına almak, bu dağ ekosistemini gelecekteki nesiller için korumak anlamına geliyor. Babazenk Dağı, Van'ın yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır ve koruma altına alınarak gelecekteki nesiller için korunmalıdır.
 

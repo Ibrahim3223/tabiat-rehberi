@@ -1,7 +1,7 @@
 ---
 title: "Gök Tepe (Afyonkarahisar)"
 date: "2026-01-09T06:30:34.498Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Afyonkarahisar"
@@ -33,7 +33,7 @@ Afyonkarahisar'ın dağlık bölgesinde yer alan Gök Tepe, ilin doğal güzelli
 
 ## Tarihçe
 
-Gök Tepe, Afyonkarahisar'ın doğal güzellikleriyle bilinen bir bölgesinde yer alıyor. Bu bölge, tarihin sâu izlerini taşıyor. Afyonkarahisar, histórik olarak önemli uygarlıkların geçiş noktalarından biri olarak biliniyor. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, bu topraklarda izlerini bırakmışlar. 
+Gök Tepe, Afyonkarahisar'ın doğal güzellikleriyle bilinen bir bölgesinde yer alıyor. Bu bölge, tarihin derin izlerini taşıyor. Afyonkarahisar, tarihi olarak önemli uygarlıkların geçiş noktalarından biri olarak biliniyor. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, bu topraklarda izlerini bırakmışlar.
 
 Bu doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunun önemli bir parçası. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisinin önemli yönlerini oluşturuyor. Gök Tepe ve benzeri doğal güzellikler, sadece görsel bir çekicilik değil, aynı zamanda insan faaliyetlerinin önemli bir bileşeni olarak görülüyor.
 
@@ -51,7 +51,7 @@ Gök Tepe, çevresindeki doğal güzelliklerle bağlantılı bir ekosistem içer
 
 ## Flora ve Fauna
 
-Gök Tepe (Afyonkarahisar), Akdeniz ikliminin etkilerini taşıyan bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapar. 
+Gök Tepe (Afyonkarahisar), Akdeniz ikliminin etkilerini taşıyan bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapar.
 
 Bitki Örtüsü olarak, zeytinlikler ve çam ormanları bu bölgenin karakterini belirler. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Çam ağaçlarının arasında, çeşitli otsu bitkiler ve yükseklik zonlarına özgü alpin flora ortaya çıkar.
 

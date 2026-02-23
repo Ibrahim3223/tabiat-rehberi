@@ -1,7 +1,7 @@
 ---
 title: "Çandarlı Kara Halil Hayrettin Paşa Türbesi"
 date: "2026-01-10T06:22:02.194Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390725"
 
 # Çandarlı Kara Halil Hayrettin Paşa Türbesi
 
-Çandarlı Kara Halil Hayrettin Paşa Türbesi, İznik'te yer alan ve Marmara Bölgesi'nin önemli tarihi ve turistik noktalarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunar. İznik Gölü'nün kıyısında bulunan bu türbe, doğal güzelliği ve tarihi önemi ile dikkat çekmektedir. Türbenin çevresindeki peyzaj, çeşitli ağaç türleri ve çiçeklerle süslenmiştir. Bu bölge, hem tarihi hem de doğal güzelliği ile ziyaretçilere benzersiz bir deneyim sunmaktadır.
+Çandarlı Kara Halil Hayrettin Paşa Türbesi, İznik'te yer alan ve Marmara Bölgesi'nin önemli tarihi ve turistik noktalarından biridir. İznik Gölü'nün kıyısında bulunan bu türbe, doğal güzelliği ve tarihi önemi ile dikkat çekmektedir. Türbenin çevresindeki peyzaj, çeşitli ağaç türleri ve çiçeklerle süslenmiştir. Bu bölge, hem tarihi hem de doğal güzelliği ile ziyaretçilere benzersiz bir deneyim sunmaktadır.
 
 ## Tarihçe
 

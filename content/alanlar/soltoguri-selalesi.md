@@ -28,7 +28,7 @@ wikidata_id: "Q97213387"
 
 # Şoltoğuri Şelalesi
 
-Şoltoğuri Şelalesi, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu bölgede yer alan şelale, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Şelalenin güzelliği, çevreyi saran yeşilli ve suyun sesi ile birleşerek ziyaretçilerini büyülüyor. Doğa severler için bir cennet olan Şoltoğuri Şelalesi, hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetmek isteyenler için ideal bir destinasyon.
+Şoltoğuri Şelalesi, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Şelalenin güzelliği, çevreyi saran yeşilli ve suyun sesi ile birleşerek ziyaretçilerini büyülüyor. Doğa severler için bir cennet olan Şoltoğuri Şelalesi, hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

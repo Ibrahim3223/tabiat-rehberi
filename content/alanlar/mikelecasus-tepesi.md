@@ -28,7 +28,7 @@ wikidata_id: "Q31388080"
 
 # Mikelecasus Tepesi
 
-Mikelecasus Tepesi, Van ilinin önemli noktalarından biri olarak karşımıza çıkıyor. Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepenin etrafında bulunan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Mikelecasus Tepesi, yıl boyunca çeşitli mevsimlerle ziyaret edilebilir ve her mevsim farklı güzellikler sunar. İlkbaharın yeşilliği, yazın sıcakklığı, sonbaharın renk cümbüşü ve kışın karlı manzarası, bu tepeyi her daim özel kılar.
+Mikelecasus Tepesi, Van ilinin önemli noktalarından biri olarak karşımıza çıkıyor. Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Mikelecasus Tepesi, yıl boyunca çeşitli mevsimlerle ziyaret edilebilir ve her mevsim farklı güzellikler sunar. İlkbaharın yeşilliği, yazın sıcakklığı, sonbaharın renk cümbüşü ve kışın karlı manzarası, bu tepeyi her daim özel kılar.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Mikelecasus Tepesi, tarihsel geçmişi ile de dikkat çekiyor. Bu bölgede yapı
 
 ## Coğrafya
 
-Mikelecasus Tepesi, coğrafi konumu itibariyle oldukça önemli bir noktada yer alıyor. Doğu Anadolu Bölgesi'nin Van ilinde bulunan bu tepe, bölgenin coğrafi yapısını temsil ediyor. 140 hektarlık bir alanı kaplayan Mikelecasus Tepesi, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş bir doğal alan sunuyor. Tepenin etrafında bulunan dağlar, vadiler ve ovalar, bölgenin coğrafi çeşitliliğini gösteriyor. Mikelecasus Tepesi, yıl boyunca farklı iklim koşullarına sahip. Kışın kar yağışı, ilkbaharın yeşilliği, yazın sıcakklığı ve sonbaharın renk cümbüşü, bu tepeyi her mevsim ayrı bir güzelliğe sahip kılar. Mikelecasus Tepesi, coğrafi olarak zengin bir bölgede yer alıyor ve ziyaretçilerine çeşitli doğal güzellikler sunuyor.
+Mikelecasus Tepesi, coğrafi konumu itibariyle oldukça önemli bir noktada yer alıyor. Doğu Anadolu Bölgesi'nin Van ilinde bulunan bu tepe, bölgenin coğrafi yapısını temsil ediyor. Tepenin etrafında bulunan dağlar, vadiler ve ovalar, bölgenin coğrafi çeşitliliğini gösteriyor. Mikelecasus Tepesi, yıl boyunca farklı iklim koşullarına sahip. Kışın kar yağışı, ilkbaharın yeşilliği, yazın sıcakklığı ve sonbaharın renk cümbüşü, bu tepeyi her mevsim ayrı bir güzelliğe sahip kılar. Mikelecasus Tepesi, coğrafi olarak zengin bir bölgede yer alıyor ve ziyaretçilerine çeşitli doğal güzellikler sunuyor.
 
 ## Flora ve Fauna
 
-Mikelecasus Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Bu tepenin etrafında bulunan 140 hektarlık alan, çeşitli bitki türleri ile kaplı. İlkbaharın gelmesi ile birlikte, bu bölgede bulunan bitkiler yeşilleniyor ve renkli çiçekler açıyor. yazın sıcakklığı, bitki örtüsünün gelişmesine yardımcı oluyor. Sonbaharın renk cümbüşü, bu bölgenin güzelliğini artırıyor. Mikelecasus Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Bu bölgede, özellikle kuş türleri ve diğer küçük hayvanlar yaşamlarını sürdürüyor. Mikelecasus Tepesi, doğa severler için bir cennet olarak kabul ediliyor.
+ Bu tepenin etrafında bulunan 140 hektarlık alan, çeşitli bitki türleri ile kaplı. İlkbaharın gelmesi ile birlikte, bu bölgede bulunan bitkiler yeşilleniyor ve renkli çiçekler açıyor. yazın sıcakklığı, bitki örtüsünün gelişmesine yardımcı oluyor. Sonbaharın renk cümbüşü, bu bölgenin güzelliğini artırıyor. Mikelecasus Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Bu bölgede, özellikle kuş türleri ve diğer küçük hayvanlar yaşamlarını sürdürüyor. Mikelecasus Tepesi, doğa severler için bir cennet olarak kabul ediliyor.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,7 @@ Mikelecasus Tepesi, ziyaretçilerini bekliyor. Bu tepeye nasıl gidileceği konu
 ## İlginç Bilgiler
 
 - Mikelecasus Tepesi, 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Mikelecasus Tepesi, doğa severler için bir cennet.
 - Bu tepe, yıl boyunca çeşitli mevsimlerle ziyaret edilebilir.
 - Mikelecasus Tepesi, tarihsel geçmişi ile de dikkat çekiyor.

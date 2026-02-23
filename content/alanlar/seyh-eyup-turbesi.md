@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Eyüp Türbesi"
 date: "2026-01-10T05:32:07.775Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391400"
 
 # Şeyh Eyüp Türbesi
 
-Şeyh Eyüp Türbesi, Konya'nın Akşehir ilçesinde yer alan bir tarihi yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şeyh Eyüp Türbesi, tarihi ve kültürel önemi nedeniyle önemli bir turistik destinasyondur. Türbenin etrafındaki doğal güzellikler, ziyaretçilere huzurlu bir atmosfer sunar. Akşehir'in tarihi geçmişi, Şeyh Eyüp Türbesi ile birlikte zengin bir kültürel mirası temsil eder.
+Şeyh Eyüp Türbesi, Konya'nın Akşehir ilçesinde yer alan bir tarihi yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Türbenin etrafındaki doğal güzellikler, ziyaretçilere huzurlu bir atmosfer sunar. Akşehir'in tarihi geçmişi, Şeyh Eyüp Türbesi ile birlikte zengin bir kültürel mirası temsil eder.
 
 ## Tarihçe
 

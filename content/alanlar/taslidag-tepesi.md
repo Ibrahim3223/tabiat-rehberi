@@ -28,7 +28,7 @@ wikidata_id: "Q31537390"
 
 # Taşlıdağ Tepesi
 
-Taşlıdağ Tepesi, Gaziantep'in doğal güzelliklerinden biri olarak ön plana çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Taşlıdağ Tepesi'nin yüksekliği ve genişliği, ziyaretçilerine geniş bir manzara sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bölgede, yaban hayatı da oldukça zengin. Taşlıdağ Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
+Taşlıdağ Tepesi, Gaziantep'in doğal güzelliklerinden biri olarak ön plana çıkıyor. Taşlıdağ Tepesi'nin yüksekliği ve genişliği, ziyaretçilerine geniş bir manzara sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bölgede, yaban hayatı da oldukça zengin. Taşlıdağ Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
 
 ## Tarihçe
 

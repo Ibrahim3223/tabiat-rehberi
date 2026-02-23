@@ -28,7 +28,7 @@ wikidata_id: "Q31390494"
 
 # Damlarca Tepesi
 
-Damlarca Tepesi, Konya ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Damlarca Tepesi, ziyaretçilerini doğanın güzelliği ve zengin fauna ile karşılar. Bu bölge, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+Damlarca Tepesi, Konya ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çeken bir tepe. Damlarca Tepesi, ziyaretçilerini doğanın güzelliği ve zengin fauna ile karşılar. Bu bölge, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228741"
 
 # TERMAL
 
-TERMAL, İç Anadolu Bölgesi'nin srdce bir bölgesinde yer alan, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, şifalı suları ve doğal güzellikleri ile ziyaretçilerini büyülüyor. Bu bölge, yüzyıllar boyunca insanların sağlık ve huzur arayışının merkezi olmuştur. TERMAL'in eşsiz doğal güzellikleri, ziyaretçilerini doğayla baş başa bırakırken, şifalı suları da insanları rahatlatmaya ve tedavi etmeye devam ediyor. Bu bölge, yılın her dönemi ziyaret edilebilir ve her mevsim farklı bir güzelliği sunar.
+ Bu bölge, yüzyıllar boyunca insanların sağlık ve huzur arayışının merkezi olmuştur. TERMAL'in eşsiz doğal güzellikleri, ziyaretçilerini doğayla baş başa bırakırken, şifalı suları da insanları rahatlatmaya ve tedavi etmeye devam ediyor. Bu bölge, yılın her dönemi ziyaret edilebilir ve her mevsim farklı bir güzelliği sunar.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ TERMAL'in tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu bölge, tar
 
 ## Coğrafya
 
-TERMAL, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir bölgesinde yer almaktadır. Bu bölge, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, şifalı suları ve doğal güzellikleri ile ön plana çıkmaktadır. TERMAL'in coğrafi yapısı, ziyaretçilerine çeşitli aktiviteler sunmaktadır. Bu bölge, yılın her dönemi ziyaret edilebilir ve her mevsim farklı bir güzelliği sunar. TERMAL'in iklimi, karasal iklim özellikleri göstermektedir. Bu bölge, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı geçmektedir. TERMAL'in coğrafi konumu, ziyaretçilerine çeşitli faaliyetler sunmaktadır. Bu bölge, trekking, doğa yürüyüşü, kamp gibi çeşitli aktiviteler için ideal bir yerdir.
+TERMAL, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir bölgesinde yer almaktadır. TERMAL'in coğrafi yapısı, ziyaretçilerine çeşitli aktiviteler sunmaktadır. Bu bölge, yılın her dönemi ziyaret edilebilir ve her mevsim farklı bir güzelliği sunar. TERMAL'in iklimi, karasal iklim özellikleri göstermektedir. Bu bölge, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı geçmektedir. TERMAL'in coğrafi konumu, ziyaretçilerine çeşitli faaliyetler sunmaktadır. Bu bölge, trekking, doğa yürüyüşü, kamp gibi çeşitli aktiviteler için ideal bir yerdir.
 
 ## Flora ve Fauna
 

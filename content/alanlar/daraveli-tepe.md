@@ -28,7 +28,7 @@ wikidata_id: "Q31386858"
 
 # Daraveli Tepe
 
-Daraveli Tepe, Mardin ilinin güneydoğu kesiminde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Daraveli Tepe, bölgenin coğrafi yapısını şekillendiren önemli bir oluşum. Burada, Mardin'in tarihi ve kültürel zenginliklerini keşfetme fırsatı bulacaksınız. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgeye özel bir güzellik katıyor. Daraveli Tepe, ziyaretçilerine Mardin'in eşsiz manzarasını sunuyor.
+Daraveli Tepe, Mardin ilinin güneydoğu kesiminde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Daraveli Tepe, bölgenin coğrafi yapısını şekillendiren önemli bir oluşum. Burada, Mardin'in tarihi ve kültürel zenginliklerini keşfetme fırsatı bulacaksınız. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgeye özel bir güzellik katıyor. Daraveli Tepe, ziyaretçilerine Mardin'in eşsiz manzarasını sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Daraveli Tepe'nin tarihi geçmişi, Mardin'in tarihi ile iç içe geçmiş durum
 
 ## Coğrafya
 
-Daraveli Tepe, Mardin'in güneydoğu kesiminde yer alıyor. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir oluşum. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgeye özel bir güzellik katıyor. Daraveli Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepe, ziyaretçilerine Mardin'in eşsiz manzarasını sunuyor. Çevresindeki diğer tepelerle birlikte, bölgeye özel bir doğal güzellik katıyor. Daraveli Tepe, bölgenin iklimini ve coğrafi yapısını etkileyen önemli bir faktör. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgeye özel bir ekosistem sunuyor. Bu ekosistem, çeşitli canlıları barındırıyor ve ziyaretçilere doğanın güzelliğini gösteriyor.
+Daraveli Tepe, Mardin'in güneydoğu kesiminde yer alıyor. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir oluşum. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgeye özel bir güzellik katıyor. Daraveli Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepe, ziyaretçilerine Mardin'in eşsiz manzarasını sunuyor. Çevresindeki diğer tepelerle birlikte, bölgeye özel bir doğal güzellik katıyor. Daraveli Tepe, bölgenin iklimini ve coğrafi yapısını etkileyen önemli bir faktör. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgeye özel bir ekosistem sunuyor. Bu ekosistem, çeşitli canlıları barındırıyor ve ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

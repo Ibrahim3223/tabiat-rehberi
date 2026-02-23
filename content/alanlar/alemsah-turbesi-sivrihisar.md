@@ -1,7 +1,7 @@
 ---
 title: "Alemşah Türbesi, Sivrihisar"
 date: "2026-01-10T06:38:55.897Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582404"
 
 # Alemşah Türbesi, Sivrihisar
 
-Sivrihisar'da bulunan Alemşah Türbesi, yaklaşık 140 hektarlık bir alanda yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi bir geçmişe sahip. Alemşah Türbesi, Sivrihisar'ın merkezinde bulunuyor ve şehrin en önemli tarihi yapılarından biri olarak kabul ediliyor. Türbe, tarihi ve kültürel değerleriyle dikkat çekiyor ve her yıl çok sayıda ziyaretçi çekiyor. Alemşah Türbesi, Sivrihisar'ın önemli bir turizm merkezi olarak kabul ediliyor ve şehrin ekonomisine önemli bir katkı sağlıyor.
+Sivrihisar'da bulunan Alemşah Türbesi, yaklaşık 140 hektarlık bir alanda yer alıyor. Alemşah Türbesi, Sivrihisar'ın merkezinde bulunuyor ve şehrin en önemli tarihi yapılarından biri olarak kabul ediliyor. Türbe, tarihi ve kültürel değerleriyle dikkat çekiyor ve her yıl çok sayıda ziyaretçi çekiyor. Alemşah Türbesi, Sivrihisar'ın önemli bir turizm merkezi olarak kabul ediliyor ve şehrin ekonomisine önemli bir katkı sağlıyor.
 
 ## Tarihçe
 

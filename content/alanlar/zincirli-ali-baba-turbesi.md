@@ -1,7 +1,7 @@
 ---
 title: "Zincirli Ali Baba Türbesi"
 date: "2026-01-10T05:44:28.510Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q135430361"
 
 # Zincirli Ali Baba Türbesi
 
-Zincirli Ali Baba Türbesi, Beyoğlu'nun merkezinde, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Bu tarihi mekan, Marmara Bölgesi'nin kalbinde yer alır ve ziyaretçilerine zengin bir geçmiş sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sağlar. Tarihi geçmişi, kültürel önemi ve doğal güzelliği ile Zincirli Ali Baba Türbesi, İstanbul'un en önemli mekanlarından biridir.
+Zincirli Ali Baba Türbesi, Beyoğlu'nun merkezinde, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Bu tarihi mekan, Marmara Bölgesi'nin kalbinde yer alır ve ziyaretçilerine zengin bir geçmiş sunar. Tarihi geçmişi, kültürel önemi ve doğal güzelliği ile Zincirli Ali Baba Türbesi, İstanbul'un en önemli mekanlarından biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Zincirli Ali Baba Türbesi, yüzyıllar boyunca önemli bir kültürel ve dini m
 
 ## Coğrafya
 
-Zincirli Ali Baba Türbesi, Beyoğlu'nun merkezinde, Marmara Bölgesi'nin kalbinde yer alır. Bu mekan, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu, ziyaretçilere geniş bir keşif alanı sağlar. İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için, Zincirli Ali Baba Türbesi önemli bir destinasyondur. Mekan, doğal güzelliği ile de dikkat çeker ve ziyaretçilere geniş bir yeşil alan sunar. İstanbul'un merkezi konumunda olması, ulaşım açısından kolaylıklar sağlar. Zincirli Ali Baba Türbesi, ziyaretçilere zengin bir geçmiş, doğal güzelli ve kültürel önemi ile birlikte, İstanbul'un en önemli mekanlarından biridir.
+Zincirli Ali Baba Türbesi, Beyoğlu'nun merkezinde, Marmara Bölgesi'nin kalbinde yer alır. Coğrafi konumu, ziyaretçilere geniş bir keşif alanı sağlar. İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için, Zincirli Ali Baba Türbesi önemli bir destinasyondur. Mekan, doğal güzelliği ile de dikkat çeker ve ziyaretçilere geniş bir yeşil alan sunar. İstanbul'un merkezi konumunda olması, ulaşım açısından kolaylıklar sağlar. Zincirli Ali Baba Türbesi, ziyaretçilere zengin bir geçmiş, doğal güzelli ve kültürel önemi ile birlikte, İstanbul'un en önemli mekanlarından biridir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Zincirli Ali Baba Türbesi, ziyaretçilere zengin bir geçmiş, doğal güzelli 
 ## İlginç Bilgiler
 
 - Zincirli Ali Baba Türbesi, yüzyıllar boyunca önemli bir kültürel ve dini merkez olarak görev yaptı.
-- Mekan, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Zincirli Ali Baba Türbesi, doğal güzelliği ile de dikkat çeker ve ziyaretçilere geniş bir yeşil alan sunar.
 - Mekan, birçok farklı canlıya ev sahipliği yapar ve ziyaretçilere zengin bir doğa deneyimi sunar.
 - Zincirli Ali Baba Türbesi, İstanbul'un en önemli tarihi mekanlarından biridir ve ziyaretçilere zengin bir geçmiş sunar.

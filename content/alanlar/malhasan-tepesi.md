@@ -28,7 +28,7 @@ wikidata_id: "Q31550726"
 
 # Malhasan Tepesi
 
-Mardin'in tarih ve doğa güzelliklerinin birleştiği noktada yer alan Malhasan Tepesi, ziyaretçilerini etkileyici manzarasıyla karşılar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok doğal güzelliğe ev sahipliği yapıyor. Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle zengin bir tarihi geçmişe sahip. Malhasan Tepesi, Mardin'in merkezi ile birlikte şehrin önemli bir parçasını oluşturuyor ve ziyaretçilerin ilgisini çekiyor.
+Mardin'in tarih ve doğa güzelliklerinin birleştiği noktada yer alan Malhasan Tepesi, ziyaretçilerini etkileyici manzarasıyla karşılar. Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle zengin bir tarihi geçmişe sahip. Malhasan Tepesi, Mardin'in merkezi ile birlikte şehrin önemli bir parçasını oluşturuyor ve ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 

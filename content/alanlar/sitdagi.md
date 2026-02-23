@@ -54,7 +54,7 @@ Mardin'deki Sitdağı, yarı kurak iklimin hüküm sürdüğü bir bölgede yer 
 
 Yaban hayatı da zenginlik gösterir. Dağ keçileri ve yaban eşekleri, dağlık alanlarda yaşarken, çeşitli kuş türleri mevsimsel olarak göç eder. Sürüngenler de bu ekosistemin bir parçasını oluşturur. Dağın yükseklik zonlarında, alpin flora ve fauna çeşitliliği dikkat çeker.
 
-Sitdağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, régionun biyolojik çeşitliliğinin sürdürülmesi için kritik öneme sahiptir. Mevsimsel değişimlerle birlikte, bu alanın güzelliği ve canlı çeşitliliği değişim gösterir. Bu doğal cenneti ziyaret etmek, doğa severler için unutulmaz bir deneyim olacaktır.
+Sitdağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğinin sürdürülmesi için kritik öneme sahiptir. Mevsimsel değişimlerle birlikte, bu alanın güzelliği ve canlı çeşitliliği değişim gösterir. Bu doğal cenneti ziyaret etmek, doğa severler için unutulmaz bir deneyim olacaktır.
 
 ## Ziyaret Bilgileri
 

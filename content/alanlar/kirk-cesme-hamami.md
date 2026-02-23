@@ -1,7 +1,7 @@
 ---
 title: "Kırk Çeşme Hamamı"
 date: "2026-01-09T22:29:36.726Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738424"
 
 # Kırk Çeşme Hamamı
 
-Kırk Çeşme Hamamı, Erzurum'un Yakutiye ilçesinde yer alan, tarihi ve doğal güzelliği ile dikkat çeken bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu eşsiz mekan, hem doğa severlerin hem de tarihi sevenlerin ilgisini çekiyor. Doğal güzelliği, tarihi geçmişi ve kültürel zenginliğiyle Kırk Çeşme Hamamı, ziyaretçilerini bir zaman yolculuğuna çıkarıyor.
+Kırk Çeşme Hamamı, Erzurum'un Yakutiye ilçesinde yer alan, tarihi ve doğal güzelliği ile dikkat çeken bir destinasyon. Bu eşsiz mekan, hem doğa severlerin hem de tarihi sevenlerin ilgisini çekiyor. Doğal güzelliği, tarihi geçmişi ve kültürel zenginliğiyle Kırk Çeşme Hamamı, ziyaretçilerini bir zaman yolculuğuna çıkarıyor.
 
 ## Tarihçe
 

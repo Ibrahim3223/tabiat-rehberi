@@ -23,7 +23,7 @@ wikidata_id: "Q108228727"
 
 # MANİSA
 
-Manisa milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu büyük alan, ziyaretçilerin doğa ile iç içe olabilecekleri, yaban hayatını gözlemleyebilecekleri ve tarihi geçmişi keşfedebilecekleri bir ortam sağlıyor. Milli parkın konumu, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtması açısından önemli bir nokta. Ziyaretçiler, bu büyük alana girer girmez, kendilerini bir doğa belgeselinin içinde gibi hissediyor.
+ Bu büyük alan, ziyaretçilerin doğa ile iç içe olabilecekleri, yaban hayatını gözlemleyebilecekleri ve tarihi geçmişi keşfedebilecekleri bir ortam sağlıyor. Milli parkın konumu, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtması açısından önemli bir nokta. Ziyaretçiler, bu büyük alana girer girmez, kendilerini bir doğa belgeselinin içinde gibi hissediyor.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Manisa milli parkını ziyaret etmek, doğa ile iç içe olmak isteyenler için 
 
 ## İlginç Bilgiler
 
-- Manisa milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor.
 - Parkın içinde, çeşitli bitki türleri yer alıyor ve bu bitkiler, bölgenin iklimine uyum sağlamış durumda.
 - Manisa milli parkı, zengin bir fauna çeşitliliğine sahip ve ziyaretçiler, parkın içinde yer alan gözlem noktalarından, yaban hayatını izleyebilir.
 - Parkın girişinde, ziyaretçilere rehberli turlar sunuluyor ve bu turlar, parkın tarihi geçmişi ve coğrafi yapısı hakkında bilgi edinilmesi açısından önemli.

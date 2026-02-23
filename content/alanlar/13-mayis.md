@@ -23,7 +23,7 @@ wikidata_id: "Q108228728"
 
 # 13 MAYIS
 
-13 MAYIS milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil cennet, bölgenin en önemli doğal güzelliklerinden biri. Park, ziyaretçilerine doğayla iç içe bir  sunuyor. 13 MAYIS milli parkı, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+ Bu yeşil cennet, bölgenin en önemli doğal güzelliklerinden biri. Park, ziyaretçilerine doğayla iç içe bir  sunuyor. 13 MAYIS milli parkı, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

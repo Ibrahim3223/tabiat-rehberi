@@ -52,7 +52,7 @@ Mevsimsel açıdan bakıldığında, Koca Tepe'nin iklim karakteri Uşak'ın gen
 
 Koca Tepe, Uşak'ın zeytinli ve çam ormanları ile bezeli dağ ekosisteminin bir parçası. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, çam ormanları ve zeytinliklerde rengarenk çiçekler açar. Bu dönemde, dağların yükseklik zonlarında alpin flora ortaya çıkar. Sonbaharda ise, göç eden kuşlar bu alanı ziyaret eder.
 
-Dağların yükseklik zonlarında, çeşitli memeliler ve kuşlar yaşamaktadır. Çam ormanlarında, geyikler ve yaban domuzları gibi memeliler bulunurken, zeytinliklerde ise, keklikler ve toygarlar gibi kuşlar yaşamaktadır. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturur. 
+Dağların yükseklik zonlarında, çeşitli memeliler ve kuşlar yaşamaktadır. Çam ormanlarında, geyikler ve yaban domuzları gibi memeliler bulunurken, zeytinliklerde ise, keklikler ve toygarlar gibi kuşlar yaşamaktadır. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturur.
 
 Koca Tepe'nin ekolojik değeri, dağ ekosisteminin korunmasına bağlıdır. Bu alanın korunması, sadece burada yaşayan canlıları değil, aynı zamanda bölgenin su kaynaklarını ve toprağını da korumayı sağlar.
 

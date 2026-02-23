@@ -28,7 +28,7 @@ wikidata_id: "Q31389053"
 
 # Kuşluca Tepesi
 
-Erzurum'un doğal güzelliği ve tarihi zenginliğiyle ön plana çıkan Kuşluca Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Kuşluca Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın içinde yer alma fırsatı sunuyor.
+Erzurum'un doğal güzelliği ve tarihi zenginliğiyle ön plana çıkan Kuşluca Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Kuşluca Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın içinde yer alma fırsatı sunuyor.
 
 ## Tarihçe
 

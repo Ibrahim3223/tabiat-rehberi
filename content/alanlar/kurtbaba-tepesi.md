@@ -28,7 +28,7 @@ wikidata_id: "Q31386143"
 
 # Kurtbaba Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Kurtbaba Tepesi, Gaziantep'in eşsiz manzaralarına ev sahipliği yapan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kurtbaba Tepesi, ziyaretçilerini şehrin panoramik manzarasıyla karşılayan bir nokta olarak dikkat çekiyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna encontrabilir, bu da bölgeyi doğa severler için bir cennet haline getiriyor.
+Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Kurtbaba Tepesi, Gaziantep'in eşsiz manzaralarına ev sahipliği yapan bir tepe. Kurtbaba Tepesi, ziyaretçilerini şehrin panoramik manzarasıyla karşılayan bir nokta olarak dikkat çekiyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna encontrabilir, bu da bölgeyi doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 

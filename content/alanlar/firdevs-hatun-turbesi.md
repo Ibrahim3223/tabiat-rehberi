@@ -1,7 +1,7 @@
 ---
 title: "Firdevs Hatun Türbesi"
 date: "2026-01-10T07:34:35.366Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gümüşhane"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391312"
 
 # Firdevs Hatun Türbesi
 
-Firdevs Hatun Türbesi, Karadeniz Bölgesi'nin güzide illerinden Gümüşhane'nin Şiran ilçesinde yer alan bir türbe olarak dikkat çekiyor. Bu tarihi yapı, bölgenin zengin tarihi geçmişi hakkında önemli bilgiler sunuyor. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Firdevs Hatun Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini büyülüyor ve Karadeniz Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor.
+Firdevs Hatun Türbesi, Karadeniz Bölgesi'nin güzide illerinden Gümüşhane'nin Şiran ilçesinde yer alan bir türbe olarak dikkat çekiyor. Bu tarihi yapı, bölgenin zengin tarihi geçmişi hakkında önemli bilgiler sunuyor. Firdevs Hatun Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini büyülüyor ve Karadeniz Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Firdevs Hatun Türbesi, tarihi geçmişiyle dikkat çekiyor. Tarihi belgelerde y
 
 ## Coğrafya
 
-Firdevs Hatun Türbesi, Karadeniz Bölgesi'nin güzide illerinden Gümüşhane'nin Şiran ilçesinde yer alıyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerini doğanın kucağına davet ediyor. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş yeşil alanlarla karşılıyor. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemli. Bu iklim, bölgenin flora ve faunasının zengin olmasına katkıda bulunuyor. Firdevs Hatun Türbesi, aynı zamanda bölgenin coğrafi güzelliği ile dikkat çekiyor ve ziyaretçilerini büyülüyor. Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
+Firdevs Hatun Türbesi, Karadeniz Bölgesi'nin güzide illerinden Gümüşhane'nin Şiran ilçesinde yer alıyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerini doğanın kucağına davet ediyor. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemli. Bu iklim, bölgenin flora ve faunasının zengin olmasına katkıda bulunuyor. Firdevs Hatun Türbesi, aynı zamanda bölgenin coğrafi güzelliği ile dikkat çekiyor ve ziyaretçilerini büyülüyor. Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Flora ve Fauna
 

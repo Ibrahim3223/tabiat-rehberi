@@ -23,7 +23,7 @@ wikidata_id: "Q7862437"
 
 # Tünektepe
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Tünektepe, yaklaşık 140 hektarlık bir alanı kaplayan ve 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tünektepe, doğal güzelliği ve tarihi geçmişiyle birlikte, ziyaretçilerini etkileyen bir destinasyon olarak karşımıza çıkıyor. Bu tepe, çevresindeki şehirlerin panoramik manzarasını sunmasının yanı sıra, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
+ Tünektepe, doğal güzelliği ve tarihi geçmişiyle birlikte, ziyaretçilerini etkileyen bir destinasyon olarak karşımıza çıkıyor. Bu tepe, çevresindeki şehirlerin panoramik manzarasını sunmasının yanı sıra, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Tünektepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin h�
 
 ## Coğrafya
 
-Tünektepe, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tünektepe'nin coğrafi konumu, çevresindeki şehirlerin panoramik manzarasını sunmasının yanı sıra, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tünektepe, çevresindeki ovalar ve dağlarla birlikte, bir coğrafi çeşitlilik sunuyor. Bu bölgede, mevsimsel değişimler net bir şekilde gözlemlenebiliyor. Kış aylarında karla kaplanan Tünektepe, ilkbahar ve yaz aylarında ise yeşilin tüm tonlarını ziyaretçilerine sunuyor.
+Tünektepe, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Tünektepe'nin coğrafi konumu, çevresindeki şehirlerin panoramik manzarasını sunmasının yanı sıra, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tünektepe, çevresindeki ovalar ve dağlarla birlikte, bir coğrafi çeşitlilik sunuyor. Bu bölgede, mevsimsel değişimler net bir şekilde gözlemlenebiliyor. Kış aylarında karla kaplanan Tünektepe, ilkbahar ve yaz aylarında ise yeşilin tüm tonlarını ziyaretçilerine sunuyor.
 
 ## Flora ve Fauna
 

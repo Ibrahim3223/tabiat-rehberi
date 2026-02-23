@@ -22,7 +22,7 @@ wikidata_id: "Q108227144"
 
 # Kizilcaelmali Mesesi
 
-Kizilcaelmali Mesesi, İç Anadolu Bölgesi'nin doğal güzelliklerini ve tarihi değerlerini bir araya getiren özel bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte ziyaretçilerine geniş bir açık alan sunuyor. Bu milli park, zengin flora ve faunası ile doğa severlerin ilgisini çekiyor. Tarihi geçmişiyle de dikkat çeken Kizilcaelmali Mesesi, ziyaretçilerini farklı bir dünya içine çekmeyi başarıyor.
+Kizilcaelmali Mesesi, İç Anadolu Bölgesi'nin doğal güzelliklerini ve tarihi değerlerini bir araya getiren özel bir destinasyon. Bu milli park, zengin flora ve faunası ile doğa severlerin ilgisini çekiyor. Tarihi geçmişiyle de dikkat çeken Kizilcaelmali Mesesi, ziyaretçilerini farklı bir dünya içine çekmeyi başarıyor.
 
 ## Tarihçe
 

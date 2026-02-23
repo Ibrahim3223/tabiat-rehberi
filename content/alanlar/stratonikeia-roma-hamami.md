@@ -1,7 +1,7 @@
 ---
 title: "Stratonikeia Roma Hamamı"
 date: "2026-01-09T23:15:43.610Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738957"
 
 # Stratonikeia Roma Hamamı
 
-Stratonikeia Roma Hamamı, Muğla'nın Yatağan ilçesinde, Ege Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik merkezidir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada bulunan Roma Hamamı, antik Stratonikeia kentinde yaşamın nasıl olduğu hakkında fikir veren önemli bir tarihi yapıdır. Stratonikeia, tarihi geçmişi ve zengin kültürel mirasıyla dikkat çekiyor. Burada, tarihin derinliklerine inerek, antik uygarlıkların izlerini keşfetme mümkün.
+Stratonikeia Roma Hamamı, Muğla'nın Yatağan ilçesinde, Ege Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik merkezidir. Stratonikeia, tarihi geçmişi ve zengin kültürel mirasıyla dikkat çekiyor. Burada, tarihin derinliklerine inerek, antik uygarlıkların izlerini keşfetme mümkün.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34829777"
 
 # Öngöl Tepesi
 
-Öngöl Tepesi, Sinop'un eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ki, bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ziyaretçiler, bu tepenin zirvesine çıktıklarında, Karadeniz Bölgesi'nin muhteşem manzarasını izleme fırsatı buluyorlar. Öngöl Tepesi, hem doğa severler hem de tarihi ve kültürel zenginliklere ilgi duyanlar için gerçek bir hazine.
+Öngöl Tepesi, Sinop'un eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Ziyaretçiler, bu tepenin zirvesine çıktıklarında, Karadeniz Bölgesi'nin muhteşem manzarasını izleme fırsatı buluyorlar. Öngöl Tepesi, hem doğa severler hem de tarihi ve kültürel zenginliklere ilgi duyanlar için gerçek bir hazine.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ wikidata_id: "Q34829777"
 
 ## Flora ve Fauna
 
-Öngöl Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Bu bölgede, çeşitli bitki türleri ve ağaçlar yetişiyor. Bahar aylarında, tepeye ren veren çiçekler, ziyaretçilere eşsiz bir güzellik sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli hayvan türleri de yaşamlarını sürdürüyor. Bu bölgede, özellikle kuş türleri oldukça zengin. Ziyaretçiler, bu bölgede doğa yürüyüşleri yapabilir, flora ve fauna ile ilgili incelemeler yapabilir ve bölgenin doğal güzelliğini deneyimleyebilir.
+ Bu bölgede, çeşitli bitki türleri ve ağaçlar yetişiyor. Bahar aylarında, tepeye ren veren çiçekler, ziyaretçilere eşsiz bir güzellik sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli hayvan türleri de yaşamlarını sürdürüyor. Bu bölgede, özellikle kuş türleri oldukça zengin. Ziyaretçiler, bu bölgede doğa yürüyüşleri yapabilir, flora ve fauna ile ilgili incelemeler yapabilir ve bölgenin doğal güzelliğini deneyimleyebilir.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ wikidata_id: "Q34829777"
 
 - Öngöl Tepesi, Sinop'un önemli doğal alanlarından biri.
 - Tepenin zirvesi, Karadeniz Bölgesi'nin geniş bir panoramasını sunuyor.
-- Bölge, flora ve fauna açısından oldukça zengin.
+
 - Öngöl Tepesi, bahar ve yaz aylarında en güzel görünümünü sunuyor.
 - Tepenin eteklerinde ve çevresinde, çeşitli arkeolojik kazılar yapılmıştır.

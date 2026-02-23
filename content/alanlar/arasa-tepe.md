@@ -28,7 +28,7 @@ wikidata_id: "Q31387526"
 
 # Arasa Tepe
 
-Arasa Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Arasa Tepe, hem doğal güzellikleri hem de tarihi değerleriyle ziyaretçilerini cezbediyor. Çanakkale'nin tarihi geçmişine de ışık tutan bu tepe, bölgenin önemli bir parçasıdır. Arasa Tepe'yi ziyaret etmek, hem doğayı hem de tarihin izlerini keşfetmek anlamına geliyor.
+Arasa Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Arasa Tepe, hem doğal güzellikleri hem de tarihi değerleriyle ziyaretçilerini cezbediyor. Çanakkale'nin tarihi geçmişine de ışık tutan bu tepe, bölgenin önemli bir parçasıdır. Arasa Tepe'yi ziyaret etmek, hem doğayı hem de tarihin izlerini keşfetmek anlamına geliyor.
 
 ## Tarihçe
 

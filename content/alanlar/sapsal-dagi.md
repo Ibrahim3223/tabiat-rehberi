@@ -50,7 +50,7 @@ Mevsimsel olarak, Şapsal Dağı ve çevresindeki bölge, tipik Akdeniz iklimini
 
 ## Flora ve Fauna
 
-Şapsal Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapar. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker. 
+Şapsal Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapar. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker.
 
 Bitki örtüsünde, kuraklığa dayanıklı türler hakimdir. İlkbahar mevsiminde, dağ yamaçları renklendirilir ve çeşitli çiçekler açar. Sonbaharda ise, göçmen kuşların geçişine tanık olunur. Dağın yüksek kesimlerinde, alpin flora türleri bulunur.
 
@@ -67,6 +67,6 @@ Yaban hayatı, memeliler, kuşlar ve sürüngenlerden oluşur. Dağ keçileri, y
 - Şapsal Dağı, Antalya ilinin Alanya ilçesinde bulunmaktadır.
 - Dağın yüksekliği yaklaşık 1000 metre civarındadır.
 - Şapsal Dağı, Toros Dağları'nın bir parçasıdır.
-- Bu région, 1998 yılında çevre düzeni planı kapsamında koruma altına alınmıştır.
+- Bu bölge, 1998 yılında çevre düzeni planı kapsamında koruma altına alınmıştır.
 - Dağın eteklerinde birçok tarihi yerleşim yeri ve kale kalıntıları bulunmakta olup, bu bölgeler arkeolojik açıdan önemlidir.
 - Şapsal Dağı ve çevresi, flora ve fauna açısından zengin bir ekosisteme sahiptir.

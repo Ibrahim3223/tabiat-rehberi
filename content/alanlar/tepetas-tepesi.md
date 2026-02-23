@@ -28,7 +28,7 @@ wikidata_id: "Q31389338"
 
 # Tepetaş Tepesi
 
-Tepetaş Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe ve 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tepetaş Tepesi, doğa severlerin ve gezi tutkunlarının ziyaret ettiği önemli bir noktadır. Burada, Mersin'in güzelliklerini keşfetme ve Akdeniz Bölgesi'nin eşsiz manzaralarını izleme mümkündür. Tepetaş Tepesi'nin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunar.
+Tepetaş Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe ve 140 hektarlık bir alanı kapsar. Tepetaş Tepesi, doğa severlerin ve gezi tutkunlarının ziyaret ettiği önemli bir noktadır. Burada, Mersin'in güzelliklerini keşfetme ve Akdeniz Bölgesi'nin eşsiz manzaralarını izleme mümkündür. Tepetaş Tepesi'nin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunar.
 
 ## Tarihçe
 

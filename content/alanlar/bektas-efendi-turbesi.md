@@ -1,7 +1,7 @@
 ---
 title: "Bektaş Efendi Türbesi"
 date: "2026-01-10T07:41:10.427Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Nevşehir"
@@ -37,7 +37,7 @@ Bektaş Efendi Türbesi'nin tarihi geçmişi, Hacıbektaş'ın tarihi ile iç i�
 
 ## Coğrafya
 
-Bektaş Efendi Türbesi, Nevşehir'in Hacıbektaş ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu bölge, doğal güzellikleri ile dikkat çekiyor. Türbenin etrafındaki alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu størreligi ile yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, step ve ormanlık alanların birleştiği bir noktada bulunuyor. İklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor; yani karasal iklim özellikleri görülüyor. Çevre, tarihi ve doğal güzellikleri ile zengin bir coğrafi yapıya sahip.
+Bektaş Efendi Türbesi, Nevşehir'in Hacıbektaş ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu bölge, doğal güzellikleri ile dikkat çekiyor. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölge, step ve ormanlık alanların birleştiği bir noktada bulunuyor. İklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor; yani karasal iklim özellikleri görülüyor. Çevre, tarihi ve doğal güzellikleri ile zengin bir coğrafi yapıya sahip.
 
 ## Flora ve Fauna
 

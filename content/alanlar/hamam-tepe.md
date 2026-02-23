@@ -1,7 +1,7 @@
 ---
 title: "Hamam Tepe"
 date: "2026-01-09T05:51:42.542Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Elazığ"
@@ -32,7 +32,7 @@ Doğu Anadolu Bölgesi'nin görkemli dağları arasında yer alan Hamam Tepe, El
 
 ## Tarihçe
 
-Elazığ bölgesi, tarihin sâu sayfalarına ışık tutan bir coğrafyada yer alıyor. Bu bölge, Hitit, Urartu, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyor. Hamam Tepe'nin de içinde bulunduğu bu coğrafya, tarihi ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir konuma sahip. Yüzyıllar boyunca, insanların bu doğal alanlarla kurduğu ilişki, yalnızca yerleşim ve üretim değil, aynı zamanda kültür ve ticaretin gelişimini de etkilemiştir.
+Elazığ bölgesi, tarihin derin sayfalarına ışık tutan bir coğrafyada yer alıyor. Bu bölge, Hitit, Urartu, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyor. Hamam Tepe'nin de içinde bulunduğu bu coğrafya, tarihi ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir konuma sahip. Yüzyıllar boyunca, insanların bu doğal alanlarla kurduğu ilişki, yalnızca yerleşim ve üretim değil, aynı zamanda kültür ve ticaretin gelişimini de etkilemiştir.
 
 Doğal güzellikleri ve stratejik konumuyla, bu bölge, yaylacılık ve hayvancılık faaliyetlerine de ev sahipliği yapmış. İnsanların bu alanlarla etkileşimi, yalnızca ekonomik değil, aynı zamanda sosyal ve kültürel boyutları da içeriyor. Türkiye'de, bu tür doğal alanlar, tarihsel olarak önemli yerleşim merkezlerinin kurulmasına ve ticaret yollarının oluşmasına katkıda bulunmuş. Hamam Tepe de, bu geniş coğrafyanın bir parçası olarak, bölgenin zengin tarihsel dokusuna katkıda bulunuyor.
 
@@ -48,11 +48,11 @@ Mevsimsel değişimler açısından, Hamam Tepe'nin bulunduğu bölge Doğu Anad
 
 ## Flora ve Fauna
 
-Hamam Tepe, Elazığ'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hamam Tepe, Elazığ'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharda çiçeklerle bezenen alpin çayırlarla karşılaşırız. Sonbaharda, sarı ve kırmızı tonlara bürünen ağaçlar manzarayı renklendirir. Bu yükseklikte yetişen bitkiler, soğu ve rüzgarlı koşullara adapte olmuş endemik türlerdir.
 
-Yaban Hayatı olarak, dağ keçileri, ayılar ve kurtlar gibi memelilerle karşılaşabiliriz. Kuşlar ise, göç mevsimlerinde bu bölgeden geçer. Sürüngenler, kayalık alanlarda yaşamlarını sürdürür. 
+Yaban Hayatı olarak, dağ keçileri, ayılar ve kurtlar gibi memelilerle karşılaşabiliriz. Kuşlar ise, göç mevsimlerinde bu bölgeden geçer. Sürüngenler, kayalık alanlarda yaşamlarını sürdürür.
 
 Ekolojik Değer olarak, Hamam Tepe'nin yüksek dağ ekosistemi, birçok canlıyaşam alanı sağlar. Bu bölgenin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin ekolojik dengesi için de önemlidir.
 

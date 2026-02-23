@@ -50,7 +50,7 @@ Mersin ilinin iklim karakteri, Akdeniz ikliminin etkilerini taşır. Yaz ayları
 
 ## Flora ve Fauna
 
-Baldıranlı Dağı, Mersin'in eşsiz doğa güzelliklerinden biri. Bu dağ ekosisteminde, maki bitki örtüsünün hakimiyeti dikkat çekiyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açıyor ve renk cümbüşü yaratıyor. 
+Baldıranlı Dağı, Mersin'in eşsiz doğa güzelliklerinden biri. Bu dağ ekosisteminde, maki bitki örtüsünün hakimiyeti dikkat çekiyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açıyor ve renk cümbüşü yaratıyor.
 
 Yaban hayatı da oldukça zengin. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yükseklik zonlarında yaşamlarını sürdürüyor. Kuşlar ise, özellikle sonbahar mevsiminde göç ederken, bu dağları önemli bir uğrak noktası olarak kullanıyor. Sürüngenler de, kuraklığa dayanıklı türler olarak, dağların kaya oyuklarında ve taşlık alanlarda yaşamını sürdürebiliyor.
 

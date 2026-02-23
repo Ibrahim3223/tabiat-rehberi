@@ -53,7 +53,7 @@ Jeolojik açıdan bakıldığında, Cöcke Dağı'nın fiziksel yapısı hakkın
 
 Cöcke Dağı, step bitki örtüsünün hakim olduğu bir bölge olarak, ilkbaharın gelmesiyle birlikte renkli bir hal alır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Step bitkileri, kuraklığa adapte edilmiş türlerle birlikte, dağın ekosistemini oluşturur.
 
-Yaban hayatı açısından zengin olan Cöcke Dağı, memeliler, kuşlar ve sürüngenlerle dolu bir dünya sunar. İlkbahar ve yaz aylarında, dağ keçileri ve yaban keçileri dağların yüksek kesimlerinde görülebilir. Sonbaharın gelmesiyle birlikte, göç eden kuşlar dağların üzerinde uçarken, sürüngenler ise kayaların arasında gizlenir. 
+Yaban hayatı açısından zengin olan Cöcke Dağı, memeliler, kuşlar ve sürüngenlerle dolu bir dünya sunar. İlkbahar ve yaz aylarında, dağ keçileri ve yaban keçileri dağların yüksek kesimlerinde görülebilir. Sonbaharın gelmesiyle birlikte, göç eden kuşlar dağların üzerinde uçarken, sürüngenler ise kayaların arasında gizlenir.
 
 Cöcke Dağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgedeki canlıların yaşamını sürdürmesi için hayati önem taşır. Step bitkilerinin ve alpin floranın çeşitliliği, bu bölgenin değerini artırır.
 

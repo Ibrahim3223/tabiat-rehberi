@@ -65,4 +65,4 @@ Kapıkırı Adası, Muğla'da saklı bir cennet. Buraya ulaşmak için Muğla'da
 - Kapıkırı Adası, özellikle dalış tutkunları arasında popülerdir.
 - Adanın etrafında tarihi kalıntılar ve batıklar bulunur.
 - Ada, doğal güzelliği ve tarihi önemi ile dikkat çeker.
-- Kapıkırı Adası, ziyaretçilerine históriki ve doğal bir deneyim sunar.
+- Kapıkırı Adası, ziyaretçilerine tarihi ve doğal bir deneyim sunar.

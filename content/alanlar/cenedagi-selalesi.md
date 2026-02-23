@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Çenedağı Şelalesi
 
-Kocaeli'nin saklı güzelliği olan Çenedağı Şelalesi, Marmara Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın mucizeleriyle karşılar. Çenedağı Şelalesi, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlar. Bu mevsimlerde, şelalenin çevresi rengarenk çiçeklerle donar ve ziyaretçilere büyüleyici bir manzara sunar. Şelalenin yüksekliği 10 metre civarında olup, suyun şelaleden düşerken oluşturduğu ses, ziyaretçilere huzur dolu bir deneyim sunar.
+Kocaeli'nin saklı güzelliği olan Çenedağı Şelalesi, Marmara Bölgesi'nin en önemli doğal alanlarından biridir. Çenedağı Şelalesi, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlar. Bu mevsimlerde, şelalenin çevresi rengarenk çiçeklerle donar ve ziyaretçilere büyüleyici bir manzara sunar. Şelalenin yüksekliği 10 metre civarında olup, suyun şelaleden düşerken oluşturduğu ses, ziyaretçilere huzur dolu bir deneyim sunar.
 
 ## Tarihçe
 

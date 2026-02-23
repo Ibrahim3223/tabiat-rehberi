@@ -50,7 +50,7 @@ Bölgenin ekolojik dengesini koruma açısından önemli bir role sahip olan Kat
 
 Katırcı Dağı, Manisa'nın zeytinlikler ve çam ormanları ile çevrili bir bölgesinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarına göre değişen flora, ilkbaharda renkli çiçeklerle donanıyor. Çam ormanları, zeytinlikler ve alpin flora, dağın farklı yüksekliklerinde yaşayan çeşitli bitki türlerine ev sahipliği yapıyor.
 
-Yaban hayatı açısından zengin olan Katırcı Dağı, memeliler, kuşlar ve sürüngenler için uygun yaşam alanları sunuyor. Dağın eteklerinde zeytinliklerde yaşayan yaban domuzları, çam ormanlarında ise ayılar ve tilkiler yaşamlarını sürdürüyor. Göç mevsiminde, dağ yollarını kuş sürüleri doldururken, keklikler ve toygarlar dağların yüksek kesimlerinde yuvalanıyor. 
+Yaban hayatı açısından zengin olan Katırcı Dağı, memeliler, kuşlar ve sürüngenler için uygun yaşam alanları sunuyor. Dağın eteklerinde zeytinliklerde yaşayan yaban domuzları, çam ormanlarında ise ayılar ve tilkiler yaşamlarını sürdürüyor. Göç mevsiminde, dağ yollarını kuş sürüleri doldururken, keklikler ve toygarlar dağların yüksek kesimlerinde yuvalanıyor.
 
 Bu dağ ekosisteminin ekolojik değeri, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği nedeniyle oldukça önemlidir. Zeytinlikler ve çam ormanları, bölgenin iklimini düzenlerken, alpin flora dağların yüksek kesimlerinde yaşayan canlılar için yaşam alanı oluşturuyor.
 

@@ -1,7 +1,7 @@
 ---
 title: "Kara Mustafa Paşa Türbesi"
 date: "2026-01-10T07:34:18.268Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391262"
 
 # Kara Mustafa Paşa Türbesi
 
-Kara Mustafa Paşa Türbesi, Bursa'nın Osmangazi ilçesinde bulunan tarihi bir türbe ve plaj alanıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli turistik noktalarından biridir. Bu bölgede, tarihin izlerini görme ve denize girerek serinleme mümkündür. Kara Mustafa Paşa Türbesi, aynı zamanda bir kültür ve tarih merkezidir. Ziyaretçiler, buradaki tarihi yapıları inceleyebilir ve plajın keyfini çıkarabilirler.
+Kara Mustafa Paşa Türbesi, Bursa'nın Osmangazi ilçesinde bulunan tarihi bir türbe ve plaj alanıdır. Bu bölgede, tarihin izlerini görme ve denize girerek serinleme mümkündür. Kara Mustafa Paşa Türbesi, aynı zamanda bir kültür ve tarih merkezidir. Ziyaretçiler, buradaki tarihi yapıları inceleyebilir ve plajın keyfini çıkarabilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kara Mustafa Paşa Türbesi, tarihin önemli figürlerinden biri olan Kara Musta
 
 ## Coğrafya
 
-Kara Mustafa Paşa Türbesi, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biridir. Bölge, yüksek bir konumda ve 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Denizi'ne kıyısı vardır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ılıman bir karakterdedir. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve kurudur. Kara Mustafa Paşa Türbesi ve plajı, bu coğrafi özellikler nedeniyle yıl boyunca ziyaretçilerini ağırlar. Bölgenin coğrafi yapısı, aynı zamanda çeşitli bitki türleri ve fauna için uygun bir ortam sunar.
+Kara Mustafa Paşa Türbesi, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biridir. Bölge, yüksek bir konumda ve 140 hektarlık bir alanı kaplar. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ılıman bir karakterdedir. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve kurudur. Kara Mustafa Paşa Türbesi ve plajı, bu coğrafi özellikler nedeniyle yıl boyunca ziyaretçilerini ağırlar. Bölgenin coğrafi yapısı, aynı zamanda çeşitli bitki türleri ve fauna için uygun bir ortam sunar.
 
 ## Flora ve Fauna
 

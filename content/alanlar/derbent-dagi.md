@@ -53,7 +53,7 @@ Mevsimsel olarak incelendiğinde, Derbent Dağı'nın iklim karakteri, bölgenin
 
 Derbent Dağı, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Yükseklik zonları farklılaşan bu dağ ekosisteminde, alpin flora türleri de bulunur. Step bitkileri, kuraklığa adapte olmuş türlerdir ve bu özelliği sayesinde zorlu koşullarda hayatta kalabilirler.
 
-Yaban hayatı da oldukça zengin olan Derbent Dağı, various memeli, kuş ve sürüngen türlerine ev sahipliği yapar. Dağın yüksek kesimlerinde, dağ keçileri ve diğer adaptasyon gösteren memeliler bulunabilir. Göç mevsimlerinde, dağ yamaçlarından geçen kuş sürüleri de görülebilir. 
+Yaban hayatı da oldukça zengin olan Derbent Dağı, various memeli, kuş ve sürüngen türlerine ev sahipliği yapar. Dağın yüksek kesimlerinde, dağ keçileri ve diğer adaptasyon gösteren memeliler bulunabilir. Göç mevsimlerinde, dağ yamaçlarından geçen kuş sürüleri de görülebilir.
 
 Derbent Dağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak için önemlidir. Bu nedenle, koruma çalışmaları yürütülmeli ve bu alanın doğal güzelliği gelecek nesiller için korunmalıdır.
 

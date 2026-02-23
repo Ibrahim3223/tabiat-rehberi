@@ -50,7 +50,7 @@ Jeolojik açıdan incelendiğinde, Küçükkuris Dağı'nın fiziksel yapısı, 
 
 ## Flora ve Fauna
 
-Küçükkuris Dağı, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir bölge. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Küçükkuris Dağı, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir bölge. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelişiyle birlikte dağ yamaçlarında çeşitli çiçekler açmaya başlar. Alpin flora, dağın yükseklik zonlarına uyum sağlamış özel bir bitki örtüsünü oluşturur. Sonbaharda, dağ çayırları sarı bir hal alır ve göç eden kuşlar bu bölgeden geçer.
 

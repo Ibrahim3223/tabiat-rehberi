@@ -1,7 +1,7 @@
 ---
 title: "Kadı Fazlullah Efendi Türbesi"
 date: "2026-01-10T06:29:40.947Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391822"
 
 # Kadı Fazlullah Efendi Türbesi
 
-Kadı Fazlullah Efendi Türbesi, Kocaeli'nin Gebze ilçesinde yer alan tarihi bir türbe ve plajdır. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişiyle dikkat çeken bu mekan, hem dinî hem de turistik bir öneme sahiptir. Gebze'nin merkezine yakınlığıyla kolay ulaşılabilir bir konumda bulunur. Kadı Fazlullah Efendi Türbesi, aynı zamanda çevredeki doğal güzellikleriyle de ziyaretçilerini cezbeder. Türbenin etrafındaki ağaçlar ve yeşillikler, ziyaretçilere huzurlu bir ortam sunar.
+Kadı Fazlullah Efendi Türbesi, Kocaeli'nin Gebze ilçesinde yer alan tarihi bir türbe ve plajdır. Tarihi geçmişiyle dikkat çeken bu mekan, hem dinî hem de turistik bir öneme sahiptir. Gebze'nin merkezine yakınlığıyla kolay ulaşılabilir bir konumda bulunur. Kadı Fazlullah Efendi Türbesi, aynı zamanda çevredeki doğal güzellikleriyle de ziyaretçilerini cezbeder. Türbenin etrafındaki ağaçlar ve yeşillikler, ziyaretçilere huzurlu bir ortam sunar.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31503777"
 
 # Ufacıklar Tepesi
 
-Ufacıklar Tepesi, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, özellikle doğal güzelliği ve çevresindeki manzarası ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Ufacıklar Tepesi, ziyaretçilerini büyüleyici bir doğa ile karşılıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu tepe, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
+Ufacıklar Tepesi, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, özellikle doğal güzelliği ve çevresindeki manzarası ile dikkat çekiyor. Ufacıklar Tepesi, ziyaretçilerini büyüleyici bir doğa ile karşılıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu tepe, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 

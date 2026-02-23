@@ -23,7 +23,7 @@ wikidata_id: "Q124363438"
 
 # Çağçağan Şelalesi
 
-Çağçağan Şelalesi, Artvin'in merkezinde yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan bir şelaledir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde şelalenin güzelliği daha da belirginlik kazanır. Şelalenin yüksekliği ve suyu, ziyaretçilerine doğanın güzelliğini hissettirir. Bu şelale, yaban hayatı açısından da oldukça zengindir ve çeşitli bitkiler ve hayvanlar bu bölgeyi mesken tutar.
+Çağçağan Şelalesi, Artvin'in merkezinde yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan bir şelaledir. Şelalenin yüksekliği ve suyu, ziyaretçilerine doğanın güzelliğini hissettirir. Bu şelale, yaban hayatı açısından da oldukça zengindir ve çeşitli bitkiler ve hayvanlar bu bölgeyi mesken tutar.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ wikidata_id: "Q124363438"
 
 ## Flora ve Fauna
 
-Çağçağan Şelalesi ve çevresi, flora ve fauna açısından oldukça zengindir. Bu bölgede, çeşitli bitkiler ve ağaçlar bulunur. Mevsimsel değişimler, bu bölgede canlıların yaşamını etkiler. Kış aylarında, bazı bitkiler ve ağaçlar dinlenmeye geçer, ancak ilkbahar ve yaz aylarında yeniden canlanır. Yaban hayatı da oldukça zengin olup, çeşitli hayvanlar bu bölgede yaşar. Şelalenin suyu, bu hayvanlar için önemli bir yaşam kaynağıdır. Ekosistem, bu bölgede oldukça dengeli olup, canlıların yaşamı için önemli bir alandır.
+ Bu bölgede, çeşitli bitkiler ve ağaçlar bulunur. Mevsimsel değişimler, bu bölgede canlıların yaşamını etkiler. Kış aylarında, bazı bitkiler ve ağaçlar dinlenmeye geçer, ancak ilkbahar ve yaz aylarında yeniden canlanır. Yaban hayatı da oldukça zengin olup, çeşitli hayvanlar bu bölgede yaşar. Şelalenin suyu, bu hayvanlar için önemli bir yaşam kaynağıdır. Ekosistem, bu bölgede oldukça dengeli olup, canlıların yaşamı için önemli bir alandır.
 
 ## Ziyaret Bilgileri
 

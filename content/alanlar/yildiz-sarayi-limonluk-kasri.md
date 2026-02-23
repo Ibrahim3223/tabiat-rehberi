@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Limonluk Kasrı"
 date: "2026-01-10T04:37:11.320Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133683985"
 
 # Yıldız Sarayı Limonluk Kasrı
 
-Yıldız Sarayı Limonluk Kasrı, Beşiktaş'ta bulunan ve Marmara Bölgesi'nin önemli noktalarından biri olan tarihi bir yapıdır. 140 hektarlık bir alan üzerine kurulu olan Yıldız Sarayı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Burada bulunan Limonluk Kasrı, sarayın en önemli yapılarından biri olup, tarihi geçmişi ile ziyaretçilerini cezbeder. Sarayın bulunduğu alan, İstanbul'un en önemli turizm noktalarından biri olup, her yıl binlerce ziyaretçiyi ağırlar.
+Yıldız Sarayı Limonluk Kasrı, Beşiktaş'ta bulunan ve Marmara Bölgesi'nin önemli noktalarından biri olan tarihi bir yapıdır. Burada bulunan Limonluk Kasrı, sarayın en önemli yapılarından biri olup, tarihi geçmişi ile ziyaretçilerini cezbeder. Sarayın bulunduğu alan, İstanbul'un en önemli turizm noktalarından biri olup, her yıl binlerce ziyaretçiyi ağırlar.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Yıldız Sarayı Limonluk Kasrı'na ziyaretçiler, toplu taşıma araçlarını 
 ## İlginç Bilgiler
 
 - Yıldız Sarayı Limonluk Kasrı, 19. yüzyılda inşa edilmiştir.
-- Saray, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Sarayın bulunduğu tepe, yüksek bir konumdadir.
 - Sarayın çevresi, ormanlık bir alan olup, ziyaretçilere doğayla iç içe bir deneyim sunar.
 - Saray, birçok farklı türde bitki ve ağaca ev sahipliği yapar.

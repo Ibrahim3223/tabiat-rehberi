@@ -50,11 +50,11 @@ Doğal yapısı itibariyle Çalık Tepe, Mardin'in coğrafi çeşitliliğini yan
 
 ## Flora ve Fauna
 
-Çalık Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çalık Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle kaplanıyor. Step ve ova ekolojisinin karakteristik bitkileri, yükseklik zonlarına göre değişkenlik gösteriyor. Alpin flora, dağların yüksek kesimlerinde hakim oluyor.
 
-Yaban Hayatı, memeliler, kuşlar ve sürüngenlerle temsil ediliyor. Dağ keçileri ve yaban domuzları, bölgenin kaya dik yamaçlarında ve ormanlık alanlarında yaşamlarını sürdürüyor. Kuşlar ise, göç mevsimlerinde Çalık Tepe'yi önemli bir uğrak noktası olarak kullanıyor. 
+Yaban Hayatı, memeliler, kuşlar ve sürüngenlerle temsil ediliyor. Dağ keçileri ve yaban domuzları, bölgenin kaya dik yamaçlarında ve ormanlık alanlarında yaşamlarını sürdürüyor. Kuşlar ise, göç mevsimlerinde Çalık Tepe'yi önemli bir uğrak noktası olarak kullanıyor.
 
 Ekolojik Değer olarak, Çalık Tepe'nin koruma durumu, bölgenin doğal dengesini korumak açısından kritik önem taşıyor. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanları, bölgenin benzersiz ekolojik zenginliğini oluşturuyor.
 

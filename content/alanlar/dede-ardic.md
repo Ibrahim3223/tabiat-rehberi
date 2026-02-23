@@ -22,7 +22,7 @@ wikidata_id: "Q108227361"
 
 # Dede Ardic
 
-Dede Ardic, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Dede Ardic, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin kültürel zenginliğini sunar. Milli park, çeşitli bitki türleri ve hayvanların yaşam alanıdır. Bu bölgede, yaban hayatı ve flora ile ilgili birçok çalışma yapılmıştır.
+Dede Ardic, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Dede Ardic, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin kültürel zenginliğini sunar. Milli park, çeşitli bitki türleri ve hayvanların yaşam alanıdır. Bu bölgede, yaban hayatı ve flora ile ilgili birçok çalışma yapılmıştır.
 
 ## Tarihçe
 

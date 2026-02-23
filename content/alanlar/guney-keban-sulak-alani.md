@@ -22,7 +22,7 @@ wikidata_id: "Q108228813"
 
 # Güney Keban Sulak Alanı
 
-Güney Keban Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan özel bir bölge. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılayacak bir ortam sunuyor. Sulak alanlar, ekosistemlerin çeşitliliği açısından büyük bir önem taşıyor ve bu bölgede de zengin bir flora ve fauna çeşitliliği görebiliyoruz. Doğal yaşamın korunduğu bu alan, aynı zamanda yerel halk için önemli bir yaşam kaynağı.
+Güney Keban Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan özel bir bölge. Sulak alanlar, ekosistemlerin çeşitliliği açısından büyük bir önem taşıyor ve bu bölgede de zengin bir flora ve fauna çeşitliliği görebiliyoruz. Doğal yaşamın korunduğu bu alan, aynı zamanda yerel halk için önemli bir yaşam kaynağı.
 
 ## Tarihçe
 

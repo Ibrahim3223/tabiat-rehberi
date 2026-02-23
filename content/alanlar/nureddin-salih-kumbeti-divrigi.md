@@ -29,7 +29,7 @@ wikidata_id: "Q135582392"
 
 # Nureddin Salih Kümbeti, Divriği
 
-Nureddin Salih Kümbeti, Sivas'ın Divriği ilçesinde yer alan ve tarihi değerleri ile ön plana çıkan bir yapıdır. 140 hektarlık bir alan üzerinde bulunan bu kümbet, yaklaşık 200 futbol sahası büyüklüğünde bir araziye sahiptir. Burada yer alan tarihi eserler, İç Anadolu Bölgesi'nin zengin kültürel mirasını yansıtmaktadır. Nureddin Salih Kümbeti, ziyaretçilerini tarihi bir yolculuğa çıkarırken, aynı zamanda bölgenin doğal güzelliklerini de keşfetme fırsatı sunmaktadır.
+Nureddin Salih Kümbeti, Sivas'ın Divriği ilçesinde yer alan ve tarihi değerleri ile ön plana çıkan bir yapıdır. Burada yer alan tarihi eserler, İç Anadolu Bölgesi'nin zengin kültürel mirasını yansıtmaktadır. Nureddin Salih Kümbeti, ziyaretçilerini tarihi bir yolculuğa çıkarırken, aynı zamanda bölgenin doğal güzelliklerini de keşfetme fırsatı sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Nureddin Salih Kümbeti, tarihi geçmişi ile dikkat çekmektedir. Bu yapı, yü
 
 ## Coğrafya
 
-Nureddin Salih Kümbeti, Sivas'ın Divriği ilçesinde yer almaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Kümbet, 140 hektarlık bir arazide kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Burada yer alan coğrafi özellikler, ziyaretçilere geniş bir alan sunarken, aynı zamanda tarihi eserlerin korunmasına da katkıda bulunmaktadır. Nureddin Salih Kümbeti, Sivas'ın Divriği ilçesinin coğrafi konumu itibariyle önemli bir noktada yer almaktadır. Burada yer alan yapılar, bölgenin iklimine ve coğrafi koşullarına uygun olarak tasarlanmıştır. Nureddin Salih Kümbeti, Sivas ve çevresinin coğrafi ve kültürel değerlerini bir araya getiren önemli bir mekan olarak kabul edilmektedir.
+Nureddin Salih Kümbeti, Sivas'ın Divriği ilçesinde yer almaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Burada yer alan coğrafi özellikler, ziyaretçilere geniş bir alan sunarken, aynı zamanda tarihi eserlerin korunmasına da katkıda bulunmaktadır. Nureddin Salih Kümbeti, Sivas'ın Divriği ilçesinin coğrafi konumu itibariyle önemli bir noktada yer almaktadır. Burada yer alan yapılar, bölgenin iklimine ve coğrafi koşullarına uygun olarak tasarlanmıştır. Nureddin Salih Kümbeti, Sivas ve çevresinin coğrafi ve kültürel değerlerini bir araya getiren önemli bir mekan olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 

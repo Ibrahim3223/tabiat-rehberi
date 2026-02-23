@@ -28,7 +28,7 @@ wikidata_id: "Q31538829"
 
 # Samandağ Tepesi
 
-Samandağ Tepesi, Hatay ilinin önemli coğrafi noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Samandağ Tepesi, Akdeniz Bölgesi'nin coğrafi zenginliklerini sunar. Burada, çeşitli bitki türleri ve zengin fauna bulunabilir. Tepenin yüksekliği, manzarayı izlemek için ideal bir noktayı oluşturur. Bu tepe, doğa severler ve coğrafi keşifler için önemli bir destinasyondur.
+Samandağ Tepesi, Hatay ilinin önemli coğrafi noktalarından biridir. Samandağ Tepesi, Akdeniz Bölgesi'nin coğrafi zenginliklerini sunar. Burada, çeşitli bitki türleri ve zengin fauna bulunabilir. Tepenin yüksekliği, manzarayı izlemek için ideal bir noktayı oluşturur. Bu tepe, doğa severler ve coğrafi keşifler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Samandağ Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Samandağ Tepesi, Hatay ilinin coğrafi yapısını oluşturan önemli bir noktadır. Bu tepe, Akdeniz Bölgesi'nin coğrafi zenginliklerini sunar. Tepenin yüksekliği, manzarayı izlemek için ideal bir noktayı oluşturur. Samandağ Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunabilir. Bu bölge, coğrafi olarak farklı iklim tiplerinin bir araya geldiği bir noktada yer alır. Samandağ Tepesi, ziyaretçilerine hem coğrafi hem de iklimsel açıdan zengin bir deneyim sunar. Tepenin coğrafi konumu, bölgenin diğer önemli noktalarına yakınlığıyla dikkat çeker.
+Samandağ Tepesi, Hatay ilinin coğrafi yapısını oluşturan önemli bir noktadır. Bu tepe, Akdeniz Bölgesi'nin coğrafi zenginliklerini sunar. Tepenin yüksekliği, manzarayı izlemek için ideal bir noktayı oluşturur. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunabilir. Bu bölge, coğrafi olarak farklı iklim tiplerinin bir araya geldiği bir noktada yer alır. Samandağ Tepesi, ziyaretçilerine hem coğrafi hem de iklimsel açıdan zengin bir deneyim sunar. Tepenin coğrafi konumu, bölgenin diğer önemli noktalarına yakınlığıyla dikkat çeker.
 
 ## Flora ve Fauna
 

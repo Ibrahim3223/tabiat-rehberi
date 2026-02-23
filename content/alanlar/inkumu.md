@@ -29,7 +29,7 @@ wikidata_id: "Q31188256"
 
 # İnkumu
 
-İnkumu, Bartın'ın en güzel plajlarından biri olarak bilinir. 140 hektarlık geniş bir alanı kaplayan bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. İnkumu plajı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biridir. Bu güzel plaj, denizi ve kumsalı ile ziyaretçilerini cezbeder. İnkumu, Bartın'ın merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır.
+İnkumu, Bartın'ın en güzel plajlarından biri olarak bilinir. İnkumu plajı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biridir. Bu güzel plaj, denizi ve kumsalı ile ziyaretçilerini cezbeder. İnkumu, Bartın'ın merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q31188256"
 
 ## Coğrafya
 
-İnkumu plajı, Karadeniz Bölgesi'nin Bartın ilinde yer alır. Bu plaj, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. İnkumu, Karadeniz'in en güzel plajlarından biri olarak bilinir ve denizi ile kumsalı ile ziyaretçilerini cezbeder. Bu plaj, Bartın'ın merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır. İnkumu'nun coğrafi konumu, turizm açısından önemli bir yere sahiptir ve bu bölgenin gelişimine katkıda bulunmuştur. İnkumu plajı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biridir ve her yıl binlerce ziyaretçiyi ağırlar.
+İnkumu plajı, Karadeniz Bölgesi'nin Bartın ilinde yer alır. İnkumu, Karadeniz'in en güzel plajlarından biri olarak bilinir ve denizi ile kumsalı ile ziyaretçilerini cezbeder. Bu plaj, Bartın'ın merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır. İnkumu'nun coğrafi konumu, turizm açısından önemli bir yere sahiptir ve bu bölgenin gelişimine katkıda bulunmuştur. İnkumu plajı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biridir ve her yıl binlerce ziyaretçiyi ağırlar.
 
 ## Flora ve Fauna
 

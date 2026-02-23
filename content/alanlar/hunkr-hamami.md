@@ -1,7 +1,7 @@
 ---
 title: "Hünkâr Hamamı"
 date: "2026-01-09T23:37:26.582Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739129"
 
 # Hünkâr Hamamı
 
-Hünkâr Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. İstanbul'un Fatih ilçesinde yer alan bu plaj, 140 hektarlık bir alana sahiptir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu plaj, geniş ve ferah bir kumsala sahiptir. Hünkâr Hamamı, deniz severlerin ve güneşten hoşlananların tercih ettiği bir yerdir. Plajın etrafında çeşitli ağaçlar bulunmasa da, çeşitli bitki türleri mevcuttur. Deniz suyu temiz ve berraktır. Hünkâr Hamamı, özellikle yaz aylarında çok sayıda ziyaretçi çeker.
+Hünkâr Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. İstanbul'un Fatih ilçesinde yer alan bu plaj, 140 hektarlık bir alana sahiptir. Hünkâr Hamamı, deniz severlerin ve güneşten hoşlananların tercih ettiği bir yerdir. Plajın etrafında çeşitli ağaçlar bulunmasa da, çeşitli bitki türleri mevcuttur. Deniz suyu temiz ve berraktır. Hünkâr Hamamı, özellikle yaz aylarında çok sayıda ziyaretçi çeker.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hünkâr Hamamı'nın tarihi geçmişi hakkında detaylı bilgi bulunmasa da, bu
 
 ## Coğrafya
 
-Hünkâr Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. İstanbul'un Fatih ilçesinde yer alan bu plaj, 140 hektarlık bir alana sahiptir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu plaj, geniş ve ferah bir kumsala sahiptir. Plajın etrafında çeşitli bitki türleri mevcuttur. Deniz suyu temiz ve berraktır. Hünkâr Hamamı, deniz severlerin ve güneşten hoşlananların tercih ettiği bir yerdir. Plajın iklimi, genel olarak ılımandır. Yaz aylarında sıcaklık artar, kış aylarında ise soğuktur. Plajda, deniz suyu sıcaklığı da mevsimlere göre değişir. Hünkâr Hamamı, çevresindeki diğer plajlarla karşılaştırıldığında, daha sakin ve daha az kalabalık bir yer olarak bilinir.
+Hünkâr Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. İstanbul'un Fatih ilçesinde yer alan bu plaj, 140 hektarlık bir alana sahiptir. Plajın etrafında çeşitli bitki türleri mevcuttur. Deniz suyu temiz ve berraktır. Hünkâr Hamamı, deniz severlerin ve güneşten hoşlananların tercih ettiği bir yerdir. Plajın iklimi, genel olarak ılımandır. Yaz aylarında sıcaklık artar, kış aylarında ise soğuktur. Plajda, deniz suyu sıcaklığı da mevsimlere göre değişir. Hünkâr Hamamı, çevresindeki diğer plajlarla karşılaştırıldığında, daha sakin ve daha az kalabalık bir yer olarak bilinir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Hünkâr Hamamı, deniz severlerin ve güneşten hoşlananların tercih ettiği 
 ## İlginç Bilgiler
 
 - Hünkâr Hamamı, 140 hektarlık bir alana sahiptir.
-- Plaj, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Hünkâr Hamamı, deniz severlerin ve güneşten hoşlananların tercih ettiği bir yerdir.
 - Plajın etrafında çeşitli bitki türleri mevcuttur.
 - Deniz suyu temiz ve berraktır.

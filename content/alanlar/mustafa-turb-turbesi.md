@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Türâbî Türbesi"
 date: "2026-01-10T05:18:46.244Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391744"
 
 # Mustafa Türâbî Türbesi
 
-Mustafa Türâbî Türbesi, Konya'nın Akşehir ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli tarihi ve doğal güzelliklerinden biridir. Türbenin etrafında yer alan ağaçlar ve doğal güzellikler, ziyaretçilere hem tarihi hem de doğanın güzelliğini sunmaktadır. Mustafa Türâbî Türbesi, ziyaretçiler için hem dinlenme hem de tarihi bir gezi imkanı sunmaktadır.
+Mustafa Türâbî Türbesi, Konya'nın Akşehir ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. Türbenin etrafında yer alan ağaçlar ve doğal güzellikler, ziyaretçilere hem tarihi hem de doğanın güzelliğini sunmaktadır. Mustafa Türâbî Türbesi, ziyaretçiler için hem dinlenme hem de tarihi bir gezi imkanı sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mustafa Türâbî Türbesi, tarihi geçmişi ile dikkat çekmektedir. Türbenin 
 
 ## Coğrafya
 
-Mustafa Türâbî Türbesi, Konya'nın Akşehir ilçesinde yer almaktadır. Türbenin etrafında yer alan doğal güzellikler, ziyaretçilere doğanın güzelliğini sunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Türbenin konumu, ziyaretçiler için hem tarihi hem de doğal güzellikleri keşfetme imkanı sunmaktadır. Akşehir ilçesi, İç Anadolu Bölgesi'nin önemli bir merkezi olarak bilinmektedir. Mustafa Türâbî Türbesi, bölgenin coğrafi yapısı ve iklimi ile birlikte, ziyaretçilere benzersiz bir gezi deneyimi sunmaktadır. Türbenin bulunduğu alanda, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Mustafa Türâbî Türbesi, Konya'nın Akşehir ilçesinde yer almaktadır. Türbenin etrafında yer alan doğal güzellikler, ziyaretçilere doğanın güzelliğini sunmaktadır. Türbenin konumu, ziyaretçiler için hem tarihi hem de doğal güzellikleri keşfetme imkanı sunmaktadır. Akşehir ilçesi, İç Anadolu Bölgesi'nin önemli bir merkezi olarak bilinmektedir. Mustafa Türâbî Türbesi, bölgenin coğrafi yapısı ve iklimi ile birlikte, ziyaretçilere benzersiz bir gezi deneyimi sunmaktadır. Türbenin bulunduğu alanda, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Flora ve Fauna
 

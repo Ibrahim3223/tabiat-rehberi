@@ -33,7 +33,7 @@ Gümüşhacıköy'ün doğusunda yer alan İnegöl Dağı, Amasya'nın doğal g�
 
 ## Tarihçe
 
-Amasya bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. İnegöl Dağı, bu bölgenin önemli doğal unsurlarından biridir. Bölge, Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşır. Bu kadar çeşitli kültürel mirasa sahip bir coğrafyada, İnegöl Dağı gibi doğal alanlar, insan yerleşimlerinin ve ticaret yollarının önemli noktalarında yer almıştır.
+Amasya bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. İnegöl Dağı, bu bölgenin önemli doğal unsurlarından biridir. Bölge, Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşır. Bu kadar çeşitli kültürel mirasa sahip bir coğrafyada, İnegöl Dağı gibi doğal alanlar, insan yerleşimlerinin ve ticaret yollarının önemli noktalarında yer almıştır.
 
 Türkiye'de, özellikle Karadeniz Bölgesi'nde, yaylacılık ve hayvancılık önemli geleneksel faaliyetlerdir. Bu tür doğal alanlar, bu faaliyetlerin sürdürülmesi için elverişli ortamlar sunar. İnegöl Dağı'nın etekleri ve surroundingsı, bölgede yaşayan insanların yaşamlarında önemli bir rol oynamış, özellikle tarım ve hayvancılık faaliyetleri için kullanılmalıdır.
 
@@ -53,7 +53,7 @@ Doğal bir unsur olarak, İnegöl Dağı, çevresindeki diğer coğrafi oluşuml
 
 İnegöl Dağı, Amasya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ, kuraklığa adapte türlerin yaşadığı bir habitat olarak dikkat çeker. Dağ ekosisteminin yükseklik zonlarına bağlı olarak, flora ve fauna çeşitliliği değişir.
 
-İlkbaharın gelmesiyle, dağ yamaçları rengarenk çiçeklerle kaplanır. Step bitkileri ve bozkır türleri, bu mevsimde en güzel hallerini gösterir. Sonbaharda ise, göçmen kuşlar dağ üzerinden geçer ve ekosistemi canlandırır. 
+İlkbaharın gelmesiyle, dağ yamaçları rengarenk çiçeklerle kaplanır. Step bitkileri ve bozkır türleri, bu mevsimde en güzel hallerini gösterir. Sonbaharda ise, göçmen kuşlar dağ üzerinden geçer ve ekosistemi canlandırır.
 
 Yaban hayatı da oldukça zengin olan İnegöl Dağı, çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapar. Dağın yüksek kesimlerinde, dağ keçisi gibi türler yaşarken, daha alçak kesimlerde ise, step ve bozkır hayvanları bulunur. Bu canlılar, dağ ekosisteminin dengesini sağlar ve birbirleriyle etkileşimli bir ilişki içinde yaşar.
 

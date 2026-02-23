@@ -1,7 +1,7 @@
 ---
 title: "Hüseyin Ağa Türbesi"
 date: "2026-01-10T07:29:49.111Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391073"
 
 # Hüseyin Ağa Türbesi
 
-Hüseyin Ağa Türbesi, İstanbul'un tarihi dokusu içerisinde önemli bir yere sahip olan bir mekan. Fatih ilçesinde bulunan bu türbe, 1400'lü yıllarda inşa edilmiş ve tarihin içerisinde önemli bir geçmişi bulunmakta. 140 hektarlık bir alan içerisinde yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. İstanbul'un kalbinde yer alan bu mekan, türk kültürünün zenginliğini ve tarihinin derinliğini yansıtmakta.
+Hüseyin Ağa Türbesi, İstanbul'un tarihi dokusu içerisinde önemli bir yere sahip olan bir mekan. Fatih ilçesinde bulunan bu türbe, 1400'lü yıllarda inşa edilmiş ve tarihin içerisinde önemli bir geçmişi bulunmakta. İstanbul'un kalbinde yer alan bu mekan, türk kültürünün zenginliğini ve tarihinin derinliğini yansıtmakta.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hüseyin Ağa Türbesi, 15. yüzyılda inşa edilmiş bir tarihi mekan. Osmanlı
 
 ## Coğrafya
 
-Hüseyin Ağa Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi mekan. Bu mekan, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. İstanbul'un kalbinde yer alan bu türbe, türk kültürünün zenginliğini ve tarihinin derinliğini yansıtmakta. Çevresinde birçok tarihi mekan ve önemli yapılar bulunan bu türbe, İstanbul'un tarihi dokusu içerisinde önemli bir yere sahip. İklim itibariyle, İstanbul'un genel iklimine benzer bir yapıya sahip olan bu mekan, dört mevsim boyunca ziyaret edilebilmekte. Çevresinde birçok yeşil alan bulunan bu türbe, türk kültürünün önemli bir parçasını oluşturmakta.
+Hüseyin Ağa Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi mekan. İstanbul'un kalbinde yer alan bu türbe, türk kültürünün zenginliğini ve tarihinin derinliğini yansıtmakta. Çevresinde birçok tarihi mekan ve önemli yapılar bulunan bu türbe, İstanbul'un tarihi dokusu içerisinde önemli bir yere sahip. İklim itibariyle, İstanbul'un genel iklimine benzer bir yapıya sahip olan bu mekan, dört mevsim boyunca ziyaret edilebilmekte. Çevresinde birçok yeşil alan bulunan bu türbe, türk kültürünün önemli bir parçasını oluşturmakta.
 
 ## Flora ve Fauna
 

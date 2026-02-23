@@ -52,9 +52,9 @@ Doğal bir ada üzerinde yer alan Rize-Artvin Havalimanı, Karadeniz'in suyollar
 
 ## Flora ve Fauna
 
-Rize-Artvin Havalimanı'nın bulunduğu ada, step bitki örtüsüne ve bozkırın karakteristik özelliklerine sahiptir. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Step bitkileri, kuraklığa adapte olmuş türler, adanın ekosisteminin temelini oluşturur. 
+Rize-Artvin Havalimanı'nın bulunduğu ada, step bitki örtüsüne ve bozkırın karakteristik özelliklerine sahiptir. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Step bitkileri, kuraklığa adapte olmuş türler, adanın ekosisteminin temelini oluşturur.
 
-Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler bulunur. Sonbaharda, göç eden deniz kuşları adayı ziyaret eder ve burada konaklar. Ada ekosisteminin izole yapısı, benzersiz bir yaban hayatına ev sahipliği yapar. 
+Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler bulunur. Sonbaharda, göç eden deniz kuşları adayı ziyaret eder ve burada konaklar. Ada ekosisteminin izole yapısı, benzersiz bir yaban hayatına ev sahipliği yapar.
 
 Bu özel ekosistem, koruma altına alınması gereken bir alan olarak dikkat çeker. Ada, bölge için önemli bir ekolojik değer taşır ve gelecek nesiller için korunması gerekmektedir.
 

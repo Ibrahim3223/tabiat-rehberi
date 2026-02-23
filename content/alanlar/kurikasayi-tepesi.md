@@ -28,7 +28,7 @@ wikidata_id: "Q31553824"
 
 # Kurikasayi Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman'da bulunan Kurikasayi Tepesi, yaklaşık 140 hektarlık alanda yer alan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Kurikasayi Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor. Tepenin eteklerinde yer alan village, misafirlerini sıcacık bir şekilde karşılıyor. Kurikasayi Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
+Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman'da bulunan Kurikasayi Tepesi, yaklaşık 140 hektarlık alanda yer alan bir tepe. Kurikasayi Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor. Tepenin eteklerinde yer alan village, misafirlerini sıcacık bir şekilde karşılıyor. Kurikasayi Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Kurikasayi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun ol
 
 ## Flora ve Fauna
 
-Kurikasayi Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Tepenin yüksekliği, ziyaretçilerine eşsiz bir manzara sunuyor. Kurikasayi Tepesi, mevsimsel değişimlere göre, farklı türlerde bitkilerin ve hayvanların yaşadığı bir bölge. Tepenin etrafında, çeşitli kuş türleri ve diğer hayvanlar da bulunabiliyor. Kurikasayi Tepesi, doğa severlerin ve hayvanseverlerin ilgisini çekiyor. Tepenin etrafında yapılan doğa yürüyüşleri ve trekking, ziyaretçilere unutulmaz deneyimler sunuyor.
+ Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Tepenin yüksekliği, ziyaretçilerine eşsiz bir manzara sunuyor. Kurikasayi Tepesi, mevsimsel değişimlere göre, farklı türlerde bitkilerin ve hayvanların yaşadığı bir bölge. Tepenin etrafında, çeşitli kuş türleri ve diğer hayvanlar da bulunabiliyor. Kurikasayi Tepesi, doğa severlerin ve hayvanseverlerin ilgisini çekiyor. Tepenin etrafında yapılan doğa yürüyüşleri ve trekking, ziyaretçilere unutulmaz deneyimler sunuyor.
 
 ## Ziyaret Bilgileri
 

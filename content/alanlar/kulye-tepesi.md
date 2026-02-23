@@ -28,7 +28,7 @@ wikidata_id: "Q31541013"
 
 # Kulye Tepesi
 
-Kulye Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir doğal güzelliktir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanda yer alır. Kulye Tepesi, ziyaretçilerini doğanın içlerine davet eder ve burada bulunan bitkiler ve hayvanlar, ziyaretçilere unutulmaz bir deneyim sunar. Kulye Tepesi, aynı zamanda tarihin izlerini taşıyan bir bölgedir ve burada bulunan tarihi kalıntılar, ziyaretçilerin ilgisini çeker.
+Kulye Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir doğal güzelliktir. Kulye Tepesi, ziyaretçilerini doğanın içlerine davet eder ve burada bulunan bitkiler ve hayvanlar, ziyaretçilere unutulmaz bir deneyim sunar. Kulye Tepesi, aynı zamanda tarihin izlerini taşıyan bir bölgedir ve burada bulunan tarihi kalıntılar, ziyaretçilerin ilgisini çeker.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kulye Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Kulye Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri ile çevrili bir bölgedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanda yer alır. Kulye Tepesi'nin coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir ve burada bulunan bitkiler ve hayvanlar, bu coğrafi yapıya uyum sağlamıştır. Kulye Tepesi, aynı zamanda iklim açısından da çeşitlilik gösterir ve burada bulunan mevsimsel değişimler, ziyaretçilere farklı deneyimler sunar. Bu tepe, coğrafi olarak zengin bir bölgedir ve ziyaretçilere, doğanın güzelliklerini sunar.
+Kulye Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri ile çevrili bir bölgedir. Kulye Tepesi'nin coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir ve burada bulunan bitkiler ve hayvanlar, bu coğrafi yapıya uyum sağlamıştır. Kulye Tepesi, aynı zamanda iklim açısından da çeşitlilik gösterir ve burada bulunan mevsimsel değişimler, ziyaretçilere farklı deneyimler sunar. Bu tepe, coğrafi olarak zengin bir bölgedir ve ziyaretçilere, doğanın güzelliklerini sunar.
 
 ## Flora ve Fauna
 

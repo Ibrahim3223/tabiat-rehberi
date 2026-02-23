@@ -28,7 +28,7 @@ wikidata_id: "Q32200643"
 
 # Kotançor Tepesi
 
-Kotançor Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Erzurum'un bir parçasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılıyor. Bu tepe, doğal güzellikleri ve yürüyüş alanlarıyla özellikle doğa severlerin ilgi odağı haline geliyor. Kotançor Tepesi, Erzurum'un merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay.
+Kotançor Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Erzurum'un bir parçasıdır. Bu tepe, doğal güzellikleri ve yürüyüş alanlarıyla özellikle doğa severlerin ilgi odağı haline geliyor. Kotançor Tepesi, Erzurum'un merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Kotançor Tepesi, coğrafi olarak Doğu Anadolu Bölgesi'nin en güzel noktalar�
 
 ## Flora ve Fauna
 
-Kotançor Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Kotançor Tepesi, mevsimsel değişimlere göre farklı güzellikler sunuyor ve ziyaretçilerine doğanın güzelliğini gösteriyor. Bu bölgede, özellikle ilkbahar ve yaz aylarında, ziyaretçilerine renkli bir manzara sunan çiçekler ve bitkiler bulunuyor. Kotançor Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor ve ziyaretçilerine doğanın güzelliğini deneyimleme fırsatı sunuyor.
+ Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Kotançor Tepesi, mevsimsel değişimlere göre farklı güzellikler sunuyor ve ziyaretçilerine doğanın güzelliğini gösteriyor. Bu bölgede, özellikle ilkbahar ve yaz aylarında, ziyaretçilerine renkli bir manzara sunan çiçekler ve bitkiler bulunuyor. Kotançor Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor ve ziyaretçilerine doğanın güzelliğini deneyimleme fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Kotançor Tepesi'ni ziyaret etmek, özellikle doğa severler için büyük bir f
 
 - Kotançor Tepesi, Erzurum'un doğal güzelliklerinin bir parçası.
 - Bu tepe, yürüyüş ve keşif alanlarıyla ziyaretçilerine çeşitli aktiviteler sunuyor.
-- Kotançor Tepesi, flora ve fauna açısından oldukça zengin bir bölge.
+
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Kotançor Tepesi, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve yaz ayları en uygun zamanlar.

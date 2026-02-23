@@ -1,7 +1,7 @@
 ---
 title: "Gölhisar Gölü Sulak Alanı"
 date: "2026-01-09T21:34:58.723Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228843"
 
 # Gölhisar Gölü Sulak Alanı
 
-Gölhisar Gölü Sulak Alanı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli bir doğa rezervidir. Gölhisar Gölü, sulak alan ekosistemine ev sahipliği yapar ve birçok canlı türünün yaşamsal faaliyetlerini destekler. Alanın coğrafi konumu, onu zengin bir flora ve fauna çeşitliliğine sahip kılar. Gölhisar Gölü Sulak Alanı, doğa severler ve araştırmacılar için bir cennet gibidir ve ziyaretçilerini doğal güzellikleri ile büyüler.
+Gölhisar Gölü Sulak Alanı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. Gölhisar Gölü, sulak alan ekosistemine ev sahipliği yapar ve birçok canlı türünün yaşamsal faaliyetlerini destekler. Alanın coğrafi konumu, onu zengin bir flora ve fauna çeşitliliğine sahip kılar. Gölhisar Gölü Sulak Alanı, doğa severler ve araştırmacılar için bir cennet gibidir ve ziyaretçilerini doğal güzellikleri ile büyüler.
 
 ## Tarihçe
 

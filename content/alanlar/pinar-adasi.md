@@ -51,13 +51,13 @@ Mevsimsel değişimlerin etkisini taşıyan Pınar Adası, iklim karakteri açı
 
 ## Flora ve Fauna
 
-Pınar Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ada, geçiş iklimi ve karma ormanların birleştiği bir bölgede yer alır. 
+Pınar Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ada, geçiş iklimi ve karma ormanların birleştiği bir bölgede yer alır.
 
-İlkbaharla birlikte ada, renkli bir hal alır. Çiçeklerin açmasıyla birlikte, ada bir doğa harikasına dönüşür. Kıyı bitkileri, dalga ve rüzgarın şekillendirdiği bir peyzaj sunar. 
+İlkbaharla birlikte ada, renkli bir hal alır. Çiçeklerin açmasıyla birlikte, ada bir doğa harikasına dönüşür. Kıyı bitkileri, dalga ve rüzgarın şekillendirdiği bir peyzaj sunar.
 
-Ada, göçmen kuş rotası üzerinde yer aldığından, sonbaharda birçok kuş türünü barındırır. Deniz kuşları, adanın kayalıkıyılarında yuva yapar. 
+Ada, göçmen kuş rotası üzerinde yer aldığından, sonbaharda birçok kuş türünü barındırır. Deniz kuşları, adanın kayalıkıyılarında yuva yapar.
 
-Ada ekosistemi, izole popülasyonlar barındıran bir alandır. Bu reason, adaflor ve faunasının çeşitliliğini sağlar. Memeliler ve sürüngenler de adanın fauna çeşitliliğine katkıda bulunur. 
+Ada ekosistemi, izole popülasyonlar barındıran bir alandır. Bu reason, adaflor ve faunasının çeşitliliğini sağlar. Memeliler ve sürüngenler de adanın fauna çeşitliliğine katkıda bulunur.
 
 Pınar Adası, ekolojik değer bakımından önemli bir alandır. Ada, doğa severler için bir çekim merkezi olmasının yanı sıra, bilimsel araştırmalar için de önemli bir alan teşkil eder.
 

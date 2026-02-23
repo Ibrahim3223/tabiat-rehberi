@@ -48,9 +48,9 @@ Mevsimsel değişimlerin etkisi altında kalan Akyayla Tepe, iklimsel olarak kar
 
 ## Flora ve Fauna
 
-Akyayla Tepe, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-1. Bitki Örtüsü: İlkbaharla birlikte, alpin çayırlar renkli bir hal alır. Yükseklik zonlarına bağlı olarak, farklı bitki türleri görülebilir. 
-2. Yaban Hayatı: Dağ keçileri, yaban keçileri ve ayılar gibi memeliler, kartallar ve doğan gibi kuşlar, sürüngenler ve amfibiler bu dağların yaşam alanını paylaşır. 
+Akyayla Tepe, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+1. Bitki Örtüsü: İlkbaharla birlikte, alpin çayırlar renkli bir hal alır. Yükseklik zonlarına bağlı olarak, farklı bitki türleri görülebilir.
+2. Yaban Hayatı: Dağ keçileri, yaban keçileri ve ayılar gibi memeliler, kartallar ve doğan gibi kuşlar, sürüngenler ve amfibiler bu dağların yaşam alanını paylaşır.
 3. Ekolojik Değer: Akyayla Tepe, endemik türlerin korunması açısından önemlidir. Bu yüksek dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak için kritik öneme sahiptir.
 
 ## Ziyaret Bilgileri

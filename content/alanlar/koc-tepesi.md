@@ -28,7 +28,7 @@ wikidata_id: "Q32200844"
 
 # Koç Tepesi
 
-Koç Tepesi, Van ilinin güzide yerlerinden biri olarak Doğu Anadolu Bölgesi'nde yer alan bir tepe alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Koç Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Bu bölge, Van'ın önemli coğrafi oluşumlarından biri olarak, şehrin etrafındaki dağların bir uzantısı olarak düşünülebilir. Koç Tepesi'nin etrafı, çeşitli bitki türleriyle kaplı ve bu reason, bölgeye ayrı bir güzellik katıyor.
+Koç Tepesi, Van ilinin güzide yerlerinden biri olarak Doğu Anadolu Bölgesi'nde yer alan bir tepe alanıdır. Koç Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Bu bölge, Van'ın önemli coğrafi oluşumlarından biri olarak, şehrin etrafındaki dağların bir uzantısı olarak düşünülebilir. Koç Tepesi'nin etrafı, çeşitli bitki türleriyle kaplı ve bu reason, bölgeye ayrı bir güzellik katıyor.
 
 ## Tarihçe
 

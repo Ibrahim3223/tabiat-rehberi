@@ -1,7 +1,7 @@
 ---
 title: "Güzelköy Hamamı"
 date: "2026-01-09T23:42:57.855Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tekirdağ"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739156"
 
 # Güzelköy Hamamı
 
-Güzelköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Şarköy ilçesinde yer alır. Bu bölge, özellikle yaz aylarında tatilcilere ev sahipliği yapar ve güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir destinasyondur. Güzelköy Hamamı'nın güzelliği, çevreyiDiscover çevredeki nature ile birlikte düşünüldüğünde, buranın neden bu kadar özel olduğu anlaşılabilir.
+Güzelköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu bölge, özellikle yaz aylarında tatilcilere ev sahipliği yapar ve güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir destinasyondur. Güzelköy Hamamı'nın güzelliği, çevreyiDiscover çevredeki nature ile birlikte düşünüldüğünde, buranın neden bu kadar özel olduğu anlaşılabilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Güzelköy Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete
 
 ## Coğrafya
 
-Güzelköy Hamamı, Şarköy ilçesinde yer alır ve Marmara Bölgesi'nin en güzel plajlarından biridir. Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğündedir. Güzelköy Hamamı, deniz kıyısında yer alır ve çevresinde çeşitli bitki türleri bulunur. Bu bölgenin coğrafi yapısı, ziyaretçilere hem deniz hem de doğanın güzelliğini sunar. Güzelköy Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı olur. Bu bölgenin coğrafi konumu, ziyaretçilere birçok aktivite imkanı sunar ve doğa ile iç içe bir tatil deneyimi sağlar.
+Güzelköy Hamamı, Şarköy ilçesinde yer alır ve Marmara Bölgesi'nin en güzel plajlarından biridir. Güzelköy Hamamı, deniz kıyısında yer alır ve çevresinde çeşitli bitki türleri bulunur. Bu bölgenin coğrafi yapısı, ziyaretçilere hem deniz hem de doğanın güzelliğini sunar. Güzelköy Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı olur. Bu bölgenin coğrafi konumu, ziyaretçilere birçok aktivite imkanı sunar ve doğa ile iç içe bir tatil deneyimi sağlar.
 
 ## Flora ve Fauna
 

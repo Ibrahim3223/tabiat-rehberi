@@ -1,7 +1,7 @@
 ---
 title: "Turhan Müzesi"
 date: "2026-01-10T15:19:51.602Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q132949178"
 
 # Turhan Müzesi
 
-Turhan Müzesi, İstanbul'un kalbinde yer alan 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir kültür merkezi. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak. Turhan Müzesi, ziyaretçilerine zengin bir sanat ve tarih deneyimi sunuyor. Müzenin koleksiyonunda çeşitli eserler ve sergiler bulunuyor. Turhan Müzesi, aynı zamanda konserler, tiyatro performansları ve diğer kültürel etkinliklere de ev sahipliği yapıyor.
+Turhan Müzesi, İstanbul'un kalbinde yer alan 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir kültür merkezi. Turhan Müzesi, ziyaretçilerine zengin bir sanat ve tarih deneyimi sunuyor. Müzenin koleksiyonunda çeşitli eserler ve sergiler bulunuyor. Turhan Müzesi, aynı zamanda konserler, tiyatro performansları ve diğer kültürel etkinliklere de ev sahipliği yapıyor.
 
 ## Tarihçe
 

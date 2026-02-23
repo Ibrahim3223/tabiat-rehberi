@@ -32,8 +32,8 @@ Siirt'in büyüleyici dağ manzaraları arasında yer alan Binyandivan Dağı, d
 
 ## Tarihçe
 
-Siirt bölgesinde yer alan Binyandivan Dağı, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarih boyunca various uygarlıkların geçiş noktası olmuş, Urartular, Asurlar, Persler, Romalılar ve Osmanlılar gibi birçok medeniyetin izlerini taşımıştır. 
-Binyandivan Dağı, Türkiye'nin doğal mirasının önemli bir parçasını oluşturan dağlık alanlardan biridir. Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel kimliğinin şekillenmesinde önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu alanların insanlarla olan bağlantısını güçlendirmiştir. 
+Siirt bölgesinde yer alan Binyandivan Dağı, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarih boyunca various uygarlıkların geçiş noktası olmuş, Urartular, Asurlar, Persler, Romalılar ve Osmanlılar gibi birçok medeniyetin izlerini taşımıştır.
+Binyandivan Dağı, Türkiye'nin doğal mirasının önemli bir parçasını oluşturan dağlık alanlardan biridir. Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel kimliğinin şekillenmesinde önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu alanların insanlarla olan bağlantısını güçlendirmiştir.
 Binyandivan Dağı'nın eteklerinde ve çevresinde, çeşitli zaman dilimlerinden kalan tarihi kalıntılar ve izler bulunmakla birlikte, spesifik tarih bilgileri mevcut değildir. Ancak, bu bölgeyi kapsayan daha geniş coğrafyanın tarihsel önemini incelemek, Binyandivan Dağı'nın da bu zengin tarihsel mirasın bir parçası olduğunu göstermektedir.
 
 ## Coğrafya
@@ -48,9 +48,9 @@ Binyandivan Dağı, çevresindeki doğal alanlarla da önemli bir ilişkiye sahi
 
 ## Flora ve Fauna
 
-Binyandivan Dağı, Siirt'in yarı kurak ikliminin hakim olduğu bir bölgede yer alıyor. Bu dağ, yükseklik zonlarına göre değişen flora ve fauna çeşitliliğine ev sahipliği yapıyor. İlkbahar aylarında, dağ yamaçları renklendirerek çiçek açan çeşitli bitki türleriyle kaplanıyor. 
+Binyandivan Dağı, Siirt'in yarı kurak ikliminin hakim olduğu bir bölgede yer alıyor. Bu dağ, yükseklik zonlarına göre değişen flora ve fauna çeşitliliğine ev sahipliği yapıyor. İlkbahar aylarında, dağ yamaçları renklendirerek çiçek açan çeşitli bitki türleriyle kaplanıyor.
 
-Dağın farklı yükseklik zonlarında, step ve ova ekolojisinin özellikleri görülüyor. Step ekosisteminin hakim olduğu alanlarda, otsu bitkiler ve çalı türleri yaygındır. Bu bitkiler, dağda yaşayan hayvanlar için önemli bir besin kaynağı oluşturuyor. 
+Dağın farklı yükseklik zonlarında, step ve ova ekolojisinin özellikleri görülüyor. Step ekosisteminin hakim olduğu alanlarda, otsu bitkiler ve çalı türleri yaygındır. Bu bitkiler, dağda yaşayan hayvanlar için önemli bir besin kaynağı oluşturuyor.
 
 Yaban hayatı açısından da zengin olan Binyandivan Dağı, memeliler, kuşlar ve sürüngenler için yaşam alanı sağlıyor. Dağların yüksek kesimlerinde, dağ keçileri ve yaban keçileri gibi memeliler yaşarken, göç mevsiminde çeşitli kuş türleri buraya uğruyor. Sürüngenler ise daha çok step ve ova ekosistemlerinde görülüyor. Bu ekosistemlerin korunması, bu canlıların hayatta kalması için büyük önem taşıyor.
 

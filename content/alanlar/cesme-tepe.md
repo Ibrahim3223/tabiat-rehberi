@@ -1,7 +1,7 @@
 ---
 title: "Çeşme Tepe"
 date: "2026-01-09T06:21:37.575Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Batman"

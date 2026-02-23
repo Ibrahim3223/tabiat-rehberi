@@ -22,7 +22,7 @@ wikidata_id: "Q108228402"
 
 # Antalya-Akseki-Ibradi-Menengic
 
-Antalya-Akseki-Ibradi-Menengic milli parkı, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülüyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşillik sunuyor. Milli park, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunan bir mekan. Burada, doğanın güzellikleri ve zengin fauna ile karşılaşma mümkün. Milli parkın konumu, Akdeniz Bölgesi'nde yer alan Antalya ilinde bulunuyor ve bu sayede ılıman bir iklime sahip.
+Antalya-Akseki-Ibradi-Menengic milli parkı, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülüyor. Milli park, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunan bir mekan. Burada, doğanın güzellikleri ve zengin fauna ile karşılaşma mümkün. Milli parkın konumu, Akdeniz Bölgesi'nde yer alan Antalya ilinde bulunuyor ve bu sayede ılıman bir iklime sahip.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Akseki-Ibradi-Menengic milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Antalya-Akseki-Ibradi-Menengic milli parkı, coğrafi olarak zengin bir yapıya sahip. Burada, ziyaretçiler farklı coğrafi özellikler ile karşılaşabiliyorlar. Milli park, 140 hektarlık bir alanda yer alıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, bu bölge Akdeniz Bölgesi'nde yer alıyor ve ılıman bir iklime sahip. Milli parkın coğrafyası, ziyaretçilerine çeşitli manzaralar sunuyor. Burada, dağlar, ormanlar ve su kaynakları gibi farklı coğrafi özellikler bulunmakta. Milli parkın coğrafi konumu, ziyaretçilerine benzersiz bir doğa deneyimi sunuyor. Ayrıca, bu bölgede çeşitli bitki türleri ve fauna da bulunmakta.
+Antalya-Akseki-Ibradi-Menengic milli parkı, coğrafi olarak zengin bir yapıya sahip. Burada, ziyaretçiler farklı coğrafi özellikler ile karşılaşabiliyorlar. Coğrafi olarak, bu bölge Akdeniz Bölgesi'nde yer alıyor ve ılıman bir iklime sahip. Milli parkın coğrafyası, ziyaretçilerine çeşitli manzaralar sunuyor. Burada, dağlar, ormanlar ve su kaynakları gibi farklı coğrafi özellikler bulunmakta. Milli parkın coğrafi konumu, ziyaretçilerine benzersiz bir doğa deneyimi sunuyor. Ayrıca, bu bölgede çeşitli bitki türleri ve fauna da bulunmakta.
 
 ## Flora ve Fauna
 

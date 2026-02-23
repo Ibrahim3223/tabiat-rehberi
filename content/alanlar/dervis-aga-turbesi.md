@@ -1,7 +1,7 @@
 ---
 title: "Derviş Ağa Türbesi"
 date: "2026-01-10T04:54:45.251Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391488"
 
 # Derviş Ağa Türbesi
 
-Derviş Ağa Türbesi, Doğu Anadolu Bölgesi'nin.gui ve tarihi açıdan önemli bir bölgesi olan Yakutiye, Erzurum'da yer alan bir turizm merkezidir. Yakutiye'nin merkezinde bulunan bu tarihi mekan, yaklaşık 140 hektarlık bir alanı kaplar ve Yakutiye'nin yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Burada yer alan türbe, bölgenin tarihi ve kültürel mirasını yansıtan önemli bir yapıdır. Türbenin çevresinde yer alan doğal güzellikler, ziyaretçilerin doğayı keşfetmesine olanak sağlar.
+Derviş Ağa Türbesi, Doğu Anadolu Bölgesi'nin.gui ve tarihi açıdan önemli bir bölgesi olan Yakutiye, Erzurum'da yer alan bir turizm merkezidir. Burada yer alan türbe, bölgenin tarihi ve kültürel mirasını yansıtan önemli bir yapıdır. Türbenin çevresinde yer alan doğal güzellikler, ziyaretçilerin doğayı keşfetmesine olanak sağlar.
 
 ## Tarihçe
 

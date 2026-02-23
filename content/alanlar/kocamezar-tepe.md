@@ -28,7 +28,7 @@ wikidata_id: "Q31387549"
 
 # Kocamezar Tepe
 
-Kocamezar Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa alanı sunuyor. Kocamezar Tepe, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Bu tepe, Çanakkale'nin önemli noktalarından biri ve ziyaretçilerin gezi rotalarına eklemeleri gereken bir yer.
+Kocamezar Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Kocamezar Tepe, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Bu tepe, Çanakkale'nin önemli noktalarından biri ve ziyaretçilerin gezi rotalarına eklemeleri gereken bir yer.
 
 ## Tarihçe
 

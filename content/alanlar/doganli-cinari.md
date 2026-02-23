@@ -22,7 +22,7 @@ wikidata_id: "Q108228082"
 
 # Doğanli Cinari
 
-Doğanli Cinari, İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran bir milli park olarak ziyaretçilerini bekliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik noktalarından biri. Bu alan, hem doğal güzelliği hem de zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Doğanli Cinari, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve bölgenin tarihi geçmişi hakkında bilgi sahibi olmak isteyenler için önemli bir merkez.
+Doğanli Cinari, İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran bir milli park olarak ziyaretçilerini bekliyor. Bu alan, hem doğal güzelliği hem de zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Doğanli Cinari, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve bölgenin tarihi geçmişi hakkında bilgi sahibi olmak isteyenler için önemli bir merkez.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Doğanli Cinari'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Doğanli Cinari, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir milli park. Bu bölgenin coğrafyası, genellikle step ve ormanlık alanlardan oluşuyor. Milli park, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Doğanli Cinari'nin coğrafyası, ziyaretçilerine çeşitli manzaralar sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Bu milli park, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Doğanli Cinari, bölgenin ekolojik dengesinin korunması için önemli bir rol oynuyor ve ziyaretçilerine, doğal güzelliği ve zengin flora ve fauna çeşitliliği hakkında bilgi sahibi olma fırsatı sunuyor.
+Doğanli Cinari, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir milli park. Bu bölgenin coğrafyası, genellikle step ve ormanlık alanlardan oluşuyor. Doğanli Cinari'nin coğrafyası, ziyaretçilerine çeşitli manzaralar sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Bu milli park, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Doğanli Cinari, bölgenin ekolojik dengesinin korunması için önemli bir rol oynuyor ve ziyaretçilerine, doğal güzelliği ve zengin flora ve fauna çeşitliliği hakkında bilgi sahibi olma fırsatı sunuyor.
 
 ## Flora ve Fauna
 

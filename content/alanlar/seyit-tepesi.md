@@ -50,7 +50,7 @@ Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Seyit Tepesi, bir şehi
 
 ## Flora ve Fauna
 
-Seyit Tepesi, Şanlıurfa'nın yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir dağ ekosistemi. Bu dağlık alanda, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği görülmektedir. İlkbahar aylarında, tepelerin etekleri rengarenk çiçeklerle kaplanırken, yaz aylarında yüksekliklerdeki alpin flora ortaya çıkar. 
+Seyit Tepesi, Şanlıurfa'nın yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir dağ ekosistemi. Bu dağlık alanda, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği görülmektedir. İlkbahar aylarında, tepelerin etekleri rengarenk çiçeklerle kaplanırken, yaz aylarında yüksekliklerdeki alpin flora ortaya çıkar.
 
 Bu dağlık bölgede, çeşitli memeli ve kuş türleri yaşamaktadır. Göçmen kuşlar, sonbahar aylarında bu bölgeden geçerken, yerleşik türler ise dağların kayalık bölgelerinde yuvalanır. Sürüngenler de, özellikle step ve ova ekolojisinin hakim olduğu daha alçak bölgelerde faaliyet gösterir. Ekolojik olarak, bu canlılar birbirleriyle ve yaşam alanlarıyla sıkı bir ilişkiye sahiptir. Seyit Tepesi, bu nedenle önemli bir ekolojik değer taşımaktadır.
 

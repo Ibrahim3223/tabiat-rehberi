@@ -23,7 +23,7 @@ wikidata_id: "Q108227150"
 
 # Erenler Çamı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Erenler Çamı Milli Parkı, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşillik bir alandan oluşuyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğa alanı sunuyor. Park, bölgenin en önemli doğal güzelliklerinden biri olarak biliniyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Erenler Çamı, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel önemiyle de dikkat çekiyor. Burası, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmış ve bu nedenle zengin bir tarihi geçmişe sahip.
+İç Anadolu Bölgesi'nin kalbinde yer alan Erenler Çamı Milli Parkı, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşillik bir alandan oluşuyor. Park, bölgenin en önemli doğal güzelliklerinden biri olarak biliniyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Erenler Çamı, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel önemiyle de dikkat çekiyor. Burası, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmış ve bu nedenle zengin bir tarihi geçmişe sahip.
 
 ## Tarihçe
 

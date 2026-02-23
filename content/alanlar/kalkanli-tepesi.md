@@ -28,7 +28,7 @@ wikidata_id: "Q31387407"
 
 # Kalkanlı Tepesi
 
-Kalkanlı Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Kalkanlı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleriyle beraber, unutulmaz bir gezi deneyimi sunar. Burada, doğa severler için birçok fırsat bulunur. Tepe, yılın dört mevsiminde ziyaret edilebilir ve her mevsim, farklı bir güzelliğe sahip.
+Kalkanlı Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan bir tepe. Kalkanlı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleriyle beraber, unutulmaz bir gezi deneyimi sunar. Burada, doğa severler için birçok fırsat bulunur. Tepe, yılın dört mevsiminde ziyaret edilebilir ve her mevsim, farklı bir güzelliğe sahip.
 
 ## Tarihçe
 

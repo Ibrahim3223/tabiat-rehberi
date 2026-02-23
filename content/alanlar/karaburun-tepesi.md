@@ -28,7 +28,7 @@ wikidata_id: "Q31389304"
 
 # Karaburun Tepesi
 
-Karaburun Tepesi, Malatya'nın doğal güzelliklerinden biri olarak bilinir. Bu tepenin yüksekliği ve genişliği, ziyaretçilerine eşsiz bir manzara sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin doğayı keşfetmesine olanak tanır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin florasını zenginleştirir. Karaburun Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılabilir ve ziyaretçiler, buradan çevreyi izleyebilir.
+Karaburun Tepesi, Malatya'nın doğal güzelliklerinden biri olarak bilinir. Bu tepenin yüksekliği ve genişliği, ziyaretçilerine eşsiz bir manzara sunar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin florasını zenginleştirir. Karaburun Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılabilir ve ziyaretçiler, buradan çevreyi izleyebilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karaburun Tepesi, tarihi geçmişi ile dikkat çeker. Bu tepe, yüzyıllar boyun
 
 ## Coğrafya
 
-Karaburun Tepesi, Malatya'nın coğrafi özelliklerini yansıtan bir bölgedir. Tepenin yüksekliği, 2000 metreyi aşar ve bu yükseklik, bölgenin iklimini etkiler. Tepenin etrafında, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin florasını zenginleştirir. Karaburun Tepesi, aynı zamanda bir su kaynakları bölgesidir ve burada, çeşitli su kaynakları bulunur. Tepenin coğrafi özellikleri, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı tanır. 180 hektarlık bir alana yayılan Karaburun Tepesi, yaklaşık 300 futbol sahası büyüklüğündedir ve bu genişlik, ziyaretçilerin doğayı keşfetmesine olanak tanır.
+Karaburun Tepesi, Malatya'nın coğrafi özelliklerini yansıtan bir bölgedir. Tepenin yüksekliği, 2000 metreyi aşar ve bu yükseklik, bölgenin iklimini etkiler. Tepenin etrafında, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin florasını zenginleştirir. Karaburun Tepesi, aynı zamanda bir su kaynakları bölgesidir ve burada, çeşitli su kaynakları bulunur. Tepenin coğrafi özellikleri, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı tanır.
 
 ## Flora ve Fauna
 

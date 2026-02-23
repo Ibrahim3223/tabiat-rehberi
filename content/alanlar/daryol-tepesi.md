@@ -28,7 +28,7 @@ wikidata_id: "Q31388289"
 
 # Daryol Tepesi
 
-Daryol Tepesi, Kars ilinin sınırları içinde yer alan ve doğa severlerin ilgisini çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerine geniş bir manzara sunuyor. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Daryol Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor.
+Daryol Tepesi, Kars ilinin sınırları içinde yer alan ve doğa severlerin ilgisini çeken bir tepe. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Daryol Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor.
 
 ## Tarihçe
 

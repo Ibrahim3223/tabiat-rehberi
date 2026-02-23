@@ -1,7 +1,7 @@
 ---
 title: "Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi"
 date: "2026-01-10T05:07:17.247Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sakarya"
@@ -29,15 +29,15 @@ wikidata_id: "Q131391621"
 
 # Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi
 
-Sakarya'nın Adapazarı ilçesinde yer alan Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi, önemli bir dini merkez olarak bilinir. Bu türbe, bölgeye gelen ziyaretçiler için önemli bir dini ve kültürel merkez olarak görev yapar. Türbenin çevresinde, ziyaretçilerin dinlenebileceği ve ibadet edebileceği çeşitli alanlar bulunur. 140 hektarlık bir alan üzerinde kurulan bu kompleks, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilerin hem dinlenmesine hem de ibadet etmesine olanak tanır.
+Sakarya'nın Adapazarı ilçesinde yer alan Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi, önemli bir dini merkez olarak bilinir. Bu türbe, bölgeye gelen ziyaretçiler için önemli bir dini ve kültürel merkez olarak görev yapar. Türbenin çevresinde, ziyaretçilerin dinlenebileceği ve ibadet edebileceği çeşitli alanlar bulunur. Bu geniş alan, ziyaretçilerin hem dinlenmesine hem de ibadet etmesine olanak tanır.
 
 ## Tarihçe
 
-Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu süre zarfında, türbe birçok kez restore edilmiş ve genişletilmiştir. Türbenin tarihi, bölgenin dini ve kültürel geçmişini yansıtan önemli bir mirastır. Yüzyıllar boyunca, bu türbe birçok dini lider ve ziyaretçi tarafından ziyaret edilmiştir. Türbenin tarihi değerinin yanı sıra, mimari özellikleri de dikkat çekicidir. Geleneksel Türk mimarisinin özelliklerini taşıyan bu türbe, ziyaretçilere hem dini hem de kültürel bir deneyim sunar. Türbenin história, bölgenin zengin dini ve kültürel mirasını gözler önüne serer.
+Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu süre zarfında, türbe birçok kez restore edilmiş ve genişletilmiştir. Türbenin tarihi, bölgenin dini ve kültürel geçmişini yansıtan önemli bir mirastır. Yüzyıllar boyunca, bu türbe birçok dini lider ve ziyaretçi tarafından ziyaret edilmiştir. Türbenin tarihi değerinin yanı sıra, mimari özellikleri de dikkat çekicidir. Geleneksel Türk mimarisinin özelliklerini taşıyan bu türbe, ziyaretçilere hem dini hem de kültürel bir deneyim sunar. Türbenin tarihi, bölgenin zengin dini ve kültürel mirasını gözler önüne serer.
 
 ## Coğrafya
 
-Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi, Sakarya'nın Adapazarı ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Sakarya'nın merkezinde bulunur. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerine kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin etrafında, ziyaretçilerin dinlenebileceği ve ibadet edebileceği çeşitli alanlar bulunur. Bölgenin iklimi, genel olarak ılımandır. Kış ayları soğuktur, ancak yaz ayları sıcaktır. Bu iklim, ziyaretçilerin yıl boyunca türbeyi ziyaret etmelerine olanak tanır. Türbenin coğrafi konumu, ziyaretçilerin dàng ulaşabilmesine olanak tanır. Sakarya'nın merkezinde yer alan bu türbe, bölgenin önemli bir dini ve kültürel merkezi olarak görev yapar.
+Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi, Sakarya'nın Adapazarı ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Sakarya'nın merkezinde bulunur. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerine kurulmuştur. Türbenin etrafında, ziyaretçilerin dinlenebileceği ve ibadet edebileceği çeşitli alanlar bulunur. Bölgenin iklimi, genel olarak ılımandır. Kış ayları soğuktur, ancak yaz ayları sıcaktır. Bu iklim, ziyaretçilerin yıl boyunca türbeyi ziyaret etmelerine olanak tanır. Türbenin coğrafi konumu, ziyaretçilerin dàng ulaşabilmesine olanak tanır. Sakarya'nın merkezinde yer alan bu türbe, bölgenin önemli bir dini ve kültürel merkezi olarak görev yapar.
 
 ## Flora ve Fauna
 

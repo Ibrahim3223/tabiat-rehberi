@@ -28,15 +28,15 @@ wikidata_id: "Q34828402"
 
 # Çardağınkayası Tepesi
 
-Hatay'ın eşsiz manzarasına ev sahipliği yapan Çardağınkayası Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Çardağınkayası Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar. Tepenin eteklerinde bulunan köyler, misafirlerini sıcacık bir şekilde ağırlıyor. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla Çardağınkayası Tepesi, ziyaretçiler için bir cazibe merkezi.
+ Bu tepe, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Çardağınkayası Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar. Tepenin eteklerinde bulunan köyler, misafirlerini sıcacık bir şekilde ağırlıyor. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla Çardağınkayası Tepesi, ziyaretçiler için bir cazibe merkezi.
 
 ## Tarihçe
 
-Çardağınkayası Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak biliniyor. Bu tepenin eteklerinde, tarihin sâu izlerini taşıyan kalıntılara rastlama mümkün. Tarihi geçmişi, coğrafi konumu ve doğal güzelliği ile Çardağınkayası Tepesi, bir çok medeniyetin izlerini taşıyor. Tepenin tarihi, bölgenin kültürel zenginliğini yansıtıyor. Bu tepe, yüzyıllar boyunca birçok uygarlığa ev sahipliği yapmış ve her birinin izlerini taşıyor. Çardağınkayası Tepesi'nin tarihi, bölgenin tarihi ve kültürel mirasının önemli bir parçasını oluşturuyor.
+Çardağınkayası Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak biliniyor. Bu tepenin eteklerinde, tarihin derin izlerini taşıyan kalıntılara rastlama mümkün. Tarihi geçmişi, coğrafi konumu ve doğal güzelliği ile Çardağınkayası Tepesi, bir çok medeniyetin izlerini taşıyor. Tepenin tarihi, bölgenin kültürel zenginliğini yansıtıyor. Bu tepe, yüzyıllar boyunca birçok uygarlığa ev sahipliği yapmış ve her birinin izlerini taşıyor. Çardağınkayası Tepesi'nin tarihi, bölgenin tarihi ve kültürel mirasının önemli bir parçasını oluşturuyor.
 
 ## Coğrafya
 
-Çardağınkayası Tepesi, Hatay ilinin güzide bir bölgesinde yer alıyor. Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede bulunuyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan Çardağınkayası Tepesi, coğrafi konumu itibariyle önemli bir doğal güzellik. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontruluyor. Çardağınkayası Tepesi'nin coğrafi konumu, bölgenin iklimini ve doğal güzelliğini etkiliyor. Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısını ve doğal güzelliğini yansıtan önemli bir bölge olarak biliniyor. Çardağınkayası Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar ve coğrafi konumu itibariyle önemli bir doğal güzellik olarak kabul ediliyor.
+Çardağınkayası Tepesi, Hatay ilinin güzide bir bölgesinde yer alıyor. Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede bulunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontruluyor. Çardağınkayası Tepesi'nin coğrafi konumu, bölgenin iklimini ve doğal güzelliğini etkiliyor. Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısını ve doğal güzelliğini yansıtan önemli bir bölge olarak biliniyor. Çardağınkayası Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar ve coğrafi konumu itibariyle önemli bir doğal güzellik olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Hatay'ın eşsiz manzarasına ev sahipliği yapan Çardağınkayası Tepesi, 140
 - Çardağınkayası Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde
 - Bu tepe, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor
 - Çardağınkayası Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak biliniyor
-- Tepenin eteklerinde, tarihin sâu izlerini taşıyan kalıntılara rastlama mümkün
+- Tepenin eteklerinde, tarihin derin izlerini taşıyan kalıntılara rastlama mümkün
 - Çardağınkayası Tepesi, doğa severler için bir cennet olarak biliniyor

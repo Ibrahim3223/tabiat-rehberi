@@ -28,7 +28,7 @@ wikidata_id: "Q31556297"
 
 # Tehup Tepesi
 
-Mardin'in güneydoğusunda yer alan Tehup Tepesi, etwa 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle etkileyen bir destinasyondur. Tehup Tepesi, Mardin'in merkezine uzun bir mesafe uzaklıkta bulunmaktadır. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihini anlatan önemli bir noktadır.
+ Tehup Tepesi, Mardin'in merkezine uzun bir mesafe uzaklıkta bulunmaktadır. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihini anlatan önemli bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tehup Tepesi, tarihin farklı dönemlerine tanıklık etmiş ve çeşitli uygarl
 
 ## Coğrafya
 
-Tehup Tepesi, Mardin'in güneydoğusunda yer alan ve etwa 140 hektarlık bir alanı kaplayan bir tepe olarak tanımlanabilir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olup, Mardin'in merkezine uzun bir mesafe uzaklıkta bulunmaktadır. Tehup Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihini anlatan önemli bir noktadır. Bu bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterizedir. Tehup Tepesi'nin coğrafi yapısı, bölgenin genel coğrafyasını yansıtan bir yapıya sahiptir. Tehup Tepesi'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, bölgenin iklimini ve coğrafi yapısını etkileyen önemli faktörlerdir.
+Tehup Tepesi, Mardin'in güneydoğusunda yer alan ve etwa 140 hektarlık bir alanı kaplayan bir tepe olarak tanımlanabilir. Tehup Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihini anlatan önemli bir noktadır. Bu bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterizedir. Tehup Tepesi'nin coğrafi yapısı, bölgenin genel coğrafyasını yansıtan bir yapıya sahiptir. Tehup Tepesi'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, bölgenin iklimini ve coğrafi yapısını etkileyen önemli faktörlerdir.
 
 ## Flora ve Fauna
 

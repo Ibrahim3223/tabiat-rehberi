@@ -22,7 +22,7 @@ wikidata_id: "Q108227170"
 
 # Bitez Yalisi Zeytin Agaci
 
-Bitez Yalisi Zeytin Agaci, İç Anadolu Bölgesi'nin güzide bir bölgesinde, yaklaşık 140 hektarlık bir alanı kaplayarak, ziyaretçilerini büyüleyici bir doğa ortamına davet ediyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Bitez Yalisi Zeytin Agaci, özellikle zeytin ağaçları ile ünlü ve bu ağaçların güzelliği, ziyaretçilerin dikkatini çekmeyi başarıyor. Doğal güzelliği, tarihi geçmişi ve ziyaretçilere sunduğu olanaklar ile Bitez Yalisi Zeytin Agaci, her yıl birçok turisti ağırlayan önemli bir turizm merkezi haline geliyor.
+Bitez Yalisi Zeytin Agaci, İç Anadolu Bölgesi'nin güzide bir bölgesinde, yaklaşık 140 hektarlık bir alanı kaplayarak, ziyaretçilerini büyüleyici bir doğa ortamına davet ediyor. Bitez Yalisi Zeytin Agaci, özellikle zeytin ağaçları ile ünlü ve bu ağaçların güzelliği, ziyaretçilerin dikkatini çekmeyi başarıyor. Doğal güzelliği, tarihi geçmişi ve ziyaretçilere sunduğu olanaklar ile Bitez Yalisi Zeytin Agaci, her yıl birçok turisti ağırlayan önemli bir turizm merkezi haline geliyor.
 
 ## Tarihçe
 

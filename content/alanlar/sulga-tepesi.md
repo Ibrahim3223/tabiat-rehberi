@@ -28,7 +28,7 @@ wikidata_id: "Q31388238"
 
 # Sulga Tepesi
 
-Sulga Tepesi, Kars ilinin sınırları içerisinde yer alan ve bölgeyi keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. Bu tepe, etwa 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Sulga Tepesi, doğa severler ve macera arayanlar için ideal bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sulga Tepesi, Kars'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta.
+Sulga Tepesi, Kars ilinin sınırları içerisinde yer alan ve bölgeyi keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. Sulga Tepesi, doğa severler ve macera arayanlar için ideal bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sulga Tepesi, Kars'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta.
 
 ## Tarihçe
 

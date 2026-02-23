@@ -1,7 +1,7 @@
 ---
 title: "Yatağan Baba Türbesi, Serinhisar"
 date: "2026-01-10T06:35:40.028Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735181"
 
 # Yatağan Baba Türbesi, Serinhisar
 
-Yatağan Baba Türbesi, Serinhisar, Ege Bölgesi'nin turizm cenneti olan Denizli ilinin bir bölümüdür. Bu bölge, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi geçmişi ile dikkat çekiyor. Yatağan Baba Türbesi, hem dini hem de kültürel açıdan önemli bir yer. Burada, ziyaretçiler hem tarihi hem de doğal güzellikleri keşfedebilir. Yatağan Baba Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, hem yerli hem de yabancı turistler için bir çekim merkezi olarak kabul ediliyor. Yatağan Baba Türbesi, Serinhisar'da gezilecek yerler arasında ilk sıralarda yer alıyor.
+Yatağan Baba Türbesi, Serinhisar, Ege Bölgesi'nin turizm cenneti olan Denizli ilinin bir bölümüdür. Yatağan Baba Türbesi, hem dini hem de kültürel açıdan önemli bir yer. Burada, ziyaretçiler hem tarihi hem de doğal güzellikleri keşfedebilir. Yatağan Baba Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, hem yerli hem de yabancı turistler için bir çekim merkezi olarak kabul ediliyor. Yatağan Baba Türbesi, Serinhisar'da gezilecek yerler arasında ilk sıralarda yer alıyor.
 
 ## Tarihçe
 

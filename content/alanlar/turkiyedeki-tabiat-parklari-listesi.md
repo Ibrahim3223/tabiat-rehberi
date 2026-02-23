@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Türkiye'deki tabiat parkları listesi
 
-Polonezköy Tabiat Parkı, İstanbul'un Beykoz ilçesinde yer alan, yaklaşık 300 hektarlık bir alanı kapsayan doğal bir güzelliğimiz. 300 hektarlık bu yeşil alan, yaklaşık 400 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Parkın içinde çeşitli değil, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu doğal güzellik, yaban hayatı sevenler için gerçek bir cennet. Polonezköy, hem yerli hem de yabancı turistlerin ilgisini çekiyor ve ziyaretçilerine unutulmaz anlar yaşatıyor.
+Polonezköy Tabiat Parkı, İstanbul'un Beykoz ilçesinde yer alan, yaklaşık 300 hektarlık bir alanı kapsayan doğal bir güzelliğimiz. Parkın içinde çeşitli değil, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu doğal güzellik, yaban hayatı sevenler için gerçek bir cennet.
 
 ## Tarihçe
 
@@ -29,7 +29,7 @@ Polonezköy Tabiat Parkı, 1994 yılında tabiat parkı olarak ilan edilmiştir.
 
 ## Coğrafya
 
-Polonezköy Tabiat Parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri. Park, İstanbul'un Beykoz ilçesinde yer alıyor ve khong 300 hektarlık bir alanı kapsıyor. Bu 300 hektarlık alan, yaklaşık 400 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini ve doğal yaşamı deneyimleme fırsatı sunuyor. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösteriyor. Parkın coğrafyası, ziyaretçilere çeşitli bitki türleri ve hayvanlar hakkında bilgi edinme fırsatı sunuyor. Parkın çevre düzenlemesi, ziyaretçilere güzel bir güzergah sunuyor.
+Polonezköy Tabiat Parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri. Park, İstanbul'un Beykoz ilçesinde yer alıyor ve khong 300 hektarlık bir alanı kapsıyor. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini ve doğal yaşamı deneyimleme fırsatı sunuyor. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösteriyor. Parkın coğrafyası, ziyaretçilere çeşitli bitki türleri ve hayvanlar hakkında bilgi edinme fırsatı sunuyor. Parkın çevre düzenlemesi, ziyaretçilere güzel bir güzergah sunuyor.
 
 ## Flora ve Fauna
 

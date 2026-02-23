@@ -32,7 +32,7 @@ Erzincan'ın dağlık arazisinde yer alan Sernek Dağı, Türkiye'nin doğa hari
 
 ## Tarihçe
 
-Erzincan bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölgede, Hitit, Roma ve Selçuklu gibi uygarlıkların izlerine rastlama mümkün. Sernek Dağı da bu tarihsel zenginliğin bir parçasını oluşturur. Türkiye'nin doğal mirasının önemli bir bileşeni olan dağlar, yüzyıllar boyunca insanların yaşamına yön vermiştir.
+Erzincan bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölgede, Hitit, Roma ve Selçuklu gibi uygarlıkların izlerine rastlama mümkün. Sernek Dağı da bu tarihsel zenginliğin bir parçasını oluşturur. Türkiye'nin doğal mirasının önemli bir bileşeni olan dağlar, yüzyıllar boyunca insanların yaşamına yön vermiştir.
 
 Bu bölgede yaşayan halk, yüzyıllarca yaylacılık ve hayvancılıkla uğraşmış, dağların verimli otlaklarını değerlendirmiştir. Aynı zamanda, tarihi İpek Yolu'nun bir bölümü de bu bölge üzerinden geçmiştir. Bu ticaret yolları, bölgenin kültürel ve ekonomik olarak zenginleşmesine katkıda bulunmuştur. Doğal güzellikleri ve stratejik konumuyla, Sernek Dağı ve çevresi, tarihin akışını şekillendiren önemli bir coğrafyadır. Bu dağların eteklerinde kurulan yerleşim yerleri, bölgenin tarihsel önemini günümüze taşımıştır.
 

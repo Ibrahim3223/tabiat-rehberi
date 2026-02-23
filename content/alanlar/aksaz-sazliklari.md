@@ -22,7 +22,7 @@ wikidata_id: "Q108228867"
 
 # Aksaz Sazlıkları
 
-Aksaz Sazlıkları, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini koruyor. Sazlıklar, çeşitli bitki türleri ve zengin fauna ile birlikte, yaban hayatı için önemli bir yaşam alanı oluşturuyor. Bu sazlıklar, aynı zamanda bölgenin su dengesini de sağlıyor ve yeraltı su kaynaklarını besliyor. Aksaz Sazlıkları, doğal güzelliği ve ekolojik önemi ile birlikte, ziyaretçilerini büyülüyor.
+Aksaz Sazlıkları, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Sazlıklar, çeşitli bitki türleri ve zengin fauna ile birlikte, yaban hayatı için önemli bir yaşam alanı oluşturuyor. Bu sazlıklar, aynı zamanda bölgenin su dengesini de sağlıyor ve yeraltı su kaynaklarını besliyor. Aksaz Sazlıkları, doğal güzelliği ve ekolojik önemi ile birlikte, ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Aksaz Sazlıkları, ziyaretçilerini doğanın güzelliği ve ekolojik önemi il
 
 ## İlginç Bilgiler
 
-- Aksaz Sazlıkları, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Sazlıklar, çeşitli bitki türleri ve zengin fauna ile birlikte, yaban hayatı için önemli bir yaşam alanı oluşturuyor.
 - Aksaz Sazlıkları, aynı zamanda bölgenin su dengesini de sağlıyor ve yeraltı su kaynaklarını besliyor.
 - Sazlıkların etrafında, çeşitli uygarlıklar tarafından yerleşim yeri olarak kullanılmış.

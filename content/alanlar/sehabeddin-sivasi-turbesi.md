@@ -1,7 +1,7 @@
 ---
 title: "Şehabeddin Sivasi Türbesi"
 date: "2026-01-10T04:55:31.618Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -38,7 +38,7 @@ wikidata_id: "Q131391558"
 
 ## Coğrafya
 
-Şehabeddin Sivasi Türbesi, Ege Bölgesi'nin güneşli ve ılıman ikliminin hakim olduğu bir bölgede yer almaktadır. İzmir'in Selçuk ilçesinde bulunan bu türbe, yeşilliklerin ve çiçeklerin renk cümbüşü ile çevrili bir ortamda ziyaretçilerini ağırlamaktadır. Çevresindeki doğal güzellikler, ziyaretçilere piknik yapma, doğa yürüyüşü ve fotoğrafçılık gibi aktiviteler için ideal bir ortam sunmaktadır. Türbenin bulunduğu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet olarak ziyaretçilerini karşılamaktadır. Bu bölgenin coğrafi güzellikleri, ziyaretçilere hem dinlenme hem de eğlenme imkanı sunmaktadır. Ayrıca, türbenin yakınında bulunan tarihi ve kültürel yapılar, ziyaretçilere geniş bir gezi alanı sunmakta ve bölgenin coğrafi zenginliklerini keşfetme fırsatı vermektedir.
+Şehabeddin Sivasi Türbesi, Ege Bölgesi'nin güneşli ve ılıman ikliminin hakim olduğu bir bölgede yer almaktadır. İzmir'in Selçuk ilçesinde bulunan bu türbe, yeşilliklerin ve çiçeklerin renk cümbüşü ile çevrili bir ortamda ziyaretçilerini ağırlamaktadır. Çevresindeki doğal güzellikler, ziyaretçilere piknik yapma, doğa yürüyüşü ve fotoğrafçılık gibi aktiviteler için ideal bir ortam sunmaktadır. Bu bölgenin coğrafi güzellikleri, ziyaretçilere hem dinlenme hem de eğlenme imkanı sunmaktadır. Ayrıca, türbenin yakınında bulunan tarihi ve kültürel yapılar, ziyaretçilere geniş bir gezi alanı sunmakta ve bölgenin coğrafi zenginliklerini keşfetme fırsatı vermektedir.
 
 ## Flora ve Fauna
 

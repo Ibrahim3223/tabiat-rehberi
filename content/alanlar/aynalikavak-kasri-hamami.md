@@ -1,7 +1,7 @@
 ---
 title: "Aynalıkavak Kasrı Hamamı"
 date: "2026-01-09T23:44:26.164Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739144"
 
 # Aynalıkavak Kasrı Hamamı
 
-Aynalıkavak Kasrı Hamamı, İstanbul'un tarihi mekanlarından biridir. Beyoğlu'nda yer alan bu tarihi yapı, Marmara Bölgesi'nin kalbinde bulunur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Aynalıkavak Kasrı Hamamı, İstanbul'un önemli kültür miraslarından biri olarak kabul edilir. Bu tarihi mekan, ziyaretçilerini geçmişe götürerek zengin bir tarih ve kültür deneyimi sunar. İstanbul'un kalbinde yer alan Aynalıkavak Kasrı Hamamı, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+Aynalıkavak Kasrı Hamamı, İstanbul'un tarihi mekanlarından biridir. Beyoğlu'nda yer alan bu tarihi yapı, Marmara Bölgesi'nin kalbinde bulunur. Aynalıkavak Kasrı Hamamı, İstanbul'un önemli kültür miraslarından biri olarak kabul edilir. Bu tarihi mekan, ziyaretçilerini geçmişe götürerek zengin bir tarih ve kültür deneyimi sunar. İstanbul'un kalbinde yer alan Aynalıkavak Kasrı Hamamı, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

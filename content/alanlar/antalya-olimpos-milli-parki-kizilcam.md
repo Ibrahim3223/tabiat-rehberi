@@ -22,7 +22,7 @@ wikidata_id: "Q108227299"
 
 # Antalya-Olimpos Milli Parki Kızılçam
 
-Antalya-Olimpos Milli Parkı Kızılçam, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Parkın girintili ve çıkıntılı yapısı, ziyaretçilere her adımında yeni keşifler sunuyor. Burada, yaban hayatının zenginliğini ve doğanın güzelliğini gözlemleme mümkün. Parkın içinde, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu da ziyaretçilere doğanın renkli dünyasını keşfetme fırsatı sunuyor.
+Antalya-Olimpos Milli Parkı Kızılçam, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Parkın girintili ve çıkıntılı yapısı, ziyaretçilere her adımında yeni keşifler sunuyor. Burada, yaban hayatının zenginliğini ve doğanın güzelliğini gözlemleme mümkün. Parkın içinde, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu da ziyaretçilere doğanın renkli dünyasını keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

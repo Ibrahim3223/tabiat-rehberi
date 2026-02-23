@@ -1,7 +1,7 @@
 ---
 title: "Mahmut Nedim Paşa Türbesi"
 date: "2026-01-10T07:20:40.503Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391082"
 
 # Mahmut Nedim Paşa Türbesi
 
-Mahmut Nedim Paşa Türbesi, İstanbul'un tarihi ilçesi Fatih'te yer alan bir türbedir. Bu türbe, Marmara Bölgesi'nin en önemli tarihi mekanlarından biridir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Mahmut Nedim Paşa Türbesi, yüzyıllar boyunca önemli bir tarihi figür olan Mahmut Nedim Paşa'nın anıt mezarı olarak hizmet vermektedir. Türbenin çevresi, ziyaretçilere tarihi bir atmosfer sunmaktadır. Mahmut Nedim Paşa'nın hayatı ve dönemi, türbenin tarihi önemini açıklamaktadır. Türbenin mimarisi, Osmanlı dönemine ait tarihi yapıların özellikleri ile dikkat çekmektedir.
+Mahmut Nedim Paşa Türbesi, İstanbul'un tarihi ilçesi Fatih'te yer alan bir türbedir. Bu türbe, Marmara Bölgesi'nin en önemli tarihi mekanlarından biridir. Mahmut Nedim Paşa Türbesi, yüzyıllar boyunca önemli bir tarihi figür olan Mahmut Nedim Paşa'nın anıt mezarı olarak hizmet vermektedir. Türbenin çevresi, ziyaretçilere tarihi bir atmosfer sunmaktadır. Mahmut Nedim Paşa'nın hayatı ve dönemi, türbenin tarihi önemini açıklamaktadır. Türbenin mimarisi, Osmanlı dönemine ait tarihi yapıların özellikleri ile dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mahmut Nedim Paşa Türbesi, tarihi bir geçmişe sahiptir. Mahmut Nedim Paşa, 
 
 ## Coğrafya
 
-Mahmut Nedim Paşa Türbesi, Fatih ilçesinde yer almaktadır. Türbenin konumu, Marmara Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Bölge, tarihi yapılar ve yeşil alanlar ile çevrilidir. Türbenin çevresi, ziyaretçilere geniş bir yeşil alan sunmaktadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Yeşil alan, ziyaretçilere dinlenme ve gezi imkanı sunmaktadır. Mahmut Nedim Paşa Türbesi, İstanbul'un tarihi mekanlarından biridir. Türbenin mimarisi, Osmanlı dönemine ait tarihi yapıların özelliklerini yansıtmaktadır. Türbenin çevresi, tarihi bir atmosfer sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin iklimi ile benzerlik göstermektedir. İlkbahar ve sonbahar ayları, ziyaret için en uygun zamanlardır.
+Mahmut Nedim Paşa Türbesi, Fatih ilçesinde yer almaktadır. Türbenin konumu, Marmara Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Bölge, tarihi yapılar ve yeşil alanlar ile çevrilidir. Türbenin çevresi, ziyaretçilere geniş bir yeşil alan sunmaktadır. Yeşil alan, ziyaretçilere dinlenme ve gezi imkanı sunmaktadır. Mahmut Nedim Paşa Türbesi, İstanbul'un tarihi mekanlarından biridir. Türbenin mimarisi, Osmanlı dönemine ait tarihi yapıların özelliklerini yansıtmaktadır. Türbenin çevresi, tarihi bir atmosfer sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin iklimi ile benzerlik göstermektedir. İlkbahar ve sonbahar ayları, ziyaret için en uygun zamanlardır.
 
 ## Flora ve Fauna
 

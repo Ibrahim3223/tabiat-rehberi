@@ -22,7 +22,7 @@ wikidata_id: "Q108227791"
 
 # Giresun-Unye-Kumru Dogu Kayini
 
-Giresun-Unye-Kumru Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları gözlemleyebilir. Milli park, aynı zamanda yürüyüş ve doğa yürüyüşü gibi hotiteler için ideal bir yerdir. Giresun-Unye-Kumru Dogu Kayini milli parkı, doğa severlerin ziyaret etmesi gereken bir destinasyon olarak öne çıkar.
+Giresun-Unye-Kumru Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları gözlemleyebilir. Milli park, aynı zamanda yürüyüş ve doğa yürüyüşü gibi hotiteler için ideal bir yerdir. Giresun-Unye-Kumru Dogu Kayini milli parkı, doğa severlerin ziyaret etmesi gereken bir destinasyon olarak öne çıkar.
 
 ## Tarihçe
 

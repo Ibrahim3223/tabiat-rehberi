@@ -29,7 +29,7 @@ wikidata_id: "Q34788771"
 
 # Zeytinli Ada
 
-Balıkesir'in sakin sularında gizlenen Zeytinli Ada, Türkiye'nin en güzel ve histórik noktalarından biri olarak biliniyor. Bu ada, Balıkesir'in eşsiz doğası içinde yer alıyor. Zeytinli Ada, ziyaretçilerini çekici atmosferi ve tarihi güzelliği ile etkiliyor. Balıkesir'in turizm noktaları arasında önemli bir yer tutuyor.
+Balıkesir'in sakin sularında gizlenen Zeytinli Ada, Türkiye'nin en güzel ve tarihi noktalarından biri olarak biliniyor. Bu ada, Balıkesir'in eşsiz doğası içinde yer alıyor. Zeytinli Ada, ziyaretçilerini çekici atmosferi ve tarihi güzelliği ile etkiliyor. Balıkesir'in turizm noktaları arasında önemli bir yer tutuyor.
 
 ## Tarihçe
 

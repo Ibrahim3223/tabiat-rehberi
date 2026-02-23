@@ -33,8 +33,8 @@ Antalya'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir dest
 
 ## Tarihçe
 
-Antalya'nın zengin tarihî dokusu, Aşıklar Mağarası'nın bulunduğu bölgeyi de etkilemiştir. Bölge, tarih boyunca çeşitli uygarlıkların izlerine tanık olmuştur. Hitit, Likya, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve kültürel miras bırakmıştır. 
-Doğal güzellikleri ve stratejik konumuyla, Antalya ve çevresi, tarih boyunca insanların ilgisini çekmiştir. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgede insan faaliyetlerinin temelini oluşturmuştur. 
+Antalya'nın zengin tarihî dokusu, Aşıklar Mağarası'nın bulunduğu bölgeyi de etkilemiştir. Bölge, tarih boyunca çeşitli uygarlıkların izlerine tanık olmuştur. Hitit, Likya, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve kültürel miras bırakmıştır.
+Doğal güzellikleri ve stratejik konumuyla, Antalya ve çevresi, tarih boyunca insanların ilgisini çekmiştir. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgede insan faaliyetlerinin temelini oluşturmuştur.
 Aşıklar Mağarası da, bu doğal ve kültürel zenginliklerin bir parçasıdır. Türkiye'de birçok jeolojik oluşum gibi, bu mağara da milyonlarca yıllık bir geçmişe sahiptir. Bölgenin jeolojik yapısı, mağaranın oluşumunda etkili olmuş ve günümüzde ziyaretçilerini büyüleyen bir doğal güzelliğe dönüşmüştür.
 
 ## Coğrafya

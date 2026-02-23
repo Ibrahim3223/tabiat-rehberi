@@ -1,7 +1,7 @@
 ---
 title: "Sarıköy Hamamı"
 date: "2026-01-09T23:45:36.009Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739234"
 
 # Sarıköy Hamamı
 
-Sarıköy Hamamı, Gönen'in sakin ve güzel bir köşesinde yer alan, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahiptir. Plajın etrafında yer alan çam ağaçları, ziyaretçilere gölge ve serinlik sağlar. Sarıköy Hamamı, sakin ve huzurlu bir atmosfere sahip olmasıyla bilinir ve özellikle aileler ve doğa severler tarafından tercih edilir. Bu güzel plajda, deniz keyfi yapabilir, güneşin tadını çıkarabilir ve çevreyi keşfedebilirsiniz.
+Sarıköy Hamamı, Gönen'in sakin ve güzel bir köşesinde yer alan, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Plajın etrafında yer alan çam ağaçları, ziyaretçilere gölge ve serinlik sağlar. Sarıköy Hamamı, sakin ve huzurlu bir atmosfere sahip olmasıyla bilinir ve özellikle aileler ve doğa severler tarafından tercih edilir. Bu güzel plajda, deniz keyfi yapabilir, güneşin tadını çıkarabilir ve çevreyi keşfedebilirsiniz.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Sarıköy Hamamı, zengin bir flora ve faunaya sahiptir. Plajın etrafında yer 
 
 ## Ziyaret Bilgileri
 
-Sarıköy Hamamı, yılın her döneminde ziyaret edilebilir. Ancak, en iyi ziyaret dönemi, Mayıs ve Eylül ayları arasında olan yaz aylarıdır. Bu dönemde, hava sıcaklığı ve deniz suyu sıcaklığı, ziyaretçilere ideal koşullar sunar. Sarıköy Hamamı'na, Gönen merkezinden fácil ulaşımümkün olup, ziyaretçiler, özel araçlarıyla veya toplu taşıma araçlarıyla bu güzel plaja ulaşabilirler. Plajda, çeşitli restoran ve kafeler bulunmakta olup, ziyaretçiler, deniz keyfi yaparken aynı zamanda lezzetli yemeklerin tadını çıkarabilirler.
+Sarıköy Hamamı, yılın her döneminde ziyaret edilebilir. Ancak, en iyi ziyaret dönemi, Mayıs ve Eylül ayları arasında olan yaz aylarıdır. Bu dönemde, hava sıcaklığı ve deniz suyu sıcaklığı, ziyaretçilere ideal koşullar sunar. Sarıköy Hamamı'na, Gönen merkezinden kolay ulaşımümkün olup, ziyaretçiler, özel araçlarıyla veya toplu taşıma araçlarıyla bu güzel plaja ulaşabilirler. Plajda, çeşitli restoran ve kafeler bulunmakta olup, ziyaretçiler, deniz keyfi yaparken aynı zamanda lezzetli yemeklerin tadını çıkarabilirler.
 
 ## İlginç Bilgiler
 

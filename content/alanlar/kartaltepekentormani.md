@@ -22,7 +22,7 @@ wikidata_id: "Q108228605"
 
 # KARTALTEPEKENTORMANI
 
-Kartaltepe Kent Ormanı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık alanıyla ziyaretçilerini karşılar. Bu yeşil alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görür. Ormanın içinde çeşitli bitki türleri ve hayvanlar bulunur. 140 hektarlık bu yeşil alan, şehrin merkezine oldukça yakındır ve ulaşımı kolaydır. Ormanda yapılan faaliyetler arasında doğa yürüyüşleri, pikni ve fotoğrafçılık bulunur.
+ Bu yeşil alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görür. Ormanın içinde çeşitli bitki türleri ve hayvanlar bulunur. 140 hektarlık bu yeşil alan, şehrin merkezine oldukça yakındır ve ulaşımı kolaydır. Ormanda yapılan faaliyetler arasında doğa yürüyüşleri, pikni ve fotoğrafçılık bulunur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kartaltepe Kent Ormanı, çeşitli bitki türleri ve hayvanlarla dolu bir ekosis
 
 ## Ziyaret Bilgileri
 
-Kartaltepe Kent Ormanı, ziyaretçilerini yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanda ağırlar. Ormana, ulaşım kolaydır ve ziyaretçiler, ormanın içinde çeşitli faaliyetler yapabilirler. Ormanda, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi faaliyetler yapılabilir. Ziyaretçiler, ormanın güzelliğini ve çeşitliliğini keşfedebilirler. Ormana gitmek için en iyi zaman, mevsimsel koşulların uygun olduğu dönemlerdir.
+ Ormana, ulaşım kolaydır ve ziyaretçiler, ormanın içinde çeşitli faaliyetler yapabilirler. Ormanda, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi faaliyetler yapılabilir. Ziyaretçiler, ormanın güzelliğini ve çeşitliliğini keşfedebilirler. Ormana gitmek için en iyi zaman, mevsimsel koşulların uygun olduğu dönemlerdir.
 
 ## İlginç Bilgiler
 

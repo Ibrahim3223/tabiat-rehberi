@@ -1,7 +1,7 @@
 ---
 title: "Asılhan Bey Hamamı"
 date: "2026-01-09T23:18:13.536Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ezine"

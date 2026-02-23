@@ -1,7 +1,7 @@
 ---
 title: "Ferhat Bey Hamamı"
 date: "2026-01-09T22:19:00.774Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırklareli"
@@ -30,7 +30,7 @@ wikidata_id: "Q127936533"
 
 # Ferhat Bey Hamamı
 
-Ferhat Bey Hamamı, Marmara Bölgesi'nin güzelliklerinden biri olan Kırklareli ilinin Vize ilçesinde yer alıyor. Bu tarihi ve doğal güzelliği, yaklaşık 140 hektarlık bir alanda bulunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini historia ve doğa ile baş başa bırakıyor. Ferhat Bey Hamamı, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Bu özel mekan, yılın her döneminde ziyaret edilebilir ve her mevsim farklı bir güzelliği sunuyor.
+Ferhat Bey Hamamı, Marmara Bölgesi'nin güzelliklerinden biri olan Kırklareli ilinin Vize ilçesinde yer alıyor. Bu tarihi ve doğal güzelliği, yaklaşık 140 hektarlık bir alanda bulunuyor. Ferhat Bey Hamamı, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Bu özel mekan, yılın her döneminde ziyaret edilebilir ve her mevsim farklı bir güzelliği sunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Sultan Şuca Türbesi"
 date: "2026-01-10T05:57:21.774Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390525"
 
 # Sultan Şuca Türbesi
 
-Sultan Şuca Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi mekanlarından biri olarak Diyarbakır'ın Sur ilçesinde yer alır. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Sultan Şuca Türbesi, tarihi geçmişi ve mimari yapısıyla dikkat çeker. Bu mekan, yüzyıllar boyunca önemli olaylara tanıklık etmiş ve bölgenin kültürel mirasına katkıda bulunmuştur. Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olan Sultan Şuca Türbesi, ziyaretçilerini bekliyor.
+Sultan Şuca Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi mekanlarından biri olarak Diyarbakır'ın Sur ilçesinde yer alır. Sultan Şuca Türbesi, tarihi geçmişi ve mimari yapısıyla dikkat çeker. Bu mekan, yüzyıllar boyunca önemli olaylara tanıklık etmiş ve bölgenin kültürel mirasına katkıda bulunmuştur. Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olan Sultan Şuca Türbesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

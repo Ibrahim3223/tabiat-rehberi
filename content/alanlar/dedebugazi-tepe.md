@@ -28,7 +28,7 @@ wikidata_id: "Q31387351"
 
 # Dedebuğazı Tepe
 
-Dedebuğazı Tepe, Karadeniz Bölgesi'nin Samsun şehrinde yer alan ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayan bir destinasyondur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Dedebuğazı Tepe, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Ayrıca, bu tepeye tırmanan ziyaretçiler, Samsun şehrinin panoramik manzarasını da izleme fırsatı bulur.
+Dedebuğazı Tepe, Karadeniz Bölgesi'nin Samsun şehrinde yer alan ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayan bir destinasyondur. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Dedebuğazı Tepe, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Ayrıca, bu tepeye tırmanan ziyaretçiler, Samsun şehrinin panoramik manzarasını da izleme fırsatı bulur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Dedebuğazı Tepe, tarihin çeşitli dönemlerinde önemli bir yerleşim yeri ol
 
 ## Coğrafya
 
-Dedebuğazı Tepe, Karadeniz Bölgesi'nin Samsun şehrinde yer alır ve coğrafi konumu itibariyle önemli bir doğal güzelliğe sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Dedebuğazı Tepe'nin coğrafyası, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. Ayrıca, bu tepeye yapılan geziler, Samsun şehrinin panoramik manzarasını izleme fırsatı sunar. Coğrafi konumu itibariyle, Dedebuğazı Tepe, Karadeniz Bölgesi'nin önemli bir destinasyonu olarak dikkat çeker. Bu tepe, doğal güzelliği ve tarihi geçmişiyle ziyaretçileri çekmektedir. Ayrıca, Dedebuğazı Tepe'nin coğrafyası, mevsimsel değişimlere göre farklı bir güzellik sunar.
+Dedebuğazı Tepe, Karadeniz Bölgesi'nin Samsun şehrinde yer alır ve coğrafi konumu itibariyle önemli bir doğal güzelliğe sahiptir. Dedebuğazı Tepe'nin coğrafyası, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. Ayrıca, bu tepeye yapılan geziler, Samsun şehrinin panoramik manzarasını izleme fırsatı sunar. Coğrafi konumu itibariyle, Dedebuğazı Tepe, Karadeniz Bölgesi'nin önemli bir destinasyonu olarak dikkat çeker. Bu tepe, doğal güzelliği ve tarihi geçmişiyle ziyaretçileri çekmektedir. Ayrıca, Dedebuğazı Tepe'nin coğrafyası, mevsimsel değişimlere göre farklı bir güzellik sunar.
 
 ## Flora ve Fauna
 

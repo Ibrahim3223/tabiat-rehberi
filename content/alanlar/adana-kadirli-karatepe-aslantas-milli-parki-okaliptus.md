@@ -22,7 +22,7 @@ wikidata_id: "Q108227754"
 
 # Adana-Kadirli-Karatepe Aslantas Milli Parki Okaliptus
 
-Adana-Kadirli-Karatepe Aslantas Milli Parkı, 140 hektarlık geniş yeşil alanı ve tarihi değerleriyle dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa deneyimi sunuyor. Parkın içinde yer alan okaliptus ağaçları, ziyaretçilerin ilgisini çekiyor. Ayrıca, parkın tarihi geçmişi de ziyaretçilerin ilgisini çekmeyi başarıyor.
+Adana-Kadirli-Karatepe Aslantas Milli Parkı, 140 hektarlık geniş yeşil alanı ve tarihi değerleriyle dikkat çekiyor. Parkın içinde yer alan okaliptus ağaçları, ziyaretçilerin ilgisini çekiyor. Ayrıca, parkın tarihi geçmişi de ziyaretçilerin ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 

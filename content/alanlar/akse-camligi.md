@@ -22,7 +22,7 @@ wikidata_id: "Q108228744"
 
 # AKSE ÇAMLIĞI
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Akse Çamlığı, 140 hektarlık geniş bir yeşil alanı kapsayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu muhteşem doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Bu bölgenin en önemli özelliklerinden biri, ziyaretçilerin doğayla iç içe olabilecekleri ve çeşitli bitki türleri ile karşılaşabilecekleri zengin flora ve fauna sunmasıdır. Akse Çamlığı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyon.
+ Bu bölgenin en önemli özelliklerinden biri, ziyaretçilerin doğayla iç içe olabilecekleri ve çeşitli bitki türleri ile karşılaşabilecekleri zengin flora ve fauna sunmasıdır. Akse Çamlığı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

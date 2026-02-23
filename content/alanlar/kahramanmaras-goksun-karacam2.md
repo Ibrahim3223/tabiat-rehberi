@@ -22,7 +22,7 @@ wikidata_id: "Q108227520"
 
 # Kahramanmaras-Goksun Karacam2
 
-Kahramanmaras-Goksun Karacam2 milli parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Birçok kişi, bu alanı doğa yürüyüşleri ve piknik için tercih ediyor. Kahramanmaras-Goksun Karacam2 milli parkı, doğa severlerin mutlaka görmesi gereken bir yer.
+Kahramanmaras-Goksun Karacam2 milli parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Birçok kişi, bu alanı doğa yürüyüşleri ve piknik için tercih ediyor. Kahramanmaras-Goksun Karacam2 milli parkı, doğa severlerin mutlaka görmesi gereken bir yer.
 
 ## Tarihçe
 

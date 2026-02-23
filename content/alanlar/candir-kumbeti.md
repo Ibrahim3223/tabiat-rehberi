@@ -29,7 +29,7 @@ wikidata_id: "Q135582413"
 
 # Çandır Kümbeti
 
- Çandır Kümbeti, Yozgat'ın Çandır ilçesinde yer alan ve İç Anadolu Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere bolca yeşil alan ve dinlenme fırsatı sunar. Çandır Kümbeti, doğa severlerin ve plajiyatçıların gözdesi haline gelmiştir. Burada, güzel bir gün geçirmek için her şey mevcuttur: geniş plaj, temiz su, çeşitli ağaçlar ve dinlenme alanları.
+ Çandır Kümbeti, Yozgat'ın Çandır ilçesinde yer alan ve İç Anadolu Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğa harikasıdır. Çandır Kümbeti, doğa severlerin ve plajiyatçıların gözdesi haline gelmiştir. Burada, güzel bir gün geçirmek için her şey mevcuttur: geniş plaj, temiz su, çeşitli ağaçlar ve dinlenme alanları.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Erzurum'un dağlık coğrafyasında yer alan Yıldırım Dağı, bölgenin önem
 
 ## Tarihçe
 
-Erzurum bölgesi, tarihin sâu sayfalarında önemli bir role sahip olmuş, çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Yıldırım Dağı, bu tarihsel zenginliğin bir parçası olarak karşımıza çıkar. Bölge, Hititlerden Osmanlı'ya kadar birçok medeniyetin geçiş noktası olmuş, ticaret yolları ve yaylacılık faaliyetleriyle insan yaşamına ev sahipliği yapmıştır. 
+Erzurum bölgesi, tarihin derin sayfalarında önemli bir role sahip olmuş, çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Yıldırım Dağı, bu tarihsel zenginliğin bir parçası olarak karşımıza çıkar. Bölge, Hititlerden Osmanlı'ya kadar birçok medeniyetin geçiş noktası olmuş, ticaret yolları ve yaylacılık faaliyetleriyle insan yaşamına ev sahipliği yapmıştır.
 
 Doğal güzellikleri ve stratejik konumuyla, Yıldırım Dağı ve çevresi, tarihin akışında önemli bir yer tutmaktadır. Bu tür doğal alanlar, Türkiye'de tarih boyunca insanların yaşamını sürdürdüğü, hayvancılık ve tarım faaliyetlerini gerçekleştirdiği, aynı zamanda ticaret yollarının kesişme noktaları olarak hizmet vermiştir. Yaylacılık geleneği, bu bölgede özellikle önemli bir yere sahiptir. İnsanlar, mevsimlik göçlerle bu dağların eteklerine ve yaylalarına çıkarak hayvancılıkla uğraşmış, bu doğal alanları yaşam alanı olarak kullanmışlardır. Bu şekilde, Yıldırım Dağı, sadece bir coğrafi oluşum değil, aynı zamanda insan yaşamının bir parçası olmuş ve tarihin bir bölümünü oluşturmuştur.
 
@@ -48,7 +48,7 @@ Yıldırım Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgen
 
 ## Flora ve Fauna
 
-Yıldırım Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yıldırım Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki örtüsüne baktığımızda, ilkbaharla birlikte dağ yamaçlarını renklendiren çiçekler ve alpin çayırlarla karşılaşırız. Bu alan, endemik türlerin yaşamasına imkan tanıyan özel bir ekosistemdir.
 
 Yaban hayatı da bir o kadar zengin. Dağ keçileri, ayılar ve çeşitli kümes hayvanları bu dağların sahibi. Mevsimsel göçlerle birlikte, farklı kuş türlerini gözlemleme mümkün. Sürüngenler ve diğer küçük canlılar, bu dağ ekosisteminin bir parçası.

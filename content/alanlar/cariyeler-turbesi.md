@@ -1,7 +1,7 @@
 ---
 title: "Cariyeler Türbesi"
 date: "2026-01-10T07:41:25.999Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391238"
 
 # Cariyeler Türbesi
 
-Cariyeler Türbesi, Bursa'nın Osmangazi ilçesinde yer alan ve tarihi açıdan önemli bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Cariyeler Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Plajın etrafında çeşitli bitkiler ve ağaçlar bulunur ve bu bölge, doğa severler için ideal bir destinasyondur.
+Cariyeler Türbesi, Bursa'nın Osmangazi ilçesinde yer alan ve tarihi açıdan önemli bir plajdır. Cariyeler Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Plajın etrafında çeşitli bitkiler ve ağaçlar bulunur ve bu bölge, doğa severler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Cariyeler Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Cariyeler Türbesi, Bursa'nın Osmangazi ilçesinde yer alır ve Marmara Bölgesi'nin önemli bir coğrafi merkezidir. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Plajın etrafında çeşitli bitkiler ve ağaçlar bulunur ve bu bölge, doğa severler için ideal bir destinasyondur. Cariyeler Türbesi, yüksek bir konumda yer alır ve bu özelliği ile ziyaretçilerine güzel bir manzara sunar. Plajın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilerine dört mevsim boyunca güzel bir ortam sağlar.
+Cariyeler Türbesi, Bursa'nın Osmangazi ilçesinde yer alır ve Marmara Bölgesi'nin önemli bir coğrafi merkezidir. Plajın etrafında çeşitli bitkiler ve ağaçlar bulunur ve bu bölge, doğa severler için ideal bir destinasyondur. Cariyeler Türbesi, yüksek bir konumda yer alır ve bu özelliği ile ziyaretçilerine güzel bir manzara sunar. Plajın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilerine dört mevsim boyunca güzel bir ortam sağlar.
 
 ## Flora ve Fauna
 

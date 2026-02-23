@@ -56,7 +56,7 @@ Bu bölgenin ekolojik değeri, çeşitlili ve koruma durumuyla ölçülür. Paya
 
 ## Ziyaret Bilgileri
 
-Payamir İnleri'ne gitmeden önce, sabah erken yola çıkmanızı öneririm, hem kalabalıktan kurtulursunuz hem de güneşin etkisiyle oluşan buharın withinde daha net bir manzara izleyebilirsiniz. İlkbahar ve sonbahar ayları, régionun yeşillenmesi ve serin olması nedeniyle en ideal zamanlar. Yanınıza mutlaka su, atıştırmalık ve pohodlni ayakkabılar alın, çünkü doğa yürüyüşü ve kamp için uygun bir alan. En güzel manzara noktası, inlerin tepesinden izlenebiliyor, aynı zamanda fotoğrafçılık ve kuş gözlemi için de ideal bir yer.
+Payamir İnleri'ne gitmeden önce, sabah erken yola çıkmanızı öneririm, hem kalabalıktan kurtulursunuz hem de güneşin etkisiyle oluşan buharın withinde daha net bir manzara izleyebilirsiniz. İlkbahar ve sonbahar ayları, bölgenin yeşillenmesi ve serin olması nedeniyle en ideal zamanlar. Yanınıza mutlaka su, atıştırmalık ve pohodlni ayakkabılar alın, çünkü doğa yürüyüşü ve kamp için uygun bir alan. En güzel manzara noktası, inlerin tepesinden izlenebiliyor, aynı zamanda fotoğrafçılık ve kuş gözlemi için de ideal bir yer.
 
 ## İlginç Bilgiler
 

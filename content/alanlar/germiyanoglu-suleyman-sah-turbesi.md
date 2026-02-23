@@ -1,7 +1,7 @@
 ---
 title: "Germiyanoğlu Süleyman Şah Türbesi"
 date: "2026-01-10T05:35:59.596Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391358"
 
 # Germiyanoğlu Süleyman Şah Türbesi
 
-Germiyanoğlu Süleyman Şah Türbesi, Manisa'nın Kula ilçesinde yer alan bir tarihi mekân. Bu özel nokta, hem tarihi önemi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Germiyanoğlu Süleyman Şah'ın türbesi, bu bölgenin en önemli tarihi yapılarından biri olarak kabul ediliyor. Tarihi ve doğal güzelliklerin bir araya geldiği bu nokta, ziyaretçilere benzersiz bir deneyim sunuyor.
+Germiyanoğlu Süleyman Şah Türbesi, Manisa'nın Kula ilçesinde yer alan bir tarihi mekân. Bu özel nokta, hem tarihi önemi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. Germiyanoğlu Süleyman Şah'ın türbesi, bu bölgenin en önemli tarihi yapılarından biri olarak kabul ediliyor. Tarihi ve doğal güzelliklerin bir araya geldiği bu nokta, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

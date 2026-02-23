@@ -1,7 +1,7 @@
 ---
 title: "Mehmed Bahaeddin Nakşibendi Türbesi"
 date: "2026-01-10T07:17:14.500Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390889"
 
 # Mehmed Bahaeddin Nakşibendi Türbesi
 
-Mehmed Bahaeddin Nakşibendi Türbesi, Konya'nın Meram ilçesinde yer alan önemli bir historical yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenini, yeşilliklerle dolu bir park alanı ile çevrilidir. Bu tarihi yapı, Konya'nın önemli dini ve kültürel merkezlerinden biridir. Mehmed Bahaeddin Nakşibendi, Nakşibendi tarikatının önemli bir figürü olarak bilinir ve türbesi, birçok ziyaretçi tarafından ziyaret edilmektedir.
+Mehmed Bahaeddin Nakşibendi Türbesi, Konya'nın Meram ilçesinde yer alan önemli bir historical yapıdır. Türbenini, yeşilliklerle dolu bir park alanı ile çevrilidir. Bu tarihi yapı, Konya'nın önemli dini ve kültürel merkezlerinden biridir. Mehmed Bahaeddin Nakşibendi, Nakşibendi tarikatının önemli bir figürü olarak bilinir ve türbesi, birçok ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mehmed Bahaeddin Nakşibendi Türbesi, yüzyıllar boyunca önemli bir dini merk
 
 ## Coğrafya
 
-Mehmed Bahaeddin Nakşibendi Türbesi, Konya'nın Meram ilçesinde yer alan bir historical yapıdır. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenini, yeşilliklerle dolu bir park alanı ile çevrilidir. Bu park alanı, birçok ağaç ve çiçek türünü barındırır ve ziyaretçilere huzurlu bir ortam sunar. Türbenin bulunduğu bölge, Konya'nın önemli bir bölgesidir ve birçok historical yapıya ev sahipliği yapar. Türbenin iklimi, Konya'nın genel iklimine benzer ve ziyaretçilere, dört mevsim boyunca ziyaret etme imkanı sunar.
+Mehmed Bahaeddin Nakşibendi Türbesi, Konya'nın Meram ilçesinde yer alan bir historical yapıdır. Türbenini, yeşilliklerle dolu bir park alanı ile çevrilidir. Bu park alanı, birçok ağaç ve çiçek türünü barındırır ve ziyaretçilere huzurlu bir ortam sunar. Türbenin bulunduğu bölge, Konya'nın önemli bir bölgesidir ve birçok historical yapıya ev sahipliği yapar. Türbenin iklimi, Konya'nın genel iklimine benzer ve ziyaretçilere, dört mevsim boyunca ziyaret etme imkanı sunar.
 
 ## Flora ve Fauna
 

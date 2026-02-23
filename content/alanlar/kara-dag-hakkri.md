@@ -33,7 +33,7 @@ Hakkâri'nin dağlık arazisinde yer alan Kara Dağ, ilin coğrafi yapısını �
 
 ## Tarihçe
 
-Hakkâri'nin dağlık bölgesinde yer alan Kara Dağ, binlerce yıllık tarihin izlerini taşıyan bir coğrafyanın önemli bir parçasıdır. Bölge, tarihin sâu sayfalarında Urartular, Medler, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların hakimiyetine girmiş ve kültürel zenginlik kazanmıştır. Türkiye'nin doğu ucunda yer alan bu bölge, tarihi İpek Yolu ve diğer ticaret yollarının kesişme noktasında bulunması nedeniyle, farklı kültürlerin etkileşimine sahne olmuştur.
+Hakkâri'nin dağlık bölgesinde yer alan Kara Dağ, binlerce yıllık tarihin izlerini taşıyan bir coğrafyanın önemli bir parçasıdır. Bölge, tarihin derin sayfalarında Urartular, Medler, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların hakimiyetine girmiş ve kültürel zenginlik kazanmıştır. Türkiye'nin doğu ucunda yer alan bu bölge, tarihi İpek Yolu ve diğer ticaret yollarının kesişme noktasında bulunması nedeniyle, farklı kültürlerin etkileşimine sahne olmuştur.
 
 Bu doğal alanlar, Türkiye'nin coğrafi çeşitliliği açısından büyük önem taşıyor. Tarih boyunca, insanlar bu dağlık bölgelerde yaylacılık, hayvancılık ve avcılık gibi faaliyetlerle geçimlerini sağlamaya çalışmışlardır. Ayrıca, bölgenin zorlu coğrafyası, insanların dayanıklı ve uyum sağlayabilen bir toplum olmasına yol açmıştır. Kara Dağ gibi doğal alanlar, sadece bölgenin ekolojik dengesini koruma açısından değil, aynı zamanda insanların kültürel ve ekonomik faaliyetlerini destekleme açısından da kritik bir rol oynamaktadır. Bu bölgeler, Türkiye'nin doğal ve kültürel mirasının önemli bir parçası olarak kabul ediliyor.
 

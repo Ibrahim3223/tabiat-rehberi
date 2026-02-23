@@ -48,9 +48,9 @@ Kösehasan Dağı, çevredeki alanlarla güçlü bir şekilde bağlantılıdır.
 
 ## Flora ve Fauna
 
-Kösehasan Dağı, Mersin'in kıyı ekosisteminin bir parçası olan maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kösehasan Dağı, Mersin'in kıyı ekosisteminin bir parçası olan maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamaçları çeşitli çiçekler ve otsu bitkilerle renklenir. Kıyı ekosisteminin karakteristik türleri arasında kuraklığa dayanıklı türler bulunur. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamaçları çeşitli çiçekler ve otsu bitkilerle renklenir. Kıyı ekosisteminin karakteristik türleri arasında kuraklığa dayanıklı türler bulunur.
 
 Yaban Hayatı bölümünde, memeliler ve kuşlar dağın yükseklik zonalarında yaşamını sürdürür. Sonbaharda, göç eden kuşlar dağ üzerinden geçer. Sürüngenler ise kaya ve taşlık alanlarda yaşamlarını sürdürür.
 

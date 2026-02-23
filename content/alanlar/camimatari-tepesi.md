@@ -28,7 +28,7 @@ wikidata_id: "Q34823798"
 
 # Çamimatari Tepesi
 
-Çamimatari Tepesi, Batman'ın sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çeker. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bölgenin coğrafi yapısını yansıtan önemli bir noktadır. Çamimatari Tepesi, ziyaretçilerini bölgenin tarihi geçmişine ve coğrafi güzelliklerine tanık olmaya davet eder. Bölgenin zengin fauna ve flora çeşitliliği, ziyaretçilerin dikkatini çekmekte ve doğa severlerin ilgisini çekmektedir.
+Çamimatari Tepesi, Batman'ın sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çeker. Çamimatari Tepesi, ziyaretçilerini bölgenin tarihi geçmişine ve coğrafi güzelliklerine tanık olmaya davet eder. Bölgenin zengin fauna ve flora çeşitliliği, ziyaretçilerin dikkatini çekmekte ve doğa severlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34823798"
 
 ## Coğrafya
 
-Çamimatari Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bölgenin coğrafi güzelliklerini yansıtan önemli bir noktadır. Tepenin etrafındaki bölge, zengin fauna ve flora çeşitliliği ile dikkat çeker ve doğa severlerin ilgisini çekmektedir. Çamimatari Tepesi, ziyaretçilerine bölgenin coğrafi yapısını tanıma fırsatı sunar ve bölgenin önemli bir turizm merkezi haline gelmesine katkıda bulunur. Tepenin coğrafi yapısı, bölgenin iklimini ve çevre koşullarını etkiler ve bölgenin ekolojik dengesini sağlar.
+Çamimatari Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin etrafındaki bölge, zengin fauna ve flora çeşitliliği ile dikkat çeker ve doğa severlerin ilgisini çekmektedir. Çamimatari Tepesi, ziyaretçilerine bölgenin coğrafi yapısını tanıma fırsatı sunar ve bölgenin önemli bir turizm merkezi haline gelmesine katkıda bulunur. Tepenin coğrafi yapısı, bölgenin iklimini ve çevre koşullarını etkiler ve bölgenin ekolojik dengesini sağlar.
 
 ## Flora ve Fauna
 

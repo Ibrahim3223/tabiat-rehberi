@@ -22,7 +22,7 @@ wikidata_id: "Q108227352"
 
 # Tota Dagi Ardic Agaci
 
-Tota Dagi Ardic Agaci milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu bölge, yaban hayatının zengin çeşitliliği ile dikkat çekmekte ve ziyaretçilerine benzersiz bir deneyim sunmaktadır. Tota Dagi Ardic Agaci milli parkı, doğa severlerin ve macera arayışında olanların kaçırmaması gereken bir destinasyon.
+Tota Dagi Ardic Agaci milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu bölge, yaban hayatının zengin çeşitliliği ile dikkat çekmekte ve ziyaretçilerine benzersiz bir deneyim sunmaktadır. Tota Dagi Ardic Agaci milli parkı, doğa severlerin ve macera arayışında olanların kaçırmaması gereken bir destinasyon.
 
 ## Tarihçe
 

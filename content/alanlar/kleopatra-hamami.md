@@ -1,7 +1,7 @@
 ---
 title: "Kleopatra Hamamı"
 date: "2026-01-09T23:26:38.187Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739089"
 
 # Kleopatra Hamamı
 
-Kleopatra Hamamı, İzmir'in Bergama ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en önemli turizm merkezlerinden biridir. Kleopatra Hamamı, adını Mısırlı Kraliçe Kleopatra'dan alır ve efsaneye göre Kleopatra'nın bu bölgede yıkanmasıyla ünlendiği rivayet edilir. Bu plaj, geniş kumsalı ve berrak denizi ile ziyaretçilerini bekliyor.
+Kleopatra Hamamı, İzmir'in Bergama ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir plajdır. Kleopatra Hamamı, adını Mısırlı Kraliçe Kleopatra'dan alır ve efsaneye göre Kleopatra'nın bu bölgede yıkanmasıyla ünlendiği rivayet edilir. Bu plaj, geniş kumsalı ve berrak denizi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kleopatra Hamamı'nın tarihi geçmişi, Bergama'nın tarihi ile iç içedir. Be
 
 ## Coğrafya
 
-Kleopatra Hamamı, İzmir'in Bergama ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafi yapısını yansıtıyor. Bu bölgede, typically Akdeniz iklimi hüküm sürer ve yazlar sıcak, kışlar ılıman geçer. Plaj, geniş kumsalı ve berrak denizi ile dikkat çekiyor. Denizin suyu, genellikle serin ve temizdir. Plajın etrafında, çeşitli türde bitkiler ve ağaçlar yer alıyor ve bu bölge, zengin bir flora ve fauna çeşitliliğine sahip. Kleopatra Hamamı, coğrafi konumu itibariyle, hem deniz hem de doğa severler için ideal bir destinasyon. Bu plaj, ziyaretçilerine geniş bir alan sunuyor ve khong 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir mekan sunuyor.
+Kleopatra Hamamı, İzmir'in Bergama ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafi yapısını yansıtıyor. Bu bölgede, typically Akdeniz iklimi hüküm sürer ve yazlar sıcak, kışlar ılıman geçer. Plaj, geniş kumsalı ve berrak denizi ile dikkat çekiyor. Denizin suyu, genellikle serin ve temizdir. Plajın etrafında, çeşitli türde bitkiler ve ağaçlar yer alıyor ve bu bölge, zengin bir flora ve fauna çeşitliliğine sahip. Kleopatra Hamamı, coğrafi konumu itibariyle, hem deniz hem de doğa severler için ideal bir destinasyon. Bu plaj, ziyaretçilerine geniş bir alan sunuyor ve khong 140 hektarlık bir alanı kapsıyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Fatih Türbesi, Dehliz"
 date: "2026-01-10T05:47:03.990Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q135430372"
 
 # Fatih Türbesi, Dehliz
 
-Fatih Türbesi ve Dehliz, İstanbul'un kalbinde yer alan tarihi ve doğal bir güzelliktir. Fatih ilçesinde bulunan bu mekan, İstanbul'un fethinin ardından kurulan ilk Türk mahallelerinden biridir. 140 hektarlık bir alanı kapsayan Fatih Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu bölgede, tarihi yapılar ve doğal güzellikler bir arada bulunmakta olup, ziyaretçiler için eşsiz bir deneyim sunmaktadır.
+Fatih Türbesi ve Dehliz, İstanbul'un kalbinde yer alan tarihi ve doğal bir güzelliktir. Fatih ilçesinde bulunan bu mekan, İstanbul'un fethinin ardından kurulan ilk Türk mahallelerinden biridir. Bu bölgede, tarihi yapılar ve doğal güzellikler bir arada bulunmakta olup, ziyaretçiler için eşsiz bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Fatih Türbesi, Fatih Sultan Mehmet'in türbesi olarak bilinmektedir. Fatih Sult
 
 ## Coğrafya
 
-Fatih Türbesi ve Dehliz, İstanbul'un Marmara Bölgesi'nde yer alan bir bölgedir. Bu bölge, İstanbul'un kalbinde yer almakta olup, ulaşım açısından kolaylık sağlamaktadır. Fatih Türbesi, 140 hektarlık bir alanı kapsamakta olup, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu bölgede, tarihi yapılar ve doğal güzellikler bir arada bulunmakta olup, ziyaretçiler için eşsiz bir deneyim sunmaktadır. Dehliz, ise tarihi bir sokak olarak bilinmektedir. Bu sokak, tarihi evleri ve dükkânları ile ziyaretçilerin ilgisini çekmektedir. Fatih Türbesi ve Dehliz, İstanbul'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Fatih Türbesi ve Dehliz, İstanbul'un Marmara Bölgesi'nde yer alan bir bölgedir. Bu bölge, İstanbul'un kalbinde yer almakta olup, ulaşım açısından kolaylık sağlamaktadır. Bu bölgede, tarihi yapılar ve doğal güzellikler bir arada bulunmakta olup, ziyaretçiler için eşsiz bir deneyim sunmaktadır. Dehliz, ise tarihi bir sokak olarak bilinmektedir. Bu sokak, tarihi evleri ve dükkânları ile ziyaretçilerin ilgisini çekmektedir. Fatih Türbesi ve Dehliz, İstanbul'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

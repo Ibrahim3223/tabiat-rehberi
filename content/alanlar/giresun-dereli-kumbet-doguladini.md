@@ -22,7 +22,7 @@ wikidata_id: "Q108228055"
 
 # Giresun Dereli Kumbet-Doguladini
 
-Giresun Dereli Kumbet-Doguladini, İç Anadolu Bölgesi'nin gizli cennetlerinden biri olan bu milli park, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini doğanın güzelliğine davet ediyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin ve macera arayanların ilgi odağı oluyor. Milli parkın sunduğu zengin flora ve fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Doğal güzellikleri keşfetmek isteyenler için ideal bir destinasyon olan Giresun Dereli Kumbet-Doguladini, ziyaretçilerini bekliyor.
+Giresun Dereli Kumbet-Doguladini, İç Anadolu Bölgesi'nin gizli cennetlerinden biri olan bu milli park, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini doğanın güzelliğine davet ediyor. Milli parkın sunduğu zengin flora ve fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Doğal güzellikleri keşfetmek isteyenler için ideal bir destinasyon olan Giresun Dereli Kumbet-Doguladini, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

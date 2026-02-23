@@ -1,7 +1,7 @@
 ---
 title: "Geyikli Hamamı"
 date: "2026-01-09T22:36:01.061Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ezine"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738703"
 
 # Geyikli Hamamı
 
-Geyikli Hamamı, Ezine'nin güler yüzlü yüzü olarak ziyaretçilerini karşılar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahiptir. Bu doğal güzellik, özellikle yaz aylarında tatilcilerin gözdesi haline gelir. Geyikli Hamamı, doğa severlerin ve deniz aşığıların buluşma noktası olarak bilinir. Konumu itibariyle, İç Anadolu Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Geyikli Hamamı, ziyaretçilerine hem dinlenme hem de eğlenme imkanı sunan bir destinasyon olarak dikkat çeker.
+Geyikli Hamamı, Ezine'nin güler yüzlü yüzü olarak ziyaretçilerini karşılar. Bu doğal güzellik, özellikle yaz aylarında tatilcilerin gözdesi haline gelir. Geyikli Hamamı, doğa severlerin ve deniz aşığıların buluşma noktası olarak bilinir. Konumu itibariyle, İç Anadolu Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Geyikli Hamamı, ziyaretçilerine hem dinlenme hem de eğlenme imkanı sunan bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 

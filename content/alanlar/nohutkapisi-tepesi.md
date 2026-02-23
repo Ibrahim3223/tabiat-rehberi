@@ -28,7 +28,7 @@ wikidata_id: "Q31540077"
 
 # Nohutkapısı Tepesi
 
-Nohutkapısı Tepesi, Şırnak ilinin Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Nohutkapısı Tepesi, ziyaretçilerini bölge hakkında bilgi edinme ve doğal güzelliklerini keşfetmek için cezbediyor. Tepe, bölgenin coğrafi yapısını ve tarihini öğrenmek isteyenler için önemli bir destinasyon olarak görülüyor. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğal güzellikleri keşfediyor hem de bölge hakkında daha fazla bilgi sahibi oluyor.
+Nohutkapısı Tepesi, Şırnak ilinin Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Nohutkapısı Tepesi, ziyaretçilerini bölge hakkında bilgi edinme ve doğal güzelliklerini keşfetmek için cezbediyor. Tepe, bölgenin coğrafi yapısını ve tarihini öğrenmek isteyenler için önemli bir destinasyon olarak görülüyor. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğal güzellikleri keşfediyor hem de bölge hakkında daha fazla bilgi sahibi oluyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Nohutkapısı Tepesi, çeşitli bitki türleri ve fauna ile dolu bir bölge olar
 
 ## Ziyaret Bilgileri
 
-Nohutkapısı Tepesi, ziyaretçilerini bölge hakkında bilgi edinme ve doğal güzelliklerini keşfetmek için cezbediyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğal güzellikleri keşfediyor hem de bölge hakkında daha fazla bilgi sahibi oluyor. Nohutkapısı Tepesi, yılın farklı zamanlarında ziyaret ediliyor ve bu nedenle ziyaretçilerin bölge hakkında daha fazla bilgi edinmek için farklı zamanlarda gelmesi öneriliyor. Tepe, ziyaretçilerine bölge hakkında bilgi edinmek için çeşitli olanaklar sunuyor ve bu nedenle önemli bir destinasyon olarak görülüyor.
+Nohutkapısı Tepesi, ziyaretçilerini bölge hakkında bilgi edinme ve doğal güzelliklerini keşfetmek için cezbediyor. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğal güzellikleri keşfediyor hem de bölge hakkında daha fazla bilgi sahibi oluyor. Nohutkapısı Tepesi, yılın farklı zamanlarında ziyaret ediliyor ve bu nedenle ziyaretçilerin bölge hakkında daha fazla bilgi edinmek için farklı zamanlarda gelmesi öneriliyor. Tepe, ziyaretçilerine bölge hakkında bilgi edinmek için çeşitli olanaklar sunuyor ve bu nedenle önemli bir destinasyon olarak görülüyor.
 
 ## İlginç Bilgiler
 

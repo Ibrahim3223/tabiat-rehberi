@@ -1,7 +1,7 @@
 ---
 title: "Yedi Kızlar Türbesi"
 date: "2026-01-10T07:11:44.998Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390912"
 
 # Yedi Kızlar Türbesi
 
-Yedi Kızlar Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir plaj ve tarihi mekan olarak dikkat çekiyor. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Yedi Kızlar Türbesi, tarihi ve doğal güzelliği ile birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu mekan, aynı zamanda Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak biliniyor. Yedi Kızlar Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin bir arada olduğu bire davet ediyor.
+Yedi Kızlar Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir plaj ve tarihi mekan olarak dikkat çekiyor. Yedi Kızlar Türbesi, tarihi ve doğal güzelliği ile birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu mekan, aynı zamanda Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak biliniyor. Yedi Kızlar Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin bir arada olduğu bire davet ediyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yedi Kızlar Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Yedi Kızlar Türbesi, Manisa'nın Şehzadeler ilçesinde yer alıyor. Bu mekan, Ege Bölgesi'nin önemli coğrafi merkezlerinden biri olarak biliniyor. Yedi Kızlar Türbesi, 140 hektarlık bir yeşil alanın içerisinde yer alıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu mekan, aynı zamanda deniz kıyısında yer alıyor ve ziyaretçilerine güzel bir plaj sunuyor. Yedi Kızlar Türbesi'nin coğrafi konumu, ziyaretçilerine doğal güzelliği ve tarihi ile birlikte, benzersiz bir deneyim sunuyor. Bu mekan, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak biliniyor ve ziyaretçilerini bu bölgeye davet ediyor.
+Yedi Kızlar Türbesi, Manisa'nın Şehzadeler ilçesinde yer alıyor. Bu mekan, Ege Bölgesi'nin önemli coğrafi merkezlerinden biri olarak biliniyor. Bu mekan, aynı zamanda deniz kıyısında yer alıyor ve ziyaretçilerine güzel bir plaj sunuyor. Yedi Kızlar Türbesi'nin coğrafi konumu, ziyaretçilerine doğal güzelliği ve tarihi ile birlikte, benzersiz bir deneyim sunuyor. Bu mekan, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak biliniyor ve ziyaretçilerini bu bölgeye davet ediyor.
 
 ## Flora ve Fauna
 

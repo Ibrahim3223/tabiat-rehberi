@@ -52,7 +52,7 @@ Güran Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bir ekosiste
 
 Güran Dağı, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alan bir dağ ekosistemi olarak zengin bir flora ve fauna çeşitliliğine sahiptir. İlbahar aylarında, dağ yamaçları çeşitli çiçek türleriyle renklenir ve bu periodda dağ keçileri ve yaban keçileri gibi memeliler bu bölgelerde beslenmek için toplanırlar.
 
-Kuşlar da bu dağ ekosisteminin önemli bir parçasını oluşturur. Sonbahar aylarında, göçmen kuşlar Güran Dağı'nı geçiş noktalarından biri olarak kullanır. Bu dönemde, dağların yükseklik zonalarında yaşayan Bazı sürüngen türleri de görülür. 
+Kuşlar da bu dağ ekosisteminin önemli bir parçasını oluşturur. Sonbahar aylarında, göçmen kuşlar Güran Dağı'nı geçiş noktalarından biri olarak kullanır. Bu dönemde, dağların yükseklik zonalarında yaşayan Bazı sürüngen türleri de görülür.
 
 Bu dağ ekosisteminin korunması büyük önem taşır, çünkü burada yaşayan canlılar birbirleriyle ve çevreleriyle özel bir ilişki içinde yaşar. Bu nedenle, Güran Dağı'nın doğal dengesinin korunmasına dikkat edilmesi gerekir.
 

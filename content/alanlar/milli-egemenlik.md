@@ -23,7 +23,7 @@ wikidata_id: "Q108228297"
 
 # Milli Egemenlik
 
-Milli Egemenlik, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini ağırlıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini keşfetmek için ideal bir nokta. Milli Egemenlik, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunuyor. İnsanlar, bu muhteşem alanda doğanın güzelliğini ve çeşitliliğini keşfedebilirler.
+Milli Egemenlik, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini ağırlıyor. Milli Egemenlik, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunuyor. İnsanlar, bu muhteşem alanda doğanın güzelliğini ve çeşitliliğini keşfedebilirler.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386633"
 
 # Redzhlyuaziz-Takhtani Dağı
 
-Redzhlyuaziz-Takhtani Dağı, İç Anadolu Bölgesi'nin göbeğinde, tarihi ve doğal güzellikleri bir araya getiren özel bir nokta. Bu dağ, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Doğa severlerin ve macera tutkunlarının gözdesi olan bu bölge, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. Redzhlyuaziz-Takhtani Dağı, aynı zamanda zengin fauna ve flora çeşitliliğiyle dikkat çekiyor. Dağın eteklerinde ve zirvesinde, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Bu dağ, ziyaretçilerine hem doğayla iç içe bir deneyim hem de tarihin derinliklerine bir yolculuk vaadediyor.
+Redzhlyuaziz-Takhtani Dağı, İç Anadolu Bölgesi'nin göbeğinde, tarihi ve doğal güzellikleri bir araya getiren özel bir nokta. Doğa severlerin ve macera tutkunlarının gözdesi olan bu bölge, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. Redzhlyuaziz-Takhtani Dağı, aynı zamanda zengin fauna ve flora çeşitliliğiyle dikkat çekiyor. Dağın eteklerinde ve zirvesinde, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Bu dağ, ziyaretçilerine hem doğayla iç içe bir deneyim hem de tarihin derinliklerine bir yolculuk vaadediyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Markia Anıt Mezarı"
 date: "2026-01-10T03:43:28.956Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728145"
 
 # Markia Anıt Mezarı
 
-Markia Anıt Mezarı, Antalya'nın Kaş ilçesinde bulunan tarihi bir alan olarak karşımıza çıkıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Markia Anıt Mezarı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbediyor. Burada, yüzyıllar boyunca oluşmuş bir kültürel miras bulunuyor. Ziyaretçiler, bu anıt mezarın tarihi ve doğal güzelliğini keşfetme fırsatı buluyor.
+Markia Anıt Mezarı, Antalya'nın Kaş ilçesinde bulunan tarihi bir alan olarak karşımıza çıkıyor. Markia Anıt Mezarı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbediyor. Burada, yüzyıllar boyunca oluşmuş bir kültürel miras bulunuyor. Ziyaretçiler, bu anıt mezarın tarihi ve doğal güzelliğini keşfetme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Markia Anıt Mezarı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu
 
 ## Coğrafya
 
-Markia Anıt Mezarı, Antalya'nın Kaş ilçesinde yer alıyor. Bu bölge, Akdeniz Bölgesi'nin eşsiz doğal güzelliklerini sergiliyor. 140 hektarlık bir alanı kapsayan Markia Anıt Mezarı, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilere geniş bir gezme ve keşif fırsatı sunuyor. Markia Anıt Mezarı'nın coğrafi konumu, ziyaretçilere Akdeniz'in güzelliğini ve tarihi zenginliğini keşfetme fırsatı veriyor. Burada, ziyaretçiler doğal güzelliği ve tarihi alanları keşfetme fırsatı buluyor.
+Markia Anıt Mezarı, Antalya'nın Kaş ilçesinde yer alıyor. Bu bölge, Akdeniz Bölgesi'nin eşsiz doğal güzelliklerini sergiliyor. Bu alan, ziyaretçilere geniş bir gezme ve keşif fırsatı sunuyor. Markia Anıt Mezarı'nın coğrafi konumu, ziyaretçilere Akdeniz'in güzelliğini ve tarihi zenginliğini keşfetme fırsatı veriyor. Burada, ziyaretçiler doğal güzelliği ve tarihi alanları keşfetme fırsatı buluyor.
 
 ## Flora ve Fauna
 

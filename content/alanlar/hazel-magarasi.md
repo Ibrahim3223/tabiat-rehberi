@@ -48,11 +48,11 @@ Bölgenin su kaynakları ve ekosistemi, Hazel Mağarası'nın varlığıyla yak�
 
 ## Flora ve Fauna
 
-Hazel Mağarası'nın surroundingsı, yarı kurak iklimin hüküm sürdüğü bir jeopark olarak, step ve ova ekolojisinin karakteristik özelliklerini taşır. Bu bölge, ilkbaharla birlikte renklenen bir bitki örtüsüne ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hazel Mağarası'nın surroundingsı, yarı kurak iklimin hüküm sürdüğü bir jeopark olarak, step ve ova ekolojisinin karakteristik özelliklerini taşır. Bu bölge, ilkbaharla birlikte renklenen bir bitki örtüsüne ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünde hakim türler olarak çayır otları ve dallı çalılar bulunur. Sonbaharda, bu bölgede yaşayan bazı kuş türleri göç ederken, diğerleri kalıcı olarak burada yaşar. Bu canlılar, orman ekosisteminin önemli bir parçasını oluşturur.
 
-Yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Bu ekosistem, canlıların birbirleriyle ve çevreleriyle olan ilişkilerini vurgular. Örneğin, bazı memeliler, ormanda bulunan bitkilerle beslenirken, diğerleri bu bitkilerin tohumlarını yayarak ekosistemin devamını sağlar. 
+Yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Bu ekosistem, canlıların birbirleriyle ve çevreleriyle olan ilişkilerini vurgular. Örneğin, bazı memeliler, ormanda bulunan bitkilerle beslenirken, diğerleri bu bitkilerin tohumlarını yayarak ekosistemin devamını sağlar.
 Bu bölgenin ekolojik değeri, orman ekosisteminin korunmasıyla doğrudan ilgilidir. Bu nedenle, koruma çalışmaları büyük önem taşır.
 
 ## Ziyaret Bilgileri

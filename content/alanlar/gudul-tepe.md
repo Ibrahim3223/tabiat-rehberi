@@ -48,7 +48,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından da önemli bi
 
 ## Flora ve Fauna
 
-Güdül Tepe, Gümüşhane'nin nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. Dağın farklı yükseklik zonlarında, mevsimsel değişimlerle birlikte, çeşitli bitki türleri ortaya çıkar. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. 
+Güdül Tepe, Gümüşhane'nin nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. Dağın farklı yükseklik zonlarında, mevsimsel değişimlerle birlikte, çeşitli bitki türleri ortaya çıkar. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır.
 
 Bu dağlık alanda, çeşitli memeli türleri, özellikle geyi ve yaban domuzu gibi büyük hayvanlar yaşar. Kuşlar da bu ekosistemin önemli bir parçasını oluşturur; özellikle göç mevsimlerinde, dağ havaları, çeşitli kuş türlerinin geçiş noktaları olarak kullanılır. Sürüngenler de, dağlık alanın kayalık bölgelerinde yaşamlarını sürdürür.
 

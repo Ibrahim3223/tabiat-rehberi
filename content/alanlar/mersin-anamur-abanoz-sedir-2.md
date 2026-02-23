@@ -22,7 +22,7 @@ wikidata_id: "Q108227215"
 
 # Mersin-Anamur-Abanoz Sedir 2
 
-Mersin-Anamur-Abanoz Sedir 2 milli parkı, Akdeniz Bölgesi'nin güzide illerinden Mersin'de yer alan bir doğa harikası. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilerine doğanın tüm güzelliğini sunuyor. Parkın içinde yer alan Abanoz Sedir ağacı, bu bölgenin en önemli doğal varlıklarından biri. Ziyaretçiler, bu ağacın güzelliğini ve çevresindeki floranın çeşitliliğini keşfedebilirler. Mersin-Anamur-Abanoz Sedir 2 milli parkı, hem doğa severler hem de tarih meraklıları için bir hazine.
+Mersin-Anamur-Abanoz Sedir 2 milli parkı, Akdeniz Bölgesi'nin güzide illerinden Mersin'de yer alan bir doğa harikası. Bu geniş yeşil alan, ziyaretçilerine doğanın tüm güzelliğini sunuyor. Parkın içinde yer alan Abanoz Sedir ağacı, bu bölgenin en önemli doğal varlıklarından biri. Ziyaretçiler, bu ağacın güzelliğini ve çevresindeki floranın çeşitliliğini keşfedebilirler. Mersin-Anamur-Abanoz Sedir 2 milli parkı, hem doğa severler hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 

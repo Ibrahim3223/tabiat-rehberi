@@ -1,7 +1,7 @@
 ---
 title: "Cık Cık Hamamı"
 date: "2026-01-09T22:51:09.393Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738643"
 
 # Cık Cık Hamamı
 
-Cık Cık Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve Marmara Bölgesi'nin önemli plajlarından biri olan bir destinasyondur. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsamaktadır. Bu geniş ve güzel plaj, ziyaretçiler için keyifli bir gün geçirmek için ideal bir ortam sunmaktadır. Cık Cık Hamamı, denize girerek serinlemek, güneşin keyfini çıkarma ve doğanın güzelliğini seyretmek isteyenler için harika bir seçenektir. Plajın bulunduğu bölge, tarihi ve kültürel açıdan da zengin bir geçmişe sahiptir.
+Cık Cık Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve Marmara Bölgesi'nin önemli plajlarından biri olan bir destinasyondur. Bu geniş ve güzel plaj, ziyaretçiler için keyifli bir gün geçirmek için ideal bir ortam sunmaktadır. Cık Cık Hamamı, denize girerek serinlemek, güneşin keyfini çıkarma ve doğanın güzelliğini seyretmek isteyenler için harika bir seçenektir. Plajın bulunduğu bölge, tarihi ve kültürel açıdan da zengin bir geçmişe sahiptir.
 
 ## Tarihçe
 

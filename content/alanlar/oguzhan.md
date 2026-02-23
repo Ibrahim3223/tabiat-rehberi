@@ -23,7 +23,7 @@ wikidata_id: "Q108228677"
 
 # OĞUZHAN
 
-OĞUZHAN milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık geniş alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Bu büyük alan, ziyaretçilerine geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna çeşitliliği sunuyor. Doğal güzelliği ve sakin atmosferiyle, doğa severler için ideal bir destinasyon olan OĞUZHAN, hem dinlenmek hem de doğayı keşfetmek için mükemmel bir seçim.
+OĞUZHAN milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu büyük alan, ziyaretçilerine geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna çeşitliliği sunuyor. Doğal güzelliği ve sakin atmosferiyle, doğa severler için ideal bir destinasyon olan OĞUZHAN, hem dinlenmek hem de doğayı keşfetmek için mükemmel bir seçim.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ OĞUZHAN milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-OĞUZHAN milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, geniş düzlükler ve hafif eğimli arazilerden oluşuyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Bölgenin coğrafi yapısı, ziyaretçilerine geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna çeşitliliği sunuyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak passing. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkileyerek, ziyaretçilere yıl boyunca farklı bir güzellik sunuyor.
+OĞUZHAN milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak, geniş düzlükler ve hafif eğimli arazilerden oluşuyor. Bölgenin coğrafi yapısı, ziyaretçilerine geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna çeşitliliği sunuyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak passing. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkileyerek, ziyaretçilere yıl boyunca farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ OĞUZHAN milli parkını ziyaret etmek, doğa severler için ideal bir deneyim. 
 
 ## İlginç Bilgiler
 
-- OĞUZHAN milli parkı, 140 hektarlık geniş alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
 - Bölge, çeşitli bitki türleri ve zengin fauna çeşitliliğine sahip bir doğa harikasıdır.
 - Milli park, yıl boyunca ziyaretçilere açık olmakla birlikte, en iyi ziyaret dönemi bahar ve yaz aylarıdır.
 - Ziyaretçiler, milli parkın girişinde rehberlik hizmeti sunuluyor.

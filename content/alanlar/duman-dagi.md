@@ -58,7 +58,7 @@ Duman Dağı, yüksek dağ ekosisteminin korunması açısından önemli bir ala
 
 ## Ziyaret Bilgileri
 
-Duman Dağı'na gitmeden önce, Hakkari şehir merkezinden yaklaşık 30 kilometre uzaklıkta olduğunu bilin. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de manzaranın güzelliğini daha iyi görebilirsiniz. İlkbahar ve yaz ayları en iyi mevsimdir, çünkü hava daha serin ve yürüyüş için idealdir. Yanınıza mutlaka su, atıştırmalık ve uygun kıyafetler alın. Dağcılık, trekking, kamp, fotoğrafçılık ve kuş gözlemi gibi aktiviteleri yapmak için ideal bir yer. En güzel manzara noktası zirvedir, ancak dikkatli olmak necessário çünkü patikalar di ve kaygan olabilir.
+Duman Dağı'na gitmeden önce, Hakkari şehir merkezinden yaklaşık 30 kilometre uzaklıkta olduğunu bilin. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de manzaranın güzelliğini daha iyi görebilirsiniz. İlkbahar ve yaz ayları en iyi mevsimdir, çünkü hava daha serin ve yürüyüş için idealdir. Yanınıza mutlaka su, atıştırmalık ve uygun kıyafetler alın. Dağcılık, trekking, kamp, fotoğrafçılık ve kuş gözlemi gibi aktiviteleri yapmak için ideal bir yer. En güzel manzara noktası zirvedir, ancak dikkatli olmak gerekli çünkü patikalar di ve kaygan olabilir.
 
 ## İlginç Bilgiler
 

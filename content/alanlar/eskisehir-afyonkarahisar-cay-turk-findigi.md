@@ -1,7 +1,7 @@
 ---
 title: "Eskişehir Afyonkarahisar-Cay Turk Findigi"
 date: "2026-01-09T18:17:21.644Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,11 +22,11 @@ wikidata_id: "Q108227712"
 
 # Eskişehir Afyonkarahisar-Cay Turk Findigi
 
-Eskişehir Afyonkarahisar-Cay Turk Findigi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini bünyesinde barındıran bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Milli parkın hikayesi, yüzyıllar boyunca şekillenmiş ve çeşitli bitki türleri ile zengin fauna tarafından süslenmiştir. Burada, doğa severler için birçok keşif noktası bulunmakta ve ziyaretçiler, bu güzide milli parkın sunduğu eşsiz atmosferi deneyimleyebilmektedir.
+Eskişehir Afyonkarahisar-Cay Turk Findigi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini bünyesinde barındıran bir milli parktır. Milli parkın hikayesi, yüzyıllar boyunca şekillenmiş ve çeşitli bitki türleri ile zengin fauna tarafından süslenmiştir. Burada, doğa severler için birçok keşif noktası bulunmakta ve ziyaretçiler, bu güzide milli parkın sunduğu eşsiz atmosferi deneyimleyebilmektedir.
 
 ## Tarihçe
 
-Eskişehir Afyonkarahisar-Cay Turk Findigi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu milli park, İç Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini yansıtan önemli bir noktadır. Tarihi açıdan bakıldığında, bölgenin doğal güzellikleri ve coğrafi özellikleri, insan yerleşimlerine ve kültürel gelişimlere zemin hazırlamıştır. Eskişehir Afyonkarahisar-Cay Turk Findigi, bu bağlamda, bölgenin históri ve kültürel mirasının korunması açısından önemli bir rol oynamaktadır. Ziyaretçiler, milli parkı gezerken, bu tarihi geçmişin izlerini sürdürebilir ve doğa ile tarih arasında güçlü bir bağ kurabilirler.
+Eskişehir Afyonkarahisar-Cay Turk Findigi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu milli park, İç Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini yansıtan önemli bir noktadır. Tarihi açıdan bakıldığında, bölgenin doğal güzellikleri ve coğrafi özellikleri, insan yerleşimlerine ve kültürel gelişimlere zemin hazırlamıştır. Eskişehir Afyonkarahisar-Cay Turk Findigi, bu bağlamda, bölgenin tarihi ve kültürel mirasının korunması açısından önemli bir rol oynamaktadır. Ziyaretçiler, milli parkı gezerken, bu tarihi geçmişin izlerini sürdürebilir ve doğa ile tarih arasında güçlü bir bağ kurabilirler.
 
 ## Coğrafya
 

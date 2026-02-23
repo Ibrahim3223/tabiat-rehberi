@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Bey Türbesi Kalıntısı, Şavşat"
 date: "2026-01-10T06:47:54.378Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Artvin"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582718"
 
 # Mustafa Bey Türbesi Kalıntısı, Şavşat
 
-Mustafa Bey Türbesi Kalıntısı, Şavşat ilçesinde yer alan bir tarihi alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Şavşat'ın merkezine yakın bir konumda bulunan bu alan, bölgenin önemli tarihi noktalarından biridir. Mustafa Bey Türbesi Kalıntısı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerin ilgisini çekmektedir.
+Mustafa Bey Türbesi Kalıntısı, Şavşat ilçesinde yer alan bir tarihi alandır. Şavşat'ın merkezine yakın bir konumda bulunan bu alan, bölgenin önemli tarihi noktalarından biridir. Mustafa Bey Türbesi Kalıntısı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mustafa Bey Türbesi Kalıntısı, tarihsel olarak önemli bir geçmişe sahipti
 
 ## Coğrafya
 
-Mustafa Bey Türbesi Kalıntısı, Şavşat ilçesinde yer alan bir tarihi alandır. Bu alan, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır ve yeşilliklerle çevrili bir bölgedir. 140 hektarlık bir büyüklüğe sahip olan bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Mustafa Bey Türbesi Kalıntısı, bölgenin iklim koşullarına uygun bir şekilde tasarlanmış ve doğal güzellikleri ile ziyaretçilerini karşılar. Bu tarihi alan, çevresi ile birlikte bir bütün olarak değerlendirildiğinde, ziyaretçilere zengin bir coğrafi deneyim sunar.
+Mustafa Bey Türbesi Kalıntısı, Şavşat ilçesinde yer alan bir tarihi alandır. Bu alan, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır ve yeşilliklerle çevrili bir bölgedir. Mustafa Bey Türbesi Kalıntısı, bölgenin iklim koşullarına uygun bir şekilde tasarlanmış ve doğal güzellikleri ile ziyaretçilerini karşılar. Bu tarihi alan, çevresi ile birlikte bir bütün olarak değerlendirildiğinde, ziyaretçilere zengin bir coğrafi deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Mustafa Bey Türbesi Kalıntısı, ziyaretçilere birçok olanak sunar. Bu tarih
 ## İlginç Bilgiler
 
 - Mustafa Bey Türbesi Kalıntısı, Şavşat'ın önemli tarihi noktalarından biridir.
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Mustafa Bey Türbesi Kalıntısı, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır.
 - Bu alan, çeşitli bitki türleri ile ziyaretçilerini karşılar.
 - Mustafa Bey Türbesi Kalıntısı, bölgenin ekolojik zenginliklerini yansıtan bir noktadır.

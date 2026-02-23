@@ -67,5 +67,5 @@ Siyah Dağ, Şırnak'ta keşfedilmeyi bekleyen bir hazine. Sabah erken gitmenizi
 - Dağın yüksekliği hakkında spesifik bilgi bulunmamaktadır, ancak bölgenin coğrafyası genellikle dağlık ve engebelidir.
 - Şırnak ilinin yüzölçümü yaklaşık 7.172 km²'dir ve bu bölge Türkiye'nin güneydoğu kesiminde yer alır.
 - Cizre ilçesi, Dicle Nehri'nin kıyısında yer alır ve tarihi significance taşır.
-- Bölge, históri ve kültürel açıdan zengin bir geçmişe sahiptir, ancak Siyah Dağ ile ilgili spesifik bilgiler sınırlıdır.
+- Bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir, ancak Siyah Dağ ile ilgili spesifik bilgiler sınırlıdır.
 - Siyah Dağ'ın etrafındaki bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapar, ancak buraya ilişkin detalılı bilgiler bulunmamaktadır.

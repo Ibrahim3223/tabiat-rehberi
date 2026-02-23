@@ -1,7 +1,7 @@
 ---
 title: "Nure Sofi Türbesi"
 date: "2026-01-10T05:56:41.060Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,15 +29,15 @@ wikidata_id: "Q131390495"
 
 # Nure Sofi Türbesi
 
-Nure Sofi Türbesi, Mut'un merkezine yakın bir konumda yer alan, aynı zamanda histórik bir öneme sahip olan bir plaj ve tarihsel mekan. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Bu mekan, hem denize girmek hem de tarihi bir yapıyı ziyaret etmek isteyenler için ideal bir destinasyon. Nure Sofi Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir plaj ve tarihsel mekan olarak, ziyaretçilerini bekliyor.
+Nure Sofi Türbesi, Mut'un merkezine yakın bir konumda yer alan, aynı zamanda tarihi bir öneme sahip olan bir plaj ve tarihsel mekan. Bu mekan, hem denize girmek hem de tarihi bir yapıyı ziyaret etmek isteyenler için ideal bir destinasyon. Nure Sofi Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir plaj ve tarihsel mekan olarak, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
-Nure Sofi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca verschilli medeniyetlerin izlerini taşıyor. Bu tarihsel mekan, Mut'un tarihi ve kültürel zenginliklerinin önemli bir parçası. Tarihi yapı, bölgeye hükmetmiş olan çeşitli medeniyetlerin etkilerini taşıyor. Nure Sofi Türbesi, bölgenin histórik değerlerini koruma ve ziyaretçilere sunmak amacıyla restore edilmiş ve günümüzde bir turizm merkezi olarak hizmet veriyor. Mekan, ziyaretçilerine tarihinDepthlerini keşfetme fırsatı sunuyor.
+Nure Sofi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca verschilli medeniyetlerin izlerini taşıyor. Bu tarihsel mekan, Mut'un tarihi ve kültürel zenginliklerinin önemli bir parçası. Tarihi yapı, bölgeye hükmetmiş olan çeşitli medeniyetlerin etkilerini taşıyor. Nure Sofi Türbesi, bölgenin tarihi değerlerini koruma ve ziyaretçilere sunmak amacıyla restore edilmiş ve günümüzde bir turizm merkezi olarak hizmet veriyor. Mekan, ziyaretçilerine tarihinDepthlerini keşfetme fırsatı sunuyor.
 
 ## Coğrafya
 
-Nure Sofi Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alan Mut ilçesinde bulunuyor. Bu bölge, Akdeniz ikliminin karakteristik özellikleri olan sıcak yazlar ve ılıman kışlar ile tanınır. Mekan, denize yakın bir konumda yer alıyor ve ziyaretçilerine geniş bir plaj alanı sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Nure Sofi Türbesi, doğal güzellikleri ve tarihsel önemi ile ziyaretçilerini çekiyor. Çevre, yeşilliklerle dolu ve ziyaretçilere doğayla iç içe bir  sunuyor.
+Nure Sofi Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alan Mut ilçesinde bulunuyor. Bu bölge, Akdeniz ikliminin karakteristik özellikleri olan sıcak yazlar ve ılıman kışlar ile tanınır. Mekan, denize yakın bir konumda yer alıyor ve ziyaretçilerine geniş bir plaj alanı sunuyor. Nure Sofi Türbesi, doğal güzellikleri ve tarihsel önemi ile ziyaretçilerini çekiyor. Çevre, yeşilliklerle dolu ve ziyaretçilere doğayla iç içe bir  sunuyor.
 
 ## Flora ve Fauna
 

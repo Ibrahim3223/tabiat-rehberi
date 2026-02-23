@@ -50,11 +50,11 @@ Bölgenin iklim karakteri, Kumru Tepe'nin coğrafi konumuna bağlı olarak deği
 
 ## Flora ve Fauna
 
-Kumru Tepe, Van'ın yüksek dağ ekosistemini barındıran bir cennet. 1200 hektarlık bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir dünya sunuyor. 
+Kumru Tepe, Van'ın yüksek dağ ekosistemini barındıran bir cennet. 1200 hektarlık bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir dünya sunuyor.
 
 Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte çayırlar renklendiriyor. Çiçekler açıyor, dağların etekleri yeşilleniyor. Sonbaharda ise bitkilerin renkleri değişiyor, dağlar sarı, turuncu ve kırmızının tonlarına bürünüyor. Dağların yükseklik zonlarına göre değişen flora, alpin çayırların hakim olduğu bir manzara sunuyor.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksekliklerine uyum sağlamış durumda. Kuşlar ise, özellikle sonbaharda göç eden türlerle renkleniyor. Sürüngenler de, kayalıklarda ve çayırlardalerini sürdürüyor. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksekliklerine uyum sağlamış durumda. Kuşlar ise, özellikle sonbaharda göç eden türlerle renkleniyor. Sürüngenler de, kayalıklarda ve çayırlardalerini sürdürüyor.
 
 Kumru Tepe, yüksek dağ ekolojisinin korunması açısından önemli bir alan. Bu ekosistemin korunması, yalnızca burada yaşayan canlıları değil, aynı zamanda bölge ekolojisini de koruyor. Koruma durumu ise, hala daha geliştirilmeye açık. Bu alanda, doğa severlerin ziyaretleri ve koruma çalışmaları, bu eşsiz ekosistemin korunmasına katkıda bulunabilir.
 

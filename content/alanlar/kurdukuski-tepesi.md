@@ -28,7 +28,7 @@ wikidata_id: "Q31539333"
 
 # Kurdukuşki Tepesi
 
-Kurdukuşki Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. 140 hektarlık bir alana yayılmış bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, özellikle doğa severler için bir cennet. Çevresindeki yeşil alanlar ve manzaralar, ziyaretçilere huzur dolu anlar yaşatıyor. Tepenin eteklerinde yer alan köyler, geleneksel yaşam tarzlarını korumaya devam ediyor. Bu tepenin güzelliği, sadece doğal güzellikten ibaret değil, aynı zamanda tarihi ve kültürel değerlere de sahip.
+Kurdukuşki Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu bölge, özellikle doğa severler için bir cennet. Çevresindeki yeşil alanlar ve manzaralar, ziyaretçilere huzur dolu anlar yaşatıyor. Tepenin eteklerinde yer alan köyler, geleneksel yaşam tarzlarını korumaya devam ediyor. Bu tepenin güzelliği, sadece doğal güzellikten ibaret değil, aynı zamanda tarihi ve kültürel değerlere de sahip.
 
 ## Tarihçe
 

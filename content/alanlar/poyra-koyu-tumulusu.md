@@ -29,7 +29,7 @@ wikidata_id: "Q134728165"
 
 # Poyra Köyü Tümülüsü
 
-Poyra Köyü Tümülüsü, Marmara Bölgesi'nin güzide illerinden Bilecik'in Bozüyük ilçesinde yer alıyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve coğrafi konum itibarıyla da önemli bir noktada bulunmakta. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tarihi geçmişi ve coğrafi güzelliği ile dikkat çeken Poyra Köyü Tümülüsü, ziyaretçilerini bekliyor. Bu mekan, tarih ve doğa severler için gerçek bir hazine olarak kabul edilebilir.
+Poyra Köyü Tümülüsü, Marmara Bölgesi'nin güzide illerinden Bilecik'in Bozüyük ilçesinde yer alıyor. Tarihi geçmişi ve coğrafi güzelliği ile dikkat çeken Poyra Köyü Tümülüsü, ziyaretçilerini bekliyor. Bu mekan, tarih ve doğa severler için gerçek bir hazine olarak kabul edilebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Poyra Köyü Tümülüsü'nün tarihi geçmişi, yüzyıllar boyunca çeşitli m
 
 ## Coğrafya
 
-Poyra Köyü Tümülüsü, coğrafi olarak Marmara Bölgesi'nin merkezi bir alanında yer alıyor. Bu bölge, Bozüyük ilçesinin güzide köylerinden biri olan Poyra Köyü'nde bulunuyor. Coğrafi konum itibarıyla, Poyra Köyü Tümülüsü, Bilecik ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu alan, 140 hektarlık bir büyüklüğe sahip ve coğrafi olarak önemli bir noktada bulunmakta. Poyra Köyü Tümülüsü, coğrafi güzelliği ve tarihi zenginliğiyle birlikte, Marmara Bölgesi'nin önemli bir turizm merkezi olarak kabul ediliyor. Bu bölgede, ziyaretçilerin keyif alabileceği birçok güzergah ve yürüyüş yolu bulunuyor. Poyra Köyü Tümülüsü, coğrafi konumu itibarıyla, ziyaretçilerine birçok doğal güzellik sunuyor.
+Poyra Köyü Tümülüsü, coğrafi olarak Marmara Bölgesi'nin merkezi bir alanında yer alıyor. Bu bölge, Bozüyük ilçesinin güzide köylerinden biri olan Poyra Köyü'nde bulunuyor. Coğrafi konum itibarıyla, Poyra Köyü Tümülüsü, Bilecik ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Poyra Köyü Tümülüsü, coğrafi güzelliği ve tarihi zenginliğiyle birlikte, Marmara Bölgesi'nin önemli bir turizm merkezi olarak kabul ediliyor. Bu bölgede, ziyaretçilerin keyif alabileceği birçok güzergah ve yürüyüş yolu bulunuyor. Poyra Köyü Tümülüsü, coğrafi konumu itibarıyla, ziyaretçilerine birçok doğal güzellik sunuyor.
 
 ## Flora ve Fauna
 

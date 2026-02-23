@@ -47,11 +47,11 @@ Doğal bir sınır oluşturan Yüğlük Dağı, coğrafi olarak bir şehir bloğ
 
 Mersin'in ikliminin karakteristiğini taşıyan Yüğlük Dağı, Akdeniz ikliminin tüm özelliklerini gösterir. Kış aylarında ılıman, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu mevsimsel değişimler, dağın flora ve faunasını şekillendiren önemli faktörlerdir. Yüğlük Dağı, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte değildir, ancak bölgenin topoğrafyasını belirleyen önemli bir coğrafi oluşumdur.
 
-Bölgenin ekosistemini destekleyen Yüğlük Dağı, komşu alanlarla ve su kaynaklarıyla bağlantılıdır. Yakınlardaki nehirler ve akarsular, dağın çevresel ilişkilerini belirler. Bu bağlantılar, bölgenin biyolojik çeşitliliğini zenginleştiren önemli faktörlerdir. Monaco'nun yarısı kadar büyük olmayan Yüğlük Dağı, bölgenin coğrafi ve ekolojik dengesini korumak açısından önemli bir role sahiptir.
+Bölgenin ekosistemini destekleyen Yüğlük Dağı, komşu alanlarla ve su kaynaklarıyla bağlantılıdır. Yakınlardaki nehirler ve akarsular, dağın çevresel ilişkilerini belirler. Bu bağlantılar, bölgenin biyolojik çeşitliliğini zenginleştiren önemli faktörlerdir.
 
 ## Flora ve Fauna
 
-Yüğlük Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, maki bitki örtüsünün hakim olduğu bir dağ ekosistemini barındırır. İlkbahar döneminde, dağ yamaçları renkli çiçeklerle donanır ve kuraklığa dayanıklı türler zoals defne, keçiboynuzu ve zeytin ağaçları yeşillendirir. 
+Yüğlük Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, maki bitki örtüsünün hakim olduğu bir dağ ekosistemini barındırır. İlkbahar döneminde, dağ yamaçları renkli çiçeklerle donanır ve kuraklığa dayanıklı türler zoals defne, keçiboynuzu ve zeytin ağaçları yeşillendirir.
 
 Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Bu yüksekliklerde, dağ hayvanları gibi keçiler, tilkiler ve kartallar yaşamlarını sürdürürler. Sonbahar döneminde, göç eden kuşlar dağların üzerinden geçer ve bu bölgeyi önemli bir göç güzergahı haline getirir.
 

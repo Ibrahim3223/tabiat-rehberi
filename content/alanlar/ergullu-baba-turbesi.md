@@ -1,7 +1,7 @@
 ---
 title: "Ergüllü Baba Türbesi"
 date: "2026-01-10T06:55:20.029Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karabük"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390846"
 
 # Ergüllü Baba Türbesi
 
-Ergüllü Baba Türbesi, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Bu bölge, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ve Safranbolu'nun tarihi ve kültürel zenginliklerini sunuyor. Ergüllü Baba Türbesi, Karabük ilinin bir bölümü olarak, Karadeniz Bölgesi'nin coğrafi çeşitliliğini gösteriyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Ergüllü Baba Türbesi, aynı zamanda bir dini merkez olarak, tarihi ve kültürel öneme sahip.
+Ergüllü Baba Türbesi, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Ergüllü Baba Türbesi, Karabük ilinin bir bölümü olarak, Karadeniz Bölgesi'nin coğrafi çeşitliliğini gösteriyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Ergüllü Baba Türbesi, aynı zamanda bir dini merkez olarak, tarihi ve kültürel öneme sahip.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ergüllü Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Ergüllü Baba Türbesi, Karadeniz Bölgesi'nin coğrafi çeşitliliğini gösteriyor. Bu bölge, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ve Safranbolu'nun doğal güzelliklerini sunuyor. Ergüllü Baba Türbesi, Karabük ilinin bir bölümü olarak, Karadeniz Bölgesi'nin coğrafi özelliklerini gösteriyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Ergüllü Baba Türbesi, aynı zamanda bir plaj olarak, ziyaretçilere bu bölgenin doğal güzelliklerini sunuyor. Bu bölgede, çeşitli coğrafi oluşumlar, ziyaretçilere bu bölgenin güzelliğini sunuyor.
+Ergüllü Baba Türbesi, Karadeniz Bölgesi'nin coğrafi çeşitliliğini gösteriyor. Ergüllü Baba Türbesi, Karabük ilinin bir bölümü olarak, Karadeniz Bölgesi'nin coğrafi özelliklerini gösteriyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Ergüllü Baba Türbesi, aynı zamanda bir plaj olarak, ziyaretçilere bu bölgenin doğal güzelliklerini sunuyor. Bu bölgede, çeşitli coğrafi oluşumlar, ziyaretçilere bu bölgenin güzelliğini sunuyor.
 
 ## Flora ve Fauna
 

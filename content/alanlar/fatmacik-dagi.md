@@ -28,7 +28,7 @@ wikidata_id: "Q31386509"
 
 # Fatmacık Dağı
 
-Fatmacık Dağı, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan ve coğrafi açıdan önemli bir nokta olarak bilinen bir dağdır. Bu dağ, yaklaşık olarak 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Fatmacık Dağı, hem tarihi hem de coğrafi açıdan önemli bir bölgedir ve birçok doğal güzelliğe ev sahipliği yapar. Dağın eteklerinde bulunan köyler ve kasabalar, ziyaretçilere geleneksel yaşamın renklerini sunar. Fatmacık Dağı, ayrıca birçok bitki ve hayvan türüne de ev sahipliği yapar ve bu nedenle doğa severler için önemli bir destinasyon olarak kabul edilir.
+Fatmacık Dağı, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan ve coğrafi açıdan önemli bir nokta olarak bilinen bir dağdır. Fatmacık Dağı, hem tarihi hem de coğrafi açıdan önemli bir bölgedir ve birçok doğal güzelliğe ev sahipliği yapar. Dağın eteklerinde bulunan köyler ve kasabalar, ziyaretçilere geleneksel yaşamın renklerini sunar. Fatmacık Dağı, ayrıca birçok bitki ve hayvan türüne de ev sahipliği yapar ve bu nedenle doğa severler için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 

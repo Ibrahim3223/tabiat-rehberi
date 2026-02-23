@@ -1,7 +1,7 @@
 ---
 title: "Mahmut Celalettin Efendi Türbesi"
 date: "2026-01-10T07:29:22.706Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391080"
 
 # Mahmut Celalettin Efendi Türbesi
 
-Mahmut Celalettin Efendi Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu alan, yaklaşık 140 hektarlık bir genişlikte, 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Türbenin bulunduğu bu bölge, hem tarihi hem de doğal güzelliklerinin birleştiği bir đime, ziyaretçilerini bekliyor. Mahmut Celalettin Efendi Türbesi, sadece bir tarihi yapı değil, aynı zamanda çevresi ile birlikte bir doğa harikasıdır. Ziyaretçiler, bu güzel mekanın güzelliklerini keşfedebilir ve tarihi atmosferini hissedebilirler.
+Mahmut Celalettin Efendi Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik noktasıdır. Türbenin bulunduğu bu bölge, hem tarihi hem de doğal güzelliklerinin birleştiği bir đime, ziyaretçilerini bekliyor. Mahmut Celalettin Efendi Türbesi, sadece bir tarihi yapı değil, aynı zamanda çevresi ile birlikte bir doğa harikasıdır. Ziyaretçiler, bu güzel mekanın güzelliklerini keşfedebilir ve tarihi atmosferini hissedebilirler.
 
 ## Tarihçe
 

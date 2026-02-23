@@ -32,7 +32,7 @@ Ankara'nın yeşil köşesinde yer alan Karakok Dağı, şehrin kalabalığında
 
 ## Tarihçe
 
-Ankara'nın kuzeyinde yükselen Karakok Dağı, tarihin sâu izlerini taşıyan bir bölgenin parçası. Bu coğrafya, Hititlerden başlayarak Roma ve Bizans dönemlerine kadar çeşitli uygarlıkların izlerini taşımaktadır. Ankara'nın tarihsel önemi, ticaret yollarının kesişme noktasında bulunmasından kaynaklanmaktadır. Karakok Dağı da, bu ticaret yollarının yakınında yer alır ve tarihi İpek Yolu'nun güzergahında bulunmaktadır.
+Ankara'nın kuzeyinde yükselen Karakok Dağı, tarihin derin izlerini taşıyan bir bölgenin parçası. Bu coğrafya, Hititlerden başlayarak Roma ve Bizans dönemlerine kadar çeşitli uygarlıkların izlerini taşımaktadır. Ankara'nın tarihsel önemi, ticaret yollarının kesişme noktasında bulunmasından kaynaklanmaktadır. Karakok Dağı da, bu ticaret yollarının yakınında yer alır ve tarihi İpek Yolu'nun güzergahında bulunmaktadır.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan toplulukların temel geçim kaynaklarından biri olmuştur. Karakok Dağı ve çevresinde de, bu geleneksel faaliyetler sürdürülmüştür. Bölgenin coğrafi özellikleri, insanların yaşamlarını şekillendirmiş ve kültürel mirasın bir parçası haline gelmiştir. Karakok Dağı, Ankara'nın doğal güzelliklerinin önemli bir bileşeni olarak, tarihin izlerini taşıyan bir mirasın korunmasına katkıda bulunmaktadır.
 

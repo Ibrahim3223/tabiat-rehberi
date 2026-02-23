@@ -28,7 +28,7 @@ wikidata_id: "Q31389790"
 
 # Yellice Tepesi
 
-Yellice Tepesi, Karadeniz Bölgesi'nin Bolu ilinde yer alan ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ormanlarla kaplı. Tepenin zirvesinden bakıldığında, Bolu'nun geniş ve yeşillik bir manzarası ortaya çıkıyor. Bu manzara, özellikle gün batımı saatlerinde çok daha güzel bir hal alıyor. Yellice Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının ziyaret etmeyi çok sevdiği bir yer.
+Yellice Tepesi, Karadeniz Bölgesi'nin Bolu ilinde yer alan ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Tepenin zirvesinden bakıldığında, Bolu'nun geniş ve yeşillik bir manzarası ortaya çıkıyor. Bu manzara, özellikle gün batımı saatlerinde çok daha güzel bir hal alıyor. Yellice Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının ziyaret etmeyi çok sevdiği bir yer.
 
 ## Tarihçe
 

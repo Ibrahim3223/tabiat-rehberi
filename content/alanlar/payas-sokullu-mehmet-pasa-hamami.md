@@ -1,7 +1,7 @@
 ---
 title: "Payas Sokullu Mehmet Paşa Hamamı"
 date: "2026-01-09T22:39:20.773Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738687"
 
 # Payas Sokullu Mehmet Paşa Hamamı
 
-Payas Sokullu Mehmet Paşa Hamamı, Akdeniz Bölgesi'nin güneşli ve sıcak iklimine sahip bir bölgede, tarihi bir hamam ve plaj olarak dikkat çekmektedir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Payas Sokullu Mehmet Paşa Hamamı, tarihi geçmişi ve eşsiz mimarisi ile ziyaretçilerini büyülemektedir. Bu hamam, Sokullu Mehmet Paşa tarafından yaptırılmıştır ve tarihi bir eser olarak bilinmektedir. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Payas Sokullu Mehmet Paşa Hamamı, Akdeniz Bölgesi'nin güneşli ve sıcak iklimine sahip bir bölgede, tarihi bir hamam ve plaj olarak dikkat çekmektedir. Payas Sokullu Mehmet Paşa Hamamı, tarihi geçmişi ve eşsiz mimarisi ile ziyaretçilerini büyülemektedir. Bu hamam, Sokullu Mehmet Paşa tarafından yaptırılmıştır ve tarihi bir eser olarak bilinmektedir. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 

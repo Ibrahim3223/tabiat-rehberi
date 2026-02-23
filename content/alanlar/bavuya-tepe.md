@@ -28,7 +28,7 @@ wikidata_id: "Q31386789"
 
 # Bavuya Tepe
 
-Bavuya Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktada bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bavuya Tepe, ziyaretçilerini hem tarihi geçmişi hem de doğal güzellikleriyle cezbediyor. Tepe, bölgenin coğrafi yapısını ve iklimini gözlemlemek için ideal bir konum sunuyor.
+Bavuya Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktada bulunan bir tepe. Bavuya Tepe, ziyaretçilerini hem tarihi geçmişi hem de doğal güzellikleriyle cezbediyor. Tepe, bölgenin coğrafi yapısını ve iklimini gözlemlemek için ideal bir konum sunuyor.
 
 ## Tarihçe
 

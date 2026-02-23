@@ -24,7 +24,7 @@ wikidata_id: "Q6077342"
 
 # Babas
 
-Babas, Bolu'nun Mudurnu ilçesinde yer alan bir termal kayna ve turizm merkezidir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir ortam sunar. Babas, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir. Yerel halk için de önemli bir dinlenme ve eğlence merkezidir. Babas'ta yer alan termal kaynaklar, ziyaretçilerin rahatlamalarına ve sağlık sorunlarını gidermelerine yardımcı olur. Turizm açısından önemli bir merkez olan Babas, her yıl binlerce ziyaretçi tarafından tercih edilir.
+Babas, Bolu'nun Mudurnu ilçesinde yer alan bir termal kayna ve turizm merkezidir. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir ortam sunar. Babas, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir. Yerel halk için de önemli bir dinlenme ve eğlence merkezidir. Babas'ta yer alan termal kaynaklar, ziyaretçilerin rahatlamalarına ve sağlık sorunlarını gidermelerine yardımcı olur. Turizm açısından önemli bir merkez olan Babas, her yıl binlerce ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -32,7 +32,7 @@ Babas'ın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, tarih boy
 
 ## Coğrafya
 
-Babas, Bolu'nun Mudurnu ilçesinde yer alır. Karadeniz Bölgesi'nin önemli bir turizm merkezidir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir ortam sunar. Babas'ta yer alan termal kaynaklar, ziyaretçilerin rahatlamalarına ve sağlık sorunlarını gidermelerine yardımcı olur. Bölge, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir yerdir. Babas, doğal güzellikleri ve turizm olanaklarıyla önemli bir merkezdir. Bölgede yer alan dağlar, ormanlar ve nehirler, ziyaretçilere çeşitli aktiviteler sunar. Babas, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir.
+Babas, Bolu'nun Mudurnu ilçesinde yer alır. Karadeniz Bölgesi'nin önemli bir turizm merkezidir. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir ortam sunar. Babas'ta yer alan termal kaynaklar, ziyaretçilerin rahatlamalarına ve sağlık sorunlarını gidermelerine yardımcı olur. Bölge, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir yerdir. Babas, doğal güzellikleri ve turizm olanaklarıyla önemli bir merkezdir. Bölgede yer alan dağlar, ormanlar ve nehirler, ziyaretçilere çeşitli aktiviteler sunar. Babas, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Babas, ziyaretçilere çeşitli olanaklar sunar. Bölge, özellikle yaz ayların
 ## İlginç Bilgiler
 
 - Babas, 140 hektarlık bir yeşil alana sahiptir.
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Babas, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir.
 - Bölgede, çeşitli restoran ve kafeler bulunur.
 - Babas, özellikle kuş türleri açısından zengindir.

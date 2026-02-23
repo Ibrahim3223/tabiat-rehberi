@@ -28,7 +28,7 @@ wikidata_id: "Q32197874"
 
 # Kocaçali Tepesi
 
-Kocaçali Tepesi, Tokat'ın merkezinde yer alan ve şehrin önemli bir doğal güzelliği olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, Tokat'ın tarihi ve kültürel mirasının bir parçası olarak görülmektedir. Ziyaretçiler, tepeye çıkarak şehrin manzarasını izleyebilir ve çevresindeki doğal güzellikleri keşfedebilir. Kocaçali Tepesi, aynı zamanda bir yürüyüş alanı olarak da kullanılmaktadır. Ziyaretçiler, tepe etrafında yürüyüş yaparak doğayı ve çevresindeki bitki türlerini keşfedebilir.
+Kocaçali Tepesi, Tokat'ın merkezinde yer alan ve şehrin önemli bir doğal güzelliği olan bir tepe. Bu tepe, Tokat'ın tarihi ve kültürel mirasının bir parçası olarak görülmektedir. Ziyaretçiler, tepeye çıkarak şehrin manzarasını izleyebilir ve çevresindeki doğal güzellikleri keşfedebilir. Kocaçali Tepesi, aynı zamanda bir yürüyüş alanı olarak da kullanılmaktadır. Ziyaretçiler, tepe etrafında yürüyüş yaparak doğayı ve çevresindeki bitki türlerini keşfedebilir.
 
 ## Tarihçe
 

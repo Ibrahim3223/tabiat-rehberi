@@ -28,7 +28,7 @@ wikidata_id: "Q32129216"
 
 # Ardıçdağ Tepe
 
-Ardıçdağ Tepe, Hatay ilinin Akdeniz Bölgesi'nde yer alan önemli bir coğrafi oluşumdur. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ardıçdağ Tepe, bölgenin en yüksek noktalarından biri olarak bilinir ve çevreyi panoramik olarak seyretmek için ideal bir noktadır. Tepe, doğa severler ve yürüyüş tutkunları için bir cazibe merkezi oluşturuyor. Ardıçdağ Tepe'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bölgede birçok farklı hayvan türü de yaşar.
+Ardıçdağ Tepe, Hatay ilinin Akdeniz Bölgesi'nde yer alan önemli bir coğrafi oluşumdur. Ardıçdağ Tepe, bölgenin en yüksek noktalarından biri olarak bilinir ve çevreyi panoramik olarak seyretmek için ideal bir noktadır. Tepe, doğa severler ve yürüyüş tutkunları için bir cazibe merkezi oluşturuyor. Ardıçdağ Tepe'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bölgede birçok farklı hayvan türü de yaşar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Mehmet Bey Türbesi"
 date: "2026-01-10T07:31:35.335Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391256"
 
 # Mehmet Bey Türbesi
 
-Mehmet Bey Türbesi, Karatay, Konya'da yer alan bir tarihi türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biridir. Bu alan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Mehmet Bey Türbesi, Karatay'ın merkezine yakın bir konumda bulunduğundan, ulaşım oldukça kolaydır. Türbe ve plaj, özellikle yaz aylarında ziyaretçilerini ağırlarken, aynı zamanda yılın diğer zamanlarında da históriki ve kültürel açıdan önemli bir destinasyon olarak kabul ediliyor.
+Mehmet Bey Türbesi, Karatay, Konya'da yer alan bir tarihi türbe ve plaj alanıdır. Bu alan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Mehmet Bey Türbesi, Karatay'ın merkezine yakın bir konumda bulunduğundan, ulaşım oldukça kolaydır. Türbe ve plaj, özellikle yaz aylarında ziyaretçilerini ağırlarken, aynı zamanda yılın diğer zamanlarında da tarihi ve kültürel açıdan önemli bir destinasyon olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Mehmet Bey Türbesi çevresindeki flora, İç Anadolu Bölgesi'nin karakteristik
 
 ## Ziyaret Bilgileri
 
-Mehmet Bey Türbesi'ni ziyaret etmek, Karatay ve Konya'nın tarihini ve kültürünü öğrenmek isteyenler için önemli bir deneyim. Türbeye ulaşım, genellikle özel araç veya toplu taşıma ile sağlanıyor. Ziyaretçiler, türbenin tarihi ve kültürel önemini aprenderken, aynı zamanda plaj ve yeşil alanlarda dinlenebiliyor. Mehmet Bey Türbesi, yılın her döneminde ziyaret edilebiliyor, ancak en çok yaz aylarında tercih ediliyor. Ziyaretçilerin, türbe ve çevresini gezerken, bölgenin históriki ve kültürel mirasını anlamak için yeterli zaman ayırmaları öneriliyor.
+Mehmet Bey Türbesi'ni ziyaret etmek, Karatay ve Konya'nın tarihini ve kültürünü öğrenmek isteyenler için önemli bir deneyim. Türbeye ulaşım, genellikle özel araç veya toplu taşıma ile sağlanıyor. Ziyaretçiler, türbenin tarihi ve kültürel önemini aprenderken, aynı zamanda plaj ve yeşil alanlarda dinlenebiliyor. Mehmet Bey Türbesi, yılın her döneminde ziyaret edilebiliyor, ancak en çok yaz aylarında tercih ediliyor. Ziyaretçilerin, türbe ve çevresini gezerken, bölgenin tarihi ve kültürel mirasını anlamak için yeterli zaman ayırmaları öneriliyor.
 
 ## İlginç Bilgiler
 

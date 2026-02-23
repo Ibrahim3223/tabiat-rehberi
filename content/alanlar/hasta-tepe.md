@@ -28,7 +28,7 @@ wikidata_id: "Q31389353"
 
 # Hasta Tepe
 
-Hasta Tepe, Mersin'in güzide noktalarından biri olarak biliniyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyük yeşil alan, ziyaretçilerine doğa ile baş başa kalma fırsatı sunuyor. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Hasta Tepe'nin etrafını saran dağlar ve vadiler, doğa severler için harika bir manzara sunuyor. Burada, çeşitli bitki türleri ve zengin fauna çeşitliliği ile karşılaşma mümkün.
+Hasta Tepe, Mersin'in güzide noktalarından biri olarak biliniyor. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Hasta Tepe'nin etrafını saran dağlar ve vadiler, doğa severler için harika bir manzara sunuyor. Burada, çeşitli bitki türleri ve zengin fauna çeşitliliği ile karşılaşma mümkün.
 
 ## Tarihçe
 

@@ -30,7 +30,7 @@ wikidata_id: "Q31191094"
 
 # Büyük Mabeyn Köşkü
 
-Büyük Mabeyn Köşkü, İstanbul'un kalbi Beşiktaş'ta yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Büyük Mabeyn Köşkü'nü ziyaret ettiğinizde, Marmara Denizi'ne karşı muhteşem manzaralar sunan bu nokta, aynı zamanda tarihi değerleri ile de dikkat çekiyor. Köşkün tarihi geçmişi, Osmanlı dönemine dayanıyor ve bu özelliği ile ziyaretçilerini tarihte bir yolculuğa çıkarıyor.
+Büyük Mabeyn Köşkü, İstanbul'un kalbi Beşiktaş'ta yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir mekan. Büyük Mabeyn Köşkü'nü ziyaret ettiğinizde, Marmara Denizi'ne karşı muhteşem manzaralar sunan bu nokta, aynı zamanda tarihi değerleri ile de dikkat çekiyor. Köşkün tarihi geçmişi, Osmanlı dönemine dayanıyor ve bu özelliği ile ziyaretçilerini tarihte bir yolculuğa çıkarıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Büyük Mabeyn Köşkü'nün tarihi geçmişi, Osmanlı İmparatorluğu'nun öne
 
 ## Coğrafya
 
-Büyük Mabeyn Köşkü, coğrafi konumu itibariyle, Marmara Bölgesi'nde, İstanbul'un Beşiktaş semtinde yer alıyor. Bu bölge, doğal güzellikleri ile dikkat çekiyor ve Marmara Denizi'ne karşı muhteşem manzaralar sunuyor. Köşkün bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu alanın coğrafi özellikleri, ziyaretçilerine geniş yeşillik alanları, deniz manzaraları ve tarihi yapılar sunuyor. Ayrıca, bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, karasal ve denizel iklimlerin bir karışımı şeklinde. Bu karışım, bölgeye özgü flora ve fauna çeşitliliği ile de dikkat çekiyor.
+Büyük Mabeyn Köşkü, coğrafi konumu itibariyle, Marmara Bölgesi'nde, İstanbul'un Beşiktaş semtinde yer alıyor. Bu bölge, doğal güzellikleri ile dikkat çekiyor ve Marmara Denizi'ne karşı muhteşem manzaralar sunuyor. Bu alanın coğrafi özellikleri, ziyaretçilerine geniş yeşillik alanları, deniz manzaraları ve tarihi yapılar sunuyor. Ayrıca, bu bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, karasal ve denizel iklimlerin bir karışımı şeklinde. Bu karışım, bölgeye özgü flora ve fauna çeşitliliği ile de dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Büyük Mabeyn Köşkü'nü ziyaret etmek, hem tarihi hem de doğal güzellikler
 - Büyük Mabeyn Köşkü, Osmanlı dönemine ait önemli tarihi yapılardan biridir.
 - Köşkün inşası, 19. yüzyıla dayanıyor.
 - Büyük Mabeyn Köşkü, Marmara Denizi'ne karşı muhteşem manzaralar sunuyor.
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip.
+
 - Büyük Mabeyn Köşkü'nün bulunduğu bölge, flora ve fauna açısından zengin.

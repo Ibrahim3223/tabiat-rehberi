@@ -1,7 +1,7 @@
 ---
 title: "Tabakhane Dedesi Mescidi ve Türbesi"
 date: "2026-01-10T05:40:26.075Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q135581942"
 
 # Tabakhane Dedesi Mescidi ve Türbesi
 
-Tabakhane Dedesi Mescidi ve Türbesi, Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Karacasu ilçesinde yer alan tarihi ve doğal güzellikleri bir araya getiren özel bir destinasyon. Bu alan, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir yeşil saha içinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Ziyaretçiler, bu güzel mekanın sunduğu sakin ve huzurlu atmosferi deneyimleyerek, tarihi ve doğal güzelliklerin bir arada olduğu bu özel yerin keyfini çıkarabilirler.
+Tabakhane Dedesi Mescidi ve Türbesi, Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Karacasu ilçesinde yer alan tarihi ve doğal güzellikleri bir araya getiren özel bir destinasyon. Ziyaretçiler, bu güzel mekanın sunduğu sakin ve huzurlu atmosferi deneyimleyerek, tarihi ve doğal güzelliklerin bir arada olduğu bu özel yerin keyfini çıkarabilirler.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Tabakhane Dedesi Mescidi ve Türbesi, Ege Bölgesi'nin güzide illerinden biri o
 
 ## Flora ve Fauna
 
-Tabakhane Dedesi Mescidi ve Türbesi'nin bulunduğu bölgede, çeşitli bitki türleri ve fauna çeşitliliği bulunur. Bu bölge, Ege Bölgesi'nin karakteristik bitki örtüsüne sahip ve zeytin ağaçları, kestane ağaçları, çam ağaçları gibi verschill bitki türleri ile kaplı. Ayrıca, bu bölgede, çeşitli hayvan türleri de yaşar. Yaban domuzu, tavşan, keklik gibi av hayvanlarının yanı sıra, kartal, şahin, atmaca gibi kuş türleri de bölgede görülür. Mevsimsel değişimler, bölgenin flora ve faunasını etkiler ve her mevsim, farklı bir güzelli ve canlılık sunar. İlkbahar ve yaz aylarında, régionun bitki örtüsü yeşil ve canlı iken, sonbahar ve kış aylarında, bölgenin manzarası daha sakin ve dingin bir hal alır.
+Tabakhane Dedesi Mescidi ve Türbesi'nin bulunduğu bölgede, çeşitli bitki türleri ve fauna çeşitliliği bulunur. Bu bölge, Ege Bölgesi'nin karakteristik bitki örtüsüne sahip ve zeytin ağaçları, kestane ağaçları, çam ağaçları gibi verschill bitki türleri ile kaplı. Ayrıca, bu bölgede, çeşitli hayvan türleri de yaşar. Yaban domuzu, tavşan, keklik gibi av hayvanlarının yanı sıra, kartal, şahin, atmaca gibi kuş türleri de bölgede görülür. Mevsimsel değişimler, bölgenin flora ve faunasını etkiler ve her mevsim, farklı bir güzelli ve canlılık sunar. İlkbahar ve yaz aylarında, bölgenin bitki örtüsü yeşil ve canlı iken, sonbahar ve kış aylarında, bölgenin manzarası daha sakin ve dingin bir hal alır.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Tabakhane Dedesi Mescidi ve Türbesi'ni ziyaret etmek, tarihi ve doğal güzelli
 ## İlginç Bilgiler
 
 - Tabakhane Dedesi Mescidi ve Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir destinasyon.
-- Bu alan, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir yeşil saha içinde yer alıyor.
+
 - Mescit ve türbe, çevresindeki köy ve kasabaların dini ve sosyal hayatında önemli bir rol oynamıştır.
 - Bölge, Ege Denizi'ne yakınlığı ile bilinen ve doğal güzellikleri ile dikkat çeken bir yöre.
 - İlçe, dağlık ve engebeli bir araziye sahip ve bu coğrafi yapı, çeşitli bitki türlerinin ve fauna çeşitliliğinin gelişmesine katkıda bulunmuş.

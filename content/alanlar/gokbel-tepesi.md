@@ -28,7 +28,7 @@ wikidata_id: "Q34872027"
 
 # Gökbel Tepesi
 
-Gökbel Tepesi, Antalya'nın merkezine uzun bir mesafe uzaklıkta, Akdeniz Bölgesi'nin eşsiz manzarasına ev sahipliği yapan bir doğa harikası. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle mest ediyor. Gökbel Tepesi, yaban hayatının zengin çeşitliliği ve flora ile fauna çeşitliliği açısından da önemli bir destinasyon. Ziyaretçiler, bu güzel tepeye tırmanırken, Akdeniz'in maviliği ve Antalya'nın yeşil doğasının birleştiği muhteşem manzaraları keşfedebilirler.
+Gökbel Tepesi, Antalya'nın merkezine uzun bir mesafe uzaklıkta, Akdeniz Bölgesi'nin eşsiz manzarasına ev sahipliği yapan bir doğa harikası. Gökbel Tepesi, yaban hayatının zengin çeşitliliği ve flora ile fauna çeşitliliği açısından da önemli bir destinasyon. Ziyaretçiler, bu güzel tepeye tırmanırken, Akdeniz'in maviliği ve Antalya'nın yeşil doğasının birleştiği muhteşem manzaraları keşfedebilirler.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Gökbel Tepesi'ni ziyaret etmek, hem doğa severler hem de macera arayışındak
 ## İlginç Bilgiler
 
 - Gökbel Tepesi, Akdeniz Bölgesi'nin en önemli doğa alanlarından biri.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsıyor.
+
 - Gökbel Tepesi, zengin flora ve fauna çeşitliliği ile dikkat çekiyor.
 - Tepenin zirvesi, yüksek bir konumda bulunuyor.
 - Gökbel Tepesi, ilkbahar ve sonbahar mevsimlerinde en çok ziyaret edilen zamanlar.

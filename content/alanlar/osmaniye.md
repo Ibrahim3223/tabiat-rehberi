@@ -23,7 +23,7 @@ wikidata_id: "Q108228743"
 
 # OSMANİYE
 
-İç Anadolu Bölgesi'nde yer alan Osmaniye, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alana sahip. Osmaniye'nin doğal güzellikleri, özellikle de ormanları ve su kaynakları, bölgeyi önemli bir turizm merkezi haline getiriyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Osmaniye, hem doğa severler hem de tarihe ilgi duyanlar için ideal bir gezi noktası.
+İç Anadolu Bölgesi'nde yer alan Osmaniye, yaklaşık 140 hektarlık bir alanı kapsıyor. Osmaniye'nin doğal güzellikleri, özellikle de ormanları ve su kaynakları, bölgeyi önemli bir turizm merkezi haline getiriyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Osmaniye, hem doğa severler hem de tarihe ilgi duyanlar için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Osmaniye'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaş
 
 ## Coğrafya
 
-Osmaniye, İç Anadolu Bölgesi'nde yer alan bir milli park. Bu bölgenin coğrafyası, geniş ormanlar, su kaynakları ve çeşitli bitki türleri ile dikkat çekiyor. Osmaniye, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçiyor. Osmaniye'nin coğrafyası, ziyaretçilere doğa yürüyüşleri, doğa fotoğrafçılığı ve diğer doğa aktivitelerine olanak sağlıyor. Ayrıca, bölgenin su kaynakları, balıkçılık ve su sporları için ideal.
+Osmaniye, İç Anadolu Bölgesi'nde yer alan bir milli park. Bu bölgenin coğrafyası, geniş ormanlar, su kaynakları ve çeşitli bitki türleri ile dikkat çekiyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçiyor. Osmaniye'nin coğrafyası, ziyaretçilere doğa yürüyüşleri, doğa fotoğrafçılığı ve diğer doğa aktivitelerine olanak sağlıyor. Ayrıca, bölgenin su kaynakları, balıkçılık ve su sporları için ideal.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Osmaniye, ziyaretçilere doğa yürüyüşleri, doğa fotoğrafçılığı ve di
 ## İlginç Bilgiler
 
 - Osmaniye, yaklaşık 140 hektarlık bir alanı kapsıyor.
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Osmaniye, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bölge, özellikle ormanları ve su kaynakları ile doğal güzellikleri sunuyor.
 - Osmaniye, bir milli park olarak korunuyor.

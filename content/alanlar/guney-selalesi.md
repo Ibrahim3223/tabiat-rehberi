@@ -29,7 +29,7 @@ wikidata_id: "Q27876674"
 
 # Güney Şelalesi
 
-Güney Şelalesi, Denizli'nin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Güney Şelalesi, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir kaçış noktasıdır. Şelalenin güzelliği, çevreyi sarıp sarmalayan yeşilli ve suyun sesi ile birleşince, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Güney Şelalesi, Denizli'nin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Güney Şelalesi, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir kaçış noktasıdır. Şelalenin güzelliği, çevreyi sarıp sarmalayan yeşilli ve suyun sesi ile birleşince, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Güney Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Güney Şelalesi, Denizli ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin doğal güzelliklerinden biridir. Bu milli park, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Şelale, çevreyi sarıp sarmalayan yeşilli ve suyun sesi ile birleşince, ziyaretçilere doğanın güzelliğini göstermektedir. Güney Şelalesi'nin coğrafi konumu, ziyaretçilerin hem doğayı hem de tarihi geçmişi keşfetmesine olanak tanır. Bu bölge, iklim olarak ılıman bir bölge olup, ziyaretçilerin yıl boyunca ziyaret etmelerine uygun bir yapıya sahiptir.
+Güney Şelalesi, Denizli ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin doğal güzelliklerinden biridir. Şelale, çevreyi sarıp sarmalayan yeşilli ve suyun sesi ile birleşince, ziyaretçilere doğanın güzelliğini göstermektedir. Güney Şelalesi'nin coğrafi konumu, ziyaretçilerin hem doğayı hem de tarihi geçmişi keşfetmesine olanak tanır. Bu bölge, iklim olarak ılıman bir bölge olup, ziyaretçilerin yıl boyunca ziyaret etmelerine uygun bir yapıya sahiptir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Güney Şelalesi'ni ziyaret etmek, doğa severler için ideal bir aktivitedir. Z
 ## İlginç Bilgiler
 
 - Güney Şelalesi, 140 hektarlık bir alanı kapsar.
-- Bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir.
+
 - Şelale, çevreyi sarıp sarmalayan yeşilli ve suyun sesi ile birleşince, ziyaretçilere doğanın güzelliğini gösterir.
 - Güney Şelalesi, ziyaretçilere doğanın güzelliğini ve canlıların çeşitliliğini gösterir.
 - Bu milli park, doğa severler için ideal bir ziyaret noktasıdır.

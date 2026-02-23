@@ -1,7 +1,7 @@
 ---
 title: "Sahip Ata Hamamı"
 date: "2026-01-09T22:34:58.727Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738676"
 
 # Sahip Ata Hamamı
 
-Sahip Ata Hamamı, Meram'da bulunan ve tarihi geçmişiyle dikkat çeken bir hamam ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş bir yeşil alan sunmaktadır. Sahip Ata Hamamı, hem tarihi hem de doğal güzelliği ile ziyaretçilerini çekmektedir. Konumu itibariyle Meram'ın merkezi bir noktasında bulunmakta ve ulaşımı oldukça kolaydır. Sahip Ata Hamamı, Konya'nın tarihi ve kültürel zenginliklerini deneyimlemek isteyenler için ideal bir destinasyondur.
+Sahip Ata Hamamı, Meram'da bulunan ve tarihi geçmişiyle dikkat çeken bir hamam ve plaj alanıdır. Sahip Ata Hamamı, hem tarihi hem de doğal güzelliği ile ziyaretçilerini çekmektedir. Konumu itibariyle Meram'ın merkezi bir noktasında bulunmakta ve ulaşımı oldukça kolaydır. Sahip Ata Hamamı, Konya'nın tarihi ve kültürel zenginliklerini deneyimlemek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Metropolis Aşağı Hamam Palaestra"
 date: "2026-01-09T23:39:31.737Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739214"
 
 # Metropolis Aşağı Hamam Palaestra
 
-Metropolis Aşağı Hamam Palaestra, Ege Bölgesi'nin saklı cennetlerinden biri olarak Torbalı'da yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici bir atmosfere davet ediyor. Tarihi geçmişi ve doğal güzelliği bir araya getiren bu özel yer, gezginler için unutulmaz bir deneyim sunuyor. Şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için Metropolis Aşağı Hamam Palaestra, ideal bir kaçış noktası.
+Metropolis Aşağı Hamam Palaestra, Ege Bölgesi'nin saklı cennetlerinden biri olarak Torbalı'da yer alıyor. Tarihi geçmişi ve doğal güzelliği bir araya getiren bu özel yer, gezginler için unutulmaz bir deneyim sunuyor. Şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için Metropolis Aşağı Hamam Palaestra, ideal bir kaçış noktası.
 
 ## Tarihçe
 

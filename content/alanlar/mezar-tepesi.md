@@ -29,7 +29,7 @@ wikidata_id: "Q31388997"
 
 # Mezar Tepesi
 
-Mezar Tepesi, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un sınırları içerisinde yer alıyor. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan sunuyor. Bölgenin coğrafi yapısı, Mezar Tepesi'nin eteklerinde kurulmuş olan yerleşim yerleri ile birlikte, tarih ve doğanın iç içe geçtiği benzersiz bir manzara sunuyor. Mezar Tepesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerini keşfetme fırsatı sunuyor.
+Mezar Tepesi, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un sınırları içerisinde yer alıyor. Bölgenin coğrafi yapısı, Mezar Tepesi'nin eteklerinde kurulmuş olan yerleşim yerleri ile birlikte, tarih ve doğanın iç içe geçtiği benzersiz bir manzara sunuyor. Mezar Tepesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Mezar Tepesi'ni ziyaret etmek, hem doğal güzellikleri hem de tarihi zenginliğ
 ## İlginç Bilgiler
 
 - Mezar Tepesi, 140 hektarlık bir alanı kapsıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Mezar Tepesi, Erzurum'un sınırları içerisinde yer alıyor.
 - Tepenin eteklerinde, yerleşim yerleri ve tarım alanları bulunuyor.
 - Mezar Tepesi, zengin bir flora ve fauna sunuyor.

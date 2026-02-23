@@ -28,7 +28,7 @@ wikidata_id: "Q34803501"
 
 # Göktaş Tepesi
 
-Göktaş Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilerine hem doğayı keşfetme hem de tarihi geçmişi öğrenme fırsatı sunuyor. Göktaş Tepesi, Eskişehir'in önemli doğal ve tarihi değerlerinden biri olarak görülüyor. Tepenin bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Göktaş Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Bu alan, ziyaretçilerine hem doğayı keşfetme hem de tarihi geçmişi öğrenme fırsatı sunuyor. Göktaş Tepesi, Eskişehir'in önemli doğal ve tarihi değerlerinden biri olarak görülüyor. Tepenin bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

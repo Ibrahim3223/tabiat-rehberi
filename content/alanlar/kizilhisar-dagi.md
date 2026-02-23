@@ -1,7 +1,7 @@
 ---
 title: "Kızılhisar Dağı"
 date: "2026-01-08T23:50:33.360Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Türkiye"
@@ -37,7 +37,7 @@ Kızılhisar Dağı, Türkiye'nin zengin tarihsel coğrafyası içerisinde yer a
 
 Doğal güzellikleri ve stratejik konumuyla, Kızılhisar Dağı ve çevresi, tarihin farklı dönemlerinde insanların yerleşim, ticaret ve hayvancılık faaliyetleri için önemli bir merkez olmuştur. Yaylacılık ve hayvan otlatma, bu bölgede yaşayan halkın geleneksel yaşam tarzı içerisinde önemli bir yer tutmuştur. Ayrıca, tarihi ticaret yollarının bu bölgeyi geçmesi, bölgenin ekonomi ve kültürel gelişimine katkıda bulunmuştur.
 
-Türkiye'de, doğal alanlar gibi dağlar ve ormanlar, sadece çevreyi korumak için değil, aynı zamanda kültürel mirası yaşatmak için de büyük önem taşımaktadır. Bu alanlar, insanlığın história boyunca yaşadığı deneyimleri, gelenekleri ve yaşam biçimleri hakkında önemli bilgiler sunar. Kızılhisar Dağı da, bu bağlamda, Türkiye'nin zengin doğal ve kültürel mirasının bir parçasını oluşturmaktadır.
+Türkiye'de, doğal alanlar gibi dağlar ve ormanlar, sadece çevreyi korumak için değil, aynı zamanda kültürel mirası yaşatmak için de büyük önem taşımaktadır. Bu alanlar, insanlığın tarihi boyunca yaşadığı deneyimleri, gelenekleri ve yaşam biçimleri hakkında önemli bilgiler sunar. Kızılhisar Dağı da, bu bağlamda, Türkiye'nin zengin doğal ve kültürel mirasının bir parçasını oluşturmaktadır.
 
 ## Coğrafya
 

@@ -1,7 +1,7 @@
 ---
 title: "Abalı Baba Türbesi"
 date: "2026-01-10T06:14:31.744Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390679"
 
 # Abalı Baba Türbesi
 
-Abalı Baba Türbesi, Ankara'nın Yenimahalle ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Abalı Baba Türbesi, hem tarihi önemini hem de doğal güzelliğini korumuş bir destinasyon olarak ziyaretçilerini bekliyor. Bu türbe ve çevresindeki plaj, hem yerel halk hem de ziyaretçiler için keyifli bir kaçış noktası sunuyor. Abalı Baba Türbesi, İç Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçasıdır ve ziyaretçiler buraya gelerek hem tarihi bir deneyime sahip oluyor hem de doğal güzelliklerin keyfini çıkarabiliyor.
+Abalı Baba Türbesi, Ankara'nın Yenimahalle ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. Abalı Baba Türbesi, hem tarihi önemini hem de doğal güzelliğini korumuş bir destinasyon olarak ziyaretçilerini bekliyor. Bu türbe ve çevresindeki plaj, hem yerel halk hem de ziyaretçiler için keyifli bir kaçış noktası sunuyor. Abalı Baba Türbesi, İç Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçasıdır ve ziyaretçiler buraya gelerek hem tarihi bir deneyime sahip oluyor hem de doğal güzelliklerin keyfini çıkarabiliyor.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Abalı Baba Türbesi, Ankara'nın Yenimahalle ilçesinde, İç Anadolu Bölgesi'
 
 ## Flora ve Fauna
 
-Abalı Baba Türbesi ve çevresindeki plaj, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor. Bu bölge, özellikle kuş türleri açısından oldukça zengin bir çeşitlilik sunuyor. Abalı Baba Türbesi'nin bulunduğu yeşil alan, mevsimsel değişimlere göre farklı bitki türlerini barındırıyor. Bu bölgede, özellikle yaz aylarında ziyaretçiler, yeşil alanların güzelliğinin keyfini çıkarabiliyor. Abalı Baba Türbesi ve plaj, ekolojik dengenin korunmasına önem veren bir destinasyon olarak, ziyaretçilerine doğal güzellikleri responsible bir şekilde deneyimleme fırsatı sunuyor. Bu bölgenin fauna ve florası, İç Anadolu Bölgesi'nin genel özelliklerini taşıyor ve ziyaretçilere bu régionun zengin doğal mirasını keşfetme fırsatı sunuyor.
+Abalı Baba Türbesi ve çevresindeki plaj, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor. Bu bölge, özellikle kuş türleri açısından oldukça zengin bir çeşitlilik sunuyor. Abalı Baba Türbesi'nin bulunduğu yeşil alan, mevsimsel değişimlere göre farklı bitki türlerini barındırıyor. Bu bölgede, özellikle yaz aylarında ziyaretçiler, yeşil alanların güzelliğinin keyfini çıkarabiliyor. Abalı Baba Türbesi ve plaj, ekolojik dengenin korunmasına önem veren bir destinasyon olarak, ziyaretçilerine doğal güzellikleri responsible bir şekilde deneyimleme fırsatı sunuyor. Bu bölgenin fauna ve florası, İç Anadolu Bölgesi'nin genel özelliklerini taşıyor ve ziyaretçilere bu bölgenin zengin doğal mirasını keşfetme fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 

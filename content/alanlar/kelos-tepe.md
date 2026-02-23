@@ -28,7 +28,7 @@ wikidata_id: "Q31386527"
 
 # Keloş Tepe
 
-Keloş Tepe, Hatay ilinin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken Keloş Tepe, ziyaretçilerini etkileyici manzaralarla karşılayacak bir destinasyon. Keloş Tepe'nin eteklerinde ve çevresinde çeşitli bitki türleri grownüyor. Bu bölgede yer alan bitki türleri, mevsimsel değişimlere göre renklenerek ziyaretçilere görsel bir şölen sunuyor. Keloş Tepe'nin ziyaretçileri, bu doğal güzelliğin tadını çıkarırken aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı buluyor.
+Keloş Tepe, Hatay ilinin güzide noktalarından biri olarak karşımıza çıkıyor. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken Keloş Tepe, ziyaretçilerini etkileyici manzaralarla karşılayacak bir destinasyon. Keloş Tepe'nin eteklerinde ve çevresinde çeşitli bitki türleri grownüyor. Bu bölgede yer alan bitki türleri, mevsimsel değişimlere göre renklenerek ziyaretçilere görsel bir şölen sunuyor. Keloş Tepe'nin ziyaretçileri, bu doğal güzelliğin tadını çıkarırken aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Keloş Tepe, ziyaretçilerine bölgeyi keşfetme fırsatı sunuyor. Bu tepe, Hat
 ## İlginç Bilgiler
 
 - Keloş Tepe, 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer.
+
 - Keloş Tepe, zengin bir flora ve fauna ile ziyaretçilerini karşılıyor.
 - Bu tepe, Hatay ilinin önemli bir bölümünü oluşturan Akdeniz Bölgesi'nin coğrafi yapısını da yansıtıyor.
 - Keloş Tepe, coğrafi açıdan bakıldığında, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor.

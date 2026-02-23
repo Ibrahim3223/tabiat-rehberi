@@ -28,7 +28,7 @@ wikidata_id: "Q31386115"
 
 # Karadağ Tepe (İzmir)
 
-İzmir'in merkezinde yer alan Karadağ Tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Karadağ Tepe, aynı zamanda şehrin amik manzarasını seyretmek için mükemmel bir gözlem noktası. Burada, şehrin tarihi geçmişi ve modern yüzünü bir arada görebilirsiniz. Karadağ Tepe, hem doğa severler hem de şehir hayatından kaçmak isteyenler için bir sığınak.
+ Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Karadağ Tepe, aynı zamanda şehrin amik manzarasını seyretmek için mükemmel bir gözlem noktası. Burada, şehrin tarihi geçmişi ve modern yüzünü bir arada görebilirsiniz. Karadağ Tepe, hem doğa severler hem de şehir hayatından kaçmak isteyenler için bir sığınak.
 
 ## Tarihçe
 

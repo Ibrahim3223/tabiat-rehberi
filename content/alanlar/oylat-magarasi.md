@@ -50,7 +50,7 @@ Doğal çevreye bakıldığında, Oylat Mağarası'nın komşu alanlar ve su kay
 
 ## Flora ve Fauna
 
-Oylat Mağarası'nın çevresi, step bitki örtüsünün karakteristik özelliklerini taşır. İlkbaharın gelmesiyle birlikte, bozkırın çiçeklerle bezendiği görülür. Bu mevsimde, kuraklığa adapte olmuş bitkilerin renkli çiçekleri, mağaranın girişini süsler. 
+Oylat Mağarası'nın çevresi, step bitki örtüsünün karakteristik özelliklerini taşır. İlkbaharın gelmesiyle birlikte, bozkırın çiçeklerle bezendiği görülür. Bu mevsimde, kuraklığa adapte olmuş bitkilerin renkli çiçekleri, mağaranın girişini süsler.
 
 Yaban hayatı, mağaranın yakınında bulunan orman ekosisteminde çeşitlilik gösterir. Ağaç çeşitliliği, orman memelilerinin yaşamını destekler. Mevsimsel göçler sırasında, çeşitli kuş türleri bu alanı ziyaret eder. Sürüngenler, mağaranın kuytu köşelerinde yaşamlarını sürdürür.
 

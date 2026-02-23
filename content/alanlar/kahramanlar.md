@@ -23,7 +23,7 @@ wikidata_id: "Q108228600"
 
 # KAHRAMANLAR
 
-KAHRAMANLAR milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alanda, çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parkın hikayesi, tarihi geçmişi ve coğrafi konumu, ziyaretçilerini etkileyici bir deneyime davet ediyor. 70 yıllık bir geçmişe sahip olan park, yüzyıllar boyunca insanların doğayla iç içe yaşadığının kanıtı.
+ Bu alanda, çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parkın hikayesi, tarihi geçmişi ve coğrafi konumu, ziyaretçilerini etkileyici bir deneyime davet ediyor. 70 yıllık bir geçmişe sahip olan park, yüzyıllar boyunca insanların doğayla iç içe yaşadığının kanıtı.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728316"
 
 # Ankara Frig Tümülüsü 10, Beştepe
 
-Ankara Frig Tümülüsü 10, Beştepe, İç Anadolu Bölgesi'nin kalbinde yer alan bir tarihî hazine. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin derinliklerine götürmeye hazır. Frig Tümülüsünün mistik atmosferi, ziyaretçilere unutulmaz bir deneyim sunuyor. Ankara'nın merkezinde, Yenimahalle'de bulunan bu tarihi mekan, kökenleri M.Ö. dönemlerine uzanan bir geçmişe sahip.
+Ankara Frig Tümülüsü 10, Beştepe, İç Anadolu Bölgesi'nin kalbinde yer alan bir tarihî hazine. Frig Tümülüsünün mistik atmosferi, ziyaretçilere unutulmaz bir deneyim sunuyor. Ankara'nın merkezinde, Yenimahalle'de bulunan bu tarihi mekan, kökenleri M.Ö. dönemlerine uzanan bir geçmişe sahip.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 10, Beştepe, tarihin sayfalarında gizlenen bir hazine
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 10, Beştepe, coğrafyası ile de dikkat çekiyor. İç Anadolu Bölgesi'nin karakteristik step iklimine sahip bu bölge, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı geçiyor. Tümülüs, bu coğrafyanın içinde, tarihi bir atmosfer sunuyor. Çevresinde, Ankara'nın modern yüzü ile histórikin birleştiği bir manzara bulunuyor. Ziyaretçiler, tümülüsün etrafında, modern Ankara'nın yaşamını da gözlemleyebilirler. Coğrafyası, flora ve faunası ile ziyaretçilere benzersiz bir deneyim sunuyor.
+Ankara Frig Tümülüsü 10, Beştepe, coğrafyası ile de dikkat çekiyor. İç Anadolu Bölgesi'nin karakteristik step iklimine sahip bu bölge, yazları sıcak ve kurak, kışları soğuk ve kar yağışlı geçiyor. Tümülüs, bu coğrafyanın içinde, tarihi bir atmosfer sunuyor. Çevresinde, Ankara'nın modern yüzü ile tarihi birleştiği bir manzara bulunuyor. Ziyaretçiler, tümülüsün etrafında, modern Ankara'nın yaşamını da gözlemleyebilirler. Coğrafyası, flora ve faunası ile ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ankara Frig Tümülüsü 10, Beştepe'yi ziyaret etmek, tarihe bir yolculuk yapm
 ## İlginç Bilgiler
 
 - Ankara Frig Tümülüsü 10, Beştepe, M.Ö. dönemlerine uzanan bir tarihe sahip.
-- Tümülüs, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - İç Anadolu Bölgesi'nin step iklimine sahip.
 - Ziyaretçilere, modern Ankara'nın yaşamı da gözlemleme fırsatı sunuyor.
 - İlkbahar ve sonbahar, ziyaret için en ideal mevsimler.

@@ -48,11 +48,11 @@ Mevsimsel değişiklikler, İnek Mağarası'nın iklim karakterini şekillendiri
 
 ## Flora ve Fauna
 
-İnek Mağarası jeoparkının yüksek dağ ekolojisi, alpin çayırlar ve endemik türlerle dolu bir bölge. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+İnek Mağarası jeoparkının yüksek dağ ekolojisi, alpin çayırlar ve endemik türlerle dolu bir bölge. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne bakıldığında, ilkbaharın gelmesiyle birlikte çayırlar rengarenk çiçeklerle donanır. Sonbaharda ise ağustos çiçekleri ve various bitkileri göze çarpar. Orman ekosisteminde çeşitli ağaç türleri bulunur.
 
-Yaban hayatı açısından zengin bir bölge olan İnek Mağarası, birçok memeli ve kuş türüne ev sahipliği yapar. Bu bölgede living alanlarıyla birlikte memeliler ve kuşlar bir arada yaşar. Ekolojik ilişkilere bakıldığında, bu canlıların birbirlerine bağımlı olduğu görülür. 
+Yaban hayatı açısından zengin bir bölge olan İnek Mağarası, birçok memeli ve kuş türüne ev sahipliği yapar. Bu bölgede living alanlarıyla birlikte memeliler ve kuşlar bir arada yaşar. Ekolojik ilişkilere bakıldığında, bu canlıların birbirlerine bağımlı olduğu görülür.
 
 Bu jeoparkın ekolojik değeri oldukça yüksektir. Bu nedenle koruma altına alınmıştır. Bu bölgeyi ziyaret edenler, yüksek dağ ekolojisinin güzelliğini ve canlı çeşitliliğini yakından görebilir.
 

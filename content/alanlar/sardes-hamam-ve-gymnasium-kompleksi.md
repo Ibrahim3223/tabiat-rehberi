@@ -1,7 +1,7 @@
 ---
 title: "Sardes Hamam ve Gymnasium Kompleksi"
 date: "2026-01-10T04:27:17.342Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738764"
 
 # Sardes Hamam ve Gymnasium Kompleksi
 
-Sardes Hamam ve Gymnasium Kompleksi, Ege Bölgesi'nin önemli tarihi merkezlerinden biri olan Salihli/Manisa'da yer almaktadır. Bu kompleks, antik dönemden kalan önemli bir yapıdır ve tarihi değerleri ile dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana yayılmıştır. Sardes Hamam ve Gymnasium Kompleksi, ziyaretçilerine antik dönemin yaşam tarzını ve kültürel özelliklerini keşfetme fırsatı sunmaktadır. Bu kompleks, tarihi ve kültürel açıdan büyük önem taşımaktadır.
+Sardes Hamam ve Gymnasium Kompleksi, Ege Bölgesi'nin önemli tarihi merkezlerinden biri olan Salihli/Manisa'da yer almaktadır. Bu kompleks, antik dönemden kalan önemli bir yapıdır ve tarihi değerleri ile dikkat çekmektedir. Sardes Hamam ve Gymnasium Kompleksi, ziyaretçilerine antik dönemin yaşam tarzını ve kültürel özelliklerini keşfetme fırsatı sunmaktadır. Bu kompleks, tarihi ve kültürel açıdan büyük önem taşımaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sardes Hamam ve Gymnasium Kompleksi, tarihi geçmişi ile dikkat çekmektedir. B
 
 ## Coğrafya
 
-Sardes Hamam ve Gymnasium Kompleksi, Ege Bölgesi'nin coğrafi açıdan önemli bir bölgesinde yer almaktadır. Bu kompleks, Salihli/Manisa'da bulunmakta olup, çevresi tarihi ve kültürel açıdan zengin bir bölgedir. Kompleks, 140 hektarlık bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu kompleks, antik dönemden kalan önemli bir yapıdır ve tarihi değerleri ile dikkat çekmektedir. Sardes Hamam ve Gymnasium Kompleksi, ziyaretçilerine antik dönemin yaşam tarzını ve kültürel özelliklerini keşfetme fırsatı sunmaktadır. Bu kompleks, tarihi ve kültürel açıdan büyük önem taşımaktadır. Coğrafi konumu, Sardes Hamam ve Gymnasium Kompleksi'ni önemli bir tarihi merkez haline getirmiştir.
+Sardes Hamam ve Gymnasium Kompleksi, Ege Bölgesi'nin coğrafi açıdan önemli bir bölgesinde yer almaktadır. Bu kompleks, Salihli/Manisa'da bulunmakta olup, çevresi tarihi ve kültürel açıdan zengin bir bölgedir. Bu kompleks, antik dönemden kalan önemli bir yapıdır ve tarihi değerleri ile dikkat çekmektedir. Sardes Hamam ve Gymnasium Kompleksi, ziyaretçilerine antik dönemin yaşam tarzını ve kültürel özelliklerini keşfetme fırsatı sunmaktadır. Bu kompleks, tarihi ve kültürel açıdan büyük önem taşımaktadır. Coğrafi konumu, Sardes Hamam ve Gymnasium Kompleksi'ni önemli bir tarihi merkez haline getirmiştir.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Sardes Hamam ve Gymnasium Kompleksi, ziyaretçilerine tarihi ve kültürel açı
 - Sardes Hamam ve Gymnasium Kompleksi, antik dönemden kalan önemli bir yapıdır.
 - Bu kompleks, Lidya Krallığı döneminde inşa edilmiştir.
 - Sardes Hamam ve Gymnasium Kompleksi, 140 hektarlık bir alana yayılmıştır.
-- Bu kompleks, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır.
+
 - Sardes Hamam ve Gymnasium Kompleksi, tarihi ve kültürel açıdan büyük önem taşımaktadır.

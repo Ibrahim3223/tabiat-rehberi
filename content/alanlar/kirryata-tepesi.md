@@ -28,7 +28,7 @@ wikidata_id: "Q31554997"
 
 # Kırryata Tepesi
 
-Kırryata Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan ve bölgenin doğal güzelliklerini gözler önüne seren bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreyi kuşatan dağlarla birlikte bir bütünü oluşturur. Bu tepe, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin eteklerinde akan dereler ve çevredeki dağlar, manzaranın güzelliğini daha da artırıyor.
+Kırryata Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan ve bölgenin doğal güzelliklerini gözler önüne seren bir alandır. Bu tepe, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin eteklerinde akan dereler ve çevredeki dağlar, manzaranın güzelliğini daha da artırıyor.
 
 ## Tarihçe
 

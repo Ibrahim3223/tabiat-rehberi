@@ -51,7 +51,7 @@ Doğal bir oluşum olan Ziyaret Tepesi, bölgenin jeolojik yapısını yansıtan
 
 Ziyaret Tepesi, Van'ın güneyinde yer alan bir dağ ekosistemi olup, yüksek dağ ekolojisi ve alpin çayırların hakim olduğu bir bölge olarak dikkat çekmektedir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ilkbahar mevsiminde çiçeklerin renk cümbüşü içinde açtığını görebilirsiniz. Alpin flora, bölgeyi renklendirirken, endemik türler de bu bölgenin zenginliğini göstermektedir. 
+Bitki Örtüsü bölümünde, ilkbahar mevsiminde çiçeklerin renk cümbüşü içinde açtığını görebilirsiniz. Alpin flora, bölgeyi renklendirirken, endemik türler de bu bölgenin zenginliğini göstermektedir.
 
 Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler gibi çeşitli canlılar yaşamaktadır. Dağ keçileri, kartallar ve yırtıcı kuşlar gibi türler, bu bölgenin yükseklik zonlarında yaşamaktadır.
 

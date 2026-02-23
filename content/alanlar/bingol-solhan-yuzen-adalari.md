@@ -29,7 +29,7 @@ wikidata_id: "Q20472614"
 
 # Bingöl (Solhan) Yüzen Adaları
 
-Bingöl'ün Solhan ilçesinde, 140 hektarlık bir alanda yer alan Yüzen Adalar, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliktir. Bu eşsiz doğa harikası, İç Anadolu Bölgesi'nin en önemli turizm noktalarından biri olarak kabul edilir. Yüzen Adalar, ziyaretçilerini doğanın içesinde bir maceraya davet ediyor. Burada, insan eli değmemiş bir doğa güzelliği ile karşılaşma mümkün. Yüzen Adalar, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başaran bir destinasyon.
+ Bu eşsiz doğa harikası, İç Anadolu Bölgesi'nin en önemli turizm noktalarından biri olarak kabul edilir. Yüzen Adalar, ziyaretçilerini doğanın içesinde bir maceraya davet ediyor. Burada, insan eli değmemiş bir doğa güzelliği ile karşılaşma mümkün. Yüzen Adalar, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başaran bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bingöl (Solhan) Yüzen Adaları'nın tarihi geçmişi, yüzyıllar boyunca şek
 
 ## Coğrafya
 
-Bingöl (Solhan) Yüzen Adaları, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. 140 hektarlık bir alanı kaplayan Yüzen Adalar, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik sunuyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. Yüzen Adalar, doğu-batı yönünde uzanan bir vadi içerisinde yer alıyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Yüzen Adalar'ın coğrafi konumu, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Bölge, doğu ve batı yönünde uzanan dağlarla çevrili ve bu dağlar, Yüzen Adalar'ı bir doğa harikasına dönüştürüyor. Yüzen Adalar, ziyaretçilerine zengin bir coğrafi yapı sunuyor.
+Bingöl (Solhan) Yüzen Adaları, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. Yüzen Adalar, doğu-batı yönünde uzanan bir vadi içerisinde yer alıyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Yüzen Adalar'ın coğrafi konumu, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Bölge, doğu ve batı yönünde uzanan dağlarla çevrili ve bu dağlar, Yüzen Adalar'ı bir doğa harikasına dönüştürüyor. Yüzen Adalar, ziyaretçilerine zengin bir coğrafi yapı sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bingöl (Solhan) Yüzen Adaları, ziyaretçilerine doğanın güzelliklerini ke�
 ## İlginç Bilgiler
 
 - Yüzen Adalar, 140 hektarlık bir alanı kaplıyor.
-- Yüzen Adalar, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Yüzen Adalar, İç Anadolu Bölgesi'nin önemli turizm noktalarından biri.
 - Yüzen Adalar, doğa yürüyüşleri ve kamp için ideal bir destinasyon.
 - Yüzen Adalar, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikası.

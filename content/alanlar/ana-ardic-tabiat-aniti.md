@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Ana Ardıç Tabiat Anıtı
 
-Ana Ardıç Tabiat Anıtı, İç Anadolu Bölgesi'nin sakin ve gizli bir köşesinde yer alan bir doğa harikasıdır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, çeşitli bitki türleri ve hayvanlar barınmaktadır. Bu tabiat anıtı, doğa severlerin ve Photographerların gözdesi haline gelmiştir. Yerliler ve ziyaretçiler tarafından sevilen bu alan, hem doğayı korumak hem de insanlara huzur veren bir mekan olarak bilinir. Ana Ardıç Tabiat Anıtı, ziyaretçilerini bekleyen bir doğa cenneti ve keşfedilmeye hazır bir world.
+Ana Ardıç Tabiat Anıtı, İç Anadolu Bölgesi'nin sakin ve gizli bir köşesinde yer alan bir doğa harikasıdır. Bu tabiat anıtı, doğa severlerin ve Photographerların gözdesi haline gelmiştir. Yerliler ve ziyaretçiler tarafından sevilen bu alan, hem doğayı korumak hem de insanlara huzur veren bir mekan olarak bilinir. Ana Ardıç Tabiat Anıtı, ziyaretçilerini bekleyen bir doğa cenneti ve keşfedilmeye hazır bir world.
 
 ## Tarihçe
 

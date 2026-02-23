@@ -29,7 +29,7 @@ wikidata_id: "Q31386546"
 
 # Davut Paşa
 
-Davut Paşa, Hatay ilinin sınırları içerisinde yer alan bir tepe olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Hatay'ın coğrafi konumu, Akdeniz Bölgesi'nin zengin flora ve faunasına ev sahipliği yapar. Davut Paşa, bu bölgenin önemli noktalarından biri olarak ziyaretçilerini bekliyor. Tepe, doğal güzelliği ve tarihi geçmişiyle birlikte, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Davut Paşa, Hatay ilinin sınırları içerisinde yer alan bir tepe olarak dikkat çekiyor. Hatay'ın coğrafi konumu, Akdeniz Bölgesi'nin zengin flora ve faunasına ev sahipliği yapar. Davut Paşa, bu bölgenin önemli noktalarından biri olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Davut Paşa'nın tarihi geçmişi, Hatay'ın zengin tarihini yansıtır. Bu böl
 
 ## Coğrafya
 
-Davut Paşa, coğrafi konumu itibariyle Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, zengin flora ve faunasına ev sahipliği yapar ve ziyaretçilerine doğal güzellikleri sunar. Tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgenin önemli bir parçası olarak dikkat çekiyor. Davut Paşa'nın coğrafi konumu, ziyaretçilerine bölgenin güzelliklerini keşfetme fırsatı sunar. Bu bölge, coğrafi olarak çeşitlilik gösteren bir bölge olarak bilinir ve ziyaretçilerine farklı deneyim olanakları sunar. Davut Paşa, bu bölgenin güzelliklerini ziyaretçilerine sunar ve onları doğal bir ortamda ağırlar.
+Davut Paşa, coğrafi konumu itibariyle Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, zengin flora ve faunasına ev sahipliği yapar ve ziyaretçilerine doğal güzellikleri sunar. Davut Paşa'nın coğrafi konumu, ziyaretçilerine bölgenin güzelliklerini keşfetme fırsatı sunar. Bu bölge, coğrafi olarak çeşitlilik gösteren bir bölge olarak bilinir ve ziyaretçilerine farklı deneyim olanakları sunar. Davut Paşa, bu bölgenin güzelliklerini ziyaretçilerine sunar ve onları doğal bir ortamda ağırlar.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Davut Paşa, flora ve fauna açısından zengin bir bölge olarak dikkat çekiyo
 
 ## Ziyaret Bilgileri
 
-Davut Paşa, ziyaretçilerine farklı deneyim olanakları sunar. Bu bölge, tarihi ve doğal güzellikleriyle birlikte ziyaretçilerini bekliyor. Davut Paşa'ya ulaşım, Hatay ilinin merkezi üzerinden sağlanabilir. Tepe, ziyaretçilerine rehberli turlar ve geziler sunar ve onları bu bölgeye özgü güzelliklerle tanıştırır. Davut Paşa, ziyaretçilerine unutulmaz bir deneyim vaat eder ve onları bu bölgeye çekmeye devam eder.
+Davut Paşa, ziyaretçilerine farklı deneyim olanakları sunar. Bu bölge, tarihi ve doğal güzellikleriyle birlikte ziyaretçilerini bekliyor. Davut Paşa'ya ulaşım, Hatay ilinin merkezi üzerinden sağlanabilir. Tepe, ziyaretçilerine rehberli turlar ve geziler sunar ve onları bu bölgeye özgü güzelliklerle tanıştırır.
 
 ## İlginç Bilgiler
 
 - Davut Paşa, 140 hektarlık bir alana sahiptir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Davut Paşa, Hatay ilinin sınırları içerisindedir.
 - Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Davut Paşa, flora ve fauna açısından zengindir.

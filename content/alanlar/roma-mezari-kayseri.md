@@ -30,7 +30,7 @@ wikidata_id: "Q134728144"
 
 # Roma Mezarı, Kayseri
 
-Kayseri'nin Kocasinan ilçesinde bulunan Roma Mezarı, şehrin tarihi geçmişini yansıtan önemli bir mekândır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Roma Mezarı, Kayseri'nin tarihi zenginliğini ziyaretçilerine sunar. Şehir merkezine yakın konumuyla kolayca ulaşılabilen bu mekan, tarihi değerleri öğrenmek isteyenler için ideal bir destinasyondur. Roma Mezarı'nın çevresinde çeşitli tarihi yapılar ve anıtlar da bulunmaktadır.
+Kayseri'nin Kocasinan ilçesinde bulunan Roma Mezarı, şehrin tarihi geçmişini yansıtan önemli bir mekândır. Roma Mezarı, Kayseri'nin tarihi zenginliğini ziyaretçilerine sunar. Şehir merkezine yakın konumuyla kolayca ulaşılabilen bu mekan, tarihi değerleri öğrenmek isteyenler için ideal bir destinasyondur. Roma Mezarı'nın çevresinde çeşitli tarihi yapılar ve anıtlar da bulunmaktadır.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Roma Mezarı, Kayseri'nin Kocasinan ilçesinde yer alır ve şehrin merkezi böl
 
 ## Flora ve Fauna
 
-Roma Mezarı, Kayseri'nin Kocasinan ilçesinde yer alan bir tarihi mezarlıktır. Bu alan, şehrin flora ve faunasını yansıtan bir bölgede bulunmaktadır. Roma Mezarı'nın etrafında çeşitli bitkiler ve ağaçlar yer alır. Bu mezarlık, şehrin ekolojik dengesini korumak açısından önemi taşır. Roma Mezarı, ziyaretçilerine şehrin flora ve faunasını deneyimleme fırsatı sunar. Bu mekan, Kayseri'nin ekolojik zenginliklerini korumak için önemli bir noktadadır.
+Roma Mezarı, Kayseri'nin Kocasinan ilçesinde yer alan bir tarihi mezarlıktır. Bu alan, şehrin flora ve faunasını yansıtan bir bölgede bulunmaktadır. Roma Mezarı'nın etrafında çeşitli bitkiler ve ağaçlar yer alır. Roma Mezarı, ziyaretçilerine şehrin flora ve faunasını deneyimleme fırsatı sunar. Bu mekan, Kayseri'nin ekolojik zenginliklerini korumak için önemli bir noktadadır.
 
 ## Ziyaret Bilgileri
 
@@ -53,5 +53,5 @@ Roma Mezarı, Kayseri'nin Kocasinan ilçesinde yer alan bir tarihi mezarlıktır
 - Roma Mezarı, Kayseri'nin en önemli tarihi mekanlarından biridir.
 - Bu mezarlık, Roma dönemine ait tarihi kalıntıları barındırmaktadır.
 - Roma Mezarı, şehrin tarihi geçmişini yansıtan önemli bir kültürel mirastır.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Roma Mezarı, Kayseri'nin turizm değerlerini artıran önemli bir destinasyondur.

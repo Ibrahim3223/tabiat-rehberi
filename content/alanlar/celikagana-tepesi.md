@@ -28,11 +28,11 @@ wikidata_id: "Q34828893"
 
 # Çelikağana Tepesi
 
-Çelikağana Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir doğal alandır. Bu tepe, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir görüş açısı sunar. Çelikağana Tepesi, Siirt'in tarihi ve kültürel mirasının bir parçası olarak da görülür. Bu tepenin etrafındaki manzara, bölgenin doğal güzelliğini sergiler ve ziyaretçileri etkiler.
+Çelikağana Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir doğal alandır. Bu tepe, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Çelikağana Tepesi, Siirt'in tarihi ve kültürel mirasının bir parçası olarak da görülür. Bu tepenin etrafındaki manzara, bölgenin doğal güzelliğini sergiler ve ziyaretçileri etkiler.
 
 ## Tarihçe
 
-Çelikağana Tepesi'nin tarihi geçmişi, Siirt'in tarihi ile iç içe geçmiştir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle zengin bir tarihi mirasa sahiptir. Tepenin kendisi, doğal bir oluşum olarak ortaya çıkmış ve zaman içinde bölgenin coğrafi yapısını şekillendirmiştir. Çelikağana Tepesi, Siirt'in önemli bir simgesi haline gelmiştir ve ziyaretçiler, bu tepeyi ziyaret ederek bölgenin tarihini ve kültürünü daha iyi anlamaktadır. Tepenin etrafındaki köyler ve kasabalar, bu régionun tarihini ve geleneklerini yansıtan önemli merkezlerdir.
+Çelikağana Tepesi'nin tarihi geçmişi, Siirt'in tarihi ile iç içe geçmiştir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle zengin bir tarihi mirasa sahiptir. Tepenin kendisi, doğal bir oluşum olarak ortaya çıkmış ve zaman içinde bölgenin coğrafi yapısını şekillendirmiştir. Çelikağana Tepesi, Siirt'in önemli bir simgesi haline gelmiştir ve ziyaretçiler, bu tepeyi ziyaret ederek bölgenin tarihini ve kültürünü daha iyi anlamaktadır. Tepenin etrafındaki köyler ve kasabalar, bu bölgenin tarihini ve geleneklerini yansıtan önemli merkezlerdir.
 
 ## Coğrafya
 

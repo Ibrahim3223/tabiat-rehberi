@@ -28,7 +28,7 @@ wikidata_id: "Q32129416"
 
 # Arkaç Tepesi
 
-Arkaç Tepesi, Karadeniz Bölgesi'nin Bayburt ilinde yer alan ve bölgenin gizli güzelliklerinden biri olarak bilinen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzelliği ve tarihi geçmişi ile dikkat çeken bu tepe, hem doğa severlerin hem de tarihiSevenlerin ilgisini çekiyor. Arkaç Tepesi, ziyaretçilerine geniş bir manzara sunuyor ve bölgenin diğer önemli noktalarına da yakınlığı ile dikkat çekiyor.
+Arkaç Tepesi, Karadeniz Bölgesi'nin Bayburt ilinde yer alan ve bölgenin gizli güzelliklerinden biri olarak bilinen bir tepe. Doğal güzelliği ve tarihi geçmişi ile dikkat çeken bu tepe, hem doğa severlerin hem de tarihiSevenlerin ilgisini çekiyor. Arkaç Tepesi, ziyaretçilerine geniş bir manzara sunuyor ve bölgenin diğer önemli noktalarına da yakınlığı ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -52,4 +52,4 @@ Arkaç Tepesi'ni ziyaret etmek, doğa severlerin ve tarihiSevenlerin ilgisini ç
 - Bu tepe, Karadeniz Bölgesi'nin Bayburt ilinde yer alıyor.
 - Arkaç Tepesi, yüzyıllar boyunca çeşitli uygarlıkların etkisi altında kalmış.
 - Bu tepe, bölgenin coğrafi yapısını oluşturan dağlar ve vadiler arasında yer alıyor.
-- Arkaç Tepesi, yaklaşık 200 futbol sahası büyüklüğünde.
+

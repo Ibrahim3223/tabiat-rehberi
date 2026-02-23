@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini barındır
 
 ## Tarihçe
 
-Kilis bölgesinde yer alan Bağıta Dağı, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, Hitit, Roma ve Osmanlı gibi çeşitli uygarlıkların izlerini taşımaktadır. Türkiye'nin güneydoğusunda konumlanan Kilis, tarihi ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir merkez olarak kabul edilir.
+Kilis bölgesinde yer alan Bağıta Dağı, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, Hitit, Roma ve Osmanlı gibi çeşitli uygarlıkların izlerini taşımaktadır. Türkiye'nin güneydoğusunda konumlanan Kilis, tarihi ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir merkez olarak kabul edilir.
 
 Doğal güzellikleri ve stratejik konumuyla, Bağıta Dağı gibi alanlar tarihin çeşitli dönemlerinde insanların yerleşim, yaylacılık ve hayvancılık faaliyetleri için tercih edilen yerler olmuştur. Bu tür doğal alanlar, Türkiye'nin coğrafi çeşitliliğiçerisinde önemli bir yer tutmaktadır. İnsanların bu alanlarla ilişkisi, yalnızca doğanın güzelliğini izlemekle sınırlı olmayıp, ekonomi, kültür ve yaşam tarzı açısından da derin bir geçmişe sahiptir.
 

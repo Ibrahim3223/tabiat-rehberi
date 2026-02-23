@@ -30,7 +30,7 @@ wikidata_id: "Q31389275"
 
 # Sit Tepe
 
-Sit Tepe, İç Anadolu Bölgesi'nin göbeğinde yer alan 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş ve yeşil alanda, doğayla iç içe olmanın keyfini çıkarabilirsiniz. Sit Tepe, ziyaretçilerini geniş ve yeşil alanlarıyla karşılar. Burada, doğanın güzelliğini ve çeşitliliğini gözlemleyebilirsiniz. Sit Tepe, aynı zamanda coğrafi konumuyla dikkat çekiyor. İç Anadolu Bölgesi'nin merkezi bir noktasında yer alan Sit Tepe, bölgenin coğrafi özelliklerini yansıtıyor.
+ Bu geniş ve yeşil alanda, doğayla iç içe olmanın keyfini çıkarabilirsiniz. Sit Tepe, ziyaretçilerini geniş ve yeşil alanlarıyla karşılar. Burada, doğanın güzelliğini ve çeşitliliğini gözlemleyebilirsiniz. Sit Tepe, aynı zamanda coğrafi konumuyla dikkat çekiyor. İç Anadolu Bölgesi'nin merkezi bir noktasında yer alan Sit Tepe, bölgenin coğrafi özelliklerini yansıtıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sit Tepe'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tarihine paralel olarak
 
 ## Coğrafya
 
-Sit Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda, doğanın güzelliğini ve çeşitliliğini gözlemleyebilirsiniz. Sit Tepe, coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alır. Bu bölge, coğrafi olarak, Türkiye'nin orta kesiminde yer alır ve Sit Tepe, bu bölgenin bir parçasıdır. Sit Tepe, aynı zamanda, iklimi ve çevre koşullarıyla da dikkat çekiyor. İç Anadolu Bölgesi'nin karakteristik iklim özellikleri, Sit Tepe'de gözlemlenebilir. Bu bölge, genellikle karasal iklim özellikleri gösterir ve Sit Tepe, bu iklim koşullarına uygun bir şekilde şekillenmiştir.
+Sit Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölgedir. Sit Tepe, coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alır. Bu bölge, coğrafi olarak, Türkiye'nin orta kesiminde yer alır ve Sit Tepe, bu bölgenin bir parçasıdır. Sit Tepe, aynı zamanda, iklimi ve çevre koşullarıyla da dikkat çekiyor. İç Anadolu Bölgesi'nin karakteristik iklim özellikleri, Sit Tepe'de gözlemlenebilir. Bu bölge, genellikle karasal iklim özellikleri gösterir ve Sit Tepe, bu iklim koşullarına uygun bir şekilde şekillenmiştir.
 
 ## Flora ve Fauna
 

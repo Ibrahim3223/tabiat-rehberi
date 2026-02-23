@@ -22,7 +22,7 @@ wikidata_id: "Q108229014"
 
 # Yeşilırmak Deltası Sulak Alanı
 
-Yeşilırmak Deltası Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekmektedir. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu sulak alan, coğrafi konumu ve doğal özellikleri ile ziyaretçilerini bekliyor. Yeşilırmak Deltası Sulak Alanı, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Bu sulak alan, aynı zamanda birçok canlı türünün yaşam alanı olarak bilinmektedir.
+Yeşilırmak Deltası Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekmektedir. Yeşilırmak Deltası Sulak Alanı, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Bu sulak alan, aynı zamanda birçok canlı türünün yaşam alanı olarak bilinmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Yeşilırmak Deltası Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca ç
 
 ## Coğrafya
 
-Yeşilırmak Deltası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çekmektedir. Bu sulak alan, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olup, coğrafi konumu nedeniyle önemli bir sulak alan olarak bilinmektedir. Yeşilırmak Deltası Sulak Alanı, aynı zamanda zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Bu sulak alan, birçok canlı türünün yaşam alanı olarak bilinmektedir. Yeşilırmak Deltası Sulak Alanı'nın coğrafi özellikleri, ziyaretçilerine zengin bir doğa deneyimi sunmaktadır. Bu sulak alan, aynı zamanda coğrafi konumu nedeniyle önemli bir iklim bölgesinde yer almaktadır.
+Yeşilırmak Deltası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çekmektedir. Yeşilırmak Deltası Sulak Alanı, aynı zamanda zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Bu sulak alan, birçok canlı türünün yaşam alanı olarak bilinmektedir. Yeşilırmak Deltası Sulak Alanı'nın coğrafi özellikleri, ziyaretçilerine zengin bir doğa deneyimi sunmaktadır. Bu sulak alan, aynı zamanda coğrafi konumu nedeniyle önemli bir iklim bölgesinde yer almaktadır.
 
 ## Flora ve Fauna
 

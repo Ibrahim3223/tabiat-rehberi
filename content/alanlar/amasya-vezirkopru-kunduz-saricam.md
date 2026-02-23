@@ -22,7 +22,7 @@ wikidata_id: "Q108227547"
 
 # Amasya-Vezirkopru-Kunduz Saricam
 
-Amasya-Vezirkopru-Kunduz Saricam milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biridir. Bu bölge, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Doğal güzellikleri ve zengin fauna ile ziyaretçilerini bekleyen bu milli park, Amasya'nın önemli turizm merkezlerinden biridir. Milli parkın içinde çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, doğa severlerin ve turistlerin uğrak noktalarından biri haline gelmiştir.
+Amasya-Vezirkopru-Kunduz Saricam milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biridir. Doğal güzellikleri ve zengin fauna ile ziyaretçilerini bekleyen bu milli park, Amasya'nın önemli turizm merkezlerinden biridir. Milli parkın içinde çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, doğa severlerin ve turistlerin uğrak noktalarından biri haline gelmiştir.
 
 ## Tarihçe
 

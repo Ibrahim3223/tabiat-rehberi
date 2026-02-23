@@ -1,7 +1,7 @@
 ---
 title: "Nizameddin Yağıbasan Türbesi"
 date: "2026-01-10T05:55:43.070Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390460"
 
 # Nizameddin Yağıbasan Türbesi
 
-Nizameddin Yağıbasan Türbesi, Tokat'ın Niksar ilçesinde yer alan tarihi bir türbe ve plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en önemli doğal ve tarihi alanlarından biridir. Bu bölge, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmış ve tarihi geçmişi ile dikkat çekmektedir. Türbe ve plaj, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılamaktadır.
+Nizameddin Yağıbasan Türbesi, Tokat'ın Niksar ilçesinde yer alan tarihi bir türbe ve plajdır. Bu bölge, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmış ve tarihi geçmişi ile dikkat çekmektedir. Türbe ve plaj, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılamaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Nizameddin Yağıbasan Türbesi'nin tarihi geçmişi, yüzyıllar öncesine daya
 
 ## Coğrafya
 
-Nizameddin Yağıbasan Türbesi, Tokat'ın Niksar ilçesinde yer alan bir tarihi türbe ve plajdır. Bu bölge, Karadeniz Bölgesi'nin en önemli doğal ve tarihi alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz'in en güzel plajlarından biridir. Türbe ve plaj, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılamaktadır. Bölge, zengin flora ve fauna ile dikkat çekmekte ve ziyaretçilerine doğa ile iç içe bir deneyim sunmaktadır. İklim, Karadeniz'in ılıman iklimi ile karakterizedir ve ziyaretçilerine four mevsim boyunca güzel bir deneyim sunmaktadır.
+Nizameddin Yağıbasan Türbesi, Tokat'ın Niksar ilçesinde yer alan bir tarihi türbe ve plajdır. Bu bölge, Karadeniz Bölgesi'nin en önemli doğal ve tarihi alanlarından biridir. Türbe ve plaj, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılamaktadır. Bölge, zengin flora ve fauna ile dikkat çekmekte ve ziyaretçilerine doğa ile iç içe bir deneyim sunmaktadır. İklim, Karadeniz'in ılıman iklimi ile karakterizedir ve ziyaretçilerine four mevsim boyunca güzel bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Nizameddin Yağıbasan Türbesi'ni ziyaret etmek, tarihi ve doğal güzellikleri
 ## İlginç Bilgiler
 
 - Nizameddin Yağıbasan Türbesi, Tokat'ın Niksar ilçesinde yer alan bir tarihi türbe ve plajdır.
-- Bölge, 140 hektarlık bir yeşil alan ve yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Türbe, Nizameddin Yağıbasan'ın anısına inşa edilmiştir.
 - Bölge, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmış ve tarihi geçmişi ile dikkat çekmektedir.
 - Nizameddin Yağıbasan Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılamaktadır.

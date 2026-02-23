@@ -22,7 +22,7 @@ wikidata_id: "Q108228490"
 
 # Kahramanmaras-Baskonus-T.Goknari
 
-Kahramanmaras-Baskonus-T.Goknari, İç Anadolu Bölgesi'nin güzide yerlerinden biri olarak karşımıza çıkıyor. Bu bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için gerçek bir cennet olarak tanımlanabilir. İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Doğal güzelliği ve yaban hayatı ile ziyaretçilerini cezbeden Kahramanmaras-Baskonus-T.Goknari, aynı zamanda bir milli park olarak korumaya alınmıştır.
+Kahramanmaras-Baskonus-T.Goknari, İç Anadolu Bölgesi'nin güzide yerlerinden biri olarak karşımıza çıkıyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Doğal güzelliği ve yaban hayatı ile ziyaretçilerini cezbeden Kahramanmaras-Baskonus-T.Goknari, aynı zamanda bir milli park olarak korumaya alınmıştır.
 
 ## Tarihçe
 

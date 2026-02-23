@@ -29,7 +29,7 @@ wikidata_id: "Q134728259"
 
 # Mangal Dağı Şehitliği
 
-Mangal Dağı Şehitliği, Ankara'nın Haymana ilçesinde yer alan bir doğa ve tarih alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehitlik olarak bilinen bölümü ile dikkat çekmektedir. Bu bölge, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbeden bir destinasyondur. Mangal Dağı Şehitliği, özellikle doğa severler ve tarih meraklıları için önemli bir gezi noktası olarak karşımıza çıkmaktadır.
+Mangal Dağı Şehitliği, Ankara'nın Haymana ilçesinde yer alan bir doğa ve tarih alanıdır. Bu bölge, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbeden bir destinasyondur. Mangal Dağı Şehitliği, özellikle doğa severler ve tarih meraklıları için önemli bir gezi noktası olarak karşımıza çıkmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mangal Dağı Şehitliği'nin tarihi geçmişi, bölgenin stratejik konumu neden
 
 ## Coğrafya
 
-Mangal Dağı Şehitliği, Ankara'nın Haymana ilçesinde yer alan bir doğa ve tarih alanıdır. Bu bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğündedir. Mangal Dağı Şehitliği, özellikle şehitlik olarak bilinen bölümü ile dikkat çekmekte ve doğal güzelliği ile ziyaretçilerini cezbedmektedir. Bölgenin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Mangal Dağı Şehitliği, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile birlikte sunulmaktadır. Bu bölge, özellikle doğa severler ve tarih meraklıları için önemli bir gezi noktası olarak karşımıza çıkmaktadır. Mangal Dağı Şehitliği'nin coğrafyası, ziyaretçilerine çeşitli doğa güzellikleri ve tarihi yapılara ev sahipliği yapmaktadır.
+Mangal Dağı Şehitliği, Ankara'nın Haymana ilçesinde yer alan bir doğa ve tarih alanıdır. Mangal Dağı Şehitliği, özellikle şehitlik olarak bilinen bölümü ile dikkat çekmekte ve doğal güzelliği ile ziyaretçilerini cezbedmektedir. Bölgenin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Mangal Dağı Şehitliği, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile birlikte sunulmaktadır. Bu bölge, özellikle doğa severler ve tarih meraklıları için önemli bir gezi noktası olarak karşımıza çıkmaktadır. Mangal Dağı Şehitliği'nin coğrafyası, ziyaretçilerine çeşitli doğa güzellikleri ve tarihi yapılara ev sahipliği yapmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Mangal Dağı Şehitliği, ziyaretçilerine çeşitli gezme olanakları sunmakta
 ## İlginç Bilgiler
 
 - Mangal Dağı Şehitliği, 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Mangal Dağı Şehitliği, özellikle şehitlik olarak bilinen bölümü ile dikkat çekmektedir.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Mangal Dağı Şehitliği, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile birlikte sunulmaktadır.

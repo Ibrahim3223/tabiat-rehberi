@@ -51,7 +51,7 @@ Bölgenin ekosistem bağlantılarını düşünürsek, Boğazcık Adası, komşu
 
 Boğazcık Adası, Antalya'nın kıyı şeridinde yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapar. İlkbahar ayında, ada renkli çiçeklerle kaplanır ve kuraklığa dayanıklı türler gibi kestane ve zeytin ağaçları yeşillenir.
 
-Kıyı ekosisteminde, çeşitli deniz kuşları yuvalarını kurar. Bu kuşlar, ada etrafındaki sularda avlanarak beslenir ve ada ekosisteminin önemli bir parçasını oluşturur. Sürüngenler ve memeliler de adanın yaban hayatının bir parçası olarak yer alır. 
+Kıyı ekosisteminde, çeşitli deniz kuşları yuvalarını kurar. Bu kuşlar, ada etrafındaki sularda avlanarak beslenir ve ada ekosisteminin önemli bir parçasını oluşturur. Sürüngenler ve memeliler de adanın yaban hayatının bir parçası olarak yer alır.
 
 Boğazcık Adası, izole popülasyonlara ev sahipliği yaptığı için ekolojik olarak önemlidir. Bu ada, göç eden kuşlar için önemli bir durak noktasıdır ve sonbaharda binlerce kuş bu adayı ziyaret eder. Ada ekosisteminin korunması, bu canlıların yaşam alanlarını korumak için önemlidir.
 

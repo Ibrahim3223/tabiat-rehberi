@@ -1,7 +1,7 @@
 ---
 title: "Melikşah Köyü Taş Hamamı"
 date: "2026-01-09T22:12:47.107Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"

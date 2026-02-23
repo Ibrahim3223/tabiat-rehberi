@@ -32,9 +32,9 @@ Iğdır'ın dağlık bölgelerinde yer alan Zangağ Dağı, Türkiye'nin en uzak
 
 ## Tarihçe
 
-Iğdır bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yaşadığı önemli bir merkezi oluşturmuştur. Iğdır ve çevresinde Urartular, Medler, Persler, Romalılar ve Selçuklular gibi uygarlıkların izleri görülmektedir.
+Iğdır bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yaşadığı önemli bir merkezi oluşturmuştur. Iğdır ve çevresinde Urartular, Medler, Persler, Romalılar ve Selçuklular gibi uygarlıkların izleri görülmektedir.
 
-Doğal güzellikleri ve stratejik konumuyla, Iğdır bölgesi ticaret yollarının kesişme noktası olarak önemli bir rol oynamıştır. Zangağ Dağı gibi doğal alanlar, yüzyıllar boyunca insanların yaşamlarında önemli bir yer tutmuştur. Bu alanlar, yaylacılık ve hayvancılık faaliyetleri için elverişli koşullar sunmaktadır. Ayrıca, bölgenin coğrafi yapısı, históriki ticaret yollarının geçiş noktaları olarak kullanılmıştır.
+Doğal güzellikleri ve stratejik konumuyla, Iğdır bölgesi ticaret yollarının kesişme noktası olarak önemli bir rol oynamıştır. Zangağ Dağı gibi doğal alanlar, yüzyıllar boyunca insanların yaşamlarında önemli bir yer tutmuştur. Bu alanlar, yaylacılık ve hayvancılık faaliyetleri için elverişli koşullar sunmaktadır. Ayrıca, bölgenin coğrafi yapısı, tarihi ticaret yollarının geçiş noktaları olarak kullanılmıştır.
 
 Türkiye'de doğal alanların tarihsel önemi, yalnızca bölgesel değil, ulusal düzeyde de önemlidir. Bu alanlar, ülkenin ekolojik dengesini korumanın yanı sıra, kültürel mirasını da zenginleştirmektedir. Zangağ Dağı ve benzeri doğal güzellikler, insanlığın doğal dünya ile bağlantısını güçlendirmekte ve gelecek nesiller için korunması gereken önemli değerler olarak görülmektedir.
 

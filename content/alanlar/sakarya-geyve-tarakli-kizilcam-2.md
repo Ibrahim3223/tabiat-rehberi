@@ -22,7 +22,7 @@ wikidata_id: "Q108227410"
 
 # Sakarya-Geyve-Tarakli Kızılçam 2
 
-Sakarya-Geyve-Tarakli Kızılçam 2 milli parkı, Marmara Bölgesi'nin gözdeleri arasında yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin gözdesi. Bu alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, saklı bir cennete davet ediyor. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkün. 140 hektarlık alan, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dolu. Her mevsim, bu milli parkı ziyaret etmek ayrı bir keyif sunuyor.
+Sakarya-Geyve-Tarakli Kızılçam 2 milli parkı, Marmara Bölgesi'nin gözdeleri arasında yer alıyor. Bu alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, saklı bir cennete davet ediyor. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkün. 140 hektarlık alan, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dolu. Her mevsim, bu milli parkı ziyaret etmek ayrı bir keyif sunuyor.
 
 ## Tarihçe
 

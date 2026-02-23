@@ -34,7 +34,7 @@ Kars'ın Fatsa ilçesinde, Türkiye'nin doğal güzelliklerini keşfetmek isteye
 
 ## Tarihçe
 
-Gaga Gölü, Türkiye'nin doğu ucunda, Kars bölgesinin geniş ve verimli ovasında yer alan bir doğal güzellik. Bu bölge, tarihin sâu sayfalarında önemli uygarlıkların izlerini taşıyor. Kars, tarih boyunca çeşitli medeniyetlerin geçiş yolu üzerinde bulunmuş; Selçuklular, Osmanlılar ve diğer birçok uygarlık bu topraklarda yaşamış.
+Gaga Gölü, Türkiye'nin doğu ucunda, Kars bölgesinin geniş ve verimli ovasında yer alan bir doğal güzellik. Bu bölge, tarihin derin sayfalarında önemli uygarlıkların izlerini taşıyor. Kars, tarih boyunca çeşitli medeniyetlerin geçiş yolu üzerinde bulunmuş; Selçuklular, Osmanlılar ve diğer birçok uygarlık bu topraklarda yaşamış.
 
 Doğal güzellikleri ve stratejik konumuyla Kars, ticaret yollarının kesişme noktası olarak önemli bir role sahip. Gaga Gölü de bu bölgenin bir parçası olarak, yüzyıllar boyunca insan faaliyetlerinin merkezi olmuş. Yaylacılık ve hayvancılık, bu bölgenin ekonomisinin temelini oluşturmuş; insanların doğa ile uyum içinde yaşadığı bir coğrafya olarak öne çıkıyor.
 

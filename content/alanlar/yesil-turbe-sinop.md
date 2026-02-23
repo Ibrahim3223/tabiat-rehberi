@@ -1,7 +1,7 @@
 ---
 title: "Yeşil Türbe, Sinop"
 date: "2026-01-10T06:46:46.489Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sinop"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582725"
 
 # Yeşil Türbe, Sinop
 
-Yeşil Türbe, Sinop'un merkezinde bulunan ve 140 hektarlık geniş alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir plajdır. Bu güzel plaj, misafirlerini Karadeniz'in serin sularına davet ediyor. Yeşil Türbe'nin etrafı, yeşilin çeşitli tonlarını sunan ormanlarla çevrilidir. Bu doğal güzellik, ziyaretçilerin doğayla iç içe bir gün geçirmelerine olanak sağlıyor. Yeşil Türbe, Sinop'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir başlangıç noktası olarak hizmet veriyor.
+ Bu güzel plaj, misafirlerini Karadeniz'in serin sularına davet ediyor. Yeşil Türbe'nin etrafı, yeşilin çeşitli tonlarını sunan ormanlarla çevrilidir. Bu doğal güzellik, ziyaretçilerin doğayla iç içe bir gün geçirmelerine olanak sağlıyor. Yeşil Türbe, Sinop'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir başlangıç noktası olarak hizmet veriyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yeşil Türbe'nin tarihi geçmişi, Sinop'un tarihi ile iç içe geçmiş durumd
 
 ## Coğrafya
 
-Yeşil Türbe, Sinop'un merkezinde, Karadeniz kıyısında yer alan bir plajdır. 140 hektarlık geniş alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu plaj, Karadeniz'in serin sularına açılıyor. Plajın etrafı, yeşilin çeşitli tonlarını sunan ormanlarla çevrilidir. Bu ormanlar, çeşitli bitki türlerine ev sahipliği yapmakta ve ziyaretçilere doğal bir ortam sunmaktadır. Yeşil Türbe'nin coğrafi konumu, ziyaretçilerin hem denize girip hem de doğa yürüyüşleri yapmasına olanak sağlıyor. Plajın hinterlandında, Sinop'un tarihi ve kültürel zenginliklerini keşfetme mümkündür.
+Yeşil Türbe, Sinop'un merkezinde, Karadeniz kıyısında yer alan bir plajdır. Plajın etrafı, yeşilin çeşitli tonlarını sunan ormanlarla çevrilidir. Bu ormanlar, çeşitli bitki türlerine ev sahipliği yapmakta ve ziyaretçilere doğal bir ortam sunmaktadır. Yeşil Türbe'nin coğrafi konumu, ziyaretçilerin hem denize girip hem de doğa yürüyüşleri yapmasına olanak sağlıyor. Plajın hinterlandında, Sinop'un tarihi ve kültürel zenginliklerini keşfetme mümkündür.
 
 ## Flora ve Fauna
 

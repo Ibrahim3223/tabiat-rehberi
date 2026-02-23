@@ -1,7 +1,7 @@
 ---
 title: "Faustina Hamamları"
 date: "2026-01-09T22:12:38.270Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Türkiye"
@@ -30,7 +30,7 @@ wikidata_id: "Q78208526"
 
 # Faustina Hamamları
 
-Faustina Hamamları, İç Anadolu Bölgesi'nin Balat bölgesinde yer alan bir tarihi ve doğal güzellik merkezidir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Bu alan, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan bir kültürel miras olarak görülür. Ziyaretçiler, burada hem tarihi yapıları inceleyerek hem de doğal güzellikleri keşfederek keyifli bir gün geçirebilirler.
+Faustina Hamamları, İç Anadolu Bölgesi'nin Balat bölgesinde yer alan bir tarihi ve doğal güzellik merkezidir. Bu alan, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan bir kültürel miras olarak görülür. Ziyaretçiler, burada hem tarihi yapıları inceleyerek hem de doğal güzellikleri keşfederek keyifli bir gün geçirebilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Faustina Hamamları'nın tarihi geçmişi, Roma İmparatorluğu dönemine kadar 
 
 ## Coğrafya
 
-Faustina Hamamları, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, çevresindeki dağlar ve ovalarla birlikte, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahiptir. Hamamların bulunduğu alan, 140 hektarlık bir arazide kurulmuştur ve bu geniş alan, yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır; step ve otlaklar, bölgenin bitki örtüsünü oluştururken, çeşitli hayvan türleri de bu ekosistemin bir parçasıdır. İklim, karasal iklim özellikleri taşır; yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçer. Bu coğrafi ve iklimsel özellikler, Faustina Hamamları'nın doğal güzelliklerini daha da vurgular ve ziyaretçilere benzersiz bir experiencia sunar.
+Faustina Hamamları, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, çevresindeki dağlar ve ovalarla birlikte, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahiptir. Coğrafi olarak, bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır; step ve otlaklar, bölgenin bitki örtüsünü oluştururken, çeşitli hayvan türleri de bu ekosistemin bir parçasıdır. İklim, karasal iklim özellikleri taşır; yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçer. Bu coğrafi ve iklimsel özellikler, Faustina Hamamları'nın doğal güzelliklerini daha da vurgular ve ziyaretçilere benzersiz bir experiencia sunar.
 
 ## Flora ve Fauna
 

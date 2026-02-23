@@ -28,7 +28,7 @@ wikidata_id: "Q34884313"
 
 # Mustafaarkaç Tepesi
 
-Mustafaarkaç Tepesi, Ankara'nın doğal güzelliklerinden biri olarak bilinir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Mustafaarkaç Tepesi, ziyaretçilerine geniş ve yeşillik bir alan sunar. Bu tepe, Ankara'nın coğrafi yapısını ve doğal güzelliklerini sergileyen önemli bir noktadır. Mustafaarkaç Tepesi, hem doğa severler hem de Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Mustafaarkaç Tepesi, Ankara'nın doğal güzelliklerinden biri olarak bilinir. Mustafaarkaç Tepesi, ziyaretçilerine geniş ve yeşillik bir alan sunar. Bu tepe, Ankara'nın coğrafi yapısını ve doğal güzelliklerini sergileyen önemli bir noktadır. Mustafaarkaç Tepesi, hem doğa severler hem de Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mustafaarkaç Tepesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu tepe, y
 
 ## Coğrafya
 
-Mustafaarkaç Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını sergileyen önemli bir noktadır. Bu tepe, Ankara'nın merkezine yakın bir konumda bulunur ve şehir merkezinden kolayca ulaşılabilir. Mustafaarkaç Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, geniş ve yeşillik bir alana sahiptir ve ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunar. Mustafaarkaç Tepesi, Ankara'nın coğrafi zenginliklerini sergileyen önemli bir destinasyondur. Bu tepe, ziyaretçilerine Ankara'nın doğal güzelliklerini keşfetme fırsatı sunar.
+Mustafaarkaç Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını sergileyen önemli bir noktadır. Bu tepe, Ankara'nın merkezine yakın bir konumda bulunur ve şehir merkezinden kolayca ulaşılabilir. Bu tepe, geniş ve yeşillik bir alana sahiptir ve ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunar. Mustafaarkaç Tepesi, Ankara'nın coğrafi zenginliklerini sergileyen önemli bir destinasyondur. Bu tepe, ziyaretçilerine Ankara'nın doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

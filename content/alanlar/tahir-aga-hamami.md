@@ -1,7 +1,7 @@
 ---
 title: "Tahir Ağa Hamamı"
 date: "2026-01-09T22:54:27.877Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738656"
 
 # Tahir Ağa Hamamı
 
-Tahir Ağa Hamamı, Marmara Bölgesi'nin en güzel köşelerinden biri olan Mudanya'da bulunur. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Tahir Ağa Hamamı, ziyaretçilerini çam ormanları, geniş plajları ve berrak sularıyla karşılar. Burada, doğanın içinde huzur bulabilir ve güzel anılar yaratabilirsiniz. Tahir Ağa Hamamı, hem yerel halk hem de turistler için popüler bir destinasyondur.
+Tahir Ağa Hamamı, Marmara Bölgesi'nin en güzel köşelerinden biri olan Mudanya'da bulunur. Tahir Ağa Hamamı, ziyaretçilerini çam ormanları, geniş plajları ve berrak sularıyla karşılar. Burada, doğanın içinde huzur bulabilir ve güzel anılar yaratabilirsiniz. Tahir Ağa Hamamı, hem yerel halk hem de turistler için popüler bir destinasyondur.
 
 ## Tarihçe
 
@@ -52,5 +52,5 @@ Tahir Ağa Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, en iyi ziyare
 - Tahir Ağa Hamamı, Marmara Denizi'ne sahili olan bir bölgedir.
 - Bölge, çam ormanları ile kaplı bir arazide yer alır.
 - Tahir Ağa Hamamı, çeşitli flora ve fauna türlerine ev sahipliği yapar.
-- Bölge, histórik yapılarıyla ünlüdür.
+- Bölge, tarihi yapılarıyla ünlüdür.
 - Tahir Ağa Hamamı, yılın her dönemi ziyaret edilebilir.

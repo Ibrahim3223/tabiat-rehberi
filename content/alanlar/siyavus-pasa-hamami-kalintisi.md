@@ -1,7 +1,7 @@
 ---
 title: "Siyavuş Paşa Hamamı Kalıntısı"
 date: "2026-01-09T23:10:25.224Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738890"
 
 # Siyavuş Paşa Hamamı Kalıntısı
 
-Siyavuş Paşa Hamamı Kalıntısı, İstanbul'un Bahçelievler ilçesinde yer alan ve tarihin sayfalarına götürerek ziyaretçilerini etkileyen bir yapı kalıntısıdır. Bu tarihi yapı, Marmara Bölgesi'nin kalbinde, İstanbul'un kalabalık ve gelişmiş ilçelerinden birinde bulunmakta ve tarihin izlerini taşıyor. 140 hektarlık bir alan içerisinde yer alan bu yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Siyavuş Paşa Hamamı Kalıntısı, ziyaretçilerine tarihin depthsini keşfetme fırsatı sunuyor.
+Siyavuş Paşa Hamamı Kalıntısı, İstanbul'un Bahçelievler ilçesinde yer alan ve tarihin sayfalarına götürerek ziyaretçilerini etkileyen bir yapı kalıntısıdır. Bu tarihi yapı, Marmara Bölgesi'nin kalbinde, İstanbul'un kalabalık ve gelişmiş ilçelerinden birinde bulunmakta ve tarihin izlerini taşıyor. Siyavuş Paşa Hamamı Kalıntısı, ziyaretçilerine tarihin depthsini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Siyavuş Paşa Hamamı Kalıntısı, tarihi geçmişi ile dikkat çekiyor. Bu ya
 
 ## Coğrafya
 
-Siyavuş Paşa Hamamı Kalıntısı, İstanbul'un Bahçelievler ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi konumu itibari ile önemli bir noktada bulunmakta ve tarihin depthsini taşıyor. Yapı, 140 hektarlık bir alan içerisinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklimi, Marmara Bölgesi'nin tipik iklimi ile benzerlik gösteriyor ve ziyaretçilerine dört mevsim boyunca farklı bir güzellik sunuyor. Çevre, tarihi yapılar ve modern binaların bir arada bulunduğu bir bölge olarak dikkat çekiyor.
+Siyavuş Paşa Hamamı Kalıntısı, İstanbul'un Bahçelievler ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi konumu itibari ile önemli bir noktada bulunmakta ve tarihin depthsini taşıyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklimi, Marmara Bölgesi'nin tipik iklimi ile benzerlik gösteriyor ve ziyaretçilerine dört mevsim boyunca farklı bir güzellik sunuyor. Çevre, tarihi yapılar ve modern binaların bir arada bulunduğu bir bölge olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Siyavuş Paşa Hamamı Kalıntısı, ziyaretçilerini tarihin depthsine götür�
 - Siyavuş Paşa Hamamı Kalıntısı, yüzyıllar boyunca İstanbul'un önemli yapılarından biri olarak biliniyor.
 - Bu yapı, mimarisi ve tarihi önemi ile dikkat çekiyor.
 - Siyavuş Paşa Hamamı Kalıntısı, çeşitli restorasyonlar ve onarımlar geçirmiş olup, günümüzde ziyaretçilerini ağırlamaya devam ediyor.
-- Bu yapı, 140 hektarlık bir alan içerisinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.

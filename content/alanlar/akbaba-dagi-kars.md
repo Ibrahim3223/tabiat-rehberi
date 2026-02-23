@@ -33,9 +33,9 @@ Kars'ın doğal güzellikleri arasında yer alan Akbaba Dağı, bölgenin en ön
 
 ## Tarihçe
 
-Kars bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölgede, Akbaba Dağı da dahil olmak üzere birçok doğal güzellik, çeşitli uygarlıkların izlerini taşır. Kars, Selçuklular, Osmanlılar ve diğer medeniyetlerin hakimiyetine girmiş, ticaret yollarının kesişme noktası olmuştur. 
+Kars bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölgede, Akbaba Dağı da dahil olmak üzere birçok doğal güzellik, çeşitli uygarlıkların izlerini taşır. Kars, Selçuklular, Osmanlılar ve diğer medeniyetlerin hakimiyetine girmiş, ticaret yollarının kesişme noktası olmuştur.
 
-Bu bölgede, insanların doğal alanlarla ilişkisi, tarihi süreçte hayvancılık, yaylacılık ve ticaret faaliyetleri ile şekillenmiştir. İnsanlar, bu doğal güzelliklerden faydalanmış, aynı zamanda onlara karşı derin bir saygı duymuşlardır. Türkiye'nin tarihsel süreci içerisinde, bu tür doğal alanlar, insanların yaşamında önemli bir yer tutmuştur. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda kültürel ve tarihi değerleriyle de dikkat çeker. 
+Bu bölgede, insanların doğal alanlarla ilişkisi, tarihi süreçte hayvancılık, yaylacılık ve ticaret faaliyetleri ile şekillenmiştir. İnsanlar, bu doğal güzelliklerden faydalanmış, aynı zamanda onlara karşı derin bir saygı duymuşlardır. Türkiye'nin tarihsel süreci içerisinde, bu tür doğal alanlar, insanların yaşamında önemli bir yer tutmuştur. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda kültürel ve tarihi değerleriyle de dikkat çeker.
 
 Akbaba Dağı ve çevresinin, bu tarihsel süreçte nasıl bir role sahip olduğu konusunda spesifik bilgiler olmasa da, bölgenin genel tarihi bağlamı, doğal alanların önemini vurgular. Bu dağ ve çevresi, Kars'ın zengin tarihi ve kültürel mirasının bir parçasını oluşturur.
 
@@ -51,9 +51,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Akbaba Dağ�
 
 ## Flora ve Fauna
 
-Akbaba Dağı (Kars), yüksek dağ ekolojisinin tüm güzelliğini sergiler. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Akbaba Dağı (Kars), yüksek dağ ekolojisinin tüm güzelliğini sergiler. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünde, ilkbaharın gelmesiyle birlikte renkli çiçekler açar. Alpin çayırlar, dağların yükseklik zonlarında hakimdir. 
+Bitki örtüsünde, ilkbaharın gelmesiyle birlikte renkli çiçekler açar. Alpin çayırlar, dağların yükseklik zonlarında hakimdir.
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, kartallar ve diğer yüksek dağ hayvanları, bu ekosistemin önemli parçalarıdır.
 Ekolojik değer, yüksek dağ ekosisteminin korunmasına bağlıdır. Bu alan, endemik türlerin yaşadığı nadir bölgelerden biridir. Koruma durumu, bu türlerin geleceğini güvence altına almak için önemlidir.
 

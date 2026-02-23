@@ -1,7 +1,7 @@
 ---
 title: "Atik Valide Sultan Hamamı, Toptaşı"
 date: "2026-01-09T22:43:54.680Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738564"
 
 # Atik Valide Sultan Hamamı, Toptaşı
 
-Atik Valide Sultan Hamamı, Toptaşı, İstanbul'un Üsküdar ilçesinde yer alan tarihi bir hamam ve plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplar. Bu bölge, histórik öneme sahip hamamının yanı sıra, denize girilebilen bir plaj olarak da bilinir. Atik Valide Sultan Hamamı, Toptaşı, Marmara Bölgesi'nin en önemli tarihi ve doğa güzelliklerinden biridir. Üsküdar'ın merkezi konumunda yer alan bu bölge, hem tarih severler hem de doğaşığılar için bir çekim merkezidir. Atik Valide Sultan Hamamı, Toptaşı, İstanbul'un tarihi ve doğal güzelliklerinin bir arada bulunduğu özel bir yerdir.
+Atik Valide Sultan Hamamı, Toptaşı, İstanbul'un Üsküdar ilçesinde yer alan tarihi bir hamam ve plajdır. Bu bölge, tarihi öneme sahip hamamının yanı sıra, denize girilebilen bir plaj olarak da bilinir. Atik Valide Sultan Hamamı, Toptaşı, Marmara Bölgesi'nin en önemli tarihi ve doğa güzelliklerinden biridir. Üsküdar'ın merkezi konumunda yer alan bu bölge, hem tarih severler hem de doğaşığılar için bir çekim merkezidir. Atik Valide Sultan Hamamı, Toptaşı, İstanbul'un tarihi ve doğal güzelliklerinin bir arada bulunduğu özel bir yerdir.
 
 ## Tarihçe
 

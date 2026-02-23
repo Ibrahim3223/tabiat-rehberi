@@ -28,7 +28,7 @@ wikidata_id: "Q31389612"
 
 # Kanlıyurt Tepesi
 
-Kanlıyurt Tepesi, Marmara Bölgesi'nin Balıkesir şehrinde yer alan ve tarihi ile doğası bir arada sunan bir nokta. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve bölgenin önemli noktalarından biri. Kanlıyurt Tepesi, doğa severlerin ve tarih meraklılarının ilgi odağı haline gelmiş bir yer. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bölgede birçok canlıya ev sahipliği yapıyor. Kanlıyurt Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor.
+Kanlıyurt Tepesi, Marmara Bölgesi'nin Balıkesir şehrinde yer alan ve tarihi ile doğası bir arada sunan bir nokta. Kanlıyurt Tepesi, doğa severlerin ve tarih meraklılarının ilgi odağı haline gelmiş bir yer. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bölgede birçok canlıya ev sahipliği yapıyor. Kanlıyurt Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor.
 
 ## Tarihçe
 

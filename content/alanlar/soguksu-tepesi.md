@@ -28,7 +28,7 @@ wikidata_id: "Q31386950"
 
 # Soğuksu Tepesi
 
-Soğuksu Tepesi, Marmara Bölgesi'nin en güzel doğal alanlarından biridir. Kırklareli ilinde yer alan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Soğuksu Tepesi, ziyaretçilerine geniş bir manzara sunar ve doğa ile iç içe bir gezi deneyimi sağlar. Bu tepenin etrafındaki köyler ve kasabalar, geleneksel Türk kültürünü deneyimlemek için ideal bir opportunity sunar.
+Soğuksu Tepesi, Marmara Bölgesi'nin en güzel doğal alanlarından biridir. Soğuksu Tepesi, ziyaretçilerine geniş bir manzara sunar ve doğa ile iç içe bir gezi deneyimi sağlar. Bu tepenin etrafındaki köyler ve kasabalar, geleneksel Türk kültürünü deneyimlemek için ideal bir opportunity sunar.
 
 ## Tarihçe
 
@@ -49,6 +49,6 @@ Soğuksu Tepesi'ni ziyaret etmek, doğa ile iç içe bir gezi deneyimi sunar. Bu
 ## İlginç Bilgiler
 
 - Soğuksu Tepesi, Marmara Bölgesi'nin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Soğuksu Tepesi, ziyaretçilerine geniş bir manzara sunar.
 - Tepenin etrafındaki köyler ve kasabalar, geleneksel Türk kültürünü deneyimlemek için ideal bir opportunity sunar.

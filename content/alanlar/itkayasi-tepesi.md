@@ -28,7 +28,7 @@ wikidata_id: "Q31535604"
 
 # İtkayası Tepesi
 
-İtkayası Tepesi, Hatay ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Bu tepe, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. İtkayası Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve bu özelliği ile bölgenin en büyük tepelerinden biri. Tepenin yüksekliği ve genişliği, burayı doğa severler için bir cennet haline getiriyor.
+İtkayası Tepesi, Hatay ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Bu tepe, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin yüksekliği ve genişliği, burayı doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q31535604"
 
 ## Coğrafya
 
-İtkayası Tepesi, Hatay ilinin coğrafi yapısı içerisinde önemli bir yere sahip. Tepenin yüksekliği ve genişliği, burayı Akdeniz Bölgesi'nin en önemli coğrafi oluşumlarından biri haline getiriyor. Tepenin etekleri, çeşitli bitki türleri ile kaplı ve bu bitkiler, tepeye renkli bir görünüm kazandırıyor. Ayrıca, tepe ve çevresinin iklimi, Akdeniz iklimi özellikleri gösteriyor. Bu iklim, tepeye ve çevresine zengin bir flora ve fauna çeşitliliği kazandırıyor. İtkayası Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve bu özelliği ile bölgenin en büyük tepelerinden biri.
+İtkayası Tepesi, Hatay ilinin coğrafi yapısı içerisinde önemli bir yere sahip. Tepenin yüksekliği ve genişliği, burayı Akdeniz Bölgesi'nin en önemli coğrafi oluşumlarından biri haline getiriyor. Tepenin etekleri, çeşitli bitki türleri ile kaplı ve bu bitkiler, tepeye renkli bir görünüm kazandırıyor. Ayrıca, tepe ve çevresinin iklimi, Akdeniz iklimi özellikleri gösteriyor. Bu iklim, tepeye ve çevresine zengin bir flora ve fauna çeşitliliği kazandırıyor.
 
 ## Flora ve Fauna
 

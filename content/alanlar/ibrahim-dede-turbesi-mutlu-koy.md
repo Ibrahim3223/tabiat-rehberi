@@ -1,7 +1,7 @@
 ---
 title: "İbrahim Dede Türbesi (Mutlu Köy)"
 date: "2026-01-10T06:09:16.266Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390573"
 
 # İbrahim Dede Türbesi (Mutlu Köy)
 
-Ayvalık'ta, Marmara Bölgesi'nin güzide bir köşesinde yer alan İbrahim Dede Türbesi ve Mutlu Köyü, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği benzersiz bir noktaya davet ediyor. Bu alan, 140 hektarlık geniş bir yeşil alan sunuyor; yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil cennet, doğa severler için gerçek bir cennet. İbrahim Dede Türbesi, Mutlu Köyü'nün merkezinde yer alıyor ve tarihi geçmişi ile önemli bir kültürel merkez olarak kabul ediliyor. Ziyaretçiler, hem İbrahim Dede Türbesi'nin tarihi atmosferini hissedebiliyor hem de doğa yürüyüşleri yapabiliyor. Bu bölgenin güzelliği, sadece tarihi yapılarıyla sınırlı değil; aynı zamanda çevredeki doğa harikaları da ziyaretçileri büyülüyor.
+Ayvalık'ta, Marmara Bölgesi'nin güzide bir köşesinde yer alan İbrahim Dede Türbesi ve Mutlu Köyü, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği benzersiz bir noktaya davet ediyor. İbrahim Dede Türbesi, Mutlu Köyü'nün merkezinde yer alıyor ve tarihi geçmişi ile önemli bir kültürel merkez olarak kabul ediliyor. Ziyaretçiler, hem İbrahim Dede Türbesi'nin tarihi atmosferini hissedebiliyor hem de doğa yürüyüşleri yapabiliyor. Bu bölgenin güzelliği, sadece tarihi yapılarıyla sınırlı değil; aynı zamanda çevredeki doğa harikaları da ziyaretçileri büyülüyor.
 
 ## Tarihçe
 

@@ -48,9 +48,9 @@ Mevsimsel değişimler, Goharamışam Dağı'nın iklim karakterini şekillendir
 
 ## Flora ve Fauna
 
-Goharamışam Dağı, Van'ın yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, alpin çayırlar rengarenk çiçeklerle donanır. Bu mevsimde, dağ keçileri ve yaban keçileri, yükseklik zonlarında bulunan otlaklarda beslenir. 
+Goharamışam Dağı, Van'ın yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, alpin çayırlar rengarenk çiçeklerle donanır. Bu mevsimde, dağ keçileri ve yaban keçileri, yükseklik zonlarında bulunan otlaklarda beslenir.
 
-Yaban hayatı, dağların zorlu koşullarına adapte olmuş türlerle doludur. Kartallar ve diğer yırtıcı kuşlar, yükseklik zonlarında yuvalanır ve avlanırlar. Sürüngenler, kayalık alanlarda güneşlenirken görülür. 
+Yaban hayatı, dağların zorlu koşullarına adapte olmuş türlerle doludur. Kartallar ve diğer yırtıcı kuşlar, yükseklik zonlarında yuvalanır ve avlanırlar. Sürüngenler, kayalık alanlarda güneşlenirken görülür.
 
 Bu dağ ekosisteminin korunması büyük önem taşır. Yüksek dağ ekolojisi, birçok endemik türün yaşadığı özel bir alandır. Bu türlerin korunması, ekosistemin dengesini sağlamak için gereklidir.
 

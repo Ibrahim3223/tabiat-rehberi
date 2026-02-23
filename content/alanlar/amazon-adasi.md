@@ -30,7 +30,7 @@ wikidata_id: "Q61071745"
 
 # Amazon Adası
 
-Samsun'un Atakum ilçesinde bulunan Amazon Adası, ziyaretçilerini doğanın güzelliği ile karşılayan bir yer. Bu ada, Karadeniz kıyılarında yer alan bir doğa harikası. Atakum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Amazon Adası, Samsun'un turistik değerlerini ortaya koyuyor. 
+Samsun'un Atakum ilçesinde bulunan Amazon Adası, ziyaretçilerini doğanın güzelliği ile karşılayan bir yer. Bu ada, Karadeniz kıyılarında yer alan bir doğa harikası. Atakum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Amazon Adası, Samsun'un turistik değerlerini ortaya koyuyor.
 Amazon Adası, Samsun'un turizm potansiyelini artıran önemli noktalarından biri.
 
 ## Tarihçe

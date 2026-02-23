@@ -28,7 +28,7 @@ wikidata_id: "Q31389067"
 
 # Kurusbaba Tepesi
 
-Erzurum'un doğal güzellikleriyle meşhur olan bölgelerinden biri olan Kurusbaba Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kapsar ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Kurusbaba Tepesi, doğa severlerin ilgisini çeken önemli bir destinasyon olarak bilinir.
+Erzurum'un doğal güzellikleriyle meşhur olan bölgelerinden biri olan Kurusbaba Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir. Kurusbaba Tepesi, doğa severlerin ilgisini çeken önemli bir destinasyon olarak bilinir.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kurusbaba Tepesi, doğa severlerin ilgisini çeken önemli bir destinasyon olara
 
 ## Ziyaret Bilgileri
 
-Kurusbaba Tepesi'ni ziyaret etmek, doğa severler için önemli bir expérience olabilir. Bu tepe, birçok doğal güzelliğe ev sahipliği yapar ve ziyaretçilerini etkileyen bir manzaraya sahiptir. Kurusbaba Tepesi'ne gitmek için, Erzurum iline ulaşmak gerekir. Bu tepe, Erzurum'un merkezine yakın bir konumda yer alır. Ziyaretçiler, bu tepenin güzelliğini görme ve birçok doğal güzelliğe şahit olmak için, Kurusbaba Tepesi'ni ziyaret edebilirler.
+Kurusbaba Tepesi'ni ziyaret etmek, doğa severler için önemli bir deneyim olabilir. Bu tepe, birçok doğal güzelliğe ev sahipliği yapar ve ziyaretçilerini etkileyen bir manzaraya sahiptir. Kurusbaba Tepesi'ne gitmek için, Erzurum iline ulaşmak gerekir. Bu tepe, Erzurum'un merkezine yakın bir konumda yer alır. Ziyaretçiler, bu tepenin güzelliğini görme ve birçok doğal güzelliğe şahit olmak için, Kurusbaba Tepesi'ni ziyaret edebilirler.
 
 ## İlginç Bilgiler
 

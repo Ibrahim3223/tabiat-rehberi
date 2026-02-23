@@ -28,7 +28,7 @@ wikidata_id: "Q31387459"
 
 # Derigelir Tepesi
 
-Derigelir Tepesi, Van ilinin doğal güzelliklerine ev sahipliği yapan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve büyüklüğü itibariyle yaklaşık 200 futbol sahası büyüklüğünde. Derigelir Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini bekliyor. Bu tepe, ziyaretçilerine Van'ın eşsiz manzarasını sunuyor ve bölgenin florası ve faunası hakkında bilgi edinme fırsatı sunuyor.
+Derigelir Tepesi, Van ilinin doğal güzelliklerine ev sahipliği yapan bir tepe olarak dikkat çekiyor. Derigelir Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini bekliyor. Bu tepe, ziyaretçilerine Van'ın eşsiz manzarasını sunuyor ve bölgenin florası ve faunası hakkında bilgi edinme fırsatı sunuyor.
 
 ## Tarihçe
 

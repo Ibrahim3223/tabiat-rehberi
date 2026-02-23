@@ -28,7 +28,7 @@ wikidata_id: "Q31388920"
 
 # Oluklu Tepesi
 
-Oluklu Tepesi, Doğu Anadolu Bölgesi'nin Erzurum ilinde yer alan ve bölgenin doğal güzelliklerini gösteren önemli bir tepe noktasıdır. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Oluklu Tepesi, ziyaretçilerini şehrin tüm güzelliğini bir bakışta görebilecekleri bir gözlem noktası sunar. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Oluklu Tepesi, hem doğal güzelliği hem de coğrafi konumuyla ziyaretçilerini cezbeder.
+Oluklu Tepesi, Doğu Anadolu Bölgesi'nin Erzurum ilinde yer alan ve bölgenin doğal güzelliklerini gösteren önemli bir tepe noktasıdır. Oluklu Tepesi, ziyaretçilerini şehrin tüm güzelliğini bir bakışta görebilecekleri bir gözlem noktası sunar. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Oluklu Tepesi, hem doğal güzelliği hem de coğrafi konumuyla ziyaretçilerini cezbeder.
 
 ## Tarihçe
 

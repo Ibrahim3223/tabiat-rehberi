@@ -50,7 +50,7 @@ Hirfanlı Baraj Gölü, çevresindeki su kaynakları ve ekosistem bağlantılar�
 
 ## Flora ve Fauna
 
-Hirfanlı Baraj Gölü, Ankara'nın kalbinde yer alan 1200 hektarlık bir yeşil cennettir. Bu göl ekosisteminde, step bitki örtüsünün hakim olduğu bozkırın kuraklığına adapte türler bulunur. 
+Hirfanlı Baraj Gölü, Ankara'nın kalbinde yer alan 1200 hektarlık bir yeşil cennettir. Bu göl ekosisteminde, step bitki örtüsünün hakim olduğu bozkırın kuraklığına adapte türler bulunur.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte gölün etrafını renklendiren çiçekler açar. Bu mevsimsel değişim, gölün sulak alan bitkilerini de etkiler ve bu bitkiler su seviyesine bağlı olarak değişen bir yaşam alanı sunar.
 

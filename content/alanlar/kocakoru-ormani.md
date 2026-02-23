@@ -22,7 +22,7 @@ wikidata_id: "Q108227341"
 
 # Kocakoru Ormani
 
-Kocakoru Ormani, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli park. 140 hektarlık geniş bir alanı kapsayan bu orman, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilere geniş bir yeşil alan sunuyor. Orman, çeşitli ağaç türleri ile kaplı ve zengin bir ekosisteme sahip. Burada, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi faaliyetler yapma mümkün. Kocakoru Ormani, doğa severler için bir cennet harika bir deneyim.
+Kocakoru Ormani, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli park. Bu alan, ziyaretçilere geniş bir yeşil alan sunuyor. Orman, çeşitli ağaç türleri ile kaplı ve zengin bir ekosisteme sahip. Burada, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi faaliyetler yapma mümkün. Kocakoru Ormani, doğa severler için bir cennet harika bir deneyim.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Kocakoru Ormani, ziyaretçilere birçok faaliyet imkanı sunuyor. Ormanda, doğa
 ## İlginç Bilgiler
 
 - Kocakoru Ormani, 140 hektarlık bir alanı kapsıyor.
-- Orman, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Kocakoru Ormani, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alıyor.
 - Orman, çeşitli ağaç türleri ile kaplı ve zengin bir ekosisteme sahip.
 - Kocakoru Ormani, doğa severler için bir cennet harika bir deneyim.

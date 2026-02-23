@@ -1,7 +1,7 @@
 ---
 title: "Özbek Hamamı"
 date: "2026-01-09T23:23:17.667Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739026"
 
 # Özbek Hamamı
 
-Özbek Hamamı, İzmir'in Urla ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir yer. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş kumsalı ile ziyaretçilerini ağırlıyor. Bu muhteşem plaj, denize girerek serinleme ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyon. Özbek Hamamı, aynı zamanda çevredeki tarihi ve doğal güzellikleri keşfetmek isteyenler için de bir başlangıç noktası olarak düşünülebilir.
+Özbek Hamamı, İzmir'in Urla ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir yer. Bu muhteşem plaj, denize girerek serinleme ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyon. Özbek Hamamı, aynı zamanda çevredeki tarihi ve doğal güzellikleri keşfetmek isteyenler için de bir başlangıç noktası olarak düşünülebilir.
 
 ## Tarihçe
 

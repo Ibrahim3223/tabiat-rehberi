@@ -29,7 +29,7 @@ wikidata_id: "Q34872878"
 
 # Gül Dağ
 
-Hatay'ın zengin tarihi ve doğal güzelliklerinin içerisinde yer alan Gül Dağ, ziyaretçilerini tarihi ve kültürel zenginliklerle karşılıyor. Bu dağ, Hatay'ın merkezi veindeki diğer önemli noktalara yakınlığıyla dikkat çekiyor. Tarihi ve doğal güzelliklerinin bir arada bulunması, Gül Dağ'ı önemli bir turistik destinasyon haline getiriyor. Hatay'ın eşsiz coğrafyası içerisinde yer alan Gül Dağ, ziyaretçilerini keşfetmeye davet ediyor.
+Hatay'ın zengin tarihi ve doğal güzelliklerinin içerisinde yer alan Gül Dağ, ziyaretçilerini tarihi ve kültürel zenginliklerle karşılıyor. Bu dağ, Hatay'ın merkezi veindeki diğer önemli noktalara yakınlığıyla dikkat çekiyor. Hatay'ın eşsiz coğrafyası içerisinde yer alan Gül Dağ, ziyaretçilerini keşfetmeye davet ediyor.
 
 ## Tarihçe
 

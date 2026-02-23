@@ -52,7 +52,7 @@ Jeolojik açıdan Tepe Dağı, bölgenin karakteristik özelliklerini taşır. D
 
 ## Flora ve Fauna
 
-Tepe Dağı, step bitki örtüsünün hakim olduğu bir bozkır ekosisteminin içinde yer alır. İlkbaharın gelmesiyle birlikte, dağ yamaçları renklendirilir ve çeşitli çiçekler açar. Bu dönemde, dağların yükseklik zonlarına özgü alpin flora ortaya çıkar. 
+Tepe Dağı, step bitki örtüsünün hakim olduğu bir bozkır ekosisteminin içinde yer alır. İlkbaharın gelmesiyle birlikte, dağ yamaçları renklendirilir ve çeşitli çiçekler açar. Bu dönemde, dağların yükseklik zonlarına özgü alpin flora ortaya çıkar.
 
 Yaban hayatı da oldukça çeşitlidir. Dağ keçileri ve yaban keçileri gibi memeliler, dağların kayalık alanlarını ve yükseklik zonlarını mesken tutar. Kuşlar ise, özellikle sonbaharda göç eden türlerle birlikte, dağların gökyüzünü doldurur. Sürüngenler de, dağların kura ve kayalık bölgelerinde yaşamlarını sürdürür.
 

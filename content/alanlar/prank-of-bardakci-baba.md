@@ -30,7 +30,7 @@ wikidata_id: "Q131103810"
 
 # Prank of Bardakçı Baba
 
-Prank of Bardakçı Baba, Şişli'de yer alan bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli doğal alanlarından biridir. İstanbul'un merkezinde bulunması, burayı şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktası haline getirir. Prank of Bardakçı Baba, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenlerin sıklıkla ziyaret ettiği bir yerdir. Burada, deniz kıyısında yürüyüş yapmak, güneşin tadını çıkarma veya einfach doğanın güzelliğini seyretme mümkündür. Prank of Bardakçı Baba, özellikle hafta sonları ve yaz aylarında ziyaretçilerin akınına uğrar.
+Prank of Bardakçı Baba, Şişli'de yer alan bir plajdır. İstanbul'un merkezinde bulunması, burayı şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktası haline getirir. Prank of Bardakçı Baba, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenlerin sıklıkla ziyaret ettiği bir yerdir. Burada, deniz kıyısında yürüyüş yapmak, güneşin tadını çıkarma veya einfach doğanın güzelliğini seyretme mümkündür. Prank of Bardakçı Baba, özellikle hafta sonları ve yaz aylarında ziyaretçilerin akınına uğrar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Prank of Bardakçı Baba'nın tarihi geçmişi, İstanbul'un eski dönemlerine k
 
 ## Coğrafya
 
-Prank of Bardakçı Baba, Şişli'de yer alan bir plajdır ve Marmara Bölgesi'nin coğrafyasına uygun olarak, deniz seviyesinde yer alır. Bu bölgenin coğrafyası, genel olarak düzdür ve deniz kıyısında uzanır. Prank of Bardakçı Baba, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu doğal alan, İstanbul'un merkezinde yer alması nedeniyle, şehrin diğer bölgelerine kolayca ulaşılabilen bir konumdadır. Prank of Bardakçı Baba'nın coğrafyası, Marmara Denizi'ne yakınlığı nedeniyle, bölgenin iklimini ve doğasını etkiler. Burada, genellikle ılıman bir iklim hüküm sürer ve bu, ziyaretçilerin yılın dört mevsimi boyunca burayı ziyaret etmesine imkân tanır.
+Prank of Bardakçı Baba, Şişli'de yer alan bir plajdır ve Marmara Bölgesi'nin coğrafyasına uygun olarak, deniz seviyesinde yer alır. Bu bölgenin coğrafyası, genel olarak düzdür ve deniz kıyısında uzanır. Bu doğal alan, İstanbul'un merkezinde yer alması nedeniyle, şehrin diğer bölgelerine kolayca ulaşılabilen bir konumdadır. Prank of Bardakçı Baba'nın coğrafyası, Marmara Denizi'ne yakınlığı nedeniyle, bölgenin iklimini ve doğasını etkiler. Burada, genellikle ılıman bir iklim hüküm sürer ve bu, ziyaretçilerin yılın dört mevsimi boyunca burayı ziyaret etmesine imkân tanır.
 
 ## Flora ve Fauna
 

@@ -36,7 +36,7 @@ Balıkesir'in eşsiz coğrafyasında yer alan İlyas Dağı, binlerce yıllık t
 
 İlyas Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunun önemli bir parçasını oluşturur. Bunlar, sadece coğrafi açıdan değil, aynı zamanda insanların yaşam tarzlarını ve geleneklerini şekillendiren önemli merkezler olarak kabul edilir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin ekonomi ve sosyal yapısını etkilemiştir.
 
-İnsanların İlyas Dağı gibi doğal alanlarla ilişkisi, binlerce yıla dayanan bir geçmişe sahiptir. Bu alanlar, yalnızca doğal güzellikleri nedeniyle değil, aynı zamanda insanların yaşamını sürdürdüğü, ekonomik faaliyetlerde bulunduğu ve kültürel geleneklerini devam ettirdiği mekanlar olarak önemlidir. İlyas Dağı, Balıkesir'in zengin tarihsel ve kültürel mirasının bir parçası olarak, ziyaretçilerini bu bölgenin derin históriyasına davet eder.
+İnsanların İlyas Dağı gibi doğal alanlarla ilişkisi, binlerce yıla dayanan bir geçmişe sahiptir. Bu alanlar, yalnızca doğal güzellikleri nedeniyle değil, aynı zamanda insanların yaşamını sürdürdüğü, ekonomik faaliyetlerde bulunduğu ve kültürel geleneklerini devam ettirdiği mekanlar olarak önemlidir. İlyas Dağı, Balıkesir'in zengin tarihsel ve kültürel mirasının bir parçası olarak, ziyaretçilerini bu bölgenin derin tarihiına davet eder.
 
 ## Coğrafya
 
@@ -50,9 +50,9 @@ Jeolojik açıdan bakıldığında, İlyas Dağı'nın precise boyutları hakkı
 
 ## Flora ve Fauna
 
-İlyas Dağı, Balıkesir'in güzide bir köşesinde yükselen bir dağ ekosistemi olarak, ziyaretçilerini yükseklik zonları ve alpin flora ile karşılar. İlkbaharın gelmesi ile birlikte, dağ yamacı rengarenk çiçeklerle donanır. Mevsimsel değişim, dağın farklı yüksekliklerinde farklı bitkilerin açmasına neden olur. 
+İlyas Dağı, Balıkesir'in güzide bir köşesinde yükselen bir dağ ekosistemi olarak, ziyaretçilerini yükseklik zonları ve alpin flora ile karşılar. İlkbaharın gelmesi ile birlikte, dağ yamacı rengarenk çiçeklerle donanır. Mevsimsel değişim, dağın farklı yüksekliklerinde farklı bitkilerin açmasına neden olur.
 
-Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşam alanlarını bulurken, daha alçak kesimlerde, çeşitli memeli türleri gibi geyikler ve yaban domuzları, ormanlık alanlarda barınır. Göçmen kuşların uğrak noktası olan İlyas Dağı, sonbahar aylarında bu kuşların geçiş güzergahında önemli bir durak noktası olur. 
+Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşam alanlarını bulurken, daha alçak kesimlerde, çeşitli memeli türleri gibi geyikler ve yaban domuzları, ormanlık alanlarda barınır. Göçmen kuşların uğrak noktası olan İlyas Dağı, sonbahar aylarında bu kuşların geçiş güzergahında önemli bir durak noktası olur.
 
 İlyas Dağı'nın ekolojik değeri, karma orman ekosistemini korumasından ve çeşitli canlı türlerine yaşam alanı sağlamasıdır. Bu dağ, bölgenin ekolojik dengesini korumak için önemli bir rol oynar ve koruma altına alınması, gelecek nesiller için bu doğal güzelliğin korunması açısından büyük önem taşır.
 

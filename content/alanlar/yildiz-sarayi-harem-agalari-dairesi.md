@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Harem Ağaları Dairesi"
 date: "2026-01-10T04:39:29.346Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133684810"
 
 # Yıldız Sarayı Harem Ağaları Dairesi
 
-Yıldız Sarayı Harem Ağaları Dairesi, İstanbul'un Beşiktaş ilçesinde bulunan tarihi bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir. Bu alan, hem tarihi hem de doğal güzelliklerini barındıran bir bölgedir. Yıldız Sarayı, Osmanlı İmparatorluğu'nun son döneminde inşa edilmiş ve uzun süre imparatorluğun yöneticilerine ev sahipliği yapmıştır. Harem Ağaları Dairesi, sarayın içerisinde bulunan ve tarihi öneme sahip bir bölümdür.
+Yıldız Sarayı Harem Ağaları Dairesi, İstanbul'un Beşiktaş ilçesinde bulunan tarihi bir yapıdır. Bu alan, hem tarihi hem de doğal güzelliklerini barındıran bir bölgedir. Yıldız Sarayı, Osmanlı İmparatorluğu'nun son döneminde inşa edilmiş ve uzun süre imparatorluğun yöneticilerine ev sahipliği yapmıştır. Harem Ağaları Dairesi, sarayın içerisinde bulunan ve tarihi öneme sahip bir bölümdür.
 
 ## Tarihçe
 

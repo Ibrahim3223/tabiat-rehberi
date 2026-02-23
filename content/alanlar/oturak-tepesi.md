@@ -29,7 +29,7 @@ wikidata_id: "Q31389253"
 
 # Oturak Tepesi
 
-Oturak Tepesi, İç Anadolu Bölgesi'nin göbeğinde, geniş ve yeşil bir alanı kaplar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte büyük bir doğal güzelliğe sahiptir. Bu tepe, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında önemli bilgiler verir. İnsanlar burayı ziyaret ederek, hem doğayı keşfedebilir hem de bölgenin kültürel mirasını öğrenebilirler. Oturak Tepesi, doğa severler ve tarih meraklıları için bir cennet olarak kabul edilebilir.
+Oturak Tepesi, İç Anadolu Bölgesi'nin göbeğinde, geniş ve yeşil bir alanı kaplar. Bu tepe, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında önemli bilgiler verir. İnsanlar burayı ziyaret ederek, hem doğayı keşfedebilir hem de bölgenin kültürel mirasını öğrenebilirler. Oturak Tepesi, doğa severler ve tarih meraklıları için bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 

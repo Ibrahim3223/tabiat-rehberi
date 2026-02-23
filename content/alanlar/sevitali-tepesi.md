@@ -28,7 +28,7 @@ wikidata_id: "Q31386300"
 
 # Sevitali Tepesi
 
-Hatay'ın güler yüzü Sevitali Tepesi, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu güzelliği, Akdeniz Bölgesi'nin zengin doğası ile bir araya getirir. Her mevsim farklı bir güzelliğe bürünen Sevitali Tepesi, ziyaretçilerini doğanın içlerine davet eder. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir panorama sunar ve Hatay'ın doğal güzelliklerini keşfetme fırsatı verir.
+ Bu güzelliği, Akdeniz Bölgesi'nin zengin doğası ile bir araya getirir. Her mevsim farklı bir güzelliğe bürünen Sevitali Tepesi, ziyaretçilerini doğanın içlerine davet eder. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir panorama sunar ve Hatay'ın doğal güzelliklerini keşfetme fırsatı verir.
 
 ## Tarihçe
 

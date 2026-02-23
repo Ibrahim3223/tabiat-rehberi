@@ -33,9 +33,9 @@ Samsun'un doğusunda, şehrin kalabalığından uzak bir noktada, gizli bir hazi
 
 ## Tarihçe
 
-Samsun bölgesi, Türkiye'nin Karadeniz kıyısında yer alan zengin bir tarih ve kültür mirasına sahip bir bölge. Bu bölge, tarihi boyunca çeşitli uygarlıklara ev sahipliği yapmış; Hitit, Pers, Roma ve Osmanlı gibi medeniyetler burada yaşamış ve izler bırakmışlardır. 
+Samsun bölgesi, Türkiye'nin Karadeniz kıyısında yer alan zengin bir tarih ve kültür mirasına sahip bir bölge. Bu bölge, tarihi boyunca çeşitli uygarlıklara ev sahipliği yapmış; Hitit, Pers, Roma ve Osmanlı gibi medeniyetler burada yaşamış ve izler bırakmışlardır.
 
-"Tatlı Gölü" de bu bölgenin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Türkiye'de doğal alanlar, tarihin her döneminde insanların yaşamlarında önemli bir rol oynamışlardır. Bu tür göller ve ormanlar, insanların yerleşim yerleri, yaylacılık ve hayvancılık faaliyetleri için hayati önem taşımış, aynı zamanda ticaret yolları ve ulaşım ağları için de kritik noktalar olarak görev yapmıştır. 
+"Tatlı Gölü" de bu bölgenin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Türkiye'de doğal alanlar, tarihin her döneminde insanların yaşamlarında önemli bir rol oynamışlardır. Bu tür göller ve ormanlar, insanların yerleşim yerleri, yaylacılık ve hayvancılık faaliyetleri için hayati önem taşımış, aynı zamanda ticaret yolları ve ulaşım ağları için de kritik noktalar olarak görev yapmıştır.
 
 Bu bölgeler, sadece doğal güzellikleri ile değil, aynı zamanda tarihi ve kültürel zenginlikleriyle de ön plana çıkıyorlar. İnsanların bu doğal alanlarla kurdukları ilişki, yalnızca ekonomik faaliyetlerle sınırlı kalmıyor; aynı zamanda bu alanlar, insanların sosyal ve kültürel yaşamlarının da bir parçası haline geliyor. "Tatlı Gölü" ve çevresinin tarihi, Samsun bölgesinin genel tarihsel bağlamı içinde önemli bir yere sahip olup, bölgenin doğal ve kültürel zenginliklerini korumak için önemli bir çalışmanın necessity olduğunu gösteriyor.
 
@@ -53,7 +53,7 @@ Jeolojik açıdan incelendiğinde, Tatlı Gölü'nün çevresindeki coğrafya, k
 
 Tatlı Gölü, Samsun'un nemli iklimi ve gür ormanları ile çevrili bir doğal cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Gölün flora ve fauna zenginliği, ziyaretçilerini her mevsim farklı bir güzelliğe davet ediyor.
 
-İlkbaharda, gölün etrafındaki ormanlar rengarenk çiçeklere bürünürken, su kuşları yuvalarını kuruyor. Sonbaharda, göçmen kuşlar gölde konaklıyor ve besleniyorlar. Gölün su yüzeyini kaplayan su mercimekleri ve nilüferler, suyun temizliğini gösteriyor. 
+İlkbaharda, gölün etrafındaki ormanlar rengarenk çiçeklere bürünürken, su kuşları yuvalarını kuruyor. Sonbaharda, göçmen kuşlar gölde konaklıyor ve besleniyorlar. Gölün su yüzeyini kaplayan su mercimekleri ve nilüferler, suyun temizliğini gösteriyor.
 
 Gölde yaşayan memeliler, kuşlar ve sürüngenler, bu ekosistemin önemli bileşenleridir. Su kuşları, balıklar ve diğer su canlıları, gölün besin zincirinin temelini oluşturuyor. Gölün ekolojik değeri, yüksek biyoçeşitliliği ve su kuşları için önemli bir uğrak noktası olması nedeniyle büyük önem taşıyor.
 

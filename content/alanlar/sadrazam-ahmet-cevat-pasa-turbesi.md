@@ -1,7 +1,7 @@
 ---
 title: "Sadrazam Ahmet Cevat Paşa Türbesi"
 date: "2026-01-10T07:27:10.681Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391046"
 
 # Sadrazam Ahmet Cevat Paşa Türbesi
 
-Sadrazam Ahmet Cevat Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir türbe ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. İstanbul'un tarihi ve doğal güzellikleri arasında önemli bir yere sahip olan bu türbe ve plaj, ziyaretçilerini şehrin kalabalığından uzaklaşmaya davet ediyor. Burada, denizin serinliği ve tarihi atmosfer bir arada bulunuyor, ziyaretçilere huzurlu bir ortam sunuyor.
+Sadrazam Ahmet Cevat Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir türbe ve plaj alanıdır. İstanbul'un tarihi ve doğal güzellikleri arasında önemli bir yere sahip olan bu türbe ve plaj, ziyaretçilerini şehrin kalabalığından uzaklaşmaya davet ediyor. Burada, denizin serinliği ve tarihi atmosfer bir arada bulunuyor, ziyaretçilere huzurlu bir ortam sunuyor.
 
 ## Tarihçe
 

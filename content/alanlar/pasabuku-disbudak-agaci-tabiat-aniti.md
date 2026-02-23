@@ -22,7 +22,7 @@ wikidata_id: "Q6008904"
 
 # Paşabükü Dişbudak Ağacı Tabiat Anıtı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Paşabükü Dişbudak Ağacı Tabiat Anıtı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal alan, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle kaplı. Paşabükü Dişbudak Ağacı Tabiat Anıtı, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Burada, zengin fauna ve flora çeşitliliğiyle birlikte, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Paşabükü Dişbudak Ağacı Tabiat Anıtı, doğa severlerin kaçırmaması gereken bir destinasyon.
+ Bu doğal alan, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. Paşabükü Dişbudak Ağacı Tabiat Anıtı, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Burada, zengin fauna ve flora çeşitliliğiyle birlikte, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Paşabükü Dişbudak Ağacı Tabiat Anıtı, doğa severlerin kaçırmaması gereken bir destinasyon.
 
 ## Tarihçe
 

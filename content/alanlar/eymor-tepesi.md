@@ -28,7 +28,7 @@ wikidata_id: "Q31568058"
 
 # Eymor Tepesi
 
-Eymor Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Eymor Tepesi, Sivas'ın coğrafi yapısını ve tarihi değerlerini bir araya getiren önemli bir noktadır. Ziyaretçiler, bu tepeye çıktıklarında, Sivas'ın geniş ovasını ve tarihi yapılarını panoramik olarak görebilirler. Eymor Tepesi, hem yerli hem de yabancı turistler için bir çekim merkezi olarak dikkat çeker.
+Eymor Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Eymor Tepesi, Sivas'ın coğrafi yapısını ve tarihi değerlerini bir araya getiren önemli bir noktadır. Ziyaretçiler, bu tepeye çıktıklarında, Sivas'ın geniş ovasını ve tarihi yapılarını panoramik olarak görebilirler. Eymor Tepesi, hem yerli hem de yabancı turistler için bir çekim merkezi olarak dikkat çeker.
 
 ## Tarihçe
 

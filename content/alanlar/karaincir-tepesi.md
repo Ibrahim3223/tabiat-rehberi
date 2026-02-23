@@ -28,7 +28,7 @@ wikidata_id: "Q31389129"
 
 # Karaincir Tepesi
 
-Karaincir Tepesi, Bursa'nın eşsiz doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar, bu da yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepe, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekebilecek bir yer.
+Karaincir Tepesi, Bursa'nın eşsiz doğal güzelliklerinden biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepe, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekebilecek bir yer.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Karaincir Tepesi, Marmara Bölgesi'nde Bursa ilinde yer alır. Bu tepe, coğrafi
 
 ## Flora ve Fauna
 
-Karaincir Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Mevsimsel değişimler, bu bölgede farklı canlıların ortaya çıkmasına neden olur. İlkbahar ve yaz aylarında,tepelerin yeşillendirilmesine yardımcı olan bitki türleri, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünür. Bu bölgede, çeşitli hayvan türleri de yaşar, bu da bölgenin ekolojik zenginliğini gösterir. Karaincir Tepesi, doğa severlerin ve biyologların ilgisini çekebilecek bir yer.
+ Mevsimsel değişimler, bu bölgede farklı canlıların ortaya çıkmasına neden olur. İlkbahar ve yaz aylarında,tepelerin yeşillendirilmesine yardımcı olan bitki türleri, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünür. Bu bölgede, çeşitli hayvan türleri de yaşar, bu da bölgenin ekolojik zenginliğini gösterir. Karaincir Tepesi, doğa severlerin ve biyologların ilgisini çekebilecek bir yer.
 
 ## Ziyaret Bilgileri
 

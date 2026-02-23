@@ -1,7 +1,7 @@
 ---
 title: "Eski Hamam, Milas"
 date: "2026-01-09T23:47:11.579Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245808"
 
 # Eski Hamam, Milas
 
-Eski Hamam, Muğla'nın Milas ilçesinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Yeşil alanın içinde, ziyaretçilerin dinlenip eğlenebileceği birçok olanak bulunur. Eski Hamam, sakin ve huzurlu bir atmosferi ziyaretçilerine sunar. Bu plaj, doğaseverlerin ve sakin bir tatil geçirmek isteyenlerin gözdesidir. Eski Hamam'ın büyüleyici güzelliği, ziyaretçilerini her yıl tekrar çekmektedir.
+Eski Hamam, Muğla'nın Milas ilçesinde yer alan 140 hektarlık bir yeşil alandır. Yeşil alanın içinde, ziyaretçilerin dinlenip eğlenebileceği birçok olanak bulunur. Eski Hamam, sakin ve huzurlu bir atmosferi ziyaretçilerine sunar. Bu plaj, doğaseverlerin ve sakin bir tatil geçirmek isteyenlerin gözdesidir. Eski Hamam'ın büyüleyici güzelliği, ziyaretçilerini her yıl tekrar çekmektedir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Eski Hamam, ziyaretçilerine birçok olanak sunar. Bu plaj, sakin ve huzurlu bir
 ## İlginç Bilgiler
 
 - Eski Hamam, 140 hektarlık bir yeşil alandır.
-- Eski Hamam, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
+
 - Eski Hamam, sakin ve huzurlu bir atmosferi ziyaretçilerine sunar.
 - Eski Hamam, Ege Bölgesi'nin güzelliğini ziyaretçilerine sunar.
 - Eski Hamam, zengin bir flora ve faunaya sahiptir.

@@ -1,7 +1,7 @@
 ---
 title: "Acımusluk Hamamı Babıali"
 date: "2026-01-09T22:47:38.063Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738583"
 
 # Acımusluk Hamamı Babıali
 
-Acımusluk Hamamı Babıali, Fatih/İstanbul'da Marmara Bölgesi'nde yer alan tarihi bir hamam ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kapsar. Acımusluk Hamamı Babıali, İstanbul'un tarihi ve turistik mekanlarından biri olarak bilinir. Bu mekan, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Ayrıca, bu bölgede çeşitli etkinlikler ve aktiviteler düzenlenmektedir.
+Acımusluk Hamamı Babıali, Fatih/İstanbul'da Marmara Bölgesi'nde yer alan tarihi bir hamam ve plaj alanıdır. Acımusluk Hamamı Babıali, İstanbul'un tarihi ve turistik mekanlarından biri olarak bilinir. Bu mekan, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Ayrıca, bu bölgede çeşitli etkinlikler ve aktiviteler düzenlenmektedir.
 
 ## Tarihçe
 

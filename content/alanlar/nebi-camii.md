@@ -1,7 +1,7 @@
 ---
 title: "Nebi Camii"
 date: "2026-01-10T04:26:01.237Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q63372405"
 
 # Nebi Camii
 
-Nebi Camii, Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği noktada bulunan bir mekan. Sur/Diyarbakır'da yer alan bu alan, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Nebi Camii, tarihi ve doğal güzelliklerinin yanı sıra, ziyaretçilerine huzurlu bir ortam sunuyor. Bu mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyen ziyaretçilerin ilgisini çekiyor.
+Nebi Camii, Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği noktada bulunan bir mekan. Nebi Camii, tarihi ve doğal güzelliklerinin yanı sıra, ziyaretçilerine huzurlu bir ortam sunuyor. Bu mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyen ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108226114"
 
 # Sulu İn Kayalığı Sit Alanı
 
-Sulu İn Kayalığı Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için özel bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna tarafından çevrelenmiştir. Bu alan, hem doğa severler hem de tarih meraklıları için önemli bir cazibe merkezi. Sulu İn Kayalığı Sit Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir kaçış noktası.
+Sulu İn Kayalığı Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için özel bir destinasyon. Bu alan, hem doğa severler hem de tarih meraklıları için önemli bir cazibe merkezi. Sulu İn Kayalığı Sit Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir kaçış noktası.
 
 ## Tarihçe
 

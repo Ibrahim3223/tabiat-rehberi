@@ -51,9 +51,9 @@ Jeolojik açıdan bakıldığında, Hodul Dağı'nın fiziksel yapısı hakkınd
 
 ## Flora ve Fauna
 
-Hodul Dağı'nın flora ve fauna dünyası, step bitki örtüsünün ve bozkırın karakteristik özelliklerini taşır. İlbaharın gelmesiyle birlikte, dağ yamaçları çiçeklerle donanır ve renkli bir hal alır. Yükseklik zonlarına bağlı olarak, alpin flora çeşitlilik gösterir. 
+Hodul Dağı'nın flora ve fauna dünyası, step bitki örtüsünün ve bozkırın karakteristik özelliklerini taşır. İlbaharın gelmesiyle birlikte, dağ yamaçları çiçeklerle donanır ve renkli bir hal alır. Yükseklik zonlarına bağlı olarak, alpin flora çeşitlilik gösterir.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Göçmen kuşlar, sonbaharın gelmesiyle birlikte dağları ziyaret eder ve burada konaklar. Dağın ekosisteminde, av-avcı ilişkileri önemli bir rol oynar. Burada yaşayan canlılar, dağın özel koşullarına adapte olmuştur. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Göçmen kuşlar, sonbaharın gelmesiyle birlikte dağları ziyaret eder ve burada konaklar. Dağın ekosisteminde, av-avcı ilişkileri önemli bir rol oynar. Burada yaşayan canlılar, dağın özel koşullarına adapte olmuştur.
 
 Hodul Dağı'nın ekolojik değeri, step ve bozkır ekosistemlerinin korunması açısından önemlidir. Bu alan, kuraklığa adapte olmuş türlerin yaşam alanıdır ve bu nedenle koruma altına alınması gerekmektedir.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q35731312"
 
 # Büyükbuziya Tepesi
 
-Büyükbuziya Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir coğrafi noktadır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak ziyaretçilerini karşılar. Büyükbuziya Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak öne çıkar. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi panoramik olarak izleme imkanı sunar. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de barındıran önemli bir noktadır.
+Büyükbuziya Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir coğrafi noktadır. Büyükbuziya Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak öne çıkar. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi panoramik olarak izleme imkanı sunar. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de barındıran önemli bir noktadır.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Büyükbuziya Tepesi'ni ziyaret etmek, bölgenin doğal güzelliklerini ve coğr
 
 ## İlginç Bilgiler
 
-- Büyükbuziya Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
 - Tepenin yüksekliği ve genişliği, bölgenin coğrafi yapısını karakterize eder.
 - Büyükbuziya Tepesi, bölgenin fauna ve flora çeşitliliğini destekleyen önemli bir habitat olarak görev yapar.
 - Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkileyen faktörlerden biridir.

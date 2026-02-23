@@ -29,7 +29,7 @@ wikidata_id: "Q134728132"
 
 # Ankyra Bizans Mezarı
 
-Ankyra Bizans Mezarı, Ankara'nın Altındağ ilçesinde bulunan ve tarihin derinliklerine uzanan bir mekan. Bu tarihi mezar, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide yer alıyor. Geçmişin sırlarını barındıran bu mezar, ziyaretçilerini zamanın içinde bir yolculuğa çıkarıyor. Mezarın bulunduğu bölge, İç Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini yansıtıyor. Ankyra Bizans Mezarı, tarihin sayfalarında gizlenen hikayeleri keşfetmek isteyenler için bir hazine.
+Ankyra Bizans Mezarı, Ankara'nın Altındağ ilçesinde bulunan ve tarihin derinliklerine uzanan bir mekan. Geçmişin sırlarını barındıran bu mezar, ziyaretçilerini zamanın içinde bir yolculuğa çıkarıyor. Mezarın bulunduğu bölge, İç Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini yansıtıyor. Ankyra Bizans Mezarı, tarihin sayfalarında gizlenen hikayeleri keşfetmek isteyenler için bir hazine.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ankyra Bizans Mezarı, Bizans dönemine ait tarihi bir mezar olarak biliniyor. B
 
 ## Coğrafya
 
-Ankyra Bizans Mezarı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Bu bölge, genellikle bozkır ikliminin hakim olduğu bir alanda bulunuyor. Mezarın bulunduğu arazi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, mezar Ankara'nın Altındağ ilçesinde, şehrin merkezine yakın bir konumda yer alıyor. Bu konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Ankyra Bizans Mezarı'nın etrafı, tarihi ve kültürel zenginliklere sahip diğer önemli mekanlarla çevrili. Mezarın bulunduğu bölge, aynı zamanda doğal güzellikleri de barındırıyor. İç Anadolu Bölgesi'nin karakteristik bozkır manzaraları, mezarın çevresinde görülüyor. Bu coğrafi konumu, Ankyra Bizans Mezarı'nı ziyaret edenlerin hem tarihe hem de doğaya temas etmelerini sağlıyor.
+Ankyra Bizans Mezarı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Bu bölge, genellikle bozkır ikliminin hakim olduğu bir alanda bulunuyor. Coğrafi olarak, mezar Ankara'nın Altındağ ilçesinde, şehrin merkezine yakın bir konumda yer alıyor. Bu konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Ankyra Bizans Mezarı'nın etrafı, tarihi ve kültürel zenginliklere sahip diğer önemli mekanlarla çevrili. Mezarın bulunduğu bölge, aynı zamanda doğal güzellikleri de barındırıyor. İç Anadolu Bölgesi'nin karakteristik bozkır manzaraları, mezarın çevresinde görülüyor. Bu coğrafi konumu, Ankyra Bizans Mezarı'nı ziyaret edenlerin hem tarihe hem de doğaya temas etmelerini sağlıyor.
 
 ## Flora ve Fauna
 

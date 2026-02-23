@@ -1,7 +1,7 @@
 ---
 title: "Hekatomnos Anıt Mezarı"
 date: "2026-01-09T22:13:10.992Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -42,11 +42,11 @@ Hekatomnos Anıt Mezarı, Milas'ta yer alan bir tarihi mekan olarak, coğrafi ko
 
 ## Flora ve Fauna
 
-Hekatomnos Anıt Mezarı, sadece tarihi değerleri ile değil, aynı zamanda çevresindeki doğal güzellikleri ile de dikkat çekiyor. Bu anıt mezarın bulunduğu alan, çeşitli bitki türleri ile zengin bir flora sunuyor. Mevsimsel değişimler, bu flora çeşitliliğini daha da aument ediyor. Hekatomnos Anıt Mezarı, ziyaretçilerine bir yandan tarihi değerlerini sunarken, diğer yandan da doğal güzellikleri ile etkiliyor. Bu mekan, bir yandan tarihin sayfalarını açarken, diğer yandan da doğanın güzelliklerini sergiliyor. Hekatomnos Anıt Mezarı, flora ve fauna açısından zengin bir mekan olarak, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Hekatomnos Anıt Mezarı, sadece tarihi değerleri ile değil, aynı zamanda çevresindeki doğal güzellikleri ile de dikkat çekiyor. Bu anıt mezarın bulunduğu alan, çeşitli bitki türleri ile zengin bir flora sunuyor. Mevsimsel değişimler, bu flora çeşitliliğini daha da aument ediyor. Hekatomnos Anıt Mezarı, ziyaretçilerine bir yandan tarihi değerlerini sunarken, diğer yandan da doğal güzellikleri ile etkiliyor. Bu mekan, bir yandan tarihin sayfalarını açarken, diğer yandan da doğanın güzelliklerini sergiliyor.
 
 ## Ziyaret Bilgileri
 
-Hekatomnos Anıt Mezarı, ziyaretçilerine zengin bir deneyim sunuyor. Bu anıt mezarı ziyaret etmek için, Milas'a gitmek gerekiyor. Hekatomnos Anıt Mezarı, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Ziyaretçiler, bu anıt mezarı gezerken, tarihin sayfalarını açma fırsatı buluyorlar. Hekatomnos Anıt Mezarı, bir yandan tarihi değerlerini sunarken, diğer yandan da doğal güzellikleri ile etkiliyor. Bu mekan, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Hekatomnos Anıt Mezarı, ziyaretçilerine zengin bir deneyim sunuyor. Bu anıt mezarı ziyaret etmek için, Milas'a gitmek gerekiyor. Hekatomnos Anıt Mezarı, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Ziyaretçiler, bu anıt mezarı gezerken, tarihin sayfalarını açma fırsatı buluyorlar. Hekatomnos Anıt Mezarı, bir yandan tarihi değerlerini sunarken, diğer yandan da doğal güzellikleri ile etkiliyor.
 
 ## İlginç Bilgiler
 

@@ -48,10 +48,10 @@ Doğal güzellikleri ile dikkat çeken Alagün Adası, yaklaşık bir şehir blo
 
 ## Flora ve Fauna
 
-Alağün Adası, Muğla'nın eşsiz güzelliklerinden biri. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlkbaharın gelmesiyle birlikte, ada zeytinlikler ve çam ormanlarıyla kaplanıyor. Kıyı kesimlerde, tuzcul bitkiler ve dikenli çalılar hakim oluyor. 
-Deniz kuşları, ada üzerinde yuvalanıp üreme alanları bulabiliyor. Kış aylarında, göçmen kuşlar ada üzerinde konaklıyor. 
-Ada ekosisteminin izole yapısı, bir flora ve fauna oluşmasına neden oluyor. 
+Alağün Adası, Muğla'nın eşsiz güzelliklerinden biri. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlkbaharın gelmesiyle birlikte, ada zeytinlikler ve çam ormanlarıyla kaplanıyor. Kıyı kesimlerde, tuzcul bitkiler ve dikenli çalılar hakim oluyor.
+Deniz kuşları, ada üzerinde yuvalanıp üreme alanları bulabiliyor. Kış aylarında, göçmen kuşlar ada üzerinde konaklıyor.
+Ada ekosisteminin izole yapısı, bir flora ve fauna oluşmasına neden oluyor.
 Bu reasons ile, Alagün Adası, ekolojik açıdan önemli bir bölge olarak kabul ediliyor.
 
 ## Ziyaret Bilgileri

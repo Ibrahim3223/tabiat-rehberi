@@ -28,7 +28,7 @@ wikidata_id: "Q31390664"
 
 # Hırdırlık Tepesi
 
-Amasya'nın merkezinde yer alan Hırdırlık Tepesi, yaklaşık 140 metre yüksekliği ile şehrin en önemli doğal ve tarihi güzelliklerinden birini oluşturuyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve şehre hakim bir konumda bulunuyor. Hırdırlık Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak kabul ediliyor. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve ağaçlar bulunmakta, bu da ziyaretçilere yeşil bir ortam sunuyor.
+Amasya'nın merkezinde yer alan Hırdırlık Tepesi, yaklaşık 140 metre yüksekliği ile şehrin en önemli doğal ve tarihi güzelliklerinden birini oluşturuyor. Hırdırlık Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak kabul ediliyor. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve ağaçlar bulunmakta, bu da ziyaretçilere yeşil bir ortam sunuyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227555"
 
 # Bolu-Aladag Saricam 2
 
-Bolu-Aladag Saricam 2, Karadeniz Bölgesi'nde yer alan bir milli parktır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu doğa harikası, ziyaretçilerini büyülemektedir. Bolu-Aladag Saricam 2, doğa severler ve macera arayışında olanlar için ideal bir destinasyondur. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli park, hem doğa güzelliği hem de tarihi geçmişiyle dikkat çekmektedir. Ziyaretçiler, bu güzel mekanda doğayla iç içe olmanın keyfini çıkarabilirler.
+Bolu-Aladag Saricam 2, Karadeniz Bölgesi'nde yer alan bir milli parktır. Bolu-Aladag Saricam 2, doğa severler ve macera arayışında olanlar için ideal bir destinasyondur. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli park, hem doğa güzelliği hem de tarihi geçmişiyle dikkat çekmektedir. Ziyaretçiler, bu güzel mekanda doğayla iç içe olmanın keyfini çıkarabilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Aladag Saricam 2'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Bolu-Aladag Saricam 2, Karadeniz Bölgesi'nde yer alan bir milli parktır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu doğa harikası, coğrafi olarak zengin bir yapıya sahiptir. Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bölge, dağlık bir araziye sahip olup, ziyaretçiler buradaki yüksek dağların ve yeşil vadilerin güzelliğini keşfedebilirler. Bolu-Aladag Saricam 2, iklim olarak ılıman bir yapıya sahiptir. Milli parkın coğrafi konumu, ziyaretçilere doğayla iç içe olmanın keyfini çıkarma fırsatı sunmaktadır. Ziyaretçiler, bu güzel mekanda hem doğal güzelliği hem de coğrafi zenginliği keşfedebilirler.
+Bolu-Aladag Saricam 2, Karadeniz Bölgesi'nde yer alan bir milli parktır. Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bölge, dağlık bir araziye sahip olup, ziyaretçiler buradaki yüksek dağların ve yeşil vadilerin güzelliğini keşfedebilirler. Bolu-Aladag Saricam 2, iklim olarak ılıman bir yapıya sahiptir. Milli parkın coğrafi konumu, ziyaretçilere doğayla iç içe olmanın keyfini çıkarma fırsatı sunmaktadır. Ziyaretçiler, bu güzel mekanda hem doğal güzelliği hem de coğrafi zenginliği keşfedebilirler.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Bolu-Aladag Saricam 2'yi ziyaret etmek için, ziyaretçilerin milli parka ulaşm
 ## İlginç Bilgiler
 
 - Bolu-Aladag Saricam 2, 140 hektarlık yeşil alanına sahiptir.
-- Milli park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bolu-Aladag Saricam 2, Karadeniz Bölgesi'nde yer alan bir milli parktır.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Bolu-Aladag Saricam 2, doğa severler ve macera arayışında olanlar için ideal bir destinasyondur.

@@ -1,7 +1,7 @@
 ---
 title: "Nazilli Baba Türbesi"
 date: "2026-01-10T07:00:05.416Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390811"
 
 # Nazilli Baba Türbesi
 
- Nazilli Baba Türbesi, Pasinler'in merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir kültürel miras. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzelliklerinin keşfine davet ediyor. Bu özel mekan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmekte. Nazilli Baba Türbesi, ziyaretçilerini farklı bir dünyaya götürmeye hazır.
+ Nazilli Baba Türbesi, Pasinler'in merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir kültürel miras. Bu özel mekan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmekte. Nazilli Baba Türbesi, ziyaretçilerini farklı bir dünyaya götürmeye hazır.
 
 ## Tarihçe
 

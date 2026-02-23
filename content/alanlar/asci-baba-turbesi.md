@@ -1,7 +1,7 @@
 ---
 title: "Aşçı Baba Türbesi"
 date: "2026-01-10T05:42:58.877Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582357"
 
 # Aşçı Baba Türbesi
 
-Aşçı Baba Türbesi, Sarayönü'nün merkezinde yer alan ve Konya'nın önemli doğal güzelliklerinden biri olan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alana yayılmış durumda ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Aşçı Baba Türbesi, Konya'nın turistik açıdan önemli bir noktası olarak kabul ediliyor ve birçok ziyaretçi tarafından tercih ediliyor. Plajın güzelliği, temizliği ve doğal güzellikleri, ziyaretçilerin ilgisini çekiyor. Ayrıca, plajın yakınında bulunan Aşçı Baba Türbesi, tarihi ve kültürel açıdan önemli bir yapı olarak dikkat çekiyor.
+Aşçı Baba Türbesi, Sarayönü'nün merkezinde yer alan ve Konya'nın önemli doğal güzelliklerinden biri olan bir plajdır. Aşçı Baba Türbesi, Konya'nın turistik açıdan önemli bir noktası olarak kabul ediliyor ve birçok ziyaretçi tarafından tercih ediliyor. Plajın güzelliği, temizliği ve doğal güzellikleri, ziyaretçilerin ilgisini çekiyor. Ayrıca, plajın yakınında bulunan Aşçı Baba Türbesi, tarihi ve kültürel açıdan önemli bir yapı olarak dikkat çekiyor.
 
 ## Tarihçe
 

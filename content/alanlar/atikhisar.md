@@ -1,7 +1,7 @@
 ---
 title: "Atikhisar"
 date: "2026-01-09T18:25:39.371Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227811"
 
 # Atikhisar
 
-Atikhisar milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini sergileyen bir alan olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Atikhisar, geniş yeşil alanları, çeşitlilik gösteren flora ve fauna ile ziyaretçilerini bekliyor. Bu milli park, hem doğa severler hem de çevre bilincini desteklemek isteyenler için önemli bir destinasyon olarak öne çıkıyor.
+Atikhisar milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini sergileyen bir alan olarak dikkat çekiyor. Atikhisar, geniş yeşil alanları, çeşitlilik gösteren flora ve fauna ile ziyaretçilerini bekliyor. Bu milli park, hem doğa severler hem de çevre bilincini desteklemek isteyenler için önemli bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

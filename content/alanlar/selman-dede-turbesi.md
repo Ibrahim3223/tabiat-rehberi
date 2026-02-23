@@ -1,7 +1,7 @@
 ---
 title: "Selman Dede Türbesi"
 date: "2026-01-10T05:22:14.275Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sakarya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391708"
 
 # Selman Dede Türbesi
 
-Sakarya'nın Hendek ilçesinde, Marmara Bölgesi'nin kalbinde yer alan Selman Dede Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunar. Tarihi geçmişi ve manevi önemiyle dikkat çeken bu mekan, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker. Selman Dede Türbesi, Sakarya'nın önemli turizm noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından keşfedilir.
+Sakarya'nın Hendek ilçesinde, Marmara Bölgesi'nin kalbinde yer alan Selman Dede Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Tarihi geçmişi ve manevi önemiyle dikkat çeken bu mekan, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker. Selman Dede Türbesi, Sakarya'nın önemli turizm noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından keşfedilir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Selman Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Selman Dede Türbesi, Sakarya'nın Hendek ilçesinde, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Türbe, 140 hektarlık bir yeşil alan içinde bulunur ve etrafı çeşitli bitki türleriyle çevrilidir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Coğrafi konumu itibariyle, türbe ve çevresi, Marmara Bölgesi'nin karakteristik iklimini taşır. Bölge, nemli bir kara iklimine sahiptir ve dört mevsim belirgin olarak yaşanır. İlkbahar ve sonbahar mevsimleri, ziyaretçiler için en uygun zamanlardır, çünkü hava genellikle mildir ve yağış azdır. Kış mevsimi serin ve yağışlı, yaz mevsimi ise sıcak ve kurudur. Bu coğrafi özellikler, türbenin ve çevresinin güzelliğini ve zenginliğini etkiler. Türbenin yakınında, çeşitli su kaynakları ve doğal güzellikler bulunur, bu da ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanır.
+Selman Dede Türbesi, Sakarya'nın Hendek ilçesinde, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Türbe, 140 hektarlık bir yeşil alan içinde bulunur ve etrafı çeşitli bitki türleriyle çevrilidir. Coğrafi konumu itibariyle, türbe ve çevresi, Marmara Bölgesi'nin karakteristik iklimini taşır. Bölge, nemli bir kara iklimine sahiptir ve dört mevsim belirgin olarak yaşanır. İlkbahar ve sonbahar mevsimleri, ziyaretçiler için en uygun zamanlardır, çünkü hava genellikle mildir ve yağış azdır. Kış mevsimi serin ve yağışlı, yaz mevsimi ise sıcak ve kurudur. Bu coğrafi özellikler, türbenin ve çevresinin güzelliğini ve zenginliğini etkiler. Türbenin yakınında, çeşitli su kaynakları ve doğal güzellikler bulunur, bu da ziyaretçilerin doğayla iç içe bir deneyim yaşamalarına olanak tanır.
 
 ## Flora ve Fauna
 
-Selman Dede Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Türbenin etrafı, çam, meşe ve kayın gibi ağaçlarla çevrilidir ve bu ağaçlar, bölgenin karakteristik bitki örtüsünü oluşturur. Ayrıca, çeşitli çalı ve otsu bitkiler, türbenin çevresini süsler ve renk katar. Mevsimsel değişimlerle birlikte, bu bitki örtüsü değişir ve her mevsim, farklı bir güzellik sunar. İlkbahar, renkli çiçeklerin açtığı ve doğanın canlandığı bir mevsimdir, yaz ise yeşilin hakim olduğu ve bitkilerin en güçlü oldukları zamandır. Sonbahar, renkli yaprakların döküldüğü ve doğanın bir başka güzelliğini gösterdiği bir mevsimdir, kış ise sakin ve dingin bir atmosfer yaratır. Bu mevsimsel değişimler, türbenin ve çevresinin güzelliğini ve zenginliğini etkiler ve ziyaretçilere her mevsim farklı bir deneyim sunar.
+ Türbenin etrafı, çam, meşe ve kayın gibi ağaçlarla çevrilidir ve bu ağaçlar, bölgenin karakteristik bitki örtüsünü oluşturur. Ayrıca, çeşitli çalı ve otsu bitkiler, türbenin çevresini süsler ve renk katar. Mevsimsel değişimlerle birlikte, bu bitki örtüsü değişir ve her mevsim, farklı bir güzellik sunar. İlkbahar, renkli çiçeklerin açtığı ve doğanın canlandığı bir mevsimdir, yaz ise yeşilin hakim olduğu ve bitkilerin en güçlü oldukları zamandır. Sonbahar, renkli yaprakların döküldüğü ve doğanın bir başka güzelliğini gösterdiği bir mevsimdir, kış ise sakin ve dingin bir atmosfer yaratır. Bu mevsimsel değişimler, türbenin ve çevresinin güzelliğini ve zenginliğini etkiler ve ziyaretçilere her mevsim farklı bir deneyim sunar.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Selman Dede Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleriper
 
 - Selman Dede Türbesi, Sakarya'nın önemli turizm noktalarından biridir.
 - Türbe, 140 hektarlık bir yeşil alan içinde bulunur.
-- Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Türbenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır.
 - Selman Dede, bölgede saygın bir figür olarak bilinir ve türbesi, manevi bir merkez olarak hizmet eder.

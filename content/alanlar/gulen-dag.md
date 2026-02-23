@@ -51,11 +51,11 @@ Gülen Dağ, çevresindeki ekosistemle önemli bir ilişkiye sahiptir. Dağın y
 
 ## Flora ve Fauna
 
-Gülen Dağ, Antalya'nın muhteşem manzaralarına ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ve kuraklığa dayanıklı türlere ev sahipliği yapıyor. 
+Gülen Dağ, Antalya'nın muhteşem manzaralarına ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ve kuraklığa dayanıklı türlere ev sahipliği yapıyor.
 
-Bitki örtüsü, ilkbaharın gelmesiyle birlikte renkli çiçeklere bürünür. Kıyı ekosisteminin karakteristik türleri, dağ yamaçlarında kendine has bir güzellik sergiler. 
+Bitki örtüsü, ilkbaharın gelmesiyle birlikte renkli çiçeklere bürünür. Kıyı ekosisteminin karakteristik türleri, dağ yamaçlarında kendine has bir güzellik sergiler.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri ve yaban keçileri, dağların yüksek zonlarında yaşarken, göçmen kuşlar sonbaharda bu bölgeyi ziyaret ediyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri ve yaban keçileri, dağların yüksek zonlarında yaşarken, göçmen kuşlar sonbaharda bu bölgeyi ziyaret ediyor.
 
 Ekolojik değer, bu dağ ekosisteminin çeşitliliğinde ve kıyı ekosistemiyle olan ilişkisinde yatıyor. Bu alan, birçok canlı türünün yaşam alanını oluşturuyor ve koruma altına alınması gerekiyor.
 

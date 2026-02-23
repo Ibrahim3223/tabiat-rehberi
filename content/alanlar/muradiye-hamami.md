@@ -1,7 +1,7 @@
 ---
 title: "Muradiye Hamamı"
 date: "2026-01-09T22:51:52.006Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738637"
 
 # Muradiye Hamamı
 
-Muradiye Hamamı, Marmara Bölgesi'nin kalbinde yer alan Bursa'nın Osmangazi ilçesinde bulunmaktadır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini doğayla baş başa bırakmak isteyenler için ideal bir destinasyon. Muradiye Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış Bursa'nın zengin kültürel mirasını yansıtmaktadır. Bu bölgede, tarihle doğanın iç içe geçtiğine şahit olma mümkün.
+Muradiye Hamamı, Marmara Bölgesi'nin kalbinde yer alan Bursa'nın Osmangazi ilçesinde bulunmaktadır. Muradiye Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış Bursa'nın zengin kültürel mirasını yansıtmaktadır. Bu bölgede, tarihle doğanın iç içe geçtiğine şahit olma mümkün.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Muradiye Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bursa'nın Osm
 
 ## Coğrafya
 
-Muradiye Hamamı, Marmara Bölgesi'nin güzide şehri Bursa'nın Osmangazi ilçesinde yer almaktadır. Bu bölge, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Denizi'ne yakın bir konumda bulunmaktadır. Muradiye Hamamı'nın coğrafi konumu, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebileceğiniz bu bölgede, mevsimsel değişimler ziyaretçilere farklı güzellikler sunmaktadır. Kış aylarında ise, karla kaplı manzaralarıyla Muradiye Hamamı, ziyaretçilerine farklı bir güzelliği sunmaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini göstermektedir.
+Muradiye Hamamı, Marmara Bölgesi'nin güzide şehri Bursa'nın Osmangazi ilçesinde yer almaktadır. Muradiye Hamamı'nın coğrafi konumu, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebileceğiniz bu bölgede, mevsimsel değişimler ziyaretçilere farklı güzellikler sunmaktadır. Kış aylarında ise, karla kaplı manzaralarıyla Muradiye Hamamı, ziyaretçilerine farklı bir güzelliği sunmaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini göstermektedir.
 
 ## Flora ve Fauna
 

@@ -33,7 +33,7 @@ Sivas ilinin doğal güzelliklerini keşfederken Deli Dağ, ziyaretçilerini bü
 
 ## Tarihçe
 
-Sivas bölgesi, tarihin derinliklerine uzanan bir geçmişe sahiptir. Bu bölge, Hititlerden Osmanlı'ya kadar birçok uygarlığın izlerini taşıyor. "Deli Dağ" gibi doğal alanlar, bu tarihsel zenginliğin bir parçası olarak karşımıza çıkıyor. Türkiye'de, özellikle İç Anadolu Bölgesi'nde yer alan bu tür dağlık alanlar, histórik olarak önemli ticaret yolları ve yaylaklar olarak kullanılmıştır. 
+Sivas bölgesi, tarihin derinliklerine uzanan bir geçmişe sahiptir. Bu bölge, Hititlerden Osmanlı'ya kadar birçok uygarlığın izlerini taşıyor. "Deli Dağ" gibi doğal alanlar, bu tarihsel zenginliğin bir parçası olarak karşımıza çıkıyor. Türkiye'de, özellikle İç Anadolu Bölgesi'nde yer alan bu tür dağlık alanlar, tarihi olarak önemli ticaret yolları ve yaylaklar olarak kullanılmıştır.
 İnsanlar, yüzyıllar boyunca bu doğal güzelliklerin sunduğu imkanlardan faydalanmış, hayvancılık ve yaylacılık faaliyetlerini sürdürmüşlerdir. Sivas'ın coğrafi konumu, tarihi İpek Yolu'nun önemli bir bölümünü kapsıyor. Bu da, bölgenin tarih boyunca çeşitli medeniyetlerin buluşma noktası haline gelmesine neden oldu. "Deli Dağ" da, bu tarihsel bağlam içinde, Sivas'ın doğal ve kültürel mirasının önemli bir parçasını oluşturuyor.
 
 ## Coğrafya
@@ -48,7 +48,7 @@ Deli Dağ, çevresindeki diğer doğal alanlarla bağlantılı bir ekosistem iç
 
 ## Flora ve Fauna
 
-Deli Dağ, Sivas'ın step bitki örtüsü ve bozkırının hakim olduğu bölgesinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Deli Dağ, Sivas'ın step bitki örtüsü ve bozkırının hakim olduğu bölgesinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü açısından bakıldığında, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle kaplanıyor. Step bitkilerinin hakim olduğu bu bölgede, kuraklığa adapte türler de yer alıyor. Dağın yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artıyor.
 

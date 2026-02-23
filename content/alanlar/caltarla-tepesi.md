@@ -28,7 +28,7 @@ wikidata_id: "Q34823706"
 
 # Çaltarla Tepesi
 
-Çaltarla Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin kalabalığından kaçış için ideal bir destinasyon olan bir tepe. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir doğa cenneti. Bu güzel tepe, Ankara'nın önemli noktalarından biri olarak bilinir ve ziyaretçilerine şehrin panoramik manzarasını sunar. Çaltarla Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için mükemmel bir seçim.
+Çaltarla Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin kalabalığından kaçış için ideal bir destinasyon olan bir tepe. Bu güzel tepe, Ankara'nın önemli noktalarından biri olarak bilinir ve ziyaretçilerine şehrin panoramik manzarasını sunar. Çaltarla Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için mükemmel bir seçim.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228170"
 
 # Kurugöl
 
-Kurugöl, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık geniş bir alana yayılmış bir milli parktır. Bu doğa harikası, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini yaban hayatı ve yeşil doğasıyla büyüler. Kurugöl'ün etrafı, çeşitli ağaç türleriyle kaplı ormanlarla çevrilidir ve bu ormanlar, birçok farklı türde bitki ve hayvana ev sahipliği yapar. Gölün sakin suları, doğa severlerin ve fotoğrafçıların gözdesidir. Kurugöl'ü ziyaret ettiğinizde, yaban hayatı gözlemleyebilir, doğa yürüyüşleri yapabilir ve bu güzel ortamda dinlenebilirsiniz.
+Kurugöl, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık geniş bir alana yayılmış bir milli parktır. Kurugöl'ün etrafı, çeşitli ağaç türleriyle kaplı ormanlarla çevrilidir ve bu ormanlar, birçok farklı türde bitki ve hayvana ev sahipliği yapar. Gölün sakin suları, doğa severlerin ve fotoğrafçıların gözdesidir. Kurugöl'ü ziyaret ettiğinizde, yaban hayatı gözlemleyebilir, doğa yürüyüşleri yapabilir ve bu güzel ortamda dinlenebilirsiniz.
 
 ## Tarihçe
 

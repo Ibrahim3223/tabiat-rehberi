@@ -30,7 +30,7 @@ wikidata_id: "Q24884410"
 
 # Mihrabat Tabiat Parkı
 
-Mihrabat Tabiat Parkı, Marmara Bölgesi'nin kalbi olan İstanbul'un Beykoz ilçesinde yer alan 140 hektarlık bir yeşil alan. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Park, ziyaretçilerine doğayla iç içe olma ve şehrin stresinden uzaklaşma fırsatı sunuyor. Mihrabat Tabiat Parkı, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için bir başlangıç noktası olarak düşünülebilir.
+Mihrabat Tabiat Parkı, Marmara Bölgesi'nin kalbi olan İstanbul'un Beykoz ilçesinde yer alan 140 hektarlık bir yeşil alan. Park, ziyaretçilerine doğayla iç içe olma ve şehrin stresinden uzaklaşma fırsatı sunuyor. Mihrabat Tabiat Parkı, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için bir başlangıç noktası olarak düşünülebilir.
 
 ## Tarihçe
 

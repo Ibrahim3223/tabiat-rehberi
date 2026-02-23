@@ -1,7 +1,7 @@
 ---
 title: "Şehzade Mahmut Türbesi"
 date: "2026-01-10T06:04:57.764Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390479"
 
 # Şehzade Mahmut Türbesi
 
-Şehzade Mahmut Türbesi, Osmangazi, Bursa'da yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir mekan. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu türbeye gelenler, hem tarihi değerleri hem de çevredeki güzellikleri keşfetme fırsatı buluyorlar. Şehzade Mahmut Türbesi, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor.
+Şehzade Mahmut Türbesi, Osmangazi, Bursa'da yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir mekan. Bu türbeye gelenler, hem tarihi değerleri hem de çevredeki güzellikleri keşfetme fırsatı buluyorlar. Şehzade Mahmut Türbesi, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

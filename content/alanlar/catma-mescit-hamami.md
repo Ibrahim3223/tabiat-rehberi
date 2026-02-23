@@ -1,7 +1,7 @@
 ---
 title: "Çatma Mescit Hamamı"
 date: "2026-01-10T03:58:23.360Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q135429073"
 
 # Çatma Mescit Hamamı
 
-Çatma Mescit Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini barındıran Beyoğlu'nda yer alıyor. Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan bu hamam, yaklaşık 140 hektarlık bir alanda kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alanı sunuyor. Bu tarihi hamam, İstanbul'un tarihine ve kültürüne ışık tutan önemli bir mekan olarak kabul ediliyor. Çatma Mescit Hamamı, hem yerel halk hem de turistler tarafından ziyaret ediliyor ve tarihi önemini koruyor.
+Çatma Mescit Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini barındıran Beyoğlu'nda yer alıyor. Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan bu hamam, yaklaşık 140 hektarlık bir alanda kurulmuştur. Bu tarihi hamam, İstanbul'un tarihine ve kültürüne ışık tutan önemli bir mekan olarak kabul ediliyor. Çatma Mescit Hamamı, hem yerel halk hem de turistler tarafından ziyaret ediliyor ve tarihi önemini koruyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32196210"
 
 # Yürükemin Tepesi
 
-Yürükemin Tepesi, Karadeniz Bölgesi'nin Çorum ilinde bulunan ve doğa severlerin merakla ziyaret ettiği bir destinasyondur. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Yürükemin Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunar. Bu tepe, Çorum'un önemli bir turizm merkezi olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilmektedir.
+Yürükemin Tepesi, Karadeniz Bölgesi'nin Çorum ilinde bulunan ve doğa severlerin merakla ziyaret ettiği bir destinasyondur. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan sunar. Yürükemin Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunar. Bu tepe, Çorum'un önemli bir turizm merkezi olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389749"
 
 # Kirazkaya Tepesi
 
-Kirazkaya Tepesi, Kocaeli'nin eşsiz doğal güzelliklerini sunan bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası. Kirazkaya Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile zengin bir gezi deneyimi sunuyor. Bu tepe, Marmara Bölgesi'nin coğrafi özelliklerini etmek için ideal bir nokta.
+Kirazkaya Tepesi, Kocaeli'nin eşsiz doğal güzelliklerini sunan bir destinasyon. Kirazkaya Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile zengin bir gezi deneyimi sunuyor. Bu tepe, Marmara Bölgesi'nin coğrafi özelliklerini etmek için ideal bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kirazkaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Kirazkaya Tepesi, Marmara Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir nokta. Bu tepe, 140 hektarlık geniş bir alana yayılıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin zirvesinden, Marmara Denizi'nin ve çevredeki dağların muhteşem manzaraları izlenebiliyor. Kirazkaya Tepesi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, mevsimsel değişimlere göre farklı renkler ve güzellikler sunuyor. Kışın karla kaplı tepeler, ilkbaharda çiçeklerle dolu alanlar, yazın yeşilin her tonunu gösteren ormanlar ve sonbaharda altın renkli yapraklarla kaplı ağaçlar, her mevsim ziyaretçilere farklı bir güzellik sunuyor.
+Kirazkaya Tepesi, Marmara Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir nokta. Tepenin zirvesinden, Marmara Denizi'nin ve çevredeki dağların muhteşem manzaraları izlenebiliyor. Kirazkaya Tepesi, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, mevsimsel değişimlere göre farklı renkler ve güzellikler sunuyor. Kışın karla kaplı tepeler, ilkbaharda çiçeklerle dolu alanlar, yazın yeşilin her tonunu gösteren ormanlar ve sonbaharda altın renkli yapraklarla kaplı ağaçlar, her mevsim ziyaretçilere farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 

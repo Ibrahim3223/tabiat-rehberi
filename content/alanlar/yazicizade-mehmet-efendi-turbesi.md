@@ -1,7 +1,7 @@
 ---
 title: "Yazıcızade Mehmet Efendi Türbesi"
 date: "2026-01-10T04:55:47.262Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391519"
 
 # Yazıcızade Mehmet Efendi Türbesi
 
-Yazıcızade Mehmet Efendi Türbesi, Gelibolu'nun tarihi ve doğal güzellikleri ile çevrili bir mekan olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzelliklerin birleştiği bir noktaya götürüyor. Mehmet Efendi'nin hayatını ve çalışmalarını öğrenmek isteyenler için önemli bir merkez olan bu türbe, aynı zamanda Gelibolu'nun zengin tarihi geçmişi hakkında da bilgi sunuyor. Ziyaretçiler, bu tarihi mekanın atmosferini solurken, aynı zamanda çevredeki doğal güzelliği de keşfedebilirler.
+Yazıcızade Mehmet Efendi Türbesi, Gelibolu'nun tarihi ve doğal güzellikleri ile çevrili bir mekan olarak dikkat çekiyor. Mehmet Efendi'nin hayatını ve çalışmalarını öğrenmek isteyenler için önemli bir merkez olan bu türbe, aynı zamanda Gelibolu'nun zengin tarihi geçmişi hakkında da bilgi sunuyor. Ziyaretçiler, bu tarihi mekanın atmosferini solurken, aynı zamanda çevredeki doğal güzelliği de keşfedebilirler.
 
 ## Tarihçe
 

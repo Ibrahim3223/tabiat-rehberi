@@ -29,15 +29,15 @@ wikidata_id: "Q31387928"
 
 # Kabak Tepesi (Giresun, 40.41 Kuzey)
 
-Kabak Tepesi, Giresun'un güzergahında yer alan ve 40.41 Kuzey enleminde bulunan bir tepe olarak dikkat çekmektedir. Bu tepenin etrafındaki coğrafya, Karadeniz Bölgesi'nin karakteristik özelliklerini taşımaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, bu bölgeyi önemli kılan coisa, zengin flora ve faunaya ev sahipliği yapmasıdır. Kabak Tepesi, hem doğa severler hem de coğrafya meraklıları için bir cazibe merkezi olarak kabul edilebilir.
+Kabak Tepesi, Giresun'un güzergahında yer alan ve 40.41 Kuzey enleminde bulunan bir tepe olarak dikkat çekmektedir. Bu tepenin etrafındaki coğrafya, Karadeniz Bölgesi'nin karakteristik özelliklerini taşımaktadır. Kabak Tepesi, hem doğa severler hem de coğrafya meraklıları için bir cazibe merkezi olarak kabul edilebilir.
 
 ## Tarihçe
 
-Kabak Tepesi'nin tarihsel geçmişi, bölgenin genel tarihi ile paralellik göstermektedir. Yüzyıllar boyunca, bu bölge çeşitli medeniyetlerin etkisi altında kalmıştır. Bu tepenin eteklerinde ve çevresinde, tarihi kalıntılara rastlama mümkündür. Ancak, Kabak Tepesi'nin özel bir tarihi geçmişi hakkında somut bilgiler bulunmamaktadır. Buna rağmen, bu bölge, Karadeniz Bölgesi'nin tarihi ve kültürel zenginliklerini yansıtmaktadır. Bölgenin tarihi, coğrafyası ve kültürel özellikleri, birbiri ile sâu olarak bağlantılıdır. Bu nedenle, Kabak Tepesi, sadece bir doğal alan değil, aynı zamanda bir kültürel miras olarak da kabul edilebilir.
+Kabak Tepesi'nin tarihsel geçmişi, bölgenin genel tarihi ile paralellik göstermektedir. Yüzyıllar boyunca, bu bölge çeşitli medeniyetlerin etkisi altında kalmıştır. Bu tepenin eteklerinde ve çevresinde, tarihi kalıntılara rastlama mümkündür. Ancak, Kabak Tepesi'nin özel bir tarihi geçmişi hakkında somut bilgiler bulunmamaktadır. Buna rağmen, bu bölge, Karadeniz Bölgesi'nin tarihi ve kültürel zenginliklerini yansıtmaktadır. Bölgenin tarihi, coğrafyası ve kültürel özellikleri, birbiri ile derin olarak bağlantılıdır. Bu nedenle, Kabak Tepesi, sadece bir doğal alan değil, aynı zamanda bir kültürel miras olarak da kabul edilebilir.
 
 ## Coğrafya
 
-Kabak Tepesi, Giresun'un coğrafyasını karakterize eden bir tepe olarak, Karadeniz Bölgesi'nin genel coğrafi özelliklerine sahiptir. Bu bölge, dağlık ve engebeli bir araziye sahip olup, tepenin eteklerinde ve çevresinde, ormanlık alanlar ve vadiler bulunmaktadır. Kabak Tepesi, yaklaşık 140 hektarlık bir alanı kaplamakta ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, bu bölgenin coğrafi yapısı, flora ve faunayı çeşitlendirmektedir. Tepenin yüksekliği ve eğimli arazisi, verschillik bir mikro iklim oluşturmakta ve bu, çeşitli bitki türlerinin yetişmesine olanak tanımaktadır. Ayrıca, bu bölge, Karadeniz Bölgesi'nin karakteristik iklimini paylaşmaktadır ve bu, flora ve faunayı etkilemektedir. Kabak Tepesi, coğrafi konumu itibari ile, bir doğal sınır olarak da kabul edilebilir.
+Kabak Tepesi, Giresun'un coğrafyasını karakterize eden bir tepe olarak, Karadeniz Bölgesi'nin genel coğrafi özelliklerine sahiptir. Bu bölge, dağlık ve engebeli bir araziye sahip olup, tepenin eteklerinde ve çevresinde, ormanlık alanlar ve vadiler bulunmaktadır. Tepenin yüksekliği ve eğimli arazisi, verschillik bir mikro iklim oluşturmakta ve bu, çeşitli bitki türlerinin yetişmesine olanak tanımaktadır. Ayrıca, bu bölge, Karadeniz Bölgesi'nin karakteristik iklimini paylaşmaktadır ve bu, flora ve faunayı etkilemektedir. Kabak Tepesi, coğrafi konumu itibari ile, bir doğal sınır olarak da kabul edilebilir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kabak Tepesi, ziyaretçilere, doğa ve coğrafya meraklıları için bir cazibe 
 ## İlginç Bilgiler
 
 - Kabak Tepesi, 140 hektarlık bir alanı kaplamaktadır.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Kabak Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafyasını paylaşmaktadır.
 - Bu bölge, flora ve faunaya ev sahipliği yapmaktadır.
 - Kabak Tepesi, bir doğal sınır olarak da kabul edilebilir.

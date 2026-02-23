@@ -23,7 +23,7 @@ wikidata_id: "Q108227565"
 
 # Erzurum-Senkaya Saricam
 
-Erzurum-Senkaya Saricam, Doğu Anadolu Bölgesi'nin en cazip doğal alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu milli park, bölgenin coğrafi özelliklerini ve doğal güzelliklerini gözler önüne seriyor. Erzurum'un Senkaya ilçesinde bulunan bu milli park, özellikle doğa severler ve fotoğraf tutkunları için bir cennet olarak nitelendirilebilir. Ziyaretçiler, burada yer alan çeşitli bitki türleri ve zengin faunayı yakından keşfetme fırsatını buluyorlar.
+Erzurum-Senkaya Saricam, Doğu Anadolu Bölgesi'nin en cazip doğal alanlarından biri olarak karşımıza çıkıyor. Bu milli park, bölgenin coğrafi özelliklerini ve doğal güzelliklerini gözler önüne seriyor. Erzurum'un Senkaya ilçesinde bulunan bu milli park, özellikle doğa severler ve fotoğraf tutkunları için bir cennet olarak nitelendirilebilir. Ziyaretçiler, burada yer alan çeşitli bitki türleri ve zengin faunayı yakından keşfetme fırsatını buluyorlar.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Erzurum-Senkaya Saricam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Erzurum-Senkaya Saricam, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir milli park olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle kaplıdır. Bölgenin coğrafi yapısı, dağlık ve engebeli arazilerden oluşur. İklim, karasal iklim özellikleri gösterir ve ziyaretçilere dört mevsimi canlı canlı deneyimleme fırsatı sunar. Milli parkın çevresi, doğal güzellikleri ve yaban hayatının çeşitliliği ile ziyaretçileri etkileyen bir manzaraya sahiptir. Saricam, Erzurum'un Senkaya ilçesinde yer alır ve bölgenin coğrafi özelliklerini en iyi şekilde yansıtan bir doğal alan olarak bilinir. Coğrafi konumu ve doğal güzellikleri, Erzurum-Senkaya Saricam'ı doğa severler ve macera tutkunları için ideal bir destinasyon haline getiriyor.
+Erzurum-Senkaya Saricam, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir milli park olarak dikkat çekiyor. Bölgenin coğrafi yapısı, dağlık ve engebeli arazilerden oluşur. İklim, karasal iklim özellikleri gösterir ve ziyaretçilere dört mevsimi canlı canlı deneyimleme fırsatı sunar. Milli parkın çevresi, doğal güzellikleri ve yaban hayatının çeşitliliği ile ziyaretçileri etkileyen bir manzaraya sahiptir. Saricam, Erzurum'un Senkaya ilçesinde yer alır ve bölgenin coğrafi özelliklerini en iyi şekilde yansıtan bir doğal alan olarak bilinir. Coğrafi konumu ve doğal güzellikleri, Erzurum-Senkaya Saricam'ı doğa severler ve macera tutkunları için ideal bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Erzurum-Senkaya Saricam'ı ziyaret etmek, doğa severler ve macera tutkunları i
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Saricam, Erzurum'un Senkaya ilçesinde yer alıyor.
 - Milli park, çeşitli bitki türleri ve yaban hayatının çeşitliliği ile biliniyor.
 - Ziyaretçiler, milli parkta doğa yürüyüşleri, fotoğraf çekimi ve bitki ve yaban hayatıleme gibi etkinlikler yapabilirler.

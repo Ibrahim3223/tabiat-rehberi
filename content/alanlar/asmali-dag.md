@@ -54,7 +54,7 @@ Asmalı Dağ, Sivas'ın step bitki örtüsü ve bozkır ekosistemine ev sahipli�
 
 Bitki örtüsü olarak, kuraklığa adapte olan türler hakimdir. Mevsimsel değişimlerle birlikte, dağ yamaçları farklı bir görünüm kazanır. Dağların yüksek kesimlerinde, alpin flora çeşitliliği dikkat çekmektedir. Bu bitkiler, zorlu koşullara adapte olarak hayatta kalmayı başarmışlardır.
 
-Yaban hayatı olarak, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin bir parçasıdır. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yüksek kesimlerinde yaşamını sürdürürken, çeşitli kuş türleri ve sürüngenler de bu ekosistemin önemli bileşenleridir. Ekolojik değer olarak, Asmalı Dağ, bölgenin ekolojik dengesini korumak açısından önemlidir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik sağlığını korumak için gerekli görünmektedir.
+Yaban hayatı olarak, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin bir parçasıdır. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yüksek kesimlerinde yaşamını sürdürürken, çeşitli kuş türleri ve sürüngenler de bu ekosistemin önemli bileşenleridir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik sağlığını korumak için gerekli görünmektedir.
 
 ## Ziyaret Bilgileri
 

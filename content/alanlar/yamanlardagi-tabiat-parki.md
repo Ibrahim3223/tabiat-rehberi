@@ -30,7 +30,7 @@ wikidata_id: "Q108228266"
 
 # Yamanlardağı Tabiat Parkı
 
-Yamanldağı Tabiat Parkı, İzmir'in Karşıyaka ilçesinde yer alan 140 hektarlık bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir ortam sunuyor. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve dinlenme noktaları yer alıyor. Bu tabiat parkı, hem doğa severlerin hem de şehir hayatından kaçmak isteyenlerin sıklıkla ziyaret ettiği bir nokta olarak biliniyor.
+ Bu geniş yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir ortam sunuyor. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve dinlenme noktaları yer alıyor. Bu tabiat parkı, hem doğa severlerin hem de şehir hayatından kaçmak isteyenlerin sıklıkla ziyaret ettiği bir nokta olarak biliniyor.
 
 ## Tarihçe
 

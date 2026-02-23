@@ -1,7 +1,7 @@
 ---
 title: "Veli Abdullah Türbesi"
 date: "2026-01-10T06:17:29.626Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390661"
 
 # Veli Abdullah Türbesi
 
-Amasya'nın merkezinde yer alan Veli Abdullah Türbesi, şehrin tarihi ve kültürel zenginliğini yansıtan önemli bir dini merkez olarak karşımıza çıkar. 140 hektarlık bir alan üzerinde kurulan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Veli Abdullah Türbesi, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkarırken, aynı zamanda doğal güzellikleriyle de büyüler. Bu türbenin etrafındaki yeşillik alanlar ve doğal güzellikler, ziyaretçilere huzurlu bir atmosfer sunar.
+Amasya'nın merkezinde yer alan Veli Abdullah Türbesi, şehrin tarihi ve kültürel zenginliğini yansıtan önemli bir dini merkez olarak karşımıza çıkar. Veli Abdullah Türbesi, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkarırken, aynı zamanda doğal güzellikleriyle de büyüler. Bu türbenin etrafındaki yeşillik alanlar ve doğal güzellikler, ziyaretçilere huzurlu bir atmosfer sunar.
 
 ## Tarihçe
 

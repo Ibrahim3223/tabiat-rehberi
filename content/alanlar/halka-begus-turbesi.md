@@ -1,7 +1,7 @@
 ---
 title: "Halka Begüş Türbesi"
 date: "2026-01-10T05:35:23.471Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391377"
 
 # Halka Begüş Türbesi
 
-Halka Begüş Türbesi, Karatay, Konya'da bulunan bir tarihi türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunmaktadır. Türbenin tarihi geçmişi, bölgenin kültürel zenginliğini yansıtmaktadır. Halka Begüş Türbesi, doğal güzelliği ve tarihi önemi ile ziyaretçilerini çekmektedir. Bu alan, hem tarihi merakı olanlar hem de doğa severler için ideal bir destinasyondur.
+Halka Begüş Türbesi, Karatay, Konya'da bulunan bir tarihi türbe ve plaj alanıdır. Türbenin tarihi geçmişi, bölgenin kültürel zenginliğini yansıtmaktadır. Halka Begüş Türbesi, doğal güzelliği ve tarihi önemi ile ziyaretçilerini çekmektedir. Bu alan, hem tarihi merakı olanlar hem de doğa severler için ideal bir destinasyondur.
 
 ## Tarihçe
 

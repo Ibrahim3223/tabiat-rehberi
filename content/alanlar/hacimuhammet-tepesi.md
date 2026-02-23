@@ -28,7 +28,7 @@ wikidata_id: "Q31572525"
 
 # Hacımuhammet Tepesi
 
-Hacımuhammet Tepesi, Van şehrinin sınırları içerisinde yer alan ve ziyaretçilerini doğanın kucağına davet eden bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte bir doğa harikası. Hacımuhammet Tepesi, Van'ın merkezine yakın bir konumda bulunuyor ve şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler ve yaylalar, ziyaretçilere geleneksel yaşamın renklerini sunuyor. Burada, doğanın seslerini dinleyerek, stresten uzaklaşabilir ve doğa ile iç içe olabilirsiniz.
+Hacımuhammet Tepesi, Van şehrinin sınırları içerisinde yer alan ve ziyaretçilerini doğanın kucağına davet eden bir tepe. Hacımuhammet Tepesi, Van'ın merkezine yakın bir konumda bulunuyor ve şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler ve yaylalar, ziyaretçilere geleneksel yaşamın renklerini sunuyor. Burada, doğanın seslerini dinleyerek, stresten uzaklaşabilir ve doğa ile iç içe olabilirsiniz.
 
 ## Tarihçe
 

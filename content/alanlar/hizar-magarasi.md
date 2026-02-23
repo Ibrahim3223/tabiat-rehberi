@@ -28,7 +28,7 @@ wikidata_id: "Q49319261"
 
 # Hızar Mağarası
 
-Karabük'ün doğal güzelliklerini keşfetmek isteyenler için Hızar Mağarası önemli bir destinasyon. Bu jeopark, Karabük ilinde yer alıyor ve ziyaretçilerini doğanın içlerine davet ediyor. Doğal oluşumlar ve jeolojik yapılar ile zenginleştirilmiş bu alan, şehrin gürültüsünden uzaklaşmak için ideal bir kaçış noktası sunuyor. 
+Karabük'ün doğal güzelliklerini keşfetmek isteyenler için Hızar Mağarası önemli bir destinasyon. Bu jeopark, Karabük ilinde yer alıyor ve ziyaretçilerini doğanın içlerine davet ediyor. Doğal oluşumlar ve jeolojik yapılar ile zenginleştirilmiş bu alan, şehrin gürültüsünden uzaklaşmak için ideal bir kaçış noktası sunuyor.
 Hızar Mağarası, Karabük'ün turizm potansiyelini artırıyor.
 
 ## Tarihçe

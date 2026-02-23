@@ -30,7 +30,7 @@ wikidata_id: "Q1648964"
 
 # Isla del Trocadero
 
-İspanya'nın güneyinde, Endülüs özerk bölgesinin Cádiz ilinde yer alan Isla del Trocadero, histórik bir ada. Cádiz ili, Atlas Okyanusu'na bakan kıyı şeridiyle tanınır. Isla del Trocadero, bu bölgede önemli bir doğal ve kültürel miras olarak kabul edilir. Ada, İspanya'nın zengin tarihsel geçmişini yansıtan bir bölgede bulunur.
+İspanya'nın güneyinde, Endülüs özerk bölgesinin Cádiz ilinde yer alan Isla del Trocadero, tarihi bir ada. Cádiz ili, Atlas Okyanusu'na bakan kıyı şeridiyle tanınır. Isla del Trocadero, bu bölgede önemli bir doğal ve kültürel miras olarak kabul edilir. Ada, İspanya'nın zengin tarihsel geçmişini yansıtan bir bölgede bulunur.
 
 ## Tarihçe
 

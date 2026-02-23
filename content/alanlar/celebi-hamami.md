@@ -1,7 +1,7 @@
 ---
 title: "Çelebi Hamamı"
 date: "2026-01-09T23:47:55.688Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q133245707"
 
 # Çelebi Hamamı
 
-Çelebi Hamamı, İstanbul'un tarihi merkezi olan Fatih ilçesinde yer alan bir hamamdır. Bu tarihi yapı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresindeki diğer tarihi binalarla birlikte bir bütünü oluşturmaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Çelebi Hamamı, Marmara Bölgesi'nin en önemli tarihi mekanlarından biri olarak kabul edilir. Bu hamam, yüzyıllar boyunca insanların temizli ve sosyal aktiviteler için toplandığı bir yer olarak hizmet vermiştir. Çelebi Hamamı, tarihi geçmişi ve kültürel önemi ile ziyaretçilerini çekmektedir.
+Çelebi Hamamı, İstanbul'un tarihi merkezi olan Fatih ilçesinde yer alan bir hamamdır. Bu tarihi yapı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresindeki diğer tarihi binalarla birlikte bir bütünü oluşturmaktadır. Çelebi Hamamı, Marmara Bölgesi'nin en önemli tarihi mekanlarından biri olarak kabul edilir. Bu hamam, yüzyıllar boyunca insanların temizli ve sosyal aktiviteler için toplandığı bir yer olarak hizmet vermiştir. Çelebi Hamamı, tarihi geçmişi ve kültürel önemi ile ziyaretçilerini çekmektedir.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ wikidata_id: "Q133245707"
 
 ## Ziyaret Bilgileri
 
-Çelebi Hamamı, ziyaretçilerin kolayca ulaşabileceği bir yerdir. Bu hamam, İstanbul'un tarihi merkezi olan Fatih ilçesinde yer alır ve çeşitli toplu taşıma araçları ile ulaşılabilir. Çelebi Hamamı, özellikle tarih ve kültürel miras ile ilgilenen ziyaretçilerin ilgisini çeker. Bu hamam, ziyaretçilere, história ve kültürel önemi hakkında bilgi verir ve tarihi geçmişi hakkında fikir verir. Çelebi Hamamı, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve yaz aylarında, daha çok ziyaretçi çeker.
+Çelebi Hamamı, ziyaretçilerin kolayca ulaşabileceği bir yerdir. Bu hamam, İstanbul'un tarihi merkezi olan Fatih ilçesinde yer alır ve çeşitli toplu taşıma araçları ile ulaşılabilir. Çelebi Hamamı, özellikle tarih ve kültürel miras ile ilgilenen ziyaretçilerin ilgisini çeker. Bu hamam, ziyaretçilere, tarihi ve kültürel önemi hakkında bilgi verir ve tarihi geçmişi hakkında fikir verir. Çelebi Hamamı, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve yaz aylarında, daha çok ziyaretçi çeker.
 
 ## İlginç Bilgiler
 

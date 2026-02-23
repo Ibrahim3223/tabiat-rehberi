@@ -22,7 +22,7 @@ wikidata_id: "Q108227442"
 
 # Mugla-Koycegiz-Agla Kızılçam
 
-Muğla'nın Köyceğiz ilçesinde yer alan Agla Kızılçam Milli Parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini doğal güzelliklerle karşılıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Milli Park, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Agla Kızılçam Milli Parkı, hem doğa severlerin hem de turizm açısından önemli bir merkez olarak öne çıkıyor.
+Muğla'nın Köyceğiz ilçesinde yer alan Agla Kızılçam Milli Parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini doğal güzelliklerle karşılıyor. Milli Park, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Agla Kızılçam Milli Parkı, hem doğa severlerin hem de turizm açısından önemli bir merkez olarak öne çıkıyor.
 
 ## Tarihçe
 

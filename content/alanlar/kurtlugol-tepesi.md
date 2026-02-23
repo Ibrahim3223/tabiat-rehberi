@@ -28,7 +28,7 @@ wikidata_id: "Q32206160"
 
 # Kurtlugöl Tepesi
 
-Kurtlugöl Tepesi, Kars ilinin büyüleyici manzarasına ev sahipliği yapan bir tepe olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu bölge, hem doğal güzellikleri hem de tarihi önemiyle ziyaretçilerini cezbetmeyi başarıyor. Kurtlugöl Tepesi, Doğu Anadolu Bölgesi'nin zengin kültürel mirasının önemli bir parçası olarak kabul ediliyor. Bu tepe, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi zenginliklerini keşfetme fırsatı sunuyor.
+Kurtlugöl Tepesi, Kars ilinin büyüleyici manzarasına ev sahipliği yapan bir tepe olarak dikkat çekiyor. Bu bölge, hem doğal güzellikleri hem de tarihi önemiyle ziyaretçilerini cezbetmeyi başarıyor. Kurtlugöl Tepesi, Doğu Anadolu Bölgesi'nin zengin kültürel mirasının önemli bir parçası olarak kabul ediliyor. Bu tepe, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi zenginliklerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

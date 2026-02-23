@@ -22,7 +22,7 @@ wikidata_id: "Q108228995"
 
 # İKİZDERE MANLE ŞELALESİ TA
 
-İç Anadolu Bölgesi'nin kalbinde yer alan İkizdere Manle Şelalesi, doğa severlerin mutlaka ziyaret etmesi gereken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. İkizdere Manle Şelalesi, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından keşfediliyor. Şelalenin çevresindeki yeşil alanlar, piknik için ideal bir yer sunuyor ve ziyaretçiler, doğanın içinde yemek yeme keyfini yaşayabiliyorlar. İkizdere Manle Şelalesi, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel önemiyle de dikkat çekiyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan İkizdere Manle Şelalesi, doğa severlerin mutlaka ziyaret etmesi gereken bir destinasyon. İkizdere Manle Şelalesi, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından keşfediliyor. Şelalenin çevresindeki yeşil alanlar, piknik için ideal bir yer sunuyor ve ziyaretçiler, doğanın içinde yemek yeme keyfini yaşayabiliyorlar. İkizdere Manle Şelalesi, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel önemiyle de dikkat çekiyor.
 
 ## Tarihçe
 

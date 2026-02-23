@@ -52,9 +52,9 @@ Mevsimsel olarak, Ahlatlıbel Dağı'nın iklim karakteri Ankara'nın genel ikli
 
 ## Flora ve Fauna
 
-Ahlatlıbel'de, 1200 hektarlık bu dağlık alanda, step bitki örtüsü ve bozkırın karakteristik türleri hakimdir. İlkbaharın gelmesiyle, dağ yamaçları renkli çiçeklerle donanır. Yükseklik zonlarına bağlı olarak değişen alpin flora, bu bölgenin benzersiz özelliklerinden biridir. 
+Ahlatlıbel'de, 1200 hektarlık bu dağlık alanda, step bitki örtüsü ve bozkırın karakteristik türleri hakimdir. İlkbaharın gelmesiyle, dağ yamaçları renkli çiçeklerle donanır. Yükseklik zonlarına bağlı olarak değişen alpin flora, bu bölgenin benzersiz özelliklerinden biridir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, bölgenin kaya çıkıntıları ve ormanlık alanlarında yaşamlarını sürdürür. Kuşlar, özellikle göç mevsimlerinde, bu dağlık bölgeyi önemli bir uğrak noktası olarak kullanır. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, bölgenin kaya çıkıntıları ve ormanlık alanlarında yaşamlarını sürdürür. Kuşlar, özellikle göç mevsimlerinde, bu dağlık bölgeyi önemli bir uğrak noktası olarak kullanır.
 
 Ahlatlıbel'in ekolojik değeri, step ve bozkır ekosistemlerini korumasından kaynaklanır. Bu alan, kuraklığa adapte olmuş türlerin yaşam alanlarını sağlar ve bölge ekosisteminin dengesini korur.
 

@@ -1,7 +1,7 @@
 ---
 title: "Yeni Hamam, İskenderun"
 date: "2026-01-09T23:45:54.598Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245812"
 
 # Yeni Hamam, İskenderun
 
-Yeni Hamam Plajı, İskenderun'un merkezine yakın bir konumda yer alıyor. Bu plaj, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. İskenderun'un güneşli kıyılarında yer alan bu plaj, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. İnsanlar buraya hem denizinin güzelliğinden hem de tarihi atmosferinden dolayı geliyor. Yeni Hamam Plajı, İskenderun'un en önemli turistik noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi alıyor.
+Yeni Hamam Plajı, İskenderun'un merkezine yakın bir konumda yer alıyor. İskenderun'un güneşli kıyılarında yer alan bu plaj, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. İnsanlar buraya hem denizinin güzelliğinden hem de tarihi atmosferinden dolayı geliyor. Yeni Hamam Plajı, İskenderun'un en önemli turistik noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi alıyor.
 
 ## Tarihçe
 

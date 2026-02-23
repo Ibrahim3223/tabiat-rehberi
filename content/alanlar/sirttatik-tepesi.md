@@ -28,7 +28,7 @@ wikidata_id: "Q31542738"
 
 # Sırttatik Tepesi
 
-Sırttatik Tepesi, Diyarbakır'ın eşsiz doğal güzelliklerini sunan bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve 200 futbol sahası büyüklüğünde. Doğa severler için ideal bir nokta olan Sırttatik Tepesi, ziyaretçilerini kendine hayran bırakıyor. Güneşin doğuşu ve batışı, tepeyi ziyaret edenleri büyüleyen bir manzara sunuyor. Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir durak.
+Sırttatik Tepesi, Diyarbakır'ın eşsiz doğal güzelliklerini sunan bir destinasyon. Doğa severler için ideal bir nokta olan Sırttatik Tepesi, ziyaretçilerini kendine hayran bırakıyor. Güneşin doğuşu ve batışı, tepeyi ziyaret edenleri büyüleyen bir manzara sunuyor. Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir durak.
 
 ## Tarihçe
 

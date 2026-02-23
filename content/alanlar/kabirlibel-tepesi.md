@@ -28,7 +28,7 @@ wikidata_id: "Q31536249"
 
 # Kabırlibel Tepesi
 
-Kabırlibel Tepesi, Hatay ilinin sınırları içerisinde yer alan ve 140 hektarlık geniş bir yeşil alanı kapsayan bir tepe. Yaklaşık 200 futbol sahası büyüklüğündeki bu alan, bölgeye özgü çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepenin eteklerinde ve etrafında, yüzyıllar boyunca oluşmuş yerleşim yerleri ve tarihi kalıntılar bulunmakta. Bu bölgede yapılan arkeolojik kazılar, tarihi geçmişi hakkında önemli bilgiler sunuyor.
+Kabırlibel Tepesi, Hatay ilinin sınırları içerisinde yer alan ve 140 hektarlık geniş bir yeşil alanı kapsayan bir tepe. Tepenin eteklerinde ve etrafında, yüzyıllar boyunca oluşmuş yerleşim yerleri ve tarihi kalıntılar bulunmakta. Bu bölgede yapılan arkeolojik kazılar, tarihi geçmişi hakkında önemli bilgiler sunuyor.
 
 ## Tarihçe
 

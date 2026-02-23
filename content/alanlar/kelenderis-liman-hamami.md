@@ -1,7 +1,7 @@
 ---
 title: "Kelenderis Liman Hamamı"
 date: "2026-01-09T23:29:26.619Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739102"
 
 # Kelenderis Liman Hamamı
 
-Kelenderis Liman Hamamı, Mersin'in Aydıncık ilçesinde yer alan bir tarihi plaj ve hamam kompleksidir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve 200 futbol sahası büyüklüğüne eşittir. Bu büyük alan, ziyaretçilere geniş bir açık alan sunar. Kelenderis Liman Hamamı, tarihi ve doğal güzelliği ile dikkat çekmektedir. Ziyaretçiler, bu alanda hem tarihi yapıları inceleyebilir hem de denize girerek güneşin tadını çıkarabilirler. Ayrıca, bu bölgede 다양한 bitki türleri ve zengin fauna bulunur.
+Kelenderis Liman Hamamı, Mersin'in Aydıncık ilçesinde yer alan bir tarihi plaj ve hamam kompleksidir. Bu büyük alan, ziyaretçilere geniş bir açık alan sunar. Kelenderis Liman Hamamı, tarihi ve doğal güzelliği ile dikkat çekmektedir. Ziyaretçiler, bu alanda hem tarihi yapıları inceleyebilir hem de denize girerek güneşin tadını çıkarabilirler. Ayrıca, bu bölgede 다양한 bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Kelenderis Liman Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, en iyi 
 ## İlginç Bilgiler
 
 - Kelenderis Liman Hamamı, Mersin'in Aydıncık ilçesinde yer alır.
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Kelenderis Liman Hamamı, tarihi ve doğal güzelliği ile dikkat çekmektedir.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 - Ziyaretçiler, bu alanda denize girerek güneşin tadını çıkarabilirler.

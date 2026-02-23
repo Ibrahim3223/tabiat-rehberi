@@ -28,7 +28,7 @@ wikidata_id: "Q31390279"
 
 # Mahmutkoca Tepesi
 
-Mahmutkoca Tepesi, Adana ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğal güzellikleriyle cezbeder. Mahmutkoca Tepesi, yöre halkının sıkça ziyaret ettiği bir noktadır ve burada çeşitli bitki türleri ile karşılaşma mümkün. Tepenin eteklerinde ve çevresinde, tarihi geçmişi olan bazı yapılar da bulunmakta.
+Mahmutkoca Tepesi, Adana ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Mahmutkoca Tepesi, yöre halkının sıkça ziyaret ettiği bir noktadır ve burada çeşitli bitki türleri ile karşılaşma mümkün. Tepenin eteklerinde ve çevresinde, tarihi geçmişi olan bazı yapılar da bulunmakta.
 
 ## Tarihçe
 

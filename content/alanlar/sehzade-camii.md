@@ -1,7 +1,7 @@
 ---
 title: "Şehzade Camii"
 date: "2026-01-09T22:10:22.969Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q644677"
 
 # Şehzade Camii
 
-Şehzade Camii, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir noktadır. Fatih ilçesinde bulunan bu camii, Marmara Bölgesi'nin en önemli dini merkezlerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir açık alan sunar. Camii, tarihi geçmişi ve mimari güzelliği ile dikkat çekmektedir. Ziyaretçiler, burada hem dinî bir deneyim yaşayabilir hem de tarihi ve kültürel zenginliklerini keşfedebilir. Şehzade Camii, İstanbul'un kalbinde yer alan bir önemli noktadır ve şehrin tarihini ve kültürünü anlamak için ziyaret edilmesi gereken bir yerdir.
+Şehzade Camii, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir noktadır. Fatih ilçesinde bulunan bu camii, Marmara Bölgesi'nin en önemli dini merkezlerinden biridir. Camii, tarihi geçmişi ve mimari güzelliği ile dikkat çekmektedir. Ziyaretçiler, burada hem dinî bir deneyim yaşayabilir hem de tarihi ve kültürel zenginliklerini keşfedebilir. Şehzade Camii, İstanbul'un kalbinde yer alan bir önemli noktadır ve şehrin tarihini ve kültürünü anlamak için ziyaret edilmesi gereken bir yerdir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q644677"
 
 ## Coğrafya
 
-Şehzade Camii, İstanbul'un Fatih ilçesinde yer alır. Marmara Bölgesi'nin en büyük şehri olan İstanbul, tarihi ve kültürel zenginliklerinin yanı sıra coğrafi açıdan da önemli bir konuma sahiptir. Camii, şehrin merkezinde yer alır ve etrafında çeşitli tarihi ve kültürel noktalar bulunur. Şehzade Camii'nin coğrafi konumu, ziyaretçilere şehrin diğer önemli noktalarına kolayca ulaşma imkanı sunar. Camii, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu genişlik, ziyaretçilere geniş bir açık alan sunar. Şehzade Camii'nin bulunduğu bölge, İstanbul'un en eski ve tarihi bölgelerinden biridir ve camii, bu bölgenin en önemli yapıtlarından biridir. Camii, şehrin coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir noktadır.
+Şehzade Camii, İstanbul'un Fatih ilçesinde yer alır. Marmara Bölgesi'nin en büyük şehri olan İstanbul, tarihi ve kültürel zenginliklerinin yanı sıra coğrafi açıdan da önemli bir konuma sahiptir. Camii, şehrin merkezinde yer alır ve etrafında çeşitli tarihi ve kültürel noktalar bulunur. Şehzade Camii'nin coğrafi konumu, ziyaretçilere şehrin diğer önemli noktalarına kolayca ulaşma imkanı sunar. Şehzade Camii'nin bulunduğu bölge, İstanbul'un en eski ve tarihi bölgelerinden biridir ve camii, bu bölgenin en önemli yapıtlarından biridir. Camii, şehrin coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir noktadır.
 
 ## Flora ve Fauna
 

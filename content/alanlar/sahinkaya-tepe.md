@@ -50,7 +50,7 @@ Doğal bir oluşum olan Şahinkaya Tepe, jeolojik açıdan ilgi çekici bir yap�
 
 ## Flora ve Fauna
 
-Şahinkaya Tepe, Balıkesir'in dağlık bölgesinde yer alan bir ekosistemdir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Şahinkaya Tepe, Balıkesir'in dağlık bölgesinde yer alan bir ekosistemdir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar bu bölgeyi ziyaret eder. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarına ev sahipliği yapar.
 

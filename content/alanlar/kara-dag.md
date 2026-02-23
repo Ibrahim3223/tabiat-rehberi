@@ -56,7 +56,7 @@ Kara Dağ, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi 
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirir. Dağın yükseklik zonlarına uyum sağlamış dağ keçileri, kartallar ve diğer yırtıcı kuşlar, bu bölgenin önemli sakinleridir. Mevsimsel göçler, sonbaharda bu alanı önemli bir göç güzergahı haline getirir.
 
-Kara Dağ, ekolojik değerleri açısından önemli bir bölge olup, koruma altına alınması gereken bir alan olarak görülmektedir. Bu dağ ekosisteminin korunması, bölgede yaşayan canlıların yaşam alanlarını ve ekolojik dengesini korumak açısından önemlidir.
+Kara Dağ, ekolojik değerleri açısından önemli bir bölge olup, koruma altına alınması gereken bir alan olarak görülmektedir.
 
 ## Ziyaret Bilgileri
 

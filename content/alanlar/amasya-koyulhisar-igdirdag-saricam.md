@@ -1,7 +1,7 @@
 ---
 title: "Amasya-Koyulhisar-Igdirdag Saricam"
 date: "2026-01-09T20:50:03.496Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Amasya"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227544"
 
 # Amasya-Koyulhisar-Igdirdag Saricam
 
-Amasya-Koyulhisar-Igdirdag Saricam, Karadeniz Bölgesi'nde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplar. Bu bölge, tarihi ve doğal güzellikleri ile ziyaretçilerini kendine çeker. Milli park, Amasya ilinin Koyulhisar ilçesinde bulunur ve Igdirdag ile Saricam arasında yer alır. Saricam, çevresi ile birlikte toplam 140 hektarlık bir alanı kaplar. Bu geniş alan, ziyaretçilere doğa ile iç içe olma fırsatı sunar.
+Amasya-Koyulhisar-Igdirdag Saricam, Karadeniz Bölgesi'nde yer alan bir milli parktır. Bu bölge, tarihi ve doğal güzellikleri ile ziyaretçilerini kendine çeker. Milli park, Amasya ilinin Koyulhisar ilçesinde bulunur ve Igdirdag ile Saricam arasında yer alır. Saricam, çevresi ile birlikte toplam 140 hektarlık bir alanı kaplar. Bu geniş alan, ziyaretçilere doğa ile iç içe olma fırsatı sunar.
 
 ## Tarihçe
 

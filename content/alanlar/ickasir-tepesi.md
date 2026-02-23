@@ -28,7 +28,7 @@ wikidata_id: "Q34875535"
 
 # Içkasır Tepesi
 
-Içkasır Tepesi, Güneydoğu Anadolu Bölgesi'nin güzel illerinden biri olan Siirt'te yer alır. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini gözler önüne serer. Içkasır Tepesi, yaklaşık olarak 140 hektarlık bir alanı kaplar ve bu geniş alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş ve yeşil alan, ziyaretçilere doğayla iç içe olmayı ve bölgeyi keşfetmeyi sağlar. Içkasır Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgiler sunar.
+Içkasır Tepesi, Güneydoğu Anadolu Bölgesi'nin güzel illerinden biri olan Siirt'te yer alır. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini gözler önüne serer. Bu geniş ve yeşil alan, ziyaretçilere doğayla iç içe olmayı ve bölgeyi keşfetmeyi sağlar. Içkasır Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgiler sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Içkasır Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Içkasır Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını gözler önüne serer. Bu tepe, bölgenin önemli bir coğrafi ögesi olarak görev yapar. Içkasır Tepesi, yaklaşık olarak 140 hektarlık bir alanı kaplar ve bu geniş alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş ve yeşil alan, ziyaretçilere doğayla iç içe olmayı ve bölgeyi keşfetmeyi sağlar. Içkasır Tepesi, aynı zamanda bölgenin iklimi hakkında da bilgiler sunar. Bu tepe, bölgenin ikliminin característicasını taşır ve bu características, tepeyi daha da değerli kılar. Içkasır Tepesi, ziyaretçilere bölgenin coğrafi yapısını ve doğal güzelliklerini tanıma fırsatı sunar.
+Içkasır Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını gözler önüne serer. Bu tepe, bölgenin önemli bir coğrafi ögesi olarak görev yapar. Bu geniş ve yeşil alan, ziyaretçilere doğayla iç içe olmayı ve bölgeyi keşfetmeyi sağlar. Içkasır Tepesi, aynı zamanda bölgenin iklimi hakkında da bilgiler sunar. Bu tepe, bölgenin ikliminin característicasını taşır ve bu características, tepeyi daha da değerli kılar. Içkasır Tepesi, ziyaretçilere bölgenin coğrafi yapısını ve doğal güzelliklerini tanıma fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Içkasır Tepesi'ni ziyaret etmek, ziyaretçilere doğayla iç içe olmayı ve b
 ## İlginç Bilgiler
 
 - Içkasır Tepesi, yaklaşık olarak 140 hektarlık bir alanı kaplar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğüne eşittir.
+
 - Içkasır Tepesi, çeşitli bitki türlerini barındırır.
 - Bu tepe, çeşitli hayvan türlerini barındırır.
 - Içkasır Tepesi, bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.

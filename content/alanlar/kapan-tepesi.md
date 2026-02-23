@@ -29,11 +29,11 @@ wikidata_id: "Q31519387"
 
 # Kapan Tepesi
 
-Kapan Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin tarihi geçmişi ile doğal güzelliklerini bir araya getiren benzersiz bir nokta. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin panoramik manzarasıyla karşılıyor. Tepenin eteklerinde histórik yapılar ve yeşil alanlar bulunmakta, böylece hem doğa hem de tarih severlerin ilgisini çekmekte. Kapan Tepesi, Diyarbakır'ın önemli turizm noktalarından biri olarak kabul ediliyor ve her yıl çok sayıda ziyaretçi tarafından ziyaret ediliyor.
+Kapan Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin tarihi geçmişi ile doğal güzelliklerini bir araya getiren benzersiz bir nokta. Tepenin eteklerinde tarihi yapılar ve yeşil alanlar bulunmakta, böylece hem doğa hem de tarih severlerin ilgisini çekmekte. Kapan Tepesi, Diyarbakır'ın önemli turizm noktalarından biri olarak kabul ediliyor ve her yıl çok sayıda ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 
-Kapan Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçmiş durumda. Tarihi kaynaklara göre, bu bölge yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış. Tepenin üzerinde ve çevresinde yapılan arkeolojik kazılar, bölgenin zengin tarihini ortaya çıkarmış. Kapan Tepesi, Diyarbakır'ın stratejik konumu nedeniyle önemli bir gözlem ve savunma noktası olarak kullanılmış. Bu nedenle, tepe ve çevresinde histórik yapılar ve kalıntılara rastlama mümkün. Kapan Tepesi, Diyarbakır'ın tarihini ve kültürünü öğrenmek isteyenler için önemli bir ziyaret noktası.
+Kapan Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçmiş durumda. Tarihi kaynaklara göre, bu bölge yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış. Tepenin üzerinde ve çevresinde yapılan arkeolojik kazılar, bölgenin zengin tarihini ortaya çıkarmış. Kapan Tepesi, Diyarbakır'ın stratejik konumu nedeniyle önemli bir gözlem ve savunma noktası olarak kullanılmış. Bu nedenle, tepe ve çevresinde tarihi yapılar ve kalıntılara rastlama mümkün. Kapan Tepesi, Diyarbakır'ın tarihini ve kültürünü öğrenmek isteyenler için önemli bir ziyaret noktası.
 
 ## Coğrafya
 
@@ -45,12 +45,12 @@ Kapan Tepesi, Güneydoğu Anadolu Bölgesi'nin zengin flora ve faunasını barı
 
 ## Ziyaret Bilgileri
 
-Kapan Tepesi'ni ziyaret etmek, Diyarbakır'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası. Tepenin etrafında yer alan tarihi yapılar, yeşil alanlar ve şehir manzarası, ziyaretçilere zengin bir deneyim sunuyor. Ziyaretçiler, tepeye çıkarak şehrin panoramik manzarasının keyfini çıkarabiliyor. Tepenin etrafındaki histórik yapıları gezebilir, yeşil alanlarda piknik yapabilir ve bölgenin flora ve faunasını gözlemleyebilir. Kapan Tepesi, yılın her dönemi ziyaret edilebilir ancak ilkbahar ve sonbahar ayları, ziyaret için en ideal zamanlar.
+Kapan Tepesi'ni ziyaret etmek, Diyarbakır'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası. Tepenin etrafında yer alan tarihi yapılar, yeşil alanlar ve şehir manzarası, ziyaretçilere zengin bir deneyim sunuyor. Ziyaretçiler, tepeye çıkarak şehrin panoramik manzarasının keyfini çıkarabiliyor. Tepenin etrafındaki tarihi yapıları gezebilir, yeşil alanlarda piknik yapabilir ve bölgenin flora ve faunasını gözlemleyebilir. Kapan Tepesi, yılın her dönemi ziyaret edilebilir ancak ilkbahar ve sonbahar ayları, ziyaret için en ideal zamanlar.
 
 ## İlginç Bilgiler
 
 - Kapan Tepesi, Diyarbakır'ın en önemli turizm noktalarından biri.
-- Tepenin etrafında, histórik yapılar ve yeşil alanlar bulunuyor.
+- Tepenin etrafında, tarihi yapılar ve yeşil alanlar bulunuyor.
 - Kapan Tepesi, şehrin panoramik manzarasının keyfini çıkarmak için ideal bir nokta.
 - Bölge, flora ve fauna açısından zengin.
 - Tepenin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçmiş.

@@ -28,7 +28,7 @@ wikidata_id: "Q31389810"
 
 # Kaşyayla Tepesi
 
-Kaşyayla Tepesi, Çankırı ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe noktasıdır. Bu bölge, yaklaşık 140 hektarlık alanı kapsayan geniş bir yeşil alan sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilerin keyifle dolaşabileceği geniş bir mekân olduğunu anlama mümkündür. Kaşyayla Tepesi, ziyaretçilerine hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir.
+Kaşyayla Tepesi, Çankırı ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe noktasıdır. Bu bölge, yaklaşık 140 hektarlık alanı kapsayan geniş bir yeşil alan sunar. Kaşyayla Tepesi, ziyaretçilerine hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir.
 
 ## Tarihçe
 

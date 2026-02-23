@@ -1,7 +1,7 @@
 ---
 title: "Azep Bey Türbesi"
 date: "2026-01-10T05:25:02.691Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391701"
 
 # Azep Bey Türbesi
 
-Azep Bey Türbesi, Bursa'nın Osmangazi ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir mekan. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini histórik bir yolculuğa çıkarıyor. Azep Bey Türbesi, Marmara Bölgesi'nin en önemli tarihi mekanlarından biri olarak biliniyor. Bu mekan, ziyaretçilerine hem tarihi hem de doğayı birlikte deneyimleme fırsatı sunuyor.
+Azep Bey Türbesi, Bursa'nın Osmangazi ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir mekan. Azep Bey Türbesi, Marmara Bölgesi'nin en önemli tarihi mekanlarından biri olarak biliniyor. Bu mekan, ziyaretçilerine hem tarihi hem de doğayı birlikte deneyimleme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Azep Bey Türbesi'nin tarihi geçmişi, yüzyıllar boyunca süregelmiştir. Bu 
 
 ## Coğrafya
 
-Azep Bey Türbesi, Bursa'nın Osmangazi ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini histórik bir yolculuğa çıkarıyor. Azep Bey Türbesi, çevresi ağaçlarla çevrili ve yeşillikler içinde gizli bir hazine gibi duruyor. Mekan, ziyaretçilerine hem tarihi hem de doğayı birlikte deneyimleme fırsatı sunuyor. Coğrafi konumu itibarıyla, Azep Bey Türbesi, Bursa'nın önemli bir turizm merkezi olarak biliniyor. Bu mekan, ziyaretçilerine tarihi ve doğal güzellikleri bir araya getiren özel bir deneyim sunuyor.
+Azep Bey Türbesi, Bursa'nın Osmangazi ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Azep Bey Türbesi, çevresi ağaçlarla çevrili ve yeşillikler içinde gizli bir hazine gibi duruyor. Mekan, ziyaretçilerine hem tarihi hem de doğayı birlikte deneyimleme fırsatı sunuyor. Coğrafi konumu itibarıyla, Azep Bey Türbesi, Bursa'nın önemli bir turizm merkezi olarak biliniyor. Bu mekan, ziyaretçilerine tarihi ve doğal güzellikleri bir araya getiren özel bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

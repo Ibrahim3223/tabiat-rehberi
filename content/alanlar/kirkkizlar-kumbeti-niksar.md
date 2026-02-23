@@ -29,7 +29,7 @@ wikidata_id: "Q135582722"
 
 # Kırkkızlar Kümbeti, Niksar
 
-Kırkkızlar Kümbeti, Niksar, Tokat ilinin Niksar ilçesinde bulunan bir tarihi yapıdır. 140 hektarlık bir alan üzerinde kurulu olan bu yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kırkkızlar Kümbeti, Niksar'ın önemli tarihi yapılarından biri olarak kabul edilir ve her yıl binlerce turisti ağırlar. Bu yapı, tarih ve doğanın birleştiği noktada bulunan bir nokta olarak dikkat çeker. Ziyaretçilerin ilgisini çeken bu yapı, aynı zamanda bölgenin kültürel mirasının önemli bir parçasıdır.
+Kırkkızlar Kümbeti, Niksar, Tokat ilinin Niksar ilçesinde bulunan bir tarihi yapıdır. Kırkkızlar Kümbeti, Niksar'ın önemli tarihi yapılarından biri olarak kabul edilir ve her yıl binlerce turisti ağırlar. Bu yapı, tarih ve doğanın birleştiği noktada bulunan bir nokta olarak dikkat çeker. Ziyaretçilerin ilgisini çeken bu yapı, aynı zamanda bölgenin kültürel mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Kırkkızlar Kümbeti, Niksar'ı ziyaret etmek için en iyi zaman, ilkbahar ve s
 ## İlginç Bilgiler
 
 - Kırkkızlar Kümbeti, Niksar'ın önemli tarihi yapılarından biri olarak kabul edilir.
-- Bu yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Bu bölge, çeşitli medeniyetlerin hakimiyetinde kalmıştır.
 - Bu yapı, bölgenin kültürel mirasının önemli bir parçasıdır.
 - Bu bölge, zengin bir flora ve faunaya sahiptir.

@@ -53,7 +53,7 @@ Yağızlar Göleti, çevresindeki diğer su kaynakları ve ekosistemlerle bağla
 
 Yağızlar Göleti, Adana'nın maki bitki örtüsünün hakim olduğu bir bölgede, kuraklığa dayanıklı türlerin yaşadığı bir göldür. İlkbaharın gelmesiyle birlikte, göletin çevresindeki bitkiler renklenir ve çiçekler açar. Bu mevsimde, su kenarlarında ve sulak alanlarda various sulak alan bitkileri görülür.
 
-Gölet, su kuşları ve balıklar için önemli bir yaşam alanıdır. Sonbaharın gelmesiyle birlikte, göç eden kuşlar göleti ziyaret eder ve burada konaklarlar. Bu dönemde, göletin su yüzeyinde ve çevresinde çeşitli kuş türleri gözlemlenebilir. 
+Gölet, su kuşları ve balıklar için önemli bir yaşam alanıdır. Sonbaharın gelmesiyle birlikte, göç eden kuşlar göleti ziyaret eder ve burada konaklarlar. Bu dönemde, göletin su yüzeyinde ve çevresinde çeşitli kuş türleri gözlemlenebilir.
 
 Yağızlar Göleti, ekolojik açıdan önemli bir alandır. Göletin suyu, bitki örtüsü ve yaban hayatı arasında güçlü bir ilişki vardır. Bu ilişki, göletin ekosistemini dengede tutmaya yardımcı olur. Koruma durumu açısından, göletin doğal dengesi korunmaya çalışılır ve bu amaçla çeşitli önlemler alınır.
 

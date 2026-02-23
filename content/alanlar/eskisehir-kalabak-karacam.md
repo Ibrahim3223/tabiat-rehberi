@@ -22,7 +22,7 @@ wikidata_id: "Q108227942"
 
 # Eskişehir-Kalabak Karacam
 
-Eskişehir-Kalabak Karacam milli parkı, İç Anadolu Bölgesi'nin göbeğinde yer alan Eskişehir ilinin sınırları içerisinde bulunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak niteliğinde. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliklerini sunuyor. Kalabak Karacam, Eskişehir'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Eskişehir-Kalabak Karacam milli parkı, İç Anadolu Bölgesi'nin göbeğinde yer alan Eskişehir ilinin sınırları içerisinde bulunuyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliklerini sunuyor. Kalabak Karacam, Eskişehir'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

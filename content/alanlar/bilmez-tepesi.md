@@ -28,7 +28,7 @@ wikidata_id: "Q31387631"
 
 # Bilmez Tepesi
 
-Hakkari ilinin doğal güzellikleri arasında yer alan Bilmez Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak ziyaretçilerini ağırlıyor. Bu tepe, doğa severlerin hayal ettiği manzaralara ev sahipliği yapıyor. Bilmez Tepesi, ziyaretçilerini bekliyor. Doğu Anadolu Bölgesi'nin wichtığı bu tepe, doğa severlerin hayal ettiği manzaralara ev sahipliği yapıyor. Bilmez Tepesi, Hakkari'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğa severler, bu tepeyi ziyaret ederek doğal güzellikleri keşfedebilirler.
+ Bu tepe, doğa severlerin hayal ettiği manzaralara ev sahipliği yapıyor. Bilmez Tepesi, ziyaretçilerini bekliyor. Doğu Anadolu Bölgesi'nin wichtığı bu tepe, doğa severlerin hayal ettiği manzaralara ev sahipliği yapıyor. Bilmez Tepesi, Hakkari'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğa severler, bu tepeyi ziyaret ederek doğal güzellikleri keşfedebilirler.
 
 ## Tarihçe
 

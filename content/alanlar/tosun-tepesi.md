@@ -28,7 +28,7 @@ wikidata_id: "Q31385403"
 
 # Tosun Tepesi
 
-Tosun Tepesi, Diyarbakır'ın güneydoğu kesiminde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Tosun Tepesi, aynı zamanda Diyarbakır'ın önemli tarihi geçmişi ile de bilinir. Bu tepenin bulunduğu bölgede, geçmişten günümüze birçok medeniyet yaşamıştır.
+Tosun Tepesi, Diyarbakır'ın güneydoğu kesiminde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Tosun Tepesi, aynı zamanda Diyarbakır'ın önemli tarihi geçmişi ile de bilinir. Bu tepenin bulunduğu bölgede, geçmişten günümüze birçok medeniyet yaşamıştır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tosun Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihinde önemli bir yer tut
 
 ## Coğrafya
 
-Tosun Tepesi, Diyarbakır'ın güneydoğu kesiminde yer alan bir tepe olup, coğrafi konumu itibarıyla önemli bir noktada bulunur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıdadır. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösterir. Tepenin iklimi, genel olarak ılımandır ve yaz aylarında sıcaklık, 25 derecenin üzerine çıkabilir. Kış aylarında ise sıcakklık, 0 derecenin altına düşebilir.
+Tosun Tepesi, Diyarbakır'ın güneydoğu kesiminde yer alan bir tepe olup, coğrafi konumu itibarıyla önemli bir noktada bulunur. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıdadır. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösterir. Tepenin iklimi, genel olarak ılımandır ve yaz aylarında sıcaklık, 25 derecenin üzerine çıkabilir. Kış aylarında ise sıcakklık, 0 derecenin altına düşebilir.
 
 ## Flora ve Fauna
 

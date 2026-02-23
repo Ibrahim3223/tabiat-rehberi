@@ -1,7 +1,7 @@
 ---
 title: "Ana Sultan Türbesi"
 date: "2026-01-10T05:25:36.792Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391749"
 
 # Ana Sultan Türbesi
 
-Marmara Bölgesi'nin güzide yerlerinden biri olan Ana Sultan Türbesi, tarihi ve doğası ile ziyaretçilerini büyülüyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok gezi severin ilgi odağı oluyor. Tarihi geçmişi ile dikkat çeken bu bölge, aynı zamanda zengin fauna ve florası ile doğa severlerin de gözdesi. Bölgenin güzelliği ve tarihi önemi, ziyaretçilere benzersiz bir deneyim sunuyor.
+Marmara Bölgesi'nin güzide yerlerinden biri olan Ana Sultan Türbesi, tarihi ve doğası ile ziyaretçilerini büyülüyor. Tarihi geçmişi ile dikkat çeken bu bölge, aynı zamanda zengin fauna ve florası ile doğa severlerin de gözdesi. Bölgenin güzelliği ve tarihi önemi, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ana Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete
 
 ## Coğrafya
 
-Ana Sultan Türbesi, Marmara Bölgesi'nin Keles ilçesinde bulunuyor. Bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok doğal güzelliğe ev sahipliği yapıyor. Bölgenin coğrafi yapısı, ziyaretçilere birçok faaliyet olanakları sunuyor. Bölge, zengin fauna ve florası ile dikkat çekiyor. Çeşitli bitki türleri ve hayvanlar, bölgenin doğal güzelliğini artırıyor. İklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Bölge, dört mevsim ziyaret edilebilir ve her mevsim, ziyaretçilere farklı güzellikler sunuyor.
+Ana Sultan Türbesi, Marmara Bölgesi'nin Keles ilçesinde bulunuyor. Bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Bölgenin coğrafi yapısı, ziyaretçilere birçok faaliyet olanakları sunuyor. Bölge, zengin fauna ve florası ile dikkat çekiyor. Çeşitli bitki türleri ve hayvanlar, bölgenin doğal güzelliğini artırıyor. İklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Bölge, dört mevsim ziyaret edilebilir ve her mevsim, ziyaretçilere farklı güzellikler sunuyor.
 
 ## Flora ve Fauna
 

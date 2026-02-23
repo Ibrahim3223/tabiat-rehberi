@@ -28,7 +28,7 @@ wikidata_id: "Q31388548"
 
 # Yumrukaya Tepesi
 
-Yumrukaya Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Erzurum'un güzel manzaralarını keşfetmek isteyenler için keyifli bir gezi noktasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir görüş açısı sunar. Yumrukaya Tepesi, bölgenin tarihi ve doğal güzelliklerini bir araya getiren önemli bir noktadır.
+Yumrukaya Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Erzurum'un güzel manzaralarını keşfetmek isteyenler için keyifli bir gezi noktasıdır. Yumrukaya Tepesi, bölgenin tarihi ve doğal güzelliklerini bir araya getiren önemli bir noktadır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Bedreddin Türbesi, Şenköy"
 date: "2026-01-10T06:36:05.630Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735184"
 
 # Şeyh Bedreddin Türbesi, Şenköy
 
-Şeyh Bedreddin Türbesi, Şenköy plajının yakınında yer alır ve Muğla'nın Milas ilçesinde bulunur. Bu bölge, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir yerdir. Şeyh Bedreddin Türbesi, tarihi ve kültürel önemi nedeniyle ziyaretçilerin ilgisini çeker. Şenköy plajı ise, denize girerek güneşin tadını çıkarmak isteyenlerin keyif alacağı bir yerdir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, doğal güzellikleri ile dikkat çeker. Şeyh Bedreddin Türbesi ve Şenköy plajı, Muğla'nın Milas ilçesinde yer alır ve ziyaretçilere zengin bir deneyim sunar.
+Şeyh Bedreddin Türbesi, Şenköy plajının yakınında yer alır ve Muğla'nın Milas ilçesinde bulunur. Bu bölge, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir yerdir. Şeyh Bedreddin Türbesi, tarihi ve kültürel önemi nedeniyle ziyaretçilerin ilgisini çeker. Şenköy plajı ise, denize girerek güneşin tadını çıkarmak isteyenlerin keyif alacağı bir yerdir. Şeyh Bedreddin Türbesi ve Şenköy plajı, Muğla'nın Milas ilçesinde yer alır ve ziyaretçilere zengin bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q134735184"
 
 ## Coğrafya
 
-Şeyh Bedreddin Türbesi ve Şenköy plajı, Muğla'nın Milas ilçesinde yer alır. Bu bölge, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir yerdir. Şenköy plajı, denize girerek güneşin tadını çıkarmak isteyenlerin keyif alacağı bir yerdir. Plajın yakınında yer alan Şeyh Bedreddin Türbesi, tarihi ve kültürel önemi nedeniyle ziyaretçilerin ilgisini çeker. Bu bölge, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzellikleri ile dikkat çeker. Şenköy plajı, Ege Denizi'nin kıyısında yer alır ve ziyaretçilere keyifli bir expérience sunar. Bu bölge, Muğla'nın Milas ilçesinde yer alır ve ziyaretçilere zengin bir deneyim sunar. Şeyh Bedreddin Türbesi ve Şenköy plajı, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar.
+Şeyh Bedreddin Türbesi ve Şenköy plajı, Muğla'nın Milas ilçesinde yer alır. Bu bölge, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir yerdir. Şenköy plajı, denize girerek güneşin tadını çıkarmak isteyenlerin keyif alacağı bir yerdir. Plajın yakınında yer alan Şeyh Bedreddin Türbesi, tarihi ve kültürel önemi nedeniyle ziyaretçilerin ilgisini çeker. Şenköy plajı, Ege Denizi'nin kıyısında yer alır ve ziyaretçilere keyifli bir deneyim sunar. Bu bölge, Muğla'nın Milas ilçesinde yer alır ve ziyaretçilere zengin bir deneyim sunar. Şeyh Bedreddin Türbesi ve Şenköy plajı, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ wikidata_id: "Q134735184"
 
 ## Ziyaret Bilgileri
 
-Şeyh Bedreddin Türbesi ve Şenköy plajı, ziyaretçilere zengin bir deneyim sunar. Bu bölge, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir yerdir. Şenköy plajı, denize girerek güneşin tadını çıkarmak isteyenlerin keyif alacağı bir yerdir. Şeyh Bedreddin Türbesi, tarihi ve kültürel önemi nedeniyle ziyaretçilerin ilgisini çeker. Bu bölge, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzellikleri ile dikkat çeker. Ziyaretçiler, bu bölgeyi ziyaret ederek hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar.
+Şeyh Bedreddin Türbesi ve Şenköy plajı, ziyaretçilere zengin bir deneyim sunar. Bu bölge, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir yerdir. Şenköy plajı, denize girerek güneşin tadını çıkarmak isteyenlerin keyif alacağı bir yerdir. Şeyh Bedreddin Türbesi, tarihi ve kültürel önemi nedeniyle ziyaretçilerin ilgisini çeker. Ziyaretçiler, bu bölgeyi ziyaret ederek hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar.
 
 ## İlginç Bilgiler
 
 - Şeyh Bedreddin Türbesi, tarihi geçmişi ile dikkat çeker.
 - Şenköy plajı, denize girerek güneşin tadını çıkarmak isteyenlerin keyif alacağı bir yerdir.
-- Bu bölge, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzellikleri ile dikkat çeker.
+
 - Şeyh Bedreddin Türbesi ve Şenköy plajı, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve tarihi geçmişi ile zengin bir kültürel mirasa sahiptir.

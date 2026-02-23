@@ -28,7 +28,7 @@ wikidata_id: "Q31554964"
 
 # Galucirgali Tepesi
 
-Galucirgali Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan ve bölgenin en yüksek noktalarından biri olarak bilinen bir tepe. Bu tepe, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplı. Galucirgali Tepesi, doğal güzellikleri ve zengin flora ile fauna çeşitliliğiyle dikkat çekiyor. Bu tepenin etrafında, çeşitli yürüyüş parkurları ve manzaralı noktalar bulunmakta.
+Galucirgali Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan ve bölgenin en yüksek noktalarından biri olarak bilinen bir tepe. Galucirgali Tepesi, doğal güzellikleri ve zengin flora ile fauna çeşitliliğiyle dikkat çekiyor. Bu tepenin etrafında, çeşitli yürüyüş parkurları ve manzaralı noktalar bulunmakta.
 
 ## Tarihçe
 

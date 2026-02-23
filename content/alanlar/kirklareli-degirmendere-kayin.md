@@ -22,15 +22,15 @@ wikidata_id: "Q108227257"
 
 # Kirklareli-Degirmendere Kayin
 
-Kirklareli-Degirmendere Kayin milli parkı, Marmara Bölgesi'nin önemli güzelliklerinden biridir. 140 hektarlık geniş bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde olup, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu milli park, yaban hayatı koruma ve doğayı korumak amacıyla kurulmuştur. Kirklareli ilinin güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Degirmendere Kayin, ziyaretçilerine doğayla iç içe bir deneyim sunar.
+Kirklareli-Degirmendere Kayin milli parkı, Marmara Bölgesi'nin önemli güzelliklerinden biridir. Bu milli park, yaban hayatı koruma ve doğayı korumak amacıyla kurulmuştur. Kirklareli ilinin güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Degirmendere Kayin, ziyaretçilerine doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 
-Kirklareli-Degirmendere Kayin milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve doğal güzelliği ile ön plana çıkmıştır. Milli parkın kurulması, bölgenin doğal zenginliklerini koruma ve gelecek nesillere aktarmak amacıyla olmuştur. Degirmendere Kayin, bugün ziyaretçilerine hem histórik hem de doğal güzellikleri sunan bir destinasyon olarak dikkat çekmektedir. Bu milli park, Marmara Bölgesi'nin önemli bir turizm merkezi olarak kabul edilir.
+Kirklareli-Degirmendere Kayin milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve doğal güzelliği ile ön plana çıkmıştır. Milli parkın kurulması, bölgenin doğal zenginliklerini koruma ve gelecek nesillere aktarmak amacıyla olmuştur. Degirmendere Kayin, bugün ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan bir destinasyon olarak dikkat çekmektedir. Bu milli park, Marmara Bölgesi'nin önemli bir turizm merkezi olarak kabul edilir.
 
 ## Coğrafya
 
-Kirklareli-Degirmendere Kayin milli parkı, Marmara Bölgesi'nde yer alır ve coğrafi olarak zengin bir yapıya sahiptir. Bu bölge, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Milli parkın coğrafyası, çeşitli bitki türleri ve yaban hayatı ile karakterizedir. Degirmendere Kayin, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunar. İlkbahar ve yaz aylarında yeşilin çeşitli tonlarını, sonbahar ve kış aylarında ise renkli bir manzarayı sunar. Bu milli park, doğa severler için ideal bir destinasyondur.
+Kirklareli-Degirmendere Kayin milli parkı, Marmara Bölgesi'nde yer alır ve coğrafi olarak zengin bir yapıya sahiptir. Milli parkın coğrafyası, çeşitli bitki türleri ve yaban hayatı ile karakterizedir. Degirmendere Kayin, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunar. İlkbahar ve yaz aylarında yeşilin çeşitli tonlarını, sonbahar ve kış aylarında ise renkli bir manzarayı sunar. Bu milli park, doğa severler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Kirklareli-Degirmendere Kayin milli parkını ziyaret etmek, doğa severler içi
 ## İlginç Bilgiler
 
 - Kirklareli-Degirmendere Kayin milli parkı, 140 hektarlık geniş bir alanı kapsar.
-- Bu milli park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Degirmendere Kayin, yaban hayatı koruma ve doğayı korumak amacıyla kurulmuştur.
 - Milli park, ziyaretçilerine doğayla iç içe bir deneyim sunar.
 - Kirklareli-Degirmendere Kayin, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir.

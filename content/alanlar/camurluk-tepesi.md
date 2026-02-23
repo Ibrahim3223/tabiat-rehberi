@@ -28,7 +28,7 @@ wikidata_id: "Q34828257"
 
 # Çamurluk Tepesi
 
-Çamurluk Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, doğal güzelliği ile ön plana çıkıyor. Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu durum, çevreyi zengin bir ekosisteme dönüştürüyor. Çamurluk Tepesi, hem doğal güzelliği hem de geniş yeşil alanıyla ziyaretçilerini büyülüyor.
+Çamurluk Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu durum, çevreyi zengin bir ekosisteme dönüştürüyor. Çamurluk Tepesi, hem doğal güzelliği hem de geniş yeşil alanıyla ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34828257"
 
 ## Coğrafya
 
-Çamurluk Tepesi, Muğla'nın Ege Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle dikkat çekiyor. Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu durum, çevreyi zengin bir ekosisteme dönüştürüyor. Çamurluk Tepesi, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda ve bu yükseklik, bölgenin iklimini de etkiliyor. Çamurluk Tepesi'nin coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de geniş yeşil alanları sunuyor.
+Çamurluk Tepesi, Muğla'nın Ege Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle dikkat çekiyor. Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu durum, çevreyi zengin bir ekosisteme dönüştürüyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda ve bu yükseklik, bölgenin iklimini de etkiliyor. Çamurluk Tepesi'nin coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de geniş yeşil alanları sunuyor.
 
 ## Flora ve Fauna
 

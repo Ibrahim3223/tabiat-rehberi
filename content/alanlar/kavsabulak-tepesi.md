@@ -28,7 +28,7 @@ wikidata_id: "Q31387495"
 
 # Kavşabulak Tepesi
 
-Kavşabulak Tepesi, Van'ın doğal güzellikleri arasında önemli bir yere sahip. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve Van'ın şehir merkezine yakın mesafede bulunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunuyor. Kavşabulak Tepesi, doğa severler için ideal bir destinasyon olarak görülüyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunuyor ve bu bölgede yapılan doğa yürüyüşleri, ziyaretçilere unutulmaz anlar yaşatıyor.
+Kavşabulak Tepesi, Van'ın doğal güzellikleri arasında önemli bir yere sahip. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve Van'ın şehir merkezine yakın mesafede bulunuyor. Kavşabulak Tepesi, doğa severler için ideal bir destinasyon olarak görülüyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunuyor ve bu bölgede yapılan doğa yürüyüşleri, ziyaretçilere unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 

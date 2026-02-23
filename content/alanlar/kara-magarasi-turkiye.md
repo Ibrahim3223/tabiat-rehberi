@@ -51,7 +51,7 @@ Bölgenin ekosistem bağlantıları dikkate alındığında, Kara Mağarası'nı
 
 ## Flora ve Fauna
 
-Kara Mağarası'nın çevresinde, yarı kurak iklimin hüküm sürdüğü step ve ova ekolojisi, benzersiz bir flora ve fauna çeşitliliği sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kara Mağarası'nın çevresinde, yarı kurak iklimin hüküm sürdüğü step ve ova ekolojisi, benzersiz bir flora ve fauna çeşitliliği sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü olarak, ilkbahar aylarında, özellikle nisan ve mayıs aylarında, rengarenk çiçekler ve otlarla kaplı bir manzara karşımıza çıkar. Sonbahar mevsiminde ise, kuraklık nedeniyle, bitkiler daha az yeşil görünür ve bazıları kurur. Bu mevsimsel değişim, bölgenin ekolojik dengesini korur.
 

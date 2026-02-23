@@ -28,7 +28,7 @@ wikidata_id: "Q31387799"
 
 # Seyrantaş Tepesi
 
-Erzurum'un doğusunda yer alan Seyrantaş Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir araziyi kaplıyor. Bu tepe, tarihi ve doğal güzellikleriyle dikkat çekiyor. Seyrantaş Tepesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini gösteriyor. Tepenin zirvesine çıktığınızda, Erzurum'un panoramik manzarasını izleyebilirsiniz.
+ Bu tepe, tarihi ve doğal güzellikleriyle dikkat çekiyor. Seyrantaş Tepesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini gösteriyor. Tepenin zirvesine çıktığınızda, Erzurum'un panoramik manzarasını izleyebilirsiniz.
 
 ## Tarihçe
 

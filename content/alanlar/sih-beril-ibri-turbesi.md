@@ -1,7 +1,7 @@
 ---
 title: "Şıh Beril İbri Türbesi"
 date: "2026-01-10T05:43:15.886Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391777"
 
 # Şıh Beril İbri Türbesi
 
-Tarsus'un tarihi ve doğal güzellikleri arasında yer alan Şıh Beril İbri Türbesi, Mersin'in Akdeniz Bölgesi'nde bulunur. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Şıh Beril İbri Türbesi, Tarsus'un önemli tarihi ve dini mekanlarından biridir. Burada, tarihin derinliklerine inebilir ve bölgenin doğal güzelliklerini keşfedebilirsiniz. Şıh Beril İbri Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeder.
+Tarsus'un tarihi ve doğal güzellikleri arasında yer alan Şıh Beril İbri Türbesi, Mersin'in Akdeniz Bölgesi'nde bulunur. Şıh Beril İbri Türbesi, Tarsus'un önemli tarihi ve dini mekanlarından biridir. Burada, tarihin derinliklerine inebilir ve bölgenin doğal güzelliklerini keşfedebilirsiniz. Şıh Beril İbri Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeder.
 
 ## Tarihçe
 

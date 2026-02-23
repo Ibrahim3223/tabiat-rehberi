@@ -28,7 +28,7 @@ wikidata_id: "Q31387118"
 
 # Kayalı Tepesi
 
-Kayalı Tepesi, Kocaeli'nin Marmara Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerine büyüleyici bir manzara sunar. Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çeker. Kayalı Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir destinasyondur. Bu tepe, aynı zamanda çeşitli bitki türleri ve zengin fauna ile örtülüdür. Ziyaretçiler, bu doğal güzelliği keşfetmek için yılın her mevsiminde buraya gelmektedir.
+Kayalı Tepesi, Kocaeli'nin Marmara Bölgesi'nde yer alan bir doğa harikasıdır. Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çeker. Kayalı Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir destinasyondur. Bu tepe, aynı zamanda çeşitli bitki türleri ve zengin fauna ile örtülüdür. Ziyaretçiler, bu doğal güzelliği keşfetmek için yılın her mevsiminde buraya gelmektedir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Kayalı Tepesi, Kocaeli'nin Marmara Bölgesi'nde yer alır. Bu bölge, coğrafi 
 
 ## Flora ve Fauna
 
-Kayalı Tepesi, flora ve fauna açısından oldukça zengindir. Bu bölge, çeşitli bitki türleri ile örtülüdür. Tepenin eteklerinde yer alan ormanlık bölgeler, zengin fauna ile dikkat çeker. Ziyaretçiler, bu bölgeyi keşfetmek için yılın her mevsiminde buraya gelmektedir. Kayalı Tepesi, aynı zamanda mevsimsel değişimler açısından da dikkat çeker. İlkbahar ve yaz aylarında, bu bölgeye çeşitli bitkiler ve çiçekler açar. Sonbahar ve kış aylarında ise, bu bölgeye çeşitli hayvanlar gelir. Ziyaretçiler, bu doğal güzelliği keşfetmek için çeşitli rotalar izleyebilir ve flora ve fauna hakkında daha fazla bilgi edinebilir. Kayalı Tepesi, doğa severler için bir cennet gibidir. Bu bölge, zengin flora ve fauna ile örtülüdür ve ziyaretçiler, bu doğal güzelliği keşfetmek için yılın her mevsiminde buraya gelmektedir.
+ Bu bölge, çeşitli bitki türleri ile örtülüdür. Tepenin eteklerinde yer alan ormanlık bölgeler, zengin fauna ile dikkat çeker. Ziyaretçiler, bu bölgeyi keşfetmek için yılın her mevsiminde buraya gelmektedir. Kayalı Tepesi, aynı zamanda mevsimsel değişimler açısından da dikkat çeker. İlkbahar ve yaz aylarında, bu bölgeye çeşitli bitkiler ve çiçekler açar. Sonbahar ve kış aylarında ise, bu bölgeye çeşitli hayvanlar gelir. Ziyaretçiler, bu doğal güzelliği keşfetmek için çeşitli rotalar izleyebilir ve flora ve fauna hakkında daha fazla bilgi edinebilir. Kayalı Tepesi, doğa severler için bir cennet gibidir. Bu bölge, zengin flora ve fauna ile örtülüdür ve ziyaretçiler, bu doğal güzelliği keşfetmek için yılın her mevsiminde buraya gelmektedir.
 
 ## Ziyaret Bilgileri
 
@@ -51,5 +51,5 @@ Kayalı Tepesi'ni ziyaret etmek için, yılın her mevsiminde buraya gelme mümk
 - Kayalı Tepesi, 140 hektarlık bir alana sahiptir.
 - Bu bölge, Marmara Bölgesi'nin ılıman ikliminin etkilerini taşır.
 - Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çeker.
-- Kayalı Tepesi, flora ve fauna açısından oldukça zengindir.
+
 - Bu bölge, yılın her mevsiminde ziyaret edilebilir.

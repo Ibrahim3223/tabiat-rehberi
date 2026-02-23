@@ -29,7 +29,7 @@ wikidata_id: "Q134728391"
 
 # Dodurga Tümülüsü
 
-Dodurga Tümülüsü, Bilecik'in Bozüyük ilçesinde yer alan tarihi bir tümülüstür. 140 hektarlık bir alanı kaplayan bu tümülüs, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu önemli tarihi mekân, Marmara Bölgesi'nin zengin tarihi geçmişini yansıtmaktadır. Dodurga Tümülüsü, ziyaretçilerini tarihin derinliklerine götürerek, geçmişte yaşamış uygarlıklar hakkında bilgi edinme fırsatı sunar. Bu tümülüs, bölgenin coğrafi ve kültürel zenginliklerini bir arada sunmasıyla dikkat çekmektedir.
+Dodurga Tümülüsü, Bilecik'in Bozüyük ilçesinde yer alan tarihi bir tümülüstür. Bu önemli tarihi mekân, Marmara Bölgesi'nin zengin tarihi geçmişini yansıtmaktadır. Dodurga Tümülüsü, ziyaretçilerini tarihin derinliklerine götürerek, geçmişte yaşamış uygarlıklar hakkında bilgi edinme fırsatı sunar. Bu tümülüs, bölgenin coğrafi ve kültürel zenginliklerini bir arada sunmasıyla dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Dodurga Tümülüsü, ziyaretçilere tarihin derinliklerine yolculuk yapma fırs
 ## İlginç Bilgiler
 
 - Dodurga Tümülüsü, Marmara Bölgesi'nin tarihi geçmişini yansıtan önemli bir arkeolojik alandır.
-- Bu tümülüs, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Dodurga Tümülüsü, ziyaretçilere tarihin derinliklerine yolculuk yapma fırsatı sunmaktadır.
 - Bu tümülüs, Marmara Bölgesi'nin coğrafi ve kültürel zenginliklerini bir arada sunmaktadır.
 - Dodurga Tümülüsü, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır.

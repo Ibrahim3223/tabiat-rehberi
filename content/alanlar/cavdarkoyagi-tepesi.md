@@ -28,7 +28,7 @@ wikidata_id: "Q34828679"
 
 # Çavdarkoyağı Tepesi
 
-Mersin'in Akdeniz Bölgesi'nde yer alan Çavdarkoyağı Tepesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin keyif alacağı bir cennet. Çavdarkoyağı Tepesi, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerine unutulmaz bir deneyim vaat ediyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa tutkunları için bir çekim merkezi haline getirmekte.
+Mersin'in Akdeniz Bölgesi'nde yer alan Çavdarkoyağı Tepesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa tutkunları için bir çekim merkezi haline getirmekte.
 
 ## Tarihçe
 

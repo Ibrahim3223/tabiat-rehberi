@@ -1,7 +1,7 @@
 ---
 title: "Abdurrahman Gazi Türbesi"
 date: "2026-01-10T04:47:19.765Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -30,7 +30,7 @@ wikidata_id: "Q20473935"
 
 # Abdurrahman Gazi Türbesi
 
-Abdurrahman Gazi Türbesi, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un Palandöken ilçesinde yer alan tarihi bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu özel mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası. Abdurrahman Gazi Türbesi, Palandöken'in zengin tarihi geçmişi ve eşsiz doğal güzellikleri hakkında bilgi edinmek isteyenler için önemli bir merkez.
+Abdurrahman Gazi Türbesi, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un Palandöken ilçesinde yer alan tarihi bir mekan. Bu özel mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası. Abdurrahman Gazi Türbesi, Palandöken'in zengin tarihi geçmişi ve eşsiz doğal güzellikleri hakkında bilgi edinmek isteyenler için önemli bir merkez.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Abdurrahman Gazi Türbesi, tarihi geçmişiyle dikkat çeker. Yüzyıllar boyunc
 
 ## Coğrafya
 
-Abdurrahman Gazi Türbesi, Erzurum'un Palandöken ilçesinde, yaklaşık 2000 metre rakımda yer alır. Bölge, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve yüksek dağlar, geniş ovalar ve nehirler ile çevrilidir. Abdurrahman Gazi Türbesi ve çevresindeki plaj, ziyaretçilere geniş ve yeşil bir alan sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar. Bu bölge, özellikle yaz aylarında, serin ve ferah bir hava sunar ve ziyaretçilere, şehir hayatından uzaklaşarak, doğanın güzelliklerini keşfetme imkanı sağlar. Palandöken'in coğrafi konumu, Abdurrahman Gazi Türbesi ve plajını, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası haline getirir.
+Abdurrahman Gazi Türbesi, Erzurum'un Palandöken ilçesinde, yaklaşık 2000 metre rakımda yer alır. Bölge, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve yüksek dağlar, geniş ovalar ve nehirler ile çevrilidir. Abdurrahman Gazi Türbesi ve çevresindeki plaj, ziyaretçilere geniş ve yeşil bir alan sunar. Bu bölge, özellikle yaz aylarında, serin ve ferah bir hava sunar ve ziyaretçilere, şehir hayatından uzaklaşarak, doğanın güzelliklerini keşfetme imkanı sağlar. Palandöken'in coğrafi konumu, Abdurrahman Gazi Türbesi ve plajını, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası haline getirir.
 
 ## Flora ve Fauna
 
-Abdurrahman Gazi Türbesi ve çevresindeki plaj, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, özellikle yaz aylarında, birçok bitki türü yetişir ve çevreyi yeşillendirir. Bölgenin fauna zenginliği, birçok hayvan türünün yaşamasına olanak sağlar. Mevsimsel değişimler, bu bölgenin doğasını etkiler ve her mevsim, farklı güzellikler sunar. Kış aylarında, karla kaplı dağlar ve ovalar, ziyaretçilere eşsiz bir manzara sunarken, yaz aylarında, yeşillenen bitkiler ve çiçekler, bu bölgenin güzelliğini artırır. Abdurrahman Gazi Türbesi ve plajı, doğa severler için, flora ve fauna çeşitliliği ile dikkat çekici bir gezi noktasıdır.
+ Bu bölgede, özellikle yaz aylarında, birçok bitki türü yetişir ve çevreyi yeşillendirir. Bölgenin fauna zenginliği, birçok hayvan türünün yaşamasına olanak sağlar. Mevsimsel değişimler, bu bölgenin doğasını etkiler ve her mevsim, farklı güzellikler sunar. Kış aylarında, karla kaplı dağlar ve ovalar, ziyaretçilere eşsiz bir manzara sunarken, yaz aylarında, yeşillenen bitkiler ve çiçekler, bu bölgenin güzelliğini artırır. Abdurrahman Gazi Türbesi ve plajı, doğa severler için, flora ve fauna çeşitliliği ile dikkat çekici bir gezi noktasıdır.
 
 ## Ziyaret Bilgileri
 

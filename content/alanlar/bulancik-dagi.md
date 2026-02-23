@@ -28,7 +28,7 @@ wikidata_id: "Q31387259"
 
 # Bulancık Dağı
 
-Bulancık Dağı, Çankırı ilinin doğal güzelliklerinin odak noktasıdır. Bu dağ, yaklaşık 140 hektarlık bir alanı kaplar, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Doğal güzellikleri ve tarihi geçmişiyle birlikte, ziyaretçilerini büyülemektedir. Dağın eteklerinde çeşitli bitki türleri bulunur ve bu, bölgenin ekolojik zenginliğini gösterir. Bulancık Dağı, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
+Bulancık Dağı, Çankırı ilinin doğal güzelliklerinin odak noktasıdır. Doğal güzellikleri ve tarihi geçmişiyle birlikte, ziyaretçilerini büyülemektedir. Dağın eteklerinde çeşitli bitki türleri bulunur ve bu, bölgenin ekolojik zenginliğini gösterir. Bulancık Dağı, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 
 ## Tarihçe
 

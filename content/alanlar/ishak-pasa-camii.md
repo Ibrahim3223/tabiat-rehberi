@@ -1,7 +1,7 @@
 ---
 title: "İshak Paşa Camii"
 date: "2026-01-09T22:18:04.396Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Fatih"
@@ -30,7 +30,7 @@ wikidata_id: "Q127418325"
 
 # İshak Paşa Camii
 
-İshak Paşa Camii, İç Anadolu Bölgesi'nde Cankurtaran ve Fatih ilçeleri arasında yer alan tarihi bir yapıdır. Bu camii, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İshak Paşa Camii, bölgenin önemli tarihi ve kültürel merkezlerinden biridir. Camii, bölgenin tarihini ve kültürünü yansıtan önemli bir yapıttır. İshak Paşa Camii, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkararak, bölgenin zengin geçmişini keşfetme fırsatı sunar.
+İshak Paşa Camii, İç Anadolu Bölgesi'nde Cankurtaran ve Fatih ilçeleri arasında yer alan tarihi bir yapıdır. Bu camii, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. İshak Paşa Camii, bölgenin önemli tarihi ve kültürel merkezlerinden biridir. Camii, bölgenin tarihini ve kültürünü yansıtan önemli bir yapıttır. İshak Paşa Camii, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkararak, bölgenin zengin geçmişini keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q127418325"
 
 ## Coğrafya
 
-İshak Paşa Camii, İç Anadolu Bölgesi'nde Cankurtaran ve Fatih ilçeleri arasında yer alan bir alandadır. Camii, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İshak Paşa Camii, bölgenin coğrafi özellikleri ile uyumlu bir şekilde tasarlanmıştır. Camii, bölgenin iklimine ve çevresine uygun bir şekilde inşa edilmiştir. İshak Paşa Camii, bölgenin coğrafi ve kültürel özellikleri ile birlikte, ziyaretçilerine zengin bir deneyim sunar. Camii, ziyaretçilerini bölgenin coğrafi güzellikleri ile tanıştırarak, bölgenin doğal zenginliklerini keşfetme fırsatı sunar.
+İshak Paşa Camii, İç Anadolu Bölgesi'nde Cankurtaran ve Fatih ilçeleri arasında yer alan bir alandadır. Camii, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. İshak Paşa Camii, bölgenin coğrafi özellikleri ile uyumlu bir şekilde tasarlanmıştır. Camii, bölgenin iklimine ve çevresine uygun bir şekilde inşa edilmiştir. İshak Paşa Camii, bölgenin coğrafi ve kültürel özellikleri ile birlikte, ziyaretçilerine zengin bir deneyim sunar. Camii, ziyaretçilerini bölgenin coğrafi güzellikleri ile tanıştırarak, bölgenin doğal zenginliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

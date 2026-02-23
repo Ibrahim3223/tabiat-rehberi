@@ -28,7 +28,7 @@ wikidata_id: "Q31389500"
 
 # Sakıbaba Tepe
 
-Sakıbaba Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Sakıbaba Tepe, ziyaretçilerini doğal güzellikleriyle karşılar ve bir doğa harikası olarak görülebilir. Tepe, çevresi ile birlikte yüksek bir konumda olup, ziyaretçilerin manzarayı izleyebilecekleri bir noktadır. Sakıbaba Tepe, coğrafi konumu itibariyle önemli bir noktadır ve ziyaretçilerine güzel bir gezi imkanı sunar.
+Sakıbaba Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Sakıbaba Tepe, ziyaretçilerini doğal güzellikleriyle karşılar ve bir doğa harikası olarak görülebilir. Tepe, çevresi ile birlikte yüksek bir konumda olup, ziyaretçilerin manzarayı izleyebilecekleri bir noktadır. Sakıbaba Tepe, coğrafi konumu itibariyle önemli bir noktadır ve ziyaretçilerine güzel bir gezi imkanı sunar.
 
 ## Tarihçe
 

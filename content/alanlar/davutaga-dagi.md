@@ -48,9 +48,9 @@ Bölgenin ekolojik dengesini sağlayan önemli faktörlerden biri de su kaynakla
 
 ## Flora ve Fauna
 
-Davutağa Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın başlangıcında, dağ eteklerinde çiçekler açarak renkli bir hal alır. Alpin çayırların hakim olduğu bu bölgede, endemik türler de bulunur. 
+Davutağa Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın başlangıcında, dağ eteklerinde çiçekler açarak renkli bir hal alır. Alpin çayırların hakim olduğu bu bölgede, endemik türler de bulunur.
 
-Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri ve yaban keçileri, bu bölgenin yükseklik zonlarında yaşar. Kuşlar ise sonbaharda göç ederken, dağların yüksekliklerine adapte olmuş türler yıl boyu burada kalır. 
+Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri ve yaban keçileri, bu bölgenin yükseklik zonlarında yaşar. Kuşlar ise sonbaharda göç ederken, dağların yüksekliklerine adapte olmuş türler yıl boyu burada kalır.
 
 Davutağa Dağı, yüksek dağ ekosisteminin korunması açısından önemli bir bölgedir. Bu bölge, doğal yaşamın korunması için büyük bir değer taşır.
 

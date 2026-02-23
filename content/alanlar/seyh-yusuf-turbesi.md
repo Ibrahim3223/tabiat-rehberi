@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Yusuf Türbesi"
 date: "2026-01-10T05:00:49.586Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391514"
 
 # Şeyh Yusuf Türbesi
 
-Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin en önemli tarihi ve turistik mekanlarından biridir. Diyarbakır'ın Sur ilçesinde bulunan bu mekan, 140 hektarlık bir alana yayılmıştır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini büyüleyici bir atmosfere davet etmektedir. Şeyh Yusuf Türbesi, tarihi ve kültürel önemini korurken, aynı zamanda doğal güzelliği ile de dikkat çekmektedir. Bu mekan, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
+Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin en önemli tarihi ve turistik mekanlarından biridir. Diyarbakır'ın Sur ilçesinde bulunan bu mekan, 140 hektarlık bir alana yayılmıştır. Şeyh Yusuf Türbesi, tarihi ve kültürel önemini korurken, aynı zamanda doğal güzelliği ile de dikkat çekmektedir. Bu mekan, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391514"
 
 ## Coğrafya
 
-Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Bu mekan, 140 hektarlık bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir. Şeyh Yusuf Türbesi, doğal güzelliği ile dikkat çekmektedir. Bu mekan, ziyaretçilerine çeşitli coğrafi özellikler sunmaktadır. Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak, sıcak ve kurak bir iklimi bulunmaktadır. Bu mekan, ziyaretçilerine farklı mevsimlerde çeşitli coğrafi güzellikler sunmaktadır. Şeyh Yusuf Türbesi, coğrafi olarak önemli bir konuma sahiptir ve ziyaretçilerine birçok coğrafi güzellik sunmaktadır.
+Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Şeyh Yusuf Türbesi, doğal güzelliği ile dikkat çekmektedir. Bu mekan, ziyaretçilerine çeşitli coğrafi özellikler sunmaktadır. Şeyh Yusuf Türbesi, Güneydoğu Anadolu Bölgesi'nin iklimine uygun olarak, sıcak ve kurak bir iklimi bulunmaktadır. Bu mekan, ziyaretçilerine farklı mevsimlerde çeşitli coğrafi güzellikler sunmaktadır. Şeyh Yusuf Türbesi, coğrafi olarak önemli bir konuma sahiptir ve ziyaretçilerine birçok coğrafi güzellik sunmaktadır.
 
 ## Flora ve Fauna
 

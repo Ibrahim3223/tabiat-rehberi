@@ -22,7 +22,7 @@ wikidata_id: "Q108228810"
 
 # Mugla-Muğla-Denizova Halepçamı
 
-Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Denizova Halepçamı milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil cennet, Ege Bölgesi'nin zengin bitki örtüsünü ve çeşitli hayvan türlerini barındıran bir doğa harikası. Denizova Halepçamı milli parkı, ziyaretçilerini doğanın kalbinde bir maceraya davet ediyor. Burada, yaban hayatının zenginliğini ve doğal güzellikleri keşfedebilirsiniz.
+ Bu yeşil cennet, Ege Bölgesi'nin zengin bitki örtüsünü ve çeşitli hayvan türlerini barındıran bir doğa harikası. Denizova Halepçamı milli parkı, ziyaretçilerini doğanın kalbinde bir maceraya davet ediyor. Burada, yaban hayatının zenginliğini ve doğal güzellikleri keşfedebilirsiniz.
 
 ## Tarihçe
 

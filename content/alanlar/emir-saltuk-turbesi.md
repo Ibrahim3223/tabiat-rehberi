@@ -1,7 +1,7 @@
 ---
 title: "Emir Saltuk Türbesi"
 date: "2026-01-10T06:43:19.909Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582804"
 
 # Emir Saltuk Türbesi
 
-Emir Saltuk Türbesi, Doğu Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan önemli bir mekan. Yakutiye, Erzurum'da bulunan bu tarihi türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu mekan, ziyaretçilerini tarihin derinliklerine götürerek, geçmişin gizemli atmosferini hissetme fırsatı sunuyor. 140 hektarlık bu geniş alan, tarihi ve doğal güzellikleri bir arada sunuyor.
+Emir Saltuk Türbesi, Doğu Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan önemli bir mekan. Bu mekan, ziyaretçilerini tarihin derinliklerine götürerek, geçmişin gizemli atmosferini hissetme fırsatı sunuyor. 140 hektarlık bu geniş alan, tarihi ve doğal güzellikleri bir arada sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Emir Saltuk Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu türbenin inşa ed
 
 ## Coğrafya
 
-Emir Saltuk Türbesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerine ev sahipliği yapıyor. Yakutiye, Erzurum'da bulunan bu mekan, doğal ve tarihi bir surroundings tarafından çevrili. 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan sunuyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere dinlenme ve gezi imkanı sunuyor. Türbe, çevredeki dağların ve ovaların doğal güzelliği ile birleşerek, ziyaretçilere benzersiz bir manzara sunuyor. Coğrafi konumu, iklimi ve doğal güzellikleri ile Emir Saltuk Türbesi, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Emir Saltuk Türbesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerine ev sahipliği yapıyor. Yakutiye, Erzurum'da bulunan bu mekan, doğal ve tarihi bir surroundings tarafından çevrili. 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan sunuyor. Türbe, çevredeki dağların ve ovaların doğal güzelliği ile birleşerek, ziyaretçilere benzersiz bir manzara sunuyor.
 
 ## Flora ve Fauna
 

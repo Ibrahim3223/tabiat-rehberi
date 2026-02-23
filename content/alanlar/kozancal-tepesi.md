@@ -29,7 +29,7 @@ wikidata_id: "Q32200804"
 
 # Kozançal Tepesi
 
-Kozançal Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir nokta. Kozançal Tepesi, ziyaretçilerine bölgenin tarihi ve kültürel mirasını keşfetme fırsatı sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere bölgenin geleneksel yaşam tarzını tanıma fırsatı sunuyor.
+Kozançal Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir nokta. Kozançal Tepesi, ziyaretçilerine bölgenin tarihi ve kültürel mirasını keşfetme fırsatı sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere bölgenin geleneksel yaşam tarzını tanıma fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kozançal Tepesi, tarihsel olarak önemli bir bölge. Bu tepenin tarihi geçmiş
 
 ## Coğrafya
 
-Kozançal Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda. Kozançal Tepesi, İç Anadolu Bölgesi'nin karakteristik coğrafi yapısını temsil ediyor. Tepenin eteklerinde yer alan ovalar ve vadiler, bölgenin tarım ve hayvancılık faaliyetlerine ev sahipliği yapıyor. Kozançal Tepesi, ayrıca bölgenin iklimini de şekillendiriyor. Tepenin yüksekliği, bölgenin iklimini soğutuyor ve bölgenin flora ve faunasını etkiliyor. Kozançal Tepesi, ziyaretçilerine bölgenin coğrafi güzelliklerini ve doğal zenginliklerini keşfetme fırsatı sunuyor.
+Kozançal Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda. Kozançal Tepesi, İç Anadolu Bölgesi'nin karakteristik coğrafi yapısını temsil ediyor. Tepenin eteklerinde yer alan ovalar ve vadiler, bölgenin tarım ve hayvancılık faaliyetlerine ev sahipliği yapıyor. Kozançal Tepesi, ayrıca bölgenin iklimini de şekillendiriyor. Tepenin yüksekliği, bölgenin iklimini soğutuyor ve bölgenin flora ve faunasını etkiliyor. Kozançal Tepesi, ziyaretçilerine bölgenin coğrafi güzelliklerini ve doğal zenginliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

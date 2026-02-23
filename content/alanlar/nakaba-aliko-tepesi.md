@@ -28,7 +28,7 @@ wikidata_id: "Q31548581"
 
 # Nakaba Aliko Tepesi
 
-Nakaba Aliko Tepesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Siirt ilinde yer alan bir doğa harikasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri yetişir ve bu zengin flora, ziyaretçilere renkli bir manzara sunar. Nakaba Aliko Tepesi, aynı zamanda bir kültür mirası olarak da değerlidir, çünkü tarihi geçmişi yüzyıllar boyunca uzanır. Bu tepe, bölgenin coğrafi ve kültürel kimliğinin önemli bir parçasıdır.
+Nakaba Aliko Tepesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Siirt ilinde yer alan bir doğa harikasıdır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri yetişir ve bu zengin flora, ziyaretçilere renkli bir manzara sunar. Nakaba Aliko Tepesi, aynı zamanda bir kültür mirası olarak da değerlidir, çünkü tarihi geçmişi yüzyıllar boyunca uzanır. Bu tepe, bölgenin coğrafi ve kültürel kimliğinin önemli bir parçasıdır.
 
 ## Tarihçe
 

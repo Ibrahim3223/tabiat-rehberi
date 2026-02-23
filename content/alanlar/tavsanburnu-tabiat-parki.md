@@ -29,7 +29,7 @@ wikidata_id: "Q108228354"
 
 # Tavşanburnu Tabiat Parkı
 
-Tavşanburnu Tabiat Parkı, İç Anadolu Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna tarafından çevrelenmiştir. Bu tabiat parkı, doğa severlerin ve macera arayışında olanların ziyaret etmesi gereken bir yer. Parkın doğal güzelliği, ziyaretçilerini büyüleyece ve unutulmaz bir deneyim sunacaktır.
+Tavşanburnu Tabiat Parkı, İç Anadolu Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tabiat parkı, doğa severlerin ve macera arayışında olanların ziyaret etmesi gereken bir yer. Parkın doğal güzelliği, ziyaretçilerini büyüleyece ve unutulmaz bir deneyim sunacaktır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tavşanburnu Tabiat Parkı, yüzyıllar boyunca doğal güzelliğini korumuştur
 
 ## Coğrafya
 
-Tavşanburnu Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtmaktadır. Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna tarafından çevrelenmiştir. Parkın coğrafi konumu, ziyaretçilere farklı mevsimlerde farklı deneyimler sunmaktadır. İlkbahar ve yaz aylarında, parkın flora ve fauna, ziyaretçileri büyüleyecek güzelliğe sahiptir. Sonbahar ve kış aylarında, parkın manzarası, ziyaretçilere farklı bir güzellik sunmaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtmaktadır. Parkın etrafındaki dağlar ve tepeler, ziyaretçilere trekking ve doğa yürüyüşü fırsatı sunmaktadır.
+Tavşanburnu Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtmaktadır. Parkın coğrafi konumu, ziyaretçilere farklı mevsimlerde farklı deneyimler sunmaktadır. İlkbahar ve yaz aylarında, parkın flora ve fauna, ziyaretçileri büyüleyecek güzelliğe sahiptir. Sonbahar ve kış aylarında, parkın manzarası, ziyaretçilere farklı bir güzellik sunmaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimini yansıtmaktadır. Parkın etrafındaki dağlar ve tepeler, ziyaretçilere trekking ve doğa yürüyüşü fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 

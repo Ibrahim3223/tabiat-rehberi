@@ -50,7 +50,7 @@ Jeolojik açıdan incelendiğinde, Koçlu Dağı'nın oluşumu ve yapısı hakk�
 
 Koçlu Dağı, Van'ın yüksek dağ ekolojisinin bir örneği olarak karşımıza çıkıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı bitki türleri ve hayvanlar bulunuyor.
 
-Bitki örtüsünde, ilkbaharda çiçek açan alpin türler hakimken, sonbaharda renkli yapraklarla süslenen ağaçlar göze çarpıyor. Dağın yüksek kesimlerinde, endemik türlerin yaşadığı alpin çayırlar dikkat çekiyor. Yaban hayatı ise zengin bir çeşitlilik sunuyor; dağ keçileri, kartallar ve diğer yüksek dağ hayvanları bu bölgenin sakinleri. 
+Bitki örtüsünde, ilkbaharda çiçek açan alpin türler hakimken, sonbaharda renkli yapraklarla süslenen ağaçlar göze çarpıyor. Dağın yüksek kesimlerinde, endemik türlerin yaşadığı alpin çayırlar dikkat çekiyor. Yaban hayatı ise zengin bir çeşitlilik sunuyor; dağ keçileri, kartallar ve diğer yüksek dağ hayvanları bu bölgenin sakinleri.
 
 Koçlu Dağı'nın ekolojik değeri, yüksek dağ ekosistemini korumasından geliyor. Bu alan, birçok canlı türünün yaşam alanı olarak işlev görüyor ve ekolojik dengenin korunmasına katkı sağlıyor.
 

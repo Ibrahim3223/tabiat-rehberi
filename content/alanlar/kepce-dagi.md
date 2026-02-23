@@ -51,8 +51,8 @@ Mevsimsel değişikliklere baktığımızda, Kepçe Dağı'nın iklimi, bölgeni
 
 ## Flora ve Fauna
 
-Kepçe Dağı, Van'ın yüksek dağ ekolojisinin örnek aldığı bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki örtüsünü oluşturan alpin çayırlar, ilkbaharla birlikte renklendirir. Dağın yüksek kesimlerinde, endemik türlerin yer aldığı floranın çeşitliliği dikkat çekicidir. 
+Kepçe Dağı, Van'ın yüksek dağ ekolojisinin örnek aldığı bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki örtüsünü oluşturan alpin çayırlar, ilkbaharla birlikte renklendirir. Dağın yüksek kesimlerinde, endemik türlerin yer aldığı floranın çeşitliliği dikkat çekicidir.
 
 Yaban hayatı, dağ keçileri ve çeşitli kuş türleriyle renklenir. Göç mevsimlerinde, dağların yüksek zirvelerini aşan kuş sürüleri, bu bölgenin canlılığını arttırır. Sürüngenler ve memeliler de dağların ekosistemini destekler.
 

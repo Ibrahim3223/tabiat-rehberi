@@ -30,7 +30,7 @@ wikidata_id: "Q6070960"
 
 # Kapuzbaşı Şelaleleri
 
-Kapuzbaşı Şelaleleri, Akdeniz Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda yer alan şelaleler, ziyaretçilerini büyülüyor. Şelalelerin çevresi, çeşitli bitki türleri ile kaplı ve zengin fauna ile dikkat çekiyor. Kapuzbaşı Şelaleleri, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+Kapuzbaşı Şelaleleri, Akdeniz Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir destinasyon. Şelalelerin çevresi, çeşitli bitki türleri ile kaplı ve zengin fauna ile dikkat çekiyor. Kapuzbaşı Şelaleleri, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kapuzbaşı Şelaleleri, tarihi geçmişi ile dikkat çekiyor. Yüzyıllar boyun
 
 ## Coğrafya
 
-Kapuzbaşı Şelaleleri, Akdeniz Bölgesi'nde yer alan Yahyalı ilçesinde bulunuyor. Şelalelerin çevresi, çeşitli bitki türleri ile kaplı ve zengin fauna ile dikkat çekiyor. Bölge, dağlık bir alanda yer alıyor ve şelaleler, bu dağların eteklerinde yer alıyor. Kapuzbaşı Şelaleleri, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Şelalelerin yüksekliği, 30 metre civarında ve bu yükseklik, ziyaretçilere, büyüleyici bir manzara sunuyor. Bölge, aynı zamanda, çeşitli akarsular ile çevrilidir ve bu akarsular, şelalelerin oluşmasına katkıda bulunuyor.
+Kapuzbaşı Şelaleleri, Akdeniz Bölgesi'nde yer alan Yahyalı ilçesinde bulunuyor. Şelalelerin çevresi, çeşitli bitki türleri ile kaplı ve zengin fauna ile dikkat çekiyor. Bölge, dağlık bir alanda yer alıyor ve şelaleler, bu dağların eteklerinde yer alıyor. Şelalelerin yüksekliği, 30 metre civarında ve bu yükseklik, ziyaretçilere, büyüleyici bir manzara sunuyor. Bölge, aynı zamanda, çeşitli akarsular ile çevrilidir ve bu akarsular, şelalelerin oluşmasına katkıda bulunuyor.
 
 ## Flora ve Fauna
 

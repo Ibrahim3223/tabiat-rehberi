@@ -28,7 +28,7 @@ wikidata_id: "Q31548904"
 
 # Kunguri Tepesi
 
-Kunguri Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan, 140 hektarlık geniş alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir görünüm sunuyor. Kunguri Tepesi, bölgeye gelen ziyaretçiler için önemli bir gezi noktası olarak kabul ediliyor ve ziyaretçilerin bölge hakkında daha fazla bilgi edinmesine olanak sağlıyor. Kunguri Tepesi'nin etrafı, çeşitli bitki türleri ile çevrili ve bu bitki türleri, tepeye ayrı bir güzellik katıyor.
+Kunguri Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan, 140 hektarlık geniş alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Kunguri Tepesi, bölgeye gelen ziyaretçiler için önemli bir gezi noktası olarak kabul ediliyor ve ziyaretçilerin bölge hakkında daha fazla bilgi edinmesine olanak sağlıyor. Kunguri Tepesi'nin etrafı, çeşitli bitki türleri ile çevrili ve bu bitki türleri, tepeye ayrı bir güzellik katıyor.
 
 ## Tarihçe
 

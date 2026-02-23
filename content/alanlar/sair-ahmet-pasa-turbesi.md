@@ -1,7 +1,7 @@
 ---
 title: "Şair Ahmet Paşa Türbesi"
 date: "2026-01-10T05:17:17.810Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391702"
 
 # Şair Ahmet Paşa Türbesi
 
-Şair Ahmet Paşa Türbesi, Osmangazi, Bursa'da bulunan bir tarihi türbe ve plajdır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu alan, hem tarihi açıdan hem de doğal güzelliği açısından önemli bir yerdir. Şair Ahmet Paşa Türbesi, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Tarih ve doğa severler için ideal bir destinasyondur.
+Şair Ahmet Paşa Türbesi, Osmangazi, Bursa'da bulunan bir tarihi türbe ve plajdır. Bu alan, hem tarihi açıdan hem de doğal güzelliği açısından önemli bir yerdir. Şair Ahmet Paşa Türbesi, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Tarih ve doğa severler için ideal bir destinasyondur.
 
 ## Tarihçe
 

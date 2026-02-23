@@ -1,7 +1,7 @@
 ---
 title: "Yarenler Sultan Türbesi"
 date: "2026-01-10T06:09:52.058Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390628"
 
 # Yarenler Sultan Türbesi
 
-Yarenler Sultan Türbesi, Ege Bölgesi'nde yer alan Afyonkarahisar ilinin merkezinde bulunan tarihi bir türbe ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Yarenler Sultan Türbesi, tarihi geçmişi ve doğal güzellikleri ile dikkat çeker. Türbenin etrafında yer alan plaj, hem yerel halk hem de turistler tarafından tercih edilen bir alan olarak bilinir. Yarenler Sultan Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Yarenler Sultan Türbesi, Ege Bölgesi'nde yer alan Afyonkarahisar ilinin merkezinde bulunan tarihi bir türbe ve plaj alanıdır. Yarenler Sultan Türbesi, tarihi geçmişi ve doğal güzellikleri ile dikkat çeker. Türbenin etrafında yer alan plaj, hem yerel halk hem de turistler tarafından tercih edilen bir alan olarak bilinir. Yarenler Sultan Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Yarenler Sultan Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. B
 
 ## Coğrafya
 
-Yarenler Sultan Türbesi, Afyonkarahisar ilinin merkezinde yer alır ve Ege Bölgesi'nin doğal güzelliklerini sunar. Bu alan, 140 hektarlık bir yeşil alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Türbenin etrafında yer alan plaj, hem yerel halk hem de turistler tarafından tercih edilen bir alan olarak bilinir. Yarenler Sultan Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Yarenler Sultan Türbesi'nin coğrafi konumu, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemi sunar.
+Yarenler Sultan Türbesi, Afyonkarahisar ilinin merkezinde yer alır ve Ege Bölgesi'nin doğal güzelliklerini sunar. Türbenin etrafında yer alan plaj, hem yerel halk hem de turistler tarafından tercih edilen bir alan olarak bilinir. Yarenler Sultan Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Yarenler Sultan Türbesi'nin coğrafi konumu, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemi sunar.
 
 ## Flora ve Fauna
 
-Yarenler Sultan Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplar ve birçok bitki türüne ev sahipliği yapar. Bölge, mevsimsel değişimlere göre farklı canlıları barındırır ve ekolojik dengesi ile dikkat çeker. Yarenler Sultan Türbesi, doğal güzellikleri ile ziyaretçilerini çekiyor ve birçok canlı türüne ev sahipliği yapıyor. Bu alan, hem yerel halk hem de turistler tarafından tercih edilen bir alan olarak bilinir ve doğa severler için ideal bir destinasyon olarak kabul ediliyor.
+ Bölge, mevsimsel değişimlere göre farklı canlıları barındırır ve ekolojik dengesi ile dikkat çeker. Yarenler Sultan Türbesi, doğal güzellikleri ile ziyaretçilerini çekiyor ve birçok canlı türüne ev sahipliği yapıyor. Bu alan, hem yerel halk hem de turistler tarafından tercih edilen bir alan olarak bilinir ve doğa severler için ideal bir destinasyon olarak kabul ediliyor.
 
 ## Ziyaret Bilgileri
 

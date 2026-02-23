@@ -1,7 +1,7 @@
 ---
 title: "Eskişehir-Afyonkarahisar-Hocalar Karacam"
 date: "2026-01-09T20:47:10.280Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Eskişehir"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227504"
 
 # Eskişehir-Afyonkarahisar-Hocalar Karacam
 
-Eskişehir-Afyonkarahisar-Hocalar Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, doğa severlerin ve macera arayanların hayalini süsleyen bir yer. Eskişehir ilinin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Milli parkın etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
+Eskişehir-Afyonkarahisar-Hocalar Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. Bu milli park, doğa severlerin ve macera arayanların hayalini süsleyen bir yer. Eskişehir ilinin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Milli parkın etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
 
 ## Tarihçe
 

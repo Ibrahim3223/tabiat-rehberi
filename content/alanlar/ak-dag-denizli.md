@@ -48,7 +48,7 @@ Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Ak Dağ, bir ova içe
 
 Mevsimsel değişikliklere göre farklı bir görünüm sunan Ak Dağ, yaz aylarında kura ve sıcak bir iklimi, kış aylarında ise soğuk ve karlı bir hava durumunu deneyimlemektedir. Bu mevsimsel özellikler, çevredeki bitki örtüsünü ve fauna çeşitliliğini etkilemektedir. Örneğin, ilkbahar aylarında, Ak Dağ'ın etekleri rengarenk çiçeklerle kaplanmaktadır.
 
-Ak Dağ, çevresindeki su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahiptir. Yakınlarında bulunan nehirler ve akarsular, bu alanı beslemektedir ve çevredeki flora ve fauna için yaşam kaynağı olarak görev yapmaktadır. Ayrıca, komşu alanlar ile olan bağlantısı, bu bölgenin ekolojik dengesini korumak açısından kritik bir öneme sahiptir.
+Ak Dağ, çevresindeki su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahiptir. Yakınlarında bulunan nehirler ve akarsular, bu alanı beslemektedir ve çevredeki flora ve fauna için yaşam kaynağı olarak görev yapmaktadır.
 
 ## Flora ve Fauna
 

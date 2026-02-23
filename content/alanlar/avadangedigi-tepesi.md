@@ -28,7 +28,7 @@ wikidata_id: "Q31536187"
 
 # Avadangediği Tepesi
 
-Avadangediği Tepesi, Hatay ilinin Akdeniz Bölgesi'nde bulunan ve 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, bölgenin en önemli doğal güzelliklerinden biridir. Avadangediği Tepesi, ziyaretçilerini büyüleyen manzaralarıyla ve zengin flora ve faunasıyla dikkat çekmektedir. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim merkezi oluşturmaktadır.
+Avadangediği Tepesi, Hatay ilinin Akdeniz Bölgesi'nde bulunan ve 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Avadangediği Tepesi, ziyaretçilerini büyüleyen manzaralarıyla ve zengin flora ve faunasıyla dikkat çekmektedir. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim merkezi oluşturmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Avadangediği Tepesi, tarihi geçmişiyle dikkat çekmektedir. Yüzyıllar boyun
 
 ## Coğrafya
 
-Avadangediği Tepesi, Hatay ilinin Akdeniz Bölgesi'nde bulunmaktadır. Bu tepe, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin yüksekliği ve eğimli yapısı, bölgenin iklimini ve bitki örtüsünü etkilemektedir. Avadangediği Tepesi, Akdeniz ikliminin hüküm sürdüğü bir bölgede yer almaktadır. Bu bölgenin karakteristik bitki örtüsü, maki ve çam ağaçlarından oluşmaktadır. Tepenin eteklerinde ve çevresinde bulunan akarsular ve göller, bölgenin ekolojisini desteklemektedir. Avadangediği Tepesi, çevresi ile birlikte bir bütün olarak düşünüldüğünde, doğa ve çevre açısından önemli bir bölge olarak karşımıza çıkmaktadır.
+Avadangediği Tepesi, Hatay ilinin Akdeniz Bölgesi'nde bulunmaktadır. Tepenin yüksekliği ve eğimli yapısı, bölgenin iklimini ve bitki örtüsünü etkilemektedir. Avadangediği Tepesi, Akdeniz ikliminin hüküm sürdüğü bir bölgede yer almaktadır. Bu bölgenin karakteristik bitki örtüsü, maki ve çam ağaçlarından oluşmaktadır. Tepenin eteklerinde ve çevresinde bulunan akarsular ve göller, bölgenin ekolojisini desteklemektedir. Avadangediği Tepesi, çevresi ile birlikte bir bütün olarak düşünüldüğünde, doğa ve çevre açısından önemli bir bölge olarak karşımıza çıkmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Avadangediği Tepesi, ziyaretçiler için bir doğa gezi alanı olarak hizmet ve
 ## İlginç Bilgiler
 
 - Avadangediği Tepesi, 140 hektarlık bir alanı kapsar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Avadangediği Tepesi, Akdeniz Bölgesi'nde yer almaktadır.
 - Bu tepe, zengin bir flora ve faunaya sahiptir.
 - Avadangediği Tepesi, yıl boyunca ziyaret edilebilir.

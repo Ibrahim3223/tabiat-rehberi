@@ -28,7 +28,7 @@ wikidata_id: "Q31534817"
 
 # Amardazı Tepesi
 
-Amardazı Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Amardazı Tepesi, aynı zamanda bölgenin en önemli gezi noktalarından biri olarak biliniyor. Ziyaretçilerin buraya gelmesinin sebebi, tepe üzerindeki manzaraya tanık olma ve bölgenin tarihi geçmişi hakkında bilgi edinmek.
+Amardazı Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Amardazı Tepesi, aynı zamanda bölgenin en önemli gezi noktalarından biri olarak biliniyor. Ziyaretçilerin buraya gelmesinin sebebi, tepe üzerindeki manzaraya tanık olma ve bölgenin tarihi geçmişi hakkında bilgi edinmek.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Amardazı Tepesi, coğrafi olarak Hatay ilinin merkezi yakınlarında yer alıyo
 
 ## Flora ve Fauna
 
-Amardazı Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Bu tepe ve çevresinde, çeşitli bitki türleri yetişiyor. Mevsimsel değişimler, tepe üzerindeki bitki örtüsünü etkiliyor. Kış aylarında yeşeren bitkiler, ilkbahar ve yaz aylarında renkli çiçeklere dönüşüyor. Bu bitki örtüsü, tepe ve çevresindeki fauna için önemli bir kaynak oluşturuyor. Amardazı Tepesi, aynı zamanda birçok hayvan türüne de ev sahipliği yapıyor. Bu hayvanlar, tepe üzerindeki ekosistemi destekleyerek, ziyaretçilerin doğa ile iç içe olmasını sağlıyor.
+ Bu tepe ve çevresinde, çeşitli bitki türleri yetişiyor. Mevsimsel değişimler, tepe üzerindeki bitki örtüsünü etkiliyor. Kış aylarında yeşeren bitkiler, ilkbahar ve yaz aylarında renkli çiçeklere dönüşüyor. Bu bitki örtüsü, tepe ve çevresindeki fauna için önemli bir kaynak oluşturuyor. Amardazı Tepesi, aynı zamanda birçok hayvan türüne de ev sahipliği yapıyor. Bu hayvanlar, tepe üzerindeki ekosistemi destekleyerek, ziyaretçilerin doğa ile iç içe olmasını sağlıyor.
 
 ## Ziyaret Bilgileri
 

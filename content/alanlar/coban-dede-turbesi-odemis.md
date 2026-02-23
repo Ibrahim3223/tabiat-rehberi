@@ -1,7 +1,7 @@
 ---
 title: "Çoban Dede Türbesi, Ödemiş"
 date: "2026-01-10T05:45:21.453Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582192"
 
 # Çoban Dede Türbesi, Ödemiş
 
-İzmir'in Ödemiş ilçesinde yer alan Çoban Dede Türbesi, 140 hektarlık bir alan üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Bu mekan, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Çoban Dede Türbesi, İslami mirasın önemli bir parçası olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Türbenin mimarisi, geleneksel Osmanlı tarzını yansıtıyor ve çevreleyen peyzaj, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Ziyaretçiler, bu mekanın huzur veren atmosferini ve tarihi öneminin yanında, çevredeki doğal güzellikleri de keşfedebilir.
+ Bu mekan, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Çoban Dede Türbesi, İslami mirasın önemli bir parçası olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Türbenin mimarisi, geleneksel Osmanlı tarzını yansıtıyor ve çevreleyen peyzaj, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Ziyaretçiler, bu mekanın huzur veren atmosferini ve tarihi öneminin yanında, çevredeki doğal güzellikleri de keşfedebilir.
 
 ## Tarihçe
 

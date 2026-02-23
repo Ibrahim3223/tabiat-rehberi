@@ -1,7 +1,7 @@
 ---
 title: "Bakacak Mahallesi Kaya Mezarı, Tekkeköy"
 date: "2026-01-10T03:47:20.359Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728200"
 
 # Bakacak Mahallesi Kaya Mezarı, Tekkeköy
 
-Bakacak Mahallesi Kaya Mezarı, Samsun'un Tekkeköy ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi konumu itibariyle Karadeniz Bölgesi'nin güzelliklerini sunan bu yer, ziyaretçilerini tarihi ve doğal güzelliklerle dolu bir dünyaya davet ediyor. Kaya mezarının tarihi geçmişi, bölgeyi daha da özel kılıyor. Bu mezar, yüzyıllar boyunca çeşitli uygarlıkların yaşamına tanıklık etmiş ve bugün bir tarihi miras olarak ziyaret ediliyor.
+Bakacak Mahallesi Kaya Mezarı, Samsun'un Tekkeköy ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Coğrafi konumu itibariyle Karadeniz Bölgesi'nin güzelliklerini sunan bu yer, ziyaretçilerini tarihi ve doğal güzelliklerle dolu bir dünyaya davet ediyor. Kaya mezarının tarihi geçmişi, bölgeyi daha da özel kılıyor. Bu mezar, yüzyıllar boyunca çeşitli uygarlıkların yaşamına tanıklık etmiş ve bugün bir tarihi miras olarak ziyaret ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bakacak Mahallesi Kaya Mezarı, tarihi geçmişi ile dikkat çekiyor. Bu mezar, 
 
 ## Coğrafya
 
-Bakacak Mahallesi Kaya Mezarı, coğrafi konumu itibariyle Karadeniz Bölgesi'nin güzelliklerini sunuyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak deniz seviyesinden yüksek bir konumda yer alan bu yer, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölgenin iklimi, Karadeniz Bölgesi'nin nemli ve ılıman iklimine uygun olarak şekilleniyor. Kaya mezarının etrafı, çeşitli bitki türleri ile dolu ve bu bölge, zengin bir fauna ile ziyaretçilerini karşılıyor. Bölgenin coğrafi güzellikleri, ziyaretçilerini doğanın içine davet ediyor.
+Bakacak Mahallesi Kaya Mezarı, coğrafi konumu itibariyle Karadeniz Bölgesi'nin güzelliklerini sunuyor. Coğrafi olarak deniz seviyesinden yüksek bir konumda yer alan bu yer, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölgenin iklimi, Karadeniz Bölgesi'nin nemli ve ılıman iklimine uygun olarak şekilleniyor. Kaya mezarının etrafı, çeşitli bitki türleri ile dolu ve bu bölge, zengin bir fauna ile ziyaretçilerini karşılıyor. Bölgenin coğrafi güzellikleri, ziyaretçilerini doğanın içine davet ediyor.
 
 ## Flora ve Fauna
 

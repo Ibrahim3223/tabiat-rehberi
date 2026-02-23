@@ -22,7 +22,7 @@ wikidata_id: "Q108228272"
 
 # Denizli-Eskere-Cicekli-Karacam
 
-Denizli-Eskere-Cicekli-Karacam milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyen bir güzelliğe sahip. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini sunuyor. Denizli'nin merkezine yakın konumuyla da kolay ulaşılabilir bir yer olarak dikkat çekiyor.
+Denizli-Eskere-Cicekli-Karacam milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini sunuyor. Denizli'nin merkezine yakın konumuyla da kolay ulaşılabilir bir yer olarak dikkat çekiyor.
 
 ## Tarihçe
 

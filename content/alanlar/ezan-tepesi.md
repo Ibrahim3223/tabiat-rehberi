@@ -28,7 +28,7 @@ wikidata_id: "Q31388843"
 
 # Ezan Tepesi
 
-Ezan Tepesi, Tekirdağ'ın Marmara Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki diğer tepelerle birlikte bölgeye özel bir görünüm kazandırıyor. Ezan Tepesi'nin eteklerinde çeşitli değil, çeşitli bitki türleri bulunmakta ve bu durum tepeyi bir doğa harikası haline getirmekte. Tepeye tırmanırken, manzaranın güzelliği ve tarihi geçmişiyle ilgili hikayeler, ziyaretçileri etkileyerek burayı özel kılıyor.
+Ezan Tepesi, Tekirdağ'ın Marmara Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Ezan Tepesi'nin eteklerinde çeşitli değil, çeşitli bitki türleri bulunmakta ve bu durum tepeyi bir doğa harikası haline getirmekte. Tepeye tırmanırken, manzaranın güzelliği ve tarihi geçmişiyle ilgili hikayeler, ziyaretçileri etkileyerek burayı özel kılıyor.
 
 ## Tarihçe
 

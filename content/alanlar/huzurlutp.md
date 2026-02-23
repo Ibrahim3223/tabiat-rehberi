@@ -22,7 +22,7 @@ wikidata_id: "Q108228777"
 
 # HUZURLU_TP
 
-HUZURLU_TP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Bu muhteşem doğal alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik bölgelerinden biridir. HUZURLU_TP, ziyaretçilerini doğanın güzelliği ve çeşitliliği ile baş başa bırakır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğa ile iç içe olmasını sağlar.
+HUZURLU_TP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. HUZURLU_TP, ziyaretçilerini doğanın güzelliği ve çeşitliliği ile baş başa bırakır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğa ile iç içe olmasını sağlar.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ HUZURLU_TP, ziyaretçilerine benzersiz bir deneyim sunar. Burada, doğa ile iç 
 ## İlginç Bilgiler
 
 - HUZURLU_TP, 140 hektarlık bir yeşil alandır.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - HUZURLU_TP, çeşitli bitki türleri ve zengin fauna barındırır.
 - Bu bölge, doğa severlerin ve bilim insanlarının ilgisini çeker.
 - HUZURLU_TP, İç Anadolu Bölgesi'nin en önemli doğal bölgelerinden biridir.

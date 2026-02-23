@@ -22,7 +22,7 @@ wikidata_id: "Q108228046"
 
 # Kabaardic
 
-Kabaardic, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil cennet, ziyaretçilerini doğanın kucağına davet ediyor. Kabaardic'in büyüleyici güzelliği, ziyaretçilerini büyülüyor ve doğanın sunduğu tüm güzellikleri keşfetmeye davet ediyor. Bu milli park, doğa severlerin ve macera tutkunlarının buluşma noktası olarak dikkat çekiyor. Ziyaretçiler, Kabaardic'in sunduğu çeşitli aktiviteler ve güzelliklerle dolu bir gün geçirebiliyorlar.
+Kabaardic, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Kabaardic'in büyüleyici güzelliği, ziyaretçilerini büyülüyor ve doğanın sunduğu tüm güzellikleri keşfetmeye davet ediyor. Bu milli park, doğa severlerin ve macera tutkunlarının buluşma noktası olarak dikkat çekiyor. Ziyaretçiler, Kabaardic'in sunduğu çeşitli aktiviteler ve güzelliklerle dolu bir gün geçirebiliyorlar.
 
 ## Tarihçe
 

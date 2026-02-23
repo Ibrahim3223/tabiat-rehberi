@@ -29,7 +29,7 @@ wikidata_id: "Q31388487"
 
 # Ova Tepesi
 
-Ova Tepesi, Rize ilinin muhteşem manzarasına ev sahipliği yapan bir tepe olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin merakla ziyaret ettiği bir nokta. Ova Tepesi, Karadeniz Bölgesi'nin en güzel yerlerinden biri olarak biliniyor ve doğa tutkunları için bir cennet olarak kabul ediliyor. Burada, yeşilin her tonunu görebilir ve doğanın güzelliğini keşfedebilirsiniz. Ova Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yer olarak biliniyor.
+Ova Tepesi, Rize ilinin muhteşem manzarasına ev sahipliği yapan bir tepe olarak karşımıza çıkıyor. Ova Tepesi, Karadeniz Bölgesi'nin en güzel yerlerinden biri olarak biliniyor ve doğa tutkunları için bir cennet olarak kabul ediliyor. Burada, yeşilin her tonunu görebilir ve doğanın güzelliğini keşfedebilirsiniz. Ova Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yer olarak biliniyor.
 
 ## Tarihçe
 

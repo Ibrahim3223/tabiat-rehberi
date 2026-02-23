@@ -28,7 +28,7 @@ wikidata_id: "Q34829710"
 
 # Öküzcüirek Tepesi
 
-Öküzcüirek Tepesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biri olarak Edirne'de yer alır. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplıdır. Tepenin eteklerinde akan nehirler ve derenin oluşturduğu vadi, bu bölgenin doğal güzelliğini ortaya koyar. Tarih boyunca önemli olaylara tanıklık eden Öküzcüirek Tepesi, günümüzde hem turistlerin hem de doğa severlerin ilgisini çekmektedir.
+Öküzcüirek Tepesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biri olarak Edirne'de yer alır. Tepenin eteklerinde akan nehirler ve derenin oluşturduğu vadi, bu bölgenin doğal güzelliğini ortaya koyar. Tarih boyunca önemli olaylara tanıklık eden Öküzcüirek Tepesi, günümüzde hem turistlerin hem de doğa severlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ wikidata_id: "Q34829710"
 
 ## Flora ve Fauna
 
-Öküzcüirek Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, mevsimsel değişimlere göre farklı bitkiler yetişir. Tepenin eteklerinde yer alan ormanlar, bu bölgenin ekolojik dengesini sağlar. Öküzcüirek Tepesi'nin fauna zenginliği, bu bölgenin doğal değerlerini yansıtmaktadır. Tepenin çevresinde, çeşitli hayvan türleri yaşamaktadır. Bu bölgede, mevsimsel göçlerin de etkisi görülmektedir. Öküzcüirek Tepesi, flora ve fauna çeşitliliği ile önemli bir doğal alan olarak kabul edilmektedir.
+ Bu bölgede, mevsimsel değişimlere göre farklı bitkiler yetişir. Tepenin eteklerinde yer alan ormanlar, bu bölgenin ekolojik dengesini sağlar. Öküzcüirek Tepesi'nin fauna zenginliği, bu bölgenin doğal değerlerini yansıtmaktadır. Tepenin çevresinde, çeşitli hayvan türleri yaşamaktadır. Bu bölgede, mevsimsel göçlerin de etkisi görülmektedir. Öküzcüirek Tepesi, flora ve fauna çeşitliliği ile önemli bir doğal alan olarak kabul edilmektedir.
 
 ## Ziyaret Bilgileri
 

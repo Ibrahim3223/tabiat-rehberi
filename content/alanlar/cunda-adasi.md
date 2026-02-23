@@ -30,7 +30,7 @@ wikidata_id: "Q2740733"
 
 # Cunda Adası
 
-Ayvalık'ın büyüleyici güzelliğiçinde yer alan Cunda Adası, Balıkesir'in en önemli turizm merkezlerinden biri. Ayvalık ilçesinin bir parçası olan ada, históri ve doğal güzelliklerinin yanı sıra, misafirperver halkı ile de dikkat çekiyor. Doğal güzelliklerinin yanı sıra tarihi yapıları ve lezzetli mutfağı ile ziyaretçilerini kendisine bağlayan Cunda Adası, her yıl binlerce turisti ağırlıyor. Cunda Adası, Ayvalık'ın sakin ve huzurlu atmosferinin bir parçası olarak, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Ayvalık'ın büyüleyici güzelliğiçinde yer alan Cunda Adası, Balıkesir'in en önemli turizm merkezlerinden biri. Ayvalık ilçesinin bir parçası olan ada, tarihi ve doğal güzelliklerinin yanı sıra, misafirperver halkı ile de dikkat çekiyor. Doğal güzelliklerinin yanı sıra tarihi yapıları ve lezzetli mutfağı ile ziyaretçilerini kendisine bağlayan Cunda Adası, her yıl binlerce turisti ağırlıyor.
 
 ## Tarihçe
 
@@ -52,13 +52,13 @@ Mevsimsel açıdan, Cunda Adası'nın iklim karakteri ılıman ve nemli. Yaz ayl
 
 ## Flora ve Fauna
 
-Cunda Adası, Balıkesir'in sahil şeridinde yer alan bir ada ekosistemi olarak dikkat çekiyor. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türlerDominant oluyor. 
+Cunda Adası, Balıkesir'in sahil şeridinde yer alan bir ada ekosistemi olarak dikkat çekiyor. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türlerDominant oluyor.
 
 İlkbaharla birlikte, ada çiçeklerle dolu bir manzara sunuyor. Kıyı bitkileri, deniz kenarındaki kayalıklarda ve kumularda yer alıyor. Sonbaharda ise, göçmen kuşlar adayı ziyaret ediyor ve burada konaklıyorlar.
 
 Yaban hayatı açısından zengin bir çeşitlilik sunan Cunda Adası, memeliler, kuşlar ve sürüngenlerle dolu. Deniz kuşları, adanın kıyılarında yuva yapıyor ve burada yaşamlarını sürdürüyorlar. Memeliler ve sürüngenler ise, adanın iç kesimlerinde, step ve bozkır alanlarında yaşamlarını sürdürüyorlar.
 
-Cunda Adası, izole bir ada ekosistemi olarak, koruma altına alınması gereken bir bölge. Burada yaşayan türler, ada koşullarına adapte olmuş ve benzersiz bir ekosistem oluşturmuş durumdalar. Bu nedenle, Cunda Adası'nın korunması ve bảolanması, bölgenin doğal dengesinin devamı için çok önemli.
+Cunda Adası, izole bir ada ekosistemi olarak, koruma altına alınması gereken bir bölge. Burada yaşayan türler, ada koşullarına adapte olmuş ve benzersiz bir ekosistem oluşturmuş durumdalar. Bu nedenle, Cunda Adası'nın korunması ve korunması, bölgenin doğal dengesinin devamı için çok önemli.
 
 ## Ziyaret Bilgileri
 

@@ -29,15 +29,15 @@ wikidata_id: "Q135582719"
 
 # Taceddin Altunbaş Kümbeti
 
-Taceddin Altunbaş Kümbeti, Amasya'nın tarihi ve doğal güzelliklerinin birleştiği noktada yer alıyor. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Taceddin Altunbaş Kümbeti, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, bu mekanın sunduğu huzurlu atmosferi deneyimleyerek, hem doğayla hem de tarihe dokunabiliyorlar.
+Taceddin Altunbaş Kümbeti, Amasya'nın tarihi ve doğal güzelliklerinin birleştiği noktada yer alıyor. Taceddin Altunbaş Kümbeti, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, bu mekanın sunduğu huzurlu atmosferi deneyimleyerek, hem doğayla hem de tarihe dokunabiliyorlar.
 
 ## Tarihçe
 
-Taceddin Altunbaş Kümbeti, yüzyılların geçmişiyle dolu bir tarihi mekan. Taceddin Altunbaş'ın kimliği ve yaşamı hakkında detaylı bilgiler bulunmasa da, kümbetin tarihi geçmişi ve mimarisi ziyaretçileri etkiliyor. Bu yapı, Karadeniz Bölgesi'nin tarihi mirasının önemli bir parçası olarak kabul ediliyor. Taceddin Altunbaş Kümbeti, ziyaretçilere hem tarihsel açıdan hem de kültürel olarak zengin bir expérience sunuyor. Ziyaretçiler, bu kümbetin tarihi ve mimarisi hakkında bilgi edinerek, Karadeniz Bölgesi'nin zengin tarihini keşfedebiliyorlar.
+Taceddin Altunbaş Kümbeti, yüzyılların geçmişiyle dolu bir tarihi mekan. Taceddin Altunbaş'ın kimliği ve yaşamı hakkında detaylı bilgiler bulunmasa da, kümbetin tarihi geçmişi ve mimarisi ziyaretçileri etkiliyor. Bu yapı, Karadeniz Bölgesi'nin tarihi mirasının önemli bir parçası olarak kabul ediliyor. Taceddin Altunbaş Kümbeti, ziyaretçilere hem tarihsel açıdan hem de kültürel olarak zengin bir deneyim sunuyor. Ziyaretçiler, bu kümbetin tarihi ve mimarisi hakkında bilgi edinerek, Karadeniz Bölgesi'nin zengin tarihini keşfedebiliyorlar.
 
 ## Coğrafya
 
-Taceddin Altunbaş Kümbeti, Amasya'nın merkezi bölgesinde yer alıyor. Bu bölge, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Yeşil alanlar, ormanlar ve dağlarla çevrili olan Amasya, ziyaretçilerine doğal güzelliklerin tadını çıkarma imkanı sunuyor. Taceddin Altunbaş Kümbeti de bu yeşil alanların içerisinde yer alıyor ve ziyaretçilere yaklaşık 200 futbol sahası büyüklüğünde bir alan sunuyor. Bu mekan, hem coğrafi konumu hem de doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, Taceddin Altunbaş Kümbeti'ni ziyaret ederek, Amasya'nın doğal güzelliklerini keşfedebiliyorlar.
+Taceddin Altunbaş Kümbeti, Amasya'nın merkezi bölgesinde yer alıyor. Bu bölge, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Yeşil alanlar, ormanlar ve dağlarla çevrili olan Amasya, ziyaretçilerine doğal güzelliklerin tadını çıkarma imkanı sunuyor. Bu mekan, hem coğrafi konumu hem de doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, Taceddin Altunbaş Kümbeti'ni ziyaret ederek, Amasya'nın doğal güzelliklerini keşfedebiliyorlar.
 
 ## Flora ve Fauna
 

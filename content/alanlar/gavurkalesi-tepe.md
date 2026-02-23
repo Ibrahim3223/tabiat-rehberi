@@ -29,7 +29,7 @@ wikidata_id: "Q31390392"
 
 # Gavurkalesi Tepe
 
-Gavurkalesi Tepe, Konya ilinin merkezinde yer alan ve tarihin derin izlerini taşıyan bir tepe. Bu tarihi tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ki bu, 200 futbol sahası büyüklüğüne eşdeğer. Gavurkalesi Tepe, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle karşılar. Bu tepe, bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak kabul edilir. Ayrıca, tepeye yapılan ziyaretler, Konya'nın turizm potansiyelini göstermesi açısından da değerlidir.
+Gavurkalesi Tepe, Konya ilinin merkezinde yer alan ve tarihin derin izlerini taşıyan bir tepe. Gavurkalesi Tepe, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle karşılar. Bu tepe, bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak kabul edilir. Ayrıca, tepeye yapılan ziyaretler, Konya'nın turizm potansiyelini göstermesi açısından da değerlidir.
 
 ## Tarihçe
 

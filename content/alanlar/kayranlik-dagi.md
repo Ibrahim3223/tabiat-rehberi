@@ -32,7 +32,7 @@ Kahramanmaraş'ın zengin doğal güzelliklerini keşfetmek isteyenler için Kay
 
 ## Tarihçe
 
-Kahramanmaraş, tarihin sâu izlerini taşıyan bir bölgedir. Hitit, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmış bu topraklar, zengin bir kültürel mirasa sahiptir. Kayranlık Dağı da, bu tarihsel zenginliğin bir parçasını oluşturan doğal güzelliklerden biridir.
+Kahramanmaraş, tarihin derin izlerini taşıyan bir bölgedir. Hitit, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmış bu topraklar, zengin bir kültürel mirasa sahiptir. Kayranlık Dağı da, bu tarihsel zenginliğin bir parçasını oluşturan doğal güzelliklerden biridir.
 
 Türkiye'de, özellikle İç Anadolu ve Doğu Anadolu bölgelerinde bulunan dağlık alanlar, binlerce yıldır insanların yaşamlarında önemli bir rol oynamışlardır. Bu alanlar, yaylacılık ve hayvancılık faaliyetleri için elverişli koşullar sunmuş, ayrıca ticaret yolları ve göç rotaları olarak kullanılmışlardır. Kahramanmaraş bölgesinde de, benzer şekilde, dağlık alanlar insanların yaşamlarını şekillendirmiş ve tarih boyunca önemli birer uğrak noktası olarak görev yapmışlardır.
 

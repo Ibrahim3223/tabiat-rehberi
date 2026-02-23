@@ -50,11 +50,11 @@ Mevsimsel açıdan bakıldığında, Hanşeref Dağı'nın iklim karakteri olduk
 
 ## Flora ve Fauna
 
-Hanşeref Dağı, Muş'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, alpin çayırlar renkli çiçeklerle donanıyor. 
+Hanşeref Dağı, Muş'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, alpin çayırlar renkli çiçeklerle donanıyor.
 
 Bitki örtüsünü oluşturan hakim türler, mevsimsel değişimlere uyum sağlıyor. Alpin flora, dağların yükseklik zonlarına adapte olmuş özel bitkilerden oluşuyor. Bu bitkiler, dağ hayvanlarının yaşamını sürdürmelerine olanak tanıyor.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağ çayırında otluyor. Kuşlar, göç mevsiminde buraya uğruyor. Sürüngenler, kayalıklarda yaşamını sürdürüyor. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağ çayırında otluyor. Kuşlar, göç mevsiminde buraya uğruyor. Sürüngenler, kayalıklarda yaşamını sürdürüyor.
 
 Hanşeref Dağı, yüksek dağ ekolojisine ev sahipliği yaptığı için ekolojik olarak önemli bir alan. Bu nedenle koruma altına alınması gerekiyor.
 

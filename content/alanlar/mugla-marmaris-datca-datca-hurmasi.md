@@ -22,7 +22,7 @@ wikidata_id: "Q108228120"
 
 # Mugla Marmaris Datca-Datca Hurmasi
 
-Mugla Marmaris Datca-Datca Hurması, Marmaris'te bulunan 140 hektarlık bir milli parktır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Marmaris'in güzelliklerine bir yenisini ekleyen Datca Hurması, ziyaretçilerini bekliyor. Bu doğa harikası, Marmaris'in tarihi ve kültürel zenginliklerini de ziyaretçilere sunuyor. 140 hektarlık bu yeşil alan, Marmaris'in en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Mugla Marmaris Datca-Datca Hurması, Marmaris'te bulunan 140 hektarlık bir milli parktır. Marmaris'in güzelliklerine bir yenisini ekleyen Datca Hurması, ziyaretçilerini bekliyor. Bu doğa harikası, Marmaris'in tarihi ve kültürel zenginliklerini de ziyaretçilere sunuyor. 140 hektarlık bu yeşil alan, Marmaris'in en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Marmaris Datca-Datca Hurması'nın tarihi geçmişi, Marmaris'in tarihi ile iç 
 
 ## Coğrafya
 
-Marmaris Datca-Datca Hurması, Marmaris'in en önemli doğal güzelliklerinden biri. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmaris'in güzelliklerine bir yenisini ekliyor. Datca Hurması, Marmaris'in coğrafi yapısını da etkiliyor. Bu milli park, Marmaris'in iklimini ve çevre koşullarını da olumlu yönde etkiliyor. Marmaris'in coğrafi konumu, Datca Hurması'nın güzelliklerini daha da artırıyor. Bu bölge, Marmaris'in en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Marmaris'in coğrafi yapısı, Datca Hurması'nın güzelliklerini daha da anlamlandırmış.
+Marmaris Datca-Datca Hurması, Marmaris'in en önemli doğal güzelliklerinden biri. Datca Hurması, Marmaris'in coğrafi yapısını da etkiliyor. Bu milli park, Marmaris'in iklimini ve çevre koşullarını da olumlu yönde etkiliyor. Marmaris'in coğrafi konumu, Datca Hurması'nın güzelliklerini daha da artırıyor. Bu bölge, Marmaris'in en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Marmaris'in coğrafi yapısı, Datca Hurması'nın güzelliklerini daha da anlamlandırmış.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Marmaris Datca-Datca Hurması, ziyaretçilerini bekliyor. Bu milli park, Marmari
 ## İlginç Bilgiler
 
 - Marmaris Datca-Datca Hurması, 140 hektarlık bir milli parktır.
-- Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Datca Hurması, Marmaris'in en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 - Marmaris'in flora ve fauna, Datca Hurması'nın güzelliklerini daha da anlamlandırmış.
 - Bu milli park, ziyaretçilerine doğa ile iç içe bir deneyim sunuyor.

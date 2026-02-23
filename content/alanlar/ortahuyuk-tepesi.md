@@ -28,11 +28,11 @@ wikidata_id: "Q34887844"
 
 # Ortahüyük Tepesi
 
-Ortahüyük Tepesi, Ankara'nın kalbinde yer alan ve şehrin tarihi ile doğal güzelliklerini bir araya getiren önemli bir nokta. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini şehrin panoramik manzarasıyla karşılayacak. İnsanlık tarihi boyunca birçok uygarlığa ev sahipliği yapmış olan bu bölgede, çeşitli kültürel ve tarihi kalıntılar bulunmakta. Ortahüyük Tepesi, aynı zamanda zengin flora ve fauna çeşitliliği ile dikkat çekmekte.
+Ortahüyük Tepesi, Ankara'nın kalbinde yer alan ve şehrin tarihi ile doğal güzelliklerini bir araya getiren önemli bir nokta. İnsanlık tarihi boyunca birçok uygarlığa ev sahipliği yapmış olan bu bölgede, çeşitli kültürel ve tarihi kalıntılar bulunmakta. Ortahüyük Tepesi, aynı zamanda zengin flora ve fauna çeşitliliği ile dikkat çekmekte.
 
 ## Tarihçe
 
-Ortahüyük Tepesi, tarihin sâu sayfalarına uzanan bir geçmişe sahip. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her bir medeniyet bu topraklara kendi kültürel ve tarihi izlerini bırakmış. Tarihi geçmişi, bu bölgenin önemini ve zenginliğini gözler önüne seriyor. Ortahüyük Tepesi, Ankara'nın tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor. Bu tepe, ziyaretçilerine şehrin tarihi derinliğini ve kültürel çeşitliliğini keşfetme fırsatı sunuyor.
+Ortahüyük Tepesi, tarihin derin sayfalarına uzanan bir geçmişe sahip. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her bir medeniyet bu topraklara kendi kültürel ve tarihi izlerini bırakmış. Tarihi geçmişi, bu bölgenin önemini ve zenginliğini gözler önüne seriyor. Ortahüyük Tepesi, Ankara'nın tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor. Bu tepe, ziyaretçilerine şehrin tarihi derinliğini ve kültürel çeşitliliğini keşfetme fırsatı sunuyor.
 
 ## Coğrafya
 

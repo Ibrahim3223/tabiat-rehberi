@@ -30,7 +30,7 @@ wikidata_id: "Q7524921"
 
 # Tarihî Sinop Cezaevi
 
-Tarihî Sinop Cezaevi, Sinop'un tarihi ve doğası ile çevrili bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir. Bu plaj, tarihi Sinop Cezaevi'nin immediate yakınında yer alır ve ziyaretçilere hem tarihi hem de doğal güzellikleri sunar. Sinop'un merkezine uzun bir mesafe uzaklıkta olan plaj, şehir içi ulaşım araçları ile kolayca ulaşılabilir. Plajın çevresinde çeşitli restoranlar ve kafeler bulunmaktadır.
+Tarihî Sinop Cezaevi, Sinop'un tarihi ve doğası ile çevrili bir plajdır. Bu plaj, tarihi Sinop Cezaevi'nin immediate yakınında yer alır ve ziyaretçilere hem tarihi hem de doğal güzellikleri sunar. Sinop'un merkezine uzun bir mesafe uzaklıkta olan plaj, şehir içi ulaşım araçları ile kolayca ulaşılabilir. Plajın çevresinde çeşitli restoranlar ve kafeler bulunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Tarihî Sinop Cezaevi, tarihin derinliklerine uzanan bir geçmişe sahiptir. Sin
 
 ## Coğrafya
 
-Tarihî Sinop Cezaevi, Karadeniz Bölgesi'nin en güzel plajlarından birine sahiptir. Plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Sinop'un merkezine uzun bir mesafe uzaklıkta olan plaj, şehir içi ulaşım araçları ile kolayca ulaşılabilir. Plajın çevresinde çeşitli restoranlar ve kafeler bulunmaktadır ve ziyaretçilere geniş bir yemek seçeneği sunar. Karadeniz Bölgesi'nin karakteristik iklimi, bu plajı yıl boyunca ziyaret etmek için ideal bir yer haline getirir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hüküm sürer. Bu iklim, plajın doğal güzelliklerini daha da belirginleştirir ve ziyaretçilere unutulmaz bir deneyim sunar.
+Tarihî Sinop Cezaevi, Karadeniz Bölgesi'nin en güzel plajlarından birine sahiptir. Sinop'un merkezine uzun bir mesafe uzaklıkta olan plaj, şehir içi ulaşım araçları ile kolayca ulaşılabilir. Plajın çevresinde çeşitli restoranlar ve kafeler bulunmaktadır ve ziyaretçilere geniş bir yemek seçeneği sunar. Karadeniz Bölgesi'nin karakteristik iklimi, bu plajı yıl boyunca ziyaret etmek için ideal bir yer haline getirir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hüküm sürer. Bu iklim, plajın doğal güzelliklerini daha da belirginleştirir ve ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Tarihî Sinop Cezaevi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri d
 
 - Tarihî Sinop Cezaevi, Sinop'un en önemli turizm merkezlerinden biridir.
 - Cezaevinin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyan bir bölge olarak bilinir.
-- Plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Sinop'un merkezine uzun bir mesafe uzaklıkta olan plaj, şehir içi ulaşım araçları ile kolayca ulaşılabilir.
 - Plajın çevresinde çeşitli restoranlar ve kafeler bulunmaktadır ve ziyaretçilere geniş bir yemek seçeneği sunar.

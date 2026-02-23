@@ -22,7 +22,7 @@ wikidata_id: "Q108228869"
 
 # Çiğ Gölü Sulak Alanı
 
-İç Anadolu Bölgesi'nin coğrafi çeşitliliği, Çiğ Gölü Sulak Alanı gibi özel alanlarla kendini gösterir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli sulak alanlarından biri olarak dikkat çekiyor. Çiğ Gölü Sulak Alanı, doğa severler için bir cennet niteliğinde olup, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Gölün etrafındaki yeşil alanlar, hem ziyaretçilere hem de bölgede yaşayan canlılara yaşam alanı sağlar. Bu sulak alan, bölgedeki ekosistemin dengesini korumak için önemli bir rol oynar.
+İç Anadolu Bölgesi'nin coğrafi çeşitliliği, Çiğ Gölü Sulak Alanı gibi özel alanlarla kendini gösterir. Çiğ Gölü Sulak Alanı, doğa severler için bir cennet niteliğinde olup, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Gölün etrafındaki yeşil alanlar, hem ziyaretçilere hem de bölgede yaşayan canlılara yaşam alanı sağlar. Bu sulak alan, bölgedeki ekosistemin dengesini korumak için önemli bir rol oynar.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ wikidata_id: "Q108228869"
 ## İlginç Bilgiler
 
 - Çiğ Gölü Sulak Alanı, bölgenin en önemli sulak alanlarından biridir.
-- Bu sulak alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Çiğ Gölü, birçok canlı türünün yaşam alanı olarak hizmet verir.
 - Bu sulak alan, mevsimsel değişimlere göre farklı canlı türlerini barındırır.
 - Çiğ Gölü Sulak Alanı, doğa severler için bir cennet niteliğindedir.

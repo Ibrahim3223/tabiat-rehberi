@@ -50,7 +50,7 @@ Doğal bir göller sistemine sahip olan Karagöl, çevresindeki dağlarla çevri
 
 ## Flora ve Fauna
 
-Karagöl, Giresun'un step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir göldür. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Karagöl, Giresun'un step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir göldür. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte göl çevresinde çeşitli çiçekler açar. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler bulunur. Gölün sulak alanlarında, sazlık ve kamışlar gibi sulak alan bitkileri yaşam alanı bulur.
 

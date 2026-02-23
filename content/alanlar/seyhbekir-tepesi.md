@@ -28,7 +28,7 @@ wikidata_id: "Q31385465"
 
 # Şeyhbekir Tepesi
 
-Şanlıurfa'nın tarihi ve doğal güzelliklerini bir arada sunan Şeyhbekir Tepesi, ziyaretçilerini bekliyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Şanlıurfa'nın merkezine yakın bir konumda bulunan Şeyhbekir Tepesi, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde bulunan tarihi yapılar ve çevresindeki doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Şanlıurfa'nın tarihi ve doğal güzelliklerini bir arada sunan Şeyhbekir Tepesi, ziyaretçilerini bekliyor. Şanlıurfa'nın merkezine yakın bir konumda bulunan Şeyhbekir Tepesi, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde bulunan tarihi yapılar ve çevresindeki doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

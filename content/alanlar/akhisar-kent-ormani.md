@@ -1,7 +1,7 @@
 ---
 title: "Akhisar Kent Ormanı"
 date: "2026-01-09T21:15:07.103Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228725"
 
 # Akhisar Kent Ormanı
 
-Akhisar Kent Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık geniş bir yeşil alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Orman, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Ziyaretçiler, bu doğal cennette hem doğayı keşfedebilir hem de dinlenebilir. Akhisar Kent Ormanı, özellikle şehir hayatının stresinden kaçmak isteyenler için ideal bir kaçış noktasıdır. Ormanın içinde, yürüyüş parkurları, piknik alanları ve dinlenme noktaları gibi birçok imkân bulunmaktadır.
+Akhisar Kent Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık geniş bir yeşil alana sahiptir. Orman, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Ziyaretçiler, bu doğal cennette hem doğayı keşfedebilir hem de dinlenebilir. Akhisar Kent Ormanı, özellikle şehir hayatının stresinden kaçmak isteyenler için ideal bir kaçış noktasıdır. Ormanın içinde, yürüyüş parkurları, piknik alanları ve dinlenme noktaları gibi birçok imkân bulunmaktadır.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Akhisar Kent Ormanı, ziyaretçilere birçok olanak sunar. Orman içinde, yürü
 ## İlginç Bilgiler
 
 - Akhisar Kent Ormanı, 140 hektarlık bir alana sahiptir.
-- Orman, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Orman, çeşitli bitki türleri ile kaplıdır.
 - Orman, zengin fauna ile ziyaretçilerini karşılar.
 - Orman içinde, yürüyüş parkurları, piknik alanları ve dinlenme noktaları gibi birçok imkân bulunmaktadır.

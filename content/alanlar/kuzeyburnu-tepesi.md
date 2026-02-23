@@ -28,7 +28,7 @@ wikidata_id: "Q31558949"
 
 # Kuzeyburnu Tepesi
 
-Kuzeyburnu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, Ankara'nın doğal güzelliklerinden biri. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Kuzeyburnu Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer almakta. Bu tepe, hem Ankara'nın hem de çevredeki diğer illerin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Kuzeyburnu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Kuzeyburnu Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer almakta. Bu tepe, hem Ankara'nın hem de çevredeki diğer illerin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kuzeyburnu Tepesi'nin tarihi geçmişi oldukça eskilere dayanmakta. Bu tepe, y�
 
 ## Coğrafya
 
-Kuzeyburnu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre. Kuzeyburnu Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer almakta. Bu tepe, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Kuzeyburnu Tepesi, Ankara'nın iklimini etkileyen önemli bir faktör. Bu tepe, Ankara'nın çevresindeki diğer illerin doğal güzelliklerini keşfetmek isteyenler için de önemli bir merkez.
+Kuzeyburnu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre. Kuzeyburnu Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer almakta. Bu tepe, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Kuzeyburnu Tepesi, Ankara'nın iklimini etkileyen önemli bir faktör. Bu tepe, Ankara'nın çevresindeki diğer illerin doğal güzelliklerini keşfetmek isteyenler için de önemli bir merkez.
 
 ## Flora ve Fauna
 

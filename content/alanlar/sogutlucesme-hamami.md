@@ -1,7 +1,7 @@
 ---
 title: "Söğütlüçeşme Hamamı"
 date: "2026-01-10T04:32:16.460Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q105671926"
 
 # Söğütlüçeşme Hamamı
 
-Söğütlüçeşme Hamamı, İstanbul'un Kadıköy ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plaj ve tarihi hamam kompleksi. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktası. Söğütlüçeşme Hamamı, aynı zamanda tarihi bir geçmişe sahip, İstanbul'un en eski ve önemli hamamlarından biri olarak bilinir. Bu mekan, doğa severler ve tarihe merakı olanlar için eşsiz bir deneyim sunar.
+Söğütlüçeşme Hamamı, İstanbul'un Kadıköy ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plaj ve tarihi hamam kompleksi. Söğütlüçeşme Hamamı, aynı zamanda tarihi bir geçmişe sahip, İstanbul'un en eski ve önemli hamamlarından biri olarak bilinir. Bu mekan, doğa severler ve tarihe merakı olanlar için eşsiz bir deneyim sunar.
 
 ## Tarihçe
 

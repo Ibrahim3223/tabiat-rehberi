@@ -50,11 +50,11 @@ Mevsimsel olarak, Erhacı Gölü'nün iklimi, bölgenin genel iklim karakterine 
 
 ## Flora ve Fauna
 
-Erhacı Gölü, Iğdır'ın yüksek dağ ekolojisinde yer alan bir göldür. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Erhacı Gölü, Iğdır'ın yüksek dağ ekolojisinde yer alan bir göldür. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, göl çevresinde alpin çayırlar hakimdir. İlkbaharda, çayırlar renklidir ve çeşitli çiçeklerle kaplanır. Sonbaharda ise, gölün suyu soğur ve sulak alan bitkileri gölü çevreler. 
+Bitki Örtüsü olarak, göl çevresinde alpin çayırlar hakimdir. İlkbaharda, çayırlar renklidir ve çeşitli çiçeklerle kaplanır. Sonbaharda ise, gölün suyu soğur ve sulak alan bitkileri gölü çevreler.
 
-Yaban Hayatı olarak, göl su kuşlarına ev sahipliği yapar. Göç mevsiminde, binlerce su kuşu bu gölden geçer. Gölde ayrıca, çeşitli balıklar yaşar. 
+Yaban Hayatı olarak, göl su kuşlarına ev sahipliği yapar. Göç mevsiminde, binlerce su kuşu bu gölden geçer. Gölde ayrıca, çeşitli balıklar yaşar.
 
 Ekolojik Değer olarak, gölün ekosistemi çok önemlidir. Su kuşları ve balıklar, gölün suyu ve sulak alan bitkilerine bağımlıdır. Gölün korunması, bu canlıların yaşamını sürdürmesi için çok önemlidir.
 

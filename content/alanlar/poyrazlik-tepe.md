@@ -50,7 +50,7 @@ Doğal yapısı itibariyle Poyrazlık Tepe, bir ova veya düzlükten ziyade, dah
 
 ## Flora ve Fauna
 
-Poyrazlık Tepe, Tokat'ın nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
+Poyrazlık Tepe, Tokat'ın nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, tepeye çiçeklerin rengarenk tonları hakim oluyor. Yaban hayatı açısından, dağların yükseklik zonlarında, çeşitli memeli ve kuş türlerine rastlama mümkün. Sürüngenler de, bu dağ ekosisteminin önemli bir parçasını oluşturuyor.
 

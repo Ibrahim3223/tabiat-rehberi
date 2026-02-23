@@ -23,7 +23,7 @@ wikidata_id: "Q108228633"
 
 # KOCAELİ
 
-Kocaeli milli parkı, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğa alanıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir yeşil alan sunar. Kocaeli milli parkı, doğa severlerin ziyaret edebileceği bir alan olarak bilinir ve burada çeşitli bitki türleri ile karşılaşma mümkündür. Park, ziyaretçilere piknik alanları, yürüyüş yolları ve doğa ile iç içe bir ortam sunar.
+Kocaeli milli parkı, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğa alanıdır. Kocaeli milli parkı, doğa severlerin ziyaret edebileceği bir alan olarak bilinir ve burada çeşitli bitki türleri ile karşılaşma mümkündür. Park, ziyaretçilere piknik alanları, yürüyüş yolları ve doğa ile iç içe bir ortam sunar.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Kocaeli milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Kocaeli milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğa alanıdır. Bu alan, yaklaşık 140 hektarlık bir alanı kapsar ve çeşitli bitki türleri ile zengin bir fauna sunar. Park, ziyaretçilere piknik alanları, yürüyüş yolları ve doğa ile iç içe bir ortam sunar. Kocaeli milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri nedeniyle, ziyaretçilere benzersiz bir doğa deneyimi sunar. Parkın coğrafi yapısı, ziyaretçilere çeşitli olanaklar sunar ve doğa ile iç içe bir ortamda dinlenebilmelerine olanak tanır. Kocaeli milli parkı, ziyaretçilere, bölgenin coğrafi özelliklerini ve doğa güzelliğini keşfetme fırsatı sunar.
+Kocaeli milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğa alanıdır. Park, ziyaretçilere piknik alanları, yürüyüş yolları ve doğa ile iç içe bir ortam sunar. Kocaeli milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri nedeniyle, ziyaretçilere benzersiz bir doğa deneyimi sunar. Parkın coğrafi yapısı, ziyaretçilere çeşitli olanaklar sunar ve doğa ile iç içe bir ortamda dinlenebilmelerine olanak tanır. Kocaeli milli parkı, ziyaretçilere, bölgenin coğrafi özelliklerini ve doğa güzelliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227262"
 
 # Kastamonu-Inebolu Kayin
 
-Kastamonu-Inebolu Kayin milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Milli park, zengin flora ve fauna çeşitliliği ile ziyaretçilerini büyülüyor. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşma mümkün. Ayrıca, parkın coğrafi konumu ve iklim özellikleri, ziyaretçilere benzersiz bir deneyim sunuyor.
+Kastamonu-Inebolu Kayin milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Milli park, zengin flora ve fauna çeşitliliği ile ziyaretçilerini büyülüyor. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşma mümkün. Ayrıca, parkın coğrafi konumu ve iklim özellikleri, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

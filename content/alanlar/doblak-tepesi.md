@@ -28,7 +28,7 @@ wikidata_id: "Q31390668"
 
 # Doblak Tepesi
 
-Doblak Tepesi, Amasya'nın gözde noktalarından biri olarak karşımıza çıkıyor. Bu tepenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarla karşılıyor. Doblak Tepesi, hem doğa severler hem de tarih meraklıları için büyük bir çekim merkezi. Tepenin eteklerinde yer alan yerleşim yerleri, bölgenin tarihi geçmişi hakkında önemli ipuçları içeriyor. Doblak Tepesi'ne çıkarken, Karadeniz Bölgesi'nin eşsiz coğrafi yapısını gözler önüne seren manzaralar sizleri bekliyor.
+Doblak Tepesi, Amasya'nın gözde noktalarından biri olarak karşımıza çıkıyor. Doblak Tepesi, hem doğa severler hem de tarih meraklıları için büyük bir çekim merkezi. Tepenin eteklerinde yer alan yerleşim yerleri, bölgenin tarihi geçmişi hakkında önemli ipuçları içeriyor. Doblak Tepesi'ne çıkarken, Karadeniz Bölgesi'nin eşsiz coğrafi yapısını gözler önüne seren manzaralar sizleri bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Doblak Tepesi'nin tarihi geçmişi, Amasya'nın zengin kültür mirasıyla iç i
 
 ## Coğrafya
 
-Doblak Tepesi, Karadeniz Bölgesi'nin coğrafi yapısının en güzel örneklerinden biri. Tepenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarla karşılıyor. Doblak Tepesi, eteklerinde yer alan yerleşim yerleri ile birlikte, bölgenin coğrafi yapısını etkileyen önemli bir unsur. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, bu bölgeyi doğal bir cennet haline getiriyor. Doblak Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını gözler önüne seren önemli bir nokta. Tepenin yüksekliği, ziyaretçilere bölgenin eşsiz manzaralarını sunuyor. Doblak Tepesi, coğrafi konumu itibariyle, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor.
+Doblak Tepesi, Karadeniz Bölgesi'nin coğrafi yapısının en güzel örneklerinden biri. Doblak Tepesi, eteklerinde yer alan yerleşim yerleri ile birlikte, bölgenin coğrafi yapısını etkileyen önemli bir unsur. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, bu bölgeyi doğal bir cennet haline getiriyor. Doblak Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını gözler önüne seren önemli bir nokta. Tepenin yüksekliği, ziyaretçilere bölgenin eşsiz manzaralarını sunuyor. Doblak Tepesi, coğrafi konumu itibariyle, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

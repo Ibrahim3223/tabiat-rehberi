@@ -22,7 +22,7 @@ wikidata_id: "Q108227824"
 
 # Kutahya-Tavsanli Catak
 
-Kutahya-Tavsanli Catak, İç Anadolu Bölgesi'nde yer alan bir milli park. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğa severler için bir cennet. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta. Ziyaretçiler, doğanın güzelliğini ve canlı çeşitliliğini keşfedebilir. Milli park, aynı zamanda doğa yürüyüşleri ve doğa gözlemi için ideal bir yer.
+Kutahya-Tavsanli Catak, İç Anadolu Bölgesi'nde yer alan bir milli park. Bu bölge, doğa severler için bir cennet. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta. Ziyaretçiler, doğanın güzelliğini ve canlı çeşitliliğini keşfedebilir. Milli park, aynı zamanda doğa yürüyüşleri ve doğa gözlemi için ideal bir yer.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler i�
 
 ## Tarihçe
 
-Batman bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahip. İnsanların bu bölgeye yerleşimi, M.Ö. 3000'lü yıllara kadar uzanıyor. Bölge, tarihin çeşitli dönemlerinde Hitit, Asur, Pers, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmıştır. Bu zengin tarih, bölgenin kültürel ve doğal mirasını şekillendirmiştir.
+Batman bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahip. İnsanların bu bölgeye yerleşimi, M.Ö. 3000'lü yıllara kadar uzanıyor. Bölge, tarihin çeşitli dönemlerinde Hitit, Asur, Pers, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmıştır. Bu zengin tarih, bölgenin kültürel ve doğal mirasını şekillendirmiştir.
 
 Keçikebagas Tepesi, bu tarihsel zenginliğin bir parçası olarak, yüzyıllar boyunca insanların yerleşim, tarım ve hayvancılık faaliyetlerine ev sahipliği yapmış olabilir. Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmelerinde önemli bir rol oynamıştır. Yayla ve otlaklar, özellikle kırsal kesimlerde yaşayan insanların geçim kaynakları arasında yer almıştır. Batman bölgesinde de, bu tür doğal alanlar, insanların hayvancılık ve tarım faaliyetleri için hayati önem taşımıştır. İnsanların bu alanlarla olan ilişkisi, bölgeye özgü bir kültürel mirasın oluşmasına katkıda bulunmuştur. Bu bağlamda, Keçikebagas Tepesi, bölgenin doğal ve kültürel zenginliğinin bir parçası olarak görülebilir.
 

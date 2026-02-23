@@ -49,11 +49,11 @@ Jeolojik açıdan incelendiğinde, Kara Tepe'nin fiziksel yapısı hakkında det
 
 ## Flora ve Fauna
 
-Kara Tepe, Çorum'un nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kara Tepe, Çorum'un nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünde, ilkbaharın gelmesiyle birlikte, renkli çiçekler ve yaprakların açılmasıyla birlikte dağ, bir tabloya dönüşür. Sonbaharda, ormanlar sarı, turuncu ve kırmızı tonlara bürünür. Gür ormanlar, çeşitli ağaç türlerine ev sahipliği yapar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağların yükseklik zonlarında, alpin flora ve fauna, özel bir ekosistem oluşturur. Bu ekosistemde, canlılar birbirleriyle ve çevreleriyle yakın bir ilişki içinde yaşar. Örneğin, bazı kuş türleri, göç ettikleri sırada bu dağları önemli bir durak olarak kullanır. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağların yükseklik zonlarında, alpin flora ve fauna, özel bir ekosistem oluşturur. Bu ekosistemde, canlılar birbirleriyle ve çevreleriyle yakın bir ilişki içinde yaşar. Örneğin, bazı kuş türleri, göç ettikleri sırada bu dağları önemli bir durak olarak kullanır.
 
 Ekolojik değer olarak, Kara Tepe, bölgenin biyoçeşitliliğini korumada önemli bir rol oynar. Bu dağ ekosisteminin korunması, sadece yerel canlıların değil, aynı zamanda bölgenin ekolojik dengesinin korunması için de önemlidir.
 

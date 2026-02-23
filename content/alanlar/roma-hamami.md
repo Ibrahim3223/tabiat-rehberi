@@ -1,7 +1,7 @@
 ---
 title: "Roma Hamamı"
 date: "2026-01-09T23:19:36.218Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739025"
 
 # Roma Hamamı
 
-Roma Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde yer alan ve tarihin derinliklerine uzanan bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin gizemli atmosferine davet ediyor. Roma Hamamı, Güneydoğu Anadolu Bölgesi'nin gizli cennetlerinden biri olarak biliniyor. Burası, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çekiyor. Roma Hamamı, Şanlıurfa'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Roma Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde yer alan ve tarihin derinliklerine uzanan bir plajdır. Roma Hamamı, Güneydoğu Anadolu Bölgesi'nin gizli cennetlerinden biri olarak biliniyor. Burası, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çekiyor. Roma Hamamı, Şanlıurfa'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

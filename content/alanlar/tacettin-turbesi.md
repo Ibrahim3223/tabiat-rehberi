@@ -1,7 +1,7 @@
 ---
 title: "Tacettin Türbesi"
 date: "2026-01-10T05:45:39.003Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582338"
 
 # Tacettin Türbesi
 
-Tacettin Türbesi, Kayseri'nin Melikgazi ilçesinde yer alan ve tarihi değerleri ile dikkat çeken bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yeşilliklerle dolu. Bu özel yer, hem tarihi hem de doğal güzellikleri bir araya getirmesiyle ziyaretçilerin ilgisini çekmektedir. Tarihi geçmişi ile birlikte, çevresi de çeşitli bitki türleri ve zengin fauna ile süslüdür. Bu türbenin etrafında, yaklaşık 500 yıllık geçmişi olan câyırlar ve tarihi yapılar bulunmaktadır.
+Tacettin Türbesi, Kayseri'nin Melikgazi ilçesinde yer alan ve tarihi değerleri ile dikkat çeken bir noktadır. Bu özel yer, hem tarihi hem de doğal güzellikleri bir araya getirmesiyle ziyaretçilerin ilgisini çekmektedir. Tarihi geçmişi ile birlikte, çevresi de çeşitli bitki türleri ve zengin fauna ile süslüdür. Bu türbenin etrafında, yaklaşık 500 yıllık geçmişi olan câyırlar ve tarihi yapılar bulunmaktadır.
 
 ## Tarihçe
 

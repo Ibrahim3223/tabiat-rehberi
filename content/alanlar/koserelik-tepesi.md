@@ -28,7 +28,7 @@ wikidata_id: "Q34803784"
 
 # Köserelik Tepesi
 
-Köserelik Tepesi, Adana'nın güneşli tepelerinden biri, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Tepenin eteklerinde çeşitli bitki türleri yetişiyor. Köserelik Tepesi, ziyaretçilerine hem doğal güzelliği hem de tarihi zenginliği sunuyor. Tepenin zirvesine çıkıldığında, Akdeniz Bölgesi'nin geniş ve yeşillik bir manzarası izlenebiliyor. Bu manzara, ziyaretçilere doğanın güzelliğini hissettiriyor.
+ Bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Tepenin eteklerinde çeşitli bitki türleri yetişiyor. Köserelik Tepesi, ziyaretçilerine hem doğal güzelliği hem de tarihi zenginliği sunuyor. Tepenin zirvesine çıkıldığında, Akdeniz Bölgesi'nin geniş ve yeşillik bir manzarası izlenebiliyor. Bu manzara, ziyaretçilere doğanın güzelliğini hissettiriyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Köserelik Tepesi'ne ziyaretçiler, kolayca ulaşabilir. Tepenin etrafındaki ye
 
 ## İlginç Bilgiler
 
-- Köserelik Tepesi, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin etrafındaki ormanlarda, çeşitli bitki türleri yetişiyor.
 - Köserelik Tepesi, ziyaretçilerine hem doğal güzelliği hem de tarihi zenginliği sunuyor.
 - Tepenin zirvesine çıkıldığında, Akdeniz Bölgesi'nin geniş ve yeşillik bir manzarası izlenebiliyor.

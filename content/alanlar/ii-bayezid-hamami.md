@@ -1,7 +1,7 @@
 ---
 title: "II. Bayezid Hamamı"
 date: "2026-01-09T23:42:40.413Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739154"
 
 # II. Bayezid Hamamı
 
-Edirne'nin merkezinde bulunan II. Bayezid Hamamı, yaklaşık 140 hektarlık bir alanda yer alır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin önemli tarihi ve kültürel merkezlerinden biridir. II. Bayezid Hamamı, 15. yüzyılda inşa edilmiş ve o günden beri Edirne'nin önemli yapılarından biri olarak kabul edilir. Hamamın etrafı, tarihi binalar ve çarşılardan oluşur ve ziyaretçiler, bu bölgede Osmanlı Dönemi'nin izlerini görebilir.
+Edirne'nin merkezinde bulunan II. Bayezid Hamamı, yaklaşık 140 hektarlık bir alanda yer alır. II. Bayezid Hamamı, 15. yüzyılda inşa edilmiş ve o günden beri Edirne'nin önemli yapılarından biri olarak kabul edilir. Hamamın etrafı, tarihi binalar ve çarşılardan oluşur ve ziyaretçiler, bu bölgede Osmanlı Dönemi'nin izlerini görebilir.
 
 ## Tarihçe
 

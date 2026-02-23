@@ -28,7 +28,7 @@ wikidata_id: "Q32139143"
 
 # Gülmaç Tepe
 
-Gülmaç Tepe, Sivas'ın merkezine uzun bir mesafe uzaklıkta, İç Anadolu Bölgesi'nin coğrafi güzelliklerini sunan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplı. Tepe, bölgenin tarihi geçmişi hakkında önemli ipuçları sunan bir yer. Ziyaretçiler, bu tepeyi keşfederek Sivas'ın doğal ve tarihi güzelliklerini deneyimleyebilir.
+Gülmaç Tepe, Sivas'ın merkezine uzun bir mesafe uzaklıkta, İç Anadolu Bölgesi'nin coğrafi güzelliklerini sunan bir tepe. Tepe, bölgenin tarihi geçmişi hakkında önemli ipuçları sunan bir yer. Ziyaretçiler, bu tepeyi keşfederek Sivas'ın doğal ve tarihi güzelliklerini deneyimleyebilir.
 
 ## Tarihçe
 

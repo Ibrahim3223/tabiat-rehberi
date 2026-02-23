@@ -28,7 +28,7 @@ wikidata_id: "Q34829016"
 
 # Çerkezçalı Tepesi
 
-Çerkezçalı Tepesi, Eskişehir'in doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Bu tepe, şehrin merkezinden uzaklaşarak doğanın kucağına davet ediyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzak bir atmosfer sunuyor. Çerkezçalı Tepesi, doğa severlerin ve hayatından kaçmak isteyenlerin uğrak noktası haline geliyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna encontrabilir. Ayrıca, tepeye tırmanırken manzaraya karşı duyulan heyecan, ziyaretçileri bekliyor.
+Çerkezçalı Tepesi, Eskişehir'in doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Bu tepe, şehrin merkezinden uzaklaşarak doğanın kucağına davet ediyor. Çerkezçalı Tepesi, doğa severlerin ve hayatından kaçmak isteyenlerin uğrak noktası haline geliyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna encontrabilir. Ayrıca, tepeye tırmanırken manzaraya karşı duyulan heyecan, ziyaretçileri bekliyor.
 
 ## Tarihçe
 

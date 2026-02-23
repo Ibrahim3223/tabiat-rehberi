@@ -38,9 +38,9 @@ Doğal alanlar, Türkiye'nin kültürel ve tarihi dokusunda önemli bir yer tuta
 
 ## Coğrafya
 
-Güneydeki dağların eteklerinde, 37.0850°K enlem ve 31.6528°D boylam koordinatlarında yer alan Handas Mağarası, Antalya'nın doğal güzelliklerini keşfetmek isteyenler için bir hazine. Bu mağara, merkezinden uzakta, doğal bir ortamın içinde bulunmakta ve ziyaretçilere huzurlu bir atmosfer sunmakta. 
+Güneydeki dağların eteklerinde, 37.0850°K enlem ve 31.6528°D boylam koordinatlarında yer alan Handas Mağarası, Antalya'nın doğal güzelliklerini keşfetmek isteyenler için bir hazine. Bu mağara, merkezinden uzakta, doğal bir ortamın içinde bulunmakta ve ziyaretçilere huzurlu bir atmosfer sunmakta.
 
-Doğal bir anıt olan Handas Mağarası, bulunduğu coğrafyanın jeolojik özelliklerini yansıtmaktadır. Mağaranın oluşumu, milyonlarca yıl önce oluşmuş kireç taşı kayalarının aşınması sonucu gerçekleşmiştir. Bu mağaranın büyüklüğü, yaklaşık olarak birkaç olimpik havuz kadar bir alanı kaplamaktadır. 
+Doğal bir anıt olan Handas Mağarası, bulunduğu coğrafyanın jeolojik özelliklerini yansıtmaktadır. Mağaranın oluşumu, milyonlarca yıl önce oluşmuş kireç taşı kayalarının aşınması sonucu gerçekleşmiştir. Bu mağaranın büyüklüğü, yaklaşık olarak birkaç olimpik havuz kadar bir alanı kaplamaktadır.
 
 İklimsel açıdan bakıldığında, Handas Mağarası'nın bulunduğu bölge, Akdeniz ikliminin karakteristik özelliklerini taşımaktadır. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir hava durumu hakimdir. Bu iklim, mağaranın içinde bulunan doğal oluşumların oluşmasına ve şekillenmesine katkıda bulunmuştur.
 

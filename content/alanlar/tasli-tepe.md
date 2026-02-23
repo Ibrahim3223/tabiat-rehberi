@@ -33,7 +33,7 @@ Batman'ın dağlık bölgesinde yer alan Taşlı Tepe, bölgeye özgü jeolojik 
 
 ## Tarihçe
 
-Batman bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölge, geçmişte çeşitli uygarlıkların etkilerini görmüştür. Hitit, Asur, Pers ve Roma gibi medeniyetler, bu topraklarda hüküm sürmüş ve izler bırakmıştır. Doğal güzellikleri ve stratejik konumuyla, Batman ve çevresindeki dağlar, tarih boyunca insanların yaşamına ev sahipliği yapmıştır.
+Batman bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, geçmişte çeşitli uygarlıkların etkilerini görmüştür. Hitit, Asur, Pers ve Roma gibi medeniyetler, bu topraklarda hüküm sürmüş ve izler bırakmıştır. Doğal güzellikleri ve stratejik konumuyla, Batman ve çevresindeki dağlar, tarih boyunca insanların yaşamına ev sahipliği yapmıştır.
 
 Taşlı Tepe gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu tür bölgeler, insanların yaşamlarını sürdürmek için gerekli olan kaynakları sunmuş, yaylacılık, hayvancılık ve ticaret yolları için kritik önem taşımıştır. İnsanların bu doğal alanlarla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Bu dağlar ve vadiler, çeşitli toplulukların geçiş noktaları, yaşam alanları ve inanç merkezleri olarak görev görmüştür. Batman bölgesinin zengin tarihi ve kültürel mirası, bu doğal güzelliklerin bir parçası olarak değerlendirilmelidir. Bu coğrafyanın derin tarihini anlamak, Taşlı Tepe'nin ve benzeri doğal alanların gerçek değerini takdir etmek için önemlidir.
 
@@ -49,7 +49,7 @@ Taşlı Tepe, Batman ilinin diğer doğal alanlarıyla birlikte önemli bir ekos
 
 ## Flora ve Fauna
 
-Taşlı Tepe'nin dağ ekosisteminde, yarı kurak iklimin etkisiyle step ve ova ekolojisi hakimdir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Taşlı Tepe'nin dağ ekosisteminde, yarı kurak iklimin etkisiyle step ve ova ekolojisi hakimdir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharda dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda, kuraklık nedeniyle bazı bitkiler solgunlaşırken, diğerleri bu mevsimsel değişime uyum sağlarlar. Dağların yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker.
 

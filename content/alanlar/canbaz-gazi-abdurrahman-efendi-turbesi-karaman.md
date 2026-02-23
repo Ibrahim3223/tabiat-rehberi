@@ -1,7 +1,7 @@
 ---
 title: "Canbaz Gazi Abdurrahman Efendi Türbesi Karaman"
 date: "2026-01-10T05:56:00.107Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390492"
 
 # Canbaz Gazi Abdurrahman Efendi Türbesi Karaman
 
-Karaman ilinin merkezinde yer alan Canbaz Gazi Abdurrahman Efendi Türbesi, şehrin önemli tarihi ve kültürel değerlerinden biridir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem tarihi bir deneyim hem de güzel bir doğa manzarası sunar. Türbenin çevresi, çeşitli bitki türleri ve zengin fauna ile dolu olup, ziyaretçiler için bir doğa cenneti gibi görünür.
+Karaman ilinin merkezinde yer alan Canbaz Gazi Abdurrahman Efendi Türbesi, şehrin önemli tarihi ve kültürel değerlerinden biridir. Bu geniş alan, ziyaretçilere hem tarihi bir deneyim hem de güzel bir doğa manzarası sunar. Türbenin çevresi, çeşitli bitki türleri ve zengin fauna ile dolu olup, ziyaretçiler için bir doğa cenneti gibi görünür.
 
 ## Tarihçe
 

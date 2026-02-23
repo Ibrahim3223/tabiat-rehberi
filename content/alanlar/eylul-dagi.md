@@ -49,7 +49,7 @@ Doğal bir oluşum olarak Eylül Dağı, çevresi ile uyumlu bir şekilde yükse
 
 ## Flora ve Fauna
 
-Eylül Dağı, yarı kurak iklimin hakim olduğu bir bölgede yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor ve bu dönem, dağ keçilerinin ve diğer yaban hayvanlarının beslenme alanı olarak önemli bir rol oynuyor. 
+Eylül Dağı, yarı kurak iklimin hakim olduğu bir bölgede yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor ve bu dönem, dağ keçilerinin ve diğer yaban hayvanlarının beslenme alanı olarak önemli bir rol oynuyor.
 
 Dağın yükseklik zonlarında, alpin flora hakimiyetini görüyoruz. Bu bölgelerde, düşük oksijen seviyesine adaptasyon gösteren özel bitkiler yaşamlarını sürdürüyor. Bu bitkiler, dağ ekosisteminin önemli bir bileşeni olarak, toprağın stabilizasyonunda ve su döngüsünün düzenlenmesinde önemli bir rol oynuyor.
 

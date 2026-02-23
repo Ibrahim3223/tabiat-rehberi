@@ -33,9 +33,9 @@ wikidata_id: "Q1143135"
 
 ## Tarihçe
 
-Şırnak bölgesi, Türkiye'nin güneydoğu ucunda yer alan bir bölge olarak, tarihin sâu izlerini taşıyor. Bu bölge, tarih boyunca çeşitli uygarlıkların hakimiyetine girmiş ve farklı kültürlerin etkilerini yaşamış. Cudi Dağı da bu bölgenin önemli bir parçasını oluşturuyor. 
+Şırnak bölgesi, Türkiye'nin güneydoğu ucunda yer alan bir bölge olarak, tarihin derin izlerini taşıyor. Bu bölge, tarih boyunca çeşitli uygarlıkların hakimiyetine girmiş ve farklı kültürlerin etkilerini yaşamış. Cudi Dağı da bu bölgenin önemli bir parçasını oluşturuyor.
 
-Tarihçiler, bu bölgenin M.Ö. 2000'li yıllara kadar uzanan bir geçmişe sahip olduğunu belirtiyorlar. Hitit, Asur, Pers ve Roma gibi uygarlıkların izlerini taşıyan bu bölge, ticaret yolları ve stratejik konumu nedeniyle önemli bir merkez olarak kabul ediliyor. 
+Tarihçiler, bu bölgenin M.Ö. 2000'li yıllara kadar uzanan bir geçmişe sahip olduğunu belirtiyorlar. Hitit, Asur, Pers ve Roma gibi uygarlıkların izlerini taşıyan bu bölge, ticaret yolları ve stratejik konumu nedeniyle önemli bir merkez olarak kabul ediliyor.
 
 Doğal güzellikleri ve coğrafi konumuyla Cudi Dağı, bölgenin tarihi ve kültürel mirasının önemli bir parçası. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu bölgeyle olan ilişkisini şekillendirmiş. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri ve ekonomik faaliyetlerini gerçekleştirmeleri için önemli merkezler olarak görev yapmışlar.
 
@@ -51,11 +51,11 @@ Doğal kaynaklar açısından, Cudi Dağı'nın çevresi, su kaynakları ve ekos
 
 ## Flora ve Fauna
 
-Cudi Dağı, Şırnak'ta yer alan bir dağ ekosistemi olarak, yarı kurak iklimin hakim olduğu bir bölgede bulunmaktadır. Bu dağ, yükseklik zonları ve alpin flora ile karakterizedir. Ilkbahar döneminde, dağ yamaçları renkli çiçeklerle donanır ve bu manzara, ziyaretçilere büyüleyici bir görünüm sunar. 
+Cudi Dağı, Şırnak'ta yer alan bir dağ ekosistemi olarak, yarı kurak iklimin hakim olduğu bir bölgede bulunmaktadır. Bu dağ, yükseklik zonları ve alpin flora ile karakterizedir. Ilkbahar döneminde, dağ yamaçları renkli çiçeklerle donanır ve bu manzara, ziyaretçilere büyüleyici bir görünüm sunar.
 
-Bitki örtüsü açısından, dağın yüksek kesimlerinde step ve ova ekolojisinin özellikleri görülür. Bu bölgede, çeşitli otsu bitkiler ve çalılar hakimdir. Sonbaharda, bu bitkilerin renkleri değişir ve dağ manzarası bir kez daha değişir. 
+Bitki örtüsü açısından, dağın yüksek kesimlerinde step ve ova ekolojisinin özellikleri görülür. Bu bölgede, çeşitli otsu bitkiler ve çalılar hakimdir. Sonbaharda, bu bitkilerin renkleri değişir ve dağ manzarası bir kez daha değişir.
 
-Yaban hayatı açısından, Cudi Dağı çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapar. Dağların yüksek kesimlerinde, çeşitli kuş türleri yuva yapar ve göç eden kuşlar bu bölgeden geçer. Memeliler arasında, dağ keçileri ve yaban domuzları gibi türler bulunur. Sürüngenler ise, daha çok dağların daha thấp kesimlerinde yaşar. 
+Yaban hayatı açısından, Cudi Dağı çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapar. Dağların yüksek kesimlerinde, çeşitli kuş türleri yuva yapar ve göç eden kuşlar bu bölgeden geçer. Memeliler arasında, dağ keçileri ve yaban domuzları gibi türler bulunur. Sürüngenler ise, daha çok dağların daha thấp kesimlerinde yaşar.
 
 Cudi Dağı'nın ekolojik değeri, bu bölgenin çeşitlilik gösteren flora ve faunaya ev sahipliği yapmasıdır. Bu dağ, bölgenin ekosistem dengesini korumada önemli bir rol oynar. Ancak, bu bölgenin korunması için daha fazla çaba sarf edilmesi gerekmektedir.
 

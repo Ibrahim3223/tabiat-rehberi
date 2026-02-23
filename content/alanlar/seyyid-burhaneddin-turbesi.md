@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Burhaneddin Türbesi"
 date: "2026-01-10T05:44:44.482Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -38,7 +38,7 @@ Seyyid Burhaneddin Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklı
 
 ## Coğrafya
 
-Seyyid Burhaneddin Türbesi, Kayseri'nin Melikgazi ilçesinde yer alır. Bu mekan, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin çevresi, tarihi ve doğal güzelliklerle dolu. Ziyaretçiler, bu mekanın tarihi atmosferini hissederken, aynı zamanda doğal güzelliklerini de keşfetme fırsatı bulurlar. Seyyid Burhaneddin Türbesi, coğrafi konumu itibariyle de önemli bir yere sahiptir. Bu mekan, birçok önemli tarihi ve doğal güzelliğe yakın bir mesafede yer alır. Ziyaretçiler, bu mekanın coğrafi konumunu değerlendirirken, aynı zamanda birçok önemli yere de ulaşma fırsatı bulurlar.
+Seyyid Burhaneddin Türbesi, Kayseri'nin Melikgazi ilçesinde yer alır. Türbenin çevresi, tarihi ve doğal güzelliklerle dolu. Ziyaretçiler, bu mekanın tarihi atmosferini hissederken, aynı zamanda doğal güzelliklerini de keşfetme fırsatı bulurlar. Seyyid Burhaneddin Türbesi, coğrafi konumu itibariyle de önemli bir yere sahiptir. Bu mekan, birçok önemli tarihi ve doğal güzelliğe yakın bir mesafede yer alır. Ziyaretçiler, bu mekanın coğrafi konumunu değerlendirirken, aynı zamanda birçok önemli yere de ulaşma fırsatı bulurlar.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Huysuzlar Türbesi"
 date: "2026-01-10T05:17:08.631Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391752"
 
 # Huysuzlar Türbesi
 
-Huysuzlar Türbesi, İznik'in tarihi ve doğal güzelliğini bir arada sunan özel bir mekan. İznik Gölü'nün kıyısında yer alan bu plaj ve tarihi mekan, Marmara Bölgesi'nin önemli turizm noktalarından biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Huysuzlar Türbesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor.
+Huysuzlar Türbesi, İznik'in tarihi ve doğal güzelliğini bir arada sunan özel bir mekan. İznik Gölü'nün kıyısında yer alan bu plaj ve tarihi mekan, Marmara Bölgesi'nin önemli turizm noktalarından biri. Huysuzlar Türbesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

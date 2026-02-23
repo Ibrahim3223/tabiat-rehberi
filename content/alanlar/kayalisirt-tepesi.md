@@ -28,7 +28,7 @@ wikidata_id: "Q31559360"
 
 # Kayalısırt Tepesi
 
-Kayalısırt Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin doğal güzelliklerini ön plana çıkaran bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve büyüklüğü yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kayalısırt Tepesi, Ankara'nın merkezine yakınlığıyla dikkat çekiyor ve şehirden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde bulunan köyler ve doğal güzellikler, ziyaretçilere birçok keşif fırsatı sunuyor. Kayalısırt Tepesi, aynı zamanda bölgede yaşayan çeşitli yerine, çeşitli bitki ve hayvan türleri için bir yaşam alanı sunuyor.
+Kayalısırt Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin doğal güzelliklerini ön plana çıkaran bir tepe. Kayalısırt Tepesi, Ankara'nın merkezine yakınlığıyla dikkat çekiyor ve şehirden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde bulunan köyler ve doğal güzellikler, ziyaretçilere birçok keşif fırsatı sunuyor. Kayalısırt Tepesi, aynı zamanda bölgede yaşayan çeşitli yerine, çeşitli bitki ve hayvan türleri için bir yaşam alanı sunuyor.
 
 ## Tarihçe
 

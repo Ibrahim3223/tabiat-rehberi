@@ -1,7 +1,7 @@
 ---
 title: "Yıldırım Bayezid Hamamı"
 date: "2026-01-09T22:51:44.676Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738638"
 
 # Yıldırım Bayezid Hamamı
 
-Yıldırım Bayezid Hamamı, Bursa'nın Yıldırım ilçesinde yer alan bir tarihi hamam ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerine kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Yıldırım Bayezid Hamamı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbeden bir yerdir. Burada, hem tarihi bir hamamın atmosferini hissedecek hem de Marmara Bölgesi'nin güzel plajlarında güneşin tadını çıkaracaksınız.
+Yıldırım Bayezid Hamamı, Bursa'nın Yıldırım ilçesinde yer alan bir tarihi hamam ve plaj alanıdır. Yıldırım Bayezid Hamamı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbeden bir yerdir. Burada, hem tarihi bir hamamın atmosferini hissedecek hem de Marmara Bölgesi'nin güzel plajlarında güneşin tadını çıkaracaksınız.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yıldırım Bayezid Hamamı, tarihi geçmişi ile dikkat çeker. Bu hamam, yüzy
 
 ## Coğrafya
 
-Yıldırım Bayezid Hamamı, Marmara Bölgesi'nin güzel kıyı şeridinde yer alır. Bu bölge, coğrafi konumu itibariyle, hem karasal hem de denizsel iklimlerin etkisinde kalır. Hamam ve plaj alanı, çevresi yeşilliklerle dolu ve deniz manzarası sunar. Yıldırım Bayezid Hamamı'nın coğrafi konumu, ziyaretçilerine güzel bir doğa manzarası sunmasının yanı sıra, çeşitli su sporları ve etkinliklere de olanak sağlar. Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerine kurulmuş ve ziyaretçilerine geniş bir açık alan sunar. Yıldırım Bayezid Hamamı, doğal güzelliği ve coğrafi konumunun avantajları ile ziyaretçilerini etkiler.
+Yıldırım Bayezid Hamamı, Marmara Bölgesi'nin güzel kıyı şeridinde yer alır. Bu bölge, coğrafi konumu itibariyle, hem karasal hem de denizsel iklimlerin etkisinde kalır. Hamam ve plaj alanı, çevresi yeşilliklerle dolu ve deniz manzarası sunar. Yıldırım Bayezid Hamamı'nın coğrafi konumu, ziyaretçilerine güzel bir doğa manzarası sunmasının yanı sıra, çeşitli su sporları ve etkinliklere de olanak sağlar. Yıldırım Bayezid Hamamı, doğal güzelliği ve coğrafi konumunun avantajları ile ziyaretçilerini etkiler.
 
 ## Flora ve Fauna
 

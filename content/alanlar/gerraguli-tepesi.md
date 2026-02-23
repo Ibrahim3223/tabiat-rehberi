@@ -28,7 +28,7 @@ wikidata_id: "Q31552840"
 
 # Gerraguli Tepesi
 
-Gerraguli Tepesi, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yer tutar. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Gerraguli Tepesi, Mardin'in merkezine yakındır ve şehir merkezinden kolayca ulaşılabilir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
+Gerraguli Tepesi, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yer tutar. Gerraguli Tepesi, Mardin'in merkezine yakındır ve şehir merkezinden kolayca ulaşılabilir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Gerraguli Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir noktadır
 
 ## Flora ve Fauna
 
-Gerraguli Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin etrafında, farklı mevsimlerde çeşitli bitki türleri bulunur. Bu bitki türleri, tepenin coğrafi konumunu ve iklimini yansıtır. Tepede, ayrıca çeşitli hayvan türleri bulunur ve bu hayvanlar, tepenin fauna yapısını oluşturur. Gerraguli Tepesi, ziyaretçilere, Mardin'in doğal güzelliklerini keşfetme fırsatı verir ve tepenin flora ve fauna yapısını anlamalarına yardımcı olur.
+ Tepenin etrafında, farklı mevsimlerde çeşitli bitki türleri bulunur. Bu bitki türleri, tepenin coğrafi konumunu ve iklimini yansıtır. Tepede, ayrıca çeşitli hayvan türleri bulunur ve bu hayvanlar, tepenin fauna yapısını oluşturur. Gerraguli Tepesi, ziyaretçilere, Mardin'in doğal güzelliklerini keşfetme fırsatı verir ve tepenin flora ve fauna yapısını anlamalarına yardımcı olur.
 
 ## Ziyaret Bilgileri
 

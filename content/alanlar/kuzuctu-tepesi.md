@@ -28,7 +28,7 @@ wikidata_id: "Q32206368"
 
 # Kuzuçtu Tepesi
 
-Kuzuçtu Tepesi, Afyonkarahisar'ın merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli bir bölümünü kapsar. Tepenin eteklerinde yer alan yerleşim yerleri, tarihi yapılar ve doğal güzellikler, bunin zengin bir kültürel ve doğal mirasa sahip olduğunu gösterir. Kuzuçtu Tepesi, aynı zamanda şehrin önemli bir sembolüdür ve birçok önemli etkinli ve organizasyona ev sahipliği yapar.
+Kuzuçtu Tepesi, Afyonkarahisar'ın merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepedir. Tepenin eteklerinde yer alan yerleşim yerleri, tarihi yapılar ve doğal güzellikler, bunin zengin bir kültürel ve doğal mirasa sahip olduğunu gösterir. Kuzuçtu Tepesi, aynı zamanda şehrin önemli bir sembolüdür ve birçok önemli etkinli ve organizasyona ev sahipliği yapar.
 
 ## Tarihçe
 

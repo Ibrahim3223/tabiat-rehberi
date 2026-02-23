@@ -1,7 +1,7 @@
 ---
 title: "Sardes Hamam Kalıntısı"
 date: "2026-01-09T23:27:14.948Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739049"
 
 # Sardes Hamam Kalıntısı
 
-Sardes Hamam Kalıntısı, Manisa'nın Salihli ilçesinde yer alan bir tarihi ve turistik mekan. Bu alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Sardes Hamam Kalıntısı, Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu mekan, zengin tarihi geçmişinin yanı sıra, doğal güzellikleriyle de ziyaretçilerini etkiliyor. Sardes Hamam Kalıntısı, Manisa ve çevresinde yer alan diğer tarihi mekanlarla birlikte, bir kültür ve tarih turu için ideal bir başlangıç noktası.
+Sardes Hamam Kalıntısı, Manisa'nın Salihli ilçesinde yer alan bir tarihi ve turistik mekan. Sardes Hamam Kalıntısı, Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu mekan, zengin tarihi geçmişinin yanı sıra, doğal güzellikleriyle de ziyaretçilerini etkiliyor. Sardes Hamam Kalıntısı, Manisa ve çevresinde yer alan diğer tarihi mekanlarla birlikte, bir kültür ve tarih turu için ideal bir başlangıç noktası.
 
 ## Tarihçe
 

@@ -47,13 +47,13 @@ Doğal bir anıt olarak ortaya çıkan Oyma Mağara, kaya oluşumlarının uzun 
 
 Şanlıurfa'nın iklimi, Oyma Mağara'nın oluşumunu ve günümüzdeki durumunu etkileyen önemli bir faktör. Bölgenin sıcak ve kuru iklimi, kaya oluşumlarının aşınmasına yol açmış ve mağaranın şekillenmesinde önemli bir rol oynamıştır. Yaz aylarında sıcaklığın 40 dereceleri aşması ve kış aylarında soğukların 0 derecenin altına düşmesi, mağaranın jeolojik yapısını şekillendiren önemli etkenler arasında yer alıyor.
 
-Oyma Mağara, bölgenin diğer doğal ve kültürel zenginliklerine de yakın bir konumda bulunuyor. Mağaranın etrafında, históri ve doğal güzelliklere sahip birçok alan yer alıyor. Bu alanlar, ziyaretçilere Şanlıurfa'nın zengin kültürel mirasını keşfetme ve bölgenin doğal güzelliklerini görme fırsatı sunuyor. Oyma Mağara, Şanlıurfa'nın coğrafi güzelliğini ve kültürel zenginliğini bir araya getiren önemli bir destinasyon olarak ziyaretçilerini bekliyor.
+Oyma Mağara, bölgenin diğer doğal ve kültürel zenginliklerine de yakın bir konumda bulunuyor. Mağaranın etrafında, tarihi ve doğal güzelliklere sahip birçok alan yer alıyor. Bu alanlar, ziyaretçilere Şanlıurfa'nın zengin kültürel mirasını keşfetme ve bölgenin doğal güzelliklerini görme fırsatı sunuyor. Oyma Mağara, Şanlıurfa'nın coğrafi güzelliğini ve kültürel zenginliğini bir araya getiren önemli bir destinasyon olarak ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
-Oyma Mağara jeoparkı, yarı kurak iklimin hakim olduğu Şanlıurfa'da, step ve ova ekolojisinin içinde yer alıyor. Bu área, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Oyma Mağara jeoparkı, yarı kurak iklimin hakim olduğu Şanlıurfa'da, step ve ova ekolojisinin içinde yer alıyor. Bu área, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte, step ve ova ekolojisinin karakteristik bitkileri ortaya çıkıyor. Çayırlar ve otlaklar, bölgenin hakim türlerini oluşturuyor. Sonbaharda ise, bu bölgeyi geçiş noktası olarak kullanan göçmen kuşlar, gökyüzünü renklendiriyor. 
+Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte, step ve ova ekolojisinin karakteristik bitkileri ortaya çıkıyor. Çayırlar ve otlaklar, bölgenin hakim türlerini oluşturuyor. Sonbaharda ise, bu bölgeyi geçiş noktası olarak kullanan göçmen kuşlar, gökyüzünü renklendiriyor.
 
 Yaban hayatı açısından da zengin olan Oyma Mağara, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Bölgenin ekolojik değerini artıran, bu canlıların yaşam alanlarıyla olan ilişkileri, ekosistemin dengesini koruyor. Bu jeopark, doğal yaşamın korunması ve gelecek nesiller için korunması gereken bir alan olarak görülüyor.
 

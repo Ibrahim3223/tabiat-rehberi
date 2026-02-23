@@ -1,7 +1,7 @@
 ---
 title: "Karamürsel Alp Anıt Mezarı"
 date: "2026-01-10T03:41:09.402Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728102"
 
 # Karamürsel Alp Anıt Mezarı
 
-Karamürsel Alp Anıt Mezarı, Kocaeli'nin Karamürsel ilçesinde yer alan bir tarihi mekan olarak dikkat çekiyor. Bu alan, yaklaşık olarak 140 hektarlık bir yeşil alanı kapsıyor, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Karamürsel Alp Anıt Mezarı, ziyaretçilerini bölgeye özgü tarihi ve kültürel zenginliklerle buluşturuyor. Özellikle Marmara Bölgesi'nin tarihi geçmişini öğrenmek isteyenler için önemli bir gezi noktası olarak kabul ediliyor.
+Karamürsel Alp Anıt Mezarı, Kocaeli'nin Karamürsel ilçesinde yer alan bir tarihi mekan olarak dikkat çekiyor. Karamürsel Alp Anıt Mezarı, ziyaretçilerini bölgeye özgü tarihi ve kültürel zenginliklerle buluşturuyor. Özellikle Marmara Bölgesi'nin tarihi geçmişini öğrenmek isteyenler için önemli bir gezi noktası olarak kabul ediliyor.
 
 ## Tarihçe
 

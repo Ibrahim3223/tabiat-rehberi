@@ -22,7 +22,7 @@ wikidata_id: "Q108227794"
 
 # Kastamonu-Cide-Sehdag Dogu Kayini
 
-Kastamonu-Cide-Sehdag Dogu Kayini milli parkı, Kastamonu ilinin Cide ilçesinde yer alan 140 hektarlık bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Milli parkın tarihi geçmişi, yüzyıllar boyunca insanların doğayla iç içe yaşadığı bir bölge olarak dikkat çekiyor. Kastamonu-Cide-Sehdag Dogu Kayini milli parkı, ziyaretçilerini doğanın mucizeleriyle dolu birworlda çağırıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekecek birçok güzelliği barındırıyor.
+Kastamonu-Cide-Sehdag Dogu Kayini milli parkı, Kastamonu ilinin Cide ilçesinde yer alan 140 hektarlık bir alana sahiptir. Milli parkın tarihi geçmişi, yüzyıllar boyunca insanların doğayla iç içe yaşadığı bir bölge olarak dikkat çekiyor. Kastamonu-Cide-Sehdag Dogu Kayini milli parkı, ziyaretçilerini doğanın mucizeleriyle dolu birworlda çağırıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekecek birçok güzelliği barındırıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kastamonu-Cide-Sehdag Dogu Kayini milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Kastamonu-Cide-Sehdag Dogu Kayini milli parkı, Kastamonu ilinin Cide ilçesinde yer alan 140 hektarlık bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Milli parkın coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekecek birçok güzelliği barındırıyor. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Kastamonu-Cide-Sehdag Dogu Kayini milli parkı, ziyaretçilerini doğanın mucizeleriyle dolu bir werelda çağırıyor.
+Kastamonu-Cide-Sehdag Dogu Kayini milli parkı, Kastamonu ilinin Cide ilçesinde yer alan 140 hektarlık bir alana sahiptir. Milli parkın coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekecek birçok güzelliği barındırıyor. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Kastamonu-Cide-Sehdag Dogu Kayini milli parkı, ziyaretçilerini doğanın mucizeleriyle dolu bir werelda çağırıyor.
 
 ## Flora ve Fauna
 

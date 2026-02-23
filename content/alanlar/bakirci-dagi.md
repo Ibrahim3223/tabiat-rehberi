@@ -54,7 +54,7 @@ Bölgenin iklim karakteri, mevsimsel olarak değişkenlik gösteriyor. Kış ayl
 
 Bakırcı Dağı, Akdeniz ikliminin hakim olduğu bir bölgede yer alır ve zeytinlikler ile çam ormanlarının arasında uzanır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir bitki örtüsü bulunur. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır ve bu manzara, ziyaretçilere unutulmaz bir deneyim sunar.
 
-Dağın yaban hayatı da oldukça zengin ve çeşitli bir yapıya sahiptir. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenleridir. Kış aylarında, bazı kuş türleri buraya göç eder ve dağın yüksek kesimlerinde yuvalanır. Bu ekolojik ilişki, dağın biyolojik çeşitliliğini destekler ve koruma altına alınmasının önemini vurgular. Bakırcı Dağı, bölgenin ekolojik dengesini korumak açısından kritik bir role sahiptir ve bu nedenle, doğal güzelliği ve biyolojik zenginliği korunmalıdır.
+Dağın yaban hayatı da oldukça zengin ve çeşitli bir yapıya sahiptir. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenleridir. Kış aylarında, bazı kuş türleri buraya göç eder ve dağın yüksek kesimlerinde yuvalanır. Bu ekolojik ilişki, dağın biyolojik çeşitliliğini destekler ve koruma altına alınmasının önemini vurgular.
 
 ## Ziyaret Bilgileri
 

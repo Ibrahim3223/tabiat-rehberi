@@ -28,7 +28,7 @@ wikidata_id: "Q34827879"
 
 # Çakmaklı Tepe
 
-Çakmaklı Tepe, İç Anadolu Bölgesi'nin kalbinde, Çankırı ilinde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, coğrafi açıdan oldukça ilgi çekici. Çakmaklı Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve bu bitkiler, mevsimsel değişimlere göre ren ve çeşitliliklerini değiştiriyorlar. Bu tepe, aynı zamanda zengin fauna ile de dikkat çekiyor ve buradaki canlılar, ekolojik dengenin önemli bir parçası.
+Çakmaklı Tepe, İç Anadolu Bölgesi'nin kalbinde, Çankırı ilinde yer alan bir tepe. Çakmaklı Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve bu bitkiler, mevsimsel değişimlere göre ren ve çeşitliliklerini değiştiriyorlar. Bu tepe, aynı zamanda zengin fauna ile de dikkat çekiyor ve buradaki canlılar, ekolojik dengenin önemli bir parçası.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ wikidata_id: "Q34827879"
 
 ## Flora ve Fauna
 
-Çakmaklı Tepe, flora ve fauna açısından oldukça zengin bir bölge. Tepenin etrafında, çeşitli ağaç türleri, çalılar ve otlar bulunuyor. Bu bitkiler, mevsimsel değişimlere göre ren ve çeşitliliklerini değiştiriyorlar. Çakmaklı Tepe'nin fauna açısından da önemli bir bölge olduğu biliniyor. Burada, çeşitli kuş türleri, memeliler ve sürüngenler yaşuyor. Bu canlılar, ekolojik dengenin önemli bir parçası ve Çakmaklı Tepe'nin doğal güzelliğini destekleyen önemli bir unsur.
+ Tepenin etrafında, çeşitli ağaç türleri, çalılar ve otlar bulunuyor. Bu bitkiler, mevsimsel değişimlere göre ren ve çeşitliliklerini değiştiriyorlar. Çakmaklı Tepe'nin fauna açısından da önemli bir bölge olduğu biliniyor. Burada, çeşitli kuş türleri, memeliler ve sürüngenler yaşuyor. Bu canlılar, ekolojik dengenin önemli bir parçası ve Çakmaklı Tepe'nin doğal güzelliğini destekleyen önemli bir unsur.
 
 ## Ziyaret Bilgileri
 

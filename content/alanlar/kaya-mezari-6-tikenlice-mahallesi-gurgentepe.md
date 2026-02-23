@@ -29,7 +29,7 @@ wikidata_id: "Q134728207"
 
 # Kaya Mezarı 6 (Tikenlice Mahallesi) Gürgentepe
 
-Kaya Mezarı 6, Gürgentepe'de yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir alandır. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Kaya Mezarı 6, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirilen her an, unutulmaz bir deneyim oluyor. Gürgentepe'nin merkezi ve diğer önemli noktalarına yakın konumuyla, Kaya Mezarı 6, hem yerel halk hem de ziyaretçiler için bir çekim merkezi haline geliyor. Bu doğal cenneti keşfetmek, Karadeniz Bölgesi'ne yapılan bir seyahatin önemli bir parçasıdır.
+Kaya Mezarı 6, Gürgentepe'de yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir alandır. Kaya Mezarı 6, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirilen her an, unutulmaz bir deneyim oluyor. Gürgentepe'nin merkezi ve diğer önemli noktalarına yakın konumuyla, Kaya Mezarı 6, hem yerel halk hem de ziyaretçiler için bir çekim merkezi haline geliyor. Bu doğal cenneti keşfetmek, Karadeniz Bölgesi'ne yapılan bir seyahatin önemli bir parçasıdır.
 
 ## Tarihçe
 

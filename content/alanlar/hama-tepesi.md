@@ -28,7 +28,7 @@ wikidata_id: "Q31386267"
 
 # Hama Tepesi
 
-Hama Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Hama Tepesi, ziyaretçilerine bölgenin tarihi ve kültürel zenginliklerini sunarken aynı zamanda doğa ile iç içe bir deneyim sunuyor. Tepenin çevresinde çeşitli bitki türleri ve zengin fauna gefunden. Hama Tepesi, Hatay'ın önemli turizm noktalarından biri olarak ziyaretçilerini ağırlıyor.
+Hama Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Hama Tepesi, ziyaretçilerine bölgenin tarihi ve kültürel zenginliklerini sunarken aynı zamanda doğa ile iç içe bir deneyim sunuyor. Tepenin çevresinde çeşitli bitki türleri ve zengin fauna gefunden. Hama Tepesi, Hatay'ın önemli turizm noktalarından biri olarak ziyaretçilerini ağırlıyor.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108227004"
 
 # Kestel
 
-Kestel, İç Anadolu Bölgesi'nde yer alan bir milli parktır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana spreadar. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yer. Kestel, zengin fauna çeşitliliği ve çeşitli bitki türleriyle dikkat çekiyor. Burada, mevsimsel değişimlerle birlikte renk değiştiren manzaralarla karşılaşma mümkün.
+Kestel, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yer. Kestel, zengin fauna çeşitliliği ve çeşitli bitki türleriyle dikkat çekiyor. Burada, mevsimsel değişimlerle birlikte renk değiştiren manzaralarla karşılaşma mümkün.
 
 ## Tarihçe
 

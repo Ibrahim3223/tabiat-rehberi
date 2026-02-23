@@ -28,7 +28,7 @@ wikidata_id: "Q31390203"
 
 # Doru Tepe
 
-Doru Tepe, Burdur'un doğal güzellikleri arasında önemli bir yer tutar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güler yüzlü bir şekilde karşılar. Doru Tepe'nin eteklerinde çeşitli bitkiler bulunur ve bu bölgede birçok canlı yaşamaktadır. Doru Tepe, Burdur'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır. Bu tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
+Doru Tepe, Burdur'un doğal güzellikleri arasında önemli bir yer tutar. Doru Tepe'nin eteklerinde çeşitli bitkiler bulunur ve bu bölgede birçok canlı yaşamaktadır. Doru Tepe, Burdur'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır. Bu tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Doru Tepe'nin tarihi geçmişi oldukça zengindir. Yüzyıllar boyunca bu bölge
 
 ## Coğrafya
 
-Doru Tepe, Akdeniz Bölgesi'nin Burdur ilinde yer alır. Bu bölge, coğrafi açıdan oldukça zengin bir yapıya sahiptir. Doru Tepe'nin eteklerinde çeşitli bitkiler bulunur ve bu bölgede birçok canlı yaşamaktadır. Doru Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Bu tepe, Burdur'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır. Doru Tepe'nin coğrafi yapısı, ziyaretçilerine birçok aktivite olanağı sunar. Bu bölgede, doğa yürüyüşleri, trekking ve piknik gibi birçok aktivite yapılabilir. Doru Tepe, coğrafi açıdan zengin bir yapıya sahip olup, ziyaretçilerine birçok olanak sunar.
+Doru Tepe, Akdeniz Bölgesi'nin Burdur ilinde yer alır. Bu bölge, coğrafi açıdan oldukça zengin bir yapıya sahiptir. Doru Tepe'nin eteklerinde çeşitli bitkiler bulunur ve bu bölgede birçok canlı yaşamaktadır. Bu tepe, Burdur'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır. Doru Tepe'nin coğrafi yapısı, ziyaretçilerine birçok aktivite olanağı sunar. Bu bölgede, doğa yürüyüşleri, trekking ve piknik gibi birçok aktivite yapılabilir. Doru Tepe, coğrafi açıdan zengin bir yapıya sahip olup, ziyaretçilerine birçok olanak sunar.
 
 ## Flora ve Fauna
 
-Doru Tepe, flora ve fauna açısından oldukça zengindir. Bu bölgede, çeşitli bitkiler bulunur ve birçok canlı yaşamaktadır. Doru Tepe'nin eteklerinde, mevsimsel olarak değişen bitkiler bulunur ve bu bölgede, birçok hayvan türü yaşamaktadır. Doru Tepe, ekolojik açıdan önemli bir bölge olup, ziyaretçilerine birçok olanak sunar. Bu bölgede, doğa yürüyüşleri, trekking ve piknik gibi birçok aktivite yapılabilir. Doru Tepe, flora ve fauna açısından zengin bir yapıya sahip olup, ziyaretçilerine birçok olanak sunar.
+ Bu bölgede, çeşitli bitkiler bulunur ve birçok canlı yaşamaktadır. Doru Tepe'nin eteklerinde, mevsimsel olarak değişen bitkiler bulunur ve bu bölgede, birçok hayvan türü yaşamaktadır. Doru Tepe, ekolojik açıdan önemli bir bölge olup, ziyaretçilerine birçok olanak sunar. Bu bölgede, doğa yürüyüşleri, trekking ve piknik gibi birçok aktivite yapılabilir. Doru Tepe, flora ve fauna açısından zengin bir yapıya sahip olup, ziyaretçilerine birçok olanak sunar.
 
 ## Ziyaret Bilgileri
 
@@ -48,8 +48,7 @@ Doru Tepe, ziyaretçilerine birçok olanak sunar. Bu bölge, doğa yürüyüşle
 
 ## İlginç Bilgiler
 
-- Doru Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir.
 - Doru Tepe, Burdur'un merkezine uzun bir mesafe uzaklıkta yer alır.
-- Doru Tepe, flora ve fauna açısından oldukça zengindir.
+
 - Doru Tepe, ziyaretçilerine birçok olanak sunar.
 - Doru Tepe, doğa severlerin ve tarih meraklılarının ilgisini çeker.

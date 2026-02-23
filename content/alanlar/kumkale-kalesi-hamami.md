@@ -1,7 +1,7 @@
 ---
 title: "Kumkale Kalesi Hamamı"
 date: "2026-01-10T00:03:48.675Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale (ilçe)"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245856"
 
 # Kumkale Kalesi Hamamı
 
-Kumkale Kalesi Hamamı, Çanakkale'nin eşsiz güzellikteki bir plajıdır. İç Anadolu Bölgesi'nde bulunan bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunmaktadır. Kumkale Kalesi Hamamı, tarihi ve doğal güzelliklerinin birleştiği bir noktadır. Bu özel mekan, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekmektedir. Ziyaretçiler, bu alanda hem tarihi yapıları inceleyebilir hem de doğal güzelliklerin tadını çıkarabilirler.
+Kumkale Kalesi Hamamı, Çanakkale'nin eşsiz güzellikteki bir plajıdır. İç Anadolu Bölgesi'nde bulunan bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Kumkale Kalesi Hamamı, tarihi ve doğal güzelliklerinin birleştiği bir noktadır. Bu özel mekan, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekmektedir. Ziyaretçiler, bu alanda hem tarihi yapıları inceleyebilir hem de doğal güzelliklerin tadını çıkarabilirler.
 
 ## Tarihçe
 

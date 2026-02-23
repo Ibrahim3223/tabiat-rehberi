@@ -29,7 +29,7 @@ wikidata_id: "Q32138511"
 
 # Gölyanı Tepesi
 
-İç Anadolu Bölgesi'nin coğrafi yapısı, çeşitli tepe ve dağların bir araya gelmesiyle oluşmuştur. Bu bölgede yer alan Gölyanı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, Gölyanı Tepesi'nin genişliği hakkında bir fikir edinilebilir. Gölyanı Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir bileşendir. Bu tepe, aynı zamanda flora ve fauna açısından da oldukça zengindir. Çeşitli bitki türleri ve hayvanlar, Gölyanı Tepesi'nde yaşamaktadır.
+İç Anadolu Bölgesi'nin coğrafi yapısı, çeşitli tepe ve dağların bir araya gelmesiyle oluşmuştur. Bu bölgede yer alan Gölyanı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Gölyanı Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir bileşendir. Bu tepe, aynı zamanda flora ve fauna açısından da oldukça zengindir. Çeşitli bitki türleri ve hayvanlar, Gölyanı Tepesi'nde yaşamaktadır.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Gölyanı Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan öne
 
 ## Flora ve Fauna
 
-Gölyanı Tepesi, flora ve fauna açısından oldukça zengindir. Çeşitli bitki türleri, bu tepe ve çevresinde yaşamaktadır. Bu bitki türleri, bölgenin iklimine ve toprağına uygun olarak, çeşitli ve boyutlarda bulunabilir. Gölyanı Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapmaktadır. Bu hayvanlar, bölgenin flora ve faunasını oluşturan önemli bir bileşendir. Gölyanı Tepesi'nde, çeşitli kuş türleri, memeliler ve sürüngenler yaşamaktadır. Bu tepe, aynı zamanda bölgenin ekolojik dengesini de etkileyen bir faktördür. Gölyanı Tepesi'nin flora ve faunası, bölgenin doğal güzelliklerini yansıtlayan önemli bir alandır.
+ Çeşitli bitki türleri, bu tepe ve çevresinde yaşamaktadır. Bu bitki türleri, bölgenin iklimine ve toprağına uygun olarak, çeşitli ve boyutlarda bulunabilir. Gölyanı Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapmaktadır. Bu hayvanlar, bölgenin flora ve faunasını oluşturan önemli bir bileşendir. Gölyanı Tepesi'nde, çeşitli kuş türleri, memeliler ve sürüngenler yaşamaktadır. Bu tepe, aynı zamanda bölgenin ekolojik dengesini de etkileyen bir faktördür. Gölyanı Tepesi'nin flora ve faunası, bölgenin doğal güzelliklerini yansıtlayan önemli bir alandır.
 
 ## Ziyaret Bilgileri
 

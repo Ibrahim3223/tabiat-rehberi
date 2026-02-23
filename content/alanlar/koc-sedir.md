@@ -22,7 +22,7 @@ wikidata_id: "Q108227157"
 
 # Koç Sedir
 
-Koç Sedir milli parkı, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık geniş bir yeşil alan sunuyor. Yaklaşık 200 futbol sahası büyüklüğündeki bu alan, ziyaretçilerini doğanın kucağına davet ediyor. Burada, yaban hayatı ve flora ile iç içe bir deneyimi yaşama mümkün. Koç Sedir, eko-turizm severlerin ve doğaşığıların yeni durağı olarak dikkat çekiyor. 140 hektarlık bu yeşil cennet, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Koç Sedir milli parkı, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık geniş bir yeşil alan sunuyor. Burada, yaban hayatı ve flora ile iç içe bir deneyimi yaşama mümkün. Koç Sedir, eko-turizm severlerin ve doğaşığıların yeni durağı olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Koç Sedir milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Koç Sedir milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş çayırlar ve ormanlık alanlardan oluşuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve oldukça geniş bir yeşillik alanı sunuyor. Parkın coğrafi konumu, ziyaretçilere birçok farklı mevsimsel manzara sunuyor. Bahar aylarında çiçeklerin açması, yaz aylarında yeşilin hakim olması, sonbaharın renk cümbüşü ve kışın karla kaplanması, her mevsim ziyaretçilere farklı bir güzellik sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Bu da, ziyaretçilerin her mevsim farklı bir deneyim yaşamalarına olanak tanıyor.
+Koç Sedir milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş çayırlar ve ormanlık alanlardan oluşuyor. Parkın coğrafi konumu, ziyaretçilere birçok farklı mevsimsel manzara sunuyor. Bahar aylarında çiçeklerin açması, yaz aylarında yeşilin hakim olması, sonbaharın renk cümbüşü ve kışın karla kaplanması, her mevsim ziyaretçilere farklı bir güzellik sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Bu da, ziyaretçilerin her mevsim farklı bir deneyim yaşamalarına olanak tanıyor.
 
 ## Flora ve Fauna
 
-Koç Sedir milli parkı, flora ve fauna açısından oldukça zengin bir alana sahip. Burada, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Parkın flora açısından zengin olması, birçok farklı bitki türünün burada yetişmesine olanak tanıyor. Fauna açısından da zengin olan parkta, birçok yaban hayvanı yaşamlarını sürdürüyor. Mevsimsel değişimler, parkın ekolojisini ve canlılarını etkiliyor. Bahar ve yaz aylarında flora daha da zenginleşirken, sonbahar ve kış aylarında fauna daha aktif hale geliyor. Bu mevsimsel değişimler, ziyaretçilere her sezon farklı bir deneyim sunuyor.
+ Burada, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Parkın flora açısından zengin olması, birçok farklı bitki türünün burada yetişmesine olanak tanıyor. Fauna açısından da zengin olan parkta, birçok yaban hayvanı yaşamlarını sürdürüyor. Mevsimsel değişimler, parkın ekolojisini ve canlılarını etkiliyor. Bahar ve yaz aylarında flora daha da zenginleşirken, sonbahar ve kış aylarında fauna daha aktif hale geliyor. Bu mevsimsel değişimler, ziyaretçilere her sezon farklı bir deneyim sunuyor.
 
 ## Ziyaret Bilgileri
 

@@ -1,7 +1,7 @@
 ---
 title: "Karıştıran Süleyman Bey Türbesi"
 date: "2026-01-10T04:54:19.325Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391470"
 
 # Karıştıran Süleyman Bey Türbesi
 
-Karıştıran Süleyman Bey Türbesi, Osmangazi, Bursa'da yer alan ve tarihi ile doğal güzelliklerin birleştiği özel bir nokta. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Burada, ziyaretçiler hem tarihi bir türbeyi ziyaret edebiliyor hem de çevresindeki doğa güzelliklerini keşfedebiliyor. Karıştıran Süleyman Bey Türbesi, özellikle hafta sonları ve tatil günlerinde ziyaretçilerle dolu oluyor ve birçok kişi tarafından tercih edilen bir gezi noktası.
+Karıştıran Süleyman Bey Türbesi, Osmangazi, Bursa'da yer alan ve tarihi ile doğal güzelliklerin birleştiği özel bir nokta. Burada, ziyaretçiler hem tarihi bir türbeyi ziyaret edebiliyor hem de çevresindeki doğa güzelliklerini keşfedebiliyor. Karıştıran Süleyman Bey Türbesi, özellikle hafta sonları ve tatil günlerinde ziyaretçilerle dolu oluyor ve birçok kişi tarafından tercih edilen bir gezi noktası.
 
 ## Tarihçe
 

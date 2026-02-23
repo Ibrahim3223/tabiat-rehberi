@@ -22,7 +22,7 @@ wikidata_id: "Q108227645"
 
 # Denizli-Acipayam-Alci Kızılçam
 
-İç Anadolu Bölgesi'nin kalbinde, Denizli ilinin Acipayam ilçesinde yer alan Alci Kızılçam milli parkı, yaklaşık 140 hektarlık bir alanı kaplayan, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu bölge, doğal güzellikleri ve zengin flora ile dikkat çekiyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+ Bu bölge, doğal güzellikleri ve zengin flora ile dikkat çekiyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31557283"
 
 # Kalfa Tepesi
 
-Kalfa Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Doğa severler için önemli bir destinasyon olan Kalfa Tepesi, ziyaretçilerini güler yüzlü bir şekilde karşılayacak şekilde tasarlandı. Doğal güzelliği, zengin flora ve fauna çeşitliliği ile dikkat çeken bu tepe, Ankara'nın önemli turizm noktalarından biri olarak kabul ediliyor. Kalfa Tepesi, ziyaretçilerine doğa ile iç içe bir deneyim sunuyor. Bu expérience, ziyaretçilerin doğayı daha yakından tanımalarına ve güzelliğini keşfetmelerine olanak sağlıyor.
+Kalfa Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Doğa severler için önemli bir destinasyon olan Kalfa Tepesi, ziyaretçilerini güler yüzlü bir şekilde karşılayacak şekilde tasarlandı. Doğal güzelliği, zengin flora ve fauna çeşitliliği ile dikkat çeken bu tepe, Ankara'nın önemli turizm noktalarından biri olarak kabul ediliyor. Kalfa Tepesi, ziyaretçilerine doğa ile iç içe bir deneyim sunuyor. Bu deneyim, ziyaretçilerin doğayı daha yakından tanımalarına ve güzelliğini keşfetmelerine olanak sağlıyor.
 
 ## Tarihçe
 

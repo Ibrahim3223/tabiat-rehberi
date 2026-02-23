@@ -22,7 +22,7 @@ wikidata_id: "Q108228870"
 
 # Hersek Lagünü Sulak Alanı
 
-Hersek Lagünü Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Lagün, çevresindeki dağların eteklerinde yer alan ve sulak bir alan olarak tanınır. Bu bölge, doğal güzelliği ve zengin fauna çeşitliliği ile dikkat çekmektedir. Hersek Lagünü Sulak Alanı, özellikle kuş gözlemcileri için önemli bir destinasyondur. Bu alan, çeşitli kuş türlerinin yaşam alanı olarak bilinir ve doğa severler için keyifli bir gezi deneyimi sunar.
+Hersek Lagünü Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Lagün, çevresindeki dağların eteklerinde yer alan ve sulak bir alan olarak tanınır. Bu bölge, doğal güzelliği ve zengin fauna çeşitliliği ile dikkat çekmektedir. Hersek Lagünü Sulak Alanı, özellikle kuş gözlemcileri için önemli bir destinasyondur. Bu alan, çeşitli kuş türlerinin yaşam alanı olarak bilinir ve doğa severler için keyifli bir gezi deneyimi sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Hersek Lagünü Sulak Alanı, yüzyıllar boyunca doğal bir sulak alan olarak v
 
 ## Coğrafya
 
-Hersek Lagünü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, çevresindeki dağların eteklerinde yer alan bir sulak alan olarak tanınır. Lagün, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu sulak alan, doğal güzelliği ve fauna çeşitliliği ile birlikte önemli bir ekolojik bölge olarak bilinir. Hersek Lagünü Sulak Alanı, çevresindeki dağların eteklerinde yer alan bir vadi içinde yer alır. Bu alan, sulak bir bölge olarak tanınır ve doğal güzelliği ile dikkat çekmektedir. Lagünün coğrafi yapısı, bölgenin jeolojik yapısı ve iklim koşulları ile yakından ilgilidir. Bu sulak alan, uzun yıllar boyunca doğal yaşamın korunması için önemli bir rol oynamıştır.
+Hersek Lagünü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, çevresindeki dağların eteklerinde yer alan bir sulak alan olarak tanınır. Bu sulak alan, doğal güzelliği ve fauna çeşitliliği ile birlikte önemli bir ekolojik bölge olarak bilinir. Hersek Lagünü Sulak Alanı, çevresindeki dağların eteklerinde yer alan bir vadi içinde yer alır. Bu alan, sulak bir bölge olarak tanınır ve doğal güzelliği ile dikkat çekmektedir. Lagünün coğrafi yapısı, bölgenin jeolojik yapısı ve iklim koşulları ile yakından ilgilidir. Bu sulak alan, uzun yıllar boyunca doğal yaşamın korunması için önemli bir rol oynamıştır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Hersek Lagünü Sulak Alanı, doğa severler ve kuş gözlemcileri için keyifli
 ## İlginç Bilgiler
 
 - Hersek Lagünü Sulak Alanı, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
-- Bu sulak alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Lagün, çeşitli kuş türlerinin yaşam alanı olarak bilinir.
 - Hersek Lagünü Sulak Alanı, doğal güzelliği ve fauna çeşitliliği ile birlikte önemli bir turizm destinasyonu olarak tanınmaktadır.
 - Bu sulak alan, uzun yıllar boyunca doğal yaşamın korunması için önemli bir rol oynamıştır.

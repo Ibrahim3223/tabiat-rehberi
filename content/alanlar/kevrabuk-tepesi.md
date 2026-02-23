@@ -28,7 +28,7 @@ wikidata_id: "Q31552762"
 
 # Kevrabuk Tepesi
 
-Kevrabuk Tepesi, Mardin'in merkezi bir bölgesinde yer alan ve şehrin tarihi ile doğal güzelliklerinin birleştiği bir noktada bulunur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve Mardin'in önemli bir bölümünü kapsar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin içinde bir oksijen deposu olarak hizmet eder. Kevrabuk Tepesi, Mardin'in tarihi geçmişi ile birlikte, şehrin önemli bir turizm merkezi haline gelmiştir. Tepenin etrafında, tarihi yapılar ve doğal güzellikler bulunur.
+Kevrabuk Tepesi, Mardin'in merkezi bir bölgesinde yer alan ve şehrin tarihi ile doğal güzelliklerinin birleştiği bir noktada bulunur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve Mardin'in önemli bir bölümünü kapsar. Kevrabuk Tepesi, Mardin'in tarihi geçmişi ile birlikte, şehrin önemli bir turizm merkezi haline gelmiştir. Tepenin etrafında, tarihi yapılar ve doğal güzellikler bulunur.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kevrabuk Tepesi, Mardin'in flora ve faunasını korur ve şehrin önemli bir eko
 
 ## Ziyaret Bilgileri
 
-Kevrabuk Tepesi, Mardin'in önemli bir turizm merkezi olup, şehrin tarihi ve doğal güzelliklerini keşfetmek isteyenler için önemli bir noktadır. Tepenin etrafında, tarihi yapılar ve doğal güzellikler bulunur ve bu güzellikler, tepeyi önemli bir gezi merkezi haline getirir. Kevrabuk Tepesi'ne, Mardin'in merkezi bölgesinden ulaşım fácil olup, tepeye giden yollar, şehrin tarihi ve doğal güzelliklerini keşfetmek isteyenler için önemli bir güzergah teşkil eder.
+Kevrabuk Tepesi, Mardin'in önemli bir turizm merkezi olup, şehrin tarihi ve doğal güzelliklerini keşfetmek isteyenler için önemli bir noktadır. Tepenin etrafında, tarihi yapılar ve doğal güzellikler bulunur ve bu güzellikler, tepeyi önemli bir gezi merkezi haline getirir. Kevrabuk Tepesi'ne, Mardin'in merkezi bölgesinden ulaşım kolay olup, tepeye giden yollar, şehrin tarihi ve doğal güzelliklerini keşfetmek isteyenler için önemli bir güzergah teşkil eder.
 
 ## İlginç Bilgiler
 

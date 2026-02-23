@@ -29,7 +29,7 @@ wikidata_id: "Q134728274"
 
 # Ankara Frig Tümülüsü 16, Emek
 
-Ankara Frig Tümülüsü 16, Emek, İç Anadolu Bölgesi'nin kalbinde, Çankaya ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu alan, tarihi zenginliği ve doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde geniş bir alana sahiptir. Ankara'nın merkezi konumunda bulunan bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çeker. Ankara Frig Tümülüsü 16, Emek, ziyaretçilerine hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunar.
+Ankara Frig Tümülüsü 16, Emek, İç Anadolu Bölgesi'nin kalbinde, Çankaya ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu alan, tarihi zenginliği ve doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur. Ankara'nın merkezi konumunda bulunan bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çeker. Ankara Frig Tümülüsü 16, Emek, ziyaretçilerine hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunar.
 
 ## Tarihçe
 

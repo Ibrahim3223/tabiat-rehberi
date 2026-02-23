@@ -30,7 +30,7 @@ wikidata_id: "Q3531101"
 
 # Harpy Anıtı
 
-Harpy Anıtı, Antalya'nın Kaş ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktada bulunan önemli bir destinasyondur. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide kurulmuştur. Harpy Anıtı, ziyaretçilerini hem tarihin depthsine hem de doğanın güzelliğine davet etmektedir. Bu anıt, yörenin zengin kültürel mirasını ve tarihi geçmişini yansıtan önemli bir simgedir.
+Harpy Anıtı, Antalya'nın Kaş ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktada bulunan önemli bir destinasyondur. Harpy Anıtı, ziyaretçilerini hem tarihin depthsine hem de doğanın güzelliğine davet etmektedir. Bu anıt, yörenin zengin kültürel mirasını ve tarihi geçmişini yansıtan önemli bir simgedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Harpy Anıtı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu an
 
 ## Coğrafya
 
-Harpy Anıtı, Kaş'ın eşsiz manzarasına karşı kurulmuştur. Bu bölge, Akdeniz'in mavi sularına ve yeşil ormanlarına karşı bir konuma sahiptir. Anıtın bulunduğu arazi, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Bu geniş alan, ziyaretçilere geniş bir açık alan sunmaktadır. Bölgenin iklimi, Akdeniz ikliminin característicasını taşır ve ziyaretçilere yıl boyunca ılıman bir hava sunar. Harpy Anıtı'nın bulunduğu Kaş, doğal güzellikleri ve tarihi zenginlikleriyle ziyaretçileri çekmektedir. Bu bölge, hem deniz hem de dağ manzarasının birleştiği bir noktada bulunmaktadır ve ziyaretçilere geniş bir görünüm sunmaktadır.
+Harpy Anıtı, Kaş'ın eşsiz manzarasına karşı kurulmuştur. Bu bölge, Akdeniz'in mavi sularına ve yeşil ormanlarına karşı bir konuma sahiptir. Bu geniş alan, ziyaretçilere geniş bir açık alan sunmaktadır. Bölgenin iklimi, Akdeniz ikliminin característicasını taşır ve ziyaretçilere yıl boyunca ılıman bir hava sunar. Harpy Anıtı'nın bulunduğu Kaş, doğal güzellikleri ve tarihi zenginlikleriyle ziyaretçileri çekmektedir. Bu bölge, hem deniz hem de dağ manzarasının birleştiği bir noktada bulunmaktadır ve ziyaretçilere geniş bir görünüm sunmaktadır.
 
 ## Flora ve Fauna
 

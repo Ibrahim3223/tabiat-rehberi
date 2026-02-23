@@ -34,7 +34,7 @@ Van'ın dağlık arazisinde yer alan Sürdüz Dağı, Türkiye'nin doğusundaki 
 
 Van bölgesi, tarihin en eski uygarlıklarına ev sahipliği yapmış bir coğrafyadır. Sürdüz Dağı da bu tarihsel zenginliğin bir parçasıdır. Bölge, Urartular, Medler, Persler ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşımaktadır. Bu coğrafyanın doğal güzelliği ve stratejik konumu, tarihin her döneminde önemli bir rol oynamıştır.
 
-Doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir yer tutmaktadır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin ekonomik yaşamının temelini oluşturmuştur. Ayrıca, ticaret yolları ve histórik rotaların birçoğu, bu doğal güzelliklerin içinden geçmektedir. İnsanların bu alanlarla olan ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir bağlamda da şekillenmiştir. Sürdüz Dağı da, bu tarihsel ve kültürel zenginliğin bir parçası olarak, bölgenin doğal ve kültürel mirasının korunmasına katkıda bulunmaktadır.
+Doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir yer tutmaktadır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin ekonomik yaşamının temelini oluşturmuştur. Ayrıca, ticaret yolları ve tarihi rotaların birçoğu, bu doğal güzelliklerin içinden geçmektedir. İnsanların bu alanlarla olan ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir bağlamda da şekillenmiştir. Sürdüz Dağı da, bu tarihsel ve kültürel zenginliğin bir parçası olarak, bölgenin doğal ve kültürel mirasının korunmasına katkıda bulunmaktadır.
 
 ## Coğrafya
 

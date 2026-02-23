@@ -28,7 +28,7 @@ wikidata_id: "Q31389169"
 
 # Dallıkavak Tepesi
 
-Dallıkavak Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Yaklaşık 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, Sivas'ın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta olarak görülüyor. Dallıkavak Tepesi, Sivas'ın tarihini ve kültürünü anlamak isteyenler için de önemli bir ziyaret noktası.
+Dallıkavak Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, Sivas'ın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta olarak görülüyor. Dallıkavak Tepesi, Sivas'ın tarihini ve kültürünü anlamak isteyenler için de önemli bir ziyaret noktası.
 
 ## Tarihçe
 

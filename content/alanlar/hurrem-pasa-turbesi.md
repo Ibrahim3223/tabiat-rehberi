@@ -1,7 +1,7 @@
 ---
 title: "Hürrem Paşa Türbesi"
 date: "2026-01-10T07:32:58.687Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391260"
 
 # Hürrem Paşa Türbesi
 
-Hürrem Paşa Türbesi, Karatay, Konya'da bulunan ve tarihî bir öneme sahip olan bir türbedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere büyük bir açık alan deneyimi sunar. Bu türbenin etrafında, çeşitli değil, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tarihi geçmişi ile dikkat çeken Hürrem Paşa Türbesi, aynı zamanda bir plaj alanı olarak da hizmet vermektedir. Ziyaretçiler, hem tarihi hem de doğal güzellikleri bir arada deneyimleyebilirler.
+Hürrem Paşa Türbesi, Karatay, Konya'da bulunan ve tarihî bir öneme sahip olan bir türbedir. Bu türbenin etrafında, çeşitli değil, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tarihi geçmişi ile dikkat çeken Hürrem Paşa Türbesi, aynı zamanda bir plaj alanı olarak da hizmet vermektedir. Ziyaretçiler, hem tarihi hem de doğal güzellikleri bir arada deneyimleyebilirler.
 
 ## Tarihçe
 

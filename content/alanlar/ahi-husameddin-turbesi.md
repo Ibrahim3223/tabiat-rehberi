@@ -1,7 +1,7 @@
 ---
 title: "Ahi Hüsameddin Türbesi"
 date: "2026-01-10T06:07:39.766Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390665"
 
 # Ahi Hüsameddin Türbesi
 
-Ahi Hüsameddin Türbesi, Ankara'nın Altındağ ilçesinde bulunan tarihi bir mekan olarak dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsar. Bu yeşil alan, Ankara'nın kalbinde yer alan bir doğa cenneti olarak ziyaretçilerini bekler. Ahi Hüsameddin Türbesi, tarihi ve kültürel önemi ile ziyaretçilerini cezbeder. Türbenin etrafındaki yeşil alan, piknik yapma ve doğayı seyretmek için ideal bir yer olarak görülebilir.
+Ahi Hüsameddin Türbesi, Ankara'nın Altındağ ilçesinde bulunan tarihi bir mekan olarak dikkat çeker. Bu yeşil alan, Ankara'nın kalbinde yer alan bir doğa cenneti olarak ziyaretçilerini bekler. Ahi Hüsameddin Türbesi, tarihi ve kültürel önemi ile ziyaretçilerini cezbeder. Türbenin etrafındaki yeşil alan, piknik yapma ve doğayı seyretmek için ideal bir yer olarak görülebilir.
 
 ## Tarihçe
 

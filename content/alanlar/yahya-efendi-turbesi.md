@@ -1,7 +1,7 @@
 ---
 title: "Yahya Efendi Türbesi"
 date: "2026-01-10T04:46:00.459Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q6059842"
 
 # Yahya Efendi Türbesi
 
-Yahya Efendi Türbesi, İstanbul'un Beşiktaş ilçesinde bulunan ve Marmara Bölgesi'nin önemli turistik noktalarından biri olan bir türbedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu tarihi mekan, doğal güzellikleri ve tarihi yapısı ile ziyaretçilerini etkiler. İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için bir sığınak niteliğinde olan Yahya Efendi Türbesi, aynı zamanda önemli bir dinî merkez olarak da bilinir. Burada, tarih ve doğa bir arada bulunmakta ve ziyaretçilere unutulmaz bir deneyim sunmaktadır.
+Yahya Efendi Türbesi, İstanbul'un Beşiktaş ilçesinde bulunan ve Marmara Bölgesi'nin önemli turistik noktalarından biri olan bir türbedir. Bu tarihi mekan, doğal güzellikleri ve tarihi yapısı ile ziyaretçilerini etkiler. İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için bir sığınak niteliğinde olan Yahya Efendi Türbesi, aynı zamanda önemli bir dinî merkez olarak da bilinir. Burada, tarih ve doğa bir arada bulunmakta ve ziyaretçilere unutulmaz bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yahya Efendi Türbesi, tarihi geçmişi ile dikkat çeker. Bu önemli dinî merk
 
 ## Coğrafya
 
-Yahya Efendi Türbesi, Beşiktaş ilçesinde, İstanbul'un kalbinde bulunmaktadır. Bu mekan, Marmara Bölgesi'nin coğrafi özellikleri ile çevrili olup, çevresinde çeşitli doğal güzellikler bulunmaktadır. Türbe, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu geniş alan, ziyaretçilere dinlenme ve doğayı keşfetmek için uygun bir ortam sağlar. İstanbul'un iklimi, Yahya Efendi Türbesi'nin bulunduğu bölgede de etkili olur ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. İlkbahar ve yaz aylarında, çevredeki bitkilerin ve ağaçların yeşillenmesi ile birlikte, türbe ve çevresindeki doğa güzelliği ziyaretçileri etkiler. Kış aylarında ise, İstanbul'un soğu ve yağmurlu hava koşulları, ziyaretçilere farklı bir deneyim sunar.
+Yahya Efendi Türbesi, Beşiktaş ilçesinde, İstanbul'un kalbinde bulunmaktadır. Bu mekan, Marmara Bölgesi'nin coğrafi özellikleri ile çevrili olup, çevresinde çeşitli doğal güzellikler bulunmaktadır. Bu geniş alan, ziyaretçilere dinlenme ve doğayı keşfetmek için uygun bir ortam sağlar. İstanbul'un iklimi, Yahya Efendi Türbesi'nin bulunduğu bölgede de etkili olur ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. İlkbahar ve yaz aylarında, çevredeki bitkilerin ve ağaçların yeşillenmesi ile birlikte, türbe ve çevresindeki doğa güzelliği ziyaretçileri etkiler. Kış aylarında ise, İstanbul'un soğu ve yağmurlu hava koşulları, ziyaretçilere farklı bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -46,7 +46,7 @@ Yahya Efendi Türbesi, çevresindeki doğal güzelliklerle birlikte, çeşitli f
 
 ## Ziyaret Bilgileri
 
-Yahya Efendi Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir seçimdir. Türbeye ulaşmak için, çeşitli toplu taşıma seçenekleri bulunmaktadır. Ziyaretçiler, İstanbul'un merkezi bölgelerinden hareket eden otobüs ve dolmuşları kullanarak, Beşiktaş'a ulaşabilir ve ardından türbeye yürüyere veya taksi ile ulaşabilirler. Yahya Efendi Türbesi, yılın her döneminde ziyaret edilebilir, ancak ilkbahar ve yaz aylarında, çevredeki doğanın güzelliği ziyaretçileri daha çok etkiler. Ziyaret sırasında, türbenin histórik yapısını ve çevresindeki doğal güzellikleri keşfetme mümkündür.
+Yahya Efendi Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir seçimdir. Türbeye ulaşmak için, çeşitli toplu taşıma seçenekleri bulunmaktadır. Ziyaretçiler, İstanbul'un merkezi bölgelerinden hareket eden otobüs ve dolmuşları kullanarak, Beşiktaş'a ulaşabilir ve ardından türbeye yürüyere veya taksi ile ulaşabilirler. Yahya Efendi Türbesi, yılın her döneminde ziyaret edilebilir, ancak ilkbahar ve yaz aylarında, çevredeki doğanın güzelliği ziyaretçileri daha çok etkiler. Ziyaret sırasında, türbenin tarihi yapısını ve çevresindeki doğal güzellikleri keşfetme mümkündür.
 
 ## İlginç Bilgiler
 
@@ -54,4 +54,4 @@ Yahya Efendi Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve doğal güzellikl
 - Türbe, 140 hektarlık bir alan üzerinde kurulmuştur.
 - Çevresinde çeşitli doğal güzellikler bulunmaktadır.
 - Yahya Efendi Türbesi, yılın her döneminde ziyaret edilebilir.
-- Türbenin histórik yapısını ve çevresindeki doğal güzellikleri keşfetme mümkündür.
+- Türbenin tarihi yapısını ve çevresindeki doğal güzellikleri keşfetme mümkündür.

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Razi Türbesi"
 date: "2026-01-10T07:45:42.989Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391156"
 
 # Şeyh Razi Türbesi
 
-Şeyh Razi Türbesi, İstanbul'un Fatih ilçesinde bulunan ve Marmara Bölgesi'nin önemli tarihi mekanlarından biri olarak kabul edilen bir türbedir. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alır ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Şeyh Razi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Türbenin tarihi geçmişi, ziyaretçilere İstanbul'un derin geçmişine bir pencere açar. Şeyh Razi Türbesi, hem İstanbul'un hem de Türkiye'nin önemli bir kültürel mirası olarak görülür.
+Şeyh Razi Türbesi, İstanbul'un Fatih ilçesinde bulunan ve Marmara Bölgesi'nin önemli tarihi mekanlarından biri olarak kabul edilen bir türbedir. Şeyh Razi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Türbenin tarihi geçmişi, ziyaretçilere İstanbul'un derin geçmişine bir pencere açar. Şeyh Razi Türbesi, hem İstanbul'un hem de Türkiye'nin önemli bir kültürel mirası olarak görülür.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ wikidata_id: "Q131391156"
 
 ## Flora ve Fauna
 
-Şeyh Razi Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. İstanbul'un iklimi, bu bölgede yer alan bitkilerin ve hayvanların çeşitliliğini etkiler. Şeyh Razi Türbesi çevresinde, özellikle histórik ağaçlar ve bitkiler bulunur. Bu bitkiler, türbenin tarihi ve kültürel önemini vurgular. İstanbul'un fauna zenginliği, Şeyh Razi Türbesi'nin bulunduğu bölgede de gözlemlenebilir. Türbenin yakınında, çeşitli kuş türleri ve diğer hayvanlar yaşamaktadır. Şeyh Razi Türbesi, İstanbul'un doğa ve kültür mirasının birleştiği önemli bir noktadır.
+Şeyh Razi Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. İstanbul'un iklimi, bu bölgede yer alan bitkilerin ve hayvanların çeşitliliğini etkiler. Şeyh Razi Türbesi çevresinde, özellikle tarihi ağaçlar ve bitkiler bulunur. Bu bitkiler, türbenin tarihi ve kültürel önemini vurgular. İstanbul'un fauna zenginliği, Şeyh Razi Türbesi'nin bulunduğu bölgede de gözlemlenebilir. Türbenin yakınında, çeşitli kuş türleri ve diğer hayvanlar yaşamaktadır. Şeyh Razi Türbesi, İstanbul'un doğa ve kültür mirasının birleştiği önemli bir noktadır.
 
 ## Ziyaret Bilgileri
 

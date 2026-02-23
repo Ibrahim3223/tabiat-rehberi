@@ -1,7 +1,7 @@
 ---
 title: "Karaman Kazımkarabekir Hamam"
 date: "2026-01-09T22:31:43.465Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738742"
 
 # Karaman Kazımkarabekir Hamam
 
-Karaman Kazımkarabekir Hamam, İç Anadolu Bölgesi'nin Karaman ilinin Kazımkarabekir ilçesinde yer alan doğal bir plajdır. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Karaman'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bu plaj, ziyaretçilerini doğanın içinde bir macera bekliyor. Karaman'ın tarihi ve kültürel zenginliklerinin yanı sıra, bu plajda doğanın güzelliklerini keşfetmek de mümkün.
+Karaman Kazımkarabekir Hamam, İç Anadolu Bölgesi'nin Karaman ilinin Kazımkarabekir ilçesinde yer alan doğal bir plajdır. Karaman'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bu plaj, ziyaretçilerini doğanın içinde bir macera bekliyor. Karaman'ın tarihi ve kültürel zenginliklerinin yanı sıra, bu plajda doğanın güzelliklerini keşfetmek de mümkün.
 
 ## Tarihçe
 

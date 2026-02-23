@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Nasurettin Türbesi"
 date: "2026-01-10T04:59:39.741Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391545"
 
 # Şeyh Nasurettin Türbesi
 
-Şeyh Nasurettin Türbesi, İzmir'in Tire ilçesinde yer alan bir turistik nokta olarak dikkat çekiyor. 140 hektarlık bir alanda bulunan bu tarihi ve doğal güzellikler bir arada sunan destinasyon, ziyaretçilerini bekliyor. Tire'nin merkezine yakın konumuyla kolay ulaşılabilirlik sunan Şeyh Nasurettin Türbesi, aynı zamanda çevresi ile de dikkat çekiyor. Yaklaşık 200 futbol sahası büyüklüğündeki bu alan, hem tarihi hem de doğal güzellikleri bir arada sunuyor.
+Şeyh Nasurettin Türbesi, İzmir'in Tire ilçesinde yer alan bir turistik nokta olarak dikkat çekiyor. 140 hektarlık bir alanda bulunan bu tarihi ve doğal güzellikler bir arada sunan destinasyon, ziyaretçilerini bekliyor. Tire'nin merkezine yakın konumuyla kolay ulaşılabilirlik sunan Şeyh Nasurettin Türbesi, aynı zamanda çevresi ile de dikkat çekiyor.
 
 ## Tarihçe
 

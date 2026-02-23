@@ -28,7 +28,7 @@ wikidata_id: "Q31389942"
 
 # Kazıktepe
 
-Kazıktepe, Güneydoğu Anadolu Bölgesi'nin kalbinde, Gaziantep şehrinde yer alan bir tepe. Bu bölge, tarihi ve doğal güzellikleri bir araya getiren özel bir yer. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Kazıktepe, şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor. Burada, doğanın sesini dinleyerek, tarihi geçmişi keşfedere ve çevrenin güzelliğini izleyerek unutulmaz anlar yaşayabilirsiniz.
+Kazıktepe, Güneydoğu Anadolu Bölgesi'nin kalbinde, Gaziantep şehrinde yer alan bir tepe. Bu bölge, tarihi ve doğal güzellikleri bir araya getiren özel bir yer. Kazıktepe, şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor. Burada, doğanın sesini dinleyerek, tarihi geçmişi keşfedere ve çevrenin güzelliğini izleyerek unutulmaz anlar yaşayabilirsiniz.
 
 ## Tarihçe
 

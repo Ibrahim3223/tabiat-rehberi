@@ -1,7 +1,7 @@
 ---
 title: "Demirtaş Paşa Türbesi"
 date: "2026-01-10T07:32:49.875Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"

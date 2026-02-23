@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Balıklı-Güneşli Şelaleleri Tabiat Parkı
 
-Artvin'in muhteşem doğasında yer alan Balıklı-Güneşli Şelaleleri Tabiat Parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık alanı ile ziyaretçilerini doğal güzelliklerin içinde bir yolculuğa çıkarıyor. Bu park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Parkın içinde yer alan şelaleler, ziyaretçilere doğanın güzelliğini gösteriyor. 140 hektarlık bu büyük alan, birçok farklı bitki türüne ve yaban hayvanına ev sahipliği yapıyor.
+ Bu park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Parkın içinde yer alan şelaleler, ziyaretçilere doğanın güzelliğini gösteriyor. 140 hektarlık bu büyük alan, birçok farklı bitki türüne ve yaban hayvanına ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -29,7 +29,7 @@ Balıklı-Güneşli Şelaleleri Tabiat Parkı, tarihsel olarak önemli bir geçm
 
 ## Coğrafya
 
-Balıklı-Güneşli Şelaleleri Tabiat Parkı, Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden birini teşkil ediyor. Park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapıyor. Parkın coğrafi yapısı, birçok farklı habitatın birleşmesiyle oluşuyor. Şelaleler, ziyaretçilere doğanın güzelliğini gösterirken, parkın coğrafi konumu, ziyaretçilere birçok farklı aktivite imkanı sunuyor. Parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor.
+Balıklı-Güneşli Şelaleleri Tabiat Parkı, Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden birini teşkil ediyor. Bu büyük alan, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapıyor. Parkın coğrafi yapısı, birçok farklı habitatın birleşmesiyle oluşuyor. Şelaleler, ziyaretçilere doğanın güzelliğini gösterirken, parkın coğrafi konumu, ziyaretçilere birçok farklı aktivite imkanı sunuyor. Parkın iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 

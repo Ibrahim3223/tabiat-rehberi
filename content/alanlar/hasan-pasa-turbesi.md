@@ -1,7 +1,7 @@
 ---
 title: "Hasan Paşa Türbesi"
 date: "2026-01-10T07:34:41.499Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391257"
 
 # Hasan Paşa Türbesi
 
-Konya'nın Karatay ilçesinde bulunan Hasan Paşa Türbesi, tarihi ve kültürel değerleri ile dikkat çekiyor. 140 hektarlık bir alanda yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Hasan Paşa Türbesi, Konya'nın önemli tarihi yapılardan biri olarak biliniyor. İç Anadolu Bölgesi'nin merkezi olan Konya, tarihi ve kültürel zenginlikleri ile ziyaretçilerini bekliyor. Hasan Paşa Türbesi, Konya'nın Karatay ilçesinde bulunan önemli bir turistik nokta olarak kabul ediliyor.
+Konya'nın Karatay ilçesinde bulunan Hasan Paşa Türbesi, tarihi ve kültürel değerleri ile dikkat çekiyor. Hasan Paşa Türbesi, Konya'nın önemli tarihi yapılardan biri olarak biliniyor. İç Anadolu Bölgesi'nin merkezi olan Konya, tarihi ve kültürel zenginlikleri ile ziyaretçilerini bekliyor. Hasan Paşa Türbesi, Konya'nın Karatay ilçesinde bulunan önemli bir turistik nokta olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hasan Paşa Türbesi, tarihsel geçmişi ile dikkat çekiyor. Tarihi belgelerde 
 
 ## Coğrafya
 
-Hasan Paşa Türbesi, Konya'nın Karatay ilçesinde yer alıyor. İç Anadolu Bölgesi'nin merkezi olan Konya, tarihi ve kültürel zenginliklerinin yanı sıra coğrafi özellikleri ile de dikkat çekiyor. Hasan Paşa Türbesi, 140 hektarlık bir alanda yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Türbenin etrafında, çeşitli bitkiler ve ağaçlar yer alıyor. Konya'nın iklimi, karasal iklim özellikleri gösteriyor. Hasan Paşa Türbesi, Konya'nın coğrafi ve kültürel zenginliklerini yansıtan önemli bir nokta olarak kabul ediliyor.
+Hasan Paşa Türbesi, Konya'nın Karatay ilçesinde yer alıyor. İç Anadolu Bölgesi'nin merkezi olan Konya, tarihi ve kültürel zenginliklerinin yanı sıra coğrafi özellikleri ile de dikkat çekiyor. Türbenin etrafında, çeşitli bitkiler ve ağaçlar yer alıyor. Konya'nın iklimi, karasal iklim özellikleri gösteriyor. Hasan Paşa Türbesi, Konya'nın coğrafi ve kültürel zenginliklerini yansıtan önemli bir nokta olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

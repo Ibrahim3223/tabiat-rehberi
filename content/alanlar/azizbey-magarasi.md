@@ -32,7 +32,7 @@ Kars'ın doğası, binlerce yıllık jeolojik oluşumların izlerini taşıyor. 
 
 ## Tarihçe
 
-Kars bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş, Selçuklular, Osmanlılar ve Ruslar gibi medeniyetlerin izlerini taşımaktadır. Azizbey Mağarası da bu tarihsel coğrafyanın bir parçasıdır.
+Kars bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş, Selçuklular, Osmanlılar ve Ruslar gibi medeniyetlerin izlerini taşımaktadır. Azizbey Mağarası da bu tarihsel coğrafyanın bir parçasıdır.
 
 Türkiye'de doğal alanlar, insan yaşamının önemli bir parçası olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendirmiştir. Kars bölgesinin stratejik konumu, tarihte önemli ticaret yollarının kesişme noktası olması, bölgenin doğal güzelliklerinin keşfedilmesini ve kullanılmasını sağlamıştır.
 

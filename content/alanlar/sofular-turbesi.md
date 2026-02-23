@@ -1,7 +1,7 @@
 ---
 title: "Sofular Türbesi"
 date: "2026-01-10T07:51:30.345Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391336"
 
 # Sofular Türbesi
 
-Sofular Türbesi, Merzifon'un tarihi ve kültürel zenginliklerini bir araya getiren önemli bir destinasyon. Bu alan, yaklaşık 140 hektarlık bir yeşil alanıyla ziyaretçilerini karşılar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Merzifon'un kalbinde yer alır. Sofular Türbesi, Merzifon'un tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini çekmeyi başaran bir nokta.
+Sofular Türbesi, Merzifon'un tarihi ve kültürel zenginliklerini bir araya getiren önemli bir destinasyon. Sofular Türbesi, Merzifon'un tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini çekmeyi başaran bir nokta.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Sofular Türbesi, Merzifon'un coğrafi olarak önemli bir bölgesinde yer alır.
 
 ## Flora ve Fauna
 
-Sofular Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, mevsimsel değişimler, canlıların yaşamını etkiler. Bahar aylarında, bölgede bulunan bitkiler ve çiçekler, renkli bir manzara oluşturur. Kış aylarında ise, bölgenin karasal iklimi, ziyaretçilere farklı bir deneyim sunar. Sofular Türbesi'nin etrafında, Merzifon'un doğal güzellikleri, ziyaretçilere geniş bir alan sunar. Bu bölge, ekolojik dengesi ile dikkat çeker ve ziyaretçilere, doğanın güzelliklerini keşfetme fırsatı verir.
+ Bu bölgede, mevsimsel değişimler, canlıların yaşamını etkiler. Bahar aylarında, bölgede bulunan bitkiler ve çiçekler, renkli bir manzara oluşturur. Kış aylarında ise, bölgenin karasal iklimi, ziyaretçilere farklı bir deneyim sunar. Sofular Türbesi'nin etrafında, Merzifon'un doğal güzellikleri, ziyaretçilere geniş bir alan sunar. Bu bölge, ekolojik dengesi ile dikkat çeker ve ziyaretçilere, doğanın güzelliklerini keşfetme fırsatı verir.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Sofular Türbesi, Merzifon'un önemli bir gezi noktası olarak kabul edilir. Bu 
 
 - Sofular Türbesi, Merzifon'un tarihi geçmişi ile önemli bir yer tutar.
 - Türbenin etrafı, Merzifon'un doğal güzellikleri ile çevrilidir.
-- Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Sofular Türbesi, Merzifon'un coğrafi olarak önemli bir bölgesinde yer alır.
 - Türbe, Merzifon'un merkezi bir noktasında bulunmakta ve ziyaretçilere kolay ulaşım imkânı sunar.

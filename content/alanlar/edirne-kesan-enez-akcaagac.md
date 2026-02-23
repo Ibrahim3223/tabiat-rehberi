@@ -22,7 +22,7 @@ wikidata_id: "Q108228098"
 
 # Edirne-Kesan Enez-Akcaagac
 
-Edirne-Kesan Enez-Akcaagac, Marmara Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bir alanı kaplayan bu doğal güzellik, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu bölge, ziyaretçilerini doğayla baş başa bırakma ve onların bu muhteşem manzarayı keşfetmelerine imkan tanımak için tasarlandı. Edirne-Kesan Enez-Akcaagac, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başaran bir destinasyon olarak göze çarpıyor.
+Edirne-Kesan Enez-Akcaagac, Marmara Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. Bu bölge, ziyaretçilerini doğayla baş başa bırakma ve onların bu muhteşem manzarayı keşfetmelerine imkan tanımak için tasarlandı. Edirne-Kesan Enez-Akcaagac, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başaran bir destinasyon olarak göze çarpıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Edirne-Kesan Enez-Akcaagac'ın tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Edirne-Kesan Enez-Akcaagac, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık bir alanı kaplayan bu doğal güzellik, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu bölge, ziyaretçilerini doğayla baş başa bırakma ve onların bu muhteşem manzarayı keşfetmelerine imkan tanımak için tasarlandı. Edirne-Kesan Enez-Akcaagac, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başaran bir destinasyon olarak göze çarpıyor. Coğrafi konumu itibariyle, bu bölge Marmara Bölgesi'nin önemli bir parçası olarak dikkat çekiyor. İklimi ve çevre şartları, ziyaretçilerin yıl boyunca keyifli bir deneyim yaşamalarına imkan tanıyor.
+Edirne-Kesan Enez-Akcaagac, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, ziyaretçilerini doğayla baş başa bırakma ve onların bu muhteşem manzarayı keşfetmelerine imkan tanımak için tasarlandı. Edirne-Kesan Enez-Akcaagac, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başaran bir destinasyon olarak göze çarpıyor. Coğrafi konumu itibariyle, bu bölge Marmara Bölgesi'nin önemli bir parçası olarak dikkat çekiyor. İklimi ve çevre şartları, ziyaretçilerin yıl boyunca keyifli bir deneyim yaşamalarına imkan tanıyor.
 
 ## Flora ve Fauna
 

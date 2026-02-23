@@ -23,7 +23,7 @@ wikidata_id: "Q108228638"
 
 # GÜMÜŞHANE
 
-Gümüşhane, İç Anadolu Bölgesi'nin en güzel köşelerinden biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin buluşma noktasıdır. Gümüşhane'nin tarihi geçmişi, ziyaretçilerini etkileyen bir diğer önemli unsurdur. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri próp geçmişiyle izlerini bırakmıştır. Gümüşhane, doğa ve tarihle iç içe bir gezi deneyimi sunar.
+Gümüşhane, İç Anadolu Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Gümüşhane'nin tarihi geçmişi, ziyaretçilerini etkileyen bir diğer önemli unsurdur. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri próp geçmişiyle izlerini bırakmıştır. Gümüşhane, doğa ve tarihle iç içe bir gezi deneyimi sunar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Mezitbey Çukur Hamamı"
 date: "2026-01-09T22:27:03.989Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738503"
 
 # Mezitbey Çukur Hamamı
 
-Marmara Bölgesi'nin en önemli şehirlerinden biri olan Edirne, tarihi ve doğal güzellikleriyle ziyaretçilerini büyülemektedir. Bu şehirde yer alan Mezitbey Çukur Hamamı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alan sunmaktadır. Bu geniş alan, ziyaretçilere doğayı keşfetme ve tarihi eserleri görme fırsatı sunmaktadır. Mezitbey Çukur Hamamı, Edirne'nin merkezine yakın bir konumda yer almakta ve ulaşımı oldukça kolaydır. Ziyaretçiler, bu tarihi ve doğal güzelliği keşfetmek için yılın her döneminde burayı ziyaret edebilirler.
+Marmara Bölgesi'nin en önemli şehirlerinden biri olan Edirne, tarihi ve doğal güzellikleriyle ziyaretçilerini büyülemektedir. Bu geniş alan, ziyaretçilere doğayı keşfetme ve tarihi eserleri görme fırsatı sunmaktadır. Mezitbey Çukur Hamamı, Edirne'nin merkezine yakın bir konumda yer almakta ve ulaşımı oldukça kolaydır. Ziyaretçiler, bu tarihi ve doğal güzelliği keşfetmek için yılın her döneminde burayı ziyaret edebilirler.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Mezitbey Çukur Hamamı, yüzyıllar boyunca çeşitli medeniyetlere ev sahipli�
 
 ## Coğrafya
 
-Mezitbey Çukur Hamamı, Marmara Bölgesi'nin Edirne ilinde yer almaktadır. Bu bölge, coğrafi olarak çeşitli özelliklere sahiptir. Mezitbey Çukur Hamamı'nın bulunduğu alan, 140 hektarlık bir alanı kapsamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alan sunmaktadır. Bu geniş alan, ziyaretçilere doğayı keşfetme ve tarihi eserleri görme fırsatı sunmaktadır. Mezitbey Çukur Hamamı, Edirne'nin merkezine yakın bir konumda yer almakta ve ulaşımı oldukça kolaydır. Ziyaretçiler, bu tarihi ve doğal güzelliği keşfetmek için yılın her döneminde burayı ziyaret edebilirler. Bölge, iklim olarak ılımandır ve ziyaretçilere uygun koşullar sunmaktadır. Mezitbey Çukur Hamamı'nın çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
+Mezitbey Çukur Hamamı, Marmara Bölgesi'nin Edirne ilinde yer almaktadır. Bu bölge, coğrafi olarak çeşitli özelliklere sahiptir. Bu geniş alan, ziyaretçilere doğayı keşfetme ve tarihi eserleri görme fırsatı sunmaktadır. Mezitbey Çukur Hamamı, Edirne'nin merkezine yakın bir konumda yer almakta ve ulaşımı oldukça kolaydır. Ziyaretçiler, bu tarihi ve doğal güzelliği keşfetmek için yılın her döneminde burayı ziyaret edebilirler. Bölge, iklim olarak ılımandır ve ziyaretçilere uygun koşullar sunmaktadır. Mezitbey Çukur Hamamı'nın çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 
-Mezitbey Çukur Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bu bölge, mevsimsel değişimlere göre farklı canlıları barındırmaktadır. Ziyaretçiler, burayı ziyaret ederek çeşitli bitki türlerini ve hayvanları görebilirler. Mezitbey Çukur Hamamı, ekolojik olarak önemli bir alandır ve ziyaretçilere doğayı keşfetme fırsatı sunmaktadır. Bölge, zengin fauna ile dikkat çekmekte ve ziyaretçilere çeşitli hayvan türlerini görme fırsatı sunmaktadır. Mezitbey Çukur Hamamı, doğa severler için ideal bir destinasyon olarak görülmektedir.
+Mezitbey Çukur Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bu bölge, mevsimsel değişimlere göre farklı canlıları barındırmaktadır. Ziyaretçiler, burayı ziyaret ederek çeşitli bitki türlerini ve hayvanları görebilirler. Bölge, zengin fauna ile dikkat çekmekte ve ziyaretçilere çeşitli hayvan türlerini görme fırsatı sunmaktadır. Mezitbey Çukur Hamamı, doğa severler için ideal bir destinasyon olarak görülmektedir.
 
 ## Ziyaret Bilgileri
 

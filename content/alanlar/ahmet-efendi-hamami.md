@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Efendi Hamamı"
 date: "2026-01-10T04:30:32.113Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738773"
 
 # Ahmet Efendi Hamamı
 
-Ahmet Efendi Hamamı, Konya'nın Karatay ilçesinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve buna karşılık gelen büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ahmet Efendi Hamamı, Konya'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Plajın etrafında yer alan tarihi yapılar ve doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar. Ahmet Efendi Hamamı, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için bir cazibe merkezidir.
+Ahmet Efendi Hamamı, Konya'nın Karatay ilçesinde yer alan bir plajdır. Ahmet Efendi Hamamı, Konya'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Plajın etrafında yer alan tarihi yapılar ve doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar. Ahmet Efendi Hamamı, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için bir cazibe merkezidir.
 
 ## Tarihçe
 

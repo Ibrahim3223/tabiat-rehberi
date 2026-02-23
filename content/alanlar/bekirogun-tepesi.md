@@ -28,7 +28,7 @@ wikidata_id: "Q31536005"
 
 # Bekirogun Tepesi
 
-Bekirogun Tepesi, Hatay ilinin sınırları içinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe alanıdır. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile bekliyor. Bekirogun Tepesi, Hatay'ın tarih ve kültür zenginliklerinin yanı sıra, doğal güzelliği ile de dikkat çekiyor. Ziyaretçiler, bu güzel tepe alanında hem doğa ile iç içe vakit geçirebiliyor hem de tarihi ve kültürel zenginlikler hakkında bilgi sahibi olabiliyor.
+Bekirogun Tepesi, Hatay ilinin sınırları içinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe alanıdır. Bekirogun Tepesi, Hatay'ın tarih ve kültür zenginliklerinin yanı sıra, doğal güzelliği ile de dikkat çekiyor. Ziyaretçiler, bu güzel tepe alanında hem doğa ile iç içe vakit geçirebiliyor hem de tarihi ve kültürel zenginlikler hakkında bilgi sahibi olabiliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bekirogun Tepesi'nin tarihi geçmişi, Hatay'ın tarihine paralel olarak şekill
 
 ## Coğrafya
 
-Bekirogun Tepesi, Hatay ilinin sınırları içinde yer alıyor ve Akdeniz Bölgesi'nin önemli bir doğal güzelliği olarak kabul ediliyor. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile bekliyor. Bekirogun Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özellikleri ile örtüşüyor. Bu bölge, genel olarak sıcak ve kurak yazlar ile ılık ve yağışlı kışlar ile karakterize ediliyor. Bekirogun Tepesi'nin coğrafi konumu, ziyaretçilerine yıl boyunca farklı mevsimsel deneyimler sunuyor. Bu tepe, ziyaretçilerine hem doğal güzelliği ile hem de coğrafi çeşitliliği ile önemli bir ziyaret noktası haline geliyor.
+Bekirogun Tepesi, Hatay ilinin sınırları içinde yer alıyor ve Akdeniz Bölgesi'nin önemli bir doğal güzelliği olarak kabul ediliyor. Bekirogun Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özellikleri ile örtüşüyor. Bu bölge, genel olarak sıcak ve kurak yazlar ile ılık ve yağışlı kışlar ile karakterize ediliyor. Bekirogun Tepesi'nin coğrafi konumu, ziyaretçilerine yıl boyunca farklı mevsimsel deneyimler sunuyor. Bu tepe, ziyaretçilerine hem doğal güzelliği ile hem de coğrafi çeşitliliği ile önemli bir ziyaret noktası haline geliyor.
 
 ## Flora ve Fauna
 

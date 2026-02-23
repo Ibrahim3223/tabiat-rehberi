@@ -22,7 +22,7 @@ wikidata_id: "Q108227996"
 
 # Denizli-Cal-Cardak Toros Sediri
 
-Denizli'de yer alan Cal-Cardak Toros Sediri milli parkı, Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Denizli'nin Cal ilçesinde yer alan milli park, Toros sedirinin yoğun olarak bulunduğu bir bölge olarak biliniyor. Burada, sedir ağaçlarının yanı sıra çeşitli bitki türleri ve yaban hayatı da bulunmakta.
+Denizli'de yer alan Cal-Cardak Toros Sediri milli parkı, Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Denizli'nin Cal ilçesinde yer alan milli park, Toros sedirinin yoğun olarak bulunduğu bir bölge olarak biliniyor. Burada, sedir ağaçlarının yanı sıra çeşitli bitki türleri ve yaban hayatı da bulunmakta.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Cal-Cardak Toros Sediri milli parkının tarihi geçmişi, bölgenin coğrafi ö
 
 ## Coğrafya
 
-Cal-Cardak Toros Sediri milli parkı, Ege Bölgesi'nin önemli coğrafi özelliklerinden biri olarak dikkat çekiyor. Milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bu nedenle de geniş bir alanı kapsıyor. Denizli'nin Cal ilçesinde yer alan milli park, Toros sedirinin yoğun olarak bulunduğu bir bölge olarak biliniyor. Burada, sedir ağaçlarının yanı sıra çeşitli bitki türleri ve yaban hayatı da bulunmakta. Milli parkın coğrafi yapısı, sedir ağaçlarının ve diğer bitki türlerinin gelişimine uygun olmuş ve bu nedenle de önemli bir ekosistem olarak değerlendiriliyor. Milli parkın iklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılıman ve bu nedenle de ziyaretçilerin gezebileceği bir atmosfer sunuyor. Çevre, milli parkın önemli bir parçası olarak görülüyor ve bu nedenle de koruma altına alınmış durumda.
+Cal-Cardak Toros Sediri milli parkı, Ege Bölgesi'nin önemli coğrafi özelliklerinden biri olarak dikkat çekiyor. Denizli'nin Cal ilçesinde yer alan milli park, Toros sedirinin yoğun olarak bulunduğu bir bölge olarak biliniyor. Burada, sedir ağaçlarının yanı sıra çeşitli bitki türleri ve yaban hayatı da bulunmakta. Milli parkın coğrafi yapısı, sedir ağaçlarının ve diğer bitki türlerinin gelişimine uygun olmuş ve bu nedenle de önemli bir ekosistem olarak değerlendiriliyor. Milli parkın iklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılıman ve bu nedenle de ziyaretçilerin gezebileceği bir atmosfer sunuyor. Çevre, milli parkın önemli bir parçası olarak görülüyor ve bu nedenle de koruma altına alınmış durumda.
 
 ## Flora ve Fauna
 
@@ -46,4 +46,4 @@ Cal-Cardak Toros Sediri milli parkını ziyaret etmek, doğa severler için öne
 - Yaban hayatı, milli parkın önemli bir parçası olarak görülüyor.
 - Milli parkın coğrafi yapısı, sedir ağaçlarının ve diğer bitki türlerinin gelişimine uygun olmuş.
 - Milli parkın iklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılıman.
-- Milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
+

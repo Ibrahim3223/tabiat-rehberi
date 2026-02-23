@@ -29,7 +29,7 @@ wikidata_id: "Q131738946"
 
 # Alangüllü Kaplıcası
 
-Alangüllü Kaplıcası, Aydın'ın Germencik ilçesinde yer alan ve Ege Bölgesi'nin önemli turizm noktalarından biri olarak bilinen bir kaplıcadır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası olarak karşımıza çıkmaktadır. Bu büyüklükte bir alanı düşünmek, yaklaşık 700 metre uzunluğunda ve 200 metre genişliğinde bir alanı kapsıyor demektir. Alangüllü Kaplıcası, ziyaretçilerine hem doğanın güzelliğini hem de şifalı suların rahatlatıcı etkilerini sunmaktadır. Bu kaplıca, özellikle sıcak su kaynakları ve mineralli sularıyla ünlü olup, çeşitli sağlık sorunlarına iyi geldiği bilinmektedir.
+Alangüllü Kaplıcası, Aydın'ın Germencik ilçesinde yer alan ve Ege Bölgesi'nin önemli turizm noktalarından biri olarak bilinen bir kaplıcadır. Bu büyüklükte bir alanı düşünmek, yaklaşık 700 metre uzunluğunda ve 200 metre genişliğinde bir alanı kapsıyor demektir. Alangüllü Kaplıcası, ziyaretçilerine hem doğanın güzelliğini hem de şifalı suların rahatlatıcı etkilerini sunmaktadır. Bu kaplıca, özellikle sıcak su kaynakları ve mineralli sularıyla ünlü olup, çeşitli sağlık sorunlarına iyi geldiği bilinmektedir.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Mardin'in tarihi dokusuyla çevrili Mirşirantepeleri, Türkiye'nin güneydoğu 
 
 ## Tarihçe
 
-Mardin bölgesinde yer alan Mirşirantepeleri, zengin bir tarihi mirasın içinde bulunuyor. Bu bölge, tarihin depthsinden günümüze kadar çeşitli uygarlıkların izlerini taşıyor. Hititler, Asurlular, Romalılar ve Osmanlılar gibi büyük medeniyetler, bu topraklarda yaşamış ve izler bırakmışlar. 
+Mardin bölgesinde yer alan Mirşirantepeleri, zengin bir tarihi mirasın içinde bulunuyor. Bu bölge, tarihin depthsinden günümüze kadar çeşitli uygarlıkların izlerini taşıyor. Hititler, Asurlular, Romalılar ve Osmanlılar gibi büyük medeniyetler, bu topraklarda yaşamış ve izler bırakmışlar.
 
 Doğal güzellikleri ve stratejik konumuyla, Mirşirantepeleri gibi alanlar, tarih boyunca insanların yerleşim, tarım ve ticaret faaliyetleri için önemli merkezler olmuşlardır. Türkiye'de, özellikle güneydoğu bölgesinde, bu tür doğal alanlar, insan yerleşimlerinin ve ekonomik faaliyetlerin temelini oluşturmuşlardır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgede yaşayan insanların yaşam tarzını şekillendirmiştir.
 
@@ -63,7 +63,7 @@ Mirşirantepeleri'ne gitmeden önce, Mardin şehir merkezinden yaklaşık 30-40 
 ## İlginç Bilgiler
 
 - Mardin ilinin güneydoğusunda, Dara Antik Kenti'nin yakınlarında yer alır.
-- Mirşirantepeleri, históri ve kültürel açıdan önemli bir bölge olarak bilinir.
+- Mirşirantepeleri, tarihi ve kültürel açıdan önemli bir bölge olarak bilinir.
 - Mardin ili, 1996 yılında 3. derece doğal sit alanı ilan edilmiştir.
 - Mardin ilinin deniz seviyesinden yüksekliği 1060 metredir.
 - Mirşirantepeleri ve çevresinin coğrafi konumu, Güneydoğu Anadolu Bölgesi'nde yer alır.

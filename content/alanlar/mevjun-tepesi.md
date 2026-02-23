@@ -28,7 +28,7 @@ wikidata_id: "Q31544351"
 
 # Mevjun Tepesi
 
-Mevjun Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde bulunan ve etwa 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu tepe, çevresindeki diğer tepe ve dağlarla birlikte bir bütünü oluşturuyor ve geniş bir manzara sunuyor. Mevjun Tepesi, Batman'ın tarihi ve coğrafi açıdan önemli bir noktası olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta.
+ Bu tepe, çevresindeki diğer tepe ve dağlarla birlikte bir bütünü oluşturuyor ve geniş bir manzara sunuyor. Mevjun Tepesi, Batman'ın tarihi ve coğrafi açıdan önemli bir noktası olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

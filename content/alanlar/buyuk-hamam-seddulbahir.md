@@ -1,7 +1,7 @@
 ---
 title: "Büyük Hamam, Seddülbahir"
 date: "2026-01-09T23:55:59.717Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eceabat ilçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245816"
 
 # Büyük Hamam, Seddülbahir
 
-Büyük Hamam, Seddülbahir plajı, Çanakkale'nin Eceabat ilçesinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ki, bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Eceabat'ın merkezine yakın konumuyla ziyaretçilerini çekiyor. Sahil şeridi boyunca uzanan bu plaj, denize girme ve güneşlenmek için ideal bir yer sunuyor. Ayrıca, Seddülbahir'in tarihi önemi, bu bölgeyi ziyaretçiler için daha da çekici kılıyor.
+Büyük Hamam, Seddülbahir plajı, Çanakkale'nin Eceabat ilçesinde yer alıyor. Eceabat'ın merkezine yakın konumuyla ziyaretçilerini çekiyor. Sahil şeridi boyunca uzanan bu plaj, denize girme ve güneşlenmek için ideal bir yer sunuyor. Ayrıca, Seddülbahir'in tarihi önemi, bu bölgeyi ziyaretçiler için daha da çekici kılıyor.
 
 ## Tarihçe
 

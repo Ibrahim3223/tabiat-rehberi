@@ -1,7 +1,7 @@
 ---
 title: "Tekfur Sarayı Çini Müzesi"
 date: "2026-01-10T15:20:54.159Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949102"
 
 # Tekfur Sarayı Çini Müzesi
 
-İstanbul'un kalbinde, tarih ve sanatın buluştuğu bir mekan olarak bilinen Tekfur Sarayı Çini Müzesi, ziyaretçilerini geçmişe götürüyor. 140 hektarlık bir alanın içinde yer alan bu müze, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Burada, çininin sanatını ve geçmişini keşfetme mümkün. Ziyaretçiler, bu tarihi mekanda gezinirken, sanatın ve kültürün zenginliğini görebiliyorlar.
+İstanbul'un kalbinde, tarih ve sanatın buluştuğu bir mekan olarak bilinen Tekfur Sarayı Çini Müzesi, ziyaretçilerini geçmişe götürüyor. Burada, çininin sanatını ve geçmişini keşfetme mümkün. Ziyaretçiler, bu tarihi mekanda gezinirken, sanatın ve kültürün zenginliğini görebiliyorlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tekfur Sarayı Çini Müzesi'nin tarihi geçmişi, Bizans Dönemi'ne kadar uzan�
 
 ## Coğrafya
 
-Tekfur Sarayı Çini Müzesi, İstanbul'un merkezinde yer alıyor. Bu müze, şehrin tarihi ve kültürel zenginliğini yansıtan bir mekan olarak biliniyor. Müzenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilere geniş bir gezi alanı sunuyor. İstanbul'un iklimi, bu müzenin ziyaretçilerini dört mevsim boyunca ağırlayabilecek bir yapıya sahip. Müzenin çevresi, tarihi yapılar ve sanat merkezleri ile dolu, bu nedenle ziyaretçiler, müze gezilerinin yanı sıra, şehrin diğer tarihi ve kültürel mekanlarını da keşfedebiliyorlar. Müzenin coğrafi konumu, ziyaretçilere, İstanbul'un tarihini ve kültürünü keşfetme fırsatı sunuyor.
+Tekfur Sarayı Çini Müzesi, İstanbul'un merkezinde yer alıyor. Bu müze, şehrin tarihi ve kültürel zenginliğini yansıtan bir mekan olarak biliniyor. İstanbul'un iklimi, bu müzenin ziyaretçilerini dört mevsim boyunca ağırlayabilecek bir yapıya sahip. Müzenin çevresi, tarihi yapılar ve sanat merkezleri ile dolu, bu nedenle ziyaretçiler, müze gezilerinin yanı sıra, şehrin diğer tarihi ve kültürel mekanlarını da keşfedebiliyorlar. Müzenin coğrafi konumu, ziyaretçilere, İstanbul'un tarihini ve kültürünü keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

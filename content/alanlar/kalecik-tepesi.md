@@ -28,7 +28,7 @@ wikidata_id: "Q31386433"
 
 # Kalecik Tepesi
 
-Kalecik Tepesi, Kilis şehrinin panoramik manzarasına hakim bir konumda yer alıyor. Tarihi geçmişi ile dikkat çeken bu tepe, ziyaretçilerini bekliyor. 140 hektarlık bir alana yayılan Kalecik Tepesi, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunuyor. Kalecik Tepesi, Kilis'in önemli noktalarından biri olarak biliniyor.
+Kalecik Tepesi, Kilis şehrinin panoramik manzarasına hakim bir konumda yer alıyor. Tarihi geçmişi ile dikkat çeken bu tepe, ziyaretçilerini bekliyor. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunuyor. Kalecik Tepesi, Kilis'in önemli noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 

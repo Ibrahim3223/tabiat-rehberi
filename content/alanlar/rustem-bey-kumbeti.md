@@ -29,7 +29,7 @@ wikidata_id: "Q135582349"
 
 # Rüstem Bey Kümbeti
 
-Rüstem Bey Kümbeti, Konya'nın Seydişehir ilçesinde yer alan tarihi bir eserdir. Bu önemli turizm noktası, ziyaretçilerini tarihin derinliklerine götürerek, geçmişin izlerini sunar. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçiler için keşfetmeye değer bir ortam sağlar. Rüstem Bey Kümbeti, mimarisi ve tarihi önemiyle dikkat çekerek, Konya'nın kültür mirasına önemli bir katkı sağlar.
+Rüstem Bey Kümbeti, Konya'nın Seydişehir ilçesinde yer alan tarihi bir eserdir. Bu önemli turizm noktası, ziyaretçilerini tarihin derinliklerine götürerek, geçmişin izlerini sunar. Rüstem Bey Kümbeti, mimarisi ve tarihi önemiyle dikkat çekerek, Konya'nın kültür mirasına önemli bir katkı sağlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Rüstem Bey Kümbeti'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Rüstem Bey Kümbeti, Konya'nın Seydişehir ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Kümbet, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere bir bütün olarak sunulur. 180 hektarlık bir alanda yer alan Rüstem Bey Kümbeti, yaklaşık 250 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere geniş bir perspektif sunar. Coğrafi olarak, Rüstem Bey Kümbeti, çevresindeki dağlar ve ovalarla birlikte, bir bütün olarak değerlendirilir. Bu coğrafi konumu, Rüstem Bey Kümbeti'ni ziyaret edenler için önemli bir çekim noktası oluşturur. Rüstem Bey Kümbeti, ziyaretçilerine geniş bir coğrafi alan sunar ve bu alan, ziyaretçilerin keşfetmesine olanak tanır.
+Rüstem Bey Kümbeti, Konya'nın Seydişehir ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Kümbet, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere bir bütün olarak sunulur. Bu geniş alan, ziyaretçilere geniş bir perspektif sunar. Coğrafi olarak, Rüstem Bey Kümbeti, çevresindeki dağlar ve ovalarla birlikte, bir bütün olarak değerlendirilir. Bu coğrafi konumu, Rüstem Bey Kümbeti'ni ziyaret edenler için önemli bir çekim noktası oluşturur. Rüstem Bey Kümbeti, ziyaretçilerine geniş bir coğrafi alan sunar ve bu alan, ziyaretçilerin keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 

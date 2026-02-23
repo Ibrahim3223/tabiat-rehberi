@@ -28,7 +28,7 @@ wikidata_id: "Q31589014"
 
 # Karcıkziyareti Tepesi
 
-Karcıkziyareti Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Karcıkziyareti Tepesi, bölgenin önemli doğal güzelliklerinden biri olarak biliniyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Bu bölge, doğa severler için önemli bir destinasyon.
+Karcıkziyareti Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor. Karcıkziyareti Tepesi, bölgenin önemli doğal güzelliklerinden biri olarak biliniyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Bu bölge, doğa severler için önemli bir destinasyon.
 
 ## Tarihçe
 

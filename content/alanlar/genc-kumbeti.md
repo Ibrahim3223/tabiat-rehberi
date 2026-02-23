@@ -29,7 +29,7 @@ wikidata_id: "Q135582826"
 
 # Genç Kümbeti
 
-Genç Kümbeti, Doğu Anadolu Bölgesi'nin Bingöl iline bağlı Genç ilçesinde bulunan bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu geniş alan, ziyaretçilere doğayı keşfetme ve dinlenme fırsatı sunar. Genç Kümbeti, bölgenin önemli turizm merkezlerinden biri olarak bilinir. Burada, doğal güzellikler ve tarihi değerler bir araya gelir.
+Genç Kümbeti, Doğu Anadolu Bölgesi'nin Bingöl iline bağlı Genç ilçesinde bulunan bir plajdır. Bu geniş alan, ziyaretçilere doğayı keşfetme ve dinlenme fırsatı sunar. Genç Kümbeti, bölgenin önemli turizm merkezlerinden biri olarak bilinir. Burada, doğal güzellikler ve tarihi değerler bir araya gelir.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Genç Kümbeti, coğrafi olarak Doğu Anadolu Bölgesi'nin kuzeydoğusunda yer a
 
 ## Flora ve Fauna
 
-Genç Kümbeti, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, mevsimsel değişimler, canlıların yaşamını etkiler. İlkbahar ve yaz aylarında, bölgede yeşillik hüküm sürer ve çeşitli bitkiler yetişir. Kış aylarında ise, bölgenin flora ve faunası, soğuk hava koşullarına uyum sağlar. Genç Kümbeti, ekolojik açıdan önemli bir alandır. Burada, doğal yaşamı koruma ve sürdürmek, büyük önem taşır. Ziyaretçiler, bölgenin flora ve faunasını keşfetme fırsatı bulur ve doğal yaşamın güzelliğini görme imkanına sahip olur.
+ Bu bölgede, mevsimsel değişimler, canlıların yaşamını etkiler. İlkbahar ve yaz aylarında, bölgede yeşillik hüküm sürer ve çeşitli bitkiler yetişir. Kış aylarında ise, bölgenin flora ve faunası, soğuk hava koşullarına uyum sağlar. Genç Kümbeti, ekolojik açıdan önemli bir alandır. Burada, doğal yaşamı koruma ve sürdürmek, büyük önem taşır. Ziyaretçiler, bölgenin flora ve faunasını keşfetme fırsatı bulur ve doğal yaşamın güzelliğini görme imkanına sahip olur.
 
 ## Ziyaret Bilgileri
 

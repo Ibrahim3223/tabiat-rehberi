@@ -29,7 +29,7 @@ wikidata_id: "Q31387161"
 
 # Fındıklı Tepe
 
-Fındıklı Tepe, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş ve güzel tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Fındıklı Tepe, hem coğrafi konumu hem de doğal güzelliği ile dikkat çekiyor. Bu tepe, bölgenin en önemli turizm noktalarından biri olarak kabul ediliyor.
+Fındıklı Tepe, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş ve güzel tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Fındıklı Tepe, hem coğrafi konumu hem de doğal güzelliği ile dikkat çekiyor. Bu tepe, bölgenin en önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

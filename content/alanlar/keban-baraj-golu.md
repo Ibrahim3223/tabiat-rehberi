@@ -33,7 +33,7 @@ Erzincan'ın doğal güzelliklerini keşfederken, Keban Baraj Gölü ilk dikkati
 
 ## Tarihçe
 
-Erzincan bölgesi, tarihin sâu sayfalarına ışık tutan bir coğrafyada yer alır. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişinin canlı olduğu bir merkezdi. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan Erzincan, zengin bir tarihsel mirasa sahiptir.
+Erzincan bölgesi, tarihin derin sayfalarına ışık tutan bir coğrafyada yer alır. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişinin canlı olduğu bir merkezdi. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan Erzincan, zengin bir tarihsel mirasa sahiptir.
 
 Keban Baraj Gölü, bu tarihi coğrafyanın modern bir parçası olarak ortaya çıktı. Türkiye'de barajların inşası, country'nin enerji ve sulama ihtiyacını karşılamak amacıyla 20. yüzyılın ikinci yarısında hız kazandı. Bu tür büyük ölçekli projeler, bölgenin ekonomi ve sosyal yapısını şekillendirdi.
 
@@ -53,7 +53,7 @@ Jeolojik açıdan bakıldığında, Keban Baraj Gölü'nün çevresindeki arazi 
 
 Keban Baraj Gölü, yüksek dağ ekolojisi ve alpin çayırlarla çevrili bir sulak alan ekosistemidir. İlkbaharın gelmesiyle birlikte, gölün etrafındaki çayırlar rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar bu bölgeye uğrar ve gölün canlılığını artırır.
 
-Gölün bitki örtüsünü oluşturan sulak alan bitkileri, su kuşları ve balıklar için önemli bir yaşam alanı sağlar. Alpin çayırlar, endemik türlerin yaşamasına elverişli bir ortam sunar. 
+Gölün bitki örtüsünü oluşturan sulak alan bitkileri, su kuşları ve balıklar için önemli bir yaşam alanı sağlar. Alpin çayırlar, endemik türlerin yaşamasına elverişli bir ortam sunar.
 
 Kuşlar ve memeliler, gölün ekosisteminin temel bileşenleridir. Gölde yaşayan balıklar, su kuşları için önemli bir besin kaynağıdır. Bu ekosistem, yüksek dağ ekolojisinin karakteristik özelliklerini taşır ve bölgenin biyolojik çeşitliliğine katkıda bulunur. Keban Baraj Gölü, doğal güzelliği ve biyolojik zenginliğiyle önemli bir ekolojik değer olarak görülür.
 

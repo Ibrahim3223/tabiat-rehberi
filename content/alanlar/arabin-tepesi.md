@@ -28,7 +28,7 @@ wikidata_id: "Q31386345"
 
 # Arabın Tepesi
 
-Gaziantep'in önemli noktalarından biri olan Arabın Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Arabın Tepesi, Gaziantep'in coğrafi yapısını ve bölgenin tarihini anlamak için önemli bir noktadır. Tarihi geçmişi ve doğal güzellikleri ile Arabın Tepesi, ziyaretçilerini bekliyor.
+Gaziantep'in önemli noktalarından biri olan Arabın Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Arabın Tepesi, Gaziantep'in coğrafi yapısını ve bölgenin tarihini anlamak için önemli bir noktadır. Tarihi geçmişi ve doğal güzellikleri ile Arabın Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

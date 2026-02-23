@@ -28,7 +28,7 @@ wikidata_id: "Q34903729"
 
 # Sarnıç Tepesi
 
-Sarnıç Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepenin etrafı yaklaşık 140 hektarlık bir yeşil alanla çevrili, ki bu alan yaklaşık 200 futbol sahası büyüklüğünde. Sarnıç Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Buranın güzelliği, sadece geniş yeşil alanlarından değil, aynı zamanda çevredeki tarihi ve kültürel zenginliklerinden de geliyor. Ziyaretçiler, doğa yürüyüşü yapabilir, çevredeki tarihi yerleri gezebilir ve bölgenin eşsiz manzarasının keyfini çıkarabilir.
+Sarnıç Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Sarnıç Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Buranın güzelliği, sadece geniş yeşil alanlarından değil, aynı zamanda çevredeki tarihi ve kültürel zenginliklerinden de geliyor. Ziyaretçiler, doğa yürüyüşü yapabilir, çevredeki tarihi yerleri gezebilir ve bölgenin eşsiz manzarasının keyfini çıkarabilir.
 
 ## Tarihçe
 

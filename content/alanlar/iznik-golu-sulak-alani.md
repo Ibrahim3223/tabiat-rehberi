@@ -23,7 +23,7 @@ wikidata_id: "Q108229008"
 
 # İznik Gölü Sulak Alanı
 
-İznik Gölü Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir. Bu bölge, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. İznik Gölü'nün sulak alanı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Gölün çevresi, yeşilin çeşitli tonlarına sahip bitkilerle kaplıdır ve bu bölge, birçok canlı türünün yaşam alanı olarak hizmet eder. İznik Gölü Sulak Alanı, doğa severler ve bilim insanları için önemli bir araştırma ve gözlem alanıdır.
+İznik Gölü Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir. Gölün çevresi, yeşilin çeşitli tonlarına sahip bitkilerle kaplıdır ve bu bölge, birçok canlı türünün yaşam alanı olarak hizmet eder. İznik Gölü Sulak Alanı, doğa severler ve bilim insanları için önemli bir araştırma ve gözlem alanıdır.
 
 ## Tarihçe
 
@@ -31,20 +31,20 @@ wikidata_id: "Q108229008"
 
 ## Coğrafya
 
-İznik Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, ilkbahar ve yaz aylarında yeşil ve mavi tonlarıyla dikkat çeker. Gölün çevresi, yeşilin çeşitli tonlarına sahip bitkilerle kaplıdır ve bu bölge, birçok canlı türünün yaşam alanı olarak hizmet eder. İznik Gölü'nün sulak alanı, yaklaşık 140 hektarlık bir alanı kapsar ve bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Gölün derinliği ve genişliği, mevsimsel değişimlere göre farklılık gösterir. İznik Gölü Sulak Alanı, coğrafi olarak çeşitli özellikler gösterir ve bu bölge, Türkiye'nin doğal güzelliğinin önemli bir parçasıdır.
+İznik Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, ilkbahar ve yaz aylarında yeşil ve mavi tonlarıyla dikkat çeker. Gölün çevresi, yeşilin çeşitli tonlarına sahip bitkilerle kaplıdır ve bu bölge, birçok canlı türünün yaşam alanı olarak hizmet eder. Gölün derinliği ve genişliği, mevsimsel değişimlere göre farklılık gösterir. İznik Gölü Sulak Alanı, coğrafi olarak çeşitli özellikler gösterir ve bu bölge, Türkiye'nin doğal güzelliğinin önemli bir parçasıdır.
 
 ## Flora ve Fauna
 
-İznik Gölü Sulak Alanı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, birçok canlı türünün yaşam alanı olarak hizmet eder ve doğa severler için önemli bir gözlem alanıdır. İznik Gölü'nün sulak alanı, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar barındırır. Bu bölge, Türkiye'nin doğal mirasının önemli bir parçasıdır ve gelecekteki nesiller için korunması amaçlanmaktadır. İznik Gölü Sulak Alanı, ekolojik olarak önemli bir bölge olup, çeşitli canlı türlerinin yaşam döngüsünü destekler.
+ Bu bölge, birçok canlı türünün yaşam alanı olarak hizmet eder ve doğa severler için önemli bir gözlem alanıdır. İznik Gölü'nün sulak alanı, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar barındırır. Bu bölge, Türkiye'nin doğal mirasının önemli bir parçasıdır ve gelecekteki nesiller için korunması amaçlanmaktadır. İznik Gölü Sulak Alanı, ekolojik olarak önemli bir bölge olup, çeşitli canlı türlerinin yaşam döngüsünü destekler.
 
 ## Ziyaret Bilgileri
 
-İznik Gölü Sulak Alanı, doğa severler ve bilim insanları için önemli bir ziyaret alanıdır. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker ve birçok canlı türünün yaşam alanı olarak hizmet eder. İznik Gölü'nün sulak alanı, yaklaşık 140 hektarlık bir alanı kapsar ve bu bölge, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar barındırır. Ziyaretçiler, bu bölgeyi yürüyere veya bisikletle gezebilir ve doğanın güzelliğini gözlemleyebilirler.
+İznik Gölü Sulak Alanı, doğa severler ve bilim insanları için önemli bir ziyaret alanıdır. İznik Gölü'nün sulak alanı, yaklaşık 140 hektarlık bir alanı kapsar ve bu bölge, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar barındırır. Ziyaretçiler, bu bölgeyi yürüyere veya bisikletle gezebilir ve doğanın güzelliğini gözlemleyebilirler.
 
 ## İlginç Bilgiler
 
 - İznik Gölü Sulak Alanı, yaklaşık 140 hektarlık bir alanı kapsar.
-- Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - İznik Gölü'nün sulak alanı, birçok canlı türünün yaşam alanı olarak hizmet eder.
 - Bu bölge, doğa severler ve bilim insanları için önemli bir araştırma ve gözlem alanıdır.
 - İznik Gölü Sulak Alanı, Türkiye'nin doğal mirasının önemli bir parçasıdır.

@@ -28,7 +28,7 @@ wikidata_id: "Q34681772"
 
 # Türk Beleni Şelalesi
 
-Antalya'nın muhteşem doğası içerisinde yer alan Türk Beleni Şelalesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Türk Beleni Şelalesi, şelalenin güzelliği ve çevredeki yeşilliğin birleşmesi ile ziyaretçilerine unutulmaz bir deneyim sunmaktadır. Şelalenin etrafındaki yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır. Ayrıca, şelalenin sesi ve çevredeki kuş sesleri, ziyaretçilere huzurlu bir atmosfer sunar.
+Antalya'nın muhteşem doğası içerisinde yer alan Türk Beleni Şelalesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir. Şelalenin etrafındaki yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır. Ayrıca, şelalenin sesi ve çevredeki kuş sesleri, ziyaretçilere huzurlu bir atmosfer sunar.
 
 ## Tarihçe
 

@@ -42,7 +42,7 @@ Kızıl Tepe'nin de bulunduğu bölge, insan faaliyetleri için elverişli bir o
 
 ## Coğrafya
 
-Doğal güzellikleri ile dikkat çeken "Kızıl Tepe", 39.8698°K, 33.2951°D koordinatlarında yer alıyor. Bu konum, Ankara'nın kuzeybatısında, şehir merkezine yaklaşık 30 kilometre uzaklıkta bulunuyor. Yakınlarında, históri ve kültürel öneme sahip various arkeolojik sit alanları mevcut. Bu bölge, aynı zamanda Ankara'nın kuzeyinde uzanan dağlık arazilerin bir parçası.
+Doğal güzellikleri ile dikkat çeken "Kızıl Tepe", 39.8698°K, 33.2951°D koordinatlarında yer alıyor. Bu konum, Ankara'nın kuzeybatısında, şehir merkezine yaklaşık 30 kilometre uzaklıkta bulunuyor. Yakınlarında, tarihi ve kültürel öneme sahip various arkeolojik sit alanları mevcut. Bu bölge, aynı zamanda Ankara'nın kuzeyinde uzanan dağlık arazilerin bir parçası.
 
 Jeolojik açıdan incelendiğinde, "Kızıl Tepe"nin coğrafyası, Türkiye'nin kuzeybatısında hakim olan volkani ve sedimentatif kayaçlardan oluşuyor. Bu oluşumlar, milyonlarca yıllık tektonik hareketlerin bir sonucu olarak ortaya çıkmış durumda. "Kızıl Tepe"nin fiziksel yapısı, yaklaşık bir şehir bloğu büyüklüğünde ve Eiffel Kulesi'nin dörtte biri yükseklikte bir tepe olarak tanımlanabilir.
 

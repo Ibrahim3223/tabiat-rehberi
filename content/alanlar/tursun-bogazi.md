@@ -28,7 +28,7 @@ wikidata_id: "Q49343556"
 
 # Turşun Boğazı
 
-Mersin'in doğal güzelliklerinin arasında gizli bir hazine olan Turşun Boğazı, ziyaretçilerine unutulmaz bir deneyim sunuyor. Bu kanyon, Mersin'in dağlık arazisinde yer alıyor ve bölgenin coğrafi çeşitliliğini gözler önüne seriyor. Turşun Boğazı, Mersin'in turizm haritasında önemli bir nokta olarak öne çıkıyor. Bu doğal oluşum, Mersin'in il sınırları içinde bulunuyor ve ziyaretçilerini bekliyor.
+ Bu kanyon, Mersin'in dağlık arazisinde yer alıyor ve bölgenin coğrafi çeşitliliğini gözler önüne seriyor. Turşun Boğazı, Mersin'in turizm haritasında önemli bir nokta olarak öne çıkıyor. Bu doğal oluşum, Mersin'in il sınırları içinde bulunuyor ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

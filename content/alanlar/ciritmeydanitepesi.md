@@ -28,7 +28,7 @@ wikidata_id: "Q31388300"
 
 # Ciritmeydanıtepesi
 
-Ciritmeydanıtepesi, Kars şehrinin merkezine uzun bir mesafe uzaklıkta yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve çevresi zengin história ve kültürel değerlerle doludur. Ciritmeydanıtepesi, bölgeye gelen ziyaretçilerin ilgisini çeken önemli bir noktadır. Ciritmeydanıtepesi, Kars'ın tarihi ve coğrafi açıdan önemli bir noktası olarak bilinir. Tepenin çevresi, çeşitli bitki türleri ve fauna ile Kaplıdır. Bu tepe, Kars'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Ciritmeydanıtepesi, Kars şehrinin merkezine uzun bir mesafe uzaklıkta yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve çevresi zengin tarihi ve kültürel değerlerle doludur. Ciritmeydanıtepesi, bölgeye gelen ziyaretçilerin ilgisini çeken önemli bir noktadır. Ciritmeydanıtepesi, Kars'ın tarihi ve coğrafi açıdan önemli bir noktası olarak bilinir. Tepenin çevresi, çeşitli bitki türleri ve fauna ile Kaplıdır. Bu tepe, Kars'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

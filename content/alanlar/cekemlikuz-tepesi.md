@@ -28,7 +28,7 @@ wikidata_id: "Q34818745"
 
 # Çekemlikuz Tepesi
 
-Çekemlikuz Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Çekemlikuz Tepesi, aynı zamanda zengin fauna ve flora çeşitliliğiyle dikkat çeker. Bu tepede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Çekemlikuz Tepesi, doğal güzelliği ve zengin ekosistemiyle ziyaretçilerini etkileyen bir yerdir.
+Çekemlikuz Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Çekemlikuz Tepesi, aynı zamanda zengin fauna ve flora çeşitliliğiyle dikkat çeker. Bu tepede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Çekemlikuz Tepesi, doğal güzelliği ve zengin ekosistemiyle ziyaretçilerini etkileyen bir yerdir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34818745"
 
 ## Coğrafya
 
-Çekemlikuz Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir alandır. Çekemlikuz Tepesi, deniz seviyesinden yüksek bir konumda yer alır. Bu tepe, çevresindeki diğer tepelerle birlikte bir dağ silsilesini oluşturur. Çekemlikuz Tepesi, aynı zamanda zengin fauna ve flora çeşitliliğiyle dikkat çeker. Bu tepede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Çekemlikuz Tepesi, doğal güzelliği ve zengin ekosistemiyle ziyaretçilerini etkileyen bir yerdir. Bu tepe, aynı zamanda çevresindeki diğer doğal güzelliklerle birlikte bir bütünü oluşturur. Çekemlikuz Tepesi, ziyaretçilerine hem doğal güzelliğini hem de tarihi değerlerini sunar.
+Çekemlikuz Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Çekemlikuz Tepesi, deniz seviyesinden yüksek bir konumda yer alır. Bu tepe, çevresindeki diğer tepelerle birlikte bir dağ silsilesini oluşturur. Çekemlikuz Tepesi, aynı zamanda zengin fauna ve flora çeşitliliğiyle dikkat çeker. Bu tepede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Çekemlikuz Tepesi, doğal güzelliği ve zengin ekosistemiyle ziyaretçilerini etkileyen bir yerdir. Bu tepe, aynı zamanda çevresindeki diğer doğal güzelliklerle birlikte bir bütünü oluşturur. Çekemlikuz Tepesi, ziyaretçilerine hem doğal güzelliğini hem de tarihi değerlerini sunar.
 
 ## Flora ve Fauna
 

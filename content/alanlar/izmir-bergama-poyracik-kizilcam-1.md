@@ -22,7 +22,7 @@ wikidata_id: "Q108227894"
 
 # Izmir-Bergama-Poyracık Kızılçam 1
 
-İzmir-Bergama-Poyracıkızılçam 1 milli parkı, Ege Bölgesi'nin kalbinde, Bergama ilçesinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından biridir. Milli park, ziyaretçilerine zengin bir flora ve fauna sunarken, aynı zamanda bölgenin tarihi ve kültürel değerlerini de keşfetme fırsatı sunuyor. İnce bir hikaye gibi, bu milli parkın her köşesi bir sürpriz saklıyor ve ziyaretçilerini doğanın güzelliğine davet ediyor.
+İzmir-Bergama-Poyracıkızılçam 1 milli parkı, Ege Bölgesi'nin kalbinde, Bergama ilçesinde yer alan bir doğa harikasıdır. Milli park, ziyaretçilerine zengin bir flora ve fauna sunarken, aynı zamanda bölgenin tarihi ve kültürel değerlerini de keşfetme fırsatı sunuyor. İnce bir hikaye gibi, bu milli parkın her köşesi bir sürpriz saklıyor ve ziyaretçilerini doğanın güzelliğine davet ediyor.
 
 ## Tarihçe
 

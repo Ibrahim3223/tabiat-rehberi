@@ -28,7 +28,7 @@ wikidata_id: "Q32195277"
 
 # Yoğunhüyük Tepesi
 
-Yoğunhüyük Tepesi, Gaziantep'in tarihi ve doğal güzelliklerini bir araya getiren önemli bir nokta. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bölgenin coğrafi yapısı, tarihi geçmişi ve doğal güzellikleri ile dikkat çekiyor. Yoğunhüyük Tepesi, ziyaretçiler için hem bir gezi noktası hem de bir keşif alanı olarak öne çıkıyor. Tepenin etrafındaki manzara, bölgenin coğrafi zenginliğini gösteriyor. Yoğunhüyük Tepesi, Gaziantep'in önemli noktalarından biri olarak biliniyor.
+Yoğunhüyük Tepesi, Gaziantep'in tarihi ve doğal güzelliklerini bir araya getiren önemli bir nokta. Bölgenin coğrafi yapısı, tarihi geçmişi ve doğal güzellikleri ile dikkat çekiyor. Yoğunhüyük Tepesi, ziyaretçiler için hem bir gezi noktası hem de bir keşif alanı olarak öne çıkıyor. Tepenin etrafındaki manzara, bölgenin coğrafi zenginliğini gösteriyor. Yoğunhüyük Tepesi, Gaziantep'in önemli noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 

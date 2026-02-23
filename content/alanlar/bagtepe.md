@@ -29,7 +29,7 @@ wikidata_id: "Q31571095"
 
 # Bağtepe
 
-Bağtepe, Marmara Bölgesi'nin en güzel doğal güzelliklerinden biridir. Kırklareli ilinin sınırları içerisinde yer alan bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla baş başa bırakıyor. Bağtepe, ziyaretçilerine hem dinlenme hem de doğayı seyretme imkanı sunuyor. Bu yeşil alan, özellikle hafta sonlarında ve tatil günlerinde ziyaretçilerini ağırlıyor.
+Bağtepe, Marmara Bölgesi'nin en güzel doğal güzelliklerinden biridir. Bağtepe, ziyaretçilerine hem dinlenme hem de doğayı seyretme imkanı sunuyor. Bu yeşil alan, özellikle hafta sonlarında ve tatil günlerinde ziyaretçilerini ağırlıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bağtepe'nin tarihi geçmişi zengin ve verschiedir. Yüzyıllar boyunca çeşit
 
 ## Coğrafya
 
-Bağtepe, Marmara Bölgesi'nin coğrafyasına uygun olarak yer alıyor. Kırklareli ilinin sınırları içerisinde bulunan bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi açıdan önemli bir vzyon sunuyor. Bağtepe, ziyaretçilerine hem coğrafi hem de iklimsel açıdan çeşitli imkanlar sunuyor. Bu yeşil alan, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlıyor. Bağtepe'nin coğrafyası, ziyaretçilerini doğayla baş başa bırakıyor ve onlara çeşitli doğa güzellikleri sunuyor.
+Bağtepe, Marmara Bölgesi'nin coğrafyasına uygun olarak yer alıyor. Bağtepe, ziyaretçilerine hem coğrafi hem de iklimsel açıdan çeşitli imkanlar sunuyor. Bu yeşil alan, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlıyor. Bağtepe'nin coğrafyası, ziyaretçilerini doğayla baş başa bırakıyor ve onlara çeşitli doğa güzellikleri sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Bağtepe'yi ziyaret etmek isteyenler, özellikle bahar ve yaz aylarını tercih 
 ## İlginç Bilgiler
 
 - Bağtepe, 140 hektarlık bir alana sahiptir.
-- Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bağtepe, Marmara Bölgesi'nin en güzel doğal güzelliklerinden biridir.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yaptı.
 - Bağtepe, flora ve fauna açısından zengin bir alana sahiptir.

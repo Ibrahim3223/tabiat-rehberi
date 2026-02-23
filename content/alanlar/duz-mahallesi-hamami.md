@@ -1,7 +1,7 @@
 ---
 title: "Düz Mahallesi Hamamı"
 date: "2026-01-09T22:37:56.147Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ordu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738726"
 
 # Düz Mahallesi Hamamı
 
-Düz Mahallesi Hamamı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bir alan üzerinde kurulmuştur ve khong 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere doğayla iç içe olabileceği geniş bir mekan sunar. Düz Mahallesi Hamamı, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder. Bu bölgede, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunmaktadır.
+Düz Mahallesi Hamamı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu geniş alan, ziyaretçilere doğayla iç içe olabileceği geniş bir mekan sunar. Düz Mahallesi Hamamı, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder. Bu bölgede, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Düz Mahallesi Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Düz Mahallesi Hamamı, Karadeniz Bölgesi'nin Ordu ilinin Altınordu ilçesinde bulunmaktadır. Bu bölge, Karadeniz'in kıyı şeridinde yer alan bir doğal alandır. 140 hektarlık bir alan üzerinde kurulmuş olan Düz Mahallesi Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere doğayla iç içe olabileceği geniş bir mekan sunar. Düz Mahallesi Hamamı'nın coğrafi konumu, ziyaretçilere Karadeniz'in güzelliklerini keşfetme fırsatı sunar. Bu bölge, zengin flora ve fauna çeşitliliğine sahiptir ve ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar.
+Düz Mahallesi Hamamı, Karadeniz Bölgesi'nin Ordu ilinin Altınordu ilçesinde bulunmaktadır. Bu bölge, Karadeniz'in kıyı şeridinde yer alan bir doğal alandır. Bu geniş alan, ziyaretçilere doğayla iç içe olabileceği geniş bir mekan sunar. Düz Mahallesi Hamamı'nın coğrafi konumu, ziyaretçilere Karadeniz'in güzelliklerini keşfetme fırsatı sunar. Bu bölge, zengin flora ve fauna çeşitliliğine sahiptir ve ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

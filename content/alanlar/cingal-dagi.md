@@ -50,11 +50,11 @@ Mevsimsel olarak, Çıngal Dağı'nın iklimi Karadeniz Bölgesi'nin karakterist
 
 ## Flora ve Fauna
 
-Çıngal Dağı, Kastamonu'nun nemli ikliminin etkisinde kalan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
+Çıngal Dağı, Kastamonu'nun nemli ikliminin etkisinde kalan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamacında çiçeklerin açtığını ve yeşilin her tonunu görebildiğimizi söyleyebiliriz. Mevsimsel değişimlerle birlikte, dağın yükseklik zonlarına bağlı olarak farklı bitki türleri ortaya çıkıyor. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamacında çiçeklerin açtığını ve yeşilin her tonunu görebildiğimizi söyleyebiliriz. Mevsimsel değişimlerle birlikte, dağın yükseklik zonlarına bağlı olarak farklı bitki türleri ortaya çıkıyor.
 
-Yaban Hayatı açısından, dağda memeliler, kuşlar ve sürüngenler gibi çeşitli canlılar yaşamını sürdürüyor. Dağın yüksek kesimlerinde, alpin flora ve fauna çeşitliliği dikkat çekiyor. 
+Yaban Hayatı açısından, dağda memeliler, kuşlar ve sürüngenler gibi çeşitli canlılar yaşamını sürdürüyor. Dağın yüksek kesimlerinde, alpin flora ve fauna çeşitliliği dikkat çekiyor.
 
 Ekolojik Değer bakımından, Çıngal Dağı'nın korunması büyük önem taşıyor. Bu dağ ekosisteminin yüksek biyoçeşitliliği, bölgenin ekolojik dengesini korumak için kritik öneme sahip.
 

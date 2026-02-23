@@ -29,7 +29,7 @@ wikidata_id: "Q134728213"
 
 # Kayalık Tepe Kaya Mezarı, Kumru
 
-Kayalık Tepe Kaya Mezarı, Kumru, Karadeniz Bölgesi'nin Ordu ilinin Kumru ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Bölge, zengin tarihi geçmişi ve eşsiz doğal güzellikleriyle dikkat çekiyor. Kayalık Tepe Kaya Mezarı, özellikle tarih ve doğa severlerin ilgisini çekmektedir. Bu alan, aynı zamanda bölgenin tarihi ve kültürel mirasını korumak için önemli bir rol oynuyor.
+Kayalık Tepe Kaya Mezarı, Kumru, Karadeniz Bölgesi'nin Ordu ilinin Kumru ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bölge, zengin tarihi geçmişi ve eşsiz doğal güzellikleriyle dikkat çekiyor. Kayalık Tepe Kaya Mezarı, özellikle tarih ve doğa severlerin ilgisini çekmektedir. Bu alan, aynı zamanda bölgenin tarihi ve kültürel mirasını korumak için önemli bir rol oynuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kayalık Tepe Kaya Mezarı'nın tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Kayalık Tepe Kaya Mezarı, Karadeniz Bölgesi'nin Ordu ilinin Kumru ilçesinde yer alıyor. Bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. 180 hektarın üzerinde bir alanı kaplayan bu bölge, yaklaşık 300 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Kayalık Tepe Kaya Mezarı, Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri olan yeşilin her tonunu barındırıyor. Bölgenin iklimi, Karadeniz ikliminin özellikleri gösteriyor ve mevsimsel değişimlerle ziyaretçilere farklı deneyimler sunuyor. Kayalık Tepe Kaya Mezarı'nın coğrafi konumu ve yapısı, ziyaretçilere doğayla iç içe bir gezi deneyimi sunuyor.
+Kayalık Tepe Kaya Mezarı, Karadeniz Bölgesi'nin Ordu ilinin Kumru ilçesinde yer alıyor. Bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Kayalık Tepe Kaya Mezarı, Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri olan yeşilin her tonunu barındırıyor. Bölgenin iklimi, Karadeniz ikliminin özellikleri gösteriyor ve mevsimsel değişimlerle ziyaretçilere farklı deneyimler sunuyor. Kayalık Tepe Kaya Mezarı'nın coğrafi konumu ve yapısı, ziyaretçilere doğayla iç içe bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

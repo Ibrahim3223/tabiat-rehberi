@@ -28,7 +28,7 @@ wikidata_id: "Q32223290"
 
 # Göbekören Hüyüğü
 
-Göbekören Hüyüğü, Sivas ilinin merkezi bir konumunda yer alan ve tarihi geçmişiyle dikkat çeken bir höyüktür. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi değerleriyle ön plana çıkan bir bölgedir. Höyüğün etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin bir alandır. Bu höyüğü ziyaret edenler, Sivas'ın tarihi ve kültürel zenginliklerini yakından keşfetme fırsatı bulurlar.
+Göbekören Hüyüğü, Sivas ilinin merkezi bir konumunda yer alan ve tarihi geçmişiyle dikkat çeken bir höyüktür. Höyüğün etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin bir alandır. Bu höyüğü ziyaret edenler, Sivas'ın tarihi ve kültürel zenginliklerini yakından keşfetme fırsatı bulurlar.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Göbekören Hüyüğü, çeşitli bitki türleriyle kaplı ve yaban hayatı aç�
 
 ## Ziyaret Bilgileri
 
-Göbekören Hüyüğü, Sivas ilinin merkezi bir konumunda yer alır ve ziyaretçilere tarihi ve kültürel zenginlikleri sunar. Höyüğü ziyaret edenler, höyüğün coğrafi konumunu ve doğal güzelliklerini yakından keşfetme fırsatı bulurlar. Höyüğü ziyaret etmek için, Sivas il merkezine ulaşmak necessário. Höyüğe ulaşım, özel araç veya toplu taşıma araçlarıyla sağlanabilir. Höyüğü ziyaret etmek için en iyi mevsim, ilkbahar ve sonbahar aylarıdır. Höyüğü ziyaret etmek, Sivas'ın tarihi ve kültürel zenginliklerini yakından tanıma fırsatı sunar.
+Göbekören Hüyüğü, Sivas ilinin merkezi bir konumunda yer alır ve ziyaretçilere tarihi ve kültürel zenginlikleri sunar. Höyüğü ziyaret edenler, höyüğün coğrafi konumunu ve doğal güzelliklerini yakından keşfetme fırsatı bulurlar. Höyüğü ziyaret etmek için, Sivas il merkezine ulaşmak gerekli. Höyüğe ulaşım, özel araç veya toplu taşıma araçlarıyla sağlanabilir. Höyüğü ziyaret etmek için en iyi mevsim, ilkbahar ve sonbahar aylarıdır. Höyüğü ziyaret etmek, Sivas'ın tarihi ve kültürel zenginliklerini yakından tanıma fırsatı sunar.
 
 ## İlginç Bilgiler
 

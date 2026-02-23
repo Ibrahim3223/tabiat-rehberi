@@ -28,7 +28,7 @@ wikidata_id: "Q31564589"
 
 # Keleş Tepesi
 
-Karabük'ün yemyeşil doğası içinde yer alan Keleş Tepesi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, ziyaretçilere geniş bir sunuyor ve Karadeniz Bölgesi'nin güzelliğini gözler önüne seriyor. Keleş Tepesi, hem doğa severler hem de manzara tutkunları için bir cennet olarak kabul ediliyor. Tepenin zirvesine ulaştığınızda, Karabük'ün vein güzelliğini izleyebilirsiniz.
+ Bu büyük alan, ziyaretçilere geniş bir sunuyor ve Karadeniz Bölgesi'nin güzelliğini gözler önüne seriyor. Keleş Tepesi, hem doğa severler hem de manzara tutkunları için bir cennet olarak kabul ediliyor. Tepenin zirvesine ulaştığınızda, Karabük'ün vein güzelliğini izleyebilirsiniz.
 
 ## Tarihçe
 

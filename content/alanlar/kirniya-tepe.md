@@ -32,7 +32,7 @@ Diyarbakır'ın tarihi ve kültürel zenginliklerinin arasında yer alan Kırniy
 
 ## Tarihçe
 
-Diyarbakır bölgesinde yer alan Kırniya Tepe, tarihin derinliklerine uzanan bir coğrafyanın parçası. Bu bölge, histórik olarak çeşitli uygarlıkların etkisi altında kalmıştır. Hititlere, Asurlulara, Perslere ve daha sonra da Roma ve Bizans İmparatorluklarına ev sahipliği yapan Diyarbakır, zengin bir tarihsel mirasa sahiptir.
+Diyarbakır bölgesinde yer alan Kırniya Tepe, tarihin derinliklerine uzanan bir coğrafyanın parçası. Bu bölge, tarihi olarak çeşitli uygarlıkların etkisi altında kalmıştır. Hititlere, Asurlulara, Perslere ve daha sonra da Roma ve Bizans İmparatorluklarına ev sahipliği yapan Diyarbakır, zengin bir tarihsel mirasa sahiptir.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisine katkıda bulunmuş, aynı zamanda insan yerleşimlerini ve göç yollarını şekillendirmiştir. Ticaret yollarının kesişme noktalarında bulunan bu alanlar, kültürel alışveriş ve etkileşimin de merkezinde yer almıştır.
 
@@ -50,13 +50,13 @@ Doğal kaynaklar açısından, Kırniya Tepe'nin bulunduğu bölge, Diyarbakır'
 
 ## Flora ve Fauna
 
-Kırniya Tepe, Diyarbakır'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 
+Kırniya Tepe, Diyarbakır'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar.
 
 Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları, çeşitli çiçek türleriyle renklendir. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına göre değişen bitki türleri bulunur.
 
 Yaban Hayatı açısından, dağların yüksek kesimlerinde çeşitli memeli ve kuş türlerine rastlama mümkün. Mevsimsel olarak, göçmen kuşların ziyaret ettiği bir bölge olan Kırniya Tepe, aynı zamanda çeşitli sürüngen türlerine de ev sahipliği yapar.
 
-Ekolojik Değer olarak, bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini bảo tồn açısından büyük önem taşır. Doğal yaşam alanlarının korunması, bu ekosistemin sürdürülebilirliğini sağlar ve gelecek nesiller için önemli bir miras olarak kalır.
+Ekolojik Değer olarak, bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini koruma tồn açısından büyük önem taşır. Doğal yaşam alanlarının korunması, bu ekosistemin sürdürülebilirliğini sağlar ve gelecek nesiller için önemli bir miras olarak kalır.
 
 ## Ziyaret Bilgileri
 

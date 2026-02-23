@@ -1,7 +1,7 @@
 ---
 title: "Vehhab-i Ümmi Türbesi"
 date: "2026-01-10T06:17:20.560Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390683"
 
 # Vehhab-i Ümmi Türbesi
 
-Vehhab-i Ümmi Türbesi, Elmalı, Antalya'da yer alan tarihi bir türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Akdeniz Bölgesi'nin en güzel noktalarından biridir. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülemektedir. Türbenin yakınında bulunan plaj, deniz severlerin tercih ettiği bir noktadır. Vehhab-i Ümmi Türbesi, hem dinî hem de turistik açıdan önemli bir destinasyondur.
+Vehhab-i Ümmi Türbesi, Elmalı, Antalya'da yer alan tarihi bir türbe ve plaj alanıdır. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülemektedir. Türbenin yakınında bulunan plaj, deniz severlerin tercih ettiği bir noktadır. Vehhab-i Ümmi Türbesi, hem dinî hem de turistik açıdan önemli bir destinasyondur.
 
 ## Tarihçe
 

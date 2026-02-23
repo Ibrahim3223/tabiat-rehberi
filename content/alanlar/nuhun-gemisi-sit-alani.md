@@ -22,7 +22,7 @@ wikidata_id: "Q108226260"
 
 # Nuhun Gemisi Sit Alanı
 
-Nuhun Gemisi Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal sit alanlarından biridir. Bu alan, tarihi geçmişi ve coğrafi konumu ile ziyaretçilerini cezbeden bir destinasyondur. Nuhun Gemisi Sit Alanı, doğa severlerin ve tarih meraklılarının keşfetmek için geldikleri bir yerdir. Burada, yaban hayatı ve flora, ziyaretçilere benzersiz bir deneyim sunar.
+Nuhun Gemisi Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu alan, tarihi geçmişi ve coğrafi konumu ile ziyaretçilerini cezbeden bir destinasyondur. Nuhun Gemisi Sit Alanı, doğa severlerin ve tarih meraklılarının keşfetmek için geldikleri bir yerdir. Burada, yaban hayatı ve flora, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Tarihçe
 

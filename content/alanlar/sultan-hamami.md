@@ -1,7 +1,7 @@
 ---
 title: "Sultan Hamamı"
 date: "2026-01-09T22:16:29.171Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q118958118"
 
 # Sultan Hamamı
 
-Sultan Hamamı, Tokat ilinin merkezinde yer alan ve Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olarak bilinen bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir kumsala sahiptir. Bu geniş kumsal, hem yerel halk hem de turistler için keyifli bir gün geçirmek için ideal bir yer sunar. Sultan Hamamı, tarihi ve doğal güzellikleri bir arada sunan ender yerlerden biri olarak dikkat çeker.
+Sultan Hamamı, Tokat ilinin merkezinde yer alan ve Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olarak bilinen bir plajdır. Bu geniş kumsal, hem yerel halk hem de turistler için keyifli bir gün geçirmek için ideal bir yer sunar. Sultan Hamamı, tarihi ve doğal güzellikleri bir arada sunan ender yerlerden biri olarak dikkat çeker.
 
 ## Tarihçe
 

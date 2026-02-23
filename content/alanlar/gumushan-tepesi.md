@@ -1,7 +1,7 @@
 ---
 title: "Gümüşhan Tepesi"
 date: "2026-01-10T13:48:13.831Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Samsun"
@@ -28,7 +28,7 @@ wikidata_id: "Q32139219"
 
 # Gümüşhan Tepesi
 
-Gümüşhan Tepesi, Samsun'un doğal güzellikleriyle ünlü bir bölgesinde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Gümüşhan Tepesi, ziyaretçilerini büyülemektedir. Tepenin etrafında 다양한 bitki türleri ve zengin fauna bulunur. Bu doğal alan, hem doğa severler hem de turistik gezi amaçlı gelenler için önemli bir destinasyondur.
+Gümüşhan Tepesi, Samsun'un doğal güzellikleriyle ünlü bir bölgesinde yer alır. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Gümüşhan Tepesi, ziyaretçilerini büyülemektedir. Tepenin etrafında 다양한 bitki türleri ve zengin fauna bulunur. Bu doğal alan, hem doğa severler hem de turistik gezi amaçlı gelenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

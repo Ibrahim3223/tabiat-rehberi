@@ -1,7 +1,7 @@
 ---
 title: "Sultan Hamza Türbesi"
 date: "2026-01-10T05:30:15.902Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391384"
 
 # Sultan Hamza Türbesi
 
-Sultan Hamza Türbesi, Mardin'in Artuklu ilçesinde yer alan tarihi ve kültürel bir mekân olarak ziyaretçilerini bekliyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan tarihi bir bölgedir. Mardin'in zengin tarihi ve kültürel mirasını yansıtan Sultan Hamza Türbesi, ziyaretçilerine geçmişin izlerini taşıyan bir gezi deneyimi sunuyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin önemli kültürel merkezlerinden biri olarak bilinir ve tarihi geçmişinin yanı sıra doğal güzellikleriyle de dikkat çeker.
+Sultan Hamza Türbesi, Mardin'in Artuklu ilçesinde yer alan tarihi ve kültürel bir mekân olarak ziyaretçilerini bekliyor. Mardin'in zengin tarihi ve kültürel mirasını yansıtan Sultan Hamza Türbesi, ziyaretçilerine geçmişin izlerini taşıyan bir gezi deneyimi sunuyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin önemli kültürel merkezlerinden biri olarak bilinir ve tarihi geçmişinin yanı sıra doğal güzellikleriyle de dikkat çeker.
 
 ## Tarihçe
 

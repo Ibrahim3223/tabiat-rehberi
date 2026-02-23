@@ -32,7 +32,7 @@ Malatya'nın zengin doğal güzellikleri arasında yer alan Kuduran Dağı, ziya
 
 ## Tarihçe
 
-Malatya bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Hitit, Roma, Bizans ve Selçuklu gibi uygarlıkların izlerini taşıyan bu bölge, tarihi süreçte önemli ticaret yollarının kesişme noktası olmuştur. Kuduran Dağı da bu tarihsel bağlam içinde, bölgenin doğal güzelliklerini ve zenginliklerini barındıran önemli bir noktadır.
+Malatya bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Hitit, Roma, Bizans ve Selçuklu gibi uygarlıkların izlerini taşıyan bu bölge, tarihi süreçte önemli ticaret yollarının kesişme noktası olmuştur. Kuduran Dağı da bu tarihsel bağlam içinde, bölgenin doğal güzelliklerini ve zenginliklerini barındıran önemli bir noktadır.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir role sahiptir. Bu alanlar, insanların yaşamlarını sürdürmeleri, hayvancılık ve tarım faaliyetleri için temel kaynaklar olagelmiştir. Ayrıca, bu alanlar ticaret yolları ve yaylacılık için de önemli merkezler olarak görev yapmışlardır. Kuduran Dağı, bölgenin coğrafi yapısı ve doğal güzellikleriyle, tarih boyunca insanların yaşam alanları ve geçiş noktaları arasında önemli bir yere sahip olmuştur. İnsanların bu dağla ilişkisi, bölgenin ekonomisi ve kültürü açısından da önemli bir boyut taşır.
 

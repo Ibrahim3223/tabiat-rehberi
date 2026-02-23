@@ -1,7 +1,7 @@
 ---
 title: "Ankara-NallIhan Davutoglan"
 date: "2026-01-09T19:54:38.747Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Ankara"
@@ -39,7 +39,7 @@ Nallıhan Davutoglan milli parkı, zengin bir flora ve fauna ile ziyaretçilerin
 
 ## Ziyaret Bilgileri
 
-Nallıhan Davutoglan milli parkını ziyaret etmek, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi seçeneği sunuyor. Ziyaretçiler, Nallıhan Davutoglan'a ulaşmak için Ankara'dan hareket eden toplu taşıma araçlarını veya özel araçlarını kullanabiliyor. Milli parka girerken, ziyaretçilerden giriş ücreti talep ediliyor. Nallıhan Davutoglan, ziyaretçilerine farklı aktiviteler sunuyor. Ziyaretçiler, bu bölgede doğa yürüyüşleri yapabiliyor, piknik alanlarında yemek yiyebiliyor veya bölgenin histórik noktalarını gezebiliyor.
+Nallıhan Davutoglan milli parkını ziyaret etmek, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi seçeneği sunuyor. Ziyaretçiler, Nallıhan Davutoglan'a ulaşmak için Ankara'dan hareket eden toplu taşıma araçlarını veya özel araçlarını kullanabiliyor. Milli parka girerken, ziyaretçilerden giriş ücreti talep ediliyor. Nallıhan Davutoglan, ziyaretçilerine farklı aktiviteler sunuyor. Ziyaretçiler, bu bölgede doğa yürüyüşleri yapabiliyor, piknik alanlarında yemek yiyebiliyor veya bölgenin tarihi noktalarını gezebiliyor.
 
 ## İlginç Bilgiler
 

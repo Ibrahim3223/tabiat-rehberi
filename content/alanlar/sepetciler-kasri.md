@@ -30,7 +30,7 @@ wikidata_id: "Q4867763"
 
 # Sepetçiler Kasrı
 
-İstanbul'un kalbinde yer alan Sepetçiler Kasrı, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir. Bu tarihi plaj, ziyaretçilerine denizin ve güneşin keyfini çıkarırken aynı zamanda tarihi bir atmosferi deneyimleme fırsatı sunar. Sepetçiler Kasrı, yaklaşık 140 hektarlık bir alan kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilerin rahatça güneşlenmesine, denizde yüzmesine ve çeşitli etkinliklere katılmasına olanak sağlar.
+İstanbul'un kalbinde yer alan Sepetçiler Kasrı, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir. Bu tarihi plaj, ziyaretçilerine denizin ve güneşin keyfini çıkarırken aynı zamanda tarihi bir atmosferi deneyimleme fırsatı sunar. Bu geniş alan, ziyaretçilerin rahatça güneşlenmesine, denizde yüzmesine ve çeşitli etkinliklere katılmasına olanak sağlar.
 
 ## Tarihçe
 

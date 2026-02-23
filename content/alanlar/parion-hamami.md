@@ -1,7 +1,7 @@
 ---
 title: "Parion Hamamı"
 date: "2026-01-09T23:50:00.684Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -30,11 +30,11 @@ wikidata_id: "Q133245785"
 
 # Parion Hamamı
 
-Parion Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Biga ilçesi sınırları içerisinde yer alan bu plaj, Çanakkale'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve misafirlerine geniş bir alan sunuyor. Bu bölgede hem dinlenmek hem de doğayı keşfetme mümkün.
+Parion Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Biga ilçesi sınırları içerisinde yer alan bu plaj, Çanakkale'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu bölgede hem dinlenmek hem de doğayı keşfetme mümkün.
 
 ## Tarihçe
 
-Parion Hamamı, tarihsel olarak önemli bir geçmişe sahip. Bu bölgede yapılan kazılar, antik dönemlerden kalan kalıntıları ortaya çıkarmış ve buranın histórik bir merkez olduğunu göstermiştir. Tarihi geçmişi yüzyıllar öncesine dayanan bu bölge, günümüzde hem arkeolojik hem de doğal güzelliği ile dikkat çekiyor. Parion Hamamı, Marmara Bölgesi'nin en önemli turizm noktalarından biri olarak kabul ediliyor. Bu bölgenin tarihi geçmişi, ziyaretçilerin ilgisini çekiyor ve burayı ziyaret etmelerini sağlıyor.
+Parion Hamamı, tarihsel olarak önemli bir geçmişe sahip. Bu bölgede yapılan kazılar, antik dönemlerden kalan kalıntıları ortaya çıkarmış ve buranın tarihi bir merkez olduğunu göstermiştir. Tarihi geçmişi yüzyıllar öncesine dayanan bu bölge, günümüzde hem arkeolojik hem de doğal güzelliği ile dikkat çekiyor. Parion Hamamı, Marmara Bölgesi'nin en önemli turizm noktalarından biri olarak kabul ediliyor. Bu bölgenin tarihi geçmişi, ziyaretçilerin ilgisini çekiyor ve burayı ziyaret etmelerini sağlıyor.
 
 ## Coğrafya
 

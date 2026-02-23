@@ -1,7 +1,7 @@
 ---
 title: "Ballıca Sultan Türbesi"
 date: "2026-01-10T06:27:43.954Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391818"
 
 # Ballıca Sultan Türbesi
 
-Ballıca Sultan Türbesi, Marmara Bölgesi'nin önemli kültür ve tarih merkezlerinden biri olan Balıkesir'de yer alıyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve ziyaretçilerine geniş bir yeşil alan sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilerin doğayla iç içe olabileceği geniş bir mekan olduğunu anlama mümkün. Tarihi ve doğal güzelliklerinin birleştiği bu noktada, ziyaretçiler hem tarihin izlerini sürerken hem de doğanın güzelliğini keşfedebiliyorlar.
+Ballıca Sultan Türbesi, Marmara Bölgesi'nin önemli kültür ve tarih merkezlerinden biri olan Balıkesir'de yer alıyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve ziyaretçilerine geniş bir yeşil alan sunuyor. Tarihi ve doğal güzelliklerinin birleştiği bu noktada, ziyaretçiler hem tarihin izlerini sürerken hem de doğanın güzelliğini keşfedebiliyorlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ballıca Sultan Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanıyo
 
 ## Coğrafya
 
-Coğrafi olarak Marmara Bölgesi'nin kuzeybatısında yer alan Ballıca Sultan Türbesi, Balıkesir ilinin merkezinde bulunuyor. Bu bölge, Karadeniz ve Ege Bölgeleri arasında bir geçiş alanı olarak kabul ediliyor ve bu nedenle iklimi de bu bölgelerin özelliklerini taşıyor. İlkbahar ve yaz aylarında ılıman bir iklim görülen bu bölgede, sonbahar ve kış aylarında daha serin ve yağışlı bir hava hüküm sürüyor. Çevresindeki doğal güzellikler arasında ormanlar, nehirler ve dağlar yer alıyor. Bu coğrafi konum, ziyaretçilere dört mevsim boyunca farklı güzellikler sunan bir ortam sağlıyor. 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan sunuyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilerin doğayla iç içe olabileceği geniş bir mekan olduğunu anlama mümkün.
+Coğrafi olarak Marmara Bölgesi'nin kuzeybatısında yer alan Ballıca Sultan Türbesi, Balıkesir ilinin merkezinde bulunuyor. Bu bölge, Karadeniz ve Ege Bölgeleri arasında bir geçiş alanı olarak kabul ediliyor ve bu nedenle iklimi de bu bölgelerin özelliklerini taşıyor. İlkbahar ve yaz aylarında ılıman bir iklim görülen bu bölgede, sonbahar ve kış aylarında daha serin ve yağışlı bir hava hüküm sürüyor. Çevresindeki doğal güzellikler arasında ormanlar, nehirler ve dağlar yer alıyor. Bu coğrafi konum, ziyaretçilere dört mevsim boyunca farklı güzellikler sunan bir ortam sağlıyor.
 
 ## Flora ve Fauna
 

@@ -51,11 +51,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Akdağ'ın çevresel ili�
 
 ## Flora ve Fauna
 
-Akdağ (Tokat), nemli iklimin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Akdağ (Tokat), nemli iklimin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçekler açar ve renkli bir manzara oluşur. Sonbaharda ise, yaprak döken ağaçların sarı, kahverengi ve kırmızı tonları dağları bir sanat eserine çevirir. Dağın yükseklik zonlarına göre, farklı türde bitkiler bulunur. Alpin flora, dağların yüksek kesimlerinde görülür.
 
-Yaban hayatı da oldukça zengin olan Akdağ, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunar. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar ise, göç mevsimlerinde bu dağları bir geçiş noktası olarak kullanır. Sürüngenler de, dağların kayalık alanlarında bulunur. 
+Yaban hayatı da oldukça zengin olan Akdağ, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunar. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar ise, göç mevsimlerinde bu dağları bir geçiş noktası olarak kullanır. Sürüngenler de, dağların kayalık alanlarında bulunur.
 
 Ekolojik olarak, Akdağ'ın korunması çok önemlidir. Bu dağ, birçok canlı türünün yaşam alanı olarak işlev görür ve ekosistemin dengesini sağlar.
 

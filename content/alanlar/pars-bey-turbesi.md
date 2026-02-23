@@ -1,7 +1,7 @@
 ---
 title: "Pars Bey Türbesi"
 date: "2026-01-10T06:24:30.778Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,11 +30,11 @@ wikidata_id: "Q131406380"
 
 # Pars Bey Türbesi
 
-Pars Bey Türbesi, Bursa'nın tarihi ve kültürel zenginliklerini sunan önemli bir destinasyon. Bu alan, yaklaşık 140 hektarlık bir bölgeye yayılmış durumda ve ziyaretçilerine geniş bir yeşil alan sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerin doğayla iç içe olmasını sağlıyor. Pars Bey Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekiyor. Ziyaretçiler, bu türbeyi ziyaret ederek hem Bursa'nın tarihini öğrenme hem de güzel bir gün geçirmek için ideal bir yer.
+Pars Bey Türbesi, Bursa'nın tarihi ve kültürel zenginliklerini sunan önemli bir destinasyon. Pars Bey Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekiyor. Ziyaretçiler, bu türbeyi ziyaret ederek hem Bursa'nın tarihini öğrenme hem de güzel bir gün geçirmek için ideal bir yer.
 
 ## Tarihçe
 
-Pars Bey Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbenin tam tarihi bilinmemekle birlikte, yüzyıllar boyunca önemli bir dini merkez olarak kullanıldığı biliniyor. Pars Bey Türbesi, Osmanlı döneminden kalan önemli eserlerden biri ve Bursa'nın zengin tarihini yansıtıyor. Türbenin mimarisi, Osmanlı mimari tarzının güzel bir örneği ve ziyaretçilerini geçmişe götürüyor. Pars Bey Türbesi, Bursa'nın tarihi ve kültürel mirasının önemli bir parçası ve ziyaretçilerine unutulmaz bir deneyim sunuyor. Bu türbeyi ziyaret edenler, hem tarihi bilgileri öğrenme hem de güzel bir gün geçirmek için ideal bir yer buluyorlar.
+Pars Bey Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbenin tam tarihi bilinmemekle birlikte, yüzyıllar boyunca önemli bir dini merkez olarak kullanıldığı biliniyor. Pars Bey Türbesi, Osmanlı döneminden kalan önemli eserlerden biri ve Bursa'nın zengin tarihini yansıtıyor. Türbenin mimarisi, Osmanlı mimari tarzının güzel bir örneği ve ziyaretçilerini geçmişe götürüyor. Bu türbeyi ziyaret edenler, hem tarihi bilgileri öğrenme hem de güzel bir gün geçirmek için ideal bir yer buluyorlar.
 
 ## Coğrafya
 

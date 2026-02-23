@@ -54,7 +54,7 @@ Uzunca Dağı, yarı kurak iklimin hakim olduğu bir bölgede yer alan dağ ekos
 
 Yaban hayatı da aynı derecede çeşitlidir. Dağ keçileri ve yaban domuzları, dağlık arazide yaşamlarını sürdürürken, kartallar ve diğer yırtıcı kuşlar gökyüzünde hükmeder. Sürüngenler de, ılıman ve kurak bölgelerde yaygındır. Bu ekosistem, canlıların birbirine bağımlı olduğu kompleks bir ilişki ağıdır.
 
-Uzunca Dağı, bölgenin ekolojik dengesini korumak açısından büyük önem taşır. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlıları değil, aynı zamanda bölgenin su kaynaklarını ve toprağını da güvence altına alır.
+ Bu dağ ekosisteminin korunması, sadece burada yaşayan canlıları değil, aynı zamanda bölgenin su kaynaklarını ve toprağını da güvence altına alır.
 
 ## Ziyaret Bilgileri
 

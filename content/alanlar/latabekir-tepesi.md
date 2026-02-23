@@ -28,7 +28,7 @@ wikidata_id: "Q31547534"
 
 # Latabekir Tepesi
 
-Latabekir Tepesi, Batman şehrinin merkezinden uzun bir mesafe uzaklıkta bulunan bir tepe olup, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında önemli bilgiler sunar. Bu tepenin yüksekliği yaklaşık 1000 metre civarındadır ve çevresindeki diğer tepelerle birlikte bir bütünü oluşturur. Latabekir Tepesi, bölgede yaşayan halk için önemli bir noktadır ve burada yapılan araştırmalar, bölgenin coğrafi ve tarihi geçmişini anlamamız adına büyük önem taşır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğa severler için keyifli bir gezi alanı sunar.
+Latabekir Tepesi, Batman şehrinin merkezinden uzun bir mesafe uzaklıkta bulunan bir tepe olup, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında önemli bilgiler sunar. Bu tepenin yüksekliği yaklaşık 1000 metre civarındadır ve çevresindeki diğer tepelerle birlikte bir bütünü oluşturur. Latabekir Tepesi, bölgede yaşayan halk için önemli bir noktadır ve burada yapılan araştırmalar, bölgenin coğrafi ve tarihi geçmişini anlamamız adına büyük önem taşır.
 
 ## Tarihçe
 

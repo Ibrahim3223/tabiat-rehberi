@@ -1,7 +1,7 @@
 ---
 title: "Kamil Dede Türbesi"
 date: "2026-01-10T06:24:21.884Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391800"
 
 # Kamil Dede Türbesi
 
-Kamil Dede Türbesi, Denizli'nin Acıpayam ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzelliklerle karşılar. Kamil Dede Türbesi, hem dini hem de kültürel açıdan önemli bir mekan olup, ziyaretçilerini tarihin derinliklerine götürür. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kamil Dede Türbesi, aynı zamanda yerel halkın önemli bir kültürel mirası olarak kabul edilir ve ziyaretçilere türk kültürü hakkında derin bilgiler sunar.
+Kamil Dede Türbesi, Denizli'nin Acıpayam ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Kamil Dede Türbesi, hem dini hem de kültürel açıdan önemli bir mekan olup, ziyaretçilerini tarihin derinliklerine götürür. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kamil Dede Türbesi, aynı zamanda yerel halkın önemli bir kültürel mirası olarak kabul edilir ve ziyaretçilere türk kültürü hakkında derin bilgiler sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kamil Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca uzanır. Bu mekan,
 
 ## Coğrafya
 
-Kamil Dede Türbesi, Denizli'nin Acıpayam ilçesinde yer alır ve coğrafi olarak özel bir konumda bulunmaktadır. Bu mekan, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Kamil Dede Türbesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Burada, ziyaretçiler farklı mevsimlerde çeşitli manzaralarla karşılaşabilirler. Kamil Dede Türbesi, aynı zamanda coğrafi konumu itibariyle önemli bir ekolojik dengeye sahiptir. Bu mekan, ziyaretçilerine doğanın güzelliğini sunar ve onlara coğrafi açıdan önemli bir deneyimi sağlar. Kamil Dede Türbesi, coğrafi olarak önemli bir konumda olması nedeniyle, ziyaretçilerin doğal güzelliklerle iç içe olabilecekleri bir yerdir.
+Kamil Dede Türbesi, Denizli'nin Acıpayam ilçesinde yer alır ve coğrafi olarak özel bir konumda bulunmaktadır. Kamil Dede Türbesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Burada, ziyaretçiler farklı mevsimlerde çeşitli manzaralarla karşılaşabilirler. Kamil Dede Türbesi, aynı zamanda coğrafi konumu itibariyle önemli bir ekolojik dengeye sahiptir. Bu mekan, ziyaretçilerine doğanın güzelliğini sunar ve onlara coğrafi açıdan önemli bir deneyimi sağlar. Kamil Dede Türbesi, coğrafi olarak önemli bir konumda olması nedeniyle, ziyaretçilerin doğal güzelliklerle iç içe olabilecekleri bir yerdir.
 
 ## Flora ve Fauna
 

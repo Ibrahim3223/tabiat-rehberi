@@ -1,7 +1,7 @@
 ---
 title: "Mahmut Paşa Türbesi"
 date: "2026-01-10T06:01:50.935Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390518"
 
 # Mahmut Paşa Türbesi
 
-Mahmut Paşa Türbesi, Doğu Anadolu Bölgesi'nin Yakutiye/Erzurum ilçesinde yer alan tarihi bir mekan. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alanın içinde bulunuyor. Mahmut Paşa Türbesi, ziyaretçilerine hem tarihi hem de kültürel zenginlikleri sunuyor. Tarihi geçmişi ve coğrafi konumu ile dikkat çekiyor. Mahmut Paşa Türbesi, özellikle tarih meraklılarının ilgisini çekiyor. Doğu Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor.
+Mahmut Paşa Türbesi, Doğu Anadolu Bölgesi'nin Yakutiye/Erzurum ilçesinde yer alan tarihi bir mekan. Mahmut Paşa Türbesi, ziyaretçilerine hem tarihi hem de kültürel zenginlikleri sunuyor. Tarihi geçmişi ve coğrafi konumu ile dikkat çekiyor. Mahmut Paşa Türbesi, özellikle tarih meraklılarının ilgisini çekiyor. Doğu Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor.
 
 ## Tarihçe
 

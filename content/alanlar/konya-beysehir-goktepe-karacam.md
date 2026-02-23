@@ -22,11 +22,11 @@ wikidata_id: "Q108228104"
 
 # Konya-Beyşehir Goktepe-Karacam
 
-Konya-Beyşehir Goktepe-Karacam milli parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanıyla, doğa severlerin gönlünü fethediyor. İç Anadolu Bölgesi'nin kalbinde yer alan bu milli park, ziyaretçilerini Beyşehir Gölü'nün eşsiz manzarasıyla karşılayacak. Göktepe ve Karacam gibi önemli noktaların birleşmesiyle oluşan bu milli park, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çekiyor. 70'li yıllarda kurulan milli park, Konya'nın en önemli turizm merkezlerinden biri haline geldi.
+ İç Anadolu Bölgesi'nin kalbinde yer alan bu milli park, ziyaretçilerini Beyşehir Gölü'nün eşsiz manzarasıyla karşılayacak. Göktepe ve Karacam gibi önemli noktaların birleşmesiyle oluşan bu milli park, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çekiyor. 70'li yıllarda kurulan milli park, Konya'nın en önemli turizm merkezlerinden biri haline geldi.
 
 ## Tarihçe
 
-Konya-Beyşehir Goktepe-Karacam milli parkının tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölgede yapılan arkeolojik kazılar, tarihi değerlerin zenginliğini gözler önüne seriyor. Milli parkın kuruluşu, yıllar önce oldu. O günden beri, doğa severlerin ve tarih meraklılarının önemli destinasyonlarından biri olarak kabul ediliyor. Milli parkın kuruluş amacı, doğal güzelliklerin korunması ve gelecek nesillere aktarılması olarak belirlendi. Bu amaç doğrultusunda, milli parkın yönetimi, doğal dengenin korunmasına büyük önem veriyor. Tarihi geçmişi ve doğal güzellikleri bir araya getiren Konya-Beyşehir Goktepe-Karacam milli parkı, ziyaretçilerine unutulmaz deneyimler sunuyor.
+Konya-Beyşehir Goktepe-Karacam milli parkının tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölgede yapılan arkeolojik kazılar, tarihi değerlerin zenginliğini gözler önüne seriyor. Milli parkın kuruluşu, yıllar önce oldu. O günden beri, doğa severlerin ve tarih meraklılarının önemli destinasyonlarından biri olarak kabul ediliyor. Milli parkın kuruluş amacı, doğal güzelliklerin korunması ve gelecek nesillere aktarılması olarak belirlendi. Bu amaç doğrultusunda, milli parkın yönetimi, doğal dengenin korunmasına büyük önem veriyor.
 
 ## Coğrafya
 
@@ -34,7 +34,7 @@ Konya-Beyşehir Goktepe-Karacam milli parkı, Konya ilinin Beyşehir ilçesinde 
 
 ## Flora ve Fauna
 
-Konya-Beyşehir Goktepe-Karacam milli parkı, flora ve fauna açısından oldukça zengin bir alana sahip. Milli parkta, çeşitli ağaç türleri, çalılar ve otlar found. Bu flora çeşitliliği, milli parkın doğal güzelliklerini daha da artırıyor. Milli parkın fauna açısından da zengin olduğu söylenebilir. Milli parkta, çeşitli kuş türleri, memeliler ve sürüngenler yaşamlarını sürdürüyorlar. Bu fauna çeşitliliği, milli parkın doğal dengesini koruyor. Milli parkın flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, flora çeşitliliği artarken, fauna çeşitliliği de aynı şekilde artıyor. Sonbahar ve kış aylarında ise, flora çeşitliliği azalırken, fauna çeşitliliği de azalma gösteriyor.
+ Milli parkta, çeşitli ağaç türleri, çalılar ve otlar found. Bu flora çeşitliliği, milli parkın doğal güzelliklerini daha da artırıyor. Milli parkın fauna açısından da zengin olduğu söylenebilir. Milli parkta, çeşitli kuş türleri, memeliler ve sürüngenler yaşamlarını sürdürüyorlar. Bu fauna çeşitliliği, milli parkın doğal dengesini koruyor. Milli parkın flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, flora çeşitliliği artarken, fauna çeşitliliği de aynı şekilde artıyor. Sonbahar ve kış aylarında ise, flora çeşitliliği azalırken, fauna çeşitliliği de azalma gösteriyor.
 
 ## Ziyaret Bilgileri
 

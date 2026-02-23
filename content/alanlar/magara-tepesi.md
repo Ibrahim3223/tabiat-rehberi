@@ -33,7 +33,7 @@ Mardin'in tarihi dokusuyla çevrili Mağara Tepesi, ziyaretçilerini tarihin der
 
 ## Tarihçe
 
-Mardin bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl boyunca çeşitli uygarlıkların yaşadığı bu topraklar, zengin bir kültürel mirası barındırır. Hitit, Asur, Roma ve Osmanlı gibi medeniyetler, Mardin'in tarihini şekillendirmiştir. Mağara Tepesi, bu tarihi zenginliğin bir parçası olarak görülebilir.
+Mardin bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl boyunca çeşitli uygarlıkların yaşadığı bu topraklar, zengin bir kültürel mirası barındırır. Hitit, Asur, Roma ve Osmanlı gibi medeniyetler, Mardin'in tarihini şekillendirmiştir. Mağara Tepesi, bu tarihi zenginliğin bir parçası olarak görülebilir.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. Bu tür bölgeler, insanların yaşam alanları, ticaret yolları ve yaylaklar olarak kullanılmıştır. Mardin bölgesinde de benzer bir durum söz konusudur. Yayla ve otlaklar, bölgenin ekonomisi ve kültürü için hayati önem taşır. Mağara Tepesi, bu doğal güzelliklerin bir örneği olarak, bölgenin tarihine ve kültürüne katkıda bulunmuştur.
 
@@ -51,9 +51,9 @@ Doğal güzelliği ile dikkat çeken bu tepe, çevre coğrafyasıyla uyum içind
 
 ## Flora ve Fauna
 
-Mağara Tepesi, Mardin'in yarı kurak ikliminin karakteristik özelliklerini taşıyan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor ve ziyaretçilerini farklı yükseklik zonları ile karşılar. 
+Mağara Tepesi, Mardin'in yarı kurak ikliminin karakteristik özelliklerini taşıyan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor ve ziyaretçilerini farklı yükseklik zonları ile karşılar.
 
-İlkbaharla birlikte, step ve ova ekolojisinin hakim olduğu bu bölgede, çeşitli çiçekler açmaya başlar. Bu mevsimde, alpin flora ile karşılaşma mümkün olur. Dağların yüksek kesimlerinde, çam ve meşe ağaçları gibi ağaç türleri hakimdir. 
+İlkbaharla birlikte, step ve ova ekolojisinin hakim olduğu bu bölgede, çeşitli çiçekler açmaya başlar. Bu mevsimde, alpin flora ile karşılaşma mümkün olur. Dağların yüksek kesimlerinde, çam ve meşe ağaçları gibi ağaç türleri hakimdir.
 
 Yaban hayatı da oldukça zengin olan Mağara Tepesi, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunar. Bu bölgede, dağ keçileri ve yaban domuzları gibi memeliler, kartallar ve şahinler gibi kuşlar ve çeşitli sürüngen türleri bulunabilir. Ekolojik değerini koruma altına almak, bu çeşitliliği sürdürmek için önemlidir.
 

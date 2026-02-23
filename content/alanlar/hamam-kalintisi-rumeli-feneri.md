@@ -1,7 +1,7 @@
 ---
 title: "Hamam Kalıntısı, Rumeli Feneri"
 date: "2026-01-09T23:26:04.740Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739064"
 
 # Hamam Kalıntısı, Rumeli Feneri
 
-Hamam Kalıntısı, Rumeli Feneri, İstanbul'un Sarıyer ilçesinde yer alan ve tarihi önem taşıyan bir plajdır. Bu bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en güzel noktalarından biridir. Rumeli Feneri ile birlikte, bu bölge hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. İstanbul'un kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Hamam Kalıntısı, Rumeli Feneri, aynı zamanda tarih ve deniz severlerin de ilgisini çekiyor.
+Hamam Kalıntısı, Rumeli Feneri, İstanbul'un Sarıyer ilçesinde yer alan ve tarihi önem taşıyan bir plajdır. Rumeli Feneri ile birlikte, bu bölge hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. İstanbul'un kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Hamam Kalıntısı, Rumeli Feneri, aynı zamanda tarih ve deniz severlerin de ilgisini çekiyor.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31387330"
 
 # Akpınar Tepe
 
-Akpınar Tepe, İstanbul'un kalabalık streetsinden uzak, Marmara Bölgesi'nin yeşilliklerle çevrili bir köşesinde yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzak bir kaçış noktası sunuyor. Tepe, etrafındaki manzaralarla birlikte, bir doğa severin hayal ettiği her şeyi sunuyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve şehrin hızlı temposundan uzaklaşabilirsiniz.
+Akpınar Tepe, İstanbul'un kalabalık streetsinden uzak, Marmara Bölgesi'nin yeşilliklerle çevrili bir köşesinde yer alıyor. Tepe, etrafındaki manzaralarla birlikte, bir doğa severin hayal ettiği her şeyi sunuyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve şehrin hızlı temposundan uzaklaşabilirsiniz.
 
 ## Tarihçe
 

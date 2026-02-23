@@ -32,7 +32,7 @@ Burdur'un dağlık bölgeleri, Türkiye'nin en güzel doğal manzaralarından ba
 
 ## Tarihçe
 
-Burdur bölgesi, tarihin derinliklerinden gelen izler taşıyan bir coğrafyada yer alır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim alanlarından biri olmuştur. Hitit, Frig, Likya ve Roma uygarlıkları, Burdur'un zengin tarihini şekillendiren wichtig aktörler arasında yer almıştır. 
+Burdur bölgesi, tarihin derinliklerinden gelen izler taşıyan bir coğrafyada yer alır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim alanlarından biri olmuştur. Hitit, Frig, Likya ve Roma uygarlıkları, Burdur'un zengin tarihini şekillendiren wichtig aktörler arasında yer almıştır.
 
 Doğal güzellikleri ve stratejik konumuyla, bu bölge ticaret yollarının kesişme noktası olarak önemli bir role sahip olmuştur. İnsanların Kağılcık Dağı gibi doğal alanlarla ilişkisi, yaylacılık ve hayvancılıkla sınırlı değildir. Bu alanlar, aynı zamanda önemli ticaret yolları üzerinde bulunmuş, insanlar bu yollardan geçerken bu doğal güzelliklerden yararlanarak dinlenip, yolculuklarına devam etmişlerdir.
 

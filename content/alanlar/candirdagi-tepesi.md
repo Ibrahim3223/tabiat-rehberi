@@ -28,7 +28,7 @@ wikidata_id: "Q34828317"
 
 # Çandırdağı Tepesi
 
-Kahramanmaraş ilinin güzide bir bölgesi olan Çandırdağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilere geniş bir gezinti alanı sunuyor. Çandırdağı Tepesi, Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olarak biliniyor. Bu tepe, régionün doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Kahramanmaraş ilinin güzide bir bölgesi olan Çandırdağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Çandırdağı Tepesi, Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olarak biliniyor. Bu tepe, bölgeün doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ wikidata_id: "Q31386593"
 
 ## Tarihçe
 
-Şırnak bölgesinde yer alan "Zehirli Dağı", tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölgede, tarih boyunca çeşitli uygarlıklar yaşamış ve ticaret yolları oluşmuştur. Mezopotamya'nın kalbi sayılan bu topraklar, tarih boyunca birçok medeniyete ev sahipliği yapmış ve kültürel zenginliklere şahitlik etmiştir.
+Şırnak bölgesinde yer alan "Zehirli Dağı", tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölgede, tarih boyunca çeşitli uygarlıklar yaşamış ve ticaret yolları oluşmuştur. Mezopotamya'nın kalbi sayılan bu topraklar, tarih boyunca birçok medeniyete ev sahipliği yapmış ve kültürel zenginliklere şahitlik etmiştir.
 
 Türkiye'de, doğal alanlar tarihi boyunca önemli bir rol oynamıştır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu alanların ekonomiye ve topluma katkı sağlamasını sağlamıştır. Ayrıca, tarihi ticaret yollarının güzergahları üzerinde bulunan bu doğal alanlar, kültürel alışveriş ve etkileşimlerin yaşanmasına olanak tanımıştır.
 
@@ -65,6 +65,6 @@ Bu dağ ekosisteminin ekolojik değeri, yükseklik zonlarına bağlı olarak olu
 - Zehirli Dağı, Şırnak ilinin güneydoğu kesiminde yer alır.
 - Dağın yüksekliği hakkında kesin bilgiler bulunmamakla birlikte, bölgenin coğrafi özellikleri nedeniyle önemli bir yükselti olduğu bilinir.
 - Şırnak ilinin toplam yüzölçümü 7.172 km² iken, Zehirli Dağı ve civarı bu alanın önemli bir bölümünü kaplar.
-- Bölgede yürütülen arkeolojik çalışmalarda Zehirli Dağı'nın eteklerinde histórik yerleşim yerleri keşfedilmiştir.
+- Bölgede yürütülen arkeolojik çalışmalarda Zehirli Dağı'nın eteklerinde tarihi yerleşim yerleri keşfedilmiştir.
 - Zehirli Dağı ve çevresi, bölgeye özgü flora ve fauna çeşitliliği ile dikkat çeker.
 - Dağın adı, bölgede bulunan ve zehirli olduğu bilinen bitki türlerine atıfta bulunabilir.

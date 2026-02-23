@@ -32,9 +32,9 @@ wikidata_id: "Q31523473"
 
 ## Tarihçe
 
-Gelincik Tepe, Şırnak bölgesinin zengin tarihi dokusu içinde yer alır. Bu bölge, tarihin çeşitli dönemlerinde birçok uygarlığın izlerini taşır. Hitit, Asur, Pers ve Roma gibi büyük imparatorluklar, zamanında bu topraklarda hüküm sürmüş ve bölgenin kültürel mirasına katkıda bulunmuştur. 
+Gelincik Tepe, Şırnak bölgesinin zengin tarihi dokusu içinde yer alır. Bu bölge, tarihin çeşitli dönemlerinde birçok uygarlığın izlerini taşır. Hitit, Asur, Pers ve Roma gibi büyük imparatorluklar, zamanında bu topraklarda hüküm sürmüş ve bölgenin kültürel mirasına katkıda bulunmuştur.
 
-Doğal güzellikleri ve stratejik konumuyla, Gelincik Tepe ve çevresi, yüzyıllar boyunca insanların yaşamlarına ev sahipliği yapmıştır. Yaylacılık ve hayvancılık, bu bölgede geleneksel olarak sürdürülen faaliyetlerdir. Ayrıca, tarihi ticaret yollarının kesişme noktalarından biri olan Şırnak, ve kültürel alışverişin önemli merkezlerinden biri olarak bilinir. 
+Doğal güzellikleri ve stratejik konumuyla, Gelincik Tepe ve çevresi, yüzyıllar boyunca insanların yaşamlarına ev sahipliği yapmıştır. Yaylacılık ve hayvancılık, bu bölgede geleneksel olarak sürdürülen faaliyetlerdir. Ayrıca, tarihi ticaret yollarının kesişme noktalarından biri olan Şırnak, ve kültürel alışverişin önemli merkezlerinden biri olarak bilinir.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçasıdır. İnsanların doğayla iç içe yaşadığı, geleneksel yaşam tarzlarının sürdüğü bu bölgeler, aynı zamanda ülkenin biyolojik çeşitliliğinin korunmasına da katkıda bulunurlar. Gelincik Tepe, Şırnak'ın doğal güzelliğini ve tarihi önemini yansıtan bir örnek olarak, bölgenin kültürel ve doğal mirasının korunması için önemlidir.
 
@@ -50,7 +50,7 @@ Mevsimsel özelliklere baktığımızda, Gelincik Tepe'nin iklim karakteri, Gün
 
 ## Flora ve Fauna
 
-Gelincik Tepe, Şırnak'ta yer alan bir dağ ekosistemi olarak, yarı kurak iklimin etkilerini taşıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gelincik Tepe, Şırnak'ta yer alan bir dağ ekosistemi olarak, yarı kurak iklimin etkilerini taşıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne baktığımızda, ilkbaharda gelincik çiçeklerinin rengarenk bir şölen sunduğunu görüyoruz. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına bağlı olarak farklı türlerin yaşam alanlarını gözlemleyebiliriz. Alpin flora, dağların yüksek kesimlerinde yer alıyor.
 

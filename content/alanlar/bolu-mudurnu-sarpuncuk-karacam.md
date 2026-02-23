@@ -22,7 +22,7 @@ wikidata_id: "Q108227489"
 
 # Bolu-Mudurnu-Sarpuncuk Karacam
 
-Bolu-Mudurnu-Sarpuncuk Karacam milli parkı, Bolu ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna barındıran bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Milli parkın bulunduğu Karadeniz Bölgesi, zengin bitki örtüsü ve çeşitli yaban hayatı ile dikkat çekiyor. Bu bölge, aynı zamanda birçok önemli su kaynağının bulunduğu bir yer olarak biliniyor.
+Bolu-Mudurnu-Sarpuncuk Karacam milli parkı, Bolu ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Milli parkın bulunduğu Karadeniz Bölgesi, zengin bitki örtüsü ve çeşitli yaban hayatı ile dikkat çekiyor. Bu bölge, aynı zamanda birçok önemli su kaynağının bulunduğu bir yer olarak biliniyor.
 
 ## Tarihçe
 

@@ -33,9 +33,9 @@ Erzincan'in dağlık yapısı, bölgenin doğal güzelliğini ön plana çıkar�
 
 ## Tarihçe
 
-Erzincan Karadağ, Türkiye'nin doğusunda yer alan bir doğa harikasıdır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Erzincan, tarihi boyunca çeşitli uygarlıkların etkisi altında kalmıştır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu bölgede izler bırakmıştır. 
-Doğal güzelliği ve coğrafi konumuyla, Erzincan Karadağ, insan yerleşimlerine ve ticaret yollarına ev sahipliği yapmıştır. Yaylacılık ve hayvancılık, bölge halkının geleneksel uğraşlarından olmuştur. 
-Bu tür doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir rol oynamıştır. İnsanların bu alanlarla ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. 
+Erzincan Karadağ, Türkiye'nin doğusunda yer alan bir doğa harikasıdır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Erzincan, tarihi boyunca çeşitli uygarlıkların etkisi altında kalmıştır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu bölgede izler bırakmıştır.
+Doğal güzelliği ve coğrafi konumuyla, Erzincan Karadağ, insan yerleşimlerine ve ticaret yollarına ev sahipliği yapmıştır. Yaylacılık ve hayvancılık, bölge halkının geleneksel uğraşlarından olmuştur.
+Bu tür doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir rol oynamıştır. İnsanların bu alanlarla ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir.
 Erzincan Karadağ, bu zengin tarihsel bağlam içinde, doğa severlerin ve tarih meraklılarının ilgisini çekmeye devam etmektedir.
 
 ## Coğrafya

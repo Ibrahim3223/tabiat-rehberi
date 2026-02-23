@@ -23,7 +23,7 @@ wikidata_id: "Q108228608"
 
 # BURSA
 
-Bursa milli parkı, ziyaretçilerini yaklaşık 200 futbol sahası büyüklüğündeki 140 hektarlık yeşil alanı ile karşılar. Bu geniş ve güzel alan, hem doğa severlerin hem de शहर yaşamının stresinden kaçmak isteyenlerin keyiflenebileceği bir destinasyon. 140 hektarlık bu yeşil alan, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Ancak, bu zenginliğin yanı sıra, milli parkın tarihi geçmişi de ziyaretçileri etkileyebilecek bir unsur.
+ Bu geniş ve güzel alan, hem doğa severlerin hem de शहर yaşamının stresinden kaçmak isteyenlerin keyiflenebileceği bir destinasyon. Ancak, bu zenginliğin yanı sıra, milli parkın tarihi geçmişi de ziyaretçileri etkileyebilecek bir unsur.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Bursa milli parkı, coğrafi olarak oldukça zengin bir yapıya sahiptir. 140 he
 
 ## Flora ve Fauna
 
-Bursa milli parkı, flora ve fauna açısından oldukça zengindir. Çeşitli bitki türleri, ziyaretçilere renkli ve güzel bir doğal alan sunar. Ağaçlar, çiçekler, otlar ve diğer bitkiler, milli parkın yeşil alanını oluşturur. Fauna açısından da, milli park, çeşitli hayvan türleri ile dikkat çeker. Kuşlar, memeliler, sürüngenler ve diğer hayvanlar, milli parkın doğal dengesini oluşturur. Ziyaretçiler, bu güzel ve zengin doğal alanı, çeşitli gözlem noktalarından izleyebilir ve keyiflenebilir. Mevsimsel değişimler, milli parkın güzelliğini değiştirir. İlkbahar, renkli çiçeklerle dolu bir mevsimdir. Yaz, sıca ve yeşil bir mevsimdir. Sonbahar, renkli yapraklarla dolu bir mevsimdir. Kış, karla kaplı ve sessiz bir mevsimdir.
+ Çeşitli bitki türleri, ziyaretçilere renkli ve güzel bir doğal alan sunar. Ağaçlar, çiçekler, otlar ve diğer bitkiler, milli parkın yeşil alanını oluşturur. Fauna açısından da, milli park, çeşitli hayvan türleri ile dikkat çeker. Kuşlar, memeliler, sürüngenler ve diğer hayvanlar, milli parkın doğal dengesini oluşturur. Ziyaretçiler, bu güzel ve zengin doğal alanı, çeşitli gözlem noktalarından izleyebilir ve keyiflenebilir. Mevsimsel değişimler, milli parkın güzelliğini değiştirir. İlkbahar, renkli çiçeklerle dolu bir mevsimdir. Yaz, sıca ve yeşil bir mevsimdir. Sonbahar, renkli yapraklarla dolu bir mevsimdir. Kış, karla kaplı ve sessiz bir mevsimdir.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34829123"
 
 # Çilek Tepesi
 
-Çilek Tepesi, Çankırı'nın gözde noktalarından biri olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Çankırı'nın coğrafi yapısını anlamak için ideal bir noktadır. Çilek Tepesi, şehrin merkezine yakın bir konumda yer alır ve buradan şehrin panoramik manzarasını izleme mümkündür. Tepenin çevresinde çeşitli bitki türleri ve zengin fauna bulunur.
+Çilek Tepesi, Çankırı'nın gözde noktalarından biri olarak bilinir. Çankırı'nın coğrafi yapısını anlamak için ideal bir noktadır. Çilek Tepesi, şehrin merkezine yakın bir konumda yer alır ve buradan şehrin panoramik manzarasını izleme mümkündür. Tepenin çevresinde çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 

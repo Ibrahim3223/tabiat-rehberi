@@ -33,7 +33,7 @@ Muğla'nın doğal güzelliklerini keşfetmek isteyenler için Arı Dağı, bir 
 
 ## Tarihçe
 
-Arı Dağı, Muğla'nın bereketli topraklarında yükselen bir doğa harikası. Bu bölge, tarihin sâu sayfalarında önemli uygarlıkların izlerini taşıyor. Muğla, antik dönemde Karya bölgesinin bir parçası olarak, çeşitli medeniyetlerin geçiş noktası olmuş. Likya, Roma ve Bizans dönemlerinde önemli bir ticaret ve kültür merkezi olarak varlık göstermiş.
+Arı Dağı, Muğla'nın bereketli topraklarında yükselen bir doğa harikası. Bu bölge, tarihin derin sayfalarında önemli uygarlıkların izlerini taşıyor. Muğla, antik dönemde Karya bölgesinin bir parçası olarak, çeşitli medeniyetlerin geçiş noktası olmuş. Likya, Roma ve Bizans dönemlerinde önemli bir ticaret ve kültür merkezi olarak varlık göstermiş.
 
 Doğal güzellikleri ve stratejik konumuyla, Arı Dağı ve çevresinin tarihsel önemi tartışılmaz. Türkiye'de benzer doğal alanlar, binlerce yıl boyunca insanların yaşamlarına yön vermiş. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomisine ve kültürüne şekil vermiş. Arı Dağı da, muhtemelen bu faaliyetlerin bir parçası olarak, insanların yaşamına dahil olmuş.
 

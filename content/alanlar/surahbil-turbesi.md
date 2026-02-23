@@ -1,7 +1,7 @@
 ---
 title: "Şurahbil Türbesi"
 date: "2026-01-10T07:54:56.285Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilis"
@@ -29,15 +29,15 @@ wikidata_id: "Q131391332"
 
 # Şurahbil Türbesi
 
-Şurahbil Türbesi, Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde yer alan bir türbedir. 140 hektarlık bir alan üzerinde konumlanan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tarihi mekan, ziyaretçilerini tarihin gizemli atmosferine davet eder. Şurahbil Türbesi, Kilis şehrinin önemli tarihi mekanlarından biridir ve ziyaretçilerine tarihin derinliklerinde gizli bir hazineyi keşfetme fırsatı sunar. Şehrin merkezi konumunda bulunan bu türbe, kolayca ulaşılabilir ve ziyaret edilebilir. Şurahbil Türbesi, tarihin gizemli atmosferini keşfetmek isteyenler için ideal bir destinasyondur.
+Şurahbil Türbesi, Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde yer alan bir türbedir. Bu tarihi mekan, ziyaretçilerini tarihin gizemli atmosferine davet eder. Şurahbil Türbesi, Kilis şehrinin önemli tarihi mekanlarından biridir ve ziyaretçilerine tarihin derinliklerinde gizli bir hazineyi keşfetme fırsatı sunar. Şehrin merkezi konumunda bulunan bu türbe, kolayca ulaşılabilir ve ziyaret edilebilir. Şurahbil Türbesi, tarihin gizemli atmosferini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
-Şurahbil Türbesi, tarihin derinliklerinde gizli bir hazineyi andırır. Bu tarihi mekan, yüzyıllar boyunca farklı medeniyetlerin etkisinde kalmıştır. Şurahbil Türbesi, Kilis şehrinin tarihini yansıtması açısından önemli bir mekan olarak kabul edilir. Türbenin história geçmişi, ziyaretçilerini geçmişin gizemli atmosferine davet eder. Şurahbil Türbesi, tarihin derinliklerinde gizli bir hazineyi keşfetmek isteyenler için ideal bir destinasyondur. Bu türbe, ziyaretçilerine tarihin gizemli atmosferini keşfetme fırsatı sunar ve tarihin derinliklerinde gizli bir hazineyi keşfetme deneyimi sağlar. Şurahbil Türbesi, Kilis şehrinin tarihini yansıtması açısından önemli bir mekan olarak kabul edilir ve ziyaretçilerine tarihin gizemli atmosferini keşfetme fırsatı sunar.
+Şurahbil Türbesi, tarihin derinliklerinde gizli bir hazineyi andırır. Bu tarihi mekan, yüzyıllar boyunca farklı medeniyetlerin etkisinde kalmıştır. Şurahbil Türbesi, Kilis şehrinin tarihini yansıtması açısından önemli bir mekan olarak kabul edilir. Türbenin tarihi geçmişi, ziyaretçilerini geçmişin gizemli atmosferine davet eder. Şurahbil Türbesi, tarihin derinliklerinde gizli bir hazineyi keşfetmek isteyenler için ideal bir destinasyondur. Bu türbe, ziyaretçilerine tarihin gizemli atmosferini keşfetme fırsatı sunar ve tarihin derinliklerinde gizli bir hazineyi keşfetme deneyimi sağlar. Şurahbil Türbesi, Kilis şehrinin tarihini yansıtması açısından önemli bir mekan olarak kabul edilir ve ziyaretçilerine tarihin gizemli atmosferini keşfetme fırsatı sunar.
 
 ## Coğrafya
 
-Şurahbil Türbesi, Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde yer alan bir türbedir. 140 hektarlık bir alan üzerinde konumlanan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şurahbil Türbesi, Kilis şehrinin merkezi konumunda bulunur ve kolayca ulaşılabilir. Türbenin çevresi, tarihi mekanlarla dolu bir bölge olarak kabul edilir. Şurahbil Türbesi, tarihin derinliklerinde gizli bir hazineyi keşfetmek isteyenler için ideal bir destinasyondur. Bu türbe, ziyaretçilerine tarihin gizemli atmosferini keşfetme fırsatı sunar ve tarihin derinliklerinde gizli bir hazineyi keşfetme deneyimi sağlar. Şurahbil Türbesi, Kilis şehrinin tarihini yansıtması açısından önemli bir mekan olarak kabul edilir ve ziyaretçilerine tarihin gizemli atmosferini keşfetme fırsatı sunar. Şurahbil Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede bulunur. Bu bölge, tarihi mekanlar ve doğal güzelliklerle dolu bir alandır. Şurahbil Türbesi, ziyaretçilerine tarihin gizemli atmosferini keşfetme fırsatı sunar ve tarihin derinliklerinde gizli bir hazineyi keşfetme deneyimi sağlar.
+Şurahbil Türbesi, Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde yer alan bir türbedir. Şurahbil Türbesi, Kilis şehrinin merkezi konumunda bulunur ve kolayca ulaşılabilir. Türbenin çevresi, tarihi mekanlarla dolu bir bölge olarak kabul edilir. Şurahbil Türbesi, tarihin derinliklerinde gizli bir hazineyi keşfetmek isteyenler için ideal bir destinasyondur. Bu türbe, ziyaretçilerine tarihin gizemli atmosferini keşfetme fırsatı sunar ve tarihin derinliklerinde gizli bir hazineyi keşfetme deneyimi sağlar. Şurahbil Türbesi, Kilis şehrinin tarihini yansıtması açısından önemli bir mekan olarak kabul edilir ve ziyaretçilerine tarihin gizemli atmosferini keşfetme fırsatı sunar. Şurahbil Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgede bulunur. Bu bölge, tarihi mekanlar ve doğal güzelliklerle dolu bir alandır. Şurahbil Türbesi, ziyaretçilerine tarihin gizemli atmosferini keşfetme fırsatı sunar ve tarihin derinliklerinde gizli bir hazineyi keşfetme deneyimi sağlar.
 
 ## Flora ve Fauna
 

@@ -32,7 +32,7 @@ Ardahan'ın doğal güzellikleri arasında dikkat çeken Kısır Dağı, ilin co
 
 ## Tarihçe
 
-Ardahan bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir kültür mirasına sahiptir. Bu bölgede, tarih boyunca çeşitli uygarlıklar yaşamıştır. Ardahan, histórik olarak Gürcü krallıklarının ve Osmanlı İmparatorluğu'nun bir parçası olmuştur. Bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında bulunması, burada yaşayan topluluklar için önemli bir avantaj teşkil etmiştir.
+Ardahan bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir kültür mirasına sahiptir. Bu bölgede, tarih boyunca çeşitli uygarlıklar yaşamıştır. Ardahan, tarihi olarak Gürcü krallıklarının ve Osmanlı İmparatorluğu'nun bir parçası olmuştur. Bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında bulunması, burada yaşayan topluluklar için önemli bir avantaj teşkil etmiştir.
 
 Kısır Dağı gibi doğal alanlar, Türkiye'nin tarih boyunca önemli yerleşim ve geçiş noktaları olarak hizmet vermiştir. Bu bölgeler, yalnızca doğal güzellikleri ile değil, aynı zamanda stratejik konumları ile de önemli hale gelmiştir. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan topluluklar için önemli geçim kaynakları olmuştur. Ayrıca, tarihi ticaret yolları da bu doğal güzergahları takip ederek, bölgenin ekonomi ve kültürel gelişimine katkıda bulunmuştur.
 
@@ -50,9 +50,9 @@ Jeolojik açıdan bakıldığında, Kısır Dağı'nın fiziksel yapısı hakkı
 
 ## Flora ve Fauna
 
-Kısır Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın bitki örtüsü, mevsimsel değişimlere göre farklılık gösterir. İlbaharda, alpin çayırlar renkli çiçeklerle donanır. Bu çayırlar, endemik türlerin yaşam alanıdır. 
+Kısır Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın bitki örtüsü, mevsimsel değişimlere göre farklılık gösterir. İlbaharda, alpin çayırlar renkli çiçeklerle donanır. Bu çayırlar, endemik türlerin yaşam alanıdır.
 
-Yaban hayatı da zengin bir çeşitlilik sunar. Dağ keçileri, ayılar ve kurtlar gibi memeliler, dağların yükseklik zonlarında yaşarlar. Kuşlar, özellikle sonbaharda göç ederken bu bölgeyi kullanır. Sürüngenler de, kayalık alanlarda yaşamlarını sürdürür. 
+Yaban hayatı da zengin bir çeşitlilik sunar. Dağ keçileri, ayılar ve kurtlar gibi memeliler, dağların yükseklik zonlarında yaşarlar. Kuşlar, özellikle sonbaharda göç ederken bu bölgeyi kullanır. Sürüngenler de, kayalık alanlarda yaşamlarını sürdürür.
 
 Kısır Dağı, ekolojik açıdan önemli bir bölgedir. Yüksek dağ ekolojisi ve alpin çayırlar, bu bölgenin değerini artırır. Bu bölge, endemik türlerin korunması için önemlidir. Koruma çalışmaları, bu bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumayı hedefler.
 

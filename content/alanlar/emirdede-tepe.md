@@ -28,7 +28,7 @@ wikidata_id: "Q31385849"
 
 # Emirdede Tepe
 
-Emirdede Tepe, Afyonkarahisar'ın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Yaklaşık 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplar. Bu bölge, ziyaretçilerini doğal güzellikleri ve eşsiz manzarasıyla karşılar. Emirdede Tepe, doğa severler ve gezi tutkunları için ideal bir destinasyondur. Burada, doğanın huzurunu ve güzelliğini deneyimleme mümkündür.
+Emirdede Tepe, Afyonkarahisar'ın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Bu bölge, ziyaretçilerini doğal güzellikleri ve eşsiz manzarasıyla karşılar. Emirdede Tepe, doğa severler ve gezi tutkunları için ideal bir destinasyondur. Burada, doğanın huzurunu ve güzelliğini deneyimleme mümkündür.
 
 ## Tarihçe
 

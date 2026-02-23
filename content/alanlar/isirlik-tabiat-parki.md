@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Isırlık Tabiat Parkı
 
-Isırlık Tabiat Parkı, Rize'nin güzide mekanlarından biri olarak Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor. Parkın bulunduğu konum, ziyaretçilere hem doğayı hem de çevresindeki kültürel zenginlikleri keşfetme fırsatı sunuyor. Isırlık Tabiat Parkı, Rize'nin turizm açısından önemli bir noktası olarak dikkat çekiyor ve ziyaretçilere unutulmaz bir deneyim vaat ediyor.
+Isırlık Tabiat Parkı, Rize'nin güzide mekanlarından biri olarak Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri. Parkın bulunduğu konum, ziyaretçilere hem doğayı hem de çevresindeki kültürel zenginlikleri keşfetme fırsatı sunuyor. Isırlık Tabiat Parkı, Rize'nin turizm açısından önemli bir noktası olarak dikkat çekiyor ve ziyaretçilere unutulmaz bir deneyim vaat ediyor.
 
 ## Tarihçe
 
@@ -29,7 +29,7 @@ Isırlık Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Isırlık Tabiat Parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş ve bu bölgeye özgü bitki türleri ile hayvan çeşitliliği barındırıyor. Parkın konumu, Rize ilinin merkezine yakın bir yerde bulunuyor ve bu sayede ulaşım kolaylığı sağlanıyor. Isırlık Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın coğrafi yapısı, ziyaretçilere hem dağların güzelliğini hem de ormanların zenginliğini gösteriyor. Isırlık Tabiat Parkı, Karadeniz Bölgesi'nin iklimine uygun olarak kurulmuş ve bu bölgeye özgü flora ve fauna çeşitliliği barındırıyor.
+Isırlık Tabiat Parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş ve bu bölgeye özgü bitki türleri ile hayvan çeşitliliği barındırıyor. Parkın konumu, Rize ilinin merkezine yakın bir yerde bulunuyor ve bu sayede ulaşım kolaylığı sağlanıyor. Parkın coğrafi yapısı, ziyaretçilere hem dağların güzelliğini hem de ormanların zenginliğini gösteriyor. Isırlık Tabiat Parkı, Karadeniz Bölgesi'nin iklimine uygun olarak kurulmuş ve bu bölgeye özgü flora ve fauna çeşitliliği barındırıyor.
 
 ## Flora ve Fauna
 

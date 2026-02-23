@@ -28,7 +28,7 @@ wikidata_id: "Q31386660"
 
 # Telşarap
 
-Telşarap, Güneydoğu Anadolu Bölgesi'nde yer alan Mardin'in önemli bir parçasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Telşarap, Mardin'in tarihi ve doğal güzellikleri ile dikkat çeker. Burada, zengin bir tarihe ve çeşitli bitki türlerine rastlama mümkün. Telşarap, ziyaretçilerini tarihi yapıları, doğal güzellikleri ve zengin fauna ile cezbeder. Bu bölge, Mardin'in en önemli turizm merkezlerinden biri olarak kabul edilir.
+Telşarap, Güneydoğu Anadolu Bölgesi'nde yer alan Mardin'in önemli bir parçasıdır. Telşarap, Mardin'in tarihi ve doğal güzellikleri ile dikkat çeker. Burada, zengin bir tarihe ve çeşitli bitki türlerine rastlama mümkün. Telşarap, ziyaretçilerini tarihi yapıları, doğal güzellikleri ve zengin fauna ile cezbeder. Bu bölge, Mardin'in en önemli turizm merkezlerinden biri olarak kabul edilir.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Telşarap'ın tarihi geçmişi, çok eskilere dayanır. Bu bölge, yüzyıllar b
 
 ## Coğrafya
 
-Telşarap, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alır. Bu bölge, Mardin'in merkezine yakın bir konumda bulunur ve Burada, çeşitli coğrafi özelliklere rastlama mümkün. Telşarap, 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu bölge, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin bir yapıya sahiptir. Telşarap, ziyaretçilerine doğal güzellikleri, çeşitli bitki türleri ve fauna ile bir doğa harikası sunar. Telşarap'ın iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve Bu bölge, yazları sıcak ve kurak, kışları soğuk ve yağışlı bir iklime sahiptir.
+Telşarap, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alır. Bu bölge, Mardin'in merkezine yakın bir konumda bulunur ve Burada, çeşitli coğrafi özelliklere rastlama mümkün. Bu bölge, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin bir yapıya sahiptir. Telşarap, ziyaretçilerine doğal güzellikleri, çeşitli bitki türleri ve fauna ile bir doğa harikası sunar. Telşarap'ın iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve Bu bölge, yazları sıcak ve kurak, kışları soğuk ve yağışlı bir iklime sahiptir.
 
 ## Flora ve Fauna
 
-Telşarap, flora ve fauna açısından çok zengin bir bölgedir. Burada, çeşitli bitki türleri ve fauna ile karşılaşılmaktadır. Telşarap, 140 hektarlık bir alanı kaplar ve Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu bölge, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin bir yapıya sahiptir. Telşarap, ziyaretçilerine doğal güzellikleri, çeşitli bitki türleri ve fauna ile bir doğa harikası sunar. Telşarap'ın flora ve faunası, mevsimsel olarak değişkenlik gösterir ve Bu bölge, her mevsim farklı bir güzelliğe sahip olarak ziyaretçilerini cezbeder.
+Telşarap, flora ve fauna açısından çok zengin bir bölgedir. Burada, çeşitli bitki türleri ve fauna ile karşılaşılmaktadır. Bu bölge, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin bir yapıya sahiptir. Telşarap, ziyaretçilerine doğal güzellikleri, çeşitli bitki türleri ve fauna ile bir doğa harikası sunar. Telşarap'ın flora ve faunası, mevsimsel olarak değişkenlik gösterir ve Bu bölge, her mevsim farklı bir güzelliğe sahip olarak ziyaretçilerini cezbeder.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Telşarap, ziyaretçilerine tarihi yapıları, doğal güzellikleri, çeşitli b
 
 - Telşarap, Mardin'in en eski yerleşim yerlerinden biridir.
 - Bu bölge, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış ve bu nedenle, tarihi açıdan çok önemli bir yer olarak kabul edilir.
-- Telşarap, 140 hektarlık bir alanı kaplar ve Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir.
+
 - Telşarap, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin bir yapıya sahiptir.
 - Telşarap, ziyaretçilerine doğal güzellikleri, çeşitli bitki türleri ve fauna ile bir doğa harikası sunar.

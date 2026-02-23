@@ -29,7 +29,7 @@ wikidata_id: "Q31572667"
 
 # Bey Tepesi
 
-Bey Tepesi, Van şehrinin güzide noktalarından biri olarak karşımıza çıkıyor. Yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepe, Van Gölü'nün muhteşem manzarasını izlemek için ideal bir konumda bulunuyor. Doğa severler ve fotoğraf meraklıları için bir cennet olan Bey Tepesi, ziyaretçilerini güler yüzle karşılıyor. Van'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir durak olan bu tepe, şehrin önemli noktalarından birini oluşturuyor.
+Bey Tepesi, Van şehrinin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, Van Gölü'nün muhteşem manzarasını izlemek için ideal bir konumda bulunuyor. Doğa severler ve fotoğraf meraklıları için bir cennet olan Bey Tepesi, ziyaretçilerini güler yüzle karşılıyor. Van'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir durak olan bu tepe, şehrin önemli noktalarından birini oluşturuyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bey Tepesi'ni ziyaret etmek, Van şehrinde yapabileceğiniz en güzel aktivitele
 ## İlginç Bilgiler
 
 - Bey Tepesi, Van Gölü'nün manzarasını izlemek için ideal bir nokta.
-- Tepenin alanı, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bey Tepesi, Van şehrinin güzide noktalarından biri.
 - Tepede, çeşitli bitki türleri ve ağaçlar bulunuyor.
 - İlkbahar ve yaz ayları, tepeyi ziyaret etmek için en ideal zamanlar.

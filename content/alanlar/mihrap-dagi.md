@@ -48,7 +48,7 @@ Mihrap Dağı, Fırat Nehri'ne yakın bir konumda bulunduğundan, bu nehrin su k
 
 ## Flora ve Fauna
 
-Mihrap Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Mihrap Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünde, ilkbaharda çiçeklenen alpin bitkileri ve yükseklik zonlarına özgü flora çeşitliliği göze çarpar. Çam, köknar ve ladin gibi ağaç türleri, dağ eteklerinde hakimdir. Sonbaharda, renk değiştiren yapraklar ve göç eden kuş sürüleri manzarayı renklendirir.
 

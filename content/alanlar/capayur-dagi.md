@@ -51,7 +51,7 @@ Son olarak, Capayur Dağı'nın çevresel ilişkileri de önemli bir konu. Bu da
 
 ## Flora ve Fauna
 
-Capayur Dağı, yükseklik zonları ile karakterize edilen dağ ekosisteminin benzersiz bir örneğini sunar. Bu dağda, step bitki örtüsü ve bozkırın hakim olduğu bir peyzajla karşılaşırız. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açar ve renkli bir manzara ortaya çıkar. 
+Capayur Dağı, yükseklik zonları ile karakterize edilen dağ ekosisteminin benzersiz bir örneğini sunar. Bu dağda, step bitki örtüsü ve bozkırın hakim olduğu bir peyzajla karşılaşırız. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açar ve renkli bir manzara ortaya çıkar.
 
 Yaban hayatında, memeliler ve kuşlar önemli bir yer tutar. Göç eden kuşlar, sonbahar aylarında bu dağları ziyaret eder ve dağların yükseklik zonlarına adapte olmuş türler, bu bölgenin ekolojik dengesini sağlar. Sürüngenler de, dağların kura ve kayaçlı bölgelerinde yaşamlarını sürdürür.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32200857"
 
 # Koçak Tepesi
 
-Aydın'ın güzide ilçelerinden biri olan Koçak Tepesi, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Burada, çeşitli bitki türleri ile karşılaşabilir, zengin fauna çeşitliliği ile tanışabilirsiniz. Koçak Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının görmesi gereken bir destinasyon.
+Aydın'ın güzide ilçelerinden biri olan Koçak Tepesi, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. Burada, çeşitli bitki türleri ile karşılaşabilir, zengin fauna çeşitliliği ile tanışabilirsiniz. Koçak Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının görmesi gereken bir destinasyon.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Koçak Tepesi'ni ziyaret etmek, hem doğa severler hem de fotoğraf tutkunları 
 
 ## İlginç Bilgiler
 
-- Koçak Tepesi, yaklaşık 200 futbol sahası büyüklüğünde.
 - Burada, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunmaktadır.
 - Koçak Tepesi, Ege Bölgesi'nin stratejik konumu nedeniyle, farklı medeniyetlerin ilgisini çekmiştir.
 - Bu bölge, tarım faaliyetleri için elverişli bir ortam sunar.

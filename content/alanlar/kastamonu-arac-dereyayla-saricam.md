@@ -22,7 +22,7 @@ wikidata_id: "Q108227577"
 
 # Kastamonu-Arac-Dereyayla Saricam
 
-Kastamonu-Arac-Dereyayla Saricam milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik noktalarından biri. Bu milli park, ziyaretçilerine hem doğal güzellikleri hem de zengin flora ve faunası ile unutulmaz bir deneyim sunuyor. Kastamonu ilinin Arac ilçesinde bulunan Dereyayla Saricam milli parkı, bölgenin tarihi geçmişi ve kültürel önemi ile de dikkat çekiyor.
+Kastamonu-Arac-Dereyayla Saricam milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu milli park, ziyaretçilerine hem doğal güzellikleri hem de zengin flora ve faunası ile unutulmaz bir deneyim sunuyor. Kastamonu ilinin Arac ilçesinde bulunan Dereyayla Saricam milli parkı, bölgenin tarihi geçmişi ve kültürel önemi ile de dikkat çekiyor.
 
 ## Tarihçe
 

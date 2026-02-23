@@ -28,7 +28,7 @@ wikidata_id: "Q31563965"
 
 # Kızılcapınar Tepesi
 
-Kızılcapınar Tepesi, Sakarya ilinin sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli coğrafi özelliklerinden biri. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta. Kızılcapınar Tepesi, hem doğal güzelliği hem de coğrafi konumu nedeniyle ziyaretçilerini cezbeden bir destinasyon.
+Kızılcapınar Tepesi, Sakarya ilinin sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta. Kızılcapınar Tepesi, hem doğal güzelliği hem de coğrafi konumu nedeniyle ziyaretçilerini cezbeden bir destinasyon.
 
 ## Tarihçe
 

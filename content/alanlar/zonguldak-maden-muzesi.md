@@ -1,7 +1,7 @@
 ---
 title: "Zonguldak Maden Müzesi"
 date: "2026-01-10T15:14:16.430Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Zonguldak"
@@ -29,7 +29,7 @@ wikidata_id: "Q118958363"
 
 # Zonguldak Maden Müzesi
 
-Zonguldak Maden Müzesi, Karadeniz Bölgesi'nin önemli madencilik merkezlerinden biri olan Zonguldak ilinin merkezinde yer alır. Bu müze, madencilik tarihini ve bölgenin doğal zenginliklerini keşfetmek için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Müzenin giriş bölümünde, madencilikle ilgili çeşitli eserler ve araçlar sergilenir. Müze, hem yerli hem de yabancı ziyaretçilerin ilgisini çekmektedir.
+Zonguldak Maden Müzesi, Karadeniz Bölgesi'nin önemli madencilik merkezlerinden biri olan Zonguldak ilinin merkezinde yer alır. Bu müze, madencilik tarihini ve bölgenin doğal zenginliklerini keşfetmek için ideal bir destinasyon. Müzenin giriş bölümünde, madencilikle ilgili çeşitli eserler ve araçlar sergilenir. Müze, hem yerli hem de yabancı ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Zonguldak Maden Müzesi'ni ziyaret etmek, Karadeniz Bölgesi'nin tarihi ve doğa
 ## İlginç Bilgiler
 
 - Zonguldak Maden Müzesi, 140 hektarlık bir alana kurulmuştur.
-- Müze, yaklaşık 200 futbol sahası büyüklüğünde bir açık alana sahiptir.
+
 - Müzenin koleksiyonunda, bölgenin madencilik tarihini yansıtan çeşitli araçlar, belgeler ve eserler yer almaktadır.
 - Zonguldak, yüzyıllar boyunca önemli bir madencilik merkezi olarak tanınmıştır.
 - Müze, Karadeniz Bölgesi'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.

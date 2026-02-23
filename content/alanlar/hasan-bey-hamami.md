@@ -1,7 +1,7 @@
 ---
 title: "Hasan Bey Hamamı"
 date: "2026-01-09T22:50:18.683Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738648"
 
 # Hasan Bey Hamamı
 
-Marmara Bölgesi'nin güzide illerinden Bursa'nın Mudanya ilçesinde yer alan Hasan Bey Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan ve Marmara Denizi'nin serin sularına nazır bir konumda bulunan bir plaj ve doğa alanıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alan olmakla birlikte, ziyaretçilerine geniş ve ferah bir mekan sunuyor. Hasan Bey Hamamı, Marmara Denizi'nin serin sularına ve yeşilin her tonuna sahip doğasıyla ziyaretçilerini bekliyor. Doğal güzellikleri, temiz havası ve sakin atmosferi ile ziyaretçilerine unutulmaz bir deneyim vadediyor.
+Marmara Bölgesi'nin güzide illerinden Bursa'nın Mudanya ilçesinde yer alan Hasan Bey Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan ve Marmara Denizi'nin serin sularına nazır bir konumda bulunan bir plaj ve doğa alanıdır. Hasan Bey Hamamı, Marmara Denizi'nin serin sularına ve yeşilin her tonuna sahip doğasıyla ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

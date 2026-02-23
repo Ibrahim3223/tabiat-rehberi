@@ -29,7 +29,7 @@ wikidata_id: "Q34820487"
 
 # Üçdede Tepesi
 
-Üçdede Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alan, yaklaşık 140 hektarlık bir alanı kapsayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu tepe, geniş ve yeşil alanları, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. İnsanlar buraya gelerek hem doğanın güzelliğini keşfediyor hem de tarihi geçmişi hakkında bilgi sahibi oluyor.
+ Bu tepe, geniş ve yeşil alanları, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. İnsanlar buraya gelerek hem doğanın güzelliğini keşfediyor hem de tarihi geçmişi hakkında bilgi sahibi oluyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q34820487"
 
 ## Coğrafya
 
-Üçdede Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin merkezi bir konumunda yer alıyor. Bu tepe, geniş ve yeşil alanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Çevre olarak, tepeye yakın bölgelerde tarihi yerleşim yerleri ve doğal güzellikler bulunmakta. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde.
+Üçdede Tepesi, coğrafi olarak İç Anadolu Bölgesi'nin merkezi bir konumunda yer alıyor. Bu tepe, geniş ve yeşil alanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Çevre olarak, tepeye yakın bölgelerde tarihi yerleşim yerleri ve doğal güzellikler bulunmakta.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q34820487"
 ## İlginç Bilgiler
 
 - Üçdede Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Tepenin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin bir araya geldiği bir bölge olarak dikkat çekiyor.
 - Üçdede Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu tepe, ziyaretçilerine hem doğanın güzelliğini hem de tarihi hakkında bilgi sahibi olma fırsatı sunuyor.

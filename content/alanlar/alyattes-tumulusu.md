@@ -30,7 +30,7 @@ wikidata_id: "Q134728384"
 
 # Alyattes Tümülüsü
 
-Alyattes Tümülüsü, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak Manisa'nın Salihli ilçesinde yer alıyor. Bu tarihi hazinenin bulunduğu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Alyattes Tümülüsü, Lidya Krallığı'nın önemli figürlerinden biri olan Alyattes'in mezarı olarak biliniyor. Bu tarihi mekan, yüzyıllar boyunca birçok uygarlığa ev sahipliği yapmış ve her birini kendi kültürüyle zenginleştirmiş.
+Alyattes Tümülüsü, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak Manisa'nın Salihli ilçesinde yer alıyor. Bu tarihi hazinenin bulunduğu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. Alyattes Tümülüsü, Lidya Krallığı'nın önemli figürlerinden biri olan Alyattes'in mezarı olarak biliniyor. Bu tarihi mekan, yüzyıllar boyunca birçok uygarlığa ev sahipliği yapmış ve her birini kendi kültürüyle zenginleştirmiş.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Alyattes Tümülüsü, Lidya Krallığı'nın önemli krallarından biri olan Al
 
 ## Coğrafya
 
-Alyattes Tümülüsü, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Yaklaşık 140 hektarlık bir alanı kapsayan tümülüs, bölgenin en önemli tarihi mekanlarından biri olarak kabul ediliyor. Ege Bölgesi'nin iklimi, genellikle ılıman ve yağışlı olarak karakterize ediliyor. Bu iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuş. Alyattes Tümülüsü'nün bulunduğu alan, çevresi ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş alan, ziyaretçilere tarihi bir atmosferde gezebilmeleri için geniş bir olanak sunuyor.
+Alyattes Tümülüsü, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Yaklaşık 140 hektarlık bir alanı kapsayan tümülüs, bölgenin en önemli tarihi mekanlarından biri olarak kabul ediliyor. Ege Bölgesi'nin iklimi, genellikle ılıman ve yağışlı olarak karakterize ediliyor. Bu iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuş. Bu geniş alan, ziyaretçilere tarihi bir atmosferde gezebilmeleri için geniş bir olanak sunuyor.
 
 ## Flora ve Fauna
 

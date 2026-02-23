@@ -29,7 +29,7 @@ wikidata_id: "Q31570469"
 
 # Bulgur Tepesi
 
-Bulgur Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir tepe. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgeye gelen ziyaretçiler için önemli bir çekim merkezi. Doğal güzelliklerinin yanı sıra, tarihi geçmişiyle de dikkat çekiyor. Bulgur Tepesi, bölgenin coğrafi yapısını anlamak için ideal bir nokta. Ziyaretçiler, tepeye çıkarak bölgenin geniş bir kısmını gözleme fırsatı buluyor.
+Bulgur Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir tepe. Bu tepe, bölgeye gelen ziyaretçiler için önemli bir çekim merkezi. Doğal güzelliklerinin yanı sıra, tarihi geçmişiyle de dikkat çekiyor. Bulgur Tepesi, bölgenin coğrafi yapısını anlamak için ideal bir nokta. Ziyaretçiler, tepeye çıkarak bölgenin geniş bir kısmını gözleme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Bulgur Tepesi'ni ziyaret etmek, İç Anadolu Bölgesi'nin doğal güzelliklerini
 
 ## İlginç Bilgiler
 
-- Bulgur Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin yüksekliği, bölgenin geniş bir kısmını gözleme fırsatı sağlıyor.
 - Bölgenin flora ve faunası, iklim koşullarına adaptasyon göstermiştir.
 - Tepenin eteklerinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır.

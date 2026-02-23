@@ -28,7 +28,7 @@ wikidata_id: "Q31390648"
 
 # Ayrıdağ Tepesi
 
-Ayrıdağ Tepesi, Kırşehir'in doğal güzelliklerinden biri olarak bilinir. Bu tepe, İç Anadolu Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir manzara sunar. Ayrıdağ Tepesi, doğa severler için bir çekim merkezi olarak kabul edilebilir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Ayrıdağ Tepesi, Kırşehir'in doğal güzelliklerinden biri olarak bilinir. Bu tepe, İç Anadolu Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Ayrıdağ Tepesi, doğa severler için bir çekim merkezi olarak kabul edilebilir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ayrıdağ Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Ayrıdağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Bu tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir manzara sunar. Ayrıdağ Tepesi, doğa severler için bir çekim merkezi olarak kabul edilebilir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayrídağ Tepesi'nin coğrafi yapısı, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunar. İlkbahar ve yaz aylarında, Ayrıdağ Tepesi, yeşilin farklı tonlarını gösterirken, sonbahar ve kış aylarında, farklı bir güzelliğe bürünür. Ayrídağ Tepesi, coğrafi yapısı ve doğal güzellikleri ile ziyaretçilerini cezbeder.
+Ayrıdağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Ayrıdağ Tepesi, doğa severler için bir çekim merkezi olarak kabul edilebilir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayrídağ Tepesi'nin coğrafi yapısı, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunar. İlkbahar ve yaz aylarında, Ayrıdağ Tepesi, yeşilin farklı tonlarını gösterirken, sonbahar ve kış aylarında, farklı bir güzelliğe bürünür. Ayrídağ Tepesi, coğrafi yapısı ve doğal güzellikleri ile ziyaretçilerini cezbeder.
 
 ## Flora ve Fauna
 

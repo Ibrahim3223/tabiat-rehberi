@@ -32,7 +32,7 @@ wikidata_id: "Q101551504"
 
 ## Tarihçe
 
-Şırnak bölgesi, tarihin sâu sayfalarında yer alan bir coğrafyadır. Bu bölge, Mezopotamya'nın kalbinde yer alır ve tarih boyunca çeşitli uygarlıkların geçiş noktası olmuştur. Bölgede, Sümerler, Asurlar ve Urartular gibi antik medeniyetlerin izleri bulunur. İnsanlık tarihinin önemli bir bölümü, bu coğrafyada şekillenmiştir.
+Şırnak bölgesi, tarihin derin sayfalarında yer alan bir coğrafyadır. Bu bölge, Mezopotamya'nın kalbinde yer alır ve tarih boyunca çeşitli uygarlıkların geçiş noktası olmuştur. Bölgede, Sümerler, Asurlar ve Urartular gibi antik medeniyetlerin izleri bulunur. İnsanlık tarihinin önemli bir bölümü, bu coğrafyada şekillenmiştir.
 
 İlısu Baraj Gölü'nün bulunduğu bölge, tarihsel olarak önemli ticaret yollarının kesişme noktasıdır. Eski çağlardan beri, insanların bu bölgeyle ilişkisi comerciya, hayvancılık ve yaylacılık gibi faaliyetler etrafında şekillenmiştir. Bölgenin coğrafi konumu, insanları bu doğal kaynakları kullanmaya ve burada yaşamaya teşvik etmiştir.
 
@@ -50,11 +50,11 @@ Doğal bir göl olmayıp, barajın yapımı sonucu oluşan İlısu Baraj Gölü,
 
 ## Flora ve Fauna
 
-İlısu Baraj Gölü, Şırnak'ta yer alan bir göldür. Bu göl, yarı kurak iklimin hakim olduğu bir bölgede, step ve ova ekolojisinin birleştiği bir noktada bulunmaktadır. 
+İlısu Baraj Gölü, Şırnak'ta yer alan bir göldür. Bu göl, yarı kurak iklimin hakim olduğu bir bölgede, step ve ova ekolojisinin birleştiği bir noktada bulunmaktadır.
 
 Gölün bitki örtüsü, mevsimsel değişimlere bağlı olarak çeşitlilik gösterir. İlkbahar aylarında, göl çevresindeki alanlar renkli çiçeklerle donanır. Sonbaharda ise, bu bölgede yaşayan bitkiler sararmaya başlar.
 
-Bu göl, su kuşları ve balıkların yaşam alanıdır. Göç mevsiminde, binlerce su kuşu bu bölgeden geçer. Gölde yaşayan balıklar, su kuşları için önemli bir besin kaynağıdır. 
+Bu göl, su kuşları ve balıkların yaşam alanıdır. Göç mevsiminde, binlerce su kuşu bu bölgeden geçer. Gölde yaşayan balıklar, su kuşları için önemli bir besin kaynağıdır.
 
 İlısu Baraj Gölü, ekolojik açıdan önemli bir bölgedir. Bu göl, birçok canlı türünün yaşamsal faaliyetlerini sürdürdüğü bir ekosistemdir. Gölün korunması, bu canlıların yaşamını sürdürmeleri için önemlidir.
 

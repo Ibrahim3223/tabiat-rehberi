@@ -28,7 +28,7 @@ wikidata_id: "Q31389832"
 
 # Yukarıyandaklı Tepesi
 
-Yukarıyandaklı Tepesi, Çankırı ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal noktalarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Yukarıyandaklı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor. Tepenin etrafındaki manzara, ziyaretçilere geniş bir panorama sunuyor.
+Yukarıyandaklı Tepesi, Çankırı ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal noktalarından biri olan bir tepe. Yukarıyandaklı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor. Tepenin etrafındaki manzara, ziyaretçilere geniş bir panorama sunuyor.
 
 ## Tarihçe
 

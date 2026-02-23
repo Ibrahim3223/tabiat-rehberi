@@ -28,7 +28,7 @@ wikidata_id: "Q31556652"
 
 # Şeyhik Tepesi
 
-Şeyhik Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde. Şeyhik Tepesi, doğa severlerin ve yürüyüş tutkunlarının keyif alacağı bir yer. Bu tepe, bölgenin coğrafi yapısını ve tarihini anlamak için önemli bir nokta.
+Şeyhik Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Şeyhik Tepesi, doğa severlerin ve yürüyüş tutkunlarının keyif alacağı bir yer. Bu tepe, bölgenin coğrafi yapısını ve tarihini anlamak için önemli bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q31556652"
 
 ## Coğrafya
 
-Şeyhik Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu tepe, bölgenin dağlık ve engebeli arazisini göstermekte. Şeyhik Tepesi, bölgenin iklimini etkileyen faktörlerden biri olan yüksekli ve eğim ile karakterize edilmekte. Bu tepe, bölgenin flora ve faunasını etkileyen faktörlerden biri olan su kaynaklarına da ev sahipliği yapmakta. Şeyhik Tepesi, bölgenin coğrafi yapısını ve iklimini anlamak için önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde. Şeyhik Tepesi, bölgenin coğrafi yapısını ve tarihini anlamak için önemli bir kaynak.
+Şeyhik Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu tepe, bölgenin dağlık ve engebeli arazisini göstermekte. Şeyhik Tepesi, bölgenin iklimini etkileyen faktörlerden biri olan yüksekli ve eğim ile karakterize edilmekte. Bu tepe, bölgenin flora ve faunasını etkileyen faktörlerden biri olan su kaynaklarına da ev sahipliği yapmakta. Şeyhik Tepesi, bölgenin coğrafi yapısını ve iklimini anlamak için önemli bir nokta. Şeyhik Tepesi, bölgenin coğrafi yapısını ve tarihini anlamak için önemli bir kaynak.
 
 ## Flora ve Fauna
 

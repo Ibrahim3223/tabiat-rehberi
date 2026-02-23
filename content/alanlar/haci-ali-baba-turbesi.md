@@ -1,7 +1,7 @@
 ---
 title: "Hacı Ali Baba Türbesi"
 date: "2026-01-10T07:05:04.398Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilis"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390877"
 
 # Hacı Ali Baba Türbesi
 
-Hacı Ali Baba Türbesi, Kilis ilinin merkezinde bulunan ve tarihi geçmişi ile dikkat çeken bir noktada yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok tarihi ve doğal güzelliği barındırır. Tarihi geçmişi yüzyıllar öncesine dayanır ve Türk kültürünün önemli parçalarından biri olarak kabul edilir. Ziyaretçiler, hem tarihi hem de doğal güzellikleri keşfetme fırsatı bulur.
+Hacı Ali Baba Türbesi, Kilis ilinin merkezinde bulunan ve tarihi geçmişi ile dikkat çeken bir noktada yer alır. Tarihi geçmişi yüzyıllar öncesine dayanır ve Türk kültürünün önemli parçalarından biri olarak kabul edilir. Ziyaretçiler, hem tarihi hem de doğal güzellikleri keşfetme fırsatı bulur.
 
 ## Tarihçe
 

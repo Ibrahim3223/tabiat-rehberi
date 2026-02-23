@@ -28,7 +28,7 @@ wikidata_id: "Q34822321"
 
 # Yılan Tepesi
 
-Yılan Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan. Yılan Tepesi, Mardin'in merkez ilçesine bağlı bir tepe ve aynı zamanda bir doğa harikası. Bu tepe, Mardin'in tarihi ve kültürel mirasının önemli bir parçası. Yılan Tepesi'ni ziyaret edenler, Mardin'in tarihi ve doğal güzelliklerini keşfetme fırsatı buluyor.
+Yılan Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Yılan Tepesi, Mardin'in merkez ilçesine bağlı bir tepe ve aynı zamanda bir doğa harikası. Bu tepe, Mardin'in tarihi ve kültürel mirasının önemli bir parçası. Yılan Tepesi'ni ziyaret edenler, Mardin'in tarihi ve doğal güzelliklerini keşfetme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yılan Tepesi'nin tarihi geçmişi, Mardin'in tarihi ile iç içe geçmiş. Bu t
 
 ## Coğrafya
 
-Yılan Tepesi, Mardin'in coğrafi yapısının önemli bir parçası. Bu tepe, Mardin'in merkez ilçesine bağlı ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Yılan Tepesi, Mardin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Bu tepe, çeşitli bitki türleri ve zengin fauna ile örtülü. Yılan Tepesi, Mardin'in iklimini yansıtan bir coğrafi yapıya sahip. Bu tepe, ziyaretçilerini Mardin'in doğal güzelliklerine davet ediyor. Yılan Tepesi'nin coğrafi yapısı, Mardin'in genel coğrafi yapısına benzer. Bu tepe, Mardin'in coğrafi güzelliklerini keşfetmek isteyenler için önemli bir nokta.
+Yılan Tepesi, Mardin'in coğrafi yapısının önemli bir parçası. Yılan Tepesi, Mardin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Bu tepe, çeşitli bitki türleri ve zengin fauna ile örtülü. Yılan Tepesi, Mardin'in iklimini yansıtan bir coğrafi yapıya sahip. Bu tepe, ziyaretçilerini Mardin'in doğal güzelliklerine davet ediyor. Yılan Tepesi'nin coğrafi yapısı, Mardin'in genel coğrafi yapısına benzer. Bu tepe, Mardin'in coğrafi güzelliklerini keşfetmek isteyenler için önemli bir nokta.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Yılan Tepesi'ni ziyaret etmek, Mardin'in tarihi ve doğal güzelliklerini keşf
 ## İlginç Bilgiler
 
 - Yılan Tepesi, Mardin'in en önemli tarihi ve doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Yılan Tepesi, Mardin'in coğrafi yapısının önemli bir parçası.
 - Bu tepe, çeşitli bitki türleri ve zengin fauna ile örtülü.
 - Yılan Tepesi, Mardin'in ekolojik dengesini yansıtan bir flora ve fauna yapısına sahip.

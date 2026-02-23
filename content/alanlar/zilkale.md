@@ -30,7 +30,7 @@ wikidata_id: "Q8071903"
 
 # Zilkale
 
-Zilkale, Karadeniz Bölgesi'nin Rize ilinin Çamlıhemşin ilçesinde bulunan ve yaklaşık 140 hektarlık bir yeşil alan sunan bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş ve ferah bir mekan sunar. Zilkale, doğal güzelliği ve temiz ortamı ile ziyaretçilerini etkileyen bir yerdir. Burada, denizin serin sularına girerek, güneşin altında dinlenebilir ve doğanın güzelliklerini keşfedebilirsiniz.
+Zilkale, Karadeniz Bölgesi'nin Rize ilinin Çamlıhemşin ilçesinde bulunan ve yaklaşık 140 hektarlık bir yeşil alan sunan bir plajdır. Zilkale, doğal güzelliği ve temiz ortamı ile ziyaretçilerini etkileyen bir yerdir. Burada, denizin serin sularına girerek, güneşin altında dinlenebilir ve doğanın güzelliklerini keşfedebilirsiniz.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Zilkale'ye ziyaret için en uygun zaman, bahar ve yaz aylarıdır. Bu dönemde, 
 ## İlginç Bilgiler
 
 - Zilkale, 140 hektarlık bir yeşil alan sunar.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Zilkale, doğal güzelliği ve temiz ortamı ile ziyaretçilerini etkileyen bir yerdir.
 - Bu bölgede, çeşitli bitki türleri ve ağaçlar bulunur.
 - Zilkale'de, ayrıca çeşitli hayvan türleri de bulunur.

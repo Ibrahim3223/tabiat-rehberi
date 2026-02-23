@@ -29,7 +29,7 @@ wikidata_id: "Q31391288"
 
 # Russell's Top
 
-Russell's Top, İç Anadolu Bölgesi'nin sakin ve doğal güzellikleriyle dolu bir bölgesinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alan olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada yapılacak bir gezi, doğa ile iç içe olmayı sağlayan bir deneyim sunuyor. Russell's Top, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirilen her an, unutulmaz bir  oluyor.
+Russell's Top, İç Anadolu Bölgesi'nin sakin ve doğal güzellikleriyle dolu bir bölgesinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alan olarak karşımıza çıkıyor. Russell's Top, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirilen her an, unutulmaz bir  oluyor.
 
 ## Tarihçe
 

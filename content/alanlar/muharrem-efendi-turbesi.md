@@ -1,7 +1,7 @@
 ---
 title: "Muharrem Efendi Türbesi"
 date: "2026-01-10T07:08:36.765Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390954"
 
 # Muharrem Efendi Türbesi
 
-Muharrem Efendi Türbesi, Karadeniz Bölgesi'nin Tokat ilinin Zile ilçesinde yer alan, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tarihî bir geçmişi olan bu bölge, aynı zamanda eşsiz bir plaj deneyimi sunuyor. Gürül gürül akan sular, mis kokulu çiçekler ve rengârenk kuşlar, bu bölgeyi ziyaret etmek için geçerli nedenler.
+Muharrem Efendi Türbesi, Karadeniz Bölgesi'nin Tokat ilinin Zile ilçesinde yer alan, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan. Tarihî bir geçmişi olan bu bölge, aynı zamanda eşsiz bir plaj deneyimi sunuyor. Gürül gürül akan sular, mis kokulu çiçekler ve rengârenk kuşlar, bu bölgeyi ziyaret etmek için geçerli nedenler.
 
 ## Tarihçe
 

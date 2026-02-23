@@ -1,7 +1,7 @@
 ---
 title: "Fatih Camii"
 date: "2026-01-09T22:09:51.990Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q756189"
 
 # Fatih Camii
 
-Fatih Camii, İstanbul'un en önemli tarihi ve dini yapılardan biri olarak kabul edilir. 140 hektarlık bir alanda bulunan camii, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi ile dikkat çeken bu mekan, yüzyıllar boyunca birçok önemli olaya tanıklık etmiş ve İstanbul'un kültürel mirasının önemli bir parçası olarak kabul edilir. Camii, mimari özellikleri ile de dikkat çekmekte ve ziyaretçilerini tarihi bir atmosfere davet etmektedir.
+Fatih Camii, İstanbul'un en önemli tarihi ve dini yapılardan biri olarak kabul edilir. Tarihi geçmişi ile dikkat çeken bu mekan, yüzyıllar boyunca birçok önemli olaya tanıklık etmiş ve İstanbul'un kültürel mirasının önemli bir parçası olarak kabul edilir. Camii, mimari özellikleri ile de dikkat çekmekte ve ziyaretçilerini tarihi bir atmosfere davet etmektedir.
 
 ## Tarihçe
 

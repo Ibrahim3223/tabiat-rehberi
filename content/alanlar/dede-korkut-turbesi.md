@@ -1,7 +1,7 @@
 ---
 title: "Dede Korkut Türbesi"
 date: "2026-01-10T07:31:26.803Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bayburt"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391307"
 
 # Dede Korkut Türbesi
 
-Dede Korkut Türbesi, Bayburt'un merkezinde yer alan tarihi bir mekan olarak dikkat çekmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yer almaktadır. Bu mekan, hem tarihi hem de doğal güzelliklerin birleştiği bir noktadır. Dede Korkut Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat etmektedir. Burada, geçmişin izlerini taşıyan duvarlar ve tarihi yapılar bulunmaktadır. Dede Korkut Türbesi, Bayburt'un önemli bir turizm merkezi olarak bilinmektedir.
+Dede Korkut Türbesi, Bayburt'un merkezinde yer alan tarihi bir mekan olarak dikkat çekmektedir. Bu mekan, hem tarihi hem de doğal güzelliklerin birleştiği bir noktadır. Dede Korkut Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat etmektedir. Burada, geçmişin izlerini taşıyan duvarlar ve tarihi yapılar bulunmaktadır. Dede Korkut Türbesi, Bayburt'un önemli bir turizm merkezi olarak bilinmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dede Korkut Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu mekan, yüzy�
 
 ## Coğrafya
 
-Dede Korkut Türbesi, Bayburt'un merkezinde yer alan bir mekan olarak coğrafi olarak önemli bir konuma sahiptir. Bu mekan, Karadeniz Bölgesi'nin doğal güzelliklerinin birleştiği bir noktada yer almaktadır. Dede Korkut Türbesi, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamakta olup, şehrin kalbinde yer almaktadır. Bu mekan, hem tarihi hem de doğal güzelliklerin birleştiği bir noktadır. Dede Korkut Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat etmektedir. Burada, geçmişin izlerini taşıyan duvarlar ve tarihi yapılar bulunmaktadır. Dede Korkut Türbesi, Bayburt'un önemli bir turizm merkezi olarak bilinmektedir. Bu mekan, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunmaktadır. Dede Korkut Türbesi, ziyaretçilerine zengin bir coğrafi deneyim sunmaktadır.
+Dede Korkut Türbesi, Bayburt'un merkezinde yer alan bir mekan olarak coğrafi olarak önemli bir konuma sahiptir. Bu mekan, Karadeniz Bölgesi'nin doğal güzelliklerinin birleştiği bir noktada yer almaktadır. Bu mekan, hem tarihi hem de doğal güzelliklerin birleştiği bir noktadır. Dede Korkut Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat etmektedir. Burada, geçmişin izlerini taşıyan duvarlar ve tarihi yapılar bulunmaktadır. Dede Korkut Türbesi, Bayburt'un önemli bir turizm merkezi olarak bilinmektedir. Bu mekan, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunmaktadır. Dede Korkut Türbesi, ziyaretçilerine zengin bir coğrafi deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31532810"
 
 # Akoluk Tepesi
 
-Akoluk Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alan bir doğal güzelliğimizdir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, ziyaretçilerini güneşin batışını izlemeye, doğanın güzelliğini keşfetmeye ve çevrenin zengin tarihini öğrenmeye davet eder. Akoluk Tepesi, hem doğal güzelliği hem de coğrafi konumuyla dikkat çekicidir. Ziyaretçiler, bu tepeye tırmanarak Akdeniz'in muhteşem manzarasını izleyebilirler.
+Akoluk Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alan bir doğal güzelliğimizdir. Bu tepe, ziyaretçilerini güneşin batışını izlemeye, doğanın güzelliğini keşfetmeye ve çevrenin zengin tarihini öğrenmeye davet eder. Akoluk Tepesi, hem doğal güzelliği hem de coğrafi konumuyla dikkat çekicidir. Ziyaretçiler, bu tepeye tırmanarak Akdeniz'in muhteşem manzarasını izleyebilirler.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Akoluk Tepesi'ni ziyaret etmek, ziyaretçilere doğanın güzelliğini keşfetme
 ## İlginç Bilgiler
 
 - Akoluk Tepesi, 140 hektarlık bir alanı kaplar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı barındırır.
+
 - Akoluk Tepesi, Akdeniz Bölgesi'nde yer alır.
 - Bu tepe, çeşitli bitki türlerine ev sahipliği yapar.
 - Akoluk Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar.

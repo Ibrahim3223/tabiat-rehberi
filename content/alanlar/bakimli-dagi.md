@@ -32,7 +32,7 @@ Tokat'ın kuzeyinde, yeşilin her tonunu bir araya getiren Bakımlı Dağı, ziy
 
 ## Tarihçe
 
-Tokat bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. İnsanlık tarihinin önemli uygarlıklarından Hitit, Roma ve Osmanlı gibi medeniyetler bu topraklarda hüküm sürmüşlerdir. "Bakımlı Dağı" da bu zengin tarihsel mirasın bir parçasıdır.
+Tokat bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. İnsanlık tarihinin önemli uygarlıklarından Hitit, Roma ve Osmanlı gibi medeniyetler bu topraklarda hüküm sürmüşlerdir. "Bakımlı Dağı" da bu zengin tarihsel mirasın bir parçasıdır.
 
 Türkiye'nin doğal alanları, tarih boyunca insanların yaşamlarını sürdürmesi için önemli bir kaynak teşkil etmiştir. Dağlar, ormanlar ve yaylalar, insanların yerleşim, tarım, hayvancılık ve ticaret faaliyetleri için kritik öneme sahip olmuştur. Tokat bölgesinde de bu doğal alanlar, insanların yaşamını sürdürmeleri için hayati bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgede insanların geçim kaynaklarını oluşturmuştur.
 
@@ -50,11 +50,11 @@ Bakımlı Dağı, Tokat ilinin su kaynakları ve ekosistem bağlantıları açı
 
 ## Flora ve Fauna
 
-Bakımlı Dağı, nemli iklimin ve gür ormanların hakim olduğu bir bölge olan Tokat'ta yer alır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çekicidir. 
+Bakımlı Dağı, nemli iklimin ve gür ormanların hakim olduğu bir bölge olan Tokat'ta yer alır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çekicidir.
 
-Bitki örtüsünü oluşturan geniş yapraklı ağaçlar ve iğne yapraklı türler, ilkbaharın gelmesiyle birlikte renkli çiçeklerle donanır. Sonbaharda, ağaçların yapraklarının renk değiştirmesiyle birlikte, doğa bir sanat eserine dönüşür. 
+Bitki örtüsünü oluşturan geniş yapraklı ağaçlar ve iğne yapraklı türler, ilkbaharın gelmesiyle birlikte renkli çiçeklerle donanır. Sonbaharda, ağaçların yapraklarının renk değiştirmesiyle birlikte, doğa bir sanat eserine dönüşür.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağın yüksek kesimlerinde, alpin flora ve fauna çeşitliliği hakimdir. Bu ekosistemin önemli bir bileşeni olan dağ keçileri, kayalık alanlarda yaşamlarını sürdürürken, çeşitli kuş türleri göç yolları üzerinde bu bölgeyi ziyaret eder. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağın yüksek kesimlerinde, alpin flora ve fauna çeşitliliği hakimdir. Bu ekosistemin önemli bir bileşeni olan dağ keçileri, kayalık alanlarda yaşamlarını sürdürürken, çeşitli kuş türleri göç yolları üzerinde bu bölgeyi ziyaret eder.
 
 Bakımlı Dağı, yüksek biyoçeşitliliğe sahip bir alan olarak ekolojik değerini korur. Bu bölge, yerel ve göçmen türler için önemli bir yaşam alanı olarak görev yapar. Koruma durumu, bu doğal zenginliklerin sürdürülmesi için önemli bir öncelik oluşturur.
 

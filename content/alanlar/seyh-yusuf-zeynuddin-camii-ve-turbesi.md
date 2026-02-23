@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Yusuf Zeynüddin Camii ve Türbesi"
 date: "2026-01-10T06:41:10.738Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q132134439"
 
 # Şeyh Yusuf Zeynüddin Camii ve Türbesi
 
-Şeyh Yusuf Zeynüddin Camii ve Türbesi, Karadeniz Bölgesi'nde bulunan tarihi bir dini yapıdır. Bu önemli mekan, Samsun'un Tekkeköy ilçesinde yer alır ve bölgenin önemli tarihi ve dini değerlerini barındırır. 140 hektarlık bir alan üzerinde bulunan cami ve türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem dinlenme hem de tarihi ve kültürel zenginlikleri keşfetme fırsatı sunar.
+Şeyh Yusuf Zeynüddin Camii ve Türbesi, Karadeniz Bölgesi'nde bulunan tarihi bir dini yapıdır. Bu önemli mekan, Samsun'un Tekkeköy ilçesinde yer alır ve bölgenin önemli tarihi ve dini değerlerini barındırır. Bu geniş alan, ziyaretçilere hem dinlenme hem de tarihi ve kültürel zenginlikleri keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q132134439"
 
 ## Coğrafya
 
-Şeyh Yusuf Zeynüddin Camii ve Türbesi, Karadeniz Bölgesi'nin Samsun ilinin Tekkeköy ilçesinde yer alır. Bu bölge, Karadeniz kıyı şeridinin önemli bir bölümünü oluşturur ve doğal güzellikleri ile tanınır. Cami ve türbe, 140 hektarlık bir alan üzerinde kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem dinlenme hem de tarihi ve kültürel zenginlikleri keşfetme fırsatı sunar. Bölgenin iklimi, Karadeniz ikliminin özellikleri gösterir ve genellikle ılıman ve yağışlı bir hava hakimdir. Cami ve türbenin çevresi, yeşillik alanlar ve tarihi yapılarla çevrilidir ve ziyaretçilere geniş bir görüş açısı sunar.
+Şeyh Yusuf Zeynüddin Camii ve Türbesi, Karadeniz Bölgesi'nin Samsun ilinin Tekkeköy ilçesinde yer alır. Bu bölge, Karadeniz kıyı şeridinin önemli bir bölümünü oluşturur ve doğal güzellikleri ile tanınır. Bu geniş alan, ziyaretçilere hem dinlenme hem de tarihi ve kültürel zenginlikleri keşfetme fırsatı sunar. Bölgenin iklimi, Karadeniz ikliminin özellikleri gösterir ve genellikle ılıman ve yağışlı bir hava hakimdir. Cami ve türbenin çevresi, yeşillik alanlar ve tarihi yapılarla çevrilidir ve ziyaretçilere geniş bir görüş açısı sunar.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ wikidata_id: "Q132134439"
 - Şeyh Yusuf Zeynüddin Camii ve Türbesi, Karadeniz Bölgesi'nin önemli dini yapılarından biridir.
 - Cami ve türbe, 140 hektarlık bir alan üzerinde kurulmuştur.
 - Bölgenin flora ve faunası, mevsimsel değişimlere göre farklılık gösterir.
-- Cami ve türbe, históri ve mimari açıdan önemli bir yapıdır.
+- Cami ve türbe, tarihi ve mimari açıdan önemli bir yapıdır.
 - Ziyaretçiler, cami ve türbenin tarihi ve mimari özelliklerini inceleyebilir.

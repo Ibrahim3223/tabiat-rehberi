@@ -30,7 +30,7 @@ wikidata_id: "Q135582799"
 
 # Keşiş Kümbeti
 
-Keşiş Kümbeti, Doğu Anadolu Bölgesi'nin Bitlis ilinin Ahlat ilçesinde yer alan bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu bölge, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Tarihi ve coğrafi konumu itibariyle ziyaretçilere geniş bir deneyim sunuyor.
+Keşiş Kümbeti, Doğu Anadolu Bölgesi'nin Bitlis ilinin Ahlat ilçesinde yer alan bir plajdır. Bu bölge, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Tarihi ve coğrafi konumu itibariyle ziyaretçilere geniş bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Keşiş Kümbeti, coğrafi konumu itibariyle oldukça özel bir bölgede yer al�
 
 ## Flora ve Fauna
 
-Keşiş Kümbeti, flora ve fauna açısından oldukça zengin bir bölgedir. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında, bölgeye özgü çiçekler açarak manzarayı renklendiriyor. Kış aylarında ise, karla kaplanan dağlar ve ovalar, ziyaretçilere farklı bir güzellik sunuyor. Bu bölge, ekolojik dengesi açısından da önemli bir rol oynuyor. Ziyaretçiler, bu bölgede doğanın güzelliği ile baş başa kalabiliyor ve çeşitli canlılarla karşılaşabiliyor.
+ Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında, bölgeye özgü çiçekler açarak manzarayı renklendiriyor. Kış aylarında ise, karla kaplanan dağlar ve ovalar, ziyaretçilere farklı bir güzellik sunuyor. Bu bölge, ekolojik dengesi açısından da önemli bir rol oynuyor. Ziyaretçiler, bu bölgede doğanın güzelliği ile baş başa kalabiliyor ve çeşitli canlılarla karşılaşabiliyor.
 
 ## Ziyaret Bilgileri
 
@@ -53,5 +53,5 @@ Keşiş Kümbeti'ni ziyaret etmek, ziyaretçilere benzersiz bir deneyim sunuyor.
 - Keşiş Kümbeti, 140 hektarlık bir alana yayılıyor.
 - Bu bölge, Doğu Anadolu Bölgesi'nin Bitlis ilinin Ahlat ilçesinde yer alıyor.
 - Keşiş Kümbeti, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor.
-- Bölge, flora ve fauna açısından oldukça zengin.
+
 - Ziyaretçiler, bu bölgede doğayla iç içe vakit geçirebiliyor.

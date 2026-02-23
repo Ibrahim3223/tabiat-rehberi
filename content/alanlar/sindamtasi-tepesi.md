@@ -28,7 +28,7 @@ wikidata_id: "Q31387991"
 
 # Sindamtaşı Tepesi
 
-Sindamtaşı Tepesi, Tunceli ilinin sınırları içerisinde yer alan ve bölgeye özgü coğrafi güzellikteki bir tepe. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu alan, ziyaretçiler için hem doğayı keşfetme hem de bölge hakkında bilgi edinme fırsatı sunuyor. Sindamtaşı Tepesi, özellikle doğa severlerin ilgisini çeken bir nokta olarak biliniyor. Ziyaretçiler, bu tepeye çıkarak çevreyi keşfedebilir, doğanın güzelliğini yakından görebilir.
+Sindamtaşı Tepesi, Tunceli ilinin sınırları içerisinde yer alan ve bölgeye özgü coğrafi güzellikteki bir tepe. Bu alan, ziyaretçiler için hem doğayı keşfetme hem de bölge hakkında bilgi edinme fırsatı sunuyor. Sindamtaşı Tepesi, özellikle doğa severlerin ilgisini çeken bir nokta olarak biliniyor. Ziyaretçiler, bu tepeye çıkarak çevreyi keşfedebilir, doğanın güzelliğini yakından görebilir.
 
 ## Tarihçe
 

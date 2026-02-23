@@ -28,7 +28,7 @@ wikidata_id: "Q35723858"
 
 # Alaçam Tepesi
 
-Alaçam Tepesi, Kastamonu'nun Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan ve 200 futbol sahası büyüklüğünde olan bir yeşil alan olarak ziyaretçilerini karşılar. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar. Alanın etrafında çeşitli bitki türleri ve zengin fauna bulunur. Tepenin manzarası, özellikle gün batımında ziyaretçileri büyüler.
+Alaçam Tepesi, Kastamonu'nun Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar. Alanın etrafında çeşitli bitki türleri ve zengin fauna bulunur. Tepenin manzarası, özellikle gün batımında ziyaretçileri büyüler.
 
 ## Tarihçe
 

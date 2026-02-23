@@ -30,7 +30,7 @@ wikidata_id: "Q668641"
 
 # Mısır Çarşısı
 
-Mısır Çarşısı, İstanbul'un kalbinde yer alan tarihi bir çarşıdır. Fatih ilçesinde bulunan bu çarşı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Çarşının tarihi geçmişi, yüzyıllar boyunca ticaret ve kültür merkezi olarak hizmet vermesiyle dikkat çeker. Burada çeşitli ürünlerin satıldığı dükkanlar, restoranlar ve kahveler bulunur. Mısır Çarşısı, sadece alışveriş yapmak için değil, aynı zamanda tarihi atmosferi deneyimlemek için de ziyaret edilebilir.
+Mısır Çarşısı, İstanbul'un kalbinde yer alan tarihi bir çarşıdır. Çarşının tarihi geçmişi, yüzyıllar boyunca ticaret ve kültür merkezi olarak hizmet vermesiyle dikkat çeker. Burada çeşitli ürünlerin satıldığı dükkanlar, restoranlar ve kahveler bulunur. Mısır Çarşısı, sadece alışveriş yapmak için değil, aynı zamanda tarihi atmosferi deneyimlemek için de ziyaret edilebilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mısır Çarşısı'nın tarihi geçmişi, yüzyıllar boyunca ticaret ve kült�
 
 ## Coğrafya
 
-Mısır Çarşısı, İstanbul'un Fatih ilçesinde yer alır. Çarşı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Çarşının coğrafi konumu, Marmara Bölgesi'nin merkezi bölümündedir. Çarşı, yüksek bir konumda yer alır. Mısır Çarşısı'nın etrafında, tarihi binalar ve camiler bulunur. Çarşı, İstanbul'un other önemli turizm merkezlerinden biridir. Çarşının coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdir. Çarşı, İstanbul'un kalbinde yer alır ve birçok önemli yere yakındır.
+Mısır Çarşısı, İstanbul'un Fatih ilçesinde yer alır. Çarşının coğrafi konumu, Marmara Bölgesi'nin merkezi bölümündedir. Çarşı, yüksek bir konumda yer alır. Mısır Çarşısı'nın etrafında, tarihi binalar ve camiler bulunur. Çarşı, İstanbul'un other önemli turizm merkezlerinden biridir. Çarşının coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir yerdir. Çarşı, İstanbul'un kalbinde yer alır ve birçok önemli yere yakındır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Mısır Çarşısı, yılın her döneminde ziyaret edilebilir. Ancak, ilkbahar 
 
 ## İlginç Bilgiler
 
-- Mısır Çarşısı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Çarşı, yüzyıllar boyunca ticaret ve kültür merkezi olarak hizmet vermiştir.
 - Mısır Çarşısı, Fatih Sultan Mehmet'in İstanbul'u fethinden sonra kurulmuştur.
 - Çarşı, birçok önemli olaya tanıklık etmiştir.

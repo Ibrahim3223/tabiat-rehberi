@@ -28,7 +28,7 @@ wikidata_id: "Q31553458"
 
 # Bağlarbaşı Tepesi
 
-Bağlarbaşı Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olarak bilinir. Batman şehrinde yer alan bu tepe, yaklaşık 140 hektarlık alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Bağlarbaşı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, dinlenme ve doğayı seyretmek için ideal bir noktadır. Tepenin eteklerinde ve zirvesinde çeşitli bitki türleri ve ağaçlar bulunur. Bu tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
+Bağlarbaşı Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olarak bilinir. Bağlarbaşı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, dinlenme ve doğayı seyretmek için ideal bir noktadır. Tepenin eteklerinde ve zirvesinde çeşitli bitki türleri ve ağaçlar bulunur. Bu tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
 
 ## Tarihçe
 

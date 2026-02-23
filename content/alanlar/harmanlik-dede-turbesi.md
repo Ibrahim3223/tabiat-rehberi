@@ -1,7 +1,7 @@
 ---
 title: "Harmanlık Dede Türbesi"
 date: "2026-01-10T04:56:11.381Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391516"
 
 # Harmanlık Dede Türbesi
 
-Gemlik'in güzide plajlarından biri olan Harmanlık Dede Türbesi, Marmara Bölgesi'nin en çok tercih edilen noktalarından biri olarak dikkat çekmektedir. Bu güzel plaj, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Harmanlık Dede Türbesi, hem doğa severler hem de deniz tutkunları için bir cennet olarak kabul edilebilir. Bu regionun doğal güzelliği, ziyaretçilerini büyülemektedir. Harmanlık Dede Türbesi, Marmara Denizi'nin masmavi suları ile çevrilidir ve bu sayede ziyaretçilere eşsiz bir manzara sunmaktadır.
+Gemlik'in güzide plajlarından biri olan Harmanlık Dede Türbesi, Marmara Bölgesi'nin en çok tercih edilen noktalarından biri olarak dikkat çekmektedir. Harmanlık Dede Türbesi, hem doğa severler hem de deniz tutkunları için bir cennet olarak kabul edilebilir. Bu regionun doğal güzelliği, ziyaretçilerini büyülemektedir. Harmanlık Dede Türbesi, Marmara Denizi'nin masmavi suları ile çevrilidir ve bu sayede ziyaretçilere eşsiz bir manzara sunmaktadır.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Harmanlık Dede Türbesi'nin tarihi geçmişine baktığımızda, bu regionun y�
 
 ## Coğrafya
 
-Harmanlık Dede Türbesi, coğrafi olarak Marmara Bölgesi'nin en güzide noktalarından biridir. Bu bölge, Gemlik ilçesi sınırları içerisinde yer almaktadır. Harmanlık Dede Türbesi, Marmara Denizi'nin kıyısında kurulmuştur ve bu sayede ziyaretçilerine eşsiz bir manzara sunmaktadır. Bölge, 140 hektarlık bir alan üzerine kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Harmanlık Dede Türbesi'nin coğrafi konumu, ziyaretçilerine birçok olanak sunmaktadır. Bu bölge, hem deniz hem de doğa severler için ideal bir noktadır. Harmanlık Dede Türbesi, Marmara Bölgesi'nin en çok tercih edilen noktalarından biri olarak dikkat çekmektedir. Bu bölge, coğrafi olarak birçok önemli noktaya yakındır ve bu nedenle ulaşımı oldukça kolaydır. Harmanlık Dede Türbesi, ziyaretçilerine birçok olanak sunmaktadır. Bu bölge, hem tarihi hem de kültürel bir deneyim sunmaktadır.
+Harmanlık Dede Türbesi, coğrafi olarak Marmara Bölgesi'nin en güzide noktalarından biridir. Bu bölge, Gemlik ilçesi sınırları içerisinde yer almaktadır. Harmanlık Dede Türbesi, Marmara Denizi'nin kıyısında kurulmuştur ve bu sayede ziyaretçilerine eşsiz bir manzara sunmaktadır. Harmanlık Dede Türbesi'nin coğrafi konumu, ziyaretçilerine birçok olanak sunmaktadır. Bu bölge, hem deniz hem de doğa severler için ideal bir noktadır. Harmanlık Dede Türbesi, Marmara Bölgesi'nin en çok tercih edilen noktalarından biri olarak dikkat çekmektedir. Bu bölge, coğrafi olarak birçok önemli noktaya yakındır ve bu nedenle ulaşımı oldukça kolaydır. Harmanlık Dede Türbesi, ziyaretçilerine birçok olanak sunmaktadır. Bu bölge, hem tarihi hem de kültürel bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
-Harmanlık Dede Türbesi, flora ve fauna açısından oldukça zengindir. Bu bölge, çeşitli bitki türleri ile ziyaretçilerini büyülemektedir. Harmanlık Dede Türbesi, Marmara Denizi'nin kıyısında kurulmuş ve bu sayede ziyaretçilerine eşsiz bir manzara sunmaktadır. Bu bölge, birçok canlıya ev sahipliği yapmaktadır. Harmanlık Dede Türbesi, flora ve fauna açısından oldukça önemli bir noktadır. Bu bölge, birçok bitki ve hayvan türüne ev sahipliği yapmaktadır. Harmanlık Dede Türbesi, ziyaretçilerine birçok olanak sunmaktadır. Bu bölge, hem doğa severler hem de deniz tutkunları için ideal bir noktadır. Harmanlık Dede Türbesi, flora ve fauna açısından oldukça zengindir ve bu nedenle birçok ziyaretçi tarafından tercih edilmektedir.
+ Bu bölge, çeşitli bitki türleri ile ziyaretçilerini büyülemektedir. Harmanlık Dede Türbesi, Marmara Denizi'nin kıyısında kurulmuş ve bu sayede ziyaretçilerine eşsiz bir manzara sunmaktadır. Bu bölge, birçok canlıya ev sahipliği yapmaktadır. Harmanlık Dede Türbesi, flora ve fauna açısından oldukça önemli bir noktadır. Bu bölge, birçok bitki ve hayvan türüne ev sahipliği yapmaktadır. Harmanlık Dede Türbesi, ziyaretçilerine birçok olanak sunmaktadır. Bu bölge, hem doğa severler hem de deniz tutkunları için ideal bir noktadır.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Harmanlık Dede Türbesi, ziyaretçilerine birçok olanak sunmaktadır. Bu bölg
 ## İlginç Bilgiler
 
 - Harmanlık Dede Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır.
+
 - Harmanlık Dede Türbesi, Marmara Denizi'nin kıyısında kurulmuştur.
 - Bu bölge, birçok canlıya ev sahipliği yapmaktadır.
-- Harmanlık Dede Türbesi, flora ve fauna açısından oldukça zengindir.
+

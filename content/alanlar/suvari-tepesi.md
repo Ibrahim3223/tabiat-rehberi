@@ -28,7 +28,7 @@ wikidata_id: "Q34811370"
 
 # Süvarı Tepesi
 
-Süvarı Tepesi, Hakkari'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Ziyaretçiler, bu tepenin üstünden muhteşem manzaralara tanık olabiliyorlar. Süvarı Tepesi, yerli ve yabancı turistlerin ilgisini çekerek, bir gezi noktası olarak ön plana çıkıyor.
+Süvarı Tepesi, Hakkari'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Ziyaretçiler, bu tepenin üstünden muhteşem manzaralara tanık olabiliyorlar. Süvarı Tepesi, yerli ve yabancı turistlerin ilgisini çekerek, bir gezi noktası olarak ön plana çıkıyor.
 
 ## Tarihçe
 

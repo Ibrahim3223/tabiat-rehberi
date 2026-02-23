@@ -1,7 +1,7 @@
 ---
 title: "Pir Ahmet Bey Türbesi"
 date: "2026-01-10T05:21:04.184Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391750"
 
 # Pir Ahmet Bey Türbesi
 
-Pir Ahmet Bey Türbesi, Tokat ilinin merkezi bir bölgesinde, Karadeniz Bölgesi'nin kalbinde yer alır. 140 hektarlık bir alan üzerinde konumlanan bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu türbe, Tokat'ın önemli dini merkezlerinden biri olarak bilinir ve her yıl çok sayıda ziyaretçi çekmektedir. Tarihi ve doğal güzelliklerinin birleştiği bu noktada, ziyaretçiler hem dinî hem de kültürel bir deneyim yaşayabilirler. Tokat'ın tarihi dokusunu ve Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Pir Ahmet Bey Türbesi, aynı zamanda bölgenin önemli bir turizm merkezidir.
+Pir Ahmet Bey Türbesi, Tokat ilinin merkezi bir bölgesinde, Karadeniz Bölgesi'nin kalbinde yer alır. Bu türbe, Tokat'ın önemli dini merkezlerinden biri olarak bilinir ve her yıl çok sayıda ziyaretçi çekmektedir. Tarihi ve doğal güzelliklerinin birleştiği bu noktada, ziyaretçiler hem dinî hem de kültürel bir deneyim yaşayabilirler. Tokat'ın tarihi dokusunu ve Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Pir Ahmet Bey Türbesi, aynı zamanda bölgenin önemli bir turizm merkezidir.
 
 ## Tarihçe
 

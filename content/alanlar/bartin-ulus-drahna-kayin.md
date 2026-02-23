@@ -22,7 +22,7 @@ wikidata_id: "Q108227274"
 
 # Bartın-Ulus-Drahna Kayin
 
-Bartın-Ulus-Drahna Kayin milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severleri kendisine çekiyor. Bu milli park, hem yerli hem de yabancı turistlerin ziyaret ettiği önemli bir destinasyon. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkün. Doğa yürüyüşleri, piknik alanları ve çeşitli flora ve fauna türleriyle ziyaretçilerini büyülüyor. Bu milli parkın etrafı, yüksek dağlar ve derin vadilerle çevrili ve bu bölgenin coğrafyası, birçok farklı jenis bitki ve hayvanın yaşamasına olanak sağlıyor.
+Bartın-Ulus-Drahna Kayin milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturuyor. Bu milli park, hem yerli hem de yabancı turistlerin ziyaret ettiği önemli bir destinasyon. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkün. Doğa yürüyüşleri, piknik alanları ve çeşitli flora ve fauna türleriyle ziyaretçilerini büyülüyor. Bu milli parkın etrafı, yüksek dağlar ve derin vadilerle çevrili ve bu bölgenin coğrafyası, birçok farklı jenis bitki ve hayvanın yaşamasına olanak sağlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bartın-Ulus-Drahna Kayin milli parkı, Karadeniz Bölgesi'nin tarihi geçmişi�
 
 ## Coğrafya
 
-Bartın-Ulus-Drahna Kayin milli parkı, Karadeniz Bölgesi'nin coğrafyası içinde önemli bir yere sahip. Bu bölgenin coğrafyası, yüksek dağlar, derin vadiler ve geniş ormanlardan oluşuyor. Bu milli park, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgenin coğrafyası, birçok farklı jenis bitki ve hayvanın yaşamasına olanak sağlıyor. Bu bölgenin iklimi, Karadeniz iklimi olarak bilinen ve bu iklim, bu bölgenin coğrafyasını ve doğasını etkileyen önemli bir faktör. Bu milli parkın etrafı, birçok farklı jenis bitki ve hayvanla çevrili ve bu bölgenin coğrafyası, birçok farklı jenis bitki ve hayvanın yaşamasına olanak sağlıyor. Bu milli park, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturuyor ve bu bölgenin coğrafyası, birçok farklı jenis bitki ve hayvanın yaşamasına olanak sağlıyor.
+Bartın-Ulus-Drahna Kayin milli parkı, Karadeniz Bölgesi'nin coğrafyası içinde önemli bir yere sahip. Bu bölgenin coğrafyası, yüksek dağlar, derin vadiler ve geniş ormanlardan oluşuyor. Bu bölgenin iklimi, Karadeniz iklimi olarak bilinen ve bu iklim, bu bölgenin coğrafyasını ve doğasını etkileyen önemli bir faktör. Bu milli parkın etrafı, birçok farklı jenis bitki ve hayvanla çevrili ve bu bölgenin coğrafyası, birçok farklı jenis bitki ve hayvanın yaşamasına olanak sağlıyor. Bu milli park, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturuyor ve bu bölgenin coğrafyası, birçok farklı jenis bitki ve hayvanın yaşamasına olanak sağlıyor.
 
 ## Flora ve Fauna
 

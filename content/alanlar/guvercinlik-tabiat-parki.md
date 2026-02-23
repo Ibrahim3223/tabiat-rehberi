@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Güvercinlik Tabiat Parkı
 
-Güvercinlik Tabiat Parkı, Muğla'nın Ege Bölgesi'nde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu park, doğal güzelliklerin buluşma noktası olarak dikkat çekiyor. Güvercinlik Tabiat Parkı, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Park, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
+ Bu park, doğal güzelliklerin buluşma noktası olarak dikkat çekiyor. Güvercinlik Tabiat Parkı, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Park, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Güvercinlik Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca süregelmi
 
 ## Coğrafya
 
-Güvercinlik Tabiat Parkı, Muğla'nın Ege Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, ziyaretçilere birçok doğal güzelliği sunuyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alan, ziyaretçilere geniş bir hareket alanı sağlıyor. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Parkın iklimi, Ege Bölgesi'nin karakteristik iklimine sahip ve bu iklim, parkın doğal güzelliklerini daha da artırıyor. Parkın çevresi, doğal güzelliklerle dolu ve bu güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Güvercinlik Tabiat Parkı, Muğla'nın Ege Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, ziyaretçilere birçok doğal güzelliği sunuyor. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Parkın iklimi, Ege Bölgesi'nin karakteristik iklimine sahip ve bu iklim, parkın doğal güzelliklerini daha da artırıyor. Parkın çevresi, doğal güzelliklerle dolu ve bu güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

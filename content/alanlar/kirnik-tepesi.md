@@ -28,7 +28,7 @@ wikidata_id: "Q31389109"
 
 # Kırnık Tepesi
 
-Kırnık Tepesi, Doğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak Bingöl'de yer alır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşittir. Kırnık Tepesi, hem coğrafi açıdan hem de tarihi geçmişiyle ziyaretçilerini cezbeder. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu tepe, aynı zamanda bölgenin en önemli turizm merkezlerinden biri olarak kabul edilir.
+Kırnık Tepesi, Doğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak Bingöl'de yer alır. Kırnık Tepesi, hem coğrafi açıdan hem de tarihi geçmişiyle ziyaretçilerini cezbeder. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu tepe, aynı zamanda bölgenin en önemli turizm merkezlerinden biri olarak kabul edilir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Kırnık Tepesi, coğrafi açıdan oldukça dikkat çekici bir bölgedir. Tepeni
 
 ## Flora ve Fauna
 
-Kırnık Tepesi, flora ve fauna açısından oldukça zengindir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri bulunur. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, bölgeye özgü çiçekler açar, sonbahar ve kış aylarında ise bölge, karla kaplanır. Kırnık Tepesi, aynı zamanda zengin fauna açısından dikkat çekicidir. Tepenin çevresinde, farklı hayvan türleri bulunur. Bu hayvanlar, bölgenin ekolojik dengesini korumak için önemlidir. Kırnık Tepesi, flora ve fauna açısından zengin bir bölge olarak, ziyaretçilerine doğal güzellikleri sunar.
+ Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri bulunur. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, bölgeye özgü çiçekler açar, sonbahar ve kış aylarında ise bölge, karla kaplanır. Kırnık Tepesi, aynı zamanda zengin fauna açısından dikkat çekicidir. Tepenin çevresinde, farklı hayvan türleri bulunur. Bu hayvanlar, bölgenin ekolojik dengesini korumak için önemlidir. Kırnık Tepesi, flora ve fauna açısından zengin bir bölge olarak, ziyaretçilerine doğal güzellikleri sunar.
 
 ## Ziyaret Bilgileri
 
@@ -52,4 +52,4 @@ Kırnık Tepesi'ni ziyaret etmek, oldukça keyifli bir deneyimdir. Tepenin etekl
 - Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Kırnık Tepesi, coğrafi açıdan zengin bir bölge olarak, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunar.
 - Tepenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
-- Kırnık Tepesi, flora ve fauna açısından oldukça zengindir.
+

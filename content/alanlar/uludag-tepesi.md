@@ -28,7 +28,7 @@ wikidata_id: "Q31540343"
 
 # Uludağ Tepesi
 
-Uludağ Tepesi, Şırnak ilinin güzide bir noktasında yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Doğa severler için bir cennet olan Uludağ Tepesi, ziyaretçilerini güzel manzaralar ve temiz hava ile karşılamaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Uludağ Tepesi, hem doğa tutkunları hem de macera arayanlar için ideal bir destinasyon.
+Uludağ Tepesi, Şırnak ilinin güzide bir noktasında yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çekmektedir. Doğa severler için bir cennet olan Uludağ Tepesi, ziyaretçilerini güzel manzaralar ve temiz hava ile karşılamaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Uludağ Tepesi, hem doğa tutkunları hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Uludağ Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Uludağ Tepesi, Şırnak ilinin coğrafi yapısını etkileyen önemli bir tepe olarak bilinmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Doğa severler için bir cennet olan Uludağ Tepesi, ziyaretçilerini güzel manzaralar ve temiz hava ile karşılamaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin coğrafi konumu, iklimini ve ekolojisini etkilemektedir. Uludağ Tepesi'nin etrafı, dağlar ve vadiler ile çevrilidir ve bu coğrafi oluşum, bölgenin iklimini ve su kaynaklarını etkilemektedir. Tepenin yüksekliği ve eğimleri, bölgenin ekolojisini şekillendirmekte ve çeşitli bitki ve hayvan türlerinin yaşamasına uygun bir ortam sağlamaktadır. Coğrafi olarak önemli bir nokta olan Uludağ Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakma fırsatı sunmaktadır.
+Uludağ Tepesi, Şırnak ilinin coğrafi yapısını etkileyen önemli bir tepe olarak bilinmektedir. Doğa severler için bir cennet olan Uludağ Tepesi, ziyaretçilerini güzel manzaralar ve temiz hava ile karşılamaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin coğrafi konumu, iklimini ve ekolojisini etkilemektedir. Uludağ Tepesi'nin etrafı, dağlar ve vadiler ile çevrilidir ve bu coğrafi oluşum, bölgenin iklimini ve su kaynaklarını etkilemektedir. Tepenin yüksekliği ve eğimleri, bölgenin ekolojisini şekillendirmekte ve çeşitli bitki ve hayvan türlerinin yaşamasına uygun bir ortam sağlamaktadır. Coğrafi olarak önemli bir nokta olan Uludağ Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakma fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 

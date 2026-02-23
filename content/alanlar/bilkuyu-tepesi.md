@@ -28,7 +28,7 @@ wikidata_id: "Q31390904"
 
 # Bilkuyu Tepesi
 
-Bilkuyu Tepesi, Yozgat'ın merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepedir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en önemli doğal alanlarından biridir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve ziyaretçilerin keyifli bir yürüyüş yapabileceği patikalar mevcuttur. Bilkuyu Tepesi, aynı zamanda Yozgat'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Bilkuyu Tepesi, Yozgat'ın merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepedir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve ziyaretçilerin keyifli bir yürüyüş yapabileceği patikalar mevcuttur. Bilkuyu Tepesi, aynı zamanda Yozgat'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bilkuyu Tepesi'nin tarihi geçmişi zengin ve çeşitli kültürlerin izlerini t
 
 ## Coğrafya
 
-Bilkuyu Tepesi, Yozgat'ın merkezinde yer alan bir tepe ve şehre hakim bir konumdadır. Tepenin yüksekliği ve konumu, ziyaretçilere şehrin ve çevresinin panoramik manzarasını sunar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve ziyaretçilerin keyifli bir yürüyüş yapabileceği patikalar mevcuttur. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine sahiptir ve yazları sıcak, kışları soğuk geçer. Tepenin çevresinde, şehrin önemli yerleşim alanları ve tarihi eserleri bulunmaktadır. Bilkuyu Tepesi, aynı zamanda şehrin en önemli doğal alanlarından biridir ve 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+Bilkuyu Tepesi, Yozgat'ın merkezinde yer alan bir tepe ve şehre hakim bir konumdadır. Tepenin yüksekliği ve konumu, ziyaretçilere şehrin ve çevresinin panoramik manzarasını sunar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve ziyaretçilerin keyifli bir yürüyüş yapabileceği patikalar mevcuttur. Bölgenin iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine sahiptir ve yazları sıcak, kışları soğuk geçer. Tepenin çevresinde, şehrin önemli yerleşim alanları ve tarihi eserleri bulunmaktadır.
 
 ## Flora ve Fauna
 

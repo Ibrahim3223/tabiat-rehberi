@@ -28,7 +28,7 @@ wikidata_id: "Q31558533"
 
 # Bostan Tepesi
 
-Bostan Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bir doğal güzelliktir. Bu alan, yaklaşık 20 hektarlık bir ormanlık bölgeye sahiptir. Bostan Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer almaktadır. Tepenin yüksekliği 1000 metreyi aşmaktadır. Bu doğal güzellik, Ankara'nın şehir yaşamının dışında bir kaçış noktası olarak hizmet vermektedir. Bostan Tepesi, aynı zamanda çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir.
+ Bu alan, yaklaşık 20 hektarlık bir ormanlık bölgeye sahiptir. Bostan Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer almaktadır. Tepenin yüksekliği 1000 metreyi aşmaktadır. Bu doğal güzellik, Ankara'nın şehir yaşamının dışında bir kaçış noktası olarak hizmet vermektedir. Bostan Tepesi, aynı zamanda çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bostan Tepesi'nin tarihi geçmişi, Ankara'nın tarihi ile iç içe geçmiş dur
 
 ## Coğrafya
 
-Bostan Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bir doğal güzelliktir. Bu alan, yaklaşık 20 hektarlık bir ormanlık bölgeye sahiptir. Bostan Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer almaktadır. Tepenin yüksekliği 1000 metreyi aşmaktadır. Bostan Tepesi, aynı zamanda çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. Tepenin etrafında bulunan diğer doğal güzellikler, bu bölgenin coğrafi önemini vurgulamaktadır. Bostan Tepesi, Ankara'nın coğrafi özellikleri ile uyumlu bir şekilde tasarlanmış bir bölgedir. Tepenin coğrafi konumu, Ankara'nın turizm potansiyelini artıran önemli bir doğal güzelliktir. Bostan Tepesi, Ankara'nın doğal güzelliklerinin bir parçasıdır. Tepenin coğrafi özellikleri, Ankara'nın coğrafi mirasının bir parçasıdır.
+ Bu alan, yaklaşık 20 hektarlık bir ormanlık bölgeye sahiptir. Bostan Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer almaktadır. Tepenin yüksekliği 1000 metreyi aşmaktadır. Bostan Tepesi, aynı zamanda çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir. Tepenin etrafında bulunan diğer doğal güzellikler, bu bölgenin coğrafi önemini vurgulamaktadır. Bostan Tepesi, Ankara'nın coğrafi özellikleri ile uyumlu bir şekilde tasarlanmış bir bölgedir. Tepenin coğrafi konumu, Ankara'nın turizm potansiyelini artıran önemli bir doğal güzelliktir. Bostan Tepesi, Ankara'nın doğal güzelliklerinin bir parçasıdır. Tepenin coğrafi özellikleri, Ankara'nın coğrafi mirasının bir parçasıdır.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31391004"
 
 # Komu Tepesi
 
-Komu Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir turizm merkezidir. Bu bölge, khong 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Komu Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle cezbediyor. Burada, yerlilerin yaşantısını ve bölgenin tarihini öğrenebilirsiniz.
+Komu Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir turizm merkezidir. Komu Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle cezbediyor. Burada, yerlilerin yaşantısını ve bölgenin tarihini öğrenebilirsiniz.
 
 ## Tarihçe
 

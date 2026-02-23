@@ -1,7 +1,7 @@
 ---
 title: "Beşe Dede Türbesi"
 date: "2026-01-10T05:25:20.830Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391695"
 
 # Beşe Dede Türbesi
 
-Beşe Dede Türbesi, İzmir'in Bergama ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir nokta. Bu alan, 140 hektarlık geniş bir yeşil alanı kapsıyor, yaklaşık 200 futbol sahası büyüklüğünde. Bergama'nın tarihi geçmişi, Beşe Dede Türbesi'nin etrafındaki coğrafyada da kendini gösteriyor. Burada, doğa ve tarih bir araya geliyor. Ziyaretçiler, hem tarihi yapıları inceleyip hem de doğanın güzelliğini keşfedebiliyorlar. Beşe Dede Türbesi, Bergama'nın önemli tarihi ve kültürel noktalarından biri olarak kabul ediliyor.
+Beşe Dede Türbesi, İzmir'in Bergama ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir nokta. Bergama'nın tarihi geçmişi, Beşe Dede Türbesi'nin etrafındaki coğrafyada da kendini gösteriyor. Burada, doğa ve tarih bir araya geliyor. Ziyaretçiler, hem tarihi yapıları inceleyip hem de doğanın güzelliğini keşfedebiliyorlar. Beşe Dede Türbesi, Bergama'nın önemli tarihi ve kültürel noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Beşe Dede Türbesi'nin tarihi geçmişi, Bergama'nın tarihi ile iç içe geçm
 
 ## Coğrafya
 
-Beşe Dede Türbesi, İzmir'in Bergama ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi olarak zengin alanlarından biri. Türbe, 140 hektarlık bir yeşil alan içinde yer alıyor, bu da yaklaşık 200 futbol sahası büyüklüğünde. Coğrafyası, ziyaretçilere hem tarihi yapıları incelemek hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Beşe Dede Türbesi'nin etrafındaki coğrafya, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış, bu nedenle coğrafyası da kültürel ve tarihi izler taşıyor. Ziyaretçiler, Beşe Dede Türbesi'ni ziyaret ederken, aynı zamanda Bergama'nın tarihi ve doğal güzelliklerini de keşfedebiliyorlar.
+Beşe Dede Türbesi, İzmir'in Bergama ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi olarak zengin alanlarından biri. Coğrafyası, ziyaretçilere hem tarihi yapıları incelemek hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Beşe Dede Türbesi'nin etrafındaki coğrafya, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış, bu nedenle coğrafyası da kültürel ve tarihi izler taşıyor. Ziyaretçiler, Beşe Dede Türbesi'ni ziyaret ederken, aynı zamanda Bergama'nın tarihi ve doğal güzelliklerini de keşfedebiliyorlar.
 
 ## Flora ve Fauna
 

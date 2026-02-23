@@ -22,7 +22,7 @@ wikidata_id: "Q108227983"
 
 # Istanbul-Bahcekoy Saricam
 
-Istanbul-Bahcekoy Saricam, İstanbul'un Marmara Bölgesi'nde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzak bir doğa cenneti sunar. Milli park, şehrin güneydoğusunda yer alır ve İstanbul'un en büyük yeşil alanlarından biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. İstanbul-Bahcekoy Saricam, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
+Istanbul-Bahcekoy Saricam, İstanbul'un Marmara Bölgesi'nde yer alan bir milli parktır. Milli park, şehrin güneydoğusunda yer alır ve İstanbul'un en büyük yeşil alanlarından biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. İstanbul-Bahcekoy Saricam, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

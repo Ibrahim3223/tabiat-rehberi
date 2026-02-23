@@ -28,7 +28,7 @@ wikidata_id: "Q31385979"
 
 # Bostanbeleni Tepesi
 
-Bostanbeleni Tepesi, Kahramanmaraş'ın güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak görevi görüyor. Tepenin eteklerinde yer alan köyler, bölgeye özel tarım ürünleri ve el sanatları ile ziyaretçilerini karşılıyor. Bu tepe, sadece bir doğal güzellik değil, aynı zamanda bölgenin kültürel mirasının önemli bir parçasını oluşturuyor.
+Bostanbeleni Tepesi, Kahramanmaraş'ın güzide noktalarından biri olarak karşımıza çıkıyor. Tepenin eteklerinde yer alan köyler, bölgeye özel tarım ürünleri ve el sanatları ile ziyaretçilerini karşılıyor. Bu tepe, sadece bir doğal güzellik değil, aynı zamanda bölgenin kültürel mirasının önemli bir parçasını oluşturuyor.
 
 ## Tarihçe
 

@@ -32,11 +32,11 @@ Sivas'ın büyüleyici dağ manzaraları arasında yer alan Çeltek Dağı, doğ
 
 ## Tarihçe
 
-Çeltek Dağı, Sivas'ın tarihi ve kültürel zenginliklere sahip bir bölgesinde yer alıyor. Bu bölge, tarihin sâu sayfalarında önemli uygarlıkların izlerini taşıyor. Hitit, Roma ve Selçuklu gibi medeniyetler, Sivas'ı ve çevresini önemli bir merkez olarak görmüşler. Çeltek Dağı da, bu tarihsel akışın bir parçası olarak, bölgenin doğal güzelliklerini ve zenginliklerini sunuyor.
+Çeltek Dağı, Sivas'ın tarihi ve kültürel zenginliklere sahip bir bölgesinde yer alıyor. Bu bölge, tarihin derin sayfalarında önemli uygarlıkların izlerini taşıyor. Hitit, Roma ve Selçuklu gibi medeniyetler, Sivas'ı ve çevresini önemli bir merkez olarak görmüşler. Çeltek Dağı da, bu tarihsel akışın bir parçası olarak, bölgenin doğal güzelliklerini ve zenginliklerini sunuyor.
 
 Türkiye'de, özellikle İç Anadolu Bölgesi'nde, bu tür doğal alanlar altijd önemli bir rol oynamışlar. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisine büyük katkılar sağlamış. Ayrıca, tarihi ticaret yolları üzerinde yer alan bu alanlar, farklı kültürlerin buluşma noktaları olarak görev görmüşler. İnsanlar, bu doğal güzellikleri sadece ekonomik faaliyetler için değil, aynı zamanda dinlenme ve ibadet amaçlarıyla da kullanmışlar.
 
-Çeltek Dağı, Sivas'ın tarih ve kültür zenginliklerini taşıyan bir bölgeye ait. Bu dağ, bölgenin doğal güzelliklerini ve tarihi önemini bir arada sunuyor. İnsanların bu alanla ilişkisi, sadece ekonomik faaliyetlerle sınırlı değil. Burada, doğa ile iç içe geçerek, tarihin sâu sayfalarına da bir bakış atmış oluyoruz.
+Çeltek Dağı, Sivas'ın tarih ve kültür zenginliklerini taşıyan bir bölgeye ait. Bu dağ, bölgenin doğal güzelliklerini ve tarihi önemini bir arada sunuyor. İnsanların bu alanla ilişkisi, sadece ekonomik faaliyetlerle sınırlı değil. Burada, doğa ile iç içe geçerek, tarihin derin sayfalarına da bir bakış atmış oluyoruz.
 
 ## Coğrafya
 

@@ -56,7 +56,7 @@ Homeros Vadisi, İzmir'in step bitki örtüsüne ev sahipliği yapan bir botanik
 
 Vadi, yaban hayatı açısından da zengin bir çeşitlilik sunuyor. Memeliler, bozkırın geniş alanlarında dolaşırken, kuşlar mevsimsel göç yolları üzerinde burada konaklıyor. Sürüngenler de, vadideki kaya ve taşların arasında yaşamını sürdürüyor. Bu canlılar, birbirleriyle ve çevreleriyle ekolojik bir ilişki içinde bulunuyor; bazı bitkiler, belirli hayvanların varlığına bağımlıyken, bazı hayvanlar da bu bitkileri besin kaynağı olarak kullanıyor.
 
-Homeros Vadisi, ekolojik değeri yüksek bir alan olarak koruma altına alınmıştır. Bu vadi, bölgedeki step ekosisteminin korunması ve gelecek nesiller için bảo tồn edilmesine katkıda bulunması açısından önemli bir rol oynuyor.
+Homeros Vadisi, ekolojik değeri yüksek bir alan olarak koruma altına alınmıştır. Bu vadi, bölgedeki step ekosisteminin korunması ve gelecek nesiller için koruma tồn edilmesine katkıda bulunması açısından önemli bir rol oynuyor.
 
 ## Ziyaret Bilgileri
 

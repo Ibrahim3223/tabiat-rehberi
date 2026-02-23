@@ -1,7 +1,7 @@
 ---
 title: "Menzilhane Hamamı"
 date: "2026-01-09T23:32:39.250Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739117"
 
 # Menzilhane Hamamı
 
-Menzilhane Hamamı, Kocaeli'nin Gebze ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir doğal güzelliğimiz. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil düzlükle çevrili. Bu bölgede, hem doğanın güzelliğini keşfetmek hem de tarihi bir atmosferi deneyimleme mümkün. Menzilhane Hamamı, doğa severlerin ve tarih meraklılarının ilgisini çekecek bir destinasyon olarak öne çıkıyor.
+Menzilhane Hamamı, Kocaeli'nin Gebze ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir doğal güzelliğimiz. Bu bölgede, hem doğanın güzelliğini keşfetmek hem de tarihi bir atmosferi deneyimleme mümkün. Menzilhane Hamamı, doğa severlerin ve tarih meraklılarının ilgisini çekecek bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

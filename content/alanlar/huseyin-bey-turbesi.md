@@ -1,7 +1,7 @@
 ---
 title: "Hüseyin Bey Türbesi"
 date: "2026-01-10T07:32:16.602Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tekirdağ"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391275"
 
 # Hüseyin Bey Türbesi
 
-Hüseyin Bey Türbesi, Tekirdağ'ın Süleymanpaşa ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor. Bu türbe, bölgenin tarihi geçmişini ve kültürel değerlerini yansıtan önemli bir yapıdır. Ayrıca, çevresindeki doğal güzellikler ve plajlar ile birlikte, ziyaretçilere geniş bir gezi ve keşif imkanı sunuyor.
+Hüseyin Bey Türbesi, Tekirdağ'ın Süleymanpaşa ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu türbe, bölgenin tarihi geçmişini ve kültürel değerlerini yansıtan önemli bir yapıdır. Ayrıca, çevresindeki doğal güzellikler ve plajlar ile birlikte, ziyaretçilere geniş bir gezi ve keşif imkanı sunuyor.
 
 ## Tarihçe
 

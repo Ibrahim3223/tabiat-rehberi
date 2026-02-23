@@ -49,7 +49,7 @@ Mevsimsel değişiklikler, "Yukarı Dağ"ın iklim karakterini şekillendirmekte
 
 ## Flora ve Fauna
 
-Yukarı Dağ, Aydın'da bulunan bir dağ ekosistemi olarak zengin bir flora ve fauna çeşitliliğine sahiptir. 
+Yukarı Dağ, Aydın'da bulunan bir dağ ekosistemi olarak zengin bir flora ve fauna çeşitliliğine sahiptir.
 
 Bitki Örtüsü olarak, zeytinlikler ve çam ormanları bu bölgenin karakteristik özelliklerinden biridir. İklimin ılıman ve nemli olması, çeşitli bitki türlerinin yetişmesine olanak sağlar. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanır ve bu manzara, ziyaretçilere büyüleyici bir görünüm sunar.
 

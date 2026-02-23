@@ -28,7 +28,7 @@ wikidata_id: "Q31387257"
 
 # Bulanık Tepe
 
-Bulanık Tepe, Doğu Anadolu Bölgesi'nin Erzurum ilinde yer alan bir coğrafi oluşumdur. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini etkileyen bir manzaraya sahiptir. Bulanık Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu tepe, doğa severler ve macera arayanlar için ideal bir noktadır. Ziyaretçiler, tepeye çıkarak muhteşem manzarayı izleyebilir ve çevresindeki doğal güzellikleri keşfedebilirler.
+Bulanık Tepe, Doğu Anadolu Bölgesi'nin Erzurum ilinde yer alan bir coğrafi oluşumdur. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Bulanık Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu tepe, doğa severler ve macera arayanlar için ideal bir noktadır. Ziyaretçiler, tepeye çıkarak muhteşem manzarayı izleyebilir ve çevresindeki doğal güzellikleri keşfedebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bulanık Tepe'nin tarihi geçmişi, bölgenin coğrafi ve kültürel oluşumuna 
 
 ## Coğrafya
 
-Bulanık Tepe, Erzurum ilinin coğrafi yapısını oluşturan önemli bir bölgedir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir ve çevresindeki doğal güzelliklerle ziyaretçilerini etkilemektedir. Tepe, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise serin ve yağışlı geçmektedir. Bulanık Tepe, ziyaretçilerine doğa yürüyüşü, dağcılık ve diğer outdoor etkinlikler için uygun bir ortam sunmaktadır. Tepe ve çevresindeki bölge, doğa severler ve macera arayanlar için ideal bir destinasyondur.
+Bulanık Tepe, Erzurum ilinin coğrafi yapısını oluşturan önemli bir bölgedir. Tepe, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Kış mevsimi soğuk ve kar yağışlı, yaz mevsimi ise serin ve yağışlı geçmektedir. Bulanık Tepe, ziyaretçilerine doğa yürüyüşü, dağcılık ve diğer outdoor etkinlikler için uygun bir ortam sunmaktadır. Tepe ve çevresindeki bölge, doğa severler ve macera arayanlar için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Bulanık Tepe, ziyaretçilerine yearın dört mevsiminde farklı doğal güzelli
 ## İlginç Bilgiler
 
 - Bulanık Tepe, Erzurum ilinin en yüksek noktalarından biridir.
-- Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Bulanık Tepe, ziyaretçilerine yılın dört mevsiminde farklı doğal güzellikleri sunan bir destinasyondur.
 - Tepe ve çevresindeki bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Bulanık Tepe, doğa severler ve macera arayanlar için ideal bir noktadır.

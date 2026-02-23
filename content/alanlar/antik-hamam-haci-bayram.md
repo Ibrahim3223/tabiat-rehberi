@@ -1,7 +1,7 @@
 ---
 title: "Antik Hamam, Hacı Bayram"
 date: "2026-01-09T23:52:03.044Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245735"
 
 # Antik Hamam, Hacı Bayram
 
-Antik Hamam, Hacı Bayram, Ankara'nın tarihi ve kültürel zenginliklerinin birleştiği önemli bir noktadır. İç Anadolu Bölgesi'nin kalbinde yer alan bu alan, yaklaşık 140 hektarlık bir yeşil alan sunar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir alan sağlar. Antik Hamam, Hacı Bayram, tarihin izlerini taşıyan bir mekan olarak, ziyaretçilerini geçmişe götürerek aynı zamanda doğal güzellikleriyle de büyüler.
+Antik Hamam, Hacı Bayram, Ankara'nın tarihi ve kültürel zenginliklerinin birleştiği önemli bir noktadır. Antik Hamam, Hacı Bayram, tarihin izlerini taşıyan bir mekan olarak, ziyaretçilerini geçmişe götürerek aynı zamanda doğal güzellikleriyle de büyüler.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Velibey Hamamı"
 date: "2026-01-09T22:24:33.502Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -29,11 +29,11 @@ wikidata_id: "Q131738449"
 
 # Velibey Hamamı
 
-Velibey Hamamı, Güneydoğu Anadolu Bölgesi'nin turizm cenneti Şanlıurfa'nın Eyyübiye ilçesinde yer alan bir doğal plajdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplamaktadır. Şanlıurfa'nın tarihi geçmişi ve kültürel zenginlikleri ile birlikte, Velibey Hamamı da bölgeye gelen ziyaretçilerin ilgisini çekmektedir. Doğal güzelliği ve sakin atmosferi ile ziyaretçilerini ağırlayan bu plaj, özellikle yaz aylarında tercih edilmektedir.
+Velibey Hamamı, Güneydoğu Anadolu Bölgesi'nin turizm cenneti Şanlıurfa'nın Eyyübiye ilçesinde yer alan bir doğal plajdır. Şanlıurfa'nın tarihi geçmişi ve kültürel zenginlikleri ile birlikte, Velibey Hamamı da bölgeye gelen ziyaretçilerin ilgisini çekmektedir. Doğal güzelliği ve sakin atmosferi ile ziyaretçilerini ağırlayan bu plaj, özellikle yaz aylarında tercih edilmektedir.
 
 ## Tarihçe
 
-Velibey Hamamı'nın tarihi geçmişi, Şanlıurfa'nın tarihi ile iç içe geçmiş durumdadır. Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bölgeye kendi kültürel ve tarihi izlerini bırakmıştır. Velibey Hamamı da bu medeniyetlerin bir parçası olarak, bölgeye gelen ziyaretçilere tarihi ve kültürel bir expérience sunmaktadır. Tarihi kaynaklara göre, Şanlıurfa'nın yerleşim tarihi çok eskilere dayanmaktadır. Ancak Velibey Hamamı'nın özel tarihi hakkında detaylı bilgi bulunmamaktadır. Bununla birlikte, bölgenin genel tarihi geçmişi, ziyaretçilerin ilgisini çekmektedir.
+Velibey Hamamı'nın tarihi geçmişi, Şanlıurfa'nın tarihi ile iç içe geçmiş durumdadır. Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bölgeye kendi kültürel ve tarihi izlerini bırakmıştır. Velibey Hamamı da bu medeniyetlerin bir parçası olarak, bölgeye gelen ziyaretçilere tarihi ve kültürel bir deneyim sunmaktadır. Tarihi kaynaklara göre, Şanlıurfa'nın yerleşim tarihi çok eskilere dayanmaktadır. Ancak Velibey Hamamı'nın özel tarihi hakkında detaylı bilgi bulunmamaktadır. Bununla birlikte, bölgenin genel tarihi geçmişi, ziyaretçilerin ilgisini çekmektedir.
 
 ## Coğrafya
 

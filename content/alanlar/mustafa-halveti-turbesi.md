@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Halveti Türbesi"
 date: "2026-01-10T05:27:07.400Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391741"
 
 # Mustafa Halveti Türbesi
 
-Mustafa Halveti Türbesi, İstanbul'un Kartal ilçesinde yer alan bir tarihi turbe ve plajdır. Bu turbe, Marmara Bölgesi'nin önemli noktalarından biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Mustafa Halveti Türbesi, özellikle yaz aylarında plaj severlerin uğrak noktalarından biri olurken, aynı zamanda tarihi ve kültürel önemini korur. Turbe ve plajın bir arada olması, ziyaretçilere hem dinlenme hem de kültürel bir deneyim sunar.
+Mustafa Halveti Türbesi, İstanbul'un Kartal ilçesinde yer alan bir tarihi turbe ve plajdır. Bu turbe, Marmara Bölgesi'nin önemli noktalarından biri olarak bilinir. Mustafa Halveti Türbesi, özellikle yaz aylarında plaj severlerin uğrak noktalarından biri olurken, aynı zamanda tarihi ve kültürel önemini korur. Turbe ve plajın bir arada olması, ziyaretçilere hem dinlenme hem de kültürel bir deneyim sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mustafa Halveti Türbesi'nin tarihi geçmişi, yüzyıllar boyunca önemli olayl
 
 ## Coğrafya
 
-Mustafa Halveti Türbesi, Kartal ilçesinde, Marmara Bölgesi'nin önemli bir noktasında yer alır. Bu bölge, coğrafi olarak deniz seviyesine yakındır ve çevresi genellikle düzdür. Türbe ve plajın bulunduğu alan, 140 hektarlık bir araziyi kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, hem turbe hem de plajın thoi bir şekilde yerleştirilmesini sağlar. Çevre, genellikle yeşilliklerle ve deniz kenarıyla kaplıdır. Mustafa Halveti Türbesi'nin coğrafi konumu, ziyaretçilere hem deniz kenarında dinlenme hem de tarihi bir turbe ziyaret etme imkanı sunar. Bölgenin iklimi, genel olarak ılımandır ve yaz aylarında sıcaklık artar. Bu nedenle, plaj özellikle yaz mevsiminde ziyaretçilere daha çekici gelir.
+Mustafa Halveti Türbesi, Kartal ilçesinde, Marmara Bölgesi'nin önemli bir noktasında yer alır. Bu bölge, coğrafi olarak deniz seviyesine yakındır ve çevresi genellikle düzdür. Bu geniş alan, hem turbe hem de plajın thoi bir şekilde yerleştirilmesini sağlar. Çevre, genellikle yeşilliklerle ve deniz kenarıyla kaplıdır. Mustafa Halveti Türbesi'nin coğrafi konumu, ziyaretçilere hem deniz kenarında dinlenme hem de tarihi bir turbe ziyaret etme imkanı sunar. Bölgenin iklimi, genel olarak ılımandır ve yaz aylarında sıcaklık artar. Bu nedenle, plaj özellikle yaz mevsiminde ziyaretçilere daha çekici gelir.
 
 ## Flora ve Fauna
 

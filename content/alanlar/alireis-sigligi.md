@@ -50,7 +50,7 @@ Doğal güzelliği ve coğrafi konumuyla dikkat çeken Alıreısığlığı, yak
 
 ## Flora ve Fauna
 
-Alıreısığlığı, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak, kendine özgü bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Alıreısığlığı, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak, kendine özgü bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ada principalmente karma ormanlarla kaplı ve bu ormanlar mevsimsel olarak değişen bir görünüm sunuyor. İlkbahar aylarında, ada çiçeklerle dolu bir hal alıyor. Kıyı bitkileri, ada ekosisteminin önemli bir bileşenini oluşturuyor.
 

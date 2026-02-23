@@ -1,7 +1,7 @@
 ---
 title: "İsmail Bey Türbesi"
 date: "2026-01-10T07:36:39.077Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391221"
 
 # İsmail Bey Türbesi
 
-İsmail Bey Türbesi, Kastamonu'nun merkezinde bulunan ve tarihi öneme sahip bir yapıdır. Bu türkü, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer alan tarihi bir mekan olarak dikkat çekmektedir. İsmail Bey Türbesi, Kastamonu'nun en önemli tarihi ve kültürel değerlerinden biri olarak kabul edilmektedir. Tarihi yapı, ziyaretçilerini Kastamonu'nun zengin tarihine ve kültürel mirasına davet etmektedir. İsmail Bey Türbesi'nin tarihi geçmişi, Kastamonu'nun önemli bir częsi olarak yer almaktadır.
+İsmail Bey Türbesi, Kastamonu'nun merkezinde bulunan ve tarihi öneme sahip bir yapıdır. İsmail Bey Türbesi, Kastamonu'nun en önemli tarihi ve kültürel değerlerinden biri olarak kabul edilmektedir. Tarihi yapı, ziyaretçilerini Kastamonu'nun zengin tarihine ve kültürel mirasına davet etmektedir. İsmail Bey Türbesi'nin tarihi geçmişi, Kastamonu'nun önemli bir częsi olarak yer almaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391221"
 
 ## Coğrafya
 
-İsmail Bey Türbesi, Kastamonu'nun merkezinde yer alan bir tarihi yapıdır. Tarihi yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer almaktadır. İsmail Bey Türbesi, Kastamonu'nun doğal güzellikleri ile çevrili bir bölgede yer almaktadır. Tarihi yapı, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. İsmail Bey Türbesi, Kastamonu'nun iklimini yansıtan bir yapı olarak kabul edilmektedir. Tarihi yapı, Kastamonu'nun tarihi ve kültürel değerlerini koruma ve gelecek nesillere aktarmak amacıyla önemli bir role sahiptir. İsmail Bey Türbesi, Kastamonu'nun en önemli tarihi ve kültürel değerlerinden biri olarak kabul edilmektedir. Tarihi yapı, ziyaretçilerini Kastamonu'nun zengin tarihine ve kültürel mirasına davet etmektedir. İsmail Bey Türbesi, Kastamonu'nun doğal güzellikleri ile çevrili bir bölgede yer almaktadır. Tarihi yapı, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir mekan olarak kabul edilmektedir.
+İsmail Bey Türbesi, Kastamonu'nun merkezinde yer alan bir tarihi yapıdır. İsmail Bey Türbesi, Kastamonu'nun doğal güzellikleri ile çevrili bir bölgede yer almaktadır. Tarihi yapı, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. İsmail Bey Türbesi, Kastamonu'nun iklimini yansıtan bir yapı olarak kabul edilmektedir. Tarihi yapı, Kastamonu'nun tarihi ve kültürel değerlerini koruma ve gelecek nesillere aktarmak amacıyla önemli bir role sahiptir. İsmail Bey Türbesi, Kastamonu'nun en önemli tarihi ve kültürel değerlerinden biri olarak kabul edilmektedir. Tarihi yapı, ziyaretçilerini Kastamonu'nun zengin tarihine ve kültürel mirasına davet etmektedir. İsmail Bey Türbesi, Kastamonu'nun doğal güzellikleri ile çevrili bir bölgede yer almaktadır. Tarihi yapı, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir mekan olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 

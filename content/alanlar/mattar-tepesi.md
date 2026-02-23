@@ -29,7 +29,7 @@ wikidata_id: "Q31543659"
 
 # Mattar Tepesi
 
-Mattar Tepesi, Diyarbakır'ın şehir merkezine yakın bir konumda yer alır. Bu tepe, khong 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak dikkat çeker. Mattar Tepesi, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini çekmeyi başarmaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Tepenin eteklerinde ve çevresinde,i geçmişi olan yapılar ve yerleşim yerleri bulunur.
+Mattar Tepesi, Diyarbakır'ın şehir merkezine yakın bir konumda yer alır. Mattar Tepesi, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini çekmeyi başarmaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Tepenin eteklerinde ve çevresinde,i geçmişi olan yapılar ve yerleşim yerleri bulunur.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Mattar Tepesi, Diyarbakır'ın coğrafi yapısını oluşturan önemli bir unsur
 
 ## Flora ve Fauna
 
-Mattar Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin üzerinde ve çevresinde, mevsimsel olarak değişen bitki örtüsü bulunur. Burada, farklı hayvan türleri ve kuşlar yaşamaktadır. Mattar Tepesi, bölgenin ekolojik dengesini koruma altına alan önemli bir doğal alan. Tepenin flora ve fauna zenginliği, ziyaretçilere doğayla iç içe bir gezi deneyimi sunar. Mevsimsel değişimlere bağlı olarak, burada farklı türlerde çiçekler açar ve çeşitli hayvanlar görünür.
+ Tepenin üzerinde ve çevresinde, mevsimsel olarak değişen bitki örtüsü bulunur. Burada, farklı hayvan türleri ve kuşlar yaşamaktadır. Mattar Tepesi, bölgenin ekolojik dengesini koruma altına alan önemli bir doğal alan. Tepenin flora ve fauna zenginliği, ziyaretçilere doğayla iç içe bir gezi deneyimi sunar. Mevsimsel değişimlere bağlı olarak, burada farklı türlerde çiçekler açar ve çeşitli hayvanlar görünür.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Mattar Tepesi'ni ziyaret etmek, Diyarbakır'ın doğal ve tarihi güzelliklerini
 
 - Mattar Tepesi, Diyarbakır'ın sembollerinden biri.
 - Tepenin yüksekliği, şehre hakim bir görünüm sağlar.
-- Mattar Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Tepenin eteklerinde, tarihi yapılar ve kalıntılara rastlama mümkün.
 - Mattar Tepesi, Diyarbakır'ın kültür ve tarihini anlamak için önemli bir nokta.

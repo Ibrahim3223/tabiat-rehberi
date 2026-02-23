@@ -1,7 +1,7 @@
 ---
 title: "Kadılar Türbesi"
 date: "2026-01-10T04:57:04.519Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391546"
 
 # Kadılar Türbesi
 
-Kadılar Türbesi, Amasya ilinin merkezinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte bir yeşil alan, ziyaretçilere hem gezi hem de dinlenme imkanı sunuyor. Bu alan, aynı zamanda Amasya'nın tarihi geçmişi hakkında önemli ipuçları da barındırıyor. Kadılar Türbesi, hem coğrafi konumu hem de tarihi önemi ile ziyaretçilerini bekliyor.
+Kadılar Türbesi, Amasya ilinin merkezinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Bu alan, aynı zamanda Amasya'nın tarihi geçmişi hakkında önemli ipuçları da barındırıyor. Kadılar Türbesi, hem coğrafi konumu hem de tarihi önemi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

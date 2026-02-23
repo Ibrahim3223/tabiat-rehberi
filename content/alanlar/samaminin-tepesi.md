@@ -28,7 +28,7 @@ wikidata_id: "Q31386676"
 
 # Samaminin Tepesi
 
-Samaminin Tepesi, Diyarbakır'ın merkezi bir noktasında yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktası. Samaminin Tepesi, aynı zamanda şehrin panoramik manzarasını sunan bir gözlem noktası olarak da bilinir. Burada, şehrin tarihi yapılarını ve doğal güzelliklerini bir arada görebilirsiniz. Tepe, özellikle gün batımında ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
+Samaminin Tepesi, Diyarbakır'ın merkezi bir noktasında yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Samaminin Tepesi, aynı zamanda şehrin panoramik manzarasını sunan bir gözlem noktası olarak da bilinir. Burada, şehrin tarihi yapılarını ve doğal güzelliklerini bir arada görebilirsiniz. Tepe, özellikle gün batımında ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Samaminin Tepesi, coğrafi olarak Diyarbakır'ın merkezi bir konumunda yer alı
 
 ## Flora ve Fauna
 
-Samaminin Tepesi, flora ve fauna açısından oldukça zengin bir alandır. Tepe ve çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Mevsimsel değişimlere bağlı olarak, tepe ve çevresindeki bölge farklı türlerin yaşam alanı haline gelir. İlkbahar ve yaz aylarında, tepeye çeşitli çiçek türleri renk katar. Sonbahar ve kış aylarında ise, tepe ve çevresindeki bölge, farklı hayvan türlerinin yaşam alanı olarak kullanılır. Samaminin Tepesi, bu nedenle doğal bir yaşam alanı olarak kabul edilir ve ziyaretçilere geniş bir biyolojik çeşitlilik sunar. Tepe, aynı zamanda çeşitli kuş türlerinin göç yolu üzerinde yer alır ve bu nedenle doğa severler tarafından sıkça ziyaret edilir.
+ Tepe ve çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Mevsimsel değişimlere bağlı olarak, tepe ve çevresindeki bölge farklı türlerin yaşam alanı haline gelir. İlkbahar ve yaz aylarında, tepeye çeşitli çiçek türleri renk katar. Sonbahar ve kış aylarında ise, tepe ve çevresindeki bölge, farklı hayvan türlerinin yaşam alanı olarak kullanılır. Samaminin Tepesi, bu nedenle doğal bir yaşam alanı olarak kabul edilir ve ziyaretçilere geniş bir biyolojik çeşitlilik sunar. Tepe, aynı zamanda çeşitli kuş türlerinin göç yolu üzerinde yer alır ve bu nedenle doğa severler tarafından sıkça ziyaret edilir.
 
 ## Ziyaret Bilgileri
 

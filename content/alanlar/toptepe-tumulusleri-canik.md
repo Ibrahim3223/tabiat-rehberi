@@ -29,7 +29,7 @@ wikidata_id: "Q134728398"
 
 # Toptepe Tümülüsleri, Canik
 
-Toptepe Tümülüsleri, Samsun'un Canik ilçesinde yer alan tarihi bir arkeolojik alan olarak dikkat çekiyor. Bu bölgede bulunan tümülüsler, Karadeniz Bölgesi'nin zengin tarihi geçmişine ışık tutuyor. 140 hektarlık bir alana yayılan Toptepe Tümülüsleri, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tümülüslerin etrafı, yeşilin çeşitli tonlarını içeren geniş ormanlık alanlarla çevrili. Bu tarihi bölge, hem Samsun'un hem de Türkiye'nin önemli kültürel miraslarından biri olarak kabul ediliyor.
+Toptepe Tümülüsleri, Samsun'un Canik ilçesinde yer alan tarihi bir arkeolojik alan olarak dikkat çekiyor. Bu bölgede bulunan tümülüsler, Karadeniz Bölgesi'nin zengin tarihi geçmişine ışık tutuyor. Tümülüslerin etrafı, yeşilin çeşitli tonlarını içeren geniş ormanlık alanlarla çevrili. Bu tarihi bölge, hem Samsun'un hem de Türkiye'nin önemli kültürel miraslarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Toptepe Tümülüsleri, tarihin derinliklerinde gizlenen bir geçmişe sahip. Bu
 
 ## Coğrafya
 
-Toptepe Tümülüsleri, Samsun'un Canik ilçesinde, Karadeniz Bölgesi'nin güzergahında yer alıyor. Bölgenin coğrafi yapısı, yeşilin çeşitli tonlarını içeren ormanlık alanlarla çevrili. Bu tümülüslerin bulunduğu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bölge, deniz seviyesinden belirli bir yükseklikte yer alıyor ve etrafındaki coğrafi oluşumlar, ziyaretçilere geniş bir manzara sunuyor. İklim olarak, Karadeniz Bölgesi'nin karakteristik özellikleri gösteriyor; nemli ve ılıman bir hava hakim. Bölgenin coğrafi konumu, aynı zamanda çevresindeki diğer tarihi ve doğal güzelliklere de yakınlık sağlıyor. Bu nedenle, Toptepe Tümülüsleri, Samsun ve çevresini keşfetmek isteyenler için önemli bir durak noktası.
+Toptepe Tümülüsleri, Samsun'un Canik ilçesinde, Karadeniz Bölgesi'nin güzergahında yer alıyor. Bölgenin coğrafi yapısı, yeşilin çeşitli tonlarını içeren ormanlık alanlarla çevrili. Bölge, deniz seviyesinden belirli bir yükseklikte yer alıyor ve etrafındaki coğrafi oluşumlar, ziyaretçilere geniş bir manzara sunuyor. İklim olarak, Karadeniz Bölgesi'nin karakteristik özellikleri gösteriyor; nemli ve ılıman bir hava hakim. Bölgenin coğrafi konumu, aynı zamanda çevresindeki diğer tarihi ve doğal güzelliklere de yakınlık sağlıyor. Bu nedenle, Toptepe Tümülüsleri, Samsun ve çevresini keşfetmek isteyenler için önemli bir durak noktası.
 
 ## Flora ve Fauna
 

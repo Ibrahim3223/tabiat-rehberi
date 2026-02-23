@@ -1,7 +1,7 @@
 ---
 title: "Akşemseddin Türbesi"
 date: "2026-01-10T04:52:49.039Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -30,7 +30,7 @@ wikidata_id: "Q109366855"
 
 # Akşemseddin Türbesi
 
-Akşemseddin Türbesi, Bolu'nun Göynük ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin önemli doğal ve tarihi yerlerinden biridir. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Akşemseddin Türbesi, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Burada, tarihi bir türbe ile birlikte geniş bir plaj alanı ve çeşitli doğa güzellikleri bulunmaktadır.
+Akşemseddin Türbesi, Bolu'nun Göynük ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Akşemseddin Türbesi, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Burada, tarihi bir türbe ile birlikte geniş bir plaj alanı ve çeşitli doğa güzellikleri bulunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Akşemseddin Türbesi'nin tarihi geçmişi hakkında detaylı bilgi bulunmamakta
 
 ## Coğrafya
 
-Akşemseddin Türbesi, Karadeniz Bölgesi'nin Göynük ilçesinde yer alır. Bu bölge, 140 hektarlık geniş bir yeşil alan üzerine kuruludur ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, deniz seviyesinden yüksek bir konumda yer alır ve Karadeniz'in doğal güzelliklerini sunar. Akşemseddin Türbesi ve çevresindeki plaj alanı, ziyaretçilere geniş bir deniz ve kum alanı sunar. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölge, doğal güzellikleri ve tarihi yapıları ile ziyaretçilerini etkiler.
+Akşemseddin Türbesi, Karadeniz Bölgesi'nin Göynük ilçesinde yer alır. Bölge, deniz seviyesinden yüksek bir konumda yer alır ve Karadeniz'in doğal güzelliklerini sunar. Akşemseddin Türbesi ve çevresindeki plaj alanı, ziyaretçilere geniş bir deniz ve kum alanı sunar. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölge, doğal güzellikleri ve tarihi yapıları ile ziyaretçilerini etkiler.
 
 ## Flora ve Fauna
 

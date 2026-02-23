@@ -1,7 +1,7 @@
 ---
 title: "İskender Paşa Hamamı"
 date: "2026-01-09T22:15:40.716Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131737494"
 
 # İskender Paşa Hamamı
 
-İskender Paşa Hamamı, İstanbul'un Marmara Bölgesi'nde, Beykoz ilçesinde yer alan tarihi bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu plaj, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçilerin plajın tarihi ve doğal güzelliği hakkında bilgi edinebilecekleri bir alan olarak hizmet vermektedir. İskender Paşa Hamamı, Beykoz'un en önemli turistik merkezlerinden biridir.
+İskender Paşa Hamamı, İstanbul'un Marmara Bölgesi'nde, Beykoz ilçesinde yer alan tarihi bir plajdır. Bu plaj, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçilerin plajın tarihi ve doğal güzelliği hakkında bilgi edinebilecekleri bir alan olarak hizmet vermektedir. İskender Paşa Hamamı, Beykoz'un en önemli turistik merkezlerinden biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131737494"
 
 ## Coğrafya
 
-İskender Paşa Hamamı, Beykoz'un merkezinde yer alır ve Marmara Denizi'ne kıyısı vardır. Plajın coğrafi konumu, ziyaretçilerin deniz ve doğanın güzelliğini deneyimlemelerine olanak sağlar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar ve bu, plajın büyüklüğünü göstermektedir. İskender Paşa Hamamı'nın coğrafyası, ziyaretçilerin güzelliği deneyimlemelerine olanak sağlar. Plajın iklimi, Marmara Bölgesi'nin iklimine benzer ve dört mevsim ziyaret edilebilir. İskender Paşa Hamamı, ziyaretçilerin doğa ile iç içe olabilecekleri bir destinasyondur.
+İskender Paşa Hamamı, Beykoz'un merkezinde yer alır ve Marmara Denizi'ne kıyısı vardır. Plajın coğrafi konumu, ziyaretçilerin deniz ve doğanın güzelliğini deneyimlemelerine olanak sağlar. İskender Paşa Hamamı'nın coğrafyası, ziyaretçilerin güzelliği deneyimlemelerine olanak sağlar. Plajın iklimi, Marmara Bölgesi'nin iklimine benzer ve dört mevsim ziyaret edilebilir. İskender Paşa Hamamı, ziyaretçilerin doğa ile iç içe olabilecekleri bir destinasyondur.
 
 ## Flora ve Fauna
 

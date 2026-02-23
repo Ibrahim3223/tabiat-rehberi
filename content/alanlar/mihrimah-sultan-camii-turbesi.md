@@ -1,7 +1,7 @@
 ---
 title: "Mihrimah Sultan Camii Türbesi"
 date: "2026-01-10T05:44:53.629Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -38,7 +38,7 @@ Mihrimah Sultan Camii Türbesi, 16. yüzyılda, Kanuni Sultan Süleyman tarafın
 
 ## Coğrafya
 
-Mihrimah Sultan Camii Türbesi, Üsküdar'da, İstanbul Boğazı'na bakan bir tepede bulunmaktadır. Cami ve türbenin etrafı, yeşilliklerle çevrili bir bahçe ile çevrilidir. Bahçenin içinde, çeşitli ağaçlar ve çiçekler bulunur ve ziyaretçilere huzurlu bir ortam sağlar. Cami ve türbenin mimarisi, klasik Osmanlı mimari özelliklerini taşır ve zarif bir görünümü vardır. Ayrıca, kompleksin içinde bulunan çeşme ve sebiller, ziyaretçilere su içme imkanı sağlar. Mihrimah Sultan Camii Türbesi, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Cami ve türbenin yüksekliği, 20 metre civarındadır ve çevredeki diğer binalardan daha yüksek bir konumdadır. Mihrimah Sultan Camii Türbesi, Üsküdar'ın en önemli kültür ve turizm merkezlerinden biridir ve ziyaretçilere, İstanbul'un tarihi ve doğal güzelliklerini bir arada sunar.
+Mihrimah Sultan Camii Türbesi, Üsküdar'da, İstanbul Boğazı'na bakan bir tepede bulunmaktadır. Cami ve türbenin etrafı, yeşilliklerle çevrili bir bahçe ile çevrilidir. Bahçenin içinde, çeşitli ağaçlar ve çiçekler bulunur ve ziyaretçilere huzurlu bir ortam sağlar. Cami ve türbenin mimarisi, klasik Osmanlı mimari özelliklerini taşır ve zarif bir görünümü vardır. Ayrıca, kompleksin içinde bulunan çeşme ve sebiller, ziyaretçilere su içme imkanı sağlar. Cami ve türbenin yüksekliği, 20 metre civarındadır ve çevredeki diğer binalardan daha yüksek bir konumdadır. Mihrimah Sultan Camii Türbesi, Üsküdar'ın en önemli kültür ve turizm merkezlerinden biridir ve ziyaretçilere, İstanbul'un tarihi ve doğal güzelliklerini bir arada sunar.
 
 ## Flora ve Fauna
 

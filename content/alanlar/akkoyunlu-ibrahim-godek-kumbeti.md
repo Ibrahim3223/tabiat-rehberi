@@ -29,7 +29,7 @@ wikidata_id: "Q135582798"
 
 # Akkoyunlu İbrahim Gödek Kümbeti
 
-Iğdır'ın Aralık ilçesinde yer alan Akkoyunlu İbrahim Gödek Kümbeti, yaklaşık 140 hektarlık yeşil alanın içinde bulunan tarihi bir yapıdır. Bu kümbet, ziyaretçilerini tarihi geçmişiyle karşılar ve Iğdır'ın önemli gezi noktalarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle dolu. Iğdır'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Akkoyunlu İbrahim Gödek Kümbeti, hem tarih hem de doğa severlerin ilgisini çekiyor.
+Iğdır'ın Aralık ilçesinde yer alan Akkoyunlu İbrahim Gödek Kümbeti, yaklaşık 140 hektarlık yeşil alanın içinde bulunan tarihi bir yapıdır. Bu kümbet, ziyaretçilerini tarihi geçmişiyle karşılar ve Iğdır'ın önemli gezi noktalarından biridir. Iğdır'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Akkoyunlu İbrahim Gödek Kümbeti, hem tarih hem de doğa severlerin ilgisini çekiyor.
 
 ## Tarihçe
 

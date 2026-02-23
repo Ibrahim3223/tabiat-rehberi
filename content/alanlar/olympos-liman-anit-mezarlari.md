@@ -1,7 +1,7 @@
 ---
 title: "Olympos Liman Anıt Mezarları"
 date: "2026-01-10T00:00:19.836Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -30,7 +30,7 @@ wikidata_id: "Q134728129"
 
 # Olympos Liman Anıt Mezarları
 
-Olympos Liman Anıt Mezarları, Antalya'nın Kumluca ilçesinde yer alan ve tarihi geçmişiyle dikkat çekici bir destinasyondur. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan bir arkeolojik sit alanıdır ve Olympos Antik Kenti'nin bir parçasını oluşturur. Olympos Liman Anıt Mezarları, antik dönemden kalan tarihi yapılarıyla ve doğal güzelliği ile ziyaretçilerini büyülüyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir keşif alanı sunuyor.
+Olympos Liman Anıt Mezarları, Antalya'nın Kumluca ilçesinde yer alan ve tarihi geçmişiyle dikkat çekici bir destinasyondur. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan bir arkeolojik sit alanıdır ve Olympos Antik Kenti'nin bir parçasını oluşturur. Olympos Liman Anıt Mezarları, antik dönemden kalan tarihi yapılarıyla ve doğal güzelliği ile ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

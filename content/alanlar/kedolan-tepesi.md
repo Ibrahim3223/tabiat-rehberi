@@ -29,7 +29,7 @@ wikidata_id: "Q31588814"
 
 # Kedolan Tepesi
 
-Kedolan Tepesi, Güneydoğu Anadolu Bölgesi'nin Adıyaman ilinin Sincik ilçesinde bulunan ve doğa severlerin ilgi odağı haline gelen bir tepe. Bu bölge, yaklaşık 140 hektarlık alanı kapsıyor ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kedolan Tepesi, ziyaretçilerini hem doğal güzellikleri hem de tarihi değerleriyle karşılayacak bir destinasyon. Doğal güzelliği ve zengin tarihi geçmişiyle Kedolan Tepesi, ziyaretçilerini büyülemeye hazır.
+Kedolan Tepesi, Güneydoğu Anadolu Bölgesi'nin Adıyaman ilinin Sincik ilçesinde bulunan ve doğa severlerin ilgi odağı haline gelen bir tepe. Kedolan Tepesi, ziyaretçilerini hem doğal güzellikleri hem de tarihi değerleriyle karşılayacak bir destinasyon. Doğal güzelliği ve zengin tarihi geçmişiyle Kedolan Tepesi, ziyaretçilerini büyülemeye hazır.
 
 ## Tarihçe
 

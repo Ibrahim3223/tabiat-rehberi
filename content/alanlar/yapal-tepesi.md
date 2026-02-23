@@ -28,7 +28,7 @@ wikidata_id: "Q31390287"
 
 # Yapal Tepesi
 
-Yapal Tepesi, Adana'nın güzide noktalarından biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde yeşilin her tonunu görebileceğiniz geniş bir alan yer alıyor. Doğal güzellikleri keşfetme ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir destinasyon olan Yapal Tepesi, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Yapal Tepesi, Adana'nın güzide noktalarından biri olarak karşımıza çıkıyor. Tepenin eteklerinde yeşilin her tonunu görebileceğiniz geniş bir alan yer alıyor.
 
 ## Tarihçe
 

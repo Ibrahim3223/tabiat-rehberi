@@ -28,7 +28,7 @@ wikidata_id: "Q34819930"
 
 # Çöreşi Tepesi
 
-Çöreşi Tepesi, Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Bingöl'de yer alan bir tepe olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal güzelliklerinden biri olarak bilinir. Çöreşi Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Tepenin etrafında yer alan çeşitli bitki türleri ve zengin fauna, bu alanı doğa severler için bir cennet haline getiriyor. Çöreşi Tepesi, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de yansıtan önemli bir mekan olarak kabul ediliyor.
+Çöreşi Tepesi, Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Bingöl'de yer alan bir tepe olarak dikkat çekiyor. Çöreşi Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Tepenin etrafında yer alan çeşitli bitki türleri ve zengin fauna, bu alanı doğa severler için bir cennet haline getiriyor. Çöreşi Tepesi, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de yansıtan önemli bir mekan olarak kabul ediliyor.
 
 ## Tarihçe
 

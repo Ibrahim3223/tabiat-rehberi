@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Silahhane"
 date: "2026-01-10T04:36:40.581Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133475499"
 
 # Yıldız Sarayı Silahhane
 
-Yıldız Sarayı Silahhane, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir plajdır. Beşiktaş'ta bulunan bu plaj, yaklaşık 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir stır. Yıldız Sarayı Silahhane, İstanbul'un en önemli tarihi mekanlarından biridir. Bu plaj, Marmara Denizi'nin kıyısında yer alır ve ziyaretçilerine güzel bir manzara sunar. Yıldız Sarayı Silahhane, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmektedir.
+Yıldız Sarayı Silahhane, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir plajdır. Beşiktaş'ta bulunan bu plaj, yaklaşık 140 hektarlık bir alanı kapsar. Yıldız Sarayı Silahhane, İstanbul'un en önemli tarihi mekanlarından biridir. Bu plaj, Marmara Denizi'nin kıyısında yer alır ve ziyaretçilerine güzel bir manzara sunar. Yıldız Sarayı Silahhane, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmektedir.
 
 ## Tarihçe
 

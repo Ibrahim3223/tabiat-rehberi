@@ -1,7 +1,7 @@
 ---
 title: "Hançerli Hamam"
 date: "2026-01-09T22:17:24.391Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Fatih"
@@ -30,7 +30,7 @@ wikidata_id: "Q121942739"
 
 # Hançerli Hamam
 
-Hançerli Hamam, Ayvansaray'da bulunan tarihi bir hamam ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuştur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Hançerli Hamam, tarihi geçmişi ve doğal güzelliği ile dikkat çeker. Bu alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini çekmeyi başarmaktadır. Hançerli Hamam, Ayvansaray'ın en önemli turistik noktalarından biridir.
+Hançerli Hamam, Ayvansaray'da bulunan tarihi bir hamam ve plaj alanıdır. Hançerli Hamam, tarihi geçmişi ve doğal güzelliği ile dikkat çeker. Bu alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini çekmeyi başarmaktadır. Hançerli Hamam, Ayvansaray'ın en önemli turistik noktalarından biridir.
 
 ## Tarihçe
 

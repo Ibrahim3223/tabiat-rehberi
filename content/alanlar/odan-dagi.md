@@ -52,9 +52,9 @@ Doğal güzellikleri ve coğrafi özellikleriyle dikkat çeken Odan Dağı, Mers
 
 Odan Dağı, Mersin'in zengin ekosistemine ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ve kuraklığa dayanıklı türlere hjem. Kıyı ekosistemi ile birleşen bu dağ, ilkbaharda çiçeklerin açtığı, sonbaharda göç eden kuşların konakladığı bir cennet.
 
-Bitki örtüsünde, kuraklığa dayanıklı türler hakim. Mevsimsel değişimlerle birlikte, ilkbaharda çiçekler açar, yazın yapraklar kurur, sonbaharda ise göç eden kuşlar konaklar. Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çekiyor. 
+Bitki örtüsünde, kuraklığa dayanıklı türler hakim. Mevsimsel değişimlerle birlikte, ilkbaharda çiçekler açar, yazın yapraklar kurur, sonbaharda ise göç eden kuşlar konaklar. Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çekiyor.
 
-Yaban hayatı da oldukça zengin. Memeliler, kuşlar ve sürüngenler bu dağda yaşamını sürdürüyor. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yükseklik zonlarında yaşarken, kartallar, şahinler ve keklikler gibi kuşlar göç yolları üzerinde konaklıyor. Sürüngenler de, kaya ve taşların arasında yaşamlarını sürdürüyor. 
+Yaban hayatı da oldukça zengin. Memeliler, kuşlar ve sürüngenler bu dağda yaşamını sürdürüyor. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yükseklik zonlarında yaşarken, kartallar, şahinler ve keklikler gibi kuşlar göç yolları üzerinde konaklıyor. Sürüngenler de, kaya ve taşların arasında yaşamlarını sürdürüyor.
 
 Bu dağ ekosisteminin ekolojik değeri oldukça yüksek. Doğal yaşam alanlarını koruma altına almak, ekosistemin dengesini korumak için önemli. Odan Dağı, Mersin'in doğal güzelliklerini korumak için önemli bir bölge.
 

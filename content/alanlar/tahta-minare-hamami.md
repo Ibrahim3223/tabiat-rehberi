@@ -1,7 +1,7 @@
 ---
 title: "Tahta Minare Hamamı"
 date: "2026-01-09T22:47:47.686Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738559"
 
 # Tahta Minare Hamamı
 
-Tahta Minare Hamamı, İstanbul'un tarihi dokusuyla ünlü Fatih ilçesinde yer alan, aynı zamanda plaj olarak da kullanılan bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne denk gelir. Bu geniş alanda hem tarihi hamamın güzelliğini hem de plajın keyfini çıkarabilirsiniz. İstanbul'un kalabalığından uzaklaşma ve tarihi bir atmosferde dinlenmek isteyenler için ideal bir destinasyon olan Tahta Minare Hamamı, ziyaretçilerine benzersiz bir deneyim sunar.
+Tahta Minare Hamamı, İstanbul'un tarihi dokusuyla ünlü Fatih ilçesinde yer alan, aynı zamanda plaj olarak da kullanılan bir alandır. Bu geniş alanda hem tarihi hamamın güzelliğini hem de plajın keyfini çıkarabilirsiniz. İstanbul'un kalabalığından uzaklaşma ve tarihi bir atmosferde dinlenmek isteyenler için ideal bir destinasyon olan Tahta Minare Hamamı, ziyaretçilerine benzersiz bir deneyim sunar.
 
 ## Tarihçe
 

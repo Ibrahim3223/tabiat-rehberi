@@ -28,7 +28,7 @@ wikidata_id: "Q34820553"
 
 # Üçlerbaba Tepesi
 
-Üçlerbaba Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan ve históriki oraz doğal güzellikleriyle dikkat çeken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş bir açık alanın keyfini çıkarmaya davet ediyor. Tepenin etrafında, Sivas'ın tarihi dokusunu yansıtan yapılar ve doğa manzaraları bulunuyor. Bu tepe, hem Sivas'ın hem de İç Anadolu Bölgesi'nin önemli bir turizm merkezi olarak kabul ediliyor.
+Üçlerbaba Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan ve tarihi oraz doğal güzellikleriyle dikkat çeken bir destinasyon. Tepenin etrafında, Sivas'ın tarihi dokusunu yansıtan yapılar ve doğa manzaraları bulunuyor. Bu tepe, hem Sivas'ın hem de İç Anadolu Bölgesi'nin önemli bir turizm merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 

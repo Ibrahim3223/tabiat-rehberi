@@ -22,7 +22,7 @@ wikidata_id: "Q108228968"
 
 # BITLIS AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI
 
-Bitlis Ahlat İlçesi Nazik Gölü Doğal Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedeceğiniz bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik alanlarından biri. Nazik Gölü'nün çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu alan, hem doğa severlerin hem de bilim insanlarının ilgisini çeken bir bölge. Nazik Gölü'nün güzelliği ve önemi, ziyaretçilerini büyülemektedir. Gölün suyu, çevredeki dağlardan gelen kaynak sularıyla beslenmekte ve bir dizi su canlısına ev sahipliği yapmaktadır.
+Bitlis Ahlat İlçesi Nazik Gölü Doğal Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedeceğiniz bir destinasyon. Nazik Gölü'nün çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu alan, hem doğa severlerin hem de bilim insanlarının ilgisini çeken bir bölge. Nazik Gölü'nün güzelliği ve önemi, ziyaretçilerini büyülemektedir. Gölün suyu, çevredeki dağlardan gelen kaynak sularıyla beslenmekte ve bir dizi su canlısına ev sahipliği yapmaktadır.
 
 ## Tarihçe
 

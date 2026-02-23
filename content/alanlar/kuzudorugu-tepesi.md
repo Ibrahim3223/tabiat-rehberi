@@ -28,7 +28,7 @@ wikidata_id: "Q31389778"
 
 # Kuzudoruğu Tepesi
 
-Kuzudoruğu Tepesi, Marmara Bölgesi'nin Bilecik ilinde yer alan ve bölgenin gizli hazinelerinden biri olarak kabul edilen bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Kuzudoruğu Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile zengin bir deneyim sunuyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Kuzudoruğu Tepesi, Marmara Bölgesi'nin Bilecik ilinde yer alan ve bölgenin gizli hazinelerinden biri olarak kabul edilen bir doğa harikasıdır. Kuzudoruğu Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile zengin bir deneyim sunuyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 

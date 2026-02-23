@@ -32,7 +32,7 @@ Kırşehir'in coğrafi güzelliğinin önemli bir parçası olan Karaboğa Dağ�
 
 ## Tarihçe
 
-Kırşehir bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, Hitit, Frig, Roma ve Bizans uygarlıklarının izlerini taşır. Karaboğa Dağı da, bu zengin tarihsel mirasın bir parçasıdır. Türkiye'de doğal alanlar, her zaman insanların yaşantısı ve kültürü için önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu doğal güzelliklerin etrafında şekillenmiştir.
+Kırşehir bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, Hitit, Frig, Roma ve Bizans uygarlıklarının izlerini taşır. Karaboğa Dağı da, bu zengin tarihsel mirasın bir parçasıdır. Türkiye'de doğal alanlar, her zaman insanların yaşantısı ve kültürü için önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu doğal güzelliklerin etrafında şekillenmiştir.
 
 Kırşehir, tarihi İpek Yolu'nun da önemli bir durağı olmuştur. Bu yol, Asya ile Avrupa arasındaki ticaretin can damarıydı ve Karaboğa Dağı gibi doğal güzellikler, bu ticaret yollarının önemli kavşak noktaları olarak görev yapmıştır. Bölgenin coğrafi konumu, insanların bu doğal alanlarla iç içe yaşamasına olanak tanımıştır. Karaboğa Dağı, bu bağlamda, sadece bir doğal güzellik değil, aynı zamanda bölgenin tarihsel ve kültürel dokusunun bir parçasıdır.
 
@@ -48,7 +48,7 @@ Doğal bir sınır olarak görev yapan Karaboğa Dağı, çevresindeki ovalar ve
 
 ## Flora ve Fauna
 
-Karaboğa Dağı, Kırşehir'in kalbinde yer alan bir dağ ekosistemi olarak, step bitki örtüsüne ve bozkırın kuraklığa adapte olmuş türlerine ev sahipliği yapmaktadır. 
+Karaboğa Dağı, Kırşehir'in kalbinde yer alan bir dağ ekosistemi olarak, step bitki örtüsüne ve bozkırın kuraklığa adapte olmuş türlerine ev sahipliği yapmaktadır.
 
 Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçlarında çeşitli çiçekler açarken, yaz aylarında kuraklığa dayanıklı otlar ve dikenli bitkiler hakimdir. Sonbaharda, dağların yükseklik zonlarına özgü alpin flora ortaya çıkar.
 

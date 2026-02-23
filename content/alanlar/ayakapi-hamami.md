@@ -1,7 +1,7 @@
 ---
 title: "Ayakapı Hamamı"
 date: "2026-01-09T22:40:44.297Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,11 +30,11 @@ wikidata_id: "Q131738574"
 
 # Ayakapı Hamamı
 
-Ayakapı Hamamı, İstanbul'un Fatih ilçesinde yer alan tarihi bir mekândır. Bu önemli kültürel noktada, geçmişin izleri ve günümüzün renkleri bir arada bulunur. Ayakapı Hamamı, Marmara Bölgesi'nin zengin tarihi ve coğrafi çeşitliliğini yansıtan bir bölgede konumlanmıştır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu geniş alan, ziyaretçilere rahatça dolaşma ve keşif imkanı sağlar.
+Ayakapı Hamamı, İstanbul'un Fatih ilçesinde yer alan tarihi bir mekândır. Bu önemli kültürel noktada, geçmişin izleri ve günümüzün renkleri bir arada bulunur. Ayakapı Hamamı, Marmara Bölgesi'nin zengin tarihi ve coğrafi çeşitliliğini yansıtan bir bölgede konumlanmıştır. Bu geniş alan, ziyaretçilere rahatça dolaşma ve keşif imkanı sağlar.
 
 ## Tarihçe
 
-Ayakapı Hamamı'nın tarihi geçmişi, İstanbul'un fethine kadar uzanır. Bu région, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Tarihi kaynaklara göre, bu bölge ilk olarak Bizans Dönemi'nde önemli bir merkez olarak ortaya çıkmıştır. Daha sonra, Osmanlı İmparatorluğu'nun hakimiyetine giren bölge, önemli bir kültürel ve ticari merkez haline gelmiştir. Ayakapı Hamamı, bu bölgenin zengin tarihini yansıtan önemli bir yapıdır. Ziyaretçiler, bu tarihi mekânı gezerken, geçmişin hikayelerini ve kültürel mirasını keşfedebilirler.
+Ayakapı Hamamı'nın tarihi geçmişi, İstanbul'un fethine kadar uzanır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Tarihi kaynaklara göre, bu bölge ilk olarak Bizans Dönemi'nde önemli bir merkez olarak ortaya çıkmıştır. Daha sonra, Osmanlı İmparatorluğu'nun hakimiyetine giren bölge, önemli bir kültürel ve ticari merkez haline gelmiştir. Ayakapı Hamamı, bu bölgenin zengin tarihini yansıtan önemli bir yapıdır. Ziyaretçiler, bu tarihi mekânı gezerken, geçmişin hikayelerini ve kültürel mirasını keşfedebilirler.
 
 ## Coğrafya
 

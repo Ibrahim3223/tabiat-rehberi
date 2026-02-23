@@ -33,7 +33,7 @@ Saklıkent kayak merkezi, Antalya'nın Seydikemer ilçesinde yer alan ve kayak s
 
 ## Tarihçe
 
-Saklıkent, Türkiye'nin güneyinde yer alan Antalya ilinin bir bölümüdür. Bu bölge, tarihin sâu köklerine sahip bir coğrafyada bulunmaktadır. Antalya, Likya, Pamfilya ve Roma uygarlıklarının izlerini taşıyan bir bölgedir. Saklıkent ve çevresinde, bu uygarlıkların kalıntılarını görme mümkündür.
+Saklıkent, Türkiye'nin güneyinde yer alan Antalya ilinin bir bölümüdür. Bu bölge, tarihin derin köklerine sahip bir coğrafyada bulunmaktadır. Antalya, Likya, Pamfilya ve Roma uygarlıklarının izlerini taşıyan bir bölgedir. Saklıkent ve çevresinde, bu uygarlıkların kalıntılarını görme mümkündür.
 
 Türkiye'de doğal alanlar, tarihsel olarak önemli yerleşim ve ticaret merkezlerinin kurulmasına ev sahipliği yapmışlardır. Bu bölgeler, insan yerleşimlerinin yanı sıra, hayvancılık ve yaylacılık faaliyetlerine de ev sahipliği yapmıştır. Saklıkent gibi yüksek rakımlı bölgeler, yaz aylarında serin bir iklim sunması nedeniyle, yaylacılık faaliyetleri için tercih edilen alanlar olmuştur.
 

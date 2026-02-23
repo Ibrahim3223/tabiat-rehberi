@@ -30,7 +30,7 @@ wikidata_id: "Q31562616"
 
 # Marsis Dağı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Marsis Dağı, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir tepe olarak karşımıza çıkıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bölgenin coğrafi yapısını şekillendiren Marsis Dağı, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Tepe, eteklerinde yer alan köylerle birlikte bir bütün olarak düşünüldüğünde, bölgenin sosyo-ekonomik yapısına da önemli katkılar sağlıyor. Marsis Dağı'nın eteklerinde yer alan köyler, geleneksel tarım faaliyetleri ile geçimlerini sağlıyorlar. Bu faaliyetler, bölgenin ekonomisine önemli katkılar sağlarken, aynı zamanda Marsis Dağı'nın doğal güzelliklerini de koruyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan Marsis Dağı, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir tepe olarak karşımıza çıkıyor. Bölgenin coğrafi yapısını şekillendiren Marsis Dağı, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Tepe, eteklerinde yer alan köylerle birlikte bir bütün olarak düşünüldüğünde, bölgenin sosyo-ekonomik yapısına da önemli katkılar sağlıyor. Marsis Dağı'nın eteklerinde yer alan köyler, geleneksel tarım faaliyetleri ile geçimlerini sağlıyorlar. Bu faaliyetler, bölgenin ekonomisine önemli katkılar sağlarken, aynı zamanda Marsis Dağı'nın doğal güzelliklerini de koruyor.
 
 ## Tarihçe
 

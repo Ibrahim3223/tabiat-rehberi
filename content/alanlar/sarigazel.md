@@ -23,7 +23,7 @@ wikidata_id: "Q108228304"
 
 # Sarıgazel
 
-Sarıgazel milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Bu milli park, bölgenin flora ve fauna çeşitliliğini korumak amacıyla kurulmuştur. Sarıgazel, hem doğa severler hem de çevre bilincine sahip individuals için önemli bir merkez olarak kabul ediliyor. Milli parkın kuruluş amacı, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak.
+Sarıgazel milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu milli park, bölgenin flora ve fauna çeşitliliğini korumak amacıyla kurulmuştur. Sarıgazel, hem doğa severler hem de çevre bilincine sahip individuals için önemli bir merkez olarak kabul ediliyor. Milli parkın kuruluş amacı, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak.
 
 ## Tarihçe
 

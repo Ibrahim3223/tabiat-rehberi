@@ -28,7 +28,7 @@ wikidata_id: "Q35731481"
 
 # Büyükçal Tepesi
 
-Büyükçal Tepesi, Çorum'un merkezinde yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepe, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Büyükçal Tepesi, özellikle manzarası ve temiz havasıyla ziyaretçilerini cezbediyor. Tepenin eteklerinde yer alan köyler ve kasabalar, bölgenin kültürel zenginliğini sergiliyor.
+Büyükçal Tepesi, Çorum'un merkezinde yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Büyükçal Tepesi, özellikle manzarası ve temiz havasıyla ziyaretçilerini cezbediyor. Tepenin eteklerinde yer alan köyler ve kasabalar, bölgenin kültürel zenginliğini sergiliyor.
 
 ## Tarihçe
 

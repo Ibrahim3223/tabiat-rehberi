@@ -1,7 +1,7 @@
 ---
 title: "Karadeniz Türbesi"
 date: "2026-01-10T05:19:52.490Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391736"
 
 # Karadeniz Türbesi
 
-Karadeniz Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Sur ilçesinde bulunan bu mekan, Diyarbakır'ın zengin kültürel mirasını yansıtan önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil etmektedir. Karadeniz Türbesi'nin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmektedir. Bu tarihi mekan, bölgenin kültürel ve doğal zenginliklerini bir araya getirmesiyle dikkat çekmektedir.
+Karadeniz Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Sur ilçesinde bulunan bu mekan, Diyarbakır'ın zengin kültürel mirasını yansıtan önemli bir noktadır. Karadeniz Türbesi'nin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmektedir. Bu tarihi mekan, bölgenin kültürel ve doğal zenginliklerini bir araya getirmesiyle dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karadeniz Türbesi'nin tarihi geçmişi, bölgeye ait önemli bir kültürel mir
 
 ## Coğrafya
 
-Karadeniz Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasında bulunmaktadır. Sur ilçesinde yer alan bu mekan, Diyarbakır'ın merkezine yakın bir konumdadır. 140 hektarlık alan, bölgenin doğal güzelliğini temsil eden geniş bir yeşil alanı kapsamaktadır. Karadeniz Türbesi'nin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunmaktadır. Ayrıca, bu mekanın bulunduğu bölge, zengin flora ve faunaya ev sahipliği yapmaktadır. Bölgenin iklimi, ziyaretçilere yılın dört mevsiminde farklı deneyimler sunmaktadır. Karadeniz Türbesi'nin coğrafi konumu ve doğal güzelliği, ziyaretçilerin ilgisini çekmektedir.
+Karadeniz Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan önemli bir noktasında bulunmaktadır. Sur ilçesinde yer alan bu mekan, Diyarbakır'ın merkezine yakın bir konumdadır. 140 hektarlık alan, bölgenin doğal güzelliğini temsil eden geniş bir yeşil alanı kapsamaktadır. Ayrıca, bu mekanın bulunduğu bölge, zengin flora ve faunaya ev sahipliği yapmaktadır. Bölgenin iklimi, ziyaretçilere yılın dört mevsiminde farklı deneyimler sunmaktadır. Karadeniz Türbesi'nin coğrafi konumu ve doğal güzelliği, ziyaretçilerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 

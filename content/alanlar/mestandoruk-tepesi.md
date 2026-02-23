@@ -28,7 +28,7 @@ wikidata_id: "Q31562503"
 
 # Mestandoruk Tepesi
 
-Mestandoruk Tepesi, Zonguldak'ın Karadeniz Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Doğal güzelliği ve zengin tarihi ile ziyaretçilerini cezbeden Mestandoruk Tepesi, Karadeniz Bölgesi'nin önemli turizm noktalarından biri. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı deneyimleme fırsatı sunuyor. Mestandoruk Tepesi, doğa severler için bir cennet olarak görülüyor ve ziyaretçilere çeşitli etkinlikler sunuyor.
+Mestandoruk Tepesi, Zonguldak'ın Karadeniz Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Doğal güzelliği ve zengin tarihi ile ziyaretçilerini cezbeden Mestandoruk Tepesi, Karadeniz Bölgesi'nin önemli turizm noktalarından biri. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı deneyimleme fırsatı sunuyor. Mestandoruk Tepesi, doğa severler için bir cennet olarak görülüyor ve ziyaretçilere çeşitli etkinlikler sunuyor.
 
 ## Tarihçe
 

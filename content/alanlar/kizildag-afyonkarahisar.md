@@ -1,7 +1,7 @@
 ---
 title: "Kızıldağ (Afyonkarahisar)"
 date: "2026-01-09T01:54:50.305Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Afyonkarahisar"
@@ -33,7 +33,7 @@ Afyonkarahisar'ın coğrafi yapısını şekillendiren önemli bir unsur olan K�
 
 ## Tarihçe
 
-Afyonkarahisar bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, históriye sahne olan önemli uygarlıkların izlerini taşımaktadır. Hitit, Frig, Lidya, Pers, Roma ve Bizans gibi medeniyetler, bu topraklarda yaşamış ve kendi kültürlerini bırakmışlardır.
+Afyonkarahisar bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarihi sahne olan önemli uygarlıkların izlerini taşımaktadır. Hitit, Frig, Lidya, Pers, Roma ve Bizans gibi medeniyetler, bu topraklarda yaşamış ve kendi kültürlerini bırakmışlardır.
 
 Doğal güzellikleri ve stratejik konumuyla, Kızıldağ gibi alanlar, tarihi ticaret yollarının kesişme noktasında yer almıştır. İnsanlar, bu bölgede yaylacılık ve hayvancılıkla uğraşmış, aynı zamanda önemli ticaret merkezleri olarak hizmet vermiştir. Türkiye'nin coğrafi konumu, Asya ve Avrupa'nın kesişme noktasında olmasından dolayı, doğal alanlar tarihi boyunca önemli rol oynamıştır.
 

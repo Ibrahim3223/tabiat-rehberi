@@ -28,7 +28,7 @@ wikidata_id: "Q31386956"
 
 # Sivrice Tepe
 
-Sivrice Tepe, Edirne'nin merkezinde yer alan ve şehrin tarihi geçmişini yansıtan bir tepe olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Tepenin eteklerinde yer alan tarihi yapılar ve doğal güzellikler, Sivrice Tepe'yi ziyaret etmek isteyenler için cezbedici bir yer haline getiriyor. Tepenin etrafında yer alan ağaçlar ve bitki türleri, ziyaretçilere serin ve ferah bir atmosfer sunuyor.
+Sivrice Tepe, Edirne'nin merkezinde yer alan ve şehrin tarihi geçmişini yansıtan bir tepe olarak dikkat çekiyor. Tepenin eteklerinde yer alan tarihi yapılar ve doğal güzellikler, Sivrice Tepe'yi ziyaret etmek isteyenler için cezbedici bir yer haline getiriyor. Tepenin etrafında yer alan ağaçlar ve bitki türleri, ziyaretçilere serin ve ferah bir atmosfer sunuyor.
 
 ## Tarihçe
 

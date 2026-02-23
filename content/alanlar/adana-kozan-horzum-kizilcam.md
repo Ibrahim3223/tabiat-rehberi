@@ -22,7 +22,7 @@ wikidata_id: "Q108227294"
 
 # Adana-Kozan-Horzum Kızılçam
 
-Adana-Kozan-Horzum Kızılçam milli parkı, Akdeniz Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil cennet. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, bölgeye gelenlerin doğayla iç içe olabilecekleri en önemli doğal alanlardan biri. Burada, zengin bitki türleri ve çeşitli hayvanlar ile karşılaşma mümkün. Milli parkın tarihi geçmişi, yüzyıllar boyunca bölgeye yaşam veren doğal güzellikleri koruma altına almak için yapılan çalışmalara dayanıyor. Bu doğal cenneti ziyaret edenler, hem doğanın güzelliğiniDiscover hem de bölgenin tarihi geçmişini keşfedebilirler.
+Adana-Kozan-Horzum Kızılçam milli parkı, Akdeniz Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil cennet. Burada, zengin bitki türleri ve çeşitli hayvanlar ile karşılaşma mümkün. Milli parkın tarihi geçmişi, yüzyıllar boyunca bölgeye yaşam veren doğal güzellikleri koruma altına almak için yapılan çalışmalara dayanıyor. Bu doğal cenneti ziyaret edenler, hem doğanın güzelliğiniDiscover hem de bölgenin tarihi geçmişini keşfedebilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adana-Kozan-Horzum Kızılçam milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Adana-Kozan-Horzum Kızılçam milli parkı, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir doğal alan. Park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi konumu itibariyle, parkın iklimi Akdeniz ikliminin característicasını taşıyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim özelliği gösteriyor. Parkın coğrafi yapısı, ziyaretçilere çeşitli faaliyetler melakukan imkanı sunuyor. Ziyaretçiler, parkın doğal güzelliklerini keşfedebilir, doğa yürüyüşleri yapabilir ve bölgenin tarihi geçmişini öğrenebilirler. Parkın coğrafi konumu, bölgenin flora ve faunasını da etkiliyor. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşma mümkün. Adana-Kozan-Horzum Kızılçam milli parkı, coğrafi yapısı ve doğal güzellikleri ile ziyaretçilere unutulmaz bir deney sunuyor.
+Adana-Kozan-Horzum Kızılçam milli parkı, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir doğal alan. Coğrafi konumu itibariyle, parkın iklimi Akdeniz ikliminin característicasını taşıyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ılıman ve yağışlı bir iklim özelliği gösteriyor. Parkın coğrafi yapısı, ziyaretçilere çeşitli faaliyetler melakukan imkanı sunuyor. Ziyaretçiler, parkın doğal güzelliklerini keşfedebilir, doğa yürüyüşleri yapabilir ve bölgenin tarihi geçmişini öğrenebilirler. Parkın coğrafi konumu, bölgenin flora ve faunasını da etkiliyor. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşma mümkün. Adana-Kozan-Horzum Kızılçam milli parkı, coğrafi yapısı ve doğal güzellikleri ile ziyaretçilere unutulmaz bir deney sunuyor.
 
 ## Flora ve Fauna
 

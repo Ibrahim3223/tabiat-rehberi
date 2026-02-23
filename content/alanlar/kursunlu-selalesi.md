@@ -30,7 +30,7 @@ wikidata_id: "Q981506"
 
 # Kurşunlu Şelalesi
 
-Kurşunlu Şelalesi, Aksu, Antalya'da yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal alan, ziyaretçilerini doğanın güzelliği ile büyülüyor. Şelalenin suyu, çevredeki dağlardan gelen kaynak sularıyla besleniyor ve yüksek bir konumdaten düşüyor. Bu manzara, ziyaretçilere unutulmaz bir deneyim sunuyor.
+ Bu doğal alan, ziyaretçilerini doğanın güzelliği ile büyülüyor. Şelalenin suyu, çevredeki dağlardan gelen kaynak sularıyla besleniyor ve yüksek bir konumdaten düşüyor. Bu manzara, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

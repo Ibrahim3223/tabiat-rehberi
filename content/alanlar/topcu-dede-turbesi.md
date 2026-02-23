@@ -1,7 +1,7 @@
 ---
 title: "Topçu Dede Türbesi"
 date: "2026-01-10T06:07:57.351Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390664"
 
 # Topçu Dede Türbesi
 
-Topçu Dede Türbesi, Merzifon'un tarihi ve kültürel zenginliklerini barındıran önemli bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu bölge, Merzifon'un merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Topçu Dede Türbesi, hem tarih meraklılarının hem de doğa severlerin ilgisini çekecek bir yerdir. Türbenin etrafındaki doğal güzellikler, ziyaretçilere huzur verici bir ortam sunar.
+Topçu Dede Türbesi, Merzifon'un tarihi ve kültürel zenginliklerini barındıran önemli bir destinasyondur. Bu bölge, Merzifon'un merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Topçu Dede Türbesi, hem tarih meraklılarının hem de doğa severlerin ilgisini çekecek bir yerdir. Türbenin etrafındaki doğal güzellikler, ziyaretçilere huzur verici bir ortam sunar.
 
 ## Tarihçe
 

@@ -51,11 +51,11 @@ Mevsimsel değişikliklere göre, Karadağ Tepe'nin iklim karakteri değişkenli
 
 ## Flora ve Fauna
 
-Karadağ Tepe, Trabzon'un nemli iklimine sahip bir dağ ekosistemi olarak, gür ormanlar ve yüksek biyoçeşitlilik sunar. 
+Karadağ Tepe, Trabzon'un nemli iklimine sahip bir dağ ekosistemi olarak, gür ormanlar ve yüksek biyoçeşitlilik sunar.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle dolar. Sonbaharda ise, yaprakların renk değiştirmesiyle birlikte, dağ manzarası bir sanat eserine dönüşür. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle dolar. Sonbaharda ise, yaprakların renk değiştirmesiyle birlikte, dağ manzarası bir sanat eserine dönüşür.
 
-Yaban Hayatı açısından, memeliler ve kuşlar bu dağ ekosisteminin temel bileşenleridir. Göç eden kuşlar, sonbaharda bu dağları ziyaret ederken, memeliler yıl boyunca burada yaşamlarını sürdürürler. 
+Yaban Hayatı açısından, memeliler ve kuşlar bu dağ ekosisteminin temel bileşenleridir. Göç eden kuşlar, sonbaharda bu dağları ziyaret ederken, memeliler yıl boyunca burada yaşamlarını sürdürürler.
 
 Ekolojik Değer olarak, Karadağ Tepe'nin yüksek biyoçeşitliliği ve dağ ekosistemi, bu alanı önemli kılar. Bu nedenle, koruma altına alınması ve sürdürülebilir kullanımının sağlanması büyük önem taşır.
 

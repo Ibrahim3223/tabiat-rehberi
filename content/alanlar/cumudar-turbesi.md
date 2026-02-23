@@ -1,7 +1,7 @@
 ---
 title: "Cumudar Türbesi"
 date: "2026-01-10T06:46:54.275Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582726"
 
 # Cumudar Türbesi
 
-Cumudar Türbesi, Amasya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir yapı. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alanda, çeşitli bitki türleri ve zengin fauna encontrado. Ziyaretçiler, bu güzel ve tarihi mekanın tadını çıkarırken, aynı zamanda doğanın güzelliğini de keşfedebilir.
+Cumudar Türbesi, Amasya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir yapı. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu alanda, çeşitli bitki türleri ve zengin fauna encontrado. Ziyaretçiler, bu güzel ve tarihi mekanın tadını çıkarırken, aynı zamanda doğanın güzelliğini de keşfedebilir.
 
 ## Tarihçe
 

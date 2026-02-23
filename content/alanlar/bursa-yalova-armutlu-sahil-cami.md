@@ -1,7 +1,7 @@
 ---
 title: "Bursa-Yalova-Armutlu Sahil Cami"
 date: "2026-01-09T19:48:54.712Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Bursa"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227278"
 
 # Bursa-Yalova-Armutlu Sahil Cami
 
-Bursa-Yalova-Armutlu Sahil Cami, Marmara Bölgesi'nin en güzel noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, doğal güzellikleri ve tarihi değerleriyle ziyaretçilerini büyülüyor. Bursa'nın merkezine yakın bir konumda yer alan bu cami, hem dini hem de turistik olarak önemli bir nokta olarak göze çarpıyor. Bursa-Yalova-Armutlu Sahil Cami, ziyaretçilerini doğanın güzelliği ve maneviyatın huzuruyla karşılayan özel bir mekan olarak dikkat çekiyor.
+Bursa-Yalova-Armutlu Sahil Cami, Marmara Bölgesi'nin en güzel noktalarından biri olarak karşımıza çıkıyor. Bursa'nın merkezine yakın bir konumda yer alan bu cami, hem dini hem de turistik olarak önemli bir nokta olarak göze çarpıyor. Bursa-Yalova-Armutlu Sahil Cami, ziyaretçilerini doğanın güzelliği ve maneviyatın huzuruyla karşılayan özel bir mekan olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bursa-Yalova-Armutlu Sahil Cami'nin tarihi geçmişi, bölgeye yapılan ilk yerl
 
 ## Coğrafya
 
-Bursa-Yalova-Armutlu Sahil Cami, Marmara Bölgesi'nin güzide bir noktasında yer alıyor. Bölge, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Cami, sahile yakın bir konumda bulunuyor ve bu sayede ziyaretçilere muhteşem bir deniz manzarası sunuyor. Bölgenin coğrafi yapısı, ziyaretçilere hem deniz hem de doğanın güzelliğini bir arada deneyimleme fırsatı sunuyor. Caminin çevresinde, çeşitli bitki türleri ve zengin bir fauna yer alıyor. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösteriyor. Her mevsim, ziyaretçilere farklı güzellikler sunan bu bölge, yıl boyunca ziyaret edilebiliyor.
+Bursa-Yalova-Armutlu Sahil Cami, Marmara Bölgesi'nin güzide bir noktasında yer alıyor. Cami, sahile yakın bir konumda bulunuyor ve bu sayede ziyaretçilere muhteşem bir deniz manzarası sunuyor. Bölgenin coğrafi yapısı, ziyaretçilere hem deniz hem de doğanın güzelliğini bir arada deneyimleme fırsatı sunuyor. Caminin çevresinde, çeşitli bitki türleri ve zengin bir fauna yer alıyor. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösteriyor. Her mevsim, ziyaretçilere farklı güzellikler sunan bu bölge, yıl boyunca ziyaret edilebiliyor.
 
 ## Flora ve Fauna
 

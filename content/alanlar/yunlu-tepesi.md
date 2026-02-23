@@ -28,7 +28,7 @@ wikidata_id: "Q34822585"
 
 # Yünlü Tepesi
 
-Yünlü Tepesi, Hatay'ın doğal güzelliklerinin önemli bir parçasını oluşturur. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet eder. Bu tepe, Akdeniz Bölgesi'nin eşsiz manzaralarına tanıklık etmek isteyenler için ideal bir destinasyon. Yünlü Tepesi, hem yerel halk hem de ziyaretçiler için bir keşif ve doğa severlerin cenneti olarak kabul edilir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu zengin flora, bölgenin ekolojik dengesinde önemli bir rol oynar.
+Yünlü Tepesi, Hatay'ın doğal güzelliklerinin önemli bir parçasını oluşturur. Bu tepe, Akdeniz Bölgesi'nin eşsiz manzaralarına tanıklık etmek isteyenler için ideal bir destinasyon. Yünlü Tepesi, hem yerel halk hem de ziyaretçiler için bir keşif ve doğa severlerin cenneti olarak kabul edilir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu zengin flora, bölgenin ekolojik dengesinde önemli bir rol oynar.
 
 ## Tarihçe
 

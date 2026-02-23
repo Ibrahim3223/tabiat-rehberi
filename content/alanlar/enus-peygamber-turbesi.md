@@ -1,7 +1,7 @@
 ---
 title: "Enüş Peygamber Türbesi"
 date: "2026-01-10T06:51:12.897Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390772"
 
 # Enüş Peygamber Türbesi
 
-Güneydoğu Anadolu Bölgesi'nin kalbinde, tarihi ve coğrafi güzelliği ile ziyaretçilerini büyüleyen Enüş Peygamber Türbesi, Ergani ilçesinde yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu alanda, ziyaretçiler doğanın güzelliği ile beraber, tarihi bir geçmişe de sahip oluyorlar. Enüş Peygamber Türbesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak kabul ediliyor. Burada, ziyaretçiler hem dinlenip hem de bilgi sahibi olarak, unutulmaz anlar yaşayabiliyorlar.
+Güneydoğu Anadolu Bölgesi'nin kalbinde, tarihi ve coğrafi güzelliği ile ziyaretçilerini büyüleyen Enüş Peygamber Türbesi, Ergani ilçesinde yer alıyor. Bu alanda, ziyaretçiler doğanın güzelliği ile beraber, tarihi bir geçmişe de sahip oluyorlar. Enüş Peygamber Türbesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak kabul ediliyor. Burada, ziyaretçiler hem dinlenip hem de bilgi sahibi olarak, unutulmaz anlar yaşayabiliyorlar.
 
 ## Tarihçe
 

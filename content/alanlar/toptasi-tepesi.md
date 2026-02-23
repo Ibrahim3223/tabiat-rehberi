@@ -52,7 +52,7 @@ Doğal güzelliğini koruma altına almak amacıyla, Toptaşı Tepesi'nin çevre
 
 Toptaşı Tepesi, Sivas'ın dağlık bölgesinde, step bitki örtüsünün hakim olduğu bir coğrafyada yer alır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çeker. İlkbahar aylarında, tepenin yamaçları çeşitli çiçek türleriyle renklenir. Step bitkileri, bozkırın karakteristik türleri ve kuraklığa adapte olmuş bitkiler, bu bölgenin bitki örtüsünü oluşturur.
 
-Yaban hayatı da bir o kadar zengin. Dağların yüksek kesimlerinde, dağ keçileri ve diğer memeliler yaşamını sürdürür. Kuşlar, özellikle göç mevsimlerinde, bu bölgeden geçirerek yol alırlar. Sürüngenler de, kura ve kayalık alanlarda yaşamlarını sürdürürler. 
+Yaban hayatı da bir o kadar zengin. Dağların yüksek kesimlerinde, dağ keçileri ve diğer memeliler yaşamını sürdürür. Kuşlar, özellikle göç mevsimlerinde, bu bölgeden geçirerek yol alırlar. Sürüngenler de, kura ve kayalık alanlarda yaşamlarını sürdürürler.
 
 Toptaşı Tepesi, bu çeşitlili ve ekolojik ilişkiler nedeniyle önemli biralue sahip. Bu bölgenin korunması, hem yerel hem de global ekosistem için büyük önem taşıyor.
 

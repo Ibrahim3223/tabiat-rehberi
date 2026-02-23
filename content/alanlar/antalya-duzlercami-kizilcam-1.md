@@ -1,7 +1,7 @@
 ---
 title: "Antalya-Duzlercami Kızılçam 1"
 date: "2026-01-09T19:55:41.397Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Antalya"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227297"
 
 # Antalya-Duzlercami Kızılçam 1
 
-Antalya-Duzlercami Kızılçam 1, Akdeniz Bölgesi'nin en dikkat çekici doğal alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Bu doğal güzelliğin içerisinde, kızılçam ağaçları hakimiyetini kurmuş ve bu ağaçların arasında doğa severler için birçok gezilebilecek yer bulunuyor. Antalya-Duzlercami Kızılçam 1, sadece doğal güzelliği ile değil, aynı zamanda tarihi geçmişiyle de ziyaretçilerini etkiliyor.
+Antalya-Duzlercami Kızılçam 1, Akdeniz Bölgesi'nin en dikkat çekici doğal alanlarından biri olarak karşımıza çıkıyor. Bu doğal güzelliğin içerisinde, kızılçam ağaçları hakimiyetini kurmuş ve bu ağaçların arasında doğa severler için birçok gezilebilecek yer bulunuyor. Antalya-Duzlercami Kızılçam 1, sadece doğal güzelliği ile değil, aynı zamanda tarihi geçmişiyle de ziyaretçilerini etkiliyor.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Antalya-Duzlercami Kızılçam 1, coğrafi olarak Antalya'nın merkezinde yer al
 
 ## Flora ve Fauna
 
-Antalya-Duzlercami Kızılçam 1, flora ve fauna açısından oldukça zengin bir doğal alan olarak karşımıza çıkıyor. Bu doğal alan, birçok bitki türünü barındıran bir ekosistem ve bu ekosistem, birçok canlıya ev sahipliği yapıyor. Antalya-Duzlercami Kızılçam 1'in flora ve faunası, mevsimsel değişimlere göre şekilleniyor ve bu değişimler, ziyaretçilere her mevsim farklı bir güzellik sunuyor. Bu doğal alan, birçok kuş türünün yuvalanma alanı olarak da biliniyor ve bu kuş türleri, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+ Bu doğal alan, birçok bitki türünü barındıran bir ekosistem ve bu ekosistem, birçok canlıya ev sahipliği yapıyor. Antalya-Duzlercami Kızılçam 1'in flora ve faunası, mevsimsel değişimlere göre şekilleniyor ve bu değişimler, ziyaretçilere her mevsim farklı bir güzellik sunuyor. Bu doğal alan, birçok kuş türünün yuvalanma alanı olarak da biliniyor ve bu kuş türleri, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 

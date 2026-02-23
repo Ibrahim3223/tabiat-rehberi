@@ -1,7 +1,7 @@
 ---
 title: "Pınarbaşı Hamamı"
 date: "2026-01-09T23:02:01.359Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738843"
 
 # Pınarbaşı Hamamı
 
-Pınarbaşı Hamamı, İzmir'in Bornova ilçesinde bulunan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe bir ortam sunuyor. Pınarbaşı Hamamı, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+ Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe bir ortam sunuyor. Pınarbaşı Hamamı, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Pınarbaşı Hamamı'nın tarihi geçmişi, yüzyıllar boyunca süregelen bir h
 
 ## Coğrafya
 
-Pınarbaşı Hamamı, Ege Bölgesi'nin coğrafi güzelliklerini bir araya getiren bir noktada bulunmakta. 140 hektarlık geniş yeşil alanı, ziyaretçilere doğanın tüm renklerini ve güzelliklerini sunuyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir hareket alanı sağlıyor. Pınarbaşı Hamamı, coğrafi konumu itibariyle de önemli bir nokta olarak kabul ediliyor. Ege Bölgesi'nin iklimi, Pınarbaşı Hamamı'nı ziyaret etmek için ideal bir ortam sunuyor. Bölgenin iklimi, genellikle ılıman ve ziyaretçiler için rahat bir gezi deneyimi sunuyor.
+Pınarbaşı Hamamı, Ege Bölgesi'nin coğrafi güzelliklerini bir araya getiren bir noktada bulunmakta. 140 hektarlık geniş yeşil alanı, ziyaretçilere doğanın tüm renklerini ve güzelliklerini sunuyor. Pınarbaşı Hamamı, coğrafi konumu itibariyle de önemli bir nokta olarak kabul ediliyor. Ege Bölgesi'nin iklimi, Pınarbaşı Hamamı'nı ziyaret etmek için ideal bir ortam sunuyor. Bölgenin iklimi, genellikle ılıman ve ziyaretçiler için rahat bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

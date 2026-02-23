@@ -1,7 +1,7 @@
 ---
 title: "Haydar Dede Türbesi"
 date: "2026-01-10T06:13:03.354Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390569"
 
 # Haydar Dede Türbesi
 
-Haydar Dede Türbesi, Ayvalık'ın merkezinde yer alan bir dini merkez ve turistik alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle kaplıdır. Bu tarihi mekan, Marmara Bölgesi'nin önemli dini ve turistik merkezlerinden biri olarak bilinir. Ziyaretçiler, burada hem doğanın güzelliklerini keşfedebilir hem de tarihi ve dini önemi yüksek bir mekanda bulunmanın huzurunu yaşayabilirler.
+Haydar Dede Türbesi, Ayvalık'ın merkezinde yer alan bir dini merkez ve turistik alandır. Bu tarihi mekan, Marmara Bölgesi'nin önemli dini ve turistik merkezlerinden biri olarak bilinir. Ziyaretçiler, burada hem doğanın güzelliklerini keşfedebilir hem de tarihi ve dini önemi yüksek bir mekanda bulunmanın huzurunu yaşayabilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Haydar Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir hi
 
 ## Coğrafya
 
-Haydar Dede Türbesi, Ayvalık'ın merkezinde yer alan bir alandır. Bu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Çevresi, çeşitli bitki türleriyle kaplıdır ve ziyaretçiler, buradaki doğanın güzelliklerini keşfedebilirler. Mekan, Marmara Bölgesi'nin iklimine uygun olarak, ılıman ve nemli bir havaya sahiptir. Bahar ve yaz aylarında, ziyaretçiler buradaki yeşilliği ve çiçekleri görebilirler. Kış aylarında ise, mekanın doğal güzellikleri farklı bir şekilde ortaya çıkar. Haydar Dede Türbesi, Ayvalık'ın merkezinde yer aldığı için, ulaşım açısından kolaylık sağlamaktadır. Ziyaretçiler, buraya araç veya toplu taşıma araçlarıyla kolayca ulaşabilirler.
+Haydar Dede Türbesi, Ayvalık'ın merkezinde yer alan bir alandır. Çevresi, çeşitli bitki türleriyle kaplıdır ve ziyaretçiler, buradaki doğanın güzelliklerini keşfedebilirler. Mekan, Marmara Bölgesi'nin iklimine uygun olarak, ılıman ve nemli bir havaya sahiptir. Bahar ve yaz aylarında, ziyaretçiler buradaki yeşilliği ve çiçekleri görebilirler. Kış aylarında ise, mekanın doğal güzellikleri farklı bir şekilde ortaya çıkar. Haydar Dede Türbesi, Ayvalık'ın merkezinde yer aldığı için, ulaşım açısından kolaylık sağlamaktadır. Ziyaretçiler, buraya araç veya toplu taşıma araçlarıyla kolayca ulaşabilirler.
 
 ## Flora ve Fauna
 

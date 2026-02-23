@@ -32,7 +32,7 @@ Kayseri'nin eşsiz coğrafyasında yer alan Süveğen Dağı, tarihi ve doğal g
 
 ## Tarihçe
 
-Süveğen Dağı, tarihi zenginliklerle dolu Kayseri bölgesinin kalbinde yer alır. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yerleşim yeri olmuştur. Hitit, Roma ve Bizans gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada yaşamış ve izler bırakmışlardır. 
+Süveğen Dağı, tarihi zenginliklerle dolu Kayseri bölgesinin kalbinde yer alır. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yerleşim yeri olmuştur. Hitit, Roma ve Bizans gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada yaşamış ve izler bırakmışlardır.
 
 Doğal güzellikleri ve coğrafi konumuyla Süveğen Dağı, tarih boyunca insanların dikkatini çekmiştir. Türkiye'de doğal alanlar, kültürel ve ekonomik yaşamın önemli bir parçasıdır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomisine katkıda bulunmuştur. Süveğen Dağı da, bu tür faaliyetlerin yürütüldüğü bir bölge olarak, bölgenin tarihindeki yerini almıştır.
 

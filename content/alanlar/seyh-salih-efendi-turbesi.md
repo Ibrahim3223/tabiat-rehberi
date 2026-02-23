@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Salih Efendi Türbesi"
 date: "2026-01-10T07:15:25.373Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390899"
 
 # Şeyh Salih Efendi Türbesi
 
-Kütahya'nın merkezinde yer alan Şeyh Salih Efendi Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği özel bir noktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde huzurlu bir atmosfer sunar. Bu türbe, şehrin önemli dini ve kültürel noktalarından biri olarak kabul edilir ve ziyaretçilerini tarihi ve doğası ile büyüler. Şeyh Salih Efendi Türbesi, Kütahya'nın en çok ziyaret edilen yerlerinden biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+Kütahya'nın merkezinde yer alan Şeyh Salih Efendi Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği özel bir noktadır. Bu türbe, şehrin önemli dini ve kültürel noktalarından biri olarak kabul edilir ve ziyaretçilerini tarihi ve doğası ile büyüler. Şeyh Salih Efendi Türbesi, Kütahya'nın en çok ziyaret edilen yerlerinden biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "İsa Bey Hamamı"
 date: "2026-01-09T22:13:26.560Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,15 +30,15 @@ wikidata_id: "Q15056847"
 
 # İsa Bey Hamamı
 
-İsa Bey Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak kabul edilen ve Selçuk'ta yer alan bir doğal cennettir. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir yeşil alana sahiptir. İsa Bey Hamamı, Ege Denizi'nin serin suları ve altın rengindeki kumuyla ziyaretçilerini çekmektedir. Bu doğal güzellik, özellikle yaz aylarında tatilciler ve doğa severler tarafından sıklıkla ziyaret edilmektedir. İsa Bey Hamamı, Selçuk'un merkezine uzun bir mesafe uzaklıkta yer almaktadır ve ulaşımı oldukça kolaydır. Bu plaj, ziyaretçilerine sunduğu doğal güzellikleri ve olanaklarıyla birlikte, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir.
+İsa Bey Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak kabul edilen ve Selçuk'ta yer alan bir doğal cennettir. İsa Bey Hamamı, Ege Denizi'nin serin suları ve altın rengindeki kumuyla ziyaretçilerini çekmektedir. Bu doğal güzellik, özellikle yaz aylarında tatilciler ve doğa severler tarafından sıklıkla ziyaret edilmektedir. İsa Bey Hamamı, Selçuk'un merkezine uzun bir mesafe uzaklıkta yer almaktadır ve ulaşımı oldukça kolaydır. Bu plaj, ziyaretçilerine sunduğu doğal güzellikleri ve olanaklarıyla birlikte, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir.
 
 ## Tarihçe
 
-İsa Bey Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bu plaj, yüzyıllar boyunca farklı medeniyetlerin hakimiyeti altında kalmıştır. İsa Bey Hamamı, tarihi geçmişi itibariyle Selçu ve Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir. Bu plaj, özellikle Bizans ve Osmanlı dönemlerinde önemli bir ticari ve turistik merkez olarak kullanılmıştır. İsa Bey Hamamı, tarihi değerleri ve doğal güzellikleri ile birlikte, ziyaretçilerine zengin bir kültür ve tarih sunmaktadır. Bu plaj, Selçuk'un tarihi merkezi ile birlikte, ziyaretçilere Ege Bölgesi'nin zengin tarihini ve kültürünü keşfetme fırsatı sunmaktadır. İsa Bey Hamamı, tarihsel olarak önemli bir geçmişe sahip olmasının yanı sıra, günümüzde de önemli bir turizm merkezi olarak kabul edilmektedir.
+İsa Bey Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bu plaj, yüzyıllar boyunca farklı medeniyetlerin hakimiyeti altında kalmıştır. İsa Bey Hamamı, tarihi geçmişi itibariyle Selçu ve Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir. Bu plaj, özellikle Bizans ve Osmanlı dönemlerinde önemli bir ticari ve turistik merkez olarak kullanılmıştır. İsa Bey Hamamı, tarihi değerleri ve doğal güzellikleri ile birlikte, ziyaretçilerine zengin bir kültür ve tarih sunmaktadır. İsa Bey Hamamı, tarihsel olarak önemli bir geçmişe sahip olmasının yanı sıra, günümüzde de önemli bir turizm merkezi olarak kabul edilmektedir.
 
 ## Coğrafya
 
-İsa Bey Hamamı, coğrafi olarak Ege Denizi'nin kıyısında yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir yeşil alana sahiptir. İsa Bey Hamamı, Ege Denizi'nin serin suları ve altın rengindeki kumuyla ziyaretçilerini çekmektedir. Bu plaj, Selçuk'un merkezine uzun bir mesafe uzaklıkta yer almaktadır ve ulaşımı oldukça kolaydır. İsa Bey Hamamı, coğrafi olarak önemli bir konuma sahip olmasının yanı sıra, doğal güzellikleri ile birlikte ziyaretçilerine zengin bir deneyim sunmaktadır. Bu plaj, özellikle yaz aylarında tatilciler ve doğa severler tarafından sıklıkla ziyaret edilmektedir. İsa Bey Hamamı, coğrafi olarak Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir. Bu plaj, ziyaretçilerine sunduğu doğal güzellikleri ve olanaklarıyla birlikte, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir. İsa Bey Hamamı, coğrafi olarak önemli bir konuma sahip olmasının yanı sıra, iklimi ve çevre koşullarıyla birlikte, ziyaretçilerine zengin bir deneyim sunmaktadır. Bu plaj, özellikle Ege Denizi'nin serin suları ve altın rengindeki kumuyla ziyaretçilerini çekmektedir.
+İsa Bey Hamamı, coğrafi olarak Ege Denizi'nin kıyısında yer alan bir plajdır. İsa Bey Hamamı, Ege Denizi'nin serin suları ve altın rengindeki kumuyla ziyaretçilerini çekmektedir. Bu plaj, Selçuk'un merkezine uzun bir mesafe uzaklıkta yer almaktadır ve ulaşımı oldukça kolaydır. İsa Bey Hamamı, coğrafi olarak önemli bir konuma sahip olmasının yanı sıra, doğal güzellikleri ile birlikte ziyaretçilerine zengin bir deneyim sunmaktadır. Bu plaj, özellikle yaz aylarında tatilciler ve doğa severler tarafından sıklıkla ziyaret edilmektedir. İsa Bey Hamamı, coğrafi olarak Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir. Bu plaj, ziyaretçilerine sunduğu doğal güzellikleri ve olanaklarıyla birlikte, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir. İsa Bey Hamamı, coğrafi olarak önemli bir konuma sahip olmasının yanı sıra, iklimi ve çevre koşullarıyla birlikte, ziyaretçilerine zengin bir deneyim sunmaktadır. Bu plaj, özellikle Ege Denizi'nin serin suları ve altın rengindeki kumuyla ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 

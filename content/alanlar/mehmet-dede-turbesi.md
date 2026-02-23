@@ -1,7 +1,7 @@
 ---
 title: "Mehmet Dede Türbesi"
 date: "2026-01-10T06:16:35.665Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390576"
 
 # Mehmet Dede Türbesi
 
-Mehmet Dede Türbesi, Ayvalık'ın eşsiz güzellikteki bir noktasında yer alır. Bu özel mekan, tarihi ve doğal güzelliklerini bir araya getiren ender yerlerden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Ayvalık'ın merkezine yakın konumuyla da kolayca ulaşılabilen bu nokta, hem yerli hem de yabancı turistler için önemli bir çekim merkezi olma özelliğini taşıyor.
+Mehmet Dede Türbesi, Ayvalık'ın eşsiz güzellikteki bir noktasında yer alır. Bu özel mekan, tarihi ve doğal güzelliklerini bir araya getiren ender yerlerden biridir. Ayvalık'ın merkezine yakın konumuyla da kolayca ulaşılabilen bu nokta, hem yerli hem de yabancı turistler için önemli bir çekim merkezi olma özelliğini taşıyor.
 
 ## Tarihçe
 

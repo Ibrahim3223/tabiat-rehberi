@@ -50,11 +50,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Çekiç Dağı'nın çevr
 
 ## Flora ve Fauna
 
-Çekiç Dağı, Konya'nın step bitki örtüsü ve bozkır ekosisteminin içinde yükselen bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çekiç Dağı, Konya'nın step bitki örtüsü ve bozkır ekosisteminin içinde yükselen bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-İlkbaharın gelmesiyle birlikte, dağ etekleri ve yamaçları çeşitli çiçek türleriyle renklenir. Step bitkileri ve bozkır türleri, kuraklığa adapte olmuş özel bitkilerle birlikte dağ ekosisteminin zenginliğini oluşturur. 
+İlkbaharın gelmesiyle birlikte, dağ etekleri ve yamaçları çeşitli çiçek türleriyle renklenir. Step bitkileri ve bozkır türleri, kuraklığa adapte olmuş özel bitkilerle birlikte dağ ekosisteminin zenginliğini oluşturur.
 
-Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Memeliler, kuşlar ve sürüngenler, dağın ekolojik dengesini korur. Göç eden kuşlar, sonbaharda dağları ziyaret eder. Dağ keçileri, yaban sığırı gibi büyük memeliler, step kurtları ve tilkiler, dağın yaban hayatını oluşturur. Bu canlılar, dağ ekosisteminin önemli parçalarıdır ve birbirlerine bağımlılıkları vardır. Örneğin, dağ keçileri, step kurtlarının avı olarak yaşamlarını sürdürürler. 
+Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Memeliler, kuşlar ve sürüngenler, dağın ekolojik dengesini korur. Göç eden kuşlar, sonbaharda dağları ziyaret eder. Dağ keçileri, yaban sığırı gibi büyük memeliler, step kurtları ve tilkiler, dağın yaban hayatını oluşturur. Bu canlılar, dağ ekosisteminin önemli parçalarıdır ve birbirlerine bağımlılıkları vardır. Örneğin, dağ keçileri, step kurtlarının avı olarak yaşamlarını sürdürürler.
 
 Çekiç Dağı, bölgenin ekolojik dengesini koruma açısından önemli bir role sahiptir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve doğal güzelliğini korumak için gereklidir.
 

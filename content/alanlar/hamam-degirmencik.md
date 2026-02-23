@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Değirmencik"
 date: "2026-01-09T23:53:42.707Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırklareli"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245786"
 
 # Hamam, Değirmencik
 
-Hamam, Değirmencik, Kırklareli ilinin merkezine uzun bir mesafe uzaklıkta, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve misafirlerine geniş bir açık alan sunar. Bu bölge, hem doğal güzelliği hem de tarihi zenginliğiyle dikkat çeker. Değirmencik Plajı, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir destinasyon olarak ortaya çıkarken, Hamam bölgesinin tarihi geçmişi ve kültürel önemi de dikkat çekmektedir. Bu bölgede yapılan arkeolojik kazılar, bölgenin tarihinin çok eskilere dayandığını göstermektedir. Ayrıca, plajın yakınında bulunan tarihi değirmenler, ziyaretçilerin ilgisini çekmektedir.
+Hamam, Değirmencik, Kırklareli ilinin merkezine uzun bir mesafe uzaklıkta, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu bölge, hem doğal güzelliği hem de tarihi zenginliğiyle dikkat çeker. Değirmencik Plajı, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir destinasyon olarak ortaya çıkarken, Hamam bölgesinin tarihi geçmişi ve kültürel önemi de dikkat çekmektedir. Bu bölgede yapılan arkeolojik kazılar, bölgenin tarihinin çok eskilere dayandığını göstermektedir. Ayrıca, plajın yakınında bulunan tarihi değirmenler, ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hamam, Değirmencik bölgesinin tarihi geçmişi, yüzyıllar boyunca birçok me
 
 ## Coğrafya
 
-Hamam, Değirmencik, Marmara Bölgesi'nin coğrafi olarak en güzel noktalarından biridir. Bu bölge, Karadeniz ve Ege Bölgeleri arasında bir geçiş alanı olarak bulunmaktadır. Coğrafi olarak, 140 hektarlık bir yeşil alan üzerinde kurulmuş olan bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir. Plajın uzunluğu ve genişliği, ziyaretçilere geniş bir açık alan sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi gibi ılımandır. Kış ayları ılık, yaz ayları ise serin passing. Bu coğrafi konum ve iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuştur. Hamam, Değirmencik, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir destinasyon olarak ortaya çıkarken, bölgenin coğrafi güzelliği ve iklimi de dikkat çekmektedir. Ayrıca, bölgeyi çevreleyen ormanlar, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
+Hamam, Değirmencik, Marmara Bölgesi'nin coğrafi olarak en güzel noktalarından biridir. Bu bölge, Karadeniz ve Ege Bölgeleri arasında bir geçiş alanı olarak bulunmaktadır. Plajın uzunluğu ve genişliği, ziyaretçilere geniş bir açık alan sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi gibi ılımandır. Kış ayları ılık, yaz ayları ise serin passing. Bu coğrafi konum ve iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunmuştur. Hamam, Değirmencik, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir destinasyon olarak ortaya çıkarken, bölgenin coğrafi güzelliği ve iklimi de dikkat çekmektedir. Ayrıca, bölgeyi çevreleyen ormanlar, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

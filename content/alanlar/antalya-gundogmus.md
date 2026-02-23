@@ -23,7 +23,7 @@ wikidata_id: "Q108227382"
 
 # Antalya-Gundogmus
 
-Antalya-Gundogmus milli parkı, Antalya'nın Gundogmus ilçesinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, bu milli parkı ziyaret ederek doğayla iç içe olabilir ve güzel anlar yaşayabilir.
+Antalya-Gundogmus milli parkı, Antalya'nın Gundogmus ilçesinde yer alan 140 hektarlık bir yeşil alandır. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, bu milli parkı ziyaret ederek doğayla iç içe olabilir ve güzel anlar yaşayabilir.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Antalya-Gundogmus milli parkı, Antalya'nın Gundogmus ilçesinde yer alır. Bu 
 
 ## Flora ve Fauna
 
-Antalya-Gundogmus milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu parkta, genellikle Akdeniz bitki türleri bulunur. Mevsimsel değişimler, bu bölgede belirgindir. Kış aylarında, bitki örtüsü genellikle yeşildir ve çiçekler açar. Yaz aylarında, ise bitki örtüsü genellikle kuru ve sarıdır. Fauna, genellikle yaban hayvanlarından oluşur. Ziyaretçiler, bu milli parkı ziyaret ederek doğayla iç içe olabilir ve güzel anlar yaşayabilir.
+ Bu parkta, genellikle Akdeniz bitki türleri bulunur. Mevsimsel değişimler, bu bölgede belirgindir. Kış aylarında, bitki örtüsü genellikle yeşildir ve çiçekler açar. Yaz aylarında, ise bitki örtüsü genellikle kuru ve sarıdır. Fauna, genellikle yaban hayvanlarından oluşur. Ziyaretçiler, bu milli parkı ziyaret ederek doğayla iç içe olabilir ve güzel anlar yaşayabilir.
 
 ## Ziyaret Bilgileri
 

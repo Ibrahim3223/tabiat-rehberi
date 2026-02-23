@@ -22,7 +22,7 @@ wikidata_id: "Q108228275"
 
 # Kastamonu-Duragan-Adadagi-Kızılcam 2
 
-Kastamonu-Duragan-Adadagi-Kızılcam 2 milli parkı, Kastamonu ilinin doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin zengin flora ve fauna çeşitliliğini sunar. Bu milli park, hem doğa severlerin hem de bilim insanlarının ilgisini çeker. Bölge, çeşitli bitki türleri ve hayvan çeşitliliğine ev sahipliği yapar. Milli parkın güzellikleri, ziyaretçilerini doğanın içine çekerek, unutulmaz bir deneyim sağlar.
+Kastamonu-Duragan-Adadagi-Kızılcam 2 milli parkı, Kastamonu ilinin doğal güzelliklerinden biridir. Bu milli park, hem doğa severlerin hem de bilim insanlarının ilgisini çeker. Bölge, çeşitli bitki türleri ve hayvan çeşitliliğine ev sahipliği yapar. Milli parkın güzellikleri, ziyaretçilerini doğanın içine çekerek, unutulmaz bir deneyim sağlar.
 
 ## Tarihçe
 

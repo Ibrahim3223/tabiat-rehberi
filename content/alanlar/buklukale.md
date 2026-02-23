@@ -30,7 +30,7 @@ wikidata_id: "Q114734090"
 
 # Büklükale
 
-Büklükale, Kırıkkale'nin Karakeçili ilçesinde yer alan ve tarihi boyunca önemli bir yerleşim merkezi olan bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Büklükale'nin coğrafi konumu, İç Anadolu Bölgesi'nin merkezinde yer alıyor ve tarihi geçmişi yüzyıllar öncesine dayanıyor. Bu tepe, bölgenin jeolojik yapısını da etkileyen önemli bir nokta olarak biliniyor.
+Büklükale, Kırıkkale'nin Karakeçili ilçesinde yer alan ve tarihi boyunca önemli bir yerleşim merkezi olan bir tepe. Büklükale'nin coğrafi konumu, İç Anadolu Bölgesi'nin merkezinde yer alıyor ve tarihi geçmişi yüzyıllar öncesine dayanıyor. Bu tepe, bölgenin jeolojik yapısını da etkileyen önemli bir nokta olarak biliniyor.
 
 ## Tarihçe
 

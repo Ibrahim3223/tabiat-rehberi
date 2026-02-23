@@ -28,7 +28,7 @@ wikidata_id: "Q31389675"
 
 # Karaharman Tepesi
 
-Kastamonu'nun güzide tepelerinden biri olan Karaharman Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu muhteşem doğa harikası, ziyaretçilerine hem tarihi hem de coğrafi açıdan zengin bir deneyim sunuyor. Tepenin eteklerinde yer alan köyler, misafirperver halkıyla ve geleneksel mimarisiyle ziyaretçileri karşılıyor. Karaharman Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir destinasyon. Tepenin zirvesine çıktığınızda, Karadeniz Bölgesi'nin eşsiz manzarasını izleme fırsatı bulacaksınız.
+ Bu muhteşem doğa harikası, ziyaretçilerine hem tarihi hem de coğrafi açıdan zengin bir deneyim sunuyor. Tepenin eteklerinde yer alan köyler, misafirperver halkıyla ve geleneksel mimarisiyle ziyaretçileri karşılıyor. Karaharman Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir destinasyon. Tepenin zirvesine çıktığınızda, Karadeniz Bölgesi'nin eşsiz manzarasını izleme fırsatı bulacaksınız.
 
 ## Tarihçe
 

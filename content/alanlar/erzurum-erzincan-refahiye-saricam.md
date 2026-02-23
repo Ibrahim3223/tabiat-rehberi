@@ -22,7 +22,7 @@ wikidata_id: "Q108227559"
 
 # Erzurum-Erzincan-Refahiye Saricam
 
-Erzurum-Erzincan-Refahiye Saricam milli parkı, Erzurum'un doğusunda yer alan 140 hektarlık bir alanla, yaklaşık 200 futbol sahası büyüklüğünde. Bu milli park, Erzurum-Erzincan-Refahiye arasında yer alıyor ve doğa severler için bir cennet. Milli parkın çevresinde yer alan dağlar, ormanlar ve göller, ziyaretçilere görsel bir şölen sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet.
+ Bu milli park, Erzurum-Erzincan-Refahiye arasında yer alıyor ve doğa severler için bir cennet. Milli parkın çevresinde yer alan dağlar, ormanlar ve göller, ziyaretçilere görsel bir şölen sunuyor.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Erzurum-Erzincan-Refahiye Saricam milli parkı, coğrafi olarak oldukça zengin 
 
 ## Flora ve Fauna
 
-Erzurum-Erzincan-Refahiye Saricam milli parkı, flora ve fauna açısından oldukça zengin bir bölge. Milli parkın içerisinde yer alan ormanlar, çeşitli ağaç türleri ile dolu ve bu ağaçlar, ziyaretçilere görsel bir şölen sunuyor. Milli parkın içerisinde yer alan göller ve nehirler, bu bölgenin fauna zenginliğini daha da artırıyor. Bu su kaynaklarında, çeşitli balık türleri ve diğer su canlıları yaşıyor. Milli parkın flora ve fauna zenginliği, ziyaretçilere doğanın güzelliğini sunuyor. Mevsimsel değişimler, milli parkın flora ve faunasını daha da zenginleştiriyor.
+ Milli parkın içerisinde yer alan ormanlar, çeşitli ağaç türleri ile dolu ve bu ağaçlar, ziyaretçilere görsel bir şölen sunuyor. Milli parkın içerisinde yer alan göller ve nehirler, bu bölgenin fauna zenginliğini daha da artırıyor. Bu su kaynaklarında, çeşitli balık türleri ve diğer su canlıları yaşıyor. Milli parkın flora ve fauna zenginliği, ziyaretçilere doğanın güzelliğini sunuyor. Mevsimsel değişimler, milli parkın flora ve faunasını daha da zenginleştiriyor.
 
 ## Ziyaret Bilgileri
 

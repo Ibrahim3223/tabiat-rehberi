@@ -22,7 +22,7 @@ wikidata_id: "Q108227920"
 
 # Adapazari-Karasu Karacam
 
-Adapazari-Karasu Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alanı kapsıyor. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve doğa severler için bir cennet olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa tutkunları için bir çekim merkezi haline getiriyor. 140 hektarlık bu yeşil alan, hem bölgenin doğal güzelliklerini koruyor hem de ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Adapazari-Karasu Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alanı kapsıyor. Burada, çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa tutkunları için bir çekim merkezi haline getiriyor. 140 hektarlık bu yeşil alan, hem bölgenin doğal güzelliklerini koruyor hem de ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

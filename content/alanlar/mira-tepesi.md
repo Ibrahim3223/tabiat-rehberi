@@ -29,7 +29,7 @@ wikidata_id: "Q31548220"
 
 # Mira Tepesi
 
-Mira Tepesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Siirt ilinin sınırları içinde yer alan bir doğa harikası. 140 hektarlık bir alanı kaplayan bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Mira Tepesi, ziyaretçilerini doğal güzelliği ile mest ediyor. Bu bölge, hem doğa severlerin hem de tarihi geçmişe ilgi duyanların ilgisini çekiyor. Tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış olan bu bölgenin tarihi geçmişi, zengin kültürel mirasıyla da dikkat çekiyor.
+Mira Tepesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Siirt ilinin sınırları içinde yer alan bir doğa harikası. Mira Tepesi, ziyaretçilerini doğal güzelliği ile mest ediyor. Bu bölge, hem doğa severlerin hem de tarihi geçmişe ilgi duyanların ilgisini çekiyor. Tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış olan bu bölgenin tarihi geçmişi, zengin kültürel mirasıyla da dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mira Tepesi'nin tarihi geçmişi, Siirt'in genel tarihçesi ile paralellik göst
 
 ## Coğrafya
 
-Mira Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu tepe, Siirt ilinin genel coğrafyasına uygun olarak, dağlık ve engebeli bir arazi yapısına sahip. Bölgenin iklimi, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı olarak tanımlanabilir. Bu coğrafi özellikleri, Mira Tepesi'ni ziyaret edenler için çeşitli doğa aktiviteleri sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunması, bu bölgeyi doğa severler için bir cennet haline getiriyor. Mira Tepesi, ziyaretçilerine geniş ve yeşil alanlar sunuyor ve bu alanlar, yaklaşık 200 futbol sahası büyüklüğünde.
+Mira Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge. Bu tepe, Siirt ilinin genel coğrafyasına uygun olarak, dağlık ve engebeli bir arazi yapısına sahip. Bölgenin iklimi, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı olarak tanımlanabilir. Bu coğrafi özellikleri, Mira Tepesi'ni ziyaret edenler için çeşitli doğa aktiviteleri sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunması, bu bölgeyi doğa severler için bir cennet haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Mira Tepesi'ni ziyaret etmek, doğa severler ve tarihi geçmişe ilgi duyanlar i
 ## İlginç Bilgiler
 
 - Mira Tepesi, 140 hektarlık bir alanı kaplıyor.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Mira Tepesi, Siirt ilinin sınırları içinde yer alıyor.
 - Bu tepe, Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri.
 - Mira Tepesi, doğa severler ve tarihi geçmişe ilgi duyanlar için önemli bir destinasyon.

@@ -28,7 +28,7 @@ wikidata_id: "Q31388408"
 
 # Ayıyatağı Tepesi
 
-Ayıyatağı Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreleyen dağlarla birlikte büyüleyici bir manzara sunuyor. Bu tepe, Doğu Anadolu Bölgesi'nin coğrafi çeşitliliğini gösteriyor ve ziyaretçilerine benzersiz bir deneyim sunuyor. Ayıyatağı Tepesi, doğa severlerin ve macera arayanların keşfetmek için geldikleri bir yer.
+Ayıyatağı Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, Doğu Anadolu Bölgesi'nin coğrafi çeşitliliğini gösteriyor ve ziyaretçilerine benzersiz bir deneyim sunuyor. Ayıyatağı Tepesi, doğa severlerin ve macera arayanların keşfetmek için geldikleri bir yer.
 
 ## Tarihçe
 

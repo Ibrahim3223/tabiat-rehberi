@@ -48,11 +48,11 @@ Bölgenin ekosistemi, Sarımsak Mağarası'nın varlığıyla birlikte zenginle�
 
 ## Flora ve Fauna
 
-Sarımsak Mağarası'nın çevreleyen jeopark alanı, yarı kurak iklimin hüküm sürdüğü bir bölge. Step ve ova ekolojisi, bu alanda özel bir orman ekosisteminin gelişmesine olanak tanıyor. 
+Sarımsak Mağarası'nın çevreleyen jeopark alanı, yarı kurak iklimin hüküm sürdüğü bir bölge. Step ve ova ekolojisi, bu alanda özel bir orman ekosisteminin gelişmesine olanak tanıyor.
 
-Bitki örtüsünü oluşturan çeşitli ağaç türleri, ilkbaharın gelişiyle birlikte çiçek açmaya başlıyor. Bu mevsimde, bölgeye renkli bir güzellik katıyor. Sonbaharda ise, yaprakların dökülmesiyle birlikte, ormanın doğal döngüsü devam ediyor. 
+Bitki örtüsünü oluşturan çeşitli ağaç türleri, ilkbaharın gelişiyle birlikte çiçek açmaya başlıyor. Bu mevsimde, bölgeye renkli bir güzellik katıyor. Sonbaharda ise, yaprakların dökülmesiyle birlikte, ormanın doğal döngüsü devam ediyor.
 
-Orman memelileri, bu alanın zengin fauna yapısının önemli bir parçasını oluşturuyor. Kuşlar, özellikle sonbahar ve ilkbahar göçleri sırasında, bu bölgeyi önemli bir uğrak noktası olarak kullanıyor. Sürüngenler ise, orman ekosisteminin bir diğer önemli bileşenini temsil ediyor. 
+Orman memelileri, bu alanın zengin fauna yapısının önemli bir parçasını oluşturuyor. Kuşlar, özellikle sonbahar ve ilkbahar göçleri sırasında, bu bölgeyi önemli bir uğrak noktası olarak kullanıyor. Sürüngenler ise, orman ekosisteminin bir diğer önemli bileşenini temsil ediyor.
 
 Bu ekosistemin korunması, bölgenin doğal dengesinin sürdürülmesi açısından büyük önem taşıyor. Sarımsak Mağarası ve çevresi, bu nedenle özel koruma altına alınmış bir alan. Bu bölgenin korunması, gelecek nesiller için önemli bir doğal mirasın sürdürülmesini sağlıyor.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108226638"
 
 # Alanya Gazipaşa Sit Alanı
 
-Alanya Gazipaşa Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir doğal alan. Bu bölgenin benzersiz doğası, ziyaretçilerini kendine çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, doğanın güzelliği ve zengin fauna ile flora çeşitliliği bir arada bulunuyor. Bu doğal alan, hem doğa severlerin hem de bilim insanlarının ilgisini çekmektedir.
+Alanya Gazipaşa Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir doğal alan. Bu bölgenin benzersiz doğası, ziyaretçilerini kendine çekiyor. Burada, doğanın güzelliği ve zengin fauna ile flora çeşitliliği bir arada bulunuyor. Bu doğal alan, hem doğa severlerin hem de bilim insanlarının ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Alanya Gazipaşa Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Alanya Gazipaşa Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Dağlar, ovalar ve nehirler, bu bölgenin coğrafi özelliklerini oluşturuyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzemektedir. Kışları soğuk ve karlı, yazları ise sıcak ve kurak geçmektedir. Bu coğrafi özellikler, flora ve fauna çeşitliliğini etkileyen önemli faktörler. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilere geniş bir keşif alanı sunuyor.
+Alanya Gazipaşa Sit Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Dağlar, ovalar ve nehirler, bu bölgenin coğrafi özelliklerini oluşturuyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzemektedir. Kışları soğuk ve karlı, yazları ise sıcak ve kurak geçmektedir. Bu coğrafi özellikler, flora ve fauna çeşitliliğini etkileyen önemli faktörler.
 
 ## Flora ve Fauna
 

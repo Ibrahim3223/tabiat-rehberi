@@ -22,7 +22,7 @@ wikidata_id: "Q108227737"
 
 # Gumushane-Torul-Orumcek Dogu Ladini
 
-Gumushane-Torul-Orumcek Dogu Ladini milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Milli park, İç Anadolu Bölgesi'nde yer alıyor ve doğa yürüyüşleri, kampçılık ve doğa fotoğrafçılığı için ideal bir yer.  Gumushane-Torul-Orumcek Dogu Ladini milli parkı, zengin bitki ve hayvan çeşitliliği ile dikkat çekiyor. Parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Doğa severler, bu milli parkı ziyaret ederek, doğanın güzelliğini yakından görebilirler.
+Gumushane-Torul-Orumcek Dogu Ladini milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Milli park, İç Anadolu Bölgesi'nde yer alıyor ve doğa yürüyüşleri, kampçılık ve doğa fotoğrafçılığı için ideal bir yer.  Gumushane-Torul-Orumcek Dogu Ladini milli parkı, zengin bitki ve hayvan çeşitliliği ile dikkat çekiyor. Parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Doğa severler, bu milli parkı ziyaret ederek, doğanın güzelliğini yakından görebilirler.
 
 ## Tarihçe
 

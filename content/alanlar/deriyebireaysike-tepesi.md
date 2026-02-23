@@ -28,7 +28,7 @@ wikidata_id: "Q31555378"
 
 # Deriyebıreaysike Tepesi
 
-Deriyebıreaysike Tepesi, Şırnak ilinin önemli coğrafi oluşumlarından biridir. Güneydoğu Anadolu Bölgesi'nin zengin doğal güzelliklerine ev sahipliği yapan bu tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar. 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Deriyebıreaysike Tepesi, bölgenin tarihi geçmişi ve coğrafi yapısı hakkında önemli bilgiler sunar. Ziyaretçiler, bu tepenin eteklerinde yer alan çeşitli bitki türlerini ve zengin fauna çeşitliliğini keşfedebilir.
+Deriyebıreaysike Tepesi, Şırnak ilinin önemli coğrafi oluşumlarından biridir. Güneydoğu Anadolu Bölgesi'nin zengin doğal güzelliklerine ev sahipliği yapan bu tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Deriyebıreaysike Tepesi, bölgenin tarihi geçmişi ve coğrafi yapısı hakkında önemli bilgiler sunar. Ziyaretçiler, bu tepenin eteklerinde yer alan çeşitli bitki türlerini ve zengin fauna çeşitliliğini keşfedebilir.
 
 ## Tarihçe
 

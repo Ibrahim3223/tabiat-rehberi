@@ -52,7 +52,7 @@ Orta Dağ, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosistem olu
 
 ## Flora ve Fauna
 
-Orta Dağ, Denizli'nin göbeğinde yükselen bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Orta Dağ, Denizli'nin göbeğinde yükselen bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki örtüsüne baktığımızda, step bitki örtüsü ve bozkırın hakim olduğunu görüyoruz. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Sonbaharda ise, göç eden kuşlar dağların gökyüzünü süslüyor.
 
 Yaban hayatına bakıldığında, dağların yükseklik zonlarına adapte olmuş memeliler, kuşlar ve sürüngenler dikkat çekiyor. Dağ keçileri, dağların kayalık yamaçlarında ediyor. Kuşlar ise, dağların yüksek kesimlerinde yuvalanıyor ve göç ediyor.

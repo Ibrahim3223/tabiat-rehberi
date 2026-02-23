@@ -34,7 +34,7 @@ Antalya'nın dağlık bölgelerinde gizli bir hazine gibi duran Çiğdem Dağı,
 
 Antalya bölgesinin zengin tarihi, Çiğdem Dağı'nın eteklerine kadar uzanır. Bu bölge, tarih boyuncaVarious uygarlıkların hüküm sürdüğü bir coğrafyadır. Likya, Pamfilya ve Roma uygarlıkları, Antalya'nın stratejik konumu nedeniyle burada önemli yerleşim merkezleri kurmuşlardır. Bu uygarlıkların izleri, bölgenin arkeolojik sitelerinde hala görülebilmektedir.
 
-Doğal güzelliği ile öne çıkan Çiğdem Dağı, Türkiye'nin diğer dağlık bölgeleri gibi, histórik olarak önemli bir role sahiptir. Bu tür doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmek için využílmış, yaylacılık ve hayvancılık faaliyetlerine ev sahipliği yapmışlardır. Ayrıca, bölgeden geçen tarihi ticaret yolları, bu doğal güzelliklerin keşfedilmesine ve insan yerleşimlerinin oluşmasına katkıda bulunmuştur.
+Doğal güzelliği ile öne çıkan Çiğdem Dağı, Türkiye'nin diğer dağlık bölgeleri gibi, tarihi olarak önemli bir role sahiptir. Bu tür doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmek için využílmış, yaylacılık ve hayvancılık faaliyetlerine ev sahipliği yapmışlardır. Ayrıca, bölgeden geçen tarihi ticaret yolları, bu doğal güzelliklerin keşfedilmesine ve insan yerleşimlerinin oluşmasına katkıda bulunmuştur.
 
 İnsanların Çiğdem Dağı ile ilişkisi, sadece ekonomik faaliyetlerle sınırlı değildir. Bu doğal alan, aynı zamanda bölgenin kültürel ve sosyal dokusunun bir parçasıdır. Yerel halk, bu dağlık bölgede geleneksel yaşam tarzını sürdürmeye devam etmektedir. Çiğdem Dağı, Antalya'nın tarihini ve kültürünü anlamak için önemli bir başlangıç noktası sunar.
 

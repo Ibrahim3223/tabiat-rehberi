@@ -30,7 +30,7 @@ wikidata_id: "Q7134113"
 
 # Paradeniz
 
-Mersin'in Silifke ilçesinde, doğanın gizli hazinelerinden biri olarak bilinen Paradeniz, ziyaretçilerini kendine hayran bırakıyor. Bu doğal göl, Silifke'nin merkezine yakın bir konumda bulunuyor ve bölgenin önemli turizm noktalarından biri olarak dikkat çekiyor. Paradeniz, özellikle doğa severler ve fotoğraf meraklıları tarafından sıkça ziyaret ediliyor. Silifke'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir durak olan Paradeniz, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Mersin'in Silifke ilçesinde, doğanın gizli hazinelerinden biri olarak bilinen Paradeniz, ziyaretçilerini kendine hayran bırakıyor. Bu doğal göl, Silifke'nin merkezine yakın bir konumda bulunuyor ve bölgenin önemli turizm noktalarından biri olarak dikkat çekiyor. Paradeniz, özellikle doğa severler ve fotoğraf meraklıları tarafından sıkça ziyaret ediliyor.
 
 ## Tarihçe
 

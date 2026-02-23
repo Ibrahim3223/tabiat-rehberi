@@ -1,7 +1,7 @@
 ---
 title: "Şifa Hamamı Sultanahmet"
 date: "2026-01-09T22:56:25.884Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738601"
 
 # Şifa Hamamı Sultanahmet
 
-Şifa Hamamı Sultanahmet, İstanbul'un tarihi ve kültürel zenginliklerini barındıran bir destinasyondur. Fatih ilçesinde bulunan bu mekan, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. 140 hektarlık bir alanı kaplayan Şifa Hamamı Sultanahmet, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu geniş alan, ziyaretçilerin doğayı yakından tanımasına ve tarihi yapıları keşfetmesine olanak sağlar. Şifa Hamamı Sultanahmet, İstanbul'un en önemli turistik noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
+Şifa Hamamı Sultanahmet, İstanbul'un tarihi ve kültürel zenginliklerini barındıran bir destinasyondur. Fatih ilçesinde bulunan bu mekan, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Bu geniş alan, ziyaretçilerin doğayı yakından tanımasına ve tarihi yapıları keşfetmesine olanak sağlar. Şifa Hamamı Sultanahmet, İstanbul'un en önemli turistik noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 

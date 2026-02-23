@@ -50,11 +50,11 @@ Mihraplı Tepe, bölgenin ekosistem bağlantıları açısından önemli bir rol
 
 ## Flora ve Fauna
 
-Mihraplı Tepe, Isparta'nın dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapar ve kuraklığa dayanıklı türlerle doludur. İlkbaharın gelmesiyle birlikte, tepe çiçeklerle kaplanır ve rengarenk bir manzara sunar. 
+Mihraplı Tepe, Isparta'nın dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapar ve kuraklığa dayanıklı türlerle doludur. İlkbaharın gelmesiyle birlikte, tepe çiçeklerle kaplanır ve rengarenk bir manzara sunar.
 
 Bitki örtüsünün hakim türleri arasında maki bitkileri, keçiboynuzu ve laden bulunmaktadır. Bu bitkiler, kuraklığa dayanıklı yapılarıyla bölgenin ekolojisini şekillendirmektedir. Dağ ekosisteminin yükseklik zonlarında, alpin flora çeşitliliği dikkat çekmektedir.
 
-Yaban hayatı açısından zengin olan Mihraplı Tepe, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, bölgenin dağlık arazilerinde yaşamlarını sürdürürken, kartallar, şahinler ve toy kuşları gibi kuşlar, gökyüzünü süslemektedir. Sonbaharın gelmesiyle birlikte, göçmen kuşlar bölgeden geçiş yaparlar ve bu görüntüyü izleme mümkün olur. 
+Yaban hayatı açısından zengin olan Mihraplı Tepe, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, bölgenin dağlık arazilerinde yaşamlarını sürdürürken, kartallar, şahinler ve toy kuşları gibi kuşlar, gökyüzünü süslemektedir. Sonbaharın gelmesiyle birlikte, göçmen kuşlar bölgeden geçiş yaparlar ve bu görüntüyü izleme mümkün olur.
 
 Mihraplı Tepe'nin ekolojik değeri, bu doğal dengenin korunmasına bağlıdır. Bu bölge, doğa severler için bir cennet niteliğindedir ve ziyaretçilerini büyülemektedir.
 

@@ -50,7 +50,7 @@ Babacan Dağı, çevresindeki diğer doğal güzelliklerle bağlantılı olarak,
 
 Babacan Dağı, Muğla'nın zeytinliklerle ve çam ormanlarıyla çevrilmiş bir dağ ekosistemi sunar. İlkbaharın gelmesiyle birlikte, dağ yamaçları renklendirilir ve çeşitli çiçekler açmaya başlar. Çam ağaçlarının arasında, zeytinliklerin sınırında, alpin flora çeşitliliği dikkat çeker.
 
-Dağın yükseklik zonlarında, farklı bitki türleri ve hayvanlar yaşamını sürdürür. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenleridir. Sonbaharın gelmesiyle birlikte, göçmen kuşlar dağ üzerinden geçer ve bu régionun canlı çeşitliliğini zenginleştirir.
+Dağın yükseklik zonlarında, farklı bitki türleri ve hayvanlar yaşamını sürdürür. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenleridir. Sonbaharın gelmesiyle birlikte, göçmen kuşlar dağ üzerinden geçer ve bu bölgenin canlı çeşitliliğini zenginleştirir.
 
 Babacan Dağı, ekolojik değerinin yanı sıra, koruma altına alınmış bir alan değildir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini sürdürmek için önemlidir. Zeytinlikler ve çam ormanları, dağın flora ve faunasının önemli bileşenleridir ve bu alanların korunması, Babacan Dağı'nın doğal güzelliğini gelecek nesiller için korumaya yardımcı olacaktır.
 

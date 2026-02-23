@@ -28,7 +28,7 @@ wikidata_id: "Q34829160"
 
 # Çınalıkoyak Tepesi
 
-Konya, İç Anadolu Bölgesi'nin önemli şehirlerinden biri olarak bilinir. Bu bölgede, Çınalıkoyak Tepesi gibi doğal güzellikler yer alır. Çınalıkoyak Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, Konya'nın coğrafi yapısını anlamak için önemli bir nokta olarak kabul edilir. Doğal güzellikleri ve tarihi geçmişiyle, Çınalıkoyak Tepesi, ziyaretçilerin ilgisini çekmektedir. Tepe, çeşitli bitki türleriyle kaplıdır ve fauna açısından da zengin bir alandır. Çınalıkoyak Tepesi, Konya'nın doğal ve tarihi değerlerini keşfetmek isteyenler için ideal bir destinasyondur.
+Konya, İç Anadolu Bölgesi'nin önemli şehirlerinden biri olarak bilinir. Bu bölgede, Çınalıkoyak Tepesi gibi doğal güzellikler yer alır. Bu tepe, Konya'nın coğrafi yapısını anlamak için önemli bir nokta olarak kabul edilir. Doğal güzellikleri ve tarihi geçmişiyle, Çınalıkoyak Tepesi, ziyaretçilerin ilgisini çekmektedir. Tepe, çeşitli bitki türleriyle kaplıdır ve fauna açısından da zengin bir alandır. Çınalıkoyak Tepesi, Konya'nın doğal ve tarihi değerlerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

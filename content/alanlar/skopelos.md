@@ -34,7 +34,7 @@ Skopelos, İsporatlar ilçesinde bulunan bir ada olarak dikkat çekiyor. Bu ada,
 
 ## Tarihçe
 
-İsporatlar ilçesi, tarihin sâu izlerini taşıyan bir bölge. Bu bölgede, Skopelos adası gibi doğal güzellikler, yüzyıllar boyunca çeşitli uygarlıkların etkisinde kalmıştır. İsporatlar, tarihi ticaret yollarının kesişme noktasında yer alır ve bu nedenle, bölgenin tarihsel önemi büyüktür.
+İsporatlar ilçesi, tarihin derin izlerini taşıyan bir bölge. Bu bölgede, Skopelos adası gibi doğal güzellikler, yüzyıllar boyunca çeşitli uygarlıkların etkisinde kalmıştır. İsporatlar, tarihi ticaret yollarının kesişme noktasında yer alır ve bu nedenle, bölgenin tarihsel önemi büyüktür.
 
 Türkiye'de, bu tür doğal alanlar genellikle yaylacılık ve hayvancılık faaliyetleri için kullanılmıştır. İnsanlar, mevsimsel olarak bu bölgelere gelir, hayvanlarını otlatır ve doğal kaynaklardan yararlanırlar. Bu gelenek, yüzyıllar boyunca devam etmiş ve bölgenin ekonomisine katkıda bulunmuştur.
 

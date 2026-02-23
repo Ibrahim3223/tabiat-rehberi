@@ -28,7 +28,7 @@ wikidata_id: "Q32125809"
 
 # Melhemçalı
 
-Melhemçalı, Konya ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve büyüklüğü yaklaşık 200 futbol sahası büyüklüğüne eşittir. Melhemçalı, doğal güzellikleri ve coğrafi konumuyla dikkat çeker. Bu tepe, bölgenin önemli bir doğal alanı olarak kabul edilir ve birçok bitki ve hayvan türüne ev sahipliği yapar.
+Melhemçalı, Konya ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Melhemçalı, doğal güzellikleri ve coğrafi konumuyla dikkat çeker. Bu tepe, bölgenin önemli bir doğal alanı olarak kabul edilir ve birçok bitki ve hayvan türüne ev sahipliği yapar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Melhemçalı'nın tarihi geçmişi, bölgenin coğrafi özellikleriyle yakından
 
 ## Coğrafya
 
-Melhemçalı, Konya ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak coğrafi konumu itibariyle dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve büyüklüğü yaklaşık 200 futbol sahası büyüklüğüne eşittir. Melhemçalı, bölgenin coğrafi yapısı ve iklim koşullarıyla birlikte şekillenmiştir. Bu tepe, bölgenin önemli bir doğal alanı olarak kabul edilir ve birçok bitki ve hayvan türüne ev sahipliği yapar. Melhemçalı'nın coğrafi konumu, bölgenin jeolojik yapısı ve iklim koşullarıyla birlikte şekillenmiştir. Bu tepe, bölgenin su kaynakları ve toprak yapısı ile yakından ilgilidir. Melhemçalı, bölgenin coğrafi güzellikleri arasında yer alır ve birçok turist tarafından ziyaret edilir.
+Melhemçalı, Konya ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak coğrafi konumu itibariyle dikkat çeker. Melhemçalı, bölgenin coğrafi yapısı ve iklim koşullarıyla birlikte şekillenmiştir. Bu tepe, bölgenin önemli bir doğal alanı olarak kabul edilir ve birçok bitki ve hayvan türüne ev sahipliği yapar. Melhemçalı'nın coğrafi konumu, bölgenin jeolojik yapısı ve iklim koşullarıyla birlikte şekillenmiştir. Bu tepe, bölgenin su kaynakları ve toprak yapısı ile yakından ilgilidir. Melhemçalı, bölgenin coğrafi güzellikleri arasında yer alır ve birçok turist tarafından ziyaret edilir.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32197836"
 
 # Kocaçal Tepe
 
-Kocaçal Tepe, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve doğal güzellik alanıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine sunuyor. Kocaçal Tepe, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası.
+Kocaçal Tepe, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve doğal güzellik alanıdır. Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine sunuyor. Kocaçal Tepe, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 

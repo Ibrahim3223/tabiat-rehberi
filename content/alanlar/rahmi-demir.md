@@ -23,7 +23,7 @@ wikidata_id: "Q108228652"
 
 # RAHMİ DEMİR
 
-İç Anadolu Bölgesi'nde yer alan Rahmi Demir milli parkı, 140 hektarlık geniş bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile zengin fauna bulunmakta. Parkın coğrafi konumu, ziyaretçilerine geniş bir gökyüzü ve bol oksijen sunuyor. Doğal güzelliği, yürüyüş parkurları ve piknik alanları ile Rahmi Demir milli parkı, hem doğa severlerin hem de ailelerin ziyaret edebileceği bir destinasyon olarak dikkat çekiyor.
+İç Anadolu Bölgesi'nde yer alan Rahmi Demir milli parkı, 140 hektarlık geniş bir alanı kaplıyor. Parkın coğrafi konumu, ziyaretçilerine geniş bir gökyüzü ve bol oksijen sunuyor. Doğal güzelliği, yürüyüş parkurları ve piknik alanları ile Rahmi Demir milli parkı, hem doğa severlerin hem de ailelerin ziyaret edebileceği bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31546484"
 
 # Avgerm Tepesi
 
-Avgerm Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Avgerm Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar. Burada yer alan çeşitli bitkiler ve hayvanlar, bölgeyi önemli bir ekosistem haline getirir. Avgerm Tepesi'nin yüksekliği, çevreyi panoramik olarak görmeye elverişli bir konum sunar. Bu tepe, bölgenin tarihi ve kültürel zenginliklerini de içerisinde barındırır. Avgerm Tepesi, Batman'ın önemli doğal ve kültürel varlıklarından biri olarak kabul edilir.
+Avgerm Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Avgerm Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar. Burada yer alan çeşitli bitkiler ve hayvanlar, bölgeyi önemli bir ekosistem haline getirir. Avgerm Tepesi'nin yüksekliği, çevreyi panoramik olarak görmeye elverişli bir konum sunar. Bu tepe, bölgenin tarihi ve kültürel zenginliklerini de içerisinde barındırır. Avgerm Tepesi, Batman'ın önemli doğal ve kültürel varlıklarından biri olarak kabul edilir.
 
 ## Tarihçe
 

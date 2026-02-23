@@ -1,7 +1,7 @@
 ---
 title: "Yunus Emre Camii ve Türbesi"
 date: "2026-01-10T06:28:50.724Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q132134423"
 
 # Yunus Emre Camii ve Türbesi
 
-Yunus Emre Camii ve Türbesi, Karaman ilinin merkezinde yer alan ve tarihi öneme sahip bir dini mekândır. 13. yüzyılda yaşamış olan Yunus Emre'nin türbesi ve camii, Karaman'ın önemli dini ve turistik merkezlerinden biridir. Camii ve türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Mekânın mimarisi, Selçuklu ve Osmanlı dönemlerinin özelliklerini taşır. Camii ve türbenin yapımında kullanılan malzemeler, bölgenin geleneksel taş işçiliği ve ahşap oyma sanatını yansıtır.
+Yunus Emre Camii ve Türbesi, Karaman ilinin merkezinde yer alan ve tarihi öneme sahip bir dini mekândır. 13. yüzyılda yaşamış olan Yunus Emre'nin türbesi ve camii, Karaman'ın önemli dini ve turistik merkezlerinden biridir. Camii ve türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Mekânın mimarisi, Selçuklu ve Osmanlı dönemlerinin özelliklerini taşır. Camii ve türbenin yapımında kullanılan malzemeler, bölgenin geleneksel taş işçiliği ve ahşap oyma sanatını yansıtır.
 
 ## Tarihçe
 

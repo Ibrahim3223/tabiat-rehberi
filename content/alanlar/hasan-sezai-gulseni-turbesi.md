@@ -1,7 +1,7 @@
 ---
 title: "Hasan Sezai Gülşeni Türbesi"
 date: "2026-01-10T07:40:52.970Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"

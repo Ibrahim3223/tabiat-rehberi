@@ -22,7 +22,7 @@ wikidata_id: "Q108227719"
 
 # Balikesir-Bandirma-Erdek Ihlamur
 
-Balikesir-Bandirma-Erdek Ihlamur, Marmara bölgesinin en güzel noktalarından biridir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Bu alan, hem doğa severler hem de bölgeyi keşfetmek isteyenler için ideal bir destinasyondur. Ihlamur, çevresindeki diğer güzelliklerle birlikte bir bütün olarak düşünüldüğünde, Marmara'nın zengin doğası hakkında fikir verir.
+Balikesir-Bandirma-Erdek Ihlamur, Marmara bölgesinin en güzel noktalarından biridir. Bu alan, hem doğa severler hem de bölgeyi keşfetmek isteyenler için ideal bir destinasyondur. Ihlamur, çevresindeki diğer güzelliklerle birlikte bir bütün olarak düşünüldüğünde, Marmara'nın zengin doğası hakkında fikir verir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Balikesir-Bandirma-Erdek Ihlamur'un tarihi geçmişi, bölgenin kültürel zengi
 
 ## Coğrafya
 
-Balikesir-Bandirma-Erdek Ihlamur, Marmara bölgesinde yer alan bir milli parktır. Coğrafi olarak, bu bölge 140 hektarlık bir yeşil alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Ihlamur'un coğrafyası, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Milli parkın yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Ihlamur, Marmara'nın coğrafi çeşitliliği hakkında fikir verir ve ziyaretçilere bölgenin güzelliğini keşfetme şansı sunar. İklim olarak, Ihlamur'un bulunduğu bölge, Marmara'nın genel iklim koşullarını paylaşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
+Balikesir-Bandirma-Erdek Ihlamur, Marmara bölgesinde yer alan bir milli parktır. Ihlamur'un coğrafyası, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Milli parkın yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Ihlamur, Marmara'nın coğrafi çeşitliliği hakkında fikir verir ve ziyaretçilere bölgenin güzelliğini keşfetme şansı sunar. İklim olarak, Ihlamur'un bulunduğu bölge, Marmara'nın genel iklim koşullarını paylaşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227708"
 
 # Karabük-Devrek-Purenkaya Mese
 
-Karabük-Devrek-Purenkaya Mese, Karadeniz Bölgesi'nin kuzeyinde, Karabük ilinin sınırları içerisinde yer alan bir milli parktır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil cennet, bölgenin en önemli doğa alanlarından biridir. Milli park, zengin flora ve faunasıyla dikkat çekmekte ve ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Karadeniz Bölgesi'nin nemli ve ılıman iklimi, milli parkın bitki örtüsünü ve yaban hayatını zenginleştirmektedir.
+Karabük-Devrek-Purenkaya Mese, Karadeniz Bölgesi'nin kuzeyinde, Karabük ilinin sınırları içerisinde yer alan bir milli parktır. Milli park, zengin flora ve faunasıyla dikkat çekmekte ve ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Karadeniz Bölgesi'nin nemli ve ılıman iklimi, milli parkın bitki örtüsünü ve yaban hayatını zenginleştirmektedir.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108226185"
 
 # Sinop Erfelek Sit Alanı
 
-Sinop Erfelek Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir doğal ortam sunar. Alanın fiziksel verileri, coğrafi konumu ve tarihçesi, Sinop Erfelek Sit Alanı'nı özel bir destinasyon haline getirir. İnsanlar bu alanı ziyaret ederek, doğanın güzelliğini yakından keşfedebilir ve zengin bir flora ile fauna çeşitliliğini gözlemleyebilirler.
+Sinop Erfelek Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alanı kapsar. Alanın fiziksel verileri, coğrafi konumu ve tarihçesi, Sinop Erfelek Sit Alanı'nı özel bir destinasyon haline getirir. İnsanlar bu alanı ziyaret ederek, doğanın güzelliğini yakından keşfedebilir ve zengin bir flora ile fauna çeşitliliğini gözlemleyebilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sinop Erfelek Sit Alanı, tarihi geçmişi ile dikkat çeker. Bu alan, yüzyıll
 
 ## Coğrafya
 
-Sinop Erfelek Sit Alanı, İç Anadolu Bölgesi'nde yer alan bir coğrafi oluşumdur. Bu alan, 140 hektarlık bir yeşil alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu itibariyle, ziyaretçilere geniş bir doğal ortam sunar. Alanın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Çevre, çeşitli bitki türleri ve hayvanlarla zengin bir fauna çeşitliliğine sahiptir. Sinop Erfelek Sit Alanı, coğrafi konumu ve fiziksel verileri ile birlikte, ziyaretçilere geniş bir doğal ortam sunar.
+Sinop Erfelek Sit Alanı, İç Anadolu Bölgesi'nde yer alan bir coğrafi oluşumdur. Coğrafi konumu itibariyle, ziyaretçilere geniş bir doğal ortam sunar. Alanın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Çevre, çeşitli bitki türleri ve hayvanlarla zengin bir fauna çeşitliliğine sahiptir. Sinop Erfelek Sit Alanı, coğrafi konumu ve fiziksel verileri ile birlikte, ziyaretçilere geniş bir doğal ortam sunar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Sinop Erfelek Sit Alanı, ziyaretçilere çeşitli etkinlikler sunar. Bu alan, d
 ## İlginç Bilgiler
 
 - Sinop Erfelek Sit Alanı, 140 hektarlık bir yeşil alanı kapsar.
-- Alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Sinop Erfelek Sit Alanı, yüzyıllar boyunca çeşitli uygarlıkların yaşadığı bir bölge olarak bilinir.
 - Alanın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir.
 - Sinop Erfelek Sit Alanı, çeşitli bitki türleri ve hayvanlarla zengin bir fauna çeşitliliğine sahiptir.

@@ -28,7 +28,7 @@ wikidata_id: "Q31543327"
 
 # Baniholya Tepesi
 
-Baniholya Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir arada sunan önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Baniholya Tepesi, Mardin'in merkezi konumunda yer alıyor ve şehrin tarihi dokusunu gözlemlemek için ideal bir nokta. Tepenin etrafında, Mardin'in tarihi evleri ve camileri yer alıyor. Ayrıca, tepeye tırmanarak, Mardin'in panoramik manzarasını izleyebilirsiniz.
+Baniholya Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir arada sunan önemli bir nokta. Baniholya Tepesi, Mardin'in merkezi konumunda yer alıyor ve şehrin tarihi dokusunu gözlemlemek için ideal bir nokta. Tepenin etrafında, Mardin'in tarihi evleri ve camileri yer alıyor. Ayrıca, tepeye tırmanarak, Mardin'in panoramik manzarasını izleyebilirsiniz.
 
 ## Tarihçe
 

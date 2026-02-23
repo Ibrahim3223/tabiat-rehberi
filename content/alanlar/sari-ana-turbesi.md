@@ -1,7 +1,7 @@
 ---
 title: "Sarı Ana Türbesi"
 date: "2026-01-10T07:10:00.653Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390928"
 
 # Sarı Ana Türbesi
 
-Marmaris'te, Muğla'nın güzelliklerini bir araya getiren Sarı Ana Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerin buluştuğu bir noktada ağırlıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunuyor. Sarı Ana Türbesi, Marmaris'in merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Bu özelliği, ziyaretçilerin diğer turistik noktalara da rahatça ulaşabilmesini sağlıyor.
+Marmaris'te, Muğla'nın güzelliklerini bir araya getiren Sarı Ana Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerin buluştuğu bir noktada ağırlıyor. Sarı Ana Türbesi, Marmaris'in merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Bu özelliği, ziyaretçilerin diğer turistik noktalara da rahatça ulaşabilmesini sağlıyor.
 
 ## Tarihçe
 

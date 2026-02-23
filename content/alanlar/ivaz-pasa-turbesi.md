@@ -1,7 +1,7 @@
 ---
 title: "İvaz Paşa Türbesi"
 date: "2026-01-10T05:35:14.532Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391402"
 
 # İvaz Paşa Türbesi
 
-İvaz Paşa Türbesi, Manisa'nın Yunusemre ilçesinde yer alır ve tarihin derinliklerinden gelen bir geçmişe sahiptir. Bu tarihi mekan, 140 hektarlık bir alanın içinde, yaklaşık 200 futbol sahası büyüklüğünde bir bölgede bulunur. İvaz Paşa Türbesi, ziyaretçilerini tarihin gizemli atmosferine davet eder ve geçmişin sayfalarını açar. Bu türbe, Manisa'nın tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+İvaz Paşa Türbesi, Manisa'nın Yunusemre ilçesinde yer alır ve tarihin derinliklerinden gelen bir geçmişe sahiptir. İvaz Paşa Türbesi, ziyaretçilerini tarihin gizemli atmosferine davet eder ve geçmişin sayfalarını açar. Bu türbe, Manisa'nın tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391402"
 
 ## Coğrafya
 
-İvaz Paşa Türbesi, Manisa'nın Yunusemre ilçesinde yer alır ve coğrafi olarak ilgi çekici bir konuma sahiptir. Türbe, 140 hektarlık bir alanın içinde yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir bölgede bulunur. Bu bölgenin coğrafi özellikleri, ziyaretçilere tarihin yanında doğal güzellikleri de sunar. İvaz Paşa Türbesi'nin bulunduğu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir ve ziyaretçilere bu bölgeyi keşfetme fırsatı sunar. Türbenin çevresi, çeşitli bitki türleri ve fauna ile çevrilidir ve ziyaretçilere zengin bir ekolojik deneyim sunar.
+İvaz Paşa Türbesi, Manisa'nın Yunusemre ilçesinde yer alır ve coğrafi olarak ilgi çekici bir konuma sahiptir. Bu bölgenin coğrafi özellikleri, ziyaretçilere tarihin yanında doğal güzellikleri de sunar. İvaz Paşa Türbesi'nin bulunduğu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir ve ziyaretçilere bu bölgeyi keşfetme fırsatı sunar. Türbenin çevresi, çeşitli bitki türleri ve fauna ile çevrilidir ve ziyaretçilere zengin bir ekolojik deneyim sunar.
 
 ## Flora ve Fauna
 

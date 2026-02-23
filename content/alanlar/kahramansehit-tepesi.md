@@ -28,7 +28,7 @@ wikidata_id: "Q31559247"
 
 # Kahramanşehit Tepesi
 
-Ankara'nın kalbinde yer alan Kahramanşehit Tepesi, şehrin tarihi ve coğrafi açıdan önemli bir noktasıdır. Tepenin etrafında çeşitli bitki türleri ve ağaçlar bulunur. Kahramanşehit Tepesi, Ankara'nın merkezinde, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin yüksekliği ve konumu, ziyaretçilere şehrin panoramik manzarasını sunar. Kahramanşehit Tepesi, Ankara'nın tarihi ve kültürel mirasının önemli bir parçasıdır.
+Ankara'nın kalbinde yer alan Kahramanşehit Tepesi, şehrin tarihi ve coğrafi açıdan önemli bir noktasıdır. Tepenin etrafında çeşitli bitki türleri ve ağaçlar bulunur. Tepenin yüksekliği ve konumu, ziyaretçilere şehrin panoramik manzarasını sunar. Kahramanşehit Tepesi, Ankara'nın tarihi ve kültürel mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 

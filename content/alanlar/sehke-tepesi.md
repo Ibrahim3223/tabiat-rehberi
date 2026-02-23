@@ -28,7 +28,7 @@ wikidata_id: "Q31547612"
 
 # Şehke Tepesi
 
-Şehke Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan doğal bir güzelliğimizdir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile büyülemektedir. Siirt'in merkezine yakın bir konumda bulunan Şehke Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Şehke Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan doğal bir güzelliğimizdir. Siirt'in merkezine yakın bir konumda bulunan Şehke Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 

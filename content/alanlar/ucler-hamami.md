@@ -1,7 +1,7 @@
 ---
 title: "Üçler Hamamı"
 date: "2026-01-09T23:49:44.174Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739218"
 
 # Üçler Hamamı
 
-Üçler Hamamı, İstanbul'un tarihi ilçesi Fatih'te, Marmara Bölgesi'nin güzide bir noktasında yer alır. Bu plaj, yaklaşık 140 hektarlık bir alan kaplar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Üçler Hamamı, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeder. İstanbul'un kalabalığından kaçmak isteyenler için sakin bir kaçış noktası olarak da işlev görür.
+Üçler Hamamı, İstanbul'un tarihi ilçesi Fatih'te, Marmara Bölgesi'nin güzide bir noktasında yer alır. Üçler Hamamı, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeder. İstanbul'un kalabalığından kaçmak isteyenler için sakin bir kaçış noktası olarak da işlev görür.
 
 ## Tarihçe
 

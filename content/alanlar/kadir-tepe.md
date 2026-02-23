@@ -54,7 +54,7 @@ Kadir Tepe, Antalya'nın maki bitki örtüsüne ev sahipliği yapan bir dağ eko
 
 Yaban hayatı, dağ ekosisteminin önemli bir parçasını oluşturur. Memeliler, dağların yüksek zonlarında yaşarken, kuşlar mevsimsel göç yolları üzerinde bu bölgeyi kullanır. Sürüngenler, kaya aralarında ve maki bitki örtüsünün altında yaşamlarını sürdürür. Bu canlılar, dağ ekosisteminin dengesini sağlar ve birbirleriyle ekolojik ilişkiler içinde yaşar.
 
-Kadir Tepe'nin ekolojik değeri, bölgenin biyolojik çeşitliliği ve doğal güzelliğinden gelir. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini sağlama ve gelecek nesiller için doğal mirası korumak açısından önemlidir.
+Kadir Tepe'nin ekolojik değeri, bölgenin biyolojik çeşitliliği ve doğal güzelliğinden gelir.
 
 ## Ziyaret Bilgileri
 

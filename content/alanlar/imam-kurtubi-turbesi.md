@@ -1,7 +1,7 @@
 ---
 title: "İmam Kurtubi Türbesi"
 date: "2026-01-10T06:25:33.221Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390713"
 
 # İmam Kurtubi Türbesi
 
-İmam Kurtubi Türbesi, Karadeniz Bölgesi'nin Bolu şehrinde yer alan bir tarihi ve doğal güzellik destinasyonudur. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. İmam Kurtubi Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren bir yer olarak ziyaretçilerini beklemektedir. Burada, yüzyılların izlerini taşıyan tarihi yapılar ve eşsiz doğal güzellikler bulunmakta olup, ziyaretçiler için unutulmaz bir deneyim sunmaktadır.
+İmam Kurtubi Türbesi, Karadeniz Bölgesi'nin Bolu şehrinde yer alan bir tarihi ve doğal güzellik destinasyonudur. İmam Kurtubi Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren bir yer olarak ziyaretçilerini beklemektedir. Burada, yüzyılların izlerini taşıyan tarihi yapılar ve eşsiz doğal güzellikler bulunmakta olup, ziyaretçiler için unutulmaz bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ wikidata_id: "Q131390713"
 
 ## Coğrafya
 
-İmam Kurtubi Türbesi, Karadeniz Bölgesi'nin Bolu şehrinde yer alan bir doğal ve tarihi güzellik destinasyonudur. Bu alan, 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğüne eşittir. İmam Kurtubi Türbesi, bölgenin coğrafi yapısı itibariyle, yeşil ormanlar, dağlar ve nehirler ile çevrili bir konumda bulunmaktadır. Bu coğrafi yapı, ziyaretçilere hem doğal güzellikleri hem de tarihi yapıları keşfetme fırsatı sunmaktadır. İmam Kurtubi Türbesi'nin iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, nemli ve serin bir yapıya sahiptir. Bölge, yıl boyunca çeşitli mevsimsel değişimler yaşamakta olup, ziyaretçiler bu değişimleri gözlemleyebilecekleri eşsiz bir coğrafi konumda bulunmaktadır.
+İmam Kurtubi Türbesi, Karadeniz Bölgesi'nin Bolu şehrinde yer alan bir doğal ve tarihi güzellik destinasyonudur. İmam Kurtubi Türbesi, bölgenin coğrafi yapısı itibariyle, yeşil ormanlar, dağlar ve nehirler ile çevrili bir konumda bulunmaktadır. İmam Kurtubi Türbesi'nin iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, nemli ve serin bir yapıya sahiptir. Bölge, yıl boyunca çeşitli mevsimsel değişimler yaşamakta olup, ziyaretçiler bu değişimleri gözlemleyebilecekleri eşsiz bir coğrafi konumda bulunmaktadır.
 
 ## Flora ve Fauna
 
-İmam Kurtubi Türbesi, zengin bir flora ve fauna çeşitliliğine sahip bir doğal güzellik destinasyonudur. Bu alan, çeşitli bitki türleri, ağaçlar ve çiçeklerle dolu olup, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmaktadır. Ayrıca, İmam Kurtubi Türbesi, çeşitli hayvan türlerine de ev sahipliği yapmaktadır. Bölgede, ziyaretçiler, doğanın seslerini dinleyerek, eşsiz bir ekolojik dengeyi gözlemleyebilirler. Mevsimsel değişimler, İmam Kurtubi Türbesi'nin flora ve faunasını da etkilemekte olup, ziyaretçiler bu değişimleri gözlemleyebilecekleri eşsiz bir doğal güzellik destinasyonunda bulunurlar.
+İmam Kurtubi Türbesi, zengin bir flora ve fauna çeşitliliğine sahip bir doğal güzellik destinasyonudur. Ayrıca, İmam Kurtubi Türbesi, çeşitli hayvan türlerine de ev sahipliği yapmaktadır. Bölgede, ziyaretçiler, doğanın seslerini dinleyerek, eşsiz bir ekolojik dengeyi gözlemleyebilirler. Mevsimsel değişimler, İmam Kurtubi Türbesi'nin flora ve faunasını da etkilemekte olup, ziyaretçiler bu değişimleri gözlemleyebilecekleri eşsiz bir doğal güzellik destinasyonunda bulunurlar.
 
 ## Ziyaret Bilgileri
 

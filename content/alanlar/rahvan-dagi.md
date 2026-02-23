@@ -51,9 +51,9 @@ Mevsimsel açıdan, Rahvan Dağı ve çevresinin iklimi, karasal iklimin etkiler
 
 ## Flora ve Fauna
 
-Rahvan Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlkbaharın başlangıcında, dağ eteklerinde renkli çiçekler açarak baharın gelişini müjdeler. Alpin çayırlar, endemik türlerle dolu bu bölge, flora çeşitliliği bakımından zengindir. 
-Yaban hayatında ise dağ keçileri, kartallar ve diğer yüksek dağ hayvanları yaşamaktadır. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini sürdürmek için önemlidir. 
+Rahvan Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlkbaharın başlangıcında, dağ eteklerinde renkli çiçekler açarak baharın gelişini müjdeler. Alpin çayırlar, endemik türlerle dolu bu bölge, flora çeşitliliği bakımından zengindir.
+Yaban hayatında ise dağ keçileri, kartallar ve diğer yüksek dağ hayvanları yaşamaktadır. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini sürdürmek için önemlidir.
 Rahvan Dağı, yüksek dağ ekolojisi ve alpin çayırlarıyla birlikte endemik türlerin yaşadığı bir bölge olarak ekolojik değerini korumaktadır.
 
 ## Ziyaret Bilgileri

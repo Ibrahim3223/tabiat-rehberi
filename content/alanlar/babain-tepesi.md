@@ -28,7 +28,7 @@ wikidata_id: "Q31390169"
 
 # Babain Tepesi
 
-Babain Tepesi, Antalya'nın muhteşem coğrafyasında yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikteki alanda çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu tepe, ziyaretçiler için hem doğal güzelliklerin keşfedilmesi hem de tarihi geçmişin anlaşılması açısından önemli bir noktada yer almaktadır. Babain Tepesi, Antalya'nın turizm açısından önemli merkezlerinden biri olarak dikkat çekmektedir.
+Babain Tepesi, Antalya'nın muhteşem coğrafyasında yer alan bir doğa harikasıdır. Bu tepe, ziyaretçiler için hem doğal güzelliklerin keşfedilmesi hem de tarihi geçmişin anlaşılması açısından önemli bir noktada yer almaktadır. Babain Tepesi, Antalya'nın turizm açısından önemli merkezlerinden biri olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Babain Tepesi, Antalya'nın coğrafi olarak önemli bir bölgesinde yer almaktad
 
 ## Flora ve Fauna
 
-Babain Tepesi, flora ve fauna açısından zengin bir bölgedir. Tepenin etrafında ve üzerinde, çeşitli bitki türleri bulunmaktadır. Mevsimsel değişimlere bağlı olarak, bu bitki türleri farklı renklerde ve formlarda görülmektedir. Ayrıca, Babain Tepesi, zengin bir fauna yaşamına ev sahipliği yapmaktadır. Tepede, çeşitli hayvan türleri yaşamaktadır ve bu durum, bölgenin ekolojik dengesini korumak açısından önemlidir. Babain Tepesi, doğa severler için önemli bir gözlem noktası olarak dikkat çekmektedir.
+Babain Tepesi, flora ve fauna açısından zengin bir bölgedir. Tepenin etrafında ve üzerinde, çeşitli bitki türleri bulunmaktadır. Mevsimsel değişimlere bağlı olarak, bu bitki türleri farklı renklerde ve formlarda görülmektedir. Ayrıca, Babain Tepesi, zengin bir fauna yaşamına ev sahipliği yapmaktadır. Babain Tepesi, doğa severler için önemli bir gözlem noktası olarak dikkat çekmektedir.
 
 ## Ziyaret Bilgileri
 

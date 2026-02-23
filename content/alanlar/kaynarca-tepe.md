@@ -28,7 +28,7 @@ wikidata_id: "Q31389527"
 
 # Kaynarca Tepe
 
-Kaynarca Tepe, Karaman ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamakta. Kaynarca Tepe, ziyaretçilerini sadece doğal güzelliği ile değil, aynı zamanda tarihi geçmişi ile de çekmekte. Bu tepe, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış ve her biri bu topraklara farklı bir kültürel miras bırakmış.
+Kaynarca Tepe, Karaman ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Kaynarca Tepe, ziyaretçilerini sadece doğal güzelliği ile değil, aynı zamanda tarihi geçmişi ile de çekmekte. Bu tepe, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış ve her biri bu topraklara farklı bir kültürel miras bırakmış.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387016"
 
 # Kuşpınar Tepesi
 
-Kuşpınar Tepesi, Amasya'nın merkezinde yer alan ve şehrin panoramik manzarasını sunan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepenin eteklerinde, tarihi yapılar ve yeşil alanlar bir arada bulunuyor. Tepenin zirvesine çıktığınızda, Karadeniz Bölgesi'nin güzelliğini ve Amasya'nın tarihi dokusunu görebiliyorsunuz. Burada, doğa ve tarih bir arada, ziyaretçilere benzersiz bir deneyim sunuyor.
+ Bu tepenin eteklerinde, tarihi yapılar ve yeşil alanlar bir arada bulunuyor. Tepenin zirvesine çıktığınızda, Karadeniz Bölgesi'nin güzelliğini ve Amasya'nın tarihi dokusunu görebiliyorsunuz. Burada, doğa ve tarih bir arada, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

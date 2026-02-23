@@ -1,7 +1,7 @@
 ---
 title: "Uryanizade Dede Türbesi"
 date: "2026-01-10T05:02:07.852Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391481"
 
 # Uryanizade Dede Türbesi
 
-Uryanizade Dede Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi ve kültürel bir mekân. Bu mekân, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerini İstanbul'un zengin tarihine ve kültürel mirasına davet ediyor. Uryanizade Dede Türbesi, hem İstanbul'un hem de Marmara Bölgesi'nin önemli bir parçasıdır. Ziyaretçiler, bu türbenin tarihi Atmosferini soluyabilir ve İstanbul'un geçmişini daha iyi anlayabilir.
+Uryanizade Dede Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi ve kültürel bir mekân. Uryanizade Dede Türbesi, hem İstanbul'un hem de Marmara Bölgesi'nin önemli bir parçasıdır. Ziyaretçiler, bu türbenin tarihi Atmosferini soluyabilir ve İstanbul'un geçmişini daha iyi anlayabilir.
 
 ## Tarihçe
 

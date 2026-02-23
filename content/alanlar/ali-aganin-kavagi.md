@@ -22,7 +22,7 @@ wikidata_id: "Q108227167"
 
 # Ali Aganin Kavagi
 
-Ali Ağanın Kavaklığı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Doğal güzelliği, zengin flora ve fauna ile dikkat çeken bu milli park, doğa severlerin ziyaret edebileceği önemli bir destinasyondur. Ali Ağanın Kavaklığı, hem doğa yürüyüşleri hem de piknik için ideal bir yer. Ziyaretçiler, bu güzel ortamda doğayı keşfedebilir ve dinlenebilir.
+Ali Ağanın Kavaklığı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Doğal güzelliği, zengin flora ve fauna ile dikkat çeken bu milli park, doğa severlerin ziyaret edebileceği önemli bir destinasyondur. Ali Ağanın Kavaklığı, hem doğa yürüyüşleri hem de piknik için ideal bir yer. Ziyaretçiler, bu güzel ortamda doğayı keşfedebilir ve dinlenebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Ali Ağanın Kavaklığı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyo
 
 ## Coğrafya
 
-Ali Ağanın Kavaklığı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. Bu bölgenin coğrafyası, ziyaretçilere çeşitli doğal güzellikler sunuyor. 180 hektarın üzerindeki bu alan, yaklaşık 300 futbol sahası büyüklüğünde ve çok çeşitli bitki türleri ile kaplı. Ali Ağanın Kavaklığı, çevresindeki dağlarla birlikte, bir bütün olarak düşünülüyor ve bu coğrafi yapı, bölgenin iklimini ve ekosistemini şekillendiriyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını etkiliyor ve zengin bir ekosistemin oluşmasına neden oluyor.
+Ali Ağanın Kavaklığı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlarla çevrili. Bu bölgenin coğrafyası, ziyaretçilere çeşitli doğal güzellikler sunuyor. Ali Ağanın Kavaklığı, çevresindeki dağlarla birlikte, bir bütün olarak düşünülüyor ve bu coğrafi yapı, bölgenin iklimini ve ekosistemini şekillendiriyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, bölgenin flora ve faunasını etkiliyor ve zengin bir ekosistemin oluşmasına neden oluyor.
 
 ## Flora ve Fauna
 

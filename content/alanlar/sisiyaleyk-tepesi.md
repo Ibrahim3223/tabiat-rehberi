@@ -28,7 +28,7 @@ wikidata_id: "Q31544213"
 
 # Sisiyaleyk Tepesi
 
-Sisiyaleyk Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan önemli bir coğrafi noktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin çevresindeki doğal güzelliklere ev sahipliği yapar. Tepenin eteklerinde kurulan köyler ve şehirler, bu bölgeye yaşam veren nehirler ve akarsular ile çevrilidir. Sisiyaleyk Tepesi, bölge halkının önemli bir gelir kaynağı olan tarım ve hayvancılık faaliyetlerine de imkân tanır. Tepenin zirvesinden bakıldığında,Batman şehri ve çevresindeki doğal güzellikler panoramik bir şekilde görülebilir.
+Sisiyaleyk Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan önemli bir coğrafi noktadır. Tepenin eteklerinde kurulan köyler ve şehirler, bu bölgeye yaşam veren nehirler ve akarsular ile çevrilidir. Sisiyaleyk Tepesi, bölge halkının önemli bir gelir kaynağı olan tarım ve hayvancılık faaliyetlerine de imkân tanır. Tepenin zirvesinden bakıldığında,Batman şehri ve çevresindeki doğal güzellikler panoramik bir şekilde görülebilir.
 
 ## Tarihçe
 

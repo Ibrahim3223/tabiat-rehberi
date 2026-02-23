@@ -22,7 +22,7 @@ wikidata_id: "Q118929939"
 
 # Keçiyatağı Donmuş Şelalesi
 
-Keçiyatağı Donmuş Şelalesi, İç Anadolu Bölgesi'nin gizli güzelliği olarak bilinir. Büyüleyici bir manzaraya sahip olan bu şelale, özellikle kış aylarında donarak benzersiz bir güzelliğe bürünür. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte doğa severleri bekliyor. Şelaleye ulaşmak için uzun bir mesafelik bir yolculuk yapmak, ancak bu yolculuk, doğanın içlerinde keşif yapmak isteyenler için bir macera olarak değerlendirilebilir. Keçiyatağı Donmuş Şelalesi, her mevsim farklı bir güzelliğe sahip olmakla birlikte, en çok kışın donmuş haliyle dikkat çekiyor.
+Keçiyatağı Donmuş Şelalesi, İç Anadolu Bölgesi'nin gizli güzelliği olarak bilinir. Büyüleyici bir manzaraya sahip olan bu şelale, özellikle kış aylarında donarak benzersiz bir güzelliğe bürünür. Şelaleye ulaşmak için uzun bir mesafelik bir yolculuk yapmak, ancak bu yolculuk, doğanın içlerinde keşif yapmak isteyenler için bir macera olarak değerlendirilebilir. Keçiyatağı Donmuş Şelalesi, her mevsim farklı bir güzelliğe sahip olmakla birlikte, en çok kışın donmuş haliyle dikkat çekiyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227469"
 
 # Adana-Kozan-Meydan Karacam
 
-Adana-Kozan-Meydan Karacam milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü birçok bitki ve hayvan türüne ev sahipliği yapıyor. Parkın konumu, ziyaretçilere hem doğayı keşfetme hem de bölgenin tarihi ve kültürel zenginliklerini deneyimleme fırsatı sunuyor. Burada, yaban hayatı ile iç içe geçen bir doğa belgeseli atmosferini yaşayabilirsiniz.
+Adana-Kozan-Meydan Karacam milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Parkın konumu, ziyaretçilere hem doğayı keşfetme hem de bölgenin tarihi ve kültürel zenginliklerini deneyimleme fırsatı sunuyor. Burada, yaban hayatı ile iç içe geçen bir doğa belgeseli atmosferini yaşayabilirsiniz.
 
 ## Tarihçe
 

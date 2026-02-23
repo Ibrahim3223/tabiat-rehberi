@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Kasvar Baba Türbesi"
 date: "2026-01-10T04:50:56.900Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q112573670"
 
 # Mustafa Kasvar Baba Türbesi
 
-Mustafa Kasvar Baba Türbesi, İstanbul'un kalbinde, Marmara Bölgesi'nin güzelliklerini sunan bir tarihi ve doğal mekan olarak ziyaretçilerini bekliyor. Bu özel mekan, yaklaşık 140 hektarlık bir alanda, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Ziyaretçiler, bu geniş alanda hem tarihi hem de doğal güzellikleri keşfedebilir. Mustafa Kasvar Baba Türbesi, Türk kültürünün önemli noktalarından biri olarak, ziyaretçilerine hem dinî hem de kültürel bir deneyim sunuyor.
+Mustafa Kasvar Baba Türbesi, İstanbul'un kalbinde, Marmara Bölgesi'nin güzelliklerini sunan bir tarihi ve doğal mekan olarak ziyaretçilerini bekliyor. Ziyaretçiler, bu geniş alanda hem tarihi hem de doğal güzellikleri keşfedebilir. Mustafa Kasvar Baba Türbesi, Türk kültürünün önemli noktalarından biri olarak, ziyaretçilerine hem dinî hem de kültürel bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mustafa Kasvar Baba Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu özel mek
 
 ## Coğrafya
 
-Mustafa Kasvar Baba Türbesi, İstanbul'un kalbinde, Marmara Bölgesi'nin coğrafi güzelliklerini sunan bir konumda yer alıyor. Bu özel mekan, yaklaşık 140 hektarlık bir yeşil alan sunuyor ve bu alan, 200 futbol sahası büyüklüğünde bir yeşil alan olarak ziyaretçilerine geniş bir görüş açısı sunuyor. Mekan, İstanbul'un coğrafi yapısını yansıtan bir konumda yer alıyor ve ziyaretçilerine, şehrin güzelliklerini keşfetme fırsatı sunuyor. Mustafa Kasvar Baba Türbesi, coğrafi olarak önemli bir noktada yer alıyor ve ziyaretçilerine, İstanbul'un tarihi ve doğal güzelliklerini bir arada sunuyor. Mekan, coğrafi konumu itibariyle, ziyaretçilerine geniş bir görüş açısı sunuyor ve İstanbul'un güzelliklerini keşfetme fırsatı sunuyor.
+Mustafa Kasvar Baba Türbesi, İstanbul'un kalbinde, Marmara Bölgesi'nin coğrafi güzelliklerini sunan bir konumda yer alıyor. Mekan, İstanbul'un coğrafi yapısını yansıtan bir konumda yer alıyor ve ziyaretçilerine, şehrin güzelliklerini keşfetme fırsatı sunuyor. Mustafa Kasvar Baba Türbesi, coğrafi olarak önemli bir noktada yer alıyor ve ziyaretçilerine, İstanbul'un tarihi ve doğal güzelliklerini bir arada sunuyor. Mekan, coğrafi konumu itibariyle, ziyaretçilerine geniş bir görüş açısı sunuyor ve İstanbul'un güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

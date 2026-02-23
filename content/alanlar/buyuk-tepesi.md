@@ -29,7 +29,7 @@ wikidata_id: "Q35731273"
 
 # Büyük Tepesi
 
-Büyük Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan 140 hektarlık geniş bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güzellikleriyle karşılar. Büyük Tepesi, Ankara'nın merkezi bir noktasında yer alır ve şehir lifeından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini sunarken, tepe itself doğal yürüyüş parkurları ve manzaralarıyla ziyaretçilerini bekliyor.
+Büyük Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan 140 hektarlık geniş bir alana sahiptir. Büyük Tepesi, Ankara'nın merkezi bir noktasında yer alır ve şehir lifeından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini sunarken, tepe itself doğal yürüyüş parkurları ve manzaralarıyla ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

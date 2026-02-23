@@ -28,7 +28,7 @@ wikidata_id: "Q31385761"
 
 # Hasandede Dağı
 
-Yozgat'ın doğal güzelliklerinden biri olan Hasandede Dağı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Hasandede Dağı, Yozgat'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Dağın eteklerinde bulunan köyler, ziyaretçilere konaklama ve yemek opportunitiesi sunuyor. Hasandede Dağı, doğa severlerin ve tarih meraklılarının ziyaret etmesi gereken bir yer.
+Yozgat'ın doğal güzelliklerinden biri olan Hasandede Dağı, yaklaşık 140 hektarlık bir alanı kapsıyor. Hasandede Dağı, Yozgat'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Dağın eteklerinde bulunan köyler, ziyaretçilere konaklama ve yemek opportunitiesi sunuyor. Hasandede Dağı, doğa severlerin ve tarih meraklılarının ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Hasandede Dağı, coğrafi olarak oldukça zengin bir bölgede yer alıyor. Dağ
 
 ## Flora ve Fauna
 
-Hasandede Dağı, flora ve fauna açısından oldukça zengin bir bölgede yer alıyor. Dağın eteklerinde bulunan ormanlar, bir çok bitki türüne ev sahipliği yapıyor. Dağınarounda bulunan çayır ve meralar, bir çok hayvan türüne yaşam alanı sunuyor. Dağın tepesinde bulunan manzara, ziyaretçilere büyüleyici bir görünüm sunuyor. Hasandede Dağı, aynı zamanda bir çok kuş türüne ev sahipliği yapıyor ve ziyaretçilere bir çok olanak sunuyor. Dağın flora ve fauna açısından zengin olması, ziyaretçileri doğanın güzellikleriyle baş başa bırakıyor.
+ Dağın eteklerinde bulunan ormanlar, bir çok bitki türüne ev sahipliği yapıyor. Dağınarounda bulunan çayır ve meralar, bir çok hayvan türüne yaşam alanı sunuyor. Dağın tepesinde bulunan manzara, ziyaretçilere büyüleyici bir görünüm sunuyor. Hasandede Dağı, aynı zamanda bir çok kuş türüne ev sahipliği yapıyor ve ziyaretçilere bir çok olanak sunuyor. Dağın flora ve fauna açısından zengin olması, ziyaretçileri doğanın güzellikleriyle baş başa bırakıyor.
 
 ## Ziyaret Bilgileri
 
@@ -52,4 +52,4 @@ Hasandede Dağı, ziyaretçilerini bekliyor. Dağa ulaşım oldukça kolay ve zi
 - Dağın eteklerinde bulunan köyler, ziyaretçilere konaklama ve yemek opportunitiesi sunuyor.
 - Hasandede Dağı, bir çok tarihi kalıntıya ev sahipliği yapıyor.
 - Dağın tepesinde bulunan manzara, ziyaretçilere büyüleyici bir görünüm sunuyor.
-- Hasandede Dağı, flora ve fauna açısından oldukça zengin bir bölgede yer alıyor.
+

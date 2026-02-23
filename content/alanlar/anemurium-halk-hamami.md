@@ -1,7 +1,7 @@
 ---
 title: "Anemurium Halk Hamamı"
 date: "2026-01-09T23:32:13.447Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,15 +29,15 @@ wikidata_id: "Q131739107"
 
 # Anemurium Halk Hamamı
 
-Anemurium Halk Hamamı, Mersin'in Anamur ilçesinde, Akdeniz Bölgesi'nin güneşli kıyılarında yer alan bir tarih ve doğa harikası. Bu özel noktada, antik zamanlardan kalan hamam kalıntıları, misafirlerine eşsiz bir deneyim sunuyor. Anemurium Halk Hamamı, 140 hektarlık bir alanı kaplayan, yaklaşık 200 futbol sahası büyüklüğündeki bu yeşil cennet, ziyaretçilerini hem tarihi dokusuyla hem de doğal güzelliği ile büyülüyor. Bu eşsiz mekan, tarihi geçmişi ve zengin flora ve faunasıyla, ziyaretçilerine unutulmaz anlar vaadediyor.
+Anemurium Halk Hamamı, Mersin'in Anamur ilçesinde, Akdeniz Bölgesi'nin güneşli kıyılarında yer alan bir tarih ve doğa harikası. Bu özel noktada, antik zamanlardan kalan hamam kalıntıları, misafirlerine eşsiz bir deneyim sunuyor.
 
 ## Tarihçe
 
-Anemurium Halk Hamamı, tarihi geçmişiyle dikkat çekiyor. Antik Anemurium kentinde yer alan bu hamam, geçmişte önemli bir merkez olarak hizmet vermiş. Kentin tarihsel geçmişi, Roma ve Bizans dönemlerine kadar uzanıyor. Bu dönemde, hamamın inşa edilerek halka hizmet vermesi, o dönemin önemli sosyal ve kültürel etkinliklerinden biri olarak kabul ediliyor. Anemurium'un tarihi dokusunu koruyan bu hamam, günümüzde de ziyaretçilerini ağırlamaya devam ediyor. Tarihi geçmişi, Anemurium Halk Hamamını ziyaret edenler için önemli bir çekim noktası oluşturuyor. Ziyaretçiler, hem hamamın tarihi yapısını hem de çevredeki antik kent kalıntılarını gezerken, tarihin sâuına dalma fırsatı buluyorlar.
+Anemurium Halk Hamamı, tarihi geçmişiyle dikkat çekiyor. Antik Anemurium kentinde yer alan bu hamam, geçmişte önemli bir merkez olarak hizmet vermiş. Kentin tarihsel geçmişi, Roma ve Bizans dönemlerine kadar uzanıyor. Bu dönemde, hamamın inşa edilerek halka hizmet vermesi, o dönemin önemli sosyal ve kültürel etkinliklerinden biri olarak kabul ediliyor. Anemurium'un tarihi dokusunu koruyan bu hamam, günümüzde de ziyaretçilerini ağırlamaya devam ediyor. Tarihi geçmişi, Anemurium Halk Hamamını ziyaret edenler için önemli bir çekim noktası oluşturuyor. Ziyaretçiler, hem hamamın tarihi yapısını hem de çevredeki antik kent kalıntılarını gezerken, tarihin derinına dalma fırsatı buluyorlar.
 
 ## Coğrafya
 
-Anemurium Halk Hamamı, Mersin'in Anamur ilçesinde, Akdeniz'in güneşli ve sıcacıkıyılarında yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Hamamın bulunduğu alan, 140 hektarlık bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere genişçe bir gezi alanı sunuyor. Çevre, çeşitli bitki türleriyle kaplı ve zengin fauna çeşitliliğiyle dikkat çekiyor. İklim, Akdeniz ikliminin karakteristik özelliklerini taşıyor; yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi konum, Anemurium Halk Hamamını ziyaret etmek için ideal bir ortam sunuyor. Ziyaretçiler, hamamın tarihi yapısını keşfederken, aynı zamanda çevrenin doğal güzelliklerini de deneyimleyebiliyorlar.
+Anemurium Halk Hamamı, Mersin'in Anamur ilçesinde, Akdeniz'in güneşli ve sıcacıkıyılarında yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Bu geniş alan, ziyaretçilere genişçe bir gezi alanı sunuyor. Çevre, çeşitli bitki türleriyle kaplı ve zengin fauna çeşitliliğiyle dikkat çekiyor. İklim, Akdeniz ikliminin karakteristik özelliklerini taşıyor; yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi konum, Anemurium Halk Hamamını ziyaret etmek için ideal bir ortam sunuyor. Ziyaretçiler, hamamın tarihi yapısını keşfederken, aynı zamanda çevrenin doğal güzelliklerini de deneyimleyebiliyorlar.
 
 ## Flora ve Fauna
 

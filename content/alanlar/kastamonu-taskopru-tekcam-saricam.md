@@ -22,7 +22,7 @@ wikidata_id: "Q108227984"
 
 # Kastamonu-Taskopru-Tekcam Saricam
 
-Kastamonu-Taskopru-Tekcam Saricam, Karadeniz Bölgesi'nin en önemli doğal ve tarihi değerlerinden biri olarak karşımıza çıkıyor. Bu milli park, yaklaşık 140 hektarlık bir alanı kapsıyor ki, bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kastamonu'nunTaskopru ve Tekcam bölgelerinde yer alan bu alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Göller, ormanlar ve çeşitli bitki türleriyle dolu bu milli park, aynı zamanda zengin fauna çeşitliliğine de ev sahipliği yapıyor.
+Kastamonu-Taskopru-Tekcam Saricam, Karadeniz Bölgesi'nin en önemli doğal ve tarihi değerlerinden biri olarak karşımıza çıkıyor. Kastamonu'nunTaskopru ve Tekcam bölgelerinde yer alan bu alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Göller, ormanlar ve çeşitli bitki türleriyle dolu bu milli park, aynı zamanda zengin fauna çeşitliliğine de ev sahipliği yapıyor.
 
 ## Tarihçe
 

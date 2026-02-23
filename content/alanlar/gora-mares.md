@@ -29,7 +29,7 @@ wikidata_id: "Q31538984"
 
 # Gora Mareş
 
-Hatay'ın dağlık bölgelerinde, doğanın güzelliğini sergileyen Gora Mareş Dağı, ziyaretçilerini doğanın sâu noktalarına davet ediyor. Bu dağ, Hatay ilinin zengin kültürel ve doğal mirasının bir parçası olarak öne çıkıyor. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Gora Mareş, bölgenin keşfedilmeyi bekleyen bir hazine gibi duruyor. Hatay'ın eşsiz coğrafyası içinde yer alan bu dağ, ziyaretçilere keşfetmeye değer bir experience sunuyor.
+Hatay'ın dağlık bölgelerinde, doğanın güzelliğini sergileyen Gora Mareş Dağı, ziyaretçilerini doğanın derin noktalarına davet ediyor. Bu dağ, Hatay ilinin zengin kültürel ve doğal mirasının bir parçası olarak öne çıkıyor. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Gora Mareş, bölgenin keşfedilmeyi bekleyen bir hazine gibi duruyor. Hatay'ın eşsiz coğrafyası içinde yer alan bu dağ, ziyaretçilere keşfetmeye değer bir experience sunuyor.
 
 ## Tarihçe
 
@@ -49,9 +49,9 @@ Gora Mareş, etrafındaki diğer doğal alanlar ve su kaynakları ile bağlantı
 
 ## Flora ve Fauna
 
-Gora Mareş dağının eteklerinde, maki bitki örtüsünün hâkimiyeti dikkat çekiyor. İlkbaharın gelmesiyle birlikte, bu kuraklığa dayanıklı türler renkli çiçeklerle donanıyor. Dağın yükseklik zonlarında, alpin flora kendini gösteriyor. 
+Gora Mareş dağının eteklerinde, maki bitki örtüsünün hâkimiyeti dikkat çekiyor. İlkbaharın gelmesiyle birlikte, bu kuraklığa dayanıklı türler renkli çiçeklerle donanıyor. Dağın yükseklik zonlarında, alpin flora kendini gösteriyor.
 
-Yaban hayatında, dağ keçileri ve yaban domuzları gibi memeliler, kartallar ve şahinler gibi kuşlar ve çeşitli sürüngenler yaşamlarını sürdürüyor. Kıyı ekosisteminin yakınlığı, bu bölgenin ekolojik zenginliğini artırıyor. Sonbaharda, göçmen kuşlar bu dağları geçiş noktası olarak kullanıyor. 
+Yaban hayatında, dağ keçileri ve yaban domuzları gibi memeliler, kartallar ve şahinler gibi kuşlar ve çeşitli sürüngenler yaşamlarını sürdürüyor. Kıyı ekosisteminin yakınlığı, bu bölgenin ekolojik zenginliğini artırıyor. Sonbaharda, göçmen kuşlar bu dağları geçiş noktası olarak kullanıyor.
 
 Gora Mareş, dağ ekosisteminin tüm unsurlarını bir araya getiren bir bölge. Bu bölgenin korunması, sadece burada yaşayan türlerin değil, tüm ekosistemin devamlılığı için önemli.
 

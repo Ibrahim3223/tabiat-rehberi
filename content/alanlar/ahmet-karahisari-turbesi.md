@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Karahisari Türbesi"
 date: "2026-01-10T06:17:38.261Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390625"
 
 # Ahmet Karahisari Türbesi
 
-Ahmet Karahisari Türbesi, Afyonkarahisar ilinin merkezinde yer alan tarihi ve kültürel bir miras olarak karşımıza çıkıyor. Bu türbe, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Ahmet Karahisari Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle etkileyen özel bir yer. Türbenin etrafında bulunan yeşil alanlar, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunuyor. Ayrıca, türbenin mimarisi ve tarihi önemi, ziyaretçilerin ilgisini çekiyor.
+Ahmet Karahisari Türbesi, Afyonkarahisar ilinin merkezinde yer alan tarihi ve kültürel bir miras olarak karşımıza çıkıyor. Ahmet Karahisari Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle etkileyen özel bir yer. Türbenin etrafında bulunan yeşil alanlar, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunuyor. Ayrıca, türbenin mimarisi ve tarihi önemi, ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 

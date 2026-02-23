@@ -28,7 +28,7 @@ wikidata_id: "Q31387112"
 
 # Karakuz Tepe
 
-Ankara'nın kalbinde, İç Anadolu Bölgesi'nin coğrafi zenginliklerini sunan Karakuz Tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu tepe, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir mundo'ya davet ediyor. Karakuz Tepe, Ankara'nın merkezine yakın bir konumda, şehrin gürültüsünden uzakta, sakin bir atmosfer sunuyor. Burada, hem doğa severler hem de tarih meraklıları için birçok keşfedilecek şey var.
+ Bu tepe, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir mundo'ya davet ediyor. Karakuz Tepe, Ankara'nın merkezine yakın bir konumda, şehrin gürültüsünden uzakta, sakin bir atmosfer sunuyor. Burada, hem doğa severler hem de tarih meraklıları için birçok keşfedilecek şey var.
 
 ## Tarihçe
 

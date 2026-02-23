@@ -53,7 +53,7 @@ Jeolojik açıdan bakıldığında, Gövelek Gölü'nün coğrafi yapısı olduk
 
 Gövelek Gölü, Van'ın güzide bir doğal alanı olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, step bitki örtüsü ve bozkırın hakim olduğu bir bölgede yer alır. İlbahar mevsiminde, göl çevresi rengarenk çiçeklerle donanır ve sulak alan bitkileri suyun kıyılarına doğru ilerler. Sonbaharda ise, göç eden kuşlar gölün üzerinde konaklar, bu eşsiz manzarayı izlemek için ideal bir zaman olur.
 
-Gövelek Gölü'nün yaban hayatı, su kuşları ve balıklarla zenginleştirilmiştir. Bu sulak alan, birçok canlıyaşam alanı sağlar ve ekolojik dengenin korunmasına büyük katkıda bulunur. Memeliler ve sürüngenler de bu doğal çevrede yerlerini alır, av-avcı ilişkileri göle özgü bir denge oluşturur. 
+Gövelek Gölü'nün yaban hayatı, su kuşları ve balıklarla zenginleştirilmiştir. Bu sulak alan, birçok canlıyaşam alanı sağlar ve ekolojik dengenin korunmasına büyük katkıda bulunur. Memeliler ve sürüngenler de bu doğal çevrede yerlerini alır, av-avcı ilişkileri göle özgü bir denge oluşturur.
 
 Gövelek Gölü'nün ekolojik değeri, sulak alan ekosisteminin korunmasına bağlıdır. Bu alan, birçok canlı türünün yaşamını sürdürmesi için elverişli bir ortam sunar ve bölgenin biyolojik çeşitliliğine katkıda bulunur. Gölün korunması, sadece yerel değil, ulusal düzeyde de önemlidir ve gelecekteki nesiller için bu doğal mirasın korunmasına özen gösterilmelidir.
 

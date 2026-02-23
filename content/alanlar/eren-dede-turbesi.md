@@ -1,7 +1,7 @@
 ---
 title: "Eren Dede Türbesi"
 date: "2026-01-10T06:14:50.567Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,11 +30,11 @@ wikidata_id: "Q131390593"
 
 # Eren Dede Türbesi
 
-Eren Dede Türbesi, İzmir'in Dikili ilçesinde yer alan bir plaj ve tarihi mekan. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel noktalarından biri. Tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini cezbeden Eren Dede Türbesi, hem dinlenmek hem de tarihi keşif yapmak için ideal bir destinasyon. Dikili'nin merkezine yakın konumuyla ulaşımı kolay olan bu mekan, özellikle yaz aylarında plaj severlerin ve tarih meraklılarının uğrak noktası haline geliyor.
+Eren Dede Türbesi, İzmir'in Dikili ilçesinde yer alan bir plaj ve tarihi mekan. Tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini cezbeden Eren Dede Türbesi, hem dinlenmek hem de tarihi keşif yapmak için ideal bir destinasyon. Dikili'nin merkezine yakın konumuyla ulaşımı kolay olan bu mekan, özellikle yaz aylarında plaj severlerin ve tarih meraklılarının uğrak noktası haline geliyor.
 
 ## Tarihçe
 
-Eren Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin izlerini taşıyor. Tarihi kaynaklara göre, bu bölgede çeşitli uygarlıkların yaşadığı ve ticaret yaptığı biliniyor. Türbenin kendisi de tarihi bir yapı olarak dikkat çekiyor ve ziyaretçilerini geçmişe götürüyor. Eren Dede Türbesi, sadece bir tarihi mekan değil, aynı zamanda bölgeye ait kültürel mirasının bir parçası. Yüzyıllar boyunca çeşitli olaylara ve gelişmelere şahit olan bu mekan, günümüzde hem yerel halk hem de yabancı ziyaretçiler tarafından ilgi görüyor. Tarihi zenginliği ve doğal güzelliği bir arada sunan Eren Dede Türbesi, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Eren Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin izlerini taşıyor. Tarihi kaynaklara göre, bu bölgede çeşitli uygarlıkların yaşadığı ve ticaret yaptığı biliniyor. Türbenin kendisi de tarihi bir yapı olarak dikkat çekiyor ve ziyaretçilerini geçmişe götürüyor. Eren Dede Türbesi, sadece bir tarihi mekan değil, aynı zamanda bölgeye ait kültürel mirasının bir parçası. Yüzyıllar boyunca çeşitli olaylara ve gelişmelere şahit olan bu mekan, günümüzde hem yerel halk hem de yabancı ziyaretçiler tarafından ilgi görüyor.
 
 ## Coğrafya
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388928"
 
 # Yıldızdağı Tepesi
 
-Yıldızdağı Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde bulunan bir doğa harikasıdır. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle çekmektedir. Yıldızdağı Tepesi, özellikle dağ severlerin ve doğa tutkunlarının ilgi odağıdır. Burası, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekmektedir. Yıldızdağı Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunar.
+Yıldızdağı Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde bulunan bir doğa harikasıdır. Yıldızdağı Tepesi, özellikle dağ severlerin ve doğa tutkunlarının ilgi odağıdır. Burası, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekmektedir. Yıldızdağı Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yıldızdağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeni
 
 ## Coğrafya
 
-Yıldızdağı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğa harikasıdır. Bu tepe, Bingöl ilinininde yer almakta ve çevresi dağlık bir araziye sahiptir. Yıldızdağı Tepesi, 140 hektarlık bir alanı kapsamakta ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu tepe, özellikle ilkbahar ve yaz aylarında yeşillenen çimenliklerle kaplıdır. Yıldızdağı Tepesi'nin etrafındaki dağlar, ziyaretçilere güzel manzaralar sunmaktadır. Bu bölgenin iklimi, genel olarak Doğu Anadolu Bölgesi'nin iklimine benzemektedir. Yıldızdağı Tepesi, ziyaretçilerine doğal güzellikleri ve coğrafi yapısı hakkında bilgi vermektedir. Bu bölge, özellikle doğa severlerin ve dağ trekkingi yapanların ilgi odağıdır.
+Yıldızdağı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğa harikasıdır. Bu tepe, Bingöl ilinininde yer almakta ve çevresi dağlık bir araziye sahiptir. Bu tepe, özellikle ilkbahar ve yaz aylarında yeşillenen çimenliklerle kaplıdır. Yıldızdağı Tepesi'nin etrafındaki dağlar, ziyaretçilere güzel manzaralar sunmaktadır. Bu bölgenin iklimi, genel olarak Doğu Anadolu Bölgesi'nin iklimine benzemektedir. Yıldızdağı Tepesi, ziyaretçilerine doğal güzellikleri ve coğrafi yapısı hakkında bilgi vermektedir. Bu bölge, özellikle doğa severlerin ve dağ trekkingi yapanların ilgi odağıdır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Yıldızdağı Tepesi'ni ziyaret etmek, doğa severler ve dağ trekkingi yapanla
 
 ## İlginç Bilgiler
 
-- Yıldızdağı Tepesi, 140 hektarlık bir alanı kapsamakta ve yaklaşık 200 futbol sahası büyüklüğündedir.
 - Bu tepe, özellikle ilkbahar ve yaz aylarında yeşillenen çimenliklerle kaplıdır.
 - Yıldızdağı Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Bu bölgede, çeşitli hayvan türleri de yaşamaktadır.

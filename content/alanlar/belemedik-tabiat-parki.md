@@ -30,7 +30,7 @@ wikidata_id: "Q108228467"
 
 # Belemedik Tabiat Parkı
 
-Belemedik Tabiat Parkı, Pozantı, Adana'da yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir tabiat parkıdır. Bu park, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanıyla, doğaseverler tarafından sıkça ziyaret edilen bir yerdir. Parkın içinde, çeşitli bitki türleri ve zengin fauna bulunur. Belemedik Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için mükemmel bir destinasyon olarak dikkat çekmektedir.
+ Parkın içinde, çeşitli bitki türleri ve zengin fauna bulunur. Belemedik Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için mükemmel bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Belemedik Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Belemedik Tabiat Parkı, Pozantı, Adana'da yer alan bir tabiat parkıdır. Parkın coğrafyası, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir alandan oluşmaktadır. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşmaktadır. Parkın iklimi, Akdeniz ikliminin özellikleri taşır. Parkın coğrafi konumu, ziyaretçilere farklı doğa güzellikleri sunmaktadır. Parkın çevresi, çeşitli köyler ve kasabalarla çevrilidir. Parkın coğrafyası, ziyaretçilere hem dağların hem de ormanların güzelliğini sunmaktadır.
+Belemedik Tabiat Parkı, Pozantı, Adana'da yer alan bir tabiat parkıdır. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşmaktadır. Parkın iklimi, Akdeniz ikliminin özellikleri taşır. Parkın coğrafi konumu, ziyaretçilere farklı doğa güzellikleri sunmaktadır. Parkın çevresi, çeşitli köyler ve kasabalarla çevrilidir. Parkın coğrafyası, ziyaretçilere hem dağların hem de ormanların güzelliğini sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -53,7 +53,7 @@ Jeolojik açıdan bakıldığında, Ziyaret Dağı'nın oluşumu hakkında detay
 
 Ziyaret Dağı, nemli iklimin hâkim olduğu bir bölgede yer alır ve bu nedenle gür ormanlarla kaplıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın farklı yükseklik zonlarında, çeşitli bitki türleri bulunur. İlkbahar ayında, dağ yamaçları renkli çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçer.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Ormanlarda, geyi ve yaban domuzu gibi büyük memeliler yaşarken, dağların yüksek kesimlerinde, kartallar ve diğer yırtıcı kuşlar bulunur. Sürüngenler, kayalık alanlarda ve orman zemininde yaşarlar. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Ormanlarda, geyi ve yaban domuzu gibi büyük memeliler yaşarken, dağların yüksek kesimlerinde, kartallar ve diğer yırtıcı kuşlar bulunur. Sürüngenler, kayalık alanlarda ve orman zemininde yaşarlar.
 
 Bu dağ ekosisteminin korunması, bölgenin yüksek biyoçeşitliliğini korumak için önemlidir. Ziyaret Dağı, aynı zamanda birçok endemik türün yaşam alanıdır ve bu nedenle bilim insanları ve doğa severler için önemli bir araştırma ve gözlem alanıdır.
 

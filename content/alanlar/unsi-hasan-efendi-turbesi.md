@@ -1,7 +1,7 @@
 ---
 title: "Ünsi Hasan Efendi Türbesi"
 date: "2026-01-10T05:03:09.608Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391555"
 
 # Ünsi Hasan Efendi Türbesi
 
-Ünsi Hasan Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir mekandır. Fatih ilçesinde yer alan bu türbe, İstanbul'un önemli dini ve tarihi merkezlerinden biridir. 140 hektarlık bir alanda yer alan Ünsi Hasan Efendi Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. İstanbul'un kalbinde yer alan bu türbe, şehirdeki önemli tarihi ve kültürel mekanlara yakınlığıyla dikkat çeker. İstanbul'un tarihi geçmişi ve kültürel zenginliği, Ünsi Hasan Efendi Türbesi'nde somutlaştırılmıştır.
+Ünsi Hasan Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir mekandır. Fatih ilçesinde yer alan bu türbe, İstanbul'un önemli dini ve tarihi merkezlerinden biridir. İstanbul'un kalbinde yer alan bu türbe, şehirdeki önemli tarihi ve kültürel mekanlara yakınlığıyla dikkat çeker. İstanbul'un tarihi geçmişi ve kültürel zenginliği, Ünsi Hasan Efendi Türbesi'nde somutlaştırılmıştır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391555"
 
 ## Coğrafya
 
-Ünsi Hasan Efendi Türbesi, İstanbul'un Fatih ilçesinde yer alır. İstanbul'un kalbinde yer alan bu türbe, şehirdeki önemli tarihi ve kültürel mekanlara yakınlığıyla dikkat çeker. 140 hektarlık bir alanda yer alan Ünsi Hasan Efendi Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. İstanbul'un coğrafi konumu, Ünsi Hasan Efendi Türbesi'nin inşa edilmesinde önemli bir rol oynamıştır. İstanbul'un iklimi, türbenin mimarisini ve inşasını etkilemiştir. Ünsi Hasan Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir mekandır ve şehrin önemli dini merkezlerinden biridir. İstanbul'un coğrafi konumu, Ünsi Hasan Efendi Türbesi'nin ziyaretçilerini etkileyen önemli bir faktördür.
+Ünsi Hasan Efendi Türbesi, İstanbul'un Fatih ilçesinde yer alır. İstanbul'un kalbinde yer alan bu türbe, şehirdeki önemli tarihi ve kültürel mekanlara yakınlığıyla dikkat çeker. İstanbul'un coğrafi konumu, Ünsi Hasan Efendi Türbesi'nin inşa edilmesinde önemli bir rol oynamıştır. İstanbul'un iklimi, türbenin mimarisini ve inşasını etkilemiştir. Ünsi Hasan Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir mekandır ve şehrin önemli dini merkezlerinden biridir. İstanbul'un coğrafi konumu, Ünsi Hasan Efendi Türbesi'nin ziyaretçilerini etkileyen önemli bir faktördür.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Türbe of Kanijeli Siyavuş Pasha"
 date: "2026-01-10T04:52:06.014Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -24,7 +24,7 @@ wikidata_id: "Q55700539"
 
 # Türbe of Kanijeli Siyavuş Pasha
 
-Eyüpsultan ilçesinde yer alan Türbe of Kanijeli Siyavuş Pasha, İstanbul'un önemli tarihi yapılarından biridir. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer alır ve tarihi geçmişi ile dikkat çeker. Kanijeli Siyavuş Pasha'nın hayatını ve eserlerini öğrenmek için ziyaretçilerin ilgisini çeken bir noktada bulunur. Türbenin mimarisi ve tarihi önemi, ziyaretçilerin dikkatini çekmektedir.
+Eyüpsultan ilçesinde yer alan Türbe of Kanijeli Siyavuş Pasha, İstanbul'un önemli tarihi yapılarından biridir. Kanijeli Siyavuş Pasha'nın hayatını ve eserlerini öğrenmek için ziyaretçilerin ilgisini çeken bir noktada bulunur. Türbenin mimarisi ve tarihi önemi, ziyaretçilerin dikkatini çekmektedir.
 
 ## Tarihçe
 
@@ -32,7 +32,7 @@ Türbe of Kanijeli Siyavuş Pasha, tarihi geçmişi ile önemli bir yapıdır. K
 
 ## Coğrafya
 
-Türbe of Kanijeli Siyavuş Pasha, Eyüpsultan ilçesinde yer alır ve İstanbul'un önemli coğrafi noktalarından biridir. Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer alır ve çevresinde tarihi yapılar bulunur. İstanbul'un coğrafi konumu, türbenin inşa edildiği dönemde önemli bir rol oynamıştır. Şehir, ticaret yollarının kesişme noktasında yer alır ve bu nedenle tarihi boyunca önemli bir merkez olmuştur. Türbenin bulunduğu Eyüpsultan ilçesi, tarihi yapıları ve doğal güzellikleriyle dikkat çeker. İlçe, Haliç'in kuzeyinde yer alır ve çevresinde çeşitli tarihi yapılar bulunur. Türbe of Kanijeli Siyavuş Pasha, bu bölgenin önemli noktalarından biridir ve ziyaretçilerin ilgisini çeker. İstanbul'un coğrafi konumu, türbenin inşa edildiği dönemde önemli bir rol oynamıştır ve şehrin tarihi boyunca önemli bir merkez olarak kalmıştır.
+Türbe of Kanijeli Siyavuş Pasha, Eyüpsultan ilçesinde yer alır ve İstanbul'un önemli coğrafi noktalarından biridir. İstanbul'un coğrafi konumu, türbenin inşa edildiği dönemde önemli bir rol oynamıştır. Şehir, ticaret yollarının kesişme noktasında yer alır ve bu nedenle tarihi boyunca önemli bir merkez olmuştur. Türbenin bulunduğu Eyüpsultan ilçesi, tarihi yapıları ve doğal güzellikleriyle dikkat çeker. İlçe, Haliç'in kuzeyinde yer alır ve çevresinde çeşitli tarihi yapılar bulunur. Türbe of Kanijeli Siyavuş Pasha, bu bölgenin önemli noktalarından biridir ve ziyaretçilerin ilgisini çeker. İstanbul'un coğrafi konumu, türbenin inşa edildiği dönemde önemli bir rol oynamıştır ve şehrin tarihi boyunca önemli bir merkez olarak kalmıştır.
 
 ## Flora ve Fauna
 

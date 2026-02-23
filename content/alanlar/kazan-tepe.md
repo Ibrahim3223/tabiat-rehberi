@@ -29,7 +29,7 @@ wikidata_id: "Q31386250"
 
 # Kazan Tepe
 
-Kazan Tepe, Hatay'ın Akdeniz Bölgesi'nde yer alan 140 hektarlık bir tepe. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, çeşitli bitki türleriyle kaplı. Bu bölge, doğaseverlerin ve yürüyüş severlerin keyif alacağı bir yer. Kazan Tepe, yüzyıllar boyunca insan yerleşimine tanık olmuş ve tarihi geçmişiyle dikkat çekiyor. Burada, doğanın güzelliği ve tarihi kalıntılar bir araya geliyor.
+Kazan Tepe, Hatay'ın Akdeniz Bölgesi'nde yer alan 140 hektarlık bir tepe. Bu bölge, doğaseverlerin ve yürüyüş severlerin keyif alacağı bir yer. Kazan Tepe, yüzyıllar boyunca insan yerleşimine tanık olmuş ve tarihi geçmişiyle dikkat çekiyor. Burada, doğanın güzelliği ve tarihi kalıntılar bir araya geliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kazan Tepe'nin tarihi geçmişi oldukça zengin. Yüzyıllar boyunca çeşitli m
 
 ## Coğrafya
 
-Kazan Tepe, Hatay'ın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık bir alana yayılmış ve çeşitli bitki türleriyle kaplı. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğaseverlerin keyif alacağı bir yer. Kazan Tepe'nin coğrafi yapısı, yaban hayatı için uygun koşullar sunuyor. Bu bölgede, çeşitli canlılar yaşamlarını sürdürüyor. İklimi, Akdeniz Bölgesi'nin característicasını taşıyor. Yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu bölge, doğa severlerin ve yürüyüş severlerin keyif alacağı bir yer.
+Kazan Tepe, Hatay'ın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık bir alana yayılmış ve çeşitli bitki türleriyle kaplı. Kazan Tepe'nin coğrafi yapısı, yaban hayatı için uygun koşullar sunuyor. Bu bölgede, çeşitli canlılar yaşamlarını sürdürüyor. İklimi, Akdeniz Bölgesi'nin característicasını taşıyor. Yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu bölge, doğa severlerin ve yürüyüş severlerin keyif alacağı bir yer.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kazan Tepe, doğaseverlerin ve yürüyüş severlerin keyif alacağı bir yer. B
 ## İlginç Bilgiler
 
 - Kazan Tepe, 140 hektarlık bir alana yayılmış.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Kazan Tepe, yüzyıllar boyunca insan yerleşimine tanık olmuş.
 - Bu bölge, tarihi kalıntılarıyla dikkat çekiyor.
 - Kazan Tepe, yaban hayatı için uygun koşullar sunuyor.

@@ -1,7 +1,7 @@
 ---
 title: "Selimiye Hamamı"
 date: "2026-01-09T22:14:00.417Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q87349567"
 
 # selimiye hamamı
 
-Selimiye Hamamı, İstanbul'un Üsküdar ilçesinde bulunan ve tarihi geçmişi ile dikkat çeken bir yer. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Bu doğa harikası, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Selimiye Hamamı'nın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili, bu nedenle doğa severler için bir cennet.
+Selimiye Hamamı, İstanbul'un Üsküdar ilçesinde bulunan ve tarihi geçmişi ile dikkat çeken bir yer. Bu doğa harikası, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Selimiye Hamamı'nın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili, bu nedenle doğa severler için bir cennet.
 
 ## Tarihçe
 

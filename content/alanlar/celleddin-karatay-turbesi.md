@@ -1,7 +1,7 @@
 ---
 title: "Celâleddin Karatay Türbesi"
 date: "2026-01-10T05:26:38.647Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391691"
 
 # Celâleddin Karatay Türbesi
 
-Celâleddin Karatay Türbesi, Konya'nın Selçuklu ilçesinde bulunan önemli bir tarihi yapıdır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunmaktadır. Bu türbe, Selçuklu döneminde yaşayan önemli bir şahsiyet olan Celâleddin Karatay'ın mezarını barındırmaktadır. Türbenin etrafındaki yeşil alan, doğa severler için ideal bir gezi noktasıdır. Ziyaretçiler, bu tarihi yapıyı ziyaret ederken aynı zamanda doğayı da keşfetme fırsatı bulmaktadır.
+Celâleddin Karatay Türbesi, Konya'nın Selçuklu ilçesinde bulunan önemli bir tarihi yapıdır. Bu türbe, Selçuklu döneminde yaşayan önemli bir şahsiyet olan Celâleddin Karatay'ın mezarını barındırmaktadır. Türbenin etrafındaki yeşil alan, doğa severler için ideal bir gezi noktasıdır. Ziyaretçiler, bu tarihi yapıyı ziyaret ederken aynı zamanda doğayı da keşfetme fırsatı bulmaktadır.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228809"
 
 # Izmir-Bayindir-Golcuk-Karacam
 
-İzmir-Bayındır-Gölcük-Karacam milli parkı, Ege Bölgesi'nin en güzel köşelerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Gölcük ve Karacam gibi güzel göllerin yanı sıra, Bayındır'ın tarihi geçmişi de ziyaretçileri bekliyor.
+İzmir-Bayındır-Gölcük-Karacam milli parkı, Ege Bölgesi'nin en güzel köşelerinden biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Gölcük ve Karacam gibi güzel göllerin yanı sıra, Bayındır'ın tarihi geçmişi de ziyaretçileri bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q108228809"
 
 ## Ziyaret Bilgileri
 
-İzmir-Bayındır-Gölcük-Karacam milli parkını ziyaret etmek, doğa severler için bir rüya harika bir deneyim. Milli parka, Bayındır'ın tarihi merkezinden fácil bir şekilde ulaşabilirsiniz. Ziyaretçiler, milli parkın doğal güzelliklerini ve tarihi değerlerini keşfedebilirler. Gölcük ve Karacam göllerini gezebilir, sulak alanları keşfedebilir ve flora ve fauna hakkında bilgi edinebilirler. Milli park, dört mevsim boyunca ziyaret edilebilir, ancak ilkbahar ve yaz ayları en uygun zamanlardır.
+İzmir-Bayındır-Gölcük-Karacam milli parkını ziyaret etmek, doğa severler için bir rüya harika bir deneyim. Milli parka, Bayındır'ın tarihi merkezinden kolay bir şekilde ulaşabilirsiniz. Ziyaretçiler, milli parkın doğal güzelliklerini ve tarihi değerlerini keşfedebilirler. Gölcük ve Karacam göllerini gezebilir, sulak alanları keşfedebilir ve flora ve fauna hakkında bilgi edinebilirler. Milli park, dört mevsim boyunca ziyaret edilebilir, ancak ilkbahar ve yaz ayları en uygun zamanlardır.
 
 ## İlginç Bilgiler
 

@@ -29,11 +29,11 @@ wikidata_id: "Q134728334"
 
 # Bin Tepeler Tümülüsü 46
 
-Bin Tepeler Tümülüsü 46, Ege Bölgesi'nin en önemli arkeolojik sitelerinden biri olarak dikkat çekiyor. Salihli ilçesi sınırları içinde yer alan bu tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine tarih ve doğanın iç içe geçtiği bir deneyim sunuyor. Bin Tepeler Tümülüsü 46, adını çevresindeki tepe gibi yükselen tümülüslerden alıyor. Bu histórik mekan, ziyaretçilerini hem tarihin derinliklerine götürüyor hem de Ege Bölgesi'nin güzelliğini gözler önüne seriyor.
+Bin Tepeler Tümülüsü 46, Ege Bölgesi'nin en önemli arkeolojik sitelerinden biri olarak dikkat çekiyor. Salihli ilçesi sınırları içinde yer alan bu tümülüs, yaklaşık 140 hektarlık bir alanı kaplıyor. Bin Tepeler Tümülüsü 46, adını çevresindeki tepe gibi yükselen tümülüslerden alıyor. Bu tarihi mekan, ziyaretçilerini hem tarihin derinliklerine götürüyor hem de Ege Bölgesi'nin güzelliğini gözler önüne seriyor.
 
 ## Tarihçe
 
-Bin Tepeler Tümülüsü 46'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tümülüs, antik dönemlerden kalma önemli bir arkeolojik eser olarak kabul ediliyor. Tarihi kayıtlara göre, bu bölgeye yapılan araştırmalar ve kazılar, bölgenin zengin bir tarihe sahip olduğunu gösteriyor. Ancak, tümülüsün tam olarak ne zaman inşa edildiğine dair net bir tarih bulunmuyor. Bununla birlikte, tümülüsün mimari özellikleri ve çevrede bulunan tarihi eserler, bu bölgenin tarihinin önemli bir kısmını aydınlatıyor. Bin Tepeler Tümülüsü 46, Ege Bölgesi'nin tarihi zenginliğini ziyaretçilerine sunarken, aynı zamanda bu régionun kültürel mirasının önemli bir parçasını oluşturuyor.
+Bin Tepeler Tümülüsü 46'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tümülüs, antik dönemlerden kalma önemli bir arkeolojik eser olarak kabul ediliyor. Tarihi kayıtlara göre, bu bölgeye yapılan araştırmalar ve kazılar, bölgenin zengin bir tarihe sahip olduğunu gösteriyor. Ancak, tümülüsün tam olarak ne zaman inşa edildiğine dair net bir tarih bulunmuyor. Bununla birlikte, tümülüsün mimari özellikleri ve çevrede bulunan tarihi eserler, bu bölgenin tarihinin önemli bir kısmını aydınlatıyor. Bin Tepeler Tümülüsü 46, Ege Bölgesi'nin tarihi zenginliğini ziyaretçilerine sunarken, aynı zamanda bu bölgenin kültürel mirasının önemli bir parçasını oluşturuyor.
 
 ## Coğrafya
 

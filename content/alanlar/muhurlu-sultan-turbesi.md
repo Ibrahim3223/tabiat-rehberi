@@ -1,7 +1,7 @@
 ---
 title: "Mühürlü Sultan Türbesi"
 date: "2026-01-10T05:06:50.304Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391568"
 
 # Mühürlü Sultan Türbesi
 
-Mühürlü Sultan Türbesi, İzmir'in Menemen ilçesinde bulunan tarihi bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alan kaplar, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşittir. Plajın tarihi geçmişi, yüzyıllar boyunca insanların ziyaret ettiği bir yer olarak bilinir. Mühürlü Sultan Türbesi, hem tarihi açıdan hem de doğal güzelliği ile dikkat çeker. Deniz suyu, temiz ve berraktır, bu nedenle birçok insan bu plajı tercih eder. Ayrıca, plajda çeşitli etkinlikler düzenlenir, bu da ziyaretçilerin keyifli zaman geçirmesini sağlar.
+Mühürlü Sultan Türbesi, İzmir'in Menemen ilçesinde bulunan tarihi bir plajdır. Plajın tarihi geçmişi, yüzyıllar boyunca insanların ziyaret ettiği bir yer olarak bilinir. Mühürlü Sultan Türbesi, hem tarihi açıdan hem de doğal güzelliği ile dikkat çeker. Deniz suyu, temiz ve berraktır, bu nedenle birçok insan bu plajı tercih eder. Ayrıca, plajda çeşitli etkinlikler düzenlenir, bu da ziyaretçilerin keyifli zaman geçirmesini sağlar.
 
 ## Tarihçe
 

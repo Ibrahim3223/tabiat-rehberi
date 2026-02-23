@@ -28,7 +28,7 @@ wikidata_id: "Q31388810"
 
 # Derviş Tepesi
 
-Derviş Tepesi, Tekirdağ'ın en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Derviş Tepesi, ziyaretçilerini hem tarihi geçmişi hem de zengin florası ile büyülüyor. Bu tepe, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Derviş Tepesi, doğa severler ve tarih meraklıları için bir cennet olarak kabul ediliyor.
+Derviş Tepesi, Tekirdağ'ın en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Derviş Tepesi, ziyaretçilerini hem tarihi geçmişi hem de zengin florası ile büyülüyor. Bu tepe, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Derviş Tepesi, doğa severler ve tarih meraklıları için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Derviş Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe,
 
 ## Coğrafya
 
-Derviş Tepesi, Marmara Bölgesi'nin en önemli coğrafi güzelliklerinden biri olarak kabul ediliyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Derviş Tepesi, deniz seviyesinden yüksek bir konumda bulunuyor ve bu konumu, ziyaretçilerine muhteşem bir manzara sunuyor. Bu tepe, zengin florası ile dikkat çekiyor ve çeşitli bitki türleri burada yetişiyor. Derviş Tepesi, coğrafi konumu ile ilgili olarak yapılan araştırmalar, bu tepe hakkında daha fazla bilgi edinmemizi sağlıyor. Bu araştırmalar, Derviş Tepesi'nin coğrafyasını daha iyi anlamamızı sağlıyor. Derviş Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Derviş Tepesi, Marmara Bölgesi'nin en önemli coğrafi güzelliklerinden biri olarak kabul ediliyor. Derviş Tepesi, deniz seviyesinden yüksek bir konumda bulunuyor ve bu konumu, ziyaretçilerine muhteşem bir manzara sunuyor. Bu tepe, zengin florası ile dikkat çekiyor ve çeşitli bitki türleri burada yetişiyor. Derviş Tepesi, coğrafi konumu ile ilgili olarak yapılan araştırmalar, bu tepe hakkında daha fazla bilgi edinmemizi sağlıyor. Bu araştırmalar, Derviş Tepesi'nin coğrafyasını daha iyi anlamamızı sağlıyor. Derviş Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Flora ve Fauna
 

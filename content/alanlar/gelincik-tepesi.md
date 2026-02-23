@@ -29,7 +29,7 @@ wikidata_id: "Q31588999"
 
 # Gelincik Tepesi
 
-Gelincik Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Gelincik Tepesi, çevresindeki diğer tepelerle birlikte, bölgenin doğal güzelliklerini sergiliyor. Bu bölge, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmış ve tarihi geçmişiyle dikkat çekiyor. Gelincik Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor.
+Gelincik Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Gelincik Tepesi, çevresindeki diğer tepelerle birlikte, bölgenin doğal güzelliklerini sergiliyor. Bu bölge, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmış ve tarihi geçmişiyle dikkat çekiyor. Gelincik Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor.
 
 ## Tarihçe
 

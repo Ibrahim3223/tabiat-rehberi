@@ -28,7 +28,7 @@ wikidata_id: "Q31388992"
 
 # Melikoğlu Tepesi
 
-Melikoğlu Tepesi, Doğu Anadolu Bölgesi'nde, Bingöl ilinin sınırları içerisinde yer alan bir tepe. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, bölgenin önemli doğal güzelliklerinden biri. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta ve bu bölgede zengin fauna gözlemleme mümkün. Melikoğlu Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Melikoğlu Tepesi, Doğu Anadolu Bölgesi'nde, Bingöl ilinin sınırları içerisinde yer alan bir tepe. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta ve bu bölgede zengin fauna gözlemleme mümkün. Melikoğlu Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q6454222"
 
 # Küçüktavşan Adası
 
-Muğla'nın büyüleyici kıyı şeridini süsleyen Küçüktavşan Adası, doğa severlerin ilgisini çekmeyi başarmış bir destinasyon. Bu ada, Muğla'nın zengin tarihi ve i güzelliklerinin bir araya geldiği bir noktada yer alıyor. Ziyaretçiler, adanın sakin atmosferini ve çevresindeki suyun berraklığını keşfetme fırsatı buluyor. 
+Muğla'nın büyüleyici kıyı şeridini süsleyen Küçüktavşan Adası, doğa severlerin ilgisini çekmeyi başarmış bir destinasyon. Bu ada, Muğla'nın zengin tarihi ve i güzelliklerinin bir araya geldiği bir noktada yer alıyor. Ziyaretçiler, adanın sakin atmosferini ve çevresindeki suyun berraklığını keşfetme fırsatı buluyor.
 
 Örneğin, Damlataş Mağarası gibi Küçüktavşan Adası da Türkiye'nin turizm potansiyelini gösteren önemli bir nokta.
 

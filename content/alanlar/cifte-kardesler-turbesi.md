@@ -1,7 +1,7 @@
 ---
 title: "Çifte Kardeşler Türbesi"
 date: "2026-01-10T06:04:48.271Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390519"
 
 # Çifte Kardeşler Türbesi
 
-Erzurum'un Yakutiye ilçesinde bulunan Çifte Kardeşler Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği özel bir nokta olarak karşımıza çıkıyor. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olarak düşünülürse, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tarihi ve doğal güzelliklerinin yanı sıra, bu bölge aynı zamanda ziyaretçilere huzurlu bir atmosfer sunuyor. Çifte Kardeşler Türbesi, ziyaretçilerini bekleyen bir huzur ve tarih kaynağı olarak görülebilir.
+Erzurum'un Yakutiye ilçesinde bulunan Çifte Kardeşler Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği özel bir nokta olarak karşımıza çıkıyor. Tarihi ve doğal güzelliklerinin yanı sıra, bu bölge aynı zamanda ziyaretçilere huzurlu bir atmosfer sunuyor. Çifte Kardeşler Türbesi, ziyaretçilerini bekleyen bir huzur ve tarih kaynağı olarak görülebilir.
 
 ## Tarihçe
 

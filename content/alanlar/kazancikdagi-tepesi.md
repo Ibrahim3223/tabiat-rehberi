@@ -28,7 +28,7 @@ wikidata_id: "Q31390923"
 
 # Kazancıkdağı Tepesi
 
-Kazancıkdağı Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alanı ziyaret ettiğinizde, size sunulan geniş veengin bitki örtüsü ile karşılaşacaksınız. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna sizi bekliyor. Kazancıkdağı Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yer. Doğaya kaçma ve stresten uzaklaşmak isteyenler için mükemmel bir tercih.
+ Bu alanı ziyaret ettiğinizde, size sunulan geniş veengin bitki örtüsü ile karşılaşacaksınız. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna sizi bekliyor. Kazancıkdağı Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yer. Doğaya kaçma ve stresten uzaklaşmak isteyenler için mükemmel bir tercih.
 
 ## Tarihçe
 

@@ -33,7 +33,7 @@ Doğu Anadolu Bölgesi'nin Erzurum ilinde yer alan Sarıkamış-Allahüekber Da�
 
 ## Tarihçe
 
-Sarıkamış-Allahüekber Dağları Millî Parkı, tarihin sâu izlerini taşıyan bir bölge. 1914 yılında gerçekleşen Sarıkamış Harekâtı, bu bölgenin tarihsel önemini ortaya koyuyor. Bu harekat, I. Dünya Savaşı sırasında Rus kuvvetlerine karşı Osmanlı İmparatorluğu'nun gerçekleştirdiği bir askeri harekat olarak biliniyor. Milli parkın kuruluşu ise 2004 yılında gerçekleşti. O tarihten beri, bölgenin doğal güzellikleri ve tarihi önemi korunmaya çalışılıyor.
+Sarıkamış-Allahüekber Dağları Millî Parkı, tarihin derin izlerini taşıyan bir bölge. 1914 yılında gerçekleşen Sarıkamış Harekâtı, bu bölgenin tarihsel önemini ortaya koyuyor. Bu harekat, I. Dünya Savaşı sırasında Rus kuvvetlerine karşı Osmanlı İmparatorluğu'nun gerçekleştirdiği bir askeri harekat olarak biliniyor. Milli parkın kuruluşu ise 2004 yılında gerçekleşti. O tarihten beri, bölgenin doğal güzellikleri ve tarihi önemi korunmaya çalışılıyor.
 
 ## Coğrafya
 

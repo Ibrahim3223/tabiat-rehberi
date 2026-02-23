@@ -23,11 +23,11 @@ wikidata_id: "Q108228709"
 
 # MARDİN
 
-Mardin milli parkı, İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişiyle dikkat çeken bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici bir doğayla karşılıyor. Parkın konumu, ziyaretçilerin hem doğayı hem de tarihi yapıları keşfetmesine olanak tanır. Mardin'in coğrafi yapısı, ziyaretçilere geniş bir flora ve fauna çeşitliliği sunar. Parkın girişinde, tarihi bir taş kapı ziyaretçileri karşılar ve parkın histórik önemini vurgular.
+Mardin milli parkı, İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişiyle dikkat çeken bir destinasyondur. Parkın konumu, ziyaretçilerin hem doğayı hem de tarihi yapıları keşfetmesine olanak tanır. Mardin'in coğrafi yapısı, ziyaretçilere geniş bir flora ve fauna çeşitliliği sunar. Parkın girişinde, tarihi bir taş kapı ziyaretçileri karşılar ve parkın tarihi önemini vurgular.
 
 ## Tarihçe
 
-Mardin milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Parkın içinde yer alan tarihi yapılar, ziyaretçilere geçmişin kapılarını aralar. Mardin'in tarihi, verschillı medeniyetlerin izlerini taşır ve parkın kültürel zenginliğini gözler önüne serer. Tarihi yapıların yanı sıra, parkın içinde yer alan arkeolojik sit alanları da ziyaretçilerin ilgisini çeker. Mardin'in tarihi geçmişi, ziyaretçilere bir zaman yolculuğu fırsatı sunar ve parkın histórik önemini vurgular. Parkın tarihi hakkında detaylı bilgiler, ziyaretçilerin daha iyi bir anlayışa sahip olmasını sağlar.
+Mardin milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Parkın içinde yer alan tarihi yapılar, ziyaretçilere geçmişin kapılarını aralar. Mardin'in tarihi, verschillı medeniyetlerin izlerini taşır ve parkın kültürel zenginliğini gözler önüne serer. Tarihi yapıların yanı sıra, parkın içinde yer alan arkeolojik sit alanları da ziyaretçilerin ilgisini çeker. Mardin'in tarihi geçmişi, ziyaretçilere bir zaman yolculuğu fırsatı sunar ve parkın tarihi önemini vurgular. Parkın tarihi hakkında detaylı bilgiler, ziyaretçilerin daha iyi bir anlayışa sahip olmasını sağlar.
 
 ## Coğrafya
 

@@ -51,11 +51,11 @@ Mevsimsel değişiklikler açısından, Ziyaret Dağı'nın bulunduğu bölgede 
 
 ## Flora ve Fauna
 
-Ziyaret Dağı, Artvin'in nemli ikliminin etkisi altında, gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Ziyaret Dağı, Artvin'in nemli ikliminin etkisi altında, gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda yaprak döken ağaçlar sarı, kırmızı ve turuncu tonlara bürünür. Bu mevsimsel değişim, dağın yükseklik zonlarına bağlı olarak değişen flora çeşitliliğini gösterir.
 
-Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler bulunur. Dağ keçileri ve ayılar gibi büyük memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri göç ettikleri sırada bu bölgeyi ziyaret eder. 
+Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler bulunur. Dağ keçileri ve ayılar gibi büyük memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri göç ettikleri sırada bu bölgeyi ziyaret eder.
 
 Ekolojik Değer olarak, Ziyaret Dağı'nın yüksek biyoçeşitliliği ve dağ ekosisteminin korunması büyük önem taşır. Bu alanın korunması, sadece burada yaşayan canlıları değil, aynı zamanda bölgenin ekolojik dengesini de korumayı sağlar.
 

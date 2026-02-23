@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Çoban Türbesi"
 date: "2026-01-10T06:01:26.064Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390461"
 
 # Şeyh Çoban Türbesi
 
-Sivas ilinin merkezinde bulunan Şeyh Çoban Türbesi, şehrin tarih ve doğaçısından önemli noktalarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte çeşitli bitki türleri ile zengin fauna bulunması, ziyaretçilere geniş bir yelpaze sunmaktadır. Şeyh Çoban Türbesi, Sivas'ın tarihini ve kültürel mirasını yansıtan bir yapı olarak dikkat çekmektedir. Bu yapı, şehrin önemli tarihi eserlerinden biri olarak kabul edilmekte ve ziyaretçilere şehrin derin tarihini anlatmaktadır. Şeyh Çoban Türbesi'nin etrafı, Sivas'ın coğrafi güzelliklerini ve tarihi zenginliklerini bir araya getirmesi ile dikkat çekmektedir.
+Sivas ilinin merkezinde bulunan Şeyh Çoban Türbesi, şehrin tarih ve doğaçısından önemli noktalarından biridir. Şeyh Çoban Türbesi, Sivas'ın tarihini ve kültürel mirasını yansıtan bir yapı olarak dikkat çekmektedir. Bu yapı, şehrin önemli tarihi eserlerinden biri olarak kabul edilmekte ve ziyaretçilere şehrin derin tarihini anlatmaktadır. Şeyh Çoban Türbesi'nin etrafı, Sivas'ın coğrafi güzelliklerini ve tarihi zenginliklerini bir araya getirmesi ile dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sivas ilinin merkezinde bulunan Şeyh Çoban Türbesi, şehrin tarih ve doğaç�
 
 ## Coğrafya
 
-Şeyh Çoban Türbesi, Sivas ilinin coğrafi güzelliklerini ve tarihi zenginliklerini bir araya getirmesi ile dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte çeşitli bitki türleri ile zengin fauna bulunması, ziyaretçilere geniş bir yelpaze sunmaktadır. Şeyh Çoban Türbesi'nin etrafı, Sivas'ın coğrafi güzelliklerini ve tarihi zenginliklerini bir araya getirmesi ile dikkat çekmektedir. Bu bölgede, Sivas'ın iklimi ve coğrafi yapısı, ziyaretçilere benzersiz bir deneyim sunmaktadır. Şeyh Çoban Türbesi, Sivas'ın coğrafi güzelliklerini ve tarihi zenginliklerini bir araya getirmesi ile dikkat çekmekte ve ziyaretçilere şehrin derin tarihini ve kültürel mirasını sunmaktadır. Sivas'ın coğrafi konumu, Şeyh Çoban Türbesi'nin etrafını zengin bitki türleri ve fauna ile doldurmakta ve ziyaretçilere geniş bir yelpaze sunmaktadır.
+Şeyh Çoban Türbesi, Sivas ilinin coğrafi güzelliklerini ve tarihi zenginliklerini bir araya getirmesi ile dikkat çekmektedir. Şeyh Çoban Türbesi'nin etrafı, Sivas'ın coğrafi güzelliklerini ve tarihi zenginliklerini bir araya getirmesi ile dikkat çekmektedir. Bu bölgede, Sivas'ın iklimi ve coğrafi yapısı, ziyaretçilere benzersiz bir deneyim sunmaktadır. Şeyh Çoban Türbesi, Sivas'ın coğrafi güzelliklerini ve tarihi zenginliklerini bir araya getirmesi ile dikkat çekmekte ve ziyaretçilere şehrin derin tarihini ve kültürel mirasını sunmaktadır. Sivas'ın coğrafi konumu, Şeyh Çoban Türbesi'nin etrafını zengin bitki türleri ve fauna ile doldurmakta ve ziyaretçilere geniş bir yelpaze sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Halet Efendi Türbesi"
 date: "2026-01-10T05:39:50.916Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q135430368"
 
 # Halet Efendi Türbesi
 
-Halet Efendi Türbesi, İstanbul'unhistorik semtlerinden Beyoğlu'nda yer alan bir türbedir. Bu tarihi yapı, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir bölgede bulunmaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu türbe, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak kabul edilir. Halet Efendi Türbesi, tarihi ve kültürel önemi ile dikkat çekiyor. İstanbul'un turistik mekanlarından biri olarak ziyaretçilerini ağırlayan bu türbe, mimari yapısı ile de dikkat çekiyor. Türbenin yapımı, tarihsel süreç içerisinde önemli bir rol oynamıştır.
+Halet Efendi Türbesi, İstanbul'unhistorik semtlerinden Beyoğlu'nda yer alan bir türbedir. Bu tarihi yapı, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir bölgede bulunmaktadır. Bu türbe, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak kabul edilir. Halet Efendi Türbesi, tarihi ve kültürel önemi ile dikkat çekiyor. İstanbul'un turistik mekanlarından biri olarak ziyaretçilerini ağırlayan bu türbe, mimari yapısı ile de dikkat çekiyor. Türbenin yapımı, tarihsel süreç içerisinde önemli bir rol oynamıştır.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Halet Efendi Türbesi, İstanbul'unhistorik semtlerinden Beyoğlu'nda yer alan b
 
 ## Flora ve Fauna
 
-Halet Efendi Türbesi, çeşitli bitki türleri ile çevrilidir. Bu türbe, tarihi yapılar ve kültürel merkezler ile çevrilidir. Türbenin bulunduğu bölge, zengin fauna ile dikkat çekiyor. Bu bölge, históri ve kültürel önemi ile dikkat çekiyor. Halet Efendi Türbesi, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak kabul edilir. Türbenin bulunduğu bölge, mevsimsel değişimler ile şekillenir. Bu bölge, tarihi ve kültürel önemi ile dikkat çekiyor. Halet Efendi Türbesi, ziyaretçilerini cezbeden önemli bir noktadır.
+Halet Efendi Türbesi, çeşitli bitki türleri ile çevrilidir. Bu türbe, tarihi yapılar ve kültürel merkezler ile çevrilidir. Türbenin bulunduğu bölge, zengin fauna ile dikkat çekiyor. Bu bölge, tarihi ve kültürel önemi ile dikkat çekiyor. Halet Efendi Türbesi, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak kabul edilir. Türbenin bulunduğu bölge, mevsimsel değişimler ile şekillenir. Bu bölge, tarihi ve kültürel önemi ile dikkat çekiyor. Halet Efendi Türbesi, ziyaretçilerini cezbeden önemli bir noktadır.
 
 ## Ziyaret Bilgileri
 

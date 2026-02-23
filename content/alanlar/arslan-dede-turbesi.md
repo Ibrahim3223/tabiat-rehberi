@@ -1,7 +1,7 @@
 ---
 title: "Arslan Dede Türbesi"
 date: "2026-01-10T06:49:41.680Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale (ilçe)"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390762"
 
 # Arslan Dede Türbesi
 
-Arslan Dede Türbesi, Çanakkale ilinin merkezinde, İç Anadolu Bölgesi'nin sınırında yer alan tarihi ve doğal bir cennet. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici bir atmosfere davet ediyor. Arslan Dede Türbesi, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerine unutulmaz bir deneyim sunuyor. Bu mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Arslan Dede Türbesi, Çanakkale ilinin merkezinde, İç Anadolu Bölgesi'nin sınırında yer alan tarihi ve doğal bir cennet. Bu mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -53,4 +53,4 @@ Arslan Dede Türbesi'ni ziyaret etmek, ve doğal güzelliklerini keşfetmek iste
 - Bu türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Arslan Dede Türbesi, Çanakkale ilinin merkezinde yer almaktadır.
 - Türbenin tarihi geçmişi, yüzyıllar boyunca různých medeniyetlerin izlerini taşıyor.
-- Arslan Dede Türbesi, ziyaretçilerine unutulmaz bir deneyim sunmaya devam ediyor.
+

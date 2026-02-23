@@ -29,7 +29,7 @@ wikidata_id: "Q31385757"
 
 # Horos Tepesi
 
-Horos Tepesi, İç Anadolu Bölgesi'nin geniş ve verimli ovasının ortasında yükselen bir tepe olarak dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu tepe, bölgenin coğrafi özelliklerini gözlemlemek için ideal bir noktadır. Horos Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu bölge, doğa severler ve macera arayanlar için bir cennet olarak kabul edilebilir.
+Horos Tepesi, İç Anadolu Bölgesi'nin geniş ve verimli ovasının ortasında yükselen bir tepe olarak dikkat çekmektedir. Bu tepe, bölgenin coğrafi özelliklerini gözlemlemek için ideal bir noktadır. Horos Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu bölge, doğa severler ve macera arayanlar için bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 

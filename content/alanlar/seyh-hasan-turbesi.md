@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Hasan Türbesi"
 date: "2026-01-10T07:56:22.953Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ordu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391327"
 
 # Şeyh Hasan Türbesi
 
-Şeyh Hasan Türbesi, Karadeniz Bölgesi'nin Ordu ilinin Aybastı ilçesinde yer alan bir doğal ve tarihi alan olarak dikkat çekiyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Şeyh Hasan Türbesi, hem doğal güzellikleri hem de tarihi değerleri ile ziyaretçilerini bekliyor. Bu bölge, yerli ve yabancı turistler tarafından sıklıkla ziyaret ediliyor ve Karadeniz Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor.
+Şeyh Hasan Türbesi, Karadeniz Bölgesi'nin Ordu ilinin Aybastı ilçesinde yer alan bir doğal ve tarihi alan olarak dikkat çekiyor. Şeyh Hasan Türbesi, hem doğal güzellikleri hem de tarihi değerleri ile ziyaretçilerini bekliyor. Bu bölge, yerli ve yabancı turistler tarafından sıklıkla ziyaret ediliyor ve Karadeniz Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391327"
 
 ## Coğrafya
 
-Şeyh Hasan Türbesi, Aybastı ilçesinin merkezine yakın bir konumda yer alıyor ve Karadeniz Bölgesi'nin doğal güzelliklerini sunuyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Şeyh Hasan Türbesi'nin coğrafi konumu, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor ve doğa severler için bir cennet olarak kabul ediliyor. Şeyh Hasan Türbesi'nin etrafındaki dağlar, ormanlar ve nehirler, bu bölgenin doğal güzelliklerini tamamlıyor ve ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Şeyh Hasan Türbesi, Aybastı ilçesinin merkezine yakın bir konumda yer alıyor ve Karadeniz Bölgesi'nin doğal güzelliklerini sunuyor. Şeyh Hasan Türbesi'nin coğrafi konumu, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor ve doğa severler için bir cennet olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390400"
 
 # Yapılcan Tepe
 
-Yapılcan Tepe, Konya ilinin merkezine uzun bir mesafe uzaklıkta yer alan, tarihi ve doğal güzellikleri bir araya getiren bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Yapılcan Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve zengin fauna yapısıyla dikkat çekiyor. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Yapılcan Tepe, Konya ilinin merkezine uzun bir mesafe uzaklıkta yer alan, tarihi ve doğal güzellikleri bir araya getiren bir destinasyon. Yapılcan Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve zengin fauna yapısıyla dikkat çekiyor. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

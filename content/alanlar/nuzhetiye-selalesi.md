@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Nüzhetiye Şelalesi
 
-Nüzhetiye Şelalesi, Kocaeli'nin sakin ve huzurlu atmosferini deneyimlemek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Şelalenin quanhavalı sesi, ziyaretçilere doğanın kalp atışını dinleme fırsatı sunuyor. Bu doğal harika, görenleri büyülüyor ve huzur arayanlar için bir sığınak oluyor.
+Nüzhetiye Şelalesi, Kocaeli'nin sakin ve huzurlu atmosferini deneyimlemek isteyenler için ideal bir destinasyon. Şelalenin quanhavalı sesi, ziyaretçilere doğanın kalp atışını dinleme fırsatı sunuyor. Bu doğal harika, görenleri büyülüyor ve huzur arayanlar için bir sığınak oluyor.
 
 ## Tarihçe
 

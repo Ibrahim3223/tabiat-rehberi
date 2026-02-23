@@ -28,7 +28,7 @@ wikidata_id: "Q31389140"
 
 # Bedestan Tepesi
 
-Yalova'nın merkezinde yer alan Bedestan Tepesi, şehrin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Tepenin eteklerinde ve zirvesinde bulunan yürüyüş yolları, ziyaretçilere hem doğayı keşfetme hem de egzersiz yapma imkanı tanıyor. Bedestan Tepesi, özellikle şehir hayatının stresinden kaçmak isteyenler için bir sığınak görevi görüyor.
+Yalova'nın merkezinde yer alan Bedestan Tepesi, şehrin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin eteklerinde ve zirvesinde bulunan yürüyüş yolları, ziyaretçilere hem doğayı keşfetme hem de egzersiz yapma imkanı tanıyor. Bedestan Tepesi, özellikle şehir hayatının stresinden kaçmak isteyenler için bir sığınak görevi görüyor.
 
 ## Tarihçe
 

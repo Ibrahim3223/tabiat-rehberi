@@ -1,7 +1,7 @@
 ---
 title: "Hamidiye Çeşmesi, Yıldız"
 date: "2026-01-10T04:37:18.827Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131836087"
 
 # Hamidiye Çeşmesi, Yıldız
 
-Hamidiye Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir çeşme. Bu güzel çeşme, yaklaşık 140 hektarlık Yıldız Parkı içerisinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Yıldız Parkı, tarihi yapıları, yürüyüş yolları ve güzel manzaraları ile birlikte Hamidiye Çeşmesi, ziyaretçilerine keyifli bir gezi sunuyor. Çeşme, Marmara Bölgesi'nin en önemli turistik mekanlarından biri olarak kabul ediliyor.
+Hamidiye Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir çeşme. Bu güzel çeşme, yaklaşık 140 hektarlık Yıldız Parkı içerisinde yer alıyor. Yıldız Parkı, tarihi yapıları, yürüyüş yolları ve güzel manzaraları ile birlikte Hamidiye Çeşmesi, ziyaretçilerine keyifli bir gezi sunuyor. Çeşme, Marmara Bölgesi'nin en önemli turistik mekanlarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

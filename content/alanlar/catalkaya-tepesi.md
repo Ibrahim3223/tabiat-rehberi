@@ -28,7 +28,7 @@ wikidata_id: "Q34828579"
 
 # Çatalkaya Tepesi
 
-Çatalkaya Tepesi, Rize'nin muhteşem doğası içinde yer alan ve ziyaretçilerini etkisi altına alan bir noktadır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en dikkat çekici noktalarından biridir. Çatalkaya Tepesi, ziyaretçilerine hem doğal güzelliklerin keyfini çıkarmak hem de bölgenin tarihini ve kültürünü keşfetmek için mükemmel bir fırsat sunar. Burada, doğanın güzelliği ve bölgenin zengin tarihi bir araya gelir.
+Çatalkaya Tepesi, Rize'nin muhteşem doğası içinde yer alan ve ziyaretçilerini etkisi altına alan bir noktadır. Çatalkaya Tepesi, ziyaretçilerine hem doğal güzelliklerin keyfini çıkarmak hem de bölgenin tarihini ve kültürünü keşfetmek için mükemmel bir fırsat sunar. Burada, doğanın güzelliği ve bölgenin zengin tarihi bir araya gelir.
 
 ## Tarihçe
 

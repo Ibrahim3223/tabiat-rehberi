@@ -28,7 +28,7 @@ wikidata_id: "Q32138700"
 
 # Gözlük Tepe
 
-Gözlük Tepe, Konya'nın merkezinde yer alan ve şehrin sembollerinden biri haline gelen bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin dört bir yanından kolayca görülebiliyor. Gözlük Tepe'nin eteklerinde, historical yapılar ve tarihi eserler bulunuyor. Bu tepe, aynı zamanda şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta.
+Gözlük Tepe, Konya'nın merkezinde yer alan ve şehrin sembollerinden biri haline gelen bir tepe. Gözlük Tepe'nin eteklerinde, historical yapılar ve tarihi eserler bulunuyor. Bu tepe, aynı zamanda şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta.
 
 ## Tarihçe
 

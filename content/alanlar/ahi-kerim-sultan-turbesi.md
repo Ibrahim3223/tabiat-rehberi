@@ -1,7 +1,7 @@
 ---
 title: "Ahi Kerim Sultan Türbesi"
 date: "2026-01-10T07:53:32.721Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391338"
 
 # Ahi Kerim Sultan Türbesi
 
-Ahi Kerim Sultan Türbesi, Merzifon'un merkezinde bulunan ve tarihi geçmişi ile dikkat çeken bir turbe. Bu önemli kültür mirası, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve ziyaretçilerini tarihin sâu sayfalarına götürmeye hazır. Türbenin çevresinde, Merzifon'unhistorik yapıları ve doğal güzellikleri de bulunmakta. Tarihi ve kültürel zenginliği ile Ahi Kerim Sultan Türbesi, Merzifon'un önemli turistik noktalarından biri olarak karşımıza çıkıyor.
+Ahi Kerim Sultan Türbesi, Merzifon'un merkezinde bulunan ve tarihi geçmişi ile dikkat çeken bir turbe. Bu önemli kültür mirası, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve ziyaretçilerini tarihin derin sayfalarına götürmeye hazır. Türbenin çevresinde, Merzifon'unhistorik yapıları ve doğal güzellikleri de bulunmakta. Tarihi ve kültürel zenginliği ile Ahi Kerim Sultan Türbesi, Merzifon'un önemli turistik noktalarından biri olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

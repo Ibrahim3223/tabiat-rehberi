@@ -29,7 +29,7 @@ wikidata_id: "Q134728204"
 
 # Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe
 
-Kaya Mezarı 3, Tikenlice Mahallesi'nde bulunan bir plajdır. Gürgentepe'nin en güzel noktalarından biri olan bu plaj, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biridir. 140 hektarlık bir alana yayılan bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Kaya Mezarı 3, Gürgentepe'nin merkezine yakın bir konumda bulunmasıyla da dikkat çeker. Bu plaj, hem Gürgentepe'nin hem de Karadeniz Bölgesi'nin en önemli turizm noktalarından biridir.
+Kaya Mezarı 3, Tikenlice Mahallesi'nde bulunan bir plajdır. Gürgentepe'nin en güzel noktalarından biri olan bu plaj, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biridir. Kaya Mezarı 3, Gürgentepe'nin merkezine yakın bir konumda bulunmasıyla da dikkat çeker. Bu plaj, hem Gürgentepe'nin hem de Karadeniz Bölgesi'nin en önemli turizm noktalarından biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaya Mezarı 3'ün tarihi geçmişi hakkında detaylı bilgi bulunmamaktadır. A
 
 ## Coğrafya
 
-Kaya Mezarı 3, Karadeniz Bölgesi'nin Gürgentepe ilçesinde bulunmaktadır. Gürgentepe, Ordu ilinin bir ilçesi olarak bilinir. Bu plaj, Karadeniz kıyısında yer almaktadır. Kaya Mezarı 3'ün coğrafi konumu, bu plajı önemli bir turizm merkezi haline getirmiştir. Bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Kaya Mezarı 3'ün çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu plaj, Karadeniz Bölgesi'nin en güzel doğal alanlarından biridir.
+Kaya Mezarı 3, Karadeniz Bölgesi'nin Gürgentepe ilçesinde bulunmaktadır. Gürgentepe, Ordu ilinin bir ilçesi olarak bilinir. Bu plaj, Karadeniz kıyısında yer almaktadır. Kaya Mezarı 3'ün coğrafi konumu, bu plajı önemli bir turizm merkezi haline getirmiştir. Kaya Mezarı 3'ün çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu plaj, Karadeniz Bölgesi'nin en güzel doğal alanlarından biridir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Kaya Mezarı 3'ü ziyaret etmek için en iyi zaman, yaz aylarıdır. Bu plaj, G�
 
 - Kaya Mezarı 3, Gürgentepe'nin en güzel plajlarından biridir.
 - Bu plaj, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biridir.
-- Kaya Mezarı 3, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Bu plaj, Gürgentepe'nin turizm potansiyelini artıran önemli bir faktördür.
 - Kaya Mezarı 3'ün çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.

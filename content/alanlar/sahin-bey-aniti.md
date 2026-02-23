@@ -33,7 +33,7 @@ wikidata_id: "Q134728091"
 
 ## Tarihçe
 
-Şahin Bey Anıtı, tarihin sâu sayfalarında gizli bir hazine harika bir deneyim. Bu anıtın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin kültürel kimliğini yansıtıyor. Anıtın inşa edildiği tarih tam olarak bilinmese de, bölgenin tarihi geçmişi, anıtın önemini vurguluyor. Şahin Bey Anıtı, Gaziantep'in tarihinde önemli bir yere sahip ve ziyaretçilerine bu tarihi geçmişi yaşatmayı amaçlıyor. Anıtın etrafında bulunan tarihi yapılar, bölgenin kültürel zenginliğini ve tarihinin derinliğini gösteriyor. Şahin Bey Anıtı, ziyaretçilerine tarihin sayfalarını karıştırmak için bir fırsat sunuyor.
+Şahin Bey Anıtı, tarihin derin sayfalarında gizli bir hazine harika bir deneyim. Bu anıtın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin kültürel kimliğini yansıtıyor. Anıtın inşa edildiği tarih tam olarak bilinmese de, bölgenin tarihi geçmişi, anıtın önemini vurguluyor. Şahin Bey Anıtı, Gaziantep'in tarihinde önemli bir yere sahip ve ziyaretçilerine bu tarihi geçmişi yaşatmayı amaçlıyor. Anıtın etrafında bulunan tarihi yapılar, bölgenin kültürel zenginliğini ve tarihinin derinliğini gösteriyor. Şahin Bey Anıtı, ziyaretçilerine tarihin sayfalarını karıştırmak için bir fırsat sunuyor.
 
 ## Coğrafya
 

@@ -50,9 +50,9 @@ Komşu alanlar açısından, Manık Tepe, Batman Çayı'nın kuzeyinde yer alan 
 
 Manık Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İklimi, step ve ova ekolojisinin bir karışımı olarak karşımıza çıkıyor.
 
-Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Bu mevsimde, dağ keçileri ve yaban keçileri, yükseklik zonlarında bulunan alpin flora arasında dolaşıyor. Sonbaharda ise, göç eden kuşlar dağları bir geçiş noktası olarak kullanıyor. 
+Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Bu mevsimde, dağ keçileri ve yaban keçileri, yükseklik zonlarında bulunan alpin flora arasında dolaşıyor. Sonbaharda ise, göç eden kuşlar dağları bir geçiş noktası olarak kullanıyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Dağların yüksek kesimlerinde, dağ keçileri ve yaban keçileri, kayalık alanlarda yaşıyor. Kuşlar, göç yolları üzerinde önemli bir durak olarak hizmet ediyor. Sürüngenler, step ve ova ekolojisine adapte olmuş türlerle temsil ediliyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Dağların yüksek kesimlerinde, dağ keçileri ve yaban keçileri, kayalık alanlarda yaşıyor. Kuşlar, göç yolları üzerinde önemli bir durak olarak hizmet ediyor. Sürüngenler, step ve ova ekolojisine adapte olmuş türlerle temsil ediliyor.
 
 Ekolojik değer olarak, Manık Tepe'nin korunması, bölgenin biyolojik çeşitliliğinin korunması için çok önemli. Bu dağ ekosisteminin bozulması, yerel türlerin yok olmasına neden olabilir. Bu nedenle, Manık Tepe'nin korunması için sürdürülebilir koruma projeleri gerekiyor.
 

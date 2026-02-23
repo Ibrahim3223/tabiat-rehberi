@@ -32,7 +32,7 @@ Ankara'nın doğa harikalarını keşfetmek isteyenler için keyifli bir destina
 
 ## Tarihçe
 
-Kakma Tepeleri, Ankara'nın histórik zenginliğiçerisinde önemli bir doğal alan olarak öne çıkıyor. Ankara bölgesi, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Hitit, Frig, Roma ve Osmanlı gibi medeniyetler bu topraklarda iz bırakmışlardır. Bu bölgenin tarihsel önemi, sadece kültürel mirasın zenginliğiyle değil, aynı zamanda coğrafi konumuyla da ilgilidir. Stratejik konumu nedeniyle, ticaret yollarının kesişme noktasında yer alan Ankara, doğal alanlarıyla birlikte önemli bir geçiş noktası görevi görmüştür.
+Kakma Tepeleri, Ankara'nın tarihi zenginliğiçerisinde önemli bir doğal alan olarak öne çıkıyor. Ankara bölgesi, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Hitit, Frig, Roma ve Osmanlı gibi medeniyetler bu topraklarda iz bırakmışlardır. Bu bölgenin tarihsel önemi, sadece kültürel mirasın zenginliğiyle değil, aynı zamanda coğrafi konumuyla da ilgilidir. Stratejik konumu nedeniyle, ticaret yollarının kesişme noktasında yer alan Ankara, doğal alanlarıyla birlikte önemli bir geçiş noktası görevi görmüştür.
 
 Doğal güzellikleriyle dikkat çeken Kakma Tepeleri, bölgenin tarihi dokusu içerisinde önemli bir yer tutmaktadır. Türkiye'de, özellikle İç Anadolu Bölgesi'nde, bu tür doğal alanlar tarih boyunca insanların yaşamlarında önemli rol oynamıştır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu alanların insan yaşamıyla olan bağlantısını güçlendirmiştir. Ayrıca, ticaret yolları üzerinde bulunan bu doğal güzellikler, seyahat edenler için önemli mola noktaları olarak hizmet vermiştir. Kakma Tepeleri de, bu bağlamda, Ankara'nın tarihi ve kültürel zenginliğinin bir parçası olarak görülebilir.
 

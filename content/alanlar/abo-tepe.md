@@ -32,9 +32,9 @@ Güneydoğu Anadolu Bölgesi'nin gizli güzelliği, Batman'ın dağlık arazisin
 
 ## Tarihçe
 
-Batman bölgesinde yer alan Abo Tepe, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarihin farklı dönemlerinde various uygarlıkların yaşam alanı olmuş; Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetlerin izleri masih görülebiliyor. 
+Batman bölgesinde yer alan Abo Tepe, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarihin farklı dönemlerinde various uygarlıkların yaşam alanı olmuş; Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetlerin izleri masih görülebiliyor.
 
-Bu doğal alanlar, Türkiye'nin tarihsel dokusunun önemli bir parçasını oluşturuyor. İnsanların bu tür bölgelerle olan ilişkisi, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle şekillenmiş. Özellikle yüksek rakımlı alanlar, yaz aylarında yaylacılık için tercih edilen yerler olmuş. 
+Bu doğal alanlar, Türkiye'nin tarihsel dokusunun önemli bir parçasını oluşturuyor. İnsanların bu tür bölgelerle olan ilişkisi, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle şekillenmiş. Özellikle yüksek rakımlı alanlar, yaz aylarında yaylacılık için tercih edilen yerler olmuş.
 
 Abo Tepe'nin de bu bağlamda önemli bir yere sahip olduğu düşünülüyor. Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, burada yaşayan insanların kültürel ve ekonomik hayatlarını etkilemiş olmalı. Bu tür doğal alanların korunması, sadece çevre açısından değil, aynı zamanda tarihsel mirasın gelecek nesillere aktarılması açısından da büyük önem taşıyor.
 

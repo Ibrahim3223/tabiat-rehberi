@@ -49,7 +49,7 @@ Aydos Tepesi, çevresindeki ormanlık alanlar ve su kaynakları ile bir bütün 
 
 ## Flora ve Fauna
 
-Aydos Tepesi, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Step bitkileri, kuraklığa adapte olmuş türler, bu mevsimdelığını artırıyor. 
+Aydos Tepesi, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Step bitkileri, kuraklığa adapte olmuş türler, bu mevsimdelığını artırıyor.
 
 Yaban hayatı da oldukça zengin. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, bu bölgenin önemli sakinleri. Kuşlar ise sonbaharda göç ederken, dağların yükseklik zonlarında yuvalanıyor. Sürüngenler de, step ortamının karakteristik türleri olarak görülebiliyor.
 

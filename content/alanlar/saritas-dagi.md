@@ -32,7 +32,7 @@ Amasya'nın tarihi ve kültürel zenginliklerinin arasında yer alan Sarıtaş D
 
 ## Tarihçe
 
-Amasya bölgesi, tarihin sâu sayfalarında yer alan bir bölge olarak, çeşitli uygarlıkların izlerini taşıyor. Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüş ve bölgenin kültürel dokusuna şekil vermişlerdir. Sarıtaş Dağı da, bu tarihsel zenginlik içinde yer alan bir doğal alan olarak, bölgenin coğrafi ve kültürel kimliğine katkıda bulunmuştur.
+Amasya bölgesi, tarihin derin sayfalarında yer alan bir bölge olarak, çeşitli uygarlıkların izlerini taşıyor. Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüş ve bölgenin kültürel dokusuna şekil vermişlerdir. Sarıtaş Dağı da, bu tarihsel zenginlik içinde yer alan bir doğal alan olarak, bölgenin coğrafi ve kültürel kimliğine katkıda bulunmuştur.
 
 Türkiye'de, Sarıtaş Dağı gibi doğal alanlar, insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde yer almıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu alanların etrafında şekillenmiştir. İnsanlar, bu doğal alanları kullanarak, yaşamın temel ihtiyaçlarını karşılamış ve bölgenin ekonomik gelişimine katkıda bulunmuşlardır. Sarıtaş Dağı, bu bağlamda, Amasya bölgesinin tarihsel ve kültürel mirasının bir parçası olarak, bölgenin doğal güzelliğini ve ekonomik potansiyelini yansıtmaktadır.
 

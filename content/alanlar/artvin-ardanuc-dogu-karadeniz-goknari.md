@@ -22,7 +22,7 @@ wikidata_id: "Q108227583"
 
 # Artvin-Ardanuc-Dogu Karadeniz Goknari
 
-Artvin-Ardanuc-Doğu Karadeniz Gökneri milli parkı, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor. Bu bölge, Karadeniz Bölgesi'nin en önemli doğal ve tarihi zenginliklerinden birini oluşturuyor. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla ziyaretçilerini etkileyen bir destinasyon olarak ön plana çıkıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir doğa deneyimi sunuyor.
+ Bu bölge, Karadeniz Bölgesi'nin en önemli doğal ve tarihi zenginliklerinden birini oluşturuyor. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla ziyaretçilerini etkileyen bir destinasyon olarak ön plana çıkıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir doğa deneyimi sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Artvin-Ardanuc-Doğu Karadeniz Gökneri milli parkının tarihi geçmişi, yüzy
 
 ## Coğrafya
 
-Artvin-Ardanuc-Doğu Karadeniz Gökneri milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından birini oluşturuyor. Park, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor. Bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler gibi çeşitli doğal unsurlardan oluşuyor. İklim, Karadeniz ikliminin özelliklerini taşıyor ve bu, bölgenin flora ve faunası üzerinde önemli bir etkiye sahip. Parkın coğrafi konumu, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı sunuyor. Burada, doğa yürüyüşleri, fotoğrafçılık ve doğa gibi aktiviteler, ziyaretçilerin doğal güzelliklerle iç içe olmasını sağlıyor.
+Artvin-Ardanuc-Doğu Karadeniz Gökneri milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından birini oluşturuyor. Bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler gibi çeşitli doğal unsurlardan oluşuyor. İklim, Karadeniz ikliminin özelliklerini taşıyor ve bu, bölgenin flora ve faunası üzerinde önemli bir etkiye sahip. Parkın coğrafi konumu, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı sunuyor. Burada, doğa yürüyüşleri, fotoğrafçılık ve doğa gibi aktiviteler, ziyaretçilerin doğal güzelliklerle iç içe olmasını sağlıyor.
 
 ## Flora ve Fauna
 

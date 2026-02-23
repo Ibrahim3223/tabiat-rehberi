@@ -48,7 +48,7 @@ Mevsimsel özellikler açısından bakıldığında, Boyacıdüzü Tepe'nin ikli
 
 ## Flora ve Fauna
 
-Diyarbakır'ın göbeğinde yer alan Boyacıdüzü Tepe, yarı kurak iklimin hakim olduğu bir dağ ekosistemini barındırır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Diyarbakır'ın göbeğinde yer alan Boyacıdüzü Tepe, yarı kurak iklimin hakim olduğu bir dağ ekosistemini barındırır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne baktığımızda, ilkbahar aylarında çiçeklerin renk cümbüşü ile karşılaşıyoruz. Step ve ova ekolojisinin birleştiği bu noktada, yükseklik zonlarına özgü alpin flora çeşitliliği dikkat çekiyor. Sonbaharın gelmesiyle birlikte, göçmen kuşlar bu bölgeyi ziyaret ediyor ve ekosistemin dinamiklerini değiştiriyorlar.
 

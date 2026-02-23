@@ -28,7 +28,7 @@ wikidata_id: "Q31536790"
 
 # Koirt Tepesi
 
-Koirt Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde yer alan ve doğal güzellikleri ile tarihi geçmişiyle dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve tepe, çevredeki diğer tepelerden daha yüksek. Koirt Tepesi, ziyaretçilerini etkileyen bir manzaraya sahip ve ziyaretçiler, tepeye tırmanırken çevredeki doğal güzellikleri keşfedebilir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
+Koirt Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde yer alan ve doğal güzellikleri ile tarihi geçmişiyle dikkat çeken bir tepe. Koirt Tepesi, ziyaretçilerini etkileyen bir manzaraya sahip ve ziyaretçiler, tepeye tırmanırken çevredeki doğal güzellikleri keşfedebilir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

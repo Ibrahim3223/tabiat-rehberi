@@ -29,7 +29,7 @@ wikidata_id: "Q63372537"
 
 # Bakırcılar Çarşısı
 
-Diyarbakır'ın kalbinde yer alan Bakırcılar Çarşısı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplar. Bu tarihi çarşı, şehrin kültürel mirasının önemli bir parçasıdır. Bölge, tarihi eserlerle dolu ve ziyaretçilere Diyarbakır'ın zengin geçmişini göstermektedir. Çarşıda, çeşitli el sanatları ürünlerini ve yerel lezzetleri bulma mümkündür. Bakırcılar Çarşısı, hem yerel halk hem de ziyaretçiler için önemli bir merkezdir.
+ Bu tarihi çarşı, şehrin kültürel mirasının önemli bir parçasıdır. Bölge, tarihi eserlerle dolu ve ziyaretçilere Diyarbakır'ın zengin geçmişini göstermektedir. Çarşıda, çeşitli el sanatları ürünlerini ve yerel lezzetleri bulma mümkündür. Bakırcılar Çarşısı, hem yerel halk hem de ziyaretçiler için önemli bir merkezdir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bakırcılar Çarşısı'nın tarihi geçmişi, Diyarbakır'ın tarihiyle iç i�
 
 ## Coğrafya
 
-Bakırcılar Çarşısı, Diyarbakır'ın merkezinde yer alır ve şehrin önemli bir bölümünü kaplar. Çarşı, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, tarihi yapılar ve el sanatları dükkanlarıyla dolu olup, ziyaretçilere Diyarbakır'ın kültürel zenginliğini göstermektedir. Çarşının coğrafi konumu, şehrin ticaret ve kültürel faaliyetlerinin merkezi olarak hizmet vermesini sağlamıştır. Diyarbakır'ın iklimi, çarşının faaliyetlerini etkilemektedir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim özellikleri gösterir. Bu iklim özellikleri, çarşıda bulunan ürünlerin çeşitliliğini etkiler.
+Bakırcılar Çarşısı, Diyarbakır'ın merkezinde yer alır ve şehrin önemli bir bölümünü kaplar. Bölge, tarihi yapılar ve el sanatları dükkanlarıyla dolu olup, ziyaretçilere Diyarbakır'ın kültürel zenginliğini göstermektedir. Çarşının coğrafi konumu, şehrin ticaret ve kültürel faaliyetlerinin merkezi olarak hizmet vermesini sağlamıştır. Diyarbakır'ın iklimi, çarşının faaliyetlerini etkilemektedir. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklim özellikleri gösterir. Bu iklim özellikleri, çarşıda bulunan ürünlerin çeşitliliğini etkiler.
 
 ## Flora ve Fauna
 

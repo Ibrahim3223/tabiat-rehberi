@@ -29,7 +29,7 @@ wikidata_id: "Q31571901"
 
 # Akılbaba Tepesi
 
-Giresun'un eşsiz doğal güzelliklerinden biri olan Akılbaba Tepesi, yerli ve yabancı turistlerin ilgisini çeken önemli bir gezi noktasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Doğal güzelliği ve zengin ekosistemiyle dikkat çeken Akılbaba Tepesi, yürüyüş severlerin ve doğa tutkunlarının keyif alacağı bir destinasyon olarak ön plana çıkıyor.
+Giresun'un eşsiz doğal güzelliklerinden biri olan Akılbaba Tepesi, yerli ve yabancı turistlerin ilgisini çeken önemli bir gezi noktasıdır. Doğal güzelliği ve zengin ekosistemiyle dikkat çeken Akılbaba Tepesi, yürüyüş severlerin ve doğa tutkunlarının keyif alacağı bir destinasyon olarak ön plana çıkıyor.
 
 ## Tarihçe
 

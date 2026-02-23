@@ -32,7 +32,7 @@ Mersin'in doğal güzelliklerinin arasında bulunan Küllüce İni, jeolojik aç
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Binlerce yıl önce, Hitit, Pers ve Roma uygarlıkları bu topraklarda hüküm sürmüşlerdir. Küllüce İni gibi doğal alanlar, bu medeniyetlerin ticaret yolları ve yerleşim merkezleri arasında önemli birer durak olarak görev yapmıştır.
+Mersin bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Binlerce yıl önce, Hitit, Pers ve Roma uygarlıkları bu topraklarda hüküm sürmüşlerdir. Küllüce İni gibi doğal alanlar, bu medeniyetlerin ticaret yolları ve yerleşim merkezleri arasında önemli birer durak olarak görev yapmıştır.
 
 Türkiye'de, bu tür doğal oluşumlar tarihsel önemi bakımından oldukça değerlidir. İnsanlar, yüzyıllar boyunca bu alanları yaylacılık, hayvancılık ve avcılık için kullanmışlardır. Ayrıca, tarihi İpek Yolu gibi önemli ticaret yolları da bu bölgelerden geçmektedir. Mersin bölgesinin coğrafi konumu, Akdeniz'in önemli bir kavşak noktası olarak bu tür doğal alanların önemini arttırmıştır.
 

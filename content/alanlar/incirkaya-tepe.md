@@ -28,7 +28,7 @@ wikidata_id: "Q31389430"
 
 # İncirkaya Tepe
 
-İncirkaya Tepe, Osmaniye'nin güzide bir bölgesinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olan bir tepe olarak dikkat çekmektedir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte oldukça geniş bir alanı kaplamaktadır. İncirkaya Tepe, ziyaretçilerini a güzelliği ve tarihi geçmişi ile karşılamaktadır. Bu tepe, bölgenin coğrafi yapısını ve florasını gözlemlemek için ideal bir noktadır.
+İncirkaya Tepe, Osmaniye'nin güzide bir bölgesinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olan bir tepe olarak dikkat çekmektedir. İncirkaya Tepe, ziyaretçilerini a güzelliği ve tarihi geçmişi ile karşılamaktadır. Bu tepe, bölgenin coğrafi yapısını ve florasını gözlemlemek için ideal bir noktadır.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ wikidata_id: "Q31389430"
 
 ## Flora ve Fauna
 
-İncirkaya Tepe, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi desteklemektedir. Bu tepe, bölgenin florasını ve faunasını gözlemlemek için ideal bir noktadır. İncirkaya Tepe'nin etrafında ve üzerinde, çeşitli ağaç türleri, çalılar ve otlar bulunmakta olup, bu tepeyi ziyaret edenler, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini keşfedebilirler. İncirkaya Tepe, mevsimsel değişimlere bağlı olarak, çeşitli hayvan türleri tarafından ziyaret edilmektedir. Bu tepe, bölgenin ekolojik dengesini korumak açısından önemli bir role sahiptir.
+İncirkaya Tepe, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi desteklemektedir. Bu tepe, bölgenin florasını ve faunasını gözlemlemek için ideal bir noktadır. İncirkaya Tepe'nin etrafında ve üzerinde, çeşitli ağaç türleri, çalılar ve otlar bulunmakta olup, bu tepeyi ziyaret edenler, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini keşfedebilirler. İncirkaya Tepe, mevsimsel değişimlere bağlı olarak, çeşitli hayvan türleri tarafından ziyaret edilmektedir.
 
 ## Ziyaret Bilgileri
 
@@ -51,5 +51,5 @@ wikidata_id: "Q31389430"
 - İncirkaya Tepe, Osmaniye'nin en yüksek noktalarından biridir.
 - Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çekmektedir.
 - İncirkaya Tepe, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosistemi desteklemektedir.
-- Bu tepe, bölgenin ekolojik dengesini korumak açısından önemli bir role sahiptir.
+
 - İncirkaya Tepe, ziyaretçilerini doğal güzelliği ve tarihi geçmişi ile karşılamaktadır.

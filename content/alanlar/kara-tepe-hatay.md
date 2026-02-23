@@ -53,7 +53,7 @@ Kara Tepe, Hatay'da yer alan bir dağ ekosistemi olarak, zengin bir bitki örtü
 
 Yaban hayatı da bir o kadar çeşitli; dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, bölgenin yükseklik zonlarında yaşamlarını sürdürür. Kuşlar, özellikle göç mevsiminde, bu dağ ekosisteminde önemli bir rol oynar. Sürüngenler de, bu bölgenin kaya ve taşlık alanlarında yaşamlarını sürdürür.
 
-Kara Tepe'nin ekolojik değeri, yükseklik zonları ve alpin flora türleri nedeniyle önemlidir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini korumak açısından büyük önem taşır. Koruma durumu, bölgeye ait yasal düzenlemeler ve koruma çalışmaları ile sağlanır.
+Kara Tepe'nin ekolojik değeri, yükseklik zonları ve alpin flora türleri nedeniyle önemlidir. Koruma durumu, bölgeye ait yasal düzenlemeler ve koruma çalışmaları ile sağlanır.
 
 ## Ziyaret Bilgileri
 

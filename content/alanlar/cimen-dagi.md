@@ -51,7 +51,7 @@ Mevsimsel açıdan, Çimen Dağı'nın iklim karakteri Türkiye'nin genel iklimi
 
 ## Flora ve Fauna
 
-Çimen Dağı, yükseklik zonları ile çeşitli flora ve fauna türlerine ev sahipliği yapan bir dağ ekosistemi sunar. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türlerDominant türler, ilkbaharda renkli çiçeklerle bezenirken, sonbaharda ise göç eden kuşlar bu bölgeyi ziyaret eder. 
+Çimen Dağı, yükseklik zonları ile çeşitli flora ve fauna türlerine ev sahipliği yapan bir dağ ekosistemi sunar. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türlerDominant türler, ilkbaharda renkli çiçeklerle bezenirken, sonbaharda ise göç eden kuşlar bu bölgeyi ziyaret eder.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Yüksek rakımlarda, dağ keçileri ve yaban keçileri yaşam alanlarını bulurken, alçak kesimlerde ise küçük memeliler ve sürüngenler bulunur. Kuşlar, bölgenin ekolojik dengesinde önemli bir rol oynar, bazı türler burada yuva yaparırken, diğerleri göç ederken bu alanı ziyaret eder.
 

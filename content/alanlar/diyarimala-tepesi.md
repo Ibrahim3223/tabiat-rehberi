@@ -28,7 +28,7 @@ wikidata_id: "Q31550802"
 
 # Diyarımala Tepesi
 
-Mardin'in tarihi ve coğrafi güzellikleri ile çevrili Diyarımala Tepesi, ziyaretçilerini bekliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakın bir konumda yer alıyor. Bu tepe, Mardin'in tarihi geçmişi ve coğrafi özellikleri ile ilgili önemli bilgiler sunuyor. Diyarımala Tepesi, Mardin şehir merkezine uzun bir mesafe uzaklıkta bulunuyor ve şehrin dört bir yanını panoramik olarak görme imkanı sunuyor. Burada, Mardin'in tarihi ve kültürel zenginliklerini keşfetme mümkündür. Ziyaretçiler, bu güzel tepeye tırmanarak, şehrin tarihi ve coğrafi güzelliklerini yakından inceleyebilirler.
+Mardin'in tarihi ve coğrafi güzellikleri ile çevrili Diyarımala Tepesi, ziyaretçilerini bekliyor. Bu tepe, Mardin'in tarihi geçmişi ve coğrafi özellikleri ile ilgili önemli bilgiler sunuyor. Diyarımala Tepesi, Mardin şehir merkezine uzun bir mesafe uzaklıkta bulunuyor ve şehrin dört bir yanını panoramik olarak görme imkanı sunuyor. Burada, Mardin'in tarihi ve kültürel zenginliklerini keşfetme mümkündür. Ziyaretçiler, bu güzel tepeye tırmanarak, şehrin tarihi ve coğrafi güzelliklerini yakından inceleyebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Diyarımala Tepesi, Mardin'in tarihi geçmişi ile ilgili önemli bilgiler sunuy
 
 ## Coğrafya
 
-Diyarımala Tepesi, Mardin'in coğrafi güzellikleri ile çevrili bir tepe. Bu tepe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Diyarımala Tepesi, Mardin şehir merkezine uzun bir mesafe uzaklıkta bulunuyor ve şehrin dört bir yanını panoramik olarak görme imkanı sunuyor. Tepenin coğrafi konumu, ziyaretçiler için önemli bir avantaj sunuyor. Burada, Mardin'in coğrafi güzelliklerini keşfetme mümkündür. Diyarımala Tepesi, Mardin'in tarihi ve coğrafi güzelliklerini bir araya getiren bir destinasyon olarak kabul ediliyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Diyarımala Tepesi, Mardin'in coğrafi güzellikleri ile çevrili bir tepe. Diyarımala Tepesi, Mardin şehir merkezine uzun bir mesafe uzaklıkta bulunuyor ve şehrin dört bir yanını panoramik olarak görme imkanı sunuyor. Tepenin coğrafi konumu, ziyaretçiler için önemli bir avantaj sunuyor. Burada, Mardin'in coğrafi güzelliklerini keşfetme mümkündür. Diyarımala Tepesi, Mardin'in tarihi ve coğrafi güzelliklerini bir araya getiren bir destinasyon olarak kabul ediliyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Flora ve Fauna
 

@@ -35,7 +35,7 @@ Türkiye'de doğal alanlar, tarihsel açıdan önemli bir yere sahiptir. Bu tür
 
 ## Coğrafya
 
-Mount Ida, Türkiye'nin kuzeybatı ucunda, Çanakkale ilinin sınırları içinde yer alan bir dağdır. Bu dağ, Çanakkale Boğazı'nın hemen güneyinde, Ege Denizi'ne bakan bir konumda bulunmaktadır. Mount Ida, aynı zamanda Truva Antik Kenti'nin de yakınında yer alır, tarihin sâu izlerini taşıyan bir bölgede bulunmaktadır.
+Mount Ida, Türkiye'nin kuzeybatı ucunda, Çanakkale ilinin sınırları içinde yer alan bir dağdır. Bu dağ, Çanakkale Boğazı'nın hemen güneyinde, Ege Denizi'ne bakan bir konumda bulunmaktadır. Mount Ida, aynı zamanda Truva Antik Kenti'nin de yakınında yer alır, tarihin derin izlerini taşıyan bir bölgede bulunmaktadır.
 
 Doğal güzellikleri ve jeolojik yapısı ile dikkat çeken Mount Ida, 1774 metre yüksekliği ile bölgenin önemli bir coğrafi özelliğidir. Eiffel Kulesi'nin yaklaşık 6 katı yükseklikte olan bu dağ, çevresindeki diğer dağlardan daha yüksek bir konumda bulunmaktadır. Mount Ida, 1200 hektarlık bir alanı kaplamaktadır, bu da İstanbul'un Adalar ilçesi büyüklüğüne eşdeğerdir.
 

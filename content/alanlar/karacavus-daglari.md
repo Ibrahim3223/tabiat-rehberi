@@ -48,7 +48,7 @@ Jeolojik açıdan incelendiğinde, Karaçavuş Dağları'nın fiziksel yapısı,
 
 ## Flora ve Fauna
 
-Karaçavuş Dağları, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İncelemeye başladığımızda, ilkbaharın renkli çiçekleri ve yazın kuraklığa adapte olmuş bitkilerle karşılaşırız. Yükseklik zonlarına çıktıkça, alpin flora çeşitliliği artar. 
+Karaçavuş Dağları, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İncelemeye başladığımızda, ilkbaharın renkli çiçekleri ve yazın kuraklığa adapte olmuş bitkilerle karşılaşırız. Yükseklik zonlarına çıktıkça, alpin flora çeşitliliği artar.
 
 Dağların yaban hayatı zengin ve çeşitli olup, memeliler ve kuşlar bu ekosistemin önemli parçalarıdır. Göç eden kuşlar sonbaharda dağları ziyaret ederken, bazı memeliler dağların yüksek kesimlerinde yaşamayı tercih eder. Sürüngenler de dağların kurak bölgelerinde yaşamlarını sürdürür.
 

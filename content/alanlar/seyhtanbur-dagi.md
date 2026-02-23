@@ -32,9 +32,9 @@ Diyarbakır'ın tarihi dokusuyla çevrili coğrafyasında yer alanŞeyhtanbur Da
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu sayfalarına ışık tutan bir coğrafyadır. Binlerce yıllık geçmişinde, Hitit, Asur, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, zengin bir kültürel mirasa sahiptir. Şeyhtanbur Dağı da bu tarihsel bağlamın bir parçasıdır.
+Diyarbakır bölgesi, tarihin derin sayfalarına ışık tutan bir coğrafyadır. Binlerce yıllık geçmişinde, Hitit, Asur, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, zengin bir kültürel mirasa sahiptir. Şeyhtanbur Dağı da bu tarihsel bağlamın bir parçasıdır.
 
-Türkiye'de doğal alanlar, tarih boyunca insanların yaşamsal faaliyetleri için önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve tarım, bu bölgelerin ekonomi ve sosyal yapısını şekillendiren temel faaliyetlerdir. Ayrıca, histórik ticaret yollarının geçtiği bu coğrafya, çeşitli kültürlerin etkileşimine de tanıklık etmiştir.
+Türkiye'de doğal alanlar, tarih boyunca insanların yaşamsal faaliyetleri için önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve tarım, bu bölgelerin ekonomi ve sosyal yapısını şekillendiren temel faaliyetlerdir. Ayrıca, tarihi ticaret yollarının geçtiği bu coğrafya, çeşitli kültürlerin etkileşimine de tanıklık etmiştir.
 
 İnsanların Şeyhtanbur Dağı ile ilişkisi, bölgenin coğrafi konumu ve doğal kaynakları ile şekillenmiştir. Dağın eteklerinde ve etrafındaki ovalarda, insanların yerleşimi ve tarım faaliyetleri, binlerce yıl boyunca sürmüştür. Bu doğal alan, aynı zamanda, bölgenin ekolojik dengesini korumak için önemli bir görev üstlenmektedir. Şeyhtanbur Dağı, Diyarbakır bölgesinin tarihini, kültürünü ve doğal güzelliklerini bir araya getiren bir destinasyondur.
 

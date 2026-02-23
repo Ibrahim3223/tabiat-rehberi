@@ -29,7 +29,7 @@ wikidata_id: "Q32211239"
 
 # Kırlangıç Tepesi
 
-Kırlangıç Tepesi, Türkiye'nin İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli turizm noktalarından biri. Tepenin eteklerinde yer alan köyler, yerel kültürün zenginliğini gözler önüne sererken, tepe üzerindeki tarihi kalıntılar ise ziyaretçilere geçmişin kapılarını aralıyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Kırlangıç Tepesi, Türkiye'nin İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Tepenin eteklerinde yer alan köyler, yerel kültürün zenginliğini gözler önüne sererken, tepe üzerindeki tarihi kalıntılar ise ziyaretçilere geçmişin kapılarını aralıyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 

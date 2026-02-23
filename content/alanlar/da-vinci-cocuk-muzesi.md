@@ -1,7 +1,7 @@
 ---
 title: "Da Vinci Çocuk Müzesi"
 date: "2026-01-10T15:13:58.667Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950164"
 
 # Da Vinci Çocuk Müzesi
 
-Da Vinci Çocuk Müzesi, Ankara'nın kalbinde, çocukların bilim ve sanatla buluştuğu 140 hektarlık yeşil bir alan olarak dikkat çekiyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve çocukların hayal güçlerinin sınırsızca gelişebileceği bir ortam sunuyor. Müzenin tasarımı, çocukların farklı disiplinleri keşfetmelerine olanak tanır ve burada bilim, sanat, teknoloji ve mühendislik gibi çeşitli alanlar bir araya gelir. Çocukların eğitim ve eğlenceyi bir arada deneyimlemeleri için tasarlanan bu mekan, ailelerin çocuklarıyla birlikte keyifli zaman geçirmeleri için ideal bir destinasyon.
+Da Vinci Çocuk Müzesi, Ankara'nın kalbinde, çocukların bilim ve sanatla buluştuğu 140 hektarlık yeşil bir alan olarak dikkat çekiyor. Müzenin tasarımı, çocukların farklı disiplinleri keşfetmelerine olanak tanır ve burada bilim, sanat, teknoloji ve mühendislik gibi çeşitli alanlar bir araya gelir. Çocukların eğitim ve eğlenceyi bir arada deneyimlemeleri için tasarlanan bu mekan, ailelerin çocuklarıyla birlikte keyifli zaman geçirmeleri için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228492"
 
 # Kahramanmaras-Kahramanmaras-Hartlap Kayacik
 
-Hartlap Kayacik, İç Anadolu Bölgesi'nin doğal güzelliklerine ev sahipliği yapan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu doğal alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yerdir. Hartlap Kayacik, Kahramanmaras'ın güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Hartlap Kayacik, İç Anadolu Bölgesi'nin doğal güzelliklerine ev sahipliği yapan bir milli parktır. Bu doğal alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yerdir. Hartlap Kayacik, Kahramanmaras'ın güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Hartlap Kayacik'i ziyaret etmek, doğa severler için önemli bir deneyimi sunma
 ## İlginç Bilgiler
 
 - Hartlap Kayacik, İç Anadolu Bölgesi'nin doğal güzelliklerine ev sahipliği yapan bir milli parktır.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Hartlap Kayacik, doğa severlerin ziyaret ettiği önemli bir destinasyondur.
 - Bu milli park, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunmaktadır.

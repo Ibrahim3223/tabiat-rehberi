@@ -1,7 +1,7 @@
 ---
 title: "Zafer Müzesi"
 date: "2026-01-10T15:21:19.699Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Afyonkarahisar"
@@ -30,7 +30,7 @@ wikidata_id: "Q20987701"
 
 # Zafer Müzesi
 
-Afyonkarahisar'ın merkezinde yer alan Zafer Müzesi, 140 hektarlık bir alan üzerinde kurulmuş, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu müzeyi ziyaret etmek, tarihe yolculuk yapmanın yanı sıra, bölgenin kültürel ve tarihi zenginliklerini keşfetmenin de bir yolu. Zafer Müzesi, tarih meraklıları ve gezginler için önemli bir destinasyon olarak karşımıza çıkıyor. Müzenin geniş koleksiyonu, ziyaretçilerin tarihle yüzleşerek, geçmişin izlerini sürmelerine olanak tanıyor.
+ Bu müzeyi ziyaret etmek, tarihe yolculuk yapmanın yanı sıra, bölgenin kültürel ve tarihi zenginliklerini keşfetmenin de bir yolu. Zafer Müzesi, tarih meraklıları ve gezginler için önemli bir destinasyon olarak karşımıza çıkıyor. Müzenin geniş koleksiyonu, ziyaretçilerin tarihle yüzleşerek, geçmişin izlerini sürmelerine olanak tanıyor.
 
 ## Tarihçe
 

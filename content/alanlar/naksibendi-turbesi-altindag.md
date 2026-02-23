@@ -1,7 +1,7 @@
 ---
 title: "Nakşibendi Türbesi, Altındağ"
 date: "2026-01-10T05:36:58.411Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582346"
 
 # Nakşibendi Türbesi, Altındağ
 
-Nakşibendi Türbesi, Ankara'nın Altındağ ilçesinde bulunan önemli bir dini merkez. Bu tarihi türbe, Ankara'nın zengin kültürel mirasının bir parçası. 140 hektarlık bir alan üzerinde yer alan Nakşibendi Türbesi, yaklaşık 200 futbol sahası büyüklüğünde. Türbenin etrafında çeşitli bitkiler ve ağaçlar bulunur. Nakşibendi Türbesi, hem dini hem de kültürel açıdan önemli bir yer.
+Nakşibendi Türbesi, Ankara'nın Altındağ ilçesinde bulunan önemli bir dini merkez. Bu tarihi türbe, Ankara'nın zengin kültürel mirasının bir parçası. Türbenin etrafında çeşitli bitkiler ve ağaçlar bulunur. Nakşibendi Türbesi, hem dini hem de kültürel açıdan önemli bir yer.
 
 ## Tarihçe
 

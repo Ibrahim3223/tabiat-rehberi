@@ -28,7 +28,7 @@ wikidata_id: "Q31386316"
 
 # Kepirtarla Tepesi
 
-Kepirtarla Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan bir doğa harikasıdır. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kepirtarla Tepesi, ziyaretçilerine doğanın güzelliklerini sunan bir destinasyondur. Tepenin etrafı, çeşitli bitki türleriyle çevrilidir ve ziyaretçiler, buradaki zengin fauna ile karşılaşabilirler. Kepirtarla Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olabilir.
+Kepirtarla Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan bir doğa harikasıdır. Kepirtarla Tepesi, ziyaretçilerine doğanın güzelliklerini sunan bir destinasyondur. Tepenin etrafı, çeşitli bitki türleriyle çevrilidir ve ziyaretçiler, buradaki zengin fauna ile karşılaşabilirler. Kepirtarla Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olabilir.
 
 ## Tarihçe
 

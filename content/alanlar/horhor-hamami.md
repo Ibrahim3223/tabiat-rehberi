@@ -1,7 +1,7 @@
 ---
 title: "Horhor Hamamı"
 date: "2026-01-09T22:46:20.405Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738580"
 
 # Horhor Hamamı
 
-Horhor Hamamı, İstanbul'un tarihi dokusu içerisinde yer alan önemli bir yapıdır. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin turizm değerleri arasında sayılır. 140 hektarın üzerinde bir alan kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Horhor Hamamı, tarihi geçmişi ve mimari özellikleri ile dikkat çekici bir gezi noktasıdır.
+Horhor Hamamı, İstanbul'un tarihi dokusu içerisinde yer alan önemli bir yapıdır. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin turizm değerleri arasında sayılır. Horhor Hamamı, tarihi geçmişi ve mimari özellikleri ile dikkat çekici bir gezi noktasıdır.
 
 ## Tarihçe
 

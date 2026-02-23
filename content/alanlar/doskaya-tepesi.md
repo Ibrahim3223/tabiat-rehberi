@@ -52,7 +52,7 @@ Döşkaya Tepesi, step bitki örtüsünün hakim olduğu bir dağ ekosistemi ola
 
 Bu dağ ekosisteminde, yaban hayatı da oldukça zengin. Memeliler, dağların yüksek zonlarında yaşarken, kuşlar ve sürüngenler de bu alanın önemli bileşenlerini oluşturur. Dağ keçileri, yükseklik zonlarında ederken, kartallar ve şahinler de bu alanın semalarında uçarlar. Sürüngenler, step bitkileri arasında gizlenerek, avlarını beklerler.
 
-Döşkaya Tepesi, ekolojik olarak önemli bir alandır. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini bảo vệ etmek için önemlidir. Yükseklik zonları, alpin flora ve dağ hayvanları, bu alanın benzersiz özelliklerini oluşturur.
+Döşkaya Tepesi, ekolojik olarak önemli bir alandır. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini koruma vệ etmek için önemlidir. Yükseklik zonları, alpin flora ve dağ hayvanları, bu alanın benzersiz özelliklerini oluşturur.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34888383"
 
 # Oğulluarkaç Tepesi
 
-Oğulluarkaç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Oğulluarkaç Tepesi, Ankara'nın merkezi bir noktasında yükselen bir tepe olarak dikkat çekiyor. Bu tepe, doğa severlerin ve gezi meraklılarının ilgisini çekiyor. Oğulluarkaç Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor.
+Oğulluarkaç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Oğulluarkaç Tepesi, Ankara'nın merkezi bir noktasında yükselen bir tepe olarak dikkat çekiyor. Bu tepe, doğa severlerin ve gezi meraklılarının ilgisini çekiyor. Oğulluarkaç Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor.
 
 ## Tarihçe
 

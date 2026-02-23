@@ -32,11 +32,11 @@ Erzincan'ın dağlık coğrafyasında gizlenen "Biçare Dağı", ziyaretçilerin
 
 ## Tarihçe
 
-Erzincan bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşam alanı olmuştur. Bu bölge, históriki İpek Yolu'nun önemli bir bölümünü oluşturmuş ve ticaretin canlı olduğu bir merkez olarak bilinir. Erzincan, Hitit, Roma ve Selçuklu gibi medeniyetlerin izlerini taşıyan zengin bir tarihi geçmişe sahiptir.
+Erzincan bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşam alanı olmuştur. Bu bölge, tarihi İpek Yolu'nun önemli bir bölümünü oluşturmuş ve ticaretin canlı olduğu bir merkez olarak bilinir. Erzincan, Hitit, Roma ve Selçuklu gibi medeniyetlerin izlerini taşıyan zengin bir tarihi geçmişe sahiptir.
 
 Doğal güzellikleri ve stratejik konumuyla, Erzincan ve çevresindeki dağlar, yaylacılık ve hayvancılığın önemli merkezleri olarakhistorik dönemde de büyük önem taşımıştır. Bu bölge, aynı zamanda önemli ticaret yollarının kesişme noktası olarak da hizmet vermiştir. İnsanların bu doğal alanlarla olan ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir.
 
-Biçare Dağı, bu tarihi ve kültürel zenginliğin bir parçasıdır. Bölgenin coğrafi yapısı, insan yerleşimlerinin ve ekonomik faaliyetlerin şekillenmesinde önemli bir rol oynamıştır. Erzincan'ın doğal güzellikleri, tarihi mirası ve kültürel çeşitliliği, bu bölgeyi ziyaret edenler için benzersiz bir deneyim sunar. Biçare Dağı ve çevresi, Türkiye'nin doğal ve tarihi zenginliklerinin önemli bir bileşeni olarak, ziyaretçilerini tarihin sâuışına davet eder.
+Biçare Dağı, bu tarihi ve kültürel zenginliğin bir parçasıdır. Bölgenin coğrafi yapısı, insan yerleşimlerinin ve ekonomik faaliyetlerin şekillenmesinde önemli bir rol oynamıştır. Erzincan'ın doğal güzellikleri, tarihi mirası ve kültürel çeşitliliği, bu bölgeyi ziyaret edenler için benzersiz bir deneyim sunar. Biçare Dağı ve çevresi, Türkiye'nin doğal ve tarihi zenginliklerinin önemli bir bileşeni olarak, ziyaretçilerini tarihin derinışına davet eder.
 
 ## Coğrafya
 
@@ -50,9 +50,9 @@ Mevsimsel açıdan, "Biçare Dağı" ve çevresinde dört mevsim belirgin bir ş
 
 ## Flora ve Fauna
 
-Biçare Dağı'nın flora ve fauna bölümü, yüksek dağ ekolojisinin tüm güzelliğini sunuyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanıyor. 
+Biçare Dağı'nın flora ve fauna bölümü, yüksek dağ ekolojisinin tüm güzelliğini sunuyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanıyor.
 
-Bitki Örtüsü olarak, yükseklik zonlarına bağlı olarak değişen türler hakim. Alpin flora, bölgenin karakteristik özelliğini oluşturuyor. Yaban Hayatı olarak, memeliler ve kuşlar bu dağ ekosisteminin önemli bileşenlerini oluşturuyor. Sürüngenler de bu yüksekliklerde yaşamını sürdürüyor. 
+Bitki Örtüsü olarak, yükseklik zonlarına bağlı olarak değişen türler hakim. Alpin flora, bölgenin karakteristik özelliğini oluşturuyor. Yaban Hayatı olarak, memeliler ve kuşlar bu dağ ekosisteminin önemli bileşenlerini oluşturuyor. Sürüngenler de bu yüksekliklerde yaşamını sürdürüyor.
 Ekolojik Değer olarak, Biçare Dağı'nın yüksek dağ ekolojisi ve endemik türler nedeniyle koruma altına alınması gerekiyor. Bu alanın korunması, bölgenin ekolojik dengesinin korunması için çok önemli.
 
 ## Ziyaret Bilgileri

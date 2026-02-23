@@ -1,7 +1,7 @@
 ---
 title: "Dokuzun Hamamı"
 date: "2026-01-09T23:06:21.151Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738931"
 
 # Dokuzun Hamamı
 
-Dokuzun Hamamı, Aydın'ın Nazilli ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir plajdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu plaj, geniş kumsalı ve temiz deniziyle ziyaretçilerini cezbeder. Plajın etrafı, çeşitli bitki türleriyle kaplıdır ve zengin fauna çeşitliliği sunar. Dokuzun Hamamı, hem yerel halk hem de turistler tarafından tercih edilen bir destinasyondur.
+Dokuzun Hamamı, Aydın'ın Nazilli ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir plajdır. Plajın etrafı, çeşitli bitki türleriyle kaplıdır ve zengin fauna çeşitliliği sunar. Dokuzun Hamamı, hem yerel halk hem de turistler tarafından tercih edilen bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dokuzun Hamamı'nın tarihi geçmişi, yüzyıllar boyunca devam eden bir süre�
 
 ## Coğrafya
 
-Dokuzun Hamamı, Ege Bölgesi'nin Aydın ilinin Nazilli ilçesinde yer alır. Plaj, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir kumsala sahiptir. Bu geniş kumsal, ziyaretçilere rahat ve keyifli bir şekilde güneşlenme ve denize girmek için ideal bir ortam sunar. Plajın etrafı, çeşitli bitki türleriyle kaplıdır ve zengin fauna çeşitliliği sunar. Dokuzun Hamamı'nın iklimi, Ege Bölgesi'nin genel iklimine benzer şekilde ılımandır. Yaz aylarında sıcaklık artar, kış aylarında ise ılıman bir hava hakimdir. Plajın denizi, temiz ve berraktır, bu nedenle ziyaretçiler tarafından tercih edilen bir destinasyondur.
+Dokuzun Hamamı, Ege Bölgesi'nin Aydın ilinin Nazilli ilçesinde yer alır. Bu geniş kumsal, ziyaretçilere rahat ve keyifli bir şekilde güneşlenme ve denize girmek için ideal bir ortam sunar. Plajın etrafı, çeşitli bitki türleriyle kaplıdır ve zengin fauna çeşitliliği sunar. Dokuzun Hamamı'nın iklimi, Ege Bölgesi'nin genel iklimine benzer şekilde ılımandır. Yaz aylarında sıcaklık artar, kış aylarında ise ılıman bir hava hakimdir. Plajın denizi, temiz ve berraktır, bu nedenle ziyaretçiler tarafından tercih edilen bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Dokuzun Hamamı'na ziyaretçiler,Nazilli ilçesine ulaştıktan sonra plaja raha
 
 ## İlginç Bilgiler
 
-- Dokuzun Hamamı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir plajdır.
 - Plajın etrafı, çeşitli bitki türleriyle kaplıdır.
 - Dokuzun Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir.
 - Plajın denizi, temiz ve berraktır.

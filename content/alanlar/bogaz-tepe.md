@@ -28,7 +28,7 @@ wikidata_id: "Q31538847"
 
 # Boğaz Tepe
 
-Hatay'ın zengin doğası, ziyaretçilerine birçok doğal güzellik sunuyor. Boğaz Tepe, bu güzergahlar arasında dikkat çekici bir konumda yer alıyor. Hatay'ın çeşitli coğrafi oluşumları arasında yer alan bu tepe, bölgenin doğal zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. 
+Hatay'ın zengin doğası, ziyaretçilerine birçok doğal güzellik sunuyor. Boğaz Tepe, bu güzergahlar arasında dikkat çekici bir konumda yer alıyor. Hatay'ın çeşitli coğrafi oluşumları arasında yer alan bu tepe, bölgenin doğal zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
 Boğaz Tepe, Hatay'ın doğal haritasında önemli bir nokta.
 
 ## Tarihçe
@@ -53,7 +53,7 @@ Mevsimsel değişiklikler, Boğaz Tepe'nin iklim karakterini belirler. Akdeniz i
 
 Boğaz Tepe, Hatay'da yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Dağın yükseklik zonlarında, alpin flora hakimdir. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçek açan maki türleri, renkli bir manzara oluşturur. Kış mevsiminde ise, kuraklığa dayanıklı türler, dağın zorlu koşullarına uyum sağlar.
 
-Yaban hayatı açısından, Boğaz Tepe, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri, kayalık alanlarda yaşamlarını sürdürürken, vadilerde ise, tilkiler ve çakallar, avlarını arıyorlar. Sonbaharın gelmesiyle birlikte, göçmen kuşlar, dağları geçerek, kışlaklarına ulaşıyorlar. 
+Yaban hayatı açısından, Boğaz Tepe, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri, kayalık alanlarda yaşamlarını sürdürürken, vadilerde ise, tilkiler ve çakallar, avlarını arıyorlar. Sonbaharın gelmesiyle birlikte, göçmen kuşlar, dağları geçerek, kışlaklarına ulaşıyorlar.
 
 Boğaz Tepe'nin ekolojik değeri, bölgenin biyolojik çeşitliliğini koruma açısından büyük önem taşıyor. Dağın yükseklik zonları, çeşitli canlı türlerinin yaşamlarını sürdürmelerine olanak tanır. Ancak, insan faaliyetleri ve iklim değişikliği, bu hassas ekosistemi tehdit ediyor. Boğaz Tepe'nin korunması, bölgenin doğal dengesinin korunması açısından kritik öneme sahip.
 

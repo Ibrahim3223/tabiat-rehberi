@@ -22,7 +22,7 @@ wikidata_id: "Q108227604"
 
 # Isparta-Kizıldag MP Sedir 2
 
-Isparta-Kizıldag MP Sedir 2, Akdeniz Bölgesi'nde yer alan Isparta ilinin önemli doğal ve tarihi değerlerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Bölgenin coğrafi yapısı, ziyaretçilere hem doğal güzellikleri hem de tarihi zenginlikleri keşfetme fırsatı veriyor. Isparta-Kizıldag MP Sedir 2, ziyaretçilerini bekleyen bir hazine olarak düşünülebilir.
+Isparta-Kizıldag MP Sedir 2, Akdeniz Bölgesi'nde yer alan Isparta ilinin önemli doğal ve tarihi değerlerinden biridir. Bölgenin coğrafi yapısı, ziyaretçilere hem doğal güzellikleri hem de tarihi zenginlikleri keşfetme fırsatı veriyor. Isparta-Kizıldag MP Sedir 2, ziyaretçilerini bekleyen bir hazine olarak düşünülebilir.
 
 ## Tarihçe
 
@@ -44,6 +44,6 @@ Isparta-Kizıldag MP Sedir 2'yi ziyaret etmek, ziyaretçilere unutulmaz bir dene
 
 - Isparta-Kizıldag MP Sedir 2, Isparta ilinin en önemli doğal değerlerinden biridir.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor.
-- Isparta-Kizıldag MP Sedir 2, ziyaretçilerine unutulmaz bir gezi deneyimi sunuyor.
+
 - Bölge, coğrafi güzellikleri ve tarihi değerleriyle birlikte ziyaretçilere önemli bir gezi seçeneği sunuyor.
 - Isparta-Kizıldag MP Sedir 2, Isparta ilinin turizm potansiyelini artırıyor.

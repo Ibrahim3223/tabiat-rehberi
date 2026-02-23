@@ -22,7 +22,7 @@ wikidata_id: "Q108228218"
 
 # İsparta-Egirdir-Y.Gokdere-Uvez
 
-İç Anadolu Bölgesi'nin kalbinde yer alan İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, 140 hektarlık yeşil alanı ve zengin faunasıyla ziyaretçilerini bekliyor. Bu doğal alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik bölgelerinden biri. İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, doğa severler ve macera arayışında olanlar için ideal bir destinasyon.
+İç Anadolu Bölgesi'nin kalbinde yer alan İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, 140 hektarlık yeşil alanı ve zengin faunasıyla ziyaretçilerini bekliyor. İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, doğa severler ve macera arayışında olanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

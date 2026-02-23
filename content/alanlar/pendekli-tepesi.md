@@ -28,7 +28,7 @@ wikidata_id: "Q31562074"
 
 # Pendekli Tepesi
 
-Pendekli Tepesi, Karabük'ün en önemli doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Doğal güzelliği ile görenleri büyüleyen Pendekli Tepesi, aynı zamanda tarihi geçmişi ile de önemli bir kültür mirası olarak kabul ediliyor. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor. Pendekli Tepesi'ne çıkarak, Karadeniz Bölgesi'nin eşsiz manzarasını izleme fırsatı bulacaksınız.
+Pendekli Tepesi, Karabük'ün en önemli doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Doğal güzelliği ile görenleri büyüleyen Pendekli Tepesi, aynı zamanda tarihi geçmişi ile de önemli bir kültür mirası olarak kabul ediliyor. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor. Pendekli Tepesi'ne çıkarak, Karadeniz Bölgesi'nin eşsiz manzarasını izleme fırsatı bulacaksınız.
 
 ## Tarihçe
 

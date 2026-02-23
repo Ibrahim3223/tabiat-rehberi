@@ -28,7 +28,7 @@ wikidata_id: "Q30590104"
 
 # Tota Dağı Anadolu Kestanesi Tabiat Anıtı
 
-İç Anadolu Bölgesi'nin geniş ve verimli topraklarında yer alan Tota Dağı Anadolu Kestanesi Tabiat Anıtı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor. Bu alan, Anadolu kestanesi türlerinin zengin çeşitliliği ile dikkat çekiyor. Tota Dağı, bölgenin önemli ekolojik noktalarından biri olarak kabul ediliyor. Burada, doğa severler için birçok keşfedilecek nokta ve aktivite bulunmakta.
+ Bu alan, Anadolu kestanesi türlerinin zengin çeşitliliği ile dikkat çekiyor. Tota Dağı, bölgenin önemli ekolojik noktalarından biri olarak kabul ediliyor. Burada, doğa severler için birçok keşfedilecek nokta ve aktivite bulunmakta.
 
 ## Tarihçe
 

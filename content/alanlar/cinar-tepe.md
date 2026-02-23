@@ -28,7 +28,7 @@ wikidata_id: "Q34819134"
 
 # Çınar Tepe
 
-Mardin'in histórik dokusuna karşılaştırıldığında, Çınar Tepe dağının kendi gizemi var. Mardin'in merkezine yakın bir konumda yer alan bu dağ, şehrin tarihi zenginliklerinin yanı sıra doğal güzelliklerini de keşfetmek isteyenler için önemli bir destinasyon. Çınar Tepe, Mardin'in coğrafi yapısını oluşturan dağlık alanların bir parçası olarak dikkat çekiyor. Bu dağ, Mardin'in il sınırları içerisinde yer alıyor ve bölgenin jeolojik yapısını şekillendiren önemli bir oluşum.
+Mardin'in tarihi dokusuna karşılaştırıldığında, Çınar Tepe dağının kendi gizemi var. Mardin'in merkezine yakın bir konumda yer alan bu dağ, şehrin tarihi zenginliklerinin yanı sıra doğal güzelliklerini de keşfetmek isteyenler için önemli bir destinasyon. Çınar Tepe, Mardin'in coğrafi yapısını oluşturan dağlık alanların bir parçası olarak dikkat çekiyor. Bu dağ, Mardin'in il sınırları içerisinde yer alıyor ve bölgenin jeolojik yapısını şekillendiren önemli bir oluşum.
 
 ## Tarihçe
 

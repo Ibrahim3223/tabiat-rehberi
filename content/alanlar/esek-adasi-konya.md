@@ -48,9 +48,9 @@ Doğal güzelliği ile dikkat çeken Eşek Adası, yaklaşık bir şehir bloğu 
 
 ## Flora ve Fauna
 
-Eşek Adası, Konya'nın kurak bozkır bölgesinde yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Step bitki örtüsüne sahip bu ada, ilkbaharın gelmesiyle birlikte çiçeklerle donanır. Deniz kıyısı boyunca, tuzcul bitkiler ve çalılar hakimdir. 
+Eşek Adası, Konya'nın kurak bozkır bölgesinde yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Step bitki örtüsüne sahip bu ada, ilkbaharın gelmesiyle birlikte çiçeklerle donanır. Deniz kıyısı boyunca, tuzcul bitkiler ve çalılar hakimdir.
 
-Adanın yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Deniz kuşları, ada üzerinde önemli bir yer tutarken, göç mevsimlerinde buraya uğrayan kuş türleri de görülür. Ada ekosisteminin izole yapısı, burada yaşayan türlerin benzersiz bir adaptasyon sürecine girerek, diğer bölgelerde bulunmayan özel özellikler geliştirmesine neden olmuştur. 
+Adanın yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Deniz kuşları, ada üzerinde önemli bir yer tutarken, göç mevsimlerinde buraya uğrayan kuş türleri de görülür. Ada ekosisteminin izole yapısı, burada yaşayan türlerin benzersiz bir adaptasyon sürecine girerek, diğer bölgelerde bulunmayan özel özellikler geliştirmesine neden olmuştur.
 
 Eşek Adası, ekolojik açıdan önemli bir bölge olarak kabul edilir. Bu ada, kuraklığa adapte olmuş türlerin yaşam alanını oluşturur ve bu nedenle bu türlerin koruma altına alınması büyük önem taşır. Ayrıca, ada üzerinde yaşayan deniz kuşları ve diğer canlılar, adanın ekolojik dengesini koruma altına almaya yardımcı olur.
 

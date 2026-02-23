@@ -33,7 +33,7 @@ Türkiye'nin doğa harikaları arasında yer alan Akçalı Dağı, ülkenin zeng
 
 ## Tarihçe
 
-Akçalı Dağı, Türkiye'nin zengin doğal mirasının önemli bir parçasını oluşturan bir bölgedir. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların yaşam alanı olmuştur. Anadolu'nun tarihi, binlerce yıl öncesine uzanan bir geçmişe sahiptir ve bu bölgede de farklı kültürlerin izleri görülebilir. 
+Akçalı Dağı, Türkiye'nin zengin doğal mirasının önemli bir parçasını oluşturan bir bölgedir. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların yaşam alanı olmuştur. Anadolu'nun tarihi, binlerce yıl öncesine uzanan bir geçmişe sahiptir ve bu bölgede de farklı kültürlerin izleri görülebilir.
 
 Tarihsel olarak, Türkiye'de doğal alanlar sadece coğrafi açıdan değil, aynı zamanda kültürel ve ekonomik olarak da önemli roller oynamıştır. Bu alanlar, yaylacılık, hayvancılık ve ticaret yolları için stratejik noktalardır. İnsanların bu doğal alanlarla ilişkisi, binlerce yıllık bir geçmişe uzanır ve bu bölgelerin korunması, ülkenin kültürel ve doğal mirasının sürdürülmesi için kritik öneme sahiptir.
 

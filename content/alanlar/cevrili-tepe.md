@@ -28,7 +28,7 @@ wikidata_id: "Q34829054"
 
 # Çevrili Tepe
 
-Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan Çevrili Tepe, coğrafi açıdan oldukça çeşitli bir bölgeye sahiptir. Bu tepe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Çevrili Tepe'nin etrafında dağlar ve vadiler bulunur, bu da burayı doğa severler için bir cennet haline getirir. Tarihi geçmişi ve coğrafi özellikleri ile dikkat çeken bu bölge, ziyaretçilerine hem eğitim hem de eğlence sunar.
+Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan Çevrili Tepe, coğrafi açıdan oldukça çeşitli bir bölgeye sahiptir. Çevrili Tepe'nin etrafında dağlar ve vadiler bulunur, bu da burayı doğa severler için bir cennet haline getirir. Tarihi geçmişi ve coğrafi özellikleri ile dikkat çeken bu bölge, ziyaretçilerine hem eğitim hem de eğlence sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan Çevrili Tepe, coğrafi açı
 
 ## Coğrafya
 
-Çevrili Tepe, coğrafi açıdan oldukça zengin bir bölgedir. Bu tepe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Çevrili Tepe'nin etrafında dağlar ve vadiler bulunur, bu da burayı doğa severler için bir cennet haline getirir. İklim olarak, Çevrili Tepe ve çevresinde karasal iklim hüküm sürer ve mevsimsel değişimler oldukça belirgindir. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Bu coğrafi çeşitlilik, Çevrili Tepe'yi ziyaret edenler için benzersiz bir deneyim sağlar.
+Çevrili Tepe, coğrafi açıdan oldukça zengin bir bölgedir. Çevrili Tepe'nin etrafında dağlar ve vadiler bulunur, bu da burayı doğa severler için bir cennet haline getirir. İklim olarak, Çevrili Tepe ve çevresinde karasal iklim hüküm sürer ve mevsimsel değişimler oldukça belirgindir. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Bu coğrafi çeşitlilik, Çevrili Tepe'yi ziyaret edenler için benzersiz bir deneyim sağlar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan Çevrili Tepe, coğrafi açı
 ## İlginç Bilgiler
 
 - Çevrili Tepe, 140 hektarlık bir alanı kaplar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Çevrili Tepe'nin etrafında dağlar ve vadiler bulunur.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak bilinir.
 - Çevrili Tepe, coğrafi açıdan oldukça çeşitli bir bölgeye sahiptir.

@@ -1,7 +1,7 @@
 ---
 title: "Acar Hamamı"
 date: "2026-01-09T22:16:05.662Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kahramanmaraş"
@@ -30,7 +30,7 @@ wikidata_id: "Q118957226"
 
 # Acar Hamamı
 
-Acar Hamamı, Onikişubat/Kahramanmaraş'ta Akdeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir plaj deneyimi sunar. Ziyaretçiler, geniş kumlu plajın keyfini çıkarabilir, denizde serinleyebilir ve güneşin tadını çıkarabilir. Acar Hamamı, hem yerli hem de yabancı turistler için bir çekim noktası olarak kabul edilir ve ziyaretçilerine unutulmaz bir tatil deneyimi sağlar.
+Acar Hamamı, Onikişubat/Kahramanmaraş'ta Akdeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Ziyaretçiler, geniş kumlu plajın keyfini çıkarabilir, denizde serinleyebilir ve güneşin tadını çıkarabilir.
 
 ## Tarihçe
 

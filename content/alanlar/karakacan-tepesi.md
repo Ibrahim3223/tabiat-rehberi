@@ -28,7 +28,7 @@ wikidata_id: "Q34877967"
 
 # Karakaçan Tepesi
 
-Kırklareli'nin doğal güzelliklerinden biri olan Karakaçan Tepesi, yaklaşık 200 futbol sahası büyüklüğünde. Bu 140 hektarlık yeşil alan, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri. Karakaçan Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yöresel lezzetler sunar. Karakaçan Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
+ Bu 140 hektarlık yeşil alan, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri. Karakaçan Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yöresel lezzetler sunar. Karakaçan Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
 
 ## Tarihçe
 

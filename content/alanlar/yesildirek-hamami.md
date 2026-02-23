@@ -1,7 +1,7 @@
 ---
 title: "Yeşildirek Hamamı"
 date: "2026-01-09T22:47:12.093Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738545"
 
 # Yeşildirek Hamamı
 
-Yeşildirek Hamamı, İstanbul'un tarihi plajlarından biri olarak Beyoğlu'nda yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alanda, deniz keyfi yapanlar, tarihi hamamın güzelliğini keşfedenler ve Marmara Bölgesi'nin eşsiz manzarasını izleyenler için pek çok olanak sunuyor. Yeşildirek Hamamı, İstanbul'un kalbinde bir mavi cennet olarak dikkat çekiyor. Burada, denizin serinliği ve güneşin sıcaklığı bir arada yaşanabiliyor. Plajın çevresi, tarihi yapılar ve yeşillik alanlarla dolu. Bu nedenle, hem deniz severler hem de tarihi ve kültürel zenginliklerine meraklananlar için ideal bir destinasyon.
+Yeşildirek Hamamı, İstanbul'un tarihi plajlarından biri olarak Beyoğlu'nda yer alıyor. Bu geniş alanda, deniz keyfi yapanlar, tarihi hamamın güzelliğini keşfedenler ve Marmara Bölgesi'nin eşsiz manzarasını izleyenler için pek çok olanak sunuyor. Yeşildirek Hamamı, İstanbul'un kalbinde bir mavi cennet olarak dikkat çekiyor. Burada, denizin serinliği ve güneşin sıcaklığı bir arada yaşanabiliyor. Plajın çevresi, tarihi yapılar ve yeşillik alanlarla dolu. Bu nedenle, hem deniz severler hem de tarihi ve kültürel zenginliklerine meraklananlar için ideal bir destinasyon.
 
 ## Tarihçe
 

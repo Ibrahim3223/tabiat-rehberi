@@ -32,7 +32,7 @@ Van'ın dağlık kesimlerinde, doğa severlerin keşfetmek için sabırsızland�
 
 ## Tarihçe
 
-Van bölgesi, tarihin sâu sayfalarına ışık tutan bir coğrafyadır. Urartular, Asurlular, Persler ve Romalılar gibi uygarlıkların hakimiyetinde kalmıştır. Bu zengin tarih, bölgenin doğal güzelliklerini de etkilemiştir. Gora Kukhitala Dağı, bu tarihsel mirasın bir parçasıdır.
+Van bölgesi, tarihin derin sayfalarına ışık tutan bir coğrafyadır. Urartular, Asurlular, Persler ve Romalılar gibi uygarlıkların hakimiyetinde kalmıştır. Bu zengin tarih, bölgenin doğal güzelliklerini de etkilemiştir. Gora Kukhitala Dağı, bu tarihsel mirasın bir parçasıdır.
 
 Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde bulunan doğal alanlar, tarihin akışını şekillendiren önemli merkezler olmuşlardır. Bu alanlar, insanların yerleşim, yaylacılık ve hayvancılık faaliyetlerine ev sahipliği yapmış, aynı zamanda tarihi ticaret yollarının kavşak noktaları olarak hizmet vermiştir. İnsanların bu doğal alanlarla kurdukları ilişki, sadece ekonomik değil, kültürel ve sosyal açıdan da büyük önem taşımıştır.
 
@@ -50,9 +50,9 @@ Jeolojik açıdan incelendiğinde, Gora Kukhitala dağının fiziksel yapısı h
 
 ## Flora ve Fauna
 
-Gora Kukhitala, Van'ın yüksek dağ ekosistemini barındıran bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü: İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanıyor. Yükseklik zonlarına bağlı olarak, farklı bitki türleri görülebiliyor. 
-Yaban Hayatı: Dağ keçileri ve yaban keçileri, bu dağların yüksek kesimlerinde yaşamlarını sürdürüyor. Göçmen kuşlar, sonbaharın gelmesiyle birlikte buradan geçiyor. 
+Gora Kukhitala, Van'ın yüksek dağ ekosistemini barındıran bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü: İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanıyor. Yükseklik zonlarına bağlı olarak, farklı bitki türleri görülebiliyor.
+Yaban Hayatı: Dağ keçileri ve yaban keçileri, bu dağların yüksek kesimlerinde yaşamlarını sürdürüyor. Göçmen kuşlar, sonbaharın gelmesiyle birlikte buradan geçiyor.
 Ekolojik Değer: Bu yüksek dağ ekosisteminin korunması, bölgenin ekolojik dengesi için büyük önem taşıyor.
 
 ## Ziyaret Bilgileri

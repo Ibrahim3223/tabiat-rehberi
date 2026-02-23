@@ -1,7 +1,7 @@
 ---
 title: "Sıfır Atık ve İklim Müzesi"
 date: "2026-01-10T15:12:20.003Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950283"
 
 # Sıfır Atık ve İklim Müzesi
 
-Ankara'nın kalbinde yer alan Sıfır Atık ve İklim Müzesi, yaklaşık 140 hektarlık bir alanda, ziyaretçilere çevre bilinci ve iklim değişikliği hakkında geniş bir perspektif sunuyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada geçirilen zaman, sadece bir ziyaretten çok, bir eğitim ve farkındalık deneyimi haline geliyor. Müzenin konumu, Ankara'nın merkezi bölgesinde olmasından dolayı ulaşımı oldukça kolay, bu da ziyaretçilerin rahatlıkla gelebileceği anlamına geliyor. Sıfır Atık ve İklim Müzesi, sadece bir müze değil, aynı zamanda bir eğitim ve araştırma merkezi olarak da hizmet veriyor.
+Ankara'nın kalbinde yer alan Sıfır Atık ve İklim Müzesi, yaklaşık 140 hektarlık bir alanda, ziyaretçilere çevre bilinci ve iklim değişikliği hakkında geniş bir perspektif sunuyor. Müzenin konumu, Ankara'nın merkezi bölgesinde olmasından dolayı ulaşımı oldukça kolay, bu da ziyaretçilerin rahatlıkla gelebileceği anlamına geliyor. Sıfır Atık ve İklim Müzesi, sadece bir müze değil, aynı zamanda bir eğitim ve araştırma merkezi olarak da hizmet veriyor.
 
 ## Tarihçe
 

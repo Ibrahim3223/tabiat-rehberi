@@ -1,7 +1,7 @@
 ---
 title: "Çimen Dede Türbesi"
 date: "2026-01-10T05:12:31.581Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391592"
 
 # Çimen Dede Türbesi
 
-Çimen Dede Türbesi, Efeler'in güzide plajlarından biri olarak Ege Bölgesi'nin en önemli turizm merkezlerinden biri haline gelmiştir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet etmektedir. Çimen Dede Türbesi, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini büyülemektedir. Bu bölgeye gelen ziyaretçiler, denizin serinliğine ve güneşin sıcaklığına karşı keyifli anlar yaşayabilirler. Çimen Dede Türbesi, sadece bir plaj değil, aynı zamanda bir kültürel ve tarihi destinasyondur.
+Çimen Dede Türbesi, Efeler'in güzide plajlarından biri olarak Ege Bölgesi'nin en önemli turizm merkezlerinden biri haline gelmiştir. Çimen Dede Türbesi, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini büyülemektedir. Bu bölgeye gelen ziyaretçiler, denizin serinliğine ve güneşin sıcaklığına karşı keyifli anlar yaşayabilirler. Çimen Dede Türbesi, sadece bir plaj değil, aynı zamanda bir kültürel ve tarihi destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391592"
 
 ## Coğrafya
 
-Çimen Dede Türbesi, Efeler'in merkezinde, Ege Bölgesi'nde bulunmaktadır. Bu bölge, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Çimen Dede Türbesi, denize sıfır bir konumda olup, ziyaretçilerine güneşin ve denizin tadını çıkarmaya olanak tanımaktadır. Bu plaj, Ege Bölgesi'nin en önemli turizm merkezlerinden biri olarak, ziyaretçilerini güneşin sıcaklığı ve denizin serinliği ile karşılamaktadır. Çimen Dede Türbesi'nin coğrafi konumu, ziyaretçilerine geniş bir alanda keyifli anlar yaşama fırsatı sunmaktadır. Bu bölge, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini büyülemektedir. Çimen Dede Türbesi, Efeler'in önemli bir turizm merkezi olarak, ziyaretçilerine hem doğal güzellik hem de tarihi önemi konusunda zengin bir deneyim sunmaktadır.
+Çimen Dede Türbesi, Efeler'in merkezinde, Ege Bölgesi'nde bulunmaktadır. Çimen Dede Türbesi, denize sıfır bir konumda olup, ziyaretçilerine güneşin ve denizin tadını çıkarmaya olanak tanımaktadır. Bu plaj, Ege Bölgesi'nin en önemli turizm merkezlerinden biri olarak, ziyaretçilerini güneşin sıcaklığı ve denizin serinliği ile karşılamaktadır. Çimen Dede Türbesi'nin coğrafi konumu, ziyaretçilerine geniş bir alanda keyifli anlar yaşama fırsatı sunmaktadır. Bu bölge, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini büyülemektedir. Çimen Dede Türbesi, Efeler'in önemli bir turizm merkezi olarak, ziyaretçilerine hem doğal güzellik hem de tarihi önemi konusunda zengin bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

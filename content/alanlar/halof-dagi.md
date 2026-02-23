@@ -50,11 +50,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir r
 
 ## Flora ve Fauna
 
-Halof Dağı, Adıyaman'ın yarı kurak ikliminin hakim olduğu bir bölgede, step ve ova ekolojisinin iç içe geçtiği bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Halof Dağı, Adıyaman'ın yarı kurak ikliminin hakim olduğu bir bölgede, step ve ova ekolojisinin iç içe geçtiği bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçlarında renkli çiçekler açar. Bu mevsimde, dağ kekiği ve çeşitli otsu bitkiler hakimdir. Sonbaharda ise, dağların yüksek kesimlerinde alpin flora ortaya çıkar. 
+Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçlarında renkli çiçekler açar. Bu mevsimde, dağ kekiği ve çeşitli otsu bitkiler hakimdir. Sonbaharda ise, dağların yüksek kesimlerinde alpin flora ortaya çıkar.
 
-Yaban hayatı bakımından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Dağ keçileri ve yaban domuzları, bu bölgenin önemli memeli türleridir. Kuşlar ise, özellikle sonbaharda göç ederken dağları önemli bir konaklama alanı olarak kullanır. Sürüngenler de, özellikle yılın sıcak aylarında aktif olur. 
+Yaban hayatı bakımından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Dağ keçileri ve yaban domuzları, bu bölgenin önemli memeli türleridir. Kuşlar ise, özellikle sonbaharda göç ederken dağları önemli bir konaklama alanı olarak kullanır. Sürüngenler de, özellikle yılın sıcak aylarında aktif olur.
 
 Ekolojik değer açısından, Halof Dağı wichtig bir bölge olarak kabul edilir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini korumak için önemlidir.
 

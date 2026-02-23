@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Suludere"
 date: "2026-01-10T03:40:42.629Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245835"
 
 # Hamam, Suludere
 
-Hamam, Suludere plajı, İzmir'in Kiraz ilçesinde, Ege Bölgesi'nin en güzel ve sakin köşelerinden birinde yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahip. Plajın çevresinde, doğa severleri cezbedecek çeşitli bitki türleri ve zengin fauna bulunuyor. Suludere plajı, hem yerel halk hem de ziyaretçiler için bir kaçış noktası olarak hizmet veriyor.
+Hamam, Suludere plajı, İzmir'in Kiraz ilçesinde, Ege Bölgesi'nin en güzel ve sakin köşelerinden birinde yer alıyor. Plajın çevresinde, doğa severleri cezbedecek çeşitli bitki türleri ve zengin fauna bulunuyor. Suludere plajı, hem yerel halk hem de ziyaretçiler için bir kaçış noktası olarak hizmet veriyor.
 
 ## Tarihçe
 

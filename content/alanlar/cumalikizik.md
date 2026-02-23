@@ -23,7 +23,7 @@ wikidata_id: "Q108228755"
 
 # Cumalıkızık
 
-Cumalıkızık, İç Anadolu Bölgesi'nin doğal güzelliği ve tarihi geçmişiyle dikkat çeken bir milli parktır. yaklaşık 140 hektarlık yeşil alanıyla, bu bölge yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, ziyaretçilerini doğayla baş başa bırakırken, aynı zamanda tarihi geçmişini de keşfetme fırsatı sunar. Cumalıkızık, doğal güzelliğinin yanı sıra, tarihi ve kültürel zenginlikleriyle de ziyaretçilerini cezbeder.
+Cumalıkızık, İç Anadolu Bölgesi'nin doğal güzelliği ve tarihi geçmişiyle dikkat çeken bir milli parktır. Bu alan, ziyaretçilerini doğayla baş başa bırakırken, aynı zamanda tarihi geçmişini de keşfetme fırsatı sunar. Cumalıkızık, doğal güzelliğinin yanı sıra, tarihi ve kültürel zenginlikleriyle de ziyaretçilerini cezbeder.
 
 ## Tarihçe
 

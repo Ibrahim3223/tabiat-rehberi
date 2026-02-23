@@ -1,7 +1,7 @@
 ---
 title: "Sokullu Mehmet Paşa Türbesi"
 date: "2026-01-10T07:37:33.663Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391272"
 
 # Sokullu Mehmet Paşa Türbesi
 
-Sokullu Mehmet Paşa Türbesi, Eyüpsultan'da bulunan tarihi bir mekândır. İstanbul'un önemli kültürel miraslarından biri olan bu türbe, Sokullu Mehmet Paşa'nın anısına inşa edilmiştir. 140 hektarlık bir alanın içinde yer alan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sokullu Mehmet Paşa, Osmanlı İmparatorluğu'nun önemli devlet adamlarından biri olarak bilinir ve türbesi de bu önemini yansıtan bir mimariye sahiptir. Türbenin mimari özellikleri, Osmanlı dönemi yapılarını anımsatır ve ziyaretçilere tarihi bir atmosfer sunar.
+Sokullu Mehmet Paşa Türbesi, Eyüpsultan'da bulunan tarihi bir mekândır. İstanbul'un önemli kültürel miraslarından biri olan bu türbe, Sokullu Mehmet Paşa'nın anısına inşa edilmiştir. Sokullu Mehmet Paşa, Osmanlı İmparatorluğu'nun önemli devlet adamlarından biri olarak bilinir ve türbesi de bu önemini yansıtan bir mimariye sahiptir. Türbenin mimari özellikleri, Osmanlı dönemi yapılarını anımsatır ve ziyaretçilere tarihi bir atmosfer sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sokullu Mehmet Paşa Türbesi, 16. yüzyılda inşa edilmiştir. Sokullu Mehmet 
 
 ## Coğrafya
 
-Sokullu Mehmet Paşa Türbesi, Eyüpsultan ilçesinde yer alır ve Marmara Bölgesi'nin önemli kültürel merkezlerinden biridir. Türbe, 140 hektarlık bir alanın içinde bulunur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin etrafında, histórik yapılar ve yeşil alanlar yer alır. İstanbul'un merkezi bir bölgesinde bulunan türbe, ulaşımı kolaydır ve ziyaretçiler için önemli bir turistik destinasyondur. Türbenin bulunduğu bölge, tarihi ve kültürel açıdan zengin bir bölge olarak bilinir ve Sokullu Mehmet Paşa Türbesi, bu bölgenin önemli bir parçasıdır. Türbenin mimari özellikleri, Osmanlı dönemi yapılarını anımsatır ve ziyaretçilere tarihi bir atmosfer sunar. Çevresindeki yeşil alanlar ve histórik yapılar, türbenin güzelliğini ve önemini daha da artırır.
+Sokullu Mehmet Paşa Türbesi, Eyüpsultan ilçesinde yer alır ve Marmara Bölgesi'nin önemli kültürel merkezlerinden biridir. Türbenin etrafında, tarihi yapılar ve yeşil alanlar yer alır. Türbenin bulunduğu bölge, tarihi ve kültürel açıdan zengin bir bölge olarak bilinir ve Sokullu Mehmet Paşa Türbesi, bu bölgenin önemli bir parçasıdır. Türbenin mimari özellikleri, Osmanlı dönemi yapılarını anımsatır ve ziyaretçilere tarihi bir atmosfer sunar. Çevresindeki yeşil alanlar ve tarihi yapılar, türbenin güzelliğini ve önemini daha da artırır.
 
 ## Flora ve Fauna
 
@@ -46,7 +46,7 @@ Sokullu Mehmet Paşa Türbesi, tarihi bir mekân olarak önemli bir kültürel m
 
 ## Ziyaret Bilgileri
 
-Sokullu Mehmet Paşa Türbesi, ziyaretçiler için önemli bir turistik destinasyondur. Türbeye, toplu taşıma araçları veya özel araçlarla ulaşılabilir. Türbenin bulunduğu bölgede, otopar ve diğer turistik tesisler de yer alır. Ziyaretçiler, türbenin mimari özelliklerini ve tarihi atmosferini deneyimleyebilir. Sokullu Mehmet Paşa'nın hayatını ve döneminin önemli olaylarını öğrenmek için türbe, önemli bir kaynak olarak kabul edilir. Türbe, yıl boyunca ziyaret edilebilir, ancak en iyi ziyaret zamanı, ilkbahar ve sonbahar aylarıdır. Bu dönemde, hava daha serin ve ziyaret daha konforlu olur.
+ Türbeye, toplu taşıma araçları veya özel araçlarla ulaşılabilir. Türbenin bulunduğu bölgede, otopar ve diğer turistik tesisler de yer alır. Ziyaretçiler, türbenin mimari özelliklerini ve tarihi atmosferini deneyimleyebilir. Sokullu Mehmet Paşa'nın hayatını ve döneminin önemli olaylarını öğrenmek için türbe, önemli bir kaynak olarak kabul edilir. Türbe, yıl boyunca ziyaret edilebilir, ancak en iyi ziyaret zamanı, ilkbahar ve sonbahar aylarıdır. Bu dönemde, hava daha serin ve ziyaret daha konforlu olur.
 
 ## İlginç Bilgiler
 
@@ -54,4 +54,4 @@ Sokullu Mehmet Paşa Türbesi, ziyaretçiler için önemli bir turistik destinas
 - Türbe, 16. yüzyılda inşa edilmiştir.
 - Türbenin mimari özellikleri, Osmanlı dönemi yapılarını anımsatır.
 - Türbe, Eyüpsultan ilçesinde yer alır.
-- Türbenin bulunduğu bölgede, histórik yapılar ve yeşil alanlar yer alır.
+- Türbenin bulunduğu bölgede, tarihi yapılar ve yeşil alanlar yer alır.

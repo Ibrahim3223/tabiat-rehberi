@@ -1,7 +1,7 @@
 ---
 title: "Rabia Ana Türbesi"
 date: "2026-01-10T06:46:10.065Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582805"
 
 # Rabia Ana Türbesi
 
-Rabia Ana Türbesi, Doğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak ziyaretçilerini ağırlamaktadır. Yakutiye ilçesinde bulunan bu özel alan, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekmektedir. Ziyaretçiler, bu alanda hem tarihi yapıları inceleyebilir hem de doğanın güzelliklerini keşfedebilirler.
+Rabia Ana Türbesi, Doğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak ziyaretçilerini ağırlamaktadır. Bu geniş alan, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekmektedir. Ziyaretçiler, bu alanda hem tarihi yapıları inceleyebilir hem de doğanın güzelliklerini keşfedebilirler.
 
 ## Tarihçe
 

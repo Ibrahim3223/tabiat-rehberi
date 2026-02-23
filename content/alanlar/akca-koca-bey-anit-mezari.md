@@ -1,7 +1,7 @@
 ---
 title: "Akça Koca Bey Anıt Mezarı"
 date: "2026-01-10T04:48:47.820Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -30,7 +30,7 @@ wikidata_id: "Q106619418"
 
 # Akça Koca Bey Anıt Mezarı
 
-Akça Koca Bey Anıt Mezarı, Kocaeli'nin Kandıra ilçesinde yer alan ve tarihi açıdan büyük önem taşıyan bir anıt mezarıdır. Bu anıt mezar, yaklaşık 140 hektarlık bir alan üzerinde konumlanmıştır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir gezi alanı sunmaktadır. Anıt mezarın etrafı, zengin flora ve fauna ile çevrilidir. Bu mekan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini beklemektedir.
+Akça Koca Bey Anıt Mezarı, Kocaeli'nin Kandıra ilçesinde yer alan ve tarihi açıdan büyük önem taşıyan bir anıt mezarıdır. Bu anıt mezar, yaklaşık 140 hektarlık bir alan üzerinde konumlanmıştır. Anıt mezarın etrafı, zengin flora ve fauna ile çevrilidir. Bu mekan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 

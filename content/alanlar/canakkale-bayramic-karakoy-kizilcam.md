@@ -22,7 +22,7 @@ wikidata_id: "Q108227326"
 
 # Canakkale-Bayramic-Karakoy Kızılçam
 
-Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor. Bu milli park, Çanakkale'nin Bayramiç ve Karaköy gibi önemli yerleşim yerlerine yakın konumuyla dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçiler için hem dinlenme hem de doğayı keşfetme imkanı sunuyor. Doğa severler için bir cennet olan bu milli park, Çanakkale'nin turizm değerlerini artırıyor. Milli parkın büyüklüğü ve zengin doğası, ziyaretçilere unutulmaz bir deneyim sunuyor.
+ Bu milli park, Çanakkale'nin Bayramiç ve Karaköy gibi önemli yerleşim yerlerine yakın konumuyla dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçiler için hem dinlenme hem de doğayı keşfetme imkanı sunuyor. Doğa severler için bir cennet olan bu milli park, Çanakkale'nin turizm değerlerini artırıyor. Milli parkın büyüklüğü ve zengin doğası, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, tarihi geçmişi ve doğal 
 
 ## Coğrafya
 
-Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, Marmara Bölgesi'nin Çanakkale ilinde yer alıyor. Milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, ziyaretçiler için geniş bir doğa alanı sunuyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu iklim, milli parkın flora ve faunasını şekillendirmiş ve zenginleştirmiş. Milli parkın çevresi, doğal güzelliği ve ekolojik dengesi korunmuş bir bölge olarak dikkat çekiyor. Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, ziyaretçiler için bir doğa cenneti sunuyor.
+Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, Marmara Bölgesi'nin Çanakkale ilinde yer alıyor. Bu büyük alan, ziyaretçiler için geniş bir doğa alanı sunuyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Bu iklim, milli parkın flora ve faunasını şekillendirmiş ve zenginleştirmiş. Milli parkın çevresi, doğal güzelliği ve ekolojik dengesi korunmuş bir bölge olarak dikkat çekiyor. Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, ziyaretçiler için bir doğa cenneti sunuyor.
 
 ## Flora ve Fauna
 

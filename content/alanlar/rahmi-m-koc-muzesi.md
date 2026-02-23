@@ -1,7 +1,7 @@
 ---
 title: "Rahmi M. Koç Müzesi"
 date: "2026-01-10T15:11:19.754Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"

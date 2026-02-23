@@ -1,7 +1,7 @@
 ---
 title: "Arap Dede Türbesi"
 date: "2026-01-10T05:00:41.705Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391511"
 
 # Arap Dede Türbesi
 
-Arap Dede Türbesi, Aydın'ın Nazilli ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği özel bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok faaliyet için uygun bir mekândır. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu bölge, ziyaretçilerini etkileyen bir atmosfere sahiptir. Arap Dede Türbesi'nde doğa yürüyüşleri, tarihi keşifler ve dinlenme alanları gibi olanaklar mevcuttur. Bu özel mekan, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
+Arap Dede Türbesi, Aydın'ın Nazilli ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği özel bir noktadır. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu bölge, ziyaretçilerini etkileyen bir atmosfere sahiptir. Arap Dede Türbesi'nde doğa yürüyüşleri, tarihi keşifler ve dinlenme alanları gibi olanaklar mevcuttur. Bu özel mekan, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227933"
 
 # Bolu-Duzce Karacam
 
-Bolu-Duzce Karacam Milli Parkı, Karadeniz Bölgesi'nin güzide illerinden Bolu'da yer alan bir doğal güzellik. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, özellikle doğa severlerin ve fotoğraf tutkunlarının gözdesi. Bolu-Duzce Karacam Milli Parkı, ziyaretçilerine doğanın tüm renklerini ve güzelliklerini sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Bolu-Duzce Karacam Milli Parkı, Karadeniz Bölgesi'nin güzide illerinden Bolu'da yer alan bir doğal güzellik. Bu milli park, özellikle doğa severlerin ve fotoğraf tutkunlarının gözdesi. Bolu-Duzce Karacam Milli Parkı, ziyaretçilerine doğanın tüm renklerini ve güzelliklerini sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Duzce Karacam Milli Parkı, tarihi geçmişi ile dikkat çekiyor. Yüzyıll
 
 ## Coğrafya
 
-Bolu-Duzce Karacam Milli Parkı, coğrafi konumu itibariyle, Karadeniz Bölgesi'nin en güzel noktalarından biri. Milli park, 140 hektarlık alanı ile, yaklaşık 200 futbol sahası büyüklüğünde. Bu alanda, çeşitli bitki türleri ve zengin fauna bulunuyor. Milli parkın coğrafi yapısı, ziyaretçilerin, doğanın tüm güzelliklerini keşfetmesine olanak sağlıyor. Burada, ziyaretçiler, hem dağları hem de vadileri keşfedebilir. Bolu-Duzce Karacam Milli Parkı, aynı zamanda, birçok nehrin ve derenin de kaynağı. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimi ile benzerlik gösteriyor. Burada, ziyaretçiler, her mevsim, farklı bir güzelliğe tanık olabilir.
+Bolu-Duzce Karacam Milli Parkı, coğrafi konumu itibariyle, Karadeniz Bölgesi'nin en güzel noktalarından biri. Bu alanda, çeşitli bitki türleri ve zengin fauna bulunuyor. Milli parkın coğrafi yapısı, ziyaretçilerin, doğanın tüm güzelliklerini keşfetmesine olanak sağlıyor. Burada, ziyaretçiler, hem dağları hem de vadileri keşfedebilir. Bolu-Duzce Karacam Milli Parkı, aynı zamanda, birçok nehrin ve derenin de kaynağı. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimi ile benzerlik gösteriyor. Burada, ziyaretçiler, her mevsim, farklı bir güzelliğe tanık olabilir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bolu-Duzce Karacam Milli Parkı, ziyaretçilerine, birçok aktivite olanağı su
 
 ## İlginç Bilgiler
 
-- Bolu-Duzce Karacam Milli Parkı, 140 hektarlık alanı ile, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli park, birçok medeniyete ev sahipliği yapmış.
 - Bolu-Duzce Karacam Milli Parkı, zengin flora ve fauna ile dikkat çekiyor.
 - Milli park, birçok nehrin ve derenin de kaynağı.

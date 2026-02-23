@@ -29,7 +29,7 @@ wikidata_id: "Q31388345"
 
 # Erenler Tepesi
 
-Erenler Tepesi, Aydın'ın kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, şehrin koşuşturmacasından kaçmak isteyenler için bir sığınak harika bir deneyim. Erenler Tepesi'ne çıkarken, etrafını saran ağaçların yeşilliği ve doğanın sesleri, ziyaretçilerini bir doğa belgeselinin içine çekiyor. 140 hektarlık bu büyük alan, hem doğa severler hem de sporcular için ideal bir ortam sunuyor.
+ Bu tepe, şehrin koşuşturmacasından kaçmak isteyenler için bir sığınak harika bir deneyim. Erenler Tepesi'ne çıkarken, etrafını saran ağaçların yeşilliği ve doğanın sesleri, ziyaretçilerini bir doğa belgeselinin içine çekiyor. 140 hektarlık bu büyük alan, hem doğa severler hem de sporcular için ideal bir ortam sunuyor.
 
 ## Tarihçe
 

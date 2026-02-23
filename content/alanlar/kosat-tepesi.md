@@ -28,7 +28,7 @@ wikidata_id: "Q31388624"
 
 # Koşat Tepesi
 
-Koşat Tepesi, Erzurum'un merkezinde yer alan ve şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en yüksek noktalarından biri. Bu tepe, doğa severler ve macera arayışında olanlar için bir cennet. Koşat Tepesi, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Tehlikeli bir yolculuk değil, ancak doğayı sevenler için mükemmel bir gezi noktası.
+Koşat Tepesi, Erzurum'un merkezinde yer alan ve şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe. Bu tepe, doğa severler ve macera arayışında olanlar için bir cennet. Koşat Tepesi, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Tehlikeli bir yolculuk değil, ancak doğayı sevenler için mükemmel bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,20 +36,20 @@ Koşat Tepesi, yüzyıllar boyunca şehrin önemli bir parçası olarak kabul ed
 
 ## Coğrafya
 
-Koşat Tepesi, Erzurum'un merkezinde yer alan ve şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe. Bu tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en yüksek noktalarından biri. Koşat Tepesi, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Bu tepe, doğa severler ve macera arayışında olanlar için bir cennet. Koşat Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe. Bu tepe, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Tehlikeli bir yolculuk değil, ancak doğayı sevenler için mükemmel bir gezi noktası. Koşat Tepesi'nin coğrafi konumu, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe.
+Koşat Tepesi, Erzurum'un merkezinde yer alan ve şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe. Koşat Tepesi, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Bu tepe, doğa severler ve macera arayışında olanlar için bir cennet. Koşat Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe. Bu tepe, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Tehlikeli bir yolculuk değil, ancak doğayı sevenler için mükemmel bir gezi noktası. Koşat Tepesi'nin coğrafi konumu, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe.
 
 ## Flora ve Fauna
 
-Koşat Tepesi, doğa severler için bir cennet. Bu tepe, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Koşat Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe. Bu tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en yüksek noktalarından biri. Koşat Tepesi, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Bu tepe, doğa severler ve macera arayışında olanlar için bir cennet. Koşat Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe.
+Koşat Tepesi, doğa severler için bir cennet. Bu tepe, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Koşat Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe. Koşat Tepesi, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Bu tepe, doğa severler ve macera arayışında olanlar için bir cennet. Koşat Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe.
 
 ## Ziyaret Bilgileri
 
-Koşat Tepesi, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Bu tepe, doğa severler ve macera arayışında olanlar için bir cennet. Koşat Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe. Bu tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en yüksek noktalarından biri. Tehlikeli bir yolculuk değil, ancak doğayı sevenler için mükemmel bir gezi noktası.
+Koşat Tepesi, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta. Bu tepe, doğa severler ve macera arayışında olanlar için bir cennet. Koşat Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe. Tehlikeli bir yolculuk değil, ancak doğayı sevenler için mükemmel bir gezi noktası.
 
 ## İlginç Bilgiler
 
 - Koşat Tepesi, Erzurum'un en yüksek noktalarından biri.
-- Bu tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Koşat Tepesi, doğa severler ve macera arayışında olanlar için bir cennet.
 - Bu tepe, yıl boyunca ziyaretçilerini ağırlamakta ve onların doğanın güzelliğini keşfetmelerine olanak sağlamakta.
 - Koşat Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon olan bir tepe.

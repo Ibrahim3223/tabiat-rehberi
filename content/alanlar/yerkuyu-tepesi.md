@@ -28,7 +28,7 @@ wikidata_id: "Q31386540"
 
 # Yerkuyu Tepesi
 
-Yerkuyu Tepesi, Hatay ilinin sınırları içerisinde yer alan ve ziyaretçilerini etkileyen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Yerkuyu Tepesi, doğa severler ve tarihi mekanlara ilgi duyanlar için önemli bir destinasyon. Bu tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Yerkuyu Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor.
+Yerkuyu Tepesi, Hatay ilinin sınırları içerisinde yer alan ve ziyaretçilerini etkileyen bir tepe. Yerkuyu Tepesi, doğa severler ve tarihi mekanlara ilgi duyanlar için önemli bir destinasyon. Bu tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Yerkuyu Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor.
 
 ## Tarihçe
 
@@ -40,11 +40,11 @@ Yerkuyu Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tepe,
 
 ## Flora ve Fauna
 
-Yerkuyu Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepenin eteklerinde ve çevresinde, Akdeniz ikliminin özellikleri görülüyor ve bu iklim, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Yerkuyu Tepesi, ziyaretçilerine hem doğal güzellikleri hem de biyolojik değerleri sunuyor. Bu tepe, farklı mevsimlerde, farklı bitki türleri ve hayvanlar ile ziyaretçilerini karşılıyor. Yerkuyu Tepesi, flora ve fauna açısından zengin bir bölge ve bu zenginlik, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Yerkuyu Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepenin eteklerinde ve çevresinde, Akdeniz ikliminin özellikleri görülüyor ve bu iklim, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Yerkuyu Tepesi, ziyaretçilerine hem doğal güzellikleri hem de biyolojik değerleri sunuyor. Bu tepe, farklı mevsimlerde, farklı bitki türleri ve hayvanlar ile ziyaretçilerini karşılıyor.
 
 ## Ziyaret Bilgileri
 
-Yerkuyu Tepesi, ziyaretçilerine kolay ulaşım olanakları sunuyor. Bu tepe, Hatay ilinin sınırları içerisinde yer alıyor ve ulaşım için çeşitli seçenekler bulunmakta. Yerkuyu Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor. Bu tepe, farklı mevsimlerde, farklı aktiviteler için uygun bir destinasyon. Yerkuyu Tepesi, ziyaretçilerine unutulmaz bir deneyim sunuyor ve bu deneyim, ziyaretçilerin bu bölgeye tekrar gelmesini sağlıyor.
+Yerkuyu Tepesi, ziyaretçilerine kolay ulaşım olanakları sunuyor. Bu tepe, Hatay ilinin sınırları içerisinde yer alıyor ve ulaşım için çeşitli seçenekler bulunmakta. Yerkuyu Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor. Bu tepe, farklı mevsimlerde, farklı aktiviteler için uygun bir destinasyon.
 
 ## İlginç Bilgiler
 

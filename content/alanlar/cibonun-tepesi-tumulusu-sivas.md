@@ -29,7 +29,7 @@ wikidata_id: "Q134728407"
 
 # Cibo’nun Tepesi Tümülüsü, Sivas
 
-Sivas ilinin merkezinde yer alan Cibo’nun Tepesi Tümülüsü, yaklaşık 140 hektarlık bir alana yayılmaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, tarihi ve coğrafi açıdan önemli bir noktadır. Cibo’nun Tepesi Tümülüsü, Sivas ilinin en önemli tarihi ve turistik mekanlarından biridir. Burada, tarihi kalıntılar ve coğrafi güzellikler bir arada bulunmakta olup, ziyaretçilere zengin bir deneyim sunmaktadır.
+Sivas ilinin merkezinde yer alan Cibo’nun Tepesi Tümülüsü, yaklaşık 140 hektarlık bir alana yayılmaktadır. Cibo’nun Tepesi Tümülüsü, Sivas ilinin en önemli tarihi ve turistik mekanlarından biridir. Burada, tarihi kalıntılar ve coğrafi güzellikler bir arada bulunmakta olup, ziyaretçilere zengin bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Cibo’nun Tepesi Tümülüsü, Sivas ilinin tarihi geçmişi ile yakından ilgi
 
 ## Coğrafya
 
-Cibo’nun Tepesi Tümülüsü, Sivas ilinin coğrafi açıdan önemli bir noktasında yer almaktadır. Bu tümülüs, Sivas ilinin merkezinde yer almakta olup, coğrafi açıdan önemli bir konuma sahiptir. Cibo’nun Tepesi Tümülüsü, yaklaşık 140 hektarlık bir alana yayılmaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, coğrafi açıdan önemli bir noktadır. Cibo’nun Tepesi Tümülüsü, Sivas ilinin en önemli coğrafi mekanlarından biridir. Burada, coğrafi güzellikler ve tarihi kalıntılar bir arada bulunmakta olup, ziyaretçilere zengin bir deneyim sunmaktadır. Cibo’nun Tepesi Tümülüsünün coğrafi konumu, Sivas ilinin merkezinde yer alması ve tarihi geçmişi ile ilgili olması, bu tümülüsün coğrafi açıdan önemli bir nokta olmasını sağlamaktadır.
+Cibo’nun Tepesi Tümülüsü, Sivas ilinin coğrafi açıdan önemli bir noktasında yer almaktadır. Bu tümülüs, Sivas ilinin merkezinde yer almakta olup, coğrafi açıdan önemli bir konuma sahiptir. Cibo’nun Tepesi Tümülüsü, yaklaşık 140 hektarlık bir alana yayılmaktadır. Cibo’nun Tepesi Tümülüsü, Sivas ilinin en önemli coğrafi mekanlarından biridir. Burada, coğrafi güzellikler ve tarihi kalıntılar bir arada bulunmakta olup, ziyaretçilere zengin bir deneyim sunmaktadır. Cibo’nun Tepesi Tümülüsünün coğrafi konumu, Sivas ilinin merkezinde yer alması ve tarihi geçmişi ile ilgili olması, bu tümülüsün coğrafi açıdan önemli bir nokta olmasını sağlamaktadır.
 
 ## Flora ve Fauna
 
-Cibo’nun Tepesi Tümülüsü, flora ve fauna açısından zengin bir alana sahiptir. Bu tümülüs, çeşitli bitki türleri ve hayvan türleri ile birlikte, ziyaretçilere doğal güzellikler sunmaktadır. Cibo’nun Tepesi Tümülüsü, Sivas ilinin en önemli flora ve fauna mekanlarından biridir. Burada, doğal güzellikler ve tarihi kalıntılar bir arada bulunmakta olup, ziyaretçilere zengin bir deneyim sunmaktadır. Cibo’nun Tepesi Tümülüsü, flora ve fauna açısından zengin bir alana sahiptir ve ziyaretçilere, Sivas ilinin doğal güzelliklerini keşfetme fırsatı sunmaktadır.
+Cibo’nun Tepesi Tümülüsü, flora ve fauna açısından zengin bir alana sahiptir. Bu tümülüs, çeşitli bitki türleri ve hayvan türleri ile birlikte, ziyaretçilere doğal güzellikler sunmaktadır. Cibo’nun Tepesi Tümülüsü, Sivas ilinin en önemli flora ve fauna mekanlarından biridir. Burada, doğal güzellikler ve tarihi kalıntılar bir arada bulunmakta olup, ziyaretçilere zengin bir deneyim sunmaktadır.
 
 ## Ziyaret Bilgileri
 

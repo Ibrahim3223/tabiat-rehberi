@@ -28,7 +28,7 @@ wikidata_id: "Q31387049"
 
 # Kocadoruk Tepe
 
-Kocadoruk Tepe, Bolu'nun merkezinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepedir. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplamakta ve bölgenin en önemli doğal alanlarından biri olarak kabul edilmektedir. Kocadoruk Tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğayla baş başa kalmaya davet etmektedir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekmektedir. Kocadoruk Tepe, aynı zamanda, Bolu'nun tarihi ve kültürel zenginliklerini de gözler önüne sermektedir.
+Kocadoruk Tepe, Bolu'nun merkezinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepedir. Kocadoruk Tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğayla baş başa kalmaya davet etmektedir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekmektedir. Kocadoruk Tepe, aynı zamanda, Bolu'nun tarihi ve kültürel zenginliklerini de gözler önüne sermektedir.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kocadoruk Tepe, ziyaretçilerine, Karadeniz Bölgesi'nin doğal güzelliklerini 
 
 ## İlginç Bilgiler
 
-- Kocadoruk Tepe, 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır.
 - Bu tepe, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir.
 - Kocadoruk Tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılamaktadır.
 - Bu tepe, bölgenin tarihi ve kültürel zenginliklerini de gözler önüne sermektedir.

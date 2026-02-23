@@ -1,7 +1,7 @@
 ---
 title: "Kars-Sarikamis-Hamamli Saricam"
 date: "2026-01-09T21:22:36.127Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Kars"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227695"
 
 # Kars-Sarikamis-Hamamli Saricam
 
-Kars-Sarikamis-Hamamli Saricam milli parkı, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan bir doğal güzelliktir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplıdır. Bu milli park, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbeden bir destinasyondur. Kars ilinin merkezine uzun bir mesafe uzaklıkta bulunan Sarikamis, tarihi ve doğal güzelliklerinin yanı sıra, kayak merkezleriyle de ünlüdür. Hamamli Saricam ise, milli parkın içinde yer alan ve sıcak su kaynaklarıyla bilinen bir bölgedir. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar.
+Kars-Sarikamis-Hamamli Saricam milli parkı, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan bir doğal güzelliktir. Bu milli park, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbeden bir destinasyondur. Kars ilinin merkezine uzun bir mesafe uzaklıkta bulunan Sarikamis, tarihi ve doğal güzelliklerinin yanı sıra, kayak merkezleriyle de ünlüdür. Hamamli Saricam ise, milli parkın içinde yer alan ve sıcak su kaynaklarıyla bilinen bir bölgedir. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar.
 
 ## Tarihçe
 

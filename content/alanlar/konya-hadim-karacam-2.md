@@ -22,7 +22,7 @@ wikidata_id: "Q108228115"
 
 # Konya-Hadim-Karacam 2
 
-Konya-Hadim-Karacam 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan Konya'nın bir doğa harikasıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin bitki örtüsü ile dikkat çekmektedir. Bu milli park, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başaran önemli bir turizm merkezidir. Konya-Hadim-Karacam 2, doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini büyülemektedir. Milli parkın içinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ayrıca, bu bölge yaban hayatının korunması açısından önemli bir rol oynamaktadır.
+Konya-Hadim-Karacam 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan Konya'nın bir doğa harikasıdır. Bu milli park, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başaran önemli bir turizm merkezidir. Konya-Hadim-Karacam 2, doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini büyülemektedir. Milli parkın içinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ayrıca, bu bölge yaban hayatının korunması açısından önemli bir rol oynamaktadır.
 
 ## Tarihçe
 

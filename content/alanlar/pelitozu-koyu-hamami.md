@@ -1,7 +1,7 @@
 ---
 title: "Pelitözü Köyü Hamamı"
 date: "2026-01-09T23:04:27.816Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738799"
 
 # Pelitözü Köyü Hamamı
 
-Pelitözü Köyü Hamamı, Marmara Bölgesi'nin kalbinde, Bilecik ilinin sınırları içerisinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunar. Bu büyüleyici mekan, ziyaretçilerini doğanın kucağına davet eder ve onları yüzyıllar öncesinin gizemli atmosferine sürükler. Pelitözü Köyü Hamamı, hem tarih hem de doğa severler için bir hazine niteliğindedir. Köye ulaşmak için Bilecik şehir merkezinden uzun bir mesafelik bir yolculuk yapmak gerekir. Bu yolculuk, ziyaretçileri Marmara Bölgesi'nin eşsiz manzaralarıyla baş başa bırakır.
+Pelitözü Köyü Hamamı, Marmara Bölgesi'nin kalbinde, Bilecik ilinin sınırları içerisinde yer alan bir doğa harikasıdır. Bu büyüleyici mekan, ziyaretçilerini doğanın kucağına davet eder ve onları yüzyıllar öncesinin gizemli atmosferine sürükler. Pelitözü Köyü Hamamı, hem tarih hem de doğa severler için bir hazine niteliğindedir. Köye ulaşmak için Bilecik şehir merkezinden uzun bir mesafelik bir yolculuk yapmak gerekir. Bu yolculuk, ziyaretçileri Marmara Bölgesi'nin eşsiz manzaralarıyla baş başa bırakır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Pelitözü Köyü Hamamı, tarihi geçmişi ile dikkat çeker. Bu bölgenin insa
 
 ## Coğrafya
 
-Pelitözü Köyü Hamamı, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerini taşır. 140 hektarlık alan, bölgenin flora ve faunasına ev sahipliği yapar. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. İklim, Marmara Bölgesi'nin ılıman iklimine uygun olarak, dört mevsim yaşanabilirlik sunar. Bölge, doğa yürüyüşleri, pikni ve diğer dış mekan aktiviteleri için ideal bir destinasyon olarak görülebilir. Pelitözü Köyü Hamamı'nın coğrafi konumu, ziyaretçilere, Marmara Bölgesi'nin eşsiz manzaralarını keşfetme fırsatı verir. Köye gelirken, yol boyunca karşılaşılan manzaralar, ziyaretçileri büyüler ve doğanın güzelliğini gözler önüne serer.
+Pelitözü Köyü Hamamı, coğrafi olarak Marmara Bölgesi'nin karakteristik özelliklerini taşır. 140 hektarlık alan, bölgenin flora ve faunasına ev sahipliği yapar. İklim, Marmara Bölgesi'nin ılıman iklimine uygun olarak, dört mevsim yaşanabilirlik sunar. Bölge, doğa yürüyüşleri, pikni ve diğer dış mekan aktiviteleri için ideal bir destinasyon olarak görülebilir. Pelitözü Köyü Hamamı'nın coğrafi konumu, ziyaretçilere, Marmara Bölgesi'nin eşsiz manzaralarını keşfetme fırsatı verir. Köye gelirken, yol boyunca karşılaşılan manzaralar, ziyaretçileri büyüler ve doğanın güzelliğini gözler önüne serer.
 
 ## Flora ve Fauna
 

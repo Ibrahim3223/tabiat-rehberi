@@ -1,7 +1,7 @@
 ---
 title: "Hayme Ana Türbesi"
 date: "2026-01-10T06:00:50.715Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390463"
 
 # Hayme Ana Türbesi
 
-Hayme Ana Türbesi, Kütahya'nın Domaniç ilçesinde yer alan tarihi bir mekan olarak dikkat çekiyor. 140 hektarlık bir alan içerisinde bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir araziyi kaplıyor. Bu mekan, ziyaretçilerini tarihin derinliklerine götürmeye hazırlanıyor. Hayme Ana Türbesi, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak biliniyor. Her yıl binlerce ziyaretçi, bu tarihi mekanın güzelliğini ve önemini keşfetmek için geliyor.
+Hayme Ana Türbesi, Kütahya'nın Domaniç ilçesinde yer alan tarihi bir mekan olarak dikkat çekiyor. Bu mekan, ziyaretçilerini tarihin derinliklerine götürmeye hazırlanıyor. Hayme Ana Türbesi, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak biliniyor. Her yıl binlerce ziyaretçi, bu tarihi mekanın güzelliğini ve önemini keşfetmek için geliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hayme Ana Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve ze
 
 ## Coğrafya
 
-Hayme Ana Türbesi, Kütahya'nın Domaniç ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafyası içerisinde önemli bir yere sahip. Bu türbe, 140 hektarlık bir alan içerisinde bulunur ve yaklaşık 200 futbol sahası büyüklüğünde bir araziyi kaplar. Coğrafi konumu itibariyle, ziyaretçilere güzel manzaralar sunan bu mekan, doğal güzelliği ile dikkat çekiyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna found. Bu mekan, ziyaretçilere hem tarihi hem de doğal güzelliği ile birlikte sunulan bir turizm deneyimi sunuyor. Hayme Ana Türbesi, Kütahya'nın Domaniç ilçesinde önemli bir turizm merkezi olarak biliniyor.
+Hayme Ana Türbesi, Kütahya'nın Domaniç ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafyası içerisinde önemli bir yere sahip. Coğrafi konumu itibariyle, ziyaretçilere güzel manzaralar sunan bu mekan, doğal güzelliği ile dikkat çekiyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna found. Bu mekan, ziyaretçilere hem tarihi hem de doğal güzelliği ile birlikte sunulan bir turizm deneyimi sunuyor. Hayme Ana Türbesi, Kütahya'nın Domaniç ilçesinde önemli bir turizm merkezi olarak biliniyor.
 
 ## Flora ve Fauna
 
@@ -54,4 +54,4 @@ Hayme Ana Türbesi'ni ziyaret etmek, ziyaretçilere güzel bir deneyim sunuyor. 
 - Bu mekan, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak biliniyor.
 - Türbe, 140 hektarlık bir alan içerisinde bulunur.
 - Hayme Ana Türbesi, ziyaretçilerine hem tarihi hem de doğal güzelliği ile birlikte sunulan bir turizm deneyimi sunuyor.
-- Bu mekan, fácil olarak ulaşılabilir ve ziyaret edilebilir.
+- Bu mekan, kolay olarak ulaşılabilir ve ziyaret edilebilir.

@@ -30,7 +30,7 @@ wikidata_id: "Q109803682"
 
 # Tunus Caddesi
 
-Tunus Caddesi, Kavaklıdere'nin merkezinde yer alan ve Ankara'nın önemli caddelerinden biri olan bir bölgedir. Bu cadde, yaklaşık 140 hektarlık bir alan kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Tunus Caddesi, ziyaretçilerine geniş yeşil alanları, çeşitli dükkanları ve restoranları ile keyifli bir atmosfer sunmaktadır. Cadde, özellikle yaz aylarında Ankaranın en popüler mekanlarından biri haline gelmektedir.
+Tunus Caddesi, Kavaklıdere'nin merkezinde yer alan ve Ankara'nın önemli caddelerinden biri olan bir bölgedir. Tunus Caddesi, ziyaretçilerine geniş yeşil alanları, çeşitli dükkanları ve restoranları ile keyifli bir atmosfer sunmaktadır. Cadde, özellikle yaz aylarında Ankaranın en popüler mekanlarından biri haline gelmektedir.
 
 ## Tarihçe
 

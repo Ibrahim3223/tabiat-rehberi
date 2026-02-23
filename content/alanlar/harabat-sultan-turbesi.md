@@ -1,7 +1,7 @@
 ---
 title: "Harabat Sultan Türbesi"
 date: "2026-01-10T07:16:25.421Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390914"
 
 # Harabat Sultan Türbesi
 
-Harabat Sultan Türbesi, Şehzadeler ilçesinde, Manisa'nın güzelliklerini barındıran bir bölgede yer alır. Bu bölge, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi ve doğal güzelliklerin birleştiği bu nokta, ziyaretçilerini kendine çekmeyi başarır. Bölgenin güzelliği, sadece tarihi yapısıyla değil, aynı zamanda çevreyi süsleyen ağaçlar ve bitkilerle de dikkat çeker. Ziyaretçiler, hem tarihi yapıları inceleyerek hem de doğanın güzelliğine tanık olarak, güzel anlar geçirebilirler.
+Harabat Sultan Türbesi, Şehzadeler ilçesinde, Manisa'nın güzelliklerini barındıran bir bölgede yer alır. Tarihi ve doğal güzelliklerin birleştiği bu nokta, ziyaretçilerini kendine çekmeyi başarır. Bölgenin güzelliği, sadece tarihi yapısıyla değil, aynı zamanda çevreyi süsleyen ağaçlar ve bitkilerle de dikkat çeker. Ziyaretçiler, hem tarihi yapıları inceleyerek hem de doğanın güzelliğine tanık olarak, güzel anlar geçirebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Harabat Sultan Türbesi, tarihsel geçmişe sahip bir yapıdır. Tarihi geçmiş
 
 ## Coğrafya
 
-Harabat Sultan Türbesi, Şehzadeler ilçesinde, Manisa'nın güzelliklerini barındıran bir bölgede yer alır. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerini taşır. Bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşur. Harabat Sultan Türbesi'nin bulunduğu alan, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölgede, çeşitli bitki türleri ve ağaçlar bulunur. İklim, genellikle ılımandır ve ziyaretçilere, yılın her döneminde güzel bir atmosfer sunar. Çevre, tarihi yapıların yanı sıra, doğal güzellikleriyle de dikkat çeker. Ziyaretçiler, bu bölgede, hem tarihi yapıları inceleyerek hem de doğanın güzelliğine tanık olarak, güzel anlar geçirebilirler.
+Harabat Sultan Türbesi, Şehzadeler ilçesinde, Manisa'nın güzelliklerini barındıran bir bölgede yer alır. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerini taşır. Bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşur. Bu bölgede, çeşitli bitki türleri ve ağaçlar bulunur. İklim, genellikle ılımandır ve ziyaretçilere, yılın her döneminde güzel bir atmosfer sunar. Çevre, tarihi yapıların yanı sıra, doğal güzellikleriyle de dikkat çeker. Ziyaretçiler, bu bölgede, hem tarihi yapıları inceleyerek hem de doğanın güzelliğine tanık olarak, güzel anlar geçirebilirler.
 
 ## Flora ve Fauna
 

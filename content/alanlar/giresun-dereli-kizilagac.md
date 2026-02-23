@@ -22,7 +22,7 @@ wikidata_id: "Q108227749"
 
 # Giresun-Dereli Kizilagac
 
-Giresun-Dereli Kizilagac milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Burası, hem doğa severlerin hem de huzur arayanların tercih ettiği bir destinasyon. Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, doğanın içinde yürüyüş yapabilir, piknik yapabilir veya sadece doğanın seslerini dinleyerek huzur bulabilir.
+Giresun-Dereli Kizilagac milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Burası, hem doğa severlerin hem de huzur arayanların tercih ettiği bir destinasyon. Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, doğanın içinde yürüyüş yapabilir, piknik yapabilir veya sadece doğanın seslerini dinleyerek huzur bulabilir.
 
 ## Tarihçe
 

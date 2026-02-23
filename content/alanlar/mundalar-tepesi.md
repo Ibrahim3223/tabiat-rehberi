@@ -28,11 +28,11 @@ wikidata_id: "Q31389618"
 
 # Mundalar Tepesi
 
-Mundalar Tepesi, Kastamonu'nun merkezinde yer alan ve şehrin panoramik manzarasını sunan bir tepe olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli bir bölümünü kapsar. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi ve kültürel mirası sunan bir destinasyon olarak dikkat çeker. Kastamonu'nun şehir merkezine yakın konumu ve ulaşılabilirliği, bu tepeyi gezmek isteyenler için büyük bir avantaj oluşturur.
+Mundalar Tepesi, Kastamonu'nun merkezinde yer alan ve şehrin panoramik manzarasını sunan bir tepe olarak bilinir. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi ve kültürel mirası sunan bir destinasyon olarak dikkat çeker. Kastamonu'nun şehir merkezine yakın konumu ve ulaşılabilirliği, bu tepeyi gezmek isteyenler için büyük bir avantaj oluşturur.
 
 ## Tarihçe
 
-Mundalar Tepesi'nin tarihi geçmişi, Kastamonu'nun tarihi ile iç içe geçmiş durumdadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin etkilerini taşımıştır. Tepenin eteklerinde ve çevresinde yer alan tarihi yapılar ve kalıntılar, bu bölgenin zengin tarihini gözler önüne serer. Kastamonu'nun kültürel mirasının önemli bir parçası olan Mundalar Tepesi, ziyaretçilerine hem tarihsel bilgiler hem de kültürel zenginlikler sunar. Tepenin tarihi geçmişi, Kastamonu'nun história boyunca yaşadığı olayları ve medeniyetlerin izlerini taşımasıyla önemli bir kaynak olarak kabul edilir.
+Mundalar Tepesi'nin tarihi geçmişi, Kastamonu'nun tarihi ile iç içe geçmiş durumdadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin etkilerini taşımıştır. Tepenin eteklerinde ve çevresinde yer alan tarihi yapılar ve kalıntılar, bu bölgenin zengin tarihini gözler önüne serer. Kastamonu'nun kültürel mirasının önemli bir parçası olan Mundalar Tepesi, ziyaretçilerine hem tarihsel bilgiler hem de kültürel zenginlikler sunar. Tepenin tarihi geçmişi, Kastamonu'nun tarihi boyunca yaşadığı olayları ve medeniyetlerin izlerini taşımasıyla önemli bir kaynak olarak kabul edilir.
 
 ## Coğrafya
 

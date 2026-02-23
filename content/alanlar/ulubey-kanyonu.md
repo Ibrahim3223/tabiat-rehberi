@@ -30,7 +30,7 @@ wikidata_id: "Q12812366"
 
 # Ulubey Kanyonu
 
-Uşak'ın Ulubey ilçesinde, doğal güzellikleri ile dikkat çeken bir bölge bulunuyor. Bu bölgede, Ulubey Kanyonu gibi yerler, ziyaretçilerini büyüleyen bir doğa harikası sunuyor. İlçe merkezine yakın konumuyla kolay ulaşılabilir olan kanyon, Uşak'ın turizm potansiyelini artırıyor. Doğal güzelliği ve tarihi değerleriyle dikkat çeken Ulubey Kanyonu, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Uşak'ın Ulubey ilçesinde, doğal güzellikleri ile dikkat çeken bir bölge bulunuyor. Bu bölgede, Ulubey Kanyonu gibi yerler, ziyaretçilerini büyüleyen bir doğa harikası sunuyor. İlçe merkezine yakın konumuyla kolay ulaşılabilir olan kanyon, Uşak'ın turizm potansiyelini artırıyor.
 
 ## Tarihçe
 

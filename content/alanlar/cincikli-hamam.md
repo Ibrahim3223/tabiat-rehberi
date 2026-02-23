@@ -1,7 +1,7 @@
 ---
 title: "Cıncıklı Hamam"
 date: "2026-01-09T23:07:42.223Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -29,11 +29,11 @@ wikidata_id: "Q131738902"
 
 # Cıncıklı Hamam
 
-Cıncıklı Hamam, Şanlıurfa'nın Eyyübiye ilçesinde bulunan ve Güneydoğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliktir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu plaj, bölgeye özgü bitki türleri ve zengin fauna ile çevrilidir. Cıncıklı Hamam, hem yerel halk hem de turistler için bir çekim merkezi haline gelmiştir. Burada, güneşin tadını çıkarabilir, serin suların keyfini sürebilir ve doğanın güzelliğini keşfedebilirsiniz.
+Cıncıklı Hamam, Şanlıurfa'nın Eyyübiye ilçesinde bulunan ve Güneydoğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliktir. Bu plaj, bölgeye özgü bitki türleri ve zengin fauna ile çevrilidir. Cıncıklı Hamam, hem yerel halk hem de turistler için bir çekim merkezi haline gelmiştir. Burada, güneşin tadını çıkarabilir, serin suların keyfini sürebilir ve doğanın güzelliğini keşfedebilirsiniz.
 
 ## Tarihçe
 
-Cıncıklı Hamam'ın tarihi geçmişi, bölgeye yerleşimlerin başladığı dönemlere kadar uzanır. Bu bölgede, yüzyıllar boyunca çeşitli medeniyetler hüküm sürmüş ve her biri bu topraklara kendi kültürlerini ve miraslarını bırakmıştır. Cıncıklı Hamam, bu zengin tarihî geçmişin bir parçası olarak, ziyaretçilerine hem doğanın güzelliklerini hem de tarihin izlerini sunar. Bu plaj, geçmişte bölgenin önemli bir ticaret merkezi olması dolayısıyla, birçok seyahatçinin ve tüccarın uğrak noktası olmuştur. Cıncıklı Hamam, günümüzde de geçmişin izlerini taşıyan ve ziyaretçilerini tarihin sâu sayfalarına götüren bir yerdir.
+Cıncıklı Hamam'ın tarihi geçmişi, bölgeye yerleşimlerin başladığı dönemlere kadar uzanır. Bu bölgede, yüzyıllar boyunca çeşitli medeniyetler hüküm sürmüş ve her biri bu topraklara kendi kültürlerini ve miraslarını bırakmıştır. Cıncıklı Hamam, bu zengin tarihî geçmişin bir parçası olarak, ziyaretçilerine hem doğanın güzelliklerini hem de tarihin izlerini sunar. Bu plaj, geçmişte bölgenin önemli bir ticaret merkezi olması dolayısıyla, birçok seyahatçinin ve tüccarın uğrak noktası olmuştur. Cıncıklı Hamam, günümüzde de geçmişin izlerini taşıyan ve ziyaretçilerini tarihin derin sayfalarına götüren bir yerdir.
 
 ## Coğrafya
 

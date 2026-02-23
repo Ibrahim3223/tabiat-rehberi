@@ -23,7 +23,7 @@ wikidata_id: "Q108228026"
 
 # Örümcek Ormani Goknari 2
 
-Örümcek Ormani Goknari 2, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli park, aynı zamanda doğa yürüyüşleri ve fotoğrafçılık için ideal bir yerdir. Doğa severler, buradaki eşsiz manzaralar ve canlı çeşitliliği ile karşılaşarak unutulmaz anlar yaşayabilirler.
+Örümcek Ormani Goknari 2, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli park, aynı zamanda doğa yürüyüşleri ve fotoğrafçılık için ideal bir yerdir. Doğa severler, buradaki eşsiz manzaralar ve canlı çeşitliliği ile karşılaşarak unutulmaz anlar yaşayabilirler.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31386403"
 
 # Belen Tepe
 
-Kilis'in tarihi ve doğal güzellikleri arasında yer alan Belen Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Belen Tepe, Kilis'in merkezine yakınlığı ile dikkat çekiyor ve ziyaretçilerine şehrin kalabalığından uzaklaşarak doğayla iç içe bir deneyim sunuyor. Belen Tepe, aynı zamanda tarihi geçmişi ile de dikkat çekiyor ve ziyaretçilerine Kilis'in geçmişini keşfetme fırsatı sunuyor.
+Kilis'in tarihi ve doğal güzellikleri arasında yer alan Belen Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Belen Tepe, Kilis'in merkezine yakınlığı ile dikkat çekiyor ve ziyaretçilerine şehrin kalabalığından uzaklaşarak doğayla iç içe bir deneyim sunuyor. Belen Tepe, aynı zamanda tarihi geçmişi ile de dikkat çekiyor ve ziyaretçilerine Kilis'in geçmişini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "İlyas Bey Küçük Hamamı"
 date: "2026-01-09T22:30:51.453Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738672"
 
 # İlyas Bey Küçük Hamamı
 
-İlyas Bey Küçük Hamamı, Didim'in merkezinde yer alan ve hem tarihi hem de doğal güzellikleriyle dikkat çeken bir plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en önemli turizm merkezlerinden biri olarak bilinir. İlyas Bey Küçük Hamamı, ziyaretçilerine hem tarihi bir kültürel deneyim hem de doğal güzellikler sunar. Didim'in merkezinde yer alan bu plaj, kolay ulaşılabilirlik avantajına sahiptir.
+İlyas Bey Küçük Hamamı, Didim'in merkezinde yer alan ve hem tarihi hem de doğal güzellikleriyle dikkat çeken bir plajdır. İlyas Bey Küçük Hamamı, ziyaretçilerine hem tarihi bir kültürel deneyim hem de doğal güzellikler sunar. Didim'in merkezinde yer alan bu plaj, kolay ulaşılabilirlik avantajına sahiptir.
 
 ## Tarihçe
 

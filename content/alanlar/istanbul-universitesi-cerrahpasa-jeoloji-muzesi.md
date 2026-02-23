@@ -1,7 +1,7 @@
 ---
 title: "İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi"
 date: "2026-01-10T15:23:11.973Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q77781633"
 
 # İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi
 
-İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi, Avcılar'da yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir coğrafya ve jeoloji bilgisi sunmaktadır. Müze, coğrafya ve jeoloji meraklıları için önemli bir destinasyon olarak kabul edilmektedir. Ziyaretçiler, burada coğrafya ve jeoloji ile ilgili çeşitli eserler ve sergiler görebilmektedirler.
+İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi, Avcılar'da yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Müze, coğrafya ve jeoloji meraklıları için önemli bir destinasyon olarak kabul edilmektedir. Ziyaretçiler, burada coğrafya ve jeoloji ile ilgili çeşitli eserler ve sergiler görebilmektedirler.
 
 ## Tarihçe
 

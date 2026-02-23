@@ -22,7 +22,7 @@ wikidata_id: "Q108227529"
 
 # Kutahya-Simav-Alasogut Karacam
 
-Kutahya-Simav-Alasogut Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna ile dolu bir cennettir. Milli parkın hikayesi, yüzyıllar boyunca süregelen bir doğa koruma çabasıyla başlar. Bugün, bu alan, doğa severler için bir hazine ve İç Anadolu Bölgesi'nin gizli cenneti olarak kabul edilir.
+Kutahya-Simav-Alasogut Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Milli parkın hikayesi, yüzyıllar boyunca süregelen bir doğa koruma çabasıyla başlar. Bugün, bu alan, doğa severler için bir hazine ve İç Anadolu Bölgesi'nin gizli cenneti olarak kabul edilir.
 
 ## Tarihçe
 

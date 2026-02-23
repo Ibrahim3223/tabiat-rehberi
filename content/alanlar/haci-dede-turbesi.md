@@ -1,7 +1,7 @@
 ---
 title: "Hacı Dede Türbesi"
 date: "2026-01-10T05:48:54.859Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391769"
 
 # Hacı Dede Türbesi
 
-Hacı Dede Türbesi, Kastamonu'nun merkezinde yer alan ve tarihi ile doğal güzellikleri birleştiren özel bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir faaliyet alanı sunuyor. Hacı Dede Türbesi, Kastamonu'nun zengin tarihi geçmişini yansıtan önemli bir mekan. Tarihi değerlerinin yanı sıra, natural güzellikleri de ziyaretçileri kendine çekiyor. Bu mekan, hem tarih severlerin hem de doğaşığıların keyifle zaman geçirebileceği bir destinasyon.
+Hacı Dede Türbesi, Kastamonu'nun merkezinde yer alan ve tarihi ile doğal güzellikleri birleştiren özel bir nokta. Hacı Dede Türbesi, Kastamonu'nun zengin tarihi geçmişini yansıtan önemli bir mekan. Tarihi değerlerinin yanı sıra, natural güzellikleri de ziyaretçileri kendine çekiyor. Bu mekan, hem tarih severlerin hem de doğaşığıların keyifle zaman geçirebileceği bir destinasyon.
 
 ## Tarihçe
 

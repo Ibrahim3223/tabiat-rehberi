@@ -1,7 +1,7 @@
 ---
 title: "Kefilhamam Tepesi"
 date: "2026-01-10T12:28:04.554Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Mardin"
@@ -28,7 +28,7 @@ wikidata_id: "Q31551427"
 
 # Kefilhamam Tepesi
 
-Kefilhamam Tepesi, Mardin'in eşsiz doğal güzelliği ve tarihi birikimiyle dikkat çeken bir alandır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak öne çıkıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Kefilhamam Tepesi, ziyaretçilerine hem Mardin'in tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor hem de doğa severlerin keyif alabileceği bir ortam sunuyor.
+Kefilhamam Tepesi, Mardin'in eşsiz doğal güzelliği ve tarihi birikimiyle dikkat çeken bir alandır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak öne çıkıyor. Kefilhamam Tepesi, ziyaretçilerine hem Mardin'in tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor hem de doğa severlerin keyif alabileceği bir ortam sunuyor.
 
 ## Tarihçe
 

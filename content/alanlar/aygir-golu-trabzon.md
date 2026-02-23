@@ -30,7 +30,7 @@ wikidata_id: "Q20471086"
 
 # Aygır Gölü (Trabzon)
 
-Trabzon'un doğal güzelliklerini keşfetmek isteyenler için Aygır Gölü, bir huzur cenneti olarak karşımıza çıkıyor. Kars ve Trabzon arasında konumlanan bu göl, doğaseverler için önemli bir destinasyon. Trabzon'un yeşilliği ve Kars'ın serin havasının birleştiği bu noktada, Aygır Gölü'nün sakin suları ziyaretçilerini bekliyor. 
+Trabzon'un doğal güzelliklerini keşfetmek isteyenler için Aygır Gölü, bir huzur cenneti olarak karşımıza çıkıyor. Kars ve Trabzon arasında konumlanan bu göl, doğaseverler için önemli bir destinasyon. Trabzon'un yeşilliği ve Kars'ın serin havasının birleştiği bu noktada, Aygır Gölü'nün sakin suları ziyaretçilerini bekliyor.
 Aygır Gölü'nün çevresindeki manzaralar, doğanın güzelliğini gözler önüne seriyor.
 
 ## Tarihçe
@@ -57,7 +57,7 @@ Aygır Gölü, Trabzon'un step bitki örtüsü ve bozkır ekosistemine ev sahipl
 
 Gölün yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Su kuşları, balıklar ve diğer su canlılarıyla birlikte, bu ekosistemin önemli bileşenlerini oluşturur. Sonbaharda, göç eden kuşlar gölde konaklar ve beslenir, bu da bu bölgeyi önemli bir ekolojik merkez haline getirir.
 
-Aygır Gölü, bölgenin ekolojik dengesini korumak için kritik bir role sahiptir. Göl, su kuşları ve diğer canlılar için bir yaşam alanı sunarken, aynı zamanda bölgenin su döngüsünü düzenler. Bu nedenle, Aygır Gölü'nün korunması ve bảolanması büyük önem taşır.
+Aygır Gölü, bölgenin ekolojik dengesini korumak için kritik bir role sahiptir. Göl, su kuşları ve diğer canlılar için bir yaşam alanı sunarken, aynı zamanda bölgenin su döngüsünü düzenler. Bu nedenle, Aygır Gölü'nün korunması ve korunması büyük önem taşır.
 
 ## Ziyaret Bilgileri
 

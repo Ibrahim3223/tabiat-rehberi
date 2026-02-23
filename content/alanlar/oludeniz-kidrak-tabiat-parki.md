@@ -29,7 +29,7 @@ wikidata_id: "Q61075941"
 
 # Ölüdeniz-Kıdrak Tabiat Parkı
 
-Ölüdeniz-Kıdrak Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir doğa harikasıdır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin ve macera arayışındaki kişilerin ziyaret etmesi gereken bir yerdir. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini göstermektedir. Bu bölge, yaban hayatı koruma altına almak amacıyla kurulmuş ve günümüzde önemli bir turizm merkezi haline gelmiştir. Parkın güzelliği ve önemi, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
+Ölüdeniz-Kıdrak Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir doğa harikasıdır. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini göstermektedir. Bu bölge, yaban hayatı koruma altına almak amacıyla kurulmuş ve günümüzde önemli bir turizm merkezi haline gelmiştir. Parkın güzelliği ve önemi, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q61075941"
 
 ## Coğrafya
 
-Ölüdeniz-Kıdrak Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Park, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, çeşitli bitki türleri ve zengin fauna ile doludur. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim, parkın doğal güzelliğini etkilemektedir. Parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunmakta ve doğal güzelliğini göstermektedir. Ölüdeniz-Kıdrak Tabiat Parkı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini göstermektedir.
+Ölüdeniz-Kıdrak Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu bölge, çeşitli bitki türleri ve zengin fauna ile doludur. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim, parkın doğal güzelliğini etkilemektedir. Parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunmakta ve doğal güzelliğini göstermektedir. Ölüdeniz-Kıdrak Tabiat Parkı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini göstermektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ wikidata_id: "Q61075941"
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
 - Park, çeşitli bitki türleri ve zengin fauna ile doludur.
 - Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahiptir.
 - Parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunmakta ve doğal güzelliğini göstermektedir.

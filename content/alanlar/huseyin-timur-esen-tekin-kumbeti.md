@@ -37,7 +37,7 @@ Hüseyin Timur-Esen Tekin Kümbeti'nin tarihi geçmişi, yüzyıllar boyunca çe
 
 ## Coğrafya
 
-Hüseyin Timur-Esen Tekin Kümbeti, Doğu Anadolu Bölgesi'nin Ahlat/Bitlis ilçesinde bulunmaktadır. Bu bölge, coğrafi açıdan zengin bir çeşitlilik taşımaktadır. Surroundingsı doğal güzellikler, tarihi yapılar ve kültürel miras ile birlikte düşünüldüğünde, Hüseyin Timur-Esen Tekin Kümbeti'nin coğrafi konumu büyük bir önem taşımaktadır. 140 hektarlık bir alan üzerinde yer alan bu kümbet, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Coğrafi açıdan önemli olan bu bölge, ziyaretçilerine doğa ve tarih arasında bir denge sunmaktadır. İklimi, coğrafi yapısı ve doğal güzellikleri ile birlikte, Hüseyin Timur-Esen Tekin Kümbeti, ziyaretçilerini büyülemekte ve tarihin derinliklerine götürmektedir.
+Hüseyin Timur-Esen Tekin Kümbeti, Doğu Anadolu Bölgesi'nin Ahlat/Bitlis ilçesinde bulunmaktadır. Bu bölge, coğrafi açıdan zengin bir çeşitlilik taşımaktadır. Surroundingsı doğal güzellikler, tarihi yapılar ve kültürel miras ile birlikte düşünüldüğünde, Hüseyin Timur-Esen Tekin Kümbeti'nin coğrafi konumu büyük bir önem taşımaktadır. Coğrafi açıdan önemli olan bu bölge, ziyaretçilerine doğa ve tarih arasında bir denge sunmaktadır. İklimi, coğrafi yapısı ve doğal güzellikleri ile birlikte, Hüseyin Timur-Esen Tekin Kümbeti, ziyaretçilerini büyülemekte ve tarihin derinliklerine götürmektedir.
 
 ## Flora ve Fauna
 

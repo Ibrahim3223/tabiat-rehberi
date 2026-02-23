@@ -29,7 +29,7 @@ wikidata_id: "Q6023471"
 
 # Bodrum Antik Tiyatrosu
 
-Bodrum Antik Tiyatrosu, Muğla'nın Bodrum ilçesinde yer alan ve tarihin derinliklerine uzanan bir antik tiyatro olarak dikkat çekiyor. Bu tarihi yapı, yaklaşık 13.000 kişi kapasiteli olarak tasarlanmış ve antik dönemden kalan önemli bir kültür mirası olarak kabul ediliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve ziyaretçilerini Ege Bölgesi'nin tarihi güzellikleriyle baş başa bırakıyor. Bodrum Antik Tiyatrosu, özellikle tiyatro ve tarih meraklıları için önemli bir gezi noktası olarak bekannt.
+Bodrum Antik Tiyatrosu, Muğla'nın Bodrum ilçesinde yer alan ve tarihin derinliklerine uzanan bir antik tiyatro olarak dikkat çekiyor. Bu tarihi yapı, yaklaşık 13.000 kişi kapasiteli olarak tasarlanmış ve antik dönemden kalan önemli bir kültür mirası olarak kabul ediliyor. Bodrum Antik Tiyatrosu, özellikle tiyatro ve tarih meraklıları için önemli bir gezi noktası olarak bekannt.
 
 ## Tarihçe
 

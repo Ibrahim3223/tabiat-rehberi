@@ -32,7 +32,7 @@ Erzurum'un büyüleyici dağ manzaraları arasında yer alan Kuruca Dağ, bölge
 
 ## Tarihçe
 
-Erzurum'un Kuruca Dağ bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölge, binlerce yıl önce, Hitit, Urartu ve Roma uygarlıklarının yaşadığı topraklardır. Kuruca Dağ, bu uygarlıkların ticaret yolları ve göç rotaları üzerinde bulunması nedeniyle, tarihi olayların merkezi olmuştur.
+Erzurum'un Kuruca Dağ bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, binlerce yıl önce, Hitit, Urartu ve Roma uygarlıklarının yaşadığı topraklardır. Kuruca Dağ, bu uygarlıkların ticaret yolları ve göç rotaları üzerinde bulunması nedeniyle, tarihi olayların merkezi olmuştur.
 
 Türkiye'de, Kuruca Dağ gibi doğal alanlar, tarih boyunca insanların yaşamını etkileyen önemli merkezler olarak görülmüştür. Bu alanlar, insanlara yaşam kaynağı olan su, bitkiler ve hayvanlar sağlayarak, bölgenin ekonomi ve sosyal yapısını şekillendirmişlerdir. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların temel geçim kaynaklarından biri olmuştur.
 

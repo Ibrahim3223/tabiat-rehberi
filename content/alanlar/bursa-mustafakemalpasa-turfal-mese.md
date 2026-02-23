@@ -22,7 +22,7 @@ wikidata_id: "Q108227703"
 
 # Bursa-Mustafakemalpaşa-Turfal Mese
 
-Bursa-Mustafakemalpaşa-Turfal Mese, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içesinde bir macera bekliyor. Bu bölge, hem a severler hem de doğa fotoğrafçıları için bir cennet. Doğal güzellikleri, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Bursa-Mustafakemalpaşa-Turfal Mese, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çekiyor.
+Bursa-Mustafakemalpaşa-Turfal Mese, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu bölge, hem a severler hem de doğa fotoğrafçıları için bir cennet. Doğal güzellikleri, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Bursa-Mustafakemalpaşa-Turfal Mese, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-Turfal Mese'nin tarihi geçmişi, yüzyıllar boyunca ş
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-Turfal Mese, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, bu bölge çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklim olarak, bu bölge Marmara Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Bahar aylarında, bu bölgede çeşitli bitki türleri açıyor ve ziyaretçilerini doğanın renkleri ile karşılıyor. Kış aylarında, bu bölge karla kaplanıyor ve ziyaretçilerine bir kış masalı sunuyor. Bu bölgenin coğrafi özellikleri, ziyaretçilerini doğanın içesinde bir macera bekliyor.
+Bursa-Mustafakemalpaşa-Turfal Mese, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Coğrafi olarak, bu bölge çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklim olarak, bu bölge Marmara Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Bahar aylarında, bu bölgede çeşitli bitki türleri açıyor ve ziyaretçilerini doğanın renkleri ile karşılıyor. Kış aylarında, bu bölge karla kaplanıyor ve ziyaretçilerine bir kış masalı sunuyor. Bu bölgenin coğrafi özellikleri, ziyaretçilerini doğanın içesinde bir macera bekliyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Bursa-Mustafakemalpaşa-Turfal Mese, ziyaretçilerini bekliyor. Bu bölgeye ula�
 ## İlginç Bilgiler
 
 - Bursa-Mustafakemalpaşa-Turfal Mese, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir.
-- Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bu bölgenin flora ve fauna özellikleri, ziyaretçilerini doğanın içesinde bir macera bekliyor.
 - Ziyaretçiler, bu bölgede çeşitli hayvan türleri ile karşılaşabilir ve doğanın güzelliklerini gözlemleyebilirler.
 - Bursa-Mustafakemalpaşa-Turfal Mese, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çekiyor.

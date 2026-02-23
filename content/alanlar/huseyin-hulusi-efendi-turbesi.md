@@ -1,7 +1,7 @@
 ---
 title: "Hüseyin Hulusi Efendi Türbesi"
 date: "2026-01-10T06:50:32.167Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"

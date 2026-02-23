@@ -28,7 +28,7 @@ wikidata_id: "Q34873290"
 
 # Güneydilek Tepesi
 
-Güneydilek Tepesi, Siirt'in güzel tepelerinden biri olarak 140 hektarlık geniş bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakında bulunuyor. Güneydilek Tepesi, hem şehrin güzelliğini görmek hem de doğanın tadını çıkarmak isteyenler için ideal bir destinasyon. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanı daha da özel kılıyor.
+Güneydilek Tepesi, Siirt'in güzel tepelerinden biri olarak 140 hektarlık geniş bir alanı kapsıyor. Güneydilek Tepesi, hem şehrin güzelliğini görmek hem de doğanın tadını çıkarmak isteyenler için ideal bir destinasyon. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanı daha da özel kılıyor.
 
 ## Tarihçe
 

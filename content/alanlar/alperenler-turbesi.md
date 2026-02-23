@@ -1,7 +1,7 @@
 ---
 title: "Alperenler Türbesi"
 date: "2026-01-10T07:07:33.855Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kars"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390853"
 
 # Alperenler Türbesi
 
-Alperenler Türbesi, Kars ilinin merkezinde yer alan tarihi ve doğal güzelliklerin birleştiği özel bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve kültürel zenginliklerle karşılayacak bir güzergah sunuyor. Bu alan, hem doğal güzellikleri hem de tarihi yapılarıyla ziyaretçilerini bekliyor. Alperenler Türbesi, Kars'ın önemli turizm noktalarından biri olarak dikkat çekiyor ve ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Alperenler Türbesi, Kars ilinin merkezinde yer alan tarihi ve doğal güzelliklerin birleştiği özel bir nokta. Bu alan, hem doğal güzellikleri hem de tarihi yapılarıyla ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Alperenler Türbesi, Kars ilinin merkezinde yer alıyor. Bu bölge, Doğu Anadol
 
 ## Flora ve Fauna
 
-Alperenler Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri yetişiyor. İlkbahar ve yaz aylarında, régiondaki flora, ziyaretçilere renkli bir manzara sunuyor. Alperenler Türbesi'nin etrafındaki fauna, farklı hayvan türlerini barındırıyor. Bu bölge, özellikle kuş gözlemcileri için önemli bir nokta olarak kabul ediliyor. Alperenler Türbesi, ziyaretçilere doğal güzellikleri ve zengin ekolojiyi keşfetme fırsatı sunuyor.
+Alperenler Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri yetişiyor. İlkbahar ve yaz aylarında, bölgedeki flora, ziyaretçilere renkli bir manzara sunuyor. Alperenler Türbesi'nin etrafındaki fauna, farklı hayvan türlerini barındırıyor. Bu bölge, özellikle kuş gözlemcileri için önemli bir nokta olarak kabul ediliyor. Alperenler Türbesi, ziyaretçilere doğal güzellikleri ve zengin ekolojiyi keşfetme fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 

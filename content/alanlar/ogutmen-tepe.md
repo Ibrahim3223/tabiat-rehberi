@@ -28,7 +28,7 @@ wikidata_id: "Q34829903"
 
 # Öğütmen Tepe
 
-Öğütmen Tepe, Muğla'nın Ege Bölgesi'nde bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Öğütmen Tepe, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepe, Ege Bölgesi'nin en önemli noktalarından biri ve manzarası ile görenleri büyülüyor. Öğütmen Tepe, hem doğa severler hem de tarih meraklıları için bir cazibe merkezi.
+Öğütmen Tepe, Muğla'nın Ege Bölgesi'nde bulunan bir tepe. Öğütmen Tepe, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepe, Ege Bölgesi'nin en önemli noktalarından biri ve manzarası ile görenleri büyülüyor. Öğütmen Tepe, hem doğa severler hem de tarih meraklıları için bir cazibe merkezi.
 
 ## Tarihçe
 

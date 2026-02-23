@@ -1,7 +1,7 @@
 ---
 title: "Erimtan Arkeoloji ve Sanat Müzesi"
 date: "2026-01-10T15:22:13.902Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q56435626"
 
 # Erimtan Arkeoloji ve Sanat Müzesi
 
-Erimtan Arkeoloji ve Sanat Müzesi, Ankara'nın kalbinde yer alan bir kültür merkezi olarak dikkat çekiyor. İç Anadolu Bölgesi'nin zengin tarihi ve sanatsal birikimini yansıtan bu müze, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Müzenin kuruluş amacı, Ankara ve çevresinde bulunan tarihi eserlerin korunması, sergilenmesi ve tanıtılması olarak belirlenmiştir. Bu amaçla, müze koleksiyonunda yer alan eserler, ziyaretçilere bölgenin zengin kültürel mirasını tanıtmak için düzenlenmiştir.
+Erimtan Arkeoloji ve Sanat Müzesi, Ankara'nın kalbinde yer alan bir kültür merkezi olarak dikkat çekiyor. İç Anadolu Bölgesi'nin zengin tarihi ve sanatsal birikimini yansıtan bu müze, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Müzenin kuruluş amacı, Ankara ve çevresinde bulunan tarihi eserlerin korunması, sergilenmesi ve tanıtılması olarak belirlenmiştir. Bu amaçla, müze koleksiyonunda yer alan eserler, ziyaretçilere bölgenin zengin kültürel mirasını tanıtmak için düzenlenmiştir.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228747"
 
 # ARTOVA
 
-İç Anadolu Bölgesi'nde yer alan Artova milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Artova milli parkı, hem doğa severler hem de bilim insanları için önemli bir destinasyon olarak kabul ediliyor. Parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Artova milli parkı, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir milli park olarak dikkat çekiyor.
+ Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Artova milli parkı, hem doğa severler hem de bilim insanları için önemli bir destinasyon olarak kabul ediliyor. Parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Artova milli parkı, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir milli park olarak dikkat çekiyor.
 
 ## Tarihçe
 

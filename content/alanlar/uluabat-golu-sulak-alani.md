@@ -22,7 +22,7 @@ wikidata_id: "Q108228823"
 
 # Uluabat Gölü Sulak Alanı
 
-Uluabat Gölü Sulak Alanı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini korumada önemli bir rol oynuyor. Bu sulak alan, hem yerli hem de yabancı birçok canlıya ev sahipliği yapıyor ve doğa severler için bir cennet niteliğinde. Gölün etrafındaki yürüyüş yolları ve piknik alanları, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Uluabat Gölü Sulak Alanı, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel önemiyle de dikkat çekiyor.
+Uluabat Gölü Sulak Alanı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu sulak alan, hem yerli hem de yabancı birçok canlıya ev sahipliği yapıyor ve doğa severler için bir cennet niteliğinde. Gölün etrafındaki yürüyüş yolları ve piknik alanları, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Uluabat Gölü Sulak Alanı, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel önemiyle de dikkat çekiyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Türkistanlı Mencik Baba Türbesi"
 date: "2026-01-10T05:38:16.565Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilikya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391775"
 
 # Türkistanlı Mencik Baba Türbesi
 
-Türkistanlı Mencik Baba Türbesi, İç Anadolu Bölgesi'nin Tarsus ilçesinde, Kilikya bölgesinde yer alan tarihi bir mekan. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış olmasıyla dikkat çeker. 140 hektarlık bir alana yayılan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Burada bulunan türbe, önemli bir tarihi yapı olarak karşımıza çıkıyor. Türkistanlı Mencik Baba Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar.
+Türkistanlı Mencik Baba Türbesi, İç Anadolu Bölgesi'nin Tarsus ilçesinde, Kilikya bölgesinde yer alan tarihi bir mekan. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış olmasıyla dikkat çeker. Burada bulunan türbe, önemli bir tarihi yapı olarak karşımıza çıkıyor. Türkistanlı Mencik Baba Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Türkistanlı Mencik Baba Türbesi'nin tarihi geçmişi, yüzyıllar önce bör�
 
 ## Coğrafya
 
-Türkistanlı Mencik Baba Türbesi, Tarsus'un Kilikya bölgesinde yer alır. Bu bölge, coğrafi olarak çeşitli özelliklere sahiptir. Denize yakın olması, iklimini etkiler. Burada bulunan türbe, doğal bir alan içerisinde yer alır. Bölgenin coğrafyası, ziyaretçilere güzel manzaralar sunar. Türkistanlı Mencik Baba Türbesi'nin bulunduğu alan, 140 hektarlık bir büyüklüğe sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Burada bulunan doğal güzellikler, ziyaretçilerin ilgisini çeker. Türkistanlı Mencik Baba Türbesi, coğrafi olarak güzel bir bölgede yer alır.
+Türkistanlı Mencik Baba Türbesi, Tarsus'un Kilikya bölgesinde yer alır. Bu bölge, coğrafi olarak çeşitli özelliklere sahiptir. Denize yakın olması, iklimini etkiler. Burada bulunan türbe, doğal bir alan içerisinde yer alır. Bölgenin coğrafyası, ziyaretçilere güzel manzaralar sunar. Türkistanlı Mencik Baba Türbesi'nin bulunduğu alan, 140 hektarlık bir büyüklüğe sahiptir. Burada bulunan doğal güzellikler, ziyaretçilerin ilgisini çeker. Türkistanlı Mencik Baba Türbesi, coğrafi olarak güzel bir bölgede yer alır.
 
 ## Flora ve Fauna
 

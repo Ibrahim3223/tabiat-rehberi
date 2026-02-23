@@ -32,7 +32,7 @@ Trabzon'un verde bürünmüş dağ silsilesi arasında gizlenen Ayva Dağı, şe
 
 ## Tarihçe
 
-Trabzon'un doğusunda yer alan Ayva Dağı, tarihin sâu izlerini taşıyan bir bölgede bulunmaktadır. Bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Pontus Krallığı, Roma İmparatorluğu ve Osmanlı İmparatorluğu gibi büyük devletler, bu coğrafyada etkinlik göstermişlerdir. Bu uygarlıkların izleri, bölgenin kültürel ve tarihi zenginliğine katkıda bulunmuştur.
+Trabzon'un doğusunda yer alan Ayva Dağı, tarihin derin izlerini taşıyan bir bölgede bulunmaktadır. Bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Pontus Krallığı, Roma İmparatorluğu ve Osmanlı İmparatorluğu gibi büyük devletler, bu coğrafyada etkinlik göstermişlerdir. Bu uygarlıkların izleri, bölgenin kültürel ve tarihi zenginliğine katkıda bulunmuştur.
 
 Doğal alanlar, Türkiye'nin tarihsel geçmişinde önemli bir yer tutmaktadır. Bu alanlar, insanların yerleşim, tarım, hayvancılık ve ticaret faaliyetleri için sempre önemli olmuştur. Ayva Dağı gibi dağlık bölgeler, yaylacılık ve hayvancılık için elverişli koşullar sunmaktadır. Ayrıca, bölgeden geçen tarihi ticaret yolları, bu doğal alanların ekonomik önemini artırmıştır. İnsanların bu alanlarla ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal açıdan da önemlidir. Bu doğal alanlar, insanların yaşam tarzlarını, geleneklerini vefolklorunu şekillendirmiştir.
 
@@ -48,7 +48,7 @@ Jeolojik açıdan bakıldığında, Ayva Dağı'nın coğrafi yapısı oldukça 
 
 ## Flora ve Fauna
 
-Ayva Dağı, Trabzon'un nemli ikliminin hakim olduğu bir bölgede yer alan bir dağ ekosistemi olup, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çeker. 
+Ayva Dağı, Trabzon'un nemli ikliminin hakim olduğu bir bölgede yer alan bir dağ ekosistemi olup, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çeker.
 
 Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, ilkbahar mevsiminde rengarenk çiçeklerle donanırken, sonbaharda sarı, turuncu ve kırmızı tonlara bürünür. Bu dağda yetişen bazı bitkiler, yükseklik zonlarına ve mevsimsel değişimlere uyum sağlayabilen özel türlerdir.
 

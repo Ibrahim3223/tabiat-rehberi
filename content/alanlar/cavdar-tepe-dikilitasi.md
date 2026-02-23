@@ -29,7 +29,7 @@ wikidata_id: "Q134727949"
 
 # Çavdar Tepe Dikilitaşı
 
-Marmara Bölgesi'nin güzide illerinden biri olan Edirne'nin Uzunköprü ilçesinde yer alan Çavdar Tepe Dikilitaşı, 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Çavdar Tepe Dikilitaşı, hem doğal güzellikleri hem de tarihi önemiyle dikkat çekiyor. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor. Çavdar Tepe Dikilitaşı, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda doğanın mucizelerini keşfetme fırsatı sunuyor.
+Marmara Bölgesi'nin güzide illerinden biri olan Edirne'nin Uzunköprü ilçesinde yer alan Çavdar Tepe Dikilitaşı, 140 hektarlık bir alanı kaplıyor. Çavdar Tepe Dikilitaşı, hem doğal güzellikleri hem de tarihi önemiyle dikkat çekiyor. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor. Çavdar Tepe Dikilitaşı, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda doğanın mucizelerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

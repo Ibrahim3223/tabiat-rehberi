@@ -51,7 +51,7 @@ Mevsimsel olarak, Gök Dağ çevredeki bölgenin iklimi, karasal iklim özellikl
 
 ## Flora ve Fauna
 
-Gök Dağ, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle donanır. Bu mevsimde, dağ yamaçlarında çeşitli yükseklik zonlarına özgü bitki türleri görülebilir. 
+Gök Dağ, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle donanır. Bu mevsimde, dağ yamaçlarında çeşitli yükseklik zonlarına özgü bitki türleri görülebilir.
 
 Yaban hayatı da bir o kadar çeşitli. Dağ keçileri ve yaban keçileri, kayalık alanlarda yaşarken, kartallar ve doğanların üreme alanlarını oluşturur. Sonbaharda, göçmen kuşlar dağları geçer. Gök Dağ, ekolojik açıdan önemli bir bölgedir. Yüksek dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini sağlar.
 

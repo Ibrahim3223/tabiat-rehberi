@@ -1,7 +1,7 @@
 ---
 title: "Evliya Bey Medresesi, Gürpınar"
 date: "2026-01-10T06:49:05.348Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Van"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582818"
 
 # Evliya Bey Medresesi, Gürpınar
 
-Evliya Bey Medresesi, Gürpınar, Doğu Anadolu Bölgesi'nin Van ilinde yer alan tarihi ve doğal güzelliklerinin birleştiği bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunar. Gürpınar'ın tarihi ve kültürel zenginlikleri, Evliya Bey Medresesi'nin etrafında yoğunlaşmış durumdadır. Bu bölge, ziyaretçilere både tarihi ve doğal güzellikleri deneyimleme fırsatı sunar. Gürpınar'ın coğrafi konumu, ziyaretçilere bölgeye ulaşımı kolaylaştırır. Evliya Bey Medresesi, Gürpınar'ın en önemli tarihi yapılarından biridir ve ziyaretçilerin ilgisini çeker.
+Evliya Bey Medresesi, Gürpınar, Doğu Anadolu Bölgesi'nin Van ilinde yer alan tarihi ve doğal güzelliklerinin birleştiği bir noktadır. Gürpınar'ın tarihi ve kültürel zenginlikleri, Evliya Bey Medresesi'nin etrafında yoğunlaşmış durumdadır. Bu bölge, ziyaretçilere både tarihi ve doğal güzellikleri deneyimleme fırsatı sunar. Gürpınar'ın coğrafi konumu, ziyaretçilere bölgeye ulaşımı kolaylaştırır. Evliya Bey Medresesi, Gürpınar'ın en önemli tarihi yapılarından biridir ve ziyaretçilerin ilgisini çeker.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Evliya Bey Medresesi, Gürpınar, coğrafi olarak Doğu Anadolu Bölgesi'nin Van
 
 ## Flora ve Fauna
 
-Evliya Bey Medresesi, Gürpınar, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, doğal güzellikleri ve çeşitliliği ile ziyaretçileri çekmektedir. Gürpınar'ın flora ve fauna zenginliği, Evliya Bey Medresesi'nin etrafında yoğunlaşmıştır. Bu bölge, ziyaretçilere doğal güzellikleri deneyimleme fırsatı sunar. Evliya Bey Medresesi'nin etrafında, çeşitli mevsimsel değişimler ve ekolojik olaylar yaşanmaktadır. Bu bölge, ziyaretçilere geniş bir keşif alanı sunar ve doğal güzellikleri deneyimleme fırsatı sunar.
+ Bu bölge, doğal güzellikleri ve çeşitliliği ile ziyaretçileri çekmektedir. Gürpınar'ın flora ve fauna zenginliği, Evliya Bey Medresesi'nin etrafında yoğunlaşmıştır. Bu bölge, ziyaretçilere doğal güzellikleri deneyimleme fırsatı sunar. Evliya Bey Medresesi'nin etrafında, çeşitli mevsimsel değişimler ve ekolojik olaylar yaşanmaktadır. Bu bölge, ziyaretçilere geniş bir keşif alanı sunar ve doğal güzellikleri deneyimleme fırsatı sunar.
 
 ## Ziyaret Bilgileri
 

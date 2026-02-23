@@ -52,7 +52,7 @@ Jeolojik açıdan incelendiğinde, Kuşakcı Dağı'nın específik fiziksel öz
 
 Kuşakcı Dağı, Elazığ'ın yüksek dağ ekolojisinin güzelliklerini sunan bir cennet. 1200 hektarlık bu dağ, çeşitli yükseklik zonlarına ev sahipliği yapıyor. İlkbaharda, alpin çayırlar renklendirici çiçeklerle donanıyor. Sonbaharda ise, göç eden kuşlar dağların gökyüzünü süslüyor.
 
-Bitki örtüsünde, çeşitli otsu ve çalımsı türler hakim. Mevsimsel değişimlerle birlikte, dağların rengi değişiyor. Dağ hayvanları, bu bitki örtüsüne bağımlı olarak yaşamını sürdürüyor. Yaban hayatında, memeliler, kuşlar ve sürüngenler, dağların ekolojik dengesini oluşturuyor. 
+Bitki örtüsünde, çeşitli otsu ve çalımsı türler hakim. Mevsimsel değişimlerle birlikte, dağların rengi değişiyor. Dağ hayvanları, bu bitki örtüsüne bağımlı olarak yaşamını sürdürüyor. Yaban hayatında, memeliler, kuşlar ve sürüngenler, dağların ekolojik dengesini oluşturuyor.
 
 Kuşakcı Dağı, endemik türlerin varlığıyla da dikkat çekiyor. Bu dağ ekosistemi, bölgenin biyolojik çeşitliliğine önemli katkılar sağlıyor. Koruma durumu ise, bu doğal alanın geleceğiçin büyük önem taşıyor.
 

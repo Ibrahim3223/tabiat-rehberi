@@ -34,7 +34,7 @@ Hatay'ın eşsiz coğrafyasında yer alan Cebel-Ziara Dağı, ziyaretçilerini t
 
 Hatay bölgesinin zengin tarihi, binlerce yıl öncesine uzanır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Hitit, Roma ve Osmanlı gibi medeniyetler burada iz bırakmıştır. Cebel-Ziara Dağı da bu geniş tarihsel coğrafyanın bir parçasını oluşturur.
 
-Doğal güzellikleri ve stratejik konumuyla, bu bölge insanların dikkatini her zaman çekmiştir. Yaylacılık ve hayvancılık, bölgenin ekonomisinde önemli bir yer tutmuş; insanlar mevsimsel olarak dağların yüksek kesimlerine çıkarak hayvanlarını otlatmışlardır. Ayrıca, ticaret yolları üzerinde bulunan bu bölge, histórik dönemde önemli bir geçiş noktası olarak hizmet vermiştir.
+Doğal güzellikleri ve stratejik konumuyla, bu bölge insanların dikkatini her zaman çekmiştir. Yaylacılık ve hayvancılık, bölgenin ekonomisinde önemli bir yer tutmuş; insanlar mevsimsel olarak dağların yüksek kesimlerine çıkarak hayvanlarını otlatmışlardır. Ayrıca, ticaret yolları üzerinde bulunan bu bölge, tarihi dönemde önemli bir geçiş noktası olarak hizmet vermiştir.
 
 Cebel-Ziara Dağı gibi doğal alanlar, Türkiye'nin kültürel ve coğrafi mirasının önemli bir parçasını oluşturur. Bu tür alanlar, sadece doğal güzellikleri ile değil, aynı zamanda tarih boyunca insanların yaşantısını ve kültürünü şekillendirmiş olmasıyla da önemlidir. İnsanların doğa ile olan ilişkisi, bu bölgede binlerce yıl boyunca şekillenmiştir ve hala da devam etmektedir. Bu nedenle, Cebel-Ziara Dağı ve benzeri doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli birer parçaları olarak görülmelidir.
 
@@ -50,9 +50,9 @@ Bölgenin ekolojik dengesini sağlayan Cebel-Ziara Dağı, komşu alanlar ile ö
 
 ## Flora ve Fauna
 
-Cebel-Ziara Dağı, Hatay'ın kıyı ekosisteminin bir parçası olan maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemidir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır ve dağ keçileri bu çiçeklerin arasında otlarken, çakallar ve tilkiler ise bu bölgede avlanırlar. 
+Cebel-Ziara Dağı, Hatay'ın kıyı ekosisteminin bir parçası olan maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemidir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır ve dağ keçileri bu çiçeklerin arasında otlarken, çakallar ve tilkiler ise bu bölgede avlanırlar.
 
-Bu bölgede, kuraklığa dayanıklı türler hakimdir. Kıyı ekosisteminin bir parçası olan bu dağ, göçmen kuşlar için önemli bir durak noktasıdır. Sonbahar aylarında, dağ yamaçlarından göç eden kuşları izleme mümkün. Dağın yükseklik zonlarında, alpin flora ile karşılaşma mümkün. Bu flora, dağ hayvanlarının yaşam alanlarını oluşturur. 
+Bu bölgede, kuraklığa dayanıklı türler hakimdir. Kıyı ekosisteminin bir parçası olan bu dağ, göçmen kuşlar için önemli bir durak noktasıdır. Sonbahar aylarında, dağ yamaçlarından göç eden kuşları izleme mümkün. Dağın yükseklik zonlarında, alpin flora ile karşılaşma mümkün. Bu flora, dağ hayvanlarının yaşam alanlarını oluşturur.
 
 Cebel-Ziara Dağı, ekolojik açıdan önemli bir bölgedir. Bu bölgenin korunması, bölgede yaşayan canlıların yaşam alanlarını korumak için çok önemlidir.
 

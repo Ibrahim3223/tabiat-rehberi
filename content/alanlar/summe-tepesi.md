@@ -28,7 +28,7 @@ wikidata_id: "Q34811263"
 
 # Sümme Tepesi
 
-Konya'nın doğal güzellikleri arasında yer alan Sümme Tepesi, şehrin merkezine yakın bir konumda bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgedir. Bu tepe, Konya'nın tarihi ve doğal zenginliklerini bir araya getiren önemli bir noktadır. Sümme Tepesi, şehre gelen ziyaretçilerin mutlaka görmesi gereken bir yerdir.
+Konya'nın doğal güzellikleri arasında yer alan Sümme Tepesi, şehrin merkezine yakın bir konumda bulunmaktadır. Bu tepe, Konya'nın tarihi ve doğal zenginliklerini bir araya getiren önemli bir noktadır. Sümme Tepesi, şehre gelen ziyaretçilerin mutlaka görmesi gereken bir yerdir.
 
 ## Tarihçe
 

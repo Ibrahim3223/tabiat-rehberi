@@ -33,7 +33,7 @@ Artvin'in büyüleyici doğası, ziyaretçilerini Gül Dağı gibi gizli hazinel
 
 ## Tarihçe
 
-Gül Dağı, Türkiye'nin kuzeydoğu ucunda, Artvin ilinin sınırları içinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin sâu sayfalarında birçok uygarlığa ev sahipliği yapmış bir coğrafyada bulunmaktadır. Artvin ve çevresinde, antik dönemlerden itibaren Kolhlar, Romalılar, Bizanslılar ve daha sonra da Türklerin yaşadığı bilinmektedir.
+Gül Dağı, Türkiye'nin kuzeydoğu ucunda, Artvin ilinin sınırları içinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin derin sayfalarında birçok uygarlığa ev sahipliği yapmış bir coğrafyada bulunmaktadır. Artvin ve çevresinde, antik dönemlerden itibaren Kolhlar, Romalılar, Bizanslılar ve daha sonra da Türklerin yaşadığı bilinmektedir.
 
 Doğal güzellikleri ve stratejik konumuyla, Gül Dağı ve benzeri alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturur. Bu tür doğal alanlar, sadece güzelliği ile değil, aynı zamanda insanların yaşamlarını sürdürmesine olanak sağlayan ekosistemler olarak da büyük önem taşırlar. Yayla ve otlakların varlığı, bölgede yaylacılık ve hayvancılığın gelişmesine katkıda bulunmuştur.
 
@@ -53,7 +53,7 @@ Mevsimsel değişiklikler açısından, Gül Dağı ve çevresinin iklim karakte
 
 Gül Dağı, nemli iklimin hâkim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın farklı yükseklik zonlarında, çeşitli bitki türleri mevsimsel değişimlere göre şekillenir. İlkbaharın gelişiyle birlikte, dağ yamaçları renkli çiçeklerle süslenirken, sonbaharda yaprak dökümüyle birlikte, dağ manzarası değişir.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri gibi memeliler yaşarken, kuşlar da göç ettikleri mevsimlerde bu dağları ziyaret eder. Sürüngenler de, dağların kayalık ve sıcak bölgelerinde yaşamlarını sürdürür. Bu dağ ekosisteminin ekolojik değeri, yüksek biyoçeşitliliğinden ve doğal yaşam alanlarının korunmasından gelir. Bu nedenle, Gül Dağı'nın korunması ve bảo tồn edilmesi, bölgenin doğal dengesinin korunması için önemlidir.
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri gibi memeliler yaşarken, kuşlar da göç ettikleri mevsimlerde bu dağları ziyaret eder. Sürüngenler de, dağların kayalık ve sıcak bölgelerinde yaşamlarını sürdürür. Bu dağ ekosisteminin ekolojik değeri, yüksek biyoçeşitliliğinden ve doğal yaşam alanlarının korunmasından gelir. Bu nedenle, Gül Dağı'nın korunması ve koruma tồn edilmesi, bölgenin doğal dengesinin korunması için önemlidir.
 
 ## Ziyaret Bilgileri
 

@@ -49,9 +49,9 @@ Boyutları hakkında detaylı bilgi olmasa da, Hesarek Kayak Merkezi'nin coğraf
 
 ## Flora ve Fauna
 
-Hesarek Kayak Merkezi, dağ ekosisteminin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü bölümünde, ilkbaharın geldiği anda, step bitki örtüsü ve bozkırın karakteristik türleri ortaya çıkar. Bu türler, kuraklığa adapte olmuş ve yükseklik zonlarına göre değişen alpin flora ile birlikte, dağların çeşitli yaşam alanlarını oluşturur. 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler, dağların yükseklik zonlarına göre dağılım gösterir. Göçmen kuşlar, sonbaharda bu bölgeden geçer. 
+Hesarek Kayak Merkezi, dağ ekosisteminin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü bölümünde, ilkbaharın geldiği anda, step bitki örtüsü ve bozkırın karakteristik türleri ortaya çıkar. Bu türler, kuraklığa adapte olmuş ve yükseklik zonlarına göre değişen alpin flora ile birlikte, dağların çeşitli yaşam alanlarını oluşturur.
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler, dağların yükseklik zonlarına göre dağılım gösterir. Göçmen kuşlar, sonbaharda bu bölgeden geçer.
 Ekolojik Değer bölümünde, bu dağ ekosisteminin neden önemli olduğu ve koruma durumu ele alınır. Bu ekosistem, çeşitli türlerin yaşamsal bağımlılıklarını destekler ve bölge ekolojisini dengeler.
 
 ## Ziyaret Bilgileri

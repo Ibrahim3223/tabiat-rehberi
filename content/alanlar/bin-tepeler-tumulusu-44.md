@@ -29,7 +29,7 @@ wikidata_id: "Q134728332"
 
 # Bin Tepeler Tümülüsü 44
 
-Bin Tepeler Tümülüsü 44, Salihli, Manisa'da yer alan ve Ege Bölgesi'nin tarihi zenginliklerini yansıtan bir arkeolojik alandır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarihi ve kültürel miras sunuyor. Bu bölge, tarih meraklıları ve arkeoloji severler için gerçek bir hazine olarak kabul ediliyor. Bin Tepeler Tümülüsü 44'ün tarihi geçmişi, ziyaretçileri geçmişe götürerek, bu topraklarda yaşamış olan uygarlıkları keşfetme fırsatı sunuyor.
+Bin Tepeler Tümülüsü 44, Salihli, Manisa'da yer alan ve Ege Bölgesi'nin tarihi zenginliklerini yansıtan bir arkeolojik alandır. Bu bölge, tarih meraklıları ve arkeoloji severler için gerçek bir hazine olarak kabul ediliyor. Bin Tepeler Tümülüsü 44'ün tarihi geçmişi, ziyaretçileri geçmişe götürerek, bu topraklarda yaşamış olan uygarlıkları keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

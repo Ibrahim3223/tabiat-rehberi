@@ -28,7 +28,7 @@ wikidata_id: "Q31390209"
 
 # Arılık Tepesi
 
-Arılık Tepesi, Burdur'un gözde doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilerin keşfetmek için oldukça geniş bir alan sunuyor. Arılık Tepesi, ziyaretçilerini doğanın içinde bir macera yaşatmak için bekliyor. Burada, doğal güzellikleri keşfedebilir, temiz havanın keyfini çıkarabilir ve huzurlu bir ortamda dinlenebilirsiniz.
+Arılık Tepesi, Burdur'un gözde doğal güzelliklerinden biri olarak karşımıza çıkıyor. Arılık Tepesi, ziyaretçilerini doğanın içinde bir macera yaşatmak için bekliyor. Burada, doğal güzellikleri keşfedebilir, temiz havanın keyfini çıkarabilir ve huzurlu bir ortamda dinlenebilirsiniz.
 
 ## Tarihçe
 

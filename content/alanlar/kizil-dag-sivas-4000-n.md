@@ -33,7 +33,7 @@ Sivas'ın doğal güzelliklerinin arasında yer alan Kızıl Dağ, 40.00 N enlem
 
 ## Tarihçe
 
-Sivas bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, çeşitli uygarlıkların yerleşim ve ticaret merkezleri olarak görev görmüştür. Hitit, Roma ve Selçuklu gibi medeniyetler, Sivas'ın tarihi zenginliğine katkıda bulunmuşlardır. Kızıl Dağ da bu tarihsel mirasın bir parçasıdır.
+Sivas bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, çeşitli uygarlıkların yerleşim ve ticaret merkezleri olarak görev görmüştür. Hitit, Roma ve Selçuklu gibi medeniyetler, Sivas'ın tarihi zenginliğine katkıda bulunmuşlardır. Kızıl Dağ da bu tarihsel mirasın bir parçasıdır.
 
 Türkiye'de doğal alanlar, tarihi boyunca önemli bir rol oynamıştır. Bunlar, sadece doğal güzellikleriyle değil, aynı zamanda insanların yaşamlarını sürdürmelerine olanak tanıyan ekosistemler olarak da değerlidir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu doğal alanların etrafında şekillenmiştir. Sivas bölgesinde de benzer bir durum söz konusudur. Bölgedeki dağlar ve ovalar, insanların geçim kaynaklarını oluşturmuş ve ticaret yollarının güzergahını belirlemiştir.
 

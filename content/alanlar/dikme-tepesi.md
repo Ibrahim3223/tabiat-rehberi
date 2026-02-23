@@ -28,7 +28,7 @@ wikidata_id: "Q31389185"
 
 # Dikme Tepesi
 
-Dikme Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan ve coğrafi güzellikleriyle dikkat çeken bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Sivas'ın merkezine yakın konumuyla da kolay ulaşılabilir. Dikme Tepesi, hem doğa severler hem de tarihe ilgi duyanlar için ziyaret edilmesi gereken bir yer. Bu tepe, Sivas'ın tarihi ve kültürel zenginliklerinin bir parçası olarak karşımıza çıkıyor.
+Dikme Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan ve coğrafi güzellikleriyle dikkat çeken bir tepe. Sivas'ın merkezine yakın konumuyla da kolay ulaşılabilir. Dikme Tepesi, hem doğa severler hem de tarihe ilgi duyanlar için ziyaret edilmesi gereken bir yer. Bu tepe, Sivas'ın tarihi ve kültürel zenginliklerinin bir parçası olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

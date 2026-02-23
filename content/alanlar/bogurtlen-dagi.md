@@ -50,9 +50,9 @@ Böğürtlen Dağı'nın çevresel ilişkileri, bölgenin ekosistemini önemli �
 
 ## Flora ve Fauna
 
-Böğürtlen Dağı, Samsun'un nemli ikliminin hakim olduğu bir bölge olarak, gür ormanlarla kaplı ve yüksek biyoçeşitliliğe sahip bir dağ ekosistemi sunar. Dağın farklı yükseklik zonlarında, ilkbaharda rengarenk çiçekler açarken, sonbaharda yapraklar altın sarısı ve kızıl renklere dönüşür. 
+Böğürtlen Dağı, Samsun'un nemli ikliminin hakim olduğu bir bölge olarak, gür ormanlarla kaplı ve yüksek biyoçeşitliliğe sahip bir dağ ekosistemi sunar. Dağın farklı yükseklik zonlarında, ilkbaharda rengarenk çiçekler açarken, sonbaharda yapraklar altın sarısı ve kızıl renklere dönüşür.
 
-Bitki örtüsünün hakim türleri arasında geniş yapraklı ağaçlar ve iğne yapraklılar bulunur. Mevsimsel olarak, ilkbaharda dağ çiçekleri ve yaban mersinleri açarken, yaz aylarında orman zemininde çeşitli otsu bitkiler görülür. 
+Bitki örtüsünün hakim türleri arasında geniş yapraklı ağaçlar ve iğne yapraklılar bulunur. Mevsimsel olarak, ilkbaharda dağ çiçekleri ve yaban mersinleri açarken, yaz aylarında orman zemininde çeşitli otsu bitkiler görülür.
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitlilik gösterir. Dağ keçileri ve sincaplar gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri mevsimsel olarak göç eder. Ekolojik değer olarak, bu dağ ekosistemi, bölgenin su döngüsünü ve toprağın verimliliğini sağlar. Koruma durumu ise, bölgenin yüksek biyoçeşitliliğini korumak için önemlidir.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227542"
 
 # Amasya-Akdagmadeni-Bascatak Saricam 2
 
-Amasya-Akdagmadeni-Bascatak Saricam 2 milli parkı, Karadeniz Bölgesi'nde yer alan bir doğal güzelliğimiz. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreyi kaplayan çeşitli bitki türleriyle dikkat çekiyor. Bu milli park, doğa severler ve gezi tutkunları için ideal bir destinasyon. Zengin faunası ve tarihi geçmişi ile ziyaretçilerini bekliyor.
+Amasya-Akdagmadeni-Bascatak Saricam 2 milli parkı, Karadeniz Bölgesi'nde yer alan bir doğal güzelliğimiz. Bu milli park, doğa severler ve gezi tutkunları için ideal bir destinasyon. Zengin faunası ve tarihi geçmişi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

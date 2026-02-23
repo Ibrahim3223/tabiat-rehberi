@@ -28,7 +28,7 @@ wikidata_id: "Q31555681"
 
 # Banaaziza Tepesi
 
-Banaaziza Tepesi, Şırnak ilinin güneydoğusunda yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Banaaziza Tepesi, bölgenin coğrafi yapısını anlama ve doğal güzelliklerini keşfetmek için ideal bir nokta. Tepenin eteklerinde ve etrafında, çeşitli bitki türleri ve zengin fauna encontruluyor. Bu nedenle, doğa severler ve botani ile ilgilenenler için Banaaziza Tepesi, önemli bir destinasyon.
+Banaaziza Tepesi, Şırnak ilinin güneydoğusunda yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Banaaziza Tepesi, bölgenin coğrafi yapısını anlama ve doğal güzelliklerini keşfetmek için ideal bir nokta. Tepenin eteklerinde ve etrafında, çeşitli bitki türleri ve zengin fauna encontruluyor. Bu nedenle, doğa severler ve botani ile ilgilenenler için Banaaziza Tepesi, önemli bir destinasyon.
 
 ## Tarihçe
 

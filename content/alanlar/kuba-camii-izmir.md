@@ -1,7 +1,7 @@
 ---
 title: "Kuba Camii (İzmir)"
 date: "2026-01-10T05:42:50.541Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q135581994"
 
 # Kuba Camii (İzmir)
 
-Selçuk'un merkezi konumunda yer alan Kuba Camii, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir bölgede bulunmaktadır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil etmektedir. Kuba Camii, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkileyen bir destinasyondur. Tarihi geçmişi, mimarisi ve çevresi ile dikkat çekici bir konumda yer almaktadır. Kuba Camii, ziyaretçiler için hem dinî hem de kültürel bir merkez olarak hizmet vermektedir.
+Selçuk'un merkezi konumunda yer alan Kuba Camii, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir bölgede bulunmaktadır. Kuba Camii, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkileyen bir destinasyondur. Tarihi geçmişi, mimarisi ve çevresi ile dikkat çekici bir konumda yer almaktadır. Kuba Camii, ziyaretçiler için hem dinî hem de kültürel bir merkez olarak hizmet vermektedir.
 
 ## Tarihçe
 

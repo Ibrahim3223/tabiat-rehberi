@@ -1,7 +1,7 @@
 ---
 title: "Sultan Mesud Türbesi"
 date: "2026-01-10T05:55:18.619Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q118957960"
 
 # Sultan Mesud Türbesi
 
-Sultan Mesud Türbesi, Amasya'nın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken önemli bir turizm noktasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yer almaktadır. Bu tarihi mekan, ziyaretçilerini Amasya'nın zengin tarihine ve kültürel mirasına götürmeyi vaat ediyor. Sultan Mesud Türbesi, hem tarihin hem de doğanın bir arada bulunduğu eşsiz bir destinasyon olarak öne çıkıyor.
+Sultan Mesud Türbesi, Amasya'nın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken önemli bir turizm noktasıdır. Bu tarihi mekan, ziyaretçilerini Amasya'nın zengin tarihine ve kültürel mirasına götürmeyi vaat ediyor. Sultan Mesud Türbesi, hem tarihin hem de doğanın bir arada bulunduğu eşsiz bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

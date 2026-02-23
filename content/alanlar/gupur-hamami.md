@@ -1,7 +1,7 @@
 ---
 title: "Güpür Hamamı"
 date: "2026-01-10T04:32:32.928Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çorum"
@@ -29,7 +29,7 @@ wikidata_id: "Q118946493"
 
 # Güpür Hamamı
 
-Güpür Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen, Çorum'un doğal güzelliklerini sunan bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Güpür Hamamı, çam ormanları ve denizin birleştiği noktada, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu doğal cennet, hem doğa severlerin hem de tatil makerlerin gözdesi haline gelmiş durumda.
+Güpür Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen, Çorum'un doğal güzelliklerini sunan bir destinasyon. Güpür Hamamı, çam ormanları ve denizin birleştiği noktada, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu doğal cennet, hem doğa severlerin hem de tatil makerlerin gözdesi haline gelmiş durumda.
 
 ## Tarihçe
 

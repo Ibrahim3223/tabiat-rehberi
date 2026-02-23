@@ -1,7 +1,7 @@
 ---
 title: "Çeşnigir Köprüsü"
 date: "2026-01-09T22:13:18.999Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırıkkale"
@@ -30,7 +30,7 @@ wikidata_id: "Q19613355"
 
 # Çeşnigir Köprüsü
 
-İç Anadolu Bölgesi'nin güzel ilçelerinden biri olan Karakeçili, Kırıkkale ilinin sınırları içerisinde yer almakta. Bu bölge, doğal güzellikleri ve tarihi yapıları ile dikkat çekmekte. Çeşnigir Köprüsü de bu ilçede yer alan önemli bir nokta. 140 hektarlık bir alana yayılmış bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Burada, tarihi köprülerin yanı sıra, çeşitli bitki türleri ve yaban hayatı bulunmakta. Bu nedenle, Çeşnigir Köprüsü, hem doğa severlerin hem de tarih meraklılarının ziyaret etmesi gereken bir yer.
+İç Anadolu Bölgesi'nin güzel ilçelerinden biri olan Karakeçili, Kırıkkale ilinin sınırları içerisinde yer almakta. Bu bölge, doğal güzellikleri ve tarihi yapıları ile dikkat çekmekte. Çeşnigir Köprüsü de bu ilçede yer alan önemli bir nokta. Burada, tarihi köprülerin yanı sıra, çeşitli bitki türleri ve yaban hayatı bulunmakta. Bu nedenle, Çeşnigir Köprüsü, hem doğa severlerin hem de tarih meraklılarının ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

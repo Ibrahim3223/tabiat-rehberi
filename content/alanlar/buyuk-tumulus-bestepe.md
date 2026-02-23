@@ -29,7 +29,7 @@ wikidata_id: "Q134728317"
 
 # Büyük Tümülüs, Beştepe
 
-Ankara'nın Yenimahalle ilçesinde bulunan Büyük Tümülüs, Beştepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılıyor. Büyük Tümülüs, Beştepe, hem tarih meraklıları hem de doğa severler için bir çekim merkezi olarak dikkat çekiyor. Bu özel mekân, ziyaretçilerine hem geçmişin izlerini keşfetme fırsatı sunuyor hem de doğanın güzelliğini gözler önüne seriyor.
+Ankara'nın Yenimahalle ilçesinde bulunan Büyük Tümülüs, Beştepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Büyük Tümülüs, Beştepe, hem tarih meraklıları hem de doğa severler için bir çekim merkezi olarak dikkat çekiyor. Bu özel mekân, ziyaretçilerine hem geçmişin izlerini keşfetme fırsatı sunuyor hem de doğanın güzelliğini gözler önüne seriyor.
 
 ## Tarihçe
 

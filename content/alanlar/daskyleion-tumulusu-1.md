@@ -29,7 +29,7 @@ wikidata_id: "Q134728312"
 
 # Daskyleion Tümülüsü 1
 
-Daskyleion Tümülüsü 1, Marmara Bölgesi'nin Bandırma ilçesinde yer alan tarihi bir hazine. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli arkeolojik sitelerinden biri. Tümülüs, tarihi geçmişi ve kültürel önemi ile ziyaretçilerini cezbediyor. Daskyleion Tümülüsü 1, Marmara Bölgesi'nin zengin tarihini keşfetmek isteyenler için ideal bir destinasyon.
+Daskyleion Tümülüsü 1, Marmara Bölgesi'nin Bandırma ilçesinde yer alan tarihi bir hazine. Tümülüs, tarihi geçmişi ve kültürel önemi ile ziyaretçilerini cezbediyor. Daskyleion Tümülüsü 1, Marmara Bölgesi'nin zengin tarihini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

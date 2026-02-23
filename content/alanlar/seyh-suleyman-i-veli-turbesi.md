@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Süleyman-ı Veli Türbesi"
 date: "2026-01-10T06:58:56.713Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırşehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390867"
 
 # Şeyh Süleyman-ı Veli Türbesi
 
-Şeyh Süleyman-ı Veli Türbesi, İç Anadolu Bölgesi'nde Kırşehir ilinin merkezi bir bölgesinde yer alan, hem tarihi hem de doğal güzellikleriyle dikkat çeken bir destinasyon. Bu alan, 140 hektarlık geniş bir yeşil alanı kapsıyor, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan bu yeşil cennet, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Şeyh Süleyman-ı Veli Türbesi, ziyaretçilerini tarihin ve doğanın kucaklaştiği bir noktada ağırlıyor.
+Şeyh Süleyman-ı Veli Türbesi, İç Anadolu Bölgesi'nde Kırşehir ilinin merkezi bir bölgesinde yer alan, hem tarihi hem de doğal güzellikleriyle dikkat çeken bir destinasyon. Şeyh Süleyman-ı Veli Türbesi, ziyaretçilerini tarihin ve doğanın kucaklaştiği bir noktada ağırlıyor.
 
 ## Tarihçe
 

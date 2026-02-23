@@ -34,9 +34,9 @@ Doğu Anadolu Bölgesi'nin zengin doğası, Muş ilinin merkezi ve çevresinde d
 
 ## Tarihçe
 
-Muş bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarihin çeşitli dönemlerinde Urartular, Romalılar, Bizanslılar ve Selçuklular gibi uygarlıkların etkisi altında kalmıştır. Doğal güzellikleri ve stratejik konumuyla, ticaret yolları ve yaylacılık faaliyetleri için önemli bir merkez olmuştur. 
-Akdoğan Gölü de, bu bölgenin doğal güzelliklerinin bir parçasını oluşturmaktadır. Türkiye'de benzer birçok göl ve doğal alan, tarih boyunca insanların yaşamlarını sürdürmesi için önemli kaynaklar olmuştur. 
-Bu tür doğal alanlar, sadece yerel halkın değil, ticaret kervanlarının ve seyahat edenlerin de önemli durak noktaları olarak görev görmüştür. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve kültürel yaşamında önemli roller oynamıştır. 
+Muş bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarihin çeşitli dönemlerinde Urartular, Romalılar, Bizanslılar ve Selçuklular gibi uygarlıkların etkisi altında kalmıştır. Doğal güzellikleri ve stratejik konumuyla, ticaret yolları ve yaylacılık faaliyetleri için önemli bir merkez olmuştur.
+Akdoğan Gölü de, bu bölgenin doğal güzelliklerinin bir parçasını oluşturmaktadır. Türkiye'de benzer birçok göl ve doğal alan, tarih boyunca insanların yaşamlarını sürdürmesi için önemli kaynaklar olmuştur.
+Bu tür doğal alanlar, sadece yerel halkın değil, ticaret kervanlarının ve seyahat edenlerin de önemli durak noktaları olarak görev görmüştür. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve kültürel yaşamında önemli roller oynamıştır.
 Akdoğan Gölü ve çevresinin, Muş bölgesinin tarihsel zenginliğine katkıda bulunduğu şüphesizdir. Ancak, bu gölün spesifik bir tarihi yoktur.
 
 ## Coğrafya

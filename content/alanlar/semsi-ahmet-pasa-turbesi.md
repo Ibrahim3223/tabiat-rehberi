@@ -1,7 +1,7 @@
 ---
 title: "Şemsi Ahmet Paşa Türbesi"
 date: "2026-01-10T07:33:33.397Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391296"
 
 # Şemsi Ahmet Paşa Türbesi
 
-Şemsi Ahmet Paşa Türbesi, İstanbul'un Üsküdar ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan ve plajdan oluşur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şemsi Ahmet Paşa Türbesi, tarihi geçmişinin yanı sıra doğal güzellikleri ile de dikkat çeker. Tipoğrafik yapısı ve çevresi, ziyaretçilerine hem tarihi bir deneyim hem de doğa ile iç içe bir ortam sunar.
+Şemsi Ahmet Paşa Türbesi, İstanbul'un Üsküdar ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan ve plajdan oluşur. Şemsi Ahmet Paşa Türbesi, tarihi geçmişinin yanı sıra doğal güzellikleri ile de dikkat çeker. Tipoğrafik yapısı ve çevresi, ziyaretçilerine hem tarihi bir deneyim hem de doğa ile iç içe bir ortam sunar.
 
 ## Tarihçe
 

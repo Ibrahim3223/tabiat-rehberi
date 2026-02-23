@@ -1,7 +1,7 @@
 ---
 title: "Haseki Hafsa Sultan Türbesi"
 date: "2026-01-10T07:19:26.459Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391069"
 
 # Haseki Hafsa Sultan Türbesi
 
-Haseki Hafsa Sultan Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir yapıdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde bulunmaktadır. 140 hektarlık bu yeşil alan, khong 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Türbe ve çevresindeki yeşil alan, ziyaretçilerine hem tarihi bir deneyim hem de doğal bir güzellik sunuyor. Haseki Hafsa Sultan Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir gezi noktasıdır.
+Haseki Hafsa Sultan Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir yapıdır. Türbe ve çevresindeki yeşil alan, ziyaretçilerine hem tarihi bir deneyim hem de doğal bir güzellik sunuyor. Haseki Hafsa Sultan Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir gezi noktasıdır.
 
 ## Tarihçe
 

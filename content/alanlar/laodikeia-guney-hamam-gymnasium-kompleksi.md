@@ -1,7 +1,7 @@
 ---
 title: "Laodikeia Güney Hamam-Gymnasium Kompleksi"
 date: "2026-01-09T23:14:04.423Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738926"
 
 # Laodikeia Güney Hamam-Gymnasium Kompleksi
 
-Laodikeia Güney Hamam-Gymnasium Kompleksi, Ege Bölgesi'nin önemli tarihi ve kültürel merkezlerinden biri olarak Pamukkale'de yer alır. Bu kompleks, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu boyutuyla yaklaşık 200 futbol sahası büyüklüğüne eşittir. Laodikeia Antik Kenti'nin bir parçası olan Güney Hamam-Gymnasium Kompleksi, antik dünyanın önemli eğitim ve sağlık merkezlerinden birini oluşturmuştur. Bu kompleks, tarihi ve kültürel zenginliğiyle ziyaretçilerini geçmişe götürmeyi vaat eder. Laodikeia, antik dünyanın önemli ticaret ve kültür merkezlerinden biri olarak bilinir ve bu kompleks, kentin zenginliğini ve kültürel çeşitliliğini yansıtan önemli bir yapıttır.
+Laodikeia Güney Hamam-Gymnasium Kompleksi, Ege Bölgesi'nin önemli tarihi ve kültürel merkezlerinden biri olarak Pamukkale'de yer alır. Laodikeia Antik Kenti'nin bir parçası olan Güney Hamam-Gymnasium Kompleksi, antik dünyanın önemli eğitim ve sağlık merkezlerinden birini oluşturmuştur. Bu kompleks, tarihi ve kültürel zenginliğiyle ziyaretçilerini geçmişe götürmeyi vaat eder. Laodikeia, antik dünyanın önemli ticaret ve kültür merkezlerinden biri olarak bilinir ve bu kompleks, kentin zenginliğini ve kültürel çeşitliliğini yansıtan önemli bir yapıttır.
 
 ## Tarihçe
 

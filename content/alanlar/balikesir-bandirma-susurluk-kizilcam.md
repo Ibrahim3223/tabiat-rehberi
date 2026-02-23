@@ -22,7 +22,7 @@ wikidata_id: "Q108227859"
 
 # Balikesir-Bandirma-Susurluk Kızılçam
 
-Balikesir-Bandirma-Susurluk Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasına ev sahipliği yapıyor. Bu milli park, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu bölge, yaban hayatının korunması ve doğanın güzelliğinin korunması açısından önemli bir rol oynuyor.
+ Bu milli park, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu bölge, yaban hayatının korunması ve doğanın güzelliğinin korunması açısından önemli bir rol oynuyor.
 
 ## Tarihçe
 

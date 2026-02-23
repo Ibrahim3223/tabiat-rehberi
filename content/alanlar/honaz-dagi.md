@@ -51,7 +51,7 @@ Honaz Dağı, etrafındaki doğal ve kültürel alanlarla güçlü bir şekilde 
 
 ## Flora ve Fauna
 
-Honaz Dağı, step bitki örtüsü ve bozkırın karakteristik özelliklerini taşıyan bir dağ ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Honaz Dağı, step bitki örtüsü ve bozkırın karakteristik özelliklerini taşıyan bir dağ ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 İlkbaharın gelmesiyle birlikte, dağ yamacında çeşitli çiçekler açar ve bu bölgeye renk katar. Sonbaharda ise, göç eden kuşlar dağların üzerinden geçer ve bu manzarayı izlemek büyüleyici bir deneyimdir.
 
 Dağın yükseklik zonlarına göre değişen flora, alpin bitkilerin yaşadığı alanlara kadar uzanır. Bu bitkiler, kuraklığa adapte olmuş türlerdir ve zorlu koşullarda hayatta kalmayı başarmışlardır. Dağın fauna zenginliği de dikkat çekicidir. Memeliler, kuşlar ve sürüngenler bu dağda yaşamlarını sürdürürler. Dağ keçileri, kartallar ve yılanlar gibi hayvanlar, bu dağ ekosisteminin birer parçasıdır.

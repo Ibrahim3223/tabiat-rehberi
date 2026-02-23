@@ -1,7 +1,7 @@
 ---
 title: "Emir Mehmet Türbesi"
 date: "2026-01-10T07:39:41.624Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391310"
 
 # Emir Mehmet Türbesi
 
-Emir Mehmet Türbesi, Trabzon'un Ortahisar ilçesinde bulunan ve tarihi açıdan büyük önem taşıyan bir kültürel mirastır. Bu türbe, Karadeniz Bölgesi'nin zengin tarihini ve kültürel çeşitliliğini yansıtan önemli bir mekan olarak kabul edilir. 140 hektarlık bir alan üzerinde yer alan Emir Mehmet Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi ile dikkat çeken bu türbe, ziyaretçiler için bir kültür ve tarih merkezidir. Bölgenin coğrafi özellikleri ve iklimi, türbenin inşa edildiği döneme ışık tutmaktadır. Emir Mehmet Türbesi, Trabzon'un önemli turistik mekanlarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
+Emir Mehmet Türbesi, Trabzon'un Ortahisar ilçesinde bulunan ve tarihi açıdan büyük önem taşıyan bir kültürel mirastır. Bu türbe, Karadeniz Bölgesi'nin zengin tarihini ve kültürel çeşitliliğini yansıtan önemli bir mekan olarak kabul edilir. Tarihi geçmişi ile dikkat çeken bu türbe, ziyaretçiler için bir kültür ve tarih merkezidir. Bölgenin coğrafi özellikleri ve iklimi, türbenin inşa edildiği döneme ışık tutmaktadır. Emir Mehmet Türbesi, Trabzon'un önemli turistik mekanlarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Emir Mehmet Türbesi'nin tarihi geçmişi, Karadeniz Bölgesi'nin zengin tarihin
 
 ## Coğrafya
 
-Emir Mehmet Türbesi, Trabzon'un Ortahisar ilçesinde yer almaktadır. Bu bölge, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir mekandır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bölgenin coğrafi özellikleri, Karadeniz Bölgesi'nin genel coğrafi özelliklerini yansıtmaktadır. İklim, flora ve fauna, bölgenin coğrafi özelliklerini şekillendirmiş ve Emir Mehmet Türbesi'nin inşa edildiği döneme ışık tutmaktadır. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta ve bu bölge, doğa severler için önemli bir destinasyon olarak kabul edilmektedir. Emir Mehmet Türbesi, Karadeniz Bölgesi'nin coğrafi özellikleri ve kültürel mirası hakkında geniş bilgiler sunmaktadır.
+Emir Mehmet Türbesi, Trabzon'un Ortahisar ilçesinde yer almaktadır. Bu bölge, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir mekandır. Bölgenin coğrafi özellikleri, Karadeniz Bölgesi'nin genel coğrafi özelliklerini yansıtmaktadır. İklim, flora ve fauna, bölgenin coğrafi özelliklerini şekillendirmiş ve Emir Mehmet Türbesi'nin inşa edildiği döneme ışık tutmaktadır. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta ve bu bölge, doğa severler için önemli bir destinasyon olarak kabul edilmektedir. Emir Mehmet Türbesi, Karadeniz Bölgesi'nin coğrafi özellikleri ve kültürel mirası hakkında geniş bilgiler sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Emir Mehmet Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'nin kültürel mirası
 ## İlginç Bilgiler
 
 - Emir Mehmet Türbesi, Karadeniz Bölgesi'nin en önemli kültürel miraslarından biridir.
-- Türbe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır.
+
 - Emir Mehmet Türbesi'nin tarihi geçmişi, Karadeniz Bölgesi'nin zengin tarihine ışık tutmaktadır.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Emir Mehmet Türbesi, her mevsim ziyaret edilebilir ve ziyaretçilere, her mevsim farklı bir güzelliği sunmaktadır.

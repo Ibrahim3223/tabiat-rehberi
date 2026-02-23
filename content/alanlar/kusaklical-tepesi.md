@@ -28,7 +28,7 @@ wikidata_id: "Q32206422"
 
 # Kuşaklıçal Tepesi
 
-Kuşaklıçal Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Kuşaklıçal Tepesi, bölgenin jeoloji ve coğrafi yapısını anlamak için önemli bir nokta. Bu tepe, aynı zamanda çevredeki diğer tepelerle birlikte bir bütün olarak düşünülür ve bölgenin doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi.
+Kuşaklıçal Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. Kuşaklıçal Tepesi, bölgenin jeoloji ve coğrafi yapısını anlamak için önemli bir nokta. Bu tepe, aynı zamanda çevredeki diğer tepelerle birlikte bir bütün olarak düşünülür ve bölgenin doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi.
 
 ## Tarihçe
 

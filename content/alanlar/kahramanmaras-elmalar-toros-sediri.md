@@ -22,7 +22,7 @@ wikidata_id: "Q108228000"
 
 # Kahramanmaras-Elmalar Toros Sediri
 
-Kahramanmaras-Elmalar Toros Sediri milli parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu doğal alan, ziyaretçilerini büyüleyen bir güzelliğe sahiptir. Parkın içinde çeşitli bitki türlerinin yerine, çeşitli bitki türleri ve zengin fauna bulunur. Bu milli park, doğa severler için bir cennet gibidir ve ziyaretçilerine unutulmaz bir deneyim sunar. Kahramanmaras-Elmalar Toros Sediri milli parkının güzelliği, sadece burada bulunan bitki ve hayvan türleri ile sınırlı değildir, aynı zamanda ziyaretçilerine sunduğu huzur vepeaceful bir atmosfer de önemlidir.
+Kahramanmaras-Elmalar Toros Sediri milli parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. Parkın içinde çeşitli bitki türlerinin yerine, çeşitli bitki türleri ve zengin fauna bulunur. Kahramanmaras-Elmalar Toros Sediri milli parkının güzelliği, sadece burada bulunan bitki ve hayvan türleri ile sınırlı değildir, aynı zamanda ziyaretçilerine sunduğu huzur vepeaceful bir atmosfer de önemlidir.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Kahramanmaras-Elmalar Toros Sediri milli parkı, İç Anadolu Bölgesi'nin coğr
 
 ## Flora ve Fauna
 
-Kahramanmaras-Elmalar Toros Sediri milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Parkın florası, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, parkın flora ve fauna zenginleşir ve ziyaretçilere renkli bir manzara sunar. Parkta, birçok farklı hayvan türü bulunur, bunların arasında kuşlar, memeliler ve sürüngenler yer alır. Kahramanmaras-Elmalar Toros Sediri milli parkı, doğa severler için bir cennet gibidir ve ziyaretçilerine unutulmaz bir deneyim sunar.
+ Parkın florası, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, parkın flora ve fauna zenginleşir ve ziyaretçilere renkli bir manzara sunar. Parkta, birçok farklı hayvan türü bulunur, bunların arasında kuşlar, memeliler ve sürüngenler yer alır.
 
 ## Ziyaret Bilgileri
 

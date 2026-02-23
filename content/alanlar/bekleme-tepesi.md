@@ -28,7 +28,7 @@ wikidata_id: "Q31390236"
 
 # Bekleme Tepesi
 
-Bekleme Tepesi, Burdur'un 중심inde yer alan bir doğa harikası. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Bekeleme Tepesi, ziyaretçilerini yeşilin farklı tonlarıyla karşılar ve şehrin panoramik manzarasını sunar. Doğa yürüyüşleri, piknik alanları ve manzaralı noktalarıyla Bekeleme Tepesi, Burdur'un en önemli turizm noktalarından biri.
+Bekleme Tepesi, Burdur'un 중심inde yer alan bir doğa harikası. Bekeleme Tepesi, ziyaretçilerini yeşilin farklı tonlarıyla karşılar ve şehrin panoramik manzarasını sunar. Doğa yürüyüşleri, piknik alanları ve manzaralı noktalarıyla Bekeleme Tepesi, Burdur'un en önemli turizm noktalarından biri.
 
 ## Tarihçe
 

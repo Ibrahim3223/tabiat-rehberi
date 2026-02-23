@@ -1,7 +1,7 @@
 ---
 title: "Molla Mehmet Çelebi Türbesi"
 date: "2026-01-10T05:02:16.452Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391524"
 
 # Molla Mehmet Çelebi Türbesi
 
-Molla Mehmet Çelebi Türbesi, Tire'de bulunan ve tarihi değeri yüksek bir mekan olarak dikkat çeker. Bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine hem tarihi hem de doğal güzelliği bir arada sunar. Tire'nin merkezinde yer alan bu türbe, şehrin önemli dinamiklerini içerisinde barındırır. Tarihi ve kültürel zenginliklerle dolu olan Molla Mehmet Çelebi Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi amaçlar.
+Molla Mehmet Çelebi Türbesi, Tire'de bulunan ve tarihi değeri yüksek bir mekan olarak dikkat çeker. Tire'nin merkezinde yer alan bu türbe, şehrin önemli dinamiklerini içerisinde barındırır. Tarihi ve kültürel zenginliklerle dolu olan Molla Mehmet Çelebi Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi amaçlar.
 
 ## Tarihçe
 

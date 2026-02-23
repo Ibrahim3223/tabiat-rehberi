@@ -30,7 +30,7 @@ wikidata_id: "Q108228169"
 
 # Ekmeksiz Plajı Tabiat Parkı
 
-Ekmeksiz Plajı Tabiat Parkı, İzmir'in Seferihisar ilçesinde yer alan ve 140 hektarlık yeşil alanı ile ziyaretçilerini bekleyen bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir açık alan sunuyor. Parkın konumu, Ege Bölgesi'nin güzelliklerini gözler önüne sererken, aynı zamanda ziyaretçilere doğanın içinde huzur bulma fırsatı sunuyor. Ekmeksiz Plajı Tabiat Parkı, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak ortaya çıkarken, aynı zamanda bölgenin turizm potansiyelini de artırıyor.
+Ekmeksiz Plajı Tabiat Parkı, İzmir'in Seferihisar ilçesinde yer alan ve 140 hektarlık yeşil alanı ile ziyaretçilerini bekleyen bir doğa harikasıdır. Parkın konumu, Ege Bölgesi'nin güzelliklerini gözler önüne sererken, aynı zamanda ziyaretçilere doğanın içinde huzur bulma fırsatı sunuyor. Ekmeksiz Plajı Tabiat Parkı, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak ortaya çıkarken, aynı zamanda bölgenin turizm potansiyelini de artırıyor.
 
 ## Tarihçe
 

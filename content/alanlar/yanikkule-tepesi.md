@@ -28,7 +28,7 @@ wikidata_id: "Q31388169"
 
 # Yanıkkule Tepesi
 
-Yanıkkule Tepesi, Denizli'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin etrafı, çeşitli ağaç türleriyle çevrili ve bu doğal güzelliği görmek için birçok ziyaretçi buraya geliyor. Yanıkkule Tepesi, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Bu tepe, yüzyıllar boyunca önemli bir yerleşim yeri olarak kullanılmış ve bu nedenle, buradaki tarihi eserler ve kalıntılar, ziyaretçilerin ilgisini çekiyor.
+Yanıkkule Tepesi, Denizli'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Tepenin etrafı, çeşitli ağaç türleriyle çevrili ve bu doğal güzelliği görmek için birçok ziyaretçi buraya geliyor. Yanıkkule Tepesi, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Bu tepe, yüzyıllar boyunca önemli bir yerleşim yeri olarak kullanılmış ve bu nedenle, buradaki tarihi eserler ve kalıntılar, ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 

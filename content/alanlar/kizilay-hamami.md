@@ -1,7 +1,7 @@
 ---
 title: "Kızılay Hamamı"
 date: "2026-01-09T22:29:27.731Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738413"
 
 # Kızılay Hamamı
 
-Kızılay Hamamı, Bolu'nun en güzel plajlarından biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu güzel plaj, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biridir. Kızılay Hamamı, denize girerek serinlemek isteyenler için ideal bir yerdir. Plajın etrafında çeşitli restoran ve kafeler bulunmaktadır. Burada deniz ürünleri ve diğer lezzetler tadabilirsiniz. Kızılay Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlamaktadır. Plajın güzelliği ve temizliği, ziyaretçilerin buraya tekrar gelmesini sağlamaktadır.
+Kızılay Hamamı, Bolu'nun en güzel plajlarından biri olarak bilinir. Bu güzel plaj, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biridir. Kızılay Hamamı, denize girerek serinlemek isteyenler için ideal bir yerdir. Plajın etrafında çeşitli restoran ve kafeler bulunmaktadır. Burada deniz ürünleri ve diğer lezzetler tadabilirsiniz. Kızılay Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlamaktadır. Plajın güzelliği ve temizliği, ziyaretçilerin buraya tekrar gelmesini sağlamaktadır.
 
 ## Tarihçe
 

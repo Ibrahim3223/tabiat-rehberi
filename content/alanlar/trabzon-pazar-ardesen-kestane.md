@@ -22,7 +22,7 @@ wikidata_id: "Q108228499"
 
 # Trabzon-Pazar-Ardesen-Kestane
 
-Trabzon-Pazar-Ardesen-Kestane milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunmaktadır. Bu bölge, hem yerel halk hem de turistler için bir cazibe merkezi olarak kabul ediliyor. Milli parkın sunduğu imkânlar, ziyaretçilerin doğayla iç içe vakit geçirmelerini sağlıyor. Doğa yürüyüşleri, piknik alanları ve çeşitli aktiviteleri ile bu milli park, her yaştan ziyaretçiçin ideal bir destinasyon.
+Trabzon-Pazar-Ardesen-Kestane milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu bölge, hem yerel halk hem de turistler için bir cazibe merkezi olarak kabul ediliyor. Milli parkın sunduğu imkânlar, ziyaretçilerin doğayla iç içe vakit geçirmelerini sağlıyor. Doğa yürüyüşleri, piknik alanları ve çeşitli aktiviteleri ile bu milli park, her yaştan ziyaretçiçin ideal bir destinasyon.
 
 ## Tarihçe
 

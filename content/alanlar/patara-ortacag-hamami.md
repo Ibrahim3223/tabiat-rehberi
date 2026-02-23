@@ -1,7 +1,7 @@
 ---
 title: "Patara Ortaçağ Hamamı"
 date: "2026-01-09T23:01:29.420Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738846"
 
 # Patara Ortaçağ Hamamı
 
-Patara Ortaçağ Hamamı, Kaş ilçesinde yer alan ve Akdeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilen bir doğal güzelliktir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin bir tarihi geçmişi sahiptir. Patara, Likya'nın en önemli liman kentlerinden biri olarak bilinir ve bu özel hamam, tarihin izlerini taşıyan bir geçmişe sahiptir. Plajın etrafındaki tarihi yapılar ve kalıntılar, ziyaretçilere bu bölge hakkında daha fazla bilgi edinme fırsatı sunar.
+Patara Ortaçağ Hamamı, Kaş ilçesinde yer alan ve Akdeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilen bir doğal güzelliktir. Patara, Likya'nın en önemli liman kentlerinden biri olarak bilinir ve bu özel hamam, tarihin izlerini taşıyan bir geçmişe sahiptir. Plajın etrafındaki tarihi yapılar ve kalıntılar, ziyaretçilere bu bölge hakkında daha fazla bilgi edinme fırsatı sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Patara Ortaçağ Hamamı, tarihi geçmişiyle dikkat çeken bir yerdir. Likya Uy
 
 ## Coğrafya
 
-Patara Ortaçağ Hamamı, Kaş ilçesinde yer alır ve Akdeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Plajın etrafındaki tarihi yapılar ve kalıntılar, ziyaretçilere bu bölge hakkında daha fazla bilgi edinme fırsatı sunar. Patara, Likya'nın en önemli liman kentlerinden biri olarak bilinir ve bu özel hamam, tarihin izlerini taşıyan bir geçmişe sahiptir. Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir ve ziyaretçiler, burada çeşitli bitki türleri ve hayvanları görebilirler. İklim, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlıdır. Bu bölge, ziyaretçilere zengin bir coğrafya ve tarih sunar ve her mevsim farklı güzellikler sunar.
+Patara Ortaçağ Hamamı, Kaş ilçesinde yer alır ve Akdeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Plajın etrafındaki tarihi yapılar ve kalıntılar, ziyaretçilere bu bölge hakkında daha fazla bilgi edinme fırsatı sunar. Patara, Likya'nın en önemli liman kentlerinden biri olarak bilinir ve bu özel hamam, tarihin izlerini taşıyan bir geçmişe sahiptir. Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir ve ziyaretçiler, burada çeşitli bitki türleri ve hayvanları görebilirler. İklim, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlıdır. Bu bölge, ziyaretçilere zengin bir coğrafya ve tarih sunar ve her mevsim farklı güzellikler sunar.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Patara Ortaçağ Hamamı, zengin bir flora ve fauna çeşitliliğine sahiptir. B
 
 ## Ziyaret Bilgileri
 
-Patara Ortaçağ Hamamı, ziyaretçiler için bir doğa ve tarih cennetidir. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları görebilir ve doğanın güzelliğini keşfedebilirler. Patara, Likya'nın en önemli liman kentlerinden biri olarak bilinir ve bu özel hamam, tarihin izlerini taşıyan bir geçmişe sahiptir. Ziyaretçiler, buraya Kaş ilçesinden kolayca ulaşabilir ve bölgenin tarihi geçmişi hakkında daha fazla bilgi edinme fırsatı bulabilirler. En iyi ziyaret mevsimi, ilkbahar ve sonbahar aylarıdır ve bu dönemlerde, hava sıcaklığı ve yağış durumu, ziyaret için idealdir.
+Patara Ortaçağ Hamamı, ziyaretçiler için bir doğa ve tarih cennetidir. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları görebilir ve doğanın güzelliğini keşfedebilirler. Patara, Likya'nın en önemli liman kentlerinden biri olarak bilinir ve bu özel hamam, tarihin izlerini taşıyan bir geçmişe sahiptir. Ziyaretçiler, buraya Kaş ilçesinden kolayca ulaşabilir ve bölgenin tarihi geçmişi hakkında daha fazla bilgi edinme fırsatı bulabilirler. En iyi ziyaret mevsimi, ilkbahar ve sonbahar aylarıdır ve bu dönemlerde, hava sıcaklığı ve yağış durumu, ziyaret için idealdir.
 
 ## İlginç Bilgiler
 
 - Patara, Likya Uygarlığı'nın en önemli merkezlerinden biridir.
 - Ortaçağ Hamamı, tarihin izlerini taşıyan bir geçmişe sahiptir.
-- Bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Patara, Akdeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilir.
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.

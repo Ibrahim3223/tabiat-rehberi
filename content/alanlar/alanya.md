@@ -23,7 +23,7 @@ wikidata_id: "Q108228714"
 
 # ALANYA
 
-ALANYA, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü çeşitli bitki türleriyle dolu. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. ALANYA, özellikle doğa severler ve macera arayışında olanlar için bir cennet. Burada, yaban hayatının zenginliğini ve bölgenin eşsiz coğrafyasını keşfedebilirsiniz. ALANYA, aynı zamanda bölgedeki tarihi geçmişi ve kültürel mirası öğrenmek isteyenler için de ideal bir destinasyon.
+ALANYA, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. ALANYA, özellikle doğa severler ve macera arayışında olanlar için bir cennet. Burada, yaban hayatının zenginliğini ve bölgenin eşsiz coğrafyasını keşfedebilirsiniz. ALANYA, aynı zamanda bölgedeki tarihi geçmişi ve kültürel mirası öğrenmek isteyenler için de ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ ALANYA'nın tarihi geçmişi oldukça eskidir. Bu bölge, yüzyıllar boyunca fa
 
 ## Coğrafya
 
-ALANYA, İç Anadolu Bölgesi'nin coğrafi açıdan en ilgi çekici yerlerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerine ev sahipliği yapıyor. ALANYA'nın coğrafyası, çeşitli bitki türleriyle dolu ve yaban hayatının zenginliğini gözler önüne seriyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. ALANYA, özellikle bahar ve yaz aylarında ziyaretçilere doğanın güzelliğini en iyi şekilde sunuyor. Bu dönemde, bölgenin flora ve faunası en renkli haliyle ziyaretçilerle buluşuyor. ALANYA'nın coğrafyası, aynı zamanda ziyaretçilere çeşitli trekking ve doğa yürüyüşü imkanları sunuyor. Burada, doğanın içinde yürüyüş yaparak, bölgenin güzelliğini keşfedebilirsiniz.
+ALANYA, İç Anadolu Bölgesi'nin coğrafi açıdan en ilgi çekici yerlerinden biridir. ALANYA'nın coğrafyası, çeşitli bitki türleriyle dolu ve yaban hayatının zenginliğini gözler önüne seriyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. ALANYA, özellikle bahar ve yaz aylarında ziyaretçilere doğanın güzelliğini en iyi şekilde sunuyor. Bu dönemde, bölgenin flora ve faunası en renkli haliyle ziyaretçilerle buluşuyor. ALANYA'nın coğrafyası, aynı zamanda ziyaretçilere çeşitli trekking ve doğa yürüyüşü imkanları sunuyor. Burada, doğanın içinde yürüyüş yaparak, bölgenin güzelliğini keşfedebilirsiniz.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ ALANYA'ya ziyaret etmek için en uygun zaman, bahar ve yaz aylarıdır. Bu döne
 ## İlginç Bilgiler
 
 - ALANYA, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerine ev sahipliği yapıyor.
-- Bölge, 140 hektarlık bir alana sahip ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - ALANYA, özellikle bahar ve yaz aylarında ziyaretçilere doğanın güzelliğini en iyi şekilde sunuyor.
 - Bölge, çeşitli bitki türleri ve yaban hayatı ile zengin bir flora ve faunaya sahip.
 - ALANYA, aynı zamanda bölgedeki tarihi geçmişi ve kültürel mirası öğrenmek isteyenler için ideal bir destinasyon.

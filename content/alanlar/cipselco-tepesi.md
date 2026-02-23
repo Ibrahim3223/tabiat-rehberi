@@ -28,7 +28,7 @@ wikidata_id: "Q35734800"
 
 # Cipselço Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Batman, tarihi ve doğal güzellikleri ile dikkat çeker. Bu bölgenin en önemli doğal güzelliklerinden biri, Cipselço Tepesi'dir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte muhteşem bir manzara sunar. Cipselço Tepesi, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çeker. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini gösterirken, tepe itselfe tırmanmak ise doğa ile baş başa kalarak huzur bulmanın en güzel yoludur.
+Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Batman, tarihi ve doğal güzellikleri ile dikkat çeker. Bu bölgenin en önemli doğal güzelliklerinden biri, Cipselço Tepesi'dir. Cipselço Tepesi, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çeker. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini gösterirken, tepe itselfe tırmanmak ise doğa ile baş başa kalarak huzur bulmanın en güzel yoludur.
 
 ## Tarihçe
 

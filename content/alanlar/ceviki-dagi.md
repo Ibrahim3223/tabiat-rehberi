@@ -32,7 +32,7 @@ Van'ın dağlık bölgesinde yer alan Çeviki Dağı, doğal güzellikleri ile d
 
 ## Tarihçe
 
-Van bölgesinin zengin tarihi, binlerce yıl önceye kadar uzanır. Bu bölgede Urartular, Persler, Roma ve Osmanlı gibi çeşitli uygarlıklar yaşamıştır. Çeviki Dağı da, bu histórik coğrafyanın bir parçasıdır. Türkiye'deki doğal alanlar, tarihin her döneminde önemli rol oynamıştır. İnsanlar, bu bölgelerde yaylacılık, hayvancılık ve ticaret faaliyetleri gerçekleştirmişlerdir.
+Van bölgesinin zengin tarihi, binlerce yıl önceye kadar uzanır. Bu bölgede Urartular, Persler, Roma ve Osmanlı gibi çeşitli uygarlıklar yaşamıştır. Çeviki Dağı da, bu tarihi coğrafyanın bir parçasıdır. Türkiye'deki doğal alanlar, tarihin her döneminde önemli rol oynamıştır. İnsanlar, bu bölgelerde yaylacılık, hayvancılık ve ticaret faaliyetleri gerçekleştirmişlerdir.
 
 Van Gölü çevresindeki dağlar, tarihi İpek Yolu'nun önemli bir bölümünü oluşturur. Bu ticaret yolu, Asya ile Avrupa arasındaki ekonomi ve kültürel alışverişi sağlamıştır. Bölge, aynı zamanda çeşitli medeniyetlerin kültür mirasını da barındırır. İnsanların bu doğal alanlarla ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal yönden de önemlidir. Yaylacılık ve hayvancılık faaliyetleri, bölgenin geleneksel yaşam tarzıdır. Çeviki Dağı, bu tarihi ve kültürel zenginliğin bir parçası olarak, ziyaretçilerini Van'ın eşsiz güzelliği ile baş başa bırakır.
 

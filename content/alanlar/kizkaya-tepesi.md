@@ -28,7 +28,7 @@ wikidata_id: "Q31563796"
 
 # Kızkaya Tepesi
 
-Kızkaya Tepesi, Ordu ilinin güzide bir bölgesinde yer alan ve ziyaretçilerini büyülemekle bilinen bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türünü barındırır. Doğa severlerin ve gezi tutkunlarının sıkça ziyaret ettiği bu tepe, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Kızkaya Tepesi, yılın her mevsiminde ziyaret edilebilir ve her dönemde farklı bir güzelliğe sahip olur. İlkbahar ve yaz aylarında yeşilin her tonuna tanık olunurken, sonbahar ve kış mevsimlerinde ise manzara farklı bir güzelliğe bürünür.
+Kızkaya Tepesi, Ordu ilinin güzide bir bölgesinde yer alan ve ziyaretçilerini büyülemekle bilinen bir doğa harikasıdır. Doğa severlerin ve gezi tutkunlarının sıkça ziyaret ettiği bu tepe, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Kızkaya Tepesi, yılın her mevsiminde ziyaret edilebilir ve her dönemde farklı bir güzelliğe sahip olur. İlkbahar ve yaz aylarında yeşilin her tonuna tanık olunurken, sonbahar ve kış mevsimlerinde ise manzara farklı bir güzelliğe bürünür.
 
 ## Tarihçe
 

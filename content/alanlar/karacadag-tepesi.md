@@ -28,7 +28,7 @@ wikidata_id: "Q31388118"
 
 # Karacadağ Tepesi
 
-Karacadağ Tepesi, Denizli'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Denizli'nin merkezine yakın konumu ile kolayca ulaşılabilen Karacadağ Tepesi, hem yerel halk hem de turistler tarafından sıkça ziyaret ediliyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamı deneyimleme fırsatı sunarken, tepe itself doğa yürüyüşleri ve piknik için ideal bir ortam sunuyor.
+Karacadağ Tepesi, Denizli'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Denizli'nin merkezine yakın konumu ile kolayca ulaşılabilen Karacadağ Tepesi, hem yerel halk hem de turistler tarafından sıkça ziyaret ediliyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamı deneyimleme fırsatı sunarken, tepe itself doğa yürüyüşleri ve piknik için ideal bir ortam sunuyor.
 
 ## Tarihçe
 

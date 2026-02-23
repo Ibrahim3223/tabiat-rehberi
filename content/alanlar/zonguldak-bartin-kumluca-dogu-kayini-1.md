@@ -22,7 +22,7 @@ wikidata_id: "Q108227738"
 
 # Zonguldak-Bartin-Kumluca Dogu Kayini 1
 
-Zonguldak-Bartin-Kumluca Dogu Kayini 1 milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından biri olarak kabul edilmektedir. Bu milli park, zengin fauna ve flora çeşitliliği ile ziyaretçilerini büyülemektedir. Doğal güzellikleri keşfetme ve doğa ile iç içe olmak isteyenler için ideal bir destinasyon olan Zonguldak-Bartin-Kumluca Dogu Kayini 1, yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir.
+Zonguldak-Bartin-Kumluca Dogu Kayini 1 milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu milli park, zengin fauna ve flora çeşitliliği ile ziyaretçilerini büyülemektedir. Doğal güzellikleri keşfetme ve doğa ile iç içe olmak isteyenler için ideal bir destinasyon olan Zonguldak-Bartin-Kumluca Dogu Kayini 1, yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 

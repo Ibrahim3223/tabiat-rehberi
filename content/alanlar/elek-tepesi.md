@@ -28,7 +28,7 @@ wikidata_id: "Q31390195"
 
 # Elek Tepesi
 
-Elek Tepesi, Burdur'un güzide noktalarından biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzellikleri ve tarihi zenginlikleriyle ön plana çıkan Elek Tepesi, ziyaretçilerini bekliyor. Burdur'un merkezine yakın konumuyla da ulaşım açısından oldukça elverişli. Elek Tepesi, doğa severler ve tarih meraklıları için keyifli bir geziexperience sunuyor.
+Elek Tepesi, Burdur'un güzide noktalarından biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. Doğal güzellikleri ve tarihi zenginlikleriyle ön plana çıkan Elek Tepesi, ziyaretçilerini bekliyor. Burdur'un merkezine yakın konumuyla da ulaşım açısından oldukça elverişli. Elek Tepesi, doğa severler ve tarih meraklıları için keyifli bir geziexperience sunuyor.
 
 ## Tarihçe
 

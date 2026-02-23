@@ -22,7 +22,7 @@ wikidata_id: "Q108226227"
 
 # Tepeköy Sazlığı Sit Alanı
 
-Tepeköy Sazlığı Sit Alanı, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu sazlık alanı, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklüğü ile yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Bu geniş ve yeşil alan, çeşitli bitkilerin ve hayvanların yaşam alanı olarak hizmet veriyor. Tepeköy Sazlığı, özellikle kuş türlerinin yaşam alanı olarak biliniyor ve birçok farklı kuş türüne ev sahipliği yapıyor. Bu sazlık alanı, hem doğa severler hem de bilim insanları için önemli bir çalışma alanı olarak kabul ediliyor.
+Tepeköy Sazlığı Sit Alanı, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu geniş ve yeşil alan, çeşitli bitkilerin ve hayvanların yaşam alanı olarak hizmet veriyor. Tepeköy Sazlığı, özellikle kuş türlerinin yaşam alanı olarak biliniyor ve birçok farklı kuş türüne ev sahipliği yapıyor. Bu sazlık alanı, hem doğa severler hem de bilim insanları için önemli bir çalışma alanı olarak kabul ediliyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Luzunçeşme Tepe"
 date: "2026-01-09T08:21:29.279Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Van"

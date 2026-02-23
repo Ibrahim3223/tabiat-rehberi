@@ -29,7 +29,7 @@ wikidata_id: "Q130367251"
 
 # Sızır Şelalesi
 
-Sivas'ın İç Anadolu Bölgesi'nde yer alan Sızır Şelalesi, yaklaşık 140 hektarlık bir alan içinde, 200 futbol sahası büyüklüğünde bir doğal güzelliği sunuyor. Bu şelale, Sivas'ın merkezine uzun bir mesafe uzaklıkta bulunuyor ve bölgenin önemli turizm noktalarından biri olarak kabul ediliyor. Sızır Şelalesi, ziyaretçilerini natuurun güzelliği ve sakinliği ile büyülüyor.
+ Bu şelale, Sivas'ın merkezine uzun bir mesafe uzaklıkta bulunuyor ve bölgenin önemli turizm noktalarından biri olarak kabul ediliyor. Sızır Şelalesi, ziyaretçilerini natuurun güzelliği ve sakinliği ile büyülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sızır Şelalesi'nin tarihi geçmişi hakkındalı bilgiler bulunmuyor. Ancak, 
 
 ## Coğrafya
 
-Sızır Şelalesi, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Şelale, yaklaşık 140 hektarlık bir alan içinde, 200 futbol sahası büyüklüğünde bir doğal güzelliği sunuyor. Bölgenin coğrafi yapısı, şelalenin güzelliğini daha da artırıyor. Şelale, etrafındaki dağlar ve ormanlar ile birlikte, ziyaretçilere doğal bir güzellik sunuyor. Sivas'ın iklimi, karasal iklim özellikleri gösteriyor ve bu, Sızır Şelalesi'nin güzelliğini daha da artırıyor. Şelale, yıl boyunca ziyaret edilebilir, ancak en güzel zamanı ilkbahar ve yaz aylarıdır.
+Sızır Şelalesi, Sivas'ın İç Anadolu Bölgesi'nde yer alıyor. Bölgenin coğrafi yapısı, şelalenin güzelliğini daha da artırıyor. Şelale, etrafındaki dağlar ve ormanlar ile birlikte, ziyaretçilere doğal bir güzellik sunuyor. Sivas'ın iklimi, karasal iklim özellikleri gösteriyor ve bu, Sızır Şelalesi'nin güzelliğini daha da artırıyor. Şelale, yıl boyunca ziyaret edilebilir, ancak en güzel zamanı ilkbahar ve yaz aylarıdır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sızır Şelalesi'ni ziyaret etmek, ziyaretçiler için benzersiz bir deneyim su
 ## İlginç Bilgiler
 
 - Sızır Şelalesi, Sivas'ın en önemli turizm noktalarından biri olarak kabul ediliyor.
-- Şelale, yaklaşık 140 hektarlık bir alan içinde, 200 futbol sahası büyüklüğünde bir doğal güzelliği sunuyor.
+
 - Sızır Şelalesi, yıl boyunca ziyaret edilebilir, ancak en güzel zamanı ilkbahar ve yaz aylarıdır.
 - Şelale, etrafındaki dağlar ve ormanlar ile birlikte, ziyaretçilere doğal bir güzellik sunuyor.
 - Sivas'ın iklimi, karasal iklim özellikleri gösteriyor ve bu, Sızır Şelalesi'nin güzelliğini daha da artırıyor.

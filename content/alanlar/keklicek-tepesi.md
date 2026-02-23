@@ -28,7 +28,7 @@ wikidata_id: "Q31388178"
 
 # Keklicek Tepesi
 
-Keklicek Tepesi, Denizli'nin gözde noktalarından biri olarak dikkat çekiyor. 140 hektarlık bir alan kapsayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Ege Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Denizli'nin merkezine yakın konumuyla ziyaretçilerini bekliyor. Keklicek Tepesi, hem doğa severlerin hem de coğrafya meraklılarının ilgisini çekiyor. Bu tepe, Denizli'nin tarihi ve kültürel zenginliklerini de içerisinde barındırıyor.
+Keklicek Tepesi, Denizli'nin gözde noktalarından biri olarak dikkat çekiyor. Ege Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Denizli'nin merkezine yakın konumuyla ziyaretçilerini bekliyor. Keklicek Tepesi, hem doğa severlerin hem de coğrafya meraklılarının ilgisini çekiyor. Bu tepe, Denizli'nin tarihi ve kültürel zenginliklerini de içerisinde barındırıyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hamam Boğazı (Uşak)"
 date: "2026-01-09T11:02:42.297Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "kanyon"
 il: "Uşak"
@@ -50,7 +50,7 @@ Doğal bir koridor olarak işlev gören Hamam Boğazı, komşu alanlar ve su kay
 
 ## Flora ve Fauna
 
-Hamam Boğazı, Uşak'ta yer alan bir kanyon olarak, zeytinlikler ve çam ormanlarıyla çevrili bir Akdeniz iklimine sahiptir. 
+Hamam Boğazı, Uşak'ta yer alan bir kanyon olarak, zeytinlikler ve çam ormanlarıyla çevrili bir Akdeniz iklimine sahiptir.
 
 Bitki örtüsünde, çam ağaçları ve zeytinliklerin hakim olduğu bir manzara karşımıza çıkar. İlkbaharda, çiçeklerin renkli bir şöleni başlar ve sonbaharda, yaprakların altın sarısı rengi ile bir güzelliğe bürünür.
 

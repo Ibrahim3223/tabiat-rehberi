@@ -21,7 +21,7 @@ aktiviteler: ["tarihî yapıları keşfetmek","doğa yürüyüşü","fotografi",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 64","caption":"Bin Tepeler Tümülüsü 64","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2064","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728300","tip":"genel"}]
-description: "Ahmetli, Manisa'da bulunan Bin Tepeler Tümülüsü 64, Ege Bölgesi'nin önemli históriki ve kültürel alanlarından biridir."
+description: "Ahmetli, Manisa'da bulunan Bin Tepeler Tümülüsü 64, Ege Bölgesi'nin önemli tarihi ve kültürel alanlarından biridir."
 keywords: ["Bin Tepeler Tümülüsü 64","Ahmetli","Manisa","Ege Bölgesi","tarihi alan","kültürel miras","tümülüs","arkeoloji","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728300"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728300"
 
 # Bin Tepeler Tümülüsü 64
 
-Bin Tepeler Tümülüsü 64, Ege Bölgesi'nin Ahmetli ilçesinde, Manisa şehrinde yer alır. Bu bölge, tarihin derinliklerinden günümüze ulaşan tarihi ve kültürel zenginliklerle dolu bir alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarihi keşif alanı sunar. Bin Tepeler Tümülüsü 64, tarihi ve kültürel değerleriyle dikkat çekici bir destinasyondur.
+Bin Tepeler Tümülüsü 64, Ege Bölgesi'nin Ahmetli ilçesinde, Manisa şehrinde yer alır. Bu bölge, tarihin derinliklerinden günümüze ulaşan tarihi ve kültürel zenginliklerle dolu bir alandır. Bin Tepeler Tümülüsü 64, tarihi ve kültürel değerleriyle dikkat çekici bir destinasyondur.
 
 ## Tarihçe
 

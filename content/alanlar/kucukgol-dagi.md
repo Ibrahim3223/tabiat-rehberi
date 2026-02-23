@@ -50,7 +50,7 @@ Bölgenin ekosistemi açısından önemli bir role sahip olan Küçükgöl Dağ�
 
 ## Flora ve Fauna
 
-Küçükgöl Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Küçükgöl Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 **Bitki Örtüsü**: İlkbaharın gelmesiyle birlikte, dağ yamacında çiçekler açmaya başlar. Alpin çayırlar, renkli bir halı gibi görünür. Yükseklik zonlarına göre değişen flora, her mevsim farklı bir görünüm sunar. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünür.
 

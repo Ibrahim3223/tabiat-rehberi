@@ -28,7 +28,7 @@ wikidata_id: "Q31387399"
 
 # Şerefin Tepe
 
-Şerefin Tepe, Van ilinin güzide bir noktası olarak, tarihi ve coğrafi açıdan önemli bir konumda bulunuyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve doğa severler için bir çekim merkezi olarak kabul ediliyor. Doğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihi geçmişini yansıtan bu tepe, ziyaretçilerini etkileyici manzaralar ve zengin bir flora ile karşılar.
+Şerefin Tepe, Van ilinin güzide bir noktası olarak, tarihi ve coğrafi açıdan önemli bir konumda bulunuyor. Doğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihi geçmişini yansıtan bu tepe, ziyaretçilerini etkileyici manzaralar ve zengin bir flora ile karşılar.
 
 ## Tarihçe
 

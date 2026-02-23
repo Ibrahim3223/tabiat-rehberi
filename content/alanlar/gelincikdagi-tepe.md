@@ -32,7 +32,7 @@ Isparta'nın doğal güzellikleriyle dolu coğrafyasında, Gelincikdağı Tepe g
 
 ## Tarihçe
 
-Isparta bölgesi, tarihin sâu sayfalarında önemli bir rol oynamıştır. Bu bölge, Likya, Pisidya ve Frigya gibi antik uygarlıkların izlerini taşır. İnsanlık tarihinin önemli ticaret yolları da bu bölgeyi kapsar. Gelincikdağı Tepe gibi doğal alanlar, bu bölgenin zengin tarihsel dokusu içerisinde önemli bir yere sahiptir.
+Isparta bölgesi, tarihin derin sayfalarında önemli bir rol oynamıştır. Bu bölge, Likya, Pisidya ve Frigya gibi antik uygarlıkların izlerini taşır. İnsanlık tarihinin önemli ticaret yolları da bu bölgeyi kapsar. Gelincikdağı Tepe gibi doğal alanlar, bu bölgenin zengin tarihsel dokusu içerisinde önemli bir yere sahiptir.
 
 Türkiye'de, özellikle İç Anadolu ve Akdeniz bölgelerinde bulunan bu tür doğal alanlar, tarih boyunca insanların yaşamına yön vermiştir. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin ekonomisine katkıda bulunmuştur. Aynı zamanda, bu alanlar ticaret yolları için önemli durak noktaları olarak kullanılmıştır.
 
@@ -50,7 +50,7 @@ Gelincikdağı Tepe'nin çevresinde, çeşitli su kaynakları ve ekosistemler ye
 
 ## Flora ve Fauna
 
-Gelincikdağı Tepe, Isparta'nın maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gelincikdağı Tepe, Isparta'nın maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünden başlarsak, ilkbaharın gelmesiyle birlikte çiçekler patlıyor ve dağ yamaçları bir renk cümbüşüne dönüşüyor. Kuraklığa dayanıklı türler, bu bölgenin karakteristik özelliklerini taşıyor. Kıyı ekosisteminin etkileri, Gelincikdağı Tepe'nin flora çeşitliliğini zenginleştiriyor.
 

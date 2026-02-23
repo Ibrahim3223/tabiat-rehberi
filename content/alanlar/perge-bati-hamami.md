@@ -1,7 +1,7 @@
 ---
 title: "Perge Batı Hamamı"
 date: "2026-01-09T23:26:46.817Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739040"
 
 # Perge Batı Hamamı
 
-Perge Batı Hamamı, Aksu/Antalya'da bulunan ve tarihi ile doğal güzelliklerinin birleştiği benzersiz bir yer. Bu alan, yaklaşık 140 hektarlık bir bölgeye yayılmış ve tarihi geçmişi ile dikkat çekiyor. Perge Batı Hamamı, Antalya'nın Aksu ilçesinde yer alıyor ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. 200 futbol sahası büyüklüğünde bu yeşil alan, ziyaretçilerini histórik bir yolculuğa çıkarıyor.
+Perge Batı Hamamı, Aksu/Antalya'da bulunan ve tarihi ile doğal güzelliklerinin birleştiği benzersiz bir yer. Perge Batı Hamamı, Antalya'nın Aksu ilçesinde yer alıyor ve ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. 200 futbol sahası büyüklüğünde bu yeşil alan, ziyaretçilerini tarihi bir yolculuğa çıkarıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Perge Batı Hamamı'nın tarihi geçmişi, Antalya'nın zengin kültürel miras�
 
 ## Coğrafya
 
-Perge Batı Hamamı, Aksu/Antalya'da yer alıyor ve coğrafi konumu ile dikkat çekiyor. Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve iklimi, flora ve fauna açısından zengin bir çeşitlilik sunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini yeşil bir ortamda ağırlıyor. Perge Batı Hamamı'nın coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri sunuyor. Bu bölgenin coğrafyası, tarihi eserlerin korunmasına da katkı sağlıyor. Perge Batı Hamamı, Aksu/Antalya'nın önemli turistik yerlerinden biri olarak kabul ediliyor.
+Perge Batı Hamamı, Aksu/Antalya'da yer alıyor ve coğrafi konumu ile dikkat çekiyor. Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve iklimi, flora ve fauna açısından zengin bir çeşitlilik sunuyor. Perge Batı Hamamı'nın coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri sunuyor. Bu bölgenin coğrafyası, tarihi eserlerin korunmasına da katkı sağlıyor. Perge Batı Hamamı, Aksu/Antalya'nın önemli turistik yerlerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228217"
 
 # Bolu-Beypazari-Egriova-Sarıcam
 
-Bolu-Beypazari-Egriova-Sarıcam milli parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek için ideal bir destinasyon. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Milli parkın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve günümüzde doğal bir miras olarak korunuyor.
+Bolu-Beypazari-Egriova-Sarıcam milli parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek için ideal bir destinasyon. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Milli parkın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve günümüzde doğal bir miras olarak korunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Beypazari-Egriova-Sarıcam milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Bolu-Beypazari-Egriova-Sarıcam milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir destinasyondur. Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna bulunabilir. Milli parkın coğrafi konumu, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimini yansıtıyor ve ziyaretçilerine yıl boyunca çeşitli deneyimler sunuyor. Milli parkın çevresi, doğal güzelliklerle dolu ve ziyaretçilerine doğayı keşfetme fırsatı sunuyor.
+Bolu-Beypazari-Egriova-Sarıcam milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir destinasyondur. Milli parkın coğrafi konumu, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimini yansıtıyor ve ziyaretçilerine yıl boyunca çeşitli deneyimler sunuyor. Milli parkın çevresi, doğal güzelliklerle dolu ve ziyaretçilerine doğayı keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bolu-Beypazari-Egriova-Sarıcam milli parkını ziyaret etmek, doğanın güzell
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkın flora, Karadeniz Bölgesi'nin karakteristik bitki türlerini içeriyor.
 - Milli parkın fauna, çeşitli hayvan türleri ile dolu.
 - Parkın mevsimsel değişimleri, ziyaretçilerine yıl boyunca çeşitli deneyimler sunuyor.

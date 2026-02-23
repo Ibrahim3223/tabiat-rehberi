@@ -1,7 +1,7 @@
 ---
 title: "Rumeli Hisarı"
 date: "2026-01-09T22:05:22.037Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q90801"
 
 # Rumeli Hisarı
 
-Rumeli Hisarı, İstanbul'un Sarıyer ilçesinde, Boğaziçi Köprüsü'nün Avrupa yakasındaki girişinde yer alan bir tarihi hisardır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu hisar, Fatih Sultan Mehmet tarafından 1452 yılında inşa ettirilmiştir. Rumeli Hisarı, İstanbul'un fethine önemli bir stratejik rol oynamıştır. Bugün, hisar ve çevresi hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini ağırlamaktadır.
+Rumeli Hisarı, İstanbul'un Sarıyer ilçesinde, Boğaziçi Köprüsü'nün Avrupa yakasındaki girişinde yer alan bir tarihi hisardır. Bu hisar, Fatih Sultan Mehmet tarafından 1452 yılında inşa ettirilmiştir. Rumeli Hisarı, İstanbul'un fethine önemli bir stratejik rol oynamıştır. Bugün, hisar ve çevresi hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini ağırlamaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Rumeli Hisarı, Osmanlı İmparatorluğu'nun İstanbul'u fethetme planları kaps
 
 ## Coğrafya
 
-Rumeli Hisarı, İstanbul'un Sarıyer ilçesinde, Boğaziçi'nin Avrupa yakasında yer almaktadır. Hisar, Boğaziçi Köprüsü'nün girişinde, Marmara Denizi ve Karadeniz'in birleştiği noktada bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Hisarın çevresi, ormanlık alanlarla kaplıdır ve yeşilin çeşitli tonlarını görme mümkündür. Bölge, Marmara Bölgesi'nin ılıman ikliminin etkisindedir. Kışlar genellikle ılık ve yağışlı, yazlar ise sıcak ve nemlidir. Hisarın yakınında, çeşitli restoranlar ve çay bahçeleri bulunmaktadır. Bu mekanlar, hisarın tarihi atmosferini ve doğal güzelliğini ziyaretçilerle paylaşmaktadır.
+Rumeli Hisarı, İstanbul'un Sarıyer ilçesinde, Boğaziçi'nin Avrupa yakasında yer almaktadır. Hisar, Boğaziçi Köprüsü'nün girişinde, Marmara Denizi ve Karadeniz'in birleştiği noktada bulunmaktadır. Hisarın çevresi, ormanlık alanlarla kaplıdır ve yeşilin çeşitli tonlarını görme mümkündür. Bölge, Marmara Bölgesi'nin ılıman ikliminin etkisindedir. Kışlar genellikle ılık ve yağışlı, yazlar ise sıcak ve nemlidir. Hisarın yakınında, çeşitli restoranlar ve çay bahçeleri bulunmaktadır. Bu mekanlar, hisarın tarihi atmosferini ve doğal güzelliğini ziyaretçilerle paylaşmaktadır.
 
 ## Flora ve Fauna
 

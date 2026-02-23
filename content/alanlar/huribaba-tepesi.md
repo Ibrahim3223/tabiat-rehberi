@@ -28,7 +28,7 @@ wikidata_id: "Q31388363"
 
 # Huribaba Tepesi
 
-Huribaba Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Doğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için ideal bir gözlem noktası. Buradaki manzara, ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found. Bu bölgede, mevsimsel değişimler nedeniyle farklı canlı türleri yaşamını sürdürüyor.
+Huribaba Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Doğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için ideal bir gözlem noktası. Buradaki manzara, ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found. Bu bölgede, mevsimsel değişimler nedeniyle farklı canlı türleri yaşamını sürdürüyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Huribaba Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için �
 ## İlginç Bilgiler
 
 - Huribaba Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Huribaba Tepesi, tarihsel açıdan önemli bir geçmişi olan bir bölge.
 - Buradaki kalıntılar ve tarihi yapılar, ziyaretçilere bu bölgenin zengin tarihini anlatıyor.
 - Huribaba Tepesi, aynı zamanda bölgenin coğrafi ve jeolojik yapısını anlamak için bir anahtar nokta.

@@ -1,7 +1,7 @@
 ---
 title: "Denizli Köyü Türbesi"
 date: "2026-01-10T05:43:24.440Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582177"
 
 # Denizli Köyü Türbesi
 
-Denizli Köyü Türbesi, Ege Bölgesi'nin en güzel plajlarından biri olarak Urla'da yer alıyor. Bu muhteemmel plaj, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Denizli Köyü Türbesi, Urla'nın en çok ziyaret edilen yerlerinden biri olarak biliniyor. Plajın etrafında çeşitli restoranlar ve kafeler bulunmakta, ziyaretçilere güzel bir gün geçirmeleri için her türlü olanak sağlanmakta.
+Denizli Köyü Türbesi, Ege Bölgesi'nin en güzel plajlarından biri olarak Urla'da yer alıyor. Denizli Köyü Türbesi, Urla'nın en çok ziyaret edilen yerlerinden biri olarak biliniyor. Plajın etrafında çeşitli restoranlar ve kafeler bulunmakta, ziyaretçilere güzel bir gün geçirmeleri için her türlü olanak sağlanmakta.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Denizli Köyü Türbesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeni
 
 ## Coğrafya
 
-Denizli Köyü Türbesi, Ege Bölgesi'nin en güzel plajlarından biri olarak Urla'da yer alıyor. Plaj, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Plajın etrafında çeşitli restoranlar ve kafeler bulunmakta, ziyaretçilere güzel bir gün geçirmeleri için her türlü olanak sağlanmakta. Denizli Köyü Türbesi, Ege Denizi'nin güzel sularına sahip bir plaj olarak biliniyor. Plajın kumlu sahili, ziyaretçilere güneşlenme ve denizde yüzmek için ideal bir ortam sunuyor. Ayrıca, plajın etrafında birçok tarihi eser ve kalıntı bulunmakta, ziyaretçilere bölge hakkında daha fazla bilgi edinme fırsatı sunuyor.
+Denizli Köyü Türbesi, Ege Bölgesi'nin en güzel plajlarından biri olarak Urla'da yer alıyor. Plajın etrafında çeşitli restoranlar ve kafeler bulunmakta, ziyaretçilere güzel bir gün geçirmeleri için her türlü olanak sağlanmakta. Denizli Köyü Türbesi, Ege Denizi'nin güzel sularına sahip bir plaj olarak biliniyor. Plajın kumlu sahili, ziyaretçilere güneşlenme ve denizde yüzmek için ideal bir ortam sunuyor. Ayrıca, plajın etrafında birçok tarihi eser ve kalıntı bulunmakta, ziyaretçilere bölge hakkında daha fazla bilgi edinme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

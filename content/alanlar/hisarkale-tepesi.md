@@ -1,7 +1,7 @@
 ---
 title: "Hisarkale Tepesi"
 date: "2026-01-10T09:56:47.059Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Bursa"
@@ -28,7 +28,7 @@ wikidata_id: "Q31387134"
 
 # Hisarkale Tepesi
 
-Bursa'nın Marmara Bölgesi'nde yer alan Hisarkale Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Hisarkale Tepesi, ziyaretçilerini doğanın içlerine davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontruyor. Hisarkale Tepesi, doğa severler ve macera arayanlar için ideal bir destinasyon.
+ Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Hisarkale Tepesi, ziyaretçilerini doğanın içlerine davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontruyor. Hisarkale Tepesi, doğa severler ve macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

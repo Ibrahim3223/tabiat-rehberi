@@ -1,7 +1,7 @@
 ---
 title: "Akbıyık Sultan Ahmet Şemsettin Türbesi"
 date: "2026-01-10T05:29:05.632Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391369"
 
 # Akbıyık Sultan Ahmet Şemsettin Türbesi
 
-Akbıyık Sultan Ahmet Şemsettin Türbesi, Marmara Bölgesi'nin önemli bir tarihi mirası olarak İnegöl, Bursa'da bulunmaktadır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde yer almakta ve 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Türbenin mimarisi, Osmanlı dönemi özellikleri taşımaktadır. Sultan Ahmet Şemsettin'in hayatını ve döneminin özelliklerini yansıtan bu türbe, ziyaretçilerini tarihin derinliklerine götürmektedir. 14. yüzyılda inşa edilen bu eser, zaman içinde çeşitli restorasyonlar geçirmiş ve günümüze ulaşmıştır. Türbenin çevresinde çeşitli bitkiler ve ağaçlar bulunmakta, ziyaretçilere huzurlu bir ortam sağlamaktadır.
+Akbıyık Sultan Ahmet Şemsettin Türbesi, Marmara Bölgesi'nin önemli bir tarihi mirası olarak İnegöl, Bursa'da bulunmaktadır. Türbenin mimarisi, Osmanlı dönemi özellikleri taşımaktadır. Sultan Ahmet Şemsettin'in hayatını ve döneminin özelliklerini yansıtan bu türbe, ziyaretçilerini tarihin derinliklerine götürmektedir. 14. yüzyılda inşa edilen bu eser, zaman içinde çeşitli restorasyonlar geçirmiş ve günümüze ulaşmıştır. Türbenin çevresinde çeşitli bitkiler ve ağaçlar bulunmakta, ziyaretçilere huzurlu bir ortam sağlamaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Akbıyık Sultan Ahmet Şemsettin Türbesi, 14. yüzyılda Sultan Ahmet Şemsett
 
 ## Coğrafya
 
-Akbıyık Sultan Ahmet Şemsettin Türbesi, İnegöl, Bursa'da bulunmaktadır. Türbe, yaklaşık 140 hektarlık bir alan üzerinde yer almakta ve 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Bu alan, çeşitli bitkiler ve ağaçlarla kaplıdır. Türbenin mimarisi, Osmanlı dönemi özellikleri taşımaktadır. Çevresinde, tarihi yapılar ve doğal güzellikler bulunmaktadır. Türbe, ziyaretçilerine huzurlu bir ortam sunmaktadır. İnegöl'ün coğrafi konumu, türbenin çevresindeki doğal güzellikleri etkilemiştir. Bölge, Marmara Bölgesi'nin karakteristik özelliklerini taşımaktadır. Türbenin bulunduğu alan, ziyaretçilere tarihin zenginliklerini sunmaktadır.
+Akbıyık Sultan Ahmet Şemsettin Türbesi, İnegöl, Bursa'da bulunmaktadır. Bu alan, çeşitli bitkiler ve ağaçlarla kaplıdır. Türbenin mimarisi, Osmanlı dönemi özellikleri taşımaktadır. Çevresinde, tarihi yapılar ve doğal güzellikler bulunmaktadır. Türbe, ziyaretçilerine huzurlu bir ortam sunmaktadır. İnegöl'ün coğrafi konumu, türbenin çevresindeki doğal güzellikleri etkilemiştir. Bölge, Marmara Bölgesi'nin karakteristik özelliklerini taşımaktadır. Türbenin bulunduğu alan, ziyaretçilere tarihin zenginliklerini sunmaktadır.
 
 ## Flora ve Fauna
 

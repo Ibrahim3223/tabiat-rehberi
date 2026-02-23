@@ -28,7 +28,7 @@ wikidata_id: "Q31389343"
 
 # Kasnakdağı Tepesi
 
-Kasnakdağı Tepesi, Mersin ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türüne ev sahipliği yapar. Bu bölgede, ziyaretçiler doğanın güzelliğini keşfetme fırsatı bulurken, aynı zamanda bölgenin tarihi geçmişini de öğrenebilirler. Kasnakdağı Tepesi, Mersin'in önemli turizm noktalarından biri olarak dikkat çeker ve doğa severlerin ilgisini çeker.
+Kasnakdağı Tepesi, Mersin ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe olarak bilinir. Bu bölgede, ziyaretçiler doğanın güzelliğini keşfetme fırsatı bulurken, aynı zamanda bölgenin tarihi geçmişini de öğrenebilirler. Kasnakdağı Tepesi, Mersin'in önemli turizm noktalarından biri olarak dikkat çeker ve doğa severlerin ilgisini çeker.
 
 ## Tarihçe
 

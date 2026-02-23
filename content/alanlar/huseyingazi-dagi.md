@@ -49,11 +49,11 @@ Mevsimsel açıdan bakıldığında, Hüseyingazi Dağı'nın iklim karakteri An
 
 ## Flora ve Fauna
 
-Hüseyingazi Dağı, Ankara'nın doğal güzelliklerini barındıran önemli bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün yarısı kadar bir alanı kaplıyor. 
+Hüseyingazi Dağı, Ankara'nın doğal güzelliklerini barındıran önemli bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü: Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, ilkbaharla birlikte renkli çiçekler açıyor. Kuraklığa adapte türler, dağın yükseklik zonlarında farklı mevsimsel görünümler sunuyor. 
+Bitki Örtüsü: Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, ilkbaharla birlikte renkli çiçekler açıyor. Kuraklığa adapte türler, dağın yükseklik zonlarında farklı mevsimsel görünümler sunuyor.
 
-Yaban Hayatı: Dağda memeliler, kuşlar ve sürüngenler yaşamını sürdürüyor. Göç eden kuşlar, sonbaharla birlikte bu dağ ekosisteminde konaklıyor. 
+Yaban Hayatı: Dağda memeliler, kuşlar ve sürüngenler yaşamını sürdürüyor. Göç eden kuşlar, sonbaharla birlikte bu dağ ekosisteminde konaklıyor.
 
 Ekolojik Değer: Dağın ekolojik değerini koruma altına almak, bu doğal alanın sürekliliğini sağlamak için önemli. Hüseyingazi Dağı, Ankara'nın ekolojik dengesini koruyan önemli bir bileşen olarak görülüyor.
 

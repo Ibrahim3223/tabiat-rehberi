@@ -52,7 +52,7 @@ Doğmaz Dağ, çevresindeki coğrafi oluşumlar ile önemli bir bağlantı içer
 
 Doğmaz Dağ, Bursa'nın güzide bir köşesinde yer alan bir dağ ekosistemi olarak, ziyaretçilerini dört mevsim boyunca farklı bir güzelliğe davet ediyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Karma ormanların hakim olduğu bu bölgede, çeşitli ağaç türleri mevsimsel değişimlere göre farklılık gösteriyor.
 
-Dağın yükseklik zonlarına çıktıkça, alpin flora ortaya çıkıyor. Bu zona özel bitkiler, zorlu koşullara adapte olmuş ve endemik türler arasında yer alıyor. Sonbaharda, göçmen kuşlar rotalarına devam ederken, dağ yollarına renk katarlar. 
+Dağın yükseklik zonlarına çıktıkça, alpin flora ortaya çıkıyor. Bu zona özel bitkiler, zorlu koşullara adapte olmuş ve endemik türler arasında yer alıyor. Sonbaharda, göçmen kuşlar rotalarına devam ederken, dağ yollarına renk katarlar.
 
 Memeliler, kuşlar ve sürüngenler de bu dağ ekosisteminin önemli bileşenleri arasında yer alıyor. Dağ keçileri ve ayılar, dağların yüksek kesimlerinde yaşamını sürdürürken, çeşitli kuş türleri de bu bölgede yuva yapıyor. Sürüngenler ise, güneşli günlerde kayaların üzerinde ısınarak hayatlarını sürdürüyorlar.
 
@@ -68,5 +68,5 @@ Bursa'da bulunan Doğmaz Dağ, doğa severlerin keyif alacağı bir destinasyon.
 - Doğmaz Dağ, 1379 metre yüksekliği ile bölgenin önemli tepe noktalarından biridir.
 - Dağın etrafında çeşitli köyler ve yerleşim yerleri bulunur, toplamda 5 köyün sınırları içerisine girer.
 - Doğmaz Dağ, flora ve fauna çeşitliliği açısından zengin bir alandır, özellikle ormanlık alanları ile dikkat çeker.
-- Dağın eteklerinde ve çevresinde históri ve kültürel değerlere sahip çeşitli yapılar ve anıtlar bulunur.
+- Dağın eteklerinde ve çevresinde tarihi ve kültürel değerlere sahip çeşitli yapılar ve anıtlar bulunur.
 - Bölge, trekking ve doğa yürüyüşü gibi outdoor etkinliklere elverişli bir arazisi sahiptir.

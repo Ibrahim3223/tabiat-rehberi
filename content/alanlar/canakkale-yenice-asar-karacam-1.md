@@ -22,7 +22,7 @@ wikidata_id: "Q108227497"
 
 # Canakkale-Yenice-Asar Karacam 1
 
-Canakkale-Yenice-Asar Karacam 1 milli parkı, Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennettir. Parkın coğrafi konumu, ziyaretçilere eşsiz bir doğa deneyimi sunar. Çanakkale'nin históri ve kültürel zenginliklerinin yanı sıra, Asar Karacam 1 milli parkı da bu bölgenin önemli bir turizm merkezidir. Ziyaretçiler, parkın geniş arazisinde gezerken, çeşitli bitki türleri ve zengin fauna ile karşılaşırlar. Bu milli park, aynı zamanda yüzyıllar boyunca şekillenen coğrafi yapısı ile dikkat çeker.
+Canakkale-Yenice-Asar Karacam 1 milli parkı, Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alır. Parkın coğrafi konumu, ziyaretçilere eşsiz bir doğa deneyimi sunar. Çanakkale'nin tarihi ve kültürel zenginliklerinin yanı sıra, Asar Karacam 1 milli parkı da bu bölgenin önemli bir turizm merkezidir. Ziyaretçiler, parkın geniş arazisinde gezerken, çeşitli bitki türleri ve zengin fauna ile karşılaşırlar. Bu milli park, aynı zamanda yüzyıllar boyunca şekillenen coğrafi yapısı ile dikkat çeker.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Asar Karacam 1 milli parkının tarihi geçmişi, Çanakkale'nin tarihi ile iç 
 
 ## Coğrafya
 
-Asar Karacam 1 milli parkı, Çanakkale ilinin Yenice ilçesinde yer alır ve Marmara Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Parkın coğrafi konumu, ziyaretçilere eşsiz bir doğa deneyimi sunar. 140 hektarlık geniş arazisi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennettir. Parkın içinde yer alan tepe ve vadiler, ziyaretçilere çeşitli yürüyüş rotaları sunar. Bu milli park, aynı zamanda yüzyıllar boyunca şekillenen coğrafi yapısı ile dikkat çeker. Parkın iklimi, Marmara Bölgesi'nin karasal iklimine benzer ve dört mevsim ziyaret edilebilir. Ziyaretçiler, parkın coğrafi güzelliği ile birlikte, zengin fauna ve çeşitli bitki türlerini de keşfetme fırsatı bulurlar.
+Asar Karacam 1 milli parkı, Çanakkale ilinin Yenice ilçesinde yer alır ve Marmara Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Parkın coğrafi konumu, ziyaretçilere eşsiz bir doğa deneyimi sunar. Parkın içinde yer alan tepe ve vadiler, ziyaretçilere çeşitli yürüyüş rotaları sunar. Bu milli park, aynı zamanda yüzyıllar boyunca şekillenen coğrafi yapısı ile dikkat çeker. Parkın iklimi, Marmara Bölgesi'nin karasal iklimine benzer ve dört mevsim ziyaret edilebilir. Ziyaretçiler, parkın coğrafi güzelliği ile birlikte, zengin fauna ve çeşitli bitki türlerini de keşfetme fırsatı bulurlar.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31537701"
 
 # Tepecıkbayır Tepesi
 
-Gaziantep'in merkezine yakın bir konumda bulunan Tepecıkbayır Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tepecıkbayır Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Burada, bölgeye özgü bitki türleri ve hayvanlar ile karşılaşabilir ve bölge hakkında daha fazla bilgi edinebilirsiniz.
+Gaziantep'in merkezine yakın bir konumda bulunan Tepecıkbayır Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Tepecıkbayır Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Burada, bölgeye özgü bitki türleri ve hayvanlar ile karşılaşabilir ve bölge hakkında daha fazla bilgi edinebilirsiniz.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tepecıkbayır Tepesi'nin tarihi geçmişi, Gaziantep'in tarihi ile bağlantıl�
 
 ## Coğrafya
 
-Tepecıkbayır Tepesi, Gaziantep'in merkezine yakın bir konumda bulunur ve yaklaşık 140 hektarlık bir alanı kaplar. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Tepecıkbayır Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve bölgede çeşitli bitki türleri ve hayvanlar bulunur. Bu tepe, aynı zamanda bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Burada, bölgeye özgü bitki türleri ve hayvanlar ile karşılaşabilir ve bölge hakkında daha fazla bilgi edinebilirsiniz.
+Tepecıkbayır Tepesi, Gaziantep'in merkezine yakın bir konumda bulunur ve yaklaşık 140 hektarlık bir alanı kaplar. Tepecıkbayır Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve bölgede çeşitli bitki türleri ve hayvanlar bulunur. Bu tepe, aynı zamanda bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Burada, bölgeye özgü bitki türleri ve hayvanlar ile karşılaşabilir ve bölge hakkında daha fazla bilgi edinebilirsiniz.
 
 ## Flora ve Fauna
 

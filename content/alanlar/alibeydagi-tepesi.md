@@ -28,7 +28,7 @@ wikidata_id: "Q31388317"
 
 # Alibeydağı Tepesi
 
-Alibeydağı Tepesi, Kars'ın eşsiz manzarasına ev sahipliği yapan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Kars'ın coğrafi yapısının önemli bir parçası olan Alibeydağı Tepesi, bölgenin tarihi ve kültürel zenginliklerini keşfetmek için ziyaretçilere unutulmaz bir deneyim sunar. Tepenin eteklerinde yer alan köyler, geleneksel mimari örnekleriyle dikkat çekerken, tepe itself, doğa severler için bir cennet olarak karşımıza çıkar. Alibeydağı Tepesi, Kars'ın turizm potansiyelini yüksek bir noktada tutan önemli bir destinasyondur.
+Alibeydağı Tepesi, Kars'ın eşsiz manzarasına ev sahipliği yapan bir doğa harikasıdır. Kars'ın coğrafi yapısının önemli bir parçası olan Alibeydağı Tepesi, bölgenin tarihi ve kültürel zenginliklerini keşfetmek için ziyaretçilere unutulmaz bir deneyim sunar. Tepenin eteklerinde yer alan köyler, geleneksel mimari örnekleriyle dikkat çekerken, tepe itself, doğa severler için bir cennet olarak karşımıza çıkar. Alibeydağı Tepesi, Kars'ın turizm potansiyelini yüksek bir noktada tutan önemli bir destinasyondur.
 
 ## Tarihçe
 

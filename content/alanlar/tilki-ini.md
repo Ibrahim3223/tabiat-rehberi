@@ -50,9 +50,9 @@ Doğal yapısı itibariyle Tilki İni, bir şehir bloğu büyüklüğünde bir a
 
 ## Flora ve Fauna
 
-Tilki İni Jeoparkı, Mersin'in maki bitki örtüsüne ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanıyor. Kıyı ekosisteminin bir parçası olan bu bölge, kuraklığa dayanıklı türlerin yaşam alanı. 
+Tilki İni Jeoparkı, Mersin'in maki bitki örtüsüne ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanıyor. Kıyı ekosisteminin bir parçası olan bu bölge, kuraklığa dayanıklı türlerin yaşam alanı.
 
-Orman ekosisteminde, çeşitli ağaç türleri göze çarpıyor. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu alanı ziyaret ediyor. Orman memelileri, ağaçların gölgesinde yaşamını sürdürüyor. 
+Orman ekosisteminde, çeşitli ağaç türleri göze çarpıyor. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu alanı ziyaret ediyor. Orman memelileri, ağaçların gölgesinde yaşamını sürdürüyor.
 
 Tilki İni Jeoparkı, ekolojik açıdan önemli bir bölge. Bu alanın korunması, hem bitki örtüsünün hem de yaban hayatının sürekliliğiçin gerekli. 1200 hektarlık bu yeşil alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor ve bu nedenle koruma altına alınması son derece önemli.
 

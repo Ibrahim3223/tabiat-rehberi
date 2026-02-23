@@ -1,7 +1,7 @@
 ---
 title: "Arap Mescit Camii"
 date: "2026-01-10T06:24:49.106Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q132134370"
 
 # Arap Mescit Camii
 
-Arap Mescit Camii, Afyonkarahisar merkezinde yer alan ve tarihi değer taşıyan bir camidir. 140 hektarlık bir alanda kurulmuş olan bu cami, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Caminin etrafında çeşitli dükkanlar ve restoranlar bulunur. Bu cami, Afyonkarahisar'ın en önemli kültürel değerlerinden biridir. Arap Mescit Camii, ziyaretçilerini tarihi atmosferi ve mimari güzelliği ile büyüler. Cami, her yıl birçok ziyaretçi tarafından ziyaret edilir ve önemli bir gezi noktası olarak kabul edilir.
+Arap Mescit Camii, Afyonkarahisar merkezinde yer alan ve tarihi değer taşıyan bir camidir. Caminin etrafında çeşitli dükkanlar ve restoranlar bulunur. Bu cami, Afyonkarahisar'ın en önemli kültürel değerlerinden biridir. Arap Mescit Camii, ziyaretçilerini tarihi atmosferi ve mimari güzelliği ile büyüler. Cami, her yıl birçok ziyaretçi tarafından ziyaret edilir ve önemli bir gezi noktası olarak kabul edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Arap Mescit Camii'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir süre
 
 ## Coğrafya
 
-Arap Mescit Camii, Afyonkarahisar merkezinde yer alır. Cami, şehrin önemli caddelerinden birine yakın bir konumda bulunur. Caminin etrafında çeşitli dükkanlar, restoranlar ve diğer ticari işletmeler yer alır. Cami, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Caminin mimarisi, geleneksel Türk mimari tarzında yapılmıştır. Caminin içinde ve dışında çeşitli süslemeler ve motifler bulunur. Cami, şehrin önemli bir gezi noktası olarak kabul edilir ve her yıl birçok ziyaretçi tarafından ziyaret edilir. Cami, Afyonkarahisar'ın coğrafi konumu itibariyle, Ege Bölgesi'nin merkezi bir noktasında yer alır.
+Arap Mescit Camii, Afyonkarahisar merkezinde yer alır. Cami, şehrin önemli caddelerinden birine yakın bir konumda bulunur. Caminin etrafında çeşitli dükkanlar, restoranlar ve diğer ticari işletmeler yer alır. Caminin mimarisi, geleneksel Türk mimari tarzında yapılmıştır. Caminin içinde ve dışında çeşitli süslemeler ve motifler bulunur. Cami, şehrin önemli bir gezi noktası olarak kabul edilir ve her yıl birçok ziyaretçi tarafından ziyaret edilir. Cami, Afyonkarahisar'ın coğrafi konumu itibariyle, Ege Bölgesi'nin merkezi bir noktasında yer alır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Arap Mescit Camii'ni ziyaret etmek için, Afyonkarahisar merkezine gelmek gereki
 
 - Arap Mescit Camii, Afyonkarahisar'ın en önemli kültürel değerlerinden biridir.
 - Cami, 140 hektarlık bir alanı kaplar.
-- Cami, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Cami, geleneksel Türk mimari tarzında yapılmıştır.
 - Cami, her yıl birçok ziyaretçi tarafından ziyaret edilir.

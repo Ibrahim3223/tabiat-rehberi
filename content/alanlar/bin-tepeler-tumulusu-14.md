@@ -29,7 +29,7 @@ wikidata_id: "Q134728372"
 
 # Bin Tepeler Tümülüsü 14
 
-Bin Tepeler Tümülüsü 14, Ege Bölgesi'nin tarihi ve doğal güzelliklerine ev sahipliği yapan Salihli/Manisa'da yer alır. Bu bölgede, yaklaşık 140 hektarlık bir alanı kapsayan tümülüsler, história ve doğa severler için önemli bir destinasyondur. Bin Tepeler Tümülüsü 14, diğer tümülüsler gibi, tarihi geçmişin önemli bir parçasını oluşturur ve ziyaretçiler için zengin bir deneyim sunar. Tümülüslerin bulunduğu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu da ziyaretçilerin geniş bir alanda gezebilecekleri anlamına gelir.
+Bin Tepeler Tümülüsü 14, Ege Bölgesi'nin tarihi ve doğal güzelliklerine ev sahipliği yapan Salihli/Manisa'da yer alır. Bu bölgede, yaklaşık 140 hektarlık bir alanı kapsayan tümülüsler, tarihi ve doğa severler için önemli bir destinasyondur. Bin Tepeler Tümülüsü 14, diğer tümülüsler gibi, tarihi geçmişin önemli bir parçasını oluşturur ve ziyaretçiler için zengin bir deneyim sunar.
 
 ## Tarihçe
 

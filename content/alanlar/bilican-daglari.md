@@ -49,7 +49,7 @@ Bilican Dağları, çevresindeki diğer dağlık alanlar ve su kaynakları ile b
 
 ## Flora ve Fauna
 
-Bilican Dağları, Muş'un yüksek dağ ekolojisine ev sahipliği yapan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Bilican Dağları, Muş'un yüksek dağ ekolojisine ev sahipliği yapan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne baktığımızda, ilkbahar mevsiminde dağ yamaçları rengarenk çiçeklerle kaplanır. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen bitki türleriyle dikkat çekiyor. Sonbaharda, sararan yapraklar ve göç eden kuş sürüleri manzarayı renklendiriyor.
 

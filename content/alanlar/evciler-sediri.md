@@ -22,7 +22,7 @@ wikidata_id: "Q108227356"
 
 # Evciler Sediri
 
-Evciler Sediri, İç Anadolu Bölgesi'nin güzide bir bölgesinde yer alan 140 hektarlık bir milli parktır. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup ziyaretçilerine geniş bir doğa deneyimi sunar. Evciler Sediri'nin tarihi geçmişi, yüzyıllar boyunca korunan doğal güzelliği ve çeşitli bitki türleriyle dikkat çeker. Ziyaretçiler, bu muhteşem doğa alanını keşfetmek için gelenekselleşmiş bir rota izlerler. Evciler Sediri, doğa severlerin ve macera arayanların tercih ettiği bir destinasyon olarak bilinir.
+Evciler Sediri, İç Anadolu Bölgesi'nin güzide bir bölgesinde yer alan 140 hektarlık bir milli parktır. Evciler Sediri'nin tarihi geçmişi, yüzyıllar boyunca korunan doğal güzelliği ve çeşitli bitki türleriyle dikkat çeker. Ziyaretçiler, bu muhteşem doğa alanını keşfetmek için gelenekselleşmiş bir rota izlerler. Evciler Sediri, doğa severlerin ve macera arayanların tercih ettiği bir destinasyon olarak bilinir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Evciler Sediri'nin tarihi geçmişi, yüzyıllar boyunca süregelmiştir. Bu bö
 
 ## Coğrafya
 
-Evciler Sediri, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup ziyaretçilerine geniş bir doğa deneyimi sunar. Bu bölgenin coğrafi konumu, çeşitli bitki türlerinin yetişmesine ve hayvanların yaşamına olanak tanır. Evciler Sediri, doğal güzelliği ve coğrafi çeşitliliği ile dikkat çeker. Bu bölgenin iklimi, mevsimsel değişimlere göre şekillenir ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Evciler Sediri, ziyaretçilerin doğayı keşfetmeleri ve natuurun güzelliğini deneyimlemeleri için ideal bir destinasyondur.
+Evciler Sediri, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölgenin coğrafi konumu, çeşitli bitki türlerinin yetişmesine ve hayvanların yaşamına olanak tanır. Evciler Sediri, doğal güzelliği ve coğrafi çeşitliliği ile dikkat çeker. Bu bölgenin iklimi, mevsimsel değişimlere göre şekillenir ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Evciler Sediri, ziyaretçilerin doğayı keşfetmeleri ve natuurun güzelliğini deneyimlemeleri için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

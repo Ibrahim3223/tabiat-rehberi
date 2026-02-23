@@ -50,7 +50,7 @@ Doğal güzelliği ile dikkat çeken bu bölge, coğrafi olarak bir şehir bloğ
 
 Büyükeğri Dağı, Mersin'in maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi. 1200 metre yükseklikte, kuraklığa dayanıklı türlerin hakim olduğu bir bölge. İklimi, Akdeniz'in etkilerini taşır.
 
-İlkbaharda, çiçekler patlar ve dağ etekleri renklendirir. Sonbaharda, göçmen kuşlar dağların üzerinden geçer. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, dağların yüksek zonlarında yaşar. 
+İlkbaharda, çiçekler patlar ve dağ etekleri renklendirir. Sonbaharda, göçmen kuşlar dağların üzerinden geçer. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, dağların yüksek zonlarında yaşar.
 
 Büyükeğri Dağı, ekolojik açıdan önemlidir. Bu dağ ekosistemi, bölgenin su döngüsünü düzenler ve toprak erozyonunu önler. Koruma durumu, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemlidir.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31553409"
 
 # Dagok Tepesi
 
-Dagok Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan ve Batman'ın doğal güzelliklerinden biri olan bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğüne eşdeğerdir. Batman şehrinin önemli noktalarından biri olan Dagok Tepesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini beklemektedir. Bu tepe, bölgenin coğrafi yapısını anlamak için önemli bir noktadır.
+Dagok Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan ve Batman'ın doğal güzelliklerinden biri olan bir tepe olarak dikkat çekmektedir. Batman şehrinin önemli noktalarından biri olan Dagok Tepesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini beklemektedir. Bu tepe, bölgenin coğrafi yapısını anlamak için önemli bir noktadır.
 
 ## Tarihçe
 

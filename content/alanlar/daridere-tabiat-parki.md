@@ -23,7 +23,7 @@ wikidata_id: "Q108228230"
 
 # Darıdere Tabiat Parkı
 
-Darıdere Tabiat Parkı, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerini sunan bir alan olarak dikkat çekiyor. 140 hektarlık genişlikteki bu park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Burada ziyaretçiler, zengin flora ve fauna çeşitliliğini keşfedebilirler. Parkın sunduğu olanaklar, doğa severleri cezbediyor. Doğal güzelliği ve sunduğu olanaklarla, Darıdere Tabiat Parkı, bölgenin önemli turizm merkezlerinden biri olarak kabul ediliyor. Ziyaretçiler, bu alanda doğayla iç içe olmanın keyfini çıkarabilirler.
+Darıdere Tabiat Parkı, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerini sunan bir alan olarak dikkat çekiyor. Burada ziyaretçiler, zengin flora ve fauna çeşitliliğini keşfedebilirler. Parkın sunduğu olanaklar, doğa severleri cezbediyor. Doğal güzelliği ve sunduğu olanaklarla, Darıdere Tabiat Parkı, bölgenin önemli turizm merkezlerinden biri olarak kabul ediliyor. Ziyaretçiler, bu alanda doğayla iç içe olmanın keyfini çıkarabilirler.
 
 ## Tarihçe
 

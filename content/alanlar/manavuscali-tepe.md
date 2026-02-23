@@ -50,11 +50,11 @@ Manavuşçalı Tepe'nin çevresindeki bölge, su kaynakları açısından zengin
 
 ## Flora ve Fauna
 
-Manavuşçalı Tepe, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. Bu dağ ekosisteminde yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekicidir. 
+Manavuşçalı Tepe, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. Bu dağ ekosisteminde yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekicidir.
 
-İlkbahar aylarında, alpin flora çiçek açarken, dağ yamaçlarında çeşitli çiçek türleri görülebilmektedir. step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte olmuş türler yaşamaktadır. 
+İlkbahar aylarında, alpin flora çiçek açarken, dağ yamaçlarında çeşitli çiçek türleri görülebilmektedir. step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte olmuş türler yaşamaktadır.
 
-Dağın yüksek kesimlerinde, dağ keçileri ve diğer memeliler yaşamaktadır. Bu alan aynı zamanda çeşitli kuş türlerinin göç yolu üzerinde yer almaktadır. Sonbaharda, göç eden kuşlar bu dağları geçerken, sürüngenler ve diğer küçük hayvanlar da yaşamaktadır. 
+Dağın yüksek kesimlerinde, dağ keçileri ve diğer memeliler yaşamaktadır. Bu alan aynı zamanda çeşitli kuş türlerinin göç yolu üzerinde yer almaktadır. Sonbaharda, göç eden kuşlar bu dağları geçerken, sürüngenler ve diğer küçük hayvanlar da yaşamaktadır.
 
 Bu dağ ekosisteminin ekolojik değeri, yüksek biodiversiteye sahip olması ve kurak bölgeler için önemlidir. Ancak, koruma durumu konusunda daha fazla çalışmaya ihtiyaç duyulmaktadır.
 

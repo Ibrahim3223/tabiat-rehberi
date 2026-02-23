@@ -22,7 +22,7 @@ wikidata_id: "Q108228772"
 
 # YILANÇATI_TP
 
-YILANÇATI_TP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Yaban hayatı açısından önemli bir merkez olan YILANÇATI_TP, doğa severlerin ve bilim insanlarının ilgisini çekmektedir. Milli parkın içerisinde, ziyaretçilerin dinlenebileceği ve doğayı izleyebileceği özel alanlar bulunmaktadır.
+YILANÇATI_TP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Yaban hayatı açısından önemli bir merkez olan YILANÇATI_TP, doğa severlerin ve bilim insanlarının ilgisini çekmektedir. Milli parkın içerisinde, ziyaretçilerin dinlenebileceği ve doğayı izleyebileceği özel alanlar bulunmaktadır.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ YILANÇATI_TP'yi ziyaret etmek, doğa severler için unutulmaz bir deneyim olaca
 
 ## İlginç Bilgiler
 
-- YILANÇATI_TP, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - YILANÇATI_TP, doğa severlerin ve bilim insanlarının ilgisini çekmektedir.
 - Milli parkın içerisinde, ziyaretçilerin dinlenebileceği ve doğayı izleyebileceği özel alanlar bulunmaktadır.

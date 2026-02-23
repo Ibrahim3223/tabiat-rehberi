@@ -22,7 +22,7 @@ wikidata_id: "Q108227797"
 
 # Zonguldak-Bartin-Kumluca Dogu Kayini 2
 
-Zonguldak-Bartin-Kumluca Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin zengin doğal güzelliklerini gözler önüne seren bir mekân. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, ziyaretçilerine hem doğanın güzelliklerini keşfetme fırsatı sunuyor hem de bölgenin tarihi ve kültürel zenginliklerini tanıma imkanı sağlıyor. Zonguldak ilinin kalbi olan bu park, yerli ve yabancı turistlerin ilgisini çekmeyi başarıyor.
+Zonguldak-Bartin-Kumluca Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin zengin doğal güzelliklerini gözler önüne seren bir mekân. Bu milli park, ziyaretçilerine hem doğanın güzelliklerini keşfetme fırsatı sunuyor hem de bölgenin tarihi ve kültürel zenginliklerini tanıma imkanı sağlıyor. Zonguldak ilinin kalbi olan bu park, yerli ve yabancı turistlerin ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Zonguldak-Bartin-Kumluca Dogu Kayini 2 milli parkını ziyaret etmek, doğa seve
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Bölgenin coğrafi konumu, ziyaretçilere farklı iklim koşullarını deneyimleme fırsatı sunuyor.
 - Parkın flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor.
 - Bölgenin ekolojik dengesi, flora ve faunanın birlikte yaşamasına olanak tanıyor.

@@ -1,7 +1,7 @@
 ---
 title: "İmam Zeynel Abidin Türbesi"
 date: "2026-01-10T05:24:54.330Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Malatya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391674"
 
 # İmam Zeynel Abidin Türbesi
 
-İmam Zeynel Abidin Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve kültürel açıdan önemli merkezlerinden biri olan Battalgazi/Malatya'da yer alıyor. 140 hektarlık bir alan üzerinde kurulmuş olan bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. İmam Zeynel Abidin'in hayatını ve önemini yansıtan bu türbe, aynı zamanda bölgenin doğal güzelliklerini de bir araya getirerek ziyaretçilerine zengin bir deneyim sunuyor. Tarihi ve kültürel değerlerin bir arada olduğu bu mekan, aynı zamanda bölgenin coğrafi özelliklerini de yansıtıyor.
+İmam Zeynel Abidin Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve kültürel açıdan önemli merkezlerinden biri olan Battalgazi/Malatya'da yer alıyor. İmam Zeynel Abidin'in hayatını ve önemini yansıtan bu türbe, aynı zamanda bölgenin doğal güzelliklerini de bir araya getirerek ziyaretçilerine zengin bir deneyim sunuyor. Tarihi ve kültürel değerlerin bir arada olduğu bu mekan, aynı zamanda bölgenin coğrafi özelliklerini de yansıtıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391674"
 
 ## Coğrafya
 
-İmam Zeynel Abidin Türbesi, Doğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Battalgazi/Malatya, tarihi ve kültürel değerlerinin yanı sıra doğal güzellikleri ile de dikkat çekiyor. Türbenin bulunduğu alan, 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgenin coğrafi özellikleri, ziyaretçilerine zengin bir deneyim sunuyor. İklim, flora ve fauna açısından zengin bir bölge olan Doğu Anadolu Bölgesi, aynı zamanda coğrafi olarak da çeşitlilik gösteriyor. Türbenin çevresinde, çeşitli dağlar, nehirler ve ovalar yer alıyor ve bu coğrafi özellikler, bölgenin doğal güzelliklerine katkıda bulunuyor. Ayrıca, bölgenin iklimi, ziyaretçilere dört mevsimi deneyimleme fırsatı sunuyor.
+İmam Zeynel Abidin Türbesi, Doğu Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Battalgazi/Malatya, tarihi ve kültürel değerlerinin yanı sıra doğal güzellikleri ile de dikkat çekiyor. Bu bölgenin coğrafi özellikleri, ziyaretçilerine zengin bir deneyim sunuyor. İklim, flora ve fauna açısından zengin bir bölge olan Doğu Anadolu Bölgesi, aynı zamanda coğrafi olarak da çeşitlilik gösteriyor. Türbenin çevresinde, çeşitli dağlar, nehirler ve ovalar yer alıyor ve bu coğrafi özellikler, bölgenin doğal güzelliklerine katkıda bulunuyor. Ayrıca, bölgenin iklimi, ziyaretçilere dört mevsimi deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

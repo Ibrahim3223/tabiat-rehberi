@@ -28,7 +28,7 @@ wikidata_id: "Q31385959"
 
 # Bozluk Dağ
 
-Bozluk Dağ, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alan Kırşehir ilinin önemli doğal güzelliklerinden biridir. Bu dağ, yaklaşık 140 hektarlık alanı kaplayan bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bozluk Dağ, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olmuştur. Dağın eteklerinde ve tepelerinde çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
+Bozluk Dağ, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alan Kırşehir ilinin önemli doğal güzelliklerinden biridir. Bozluk Dağ, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olmuştur. Dağın eteklerinde ve tepelerinde çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
 
 ## Tarihçe
 

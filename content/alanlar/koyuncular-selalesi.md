@@ -22,7 +22,7 @@ wikidata_id: "Q130367223"
 
 # Koyuncular Şelalesi
 
-Koyuncular Şelalesi, Trabzon'un doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şelalenin güzelliği, ziyaretçilerini büyülüyor ve doğanın gücünü hissetmeye davet ediyor. Koyuncular Şelalesi, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor. Bu şelale, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliğine de dikkat çekiyor.
+Koyuncular Şelalesi, Trabzon'un doğal güzelliklerinden biri olarak karşımıza çıkıyor. Şelalenin güzelliği, ziyaretçilerini büyülüyor ve doğanın gücünü hissetmeye davet ediyor. Koyuncular Şelalesi, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor. Bu şelale, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliğine de dikkat çekiyor.
 
 ## Tarihçe
 

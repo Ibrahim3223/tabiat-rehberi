@@ -28,7 +28,7 @@ wikidata_id: "Q31386126"
 
 # Şarkatan Tepesi
 
-Şarkatan Tepesi, Gaziantep'in doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için ideal bir gözlem noktası. 140 hektarlık bir alanı kaplayan Şarkatan Tepesi, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafı, çeşitli bitki türleri ile çevrili. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir yer.
+Şarkatan Tepesi, Gaziantep'in doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için ideal bir gözlem noktası. Tepenin etrafı, çeşitli bitki türleri ile çevrili. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir yer.
 
 ## Tarihçe
 

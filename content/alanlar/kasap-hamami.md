@@ -1,7 +1,7 @@
 ---
 title: "Kasap Hamamı"
 date: "2026-01-09T22:27:36.623Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738506"
 
 # Kasap Hamamı
 
-Gelibolu'nun en güzel plajlarından biri olan Kasap Hamamı, Marmara Bölgesi'nin saklı cennetlerinden biri. Bu güzel plaj, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Kasap Hamamı, ziyaretçilerine temiz ve berrak denizi, altın rengi kumu ve yeşilin her tonunu sunuyor. Plajın güzelliği, Gelibolu'nun tarihi ve kültürel zenginlikleriyle birleşerek, ziyaretçilere unutulmaz bir deneyim sunuyor. Kasap Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve onlara serinleme ve dinlenme fırsatı veriyor.
+Gelibolu'nun en güzel plajlarından biri olan Kasap Hamamı, Marmara Bölgesi'nin saklı cennetlerinden biri. Kasap Hamamı, ziyaretçilerine temiz ve berrak denizi, altın rengi kumu ve yeşilin her tonunu sunuyor. Plajın güzelliği, Gelibolu'nun tarihi ve kültürel zenginlikleriyle birleşerek, ziyaretçilere unutulmaz bir deneyim sunuyor. Kasap Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve onlara serinleme ve dinlenme fırsatı veriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kasap Hamamı'nın tarihi geçmişi, Gelibolu'nun tarihi ile iç içe geçmiş. 
 
 ## Coğrafya
 
-Kasap Hamamı, Gelibolu'nun güneyinde, Çanakkale ilinin Marmara Bölgesi'nde yer alıyor. Plaj, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Kasap Hamamı, temiz ve berrak denizi, altın rengi kumu ve yeşilin her tonunu sunuyor. Plajın çevresi, tarihi kalıntılar ve anıtlar ile dolu ve ziyaretçiler, buradaki tarihi zenginliklerini keşfedebilir. Kasap Hamamı, Gelibolu'nun en önemli turizm merkezlerinden biri ve her yıl binlerce ziyaretçi tarafından tercih ediliyor. Plajın güzelliği, tarihi ve kültürel zenginliği, ziyaretçilere benzersiz bir deneyim sunuyor ve onları tekrar buraya çekiyor. Kasap Hamamı'nın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemli. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor.
+Kasap Hamamı, Gelibolu'nun güneyinde, Çanakkale ilinin Marmara Bölgesi'nde yer alıyor. Kasap Hamamı, temiz ve berrak denizi, altın rengi kumu ve yeşilin her tonunu sunuyor. Plajın çevresi, tarihi kalıntılar ve anıtlar ile dolu ve ziyaretçiler, buradaki tarihi zenginliklerini keşfedebilir. Kasap Hamamı, Gelibolu'nun en önemli turizm merkezlerinden biri ve her yıl binlerce ziyaretçi tarafından tercih ediliyor. Plajın güzelliği, tarihi ve kültürel zenginliği, ziyaretçilere benzersiz bir deneyim sunuyor ve onları tekrar buraya çekiyor. Kasap Hamamı'nın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemli. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Kasap Hamamı'nın çevresi, çeşitli bitki türleri ile dolu ve zengin fauna s
 
 ## Ziyaret Bilgileri
 
-Kasap Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve onlara serinleme ve dinlenme fırsatı veriyor. Plaj, Gelibolu'nun en önemli turizm merkezlerinden biri ve her yıl binlerce ziyaretçi tarafından tercih ediliyor. Kasap Hamamı'na ulaşım, Gelibolu'nun merkezi ve diğer turizm merkezlerinden kolaylıkla sağlanabilir. Plajın çevresinde, çeşitli restoran ve kafeler bulunuyor ve ziyaretçiler, buradaki lezzetleri tadabilir. Kasap Hamamı, ziyaretçilerine unutulmaz bir deneyim sunuyor ve onları tekrar buraya çekiyor.
+Kasap Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve onlara serinleme ve dinlenme fırsatı veriyor. Plaj, Gelibolu'nun en önemli turizm merkezlerinden biri ve her yıl binlerce ziyaretçi tarafından tercih ediliyor. Kasap Hamamı'na ulaşım, Gelibolu'nun merkezi ve diğer turizm merkezlerinden kolaylıkla sağlanabilir. Plajın çevresinde, çeşitli restoran ve kafeler bulunuyor ve ziyaretçiler, buradaki lezzetleri tadabilir.
 
 ## İlginç Bilgiler
 

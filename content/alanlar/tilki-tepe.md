@@ -45,17 +45,17 @@ Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Tilki Tepe, yakl
 
 Mevsimsel olarak değişen hava koşulları, Tilki Tepe'nin iklim karakterini belirliyor. Yaz aylarında sıcak ve kurak bir hava hakim iken, kış aylarında soğuk ve yağışlı bir hava hüküm sürüyor. Bu mevsimsel değişimler, Tilki Tepe'nin flora ve fauna çeşitliliğini etkiliyor. Tilki Tepe, bölgenin ekolojik dengesini sağlayan önemli bir doğal alan olarak kabul ediliyor.
 
-Çevresel açıdan bakıldığında, Tilki Tepe, bölgenin diğer doğal güzelliklerine ve su kaynaklarına yakın bir konumda yer alıyor. Tilki Tepe, bölgenin ekosistem bağlantılarını sağlayan önemli bir halka olarak görev yapıyor. Bu nedenle, Tilki Tepe'nin korunması ve bảo tồn edilmesi, bölgenin doğal dengesini sürdürmek açısından büyük önem taşıyor.
+Çevresel açıdan bakıldığında, Tilki Tepe, bölgenin diğer doğal güzelliklerine ve su kaynaklarına yakın bir konumda yer alıyor. Tilki Tepe, bölgenin ekosistem bağlantılarını sağlayan önemli bir halka olarak görev yapıyor. Bu nedenle, Tilki Tepe'nin korunması ve koruma tồn edilmesi, bölgenin doğal dengesini sürdürmek açısından büyük önem taşıyor.
 
 ## Flora ve Fauna
 
-Tilki Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Tilki Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünü oluşturan step ve ova ekolojisi, ilkbaharın gelmesiyle birlikte renkleniyor. Bu dönemde, dağ yamaçlarında çeşitli çiçekler açarak görsel bir şölen sunuyor. Sonbahar mevsiminde ise, göç eden kuşlar Tilki Tepe'nin gökyüzünü süslüyor.
 
 Yaban hayatı da bir o kadar çeşitlilik gösteriyor. Dağ keçileri, tilkiler ve diğer memeliler, dağların yükseklik zonlarında ediyor. Kuşlar ise, dağların farklı yükseklik zonlarında yuvalanarak, ekosistemin dengesini koruyor. Sürüngenler de, bu dağ ekosisteminin bir parçası olarak, yaşam alanlarını bu bölgede buluyor.
 
-Tilki Tepe'nin ekolojik değeri, zengin flora ve fauna çeşitliliği nedeniyle oldukça yüksek. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak açısından büyük önem taşıyor.
+Tilki Tepe'nin ekolojik değeri, zengin flora ve fauna çeşitliliği nedeniyle oldukça yüksek.
 
 ## Ziyaret Bilgileri
 

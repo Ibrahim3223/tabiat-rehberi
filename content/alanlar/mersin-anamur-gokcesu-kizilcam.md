@@ -22,7 +22,7 @@ wikidata_id: "Q108227434"
 
 # Mersin-Anamur-Gokcesu Kızılçam
 
-Mersin-Anamur-Gokcesu Kızılçam milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölgede, kızılçam ağaçları egemen olan bir flora bulunur. Parkın coğrafi konumu, ziyaretçilere eşsiz bir manzara sunar. Mersin-Anamur-Gokcesu Kızılçam milli parkı, doğa severlerin ve macera arayışında olanların önemli bir destinasyonudur.
+Mersin-Anamur-Gokcesu Kızılçam milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu bölgede, kızılçam ağaçları egemen olan bir flora bulunur. Parkın coğrafi konumu, ziyaretçilere eşsiz bir manzara sunar. Mersin-Anamur-Gokcesu Kızılçam milli parkı, doğa severlerin ve macera arayışında olanların önemli bir destinasyonudur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-Anamur-Gokcesu Kızılçam milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Mersin-Anamur-Gokcesu Kızılçam milli parkı, Akdeniz Bölgesi'nde, Mersin ilinin Anamur ilçesinde bulunur. Parkın coğrafi konumu, eşsiz bir manzara sunar. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bölgenin iklimi, Akdeniz iklimi özellikleri taşır. Kışlar ılıman, yazlar sıcak ve kurudur. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğa güzelliklerini keşfetme imkanı sunar. Mersin-Anamur-Gokcesu Kızılçam milli parkı, ziyaretçilere doğa ile iç içe bir deneyim sunar.
+Mersin-Anamur-Gokcesu Kızılçam milli parkı, Akdeniz Bölgesi'nde, Mersin ilinin Anamur ilçesinde bulunur. Parkın coğrafi konumu, eşsiz bir manzara sunar. Bölgenin iklimi, Akdeniz iklimi özellikleri taşır. Kışlar ılıman, yazlar sıcak ve kurudur. Parkın coğrafi yapısı, ziyaretçilere çeşitli doğa güzelliklerini keşfetme imkanı sunar. Mersin-Anamur-Gokcesu Kızılçam milli parkı, ziyaretçilere doğa ile iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mersin-Anamur-Gokcesu Kızılçam milli parkını ziyaret etmek, doğa severler 
 
 ## İlginç Bilgiler
 
-- Mersin-Anamur-Gokcesu Kızılçam milli parkı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
 - Parkın egemen flora türleri, kızılçam ağaçlarıdır.
 - Bölgenin iklimi, Akdeniz iklimi özellikleri taşır.
 - Parkın fauna çeşitliliği, çeşitli hayvan türlerini içerir.

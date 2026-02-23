@@ -29,7 +29,7 @@ wikidata_id: "Q31385532"
 
 # Nar Tepesi
 
-Nar Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir manzaraya davet ediyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Nar Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası. Burada, doğanın sesini dinleyebilir, tarihi geçmişi hakkında bilgi edinebilirsiniz. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için ideal bir gözlem noktası.
+Nar Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir manzaraya davet ediyor. Nar Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası. Burada, doğanın sesini dinleyebilir, tarihi geçmişi hakkında bilgi edinebilirsiniz. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için ideal bir gözlem noktası.
 
 ## Tarihçe
 

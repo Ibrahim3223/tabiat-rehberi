@@ -29,11 +29,11 @@ wikidata_id: "Q49742036"
 
 # İstınata Kaplıcası
 
-İstınata Kaplıcası, İç Anadolu Bölgesi'nin güzide illerinden Çankırı'da yer alan bir termal kaynak alanıdır. Bu bölge, zengin termal kaynakları ve doğal güzellikleriyle dikkat çekmektedir. İstınata Kaplıcası, yaklaşık 140 hektarlık bir alanı kaplamakta ve bu büyüklüğü ile yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Bu alan, ziyaretçilerini doğanın içinden geçen bir yolculuğa çıkarırken, aynı zamanda termal suyun sağlığına olan faydalarını keşfetme imkanı sunar. İnsanlar, bu kaplıcanın şifalı sularında dinlenere ve rahatlayarak, stres ve yorgunluktan uzaklaşabilirler.
+İstınata Kaplıcası, İç Anadolu Bölgesi'nin güzide illerinden Çankırı'da yer alan bir termal kaynak alanıdır. Bu bölge, zengin termal kaynakları ve doğal güzellikleriyle dikkat çekmektedir. Bu alan, ziyaretçilerini doğanın içinden geçen bir yolculuğa çıkarırken, aynı zamanda termal suyun sağlığına olan faydalarını keşfetme imkanı sunar. İnsanlar, bu kaplıcanın şifalı sularında dinlenere ve rahatlayarak, stres ve yorgunluktan uzaklaşabilirler.
 
 ## Tarihçe
 
-İstınata Kaplıcası'nın tarihi geçmişi, yüzyıllar öncesine uzanmaktadır. Bu bölge, geçmişte de sağlık ve tedavi amaçlı olarak kullanılan bir destinasyon olarak bilinmektedir. through zaman içinde, çeşitli medeniyetler bu bölgeden geçerek, kaplıcanın önemini ve değerini anlamışlardır. Günümüzde, İstınata Kaplıcası, hem yerli hem de yabancı turistler tarafından ziyaret edilmektedir. Ziyaretçiler, burada bulunan zengin termal kaynaklarının sağlığa olan faydalarını deneyimleyerek, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı bulurlar. İstınata Kaplıcası, Türk sağlık turizminin önemli merkezlerinden biri olarak kabul edilmektedir.
+İstınata Kaplıcası'nın tarihi geçmişi, yüzyıllar öncesine uzanmaktadır. Bu bölge, geçmişte de sağlık ve tedavi amaçlı olarak kullanılan bir destinasyon olarak bilinmektedir. through zaman içinde, çeşitli medeniyetler bu bölgeden geçerek, kaplıcanın önemini ve değerini anlamışlardır. Ziyaretçiler, burada bulunan zengin termal kaynaklarının sağlığa olan faydalarını deneyimleyerek, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı bulurlar. İstınata Kaplıcası, Türk sağlık turizminin önemli merkezlerinden biri olarak kabul edilmektedir.
 
 ## Coğrafya
 

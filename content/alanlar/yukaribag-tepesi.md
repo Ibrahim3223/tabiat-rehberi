@@ -29,7 +29,7 @@ wikidata_id: "Q31386415"
 
 # Yukarıbağ Tepesi
 
-Yukarıbağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yamacında çeşitli bitki türleri ve zengin fauna görülebiliyor. Doğal güzellikleri ile dikkat çeken bu tepe, ziyaretçilerini büyülüyor. İç Anadolu Bölgesi'nin coğrafi yapısına önemli katkıları bulunan bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi veriyor.
+Yukarıbağ Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yamacında çeşitli bitki türleri ve zengin fauna görülebiliyor. Doğal güzellikleri ile dikkat çeken bu tepe, ziyaretçilerini büyülüyor. İç Anadolu Bölgesi'nin coğrafi yapısına önemli katkıları bulunan bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi veriyor.
 
 ## Tarihçe
 

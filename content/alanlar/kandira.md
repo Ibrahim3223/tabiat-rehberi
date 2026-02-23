@@ -23,7 +23,7 @@ wikidata_id: "Q108228632"
 
 # KANDIRA
 
-KANDIRA, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık geniş bir yeşil alan üzerinde kurulmuş, doğa severlerin ve turistlerin ilgi odağı olan bir milli parktır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın güzelliğini sunar. KANDIRA, doğa yürüyüşleri, piknik alanları ve çeşitli flora ile fauna türleri ile ziyaretçilerini bekler. Milli parkın içerisinde, farklı mevsimlerde değişen renkler ve manzaralar, ziyaretçilere benzersiz bir deneyim sunar.
+KANDIRA, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık geniş bir yeşil alan üzerinde kurulmuş, doğa severlerin ve turistlerin ilgi odağı olan bir milli parktır. KANDIRA, doğa yürüyüşleri, piknik alanları ve çeşitli flora ile fauna türleri ile ziyaretçilerini bekler. Milli parkın içerisinde, farklı mevsimlerde değişen renkler ve manzaralar, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Tarihçe
 

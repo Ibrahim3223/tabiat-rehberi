@@ -50,7 +50,7 @@ Mevsimsel değişimler, Tuzaklı Dağı'nın iklim karakterini şekillendirmekte
 
 ## Flora ve Fauna
 
-Tuzaklı Dağı, Antalya'nın doğa harikalarından biri olarak karşımıza çıkıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir bitki örtüsü söz konusu. Makilik bitki türleri, kuraklığa dayanıklı türler ve kıyı ekosisteminin bir bileşimi, bu bölgenin karakterini belirliyor. 
+Tuzaklı Dağı, Antalya'nın doğa harikalarından biri olarak karşımıza çıkıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir bitki örtüsü söz konusu. Makilik bitki türleri, kuraklığa dayanıklı türler ve kıyı ekosisteminin bir bileşimi, bu bölgenin karakterini belirliyor.
 
 İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Mevsimsel değişim, bitki örtüsünün çeşitliliğini gösteriyor. Dağın yüksek kesimlerinde, alpin flora hakim oluyor. Bu bölgede, dağ keçileri gibi memeliler, dağların zorlu koşullarına adapte olmuş hayatlarını sürdürüyor. Kuşlar, özellikle sonbaharda göç eden türlerle birlikte, dağların gökyüzünü süslüyor. Sürüngenler de, dağların kayalık alanlarında yaşamını sürdüren önemli bir bileşen.
 

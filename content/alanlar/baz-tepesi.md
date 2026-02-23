@@ -28,7 +28,7 @@ wikidata_id: "Q31530527"
 
 # Baz Tepesi
 
-Baz Tepesi, Van ilinin büyüleyici bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın sükunetine davet ediyor. Bu tepe, Van'ın eşsiz manzarasına sahip olan bir noktadır ve ziyaretçilere bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Burada, doğanın güzelliği ve tarihi geçmişi bir araya gelerek, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Baz Tepesi, Van ilinin büyüleyici bir doğa harikasıdır. Bu tepe, Van'ın eşsiz manzarasına sahip olan bir noktadır ve ziyaretçilere bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Burada, doğanın güzelliği ve tarihi geçmişi bir araya gelerek, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

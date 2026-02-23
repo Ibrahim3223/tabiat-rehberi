@@ -1,7 +1,7 @@
 ---
 title: "Hacı Tuğrul Türbesi"
 date: "2026-01-10T07:46:18.906Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391218"
 
 # Hacı Tuğrul Türbesi
 
-Ankara'nın Polatlı ilçesinde bulunan Hacı Tuğrul Türbesi, şehrin tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. 140 hektarlık bir alanı kaplayan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin depthsine götürmeye hazır. Hacı Tuğrul Türbesi, sadece bir tarihi mekan değil, aynı zamanda şehrin kültürel kimliğini de yansıtan bir sembol. Bu türbenin etrafında, çeşitli bitkiler ve ağaçlar bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Ankara'nın Polatlı ilçesinde bulunan Hacı Tuğrul Türbesi, şehrin tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Hacı Tuğrul Türbesi, sadece bir tarihi mekan değil, aynı zamanda şehrin kültürel kimliğini de yansıtan bir sembol. Bu türbenin etrafında, çeşitli bitkiler ve ağaçlar bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hacı Tuğrul Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbenin genau
 
 ## Coğrafya
 
-Hacı Tuğrul Türbesi, Ankara'nın Polatlı ilçesinde yer alıyor. Türbe, şehrin merkezine oldukça yakın, ulaşımı kolay. Çevresinde, çeşitli bitkiler ve ağaçlar bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplıyor, bu da yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilere geniş bir açık alan sunuyor, doğa yürüyüşleri ve diğer açık hava etkinlikleri için ideal. Hacı Tuğrul Türbesi, Ankara'nın coğrafi yapısını da yansıtan bir mekan, ziyaretçilere şehrin doğal güzelliklerini keşfetme fırsatı sunuyor. Türbenin etrafında, çeşitli tepe ve vadiler bulunmakta, bu da ziyaretçilere Ankara'nın coğrafi çeşitliliğini gösteriyor.
+Hacı Tuğrul Türbesi, Ankara'nın Polatlı ilçesinde yer alıyor. Türbe, şehrin merkezine oldukça yakın, ulaşımı kolay. Çevresinde, çeşitli bitkiler ve ağaçlar bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bu alan, ziyaretçilere geniş bir açık alan sunuyor, doğa yürüyüşleri ve diğer açık hava etkinlikleri için ideal. Hacı Tuğrul Türbesi, Ankara'nın coğrafi yapısını da yansıtan bir mekan, ziyaretçilere şehrin doğal güzelliklerini keşfetme fırsatı sunuyor. Türbenin etrafında, çeşitli tepe ve vadiler bulunmakta, bu da ziyaretçilere Ankara'nın coğrafi çeşitliliğini gösteriyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Bursa Tofaş Anadolu Arabaları Müzesi"
 date: "2026-01-10T15:10:53.332Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Hüdavendigâr Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q6047004"
 
 # Bursa Tofaş Anadolu Arabaları Müzesi
 
-Bursa'nın merkezinde yer alan Bursa Tofaş Anadolu Arabaları Müzesi, 140 hektarlık geniş bir yeşil alan üzerine kurulu. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Müzenin koleksiyonunda, farklı dönemlere ait birçok araba modeli yer alıyor. Ziyaretçiler, bu koleksiyonu keşfederek, otomobil tarihini yakından öğrenebiliyorlar.
+Bursa'nın merkezinde yer alan Bursa Tofaş Anadolu Arabaları Müzesi, 140 hektarlık geniş bir yeşil alan üzerine kurulu. Müzenin koleksiyonunda, farklı dönemlere ait birçok araba modeli yer alıyor. Ziyaretçiler, bu koleksiyonu keşfederek, otomobil tarihini yakından öğrenebiliyorlar.
 
 ## Tarihçe
 

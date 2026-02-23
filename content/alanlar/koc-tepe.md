@@ -50,11 +50,11 @@ Doğal bir oluşum olarak Koç Tepe, jeolojik açıdan ilginç bir yapıya sahip
 
 ## Flora ve Fauna
 
-Koç Tepe, Diyarbakır'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Koç Tepe, Diyarbakır'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharda dağ yamaçlarını renklendiren çiçekler, yaz aylarında ise otlakların yeşillendiği bir manzara ortaya çıkar. Dağların yükseklik zonlarına göre değişen flora, alpin bitkilerin de habitatını oluşturur. 
+Bitki Örtüsü olarak, ilkbaharda dağ yamaçlarını renklendiren çiçekler, yaz aylarında ise otlakların yeşillendiği bir manzara ortaya çıkar. Dağların yükseklik zonlarına göre değişen flora, alpin bitkilerin de habitatını oluşturur.
 
-Yaban Hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, kaya ördekleri ve çeşitli yaban kuşları, bu dağların sakinleridir. Sonbaharda, göçmen kuşlar Koç Tepe'nin gökyüzünü süsler. 
+Yaban Hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, kaya ördekleri ve çeşitli yaban kuşları, bu dağların sakinleridir. Sonbaharda, göçmen kuşlar Koç Tepe'nin gökyüzünü süsler.
 
 Ekolojik Değer olarak, bu dağ ekosistemi, bölgedeki su döngüsünü düzenlemede önemli bir rol oynar. Bu alanın korunması, sadece yerel fauna ve florayı değil, aynı zamanda bölgenin ekolojik dengesini de sağlar.
 

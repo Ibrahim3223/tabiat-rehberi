@@ -30,7 +30,7 @@ wikidata_id: "Q6100623"
 
 # Atatürk Bulvarı, Ankara
 
-Atatürk Bulvarı, Ankara'nın kalbinde, 140 hektarlık yeşil alan ile çekici bir mekan olarak karşımıza çıkıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin ortasında bir nefes alma merkezi olarak hizmet veriyor. Bulvar, Ankara'nın en önemli caddelerinden biri olan Atatürk Bulvarı üzerinde yer alıyor ve şehrin tarihi ve kültürel zenginliklerini yansıtıyor. Atatürk Bulvarı, hem Ankara'nın hem de Türkiye'nin önemli bir simgesi olarak kabul ediliyor ve her yıl binlerce ziyaretçiyi ağırlıyor.
+Atatürk Bulvarı, Ankara'nın kalbinde, 140 hektarlık yeşil alan ile çekici bir mekan olarak karşımıza çıkıyor. Bulvar, Ankara'nın en önemli caddelerinden biri olan Atatürk Bulvarı üzerinde yer alıyor ve şehrin tarihi ve kültürel zenginliklerini yansıtıyor. Atatürk Bulvarı, hem Ankara'nın hem de Türkiye'nin önemli bir simgesi olarak kabul ediliyor ve her yıl binlerce ziyaretçiyi ağırlıyor.
 
 ## Tarihçe
 

@@ -22,15 +22,15 @@ wikidata_id: "Q108227430"
 
 # Kahramanmaras-Sucati Kızılçam 1
 
-Kahramanmaras-Sucati Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, bölgeye özgü bitki türlerini ve zengin fauna çeşitliliğini barındırmaktadır. Parkın yer aldığı İç Anadolu Bölgesi, coğrafi olarak farklı özelliklere sahip olup, bu milli park da bu çeşitliliği yansıtmaktadır. Kahramanmaras-Sucati Kızılçam 1 milli parkı, ziyaretçilere doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinme fırsatı sağlamaktadır.
+Kahramanmaras-Sucati Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alandır. Parkın yer aldığı İç Anadolu Bölgesi, coğrafi olarak farklı özelliklere sahip olup, bu milli park da bu çeşitliliği yansıtmaktadır. Kahramanmaras-Sucati Kızılçam 1 milli parkı, ziyaretçilere doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinme fırsatı sağlamaktadır.
 
 ## Tarihçe
 
-Kahramanmaras-Sucati Kızılçam 1 milli parkının tarihi geçmişi, İç Anadolu Bölgesi'nin tarihi ile iç içedir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyan bir coğrafyadır. Parkın kuruluşu, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak amacıyla gerçekleştirilmiştir. Kahramanmaras-Sucati Kızılçam 1 milli parkı, bugün ziyaretçilere hem doğal güzellikleri hem de tarihi geçmişini keşfetme fırsatı sunmaktadır. Parkın tarihi, bölgenin kültürel ve doğal mirasının korunmasına yönelik çabaların bir sonucu olarak görülebilir.
+Kahramanmaras-Sucati Kızılçam 1 milli parkının tarihi geçmişi, İç Anadolu Bölgesi'nin tarihi ile iç içedir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyan bir coğrafyadır. Parkın kuruluşu, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak amacıyla gerçekleştirilmiştir. Parkın tarihi, bölgenin kültürel ve doğal mirasının korunmasına yönelik çabaların bir sonucu olarak görülebilir.
 
 ## Coğrafya
 
-Kahramanmaras-Sucati Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ve zengin fauna çeşitliliğini barındırmaktadır. Bölge, coğrafi olarak farklı özelliklere sahip olup, park da bu çeşitliliği yansıtmaktadır.Parkın yer aldığı İç Anadolu Bölgesi, genel olarak karasal iklim özellikleri göstermektedir. Bu iklim, parkın flora ve faunasını etkileyen önemli bir faktördür. Kahramanmaras-Sucati Kızılçam 1 milli parkı, doğal güzellikleri ve coğrafi çeşitliliği ile ziyaretçilere benzersiz bir deneyim sunmaktadır.
+Kahramanmaras-Sucati Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Bölge, coğrafi olarak farklı özelliklere sahip olup, park da bu çeşitliliği yansıtmaktadır.Parkın yer aldığı İç Anadolu Bölgesi, genel olarak karasal iklim özellikleri göstermektedir. Bu iklim, parkın flora ve faunasını etkileyen önemli bir faktördür. Kahramanmaras-Sucati Kızılçam 1 milli parkı, doğal güzellikleri ve coğrafi çeşitliliği ile ziyaretçilere benzersiz bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

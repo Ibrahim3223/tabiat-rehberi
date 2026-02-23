@@ -32,7 +32,7 @@ Karaman'ın doğal güzelliklerini keşfedenler, Manda Boğazı gibi gizli kanyo
 
 ## Tarihçe
 
-Karaman bölgesi, tarihin sâu sayfalarında gizli bir hazine gibi duruyor. Bu bölge, binlerce yıl önce Hitit, Frig, Roma ve Selçuklu gibi uygarlıkların yaşamına ev sahipliği yaptı. Manda Boğazı, bu tarihsel zenginliğin bir parçasını oluşturan doğal bir alan olarak dikkat çekiyor.
+Karaman bölgesi, tarihin derin sayfalarında gizli bir hazine gibi duruyor. Bu bölge, binlerce yıl önce Hitit, Frig, Roma ve Selçuklu gibi uygarlıkların yaşamına ev sahipliği yaptı. Manda Boğazı, bu tarihsel zenginliğin bir parçasını oluşturan doğal bir alan olarak dikkat çekiyor.
 
 Türkiye'de, kanyonlar ve vadiler gibi doğal oluşumlar, tarihin önemli ticaret yollarının güzergahlarında yer aldı. İnsanlar, bu alanlardan faydalanarak hayvancılık, yaylacılık ve ticaret faaliyetlerini sürdürdüler. Karaman bölgesinde de, benzer bir şekilde, insanların bu doğal alanlarla ilişkisi tarih boyunca devam etti.
 

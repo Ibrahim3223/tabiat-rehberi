@@ -23,7 +23,7 @@ wikidata_id: "Q108228338"
 
 # Dikilitaş Tabiat Parkı
 
-Dikilitaş Tabiat Parkı, Mersin'in güzide noktalarından biri olarak ön plana çıkıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu muhteşem doğal güzellik, ziyaretçilerini doğanın kucağına davet ediyor. Parkın konumu, Akdeniz Bölgesi'nin en güzel köşelerinden biri olarak biliniyor. Dikilitaş Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennet olarak tanımlanıyor.
+Dikilitaş Tabiat Parkı, Mersin'in güzide noktalarından biri olarak ön plana çıkıyor. Bu muhteşem doğal güzellik, ziyaretçilerini doğanın kucağına davet ediyor. Parkın konumu, Akdeniz Bölgesi'nin en güzel köşelerinden biri olarak biliniyor. Dikilitaş Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennet olarak tanımlanıyor.
 
 ## Tarihçe
 

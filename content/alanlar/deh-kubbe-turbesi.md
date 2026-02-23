@@ -1,7 +1,7 @@
 ---
 title: "Deh Kubbe Türbesi"
 date: "2026-01-10T06:26:33.976Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391807"
 
 # Deh Kubbe Türbesi
 
-Deh Kubbe Türbesi, Şanlıurfa'nın Birecik ilçesinde bulunan ve tarihi açıdan büyük önem taşıyan bir mekan. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tarihi geçmişi ile dikkat çeken Deh Kubbe Türbesi, ziyaretçilerini geçmişe götürerek eşsiz bir deneyim sunuyor. Türbenin mimarisi, bölgenin kültürel zenginliğini yansıtan önemli bir unsur olarak karşımıza çıkıyor.
+Deh Kubbe Türbesi, Şanlıurfa'nın Birecik ilçesinde bulunan ve tarihi açıdan büyük önem taşıyan bir mekan. Tarihi geçmişi ile dikkat çeken Deh Kubbe Türbesi, ziyaretçilerini geçmişe götürerek eşsiz bir deneyim sunuyor. Türbenin mimarisi, bölgenin kültürel zenginliğini yansıtan önemli bir unsur olarak karşımıza çıkıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Deh Kubbe Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu t�
 
 ## Coğrafya
 
-Deh Kubbe Türbesi, Güneydoğu Anadolu Bölgesi'nin Şanlıurfa ilinin Birecik ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bölgenin iklimi, genellikle sıcak ve kurak bir yapıya sahip. Yaz aylarında sıcaklık yüksek iken, kış aylarında ılıman bir hava hakim. Deh Kubbe Türbesi'nin çevresi, tarihi ve doğal güzelliklerin birleştiği bir alan olarak dikkat çekiyor. Türbe, bölgenin coğrafi özelliklerini yansıtan bir mimariye sahip ve bu özellikleri ile ziyaretçilerini cezbediyor.
+Deh Kubbe Türbesi, Güneydoğu Anadolu Bölgesi'nin Şanlıurfa ilinin Birecik ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Bölgenin iklimi, genellikle sıcak ve kurak bir yapıya sahip. Yaz aylarında sıcaklık yüksek iken, kış aylarında ılıman bir hava hakim. Deh Kubbe Türbesi'nin çevresi, tarihi ve doğal güzelliklerin birleştiği bir alan olarak dikkat çekiyor. Türbe, bölgenin coğrafi özelliklerini yansıtan bir mimariye sahip ve bu özellikleri ile ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

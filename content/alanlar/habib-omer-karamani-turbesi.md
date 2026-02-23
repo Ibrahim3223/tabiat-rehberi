@@ -1,7 +1,7 @@
 ---
 title: "Habib Ömer Karamani Türbesi"
 date: "2026-01-10T06:11:42.872Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390659"
 
 # Habib Ömer Karamani Türbesi
 
-Habib Ömer Karamani Türbesi, Amasya'nın tarihi ve kültürel zenginliklerini yansıtan önemli bir noktadır. Bu türbe, şehrin merkezinde yer alıyor ve yaklaşık 140 hektarlık bir alana yayıldığından, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Amasya'nın tarihi geçmişi, bu türbenin duvarlarında ve mimarisinde de kendini gösteriyor.
+Habib Ömer Karamani Türbesi, Amasya'nın tarihi ve kültürel zenginliklerini yansıtan önemli bir noktadır. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Amasya'nın tarihi geçmişi, bu türbenin duvarlarında ve mimarisinde de kendini gösteriyor.
 
 ## Tarihçe
 

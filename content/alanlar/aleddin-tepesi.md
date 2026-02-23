@@ -30,7 +30,7 @@ wikidata_id: "Q4499143"
 
 # Alâeddin Tepesi
 
-Alâeddin Tepesi, Konya'nın Selçuklu ilçesinde yer alan ve tarihi ile doğal güzellikleriyle dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alana yayılıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Alâeddin Tepesi, aynı zamanda Selçuklu ilçesinin merkezi bir noktasında yer alıyor ve şehrin önemli bir bölümünü panoramik olarak görmeye olanak sağlıyor.
+Alâeddin Tepesi, Konya'nın Selçuklu ilçesinde yer alan ve tarihi ile doğal güzellikleriyle dikkat çeken bir tepe. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Alâeddin Tepesi, aynı zamanda Selçuklu ilçesinin merkezi bir noktasında yer alıyor ve şehrin önemli bir bölümünü panoramik olarak görmeye olanak sağlıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Alâeddin Tepesi, tarihsel olarak önemli bir geçmişe sahip. Tepenin tarihi ge
 
 ## Coğrafya
 
-Alâeddin Tepesi, Konya'nın Selçuklu ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tepenin coğrafi konumu, şehrin merkezi bir noktasında yer alması nedeniyle önemli. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Alâeddin Tepesi, yaklaşık 140 hektarlık bir alana yayılıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin coğrafi yapısı, genel olarak düzlük ve hafif eğimli arazilerden oluşuyor. Alâeddin Tepesi, aynı zamanda şehrin önemli bir bölümünü panoramik olarak görmeye olanak sağlıyor. Tepenin coğrafi konumu ve yapısı, turizm ve gezi amaçlı ziyaretler için uygun.
+Alâeddin Tepesi, Konya'nın Selçuklu ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tepenin coğrafi konumu, şehrin merkezi bir noktasında yer alması nedeniyle önemli. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Tepenin coğrafi yapısı, genel olarak düzlük ve hafif eğimli arazilerden oluşuyor. Alâeddin Tepesi, aynı zamanda şehrin önemli bir bölümünü panoramik olarak görmeye olanak sağlıyor. Tepenin coğrafi konumu ve yapısı, turizm ve gezi amaçlı ziyaretler için uygun.
 
 ## Flora ve Fauna
 

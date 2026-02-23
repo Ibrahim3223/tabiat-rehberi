@@ -28,7 +28,7 @@ wikidata_id: "Q31552389"
 
 # Nolca Tepesi
 
-Nolca Tepesi, Mardin'in güzelliğini ve tarihini bir araya getiren 140 hektarlık bir doğal ve tarihi alan olarak karşımıza çıkıyor. Bu área, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir manzara sunuyor. Nolca Tepesi, hem Mardin'in tarihi geçmişi hem de bölgenin coğrafi güzelliği hakkında bilgi sahibi olmak isteyenler için önemli bir destinasyon olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin tarihi zenginliklerini keşfetme fırsatı sunuyor.
+Nolca Tepesi, Mardin'in güzelliğini ve tarihini bir araya getiren 140 hektarlık bir doğal ve tarihi alan olarak karşımıza çıkıyor. Nolca Tepesi, hem Mardin'in tarihi geçmişi hem de bölgenin coğrafi güzelliği hakkında bilgi sahibi olmak isteyenler için önemli bir destinasyon olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin tarihi zenginliklerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Nolca Tepesi, Mardin'in tarihi geçmişi ile iç içe bir bölge olarak karşım
 
 ## Coğrafya
 
-Nolca Tepesi, Mardin'in coğrafi güzelliğini ve doğal zenginliklerini bir araya getiren bir bölge olarak karşımıza çıkıyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor ve ziyaretçilerine geniş bir manzara sunuyor. Nolca Tepesi, 140 hektarlık bir alanda yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak dikkat çekiyor. Bölgenin coğrafi yapısı, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin coğrafi güzelliğini keşfetme fırsatı sunuyor. Nolca Tepesi, Mardin'in coğrafi güzelliğini ve doğal zenginliklerini bir araya getiren bir bölge olarak, ziyaretçilerini bölgenin coğrafi güzelliğini keşfetmeye davet ediyor. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin iklim özelliklerini taşıyor ve ziyaretçilerine uygun bir ziyaret dönemi sunuyor.
+Nolca Tepesi, Mardin'in coğrafi güzelliğini ve doğal zenginliklerini bir araya getiren bir bölge olarak karşımıza çıkıyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor ve ziyaretçilerine geniş bir manzara sunuyor. Bölgenin coğrafi yapısı, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin coğrafi güzelliğini keşfetme fırsatı sunuyor. Nolca Tepesi, Mardin'in coğrafi güzelliğini ve doğal zenginliklerini bir araya getiren bir bölge olarak, ziyaretçilerini bölgenin coğrafi güzelliğini keşfetmeye davet ediyor. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin iklim özelliklerini taşıyor ve ziyaretçilerine uygun bir ziyaret dönemi sunuyor.
 
 ## Flora ve Fauna
 

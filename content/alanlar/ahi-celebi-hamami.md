@@ -1,7 +1,7 @@
 ---
 title: "Ahi Çelebi Hamamı"
 date: "2026-01-09T23:51:26.205Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739233"
 
 # Ahi Çelebi Hamamı
 
-Ahi Çelebi Hamamı, Edirne'nin merkezinde yer alan tarihi bir hamamdır. Bu hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ahi Çelebi Hamamı, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Bu hamam, tarihi geçmişi ve kültürel önemi ile dikkat çeker. Ahi Çelebi Hamamı, aynı zamanda Edirne'nin önemli bir simgesidir.
+Ahi Çelebi Hamamı, Edirne'nin merkezinde yer alan tarihi bir hamamdır. Bu hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Ahi Çelebi Hamamı, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Bu hamam, tarihi geçmişi ve kültürel önemi ile dikkat çeker. Ahi Çelebi Hamamı, aynı zamanda Edirne'nin önemli bir simgesidir.
 
 ## Tarihçe
 

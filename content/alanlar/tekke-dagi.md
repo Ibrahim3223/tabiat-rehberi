@@ -1,7 +1,7 @@
 ---
 title: "Tekke Dağı"
 date: "2026-01-09T00:19:32.440Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Nevşehir"
@@ -32,11 +32,11 @@ Nevşehir'in büyüleyici coğrafyasında yer alan Tekke Dağı, tarihi ve doğa
 
 ## Tarihçe
 
-Nevşehir'in kadim topraklarında yükselen Tekke Dağı, tarihindepth bir perspektifte değerlendirildiğinde, bölgenin zengin kültürel mirasının önemli bir parçası olarak karşımıza çıkar. Hitit, Roma ve Bizans uygarlıklarının izlerini taşıyan bu bölge, tarihi ticaret yollarının da kesişme noktası olmuş, insanları ve kültürleri bir araya getirmiştir. 
+Nevşehir'in kadim topraklarında yükselen Tekke Dağı, tarihindepth bir perspektifte değerlendirildiğinde, bölgenin zengin kültürel mirasının önemli bir parçası olarak karşımıza çıkar. Hitit, Roma ve Bizans uygarlıklarının izlerini taşıyan bu bölge, tarihi ticaret yollarının da kesişme noktası olmuş, insanları ve kültürleri bir araya getirmiştir.
 
 Bölgede yaşayan insanların yaşam tarzı, coğrafyanın şekillendirdiği bir gerçeklik olarak karşımıza çıkar. Yaylacılık ve hayvancılık, bölge halkının yaşamının önemli bir parçası olmuş, dağların ve ovaların sunduğu imkanlar, insanlarla doğal alanlar arasındaki bağı güçlendirmiştir. İnsanlar, bu doğal alanları yalnızca geçim kaynakları olarak değil, aynı zamanda manevi ve kültürel bir bağ olarak da görmüşlerdir.
 
-Bu bağlamda, Tekke Dağı gibi doğal alanlar, sadece coğrafi oluşumlar olarak değil, aynı zamanda tarihin birer tanığı olarak da değerlendirilebilir. Türkiye'nin coğrafi çeşitliliği, farklı uygarlıkların bir araya gelmesine ve kültürel zenginliklerin oluşmasına zemin hazırlamıştır. Bu zenginlik, Tekke Dağı'nın eteklerinde ve zirvesinde de hissedilir, insan ve doğa arasındaki sâu bağ, bu bölgenin tarihsel önemini vurgular.
+Bu bağlamda, Tekke Dağı gibi doğal alanlar, sadece coğrafi oluşumlar olarak değil, aynı zamanda tarihin birer tanığı olarak da değerlendirilebilir. Türkiye'nin coğrafi çeşitliliği, farklı uygarlıkların bir araya gelmesine ve kültürel zenginliklerin oluşmasına zemin hazırlamıştır. Bu zenginlik, Tekke Dağı'nın eteklerinde ve zirvesinde de hissedilir, insan ve doğa arasındaki derin bağ, bu bölgenin tarihsel önemini vurgular.
 
 ## Coğrafya
 
@@ -66,5 +66,5 @@ Tekke Dağı, Nevşehir'de doğanın güzelliğini keşfetmek isteyenler için h
 - Dağın yüksekliği yaklaşık 1.800 metredir.
 - Tekke Dağı, peri bacalarının yoğun olarak bulunduğu bir bölgedir.
 - Bu bölge, Kapadokya'nın önemli jeolojik oluşumlarını içerir.
-- Tekke Dağı'nın eteklerinde, históri ve kültürel öneme sahip yerleşim yerleri bulunur.
+- Tekke Dağı'nın eteklerinde, tarihi ve kültürel öneme sahip yerleşim yerleri bulunur.
 - Dağın çevresinde, trekking ve doğa yürüyüşü gibi aktiviteler yapılabiliyor.

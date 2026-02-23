@@ -29,7 +29,7 @@ wikidata_id: "Q31390525"
 
 # Tuğ Tepesi
 
-Tuğ Tepesi, Konya'nın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir nokta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tuğ Tepesi, aynı zamanda Konya'nın doğal güzelliklerini keşfetmek isteyen ziyaretçiler için de bir cazibe merkezi. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için bir cennet haline getiriyor. Tuğ Tepesi, Konya'nın tarihi ve doğal güzelliklerinin birleştiği point.
+Tuğ Tepesi, Konya'nın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir nokta. Tuğ Tepesi, aynı zamanda Konya'nın doğal güzelliklerini keşfetmek isteyen ziyaretçiler için de bir cazibe merkezi. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için bir cennet haline getiriyor. Tuğ Tepesi, Konya'nın tarihi ve doğal güzelliklerinin birleştiği point.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Tuğ Tepesi, Konya'nın flora ve faunasının zenginliğini gösteren önemli bi
 
 ## Ziyaret Bilgileri
 
-Tuğ Tepesi, Konya gezilecek yerler listesinde önemli bir yer tutuyor. Ziyaretçiler, tepenin etrafında gezebilir, şehrin panoramik manzarasını izleyebilir ve Konya'nın tarihi geçmişi hakkında bilgi edinebilir. Tepenin eteklerinde ve etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için bir cennet haline getiriyor. Tuğ Tepesi'ne ulaşım, Konya'nın merkezinden fácil bir şekilde sağlanabilir. Ziyaretçiler, tepenin etrafında yürüyüş yapabilir, şehrin tarihi ve doğal güzelliklerini keşfedebilir.
+Tuğ Tepesi, Konya gezilecek yerler listesinde önemli bir yer tutuyor. Ziyaretçiler, tepenin etrafında gezebilir, şehrin panoramik manzarasını izleyebilir ve Konya'nın tarihi geçmişi hakkında bilgi edinebilir. Tepenin eteklerinde ve etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için bir cennet haline getiriyor. Tuğ Tepesi'ne ulaşım, Konya'nın merkezinden kolay bir şekilde sağlanabilir. Ziyaretçiler, tepenin etrafında yürüyüş yapabilir, şehrin tarihi ve doğal güzelliklerini keşfedebilir.
 
 ## İlginç Bilgiler
 

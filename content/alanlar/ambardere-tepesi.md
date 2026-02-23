@@ -28,7 +28,7 @@ wikidata_id: "Q31582153"
 
 # Ambardere Tepesi
 
-Ambardere Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Ambardere Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve burada geçirdiğiniz her an, sizleri dinlendirip güzelliği ile çevredeki ediyor. Bu tepe, aynı zamanda tarihi geçmişi ile de dikkat çekiyor ve buraya gelen ziyaretçiler, hem doğal güzellikleri hem de tarihi değerleri keşfedebiliyor.
+Ambardere Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. Ambardere Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve burada geçirdiğiniz her an, sizleri dinlendirip güzelliği ile çevredeki ediyor. Bu tepe, aynı zamanda tarihi geçmişi ile de dikkat çekiyor ve buraya gelen ziyaretçiler, hem doğal güzellikleri hem de tarihi değerleri keşfedebiliyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Diyarbakırlı Hacı Efendi Türbesi"
 date: "2026-01-10T06:08:40.406Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390711"
 
 # Diyarbakırlı Hacı Efendi Türbesi
 
-Diyarbakırlı Hacı Efendi Türbesi, Bolu'nun merkezinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık yeşil alanın içinde yer alır ve yaklaşık 200 futbol sahası büyüklüğündedir. Türbe, Diyarbakırlı Hacı Efendi'nin hayatına ve mirasına adanmıştır. Bolu'nun merkezinde yer alması nedeniyle, ziyaretçiler için ulaşımı kolaydır. Türbe ve çevresindeki yeşil alan, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbeder. Yeşil alan içinde yürüyüş yapabilir, türbeyi ziyaret edebilir ve Bolu'nun tarihi geçmişi hakkında bilgi edinebilirsiniz.
+Diyarbakırlı Hacı Efendi Türbesi, Bolu'nun merkezinde yer alan tarihi bir yapıdır. Türbe, Diyarbakırlı Hacı Efendi'nin hayatına ve mirasına adanmıştır. Bolu'nun merkezinde yer alması nedeniyle, ziyaretçiler için ulaşımı kolaydır. Türbe ve çevresindeki yeşil alan, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbeder. Yeşil alan içinde yürüyüş yapabilir, türbeyi ziyaret edebilir ve Bolu'nun tarihi geçmişi hakkında bilgi edinebilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Diyarbakırlı Hacı Efendi Türbesi'nin tarihi geçmişi, Bolu'nun tarihindeki 
 
 ## Coğrafya
 
-Diyarbakırlı Hacı Efendi Türbesi, Bolu'nun merkezinde yer alan bir yeşil alan içinde bulunur. Bu yeşil alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, doğu-batı doğrultusunda uzanan bir vadide yer alır ve çevresinde ormanlık alanlar bulunur. İklim, Karadeniz Bölgesi'nin karakteristik nemli ve serin iklimine sahiptir. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Türbe, yeşil alanın içinde yer alır ve çevresinde yürüyüş yolları, oturma alanları ve piknik alanları bulunur. Bölge, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbeder. Ziyaretçiler, türbeyi ziyaret edebileceği gibi, yeşil alanda yürüyüş yapabilir, doğayı keşfedebilir ve Bolu'nun tarihi geçmişi hakkında bilgi edinebilir.
+Diyarbakırlı Hacı Efendi Türbesi, Bolu'nun merkezinde yer alan bir yeşil alan içinde bulunur. Bölge, doğu-batı doğrultusunda uzanan bir vadide yer alır ve çevresinde ormanlık alanlar bulunur. İklim, Karadeniz Bölgesi'nin karakteristik nemli ve serin iklimine sahiptir. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Türbe, yeşil alanın içinde yer alır ve çevresinde yürüyüş yolları, oturma alanları ve piknik alanları bulunur. Bölge, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbeder. Ziyaretçiler, türbeyi ziyaret edebileceği gibi, yeşil alanda yürüyüş yapabilir, doğayı keşfedebilir ve Bolu'nun tarihi geçmişi hakkında bilgi edinebilir.
 
 ## Flora ve Fauna
 

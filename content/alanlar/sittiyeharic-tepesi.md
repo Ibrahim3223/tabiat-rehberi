@@ -28,7 +28,7 @@ wikidata_id: "Q31555889"
 
 # Sittiyeharic Tepesi
 
-Sittiyeharic Tepesi, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kaplıyor. Bu geniş alan, Batman'ın güzide noktalarından biri olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini bir araya getiren bu tepe, doğal güzelliği ile ziyaretçilerini büyülüyor. 70-yüksek bir konumdateki bu tepe, etraftaki diğer tepelerle birlikte eşsiz bir manzara sunuyor.
+ Bu geniş alan, Batman'ın güzide noktalarından biri olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini bir araya getiren bu tepe, doğal güzelliği ile ziyaretçilerini büyülüyor. 70-yüksek bir konumdateki bu tepe, etraftaki diğer tepelerle birlikte eşsiz bir manzara sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sittiyeharic Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Sittiyeharic Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini bir araya getiriyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği 70-80 metre civarında ve etraftaki diğer tepelerle birlikte eşsiz bir manzara sunuyor. Coğrafi açıdan zengin olan bu bölge, ziyaretçilerine doğal güzelliğini gösteriyor. Sittiyeharic Tepesi, Batman'ın önemli coğrafi noktalarından biri olarak kabul ediliyor. Bu tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünülürse, ziyaretçilerine geniş bir alan sunuyor.
+Sittiyeharic Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini bir araya getiriyor. Tepenin yüksekliği 70-80 metre civarında ve etraftaki diğer tepelerle birlikte eşsiz bir manzara sunuyor. Coğrafi açıdan zengin olan bu bölge, ziyaretçilerine doğal güzelliğini gösteriyor. Sittiyeharic Tepesi, Batman'ın önemli coğrafi noktalarından biri olarak kabul ediliyor. Bu tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünülürse, ziyaretçilerine geniş bir alan sunuyor.
 
 ## Flora ve Fauna
 
@@ -44,12 +44,12 @@ Sittiyeharic Tepesi, flora ve fauna açısından zengin bir bölge. Bu tepe, çe
 
 ## Ziyaret Bilgileri
 
-Sittiyeharic Tepesi'ni ziyaret etmek için, Batman'a ulaşmanız gerekiyor. Batman'a ulaştıktan sonra, Sittiyeharic Tepesi'ne giden yolu takip edebilirsiniz. Sittiyeharic Tepesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, tepe daha güzelleşiyor ve ziyaretçilerine doğal güzelliğini gösteriyor. Sittiyeharic Tepesi'ni ziyaret etmek, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Sittiyeharic Tepesi'ni ziyaret etmek için, Batman'a ulaşmanız gerekiyor. Batman'a ulaştıktan sonra, Sittiyeharic Tepesi'ne giden yolu takip edebilirsiniz. Sittiyeharic Tepesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, tepe daha güzelleşiyor ve ziyaretçilerine doğal güzelliğini gösteriyor.
 
 ## İlginç Bilgiler
 
 - Sittiyeharic Tepesi, 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Sittiyeharic Tepesi, 70-yüksek bir konumdate.
 - Bu tepe, flora ve fauna açısından zengin.
 - Sittiyeharic Tepesi, ekolojik açıdan önemli bir bölge.

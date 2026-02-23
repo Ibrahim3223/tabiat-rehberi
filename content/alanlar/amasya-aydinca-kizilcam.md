@@ -30,7 +30,7 @@ Amasya-Aydinca Kızılçam Milli Parkı, yüzyıllar boyunca önemli bir tarihi 
 
 ## Coğrafya
 
-Amasya-Aydinca Kızılçam Milli Parkı, Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden biridir. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşam alanı olarak görev yapmaktadır. Aydınca Kızılçam Milli Parkı, aynı zamanda önemli bir su kaynağı olarak da görev yapmaktadır. Bu milli park, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın güzelliği ile büyülemektedir. Coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunan bu milli park, aynı zamanda önemli bir ekolojik zenginliği de barındırmaktadır. Aydınca Kızılçam Milli Parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir ve ziyaretçilerini büyülemektedir.
+Amasya-Aydinca Kızılçam Milli Parkı, Karadeniz Bölgesi'nin en önemli coğrafi özelliklerinden biridir. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşam alanı olarak görev yapmaktadır. Aydınca Kızılçam Milli Parkı, aynı zamanda önemli bir su kaynağı olarak da görev yapmaktadır. Coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunan bu milli park, aynı zamanda önemli bir ekolojik zenginliği de barındırmaktadır. Aydınca Kızılçam Milli Parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir ve ziyaretçilerini büyülemektedir.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390591"
 
 # Sarımaden Tepesi
 
-Sarımaden Tepesi, Nevşehir'in İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, bölgenin en önemli gezi noktalarından biridir. Sarımaden Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise çevreyi geniş bir açıdan görme mümkündür.
+Sarımaden Tepesi, Nevşehir'in İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Sarımaden Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise çevreyi geniş bir açıdan görme mümkündür.
 
 ## Tarihçe
 

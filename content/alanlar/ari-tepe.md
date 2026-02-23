@@ -29,7 +29,7 @@ wikidata_id: "Q31386377"
 
 # Arı Tepe
 
-Kilis'in zengin tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olan Arı Tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli bir parçasını oluşturuyor. Arı Tepe, hem tarihi geçmişi hem de doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerine benzersiz bir deneyim sunuyor. Tarihi geçmişi, bölgenin önemli bir kültür merkezi olduğunu gösteriyor.
+Kilis'in zengin tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olan Arı Tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Arı Tepe, hem tarihi geçmişi hem de doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerine benzersiz bir deneyim sunuyor. Tarihi geçmişi, bölgenin önemli bir kültür merkezi olduğunu gösteriyor.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Arı Tepe, Güneydoğu Anadolu Bölgesi'nde, Kilis ilinin sınırları içerisin
 
 ## Flora ve Fauna
 
-Arı Tepe, flora ve fauna açısından oldukça zengin bir alana sahip. Bölgede, çeşitli bitki türleri ve hayvanlar bulunmakta ve bu çeşitlilik, Arı Tepe'nin doğal güzelliklerini öne çıkarmaktadır. Mevsimsel değişimler, bölgenin flora ve faunasını etkileyen önemli bir faktör ve ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. Arı Tepe, doğa severler için önemli bir destinasyon ve bölgenin doğal güzellikleri, ziyaretçileri büyülüyor.
+ Bölgede, çeşitli bitki türleri ve hayvanlar bulunmakta ve bu çeşitlilik, Arı Tepe'nin doğal güzelliklerini öne çıkarmaktadır. Mevsimsel değişimler, bölgenin flora ve faunasını etkileyen önemli bir faktör ve ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. Arı Tepe, doğa severler için önemli bir destinasyon ve bölgenin doğal güzellikleri, ziyaretçileri büyülüyor.
 
 ## Ziyaret Bilgileri
 

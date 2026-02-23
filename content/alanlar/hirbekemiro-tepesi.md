@@ -28,7 +28,7 @@ wikidata_id: "Q31552618"
 
 # Hırbekemiro Tepesi
 
-Hırbekemiro Tepesi, Mardin'in merkezi bir bölgesinde yer alan ve coğrafi açıdan önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hırbekemiro Tepesi, Mardin'in tarihi ve kültürel zenginliklerini ziyaretçileriyle paylaşmak için önemli bir merkez olarak kabul edilir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler ve tarih meraklıları için bir çekim noktası olarak görev yapar.
+Hırbekemiro Tepesi, Mardin'in merkezi bir bölgesinde yer alan ve coğrafi açıdan önemli bir noktadır. Hırbekemiro Tepesi, Mardin'in tarihi ve kültürel zenginliklerini ziyaretçileriyle paylaşmak için önemli bir merkez olarak kabul edilir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler ve tarih meraklıları için bir çekim noktası olarak görev yapar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hırbekemiro Tepesi'nin tarihi geçmişi, Mardin'in tarihine paralel olarak geli
 
 ## Coğrafya
 
-Hırbekemiro Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir oluşumdur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bölge, çoğunlukla kuru ve sıcak bir iklime sahiptir. Mardin'in genel coğrafi yapısı, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Hırbekemiro Tepesi, bu bölgenin coğrafi çeşitliliğini yansıtan önemli bir noktadır. Tepenin coğrafi konumu, ziyaretçilerin Mardin'in genel coğrafyasını anlamalarına yardımcı olur.
+Hırbekemiro Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir oluşumdur. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bölge, çoğunlukla kuru ve sıcak bir iklime sahiptir. Mardin'in genel coğrafi yapısı, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Hırbekemiro Tepesi, bu bölgenin coğrafi çeşitliliğini yansıtan önemli bir noktadır. Tepenin coğrafi konumu, ziyaretçilerin Mardin'in genel coğrafyasını anlamalarına yardımcı olur.
 
 ## Flora ve Fauna
 

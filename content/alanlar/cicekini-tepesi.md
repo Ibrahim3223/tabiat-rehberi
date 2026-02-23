@@ -28,7 +28,7 @@ wikidata_id: "Q34829362"
 
 # Çiçekini Tepesi
 
-Karaman'da bulunan Çiçekini Tepesi, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede çeşitli bitki türleri ile zengin fauna found. Çiçekini Tepesi, Karaman'ın önemli turizm noktalarından biri olarak karşımıza çıkıyor. Burada bulunan doğal güzellikler, ziyaretçilerin ilgi odağı oluyor.
+Karaman'da bulunan Çiçekini Tepesi, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir. Çiçekini Tepesi, Karaman'ın önemli turizm noktalarından biri olarak karşımıza çıkıyor. Burada bulunan doğal güzellikler, ziyaretçilerin ilgi odağı oluyor.
 
 ## Tarihçe
 

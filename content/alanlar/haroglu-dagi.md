@@ -52,9 +52,9 @@ Jeolojik açıdan incelendiğinde, Haroğlu Dağı'nın yapısı oldukça ilgi �
 
 Haroğlu Dağı, Elazığ'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, farklı mevsimlerde çeşitli renklere bürünür. İlkbaharda, alpin çayırlar renkli çiçeklerle dolar, sonbaharda ise göçmen kuşlar dağları bir renk cümbüşüne çevirir.
 
-Bitki örtüsüne baktığımızda, yüksek dağ ekosisteminin karakteristik türleri hakimdir. Alpin flora, mevsimsel değişimlere uyum sağlar. Dağın yüksek kesimlerinde, soğuğa dayanıklı bitkiler bulunurken, daha alçak kesimlerde çam ve köknar gibi ağaçlar görülür. 
+Bitki örtüsüne baktığımızda, yüksek dağ ekosisteminin karakteristik türleri hakimdir. Alpin flora, mevsimsel değişimlere uyum sağlar. Dağın yüksek kesimlerinde, soğuğa dayanıklı bitkiler bulunurken, daha alçak kesimlerde çam ve köknar gibi ağaçlar görülür.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, yaban keçileri ve ayılar gibi memeliler, dağların zorlu koşullarına adapte olmuşlardır. Kuşlar, özellikle göç mevsimlerinde, gökyüzünü renklendirir. Sürüngenler de, kayalık alanlarda yaşamını sürdüren önemli bir bileşendir. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, yaban keçileri ve ayılar gibi memeliler, dağların zorlu koşullarına adapte olmuşlardır. Kuşlar, özellikle göç mevsimlerinde, gökyüzünü renklendirir. Sürüngenler de, kayalık alanlarda yaşamını sürdüren önemli bir bileşendir.
 
 Haroğlu Dağı, ekolojik açıdan büyük bir değer taşır. Bu yüksek dağ ekosistemi, birçok endemik türün yaşamsal alanını oluşturur. Koruma altına alınması, bu türlerin ve tüm ekosistemin sürekliliğiçin önemlidir.
 

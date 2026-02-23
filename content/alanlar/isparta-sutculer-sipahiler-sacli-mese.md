@@ -22,7 +22,7 @@ wikidata_id: "Q108228481"
 
 # Isparta-Sutculer-Sipahiler Sacli Mese
 
-Isparta-Sutculer-Sipahiler Sacli Mese, Isparta ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Bu park, Isparta'nın doğal güzellikleri arasında önemli bir yer tutar ve ziyaretçilerini doğanın kucağına davet eder. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu özelliği ile dikkat çekicidir. Milli parkın içinde yürüyüş parkurları, piknik alanları ve çeşitli bitki türleri bulunur. Ayrıca, bu milli parkta zengin bir fauna da mevcuttur.
+Isparta-Sutculer-Sipahiler Sacli Mese, Isparta ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Bu park, Isparta'nın doğal güzellikleri arasında önemli bir yer tutar ve ziyaretçilerini doğanın kucağına davet eder. Milli parkın içinde yürüyüş parkurları, piknik alanları ve çeşitli bitki türleri bulunur. Ayrıca, bu milli parkta zengin bir fauna da mevcuttur.
 
 ## Tarihçe
 

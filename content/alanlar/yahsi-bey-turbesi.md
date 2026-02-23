@@ -1,7 +1,7 @@
 ---
 title: "Yahşi Bey Türbesi"
 date: "2026-01-10T06:54:03.218Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390747"
 
 # Yahşi Bey Türbesi
 
-Yahşi Bey Türbesi, Çanakkale'nin Bayramiç ilçesinde yer alan ve hem tarihi hem de doğal güzellikleri bir arada sunan özel bir mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu mekan, ziyaretçilerini hem tarihin derinliklerine hem de doğanın güzelliğine davet ediyor. Tarih ve doğa severler için bir cennet olan Yahşi Bey Türbesi, Çanakkale'nin önemli turizm noktalarından biri olarak görülüyor. Geçmişin izlerini taşıyan bu özel yer, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Bu mekan, ziyaretçilerine hem tarihsel bir yolculuk hem de doğayla iç içe bir deneyim sunuyor.
+Yahşi Bey Türbesi, Çanakkale'nin Bayramiç ilçesinde yer alan ve hem tarihi hem de doğal güzellikleri bir arada sunan özel bir mekan. Bu mekan, ziyaretçilerini hem tarihin derinliklerine hem de doğanın güzelliğine davet ediyor. Tarih ve doğa severler için bir cennet olan Yahşi Bey Türbesi, Çanakkale'nin önemli turizm noktalarından biri olarak görülüyor. Geçmişin izlerini taşıyan bu özel yer, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Bu mekan, ziyaretçilerine hem tarihsel bir yolculuk hem de doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

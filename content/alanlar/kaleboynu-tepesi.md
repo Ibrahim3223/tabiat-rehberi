@@ -28,7 +28,7 @@ wikidata_id: "Q31390881"
 
 # Kaleboynu Tepesi
 
-Kaleboynu Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin etrafı, çeşitli bitki türleri ile çevrili ve bu bölgede, yaban hayatı oldukça zengin. Kaleboynu Tepesi, aynı zamanda tarihi geçmişi ile de dikkat çekiyor. Bu bölgede, yüzyıllar boyunca çeşitli uygarlıklar yaşamış ve bu uygarlıklar, tepeye ve çevresine izler bırakmışlar.
+Kaleboynu Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Tepenin etrafı, çeşitli bitki türleri ile çevrili ve bu bölgede, yaban hayatı oldukça zengin. Kaleboynu Tepesi, aynı zamanda tarihi geçmişi ile de dikkat çekiyor. Bu bölgede, yüzyıllar boyunca çeşitli uygarlıklar yaşamış ve bu uygarlıklar, tepeye ve çevresine izler bırakmışlar.
 
 ## Tarihçe
 

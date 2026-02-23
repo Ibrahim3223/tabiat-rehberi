@@ -29,7 +29,7 @@ wikidata_id: "Q134728292"
 
 # Maltepe Tümülüsü, Tire
 
-Maltepe Tümülüsü, İzmir'in Tire ilçesinde yer alan tarihi bir höyüktür. Bu höyüğün bulunduğu alan, yaklaşık 140 hektarlık bir genişliğe sahiptir. Bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Maltepe Tümülüsü, bölgenin coğrafi ve tarihi açıdan önemli bir noktasıdır. Burada yapılan kazılar, bölgenin zengin tarihi geçmişini gözler önüne sermektedir. Bu höyük, aynı zamanda Tire'nin önemli turizm noktalarından biridir.
+Maltepe Tümülüsü, İzmir'in Tire ilçesinde yer alan tarihi bir höyüktür. Bu höyüğün bulunduğu alan, yaklaşık 140 hektarlık bir genişliğe sahiptir. Maltepe Tümülüsü, bölgenin coğrafi ve tarihi açıdan önemli bir noktasıdır. Burada yapılan kazılar, bölgenin zengin tarihi geçmişini gözler önüne sermektedir. Bu höyük, aynı zamanda Tire'nin önemli turizm noktalarından biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Maltepe Tümülüsü'nün tarihi geçmişi, yüzyıllar öncesine dayanmaktadır
 
 ## Coğrafya
 
-Maltepe Tümülüsü, İzmir'in Tire ilçesinde yer alan bir höyüktür. Bu höyük, Ege Bölgesi'nin coğrafi açıdan önemli bir noktasıdır. Höyüğün bulunduğu alan, yaklaşık 140 hektarlık bir genişliğe sahiptir. Bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Höyüğün coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkilemektedir. Maltepe Tümülüsü, bölgenin coğrafi ve tarihi açıdan önemli bir noktası olarak kabul edilmektedir. Bu höyük, aynı zamanda bölgenin turizm potansiyelini artıran önemli bir faktördür. Tire'nin coğrafi ve tarihi zenginliği, Maltepe Tümülüsü gibi önemli noktalar sayesinde ziyaretçilere sunulmaktadır. Maltepe Tümülüsü'nün bulunduğu alan, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahiptir. Bu ekosistem, bölgenin doğal güzelliğini ve turizm potansiyelini artırmaktadır.
+Maltepe Tümülüsü, İzmir'in Tire ilçesinde yer alan bir höyüktür. Bu höyük, Ege Bölgesi'nin coğrafi açıdan önemli bir noktasıdır. Höyüğün bulunduğu alan, yaklaşık 140 hektarlık bir genişliğe sahiptir. Höyüğün coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkilemektedir. Maltepe Tümülüsü, bölgenin coğrafi ve tarihi açıdan önemli bir noktası olarak kabul edilmektedir. Bu höyük, aynı zamanda bölgenin turizm potansiyelini artıran önemli bir faktördür. Tire'nin coğrafi ve tarihi zenginliği, Maltepe Tümülüsü gibi önemli noktalar sayesinde ziyaretçilere sunulmaktadır. Maltepe Tümülüsü'nün bulunduğu alan, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahiptir. Bu ekosistem, bölgenin doğal güzelliğini ve turizm potansiyelini artırmaktadır.
 
 ## Flora ve Fauna
 

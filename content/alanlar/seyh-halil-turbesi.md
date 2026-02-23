@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Halil Türbesi"
 date: "2026-01-10T05:40:16.535Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"

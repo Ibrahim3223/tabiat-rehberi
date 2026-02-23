@@ -1,7 +1,7 @@
 ---
 title: "Bent Hamamı"
 date: "2026-01-09T22:39:03.399Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bayburt"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738709"
 
 # Bent Hamamı
 
-Bent Hamamı, Karadeniz Bölgesi'nin güzide şehirlerinden Bayburt'un sınırları içinde yer alıyor. 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu yeşil cennet, ziyaretçilerini doğanın kucağına davet ediyor. Bent Hamamı, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişi sunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş yeşil alan, ziyaretçilerin doğayı keşfetmelerine olanak tanıyor.
+Bent Hamamı, Karadeniz Bölgesi'nin güzide şehirlerinden Bayburt'un sınırları içinde yer alıyor. Bu yeşil cennet, ziyaretçilerini doğanın kucağına davet ediyor. Bent Hamamı, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişi sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bent Hamamı'nın tarihi geçmişi, yüzyıllar önceye dayanıyor. Bu bölge, t
 
 ## Coğrafya
 
-Bent Hamamı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin tüm tonlarına sahip bir bölgede yer alıyor. 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan sunuyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bent Hamamı, coğrafi konumu itibariyle, ziyaretçilerine doğanın güzelliğini sunuyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip ve ziyaretçilere, bu bölge hakkında geniş bilgi sunuyor. Bent Hamamı'nın coğrafyası, ziyaretçilerin doğayı keşfetmelerine olanak tanıyor ve bu bölgenin güzelliğini keşfetmeyi mümkün kılıyor.
+Bent Hamamı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin tüm tonlarına sahip bir bölgede yer alıyor. Bent Hamamı, coğrafi konumu itibariyle, ziyaretçilerine doğanın güzelliğini sunuyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip ve ziyaretçilere, bu bölge hakkında geniş bilgi sunuyor. Bent Hamamı'nın coğrafyası, ziyaretçilerin doğayı keşfetmelerine olanak tanıyor ve bu bölgenin güzelliğini keşfetmeyi mümkün kılıyor.
 
 ## Flora ve Fauna
 

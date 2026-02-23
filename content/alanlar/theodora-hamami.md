@@ -1,7 +1,7 @@
 ---
 title: "Theodora Hamamı"
 date: "2026-01-09T23:22:53.239Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738952"
 
 # Theodora Hamamı
 
-Theodora Hamamı, Tuzla'da bulunan ve Marmara Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle çevrilidir. Bu alan, doğa severler için bir cennet olarak görülebilir. Theodora Hamamı, zengin flora ve fauna çeşitliliği ile dikkat çeker. Doğal güzelliği ve sakin atmosferi ile ziyaretçilerini etkileyen bu alan, aynı zamanda tarihi geçmişi ile de önemlidir.
+Theodora Hamamı, Tuzla'da bulunan ve Marmara Bölgesi'nin önemli doğal alanlarından biridir. Bu alan, doğa severler için bir cennet olarak görülebilir. Theodora Hamamı, zengin flora ve fauna çeşitliliği ile dikkat çeker. Doğal güzelliği ve sakin atmosferi ile ziyaretçilerini etkileyen bu alan, aynı zamanda tarihi geçmişi ile de önemlidir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Theodora Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Ta
 
 ## Coğrafya
 
-Theodora Hamamı, Tuzla'da bulunan ve Marmara Bölgesi'nin önemli doğal alanlarından biridir. Bu alan, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Theodora Hamamı'nın coğrafi konumu, deniz seviyesinden yükse ve etrafı çeşitli bitki türleri ile çevrilidir. İklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Kışları yağışlı, yazları ise sıcak ve nemlidir. Theodora Hamamı'nın coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. Bahar aylarında çiçeklerin açması, yaz aylarında sıcak günlerin keyfini çıkarmak, sonbahar aylarında renklerin değişimi ve kış aylarında yağmurun güzelliği, ziyaretçilere yıl boyunca çeşitli deneyimler sunmaktadır.
+Theodora Hamamı, Tuzla'da bulunan ve Marmara Bölgesi'nin önemli doğal alanlarından biridir. Theodora Hamamı'nın coğrafi konumu, deniz seviyesinden yükse ve etrafı çeşitli bitki türleri ile çevrilidir. İklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Kışları yağışlı, yazları ise sıcak ve nemlidir. Theodora Hamamı'nın coğrafi yapısı, ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. Bahar aylarında çiçeklerin açması, yaz aylarında sıcak günlerin keyfini çıkarmak, sonbahar aylarında renklerin değişimi ve kış aylarında yağmurun güzelliği, ziyaretçilere yıl boyunca çeşitli deneyimler sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Theodora Hamamı, ziyaretçilere yıl boyunca çeşitli deneyimler sunar. Bahar 
 ## İlginç Bilgiler
 
 - Theodora Hamamı, 140 hektarlık bir yeşil alan üzerinde kurulmuştur.
-- Theodora Hamamı, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Theodora Hamamı, zengin flora ve fauna çeşitliliği ile dikkat çeker.
 - Theodora Hamamı, tarihi geçmişi ile de önemlidir.
 - Theodora Hamamı, doğa severler için bir cennet olarak görülebilir.

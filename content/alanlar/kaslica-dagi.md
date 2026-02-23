@@ -63,6 +63,6 @@ Kaşlıca Dağı, Malatya'nın gizli bir hazine gibi duruyor. Sabah erken gitmen
 - Kaşlıca Dağı, Malatya ilinin Yeşilyurt ilçesinde yer alır.
 - Dağın yüksekliği yaklaşık 2.200 metredir.
 - Kaşlıca Dağı'nın etrafında çeşitli köyler ve yerleşim yerleri bulunur.
-- Bu bölgede históri ve kültürel olarak önemli yapılar ve kalıntılar mevcuttur.
+- Bu bölgede tarihi ve kültürel olarak önemli yapılar ve kalıntılar mevcuttur.
 - Kaşlıca Dağı ve çevresinin ekolojik önemi, flora ve fauna çeşitliliği açısından önemlidir.
 - Malatya ili, 2020 yılında yaklaşık 797.000 nüfusa sahiptir.

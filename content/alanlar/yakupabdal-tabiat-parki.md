@@ -22,7 +22,7 @@ wikidata_id: "Q108228501"
 
 # Yakupabdal Tabiat Parkı
 
-Yakupabdal Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye has bitkilerle kaplıdır. Parkın içinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Yakupabdal Tabiat Parkı, hem doğa severler hem de bölge tarihini öğrenmek isteyenler için önemli bir destinasyondur.
+Yakupabdal Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Parkın içinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Yakupabdal Tabiat Parkı, hem doğa severler hem de bölge tarihini öğrenmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Yakupabdal Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin ek
 
 ## Coğrafya
 
-Yakupabdal Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer alır. Park, 140 hektarlık geniş bir alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Bölgenin coğrafi özellikleri, parkın flora ve faunasını etkileyen önemli faktörlerdir. Parkın etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, bölgenin iklimine ve toprağına uyum sağlamışlardır. Yakupabdal Tabiat Parkı, ziyaretçilere bölge hakkında detaylı bilgi edinme ve doğal güzellikleri keşfetme fırsatı sunar. Parkın coğrafi konumu, bölgenin diğer doğal ve kültürel zenginliklerine de yakınlığıyla dikkat çeker.
+Yakupabdal Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer alır. Bölgenin coğrafi özellikleri, parkın flora ve faunasını etkileyen önemli faktörlerdir. Parkın etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, bölgenin iklimine ve toprağına uyum sağlamışlardır. Yakupabdal Tabiat Parkı, ziyaretçilere bölge hakkında detaylı bilgi edinme ve doğal güzellikleri keşfetme fırsatı sunar. Parkın coğrafi konumu, bölgenin diğer doğal ve kültürel zenginliklerine de yakınlığıyla dikkat çeker.
 
 ## Flora ve Fauna
 

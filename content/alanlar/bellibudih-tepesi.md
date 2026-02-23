@@ -28,7 +28,7 @@ wikidata_id: "Q31552903"
 
 # Bellibudih Tepesi
 
-Mardin'in tarih kokan sokaklarında, 140 hektarlık doğal bir alan olarak karşımıza çıkan Bellibudih Tepesi, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş bir açık alan sunuyor. Tepenin eteklerinde, Mardin'in tarihi evleri ve camileri bulunmakta. Tepenin zirvesine çıktığınızda, Mardin'in panoramik manzarasını izleyebilirsiniz. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+ Bu büyüklük, ziyaretçilere geniş bir açık alan sunuyor. Tepenin eteklerinde, Mardin'in tarihi evleri ve camileri bulunmakta. Tepenin zirvesine çıktığınızda, Mardin'in panoramik manzarasını izleyebilirsiniz. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bellibudih Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yap
 
 ## Coğrafya
 
-Bellibudih Tepesi, Mardin'in merkezinde, Güneydoğu Anadolu Bölgesi'nde bulunmakta. Tepenin yüksekliği, Mardin'in panoramik manzarasını izlemeye olanak tanıyor. Tepenin eteklerinde, Mardin'in tarihi evleri ve camileri bulunmakta. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tepenin coğrafyası, Mardin'in iklimini ve kültürünü yansıtmaktadır. Tepenin zirvesine çıktığınızda, Mardin'in tarihi ve kültürel zenginliğini görebilirsiniz. Tepenin coğrafyası, ziyaretçilere benzersiz bir deneyim sunuyor. Tepenin yüksekliği, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+Bellibudih Tepesi, Mardin'in merkezinde, Güneydoğu Anadolu Bölgesi'nde bulunmakta. Tepenin yüksekliği, Mardin'in panoramik manzarasını izlemeye olanak tanıyor. Tepenin eteklerinde, Mardin'in tarihi evleri ve camileri bulunmakta. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tepenin coğrafyası, Mardin'in iklimini ve kültürünü yansıtmaktadır. Tepenin zirvesine çıktığınızda, Mardin'in tarihi ve kültürel zenginliğini görebilirsiniz. Tepenin coğrafyası, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

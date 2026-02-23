@@ -28,7 +28,7 @@ wikidata_id: "Q97320208"
 
 # Ağlayansu Şelalesi
 
-Ağlayansu Şelalesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu şelale, yaklaşık 140 hektarlık bir alan içinde yer alır ve yaklaşık 200 futbol sahası büyüklüğündedir. Şelalenin güzelliği, çevreye dağılmış çeşitli bitki türleri ve zengin fauna ile daha da artar. Ağlayansu Şelalesi, hem doğa severler hem de fotoğraf tutkunları için bir cennettir. Şelalenin yüksekliği ve suyun hızı, ziyaretçilere görsel bir şölen sunar.
+Ağlayansu Şelalesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Şelalenin güzelliği, çevreye dağılmış çeşitli bitki türleri ve zengin fauna ile daha da artar. Ağlayansu Şelalesi, hem doğa severler hem de fotoğraf tutkunları için bir cennettir. Şelalenin yüksekliği ve suyun hızı, ziyaretçilere görsel bir şölen sunar.
 
 ## Tarihçe
 

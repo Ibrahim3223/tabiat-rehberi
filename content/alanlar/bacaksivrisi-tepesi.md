@@ -28,7 +28,7 @@ wikidata_id: "Q31389798"
 
 # Bacaksivrisi Tepesi
 
-Bacaksivrisi Tepesi, Karadeniz Bölgesi'nin güzide illerinden Bolu'da bulunmaktadır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini eşsiz bir manzara ve doğa güzelliği ile karşılamaktadır. Bölgenin coğrafi özellikleriyle şekillenen bu tepe, aynı zamanda tarihi ve kültürel açıdan da önemli bir değer taşımaktadır. Ziyaretçiler, bu tepeye tırmanarak hem güzel bir manzara izleme fırsatı bulmakta hem de bölgenin tarihi ve kültürel zenginliklerini keşfetme olanağı elde etmektedirler.
+Bacaksivrisi Tepesi, Karadeniz Bölgesi'nin güzide illerinden Bolu'da bulunmaktadır. Bölgenin coğrafi özellikleriyle şekillenen bu tepe, aynı zamanda tarihi ve kültürel açıdan da önemli bir değer taşımaktadır. Ziyaretçiler, bu tepeye tırmanarak hem güzel bir manzara izleme fırsatı bulmakta hem de bölgenin tarihi ve kültürel zenginliklerini keşfetme olanağı elde etmektedirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bacaksivrisi Tepesi, yüzyıllar boyunca bölgenin önemli bir kısmını oluşt
 
 ## Coğrafya
 
-Bacaksivrisi Tepesi, Bolu'nun coğrafi yapısını oluşturan önemli bir tepe olup, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bölgenin coğrafi özellikleriyle şekillenen bu tepe, aynı zamanda iklim ve çevre açısından da önemli bir değer taşımaktadır. Bacaksivrisi Tepesi, Karadeniz Bölgesi'nin karakteristik özelliklerine sahip olup, bölgenin flora ve faunasına ev sahipliği yapmaktadır. Bölgenin coğrafi yapısı, ziyaretçilerin bu tepeyi keşfetmelerine olanak sağlamaktadır. Ziyaretçiler, bu tepeyi tırmanarak hem güzel bir manzara izleme fırsatı bulmakta hem de bölgenin coğrafi ve kültürel zenginliklerini keşfetme olanağı elde etmektedirler.
+ Bölgenin coğrafi özellikleriyle şekillenen bu tepe, aynı zamanda iklim ve çevre açısından da önemli bir değer taşımaktadır. Bacaksivrisi Tepesi, Karadeniz Bölgesi'nin karakteristik özelliklerine sahip olup, bölgenin flora ve faunasına ev sahipliği yapmaktadır. Bölgenin coğrafi yapısı, ziyaretçilerin bu tepeyi keşfetmelerine olanak sağlamaktadır. Ziyaretçiler, bu tepeyi tırmanarak hem güzel bir manzara izleme fırsatı bulmakta hem de bölgenin coğrafi ve kültürel zenginliklerini keşfetme olanağı elde etmektedirler.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Bacaksivrisi Tepesi'ni ziyaret etmek, hem güzel bir manzara izleme hem de bölg
 
 ## İlginç Bilgiler
 
-- Bacaksivrisi Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bolu'nun coğrafi yapısını oluşturan önemli bir tepe.
 - Karadeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapmaktadır.
 - Ziyaretçiler, bu tepeyi gezerek hem doğa güzelliği hem de bölgenin kültürel zenginlikleri hakkında bilgi sahibi olmakta.

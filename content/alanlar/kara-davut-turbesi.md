@@ -1,7 +1,7 @@
 ---
 title: "Kara Davut Türbesi"
 date: "2026-01-10T05:04:38.999Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391612"
 
 # Kara Davut Türbesi
 
-Kara Davut Türbesi, Ankara'nın Beypazarı ilçesinde, İç Anadolu Bölgesi'nin kalbinde yer alan bir plaj ve tarihi mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Bu mekan, hem tarihi hem de doğal güzelliklerinin bir arada bulunduğu özel bir yer. Kara Davut Türbesi, ziyaretçilerini tarihi ve doğal zenginlikleriyle karşılayan bir destinasyon.
+Kara Davut Türbesi, Ankara'nın Beypazarı ilçesinde, İç Anadolu Bölgesi'nin kalbinde yer alan bir plaj ve tarihi mekan. Bu mekan, hem tarihi hem de doğal güzelliklerinin bir arada bulunduğu özel bir yer. Kara Davut Türbesi, ziyaretçilerini tarihi ve doğal zenginlikleriyle karşılayan bir destinasyon.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Kara Davut Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini g
 ## İlginç Bilgiler
 
 - Kara Davut Türbesi, Beypazarı'nın önemli tarihi yapılarından biri.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - İç Anadolu Bölgesi'nin coğrafyası, kara ikliminin hakim olduğu bir bölge.
 - Kara Davut Türbesi, ziyaretçilerine bir doğa belgeseli deneyimi sunuyor.
 - Bu mekan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini karşılayan bir destinasyon.

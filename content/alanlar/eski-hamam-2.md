@@ -1,7 +1,7 @@
 ---
 title: "Eski Hamam 2"
 date: "2026-01-09T23:31:15.608Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739092"
 
 # Eski Hamam 2
 
-Foça'da bulunan Eski Hamam 2 plajı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilere hem dinlenmek hem de çeşitli etkinlikler yapmak için ideal bir ortam sunuyor. Plajın çevresinde bulunan çam ağaçları, güneşin altında serin ve huzurlu bir atmosfer yaratıyor. Eski Hamam 2 plajı, Foça'nın en güzel plajlarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor.
+ Bu geniş yeşil alan, ziyaretçilere hem dinlenmek hem de çeşitli etkinlikler yapmak için ideal bir ortam sunuyor. Plajın çevresinde bulunan çam ağaçları, güneşin altında serin ve huzurlu bir atmosfer yaratıyor. Eski Hamam 2 plajı, Foça'nın en güzel plajlarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor.
 
 ## Tarihçe
 

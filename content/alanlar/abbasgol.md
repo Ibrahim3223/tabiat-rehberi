@@ -49,7 +49,7 @@ Iğdır Nehri'ne yakın olan Abbasgöl, bölgenin su kaynakları açısından ö
 
 ## Flora ve Fauna
 
-Iğdır'ın Abbasgölü, step bitki örtüsünün hakim olduğu bir bölgede yer alıyor. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanıyor. Kuraklığa adapte olan bitkiler, gölün kıyılarında ve çevresindeki bozkırda yaşam buluyor. 
+Iğdır'ın Abbasgölü, step bitki örtüsünün hakim olduğu bir bölgede yer alıyor. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanıyor. Kuraklığa adapte olan bitkiler, gölün kıyılarında ve çevresindeki bozkırda yaşam buluyor.
 
 Gölün su kuşları, sulak alan bitkileri arasında yuvalanıyor. Sonbaharın yaklaşmasıyla birlikte, göç eden kuşlar gökyüzünü dolduruyor. Balıklar, suyun altında yaşamını sürdürürken, gölden yararlanmak için gelen diğer canlılar, ekosistemin dengesini koruyor.
 
@@ -64,6 +64,6 @@ Abbasgöl'ü ziyaret etmek için Iğdır'dan yaklaşık 30 dakika güneye gitmen
 - Abbasgöl, Iğdır ilinin Tuzluca ilçesinde bulunmaktadır.
 - Gölün çevresinde çeşitli kuş türleri yaşamaktadır.
 - Abbasgöl, özellikle kış aylarında kuş gözlemcilerinin ilgi odağı olmaktadır.
-- Gölün yakınında históri ve kültürel öneme sahip yerleşim yerleri mevcuttur.
+- Gölün yakınında tarihi ve kültürel öneme sahip yerleşim yerleri mevcuttur.
 - Abbasgöl, Iğdır'ın doğal güzellikleri arasında önemli bir yer tutmaktadır.
 - Göl, bölgenin ekolojik dengesi için önemli bir role sahiptir.

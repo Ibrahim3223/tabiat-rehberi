@@ -22,7 +22,7 @@ wikidata_id: "Q108228550"
 
 # Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari
 
-Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari, Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın tüm güzelliğini sunuyor. Bölge, tarihi ve kültürel zenginlikleriyle de dikkat çekerek, ziyaretçilerini zamanda yolculuğa çıkarıyor. Gökkuşağı gibi çeşitli renklerde çiçeklerin açtığı bahar mevsiminde, bu milli park gerçek bir cennet gibi görünüyor. Her mevsim farklı bir güzelliğe sahip olan bu bölge, yıl boyunca ziyaretçilerini bekliyor.
+Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari, Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak dikkat çekiyor. Bölge, tarihi ve kültürel zenginlikleriyle de dikkat çekerek, ziyaretçilerini zamanda yolculuğa çıkarıyor. Gökkuşağı gibi çeşitli renklerde çiçeklerin açtığı bahar mevsiminde, bu milli park gerçek bir cennet gibi görünüyor. Her mevsim farklı bir güzelliğe sahip olan bu bölge, yıl boyunca ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

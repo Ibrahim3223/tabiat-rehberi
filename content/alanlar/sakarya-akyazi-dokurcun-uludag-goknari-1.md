@@ -22,7 +22,7 @@ wikidata_id: "Q108227286"
 
 # Sakarya-Akyazi-Dokurcun Uludag Goknari 1
 
-Sakarya-Akyazi-Dokurcun Uludag Goknari 1, Marmara Bölgesi'nin Sakarya ilinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Milli park, zengin flora ve faunası ile dikkat çekiyor ve doğa severler için bir cennet olarak görülüyor. Sakarya ilinin Akyazi ve Dokurcun ilçeleri arasında yer alan bu milli park, Uludag Goknari'nin güzelliğini gözler önüne seriyor. Ziyaretçiler, milli parkın içerisinde yürüyüş yapabilir, doğa fotoğrafçılığı yapabilir veya sadece doğanın güzelliğini izleyebilir.
+Sakarya-Akyazi-Dokurcun Uludag Goknari 1, Marmara Bölgesi'nin Sakarya ilinde yer alan bir milli parktır. Milli park, zengin flora ve faunası ile dikkat çekiyor ve doğa severler için bir cennet olarak görülüyor. Sakarya ilinin Akyazi ve Dokurcun ilçeleri arasında yer alan bu milli park, Uludag Goknari'nin güzelliğini gözler önüne seriyor. Ziyaretçiler, milli parkın içerisinde yürüyüş yapabilir, doğa fotoğrafçılığı yapabilir veya sadece doğanın güzelliğini izleyebilir.
 
 ## Tarihçe
 

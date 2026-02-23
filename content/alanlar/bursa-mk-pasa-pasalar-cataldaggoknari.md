@@ -22,7 +22,7 @@ wikidata_id: "Q108228095"
 
 # Bursa M.K. paşa paşalar-Cataldaggoknari
 
-Bursa M.K. Paşa Paşalar-Cataldaggoknari milli parkı, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanıyla, doğa severlerin ilgisini çekiyor. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir gezi deneyimi sunuyor. Milli parkın konumu, İç Anadolu Bölgesi'nde yer alıyor. Ziyaretçiler, bu milli parkta çeşitli aktivitelere katılabilir, doğanın güzelliğini keşfedebilir.
+Bursa M.K. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir gezi deneyimi sunuyor. Milli parkın konumu, İç Anadolu Bölgesi'nde yer alıyor. Ziyaretçiler, bu milli parkta çeşitli aktivitelere katılabilir, doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 

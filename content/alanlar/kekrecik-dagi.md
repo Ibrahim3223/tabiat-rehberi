@@ -32,7 +32,7 @@ Konya'nın geniş steplerinin ortasında yükselen Kekrecik Dağı, bölgenin do
 
 ## Tarihçe
 
-Konya bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, binlerce yıldır çeşitli uygarlıkların yerleşim yeri olmuş ve her biri kendi kültürünü, geleneklerini bırakmıştır. Hitit, Roma ve Selçuklu gibi büyük imparatorluklar bu topraklarda hüküm sürmüştür. Kekrecik Dağı da bu tarihsel zenginliğin bir parçasını oluşturur.
+Konya bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, binlerce yıldır çeşitli uygarlıkların yerleşim yeri olmuş ve her biri kendi kültürünü, geleneklerini bırakmıştır. Hitit, Roma ve Selçuklu gibi büyük imparatorluklar bu topraklarda hüküm sürmüştür. Kekrecik Dağı da bu tarihsel zenginliğin bir parçasını oluşturur.
 
 Doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir rol oynamıştır. Örneğin, yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin ekonomisine büyük katkılar sağlamış ve toplumların yaşam tarzını şekillendirmiştir. Ticaret yolları da bu doğal güzelliklerin arasında geçmiş, insanları ve kültürleri birleştirmiştir.
 

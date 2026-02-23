@@ -28,7 +28,7 @@ wikidata_id: "Q31385517"
 
 # Oylu Dağ
 
-Oylu Dağ, Nevşehir'in doğal güzelliklerini keşfedeceğiniz bir nokta. İç Anadolu Bölgesi'nin önemli noktalarından biri olan Oylu Dağ, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu dağ, bölgenin coğrafi yapısını etkileyen önemli bir oluşum. Oylu Dağ'ın yüksekliği ve genişliği, bölgenin iklimini ve flora/faunayı etkileyen faktörlerden biri. Doğa severler için ideal bir destinasyon olan Oylu Dağ, ziyaretçilerine zengin bir doğal ortam sunuyor.
+Oylu Dağ, Nevşehir'in doğal güzelliklerini keşfedeceğiniz bir nokta. Bu dağ, bölgenin coğrafi yapısını etkileyen önemli bir oluşum. Oylu Dağ'ın yüksekliği ve genişliği, bölgenin iklimini ve flora/faunayı etkileyen faktörlerden biri. Doğa severler için ideal bir destinasyon olan Oylu Dağ, ziyaretçilerine zengin bir doğal ortam sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Oylu Dağ, ziyaretçilerine zengin bir doğal ortam sunuyor. Bu dağ, İç Anado
 ## İlginç Bilgiler
 
 - Oylu Dağ, İç Anadolu Bölgesi'nin önemli noktalarından biri.
-- Bu dağ, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Oylu Dağ, bölgenin coğrafi yapısını etkileyen önemli bir oluşum.
 - Bu dağ, ziyaretçilerine zengin bir doğal ortam sunuyor.
 - Oylu Dağ, doğal güzellikleri ile dikkat çekiyor.

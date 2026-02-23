@@ -21,14 +21,14 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Arapçalı Tepesi","caption":"Arapçalı Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arap%C3%A7al%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32129156","tip":"genel"}]
 description: "Sivas'ta bulunan Arapçalı Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri"
-keywords: ["Arapçalı Tepesi","Sivas","İç Anadolu Bölgesi","coğrafi nokta","tepe","doğa","gezi","turizm","yerel história"]
+keywords: ["Arapçalı Tepesi","Sivas","İç Anadolu Bölgesi","coğrafi nokta","tepe","doğa","gezi","turizm","yerel tarihi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32129156"
 ---
 
 # Arapçalı Tepesi
 
-Arapçalı Tepesi, Sivas ilinin İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Arapçalı Tepesi, Sivas'ın önemli coğrafi noktalarından biri olarak kabul edilir ve yerel halkın ziyaret ettiği bir yerdir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar ve Sivas'ın güzelliğini keşfetmek için ideal bir noktadır.
+Arapçalı Tepesi, Sivas ilinin İç Anadolu Bölgesi'nde yer alan bir tepe. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Arapçalı Tepesi, Sivas'ın önemli coğrafi noktalarından biri olarak kabul edilir ve yerel halkın ziyaret ettiği bir yerdir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar ve Sivas'ın güzelliğini keşfetmek için ideal bir noktadır.
 
 ## Tarihçe
 

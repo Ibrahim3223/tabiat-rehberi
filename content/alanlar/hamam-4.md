@@ -1,7 +1,7 @@
 ---
 title: "Hamam 4"
 date: "2026-01-09T23:44:10.285Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739194"
 
 # Hamam 4
 
-Hamam 4 plajı, Selçuk ilçesinin en güzel noktalarından biri. Bu plaj, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Plajın uzunluğu boyunca, Ege Denizi'nin masmavi suları ve altın rengindeki kumu ziyaretçilerini bekliyor. Güneşin batışının eşsiz manzarasını izlemek için ideal bir nokta olan Hamam 4, aynı zamanda su sporları ve deniz activiteleri için de uygun.
+Hamam 4 plajı, Selçuk ilçesinin en güzel noktalarından biri. Plajın uzunluğu boyunca, Ege Denizi'nin masmavi suları ve altın rengindeki kumu ziyaretçilerini bekliyor. Güneşin batışının eşsiz manzarasını izlemek için ideal bir nokta olan Hamam 4, aynı zamanda su sporları ve deniz activiteleri için de uygun.
 
 ## Tarihçe
 

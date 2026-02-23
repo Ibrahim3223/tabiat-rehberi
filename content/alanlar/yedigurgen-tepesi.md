@@ -28,7 +28,7 @@ wikidata_id: "Q34822255"
 
 # Yedigürgen Tepesi
 
-Yedigürgen Tepesi, Yalova'nın merkezine yakın bir konumda yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak niteliğinde. Tepenin eteklerinde bulunan köyler, geleneksel mimari özelliklerini koruyor ve ziyaretçilere nostaljik bir atmosfer sunuyor. Yedigürgen Tepesi, doğa yürüyüşleri için ideal bir destinasyon ve yılın her mevsiminde farklı güzelliğini sergiliyor.
+Yedigürgen Tepesi, Yalova'nın merkezine yakın bir konumda yer alıyor. Tepenin eteklerinde bulunan köyler, geleneksel mimari özelliklerini koruyor ve ziyaretçilere nostaljik bir atmosfer sunuyor. Yedigürgen Tepesi, doğa yürüyüşleri için ideal bir destinasyon ve yılın her mevsiminde farklı güzelliğini sergiliyor.
 
 ## Tarihçe
 

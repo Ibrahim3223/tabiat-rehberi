@@ -1,7 +1,7 @@
 ---
 title: "İshak Paşa Türbesi"
 date: "2026-01-10T05:01:42.443Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391467"
 
 # İshak Paşa Türbesi
 
-İnegöl/Bursa'da yer alan İshak Paşa Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel değerlerinden biridir. 140 hektarlık bir araziye yayılmış olan bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. İshak Paşa Türbesi, bölgenin tarihi geçmişini yansıtan bir yapı olarak dikkat çekmektedir. Bu türbe, İnegöl'ün merkezine uzun bir mesafe uzaklıkta bulunmaktadır. İshak Paşa Türbesi'ni ziyaret edenler, burada tarihi bir atmosferi deneyimleyebilir ve bölgenin kültürel zenginliklerini keşfedebilirler.
+İnegöl/Bursa'da yer alan İshak Paşa Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel değerlerinden biridir. İshak Paşa Türbesi, bölgenin tarihi geçmişini yansıtan bir yapı olarak dikkat çekmektedir. Bu türbe, İnegöl'ün merkezine uzun bir mesafe uzaklıkta bulunmaktadır. İshak Paşa Türbesi'ni ziyaret edenler, burada tarihi bir atmosferi deneyimleyebilir ve bölgenin kültürel zenginliklerini keşfedebilirler.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ wikidata_id: "Q131391467"
 
 ## Coğrafya
 
-İshak Paşa Türbesi, İnegöl/Bursa'da yer almaktadır. Bu alan, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Türbe, 140 hektarlık bir araziye yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir. İshak Paşa Türbesi'nin bulunduğu bölge, tarihi ve kültürel açıdan zengindir. Bu alan, İnegöl'ün merkezine uzun bir mesafe uzaklıkta bulunmaktadır. İshak Paşa Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmesine olanak tanımaktadır. Türbe, bölgenin doğal güzelliklerini ve tarihi yapılarını bir araya getirmektedir. İshak Paşa Türbesi'nin bulunduğu arazi, çeşitli bitki türleri ve fauna ile örtülüdür. Bu alan, bölgenin ekolojik dengesini korumak açısından önemlidir.
+İshak Paşa Türbesi, İnegöl/Bursa'da yer almaktadır. Bu alan, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasıdır. İshak Paşa Türbesi'nin bulunduğu bölge, tarihi ve kültürel açıdan zengindir. Bu alan, İnegöl'ün merkezine uzun bir mesafe uzaklıkta bulunmaktadır. İshak Paşa Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmesine olanak tanımaktadır. Türbe, bölgenin doğal güzelliklerini ve tarihi yapılarını bir araya getirmektedir. İshak Paşa Türbesi'nin bulunduğu arazi, çeşitli bitki türleri ve fauna ile örtülüdür.
 
 ## Flora ve Fauna
 
-İshak Paşa Türbesi'nin bulunduğu arazi, çeşitli bitki türleri ve fauna ile örtülüdür. Bu alan, bölgenin ekolojik dengesini korumak açısından önemlidir. İshak Paşa Türbesi'nin bulunduğu bölge, mevsimsel değişimlere göre farklı bir görünüm sunmaktadır. İlkbahar ve yaz aylarında, bu alan yeşilliklerle örtülüdür. Sonbahar ve kış aylarında ise, bölgenin doğal güzellikleri farklı bir şekilde ortaya çıkmaktadır. İshak Paşa Türbesi'nin bulunduğu arazi, bölgenin fauna açısından da zengindir. Bu alan, çeşitli hayvan türleri için bir yaşam alanı olarak hizmet vermektedir.
+İshak Paşa Türbesi'nin bulunduğu arazi, çeşitli bitki türleri ve fauna ile örtülüdür. İshak Paşa Türbesi'nin bulunduğu bölge, mevsimsel değişimlere göre farklı bir görünüm sunmaktadır. İlkbahar ve yaz aylarında, bu alan yeşilliklerle örtülüdür. Sonbahar ve kış aylarında ise, bölgenin doğal güzellikleri farklı bir şekilde ortaya çıkmaktadır. İshak Paşa Türbesi'nin bulunduğu arazi, bölgenin fauna açısından da zengindir. Bu alan, çeşitli hayvan türleri için bir yaşam alanı olarak hizmet vermektedir.
 
 ## Ziyaret Bilgileri
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131391467"
 ## İlginç Bilgiler
 
 - İshak Paşa Türbesi, İnegöl/Bursa'da yer alan bir tarihi yapıdır.
-- Türbe, 140 hektarlık bir araziye yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - İshak Paşa Türbesi, İnegöl'ün merkezine uzun bir mesafe uzaklıkta bulunmaktadır.
 - Türbe, bölgenin tarihi geçmişini yansıtan önemli bir noktadır.
 - İshak Paşa Türbesi, ziyaretçilerine bölgenin kültürel ve tarihi zenginliklerini keşfetme fırsatı sunmaktadır.

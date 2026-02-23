@@ -1,7 +1,7 @@
 ---
 title: "Avram Kamondo Anıt Mezarı"
 date: "2026-01-10T03:50:20.666Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

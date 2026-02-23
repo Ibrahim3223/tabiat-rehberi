@@ -1,7 +1,7 @@
 ---
 title: "Cami Tepe"
 date: "2026-01-10T09:52:43.485Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Türkiye"
@@ -30,7 +30,7 @@ wikidata_id: "Q31387239"
 
 # Cami Tepe
 
-Cami Tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ile dikkat çeken bir bölgede yer alır. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, tarihi geçmişi ile birlikte coğrafi güzelliği ile de ziyaretçilerini etkiler. Ziyaretçiler, bu bölgede hem tarihi hem de doğal güzellikleri bir arada keşfedebilirler. Cami Tepe, çevresindeki yerleşim yerleri ile birlikte bir bütün olarak düşünüldüğünde, bölgenin kültürel ve coğrafi zenginliğini temsil eder.
+Cami Tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ile dikkat çeken bir bölgede yer alır. Bu tepe, tarihi geçmişi ile birlikte coğrafi güzelliği ile de ziyaretçilerini etkiler. Ziyaretçiler, bu bölgede hem tarihi hem de doğal güzellikleri bir arada keşfedebilirler. Cami Tepe, çevresindeki yerleşim yerleri ile birlikte bir bütün olarak düşünüldüğünde, bölgenin kültürel ve coğrafi zenginliğini temsil eder.
 
 ## Tarihçe
 

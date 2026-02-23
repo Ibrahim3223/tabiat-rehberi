@@ -51,9 +51,9 @@ Bölgenin çevresel ilişkileri açısından bakıldığında, Heva Dağı, kom�
 
 Heva dağının nemli iklimi, gür ormanları ve yüksek biyoçeşitliliği, bir doğa cenneti yaratır. İlkbaharda, 1200 metre yükseklikteki zirveler, rengarenk çiçeklerle kaplanır. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar, gökyüzünü süsler.
 
-Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, yükseklik zonlarına bağlı olarak değişir. Alpin flora, dağların yüksek kesimlerinde hakimdir. Bu flora, özel bitkileri ve endemik türleri barındırır. 
+Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, yükseklik zonlarına bağlı olarak değişir. Alpin flora, dağların yüksek kesimlerinde hakimdir. Bu flora, özel bitkileri ve endemik türleri barındırır.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, yüksek kesimlerde yaşarken, ayılar ve kurtlar, ormanları mesken eder. Kuşlar, göç yolları üzerinde önemli bir durak olan Heva'da, çeşitli türlerle temsil edilir. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, yüksek kesimlerde yaşarken, ayılar ve kurtlar, ormanları mesken eder. Kuşlar, göç yolları üzerinde önemli bir durak olan Heva'da, çeşitli türlerle temsil edilir.
 
 Heva dağının ekolojik değeri, yüksek biyoçeşitliliği ve doğal dengesi nedeniyle önemlidir. Koruma durumu, bölgenin doğal güzelliklerini ve canlı çeşitliliğini korumak için önemlidir.
 

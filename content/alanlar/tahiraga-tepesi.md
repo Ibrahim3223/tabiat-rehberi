@@ -28,7 +28,7 @@ wikidata_id: "Q31389757"
 
 # Tahirağa Tepesi
 
-Tahirağa Tepesi, Kocaeli'nin en önemli doğal ve tarihi güzelliklerinden biri olarak ziyaretçilerini ağırlıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en güzel manzaralarına ev sahipliği yapıyor. Tahirağa Tepesi, hem tarihi geçmişi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. Bu tepe, Kocaeli'nin en önemli turizm noktalarından biri olarak biliniyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Tahirağa Tepesi, Kocaeli'nin en önemli doğal ve tarihi güzelliklerinden biri olarak ziyaretçilerini ağırlıyor. Tahirağa Tepesi, hem tarihi geçmişi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. Bu tepe, Kocaeli'nin en önemli turizm noktalarından biri olarak biliniyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tahirağa Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tepe
 
 ## Coğrafya
 
-Tahirağa Tepesi, Kocaeli'nin merkezi bir bölgesinde yer alıyor ve Marmara Bölgesi'nin en güzel manzaralarına ev sahipliği yapıyor. Bu tepe, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Tahirağa Tepesi, deniz seviyesinden yüksek bir noktada yer alıyor ve bu nedenle, ziyaretçileri bu tepeden Marmara Denizi'ni ve çevresindeki şehirleri görebiliyor. Bu tepe, çevresindeki diğer tepeler ile birlikte, bölgenin coğrafi yapısını oluşturuyor. Tahirağa Tepesi'nin coğrafi konumu, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu tepe, Kocaeli'nin en önemli coğrafi noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Tahirağa Tepesi, Kocaeli'nin merkezi bir bölgesinde yer alıyor ve Marmara Bölgesi'nin en güzel manzaralarına ev sahipliği yapıyor. Tahirağa Tepesi, deniz seviyesinden yüksek bir noktada yer alıyor ve bu nedenle, ziyaretçileri bu tepeden Marmara Denizi'ni ve çevresindeki şehirleri görebiliyor. Bu tepe, çevresindeki diğer tepeler ile birlikte, bölgenin coğrafi yapısını oluşturuyor. Tahirağa Tepesi'nin coğrafi konumu, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu tepe, Kocaeli'nin en önemli coğrafi noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Flora ve Fauna
 

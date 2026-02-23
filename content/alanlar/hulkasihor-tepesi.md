@@ -28,7 +28,7 @@ wikidata_id: "Q31543391"
 
 # Hulkaşihor Tepesi
 
-Hulkaşihor Tepesi, Diyarbakır'ın merkezi bir noktasında yer alan ve tarihi geçmişiyle dikkat çeken önemli bir tepe. Tepenin etrafında bulunan tarihi yapılar ve doğal güzellikler, burayı ziyaret edenlerin ilgisini çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alanı sunmaktadır. Tepenin yüksekliği, şehrin panoramik manzarasını izlemek için ideal bir nokta oluşturur. Hulkaşihor Tepesi, hem doğa hem de tarih severler için bir çekim merkezi olarak dikkat çekmektedir.
+Hulkaşihor Tepesi, Diyarbakır'ın merkezi bir noktasında yer alan ve tarihi geçmişiyle dikkat çeken önemli bir tepe. Tepenin etrafında bulunan tarihi yapılar ve doğal güzellikler, burayı ziyaret edenlerin ilgisini çekmektedir. Tepenin yüksekliği, şehrin panoramik manzarasını izlemek için ideal bir nokta oluşturur. Hulkaşihor Tepesi, hem doğa hem de tarih severler için bir çekim merkezi olarak dikkat çekmektedir.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Siirt'in dağlık bölgesinde yer alan Sağlık Dağı, doğa severlerin ziyaret
 
 ## Tarihçe
 
-Siirt'in dağlık bölgesinde yer alan Sağlık Dağı, tarihin derinliklerine uzanan bir coğrafyanın parçası. Bu bölge, históriya boyunca çeşitli uygarlıkların yaşadığı önemli bir yerleşim ve geçiş noktası olmuştur. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bölgenin stratejik konumu nedeniyle buraya özel bir ilgi göstermişlerdir.
+Siirt'in dağlık bölgesinde yer alan Sağlık Dağı, tarihin derinliklerine uzanan bir coğrafyanın parçası. Bu bölge, tarihi boyunca çeşitli uygarlıkların yaşadığı önemli bir yerleşim ve geçiş noktası olmuştur. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bölgenin stratejik konumu nedeniyle buraya özel bir ilgi göstermişlerdir.
 
 Doğal güzellikleri ve zengin kaynakları ile dikkat çeken bu tür alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu doğal alanlarla ilişkisini şekillendirmiştir. Sağlık Dağı da, bu bağlamda önemli bir role sahiptir. Bölge, geçimini hayvancılıkla sağlayan halk için önemli bir meradır. Ayrıca, tarihi ticaret yollarının kesişme noktasında yer alan Sağlık Dağı, insanların ve kültürlerin buluşma noktalarından biridir. Bu coğrafya, Türkiye'nin zengin tarihini ve kültürel çeşitliliğini yansıtan önemli bir doğal ve kültürel miras olarak karşımıza çıkar.
 

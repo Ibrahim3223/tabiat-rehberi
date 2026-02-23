@@ -1,7 +1,7 @@
 ---
 title: "Çandarlı Halil Paşa Türbesi"
 date: "2026-01-10T06:32:35.269Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q134735138"
 
 # Çandarlı Halil Paşa Türbesi
 
-Çandarlı Halil Paşa Türbesi, İznik'in merkezinde yer alan ve tarihin derinliklerine uzanan bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede önemli bir tarihi figür olan Çandarlı Halil Paşa'nın son dinlenme yeridir. İznik Gölü'nün manzarasına karşı konumlanan türbe, ziyaretçilerini tarihin sayfalarına götürmektedir. Bu tarihi mekan, İznik'in turistik çekim noktalarından biri olarak bilinmektedir.
+Çandarlı Halil Paşa Türbesi, İznik'in merkezinde yer alan ve tarihin derinliklerine uzanan bir yapıdır. İznik Gölü'nün manzarasına karşı konumlanan türbe, ziyaretçilerini tarihin sayfalarına götürmektedir. Bu tarihi mekan, İznik'in turistik çekim noktalarından biri olarak bilinmektedir.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ wikidata_id: "Q134735138"
 
 ## Ziyaret Bilgileri
 
-Çandarlı Halil Paşa Türbesi'ni ziyaret etmek, İznik'in tarihi ve doğal güzelliğini keşfetmek için ideal bir seçenektir. İznik'e ulaşım, Bursa'dan fácil olarak sağlanabilir. Türbeye ulaşmak için İznik'in merkezi bölgesine gitmek yeterlidir. Ziyaretçiler, türbenin tarihi ve mimari güzelliğini yakından inceleyebilir ve İznik Gölü'nün manzarasını seyredebilirler. İznik'in tarihi mekanları, ziyaretçilerini tarihin sayfalarına götürmektedir.
+Çandarlı Halil Paşa Türbesi'ni ziyaret etmek, İznik'in tarihi ve doğal güzelliğini keşfetmek için ideal bir seçenektir. İznik'e ulaşım, Bursa'dan kolay olarak sağlanabilir. Türbeye ulaşmak için İznik'in merkezi bölgesine gitmek yeterlidir. Ziyaretçiler, türbenin tarihi ve mimari güzelliğini yakından inceleyebilir ve İznik Gölü'nün manzarasını seyredebilirler. İznik'in tarihi mekanları, ziyaretçilerini tarihin sayfalarına götürmektedir.
 
 ## İlginç Bilgiler
 

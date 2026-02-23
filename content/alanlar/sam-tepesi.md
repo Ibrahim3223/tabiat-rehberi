@@ -29,7 +29,7 @@ wikidata_id: "Q31507708"
 
 # Şam Tepesi
 
-Konya'nın tarihi ve doğal güzelliklerinin birleştiği nokta olan Şam Tepesi, yaklaşık 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezi bir noktasında yer alır. Şam Tepesi, Konya'nın en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Tepenin panoramik manzarası, ziyaretçilerin şehri ve çevresini keşfetmesine olanak tanır. Şam Tepesi, aynı zamanda doğa severler için de bir cennet olarak kabul edilir, çünkü burada çeşitli bitki türleri ve hayvanlar bulunur.
+Konya'nın tarihi ve doğal güzelliklerinin birleştiği nokta olan Şam Tepesi, yaklaşık 140 hektarlık bir alanı kapsar. Şam Tepesi, Konya'nın en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Tepenin panoramik manzarası, ziyaretçilerin şehri ve çevresini keşfetmesine olanak tanır. Şam Tepesi, aynı zamanda doğa severler için de bir cennet olarak kabul edilir, çünkü burada çeşitli bitki türleri ve hayvanlar bulunur.
 
 ## Tarihçe
 

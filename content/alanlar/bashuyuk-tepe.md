@@ -28,7 +28,7 @@ wikidata_id: "Q32133251"
 
 # Başhüyük Tepe
 
-Başhüyük Tepe, İç Anadolu Bölgesi'nin kalbinde yer alan Kayseri ilinin bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin derin izlerini taşıyan bir tepe olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tarihi ve doğal güzelliklerin birleştiği bu nokta, ziyaretçilerini geçmişe bir yolculuğa çıkarıyor. Başhüyük Tepe'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin fauna ile dolu. Bu tepe, doğa severler ve tarih meraklıları için bir hazine olarak görülüyor.
+Başhüyük Tepe, İç Anadolu Bölgesi'nin kalbinde yer alan Kayseri ilinin bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin derin izlerini taşıyan bir tepe olarak dikkat çekiyor. Tarihi ve doğal güzelliklerin birleştiği bu nokta, ziyaretçilerini geçmişe bir yolculuğa çıkarıyor. Başhüyük Tepe'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin fauna ile dolu. Bu tepe, doğa severler ve tarih meraklıları için bir hazine olarak görülüyor.
 
 ## Tarihçe
 

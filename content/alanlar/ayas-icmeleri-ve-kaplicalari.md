@@ -29,7 +29,7 @@ wikidata_id: "Q131738533"
 
 # Ayaş İçmeleri ve Kaplıcaları
 
-Ayaş İçmeleri ve Kaplıcaları, Ankara'nın Ayaş ilçesinde, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal ve tarihi destinasyondur. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan ile çevrilidir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Ayaş İçmeleri ve Kaplıcaları, doğal güzelliği, tarihi geçmişi ve sağlık turizmi açısından önemli bir merkez olarak bilinir. Bu destinasyon, hem yerli hem de yabancı ziyaretçilerin ilgisini çeker.
+Ayaş İçmeleri ve Kaplıcaları, Ankara'nın Ayaş ilçesinde, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal ve tarihi destinasyondur. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan ile çevrilidir. Ayaş İçmeleri ve Kaplıcaları, doğal güzelliği, tarihi geçmişi ve sağlık turizmi açısından önemli bir merkez olarak bilinir. Bu destinasyon, hem yerli hem de yabancı ziyaretçilerin ilgisini çeker.
 
 ## Tarihçe
 

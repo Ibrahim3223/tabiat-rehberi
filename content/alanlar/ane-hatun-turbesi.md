@@ -1,7 +1,7 @@
 ---
 title: "Ane Hatun Türbesi"
 date: "2026-01-10T05:53:17.901Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -28,7 +28,7 @@ wikidata_id: "Q118957497"
 
 # Ane Hatun Türbesi
 
-Ane Hatun Türbesi, Doğu Anadolu Bölgesi'nin önemli tarihi ve kültürel mekanlarından biri olarak Erzurum'da bulunmaktadır. Bu türbe, yaklaşık 12. yüzyılda inşa edilmiş ve tarihi geçmişi ile dikkat çekmektedir. 140 hektarlık bir alan üzerine kurulu olan Ane Hatun Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir arazi üzerinde yer alır. Bu mekan, mimari açıdan da önemli bir yere sahiptir ve çeşitli sanat eserlerini içerir. Tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir gezi noktasıdır.
+Ane Hatun Türbesi, Doğu Anadolu Bölgesi'nin önemli tarihi ve kültürel mekanlarından biri olarak Erzurum'da bulunmaktadır. Bu türbe, yaklaşık 12. yüzyılda inşa edilmiş ve tarihi geçmişi ile dikkat çekmektedir. Bu mekan, mimari açıdan da önemli bir yere sahiptir ve çeşitli sanat eserlerini içerir. Tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ane Hatun Türbesi, tarihi geçmişi ile dikkat çekmektedir. 12. yüzyılda in�
 
 ## Coğrafya
 
-Ane Hatun Türbesi, Erzurum'un merkezi bir bölgesinde yer alır. Bu türbe, 140 hektarlık bir alan üzerine kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir arazi üzerinde bulunmaktadır. Ane Hatun Türbesi'nin coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir noktada yer alır. Türbenin etrafı, çeşitli tarihi ve kültürel mekanlarla çevrilidir. Ane Hatun Türbesi, mimari açıdan önemli bir yapı olarak dikkat çekmektedir. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerinin karakteristik özelliklerini taşır. Ane Hatun Türbesi, Erzurum'un coğrafi ve kültürel zenginliklerini bir arada sunar.
+Ane Hatun Türbesi, Erzurum'un merkezi bir bölgesinde yer alır. Ane Hatun Türbesi'nin coğrafi konumu, ziyaretçilerin kolayca ulaşabileceği bir noktada yer alır. Türbenin etrafı, çeşitli tarihi ve kültürel mekanlarla çevrilidir. Ane Hatun Türbesi, mimari açıdan önemli bir yapı olarak dikkat çekmektedir. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerinin karakteristik özelliklerini taşır. Ane Hatun Türbesi, Erzurum'un coğrafi ve kültürel zenginliklerini bir arada sunar.
 
 ## Flora ve Fauna
 

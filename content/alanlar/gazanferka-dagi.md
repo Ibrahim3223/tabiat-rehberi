@@ -49,9 +49,9 @@ Mevsimsel açıdan bakıldığında, Gazanferka Dağı'nın iklim karakteri, Kar
 
 ## Flora ve Fauna
 
-Gazanferka Dağı, step bitki örtüsünü ve bozkırın kuraklığa adapte olmuş türlerini barındıran benzersiz bir dağ ekosisteminin ev sahibi. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında kuraklık hüküm sürer. 
+Gazanferka Dağı, step bitki örtüsünü ve bozkırın kuraklığa adapte olmuş türlerini barındıran benzersiz bir dağ ekosisteminin ev sahibi. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında kuraklık hüküm sürer.
 
-Bitki örtüsünün hakim türleri, step ve bozkırın karakteristik otları ve çalılarıdır. Bu türler, kurak koşullara adapte olmak için özel mekanizmalar geliştirmişlerdir. Yükseklik zonlarına bağlı olarak, alpin flora da burada bulunur. 
+Bitki örtüsünün hakim türleri, step ve bozkırın karakteristik otları ve çalılarıdır. Bu türler, kurak koşullara adapte olmak için özel mekanizmalar geliştirmişlerdir. Yükseklik zonlarına bağlı olarak, alpin flora da burada bulunur.
 
 Dağın yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Göçmen kuşlar, sonbaharın gelmesiyle birlikte dağları ziyaret ederken, memeliler ve sürüngenler dağların kayalık alanlarında yaşamını sürdürür. Bu ekosistem, canlıların birbirine bağımlılığının güzel bir örneğini sunar.
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31385706"
 
 # Karadiken Tepesi
 
-Karadiken Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliklerini sergileyen bir tepe olarak ziyaretçilerini bekliyor. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ziyaretçiler, bu tepenin zirvesine ulaştıklarında, etraflarını çevreleyen geniş ve yeşil ovaları izleme fırsatı buluyorlar. Ayrıca, bu bölgenin tarihi geçmişi, ziyaretçilere zengin bir kültürel deneyim sunuyor.
+Karadiken Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliklerini sergileyen bir tepe olarak ziyaretçilerini bekliyor. Ziyaretçiler, bu tepenin zirvesine ulaştıklarında, etraflarını çevreleyen geniş ve yeşil ovaları izleme fırsatı buluyorlar. Ayrıca, bu bölgenin tarihi geçmişi, ziyaretçilere zengin bir kültürel deneyim sunuyor.
 
 ## Tarihçe
 

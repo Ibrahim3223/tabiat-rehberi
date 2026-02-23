@@ -28,7 +28,7 @@ wikidata_id: "Q31390188"
 
 # Armutlu Tepe
 
-Armutlu Tepe, Burdur'un merkezi bir noktasında yer alan ve bölgeye hakim olan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar. Armutlu Tepe, aynı zamanda bölgenin tarihini ve kültürünü keşfetmek isteyenler için önemli bir merkez. Ziyaretçiler, tepeye tırmanırken hem güzel manzaralar hem de tarihi eserlerle karşılaşabilirler. Armutlu Tepe, Burdur'un turizm potansiyelini gösteren önemli bir nokta.
+Armutlu Tepe, Burdur'un merkezi bir noktasında yer alan ve bölgeye hakim olan bir tepe. Armutlu Tepe, aynı zamanda bölgenin tarihini ve kültürünü keşfetmek isteyenler için önemli bir merkez. Ziyaretçiler, tepeye tırmanırken hem güzel manzaralar hem de tarihi eserlerle karşılaşabilirler. Armutlu Tepe, Burdur'un turizm potansiyelini gösteren önemli bir nokta.
 
 ## Tarihçe
 

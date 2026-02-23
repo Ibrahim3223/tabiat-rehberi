@@ -30,7 +30,7 @@ wikidata_id: "Q108227068"
 
 # Uzungöl Tabiat Parkı
 
-Uzungöl Tabiat Parkı, Trabzon'un Çaykara ilçesinde yer alan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası. Bu güzel park, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak bilinir. Uzungöl, çevresindeki dağlarla birlikte, yüksek bir konumda yer alır ve bu yükseklik, parkın iklimini ve bitki örtüsünü etkiler. Parkın içinde, çeşitli bitki türleri ve yaban hayatı bulunur. Uzungöl Tabiat Parkı, hem yerli hem de yabancı turistler tarafından ziyaret edilen bir doğa cenneti.
+ Bu güzel park, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak bilinir. Uzungöl, çevresindeki dağlarla birlikte, yüksek bir konumda yer alır ve bu yükseklik, parkın iklimini ve bitki örtüsünü etkiler. Parkın içinde, çeşitli bitki türleri ve yaban hayatı bulunur.
 
 ## Tarihçe
 

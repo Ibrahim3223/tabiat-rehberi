@@ -35,7 +35,7 @@ Aydın Tepe, 38.38° N 41.54° E koordinatlarında yer alan bir dağ olarak dikk
 
 Aydın Tepe, Doğu Anadolu Bölgesi'nin doğusunda yer alan bir dağdır. Bu bölgenin tarihi, Paleolitik Çağ'dan itibaren çeşitli uygarlıkların yerleşimine sahne olmuştur. Hititler, Urartular ve Roma İmparatorluğu gibi medeniyetler, bu coğrafyada izlerini bırakmışlardır. Bölgede bulunan tarihi eserler ve kalıntılar, bu uygarlıkların zengin kültürel mirasını ortaya koymaktadır.
 
-Doğal güzelliği ve stratejik konumu nedeniyle, Aydın Tepe ve benzeri dağlar, históri boyunca insanların yaşamlarını sürdürdükleri önemli merkezler olmuştur. Yaylacılık ve hayvancılık, bu bölgede yapılan geleneksel faaliyetlerdir. Ayrıca, tarihi ticaret yolları da bu dağların eteklerinden geçmekteydi. İnsanların bu doğal alanlarla ilişkisi, sadece ekonomik faaliyetlerle sınırlı değildir; aynı zamanda bu alanlar, kültürel ve ruhsal değerlerin de önemli bir parçasını oluşturur. Türkiye'de doğal alanların tarihsel önemi, sadece estetik değerleriyle değil, aynı zamanda insan yaşamının sürdürülmesi açısından da büyük önem taşımaktadır.
+Doğal güzelliği ve stratejik konumu nedeniyle, Aydın Tepe ve benzeri dağlar, tarihi boyunca insanların yaşamlarını sürdürdükleri önemli merkezler olmuştur. Yaylacılık ve hayvancılık, bu bölgede yapılan geleneksel faaliyetlerdir. Ayrıca, tarihi ticaret yolları da bu dağların eteklerinden geçmekteydi. İnsanların bu doğal alanlarla ilişkisi, sadece ekonomik faaliyetlerle sınırlı değildir; aynı zamanda bu alanlar, kültürel ve ruhsal değerlerin de önemli bir parçasını oluşturur. Türkiye'de doğal alanların tarihsel önemi, sadece estetik değerleriyle değil, aynı zamanda insan yaşamının sürdürülmesi açısından da büyük önem taşımaktadır.
 
 ## Coğrafya
 

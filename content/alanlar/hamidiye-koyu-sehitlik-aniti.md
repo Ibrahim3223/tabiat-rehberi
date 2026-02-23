@@ -29,7 +29,7 @@ wikidata_id: "Q134728094"
 
 # Hamidiye Köyü Şehitlik Anıtı
 
-Hamidiye Köyü Şehitlik Anıtı, Kastamonu'nun Çatalzeytin ilçesinde yer alan bir anıt ve plaj alanı olarak dikkat çekiyor. Bu mekan, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Burada, tarihi öneme sahip bir anıt ve Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor. Bu bölgede, ziyaretçiler hem tarihin izlerini sürdürebiliyor hem de doğanın içerisinde huzur bulabiliyor.
+Hamidiye Köyü Şehitlik Anıtı, Kastamonu'nun Çatalzeytin ilçesinde yer alan bir anıt ve plaj alanı olarak dikkat çekiyor. Burada, tarihi öneme sahip bir anıt ve Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunuyor. Bu bölgede, ziyaretçiler hem tarihin izlerini sürdürebiliyor hem de doğanın içerisinde huzur bulabiliyor.
 
 ## Tarihçe
 

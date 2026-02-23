@@ -28,7 +28,7 @@ wikidata_id: "Q31387167"
 
 # Eyisen Tepesi
 
-Eyisen Tepesi, Ordu ilinin eşsiz güzellikteki tepelerinden biridir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın renklerini sunarken, tepeye tırmanmak ise manzaranın büyüleyici güzelliğini keşfetmek için bir fırsat sunuyor. Eyisen Tepesi, özellikle bahar aylarında çiçeklerin açmasıyla bir renk cümbüşü haline geliyor ve bu dönem ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Eyisen Tepesi, Ordu ilinin eşsiz güzellikteki tepelerinden biridir. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın renklerini sunarken, tepeye tırmanmak ise manzaranın büyüleyici güzelliğini keşfetmek için bir fırsat sunuyor.
 
 ## Tarihçe
 

@@ -33,7 +33,7 @@ wikidata_id: "Q49634409"
 
 ## Tarihçe
 
-Çanakkale bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşamına ev sahipliği yapmış bir coğrafyadır. Bu bölge, histórik olarak Truva Savaşı gibi önemli olaylara tanıklık etmiş ve Hitit, Pers, Roma ve Osmanlı gibi imparatorlukların hakimiyetine girmiştir. Büyükada, bu zengin tarihsel mirasın bir parçasını oluşturan doğal güzelliklerden biridir.
+Çanakkale bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşamına ev sahipliği yapmış bir coğrafyadır. Bu bölge, tarihi olarak Truva Savaşı gibi önemli olaylara tanıklık etmiş ve Hitit, Pers, Roma ve Osmanlı gibi imparatorlukların hakimiyetine girmiştir. Büyükada, bu zengin tarihsel mirasın bir parçasını oluşturan doğal güzelliklerden biridir.
 
 Türkiye'de, özellikle Ege ve Marmara bölgelerinde yer alan adalar ve doğal alanlar, tarih boyunca insanların yerleşim, tarım, hayvancılık ve ticaret faaliyetleri için önemli merkezler olarak görev görmüşlerdir. Bu tür alanlar, insanların doğayla etkileşimini sağlayan ve kültürel mirasın bir parçası olan yaylacılık, balıkçılık ve diğer geleneksel faaliyetlerin sürdürülmesine olanak tanır.
 
@@ -51,7 +51,7 @@ Mevsimsel değişikliklere baktığımızda, Büyükada'nın iklim karakteri Mar
 
 ## Flora ve Fauna
 
-Büyükada, Çanakkale'nin kıyılarında yer alan bir ada olarak, geçiş ikliminin karakteristik özelliklerini taşıyor. Bu ada, karma ormanların ve göçmen kuş rotalarının kesişme noktasında bulunuyor. 
+Büyükada, Çanakkale'nin kıyılarında yer alan bir ada olarak, geçiş ikliminin karakteristik özelliklerini taşıyor. Bu ada, karma ormanların ve göçmen kuş rotalarının kesişme noktasında bulunuyor.
 
 Bitki Örtüsü olarak, ada genelinde çeşitli ağaç türleri ve kıyı bitkileri hakim. İlkbaharın gelmesiyle birlikte, ada çiçeklerle donanıyor. Sonbaharda ise, göçmen kuşlar ada üzerinde konaklıyor.
 

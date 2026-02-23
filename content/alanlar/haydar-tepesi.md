@@ -29,7 +29,7 @@ wikidata_id: "Q31559119"
 
 # Haydar Tepesi
 
-Haydar Tepesi, İç Anadolu Bölgesi'nin kalbinde, geniş ve yeşillik bir alana hakim olan 140 hektarlık bir tepe. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte muhteşem bir manzara sunuyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel Türk misafirperverliğini gösteren küçük yerleşim birimleri. Haydar Tepesi, doğa severler ve tarih meraklıları için bir hazine. Tepenin zirvesine tırmanmak, ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunuyor.
+Haydar Tepesi, İç Anadolu Bölgesi'nin kalbinde, geniş ve yeşillik bir alana hakim olan 140 hektarlık bir tepe. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel Türk misafirperverliğini gösteren küçük yerleşim birimleri. Haydar Tepesi, doğa severler ve tarih meraklıları için bir hazine. Tepenin zirvesine tırmanmak, ziyaretçilere bölgeyi panoramik olarak izleme fırsatı sunuyor.
 
 ## Tarihçe
 

@@ -30,7 +30,7 @@ wikidata_id: "Q2249546"
 
 # Ortaköy
 
-Ortaköy, İstanbul'un Beşiktaş ilçesinde, Marmara Denizi'nin kıyısında yer alan bir plaj ve yeşil alandır. 140 hektarlık bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, şehrin kalabalığından kaçmak isteyenler için bir sığınak görevi görüyor. Ortaköy, hem doğal güzellikleri hem de tarihi değerleriyle ziyaretçilerini cezbediyor. İstanbul Boğazı'nın güzelliğini izlerken, aynı zamanda tarihi yapıları ve çevreyi keşfetme mümkün.
+Ortaköy, İstanbul'un Beşiktaş ilçesinde, Marmara Denizi'nin kıyısında yer alan bir plaj ve yeşil alandır. Bu bölge, şehrin kalabalığından kaçmak isteyenler için bir sığınak görevi görüyor. Ortaköy, hem doğal güzellikleri hem de tarihi değerleriyle ziyaretçilerini cezbediyor. İstanbul Boğazı'nın güzelliğini izlerken, aynı zamanda tarihi yapıları ve çevreyi keşfetme mümkün.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ortaköy'ün tarihi geçmişi, Bizans dönemine kadar uzanıyor. O zamanlar bir 
 
 ## Coğrafya
 
-Ortaköy, coğrafi olarak Marmara Denizi'nin kıyısında, İstanbul Boğazı'nın güzergahında yer alıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilere geniş yürüyüş yolları, piknik alanları ve dinlenme noktaları sunuyor. Ortaköy'ün iklimi, İstanbul'un genel iklimiyle benzerlik gösteriyor. Kışlar ılımandır ve yazlar sıcaktır. Çevre, tarihi yapılarıyla birlikte modern cafelerin ve restoranların bir arada bulunduğu bir bölge. Ortaköy, denizi, yeşili ve tarihi yapılarıyla birlikte ziyaretçilerine zengin bir coğrafya sunuyor.
+Ortaköy, coğrafi olarak Marmara Denizi'nin kıyısında, İstanbul Boğazı'nın güzergahında yer alıyor. Bu geniş yeşil alan, ziyaretçilere geniş yürüyüş yolları, piknik alanları ve dinlenme noktaları sunuyor. Ortaköy'ün iklimi, İstanbul'un genel iklimiyle benzerlik gösteriyor. Kışlar ılımandır ve yazlar sıcaktır. Çevre, tarihi yapılarıyla birlikte modern cafelerin ve restoranların bir arada bulunduğu bir bölge. Ortaköy, denizi, yeşili ve tarihi yapılarıyla birlikte ziyaretçilerine zengin bir coğrafya sunuyor.
 
 ## Flora ve Fauna
 

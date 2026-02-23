@@ -22,7 +22,7 @@ wikidata_id: "Q108227055"
 
 # Vakif Çamligi
 
-İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Vakif Çamligi, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar. Bu muhteşem doğa alanı, yemyeşil çamları, çeşitli bitki türleri ve zengin fauna çeşitliliği ile doğa severleri büyüler. Vakif Çamligi, hem doğanın güzelliğini keşfetmek hem de şehir hayatının stresinden kaçmak isteyenler için ideal bir destinasyon.
+ Bu muhteşem doğa alanı, yemyeşil çamları, çeşitli bitki türleri ve zengin fauna çeşitliliği ile doğa severleri büyüler. Vakif Çamligi, hem doğanın güzelliğini keşfetmek hem de şehir hayatının stresinden kaçmak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

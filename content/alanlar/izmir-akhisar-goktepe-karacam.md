@@ -1,7 +1,7 @@
 ---
 title: "Izmir-Akhisar-Goktepe-Karacam"
 date: "2026-01-09T20:14:54.412Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "İzmir"
@@ -22,11 +22,11 @@ wikidata_id: "Q108228529"
 
 # Izmir-Akhisar-Goktepe-Karacam
 
-İzmir-Akhisar-Goktepe-Karacam milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevredeki diğer doğal güzelliklerle birlikte, ziyaretçilere geniş bir gezi alanı sunar. Parkın etrafında yer alan Akhisar ve Göktepe gibi yerleşim yerleri, tarihi ve kültürel zenginlikleriyle de dikkat çeker. Bu bölge, doğa severlerin ve tarih meraklılarının keşfetmek için ideal bir yerdir.
+İzmir-Akhisar-Goktepe-Karacam milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. Parkın etrafında yer alan Akhisar ve Göktepe gibi yerleşim yerleri, tarihi ve kültürel zenginlikleriyle de dikkat çeker. Bu bölge, doğa severlerin ve tarih meraklılarının keşfetmek için ideal bir yerdir.
 
 ## Tarihçe
 
-İzmir-Akhisar-Goktepe-Karacam milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölgede yer alan tarihi kalıntılar ve höyükler, bölgenin zengin kültürel mirasını gözler önüne serer. Parkın kuruluş tarihi kesin olarak bilinmemekle birlikte, bölgenin doğal güzellikleri ve tarihi önemi, uzun yıllardan beri bilinmektedir. Bu nedenle, parkın oluşumu ve gelişimi, bölgenin históri ve coğrafi özelliklerine bağlı olarak şekillenmiştir. Tarihi ve kültürel zenginliklerin yanı sıra, parkın doğal güzellikleri de ziyaretçileri çekmektedir.
+İzmir-Akhisar-Goktepe-Karacam milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölgede yer alan tarihi kalıntılar ve höyükler, bölgenin zengin kültürel mirasını gözler önüne serer. Parkın kuruluş tarihi kesin olarak bilinmemekle birlikte, bölgenin doğal güzellikleri ve tarihi önemi, uzun yıllardan beri bilinmektedir. Bu nedenle, parkın oluşumu ve gelişimi, bölgenin tarihi ve coğrafi özelliklerine bağlı olarak şekillenmiştir. Tarihi ve kültürel zenginliklerin yanı sıra, parkın doğal güzellikleri de ziyaretçileri çekmektedir.
 
 ## Coğrafya
 

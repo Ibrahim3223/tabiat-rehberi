@@ -32,7 +32,7 @@ Osmaniye'nin yeşil doğası, tarih kokan sokakları ve coğrafi güzellikleriyl
 
 ## Tarihçe
 
-Osmaniye bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölge, Hitit, Roma ve Bizans gibi uygarlıkların izlerini taşır. Tarihi ticaret yollarının kesişme noktasında bulunan Osmaniye, kültürel zenginliği ve coğrafi çeşitliliği ile dikkat çeker. Havşu Tepe, bu bölgenin doğal güzelliklerini sergileyen önemli bir noktadır.
+Osmaniye bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölge, Hitit, Roma ve Bizans gibi uygarlıkların izlerini taşır. Tarihi ticaret yollarının kesişme noktasında bulunan Osmaniye, kültürel zenginliği ve coğrafi çeşitliliği ile dikkat çeker. Havşu Tepe, bu bölgenin doğal güzelliklerini sergileyen önemli bir noktadır.
 
 Türkiye'nin tarihi boyunca, doğal alanlar insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve avcılık gibi faaliyetler, insanların bu alanlarla bağlantılı olmasını sağlamıştır. Ayrıca, tarihi ticaret yolları da bu bölgeden geçer, bu nedenle Osmaniye ve çevresindeki doğal alanlar, insanların geçim kaynakları ve kültür oluşumunda önemli bir yer tutmuştur.
 

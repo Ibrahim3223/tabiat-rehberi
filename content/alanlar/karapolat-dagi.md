@@ -28,7 +28,7 @@ wikidata_id: "Q31386280"
 
 # Karapolat Dağı
 
-Gaziantep'in önemli doğal güzelliklerinden biri olan Karapolat Dağı, bölgenin coğrafi yapısını ve tarihi geçmişini yansıtan bir tepe. Güneydoğu Anadolu Bölgesi'nin zengin kültürel ve doğal mirasına ev sahipliği yapan bu bölge, ziyaretçilerini tarihin derinliklerine ve doğanın güzelliğine davet ediyor. Karapolat Dağı, yaklaşık 140 hektarlık bir alanı kaplayan ve 200 futbol sahası büyüklüğünde olan bir tepe. Bu bölge, hem doğal güzelliği hem de tarihi önemi ile dikkat çekiyor.
+Gaziantep'in önemli doğal güzelliklerinden biri olan Karapolat Dağı, bölgenin coğrafi yapısını ve tarihi geçmişini yansıtan bir tepe. Güneydoğu Anadolu Bölgesi'nin zengin kültürel ve doğal mirasına ev sahipliği yapan bu bölge, ziyaretçilerini tarihin derinliklerine ve doğanın güzelliğine davet ediyor. Bu bölge, hem doğal güzelliği hem de tarihi önemi ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karapolat Dağı'nın tarihi geçmişi, Gaziantep'in tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Karapolat Dağı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan ve 200 futbol sahası büyüklüğünde olan bir tepe. Karapolat Dağı, Gaziantep'in coğrafi yapısını ve iklimini yansıtan bir bölge. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Karapolat Dağı, ziyaretçilerini doğanın güzelliğine ve bölgenin coğrafi yapısına davet ediyor. Bu bölge, coğrafi konumu itibariyle, verschilli bitki türleri ve hayvanları barındıran bir bölge. Karapolat Dağı, bölgenin coğrafi yapısını ve iklimini yansıtan önemli bir yer.
+Karapolat Dağı, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir tepe. Karapolat Dağı, Gaziantep'in coğrafi yapısını ve iklimini yansıtan bir bölge. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Karapolat Dağı, ziyaretçilerini doğanın güzelliğine ve bölgenin coğrafi yapısına davet ediyor. Bu bölge, coğrafi konumu itibariyle, verschilli bitki türleri ve hayvanları barındıran bir bölge. Karapolat Dağı, bölgenin coğrafi yapısını ve iklimini yansıtan önemli bir yer.
 
 ## Flora ve Fauna
 

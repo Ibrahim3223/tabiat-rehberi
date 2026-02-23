@@ -28,7 +28,7 @@ wikidata_id: "Q34810073"
 
 # Üren Tepesi
 
-Üren Tepesi, Kahramanmaraş'ın gözde noktalarından biri olarak biliniyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile bölgenin en geniş doğal alanlarından biri. Tepenin etrafında yer alan köyler ve kasabalar, bu doğal güzelliğin bir parçası olarak görülüyor. Üren Tepesi, ziyaretçilerini büyüleyici manzaraları ve temiz havası ile karşılayan bir destinasyon. Burada, doğa severler için birçok aktivite ve gezi imkanı sunuluyor.
+Üren Tepesi, Kahramanmaraş'ın gözde noktalarından biri olarak biliniyor. Tepenin etrafında yer alan köyler ve kasabalar, bu doğal güzelliğin bir parçası olarak görülüyor. Üren Tepesi, ziyaretçilerini büyüleyici manzaraları ve temiz havası ile karşılayan bir destinasyon. Burada, doğa severler için birçok aktivite ve gezi imkanı sunuluyor.
 
 ## Tarihçe
 

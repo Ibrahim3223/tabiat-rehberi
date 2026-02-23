@@ -1,7 +1,7 @@
 ---
 title: "Haydar Baba Türbesi"
 date: "2026-01-10T05:19:10.248Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391682"
 
 # Haydar Baba Türbesi
 
-Haydar Baba Türbesi, İstanbul'un Kadıköy ilçesinde yer alan tarihi ve doğal güzelliklerin buluştuğu bir mekandır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi geçmişi ile dikkat çekmektedir. İstanbul'un kalabalığından uzaklaşma ve doğayı yakından tanımak isteyenler için ideal bir gezi noktasıdır. Mekan, aynı zamanda türk kültürünün önemli bir parçasını oluşturan tarihi türbeleri ile ziyaretçilerini beklemektedir.
+Haydar Baba Türbesi, İstanbul'un Kadıköy ilçesinde yer alan tarihi ve doğal güzelliklerin buluştuğu bir mekandır. İstanbul'un kalabalığından uzaklaşma ve doğayı yakından tanımak isteyenler için ideal bir gezi noktasıdır. Mekan, aynı zamanda türk kültürünün önemli bir parçasını oluşturan tarihi türbeleri ile ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 

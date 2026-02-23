@@ -1,7 +1,7 @@
 ---
 title: "Şıh Muhammed Abbari Türbesi"
 date: "2026-01-10T05:22:50.686Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"

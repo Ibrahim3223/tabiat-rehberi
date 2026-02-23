@@ -59,7 +59,7 @@ Yaban hayatı da bir o kadar zengin. Memeliler ve kuşlar, dağın çeşitli ya�
 
 ## Ziyaret Bilgileri
 
-Koramaz Dağı, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için harika bir destinasyon. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu dağdan izleyebilirsiniz. İlkbahar ve sonbahar ayları, Koramaz Dağı'na gitmek için en iyi mevsimlerdir. Bu mevsimlerde hava sakin ve güneşlidir, trekking ve kamp için ideal koşullar sunar. Yanınıza mutlaka su, atıştırmalık ve uygun kıyafetler alın çünkü dağda bu ihtiyaçlarınızı fácil şekilde karşılayamayabilirsiniz. Dağcılık, trekking, kamp, fotoğrafçılık ve kuş gözlemi gibi aktiviteleri deneyimleyebilirsiniz. En güzel manzara noktası, zirvedir; buradan Kayseri'nin panoramik manzarasını izleyebilirsiniz.
+Koramaz Dağı, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için harika bir destinasyon. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu dağdan izleyebilirsiniz. İlkbahar ve sonbahar ayları, Koramaz Dağı'na gitmek için en iyi mevsimlerdir. Bu mevsimlerde hava sakin ve güneşlidir, trekking ve kamp için ideal koşullar sunar. Yanınıza mutlaka su, atıştırmalık ve uygun kıyafetler alın çünkü dağda bu ihtiyaçlarınızı kolay şekilde karşılayamayabilirsiniz. Dağcılık, trekking, kamp, fotoğrafçılık ve kuş gözlemi gibi aktiviteleri deneyimleyebilirsiniz. En güzel manzara noktası, zirvedir; buradan Kayseri'nin panoramik manzarasını izleyebilirsiniz.
 
 ## İlginç Bilgiler
 

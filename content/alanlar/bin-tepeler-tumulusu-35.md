@@ -29,7 +29,7 @@ wikidata_id: "Q134728360"
 
 # Bin Tepeler Tümülüsü 35
 
-Bin Tepeler Tümülüsü 35, Ege Bölgesi'nin en önemli turizm merkezlerinden biri olan Salihli-Manisa'da yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bin Tepeler Tümülüsü 35, Ege Denizi'nin güzel kıyılarını sunan bir destinasyon olarak bilinir. Bu plaj, deniz severler için ideal bir yer olup, güneşin ve denizin keyfini çıkarmak için mükemmel bir opportunity sunuyor.
+Bin Tepeler Tümülüsü 35, Ege Bölgesi'nin en önemli turizm merkezlerinden biri olan Salihli-Manisa'da yer alan bir plajdır. Bin Tepeler Tümülüsü 35, Ege Denizi'nin güzel kıyılarını sunan bir destinasyon olarak bilinir. Bu plaj, deniz severler için ideal bir yer olup, güneşin ve denizin keyfini çıkarmak için mükemmel bir opportunity sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 35'in tarihi geçmişi, yüzyıllar boyunca birçok med
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 35, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, Salihli-Manisa'da yer almakta ve Ege Denizi'nin güzel kıyılarına sahiptir. Bin Tepeler Tümülüsü 35'in coğrafi konumu, ziyaretçilere deniz, kum ve güneşin keyfini çıkarmak için ideal bir opportunity sunuyor. Bu plaj, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bin Tepeler Tümülüsü 35'in coğrafyası, ziyaretçilere güzel bir kumsal ve temiz bir deniz sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Bin Tepeler Tümülüsü 35, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, Salihli-Manisa'da yer almakta ve Ege Denizi'nin güzel kıyılarına sahiptir. Bin Tepeler Tümülüsü 35'in coğrafi konumu, ziyaretçilere deniz, kum ve güneşin keyfini çıkarmak için ideal bir opportunity sunuyor. Bin Tepeler Tümülüsü 35'in coğrafyası, ziyaretçilere güzel bir kumsal ve temiz bir deniz sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Flora ve Fauna
 

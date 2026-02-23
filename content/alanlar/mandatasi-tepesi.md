@@ -28,7 +28,7 @@ wikidata_id: "Q31387480"
 
 # Mandataşı Tepesi
 
-Mandataşı Tepesi, Van'ın eşsiz doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar. Mandataşı Tepesi'ne çıkarak, Van'ın çevresindeki dağları ve vadileri panoramik olarak görebilirsiniz. Tepenin eteklerinde çeşitli değil, çeşitli bitki türleri yetişir ve bu bitki türleri, tepeye renkli bir görünüm kazandırır. Mandataşı Tepesi, hem doğa severlerin hem de fotoğraf meraklılarının ilgisini çeker.
+Mandataşı Tepesi, Van'ın eşsiz doğal güzelliklerinden biridir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar. Mandataşı Tepesi'ne çıkarak, Van'ın çevresindeki dağları ve vadileri panoramik olarak görebilirsiniz. Tepenin eteklerinde çeşitli değil, çeşitli bitki türleri yetişir ve bu bitki türleri, tepeye renkli bir görünüm kazandırır. Mandataşı Tepesi, hem doğa severlerin hem de fotoğraf meraklılarının ilgisini çeker.
 
 ## Tarihçe
 

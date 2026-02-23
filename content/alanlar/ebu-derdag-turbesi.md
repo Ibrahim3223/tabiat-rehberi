@@ -1,7 +1,7 @@
 ---
 title: "Ebu Derdağ Türbesi"
 date: "2026-01-10T05:01:59.523Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391476"
 
 # Ebu Derdağ Türbesi
 
-Ebu Derdağ Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan tarihi ve doğal güzelliklerinin bir arada bulunduğu bir alandır. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı içerir. Ebu Derdağ Türbesi, çevresi ile birlikte, hem tarihi hem de doğal güzelliklerinin bir arada olduğu bir destinasyondur. Bu alanda, ziyaretçiler hem tarihi yapıları hem de doğal güzellikleri keşfedebilirler. Ebu Derdağ Türbesi, Eyüpsultan'ın merkezine yakın bir konumda yer alır ve ulaşımı kolaydır.
+Ebu Derdağ Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan tarihi ve doğal güzelliklerinin bir arada bulunduğu bir alandır. Ebu Derdağ Türbesi, çevresi ile birlikte, hem tarihi hem de doğal güzelliklerinin bir arada olduğu bir destinasyondur. Bu alanda, ziyaretçiler hem tarihi yapıları hem de doğal güzellikleri keşfedebilirler. Ebu Derdağ Türbesi, Eyüpsultan'ın merkezine yakın bir konumda yer alır ve ulaşımı kolaydır.
 
 ## Tarihçe
 

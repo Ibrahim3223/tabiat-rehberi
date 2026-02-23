@@ -1,7 +1,7 @@
 ---
 title: "Ahi Yusuf Camii ve Türbesi"
 date: "2026-01-10T06:07:48.630Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390686"
 
 # Ahi Yusuf Camii ve Türbesi
 
-Ahi Yusuf Camii ve Türbesi, Antalya'nın Muratpaşa ilçesinde yer alan tarihi bir dini yapıdır. Bu önemli mekan, hem dini hem de kültürel açıdan büyük bir değer taşımaktadır. Cami ve türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanda konumlanmıştır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ahi Yusuf Camii ve Türbesi, ziyaretçilerini tarihi ve dini önemini keşfetmeye davet eder. Bu özel mekan, Antalya'nın zengin tarihini ve kültürel mirasını yansıtan önemli bir noktadır.
+Ahi Yusuf Camii ve Türbesi, Antalya'nın Muratpaşa ilçesinde yer alan tarihi bir dini yapıdır. Bu önemli mekan, hem dini hem de kültürel açıdan büyük bir değer taşımaktadır. Cami ve türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanda konumlanmıştır. Ahi Yusuf Camii ve Türbesi, ziyaretçilerini tarihi ve dini önemini keşfetmeye davet eder. Bu özel mekan, Antalya'nın zengin tarihini ve kültürel mirasını yansıtan önemli bir noktadır.
 
 ## Tarihçe
 

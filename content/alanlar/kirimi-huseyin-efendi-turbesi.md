@@ -1,7 +1,7 @@
 ---
 title: "Kırımi Hüseyin Efendi Türbesi"
 date: "2026-01-10T07:22:10.573Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391078"
 
 # Kırımi Hüseyin Efendi Türbesi
 
-Kırımi Hüseyin Efendi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir mekan. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tarihî ve kültürel öneme sahip bu mekan, İstanbul'un önemli ziyaret noktalarından biri. Kırımi Hüseyin Efendi Türbesi, İstanbul'un tarihî dokusunu keşfetmek isteyenler için ideal bir destinasyon.
+Kırımi Hüseyin Efendi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir mekan. Tarihî ve kültürel öneme sahip bu mekan, İstanbul'un önemli ziyaret noktalarından biri. Kırımi Hüseyin Efendi Türbesi, İstanbul'un tarihî dokusunu keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

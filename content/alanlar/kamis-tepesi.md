@@ -28,7 +28,7 @@ wikidata_id: "Q31388422"
 
 # Kamış Tepesi
 
-Kamış Tepesi, Erzurum'un doğusunda yer alan ve 140 hektarlık geniş bir alanı kapsayan bir tepedir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, bölgenin en önemli coğrafi oluşumlarından biridir. Tepenin etrafında yer alan köyler ve kasabalar, bu doğal güzelliğin bir parçası olarak görülür. Kamış Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler verir. Tepenin üzerinde yer alan tarihi kalıntılar, bölgenin zengin kültür mirasını yansıtır.
+Kamış Tepesi, Erzurum'un doğusunda yer alan ve 140 hektarlık geniş bir alanı kapsayan bir tepedir. Tepenin etrafında yer alan köyler ve kasabalar, bu doğal güzelliğin bir parçası olarak görülür. Kamış Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler verir. Tepenin üzerinde yer alan tarihi kalıntılar, bölgenin zengin kültür mirasını yansıtır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hamamlıçay Köy Kaplıcası"
 date: "2026-01-10T15:08:39.907Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "termal-kaynak"
 il: "Çorum"
@@ -28,7 +28,7 @@ wikidata_id: "Q49741919"
 
 # Hamamlıçay Köy Kaplıcası
 
-Hamamlıçay Köy Kaplıcası, Çorum'un merkezine uzun bir mesafe uzaklıkta, Karadeniz Bölgesi'nin zengin doğal güzelliklerine ev sahipliği yapan bir bölgede yer almaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölge, hem doğa severler hem de şifa arayanlar için ideal bir destinasyondur. Kaplıcanın suyu, yüksek sıcaklıkta ve minerallerle zenginleştirilmiş bir şekilde çıkarak, ziyaretçilere sağlık ve rahatlık sunmaktadır.
+Hamamlıçay Köy Kaplıcası, Çorum'un merkezine uzun bir mesafe uzaklıkta, Karadeniz Bölgesi'nin zengin doğal güzelliklerine ev sahipliği yapan bir bölgede yer almaktadır. Bu bölge, hem doğa severler hem de şifa arayanlar için ideal bir destinasyondur. Kaplıcanın suyu, yüksek sıcaklıkta ve minerallerle zenginleştirilmiş bir şekilde çıkarak, ziyaretçilere sağlık ve rahatlık sunmaktadır.
 
 ## Tarihçe
 

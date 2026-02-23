@@ -1,7 +1,7 @@
 ---
 title: "Siyami ve Benli Bey Türbesi"
 date: "2026-01-10T05:11:30.146Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391628"
 
 # Siyami ve Benli Bey Türbesi
 
-Siyami ve Benli Bey Türbesi, Muğla'nın Yatağan ilçesinde bulunan tarihi bir mekan. Bu mekan, 140 hektarlık bir alanda yer alan yaklaşık 200 futbol sahası büyüklüğünde. Konumu itibariyle Ege Bölgesi'nin önemli noktalarından biri. Tarihi geçmişi ve mimarisi ile dikkat çekiyor. Ziyaretçilerin ilgisini çeken bu mekan, hem gezi hem de eğitim amaçlı ziyaret ediliyor.
+Siyami ve Benli Bey Türbesi, Muğla'nın Yatağan ilçesinde bulunan tarihi bir mekan. Konumu itibariyle Ege Bölgesi'nin önemli noktalarından biri. Tarihi geçmişi ve mimarisi ile dikkat çekiyor. Ziyaretçilerin ilgisini çeken bu mekan, hem gezi hem de eğitim amaçlı ziyaret ediliyor.
 
 ## Tarihçe
 

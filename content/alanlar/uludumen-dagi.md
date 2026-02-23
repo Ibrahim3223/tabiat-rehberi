@@ -50,9 +50,9 @@ Bölgenin çevresel ilişkileri, komşu alanlar, su kaynakları ve ekosistem ba�
 
 ## Flora ve Fauna
 
-Uludümen Dağı, Muğla'nın zeytinli ve çam ormanları ile çevrili bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Uludümen Dağı, Muğla'nın zeytinli ve çam ormanları ile çevrili bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünde, ilkbahar aylarında çiçek açan otsu bitkiler ve sonbaharın gelmesiyle birlikte sararan yapraklı ağaçlar hakimdir. Dağın yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği değişkenlik gösterir. 
+Bitki örtüsünde, ilkbahar aylarında çiçek açan otsu bitkiler ve sonbaharın gelmesiyle birlikte sararan yapraklı ağaçlar hakimdir. Dağın yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği değişkenlik gösterir.
 
 Yaban hayatı da bir o kadar zengin: memeliler, kuşlar ve sürüngenler bu dağda yaşamını sürdüren canlılardır. particularly, göç mevsimlerinde, çeşitli kuş türleri bu bölgeyi ziyaret eder. Ekolojik değer olarak, bu dağ ekosistemi, bölgenin su döngüsünü düzenlemede ve zeytinliklerin sağlıklı büyümesinde önemli bir rol oynar.
 

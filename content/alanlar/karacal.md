@@ -63,7 +63,7 @@ Karaçal Dağı, Kütahya'da doğayı sevenler için bir cennet. Sabah erken git
 
 - Kütahya ilinin Emet ilçesinde bulunan Karaçal Dağı, bölgenin önemli coğrafi oluşumlarından biridir.
 - Karaçal Dağı, Kütahya'nın doğa turizmi açısından önemli noktalarından biridir.
-- Dağın etrafındaki köyler, históri ve kültürel açıdan zengin bir geçmişe sahiptir.
+- Dağın etrafındaki köyler, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir.
 - Karaçal Dağı, bölgenin flora ve fauna çeşitliliği açısından da önemli bir alandır.
 - Dağın yüksekliği ve coğrafi konumu, çeşitli bitki ve hayvan türleri için uygun yaşam koşulları sağlar.
 - Kütahya ilinin toplam yüzölçümünün %10'u civarında bir alanı kaplayan Emet ilçesi, Karaçal Dağı ile birlikte önemli bir coğrafi çeşitliliğe sahiptir.

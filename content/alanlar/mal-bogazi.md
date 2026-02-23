@@ -32,7 +32,7 @@ Ankara'nın doğal güzelliklerinin arasında gizli bir hazine olan Mal Boğazı
 
 ## Tarihçe
 
-Ankara bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, binlerce yıllık bir geçmişe sahiptir. Mal Boğazı, bu tarihsel zenginliğin içinde yer alan bir doğal güzelliktir. Türkiye'de, özellikle İç Anadolu Bölgesi'nde bulunan kanyonlar ve vadiler, tarih boyunca insanların yaşam alanları, ticaret yolları ve hayvancılık faaliyetleri için önemli merkezler olarak görev görmüştür.
+Ankara bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, binlerce yıllık bir geçmişe sahiptir. Mal Boğazı, bu tarihsel zenginliğin içinde yer alan bir doğal güzelliktir. Türkiye'de, özellikle İç Anadolu Bölgesi'nde bulunan kanyonlar ve vadiler, tarih boyunca insanların yaşam alanları, ticaret yolları ve hayvancılık faaliyetleri için önemli merkezler olarak görev görmüştür.
 
 Bu doğal alanlar, yalnızca coğrafi açıdan değil, kültürel ve ekonomik olarak da toplumların gelişimine katkıda bulunmuştur. Yayla ve otlakların varlığı, bölgede hayvancılığın gelişmesine olanak sağlarken, ticaret yollarının güzergahı üzerinde bulunmaları da ekonomik faaliyetlerin çeşitlenmesine yol açmıştır. Mal Boğazı da, bu bağlamda, Ankara'nın tarihini ve kültürünü şekillendiren etkenlerden biri olarak görülebilir. Bölgenin doğal güzelliği ve coğrafi özellikleri, insan yerleşimlerini ve ekonomik faaliyetleri etkileyerek, Ankara'nın zengin tarihsel mirasına katkıda bulunmuştur.
 
@@ -64,5 +64,5 @@ Ankara'nın gizli cenneti Mal Boğazı'na gitmek için sabah erken yola çıkman
 - Kanyonun oluşumu milyonlarca yıl önceye dayanır.
 - Mal Boğazı, Ankara'nın tektonik aktivite sonucu oluşan bir kanyondur.
 - Kanyonun derinliği ve uzunluğu hakkında spesifik bilgiler bulunmamaktadır.
-- Bölge, doğal güzelliği ve histórik önemini korumak için koruma altına alınmıştır.
+- Bölge, doğal güzelliği ve tarihi önemini korumak için koruma altına alınmıştır.
 - Mal Boğazı, bölgenin en önemli jeolojik oluşumlarından biridir.

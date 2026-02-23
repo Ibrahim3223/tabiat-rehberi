@@ -1,7 +1,7 @@
 ---
 title: "Hasandede Türbesi, Gümüşyayla"
 date: "2026-01-10T07:55:49.079Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582360"
 
 # Hasandede Türbesi, Gümüşyayla
 
-Hasandede Türbesi, Gümüşyayla, Ankara'nın Çubuk ilçesinde yer alan bir tarihi mekan ve doğal güzellik alanıdır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu mekan, hem tarihi önemini korur hem de doğal güzelliği ile ziyaretçilerini büyüler. Ziyaretçiler, tarihi türbeyi gezerken aynı zamanda çevredeki doğayı da keşfedebilir. Yeşil alanın büyüklüğü, ziyaretçilere geniş bir açık alan sunar. Bu mekan, hem tarihi hem de doğal güzelliği sevenler için ideal bir destinasyon olabilir.
+Hasandede Türbesi, Gümüşyayla, Ankara'nın Çubuk ilçesinde yer alan bir tarihi mekan ve doğal güzellik alanıdır. Bu mekan, hem tarihi önemini korur hem de doğal güzelliği ile ziyaretçilerini büyüler. Ziyaretçiler, tarihi türbeyi gezerken aynı zamanda çevredeki doğayı da keşfedebilir. Yeşil alanın büyüklüğü, ziyaretçilere geniş bir açık alan sunar. Bu mekan, hem tarihi hem de doğal güzelliği sevenler için ideal bir destinasyon olabilir.
 
 ## Tarihçe
 

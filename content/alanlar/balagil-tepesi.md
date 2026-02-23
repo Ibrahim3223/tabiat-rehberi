@@ -28,7 +28,7 @@ wikidata_id: "Q31530815"
 
 # Balağıl Tepesi
 
-Balağıl Tepesi, Eskişehir'in sakin ve yeşillikler içindeki bir bölgesinde yer alıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir doğa harikası. Doğa severler ve fotoğraf tutkunları için ideal bir nokta olan Balağıl Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaşmaya ve doğanın güzelliğini keşfetmeye davet ediyor. Tepenin eteklerinde ve zirvesinde, ziyaretçilere eşsiz manzaralar sunan yürüyüş yolları ve dinlenme alanları bulunuyor.
+Balağıl Tepesi, Eskişehir'in sakin ve yeşillikler içindeki bir bölgesinde yer alıyor. Doğa severler ve fotoğraf tutkunları için ideal bir nokta olan Balağıl Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaşmaya ve doğanın güzelliğini keşfetmeye davet ediyor. Tepenin eteklerinde ve zirvesinde, ziyaretçilere eşsiz manzaralar sunan yürüyüş yolları ve dinlenme alanları bulunuyor.
 
 ## Tarihçe
 

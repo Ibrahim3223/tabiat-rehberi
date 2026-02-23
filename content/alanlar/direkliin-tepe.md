@@ -28,7 +28,7 @@ wikidata_id: "Q31390149"
 
 # Direkliin Tepe
 
-Direkliin Tepe, Antalya'nın zengin tarihini ve doğal güzelliğini bir araya getiren özel bir nokta. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir manzara sunuyor. Direkliin Tepe, tarihi geçmişi ve coğrafi konumuyla dikkat çekici bir destinasyon. Bu tepe, Antalya'nın tarihi ve kültürel mirasını keşfetmek isteyenler için ideal bir gezi noktası.
+Direkliin Tepe, Antalya'nın zengin tarihini ve doğal güzelliğini bir araya getiren özel bir nokta. Direkliin Tepe, tarihi geçmişi ve coğrafi konumuyla dikkat çekici bir destinasyon. Bu tepe, Antalya'nın tarihi ve kültürel mirasını keşfetmek isteyenler için ideal bir gezi noktası.
 
 ## Tarihçe
 

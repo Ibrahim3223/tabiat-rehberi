@@ -1,7 +1,7 @@
 ---
 title: "Fatih Paşa Türbesi"
 date: "2026-01-10T04:58:47.116Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391498"
 
 # Fatih Paşa Türbesi
 
-Fatih Paşa Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olan Sur'da bulunuyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Fatih Paşa Türbesi, ziyaretçilerini tarihi ve doğal güzellikleri ile karşılayan bir destinasyon. Burada, tarihin izlerini taşıyan yapılar ve doğal güzellikler bir arada bulunuyor. Fatih Paşa Türbesi, gezginler için bir keşif merkezi olarak dikkat çekiyor. Ziyaretçiler, bu mekanın tarihi ve doğal zenginliklerini keşfetmek için buraya geliyor.
+Fatih Paşa Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olan Sur'da bulunuyor. Fatih Paşa Türbesi, ziyaretçilerini tarihi ve doğal güzellikleri ile karşılayan bir destinasyon. Burada, tarihin izlerini taşıyan yapılar ve doğal güzellikler bir arada bulunuyor. Fatih Paşa Türbesi, gezginler için bir keşif merkezi olarak dikkat çekiyor. Ziyaretçiler, bu mekanın tarihi ve doğal zenginliklerini keşfetmek için buraya geliyor.
 
 ## Tarihçe
 

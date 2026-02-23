@@ -28,7 +28,7 @@ wikidata_id: "Q32127148"
 
 # Alicanyücesi Tepe
 
-Alicanyücesi Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Alicanyücesi Tepe, doğa severler ve tarih meraklıları için önemli bir destinasyon. Tepe, tarihi geçmişi ve zengin doğası ile dikkat çekiyor. Alicanyücesi Tepe, ziyaretçilerine güzel manzaralar sunuyor. Doğa yürüyüşleri, trekking ve kamp gibi aktiviteleri yapma mümkün.
+Alicanyücesi Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe. Alicanyücesi Tepe, doğa severler ve tarih meraklıları için önemli bir destinasyon. Tepe, tarihi geçmişi ve zengin doğası ile dikkat çekiyor. Alicanyücesi Tepe, ziyaretçilerine güzel manzaralar sunuyor. Doğa yürüyüşleri, trekking ve kamp gibi aktiviteleri yapma mümkün.
 
 ## Tarihçe
 

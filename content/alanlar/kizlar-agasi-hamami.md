@@ -1,7 +1,7 @@
 ---
 title: "Kızlar Ağası Hamamı"
 date: "2026-01-09T22:42:18.073Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

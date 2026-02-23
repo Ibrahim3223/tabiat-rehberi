@@ -1,7 +1,7 @@
 ---
 title: "Hacı Bayram Camii"
 date: "2026-01-09T22:10:14.902Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q769575"
 
 # Hacı Bayram Camii
 
-Hacı Bayram Camii, Ankara'nın merkezinde yer alan, tarihi ve kültürel açıdan büyük önem taşıyan bir ibadethanedir. 1400'lü yıllarda inşa edilen bu cami, yaklaşık 600 yıllık bir geçmişe sahiptir. 140 hektarlık bir alan üzerinde kurulan Hacı Bayram Camii, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Caminin mimarisi, Selçuklu ve Osmanlı dönemlerinin özelliklerini taşır. Hacı Bayram Camii, sadece dini bir merkez olarak değil, aynı zamanda bir turizm ve kültür merkezidir.
+Hacı Bayram Camii, Ankara'nın merkezinde yer alan, tarihi ve kültürel açıdan büyük önem taşıyan bir ibadethanedir. 1400'lü yıllarda inşa edilen bu cami, yaklaşık 600 yıllık bir geçmişe sahiptir. Caminin mimarisi, Selçuklu ve Osmanlı dönemlerinin özelliklerini taşır. Hacı Bayram Camii, sadece dini bir merkez olarak değil, aynı zamanda bir turizm ve kültür merkezidir.
 
 ## Tarihçe
 

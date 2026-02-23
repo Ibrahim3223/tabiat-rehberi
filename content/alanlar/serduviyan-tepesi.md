@@ -28,7 +28,7 @@ wikidata_id: "Q31540358"
 
 # Serduviyan Tepesi
 
-Serduviyan Tepesi, Şırnak ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepe. Bu tepe, bölgenin coğrafi yapısını etkileyen önemli faktörlerden biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş alan, ziyaretçilere geniş bir manzara sunuyor. Serduviyan Tepesi, aynı zamanda bölgenin tarihi ve kültürel açıdan önemli bir noktası. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu bölgenin ekolojik açıdan da önemli olduğunu gösteriyor.
+Serduviyan Tepesi, Şırnak ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepe. Bu tepe, bölgenin coğrafi yapısını etkileyen önemli faktörlerden biri. Bu geniş alan, ziyaretçilere geniş bir manzara sunuyor. Serduviyan Tepesi, aynı zamanda bölgenin tarihi ve kültürel açıdan önemli bir noktası. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu bölgenin ekolojik açıdan da önemli olduğunu gösteriyor.
 
 ## Tarihçe
 

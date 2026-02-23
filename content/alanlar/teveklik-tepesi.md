@@ -28,7 +28,7 @@ wikidata_id: "Q31560911"
 
 # Teveklik Tepesi
 
-Teveklik Tepesi, Ordu'nun dağlık bölgesinde yer alan ve Karadeniz Bölgesi'nin önemli coğrafi oluşumlarından biridir. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Teveklik Tepesi, ziyaretçilerini doğanın güzelliği ve dağlık manzarasıyla karşılar. Bu bölge, aynı zamanda zengin fauna ve flora çeşitliliğine sahip olup, birçok bitki ve hayvan türünün yaşadığı bir alandır. Teveklik Tepesi, hem doğal güzelliği hem de coğrafi konumuyla dikkat çekici bir destinasyondur.
+Teveklik Tepesi, Ordu'nun dağlık bölgesinde yer alan ve Karadeniz Bölgesi'nin önemli coğrafi oluşumlarından biridir. Teveklik Tepesi, ziyaretçilerini doğanın güzelliği ve dağlık manzarasıyla karşılar. Bu bölge, aynı zamanda zengin fauna ve flora çeşitliliğine sahip olup, birçok bitki ve hayvan türünün yaşadığı bir alandır. Teveklik Tepesi, hem doğal güzelliği hem de coğrafi konumuyla dikkat çekici bir destinasyondur.
 
 ## Tarihçe
 

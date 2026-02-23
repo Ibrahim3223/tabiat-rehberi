@@ -36,7 +36,7 @@ wikidata_id: "Q49319525"
 
 ## Coğrafya
 
-Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Şanlıurfa, tarihin sâu izlerini taşıyan bir coğrafyaya ev sahipliği yapıyor. Mahbura Mağarası, bu bölgenin 36.9642°K, 39.2289°D koordinatlarında, Şanlıurfa'nın zengin tarihî ve kültürel dokusuna bir yenisini ekleyen önemli bir jeolojik oluşum olarak dikkat çekiyor. Bu mağaranın bulunduğu coğrafya, GAP Bölgesi'nin verimli topraklarına ve Fırat Nehri'nin kıyılarına yakın bir konumda yer alıyor.
+Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Şanlıurfa, tarihin derin izlerini taşıyan bir coğrafyaya ev sahipliği yapıyor. Mahbura Mağarası, bu bölgenin 36.9642°K, 39.2289°D koordinatlarında, Şanlıurfa'nın zengin tarihî ve kültürel dokusuna bir yenisini ekleyen önemli bir jeolojik oluşum olarak dikkat çekiyor. Bu mağaranın bulunduğu coğrafya, GAP Bölgesi'nin verimli topraklarına ve Fırat Nehri'nin kıyılarına yakın bir konumda yer alıyor.
 
 Doğal bir anıt olarak Mahbura Mağarası, etrafındaki jeolojik yapıyla birlikte dikkat çekici bir fiziksel yapıya sahip. Mağaranın büyüklüğü, yaklaşık olarak birkaç olimpik havuz kadar geniş bir alanı kaplıyor. Bu boyut, ziyaretçilere mağaranın içini keşfetmek için geniş bir alan sunuyor. Jeolojik açıdan bakıldığında, mağara ve çevresi, bölgenin zengin jeolojik tarihini yansıtan kaya oluşumları ve katmanları ile karakterize ediliyor.
 
@@ -46,11 +46,11 @@ Mahbura Mağarası, çevresindeki coğrafya ve ekosistemle önemli bir ilişkiye
 
 ## Flora ve Fauna
 
-Mahbura Mağarası ve çevresi, Şanlıurfa'nın yarı kurak ikliminde yer alan bir jeoparktır. Bu bölge, step ve ova ekolojisinin hakim olduğu bir alanda, orman ekosisteminin güzel bir örneğini sunar. 
+Mahbura Mağarası ve çevresi, Şanlıurfa'nın yarı kurak ikliminde yer alan bir jeoparktır. Bu bölge, step ve ova ekolojisinin hakim olduğu bir alanda, orman ekosisteminin güzel bir örneğini sunar.
 
-Bitki örtüsünde, genellikle step ve ova bitkilerinin hakim olduğu görülmektedir. İlkbahar aylarında, bu bölge rengarenk çiçeklerle kaplanır. Özel bitkiler arasında, kuraklığa dayanıklı türler bulunur. 
+Bitki örtüsünde, genellikle step ve ova bitkilerinin hakim olduğu görülmektedir. İlkbahar aylarında, bu bölge rengarenk çiçeklerle kaplanır. Özel bitkiler arasında, kuraklığa dayanıklı türler bulunur.
 
-Yaban hayatı da oldukça zengin olan bu bölgede, çeşitli memeliler, kuşlar ve sürüngenler yaşar. Göç mevsiminde, özellikle sonbaharda, birçok kuş türünün göç ettiği gözlemlenir. Memeliler arasında, orman ekosisteminin karakteristik türleri bulunur. 
+Yaban hayatı da oldukça zengin olan bu bölgede, çeşitli memeliler, kuşlar ve sürüngenler yaşar. Göç mevsiminde, özellikle sonbaharda, birçok kuş türünün göç ettiği gözlemlenir. Memeliler arasında, orman ekosisteminin karakteristik türleri bulunur.
 
 Mahbura Mağarası ve çevresi, ekolojik açıdan önemli bir bölgedir. Bu alanda yaşayan canlılar, birbirleriyle ve çevreleriyle  bir ilişki içindedir. Örneğin, bazı bitkiler, belirli memeliler ve kuşlar için yaşam alanı ve besin kaynağı oluşturur. Bu nedenle, bu bölgenin korunması büyük önem taşır.
 

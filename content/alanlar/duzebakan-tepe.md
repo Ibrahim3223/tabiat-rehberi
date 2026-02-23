@@ -52,7 +52,7 @@ Bölgenin ekosistemine bakıldığında, Düzcebakan Tepe, çevreleyen dağlar v
 
 Düzebakan Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Step ve ova ekolojisinin karakteristik türleri, bu dağlık alanda özel bir helyum oluşturuyor.
 
-Yaban hayatına bakıldığında, memeliler ve kuşlar ön plana çıkıyor. Dağ keçileri ve yaban keçileri, bu dağların yükseklik zonlarında yaşamını sürdürüyor. Göç mevsiminde, çeşitli kuş türleri bu alanı ziyaret ediyor. Sürüngenler de bu ekosistemin önemli bir parçası olarak karşımıza çıkıyor. 
+Yaban hayatına bakıldığında, memeliler ve kuşlar ön plana çıkıyor. Dağ keçileri ve yaban keçileri, bu dağların yükseklik zonlarında yaşamını sürdürüyor. Göç mevsiminde, çeşitli kuş türleri bu alanı ziyaret ediyor. Sürüngenler de bu ekosistemin önemli bir parçası olarak karşımıza çıkıyor.
 
 Düzebakan Tepe'nin ekolojik değeri, yükseklik zonları ve alpin flora ile dikkat çekiyor. Bu dağlık alan, çeşitli canlı türleri için yaşam alanı oluşturuyor. Ancak, koruma durumu açısından endişe verici bir tablo ortaya çıkıyor. İnsan faaliyetlerinin artması, bu dağ ekosisteminin dengesini bozuyor. Koruma effortsının artırılması, bu doğal alanın geleceğini güvence altına alacaktır.
 

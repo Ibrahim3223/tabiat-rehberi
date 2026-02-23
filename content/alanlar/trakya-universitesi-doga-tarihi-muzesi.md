@@ -1,7 +1,7 @@
 ---
 title: "Trakya Üniversitesi Doğa Tarihi Müzesi"
 date: "2026-01-10T15:19:35.663Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q132681860"
 
 # Trakya Üniversitesi Doğa Tarihi Müzesi
 
-Trakya Üniversitesi Doğa Tarihi Müzesi, Edirne'nin merkezinde yer alan 140 hektarlık bir yeşil alan içinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Müze, Trakya Üniversitesi'nin bir parçası olarak doğa tarihi ve kültürel mirasın korunmasına katkıda bulunmaktadır. Ziyaretçiler, müzenin zengin koleksiyonlarını keşfederek, bölgenin flora ve faunasını yakından tanıma fırsatı bulurlar. 140 hektarlık bu yeşil alan, aynı zamanda çeşitli bitki türleriyle süslenmiş, zengin fauna ve ekolojik dengenin korunmasına örnek oluşturmaktadır.
+Trakya Üniversitesi Doğa Tarihi Müzesi, Edirne'nin merkezinde yer alan 140 hektarlık bir yeşil alan içinde kurulmuştur. Müze, Trakya Üniversitesi'nin bir parçası olarak doğa tarihi ve kültürel mirasın korunmasına katkıda bulunmaktadır. Ziyaretçiler, müzenin zengin koleksiyonlarını keşfederek, bölgenin flora ve faunasını yakından tanıma fırsatı bulurlar. 140 hektarlık bu yeşil alan, aynı zamanda çeşitli bitki türleriyle süslenmiş, zengin fauna ve ekolojik dengenin korunmasına örnek oluşturmaktadır.
 
 ## Tarihçe
 

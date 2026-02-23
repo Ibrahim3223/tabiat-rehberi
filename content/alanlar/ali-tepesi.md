@@ -29,7 +29,7 @@ wikidata_id: "Q31559199"
 
 # Ali Tepesi
 
-Ali Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanı, ziyaretçilere geniş bir yeşil alan sunuyor. Bu tepe, doğa severler ve tarih meraklıları için önemli bir destinasyon olarak dikkat çekiyor. Ali Tepesi, Ankara'nın merkezine yakın bir konumda bulunmasıyla da kolay ulaşılabilir.
+Ali Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, doğa severler ve tarih meraklıları için önemli bir destinasyon olarak dikkat çekiyor. Ali Tepesi, Ankara'nın merkezine yakın bir konumda bulunmasıyla da kolay ulaşılabilir.
 
 ## Tarihçe
 

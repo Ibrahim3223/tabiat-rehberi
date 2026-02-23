@@ -1,7 +1,7 @@
 ---
 title: "Hıdırlık Hamamı"
 date: "2026-01-09T23:22:44.465Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738984"
 
 # Hıdırlık Hamamı
 
-Hıdırlık Hamamı, Seferihisar'ın merkezinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Denizi'nin masmavi sularına ev sahipliği yapıyor. Hıdırlık Hamamı, doğal güzelliği ve tarihi geçmişiyle birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor ve Seferihisar'ın turizm potansiyelini yansıtıyor.
+Hıdırlık Hamamı, Seferihisar'ın merkezinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. Hıdırlık Hamamı, doğal güzelliği ve tarihi geçmişiyle birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor ve Seferihisar'ın turizm potansiyelini yansıtıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hıdırlık Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Hıdırlık Hamamı, Seferihisar'ın merkezinde, Ege Denizi kıyısında yer alıyor. Bu bölge, coğrafi konumu itibariyle, hem deniz hem de kara yoluyla kolayca ulaşılabilen bir destinasyon. Hıdırlık Hamamı, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere geniş ve ferah bir ortam sunuyor ve onlar için rahat bir gezi deneyimi sağlıyor. Hıdırlık Hamamı'nın coğrafi yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşıyor ve bu bölgenin doğal güzelliğini yansıtıyor. Denizin masmavi suları, güneşin ılıman ışıkları ve rüzgarın serin esişinin bir arada olduğu bu bölge, ziyaretçilere huzurlu ve dinlendirici bir ortam sunuyor.
+Hıdırlık Hamamı, Seferihisar'ın merkezinde, Ege Denizi kıyısında yer alıyor. Bu bölge, coğrafi konumu itibariyle, hem deniz hem de kara yoluyla kolayca ulaşılabilen bir destinasyon. Bu geniş alan, ziyaretçilere geniş ve ferah bir ortam sunuyor ve onlar için rahat bir gezi deneyimi sağlıyor. Hıdırlık Hamamı'nın coğrafi yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşıyor ve bu bölgenin doğal güzelliğini yansıtıyor. Denizin masmavi suları, güneşin ılıman ışıkları ve rüzgarın serin esişinin bir arada olduğu bu bölge, ziyaretçilere huzurlu ve dinlendirici bir ortam sunuyor.
 
 ## Flora ve Fauna
 

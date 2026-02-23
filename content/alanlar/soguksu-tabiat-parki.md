@@ -29,7 +29,7 @@ wikidata_id: "Q24915219"
 
 # Soğuksu Tabiat Parkı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Soğuksu Tabiat Parkı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu 140 hektarlık yeşil alan, ziyaretçilerine doğanın içinde bir kaçış fırsatı sunuyor. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Soğuksu Tabiat Parkı, hem doğa severler hem de fotoğraf sanatçıları için bir cennet olarak kabul ediliyor. Parkın sakin ve huzurlu atmosferi, ziyaretçilerini_city hayatının stresinden uzaklaştırıyor.
+ Bu 140 hektarlık yeşil alan, ziyaretçilerine doğanın içinde bir kaçış fırsatı sunuyor. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilir. Soğuksu Tabiat Parkı, hem doğa severler hem de fotoğraf sanatçıları için bir cennet olarak kabul ediliyor. Parkın sakin ve huzurlu atmosferi, ziyaretçilerini_city hayatının stresinden uzaklaştırıyor.
 
 ## Tarihçe
 

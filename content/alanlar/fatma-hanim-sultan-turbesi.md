@@ -1,7 +1,7 @@
 ---
 title: "Fatma Hanım Sultan Türbesi"
 date: "2026-01-10T05:49:12.535Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q135430364"
 
 # Fatma Hanım Sultan Türbesi
 
-Fatma Hanım Sultan Türbesi, Üsküdar'da bulunan ve İstanbul'un önemli tarihi mekanlarından biri olan bir türbedir. Bu tarihi mekan, aynı zamanda bir plaj olarak da kullanılan bir alana sahiptir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Üsküdar'ın en güzel noktalarından biridir. Fatma Hanım Sultan Türbesi, İstanbul'un Marmara Bölgesi'nde yer alan bir kültürel ve tarihi mirastır. Bu bölge, tarihi ve doğal güzellikleri bir arada sunmaktadır. Türbenin etrafındaki alan, çeşitli bitki türleri ve zengin fauna ile dolu bir doğaya sahiptir. Bu mekan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir yerdir.
+Fatma Hanım Sultan Türbesi, Üsküdar'da bulunan ve İstanbul'un önemli tarihi mekanlarından biri olan bir türbedir. Bu tarihi mekan, aynı zamanda bir plaj olarak da kullanılan bir alana sahiptir. Fatma Hanım Sultan Türbesi, İstanbul'un Marmara Bölgesi'nde yer alan bir kültürel ve tarihi mirastır. Bu bölge, tarihi ve doğal güzellikleri bir arada sunmaktadır. Türbenin etrafındaki alan, çeşitli bitki türleri ve zengin fauna ile dolu bir doğaya sahiptir. Bu mekan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir yerdir.
 
 ## Tarihçe
 

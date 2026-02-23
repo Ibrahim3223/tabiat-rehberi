@@ -1,7 +1,7 @@
 ---
 title: "Şehzade Ahmet Türbesi"
 date: "2026-01-10T07:35:29.340Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391233"
 
 # Şehzade Ahmet Türbesi
 
-Şehzade Ahmet Türbesi, Bursa'nın Osmangazi ilçesinde yer alan tarihi ve kültürel bir mekan. Bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide konumlanmıştır. Şehzade Ahmet Türbesi, tarihin derinliklerinden gelen bir hikayeyi anlatır ve ziyaretçilerini geçmişe götürür. Mechelin mimari yapısı ve tarihi önemi, ziyaretçileri tarafından büyük bir ilgi görmektedir. Şehzade Ahmet Türbesi, hem tarihin hem de doğanın güzelliğini bir araya getiren özel bir yerdir.
+Şehzade Ahmet Türbesi, Bursa'nın Osmangazi ilçesinde yer alan tarihi ve kültürel bir mekan. Şehzade Ahmet Türbesi, tarihin derinliklerinden gelen bir hikayeyi anlatır ve ziyaretçilerini geçmişe götürür. Mechelin mimari yapısı ve tarihi önemi, ziyaretçileri tarafından büyük bir ilgi görmektedir. Şehzade Ahmet Türbesi, hem tarihin hem de doğanın güzelliğini bir araya getiren özel bir yerdir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391233"
 
 ## Coğrafya
 
-Şehzade Ahmet Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir mekan. Bu mekan, 140 hektarlık bir arazide konumlanmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Şehzade Ahmet Türbesi, Marmara Bölgesi'nin coğrafi güzelliğini yansıtan bir yer. Mechelin yapımı ve tarihi önemi, ziyaretçileri tarafından büyük bir ilgi görmektedir. Şehzade Ahmet Türbesi, ziyaretçilerine tarihin sayfalarında bir yolculuk sunar ve geçmişin gizemini keşfetme fırsatı verir. Bu mekan, ziyaretçilerine hem tarihin hem de doğanın güzelliğini bir araya getiren özel bir yerdir. Şehzade Ahmet Türbesi, Osmangazi ilçesinin coğrafi güzelliğini yansıtan bir mekan.
+Şehzade Ahmet Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir mekan. Şehzade Ahmet Türbesi, Marmara Bölgesi'nin coğrafi güzelliğini yansıtan bir yer. Mechelin yapımı ve tarihi önemi, ziyaretçileri tarafından büyük bir ilgi görmektedir. Şehzade Ahmet Türbesi, ziyaretçilerine tarihin sayfalarında bir yolculuk sunar ve geçmişin gizemini keşfetme fırsatı verir. Bu mekan, ziyaretçilerine hem tarihin hem de doğanın güzelliğini bir araya getiren özel bir yerdir. Şehzade Ahmet Türbesi, Osmangazi ilçesinin coğrafi güzelliğini yansıtan bir mekan.
 
 ## Flora ve Fauna
 

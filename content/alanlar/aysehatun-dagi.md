@@ -44,7 +44,7 @@ Boyut olarak, Ayşehatun Dağı'nın tam ölçüsü bilinmese de, Bitlis'in gene
 
 İklim açısından, Ayşehatun Dağı'nın bulunduğu bölge, karakteristik olarak karasal iklim özellikleri gösteriyor. Mevsimsel olarak, yaz aylarında sıcaklık değerleri 25 derece civarında seyrederken, kış aylarında -10 dereceye kadar düşebiliyor. Hava durumu da, bölgenin coğrafi konumuna bağlı olarak, yağışlı ve güneşli günler arasında değişkenlik gösteriyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bu dağ, bölgenin iklimini etkileyen önemli bir faktör.
 
-Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Ayşehatun Dağı, önemli bir role sahip. Dağın etrafındaki vadiler ve ovalar, bölgenin su kaynaklarını besliyor ve ekosistemin dengesini sağlıyor. İstanbul'un Adalar ilçesi büyüklüğünde olan bu bölge, bölgenin ekolojik dengesini korumak açısından critical bir önem taşıyor.
+Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Ayşehatun Dağı, önemli bir role sahip. Dağın etrafındaki vadiler ve ovalar, bölgenin su kaynaklarını besliyor ve ekosistemin dengesini sağlıyor.
 
 ## Flora ve Fauna
 

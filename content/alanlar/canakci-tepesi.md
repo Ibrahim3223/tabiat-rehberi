@@ -28,7 +28,7 @@ wikidata_id: "Q34828292"
 
 # Çanakçı Tepesi
 
-Kırşehir'in merkezi bir konumda yer alan Çanakçı Tepesi, şehrin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezinden kolayca ulaşılabiliyor. Çanakçı Tepesi, özellikle şehir yaşamının koşuşturmacasından kaçmak isteyenler için bir kaçış noktası olarak görülüyor. Tepenin eteklerinde yer alan köyler ve civarındaki tarihi kalıntılar, ziyaretçilere zengin bir kültürel deneyim sunuyor.
+Kırşehir'in merkezi bir konumda yer alan Çanakçı Tepesi, şehrin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Çanakçı Tepesi, özellikle şehir yaşamının koşuşturmacasından kaçmak isteyenler için bir kaçış noktası olarak görülüyor. Tepenin eteklerinde yer alan köyler ve civarındaki tarihi kalıntılar, ziyaretçilere zengin bir kültürel deneyim sunuyor.
 
 ## Tarihçe
 

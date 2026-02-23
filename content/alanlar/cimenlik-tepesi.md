@@ -28,7 +28,7 @@ wikidata_id: "Q34819122"
 
 # Çimenlik Tepesi
 
-Çimenlik Tepesi, Güneydoğu Anadolu Bölgesi'ninSiirt ilinde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, ziyaretçilerini doğal güzellikleri ve zengin flora ile karşılar. Çimenlik Tepesi, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunar. Tepenin quanhistori ve kültürel değerleri, bu bölgeyi özel kılar.
+Çimenlik Tepesi, Güneydoğu Anadolu Bölgesi'ninSiirt ilinde yer alan bir tepe. Bu bölge, ziyaretçilerini doğal güzellikleri ve zengin flora ile karşılar. Çimenlik Tepesi, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunar. Tepenin quanhistori ve kültürel değerleri, bu bölgeyi özel kılar.
 
 ## Tarihçe
 

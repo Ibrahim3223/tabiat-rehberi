@@ -28,7 +28,7 @@ wikidata_id: "Q31390597"
 
 # Antepoğlu Tepesi
 
-Antepoğlu Tepesi, Nevşehir'in merkezi bir konumunda yer alan ve şehrin önemli doğal güzelliklerinden biri olarak tanınır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş açıkları ve yüksekliğiyle etkiler. Bu tepe, not only şehrin panoramik manzarasını sunmakla kalmaz, aynı zamanda bölgenin tarihi geçmişine de ışık tutar. Antepoğlu Tepesi, bir yandan doğal güzelliği ile ön plana çıkarken, diğer yandan da kültürel ve tarihi değerleriyle dikkat çeker.
+Antepoğlu Tepesi, Nevşehir'in merkezi bir konumunda yer alan ve şehrin önemli doğal güzelliklerinden biri olarak tanınır. Bu tepe, not only şehrin panoramik manzarasını sunmakla kalmaz, aynı zamanda bölgenin tarihi geçmişine de ışık tutar. Antepoğlu Tepesi, bir yandan doğal güzelliği ile ön plana çıkarken, diğer yandan da kültürel ve tarihi değerleriyle dikkat çeker.
 
 ## Tarihçe
 

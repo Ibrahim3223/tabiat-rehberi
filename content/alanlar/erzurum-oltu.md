@@ -23,7 +23,7 @@ wikidata_id: "Q108227089"
 
 # Erzurum-Oltu
 
-Erzurum-Oltu, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak ziyaretçilerini büyüleyici bir doğa ile karşılıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada doğanın güzelliğini keşfetme mümkün. Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine. Erzurum-Oltu'nun güzelliği, sadece doğal güzelliklerden oluşmuyor, aynı zamanda burada bulunan tarihi kalıntılar ve kültürel zenginlikler de ziyaretçileri bekliyor.
+Erzurum-Oltu, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak ziyaretçilerini büyüleyici bir doğa ile karşılıyor. Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine. Erzurum-Oltu'nun güzelliği, sadece doğal güzelliklerden oluşmuyor, aynı zamanda burada bulunan tarihi kalıntılar ve kültürel zenginlikler de ziyaretçileri bekliyor.
 
 ## Tarihçe
 

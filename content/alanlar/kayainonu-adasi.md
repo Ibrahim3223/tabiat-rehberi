@@ -28,7 +28,7 @@ wikidata_id: "Q49645620"
 
 # Kayainönü Adası
 
-Balıkesir'in sakin sularında gizli bir hazine olarak bekleyen Kayainönü Adası, ziyaretçilerini doğanın sade güzelliği ile karşılar. Bu ada, Balıkesir'in zengin tarihi ve doğal mirasının bir parçası olarak dikkat çeker. İlimizin eşsiz coğrafyasında yer alan Kayainönü Adası, sakin ve huzurlu bir atmosfer sunar. Balıkesir'in doğal güzelliklerinin keşfedilmeyi beklediği bu bölge, ziyaretçilerine unutulmaz anlar vaat eder.
+Balıkesir'in sakin sularında gizli bir hazine olarak bekleyen Kayainönü Adası, ziyaretçilerini doğanın sade güzelliği ile karşılar. Bu ada, Balıkesir'in zengin tarihi ve doğal mirasının bir parçası olarak dikkat çeker. İlimizin eşsiz coğrafyasında yer alan Kayainönü Adası, sakin ve huzurlu bir atmosfer sunar.
 
 ## Tarihçe
 

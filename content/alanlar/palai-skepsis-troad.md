@@ -29,7 +29,7 @@ wikidata_id: "Q134728426"
 
 # Palai Skepsis (Troad)
 
-Marmara Bölgesi'nin Çanakkale iline bağlı Bayramiç ilçesinde bulunan Palai Skepsis, tarihi ve doğal güzellikleri bir arada sunan özel bir mekan. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Palai Skepsis, Troad bölgesinin önemlii ve kültürel değerlerini barındıran bir yer. Bu mekan, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor. Ziyaretçiler, burada hem doğayı keşfedebilir hem de tarihi yapıları inceleyebilir.
+Marmara Bölgesi'nin Çanakkale iline bağlı Bayramiç ilçesinde bulunan Palai Skepsis, tarihi ve doğal güzellikleri bir arada sunan özel bir mekan. Palai Skepsis, Troad bölgesinin önemlii ve kültürel değerlerini barındıran bir yer. Bu mekan, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor. Ziyaretçiler, burada hem doğayı keşfedebilir hem de tarihi yapıları inceleyebilir.
 
 ## Tarihçe
 

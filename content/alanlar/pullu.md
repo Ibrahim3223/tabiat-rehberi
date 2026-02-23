@@ -23,7 +23,7 @@ wikidata_id: "Q108228339"
 
 # Pullu
 
-Pullu milli parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu muhteşem doğal alan, ziyaretçilerini geniş ve yeşil alanları ile karşılıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile karşılaşma mümkün. Pullu milli parkı, hem doğa severler hem de turistik gezi sevenler için ideal bir destinasyon.
+Pullu milli parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu muhteşem doğal alan, ziyaretçilerini geniş ve yeşil alanları ile karşılıyor. Pullu milli parkı, hem doğa severler hem de turistik gezi sevenler için ideal bir destinasyon.
 
 ## Tarihçe
 

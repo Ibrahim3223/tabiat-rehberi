@@ -28,7 +28,7 @@ wikidata_id: "Q35731174"
 
 # Bölücek Tepesi
 
-Bölücek Tepesi, Çorum'un muhteşem manzarasına ev sahipliği yapan bir noktada yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki doğal güzellikleriyle ziyaretçilerini cezbeder. Bölücek Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak öne çıkıyor. Bu bölge, ziyaretçilerine hem doğanın güzelliğini hem de tarihin izlerini keşfetme fırsatı sunuyor.
+Bölücek Tepesi, Çorum'un muhteşem manzarasına ev sahipliği yapan bir noktada yer alır. Bölücek Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak öne çıkıyor. Bu bölge, ziyaretçilerine hem doğanın güzelliğini hem de tarihin izlerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

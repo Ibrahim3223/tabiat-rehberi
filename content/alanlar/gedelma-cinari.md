@@ -23,7 +23,7 @@ wikidata_id: "Q108228068"
 
 # Gedelma Cinari
 
-Gedelma Cinari, İç Anadolu Bölgesi'nin doğal güzelliklerinin bir arada bulunduğu milli parklardan biridir. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerine doğa ile iç içe bir experiencia sunar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Gedelma Cinari, aynı zamanda yaban hayatı koruma çalışmaları açısından önemli bir alandır.
+Gedelma Cinari, İç Anadolu Bölgesi'nin doğal güzelliklerinin bir arada bulunduğu milli parklardan biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Gedelma Cinari, aynı zamanda yaban hayatı koruma çalışmaları açısından önemli bir alandır.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Gedelma Cinari'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu al
 
 ## Coğrafya
 
-Gedelma Cinari, İç Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir alanında yer alır. Bu milli park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. İklim, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapı gösterir. Gedelma Cinari, ziyaretçilerine doğa ile iç içe bir gezi deneyimi sunar. Burada, doğa yürüyüşleri yapmak, yaban hayvanlarınıleme ve doğal güzellikleri keşfetme mümkün. Parkın coğrafi konumu, aynı zamanda yaban hayatı koruma çalışmaları açısından önemli bir alandır.
+Gedelma Cinari, İç Anadolu Bölgesi'nin coğrafi olarak çeşitlilik gösteren bir alanında yer alır. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. İklim, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapı gösterir. Gedelma Cinari, ziyaretçilerine doğa ile iç içe bir gezi deneyimi sunar. Burada, doğa yürüyüşleri yapmak, yaban hayvanlarınıleme ve doğal güzellikleri keşfetme mümkün. Parkın coğrafi konumu, aynı zamanda yaban hayatı koruma çalışmaları açısından önemli bir alandır.
 
 ## Flora ve Fauna
 

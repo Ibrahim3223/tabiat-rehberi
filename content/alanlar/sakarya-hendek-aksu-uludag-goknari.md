@@ -22,7 +22,7 @@ wikidata_id: "Q108228048"
 
 # Sakarya-Hendek-Aksu Uludag Goknari
 
-Sakarya-Hendek-Aksu Uludag Goknari milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Milli park, Sakarya ili sınırları içerisinde yer alıyor ve bölgenin ekolojik dengesini korumak amacıyla kurulmuş. Bu doğal cennet, hem yerel halk hem de turistler için bir çekim merkezi olarak hizmet vermekte.
+Sakarya-Hendek-Aksu Uludag Goknari milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Milli park, Sakarya ili sınırları içerisinde yer alıyor ve bölgenin ekolojik dengesini korumak amacıyla kurulmuş. Bu doğal cennet, hem yerel halk hem de turistler için bir çekim merkezi olarak hizmet vermekte.
 
 ## Tarihçe
 

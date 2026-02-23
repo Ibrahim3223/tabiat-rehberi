@@ -28,7 +28,7 @@ wikidata_id: "Q31507142"
 
 # Sekidede Dağı
 
-Sivas'ın doğal güzelliklerini keşfetmek isteyenler için Sekidede Dağı, bir hazine gibi bekliyor. Sivas ilinin sınırları içerisinde yer alan bu dağ, bölgenin coğrafi yapısını şekillendiren önemli bir oluşum. Doğa severlerin ilgisini çeken Sekidede Dağı, Sivas'ın zengin tarihi ve kültürel mirasıyla birlikte ziyaretçilerine unutulmaz bir deneyim sunuyor. Sivas'ın merkezi ve ilçeleri arasında yer alan bu dağ, bölgenin turizm potansiyelini artırıyor.
+Sivas'ın doğal güzelliklerini keşfetmek isteyenler için Sekidede Dağı, bir hazine gibi bekliyor. Sivas ilinin sınırları içerisinde yer alan bu dağ, bölgenin coğrafi yapısını şekillendiren önemli bir oluşum. Sivas'ın merkezi ve ilçeleri arasında yer alan bu dağ, bölgenin turizm potansiyelini artırıyor.
 
 ## Tarihçe
 

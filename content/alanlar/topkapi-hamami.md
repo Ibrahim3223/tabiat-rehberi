@@ -1,7 +1,7 @@
 ---
 title: "Topkapı Hamamı"
 date: "2026-01-09T23:54:27.498Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739217"
 
 # Topkapı Hamamı
 
-Topkapı Hamamı, Marmara Bölgesi'nin Edirne ilinde yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan geniş bir yeşil alana sahiptir. Topkapı Hamamı, denize girme imkanı sunan plajı ve tarihi hamam yapıları ile dikkat çekmektedir. Burada, tarihin ve doğanın birleştiği noktada, ziyaretçiler hem tarihi ve kültürel zenginlikleri keşfedebilir hem de doğanın güzelliğini deneyimleyebilirler.
+Topkapı Hamamı, Marmara Bölgesi'nin Edirne ilinde yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir alandır. Topkapı Hamamı, denize girme imkanı sunan plajı ve tarihi hamam yapıları ile dikkat çekmektedir. Burada, tarihin ve doğanın birleştiği noktada, ziyaretçiler hem tarihi ve kültürel zenginlikleri keşfedebilir hem de doğanın güzelliğini deneyimleyebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Topkapı Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bu bölge, yü
 
 ## Coğrafya
 
-Topkapı Hamamı, coğrafi olarak Marmara Bölgesi'nin Edirne ilinde yer almaktadır. Bu bölge, Marmara Denizi'ne kıyısı olan ve deniz suyu ile çevrili bir alandır. Topkapı Hamamı, denize girme imkanı sunan plajı ile dikkat çekmektedir. Plajın yanında, tarihi hamam yapıları ve diğer turistik noktalar da bulunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak ılımandır. Topkapı Hamamı, çevresindeki yeşil alanlar ve doğal güzellikleriyle birlikte, ziyaretçilere huzurlu ve güzel bir ortam sunmaktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan geniş bir yeşil alana sahiptir.
+Topkapı Hamamı, coğrafi olarak Marmara Bölgesi'nin Edirne ilinde yer almaktadır. Bu bölge, Marmara Denizi'ne kıyısı olan ve deniz suyu ile çevrili bir alandır. Topkapı Hamamı, denize girme imkanı sunan plajı ile dikkat çekmektedir. Plajın yanında, tarihi hamam yapıları ve diğer turistik noktalar da bulunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak ılımandır. Topkapı Hamamı, çevresindeki yeşil alanlar ve doğal güzellikleriyle birlikte, ziyaretçilere huzurlu ve güzel bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 

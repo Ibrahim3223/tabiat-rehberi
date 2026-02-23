@@ -1,7 +1,7 @@
 ---
 title: "Doğdu Hamamı"
 date: "2026-01-09T23:27:58.935Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çankırı"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739110"
 
 # Doğdu Hamamı
 
-Doğdu Hamamı, Çerkeş'in merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yüksek dağlar ile çevrili bir vadi içinde bulunmaktadır. Doğdu Hamamı, Çerkeş'in en önemli turizm noktalarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Doğdu Hamamı'nın etrafı, çeşitli bitki türleri ile kaplıdır ve ziyaretçiler, bu doğa harikasını keşfetmek için buraya gelirler. Ayrıca, Doğdu Hamamı'nın tarihi geçmişi de çok eskidir ve buradaki tarihi eserler, ziyaretçilerin ilgisini çekmektedir.
+Doğdu Hamamı, Çerkeş'in merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Doğdu Hamamı, Çerkeş'in en önemli turizm noktalarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Doğdu Hamamı'nın etrafı, çeşitli bitki türleri ile kaplıdır ve ziyaretçiler, bu doğa harikasını keşfetmek için buraya gelirler. Ayrıca, Doğdu Hamamı'nın tarihi geçmişi de çok eskidir ve buradaki tarihi eserler, ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Ani Küçük Hamam"
 date: "2026-01-09T22:38:21.501Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kars"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738759"
 
 # Ani Küçük Hamam
 
-Ani Küçük Hamam, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan bir tarihi ve doğal alan olarak ziyaretçilerini bekliyor. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin bir tarihi geçmişe sahip. Ani Küçük Hamam, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çekiyor. Bu bölge, tarihin izlerini taşıyan tarihi yapılarıyla birlikte, ziyaretçilerine doğanın güzelliğini de sunuyor. Ani Küçük Hamam'a gitmek, hem doğayı hem de tarihin derinliklerini keşfetmek anlamına geliyor.
+Ani Küçük Hamam, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan bir tarihi ve doğal alan olarak ziyaretçilerini bekliyor. Ani Küçük Hamam, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çekiyor. Bu bölge, tarihin izlerini taşıyan tarihi yapılarıyla birlikte, ziyaretçilerine doğanın güzelliğini de sunuyor. Ani Küçük Hamam'a gitmek, hem doğayı hem de tarihin derinliklerini keşfetmek anlamına geliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ani Küçük Hamam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Ani Küçük Hamam, Kars ilinin Ani ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. 140 hektarlık geniş alanı, yaklaşık 200 futbol sahası büyüklüğünde ve doğanın güzelliğini sunuyor. Ani Küçük Hamam, coğrafi olarak dağlık bir bölgede yer alıyor ve etrafı yüksek dağlarla çevrili. Bu bölge, iklim olarak karasal bir yapıya sahip ve mevsimsel değişimler gözlemleniyor. Ani Küçük Hamam'ın coğrafi konumu, ziyaretçilerine doğanın güzelliğini ve tarihin izlerini keşfetme fırsatı sunuyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip ve ziyaretçilerini doğal güzelliği ile büyülüyor.
+Ani Küçük Hamam, Kars ilinin Ani ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Ani Küçük Hamam, coğrafi olarak dağlık bir bölgede yer alıyor ve etrafı yüksek dağlarla çevrili. Bu bölge, iklim olarak karasal bir yapıya sahip ve mevsimsel değişimler gözlemleniyor. Ani Küçük Hamam'ın coğrafi konumu, ziyaretçilerine doğanın güzelliğini ve tarihin izlerini keşfetme fırsatı sunuyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip ve ziyaretçilerini doğal güzelliği ile büyülüyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ani Küçük Hamam'a gitmek, hem doğayı hem de tarihin derinliklerini keşfetm
 ## İlginç Bilgiler
 
 - Ani Küçük Hamam, 140 hektarlık bir alana sahip.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Ani Küçük Hamam, tarihi geçmişiyle dikkat çekiyor.
 - Bu bölge, flora ve fauna açısından zengin.
 - Ani Küçük Hamam, doğa yürüyüşleri için ideal bir yer.

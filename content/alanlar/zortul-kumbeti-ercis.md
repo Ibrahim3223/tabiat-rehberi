@@ -29,7 +29,7 @@ wikidata_id: "Q135582830"
 
 # Zortul Kümbeti, Erciş
 
-Zortul Kümbeti, Erciş, Van'ın tarihi ve kültürel zenginliklerini barındıran önemli bir nokta. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip veVan Gölü'nün muhteşem manzarasına ev sahipliği yapıyor. Zortul Kümbeti, tarihi geçmişi ve eşsiz doğası ile ziyaretçilerini büyülüyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Zortul Kümbeti, Erciş'in merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay.
+Zortul Kümbeti, Erciş, Van'ın tarihi ve kültürel zenginliklerini barındıran önemli bir nokta. Zortul Kümbeti, tarihi geçmişi ve eşsiz doğası ile ziyaretçilerini büyülüyor. Zortul Kümbeti, Erciş'in merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34820564"
 
 # Üçocak Tepesi
 
-Üçocak Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Üçocak Tepesi, ziyaretçilerini doğal güzelliği ve eşsiz manzarasıyla etkiliyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunuyor. Üçocak Tepesi, hem doğa severlerin hem de tarihi geçmişi merak edenlerin ilgisini çekiyor.
+Üçocak Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Üçocak Tepesi, ziyaretçilerini doğal güzelliği ve eşsiz manzarasıyla etkiliyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunuyor. Üçocak Tepesi, hem doğa severlerin hem de tarihi geçmişi merak edenlerin ilgisini çekiyor.
 
 ## Tarihçe
 

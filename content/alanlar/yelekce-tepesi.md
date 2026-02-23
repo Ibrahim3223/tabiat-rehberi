@@ -28,7 +28,7 @@ wikidata_id: "Q34822278"
 
 # Yelekçe Tepesi
 
-Yelekçe Tepesi, Kahramanmaraş'ta Akdeniz Bölgesi'nin güzel bir noktasında yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Yelekçe Tepesi, bölgeye gelen ziyaretçilerin ilgisini çeker ve doğal güzellikleri ile dikkat çeker. Bu tepe, aynı zamanda bölgenin coğrafi özelliklerini gözlemlemek için ideal bir noktadır.
+Yelekçe Tepesi, Kahramanmaraş'ta Akdeniz Bölgesi'nin güzel bir noktasında yer alır. Yelekçe Tepesi, bölgeye gelen ziyaretçilerin ilgisini çeker ve doğal güzellikleri ile dikkat çeker. Bu tepe, aynı zamanda bölgenin coğrafi özelliklerini gözlemlemek için ideal bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yelekçe Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu t
 
 ## Coğrafya
 
-Yelekçe Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu tepe, bölgenin iklimine uygun olarak şekillenmiştir ve çeşitli bitki türleri ile kaplıdır. Yelekçe Tepesi, aynı zamanda bölgenin jeolojik özelliklerini temsil eder ve çeşitli kayaçlar ile oluşmuştur. Bu tepe, bölgenin coğrafi özelliklerini gözlemlemek için ideal bir noktadır ve ziyaretçilerin bölge hakkında daha fazla bilgi edinmesine yardımcı olur. Yelekçe Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Bu tepe, aynı zamanda bölgenin su kaynaklarını temsil eder ve çeşitli akarsular ile oluşmuştur.
+Yelekçe Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu tepe, bölgenin iklimine uygun olarak şekillenmiştir ve çeşitli bitki türleri ile kaplıdır. Yelekçe Tepesi, aynı zamanda bölgenin jeolojik özelliklerini temsil eder ve çeşitli kayaçlar ile oluşmuştur. Bu tepe, bölgenin coğrafi özelliklerini gözlemlemek için ideal bir noktadır ve ziyaretçilerin bölge hakkında daha fazla bilgi edinmesine yardımcı olur. Bu tepe, aynı zamanda bölgenin su kaynaklarını temsil eder ve çeşitli akarsular ile oluşmuştur.
 
 ## Flora ve Fauna
 

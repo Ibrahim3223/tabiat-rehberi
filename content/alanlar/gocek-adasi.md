@@ -34,7 +34,7 @@ Q207998/Muğla, Türkiye'de bulunan Göcek Adası, Ege Denizi'nin sakin suların
 
 ## Tarihçe
 
-Göcek Adası, Türkiye'nin güneybatı kıyılarında, Muğla ilinin sınırları içerisinde yer alan bir ada. Bu bölge, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Muğla, antik dönemden beri çeşitli uygarlıkların yerleşim yeri olarak bilinir. Likya, Karya ve Roma uygarlıkları, bu topraklarda izlerini bırakmışlardır.
+Göcek Adası, Türkiye'nin güneybatı kıyılarında, Muğla ilinin sınırları içerisinde yer alan bir ada. Bu bölge, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Muğla, antik dönemden beri çeşitli uygarlıkların yerleşim yeri olarak bilinir. Likya, Karya ve Roma uygarlıkları, bu topraklarda izlerini bırakmışlardır.
 
 Doğal güzelliği ve stratejik konumuyla, Göcek Adası ve çevresi, tarihin akışını şekillendiren önemli bir bölgedir. Türkiye'nin diğer doğal alanları gibi, Göcek Adası da insan yerleşimlerinin ve faaliyetlerinin merkezi olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgenin tarihini zenginleştiren etkenler arasında yer alır. Likya Yolu gibi tarihi ticaret yolları, bölgenin önemini vurgular.
 

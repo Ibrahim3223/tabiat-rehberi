@@ -29,7 +29,7 @@ wikidata_id: "Q31387676"
 
 # Tavşan Tepesi (Erzurum)
 
-Tavşan Tepesi, Erzurum'un merkezine yakın bir konumda yer alır ve şehirdeki en önemli doğal güzelliklerden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet eder. Bu tepe, hem yerlilerin hem de turistlerin ilgisini çeker ve bölgenin en çok ziyaret edilen noktalarından biridir. Tavşan Tepesi, Erzurum'un tarihini ve kültürünü öğrenmek isteyenler için ideal bir destinasyondur.
+Tavşan Tepesi, Erzurum'un merkezine yakın bir konumda yer alır ve şehirdeki en önemli doğal güzelliklerden biridir. Bu tepe, hem yerlilerin hem de turistlerin ilgisini çeker ve bölgenin en çok ziyaret edilen noktalarından biridir. Tavşan Tepesi, Erzurum'un tarihini ve kültürünü öğrenmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

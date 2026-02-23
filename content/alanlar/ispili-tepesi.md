@@ -28,7 +28,7 @@ wikidata_id: "Q31388424"
 
 # İspili Tepesi
 
-İspili Tepesi, Denizli'nin gizli cenneti olarak bilinen bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. İspili Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Burada, yaban hayatı ve ekoloji hakkında detaylı bilgi sahibi olma mümkün. İspili Tepesi, her mevsim ziyaretçilerini ağırlayan ve doğa severler için bir keşif diyarı olan özel bir yer.
+İspili Tepesi, Denizli'nin gizli cenneti olarak bilinen bir doğa harikasıdır. İspili Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Burada, yaban hayatı ve ekoloji hakkında detaylı bilgi sahibi olma mümkün. İspili Tepesi, her mevsim ziyaretçilerini ağırlayan ve doğa severler için bir keşif diyarı olan özel bir yer.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390917"
 
 # Beşik Tepe
 
-Kayseri'nin İç Anadolu Bölgesi'nde yer alan Beşik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğal alan sunuyor. Beşik Tepe, hem coğrafi konumu hem de tarihi geçmişi ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı buluyorlar.
+Kayseri'nin İç Anadolu Bölgesi'nde yer alan Beşik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Beşik Tepe, hem coğrafi konumu hem de tarihi geçmişi ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı buluyorlar.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Beşik Tepe'yi ziyaret etmek, doğa severler ve tarih meraklıları için ideal 
 ## İlginç Bilgiler
 
 - Beşik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Beşik Tepe, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip.
 - Ziyaretçiler, bu tepeye çıkarak, şehrin panoramik manzarasını izleyebiliyorlar.
 - Beşik Tepe, aynı zamanda önemli bir kültürel miras olarak kabul ediliyor.

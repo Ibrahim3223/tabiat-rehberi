@@ -1,7 +1,7 @@
 ---
 title: "Karakoç Roma Hamamı"
 date: "2026-01-09T23:27:23.291Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739079"
 
 # Karakoç Roma Hamamı
 
-Karakoç Roma Hamamı, İzmir'in Seferihisar ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tarihi Roma Hamamı, ziyaretçilerini geçmişe götürerek eşsiz bir deneyim sunuyor. Ege Bölgesi'nin en önemli tarihi ve turistik mekanlarından biri olan Karakoç Roma Hamamı, her yıl binlerce ziyaretçi tarafından keşfediliyor.
+Karakoç Roma Hamamı, İzmir'in Seferihisar ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir mekan. Tarihi Roma Hamamı, ziyaretçilerini geçmişe götürerek eşsiz bir deneyim sunuyor. Ege Bölgesi'nin en önemli tarihi ve turistik mekanlarından biri olan Karakoç Roma Hamamı, her yıl binlerce ziyaretçi tarafından keşfediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karakoç Roma Hamamı, tarihi geçmişiyle dikkat çekiyor. Bu mekan, yüzyılla
 
 ## Coğrafya
 
-Karakoç Roma Hamamı, İzmir'in Seferihisar ilçesinde yer alıyor. Ege Bölgesi'nin en önemli turistik mekanlarından biri olan bu alan, 140 hektarlık bir büyüklüğe sahip. Hamam, yüksek bir konumda yer alıyor ve çevresi çeşitli bitki türleriyle kaplı. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir bölge ve yazları sıcak, kışları ılıman bir hava hüküm sürüyor. Karakoç Roma Hamamı, ziyaretçilerine zengin bir coğrafi çeşitlilik sunuyor ve Ege Bölgesi'nin güzelliklerini keşfetme fırsatı sunuyor. Hamamın etrafı, çeşitli ağaçlar ve bitki türleriyle kaplı ve ziyaretçilere doğayla iç içe bir ortam sunuyor.
+Karakoç Roma Hamamı, İzmir'in Seferihisar ilçesinde yer alıyor. Hamam, yüksek bir konumda yer alıyor ve çevresi çeşitli bitki türleriyle kaplı. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir bölge ve yazları sıcak, kışları ılıman bir hava hüküm sürüyor. Karakoç Roma Hamamı, ziyaretçilerine zengin bir coğrafi çeşitlilik sunuyor ve Ege Bölgesi'nin güzelliklerini keşfetme fırsatı sunuyor. Hamamın etrafı, çeşitli ağaçlar ve bitki türleriyle kaplı ve ziyaretçilere doğayla iç içe bir ortam sunuyor.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227578"
 
 # Kastamonu-Daday-Ballidag Saricam
 
-Kastamonu ilinin Daday ilçesinde bulunan Ballidag Saricam milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan sunuyor. Bu bölge, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Milli parkın içinde çeşitli bitki türleri ve zengin fauna found. Kastamonu-Daday-Ballidag Saricam milli parkı, özellikle doğa yürüyüşleri ve kamp yapmak isteyenler için ideal bir destinasyon.
+ Bu bölge, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Milli parkın içinde çeşitli bitki türleri ve zengin fauna found. Kastamonu-Daday-Ballidag Saricam milli parkı, özellikle doğa yürüyüşleri ve kamp yapmak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

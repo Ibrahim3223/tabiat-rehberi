@@ -50,9 +50,9 @@ Yaran Dağı'nın iklim karakteri, mevsimsel olarak değişkenlik gösteriyor. K
 
 ## Flora ve Fauna
 
-Yaran Dağı, Kütahya'nın zeytinli ve çam ormanları ile çevrili dağ ekosisteminin zenginliklerini sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yaran Dağı, Kütahya'nın zeytinli ve çam ormanları ile çevrili dağ ekosisteminin zenginliklerini sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünü çam ormanları ve alpin flora karakterize eder. İlkbaharın gelmesiyle birlikte dağ yamaçları renkli çiçeklerle donanır. Sonbaharda ise zeytinliklerin olgunlaşmasıyla birlikte dağ manzarası değişir. 
+Bitki örtüsünü çam ormanları ve alpin flora karakterize eder. İlkbaharın gelmesiyle birlikte dağ yamaçları renkli çiçeklerle donanır. Sonbaharda ise zeytinliklerin olgunlaşmasıyla birlikte dağ manzarası değişir.
 
 Yaban hayatını memeliler, kuşlar ve sürüngenler oluşturur. Dağ keçileri ve yaban domuzları gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri göç yolları üzerinde bu alanı kullanır. Ekolojik değerini, zeytinlikler ve çam ormanları arasındaki denge ve dağ ekosisteminin yükseklik zonlarına bağımlı canlılar oluşturur.
 

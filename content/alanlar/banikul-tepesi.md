@@ -28,7 +28,7 @@ wikidata_id: "Q31547831"
 
 # Banikul Tepesi
 
-Banikul Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve bölgeye has doğal güzellikleriyle dikkat çeken bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna encontrabilir, bu da bölgeyi doğa severler için bir cennet haline getiriyor. Banikul Tepesi, hem doğayı keşfetmek hem de bölge tarihini öğrenmek isteyenler için ideal bir destinasyon.
+Banikul Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve bölgeye has doğal güzellikleriyle dikkat çeken bir tepe. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna encontrabilir, bu da bölgeyi doğa severler için bir cennet haline getiriyor. Banikul Tepesi, hem doğayı keşfetmek hem de bölge tarihini öğrenmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

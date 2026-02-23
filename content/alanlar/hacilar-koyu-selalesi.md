@@ -22,7 +22,7 @@ wikidata_id: "Q19611391"
 
 # Hacılar köyü şelalesi
 
-Hacılar Köyü Şelalesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alan içinde bulunan şelale, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu doğal güzellik, ziyaretçilerini büyüleyen bir atmosfere sahiptir. Hacılar Köyü Şelalesi, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmesi gereken bir yerdir. Şelalenin çevresinde çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Hacılar Köyü Şelalesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu doğal güzellik, ziyaretçilerini büyüleyen bir atmosfere sahiptir. Hacılar Köyü Şelalesi, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmesi gereken bir yerdir. Şelalenin çevresinde çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Hacılar Köyü Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden b
 
 ## Coğrafya
 
-Hacılar Köyü Şelalesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir coğrafi oluşumdur. Şelale, 140 hektarlık yeşil alanın içinde yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şelalenin çevresinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölge, İç Anadolu Bölgesi'nin karakteristik iklim koşullarına sahiptir. Şelale, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Hacılar Köyü Şelalesi, Ankara kent merkezine uzun bir mesafe uzaklıktadır. Şelaleye ulaşmak için, Ankara'dan Hacılar Köyü'ne giden yol takip edilmelidir.
+Hacılar Köyü Şelalesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir coğrafi oluşumdur. Şelalenin çevresinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölge, İç Anadolu Bölgesi'nin karakteristik iklim koşullarına sahiptir. Şelale, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Hacılar Köyü Şelalesi, Ankara kent merkezine uzun bir mesafe uzaklıktadır. Şelaleye ulaşmak için, Ankara'dan Hacılar Köyü'ne giden yol takip edilmelidir.
 
 ## Flora ve Fauna
 

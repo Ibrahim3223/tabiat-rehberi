@@ -22,7 +22,7 @@ wikidata_id: "Q108227717"
 
 # Sinop-Ayancik-Kumluk Cinar 2
 
-Sinop-Ayancik-Kumluk Cinar 2, Karadeniz Bölgesi'nin doğal güzellikleri içinde yer alan bir milli parktır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve ziyaretçilerini güzel manzaralarıyla karşılar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilerin doğanın güzelliğini keşfetmek için ne kadar geniş bir alanları olduğunun anlaşılması mümkün olur. Sinop-Ayancik-Kumluk Cinar 2, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu milli park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir ve ziyaretçilerini bekliyor.
+Sinop-Ayancik-Kumluk Cinar 2, Karadeniz Bölgesi'nin doğal güzellikleri içinde yer alan bir milli parktır. Sinop-Ayancik-Kumluk Cinar 2, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu milli park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

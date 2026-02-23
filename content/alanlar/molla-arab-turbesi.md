@@ -1,7 +1,7 @@
 ---
 title: "Molla Arab Türbesi"
 date: "2026-01-10T06:30:44.327Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390741"
 
 # Molla Arab Türbesi
 
-Molla Arab Türbesi, Bursa'nın Yıldırım ilçesinde yer alan ve tarihi öneme sahip bir mekan. 140 hektarlık bir alan üzerinde kurulmuş olan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde. Molla Arab Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Bu mekan, hem yerli hem de yabancı turistler için önemli bir gezi noktası.
+Molla Arab Türbesi, Bursa'nın Yıldırım ilçesinde yer alan ve tarihi öneme sahip bir mekan. Molla Arab Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Bu mekan, hem yerli hem de yabancı turistler için önemli bir gezi noktası.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Molla Arab Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu mek
 
 ## Coğrafya
 
-Molla Arab Türbesi, Bursa'nın Yıldırım ilçesinde yer alır. Bu mekan, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Molla Arab Türbesi, çevresindeki doğal güzelliklerle birlikte ziyaretçilerini büyüler. Bu mekan, Marmara Bölgesi'nin coğrafi özelliklerini taşır ve iklimi ılımandır. Çevresinde çeşitli bitki türleri bulunur ve fauna açısından da zengindir. Molla Arab Türbesi, hem doğal güzellikleri hem de tarihi önemiyle ziyaretçilerini çekmektedir.
+Molla Arab Türbesi, Bursa'nın Yıldırım ilçesinde yer alır. Molla Arab Türbesi, çevresindeki doğal güzelliklerle birlikte ziyaretçilerini büyüler. Bu mekan, Marmara Bölgesi'nin coğrafi özelliklerini taşır ve iklimi ılımandır. Çevresinde çeşitli bitki türleri bulunur ve fauna açısından da zengindir. Molla Arab Türbesi, hem doğal güzellikleri hem de tarihi önemiyle ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Molla Arab Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini g
 ## İlginç Bilgiler
 
 - Molla Arab Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur.
-- Bu mekan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Molla Arab Türbesi, yüzyıllar öncesine dayanan bir tarihe sahiptir.
 - Bu mekan, flora ve fauna açısından zengin bir alandır.
 - Molla Arab Türbesi, yılın her dönemi ziyaret edilebilir.

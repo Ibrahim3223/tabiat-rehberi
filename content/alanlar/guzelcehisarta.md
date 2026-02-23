@@ -1,7 +1,7 @@
 ---
 title: "GUZELCEHISAR_TA"
 date: "2026-01-09T21:31:47.221Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228804"
 
 # GUZELCEHISAR_TA
 
-GUZELCEHISAR_TA, İç Anadolu Bölgesi'nin natuur güzelliklerini keşfe çıkmak isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçiler çeşitli bitki türleri ve zengin fauna ile karşılaşabiliyor. Doğal güzelliği, gezi severlerin ilgisini çekiyor ve bu bölge, İç Anadolu Bölgesi'nin önemli turizm noktalarından biri olarak öne çıkıyor.
+GUZELCEHISAR_TA, İç Anadolu Bölgesi'nin natuur güzelliklerini keşfe çıkmak isteyenler için ideal bir destinasyon. Doğal güzelliği, gezi severlerin ilgisini çekiyor ve bu bölge, İç Anadolu Bölgesi'nin önemli turizm noktalarından biri olarak öne çıkıyor.
 
 ## Tarihçe
 

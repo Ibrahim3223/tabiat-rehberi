@@ -51,7 +51,7 @@ Mevsimsel değişikliklere göre hava durumu değişen Büyük Tepe, ilkbahar ve
 
 Büyük Tepe, Kırklareli'nin gözde doğal güzelliği, geçiş ikliminin hakim olduğu bir bölge. Bu dağ ekosisteminde, karma ormanlar ve yükseklik zonları birlikte var oluyor. İlkbaharla birlikte, alpin flora canlanıyor ve renkli çiçekler ortaya çıkıyor. Sonbaharda ise, göçmen kuşlar bu rotada görülüyor.
 
-Bitki örtüsüne baktığımızda, çeşitli ağaç türleri ve otsu bitkiler görüyoruz. Mevsimsel değişimlerle birlikte, bu bitkiler farklı görünümde oluyor. Kışın karla kaplı olan dağ, ilkbaharda yeşilleniyor. Dağ hayvanları da bu ekosistemin bir parçası. Memeliler, kuşlar ve sürüngenler, bu dağda yaşamını sürdürüyor. Göçmen kuşlar, burayı önemli bir uğrak noktası olarak kullanıyor. 
+Bitki örtüsüne baktığımızda, çeşitli ağaç türleri ve otsu bitkiler görüyoruz. Mevsimsel değişimlerle birlikte, bu bitkiler farklı görünümde oluyor. Kışın karla kaplı olan dağ, ilkbaharda yeşilleniyor. Dağ hayvanları da bu ekosistemin bir parçası. Memeliler, kuşlar ve sürüngenler, bu dağda yaşamını sürdürüyor. Göçmen kuşlar, burayı önemli bir uğrak noktası olarak kullanıyor.
 
 Bu ekosistemin koruma durumu oldukça önemli. Büyük Tepe'nin doğal güzelliği ve biyolojik çeşitliliği, gelecek nesiller için korunması gereken bir değer. Bu bölgenin korunmasına dikkat etmek, gelecek nesiller için çok önemli.
 

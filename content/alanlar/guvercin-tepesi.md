@@ -28,7 +28,7 @@ wikidata_id: "Q32139705"
 
 # Güvercin Tepesi
 
-Güvercin Tepesi, Samsun'un önemli bir turizm noktası olarak bilinir. Bu tepe, Karadeniz Bölgesi'nin güzide noktalarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada bulunan doğal güzellikler, ziyaretçilerini cezbeder. Güvercin Tepesi'nin etrafında çeşitli bitki türleri bulunur ve bu tepenin manzarası, özellikle gün batımında muhteşemdir. Tepenin yüksekliği, ziyaretçilerin etraftaki güzel manzarayı seyretmesine olanak tanır. Ayrıca, bu bölgeye gelenler, doğa yürüyüşü yapabilir, çevreyi keşfedebilir ve burada bulunan doğal güzellikleri keşfedebilir.
+Güvercin Tepesi, Samsun'un önemli bir turizm noktası olarak bilinir. Bu tepe, Karadeniz Bölgesi'nin güzide noktalarından biridir. Güvercin Tepesi'nin etrafında çeşitli bitki türleri bulunur ve bu tepenin manzarası, özellikle gün batımında muhteşemdir. Tepenin yüksekliği, ziyaretçilerin etraftaki güzel manzarayı seyretmesine olanak tanır. Ayrıca, bu bölgeye gelenler, doğa yürüyüşü yapabilir, çevreyi keşfedebilir ve burada bulunan doğal güzellikleri keşfedebilir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32196168"
 
 # Yükselen Tepe
 
-Yükselen Tepe, Kastamonu'nun en önemli doğal güzelliklerinden biri olarak bilinir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Yükselen Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte bir gezi deneyimi sunuyor. Bu tepe, Kastamonu'nun merkezine yakın bir konumda yer alıyor ve kolayca ulaşılabilir. Yükselen Tepe, her mevsim ziyaretçilerini ağırlamak için hazır, ancak özellikle ilkbahar ve sonbahar aylarında ziyaret edilmesi önerilir.
+Yükselen Tepe, Kastamonu'nun en önemli doğal güzelliklerinden biri olarak bilinir. Yükselen Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte bir gezi deneyimi sunuyor. Bu tepe, Kastamonu'nun merkezine yakın bir konumda yer alıyor ve kolayca ulaşılabilir. Yükselen Tepe, her mevsim ziyaretçilerini ağırlamak için hazır, ancak özellikle ilkbahar ve sonbahar aylarında ziyaret edilmesi önerilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yükselen Tepe'nin tarihi geçmişi, Kastamonu'nun tarihi geçmişiyle iç içe 
 
 ## Coğrafya
 
-Yükselen Tepe, Kastamonu'nun merkezine yakın bir konumda yer alıyor. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Yükselen Tepe'nin coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikleri sunuyor. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Yükselen Tepe, Karadeniz Bölgesi'nin karakteristik coğrafi yapısını taşıyor ve ziyaretçilerine bu bölgenin güzelliklerini sunuyor. Bu tepe, özellikle ilkbahar ve sonbahar aylarında ziyaret edildiğinde, ziyaretçilerine doğanın tüm güzelliklerini gösteriyor.
+Yükselen Tepe, Kastamonu'nun merkezine yakın bir konumda yer alıyor. Yükselen Tepe'nin coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikleri sunuyor. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Yükselen Tepe, Karadeniz Bölgesi'nin karakteristik coğrafi yapısını taşıyor ve ziyaretçilerine bu bölgenin güzelliklerini sunuyor. Bu tepe, özellikle ilkbahar ve sonbahar aylarında ziyaret edildiğinde, ziyaretçilerine doğanın tüm güzelliklerini gösteriyor.
 
 ## Flora ve Fauna
 

@@ -33,9 +33,9 @@ Mardin'in tarihi ve kültürel zenginliklerinin arasında yer alan Kur Tepe, ili
 
 ## Tarihçe
 
-Mardin'in doğusunda yer alan Kur Tepe, tarihin sâu izlerini taşıyan bir bölgede bulunmaktadır. Mardin, binlerce yıllık geçmişinde birçok uygarlığa ev sahipliği yapmış bir şehirdir. Hititler, Asurlular, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, bu bölgeyi kontrol altında tutmuşlardır. Bu zengin tarihsel miras, doğal alanların da kültürel ve ekonomik açıdan önemli olduğunu göstermektedir.
+Mardin'in doğusunda yer alan Kur Tepe, tarihin derin izlerini taşıyan bir bölgede bulunmaktadır. Mardin, binlerce yıllık geçmişinde birçok uygarlığa ev sahipliği yapmış bir şehirdir. Hititler, Asurlular, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, bu bölgeyi kontrol altında tutmuşlardır. Bu zengin tarihsel miras, doğal alanların da kültürel ve ekonomik açıdan önemli olduğunu göstermektedir.
 
-Türkiye'de, özellikle güneydoğu bölgelerinde, doğal alanlar histórik ticaret yolları ve yaylacılık faaliyetleri için önemli merkezler olmuştur. İnsanların bu alanlarla ilişkisi, genellikle hayvancılık, tarım ve ticaret faaliyetlerine dayanmaktadır. Mardin bölgesinde de, benzer şekilde, doğal alanlar insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde yer almıştır.
+Türkiye'de, özellikle güneydoğu bölgelerinde, doğal alanlar tarihi ticaret yolları ve yaylacılık faaliyetleri için önemli merkezler olmuştur. İnsanların bu alanlarla ilişkisi, genellikle hayvancılık, tarım ve ticaret faaliyetlerine dayanmaktadır. Mardin bölgesinde de, benzer şekilde, doğal alanlar insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde yer almıştır.
 
 Kur Tepe ve benzeri doğal alanlar, sadece yerel ekosistemi korumakla kalmaz, aynı zamanda bölgenin ekonomi ve kültürel zenginliğine de katkıda bulunurlar. Bu bölgelerin korunması, sadece doğal güzelliklerini korumak değil, aynı zamanda tarihsel ve kültürel mirasın gelecek nesillere aktarılmasını sağlamak anlamına da gelmektedir.
 

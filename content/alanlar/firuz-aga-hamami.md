@@ -1,7 +1,7 @@
 ---
 title: "Firuz Ağa Hamamı"
 date: "2026-01-09T22:48:14.400Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738588"
 
 # Firuz Ağa Hamamı
 
-Firuz Ağa Hamamı, İstanbul'un kalbi olan Beyoğlu'nda, Marmara Bölgesi'nin en önemli turistik merkezlerinden biri olarak karşımıza çıkıyor. 1400'lü yıllardan bu yana hizmet veren bu tarihi hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu büyük alan, hem yerel halkın hem de turistlerin sıklıkla ziyaret ettiği bir yer olarak biliniyor. Hamamın tarihi geçmişi, bölgenin kültürel zenginliğini yansıtan önemli bir miras olarak görülüyor. İstanbul'un en önemli turistik noktalarından biri olan Firuz Ağa Hamamı, ziyaretçilerini bekliyor.
+Firuz Ağa Hamamı, İstanbul'un kalbi olan Beyoğlu'nda, Marmara Bölgesi'nin en önemli turistik merkezlerinden biri olarak karşımıza çıkıyor. Bu büyük alan, hem yerel halkın hem de turistlerin sıklıkla ziyaret ettiği bir yer olarak biliniyor. Hamamın tarihi geçmişi, bölgenin kültürel zenginliğini yansıtan önemli bir miras olarak görülüyor. İstanbul'un en önemli turistik noktalarından biri olan Firuz Ağa Hamamı, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Firuz Ağa Hamamı'nın etrafı, İstanbul'un şehir hayatının ortasında yeş
 
 ## Ziyaret Bilgileri
 
-Firuz Ağa Hamamı'nı ziyaret etmek, İstanbul'un tarihi ve kültürel zenginliğini keşfetmek isteyenler için önemli bir deneyim. Hamama ulaşım, İstanbul'un merkezi bir noktasında bulunması nedeniyle oldukça kolay. Ziyaretçiler, hamamın história geçmişi ve mimarisi hakkında bilgi edinebilirler. Hamamın çevresinde, çeşitli restoran ve kafe gibi tesisler bulunuyor. Bunlar, ziyaretçilere hamam ziyaretinin ardından dinlenme ve yemek yeme imkanı sunuyor. Firuz Ağa Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, hamamın tarihi atmosferini daha iyi hissetmek için, ilkbahar veya sonbahar ayları ziyaret için en uygun zamanlar.
+Firuz Ağa Hamamı'nı ziyaret etmek, İstanbul'un tarihi ve kültürel zenginliğini keşfetmek isteyenler için önemli bir deneyim. Hamama ulaşım, İstanbul'un merkezi bir noktasında bulunması nedeniyle oldukça kolay. Ziyaretçiler, hamamın tarihi geçmişi ve mimarisi hakkında bilgi edinebilirler. Hamamın çevresinde, çeşitli restoran ve kafe gibi tesisler bulunuyor. Bunlar, ziyaretçilere hamam ziyaretinin ardından dinlenme ve yemek yeme imkanı sunuyor. Firuz Ağa Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, hamamın tarihi atmosferini daha iyi hissetmek için, ilkbahar veya sonbahar ayları ziyaret için en uygun zamanlar.
 
 ## İlginç Bilgiler
 

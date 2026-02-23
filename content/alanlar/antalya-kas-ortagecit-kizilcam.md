@@ -22,7 +22,7 @@ wikidata_id: "Q108227850"
 
 # Antalya-Kas-Ortagecit Kızılçam
 
-Antalya-Kas-Ortagecit Kızılçam milli parkı, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir doğa harikası. Bu alan, yaban hayatının zengin çeşitliliğini ve ekosistemin dengesini korumak amacıyla kurulmuş. Doğa severler için bir cennet olan bu milli park, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir ortam sunuyor.
+ Bu alan, yaban hayatının zengin çeşitliliğini ve ekosistemin dengesini korumak amacıyla kurulmuş. Doğa severler için bir cennet olan bu milli park, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir ortam sunuyor.
 
 ## Tarihçe
 

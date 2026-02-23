@@ -28,7 +28,7 @@ wikidata_id: "Q34829750"
 
 # Ömer Tepesi
 
-Ömer Tepesi, Karadeniz Bölgesi'nin güzide illerinden Sinop'ta yer alan bir tepe ve doğal alan olarak biliniyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Ömer Tepesi, ziyaretçilerini yeşilin her tonunu barındıran bir doğa harikası olarak karşılıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bu özel tepe, Sinop'un önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Ömer Tepesi, Karadeniz Bölgesi'nin güzide illerinden Sinop'ta yer alan bir tepe ve doğal alan olarak biliniyor. Ömer Tepesi, ziyaretçilerini yeşilin her tonunu barındıran bir doğa harikası olarak karşılıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bu özel tepe, Sinop'un önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

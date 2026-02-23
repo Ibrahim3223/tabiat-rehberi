@@ -29,7 +29,7 @@ wikidata_id: "Q1972153"
 
 # Sivriada
 
-İstanbul'un kalbinde, Prens Adaları'nın bir parçası olan Sivriada, históriki ve doğal güzellikleriyle dikkat çekiyor. Bu küçük ada, İstanbul'un siluetini süsleyen önemli bir nokta. İstanbul'un kıyı şeridinin güzelliğini tamamlayan Sivriada, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası sunuyor. İstanbul'un önemli turistik noktalarından biri olan Sivriada, ziyaretçilerini bekliyor.
+İstanbul'un kalbinde, Prens Adaları'nın bir parçası olan Sivriada, tarihi ve doğal güzellikleriyle dikkat çekiyor. Bu küçük ada, İstanbul'un siluetini süsleyen önemli bir nokta. İstanbul'un kıyı şeridinin güzelliğini tamamlayan Sivriada, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası sunuyor. İstanbul'un önemli turistik noktalarından biri olan Sivriada, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Doğal güzelliği ile dikkat çeken Sivriada, boyut olarak birkaç olimpik havu
 
 ## Flora ve Fauna
 
-Sivriada, İstanbul'un kıyılarında yer alan bir ada olarak, geçiş ikliminin etkisi altında karma orman ekosistemine ev sahipliği yapmaktadır. Bu ada, göçmen kuş rotasının üzerinde bulunduğundan, her mevsim farklı bir güzelliğe bürünür. 
+Sivriada, İstanbul'un kıyılarında yer alan bir ada olarak, geçiş ikliminin etkisi altında karma orman ekosistemine ev sahipliği yapmaktadır. Bu ada, göçmen kuş rotasının üzerinde bulunduğundan, her mevsim farklı bir güzelliğe bürünür.
 
 İlkbahar aylarında, ada çiçeklerle dolar ve renkli bir manzara ortaya çıkar. Kıyı şeridinde, tuzlu suya dayanıklı bitkiler hakimdir. Sonbaharda ise, göçmen kuşlar ada üzerinde konaklar ve bu dönemde ada, çeşitli kuş türleriyle canlılık kazanır.
 

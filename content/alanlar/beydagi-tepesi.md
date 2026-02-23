@@ -29,7 +29,7 @@ wikidata_id: "Q31389146"
 
 # Beydağı Tepesi
 
-Beydağı Tepesi, Marmara Bölgesi'nin önemli bir doğal güzelliği olarak Balıkesir'in merkezinde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Doğal güzelliği ve tarihi geçmişi ile dikkat çeker. Beydağı Tepesi, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başarır. Doğal güzelliğinin yanı sıra, tarihi ve kültürel zenginliği ile de ziyaretçilerini etkiler. Ziyaretçiler, bu tepeye çıkarak hem şehri panoramik olarak görebilir hem de bölgenin tarihi hakkında bilgi edinebilirler.
+Beydağı Tepesi, Marmara Bölgesi'nin önemli bir doğal güzelliği olarak Balıkesir'in merkezinde yer alır. Doğal güzelliği ve tarihi geçmişi ile dikkat çeker. Beydağı Tepesi, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başarır. Doğal güzelliğinin yanı sıra, tarihi ve kültürel zenginliği ile de ziyaretçilerini etkiler. Ziyaretçiler, bu tepeye çıkarak hem şehri panoramik olarak görebilir hem de bölgenin tarihi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 

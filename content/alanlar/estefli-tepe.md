@@ -28,7 +28,7 @@ wikidata_id: "Q31385835"
 
 # Eştefli Tepe
 
-Eştefli Tepe, Aksaray'ın merkezinde yer alan ve bölgeye hakim bir tepe olarak known. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafi yapısını belirleyen önemli bir nokta. Eştefli Tepe, Aksaray'ın tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan olarak ziyaretçilerini bekliyor. Tarihi geçmişi, coğrafi özellikleri ve doğal güzellikleri ile eşsiz bir gezi deneyimi sunuyor.
+Eştefli Tepe, Aksaray'ın merkezinde yer alan ve bölgeye hakim bir tepe olarak known. Eştefli Tepe, Aksaray'ın tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan olarak ziyaretçilerini bekliyor. Tarihi geçmişi, coğrafi özellikleri ve doğal güzellikleri ile eşsiz bir gezi deneyimi sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Eştefli Tepe'nin tarihi geçmişi, Aksaray'ın tarihi ile iç içe geçmiş dur
 
 ## Coğrafya
 
-Eştefli Tepe, Aksaray'ın coğrafi yapısını belirleyen önemli bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini sunuyor. Eştefli Tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle step ve bozkır alanlarla kaplı ve iklimi karasal. Eştefli Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu tepe, Aksaray'ın coğrafi yapısını ve doğal güzelliklerini gözler önüne seren önemli bir nokta.
+Eştefli Tepe, Aksaray'ın coğrafi yapısını belirleyen önemli bir tepe. Eştefli Tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle step ve bozkır alanlarla kaplı ve iklimi karasal. Eştefli Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu tepe, Aksaray'ın coğrafi yapısını ve doğal güzelliklerini gözler önüne seren önemli bir nokta.
 
 ## Flora ve Fauna
 

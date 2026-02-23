@@ -1,7 +1,7 @@
 ---
 title: "Sakar Baba Türbesi"
 date: "2026-01-10T05:06:25.152Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sakarya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391619"
 
 # Sakar Baba Türbesi
 
-Sakar Baba Türbesi, Adapazarı'nın Sakarya ilçesinde bulunan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Sakar Baba Türbesi, Sakarya Nehri'nin kıyısında yer alıyor ve çevresindeki yeşillikler ile birlikte güzel bir manzara sunuyor. Tarihi yapılar, doğa yürüyüşleri ve bol oksijen, bu destinasyonu ziyaret etmek için yeterli nedenler.
+Sakar Baba Türbesi, Adapazarı'nın Sakarya ilçesinde bulunan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyon. Sakar Baba Türbesi, Sakarya Nehri'nin kıyısında yer alıyor ve çevresindeki yeşillikler ile birlikte güzel bir manzara sunuyor. Tarihi yapılar, doğa yürüyüşleri ve bol oksijen, bu destinasyonu ziyaret etmek için yeterli nedenler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sakar Baba Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu tarihin tam olarak
 
 ## Coğrafya
 
-Sakar Baba Türbesi, coğrafi konumu itibariyle de dikkat çekiyor. Sakarya Nehri'nin kıyısında yer alan bu destinasyon, Marmara Bölgesi'nin coğrafi güzelliklerini ziyaretçilerine sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Çevresindeki yeşillikler, Sakarya Nehri ve diğer doğal güzellikler, bu destinasyonu ziyaret etmek için yeterli nedenler. Coğrafi olarak zengin bir bölge olan Sakarya, ziyaretçilerine çeşitli coğrafi güzellikler sunuyor. Sakar Baba Türbesi, bu güzelliklerin önemli bir parçası.
+Sakar Baba Türbesi, coğrafi konumu itibariyle de dikkat çekiyor. Sakarya Nehri'nin kıyısında yer alan bu destinasyon, Marmara Bölgesi'nin coğrafi güzelliklerini ziyaretçilerine sunuyor. Çevresindeki yeşillikler, Sakarya Nehri ve diğer doğal güzellikler, bu destinasyonu ziyaret etmek için yeterli nedenler. Coğrafi olarak zengin bir bölge olan Sakarya, ziyaretçilerine çeşitli coğrafi güzellikler sunuyor. Sakar Baba Türbesi, bu güzelliklerin önemli bir parçası.
 
 ## Flora ve Fauna
 

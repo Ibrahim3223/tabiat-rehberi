@@ -1,7 +1,7 @@
 ---
 title: "Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi"
 date: "2026-01-10T05:44:20.100Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q135430365"
 
 # Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi
 
-Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi, Üsküdar ilçesinde denize doğru uzanan bir yarımadada yer alır. Bu tarihi türbe, yaklaşık 140 hektarlık bir yeşil alanın içerisinde bulunur ve çevresindeki natuur ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin bulunduğu bu alan, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet eder. Şehrin merkezine yakın bir konumda olması, burayı hem yerli hem de yabancı ziyaretçiler için cazip bir destinasyon haline getirir.
+Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi, Üsküdar ilçesinde denize doğru uzanan bir yarımadada yer alır. Türbenin bulunduğu bu alan, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet eder. Şehrin merkezine yakın bir konumda olması, burayı hem yerli hem de yabancı ziyaretçiler için cazip bir destinasyon haline getirir.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi'ni ziyaret etmek, özellikle
 
 - Türbenin inşaatı, Osmanlı döneminde gerçekleşmiştir.
 - Türbe, yüzyıllar boyunca birçok restorasyon çalışması geçirmiştir.
-- Türbe ve çevresindeki yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Türbenin bulunduğu yarımadanın hinterlandında, denize doğru uzanan bir kıyı şeridi bulunur.

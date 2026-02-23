@@ -29,7 +29,7 @@ wikidata_id: "Q31386960"
 
 # Sığırkuyruğu Tepe
 
-Sığırkuyruğu Tepe, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Sığırkuyruğu Tepe, hem yerlilerin hem de turistlerin ziyaret ettiği bir noktadır. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkündür. Sığırkuyruğu Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu özelliği ile dikkat çekicidir. Bu tepe, doğa severlerin ve macera arayışında olanların ziyaret etmesi gereken bir yerdir.
+Sığırkuyruğu Tepe, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Sığırkuyruğu Tepe, hem yerlilerin hem de turistlerin ziyaret ettiği bir noktadır. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkündür. Bu tepe, doğa severlerin ve macera arayışında olanların ziyaret etmesi gereken bir yerdir.
 
 ## Tarihçe
 

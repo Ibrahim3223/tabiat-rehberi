@@ -28,7 +28,7 @@ wikidata_id: "Q32138729"
 
 # Göztaşı Tepe
 
-Göztaşı Tepe, Karaman'ın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar. Bu tepe, Karaman'ın coğrafi konumuyla da dikkat çekiyor. Şehir merkezine yakın konumuyla, ziyaretçiler için ulaşımı kolaylaştırıyor. Göztaşı Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor.
+Göztaşı Tepe, Karaman'ın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Bu tepe, Karaman'ın coğrafi konumuyla da dikkat çekiyor. Şehir merkezine yakın konumuyla, ziyaretçiler için ulaşımı kolaylaştırıyor. Göztaşı Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor.
 
 ## Tarihçe
 

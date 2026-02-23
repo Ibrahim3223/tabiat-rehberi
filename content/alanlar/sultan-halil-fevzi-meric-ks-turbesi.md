@@ -1,7 +1,7 @@
 ---
 title: "Sultan Halil Fevzi Meriç K.S. Türbesi"
 date: "2026-01-10T06:55:47.787Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390783"
 
 # Sultan Halil Fevzi Meriç K.S. Türbesi
 
-Düzce'nin merkezi bölgesinde yer alan Sultan Halil Fevzi Meriç K.S. Türbesi, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon teşkil ediyor. 140 hektarlık bir alan üzerine kurulu olan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki doğal güzellikleriyle ziyaretçilerini cezbediyor. Sultan Halil Fevzi Meriç K.S. Türbesi, hem dini açıdan hem de tarihi ve kültürel önemi nedeniyle önemli bir merkez olarak kabul ediliyor.
+Düzce'nin merkezi bölgesinde yer alan Sultan Halil Fevzi Meriç K.S. Türbesi, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon teşkil ediyor. Sultan Halil Fevzi Meriç K.S. Türbesi, hem dini açıdan hem de tarihi ve kültürel önemi nedeniyle önemli bir merkez olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sultan Halil Fevzi Meriç K.S. Türbesi, tarihi geçmişi ile dikkat çekiyor. B
 
 ## Coğrafya
 
-Sultan Halil Fevzi Meriç K.S. Türbesi, Karadeniz Bölgesi'nin doğal güzelliklerine sahiptir. Türbenin bulunduğu Düzce ili, dağlık ve ormanlık alanlarıyla ünlü bir bölgedir. Bu bölgede, çeşitli bitki türleri ve zengin fauna encontrar. Türbenin çevresi, yeşilin farklı tonlarını sunan ormanlarla kaplı ve ziyaretçilere doğayla iç içe bir deneyim sunuyor. İklim olarak, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli havası hakim. Bu coğrafi özellikler, Sultan Halil Fevzi Meriç K.S. Türbesi'nin doğal güzelliklerini daha da vurguluyor ve ziyaretçilere benzersiz bir expérience sunuyor.
+Sultan Halil Fevzi Meriç K.S. Türbesi, Karadeniz Bölgesi'nin doğal güzelliklerine sahiptir. Türbenin bulunduğu Düzce ili, dağlık ve ormanlık alanlarıyla ünlü bir bölgedir. Bu bölgede, çeşitli bitki türleri ve zengin fauna encontrar. Türbenin çevresi, yeşilin farklı tonlarını sunan ormanlarla kaplı ve ziyaretçilere doğayla iç içe bir deneyim sunuyor. İklim olarak, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli havası hakim. Bu coğrafi özellikler, Sultan Halil Fevzi Meriç K.S. Türbesi'nin doğal güzelliklerini daha da vurguluyor ve ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

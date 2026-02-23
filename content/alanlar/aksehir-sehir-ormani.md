@@ -22,7 +22,7 @@ wikidata_id: "Q108228692"
 
 # AKŞEHİR ŞEHİR ORMANI
 
-Akşehir Şehir Ormanı, yaklaşık 140 hektarlık alanı ile İç Anadolu Bölgesi'nin en önemli yeşil alanlarından biri. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en büyük yeşil alanlarından. Orman, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet veriyor. Ziyaretçiler, doğa yürüyüşü yaparak, piknik alanlarında dinlenere veya sadece doğanın güzelliğini seyrederek zaman geçirebiliyorlar. Orman, ayrıca çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahip.
+Akşehir Şehir Ormanı, yaklaşık 140 hektarlık alanı ile İç Anadolu Bölgesi'nin en önemli yeşil alanlarından biri. Orman, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet veriyor. Ziyaretçiler, doğa yürüyüşü yaparak, piknik alanlarında dinlenere veya sadece doğanın güzelliğini seyrederek zaman geçirebiliyorlar. Orman, ayrıca çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahip.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Akşehir Şehir Ormanı, ziyaretçilerine birçok olanak sunuyor. Ziyaretçiler,
 
 ## İlginç Bilgiler
 
-- Orman, yaklaşık 200 futbol sahası büyüklüğünde.
 - Akşehir Şehir Ormanı, İç Anadolu Bölgesi'nin en önemli yeşil alanlarından biri.
 - Orman, zengin bir flora ve fauna ile ziyaretçilerini karşılıyor.
 - Orman, mevsimsel değişimlere göre, farklı bitki ve hayvan türleri ile ziyaretçilerini büyülüyor.

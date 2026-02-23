@@ -28,7 +28,7 @@ wikidata_id: "Q31386040"
 
 # Atağrı Tepesi
 
-Atağrı Tepesi, Konya ilinin coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. İç Anadolu Bölgesi'nin coğrafi çeşitliliği düşünüldüğünde, Atağrı Tepesi bu bölgenin zengin doğal mirasının önemli bir parçasını oluşturuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Atağrı Tepesi, Konya ilinin coğrafi yapısını şekillendiren önemli bir nokta. İç Anadolu Bölgesi'nin coğrafi çeşitliliği düşünüldüğünde, Atağrı Tepesi bu bölgenin zengin doğal mirasının önemli bir parçasını oluşturuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 

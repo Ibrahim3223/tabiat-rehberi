@@ -28,7 +28,7 @@ wikidata_id: "Q31572385"
 
 # Hacının Tepesi
 
-Hacının Tepesi, Van'ın eşsiz doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu tepe, Van'ın merkezine yakın bir konumda yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Hacının Tepesi'ni ziyaret ettiğinizde, bölgenin tarihi geçmişini ve kültürel zenginliğini keşfetme fırsatını da yakalayacaksınız.
+Hacının Tepesi, Van'ın eşsiz doğal güzelliklerinden biridir. Bu tepe, Van'ın merkezine yakın bir konumda yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Hacının Tepesi'ni ziyaret ettiğinizde, bölgenin tarihi geçmişini ve kültürel zenginliğini keşfetme fırsatını da yakalayacaksınız.
 
 ## Tarihçe
 

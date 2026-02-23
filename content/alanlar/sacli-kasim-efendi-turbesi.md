@@ -1,7 +1,7 @@
 ---
 title: "Saçlı Kasım Efendi Türbesi"
 date: "2026-01-10T07:50:24.204Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391177"
 
 # Saçlı Kasım Efendi Türbesi
 
-Saçlı Kasım Efendi Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi ve doğal bir güzelliktir. Bu özel mekan, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tarihi geçmişi ve doğal güzelliği ile Saçlı Kasım Efendi Türbesi, ziyaretçilerini büyülemektedir. Bu türbe, İstanbul'un önemli tarihi ve dini merkezlerinden biri olarak kabul edilir ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
+Saçlı Kasım Efendi Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi ve doğal bir güzelliktir. Tarihi geçmişi ve doğal güzelliği ile Saçlı Kasım Efendi Türbesi, ziyaretçilerini büyülemektedir. Bu türbe, İstanbul'un önemli tarihi ve dini merkezlerinden biri olarak kabul edilir ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Saçlı Kasım Efendi Türbesi'nin tarihi geçmişi, Osmanlı İmparatorluğu d�
 
 ## Coğrafya
 
-Saçlı Kasım Efendi Türbesi, Marmara Bölgesi'nin kalbinde, İstanbul'un Fatih ilçesinde yer alır. Bu bölge, tarihi ve doğal güzellikleriyle bekannttır ve birçok önemli tarihi ve dini merkez içerir. Türbe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bölge, İstanbul'un merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Saçlı Kasım Efendi Türbesi, İstanbul'un diğer önemli tarihi ve dini merkezlerine yakın bir mesafede yer alır ve ziyaretçileri, şehrin diğer önemli güzelliklerini keşfetme fırsatı sunar. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilere, dört mevsim boyunca farklı güzellikler sunar.
+Saçlı Kasım Efendi Türbesi, Marmara Bölgesi'nin kalbinde, İstanbul'un Fatih ilçesinde yer alır. Bu bölge, tarihi ve doğal güzellikleriyle bekannttır ve birçok önemli tarihi ve dini merkez içerir. Bölge, İstanbul'un merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Saçlı Kasım Efendi Türbesi, İstanbul'un diğer önemli tarihi ve dini merkezlerine yakın bir mesafede yer alır ve ziyaretçileri, şehrin diğer önemli güzelliklerini keşfetme fırsatı sunar. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilere, dört mevsim boyunca farklı güzellikler sunar.
 
 ## Flora ve Fauna
 

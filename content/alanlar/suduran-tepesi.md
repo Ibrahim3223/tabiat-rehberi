@@ -29,7 +29,7 @@ wikidata_id: "Q31561284"
 
 # Suduran Tepesi
 
-Suduran Tepesi, Karadeniz Bölgesi'nin Zonguldak şehrinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir tepe olup, bölgeye özgü flora ve fauna çeşitliliği ile dikkat çeker. Bu bölge, hem doğa severler hem de yerel halk için önemli bir çekim merkezi olup, trekking ve doğa yürüyüşü gibi aktiviteler için elverişli bir ortam sunar. Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem manzaralar sunar ve bölgenin tarihi geçmişi hakkında bilgi sahibi olma mümkündür.
+ Bu bölge, hem doğa severler hem de yerel halk için önemli bir çekim merkezi olup, trekking ve doğa yürüyüşü gibi aktiviteler için elverişli bir ortam sunar. Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem manzaralar sunar ve bölgenin tarihi geçmişi hakkında bilgi sahibi olma mümkündür.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Suduran Tepesi'nin tarihi geçmişi, bölgenin jeolojik oluşumuna kadar uzanır
 
 ## Coğrafya
 
-Suduran Tepesi, Karadeniz Bölgesi'nin Zonguldak şehrinde yer alır ve 140 hektarlık bir alanı kaplar. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olup, bölgeye özgü flora ve fauna çeşitliliği ile dikkat çeker. Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem manzaralar sunar ve bölgenin coğrafi özellikleri hakkında bilgi sahibi olma mümkündür. Tepenin eteklerinde yer alan köyler, bölgenin coğrafi çeşitliliği hakkında önemli bilgiler sunar. Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri, Suduran Tepesi'nde de görülebilir. Bu bölge, dağlık bir araziye sahiptir ve bölgenin iklimi, karasal ve denizel iklimlerin etkisinde şekillenir. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar.
+Suduran Tepesi, Karadeniz Bölgesi'nin Zonguldak şehrinde yer alır ve 140 hektarlık bir alanı kaplar. Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem manzaralar sunar ve bölgenin coğrafi özellikleri hakkında bilgi sahibi olma mümkündür. Tepenin eteklerinde yer alan köyler, bölgenin coğrafi çeşitliliği hakkında önemli bilgiler sunar. Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri, Suduran Tepesi'nde de görülebilir. Bu bölge, dağlık bir araziye sahiptir ve bölgenin iklimi, karasal ve denizel iklimlerin etkisinde şekillenir. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

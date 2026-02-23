@@ -29,7 +29,7 @@ wikidata_id: "Q134728320"
 
 # Bin Tepeler Tümülüsü 51
 
-Bin Tepeler Tümülüsü 51, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak karşımıza çıkıyor. Bu tümülüs, Salihli, Manisa'da yer alıyor ve bölgenin zengin tarihini keşfetmek isteyenler için önemli bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunuyor. Bu mekan, hem tarih severler hem de doğaşığılar için ideal bir gezi noktası.
+Bin Tepeler Tümülüsü 51, Ege Bölgesi'nin önemli tarihi mekanlarından biri olarak karşımıza çıkıyor. Bu tümülüs, Salihli, Manisa'da yer alıyor ve bölgenin zengin tarihini keşfetmek isteyenler için önemli bir destinasyon. Bu mekan, hem tarih severler hem de doğaşığılar için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 51'in tarihi geçmişi, bölgenin zengin kültürel mir
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 51, Ege Bölgesi'nin coğrafi güzelliği ile çevrili bir alanda yer alıyor. Bu tümülüs, Salihli, Manisa'da bulunan geniş ve verimli ovaların yakınında bulunuyor. Bölgenin coğrafi yapısı, ziyaretçilere geniş bir manzara sunuyor ve tümülüsün konumu, doğa ile iç içe bir gezi deneyimi sunuyor. 180 hektarlık bir alanda yer alan bu tümülüs, yaklaşık 250 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir alan sunuyor. Coğrafi konumu itibariyle, Bin Tepeler Tümülüsü 51, hem güzelliği hem de tarihi değerleri ile ziyaretçileri cezbediyor.
+Bin Tepeler Tümülüsü 51, Ege Bölgesi'nin coğrafi güzelliği ile çevrili bir alanda yer alıyor. Bu tümülüs, Salihli, Manisa'da bulunan geniş ve verimli ovaların yakınında bulunuyor. Bölgenin coğrafi yapısı, ziyaretçilere geniş bir manzara sunuyor ve tümülüsün konumu, doğa ile iç içe bir gezi deneyimi sunuyor. Coğrafi konumu itibariyle, Bin Tepeler Tümülüsü 51, hem güzelliği hem de tarihi değerleri ile ziyaretçileri cezbediyor.
 
 ## Flora ve Fauna
 

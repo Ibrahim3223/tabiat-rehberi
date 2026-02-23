@@ -51,9 +51,9 @@ Mevsimsel değişimler Ropotamo'nun iklim karakterini önemli ölçüde etkileme
 
 ## Flora ve Fauna
 
-Ropotamo Jeoparkı, step bitki örtüsü ve bozkırın hakim olduğu bir bölgede yer alır. Bu bölge, kuraklığa adapte olmuş türlerin zengin çeşitliliğine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, bozkırın çiçeklerle donanması, bu alanı bir doğa harikası haline getirir. 
+Ropotamo Jeoparkı, step bitki örtüsü ve bozkırın hakim olduğu bir bölgede yer alır. Bu bölge, kuraklığa adapte olmuş türlerin zengin çeşitliliğine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, bozkırın çiçeklerle donanması, bu alanı bir doğa harikası haline getirir.
 
-Bitki örtüsünün çeşitliliği, mevsimsel değişimlere bağlı olarak değişir. Sonbaharın yaklaşmasıyla, göç eden kuşlar bu bölgede konaklar ve ekosistemin canlılığını artırır. Orman ekosistemi, ağaç çeşitliliği ve orman memelileriyle dikkat çeker. Bu bölgede, çeşitli kuş türleri de yaşar ve ekolojik ilişkiler complex bir yapı gösterir. 
+Bitki örtüsünün çeşitliliği, mevsimsel değişimlere bağlı olarak değişir. Sonbaharın yaklaşmasıyla, göç eden kuşlar bu bölgede konaklar ve ekosistemin canlılığını artırır. Orman ekosistemi, ağaç çeşitliliği ve orman memelileriyle dikkat çeker. Bu bölgede, çeşitli kuş türleri de yaşar ve ekolojik ilişkiler complex bir yapı gösterir.
 
 Ropotamo Jeoparkı, 1200 hektarlık bir alanı kaplar ve bu genişlik, bölgeyi önemli bir ekosistem haline getirir. Bu jeopark, ekolojik değerini koruma altına almak amacıyla, doğa severlerin ilgisini çekmektedir. Bu bölgenin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölge ekosisteminin dengesini korumak için de önemlidir.
 

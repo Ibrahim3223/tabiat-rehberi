@@ -1,7 +1,7 @@
 ---
 title: "Germiyanoğulları Tarihi Vakıflar Hamamı"
 date: "2026-01-09T22:22:33.893Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738484"
 
 # Germiyanoğulları Tarihi Vakıflar Hamamı
 
-Germiyanoğulları Tarihi Vakıflar Hamamı, Ege Bölgesi'nin güzide şehirlerinden biri olan Denizli'nin Merkezefendi ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Bu tarihi hamam, bölgeye gelen ziyaretçilerin hem tarihi yapılarını hem de doğal güzelliklerini keşfetmelerine olanak tanır. Hamamın tarihi zenginliği ve plajın güzelliği, burayı ziyaret edenler için unutulmaz bir deneyim sağlamaktadır.
+Germiyanoğulları Tarihi Vakıflar Hamamı, Ege Bölgesi'nin güzide şehirlerinden biri olan Denizli'nin Merkezefendi ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. Bu tarihi hamam, bölgeye gelen ziyaretçilerin hem tarihi yapılarını hem de doğal güzelliklerini keşfetmelerine olanak tanır. Hamamın tarihi zenginliği ve plajın güzelliği, burayı ziyaret edenler için unutulmaz bir deneyim sağlamaktadır.
 
 ## Tarihçe
 

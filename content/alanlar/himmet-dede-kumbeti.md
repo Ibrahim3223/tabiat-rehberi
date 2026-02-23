@@ -29,15 +29,15 @@ wikidata_id: "Q135582412"
 
 # Himmet Dede Kümbeti
 
-Himmet Dede Kümbeti, Eskişehir'in Seyitgazi ilçesinde yer alan bir kümbettir. Bu tarihi yapı, bölgenin önemli kültürel miraslarından biri olarak kabul edilir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alana sahiptir. Himmet Dede Kümbeti, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan olarak ziyaretçilerini bekliyor. Bu alan, hem tarihe ilgi duyanlar hem de doğayı sevenler için ideal bir gezi noktasıdır.
+Himmet Dede Kümbeti, Eskişehir'in Seyitgazi ilçesinde yer alan bir kümbettir. Bu tarihi yapı, bölgenin önemli kültürel miraslarından biri olarak kabul edilir. Himmet Dede Kümbeti, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan olarak ziyaretçilerini bekliyor. Bu alan, hem tarihe ilgi duyanlar hem de doğayı sevenler için ideal bir gezi noktasıdır.
 
 ## Tarihçe
 
-Himmet Dede Kümbeti, tarihi geçmişi ile dikkat çeker. Bu yapı, yüzyıllar boyunca önemli bir kültürel merkez olarak hizmet vermiştir. Tarihi belgelerde yer alan bilgiler, bu kümbetin inşa edilme amacını ve önemini vurgular. Himmet Dede Kümbeti, bölgenin önemli dini ve kültürel yapılarından biri olarak kabul edilir. Zaman içinde çeşitli onarımlar gören bu yapı, günümüzde de tarihi değerini korumaktadır. Himmet Dede Kümbeti, ziyaretçiler için hem bir tarih dersi hem de bir kültürel expérience sunar.
+Himmet Dede Kümbeti, tarihi geçmişi ile dikkat çeker. Bu yapı, yüzyıllar boyunca önemli bir kültürel merkez olarak hizmet vermiştir. Tarihi belgelerde yer alan bilgiler, bu kümbetin inşa edilme amacını ve önemini vurgular. Himmet Dede Kümbeti, bölgenin önemli dini ve kültürel yapılarından biri olarak kabul edilir. Zaman içinde çeşitli onarımlar gören bu yapı, günümüzde de tarihi değerini korumaktadır. Himmet Dede Kümbeti, ziyaretçiler için hem bir tarih dersi hem de bir kültürel deneyim sunar.
 
 ## Coğrafya
 
-Himmet Dede Kümbeti, Eskişehir'in Seyitgazi ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. İç Anadolu Bölgesi, Türkiye'nin merkezi bir bölümüdür ve geniş ovaları, yüksek platoları ve dağları ile karakterizedir. Himmet Dede Kümbeti, bu coğrafi bölgenin önemli bir parçasıdır. Çevresinde yer alan diğer tarihi ve doğal güzellikler, bu alanı daha da özel kılar. Himmet Dede Kümbeti, ziyaretçilere geniş bir yeşil alan sunar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu geniş alan, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
+Himmet Dede Kümbeti, Eskişehir'in Seyitgazi ilçesinde yer alır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. İç Anadolu Bölgesi, Türkiye'nin merkezi bir bölümüdür ve geniş ovaları, yüksek platoları ve dağları ile karakterizedir. Himmet Dede Kümbeti, bu coğrafi bölgenin önemli bir parçasıdır. Çevresinde yer alan diğer tarihi ve doğal güzellikler, bu alanı daha da özel kılar. Bu geniş alan, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Himmet Dede Kümbeti'ni ziyaret etmek, hem tarihe ilgi duyanlar hem de doğayı 
 - Himmet Dede Kümbeti, tarihi bir kümbettir.
 - Bu yapı, yüzyıllar boyunca önemli bir kültürel merkez olarak hizmet vermiştir.
 - Himmet Dede Kümbeti, 140 hektarlık bir alana sahiptir.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Himmet Dede Kümbeti, ziyaretçilerine geniş bir yeşil alan sunar.

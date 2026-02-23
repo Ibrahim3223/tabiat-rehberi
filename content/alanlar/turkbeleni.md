@@ -22,7 +22,7 @@ wikidata_id: "Q108228742"
 
 # TÜRKBELENİ
 
-Türkbeleni milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden birini oluşturur. Bu park, ziyaretçilerine zengin bir flora ve fauna sunar ve bölgenin tarihçesi ve kültürel önemi hakkında bilgi vermeye yardımcı olur. Türkbeleni, aynı zamanda bölgedeki diğer doğal güzellik alanlarına da yakın bir konumda yer alır, böylece ziyaretçiler birden fazla alanı keşfedebilir.
+Türkbeleni milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. Bu park, ziyaretçilerine zengin bir flora ve fauna sunar ve bölgenin tarihçesi ve kültürel önemi hakkında bilgi vermeye yardımcı olur. Türkbeleni, aynı zamanda bölgedeki diğer doğal güzellik alanlarına da yakın bir konumda yer alır, böylece ziyaretçiler birden fazla alanı keşfedebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Türkbeleni milli parkının tarihi geçmişi, bölgenin kültürel ve doğal ze
 
 ## Coğrafya
 
-Türkbeleni milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Parkın konumu, bölgenin merkezi bir konumunda yer alır ve çeşitli coğrafi oluşumları içerir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden birini oluşturur. Parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar ve doğal güzellikler sunar. Aynı zamanda, parkın iklimi, bölgenin genel iklimine benzer ve ziyaretçilerin yılın her döneminde ziyaret edebileceği bir yerdir. Türkbeleni, çevresindeki diğer doğal güzellik alanlarına da yakın bir konumda yer alır, böylece ziyaretçiler birden fazla alanı keşfedebilir. Parkın coğrafi konumu ve yapısı, ziyaretçilere zengin bir flora ve fauna sunar ve bölgenin doğal güzelliklerini keşfetme fırsatı verir.
+Türkbeleni milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Parkın konumu, bölgenin merkezi bir konumunda yer alır ve çeşitli coğrafi oluşumları içerir. Parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar ve doğal güzellikler sunar. Aynı zamanda, parkın iklimi, bölgenin genel iklimine benzer ve ziyaretçilerin yılın her döneminde ziyaret edebileceği bir yerdir. Türkbeleni, çevresindeki diğer doğal güzellik alanlarına da yakın bir konumda yer alır, böylece ziyaretçiler birden fazla alanı keşfedebilir. Parkın coğrafi konumu ve yapısı, ziyaretçilere zengin bir flora ve fauna sunar ve bölgenin doğal güzelliklerini keşfetme fırsatı verir.
 
 ## Flora ve Fauna
 

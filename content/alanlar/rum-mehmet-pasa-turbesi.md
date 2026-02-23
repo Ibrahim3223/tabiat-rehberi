@@ -1,7 +1,7 @@
 ---
 title: "Rum Mehmet Paşa Türbesi"
 date: "2026-01-10T07:38:33.528Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391280"
 
 # Rum Mehmet Paşa Türbesi
 
-Rum Mehmet Paşa Türbesi, İstanbul'un Üsküdar ilçesinde yer alan bir tarihi türbe ve plajdır. Bu türbe, Marmara Bölgesi'nin önemli tarihi eserlerinden biridir. 140 hektarlık bir alanda bulunan Rum Mehmet Paşa Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un tarihi mekanları arasında önemli bir yere sahip olan bu türbe, aynı zamanda bir plaj olarak da ziyaretçilerini ağırlar. Rum Mehmet Paşa Türbesi, deniz kıyısında yer alan bir türbe olmasıyla da dikkat çeker. Bu türbe, deniz manzarası sunan bir konumda yer alır.
+Rum Mehmet Paşa Türbesi, İstanbul'un Üsküdar ilçesinde yer alan bir tarihi türbe ve plajdır. Bu türbe, Marmara Bölgesi'nin önemli tarihi eserlerinden biridir. İstanbul'un tarihi mekanları arasında önemli bir yere sahip olan bu türbe, aynı zamanda bir plaj olarak da ziyaretçilerini ağırlar. Rum Mehmet Paşa Türbesi, deniz kıyısında yer alan bir türbe olmasıyla da dikkat çeker. Bu türbe, deniz manzarası sunan bir konumda yer alır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Rum Mehmet Paşa Türbesi, tarihi geçmişi ile dikkat çeker. Bu türbenin tam 
 
 ## Coğrafya
 
-Rum Mehmet Paşa Türbesi, İstanbul'un Üsküdar ilçesinde yer alan bir tarihi türbe ve plajdır. Bu türbe, Marmara Bölgesi'nin önemli tarihi eserlerinden biridir. 140 hektarlık bir alanda bulunan Rum Mehmet Paşa Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un tarihi mekanları arasında önemli bir yere sahip olan bu türbe, aynı zamanda bir plaj olarak da ziyaretçilerini ağırlar. Rum Mehmet Paşa Türbesi, deniz kıyısında yer alan bir türbe olmasıyla da dikkat çeker. Bu türbe, deniz manzarası sunan bir konumda yer alır. Üsküdar ilçesi, İstanbul'un en eski yerleşim yerlerinden biridir. Bu ilçe, tarihi geçmişi ile dikkat çeker. Rum Mehmet Paşa Türbesi, Üsküdar ilçesinin en önemli tarihi eserlerinden biridir. Bu türbe, Marmara Denizi'ne kıyısı olan bir bölgede yer alır. Marmara Denizi, Türkiye'nin önemli denizlerinden biridir. Rum Mehmet Paşa Türbesi, deniz kıyısında yer alan bir türbe olmasıyla da dikkat çeker. Bu türbe, deniz manzarası sunan bir konumda yer alır. İstanbul'un coğrafi konumu, Rum Mehmet Paşa Türbesi gibi tarihi eserlerin yapımı için uygun bir ortam sunar.
+Rum Mehmet Paşa Türbesi, İstanbul'un Üsküdar ilçesinde yer alan bir tarihi türbe ve plajdır. Bu türbe, Marmara Bölgesi'nin önemli tarihi eserlerinden biridir. İstanbul'un tarihi mekanları arasında önemli bir yere sahip olan bu türbe, aynı zamanda bir plaj olarak da ziyaretçilerini ağırlar. Rum Mehmet Paşa Türbesi, deniz kıyısında yer alan bir türbe olmasıyla da dikkat çeker. Bu türbe, deniz manzarası sunan bir konumda yer alır. Üsküdar ilçesi, İstanbul'un en eski yerleşim yerlerinden biridir. Bu ilçe, tarihi geçmişi ile dikkat çeker. Rum Mehmet Paşa Türbesi, Üsküdar ilçesinin en önemli tarihi eserlerinden biridir. Bu türbe, Marmara Denizi'ne kıyısı olan bir bölgede yer alır. Marmara Denizi, Türkiye'nin önemli denizlerinden biridir. Rum Mehmet Paşa Türbesi, deniz kıyısında yer alan bir türbe olmasıyla da dikkat çeker. Bu türbe, deniz manzarası sunan bir konumda yer alır. İstanbul'un coğrafi konumu, Rum Mehmet Paşa Türbesi gibi tarihi eserlerin yapımı için uygun bir ortam sunar.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Gömeçli Dede Türbesi"
 date: "2026-01-10T05:11:14.390Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391598"
 
 # Gömeçli Dede Türbesi
 
-Gömeçli Dede Türbesi, İzmir'in Bayındır ilçesinde yer alan bir tarih ve doğa harikası. Bu özel mekan, yaklaşık 140 hektarlık bir alanda, ziyaretçilerine hem tarihi bir yolculuk hem de doğal güzelliklerin keyfini çıkarma fırsatı sunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir açıklık ve ferahlık hissi veriyor. Gömeçli Dede Türbesi, ziyaretçilerini Ege Bölgesi'nin zengin tarihine ve güzelliğine davet ediyor.
+Gömeçli Dede Türbesi, İzmir'in Bayındır ilçesinde yer alan bir tarih ve doğa harikası. Bu özel mekan, yaklaşık 140 hektarlık bir alanda, ziyaretçilerine hem tarihi bir yolculuk hem de doğal güzelliklerin keyfini çıkarma fırsatı sunuyor. Gömeçli Dede Türbesi, ziyaretçilerini Ege Bölgesi'nin zengin tarihine ve güzelliğine davet ediyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389593"
 
 # Kobarlı Tepesi
 
-Kobarlı Tepesi, Balıkesir'in eşsiz doğa manzaralarına ev sahipliği yapan bir bölgedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Bu tepe, çevredeki diğer tepelerle birlikte bir bütün olarak doğa severlerin ilgisini çekmektedir. Kobarlı Tepesi, ziyaretçilerine hem doğa güzelliği hem de tarihi zenginlikler sunmaktadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak bilinmektedir.
+Kobarlı Tepesi, Balıkesir'in eşsiz doğa manzaralarına ev sahipliği yapan bir bölgedir. Bu tepe, çevredeki diğer tepelerle birlikte bir bütün olarak doğa severlerin ilgisini çekmektedir. Kobarlı Tepesi, ziyaretçilerine hem doğa güzelliği hem de tarihi zenginlikler sunmaktadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak bilinmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kobarlı Tepesi, tarihi geçmişiyle dikkat çekmektedir. Bu bölge, yüzyıllar
 
 ## Coğrafya
 
-Kobarlı Tepesi, Marmara Bölgesi'nde yer alan bir coğrafi noktadır. Bu tepe, Balıkesir'in doğal güzellikleri arasında yer almaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevredeki diğer tepelerle birlikte bir bütün olarak doğa severlerin ilgisini çekmektedir. Kobarlı Tepesi, ziyaretçilerine hem doğa güzelliği hem de coğrafi çeşitlilik sunmaktadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak bilinmektedir. Kobarlı Tepesi'nin coğrafi konumu, bu bölgenin önemini göstermektedir. Bu tepe, bölgedeki diğer coğrafi noktalarla birlikte bir bütün olarak ziyaretçilerini beklemektedir. Kobarlı Tepesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biridir.
+Kobarlı Tepesi, Marmara Bölgesi'nde yer alan bir coğrafi noktadır. Bu tepe, Balıkesir'in doğal güzellikleri arasında yer almaktadır. Kobarlı Tepesi, ziyaretçilerine hem doğa güzelliği hem de coğrafi çeşitlilik sunmaktadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak bilinmektedir. Kobarlı Tepesi'nin coğrafi konumu, bu bölgenin önemini göstermektedir. Bu tepe, bölgedeki diğer coğrafi noktalarla birlikte bir bütün olarak ziyaretçilerini beklemektedir. Kobarlı Tepesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biridir.
 
 ## Flora ve Fauna
 

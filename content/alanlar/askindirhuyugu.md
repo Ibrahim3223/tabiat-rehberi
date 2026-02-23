@@ -28,7 +28,7 @@ wikidata_id: "Q32131473"
 
 # Aşkındırhüyüğü
 
-Aşkındırhüyüğü, Hatay ilinin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir bölgedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunar. Aşkındırhüyüğü, tarihi ve coğrafi konumuyla birlikte, ziyaretçilere hem eğitim hem de eğlence Möglichkeiten sunar. Bu bölgenin tarihi değerleri, ziyaretçileri geçmişe götürürken, doğal güzellikleri ise doğa severleri çekiyor. Aşkındırhüyüğü, ziyaretçilerin hem kültürel hem de doğal zenginliklerini keşfetmelerine olanak tanıyan bir destinasyon olarak dikkat çekiyor.
+Aşkındırhüyüğü, Hatay ilinin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir bölgedir. Aşkındırhüyüğü, tarihi ve coğrafi konumuyla birlikte, ziyaretçilere hem eğitim hem de eğlence Möglichkeiten sunar. Bu bölgenin tarihi değerleri, ziyaretçileri geçmişe götürürken, doğal güzellikleri ise doğa severleri çekiyor. Aşkındırhüyüğü, ziyaretçilerin hem kültürel hem de doğal zenginliklerini keşfetmelerine olanak tanıyan bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

@@ -28,11 +28,11 @@ wikidata_id: "Q31538437"
 
 # Pazın Tepesi
 
-Pazın Tepesi, Hatay ilinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, aynı zamanda önemli bir ekolojik alanı temsil ediyor. Pazın Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Doğal güzelliği, flora ve fauna çeşitliliği ile dikkat çekiyor. Burada, ziyaretçiler hem doğayı keşfedebilir hem de tarihi geçmişi hakkında bilgi sahibi olabilirler.
+Pazın Tepesi, Hatay ilinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Bu bölge, aynı zamanda önemli bir ekolojik alanı temsil ediyor. Pazın Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Doğal güzelliği, flora ve fauna çeşitliliği ile dikkat çekiyor. Burada, ziyaretçiler hem doğayı keşfedebilir hem de tarihi geçmişi hakkında bilgi sahibi olabilirler.
 
 ## Tarihçe
 
-Pazın Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara kendi kültürel mirasını bırakmıştır. Pazın Tepesi, tarihin izlerini taşıyan önemli bir kültürel ve tarihi miras olarak kabul ediliyor. Bu bölgede, tarihi yapılar ve kalıntılar bulunsa da, tarih bilgileri bulunmuyor. Ancak, bu bölgeyi ziyaret edenler, tarihin sâu izlerini keşfedebilirler. Pazın Tepesi, ziyaretçilerine tarihin gizemli dünyasını keşfetme fırsatı sunuyor.
+Pazın Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara kendi kültürel mirasını bırakmıştır. Pazın Tepesi, tarihin izlerini taşıyan önemli bir kültürel ve tarihi miras olarak kabul ediliyor. Bu bölgede, tarihi yapılar ve kalıntılar bulunsa da, tarih bilgileri bulunmuyor. Ancak, bu bölgeyi ziyaret edenler, tarihin derin izlerini keşfedebilirler. Pazın Tepesi, ziyaretçilerine tarihin gizemli dünyasını keşfetme fırsatı sunuyor.
 
 ## Coğrafya
 

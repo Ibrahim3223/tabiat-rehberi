@@ -1,7 +1,7 @@
 ---
 title: "Beylerbeyi Sarayı"
 date: "2026-01-09T22:08:51.623Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q794349"
 
 # Beylerbeyi Sarayı
 
-Beylerbeyi Sarayı, İstanbul'un Üsküdar ilçesinde, Boğaziçi'nin en güzel noktalarından birinde yer alan tarihi bir saraydır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un en önemli tarihi yapılarından biridir. Saray, 19. yüzyılda Sultan Abdülmecid tarafından yaptırılmış ve o günden bugüne birçok önemli olaya şahitlik etmiştir. Sarayın mimarisi, Osmanlı ve Avrupa tarzlarının birleşiminden oluşmakta ve görkemli bir görünüm sunmaktadır. Beylerbeyi Sarayı, tarihi önemi ve mimari güzelliği ile birlikte, ziyaretçilerin ilgisini çekmekte ve İstanbul'un en önemli turistik noktalarından biri olarak kabul edilmektedir.
+Beylerbeyi Sarayı, İstanbul'un Üsküdar ilçesinde, Boğaziçi'nin en güzel noktalarından birinde yer alan tarihi bir saraydır. Saray, 19. yüzyılda Sultan Abdülmecid tarafından yaptırılmış ve o günden bugüne birçok önemli olaya şahitlik etmiştir. Sarayın mimarisi, Osmanlı ve Avrupa tarzlarının birleşiminden oluşmakta ve görkemli bir görünüm sunmaktadır. Beylerbeyi Sarayı, tarihi önemi ve mimari güzelliği ile birlikte, ziyaretçilerin ilgisini çekmekte ve İstanbul'un en önemli turistik noktalarından biri olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Beylerbeyi Sarayı'nın tarihi, 19. yüzyıla kadar uzanmaktadır. Sultan Abdül
 
 ## Coğrafya
 
-Beylerbeyi Sarayı, İstanbul'un Üsküdar ilçesinde, Boğaziçi'nin en güzel noktalarından birinde yer almaktadır. Saray, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un en önemli tarihi yapılarından biridir. Sarayın konumu, ziyaretçilere Boğaziçi'nin güzelliğini sunmakta ve panoramik bir görünüm sağlamaktadır. Saray, aynı zamanda birçok önemli tarihi yapıya da yakındır. Sarayın etrafında, çeşitli ağaçlar ve bitkiler bulunmaktadır ve ziyaretçilere doğanın güzelliğini sunmaktadır. Beylerbeyi Sarayı, coğrafi konumu ile birlikte, ziyaretçilere İstanbul'un tarihi ve doğasının güzelliğini sunmaktadır. Sarayın mimarisi, Osmanlı ve Avrupa tarzlarının birleşiminden oluşmekte ve görkemli bir görünüm sunmaktadır. Sarayın coğrafi konumu, aynı zamanda birçok önemli ulaşım noktalarına da yakındır ve ziyaretçilere kolay ulaşım imkanı sağlamaktadır.
+Beylerbeyi Sarayı, İstanbul'un Üsküdar ilçesinde, Boğaziçi'nin en güzel noktalarından birinde yer almaktadır. Sarayın konumu, ziyaretçilere Boğaziçi'nin güzelliğini sunmakta ve panoramik bir görünüm sağlamaktadır. Saray, aynı zamanda birçok önemli tarihi yapıya da yakındır. Sarayın etrafında, çeşitli ağaçlar ve bitkiler bulunmaktadır ve ziyaretçilere doğanın güzelliğini sunmaktadır. Beylerbeyi Sarayı, coğrafi konumu ile birlikte, ziyaretçilere İstanbul'un tarihi ve doğasının güzelliğini sunmaktadır. Sarayın mimarisi, Osmanlı ve Avrupa tarzlarının birleşiminden oluşmekte ve görkemli bir görünüm sunmaktadır. Sarayın coğrafi konumu, aynı zamanda birçok önemli ulaşım noktalarına da yakındır ve ziyaretçilere kolay ulaşım imkanı sağlamaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Beylerbeyi Sarayı, ziyaretçilere birçok farklı türde deneyim sunmaktadır. 
 ## İlginç Bilgiler
 
 - Beylerbeyi Sarayı, 19. yüzyılda Sultan Abdülmecid tarafından yaptırılmıştır.
-- Saray, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un en önemli tarihi yapılarından biridir.
+
 - Sarayın mimarisi, Osmanlı ve Avrupa tarzlarının birleşiminden oluşmakta ve görkemli bir görünüm sunmaktadır.
 - Saray, birçok farklı türde bitki ve ağacın yetiştirilmesine de ev sahipliği yapmış ve İstanbul'un tarihi değerini zenginleştirmiştir.
 - Saray, yüzyıllar boyunca birçok önemli olaya şahitlik etmiş ve tarihi değerini korumaya devam etmektedir.

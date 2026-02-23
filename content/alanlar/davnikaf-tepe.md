@@ -54,7 +54,7 @@ Davnikaf Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer a
 
 Yaban hayatı açısından zengin olan bu bölgede, memeliler ve kuşlar önemli bir yer tutuyor. Göç mevsiminde, çeşitli kuş türleri bu bölgeyi ziyaret ediyor. Sürüngenler de, kayalık alanlarda ve step bölgelerinde yaşamlarını sürdürüyor. Dağ ekosisteminin yükseklik zonları, farklı canlı türleri için yaşam alanları sunuyor.
 
-Davnikaf Tepe'nin ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasında yatıyor. Bu alan, çeşitli canlı türleri için önemli bir habitat oluşturuyor. Ancak, koruma durumu açısından bazı endişeler mevcut. Bu nedenle, bölgenin korunması ve gelecek nesiller için bảolanması büyük önem taşıyor.
+Davnikaf Tepe'nin ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasında yatıyor. Bu alan, çeşitli canlı türleri için önemli bir habitat oluşturuyor. Ancak, koruma durumu açısından bazı endişeler mevcut. Bu nedenle, bölgenin korunması ve gelecek nesiller için korunması büyük önem taşıyor.
 
 ## Ziyaret Bilgileri
 

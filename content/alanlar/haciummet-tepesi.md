@@ -28,7 +28,7 @@ wikidata_id: "Q32139776"
 
 # Hacıümmet Tepesi
 
-Afyonkarahisar'ın Ege Bölgesi'nde yer alan Hacıümmet Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu tepe, régionün tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta olarak kabul ediliyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşam tarzlarını deneyimleme fırsatı sunarken, tepeye tırmanırken karşılaşılan manzaralar ise ziyaretçilere büyük bir keyif veriyor.
+ Bu tepe, bölgeün tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta olarak kabul ediliyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşam tarzlarını deneyimleme fırsatı sunarken, tepeye tırmanırken karşılaşılan manzaralar ise ziyaretçilere büyük bir keyif veriyor.
 
 ## Tarihçe
 

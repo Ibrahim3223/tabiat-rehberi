@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini barındır
 
 ## Tarihçe
 
-Göksu Baraj Gölü, tarihi ve kültürel zenginliklerle dolu Diyarbakır bölgesinde yer alıyor. Bu bölge, tarihin sâu depthsinden bugüne kadar çeşitli uygarlıkların izlerine ev sahipliği yapıyor. Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetler, Diyarbakır'ın topraklarında yaşamış ve bölgenin kültür mirasını şekillendirmişlerdir.
+Göksu Baraj Gölü, tarihi ve kültürel zenginliklerle dolu Diyarbakır bölgesinde yer alıyor. Bu bölge, tarihin derin depthsinden bugüne kadar çeşitli uygarlıkların izlerine ev sahipliği yapıyor. Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetler, Diyarbakır'ın topraklarında yaşamış ve bölgenin kültür mirasını şekillendirmişlerdir.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. İnsanlar, bu bölgelerde yaylacılık, hayvancılık ve tarım gibi faaliyetlerle geçimlerini sağlamışlar, ayrıca ticaret yolları üzerinde stratejik konumları nedeniyle önemli kavşak noktaları olarak görev görmüşlerdir. Göksu Baraj Gölü de, bölgenin coğrafi ve kültürel zenginliklerinin bir parçasını oluşturuyor. Bölge, insanların doğa ile iç içe yaşadığı, geleneksel yaşam tarzlarının sürdüğü bir mekân olarak karşımıza çıkıyor. Göksu Baraj Gölü'nün çevresi, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmış, doğanın güzelliği ve verimliliği, burada yaşayanların yaşam standardını yükseltmiştir.
 

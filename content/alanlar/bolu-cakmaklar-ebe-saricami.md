@@ -1,7 +1,7 @@
 ---
 title: "Bolu-Cakmaklar Ebe Saricami"
 date: "2026-01-09T21:20:44.618Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Bolu"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227689"
 
 # Bolu-Cakmaklar Ebe Saricami
 
-Bolu-Cakmaklar Ebe Saricami, Karadeniz Bölgesi'nin merkezi olan Bolu'da yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Bu milli park, ziyaretçilerine doğa yürüyüşleri, piknik alanları ve çeşitli flora ve fauna türleri ile dolu bir ortam sunar. Bolu-Cakmaklar Ebe Saricami, özellikle doğa severler ve turistik gezi sevenler için ideal bir destinasyondur.
+Bolu-Cakmaklar Ebe Saricami, Karadeniz Bölgesi'nin merkezi olan Bolu'da yer alır. Bu milli park, ziyaretçilerine doğa yürüyüşleri, piknik alanları ve çeşitli flora ve fauna türleri ile dolu bir ortam sunar. Bolu-Cakmaklar Ebe Saricami, özellikle doğa severler ve turistik gezi sevenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

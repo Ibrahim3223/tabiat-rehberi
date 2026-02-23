@@ -1,7 +1,7 @@
 ---
 title: "Beypazarı Kent Tarihi Müzesi"
 date: "2026-01-10T15:14:23.818Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Türkiye"
@@ -23,7 +23,7 @@ wikidata_id: "Q118947903"
 
 # Beypazarı Kent Tarihi Müzesi
 
-Beypazarı Kent Tarihi Müzesi, İç Anadolu Bölgesi'nin önemli kültür merkezlerinden biri olarak dikkat çekiyor. Bu müzenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Beypazarı'nın tarihi geçmişi, zengin fauna ve flora çeşitliliği ile ziyaretçilerini bekliyor. Müze, Beypazarı'nın tarihi ve kültürel değerlerini sergileyerek, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Beypazarı Kent Tarihi Müzesi, İç Anadolu Bölgesi'nin önemli kültür merkezlerinden biri olarak dikkat çekiyor. Beypazarı'nın tarihi geçmişi, zengin fauna ve flora çeşitliliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

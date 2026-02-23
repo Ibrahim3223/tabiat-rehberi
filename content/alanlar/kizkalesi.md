@@ -30,7 +30,7 @@ wikidata_id: "Q1018772"
 
 # Kızkalesi
 
-Mersin'in Erdemli ilçesinde, Akdeniz Bölgesi'nin güneşli kıyılarında yer alan Kızkalesi, tarihi ve doğal güzellikleri ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyen bir manzaraya sahip. Bu özel yer, hem tarih severlerin hem de doğaşığıların ilgisini çekmekte. Kızkalesi, aynı zamanda plaj severlerin de keyif alacağı bir mekan olarak biliniyor.
+Mersin'in Erdemli ilçesinde, Akdeniz Bölgesi'nin güneşli kıyılarında yer alan Kızkalesi, tarihi ve doğal güzellikleri ile dikkat çekiyor. Bu özel yer, hem tarih severlerin hem de doğaşığıların ilgisini çekmekte. Kızkalesi, aynı zamanda plaj severlerin de keyif alacağı bir mekan olarak biliniyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kızkalesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların y
 
 ## Coğrafya
 
-Kızkalesi, Mersin'in Erdemli ilçesinde, Akdeniz kıyı şeridinde yer alıyor. Bu bölge, coğrafi olarak da oldukça özel bir konumda bulunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve yüksek bir konumda. Kızkalesi, plajı ve denizi ile birlikte, turistik bir mekan olarak ziyaretçilerini ağırlıyor. Bu alan, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklimi, Akdeniz iklimi özellikleri taşıyor; yani yazları sıcak ve kurak, kışları ılıman ve yağışlı. Bu coğrafi özellikler, Kızkalesi'ni yıl boyunca ziyaret edilebilir bir yer haline getiriyor.
+Kızkalesi, Mersin'in Erdemli ilçesinde, Akdeniz kıyı şeridinde yer alıyor. Bu bölge, coğrafi olarak da oldukça özel bir konumda bulunuyor. Kızkalesi, plajı ve denizi ile birlikte, turistik bir mekan olarak ziyaretçilerini ağırlıyor. Bu alan, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklimi, Akdeniz iklimi özellikleri taşıyor; yani yazları sıcak ve kurak, kışları ılıman ve yağışlı. Bu coğrafi özellikler, Kızkalesi'ni yıl boyunca ziyaret edilebilir bir yer haline getiriyor.
 
 ## Flora ve Fauna
 

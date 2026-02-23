@@ -28,7 +28,7 @@ wikidata_id: "Q31388023"
 
 # KocaalanTepesi
 
-KocaalanTepesi, Kütahya'nın doğal güzellikleri arasında yer alan bir tepe. Bu tepe, Ege Bölgesi'nde bulunan ve yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. KocaalanTepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkün. KocaalanTepesi, özellikle doğa severler ve fotoğraf meraklıları için bir cennet. Bu tepe, Kütahya'nın önemli gezilecek yerlerinden biri olarak kabul ediliyor.
+KocaalanTepesi, Kütahya'nın doğal güzellikleri arasında yer alan bir tepe. KocaalanTepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkün. KocaalanTepesi, özellikle doğa severler ve fotoğraf meraklıları için bir cennet. Bu tepe, Kütahya'nın önemli gezilecek yerlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ KocaalanTepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe,
 
 ## Coğrafya
 
-KocaalanTepesi, Ege Bölgesi'nde bulunan bir tepe. Bu tepe, Kütahya ilinin sınırları içinde yer alıyor. KocaalanTepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, doğu-batı yönünde uzanan bir sırtla çevrili. KocaalanTepesi'nin kuzeyinde, bir vadi bulunuyor. Bu vadi, tepeye gelen ziyaretçilerin keyifli bir yürüyüş yapmasına olanak tanıyor. KocaalanTepesi'nin iklimi, Ege Bölgesi'nin genel iklimine benzer. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklime sahip. KocaalanTepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor. Bu mevsimlerde, tepeye gelen ziyaretçiler, doğanın güzelliğini ve sakinliğini deneyimleyebiliyorlar.
+KocaalanTepesi, Ege Bölgesi'nde bulunan bir tepe. Bu tepe, Kütahya ilinin sınırları içinde yer alıyor. Bu tepe, doğu-batı yönünde uzanan bir sırtla çevrili. KocaalanTepesi'nin kuzeyinde, bir vadi bulunuyor. Bu vadi, tepeye gelen ziyaretçilerin keyifli bir yürüyüş yapmasına olanak tanıyor. KocaalanTepesi'nin iklimi, Ege Bölgesi'nin genel iklimine benzer. Bu tepe, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve yağışlı bir iklime sahip. KocaalanTepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor. Bu mevsimlerde, tepeye gelen ziyaretçiler, doğanın güzelliğini ve sakinliğini deneyimleyebiliyorlar.
 
 ## Flora ve Fauna
 

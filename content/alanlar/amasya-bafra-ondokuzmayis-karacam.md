@@ -22,7 +22,7 @@ wikidata_id: "Q108227925"
 
 # Amasya-Bafra-Ondokuzmayis Karacam
 
-Amasya-Bafra-Ondokuzmayis Karacam milli parkı, Karadeniz Bölgesi'nin yeşil doğasının en güzel örneklerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik değerlerini barındırıyor. Bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Parkın konumu, Amasya ve Bafra ilçelerine yakınlığıyla dikkat çekiyor. Ziyaretçiler, bu doğa harikasını keşfetmek için yılın herhangi bir zamanında gelebilirler.
+Amasya-Bafra-Ondokuzmayis Karacam milli parkı, Karadeniz Bölgesi'nin yeşil doğasının en güzel örneklerinden biri. Bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Parkın konumu, Amasya ve Bafra ilçelerine yakınlığıyla dikkat çekiyor. Ziyaretçiler, bu doğa harikasını keşfetmek için yılın herhangi bir zamanında gelebilirler.
 
 ## Tarihçe
 

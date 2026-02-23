@@ -29,7 +29,7 @@ wikidata_id: "Q135582877"
 
 # Şahkulubey Kümbeti
 
-Şahkulubey Kümbeti, Mardin'in Kızıltepe ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu alan, 140 hektarlık büyüklüğü ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şahkulubey Kümbeti, tarihi ve kültürel önemi ile dikkat çekiyor. Bu kümbet, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve çeşitli kültürel etkileri içerisinde barındırıyor. Şahkulubey Kümbeti, ziyaretçilerine hem tarihi hem de doğal güzellikleri ile birlikte sunuyor.
+Şahkulubey Kümbeti, Mardin'in Kızıltepe ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Şahkulubey Kümbeti, tarihi ve kültürel önemi ile dikkat çekiyor. Bu kümbet, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve çeşitli kültürel etkileri içerisinde barındırıyor. Şahkulubey Kümbeti, ziyaretçilerine hem tarihi hem de doğal güzellikleri ile birlikte sunuyor.
 
 ## Tarihçe
 

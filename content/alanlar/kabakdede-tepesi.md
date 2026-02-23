@@ -28,7 +28,7 @@ wikidata_id: "Q31387915"
 
 # Kabakdede Tepesi
 
-Kütahya'nın güzide noktalarından biri olan Kabakdede Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırıp, doğanın kucağına davet ediyor. Kabakdede Tepesi, hem yerel halkın hem de turistlerin ilgisini çekmekte ve Ege Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çekiyor. Tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel yaşamın renkli dokusunu sunuyor.
+ Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırıp, doğanın kucağına davet ediyor. Kabakdede Tepesi, hem yerel halkın hem de turistlerin ilgisini çekmekte ve Ege Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çekiyor. Tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel yaşamın renkli dokusunu sunuyor.
 
 ## Tarihçe
 

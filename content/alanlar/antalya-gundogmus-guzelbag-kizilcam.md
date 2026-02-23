@@ -22,7 +22,7 @@ wikidata_id: "Q108227302"
 
 # Antalya-Gundogmus-Guzelbag Kızılçam
 
-Antalya-Gundogmus-Guzelbag Kızılçam milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık geniş alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde çeşitli bitki türleri ile zengin fauna bulunmakta. Milli park, ziyaretçilerine doğayı yakından tanıma ve güzelliğini keşfetmek için eşsiz bir fırsat sunuyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve kendinizi doğanın güzelliğine bırakabilirsiniz.
+Antalya-Gundogmus-Guzelbag Kızılçam milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Milli park, ziyaretçilerine doğayı yakından tanıma ve güzelliğini keşfetmek için eşsiz bir fırsat sunuyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve kendinizi doğanın güzelliğine bırakabilirsiniz.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Gundogmus-Guzelbag Kızılçam milli parkının tarihi geçmişi, yüzy�
 
 ## Coğrafya
 
-Antalya-Gundogmus-Guzelbag Kızılçam milli parkı, Akdeniz Bölgesi'nin güneyinde yer alan Antalya ilinin Gundogmus ilçesinde bulunmaktadır. Milli park, 140 hektarlık geniş alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde çeşitli bitki türleri ile zengin fauna bulunmakta. Bölge, dağlık bir araziye sahip ve yüksekliklerine göre değişen iklim özellikleri göstermektedir. Milli parkın coğrafi yapısı, ziyaretçilere farklı doğa güzellikleri sunmak için uygun bir ortam sunuyor. Bölgenin iklimi, genel olarak Akdeniz ikliminin özellikleri göstermekte ve ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor.
+Antalya-Gundogmus-Guzelbag Kızılçam milli parkı, Akdeniz Bölgesi'nin güneyinde yer alan Antalya ilinin Gundogmus ilçesinde bulunmaktadır. Bölge, dağlık bir araziye sahip ve yüksekliklerine göre değişen iklim özellikleri göstermektedir. Milli parkın coğrafi yapısı, ziyaretçilere farklı doğa güzellikleri sunmak için uygun bir ortam sunuyor. Bölgenin iklimi, genel olarak Akdeniz ikliminin özellikleri göstermekte ve ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor.
 
 ## Flora ve Fauna
 

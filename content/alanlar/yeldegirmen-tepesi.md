@@ -28,7 +28,7 @@ wikidata_id: "Q31388768"
 
 # Yeldeğirmen Tepesi
 
-Yeldeğirmen Tepesi, Muğla'nın eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alana yayılmış ve 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin yüksekliği ve genişliği, ziyaretçilerine eşsiz bir manzara sunuyor. Yeldeğirmen Tepesi, doğa severlerin ve yürüyüş tutkunlarının ziyaret edebileceği bir destinasyon olarak dikkat çekiyor.
+Yeldeğirmen Tepesi, Muğla'nın eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Tepenin yüksekliği ve genişliği, ziyaretçilerine eşsiz bir manzara sunuyor. Yeldeğirmen Tepesi, doğa severlerin ve yürüyüş tutkunlarının ziyaret edebileceği bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

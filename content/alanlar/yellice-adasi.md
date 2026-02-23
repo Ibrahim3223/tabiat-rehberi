@@ -52,7 +52,7 @@ Yellice Adası, Ege Denizi'nin bir parçası olarak, su kaynakları ve ekosistem
 
 Yellice Adası, Balıkesir'in kıyılarında bir doğa harikası olarak yer alır. Bu 1200 hektarlık yeşil cennet, geçiş ikliminin etkilerini taşır ve karma ormanların çeşitliliği ile tanınır. Ada ekosistemi, izole popülasyonlar ve deniz kuşlarının yaşam alanı olarak dikkat çeker.
 
-İlkbaharda, ada çiçeklerle süslenir ve renk cümbüşü sunar. Kıyı bitkileri, denizin kıyısında yeşerir ve adanın doğal güzelliğini vurgular. Sonbaharda, göçmen kuşlar adayı ziyaret eder ve ekosisteme renk katar. 
+İlkbaharda, ada çiçeklerle süslenir ve renk cümbüşü sunar. Kıyı bitkileri, denizin kıyısında yeşerir ve adanın doğal güzelliğini vurgular. Sonbaharda, göçmen kuşlar adayı ziyaret eder ve ekosisteme renk katar.
 
 Ada, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunar. Deniz kuşları, adanın kıyılarında yuvalarını kurar ve bu ekosistemin önemli bir parçasıdır. Ekolojik ilişkiler, adanın canlıları arasında chặtıdır ve her tür, diğerinin varlığına bağımlıdır. Bu ada, doğal güzelliği ve ekolojik değerleri ile wichtig bir koruma alanı olarak görülmelidir.
 

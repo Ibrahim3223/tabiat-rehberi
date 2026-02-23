@@ -1,7 +1,7 @@
 ---
 title: "Çatalzeytin Hamamı"
 date: "2026-01-09T23:23:42.891Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738977"
 
 # Çatalzeytin Hamamı
 
-Çatalzeytin Hamamı, Kastamonu'nun Çatalzeytin ilçesinde yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilen bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz'in en güzel plajlarından biridir. Bu plaj, yerlilerin ve turistlerin gözdesi haline gelmiştir. Çatalzeytin Hamamı, Kastamonu'nun turizm açısından önemli bir merkezi olarak kabul edilmektedir.
+Çatalzeytin Hamamı, Kastamonu'nun Çatalzeytin ilçesinde yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilen bir plajdır. Bu plaj, yerlilerin ve turistlerin gözdesi haline gelmiştir. Çatalzeytin Hamamı, Kastamonu'nun turizm açısından önemli bir merkezi olarak kabul edilmektedir.
 
 ## Tarihçe
 

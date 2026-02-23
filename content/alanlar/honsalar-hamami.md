@@ -1,7 +1,7 @@
 ---
 title: "Honsalar Hamamı"
 date: "2026-01-09T23:01:37.455Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738818"
 
 # Honsalar Hamamı
 
-Honsalar Hamamı, Kastamonu'nun merkezinde yer alan 140 hektarlık geniş bir yeşil alana sahip. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Honsalar Hamamı, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, şehrin gürültüsünden uzaklaşmanın keyfini çıkarmalarına olanak tanır. Bu güzel mekan, Kastamonu'nun tarihi ve kültürel zenginliklerinin yanı sıra, şehrin doğal güzelliklerini keşfetmek isteyenler için de önemli bir destinasyondur.
+Honsalar Hamamı, Kastamonu'nun merkezinde yer alan 140 hektarlık geniş bir yeşil alana sahip. Honsalar Hamamı, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, şehrin gürültüsünden uzaklaşmanın keyfini çıkarmalarına olanak tanır. Bu güzel mekan, Kastamonu'nun tarihi ve kültürel zenginliklerinin yanı sıra, şehrin doğal güzelliklerini keşfetmek isteyenler için de önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Honsalar Hamamı, Kastamonu'nun merkezinde yer alan bir destinasyon olup, ziyare
 ## İlginç Bilgiler
 
 - Honsalar Hamamı, 140 hektarlık bir yeşil alana sahiptir.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Honsalar Hamamı, Karadeniz Bölgesi'nin karakteristik flora ve faunasına ev sahipliği yapar.
 - Bu bölge, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 - Honsalar Hamamı, ziyaretçilerine doğanın güzelliğini sunar.

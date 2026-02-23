@@ -32,7 +32,7 @@ Bayburt'un kuzeyinde yükselen Koç Dağı, ziyaretçilerini tarihi ve doğal g�
 
 ## Tarihçe
 
-Bayburt bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş, ticaret yollarının kesişme noktası olmuştur. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, Bayburt'u stratejik öneme sahip bir yerleşim olarak görmüşlerdir. Koç Dağı da bu tarihsel coğrafyanın bir parçasıdır.
+Bayburt bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş, ticaret yollarının kesişme noktası olmuştur. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, Bayburt'u stratejik öneme sahip bir yerleşim olarak görmüşlerdir. Koç Dağı da bu tarihsel coğrafyanın bir parçasıdır.
 
 Doğal güzellikleri ve coğrafi konumu itibariyle, Koç Dağı ve benzeri alanlar, yüzyıllar boyunca insanların yaşamına ev sahipliği yapmışlardır. Yaylacılık ve hayvancılık, bu bölgede yaşayan halkların geleneksel uğraşlarından olmuş, dağlar ve ovalar arasındaki ticaret yolları, bölgenin ekonomik yaşamını şekillendirmiştir. Türkiye'de, tarihi ticaret yollarının ve yaylacılığın önemli merkezleri arasında yer alan bu gibi doğal alanlar, kültürel mirasın korunması açısından da büyük önem taşımaktadır. Koç Dağı, Bayburt'un tarihi ve kültürel zenginliklerine katkıda bulunan, aynı zamanda bölgenin doğal güzelliğini temsil eden önemli bir noktadır.
 

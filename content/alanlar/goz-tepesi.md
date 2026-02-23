@@ -28,7 +28,7 @@ wikidata_id: "Q34872680"
 
 # Göz Tepesi
 
-Göz Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde bulunan bir tepe ve önemli bir turizm merkezidir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Göz Tepesi, ziyaretçilerini muhteşem manzarasıyla karşılar ve Siirt'in tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Bu tepe, aynı zamanda bölgeye özgü bitki türleri ve hayvanları ile dikkat çeker. Göz Tepesi'ni ziyaret etmek, Siirt'in doğal güzelliklerini ve kültürel zenginliklerini keşfetmek için ideal bir fırsat sunar.
+Göz Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde bulunan bir tepe ve önemli bir turizm merkezidir. Göz Tepesi, ziyaretçilerini muhteşem manzarasıyla karşılar ve Siirt'in tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Bu tepe, aynı zamanda bölgeye özgü bitki türleri ve hayvanları ile dikkat çeker. Göz Tepesi'ni ziyaret etmek, Siirt'in doğal güzelliklerini ve kültürel zenginliklerini keşfetmek için ideal bir fırsat sunar.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Göz Tepesi, Siirt ilinin coğrafi yapısını oluşturan önemli bir tepe ve do
 
 ## Flora ve Fauna
 
-Göz Tepesi, bölgenin flora ve fauna açısından zengin bir alandır. Bu tepe, çeşitli bitki türleri ve hayvanları ile dikkat çeker. Göz Tepesi, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Bu tepe, aynı zamanda bölgeye özgü bitki türleri ve hayvanları ile dikkat çeker. Göz Tepesi'nin flora ve fauna açısından zengin oluşu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine yardımcı olur. Bu tepe, bölgenin ekolojik dengesini korumak açısından önemlidir. Göz Tepesi, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunar ve bölgenin flora ve fauna açısından zengin oluşuna dikkat çeker.
+Göz Tepesi, bölgenin flora ve fauna açısından zengin bir alandır. Bu tepe, çeşitli bitki türleri ve hayvanları ile dikkat çeker. Göz Tepesi, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Bu tepe, aynı zamanda bölgeye özgü bitki türleri ve hayvanları ile dikkat çeker. Göz Tepesi'nin flora ve fauna açısından zengin oluşu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine yardımcı olur. Göz Tepesi, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunar ve bölgenin flora ve fauna açısından zengin oluşuna dikkat çeker.
 
 ## Ziyaret Bilgileri
 

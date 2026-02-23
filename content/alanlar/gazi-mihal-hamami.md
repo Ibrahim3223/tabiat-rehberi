@@ -1,7 +1,7 @@
 ---
 title: "Gazi Mihal Hamamı"
 date: "2026-01-09T22:16:52.056Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131370491"
 
 # Gazi Mihal Hamamı
 
-Gazi Mihal Hamamı, Edirne'nin merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir plaj ve hamam kompleksi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı aktivite ve gezi seçeneği sunmakta. Bu kompleks, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarakknown ve her yıl binlerce ziyaretçi tarafından tercih edilmekte. Gazi Mihal Hamamı, hem tarihi dokusu hem de doğal güzellikleri ile ziyaretçilerini büyülemektedir. Burada, plajın keyfini çıkarabilir, hamamın sıcacık suyunda rahatlayabilir veya çevredeki tarihi mekanları gezebilirsiniz.
+Gazi Mihal Hamamı, Edirne'nin merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir plaj ve hamam kompleksi. Bu kompleks, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarakknown ve her yıl binlerce ziyaretçi tarafından tercih edilmekte. Gazi Mihal Hamamı, hem tarihi dokusu hem de doğal güzellikleri ile ziyaretçilerini büyülemektedir. Burada, plajın keyfini çıkarabilir, hamamın sıcacık suyunda rahatlayabilir veya çevredeki tarihi mekanları gezebilirsiniz.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Gazi Mihal Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. 
 
 ## Coğrafya
 
-Gazi Mihal Hamamı, Edirne'nin merkezi bir bölgesinde yer almaktadır. Bu kompleks, Marmara Bölgesi'nin coğrafi özelliklerini yansıtmakta ve ziyaretçilere, bölgenin doğal güzelliklerini keşfetme fırsatı sunmaktadır. Hamamın çevresinde, çeşitli bitki türleri ve ağaçlar bulunmaktadır ve bu, kompleksin doğal ortamını zenginleştirmektedir. Gazi Mihal Hamamı, plajın yanı sıra, hamamın sıcacık suyu ve çevresindeki tarihi mekanları ile ziyaretçilere, çok çeşitli deneyimler sunmaktadır. Bu kompleks, Edirne'nin turizm açısından önemli bir merkezi olarak kabul edilmekte ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir. Gazi Mihal Hamamı'nın coğrafi konumu, ziyaretçilere, şehrin diğer önemli yerlerine kolayca ulaşma fırsatı sunmaktadır.
+Gazi Mihal Hamamı, Edirne'nin merkezi bir bölgesinde yer almaktadır. Hamamın çevresinde, çeşitli bitki türleri ve ağaçlar bulunmaktadır ve bu, kompleksin doğal ortamını zenginleştirmektedir. Gazi Mihal Hamamı, plajın yanı sıra, hamamın sıcacık suyu ve çevresindeki tarihi mekanları ile ziyaretçilere, çok çeşitli deneyimler sunmaktadır. Bu kompleks, Edirne'nin turizm açısından önemli bir merkezi olarak kabul edilmekte ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir. Gazi Mihal Hamamı'nın coğrafi konumu, ziyaretçilere, şehrin diğer önemli yerlerine kolayca ulaşma fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 
-Gazi Mihal Hamamı'nın çevresinde, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu kompleks, Marmara Bölgesi'nin flora ve faunasını yansıtmakta ve ziyaretçilere, bölgenin doğal güzelliklerini keşfetme fırsatı sunmaktadır. Hamamın çevresindeki plaj, birçok farklı türde deniz canlısına ev sahipliği yapmakta ve bu, kompleksin doğal ortamını zenginleştirmektedir. Gazi Mihal Hamamı, mevsimsel değişimlere göre, farklı türde bitkiler ve hayvanlar ile ziyaretçilere, çok çeşitli deneyimler sunmaktadır. Bu kompleks, Edirne'nin doğal mirasının önemli bir parçasıdır ve ziyaretçilere, şehrin flora ve faunasını keşfetme fırsatı sunar.
+Gazi Mihal Hamamı'nın çevresinde, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Hamamın çevresindeki plaj, birçok farklı türde deniz canlısına ev sahipliği yapmakta ve bu, kompleksin doğal ortamını zenginleştirmektedir. Gazi Mihal Hamamı, mevsimsel değişimlere göre, farklı türde bitkiler ve hayvanlar ile ziyaretçilere, çok çeşitli deneyimler sunmaktadır. Bu kompleks, Edirne'nin doğal mirasının önemli bir parçasıdır ve ziyaretçilere, şehrin flora ve faunasını keşfetme fırsatı sunar.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31548478"
 
 # Kalebero Tepesi
 
-Kalebero Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan tarihi ve doğal bir güzellik noktasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kalebero Tepesi, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği benzersiz bir noktaya davet ediyor. Bu bölge, hem tarihe ilgi duyanlar hem de doğa severler için ideal bir destinasyon.
+Kalebero Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan tarihi ve doğal bir güzellik noktasıdır. Kalebero Tepesi, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği benzersiz bir noktaya davet ediyor. Bu bölge, hem tarihe ilgi duyanlar hem de doğa severler için ideal bir destinasyon.
 
 ## Tarihçe
 

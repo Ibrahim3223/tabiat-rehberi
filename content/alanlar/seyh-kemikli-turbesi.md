@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Kemikli Türbesi"
 date: "2026-01-10T07:26:25.514Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390998"
 
 # Şeyh Kemikli Türbesi
 
-Şeyh Kemikli Türbesi, İstanbul'un Pendik ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir nokta. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahip ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Şeyh Kemikli Türbesi, ziyaretçilerini hem histórik bir yolculuğa çıkarıyor hem de doğanın güzelliği ile baş başa bırakıyor. Bu mekan, hem İstanbul'un tarihi geçmişi hem de Marmara Bölgesi'nin coğrafi çeşitliliği hakkında fikir veriyor.
+Şeyh Kemikli Türbesi, İstanbul'un Pendik ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir nokta. Şeyh Kemikli Türbesi, ziyaretçilerini hem tarihi bir yolculuğa çıkarıyor hem de doğanın güzelliği ile baş başa bırakıyor. Bu mekan, hem İstanbul'un tarihi geçmişi hem de Marmara Bölgesi'nin coğrafi çeşitliliği hakkında fikir veriyor.
 
 ## Tarihçe
 

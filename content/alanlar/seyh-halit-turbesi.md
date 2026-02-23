@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Halit Türbesi"
 date: "2026-01-10T07:03:36.455Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -37,11 +37,11 @@ wikidata_id: "Q131390884"
 
 ## Coğrafya
 
-Şeyh Halit Türbesi, Ilgın ilçesinin merkezi bir noktasında yer alır ve coğrafi olarak çeşitlilik gösteren bir bölgedir. Türbe, 140 hektarlık bir alan kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Çevresinde çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi çeşitlilik, ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. İlgin ve çevresinin coğrafi yapısı, tarihi ve doğal güzellikleri bir araya getiren benzersiz bir atmosfer sunar.
+Şeyh Halit Türbesi, Ilgın ilçesinin merkezi bir noktasında yer alır ve coğrafi olarak çeşitlilik gösteren bir bölgedir. Çevresinde çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi çeşitlilik, ziyaretçilere farklı mevsimlerde farklı deneyimler sunar. İlgin ve çevresinin coğrafi yapısı, tarihi ve doğal güzellikleri bir araya getiren benzersiz bir atmosfer sunar.
 
 ## Flora ve Fauna
 
-Şeyh Halit Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Çevrede, mevsimsel olarak değişen bitki örtüsü, ilkbahar ve yaz aylarında yeşilin farklı tonlarını sergilerken, sonbahar ve kış aylarında da renkli bir manzara sunar. Bölgenin fauna zenginliği, kuş türleri, küçük memeliler ve böcekler ile temsil edilir. Bu çeşitlilik, ziyaretçilere doğa ile iç içe bir deneyim sunar. Mevsimsel değişimlere bağlı olarak, bu bölgede yaşayan canlılar da değişkenlik gösterir. İlkbahar ve yaz aylarında daha aktif olan canlılar, sonbahar ve kış aylarında daha az görülür. Bu doğal döngü, Şeyh Halit Türbesi'nin etrafındaki doğayı canlı tutar.
+ Çevrede, mevsimsel olarak değişen bitki örtüsü, ilkbahar ve yaz aylarında yeşilin farklı tonlarını sergilerken, sonbahar ve kış aylarında da renkli bir manzara sunar. Bölgenin fauna zenginliği, kuş türleri, küçük memeliler ve böcekler ile temsil edilir. Bu çeşitlilik, ziyaretçilere doğa ile iç içe bir deneyim sunar. Mevsimsel değişimlere bağlı olarak, bu bölgede yaşayan canlılar da değişkenlik gösterir. İlkbahar ve yaz aylarında daha aktif olan canlılar, sonbahar ve kış aylarında daha az görülür. Bu doğal döngü, Şeyh Halit Türbesi'nin etrafındaki doğayı canlı tutar.
 
 ## Ziyaret Bilgileri
 

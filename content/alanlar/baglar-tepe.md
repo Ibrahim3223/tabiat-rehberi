@@ -61,7 +61,7 @@ Bağlar Tepe, Mardin'in gizli bir incisi. Sabah erken gitmenizi öneririm, hem k
 ## İlginç Bilgiler
 
 - Bağlar Tepe, Mardin ilinin merkezine yaklaşık 10 kilometre uzaklıktadır.
-- Mardin Kalesi'ne ev sahipliği yapan Bağlar Tepe, histórik açıdan önemli bir noktada yer alır.
+- Mardin Kalesi'ne ev sahipliği yapan Bağlar Tepe, tarihi açıdan önemli bir noktada yer alır.
 - Bağlar Tepe, Mardin'in tarihi ve kültürel zenginliklerini yansıtan önemli bir bölgedir.
 - Tarih boyunca çeşitli medeniyetlere ev sahipliği yapan Mardin, Bağlar Tepe çevresinde gelişmiştir.
 - Bağlar Tepe ve çevresindeki tarihi yapılar, 1982 yılında korunmaya alınmıştır.

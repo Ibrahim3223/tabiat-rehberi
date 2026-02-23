@@ -29,7 +29,7 @@ wikidata_id: "Q131739155"
 
 # Sultaniye Kaplıcası
 
-Sultaniye Kaplıcası, Muğla'nın Köyceğiz ilçesinde bulunan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine eşsiz bir deneyimi vaat ediyor. Kaplıcanın şifalı suları, yüzyıllar boyunca insanların sağlığını korumak için kullanılan bir kaynak olarak biliniyor. Sultaniye Kaplıcası, not only doğal güzelliği ile dikkat çekiyor, aynı zamanda tarihi geçmişi ile de ziyaretçilerini cezbediyor.
+Sultaniye Kaplıcası, Muğla'nın Köyceğiz ilçesinde bulunan bir doğa harikasıdır. Kaplıcanın şifalı suları, yüzyıllar boyunca insanların sağlığını korumak için kullanılan bir kaynak olarak biliniyor. Sultaniye Kaplıcası, not only doğal güzelliği ile dikkat çekiyor, aynı zamanda tarihi geçmişi ile de ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227552"
 
 # Ankara-Ilgaz-Yenice Saricam Tohum Mesceresi
 
-Ankara-Ilgaz-Yenice Saricam Tohum Mesceresi, İç Anadolu Bölgesi'nin güzide noktalarından biridir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türlerini barındırmaktadır. Burada yer alan bitkiler, sadece bu coğrafyaya has türlerdir ve ekosistemin dengesini korumaktadırlar. Saricam Tohum Mesceresi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapmaktadır. Bu bölge, hem doğal güzelliği hem de biyolojik çeşitliliği ile dikkat çekmektedir. Doğa severler ve bilim insanları için önemli bir araştırma ve gezi noktası olarak bilinir.
+Ankara-Ilgaz-Yenice Saricam Tohum Mesceresi, İç Anadolu Bölgesi'nin güzide noktalarından biridir. Burada yer alan bitkiler, sadece bu coğrafyaya has türlerdir ve ekosistemin dengesini korumaktadırlar. Saricam Tohum Mesceresi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapmaktadır. Bu bölge, hem doğal güzelliği hem de biyolojik çeşitliliği ile dikkat çekmektedir. Doğa severler ve bilim insanları için önemli bir araştırma ve gezi noktası olarak bilinir.
 
 ## Tarihçe
 

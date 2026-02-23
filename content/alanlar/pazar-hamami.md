@@ -1,7 +1,7 @@
 ---
 title: "Pazar Hamamı"
 date: "2026-01-09T23:08:26.441Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738865"
 
 # Pazar Hamamı
 
-Pazar Hamamı, Antalya'nın Muratpaşa ilçesinde yer alan, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde devasa bir doğal plajdır. Bu büyük yeşil alan, ziyaretçilerine hem güzelliği hem de geniş bir aktivite alanı sunar. Konum olarak da oldukça merkezi bir yerde bulunan Pazar Hamamı, birçok turisti ve sosyal imkânın yakınında yer alır. Bu sayede ziyaretçiler, plajın sunduğu olanakların yanı sıra, yakın çevresinde de birçok farklı aktivite ve hizmetten yararlanabilirler.
+ Bu büyük yeşil alan, ziyaretçilerine hem güzelliği hem de geniş bir aktivite alanı sunar. Konum olarak da oldukça merkezi bir yerde bulunan Pazar Hamamı, birçok turisti ve sosyal imkânın yakınında yer alır. Bu sayede ziyaretçiler, plajın sunduğu olanakların yanı sıra, yakın çevresinde de birçok farklı aktivite ve hizmetten yararlanabilirler.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Pazar Hamamı, Antalya'nın tarihi geçmişiçinde önemli bir yere sahiptir. Y�
 
 ## Coğrafya
 
-Pazar Hamamı, coğrafi olarak oldukça ilgi çekici bir bölgede yer alır. 140 hektarlık geniş yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu büyük alan, ziyaretçilere geniş bir doğal ortam sunar. Plajın coğrafi yapısı, genellikle düz ve geniş bir sahil şeridinden oluşur. Bu sayede, ziyaretçiler, geniş ve rahat bir şekilde plajın keyfini çıkarabilirler. Ayrıca, plajın yakınında yer alan dağlar ve ormanlar, manzarayı güzelleştiren ve ziyaretçilere farklı doğa aktiviteleri sunan önemli coğrafi özelliklerdir. İklim olarak, Akdeniz Bölgesi'nde yer alan Pazar Hamamı, genellikle sıcak ve güneşli bir havaya sahiptir. Bu, ziyaretçilerin yılın çoğu döneminde plajın keyfini çıkarmalarına olanak tanır.
+Pazar Hamamı, coğrafi olarak oldukça ilgi çekici bir bölgede yer alır. Bu büyük alan, ziyaretçilere geniş bir doğal ortam sunar. Plajın coğrafi yapısı, genellikle düz ve geniş bir sahil şeridinden oluşur. Bu sayede, ziyaretçiler, geniş ve rahat bir şekilde plajın keyfini çıkarabilirler. Ayrıca, plajın yakınında yer alan dağlar ve ormanlar, manzarayı güzelleştiren ve ziyaretçilere farklı doğa aktiviteleri sunan önemli coğrafi özelliklerdir. İklim olarak, Akdeniz Bölgesi'nde yer alan Pazar Hamamı, genellikle sıcak ve güneşli bir havaya sahiptir. Bu, ziyaretçilerin yılın çoğu döneminde plajın keyfini çıkarmalarına olanak tanır.
 
 ## Flora ve Fauna
 
-Pazar Hamamı ve çevresinin flora ve fauna açısından oldukça zengin bir yapıya sahiptir. Bölgede, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitkiler, plajın doğal güzelliğine katkıda bulunur ve ziyaretçilere güzel bir ortam sunar. Fauna açısından da, bölgede birçok farklı hayvan türü yaşar. Özellikle, göçmen kuşların uğrak noktalarından biri olan bu bölge, kuş gözlemcileri için de önemli bir destinasyondur. Mevsimsel değişimler, bölgenin flora ve faunasını etkiler. İlkbahar ve yaz aylarında, plaj ve çevresi daha çok yeşillenir ve canlılarla dolup taşar. Kış aylarında ise, daha sakin bir ortamın keyfini çıkarma mümkün olur.
+ Bölgede, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitkiler, plajın doğal güzelliğine katkıda bulunur ve ziyaretçilere güzel bir ortam sunar. Fauna açısından da, bölgede birçok farklı hayvan türü yaşar. Özellikle, göçmen kuşların uğrak noktalarından biri olan bu bölge, kuş gözlemcileri için de önemli bir destinasyondur. Mevsimsel değişimler, bölgenin flora ve faunasını etkiler. İlkbahar ve yaz aylarında, plaj ve çevresi daha çok yeşillenir ve canlılarla dolup taşar. Kış aylarında ise, daha sakin bir ortamın keyfini çıkarma mümkün olur.
 
 ## Ziyaret Bilgileri
 

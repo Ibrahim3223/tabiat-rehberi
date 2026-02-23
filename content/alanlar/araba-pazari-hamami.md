@@ -1,7 +1,7 @@
 ---
 title: "Araba Pazarı Hamamı"
 date: "2026-01-09T22:18:29.662Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -30,7 +30,7 @@ wikidata_id: "Q126020944"
 
 # Araba Pazarı Hamamı
 
-Kastamonu'nun merkezinde yer alan Araba Pazarı Hamamı, yaklaşık 140 hektarlık bir alanı kapsayan, Karadeniz Bölgesi'nin en güzel plajlarından biri. Bu geniş ve yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Araba Pazarı Hamamı, Kastamonu'nun doğal güzellikleri arasında yer alan bir plaj ve şehrin merkezine yakınlığıyla dikkat çekiyor. Burada, denizin serinliği ve güneşin sıcaklığını bir arada yaşayabilirsiniz.
+Kastamonu'nun merkezinde yer alan Araba Pazarı Hamamı, yaklaşık 140 hektarlık bir alanı kapsayan, Karadeniz Bölgesi'nin en güzel plajlarından biri. Araba Pazarı Hamamı, Kastamonu'nun doğal güzellikleri arasında yer alan bir plaj ve şehrin merkezine yakınlığıyla dikkat çekiyor. Burada, denizin serinliği ve güneşin sıcaklığını bir arada yaşayabilirsiniz.
 
 ## Tarihçe
 

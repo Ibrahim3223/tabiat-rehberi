@@ -53,7 +53,7 @@ Son olarak, Yılan Adası, Antalya'nın kıyı şeridi ile bağlantılı bir ada
 
 Yılan Adası, Antalya'nın kıyılarında yer alan bir ada ekosistemi olarak maki bitki örtüsüne ev sahipliği yapmaktadır. Ilkbahar ayında, ada çiçeklerle örtülür ve rengarenk bir görünüm sunar. Kuraklığa dayanıklı türler, ada koşullarına uyum sağlamış ve yıl boyunca yeşil kalan bitki örtüsünü oluşturur.
 
-Ada, deniz kuşları için önemli bir üreme ve beslenme alanıdır. Kıyı bitkileri, bu kuşların yuvalanması için uygun bir ortam sağlar. Memeliler ve sürüngenler de ada ekosisteminin bir parçasını oluşturur. Sonbahar ayında, göç eden kuşlar adayı ziyaret eder ve beslenmek için duraklar. 
+Ada, deniz kuşları için önemli bir üreme ve beslenme alanıdır. Kıyı bitkileri, bu kuşların yuvalanması için uygun bir ortam sağlar. Memeliler ve sürüngenler de ada ekosisteminin bir parçasını oluşturur. Sonbahar ayında, göç eden kuşlar adayı ziyaret eder ve beslenmek için duraklar.
 
 Ada ekosisteminin izole popülasyonları, bu bölgeye özgü türlerin gelişimine katkıda bulunur. Deniz kuşlarının kıyı bitkilerine bağımlılığı, ekolojik ilişkilerin önemini gösterir. Bu ada, kıyı ekosisteminin korunması açısından büyük bir değer taşır.
 

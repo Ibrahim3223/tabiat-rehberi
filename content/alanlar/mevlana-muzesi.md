@@ -1,7 +1,7 @@
 ---
 title: "Mevlana Müzesi"
 date: "2026-01-10T04:43:56.169Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q902957"
 
 # Mevlana Müzesi
 
-Mevlana Müzesi, Konya'nın merkezinde bulunan ve Mevlana Celaleddin Rumi'nin yaşamını, felsefesini ve sufizmin tarihini yansıtan önemli bir kültürel merkez. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bahçeleri, tarihi yapıları ile ziyaretçilerini cezbediyor. Mevlana Müzesi, Konya'nın en önemli turistik noktalarından biri ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Müzenin koleksiyonunda Mevlana'nın yaşamına ait eşyalar, el yazmaları, resimler ve diğer önemli eserler bulunuyor.
+Mevlana Müzesi, Konya'nın merkezinde bulunan ve Mevlana Celaleddin Rumi'nin yaşamını, felsefesini ve sufizmin tarihini yansıtan önemli bir kültürel merkez. Mevlana Müzesi, Konya'nın en önemli turistik noktalarından biri ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Müzenin koleksiyonunda Mevlana'nın yaşamına ait eşyalar, el yazmaları, resimler ve diğer önemli eserler bulunuyor.
 
 ## Tarihçe
 

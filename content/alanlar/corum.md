@@ -23,7 +23,7 @@ wikidata_id: "Q108228660"
 
 # ÇORUM
 
-Çorum, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir ildir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda çeşitli bitki türleri ve hayvanlar yaşamaktadır. İl, coğrafi olarak dağlık ve ovalık alanlara sahiptir. Çorum'un tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin hüküm sürdüğü bir bölge olarak dikkat çekmektedir. İlde, tarihi eserler ve doğal güzellikler bulunur.
+Çorum, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir ildir. İl, coğrafi olarak dağlık ve ovalık alanlara sahiptir. Çorum'un tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin hüküm sürdüğü bir bölge olarak dikkat çekmektedir. İlde, tarihi eserler ve doğal güzellikler bulunur.
 
 ## Tarihçe
 

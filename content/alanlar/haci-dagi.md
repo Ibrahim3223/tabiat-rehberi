@@ -54,7 +54,7 @@ Hacı Dağı, İzmir'in zeytinlikler ve çam ormanları ile çevrili bir dağ ek
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri ve yaban domuzları, dağlık alanların karakteristik hayvanlarıdır. Göç mevsiminde, birçok kuş türü dağ üzerinden geçer ve bu bölgeyi önemli bir göç güzergahı haline getirir. Sürüngenler, özellikle yılanlar ve kertenkeleler, dağın sıcak ve kurak bölgelerinde yaşarlar.
 
-Hacı Dağı, bölgenin ekolojik dengesini korumak açısından önemlidir. Zeytinlikler ve çam ormanları, toprağın erozyonunu önler ve su döngüsünü düzenler. Bu dağ ekosisteminin korunması, hem yerel flora ve faunanın hem de insan yerleşimlerinin sürekliliğiçin kritik bir öneme sahiptir.
+ Zeytinlikler ve çam ormanları, toprağın erozyonunu önler ve su döngüsünü düzenler. Bu dağ ekosisteminin korunması, hem yerel flora ve faunanın hem de insan yerleşimlerinin sürekliliğiçin kritik bir öneme sahiptir.
 
 ## Ziyaret Bilgileri
 

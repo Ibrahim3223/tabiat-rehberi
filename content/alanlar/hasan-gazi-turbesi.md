@@ -1,7 +1,7 @@
 ---
 title: "Hasan Gazi Türbesi"
 date: "2026-01-10T07:14:00.208Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Malatya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390903"
 
 # Hasan Gazi Türbesi
 
-Hasan Gazi Türbesi, Darende'nin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir mekan. 140 hektarlık bir alan üzerine kurulu olan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla iç içe bir ortamda ağırlıyor. Hasan Gazi Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Bu mekan, Darende'nin önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor. Ziyaretçiler, bu türbenin tarihi ve kültürel önemini yakından inceleyebilir ve aynı zamanda çevredeki doğal güzellikleri keşfedebilir.
+Hasan Gazi Türbesi, Darende'nin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir mekan. Hasan Gazi Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Bu mekan, Darende'nin önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor. Ziyaretçiler, bu türbenin tarihi ve kültürel önemini yakından inceleyebilir ve aynı zamanda çevredeki doğal güzellikleri keşfedebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hasan Gazi Türbesi'nin tarihi geçmişi oldukça eskilere dayanmaktadır. Bu me
 
 ## Coğrafya
 
-Hasan Gazi Türbesi, Darende'nin merkezinde yer alan bir mekan. Bu mekan, 140 hektarlık bir alan üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Hasan Gazi Türbesi'nin çevresi, doğal güzellikleriyle dikkat çekiyor. Bu mekan, ziyaretçilerini doğayla iç içe bir ortamda ağırlıyor ve çevredeki doğal güzellikleri keşfetme fırsatı sunuyor. Hasan Gazi Türbesi, Darende'nin coğrafi yapısını yansıtması açısından önemli bir mekan. Bu mekan, ziyaretçilerini Darende'nin coğrafi güzelliklerini keşfetmeye davet ediyor. Hasan Gazi Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve canlılarla dolu. Bu mekan, doğal güzelliklerinin yanı sıra tarihi ve kültürel önemini de korumaktadır.
+Hasan Gazi Türbesi, Darende'nin merkezinde yer alan bir mekan. Hasan Gazi Türbesi'nin çevresi, doğal güzellikleriyle dikkat çekiyor. Bu mekan, ziyaretçilerini doğayla iç içe bir ortamda ağırlıyor ve çevredeki doğal güzellikleri keşfetme fırsatı sunuyor. Hasan Gazi Türbesi, Darende'nin coğrafi yapısını yansıtması açısından önemli bir mekan. Bu mekan, ziyaretçilerini Darende'nin coğrafi güzelliklerini keşfetmeye davet ediyor. Hasan Gazi Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve canlılarla dolu. Bu mekan, doğal güzelliklerinin yanı sıra tarihi ve kültürel önemini de korumaktadır.
 
 ## Flora ve Fauna
 

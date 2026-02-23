@@ -22,7 +22,7 @@ wikidata_id: "Q108228939"
 
 # BURDUR SERENÇAY KANYONU
 
-Burdur Serençay Kanyonu, İç Anadolu Bölgesi'nin doğal güzelliklerinin başlıca mekanlarından biridir. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunan bu kanyon, ziyaretçilerini doğanın içine çekerek unutulmaz anlar yaşatır. Kanyonun etrafını saran tepeler ve vadiler, ziyaretçilere geniş bir manzara sunarken, içerisindeki bitkiler ve hayvanlar da bu doğal güzelliğin bir parçası olarak görülür. Burdur Serençay Kanyonu, hem doğa severler hem de macera arayışındaki için ideal bir destinasyon olarak dikkat çeker.
+Burdur Serençay Kanyonu, İç Anadolu Bölgesi'nin doğal güzelliklerinin başlıca mekanlarından biridir. Kanyonun etrafını saran tepeler ve vadiler, ziyaretçilere geniş bir manzara sunarken, içerisindeki bitkiler ve hayvanlar da bu doğal güzelliğin bir parçası olarak görülür. Burdur Serençay Kanyonu, hem doğa severler hem de macera arayışındaki için ideal bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Burdur Serençay Kanyonu'nun tarihi geçmişi, yüzyıllar boyunca çeşitli med
 
 ## Coğrafya
 
-Burdur Serençay Kanyonu, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunan bu kanyon, etrafını saran tepeler ve vadiler ile birlikte geniş bir coğrafi yapı oluşturur. Kanyonun coğrafi konumu, ziyaretçilere geniş bir manzara sunarken, içerisindeki bitkiler ve hayvanlar da bu doğal güzelliğin bir parçası olarak görülür. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Bahar aylarında yeşeren bitkiler, yaz aylarında sıcakğın hissedildiği bir atmosfer, sonbahar aylarında renklerin değişimi ve kış aylarında karla kaplı bir manzara, Burdur Serençay Kanyonu'nun ziyaretçilerine sunduğu çeşitliliktedir.
+Burdur Serençay Kanyonu, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Kanyonun coğrafi konumu, ziyaretçilere geniş bir manzara sunarken, içerisindeki bitkiler ve hayvanlar da bu doğal güzelliğin bir parçası olarak görülür. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Bahar aylarında yeşeren bitkiler, yaz aylarında sıcakğın hissedildiği bir atmosfer, sonbahar aylarında renklerin değişimi ve kış aylarında karla kaplı bir manzara, Burdur Serençay Kanyonu'nun ziyaretçilerine sunduğu çeşitliliktedir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Burdur Serençay Kanyonu'nu ziyaret etmek, hem doğa severler hem de macera aray
 
 ## İlginç Bilgiler
 
-- Burdur Serençay Kanyonu, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar.
 - Kanyonun coğrafi konumu, ziyaretçilere geniş bir manzara sunar.
 - Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir.
 - Burdur Serençay Kanyonu, zengin bir flora ve fauna çeşitliliğine sahiptir.

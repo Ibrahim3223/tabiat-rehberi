@@ -28,7 +28,7 @@ wikidata_id: "Q31535144"
 
 # Daz Tepe
 
-Hatay'ın doğal güzelliklerinin arasında yer alan Daz Tepe, bölgenin en dikkat çekici noktalarından biri. Bu dağ, Hatay'ın zengin tarihi ve kültürel mirasının bir parçasıdır. Daz Tepe, bölgedeki diğer dağlar gibi, Hatay'ın coğrafi çeşitliliğini gösterir. 
+Hatay'ın doğal güzelliklerinin arasında yer alan Daz Tepe, bölgenin en dikkat çekici noktalarından biri. Bu dağ, Hatay'ın zengin tarihi ve kültürel mirasının bir parçasıdır. Daz Tepe, bölgedeki diğer dağlar gibi, Hatay'ın coğrafi çeşitliliğini gösterir.
 
 Not: Verilen bilgilere göre, Daz Tepe hakkında fiziksel veri bulunmamaktadır.
 

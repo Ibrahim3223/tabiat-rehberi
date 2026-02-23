@@ -28,7 +28,7 @@ wikidata_id: "Q108228269"
 
 # Üçtepeler Tabiat Parkı
 
-Üçtepeler Tabiat Parkı, İç Anadolu Bölgesi'nin en güzel doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik dengesini korumaktadır. Üçtepeler Tabiat Parkı, zengin flora ve faunasıyla dikkat çekmekte ve ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Parkın konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin tarihini öğrenmesine olanak tanır. Üçtepeler Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağıdır.
+Üçtepeler Tabiat Parkı, İç Anadolu Bölgesi'nin en güzel doğal alanlarından biridir. Üçtepeler Tabiat Parkı, zengin flora ve faunasıyla dikkat çekmekte ve ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Parkın konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin tarihini öğrenmesine olanak tanır. Üçtepeler Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağıdır.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ wikidata_id: "Q108228269"
 ## İlginç Bilgiler
 
 - Üçtepeler Tabiat Parkı, 140 hektarlık bir alana sahiptir.
-- Park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Üçtepeler Tabiat Parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biridir.
 - Park, zengin flora ve faunaya ev sahipliği yapar.
 - Üçtepeler Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağıdır.

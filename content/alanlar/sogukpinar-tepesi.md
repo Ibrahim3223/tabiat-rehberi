@@ -28,7 +28,7 @@ wikidata_id: "Q31387820"
 
 # Soğukpınar Tepesi
 
-Soğukpınar Tepesi, Ardahan ilinin sınırları içerisinde yer alan ve Doğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Soğukpınar Tepesi, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Burada, doğanın güzelliğini ve bölgenin zengin tarihini keşfetme mümkün. Soğukpınar Tepesi, ziyaretçiler için hem bir doğa harikası hem de bir keşif alanı olarak görülüyor.
+Soğukpınar Tepesi, Ardahan ilinin sınırları içerisinde yer alan ve Doğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Soğukpınar Tepesi, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Burada, doğanın güzelliğini ve bölgenin zengin tarihini keşfetme mümkün. Soğukpınar Tepesi, ziyaretçiler için hem bir doğa harikası hem de bir keşif alanı olarak görülüyor.
 
 ## Tarihçe
 

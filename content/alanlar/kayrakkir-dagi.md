@@ -50,9 +50,9 @@ Bölgenin ekosistem bağlantılarına bakıldığında, Kayrakkır Dağı'nın �
 
 Kayrakkır Dağı, Mersin'in maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemidir. 1200 metre yükseklikte, kuraklığa dayanıklı türler ile kaplı bu alan, ilkbaharla birlikte rengarenk çiçeklerle donanır. Kıyı ekosisteminin immediate yakınında yer alan bu dağ, mevsimsel değişimlerle birlikte farklı bir güzelliğe bürünür.
 
-Bitki örtüsünün hakim türleri, maki ve kuraklığa dayanıklı bitkilerden oluşur. İlkbaharla birlikte, çiçekler dağ yüzünü renkli bir halı gibi kaplar. Bu dönemde, dağ eteklerinde ve yamaçlarında çeşitli otsu bitkiler ve çalılar yeşerir. 
+Bitki örtüsünün hakim türleri, maki ve kuraklığa dayanıklı bitkilerden oluşur. İlkbaharla birlikte, çiçekler dağ yüzünü renkli bir halı gibi kaplar. Bu dönemde, dağ eteklerinde ve yamaçlarında çeşitli otsu bitkiler ve çalılar yeşerir.
 
-Yaban hayatı, dağların yükseklik zonlarına göre değişir. Dağ keçileri, yaban domuzları ve tilkiler, bu bölgenin memeli hayvanlarıdır. Kuşlar, özellikle göç mevsimlerinde, Kayrakkır Dağı'nda önemli bir yer tutar. Sürüngenler de bu dağda yaşamlarını sürdürür. 
+Yaban hayatı, dağların yükseklik zonlarına göre değişir. Dağ keçileri, yaban domuzları ve tilkiler, bu bölgenin memeli hayvanlarıdır. Kuşlar, özellikle göç mevsimlerinde, Kayrakkır Dağı'nda önemli bir yer tutar. Sürüngenler de bu dağda yaşamlarını sürdürür.
 
 Bu dağ ekosisteminin ekolojik değeri, yükseklik zonlarına göre oluşan farklı yaşam alanlarından kaynaklanır. Bu farklılık, çeşitli canlı türlerinin bir arada yaşamasını sağlar.
 

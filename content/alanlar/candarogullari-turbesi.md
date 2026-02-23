@@ -1,7 +1,7 @@
 ---
 title: "Candaroğulları Türbesi"
 date: "2026-01-10T07:17:31.442Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sinop"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390940"
 
 # Candaroğulları Türbesi
 
-Sinop'un merkezinde yer alan Candaroğulları Türbesi, şehrin tarihi zenginliğini yansıtan önemli bir yapıdır. Bu tarihsel mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir tarihi atmosfer sunar. Türbe, Candaroğulları Beyliği'nin tarihinde önemli bir yere sahiptir ve bu bölgenin kültürel kimliğini temsil eder. Bu tarihi yapı, Sinop'un turistik değerinin önemli bir parçasını oluşturur ve her yıl birçok ziyaretçiyi ağırlar.
+Sinop'un merkezinde yer alan Candaroğulları Türbesi, şehrin tarihi zenginliğini yansıtan önemli bir yapıdır. Bu tarihsel mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Türbe, Candaroğulları Beyliği'nin tarihinde önemli bir yere sahiptir ve bu bölgenin kültürel kimliğini temsil eder. Bu tarihi yapı, Sinop'un turistik değerinin önemli bir parçasını oluşturur ve her yıl birçok ziyaretçiyi ağırlar.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Candaroğulları Türbesi, Sinop'un merkezi bölümünde yer alır ve Karadeniz 
 
 ## Flora ve Fauna
 
-Candaroğulları Türbesi ve çevresindeki bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı türlerde bitkiler ve hayvanlar bulunur. especially ilkbahar ve yaz aylarında, bu bölgede çiçek açan bitkiler ve göçmen kuşlar gibi canlılar görülebilir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu geniş alan, çeşitli ekosistemleri destekler. Bu bölgede, tarihi türbe ile birlikte, doğal güzellikler de ziyaretçileri çekmektedir. Mevsimsel değişimlere rağmen, bu bölge her zaman ziyaretçilere farklı bir deneyim sunar ve bu nedenle önemli bir turistik noktadır.
+ Bu bölgede, mevsimsel değişimlere bağlı olarak farklı türlerde bitkiler ve hayvanlar bulunur. especially ilkbahar ve yaz aylarında, bu bölgede çiçek açan bitkiler ve göçmen kuşlar gibi canlılar görülebilir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu geniş alan, çeşitli ekosistemleri destekler. Bu bölgede, tarihi türbe ile birlikte, doğal güzellikler de ziyaretçileri çekmektedir. Mevsimsel değişimlere rağmen, bu bölge her zaman ziyaretçilere farklı bir deneyim sunar ve bu nedenle önemli bir turistik noktadır.
 
 ## Ziyaret Bilgileri
 
@@ -54,4 +54,4 @@ Candaroğulları Türbesi'ni ziyaret etmek, Sinop'un tarihi ve kültürel değer
 - Türbe, yaklaşık 140 hektarlık bir alanı kaplar.
 - Candaroğulları Beyliği, bu bölgenin tarihinde önemli bir yere sahiptir.
 - Türbe, tarihi ve kültürel değerleri ile ziyaretçileri çekmektedir.
-- Sinop'un merkezi bölümünde yer alan türbe, fácil ulaşılabilir bir konumdadır.
+- Sinop'un merkezi bölümünde yer alan türbe, kolay ulaşılabilir bir konumdadır.

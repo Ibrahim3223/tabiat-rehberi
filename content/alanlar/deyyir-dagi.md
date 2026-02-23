@@ -28,7 +28,7 @@ wikidata_id: "Q31525879"
 
 # Deyyir Dağı
 
-Deyyir Dağı, tarihi ve kültürel zenginlikleriyle dikkat çeken bir destinasyon. Siirt'in mistik atmosferinin içinde yer alan bu dağ, ziyaretçilerine unutulmaz bir deneyim vaat ediyor. Siirt'in coğrafi güzelliklerinin önemli bir parçası olan Deyyir Dağı, bölgenin doğal ve tarihi değerlerini keşfetmek isteyenler için ideal bir rota. Bu bölgede doğa ve tarih bir araya geliyor.
+Deyyir Dağı, tarihi ve kültürel zenginlikleriyle dikkat çeken bir destinasyon. Siirt'in coğrafi güzelliklerinin önemli bir parçası olan Deyyir Dağı, bölgenin doğal ve tarihi değerlerini keşfetmek isteyenler için ideal bir rota. Bu bölgede doğa ve tarih bir araya geliyor.
 
 ## Tarihçe
 
@@ -48,7 +48,7 @@ Deyyir Dağı'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile �
 
 ## Flora ve Fauna
 
-Deyyir Dağı, Siirt'in yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarına bağlı olarak değişen flora, ilkbahar mevsiminde rengarenk çiçeklerle donanıyor. Step ve ova ekolojisinin bir arada bulunduğu bu bölgede, bitki örtüsünün mevsimsel değişimleri gözlemlenebilir. 
+Deyyir Dağı, Siirt'in yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarına bağlı olarak değişen flora, ilkbahar mevsiminde rengarenk çiçeklerle donanıyor. Step ve ova ekolojisinin bir arada bulunduğu bu bölgede, bitki örtüsünün mevsimsel değişimleri gözlemlenebilir.
 
 Yaban hayatı açısından zengin olan Deyyir Dağı, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunuyor. Göç eden kuşlar, sonbahar mevsiminde dağların göklerinde görülebiliyor. Dağın yükseklik zonlarına adapte olmuş dağ hayvanları, bu bölgede hayatta kalma mücadelesini veriyor. Ekolojik değer açısından önemli olan Deyyir Dağı, bölgenin ekolojik dengesini koruyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik sağlığını güvence altına almak açısından büyük önem taşıyor.
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108227346"
 
 # Meke Gölü
 
-Meke Gölü, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu göl, çevresindeki yeşil alanlar ve zengin fauna ile birlikte ziyaretçilerini doğanın güzelliğine davet ediyor. Gölün etrafında yapılan yürüyüşler ve doğa gezileri, ziyaretçilere eşsiz bir deneyim sunuyor. Meke Gölü'nün güzelliği ve doğal zenginliği, bu alanı ziyaret etmek isteyenlerin sayısını her geçen gün artırıyor.
+Meke Gölü, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Gölün etrafında yapılan yürüyüşler ve doğa gezileri, ziyaretçilere eşsiz bir deneyim sunuyor. Meke Gölü'nün güzelliği ve doğal zenginliği, bu alanı ziyaret etmek isteyenlerin sayısını her geçen gün artırıyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Meke Gölü'nün tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sah
 
 ## Coğrafya
 
-Meke Gölü, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğal güzellik olarak dikkat çekiyor. Göl, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresindeki yeşil alanlar ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Gölün coğrafi konumu, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Meke Gölü'nün etrafında, çeşitli bitki türleri ve zengin fauna found, bu alanı doğa severlerin ziyaret etmek istedikleri bir yer haline getiriyor. Gölün coğrafi yapısı, aynı zamanda ziyaretçilere çeşitli etkinlik possibilities sunuyor, seperti yürüyüşler, doğa gezileri ve su sporları.
+Meke Gölü, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğal güzellik olarak dikkat çekiyor. Gölün coğrafi konumu, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Meke Gölü'nün etrafında, çeşitli bitki türleri ve zengin fauna found, bu alanı doğa severlerin ziyaret etmek istedikleri bir yer haline getiriyor. Gölün coğrafi yapısı, aynı zamanda ziyaretçilere çeşitli etkinlik possibilities sunuyor, seperti yürüyüşler, doğa gezileri ve su sporları.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Meke Gölü'ne ziyaretçiler, çeşitli ulaşım seçenekleri ile kolayca ulaşa
 
 ## İlginç Bilgiler
 
-- Meke Gölü, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Gölün etrafında, çeşitli bitki türleri ve zengin fauna found.
 - Meke Gölü, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri.
 - Gölde, çeşitli kuş türleri, balıklar ve diğer hayvanlar yaşadığından, bu alan doğa severlerin ve hayvanseverlerin ilgisini çekiyor.

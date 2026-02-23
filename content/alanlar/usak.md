@@ -23,7 +23,7 @@ wikidata_id: "Q108228703"
 
 # UŞAK
 
-Uşak, İç Anadolu Bölgesi'nin batı bölümünde yer alan bir milli parktır. Yaklaşık 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Burada, insan eli değmemiş ormanlar, çeşitlilik gösteren flora ve fauna, tarihi değerler ve coğrafi güzellikler bir arada bulunmakta. Uşak, özellikle doğa severler ve tarih meraklıları için bir cennet olarak tanımlanabilir. Bu milli parkta, doğanın tüm güzelliklerini yakından inceleme ve tarihi geçmişi keşfetme mümkün.
+Uşak, İç Anadolu Bölgesi'nin batı bölümünde yer alan bir milli parktır. Burada, insan eli değmemiş ormanlar, çeşitlilik gösteren flora ve fauna, tarihi değerler ve coğrafi güzellikler bir arada bulunmakta. Uşak, özellikle doğa severler ve tarih meraklıları için bir cennet olarak tanımlanabilir. Bu milli parkta, doğanın tüm güzelliklerini yakından inceleme ve tarihi geçmişi keşfetme mümkün.
 
 ## Tarihçe
 

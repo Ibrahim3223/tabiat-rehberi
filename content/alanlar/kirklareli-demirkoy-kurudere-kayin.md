@@ -22,7 +22,7 @@ wikidata_id: "Q108227256"
 
 # Kırklareli-Demirkoy-Kurudere Kayin
 
-Kırklareli-Demirkoy-Kurudere Kayin Milli Parkı, Marmara Bölgesi'nin en güzel köşelerinden birini oluşturur. 140 hektarlık geniş bir alanı kapsayan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. parkın içerisinde yer alan kayın ağaçları, ziyaretçilere doğanın güzelliğini sunar. Bu alan, doğa severlerin ve turistik gezi yapanların ilgisini çeker. Milli parkın büyüklüğü ve güzelliği, ziyaretçileri kendine çeker.
+Kırklareli-Demirkoy-Kurudere Kayin Milli Parkı, Marmara Bölgesi'nin en güzel köşelerinden birini oluşturur. parkın içerisinde yer alan kayın ağaçları, ziyaretçilere doğanın güzelliğini sunar. Bu alan, doğa severlerin ve turistik gezi yapanların ilgisini çeker. Milli parkın büyüklüğü ve güzelliği, ziyaretçileri kendine çeker.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227748"
 
 # Artvin-Goktas-Baskoy Kizilagac
 
-Artvin-Goktas-Baskoy Kizilagac milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerini barındıran bir doğal alan olarak dikkat çekmektedir. Bu milli park, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de tanıtmaktadır. Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan Artvin-Goktas-Baskoy Kizilagac milli parkı, ziyaretçilerini doğanın içerisinde bir maceraya davet etmektedir.
+Artvin-Goktas-Baskoy Kizilagac milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu milli park, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de tanıtmaktadır. Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan Artvin-Goktas-Baskoy Kizilagac milli parkı, ziyaretçilerini doğanın içerisinde bir maceraya davet etmektedir.
 
 ## Tarihçe
 

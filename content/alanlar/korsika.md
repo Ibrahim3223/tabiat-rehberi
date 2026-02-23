@@ -52,11 +52,11 @@ Korsika'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile şekill
 
 ## Flora ve Fauna
 
-Korsika adası, Akdeniz'in ortasında bir doğa harikası olarak karşımıza çıkıyor. 1200 hektarlık bu yeşil cennet, step bitki örtüsü ve bozkırın hakim olduğu bir bölge. Mevsimsel değişimlere bağlı olarak, ilkbaharda çiçeklerin rengarenk görüntüsüyle karşılaşıyoruz. 
+Korsika adası, Akdeniz'in ortasında bir doğa harikası olarak karşımıza çıkıyor. 1200 hektarlık bu yeşil cennet, step bitki örtüsü ve bozkırın hakim olduğu bir bölge. Mevsimsel değişimlere bağlı olarak, ilkbaharda çiçeklerin rengarenk görüntüsüyle karşılaşıyoruz.
 
 Bitki örtüsüne baktığımızda, kuraklığa adapte olmuş türlerin hüküm sürdüğünü görüyoruz. Bu bitkiler, ada ekosisteminin önemli bir bileşeni olarak yer alıyor. Kıyı bölgelerde, tuzlu suya dayanıklı bitkiler ve deniz kenarında yetişen özel türler dikkat çekiyor.
 
-Yaban hayatı ise oldukça zengin. Deniz kuşları, ada ekosisteminin önemli bir parçası olarak karşımıza çıkıyor. Göç mevsiminde, binlerce kuş bu ada üzerinde konaklıyor. Memeliler ve sürüngenler de bu ekosistemin birer parçası olarak yer alıyor. 
+Yaban hayatı ise oldukça zengin. Deniz kuşları, ada ekosisteminin önemli bir parçası olarak karşımıza çıkıyor. Göç mevsiminde, binlerce kuş bu ada üzerinde konaklıyor. Memeliler ve sürüngenler de bu ekosistemin birer parçası olarak yer alıyor.
 
 Ekolojik değerine baktığımızda, Korsika adasının neden önemli olduğunu anlıyoruz. İzole popülasyonlar ve deniz kuşlarının yaşam alanları, bu adanın değerini artırıyor. Koruma durumu ise oldukça önemli, çünkü bu ada ekosisteminin bozulması, tüm dengenin değişmesi anlamına geliyor.
 

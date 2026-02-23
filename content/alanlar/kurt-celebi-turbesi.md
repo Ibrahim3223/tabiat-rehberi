@@ -1,7 +1,7 @@
 ---
 title: "Kurt Çelebi Türbesi"
 date: "2026-01-10T07:13:51.911Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390979"
 
 # Kurt Çelebi Türbesi
 
-Kurt Çelebi Türbesi, İstanbul'un tarihi mekanlarından biri olarak Marmara Bölgesi'nde, Beyoğlu'nda yer alır. Bu tarihi mekan, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. İstanbul'un önemli kültürel miraslarından biri olan Kurt Çelebi Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Türbenin mimarisi, Osmanlı dönemi özellikleri taşır ve turistler tarafından sıkça ziyaret edilir. Kurt Çelebi Türbesi, İstanbul'un zengin tarihi ve kültürel çeşitliliğini yansıtan önemli bir mekândır.
+Kurt Çelebi Türbesi, İstanbul'un tarihi mekanlarından biri olarak Marmara Bölgesi'nde, Beyoğlu'nda yer alır. İstanbul'un önemli kültürel miraslarından biri olan Kurt Çelebi Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Türbenin mimarisi, Osmanlı dönemi özellikleri taşır ve turistler tarafından sıkça ziyaret edilir. Kurt Çelebi Türbesi, İstanbul'un zengin tarihi ve kültürel çeşitliliğini yansıtan önemli bir mekândır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kurt Çelebi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Osma
 
 ## Coğrafya
 
-Kurt Çelebi Türbesi, Marmara Bölgesi'nde, Beyoğlu'nda yer alır. İstanbul'un önemli kültürel miraslarından biri olan Kurt Çelebi Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Türbenin mimarisi, Osmanlı dönemi özellikleri taşır ve turistler tarafından sıkça ziyaret edilir. Kurt Çelebi Türbesi, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. İstanbul'un zengin tarihi ve kültürel çeşitliliğini yansıtan önemli bir mekân olan Kurt Çelebi Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Türbenin çevresinde, çeşitli tarihi mekanlar ve kültürel etkinlikler bulunur. İstanbul'un önemli kültürel miraslarından biri olan Kurt Çelebi Türbesi, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir.
+Kurt Çelebi Türbesi, Marmara Bölgesi'nde, Beyoğlu'nda yer alır. İstanbul'un önemli kültürel miraslarından biri olan Kurt Çelebi Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Türbenin mimarisi, Osmanlı dönemi özellikleri taşır ve turistler tarafından sıkça ziyaret edilir. İstanbul'un zengin tarihi ve kültürel çeşitliliğini yansıtan önemli bir mekân olan Kurt Çelebi Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Türbenin çevresinde, çeşitli tarihi mekanlar ve kültürel etkinlikler bulunur. İstanbul'un önemli kültürel miraslarından biri olan Kurt Çelebi Türbesi, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Kurt Çelebi Türbesi, İstanbul'un önemli kültürel miraslarından biri olara
 
 ## Ziyaret Bilgileri
 
-Kurt Çelebi Türbesi, İstanbul'un önemli kültürel miraslarından biri olarak, turistler tarafından sıkça ziyaret edilir. Türbenin mimarisi, Osmanlı dönemi özellikleri taşır ve turistler tarafından sıkça ziyaret edilir. Kurt Çelebi Türbesi, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. İstanbul'un zengin tarihi ve kültürel çeşitliliğini yansıtan önemli bir mekân olan Kurt Çelebi Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Kurt Çelebi Türbesi'ni ziyaret etmek isteyenler, toplu taşıma araçlarını veya özel araçlarını kullanabilirler. Türbenin çevresinde, çeşitli tarihi mekanlar ve kültürel etkinlikler bulunur.
+Kurt Çelebi Türbesi, İstanbul'un önemli kültürel miraslarından biri olarak, turistler tarafından sıkça ziyaret edilir. Türbenin mimarisi, Osmanlı dönemi özellikleri taşır ve turistler tarafından sıkça ziyaret edilir. İstanbul'un zengin tarihi ve kültürel çeşitliliğini yansıtan önemli bir mekân olan Kurt Çelebi Türbesi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Kurt Çelebi Türbesi'ni ziyaret etmek isteyenler, toplu taşıma araçlarını veya özel araçlarını kullanabilirler. Türbenin çevresinde, çeşitli tarihi mekanlar ve kültürel etkinlikler bulunur.
 
 ## İlginç Bilgiler
 

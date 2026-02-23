@@ -28,7 +28,7 @@ wikidata_id: "Q34823638"
 
 # Çalıbaba Tepesi
 
-Ankara'nın İç Anadolu Bölgesi'nde yer alan Çalıbaba Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, Ankara'nın doğal güzelliklerinden biri olarak kabul ediliyor. Çalıbaba Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Çalıbaba Tepesi, özellikle doğa severlerin ilgisini çekiyor.
+ Bu tepe, Ankara'nın doğal güzelliklerinden biri olarak kabul ediliyor. Çalıbaba Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Çalıbaba Tepesi, özellikle doğa severlerin ilgisini çekiyor.
 
 ## Tarihçe
 

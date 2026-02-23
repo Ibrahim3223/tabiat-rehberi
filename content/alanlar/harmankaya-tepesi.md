@@ -28,7 +28,7 @@ wikidata_id: "Q31535620"
 
 # Harmankaya Tepesi
 
-Harmankaya Tepesi, Hatay ilinin sınırları içinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Harmankaya Tepesi, ziyaretçilerini doğanın güzelliği ve bölgenin zengin tarihi ile karşılar. Tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak görülür.
+Harmankaya Tepesi, Hatay ilinin sınırları içinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak dikkat çeker. Harmankaya Tepesi, ziyaretçilerini doğanın güzelliği ve bölgenin zengin tarihi ile karşılar. Tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak görülür.
 
 ## Tarihçe
 

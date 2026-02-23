@@ -22,7 +22,7 @@ wikidata_id: "Q108227336"
 
 # Denizli-Cameli-Goldag Kızılçam
 
-Denizli-Cameli-Goldag Kızılçam milli parkı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte 300 hektara yaklaşan bir alanı kaplar. Bu bölge, aynı zamanda zengin fauna ve flora çeşitliliği ile dikkat çeker. Ziyaretçilerin doğa ile iç içe olması ve bölgenin tarihi geçmişi, bu milli parkın ziyaretçilerini çekmektedir. Milli parkın içinde çeşitli yürüyüş parkurları ve piknik alanları bulunmaktadır. Bu nedenle, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yerdir.
+Denizli-Cameli-Goldag Kızılçam milli parkı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu bölge, aynı zamanda zengin fauna ve flora çeşitliliği ile dikkat çeker. Ziyaretçilerin doğa ile iç içe olması ve bölgenin tarihi geçmişi, bu milli parkın ziyaretçilerini çekmektedir. Milli parkın içinde çeşitli yürüyüş parkurları ve piknik alanları bulunmaktadır. Bu nedenle, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yerdir.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228513"
 
 # Kayseri-Sivas-Titrek Kavak
 
-Kayseri-Sivas-Titrek Kavak milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal değerlerinden biridir. Bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunar. Titrek Kavak milli parkı, aynı zamanda bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahiptir. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Milli parkın coğrafi konumu, ziyaretçilerin bölgenin tarihi ve kültürel değerlerini keşfetmesine de olanak tanır.
+Kayseri-Sivas-Titrek Kavak milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. Bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunar. Titrek Kavak milli parkı, aynı zamanda bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahiptir. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Milli parkın coğrafi konumu, ziyaretçilerin bölgenin tarihi ve kültürel değerlerini keşfetmesine de olanak tanır.
 
 ## Tarihçe
 

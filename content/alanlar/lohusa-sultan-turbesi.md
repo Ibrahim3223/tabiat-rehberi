@@ -1,7 +1,7 @@
 ---
 title: "Lohusa Sultan Türbesi"
 date: "2026-01-10T07:19:48.907Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Beyoğlu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391020"
 
 # Lohusa Sultan Türbesi
 
-Lohusa Sultan Türbesi, İç Anadolu Bölgesi'nde bulunan bir tarihi mekan olarak dikkati çekiyor. Bu mekan, yaklaşık 140 hektarlık bir alanda yer alıyor ve 200 futbol sahası büyüklüğünde bir alanı kaplıyor. İç Anadolu Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için önemli bir gezi noktası olan Lohusa Sultan Türbesi, ziyaretçilerini bekliyor. Bu tarihi mekan, hem doğal güzellikleri hem de kültürel mirasıyla dikkat çekiyor.
+Lohusa Sultan Türbesi, İç Anadolu Bölgesi'nde bulunan bir tarihi mekan olarak dikkati çekiyor. İç Anadolu Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için önemli bir gezi noktası olan Lohusa Sultan Türbesi, ziyaretçilerini bekliyor. Bu tarihi mekan, hem doğal güzellikleri hem de kültürel mirasıyla dikkat çekiyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Lohusa Sultan Türbesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin zengin k�
 
 ## Coğrafya
 
-Lohusa Sultan Türbesi, İç Anadolu Bölgesi'nin coğrafi özellikleri arasında yer alıyor. Bu mekan, coğrafi olarak 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. İç Anadolu Bölgesi'nin coğrafi yapısı, Lohusa Sultan Türbesi'nin doğal güzelliklerini etkiliyor. Bu mekan, coğrafi konumu itibariyle ziyaretçilerine çeşitli doğal güzellikler sunuyor. İç Anadolu Bölgesi'nin iklimi, Lohusa Sultan Türbesi'nin flora ve faunasını da etkiliyor.
+Lohusa Sultan Türbesi, İç Anadolu Bölgesi'nin coğrafi özellikleri arasında yer alıyor. İç Anadolu Bölgesi'nin coğrafi yapısı, Lohusa Sultan Türbesi'nin doğal güzelliklerini etkiliyor. Bu mekan, coğrafi konumu itibariyle ziyaretçilerine çeşitli doğal güzellikler sunuyor. İç Anadolu Bölgesi'nin iklimi, Lohusa Sultan Türbesi'nin flora ve faunasını da etkiliyor.
 
 ## Flora ve Fauna
 

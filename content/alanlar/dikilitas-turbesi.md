@@ -1,7 +1,7 @@
 ---
 title: "Dikilitaş Türbesi"
 date: "2026-01-10T06:03:49.844Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390528"
 
 # Dikilitaş Türbesi
 
-Dikilitaş Türbesi, Karadeniz Bölgesi'nin Samsun iline bağlı Ladik ilçesinde yer alan bir plaj ve tarihi mekan. Bu bölge, 140 hektarlık bir alan üzerine kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Dikilitaş Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Burada, tarihi yapıları ve doğal güzellikleri keşfedebilirsiniz. Dikilitaş Türbesi, ziyaretçilerine hem dinlenme hem de gezi imkanı sunuyor.
+Dikilitaş Türbesi, Karadeniz Bölgesi'nin Samsun iline bağlı Ladik ilçesinde yer alan bir plaj ve tarihi mekan. Dikilitaş Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Burada, tarihi yapıları ve doğal güzellikleri keşfedebilirsiniz. Dikilitaş Türbesi, ziyaretçilerine hem dinlenme hem de gezi imkanı sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dikilitaş Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Dikilitaş Türbesi, Karadeniz Bölgesi'nin Samsun iline bağlı Ladik ilçesinde yer alıyor. Bu bölge, 140 hektarlık bir alan üzerine kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Dikilitaş Türbesi, Karadeniz kıyı şeridinin güzelliklerini sunuyor. Bu bölge, yeşilin ve mavinin farklı tonlarını bir araya getiriyor. Dikilitaş Türbesi, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunuyor. Bu bölge, yeşilin ve mavinin farklı tonlarını bir araya getiren bir güzelliğe sahip. Dikilitaş Türbesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Dikilitaş Türbesi, Karadeniz Bölgesi'nin Samsun iline bağlı Ladik ilçesinde yer alıyor. Dikilitaş Türbesi, Karadeniz kıyı şeridinin güzelliklerini sunuyor. Bu bölge, yeşilin ve mavinin farklı tonlarını bir araya getiriyor. Dikilitaş Türbesi, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunuyor. Bu bölge, yeşilin ve mavinin farklı tonlarını bir araya getiren bir güzelliğe sahip. Dikilitaş Türbesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Dikilitaş Türbesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylar
 ## İlginç Bilgiler
 
 - Dikilitaş Türbesi, Karadeniz Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biri olarak kabul ediliyor.
-- Bu bölge, 140 hektarlık bir alan üzerine kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Dikilitaş Türbesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor.
 - Bu bölge, mevsimsel değişimlere göre farklı canlıları barındırıyor.
 - Dikilitaş Türbesi, ekolojik dengesi ile dikkat çekiyor.

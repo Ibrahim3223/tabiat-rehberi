@@ -28,7 +28,7 @@ wikidata_id: "Q31386796"
 
 # Şırrıka Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin güzide illerinden Batman'da yer alan Şırrıka Tepesi, ziyaretçilerini büyüleyen bir doğa harikasıdır. Bu tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, doğa severlerin gezebileceği birçok yol ve patika bulunmaktadır. Şırrıka Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir. Tepenin yüksekliği ve genişliği, ziyaretçilerine eşsiz bir manzara sunar.
+Güneydoğu Anadolu Bölgesi'nin güzide illerinden Batman'da yer alan Şırrıka Tepesi, ziyaretçilerini büyüleyen bir doğa harikasıdır. Bu tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Şırrıka Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir. Tepenin yüksekliği ve genişliği, ziyaretçilerine eşsiz bir manzara sunar.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Güneydoğu Anadolu Bölgesi'nin güzide illerinden Batman'da yer alan Şırrık
 
 ## Ziyaret Bilgileri
 
-Şırrıka Tepesi, ziyaretçilerini büyüleyen bir doğa harikasıdır. Tepede, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Ziyaretçiler, tepenin yüksekliğine ve genişliğine göre, eşsiz bir manzara sunan tepede, doğa yürüyüşleri yapabilir, fotoğraflar çekebilir ve bölgenin coğrafi güzelliğini gözler önüne seren bir experiencia yaşayabilir. Şırrıka Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir.
+Şırrıka Tepesi, ziyaretçilerini büyüleyen bir doğa harikasıdır. Ziyaretçiler, tepenin yüksekliğine ve genişliğine göre, eşsiz bir manzara sunan tepede, doğa yürüyüşleri yapabilir, fotoğraflar çekebilir ve bölgenin coğrafi güzelliğini gözler önüne seren bir experiencia yaşayabilir. Şırrıka Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir.
 
 ## İlginç Bilgiler
 

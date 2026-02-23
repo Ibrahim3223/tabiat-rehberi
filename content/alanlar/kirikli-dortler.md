@@ -22,7 +22,7 @@ wikidata_id: "Q108227890"
 
 # Kirikli-Dortler
 
-Kirikli-Dortler milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Yaklaşık 140 hektarlık bir alanı kaplayan bu doğal alan, 200 futbol sahası büyüklüğünde. Park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, doğa yürüyüşü yapabilir, çevre güzelliklerini keşfedebilir ve ekolojik dengenin önemini öğrenebilirler. Kirikli-Dortler, doğa severlerin ve macera tutkunlarının ziyaret etmesi gereken bir yer.
+Kirikli-Dortler milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, doğa yürüyüşü yapabilir, çevre güzelliklerini keşfedebilir ve ekolojik dengenin önemini öğrenebilirler. Kirikli-Dortler, doğa severlerin ve macera tutkunlarının ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

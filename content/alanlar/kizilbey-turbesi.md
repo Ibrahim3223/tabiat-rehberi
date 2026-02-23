@@ -1,7 +1,7 @@
 ---
 title: "Kızılbey Türbesi"
 date: "2026-01-10T05:32:57.884Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391401"
 
 # Kızılbey Türbesi
 
-Kızılbey Türbesi, Ankara'nın Altındağ ilçesinde yer alan ve tarihi geçmişe sahip bir mekan olarak dikkat çekiyor. 140 hektarlık bir alan üzerine kurulu olan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakın bir konumda yer alıyor. Kızılbey Türbesi, Ankara'nın önemli kültürel ve tarihi mekanlarından biri olarak biliniyor ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor.
+Kızılbey Türbesi, Ankara'nın Altındağ ilçesinde yer alan ve tarihi geçmişe sahip bir mekan olarak dikkat çekiyor. Kızılbey Türbesi, Ankara'nın önemli kültürel ve tarihi mekanlarından biri olarak biliniyor ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor.
 
 ## Tarihçe
 

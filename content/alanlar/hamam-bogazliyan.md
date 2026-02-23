@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Boğazlıyan"
 date: "2026-01-09T23:48:31.872Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Yozgat"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245807"
 
 # Hamam, Boğazlıyan
 
-Hamam, Boğazlıyan'ın merkezinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğal güzelliğimiz. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki dağlarla birlikte bir vadi oluşturuyor. Hamam'ın tarihi geçmişi, yörenin kültürel zenginliğine önemli katkılar sağlıyor. Bu bölgede, insanların yüzyıllar boyunca yaşadığı ve yerleşim yerleri kurduğu biliniyor. Hamam, doğal güzelliği ve tarihi önemiyle birlikte, Yozgat'ın önemli turizm merkezlerinden biri olarak dikkat çekiyor.
+Hamam, Boğazlıyan'ın merkezinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğal güzelliğimiz. Hamam'ın tarihi geçmişi, yörenin kültürel zenginliğine önemli katkılar sağlıyor. Bu bölgede, insanların yüzyıllar boyunca yaşadığı ve yerleşim yerleri kurduğu biliniyor. Hamam, doğal güzelliği ve tarihi önemiyle birlikte, Yozgat'ın önemli turizm merkezlerinden biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

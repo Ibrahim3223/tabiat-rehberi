@@ -28,7 +28,7 @@ wikidata_id: "Q32223469"
 
 # Gökbelen Tepesi
 
-Mersin'in Akdeniz Bölgesi'nde yer alan Gökbelen Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğa severler için bir cennet olarak kabul ediliyor. Gökbelen Tepesi, yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölgede yapılan yürüyüşler ve piknikler, ziyaretçilere unutulmaz anlar yaşatıyor.
+ Bu bölge, doğa severler için bir cennet olarak kabul ediliyor. Gökbelen Tepesi, yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölgede yapılan yürüyüşler ve piknikler, ziyaretçilere unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gökbelen Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev
 
 ## Coğrafya
 
-Gökbelen Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bölge, coğrafi olarak 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Gökbelen Tepesi'nin coğrafi yapısı, yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölge, deniz seviyesinden yüksek bir noktada yer alıyor ve bu nedenle, ziyaretçiler, Akdeniz Bölgesi'nin eşsiz manzarasına tanık olabiliyor. Gökbelen Tepesi'nin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor ve bu nedenle, bölgede yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor.
+Gökbelen Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Gökbelen Tepesi'nin coğrafi yapısı, yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölge, deniz seviyesinden yüksek bir noktada yer alıyor ve bu nedenle, ziyaretçiler, Akdeniz Bölgesi'nin eşsiz manzarasına tanık olabiliyor. Gökbelen Tepesi'nin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor ve bu nedenle, bölgede yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor.
 
 ## Flora ve Fauna
 

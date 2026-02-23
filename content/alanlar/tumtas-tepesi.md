@@ -48,9 +48,9 @@ Mevsimsel değişimlerin etkisini gösteren iklim karakteri, Tumtaş Tepesi'nin 
 
 ## Flora ve Fauna
 
-Tumtaş Tepesi, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanıyor ve bu manzara, baharın gelişini müjdeliyor. 
+Tumtaş Tepesi, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanıyor ve bu manzara, baharın gelişini müjdeliyor.
 
-Dağların yükseklik zonlarında, alpin flora hakimiyetini kurmuş durumda. Bu bölgedeki bitkiler, kuraklığa karşı adapte olmuş ve suyun az olduğu koşullarda hayatta kalabilen özel türlerden oluşuyor. Step ve ova ekolojisinin bir parçası olan bu dağ, mevsimsel değişimlere göre farklı görünümde oluyor. Sonbaharda, göç eden kuşlar bu bölgeden geçiş yapıyor ve dağların yükseklik zonlarında, çeşitli memeli ve sürüngen türlerine rastlama mümkün. 
+Dağların yükseklik zonlarında, alpin flora hakimiyetini kurmuş durumda. Bu bölgedeki bitkiler, kuraklığa karşı adapte olmuş ve suyun az olduğu koşullarda hayatta kalabilen özel türlerden oluşuyor. Step ve ova ekolojisinin bir parçası olan bu dağ, mevsimsel değişimlere göre farklı görünümde oluyor. Sonbaharda, göç eden kuşlar bu bölgeden geçiş yapıyor ve dağların yükseklik zonlarında, çeşitli memeli ve sürüngen türlerine rastlama mümkün.
 
 Bu dağ ekosisteminin ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasında yatıyor. Dağların yükseklik zonları, farklı canlı türleri için yaşam alanı sunuyor ve bu ekosistemin korunması, bölgenin doğal dengesinin korunmasına katkıda bulunuyor.
 

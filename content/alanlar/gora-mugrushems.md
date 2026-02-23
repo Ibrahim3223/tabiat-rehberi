@@ -28,7 +28,7 @@ wikidata_id: "Q31386531"
 
 # Gora Mugrushems
 
-Gora Mugrushems, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir doğal güzellik alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en yüksek noktalarından biridir. Gora Mugrushems, ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle etkileyen bir destinasyon. Burada, yaban hayatının çeşitliliği ve flora, ziyaretçilere benzersiz bir deneyim sunar. Gora Mugrushems'in yüksekliği, manzarayı geniş bir açıdan izlemeye olanak tanır ve bu tepe, doğa severler için bir cennet olarak kabul edilir. Gora Mugrushems'in eteklerinde, çeşitli bitki türleri ve zengin fauna, bu bölgeyi özel kılar.
+Gora Mugrushems, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir doğal güzellik alanıdır. Gora Mugrushems, ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle etkileyen bir destinasyon. Burada, yaban hayatının çeşitliliği ve flora, ziyaretçilere benzersiz bir deneyim sunar. Gora Mugrushems'in yüksekliği, manzarayı geniş bir açıdan izlemeye olanak tanır ve bu tepe, doğa severler için bir cennet olarak kabul edilir. Gora Mugrushems'in eteklerinde, çeşitli bitki türleri ve zengin fauna, bu bölgeyi özel kılar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gora Mugrushems'in tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu b�
 
 ## Coğrafya
 
-Gora Mugrushems, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir coğrafi noktadır. Bu tepe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Gora Mugrushems'in yüksekliği, bölgenin en yüksek noktalarından biridir ve manzarayı geniş bir açıdan izlemeye olanak tanır. Bu tepe, doğa severler için bir cennet olarak kabul edilir ve ziyaretçilerine benzersiz bir deneyim sunar. Gora Mugrushems'in eteklerinde, çeşitli bitki türleri ve zengin fauna, bu bölgeyi özel kılar. Gora Mugrushems, Akdeniz Bölgesi'nin coğrafi açıdan önemli noktalarından biridir ve ziyaretçiler, bu tepeye çıkarak hem doğal güzellikleri hem de tarihi kalıntıları keşfedebilirler. Gora Mugrushems'in coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve bu tepe, bölgenin en önemli doğal güzelliklerinden biridir. Gora Mugrushems, yaban hayatının çeşitliliği ve flora, ziyaretçilere benzersiz bir deneyim sunar.
+Gora Mugrushems, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir coğrafi noktadır. Gora Mugrushems'in yüksekliği, bölgenin en yüksek noktalarından biridir ve manzarayı geniş bir açıdan izlemeye olanak tanır. Bu tepe, doğa severler için bir cennet olarak kabul edilir ve ziyaretçilerine benzersiz bir deneyim sunar. Gora Mugrushems'in eteklerinde, çeşitli bitki türleri ve zengin fauna, bu bölgeyi özel kılar. Gora Mugrushems, Akdeniz Bölgesi'nin coğrafi açıdan önemli noktalarından biridir ve ziyaretçiler, bu tepeye çıkarak hem doğal güzellikleri hem de tarihi kalıntıları keşfedebilirler. Gora Mugrushems'in coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve bu tepe, bölgenin en önemli doğal güzelliklerinden biridir. Gora Mugrushems, yaban hayatının çeşitliliği ve flora, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

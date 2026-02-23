@@ -28,7 +28,7 @@ wikidata_id: "Q31555107"
 
 # Kurre Tepesi
 
-Kurre Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir tepe olarak dikkat çekiyor. Bu bölge, coğrafi açıdan oldukça çeşitli bir yapıya sahip. Kurre Tepesi ve çevresindeki alanlar, geniş ovalar ve dağlarla çevrili. Batman ilinin coğrafi özelliklerinin bir parçası olan Kurre Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Kurre Tepesi, bölgenin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Kurre Tepesi, ziyaretçilerini bekliyor.
+Kurre Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir tepe olarak dikkat çekiyor. Bu bölge, coğrafi açıdan oldukça çeşitli bir yapıya sahip. Kurre Tepesi ve çevresindeki alanlar, geniş ovalar ve dağlarla çevrili. Batman ilinin coğrafi özelliklerinin bir parçası olan Kurre Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Kurre Tepesi, bölgenin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Kurre Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Kurre Tepesi, coğrafi açıdan oldukça çeşitli bir yapıya sahip. Tepe, Batm
 
 ## Flora ve Fauna
 
-Kurre Tepesi, çeşitli bitki türleri ve hayvanlarla dolu bir bölge. Tepe ve çevresindeki alanlar, mevsimsel değişimlere göre farklı bitkilerle kaplı oluyor. İlkbahar ve yaz aylarında, région, çeşitli çiçek türleriyle dolu. Sonbahar ve kış aylarında ise, bölge, yaprak döken ağaçlarla kaplı oluyor. Kurre Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Tepe ve çevresindeki alanlar, kuşlar, memeliler ve sürüngenler gibi hayvanlarla dolu. Bu çeşitlilik, Kurre Tepesi'nin doğal güzelliğini ve ekolojik önemini daha da artırıyor. Kurre Tepesi, ziyaretçilerine, doğal güzelliği ve ekolojik zenginliği hakkında bilgiler sunuyor.
+Kurre Tepesi, çeşitli bitki türleri ve hayvanlarla dolu bir bölge. Tepe ve çevresindeki alanlar, mevsimsel değişimlere göre farklı bitkilerle kaplı oluyor. İlkbahar ve yaz aylarında, bölge, çeşitli çiçek türleriyle dolu. Sonbahar ve kış aylarında ise, bölge, yaprak döken ağaçlarla kaplı oluyor. Kurre Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Tepe ve çevresindeki alanlar, kuşlar, memeliler ve sürüngenler gibi hayvanlarla dolu. Bu çeşitlilik, Kurre Tepesi'nin doğal güzelliğini ve ekolojik önemini daha da artırıyor. Kurre Tepesi, ziyaretçilerine, doğal güzelliği ve ekolojik zenginliği hakkında bilgiler sunuyor.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q49320129"
 
 # Bardakçı Plajı
 
-Bardakçı Plajı, Muğla'nın en güzel plajlarından biri olarak kabul edilir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu plaj, Ege Bölgesi'nin en çok ziyaret edilen yerlerinden biri olarak bilinir. Bardakçı Plajı, ziyaretçilerine temiz ve berrak denizi, geniş kumsalı ve güneşin keyfini çıkarmak için ideal bir ortam sunar. Plajın etrafında çeşitli ağaçlar ve bitkiler bulunur, bu da ziyaretçilere doğayla iç içe bir deneyimi sağlar.
+Bardakçı Plajı, Muğla'nın en güzel plajlarından biri olarak kabul edilir. Bu plaj, Ege Bölgesi'nin en çok ziyaret edilen yerlerinden biri olarak bilinir. Bardakçı Plajı, ziyaretçilerine temiz ve berrak denizi, geniş kumsalı ve güneşin keyfini çıkarmak için ideal bir ortam sunar. Plajın etrafında çeşitli ağaçlar ve bitkiler bulunur, bu da ziyaretçilere doğayla iç içe bir deneyimi sağlar.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31385616"
 
 # Kızılkuyu Dağı
 
-Kızılkuyu Dağı, Afyonkarahisar ilinin doğal güzelliklerinden biri olarak Ege Bölgesi'nde yer alır. Bu dağ, yaklaşık 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kızılkuyu Dağı, hem yerel halk hem de ziyaretçiler için önemli bir gezi noktasıdır. Dağın eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve fauna açısından da zengin bir alandır. Kızılkuyu Dağı, ziyaretçilere doğayla iç içe olabilme fırsatı sunar ve bölgenin coğrafi yapısını keşfetmek için ideal bir noktadır.
+Kızılkuyu Dağı, Afyonkarahisar ilinin doğal güzelliklerinden biri olarak Ege Bölgesi'nde yer alır. Kızılkuyu Dağı, hem yerel halk hem de ziyaretçiler için önemli bir gezi noktasıdır. Dağın eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve fauna açısından da zengin bir alandır. Kızılkuyu Dağı, ziyaretçilere doğayla iç içe olabilme fırsatı sunar ve bölgenin coğrafi yapısını keşfetmek için ideal bir noktadır.
 
 ## Tarihçe
 

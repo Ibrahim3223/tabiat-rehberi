@@ -28,7 +28,7 @@ wikidata_id: "Q31536883"
 
 # Uzunsırt Tepesi
 
-Gaziantep'in coğrafi yapısını şekillendiren Uzunsırt Tepesi, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin yüksekliği ve genişliği, bölgenin coğrafi yapısını etkileyen önemli faktörler arasında yer alıyor. Ayrıca, tepe ve çevresinin coğrafi konumu, çeşitli bitki türleri ve hayvanların yaşam alanlarını oluşturuyor.
+Gaziantep'in coğrafi yapısını şekillendiren Uzunsırt Tepesi, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin yüksekliği ve genişliği, bölgenin coğrafi yapısını etkileyen önemli faktörler arasında yer alıyor. Ayrıca, tepe ve çevresinin coğrafi konumu, çeşitli bitki türleri ve hayvanların yaşam alanlarını oluşturuyor.
 
 ## Tarihçe
 

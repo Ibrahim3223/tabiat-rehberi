@@ -28,7 +28,7 @@ wikidata_id: "Q31385528"
 
 # Odun Tepe
 
-Odun Tepe, Hakkari ilinin doğal güzelliklerinden biri olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yüzey alanına sahiptir. Odun Tepe'nin yüksekliği ve genişliği, çevredeki diğer tepelerden farklı olarak daha belirgindir. Bu tepe, doğa severler ve macera arayışında olanlar için ideal bir destinasyon olarak göze çarpar.
+Odun Tepe, Hakkari ilinin doğal güzelliklerinden biri olarak dikkat çeker. Odun Tepe'nin yüksekliği ve genişliği, çevredeki diğer tepelerden farklı olarak daha belirgindir. Bu tepe, doğa severler ve macera arayışında olanlar için ideal bir destinasyon olarak göze çarpar.
 
 ## Tarihçe
 

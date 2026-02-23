@@ -1,7 +1,7 @@
 ---
 title: "Bayraklı Baba Türbesi"
 date: "2026-01-10T06:53:36.662Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390756"
 
 # Bayraklı Baba Türbesi
 
-Bayraklı Baba Türbesi, Gelibolu'nun tarihi ve doğal güzellikleri arasında önemli bir yer tutar. Marmara Bölgesi'nin bu güzel köşesinde, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ziyaretçilerini ağırlar. Bu alan, tarihi ve doğal güzelliklerinin yanı sıra, ziyaretçilerine huzurlu bir ortam sunar. Bayraklı Baba Türbesi, Gelibolu'nun önemli tarihi mekanlarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilir. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
+Bayraklı Baba Türbesi, Gelibolu'nun tarihi ve doğal güzellikleri arasında önemli bir yer tutar. Bu alan, tarihi ve doğal güzelliklerinin yanı sıra, ziyaretçilerine huzurlu bir ortam sunar. Bayraklı Baba Türbesi, Gelibolu'nun önemli tarihi mekanlarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilir. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 

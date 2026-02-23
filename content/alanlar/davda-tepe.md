@@ -28,7 +28,7 @@ wikidata_id: "Q31389549"
 
 # Davda Tepe
 
-Davda Tepe, İç Anadolu Bölgesi'nin Karaman şehrinde yer alan bir tepe ve tarihi bölgedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal güzelliklerinden biridir. Bu tepe, Karaman'ın tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler, bölgenin zengin tarihi geçmişini ve doğal güzelliklerini keşfedebilirler. Davda Tepe, aynı zamanda bölgenin coğrafi yapısını ve iklimini gözlemlemek için de ideal bir noktadır. Bölge, yıl boyunca farklı mevsimlerle ziyaret edilebilir ve her mevsim, ziyaretçilere farklı deneyimler sunar.
+Davda Tepe, İç Anadolu Bölgesi'nin Karaman şehrinde yer alan bir tepe ve tarihi bölgedir. Bu tepe, Karaman'ın tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler, bölgenin zengin tarihi geçmişini ve doğal güzelliklerini keşfedebilirler. Davda Tepe, aynı zamanda bölgenin coğrafi yapısını ve iklimini gözlemlemek için de ideal bir noktadır. Bölge, yıl boyunca farklı mevsimlerle ziyaret edilebilir ve her mevsim, ziyaretçilere farklı deneyimler sunar.
 
 ## Tarihçe
 

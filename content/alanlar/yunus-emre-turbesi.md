@@ -1,7 +1,7 @@
 ---
 title: "Yunus Emre Türbesi"
 date: "2026-01-10T07:47:18.231Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391213"
 
 # Yunus Emre Türbesi
 
-Yunus Emre Türbesi, Eskişehir'in Mihalıççık ilçesinde yer alan ve tarihi ile doğal güzellikleri birleştiren özel bir noktadır. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Burada, hem Yunus Emre'nin hayatını ve eserlerini tanımak hem de doğal güzellikleri keşfetme mümkündür. Ziyaretçiler, bu türbenin tarihi atmosferini solurken aynı zamanda çevredeki yeşilliğin ve doğanın güzelliğini de deneyimleyebilirler.
+Yunus Emre Türbesi, Eskişehir'in Mihalıççık ilçesinde yer alan ve tarihi ile doğal güzellikleri birleştiren özel bir noktadır. Burada, hem Yunus Emre'nin hayatını ve eserlerini tanımak hem de doğal güzellikleri keşfetme mümkündür. Ziyaretçiler, bu türbenin tarihi atmosferini solurken aynı zamanda çevredeki yeşilliğin ve doğanın güzelliğini de deneyimleyebilirler.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Yunus Emre Türbesi, Eskişehir'in Mihalıççık ilçesinde bulunmaktadır. Bu 
 
 ## Flora ve Fauna
 
-Yunus Emre Türbesi ve çevresindeki bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, mevsimsel olarak değişen bitki örtüsü bulunur. İlkbahar ve yaz aylarında, flora daha da zenginleşir ve bölgede birçok çiçe ve yeşillik görülür. Kışın ise, bazı bitki türleri soğuktan etkilenir ve bu durum flora çeşitliliğinde bir azalmaya neden olur. Fauna açısından da zengin bir çeşitlilik bulunur. Bölgede, çeşitli kuş türleri, böcekler ve memeliler yaşar. Bu canlılar, bölgenin ekolojik dengesini sağlar ve doğanın güzelliğini artırır.
+ Bu bölgede, mevsimsel olarak değişen bitki örtüsü bulunur. İlkbahar ve yaz aylarında, flora daha da zenginleşir ve bölgede birçok çiçe ve yeşillik görülür. Kışın ise, bazı bitki türleri soğuktan etkilenir ve bu durum flora çeşitliliğinde bir azalmaya neden olur. Fauna açısından da zengin bir çeşitlilik bulunur. Bölgede, çeşitli kuş türleri, böcekler ve memeliler yaşar. Bu canlılar, bölgenin ekolojik dengesini sağlar ve doğanın güzelliğini artırır.
 
 ## Ziyaret Bilgileri
 

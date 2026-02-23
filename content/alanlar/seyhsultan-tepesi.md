@@ -28,7 +28,7 @@ wikidata_id: "Q31554086"
 
 # Şeyhsultan Tepesi
 
-Şeyhsultan Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Batman'ın tarihi ve coğrafi zenginliklerini bir araya getiren bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Şeyhsultan Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülüyor. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, bu alanı doğa severler için bir cennet haline getiriyor.
+Şeyhsultan Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Batman'ın tarihi ve coğrafi zenginliklerini bir araya getiren bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Şeyhsultan Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülüyor. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, bu alanı doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 

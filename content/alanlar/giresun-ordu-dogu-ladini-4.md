@@ -15,7 +15,7 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Kol%C5%9Fik_Flora%2C_Tonya%2C_Trabzon.jpg","alt":"Giresun-Ordu Dogu Ladini 4 manzarası","credit":"Serhat Baştan","license":"cc-by-sa-4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Ordu%20Dogu%20Ladini%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227988","tip":"genel"}]
-description: "Giresun ve Ordu illerinin doğusunda yer alan milli park, zengin doğası ve históriki geçmişiyle dikkat çekiyor."
+description: "Giresun ve Ordu illerinin doğusunda yer alan milli park, zengin doğası ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Giresun","Ordu","Milli Park","Doğu Karadeniz","Dogu Ladini","Doğa","Tarih"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227988"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227988"
 
 # Giresun-Ordu Dogu Ladini 4
 
-Giresun-Ordu Dogu Ladini 4 milli parkı, Karadeniz Bölgesi'nin en önemli doğal ve tarihi alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede yer alan çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tarihi geçmişi ve coğrafi konumu ile birlikte, bu milli park ziyaretçilerini büyüleyici bir deneyime davet ediyor. Doğa severler ve tarihisevenler için gerçek bir cennet olan bu milli park, Karadeniz Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Giresun-Ordu Dogu Ladini 4 milli parkı, Karadeniz Bölgesi'nin en önemli doğal ve tarihi alanlarından biri olarak karşımıza çıkıyor. Tarihi geçmişi ve coğrafi konumu ile birlikte, bu milli park ziyaretçilerini büyüleyici bir deneyime davet ediyor. Doğa severler ve tarihisevenler için gerçek bir cennet olan bu milli park, Karadeniz Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -47,4 +47,4 @@ Giresun-Ordu Dogu Ladini 4 milli parkını ziyaret etmek, doğa severler ve tari
 - Bölgede yaşayan çeşitli hayvan türleri
 - Milli parkın coğrafi yapısı
 - Milli parkın flora ve fauna açısından zenginliği
-- Milli parkın ziyaretçilere sunduğu expérience
+- Milli parkın ziyaretçilere sunduğu deneyim

@@ -28,7 +28,7 @@ wikidata_id: "Q31385603"
 
 # Kocakavak Tepe
 
-Kocakavak Tepe, Afyonkarahisar ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal alanlarından biri olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Kocakavak Tepe'nin etrafı, zengin flora ve fauna çeşitliliğiyle dikkat çeker. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepe, aynı zamanda tarihi geçmişiyle de önemlidir ve yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmıştır. Kocakavak Tepe, ziyaretçilerini doğal güzelliği ve tarihi değerleriyle karşılar.
+Kocakavak Tepe, Afyonkarahisar ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal alanlarından biri olarak dikkat çeker. Kocakavak Tepe'nin etrafı, zengin flora ve fauna çeşitliliğiyle dikkat çeker. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepe, aynı zamanda tarihi geçmişiyle de önemlidir ve yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmıştır. Kocakavak Tepe, ziyaretçilerini doğal güzelliği ve tarihi değerleriyle karşılar.
 
 ## Tarihçe
 

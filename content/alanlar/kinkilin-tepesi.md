@@ -28,7 +28,7 @@ wikidata_id: "Q31535778"
 
 # Kınkılın Tepesi
 
-Kınkılın Tepesi, Hatay ilinin sınırları içerisinde yer alan ve ziyaretçilerini büyüleyen bir doğal güzelliktir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Kınkılın Tepesi, etrafındaki diğer tepe ve dağlarla birlikte bir bütün oluşturur ve bu bölgenin coğrafi yapısını etkileyen önemli bir noktadır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur, bu da ziyaretçilere doğayla iç içe bir deneyim sunar. Kınkılın Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyondur.
+Kınkılın Tepesi, Hatay ilinin sınırları içerisinde yer alan ve ziyaretçilerini büyüleyen bir doğal güzelliktir. Kınkılın Tepesi, etrafındaki diğer tepe ve dağlarla birlikte bir bütün oluşturur ve bu bölgenin coğrafi yapısını etkileyen önemli bir noktadır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur, bu da ziyaretçilere doğayla iç içe bir deneyim sunar. Kınkılın Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyondur.
 
 ## Tarihçe
 

@@ -50,7 +50,7 @@ Bölgenin çevresel ilişkileri açısından, Susuzdağlar, komşu alanlar ve su
 
 ## Flora ve Fauna
 
-Susuzdağlar, Şanlıurfa'nın yarı kurak ikliminin hakim olduğu bir bölgede yer alıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği göze çarpıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçeklerin rengârenk bir şöleni meydana çıkıyor. 
+Susuzdağlar, Şanlıurfa'nın yarı kurak ikliminin hakim olduğu bir bölgede yer alıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği göze çarpıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçeklerin rengârenk bir şöleni meydana çıkıyor.
 
 Bitki örtüsünün hakim türleri arasında step ve ova ekolojilerine özgü otlar ve çalılıklar bulunuyor. Mevsimsel değişimlerle birlikte, bu bitkilerin görünümü değişiyor. Sonbaharda, göç eden kuşlar dağların gökyüzünü doldururken, memeliler ve sürüngenler de bu değişen mevsimle birlikte yaşam alanlarını ayarlıyorlar. Dağ ekosisteminin yükseklik zonlarına bağlı olarak, alpin flora ve fauna çeşitliliği de dikkat çekiyor.
 

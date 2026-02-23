@@ -22,7 +22,7 @@ wikidata_id: "Q108227283"
 
 # Balikesir-Edremit-Gurgendag Kazdagi Goknari
 
-Balikesir-Edremit-Gurgendag Kazdagi Goknari milli parkı, Türkiye'nin batısında, Balikesir ilinin Edremit ilçesinde yer alır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok doğal güzelliğe ev sahipliği yapar. Milli park, Kazdağları'nın eteklerinde yer alır ve bu bölgenin zengin florası ve faunası ile bilinir. Burada, çeşitli bitki türleri ve zvířilerin yanı sıra, tarihi ve kültürel öneme sahip birçok nokta bulunur.
+Balikesir-Edremit-Gurgendag Kazdagi Goknari milli parkı, Türkiye'nin batısında, Balikesir ilinin Edremit ilçesinde yer alır. Milli park, Kazdağları'nın eteklerinde yer alır ve bu bölgenin zengin florası ve faunası ile bilinir. Burada, çeşitli bitki türleri ve zvířilerin yanı sıra, tarihi ve kültürel öneme sahip birçok nokta bulunur.
 
 ## Tarihçe
 

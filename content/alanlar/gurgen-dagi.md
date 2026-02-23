@@ -55,7 +55,7 @@ Gürgen Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosis
 
 Yaban hayatı açısından zengin olan bu bölge, memeliler, kuşlar ve sürüngenlerle dolu. Göç mevsiminde, çeşitli kuş türleri dağları geçerek yeni yaşam alanlarına ulaşıyor. Memeliler, dağların yüksek kesimlerinde yaşamlarını sürdürüyor. Sürüngenler ise, kura ve sıcak bölgelerde aktif olarak görülüyor.
 
-Gürgen Dağı, ekolojik olarak önemli bir bölge olarak kabul ediliyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve doğal dengesini korumak açısından büyük önem taşıyor. Bu nedenle, koruma çalışmaları yürütülüyor ve bu alanın gelecek nesiller için bảolanması hedefleniyor.
+Gürgen Dağı, ekolojik olarak önemli bir bölge olarak kabul ediliyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve doğal dengesini korumak açısından büyük önem taşıyor. Bu nedenle, koruma çalışmaları yürütülüyor ve bu alanın gelecek nesiller için korunması hedefleniyor.
 
 ## Ziyaret Bilgileri
 

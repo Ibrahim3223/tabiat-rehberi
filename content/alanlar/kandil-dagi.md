@@ -48,9 +48,9 @@ Mevsimsel açıdan, Kandil Dağı'nın iklim karakteri, bölgenin genel iklim ko
 
 ## Flora ve Fauna
 
-Kandil Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğal alan olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü olarak, ilkbaharın ấmışıyla birlikte, alpin çayırlar renkli bir hal alıyor. Sonbaharda ise, göçmen kuşlar dağların yüksek zonlarını terk ederek daha ılıman bölgelere yöneliyorlar. 
-Yaban Hayatı olarak, dağ keçileri ve ayılar gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu dağların yüksek zonlarında yaşıyor. 
+Kandil Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğal alan olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü olarak, ilkbaharın ấmışıyla birlikte, alpin çayırlar renkli bir hal alıyor. Sonbaharda ise, göçmen kuşlar dağların yüksek zonlarını terk ederek daha ılıman bölgelere yöneliyorlar.
+Yaban Hayatı olarak, dağ keçileri ve ayılar gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu dağların yüksek zonlarında yaşıyor.
 Ekolojik Değer olarak, bu yüksek dağ ekosistemi, birçok endemik türe ev sahipliği yapıyor. Bu nedenle, koruma altına alınması büyük önem taşıyor.
 
 ## Ziyaret Bilgileri

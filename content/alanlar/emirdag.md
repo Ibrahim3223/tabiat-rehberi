@@ -23,7 +23,7 @@ wikidata_id: "Q108228615"
 
 # EMİRDAĞ
 
-Emir Dağ, İç Anadolu Bölgesi'nin kalbinde yer alan ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir milli parktır. Bu bölge, coğrafi konumu itibariyle çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Emir Dağ'ın hikayesi, yüzyıllar boyunca şekillenmiş ve doğal güzelliği ile ziyaretçilerini cezbetmiştir. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır.
+ Bu bölge, coğrafi konumu itibariyle çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Emir Dağ'ın hikayesi, yüzyıllar boyunca şekillenmiş ve doğal güzelliği ile ziyaretçilerini cezbetmiştir. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır.
 
 ## Tarihçe
 

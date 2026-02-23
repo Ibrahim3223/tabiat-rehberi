@@ -1,7 +1,7 @@
 ---
 title: "Karagöz Ahmet Paşa Türbesi"
 date: "2026-01-10T06:19:14.420Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391830"
 
 # Karagöz Ahmet Paşa Türbesi
 
-Kütahya'nın merkezinde yer alan Karagöz Ahmet Paşa Türbesi, şehrin en önemli tarihi ve kültürel mekânlarından biridir. 140 hektarlık bir alan üzerinde kurulmuş olan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu büyük alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeder. Karagöz Ahmet Paşa Türbesi, Kütahya'nın tarihi zenginliklerini keşfetmek isteyenlerin mutlaka ziyaret etmesi gereken bir yerdir. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu nedenle, doğa severlerin de ilgisini çeker.
+Kütahya'nın merkezinde yer alan Karagöz Ahmet Paşa Türbesi, şehrin en önemli tarihi ve kültürel mekânlarından biridir. Bu büyük alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeder. Karagöz Ahmet Paşa Türbesi, Kütahya'nın tarihi zenginliklerini keşfetmek isteyenlerin mutlaka ziyaret etmesi gereken bir yerdir. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu nedenle, doğa severlerin de ilgisini çeker.
 
 ## Tarihçe
 

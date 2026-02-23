@@ -22,7 +22,7 @@ wikidata_id: "Q108227407"
 
 # Adana-Pos-Karsanti Kızılçam 1
 
-Adana-Pos-Karsanti Kızılçam 1 milli parkı, doğal güzelliği ve zengin flora/faunası ile dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Burada, çeşitli ağaç türleri ve bitkiler bulunuyor. Milli park, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+Adana-Pos-Karsanti Kızılçam 1 milli parkı, doğal güzelliği ve zengin flora/faunası ile dikkat çekiyor. Burada, çeşitli ağaç türleri ve bitkiler bulunuyor. Milli park, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227427"
 
 # Kahramanmaras-Andirin-Yesilova Kızılçam
 
-Kahramanmaras-Andirin-Yesilova Kızılçam milli parkı, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bu milli parkın da kendi içinde çeşitli coğrafi özellikler bulunduruyor. Doğal güzelliği, flora ve fauna çeşitliliği ile dikkat çeken bu milli park, ziyaretçilerini doğayla baş başa bırakıyor.
+Kahramanmaras-Andirin-Yesilova Kızılçam milli parkı, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bu milli parkın da kendi içinde çeşitli coğrafi özellikler bulunduruyor. Doğal güzelliği, flora ve fauna çeşitliliği ile dikkat çeken bu milli park, ziyaretçilerini doğayla baş başa bırakıyor.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Ankara'nın kuzeydoğusunda, şehrin kalabalığından uzak bir noktada Sarıyar
 
 ## Tarihçe
 
-Ankara bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Hitit, Frig, Pers ve Roma gibi uygarlıkların izlerini taşıyan bu topraklar, tarih boyunca çeşitli medeniyetlerin merkezi olmuştur. Sarıyar Baraj Gölü de, bu zengin tarihsel mirasın bir parçasıdır.
+Ankara bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Hitit, Frig, Pers ve Roma gibi uygarlıkların izlerini taşıyan bu topraklar, tarih boyunca çeşitli medeniyetlerin merkezi olmuştur. Sarıyar Baraj Gölü de, bu zengin tarihsel mirasın bir parçasıdır.
 
 Türkiye'de, özellikle iç Anadolu bölgesinde, doğal alanlar her zaman önemli bir rol oynamıştır. Bu tür alanlar, insanların yaşadığı, tarım yaptığı, hayvancılık yaptığı ve ticaret yaptığı yerler olarak tarih boyunca ön planda olmuştur. Yaylacılık geleneği, bu bölgede özellikle önemlidir. İnsanlar, yaz aylarında hayvanlarını otlatabilmek için yüksek dağlara çıkar, burada doğal kaynakları değerlendirir ve geçimlerini sağlarlardı.
 

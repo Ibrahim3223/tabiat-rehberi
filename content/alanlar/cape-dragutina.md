@@ -32,7 +32,7 @@ Türkiye'nin güney sahilinde, Antalya'nın Alanya ilçesinde yer alan Cape Drag
 
 ## Tarihçe
 
-Cape Dragutina, Türkiye'nin zengin doğal mirasının bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin sâu sayfalarında gizli bir hazine gibi bekliyor. Türkiye'nin coğrafi konumu, çeşitli uygarlıkların bir araya geldiği ve ticaret yollarının kesiştiği bir nokta olarak, doğal alanlar da dahil olmak üzere, ülkenin tarihsel dokusunu şekillendirmiştir.
+Cape Dragutina, Türkiye'nin zengin doğal mirasının bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin derin sayfalarında gizli bir hazine gibi bekliyor. Türkiye'nin coğrafi konumu, çeşitli uygarlıkların bir araya geldiği ve ticaret yollarının kesiştiği bir nokta olarak, doğal alanlar da dahil olmak üzere, ülkenin tarihsel dokusunu şekillendirmiştir.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir bölümünü oluşturur. Örneğin, yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin insanlarla olan ilişkisini şekillendirmiştir. Türkiye'nin farklı bölgeleri, tarihi ticaret yolları ve kültür merkezleri olarak da önemlidir. Cape Dragutina, bu genel bağlam içinde, Türkiye'nin doğal güzelliklerinin ve tarihi zenginliklerinin bir bileşeni olarak düşünülebilir.
 

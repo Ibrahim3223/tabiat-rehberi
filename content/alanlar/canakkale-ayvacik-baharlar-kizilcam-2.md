@@ -22,7 +22,7 @@ wikidata_id: "Q108227325"
 
 # Canakkale-Ayvacik-Baharlar Kızılçam 2
 
-Marmara Bölgesi'nin güzide mekanlarından biri olan Canakkale-Ayvacik-Baharlar Kızılçam 2 milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Milli park, Çanakkale ilinin Ayvacık ilçesinde yer alıyor ve Baharlar köyüne oldukça yakın. Burada, yaban hayatının çeşitliliği ve flora zenginliği ziyaretçileri büyülüyor. Milli parkın güzide mekanlarından biri olan bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+ Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Milli park, Çanakkale ilinin Ayvacık ilçesinde yer alıyor ve Baharlar köyüne oldukça yakın. Burada, yaban hayatının çeşitliliği ve flora zenginliği ziyaretçileri büyülüyor. Milli parkın güzide mekanlarından biri olan bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 

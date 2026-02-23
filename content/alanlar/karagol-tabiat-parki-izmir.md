@@ -30,7 +30,7 @@ wikidata_id: "Q48791846"
 
 # Karagöl Tabiat Parkı (İzmir)
 
-İzmir'in Menemen ilçesinde bulunan Karagöl Tabiat Parkı, 140 hektarlık genişlikteki yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor. Bu tabiat parkı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Parkın içerisinde çeşitli bitki türleri ve hayvanlar bulunmakta olup, ziyaretçiler için keyifli bir gezi imkanı sunuyor. Karagöl Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağı haline gelmiştir.
+İzmir'in Menemen ilçesinde bulunan Karagöl Tabiat Parkı, 140 hektarlık genişlikteki yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor. Parkın içerisinde çeşitli bitki türleri ve hayvanlar bulunmakta olup, ziyaretçiler için keyifli bir gezi imkanı sunuyor. Karagöl Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağı haline gelmiştir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Phaselis Büyük Hamam"
 date: "2026-01-09T23:37:45.740Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739210"
 
 # Phaselis Büyük Hamam
 
-Phaselis Büyük Hamam, Kemer/Antalya bölgesinde yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte, ziyaretçilerin doğayı ve tarihi birlikte deneyimlemelerine olanak tanır. Phaselis Büyük Hamam, Antalya'nın Kemer ilçesinde, Akdeniz Bölgesi'nin gözdeleri arasında yer alır. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunmakta ve ziyaretçilere benzersiz bir gezi deneyimi sunmaktadır. Phaselis Büyük Hamam, aynı zamanda tarihi bir plaj olarak da bilinir ve ziyaretçiler, hem denizin keyfini çıkarabilir hem de tarihi alanları gezebilirler.
+Phaselis Büyük Hamam, Kemer/Antalya bölgesinde yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir destinasyondur. Phaselis Büyük Hamam, Antalya'nın Kemer ilçesinde, Akdeniz Bölgesi'nin gözdeleri arasında yer alır. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunmakta ve ziyaretçilere benzersiz bir gezi deneyimi sunmaktadır. Phaselis Büyük Hamam, aynı zamanda tarihi bir plaj olarak da bilinir ve ziyaretçiler, hem denizin keyfini çıkarabilir hem de tarihi alanları gezebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Phaselis Büyük Hamam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Phaselis Büyük Hamam, Kemer/Antalya bölgesinde, Akdeniz kıyısında yer almaktadır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçilerin doğayı ve tarihi birlikte deneyimlemelerine olanak tanır. Phaselis Büyük Hamam, aynı zamanda bir plaj olarak da bilinir ve denizin keyfini çıkarmak isteyen ziyaretçiler için ideal bir destinasyondur. Bu bölgede, Likya Yolu gibi önemli yürüyüş rotaları da bulunmaktadır ve doğa severler, bu rotaları kullanarak çevreyi keşfedebilirler. Phaselis Büyük Hamam'ın coğrafyası, ziyaretçilere hem deniz hem de dağ manzaraları sunar ve bu çeşitlilik, bu destinasyonu özel kılar.
+Phaselis Büyük Hamam, Kemer/Antalya bölgesinde, Akdeniz kıyısında yer almaktadır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Phaselis Büyük Hamam, aynı zamanda bir plaj olarak da bilinir ve denizin keyfini çıkarmak isteyen ziyaretçiler için ideal bir destinasyondur. Bu bölgede, Likya Yolu gibi önemli yürüyüş rotaları da bulunmaktadır ve doğa severler, bu rotaları kullanarak çevreyi keşfedebilirler. Phaselis Büyük Hamam'ın coğrafyası, ziyaretçilere hem deniz hem de dağ manzaraları sunar ve bu çeşitlilik, bu destinasyonu özel kılar.
 
 ## Flora ve Fauna
 

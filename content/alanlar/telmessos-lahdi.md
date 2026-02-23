@@ -29,7 +29,7 @@ wikidata_id: "Q134728236"
 
 # Telmessos Lahdi
 
-Telmessos Lahdi, Muğla'nın Q207998 bölgesinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekmektedir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğayla baş başa bırakmaya davet etmektedir. Telmessos Lahdi, Ege Bölgesi'nin turizm açısından önemli noktalarından biri olarak bilinmektedir. Bu bölgede, denizin ve güneşin keyfini çıkarma mümkündür. Ayrıca, Telmessos Lahdi'nin tarihi geçmişi de oldukça ilgi çekicidir.
+Telmessos Lahdi, Muğla'nın Q207998 bölgesinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekmektedir. Telmessos Lahdi, Ege Bölgesi'nin turizm açısından önemli noktalarından biri olarak bilinmektedir. Bu bölgede, denizin ve güneşin keyfini çıkarma mümkündür. Ayrıca, Telmessos Lahdi'nin tarihi geçmişi de oldukça ilgi çekicidir.
 
 ## Tarihçe
 

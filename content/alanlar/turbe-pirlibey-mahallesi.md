@@ -1,7 +1,7 @@
 ---
 title: "Türbe (Pirlibey Mahallesi)"
 date: "2026-01-10T05:07:59.099Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391623"
 
 # Türbe (Pirlibey Mahallesi)
 
-Türbe Plajı, Aydın'ın Nazilli ilçesinde, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık geniş bir alana yayılan plaj, misafirlerine geniş bir alan sunar. Plajın genişliği, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu genişlik, ziyaretçilerin rahatça güneşlenmesine, denizde yüzmesine ve plajda çeşitli etkinliklere katılmalarına olanak tanır. Türbe Plajı, Nazilli'nin en önemli turizm merkezlerinden biri olarak görülmektedir.
+Türbe Plajı, Aydın'ın Nazilli ilçesinde, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık geniş bir alana yayılan plaj, misafirlerine geniş bir alan sunar. Bu genişlik, ziyaretçilerin rahatça güneşlenmesine, denizde yüzmesine ve plajda çeşitli etkinliklere katılmalarına olanak tanır. Türbe Plajı, Nazilli'nin en önemli turizm merkezlerinden biri olarak görülmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Türbe Plajı, tarihi geçmişi ile dikkat çeker. Yüzyıllar boyunca, bu bölg
 
 ## Coğrafya
 
-Türbe Plajı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Plaj, 140 hektarlık geniş bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Plajın genişliği, ziyaretçilerin rahatça güneşlenmesine, denizde yüzmesine ve plajda çeşitli etkinliklere katılmalarına olanak tanır. Plajın etrafı, yeşilliklerle çevrilidir ve çeşitli ağaçlar bulunur. Bu ağaçlar, plajı ziyaret edenlerin güneşin altında rahatça oturabilmesine olanak tanır. Plajın yakınında, birçok otel, restoran ve kafeler bulunur. Bu tesisler, plajı ziyaret edenlerin konaklama, yeme ve eğlence ihtiyaçlarını karşılar.
+Türbe Plajı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Plajın genişliği, ziyaretçilerin rahatça güneşlenmesine, denizde yüzmesine ve plajda çeşitli etkinliklere katılmalarına olanak tanır. Plajın etrafı, yeşilliklerle çevrilidir ve çeşitli ağaçlar bulunur. Bu ağaçlar, plajı ziyaret edenlerin güneşin altında rahatça oturabilmesine olanak tanır. Plajın yakınında, birçok otel, restoran ve kafeler bulunur. Bu tesisler, plajı ziyaret edenlerin konaklama, yeme ve eğlence ihtiyaçlarını karşılar.
 
 ## Flora ve Fauna
 

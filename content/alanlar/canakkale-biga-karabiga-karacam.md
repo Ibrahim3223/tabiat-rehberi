@@ -22,7 +22,7 @@ wikidata_id: "Q108227940"
 
 # Canakkale-Biga-Karabiga Karacam
 
-Canakkale-Biga-Karabiga Karacam, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Doğa severler için bir cennet olan bu milli park, zengin flora ve fauna çeşitliliğine sahip. Ziyaretçiler, bu doğal güzelliğin içinde yürüyüş yapabilir, piknik yapabilir veya sadece doğanın seslerini dinleyebilir.
+Canakkale-Biga-Karabiga Karacam, yaklaşık 140 hektarlık bir alanı kapsıyor. Doğa severler için bir cennet olan bu milli park, zengin flora ve fauna çeşitliliğine sahip. Ziyaretçiler, bu doğal güzelliğin içinde yürüyüş yapabilir, piknik yapabilir veya sadece doğanın seslerini dinleyebilir.
 
 ## Tarihçe
 

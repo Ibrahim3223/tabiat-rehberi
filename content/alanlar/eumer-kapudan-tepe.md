@@ -28,7 +28,7 @@ wikidata_id: "Q31391274"
 
 # Eumer Kapudan Tepe
 
-Eumer Kapudan Tepe, İç Anadolu Bölgesi'nin geniş ve verimli ovaları arasında yer alan bir tepe olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir manzara sunuyor. İnsanlık tarihine ışık tutan tarihi kalıntıları ve zengin flora ile fauna çeşitliliği ile dikkat çekiyor. Bu bölge, coğrafi konumu itibariyle hem tarihi hem de doğal güzelliklerin bir araya geldiği özel bir nokta olarak karşımıza çıkıyor. Eumer Kapudan Tepe, ziyaretçilerini bekleyen bir hazine olarak düşünülebilir.
+Eumer Kapudan Tepe, İç Anadolu Bölgesi'nin geniş ve verimli ovaları arasında yer alan bir tepe olarak dikkat çekiyor. İnsanlık tarihine ışık tutan tarihi kalıntıları ve zengin flora ile fauna çeşitliliği ile dikkat çekiyor. Bu bölge, coğrafi konumu itibariyle hem tarihi hem de doğal güzelliklerin bir araya geldiği özel bir nokta olarak karşımıza çıkıyor. Eumer Kapudan Tepe, ziyaretçilerini bekleyen bir hazine olarak düşünülebilir.
 
 ## Tarihçe
 

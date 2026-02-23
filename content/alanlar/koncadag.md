@@ -28,7 +28,7 @@ wikidata_id: "Q31386448"
 
 # Koncadağ
 
-Koncadağ, Kilis ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahiptir. Koncadağ, bölgeye gelen ziyaretçilerin ilgisini çekmekte ve doğa severlerin tercih ettiği bir destinasyon olarak bilinmektedir. Bölgenin coğrafi yapısı, flora ve fauna çeşitliliği ile dikkat çekmekte ve ziyaretçilere benzersiz bir deneyim sunmaktadır.
+Koncadağ, Kilis ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepedir. Koncadağ, bölgeye gelen ziyaretçilerin ilgisini çekmekte ve doğa severlerin tercih ettiği bir destinasyon olarak bilinmektedir. Bölgenin coğrafi yapısı, flora ve fauna çeşitliliği ile dikkat çekmekte ve ziyaretçilere benzersiz bir deneyim sunmaktadır.
 
 ## Tarihçe
 

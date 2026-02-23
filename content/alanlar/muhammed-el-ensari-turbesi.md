@@ -1,7 +1,7 @@
 ---
 title: "Muhammed El-Ensari Türbesi"
 date: "2026-01-10T04:50:39.332Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q112055971"
 
 # Muhammed El-Ensari Türbesi
 
-Muhammed El-Ensari Türbesi, Marmara Bölgesi'nin kalbinde, Fatih/İstanbul'da yer alan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar, ki bu alan yaklaşık 200 futbol sahası büyüklüğüne eşittir. Muhammed El-Ensari Türbesi, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda çevrenin doğal güzelliği ile baş başa bırakır. Bu türbe, yüzyıllar boyunca birçok kişi tarafından ziyaret edilmiş ve saygı görmüştür. Tarihi geçmişi ve doğal güzellikleri ile Muhammed El-Ensari Türbesi, ziyaretçilere unutulmaz bir deneyim sunar.
+Muhammed El-Ensari Türbesi, Marmara Bölgesi'nin kalbinde, Fatih/İstanbul'da yer alan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Muhammed El-Ensari Türbesi, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda çevrenin doğal güzelliği ile baş başa bırakır. Bu türbe, yüzyıllar boyunca birçok kişi tarafından ziyaret edilmiş ve saygı görmüştür. Tarihi geçmişi ve doğal güzellikleri ile Muhammed El-Ensari Türbesi, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

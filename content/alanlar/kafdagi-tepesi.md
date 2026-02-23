@@ -28,7 +28,7 @@ wikidata_id: "Q31391122"
 
 # Kafdağı Tepesi
 
-Kafdağı Tepesi, Sivas şehrinin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu büyüklük, ziyaretçilerin geniş bir alanda gezebilmelerine ve doğanın güzelliklerini keşfedebilmelerine olanak sağlıyor. Kafdağı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor.
+Kafdağı Tepesi, Sivas şehrinin güzide noktalarından biri olarak karşımıza çıkıyor. Bu büyüklük, ziyaretçilerin geniş bir alanda gezebilmelerine ve doğanın güzelliklerini keşfedebilmelerine olanak sağlıyor. Kafdağı Tepesi, ziyaretçilerine hem doğal güzellikleri hem de bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor.
 
 ## Tarihçe
 

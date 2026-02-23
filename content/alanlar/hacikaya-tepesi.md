@@ -28,7 +28,7 @@ wikidata_id: "Q31567059"
 
 # Hacıkaya Tepesi
 
-Giresun'un muhteşem manzarasına sahip Hacıkaya Tepesi, ziyaretçilerini büyüleyici bir doğa ile karşılar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin doğayı keşfetmelerine olanak tanır. Hacıkaya Tepesi, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilir ve buraya gelenler, bu bölgeyi keşfetmenin keyfini yaşarlar. Bu tepe, ziyaretçilerine hem doğayı hem de bölgeyi tanıma fırsatı sunar.
+Giresun'un muhteşem manzarasına sahip Hacıkaya Tepesi, ziyaretçilerini büyüleyici bir doğa ile karşılar. Hacıkaya Tepesi, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilir ve buraya gelenler, bu bölgeyi keşfetmenin keyfini yaşarlar. Bu tepe, ziyaretçilerine hem doğayı hem de bölgeyi tanıma fırsatı sunar.
 
 ## Tarihçe
 

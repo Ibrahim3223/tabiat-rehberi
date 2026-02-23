@@ -28,7 +28,7 @@ wikidata_id: "Q34818961"
 
 # Çiftlarslan Tepesi
 
-Çiftlarslan Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Çiftlarslan Tepesi, doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor. Bu tepe, Akdeniz Bölgesi'nin önemli güzelliklerinden biri olarak kabul ediliyor. Çiftlarslan Tepesi, ziyaretçilerini bekliyor.
+Çiftlarslan Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Çiftlarslan Tepesi, doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor. Bu tepe, Akdeniz Bölgesi'nin önemli güzelliklerinden biri olarak kabul ediliyor. Çiftlarslan Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ wikidata_id: "Q34818961"
 ## İlginç Bilgiler
 
 - Çiftlarslan Tepesi, 140 hektarlık bir alanı kapsıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Çiftlarslan Tepesi, doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor.
 - Bu tepe, Akdeniz Bölgesi'nin önemli güzelliklerinden biri olarak kabul ediliyor.
 - Çiftlarslan Tepesi, ziyaretçilerine doğal güzellikleri sunuyor.

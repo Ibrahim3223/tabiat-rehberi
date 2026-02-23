@@ -1,7 +1,7 @@
 ---
 title: "Alemdar Baba Türbesi"
 date: "2026-01-10T06:33:53.556Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q134734971"
 
 # Alemdar Baba Türbesi
 
-Alemdar Baba Türbesi, İstanbul'un Çekmeköy ilçesinde bulunan bir doğa harikası. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, hem doğa severler hem de tarihe merakı olanlar için bir cazibe merkezi. Alemdar Baba Türbesi, doğanın güzelliği ve tarihin zenginliği arasında bir köprü kuruyor. Burada, yemyeşil alanlar, tarihi yapılar ve eşsiz manzaralar bulacaksınız. Bu alan, Marmara Bölgesi'nin doğa güzelliğini ve tarihi önemini bir arada sunuyor.
+Alemdar Baba Türbesi, İstanbul'un Çekmeköy ilçesinde bulunan bir doğa harikası. Bu bölge, hem doğa severler hem de tarihe merakı olanlar için bir cazibe merkezi. Alemdar Baba Türbesi, doğanın güzelliği ve tarihin zenginliği arasında bir köprü kuruyor. Burada, yemyeşil alanlar, tarihi yapılar ve eşsiz manzaralar bulacaksınız. Bu alan, Marmara Bölgesi'nin doğa güzelliğini ve tarihi önemini bir arada sunuyor.
 
 ## Tarihçe
 

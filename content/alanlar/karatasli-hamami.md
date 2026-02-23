@@ -1,7 +1,7 @@
 ---
 title: "Karataşlı Hamamı"
 date: "2026-01-09T22:26:06.347Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,11 +29,11 @@ wikidata_id: "Q131738446"
 
 # Karataşlı Hamamı
 
-Turhal'da yer alan Karataşlı Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir kumsal sunar. Karadeniz'in mavilikleri ile çevrilidir ve burada geçirilen zaman, hem dinlendirici hem de güzelliği ile büyüleyici olur. Karataşlı Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlar ve denize girerek serinleme imkanı sunar. Bu bölgede, hem doğayı keşfetmek hem de deniz keyfi yapma mümkündür.
+Turhal'da yer alan Karataşlı Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Karadeniz'in mavilikleri ile çevrilidir ve burada geçirilen zaman, hem dinlendirici hem de güzelliği ile büyüleyici olur. Karataşlı Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlar ve denize girerek serinleme imkanı sunar. Bu bölgede, hem doğayı keşfetmek hem de deniz keyfi yapma mümkündür.
 
 ## Tarihçe
 
-Karataşlı Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her dönemde güzelliği ile dikkat çekmiştir. Karataşlı Hamamı, Karadeniz Bölgesi'nin turizm açısından önemli noktalarından biri olarak kabul edilir ve her yıl çok sayıda ziyaretçi ağırlar. Tarihi geçmişi, kültürel zenginliği ve doğal güzelliği ile Karataşlı Hamamı, ziyaretçilerine unutulmaz anlar yaşatır. Burada, hem geçmişin izlerini hem de günümüzün güzelliğini keşfetme mümkündür.
+Karataşlı Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her dönemde güzelliği ile dikkat çekmiştir. Karataşlı Hamamı, Karadeniz Bölgesi'nin turizm açısından önemli noktalarından biri olarak kabul edilir ve her yıl çok sayıda ziyaretçi ağırlar. Burada, hem geçmişin izlerini hem de günümüzün güzelliğini keşfetme mümkündür.
 
 ## Coğrafya
 

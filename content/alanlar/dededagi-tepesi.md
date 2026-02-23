@@ -28,7 +28,7 @@ wikidata_id: "Q31390283"
 
 # Dededağı Tepesi
 
-Dededağı Tepesi, Adana'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Doğal güzelliği ve coğrafi konumuyla dikkat çekiyor. Dededağı Tepesi, ziyaretçilerine panoramik manzaralar sunuyor. Doğa severler için ideal bir gezi noktası.
+Dededağı Tepesi, Adana'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Doğal güzelliği ve coğrafi konumuyla dikkat çekiyor. Dededağı Tepesi, ziyaretçilerine panoramik manzaralar sunuyor. Doğa severler için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Dededağı Tepesi, tarihi geçmişiyle dikkat çekiyor. Yüzyıllar boyunca çe�
 
 ## Coğrafya
 
-Dededağı Tepesi, Adana'nın coğrafi yapısını karakterize eden bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Dededağı Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafi yapısı, doğal güzelliği ve iklimi, ziyaretçileri cezbediyor. Tepe, çevresindeki doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, bu tepeyi keşfederek, bölgenin coğrafi ve doğal güzelliğini deneyimleyebilir. Dededağı Tepesi'nin coğrafi konumu, onu önemli bir gezi noktası haline getiriyor.
+Dededağı Tepesi, Adana'nın coğrafi yapısını karakterize eden bir tepe. Dededağı Tepesi, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafi yapısı, doğal güzelliği ve iklimi, ziyaretçileri cezbediyor. Tepe, çevresindeki doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, bu tepeyi keşfederek, bölgenin coğrafi ve doğal güzelliğini deneyimleyebilir. Dededağı Tepesi'nin coğrafi konumu, onu önemli bir gezi noktası haline getiriyor.
 
 ## Flora ve Fauna
 

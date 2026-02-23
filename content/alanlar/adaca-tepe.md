@@ -20,7 +20,7 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg","alt":"Adaca Tepe","caption":"Adaca Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 03.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adaca%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389439","tip":"genel"}]
-description: "Kahramanmaraş'ta bulunan históri ve coğrafi açıdan önemli bir bölge olan Adaca Tepe, ziyaretçilerini bekliyor."
+description: "Kahramanmaraş'ta bulunan tarihi ve coğrafi açıdan önemli bir bölge olan Adaca Tepe, ziyaretçilerini bekliyor."
 keywords: ["Adaca Tepe","Kahramanmaraş","Akdeniz Bölgesi","coğrafya","tarihçe","doğa","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389439"
@@ -28,7 +28,7 @@ wikidata_id: "Q31389439"
 
 # Adaca Tepe
 
-Adaca Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan önemli bir coğrafi ve tarihi noktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve bu ölçek, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Adaca Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle çekiyor. Burada, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilere geniş bir bilgi yelpazesi sunuluyor. Bölgenin coğrafi yapısı, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Adaca Tepe, hem tarih meraklıları hem de doğa severler için ideal bir destinasyon olarak görünüyor.
+Adaca Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan önemli bir coğrafi ve tarihi noktadır. Adaca Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle çekiyor. Burada, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilere geniş bir bilgi yelpazesi sunuluyor. Bölgenin coğrafi yapısı, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Adaca Tepe, hem tarih meraklıları hem de doğa severler için ideal bir destinasyon olarak görünüyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Üryanizade Ahmet Esat Efendi Türbesi"
 date: "2026-01-10T07:48:41.310Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391115"
 
 # Üryanizade Ahmet Esat Efendi Türbesi
 
-Üryanizade Ahmet Esat Efendi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan ve tarihi bir figür olan Üryanizade Ahmet Esat Efendi'ye ait bir türbedir. Bu türbe, aynı zamanda bir plaj olarak da bilinir ve ziyaretçilerin hem tarihi bir yapıyı görmesine hem de denize girmesine olanak sağlar. 140 hektarlık bir alanda bulunan bu kompleks, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. İstanbul'un tarihi ve doğal güzellikleri arasında önemli bir yere sahip olan Üryanizade Ahmet Esat Efendi Türbesi, ziyaretçilerini bekliyor.
+Üryanizade Ahmet Esat Efendi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan ve tarihi bir figür olan Üryanizade Ahmet Esat Efendi'ye ait bir türbedir. Bu türbe, aynı zamanda bir plaj olarak da bilinir ve ziyaretçilerin hem tarihi bir yapıyı görmesine hem de denize girmesine olanak sağlar. İstanbul'un tarihi ve doğal güzellikleri arasında önemli bir yere sahip olan Üryanizade Ahmet Esat Efendi Türbesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391115"
 
 ## Coğrafya
 
-Üryanizade Ahmet Esat Efendi Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin önemli bir noktasında yer alır. Bu bölgenin coğrafi yapısı, tarihi ve doğal güzellikleri ile dikkat çeker. Türbe ve plaj, denize sıfır bir konumda bulunduğundan, ziyaretçilere harika bir manzara sunar. Alanın coğrafi özellikleri, ziyaretçilerin hem tarihi bir yapıyı görmesine hem de deniz ve güneşin tadını çıkarmasına olanak sağlar. İstanbul'un merkezine yakın bir konumda bulunan Üryanizade Ahmet Esat Efendi Türbesi, ulaşım açısından da kolaylıklar sağlar. Türbenin etrafı, çeşitli bitkiler ve ağaçlar ile çevrilidir ve bu reason ile ziyaretçilere huzurlu bir ortam sunar. 140 hektarlık bir alanı kapsayan bu kompleks, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve ziyaretçilere geniş bir alan sunar.
+Üryanizade Ahmet Esat Efendi Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin önemli bir noktasında yer alır. Bu bölgenin coğrafi yapısı, tarihi ve doğal güzellikleri ile dikkat çeker. Türbe ve plaj, denize sıfır bir konumda bulunduğundan, ziyaretçilere harika bir manzara sunar. Alanın coğrafi özellikleri, ziyaretçilerin hem tarihi bir yapıyı görmesine hem de deniz ve güneşin tadını çıkarmasına olanak sağlar. İstanbul'un merkezine yakın bir konumda bulunan Üryanizade Ahmet Esat Efendi Türbesi, ulaşım açısından da kolaylıklar sağlar. Türbenin etrafı, çeşitli bitkiler ve ağaçlar ile çevrilidir ve bu reason ile ziyaretçilere huzurlu bir ortam sunar.
 
 ## Flora ve Fauna
 

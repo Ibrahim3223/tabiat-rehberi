@@ -1,7 +1,7 @@
 ---
 title: "Hüseyin Sadık Türbesi"
 date: "2026-01-10T07:43:13.478Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391169"
 
 # Hüseyin Sadık Türbesi
 
-Hüseyin Sadık Türbesi, İstanbul'un tarihi yerleri arasında bulunan önemli bir kültürel mirastır. Fatih ilçesinde, Marmara Bölgesi'nde yer alan bu tülbent, Osmanlı dönemine ait tarihi bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Burada bulunan tarihi yapılar, ziyaretçiler için önemli bir çekim merkezi oluşturur. Hüseyin Sadık Türbesi, İstanbul'un tarihi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkar.
+Hüseyin Sadık Türbesi, İstanbul'un tarihi yerleri arasında bulunan önemli bir kültürel mirastır. Fatih ilçesinde, Marmara Bölgesi'nde yer alan bu tülbent, Osmanlı dönemine ait tarihi bir yapıdır. Burada bulunan tarihi yapılar, ziyaretçiler için önemli bir çekim merkezi oluşturur. Hüseyin Sadık Türbesi, İstanbul'un tarihi zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hüseyin Sadık Türbesi, Osmanlı dönemine ait bir tarihi yapıdır. Bu dönem
 
 ## Coğrafya
 
-Hüseyin Sadık Türbesi, Fatih ilçesinde, Marmara Bölgesi'nde yer alır. Bu bölge, İstanbul'un tarihi yerleri arasında önemli bir yere sahiptir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Burada bulunan coğrafi yapı, ziyaretçiler için önemli bir çekim merkezi oluşturur. İstanbul'un coğrafi yapısı, tarihi yerleri ve kültürel zenginliği, Hüseyin Sadık Türbesi'nin etrafında yoğunlaşmıştır. Marmara Bölgesi, İstanbul'un tarihi ve kültürel zenginliğini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkar. Hüseyin Sadık Türbesi, İstanbul'un coğrafi ve kültürel zenginliğini keşfetmek isteyenler için önemli bir yer olarak karşımıza çıkar.
+Hüseyin Sadık Türbesi, Fatih ilçesinde, Marmara Bölgesi'nde yer alır. Bu bölge, İstanbul'un tarihi yerleri arasında önemli bir yere sahiptir. Burada bulunan coğrafi yapı, ziyaretçiler için önemli bir çekim merkezi oluşturur. İstanbul'un coğrafi yapısı, tarihi yerleri ve kültürel zenginliği, Hüseyin Sadık Türbesi'nin etrafında yoğunlaşmıştır. Marmara Bölgesi, İstanbul'un tarihi ve kültürel zenginliğini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkar. Hüseyin Sadık Türbesi, İstanbul'un coğrafi ve kültürel zenginliğini keşfetmek isteyenler için önemli bir yer olarak karşımıza çıkar.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Hüseyin Sadık Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel zen
 
 - Hüseyin Sadık Türbesi, Osmanlı dönemine ait bir tarihi yapıdır.
 - Fatih ilçesinde, Marmara Bölgesi'nde yer alır.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - İstanbul'un tarihi yerleri arasında önemli bir yere sahiptir.
 - Ziyaretçiler için önemli bir çekim merkezi oluşturur.

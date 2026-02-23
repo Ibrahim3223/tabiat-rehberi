@@ -28,7 +28,7 @@ wikidata_id: "Q32138650"
 
 # Gözetme Tepesi
 
-Gözetme Tepesi, Çanakkale'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli bir bölümünü kapsıyor. Gözetme Tepesi, ziyaretçilerini doğayla baş başa bırakıyor ve onlar için unutulmaz bir deneyim sunuyor. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve zengin fauna encontruyor. Bu doğal güzellik, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak kabul ediliyor.
+Gözetme Tepesi, Çanakkale'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Gözetme Tepesi, ziyaretçilerini doğayla baş başa bırakıyor ve onlar için unutulmaz bir deneyim sunuyor. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve zengin fauna encontruyor. Bu doğal güzellik, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gözetme Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Gözetme Tepesi, coğrafi olarak Marmara Bölgesi'nin önemli bir bölümünü kapsıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve zengin fauna encontruyor. Bu doğal güzellik, aynı zamanda stratejik konumu nedeniyle önemli bir nokta olarak kabul ediliyor. Gözetme Tepesi, Marmara Bölgesi'nin en önemli noktalarından biri olarak kabul ediliyor ve buradan, bölgenin önemli bir bölümü gözlemlenebiliyor. Tepenin etrafında, çeşitli akarsular ve göller encontruyor ve bu su kaynakları, bölgenin ekolojisini zenginleştiriyor. Gözetme Tepesi, aynı zamanda iklim açısından da önemli bir bölgedir. Bu bölge, Marmara Bölgesi'nin ılıman ikliminin etkilerini taşıyor ve buranın flora ve fauna zenginliği, bu iklim koşullarına bağlı olarak şekilleniyor.
+Gözetme Tepesi, coğrafi olarak Marmara Bölgesi'nin önemli bir bölümünü kapsıyor. Tepenin eteklerinde ve etrafında çeşitli bitki türleri ve zengin fauna encontruyor. Bu doğal güzellik, aynı zamanda stratejik konumu nedeniyle önemli bir nokta olarak kabul ediliyor. Gözetme Tepesi, Marmara Bölgesi'nin en önemli noktalarından biri olarak kabul ediliyor ve buradan, bölgenin önemli bir bölümü gözlemlenebiliyor. Tepenin etrafında, çeşitli akarsular ve göller encontruyor ve bu su kaynakları, bölgenin ekolojisini zenginleştiriyor. Gözetme Tepesi, aynı zamanda iklim açısından da önemli bir bölgedir. Bu bölge, Marmara Bölgesi'nin ılıman ikliminin etkilerini taşıyor ve buranın flora ve fauna zenginliği, bu iklim koşullarına bağlı olarak şekilleniyor.
 
 ## Flora ve Fauna
 

@@ -50,7 +50,7 @@ Jeolojik açıdan incelendiğinde, Karaçağıl Dağı'nın fiziki yapısı oldu
 
 ## Flora ve Fauna
 
-Karaçağıl Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir ekosistem sunuyor. 
+Karaçağıl Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir ekosistem sunuyor.
 
 Bitki Örtüsü olarak, ilkbaharla birlikte çiçeklenen birçok türle karşılaşma mümkün. Sonbaharda, renk değişimleriyle birlikte dağ manzarası bir sanat eserine dönüşüyor. Alpin flora, bu yükseklikte yaşamaya adapte olmuş özel bitkilerle zenginleşiyor.
 

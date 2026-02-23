@@ -1,7 +1,7 @@
 ---
 title: "Yusuf Paşa Hamamı"
 date: "2026-01-09T23:27:05.777Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739056"
 
 # Yusuf Paşa Hamamı
 
-Yusuf Paşa Hamamı, İstanbul'un Büyükçekmece ilçesinde, Marmara Bölgesi'nin güzide bir noktasında yer alan tarihi bir hamam ve plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplar. Bu geniş alan, ziyaretçilere hem tarihi bir hamamın güzelliğini hem de Marmara Denizi'nin serin sularının keyfini çıkarma fırsatı sunar. Büyükçekmece'nin merkezine yakın konumuyla kolay erişilebilir olan Yusuf Paşa Hamamı, hem yerel halk hem de turistler için popüler bir destinasyondur.
+Yusuf Paşa Hamamı, İstanbul'un Büyükçekmece ilçesinde, Marmara Bölgesi'nin güzide bir noktasında yer alan tarihi bir hamam ve plajdır. Bu geniş alan, ziyaretçilere hem tarihi bir hamamın güzelliğini hem de Marmara Denizi'nin serin sularının keyfini çıkarma fırsatı sunar. Büyükçekmece'nin merkezine yakın konumuyla kolay erişilebilir olan Yusuf Paşa Hamamı, hem yerel halk hem de turistler için popüler bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yusuf Paşa Hamamı, tarihsel geçmişiyle dikkat çeker. Tarihi kaynaklara gör
 
 ## Coğrafya
 
-Yusuf Paşa Hamamı, Büyükçekmece'nin kıyı şeridinde, Marmara Denizi'ne bakan bir konumda yer alır. Bu konumu, ziyaretçilere denizin güzelliğini ve bölgenin eşsiz manzarasını sunar. Hamam ve plaj, 180 hektarlık bir arazide kuruludur ki bu, yaklaşık 300 futbol sahası büyüklüğüne eşittir. Bu geniş arazi, ziyaretçilere sufficient alan sağlar ve aynı zamanda bölgenin doğal güzelliğini koruma altına alır. Coğrafi konumu itibariyle, hamam ve plaj, bölgenin iklimsel özelliklerine de uyum sağlar. Yaz aylarında serin, kış aylarında ise ılıman bir iklimi olan bu bölge, yıl boyunca ziyaretçilere hoş bir atmosfer sunar. Çevresindeki doğal güzellikler, tarihi yapılar ve modern tesislerle birlikte, Yusuf Paşa Hamamı ve plajı, bir gezi veya tatil için ideal bir destinasyon teşkil eder.
+Yusuf Paşa Hamamı, Büyükçekmece'nin kıyı şeridinde, Marmara Denizi'ne bakan bir konumda yer alır. Bu konumu, ziyaretçilere denizin güzelliğini ve bölgenin eşsiz manzarasını sunar. Bu geniş arazi, ziyaretçilere sufficient alan sağlar ve aynı zamanda bölgenin doğal güzelliğini koruma altına alır. Coğrafi konumu itibariyle, hamam ve plaj, bölgenin iklimsel özelliklerine de uyum sağlar. Yaz aylarında serin, kış aylarında ise ılıman bir iklimi olan bu bölge, yıl boyunca ziyaretçilere hoş bir atmosfer sunar. Çevresindeki doğal güzellikler, tarihi yapılar ve modern tesislerle birlikte, Yusuf Paşa Hamamı ve plajı, bir gezi veya tatil için ideal bir destinasyon teşkil eder.
 
 ## Flora ve Fauna
 

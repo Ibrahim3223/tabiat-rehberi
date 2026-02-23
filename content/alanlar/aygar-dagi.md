@@ -28,11 +28,11 @@ wikidata_id: "Q31581904"
 
 # Aygar Dağı
 
-Çorum'un doğusunda yer alan Aygar Dağı, bölgeyi çevreleyen en önemli coğrafi oluşumlardan biri. Bu dağ, Çorum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir hedef. Aygar Dağı, Çorum'un zengin tarihi ve kültürel mirasının bir parçası olarak görülebilir. Çorum'un merkezine yakın konumunda bulunan Aygar Dağı, şehrin doğal ve histórik zenginliklerini bir araya getiren bir nokta.
+Çorum'un doğusunda yer alan Aygar Dağı, bölgeyi çevreleyen en önemli coğrafi oluşumlardan biri. Bu dağ, Çorum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir hedef. Aygar Dağı, Çorum'un zengin tarihi ve kültürel mirasının bir parçası olarak görülebilir. Çorum'un merkezine yakın konumunda bulunan Aygar Dağı, şehrin doğal ve tarihi zenginliklerini bir araya getiren bir nokta.
 
 ## Tarihçe
 
-Aygar Dağı, Çorum'un zengin tarihi dokusu içinde yer alan bir doğal güzelliktir. Çorum bölgesi, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir yerleşim yeridir. Hititler, Frigler, Persler ve Romalılar gibi medeniyetler, bu topraklarda izler bırakmışlardır. Bu bölgenin tarihsel önemi, sadece siyasi ve kültürel açıdan değil, aynı zamanda coğrafi konumundan kaynaklanır. Ticaret yollarının kesişme noktasında bulunan Çorum, históri boyunca önemli bir geçiş noktası olarak hizmet vermiştir.
+Aygar Dağı, Çorum'un zengin tarihi dokusu içinde yer alan bir doğal güzelliktir. Çorum bölgesi, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir yerleşim yeridir. Hititler, Frigler, Persler ve Romalılar gibi medeniyetler, bu topraklarda izler bırakmışlardır. Bu bölgenin tarihsel önemi, sadece siyasi ve kültürel açıdan değil, aynı zamanda coğrafi konumundan kaynaklanır. Ticaret yollarının kesişme noktasında bulunan Çorum, tarihi boyunca önemli bir geçiş noktası olarak hizmet vermiştir.
 
 Doğal alanlar gibi Aygar Dağı, Türkiye'nin tarihsel mirasının önemli bir parçasıdır. Bu tür alanlar, sadece doğal güzellikleriyle değil, aynı zamanda insanların yaşamlarında önemli roller oynamışlardır. Yaylacılık, hayvancılık ve avcılık gibi faaliyetler, bu bölgelerde uzun süreler boyunca yürütülmüştür. Ayrıca, tarih boyunca kullanılan ticaret yolları ve geçitler, bu doğal alanların etrafından geçerek, insanların yaşamını ve ekonomisini etkilemiştir. Aygar Dağı, Çorum'un tarihini ve kültürünü anlamak için önemli bir noktadır ve bu bölgenin doğal güzelliği, tarihi öneminin bir parçasıdır.
 
@@ -48,7 +48,7 @@ Doğal yapısı itibariyle, Aygar Dağı'nın çevresindeki arazinin şekli ve b
 
 ## Flora ve Fauna
 
-Aygar Dağı, Çorum'un nemli ikliminin etkisi altında, gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Aygar Dağı, Çorum'un nemli ikliminin etkisi altında, gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çiçekler açar, sonbaharda ise yaprakların renk değiştirmesiyle güzel bir manzara oluşur. Dağın yükseklik zonlarına göre değişen flora, alpin bölgede daha az çeşitlilik gösterirken, ormanlık alanlarda zengin bir bitki örtüsüne sahiptir.
 

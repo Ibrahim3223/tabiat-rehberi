@@ -22,7 +22,7 @@ wikidata_id: "Q108226117"
 
 # Kırk Merdiven Kayalığı
 
-Kırk Merdiven Kayalığı, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, doğal güzelliği ve benzersiz coğrafi yapısıyla dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Kırk Merdiven Kayalığı, ziyaretçiler için hem doğayı keşfetme hem de tarihi geçmişi öğrenme fırsatı sunar. Bu milli park, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çeker.
+Kırk Merdiven Kayalığı, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, doğal güzelliği ve benzersiz coğrafi yapısıyla dikkat çekmektedir. Kırk Merdiven Kayalığı, ziyaretçiler için hem doğayı keşfetme hem de tarihi geçmişi öğrenme fırsatı sunar. Bu milli park, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çeker.
 
 ## Tarihçe
 

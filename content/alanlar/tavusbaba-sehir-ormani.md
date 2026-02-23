@@ -22,7 +22,7 @@ wikidata_id: "Q108228696"
 
 # TAVUSBABA ŞEHİR ORMANI
 
-Tavusbaba Şehir Ormanı, İç Anadolu Bölgesi'nde yer alan yaklaşık 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, bölge halkının doğayı deneyimlemesi için önemli bir mekândır. Orman, çeşitli ağaç türleri ve zengin fauna ile dikkat çeker. Ziyaretçiler, ormanda doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir veya spor yapabilir. Tavusbaba Şehir Ormanı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
+Tavusbaba Şehir Ormanı, İç Anadolu Bölgesi'nde yer alan yaklaşık 140 hektarlık bir yeşil alandır. Orman, çeşitli ağaç türleri ve zengin fauna ile dikkat çeker. Ziyaretçiler, ormanda doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir veya spor yapabilir. Tavusbaba Şehir Ormanı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Tavusbaba Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun ol
 
 ## Flora ve Fauna
 
-Tavusbaba Şehir Ormanı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Ormanda, bölgeye özgü ağaç türleri, çalılar ve otlar bulunur. Orman, mevsimsel değişimlere göre, farklı bitki türleri ile renklenir. Bahar aylarında, orman, çiçeklerin renkleri ile süslenirken, yaz aylarında yeşil bir hal alır. Kış aylarında, orman, karla kaplanır ve bir kış masalı gibi görünür. Tavusbaba Şehir Ormanı, ayrıca, çeşitli hayvan türlerine de ev sahipliği yapar. Ormanda, kuşlar, kemirgenler ve diğer küçük hayvanlar bulunur. Orman, bu hayvanlar için uygun bir habitat sağlar ve onların yaşamını destekler.
+ Ormanda, bölgeye özgü ağaç türleri, çalılar ve otlar bulunur. Orman, mevsimsel değişimlere göre, farklı bitki türleri ile renklenir. Bahar aylarında, orman, çiçeklerin renkleri ile süslenirken, yaz aylarında yeşil bir hal alır. Kış aylarında, orman, karla kaplanır ve bir kış masalı gibi görünür. Tavusbaba Şehir Ormanı, ayrıca, çeşitli hayvan türlerine de ev sahipliği yapar. Ormanda, kuşlar, kemirgenler ve diğer küçük hayvanlar bulunur. Orman, bu hayvanlar için uygun bir habitat sağlar ve onların yaşamını destekler.
 
 ## Ziyaret Bilgileri
 

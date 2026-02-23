@@ -1,7 +1,7 @@
 ---
 title: "Ekslibris Müzesi"
 date: "2026-01-10T15:17:07.632Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"

@@ -28,7 +28,7 @@ wikidata_id: "Q34887951"
 
 # Osmanınçalı Tepesi
 
-Os맨çalı Tepesi, Çorum'un merkezine yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Os맨çalı Tepesi, Çorum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Doğa yürüyüşleri, manzara seyri ve fotoğraf çekimi için ideal bir yer. Os맨çalı Tepesi, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlıyor. Bu dönemlerde tepe, çeşitli bitki türleriyle kaplanıyor ve ziyaretçilere renkli bir manzara sunuyor.
+Os맨çalı Tepesi, Çorum'un merkezine yakın bir konumda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Os맨çalı Tepesi, Çorum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Doğa yürüyüşleri, manzara seyri ve fotoğraf çekimi için ideal bir yer. Os맨çalı Tepesi, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlıyor. Bu dönemlerde tepe, çeşitli bitki türleriyle kaplanıyor ve ziyaretçilere renkli bir manzara sunuyor.
 
 ## Tarihçe
 

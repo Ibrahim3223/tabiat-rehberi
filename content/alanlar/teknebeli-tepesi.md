@@ -28,7 +28,7 @@ wikidata_id: "Q31388762"
 
 # Teknebeli Tepesi
 
-Teknebeli Tepesi, Muğla'nın yüksek noktalarından biri olarak ziyaretçilerini etkileyen bir doğal güzellik. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir görüş açısı sunuyor. Tepenin etrafı, çeşitli bitki türleri ile çevrilidir ve bu da burada bulunan zengin faunayı desteklemektedir. Bu tepe, özellikle manzarası ve temiz havası ile tanınmaktadır. Ziyaretçiler, buraya çıktıklarında, muhteşem bir panorama ile karşılaşırlar ve Ege Bölgesi'nin güzelliğini keşfedebilirler.
+Teknebeli Tepesi, Muğla'nın yüksek noktalarından biri olarak ziyaretçilerini etkileyen bir doğal güzellik. Tepenin etrafı, çeşitli bitki türleri ile çevrilidir ve bu da burada bulunan zengin faunayı desteklemektedir. Bu tepe, özellikle manzarası ve temiz havası ile tanınmaktadır. Ziyaretçiler, buraya çıktıklarında, muhteşem bir panorama ile karşılaşırlar ve Ege Bölgesi'nin güzelliğini keşfedebilirler.
 
 ## Tarihçe
 

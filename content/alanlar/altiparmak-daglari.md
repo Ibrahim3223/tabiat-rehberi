@@ -27,7 +27,7 @@ Altıparmak Dağları, Türkiye'nin doğa harikalarından biri olarak dikkat çe
 
 ## Tarihçe
 
-Altıparmak Dağları, Türkiye'nin doğa harikalarından biri olarak karşımıza çıkıyor. Bu bölgenin tarihsel açıdan önemli bir konumda olması, çeşitli uygarlıkların izlerini taşıyor. Hitit, Roma ve Osmanlı gibi medeniyetlerin izlerini taşıyan bu bölge, tarihin sâu izlerini barındırıyor.
+Altıparmak Dağları, Türkiye'nin doğa harikalarından biri olarak karşımıza çıkıyor. Bu bölgenin tarihsel açıdan önemli bir konumda olması, çeşitli uygarlıkların izlerini taşıyor. Hitit, Roma ve Osmanlı gibi medeniyetlerin izlerini taşıyan bu bölge, tarihin derin izlerini barındırıyor.
 
 Türkiye'de doğal alanlar, tarihsel olarak önemli bir rol oynamıştır. Bu alanlar, insanların yaşamlarını sürdürmek için gerekli olan kaynakların temini açısından büyük önem taşıyor. Yayla ve dağlık bölgeler, özellikle yaylacılık ve hayvancılık faaliyetleri için elverişli koşullar sunuyor. Ayrıca, ticaret yolları ve geçiş noktaları olarak da kullanılan bu alanlar, ülkenin ekonomi ve kültürel gelişimine katkı sağlamışlardır.
 
@@ -45,7 +45,7 @@ Bölgenin su kaynakları bakımından önemli bir role sahip olan Altıparmak Da
 
 ## Flora ve Fauna
 
-Altıparmak Dağları, step bitki örtüsünün hakim olduğu bir bölge olarak, mevsimsel değişimlere uyum gösteren bir dağ ekosisteminin güzel örneklerini sunar. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanırken, yaz aylarında kuraklığa adapte olan bozkır bitkileri hakim olur. 
+Altıparmak Dağları, step bitki örtüsünün hakim olduğu bir bölge olarak, mevsimsel değişimlere uyum gösteren bir dağ ekosisteminin güzel örneklerini sunar. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanırken, yaz aylarında kuraklığa adapte olan bozkır bitkileri hakim olur.
 
 Dağların yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Bu bölgelerde, yüksek irtifaya adapte olmuş bitkiler, zorlu koşullara rağmen hayatta kalma mücadelesi verir. Bu bitkilerin arasında, çalılar, otsu bitkiler ve yer görülen ağaçlar bulunur.
 

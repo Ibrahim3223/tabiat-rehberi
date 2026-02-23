@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Hevrist Tepe, Ba
 
 ## Tarihçe
 
-Batman bölgesi, tarihin sâu sayfalarında gizli bir hazine gibi duruyor. İnsanlık tarihinin önemli uygarlıkları, bu topraklarda yaşamış ve izler bırakmışlar. Hitit, Asur, Roma ve Osmanlı gibi büyük imparatorluklar, bölgenin stratejik konumu nedeniyle burada varlıklarını hissettirmişler.
+Batman bölgesi, tarihin derin sayfalarında gizli bir hazine gibi duruyor. İnsanlık tarihinin önemli uygarlıkları, bu topraklarda yaşamış ve izler bırakmışlar. Hitit, Asur, Roma ve Osmanlı gibi büyük imparatorluklar, bölgenin stratejik konumu nedeniyle burada varlıklarını hissettirmişler.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendirmiş. Batman bölgesindeki "Hevrist Tepe", bu doğal güzelliklerin bir parçası olarak karşımıza çıkıyor. Bölgenin coğrafi yapısı, insanları ticaret, tarım ve hayvancılığa yönlendirmiş. Bu aktiviteler, bölgenin ekonomi ve sosyal yapısını şekillendirmiş.
 
@@ -64,7 +64,7 @@ Hevrist Tepe, Batman'ın doğal güzelliklerini keşfetmek isteyenler için idea
 
 - Hevrist Tepe, Batman ilinin merkezine yaklaşık 30 kilometre uzaklıkta yer alır.
 - Bu bölge, genellikle çam ormanları ve dağlık arazilerle çevrilidir.
-- Hevrist Tepe'nin etrafındaki dağlık bölgede birçok históri ve kültürel mekân bulunur.
+- Hevrist Tepe'nin etrafındaki dağlık bölgede birçok tarihi ve kültürel mekân bulunur.
 - Batman ilinin coğrafi yapısı, Hevrist Tepe'nin etrafını dağlık ve ormanlık alanlarla çevirir.
 - Hevrist Tepe, bölgenin önemli trekking rotaları arasında yer alır.
 - Bu dağlık bölge, flora ve fauna açısından zengin bir çeşitlilik sunar.

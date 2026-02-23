@@ -28,7 +28,7 @@ wikidata_id: "Q31387817"
 
 # Ayıderesibaşı Tepesi
 
-Ayıderesibaşı Tepesi, Kars ilinin doğal güzellikleri arasında önemli bir yere sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Ayıderesibaşı Tepesi, ziyaretçilerine doğanın güzelliklerini sunmak için hazır bekliyor. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, mevsimsel değişimlere göre renk değiştirir. Kars ilinin coğrafi konumu, bu tepeyi özel kılar ve buraya gelenler, eşsiz bir manzara ile karşılaşırlar.
+Ayıderesibaşı Tepesi, Kars ilinin doğal güzellikleri arasında önemli bir yere sahiptir. Ayıderesibaşı Tepesi, ziyaretçilerine doğanın güzelliklerini sunmak için hazır bekliyor. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, mevsimsel değişimlere göre renk değiştirir. Kars ilinin coğrafi konumu, bu tepeyi özel kılar ve buraya gelenler, eşsiz bir manzara ile karşılaşırlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ayıderesibaşı Tepesi, yüzyıllar boyunca önemli bir yerleşim yeri olarak b
 
 ## Coğrafya
 
-Ayıderesibaşı Tepesi, Kars ilinin coğrafi konumu nedeniyle, özel bir plaatsa sahiptir. Bu tepe, Doğu Anadolu Bölgesi'nde yer alır ve bu bölgenin coğrafi özellikleri, tepenin güzelliğini artırır. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, mevsimsel değişimlere göre renk değiştirir. Ayıderesibaşı Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunmak için hazır bekliyor. Tepenin iklimi, Kars ilinin iklimi ile bağlantılıdır ve bu nedenle, tepenin iklimi, mevsimsel değişimlere göre farklılık gösterir.
+Ayıderesibaşı Tepesi, Kars ilinin coğrafi konumu nedeniyle, özel bir plaatsa sahiptir. Bu tepe, Doğu Anadolu Bölgesi'nde yer alır ve bu bölgenin coğrafi özellikleri, tepenin güzelliğini artırır. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, mevsimsel değişimlere göre renk değiştirir. Tepenin coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunmak için hazır bekliyor. Tepenin iklimi, Kars ilinin iklimi ile bağlantılıdır ve bu nedenle, tepenin iklimi, mevsimsel değişimlere göre farklılık gösterir.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Kuzalan Tabiat Parkı
 
-Kuzalan Tabiat Parkı, Giresun'un güzide yerlerinden biri olarak dikkat çekiyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, doğal güzelliği ve zengin ekosistemiyle ziyaretçilerini büyülüyor. Kuzalan Tabiat Parkı, Karadeniz Bölgesi'nin eşsiz doğası içerisinde yer alıyor ve bu bölgeyi keşfetmek için ideal bir başlangıç noktası sunuyor. Parkta yürüyüş yapabilir, doğayı keşfedebilir ve temiz hava alınabilir. Kuzalan Tabiat Parkı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve bu nedenle doğa severlerin mutlaka görmesi gereken bir yer olarak kabul ediliyor.
+Kuzalan Tabiat Parkı, Giresun'un güzide yerlerinden biri olarak dikkat çekiyor. Kuzalan Tabiat Parkı, Karadeniz Bölgesi'nin eşsiz doğası içerisinde yer alıyor ve bu bölgeyi keşfetmek için ideal bir başlangıç noktası sunuyor. Parkta yürüyüş yapabilir, doğayı keşfedebilir ve temiz hava alınabilir. Kuzalan Tabiat Parkı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve bu nedenle doğa severlerin mutlaka görmesi gereken bir yer olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kuzalan Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Kuzalan Tabiat Parkı, Giresun ilinin sınırları içerisinde yer alıyor. Park, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilere geniş bir alanda keşif yapma imkanı sunuyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Kuzalan Tabiat Parkı, Karadeniz Bölgesi'nin iklim koşullarına uygun olarak, bol yağış alıyor ve bu durum, parkın yeşil görünümünü korumasını sağlıyor. Parkın çevresi, diğer doğal alanlarla çevrili ve bu durum, ekolojik dengenin korunmasına katkıda bulunuyor. Kuzalan Tabiat Parkı, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunuyor.
+Kuzalan Tabiat Parkı, Giresun ilinin sınırları içerisinde yer alıyor. Park, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Kuzalan Tabiat Parkı, Karadeniz Bölgesi'nin iklim koşullarına uygun olarak, bol yağış alıyor ve bu durum, parkın yeşil görünümünü korumasını sağlıyor. Parkın çevresi, diğer doğal alanlarla çevrili ve bu durum, ekolojik dengenin korunmasına katkıda bulunuyor. Kuzalan Tabiat Parkı, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunuyor.
 
 ## Flora ve Fauna
 

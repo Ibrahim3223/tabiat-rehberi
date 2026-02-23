@@ -30,7 +30,7 @@ wikidata_id: "Q131390924"
 
 # Danyal Peygamber Makamı
 
-Danyal Peygamber Makamı, Tarsus'un tarihî ve doğal güzelliklerini bir araya getiren özel bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş olanaklar sunar. Makam, Tarsus'un merkezine ve ulaşımı kolaydır. Ziyaretçiler, buradaki tarihi yapıları ve doğal güzellikleri keşfedebilir. Danyal Peygamber Makamı, hem tarihî hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Danyal Peygamber Makamı, Tarsus'un tarihî ve doğal güzelliklerini bir araya getiren özel bir destinasyondur. Makam, Tarsus'un merkezine ve ulaşımı kolaydır. Ziyaretçiler, buradaki tarihi yapıları ve doğal güzellikleri keşfedebilir. Danyal Peygamber Makamı, hem tarihî hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Danyal Peygamber Makamı, Tarsus'un merkezinde yer alır ve Akdeniz Bölgesi'nin
 
 ## Flora ve Fauna
 
-Danyal Peygamber Makamı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Makamın etrafında, geniş yeşil alanlar ve doğal güzellikler bulunur. Ziyaretçiler, buradaki doğal güzellikleri keşfedebilir ve dinlenebilir. Makamın flora ve fauna, mevsimsel değişimlere göre değişir. Ziyaretçiler, buradaki doğal güzellikleri ve canlıları keşfedebilir. Danyal Peygamber Makamı, hem doğal hem de dinî güzellikleri ile ziyaretçilerini bekliyor.
+ Makamın etrafında, geniş yeşil alanlar ve doğal güzellikler bulunur. Ziyaretçiler, buradaki doğal güzellikleri keşfedebilir ve dinlenebilir. Makamın flora ve fauna, mevsimsel değişimlere göre değişir. Ziyaretçiler, buradaki doğal güzellikleri ve canlıları keşfedebilir. Danyal Peygamber Makamı, hem doğal hem de dinî güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Ziyaret Bilgileri
 

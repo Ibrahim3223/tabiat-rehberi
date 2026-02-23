@@ -50,9 +50,9 @@ Doğal bir oluşum olan Kışır İni'nin fiziksel yapısı, bölgenin jeolojik 
 
 ## Flora ve Fauna
 
-Kışır İni Jeoparkı, Karaman'ın step bitki örtüsüne ev sahipliği yapan benzersiz bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bitki örtüsünde hakim olan step türleri, ilkbaharda renkli çiçeklerle donanırken, yaz aylarında kuraklığa adapte türler ön plana çıkıyor. 
+Kışır İni Jeoparkı, Karaman'ın step bitki örtüsüne ev sahipliği yapan benzersiz bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bitki örtüsünde hakim olan step türleri, ilkbaharda renkli çiçeklerle donanırken, yaz aylarında kuraklığa adapte türler ön plana çıkıyor.
 
-Yaban hayatında memeliler ve kuşlar önemli bir yer tutuyor. Göç mevsiminde, özellikle sonbaharda, çeşitli kuş türleri bu bölgeyi ziyaret ediyor. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturuyor. 
+Yaban hayatında memeliler ve kuşlar önemli bir yer tutuyor. Göç mevsiminde, özellikle sonbaharda, çeşitli kuş türleri bu bölgeyi ziyaret ediyor. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturuyor.
 
 Ekolojik değer açısından Kışır İni Jeoparkı, bölgenin doğal dengesini koruma açısından kritik bir role sahip. Bu bölge, çeşitli türlerin yaşamlarını sürdürmesi için elverişli bir ortam sağlıyor. Koruma durumu ise bu doğal hazinenin gelecek nesiller için korunması açısından büyük önem taşıyor.
 

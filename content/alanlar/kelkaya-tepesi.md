@@ -28,7 +28,7 @@ wikidata_id: "Q31388545"
 
 # Kelkaya Tepesi
 
-Kelkaya Tepesi, Erzurum'un güzel doğası içinde yer alan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Çevresindeki manzaralarla birlikte, Kelkaya Tepesi, ziyaretçilerini kendine hayran bırakıyor. Doğa severler için ideal bir gezi noktası olan bu tepe, hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetmek isteyenler için önemli bir destinasyon.
+Kelkaya Tepesi, Erzurum'un güzel doğası içinde yer alan bir tepe. Çevresindeki manzaralarla birlikte, Kelkaya Tepesi, ziyaretçilerini kendine hayran bırakıyor. Doğa severler için ideal bir gezi noktası olan bu tepe, hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 

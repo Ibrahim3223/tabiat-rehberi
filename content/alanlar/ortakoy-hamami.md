@@ -1,7 +1,7 @@
 ---
 title: "Ortaköy Hamamı"
 date: "2026-01-09T22:10:55.226Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q18674546"
 
 # Ortaköy Hamamı
 
-İstanbul'un kalbinde yer alan Ortaköy Hamamı, 140 hektarlık geniş yeşil alanı ve tarihi geçmişiyle ziyaretçilerini büyülüyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görüyor. Ortaköy Hamamı, hem natural güzellikleri hem de tarihi zenginlikleriyle İstanbul'un önemli ziyaret noktalarından biri
+İstanbul'un kalbinde yer alan Ortaköy Hamamı, 140 hektarlık geniş yeşil alanı ve tarihi geçmişiyle ziyaretçilerini büyülüyor. Ortaköy Hamamı, hem natural güzellikleri hem de tarihi zenginlikleriyle İstanbul'un önemli ziyaret noktalarından biri
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ortaköy Hamamı'nın tarihi geçmişi, İstanbul'un eski dönemlerine uzanıyor
 
 ## Coğrafya
 
-Ortaköy Hamamı, İstanbul'un Marmara Bölgesi'nde yer alıyor. Bu bölge, doğal güzellikleri ve tarihi yerleri ile ünlü. Hamamın bulunduğu alan, 140 hektarlık geniş bir yeşil alan ve yaklaşık 200 futbol sahası büyüklüğünde. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Ortaköy Hamamı'nın coğrafi konumu, ziyaretçilere şehrin gürültüsünden uzaklaşarak doğayla iç içe bir deneyim sunuyor. Hamamın etrafında, tarihi binalar ve doğal güzellikler bulunuyor
+Ortaköy Hamamı, İstanbul'un Marmara Bölgesi'nde yer alıyor. Bu bölge, doğal güzellikleri ve tarihi yerleri ile ünlü. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Ortaköy Hamamı'nın coğrafi konumu, ziyaretçilere şehrin gürültüsünden uzaklaşarak doğayla iç içe bir deneyim sunuyor. Hamamın etrafında, tarihi binalar ve doğal güzellikler bulunuyor
 
 ## Flora ve Fauna
 

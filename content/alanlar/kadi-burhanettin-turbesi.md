@@ -1,7 +1,7 @@
 ---
 title: "Kadı Burhanettin Türbesi"
 date: "2026-01-10T07:18:23.634Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390942"
 
 # Kadı Burhanettin Türbesi
 
-Kadı Burhanettin Türbesi, Sivas'ın merkezinde yer alan ve şehrin tarihi geçmişini yansıtan önemli bir kültürel mirastır. Bu özel mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alanın içerisinde yer alır. Türbe, Sivas'ın tarihini ve kültürünü anlamak için ziyaretçilere önemli bir fırsat sunar. Ziyaretçiler, burada hem tarihi bir deneyim yaşayabilir hem de şehrin doğal güzelliklerini keşfedebilir.
+Kadı Burhanettin Türbesi, Sivas'ın merkezinde yer alan ve şehrin tarihi geçmişini yansıtan önemli bir kültürel mirastır. Türbe, Sivas'ın tarihini ve kültürünü anlamak için ziyaretçilere önemli bir fırsat sunar. Ziyaretçiler, burada hem tarihi bir deneyim yaşayabilir hem de şehrin doğal güzelliklerini keşfedebilir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Kadı Burhanettin Türbesi, Sivas'ın tarihine ışık tutan önemli bir yapıd�
 
 ## Coğrafya
 
-Kadı Burhanettin Türbesi, Sivas şehir merkezinde yer alan bir bölgede bulunur. Bu bölge, şehrin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir noktadır. Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alanın içerisinde yer alır. Bu yeşil alan, ziyaretçiler için hem dinlenme hem de doğayı keşfetme fırsatı sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına benzer ve ziyaretçiler, burada dört mevsimi deneyimleyebilir. Çevre, tarihi ve kültürel yapılarla dolu olup, ziyaretçiler için birçok keşif noktası sunar.
+Kadı Burhanettin Türbesi, Sivas şehir merkezinde yer alan bir bölgede bulunur. Bu bölge, şehrin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir noktadır. Bu yeşil alan, ziyaretçiler için hem dinlenme hem de doğayı keşfetme fırsatı sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına benzer ve ziyaretçiler, burada dört mevsimi deneyimleyebilir. Çevre, tarihi ve kültürel yapılarla dolu olup, ziyaretçiler için birçok keşif noktası sunar.
 
 ## Flora ve Fauna
 
-Kadı Burhanettin Türbesi ve çevresindeki yeşil alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, mevsimsel değişimlere göre farklı canlı türlerine ev sahipliği yapar. Ziyaretçiler, buradaki doğayı keşfederek birçok farklı bitki ve hayvan türünü görebilirler. Türbenin bulunduğu yeşil alan, aynı zamanda birçok kuş türünün yaşadığı ve ziyaretçilerin doğa ile iç içe olabileceği bir bölgedir. Mevsimsel değişimlere bağlı olarak, ziyaretçiler bu bölgede farklı ekolojik koşulları deneyimleyebilir ve doğanın güzelliğini keşfedebilir.
+ Bu bölge, mevsimsel değişimlere göre farklı canlı türlerine ev sahipliği yapar. Ziyaretçiler, buradaki doğayı keşfederek birçok farklı bitki ve hayvan türünü görebilirler. Türbenin bulunduğu yeşil alan, aynı zamanda birçok kuş türünün yaşadığı ve ziyaretçilerin doğa ile iç içe olabileceği bir bölgedir. Mevsimsel değişimlere bağlı olarak, ziyaretçiler bu bölgede farklı ekolojik koşulları deneyimleyebilir ve doğanın güzelliğini keşfedebilir.
 
 ## Ziyaret Bilgileri
 

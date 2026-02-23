@@ -1,7 +1,7 @@
 ---
 title: "Muhittin Baba Türbesi"
 date: "2026-01-10T06:34:02.089Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tekirdağ"
@@ -29,7 +29,7 @@ wikidata_id: "Q134734853"
 
 # Muhittin Baba Türbesi
 
-Muhittin Baba Türbesi, Tekirdağ'ın Çorlu ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir nokta. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi geçmişinin zenginliğiyle karşılar. Bu özel mekan, Marmara Bölgesi'nin en önemli kültür ve doğa merkezlerinden biri olarak dikkat çeker. Muhittin Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Muhittin Baba Türbesi, Tekirdağ'ın Çorlu ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir nokta. Bu özel mekan, Marmara Bölgesi'nin en önemli kültür ve doğa merkezlerinden biri olarak dikkat çeker. Muhittin Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

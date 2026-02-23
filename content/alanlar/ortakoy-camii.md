@@ -1,7 +1,7 @@
 ---
 title: "Ortaköy Camii"
 date: "2026-01-09T22:06:23.146Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q176380"
 
 # Ortaköy Camii
 
-Ortaköy Camii, Beşiktaş'ın kalbinde, Boğaz'ın kıyısında yer alan bir tarihi camidir. 140 hektarlık bir alan üzerinde kurulmuş olan bu cami, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Caminin bulunduğu bölge, doğal güzelliği ve tarihi önemi ile dikkat çekmektedir. Ortaköy Camii, İstanbul'un en önemli dini yapılarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
+Ortaköy Camii, Beşiktaş'ın kalbinde, Boğaz'ın kıyısında yer alan bir tarihi camidir. Caminin bulunduğu bölge, doğal güzelliği ve tarihi önemi ile dikkat çekmektedir. Ortaköy Camii, İstanbul'un en önemli dini yapılarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Giresun-Sebinkarahisar Dogu Karadeniz Goknari 2"
 date: "2026-01-09T20:57:14.797Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Giresun"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227591"
 
 # Giresun-Sebinkarahisar Dogu Karadeniz Goknari 2
 
-Giresun-Sebinkarahisar Dogu Karadeniz Goknari 2 milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu muhteşem park, sebze ve meyve bahçeleri, ormanlık alanlar ve çeşitli bitki türleriyle dolu. Giresun'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Giresun-Sebinkarahisar Dogu Karadeniz Goknari 2 milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Bu muhteşem park, sebze ve meyve bahçeleri, ormanlık alanlar ve çeşitli bitki türleriyle dolu. Giresun'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

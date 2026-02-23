@@ -22,7 +22,7 @@ wikidata_id: "Q108228119"
 
 # Mersin Tarsus Cehennemdere-Torosgoknari
 
-Mersin Tarsus Cehennemdere-Torosgoknari milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Milli park, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini sunuyor. 70-80 kilometrelik bir yürüyüş parkuru, ziyaretçilere doğayı keşfetme fırsatı sunuyor.
+Mersin Tarsus Cehennemdere-Torosgoknari milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Milli park, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini sunuyor. 70-80 kilometrelik bir yürüyüş parkuru, ziyaretçilere doğayı keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Efes Oktagon Anıt Mezar"
 date: "2026-01-10T00:03:12.265Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728104"
 
 # Efes Oktagon Anıt Mezar
 
-Efes Oktagon Anıt Mezar, Ege Bölgesi'nin önemli tarihi hazinelerinden biridir. Selçuk'ta bulunan bu anıt mezar, yaklaşık 140 hektarlık bir alanda yer alır ve tarihi geçmişi ile dikkat çeker. 200 futbol sahası büyüklüğünde bir alanı kaplayan Efes Oktagon Anıt Mezar, turistlerin ve tarih severlerin ilgisini çeken bir destinasyon olarak bilinir. Tarihi dokusu ve mimari yapısı ile ön plana çıkan bu mekan, ziyaretçilerine unutulmaz bir deneyim sunar.
+Efes Oktagon Anıt Mezar, Ege Bölgesi'nin önemli tarihi hazinelerinden biridir. Selçuk'ta bulunan bu anıt mezar, yaklaşık 140 hektarlık bir alanda yer alır ve tarihi geçmişi ile dikkat çeker. 200 futbol sahası büyüklüğünde bir alanı kaplayan Efes Oktagon Anıt Mezar, turistlerin ve tarih severlerin ilgisini çeken bir destinasyon olarak bilinir.
 
 ## Tarihçe
 

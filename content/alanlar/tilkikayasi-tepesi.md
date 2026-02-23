@@ -28,7 +28,7 @@ wikidata_id: "Q31386379"
 
 # Tilkikayası Tepesi
 
-Tilkikayası Tepesi, Kilis ilinin güneydoğu Anadolu Bölgesi'nde yer alan önemli bir coğrafi noktadır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bölgenin doğal güzelliğini gösterir. Tilkikayası Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olaraksel bir geçmişe sahiptir. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla Tilkikayası Tepesi, ziyaretçilerini etkileyen bir yerdir.
+Tilkikayası Tepesi, Kilis ilinin güneydoğu Anadolu Bölgesi'nde yer alan önemli bir coğrafi noktadır. Tilkikayası Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olaraksel bir geçmişe sahiptir. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla Tilkikayası Tepesi, ziyaretçilerini etkileyen bir yerdir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Garip Dede Türbesi"
 date: "2026-01-10T07:13:02.772Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390972"
 
 # Garip Dede Türbesi
 
-Garip Dede Türbesi, İstanbul'un Küçükçekmece ilçesinde bulunan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Bu alan, Marmara Bölgesi'nin önemli ziyaret noktalarından biri olarak bilinir. 140 hektarlık bir alanda yer alan Garip Dede Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölge, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbeder. Garip Dede Türbesi, İstanbul'un kalabalık şehir hayatından uzaklaşmak isteyenler için bir kaçış noktası olarak da düşünülebilir.
+Garip Dede Türbesi, İstanbul'un Küçükçekmece ilçesinde bulunan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Bu alan, Marmara Bölgesi'nin önemli ziyaret noktalarından biri olarak bilinir. Bu bölge, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbeder. Garip Dede Türbesi, İstanbul'un kalabalık şehir hayatından uzaklaşmak isteyenler için bir kaçış noktası olarak da düşünülebilir.
 
 ## Tarihçe
 

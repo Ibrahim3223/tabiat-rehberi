@@ -50,9 +50,9 @@ Mevsimsel açıdan, Gökada Adası'nın iklimi, Ege Bölgesi'nin karakteristik A
 
 ## Flora ve Fauna
 
-Gökada Adası, Aydın'ın kıyılarında yer alan bir doğa cenneti. Ada, zeytinliklerle kaplı tepeleri ve çam ormanlarıyla birlikte, Akdeniz ikliminin karakteristik özelliklerini taşıyor. 
+Gökada Adası, Aydın'ın kıyılarında yer alan bir doğa cenneti. Ada, zeytinliklerle kaplı tepeleri ve çam ormanlarıyla birlikte, Akdeniz ikliminin karakteristik özelliklerini taşıyor.
 
-Bitki örtüsünü oluşturan çam ağaçları, ilkbaharın başlangıcında yeşillenirken, yaz aylarında güneşin sıcak ışıklarını yansıtıyor. Kıyı kesimlerde, tuzlu suya dayanıklı bitkiler, ada ekosisteminin benzersizliğini vurguluyor. 
+Bitki örtüsünü oluşturan çam ağaçları, ilkbaharın başlangıcında yeşillenirken, yaz aylarında güneşin sıcak ışıklarını yansıtıyor. Kıyı kesimlerde, tuzlu suya dayanıklı bitkiler, ada ekosisteminin benzersizliğini vurguluyor.
 
 Yaban hayatı, özellikle deniz kuşlarıyla zengin. Göç mevsimlerinde, ada, çeşitli kuş türlerinin önemli bir uğrak noktası haline geliyor. Sürüngenler ve memeliler de, bu ekosistemin birer parçası olarak, ada yaşamının dokusunu oluşturuyor. Ada ekosisteminin izole yapısı, bazı türlerin burada özel popülasyonlar oluşturmasına olanak tanıyor.
 

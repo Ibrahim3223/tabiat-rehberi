@@ -28,7 +28,7 @@ wikidata_id: "Q31388114"
 
 # Sarıkaklık Tepesi
 
-Sarıkaklık Tepesi, Denizli'nin Ege Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sarıkaklık Tepesi, ziyaretçilerine doğanın güzelliğini sunan bir mekan olarak bilinir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Sarıkaklık Tepesi, aynı zamanda trekking ve doğa yürüyüşü yapmak için ideal bir yerdir.
+Sarıkaklık Tepesi, Denizli'nin Ege Bölgesi'nde yer alan bir doğa harikasıdır. Sarıkaklık Tepesi, ziyaretçilerine doğanın güzelliğini sunan bir mekan olarak bilinir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Sarıkaklık Tepesi, aynı zamanda trekking ve doğa yürüyüşü yapmak için ideal bir yerdir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sarıkaklık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Sarıkaklık Tepesi, Denizli'nin Ege Bölgesi'nde yer alır. Bu tepe, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sarıkaklık Tepesi, çeşitli bitki türleri ve zengin fauna ile dolu bir doğa harikasıdır. Bu tepe, aynı zamanda trekking ve doğa yürüyüşü yapmak için ideal bir yerdir. Sarıkaklık Tepesi, ziyaretçilerine doğanın güzelliğini sunan bir mekan olarak bilinir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Sarıkaklık Tepesi, Denizli'nin önemli bir turizm merkezi olarak kabul edilir. Bu tepe, ziyaretçilerine zengin bir tarih ve doğa deneyimi sunar. Sarıkaklık Tepesi, Ege Bölgesi'nin en güzel yerlerinden biridir.
+Sarıkaklık Tepesi, Denizli'nin Ege Bölgesi'nde yer alır. Sarıkaklık Tepesi, çeşitli bitki türleri ve zengin fauna ile dolu bir doğa harikasıdır. Bu tepe, aynı zamanda trekking ve doğa yürüyüşü yapmak için ideal bir yerdir. Sarıkaklık Tepesi, ziyaretçilerine doğanın güzelliğini sunan bir mekan olarak bilinir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Sarıkaklık Tepesi, Denizli'nin önemli bir turizm merkezi olarak kabul edilir. Bu tepe, ziyaretçilerine zengin bir tarih ve doğa deneyimi sunar. Sarıkaklık Tepesi, Ege Bölgesi'nin en güzel yerlerinden biridir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Sarıkaklık Tepesi'ni ziyaret etmek için, Denizli'ye gelmeniz gerekir. Bu tepe
 
 ## İlginç Bilgiler
 
-- Sarıkaklık Tepesi, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
 - Bu tepe, çeşitli bitki türleri ve zengin fauna ile dolu bir doğa harikasıdır.
 - Sarıkaklık Tepesi, aynı zamanda trekking ve doğa yürüyüşü yapmak için ideal bir yerdir.
 - Bu tepe, ziyaretçilerine zengin bir tarih ve doğa deneyimi sunar.

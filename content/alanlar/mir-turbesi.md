@@ -1,7 +1,7 @@
 ---
 title: "Mir Türbesi"
 date: "2026-01-10T07:52:58.836Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -29,11 +29,11 @@ wikidata_id: "Q135582874"
 
 # Mir Türbesi
 
-Mir Türbesi, Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alıyor. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahip. Mir Türbesi, tarihi ve doğal güzelliği ile birlikte, ziyaretçilerini bir zaman yolculuğuna çıkarıyor. Burada, tarihi yapıların arasında, doğanın güzelliğini keşfetme mümkün. Mir Türbesi, hem tarih hem de doğa severler için bir cazibe merkezi olarak dikkat çekiyor.
+Mir Türbesi, Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alıyor. Mir Türbesi, tarihi ve doğal güzelliği ile birlikte, ziyaretçilerini bir zaman yolculuğuna çıkarıyor. Burada, tarihi yapıların arasında, doğanın güzelliğini keşfetme mümkün. Mir Türbesi, hem tarih hem de doğa severler için bir cazibe merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 
-Mir Türbesi, tarihin sâu izlerini taşıyan bir yapı olarak, yüzyıllar boyunca önemli bir merkez olarak hizmet vermiştir. Tarihi geçmişi, bölgenin kültürel ve dini yaşamına ışık tutuyor. Mir Türbesi, farklı din ve kültürlerin bir araya geldiği bir noktada yer alıyor. Burada, çeşitli uygarlıkların izlerini görme mümkün. Mir Türbesi, tarihin derinliklerinden gelen bir hikaye anlatıyor ve ziyaretçilerini bu hikayenin içine çekiyor. Tarihin her döneminde, önemli bir rol oynayan Mir Türbesi, bugün de tarih severler için önemli bir destinasyon olarak dikkat çekiyor.
+Mir Türbesi, tarihin derin izlerini taşıyan bir yapı olarak, yüzyıllar boyunca önemli bir merkez olarak hizmet vermiştir. Tarihi geçmişi, bölgenin kültürel ve dini yaşamına ışık tutuyor. Mir Türbesi, farklı din ve kültürlerin bir araya geldiği bir noktada yer alıyor. Burada, çeşitli uygarlıkların izlerini görme mümkün. Mir Türbesi, tarihin derinliklerinden gelen bir hikaye anlatıyor ve ziyaretçilerini bu hikayenin içine çekiyor. Tarihin her döneminde, önemli bir rol oynayan Mir Türbesi, bugün de tarih severler için önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Coğrafya
 
@@ -49,7 +49,7 @@ Mir Türbesi, ziyaretçilerini bir zaman yolculuğuna çıkarıyor. Burada, tari
 
 ## İlginç Bilgiler
 
-- Mir Türbesi, tarihin sâu izlerini taşıyan bir yapı olarak dikkat çekiyor.
+- Mir Türbesi, tarihin derin izlerini taşıyan bir yapı olarak dikkat çekiyor.
 - Mir Türbesi, çeşitli uygarlıkların izlerini görme mümkün.
 - Mir Türbesi, coğrafi güzelliğinin ortasında yer alıyor.
 - Mir Türbesi, zengin bir flora ve fauna ile dikkat çekiyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q34819731"
 
 # Çorbacı Tepesi
 
-Çorum, Karadeniz Bölgesi'nin önemli illerinden biri olup, tarihi ve doğal güzellikleri ile dikkat çekmektedir. Çorbacı Tepesi, bu ilin önemli bir tepe oluşumudur. Çorum'un coğrafi yapısı, geniş ormanlık alanları ve dağlık bölgeleriyle karakterizedir. Çorbacı Tepesi de bu coğrafi yapı içerisinde yer almakta ve ilin doğal güzelliklerini temsil etmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın kucağına davet etmektedir. Çorum'un tarihi ve kültürel zenginliklerinin yanı sıra, doğa severler için de önemli bir destinasyon oluşturan Çorbacı Tepesi, ziyaretçilerine benzersiz bir deneyim sunmaktadır.
+Çorum, Karadeniz Bölgesi'nin önemli illerinden biri olup, tarihi ve doğal güzellikleri ile dikkat çekmektedir. Çorbacı Tepesi, bu ilin önemli bir tepe oluşumudur. Çorum'un coğrafi yapısı, geniş ormanlık alanları ve dağlık bölgeleriyle karakterizedir. Çorbacı Tepesi de bu coğrafi yapı içerisinde yer almakta ve ilin doğal güzelliklerini temsil etmektedir. Çorum'un tarihi ve kültürel zenginliklerinin yanı sıra, doğa severler için de önemli bir destinasyon oluşturan Çorbacı Tepesi, ziyaretçilerine benzersiz bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34819731"
 
 ## Coğrafya
 
-Çorbacı Tepesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, ormanlık ve dağlık bir araziye sahiptir. Bu tepe, 140 hektarlık geniş bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin yüksekliği ve eğimli yapısı, ziyaretçilere farklı açılardan bölgeyi izleme fırsatı sunmaktadır. Çorbacı Tepesi'nin etrafı, çeşitli bitki türleri ve hayvanlarla dolu olan ormanlık alanlarla çevrilidir. Bu ormanlar, ilin iklimini ve ekolojisini etkileyen önemli bir bileşendir. Çorum'un iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır ve ılıman bir iklim hakimdir. Yaz ayları sıcak ve nemli, kış ayları ise soğuk ve yağışlı geçmektedir. Bu iklim, Çorbacı Tepesi'nin flora ve faunasının çeşitliliğini etkilemektedir.
+Çorbacı Tepesi, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, ormanlık ve dağlık bir araziye sahiptir. Tepenin yüksekliği ve eğimli yapısı, ziyaretçilere farklı açılardan bölgeyi izleme fırsatı sunmaktadır. Çorbacı Tepesi'nin etrafı, çeşitli bitki türleri ve hayvanlarla dolu olan ormanlık alanlarla çevrilidir. Bu ormanlar, ilin iklimini ve ekolojisini etkileyen önemli bir bileşendir. Çorum'un iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır ve ılıman bir iklim hakimdir. Yaz ayları sıcak ve nemli, kış ayları ise soğuk ve yağışlı geçmektedir. Bu iklim, Çorbacı Tepesi'nin flora ve faunasının çeşitliliğini etkilemektedir.
 
 ## Flora ve Fauna
 

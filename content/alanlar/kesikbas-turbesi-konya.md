@@ -1,7 +1,7 @@
 ---
 title: "Kesikbaş Türbesi, Konya"
 date: "2026-01-10T05:51:54.737Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582386"
 
 # Kesikbaş Türbesi, Konya
 
-Kesikbaş Türbesi, Konya'nın Selçuklu ilçesinde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tarihi mekan, Konya'nın zengin tarihini yansıtan önemli bir noktadır. Kesikbaş Türbesi, mimarisi ve tarihi önemi ile dikkat çeker. Ziyaretçilerin ilgisini çeken bu yer, Konya'nın turistik değerlerinden biridir. Konya'nın coğrafi konumu ve iklimi, Kesikbaş Türbesi'ninındaki flora ve faunayı etkiler. Bu reason, ziyaretçilerin yılın farklı zamanlarında farklı deneyimler yaşamasına neden olur.
+Kesikbaş Türbesi, Konya'nın Selçuklu ilçesinde yer alır. Bu tarihi mekan, Konya'nın zengin tarihini yansıtan önemli bir noktadır. Kesikbaş Türbesi, mimarisi ve tarihi önemi ile dikkat çeker. Ziyaretçilerin ilgisini çeken bu yer, Konya'nın turistik değerlerinden biridir. Konya'nın coğrafi konumu ve iklimi, Kesikbaş Türbesi'ninındaki flora ve faunayı etkiler. Bu reason, ziyaretçilerin yılın farklı zamanlarında farklı deneyimler yaşamasına neden olur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kesikbaş Türbesi'nin tarihi geçmişi, Konya'nın tarihini yansıtan önemli b
 
 ## Coğrafya
 
-Kesikbaş Türbesi, Konya'nın Selçuklu ilçesinde yer alır. Coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, Konya'nın coğrafi yapısını yansıtan önemli bir noktadır. Konya'nın iklimi, Kesikbaş Türbesi'ninındaki flora ve faunayı etkiler. Konya'nın coğrafi konumu, ziyaretçilerin yılın farklı zamanlarında farklı deneyimler yaşamasına neden olur. Kesikbaş Türbesi, Konya'nın coğrafi değerlerinden biridir. Konya'nın coğrafi yapısı, ziyaretçilerin ilgisini çeker.
+Kesikbaş Türbesi, Konya'nın Selçuklu ilçesinde yer alır. Coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu alan, Konya'nın coğrafi yapısını yansıtan önemli bir noktadır. Konya'nın iklimi, Kesikbaş Türbesi'ninındaki flora ve faunayı etkiler. Konya'nın coğrafi konumu, ziyaretçilerin yılın farklı zamanlarında farklı deneyimler yaşamasına neden olur. Kesikbaş Türbesi, Konya'nın coğrafi değerlerinden biridir. Konya'nın coğrafi yapısı, ziyaretçilerin ilgisini çeker.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Kesikbaş Türbesi'ni ziyaret etmek, Konya'nın tarihi ve coğrafi değerlerini 
 
 - Kesikbaş Türbesi, Konya'nın tarihi değerlerinden biridir.
 - Konya'nın coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır.
-- Kesikbaş Türbesi, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Konya'nın flora ve faunası, ziyaretçilerin ilgisini çeker.
 - Kesikbaş Türbesi, Konya'nın turistik değerlerinden biridir.

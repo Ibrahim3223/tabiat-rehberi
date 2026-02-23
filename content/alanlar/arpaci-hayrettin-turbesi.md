@@ -1,7 +1,7 @@
 ---
 title: "Arpacı Hayrettin Türbesi"
 date: "2026-01-10T05:03:37.572Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391604"
 
 # Arpacı Hayrettin Türbesi
 
-Arpacı Hayrettin Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir dini merkez ve tarihi mekan. Bu bölge, İstanbul'un fethinin önemli isimlerinden biri olan Arpacı Hayrettin'in türbesinin bulunduğu yer olarak bilinir. Türbe, tarihi ve kültürel değerinin yanı sıra, çevresindeki yeşil alanlar ve İstanbul Boğazı'na olan yakınlığıyla da dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada yapılan yürüyüşler, ziyaretçilere şehrin tarihi dokusunu ve doğal güzelliğini keşfetme fırsatı sunar.
+Arpacı Hayrettin Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir dini merkez ve tarihi mekan. Bu bölge, İstanbul'un fethinin önemli isimlerinden biri olan Arpacı Hayrettin'in türbesinin bulunduğu yer olarak bilinir. Türbe, tarihi ve kültürel değerinin yanı sıra, çevresindeki yeşil alanlar ve İstanbul Boğazı'na olan yakınlığıyla da dikkat çeker.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Arpacı Hayrettin Türbesi, İstanbul'un fethi sırasında önemli bir role sahi
 
 ## Coğrafya
 
-Arpacı Hayrettin Türbesi, Eyüpsultan ilçesinde, İstanbul Boğazı'nın kıyısında yer alır. Bu konum, ziyaretçilere hem tarihi bir mekanın atmosferini hissetme hem de İstanbul'un doğal güzelliğini izleme fırsatı sunar. Çevre, yeşillik alanlarla dolu ve ziyaretçiler, Boğaz'ın güzelliğini ve tarihi yapıları mientras yürüyüş yapabilir. Bölge, Marmara Bölgesi'nin karakteristik iklimine sahiptir ve dört mevsim, ziyaretçilere farklı deneyimler sunar. İlkbahar ve sonbahar ayları, yürüyüşler için idealdir ve yaz aylarında, Boğaz'ın serinliği, ziyaretçilere ferahlık verir. Kış ayları ise, bölgenin histórik dokusunu keşfetmek için uygun bir zaman olabilir. Coğrafi konumu itibariyle, Arpacı Hayrettin Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren bir destinasyondur.
+Arpacı Hayrettin Türbesi, Eyüpsultan ilçesinde, İstanbul Boğazı'nın kıyısında yer alır. Bu konum, ziyaretçilere hem tarihi bir mekanın atmosferini hissetme hem de İstanbul'un doğal güzelliğini izleme fırsatı sunar. Çevre, yeşillik alanlarla dolu ve ziyaretçiler, Boğaz'ın güzelliğini ve tarihi yapıları mientras yürüyüş yapabilir. Bölge, Marmara Bölgesi'nin karakteristik iklimine sahiptir ve dört mevsim, ziyaretçilere farklı deneyimler sunar. İlkbahar ve sonbahar ayları, yürüyüşler için idealdir ve yaz aylarında, Boğaz'ın serinliği, ziyaretçilere ferahlık verir. Kış ayları ise, bölgenin tarihi dokusunu keşfetmek için uygun bir zaman olabilir. Coğrafi konumu itibariyle, Arpacı Hayrettin Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren bir destinasyondur.
 
 ## Flora ve Fauna
 
-Arpacı Hayrettin Türbesi çevresindeki yeşil alanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, özellikle ilkbahar aylarında, rengarenk çiçeklerle dolu ve ziyaretçilere doğanın güzelliğini sunar. Çevrede, genellikle seen ağaçlar ve çalılar bulunur ve bu bitki örtüsü, bölgenin ekolojik dengesini korur. Yaban hayatı, özellikle kuş türleri açısından zengindir ve ziyaretçiler, yürüyüşleri sırasında çeşitli kuş sesleri duyabilir. Mevsimsel değişimler, bölgenin güzelliğini farklı şekillerde gösterir ve her mevsim, ziyaretçilere benzersiz bir deneyim sunar. Doğal güzellikleri ve tarihi önemi ile, Arpacı Hayrettin Türbesi, İstanbul'un önemli bir destinasyonudur.
+ Bu bölge, özellikle ilkbahar aylarında, rengarenk çiçeklerle dolu ve ziyaretçilere doğanın güzelliğini sunar. Çevrede, genellikle seen ağaçlar ve çalılar bulunur ve bu bitki örtüsü, bölgenin ekolojik dengesini korur. Yaban hayatı, özellikle kuş türleri açısından zengindir ve ziyaretçiler, yürüyüşleri sırasında çeşitli kuş sesleri duyabilir. Mevsimsel değişimler, bölgenin güzelliğini farklı şekillerde gösterir ve her mevsim, ziyaretçilere benzersiz bir deneyim sunar. Doğal güzellikleri ve tarihi önemi ile, Arpacı Hayrettin Türbesi, İstanbul'un önemli bir destinasyonudur.
 
 ## Ziyaret Bilgileri
 

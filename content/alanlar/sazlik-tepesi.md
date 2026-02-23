@@ -29,7 +29,7 @@ wikidata_id: "Q31561647"
 
 # Sazlık Tepesi
 
-Sazlık Tepesi, İç Anadolu Bölgesi'nin geniş ve verimli ovalarından birine hakim olan bir tepe olarak, ziyaretçilerini doğal güzellikleriyle karşılar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplıdır. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunar. Sazlık Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler içerir.
+Sazlık Tepesi, İç Anadolu Bölgesi'nin geniş ve verimli ovalarından birine hakim olan bir tepe olarak, ziyaretçilerini doğal güzellikleriyle karşılar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunar. Sazlık Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler içerir.
 
 ## Tarihçe
 

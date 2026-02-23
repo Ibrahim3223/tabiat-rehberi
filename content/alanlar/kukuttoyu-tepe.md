@@ -28,7 +28,7 @@ wikidata_id: "Q32210728"
 
 # Küküttoyu Tepe
 
-Konya'nın merkezinde yer alan Küküttoyu Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli bir parçası. Küküttoyu Tepe, tarihi ve doğal güzellikleriyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Tepe, aynı zamanda önemli bir kültürel mirasın da evidir.
+Konya'nın merkezinde yer alan Küküttoyu Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Küküttoyu Tepe, tarihi ve doğal güzellikleriyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Tepe, aynı zamanda önemli bir kültürel mirasın da evidir.
 
 ## Tarihçe
 

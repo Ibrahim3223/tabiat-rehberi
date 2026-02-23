@@ -1,7 +1,7 @@
 ---
 title: "Anonim Türbe-2, Altındağ"
 date: "2026-01-10T05:39:17.667Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582363"
 
 # Anonim Türbe-2, Altındağ
 
-Ankara'nın kalbinde, Altındağ ilçesinde bulunan Anonim Türbe-2, şehrin tarihi ve doğal güzelliklerini bir araya getiren özel bir alan olarak dikkat çekiyor. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştırarak sakin bir atmosfere davet ediyor. Anonim Türbe-2'nin etrafında çeşitli bitki türleri ve ağaçlar bulunuyor ve bu sayede ziyaretçiler için güzel bir doğa yürüyüşü imkanı sunuyor.
+Ankara'nın kalbinde, Altındağ ilçesinde bulunan Anonim Türbe-2, şehrin tarihi ve doğal güzelliklerini bir araya getiren özel bir alan olarak dikkat çekiyor. Anonim Türbe-2'nin etrafında çeşitli bitki türleri ve ağaçlar bulunuyor ve bu sayede ziyaretçiler için güzel bir doğa yürüyüşü imkanı sunuyor.
 
 ## Tarihçe
 

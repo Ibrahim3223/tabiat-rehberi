@@ -1,7 +1,7 @@
 ---
 title: "Emir Hoca Medresesi"
 date: "2026-01-10T05:14:25.413Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391644"
 
 # Emir Hoca Medresesi
 
-Emir Hoca Medresesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Fatih ilçesinde bulunan bu önemli mekan, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Emir Hoca Medresesi, İstanbul'un tarihi geçmişi hakkında bilgiler sunan önemli bir kültürel merkez. Ziyaretçiler, bu medrese hakkında detaylı bilgiler edinebilir ve İstanbul'un tarihi dokusunu keşfedebilir.
+Emir Hoca Medresesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Fatih ilçesinde bulunan bu önemli mekan, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Emir Hoca Medresesi, İstanbul'un tarihi geçmişi hakkında bilgiler sunan önemli bir kültürel merkez. Ziyaretçiler, bu medrese hakkında detaylı bilgiler edinebilir ve İstanbul'un tarihi dokusunu keşfedebilir.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Emir Hoca Medresesi ve çevresinde, çeşitli bitki türleri ve hayvanlar buluna
 
 ## Ziyaret Bilgileri
 
-Emir Hoca Medresesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir expérience. Ziyaretçiler, medrese hakkında detaylı bilgiler edinebilir ve İstanbul'un tarihi dokusunu keşfedebilir. Emir Hoca Medresesi'ne ulaşım, toplu taşıma araçları veya özel araçlarla sağlanabilir. Ziyaretçiler, medreseyi gezdikten sonra, çevresindeki tarihi yapıları, parkları ve diğer kültürel merkezleri de keşfedebilir.
+Emir Hoca Medresesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir deneyim. Ziyaretçiler, medrese hakkında detaylı bilgiler edinebilir ve İstanbul'un tarihi dokusunu keşfedebilir. Emir Hoca Medresesi'ne ulaşım, toplu taşıma araçları veya özel araçlarla sağlanabilir. Ziyaretçiler, medreseyi gezdikten sonra, çevresindeki tarihi yapıları, parkları ve diğer kültürel merkezleri de keşfedebilir.
 
 ## İlginç Bilgiler
 

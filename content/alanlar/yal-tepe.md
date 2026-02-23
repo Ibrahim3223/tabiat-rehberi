@@ -28,7 +28,7 @@ wikidata_id: "Q31388869"
 
 # Yal Tepe
 
-Yal Tepe, Marmara Bölgesi'nin en güzel noktalarından biri olan Kırklareli ilinde yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktası. Yal Tepe, hem doğa severler hem de tarihe meraklı olanlar için bir hazine. Tepe, etrafındaki yeşil alanlarla birlikte yaklaşık 300 hektarlık bir alanı kaplıyor ve bu genişlik, ziyaretçilere geniş bir perspektif sunuyor. Yal Tepe, hem manzarası hem de tarihi geçmişi ile dikkat çekiyor.
+Yal Tepe, Marmara Bölgesi'nin en güzel noktalarından biri olan Kırklareli ilinde yer alıyor. Yal Tepe, hem doğa severler hem de tarihe meraklı olanlar için bir hazine. Tepe, etrafındaki yeşil alanlarla birlikte yaklaşık 300 hektarlık bir alanı kaplıyor ve bu genişlik, ziyaretçilere geniş bir perspektif sunuyor. Yal Tepe, hem manzarası hem de tarihi geçmişi ile dikkat çekiyor.
 
 ## Tarihçe
 

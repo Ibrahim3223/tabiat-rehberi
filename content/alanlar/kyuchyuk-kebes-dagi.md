@@ -28,7 +28,7 @@ wikidata_id: "Q31386656"
 
 # Kyuchyuk-Kebes Dağı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Kyuchyuk-Kebes Dağı, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu dağ, bölgeye özgü bitki türleriyle dolu ve zengin fauna yapısıyla dikkat çekmektedir. Kyuchyuk-Kebes Dağı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer olarak bilinir. Dağın eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu dağın ekolojik zenginliğini göstermektedir. Ayrıca, burada yaşayan canlılar, bu dağın önemini ve değerini daha da artırmaktadır.
+ Bu dağ, bölgeye özgü bitki türleriyle dolu ve zengin fauna yapısıyla dikkat çekmektedir. Kyuchyuk-Kebes Dağı, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer olarak bilinir. Dağın eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu dağın ekolojik zenginliğini göstermektedir. Ayrıca, burada yaşayan canlılar, bu dağın önemini ve değerini daha da artırmaktadır.
 
 ## Tarihçe
 

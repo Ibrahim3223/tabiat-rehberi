@@ -22,7 +22,7 @@ wikidata_id: "Q108228525"
 
 # Denizli-Cal-Civril-Kizilcam1
 
-Denizli-Cal-Civril-Kizilcam1 milli parkı, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile çevreyi keşfetmek için mükemmel bir fırsat sunuyor. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlandı ve zengin fauna ile dolu. Denizli-Cal-Civril-Kizilcam1, doğa severlerin ve macera arayanların keyifleneceği bir yer.
+Denizli-Cal-Civril-Kizilcam1 milli parkı, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlandı ve zengin fauna ile dolu. Denizli-Cal-Civril-Kizilcam1, doğa severlerin ve macera arayanların keyifleneceği bir yer.
 
 ## Tarihçe
 

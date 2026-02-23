@@ -29,7 +29,7 @@ wikidata_id: "Q135582838"
 
 # Erzen Hatun Kümbeti
 
-Erzen Hatun Kümbeti, Ahlat/Bitlis'te bulunan ve Doğu Anadolu Bölgesi'nin önemli tarihi mekanlarından biri olarak kabul edilen bir kümbettir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Tarihi yapılar, kültürel miras ve coğrafi güzelliklerinin birleştiği bu nokta, gezginler için gerçek bir keşif alanı olarak ortaya çıkıyor. Erzen Hatun Kümbeti, sadece bir tarihi yapı değil, aynı zamanda bölgenin coğrafi ve kültürel zenginliklerini experiencia etmek isteyenler için de önemli bir destinasyon.
+Erzen Hatun Kümbeti, Ahlat/Bitlis'te bulunan ve Doğu Anadolu Bölgesi'nin önemli tarihi mekanlarından biri olarak kabul edilen bir kümbettir. Tarihi yapılar, kültürel miras ve coğrafi güzelliklerinin birleştiği bu nokta, gezginler için gerçek bir keşif alanı olarak ortaya çıkıyor. Erzen Hatun Kümbeti, sadece bir tarihi yapı değil, aynı zamanda bölgenin coğrafi ve kültürel zenginliklerini experiencia etmek isteyenler için de önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Erzen Hatun Kümbeti'nin tarihi geçmişi, Doğu Anadolu Bölgesi'nin zengin kü
 
 ## Coğrafya
 
-Erzen Hatun Kümbeti, Ahlat/Bitlis'te yer alan bir kümbet olarak coğrafi açıdan önemli bir konuma sahip. Doğu Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede yaşamış uygarlıkların kültürel ve tarihi mirasına da yansımıştır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan Erzen Hatun Kümbeti, coğrafi olarak çevresi ile uyumlu bir şekilde inşa edilmiştir. Bölgenin iklimi, flora ve fauna çeşitliliği, Erzen Hatun Kümbeti'nin coğrafi konumunu etkileyen önemli faktörler arasında yer alıyor. Bu coğrafi özellikler, ziyaretçilere bölgenin doğal güzelliklerini experiencia etme fırsatı sunuyor. Coğrafi konumu itibariyle, Erzen Hatun Kümbeti, doğa ve tarih severler için gerçek bir cennet olarak ortaya çıkıyor.
+Erzen Hatun Kümbeti, Ahlat/Bitlis'te yer alan bir kümbet olarak coğrafi açıdan önemli bir konuma sahip. Doğu Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede yaşamış uygarlıkların kültürel ve tarihi mirasına da yansımıştır. Bölgenin iklimi, flora ve fauna çeşitliliği, Erzen Hatun Kümbeti'nin coğrafi konumunu etkileyen önemli faktörler arasında yer alıyor. Bu coğrafi özellikler, ziyaretçilere bölgenin doğal güzelliklerini experiencia etme fırsatı sunuyor. Coğrafi konumu itibariyle, Erzen Hatun Kümbeti, doğa ve tarih severler için gerçek bir cennet olarak ortaya çıkıyor.
 
 ## Flora ve Fauna
 

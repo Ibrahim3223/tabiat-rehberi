@@ -28,7 +28,7 @@ wikidata_id: "Q32139045"
 
 # Gülbağı Tepesi
 
-Gülbağı Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak Erzurum'un gözde mekanlarından biridir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Doğal güzelliği ve tarihi geçmişi ile dikkat çeken bu tepe, ziyaretçilerini bekliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Gülbağı Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak Erzurum'un gözde mekanlarından biridir. Doğal güzelliği ve tarihi geçmişi ile dikkat çeken bu tepe, ziyaretçilerini bekliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 

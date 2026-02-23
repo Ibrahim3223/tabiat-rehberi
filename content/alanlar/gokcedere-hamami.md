@@ -1,7 +1,7 @@
 ---
 title: "Gökçedere Hamamı"
 date: "2026-01-09T22:38:04.772Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bayburt"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738715"
 
 # Gökçedere Hamamı
 
-Gökçedere Hamamı, Demirözü, Bayburt'ta yer alan ve Karadeniz Bölgesi'nin gizli cennetleri arasında yer alan bir doğal güzelliktir. Bu şirin mekan, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Gökçedere Hamamı, Karadeniz Bölgesi'nin en güzel ve en çok ziyaret edilen yerlerinden biridir. Burada, doğanın güzelliğini ve bölgeye özgü bitki çeşitlerini yakından görebilirsiniz. Gökçedere Hamamı, aynı zamanda bir plaj olarak da hizmet vermektedir.
+Gökçedere Hamamı, Demirözü, Bayburt'ta yer alan ve Karadeniz Bölgesi'nin gizli cennetleri arasında yer alan bir doğal güzelliktir. Gökçedere Hamamı, Karadeniz Bölgesi'nin en güzel ve en çok ziyaret edilen yerlerinden biridir. Burada, doğanın güzelliğini ve bölgeye özgü bitki çeşitlerini yakından görebilirsiniz. Gökçedere Hamamı, aynı zamanda bir plaj olarak da hizmet vermektedir.
 
 ## Tarihçe
 

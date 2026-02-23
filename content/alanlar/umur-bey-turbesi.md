@@ -1,7 +1,7 @@
 ---
 title: "Umur Bey Türbesi"
 date: "2026-01-10T06:19:22.598Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390743"
 
 # Umur Bey Türbesi
 
-Umur Bey Türbesi, Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan Bursa'nın Yıldırım ilçesinde yer alıyor. Bu tarihi türbe ve plaj, yaklaşık 140 hektarlık bir alan üzerine kurulu ve 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Umur Bey Türbesi, not only tarihi önemi ile dikkat çekiyor, aynı zamanda muhteşem doğası ve plajı ile de ziyaretçilerini cezbediyor. Türbenin etrafında çeşitli ağaçlar ve bitkiler bulunmakta, ziyaretçilere doğayla iç içe bir atmosfer sunuyor. Umur Bey Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Umur Bey Türbesi, Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan Bursa'nın Yıldırım ilçesinde yer alıyor. Umur Bey Türbesi, not only tarihi önemi ile dikkat çekiyor, aynı zamanda muhteşem doğası ve plajı ile de ziyaretçilerini cezbediyor. Türbenin etrafında çeşitli ağaçlar ve bitkiler bulunmakta, ziyaretçilere doğayla iç içe bir atmosfer sunuyor. Umur Bey Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Umur Bey Türbesi, tarihi geçmişi ile dikkat çekiyor. Türbenin tarihi hakkı
 
 ## Coğrafya
 
-Umur Bey Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bursa'nın Yıldırım ilçesinde bulunan türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve 200 futbol sahası büyüklüğünde bir yeşil alanı kapsıyor. Türbenin etrafında çeşitli ağaçlar ve bitkiler bulunmakta, ziyaretçilere doğayla iç içe bir atmosfer sunuyor. Umur Bey Türbesi, coğrafi olarak önemli bir konuma sahip ve ziyaretçilerine muhteşem manzaralar sunuyor. Türbenin bulunduğu bölge, Marmara Denizi'ne yakın bir konumda yer alıyor ve bu sayede ziyaretçilere deniz manzaraları sunuyor. Umur Bey Türbesi, coğrafi güzellikleri ile ziyaretçilerini cezbediyor.
+Umur Bey Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Türbenin etrafında çeşitli ağaçlar ve bitkiler bulunmakta, ziyaretçilere doğayla iç içe bir atmosfer sunuyor. Umur Bey Türbesi, coğrafi olarak önemli bir konuma sahip ve ziyaretçilerine muhteşem manzaralar sunuyor. Türbenin bulunduğu bölge, Marmara Denizi'ne yakın bir konumda yer alıyor ve bu sayede ziyaretçilere deniz manzaraları sunuyor. Umur Bey Türbesi, coğrafi güzellikleri ile ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

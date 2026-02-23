@@ -40,7 +40,7 @@ Eskiköy Mağarası da, bu bölgenin önemli doğal güzelliklerinden biridir. B
 
 ## Coğrafya
 
-Konya'nın coğrafi çeşitliliğiçinde yer alan Eskiköy Mağarası, 37.8158°K, 32.3217°D koordinatlarında bulunmaktadır. Bu mağara, Konya'nın merkezine yaklaşık 30 kilometre uzaklıkta, şehrin güneydoğusunda yer alır. Mağaranın bulunduğu région, geniş bozkırlar ve dağlık arazilerle çevrilidir.
+Konya'nın coğrafi çeşitliliğiçinde yer alan Eskiköy Mağarası, 37.8158°K, 32.3217°D koordinatlarında bulunmaktadır. Bu mağara, Konya'nın merkezine yaklaşık 30 kilometre uzaklıkta, şehrin güneydoğusunda yer alır. Mağaranın bulunduğu bölge, geniş bozkırlar ve dağlık arazilerle çevrilidir.
 
 Doğal bir oluşum olan Eskiköy Mağarası, jeolojik açıdan oldukça ilgi çekicidir. Mağaranın büyüklüğü hakkında detaylı bilgi olmasa da, Konya'nın geniş arazisi içinde bir şehir bloğu büyüklüğünde bir alan kapladığı söylenebilir. Mağaranın jeolojik yapısı, bölgenin tarihini ve coğrafi oluşumunu anlamak için önemli bir kaynak olarak görülebilir.
 
@@ -50,9 +50,9 @@ Eskiköy Mağarası, Konya'nın geniş ve çeşitli coğrafi yapısı içinde ye
 
 ## Flora ve Fauna
 
-Eskiköy Mağarası'nın etrafı, Konya'nın karakteristik step bitki örtüsü ve bozkır ile kaplıdır. Bu kurak bölge, ilkbaharla birlikte renklenir ve çeşitli çiçekler açar. Sonbaharda ise, göçmen kuşların geçiş güzergahında yer alır. 
+Eskiköy Mağarası'nın etrafı, Konya'nın karakteristik step bitki örtüsü ve bozkır ile kaplıdır. Bu kurak bölge, ilkbaharla birlikte renklenir ve çeşitli çiçekler açar. Sonbaharda ise, göçmen kuşların geçiş güzergahında yer alır.
 
-Bölgenin yaban hayatı, bu zorlu koşullara adapte olmuş türlerle doludur. Memeliler ve kuşlar, mağaranın çevresindeki(step) otlaklarda yaşamını sürdürür. Sürüngenler ise, mağaranın kaya oluşumlarında ve çevresindeki step alanlarında yaşar. 
+Bölgenin yaban hayatı, bu zorlu koşullara adapte olmuş türlerle doludur. Memeliler ve kuşlar, mağaranın çevresindeki(step) otlaklarda yaşamını sürdürür. Sürüngenler ise, mağaranın kaya oluşumlarında ve çevresindeki step alanlarında yaşar.
 
 Eskiköy Mağarası, bu canlıların yaşamları için önemli bir ekosistemdir. Mağaranın ve çevresinin korunması, bu türlerin hayatta kalması için hayati önem taşır. Bu jeopark, Konya'nın ekolojik dengesini koruma altına almak için önemli bir role sahiptir.
 

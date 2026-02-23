@@ -1,7 +1,7 @@
 ---
 title: "Güzelhisar Baraj Gölü"
 date: "2026-01-09T09:38:58.986Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "gol"
 il: "Manisa"
@@ -52,7 +52,7 @@ Jeolojik açıdan bakıldığında, Güzelhisar Baraj Gölü'nün oluşumu ve ya
 
 ## Flora ve Fauna
 
-Güzelhisar Baraj Gölü, Manisa'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir göldür. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Güzelhisar Baraj Gölü, Manisa'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir göldür. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, sulak alan bitkileri ve çevresindeki step bitkileri çiçek açar. Bu mevsimde, gölün çevresi rengarenk bir hal alır. Sonbaharda ise, gölün suyu çekilir ve bu durum su kuşları için ideal bir ortam sağlar.
 

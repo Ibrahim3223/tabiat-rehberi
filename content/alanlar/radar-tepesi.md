@@ -49,9 +49,9 @@ Mevsimsel değişimlere baktığımızda, Radar Tepesi'nin iklim karakteri, Marm
 
 ## Flora ve Fauna
 
-Radar Tepesi, dağ ekosisteminin çeşitliliğiyle dolu bir bölge. İlkbaharın gelmesiyle birlikte, step bitki örtüsü ve bozkırın kuraklığa adapte türleri, renkli çiçeklerle donanır. Bu yükseklik zonalarında, alpin flora çeşitliliği dikkat çeker. 
+Radar Tepesi, dağ ekosisteminin çeşitliliğiyle dolu bir bölge. İlkbaharın gelmesiyle birlikte, step bitki örtüsü ve bozkırın kuraklığa adapte türleri, renkli çiçeklerle donanır. Bu yükseklik zonalarında, alpin flora çeşitliliği dikkat çeker.
 
-Yaban hayatı da bir o kadar zengin. Memeliler, dağların yüksek kesimlerinde yaşamayı tercih ederken, kuşlar mevsimsel göç yolları üzerinde Radar Tepesini önemli bir durak olarak kullanır. Sürüngenler ise, sıcak ve kuru alanlarda aktif olarak görülür. 
+Yaban hayatı da bir o kadar zengin. Memeliler, dağların yüksek kesimlerinde yaşamayı tercih ederken, kuşlar mevsimsel göç yolları üzerinde Radar Tepesini önemli bir durak olarak kullanır. Sürüngenler ise, sıcak ve kuru alanlarda aktif olarak görülür.
 
 Bu ekosistemin değeri, yükseklik zonalarının çeşitliliği ve kuraklığa adapte türlerin varlığından gelir. Bu bölge, birçok canlı için yaşam alanı ve göç yolu olarak önemli bir role sahiptir. Koruma altına alınması, bu doğal dengenin korunması için büyük önem taşır.
 

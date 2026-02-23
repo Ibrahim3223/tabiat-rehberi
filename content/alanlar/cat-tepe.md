@@ -30,7 +30,7 @@ wikidata_id: "Q34828449"
 
 # Çat Tepe
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Çat Tepe, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçiler için bir keşif alanı sunuyor. Bu bölge, coğrafi olarak eşsiz bir konumda bulunuyor ve ziyaretçilere doğa ile baş başa kalma fırsatı sunuyor. Çat Tepe, bölgenin tarihi ve kültürel zenginliklerini de içerisinde barındırıyor. Çat Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu tepe, aynı zamanda bölgenin coğrafi zenginliklerini de gözler önüne seriyor.
+ Bu bölge, coğrafi olarak eşsiz bir konumda bulunuyor ve ziyaretçilere doğa ile baş başa kalma fırsatı sunuyor. Çat Tepe, bölgenin tarihi ve kültürel zenginliklerini de içerisinde barındırıyor. Çat Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu tepe, aynı zamanda bölgenin coğrafi zenginliklerini de gözler önüne seriyor.
 
 ## Tarihçe
 

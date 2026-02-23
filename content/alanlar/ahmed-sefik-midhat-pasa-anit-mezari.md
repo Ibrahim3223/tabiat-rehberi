@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Şefik Midhat Paşa Anıt Mezarı"
 date: "2026-01-09T23:59:59.518Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728107"
 
 # Ahmed Şefik Midhat Paşa Anıt Mezarı
 
-Ahmed Şefik Midhat Paşa Anıt Mezarı, İstanbul'un Şişli ilçesinde yer alan ve tarihi öneme sahip bir anıttır. Bu anıt, yaklaşık 200 futbol sahası büyüklüğünde bir alanda konumlanmaktadır. Ahmed Şefik Midhat Paşa'nın hayatını ve çalışmalarını yansıtan bu anıt mezar, ziyaretçiler için önemli bir kültürel ve tarihi  sunmaktadır. Anıt mezarın etrafı, çeşitli ağaçlar ve çiçeklerle süslüdür ve ziyaretçiler bu alanda huzurlu bir atmosferde vakit geçirebilirler.
+Ahmed Şefik Midhat Paşa Anıt Mezarı, İstanbul'un Şişli ilçesinde yer alan ve tarihi öneme sahip bir anıttır. Ahmed Şefik Midhat Paşa'nın hayatını ve çalışmalarını yansıtan bu anıt mezar, ziyaretçiler için önemli bir kültürel ve tarihi  sunmaktadır. Anıt mezarın etrafı, çeşitli ağaçlar ve çiçeklerle süslüdür ve ziyaretçiler bu alanda huzurlu bir atmosferde vakit geçirebilirler.
 
 ## Tarihçe
 

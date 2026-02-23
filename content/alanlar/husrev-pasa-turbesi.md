@@ -1,7 +1,7 @@
 ---
 title: "Hüsrev Paşa Türbesi"
 date: "2026-01-10T07:26:16.037Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391016"
 
 # Hüsrev Paşa Türbesi
 
-Hüsrev Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Denizi'nin kıyısında yer alan bir tarihi türbe ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan içerir, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Türbe, tarihi geçmişiyle dikkat çeker ve ziyaretçiler için önemli bir kültür mirası olarak kabul edilir. Hussrev Paşa Türbesi, aynı zamanda doğal güzelliği ile de ziyaretçilerini etkiler. Denize sıfır konumu ve çevresindeki yeşilliklerle, hem tarihi hem de doğayı deneyimlemek isteyenler için ideal bir destinasyondur.
+Hüsrev Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Denizi'nin kıyısında yer alan bir tarihi türbe ve plaj alanıdır. Türbe, tarihi geçmişiyle dikkat çeker ve ziyaretçiler için önemli bir kültür mirası olarak kabul edilir. Hussrev Paşa Türbesi, aynı zamanda doğal güzelliği ile de ziyaretçilerini etkiler. Denize sıfır konumu ve çevresindeki yeşilliklerle, hem tarihi hem de doğayı deneyimlemek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

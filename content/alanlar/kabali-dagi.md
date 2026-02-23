@@ -33,7 +33,7 @@ wikidata_id: "Q31566259"
 
 ## Tarihçe
 
-İç Anadolu Bölgesi, tarihin sâu sayfalarında önemli bir role sahip olmuş bir coğrafyadır. Bu bölge, Hititler, Frigler, Lidyalılar ve Persler gibi antik uygarlıkların izlerini taşıyan zengin bir kültürel mirasa sahiptir. Kabalı Dağı, bu tarihsel coğrafyanın bir parçasıdır ve bölgenin doğal güzelliklerini koruma altına alma çabalarının önemli bir bileşenini oluşturur.
+İç Anadolu Bölgesi, tarihin derin sayfalarında önemli bir role sahip olmuş bir coğrafyadır. Bu bölge, Hititler, Frigler, Lidyalılar ve Persler gibi antik uygarlıkların izlerini taşıyan zengin bir kültürel mirasa sahiptir. Kabalı Dağı, bu tarihsel coğrafyanın bir parçasıdır ve bölgenin doğal güzelliklerini koruma altına alma çabalarının önemli bir bileşenini oluşturur.
 
 Türkiye'de doğal alanlar, sadece estetik değerleri nedeniyle değil, aynı zamanda ekolojik dengenin korunması ve biyolojik çeşitliliğin zenginleştirilmesi açısından da büyük önem taşır. İç Anadolu Bölgesi, geniş stepleri, ormanları ve dağlık alanlarıyla, çeşitli bitki ve hayvan türlerinin yaşadığı bir habitat sunar. Bu doğal alanlar, aynı zamanda insanların yaşamlarını sürdürmeleri için gerekli olan kaynakları da sağlar.
 
@@ -51,11 +51,11 @@ Kabalı Dağı, çevresindeki düzlüklerle ve su kaynaklarıyla bağlantılı b
 
 ## Flora ve Fauna
 
-Kabalı Dağı'nın flora ve fauna zenginliği, İç Anadolu Bölgesi'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapar. Dağın yükseklik zonları, alpin flora ve dağ hayvanlarına özgü bir dünya sunar. 
+Kabalı Dağı'nın flora ve fauna zenginliği, İç Anadolu Bölgesi'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapar. Dağın yükseklik zonları, alpin flora ve dağ hayvanlarına özgü bir dünya sunar.
 
-İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle süslenir. Step bitkileri ve bozkır türleri, kuraklığa adapte olmuş özel bitkilerle birlikte, dağ ekosisteminin çeşitliliğini gösterir. 
+İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle süslenir. Step bitkileri ve bozkır türleri, kuraklığa adapte olmuş özel bitkilerle birlikte, dağ ekosisteminin çeşitliliğini gösterir.
 
-Yaban hayatı da bir o kadar zengin. Memeliler ve kuşlar, dağların yükseklik zonlarına göre yaşam alanlarını belirler. Sürüngenler ise, kayalık alanlarda ve step bitkilerinin arasında yaşamlarını sürdürür. 
+Yaban hayatı da bir o kadar zengin. Memeliler ve kuşlar, dağların yükseklik zonlarına göre yaşam alanlarını belirler. Sürüngenler ise, kayalık alanlarda ve step bitkilerinin arasında yaşamlarını sürdürür.
 
 Kabalı Dağı, ekolojik açıdan önemli bir bölgedir. Dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve dengesini korumak için çok önemlidir. Bu nedenle, Kabalı Dağı'nın doğal güzelliğini koruma ve gelecek nesillere aktarmak, hepimizin sorumluluğudur.
 

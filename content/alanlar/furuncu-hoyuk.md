@@ -28,7 +28,7 @@ wikidata_id: "Q32206042"
 
 # Furuncu Höyük
 
-Furuncu Höyük, Malatya ilinin zengin tarihi mirasının önemli bir parçası olarak kabul edilir. Bu antik höyük, yaklaşık 140 hektarlık bir alana yayılmış ve tarihi geçmişi ile dikkat çekmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin derinliklerine götürecek bir yolculuğa davet etmektedir. Furuncu Höyük'ün etrafı, yeşilin çeşitli tonlarını sunan geniş bir doğal alanla çevrilidir ve bu da höyüğü ziyaret edenlerin hem tarihi hem de doğal güzelliği deneyimlemelerine olanak tanır.
+Furuncu Höyük, Malatya ilinin zengin tarihi mirasının önemli bir parçası olarak kabul edilir. Bu antik höyük, yaklaşık 140 hektarlık bir alana yayılmış ve tarihi geçmişi ile dikkat çekmektedir. Furuncu Höyük'ün etrafı, yeşilin çeşitli tonlarını sunan geniş bir doğal alanla çevrilidir ve bu da höyüğü ziyaret edenlerin hem tarihi hem de doğal güzelliği deneyimlemelerine olanak tanır.
 
 ## Tarihçe
 

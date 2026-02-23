@@ -1,7 +1,7 @@
 ---
 title: "Dayıoğlu Hamamı"
 date: "2026-01-09T22:48:32.146Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738644"
 
 # Dayıoğlu Hamamı
 
-Dayıoğlu Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu şirin plaj, Osmangazi/Bursa'da yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahiptir. Dayıoğlu Hamamı, ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Bu güzel plajda, deniz suyu sıcaklığı ve kumsalın temizliği, ziyaretçilerin keyifli bir gün geçirmesine olanak tanır.
+Dayıoğlu Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu şirin plaj, Osmangazi/Bursa'da yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Dayıoğlu Hamamı, ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Bu güzel plajda, deniz suyu sıcaklığı ve kumsalın temizliği, ziyaretçilerin keyifli bir gün geçirmesine olanak tanır.
 
 ## Tarihçe
 

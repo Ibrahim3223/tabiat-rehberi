@@ -1,7 +1,7 @@
 ---
 title: "Turabi Baba Türbesi"
 date: "2026-01-10T05:53:27.647Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q119791227"
 
 # Turabi Baba Türbesi
 
-Turabi Baba Türbesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi ve doğal güzellikleri bir araya getiren özel bir mekan. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştırarak dinlendiriyor. Turabi Baba Türbesi, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için eşsiz bir fırsat sunuyor. İstanbul'un merkezinde yer alan bu türbe, şehrin gizli köşelerinden biri olarak kabul ediliyor ve ziyaretçilerine zengin bir deneyim sunuyor.
+Turabi Baba Türbesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi ve doğal güzellikleri bir araya getiren özel bir mekan. Turabi Baba Türbesi, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için eşsiz bir fırsat sunuyor. İstanbul'un merkezinde yer alan bu türbe, şehrin gizli köşelerinden biri olarak kabul ediliyor ve ziyaretçilerine zengin bir deneyim sunuyor.
 
 ## Tarihçe
 

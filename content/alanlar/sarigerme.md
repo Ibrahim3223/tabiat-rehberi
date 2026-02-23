@@ -29,7 +29,7 @@ wikidata_id: "Q7424070"
 
 # Sarıgerme
 
-Sarıgerme, İç Anadolu Bölgesi'nin göbeğinde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu mekan, şehrin gürültüsünden kaçmak isteyenler için bir sığınaktır. Sarıgerme'nin etrafı, çeşitli bitki türleriyle dolu zengin bir flora ile çevrilidir. Bu doğal güzelliğin içinde, ziyaretçiler doğayla iç içe bir gün geçirebilirler. Sarıgerme, sadece doğa severlerin değil, aynı zamanda fotoğraf sanatçılarının da ilgisini çeken bir yerdir. Burada, güneşin doğuşu ve batışı, doğanın gerçek bir şölenine dönüşür.
+Sarıgerme, İç Anadolu Bölgesi'nin göbeğinde yer alan bir doğa harikasıdır. Sarıgerme'nin etrafı, çeşitli bitki türleriyle dolu zengin bir flora ile çevrilidir. Bu doğal güzelliğin içinde, ziyaretçiler doğayla iç içe bir gün geçirebilirler. Sarıgerme, sadece doğa severlerin değil, aynı zamanda fotoğraf sanatçılarının da ilgisini çeken bir yerdir. Burada, güneşin doğuşu ve batışı, doğanın gerçek bir şölenine dönüşür.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sarıgerme'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin et
 
 ## Coğrafya
 
-Sarıgerme, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biridir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ve zengin fauna ile doludur. Bölge, yüksek bir tepe üzerine kurulmuştur ve çevresindeki manzara, ziyaretçilere nefes kesen bir görünüm sunar. Sarıgerme'nin iklimi, İç Anadolu Bölgesi'nin karakteristik kara iklimine sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını etkileyerek, mevsimsel değişimlere yol açar. Sarıgerme'nin coğrafi konumu, aynı zamanda bölgenin ekolojisini de etkiler. Burada, çeşitli canlı türleri, mevsimsel göçlerle birlikte, bu bölgeye gelir ve giderler. Sarıgerme, doğa severler için bir cennet olup, ziyaretçilere, doğanın gerçek güzelliğini sunar.
+Sarıgerme, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biridir. Bölge, yüksek bir tepe üzerine kurulmuştur ve çevresindeki manzara, ziyaretçilere nefes kesen bir görünüm sunar. Sarıgerme'nin iklimi, İç Anadolu Bölgesi'nin karakteristik kara iklimine sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını etkileyerek, mevsimsel değişimlere yol açar. Sarıgerme'nin coğrafi konumu, aynı zamanda bölgenin ekolojisini de etkiler. Burada, çeşitli canlı türleri, mevsimsel göçlerle birlikte, bu bölgeye gelir ve giderler. Sarıgerme, doğa severler için bir cennet olup, ziyaretçilere, doğanın gerçek güzelliğini sunar.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Euromos Roma Hamamı"
 date: "2026-01-09T23:31:08.361Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739067"
 
 # Euromos Roma Hamamı
 
-Euromos Roma Hamamı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi ve doğal güzelliklerin birleştiği alan, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alanı keşfetme fırsatı sunuyor. Roma Hamamı, tarihi geçmişi ve eşsiz mimarisi ile dikkat çekiyor. Bu önemli tarihi eser, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor.
+Euromos Roma Hamamı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi ve doğal güzelliklerin birleştiği alan, yaklaşık 140 hektarlık bir alanı kapsıyor. Roma Hamamı, tarihi geçmişi ve eşsiz mimarisi ile dikkat çekiyor. Bu önemli tarihi eser, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31555746"
 
 # Guherik Tepesi
 
-Guherik Tepesi, Şırnak ilinin güzide noktalarından biridir. Bu tepe, yüksek bir konumda yer alır ve civarındaki diğer tepelerle birlikte bir bütünü oluşturur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki yeşil alanlarla birlikte önemli bir ekosistem oluşturur. Guherik Tepesi, özellikle doğal güzelliği ve çevresindeki bitki türleri ile dikkat çeker. Bu bölgede çeşitli bitki türleri bulunur ve özellikle ilkbahar ve yaz aylarında ziyaretçilerini etkileyen bir manzaraya sahiptir.
+Guherik Tepesi, Şırnak ilinin güzide noktalarından biridir. Bu tepe, yüksek bir konumda yer alır ve civarındaki diğer tepelerle birlikte bir bütünü oluşturur. Guherik Tepesi, özellikle doğal güzelliği ve çevresindeki bitki türleri ile dikkat çeker. Bu bölgede çeşitli bitki türleri bulunur ve özellikle ilkbahar ve yaz aylarında ziyaretçilerini etkileyen bir manzaraya sahiptir.
 
 ## Tarihçe
 

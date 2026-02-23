@@ -28,7 +28,7 @@ wikidata_id: "Q31388940"
 
 # Karaşeyhbaşı Tepesi
 
-Erzurum'un dağlık bölgesinde yer alan Karaşeyhbaşı Tepesi, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülemektedir. Bu tepenin büyüklüğü, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Karaşeyhbaşı Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor ve ziyaretçilere eşsiz bir manzara sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel hayatın nasıl olduğunu gösteriyor.
+Erzurum'un dağlık bölgesinde yer alan Karaşeyhbaşı Tepesi, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülemektedir. Karaşeyhbaşı Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor ve ziyaretçilere eşsiz bir manzara sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel hayatın nasıl olduğunu gösteriyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Karaşeyhbaşı Tepesi, Erzurum'un dağlık bölgesinde yer alıyor. Bu bölge, 
 
 ## Flora ve Fauna
 
-Karaşeyhbaşı Tepesi, flora ve fauna açısından oldukça zengin. Tepenin etrafında, çeşitli bitki türleri yer alıyor. Bunlar, ziyaretçilere doğanın güzelliğini gösteriyor. Tepede, çeşitli hayvan türleri de yer alıyor. Bunlar, ziyaretçilere doğanın çeşitliliğini gösteriyor. Karaşeyhbaşı Tepesi, mevsimsel değişimlere göre değişen bir ekosisteme sahip. Tepenin etrafında, çeşitli mevsimlerde farklı bitki ve hayvan türleri yer alıyor. Bunlar, ziyaretçilere doğanın değişimini gösteriyor.
+ Tepenin etrafında, çeşitli bitki türleri yer alıyor. Bunlar, ziyaretçilere doğanın güzelliğini gösteriyor. Tepede, çeşitli hayvan türleri de yer alıyor. Bunlar, ziyaretçilere doğanın çeşitliliğini gösteriyor. Karaşeyhbaşı Tepesi, mevsimsel değişimlere göre değişen bir ekosisteme sahip. Tepenin etrafında, çeşitli mevsimlerde farklı bitki ve hayvan türleri yer alıyor. Bunlar, ziyaretçilere doğanın değişimini gösteriyor.
 
 ## Ziyaret Bilgileri
 

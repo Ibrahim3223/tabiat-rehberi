@@ -22,7 +22,7 @@ wikidata_id: "Q108227964"
 
 # Zonguldak-Karabuk-Eflani Fidanligi Karacam
 
-Karadeniz Bölgesi'nin doğusunda yer alan Zonguldak-Karabuk-Eflani Fidanligi Karacam, yaklaşık 140 hektarlık bir alanı kaplayan ve bu bölgenin doğal güzelliklerinden biri olan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, ziyaretçilerine hem doğanın güzelliklerini keşfetme fırsatı sunuyor hem de burada çeşitli bitki türleri ve zengin fauna ile karşılaşma imkanı sağlıyor.
+Karadeniz Bölgesi'nin doğusunda yer alan Zonguldak-Karabuk-Eflani Fidanligi Karacam, yaklaşık 140 hektarlık bir alanı kaplayan ve bu bölgenin doğal güzelliklerinden biri olan bir milli parktır. Bu milli park, ziyaretçilerine hem doğanın güzelliklerini keşfetme fırsatı sunuyor hem de burada çeşitli bitki türleri ve zengin fauna ile karşılaşma imkanı sağlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Zonguldak-Karabuk-Eflani Fidanligi Karacam'ın tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Zonguldak-Karabuk-Eflani Fidanligi Karacam, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak dağlık ve engebeli bir araziye sahiptir. Bu milli park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgenin coğrafi özellikleri, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak ılıman ve yağışlı. Bu bölgenin coğrafi yapısı ve iklimi, çeşitli bitki türleri ve zengin fauna için uygun bir ortam sağlıyor. Zonguldak-Karabuk-Eflani Fidanligi Karacam, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyen ziyaretçilerine birçok imkan sunuyor.
+Zonguldak-Karabuk-Eflani Fidanligi Karacam, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak dağlık ve engebeli bir araziye sahiptir. Bu bölgenin coğrafi özellikleri, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak ılıman ve yağışlı. Bu bölgenin coğrafi yapısı ve iklimi, çeşitli bitki türleri ve zengin fauna için uygun bir ortam sağlıyor. Zonguldak-Karabuk-Eflani Fidanligi Karacam, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyen ziyaretçilerine birçok imkan sunuyor.
 
 ## Flora ve Fauna
 

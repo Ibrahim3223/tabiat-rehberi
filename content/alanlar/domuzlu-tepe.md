@@ -28,7 +28,7 @@ wikidata_id: "Q31389219"
 
 # Domuzlu Tepe
 
-İstanbul'un tarihi ve doğal güzelliklerini keşfedin. Marmara Bölgesi'nde bulunan Domuzlu Tepe, ziyaretçilerine benzersiz bir deneyim sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir açık alan sunuyor. Bu tepe, İstanbul'un en yüksek noktalarından biri olarak kabul ediliyor ve buradan şehrin panoramik manzarasını izleme mümkün. Domuzlu Tepe, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbediyor.
+İstanbul'un tarihi ve doğal güzelliklerini keşfedin. Marmara Bölgesi'nde bulunan Domuzlu Tepe, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu tepe, İstanbul'un en yüksek noktalarından biri olarak kabul ediliyor ve buradan şehrin panoramik manzarasını izleme mümkün. Domuzlu Tepe, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Domuzlu Tepe'nin tarihi geçmişi, İstanbul'un tarihi ile iç içe geçmiş dur
 
 ## Coğrafya
 
-Domuzlu Tepe, Marmara Bölgesi'nde, İstanbul ilinin sınırları içinde yer alıyor. Bu tepe, deniz seviyesinden yüksek bir konumda bulunması nedeniyle, İstanbul'un panoramik manzarasını izlemek için ideal bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir açık alan sunuyor. Bu bölgenin coğrafyası, genellikle engebeli ve tepelik bir yapıya sahip. Domuzlu Tepe'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bölge, zengin bir flora ve fauna ile dikkat çekiyor. Bölgenin iklimi, İstanbul'un genel iklimi ile benzerlik gösteriyor ve dört mevsim unterschiedlı bir yapıya sahip.
+Domuzlu Tepe, Marmara Bölgesi'nde, İstanbul ilinin sınırları içinde yer alıyor. Bu tepe, deniz seviyesinden yüksek bir konumda bulunması nedeniyle, İstanbul'un panoramik manzarasını izlemek için ideal bir nokta. Bu bölgenin coğrafyası, genellikle engebeli ve tepelik bir yapıya sahip. Domuzlu Tepe'nin etrafı, çeşitli bitki türleri ile kaplı ve bu bölge, zengin bir flora ve fauna ile dikkat çekiyor. Bölgenin iklimi, İstanbul'un genel iklimi ile benzerlik gösteriyor ve dört mevsim unterschiedlı bir yapıya sahip.
 
 ## Flora ve Fauna
 

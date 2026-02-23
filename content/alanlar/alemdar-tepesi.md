@@ -28,7 +28,7 @@ wikidata_id: "Q31390343"
 
 # Alemdar Tepesi
 
-Afyonkarahisar'ın kalbinde yer alan Alemdar Tepesi, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, şehrin gürültüsünden uzaklaşıp doğayla baş başa kalabileceğiniz bir mekan. Tepenin eteklerinde yer alan yerleşim yerleri ve tarihi yapılar, bu bölgenin zengin kültürel mirasını gözler önüne serer. Alemdar Tepesi, hem doğa severler hem de tarihe meraklı olanlar için bir hazine olarak kabul edilebilir. Bu tepe, Afyonkarahisar'ın sembollerinden biri olarak görülür ve şehre gelenlerin mutlaka ziyaret etmesi gereken bir yer.
+Afyonkarahisar'ın kalbinde yer alan Alemdar Tepesi, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. Tepenin eteklerinde yer alan yerleşim yerleri ve tarihi yapılar, bu bölgenin zengin kültürel mirasını gözler önüne serer. Alemdar Tepesi, hem doğa severler hem de tarihe meraklı olanlar için bir hazine olarak kabul edilebilir. Bu tepe, Afyonkarahisar'ın sembollerinden biri olarak görülür ve şehre gelenlerin mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Alemdar Tepesi'nin tarihi geçmişi, Afyonkarahisar'ın kuruluşuna kadar uzanı
 
 ## Coğrafya
 
-Alemdar Tepesi, Afyonkarahisar'ın merkezinde yer alır ve Ege Bölgesi'nin coğrafi yapısına uygun olarak oluşmuştur. Tepenin yüksekliği ve çevresindeki yerleşim yerleri, bu bölgenin coğrafi özelliklerini belirler. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, şehrin gürültüsünden uzaklaşıp doğayla baş başa kalabileceğiniz bir mekan sunar. Tepenin etrafını saran dağlar ve vadiler, bu bölgenin coğrafi çeşitliliğini gösterir. Alemdar Tepesi, Afyonkarahisar'ın coğrafi yapısını anlamak için önemli bir nokta olarak kabul edilebilir. Bu tepe, şehrin coğrafi zenginliğinin bir simgesi olarak görülür. Tepenin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılımandır. Kışları soğuk ve yağışlı, yazları sıcak ve kurak olan bu iklim, tepenin flora ve faunasını etkiler. Alemdar Tepesi, coğrafi konumu itibariyle birçok doğal güzelliğe ev sahipliği yapar.
+Alemdar Tepesi, Afyonkarahisar'ın merkezinde yer alır ve Ege Bölgesi'nin coğrafi yapısına uygun olarak oluşmuştur. Tepenin yüksekliği ve çevresindeki yerleşim yerleri, bu bölgenin coğrafi özelliklerini belirler. Tepenin etrafını saran dağlar ve vadiler, bu bölgenin coğrafi çeşitliliğini gösterir. Alemdar Tepesi, Afyonkarahisar'ın coğrafi yapısını anlamak için önemli bir nokta olarak kabul edilebilir. Bu tepe, şehrin coğrafi zenginliğinin bir simgesi olarak görülür. Tepenin iklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılımandır. Kışları soğuk ve yağışlı, yazları sıcak ve kurak olan bu iklim, tepenin flora ve faunasını etkiler. Alemdar Tepesi, coğrafi konumu itibariyle birçok doğal güzelliğe ev sahipliği yapar.
 
 ## Flora ve Fauna
 

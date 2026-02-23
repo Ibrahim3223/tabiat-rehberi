@@ -22,7 +22,7 @@ wikidata_id: "Q108227612"
 
 # Konya-Ermenek-Kazanci Sedir 2
 
-Konya-Ermenek-Kazanci Sedir 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde, Konya'nın Ermenek ilçesinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle ziyaretçilerini bekliyor. Parkın konumu, şehrin gürültüsünden uzak, doğayla iç içe bir deneyim sunuyor. Ziyaretçiler, milli parkın sakin atmosferinde doğayı keşfedebilir ve güzel anlar yaşayabilir.
+Konya-Ermenek-Kazanci Sedir 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde, Konya'nın Ermenek ilçesinde yer alıyor. Parkın konumu, şehrin gürültüsünden uzak, doğayla iç içe bir deneyim sunuyor. Ziyaretçiler, milli parkın sakin atmosferinde doğayı keşfedebilir ve güzel anlar yaşayabilir.
 
 ## Tarihçe
 
@@ -38,11 +38,10 @@ Konya-Ermenek-Kazanci Sedir 2 milli parkı, zengin bir flora ve fauna ile dikkat
 
 ## Ziyaret Bilgileri
 
-Konya-Ermenek-Kazanci Sedir 2 milli parkını ziyaret etmek, doğa severler için büyük bir fırsat. Ziyaretçiler, milli parka fácil bir şekilde ulaşabilir ve çeşitli aktiviteler yapabilir. Milli parkı ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları. Bu mevsimlerde, hava koşulları ziyaretçilerin doğa yürüyüşleri yapmasına ve parkın güzelliklerini keşfetmesine uygun. Ziyaretçilerin, milli parkı ziyaret ederken, doğaya saygı göstermeleri ve parkın kurallarına uymaları önemli.
+Konya-Ermenek-Kazanci Sedir 2 milli parkını ziyaret etmek, doğa severler için büyük bir fırsat. Ziyaretçiler, milli parka kolay bir şekilde ulaşabilir ve çeşitli aktiviteler yapabilir. Milli parkı ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları. Bu mevsimlerde, hava koşulları ziyaretçilerin doğa yürüyüşleri yapmasına ve parkın güzelliklerini keşfetmesine uygun. Ziyaretçilerin, milli parkı ziyaret ederken, doğaya saygı göstermeleri ve parkın kurallarına uymaları önemli.
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkta, çeşitli bitki türleri ve hayvanlar bulunabilir.
 - Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal ve kurak.
 - Ziyaretçiler, milli parkı ziyaret ederken, doğaya saygı göstermeleri ve parkın kurallarına uymaları önemli.

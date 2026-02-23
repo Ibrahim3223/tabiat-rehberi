@@ -1,7 +1,7 @@
 ---
 title: "Sarı Ahmet Paşa Hamamı"
 date: "2026-01-10T04:28:14.700Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738783"
 
 # Sarı Ahmet Paşa Hamamı
 
-Sarı Ahmet Paşa Hamamı, Manisa'nın Gölmarmara ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi ve turistik mekanlarından biri olan bir plaj ve hamam kompleksi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Denizi'nin güzel kıyılarına sahip. Bu alan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Sarı Ahmet Paşa Hamamı, hem yerel halk hem de ler için popüler bir destinasyon olarak kabul ediliyor. Ziyaretçiler, burada hem tarihi bir hamamın atmosferini deneyimleyebilir hem de Ege Denizi'nin serin sularında yüzme keyfi yaşayabilirler.
+Sarı Ahmet Paşa Hamamı, Manisa'nın Gölmarmara ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi ve turistik mekanlarından biri olan bir plaj ve hamam kompleksi. Bu alan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Sarı Ahmet Paşa Hamamı, hem yerel halk hem de ler için popüler bir destinasyon olarak kabul ediliyor. Ziyaretçiler, burada hem tarihi bir hamamın atmosferini deneyimleyebilir hem de Ege Denizi'nin serin sularında yüzme keyfi yaşayabilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sarı Ahmet Paşa Hamamı'nın tarihi geçmişi, Osmanlı Dönemi'ne kadar uzan�
 
 ## Coğrafya
 
-Sarı Ahmet Paşa Hamamı, Manisa'nın Gölmarmara ilçesinde, Ege Bölgesi'nin kıyı kesiminde yer alıyor. Bu alan, Ege Denizi'nin güzel kıyılarına sahip ve 140 hektarlık bir alanı kaplıyor. Hamam ve çevresindeki bölge, hem deniz hem de kara açısından zengin bir coğrafyaya sahip. Ziyaretçiler, burada Ege Denizi'nin serin sularında yüzme keyfi yaşayabilir, aynı zamanda çevredeki doğayı keşfedebilirler. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Kış aylarında ılıman bir iklimi olan Gölmarmara, yaz aylarında ise sıcak ve güneşli bir havaya sahip. Bu coğrafi özellikler, Sarı Ahmet Paşa Hamamı'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor.
+Sarı Ahmet Paşa Hamamı, Manisa'nın Gölmarmara ilçesinde, Ege Bölgesi'nin kıyı kesiminde yer alıyor. Hamam ve çevresindeki bölge, hem deniz hem de kara açısından zengin bir coğrafyaya sahip. Ziyaretçiler, burada Ege Denizi'nin serin sularında yüzme keyfi yaşayabilir, aynı zamanda çevredeki doğayı keşfedebilirler. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Kış aylarında ılıman bir iklimi olan Gölmarmara, yaz aylarında ise sıcak ve güneşli bir havaya sahip. Bu coğrafi özellikler, Sarı Ahmet Paşa Hamamı'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

@@ -50,11 +50,11 @@ Mevsimsel değişikliklere bakıldığında, Sığırcı Gölü'nün iklimi Trak
 
 ## Flora ve Fauna
 
-Sığırcı Gölü, Edirne'nin görece küçük ama çok zengin bir ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sığırcı Gölü, Edirne'nin görece küçük ama çok zengin bir ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar aylarında göl çevresindeki sulak alanlar, çeşitli otsu bitkiler ve su yosunlarıyla kaplanıyor. Sonbaharda ise, su seviyesinin düşmesiyle birlikte, göl yatağındaki bitkiler ve çayırlar ortaya çıkıyor. 
+Bitki Örtüsü olarak, ilkbahar aylarında göl çevresindeki sulak alanlar, çeşitli otsu bitkiler ve su yosunlarıyla kaplanıyor. Sonbaharda ise, su seviyesinin düşmesiyle birlikte, göl yatağındaki bitkiler ve çayırlar ortaya çıkıyor.
 
-Yaban Hayatı açısından, Sığırcı Gölü önemli bir göçmen kuş rotası üzerinde yer alıyor. Her yıl binlerce su kuşu, gölde konaklıyor ve besleniyor. Gölün sularında, çeşitli balık türleri de yaşıyor; bu balıklar, su kuşları ve diğer yaban hayvanları için önemli bir besin kaynağı oluşturuyor. 
+Yaban Hayatı açısından, Sığırcı Gölü önemli bir göçmen kuş rotası üzerinde yer alıyor. Her yıl binlerce su kuşu, gölde konaklıyor ve besleniyor. Gölün sularında, çeşitli balık türleri de yaşıyor; bu balıklar, su kuşları ve diğer yaban hayvanları için önemli bir besin kaynağı oluşturuyor.
 
 Ekolojik Değer olarak, Sığırcı Gölü'nün koruma durumu oldukça önemli. Gölün ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin ekolojik dengesi için de büyük önem taşıyor.
 

@@ -51,9 +51,9 @@ Bölgenin hidrolojik dengesini etkileyen su kaynakları, İn Dağı'nın çevres
 
 ## Flora ve Fauna
 
-İn Dağı, Burdur'un eşsiz doğa harikalarından biridir. Bu dağ ekosisteminde, maki bitki örtüsü hakimdir ve kuraklığa dayanıklı türler yaygındır. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. 
+İn Dağı, Burdur'un eşsiz doğa harikalarından biridir. Bu dağ ekosisteminde, maki bitki örtüsü hakimdir ve kuraklığa dayanıklı türler yaygındır. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır.
 
-Yaban hayatı açısından zengin olan bu bölge, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Sonbaharda, göç eden kuşlar dağları geçitler olarak kullanır. Dağların yükseklik zonlarında, alpin flora ve fauna çeşitliliği dikkat çeker. 
+Yaban hayatı açısından zengin olan bu bölge, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Sonbaharda, göç eden kuşlar dağları geçitler olarak kullanır. Dağların yükseklik zonlarında, alpin flora ve fauna çeşitliliği dikkat çeker.
 
 İn Dağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosistemi, birçok canlı türünün yaşamsal bağımlılıklarını karşılar. Koruma durumu ise, bu bölgenin geleceğiçin büyük önem taşır. Doğal güzelliği ve biyolojik çeşitliliği korumak, gelecek nesiller için önemli bir sorumluluktur.
 

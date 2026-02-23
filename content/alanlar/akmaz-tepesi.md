@@ -28,7 +28,7 @@ wikidata_id: "Q31388728"
 
 # Akmaz Tepesi
 
-Akmaz Tepesi, Muğla'nın güzide yerlerinden biri olarak, ziyaretçilerini etkileyen bir doğal güzelliğe sahiptir. Yaklaşık 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsar. Bu tepe, Ege Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Akmaz Tepesi, ziyaretçilerine hem dinlenme hem de keşif imkanı sunar. Bu bölge, doğa severler için bir cennet olarak tanımlanabilir. Akmaz Tepesi, Muğla'nın turizm potansiyelini gösteren önemli bir destinasyondur.
+Akmaz Tepesi, Muğla'nın güzide yerlerinden biri olarak, ziyaretçilerini etkileyen bir doğal güzelliğe sahiptir. Bu tepe, Ege Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Akmaz Tepesi, ziyaretçilerine hem dinlenme hem de keşif imkanı sunar. Bu bölge, doğa severler için bir cennet olarak tanımlanabilir. Akmaz Tepesi, Muğla'nın turizm potansiyelini gösteren önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Akmaz Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olabil
 ## İlginç Bilgiler
 
 - Akmaz Tepesi, Muğla'nın turizm potansiyelini gösteren önemli bir destinasyondur.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Akmaz Tepesi, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile örtülüdür.
 - Akmaz Tepesi, iklimsel açıdan ılıman bir bölge olarak, ziyaretçilerine yıl boyunca uygun bir gezi ortamı sunar.

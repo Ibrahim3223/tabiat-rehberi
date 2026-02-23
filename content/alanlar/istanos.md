@@ -52,9 +52,9 @@ Mevsimsel değişikliklere uyum gösteren İstanos, Ege Denizi'nin karakteristik
 
 ## Flora ve Fauna
 
-Nakşa-Barre belediyesinin İstanos adası, step bitki örtüsü ve bozkırın karakteristiği taşıyan bir ekosistem sunar. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle süslenir. Kıyı kesimlerinde, tuzlu suya adapte olmuş bitkiler, denizden gelen rüzgarlara karşı direnç gösterir. 
+Nakşa-Barre belediyesinin İstanos adası, step bitki örtüsü ve bozkırın karakteristiği taşıyan bir ekosistem sunar. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle süslenir. Kıyı kesimlerinde, tuzlu suya adapte olmuş bitkiler, denizden gelen rüzgarlara karşı direnç gösterir.
 
-Adanın yaban hayatı, özellikle deniz kuşlarını barındırır. Göç mevsiminde, binlerce kuş adayı konaklama alanı olarak kullanır. Bu canlılar, adanın ekolojik dengesini korurken, aynı zamanda besin zincirinin önemli bir parçasını oluşturur. 
+Adanın yaban hayatı, özellikle deniz kuşlarını barındırır. Göç mevsiminde, binlerce kuş adayı konaklama alanı olarak kullanır. Bu canlılar, adanın ekolojik dengesini korurken, aynı zamanda besin zincirinin önemli bir parçasını oluşturur.
 
 İstanos adasının ekolojik değeri, izole popülasyonların varlığından kaynaklanır. Bu izolasyon, adada bulunan türlerin, diğer bölgelerde yaşayan akrabalarından farklılaşmasına neden olmuştur. Bu nedenle, İstanos adası, biyolojik çeşitlilik açısından önemli bir alan olarak kabul edilir.
 

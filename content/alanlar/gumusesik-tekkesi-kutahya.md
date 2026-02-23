@@ -1,7 +1,7 @@
 ---
 title: "Gümüşeşik Tekkesi, Kütahya"
 date: "2026-01-10T06:34:28.152Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q134615436"
 
 # Gümüşeşik Tekkesi, Kütahya
 
-Kütahya'nın merkezinde yer alan Gümüşeşik Tekkesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde düşünüldüğünde, ziyaretçilerin keşfetmek için oldukça geniş bir mekan sunuyor. Tarihi ve doğal güzellikleri bir araya getiren bu mekan, Kütahya'nın önemli gezilecek yerlerinden biri olarak dikkat çekiyor. Gümüşeşik Tekkesi, hem doğa severlerin hem de tarihe merak duyanların ilgisini çekmeyi başarıyor.
+Kütahya'nın merkezinde yer alan Gümüşeşik Tekkesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Tarihi ve doğal güzellikleri bir araya getiren bu mekan, Kütahya'nın önemli gezilecek yerlerinden biri olarak dikkat çekiyor. Gümüşeşik Tekkesi, hem doğa severlerin hem de tarihe merak duyanların ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 

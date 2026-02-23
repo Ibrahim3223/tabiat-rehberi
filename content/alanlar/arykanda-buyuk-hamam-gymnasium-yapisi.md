@@ -1,7 +1,7 @@
 ---
 title: "Arykanda Büyük Hamam Gymnasium Yapısı"
 date: "2026-01-09T23:08:44.061Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"

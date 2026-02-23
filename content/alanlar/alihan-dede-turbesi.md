@@ -1,7 +1,7 @@
 ---
 title: "Alihan Dede Türbesi"
 date: "2026-01-10T07:04:29.415Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390837"
 
 # Alihan Dede Türbesi
 
-Alihan Dede Türbesi, Tire/İzmir'de yer alan ve Ege Bölgesi'nin önemli turistik noktalarından biri olan bir türbedir. 140 hektarlık bir alan üzerine kurulmuş olan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi olan bu türbe, ziyaretçilerini karşılamak için hazır bekler. Alihan Dede Türbesi, Ege Bölgesi'nin önemli bir kültürel mirası olarak kabul edilir ve her yıl birçok ziyaretçi tarafından ziyaret edilir. Bu türbenin etrafında bulunan doğa, ziyaretçilere huzurlu bir ortam sunar.
+Alihan Dede Türbesi, Tire/İzmir'de yer alan ve Ege Bölgesi'nin önemli turistik noktalarından biri olan bir türbedir. Tarihi geçmişi olan bu türbe, ziyaretçilerini karşılamak için hazır bekler. Alihan Dede Türbesi, Ege Bölgesi'nin önemli bir kültürel mirası olarak kabul edilir ve her yıl birçok ziyaretçi tarafından ziyaret edilir. Bu türbenin etrafında bulunan doğa, ziyaretçilere huzurlu bir ortam sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Alihan Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu 
 
 ## Coğrafya
 
-Alihan Dede Türbesi, Tire/İzmir'de yer alan bir türbedir. Bu türbe, Ege Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe üzerine kurulmuştur. 140 hektarlık bir alan üzerine kurulmuş olan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Alihan Dede Türbesi'nin etrafında bulunan doğa, ziyaretçilere huzurlu bir ortam sunar. Bu türbenin bulunduğu tepe, Ege Bölgesi'nin önemli bir coğrafi noktası olarak kabul edilir ve her yıl birçok ziyaretçi tarafından ziyaret edilir. Alihan Dede Türbesi, Ege Bölgesi'nin önemli bir coğrafi mirası olarak kabul edilir ve bu bölgeyi ziyaret edenlerin görmesi gereken bir yer olarak önerilir.
+Alihan Dede Türbesi, Tire/İzmir'de yer alan bir türbedir. Bu türbe, Ege Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe üzerine kurulmuştur. Alihan Dede Türbesi'nin etrafında bulunan doğa, ziyaretçilere huzurlu bir ortam sunar. Bu türbenin bulunduğu tepe, Ege Bölgesi'nin önemli bir coğrafi noktası olarak kabul edilir ve her yıl birçok ziyaretçi tarafından ziyaret edilir. Alihan Dede Türbesi, Ege Bölgesi'nin önemli bir coğrafi mirası olarak kabul edilir ve bu bölgeyi ziyaret edenlerin görmesi gereken bir yer olarak önerilir.
 
 ## Flora ve Fauna
 

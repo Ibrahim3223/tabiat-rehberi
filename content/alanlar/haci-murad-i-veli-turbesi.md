@@ -1,7 +1,7 @@
 ---
 title: "Hacı Murad-ı Veli Türbesi"
 date: "2026-01-10T06:54:12.532Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çankırı"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390763"
 
 # Hacı Murad-ı Veli Türbesi
 
-Hacı Murad-ı Veli Türbesi, Çankırı'nın Eldivan ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyon. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alan sunuyor. Burada bulunan türbe,i geçmişin önemli bir parçası olarak ziyaretçilerini bekliyor. Türbenin çevresindeki yeşil alanlar, piknik yapma ve doğayı keşfetmek için ideal bir ortam sunuyor. Hacı Murad-ı Veli Türbesi,hem tarih meraklıları hem de doğa severler için unutulmaz bir gezi deneyimi vaat ediyor.
+Hacı Murad-ı Veli Türbesi, Çankırı'nın Eldivan ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyon. Burada bulunan türbe,i geçmişin önemli bir parçası olarak ziyaretçilerini bekliyor. Türbenin çevresindeki yeşil alanlar, piknik yapma ve doğayı keşfetmek için ideal bir ortam sunuyor. Hacı Murad-ı Veli Türbesi,hem tarih meraklıları hem de doğa severler için unutulmaz bir gezi deneyimi vaat ediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hacı Murad-ı Veli Türbesi, yüzyıllar boyunca önemli bir dini ve kültürel
 
 ## Coğrafya
 
-Hacı Murad-ı Veli Türbesi, Çankırı'nın Eldivan ilçesinde, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Türbenin etrafındaki yeşil alanlar, çeşitli bitkisel türlerle kaplı ve ziyaretçilere doğanın güzelliğini gösteriyor. Bölge, ilkbahar ve yaz aylarında yeşilin her tonunu sunarken, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor. Hacı Murad-ı Veli Türbesi'nin bulunduğu yer, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğayı keşfetmek, piknik yapma ve tarihi bir atmosferi deneyimlemek için ideal bir ortam sunuyor. Coğrafi olarak çeşitlilik gösteren bu bölge, aynı zamanda iklimsel olarak da ziyaretçilerine farklı deneyimler sunuyor.
+Hacı Murad-ı Veli Türbesi, Çankırı'nın Eldivan ilçesinde, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Türbenin etrafındaki yeşil alanlar, çeşitli bitkisel türlerle kaplı ve ziyaretçilere doğanın güzelliğini gösteriyor. Bölge, ilkbahar ve yaz aylarında yeşilin her tonunu sunarken, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor. Bu geniş alan, ziyaretçilere doğayı keşfetmek, piknik yapma ve tarihi bir atmosferi deneyimlemek için ideal bir ortam sunuyor. Coğrafi olarak çeşitlilik gösteren bu bölge, aynı zamanda iklimsel olarak da ziyaretçilerine farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 

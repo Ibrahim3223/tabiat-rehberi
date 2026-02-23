@@ -28,7 +28,7 @@ wikidata_id: "Q31385572"
 
 # Kurtlu Tepe
 
-Kurtlu Tepe, Erzincan'ın merkezine uzun bir mesafe uzaklıkta yer alan, 140 hektarlık bir alanı kapsayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikası. Bu alan, ziyaretçilerini karşılayan geniş ve yeşil bir ova ile çevrilidir. Erzincan'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir nokta. Kurtlu Tepe, aynı zamanda bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için de önemli bir destinasyon.
+ Bu alan, ziyaretçilerini karşılayan geniş ve yeşil bir ova ile çevrilidir. Erzincan'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir nokta. Kurtlu Tepe, aynı zamanda bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için de önemli bir destinasyon.
 
 ## Tarihçe
 

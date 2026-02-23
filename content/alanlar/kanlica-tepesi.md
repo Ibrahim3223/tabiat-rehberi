@@ -28,7 +28,7 @@ wikidata_id: "Q31519438"
 
 # Kanlıca Tepesi
 
-Kanlıca Tepesi, Antalya'nın gözde mekanlarından biri olarak, ziyaretçilerini etkileyen bir doğal güzelliğe sahiptir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunmaktadır. Tepenin yüksekliği ve manzarası, gelenleri büyülemektedir. Bu tepe, Antalya'nın önemli bir parçası olarak, şehrin doğal güzelliğini göstermektedir.
+Kanlıca Tepesi, Antalya'nın gözde mekanlarından biri olarak, ziyaretçilerini etkileyen bir doğal güzelliğe sahiptir. Tepenin yüksekliği ve manzarası, gelenleri büyülemektedir. Bu tepe, Antalya'nın önemli bir parçası olarak, şehrin doğal güzelliğini göstermektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kanlıca Tepesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir hikayey
 
 ## Coğrafya
 
-Kanlıca Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, 140 hektarlık bir alana yayılmış ve khong 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunmakta ve Antalya'nın doğal güzelliğini göstermektedir. Kanlıca Tepesi, Akdeniz ikliminin etkisi altında olup, yıl boyunca ılıman bir hava durumuna sahiptir. Bu tepe, Antalya'nın önemli bir bölümünü oluşturan bir doğal güzelliğe sahiptir ve ziyaretçilerine geniş bir görüş açısı sunmaktadır.
+Kanlıca Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunmakta ve Antalya'nın doğal güzelliğini göstermektedir. Kanlıca Tepesi, Akdeniz ikliminin etkisi altında olup, yıl boyunca ılıman bir hava durumuna sahiptir. Bu tepe, Antalya'nın önemli bir bölümünü oluşturan bir doğal güzelliğe sahiptir ve ziyaretçilerine geniş bir görüş açısı sunmaktadır.
 
 ## Flora ve Fauna
 

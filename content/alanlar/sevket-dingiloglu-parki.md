@@ -33,7 +33,7 @@ Kırklareli'nin yeşil cenneti Şevket Dingiloğlu Parkı, doğa severlerin göz
 
 ## Tarihçe
 
-Kırklareli, tarihin sâu izlerini taşıyan bir bölge. Bu topraklar, Traklar'dan Osmanlı'ya kadar birçok uygarlığa ev sahipliği yapmış. Şevket Dingiloğlu Parkı, bu zengin tarihsel mirasın içinde, doğal güzelliklerin korunmasına örnek oluşturuyor. Türkiye'de botanik bahçeleri, halkın doğayla bağını güçlendiren önemli merkezler. Bu tür alanlar, sadece flora ve fauna çeşitliliğini korumanın ötesinde, toplumun çevre bilincini geliştirmekte de önemli rol oynuyor.
+Kırklareli, tarihin derin izlerini taşıyan bir bölge. Bu topraklar, Traklar'dan Osmanlı'ya kadar birçok uygarlığa ev sahipliği yapmış. Şevket Dingiloğlu Parkı, bu zengin tarihsel mirasın içinde, doğal güzelliklerin korunmasına örnek oluşturuyor. Türkiye'de botanik bahçeleri, halkın doğayla bağını güçlendiren önemli merkezler. Bu tür alanlar, sadece flora ve fauna çeşitliliğini korumanın ötesinde, toplumun çevre bilincini geliştirmekte de önemli rol oynuyor.
 
 Kırklareli'nin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alıyor. Bu bölge, yüzyıllar boyunca yaylacılık ve hayvancılıkla uğraşan halkın yaşam alanlarını barındırmış. İnsanlar, bu doğal kaynakları kullanarak yaşamını sürdürürken, aynı zamanda bu alanların güzelliğini ve önemini de kavramış. Şevket Dingiloğlu Parkı, bu bağlamda, Kırklareli'nin doğal ve kültürel mirasını korumak adına önemli bir adım olarak görülüyor. Parkın varlığı, sadece bölgenin doğal güzelliklerini korumakla kalmıyor, aynı zamanda burada yaşayan halkın yaşam kalitesini de yükseltmeyi hedefliyor.
 

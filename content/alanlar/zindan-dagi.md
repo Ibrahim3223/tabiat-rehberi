@@ -50,9 +50,9 @@ Doğal bir koridor olarak görev yapan Zindan Dağı, çevreye önemli bir etkid
 
 ## Flora ve Fauna
 
-Zindan Dağı, Sinop'un nemli ikliminin hâkim olduğu bir bölgede yer alır. Bu dağ, gür ormanlar ve yüksek biyoçeşitlili ile karakterizedir. 
-Bitki örtüsünün hakim türleri arasında geniş yapraklı ağaçlar ve iğne yapraklı ağaçlar bulunur. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. 
-Yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Bu bölgede yaşayan canlılar, dağ ekosisteminin yükseklik zonlarına adapte olmuşlardır. 
+Zindan Dağı, Sinop'un nemli ikliminin hâkim olduğu bir bölgede yer alır. Bu dağ, gür ormanlar ve yüksek biyoçeşitlili ile karakterizedir.
+Bitki örtüsünün hakim türleri arasında geniş yapraklı ağaçlar ve iğne yapraklı ağaçlar bulunur. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır.
+Yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Bu bölgede yaşayan canlılar, dağ ekosisteminin yükseklik zonlarına adapte olmuşlardır.
 Zindan Dağı'nın ekolojik değeri, yüksek biyoçeşitliliğine ve dağ ekosisteminin bütünlüğüne bağlıdır. Bu alanın korunması, bölgenin ekolojik dengesini sürdürmek için önemlidir.
 
 ## Ziyaret Bilgileri

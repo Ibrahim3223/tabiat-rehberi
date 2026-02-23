@@ -1,7 +1,7 @@
 ---
 title: "Ayas Paşa Türbesi"
 date: "2026-01-10T04:52:41.802Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Türkiye"
@@ -23,7 +23,7 @@ wikidata_id: "Q55700301"
 
 # Ayas Paşa Türbesi
 
-Ayas Paşa Türbesi, İç Anadolu Bölgesi'nin merkezi bir konumda yer alır ve 140 hektarlık bir alanı kaplar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Ayas Paşa Türbesi, tarihi bir geçmişe sahiptir ve bölgenin önemli kültürel miraslarından biri olarak kabul edilir. Türbenin mimarisi, Osmanlı dönemine ait özellikleri taşır ve ziyaretçilere eşsiz bir görsel deneyim sunar. Ayas Paşa Türbesi, hem tarihi hem de doğa severler için bir çekim merkezi olarak karşımıza çıkar.
+Ayas Paşa Türbesi, İç Anadolu Bölgesi'nin merkezi bir konumda yer alır ve 140 hektarlık bir alanı kaplar. Ayas Paşa Türbesi, tarihi bir geçmişe sahiptir ve bölgenin önemli kültürel miraslarından biri olarak kabul edilir. Türbenin mimarisi, Osmanlı dönemine ait özellikleri taşır ve ziyaretçilere eşsiz bir görsel deneyim sunar. Ayas Paşa Türbesi, hem tarihi hem de doğa severler için bir çekim merkezi olarak karşımıza çıkar.
 
 ## Tarihçe
 

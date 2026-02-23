@@ -23,7 +23,7 @@ wikidata_id: "Q30066040"
 
 # Karacaoğlan Çayı
 
-Karacaoğlan Çayı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedeceğiniz bir destinasyondur. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan geniş bir yeşil alanı sunar. Burada, doğanın güzelliğini ve çayın serinliğini hissedeceksiniz. Çayın kenarında yürüyüş yapmak, doğanın seslerini dinleme ve güzel manzaraları izlemek, ziyaretçilere keyifli anlar yaşatır.
+Karacaoğlan Çayı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedeceğiniz bir destinasyondur. Burada, doğanın güzelliğini ve çayın serinliğini hissedeceksiniz. Çayın kenarında yürüyüş yapmak, doğanın seslerini dinleme ve güzel manzaraları izlemek, ziyaretçilere keyifli anlar yaşatır.
 
 ## Tarihçe
 

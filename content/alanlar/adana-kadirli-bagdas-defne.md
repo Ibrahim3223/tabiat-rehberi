@@ -22,7 +22,7 @@ wikidata_id: "Q108228534"
 
 # Adana-Kadirli-Bagdas-Defne
 
-Adana-Kadirli-Bagdas-Defne milli parkı, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgi odağı oluyor. Milli parkın konumu, ziyaretçilere doğanın içinde bir yolculuk yapma fırsatı sunuyor. Adana-Kadirli-Bagdas-Defne milli parkı, doğa severlerin ve çevrecilerin ilgi alanına giren bir destinasyon olarak dikkat çekiyor.
+Adana-Kadirli-Bagdas-Defne milli parkı, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgi odağı oluyor. Milli parkın konumu, ziyaretçilere doğanın içinde bir yolculuk yapma fırsatı sunuyor. Adana-Kadirli-Bagdas-Defne milli parkı, doğa severlerin ve çevrecilerin ilgi alanına giren bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

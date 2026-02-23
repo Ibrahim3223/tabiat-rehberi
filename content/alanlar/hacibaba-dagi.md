@@ -29,7 +29,7 @@ wikidata_id: "Q31385785"
 
 # Hacıbaba Dağı
 
-Konya'nın güzide mekanlarından biri olan Hacıbaba Dağı, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğündeki yeşil alanıyla ziyaretçilerini büyülüyor. Bu muhteşem doğal alan, Konya'nın merkezine çok yakın bir mesafede bulunmakta ve şehrin kalabalığından kaçmak isteyenler için bir sığınak görevi görüyor. Hacıbaba Dağı, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekiyor. Dağın eteklerinde yer alan tarihi yapılar ve çevredeki bitki türleri, bu alanın zenginliğini gösteriyor.
+ Bu muhteşem doğal alan, Konya'nın merkezine çok yakın bir mesafede bulunmakta ve şehrin kalabalığından kaçmak isteyenler için bir sığınak görevi görüyor. Hacıbaba Dağı, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekiyor. Dağın eteklerinde yer alan tarihi yapılar ve çevredeki bitki türleri, bu alanın zenginliğini gösteriyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "İskender Baba Türbesi"
 date: "2026-01-10T07:11:55.047Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390977"
 
 # İskender Baba Türbesi
 
-İskender Baba Türbesi, Üsküdar'da yer alan ve Marmara Bölgesi'nin önemli dini ziyaret noktalarından biri olan tarihi bir mekan. Bu alan, yaklaşık 140 hektarlık bir yeşil alan içinde yer alıyor, bu da yaklaşık 200 futbol sahası büyüklüğüne eşit. İskender Baba Türbesi, İstanbul'un zengin tarihi ve kültürel mirasının bir parçası olarak ziyaretçilerini bekliyor. Üsküdar'ın kalbi olan bu bölge, hem dini hem de kültürel açıdan önemli bir merkez olarak kabul ediliyor. Tarihi geçmişi ve doğal güzelliği ile İskender Baba Türbesi, ziyaretçilere unutulmaz bir  sunuyor.
+İskender Baba Türbesi, Üsküdar'da yer alan ve Marmara Bölgesi'nin önemli dini ziyaret noktalarından biri olan tarihi bir mekan. İskender Baba Türbesi, İstanbul'un zengin tarihi ve kültürel mirasının bir parçası olarak ziyaretçilerini bekliyor. Üsküdar'ın kalbi olan bu bölge, hem dini hem de kültürel açıdan önemli bir merkez olarak kabul ediliyor. Tarihi geçmişi ve doğal güzelliği ile İskender Baba Türbesi, ziyaretçilere unutulmaz bir  sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131390977"
 
 ## Coğrafya
 
-İskender Baba Türbesi, Üsküdar'da yer alan bir tepe üzerinde bulunuyor. Bu tepe, Marmara Denizi'ne bakan bir konumda ve Üsküdar'ın merkezi bölgesine oldukça yakında yer alıyor. İskender Baba Türbesi'nin bulunduğu bölge, yaklaşık 140 hektarlık bir yeşil alan içinde yer alıyor, bu da yaklaşık 200 futbol sahası büyüklüğüne eşit. Bu alan, çeşitli bitki türleri ile kaplı ve zengin fauna ile ziyaretçilerini karşılanıyor. İskender Baba Türbesi'nin etrafı, tarihi evler ve dini mekanlar ile çevrili, bu da ziyaretçilere İstanbul'un kültürel ve tarihi zenginliğini deneyimleme fırsatı sunuyor. İklim açısından, İskender Baba Türbesi, İstanbul'un genel iklimine uygun olarak ılıman bir iklime sahip. Kış ayları ılımandır ve yaz ayları sıcak geçer. Bu özellik, İskender Baba Türbesi'ni yıl boyunca ziyaret edilebilir bir mekan haline getiriyor.
+İskender Baba Türbesi, Üsküdar'da yer alan bir tepe üzerinde bulunuyor. Bu tepe, Marmara Denizi'ne bakan bir konumda ve Üsküdar'ın merkezi bölgesine oldukça yakında yer alıyor. Bu alan, çeşitli bitki türleri ile kaplı ve zengin fauna ile ziyaretçilerini karşılanıyor. İskender Baba Türbesi'nin etrafı, tarihi evler ve dini mekanlar ile çevrili, bu da ziyaretçilere İstanbul'un kültürel ve tarihi zenginliğini deneyimleme fırsatı sunuyor. İklim açısından, İskender Baba Türbesi, İstanbul'un genel iklimine uygun olarak ılıman bir iklime sahip. Kış ayları ılımandır ve yaz ayları sıcak geçer. Bu özellik, İskender Baba Türbesi'ni yıl boyunca ziyaret edilebilir bir mekan haline getiriyor.
 
 ## Flora ve Fauna
 

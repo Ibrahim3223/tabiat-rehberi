@@ -28,7 +28,7 @@ wikidata_id: "Q31388653"
 
 # Elmataş Tepe
 
-Elmataş Tepe, Muğla'nın Ege Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir doğal alan sunar. Elmataş Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekici bir yerdir. Ziyaretçiler, tepeye tırmanarak muhteşem manzaraları izleyebilir ve bölgenin florasını keşfedebilirler. Elmataş Tepe, aynı zamanda çeşitli bitki türlerine ev sahipliği yapar ve ziyaretçilere doğayla iç içe bir deneyim sunar.
+Elmataş Tepe, Muğla'nın Ege Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Elmataş Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekici bir yerdir. Ziyaretçiler, tepeye tırmanarak muhteşem manzaraları izleyebilir ve bölgenin florasını keşfedebilirler. Elmataş Tepe, aynı zamanda çeşitli bitki türlerine ev sahipliği yapar ve ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 

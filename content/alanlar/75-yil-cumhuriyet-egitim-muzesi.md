@@ -1,7 +1,7 @@
 ---
 title: "75. Yıl Cumhuriyet Eğitim Müzesi"
 date: "2026-01-10T15:19:16.542Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q132682032"
 
 # 75. Yıl Cumhuriyet Eğitim Müzesi
 
-75. Yıl Cumhuriyet Eğitim Müzesi, Ankara'nın Çankaya ilçesinde yer alan özel bir eğitim müzesidir. Bu müze, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir arazide konumlanmıştır. Müzenin kuruluş amacı, eğitim tarihini ve Türkiye'nin eğitim serüvenini kronolojik olarak sergilemektir. Ziyaretçiler, bu müzeyi gezdiklerinde, Türk eğitim sisteminin geçmişini ve bugününe kadar olan yolculuğunu detalı bir şekilde keşfedebilirler.
+75. Yıl Cumhuriyet Eğitim Müzesi, Ankara'nın Çankaya ilçesinde yer alan özel bir eğitim müzesidir. Müzenin kuruluş amacı, eğitim tarihini ve Türkiye'nin eğitim serüvenini kronolojik olarak sergilemektir. Ziyaretçiler, bu müzeyi gezdiklerinde, Türk eğitim sisteminin geçmişini ve bugününe kadar olan yolculuğunu detalı bir şekilde keşfedebilirler.
 
 ## Tarihçe
 

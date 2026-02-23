@@ -28,7 +28,7 @@ wikidata_id: "Q31560715"
 
 # Tuzlakaya Tepesi
 
-Kırklareli ilinin sınırları içerisinde yer alan Tuzlakaya Tepesi, Marmara Bölgesi'nin en önemli güzelliklerinden biri olarak kabul ediliyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tuzlakaya Tepesi, ziyaretçilerini doğanın güzelliği ve büyüklüğü ile baş başa bırakıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Kırklareli ilinin sınırları içerisinde yer alan Tuzlakaya Tepesi, Marmara Bölgesi'nin en önemli güzelliklerinden biri olarak kabul ediliyor. Tuzlakaya Tepesi, ziyaretçilerini doğanın güzelliği ve büyüklüğü ile baş başa bırakıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 

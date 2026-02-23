@@ -69,4 +69,4 @@ Seyidkasım Dağı, Bingöl'ün doğal güzelliklerinin arasında gizli bir hazi
 - Bölge, Türkiye'nin Doğu Anadolu Bölgesi'nde yer almaktadır.
 - Seyidkasım Dağı, coğrafi açıdan önemli bir konumda olup, çevredeki diğer dağlar ile birlikte bir dağ sırasını oluşturmaktadır.
 - Bingöl ili, Türkiye'nin 75 ilinden biridir ve 2019 verilerine göre nüfusu yaklaşık 278.000 kişidir.
-- Seyidkasım Dağı'nın çevresinde, históri ve kültürel açıdan önemli birçok yerleşim yeri ve arkeolojik alan bulunmaktadır.
+- Seyidkasım Dağı'nın çevresinde, tarihi ve kültürel açıdan önemli birçok yerleşim yeri ve arkeolojik alan bulunmaktadır.

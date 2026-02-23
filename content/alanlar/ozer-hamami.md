@@ -1,7 +1,7 @@
 ---
 title: "Özer Hamamı"
 date: "2026-01-09T23:35:04.606Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Uşak"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739173"
 
 # Özer Hamamı
 
-Özer Hamamı, Uşak'ın merkezinde yer alan ve şehrin doğal güzelliklerinden biri olan bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Özer Hamamı, Uşak'ın merkezinden uzun bir mesafe uzaklıkta bulunuyor ve ulaşımı oldukça kolay. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor ve Uşak'ın önemli turizm noktalarından biri olarak biliniyor.
+Özer Hamamı, Uşak'ın merkezinde yer alan ve şehrin doğal güzelliklerinden biri olan bir plajdır. Özer Hamamı, Uşak'ın merkezinden uzun bir mesafe uzaklıkta bulunuyor ve ulaşımı oldukça kolay. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor ve Uşak'ın önemli turizm noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131739173"
 
 ## Coğrafya
 
-Özer Hamamı, Uşak'ın coğrafi yapısını yansıtan bir bölgede yer alıyor. Bu bölge, Ege Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilerine zengin bir coğrafi çeşitlilik sunuyor. Özer Hamamı'nın bulunduğu région, genellikle sıcak ve kuru bir iklime sahip ve bu, plajın ziyaretçilerine güzel bir güneşlenme ve yüzme deneyimi sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna encontrado ve bu, Özer Hamamı'nı sadece bir plaj değil, aynı zamanda bir doğa harikası haline getiriyor. Özer Hamamı, Uşak'ın doğal güzelliklerini keşfetmek isteyen ziyaretçilere, geniş yeşil alanları, temiz plajı ve güzel manzarasıyla ideal bir destinasyon sunuyor. Bu bölge, hem tatil hem de doğa severler için mükemmel bir seçim.
+Özer Hamamı, Uşak'ın coğrafi yapısını yansıtan bir bölgede yer alıyor. Bu bölge, Ege Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilerine zengin bir coğrafi çeşitlilik sunuyor. Özer Hamamı'nın bulunduğu bölge, genellikle sıcak ve kuru bir iklime sahip ve bu, plajın ziyaretçilerine güzel bir güneşlenme ve yüzme deneyimi sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna encontrado ve bu, Özer Hamamı'nı sadece bir plaj değil, aynı zamanda bir doğa harikası haline getiriyor. Özer Hamamı, Uşak'ın doğal güzelliklerini keşfetmek isteyen ziyaretçilere, geniş yeşil alanları, temiz plajı ve güzel manzarasıyla ideal bir destinasyon sunuyor. Bu bölge, hem tatil hem de doğa severler için mükemmel bir seçim.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131739173"
 ## İlginç Bilgiler
 
 - Özer Hamamı, Uşak'ın en önemli turizm noktalarından biri.
-- Bu plaj, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Özer Hamamı, Ege Bölgesi'nin karakteristik özelliklerini taşıyor.
 - Bu bölge, genellikle sıcak ve kuru bir iklime sahip.
 - Özer Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.

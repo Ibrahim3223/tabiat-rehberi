@@ -28,7 +28,7 @@ wikidata_id: "Q31386863"
 
 # Latacima Tepe
 
-Latacima Tepe, Mardin'in eşsiz güzelliklerinin sergilendiği bir nokta olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Latacima Tepe, ziyaretçilerini tarihin derinliklerine götürerek aynı zamanda doğanın güzelliğini gözler önüne seriyor. Mardin'in tarihi ve kültürel zenginliklerinin bir araya geldiği bu özel mekan, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Latacima Tepe, doğa severlerin ve tarih meraklılarının bir araya geleceği bir destinasyon olarak dikkat çekiyor.
+Latacima Tepe, Mardin'in eşsiz güzelliklerinin sergilendiği bir nokta olarak karşımıza çıkıyor. Latacima Tepe, ziyaretçilerini tarihin derinliklerine götürerek aynı zamanda doğanın güzelliğini gözler önüne seriyor. Mardin'in tarihi ve kültürel zenginliklerinin bir araya geldiği bu özel mekan, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Latacima Tepe, doğa severlerin ve tarih meraklılarının bir araya geleceği bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Latacima Tepe'nin tarihi geçmişi, Mardin'in zengin kültürel mirasıyla iç i
 
 ## Coğrafya
 
-Latacima Tepe, Mardin'in coğrafi güzelliklerinin sergilendiği bir bölgede yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Latacima Tepe, çevresi ile birlikte düşünüldüğünde, ziyaretçilere geniş bir coğrafi çeşitlilik sunuyor. Bu bölgede, farklı türde bitkiler ve hayvanlar bulunabiliyor. Latacima Tepe'nin coğrafi konumu, ziyaretçilere Mardin'in doğal güzelliklerini keşfetme fırsatı sunuyor. Bu tepe, Mardin'in coğrafi ve kültürel zenginliklerinin bir araya geldiği özel bir destinasyon olarak dikkat çekiyor. Latacima Tepe, ziyaretçilerini tarihin derinliklerine götürürken aynı zamanda doğanın güzelliğini gözler önüne seriyor.
+Latacima Tepe, Mardin'in coğrafi güzelliklerinin sergilendiği bir bölgede yer alıyor. Latacima Tepe, çevresi ile birlikte düşünüldüğünde, ziyaretçilere geniş bir coğrafi çeşitlilik sunuyor. Bu bölgede, farklı türde bitkiler ve hayvanlar bulunabiliyor. Latacima Tepe'nin coğrafi konumu, ziyaretçilere Mardin'in doğal güzelliklerini keşfetme fırsatı sunuyor. Bu tepe, Mardin'in coğrafi ve kültürel zenginliklerinin bir araya geldiği özel bir destinasyon olarak dikkat çekiyor. Latacima Tepe, ziyaretçilerini tarihin derinliklerine götürürken aynı zamanda doğanın güzelliğini gözler önüne seriyor.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31387091"
 
 # Kavaklık Tepe
 
-Kavaklık Tepe, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık alanı kaplayan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliğine davet ediyor. Tepe, bulunduğu bölgenin coğrafi özelliklerini yansıtan bir yapıya sahip ve çevresi çeşitli bitki türleriyle dolu. Kavaklık Tepe, doğa severler için bir cennet ve bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için de önemli bir nokta.
+Kavaklık Tepe, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık alanı kaplayan bir tepe. Tepe, bulunduğu bölgenin coğrafi özelliklerini yansıtan bir yapıya sahip ve çevresi çeşitli bitki türleriyle dolu. Kavaklık Tepe, doğa severler için bir cennet ve bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için de önemli bir nokta.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kavaklık Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölge
 
 ## Coğrafya
 
-Kavaklık Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahip. Tepe, 140 hektarlık alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Çevresi, çeşitli bitki türleriyle dolu ve tepe, doğa severler için bir cennet. Tepe, aynı zamanda bölgenin iklimini de yansıtmakta ve ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılamaktadır. Kavaklık Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahip ve ziyaretçilerine doğanın güzelliğini göstermektedir. Tepe, bölgenin coğrafi yapısını yansıtan bir tepe ve çevresi, çeşitli bitki türleriyle dolu.
+Kavaklık Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahip. Çevresi, çeşitli bitki türleriyle dolu ve tepe, doğa severler için bir cennet. Tepe, aynı zamanda bölgenin iklimini de yansıtmakta ve ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılamaktadır. Kavaklık Tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahip ve ziyaretçilerine doğanın güzelliğini göstermektedir. Tepe, bölgenin coğrafi yapısını yansıtan bir tepe ve çevresi, çeşitli bitki türleriyle dolu.
 
 ## Flora ve Fauna
 

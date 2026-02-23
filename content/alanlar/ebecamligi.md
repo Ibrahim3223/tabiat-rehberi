@@ -22,7 +22,7 @@ wikidata_id: "Q108228734"
 
 # EBEÇAMLIĞI
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Ebeçamlığı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş ve yeşilliklerle dolu alan, ziyaretçilerini doğayla baş başa bırakıyor. Ebeçamlığı, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, doğanın seslerini dinleyerek, şehrin gürültüsünden uzaklaşabilirsiniz. Ebeçamlığı'na geldiğinizde, geniş ve yeşil alanların size huzur verdiğini hissedeceksiniz.
+ Bu geniş ve yeşilliklerle dolu alan, ziyaretçilerini doğayla baş başa bırakıyor. Ebeçamlığı, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, doğanın seslerini dinleyerek, şehrin gürültüsünden uzaklaşabilirsiniz. Ebeçamlığı'na geldiğinizde, geniş ve yeşil alanların size huzur verdiğini hissedeceksiniz.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Ebeçamlığı'na geldiğinizde, nasıl gidileceği ve ne yapileceği konusunda 
 
 ## İlginç Bilgiler
 
-- Ebeçamlığı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Ebeçamlığı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Ebeçamlığı'nın tarihi geçmişi, yüzyıllar boyunca süregelmiştir.
 - Ebeçamlığı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor.

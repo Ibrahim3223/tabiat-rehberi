@@ -23,7 +23,7 @@ wikidata_id: "Q108227125"
 
 # Bafa Gölü Tabiat Parkı
 
-Bafa Gölü Tabiat Parkı, Aydın ilinin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin güzide noktalarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın tüm güzelliğini sunar. Park, Bafa Gölü'nün güneyindeki tepelerde yer alır ve bu konumuyla birlikte hem gölün hem de çevrenin muhteşem manzarasına ev sahipliği yapar. Bu tabiat parkı, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çeker ve ziyaretçilerini bir doğa belgeseli içinde gibi hissettirir.
+Bafa Gölü Tabiat Parkı, Aydın ilinin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin güzide noktalarından biridir. Park, Bafa Gölü'nün güneyindeki tepelerde yer alır ve bu konumuyla birlikte hem gölün hem de çevrenin muhteşem manzarasına ev sahipliği yapar. Bu tabiat parkı, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çeker ve ziyaretçilerini bir doğa belgeseli içinde gibi hissettirir.
 
 ## Tarihçe
 

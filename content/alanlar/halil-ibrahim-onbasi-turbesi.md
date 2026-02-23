@@ -1,7 +1,7 @@
 ---
 title: "Halil İbrahim Onbaşı Türbesi"
 date: "2026-01-10T06:51:30.456Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eceabat ilçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390748"
 
 # Halil İbrahim Onbaşı Türbesi
 
-Halil İbrahim Onbaşı Türbesi, Çanakkale'nin Eceabat ilçesinde yer alan bir tarihi mekan. Bu türbe, Çanakkale Savaşı'nda şehit olan Halil İbrahim Onbaşı'nın anısına yapılmıştır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem tarihin izlerini takip etme hem de doğanın güzelliğini keşfetme fırsatı sunar. Halil İbrahim Onbaşı'nın kahramanlık hikayesi, bu türbenin etrafında şekillenmiş ve ziyaretçilere ilham kaynağı olmuştur. Türbenin mimarisi, geleneksel Türk mimari tarzını yansıtır ve tarihi değerini korur.
+Halil İbrahim Onbaşı Türbesi, Çanakkale'nin Eceabat ilçesinde yer alan bir tarihi mekan. Bu türbe, Çanakkale Savaşı'nda şehit olan Halil İbrahim Onbaşı'nın anısına yapılmıştır. Bu geniş alan, ziyaretçilere hem tarihin izlerini takip etme hem de doğanın güzelliğini keşfetme fırsatı sunar. Halil İbrahim Onbaşı'nın kahramanlık hikayesi, bu türbenin etrafında şekillenmiş ve ziyaretçilere ilham kaynağı olmuştur. Türbenin mimarisi, geleneksel Türk mimari tarzını yansıtır ve tarihi değerini korur.
 
 ## Tarihçe
 

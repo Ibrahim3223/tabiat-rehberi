@@ -28,7 +28,7 @@ wikidata_id: "Q31539553"
 
 # Kestane Tepesi
 
-Kestane Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Kestane Tepesi, coğrafi konumu itibarıyla bölgenin en önemli doğal güzelliklerinden birisidir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bu bitki türleri, bölgeye özgü olmasının yanı sıra, bazıları da endemik türlerdir. Kestane Tepesi, aynı zamanda zengin fauna yapısıyla da dikkat çeker. Burada, çeşitli hayvan türleri ve kuş türleri yaşamaktadır. Bu nedenle, Kestane Tepesi hem doğa severler hem de hayvanseverler için önemli bir destinasyondur.
+Kestane Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan 140 hektarlık bir yeşil alandır. Kestane Tepesi, coğrafi konumu itibarıyla bölgenin en önemli doğal güzelliklerinden birisidir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bu bitki türleri, bölgeye özgü olmasının yanı sıra, bazıları da endemik türlerdir. Kestane Tepesi, aynı zamanda zengin fauna yapısıyla da dikkat çeker. Burada, çeşitli hayvan türleri ve kuş türleri yaşamaktadır. Bu nedenle, Kestane Tepesi hem doğa severler hem de hayvanseverler için önemli bir destinasyondur.
 
 ## Tarihçe
 

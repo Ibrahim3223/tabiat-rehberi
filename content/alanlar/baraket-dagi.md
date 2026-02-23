@@ -38,17 +38,17 @@ Doğal güzellikleri ve stratejik konumuyla, Baraket Dağı gibi alanlar tarihse
 
 ## Coğrafya
 
-Doğal güzelliklerin bir araya geldiği Artvin ilinin göbeğinde, 40.8810° kuzey enlemi ve 41.7461° doğu boylamında yer alan Baraket Dağı, coğrafi olarak Karadeniz Bölgesi'nin en uzak köşesinde bulunuyor. Bu dağ, bölgenin en önemli doğal varlıklarından biri olarak, eteklerinde kurulan köyler ve kasabalarla birlikte bir bütün oluşturuyor. 
+Doğal güzelliklerin bir araya geldiği Artvin ilinin göbeğinde, 40.8810° kuzey enlemi ve 41.7461° doğu boylamında yer alan Baraket Dağı, coğrafi olarak Karadeniz Bölgesi'nin en uzak köşesinde bulunuyor. Bu dağ, bölgenin en önemli doğal varlıklarından biri olarak, eteklerinde kurulan köyler ve kasabalarla birlikte bir bütün oluşturuyor.
 
 Jeolojik açıdan bakıldığında, Baraket Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, koordinatlarından yola çıkarak, bu dağın Karadeniz Bölgesi'nin karmaşık jeolojik yapısına uygun olarak, farklı türlerde kayaçlar ve topraklarla kaplı olduğu söylenebilir. Boyutları tam olarak bilinmese de, bu dağların eteklerinde kurulmuş olan yerleşim yerleri, bölgenin coğrafi çeşitliliğini gösteriyor.
 
-Mevsimsel olarak, Baraket Dağı ve çevresinde Karadeniz iklimi hüküm sürüyor. Bu, bölgenin yıl boyunca nemli ve yağışlı bir hava koşullarına sahip olduğunu gösteriyor. Kış aylarında karla kaplanan dağlar, yaz aylarında yeşilin tüm tonlarını sergiliyor. 
+Mevsimsel olarak, Baraket Dağı ve çevresinde Karadeniz iklimi hüküm sürüyor. Bu, bölgenin yıl boyunca nemli ve yağışlı bir hava koşullarına sahip olduğunu gösteriyor. Kış aylarında karla kaplanan dağlar, yaz aylarında yeşilin tüm tonlarını sergiliyor.
 
 Çevresel açıdan, Baraket Dağı ve çevresi, bölgenin önemli su kaynaklarına ev sahipliği yapıyor. Dağın eteklerinde akan nehirler ve dereler, Karadeniz'in zengin su kaynaklarına katkıda bulunuyor. Bu dağ, aynı zamanda çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı oluşturuyor.
 
 ## Flora ve Fauna
 
-Baraket Dağı, nemli iklimin ve gür ormanların hâkim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitliliğin gözlemlendiği bir bölge. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. 
+Baraket Dağı, nemli iklimin ve gür ormanların hâkim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitliliğin gözlemlendiği bir bölge. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır.
 
 Dağın farklı yükseklik zonlarında, çeşitli bitki türleri bulunur. Alpin flora, dağların yüksek kesimlerinde hüküm sürer. Bu bölgede, bitki örtüsü mevsimsel olarak değişir. Sonbaharda, ormanların yapraklarını dökmeye başlamasıyla birlikte, dağ manzarası yeniden şekillenir.
 

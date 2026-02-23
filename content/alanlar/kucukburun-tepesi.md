@@ -28,7 +28,7 @@ wikidata_id: "Q32210916"
 
 # Küçükburun Tepesi
 
-Kahramanmaraş'ta bulunan Küçükburun Tepesi, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu tepe, khong 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Küçükburun Tepesi, ziyaretçiler için bir doğa cenneti sunar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin eteklerinde, yeşilin verschillileri bir manzara sunan ormanlar bulunur. Bu ormanlar, birçok hayvanın yuvalandığı bir yer olarak bilinir.
+Kahramanmaraş'ta bulunan Küçükburun Tepesi, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. Küçükburun Tepesi, ziyaretçiler için bir doğa cenneti sunar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin eteklerinde, yeşilin verschillileri bir manzara sunan ormanlar bulunur. Bu ormanlar, birçok hayvanın yuvalandığı bir yer olarak bilinir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Küçükburun Tepesi'ni ziyaret etmek, birçok ziyaretçiçin bir doğa cenneti 
 ## İlginç Bilgiler
 
 - Küçükburun Tepesi, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Tepenin eteklerinde, birçok farklı bitki ve hayvan türü bulunur.
 - Küçükburun Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmıştır.
 - Bu bölgede, birçok farklı mevsimde ziyaret edilebilir.

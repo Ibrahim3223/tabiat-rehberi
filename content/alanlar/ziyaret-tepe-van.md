@@ -47,9 +47,9 @@ Ziyaret Tepe'nin çevresel ilişkileri, Van Gölü ve çevresindeki dağlık ala
 
 ## Flora ve Fauna
 
-Ziyaret Tepe, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü: İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle donanır. 
-Yaban Hayatı: Dağ keçileri ve yaban keçileri gibi memeliler, kartallar ve doğanların yuvalarına ev sahipliği yapar. 
+Ziyaret Tepe, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü: İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle donanır.
+Yaban Hayatı: Dağ keçileri ve yaban keçileri gibi memeliler, kartallar ve doğanların yuvalarına ev sahipliği yapar.
 Ekolojik Değer: Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak için çok önemlidir.
 
 ## Ziyaret Bilgileri

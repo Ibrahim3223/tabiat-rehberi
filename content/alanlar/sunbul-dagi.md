@@ -32,7 +32,7 @@ Hakkari'nin dağlık arazisinde, Türkiye'nin doğu ucunda yer alan Sünbül Da�
 
 ## Tarihçe
 
-Hakkari bölgesinde yer alan Sünbül Dağı, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarih boyunca Urartular, Medler, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisinde kalmıştır. Doğal güzellikleri ve stratejik konumuyla, Sünbül Dağı ve çevresi, insan yerleşimlerinin ve iya yollarının önemli bir kavşak noktası olarak görev yapmıştır.
+Hakkari bölgesinde yer alan Sünbül Dağı, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarih boyunca Urartular, Medler, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisinde kalmıştır. Doğal güzellikleri ve stratejik konumuyla, Sünbül Dağı ve çevresi, insan yerleşimlerinin ve iya yollarının önemli bir kavşak noktası olarak görev yapmıştır.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. Bu alanlar, sadece doğal güzellikleri ve biyolojik çeşitliliğiyle değil, aynı zamanda kültürel ve tarihi zenginlikleriyle de ön plana çıkar. Yaylacılık, hayvancılık ve ticaret yolları, bu doğal alanların insan yaşamıyla olan bağlantısını güçlendirir. Sünbül Dağı da, bu bağlamda, bölgenin tarihi ve kültürel dokusuna önemli katkılar sunan bir doğal alan olarak dikkat çeker.
 

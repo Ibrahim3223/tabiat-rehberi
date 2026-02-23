@@ -28,7 +28,7 @@ wikidata_id: "Q31513425"
 
 # Kombuz Tepesi
 
-Kombuz Tepesi, Kahramanmaraş'ın güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, ziyaretçilerini doğal güzelliği ile büyülemeye hazırlanıyor. Kombuz Tepesi, Akdeniz Bölgesi'nin zengin ekosistemini deneyimlemek isteyenler için ideal bir destinasyon. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve yaban hayatı bulunmakta. Bu bölge, doğa severlerin ilgisini çekecek bir güzelliğe sahip.
+Kombuz Tepesi, Kahramanmaraş'ın güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, ziyaretçilerini doğal güzelliği ile büyülemeye hazırlanıyor. Kombuz Tepesi, Akdeniz Bölgesi'nin zengin ekosistemini deneyimlemek isteyenler için ideal bir destinasyon. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve yaban hayatı bulunmakta. Bu bölge, doğa severlerin ilgisini çekecek bir güzelliğe sahip.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kombuz Tepesi'ni ziyaret etmek, doğa severler için ideal bir deneyim. Bu bölg
 
 ## İlginç Bilgiler
 
-- Kombuz Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin etrafında, çeşitli bitki türleri ve yaban hayatı bulunmakta.
 - Kombuz Tepesi, Akdeniz Bölgesi'nin zengin ekosistemini deneyimlemek isteyenler için ideal bir destinasyon.
 - Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunuyor.

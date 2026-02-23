@@ -28,7 +28,7 @@ wikidata_id: "Q31389924"
 
 # Elik Tepesi
 
-Elik Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan bir doğal alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılıyor. Bu alan, Samsun'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Elik Tepesi, ziyaretçilerine hem doğal güzellikleri hem de bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor.
+Elik Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan bir doğal alan olarak dikkat çekiyor. Bu alan, Samsun'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Elik Tepesi, ziyaretçilerine hem doğal güzellikleri hem de bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Elik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgede yaşayan farklı 
 
 ## Coğrafya
 
-Elik Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan bir doğal alan olarak coğrafi açıdan da büyük bir önem taşıyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede çeşitli bitki türleri ve fauna bulunur. Elik Tepesi'nin coğrafi yapısı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Elik Tepesi, Samsun'un coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Elik Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan bir doğal alan olarak coğrafi açıdan da büyük bir önem taşıyor. Elik Tepesi'nin coğrafi yapısı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Elik Tepesi, Samsun'un coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

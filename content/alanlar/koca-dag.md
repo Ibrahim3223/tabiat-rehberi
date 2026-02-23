@@ -52,7 +52,7 @@ Bölgenin çevresel ilişkileri açısından bakıldığında, "Koca Dağ"ın ko
 
 ## Flora ve Fauna
 
-Koca Dağ, step bitki örtüsü ve bozkırın hâkim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbahar aylarında, dağ yamaçları rengârenk çiçeklerle donanır ve kuraklığa adapte olmuş türler hayat bulur. 
+Koca Dağ, step bitki örtüsü ve bozkırın hâkim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbahar aylarında, dağ yamaçları rengârenk çiçeklerle donanır ve kuraklığa adapte olmuş türler hayat bulur.
 
 Dağın yükseklik zonalarında, alpin flora hakimdir. Bu bölgelerde, çam ve ardıç gibi iğne yapraklı ağaçlar ve çeşitli otsu bitkiler bulunur. Sonbaharda, göç eden kuşlar dağları geçit olarak kullanır ve bu dönemde dağların havası, çeşitli kuş türlerinin sesleriyle dolar.
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228087"
 
 # Meryemana
 
-Meryemana, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık geniş bir yeşil alan olarak karşımıza çıkıyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın kalbinde bir macera bekliyor. Meryemana, tarihi geçmişi ve coğrafi özellikleri ile birleşince, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu milli park, zengin flora ve fauna çeşitliliği ile doğa severlerin gözdesi haline gelmiş durumda.
+Meryemana, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık geniş bir yeşil alan olarak karşımıza çıkıyor. Meryemana, tarihi geçmişi ve coğrafi özellikleri ile birleşince, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu milli park, zengin flora ve fauna çeşitliliği ile doğa severlerin gözdesi haline gelmiş durumda.
 
 ## Tarihçe
 

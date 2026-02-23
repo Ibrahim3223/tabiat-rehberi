@@ -28,7 +28,7 @@ wikidata_id: "Q31387776"
 
 # Boynuzlu Tepe
 
-Boynuzlu Tepe, Doğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Erzurum'un merkezinde yer alan bu tepe, yaklaşık 140 hektarlık alanı ile şehrin en büyük yeşil alanlarından biridir. 200 futbol sahası büyüklüğünde olan bu alan, hem yerel halkın hem de turistlerin ilgi odağıdır. Tepe, şehir merkezine yakın konumuyla kolay ulaşılabilir ve ziyaretçilere geniş bir görüş açısı sunar. Boynuzlu Tepe, doğa severler için ideal bir yer olup, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+Boynuzlu Tepe, Doğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Erzurum'un merkezinde yer alan bu tepe, yaklaşık 140 hektarlık alanı ile şehrin en büyük yeşil alanlarından biridir. 200 futbol sahası büyüklüğünde olan bu alan, hem yerel halkın hem de turistlerin ilgi odağıdır. Tepe, şehir merkezine yakın konumuyla kolay ulaşılabilir ve ziyaretçilere geniş bir görüş açısı sunar.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Boynuzlu Tepe, Erzurum'un merkezinde yer alan bir tepe olup, şehrin coğrafi ya
 
 ## Flora ve Fauna
 
-Boynuzlu Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepe, farklı mevsimlerde ziyaret edildiğinde, ziyaretçilere farklı bir güzellik sunar. İlkbahar ve yaz aylarında, tepe yeşillenir ve çeşitli çiçekler açar. Sonbahar ve kış aylarında ise, tepe beyaz bir örtüye bürünür ve ziyaretçilere farklı bir güzellik sunar. Boynuzlu Tepe, doğa severler için ideal bir yer olup, ziyaretçilere geniş bir hareket alanı sunar. Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker ve ziyaretçilere geniş bir görüş açısı sunar.
+ Tepe, farklı mevsimlerde ziyaret edildiğinde, ziyaretçilere farklı bir güzellik sunar. İlkbahar ve yaz aylarında, tepe yeşillenir ve çeşitli çiçekler açar. Sonbahar ve kış aylarında ise, tepe beyaz bir örtüye bürünür ve ziyaretçilere farklı bir güzellik sunar. Boynuzlu Tepe, doğa severler için ideal bir yer olup, ziyaretçilere geniş bir hareket alanı sunar.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Boynuzlu Tepe, yılın her dönemi ziyaret edilebilir. İlkbahar ve yaz ayların
 
 - Boynuzlu Tepe, Erzurum'un en büyük yeşil alanlarından biridir.
 - Tepe, yaklaşık 140 hektarlık alanı ile şehrin en büyük yeşil alanlarından biridir.
-- Boynuzlu Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Tepe, yılın her dönemi ziyaret edilebilir.
 - Boynuzlu Tepe, doğa severler için ideal bir yerdir.

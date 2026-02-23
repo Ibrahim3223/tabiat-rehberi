@@ -29,7 +29,7 @@ wikidata_id: "Q31507177"
 
 # Şehitler Dağı
 
-Türkiye'nin farklı bölgelerinde çeşitli dağlar ve tepeler bulunmaktadır. "Şehitler Dağı" olarak bilinen bu nokta, Türkiye'nin coğrafi haritasında önemli bir yere sahiptir. Türkiye'nin çeşitli illerinde ve ilçelerinde bulunan "Şehitler Dağı" isimli yerler, genellikle tarihi ve coğrafi açıdan dikkat çekmektedir. Bu dağlar, Türkiye'nin zengin doğası ve histórik geçmişi hakkında bilgi vermektedir.
+Türkiye'nin farklı bölgelerinde çeşitli dağlar ve tepeler bulunmaktadır. "Şehitler Dağı" olarak bilinen bu nokta, Türkiye'nin coğrafi haritasında önemli bir yere sahiptir. Türkiye'nin çeşitli illerinde ve ilçelerinde bulunan "Şehitler Dağı" isimli yerler, genellikle tarihi ve coğrafi açıdan dikkat çekmektedir. Bu dağlar, Türkiye'nin zengin doğası ve tarihi geçmişi hakkında bilgi vermektedir.
 
 ## Tarihçe
 

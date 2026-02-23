@@ -32,7 +32,7 @@ Artvin'in büyüleyici dağ manzaraları arasında yer alan Koç Dağı, doğa s
 
 ## Tarihçe
 
-Artvin'in dağlık bölgesinde yer alan Koç Dağı, tarihin sâu izlerini taşıyan bir coğrafyada bulunmaktadır. Bu bölge, tarih boyunca çeşitli uygarlıkların geçiş noktası olarak görev görmüştür. Antik Çağ'da Kolheti Krallığı'nın bir parçası olan Artvin, daha sonra Roma ve Bizans İmparatorluğu'nun egemenliği altına girmiştir. Orta Çağ'da Gürcü Krallığı'nın bir parçası olan bölge, 16. yüzyılda Osmanlı İmparatorluğu'nun hakimiyetine geçmiştir.
+Artvin'in dağlık bölgesinde yer alan Koç Dağı, tarihin derin izlerini taşıyan bir coğrafyada bulunmaktadır. Bu bölge, tarih boyunca çeşitli uygarlıkların geçiş noktası olarak görev görmüştür. Antik Çağ'da Kolheti Krallığı'nın bir parçası olan Artvin, daha sonra Roma ve Bizans İmparatorluğu'nun egemenliği altına girmiştir. Orta Çağ'da Gürcü Krallığı'nın bir parçası olan bölge, 16. yüzyılda Osmanlı İmparatorluğu'nun hakimiyetine geçmiştir.
 
 Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli bir rol oynamıştır. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekolojik dengesini korurken, aynı zamanda insanların geçim kaynaklarını da sağlamıştır. Ticaret yolları üzerinde yer alan bu bölgeler, kültürel alışveriş ve etkileşime de imkan tanımıştır. Koç Dağı da, bu bağlamda, bölgenin zengin tarihi ve kültürel mirasına katkıda bulunmuştur. İnsanların bu doğal alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda sosyal ve kültürel boyutlara da sahiptir. Bu nedenle, Koç Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel kimliğinin önemli bir parçasını oluşturmaktadır.
 

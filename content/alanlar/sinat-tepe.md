@@ -28,7 +28,7 @@ wikidata_id: "Q31390444"
 
 # Sınat Tepe
 
-Sınat Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çeker. Bu bölge, coğrafi ve tarihi açıdan önemli bir değer sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sınat Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu tepe, özellikle tarih meraklıları ve doğa severler için önemli bir destinasyon olarak kabul edilir. Konya'nın merkezi ile Sınat Tepe arasındaki mesafe, şehrin merkezinden kolayca ulaşılabilir bir konumdadır.
+Sınat Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çeker. Bu bölge, coğrafi ve tarihi açıdan önemli bir değer sunar. Sınat Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu tepe, özellikle tarih meraklıları ve doğa severler için önemli bir destinasyon olarak kabul edilir. Konya'nın merkezi ile Sınat Tepe arasındaki mesafe, şehrin merkezinden kolayca ulaşılabilir bir konumdadır.
 
 ## Tarihçe
 

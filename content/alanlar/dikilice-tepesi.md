@@ -28,7 +28,7 @@ wikidata_id: "Q31388878"
 
 # Dikilice Tepesi
 
-Dikilice Tepesi, Kırklareli'nin Marmara Bölgesi'nde bulunan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir doğa harikası. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Dikilice Tepesi'ne tırmanırken, etrafını saran yemyeşil ormanlar ve vadiler, ziyaretçilerini büyülüyor. Tepenin zirvesine ulaştığınızda, karşılaştığınız manzara ise gerçekten nefes kesici. Kırklareli'nin birçok noktasını görebileceğiniz bu tepe, aynı zamanda bölgenin tarihi ve kültürel önemini de vurguluyor.
+ Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Dikilice Tepesi'ne tırmanırken, etrafını saran yemyeşil ormanlar ve vadiler, ziyaretçilerini büyülüyor. Tepenin zirvesine ulaştığınızda, karşılaştığınız manzara ise gerçekten nefes kesici. Kırklareli'nin birçok noktasını görebileceğiniz bu tepe, aynı zamanda bölgenin tarihi ve kültürel önemini de vurguluyor.
 
 ## Tarihçe
 

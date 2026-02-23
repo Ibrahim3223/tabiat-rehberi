@@ -28,7 +28,7 @@ wikidata_id: "Q31385388"
 
 # Uludoruk Tepe
 
-Hakkari ilinin eşsiz doğal güzelliklerinden biri olan Uludoruk Tepe, ziyaretçilerini büyüleyen bir manzaraya sahip. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzellikleri ile dikkat çeken bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Uludoruk Tepe, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme fırsatı sunuyor.
+Hakkari ilinin eşsiz doğal güzelliklerinden biri olan Uludoruk Tepe, ziyaretçilerini büyüleyen bir manzaraya sahip. Doğal güzellikleri ile dikkat çeken bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Uludoruk Tepe, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

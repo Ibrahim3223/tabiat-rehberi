@@ -1,7 +1,7 @@
 ---
 title: "Halife Sultan Hazretleri Türbesi"
 date: "2026-01-10T05:41:33.607Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391770"
 
 # Halife Sultan Hazretleri Türbesi
 
-Halife Sultan Hazretleri Türbesi, Kastamonu'nun merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir turbe. Bu önemli tarihi yapı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve ziyaretçilerini büyüleyici bir atmosfer ile karşılıyor. Türbenin çevresinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunuyor ve bu alan, hem yerel halk hem de ziyaretçiler için keyifli bir dinlenme ve gezi alanı sunuyor. Halife Sultan Hazretleri Türbesi, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Halife Sultan Hazretleri Türbesi, Kastamonu'nun merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir turbe. Bu önemli tarihi yapı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve ziyaretçilerini büyüleyici bir atmosfer ile karşılıyor. Halife Sultan Hazretleri Türbesi, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Halife Sultan Hazretleri Türbesi, yüzyıllar boyunca Kastamonu'nun önemli din
 
 ## Coğrafya
 
-Halife Sultan Hazretleri Türbesi, Kastamonu ilinin merkezinde, Karadeniz Bölgesi'nin doğal güzellikleri arasında yer alıyor. Türbe, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuş ve etrafı, bölgeye özgü bitkiler ve ağaçlar ile çevrili. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçiler için geniş bir gezi ve dinlenme alanı sunuyor. Türbenin etrafındaki coğrafya, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere, regionun doğal güzelliklerini keşfetme fırsatı veriyor. Karadeniz Bölgesi'nin iklimi, genellikle nemli ve yağışlı olarak tanımlanır ve bu, bölgenin flora ve faunasına özel bir zenginlik kazandırır. Halife Sultan Hazretleri Türbesi, bu doğal güzelliklerin içinde yer alıyor ve ziyaretçilere, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor.
+Halife Sultan Hazretleri Türbesi, Kastamonu ilinin merkezinde, Karadeniz Bölgesi'nin doğal güzellikleri arasında yer alıyor. Türbe, yaklaşık 140 hektarlık bir yeşil alan üzerinde kurulmuş ve etrafı, bölgeye özgü bitkiler ve ağaçlar ile çevrili. Türbenin etrafındaki coğrafya, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere, regionun doğal güzelliklerini keşfetme fırsatı veriyor. Karadeniz Bölgesi'nin iklimi, genellikle nemli ve yağışlı olarak tanımlanır ve bu, bölgenin flora ve faunasına özel bir zenginlik kazandırır. Halife Sultan Hazretleri Türbesi, bu doğal güzelliklerin içinde yer alıyor ve ziyaretçilere, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Halife Sultan Hazretleri Türbesi, Kastamonu'nun tarihi ve kültürel zenginlikl
 - Halife Sultan Hazretleri Türbesi, Kastamonu'nun en önemli tarihi yapılarından birisidir.
 - Türbe, yüzyıllar boyunca çeşitli restorasyonlar ve bakım çalışmalarına tabi tutulmuş.
 - Halife Sultan Hazretleri Türbesi, Karadeniz Bölgesi'nin doğal güzelliklerini içeriyor.
-- Türbenin etrafındaki yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Halife Sultan Hazretleri Türbesi, Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.

@@ -1,7 +1,7 @@
 ---
 title: "Oruç Bey Hamamı"
 date: "2026-01-09T23:03:07.977Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738823"
 
 # Oruç Bey Hamamı
 
-Bursa'nın Osmangazi ilçesinde yer alan Oruç Bey Hamamı, tarihi ve doğası ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile ziyaretçilerini büyülüyor. Bu güzel mekan, hem tarihi hem de doğal güzellikleri bir araya getiren ender yerlerden biri. Oruç Bey Hamamı, yıl boyunca birçok ziyaretçi tarafından tercih ediliyor ve misafirlerine unutulmaz anlar yaşatıyor.
+Bursa'nın Osmangazi ilçesinde yer alan Oruç Bey Hamamı, tarihi ve doğası ile dikkat çekiyor. Bu güzel mekan, hem tarihi hem de doğal güzellikleri bir araya getiren ender yerlerden biri. Oruç Bey Hamamı, yıl boyunca birçok ziyaretçi tarafından tercih ediliyor ve misafirlerine unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Oruç Bey Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor ve Marmara Bölge
 
 ## Flora ve Fauna
 
-Oruç Bey Hamamı, zengin bir flora ve fauna ile dikkat çekiyor. Mekan, çeşitli bitki türleri ile süslü ve bu bitki türleri, ziyaretçilerine unutulmaz bir deneyim sunuyor. Oruç Bey Hamamı'nın flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor ve bu özellik, mekanın her mevsim farklı bir güzelliğe sahip olmasını sağlıyor. Mekanda, birçok canlı yaşadığı biliniyor ve bu canlılar, ziyaretçilerine mekanın doğal güzelliklerini gösteriyor.
+Oruç Bey Hamamı, zengin bir flora ve fauna ile dikkat çekiyor. Oruç Bey Hamamı'nın flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor ve bu özellik, mekanın her mevsim farklı bir güzelliğe sahip olmasını sağlıyor. Mekanda, birçok canlı yaşadığı biliniyor ve bu canlılar, ziyaretçilerine mekanın doğal güzelliklerini gösteriyor.
 
 ## Ziyaret Bilgileri
 

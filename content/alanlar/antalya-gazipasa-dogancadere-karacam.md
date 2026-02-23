@@ -30,7 +30,7 @@ Antalya-Gazipaşa-Dogancadere Karacam Milli Parkı, tarihi geçmişi ile dikkat 
 
 ## Coğrafya
 
-Antalya-Gazipaşa-Dogancadere Karacam Milli Parkı, coğrafi konumu itibariyle Akdeniz Bölgesi'nin en özel doğal güzelliklerinden biri. Parkın konumu, Antalya ilinin Gazipaşa ilçesinde bulunuyor. Bu alan, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklimi, Akdeniz iklimi özellikleri gösteriyor ve ziyaretçiler için yıl boyunca ziyaret edilebilir bir alan sunuyor. Parkın çevresi, doğal güzelliği ile dikkat çekiyor ve ziyaretçiler, bu alanda çeşitli doğa aktivitelerini gerçekleştirebiliyor.
+Antalya-Gazipaşa-Dogancadere Karacam Milli Parkı, coğrafi konumu itibariyle Akdeniz Bölgesi'nin en özel doğal güzelliklerinden biri. Parkın konumu, Antalya ilinin Gazipaşa ilçesinde bulunuyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İklimi, Akdeniz iklimi özellikleri gösteriyor ve ziyaretçiler için yıl boyunca ziyaret edilebilir bir alan sunuyor. Parkın çevresi, doğal güzelliği ile dikkat çekiyor ve ziyaretçiler, bu alanda çeşitli doğa aktivitelerini gerçekleştirebiliyor.
 
 ## Flora ve Fauna
 

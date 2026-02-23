@@ -1,7 +1,7 @@
 ---
 title: "Alişir-Beşir-Nezir Gazi Türbesi"
 date: "2026-01-10T05:01:50.627Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391469"
 
 # Alişir-Beşir-Nezir Gazi Türbesi
 
-Alişir-Beşir-Nezir Gazi Türbesi, İzmir'in Bornova ilçesinde yer alan tarihsel ve kültürel öneme sahip bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve Ege Bölgesi'nin önemli tarihi mekanlarından biridir. Türbe, bölgenin zengin tarihi ve kültürel mirasını yansıtan önemli bir yapıdır. Alişir-Beşir-Nezir Gazi Türbesi, ziyaretçilerine tarihin sayfalarını keşfetme fırsatı sunar.
+Alişir-Beşir-Nezir Gazi Türbesi, İzmir'in Bornova ilçesinde yer alan tarihsel ve kültürel öneme sahip bir alandır. Türbe, bölgenin zengin tarihi ve kültürel mirasını yansıtan önemli bir yapıdır. Alişir-Beşir-Nezir Gazi Türbesi, ziyaretçilerine tarihin sayfalarını keşfetme fırsatı sunar.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390887"
 
 # Yavşancık Tepesi
 
-Yavşancık Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinin sınırları içerisinde yer alan doğal bir güzelliktir. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Yavşancık Tepesi, ziyaretçilerine hem doğal güzelliğini hem de tarihi geçmişini sunar. Bu tepe, çevredekilerin yaşamında önemli bir yere sahiptir. Yavşancık Tepesi, yıl boyunca çeşitli mevsimlerle karşılaşıp, her mevsim farklı bir güzelliğe bürünür. İlkbaharın başlangıcında, çiçeklerin açmasıylagether, sonbaharın renk cümbüşüyle, kışın kar manzaralarıyla ve yazın yeşilin hakimiyetiyle her daim ziyaretçilerini büyüler.
+Yavşancık Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinin sınırları içerisinde yer alan doğal bir güzelliktir. Yavşancık Tepesi, ziyaretçilerine hem doğal güzelliğini hem de tarihi geçmişini sunar. Bu tepe, çevredekilerin yaşamında önemli bir yere sahiptir. Yavşancık Tepesi, yıl boyunca çeşitli mevsimlerle karşılaşıp, her mevsim farklı bir güzelliğe bürünür. İlkbaharın başlangıcında, çiçeklerin açmasıylagether, sonbaharın renk cümbüşüyle, kışın kar manzaralarıyla ve yazın yeşilin hakimiyetiyle her daim ziyaretçilerini büyüler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yavşancık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyet
 
 ## Coğrafya
 
-Yavşancık Tepesi, Yozgat ilinin coğrafi yapısını oluşturan önemli bir unsurdur. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Yavşancık Tepesi, yaklaşık 140 hektarlık alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin etrafı, çeşitli bitkiler ve ağaçlarla kaplıdır. Bu bitkiler, mevsimlere göre farklı renklerde açarlar ve tepenin güzelliğini artırır. Yavşancık Tepesi, yıl boyunca farklı iklim koşullarına sahiptir. Kışın karla kaplanan tepe, ilkbaharın başlangıcında çiçeklerle donanır. Sonbaharda renk cümbüşü yaşarken, yazın yeşilin hakimiyeti görülür. Yavşancık Tepesi, coğrafi konumu itibariyle, ziyaretçilerine farklı deneyimler sunar.
+Yavşancık Tepesi, Yozgat ilinin coğrafi yapısını oluşturan önemli bir unsurdur. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Tepenin etrafı, çeşitli bitkiler ve ağaçlarla kaplıdır. Bu bitkiler, mevsimlere göre farklı renklerde açarlar ve tepenin güzelliğini artırır. Yavşancık Tepesi, yıl boyunca farklı iklim koşullarına sahiptir. Kışın karla kaplanan tepe, ilkbaharın başlangıcında çiçeklerle donanır. Sonbaharda renk cümbüşü yaşarken, yazın yeşilin hakimiyeti görülür. Yavşancık Tepesi, coğrafi konumu itibariyle, ziyaretçilerine farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

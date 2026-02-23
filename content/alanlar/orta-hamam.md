@@ -1,7 +1,7 @@
 ---
 title: "Orta Hamam"
 date: "2026-01-09T22:19:33.662Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738415"
 
 # Orta Hamam
 
-Orta Hamam, Karadeniz'in en güzel plajlarından biri olarak bilinir. Bolu ilinin merkezinde yer alan bu plaj, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Yeşil ve mavinin birleştiği bu noktada, doğanın güzelliği ve denizle karaların birleştiği bu noktada, ziyaretçiler için unutulmaz bir deneyim sunar. Plajın etrafında yer alan ağaçlar ve yeşillikler, ziyaretçilere serin ve huzurlu bir ortam sağlar.
+Orta Hamam, Karadeniz'in en güzel plajlarından biri olarak bilinir. Yeşil ve mavinin birleştiği bu noktada, doğanın güzelliği ve denizle karaların birleştiği bu noktada, ziyaretçiler için unutulmaz bir deneyim sunar. Plajın etrafında yer alan ağaçlar ve yeşillikler, ziyaretçilere serin ve huzurlu bir ortam sağlar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Orta Hamam plajının tarihi geçmişi, yüzyıllar boyunca devam eden bir hikay
 
 ## Coğrafya
 
-Orta Hamam plajı, Bolu ilinin merkezinde yer alır ve Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Plaj, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Yeşil ve mavinin birleştiği bu noktada, doğanın güzelliği ve denizle karaların birleştiği bu noktada, ziyaretçiler için unutulmaz bir deneyim sunar. Plajın etrafında yer alan ağaçlar ve yeşillikler, ziyaretçilere serin ve huzurlu bir ortam sağlar. Plajın iklimi, Karadeniz iklimi olarak bilinir ve bu bölge, yıl boyunca nemli ve serin bir hava sahiptir. Plajın çevresi, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna sunar.
+Orta Hamam plajı, Bolu ilinin merkezinde yer alır ve Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Yeşil ve mavinin birleştiği bu noktada, doğanın güzelliği ve denizle karaların birleştiği bu noktada, ziyaretçiler için unutulmaz bir deneyim sunar. Plajın etrafında yer alan ağaçlar ve yeşillikler, ziyaretçilere serin ve huzurlu bir ortam sağlar. Plajın iklimi, Karadeniz iklimi olarak bilinir ve bu bölge, yıl boyunca nemli ve serin bir hava sahiptir. Plajın çevresi, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Orta Hamam plajına ziyaretçiler, Bolu ilinin merkezinden kolayca ulaşabilir. 
 ## İlginç Bilgiler
 
 - Orta Hamam plajı, Karadeniz'in en güzel plajlarından biri olarak bilinir.
-- Plaj, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir.
+
 - Plajın etrafında yer alan ağaçlar ve yeşillikler, ziyaretçilere serin ve huzurlu bir ortam sağlar.
 - Plaj, Karadeniz Bölgesi'nin en önemli flora ve fauna alanlarından biri olarak bilinir.
 - Ziyaretçiler, plajda çeşitli etkinlikler yapabilir ve plajın etrafındaki ağaçlar ve yeşillikler, ziyaretçilere serin ve huzurlu bir ortam sağlar.

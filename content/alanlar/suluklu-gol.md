@@ -24,7 +24,7 @@ wikidata_id: "Q108228359"
 
 # Sülüklü Göl
 
-Bolu ilinin merkezinde yer alan Sülüklü Göl, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu güzel göl, Bolu ilinin doğal güzelliklerinden biri olup, yerli ve yabancı turistlerin ilgisini çekmektedir. Sülüklü Göl, çevresindeki ağaçlarla birlikte yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu alan, hem doğa severler hem de şehrin gürültüsünden kaçmak isteyenler için bir kaçış noktasıdır. Gölün kenarında yürüyüş yapmak, doğayı seyretme ve piknik yapma mümkündür. Sülüklü Göl, Bolu ilinin turizm potansiyelini artırmak için önemli bir yerdir.
+ Bu güzel göl, Bolu ilinin doğal güzelliklerinden biri olup, yerli ve yabancı turistlerin ilgisini çekmektedir. Bu alan, hem doğa severler hem de şehrin gürültüsünden kaçmak isteyenler için bir kaçış noktasıdır. Gölün kenarında yürüyüş yapmak, doğayı seyretme ve piknik yapma mümkündür. Sülüklü Göl, Bolu ilinin turizm potansiyelini artırmak için önemli bir yerdir.
 
 ## Tarihçe
 
@@ -32,7 +32,7 @@ Sülüklü Göl'ün tarihi geçmişi, yüzyıllar boyunca devam eden bir hikayey
 
 ## Coğrafya
 
-Sülüklü Göl, Bolu ilinin coğrafi yapısı içinde önemli bir yere sahiptir. Göl, 140 hektarlık yeşil alanıyla birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sülüklü Göl'ün coğrafi konumu, Karadeniz Bölgesi'nin iç kesimlerinde yer alır. Gölün etrafı, farklı türden ağaçlarla çevrili olup, bu ağaçlar gölün doğal güzelliğini artırmaktadır. Sülüklü Göl'ün iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak değişken bir yapıya sahiptir. Göl, yaz aylarında sıcaklıkların artmasıyla birlikte ziyaretçilerini çekmektedir. Kış aylarında ise, gölün etrafındaki ağaçlar karla kaplanarak bir kış masalı gibi görünmektedir. Sülüklü Göl'ün coğrafi yapısı, turizm için önemli bir çekim noktası olarak knownmaktadır.
+Sülüklü Göl, Bolu ilinin coğrafi yapısı içinde önemli bir yere sahiptir. Sülüklü Göl'ün coğrafi konumu, Karadeniz Bölgesi'nin iç kesimlerinde yer alır. Gölün etrafı, farklı türden ağaçlarla çevrili olup, bu ağaçlar gölün doğal güzelliğini artırmaktadır. Sülüklü Göl'ün iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak değişken bir yapıya sahiptir. Göl, yaz aylarında sıcaklıkların artmasıyla birlikte ziyaretçilerini çekmektedir. Kış aylarında ise, gölün etrafındaki ağaçlar karla kaplanarak bir kış masalı gibi görünmektedir. Sülüklü Göl'ün coğrafi yapısı, turizm için önemli bir çekim noktası olarak knownmaktadır.
 
 ## Flora ve Fauna
 

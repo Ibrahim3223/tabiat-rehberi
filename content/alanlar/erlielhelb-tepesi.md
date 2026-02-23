@@ -28,7 +28,7 @@ wikidata_id: "Q31553695"
 
 # Erlielhelb Tepesi
 
-Erlielhelb Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde bulunan ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Erlielhelb Tepesi, ziyaretçilerine bölgeye özgü flora ve fauna çeşitliliği sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere bölge hakkında bilgi vermekte ve yerel halkın kültürünü tanıtmaktadır. Erlielhelb Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir destinasyon.
+Erlielhelb Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde bulunan ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Erlielhelb Tepesi, ziyaretçilerine bölgeye özgü flora ve fauna çeşitliliği sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere bölge hakkında bilgi vermekte ve yerel halkın kültürünü tanıtmaktadır. Erlielhelb Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir destinasyon.
 
 ## Tarihçe
 

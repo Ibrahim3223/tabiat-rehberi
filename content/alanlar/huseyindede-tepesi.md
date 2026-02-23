@@ -28,7 +28,7 @@ wikidata_id: "Q34875161"
 
 # Hüseyindede Tepesi
 
-Hüseyindede Tepesi, Erzurum'un doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezi bir konumunda yer alıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Hüseyindede Tepesi, hem doğa severler hem de tarihi yerleri keşfetmek isteyenler için ideal bir destinasyon.
+Hüseyindede Tepesi, Erzurum'un doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Hüseyindede Tepesi, hem doğa severler hem de tarihi yerleri keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Hüseyindede Tepesi, Erzurum'un coğrafi yapısına uygun olarak, dağlık ve en
 
 ## Flora ve Fauna
 
-Hüseyindede Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin eteklerinde, çeşitli bitki türleri bulunmakta. Mevsimsel değişimlere göre, burada farklı türlerde bitkiler bulunabiliyor. Bahar aylarında, tepede bulunan çiçekler, renkli bir manzara oluşturuyor. Fauna açısından da zengin olan Hüseyindede Tepesi, birçok hayvan türüne ev sahipliği yapıyor. Tepede, çeşitli kuş türleri, keçiler ve diğer yaban hayvanları bulunabiliyor.
+ Tepenin eteklerinde, çeşitli bitki türleri bulunmakta. Mevsimsel değişimlere göre, burada farklı türlerde bitkiler bulunabiliyor. Bahar aylarında, tepede bulunan çiçekler, renkli bir manzara oluşturuyor. Fauna açısından da zengin olan Hüseyindede Tepesi, birçok hayvan türüne ev sahipliği yapıyor. Tepede, çeşitli kuş türleri, keçiler ve diğer yaban hayvanları bulunabiliyor.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Hüseyindede Tepesi, ziyaretçilerini bekliyor. Buraya ulaşım, Erzurum şehir 
 
 - Hüseyindede Tepesi, Erzurum'un en yüksek noktalarından biri.
 - Tepede, çeşitli efsaneler ve rivayetler dolanan bir yer olarak bilinir.
-- Hüseyindede Tepesi, flora ve fauna açısından oldukça zengin bir bölge.
+
 - Tepenin etrafında, tarihi kalıntılar bulunmakta.
 - Hüseyindede Tepesi, panoramik bir görüş açısı sunuyor.

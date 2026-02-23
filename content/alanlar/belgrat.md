@@ -23,7 +23,7 @@ wikidata_id: "Q108227821"
 
 # Belgrat
 
-Belgrat, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Belgrat, ziyaretçilerini doğal güzellikleriyle büyüler ve onlar için unutulmaz bir deneyim sunar. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile Belgrat, doğa severler için bir cennettir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır ve bu bölge, doğa tutkunları için bir keşif alanıdır.
+Belgrat, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Belgrat, ziyaretçilerini doğal güzellikleriyle büyüler ve onlar için unutulmaz bir deneyim sunar. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile Belgrat, doğa severler için bir cennettir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır ve bu bölge, doğa tutkunları için bir keşif alanıdır.
 
 ## Tarihçe
 

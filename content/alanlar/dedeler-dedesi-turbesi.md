@@ -1,7 +1,7 @@
 ---
 title: "Dedeler Dedesi Türbesi"
 date: "2026-01-10T06:26:16.133Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391797"
 
 # Dedeler Dedesi Türbesi
 
-Dedeler Dedesi Türbesi, Tavas'ın merkezinde, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Tavas'ın tarihi ve doğal güzelliklerini bir araya getiren bu türbe, ziyaretçilerini Ege Bölgesi'nin zengin geçmişine davet ediyor. Etrafındaki tarihi yapılar ve doğal güzelliklerle birlikte, Dedeler Dedesi Türbesi, Tavas'ın önemli bir turizm merkezi haline geliyor.
+Dedeler Dedesi Türbesi, Tavas'ın merkezinde, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Tavas'ın tarihi ve doğal güzelliklerini bir araya getiren bu türbe, ziyaretçilerini Ege Bölgesi'nin zengin geçmişine davet ediyor. Etrafındaki tarihi yapılar ve doğal güzelliklerle birlikte, Dedeler Dedesi Türbesi, Tavas'ın önemli bir turizm merkezi haline geliyor.
 
 ## Tarihçe
 
@@ -45,12 +45,12 @@ Dedeler Dedesi Türbesi'nin etrafındaki geniş yeşil alanlar, ziyaretçilere E
 
 ## Ziyaret Bilgileri
 
-Dedeler Dedesi Türbesi'ni ziyaret etmek, Tavas'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için büyük bir fırsat sunuyor. Türbeye ulaşmak, Tavas'ın merkezinden kolayca sağlanabiliyor. Ziyaretçilerin, türbenin etrafındaki tarihi yapıları ve doğal güzellikleri keşfetmeleri öneriliyor. Dedeler Dedesi Türbesi, Ege Bölgesi'nin históri ve kültürel mirasını öğrenmek isteyenler için önemli bir destinasyon olarak, ziyaretçilerini Tavas'ın zengin geçmişine davet ediyor. Ziyaretçilerin, türbenin etrafındaki yeşil alanlarda doğa yürüyüşü yapmaları, bölgeyi keşfetmeleri ve Ege Bölgesi'nin karakteristik iklimini deneyimlemeleri öneriliyor.
+Dedeler Dedesi Türbesi'ni ziyaret etmek, Tavas'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için büyük bir fırsat sunuyor. Türbeye ulaşmak, Tavas'ın merkezinden kolayca sağlanabiliyor. Ziyaretçilerin, türbenin etrafındaki tarihi yapıları ve doğal güzellikleri keşfetmeleri öneriliyor. Dedeler Dedesi Türbesi, Ege Bölgesi'nin tarihi ve kültürel mirasını öğrenmek isteyenler için önemli bir destinasyon olarak, ziyaretçilerini Tavas'ın zengin geçmişine davet ediyor. Ziyaretçilerin, türbenin etrafındaki yeşil alanlarda doğa yürüyüşü yapmaları, bölgeyi keşfetmeleri ve Ege Bölgesi'nin karakteristik iklimini deneyimlemeleri öneriliyor.
 
 ## İlginç Bilgiler
 
 - Dedeler Dedesi Türbesi, Tavas'ın merkezinde yer alıyor.
-- Türbenin etrafındaki yeşil alanlar, yaklaşık 200 futbol sahası büyüklüğünde.
-- Dedeler Dedesi Türbesi, Ege Bölgesi'nin históri ve kültürel mirasını öğrenmek isteyenler için önemli bir destinasyon.
+
+- Dedeler Dedesi Türbesi, Ege Bölgesi'nin tarihi ve kültürel mirasını öğrenmek isteyenler için önemli bir destinasyon.
 - Türbenin etrafındaki tarihi yapılar, bölgenin tarihini ve kültürünü öğrenmek isteyenler için büyük bir fırsat sunuyor.
 - Dedeler Dedesi Türbesi, Tavas'ın önemli bir turizm merkezi haline geliyor.

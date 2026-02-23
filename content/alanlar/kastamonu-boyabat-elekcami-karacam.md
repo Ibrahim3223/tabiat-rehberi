@@ -1,7 +1,7 @@
 ---
 title: "Kastamonu-Boyabat-Elekcami Karacam"
 date: "2026-01-09T21:25:08.625Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Kastamonu"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227826"
 
 # Kastamonu-Boyabat-Elekcami Karacam
 
-Kastamonu-Boyabat-Elekcami Karacam milli parkı, Karadeniz Bölgesi'nin eşsiz doğal güzelliklerini sunan bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle kaplı. Burada, yaban hayatı gözlemleyerek, doğanın güzelliğini keşfedebilirsiniz. Milli parkın sunduğu yürüyüş parkurları, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Kastamonu-Boyabat-Elekcami Karacam milli parkı, Karadeniz Bölgesi'nin eşsiz doğal güzelliklerini sunan bir destinasyon. Burada, yaban hayatı gözlemleyerek, doğanın güzelliğini keşfedebilirsiniz. Milli parkın sunduğu yürüyüş parkurları, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

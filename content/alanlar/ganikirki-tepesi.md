@@ -28,7 +28,7 @@ wikidata_id: "Q31546501"
 
 # Ganikırki Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan Ganikırki Tepesi, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon teşkil eder. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası sunar. Ganikırki Tepesi, ziyaretçilerini doğayla baş başa bırakmakla kalmaz, aynı zamanda bölgenin tarihi ve kültürel zenginliklerine de göz atma fırsatı verir.
+Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan Ganikırki Tepesi, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon teşkil eder. Ganikırki Tepesi, ziyaretçilerini doğayla baş başa bırakmakla kalmaz, aynı zamanda bölgenin tarihi ve kültürel zenginliklerine de göz atma fırsatı verir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Ganikırki Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristi
 
 ## Flora ve Fauna
 
-Ganikırki Tepesi, flora ve fauna açısından oldukça zengindir. Bu doğal alan, çeşitli bitki türlerine ev sahipliği yapar ve mevsimsel değişimlere göre bu bitki türleri değişkenlik gösterir. Bahar aylarında, tepenin etekleri rengarenk çiçeklerle donanırken, yaz aylarında ise yeşilin farklı tonlarını sunar. Bölgede, ayrıca çeşitli yaban hayvanları da bulunur. Ganikırki Tepesi, bu zengin flora ve faunası ile birlikte, bölgenin ekolojik dengesinin korunmasına önemli katkılar sağlar.
+ Bu doğal alan, çeşitli bitki türlerine ev sahipliği yapar ve mevsimsel değişimlere göre bu bitki türleri değişkenlik gösterir. Bahar aylarında, tepenin etekleri rengarenk çiçeklerle donanırken, yaz aylarında ise yeşilin farklı tonlarını sunar. Bölgede, ayrıca çeşitli yaban hayvanları da bulunur. Ganikırki Tepesi, bu zengin flora ve faunası ile birlikte, bölgenin ekolojik dengesinin korunmasına önemli katkılar sağlar.
 
 ## Ziyaret Bilgileri
 

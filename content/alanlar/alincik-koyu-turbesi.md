@@ -1,7 +1,7 @@
 ---
 title: "Alıncıköyü Türbesi"
 date: "2026-01-10T05:31:49.730Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391392"
 
 # Alıncık Köyü Türbesi
 
-Alıncıköyü Türbesi, Kütahya'nın Altıntaş ilçesinde bulunan bir turizm merkezi. Bu bölge, Ege Bölgesi'nin önemli kültürel ve tarihi değerlerini barındırıyor. Türbe, köyün merkezinde yer alıyor ve histórik bir öneme sahip. Köyünüfusu yaklaşık 500 kişi ve bu bölge, özellikle yaz aylarında turizm açısından oldukça hareketli. Alıncıköyü Türbesi, 140 hektarlık bir alan üzerinde kurulu ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Köyün toplam alanı ise 250 hektar civarında.
+Alıncıköyü Türbesi, Kütahya'nın Altıntaş ilçesinde bulunan bir turizm merkezi. Bu bölge, Ege Bölgesi'nin önemli kültürel ve tarihi değerlerini barındırıyor. Türbe, köyün merkezinde yer alıyor ve tarihi bir öneme sahip. Köyünüfusu yaklaşık 500 kişi ve bu bölge, özellikle yaz aylarında turizm açısından oldukça hareketli. Köyün toplam alanı ise 250 hektar civarında.
 
 ## Tarihçe
 

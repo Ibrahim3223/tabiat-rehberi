@@ -1,7 +1,7 @@
 ---
 title: "Anonim Türbe 1"
 date: "2026-01-10T05:01:15.958Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391534"
 
 # Anonim Türbe 1
 
-Anonim Türbe 1, Ege Bölgesi'nin güneşli ve misafirperver ili Muğla'nın Milas ilçesinde yer alan bir plajdır. Bu plaj, doğal güzelliği ve tarihi geçmişiyle dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçiler için geniş bir alan sunar. Anonim Türbe 1, hem denize girerek hem de tarihi yapılarını keşfederek keyifli bir gün geçirmek isteyenler için ideal bir destinasyondur.
+Anonim Türbe 1, Ege Bölgesi'nin güneşli ve misafirperver ili Muğla'nın Milas ilçesinde yer alan bir plajdır. Bu plaj, doğal güzelliği ve tarihi geçmişiyle dikkat çekmektedir. Anonim Türbe 1, hem denize girerek hem de tarihi yapılarını keşfederek keyifli bir gün geçirmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

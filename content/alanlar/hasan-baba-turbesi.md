@@ -1,7 +1,7 @@
 ---
 title: "Hasan Baba Türbesi"
 date: "2026-01-10T07:41:40.270Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391245"
 
 # Hasan Baba Türbesi
 
-Eskişehir'in Beylikova ilçesinde yer alan Hasan Baba Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Hasan Baba Türbesi, Eskişehir'in önemli tarihi mekanlarından biri olarak kabul ediliyor ve her yıl çok sayıda ziyaretçi çekiyor. Tarihi geçmişi ve doğal güzelliği ile Hasan Baba Türbesi, Eskişehir'i ziyaret edenlerin görmeden dönmemesi gereken bir yer.
+Eskişehir'in Beylikova ilçesinde yer alan Hasan Baba Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor. Hasan Baba Türbesi, Eskişehir'in önemli tarihi mekanlarından biri olarak kabul ediliyor ve her yıl çok sayıda ziyaretçi çekiyor. Tarihi geçmişi ve doğal güzelliği ile Hasan Baba Türbesi, Eskişehir'i ziyaret edenlerin görmeden dönmemesi gereken bir yer.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hasan Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetl
 
 ## Coğrafya
 
-Hasan Baba Türbesi, Eskişehir'in Beylikova ilçesinde yer alıyor ve coğrafi olarak İç Anadolu Bölgesi'nde bulunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Hasan Baba Türbesi'nin coğrafi konumu, Eskişehir'in önemli tarihi ve doğal güzelliklerine yakınlığı ile dikkat çekiyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor ve ziyaretçilerine doğa ile iç içe bir deneyim sunuyor. Hasan Baba Türbesi'nin coğrafi konumu, bölgenin iklimini ve çevre koşullarını da etkiliyor. Bölge, karasal iklimin hüküm sürdüğü bir bölge ve ziyaretçileri, dört mevsim boyunca farklı hava koşulları ile karşılaşabiliyor.
+Hasan Baba Türbesi, Eskişehir'in Beylikova ilçesinde yer alıyor ve coğrafi olarak İç Anadolu Bölgesi'nde bulunuyor. Hasan Baba Türbesi'nin coğrafi konumu, Eskişehir'in önemli tarihi ve doğal güzelliklerine yakınlığı ile dikkat çekiyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor ve ziyaretçilerine doğa ile iç içe bir deneyim sunuyor. Hasan Baba Türbesi'nin coğrafi konumu, bölgenin iklimini ve çevre koşullarını da etkiliyor. Bölge, karasal iklimin hüküm sürdüğü bir bölge ve ziyaretçileri, dört mevsim boyunca farklı hava koşulları ile karşılaşabiliyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31536612"
 
 # Gemlik Tepesi
 
-Gemlik Tepesi, Kilis'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Gemlik Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Burada, zengin flora ve fauna çeşitliliğiyle karşılaşma mümkün. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Gemlik Tepesi, hem doğa severler hem de macera arayanlar için doğru adres.
+Gemlik Tepesi, Kilis'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Gemlik Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Burada, zengin flora ve fauna çeşitliliğiyle karşılaşma mümkün. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Gemlik Tepesi, hem doğa severler hem de macera arayanlar için doğru adres.
 
 ## Tarihçe
 

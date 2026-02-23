@@ -50,9 +50,9 @@ Doğal bir çevre olarak, Göz Adası'nın komşu alanlarla ve su kaynaklarıyla
 
 ## Flora ve Fauna
 
-Göz Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak, geçiş ikliminin etkisi altında karma ormanlar ve göçmen kuş rotasıyla dikkat çekiyor. 
+Göz Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak, geçiş ikliminin etkisi altında karma ormanlar ve göçmen kuş rotasıyla dikkat çekiyor.
 
-Bitki Örtüsü olarak, ada özellikle ilkbahar aylarında çiçeklerle kaplanıyor. Kıyı bitkileri, ada çevresindeki kayalık alanlarda ve kumluk plajlarda büyüyor. 
+Bitki Örtüsü olarak, ada özellikle ilkbahar aylarında çiçeklerle kaplanıyor. Kıyı bitkileri, ada çevresindeki kayalık alanlarda ve kumluk plajlarda büyüyor.
 
 Yaban Hayatı açısından, ada deniz kuşlarına ev sahipliği yapıyor. Göçmen kuşlar, sonbahar aylarında ada üzerinden geçiş yapıyor. Ada ekosisteminin izole popülasyonları, burada yaşayan canlıların birbirleriyle olan ilişkilerini etkiliyor.
 

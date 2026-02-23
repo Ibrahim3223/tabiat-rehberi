@@ -32,7 +32,7 @@ Erzurum'un doğusunda yer alan Hasanbaba Dağı, Türkiye'nin önemli coğrafi o
 
 ## Tarihçe
 
-Erzurum'un doğusunda yer alan Hasanbaba Dağı, tarihin sâu izleriyle dolu bir bölgenin parçası. Erzurum, binlerce yıllık bir geçmişe sahip, Urartular, Romalılar, Bizanslılar ve Selçuklular gibi çeşitli uygarlıkların etkisi altında kalmış bir şehirdir. Bu bölgedeki doğal alanlar, insan yerleşimlerinin ve ticaret yollarının oluşmasında önemli bir rol oynamıştır.
+Erzurum'un doğusunda yer alan Hasanbaba Dağı, tarihin derin izleriyle dolu bir bölgenin parçası. Erzurum, binlerce yıllık bir geçmişe sahip, Urartular, Romalılar, Bizanslılar ve Selçuklular gibi çeşitli uygarlıkların etkisi altında kalmış bir şehirdir. Bu bölgedeki doğal alanlar, insan yerleşimlerinin ve ticaret yollarının oluşmasında önemli bir rol oynamıştır.
 
 Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde, bu tür dağlık ve yaylaların tarihsel önemi büyüktür. Yaylacılık ve hayvancılık, bölgenin ekonomisinde önemli bir yer tutar. İnsanlar, bu doğal alanlarısummer mevsiminde hayvancılık için kullanırken, aynı zamanda ticaret yolları üzerinde stratejik noktalara da ev sahipliği yaparlar. Hasanbaba Dağı da, benzer şekilde, bölgenin coğrafi ve kültürel dokusuna katkıda bulunan önemli bir doğal alandır. Bu dağların eteklerinde ve zirvelerinde, insan faaliyetlerinin izlerini görme mümkündür.
 

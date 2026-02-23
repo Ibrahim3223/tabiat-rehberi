@@ -32,7 +32,7 @@ Konya'nın geniş ve verimli ovalarının ortasında, tarihi ve kültürel zengi
 
 ## Tarihçe
 
-Konya bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hititlerin, Friglerin ve Lidyalıların yerleşim yerleri olarak kullanılan bu bölge, daha sonra Roma ve Bizans'ın egemenliğine geçmiştir. İslamiyet'in yayılmasıyla birlikte, 11. yüzyılda Selçukluların kontrolüne giren Konya, önemli bir kültür ve ticaret merkezi haline gelmiştir.
+Konya bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hititlerin, Friglerin ve Lidyalıların yerleşim yerleri olarak kullanılan bu bölge, daha sonra Roma ve Bizans'ın egemenliğine geçmiştir. İslamiyet'in yayılmasıyla birlikte, 11. yüzyılda Selçukluların kontrolüne giren Konya, önemli bir kültür ve ticaret merkezi haline gelmiştir.
 
 Doğal güzellikleri ile bilinen Aygır Adası da, bu tarihsel zenginliğin bir parçasıdır. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve tarım yaptıkları önemli merkezler olarak görev yapmışlardır. Yaylacılık geleneği, bu bölgelerde yaşayan insanların ekonomilerini ve kültürlerini şekillendirmiştir. Ticaret yolları üzerinde bulunan bu alanlar, farklı uygarlıkların etkileşimine de tanıklık etmişlerdir.
 
@@ -50,12 +50,12 @@ Doğal kaynaklar açısından, Aygır Adası'nın çevresel ilişkileri önemlid
 
 ## Flora ve Fauna
 
-Aygır Adası, Konya'nın step bitki örtüsüne ve bozkır ekosistemine ev sahipliği yapan bir ada olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Aygır Adası, Konya'nın step bitki örtüsüne ve bozkır ekosistemine ev sahipliği yapan bir ada olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünde step türleri hakimiyetini sürdürürken, ilkbahar aylarında ada çiçeklerle kaplanıyor. Sonbaharda ise göç eden kuşlar adayı konaklama noktası olarak seçiyorlar. 
+Bitki örtüsünde step türleri hakimiyetini sürdürürken, ilkbahar aylarında ada çiçeklerle kaplanıyor. Sonbaharda ise göç eden kuşlar adayı konaklama noktası olarak seçiyorlar.
 
-Yaban hayatı açısından zengin bir çeşitlilik sunan ada, memelilerin, kuşların ve sürüngenlerin yaşam alanlarını barındırıyor. Deniz kuşları, adanın kıyılarında yuva yapıyor ve burada besleniyor. 
-Adanın ekolojik değeri, izole popülasyonları ve deniz kuşlarının yaşam alanlarını korumasından kaynaklanıyor. Bu nedenle, adanın korunması ve bảo tồn edilmesi büyük önem taşıyor.
+Yaban hayatı açısından zengin bir çeşitlilik sunan ada, memelilerin, kuşların ve sürüngenlerin yaşam alanlarını barındırıyor. Deniz kuşları, adanın kıyılarında yuva yapıyor ve burada besleniyor.
+Adanın ekolojik değeri, izole popülasyonları ve deniz kuşlarının yaşam alanlarını korumasından kaynaklanıyor. Bu nedenle, adanın korunması ve koruma tồn edilmesi büyük önem taşıyor.
 
 ## Ziyaret Bilgileri
 

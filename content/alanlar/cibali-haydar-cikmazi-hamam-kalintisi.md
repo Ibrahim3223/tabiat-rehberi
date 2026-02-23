@@ -1,7 +1,7 @@
 ---
 title: "Cibali Haydar Çıkmazı Hamam Kalıntısı"
 date: "2026-01-09T23:14:40.388Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738943"
 
 # Cibali Haydar Çıkmazı Hamam Kalıntısı
 
-Cibali Haydar Çıkmazı Hamam Kalıntısı, İstanbul'un tarihi dokusunu korumuş bir bölgede yer alan bir hamam kalıntısıdır. Fatih ilçesinde, Marmara Bölgesi'nin kalbinde bulunan bu tarihi eser, bölgeye gelen ziyaretçilerin ilgisini çekmektedir. 140 hektarlık bir alanın içinde yer alan bu hamam kalıntısı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tarihi yapı, bölgenin geçmişine ışık tutan önemli bir eser olarak görülüyor.
+Cibali Haydar Çıkmazı Hamam Kalıntısı, İstanbul'un tarihi dokusunu korumuş bir bölgede yer alan bir hamam kalıntısıdır. Fatih ilçesinde, Marmara Bölgesi'nin kalbinde bulunan bu tarihi eser, bölgeye gelen ziyaretçilerin ilgisini çekmektedir. Bu tarihi yapı, bölgenin geçmişine ışık tutan önemli bir eser olarak görülüyor.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Cibali Haydar Çıkmazı Hamam Kalıntısı, ziyaretçilere bölgenin tarihi ve 
 
 - Cibali Haydar Çıkmazı Hamam Kalıntısı, yüzyıllar önce inşa edilmiş bir hamamdır.
 - Bölgede, çeşitli tarihi yapılar ve anıtlar yer alıyor.
-- Hamam kalıntısı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Bölgede, çeşitli bitki türleri ve hayvanlar yaşadığından, bir ekosistemi temsil ediyor.
 - Cibali Haydar Çıkmazı Hamam Kalıntısı, bölgenin tarihi ve kültürel geçmişine ışık tutuyor.

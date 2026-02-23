@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","gözlem","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kocatarla Tepe","caption":"Kocatarla Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocatarla%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390240","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin gizli hazinelerinden biri olan Kocatarla Tepe, ziyaretçilerini tarihin sâuına davet ediyor."
+description: "İç Anadolu Bölgesi'nin gizli hazinelerinden biri olan Kocatarla Tepe, ziyaretçilerini tarihin derinına davet ediyor."
 keywords: ["Kocatarla Tepe","İç Anadolu Bölgesi","tarih","doğa","gezi","tepe","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390240"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390240"
 
 # Kocatarla Tepe
 
-Kocatarla Tepe, İç Anadolu Bölgesi'nin geniş düzlüklerinde yükselen bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini geniş bir manzara ile karşılıyor. 200 futbol sahası büyüklüğünde olan bu alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Kocatarla Tepe'nin eteklerinde çeşitli bitki türleri ve zengin fauna encontrado, bu bölgeyi bir doğa cenneti haline getiriyor. Ziyaretçiler, bu tepeye çıkarak hem tarihin sâuına hem de doğanın güzelliğine tanıklık edebiliyorlar.
+Kocatarla Tepe, İç Anadolu Bölgesi'nin geniş düzlüklerinde yükselen bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve ziyaretçilerini geniş bir manzara ile karşılıyor. 200 futbol sahası büyüklüğünde olan bu alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Kocatarla Tepe'nin eteklerinde çeşitli bitki türleri ve zengin fauna encontrado, bu bölgeyi bir doğa cenneti haline getiriyor. Ziyaretçiler, bu tepeye çıkarak hem tarihin derinına hem de doğanın güzelliğine tanıklık edebiliyorlar.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kocatarla Tepe, çeşitli bitki türleri ve zengin fauna ile kaplı durumda. Bu 
 
 ## Ziyaret Bilgileri
 
-Kocatarla Tepe, ziyaretçileri için bir çekim merkezi oluşturuyor. Bu tepe, hem tarihin sâuına hem de doğanın güzelliğine tanıklık etme fırsatı sunuyor. Ziyaretçiler, Kocatarla Tepe'ye çıkarak geniş bir manzara izleyebiliyorlar ve bu tepe, bir gözlem noktası olarak kullanılıyor. Kocatarla Tepe'ye gitmek için en iyi mevsim, ilkbahar ve sonbahar ayları olarak öneriliyor. Bu mevsimlerde, hava koşulları ziyaretçileri için daha uygun oluyor ve Kocatarla Tepe'nin güzelliği daha da fazla dikkat çekiyor. Ziyaretçilerin, Kocatarla Tepe'ye gitmeden önce, bu bölge hakkında yeterli bilgi sahibi olması öneriliyor.
+Kocatarla Tepe, ziyaretçileri için bir çekim merkezi oluşturuyor. Bu tepe, hem tarihin derinına hem de doğanın güzelliğine tanıklık etme fırsatı sunuyor. Ziyaretçiler, Kocatarla Tepe'ye çıkarak geniş bir manzara izleyebiliyorlar ve bu tepe, bir gözlem noktası olarak kullanılıyor. Kocatarla Tepe'ye gitmek için en iyi mevsim, ilkbahar ve sonbahar ayları olarak öneriliyor. Bu mevsimlerde, hava koşulları ziyaretçileri için daha uygun oluyor ve Kocatarla Tepe'nin güzelliği daha da fazla dikkat çekiyor. Ziyaretçilerin, Kocatarla Tepe'ye gitmeden önce, bu bölge hakkında yeterli bilgi sahibi olması öneriliyor.
 
 ## İlginç Bilgiler
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228166"
 
 # Eriklitepe
 
-Eriklitepe, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alan ve 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik sunuyor. Bu bölge, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor. Eriklitepe, coğrafi konumu itibariyle hem yerli hem de yabancı turistler için bir çekim merkezi haline gelmiştir. Burada, doğanın güzelliği ve doğal yaşamın zenginliği bir arada bulunuyor.
+ Bu bölge, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor. Eriklitepe, coğrafi konumu itibariyle hem yerli hem de yabancı turistler için bir çekim merkezi haline gelmiştir. Burada, doğanın güzelliği ve doğal yaşamın zenginliği bir arada bulunuyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Eriklitepe'yi ziyaret etmek, doğa severler için gerçek bir heyecan kaynağı.
 ## İlginç Bilgiler
 
 - Eriklitepe, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Eriklitepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Eriklitepe, yaban hayvanları için önemli bir yaşam alanıdır.
 - Eriklitepe, mevsimsel değişimlere bağlı olarak, farklı flora ve fauna çeşitliliğine sahiptir.
 - Eriklitepe, doğa severler ve bilim insanları için önemli bir araştırma ve gözlem alanıdır.

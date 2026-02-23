@@ -1,7 +1,7 @@
 ---
 title: "II.Yakup Çelebi Türbesi"
 date: "2026-01-10T06:20:32.467Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -37,7 +37,7 @@ II.Yakup Çelebi Türbesi, tarihsel geçmişi yüzyıllar öncesine dayanan bir 
 
 ## Coğrafya
 
-II.Yakup Çelebi Türbesi, Kütahya şehrinin merkezinde, 140 hektarlık bir alan içinde yer almaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, Kütahya'nın en büyük tarihi sitelerinden biridir. Türbenin bulunduğu bölge, Ege Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Kütahya, doğusunda Ankara, batısında Manisa, kuzeyinde Bursa ve güneyinde Afyonkarahisar illeriyle çevrilidir. II.Yakup Çelebi Türbesi, Kütahya'nın coğrafi konumu itibariyle, önemli bir ulaşım merkezi olarak da hizmet vermektedir. Türbenin etrafındaki bölge, tarihi yapılar, camiler, ve diğer kültürel merkezlerle çevrilidir ve Kütahya'nın tarihsel dokusunu yansıtmaktadır. Ayrıca, türbenin bulunduğu alan, şehrin en çok ziyaret edilen yerlerinden biridir ve Kütahya'nın turizm potansiyelini yüksek bir seviyede tutmaktadır.
+II.Yakup Çelebi Türbesi, Kütahya şehrinin merkezinde, 140 hektarlık bir alan içinde yer almaktadır. Türbenin bulunduğu bölge, Ege Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Kütahya, doğusunda Ankara, batısında Manisa, kuzeyinde Bursa ve güneyinde Afyonkarahisar illeriyle çevrilidir. II.Yakup Çelebi Türbesi, Kütahya'nın coğrafi konumu itibariyle, önemli bir ulaşım merkezi olarak da hizmet vermektedir. Türbenin etrafındaki bölge, tarihi yapılar, camiler, ve diğer kültürel merkezlerle çevrilidir ve Kütahya'nın tarihsel dokusunu yansıtmaktadır. Ayrıca, türbenin bulunduğu alan, şehrin en çok ziyaret edilen yerlerinden biridir ve Kütahya'nın turizm potansiyelini yüksek bir seviyede tutmaktadır.
 
 ## Flora ve Fauna
 

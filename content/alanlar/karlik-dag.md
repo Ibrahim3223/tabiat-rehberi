@@ -33,9 +33,9 @@ Sinop'un yeşille mavinin buluştuğu điểmelerinden biri olan Karlık Dağ, �
 
 ## Tarihçe
 
-Sinop bölgesinin tarihi, binlerce yıl öncesine kadar uzanmaktadır. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmıştır. Hitit, Pers ve Roma gibi medeniyetler, Sinop'un stratejik konumundan yararlanarak burada yerleşmiş ve ticaret yapmışlardır. Karlık Dağ gibi doğal alanlar, bu uygarlıkların yaşamında önemli bir rol oynamıştır. 
+Sinop bölgesinin tarihi, binlerce yıl öncesine kadar uzanmaktadır. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmıştır. Hitit, Pers ve Roma gibi medeniyetler, Sinop'un stratejik konumundan yararlanarak burada yerleşmiş ve ticaret yapmışlardır. Karlık Dağ gibi doğal alanlar, bu uygarlıkların yaşamında önemli bir rol oynamıştır.
 
-Bu tür doğal alanlar, Türkiye'de tarih boyunca insanların yaşamını sürdürmesi için hayati önem taşımıştır. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yaşayan insanların temel geçim kaynakları arasında yer almıştır. Ayrıca, tarihi ticaret yolları da souvent bu doğal güzelliklerin içinden geçerek, bölgeyi önemli bir kavşak haline getirmiştir. 
+Bu tür doğal alanlar, Türkiye'de tarih boyunca insanların yaşamını sürdürmesi için hayati önem taşımıştır. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yaşayan insanların temel geçim kaynakları arasında yer almıştır. Ayrıca, tarihi ticaret yolları da souvent bu doğal güzelliklerin içinden geçerek, bölgeyi önemli bir kavşak haline getirmiştir.
 
 İnsanların Karlık Dağ ile ilişkisi, sadece ekonomik faaliyetlerle sınırlı değildir. Bu doğal alanlar, aynı zamanda kültürel ve sosyal yaşamın bir parçasıdır. Yayla şenlikleri, folklorik etkinlikler ve geleneksel törenler, bu bölgelerde yaşayan insanların kimliklerini şekillendiren önemli unsurlardır. Karlık Dağ, Sinop'un zengin tarihi ve kültürel mirasının bir parçası olarak, ziyaretçilerini bu bölgeye çekmeye devam etmektedir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Tacü’n-Nisa Sultan Hatun Türbesi"
 date: "2026-01-10T05:31:41.259Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391361"
 
 # Tacü’n-Nisa Sultan Hatun Türbesi
 
-Tacü’n-Nisa Sultan Hatun Türbesi, İnegöl'de bulunan ve tarihi ile doğal güzelliğinin birleştiği bir mekân. Bu türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve 200 futbol sahası büyüklüğünde bir yeşil alana sahip. İnegöl'ün merkezinde yer alan bu türbe, ziyaretçilerini hem tarihi açıdan hem de doğal güzellikleri ile cezbediyor. 15. yüzyılda inşa edilen bu türbe, Osmanlı Dönemi'nin önemli eserlerinden biri olarak kabul ediliyor. İnegöl'ün tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Tacü’n-Nisa Sultan Hatun Türbesi, İnegöl'de bulunan ve tarihi ile doğal güzelliğinin birleştiği bir mekân. İnegöl'ün merkezinde yer alan bu türbe, ziyaretçilerini hem tarihi açıdan hem de doğal güzellikleri ile cezbediyor. 15. yüzyılda inşa edilen bu türbe, Osmanlı Dönemi'nin önemli eserlerinden biri olarak kabul ediliyor. İnegöl'ün tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tacü’n-Nisa Sultan Hatun Türbesi, 15. yüzyılda inşa edildi. Osmanlı Dön
 
 ## Coğrafya
 
-Tacü’n-Nisa Sultan Hatun Türbesi, İnegöl'ün merkezinde yer alıyor. İnegöl, Bursa ilinin bir ilçesi ve Marmara Bölgesi'nde bulunuyor. Türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve 200 futbol sahası büyüklüğünde bir yeşil alana sahip. İnegöl'ün coğrafi konumu, türbenin inşa edilmesinde önemli bir rol oynamış. İnegöl'ün iklimi, karasal iklim özellikleri taşıyor. Kışları soğuk ve yağışlı, yazları ise sıcak ve kurak geçiyor. Türbenin bulunduğu alan, İnegöl'ün şehir merkezine yakın bir konumda yer alıyor. Şehir merkezinden yürüyere veya toplu taşıma araçları ile kolayca ulaşılabilir.
+Tacü’n-Nisa Sultan Hatun Türbesi, İnegöl'ün merkezinde yer alıyor. İnegöl, Bursa ilinin bir ilçesi ve Marmara Bölgesi'nde bulunuyor. İnegöl'ün coğrafi konumu, türbenin inşa edilmesinde önemli bir rol oynamış. İnegöl'ün iklimi, karasal iklim özellikleri taşıyor. Kışları soğuk ve yağışlı, yazları ise sıcak ve kurak geçiyor. Türbenin bulunduğu alan, İnegöl'ün şehir merkezine yakın bir konumda yer alıyor. Şehir merkezinden yürüyere veya toplu taşıma araçları ile kolayca ulaşılabilir.
 
 ## Flora ve Fauna
 

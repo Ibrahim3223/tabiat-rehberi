@@ -36,7 +36,7 @@ Mersin'in zengin tarihi, Yozgat İni gibi doğal alanların önemli bir parças�
 
 Doğal güzellikleri ve jeolojik oluşumları ile dikkat çeken Yozgat İni, Türkiye'deki diğer jeoparklar gibi, ülkenin coğrafi çeşitliliğini ve doğal zenginliğini gözler önüne seriyor. Türkiye'nin farklı bölgelerinde yer alan bu doğal alanlar, geçmişte insanların yaşamlarını sürdürdüğü, yaylacılık ve hayvancılık yaptığı, ticaret yolları üzerinde önemli birer durak olarak hizmet vermiştir.
 
-Yozgat İni ve benzeri doğal alanlar, insanlık tarihini anlamamız ve coğrafi çeşitliliğimizi korumamız açısından büyük önem taşıyor. Bu alanların korunması ve gelecek nesiller için bảolanması, Türkiye'nin doğal mirasını yaşatma ve zenginleştirmek için hayati öneme sahip.
+Yozgat İni ve benzeri doğal alanlar, insanlık tarihini anlamamız ve coğrafi çeşitliliğimizi korumamız açısından büyük önem taşıyor. Bu alanların korunması ve gelecek nesiller için korunması, Türkiye'nin doğal mirasını yaşatma ve zenginleştirmek için hayati öneme sahip.
 
 ## Coğrafya
 

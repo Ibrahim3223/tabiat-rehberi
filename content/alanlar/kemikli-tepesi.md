@@ -28,7 +28,7 @@ wikidata_id: "Q31558232"
 
 # Kemikli Tepesi
 
-Kemikli Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreyi koruma altına almak için özel olarak belirlenmiştir. Bu tepe, Ankara'nın kentleşen alanlarından uzaklaşmak isteyenler için ideal bir kaçış noktası sunar. Kemikli Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunmanın yanı sıra, Ankara'nın tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunar. Bu bölge, hem doğa severler hem de şehir hayatından kaçmak isteyenler için bir sığınak görevi görür.
+Kemikli Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, Ankara'nın kentleşen alanlarından uzaklaşmak isteyenler için ideal bir kaçış noktası sunar. Kemikli Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunmanın yanı sıra, Ankara'nın tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunar. Bu bölge, hem doğa severler hem de şehir hayatından kaçmak isteyenler için bir sığınak görevi görür.
 
 ## Tarihçe
 

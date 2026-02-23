@@ -29,7 +29,7 @@ wikidata_id: "Q31386948"
 
 # Tap Tepe
 
-Tap Tepe, Kars ilinin coğrafi ve tarihi güzellikleri ile dikkat çeken bir bölgedir. 140 hektarlık bir alanı kapsayan Tap Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu bölge, hem doğal güzellikleri hem de tarihi significance açısından ziyaretçilerini cezbeden bir yerdir. Kars'ın merkezi ile Tap Tepe arasında uzun bir mesafelik bir mesafe bulunmaktadır. Bu mesafe, araç ile yaklaşık 20 dakika sürmektedir. Tap Tepe, ziyaretçilerine hem doğa yürüyüşü hem de tarihi keşif imkanı sunmaktadır.
+Tap Tepe, Kars ilinin coğrafi ve tarihi güzellikleri ile dikkat çeken bir bölgedir. Bu bölge, hem doğal güzellikleri hem de tarihi significance açısından ziyaretçilerini cezbeden bir yerdir. Kars'ın merkezi ile Tap Tepe arasında uzun bir mesafelik bir mesafe bulunmaktadır. Bu mesafe, araç ile yaklaşık 20 dakika sürmektedir. Tap Tepe, ziyaretçilerine hem doğa yürüyüşü hem de tarihi keşif imkanı sunmaktadır.
 
 ## Tarihçe
 

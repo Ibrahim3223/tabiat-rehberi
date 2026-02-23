@@ -28,7 +28,7 @@ wikidata_id: "Q31390684"
 
 # Kelsivri Tepesi
 
-Kelsivri Tepesi, Amasya'nın güzide noktalarından biri olarak karşımıza çıkar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal güzelliklerinden biridir. Tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere yerel kültürü deneyimleme fırsatı sunar. Kelsivri Tepesi, özellikle bahar aylarında yeşilin farklı tonlarıyla kaplanır ve manzarası ile ziyaretçilerini büyüler. Burada yer alan yürüyüş yolları, doğa severlerin keyif alacağı bir ortam sağlar.
+Kelsivri Tepesi, Amasya'nın güzide noktalarından biri olarak karşımıza çıkar. Tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere yerel kültürü deneyimleme fırsatı sunar. Kelsivri Tepesi, özellikle bahar aylarında yeşilin farklı tonlarıyla kaplanır ve manzarası ile ziyaretçilerini büyüler. Burada yer alan yürüyüş yolları, doğa severlerin keyif alacağı bir ortam sağlar.
 
 ## Tarihçe
 

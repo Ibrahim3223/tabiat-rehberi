@@ -29,7 +29,7 @@ wikidata_id: "Q134728323"
 
 # Bin Tepeler Tümülüsü 53
 
-Bin Tepeler Tümülüsü 53, Ege Bölgesi'nin Manisa ilinin Salihli ilçesinde bulunan bir plajdır. Bu plaj, 140 hektarlık bir alanı kaplayan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bin Tepeler Tümülüsü 53, ziyaretçilerine geniş ve temiz bir plaj deneyimi sunar. Plajın etrafında çeşitli restoranlar ve tesisler bulunur, ziyaretçiler bu tesislerden yararlanabilir. Plajda güneşlenmek, denizde yüzme, su sporları gibi çeşitli aktiviteler yapılabilmektedir.
+Bin Tepeler Tümülüsü 53, Ege Bölgesi'nin Manisa ilinin Salihli ilçesinde bulunan bir plajdır. Bin Tepeler Tümülüsü 53, ziyaretçilerine geniş ve temiz bir plaj deneyimi sunar. Plajın etrafında çeşitli restoranlar ve tesisler bulunur, ziyaretçiler bu tesislerden yararlanabilir. Plajda güneşlenmek, denizde yüzme, su sporları gibi çeşitli aktiviteler yapılabilmektedir.
 
 ## Tarihçe
 

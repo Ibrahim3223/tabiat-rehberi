@@ -1,7 +1,7 @@
 ---
 title: "Adapazari-Hendek-Karadere Ebe Karacami"
 date: "2026-01-09T18:38:28.591Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227967"
 
 # Adapazari-Hendek-Karadere Ebe Karacami
 
-İç Anadolu Bölgesi'nin güzide yerlerinden biri olan Adapazari-Hendek-Karadere Ebe Karacami Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu muhteşem mekân, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içerisinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunuyor. 140 hektarlık bu yeşil cennet, ziyaretçilerine doğayla baş başa kalmak için mükemmel bir fırsat sunuyor.
+ Bu muhteşem mekân, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içerisinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunuyor. 140 hektarlık bu yeşil cennet, ziyaretçilerine doğayla baş başa kalmak için mükemmel bir fırsat sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adapazari-Hendek-Karadere Ebe Karacami Milli Parkı, tarihi geçmişiyle dikkat 
 
 ## Coğrafya
 
-Adapazari-Hendek-Karadere Ebe Karacami Milli Parkı, İç Anadolu Bölgesi'nin coğrafyasını yansıtan bir yapıya sahip. Parkın coğrafyası, çeşitli bitki türleri ve fauna ile karakterize ediliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahip. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak olan bu iklim, parkın flora ve faunasını şekillendiriyor. Parkın çevresi, tarihi kalıntılar ve doğal güzelliklerle dolu. Ziyaretçiler, parkın yürüyüş yollarını kullanarak doğayı keşfedebilir ve piknik alanlarında dinlenebilirler. Adapazari-Hendek-Karadere Ebe Karacami Milli Parkı, ziyaretçilerine doğanın güzelliğini ve tarihi zenginliği sunan bir destinasyon.
+Adapazari-Hendek-Karadere Ebe Karacami Milli Parkı, İç Anadolu Bölgesi'nin coğrafyasını yansıtan bir yapıya sahip. Parkın coğrafyası, çeşitli bitki türleri ve fauna ile karakterize ediliyor. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir yapıya sahip. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak olan bu iklim, parkın flora ve faunasını şekillendiriyor. Parkın çevresi, tarihi kalıntılar ve doğal güzelliklerle dolu. Ziyaretçiler, parkın yürüyüş yollarını kullanarak doğayı keşfedebilir ve piknik alanlarında dinlenebilirler. Adapazari-Hendek-Karadere Ebe Karacami Milli Parkı, ziyaretçilerine doğanın güzelliğini ve tarihi zenginliği sunan bir destinasyon.
 
 ## Flora ve Fauna
 

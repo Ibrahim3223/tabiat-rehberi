@@ -28,7 +28,7 @@ wikidata_id: "Q32210871"
 
 # Kütüklütarla Tepe
 
-Kütüklütarla Tepe, Kahramanmaraş ilinin güler yüzlü ve tarihi bir bölgesinde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Kütüklütarla Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. Bu tepe, özellikle tarih meraklıları ve doğa severler için önemli bir destinasyon olarak görülür. Kütüklütarla Tepe'nin etrafı, çeşitli bitki türleri ile çevrilidir ve bu bitki türleri, tepeye ayrı bir güzellik kazandırır.
+Kütüklütarla Tepe, Kahramanmaraş ilinin güler yüzlü ve tarihi bir bölgesinde yer alan bir tepe olarak bilinir. Kütüklütarla Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. Bu tepe, özellikle tarih meraklıları ve doğa severler için önemli bir destinasyon olarak görülür. Kütüklütarla Tepe'nin etrafı, çeşitli bitki türleri ile çevrilidir ve bu bitki türleri, tepeye ayrı bir güzellik kazandırır.
 
 ## Tarihçe
 

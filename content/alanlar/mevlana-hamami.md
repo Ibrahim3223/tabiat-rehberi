@@ -1,7 +1,7 @@
 ---
 title: "Mevlana Hamamı"
 date: "2026-01-09T22:22:08.092Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738445"
 
 # Mevlana Hamamı
 
-Mevlana Hamamı, Tokat'ın merkezinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde, 140 hektarlık yeşil alanıyla ziyaretçilerini karşılayan bir doğa harikası. Bu geniş yeşil alan, şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktası. Mevlana Hamamı, Tokat'ın önemli tarihi ve kültürel miraslarından biri olarak kabul ediliyor. Tarihi geçmişi, zengin flora ve fauna çeşitliliği, ziyaretçileri için unutulmaz bir deneyim sunuyor.
+ Bu geniş yeşil alan, şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktası. Mevlana Hamamı, Tokat'ın önemli tarihi ve kültürel miraslarından biri olarak kabul ediliyor. Tarihi geçmişi, zengin flora ve fauna çeşitliliği, ziyaretçileri için unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Mevlana Hamamı'nı ziyaret etmek, Tokat'ın tarihi ve doğal güzelliklerini ke
 ## İlginç Bilgiler
 
 - Mevlana Hamamı, Tokat'ın en önemli tarihi ve kültürel miraslarından biri.
-- Hamamın etrafındaki yeşil alanlar, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Mevlana Hamamı, yüzyıllar öncesine dayanan bir geçmişe sahip.
 - Bölge, Karadeniz Bölgesi'nin karakteristik iklim özelliklerine sahip.
 - Mevlana Hamamı, Tokat'ın turizm merkezi olarak önemli bir role sahip.

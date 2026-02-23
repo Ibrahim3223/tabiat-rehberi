@@ -28,7 +28,7 @@ wikidata_id: "Q31391294"
 
 # Yazy Tepe
 
-Yazy Tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde önemli bir yer tutuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ki, bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Yazy Tepe, bölgeye özgü flora ve fauna çeşitliliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar bulunabiliyor. Tepe, ziyaretçilere hem tarihi hem de doğal güzelliklerini keşfetme fırsatı sunuyor.
+Yazy Tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde önemli bir yer tutuyor. Yazy Tepe, bölgeye özgü flora ve fauna çeşitliliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar bulunabiliyor. Tepe, ziyaretçilere hem tarihi hem de doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

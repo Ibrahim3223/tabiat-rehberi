@@ -28,7 +28,7 @@ wikidata_id: "Q31390063"
 
 # Hasbel Tepesi
 
-Hasbel Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzellikleri bir araya getiren önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Hasbel Tepesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve burası, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin eteklerinde, tarihi yapılar ve anıtlar bulunuyor ve bunlar, bölgenin zengin kültürel mirasını yansıtıyor. Hasbel Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de tarihin zenginliğini sunuyor ve bu nedenle, Ankara'nın önemli gezi noktalarından biri olarak kabul ediliyor.
+Hasbel Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzellikleri bir araya getiren önemli bir nokta. Hasbel Tepesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve burası, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin eteklerinde, tarihi yapılar ve anıtlar bulunuyor ve bunlar, bölgenin zengin kültürel mirasını yansıtıyor. Hasbel Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de tarihin zenginliğini sunuyor ve bu nedenle, Ankara'nın önemli gezi noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hasbel Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Hasbel Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve coğrafi olarak dikkat çekici bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Hasbel Tepesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve burası, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin eteklerinde, tarihi yapılar ve anıtlar bulunuyor ve bunlar, bölgenin zengin kültürel mirasını yansıtıyor. Hasbel Tepesi, Ankara'nın merkezi ile uzun bir mesafe uzaklıkta ve ulaşımı kolay. Tepenin yamacında, küçük bir köy bulunuyor ve burası, ziyaretçilere geleneksel Türk köy yaşantısını tanıtmaya olanak sağlıyor. Hasbel Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de tarihin zenginliğini sunuyor ve bu nedenle, Ankara'nın önemli gezi noktalarından biri olarak kabul ediliyor.
+Hasbel Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve coğrafi olarak dikkat çekici bir nokta. Hasbel Tepesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve burası, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin eteklerinde, tarihi yapılar ve anıtlar bulunuyor ve bunlar, bölgenin zengin kültürel mirasını yansıtıyor. Hasbel Tepesi, Ankara'nın merkezi ile uzun bir mesafe uzaklıkta ve ulaşımı kolay. Tepenin yamacında, küçük bir köy bulunuyor ve burası, ziyaretçilere geleneksel Türk köy yaşantısını tanıtmaya olanak sağlıyor. Hasbel Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de tarihin zenginliğini sunuyor ve bu nedenle, Ankara'nın önemli gezi noktalarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

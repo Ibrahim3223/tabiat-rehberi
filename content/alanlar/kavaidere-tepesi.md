@@ -28,7 +28,7 @@ wikidata_id: "Q31388555"
 
 # Kavaıdere Tepesi
 
-Kavaıdere Tepesi, Erzurum'un eşsiz doğal güzelliklerinden biri. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Doğu Anadolu Bölgesi'nin önemli noktalarından biri olan Kavaıdere Tepesi, ziyaretçilerini büyüleyen bir manzaraya sahip. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrabilir. Kavaıdere Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine.
+Kavaıdere Tepesi, Erzurum'un eşsiz doğal güzelliklerinden biri. Doğu Anadolu Bölgesi'nin önemli noktalarından biri olan Kavaıdere Tepesi, ziyaretçilerini büyüleyen bir manzaraya sahip. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrabilir. Kavaıdere Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kavaıdere Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillendi. Bu tepe
 
 ## Coğrafya
 
-Kavaıdere Tepesi, Erzurum'un coğrafi yapısını oluşturan önemli bir parça. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve çevredeki diğer tepelerle birlikte bir dağ silsilesi oluşturuyor. Kavaıdere Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Tepenin yüksekliği, manzarayı genişletiyor ve ziyaretçilere bölgenin güzelliğini gösteriyor. Kavaıdere Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçileri dört mevsim boyunca farklı deneyimler sunuyor.
+Kavaıdere Tepesi, Erzurum'un coğrafi yapısını oluşturan önemli bir parça. Kavaıdere Tepesi'nin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Tepenin yüksekliği, manzarayı genişletiyor ve ziyaretçilere bölgenin güzelliğini gösteriyor. Kavaıdere Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçileri dört mevsim boyunca farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kavaıdere Tepesi'ni ziyaret etmek, bir doğa sever ve tarih meraklısı için u
 ## İlginç Bilgiler
 
 - Kavaıdere Tepesi, Erzurum'un en yüksek noktalarından biri.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Kavaıdere Tepesi'nin eteklerinde, çeşitli bitki türleri encontrabilir.
 - Bu tepe, aynı zamanda önemli bir göç yolu üzerinde bulunuyor.
 - Kavaıdere Tepesi, ziyaretçilerine tarihin derinliklerine götürüyor.

@@ -51,11 +51,11 @@ Doğal bir alan olan Göl Tepe, bölgenin su kaynakları ve ekosistem bağlantı
 
 ## Flora ve Fauna
 
-Göl Tepe, Mardin'in dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, yarı kurak iklimin hakim olduğu bir bölgede, step ve ova ekolojisinin bir parçası olarak karşımıza çıkar. 
+Göl Tepe, Mardin'in dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, yarı kurak iklimin hakim olduğu bir bölgede, step ve ova ekolojisinin bir parçası olarak karşımıza çıkar.
 
-Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Çam, meşe ve kayın ağaçları, dağ ekosisteminin temel taşlarını oluşturur. Sonbaharda, göç eden kuşlar bu bölgeyi önemli bir uğrak noktası olarak kullanır. 
+Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Çam, meşe ve kayın ağaçları, dağ ekosisteminin temel taşlarını oluşturur. Sonbaharda, göç eden kuşlar bu bölgeyi önemli bir uğrak noktası olarak kullanır.
 
-Yaban hayatı olarak, çeşitli memeli ve kuş türleri Göl Tepe'de yaşamlarını sürdürür. Dağ keçileri ve yaban domuzları, bölgenin karakteristik hayvanlarındandır. Sürüngenler arasında çeşitli yılan ve kertenkele türleri de bulunur. 
+Yaban hayatı olarak, çeşitli memeli ve kuş türleri Göl Tepe'de yaşamlarını sürdürür. Dağ keçileri ve yaban domuzları, bölgenin karakteristik hayvanlarındandır. Sürüngenler arasında çeşitli yılan ve kertenkele türleri de bulunur.
 
 Ekolojik değer olarak, Göl Tepe'nin korunması büyük önem taşır. Bu dağ ekosistemi, bölgenin su döngüsünü ve toprak kalitesini korur. Ayrıca, çeşitli bitki ve hayvan türlerinin yaşam alanlarını sağlar. Bu nedenle, Göl Tepe'nin doğal güzelliğini koruma ve gelecek nesiller için korumak önemlidir.
 
@@ -66,8 +66,8 @@ Göl Tepe, Mardin'in gizli bir incisi. Sabah erken gitmenizi öneririm, hem kala
 ## İlginç Bilgiler
 
 - Mardin ilinin merkezine yaklaşık 20 kilometre uzaklıktadır.
-- Coğrafi konumu itibariyle históri ve kültürel zenginliklere ev sahipliği yapar.
+- Coğrafi konumu itibariyle tarihi ve kültürel zenginliklere ev sahipliği yapar.
 - Yaklaşık 1200 metre yükseklikte yer alır.
 - Göl Tepe, Mardin'in tarih öncesi dönemlerden bu yana yerleşim gördüğü bölgelerden biridir.
-- Mardin Kalesi'ne benzer şekilde históri ve arkeolojik önem taşımaktadır.
+- Mardin Kalesi'ne benzer şekilde tarihi ve arkeolojik önem taşımaktadır.
 - Mardin'in diğer tarihi yerleri gibi Göl Tepe de bölgenin turizm değerlerini arttırmaktadır.

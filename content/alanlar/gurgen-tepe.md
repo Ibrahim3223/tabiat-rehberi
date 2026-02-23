@@ -28,7 +28,7 @@ wikidata_id: "Q32139581"
 
 # Gürgen Tepe
 
-Gürgen Tepe, İstanbul'un Marmara Bölgesi'nde bulunan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri encontrar. Gürgen Tepe, doğa severlerin ve gezi tutkunlarının ziyaret ettiği bir yer olarak biliniyor. Burada, doğanın güzelliğini ve manzaralarını keşfetme mümkün.
+Gürgen Tepe, İstanbul'un Marmara Bölgesi'nde bulunan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Gürgen Tepe, doğa severlerin ve gezi tutkunlarının ziyaret ettiği bir yer olarak biliniyor. Burada, doğanın güzelliğini ve manzaralarını keşfetme mümkün.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Gürgen Tepe, İstanbul'un Marmara Bölgesi'nde yer alıyor ve burada çeşitli 
 
 ## Flora ve Fauna
 
-Gürgen Tepe, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. Burada, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar yaşamaktadır. Bu tepe, doğa severlerin ve gezi tutkunlarının ziyaret ettiği bir yer olarak biliniyor ve burada doğanın güzelliğini keşfetme mümkün. Gürgen Tepe'nin flora ve fauna zenginliği, ziyaretçilerine unutulmaz bir deneyim sunuyor. Burada, çeşitli bitki türleri ve hayvanları görme ve doğanın güzelliğini keşfetme mümkün.
+Gürgen Tepe, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. Burada, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar yaşamaktadır. Bu tepe, doğa severlerin ve gezi tutkunlarının ziyaret ettiği bir yer olarak biliniyor ve burada doğanın güzelliğini keşfetme mümkün. Burada, çeşitli bitki türleri ve hayvanları görme ve doğanın güzelliğini keşfetme mümkün.
 
 ## Ziyaret Bilgileri
 

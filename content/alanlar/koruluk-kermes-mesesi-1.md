@@ -22,7 +22,7 @@ wikidata_id: "Q108227370"
 
 # Koruluk Kermes Mesesi 1
 
-Koruluk Kermes Mesesi 1, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir milli parktır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmıştır. Koruluk Kermes Mesesi 1, doğa severlerin ve geziye çıkmayı sevenlerin keyif alacağı bir destinasyondur. Ziyaretçiler, bu milli parkta yürüyüş yapabilir, doğayı keşfedebilir ve güzel anlar yaşayabilirler.
+Koruluk Kermes Mesesi 1, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir milli parktır. Koruluk Kermes Mesesi 1, doğa severlerin ve geziye çıkmayı sevenlerin keyif alacağı bir destinasyondur. Ziyaretçiler, bu milli parkta yürüyüş yapabilir, doğayı keşfedebilir ve güzel anlar yaşayabilirler.
 
 ## Tarihçe
 

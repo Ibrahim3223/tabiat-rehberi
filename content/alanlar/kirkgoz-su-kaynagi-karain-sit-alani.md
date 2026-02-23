@@ -22,7 +22,7 @@ wikidata_id: "Q108226658"
 
 # Kırkgöz Su Kaynağı Karain Sit Alanı
 
-Kırkgöz Su Kaynağı Karain Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran önemli bir destinasyon. 140 hektarlık geniş alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu sit alanı, tarihi ve doğal zenginlikleriyle dikkat çekiyor. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini büyüleyen bir yer. Kırkgöz Su Kaynağı, adını aldığı su kaynağıyla birlikte, bölgenin en önemli su kaynaklarından biri olarak biliniyor.
+Kırkgöz Su Kaynağı Karain Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran önemli bir destinasyon. Bu sit alanı, tarihi ve doğal zenginlikleriyle dikkat çekiyor. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini büyüleyen bir yer. Kırkgöz Su Kaynağı, adını aldığı su kaynağıyla birlikte, bölgenin en önemli su kaynaklarından biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kırkgöz Su Kaynağı Karain Sit Alanı'nın tarihi geçmişi, yüzyıllar önc
 
 ## Coğrafya
 
-Kırkgöz Su Kaynağı Karain Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık geniş alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu sit alanı, doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini büyüleyen bir yer. Kırkgöz Su Kaynağı, adını aldığı su kaynağıyla birlikte, bölgenin en önemli su kaynaklarından biri olarak biliniyor. Coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin önemli bir bölümünü kapsıyor. İklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri taşıyor. Bölge, yazın sıcak ve kurak, kışın soğuk ve kar yağışlı bir iklimi experiencing.
+Kırkgöz Su Kaynağı Karain Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu sit alanı, doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini büyüleyen bir yer. Kırkgöz Su Kaynağı, adını aldığı su kaynağıyla birlikte, bölgenin en önemli su kaynaklarından biri olarak biliniyor. Coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin önemli bir bölümünü kapsıyor. İklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri taşıyor. Bölge, yazın sıcak ve kurak, kışın soğuk ve kar yağışlı bir iklimi experiencing.
 
 ## Flora ve Fauna
 

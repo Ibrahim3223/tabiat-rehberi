@@ -28,7 +28,7 @@ wikidata_id: "Q31385860"
 
 # Durak Tepe
 
-Durak Tepe, Muş ilinin güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Doğu Anadolu Bölgesi'nin coğrafi ve tarihi zenginliklerini bir arada sunan bu tepe, ziyaretçilerini tarihi ve doğal güzelliklerle dolu bir yolculuğa çıkarır. 140 hektarlık bir alanı kaplayan Durak Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu geniş alan, ziyaretçilerin doğayı ve tarihi bir arada keşfetmesine olanak tanır. Durak Tepe, Muş'un merkez ilçesinde yer alır ve şehrin tarihi ve kültürel zenginliklerine yakın bir konumda bulunmaktadır.
+Durak Tepe, Muş ilinin güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Doğu Anadolu Bölgesi'nin coğrafi ve tarihi zenginliklerini bir arada sunan bu tepe, ziyaretçilerini tarihi ve doğal güzelliklerle dolu bir yolculuğa çıkarır. Bu geniş alan, ziyaretçilerin doğayı ve tarihi bir arada keşfetmesine olanak tanır. Durak Tepe, Muş'un merkez ilçesinde yer alır ve şehrin tarihi ve kültürel zenginliklerine yakın bir konumda bulunmaktadır.
 
 ## Tarihçe
 

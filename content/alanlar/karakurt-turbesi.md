@@ -1,7 +1,7 @@
 ---
 title: "Karakurt Türbesi"
 date: "2026-01-10T07:39:06.155Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırşehir"
@@ -30,11 +30,11 @@ wikidata_id: "Q131391255"
 
 # Karakurt Türbesi
 
-Karakurt Türbesi, İç Anadolu Bölgesi'nin kalbinde yer alan Kırşehir ilinin merkezinde bulunan tarihi bir mekândır. Kırşehir'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olan Karakurt Türbesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçiler için geniş bir gezi alanı sunar. Tarihi geçmişi ve kültürel önemi ile dikkat çeken Karakurt Türbesi, yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir.
+Karakurt Türbesi, İç Anadolu Bölgesi'nin kalbinde yer alan Kırşehir ilinin merkezinde bulunan tarihi bir mekândır. Kırşehir'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olan Karakurt Türbesi, yaklaşık 140 hektarlık bir alanı kaplar. Tarihi geçmişi ve kültürel önemi ile dikkat çeken Karakurt Türbesi, yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 
-Karakurt Türbesi'nin tarihi geçmişi, Türk tarihinde önemli bir yere sahiptir. Tarihi belgelerde yer alan bilgiler, Karakurt Türbesi'nin yüzyıllar boyunca önemli bir kültürel ve dini merkez olarak görev yaptığını göstermektedir. Türklerin Anadolu'ya yerleşmesi ve bu bölgede devlet kurmalarının ardından, Karakurt Türbesi de önemli bir merkez olarak ortaya çıkmıştır. Karakurt Türbesi, Türklerin İslamiyet'i kabul ettikten sonra da önemli bir dini merkez olarak varlığını sürdürmüştür. Tarihi geçmişi ve kültürel önemi ile dikkat çeken Karakurt Türbesi, günümüzde de önemli bir turistik destinasyon olarak ziyaret edilmektedir.
+Karakurt Türbesi'nin tarihi geçmişi, Türk tarihinde önemli bir yere sahiptir. Tarihi belgelerde yer alan bilgiler, Karakurt Türbesi'nin yüzyıllar boyunca önemli bir kültürel ve dini merkez olarak görev yaptığını göstermektedir. Türklerin Anadolu'ya yerleşmesi ve bu bölgede devlet kurmalarının ardından, Karakurt Türbesi de önemli bir merkez olarak ortaya çıkmıştır. Karakurt Türbesi, Türklerin İslamiyet'i kabul ettikten sonra da önemli bir dini merkez olarak varlığını sürdürmüştür.
 
 ## Coğrafya
 
@@ -53,5 +53,5 @@ Karakurt Türbesi'ni ziyaret etmek, birçok ziyaretçiçin önemli bir deneyimdi
 - Karakurt Türbesi, İç Anadolu Bölgesi'nin önemli bir tarihi ve kültürel merkezi olarak bilinir.
 - Karakurt Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak görev yapmıştır.
 - Karakurt Türbesi, Türklerin Anadolu'ya yerleşmesi ve bu bölgede devlet kurmalarının ardından ortaya çıkmıştır.
-- Karakurt Türbesi, günümüzde de önemli bir turistik destinasyon olarak ziyaret edilmektedir.
+
 - Karakurt Türbesi, yaklaşık 140 hektarlık bir alanı kaplar.

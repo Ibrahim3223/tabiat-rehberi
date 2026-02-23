@@ -22,7 +22,7 @@ wikidata_id: "Q108227658"
 
 # Kastamonu-Inebolu-Gemiciler Kızılçam
 
-Kastamonu'nun doğal güzellikleri arasında yer alan İnebolu-Gemiciler Kızılçam milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve yeşilin her tonunu barındırıyor. İç Anadolu Bölgesi'nde bulunan bu milli park, ziyaretçilerini doğanın kalbinde bir macera bekliyor. Kastamonu'nun yeşili, İnebolu'nun güzelliği ve Gemiciler'in zengin doğası bir araya geldiğinde, ortaya gerçek bir doğa harikası çıkıyor.
+Kastamonu'nun doğal güzellikleri arasında yer alan İnebolu-Gemiciler Kızılçam milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. İç Anadolu Bölgesi'nde bulunan bu milli park, ziyaretçilerini doğanın kalbinde bir macera bekliyor. Kastamonu'nun yeşili, İnebolu'nun güzelliği ve Gemiciler'in zengin doğası bir araya geldiğinde, ortaya gerçek bir doğa harikası çıkıyor.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Kastamonu'nun doğal güzellikleri arasında yer alan İnebolu-Gemiciler Kızıl
 
 ## Coğrafya
 
-İnebolu-Gemiciler Kızılçam milli parkı, coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık bir alanı kaplayan bu park, yaklaşık 200 futbol sahası büyüklüğünde ve yeşilin her tonunu barındırıyor. Parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşuyor. Bu dağlık ve engebeli arazi, çeşitli bitki türleri için uygun bir ortam sunuyor. İklim olarak, İç Anadolu Bölgesi'nin karakteristik iklimine sahip olan bu park, soğuk kışlar ve sıcak yazlarla dikkat çekiyor. Çevre olarak, parkın etrafında çeşitli köyler ve yerleşim yerleri bulunmakta. Bu yerleşim yerleri, parkın güzelliğini ve doğal zenginliğini tamamlayıcı bir rol üstleniyor.
+İnebolu-Gemiciler Kızılçam milli parkı, coğrafi olarak oldukça zengin bir yapıya sahip. Parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşuyor. Bu dağlık ve engebeli arazi, çeşitli bitki türleri için uygun bir ortam sunuyor. İklim olarak, İç Anadolu Bölgesi'nin karakteristik iklimine sahip olan bu park, soğuk kışlar ve sıcak yazlarla dikkat çekiyor. Çevre olarak, parkın etrafında çeşitli köyler ve yerleşim yerleri bulunmakta. Bu yerleşim yerleri, parkın güzelliğini ve doğal zenginliğini tamamlayıcı bir rol üstleniyor.
 
 ## Flora ve Fauna
 
-İnebolu-Gemiciler Kızılçam milli parkı, flora ve fauna açısından oldukça zengin bir yapıya sahip. Bu parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Parkın flora açısından zenginliği, kızılçam ağaçlarının bolluğuyla dikkat çekiyor. Bu ağaçlar, parkın yeşilliğini ve güzelliğini sağlayan en önemli faktörler arasında. Fauna açısından da zengin olan bu park, çeşitli hayvan türlerine ev sahipliği yapıyor. Mevsimsel değişimlerle birlikte, bu hayvan türleri değişim gösteriyor. Kış aylarında, bazı hayvan türleri parka gelirken, yaz aylarında farklı türler görebilme mümkün.
+ Bu parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Parkın flora açısından zenginliği, kızılçam ağaçlarının bolluğuyla dikkat çekiyor. Bu ağaçlar, parkın yeşilliğini ve güzelliğini sağlayan en önemli faktörler arasında. Fauna açısından da zengin olan bu park, çeşitli hayvan türlerine ev sahipliği yapıyor. Mevsimsel değişimlerle birlikte, bu hayvan türleri değişim gösteriyor. Kış aylarında, bazı hayvan türleri parka gelirken, yaz aylarında farklı türler görebilme mümkün.
 
 ## Ziyaret Bilgileri
 

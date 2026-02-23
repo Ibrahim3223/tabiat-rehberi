@@ -28,7 +28,7 @@ wikidata_id: "Q31389450"
 
 # Cankurtaran Tepe
 
-Cankurtaran Tepe, Gaziantep'in şehir merkezine yakın bir konumda yer alır ve şehrin tarihi geçmişini yansıtan önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunar. Bu tepe, şehrin gürültüsünden uzaklaşmak isteyenler için huzurlu bir kaçış noktasıdır. Cankurtaran Tepe, aynı zamanda tarihi öneme sahip bir bölgedir ve şehrin kültürel mirasını keşfetmek isteyenler için ideal bir destinasyondur.
+Cankurtaran Tepe, Gaziantep'in şehir merkezine yakın bir konumda yer alır ve şehrin tarihi geçmişini yansıtan önemli bir noktadır. Bu tepe, şehrin gürültüsünden uzaklaşmak isteyenler için huzurlu bir kaçış noktasıdır. Cankurtaran Tepe, aynı zamanda tarihi öneme sahip bir bölgedir ve şehrin kültürel mirasını keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

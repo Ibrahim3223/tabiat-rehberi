@@ -28,7 +28,7 @@ wikidata_id: "Q31387993"
 
 # Bedni Tepesi
 
-Gümüşhane'nin eşsiz doğal güzelliklerine ev sahipliği yapan Bedni Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarla karşılıyor. Bedni Tepesi, hem doğa severler hem de tarihe meraklı olanlar için önemli bir destinasyon. Burada, yüzyılların izlerini taşıyan tarihi kalıntılar ve eşsiz flora ile fauna çeşitliliği bulunmakta.
+Gümüşhane'nin eşsiz doğal güzelliklerine ev sahipliği yapan Bedni Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri olarak karşımıza çıkıyor. Bedni Tepesi, hem doğa severler hem de tarihe meraklı olanlar için önemli bir destinasyon. Burada, yüzyılların izlerini taşıyan tarihi kalıntılar ve eşsiz flora ile fauna çeşitliliği bulunmakta.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Coğrafi olarak, Bedni Tepesi Gümüşhane'nin önemli bir noktası olarak yer a
 
 ## Flora ve Fauna
 
-Bedni Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Burada, çeşitli bitki türleri ve ağaçlar bulunmakta. Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında, doğa renkli bir hal alırken, sonbahar ve kış aylarında manzara farklı bir güzelliğe bürünüyor. Canlılar açısından da zengin olan Bedni Tepesi, birçok kuş türü ve diğer hayvanları barındırmakta. Bu çeşitlilik, doğa severler için önemli bir çekim merkezi oluşturuyor.
+ Burada, çeşitli bitki türleri ve ağaçlar bulunmakta. Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında, doğa renkli bir hal alırken, sonbahar ve kış aylarında manzara farklı bir güzelliğe bürünüyor. Canlılar açısından da zengin olan Bedni Tepesi, birçok kuş türü ve diğer hayvanları barındırmakta. Bu çeşitlilik, doğa severler için önemli bir çekim merkezi oluşturuyor.
 
 ## Ziyaret Bilgileri
 

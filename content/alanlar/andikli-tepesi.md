@@ -28,7 +28,7 @@ wikidata_id: "Q31390503"
 
 # Andıklı Tepesi
 
-Andıklı Tepesi, Konya'nın merkezinde yer alan ve şehrin panoramik manzarasını sunan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Andıklı Tepesi, özellikle gün batımı saatlerinde ziyaretçilerini büyüleyen bir manzaraya sahip. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunmakta, bu da ziyaretçilere doğayla iç içe bir deneyim sunuyor. Andıklı Tepesi, Konya'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir nokta.
+Andıklı Tepesi, Konya'nın merkezinde yer alan ve şehrin panoramik manzarasını sunan bir tepe. Andıklı Tepesi, özellikle gün batımı saatlerinde ziyaretçilerini büyüleyen bir manzaraya sahip. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunmakta, bu da ziyaretçilere doğayla iç içe bir deneyim sunuyor. Andıklı Tepesi, Konya'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir nokta.
 
 ## Tarihçe
 

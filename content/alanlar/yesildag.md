@@ -23,7 +23,7 @@ wikidata_id: "Q108228125"
 
 # Yeşildağ
 
-Yeşildağ milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandan oluşuyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Yeşildağ, ziyaretçilerini doğanın kucağına davet ediyor ve onlara yaban hayatının zenginliklerini keşfetme fırsatı sunuyor. Milli parkın etrafı, çeşitli bitki türleriyle kaplı ve bu bitkiler, bölgenin ekolojisini destekleyen önemli bir rol oynuyor.
+Yeşildağ milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandan oluşuyor. Yeşildağ, ziyaretçilerini doğanın kucağına davet ediyor ve onlara yaban hayatının zenginliklerini keşfetme fırsatı sunuyor. Milli parkın etrafı, çeşitli bitki türleriyle kaplı ve bu bitkiler, bölgenin ekolojisini destekleyen önemli bir rol oynuyor.
 
 ## Tarihçe
 

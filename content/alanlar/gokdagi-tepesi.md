@@ -28,7 +28,7 @@ wikidata_id: "Q34872104"
 
 # Gökdağı Tepesi
 
-Gökdağı Tepesi, Erzurum'un eşsiz doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Gökdağı Tepesi, ziyaretçilerine Erzurum'un tarihi ve kültürel zenginliklerini keşfetme fırsatı sunmaktadır. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşam tarzını deneyimleme olanağı sağlamaktadır. Gökdağı Tepesi, aynı zamanda doğa sporları severler için de ideal bir destinasyondur. Tepenin yamaçlarında yapılan doğa yürüyüşleri, ziyaretçilere bölgenin doğal güzelliklerini keşfetme olanağı sunmaktadır.
+Gökdağı Tepesi, Erzurum'un eşsiz doğal güzelliklerinden biridir. Gökdağı Tepesi, ziyaretçilerine Erzurum'un tarihi ve kültürel zenginliklerini keşfetme fırsatı sunmaktadır. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşam tarzını deneyimleme olanağı sağlamaktadır. Gökdağı Tepesi, aynı zamanda doğa sporları severler için de ideal bir destinasyondur. Tepenin yamaçlarında yapılan doğa yürüyüşleri, ziyaretçilere bölgenin doğal güzelliklerini keşfetme olanağı sunmaktadır.
 
 ## Tarihçe
 

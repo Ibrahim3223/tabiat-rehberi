@@ -1,7 +1,7 @@
 ---
 title: "Kırklar Sultan Türbesi"
 date: "2026-01-10T07:18:50.145Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390978"
 
 # Kırklar Sultan Türbesi
 
-Kırklar Sultan Türbesi, İstanbul'un en önemli tarihi mekânlarından biri olarak Beykoz'da yer alır. Bu tarihi mekân, Marmara Bölgesi'nin güzide illerinden Beykoz'da bulunur ve yaklaşık 140 hektarlık bir alan kaplar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir gezinti alanı sunar. Kırklar Sultan Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir noktadır. Tarihi geçmişi, mimari yapısı ve doğal güzelliği ile ziyaretçilerin ilgisini çeker. Bu mekân, İstanbul'un en önemli turistik destinasyonlarından biri olarak kabul edilir.
+Kırklar Sultan Türbesi, İstanbul'un en önemli tarihi mekânlarından biri olarak Beykoz'da yer alır. Bu tarihi mekân, Marmara Bölgesi'nin güzide illerinden Beykoz'da bulunur ve yaklaşık 140 hektarlık bir alan kaplar. Kırklar Sultan Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir noktadır. Tarihi geçmişi, mimari yapısı ve doğal güzelliği ile ziyaretçilerin ilgisini çeker. Bu mekân, İstanbul'un en önemli turistik destinasyonlarından biri olarak kabul edilir.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Kırklar Sultan Türbesi, Marmara Bölgesi'nin güzide illerinden Beykoz'da bulu
 
 ## Flora ve Fauna
 
-Kırklar Sultan Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu mekân, coğrafi olarak önemli bir konuma sahip olup, çevresinde çeşitli doğal güzellikler bulunur. Kırklar Sultan Türbesi, yaklaşık 140 hektarlık bir alan kaplar ve çevresinde çeşitli ormanlık alanlar bulunur. Bu ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Kırklar Sultan Türbesi, coğrafi konumu, tarihi geçmişi ve kültürel zenginliği ile ziyaretçilerin ilgisini çeker. Bu mekân, İstanbul'un en önemli turistik destinasyonlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+ Bu mekân, coğrafi olarak önemli bir konuma sahip olup, çevresinde çeşitli doğal güzellikler bulunur. Kırklar Sultan Türbesi, yaklaşık 140 hektarlık bir alan kaplar ve çevresinde çeşitli ormanlık alanlar bulunur. Kırklar Sultan Türbesi, coğrafi konumu, tarihi geçmişi ve kültürel zenginliği ile ziyaretçilerin ilgisini çeker. Bu mekân, İstanbul'un en önemli turistik destinasyonlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Ziyaret Bilgileri
 
@@ -53,4 +53,4 @@ Kırklar Sultan Türbesi, ziyaretçilere çeşitli olanaklar sunar. Bu mekân, c
 - Bu mekân, Marmara Bölgesi'nin güzide illerinden Beykoz'da bulunur.
 - Kırklar Sultan Türbesi, yaklaşık 140 hektarlık bir alan kaplar.
 - Bu mekân, coğrafi olarak önemli bir konuma sahiptir.
-- Kırklar Sultan Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+

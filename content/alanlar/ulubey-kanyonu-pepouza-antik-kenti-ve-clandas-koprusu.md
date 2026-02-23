@@ -1,7 +1,7 @@
 ---
 title: "Ulubey Kanyonu Pepouza Antik Kenti ve Clandas Köprüsü"
 date: "2026-01-09T20:25:59.141Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228988"
 
 # Ulubey Kanyonu Pepouza Antik Kenti ve Clandas Köprüsü
 
-Ulubey Kanyonu Pepouza Antik Kenti ve Clandas Köprüsü, İç Anadolu Bölgesi'nin en önemli doğal ve tarihi alanlarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerini doğanın ve tarihin iç içe geçmişliğiyle karşılar. Burada, kanyonun derinliklerinde, antik kentlerin kalıntıları ve tarihi köprüler, ziyaretçilere unutulmaz bir gezi deneyimi sunar. Ulubey Kanyonu, aynı zamanda zengin flora ve faunasıyla da dikkat çekiyor. Bu bölge, doğa severler ve tarih meraklıları için gerçek bir cennet olarak görülebilir.
+Ulubey Kanyonu Pepouza Antik Kenti ve Clandas Köprüsü, İç Anadolu Bölgesi'nin en önemli doğal ve tarihi alanlarından biridir. Burada, kanyonun derinliklerinde, antik kentlerin kalıntıları ve tarihi köprüler, ziyaretçilere unutulmaz bir gezi deneyimi sunar. Ulubey Kanyonu, aynı zamanda zengin flora ve faunasıyla da dikkat çekiyor. Bu bölge, doğa severler ve tarih meraklıları için gerçek bir cennet olarak görülebilir.
 
 ## Tarihçe
 

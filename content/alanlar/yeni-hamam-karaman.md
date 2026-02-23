@@ -1,7 +1,7 @@
 ---
 title: "Yeni Hamam, Karaman"
 date: "2026-01-09T23:50:09.484Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245695"
 
 # Yeni Hamam, Karaman
 
-Karaman'ın merkezinde yer alan Yeni Hamam, şehrin en önemli tarihi ve kültürel varlıklarından birisidir. 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin merkezi konumuyla dikkat çekmektedir. Yeni Hamam, tarihi ve kültürel değerleri bir araya getiren önemli bir destinasyondur. Şehir merkezinde yer alması nedeniyle, ziyaretçiler için ulaşım oldukça kolaydır. Bu özelliği ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
+Karaman'ın merkezinde yer alan Yeni Hamam, şehrin en önemli tarihi ve kültürel varlıklarından birisidir. 140 hektarlık bir alan üzerinde kurulmuştur. Yeni Hamam, tarihi ve kültürel değerleri bir araya getiren önemli bir destinasyondur. Şehir merkezinde yer alması nedeniyle, ziyaretçiler için ulaşım oldukça kolaydır. Bu özelliği ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
 
 ## Tarihçe
 

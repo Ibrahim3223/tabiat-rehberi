@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Necmettin Yahya Rifai Türbesi"
 date: "2026-01-10T06:40:19.506Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582709"
 
 # Seyyid Necmettin Yahya Rifai Türbesi
 
-Seyyid Necmettin Yahya Rifai Türbesi, Amasya'nın Suluova ilçesinde yer alan bir tarihî türbe ve plajdır. Bu mekan, hem dinî hem de doğal güzelliği ile dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Türbe, Seyyid Necmettin Yahya Rifai'nin mezarının bulunduğu yer olarak bilinir ve önemli bir dinî merkez olarak kabul edilir. Ayrıca, plajın sunduğu doğal güzellik, ziyaretçilerin dinlenip doğayı keşfetmesine olanak tanır.
+Seyyid Necmettin Yahya Rifai Türbesi, Amasya'nın Suluova ilçesinde yer alan bir tarihî türbe ve plajdır. Bu mekan, hem dinî hem de doğal güzelliği ile dikkat çeker. Türbe, Seyyid Necmettin Yahya Rifai'nin mezarının bulunduğu yer olarak bilinir ve önemli bir dinî merkez olarak kabul edilir. Ayrıca, plajın sunduğu doğal güzellik, ziyaretçilerin dinlenip doğayı keşfetmesine olanak tanır.
 
 ## Tarihçe
 

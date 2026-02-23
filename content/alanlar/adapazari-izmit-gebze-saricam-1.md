@@ -22,7 +22,7 @@ wikidata_id: "Q108227971"
 
 # Adapazari-Izmit-Gebze Saricam 1
 
-Adapazari-Izmit-Gebze Saricam 1 milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak ziyaretçilerini ağırlıyor. Bu muhteşem milli park, doğa severlerin ve gezi tutkunlarının buluşma noktası olarak öne çıkıyor. Her mevsim farklı bir güzelliğe sahip olan Adapazari-Izmit-Gebze Saricam 1, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Adapazari-Izmit-Gebze Saricam 1 milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. Bu muhteşem milli park, doğa severlerin ve gezi tutkunlarının buluşma noktası olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Adapazari-Izmit-Gebze Saricam 1 milli parkını ziyaret etmek, doğa severlerin 
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak ziyaretçilerini ağırlıyor.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Milli parkın coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunuyor.
 - Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor.

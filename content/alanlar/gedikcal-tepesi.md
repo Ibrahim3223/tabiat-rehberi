@@ -28,7 +28,7 @@ wikidata_id: "Q34916013"
 
 # Gedikçal Tepesi
 
-Gedikçal Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Gedikçal Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bu tepenin eteklerinde bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilerin dikkatini çekiyor. Ayrıca, tepeye tırmananların Ankara'nın panoramik manzarasını izleme fırsatı bulmaları da bu yeri özel kılıyor.
+Gedikçal Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Gedikçal Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bu tepenin eteklerinde bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilerin dikkatini çekiyor. Ayrıca, tepeye tırmananların Ankara'nın panoramik manzarasını izleme fırsatı bulmaları da bu yeri özel kılıyor.
 
 ## Tarihçe
 

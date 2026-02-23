@@ -28,7 +28,7 @@ wikidata_id: "Q32196013"
 
 # Yörükdağı Tepesi
 
-Yörükdağı Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Bolu'da yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Yörükdağı Tepesi, doğa severlerin ziyaret ettiği bir noktadır ve birçok yürüyüş rotasına sahiptir. Tepenin etrafında çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşma mümkün.
+Yörükdağı Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Bolu'da yer alır. Yörükdağı Tepesi, doğa severlerin ziyaret ettiği bir noktadır ve birçok yürüyüş rotasına sahiptir. Tepenin etrafında çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 

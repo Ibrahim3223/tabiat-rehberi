@@ -1,7 +1,7 @@
 ---
 title: "Tamzara Hamamı"
 date: "2026-01-09T22:33:10.134Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738718"
 
 # Tamzara Hamamı
 
-Tamzara Hamamı, Şebinkarahisar'ın gizli cenneti olarak bilinen bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz'in yeşiliyle buluşuyor. Denizin serinliği ve yeşilin güzelliği bir araya gelerek, ziyaretçilere unutulmaz anlar yaşatıyor. Bu doğal güzelliğin içerisinde, çeşitli bitki türleri ve zengin fauna encontruyor. Tamzara Hamamı, doğa severlerin ve plaj tutkunlarının mutlaka ziyaret etmesi gereken bir yer.
+Tamzara Hamamı, Şebinkarahisar'ın gizli cenneti olarak bilinen bir plajdır. Denizin serinliği ve yeşilin güzelliği bir araya gelerek, ziyaretçilere unutulmaz anlar yaşatıyor. Bu doğal güzelliğin içerisinde, çeşitli bitki türleri ve zengin fauna encontruyor. Tamzara Hamamı, doğa severlerin ve plaj tutkunlarının mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tamzara Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Tamzara Hamamı, Karadeniz Bölgesi'nin Şebinkarahisar ilçesinde yer almaktadır. Bu bölgenin coğrafi yapısı, Karadeniz'in yeşiliyle denizin serinliğini bir araya getirmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve yeşilin her tonunu barındırmaktadır. Bölgenin iklimi, Karadeniz ikliminin tipik özellikleri göstermektedir; yani serin ve yağışlı bir hava hakimdir. Tamzara Hamamı, çevresindeki dağlarla ve ormanlarla çevrilidir ve bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunmaktadır. Bölgenin coğrafi konumu, aynı zamanda flora ve faunayı da etkilemektedir. Çeşitli bitki türleri ve zengin fauna, bu doğal güzelliğin içerisinde encontruyor.
+Tamzara Hamamı, Karadeniz Bölgesi'nin Şebinkarahisar ilçesinde yer almaktadır. Bu bölgenin coğrafi yapısı, Karadeniz'in yeşiliyle denizin serinliğini bir araya getirmektedir. Bölgenin iklimi, Karadeniz ikliminin tipik özellikleri göstermektedir; yani serin ve yağışlı bir hava hakimdir. Tamzara Hamamı, çevresindeki dağlarla ve ormanlarla çevrilidir ve bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunmaktadır. Bölgenin coğrafi konumu, aynı zamanda flora ve faunayı da etkilemektedir. Çeşitli bitki türleri ve zengin fauna, bu doğal güzelliğin içerisinde encontruyor.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Tamzara Hamamı, çeşitli bitki türleri ve zengin fauna tarafından çevrilidi
 
 ## Ziyaret Bilgileri
 
-Tamzara Hamamı, ziyaretçilerine unutulmaz anlar yaşatmak için her şeyiyle hazır. Buraya gitmek için, Şebinkarahisar'a ulaşma ve oradan Tamzara Hamamı'na gitmek gerekiyor. Yolculuk, Karadeniz Bölgesi'nin doğal güzelliği ile beraber, ziyaretçilere keyifli bir deneyim sunuyor. Tamzara Hamamı'na gitmek için en iyi mevsim, ilkbahar ve yaz aylarıdır; çünkü bu dönemde hava daha serin ve bitki türleri daha yeşil ve canlıdır. Ziyaretçilerin, buraya gelirken, doğayı koruma ve doğal güzelliği bozmamak için necessary önlemleri alması gerekiyor.
+ Buraya gitmek için, Şebinkarahisar'a ulaşma ve oradan Tamzara Hamamı'na gitmek gerekiyor. Yolculuk, Karadeniz Bölgesi'nin doğal güzelliği ile beraber, ziyaretçilere keyifli bir deneyim sunuyor. Tamzara Hamamı'na gitmek için en iyi mevsim, ilkbahar ve yaz aylarıdır; çünkü bu dönemde hava daha serin ve bitki türleri daha yeşil ve canlıdır. Ziyaretçilerin, buraya gelirken, doğayı koruma ve doğal güzelliği bozmamak için necessary önlemleri alması gerekiyor.
 
 ## İlginç Bilgiler
 

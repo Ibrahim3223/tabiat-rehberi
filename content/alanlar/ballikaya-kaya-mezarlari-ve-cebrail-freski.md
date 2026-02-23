@@ -29,7 +29,7 @@ wikidata_id: "Q134728162"
 
 # Ballıkaya Kaya Mezarları ve Cebrail Freski
 
-Ege Bölgesi'nin güzelliklerini barındıran İncirliova'da bulunan Ballıkaya Mezarları ve Cebrail Freski, ziyaretçilerini tarihin sâuikatına götürmeyi vaat ediyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve her köşesi tarihi ve doğal güzelliklerle dolu. Bu bölge, tarih meraklıları ve doğa severler için bir cennet niteliğinde. Ballıkaya Mezarları, yüzyıllar önce yaşamış insanların yaşam hikayelerini anlatan bir açık hava müzesi harika bir deneyim. Cebrail Freski ise, tarihi bir kilisede bulunan ve mucizelere sahne olan bir sanat eseri. Bu mekan, ziyaretçilerine hem tarihin gizemini hem de doğanın güzelliğini sunuyor.
+Ege Bölgesi'nin güzelliklerini barındıran İncirliova'da bulunan Ballıkaya Mezarları ve Cebrail Freski, ziyaretçilerini tarihin sâuikatına götürmeyi vaat ediyor. Bu bölge, tarih meraklıları ve doğa severler için bir cennet niteliğinde. Ballıkaya Mezarları, yüzyıllar önce yaşamış insanların yaşam hikayelerini anlatan bir açık hava müzesi harika bir deneyim. Cebrail Freski ise, tarihi bir kilisede bulunan ve mucizelere sahne olan bir sanat eseri. Bu mekan, ziyaretçilerine hem tarihin gizemini hem de doğanın güzelliğini sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ballıkaya Mezarları ve Cebrail Freski, yüzyılların geçmişine ışık tuta
 
 ## Coğrafya
 
-Ballıkaya Mezarları ve Cebrail Freski, İncirliova'nın güzelliklerini barındıran bir bölgede bulunuyor. Bu bölge, Ege Bölgesi'nin coğrafi güzelliklerine sahip. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve her köşesi doğal güzelliklerle dolu. Bu bölge, yüzyıllar önce oluşan kaya mezarları ve tarihi kiliseleri ile dikkat çekiyor. Cebrail Freski, bir kilisede bulunan ve mucizelere sahne olan bir sanat eseri. Bu bölge, ziyaretçilerine hem tarihin gizemini hem de doğanın güzelliğini sunuyor. İncirliova'nın iklimi, Ege Bölgesi'nin karakteristik iklimine sahip. Bu reason, bu bölgenin yıl boyunca ziyaret edilebilir olmasını sağlıyor. Ballıkaya Mezarları ve Cebrail Freski, ziyaretçilerine doğanın güzelliğini ve tarihin sâuikatını sunuyor.
+Ballıkaya Mezarları ve Cebrail Freski, İncirliova'nın güzelliklerini barındıran bir bölgede bulunuyor. Bu bölge, Ege Bölgesi'nin coğrafi güzelliklerine sahip. Bu bölge, yüzyıllar önce oluşan kaya mezarları ve tarihi kiliseleri ile dikkat çekiyor. Cebrail Freski, bir kilisede bulunan ve mucizelere sahne olan bir sanat eseri. Bu bölge, ziyaretçilerine hem tarihin gizemini hem de doğanın güzelliğini sunuyor. İncirliova'nın iklimi, Ege Bölgesi'nin karakteristik iklimine sahip. Bu reason, bu bölgenin yıl boyunca ziyaret edilebilir olmasını sağlıyor. Ballıkaya Mezarları ve Cebrail Freski, ziyaretçilerine doğanın güzelliğini ve tarihin sâuikatını sunuyor.
 
 ## Flora ve Fauna
 

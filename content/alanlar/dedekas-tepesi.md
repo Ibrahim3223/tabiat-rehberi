@@ -29,7 +29,7 @@ wikidata_id: "Q31389830"
 
 # Dedekaş Tepesi
 
-Dedekaş Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan Çankırı ilinde bulunan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte doğanın güzelliğini sergiler. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel Türk misafirperverliğini sunarken, tepe itselfe tırmanmak ise ziyaretçilere muhteşem manzaralar sunar. Dedekaş Tepesi, doğa severler ve macera arayışında olanlar için ideal bir destinasyondur.
+Dedekaş Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan Çankırı ilinde bulunan bir doğa harikasıdır. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel Türk misafirperverliğini sunarken, tepe itselfe tırmanmak ise ziyaretçilere muhteşem manzaralar sunar. Dedekaş Tepesi, doğa severler ve macera arayışında olanlar için ideal bir destinasyondur.
 
 ## Tarihçe
 

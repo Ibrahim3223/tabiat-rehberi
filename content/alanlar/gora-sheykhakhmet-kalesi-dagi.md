@@ -28,13 +28,13 @@ wikidata_id: "Q31556504"
 
 # Gora Sheykhakhmet-Kalesi Dağı
 
-Mardin'in tarihi dokusu içinde gizlenen Gora Sheykhakhmet-Kalesi Dağı, bölgenin zengin kültürel mirasının bir parçası. Bu dağ, Mardin'in eşsiz manzaralarına ev sahipliği yapıyor. Mardin'in tarihi kent dokusuna hakim bir konumda bulunan Gora Sheykhakhmet-Kalesi Dağı, ziyaretçilerini tarihin sâuığındaki bir yolculuğa davet ediyor. Mardin'in bu önemli noktası, tarihi ve kültürel zenginliklerin birleştiği bir yer.
+Mardin'in tarihi dokusu içinde gizlenen Gora Sheykhakhmet-Kalesi Dağı, bölgenin zengin kültürel mirasının bir parçası. Bu dağ, Mardin'in eşsiz manzaralarına ev sahipliği yapıyor. Mardin'in tarihi kent dokusuna hakim bir konumda bulunan Gora Sheykhakhmet-Kalesi Dağı, ziyaretçilerini tarihin derinığındaki bir yolculuğa davet ediyor. Mardin'in bu önemli noktası, tarihi ve kültürel zenginliklerin birleştiği bir yer.
 
 ## Tarihçe
 
-Mardin bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Bu topraklar, Sümerlerden Roma İmparatorluğu'na, Abbasilerden Selçuklulara kadar birçok uygarlığa ev sahipliği yapmış, kültürel ve tarihi zenginliği ile ön plana çıkmıştır. Gora Sheykhakhmet-Kalesi Dağı, bu tarihsel mirasın bir parçasıdır. 
+Mardin bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Bu topraklar, Sümerlerden Roma İmparatorluğu'na, Abbasilerden Selçuklulara kadar birçok uygarlığa ev sahipliği yapmış, kültürel ve tarihi zenginliği ile ön plana çıkmıştır. Gora Sheykhakhmet-Kalesi Dağı, bu tarihsel mirasın bir parçasıdır.
 
-Bölgenin coğrafi konumu, histórik ticaret yollarının kesişme noktasında bulunması, insan yerleşimlerini ve faaliyetlerini etkilemiştir. Yaylacılık ve hayvancılık, bu bölgede yaşayan halkın geleneksel yaşam biçimleri arasında yer almış, dağlar ve ovalar, bu faaliyetler için elverişli alanlar sunmuştur. Türkiye'de doğal alanlar, yalnızca ekolojik önemlerinin yanı sıra, kültürel ve tarihi değerleri ile de dikkat çekmektedir. Bu alanlar, insanlığın yaşam alışkanlıklarını, üretim şekillerini ve sosyal yapılarını şekillendiren önemli faktörler arasında yer almıştır. Gora Sheykhakhmet-Kalesi Dağı, Mardin'in zengin tarihsel dokusunun bir parçası olarak, ziyaretçilerini bu derin geçmişe davet etmektedir.
+Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, insan yerleşimlerini ve faaliyetlerini etkilemiştir. Yaylacılık ve hayvancılık, bu bölgede yaşayan halkın geleneksel yaşam biçimleri arasında yer almış, dağlar ve ovalar, bu faaliyetler için elverişli alanlar sunmuştur. Türkiye'de doğal alanlar, yalnızca ekolojik önemlerinin yanı sıra, kültürel ve tarihi değerleri ile de dikkat çekmektedir. Bu alanlar, insanlığın yaşam alışkanlıklarını, üretim şekillerini ve sosyal yapılarını şekillendiren önemli faktörler arasında yer almıştır. Gora Sheykhakhmet-Kalesi Dağı, Mardin'in zengin tarihsel dokusunun bir parçası olarak, ziyaretçilerini bu derin geçmişe davet etmektedir.
 
 ## Coğrafya
 

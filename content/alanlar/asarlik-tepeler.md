@@ -28,7 +28,7 @@ wikidata_id: "Q28450849"
 
 # Asarlık Tepeler
 
-Asarlık Tepeler, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Bu bölge, doğal güzellikleri ve tarihi değerleriyle dikkat çekmektedir. Asarlık Tepeler, hem Ankara'nın hem de Türkiye'nin önemli doğal varlıklarından biridir.
+Asarlık Tepeler, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, doğal güzellikleri ve tarihi değerleriyle dikkat çekmektedir. Asarlık Tepeler, hem Ankara'nın hem de Türkiye'nin önemli doğal varlıklarından biridir.
 
 ## Tarihçe
 

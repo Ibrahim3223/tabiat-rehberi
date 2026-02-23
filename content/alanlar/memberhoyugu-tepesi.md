@@ -28,7 +28,7 @@ wikidata_id: "Q32126382"
 
 # Memberhöyüğü Tepesi
 
-Memberhöyüğü Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve önemli bir tarihî alan olarak bilinir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türünü barındırır. Memberhöyüğü Tepesi, Konya'nın tarihî ve coğrafî değerlerini taşıyan önemli bir noktadır. Burada, doğa ve tarih bir arada bulunmakta ve ziyaretçilere benzersiz bir deneyim sunmaktadır. memberhöyüğü Tepesi, Konya'nın merkezine oldukça yakındır ve ulaşım açısından kolaylık sağlar.
+Memberhöyüğü Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve önemli bir tarihî alan olarak bilinir. Memberhöyüğü Tepesi, Konya'nın tarihî ve coğrafî değerlerini taşıyan önemli bir noktadır. Burada, doğa ve tarih bir arada bulunmakta ve ziyaretçilere benzersiz bir deneyim sunmaktadır. memberhöyüğü Tepesi, Konya'nın merkezine oldukça yakındır ve ulaşım açısından kolaylık sağlar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Veysel Karani Türbesi"
 date: "2026-01-10T06:02:52.990Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390481"
 
 # Veysel Karani Türbesi
 
-Veysel Karani Türbesi, Marmara Bölgesi'nin önemli dini mekanlarından biridir. Osmangazi/Bursa'da bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer almaktadır. Türk dini tarihinde önemli bir figür olan Veysel Karani'nin makamının bulunduğu bu mekan, her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Türbenin mimarisi, geleneksel Türk mimari özelliklerini taşır ve ziyaretçilere dinamik bir atmosfer sunar.
+Veysel Karani Türbesi, Marmara Bölgesi'nin önemli dini mekanlarından biridir. Türk dini tarihinde önemli bir figür olan Veysel Karani'nin makamının bulunduğu bu mekan, her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Türbenin mimarisi, geleneksel Türk mimari özelliklerini taşır ve ziyaretçilere dinamik bir atmosfer sunar.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Veysel Karani Türbesi'nin tarihi geçmişi, Türk dini tarihinde önemli bir fi
 
 ## Coğrafya
 
-Veysel Karani Türbesi, Osmangazi/Bursa'da bulunmaktadır. Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer alır ve çevresi yeşilliklerle kaplıdır. Türk mimari özelliklerini taşıyan bu mekan, ziyaretçilere dinamik bir atmosfer sunar. Türbenin bulunduğu bölge, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır ve ziyaretçilere bölgenin doğal güzelliklerini sunar. Hava sıcaklığının genellikle ılıman olduğu bu bölge, ziyaretçilere rahat bir gezi imkanı sunar. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Veysel Karani Türbesi, Osmangazi/Bursa'da bulunmaktadır. Türk mimari özelliklerini taşıyan bu mekan, ziyaretçilere dinamik bir atmosfer sunar. Türbenin bulunduğu bölge, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır ve ziyaretçilere bölgenin doğal güzelliklerini sunar. Hava sıcaklığının genellikle ılıman olduğu bu bölge, ziyaretçilere rahat bir gezi imkanı sunar. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Flora ve Fauna
 
-Veysel Karani Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri yetişir. Türbenin çevresinde, yeşillik alanlar ve ağaçlar bulunmaktadır. Bu bölge, aynı zamanda birçok hayvan türüne de ev sahipliği yapar. Ziyaretçilere, bölgenin doğal güzelliklerini ve ekolojik dengesini korumak için birçok önlem alınmıştır. Türbenin bulunduğu alan, Türk halkının dini ve kültürel yaşamına katkıda bulunmanın yanı sıra, doğal güzellikleri ile de ziyaretçileri çekmektedir.
+ Bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri yetişir. Türbenin çevresinde, yeşillik alanlar ve ağaçlar bulunmaktadır. Bu bölge, aynı zamanda birçok hayvan türüne de ev sahipliği yapar. Ziyaretçilere, bölgenin doğal güzelliklerini ve ekolojik dengesini korumak için birçok önlem alınmıştır. Türbenin bulunduğu alan, Türk halkının dini ve kültürel yaşamına katkıda bulunmanın yanı sıra, doğal güzellikleri ile de ziyaretçileri çekmektedir.
 
 ## Ziyaret Bilgileri
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728354"
 
 # Bin Tepeler Tümülüsü 31
 
-Bin Tepeler Tümülüsü 31, Ege Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir yer. Salihli, Manisa'nın güzide ilçelerinden biri olan bu bölge, tarih severlerin ve doğaşığıların ilgisini çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayacak bir nokta. Bu özel yer, hem tarihî değerleri hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Bin Tepeler Tümülüsü 31, Ege Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir yer. Salihli, Manisa'nın güzide ilçelerinden biri olan bu bölge, tarih severlerin ve doğaşığıların ilgisini çekiyor. Bu özel yer, hem tarihî değerleri hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

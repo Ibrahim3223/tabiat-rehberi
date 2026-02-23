@@ -28,7 +28,7 @@ wikidata_id: "Q31553474"
 
 # Hamzike Tepesi
 
-Hamzike Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin eteklerinde çeşitli bitki türleri bulunmakta ve bu bitki örtüsü, bölgenin ekolojik dengesini korumakta önemli bir rol oynuyor. Hamzike Tepesi, aynı zamanda zengin fauna çeşitliliğine de ev sahipliği yapıyor.
+Hamzike Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir tepe. Tepenin eteklerinde çeşitli bitki türleri bulunmakta ve bu bitki örtüsü, bölgenin ekolojik dengesini korumakta önemli bir rol oynuyor. Hamzike Tepesi, aynı zamanda zengin fauna çeşitliliğine de ev sahipliği yapıyor.
 
 ## Tarihçe
 

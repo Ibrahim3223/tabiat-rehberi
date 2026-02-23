@@ -22,7 +22,7 @@ wikidata_id: "Q108227413"
 
 # Ankara-Nallihan-Andiz Kızılçam
 
-Ankara-Nallihan-Andız Kızılçam Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Bu milli park, ziyaretçilerini yaban hayatının çeşitliliği ve doğal güzellikleriyle karşılar. Nallihan-Andız Kızılçam Milli Parkı, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Ankara-Nallihan-Andız Kızılçam Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu milli park, ziyaretçilerini yaban hayatının çeşitliliği ve doğal güzellikleriyle karşılar. Nallihan-Andız Kızılçam Milli Parkı, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

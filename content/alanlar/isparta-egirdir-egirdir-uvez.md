@@ -23,7 +23,7 @@ wikidata_id: "Q108228433"
 
 # Isparta-Eğirdir-Eğirdir-Üvez
 
-Isparta-Eğirdir-Eğirdir-Üvez milli parkı, Isparta'nın güzide yerlerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, hem doğa severler hem de huzur arayanlar için gerçek bir cennet olarak tanımlanabilir. Isparta'nın merkezi ve Eğirdir ilçesi arasında yer alan bu milli park, ziyaretçilerine hem doğal güzellikler hem de tarihi değerler sunuyor.
+Isparta-Eğirdir-Eğirdir-Üvez milli parkı, Isparta'nın güzide yerlerinden biri olarak karşımıza çıkıyor. Bu milli park, hem doğa severler hem de huzur arayanlar için gerçek bir cennet olarak tanımlanabilir. Isparta'nın merkezi ve Eğirdir ilçesi arasında yer alan bu milli park, ziyaretçilerine hem doğal güzellikler hem de tarihi değerler sunuyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Isparta-Eğirdir-Eğirdir-Üvez milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Isparta-Eğirdir-Eğirdir-Üvez milli parkı, Isparta'nın coğrafi güzelliklerini sergileyen bir bölge olarak tanımlanabilir. Park, 140 hektarlık bir alanda yer alıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak zengin bir yapıya sahip olan bu milli park, ziyaretçilerine çeşitli doğa güzellikleri sunuyor. Parkın coğrafyası, dağlar, ormanlar ve göller gibi doğal unsurlardan oluşuyor. Isparta'nın iklimi, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve bu, parkın bitki örtüsü ve yaban hayatı üzerinde önemli etkilere sahip. Parkın coğrafi konumu, ziyaretçilerine hem doğal güzellikler hem de tarihi değerler sunuyor.
+Isparta-Eğirdir-Eğirdir-Üvez milli parkı, Isparta'nın coğrafi güzelliklerini sergileyen bir bölge olarak tanımlanabilir. Coğrafi olarak zengin bir yapıya sahip olan bu milli park, ziyaretçilerine çeşitli doğa güzellikleri sunuyor. Parkın coğrafyası, dağlar, ormanlar ve göller gibi doğal unsurlardan oluşuyor. Isparta'nın iklimi, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve bu, parkın bitki örtüsü ve yaban hayatı üzerinde önemli etkilere sahip. Parkın coğrafi konumu, ziyaretçilerine hem doğal güzellikler hem de tarihi değerler sunuyor.
 
 ## Flora ve Fauna
 

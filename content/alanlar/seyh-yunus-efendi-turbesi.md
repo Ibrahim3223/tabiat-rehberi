@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Yunus Efendi Türbesi"
 date: "2026-01-10T06:31:53.039Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582625"
 
 # Şeyh Yunus Efendi Türbesi
 
-Şeyh Yunus Efendi Türbesi, Antalya'nın Gündoğmuş ilçesinde yer alan tarihi bir türbe ve plajdır. Bu bölgede, denizin mavisi ve yeşilin birleştiği bir manzara sizleri karşılar. Türbenin etrafı, çeşitli bitki türleriyle çevrili ve denize doğru uzanan bir sahil şeridiyle çevrili. Şeyh Yunus Efendi Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir sahil şeridine sahiptir. Burada, denizin serinliği ve güneşin sıcaklığı birlikte keyifli anlar yaşama mümkün.
+Şeyh Yunus Efendi Türbesi, Antalya'nın Gündoğmuş ilçesinde yer alan tarihi bir türbe ve plajdır. Bu bölgede, denizin mavisi ve yeşilin birleştiği bir manzara sizleri karşılar. Türbenin etrafı, çeşitli bitki türleriyle çevrili ve denize doğru uzanan bir sahil şeridiyle çevrili. Şeyh Yunus Efendi Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur. Burada, denizin serinliği ve güneşin sıcaklığı birlikte keyifli anlar yaşama mümkün.
 
 ## Tarihçe
 

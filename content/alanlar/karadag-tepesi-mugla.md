@@ -28,7 +28,7 @@ wikidata_id: "Q31388636"
 
 # Karadağ Tepesi (Muğla)
 
-Karadağ Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Karadağ Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak görülüyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna encontruluyor. Bu zenginlik, Karadağ Tepesi'ni doğa severler için bir cazibe merkezi haline getiriyor.
+Karadağ Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Karadağ Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak görülüyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna encontruluyor. Bu zenginlik, Karadağ Tepesi'ni doğa severler için bir cazibe merkezi haline getiriyor.
 
 ## Tarihçe
 

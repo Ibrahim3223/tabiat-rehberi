@@ -22,7 +22,7 @@ wikidata_id: "Q108228832"
 
 # Yüksekova Sazlığı Sulak Alanı
 
-Yüksekova Sazlığı Sulak Alanı, İç Anadolu Bölgesi'nin sınırları içerisinde yer alan ve doğal güzellikleri ile dikkat çeken bir sulak alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet vermektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu sulak alan, bölgenin ekolojik dengesinin korunmasına önemli katkılar sağlamaktadır.
+Yüksekova Sazlığı Sulak Alanı, İç Anadolu Bölgesi'nin sınırları içerisinde yer alan ve doğal güzellikleri ile dikkat çeken bir sulak alandır. Bu sulak alan, bölgenin ekolojik dengesinin korunmasına önemli katkılar sağlamaktadır.
 
 ## Tarihçe
 

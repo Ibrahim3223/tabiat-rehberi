@@ -22,7 +22,7 @@ wikidata_id: "Q108227154"
 
 # Örümcek Ormani Goknari 3
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Örümcek Ormani Goknari 3, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerini doğayla baş başa bırakarak, şehir hayatının stresinden uzaklaşmaya davet ediyor. Örümcek Ormani Goknari 3, doğa severlerin ve macera arayanların buluşma noktası olarak dikkat çekiyor. Ziyaretçiler, burada doğanın güzelliğini keşfedebilir, temiz havayı soluyabilir ve doğayla iç içe bir gün geçirebilir.
+ Bu geniş alan, ziyaretçilerini doğayla baş başa bırakarak, şehir hayatının stresinden uzaklaşmaya davet ediyor. Örümcek Ormani Goknari 3, doğa severlerin ve macera arayanların buluşma noktası olarak dikkat çekiyor. Ziyaretçiler, burada doğanın güzelliğini keşfedebilir, temiz havayı soluyabilir ve doğayla iç içe bir gün geçirebilir.
 
 ## Tarihçe
 

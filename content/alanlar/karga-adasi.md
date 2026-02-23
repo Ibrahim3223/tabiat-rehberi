@@ -29,7 +29,7 @@ wikidata_id: "Q49645409"
 
 # Karga Adası
 
-İzmir'in büyüleyici sahillerinde, Ege Denizi'nin masmavi sularında gizlenen Karga Adası, ziyaretçilerini doğal güzellikleriyle karşılar. Bu küçük ada, İzmir'in kıyı şeridinin güzelliğine katkıda bulunur. İzmir'in turistik noktaları arasında yer alan Karga Adası, şehrin doğal zenginliklerini keşfetmek isteyenler için bir durak noktasıdır. İzmir'in eşsiz doğası içinde yer alan bu ada, şehrin ziyaretçilerine unutulmaz anlar vaat ediyor.
+İzmir'in büyüleyici sahillerinde, Ege Denizi'nin masmavi sularında gizlenen Karga Adası, ziyaretçilerini doğal güzellikleriyle karşılar. Bu küçük ada, İzmir'in kıyı şeridinin güzelliğine katkıda bulunur. İzmir'in turistik noktaları arasında yer alan Karga Adası, şehrin doğal zenginliklerini keşfetmek isteyenler için bir durak noktasıdır.
 
 ## Tarihçe
 

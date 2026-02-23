@@ -28,7 +28,7 @@ wikidata_id: "Q34828341"
 
 # Çangallıziyaret Tepesi
 
-Çangallıziyaret Tepesi, Kilis'in merkezi bir konumunda yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin etrafında yaklaşık 140 hektarlık bir yeşil alan bulunmakta, bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu geniş yeşil alan, hem yerel halk hem de ziyaretçiler için keyifli bir gezi deneyimi sunuyor. Tepenin yüksekliği ve etrafındaki manzara, ziyaretçilere Kilis'in eşsiz coğrafyasını keşfetme fırsatı sağlıyor.
+Çangallıziyaret Tepesi, Kilis'in merkezi bir konumunda yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu geniş yeşil alan, hem yerel halk hem de ziyaretçiler için keyifli bir gezi deneyimi sunuyor. Tepenin yüksekliği ve etrafındaki manzara, ziyaretçilere Kilis'in eşsiz coğrafyasını keşfetme fırsatı sağlıyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ wikidata_id: "Q34828341"
 
 ## Ziyaret Bilgileri
 
-Çangallıziyaret Tepesi'ni ziyaret etmek için, Kilis'e ulaşmak necessário. Tepenin etrafındaki yeşil alanlar ve tarihi yapılar, ziyaretçilere keyifli bir gezi deneyimi sunuyor. Tepenin yüksekliği ve etrafındaki manzara, ziyaretçilere bölgenin coğrafyasını keşfetme fırsatı sağlıyor. Çangallıziyaret Tepesi'ni ziyaret etmek için, en iyi mevsim ilkbahar ve sonbahar ayları. Bu mevsimlerde, régionun doğal güzelliği en güzel şekilde görülebiliyor.
+Çangallıziyaret Tepesi'ni ziyaret etmek için, Kilis'e ulaşmak gerekli. Tepenin etrafındaki yeşil alanlar ve tarihi yapılar, ziyaretçilere keyifli bir gezi deneyimi sunuyor. Tepenin yüksekliği ve etrafındaki manzara, ziyaretçilere bölgenin coğrafyasını keşfetme fırsatı sağlıyor. Çangallıziyaret Tepesi'ni ziyaret etmek için, en iyi mevsim ilkbahar ve sonbahar ayları. Bu mevsimlerde, bölgenin doğal güzelliği en güzel şekilde görülebiliyor.
 
 ## İlginç Bilgiler
 

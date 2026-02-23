@@ -29,7 +29,7 @@ wikidata_id: "Q34823809"
 
 # Çamış Tepesi
 
-Diyarbakır'ın merkezi bir konumunda yer alan Çamış Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve onları doğanın güzelliği ile baş başa bırakmaya davet eder. Çamış Tepesi, bölgenin coğrafi ve tarihi açıdan önemli bir noktası olarak kabul edilir. Tepenin eteklerinde yer alan yerleşim yerleri, bu bölgenin insanlık tarihi boyunca önemli bir merkez olduğunu göstermektedir.
+Diyarbakır'ın merkezi bir konumunda yer alan Çamış Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve onları doğanın güzelliği ile baş başa bırakmaya davet eder. Çamış Tepesi, bölgenin coğrafi ve tarihi açıdan önemli bir noktası olarak kabul edilir. Tepenin eteklerinde yer alan yerleşim yerleri, bu bölgenin insanlık tarihi boyunca önemli bir merkez olduğunu göstermektedir.
 
 ## Tarihçe
 

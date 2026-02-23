@@ -24,7 +24,7 @@ wikidata_id: "Q108228031"
 
 # Borçka Karagöl Tabiat Parkı
 
-Borçka Karagöl Tabiat Parkı, yaklaşık 140 hektarlık bir alanı kaplayan, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Parkın içerisinde yer alan Karagöl, çevresi ormanlarla kaplı ve suyun berraklığıyla dikkat çekiyor. Bu tabiat parkı, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyon.
+Borçka Karagöl Tabiat Parkı, yaklaşık 140 hektarlık bir alanı kaplayan, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Parkın içerisinde yer alan Karagöl, çevresi ormanlarla kaplı ve suyun berraklığıyla dikkat çekiyor. Bu tabiat parkı, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389872"
 
 # Eskitme Tepesi
 
-Eskitme Tepesi, Sinop'un merkezi konumunda yer alan ve Karadeniz Bölgesi'nin önemli noktalarından biri olan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ormanlarla kaplı. Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem bir manzara sunuyor. Eskitme Tepesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Burada, yüzyılların izlerini taşıyan tarihi yapılar ve eşsiz doğal güzellikler bulunmakta.
+Eskitme Tepesi, Sinop'un merkezi konumunda yer alan ve Karadeniz Bölgesi'nin önemli noktalarından biri olan bir tepe. Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem bir manzara sunuyor. Eskitme Tepesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Burada, yüzyılların izlerini taşıyan tarihi yapılar ve eşsiz doğal güzellikler bulunmakta.
 
 ## Tarihçe
 

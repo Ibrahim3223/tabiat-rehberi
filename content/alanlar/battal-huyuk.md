@@ -28,11 +28,11 @@ wikidata_id: "Q32133170"
 
 # Battal Hüyük
 
-Battal Hüyük, Gaziantep'in coğrafi güzellikleri ve tarihi değerleriyle dikkat çeken bir bölgedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli tarihi noktalarından biridir. Burada, yüzyıllar boyunca oluşan kültürel ve tarihi değerleri görebilirsiniz. Battal Hüyük, aynı zamanda doğal güzellikleriyle de dikkat çekmektedir. Bölge, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğanın güzelliğini sunmaktadır.
+Battal Hüyük, Gaziantep'in coğrafi güzellikleri ve tarihi değerleriyle dikkat çeken bir bölgedir. Burada, yüzyıllar boyunca oluşan kültürel ve tarihi değerleri görebilirsiniz. Battal Hüyük, aynı zamanda doğal güzellikleriyle de dikkat çekmektedir. Bölge, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğanın güzelliğini sunmaktadır.
 
 ## Tarihçe
 
-Battal Hüyük'ün tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu bölge, tarihi boyunca çeşitli medeniyetlerin hüküm sürdüğü bir yer olarak bilinmektedir. Battal Hüyük, tarihinin her döneminde önemli bir merkez olarak kabul edilmiştir. Burada, tarihi yapılar ve kalıntılar, bölgenin zengin kültürel mirasını gözler önüne sermektedir. Battal Hüyük'ün tarihi değerleri, ziyaretçilere bu bölgenin geçmişini keşfetme fırsatı sunmaktadır. Tarihi yapılar, arkeolojik kazılar ve buluntular, bu bölgenin geçmişini anlamak için önemli veriler sağlamaktadır.
+Battal Hüyük'ün tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu bölge, tarihi boyunca çeşitli medeniyetlerin hüküm sürdüğü bir yer olarak bilinmektedir. Battal Hüyük, tarihinin her döneminde önemli bir merkez olarak kabul edilmiştir. Burada, tarihi yapılar ve kalıntılar, bölgenin zengin kültürel mirasını gözler önüne sermektedir. Tarihi yapılar, arkeolojik kazılar ve buluntular, bu bölgenin geçmişini anlamak için önemli veriler sağlamaktadır.
 
 ## Coğrafya
 

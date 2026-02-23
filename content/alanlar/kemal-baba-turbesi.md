@@ -1,7 +1,7 @@
 ---
 title: "Kemal Baba Türbesi"
 date: "2026-01-10T06:18:37.935Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390647"
 
 # Kemal Baba Türbesi
 
-Kemal Baba Türbesi, Aksaray'ın merkezinde, şehrin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir noktada yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için sakin bir ortam sunuyor. Kemal Baba Türbesi, aynı zamanda Aksaray'ın önemli tarihi noktalarından biri olarak biliniyor. Türbenin etrafı yeşilliklerle çevrili ve ziyaretçiler için dinlenme alanları mevcut.
+Kemal Baba Türbesi, Aksaray'ın merkezinde, şehrin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir noktada yer alıyor. Kemal Baba Türbesi, aynı zamanda Aksaray'ın önemli tarihi noktalarından biri olarak biliniyor. Türbenin etrafı yeşilliklerle çevrili ve ziyaretçiler için dinlenme alanları mevcut.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q35731182"
 
 # Böğlek Tepesi
 
-Böğlek Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu büyük yeşil alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Böğlek Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak görülüyor. Tepenin eteklerinde ve zirvesinde bulunan yürüyüş yolları, ziyaretçilere güzel manzaralar sunuyor.
+Böğlek Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu büyük yeşil alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Böğlek Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak görülüyor. Tepenin eteklerinde ve zirvesinde bulunan yürüyüş yolları, ziyaretçilere güzel manzaralar sunuyor.
 
 ## Tarihçe
 

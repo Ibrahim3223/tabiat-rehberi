@@ -1,7 +1,7 @@
 ---
 title: "Gazi Osman Paşa Türbesi"
 date: "2026-01-10T07:20:22.976Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

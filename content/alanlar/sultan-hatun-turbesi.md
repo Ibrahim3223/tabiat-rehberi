@@ -1,7 +1,7 @@
 ---
 title: "Sultan Hatun Türbesi"
 date: "2026-01-10T05:50:03.988Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582369"
 
 # Sultan Hatun Türbesi
 
-Sultan Hatun Türbesi, Konya'nın Seydişehir ilçesinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir büyüklüğe sahiptir. Sultan Hatun Türbesi, tarihi ve kültürel zenginliklerin birleştiği önemli bir merkezdir. Türbenin etrafı, çeşitli bitki türleriyle kaplıdır ve ziyaretçiler için doğal bir güzellik sunar. Bu alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor.
+Sultan Hatun Türbesi, Konya'nın Seydişehir ilçesinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Sultan Hatun Türbesi, tarihi ve kültürel zenginliklerin birleştiği önemli bir merkezdir. Türbenin etrafı, çeşitli bitki türleriyle kaplıdır ve ziyaretçiler için doğal bir güzellik sunar. Bu alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Sultan Hatun Türbesi, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 
 ## Ziyaret Bilgileri
 
-Sultan Hatun Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliklerini keşfetmek isteyenler için önemli bir fırsat sunar. Türbeye ulaşım, Seydişehir ilçesinden kolayca sağlanabilir. Ziyaretçiler, türbenin tarihini ve çevredeki doğal güzellikleri keşfedebilir. Sultan Hatun Türbesi, yılın her dönemi ziyaret edilebilir. Ancak, en uygun zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, havaları ziyaretçilere daha uygun olur. Ziyaret süresi, türbenin ve çevrenin keşfedilmesine göre değişebilir. Sultan Hatun Türbesi, ziyaretçilere históriki ve doğal güzelliği ile unutulmaz bir deneyim sunar.
+Sultan Hatun Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliklerini keşfetmek isteyenler için önemli bir fırsat sunar. Türbeye ulaşım, Seydişehir ilçesinden kolayca sağlanabilir. Ziyaretçiler, türbenin tarihini ve çevredeki doğal güzellikleri keşfedebilir. Sultan Hatun Türbesi, yılın her dönemi ziyaret edilebilir. Ancak, en uygun zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, havaları ziyaretçilere daha uygun olur. Ziyaret süresi, türbenin ve çevrenin keşfedilmesine göre değişebilir. Sultan Hatun Türbesi, ziyaretçilere tarihi ve doğal güzelliği ile unutulmaz bir deneyim sunar.
 
 ## İlginç Bilgiler
 
@@ -54,4 +54,4 @@ Sultan Hatun Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliklerini keşfet
 - Türbenin etrafı, çeşitli bitki türleriyle kaplıdır.
 - Sultan Hatun Türbesi, Konya'nın coğrafi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir merkezdir.
 - Türbe, yılın her dönemi ziyaret edilebilir.
-- Sultan Hatun Türbesi, ziyaretçilere históriki ve doğal güzelliği ile unutulmaz bir deneyim sunar.
+- Sultan Hatun Türbesi, ziyaretçilere tarihi ve doğal güzelliği ile unutulmaz bir deneyim sunar.

@@ -28,7 +28,7 @@ wikidata_id: "Q31389862"
 
 # Setlibaşı Tepesi
 
-Setlibaşı Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri olan Sinop'ta yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Setlibaşı Tepesi, ziyaretçilere Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunar. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bölgede zengin fauna vardır. Setlibaşı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
+Setlibaşı Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri olan Sinop'ta yer alır. Setlibaşı Tepesi, ziyaretçilere Karadeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunar. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bölgede zengin fauna vardır. Setlibaşı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker.
 
 ## Tarihçe
 

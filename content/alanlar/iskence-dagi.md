@@ -32,7 +32,7 @@ Rize'nin dağlık arazisinde yer alan İşkence Dağı, ziyaretçilerini doğan�
 
 ## Tarihçe
 
-Rize bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. İşkence Dağı, bu bölgeye hakim bir doğal güzellik olarak dikkat çekmektedir. Bölge, tarih boyunca çeşitli uygarlıkların yerleşimlerine tanık olmuştur. M.Ö. 8. yüzyılda bölgede yer alan Kolhis Krallığı, daha sonra Roma ve Bizans dönemlerini yaşamıştır. 15. yüzyılda Osmanlı hakimiyetine giren Rize, ticaret yolları ve yaylacılık faaliyetleri açısından önemli bir merkez olarak faaliyet göstermiştir.
+Rize bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. İşkence Dağı, bu bölgeye hakim bir doğal güzellik olarak dikkat çekmektedir. Bölge, tarih boyunca çeşitli uygarlıkların yerleşimlerine tanık olmuştur. M.Ö. 8. yüzyılda bölgede yer alan Kolhis Krallığı, daha sonra Roma ve Bizans dönemlerini yaşamıştır. 15. yüzyılda Osmanlı hakimiyetine giren Rize, ticaret yolları ve yaylacılık faaliyetleri açısından önemli bir merkez olarak faaliyet göstermiştir.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçasını oluşturmaktadır. Yaylacılık ve hayvancılık faaliyetleri, bölgenin ekonomi ve sosyal yapısını şekillendirmiş, insanların bu doğal alanlarla olan ilişkisi, bölgenin kültürel mirasını zenginleştirmiştir. İşkence Dağı, bu bağlamda Rize bölgesinin tarihsel ve doğal güzelliklerini bir araya getiren önemli bir nokta olarak dikkat çekmektedir. Bölgenin tarihi ve kültürel zenginliği, ziyaretçiler için önemli bir çekim merkezi oluşturmaktadır.
 
@@ -48,11 +48,11 @@ Doğal su kaynakları ve ekosistem bağlantıları bakımından zengin bir bölg
 
 ## Flora ve Fauna
 
-İşkence Dağı, Rize'nin nemli iklimine sahip bir bölgesinde yer alan yüksek bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+İşkence Dağı, Rize'nin nemli iklimine sahip bir bölgesinde yer alan yüksek bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, dağın farklı yükseklik zonlarında çeşitli bitkiler yetişiyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Sonbaharda ise, yaprak döken ağaçlar kırmızılı ve sarılı bir manzara sunuyor. Dağın yüksek kesimlerinde, alpin flora hakimdir. 
+Bitki Örtüsü olarak, dağın farklı yükseklik zonlarında çeşitli bitkiler yetişiyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Sonbaharda ise, yaprak döken ağaçlar kırmızılı ve sarılı bir manzara sunuyor. Dağın yüksek kesimlerinde, alpin flora hakimdir.
 
-Yaban Hayatı olarak, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşıyor. Dağ keçileri ve ayılar, dağın yüksek kesimlerinde yaşarken, çeşitli kuş türleri göç sırasında burayı ziyaret ediyor. Sürüngenler ise, daha çok dağın alt kesimlerinde görülüyor. 
+Yaban Hayatı olarak, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşıyor. Dağ keçileri ve ayılar, dağın yüksek kesimlerinde yaşarken, çeşitli kuş türleri göç sırasında burayı ziyaret ediyor. Sürüngenler ise, daha çok dağın alt kesimlerinde görülüyor.
 
 Ekolojik Değer olarak, İşkence Dağı, yüksek biyoçeşitliliğe sahip bir alan. Bu bölgenin korunması, hem yerel hem de ulusal düzeyde önemli. Dağın ekosisteminin bozulması, birçok canlı türünün yaşamını tehdit edebiliyor. Bu nedenle, İşkence Dağı'nın korunmasına dikkat etmek gerekiyor.
 

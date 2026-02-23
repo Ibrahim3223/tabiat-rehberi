@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Mahmut Çağırgan Baba Türbesi"
 date: "2026-01-10T07:51:38.908Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391321"
 
 # Seyyid Mahmut Çağırgan Baba Türbesi
 
-Seyyid Mahmut Çağırgan Baba Türbesi, Karadeniz Bölgesi'nin saklı cenneti olan Giresun'un Alucra ilçesinde yer alan bir türbe ve plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz'in en güzel plajlarından biridir. Bu türbe ve plaj, doğa severler ve tarih meraklıları için bir cennettir. Seyyid Mahmut Çağırgan Baba Türbesi, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçiyi ağırlamaktadır.
+Seyyid Mahmut Çağırgan Baba Türbesi, Karadeniz Bölgesi'nin saklı cenneti olan Giresun'un Alucra ilçesinde yer alan bir türbe ve plajdır. Bu türbe ve plaj, doğa severler ve tarih meraklıları için bir cennettir. Seyyid Mahmut Çağırgan Baba Türbesi, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçiyi ağırlamaktadır.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Seyyid Mahmut Çağırgan Baba Türbesi'nin tarihi geçmişi, yüzyıllar önces
 
 ## Coğrafya
 
-Seyyid Mahmut Çağırgan Baba Türbesi, Giresun'un Alucra ilçesinde yer alan bir türbe ve plajdır. Bu türbe ve plaj, Karadeniz'in en güzel plajlarından biridir ve 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğündedir. Türbe, yüksek bir konumda yer almaktadır ve Karadeniz'in muhteşem manzarasına sahiptir. Seyyid Mahmut Çağırgan Baba Türbesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu türbe ve plaj, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçiyi ağırlamaktadır. Seyyid Mahmut Çağırgan Baba Türbesi'nin iklimi, Karadeniz iklimi olarak bilinir ve yaz ayları serin ve yağışlı, kış ayları ise soğuk ve karlıdır.
+Seyyid Mahmut Çağırgan Baba Türbesi, Giresun'un Alucra ilçesinde yer alan bir türbe ve plajdır. Türbe, yüksek bir konumda yer almaktadır ve Karadeniz'in muhteşem manzarasına sahiptir. Seyyid Mahmut Çağırgan Baba Türbesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu türbe ve plaj, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçiyi ağırlamaktadır. Seyyid Mahmut Çağırgan Baba Türbesi'nin iklimi, Karadeniz iklimi olarak bilinir ve yaz ayları serin ve yağışlı, kış ayları ise soğuk ve karlıdır.
 
 ## Flora ve Fauna
 
-Seyyid Mahmut Çağırgan Baba Türbesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu türbe ve plaj, Karadeniz'in en güzel plajlarından biridir ve 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğündedir. Seyyid Mahmut Çağırgan Baba Türbesi'nin etrafında, birçok ağaç türü ve çiçek bulunur. Bu türbe ve plaj, aynı zamanda birçok hayvan türünün de yaşam alanıdır. Seyyid Mahmut Çağırgan Baba Türbesi'nin etrafında, birçok kuş türü, keçi, koyun ve diğer hayvanlar bulunur. Bu türbe ve plaj, doğa severler ve hayvan severler için bir cennettir.
+Seyyid Mahmut Çağırgan Baba Türbesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Seyyid Mahmut Çağırgan Baba Türbesi'nin etrafında, birçok ağaç türü ve çiçek bulunur. Bu türbe ve plaj, aynı zamanda birçok hayvan türünün de yaşam alanıdır. Seyyid Mahmut Çağırgan Baba Türbesi'nin etrafında, birçok kuş türü, keçi, koyun ve diğer hayvanlar bulunur. Bu türbe ve plaj, doğa severler ve hayvan severler için bir cennettir.
 
 ## Ziyaret Bilgileri
 
@@ -51,7 +51,7 @@ Seyyid Mahmut Çağırgan Baba Türbesi'ni ziyaret etmek için, Giresun'un Alucr
 ## İlginç Bilgiler
 
 - Seyyid Mahmut Çağırgan Baba Türbesi, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir.
-- Bu türbe ve plaj, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Seyyid Mahmut Çağırgan Baba Türbesi, yüzyıllar öncesine dayanmaktadır.
 - Bu türbe ve plaj, birçok etkinli ve festivalin de düzenlendiği bir yerdir.
 - Seyyid Mahmut Çağırgan Baba Türbesi, Giresun'un Alucra ilçesine uzun bir mesafe uzaklıktadır.

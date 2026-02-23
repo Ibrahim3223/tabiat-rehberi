@@ -22,7 +22,7 @@ wikidata_id: "Q108228208"
 
 # Kastamonu-Azdavay-Camlıbuk-Yabani kiraz
 
-Kastamonu-Azdavay-Camlıbuk-Yabani kiraz milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve yaban kiraz ağaçları ile dolu. Bu alanda yapılan çalışmalar, yaban kirazının korunmasına ve geliştirilmesine yönelik. Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Milli parkın güzelliği, ziyaretçilerini büyülüyor ve doğanın içinde peaceful bir ortam sunuyor.
+Kastamonu-Azdavay-Camlıbuk-Yabani kiraz milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Bu alanda yapılan çalışmalar, yaban kirazının korunmasına ve geliştirilmesine yönelik. Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Milli parkın güzelliği, ziyaretçilerini büyülüyor ve doğanın içinde peaceful bir ortam sunuyor.
 
 ## Tarihçe
 

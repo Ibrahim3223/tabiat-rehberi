@@ -32,9 +32,9 @@ Isparta'nın doğal güzelliklerini keşfetmek isteyenler için harika bir desti
 
 ## Tarihçe
 
-Isparta bölgesi, tarihin derinliklerinden gelen bir geçmişe sahiptir. Bu bölge, farklı uygarlıkların izlerini taşıyan bir coğrafyadır. Hititler, Frigler, Romalılar ve Osmanlılar gibi medeniyetler, zaman içinde bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuşlardır. 
+Isparta bölgesi, tarihin derinliklerinden gelen bir geçmişe sahiptir. Bu bölge, farklı uygarlıkların izlerini taşıyan bir coğrafyadır. Hititler, Frigler, Romalılar ve Osmanlılar gibi medeniyetler, zaman içinde bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuşlardır.
 
-Kömürcü Tepesi gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda kültürel ve tarihi önemleri ile de dikkat çeker. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu doğal alanlarla ilişkisini şekillendirmiştir. Isparta bölgesinin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alması, bu bölgenin stratejik önemini artırmıştır. 
+Kömürcü Tepesi gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda kültürel ve tarihi önemleri ile de dikkat çeker. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu doğal alanlarla ilişkisini şekillendirmiştir. Isparta bölgesinin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alması, bu bölgenin stratejik önemini artırmıştır.
 
 İnsanların Kömürcü Tepesi gibi doğal alanlarla olan bağı, yalnızca ekonomik faaliyetlerle sınırlı değildir. Bu alanlar, aynı zamanda insanların ruhunu ve kültürünü şekillendiren önemli birer parça olarak görülebilir. Türkiye'nin zengin tarihi ve kültürel mirası, bu tür doğal alanların korunması ve gelecek nesillere aktarılmasının önemini vurgular.
 

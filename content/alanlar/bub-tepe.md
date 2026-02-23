@@ -28,7 +28,7 @@ wikidata_id: "Q31386821"
 
 # Bub Tepe
 
-Güneydoğu Anadolu Bölgesi'nin merkezi Batman'da yer alan Bub Tepe, bölge tarihini ve kültürünü yansıtan önemli bir noktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin derinliklerine götürüyor. Bub Tepe, Batman'ın merkezine yakınlığıyla da dikkat çekiyor. Bu tepe, Batman'ın tarihi geçmişi hakkında bilgi vermekte ve ziyaretçilerine bölgenin zengin tarihini keşfetme fırsatı sunuyor.
+Güneydoğu Anadolu Bölgesi'nin merkezi Batman'da yer alan Bub Tepe, bölge tarihini ve kültürünü yansıtan önemli bir noktadır. Bub Tepe, Batman'ın merkezine yakınlığıyla da dikkat çekiyor. Bu tepe, Batman'ın tarihi geçmişi hakkında bilgi vermekte ve ziyaretçilerine bölgenin zengin tarihini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

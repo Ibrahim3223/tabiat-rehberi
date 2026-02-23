@@ -33,7 +33,7 @@ Mersin'in doğal güzelliklerini keşfetmek isteyenler için Kızıldağ, öneml
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. İnsanlık tarihinin en eski uygarlıklarından bazıları, bu topraklarda yaşamıştır. Hitit, Roma ve Bizans gibi medeniyetler, Mersin'i önemli bir merkez olarak görmüşlerdir. Kızıldağ, bu tarihsel zenginliğin bir parçası olarak, bölgenin doğal güzelliklerini sunar.
+Mersin bölgesi, tarihin derin sayfalarında önemli bir yer tutar. İnsanlık tarihinin en eski uygarlıklarından bazıları, bu topraklarda yaşamıştır. Hitit, Roma ve Bizans gibi medeniyetler, Mersin'i önemli bir merkez olarak görmüşlerdir. Kızıldağ, bu tarihsel zenginliğin bir parçası olarak, bölgenin doğal güzelliklerini sunar.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. İnsanlar, bu alanları yaşamlarını sürdürmek için kullanmışlardır. Yaylacılık, hayvancılık ve avcılık, insanların bu doğal alanlarla ilişkisini şekillendiren faaliyetlerdir. Ayrıca, ticaret yolları da bu doğal güzelliklerin arasında geçmiştir. Kızıldağ, bu tarihsel bağlam içinde, bölgenin kültürel ve ekonomik yaşamına katkıda bulunmuştur.
 
@@ -51,11 +51,11 @@ Mersin'in iklim karakteri, Kızıldağ'ın coğrafi konumunu etkiler. Akdeniz ik
 
 ## Flora ve Fauna
 
-Kızıldağ, Mersin'in maki bitki örtüsüne ev sahipliği yapan dağ ekosistemi, 1200 hektarlık bir yeşil cennet. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında kuraklığa dayanıklı türler hakim oluyor. 
+Kızıldağ, Mersin'in maki bitki örtüsüne ev sahipliği yapan dağ ekosistemi, 1200 hektarlık bir yeşil cennet. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında kuraklığa dayanıklı türler hakim oluyor.
 
-Bitki Örtüsü olarak maki türleri, çam ve sedir ağaçları hakim. Mevsimsel değişimlerle birlikte, ilkbaharda çiçek açan türler, yazın kuraklığa uyum sağlayan bitkiler ve sonbaharda göç eden kuşların konakladığı ağaçlar dikkat çekiyor. 
+Bitki Örtüsü olarak maki türleri, çam ve sedir ağaçları hakim. Mevsimsel değişimlerle birlikte, ilkbaharda çiçek açan türler, yazın kuraklığa uyum sağlayan bitkiler ve sonbaharda göç eden kuşların konakladığı ağaçlar dikkat çekiyor.
 
-Yaban Hayatı olarak, dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, kartallar, şahinler ve atmacalar gibi kuşlar, ve çeşitli sürüngenler yaşamını sürdürüyor. Bu canlılar, dağ ekosisteminin yükseklik zonlarına göre yaşam alanlarını belirliyor ve birbirleriyle ekolojik ilişkiler içinde bulunuyor. 
+Yaban Hayatı olarak, dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, kartallar, şahinler ve atmacalar gibi kuşlar, ve çeşitli sürüngenler yaşamını sürdürüyor. Bu canlılar, dağ ekosisteminin yükseklik zonlarına göre yaşam alanlarını belirliyor ve birbirleriyle ekolojik ilişkiler içinde bulunuyor.
 
 Ekolojik Değer olarak, Kızıldağ, bölgenin ekolojik dengesini sağlayan önemli bir habitat. Koruma durumu ise, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önlemler alınıyor.
 

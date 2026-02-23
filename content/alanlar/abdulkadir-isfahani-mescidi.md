@@ -1,7 +1,7 @@
 ---
 title: "Abdülkadir İsfahani Mescidi"
 date: "2026-01-10T04:33:16.640Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q89272155"
 
 # Abdülkadir İsfahani Mescidi
 
-Abdülkadir İsfahani Mescidi, Ankara'nın kalbinde yer alan ve tarihindepthığı bir mescit olarak ziyaretçilerini bekliyor. İç Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini yansıtan bu mescit, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsıyor. Abdülkadir İsfahani Mescidi, tarihi ve doğal güzellikleri bir araya getiren bir destinasyon olarak, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Abdülkadir İsfahani Mescidi, Ankara'nın kalbinde yer alan ve tarihindepthığı bir mescit olarak ziyaretçilerini bekliyor. İç Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini yansıtan bu mescit, yaklaşık 140 hektarlık bir alanı kaplıyor.
 
 ## Tarihçe
 

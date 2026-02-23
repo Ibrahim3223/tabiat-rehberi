@@ -28,7 +28,7 @@ wikidata_id: "Q31387936"
 
 # Yıldıztarla Tepesi
 
-Yıldıztarla Tepesi, Giresun ilinin güzide bir noktası olarak, Karadeniz Bölgesi'nin eşsiz doğal güzelliklerini sunar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Yıldıztarla Tepesi, ziyaretçilerini hem doğal güzelliği hem de tarihi geçmişiyle cezbetmeyi başarır. Bu tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Doğa severler için bir cennet olan Yıldıztarla Tepesi, aynı zamanda tarihin izlerini taşıyan önemli bir turizm noktasıdır.
+Yıldıztarla Tepesi, Giresun ilinin güzide bir noktası olarak, Karadeniz Bölgesi'nin eşsiz doğal güzelliklerini sunar. Yıldıztarla Tepesi, ziyaretçilerini hem doğal güzelliği hem de tarihi geçmişiyle cezbetmeyi başarır. Bu tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Doğa severler için bir cennet olan Yıldıztarla Tepesi, aynı zamanda tarihin izlerini taşıyan önemli bir turizm noktasıdır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yıldıztarla Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Yıldıztarla Tepesi, Giresun ilinin önemli coğrafi noktalarından biridir. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri taşır ve zengin bir doğal güzellik sunar. Tepenin yüksekliği ve genişliği, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Yıldıztarla Tepesi'nin coğrafi konumu, ziyaretçilerine geniş bir manzara sunar ve Karadeniz Bölgesi'nin eşsiz doğal güzelliklerini gösterir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu tepe, aynı zamanda, Karadeniz Bölgesi'nin önemli su kaynaklarına da ev sahipliği yapar.
+Yıldıztarla Tepesi, Giresun ilinin önemli coğrafi noktalarından biridir. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri taşır ve zengin bir doğal güzellik sunar. Yıldıztarla Tepesi'nin coğrafi konumu, ziyaretçilerine geniş bir manzara sunar ve Karadeniz Bölgesi'nin eşsiz doğal güzelliklerini gösterir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu tepe, aynı zamanda, Karadeniz Bölgesi'nin önemli su kaynaklarına da ev sahipliği yapar.
 
 ## Flora ve Fauna
 

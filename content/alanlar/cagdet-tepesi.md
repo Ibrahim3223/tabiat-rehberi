@@ -28,7 +28,7 @@ wikidata_id: "Q34828841"
 
 # Çağdet Tepesi
 
-Çağdet Tepesi, Doğu Anadolu Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak, Erzurum'un doğal güzelliklerini ön plana çıkarır. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir panorama sunar. Çağdet Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ederken, aynı zamanda bölgenin coğrafi ve tarihi zenginliklerini keşfetme fırsatı sunar. Bu tepe, Erzurum'un coğrafi yapısını ve tarihi geçmişi hakkında bilgiler içerir.
+Çağdet Tepesi, Doğu Anadolu Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak, Erzurum'un doğal güzelliklerini ön plana çıkarır. Çağdet Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ederken, aynı zamanda bölgenin coğrafi ve tarihi zenginliklerini keşfetme fırsatı sunar. Bu tepe, Erzurum'un coğrafi yapısını ve tarihi geçmişi hakkında bilgiler içerir.
 
 ## Tarihçe
 

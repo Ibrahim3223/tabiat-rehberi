@@ -28,7 +28,7 @@ wikidata_id: "Q31538343"
 
 # Tahtir Tepesi
 
-Hatay'da yer alan Tahtir Tepesi, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar. Bu bölge, doğa severler için ideal bir destinasyon olarak öne çıkarken, aynı zamanda tarihî ve kültürel açıdan da zengin bir geçmişi sunar. Tahtir Tepesi, Akdeniz Bölgesi'nin güzelliklerini bir araya getiren bir noktada bulunur ve bu özelliği ile dikkat çeker.
+ Bu bölge, doğa severler için ideal bir destinasyon olarak öne çıkarken, aynı zamanda tarihî ve kültürel açıdan da zengin bir geçmişi sunar. Tahtir Tepesi, Akdeniz Bölgesi'nin güzelliklerini bir araya getiren bir noktada bulunur ve bu özelliği ile dikkat çeker.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tahtir Tepesi, tarihî geçmişi ile dikkat çeker. Bu bölge, yüzyıllar boyun
 
 ## Coğrafya
 
-Tahtir Tepesi, coğrafi açıdan zengin bir yapıya sahiptir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır ve iklimi ile dikkat çeker. Tahtir Tepesi, ziyaretçilerine doğa güzelliklerini sunarken, aynı zamanda coğrafi olarak da önemli bir noktada bulunur. Bölge, çeşitli bitki türleri ve hayvanlarla doludur ve bu özelliği ile doğa severler için ideal bir destinasyondur. Tahtir Tepesi'nin coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunar ve bu özelliği ile dikkat çeker.
+Tahtir Tepesi, coğrafi açıdan zengin bir yapıya sahiptir. Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır ve iklimi ile dikkat çeker. Tahtir Tepesi, ziyaretçilerine doğa güzelliklerini sunarken, aynı zamanda coğrafi olarak da önemli bir noktada bulunur. Bölge, çeşitli bitki türleri ve hayvanlarla doludur ve bu özelliği ile doğa severler için ideal bir destinasyondur. Tahtir Tepesi'nin coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunar ve bu özelliği ile dikkat çeker.
 
 ## Flora ve Fauna
 

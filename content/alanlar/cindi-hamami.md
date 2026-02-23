@@ -1,7 +1,7 @@
 ---
 title: "Cindi Hamamı"
 date: "2026-01-09T22:24:52.299Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738472"
 
 # Cindi Hamamı
 
-Cindi Hamamı, Antakya'nın merkezine oldukça yakın bir mesafede bulunan ve yaklaşık 140 hektarlık bir alana yayılan, etkileyici bir doğal güzelliktir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzak, sakin bir ortam sunar. Cindi Hamamı, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunar. Bu bölge, özellikle yaz aylarında, denize girme ve güneşlenme olanakları ile dikkat çeker.
+Cindi Hamamı, Antakya'nın merkezine oldukça yakın bir mesafede bulunan ve yaklaşık 140 hektarlık bir alana yayılan, etkileyici bir doğal güzelliktir. Cindi Hamamı, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunar. Bu bölge, özellikle yaz aylarında, denize girme ve güneşlenme olanakları ile dikkat çeker.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Cindi Hamamı, Akdeniz Bölgesi'nde, Antakya ilinin sınırları içerisinde yer
 
 ## Flora ve Fauna
 
-Cindi Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, özellikle yaz aylarında, deniz suyu serin ve berraktır, bu da sualtı yaşamını keşfetmek için ideal koşullar sağlar. Ayrıca, çevredeki ormanlık alanlar, birçok farklı hayvan türüne ev sahipliği yapar. Cindi Hamamı, doğa severler için bir cennet gibidir, çünkü burada, doğanın güzelliğini ve zenginliğini yakından gözlemleme mümkündür. Mevsimsel değişimlere göre, bu bölgede farklı türlerde bitkiler ve hayvanlar görülebilir, bu da Cindi Hamamı'nı her mevsim yeni bir keşif alanı haline getirir.
+ Bu bölgede, özellikle yaz aylarında, deniz suyu serin ve berraktır, bu da sualtı yaşamını keşfetmek için ideal koşullar sağlar. Ayrıca, çevredeki ormanlık alanlar, birçok farklı hayvan türüne ev sahipliği yapar. Cindi Hamamı, doğa severler için bir cennet gibidir, çünkü burada, doğanın güzelliğini ve zenginliğini yakından gözlemleme mümkündür. Mevsimsel değişimlere göre, bu bölgede farklı türlerde bitkiler ve hayvanlar görülebilir, bu da Cindi Hamamı'nı her mevsim yeni bir keşif alanı haline getirir.
 
 ## Ziyaret Bilgileri
 

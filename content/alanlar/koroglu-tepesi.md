@@ -29,7 +29,7 @@ wikidata_id: "Q32210298"
 
 # Köroğlu Tepesi
 
-Köroğlu Tepesi, Erzurum'un eşsiz doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Doğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için önemli bir noktadır. Köroğlu Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Tepenin eteklerinde verschill bitki türleri bulunur ve bu bölgede yaban hayatı da oldukça zengindir. Köroğlu Tepesi, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyondur.
+Köroğlu Tepesi, Erzurum'un eşsiz doğal güzelliklerinden biridir. Doğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için önemli bir noktadır. Köroğlu Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Tepenin eteklerinde verschill bitki türleri bulunur ve bu bölgede yaban hayatı da oldukça zengindir. Köroğlu Tepesi, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyondur.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31534640"
 
 # Hacıali Bağlığı Tepesi
 
-Hacıali Bağlığı Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan önemli bir coğrafi noktadır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve çevresi çeşitli bitki türleriyle çevrilidir. Hacıali Bağlığı Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir. Bu tepenin etrafında yer alan köyler ve kasabalar, ziyaretçilere zengin bir kültürel experiencia sunmaktadır.
+Hacıali Bağlığı Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan önemli bir coğrafi noktadır. Hacıali Bağlığı Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir. Bu tepenin etrafında yer alan köyler ve kasabalar, ziyaretçilere zengin bir kültürel experiencia sunmaktadır.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Hacıali Bağlığı Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıla
 ## İlginç Bilgiler
 
 - Hacıali Bağlığı Tepesi, Akdeniz Bölgesi'nin önemli coğrafi noktalarından biridir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Hacıali Bağlığı Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Bu tepe, mevsimsel değişimlere göre farklı bitki türleri ile kaplanmaktadır.
 - Hacıali Bağlığı Tepesi, doğa severler için önemli bir gözlem alanı olarak kabul edilmektedir.

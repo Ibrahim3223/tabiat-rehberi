@@ -32,7 +32,7 @@ Iğdır'ın doğusunda, Türkiye'nin en uzak köşesinde yer alan Küçük Aras 
 
 ## Tarihçe
 
-Iğdır bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği önemli bir merkezdi. Iğdır, Urartu Krallığı, Roma İmparatorluğu ve Selçuklu Devleti gibi büyük uygarlıkların egemenliği altına girmiş ve her biri bu topraklara kendi kültürel mirasını bırakmıştır.
+Iğdır bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği önemli bir merkezdi. Iğdır, Urartu Krallığı, Roma İmparatorluğu ve Selçuklu Devleti gibi büyük uygarlıkların egemenliği altına girmiş ve her biri bu topraklara kendi kültürel mirasını bırakmıştır.
 
 Küçük Adatlu Dağı, Iğdır'ın doğal güzelliklerini temsil eder. Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahiptir. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisinde önemli bir yer tutmaktadır. Ayrıca, tarihi ticaret yolları da bu bölgeden geçerek, farklı uygarlıklar arasındaki kültürel ve ekonomik alışverişi sağlamıştır.
 

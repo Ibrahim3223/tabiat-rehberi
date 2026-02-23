@@ -28,7 +28,7 @@ wikidata_id: "Q31387760"
 
 # Kaplankaya Tepesi
 
-Kaplankaya Tepesi, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un eşsiz güzellikteki bir bölgesinde yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Kaplankaya Tepesi, hem doğal güzellikleri hem de tarihi zenginlikleriyle bir gezi cenneti olarak karşımıza çıkıyor. Ziyaretçiler, bu eşsiz tepeye tırmanırken, bölgenin zengin flora ve faunasını keşfetme fırsatı buluyorlar. Kaplankaya Tepesi, doğa severlerin ve macera arayanların gözdesi haline gelmiş bir destinasyon olarak dikkat çekiyor.
+Kaplankaya Tepesi, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un eşsiz güzellikteki bir bölgesinde yer alıyor. Kaplankaya Tepesi, hem doğal güzellikleri hem de tarihi zenginlikleriyle bir gezi cenneti olarak karşımıza çıkıyor. Ziyaretçiler, bu eşsiz tepeye tırmanırken, bölgenin zengin flora ve faunasını keşfetme fırsatı buluyorlar. Kaplankaya Tepesi, doğa severlerin ve macera arayanların gözdesi haline gelmiş bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

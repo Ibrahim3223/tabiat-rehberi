@@ -29,7 +29,7 @@ wikidata_id: "Q134728228"
 
 # Canytellis Kaya Mezarı ve Rölyefleri
 
-Mersin'in Erdemli ilçesinde, Akdeniz Bölgesi'nin güneşli sahillerine yakın bir konumda yer alan Canytellis Kaya Mezarı ve Rölyefleri, ziyaretçilerini tarihin derinliklerine ve doğanın eşsiz güzelliğine davet ediyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplıyor ve ziyaretçiler için hem tarihi hem de doğal bir hazine sunuyor. Canytellis, tarihi geçmişi ve benzersiz doğası ile öne çıkarken, aynı zamanda Mersin'in önemli turizm noktalarından biri olarak dikkat çekiyor.
+Mersin'in Erdemli ilçesinde, Akdeniz Bölgesi'nin güneşli sahillerine yakın bir konumda yer alan Canytellis Kaya Mezarı ve Rölyefleri, ziyaretçilerini tarihin derinliklerine ve doğanın eşsiz güzelliğine davet ediyor. Canytellis, tarihi geçmişi ve benzersiz doğası ile öne çıkarken, aynı zamanda Mersin'in önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

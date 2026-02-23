@@ -49,7 +49,7 @@ Bölgenin ekolojik dengesini sağlayan su kaynakları ve ekosistem bağlantılar
 
 ## Flora ve Fauna
 
-Kara Dağ, Bolu'nun nemli ikliminde yer alan gür ormanlarla kaplı bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kara Dağ, Bolu'nun nemli ikliminde yer alan gür ormanlarla kaplı bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çeşitli çiçekler açar, sonbaharda ise yaprakların renk değiştirmesiyle dağ manzarası farklı bir güzelliğe bürünür. Dağın yükseklik zonlarına göre değişen bitki türleri, bu bölgenin yüksek biyoçeşitliliğini gösterir.
 

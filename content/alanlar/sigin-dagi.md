@@ -68,4 +68,4 @@ Siğin Dağı, Ağrı'da bulunan bir dağcılık ve trekking cenneti. Sabah erke
 - Dağın yüksekliği yaklaşık 3150 metredir.
 - Siğin Dağı, jeolojik olarak volkanik kökenlidir.
 - Dağın çevresinde çeşitli akarsular ve göller bulunmaktadır.
-- Bölge, flora ve fauna açısından oldukça zengindir.
+

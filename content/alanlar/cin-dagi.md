@@ -45,7 +45,7 @@ Doğal güzellikleri ile dikkat çeken Cin Dağı, yaklaşık olarak bir şehir 
 
 İklim açısından, Cin Dağı ve çevresi, karasal iklimin hakim olduğu bir bölgedir. Kış aylarında sert ve soğuk hava koşulları, yaz aylarında ise ılıman ve serin bir hava hakimdir. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Ayrıca, Cin Dağı'nın yüksekliği ve coğrafi konumu, bölgenin hava durumunu da etkilemektedir.
 
-Cin Dağı, çevresindeki diğer doğal alanlarla bağlantılı bir ekosistem içerisinde yer almaktadır. Bu dağ, komşu alanlardaki su kaynaklarının oluşumunu ve akışını etkilemektedir. Ayrıca, Cin Dağı'nın doğal güzellikleri, bölgenin turizm potansiyelini arttırmaktadır. Bu nedenle, Cin Dağı'nın koruma altına alınması ve doğal güzelliklerinin korunması, bölgenin ekolojik dengesini korumak açısından önemlidir.
+Cin Dağı, çevresindeki diğer doğal alanlarla bağlantılı bir ekosistem içerisinde yer almaktadır. Bu dağ, komşu alanlardaki su kaynaklarının oluşumunu ve akışını etkilemektedir. Ayrıca, Cin Dağı'nın doğal güzellikleri, bölgenin turizm potansiyelini arttırmaktadır.
 
 ## Flora ve Fauna
 

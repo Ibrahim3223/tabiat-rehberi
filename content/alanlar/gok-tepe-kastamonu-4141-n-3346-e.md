@@ -28,7 +28,7 @@ wikidata_id: "Q32223370"
 
 # Gök Tepe (Kastamonu, 41.41 N 33.46 E)
 
-Gök Tepe, Kastamonu'nun gözde noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülüyor. Gök Tepe'nin konumu, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtıyor. Bölge, geniş ormanlık alanları ve dağlık arazileriyle biliniyor. Gök Tepe, bu coğrafi özelliklerin bir araya geldiği önemli bir nokta olarak dikkat çekiyor.
+Gök Tepe, Kastamonu'nun gözde noktalarından biri olarak karşımıza çıkıyor. Gök Tepe'nin konumu, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtıyor. Bölge, geniş ormanlık alanları ve dağlık arazileriyle biliniyor. Gök Tepe, bu coğrafi özelliklerin bir araya geldiği önemli bir nokta olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gök Tepe'nin tarihi geçmişi, Kastamonu'nun genel tarihi ile paralellik göste
 
 ## Coğrafya
 
-Gök Tepe, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, geniş ormanlık alanlar, dağlık araziler ve nehirler ile çevrili. Gök Tepe, bu coğrafi özelliklerin bir araya geldiği önemli bir nokta olarak dikkat çekiyor. Tepe, 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Gök Tepe'nin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda bulunuyor. Bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkileyen önemli bir faktör. Gök Tepe'nin coğrafi konumu, bölgenin flora ve faunasının çeşitliliğini de etkiliyor.
+Gök Tepe, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, geniş ormanlık alanlar, dağlık araziler ve nehirler ile çevrili. Gök Tepe, bu coğrafi özelliklerin bir araya geldiği önemli bir nokta olarak dikkat çekiyor. Gök Tepe'nin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda bulunuyor. Bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkileyen önemli bir faktör. Gök Tepe'nin coğrafi konumu, bölgenin flora ve faunasının çeşitliliğini de etkiliyor.
 
 ## Flora ve Fauna
 

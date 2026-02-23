@@ -23,11 +23,11 @@ wikidata_id: "Q108228183"
 
 # Karşıyaka
 
-Karşıyaka milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik bölgelerinden biri olarak kabul ediliyor. Bu milli park, yerliler ve ziyaretçiler için bir çekim merkezi olarak hizmet veriyor ve doğa severlerin keşfetmek için geldiği bir yer olarak biliniyor. İç Anadolu Bölgesi'nin coğrafi konumu, Karşıyaka milli parkının benzersiz bir flora ve fauna çeşitliliğine sahip olmasını sağlıyor.
+Karşıyaka milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal alan olarak dikkat çekiyor. Bu milli park, yerliler ve ziyaretçiler için bir çekim merkezi olarak hizmet veriyor ve doğa severlerin keşfetmek için geldiği bir yer olarak biliniyor. İç Anadolu Bölgesi'nin coğrafi konumu, Karşıyaka milli parkının benzersiz bir flora ve fauna çeşitliliğine sahip olmasını sağlıyor.
 
 ## Tarihçe
 
-Karşıyaka milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu région, tarih boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak bilinmiştir. Milli parkın kurulması, bölgenin doğal güzelliklerini koruma ve gelecek nesiller için saklamak amacıyla yapılmıştır. Karşıyaka milli parkının tarihi, bölgenin kültürel ve doğal zenginliklerinin bir karışımı olarak düşünülebilir. Bu milli park, ziyaretçilere bölgenin históri ve kültürel mirasını keşfetme fırsatı sunuyor.
+Karşıyaka milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarih boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak bilinmiştir. Milli parkın kurulması, bölgenin doğal güzelliklerini koruma ve gelecek nesiller için saklamak amacıyla yapılmıştır. Karşıyaka milli parkının tarihi, bölgenin kültürel ve doğal zenginliklerinin bir karışımı olarak düşünülebilir. Bu milli park, ziyaretçilere bölgenin tarihi ve kültürel mirasını keşfetme fırsatı sunuyor.
 
 ## Coğrafya
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31564767"
 
 # Kavaklıdağ Tepesi
 
-Kavaklıdağ Tepesi, Bolu'nun merkezine uzun bir mesafe uzaklıkta, Karadeniz Bölgesi'nin görece yüksek rakımlarından birini oluşturur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu durum, bölgeyi flora açısından zenginleştirir. Kavaklıdağ Tepesi, aynı zamanda bölgedeki tarihi geçmişiyle de dikkat çeker. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu süreçte önemli bir kültür mirasının oluşmasına tanıklık etmiştir.
+Kavaklıdağ Tepesi, Bolu'nun merkezine uzun bir mesafe uzaklıkta, Karadeniz Bölgesi'nin görece yüksek rakımlarından birini oluşturur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu durum, bölgeyi flora açısından zenginleştirir. Kavaklıdağ Tepesi, aynı zamanda bölgedeki tarihi geçmişiyle de dikkat çeker. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu süreçte önemli bir kültür mirasının oluşmasına tanıklık etmiştir.
 
 ## Tarihçe
 

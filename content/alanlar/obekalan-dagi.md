@@ -32,7 +32,7 @@ Balıkesir'in doğal güzellikleriyle dolu coğrafyasında, Öbekalan Dağı dik
 
 ## Tarihçe
 
-Öbekalan Dağı, Balıkesir'in zengin tarihi dokusu içinde yer alan bir doğal güzellik. Bölge, tarihi boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Hitit, Frig, Lidya ve Roma gibi medeniyetler burada iz bırakmışlardır. Bu topraklar, tarihin sâu sayfalarında önemli ticaret yollarının kesişme noktası olarak da görev görmüştür.
+Öbekalan Dağı, Balıkesir'in zengin tarihi dokusu içinde yer alan bir doğal güzellik. Bölge, tarihi boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Hitit, Frig, Lidya ve Roma gibi medeniyetler burada iz bırakmışlardır. Bu topraklar, tarihin derin sayfalarında önemli ticaret yollarının kesişme noktası olarak da görev görmüştür.
 
 Doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir yer tutmaktadır. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların yaşamlarının temelini oluşturmuştur. İnsanlar, mevsimsel olarak bu doğal alanlara göç ederek hayvanlarını otlatmış, Burada geçimlerini sağlamışlardır. Ayrıca, tarihi ticaret yolları üzerinde bulunan bu bölgeler, farklı medeniyetler arasında kültürel ve ekonomik alışverişin de merkezi olmuştur.
 

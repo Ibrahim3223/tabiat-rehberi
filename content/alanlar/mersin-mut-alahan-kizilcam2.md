@@ -1,7 +1,7 @@
 ---
 title: "Mersin-Mut-Alahan Kizilcam2"
 date: "2026-01-09T20:16:09.075Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Mersin"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228535"
 
 # Mersin-Mut-Alahan Kizilcam2
 
-Mersin-Mut-Alahan Kizilcam2 milli parkı, Mersin ilinde yer alan ve 140 hektarlık geniş bir yeşil alana sahip olan bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir alan sunmaktadır. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ziyaretçiler, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir ve môi parkın sunduğu olanaklardan yararlanabilir.
+Mersin-Mut-Alahan Kizilcam2 milli parkı, Mersin ilinde yer alan ve 140 hektarlık geniş bir yeşil alana sahip olan bir doğa harikasıdır. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ziyaretçiler, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir ve môi parkın sunduğu olanaklardan yararlanabilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-Mut-Alahan Kizilcam2 milli parkının tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Mersin-Mut-Alahan Kizilcam2 milli parkı, Mersin ilinin Mut ilçesinde yer alan bir doğa harikasıdır. Bu milli park, 140 hektarlık geniş bir yeşil alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Ziyaretçiler, milli parkın sunduğu olanaklardan yararlanabilir ve doğa yürüyüşleri yapabilir. Milli parkın iklimi, Akdeniz Bölgesi'nin karakteristik iklimine sahiptir ve genellikle ılıman ve yağışlıdır. Milli parkın çevresi, doğal güzelliği ile dikkat çekmekte ve ziyaretçilerine geniş bir alan sunmaktadır.
+Mersin-Mut-Alahan Kizilcam2 milli parkı, Mersin ilinin Mut ilçesinde yer alan bir doğa harikasıdır. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Ziyaretçiler, milli parkın sunduğu olanaklardan yararlanabilir ve doğa yürüyüşleri yapabilir. Milli parkın iklimi, Akdeniz Bölgesi'nin karakteristik iklimine sahiptir ve genellikle ılıman ve yağışlıdır. Milli parkın çevresi, doğal güzelliği ile dikkat çekmekte ve ziyaretçilerine geniş bir alan sunmaktadır.
 
 ## Flora ve Fauna
 

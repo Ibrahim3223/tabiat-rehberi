@@ -1,7 +1,7 @@
 ---
 title: "Kadınana Asiye Sultan Türbesi"
 date: "2026-01-10T06:14:22.585Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -33,7 +33,7 @@ Kadınana Asiye Sultan Türbesi, Afyonkarahisar ilinin merkezinde yer alan önem
 
 ## Tarihçe
 
-Asiye Sultan Türbesi, tarihsel olarak önemli bir geçmişe sahip. Bu türbenin kesin kuruluş tarihi bilinmese de, tarihi geçmişi yüzyıllar öncesine dayanıyor. Asiye Sultan, Osmanlı Devleti'nin önemli isimlerinden biri olarak biliniyor. Türbe, zaman içinde çeşitli restorasyonlar ve onarımlar görmüş ve günümüze kadar ulaşmıştır. Asiye Sultan Türbesi, dini ve kültürel açıdan önemli bir merkez olarak ziyaretçilerini ağırlıyor. Türbenin tarihi geçmişi, ziyaretçilere önemli bir kültürel expérience sunuyor. Asiye Sultan Türbesi, Afyonkarahisar'ın önemli tarihi ve dini merkezlerinden biri olarak kabul ediliyor.
+Asiye Sultan Türbesi, tarihsel olarak önemli bir geçmişe sahip. Bu türbenin kesin kuruluş tarihi bilinmese de, tarihi geçmişi yüzyıllar öncesine dayanıyor. Asiye Sultan, Osmanlı Devleti'nin önemli isimlerinden biri olarak biliniyor. Türbe, zaman içinde çeşitli restorasyonlar ve onarımlar görmüş ve günümüze kadar ulaşmıştır. Asiye Sultan Türbesi, dini ve kültürel açıdan önemli bir merkez olarak ziyaretçilerini ağırlıyor. Türbenin tarihi geçmişi, ziyaretçilere önemli bir kültürel deneyim sunuyor. Asiye Sultan Türbesi, Afyonkarahisar'ın önemli tarihi ve dini merkezlerinden biri olarak kabul ediliyor.
 
 ## Coğrafya
 

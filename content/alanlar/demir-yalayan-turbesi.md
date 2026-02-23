@@ -1,7 +1,7 @@
 ---
 title: "Demir Yalayan Türbesi"
 date: "2026-01-10T06:02:26.052Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390543"
 
 # Demir Yalayan Türbesi
 
-Afyonkarahisar'ın merkezinde yer alan Demir Yalayan Türbesi, şehrin tarihi ve kültürel zenginliğinin önemli bir parçası. Bu tarihi mekan, ziyaretçiler için hem dinlenme hem de kültürel keşif imkanı sunuyor. 140 hektarlık bir alana yayılan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Demir Yalayan Türbesi, Afyonkarahisar'ın tarihi geçmişi ve doğal güzelliğinin birleştiği noktalardan biri olarak dikkat çekiyor.
+Afyonkarahisar'ın merkezinde yer alan Demir Yalayan Türbesi, şehrin tarihi ve kültürel zenginliğinin önemli bir parçası. Bu tarihi mekan, ziyaretçiler için hem dinlenme hem de kültürel keşif imkanı sunuyor. Demir Yalayan Türbesi, Afyonkarahisar'ın tarihi geçmişi ve doğal güzelliğinin birleştiği noktalardan biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

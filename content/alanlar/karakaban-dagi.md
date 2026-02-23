@@ -48,10 +48,10 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Karakaban Dağı'nın çe
 
 ## Flora ve Fauna
 
-Karakaban Dağı, Gümüşhane'nin nemli iklimine ve gür ormanlarına ev sahipliği yapan bir dağ ekosistemi olarak yüksek biyoçeşitlilik sunar. 
+Karakaban Dağı, Gümüşhane'nin nemli iklimine ve gür ormanlarına ev sahipliği yapan bir dağ ekosistemi olarak yüksek biyoçeşitlilik sunar.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Yaz aylarında ise yükseklik zonlarına bağlı olarak farklı türlerin hakim olduğu alanlar oluşur. 
-Yaban Hayatı açısından, dağda çeşitli memeli ve kuş türleri yaşamaktadır. Sonbaharda, göçmen kuşlar dağ üzerinden geçiş yaparken, memeliler mevsimsel olarak besin kaynaklarına göre hareket ederler. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Yaz aylarında ise yükseklik zonlarına bağlı olarak farklı türlerin hakim olduğu alanlar oluşur.
+Yaban Hayatı açısından, dağda çeşitli memeli ve kuş türleri yaşamaktadır. Sonbaharda, göçmen kuşlar dağ üzerinden geçiş yaparken, memeliler mevsimsel olarak besin kaynaklarına göre hareket ederler.
 Ekolojik Değer olarak, Karakaban Dağı'nın korunması, bölgenin biyoçeşitliliğini ve ekolojik dengesini korumak için önemlidir.
 
 ## Ziyaret Bilgileri

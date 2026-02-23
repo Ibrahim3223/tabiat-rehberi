@@ -1,7 +1,7 @@
 ---
 title: "Nasreddin Hoca Türbesi"
 date: "2026-01-10T07:03:10.851Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390882"
 
 # Nasreddin Hoca Türbesi
 
-Nasreddin Hoca Türbesi, Konya'nın Akşehir ilçesinde yer alan, tarihi ve kültürel açıdan büyük öneme sahip bir mekândır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeyi kaplar. Bu türbe, Nasreddin Hoca'nın anısına inşa edilmiştir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Türbenin etrafında,historik yapılar ve yeşil alanlar bulunmaktadır. Ziyaretçiler, bu tarihi mekânı gezerken hem Nasreddin Hoca'nın hayatını ve felsefesini öğrenmekte hem de bölge'nin doğal güzelliklerini keşfetmektedir.
+Nasreddin Hoca Türbesi, Konya'nın Akşehir ilçesinde yer alan, tarihi ve kültürel açıdan büyük öneme sahip bir mekândır. Bu türbe, Nasreddin Hoca'nın anısına inşa edilmiştir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Türbenin etrafında,historik yapılar ve yeşil alanlar bulunmaktadır. Ziyaretçiler, bu tarihi mekânı gezerken hem Nasreddin Hoca'nın hayatını ve felsefesini öğrenmekte hem de bölge'nin doğal güzelliklerini keşfetmektedir.
 
 ## Tarihçe
 

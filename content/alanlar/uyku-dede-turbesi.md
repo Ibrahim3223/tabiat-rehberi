@@ -1,7 +1,7 @@
 ---
 title: "Uyku Dede Türbesi"
 date: "2026-01-10T07:21:26.519Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391003"
 
 # Uyku Dede Türbesi
 
-Uyku Dede Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plaj ve tarihi mekan. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzelliklerle karşılar. Bu özel mekan, hem İstanbul'un tarihi geçmişini hem de Marmara Bölgesi'nin coğrafi zenginliklerini deneyimlemek isteyenler için ideal bir destinasyon. Uyku Dede Türbesi'nin ziyaretçileri, hem denizin serinliği hem de tarihi mekanların mistik atmosferini hissedebilir.
+Uyku Dede Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plaj ve tarihi mekan. Bu özel mekan, hem İstanbul'un tarihi geçmişini hem de Marmara Bölgesi'nin coğrafi zenginliklerini deneyimlemek isteyenler için ideal bir destinasyon. Uyku Dede Türbesi'nin ziyaretçileri, hem denizin serinliği hem de tarihi mekanların mistik atmosferini hissedebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Uyku Dede Türbesi'nin tarihi geçmişi, İstanbul'un fethine kadar uzanır. Bu 
 
 ## Coğrafya
 
-Uyku Dede Türbesi, Marmara Bölgesi'nin coğrafi özellikleri ile çevrili bir bölgede yer alır. Bu bölge, denizin serinliği ve yeşilin buluştuğu bir noktada, ziyaretçilere eşsiz bir manzara sunar. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilerin doğayla iç içe olmasını sağlar. Coğrafi olarak, Uyku Dede Türbesi'nin bulunduğu bölge, İstanbul'un merkezi ile bağlantılıdır ve ulaşımı kolaydır. Bölge, çeşitli flora ve fauna türlerine ev sahipliği yapar ve ziyaretçilerin doğanın güzelliğini deneyimlemesine olanak tanır. Uyku Dede Türbesi'nin coğrafi konumu, ziyaretçilere hem şehir hayatının avantajlarını hem de doğanın serenliğini sunar.
+Uyku Dede Türbesi, Marmara Bölgesi'nin coğrafi özellikleri ile çevrili bir bölgede yer alır. Bu bölge, denizin serinliği ve yeşilin buluştuğu bir noktada, ziyaretçilere eşsiz bir manzara sunar. Coğrafi olarak, Uyku Dede Türbesi'nin bulunduğu bölge, İstanbul'un merkezi ile bağlantılıdır ve ulaşımı kolaydır. Bölge, çeşitli flora ve fauna türlerine ev sahipliği yapar ve ziyaretçilerin doğanın güzelliğini deneyimlemesine olanak tanır. Uyku Dede Türbesi'nin coğrafi konumu, ziyaretçilere hem şehir hayatının avantajlarını hem de doğanın serenliğini sunar.
 
 ## Flora ve Fauna
 

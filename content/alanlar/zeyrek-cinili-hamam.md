@@ -1,7 +1,7 @@
 ---
 title: "Zeyrek Çinili Hamam"
 date: "2026-01-09T22:16:13.324Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q128412143"
 
 # Zeyrek Çinili Hamam
 
-Fatih ilçesinde, İstanbul'un tarihi dokusu içinde yer alan Zeyrek Çinili Hamam, Marmara Bölgesi'nin önemli kültürel miraslarından biridir. Bu tarihi hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde kurulmuştur. Zeyrek Çinili Hamam, İstanbul'un zengin tarihi geçmişini yansıtan önemli bir yapıttır. Hamamın tarihi ve mimari özellikleri, ziyaretçilerini geçmişe götürmeyi başarır. Zeyrek Çinili Hamam, İstanbul'un merkezinde, tarihi yarımadanın kalbinde yer alır ve kolay ulaşılabilir olmasıyla da dikkat çeker.
+Fatih ilçesinde, İstanbul'un tarihi dokusu içinde yer alan Zeyrek Çinili Hamam, Marmara Bölgesi'nin önemli kültürel miraslarından biridir. Zeyrek Çinili Hamam, İstanbul'un zengin tarihi geçmişini yansıtan önemli bir yapıttır. Hamamın tarihi ve mimari özellikleri, ziyaretçilerini geçmişe götürmeyi başarır. Zeyrek Çinili Hamam, İstanbul'un merkezinde, tarihi yarımadanın kalbinde yer alır ve kolay ulaşılabilir olmasıyla da dikkat çeker.
 
 ## Tarihçe
 

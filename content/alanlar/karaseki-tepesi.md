@@ -28,7 +28,7 @@ wikidata_id: "Q31388121"
 
 # Karaseki Tepesi
 
-Karaseki Tepesi, Denizli'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşit. Denizli'nin coğrafi yapısı içinde önemli bir yere sahip olan Karaseki Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna encontrující. Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine niteliğinde.
+Karaseki Tepesi, Denizli'nin güzide noktalarından biri olarak karşımıza çıkıyor. Denizli'nin coğrafi yapısı içinde önemli bir yere sahip olan Karaseki Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna encontrující. Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine niteliğinde.
 
 ## Tarihçe
 

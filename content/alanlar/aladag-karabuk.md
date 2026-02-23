@@ -33,9 +33,9 @@ Karabük'ün doğal güzelliklerini keşfetmek isteyenler için Aladağ, önemli
 
 ## Tarihçe
 
-Karabük'ün tarihi, binlerce yıl öncesine uzanan köklü bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir merkezi olarak dikkat çekmiştir. Hitit, Roma ve Osmanlı gibi büyük medeniyetlerin izleri, Karabük'ün zengin tarihsel mirasını oluşturur. 
+Karabük'ün tarihi, binlerce yıl öncesine uzanan köklü bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir merkezi olarak dikkat çekmiştir. Hitit, Roma ve Osmanlı gibi büyük medeniyetlerin izleri, Karabük'ün zengin tarihsel mirasını oluşturur.
 
-Doğal güzellikleri ve stratejik konumuyla, Aladağ gibi alanlar Türkiye'de tarihsel öneme sahip olmuştur. Bu tür doğal alanlar, insanların yaşamını sürdürdüğü, yaylacılık ve hayvancılıkla uğraştığı önemli merkezler olarak görev görmüştür. Ayrıca, ticaret yolları üzerinde bulunmaları, bölgenin ekonomi ve kültürel gelişimine katkıda bulunmuştur. 
+Doğal güzellikleri ve stratejik konumuyla, Aladağ gibi alanlar Türkiye'de tarihsel öneme sahip olmuştur. Bu tür doğal alanlar, insanların yaşamını sürdürdüğü, yaylacılık ve hayvancılıkla uğraştığı önemli merkezler olarak görev görmüştür. Ayrıca, ticaret yolları üzerinde bulunmaları, bölgenin ekonomi ve kültürel gelişimine katkıda bulunmuştur.
 
 İnsanların Aladağ ile ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı değildir. Bu doğal alan, aynı zamanda insanların doğayla iç içe yaşadığı, kültürel ve geleneksel değerlerini koruduğu bir mekândır. Yaylacılık geleneği, bölgede yaşayan halkın yaşam tarzını yansıtan önemli bir kültürel mirastır. Bu nedenle, Aladağ gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçasını oluşturur.
 
@@ -68,4 +68,4 @@ Aladağ (Karabük) ziyaretiniz için sabah erken gitmenizi öneririm, hem kalaba
 - Doğal güzellikleri ve yürüyüş parkurlarıyla ziyaretçilerini cezbeder.
 - Aladağ, flora ve fauna çeşitliliği açısından önemli bir bölgedir.
 - Dağın yüksekliği ve coğrafi konumu, farklı hava koşullarına sahip olmasını sağlar.
-- Aladağ ve çevresinde çeşitli históri ve kültürel alanlar bulunur.
+- Aladağ ve çevresinde çeşitli tarihi ve kültürel alanlar bulunur.

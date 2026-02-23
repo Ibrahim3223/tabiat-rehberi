@@ -40,7 +40,7 @@ Bölgenin tarihi ve kültürel zenginliklerini keşfetmek, "Yapılı İni" jeopa
 
 ## Coğrafya
 
-Mersin'in doğal güzelliklerini keşfetmek isteyenler için, 36.6453°K ve 34.2481°D koordinatlarında yer alan Yapılı İni, coğrafi olarak ilginç bir konuma sahiptir. Erişim açısından bakıldığında, bu jeopark, Mersin'in diğer turistik noktalarına göre nispeten fácil bir ulaşım ağına sahiptir. Yakın çevresinde yer alan doğal güzellikler ve tarihi alanlar, ziyaretçilere zengin bir deneyim sunar.
+Mersin'in doğal güzelliklerini keşfetmek isteyenler için, 36.6453°K ve 34.2481°D koordinatlarında yer alan Yapılı İni, coğrafi olarak ilginç bir konuma sahiptir. Erişim açısından bakıldığında, bu jeopark, Mersin'in diğer turistik noktalarına göre nispeten kolay bir ulaşım ağına sahiptir. Yakın çevresinde yer alan doğal güzellikler ve tarihi alanlar, ziyaretçilere zengin bir deneyim sunar.
 
 Doğal bir oluşum olan Yapılı İni, yaklaşık olarak birkaç olimpik havuz kadar bir alanı kaplar. Bu küçük ama etkileyici alan, jeolojik açıdan incelendiğinde, çevresindeki coğrafi yapıyla uyumlu bir şekilde şekillenmiştir. Ancak, mevcut fiziksel veriler sınırlı olduğundan, bu oluşumun tam boyutları ve şekli hakkında daha detaylı bilgi bulunmamaktadır. Buna rağmen, ziyaretçilerin bu alana yaklaştıklarında, doğal güzelliğin ve jeolojik zenginliğin hissedilebileceği bir atmosferle karşılaşmaları muhtemeldir.
 

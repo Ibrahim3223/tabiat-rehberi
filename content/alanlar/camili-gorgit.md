@@ -1,7 +1,7 @@
 ---
 title: "Camili Gorgit"
 date: "2026-01-09T19:40:50.984Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227238"
 
 # Camili Gorgit
 
-Camili Gorgit, İç Anadolu Bölgesi'nin güzide yerlerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin keyifle dolaşacağı bir mekan sunuyor. Bölgenin coğrafi yapısı ve iklim özellikleri, bu doğal alanın oluşumunda önemli rol oynamış. Camili Gorgit, ziyaretçilerine hem dinlenme hem de doğayı gözlemleme fırsatı sunuyor. Burada, doğanın güzelliğini ve canlı çeşitliliğini gözlemleme mümkün.
+Camili Gorgit, İç Anadolu Bölgesi'nin güzide yerlerinden biri olarak karşımıza çıkıyor. Bölgenin coğrafi yapısı ve iklim özellikleri, bu doğal alanın oluşumunda önemli rol oynamış. Camili Gorgit, ziyaretçilerine hem dinlenme hem de doğayı gözlemleme fırsatı sunuyor. Burada, doğanın güzelliğini ve canlı çeşitliliğini gözlemleme mümkün.
 
 ## Tarihçe
 

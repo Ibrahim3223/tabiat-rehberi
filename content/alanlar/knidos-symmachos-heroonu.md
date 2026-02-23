@@ -42,7 +42,7 @@ Knidos Symmachos Heroonu, Datça'nın doğal güzelliklerinin birleştiği bir n
 
 ## Flora ve Fauna
 
-Knidos Symmachos Heroonu, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor. Bu bölge, farklı mevsimlerde çeşitli bitki türleri ile ziyaretçilerini karşılıyor ve doğaşığıların ilgisini çekiyor. Knidos Symmachos Heroonu'nun fauna yapısı, çeşitli hayvan türleri ile ziyaretçilerini karşılıyor ve doğa severlerin ilgisini çekiyor. Bu bölge, zengin ekosistemi ile ziyaretçilerine unutulmaz bir deneyim sunuyor ve doğaşığıların görmesi gereken bir yer olarak dikkat çekiyor.
+Knidos Symmachos Heroonu, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor. Bu bölge, farklı mevsimlerde çeşitli bitki türleri ile ziyaretçilerini karşılıyor ve doğaşığıların ilgisini çekiyor. Knidos Symmachos Heroonu'nun fauna yapısı, çeşitli hayvan türleri ile ziyaretçilerini karşılıyor ve doğa severlerin ilgisini çekiyor.
 
 ## Ziyaret Bilgileri
 

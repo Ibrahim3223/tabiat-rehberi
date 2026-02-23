@@ -28,7 +28,7 @@ wikidata_id: "Q31389208"
 
 # Gencedede Tepesi
 
-Gencedede Tepesi, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir. Bursa'da yer alan bu tepe, 140 hektarlık bir alana sahiptir. Yaklaşık 200 futbol sahası büyüklüğündeki bu yeşil alan, ziyaretçilerini doğanın güzelliği ile karşılar. Gencedede Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Bu tepe, bölgenin önemli bir turizm merkezi olarak kabul edilir. Ziyaretçiler, Gencedede Tepesi'ne çıkarak muhteşem manzaraları izleyebilir ve doğanın güzelliğini keşfedebilir.
+Gencedede Tepesi, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir. Bursa'da yer alan bu tepe, 140 hektarlık bir alana sahiptir. Gencedede Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Bu tepe, bölgenin önemli bir turizm merkezi olarak kabul edilir. Ziyaretçiler, Gencedede Tepesi'ne çıkarak muhteşem manzaraları izleyebilir ve doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Gencedede Tepesi, ziyaretçilerini doğanın güzelliği ile karşılar. Bu tepe
 ## İlginç Bilgiler
 
 - Gencedede Tepesi, 140 hektarlık bir alana sahiptir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Gencedede Tepesi, Marmara Bölgesi'nin önemli bir turizm merkezi olarak kabul edilir.
 - Bu tepe, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker.
 - Gencedede Tepesi, flora ve fauna açısından zengin bir alandır.

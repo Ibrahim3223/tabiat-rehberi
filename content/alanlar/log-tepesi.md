@@ -29,7 +29,7 @@ wikidata_id: "Q31538453"
 
 # Log Tepesi
 
-Log Tepesi, Hatay ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en yüksek noktalarından biri. Log Tepesi, ziyaretçilerini doğal güzellikleri, tarihi geçmişi ve eşsiz manzarasıyla karşılar. Tepenin eteklerinde yer alan köyler ve kasabalar, bölgenin kültürel zenginliğini yansıtır. Burada, geleneksel mimari, lezzetli yöresel yemekler ve sıcak bir misafirperverlik bulacaksınız. Log Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim noktasıdır.
+Log Tepesi, Hatay ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Log Tepesi, ziyaretçilerini doğal güzellikleri, tarihi geçmişi ve eşsiz manzarasıyla karşılar. Tepenin eteklerinde yer alan köyler ve kasabalar, bölgenin kültürel zenginliğini yansıtır. Burada, geleneksel mimari, lezzetli yöresel yemekler ve sıcak bir misafirperverlik bulacaksınız. Log Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim noktasıdır.
 
 ## Tarihçe
 

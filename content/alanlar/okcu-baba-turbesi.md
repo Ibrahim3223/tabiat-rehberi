@@ -1,7 +1,7 @@
 ---
 title: "Okçu Baba Türbesi"
 date: "2026-01-10T06:00:32.742Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390467"
 
 # Okçu Baba Türbesi
 
-Osmangazi, Bursa'da bulunan Okçu Baba Türbesi, tarihi ve doğal güzelliği birleştiren özel bir mekândır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Okçu Baba Türbesi, ziyaretçilerini hem tarihin sayfalarına götürür hem de doğanın güzelliği ile baş başa bırakır. Bu mekan, Marmara Bölgesi'nin kalbinde, Bursa'nın Osmangazi ilçesinde bulunur. Ziyaretçiler, tarihin izlerini takip ederken aynı zamanda bölgenin zengin florası ve faunası ile karşılaşır.
+Osmangazi, Bursa'da bulunan Okçu Baba Türbesi, tarihi ve doğal güzelliği birleştiren özel bir mekândır. Okçu Baba Türbesi, ziyaretçilerini hem tarihin sayfalarına götürür hem de doğanın güzelliği ile baş başa bırakır. Bu mekan, Marmara Bölgesi'nin kalbinde, Bursa'nın Osmangazi ilçesinde bulunur. Ziyaretçiler, tarihin izlerini takip ederken aynı zamanda bölgenin zengin florası ve faunası ile karşılaşır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Okçu Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Okçu Baba Türbesi, Marmara Bölgesi'nin kalbinde, Bursa'nın Osmangazi ilçesinde yer alır. Bu mekan, 140 hektarlık bir yeşil alanın içinde bulunur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Coğrafi olarak, bu bölge, zengin bir flora ve fauna ile çevrilidir. Çevre, çeşitli bitki türleri ve canlılarla dolu olup, ziyaretçilere doğanın güzelliğini sunar. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere, dört mevsimi deneyimleme fırsatı verir. Okçu Baba Türbesi, coğrafi konumu itibariyle, ziyaretçilere hem tarihi bir yolculuk hem de doğanın güzelliği ile baş başa kalma fırsatı sunar. Bu mekan, ziyaretçilerini, tarihin ve doğanın birleştiği noktada ağırlar ve her ziyaret, bu özel coğrafyanın güzelliğini keşfetme fırsatı verir.
+Okçu Baba Türbesi, Marmara Bölgesi'nin kalbinde, Bursa'nın Osmangazi ilçesinde yer alır. Coğrafi olarak, bu bölge, zengin bir flora ve fauna ile çevrilidir. Çevre, çeşitli bitki türleri ve canlılarla dolu olup, ziyaretçilere doğanın güzelliğini sunar. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere, dört mevsimi deneyimleme fırsatı verir. Okçu Baba Türbesi, coğrafi konumu itibariyle, ziyaretçilere hem tarihi bir yolculuk hem de doğanın güzelliği ile baş başa kalma fırsatı sunar. Bu mekan, ziyaretçilerini, tarihin ve doğanın birleştiği noktada ağırlar ve her ziyaret, bu özel coğrafyanın güzelliğini keşfetme fırsatı verir.
 
 ## Flora ve Fauna
 

@@ -32,7 +32,7 @@ Mersin'in güzelliklerinin arasında yer alan Akpınar İni, bir jeopark olarak 
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, Hitit, Roma ve Bizans gibi uygarlıkların izlerini taşıyan bu topraklar, tarihi ve kültürel zenginliklerle doludur. Akpınar İni de bu bölgenin önemli doğal oluşumlarından biridir.
+Mersin bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, Hitit, Roma ve Bizans gibi uygarlıkların izlerini taşıyan bu topraklar, tarihi ve kültürel zenginliklerle doludur. Akpınar İni de bu bölgenin önemli doğal oluşumlarından biridir.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, insanları bu doğal güzelliklerle iç içe yaşamaya zorlamıştır. Mersin bölgesinde de benzer bir şekilde, insanlar doğal kaynakları kullanarak yaşamını sürdürmüşlerdir. İni gibi doğal oluşumlar, insanların barınma, avlanma ve hayvancılık faaliyetleri için önemli merkezler olmuştur.
 

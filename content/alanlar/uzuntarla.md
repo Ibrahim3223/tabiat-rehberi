@@ -23,7 +23,7 @@ wikidata_id: "Q108228270"
 
 # Uzuntarla
 
-Uzuntarla, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğa alanlarından biridir. Uzuntarla, yaban hayatı ve flora çeşitliliğiyle dikkat çekiyor. Burada, çeşitli bitkiler ve hayvanlar yaşamaktadır. Milli park, doğal güzellikleri ve zengin ekosistemiyle ziyaretçilerini bekliyor.
+Uzuntarla, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Uzuntarla, yaban hayatı ve flora çeşitliliğiyle dikkat çekiyor. Burada, çeşitli bitkiler ve hayvanlar yaşamaktadır. Milli park, doğal güzellikleri ve zengin ekosistemiyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -48,11 +48,11 @@ Mevsimsel açıdan bakıldığında, Delihöbek Dağı'nın iklim karakteri, Gü
 
 ## Flora ve Fauna
 
-Delihöbek Dağı, Kahramanmaraş'ın gözde doğal güzelliği, maki bitki örtüsünün hakim olduğu bir dağ ekosistemi sunuyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Delihöbek Dağı, Kahramanmaraş'ın gözde doğal güzelliği, maki bitki örtüsünün hakim olduğu bir dağ ekosistemi sunuyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesi ile birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Kuraklığa dayanıklı türler, özellikle maki ve bodur ağaçlar, bu dağlık bölgede hayat buluyor. Kıyı ekosisteminin etkileri, bölgenin flora yapısında da kendini gösteriyor.
 
-Yaban Hayatı olarak, dağ ekosisteminin yükseklik zonlarına adapte olmuş çeşitli memeliler, kuşlar ve sürüngenler bulunmakta. Göç mevsiminde, özellikle sonbaharda, birçok kuş türü bu dağları ziyaret ediyor. Dağ keçileri ve yaban domuzları, bölgenin karakteristik hayvanları arasında yer alıyor. 
+Yaban Hayatı olarak, dağ ekosisteminin yükseklik zonlarına adapte olmuş çeşitli memeliler, kuşlar ve sürüngenler bulunmakta. Göç mevsiminde, özellikle sonbaharda, birçok kuş türü bu dağları ziyaret ediyor. Dağ keçileri ve yaban domuzları, bölgenin karakteristik hayvanları arasında yer alıyor.
 
 Ekolojik Değer olarak, Delihöbek Dağı'nın korunması, regional ekosistem dengesi için büyük önem taşıyor. Bu dağlık alan, birçok canlı türünün yaşam alanını oluşturuyor ve ekolojik ilişkilerin devamını sağlıyor.
 

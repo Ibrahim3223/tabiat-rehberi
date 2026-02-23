@@ -1,7 +1,7 @@
 ---
 title: "Dede Paşa Türbesi"
 date: "2026-01-10T05:29:14.317Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391656"
 
 # Dede Paşa Türbesi
 
-Dede Paşa Türbesi, İç Anadolu Bölgesi'nin önemli tarih ve kültür merkezlerinden biri olarak karşımıza çıkıyor. Bu özel alan, Erzincan ve Erzurum vilayetlerinin sınırında yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini koruyor. Dede Paşa Türbesi, ziyaretçilerini tarihi ve kültürel zenginliklerle dolu bir yolculuğa çıkarıyor. Burada, tarihin izlerini taşıyan yapılar, geleneksel yaşamın örnekleri ve bölgenin eşsiz doğası bir arada bulunuyor.
+Dede Paşa Türbesi, İç Anadolu Bölgesi'nin önemli tarih ve kültür merkezlerinden biri olarak karşımıza çıkıyor. Bu özel alan, Erzincan ve Erzurum vilayetlerinin sınırında yer alıyor. Dede Paşa Türbesi, ziyaretçilerini tarihi ve kültürel zenginliklerle dolu bir yolculuğa çıkarıyor. Burada, tarihin izlerini taşıyan yapılar, geleneksel yaşamın örnekleri ve bölgenin eşsiz doğası bir arada bulunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Dede Paşa Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve b
 
 ## Coğrafya
 
-Dede Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir alandır. Bölge, geniş otlaklar, dağlar ve nehirler ile çevrili olup, ziyaretçilerine doğal güzellikler sunuyor. Dede Paşa Türbesi'nin coğrafi konumu, Erzincan ve Erzurum vilayetlerinin sınırında yer alıyor. Bu konumu, bölgenin iklimini, bitki örtüsünü ve yaban hayatını etkiliyor. Dede Paşa Türbesi, ziyaretçilerini bu coğrafi güzelliklerle dolu bir yolculuğa çıkarıyor ve bölgenin eşsiz doğasını keşfetme fırsatı sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini koruyor. Dede Paşa Türbesi, coğrafi olarak zengin bir bölge olup, ziyaretçilerine çeşitli doğal güzellikler sunuyor.
+Dede Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir alandır. Bölge, geniş otlaklar, dağlar ve nehirler ile çevrili olup, ziyaretçilerine doğal güzellikler sunuyor. Dede Paşa Türbesi'nin coğrafi konumu, Erzincan ve Erzurum vilayetlerinin sınırında yer alıyor. Bu konumu, bölgenin iklimini, bitki örtüsünü ve yaban hayatını etkiliyor. Dede Paşa Türbesi, ziyaretçilerini bu coğrafi güzelliklerle dolu bir yolculuğa çıkarıyor ve bölgenin eşsiz doğasını keşfetme fırsatı sunuyor. Dede Paşa Türbesi, coğrafi olarak zengin bir bölge olup, ziyaretçilerine çeşitli doğal güzellikler sunuyor.
 
 ## Flora ve Fauna
 

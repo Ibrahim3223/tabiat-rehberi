@@ -1,7 +1,7 @@
 ---
 title: "Haluk Perk Müzesi"
 date: "2026-01-10T15:20:36.673Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Avcılar"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949083"
 
 # Haluk Perk Müzesi
 
-Haluk Perk Müzesi, İç Anadolu Bölgesi'nin kalbinde yer alan Gümüşpala/Avcılar'da ziyaretçilerini bekliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğanın iç içe geçtiği bir bölgede kurulmuş. Müze, bölgeye özgü tarih, kültür ve doğa güzelliklerini bir araya getirerek ziyaretçilerine geniş bir perspektif sunuyor. Ziyaretçiler, burada hem bölgenin zengin tarihini keşfedebilir hem de doğanın güzelliklerini yakından tanıma fırsatı bulabilir.
+Haluk Perk Müzesi, İç Anadolu Bölgesi'nin kalbinde yer alan Gümüşpala/Avcılar'da ziyaretçilerini bekliyor. Müze, bölgeye özgü tarih, kültür ve doğa güzelliklerini bir araya getirerek ziyaretçilerine geniş bir perspektif sunuyor. Ziyaretçiler, burada hem bölgenin zengin tarihini keşfedebilir hem de doğanın güzelliklerini yakından tanıma fırsatı bulabilir.
 
 ## Tarihçe
 

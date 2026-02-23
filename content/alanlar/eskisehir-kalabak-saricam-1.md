@@ -22,7 +22,7 @@ wikidata_id: "Q108227981"
 
 # Eskişehir-Kalabak Saricam 1
 
-Eskişehir-Kalabak Saricam 1 milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu park, yerli ve yabancı turistlerin ilgisini çekmektedir. Parkın geniş alanları, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda çeşitli bitki ve hayvan türlerine de ev sahipliği yapmaktadır. Kalabak Saricam 1, doğa severlerin ve macera arayışında olanların ziyaret etmeyi düşündükleri bir yer olarak dikkat çekmektedir.
+Eskişehir-Kalabak Saricam 1 milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biridir. Parkın geniş alanları, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda çeşitli bitki ve hayvan türlerine de ev sahipliği yapmaktadır. Kalabak Saricam 1, doğa severlerin ve macera arayışında olanların ziyaret etmeyi düşündükleri bir yer olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Eskişehir-Kalabak Saricam 1 milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Eskişehir-Kalabak Saricam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır. Parkın coğrafi konumu, ziyaretçilere geniş açılı manzaralar sunarken, aynı zamanda bölgenin iklim özellikleri de parkın flora ve faunasını etkilemektedir. Kalabak Saricam 1, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini göstermesi açısından önemli bir doğal alandır. Parkın etrafındaki dağlar, nehirler ve diğer coğrafi oluşumlar, ziyaretçilere geniş bir doğa manzarası sunmaktadır.
+Eskişehir-Kalabak Saricam 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Parkın coğrafi konumu, ziyaretçilere geniş açılı manzaralar sunarken, aynı zamanda bölgenin iklim özellikleri de parkın flora ve faunasını etkilemektedir. Kalabak Saricam 1, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini göstermesi açısından önemli bir doğal alandır. Parkın etrafındaki dağlar, nehirler ve diğer coğrafi oluşumlar, ziyaretçilere geniş bir doğa manzarası sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Eskişehir-Kalabak Saricam 1 milli parkını ziyaret etmek, doğa severler için
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
 - Kalabak Saricam 1, İç Anadolu Bölgesi'nin en büyük milli parklarından biridir.
 - Park, çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır.
 - Parkın coğrafi konumu, ziyaretçilere geniş açılı manzaralar sunmaktadır.

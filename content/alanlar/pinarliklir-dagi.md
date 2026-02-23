@@ -32,7 +32,7 @@ Antalya'nın eşsiz coğrafyasında yer alan Pınarlıklır Dağı, ziyaretçile
 
 ## Tarihçe
 
-Pınarlıklır Dağı, Türkiye'nin güneyinde, Antalya bölgesinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Antalya, tarih boyunca various uygarlıkların yaşadığı bir merkez olmuş, Likya, Pamfilya ve Roma gibi medeniyetler bu topraklarda izlerini bırakmışlardır.
+Pınarlıklır Dağı, Türkiye'nin güneyinde, Antalya bölgesinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Antalya, tarih boyunca various uygarlıkların yaşadığı bir merkez olmuş, Likya, Pamfilya ve Roma gibi medeniyetler bu topraklarda izlerini bırakmışlardır.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Binlerce yıl boyunca insanların yaşadığı, hayvancılık yaptığı, ticaret yollarının kesiştiği bu bölgeler, kültürel ve coğrafi zenginliklerin bir araya geldiği noktalar olmuşlardır. Yaylacılık gibi geleneksel faaliyetler, bu alanların insanlarla ilişkisini güçlendirmiş, bölge halkının yaşam tarzını şekillendirmiştir.
 

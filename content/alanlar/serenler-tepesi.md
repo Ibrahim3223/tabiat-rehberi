@@ -22,7 +22,7 @@ wikidata_id: "Q108228298"
 
 # Serenler Tepesi
 
-Serenler Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir doğal alan olarak yaklaşık 200 futbol sahası büyüklüğünde. Bu güzel tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için bekliyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepeye tırmanırken manzaranın güzelliği ziyaretçileri büyülüyor. Serenler Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
+ Bu güzel tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için bekliyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepeye tırmanırken manzaranın güzelliği ziyaretçileri büyülüyor. Serenler Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 

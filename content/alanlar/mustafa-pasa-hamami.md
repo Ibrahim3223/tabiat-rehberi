@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Paşa Hamamı"
 date: "2026-01-09T22:22:24.259Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738443"
 
 # Mustafa Paşa Hamamı
 
-Mustafa Paşa Hamamı, Tokat ilinin merkezinde yer alan ve tarihi yapılarıyla dikkat çeken bir bölgedir. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tokat'ın zengin tarihi ve kültürel mirasını yansıtan bu hamam, aynı zamanda bir plaj olarak da hizmet vermektedir. Mustafa Paşa Hamamı, ziyaretçilerine hem tarihi bir deneyimi hem de dinlenme fırsatı sunmaktadır. Bu bölge, Tokat'ta bulunan önemli tarihi yapılardan biridir ve ziyaretçilerini beklemektedir.
+Mustafa Paşa Hamamı, Tokat ilinin merkezinde yer alan ve tarihi yapılarıyla dikkat çeken bir bölgedir. Tokat'ın zengin tarihi ve kültürel mirasını yansıtan bu hamam, aynı zamanda bir plaj olarak da hizmet vermektedir. Mustafa Paşa Hamamı, ziyaretçilerine hem tarihi bir deneyimi hem de dinlenme fırsatı sunmaktadır. Bu bölge, Tokat'ta bulunan önemli tarihi yapılardan biridir ve ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 

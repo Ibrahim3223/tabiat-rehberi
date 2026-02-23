@@ -1,7 +1,7 @@
 ---
 title: "Hierapolis Büyük Hamam"
 date: "2026-01-09T22:42:35.811Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,11 +29,11 @@ wikidata_id: "Q131738536"
 
 # Hierapolis Büyük Hamam
 
-Hierapolis Büyük Hamam, Pamukkale'nin kalbinde, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer alan tarihi bir hamam kompleksidir. Bu eşsiz yapı, Hierapolis antik kentinde bulunur ve bölgenin zengin tarihi geçmişi hakkında önemli bilgiler sunar. 140 hektarlık bu yeşil alan, ziyaretçilerini antik dünyaya bir yolculuğa çıkarır. Hierapolis Büyük Hamam, aynı zamanda Pamukkale'nin simgesi haline gelmiş ve dünya çapında tanınan bir destinasyondur.
+ Bu eşsiz yapı, Hierapolis antik kentinde bulunur ve bölgenin zengin tarihi geçmişi hakkında önemli bilgiler sunar. 140 hektarlık bu yeşil alan, ziyaretçilerini antik dünyaya bir yolculuğa çıkarır. Hierapolis Büyük Hamam, aynı zamanda Pamukkale'nin simgesi haline gelmiş ve dünya çapında tanınan bir destinasyondur.
 
 ## Tarihçe
 
-Hierapolis Büyük Hamamın tarihi geçmişi, MÖ 2. yüzyıla kadar uzanır. Bu dönemde, Hierapolis kenti bir Roma yerleşim yeri olarak kurulmuş ve hamam kompleksi de bu dönemden kalan önemli yapılardan biridir. Hamam, Roma döneminden kalan en iyi korunmuş yapılardan biri olarak kabul edilir ve bölgenin tarihsel önemini vurgular. Yüzyıllar boyunca, Hierapolis Büyük Hamam, çeşitli medeniyetlerin etkisi altında kalmış ve her biri bu histórik yapıya kendi izini bırakmıştır. Bugün, Hierapolis Büyük Hamam, Türkiye'nin en önemli tarihi ve kültürel miraslarından biri olarak korunuyor.
+Hierapolis Büyük Hamamın tarihi geçmişi, MÖ 2. yüzyıla kadar uzanır. Bu dönemde, Hierapolis kenti bir Roma yerleşim yeri olarak kurulmuş ve hamam kompleksi de bu dönemden kalan önemli yapılardan biridir. Hamam, Roma döneminden kalan en iyi korunmuş yapılardan biri olarak kabul edilir ve bölgenin tarihsel önemini vurgular. Yüzyıllar boyunca, Hierapolis Büyük Hamam, çeşitli medeniyetlerin etkisi altında kalmış ve her biri bu tarihi yapıya kendi izini bırakmıştır. Bugün, Hierapolis Büyük Hamam, Türkiye'nin en önemli tarihi ve kültürel miraslarından biri olarak korunuyor.
 
 ## Coğrafya
 

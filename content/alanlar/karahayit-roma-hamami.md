@@ -1,7 +1,7 @@
 ---
 title: "Karahayıt Roma Hamamı"
 date: "2026-01-09T23:21:51.229Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739013"
 
 # Karahayıt Roma Hamamı
 
-Karahayıt Roma Hamamı, Pamukkale'nin tarihi ve doğal güzellikleri arasında yer alan önemli bir turizm merkezi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok tarihi ve doğal güzelliğe ev sahipliği yapıyor. Karahayıt Roma Hamamı, Pamukkale'nin merkezine uzun bir mesafe uzaklıkta bulunuyor ve kolayca ulaşılabilir. Bu tarihi hamam, Roma Dönemi'nden kalma önemli bir eser ve bölgenin zengin tarihini yansıtıyor. Ziyaretçiler, hamamın tarihi atmosferini deneyimleyerek, aynı zamanda Pamukkale'nin eşsiz doğal güzelliklerine tanıklık edebiliyor.
+Karahayıt Roma Hamamı, Pamukkale'nin tarihi ve doğal güzellikleri arasında yer alan önemli bir turizm merkezi. Karahayıt Roma Hamamı, Pamukkale'nin merkezine uzun bir mesafe uzaklıkta bulunuyor ve kolayca ulaşılabilir. Bu tarihi hamam, Roma Dönemi'nden kalma önemli bir eser ve bölgenin zengin tarihini yansıtıyor. Ziyaretçiler, hamamın tarihi atmosferini deneyimleyerek, aynı zamanda Pamukkale'nin eşsiz doğal güzelliklerine tanıklık edebiliyor.
 
 ## Tarihçe
 

@@ -54,7 +54,7 @@ Anduk Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak 
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri, dağların yüksek kesimlerinde yaşarken, göçmen kuşlar sonbaharda bu bölgeden geçiyor. Sürüngenler, step bitkileri arasında ediyor ve dağ ekosisteminin önemli bir parçası oluyor.
 
-Anduk Dağı, yükseklik zonları ve alpin flora ile önemli bir ekolojik değer taşıyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini bảo vệ etmek için büyük önem taşıyor.
+Anduk Dağı, yükseklik zonları ve alpin flora ile önemli bir ekolojik değer taşıyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini koruma vệ etmek için büyük önem taşıyor.
 
 ## Ziyaret Bilgileri
 

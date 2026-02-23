@@ -29,7 +29,7 @@ wikidata_id: "Q134728098"
 
 # Mesih Paşa’nın Mezarı
 
-Mesih Paşa’nın Mezarı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir plaj ve mezar alanıdır. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren bu özel mekân, ziyaretçilere hem dinlenme hem de tarihle iç içe olma fırsatı sunar. Mesih Paşa’nın Mezarı, özellikle yaz aylarında ziyaret edilen bir destinasyon olup, şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktasıdır.
+Mesih Paşa’nın Mezarı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir plaj ve mezar alanıdır. İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren bu özel mekân, ziyaretçilere hem dinlenme hem de tarihle iç içe olma fırsatı sunar. Mesih Paşa’nın Mezarı, özellikle yaz aylarında ziyaret edilen bir destinasyon olup, şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktasıdır.
 
 ## Tarihçe
 

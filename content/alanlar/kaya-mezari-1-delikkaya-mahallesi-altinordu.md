@@ -29,7 +29,7 @@ wikidata_id: "Q134728220"
 
 # Kaya Mezarı 1 (Delikkaya Mahallesi), Altınordu
 
-Kaya Mezarı 1, Ordu'nun Altınordu ilçesinde, Delikkaya Mahallesi'nde yer alan bir plajdır. Bu bölge, Karadeniz Bölgesi'nin doğal güzellikleri arasında önemli bir yer tutar. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Kaya Mezarı 1, ziyaretçilerini muhteşem manzaralar ve temiz plajı ile karşılar. Burada, denizin serin sularında serinleyebilir, güneşin sıcak ışınları altında güneşlenebilir veya doğanın güzelliğini seyrederek dinlenebilirsiniz. Kaya Mezarı 1, hem doğa severler hem de plaj severler için ideal bir destinasyondur.
+Kaya Mezarı 1, Ordu'nun Altınordu ilçesinde, Delikkaya Mahallesi'nde yer alan bir plajdır. Bu bölge, Karadeniz Bölgesi'nin doğal güzellikleri arasında önemli bir yer tutar. Kaya Mezarı 1, ziyaretçilerini muhteşem manzaralar ve temiz plajı ile karşılar. Burada, denizin serin sularında serinleyebilir, güneşin sıcak ışınları altında güneşlenebilir veya doğanın güzelliğini seyrederek dinlenebilirsiniz. Kaya Mezarı 1, hem doğa severler hem de plaj severler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Kaya Mezarı 1'i ziyaret etmek, hem doğa severler hem de plaj severler için id
 ## İlginç Bilgiler
 
 - Kaya Mezarı 1, Delikkaya Mahallesi'nde yer alır.
-- 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Karadeniz Bölgesi'nin doğal güzellikleri arasında önemli bir yer tutar.
 - Zengin flora ve fauna ile çevrilidir.
 - İlkbahar ve yaz ayları, en iyi ziyaret dönemi.

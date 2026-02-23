@@ -33,7 +33,7 @@ Burdur'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destina
 
 ## Tarihçe
 
-Kızıltepe, Burdur'un tarihi zenginliklerine ev sahipliği yapan bir bölge. Burdur, binlerce yıllık bir geçmişe sahip, çeşitli uygarlıkların izlerini taşıyor. Hititler, Frigler, Lidyalılar ve Romalılar gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel mirasına katkıda bulunmuşlar. 
+Kızıltepe, Burdur'un tarihi zenginliklerine ev sahipliği yapan bir bölge. Burdur, binlerce yıllık bir geçmişe sahip, çeşitli uygarlıkların izlerini taşıyor. Hititler, Frigler, Lidyalılar ve Romalılar gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel mirasına katkıda bulunmuşlar.
 
 Doğal güzellikleri ve stratejik konumuyla, Kızıltepe gibi alanlar, tarih boyunca insanların dikkatini çekmiş. Türkiye'de, özellikle İç Anadolu ve Doğu Anadolu bölgelerinde, bu tür doğal alanlar, yaylacılık ve hayvancılık faaliyetleri için önemli merkezler olmuş. İnsanlar, bu bölgelerde yaşamlarını sürdürürken, aynı zamanda ticaret yolları üzerinde de önemli roller üstlenmişler.
 

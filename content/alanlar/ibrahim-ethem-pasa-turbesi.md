@@ -1,7 +1,7 @@
 ---
 title: "İbrahim Ethem Paşa Türbesi"
 date: "2026-01-10T07:49:25.497Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391117"
 
 # İbrahim Ethem Paşa Türbesi
 
-İbrahim Ethem Paşa Türbesi, Üsküdar'da bulunan bir tarihi türbe ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerine kuruludur, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. İstanbul'un Marmara Bölgesi'nde yer alan bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çekmektedir. İbrahim Ethem Paşa Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Bu plaj, denize girilebilecek bir alan olup, ziyaretçilerin keyifli zaman geçirmesine olanak tanır. Ayrıca, bu bölgede çeşitli restoran ve kafeler de bulunmaktadır, ziyaretçilerin yeme ve içecek ihtiyaçlarını karşılamaktadır.
+İbrahim Ethem Paşa Türbesi, Üsküdar'da bulunan bir tarihi türbe ve plaj alanıdır. İstanbul'un Marmara Bölgesi'nde yer alan bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çekmektedir. İbrahim Ethem Paşa Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Bu plaj, denize girilebilecek bir alan olup, ziyaretçilerin keyifli zaman geçirmesine olanak tanır. Ayrıca, bu bölgede çeşitli restoran ve kafeler de bulunmaktadır, ziyaretçilerin yeme ve içecek ihtiyaçlarını karşılamaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391117"
 
 ## Coğrafya
 
-İbrahim Ethem Paşa Türbesi, Üsküdar'da, Marmara Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak önemli bir konuma sahiptir. Türbe ve plaj alanı, denize yakın bir konumda bulunmakta olup, ziyaretçilerin denize girerek keyifli zaman geçirmesine olanak tanır. Ayrıca, bu bölgede çeşitli yürüyüş yolları da bulunmaktadır, ziyaretçilerin doğa içinde keyifli zaman geçirmesine olanak tanır. İbrahim Ethem Paşa Türbesi, yaklaşık 140 hektarlık bir yeşil alan üzerine kuruludur. Bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bölgenin iklimi, genel olarak ılımandır. Kış ayları serin, yaz ayları ise sıcakk geçmektedir. Bu durum, ziyaretçilerin yılın her dönemi bu bölgeyi ziyaret etmesine olanak tanır.
+İbrahim Ethem Paşa Türbesi, Üsküdar'da, Marmara Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak önemli bir konuma sahiptir. Türbe ve plaj alanı, denize yakın bir konumda bulunmakta olup, ziyaretçilerin denize girerek keyifli zaman geçirmesine olanak tanır. Ayrıca, bu bölgede çeşitli yürüyüş yolları da bulunmaktadır, ziyaretçilerin doğa içinde keyifli zaman geçirmesine olanak tanır. İbrahim Ethem Paşa Türbesi, yaklaşık 140 hektarlık bir yeşil alan üzerine kuruludur. Bölgenin iklimi, genel olarak ılımandır. Kış ayları serin, yaz ayları ise sıcakk geçmektedir. Bu durum, ziyaretçilerin yılın her dönemi bu bölgeyi ziyaret etmesine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131391117"
 ## İlginç Bilgiler
 
 - İbrahim Ethem Paşa Türbesi, Üsküdar'da bulunan bir tarihi türbe ve plaj alanıdır.
-- Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerine kuruludur.
+
 - İbrahim Ethem Paşa Türbesi, İbrahim Ethem Paşa'nın anısına yapılmıştır.
 - Bu bölge, yüzyıllar boyunca çeşitli değişimler geçirmiştir.
 - İbrahim Ethem Paşa Türbesi, günümüzde hem tarihi bir mekan hem de bir plaj olarak hizmet vermektedir.

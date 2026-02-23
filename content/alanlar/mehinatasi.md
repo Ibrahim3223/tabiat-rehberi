@@ -32,7 +32,7 @@ Siirt'in dağlık bölgesinde yer alan Mehinataşı, Türkiye'nin güneydoğu b�
 
 ## Tarihçe
 
-Siirt'in doğusunda yer alan Mehinataşı, ülkenin zengin tarihsel mirasının bir parçasını oluşturan doğal güzellikler arasında yer alır. Bu bölge, tarihin sâu sayfalarında birçok uygarlığa ev sahipliği yapmış, Urartular, Asurlular ve Perslerin izlerini taşıyan bir coğrafyadır. Türkiye'nin doğu ucunda bulunan Siirt, tarihi İpek Yolu'nun önemli bir durağı olarak da dikkat çeker.
+Siirt'in doğusunda yer alan Mehinataşı, ülkenin zengin tarihsel mirasının bir parçasını oluşturan doğal güzellikler arasında yer alır. Bu bölge, tarihin derin sayfalarında birçok uygarlığa ev sahipliği yapmış, Urartular, Asurlular ve Perslerin izlerini taşıyan bir coğrafyadır. Türkiye'nin doğu ucunda bulunan Siirt, tarihi İpek Yolu'nun önemli bir durağı olarak da dikkat çeker.
 
 Bu tür doğal alanlar, Türkiye'nin tarih boyunca önemli ticaret yolları ve kültür merkezleri arasındaki konumunu vurgular. Yaylacılık ve hayvancılıkla uğraşan yerel halk, bu doğal güzelliklerin bir parçası olarak yaşamlarını sürdürür. Mehinataşı da, bölgenin coğrafi ve kültürel zenginliklerini yansıtan önemli bir noktadır. İnsanların bu doğal alanlarla kurdukları ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutları da içerir. Mehinataşı, Türkiye'nin doğu bölgesinin tarihsel ve kültürel mirasını anlamak için önemli bir ziyaret noktası olarak karşımıza çıkar.
 
@@ -63,4 +63,4 @@ Mehinataşı, Siirt'in doğal güzelliklerini keşfetmek isteyenler için harika
 - Mehinataşı, 1994 yılında tabiat parkı olarak ilan edilmiştir.
 - Dağın yüksekliği yaklaşık 1300 metredir.
 - Yaklaşık 1200 hektarlık bir alanı kaplar.
-- Mehinataşı, flora ve fauna açısından oldukça zengindir.
+

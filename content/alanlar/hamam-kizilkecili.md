@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Kızılkeçili"
 date: "2026-01-09T23:54:09.942Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale (ilçe)"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245753"
 
 # Hamam, Kızılkeçili
 
-Hamam, Kızılkeçili, Çanakkale ilçe sınırları içinde yer alan bir plaj olarak, özellikle yaz aylarında birçok ziyaretçiyi ağırlıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ki, bu da yaklaşık 200 futbol sahası büyüklüğüne denk geliyor. Doğal güzelliği, temizliği ve sunduğu imkânlarla, tatilcilerin ilgisini çekmeyi başarıyor. plajın etrafı, zengin bir flora ve fauna ile kaplıdır, bu da burayı doğa severler için bir cennet haline getiriyor.
+Hamam, Kızılkeçili, Çanakkale ilçe sınırları içinde yer alan bir plaj olarak, özellikle yaz aylarında birçok ziyaretçiyi ağırlıyor. Doğal güzelliği, temizliği ve sunduğu imkânlarla, tatilcilerin ilgisini çekmeyi başarıyor. plajın etrafı, zengin bir flora ve fauna ile kaplıdır, bu da burayı doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Hamam, Kızılkeçili plajı, Çanakkale ilçe sınırları içinde, İç Anadol
 
 ## Flora ve Fauna
 
-Hamam, Kızılkeçili plajı ve çevresinin flora ve fauna açısından oldukça zengin olduğu biliniyor. Plajın etrafında, çeşitli ağaç türleri ve bitki örtüsü bulunmakta. Bu bitkiler, bölgenin iklimine uygun olarak gelişmiş ve plaja özel bir güzellik katmış durumdadır. Ayrıca, plajda ve çevresinde, çeşitli hayvan türleri de yaşamaktadır. Özellikle, su kuşları ve diğer küçük hayvanlar, buradaki doğal yaşamın bir parçası olarak görülebilir. Mevsimsel değişimler, plajın doğal güzelliğini ve canlı hayatını etkiliyor. İlkbahar ve yaz ayları, plajın en canlı dönemleri olarak bilinirken, sonbahar ve kış ayları daha sakin geçiyor. Bu mevsimsel değişimler, plajın ekolojisini ve canlılarını da etkiliyor, bu nedenle ziyaretçilerin plajı ziyaret ederken doğal dengenin korunmasına dikkat etmeleri önemli.
+ Plajın etrafında, çeşitli ağaç türleri ve bitki örtüsü bulunmakta. Bu bitkiler, bölgenin iklimine uygun olarak gelişmiş ve plaja özel bir güzellik katmış durumdadır. Ayrıca, plajda ve çevresinde, çeşitli hayvan türleri de yaşamaktadır. Özellikle, su kuşları ve diğer küçük hayvanlar, buradaki doğal yaşamın bir parçası olarak görülebilir. Mevsimsel değişimler, plajın doğal güzelliğini ve canlı hayatını etkiliyor. İlkbahar ve yaz ayları, plajın en canlı dönemleri olarak bilinirken, sonbahar ve kış ayları daha sakin geçiyor. Bu mevsimsel değişimler, plajın ekolojisini ve canlılarını da etkiliyor, bu nedenle ziyaretçilerin plajı ziyaret ederken doğal dengenin korunmasına dikkat etmeleri önemli.
 
 ## Ziyaret Bilgileri
 

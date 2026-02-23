@@ -22,7 +22,7 @@ wikidata_id: "Q108228116"
 
 # Karaman Mut Camlica-Sedir
 
-Karaman Mut Camlica-Sedir milli parkı, İç Anadolu Bölgesi'nin gizli bir incisi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle zengin bir fauna sunuyor. Bu doğal alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Parkın girişinde, ziyaretçileri güzel bir manzara karşılıyor ve doğanın güzelliğini keşfetmeye davet ediyor. Parkın içerisinde, yürüyüş parkurları, piknik alanları ve gözlem noktaları gibi imkânlar sunuluyor.
+Karaman Mut Camlica-Sedir milli parkı, İç Anadolu Bölgesi'nin gizli bir incisi. Bu doğal alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Parkın girişinde, ziyaretçileri güzel bir manzara karşılıyor ve doğanın güzelliğini keşfetmeye davet ediyor. Parkın içerisinde, yürüyüş parkurları, piknik alanları ve gözlem noktaları gibi imkânlar sunuluyor.
 
 ## Tarihçe
 

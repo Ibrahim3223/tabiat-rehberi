@@ -28,11 +28,11 @@ wikidata_id: "Q32139013"
 
 # Gül Tepe
 
-İç Anadolu Bölgesi'nde yer alan Gül Tepe, yaklaşık 140 hektarlık alanı ile dikkat çekici bir doğal ve tarihi alandır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Tarihi geçmişi ile önemli bir cazibe merkezi olan Gül Tepe, aynı zamanda coğrafi konumu ile de ziyaretçilerini cezbediyor. Bölgenin eşsiz güzelliği ve tarihi zenginliği, bu alanı özel kılıyor.
+İç Anadolu Bölgesi'nde yer alan Gül Tepe, yaklaşık 140 hektarlık alanı ile dikkat çekici bir doğal ve tarihi alandır. Tarihi geçmişi ile önemli bir cazibe merkezi olan Gül Tepe, aynı zamanda coğrafi konumu ile de ziyaretçilerini cezbediyor. Bölgenin eşsiz güzelliği ve tarihi zenginliği, bu alanı özel kılıyor.
 
 ## Tarihçe
 
-Gül Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu bölge, tarihin farklı dönemlerinde önemli bir yerleşim ve ticaret merkezi olarak görev yaptı. Tarihi kalıntılar ve buluntular, bu bölgenin zengin geçmişini gözler önüne seriyor. Gül Tepe, ziyaretçilerine tarihi bir yolculuk sunuyor ve geçmişin izlerini keşfetme fırsatı veriyor. Tarihin her döneminde önemli bir role sahip olan bu bölge, günümüzde de história meraklıları ve gezginler için bir çekim noktası olmayı sürdürüyor.
+Gül Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu bölge, tarihin farklı dönemlerinde önemli bir yerleşim ve ticaret merkezi olarak görev yaptı. Tarihi kalıntılar ve buluntular, bu bölgenin zengin geçmişini gözler önüne seriyor. Gül Tepe, ziyaretçilerine tarihi bir yolculuk sunuyor ve geçmişin izlerini keşfetme fırsatı veriyor. Tarihin her döneminde önemli bir role sahip olan bu bölge, günümüzde de tarihi meraklıları ve gezginler için bir çekim noktası olmayı sürdürüyor.
 
 ## Coğrafya
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228616"
 
 # ESKİŞEHİR
 
-Eskişehir milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu milli park, ziyaretçilerine doğanın güzelliklerini sunan bir cennet. Eskişehir milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli parkın çevresi, yeşilin farklı tonlarını sunan ağaçlarla kaplı.
+ Bu milli park, ziyaretçilerine doğanın güzelliklerini sunan bir cennet. Eskişehir milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli parkın çevresi, yeşilin farklı tonlarını sunan ağaçlarla kaplı.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Eskişehir milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Eskişehir milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli parkın çevresi, yeşilin farklı tonlarını sunan ağaçlarla kaplı. Eskişehir milli parkı, coğrafi olarak 140 hektarlık bir alanı kaplamaktadır. Bu bölge, dağlık ve engebeli arazilerle çevrilidir. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzemektedir. Burada, yaz aylarında sıcak ve kuru, kış aylarında soğuk ve karlı bir hava hüküm sürmektedir. Eskişehir milli parkı, çevresi ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır.
+Eskişehir milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli parkın çevresi, yeşilin farklı tonlarını sunan ağaçlarla kaplı. Eskişehir milli parkı, coğrafi olarak 140 hektarlık bir alanı kaplamaktadır. Bu bölge, dağlık ve engebeli arazilerle çevrilidir. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzemektedir. Burada, yaz aylarında sıcak ve kuru, kış aylarında soğuk ve karlı bir hava hüküm sürmektedir.
 
 ## Flora ve Fauna
 

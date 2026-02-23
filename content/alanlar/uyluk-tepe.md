@@ -55,7 +55,7 @@ Uyluk Tepe dağ ekosisteminde, step bitki örtüsü ve bozkırın hakim olduğu 
 
 Bitki örtüsünün yanı sıra, yaban hayatı da zenginlik gösterir. Dağ keçileri, yaban keçileri ve diğer memeliler, bu dağların yüksek kesimlerinde yaşamlarını sürdürür. Kuşlar, özellikle göç mevsimlerinde, Uyluk Tepe'nin gökyüzünü süsler. Sürüngenler ise, step ve bozkırın kurak conditionsına adapte olmuş türlerdir.
 
-Uyluk Tepe'nin ekolojik değeri, yükseklik zonlarına bağlı olarak değişen bitki ve hayvan topluluklarından kaynaklanır. Bu dağ ekosistemi, bölgenin ekolojik dengesi için önemlidir. Koruma durumu ise, henüz sufficient düzeyde değildir. Bu nedenle, Uyluk Tepe'nin doğal güzelliğini koruma ve gelecekteki nesiller için bảo vệ etmek önemlidir.
+Uyluk Tepe'nin ekolojik değeri, yükseklik zonlarına bağlı olarak değişen bitki ve hayvan topluluklarından kaynaklanır. Bu dağ ekosistemi, bölgenin ekolojik dengesi için önemlidir. Koruma durumu ise, henüz sufficient düzeyde değildir. Bu nedenle, Uyluk Tepe'nin doğal güzelliğini koruma ve gelecekteki nesiller için koruma vệ etmek önemlidir.
 
 ## Ziyaret Bilgileri
 

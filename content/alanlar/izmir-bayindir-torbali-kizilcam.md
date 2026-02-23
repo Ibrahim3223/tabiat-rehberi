@@ -22,7 +22,7 @@ wikidata_id: "Q108227892"
 
 # Izmir-Bayindir-Torbali Kızılçam
 
-Izmir-Bayindir-Torbali Kızılçam milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içinde çeşitli yürüyüş yolları ve piknik alanları bulunuyor. Ziyaretçiler, doğanın güzelliğini keşfetme ve streslerini atmaya geliyor. Parkın girişinde, ziyaretçileri bir bilgi panosu karşılıyor. Bu panoda, parkın flora ve faunası hakkında detaylı bilgiler veriliyor. Ziyaretçiler, bu bilgiler ışığında parkı daha iyi keşfedebiliyor.
+ Bu geniş alan, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içinde çeşitli yürüyüş yolları ve piknik alanları bulunuyor. Ziyaretçiler, doğanın güzelliğini keşfetme ve streslerini atmaya geliyor. Parkın girişinde, ziyaretçileri bir bilgi panosu karşılıyor. Bu panoda, parkın flora ve faunası hakkında detaylı bilgiler veriliyor. Ziyaretçiler, bu bilgiler ışığında parkı daha iyi keşfedebiliyor.
 
 ## Tarihçe
 

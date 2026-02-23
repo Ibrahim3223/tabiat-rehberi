@@ -29,7 +29,7 @@ wikidata_id: "Q31387613"
 
 # Maran Tepe
 
-Maran Tepe, Hatay ilinin sınırları içerisinde yer alan ve ziyaretçilerini cezbetmeyi başaran bir doğa harikasıdır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak dikkat çeker. Maran Tepe, ziyaretçilerine hem tarihi geçmişi hem de eşsiz manzarasıyla birlikte unutulmaz bir deneyim sunar. Burada, doğanın güzelliği ve bölgenin tarihi zenginliği bir arada bulunmakta ve ziyaretçilere benzersiz bir gezi deneyimi yaşatmaktadır.
+Maran Tepe, Hatay ilinin sınırları içerisinde yer alan ve ziyaretçilerini cezbetmeyi başaran bir doğa harikasıdır. Maran Tepe, ziyaretçilerine hem tarihi geçmişi hem de eşsiz manzarasıyla birlikte unutulmaz bir deneyim sunar. Burada, doğanın güzelliği ve bölgenin tarihi zenginliği bir arada bulunmakta ve ziyaretçilere benzersiz bir gezi deneyimi yaşatmaktadır.
 
 ## Tarihçe
 
@@ -45,12 +45,12 @@ Maran Tepe, zengin bir flora ve fauna çeşitliliğine sahip bir doğa harikası
 
 ## Ziyaret Bilgileri
 
-Maran Tepe, ziyaretçilerine unutulmaz bir gezi deneyimi sunar. Bu tepeye ulaşım, çeşitli ulaşım araçları ile sağlanabilir. Ziyaretçiler, Maran Tepe'yi ziyaret etmek için en uygun zamanı, genellikle bahar ve yaz ayları olarak belirleyebilir. Bu dönemde, tepe ve çevresinde bulunan bitki türleri ve canlılar, ziyaretçilere benzersiz bir doğa deneyimi sunar. Maran Tepe'de, ziyaretçilerin yapabileceği çeşitli etkinlikler bulunmakta ve bu bölge, doğa severlerin ilgi odağı olarak bilinmektedir.
+ Bu tepeye ulaşım, çeşitli ulaşım araçları ile sağlanabilir. Ziyaretçiler, Maran Tepe'yi ziyaret etmek için en uygun zamanı, genellikle bahar ve yaz ayları olarak belirleyebilir. Bu dönemde, tepe ve çevresinde bulunan bitki türleri ve canlılar, ziyaretçilere benzersiz bir doğa deneyimi sunar. Maran Tepe'de, ziyaretçilerin yapabileceği çeşitli etkinlikler bulunmakta ve bu bölge, doğa severlerin ilgi odağı olarak bilinmektedir.
 
 ## İlginç Bilgiler
 
 - Maran Tepe, 140 hektarlık bir yeşil alanı kaplar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Maran Tepe, Hatay ilinin sınırları içerisinde yer alır.
 - Bu bölge, yüzyıllar boyunca farklı medeniyetlerin izlerini taşımaktadır.
 - Maran Tepe, ziyaretçilerine benzersiz bir doğa deneyimi sunar.

@@ -28,7 +28,7 @@ wikidata_id: "Q31386668"
 
 # Kılavuz Tepe
 
-Kılavuz Tepe, Diyarbakır'ın kalbinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan, ziyaretçilerini büyüleyen bir doğa harikası. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakın. Kılavuz Tepe, aynı zamanda şehrin tarihi geçmişini yansıtan önemli bir nokta. Diyarbakır'ın zengin kültürel mirasını keşfetmek isteyenler için Kılavuz Tepe, önemli bir durak noktası.
+Kılavuz Tepe, Diyarbakır'ın kalbinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan, ziyaretçilerini büyüleyen bir doğa harikası. Kılavuz Tepe, aynı zamanda şehrin tarihi geçmişini yansıtan önemli bir nokta. Diyarbakır'ın zengin kültürel mirasını keşfetmek isteyenler için Kılavuz Tepe, önemli bir durak noktası.
 
 ## Tarihçe
 

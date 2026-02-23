@@ -28,7 +28,7 @@ wikidata_id: "Q31387187"
 
 # Otulcakuz Tepesi
 
-Otulcakuz Tepesi, Karadeniz Bölgesi'nin güzide illerinden Amasya'da yer alan bir doğa harikası. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzak bir kaçış noktası sunuyor. Tepenin eteklerinde akan dereler ve surroundingsındaki ormanlar, bu bölgeyi bir doğa cenneti haline getiriyor. Otulcakuz Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Otulcakuz Tepesi, Karadeniz Bölgesi'nin güzide illerinden Amasya'da yer alan bir doğa harikası. Tepenin eteklerinde akan dereler ve surroundingsındaki ormanlar, bu bölgeyi bir doğa cenneti haline getiriyor. Otulcakuz Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 

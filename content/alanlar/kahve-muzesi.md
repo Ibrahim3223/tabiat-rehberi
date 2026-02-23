@@ -1,7 +1,7 @@
 ---
 title: "Kahve Müzesi"
 date: "2026-01-10T15:14:32.851Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Türkiye"
@@ -23,7 +23,7 @@ wikidata_id: "Q118947971"
 
 # Kahve Müzesi
 
-Kahve Müzesi, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanda ziyaretçilerini bekliyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Müzenin konumu, ziyaretçilerin doğayı ve kültürel mirası aynı anda keşfetmesine olanak tanır. Müze, ziyaretçilerine bir yolculuk vaat ediyor; bir yolculuk ki, burada kahvenin tarihini, kültürel önemini ve üretim sürecini keşfetme mümkün.
+Kahve Müzesi, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanda ziyaretçilerini bekliyor. Müzenin konumu, ziyaretçilerin doğayı ve kültürel mirası aynı anda keşfetmesine olanak tanır. Müze, ziyaretçilerine bir yolculuk vaat ediyor; bir yolculuk ki, burada kahvenin tarihini, kültürel önemini ve üretim sürecini keşfetme mümkün.
 
 ## Tarihçe
 

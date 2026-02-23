@@ -27,9 +27,9 @@ wikidata_id: "Q31190974"
 
 ## Tarihçe
 
-Yahya Kemal Parkı, Türkiye'nin zengin doğal mirasının bir parçası olarak karşımıza çıkıyor. Bu bölgenin tarihi, binlerce yıl öncesine uzanan bir geçmişe sahip. Antik dönemlerde, various uygarlıkların yerleşim yerleri olarak kullanılan bu topraklar, tarihin akışında önemli bir rol oynamışlardır. 
+Yahya Kemal Parkı, Türkiye'nin zengin doğal mirasının bir parçası olarak karşımıza çıkıyor. Bu bölgenin tarihi, binlerce yıl öncesine uzanan bir geçmişe sahip. Antik dönemlerde, various uygarlıkların yerleşim yerleri olarak kullanılan bu topraklar, tarihin akışında önemli bir rol oynamışlardır.
 
-Bu tür doğal alanlar, Türkiye'de her zaman büyük bir önem taşımıştır. Özellikle Osmanlı döneminde, bu alanlar halkın dinlenme ve eğlenme yerleri olarak kullanılmıştır. İnsanlar, bu doğal güzelliklerin arasında piknik yaparlar, doğayı seyrederek huzur bulurlardı. Ayrıca, bu bölgeler yaylacılık ve hayvancılık faaliyetleri için de elverişliydi. 
+Bu tür doğal alanlar, Türkiye'de her zaman büyük bir önem taşımıştır. Özellikle Osmanlı döneminde, bu alanlar halkın dinlenme ve eğlenme yerleri olarak kullanılmıştır. İnsanlar, bu doğal güzelliklerin arasında piknik yaparlar, doğayı seyrederek huzur bulurlardı. Ayrıca, bu bölgeler yaylacılık ve hayvancılık faaliyetleri için de elverişliydi.
 
 Ticaret yolları üzerinde bulunan bu bölge, tarihi ticaret merkezlerinin de yakınında yer almıştır. Bu nedenle, bu bölgede yaşayan insanların hayatları, ticaret ve doğa ile iç içe geçmiş bir şekilde tiến etmiştir. Yahya Kemal Parkı, bu tarihsel bağlam içinde, insanların doğa ile bağını güçlendiren bir mekan olarak ön plana çıkıyor.
 

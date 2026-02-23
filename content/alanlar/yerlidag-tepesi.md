@@ -28,7 +28,7 @@ wikidata_id: "Q31389059"
 
 # Yerlidağ Tepesi
 
-Yerlidağ Tepesi, Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olarak bilinir. Bu tepe, Erzurum'un güzide yerlerinden biridir ve yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Yerlidağ Tepesi, doğa severlerin ve trekking yapanların gözdesi olan bir yerdir. Tepe, yıl boyunca ziyaretçilerini ağırlar ve her mevsim farklı bir güzelliğe sahiptir. Yerlidağ Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşım oldukça kolaydır.
+Yerlidağ Tepesi, Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olarak bilinir. Yerlidağ Tepesi, doğa severlerin ve trekking yapanların gözdesi olan bir yerdir. Tepe, yıl boyunca ziyaretçilerini ağırlar ve her mevsim farklı bir güzelliğe sahiptir. Yerlidağ Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşım oldukça kolaydır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yerlidağ Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Yerlidağ Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Bu tepe, Erzurum'un merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşım oldukça kolaydır. Yerlidağ Tepesi, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve etrafı çeşitli bitki türleri ile kaplıdır. Tepenin iklimi, karasal iklimin özellikleri taşır ve yıl boyunca farklı mevsimler yaşanır. Yerlidağ Tepesi, özellikle kış aylarında ziyaretçilerini ağırlar ve bu dönemde kayak gibi çeşitli spor faaliyetleri için ideal bir yerdir. Tepenin etrafındaki manzara, ziyaretçilere büyüleyici bir güzellik sunar ve fotoğrafçıların gözdesi olan bir yerdir.
+Yerlidağ Tepesi, Doğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Bu tepe, Erzurum'un merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşım oldukça kolaydır. Tepenin iklimi, karasal iklimin özellikleri taşır ve yıl boyunca farklı mevsimler yaşanır. Yerlidağ Tepesi, özellikle kış aylarında ziyaretçilerini ağırlar ve bu dönemde kayak gibi çeşitli spor faaliyetleri için ideal bir yerdir. Tepenin etrafındaki manzara, ziyaretçilere büyüleyici bir güzellik sunar ve fotoğrafçıların gözdesi olan bir yerdir.
 
 ## Flora ve Fauna
 

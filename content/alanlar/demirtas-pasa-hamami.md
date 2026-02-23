@@ -1,7 +1,7 @@
 ---
 title: "Demirtaş Paşa Hamamı"
 date: "2026-01-09T22:29:09.641Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738464"
 
 # Demirtaş Paşa Hamamı
 
-Demirtaş Paşa Hamamı, Marmara Bölgesi'nde, Osmangazi/Bursa'da bulunan tarihi ve doğal güzellikleri bir araya getiren özel bir mekan. Bu hamam, yaklaşık 140 hektarlık bir alanda konumlanmış ve yaklaşık 200 futbol sahası büyüklüğünde. Hamamın tarihi geçmişi, yüzyıllar boyunca insanların ziyaret ettiği ve dinlenme noktalarından biri olarak bilinir. Demirtaş Paşa Hamamı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan, benzersiz bir deneyim sunar. Bu mekan, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder.
+Demirtaş Paşa Hamamı, Marmara Bölgesi'nde, Osmangazi/Bursa'da bulunan tarihi ve doğal güzellikleri bir araya getiren özel bir mekan. Hamamın tarihi geçmişi, yüzyıllar boyunca insanların ziyaret ettiği ve dinlenme noktalarından biri olarak bilinir. Demirtaş Paşa Hamamı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan, benzersiz bir deneyim sunar. Bu mekan, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Demirtaş Paşa Hamamı, tarihi geçmişi ile dikkat çeker. Yüzyıllar boyunca
 
 ## Coğrafya
 
-Demirtaş Paşa Hamamı, Marmara Bölgesi'nde, Osmangazi/Bursa'da yer alır. Hamam, yaklaşık 140 hektarlık bir alanda konumlanmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, Marmara Denizi'nin kıyısında yer alır ve hamam, denize oldukça yakındır. Hamamın etrafı, yeşilin farklı tonlarını sunan ağaçlar ve bitkiler ile çevrilidir. Bölgenin iklimi, genel olarak ılımandır ve yaz aylarında sıcak, kış aylarında ılık geçer. Demirtaş Paşa Hamamı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan, benzersiz bir deneyim sunar. Bu mekan, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder. Hamamın coğrafi konumu, ziyaretçilerinin hem doğayı hem de tarihi mekanları keşfetmesine olanak tanır.
+Demirtaş Paşa Hamamı, Marmara Bölgesi'nde, Osmangazi/Bursa'da yer alır. Bölge, Marmara Denizi'nin kıyısında yer alır ve hamam, denize oldukça yakındır. Hamamın etrafı, yeşilin farklı tonlarını sunan ağaçlar ve bitkiler ile çevrilidir. Bölgenin iklimi, genel olarak ılımandır ve yaz aylarında sıcak, kış aylarında ılık geçer. Demirtaş Paşa Hamamı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan, benzersiz bir deneyim sunar. Bu mekan, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder. Hamamın coğrafi konumu, ziyaretçilerinin hem doğayı hem de tarihi mekanları keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Demirtaş Paşa Hamamı, ziyaretçilerine benzersiz bir deneyim sunar. Bu mekan,
 ## İlginç Bilgiler
 
 - Demirtaş Paşa Hamamı, Marmara Bölgesi'nin önemli tarihi mekanlarından biri olarak kabul edilir.
-- Hamam, yaklaşık 140 hektarlık bir alanda konumlanmış ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölge, Marmara Denizi'nin kıyısında yer alır ve hamam, denize oldukça yakındır.
 - Hamamın etrafı, yeşilin farklı tonlarını sunan ağaçlar ve bitkiler ile çevrilidir.
 - Demirtaş Paşa Hamamı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan, benzersiz bir deneyim sunar.

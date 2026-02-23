@@ -28,7 +28,7 @@ wikidata_id: "Q31390848"
 
 # Gırgır Tepesi
 
-Gırgır Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve büyüklüğü itibariyle yaklaşık 200 futbol sahası büyüklüğündedir. Gırgır Tepesi, bölgenin coğrafi yapısını etkileyen önemli bir oluşumdur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölgede yaşayan fauna da oldukça zengindir. Gırgır Tepesi, hem doğal güzelliği hem de coğrafi konumu nedeniyle önemli bir turizm merkezidir.
+Gırgır Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepedir. Gırgır Tepesi, bölgenin coğrafi yapısını etkileyen önemli bir oluşumdur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölgede yaşayan fauna da oldukça zengindir. Gırgır Tepesi, hem doğal güzelliği hem de coğrafi konumu nedeniyle önemli bir turizm merkezidir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31550569"
 
 # Ardeayşe Tepesi
 
-Ardeayşe Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Burası, hem tarihi açıdan hem de doğal güzellikleri yönünden ziyaretçilerini cezbetmeye devam ediyor. Ardeayşe Tepesi, Diyarbakır'ın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Tepenin eteklerinde yer alan tarihi eserler ve çevredeki doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Ardeayşe Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon. Burası, hem tarihi açıdan hem de doğal güzellikleri yönünden ziyaretçilerini cezbetmeye devam ediyor. Ardeayşe Tepesi, Diyarbakır'ın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Tepenin eteklerinde yer alan tarihi eserler ve çevredeki doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

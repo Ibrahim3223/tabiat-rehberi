@@ -30,7 +30,7 @@ wikidata_id: "Q732651"
 
 # Aslantaş ve Yılantaş
 
-Aslantaş ve Yılantaş, İhsaniye, Afyonkarahisar'da yer alan ve hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çeken önemli bir destinasyondur. Bu bölge, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Doğal güzelliği, zengin flora ve fauna çeşitliliği ile ziyaretçilerini cezbeden Aslantaş ve Yılantaş, aynı zamanda tarihi değerleriyle de ön plana çıkar. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yaşadığı ve izlerini bıraktığı bir yer olarak da bilinir.
+Aslantaş ve Yılantaş, İhsaniye, Afyonkarahisar'da yer alan ve hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çeken önemli bir destinasyondur. Doğal güzelliği, zengin flora ve fauna çeşitliliği ile ziyaretçilerini cezbeden Aslantaş ve Yılantaş, aynı zamanda tarihi değerleriyle de ön plana çıkar. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yaşadığı ve izlerini bıraktığı bir yer olarak da bilinir.
 
 ## Tarihçe
 

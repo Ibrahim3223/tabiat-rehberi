@@ -29,7 +29,7 @@ wikidata_id: "Q135582721"
 
 # Havza İmareti Kümbeti Samsun
 
-Havza İmareti Kümbeti Samsun, Karadeniz Bölgesi'nin Samsun iline bağlı Havza'da yer alan bir tarihi mekan olarak dikkat çekiyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsıyor. Bu geniş yeşil alan, ziyaretçilerin doğayla iç içe zaman geçirmesine olanak tanıyor. İmareti Kümbeti, Samsun'un tarihi ve kültürel zenginliklerini keşfetmek için ideal bir destinasyon.
+Havza İmareti Kümbeti Samsun, Karadeniz Bölgesi'nin Samsun iline bağlı Havza'da yer alan bir tarihi mekan olarak dikkat çekiyor. Bu geniş yeşil alan, ziyaretçilerin doğayla iç içe zaman geçirmesine olanak tanıyor. İmareti Kümbeti, Samsun'un tarihi ve kültürel zenginliklerini keşfetmek için ideal bir destinasyon.
 
 ## Tarihçe
 

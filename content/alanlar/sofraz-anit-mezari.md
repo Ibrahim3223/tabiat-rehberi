@@ -1,7 +1,7 @@
 ---
 title: "Sofraz Anıt Mezarı"
 date: "2026-01-10T04:48:56.708Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adıyaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q109521521"
 
 # Sofraz Anıt Mezarı
 
-Sofraz Anıt Mezarı, Güneydoğu Anadolu Bölgesi'nin Adıyaman ilinin Besni ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bir flora ve fauna ile kaplıdır. Bu mezar, tarihi geçmişi ile dikkat çekmekte ve ziyaretçilerini geçmişe götürmektedir. Sofraz Anıt Mezarı, hem tarihi hem de doğal güzellikleri ile bir gezi noktası olarak ön plana çıkıyor.
+Sofraz Anıt Mezarı, Güneydoğu Anadolu Bölgesi'nin Adıyaman ilinin Besni ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu mezar, tarihi geçmişi ile dikkat çekmekte ve ziyaretçilerini geçmişe götürmektedir. Sofraz Anıt Mezarı, hem tarihi hem de doğal güzellikleri ile bir gezi noktası olarak ön plana çıkıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sofraz Anıt Mezarı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu
 
 ## Coğrafya
 
-Sofraz Anıt Mezarı, Adıyaman'ın Besni ilçesinde yer alıyor. Bölge, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölümünde bulunuyor. Mezarın etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. İklim, bölgenin genel iklimi gibi kura ve sıcak geçiyor. Çevre, tarihi yapılar ve doğal güzelliklerle dolu. Sofraz Anıt Mezarı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. Mezarın konumu, bölgenin coğrafi özelliklerini yansıtıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bir flora ve fauna ile kaplıdır. Sofraz Anıt Mezarı, coğrafi konumu ile dikkat çekiyor ve ziyaretçilerini bir doğa ve tarih yolculuğuna çıkarıyor.
+Sofraz Anıt Mezarı, Adıyaman'ın Besni ilçesinde yer alıyor. Bölge, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölümünde bulunuyor. Mezarın etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. İklim, bölgenin genel iklimi gibi kura ve sıcak geçiyor. Çevre, tarihi yapılar ve doğal güzelliklerle dolu. Sofraz Anıt Mezarı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. Mezarın konumu, bölgenin coğrafi özelliklerini yansıtıyor. Sofraz Anıt Mezarı, coğrafi konumu ile dikkat çekiyor ve ziyaretçilerini bir doğa ve tarih yolculuğuna çıkarıyor.
 
 ## Flora ve Fauna
 

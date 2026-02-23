@@ -22,7 +22,7 @@ wikidata_id: "Q108227751"
 
 # Trabzon-Macka-Sahinkaya Kizilagac
 
-Trabzon-Macka-Sahinkaya Kizilagac milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Burada, yemyeşil ormanlar, dağlar ve nehirler bir araya geliyor. Parkın girişinde, sizi tarihi bir köprü karşılıyor. Bu köprü, bölgenin zengin tarihi geçmişini yansıtıyor. Trabzon-Macka-Sahinkaya Kizilagac milli parkı, hem doğa severler hem de tarih meraklıları için bir cennet.
+Trabzon-Macka-Sahinkaya Kizilagac milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Burada, yemyeşil ormanlar, dağlar ve nehirler bir araya geliyor. Parkın girişinde, sizi tarihi bir köprü karşılıyor. Bu köprü, bölgenin zengin tarihi geçmişini yansıtıyor. Trabzon-Macka-Sahinkaya Kizilagac milli parkı, hem doğa severler hem de tarih meraklıları için bir cennet.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Trabzon-Macka-Sahinkaya Kizilagac milli parkı, yüzyıllar boyunca çeşitli uy
 
 ## Coğrafya
 
-Trabzon-Macka-Sahinkaya Kizilagac milli parkı, Karadeniz Bölgesi'nin en güzel coğrafi oluşumlarını barındırıyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafyası, yemyeşil ormanlar, dağlar ve nehirlerle dolu. Burada, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Parkın iklimi, Karadeniz ikliminin özellikleri gösteriyor. kışın soğuk ve yağışlı, yazın ise serin ve güneşli bir hava hakim. Trabzon-Macka-Sahinkaya Kizilagac milli parkı, coğrafi güzellikleri ve doğal zenginlikleriyle ziyaretçilerini cezbediyor. Parkın çevre düzeni, doğanın güzelliklerini koruyarak yapılmış. Burada, ziyaretçilerin doğayla iç içe olabileceği alanlar tasarlanmış.
+Trabzon-Macka-Sahinkaya Kizilagac milli parkı, Karadeniz Bölgesi'nin en güzel coğrafi oluşumlarını barındırıyor. Parkın coğrafyası, yemyeşil ormanlar, dağlar ve nehirlerle dolu. Burada, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Parkın iklimi, Karadeniz ikliminin özellikleri gösteriyor. kışın soğuk ve yağışlı, yazın ise serin ve güneşli bir hava hakim. Trabzon-Macka-Sahinkaya Kizilagac milli parkı, coğrafi güzellikleri ve doğal zenginlikleriyle ziyaretçilerini cezbediyor. Parkın çevre düzeni, doğanın güzelliklerini koruyarak yapılmış. Burada, ziyaretçilerin doğayla iç içe olabileceği alanlar tasarlanmış.
 
 ## Flora ve Fauna
 

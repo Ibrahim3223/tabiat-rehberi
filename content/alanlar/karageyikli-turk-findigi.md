@@ -23,7 +23,7 @@ wikidata_id: "Q108228076"
 
 # Karageyikli Turk Findigi
 
-Karageyikli Turk Findigi, İç Anadolu Bölgesi'nin görece bakir kalmış doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Burada, çevreyle uyum içinde bir gün geçirme mümkün. Milli parkın güzelliği, sadece genişlikten değil, aynı zamanda içinde barındırdığı çeşitli bitki türlerinden ve zengin faunadan da geliyor. Karageyikli Turk Findigi, doğaseverler için gerçek bir cennet olarak görünüyor.
+Karageyikli Turk Findigi, İç Anadolu Bölgesi'nin görece bakir kalmış doğal güzelliklerinden biri olarak karşımıza çıkıyor. Burada, çevreyle uyum içinde bir gün geçirme mümkün. Milli parkın güzelliği, sadece genişlikten değil, aynı zamanda içinde barındırdığı çeşitli bitki türlerinden ve zengin faunadan da geliyor. Karageyikli Turk Findigi, doğaseverler için gerçek bir cennet olarak görünüyor.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Karageyikli Turk Findigi, İç Anadolu Bölgesi'nin coğrafi özellikleri doğru
 
 ## Flora ve Fauna
 
-Karageyikli Turk Findigi, flora ve fauna açısından oldukça zengin. Burada, çeşitli bitki türleri yetişiyor ve bu bitkiler, milli parkın doğal güzelliğini artırıyor. Mevsimsel değişimler, bitki örtüsünü etkiliyor; ilkbahar ve yaz aylarında çiçekler açıyor, sonbahar ve kış aylarında ise yapraklar dökülüyor. Milli parkın faunası da oldukça zengin; burada, çeşitli hayvanlar yaşıyor. Bu hayvanlar, milli parkın ekosistemini dengeliyor ve doğal döngüyü sürdürüyor. Karageyikli Turk Findigi, doğa severler için bir cennet olarak görünüyor ve burada, flora ve faunanın güzelliği keşfedilebilir.
+ Burada, çeşitli bitki türleri yetişiyor ve bu bitkiler, milli parkın doğal güzelliğini artırıyor. Mevsimsel değişimler, bitki örtüsünü etkiliyor; ilkbahar ve yaz aylarında çiçekler açıyor, sonbahar ve kış aylarında ise yapraklar dökülüyor. Milli parkın faunası da oldukça zengin; burada, çeşitli hayvanlar yaşıyor. Bu hayvanlar, milli parkın ekosistemini dengeliyor ve doğal döngüyü sürdürüyor. Karageyikli Turk Findigi, doğa severler için bir cennet olarak görünüyor ve burada, flora ve faunanın güzelliği keşfedilebilir.
 
 ## Ziyaret Bilgileri
 

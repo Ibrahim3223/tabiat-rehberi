@@ -28,7 +28,7 @@ wikidata_id: "Q34828773"
 
 # Çayırlarbaşı Tepesi
 
-Çayırlarbaşı Tepesi, Marmara Bölgesi'nin Edirne şehrinde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakındır. Tepenin eteklerinde yeşilliklerle kaplı alanlar ve çeşitli bitki türleri bulunur. İlkbahar ve sonbahar aylarında, tepenin etrafındaki manzara adeta bir tablo gibi görünür. Çayırlarbaşı Tepesi, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennettir.
+Çayırlarbaşı Tepesi, Marmara Bölgesi'nin Edirne şehrinde yer alan bir doğa harikasıdır. Tepenin eteklerinde yeşilliklerle kaplı alanlar ve çeşitli bitki türleri bulunur. İlkbahar ve sonbahar aylarında, tepenin etrafındaki manzara adeta bir tablo gibi görünür. Çayırlarbaşı Tepesi, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennettir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ wikidata_id: "Q34828773"
 
 ## Flora ve Fauna
 
-Çayırlarbaşı Tepesi, flora ve fauna açısından oldukça zengin bir yapıya sahiptir. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitkiler, bölgenin iklimini ve ekolojisini destekler. Tepenin etrafındaki toprak, verimli ve su kaynakları boldur. Bu nedenle, bölgeye yakın köylerde tarım yapılır. Çayırlarbaşı Tepesi, aynı zamanda çeşitli yaban hayvanlarına ev sahipliği yapar. Bu hayvanlar, bölgenin ekolojik dengesini korur. Mevsimsel değişimler, bölgenin flora ve faunasını etkiler. İlkbahar ve sonbahar aylarında, tepenin etrafındaki manzara adeta bir tablo gibi görünür.
+ Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitkiler, bölgenin iklimini ve ekolojisini destekler. Tepenin etrafındaki toprak, verimli ve su kaynakları boldur. Bu nedenle, bölgeye yakın köylerde tarım yapılır. Çayırlarbaşı Tepesi, aynı zamanda çeşitli yaban hayvanlarına ev sahipliği yapar. Bu hayvanlar, bölgenin ekolojik dengesini korur. Mevsimsel değişimler, bölgenin flora ve faunasını etkiler. İlkbahar ve sonbahar aylarında, tepenin etrafındaki manzara adeta bir tablo gibi görünür.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ wikidata_id: "Q34828773"
 
 - Çayırlarbaşı Tepesi, Edirne şehrinin merkezine 10 kilometre uzaklıktadır.
 - Tepenin etrafında, çeşitli yürüyüş yolları ve piknik alanları bulunur.
-- Çayırlarbaşı Tepesi, flora ve fauna açısından oldukça zengin bir yapıya sahiptir.
+
 - Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunur.
 - Bölge, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış ve her bir uygarlık buraya kendi kültürünü bırakmıştır.

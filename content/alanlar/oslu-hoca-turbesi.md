@@ -1,7 +1,7 @@
 ---
 title: "Oslu Hoca Türbesi"
 date: "2026-01-10T06:24:40.031Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bayburt"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391798"
 
 # Oslu Hoca Türbesi
 
-Oslu Hoca Türbesi, Karadeniz Bölgesi'nin en güzel ve tarihi yerlerinden biri olarak Bayburt'un merkezinde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ve fauna ile çevrilidir. Bu tarihi ve doğal güzellik, ziyaretçilerini hem geçmişin izleriyle hem de doğanın güzelliği ile karşılar. Oslu Hoca Türbesi, Bayburt'un önemli dini ve turistik mekanlarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi çekmektedir. TürbeninAroundunda, tarihi yapılar ve doğal güzellikler bulunmakta olup, ziyaretçiler için geniş bir gezi alanı sunmaktadır.
+Oslu Hoca Türbesi, Karadeniz Bölgesi'nin en güzel ve tarihi yerlerinden biri olarak Bayburt'un merkezinde yer alır. Bu tarihi ve doğal güzellik, ziyaretçilerini hem geçmişin izleriyle hem de doğanın güzelliği ile karşılar. Oslu Hoca Türbesi, Bayburt'un önemli dini ve turistik mekanlarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi çekmektedir. TürbeninAroundunda, tarihi yapılar ve doğal güzellikler bulunmakta olup, ziyaretçiler için geniş bir gezi alanı sunmaktadır.
 
 ## Tarihçe
 

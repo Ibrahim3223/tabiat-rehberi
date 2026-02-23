@@ -50,7 +50,7 @@ Jeolojik açıdan bakıldığında, Geven Dağı'nın oluşumu hakkında detayl�
 
 ## Flora ve Fauna
 
-Geven Dağı, Hakkari'nin yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın farklı yükseklik zonlarında, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. 
+Geven Dağı, Hakkari'nin yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın farklı yükseklik zonlarında, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor.
 
 İlkbaharda, alpin çayırlar renkli çiçeklerle donanıyor. Sonbaharda ise, göçmen kuşlar dağların tepelerinden geçerek yeni yuvalarına ulaşıyor. Dağ ekosisteminde, yükseklik zonlarına göre değişen bitkiler ve hayvanlar, birbirleriyle bağlantılı bir yaşam sürüyor. Dağın zirvesinde, endemik türler ve alpin flora encontrar.
 

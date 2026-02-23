@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin küçük ama tarihi bir ili olan Kilis, Kepir T
 
 ## Tarihçe
 
-Kilis'in doğusunda yer alan Kepir Tepe, tarihin sâu izlerini taşıyan bir bölge. Kilis, tarihi boyunca çeşitli uygarlıkların hakimiyetine girmiş bir şehirdir. Hititler, Asurlular, Persler ve Roma İmparatorluğu gibi büyük güçler, bu topraklarda hüküm sürmüşlerdir. Kepir Tepe de, bu tarihsel sürecin bir parçası olarak, bölgenin kültürel ve coğrafi dokusuna katkıda bulunmuştur.
+Kilis'in doğusunda yer alan Kepir Tepe, tarihin derin izlerini taşıyan bir bölge. Kilis, tarihi boyunca çeşitli uygarlıkların hakimiyetine girmiş bir şehirdir. Hititler, Asurlular, Persler ve Roma İmparatorluğu gibi büyük güçler, bu topraklarda hüküm sürmüşlerdir. Kepir Tepe de, bu tarihsel sürecin bir parçası olarak, bölgenin kültürel ve coğrafi dokusuna katkıda bulunmuştur.
 
 Türkiye'de doğal alanlar, tarih boyunca insan yaşamı için önemli bir role sahip olmuşlardır. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla etkileşimini sağlayan temel faaliyetler olmuştur. Kepir Tepe, bu bağlamda, bölgede yaşayan insanların yaşamlarını sürdürmeleri için gerekli doğal kaynakları sunmuştur. Dağın eteklerinde yer alan köyler ve kasabalar, bu doğal alanın bir parçası olarak, tarih boyunca bölgenin ekonomi ve sosyal yaşamına katkıda bulunmuşlardır. Kepir Tepe, Kilis'in tarihi ve kültürel mirasının bir parçası olarak, günümüzde de bölgenin önemli bir doğal ve turistik alanını oluşturmaktadır.
 
@@ -48,11 +48,11 @@ Doğal bir ekosistem olarak, Kepir Tepe ve çevresinin çevresel ilişkileri, b�
 
 ## Flora ve Fauna
 
-Kilis'in Kepir Tepe dağ ekosisteminde, yarı kurak iklimin hakimiyeti altında, step ve ova ekolojisi belirginleşir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kilis'in Kepir Tepe dağ ekosisteminde, yarı kurak iklimin hakimiyeti altında, step ve ova ekolojisi belirginleşir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünde, ilkbaharla birlikte renkli çiçekler açar. Çalı ve otsu bitkiler, dağ yamaçlarını kaplar. Sonbaharda, bitkilerin kurumasıyla birlikte, dağların rengi değişir. 
+Bitki örtüsünde, ilkbaharla birlikte renkli çiçekler açar. Çalı ve otsu bitkiler, dağ yamaçlarını kaplar. Sonbaharda, bitkilerin kurumasıyla birlikte, dağların rengi değişir.
 
-Yaban hayatına bakıldığında, dağ keçileri, tilkiler ve çeşitli kuş türleri görülür. Göçmen kuşlar, ilkbahar ve sonbahar aylarında bu dağları ziyaret eder. Sürüngenler de dağların kayalık bölgelerinde yaşar. 
+Yaban hayatına bakıldığında, dağ keçileri, tilkiler ve çeşitli kuş türleri görülür. Göçmen kuşlar, ilkbahar ve sonbahar aylarında bu dağları ziyaret eder. Sürüngenler de dağların kayalık bölgelerinde yaşar.
 
 Bu dağ ekosistemi, bölge için önemli bir ekolojik değer taşır. Dağların yükseklik zonları, alpin flora ve fauna için yaşam alanı sağlar. Bu reason, koruma altına alınması gereken bir alandır.
 

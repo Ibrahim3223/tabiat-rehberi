@@ -28,7 +28,7 @@ wikidata_id: "Q31387746"
 
 # Kavaklı Tepe
 
-Erzurum'un eşsiz güzellikteki mekanlarından biri olan Kavaklı Tepe, doğa severlerin ve macera tutkunlarının buluşma noktalarından biri olarak karşımıza çıkıyor. Kavaklı Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklüğü ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu tepe, hem doğa severler hem de tarihe meraklı olanlar için önemli bir destinasyon olarak kabul ediliyor. Kavaklı Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili, bu nedenle buraya gelen ziyaretçiler, kendilerini doğanın içinde buluyorlar. Kavaklı Tepe, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini bekliyor.
+Erzurum'un eşsiz güzellikteki mekanlarından biri olan Kavaklı Tepe, doğa severlerin ve macera tutkunlarının buluşma noktalarından biri olarak karşımıza çıkıyor. Bu tepe, hem doğa severler hem de tarihe meraklı olanlar için önemli bir destinasyon olarak kabul ediliyor. Kavaklı Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili, bu nedenle buraya gelen ziyaretçiler, kendilerini doğanın içinde buluyorlar. Kavaklı Tepe, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

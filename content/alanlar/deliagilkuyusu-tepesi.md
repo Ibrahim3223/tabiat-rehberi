@@ -28,7 +28,7 @@ wikidata_id: "Q31390565"
 
 # Deliağılkuyusu Tepesi
 
-Deliağılkuyusu Tepesi, Aksaray'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Deliağılkuyusu Tepesi, ziyaretçilerine geniş bir panorama sunmakla birlikte, bölgenin tarihi geçmişi hakkında da bilgi edinme fırsatı sunuyor. Doğal güzellikleri ve tarihi önemiyle Deliağılkuyusu Tepesi, ziyaretçilerini bekliyor.
+Deliağılkuyusu Tepesi, Aksaray'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Deliağılkuyusu Tepesi, ziyaretçilerine geniş bir panorama sunmakla birlikte, bölgenin tarihi geçmişi hakkında da bilgi edinme fırsatı sunuyor. Doğal güzellikleri ve tarihi önemiyle Deliağılkuyusu Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Selamsız Hamamı"
 date: "2026-01-09T23:41:21.024Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739143"
 
 # Selamsız Hamamı
 
-Selamsız Hamamı, Üsküdar'ın güzide bir bölgesinde, yaklaşık 140 hektarlık bir alanı kaplayan, Marmara Denizi'nin sakin ve berrak sularına ev sahipliği yapan bir plajdır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, hem yerel halk hem de İstanbul'a gelen ziyaretçiler için keyifli bir kaçış noktasıdır. Deniz kenarında yer alan bu plaj, hem güneşin tadını çıkarmak hem de denizin serin sularında serinlemek için idealdir. Selamsız Hamamı, doğal güzelliği ve sunduğu olanaklarla, İstanbul'un önemli turizm noktalarından biri haline gelmiştir.
+Selamsız Hamamı, Üsküdar'ın güzide bir bölgesinde, yaklaşık 140 hektarlık bir alanı kaplayan, Marmara Denizi'nin sakin ve berrak sularına ev sahipliği yapan bir plajdır. Deniz kenarında yer alan bu plaj, hem güneşin tadını çıkarmak hem de denizin serin sularında serinlemek için idealdir. Selamsız Hamamı, doğal güzelliği ve sunduğu olanaklarla, İstanbul'un önemli turizm noktalarından biri haline gelmiştir.
 
 ## Tarihçe
 
@@ -53,4 +53,4 @@ Selamsız Hamamı'na ziyaret için en uygun zaman, genellikle ilkbahar ve yaz ay
 - Bu bölge, İstanbul'un en eski ve önemli plajlarından biridir.
 - Selamsız Hamamı, Marmara Denizi'nin en sığ ve güvenli noktalarından biridir.
 - Plajın etrafında, çeşitli restoran ve kafeler bulunur.
-- Selamsız Hamamı, hem yerli hem de yabancı turistler tarafından ziyaret edilen bir noktadır.
+

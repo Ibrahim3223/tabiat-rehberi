@@ -28,7 +28,7 @@ wikidata_id: "Q35731426"
 
 # Büyüksakşak Tepesi
 
-Büyüksakşak Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezi bölgelerine göre daha yüksek bir konumda yer alıyor. Bu tepe, Ankara'nın şehir yaşamından uzaklaşma ve doğayı keşfetmek isteyenler için ideal bir kaçış noktası.
+Büyüksakşak Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. Bu tepe, Ankara'nın şehir yaşamından uzaklaşma ve doğayı keşfetmek isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Büyüksakşak Tepesi'nin tarihi geçmişi, Ankara'nın tarihinde önemli bir ye
 
 ## Coğrafya
 
-Büyüksakşak Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir coğrafi oluşum. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Şehrin merkezi bölgelerine göre daha yüksek bir konumda yer alıyor ve thus, şehre hakim bir manzaraya sahip. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna yer alıyor. İklim, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal ve kurak. Bu, bölgede yazların sıca ve kışların soğuk olmasını sağlıyor.
+Büyüksakşak Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir coğrafi oluşum. Şehrin merkezi bölgelerine göre daha yüksek bir konumda yer alıyor ve thus, şehre hakim bir manzaraya sahip. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna yer alıyor. İklim, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal ve kurak. Bu, bölgede yazların sıca ve kışların soğuk olmasını sağlıyor.
 
 ## Flora ve Fauna
 

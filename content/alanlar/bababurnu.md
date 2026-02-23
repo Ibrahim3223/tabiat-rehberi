@@ -33,9 +33,9 @@ wikidata_id: "Q527902"
 
 ## Tarihçe
 
-Çanakkale bölgesi, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış zengin bir coğrafyadır. Bu bölge, Truva Savaşı'nın gerçekleştiği yer olarak bilinen Truva Antik Kenti'ne de ev sahipliği yapmaktadır. Çanakkale Boğazı, tarih boyunca ticaret ve askeri faaliyetler için önemli bir geçiş noktası olarak kullanılmıştır. 
+Çanakkale bölgesi, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış zengin bir coğrafyadır. Bu bölge, Truva Savaşı'nın gerçekleştiği yer olarak bilinen Truva Antik Kenti'ne de ev sahipliği yapmaktadır. Çanakkale Boğazı, tarih boyunca ticaret ve askeri faaliyetler için önemli bir geçiş noktası olarak kullanılmıştır.
 
-Bu bölgede, Bababurnu gibi doğal alanlar, binlerce yıl boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve avcılık gibi faaliyetler, bu doğal alanların insanlarla olan bağlantısını güçlendirmiştir. Ayrıca, bölgedeki ticaret yolları, bu doğal alanların çevresindeki yerleşim yerleriyle olan ilişkisini de etkilemiştir. 
+Bu bölgede, Bababurnu gibi doğal alanlar, binlerce yıl boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve avcılık gibi faaliyetler, bu doğal alanların insanlarla olan bağlantısını güçlendirmiştir. Ayrıca, bölgedeki ticaret yolları, bu doğal alanların çevresindeki yerleşim yerleriyle olan ilişkisini de etkilemiştir.
 
 Türkiye'de, bu tür doğal alanlar, ülkenin biyolojik çeşitliliğinin korunması açısından büyük önem taşımaktadır. Bu alanlar, birçok farklı türün yaşamsal habitatı olarak görev yapmaktadır. İnsanların bu doğal alanlarla olan ilişkisi, ülkenin kültürel ve ekonomik gelişimini de etkilemektedir. Bu nedenle, Bababurnu gibi doğal alanların korunması ve gelecek nesiller için muhafaza edilmesi büyük önem taşımaktadır.
 

@@ -1,7 +1,7 @@
 ---
 title: "Terlemez Baba Türbesi"
 date: "2026-01-10T06:27:52.202Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391791"
 
 # Terlemez Baba Türbesi
 
-Aksaray ilinin merkezinde bulunan Terlemez Baba Türbesi, 140 hektarlık bir alanı kaplayan tarihi ve doğal bir mekândır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihi ve doğal güzelliklerle karşılar. Terlemez Baba Türbesi, Aksaray'ın önemli tarihi ve turistik mekanlarından biridir. Burada, tarihi yapılar, doğal güzellikler ve zengin flora ile fauna çeşitliliği bulunmaktadır. Terlemez Baba Türbesi, Aksaray'ı ziyaret edenlerin mutlaka görmeniz gereken bir yerdir.
+Aksaray ilinin merkezinde bulunan Terlemez Baba Türbesi, 140 hektarlık bir alanı kaplayan tarihi ve doğal bir mekândır. Terlemez Baba Türbesi, Aksaray'ın önemli tarihi ve turistik mekanlarından biridir. Burada, tarihi yapılar, doğal güzellikler ve zengin flora ile fauna çeşitliliği bulunmaktadır. Terlemez Baba Türbesi, Aksaray'ı ziyaret edenlerin mutlaka görmeniz gereken bir yerdir.
 
 ## Tarihçe
 

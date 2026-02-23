@@ -1,7 +1,7 @@
 ---
 title: "Mehmet Gazi Türbesi"
 date: "2026-01-10T05:07:41.691Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391580"
 
 # Mehmet Gazi Türbesi
 
-Mehmet Gazi Türbesi, Denizli'nin Merkezefendi ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarih ve doğanın iç içe geçtiği bir ortama davet ediyor. Bu bölge, hem tarih meraklıları hem de doğa severler için benzersiz bir deneyim sunuyor. Mehmet Gazi Türbesi, ziyaretçilerine hem dinî bir experiencia hem de doğal güzelliklerin tadını çıkarma fırsatı veriyor.
+Mehmet Gazi Türbesi, Denizli'nin Merkezefendi ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyon. Bu bölge, hem tarih meraklıları hem de doğa severler için benzersiz bir deneyim sunuyor. Mehmet Gazi Türbesi, ziyaretçilerine hem dinî bir experiencia hem de doğal güzelliklerin tadını çıkarma fırsatı veriyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mehmet Gazi Türbesi, tarihin derinliklerinden gelen bir miras. Bu türbe, yüzy
 
 ## Coğrafya
 
-Mehmet Gazi Türbesi, Denizli'nin Merkezefendi ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Türbenin çevresinde, yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar ve tarım arazileri bulunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Mehmet Gazi Türbesi vei, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Türbenin mimarisi, bölgenin geleneksel mimari özelliklerini taşıyor ve lch histórik dokusu içinde önemli bir yere sahip.
+Mehmet Gazi Türbesi, Denizli'nin Merkezefendi ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Türbenin çevresinde, yeşilin çeşitli tonlarını görebileceğiniz ormanlık alanlar ve tarım arazileri bulunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Mehmet Gazi Türbesi vei, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Türbenin mimarisi, bölgenin geleneksel mimari özelliklerini taşıyor ve lch tarihi dokusu içinde önemli bir yere sahip.
 
 ## Flora ve Fauna
 

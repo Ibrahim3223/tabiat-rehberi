@@ -1,7 +1,7 @@
 ---
 title: "Mersin-Hisardag ve Gedik Dagi"
 date: "2026-01-09T20:36:31.041Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Mersin"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227397"
 
 # Mersin-Hisardag ve Gedik Dagi
 
-Mersin-Hisardag ve Gedik Dagi milli parkı, Mersin'in doğal güzelliklerini keşfetmek isteyenler için bir cennet. 140 hektarlık yeşil alanı, khong 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağında bir geziye davet ediyor. Milli park, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Hisardag ve Gedik Dagi gibi önemli dağların eteklerinde kurulmuş olan milli park, ziyaretçilerine doğanın tüm güzelliğini sunuyor.
+Mersin-Hisardag ve Gedik Dagi milli parkı, Mersin'in doğal güzelliklerini keşfetmek isteyenler için bir cennet. Milli park, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Hisardag ve Gedik Dagi gibi önemli dağların eteklerinde kurulmuş olan milli park, ziyaretçilerine doğanın tüm güzelliğini sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-Hisardag ve Gedik Dagi milli parkının tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Mersin-Hisardag ve Gedik Dagi milli parkı, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Milli park, Hisardag ve Gedik Dagi gibi önemli dağların eteklerinde kurulmuş ve 140 hektarlık yeşil alanı, khong 200 futbol sahası büyüklüğünde. Milli parkın coğrafyası, dağlık ve engebeli araziye sahip ve bu nedenle, ziyaretçilere doğanın tüm güzelliğini sunuyor. Milli parkın iklimi, Akdeniz iklimi karakterinde ve sıcak yazlar, ılıkışlar ile karakterize ediliyor. Milli parkın çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır ve bu nedenle, milli park, doğa severler için bir cennet olarak kabul ediliyor.
+Mersin-Hisardag ve Gedik Dagi milli parkı, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Milli parkın coğrafyası, dağlık ve engebeli araziye sahip ve bu nedenle, ziyaretçilere doğanın tüm güzelliğini sunuyor. Milli parkın iklimi, Akdeniz iklimi karakterinde ve sıcak yazlar, ılıkışlar ile karakterize ediliyor. Milli parkın çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır ve bu nedenle, milli park, doğa severler için bir cennet olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -38,12 +38,12 @@ Mersin-Hisardag ve Gedik Dagi milli parkı, çeşitli bitki türleri ve hayvanla
 
 ## Ziyaret Bilgileri
 
-Mersin-Hisardag ve Gedik Dagi milli parkını ziyaret etmek, doğa severler için bir cennet olarak kabul ediliyor. Milli park, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve Hisardag ve Gedik Dagi gibi önemli dağların eteklerinde kurulmuş. Milli parkın 140 hektarlık yeşil alanı, khong 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın tüm güzelliğini sunuyor. Milli parka gitmek için, Mersin'e ulaşmak gerekiyor ve, milli parka özel araç veya toplu taşıma ile ulaşma mümkün.
+Mersin-Hisardag ve Gedik Dagi milli parkını ziyaret etmek, doğa severler için bir cennet olarak kabul ediliyor. Milli park, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve Hisardag ve Gedik Dagi gibi önemli dağların eteklerinde kurulmuş. Milli parka gitmek için, Mersin'e ulaşmak gerekiyor ve, milli parka özel araç veya toplu taşıma ile ulaşma mümkün.
 
 ## İlginç Bilgiler
 
 - Mersin-Hisardag ve Gedik Dagi milli parkı, Mersin'in en önemli turizm merkezlerinden biri olarak kabul ediliyor.
-- Milli parkın 140 hektarlık yeşil alanı, khong 200 futbol sahası büyüklüğünde.
+
 - Milli park, Hisardag ve Gedik Dagi gibi önemli dağların eteklerinde kurulmuş.
 - Milli parkın fauna zenginliği, çeşitli kuş türleri, memeliler ve sürüngenler ile karakterize ediliyor.
 - Milli parka gitmek için, Mersin'e ulaşmak gerekiyor ve, milli parka özel araç veya toplu taşıma ile ulaşma mümkün.

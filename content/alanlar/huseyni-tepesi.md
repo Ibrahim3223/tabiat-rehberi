@@ -28,7 +28,7 @@ wikidata_id: "Q34875195"
 
 # Hüseyni Tepesi
 
-Hüseyni Tepesi, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Şehir merkezine yakın konumuyla, ziyaretçiler için kolay ulaşılabilir bir noktadır. Hüseyni Tepesi, hem doğal güzelliği hem de tarihi değerleriyle, ziyaretçilerini bekliyor.
+Hüseyni Tepesi, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Şehir merkezine yakın konumuyla, ziyaretçiler için kolay ulaşılabilir bir noktadır. Hüseyni Tepesi, hem doğal güzelliği hem de tarihi değerleriyle, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hüseyni Tepesi'nin tarihi geçmişi, Mardin'in tarihinde önemli bir yere sahip
 
 ## Coğrafya
 
-Hüseyni Tepesi, Mardin'in coğrafi yapısında önemli bir yere sahiptir. Tepenin konumu, şehir merkezine yakın ve ulaşımı kolaydır. Coğrafi olarak, tepe yaklaşık 140 hektarlık bir alanı kaplar ve bu alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünebiliriz. Tepenin etrafı, şehir merkezinin hareketliliği ve tarihi yapılarıyla çevrilidir. İklim olarak, Mardin'in genel iklimine uygun olarak, yazları sıcak ve kışları soğuk geçer. Çevre, tarihi ve doğal güzellikleriyle ziyaretçileri büyülenecek bir manzarayı sunar.
+Hüseyni Tepesi, Mardin'in coğrafi yapısında önemli bir yere sahiptir. Tepenin konumu, şehir merkezine yakın ve ulaşımı kolaydır. Tepenin etrafı, şehir merkezinin hareketliliği ve tarihi yapılarıyla çevrilidir. İklim olarak, Mardin'in genel iklimine uygun olarak, yazları sıcak ve kışları soğuk geçer. Çevre, tarihi ve doğal güzellikleriyle ziyaretçileri büyülenecek bir manzarayı sunar.
 
 ## Flora ve Fauna
 

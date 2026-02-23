@@ -1,7 +1,7 @@
 ---
 title: "Kız Dedesi Türbesi"
 date: "2026-01-10T05:15:58.693Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391725"
 
 # Kız Dedesi Türbesi
 
-Kız Dedesi Türbesi, Marmara Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir destinasyondur. Balıkesir'in Karesi ilçesinde yer alan bu mekan, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Burada, tarihin izlerini ve doğanın güzelliğini bir arada keşfetme mümkün. Tarihi geçmişi ve kültürel önemi ile dikkat çeken Kız Dedesi Türbesi, ziyaretçilerini geçmişe götürerek aynı zamanda doğal güzelliklerin tadını çıkarmaya davet ediyor.
+Kız Dedesi Türbesi, Marmara Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir destinasyondur. Burada, tarihin izlerini ve doğanın güzelliğini bir arada keşfetme mümkün. Tarihi geçmişi ve kültürel önemi ile dikkat çeken Kız Dedesi Türbesi, ziyaretçilerini geçmişe götürerek aynı zamanda doğal güzelliklerin tadını çıkarmaya davet ediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kız Dedesi Türbesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği 
 
 ## Coğrafya
 
-Kız Dedesi Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerini sunan özel bir noktada yer alır. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Coğrafi konumu itibariyle, ziyaretçilerine geniş bir manzara sunan bu mekan, aynı zamanda doğal güzelliklerin tadını çıkarmak için ideal bir yer. Çevre, ziyaretçilere huzurlu bir atmosfer sunarken, bölgenin coğrafi özellikleri, ziyaretçilerin doğa ile iç içe olmasını sağlar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve ziyaretçilere geniş bir alan sunar. Bölgenin iklimi, ziyaretçilere uygun koşullar sunar ve yılın çeşitli dönemlerinde ziyaret edilebilir.
+Kız Dedesi Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerini sunan özel bir noktada yer alır. Coğrafi konumu itibariyle, ziyaretçilerine geniş bir manzara sunan bu mekan, aynı zamanda doğal güzelliklerin tadını çıkarmak için ideal bir yer. Çevre, ziyaretçilere huzurlu bir atmosfer sunarken, bölgenin coğrafi özellikleri, ziyaretçilerin doğa ile iç içe olmasını sağlar. Bölgenin iklimi, ziyaretçilere uygun koşullar sunar ve yılın çeşitli dönemlerinde ziyaret edilebilir.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31556667"
 
 # Arıdoruğu Tepesi
 
-Arıdoruğu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan önemli bir doğal güzelliktir. Bu tepe, yaklaşık 140 hektarlık alanıyla, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Arıdoruğu Tepesi, aynı zamanda çevre düzenlemesiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bu tepe, Ankara'nın merkezine yakın konumuyla da dikkat çekiyor ve ziyaretçilere kolay ulaşım imkanı sunuyor.
+Arıdoruğu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan önemli bir doğal güzelliktir. Bu tepe, yaklaşık 140 hektarlık alanıyla, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Arıdoruğu Tepesi, aynı zamanda çevre düzenlemesiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Bu tepe, Ankara'nın merkezine yakın konumuyla da dikkat çekiyor ve ziyaretçilere kolay ulaşım imkanı sunuyor.
 
 ## Tarihçe
 

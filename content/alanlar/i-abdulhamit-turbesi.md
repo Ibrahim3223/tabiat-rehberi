@@ -1,7 +1,7 @@
 ---
 title: "I. Abdülhamit Türbesi"
 date: "2026-01-10T07:42:40.865Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391138"
 
 # I. Abdülhamit Türbesi
 
-I. Abdülhamit Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir turistik destinasyondur. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilerini tarihi bir yolculuğa çıkarır. Bu türbe, I. Abdülhamit'in anıt mezarı olarak bilinir ve tarih meraklılarının ilgisini çeker. İstanbul'un merkezi konumunda yer alan türbe, kolay ulaşılabilirlik sunar.
+I. Bu türbe, I. Abdülhamit'in anıt mezarı olarak bilinir ve tarih meraklılarının ilgisini çeker. İstanbul'un merkezi konumunda yer alan türbe, kolay ulaşılabilirlik sunar.
 
 ## Tarihçe
 

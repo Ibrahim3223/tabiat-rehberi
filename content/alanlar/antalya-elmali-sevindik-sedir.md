@@ -22,7 +22,7 @@ wikidata_id: "Q108227596"
 
 # Antalya-Elmali-Sevindik Sedir
 
-Antalya-Elmali-Sevindik Sedir, Akdeniz Bölgesi'nde yer alan bir milli parktır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın güzelliğini sunmaktadır. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Ziyaretçiler, bu doğal güzelliği keşfetmek için gelenekselleşmiş bir rota izlemektedir. Antalya-Elmali-Sevindik Sedir, hem doğa severler hem de çevreyi korumak isteyenler için önemli bir destinasyon olarak kabul edilmektedir.
+Antalya-Elmali-Sevindik Sedir, Akdeniz Bölgesi'nde yer alan bir milli parktır. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Ziyaretçiler, bu doğal güzelliği keşfetmek için gelenekselleşmiş bir rota izlemektedir. Antalya-Elmali-Sevindik Sedir, hem doğa severler hem de çevreyi korumak isteyenler için önemli bir destinasyon olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Elmali-Sevindik Sedir'in tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Antalya-Elmali-Sevindik Sedir, Akdeniz Bölgesi'nde yer alan bir milli parktır. Bu milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve çevreyi korumak için önemli bir destinasyon olarak kabul edilmektedir. Milli parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. İklimi, Akdeniz iklimi özellikleri taşımaktadır ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır. Milli parkın yakınlarında, çeşitli su kaynakları ve doğal güzellikler bulunmaktadır. Bu milli park, ziyaretçilerine hem doğal güzellikleri hem de coğrafi önemi ile dikkat çekmektedir. Coğrafi konumu, tarihi geçmişi ve doğal güzellikleri ile Sevindik Sedir Milli Parkı, Türkiye'nin önemli bir doğal alanı olarak kabul edilmektedir.
+Antalya-Elmali-Sevindik Sedir, Akdeniz Bölgesi'nde yer alan bir milli parktır. Milli parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. İklimi, Akdeniz iklimi özellikleri taşımaktadır ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunmaktadır. Milli parkın yakınlarında, çeşitli su kaynakları ve doğal güzellikler bulunmaktadır. Bu milli park, ziyaretçilerine hem doğal güzellikleri hem de coğrafi önemi ile dikkat çekmektedir. Coğrafi konumu, tarihi geçmişi ve doğal güzellikleri ile Sevindik Sedir Milli Parkı, Türkiye'nin önemli bir doğal alanı olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 

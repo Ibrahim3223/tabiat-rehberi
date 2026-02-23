@@ -1,7 +1,7 @@
 ---
 title: "Koyun Baba Türbesi"
 date: "2026-01-10T04:59:04.680Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391473"
 
 # Koyun Baba Türbesi
 
-Koyun Baba Türbesi, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. 140 hektarlık bir alanda bulunan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu büyük alan, ziyaretçilere geniş bir perspektif sunuyor. Türbenin etrafında bulunan yeşillikler ve doğal güzellikler, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Koyun Baba Türbesi, aynı zamanda bölgenin tarihi geçmişini öğrenmek isteyenler için de önemli bir merkez.
+Koyun Baba Türbesi, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu büyük alan, ziyaretçilere geniş bir perspektif sunuyor. Türbenin etrafında bulunan yeşillikler ve doğal güzellikler, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Koyun Baba Türbesi, aynı zamanda bölgenin tarihi geçmişini öğrenmek isteyenler için de önemli bir merkez.
 
 ## Tarihçe
 

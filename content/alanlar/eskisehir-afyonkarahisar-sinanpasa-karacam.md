@@ -1,7 +1,7 @@
 ---
 title: "Eskişehir-Afyonkarahisar-Sinanpaşa Karacam"
 date: "2026-01-09T20:47:18.894Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Eskişehir"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227505"
 
 # Eskişehir-Afyonkarahisar-Sinanpaşa Karacam
 
-Eskişehir-Afyonkarahisar-Sinanpaşa Karacam milli parkı, İç Anadolu Bölgesi'nin doğa severlerin gözdesi olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle dolu. Bu milli park, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker. Parkın içinde yer alan tarihi mekânlar ve doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar. Eskişehir, Afyonkarahisar ve Sinanpaşa gibi önemli merkezlere yakınlığıyla da dikkat çeker.
+Eskişehir-Afyonkarahisar-Sinanpaşa Karacam milli parkı, İç Anadolu Bölgesi'nin doğa severlerin gözdesi olarak bilinir. Bu milli park, hem doğa severlerin hem de tarih meraklılarının ilgisini çeker. Parkın içinde yer alan tarihi mekânlar ve doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar. Eskişehir, Afyonkarahisar ve Sinanpaşa gibi önemli merkezlere yakınlığıyla da dikkat çeker.
 
 ## Tarihçe
 

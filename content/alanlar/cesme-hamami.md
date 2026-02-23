@@ -1,7 +1,7 @@
 ---
 title: "Çeşme Hamamı"
 date: "2026-01-09T22:49:04.609Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738617"
 
 # Çeşme Hamamı
 
-İstanbul'un kalbinde, Beyoğlu'nda yer alan Çeşme Hamamı, Marmara Bölgesi'nin en çekici noktalarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un en güzel plajlarından biri olarak bilinir. Bu tarihi plaj, şehrin kalabalığından kaçmak isteyenler için bir sığınak gibi görülebilir. Deniz suyu, temiz havası ve güneşli günleri ile ziyaretçilerini cezbeder. Çeşme Hamamı, sadece bir plaj değil, aynı zamanda bir kültür ve tarih merkezidir. İstanbul'un zengin geçmişini yansıtan bu mekan, turistler ve yerliler için bir çekim noktasıdır.
+İstanbul'un kalbinde, Beyoğlu'nda yer alan Çeşme Hamamı, Marmara Bölgesi'nin en çekici noktalarından biridir. Bu tarihi plaj, şehrin kalabalığından kaçmak isteyenler için bir sığınak gibi görülebilir. Deniz suyu, temiz havası ve güneşli günleri ile ziyaretçilerini cezbeder. Çeşme Hamamı, sadece bir plaj değil, aynı zamanda bir kültür ve tarih merkezidir. İstanbul'un zengin geçmişini yansıtan bu mekan, turistler ve yerliler için bir çekim noktasıdır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131738617"
 
 ## Coğrafya
 
-Çeşme Hamamı, Marmara Bölgesi'nin en güzel noktalarından birinde, Beyoğlu'nda yer alır. Bu plaj, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğündedir. Çeşme Hamamı'nın coğrafi konumu, ziyaretçilerine, deniz, güneş ve temiz hava gibi doğal güzellikleri sunar. Bu bölgenin iklimi, genel olarak ılımandır ve yaz aylarında sıcaklık artar. Kış aylarında ise, ılıman bir hava hakimdir. Çeşme Hamamı'nın çevresi, tarihi yapılar, parklar ve yeşil alanlarla zenginleştirilmiştir. Bu bölge, aynı zamanda, çeşitli su sporları ve etkinliklere ev sahipliği yapar. Çeşme Hamamı, ziyaretçilerine, bir plajın sunduğu tüm olanakları ve daha fazlasını sunar.
+Çeşme Hamamı, Marmara Bölgesi'nin en güzel noktalarından birinde, Beyoğlu'nda yer alır. Çeşme Hamamı'nın coğrafi konumu, ziyaretçilerine, deniz, güneş ve temiz hava gibi doğal güzellikleri sunar. Bu bölgenin iklimi, genel olarak ılımandır ve yaz aylarında sıcaklık artar. Kış aylarında ise, ılıman bir hava hakimdir. Çeşme Hamamı'nın çevresi, tarihi yapılar, parklar ve yeşil alanlarla zenginleştirilmiştir. Bu bölge, aynı zamanda, çeşitli su sporları ve etkinliklere ev sahipliği yapar. Çeşme Hamamı, ziyaretçilerine, bir plajın sunduğu tüm olanakları ve daha fazlasını sunar.
 
 ## Flora ve Fauna
 

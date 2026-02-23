@@ -28,7 +28,7 @@ wikidata_id: "Q31388758"
 
 # Kızılkaya Tepesi
 
-Kızılkaya Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve görkemli manzarasıyla dikkat çeken bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Bu tepe, özellikle gün batımı saatlerinde, muhteşem bir atmosfer sunuyor. Kızılkaya Tepesi, doğa severler için bir cennet olarak kabul ediliyor ve Burada yapılacak aktiviteler ve gezilecek yerler, ziyaretçilere unutulmaz anlar yaşatıyor.
+Kızılkaya Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve görkemli manzarasıyla dikkat çeken bir doğa harikasıdır. Bu tepe, özellikle gün batımı saatlerinde, muhteşem bir atmosfer sunuyor. Kızılkaya Tepesi, doğa severler için bir cennet olarak kabul ediliyor ve Burada yapılacak aktiviteler ve gezilecek yerler, ziyaretçilere unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 

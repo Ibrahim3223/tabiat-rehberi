@@ -28,7 +28,7 @@ wikidata_id: "Q48780846"
 
 # Başpınar Tabiat Parkı
 
-Başpınar Tabiat Parkı, İç Anadolu Bölgesi'nin merkezinde yer alan, 140 hektarlık geniş bir yeşil alana sahiptir. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrado. Ziyaretçiler, parkın içinden geçen patikalarda yürüyüş yaparak, doğanın güzelliğini yakından keşfedebilirler. Parkın etrafı, yüksek tepelerle çevrilidir ve bu tepelerden parkın panoramik manzarasını izleme mümkündür.
+Başpınar Tabiat Parkı, İç Anadolu Bölgesi'nin merkezinde yer alan, 140 hektarlık geniş bir yeşil alana sahiptir. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrado. Ziyaretçiler, parkın içinden geçen patikalarda yürüyüş yaparak, doğanın güzelliğini yakından keşfedebilirler. Parkın etrafı, yüksek tepelerle çevrilidir ve bu tepelerden parkın panoramik manzarasını izleme mümkündür.
 
 ## Tarihçe
 

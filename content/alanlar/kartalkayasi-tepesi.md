@@ -28,7 +28,7 @@ wikidata_id: "Q31390551"
 
 # Kartalkayası Tepesi
 
-Kartalkayası Tepesi, İç Anadolu Bölgesi'nin kalbinde, Niğde ilinde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Ziyaretçiler, bu güzel tepeye çıkarak, çevreyi panoramik olarak görebilmekte ve doğanın güzelliğini hissedebilmektedir. Kartalkayası Tepesi, özellikle doğa severler ve fotoğraf tutkunları için bir cennet gibi görülmektedir.
+Kartalkayası Tepesi, İç Anadolu Bölgesi'nin kalbinde, Niğde ilinde yer alan bir doğa harikasıdır. Ziyaretçiler, bu güzel tepeye çıkarak, çevreyi panoramik olarak görebilmekte ve doğanın güzelliğini hissedebilmektedir. Kartalkayası Tepesi, özellikle doğa severler ve fotoğraf tutkunları için bir cennet gibi görülmektedir.
 
 ## Tarihçe
 

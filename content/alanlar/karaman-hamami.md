@@ -1,7 +1,7 @@
 ---
 title: "Karaman Hamamı"
 date: "2026-01-09T23:25:06.603Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739115"
 
 # Karaman Hamamı
 
-Karaman Hamamı, İstanbul'un Fatih ilçesinde yer alan tarihi bir hamam. 140 hektarın üzerinde olmayan bir alan üzerine kurulmuş olan Karaman Hamamı, yaklaşık 1 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tarihi hamam, şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak olarak görülüyor. Karaman Hamamı, İstanbul'un tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir kültür mirası. Hamamın tarihi geçmişi, İstanbul'un önemli tarihi olaylarına tanıklık etmiş olmasıyla dikkat çekiyor.
+Karaman Hamamı, İstanbul'un Fatih ilçesinde yer alan tarihi bir hamam. Bu tarihi hamam, şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak olarak görülüyor. Karaman Hamamı, İstanbul'un tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir kültür mirası. Hamamın tarihi geçmişi, İstanbul'un önemli tarihi olaylarına tanıklık etmiş olmasıyla dikkat çekiyor.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Karaman Hamamı'nın tarihi geçmişi, İstanbul'un fethine kadar uzanıyor. Bu 
 
 ## Coğrafya
 
-Karaman Hamamı, İstanbul'un Fatih ilçesinde yer alıyor. Bu hamam, şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak olarak görülüyor. Hamamın etrafında, histórik yapılar ve önemli kültür merkezleri bulunuyor. Karaman Hamamı, İstanbul'un coğrafi konumu itibariyle, önemli bir ulaşım merkezine yakındır. Hamamın çevresi, tarihi yapılar ve önemli turistik noktalarla dolu. Karaman Hamamı, İstanbul'un coğrafi güzelliği hakkında bilgi edinmek isteyenler için önemli bir nokta.
+Karaman Hamamı, İstanbul'un Fatih ilçesinde yer alıyor. Bu hamam, şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak olarak görülüyor. Hamamın etrafında, tarihi yapılar ve önemli kültür merkezleri bulunuyor. Karaman Hamamı, İstanbul'un coğrafi konumu itibariyle, önemli bir ulaşım merkezine yakındır. Hamamın çevresi, tarihi yapılar ve önemli turistik noktalarla dolu. Karaman Hamamı, İstanbul'un coğrafi güzelliği hakkında bilgi edinmek isteyenler için önemli bir nokta.
 
 ## Flora ve Fauna
 
-Karaman Hamamı'nın çevresinde, çeşitli bitki türleri bulunuyor. Bu hamamın bulunduğu alanda, histórik yapılar ve önemli kültür merkezleri yer alıyor. Hamamın çevresi, tarihi yapılar ve önemli turistik noktalarla dolu. Karaman Hamamı, İstanbul'un flora ve fauna çeşitliliği hakkında bilgi edinmek isteyenler için önemli bir kaynak. Bu hamam, İstanbul'un ekolojik güzelliği hakkında bilgi edinmek isteyenler için önemli bir nokta.
+Karaman Hamamı'nın çevresinde, çeşitli bitki türleri bulunuyor. Bu hamamın bulunduğu alanda, tarihi yapılar ve önemli kültür merkezleri yer alıyor. Hamamın çevresi, tarihi yapılar ve önemli turistik noktalarla dolu. Karaman Hamamı, İstanbul'un flora ve fauna çeşitliliği hakkında bilgi edinmek isteyenler için önemli bir kaynak. Bu hamam, İstanbul'un ekolojik güzelliği hakkında bilgi edinmek isteyenler için önemli bir nokta.
 
 ## Ziyaret Bilgileri
 

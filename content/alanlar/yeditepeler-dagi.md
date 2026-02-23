@@ -32,9 +32,9 @@ Türkiye'nin güneydoğu ucunda, Şırnak ilinin dağlık bölgesinde yer alan Y
 
 ## Tarihçe
 
-Şırnak bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, Mezopotamya'nın verimli ovalarına yakın bir konumda bulunması nedeniyle, tarih boyunca çeşitli uygarlıkların geçiş noktası olmuştur. Bölgede, Sümerler, Asurlar, Persler ve Helenistik dönem uygarlıklarının izlerine rastlama mümkündür. 
+Şırnak bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, Mezopotamya'nın verimli ovalarına yakın bir konumda bulunması nedeniyle, tarih boyunca çeşitli uygarlıkların geçiş noktası olmuştur. Bölgede, Sümerler, Asurlar, Persler ve Helenistik dönem uygarlıklarının izlerine rastlama mümkündür.
 
-Yeditepeler Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu alanlar, sadece doğal güzellikleriyle değil, aynı zamanda insani faaliyetlerin merkezinde yer almalarıyla da dikkat çeker. Yaylacılık, hayvancılık ve ticaret yolları, bu doğal alanların etrafında şekillenmiş ve gelişmiştir. İnsanların bu alanlarla kurdukları ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşır. 
+Yeditepeler Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu alanlar, sadece doğal güzellikleriyle değil, aynı zamanda insani faaliyetlerin merkezinde yer almalarıyla da dikkat çeker. Yaylacılık, hayvancılık ve ticaret yolları, bu doğal alanların etrafında şekillenmiş ve gelişmiştir. İnsanların bu alanlarla kurdukları ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşır.
 
 Bu tür doğal alanlar, Türkiye'nin kültürel ve tarihsel mirasının önemli bir parçasını oluşturur. Bölgenin tarihi ve kültürel zenginliği, Yeditepeler Dağı gibi doğal güzelliklerle birleşerek, ziyaretçiler için benzersiz bir deneyim sunar.
 
@@ -50,11 +50,11 @@ Mevsimsel değişimlerin etkisini gören Yeditepeler Dağı, dört mevsimi yaşa
 
 ## Flora ve Fauna
 
-Yeditepeler Dağı, Şırnak'ta yer alan bir dağ ekosistemi olarak, yarı kurak iklimin hakim olduğu bir bölgede bulunmaktadır. Bu dağ, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliğine sahiptir. 
+Yeditepeler Dağı, Şırnak'ta yer alan bir dağ ekosistemi olarak, yarı kurak iklimin hakim olduğu bir bölgede bulunmaktadır. Bu dağ, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliğine sahiptir.
 
-Bitki örtüsünü oluşturan step ve ova ekosistemi, ilkbahar aylarında renkli çiçeklerle donanırken, yaz aylarında kuraklığa uyum sağlamış bitkiler hakimiyet kurar. Dağın yüksek kesimlerinde, alpin flora türlerine rastlama mümkündür. 
+Bitki örtüsünü oluşturan step ve ova ekosistemi, ilkbahar aylarında renkli çiçeklerle donanırken, yaz aylarında kuraklığa uyum sağlamış bitkiler hakimiyet kurar. Dağın yüksek kesimlerinde, alpin flora türlerine rastlama mümkündür.
 
-Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerin çeşitliliğiyle zengin bir ekosistem sunar. Göçmen kuşların sonbaharda gelip, ilkbaharda tekrar göç ettiği bu bölge, aynı zamanda çeşitli memeli ve sürüngen türlerinin yaşam alanıdır. Bu canlılar, dağın farklı yükseklik zonlarında, kendilerine uygun yaşam alanlarını bulur ve ekolojik dengenin korunmasına katkıda bulunurlar. 
+Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerin çeşitliliğiyle zengin bir ekosistem sunar. Göçmen kuşların sonbaharda gelip, ilkbaharda tekrar göç ettiği bu bölge, aynı zamanda çeşitli memeli ve sürüngen türlerinin yaşam alanıdır. Bu canlılar, dağın farklı yükseklik zonlarında, kendilerine uygun yaşam alanlarını bulur ve ekolojik dengenin korunmasına katkıda bulunurlar.
 
 Yeditepeler Dağı, bu çeşitlili ve ekolojik dengesiyle önemli bir doğal alan olarak dikkat çeker. Bu nedenle, koruma altına alınması ve gelecek nesiller için korunması büyük önem taşır.
 

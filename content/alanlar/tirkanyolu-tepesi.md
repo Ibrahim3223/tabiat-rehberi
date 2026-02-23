@@ -28,7 +28,7 @@ wikidata_id: "Q31559231"
 
 # Tirkanyolu Tepesi
 
-Tirkanyolu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir noktadır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerine geniş ve zengin bir ekosistem sunar. Tepenin etrafında çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak kabul edilir. Tirkanyolu Tepesi'nin manzarası, özellikle gün batımı saatlerinde, ziyaretçilere unutulmaz bir deneyim sunar.
+Tirkanyolu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir noktadır. Tepenin etrafında çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak kabul edilir. Tirkanyolu Tepesi'nin manzarası, özellikle gün batımı saatlerinde, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tirkanyolu Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Tirkanyolu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve bu bölgenin coğrafi yapısını önemli ölçüde etkiler. Tepenin yüksekliği ve genişliği, çevresindeki manzarayı şekillendiren önemli faktörlerdir. 140 hektarlık alanıyla, Tirkanyolu Tepesi, yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Tirkanyolu Tepesi'nin coğrafi konumu, bu bölgeyi önemli bir ekosistem olarak konumlandırır. Tepenin eteklerinde ve çevresinde bulunan su kaynakları, bu bölgenin canlıları için önemli bir yaşam kaynağı olarak kabul edilir.
+Tirkanyolu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve bu bölgenin coğrafi yapısını önemli ölçüde etkiler. Tepenin yüksekliği ve genişliği, çevresindeki manzarayı şekillendiren önemli faktörlerdir. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kuru geçer. Tirkanyolu Tepesi'nin coğrafi konumu, bu bölgeyi önemli bir ekosistem olarak konumlandırır. Tepenin eteklerinde ve çevresinde bulunan su kaynakları, bu bölgenin canlıları için önemli bir yaşam kaynağı olarak kabul edilir.
 
 ## Flora ve Fauna
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228173"
 
 # Küçükelmalı
 
-Küçükelmalı milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alan olarak yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş ve yeşil alan, ziyaretçilerine doğayla iç içe keyifli anlar sunuyor. Parkın içinde çeşitli bitki türleri ve zengin fauna, ziyaretçileri doğanın güzelliği ile baş başa bırakıyor. Burada, doğanın seslerini dinleme ve güzel manzaraları görme mümkün. Küçükelmalı, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+ Bu geniş ve yeşil alan, ziyaretçilerine doğayla iç içe keyifli anlar sunuyor. Parkın içinde çeşitli bitki türleri ve zengin fauna, ziyaretçileri doğanın güzelliği ile baş başa bırakıyor. Burada, doğanın seslerini dinleme ve güzel manzaraları görme mümkün. Küçükelmalı, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -39,7 +39,7 @@ Küçükelmalı milli parkı, çeşitli bitki türleri ve zengin fauna ile karak
 
 ## Ziyaret Bilgileri
 
-Küçükelmalı milli parkını ziyaret etmek, doğa severler ve huzur arayanlar için ideal bir deneyim. Parka gitmek için, ziyaretçilerin önceden plan yapması necessário. Parkın girişinde, ziyaretçilere gerekli bilgiler verilir ve parkın kuralları anlatılır. Ziyaretçiler, parkın içinde doğayla iç içe olma ve güzel manzaraları görmek için farklı aktiviteler yapabilir. Parkın çevresinde, ziyaretçilere konaklama imkânı sunan tesisler bulunmakta.
+Küçükelmalı milli parkını ziyaret etmek, doğa severler ve huzur arayanlar için ideal bir deneyim. Parka gitmek için, ziyaretçilerin önceden plan yapması gerekli. Parkın girişinde, ziyaretçilere gerekli bilgiler verilir ve parkın kuralları anlatılır. Ziyaretçiler, parkın içinde doğayla iç içe olma ve güzel manzaraları görmek için farklı aktiviteler yapabilir. Parkın çevresinde, ziyaretçilere konaklama imkânı sunan tesisler bulunmakta.
 
 ## İlginç Bilgiler
 

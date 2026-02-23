@@ -48,11 +48,11 @@ Yusufağa Tepe'nin iklim karakteri, Van'ın genel iklim koşullarına benzerlik 
 
 ## Flora ve Fauna
 
-Yusufağa Tepe, Van'da yer alan bir dağ ekosistemi olarak, yükseklik zonları ve alpin çayırlarıyla dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yusufağa Tepe, Van'da yer alan bir dağ ekosistemi olarak, yükseklik zonları ve alpin çayırlarıyla dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte çayırlar renklendiriyor. Alpin flora, dağların yüksek kesimlerinde yer alıyor. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu alanı ziyaret ediyor. 
+Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte çayırlar renklendiriyor. Alpin flora, dağların yüksek kesimlerinde yer alıyor. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu alanı ziyaret ediyor.
 
-Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin. Dağ keçileri gibi memeliler, dağların yüksek kesimlerinde yaşarken, kartallar gibi kuşlar ise bu bölgede yuva yapıyor. Sürüngenler ise kayalık alanlarda yaşamını sürdürüyor. 
+Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin. Dağ keçileri gibi memeliler, dağların yüksek kesimlerinde yaşarken, kartallar gibi kuşlar ise bu bölgede yuva yapıyor. Sürüngenler ise kayalık alanlarda yaşamını sürdürüyor.
 
 Ekolojik değer olarak, bu alanın korunması büyük önem taşıyor. Yüksek dağ ekolojisi ve alpin çayırları, endemik türlerin yaşamasına imkan tanıyor. Bu nedenle, Yusufağa Tepe'nin korunması, bölgenin ekolojik dengesinin korunması için gerekli.
 

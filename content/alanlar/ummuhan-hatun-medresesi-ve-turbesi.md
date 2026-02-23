@@ -1,7 +1,7 @@
 ---
 title: "Ümmühan Hatun Medresesi ve Türbesi"
 date: "2026-01-10T07:32:26.235Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -37,7 +37,7 @@ wikidata_id: "Q131391249"
 
 ## Coğrafya
 
-Ümmühan Hatun Medresesi ve Türbesi, Eskişehir'in Seyitgazi ilçesinde, İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi olarak çeşitli özellikler gösterir. İç Anadolu Bölgesi, genel olarak karasal bir iklime sahiptir. Ümmühan Hatun Medresesi ve Türbesi, çevresindeki coğrafi özellikler ile birlikte değerlendirildiğinde, ziyaretçilerine geniş bir manzara sunar. Ümmühan Hatun Medresesi ve Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu kompleks, tarihi ve kültürel yapılar ile çevrilidir. Ümmühan Hatun Medresesi ve Türbesi, ziyaretçilerine coğrafi ve kültürel açıdan zengin bir deneyim sunar.
+Ümmühan Hatun Medresesi ve Türbesi, Eskişehir'in Seyitgazi ilçesinde, İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi olarak çeşitli özellikler gösterir. İç Anadolu Bölgesi, genel olarak karasal bir iklime sahiptir. Ümmühan Hatun Medresesi ve Türbesi, çevresindeki coğrafi özellikler ile birlikte değerlendirildiğinde, ziyaretçilerine geniş bir manzara sunar. Bu kompleks, tarihi ve kültürel yapılar ile çevrilidir. Ümmühan Hatun Medresesi ve Türbesi, ziyaretçilerine coğrafi ve kültürel açıdan zengin bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ wikidata_id: "Q131391249"
 - Ümmühan Hatun Medresesi ve Türbesi, Selçuklu ve Osmanlı dönemlerinde önemli bir role sahip olmuştur.
 - Bu yapı, yüzyıllar boyunca önemli bir kültürel ve dini merkez olarak hizmet vermiştir.
 - Ümmühan Hatun Medresesi ve Türbesi, tarihi geçmişi ile dikkat çeker.
-- Bu kompleks, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Ümmühan Hatun Medresesi ve Türbesi, ziyaretçilerine coğrafi ve kültürel açıdan zengin bir deneyim sunar.

@@ -29,7 +29,7 @@ wikidata_id: "Q32139355"
 
 # Güney Tepesi
 
-Güney Tepesi, Erzurum'un güzelliklerini keşfedin. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu bölge, doğa severlerin ve macera arayanların favori destinasyonlarından biri. Güney Tepesi'nin eteklerinde yer alan köyler, misafirlerine sıcak bir şekilde karşılamakta ve bölgenin kültürel zenginliklerini paylaşmakta. Güney Tepesi, yılın her döneminde ziyaret edilebilir ve her mevsim farklı bir güzelliği sunar. Kış aylarında kayak severlerin vazgeçilmezi olan bu bölge, yaz aylarında ise trekking ve doğa yürüyüşü için ideal bir yer.
+Güney Tepesi, Erzurum'un güzelliklerini keşfedin. Bu bölge, doğa severlerin ve macera arayanların favori destinasyonlarından biri. Güney Tepesi'nin eteklerinde yer alan köyler, misafirlerine sıcak bir şekilde karşılamakta ve bölgenin kültürel zenginliklerini paylaşmakta. Güney Tepesi, yılın her döneminde ziyaret edilebilir ve her mevsim farklı bir güzelliği sunar. Kış aylarında kayak severlerin vazgeçilmezi olan bu bölge, yaz aylarında ise trekking ve doğa yürüyüşü için ideal bir yer.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Güney Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Güney Tepesi, Erzurum'un coğrafi olarak önemli bir bölgesinde yer alıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunan bu bölge, doğa severlerin favori destinasyonlarından biri. Güney Tepesi, yılın her döneminde ziyaret edilebilir ve her mevsim farklı bir güzelliği sunar. Kış aylarında kayak severlerin vazgeçilmezi olan bu bölge, yaz aylarında ise trekking ve doğa yürüyüşü için ideal bir yer. Güney Tepesi'nin eteklerinde yer alan köyler, misafirlerine sıcak bir şekilde karşılamakta ve bölgenin kültürel zenginliklerini paylaşmakta. Bu bölge, coğrafi olarak önemli bir konumda yer alıyor ve bölgenin flora ve faunası, ziyaretçileri cezbediyor.
+Güney Tepesi, Erzurum'un coğrafi olarak önemli bir bölgesinde yer alıyor. Güney Tepesi, yılın her döneminde ziyaret edilebilir ve her mevsim farklı bir güzelliği sunar. Kış aylarında kayak severlerin vazgeçilmezi olan bu bölge, yaz aylarında ise trekking ve doğa yürüyüşü için ideal bir yer. Güney Tepesi'nin eteklerinde yer alan köyler, misafirlerine sıcak bir şekilde karşılamakta ve bölgenin kültürel zenginliklerini paylaşmakta. Bu bölge, coğrafi olarak önemli bir konumda yer alıyor ve bölgenin flora ve faunası, ziyaretçileri cezbediyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Güney Tepesi, yılın her döneminde ziyaret edilebilir ve her mevsim farklı b
 
 ## İlginç Bilgiler
 
-- Güney Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor.
 - Bu bölge, doğa severlerin ve macera arayanların favori destinasyonlarından biri.
 - Güney Tepesi, yılın her döneminde ziyaret edilebilir ve her mevsim farklı bir güzelliği sunar.
 - Güney Tepesi'nin eteklerinde yer alan köyler, misafirlerine sıcak bir şekilde karşılamakta ve bölgenin kültürel zenginliklerini paylaşmakta.

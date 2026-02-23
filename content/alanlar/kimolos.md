@@ -34,7 +34,7 @@ Kiklad Adaları'nın güzide bir üyesi olan Kimolos, Güney Ege'de yer alan bir
 
 ## Tarihçe
 
-Güney Ege Bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, binlerce yıl önce medeniyetlerin beşiği olan Anadolu'nun bir parçasıdır. Antik uygarlıkların izlerini taşıyan bu coğrafya, tarihi ticaret yollarının kesişme noktasında yer alır. İnsan yerleşimlerinin izleri, Neolitik Dönem'e kadar uzanır.
+Güney Ege Bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, binlerce yıl önce medeniyetlerin beşiği olan Anadolu'nun bir parçasıdır. Antik uygarlıkların izlerini taşıyan bu coğrafya, tarihi ticaret yollarının kesişme noktasında yer alır. İnsan yerleşimlerinin izleri, Neolitik Dönem'e kadar uzanır.
 
 Kimolos adası da bu tarihsel zenginliğin bir parçası olarak, bölgenin doğal güzelliklerini sunar. Türkiye'de benzer doğal alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri önemli merkezler olarak görev görmüştür. Yaylacılık ve hayvancılık, bu bölgelerin ekonomisinde önemli bir rol oynamıştır. Ayrıca, tarihi ticaret yolları üzerinde bulunan bu alanlar, kültürlerin ve etkileşimine sahne olmuştur.
 
@@ -52,13 +52,13 @@ Doğal kaynaklar açısından zengin bir bölge olan Kimolos adası, komşu adal
 
 ## Flora ve Fauna
 
-Kimolos adası, Güney Ege'nin güneşli sahillerinde yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kimolos adası, Güney Ege'nin güneşli sahillerinde yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü olarak step bitki örtüsü ve bozkır türleri hakimdir. İlkbaharın gelmesiyle birlikte ada, renkli çiçeklerle donanır. Kuraklığa adapte olmuş türler, yazın sıcakğına karşı dayanıklılık gösterirken, sonbaharın gelmesiyle birlikte göç eden deniz kuşları adaya uğrar.
 
 Yaban hayatı da bir o kadar zengin. Deniz kuşları, kıyı bitkilerinin arasında yuvalarını kurarken, memeliler ve sürüngenler de adanın kayalık ve taşlık alanlarında yaşamlarını sürdürür. Ada ekosisteminin izole popülasyonları, bu canlıların birbirleriyle olan ilişkilerini ve bağımlılıklarını daha da önemli kılar.
 
-Kimolos adasının ekolojik değeri, bu izole popülasyonların korunması ve deniz kuşlarının göç yollarının bảolanmasıyla doğrudan ilgilidir. Ada, bu canlıların yaşam alanlarını koruma altına almak için önemli bir rol oynar.
+Kimolos adasının ekolojik değeri, bu izole popülasyonların korunması ve deniz kuşlarının göç yollarının korunmasıyla doğrudan ilgilidir. Ada, bu canlıların yaşam alanlarını koruma altına almak için önemli bir rol oynar.
 
 ## Ziyaret Bilgileri
 

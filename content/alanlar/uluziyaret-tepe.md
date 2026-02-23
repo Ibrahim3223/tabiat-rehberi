@@ -28,7 +28,7 @@ wikidata_id: "Q31389434"
 
 # Uluziyaret Tepe
 
-Uluziyaret Tepe, Kahramanmaraş'ın güzelliklerini gözler önüne seren bir tepe olarak bilinir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal merkezlerinden biri olarak kabul edilir. Burada ziyaretçiler, hem tarihi hem de doğal güzellikleri bir arada keşfedebilir. Tepe, bölgenin en önemli turizm merkezlerinden biri olarak dikkat çeker ve her yıl binlerce ziyaretçi tarafından keşfedilir. Uluziyaret Tepe, özellikle manzarasıyla dikkat çeker ve ziyaretçilerini büyüler.
+Uluziyaret Tepe, Kahramanmaraş'ın güzelliklerini gözler önüne seren bir tepe olarak bilinir. Burada ziyaretçiler, hem tarihi hem de doğal güzellikleri bir arada keşfedebilir. Tepe, bölgenin en önemli turizm merkezlerinden biri olarak dikkat çeker ve her yıl binlerce ziyaretçi tarafından keşfedilir. Uluziyaret Tepe, özellikle manzarasıyla dikkat çeker ve ziyaretçilerini büyüler.
 
 ## Tarihçe
 

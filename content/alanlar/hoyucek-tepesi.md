@@ -29,7 +29,7 @@ wikidata_id: "Q32162559"
 
 # Höyücek Tepesi
 
-Höyücek Tepesi, Marmara Bölgesi'nde yer alan ve Bandırma'nın önemli bir noktası olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve 200 futbol sahası büyüklüğünde. Höyücek Tepesi, doğa severlerin ve gezi tutkunlarının favori mekanlarından biri olarak biliniyor. Burada, Marmara Denizi'nin ve çevresindeki köylerin muhteşem manzarasını izleyebilirsiniz. Höyücek Tepesi, aynı zamanda bir doğa harikası olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz.
+Höyücek Tepesi, Marmara Bölgesi'nde yer alan ve Bandırma'nın önemli bir noktası olan bir tepe. Höyücek Tepesi, doğa severlerin ve gezi tutkunlarının favori mekanlarından biri olarak biliniyor. Burada, Marmara Denizi'nin ve çevresindeki köylerin muhteşem manzarasını izleyebilirsiniz. Höyücek Tepesi, aynı zamanda bir doğa harikası olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Höyücek Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Höyücek Tepesi, Marmara Bölgesi'nde yer alan ve Bandırma'nın önemli bir noktası olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve 200 futbol sahası büyüklüğünde. Höyücek Tepesi, Marmara Denizi'nin kıyısında yer alıyor ve bu bölgenin güzide bir mevkisi olarak biliniyor. Höyücek Tepesi'nin coğrafi konumu, bu bölgenin iklimini ve doğasını şekillendiriyor. Bu tepe, aynı zamanda bir doğa harikası olarak kabul ediliyor ve burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Höyücek Tepesi'nin coğrafyası, bir doğa severin hayalini süsleyecek güzellikte.
+Höyücek Tepesi, Marmara Bölgesi'nde yer alan ve Bandırma'nın önemli bir noktası olan bir tepe. Höyücek Tepesi, Marmara Denizi'nin kıyısında yer alıyor ve bu bölgenin güzide bir mevkisi olarak biliniyor. Höyücek Tepesi'nin coğrafi konumu, bu bölgenin iklimini ve doğasını şekillendiriyor. Bu tepe, aynı zamanda bir doğa harikası olarak kabul ediliyor ve burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Höyücek Tepesi'nin coğrafyası, bir doğa severin hayalini süsleyecek güzellikte.
 
 ## Flora ve Fauna
 

@@ -50,11 +50,11 @@ Bölgenin çevresel ilişkileri açısından bakıldığında, Şabla Dağı'nı
 
 ## Flora ve Fauna
 
-Şabla Dağı, Balıkesir'in güzide bir köşesinde yer alan bir dağ ekosistemi olarak, geçiş ikliminin karakteristik özelliklerini taşır. Bu bölge, karma ormanların hakim olduğu bir alan olup, aynı zamanda göçmen kuşların önemli bir rotasıdır. 
+Şabla Dağı, Balıkesir'in güzide bir köşesinde yer alan bir dağ ekosistemi olarak, geçiş ikliminin karakteristik özelliklerini taşır. Bu bölge, karma ormanların hakim olduğu bir alan olup, aynı zamanda göçmen kuşların önemli bir rotasıdır.
 
-Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharın gelmesi ile birlikte yaprak döken ağaçların güzelliği ortaya çıkar. Dağın yükseklik zonlarına çıkıldıkça, alpin flora hakim olmaya başlar. 
+Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharın gelmesi ile birlikte yaprak döken ağaçların güzelliği ortaya çıkar. Dağın yükseklik zonlarına çıkıldıkça, alpin flora hakim olmaya başlar.
 
-Yaban hayatı ise memeliler, kuşlar ve sürüngenlerin birlikte yaşadığı bir ekosistem sunar. Dağın eteklerinde ve orta kesimlerinde çeşitli memeliler ve kuş türleri bulunurken, daha yüksek kesimlerde sürüngenler ve özel türler yaşamaktadır. 
+Yaban hayatı ise memeliler, kuşlar ve sürüngenlerin birlikte yaşadığı bir ekosistem sunar. Dağın eteklerinde ve orta kesimlerinde çeşitli memeliler ve kuş türleri bulunurken, daha yüksek kesimlerde sürüngenler ve özel türler yaşamaktadır.
 
 Bu dağ ekosisteminin ekolojik değeri oldukça yüksektir. Göçmen kuşların önemli bir rotası olan Şabla Dağı, aynı zamanda yerel flora ve faunanın korunmasına da ev sahipliği yapar. Bu nedenle, koruma altına alınması ve sürdürülebilir kullanımının sağlanması büyük önem taşır.
 

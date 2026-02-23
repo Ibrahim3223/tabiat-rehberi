@@ -28,7 +28,7 @@ wikidata_id: "Q31525332"
 
 # Doyuran Tepesi
 
-Doyuran Tepesi, Malatya'nın doğusunda yer alan ve 1400 metre yüksekliğiyle bölgenin önemli bir noktası olan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Doyuran Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Tepenin etrafında bulunan köyler, zengin kültürel mirasa sahip.
+Doyuran Tepesi, Malatya'nın doğusunda yer alan ve 1400 metre yüksekliğiyle bölgenin önemli bir noktası olan bir tepe. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Doyuran Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Tepenin etrafında bulunan köyler, zengin kültürel mirasa sahip.
 
 ## Tarihçe
 

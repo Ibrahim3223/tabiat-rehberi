@@ -28,7 +28,7 @@ wikidata_id: "Q31581888"
 
 # Sorkum Tepesi
 
-Sorkum Tepesi, Çorum'un eşsiz doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin göbeğinde yer alıyor. Sorkum Tepesi, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde ve zirvesinde bulunan yürüyüş yolları, ziyaretçilere şehri ve çevreyi keşfetme fırsatı sunuyor. Sorkum Tepesi, özellikle bahar ve yaz aylarında, rengarenk çiçekleriyle ve yeşillikleri ile ziyaretçilerini büyülüyor.
+Sorkum Tepesi, Çorum'un eşsiz doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Sorkum Tepesi, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde ve zirvesinde bulunan yürüyüş yolları, ziyaretçilere şehri ve çevreyi keşfetme fırsatı sunuyor. Sorkum Tepesi, özellikle bahar ve yaz aylarında, rengarenk çiçekleriyle ve yeşillikleri ile ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

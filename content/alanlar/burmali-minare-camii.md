@@ -1,7 +1,7 @@
 ---
 title: "Burmalı Minare Camii"
 date: "2026-01-10T04:43:40.175Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -30,7 +30,7 @@ wikidata_id: "Q6043868"
 
 # Burmalı Minare Camii
 
-Amasya'nın tarihi ve kültürel hazinelerinden biri olan Burmalı Minare Camii, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanda yer alan tarihi bir camidir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihi ve kültürel zenginliklerle karşılar. Cami, Amasya'nın merkezinde yer alır ve şehrin önemli simgelerinden biridir. Burmalı Minare Camii, Amasya'nın tarihi ve kültürel mirasını yansıtan önemli bir yapıdır.
+ Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihi ve kültürel zenginliklerle karşılar. Cami, Amasya'nın merkezinde yer alır ve şehrin önemli simgelerinden biridir. Burmalı Minare Camii, Amasya'nın tarihi ve kültürel mirasını yansıtan önemli bir yapıdır.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Burmalı Minare Camii, Amasya ilinin merkezinde yer alır. Cami, Karadeniz Bölg
 
 ## Flora ve Fauna
 
-Burmalı Minare Camii'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Cami, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır ve çevresindeki yeşilliklerle çevrilidir. Bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri bulunur. Bahar aylarında, bölgede çiçek açan bitkiler ziyaretçilerin ilgisini çeker. Kış aylarında, bölgede bulunan ağaçlar ve diğer bitkiler, karla kaplı bir manzara sunar. Cami, zengin fauna ile de dikkat çeker. Bölgede, çeşitli kuş türleri ve diğer canlılar bulunur. Bu canlılar, bölgenin ekolojik dengesini sağlar ve ziyaretçilere doğanın güzelliklerini sunar.
+ Cami, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır ve çevresindeki yeşilliklerle çevrilidir. Bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri bulunur. Bahar aylarında, bölgede çiçek açan bitkiler ziyaretçilerin ilgisini çeker. Kış aylarında, bölgede bulunan ağaçlar ve diğer bitkiler, karla kaplı bir manzara sunar. Cami, zengin fauna ile de dikkat çeker. Bölgede, çeşitli kuş türleri ve diğer canlılar bulunur. Bu canlılar, bölgenin ekolojik dengesini sağlar ve ziyaretçilere doğanın güzelliklerini sunar.
 
 ## Ziyaret Bilgileri
 
@@ -51,7 +51,7 @@ Burmalı Minare Camii'ni ziyaret etmek, Amasya'nın tarihi ve kültürel zenginl
 ## İlginç Bilgiler
 
 - Burmalı Minare Camii, Amasya'nın en önemli tarihi yapılarından biridir.
-- Cami, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanda yer alır.
+
 - Cami, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır.
 - Bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 - Cami, Amasya'nın tarihi ve kültürel mirasını yansıtan önemli bir yapıttır.

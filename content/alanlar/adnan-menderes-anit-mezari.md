@@ -1,7 +1,7 @@
 ---
 title: "Adnan Menderes Anıt Mezarı"
 date: "2026-01-10T04:28:51.005Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

@@ -28,7 +28,7 @@ wikidata_id: "Q31390744"
 
 # Babataşan Tepesi
 
-Babataşan Tepesi, Yozgat ilinin görkemli bir noktası olarak karşımıza çıkıyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor, ki bu, 200 futbol sahası büyüklüğüne eşdeğer. Babataşan Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. Bu bölge, ziyaretçilerine hem doğayla iç içe bir deneyim sunuyor hem de tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor.
+Babataşan Tepesi, Yozgat ilinin görkemli bir noktası olarak karşımıza çıkıyor. Babataşan Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. Bu bölge, ziyaretçilerine hem doğayla iç içe bir deneyim sunuyor hem de tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228812"
 
 # Erzurum-Erzurum-Titrek Kavak
 
-Erzurum'un kalbinde, Doğu Anadolu Bölgesi'nin doğal güzelliklerini barındıran Titrek Kavak milli parkı, 140 hektarlık bir alan üzerinde yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil cennet, ziyaretçilerini doğanın kucağına davet ediyor. Yerel halkın yanı sıra, doğa tutkunlarının da sıklıkla ziyaret ettiği bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Titrek Kavak, doğanın güzelliğini koruma ve gelecek nesillere aktarmak amacıyla kurulmuş bir milli park olarak, ziyaretçilerine hem dinlenme hem de bilgi edinme imkanı sunuyor.
+ Bu yeşil cennet, ziyaretçilerini doğanın kucağına davet ediyor. Yerel halkın yanı sıra, doğa tutkunlarının da sıklıkla ziyaret ettiği bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Titrek Kavak, doğanın güzelliğini koruma ve gelecek nesillere aktarmak amacıyla kurulmuş bir milli park olarak, ziyaretçilerine hem dinlenme hem de bilgi edinme imkanı sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Titrek Kavak milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Titrek Kavak milli parkı, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer almaktadır. Bölge, yüksek dağlar ve vadilerle çevrilidir ve iklimi, mevsimsel olarak değişkenlik gösterir. Kış aylarında karla kaplı olan park, yaz aylarında ise yeşilin her tonuna ev sahipliği yapar. Titrek Kavak, coğrafi konumu itibariyle, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme imkanı sunarken, aynı zamanda bölgenin ekolojik dengesini koruma altına almaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor.
+Titrek Kavak milli parkı, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide yer almaktadır. Bölge, yüksek dağlar ve vadilerle çevrilidir ve iklimi, mevsimsel olarak değişkenlik gösterir. Kış aylarında karla kaplı olan park, yaz aylarında ise yeşilin her tonuna ev sahipliği yapar. Titrek Kavak, coğrafi konumu itibariyle, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme imkanı sunarken, aynı zamanda bölgenin ekolojik dengesini koruma altına almaktadır.
 
 ## Flora ve Fauna
 

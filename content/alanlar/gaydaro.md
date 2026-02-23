@@ -34,7 +34,7 @@ Agathonisi Belediyesi'ne bağlı Kelemez ilçesi sınırları içinde yer alan G
 
 ## Tarihçe
 
-Kelemez ilçesi, tarihin sâu izlerini taşıyan bir bölge. Bu coğrafya, farklı uygarlıkların izlerini taşıyor. Hitit, Roma ve Bizans gibi medeniyetler, bu topraklarda varlıklarını hissettirmişler. Gaydaro adası, bu zengin tarihsel bağlamın içinde yer alıyor.
+Kelemez ilçesi, tarihin derin izlerini taşıyan bir bölge. Bu coğrafya, farklı uygarlıkların izlerini taşıyor. Hitit, Roma ve Bizans gibi medeniyetler, bu topraklarda varlıklarını hissettirmişler. Gaydaro adası, bu zengin tarihsel bağlamın içinde yer alıyor.
 
 Türkiye'de, özellikle Karadeniz Bölgesi'nde bulunan doğal alanlar, tarihsel olarak önemli bir role sahip. Bu bölgeler, yaylacılık ve hayvancılık faaliyetleri için tercih ediliyor. Ayrıca, ticaret yolları üzerinde bulundukları için, farklı kültürlerin karşılaşma noktaları olarak da görev görüyorlar.
 

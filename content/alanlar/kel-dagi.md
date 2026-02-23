@@ -33,7 +33,7 @@ Antalya'nın Alanya ilçesinde yer alan Kel Dağı, Türkiye'nin önemli coğraf
 
 ## Tarihçe
 
-Kel Dağı, Türkiye'nin zengin doğal ve tarihsel mirasının önemli bir parçasını oluşturur. Bu bölgenin tarihsel bağlamı, binlerce yıl öncesine uzanır. Anadolu'nun kalbinde yer alan Kel Dağı, histórik olarak çeşitli uygarlıkların yerleşim ve geçiş noktaları arasında bulunmuştur. Hitit, Pers, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada izler bırakmışlardır.
+Kel Dağı, Türkiye'nin zengin doğal ve tarihsel mirasının önemli bir parçasını oluşturur. Bu bölgenin tarihsel bağlamı, binlerce yıl öncesine uzanır. Anadolu'nun kalbinde yer alan Kel Dağı, tarihi olarak çeşitli uygarlıkların yerleşim ve geçiş noktaları arasında bulunmuştur. Hitit, Pers, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada izler bırakmışlardır.
 
 Doğal güzellikleri ve stratejik konumuyla, Kel Dağı ve benzeri alanlar, tarihin çeşitli dönemlerinde insanların yaşamlarını sürdürdükleri, ticaret yaptıkları ve kültürel alışverişte bulundukları önemli merkezler olarak görev görmüştür. Yaylacılık ve hayvancılık, bu bölgede uzun zaman önce başlayan ve günümüze kadar devam eden geleneksel faaliyetler arasında yer alır. Ticaret yolları üzerinde bulunması, bölgenin ekonomi ve kültürel açıdan zenginleşmesine katkıda bulunmuştur.
 

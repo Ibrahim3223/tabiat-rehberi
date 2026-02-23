@@ -28,7 +28,7 @@ wikidata_id: "Q31520768"
 
 # Herek Tepesi
 
-Herek Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor. Herek Tepesi, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Burada, mevsimsel değişimlere göre farklı canlı türleri ile karşılaşma mümkün.
+Herek Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Bu alan, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor. Herek Tepesi, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Burada, mevsimsel değişimlere göre farklı canlı türleri ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Herek Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepenin
 
 ## Coğrafya
 
-Herek Tepesi, coğrafi olarak Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, İç Anadolu'nun karakteristik özelliklerini taşıyor. Herek Tepesi'nin etrafında, geniş otlaklar ve tarım arazileri bulunuyor. Tepenin kendisi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu alan, hem doğal güzellikleri hem de coğrafi özellikleri ile dikkat çekiyor. Herek Tepesi'nin coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Burada, mevsimsel değişimlere göre farklı canlı türleri ile karşılaşma mümkün. Coğrafi konumu, Herek Tepesi'ni ziyaret etmek için ideal bir yer haline getiriyor.
+Herek Tepesi, coğrafi olarak Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, İç Anadolu'nun karakteristik özelliklerini taşıyor. Herek Tepesi'nin etrafında, geniş otlaklar ve tarım arazileri bulunuyor. Bu alan, hem doğal güzellikleri hem de coğrafi özellikleri ile dikkat çekiyor. Herek Tepesi'nin coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Burada, mevsimsel değişimlere göre farklı canlı türleri ile karşılaşma mümkün. Coğrafi konumu, Herek Tepesi'ni ziyaret etmek için ideal bir yer haline getiriyor.
 
 ## Flora ve Fauna
 

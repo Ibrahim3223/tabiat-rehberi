@@ -33,7 +33,7 @@ Mardin'in tarihi dokusu içinde yer alan Maro Tepe, bölgeye gelen ziyaretçiler
 
 ## Tarihçe
 
-Mardin bölgesinde yer alan Maro Tepe, binlerce yıllık tarihin izlerini taşıyan bir coğrafyada bulunmaktadır. Bölge, tarihin sâu sayfalarında önemli uygarlıkların yaşadığı bir merkez olarak bilinir. Hitit, Asur, Pers ve Roma gibi medeniyetler, Mardin'in zengin tarihsel dokusunu şekillendirmiştir. Bu bölgede, insan yerleşimleri ve ticari faaliyetler, doğal alanların önemini vurgulamıştır.
+Mardin bölgesinde yer alan Maro Tepe, binlerce yıllık tarihin izlerini taşıyan bir coğrafyada bulunmaktadır. Bölge, tarihin derin sayfalarında önemli uygarlıkların yaşadığı bir merkez olarak bilinir. Hitit, Asur, Pers ve Roma gibi medeniyetler, Mardin'in zengin tarihsel dokusunu şekillendirmiştir. Bu bölgede, insan yerleşimleri ve ticari faaliyetler, doğal alanların önemini vurgulamıştır.
 
 Doğal güzellikleri ve stratejik konumuyla Maro Tepe, tarih boyunca insanların interest alanlarından biri olmuştur. Yaylacılık ve hayvancılık faaliyetleri, bölgenin ekonomi ve sosyal yaşamında önemli bir yer tutmuştur. Ayrıca, tarihi ticaret yolları, Mardin bölgesini diğer bölgelerle bağlantılı hale getirmiş, kültürel ve ekonomik alışverişi teşvik etmiştir. Maro Tepe, bu geniş tarihsel bağlam içinde, bölgenin zengin doğal mirasının bir parçası olarak karşımıza çıkar.
 

@@ -63,7 +63,7 @@ Davrik Mağarası, Mardin'de bulunan bir jeoparktır. Sabah erken gitmenizi öne
 ## İlginç Bilgiler
 
 - Davrik Mağarası, Mardin ilinin merkezine yaklaşık 15 kilometre uzaklıktadır.
-- Mağaranın içinde çeşitli jeolojik oluşumlar ve histórik izler bulunmaktadır.
+- Mağaranın içinde çeşitli jeolojik oluşumlar ve tarihi izler bulunmaktadır.
 - Mağara, Mardin'in jeolojik zenginliklerini göstermesi açısından önemlidir.
 - Davrik Mağarası, Mardin'in turizm potansiyelini artıran önemli bir doğal varlıktır.
 - Mağaranın çevresinde çeşitli tarihi ve kültürel kalıntılar mevcuttur.

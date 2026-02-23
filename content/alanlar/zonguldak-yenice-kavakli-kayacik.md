@@ -22,7 +22,7 @@ wikidata_id: "Q108228543"
 
 # Zonguldak-Yenice-Kavakli-Kayacik
 
-Zonguldak-Yenice-Kavakli-Kayacik milli parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplıyor. Bu yeşil cennet, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın konumu, ziyaretçilerine doğanın içesinde bir macera sunuyor. 70 hektarlık ormanlık alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. Zonguldak-Yenice-Kavakli-Kayacik milli parkı, doğa severlerin mutlaka ziyaret etmesi gereken bir yer.
+ Bu yeşil cennet, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın konumu, ziyaretçilerine doğanın içesinde bir macera sunuyor. 70 hektarlık ormanlık alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. Zonguldak-Yenice-Kavakli-Kayacik milli parkı, doğa severlerin mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Zonguldak-Yenice-Kavakli-Kayacik milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Zonguldak-Yenice-Kavakli-Kayacik milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Parkın coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikler sunuyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın %50'si ormanlık alan, %30'u çayır ve mera, %20'si ise su kaynakları ve diğer alanlardan oluşuyor. Parkın iklimi, Karadeniz ikliminin característicasını taşıyor. Yağış miktarı yüksek, kışları soğuk, yazları ise serin geçiyor. Parkın coğrafi yapısı, ziyaretçilerine trekking, doğa yürüyüşü ve diğer aktiviteleri sunuyor. Zonguldak-Yenice-Kavakli-Kayacik milli parkı, coğrafi güzellikleri ve doğal zenginlikleri ile ziyaretçilerini büyülüyor.
+Zonguldak-Yenice-Kavakli-Kayacik milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Parkın coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikler sunuyor. Parkın %50'si ormanlık alan, %30'u çayır ve mera, %20'si ise su kaynakları ve diğer alanlardan oluşuyor. Parkın iklimi, Karadeniz ikliminin característicasını taşıyor. Yağış miktarı yüksek, kışları soğuk, yazları ise serin geçiyor. Parkın coğrafi yapısı, ziyaretçilerine trekking, doğa yürüyüşü ve diğer aktiviteleri sunuyor. Zonguldak-Yenice-Kavakli-Kayacik milli parkı, coğrafi güzellikleri ve doğal zenginlikleri ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 

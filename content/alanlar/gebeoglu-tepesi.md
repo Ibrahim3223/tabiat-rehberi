@@ -28,7 +28,7 @@ wikidata_id: "Q31567963"
 
 # Gebeoğlu Tepesi
 
-Gebeoğlu Tepesi, Kastamonu'nun zengin doğal güzelliklerinden birini oluşturan 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle kaplı. Tepenin eteklerinde ve zirvesinde, ziyaretçiler için keyifli yürüyüş rotaları ve manzaralar sunuyor. Gebeoğlu Tepesi, Kastamonu'nun turizm potansiyelini gösteren önemli bir nokta olarak dikkat çekiyor.
+Gebeoğlu Tepesi, Kastamonu'nun zengin doğal güzelliklerinden birini oluşturan 140 hektarlık bir alanı kapsıyor. Tepenin eteklerinde ve zirvesinde, ziyaretçiler için keyifli yürüyüş rotaları ve manzaralar sunuyor. Gebeoğlu Tepesi, Kastamonu'nun turizm potansiyelini gösteren önemli bir nokta olarak dikkat çekiyor.
 
 ## Tarihçe
 

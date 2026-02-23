@@ -29,7 +29,7 @@ wikidata_id: "Q135582394"
 
 # Emir Kemarettin Kümbeti, Divriği
 
-Divriği'nin tarihi mirası, Emir Kemarettin Kümbeti, Sivas'ın İç Anadolu Bölgesi'nde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, tarih boyunca birçok medeniyete ev sahipliği yapmış ve zengin bir kültürel mirasa sahiptir. Emir Kemarettin Kümbeti, bu bölgenin en önemli tarihi yapılarından biri olarak dikkat çeker. Mimari özellikleri ve tarihi önemiyle ziyaretçilerini büyüleyen bu kümbet, Sivas'ın turizm açısından önemli bir noktasıdır. İnsanlar, bu tarihi yapıyı görme ve hakkında bilgi edinme fırsatı bulmak için buraya akın ederler.
+Divriği'nin tarihi mirası, Emir Kemarettin Kümbeti, Sivas'ın İç Anadolu Bölgesi'nde yer alır. Bu bölge, tarih boyunca birçok medeniyete ev sahipliği yapmış ve zengin bir kültürel mirasa sahiptir. Emir Kemarettin Kümbeti, bu bölgenin en önemli tarihi yapılarından biri olarak dikkat çeker. Mimari özellikleri ve tarihi önemiyle ziyaretçilerini büyüleyen bu kümbet, Sivas'ın turizm açısından önemli bir noktasıdır. İnsanlar, bu tarihi yapıyı görme ve hakkında bilgi edinme fırsatı bulmak için buraya akın ederler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Emir Kemarettin Kümbeti, tarihi geçmişiyle dikkat çeker. Bu kümbet, yüzyı
 
 ## Coğrafya
 
-Emir Kemarettin Kümbeti, Sivas'ın İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi açıdan zengin bir çeşitlilik gösterir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli bitki türleri bulunur. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, bölgenin flora ve faunasını etkiler. Emir Kemarettin Kümbeti, bu coğrafi ortamın içinde yer alır ve ziyaretçilerine bu doğal güzelliği sunar. Çevresindeki dağlar, ovalar ve nehirler, bu bölgenin coğrafi çeşitliliğini gösterir.
+Emir Kemarettin Kümbeti, Sivas'ın İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi açıdan zengin bir çeşitlilik gösterir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, bölgenin flora ve faunasını etkiler. Emir Kemarettin Kümbeti, bu coğrafi ortamın içinde yer alır ve ziyaretçilerine bu doğal güzelliği sunar. Çevresindeki dağlar, ovalar ve nehirler, bu bölgenin coğrafi çeşitliliğini gösterir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Emir Kemarettin Kümbeti'ni ziyaret etmek, Sivas'ın tarihini ve kültürünü �
 
 - Emir Kemarettin Kümbeti, Sivas'ın en önemli tarihi yapılarından biridir.
 - Bu kümbet, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve zengin bir kültürel mirasa sahiptir.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Emir Kemarettin Kümbeti, flora ve fauna açısından zengin bir bölgede yer alır.
 - Bu tarihi yapı, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve yaz ayları en uygun zamanlardır.

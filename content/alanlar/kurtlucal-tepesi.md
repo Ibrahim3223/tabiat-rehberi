@@ -28,7 +28,7 @@ wikidata_id: "Q49042658"
 
 # Kurtluçal Tepesi
 
-Ankara'nın doğal güzelliklerini keşfedenler, Kurtluçal Tepesi'ne ulaştıklarında büyüleniyorlar. Bu tepe, Ankara'nın merkezi bir konumunda yer alıyor ve şehrin panoramik manzarasını seyretmek için ideal bir nokta. Kurtluçal Tepesi, Ankara'nın tarihi ve kültürel zenginliklerini discoveries etmek isteyenler için önemli bir durak. 
+Ankara'nın doğal güzelliklerini keşfedenler, Kurtluçal Tepesi'ne ulaştıklarında büyüleniyorlar. Bu tepe, Ankara'nın merkezi bir konumunda yer alıyor ve şehrin panoramik manzarasını seyretmek için ideal bir nokta. Kurtluçal Tepesi, Ankara'nın tarihi ve kültürel zenginliklerini discoveries etmek isteyenler için önemli bir durak.
 
 Ankara'nın bu gözde mekanı, ziyaretçilerini şehrin doğal ve tarihi güzellikleriyle baş başa bırakıyor.
 

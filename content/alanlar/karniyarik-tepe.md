@@ -51,7 +51,7 @@ Jeolojik açıdan incelendiğinde, Karnıyarık Tepe'nin oluşumu hakkında deta
 
 ## Flora ve Fauna
 
-Karnıyarık Tepe, Ağrı'nın yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Karnıyarık Tepe, Ağrı'nın yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünden başlarsak, ilkbaharla birlikte çayırlar renklenir ve various çiçekler açmaya başlar. Alpin flora, bu yükseklikte yaşamaya adapte olmuştur. Mevsimsel değişimlerle birlikte, sonbaharda bitkiler solmaya başlar ve kış aylarında karla kaplanır.
 
@@ -68,6 +68,6 @@ Karnıyarık Tepe, Ağrı'nın görece az bilinen bir güzelliği. Sabah erken g
 - Karnıyarık Tepe, Ağrı Dağı'nın kuzeybatı yamacında yer alır.
 - Ağrı Dağı'nın zirvesi ile birlikte önemli bir coğrafi oluşumdur.
 - Ağrı Dağı ile birlikte UNESCO Dünya Mirası Listesi'ne aday gösterilmiştir.
-- Karnıyarık Tepe ve çevresinde históri ve kültürel değerlere rastlanmaktadır.
+- Karnıyarık Tepe ve çevresinde tarihi ve kültürel değerlere rastlanmaktadır.
 - Bölge, flora ve fauna çeşitliliği açısından zengindir.
 - Ağrı Dağı'nın yüksekliği 5.137 metre ile Türkiye'nin en yüksek noktasıdır.

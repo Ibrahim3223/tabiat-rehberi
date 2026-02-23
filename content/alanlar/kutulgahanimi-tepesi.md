@@ -28,7 +28,7 @@ wikidata_id: "Q31547462"
 
 # Kutulgahanımı Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal alanlarından biri olan Kutulgahanımı Tepesi, Batman'ın güzide noktalarından biri. Bu tepenin etrafı, çeşitli bitki türleriyle dolu ve yaban hayatı açısından oldukça zengin. Tepenin yüksekliği, bölgenin diğer noktalarına nazaran oldukça dikkat çekici. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada gezerken, doğanın güzelliği ile iç içe olabilirsiniz. Batman'a gelenler için, Kutulgahanımı Tepesi kaçırılmayacak bir fırsat.
+Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal alanlarından biri olan Kutulgahanımı Tepesi, Batman'ın güzide noktalarından biri. Bu tepenin etrafı, çeşitli bitki türleriyle dolu ve yaban hayatı açısından oldukça zengin. Tepenin yüksekliği, bölgenin diğer noktalarına nazaran oldukça dikkat çekici. Batman'a gelenler için, Kutulgahanımı Tepesi kaçırılmayacak bir fırsat.
 
 ## Tarihçe
 

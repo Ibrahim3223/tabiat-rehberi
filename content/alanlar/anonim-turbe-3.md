@@ -1,7 +1,7 @@
 ---
 title: "Anonim Türbe 3"
 date: "2026-01-10T04:55:12.847Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391535"
 
 # Anonim Türbe 3
 
-Anonim Türbe 3, Muğla'nın Milas ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir sahil şeridine sahiptir. Bu plaj, özellikle yaz aylarında yerli ve yabancı turistlerin uğrak noktalarından biri haline gelmiştir. Anonim Türbe 3'ün güzelliği, sadece geniş ve temiz plajı ile değil, aynı zamanda çevredeki tarihi ve doğal güzelliklerle de dikkat çekmektedir. Burada, denizin serin sularında yüzmenin keyfini çıkarırken, aynı zamanda güneşin ılık ışıklarının altında dinlenebilir ve bölgenin zengin tarihini keşfedebilirsiniz.
+Anonim Türbe 3, Muğla'nın Milas ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. Bu plaj, özellikle yaz aylarında yerli ve yabancı turistlerin uğrak noktalarından biri haline gelmiştir. Anonim Türbe 3'ün güzelliği, sadece geniş ve temiz plajı ile değil, aynı zamanda çevredeki tarihi ve doğal güzelliklerle de dikkat çekmektedir. Burada, denizin serin sularında yüzmenin keyfini çıkarırken, aynı zamanda güneşin ılık ışıklarının altında dinlenebilir ve bölgenin zengin tarihini keşfedebilirsiniz.
 
 ## Tarihçe
 

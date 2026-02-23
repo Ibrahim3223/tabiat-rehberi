@@ -23,7 +23,7 @@ wikidata_id: "Q108228366"
 
 # Adana-Tuzla Golu
 
-Adana-Tuzla Gölü, Akdeniz Bölgesi'nin güzide şehirlerinden biri olan Adana'da yer alan doğal bir hazine. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu göl, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Gölün etrafındaki yeşillik alanlar, yürüyüş yolları ve piknik alanları ile birlikte ziyaretçilere keyifli bir gün geçirmeleri için gereken her şey mevcut. Göle gelen ziyaretçiler, gölün sakin ve huzurlu atmosferini deneyimleyerek, stres ve yorgunluklarını unutabiliyorlar.
+Adana-Tuzla Gölü, Akdeniz Bölgesi'nin güzide şehirlerinden biri olan Adana'da yer alan doğal bir hazine. Gölün etrafındaki yeşillik alanlar, yürüyüş yolları ve piknik alanları ile birlikte ziyaretçilere keyifli bir gün geçirmeleri için gereken her şey mevcut. Göle gelen ziyaretçiler, gölün sakin ve huzurlu atmosferini deneyimleyerek, stres ve yorgunluklarını unutabiliyorlar.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Tuzla Gölü, tarihi geçmişi ile birlikte önemli bir doğal miras olarak kabu
 
 ## Coğrafya
 
-Adana-Tuzla Gölü, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak yer alıyor. Göl, 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gölün etrafındaki arazi, genellikle düzlük ve hafif eğimli. Gölün su seviyesi, mevsimsel olarak değişiyor ve yağmur mevsiminde su seviyesi yükseliyor. Gölün suyu, genellikle sodalı ve tuzlu. Gölün etrafındaki bitki örtüsü, genellikle çam, meşe ve zeytin ağaçlarından oluşuyor. Gölün iklimi, Akdeniz iklimi özellikleri gösteriyor ve genellikle sıcak ve kurak geçiyor. Gölün coğrafi konumu, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor.
+Adana-Tuzla Gölü, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak yer alıyor. Gölün etrafındaki arazi, genellikle düzlük ve hafif eğimli. Gölün su seviyesi, mevsimsel olarak değişiyor ve yağmur mevsiminde su seviyesi yükseliyor. Gölün suyu, genellikle sodalı ve tuzlu. Gölün etrafındaki bitki örtüsü, genellikle çam, meşe ve zeytin ağaçlarından oluşuyor. Gölün iklimi, Akdeniz iklimi özellikleri gösteriyor ve genellikle sıcak ve kurak geçiyor. Gölün coğrafi konumu, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Tuzla Gölü, ziyaretçilerine keyifli bir gün geçirmeleri için gereken her �
 
 ## İlginç Bilgiler
 
-- Tuzla Gölü, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Gölün suyunun sodalı ve tuzlu olması, bestimm bazı bitki türlerinin yetişmesine uygun conditions sağlıyor.
 - Gölde, çeşitli kuş türleri, balıklar ve diğer su canlıları bulunabiliyor.
 - Gölün etrafındaki arazi, genellikle düzlük ve hafif eğimli.

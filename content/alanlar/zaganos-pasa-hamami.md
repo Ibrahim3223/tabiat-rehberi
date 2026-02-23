@@ -1,7 +1,7 @@
 ---
 title: "Zağanos Paşa Hamamı"
 date: "2026-01-09T22:36:53.796Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Marmara Bölgesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738680"
 
 # Zağanos Paşa Hamamı
 
-Zağanos Paşa Hamamı, Marmara Bölgesi'nin Karesi ilçesinde yer alan bir tarihi hamam ve plaj alanıdır. Bu bölge, doğal güzellikleri ve tarihi yapılarıyla dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunmaktadır. Zağanos Paşa Hamamı, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerini hem dinlendiren hem de kültürel bir deneyim sunan bir destinasyon olarak bilinir.
+Zağanos Paşa Hamamı, Marmara Bölgesi'nin Karesi ilçesinde yer alan bir tarihi hamam ve plaj alanıdır. Bu bölge, doğal güzellikleri ve tarihi yapılarıyla dikkat çekmektedir. Zağanos Paşa Hamamı, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerini hem dinlendiren hem de kültürel bir deneyim sunan bir destinasyon olarak bilinir.
 
 ## Tarihçe
 

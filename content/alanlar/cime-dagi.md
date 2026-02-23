@@ -29,7 +29,7 @@ wikidata_id: "Q34829136"
 
 # Çime Dağı
 
-Yozgat ilinin güzide bir bölgesinde yer alan Çime Dağı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak biliniyor. Çime Dağı, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla baş başa bırakıyor. Bu alan, hem doğa severler hem de bölge tarihini merak edenler için önemli bir destinasyon olarak dikkat çekiyor.
+Yozgat ilinin güzide bir bölgesinde yer alan Çime Dağı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olarak karşımıza çıkıyor. Çime Dağı, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla baş başa bırakıyor. Bu alan, hem doğa severler hem de bölge tarihini merak edenler için önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

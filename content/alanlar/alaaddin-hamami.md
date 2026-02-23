@@ -1,7 +1,7 @@
 ---
 title: "Alaaddin Hamamı"
 date: "2026-01-09T23:11:45.404Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sinop"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738927"
 
 # Alaaddin Hamamı
 
-Alaaddin Hamamı, Sinop'un merkezinde yer alan ve Karadeniz'in en çekici plajlarından biri olarak bilinen bir kıyı alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alan kaplar, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşittir. Alaaddin Hamamı, ziyaretçilerini güzel kumsalları, berrak suları ve zengin doğası ile karşılar. Bu plaj, hem yerel halk hem de turistler için popüler bir destinasyondur. Alaaddin Hamamı, güneşin ve denizin tadını çıkarmak isteyenler için ideal bir noktadır.
+Alaaddin Hamamı, Sinop'un merkezinde yer alan ve Karadeniz'in en çekici plajlarından biri olarak bilinen bir kıyı alanıdır. Alaaddin Hamamı, ziyaretçilerini güzel kumsalları, berrak suları ve zengin doğası ile karşılar. Bu plaj, hem yerel halk hem de turistler için popüler bir destinasyondur. Alaaddin Hamamı, güneşin ve denizin tadını çıkarmak isteyenler için ideal bir noktadır.
 
 ## Tarihçe
 

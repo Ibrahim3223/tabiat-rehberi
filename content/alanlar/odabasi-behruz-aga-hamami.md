@@ -1,7 +1,7 @@
 ---
 title: "Odabaşı Behruz Ağa Hamamı"
 date: "2026-01-09T23:42:06.001Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739141"
 
 # Odabaşı Behruz Ağa Hamamı
 
-Odabaşı Behruz Ağa Hamamı, İstanbul'un tarihi ilçesi Fatih'te yer alan, Marmara Bölgesi'nin önemli kültürel varlıklarından biri olarak dikkat çekmektedir. Bu tarihi hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanda konumlandırılmış ve ziyaretçilerini İstanbul'un geçmişine götürmektedir. Hamamın etrafı, çeşitli tarihi yapılarla çevrilidir ve bu durum, ziyaretçilere zengin bir kültürel deneyim sunmaktadır. Odabaşı Behruz Ağa Hamamı, sadece bir hamam değil, aynı zamanda bir kültürel miras olarak kabul edilmektedir.
+Odabaşı Behruz Ağa Hamamı, İstanbul'un tarihi ilçesi Fatih'te yer alan, Marmara Bölgesi'nin önemli kültürel varlıklarından biri olarak dikkat çekmektedir. Hamamın etrafı, çeşitli tarihi yapılarla çevrilidir ve bu durum, ziyaretçilere zengin bir kültürel deneyim sunmaktadır. Odabaşı Behruz Ağa Hamamı, sadece bir hamam değil, aynı zamanda bir kültürel miras olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Odabaşı Behruz Ağa Hamamı'nın tarihi geçmişi, İstanbul'un fethine kadar 
 
 ## Coğrafya
 
-Odabaşı Behruz Ağa Hamamı, Fatih ilçesinde, İstanbul'un tarihi merkezi olarak bilinen bölgede yer almaktadır. Hamamın konumu, Marmara Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Bu bölgede, çeşitli tarihi yapılar ve kültürel varlıklar bulunmaktadır. Hamamın etrafı, tarihi binalar ve önemli kültürel merkezlerle çevrilidir. Odabaşı Behruz Ağa Hamamı, İstanbul'un coğrafi konumu nedeniyle, çeşitli mevsimlerde ziyaret edilebilir. Hamamın iklimi, Marmara Bölgesi'nin ılıman iklimini yansıtmaktadır. Bu durum, ziyaretçilere yılın herhangi bir döneminde hamamı ziyaret etme olanağı sunmaktadır. Hamamın coğrafi konumu, aynı zamanda ziyaretçilere, İstanbul'un diğer tarihi ve kültürel varlıklarını keşfetme fırsatı sunmaktadır.
+Odabaşı Behruz Ağa Hamamı, Fatih ilçesinde, İstanbul'un tarihi merkezi olarak bilinen bölgede yer almaktadır. Hamamın konumu, Marmara Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Bu bölgede, çeşitli tarihi yapılar ve kültürel varlıklar bulunmaktadır. Hamamın etrafı, tarihi binalar ve önemli kültürel merkezlerle çevrilidir. Odabaşı Behruz Ağa Hamamı, İstanbul'un coğrafi konumu nedeniyle, çeşitli mevsimlerde ziyaret edilebilir. Hamamın iklimi, Marmara Bölgesi'nin ılıman iklimini yansıtmaktadır. Bu durum, ziyaretçilere yılın herhangi bir döneminde hamamı ziyaret etme olanağı sunmaktadır.
 
 ## Flora ve Fauna
 
-Odabaşı Behruz Ağa Hamamı'nın etrafı, çeşitli bitki türleriyle çevrilidir. Bu bitki türleri, Marmara Bölgesi'nin flora çeşitliliğini yansıtmaktadır. Hamamın bahçesi, ziyaretçilere güzel bir doğa manzarası sunmaktadır. Odabaşı Behruz Ağa Hamamı, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapmaktadır. Hamamın etrafında, çeşitli kuş türleri ve diğer hayvanlar bulunmaktadır. Bu durum, ziyaretçilere, hamamın doğal güzelliğini keşfetme fırsatı sunmaktadır. Hamamın flora ve fauna çeşitliliği, ziyaretçilere, İstanbul'un doğal güzelliğini keşfetme olanağı sunmaktadır.
+Odabaşı Behruz Ağa Hamamı'nın etrafı, çeşitli bitki türleriyle çevrilidir. Bu bitki türleri, Marmara Bölgesi'nin flora çeşitliliğini yansıtmaktadır. Hamamın bahçesi, ziyaretçilere güzel bir doğa manzarası sunmaktadır. Odabaşı Behruz Ağa Hamamı, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapmaktadır. Hamamın etrafında, çeşitli kuş türleri ve diğer hayvanlar bulunmaktadır. Hamamın flora ve fauna çeşitliliği, ziyaretçilere, İstanbul'un doğal güzelliğini keşfetme olanağı sunmaktadır.
 
 ## Ziyaret Bilgileri
 

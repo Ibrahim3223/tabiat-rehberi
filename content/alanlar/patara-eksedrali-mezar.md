@@ -29,7 +29,7 @@ wikidata_id: "Q134728232"
 
 # Patara Eksedralı Mezar
 
-Patara Eksedralı Mezar, Antalya'nın Kaş ilçesinde yer alan antik Patara kentinde bulunan tarihi bir mezar alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok tarihi yapıya ev sahipliği yapmaktadır. Patara Eksedralı Mezar, ziyaretçilerine antik dünyanın gizemini keşfetme fırsatı sunar. Bu mezar alanı, históriye meraklı olanlar için önemli bir destinasyon olarak kabul edilir. Patara kentinde yer alan tarihi yapılar, ziyaretçilere antik dünyanın yaşam tarzını ve kültürünü hakkında bilgi verir.
+Patara Eksedralı Mezar, Antalya'nın Kaş ilçesinde yer alan antik Patara kentinde bulunan tarihi bir mezar alanıdır. Patara Eksedralı Mezar, ziyaretçilerine antik dünyanın gizemini keşfetme fırsatı sunar. Bu mezar alanı, tarihi meraklı olanlar için önemli bir destinasyon olarak kabul edilir. Patara kentinde yer alan tarihi yapılar, ziyaretçilere antik dünyanın yaşam tarzını ve kültürünü hakkında bilgi verir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Patara Eksedralı Mezar, tarihi geçmişiyle dikkat çeker. Antik Patara kentind
 
 ## Coğrafya
 
-Patara Eksedralı Mezar, Kaş ilçesinde yer alan antik Patara kentinde bulunur. Bu bölge, Akdeniz Bölgesi'nin en güzel kıyı şeritlerinden birini oluşturur. Patara kenti, Likya bölgesinin önemli bir liman kentiydi ve coğrafi konumu itibariyle ticaret ve kültür merkezi olarak görev yapmıştır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok tarihi yapıya ev sahipliği yapar. Patara Eksedralı Mezar, ziyaretçilere antik dünyanın gizemini keşfetme fırsatı sunar. Bu mezar alanı, históriye meraklı olanlar için önemli bir destinasyon olarak kabul edilir. Patara kentinde yer alan tarihi yapılar, ziyaretçilere antik dünyanın yaşam tarzını ve kültürünü hakkında bilgi verir. Bu bölgenin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı da sunar.
+Patara Eksedralı Mezar, Kaş ilçesinde yer alan antik Patara kentinde bulunur. Bu bölge, Akdeniz Bölgesi'nin en güzel kıyı şeritlerinden birini oluşturur. Patara kenti, Likya bölgesinin önemli bir liman kentiydi ve coğrafi konumu itibariyle ticaret ve kültür merkezi olarak görev yapmıştır. Patara Eksedralı Mezar, ziyaretçilere antik dünyanın gizemini keşfetme fırsatı sunar. Bu mezar alanı, tarihi meraklı olanlar için önemli bir destinasyon olarak kabul edilir. Patara kentinde yer alan tarihi yapılar, ziyaretçilere antik dünyanın yaşam tarzını ve kültürünü hakkında bilgi verir. Bu bölgenin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı da sunar.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Patara Eksedralı Mezar, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu
 
 ## Ziyaret Bilgileri
 
-Patara Eksedralı Mezar, tarihi ve doğal güzellikleri bir arada sunan bir destinasyondur. Ziyaretçiler, bu mezar alanında yer alan tarihi yapıları gezerek, antik dünyanın yaşam tarzını ve kültürünü keşfedebilirler. Bu bölgenin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı da sunar. Patara Eksedralı Mezar, históriye meraklı olanlar için önemli bir destinasyon olarak kabul edilir. Ziyaretçiler, bu mezar alanında yer alan tarihi yapıları gezerek, antik dünyanın gizemini keşfetme fırsatı bulabilirler.
+Patara Eksedralı Mezar, tarihi ve doğal güzellikleri bir arada sunan bir destinasyondur. Ziyaretçiler, bu mezar alanında yer alan tarihi yapıları gezerek, antik dünyanın yaşam tarzını ve kültürünü keşfedebilirler. Bu bölgenin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı da sunar. Patara Eksedralı Mezar, tarihi meraklı olanlar için önemli bir destinasyon olarak kabul edilir. Ziyaretçiler, bu mezar alanında yer alan tarihi yapıları gezerek, antik dünyanın gizemini keşfetme fırsatı bulabilirler.
 
 ## İlginç Bilgiler
 
@@ -53,4 +53,4 @@ Patara Eksedralı Mezar, tarihi ve doğal güzellikleri bir arada sunan bir dest
 - Bu mezar alanı, 140 hektarlık bir alana sahiptir.
 - Patara kenti, Likya bölgesinin önemli liman kentlerinden biridir.
 - Bu bölgenin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar.
-- Patara Eksedralı Mezar, históriye meraklı olanlar için önemli bir destinasyon olarak kabul edilir.
+- Patara Eksedralı Mezar, tarihi meraklı olanlar için önemli bir destinasyon olarak kabul edilir.

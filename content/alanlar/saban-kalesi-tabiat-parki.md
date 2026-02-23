@@ -22,7 +22,7 @@ wikidata_id: "Q108228998"
 
 # Şaban Kalesi Tabiat Parkı
 
-Şaban Kalesi Tabiat Parkı, İç Anadolu Bölgesi'nin göbeğinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tabiat parkı, doğal güzelliği ve zengin ekosistemiyle dikkat çekiyor. İç Anadolu Bölgesi'nin coğrafi olarak farklı noktalarında ziyaretçilerini ağırlayan Şaban Kalesi, yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna çeşitliliğiyle ziyaretçilerini büyülüyor. Parkın içinde, yürüyüş parkurları, piknik alanları ve doğa noktaları gibi çeşitli aktiviteler için uygun bir ortam sunuluyor.
+ Bu tabiat parkı, doğal güzelliği ve zengin ekosistemiyle dikkat çekiyor. İç Anadolu Bölgesi'nin coğrafi olarak farklı noktalarında ziyaretçilerini ağırlayan Şaban Kalesi, yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna çeşitliliğiyle ziyaretçilerini büyülüyor. Parkın içinde, yürüyüş parkurları, piknik alanları ve doğa noktaları gibi çeşitli aktiviteler için uygun bir ortam sunuluyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108228998"
 
 ## Coğrafya
 
-Şaban Kalesi Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak farklı bir noktasında yer alıyor. Park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, yemyeşil ormanlarla kaplı ve çeşitli bitki türleri barındırıyor. Parkın coğrafi yapısı, ziyaretçilere farklı yürüyüş parkurları ve doğa noktaları sunuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim özellikleri parkı da etkiliyor. Parkın çevresi, zengin fauna çeşitliliği ve doğal güzelliği ile dikkat çekiyor. Şaban Kalesi Tabiat Parkı, coğrafi olarak farklı bir noktada yer alması ve doğal güzelliği ile, ziyaretçilere benzersiz bir deneyim sunuyor.
+Şaban Kalesi Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak farklı bir noktasında yer alıyor. Bölge, yemyeşil ormanlarla kaplı ve çeşitli bitki türleri barındırıyor. Parkın coğrafi yapısı, ziyaretçilere farklı yürüyüş parkurları ve doğa noktaları sunuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim özellikleri parkı da etkiliyor. Parkın çevresi, zengin fauna çeşitliliği ve doğal güzelliği ile dikkat çekiyor. Şaban Kalesi Tabiat Parkı, coğrafi olarak farklı bir noktada yer alması ve doğal güzelliği ile, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -44,6 +44,6 @@ wikidata_id: "Q108228998"
 
 - Parkın içinde, tarihi kalıntılar ve arkeolojik sit alanları yer alıyor.
 - Şaban Kalesi Tabiat Parkı, İç Anadolu Bölgesi'nin göbeğinde yer alıyor.
-- Park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Parkın flora ve fauna çeşitliliği, mevsimsel değişimlerle birlikte değişiyor.
 - Park, yılın her dönemi ziyaret edilebilir.

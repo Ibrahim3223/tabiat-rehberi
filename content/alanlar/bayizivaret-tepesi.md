@@ -28,7 +28,7 @@ wikidata_id: "Q31546433"
 
 # Bayizivaret Tepesi
 
-Bayizivaret Tepesi, Batman ilinin sınırları içinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bayizivaret Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir noktadır. Tepenin etrafında çeşitli değil, çeşitli bitki türleri ve zengin fauna bulunur. Bayizivaret Tepesi, ziyaretçilerini bölgeye özgü güzelliklerle buluşturur.
+Bayizivaret Tepesi, Batman ilinin sınırları içinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepedir. Bayizivaret Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir noktadır. Tepenin etrafında çeşitli değil, çeşitli bitki türleri ve zengin fauna bulunur. Bayizivaret Tepesi, ziyaretçilerini bölgeye özgü güzelliklerle buluşturur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bayizivaret Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Bayizivaret Tepesi, Batman ilinin sınırları içinde yer alan bir tepedir. Tepenin coğrafi yapısı, bölgenin genel coğrafyasını yansıtır. Bayizivaret Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bayizivaret Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir noktadır. Tepenin iklimi, bölgenin genel iklimini yansıtır ve ziyaretçilerin bölgeye uyum sağlamasına yardımcı olur. Bayizivaret Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir noktadır.
+Bayizivaret Tepesi, Batman ilinin sınırları içinde yer alan bir tepedir. Tepenin coğrafi yapısı, bölgenin genel coğrafyasını yansıtır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bayizivaret Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir noktadır. Tepenin iklimi, bölgenin genel iklimini yansıtır ve ziyaretçilerin bölgeye uyum sağlamasına yardımcı olur. Bayizivaret Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir noktadır.
 
 ## Flora ve Fauna
 

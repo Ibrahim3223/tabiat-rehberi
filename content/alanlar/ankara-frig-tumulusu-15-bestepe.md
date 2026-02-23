@@ -29,7 +29,7 @@ wikidata_id: "Q134728289"
 
 # Ankara Frig Tümülüsü 15, Beştepe
 
-Ankara Frig Tümülüsü 15, Beştepe, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Yenimahalle ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu özel alan, 140 hektarlık geniş bir bölgeye yayılmış olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ziyaretçiler, bu tarihi tümülüsün etrafında dolaşırken, hem Ankara'nın tarihini hem de doğal güzelliklerini keşfedebilirler. Ankara Frig Tümülüsü 15, Beştepe, ziyaretçilerini bekleyen bir açık hava müzesi gibidir.
+Ankara Frig Tümülüsü 15, Beştepe, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Yenimahalle ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Ziyaretçiler, bu tarihi tümülüsün etrafında dolaşırken, hem Ankara'nın tarihini hem de doğal güzelliklerini keşfedebilirler. Ankara Frig Tümülüsü 15, Beştepe, ziyaretçilerini bekleyen bir açık hava müzesi gibidir.
 
 ## Tarihçe
 

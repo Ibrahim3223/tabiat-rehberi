@@ -30,7 +30,7 @@ wikidata_id: "Q31189340"
 
 # Ayvalık Adaları Tabiat Parkı
 
-Ayvalık Adaları Tabiat Parkı, Marmara Bölgesi'nin en güzel yerlerinden biri olarak bilinir. Bu park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Parkın içinde çeşitli bitkiler ve hayvanlar bulunur. Ayvalık Adaları Tabiat Parkı, doğa severler ve turistler için ideal bir yerdir. Parkın güzelliği ve zenginliği, ziyaretçilerini etkileyen önemli bir özelliktir. Ayvalık Adaları Tabiat Parkı, Marmara Bölgesi'ndeki en önemli doğal alanlardan biridir.
+Ayvalık Adaları Tabiat Parkı, Marmara Bölgesi'nin en güzel yerlerinden biri olarak bilinir. Parkın içinde çeşitli bitkiler ve hayvanlar bulunur. Ayvalık Adaları Tabiat Parkı, doğa severler ve turistler için ideal bir yerdir. Parkın güzelliği ve zenginliği, ziyaretçilerini etkileyen önemli bir özelliktir. Ayvalık Adaları Tabiat Parkı, Marmara Bölgesi'ndeki en önemli doğal alanlardan biridir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ayvalık Adaları Tabiat Parkı'nın tarihi geçmişi, yüzyıllar öncesine day
 
 ## Coğrafya
 
-Ayvalık Adaları Tabiat Parkı, Marmara Bölgesi'nin Balıkesir ilinin Ayvalık ilçesinde bulunur. Park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Parkın coğrafi yapısı, çeşitli bitkiler ve hayvanlar için uygun bir ortamdır. Ayvalık Adaları Tabiat Parkı, Marmara Denizi'ne kıyısı olan bir bölgedir. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine benzer. Parkın coğrafi konumu ve iklimi, çeşitli bitkiler ve hayvanlar için ideal bir ortamdır. Ayvalık Adaları Tabiat Parkı, Marmara Bölgesi'ndeki en önemli doğal alanlardan biridir. Parkın coğrafi yapısı ve iklimi, ziyaretçileri için önemli bir bilgi kaynağıdır.
+Ayvalık Adaları Tabiat Parkı, Marmara Bölgesi'nin Balıkesir ilinin Ayvalık ilçesinde bulunur. Parkın coğrafi yapısı, çeşitli bitkiler ve hayvanlar için uygun bir ortamdır. Ayvalık Adaları Tabiat Parkı, Marmara Denizi'ne kıyısı olan bir bölgedir. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine benzer. Parkın coğrafi konumu ve iklimi, çeşitli bitkiler ve hayvanlar için ideal bir ortamdır. Ayvalık Adaları Tabiat Parkı, Marmara Bölgesi'ndeki en önemli doğal alanlardan biridir. Parkın coğrafi yapısı ve iklimi, ziyaretçileri için önemli bir bilgi kaynağıdır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Ayvalık Adaları Tabiat Parkı, ziyaretçileri için ideal bir yerdir. Parkı z
 ## İlginç Bilgiler
 
 - Ayvalık Adaları Tabiat Parkı, 140 hektarlık bir alanı kaplar.
-- Park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Parkın içinde, çeşitli bitkiler ve hayvanlar bulunur.
 - Ayvalık Adaları Tabiat Parkı, Marmara Bölgesi'ndeki en önemli doğal alanlardan biridir.
 - Park, yılın her dönemi ziyaret edilebilir.

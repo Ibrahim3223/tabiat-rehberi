@@ -28,7 +28,7 @@ wikidata_id: "Q31390058"
 
 # Cerizdede Tepesi
 
-Cerizdede Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir doğal alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Cerizdede Tepesi, Ankara'nın merkezi bir konumunda yer alır ve şehrin gürültüsünden uzak, sakin bir atmosfere sahiptir. Bu tepe, doğa severler için ideal bir destinasyon olup, piknik, yürüyüş ve doğa gibi faaliyetler için elverişli bir ortamdır.
+Cerizdede Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir doğal alandır. Cerizdede Tepesi, Ankara'nın merkezi bir konumunda yer alır ve şehrin gürültüsünden uzak, sakin bir atmosfere sahiptir. Bu tepe, doğa severler için ideal bir destinasyon olup, piknik, yürüyüş ve doğa gibi faaliyetler için elverişli bir ortamdır.
 
 ## Tarihçe
 

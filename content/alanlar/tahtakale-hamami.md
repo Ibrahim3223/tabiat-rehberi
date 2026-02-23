@@ -1,7 +1,7 @@
 ---
 title: "Tahtakale Hamamı"
 date: "2026-01-09T22:25:13.861Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738504"
 
 # Tahtakale Hamamı
 
-Tahtakale Hamamı, Edirne'nin merkezinde yer alan tarihi bir mekan olarak dikkat çekiyor. 140 hektarlık bir alan üzerine kurulmuş olan bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu büyük alan, ziyaretçilere geniş bir hareket alanı sunuyor. Tahtakale Hamamı, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerine eşsiz bir deneyim sunuyor. Bu mekan, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak biliniyor.
+Tahtakale Hamamı, Edirne'nin merkezinde yer alan tarihi bir mekan olarak dikkat çekiyor. Bu büyük alan, ziyaretçilere geniş bir hareket alanı sunuyor. Tahtakale Hamamı, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerine eşsiz bir deneyim sunuyor. Bu mekan, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 

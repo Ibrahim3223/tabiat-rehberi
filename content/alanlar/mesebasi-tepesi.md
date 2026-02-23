@@ -28,7 +28,7 @@ wikidata_id: "Q31388460"
 
 # Meşebaşı Tepesi
 
-Meşebaşı Tepesi, Erzurum'un doğal güzelliklerini ön plana çıkaran bir destinasyondur. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğanın kucağına davet ediyor. Meşebaşı Tepesi, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çekmektedir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar. Bu tepe, yılın dört mevsiminde de ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebilirken, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünür.
+Meşebaşı Tepesi, Erzurum'un doğal güzelliklerini ön plana çıkaran bir destinasyondur. Meşebaşı Tepesi, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çekmektedir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar. Bu tepe, yılın dört mevsiminde de ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebilirken, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünür.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Meşebaşı Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu tepe
 
 ## Coğrafya
 
-Meşebaşı Tepesi, Doğu Anadolu Bölgesi'nde yer alan Erzurum'un coğrafi yapısını yansıtan önemli bir noktadır. Tepenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Meşebaşı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Bu tepe, yılın dört mevsiminde de farklı bir güzelliğe sahiptir. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebilirken, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünür. Meşebaşı Tepesi, doğa severler için önemli bir destinasyondur. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar. Bu tepe, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çekmektedir.
+Meşebaşı Tepesi, Doğu Anadolu Bölgesi'nde yer alan Erzurum'un coğrafi yapısını yansıtan önemli bir noktadır. Tepenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Bu tepe, yılın dört mevsiminde de farklı bir güzelliğe sahiptir. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebilirken, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünür. Meşebaşı Tepesi, doğa severler için önemli bir destinasyondur. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunar. Bu tepe, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çekmektedir.
 
 ## Flora ve Fauna
 

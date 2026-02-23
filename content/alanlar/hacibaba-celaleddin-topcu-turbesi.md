@@ -1,7 +1,7 @@
 ---
 title: "Hacıbaba Celaleddin Topçu Türbesi"
 date: "2026-01-10T06:51:56.754Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ezine"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390751"
 
 # Hacıbaba Celaleddin Topçu Türbesi
 
-Hacıbaba Celaleddin Topçu Türbesi, Ezine'nin tarihi ve kültürel zenginliklerini bir araya getiren özel bir nokta. Ezine'nin merkezinde yer alan bu türbe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görünüm sunuyor. Tarihi ve doğal güzellikleri birleştiren bu mekan, özellikle tarih ve kültür meraklıları için önemli bir gezi noktası olarak dikkat çekiyor.
+Hacıbaba Celaleddin Topçu Türbesi, Ezine'nin tarihi ve kültürel zenginliklerini bir araya getiren özel bir nokta. Ezine'nin merkezinde yer alan bu türbe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tarihi ve doğal güzellikleri birleştiren bu mekan, özellikle tarih ve kültür meraklıları için önemli bir gezi noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 

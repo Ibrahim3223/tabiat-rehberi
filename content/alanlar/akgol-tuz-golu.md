@@ -49,7 +49,7 @@ Akgöl'ün çevresel ilişkileri, bölgenin su kaynakları ve ekosistem bağlant
 
 ## Flora ve Fauna
 
-Akgöl, Karaman'ın step bitki örtüsü ve bozkırının içinde bir tuz gölü cenneti olarak yer alıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Akgöl, Karaman'ın step bitki örtüsü ve bozkırının içinde bir tuz gölü cenneti olarak yer alıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, Akgöl'ün etrafı çoğunlukla step bitki örtüsüne ev sahipliği yapıyor. İlkbaharın başlangıcında, bu bölgede çiçekler açmaya başlıyor ve renkli bir manzara sunuyor. Sonbaharda ise, gölden beslenen bitkiler sararıp kuruyor ve göç eden kuşlara besin kaynağı oluyor.
 

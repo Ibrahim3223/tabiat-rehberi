@@ -22,7 +22,7 @@ wikidata_id: "Q108227369"
 
 # Kayadibi Porsuk Agaci
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Kayadibi Porsuk Ağacı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu doğal güzellik, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başarıyor. Kayadibi Porsuk Ağacı, tarihi geçmişi ve çevre güzelliği ile ziyaretçilerini büyülüyor. 1500 yıllık bir geçmişi olan bu acı, bölgenin en önemli doğal ve tarihi varlıklarından biri olarak kabul ediliyor. Bölge, zengin fauna ve florası ile dikkat çekiyor ve doğal yaşamın güzelliğini keşfetmek isteyenler için ideal bir destinasyon olarak görünüyor.
+ Bu doğal güzellik, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başarıyor. Kayadibi Porsuk Ağacı, tarihi geçmişi ve çevre güzelliği ile ziyaretçilerini büyülüyor. 1500 yıllık bir geçmişi olan bu acı, bölgenin en önemli doğal ve tarihi varlıklarından biri olarak kabul ediliyor. Bölge, zengin fauna ve florası ile dikkat çekiyor ve doğal yaşamın güzelliğini keşfetmek isteyenler için ideal bir destinasyon olarak görünüyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kayadibi Porsuk Ağacı'nın tarihi geçmişi, bölgelerin kültürel ve doğal 
 
 ## Coğrafya
 
-Kayadibi Porsuk Ağacı, İç Anadolu Bölgesi'nin coğrafi güzelliğini yansıtan bir doğal alan olarak dikkat çekiyor. 140 hektarlık alanı, ziyaretçilere geniş bir yeşil alan sunuyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bölge, zengin fauna ve florası ile dikkat çekiyor ve çeşitli bitki türleri ile canlıların yaşam alanı oluşturuyor. Kayadibi Porsuk Ağacı'nın bulunduğu bölge, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor vefour mevsim ayrıntıları ile ziyaretçilere farklı deneyimler sunuyor. İlkbahar ve sonbahar ayları, regionun güzelliğini keşfetmek için en uygun zamanlar olarak görülüyor.
+Kayadibi Porsuk Ağacı, İç Anadolu Bölgesi'nin coğrafi güzelliğini yansıtan bir doğal alan olarak dikkat çekiyor. Bölge, zengin fauna ve florası ile dikkat çekiyor ve çeşitli bitki türleri ile canlıların yaşam alanı oluşturuyor. Kayadibi Porsuk Ağacı'nın bulunduğu bölge, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor vefour mevsim ayrıntıları ile ziyaretçilere farklı deneyimler sunuyor. İlkbahar ve sonbahar ayları, regionun güzelliğini keşfetmek için en uygun zamanlar olarak görülüyor.
 
 ## Flora ve Fauna
 

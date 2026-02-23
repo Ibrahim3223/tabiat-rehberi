@@ -29,7 +29,7 @@ wikidata_id: "Q134728265"
 
 # Karayörük Deresi Şehitliği
 
-Karayörük Deresi Şehitliği, Eceabat ilçesinde yer alan ve Çanakkale Savaşı'nda şehit olan askerlerin anıldığı bir alan olarak dikkat çekiyor. Bu özel bölgenin tarihi geçmişi, savaşın zorlu şartlarını ve kahramanların fedakarlıklarını anlatıyor. Şehitlik, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu geniş alan, ziyaretçiler için hem bir anma hem de bir tarih dersi sunuyor.
+Karayörük Deresi Şehitliği, Eceabat ilçesinde yer alan ve Çanakkale Savaşı'nda şehit olan askerlerin anıldığı bir alan olarak dikkat çekiyor. Bu özel bölgenin tarihi geçmişi, savaşın zorlu şartlarını ve kahramanların fedakarlıklarını anlatıyor. Bu geniş alan, ziyaretçiler için hem bir anma hem de bir tarih dersi sunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Gazi Timurtaş Paşa Türbesi"
 date: "2026-01-10T04:53:46.520Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q125909029"
 
 # Gazi Timurtaş Paşa Türbesi
 
-Gazi Timurtaş Paşa Türbesi, Bursa'nın Osmangazi ilçesinde yer alan tarihi bir türbe ve plaj olarak bilinir. Bu alan, yaklaşık 140 hektarlık bir yeşil alan sunar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Türbe, tarihi geçmişi ve doğal güzelliği ile dikkat çeker. Ziyaretçiler, hem tarihi bir mekanın atmosferini hem de Marmara Bölgesi'nin güzelliğini deneyimleyebilir. Bu bölge, hem yerli hem de yabancı turistler için önemli bir çekim merkezi oluşturur.
+Gazi Timurtaş Paşa Türbesi, Bursa'nın Osmangazi ilçesinde yer alan tarihi bir türbe ve plaj olarak bilinir. Türbe, tarihi geçmişi ve doğal güzelliği ile dikkat çeker. Ziyaretçiler, hem tarihi bir mekanın atmosferini hem de Marmara Bölgesi'nin güzelliğini deneyimleyebilir. Bu bölge, hem yerli hem de yabancı turistler için önemli bir çekim merkezi oluşturur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gazi Timurtaş Paşa Türbesi, Osmanlı dönemine ait bir tarihi yapıdır. Tari
 
 ## Coğrafya
 
-Gazi Timurtaş Paşa Türbesi, Osmangazi ilçesi sınırları içerisinde yer alır ve Marmara Bölgesi'nin güzelliklerini sunar. Bu bölge, coğrafi olarak zengin bir çeşitlilik gösterir. Türbe ve plajın bulunduğu alan, 140 hektarlık bir yeşil alan sunar ve yaklaşık 200 futbol sahası büyüklüğündedir. Plaj, Marmara Denizi'ne açılır ve deniz suyu, temiz ve berrak bir görünüm sunar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve nemlidir. Bahar ve sonbahar ayları, ziyaret için en uygun zamanlardır, çünkü hava koşulları daha müsaittir. Çevre, tarihi ve doğal güzelliği ile dikkat çeker ve ziyaretçilere geniş bir yeşil alan sunar.
+Gazi Timurtaş Paşa Türbesi, Osmangazi ilçesi sınırları içerisinde yer alır ve Marmara Bölgesi'nin güzelliklerini sunar. Bu bölge, coğrafi olarak zengin bir çeşitlilik gösterir. Plaj, Marmara Denizi'ne açılır ve deniz suyu, temiz ve berrak bir görünüm sunar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve nemlidir. Bahar ve sonbahar ayları, ziyaret için en uygun zamanlardır, çünkü hava koşulları daha müsaittir. Çevre, tarihi ve doğal güzelliği ile dikkat çeker ve ziyaretçilere geniş bir yeşil alan sunar.
 
 ## Flora ve Fauna
 

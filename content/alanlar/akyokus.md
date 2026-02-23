@@ -23,7 +23,7 @@ wikidata_id: "Q108228210"
 
 # Akyokuş
 
-Akyokuş, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu yeşil cennet, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Akyokuş'un konumundan dolayı, burası dört mevsim ziyaret edilebilir ve her mevsim unterschiedlı bir güzelliğe sahip. İlkbaharın renk cümbüşü, yazın sıcakklığı, sonbaharın sarıları ve kışın karı, Akyokuş'u her zaman özel kılar.
+Akyokuş, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Akyokuş'un konumundan dolayı, burası dört mevsim ziyaret edilebilir ve her mevsim unterschiedlı bir güzelliğe sahip. İlkbaharın renk cümbüşü, yazın sıcakklığı, sonbaharın sarıları ve kışın karı, Akyokuş'u her zaman özel kılar.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Akyokuş'un tarihi geçmişi, yüzyıllar boyunca devam eden bir süreçtir. Bu 
 
 ## Coğrafya
 
-Akyokuş, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlara sahiptir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu yeşil cennet, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Akyokuş'un coğrafi konumu, dört mevsim ziyaret edilebilir olmasını sağlar ve her mevsim unterschiedlı bir güzelliğe sahip. İlkbaharın renk cümbüşü, yazın sıcakklığı, sonbaharın sarıları ve kışın karı, Akyokuş'u her zaman özel kılar. Akyokuş'un iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal bir iklimdir. Bu nedenle, Akyokuş'u ziyaret edenler, mevsimlere göre uygun giysi tercihinde bulunmalıdır. Akyokuş'un coğrafi yapısı, ziyaretçilerine bir doğa deneyimi sunar ve bu bölge, doğa severlerin ziyaret etmeyi düşündüğü bir yer olarak dikkat çekmektedir.
+Akyokuş, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlara sahiptir. Akyokuş'un coğrafi konumu, dört mevsim ziyaret edilebilir olmasını sağlar ve her mevsim unterschiedlı bir güzelliğe sahip. İlkbaharın renk cümbüşü, yazın sıcakklığı, sonbaharın sarıları ve kışın karı, Akyokuş'u her zaman özel kılar. Akyokuş'un iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal bir iklimdir. Bu nedenle, Akyokuş'u ziyaret edenler, mevsimlere göre uygun giysi tercihinde bulunmalıdır. Akyokuş'un coğrafi yapısı, ziyaretçilerine bir doğa deneyimi sunar ve bu bölge, doğa severlerin ziyaret etmeyi düşündüğü bir yer olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 

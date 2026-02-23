@@ -28,7 +28,7 @@ wikidata_id: "Q31391076"
 
 # Mahmut Tepesi
 
-Mahmut Tepesi, Şanlıurfa'nın zengin tarihi ve coğrafi değerlerini bir araya getiren bir bölgedir. Bu tepe, yaklaşık olarak şehrin merkezine yakın bir konumda yer alır ve ziyaretçilerini şehrin panoramik manzarasıyla karşılar. Mahmut Tepesi, 140 hektarlık bir alanı kapsar, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Şanlıurfa'nın coğrafi yapısı, tepeye özel bir karakter kazandırır. Ziyaretçiler, tepeye çıktıklarında, şehrin tarihi ve doğal güzelliklerini bir arada görebilirler. Mahmut Tepesi, ayrıca şehrin önemli bir tarihi ve kültürel merkezi olarak da bilinir. Tepenin etrafında çeşitli tarihi yapılar ve anıtlar bulunur, bunlar da ziyaretçilerin ilgisini çeker.
+Mahmut Tepesi, Şanlıurfa'nın zengin tarihi ve coğrafi değerlerini bir araya getiren bir bölgedir. Bu tepe, yaklaşık olarak şehrin merkezine yakın bir konumda yer alır ve ziyaretçilerini şehrin panoramik manzarasıyla karşılar. Şanlıurfa'nın coğrafi yapısı, tepeye özel bir karakter kazandırır. Ziyaretçiler, tepeye çıktıklarında, şehrin tarihi ve doğal güzelliklerini bir arada görebilirler. Mahmut Tepesi, ayrıca şehrin önemli bir tarihi ve kültürel merkezi olarak da bilinir. Tepenin etrafında çeşitli tarihi yapılar ve anıtlar bulunur, bunlar da ziyaretçilerin ilgisini çeker.
 
 ## Tarihçe
 

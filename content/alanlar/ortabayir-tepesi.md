@@ -28,7 +28,7 @@ wikidata_id: "Q31557205"
 
 # Ortabayır Tepesi
 
-Ankara'nın kalbinde yer alan Ortabayır Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğanın güzelliğine davet ediyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Ortabayır Tepesi, aynı zamanda Ankara'nın tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunuyor.
+Ankara'nın kalbinde yer alan Ortabayır Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğanın güzelliğine davet ediyor. Ortabayır Tepesi, aynı zamanda Ankara'nın tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunuyor.
 
 ## Tarihçe
 

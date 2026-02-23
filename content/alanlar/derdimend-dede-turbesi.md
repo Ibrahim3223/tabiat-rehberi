@@ -1,7 +1,7 @@
 ---
 title: "Derdimend Dede Türbesi"
 date: "2026-01-10T07:04:02.080Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kahramanmaraş"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390842"
 
 # Derdimend Dede Türbesi
 
-Derdimend Dede Türbesi, Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alan tarihi ve doğal güzelliklere sahip bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Derdimend Dede Türbesi'nin bulunduğu bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Tarihi yapılar, yeşillikler ve geniş açık alanlar, bu bölgenin önemli özelliklerinden bazıları olarak sayılabilir.
+Derdimend Dede Türbesi, Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alan tarihi ve doğal güzelliklere sahip bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak dikkat çekiyor. Derdimend Dede Türbesi'nin bulunduğu bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Tarihi yapılar, yeşillikler ve geniş açık alanlar, bu bölgenin önemli özelliklerinden bazıları olarak sayılabilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Derdimend Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca oluşmuş ve g
 
 ## Coğrafya
 
-Derdimend Dede Türbesi, Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alıyor ve Akdeniz Bölgesi'nde bulunan bir bölgedir. Bu bölge, coğrafi olarak geniş bir yeşil alanı kapsıyor ve ziyaretçilere doğal güzellikler sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir açık alan olarak dikkat çekiyor. Bölgenin coğrafi yapısı, geniş ovalar ve dağlarla çevrili bir bölge olarak tanımlanabilir. Derdimend Dede Türbesi'nin bulunduğu bölge, aynı zamanda önemli bir su kaynağı olarak da dikkat çekiyor. Bu su kaynakları, bölgenin doğal güzelliklerine katkıda bulunuyor ve ziyaretçilere serin bir atmosfer sunuyor.
+Derdimend Dede Türbesi, Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alıyor ve Akdeniz Bölgesi'nde bulunan bir bölgedir. Bu bölge, coğrafi olarak geniş bir yeşil alanı kapsıyor ve ziyaretçilere doğal güzellikler sunuyor. Bölgenin coğrafi yapısı, geniş ovalar ve dağlarla çevrili bir bölge olarak tanımlanabilir. Derdimend Dede Türbesi'nin bulunduğu bölge, aynı zamanda önemli bir su kaynağı olarak da dikkat çekiyor. Bu su kaynakları, bölgenin doğal güzelliklerine katkıda bulunuyor ve ziyaretçilere serin bir atmosfer sunuyor.
 
 ## Flora ve Fauna
 

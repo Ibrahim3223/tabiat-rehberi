@@ -30,7 +30,7 @@ wikidata_id: "Q97341135"
 
 # Doğu Gymnasionu
 
-Doğu Gymnasionu, Ege Bölgesi'nin tarihi ve doğal güzellikleriyle dolu bir köşesi olarak dikkat çekiyor. İzmir'in Selçuk ilçesinde bulunan bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu bölge, hem tarihi hem de doğal güzellikleri bir araya getirmesiyle ziyaretçilerini cezbediyor. Doğu Gymnasionu'nun sunduğu manzara ve atmosfer, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Doğu Gymnasionu, Ege Bölgesi'nin tarihi ve doğal güzellikleriyle dolu bir köşesi olarak dikkat çekiyor. Bu bölge, hem tarihi hem de doğal güzellikleri bir araya getirmesiyle ziyaretçilerini cezbediyor. Doğu Gymnasionu'nun sunduğu manzara ve atmosfer, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

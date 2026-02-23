@@ -28,7 +28,7 @@ wikidata_id: "Q31582231"
 
 # Boncukluk Tepesi
 
-Boncukluk Tepesi, Çorum'un merkezi bir noktasında yer alan ve Karadeniz Bölgesi'nin doğal güzelliklerini gözler önüne seren bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu geniş ve yeşillik bir alan, ziyaretçilerine hem doğayla iç içe olmayı hem de panoramik manzaralar sunuyor. Boncukluk Tepesi, aynı zamanda bölgenin tarihi ve kültürel geçmişi hakkında da önemli ipuçları sunuyor. Bu tepe, Çorum'un önemli bir turizm noktası ve doğa severler için gerçek bir cennet.
+Boncukluk Tepesi, Çorum'un merkezi bir noktasında yer alan ve Karadeniz Bölgesi'nin doğal güzelliklerini gözler önüne seren bir tepe. Bu geniş ve yeşillik bir alan, ziyaretçilerine hem doğayla iç içe olmayı hem de panoramik manzaralar sunuyor. Boncukluk Tepesi, aynı zamanda bölgenin tarihi ve kültürel geçmişi hakkında da önemli ipuçları sunuyor. Bu tepe, Çorum'un önemli bir turizm noktası ve doğa severler için gerçek bir cennet.
 
 ## Tarihçe
 

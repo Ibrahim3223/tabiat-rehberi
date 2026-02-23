@@ -1,7 +1,7 @@
 ---
 title: "MKE Sanayi ve Teknoloji Müzesi"
 date: "2026-01-10T15:22:21.776Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"

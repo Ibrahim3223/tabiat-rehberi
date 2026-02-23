@@ -22,7 +22,7 @@ wikidata_id: "Q108228488"
 
 # Kahramanmaras-Andirin-Yesilova Andiz
 
-Kahramanmaras-Andirin-Yesilova Andiz, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Alanın büyüklüğü, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş bir yeşil alan sunuyor. Bu alanda çeşitli bitki türleri ve hayvanlar yaşamaktadır. Kahramanmaras-Andirin-Yesilova Andiz, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor.
+Kahramanmaras-Andirin-Yesilova Andiz, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu alanda çeşitli bitki türleri ve hayvanlar yaşamaktadır. Kahramanmaras-Andirin-Yesilova Andiz, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kahramanmaras-Andirin-Yesilova Andiz'in tarihi geçmişi, yüzyıllar boyunca ş
 
 ## Coğrafya
 
-Kahramanmaras-Andirin-Yesilova Andiz, İç Anadolu Bölgesi'nde yer alan bir milli parktır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikası. Alanın coğrafi yapısı, geniş bir yeşil alan sunuyor ve ziyaretçilerini doğayla baş başa bırakıyor. Kahramanmaras-Andirin-Yesilova Andiz, ziyaretçilerine geniş bir yeşil alan sunuyor ve doğayla iç içe olmayı sağlıyor. Bu milli park, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak şekillenmiştir. Bu bölgede, çeşitli mevsimsel değişimler livedığı gibi, bu değişimlere uyum sağlayan çeşitli canlılar da yaşamaktadır.
+Kahramanmaras-Andirin-Yesilova Andiz, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Alanın coğrafi yapısı, geniş bir yeşil alan sunuyor ve ziyaretçilerini doğayla baş başa bırakıyor. Kahramanmaras-Andirin-Yesilova Andiz, ziyaretçilerine geniş bir yeşil alan sunuyor ve doğayla iç içe olmayı sağlıyor. Bu milli park, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak şekillenmiştir. Bu bölgede, çeşitli mevsimsel değişimler livedığı gibi, bu değişimlere uyum sağlayan çeşitli canlılar da yaşamaktadır.
 
 ## Flora ve Fauna
 

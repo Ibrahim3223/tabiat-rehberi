@@ -30,7 +30,7 @@ Mersin-Mut-Alahan-Kızılçam 1 milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Mersin-Mut-Alahan-Kızılçam 1 milli parkı, Mersin ilinin Mut ilçesinde yer alıyor. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşuyor. Bu milli park, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir doğal alan sunuyor. Parkın iklimi, Akdeniz ikliminin etkisi altında kalıyor ve bu nedenle ziyaretçilere yıl boyunca ılıman bir hava sunuyor. Mersin-Mut-Alahan-Kızılçam 1 milli parkı, sunduğu doğal güzellikler ve coğrafi çeşitlili ile ziyaretçilerini cezbediyor. Parkın içerisinde yer alan dağlar, ormanlar ve vadiler, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor.
+Mersin-Mut-Alahan-Kızılçam 1 milli parkı, Mersin ilinin Mut ilçesinde yer alıyor. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşuyor. Parkın iklimi, Akdeniz ikliminin etkisi altında kalıyor ve bu nedenle ziyaretçilere yıl boyunca ılıman bir hava sunuyor. Mersin-Mut-Alahan-Kızılçam 1 milli parkı, sunduğu doğal güzellikler ve coğrafi çeşitlili ile ziyaretçilerini cezbediyor. Parkın içerisinde yer alan dağlar, ormanlar ve vadiler, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

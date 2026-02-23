@@ -1,7 +1,7 @@
 ---
 title: "Hasas Baba Türbesi"
 date: "2026-01-10T07:31:43.853Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391281"
 
 # Hasas Baba Türbesi
 
-Aksaray'ın merkezinde yer alan Hasas Baba Türbesi, tarihi ve kültürel açıdan önemli bir mekan. 140 hektarlık bir alan üzerinde konumlanan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olan Aksaray, Hasas Baba Türbesi ile birlikte ziyaretçilerini ağırlıyor. Türbenin etrafında yer alan tarihi yapılar ve doğal güzellikler, ziyaretçilere keyifli bir gezi deneyimi sunuyor.
+Aksaray'ın merkezinde yer alan Hasas Baba Türbesi, tarihi ve kültürel açıdan önemli bir mekan. İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olan Aksaray, Hasas Baba Türbesi ile birlikte ziyaretçilerini ağırlıyor. Türbenin etrafında yer alan tarihi yapılar ve doğal güzellikler, ziyaretçilere keyifli bir gezi deneyimi sunuyor.
 
 ## Tarihçe
 

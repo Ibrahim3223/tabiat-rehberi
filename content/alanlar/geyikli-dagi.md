@@ -34,7 +34,7 @@ Denizli'nin dağlık bölgelerinde yer alan Geyikli Dağı, bölgenin en önemli
 
 Geyikli Dağı, Denizli'nin doğal güzelliklerini barındıran önemli bir bölgedir. Denizli, tarihin çeşitli dönemlerinde farklı uygarlıkların yerleşim yeri olmuştur. Hitit, Frig, Lidya ve Roma uygarlıkları, bu bölgede yaşamış ve izler bırakmıştır. Bu zengin tarih, Geyikli Dağı'nın çevresinde de hissedilir.
 
-Türkiye'de doğal alanlar, tarihin her döneminde önemli bir  oynamıştır. İnsanlar, bu bölgelerde hayvancılık, yaylacılık ve ticaret faaliyetleri gerçekleştirmişlerdir. Denizli bölgesinin coğrafi konumu, histórik ticaret yollarının kesişme noktasında yer alması, bu doğal alanların önemini artırmıştır.
+Türkiye'de doğal alanlar, tarihin her döneminde önemli bir  oynamıştır. İnsanlar, bu bölgelerde hayvancılık, yaylacılık ve ticaret faaliyetleri gerçekleştirmişlerdir. Denizli bölgesinin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alması, bu doğal alanların önemini artırmıştır.
 
 Geyikli Dağı, bölgenin ekolojik dengesini sağlayan önemli bir ekosistemdir. Bu tür doğal alanlar, Türkiye'nin biyolojik çeşitliliğinin korunmasına katkıda bulunurlar. İnsanların bu doğal güzelliklerle olan ilişkisi, sadece turizm değil, aynı zamanda hayvancılık, tarım ve diğer ekonomik faaliyetleri de içerir. Geyikli Dağı, Denizli'nin doğal ve kültürel mirasının önemli bir parçasıdır ve bölge halkının yaşamında önemli bir yer tutar.
 
@@ -52,7 +52,7 @@ Doğal güzelliği ile dikkat çeken bu bölge, coğrafi olarak oldukça ilginç
 
 Geyikli Dağı, Denizli'nin zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, alpin flora ve dağ hayvanları ile birlikte, ziyaretçilere benzersiz bir doğa deneyimi sunuyor.
 
-İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açmaya başlıyor. Çam ormanları, yaz aylarında serin bir sığınak sunarken, sonbaharda göç eden kuşlar dağları bir geçiş noktası olarak kullanıyor. Hakim bitki türleri arasında çam ağaçları ve zeytinlik alanlar yer alıyor. 
+İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açmaya başlıyor. Çam ormanları, yaz aylarında serin bir sığınak sunarken, sonbaharda göç eden kuşlar dağları bir geçiş noktası olarak kullanıyor. Hakim bitki türleri arasında çam ağaçları ve zeytinlik alanlar yer alıyor.
 
 Yaban hayatı da oldukça zengin. Memeliler, dağların yüksek kesimlerinde yaşamayı tercih ediyor. Kuşlar, özellikle göç mevsimlerinde dağları ziyaret ediyor. Sürüngenler ise, ılıman iklimin sunduğu avantajla dağların her köşesinde bulunabiliyor. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak için son derece önemli.
 

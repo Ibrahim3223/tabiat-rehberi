@@ -49,7 +49,7 @@ Mevsimsel özellikler açısından, Karlı Dağ'ın iklim karakteri Doğu Anadol
 
 ## Flora ve Fauna
 
-Karlı Dağ, Van'ın yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Karlı Dağ, Van'ın yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne baktığımızda, ilkbaharla birlikte dağ yamaçlarını renklendiren çiçekler ortaya çıkıyor. Alpin flora, dağların yüksek zonlarında hakimiyet kuruyor. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünerek bir görsel şölen sunuyor.
 

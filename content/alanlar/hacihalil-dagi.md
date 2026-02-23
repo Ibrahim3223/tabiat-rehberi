@@ -32,9 +32,9 @@ Kars'ın dağlık bölgesinde yer alan Hacıhalil Dağı, bölgenin coğrafi yap
 
 ## Tarihçe
 
-Kars bölgesi, tarihi boyunca çeşitli uygarlıkların etkisi altında kalmıştır. Bu bölgede, Selçuklular, Osmanlılar ve Ruslar gibi farklı medeniyetler hüküm sürmüştür. Hacıhalil Dağı da, bu tarihsel zenginliğin içinde yer alan önemli bir doğal alandır. 
+Kars bölgesi, tarihi boyunca çeşitli uygarlıkların etkisi altında kalmıştır. Bu bölgede, Selçuklular, Osmanlılar ve Ruslar gibi farklı medeniyetler hüküm sürmüştür. Hacıhalil Dağı da, bu tarihsel zenginliğin içinde yer alan önemli bir doğal alandır.
 
-Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde bulunan dağlar ve doğal alanlar, insan yerleşimlerinin ve ticaret yollarının önemli merkezleri olarak görev görmüşlerdir. Bu alanlar, yaylacılık ve hayvancılık faaliyetleri için elverişli koşullar sunmuş, ayrıca önemli ticaret yollarının güzergahında yer almıştır. 
+Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde bulunan dağlar ve doğal alanlar, insan yerleşimlerinin ve ticaret yollarının önemli merkezleri olarak görev görmüşlerdir. Bu alanlar, yaylacılık ve hayvancılık faaliyetleri için elverişli koşullar sunmuş, ayrıca önemli ticaret yollarının güzergahında yer almıştır.
 
 Kars bölgesinde yaşayan halk, yüzyıllar boyunca bu doğal alanlarla iç içe yaşamış, yaylacılık ve hayvancılıkla uğraşmış ve bu alanları ekonomik faaliyetleri için kullanmıştır. Hacıhalil Dağı da, bölgede yaşayan halkın yaşamında önemli bir yer tutmaktadır. Bu dağ, bölgenin kültürel ve ekonomik yaşamının bir parçası olarak, insanlarla doğal çevrenin uyum içinde yaşadığı bir örnek olarak görülebilir.
 

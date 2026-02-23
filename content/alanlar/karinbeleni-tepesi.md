@@ -28,7 +28,7 @@ wikidata_id: "Q31389403"
 
 # Karınbeleni Tepesi
 
-Mersin'in Akdeniz Bölgesi'nde yer alan Karınbeleni Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan ve 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Karınbeleni Tepesi, Mersin'in önemli turizm noktalarından biri olarak biliniyor. Bu tepe, ziyaretçilerine hem doğa güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Karınbeleni Tepesi, Mersin'in en yüksek noktalarından biri olarak kabul ediliyor ve buradan Mersin'in panoramik manzarasını izleme mümkün.
+ Karınbeleni Tepesi, Mersin'in önemli turizm noktalarından biri olarak biliniyor. Bu tepe, ziyaretçilerine hem doğa güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Karınbeleni Tepesi, Mersin'in en yüksek noktalarından biri olarak kabul ediliyor ve buradan Mersin'in panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karınbeleni Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar 
 
 ## Coğrafya
 
-Karınbeleni Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Karınbeleni Tepesi, Mersin'in en yüksek noktalarından biri olarak kabul ediliyor ve buradan Mersin'in panoramik manzarasını izleme mümkün. Bu tepe, doğa güzelliği ile dikkat çekiyor ve ziyaretçilerine hem doğa güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Karınbeleni Tepesi, Mersin'in önemli bir turizm noktası olarak biliniyor ve buradaki tarihi eserler, ziyaretçilerin ilgisini çekiyor. Karınbeleni Tepesi, Mersin'in iklimi ile uyumlu olarak, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava şartlarına sahip. Bu tepe, ziyaretçilerine yıl boyunca ziyaret imkanı sunuyor.
+Karınbeleni Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Karınbeleni Tepesi, Mersin'in en yüksek noktalarından biri olarak kabul ediliyor ve buradan Mersin'in panoramik manzarasını izleme mümkün. Bu tepe, doğa güzelliği ile dikkat çekiyor ve ziyaretçilerine hem doğa güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Karınbeleni Tepesi, Mersin'in önemli bir turizm noktası olarak biliniyor ve buradaki tarihi eserler, ziyaretçilerin ilgisini çekiyor. Karınbeleni Tepesi, Mersin'in iklimi ile uyumlu olarak, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava şartlarına sahip. Bu tepe, ziyaretçilerine yıl boyunca ziyaret imkanı sunuyor.
 
 ## Flora ve Fauna
 

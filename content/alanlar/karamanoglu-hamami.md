@@ -1,7 +1,7 @@
 ---
 title: "Karamanoğlu Hamamı"
 date: "2026-01-09T22:42:53.673Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -38,11 +38,11 @@ Karamanoğlu Hamamı'nın tarihi geçmişi, Karamanoğulları Beyliği dönemine
 
 ## Coğrafya
 
-Karamanoğlu Hamamı, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumunda yer alır. Bu bölge, Türkiye'nin en büyük bölgelerinden biri olarak bilinir ve geniş çayırları, ovaları ve dağlarıyla dikkat çeker. Hamam, Ermenek ilçesinin merkezinde yer alır ve ilçe merkezi, tarihi yapıları, müzeleri ve geleneksel evleri ile ziyaretçilerini bekliyor. Karamanoğlu Hamamı'nın bulunduğu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferi yaşamak hem de doğanın güzelliğini keşfetmek için ideal bir ortam sunar. Hamamın çevresi, tarihi yapılar ve geleneksel Türk mimarisinin örnekleri ile çevrilidir. Bu bölgenin iklimi, karasal iklim özellikleri taşır ve yazları sıcak, kışları soğuk geçer. Karamanoğlu Hamamı, bu coğrafi ve kültürel zenginliklerin birleştiği noktada, ziyaretçilerine benzersiz bir deneyim sunar.
+Karamanoğlu Hamamı, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumunda yer alır. Bu bölge, Türkiye'nin en büyük bölgelerinden biri olarak bilinir ve geniş çayırları, ovaları ve dağlarıyla dikkat çeker. Hamam, Ermenek ilçesinin merkezinde yer alır ve ilçe merkezi, tarihi yapıları, müzeleri ve geleneksel evleri ile ziyaretçilerini bekliyor. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferi yaşamak hem de doğanın güzelliğini keşfetmek için ideal bir ortam sunar. Hamamın çevresi, tarihi yapılar ve geleneksel Türk mimarisinin örnekleri ile çevrilidir. Bu bölgenin iklimi, karasal iklim özellikleri taşır ve yazları sıcak, kışları soğuk geçer. Karamanoğlu Hamamı, bu coğrafi ve kültürel zenginliklerin birleştiği noktada, ziyaretçilerine benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 
-Karamanoğlu Hamamı'nın bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, özellikle çam, meşe ve kayın ağaçları yaygın olarak bulunur. Ayrıca, İç Anadolu Bölgesi, birçok yaban hayvanının yaşam alanı olarak bilinir. Bu hayvanlar arasında, tavşan, tilki, çakal ve birçok kuş türü bulunur. Karamanoğlu Hamamı'nın çevresindeki yeşil alanlar, ziyaretçilere doğayı keşfetme ve yaban hayatını gözlemleme fırsatı sunar. Mevsimsel değişimlerle birlikte, bu bölgede bahar aylarında çiçekler açar ve sonbahar aylarında yapraklar renk değiştirir. Bu doğal güzellikler, Karamanoğlu Hamamı ziyaretçilerine, yılın her döneminde farklı bir atmosfer sunar.
+ Bu bölgede, özellikle çam, meşe ve kayın ağaçları yaygın olarak bulunur. Ayrıca, İç Anadolu Bölgesi, birçok yaban hayvanının yaşam alanı olarak bilinir. Bu hayvanlar arasında, tavşan, tilki, çakal ve birçok kuş türü bulunur. Karamanoğlu Hamamı'nın çevresindeki yeşil alanlar, ziyaretçilere doğayı keşfetme ve yaban hayatını gözlemleme fırsatı sunar. Mevsimsel değişimlerle birlikte, bu bölgede bahar aylarında çiçekler açar ve sonbahar aylarında yapraklar renk değiştirir. Bu doğal güzellikler, Karamanoğlu Hamamı ziyaretçilerine, yılın her döneminde farklı bir atmosfer sunar.
 
 ## Ziyaret Bilgileri
 

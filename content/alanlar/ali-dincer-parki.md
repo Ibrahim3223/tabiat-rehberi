@@ -34,7 +34,7 @@ Yenimahalle'nin kalbinde, Kentkoop'un hemen yanı başında yer alan Ali Dinçer
 
 ## Tarihçe
 
-Yenimahalle bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak hizmet vermiştir. Hitit, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuşlardır.
+Yenimahalle bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak hizmet vermiştir. Hitit, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuşlardır.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu tür alanlar, insanların doğayla etkileşim kurduğu, tarım, hayvancılık ve yaylacılık gibi faaliyetlerin yürütüldüğü mekanlar olarak görev görürler. Ayrıca, tarih boyunca ticaret yolları ve ulaşım hatları bu bölgelerden geçmektedir.
 
@@ -52,7 +52,7 @@ Ali Dinçer Parkı, Ankara'nın ekosistemine önemli katkılar sağlayan bir ye�
 
 ## Flora ve Fauna
 
-Ali Dinçer Parkı, Ankara'nın kalbinde yer alan 1200 hektarlık bir botanik bahçesi olarak, step bitki örtüsünün karakteristik özelliklerini taşıyor. İlkbahar aylarında, bozkırın renkli çiçekleri parkı bir gökkuşağı gibi süslerken, yaz aylarında kuraklığa adapte türler hakim oluyor. 
+Ali Dinçer Parkı, Ankara'nın kalbinde yer alan 1200 hektarlık bir botanik bahçesi olarak, step bitki örtüsünün karakteristik özelliklerini taşıyor. İlkbahar aylarında, bozkırın renkli çiçekleri parkı bir gökkuşağı gibi süslerken, yaz aylarında kuraklığa adapte türler hakim oluyor.
 
 Parkın bitki örtüsünde, yerel otsu türler ve çalılar baskın. Sonbaharda, göçmen kuşlar parkı ziyaret ediyor ve burada konaklıyorlar. Bu mevsimsel değişim, parkın biyolojik çeşitliliğini zenginleştiriyor.
 

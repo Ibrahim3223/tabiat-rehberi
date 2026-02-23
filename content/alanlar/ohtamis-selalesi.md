@@ -30,7 +30,7 @@ wikidata_id: "Q6003558"
 
 # Ohtamış Şelalesi
 
-Ohtamış Şelalesi, Ordu'nun Ohtamış ilçesinde bulunan ve Karadeniz Bölgesi'nin önemli doğa harikalarından biri olarak kabul edilen bir şelaledir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok bitki türüne ev sahipliği yapmaktadır. Ohtamış Şelalesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Şelalenin quanhğındaki ormanlık alan, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Bu alan, hem doğa severler hem de fotoğraf meraklıları için gerçek bir cennet olarak kabul ediliyor.
+Ohtamış Şelalesi, Ordu'nun Ohtamış ilçesinde bulunan ve Karadeniz Bölgesi'nin önemli doğa harikalarından biri olarak kabul edilen bir şelaledir. Ohtamış Şelalesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Şelalenin quanhğındaki ormanlık alan, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Bu alan, hem doğa severler hem de fotoğraf meraklıları için gerçek bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Yuh Baba Türbesi"
 date: "2026-01-10T07:02:43.290Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390890"
 
 # Yuh Baba Türbesi
 
-Yuh Baba Türbesi, Meram'da bulunan ve tarihi bir figura sahip olan bir türbe ve plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul edilir. Bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbeder. Türbenin tarihi geçmişi, bölgenin kültürel zenginliğini ortaya koyarken, plajın doğal güzelliği ziyaretçilere huzur dolu anlar sunar. Yuh Baba Türbesi, Meram'ın önemli bir turizm merkezi olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir.
+Yuh Baba Türbesi, Meram'da bulunan ve tarihi bir figura sahip olan bir türbe ve plajdır. Bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbeder. Türbenin tarihi geçmişi, bölgenin kültürel zenginliğini ortaya koyarken, plajın doğal güzelliği ziyaretçilere huzur dolu anlar sunar. Yuh Baba Türbesi, Meram'ın önemli bir turizm merkezi olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yuh Baba Türbesi'nin tarihi geçmişi, Meram'ın kültürel zenginliğini ortay
 
 ## Coğrafya
 
-Yuh Baba Türbesi, Meram'da bulunan bir türbe ve plaj olarak Coğrafi olarak İç Anadolu Bölgesi'nde yer alır. Bu bölge, Konya ilinin önemli turizm merkezlerinden biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Türbe ve plaj, doğal güzelliği ile dikkat çeker ve ziyaretçilere huzur dolu anlar sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçer. Bu coğrafi yapı, bölgenin florası ve faunasını etkiler ve ziyaretçilere çeşitli doğal güzellikler sunar. Yuh Baba Türbesi ve plajı, Meram'ın önemli bir turizm merkezi olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir.
+Yuh Baba Türbesi, Meram'da bulunan bir türbe ve plaj olarak Coğrafi olarak İç Anadolu Bölgesi'nde yer alır. Bu bölge, Konya ilinin önemli turizm merkezlerinden biri olarak bilinir. Türbe ve plaj, doğal güzelliği ile dikkat çeker ve ziyaretçilere huzur dolu anlar sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçer. Bu coğrafi yapı, bölgenin florası ve faunasını etkiler ve ziyaretçilere çeşitli doğal güzellikler sunar. Yuh Baba Türbesi ve plajı, Meram'ın önemli bir turizm merkezi olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Yuh Baba Türbesi ve plajı, doğal güzelliği ile dikkat çeker ve ziyaretçil
 
 ## Ziyaret Bilgileri
 
-Yuh Baba Türbesi ve plajı, ziyaretçiler için çeşitli olanaklar sunar. Türbe, histórik bir figura ait olduğu için ziyaretçiler tarafından büyük bir ilgi görmektedir. Plaj, doğal güzelliği ile dikkat çeker ve ziyaretçilere huzur dolu anlar sunar. Ziyaretçiler, bölgenin florası ve faunasınılemek için çeşitli fırsatlar bulabilir. Yuh Baba Türbesi ve plajı, Meram'ın önemli bir turizm merkezi olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir. Ziyaretçiler, türbeyi ve plajı gezebilir, bölgenin florası ve faunasınıleyebilir ve huzur dolu anlar yaşayabilir.
+Yuh Baba Türbesi ve plajı, ziyaretçiler için çeşitli olanaklar sunar. Türbe, tarihi bir figura ait olduğu için ziyaretçiler tarafından büyük bir ilgi görmektedir. Plaj, doğal güzelliği ile dikkat çeker ve ziyaretçilere huzur dolu anlar sunar. Ziyaretçiler, bölgenin florası ve faunasınılemek için çeşitli fırsatlar bulabilir. Yuh Baba Türbesi ve plajı, Meram'ın önemli bir turizm merkezi olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir. Ziyaretçiler, türbeyi ve plajı gezebilir, bölgenin florası ve faunasınıleyebilir ve huzur dolu anlar yaşayabilir.
 
 ## İlginç Bilgiler
 
 - Yuh Baba Türbesi, Meram'ın önemli bir turizm merkezi olarak bilinir.
-- Türbe, histórik bir figura ait olduğu için ziyaretçiler tarafından büyük bir ilgi görmektedir.
+- Türbe, tarihi bir figura ait olduğu için ziyaretçiler tarafından büyük bir ilgi görmektedir.
 - Plaj, doğal güzelliği ile dikkat çeker ve ziyaretçilere huzur dolu anlar sunar.
 - Bölgenin florası ve faunası, İç Anadolu Bölgesi'nin karakteristik bitkileri ve hayvanları ile temsil edilir.
 - Ziyaretçiler, türbeyi ve plajı gezebilir, bölgenin florası ve faunasınıleyebilir ve huzur dolu anlar yaşayabilir.

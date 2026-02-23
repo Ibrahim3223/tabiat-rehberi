@@ -28,7 +28,7 @@ wikidata_id: "Q31526205"
 
 # Dedesivrisi Tepe
 
-Konya'nın históri ve kültürel zenginliklerini keşfetmek isteyenler için Dedesivrisi Tepe, gizli bir hazine gibi bekliyor. Bu dağ, Türkiye'nin merkezi bölgelerinden biri olan Konya ilinde yer alıyor. Doğal güzellikleri ve tarihi önemi ile dikkat çeken Dedesivrisi Tepe, ziyaretçilerini Konya'nın eşsiz panoramik manzaralarına davet ediyor. Konya'nın coğrafi çeşitliliğiçinde önemli bir yer tutan Dedesivrisi Tepe, şehrin tarihi ve doğal zenginliklerini keşfetmek isteyenler için bir başlangıç noktası sunuyor.
+Konya'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için Dedesivrisi Tepe, gizli bir hazine gibi bekliyor. Bu dağ, Türkiye'nin merkezi bölgelerinden biri olan Konya ilinde yer alıyor. Doğal güzellikleri ve tarihi önemi ile dikkat çeken Dedesivrisi Tepe, ziyaretçilerini Konya'nın eşsiz panoramik manzaralarına davet ediyor. Konya'nın coğrafi çeşitliliğiçinde önemli bir yer tutan Dedesivrisi Tepe, şehrin tarihi ve doğal zenginliklerini keşfetmek isteyenler için bir başlangıç noktası sunuyor.
 
 ## Tarihçe
 
@@ -52,7 +52,7 @@ Yıl boyunca Konya bölgesinde hüküm süren karasal iklim, Dedesivrisi Tepe'ni
 
 Dedesivrisi Tepe, Konya'nın step ve bozkır ekosistemine ev sahipliği yapan dağlık bir bölgedir. 1200 hektarlık bu dağlık alan, yükseklik zonlarına göre değişen flora ve fauna çeşitliliğine sahiptir. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle kaplanırken, sonbaharın gelmesiyle birlikte göçmen kuşlar bu alanı ziyaret eder.
 
-Bitki örtüsünü step ve bozkır türleri oluşturur, kuraklığa adapte olmuş bitkiler hakimdir. Bu bitkiler, suyun az olduğu bu bölgede hayatta kalmak için özel uyum mekanizmaları geliştirmişlerdir. Dağın yüksek kesimlerinde, alpin flora çeşitliliği dikkat çeker. 
+Bitki örtüsünü step ve bozkır türleri oluşturur, kuraklığa adapte olmuş bitkiler hakimdir. Bu bitkiler, suyun az olduğu bu bölgede hayatta kalmak için özel uyum mekanizmaları geliştirmişlerdir. Dağın yüksek kesimlerinde, alpin flora çeşitliliği dikkat çeker.
 
 Yaban hayatı da zenginlik gösterir; dağ keçileri, tilkiler ve çeşitli kuş türleri bu bölgenin sakinleridir. Sürüngenler de bu ekosistemin bir parçasını oluşturur. Bu canlılar, dağlık alanın sunduğu yaşam alanlarına uyum sağlamışlardır. Ekolojik değerini koruma altına almak önemlidir, çünkü bu dağlık alan, bölgenin ekolojik dengesini sağlar ve biyolojik çeşitliliğin korunmasına katkıda bulunur.
 

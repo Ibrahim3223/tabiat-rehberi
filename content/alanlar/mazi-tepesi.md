@@ -28,7 +28,7 @@ wikidata_id: "Q31548235"
 
 # Mazı Tepesi
 
-Mazı Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Siirt'te yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklüğü ile yaklaşık 200 futbol sahası büyüklüğünde. Bu tepenin etrafında bulunan yeşil alanlar, ziyaretçilerin doğa ile baş başa kalmasına olanak sağlıyor. Siirt'in merkezine yakınlığı ile birlikte, Mazı Tepesi, hem şehirden uzaklaşmak hem de doğayı keşfetmek isteyenler için ideal bir destinasyon.
+Mazı Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Siirt'te yer alan bir tepe. Bu tepenin etrafında bulunan yeşil alanlar, ziyaretçilerin doğa ile baş başa kalmasına olanak sağlıyor. Siirt'in merkezine yakınlığı ile birlikte, Mazı Tepesi, hem şehirden uzaklaşmak hem de doğayı keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

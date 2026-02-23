@@ -29,7 +29,7 @@ wikidata_id: "Q134728339"
 
 # Bin Tepeler Tümülüsü 20
 
-Bin Tepeler Tümülüsü 20, Ege Bölgesi'nin önemli tarihi noktalarından biri olarak Manisa'nın Salihli ilçesinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine hem tarihi bir yolculuk hem de doğayla iç içe bir deneyim sunuyor. Bin Tepeler Tümülüsü 20, aynı zamanda zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Ziyaretçiler, bu eşsiz doğa ve tarihin birleştiği noktada, huzur ve bilgi dolu bir gün geçirebiliyor.
+Bin Tepeler Tümülüsü 20, Ege Bölgesi'nin önemli tarihi noktalarından biri olarak Manisa'nın Salihli ilçesinde yer alıyor. Bin Tepeler Tümülüsü 20, aynı zamanda zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Ziyaretçiler, bu eşsiz doğa ve tarihin birleştiği noktada, huzur ve bilgi dolu bir gün geçirebiliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 20'nin tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 20, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin coğrafi güzelliklerinin birleştiği noktada yer alıyor. Bu bölge, 140 hektarlık geniş bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, Ege Denizi'ne yakın bir konumda bulunan Bin Tepeler Tümülüsü 20, iklim olarak ılıman ve nemli bir bölgede yer alıyor. Bahar ve yaz aylarında, bu bölgeye ziyaretçiler, çeşitli bitki türleri ve canlılarla karşılaşabiliyor. Coğrafi konumu itibariyle, Bin Tepeler Tümülüsü 20, ziyaretçilere hem tarihi bir yolculuk hem de doğayla iç içe bir deneyim sunuyor.
+Bin Tepeler Tümülüsü 20, Manisa'nın Salihli ilçesinde, Ege Bölgesi'nin coğrafi güzelliklerinin birleştiği noktada yer alıyor. Coğrafi olarak, Ege Denizi'ne yakın bir konumda bulunan Bin Tepeler Tümülüsü 20, iklim olarak ılıman ve nemli bir bölgede yer alıyor. Bahar ve yaz aylarında, bu bölgeye ziyaretçiler, çeşitli bitki türleri ve canlılarla karşılaşabiliyor. Coğrafi konumu itibariyle, Bin Tepeler Tümülüsü 20, ziyaretçilere hem tarihi bir yolculuk hem de doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

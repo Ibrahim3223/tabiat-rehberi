@@ -23,7 +23,7 @@ wikidata_id: "Q108228042"
 
 # Kastamonu-Ilgaz dagi
 
-Kastamonu-Ilgaz dagi milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık bir alanı kaplayan bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Ilgaz dagi, Kastamonu'nun doğal mirasının önemli bir parçası olarak kabul ediliyor ve her yıl binlerce ziyaretçi buraya geliyor. Doğal güzelliği, zengin florası ve faunası ile Ilgaz dagi, ziyaretçilerini büyülüyor.
+Kastamonu-Ilgaz dagi milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Ilgaz dagi, Kastamonu'nun doğal mirasının önemli bir parçası olarak kabul ediliyor ve her yıl binlerce ziyaretçi buraya geliyor. Doğal güzelliği, zengin florası ve faunası ile Ilgaz dagi, ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

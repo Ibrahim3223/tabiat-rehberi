@@ -22,7 +22,7 @@ wikidata_id: "Q108227097"
 
 # Hatilla Vadisi
 
-Hatilla Vadisi, İç Anadolu Bölgesi'nin görkemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Vadide, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu eşsiz doğal alan, hem doğa severler hem de macera arayanlar için ideal bir destinasyon olarak görünüyor. Hatilla Vadisi'nin büyüleyici manzaraları ve zengin ekosistemi, ziyaretçilerini büyüleyecek bir deneyim vaat ediyor.
+Hatilla Vadisi, İç Anadolu Bölgesi'nin görkemli doğal güzelliklerinden biri olarak dikkat çekiyor. Vadide, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu eşsiz doğal alan, hem doğa severler hem de macera arayanlar için ideal bir destinasyon olarak görünüyor. Hatilla Vadisi'nin büyüleyici manzaraları ve zengin ekosistemi, ziyaretçilerini büyüleyecek bir deneyim vaat ediyor.
 
 ## Tarihçe
 

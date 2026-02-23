@@ -1,7 +1,7 @@
 ---
 title: "Nalıncılar Hamamı"
 date: "2026-01-09T23:04:53.796Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738810"
 
 # Nalıncılar Hamamı
 
-Nalıncılar Hamamı, Osmangazi, Bursa'da yer alan ve Marmara Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. Bu bölge, 140 hektarlık bir alanı kaplayan geniş ve yeşillik bir alana sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir hareket alanı sunmaktadır. Nalıncılar Hamamı, hem doğa severler hem de plajsevenler için ideal bir destinasyondur. Burada, denizin serinliği ve güneşin sıcaklığını bir arada deneyimleyebilirsiniz.
+Nalıncılar Hamamı, Osmangazi, Bursa'da yer alan ve Marmara Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. Bu bölge, 140 hektarlık bir alanı kaplayan geniş ve yeşillik bir alana sahiptir. Nalıncılar Hamamı, hem doğa severler hem de plajsevenler için ideal bir destinasyondur. Burada, denizin serinliği ve güneşin sıcaklığını bir arada deneyimleyebilirsiniz.
 
 ## Tarihçe
 

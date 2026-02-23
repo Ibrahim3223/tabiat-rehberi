@@ -1,7 +1,7 @@
 ---
 title: "Denizli-Cal-Civril-Fistikcami"
 date: "2026-01-09T20:13:05.228Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Denizli"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228526"
 
 # Denizli-Cal-Civril-Fistikcami
 
-Denizli-Cal-Civril-Fistikcami milli parkı, Ege Bölgesi'nin en özel doğa alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Burada, doğa severler için birçok fırsat bulunur; kuş gözlemciliği, trekking ve piknik gibi aktiviteler, bu güzel ortamda keyifli anlar geçirmenizi sağlar. Milli parkın sunduğu bu olanaklar, ziyaretçilerin doğayla iç içe olmasını sağlar ve bu nedenle her yıl birçok ziyaretçi tarafından tercih edilmektedir.
+Denizli-Cal-Civril-Fistikcami milli parkı, Ege Bölgesi'nin en özel doğa alanlarından biridir. Burada, doğa severler için birçok fırsat bulunur; kuş gözlemciliği, trekking ve piknik gibi aktiviteler, bu güzel ortamda keyifli anlar geçirmenizi sağlar. Milli parkın sunduğu bu olanaklar, ziyaretçilerin doğayla iç içe olmasını sağlar ve bu nedenle her yıl birçok ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 

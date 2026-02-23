@@ -1,7 +1,7 @@
 ---
 title: "Efes Varius Hamamı"
 date: "2026-01-09T22:12:30.275Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q14540869"
 
 # Efes Varius Hamamı
 
-Efes Varius Hamamı, Selçuk ilçesinde, İzmir'in merkezine uzun bir mesafe uzaklıkta yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunar. Bu özel yer, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekmektedir. Efes Varius Hamamı, Ege Bölgesi'nin en önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir.
+Efes Varius Hamamı, Selçuk ilçesinde, İzmir'in merkezine uzun bir mesafe uzaklıkta yer alan bir tarihi ve doğal güzellik alanıdır. Bu özel yer, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekmektedir. Efes Varius Hamamı, Ege Bölgesi'nin en önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 

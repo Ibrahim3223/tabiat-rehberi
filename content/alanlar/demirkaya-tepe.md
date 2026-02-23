@@ -28,7 +28,7 @@ wikidata_id: "Q31387540"
 
 # Demirkaya Tepe
 
-Demirkaya Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleri ile karşılar. Bu tepe, aynı zamanda bölge tarihini öğrenmek isteyenler için önemli bir merkez. Demirkaya Tepe'nin eteklerinde yer alan köyler, ziyaretçilere yerel yaşamı tanıma fırsatı sunarken, tepe üzerindeki manzaralar ise büyüleyici.
+Demirkaya Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Bu tepe, aynı zamanda bölge tarihini öğrenmek isteyenler için önemli bir merkez. Demirkaya Tepe'nin eteklerinde yer alan köyler, ziyaretçilere yerel yaşamı tanıma fırsatı sunarken, tepe üzerindeki manzaralar ise büyüleyici.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Demirkaya Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Demirkaya Tepe, Çanakkale'nin coğrafi yapısında önemli bir yere sahip. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve tepe, eteklerinde yer alan köylerle beraber bir bütün oluşturur. Tepe üzerindeki manzaralar, ziyaretçilere Marmara Bölgesi'nin güzelliklerini gösterirken, çevresindeki ormanlar ve doğa güzellikleri, Demirkaya Tepe'nin ziyaretçilerini doğa ile baş başa bırakıyor. Bu tepe, aynı zamanda iklimi nedeniyle dört mevsim ziyaret edilebilir ve her mevsim, ziyaretçilere farklı güzellikler sunar. Demirkaya Tepe'nin coğrafi konumu, ziyaretçilere bölgeyi keşfetme fırsatı sunarken, tepe üzerindeki yürüyüş yolları ve manzaralar, ziyaretçileri doğa ile baş başa bırakıyor.
+Demirkaya Tepe, Çanakkale'nin coğrafi yapısında önemli bir yere sahip. Tepe üzerindeki manzaralar, ziyaretçilere Marmara Bölgesi'nin güzelliklerini gösterirken, çevresindeki ormanlar ve doğa güzellikleri, Demirkaya Tepe'nin ziyaretçilerini doğa ile baş başa bırakıyor. Bu tepe, aynı zamanda iklimi nedeniyle dört mevsim ziyaret edilebilir ve her mevsim, ziyaretçilere farklı güzellikler sunar. Demirkaya Tepe'nin coğrafi konumu, ziyaretçilere bölgeyi keşfetme fırsatı sunarken, tepe üzerindeki yürüyüş yolları ve manzaralar, ziyaretçileri doğa ile baş başa bırakıyor.
 
 ## Flora ve Fauna
 

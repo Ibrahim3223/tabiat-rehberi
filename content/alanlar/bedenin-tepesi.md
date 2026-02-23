@@ -28,11 +28,11 @@ wikidata_id: "Q31388265"
 
 # Bedenin Tepesi
 
-Bedenin Tepesi, Kars ilinin doğal güzellikleri arasında önemli bir yere sahip. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Doğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için ideal bir gözlem noktası olan Bedenin Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. Burada, hem doğal güzellikleri hem de coğrafi özellikleri bir arada deneyimleme mümkün.
+Bedenin Tepesi, Kars ilinin doğal güzellikleri arasında önemli bir yere sahip. Doğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için ideal bir gözlem noktası olan Bedenin Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. Burada, hem doğal güzellikleri hem de coğrafi özellikleri bir arada deneyimleme mümkün.
 
 ## Tarihçe
 
-Bedenin Tepesi'nin tarihi geçmişi, Kars ilinin histórik geçmişine paralel olarak şekillenmiştir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin etkisinde kalmıştır. Tarihi olaylar ve doğal oluşumlar, Bedenin Tepesi'nin bugünkü görünümünü şekillendirmiştir. Bu tepe, Kars'ın coğrafi ve kültürel kimliğinin önemli bir parçasıdır. Bedenin Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte bir gezi deneyimi sunuyor.
+Bedenin Tepesi'nin tarihi geçmişi, Kars ilinin tarihi geçmişine paralel olarak şekillenmiştir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin etkisinde kalmıştır. Tarihi olaylar ve doğal oluşumlar, Bedenin Tepesi'nin bugünkü görünümünü şekillendirmiştir. Bu tepe, Kars'ın coğrafi ve kültürel kimliğinin önemli bir parçasıdır. Bedenin Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte bir gezi deneyimi sunuyor.
 
 ## Coğrafya
 
@@ -49,7 +49,7 @@ Bedenin Tepesi'ni ziyaret etmek, Kars ilinin doğal güzelliklerini deneyimlemek
 ## İlginç Bilgiler
 
 - Bedenin Tepesi, Kars ilinin en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Bedenin Tepesi, ziyaretçilerine benzersiz bir manzara sunuyor.
 - Bu tepe, Kars ilinin coğrafi kimliğinin önemli bir parçasıdır.
 - Bedenin Tepesi, doğal güzellikleri ve fauna çeşitliliğiyle birlikte, ziyaretçilerine geniş bir deneyim sunuyor.

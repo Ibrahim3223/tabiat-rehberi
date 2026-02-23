@@ -28,7 +28,7 @@ wikidata_id: "Q32210227"
 
 # Kömürlübaşı Tepesi
 
-Kömürlübaşı Tepesi, Muğla'nın Ege Bölgesi'nde bulunan önemli bir doğal güzellik. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan. Kömürlübaşı Tepesi, yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Kömürlübaşı Tepesi, hem doğa severlerin hem de macera arayışında olanların ilgisini çekiyor. Bu tepe, Muğla'nın önemli turizm noktalarından biri olarak karşımıza çıkıyor. Kömürlübaşı Tepesi'ni ziyaret edenler, doğanın güzelliğini ve bölgenin zengin tarihini yakından keşfedebilecek.
+Kömürlübaşı Tepesi, Muğla'nın Ege Bölgesi'nde bulunan önemli bir doğal güzellik. Kömürlübaşı Tepesi, yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Kömürlübaşı Tepesi, hem doğa severlerin hem de macera arayışında olanların ilgisini çekiyor. Bu tepe, Muğla'nın önemli turizm noktalarından biri olarak karşımıza çıkıyor. Kömürlübaşı Tepesi'ni ziyaret edenler, doğanın güzelliğini ve bölgenin zengin tarihini yakından keşfedebilecek.
 
 ## Tarihçe
 

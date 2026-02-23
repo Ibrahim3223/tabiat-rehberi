@@ -1,7 +1,7 @@
 ---
 title: "Rum Mehmet Paşa Türbesi, Tire"
 date: "2026-01-10T05:43:53.285Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582189"
 
 # Rum Mehmet Paşa Türbesi, Tire
 
-Rum Mehmet Paşa Türbesi, Tire'nin merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir yapıdır. 140 hektarlık bir alan içinde bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplıyor. Tarihi ve kültürel zenginlikleri ile ön plana çıkan bu mekan, hem Tire'nin hem de Ege Bölgesi'nin önemli ziyaret noktalarından biri olarak biliniyor. Tire, İzmirden uzun bir mesafe uzaklıkta yer alıyor ve tarihi geçmişi ile birlikte doğal güzellikleri de sunuyor. Rum Mehmet Paşa Türbesi, bu bölgede bulunan önemli tarihi yapılardan biri olarak ziyaretçilerini ağırlıyor.
+Rum Mehmet Paşa Türbesi, Tire'nin merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir yapıdır. Tarihi ve kültürel zenginlikleri ile ön plana çıkan bu mekan, hem Tire'nin hem de Ege Bölgesi'nin önemli ziyaret noktalarından biri olarak biliniyor. Tire, İzmirden uzun bir mesafe uzaklıkta yer alıyor ve tarihi geçmişi ile birlikte doğal güzellikleri de sunuyor. Rum Mehmet Paşa Türbesi, bu bölgede bulunan önemli tarihi yapılardan biri olarak ziyaretçilerini ağırlıyor.
 
 ## Tarihçe
 

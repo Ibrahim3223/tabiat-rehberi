@@ -23,7 +23,7 @@ wikidata_id: "Q108227066"
 
 # Kökez
 
-Kökez milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Bu bölgede, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkün. Kökez milli parkı, hem doğa severler hem de tarih meraklıları için önemli bir gezi noktası.
+Kökez milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu bölgede, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkün. Kökez milli parkı, hem doğa severler hem de tarih meraklıları için önemli bir gezi noktası.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Kökez milli parkı, yüzyıllar boyunca bölgenin doğal güzelliklerini korumu
 
 ## Coğrafya
 
-Kökez milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, yüksek platolardan oluşuyor ve doğal güzellikleri, ziyaretçilere benzersiz bir deneyim sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Kökez milli parkı, bölgenin iklimine uygun olarak diseñlanmış ve ziyaretçilere, doğal güzelliklerin yanı sıra, bölgenin coğrafi özelliklerini de keşfetme fırsatı sunuyor. Bölgenin coğrafi özellikleri, doğal güzelliklerin korunmasına da yardımcı olmuş ve Kökez'i, Türkiye'nin doğal mirasının önemli bir parçası haline getirmiştir. Kökez milli parkı, ziyaretçilere, doğal güzelliklerin yanı sıra, bölgenin coğrafi özelliklerini de keşfetme fırsatı sunuyor.
+Kökez milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, yüksek platolardan oluşuyor ve doğal güzellikleri, ziyaretçilere benzersiz bir deneyim sunuyor. Kökez milli parkı, bölgenin iklimine uygun olarak diseñlanmış ve ziyaretçilere, doğal güzelliklerin yanı sıra, bölgenin coğrafi özelliklerini de keşfetme fırsatı sunuyor. Bölgenin coğrafi özellikleri, doğal güzelliklerin korunmasına da yardımcı olmuş ve Kökez'i, Türkiye'nin doğal mirasının önemli bir parçası haline getirmiştir. Kökez milli parkı, ziyaretçilere, doğal güzelliklerin yanı sıra, bölgenin coğrafi özelliklerini de keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

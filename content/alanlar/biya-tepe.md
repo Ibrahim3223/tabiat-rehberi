@@ -32,7 +32,7 @@ Siirt'in dağlık bölgesinde, tarihi ve kültürel zenginlikler arasında gizli
 
 ## Tarihçe
 
-Biya Tepe, Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine ev sahipliği yapan Siirt ilinin sınırları içinde yer alıyor. Bu bölge, tarihin sâu sayfalarında çeşitli uygarlıkların izlerini taşıyor. Hitit, Asur, Pers ve Roma gibi medeniyetler, bölgenin stratejik konumu nedeniyle zaman içinde burada hüküm sürmüşlerdir.
+Biya Tepe, Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine ev sahipliği yapan Siirt ilinin sınırları içinde yer alıyor. Bu bölge, tarihin derin sayfalarında çeşitli uygarlıkların izlerini taşıyor. Hitit, Asur, Pers ve Roma gibi medeniyetler, bölgenin stratejik konumu nedeniyle zaman içinde burada hüküm sürmüşlerdir.
 
 Doğal güzelliği ve coğrafi konumuyla dikkat çeken Biya Tepe, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturuyor. Ülkemizde benzer doğal alanlar, tarihin her döneminde insanların yaşamlarında önemli roller oynamışlardır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin insanlarla olan bağlantısını güçlendirerek, kültürel ve ekonomik açıdan zenginleştirmiştir.
 

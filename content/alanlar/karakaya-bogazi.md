@@ -46,11 +46,11 @@ Doğal bir set olarak işlev gören kanyonun jeolojik yapısı, bölgenin tarihi
 
 Mevsimsel değişimler, Karakaya Boğazı'nın iklim karakterini şekillendiriyor. Kışın karla kaplı dağlar, yazın yeşilin farklı tonlarını sergileyen ormanlar, bu bölgenin mevsimsel güzelliğini ortaya koyuyor. Hava durumu, bölgenin coğrafi yapısını da etkiliyor; dağların yüksekliği, hava akımlarını yönlendirerek micro-iklimler oluşmasına neden oluyor.
 
-Karakaya Boğazı, çevresindeki ekosistemi de etkiliyor. Komşu ormanlar ve su kaynakları, bu kanyonun bir parçası olarak düşünülürse, bölgenin doğal dengesini koruması gerekiyor. Monaco'nun yarısı kadar büyük olmayan bu küçük alan, Kastamonu'nun doğa harikalarından biri olarak kabul ediliyor ve korunması necessário görülüyor.
+Karakaya Boğazı, çevresindeki ekosistemi de etkiliyor. Komşu ormanlar ve su kaynakları, bu kanyonun bir parçası olarak düşünülürse, bölgenin doğal dengesini koruması gerekiyor. Monaco'nun yarısı kadar büyük olmayan bu küçük alan, Kastamonu'nun doğa harikalarından biri olarak kabul ediliyor ve korunması gerekli görülüyor.
 
 ## Flora ve Fauna
 
-Karakaya Boğazı, Kastamonu'nun nemli ikliminin hakim olduğu bir kanyon olarak, gür ormanlarla kaplı ve yüksek biyoçeşitlilik gösteren bir bölgedir. 
+Karakaya Boğazı, Kastamonu'nun nemli ikliminin hakim olduğu bir kanyon olarak, gür ormanlarla kaplı ve yüksek biyoçeşitlilik gösteren bir bölgedir.
 
 Bitki örtüsünün hakim türleri arasında geniş yapraklı ağaçlar ve iğne yapraklılar bulunur. İlkbaharla birlikte, çiçek açan ağaçlar ve çalılar bölgeye renk katar. Sonbaharda, orman zemininde yaprak dökümü başlar ve bu dönemde göç eden kuşlar bu bölgeden geçer.
 

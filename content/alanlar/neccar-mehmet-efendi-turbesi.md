@@ -1,7 +1,7 @@
 ---
 title: "Neccar Mehmet Efendi Türbesi"
 date: "2026-01-10T07:28:26.514Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391085"
 
 # Neccar Mehmet Efendi Türbesi
 
-Neccar Mehmet Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerinin birleştiği önemli bir noktadır. Fatih ilçesinde yer alan bu türbe, aynı zamanda bir plaj olarak da hizmet vermektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi tarihi ve doğal güzelliklerle dolu bir bölgedir. Bu alan, hem dini hem de turistik amaçlarla ziyaret edilebilir. İstanbul'un kalbinde, Marmara Denizi'nin kıyısında yer alan Neccar Mehmet Efendi Türbesi, şehrin karmaşasından uzaklaşmak isteyenler için bir kaçış noktası olarak görülebilir. Tarihi ve doğal güzellikleri bir arada sunan bu bölge, ziyaretçilerine unutulmaz bir deneyim sunar.
+Neccar Mehmet Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerinin birleştiği önemli bir noktadır. Fatih ilçesinde yer alan bu türbe, aynı zamanda bir plaj olarak da hizmet vermektedir. Bu alan, hem dini hem de turistik amaçlarla ziyaret edilebilir. İstanbul'un kalbinde, Marmara Denizi'nin kıyısında yer alan Neccar Mehmet Efendi Türbesi, şehrin karmaşasından uzaklaşmak isteyenler için bir kaçış noktası olarak görülebilir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Neccar Mehmet Efendi Türbesi, tarihi geçmişiyle dikkat çeker. İstanbul'un f
 
 ## Coğrafya
 
-Neccar Mehmet Efendi Türbesi, Marmara Denizi'nin kıyısında, Fatih ilçesinde yer alır. Çevresi tarihi ve doğal güzelliklerle dolu olan bu bölge, İstanbul'un kalbinde bir kaçış noktası olarak görülebilir. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alana sahiptir ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, deniz kenarında yer aldığı için, deniz suyu ve hava koşullarıyla birlikte, ziyaretçilere çeşitli iklim koşulları sunar. İstanbul'un coğrafi konumu nedeniyle, bu bölge de dört mevsimi yaşayan bir bölgedir. Kış aylarında serin ve yağmurlu, yaz aylarında ise sıcak ve güneşli bir hava hüküm sürer. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Deniz kenarında yer alması nedeniyle, bu bölgede deniz canlıları da oldukça fazla bulunur.
+Neccar Mehmet Efendi Türbesi, Marmara Denizi'nin kıyısında, Fatih ilçesinde yer alır. Çevresi tarihi ve doğal güzelliklerle dolu olan bu bölge, İstanbul'un kalbinde bir kaçış noktası olarak görülebilir. Bu bölge, deniz kenarında yer aldığı için, deniz suyu ve hava koşullarıyla birlikte, ziyaretçilere çeşitli iklim koşulları sunar. İstanbul'un coğrafi konumu nedeniyle, bu bölge de dört mevsimi yaşayan bir bölgedir. Kış aylarında serin ve yağmurlu, yaz aylarında ise sıcak ve güneşli bir hava hüküm sürer. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Deniz kenarında yer alması nedeniyle, bu bölgede deniz canlıları da oldukça fazla bulunur.
 
 ## Flora ve Fauna
 
-Neccar Mehmet Efendi Türbesi ve çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, mevsimsel değişimlerle birlikte farklı bitki türleri yetişir. İlkbahar ve yaz aylarında, bölgede çiçek açan bitkiler ve yeşillikler hakimdir. Sonbahar ve kış aylarında ise, bölgede daha çok yaprak döken ağaçlar ve soğuk hava koşullarına adapte olmuş bitkiler bulunur. Bu bölgede, deniz canlıları da oldukça fazla bulunur. Marmara Denizi'nin kıyısında yer alması nedeniyle, bu bölgede balık, midye, istiridye gibi deniz ürünleri bulunur. Ayrıca, bu bölgede kuş türleri de oldukça fazla bulunur. Kuşların göç yolları üzerinde yer alan bu bölge, kuş gözlemcileri için önemli bir noktadır.
+ Bu bölgede, mevsimsel değişimlerle birlikte farklı bitki türleri yetişir. İlkbahar ve yaz aylarında, bölgede çiçek açan bitkiler ve yeşillikler hakimdir. Sonbahar ve kış aylarında ise, bölgede daha çok yaprak döken ağaçlar ve soğuk hava koşullarına adapte olmuş bitkiler bulunur. Bu bölgede, deniz canlıları da oldukça fazla bulunur. Marmara Denizi'nin kıyısında yer alması nedeniyle, bu bölgede balık, midye, istiridye gibi deniz ürünleri bulunur. Ayrıca, bu bölgede kuş türleri de oldukça fazla bulunur. Kuşların göç yolları üzerinde yer alan bu bölge, kuş gözlemcileri için önemli bir noktadır.
 
 ## Ziyaret Bilgileri
 

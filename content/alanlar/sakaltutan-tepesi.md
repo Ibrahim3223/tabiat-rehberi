@@ -28,7 +28,7 @@ wikidata_id: "Q31390041"
 
 # Sakaltutan Tepesi
 
-Sakaltutan Tepesi, Ankara'nın içindedir ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyen bir manzaraya sahiptir. Sakaltutan Tepesi, doğa severler için bir cennet gibi ve buradaki yürüyüş yolları, manzaralı noktalara ulaşmak için idealdir. Tepenin eteklerinde bulunan köyler, ziyaretçilere yerel lezzetler sunar ve burada geçirilen zaman, unutulmaz anılar bırakır.
+Sakaltutan Tepesi, Ankara'nın içindedir ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Sakaltutan Tepesi, doğa severler için bir cennet gibi ve buradaki yürüyüş yolları, manzaralı noktalara ulaşmak için idealdir. Tepenin eteklerinde bulunan köyler, ziyaretçilere yerel lezzetler sunar ve burada geçirilen zaman, unutulmaz anılar bırakır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31552087"
 
 # Kelakızyarı Tepesi
 
-Kelakızyarı Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği nokta olarak bilinir. Güneydoğu Anadolu Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Kelakızyarı Tepesi, Mardin'in coğrafi ve tarihi zenginliklerini bir arada sunar. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrar. Ziyaretçiler, bu tepeyi ziyaret ederek, hem Mardin'in tarihi geçmişi hakkında bilgi sahibi olabilir, hem de doğanın güzelliğini keşfedebilirler.
+Kelakızyarı Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği nokta olarak bilinir. Güneydoğu Anadolu Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Kelakızyarı Tepesi, Mardin'in coğrafi ve tarihi zenginliklerini bir arada sunar. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrar. Ziyaretçiler, bu tepeyi ziyaret ederek, hem Mardin'in tarihi geçmişi hakkında bilgi sahibi olabilir, hem de doğanın güzelliğini keşfedebilirler.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Kelakızyarı Tepesi, tarihi geçmişi ile dikkat çeker. Bu tepe, yüzyıllar b
 
 ## Coğrafya
 
-Kelakızyarı Tepesi, Mardin'in coğrafi özelliklerini yansıtan bir bölgedir. Tepenin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Tepenin eteklerinde, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesini sağlar. Kelakızyarı Tepesi, Mardin'in coğrafi zenginliklerini bir araya getiren önemli bir noktadır. Bu tepenin coğrafyası, ziyaretçileri doğanın güzelliği ile baş başa bırakır ve Mardin'in doğal güzelliklerini keşfetme fırsatı sunar. Tepenin coğrafi özellikleri, ziyaretçilere bu bölgenin güzelliğini ve zenginliğini gösterir.
+Kelakızyarı Tepesi, Mardin'in coğrafi özelliklerini yansıtan bir bölgedir. Bu bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Tepenin eteklerinde, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesini sağlar. Kelakızyarı Tepesi, Mardin'in coğrafi zenginliklerini bir araya getiren önemli bir noktadır. Bu tepenin coğrafyası, ziyaretçileri doğanın güzelliği ile baş başa bırakır ve Mardin'in doğal güzelliklerini keşfetme fırsatı sunar. Tepenin coğrafi özellikleri, ziyaretçilere bu bölgenin güzelliğini ve zenginliğini gösterir.
 
 ## Flora ve Fauna
 
-Kelakızyarı Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgenin flora ve faunası, Mardin'in coğrafi ve ekolojik özelliklerini yansıtır. Tepenin eteklerinde, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesini sağlar. Bu bölgenin fauna zenginliği, ziyaretçileri doğanın güzelliği ile baş başa bırakır. Kelakızyarı Tepesi, Mardin'in flora ve faunasının bir araya geldiği önemli bir noktadır. Ziyaretçiler, bu tepeyi ziyaret ederek, Mardin'in doğa güzelliği hakkında bilgi sahibi olabilir ve bu bölgenin ekolojik zenginliklerini keşfedebilirler.
+ Bu bölgenin flora ve faunası, Mardin'in coğrafi ve ekolojik özelliklerini yansıtır. Tepenin eteklerinde, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesini sağlar. Bu bölgenin fauna zenginliği, ziyaretçileri doğanın güzelliği ile baş başa bırakır. Kelakızyarı Tepesi, Mardin'in flora ve faunasının bir araya geldiği önemli bir noktadır. Ziyaretçiler, bu tepeyi ziyaret ederek, Mardin'in doğa güzelliği hakkında bilgi sahibi olabilir ve bu bölgenin ekolojik zenginliklerini keşfedebilirler.
 
 ## Ziyaret Bilgileri
 

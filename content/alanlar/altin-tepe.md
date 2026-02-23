@@ -29,7 +29,7 @@ wikidata_id: "Q31386871"
 
 # Altın Tepe
 
-Altın Tepe, Mardin'in eşsiz güzelliklerini sunan bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Altın Tepe, Mardin'in tarihi ve kültürel zenginliklerini de içerisinde barındırıyor. Ziyaretçiler, bu tepeyi gezerek hem doğayı hem de tarihin izlerini keşfedebilirler.
+Altın Tepe, Mardin'in eşsiz güzelliklerini sunan bir nokta. Bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Altın Tepe, Mardin'in tarihi ve kültürel zenginliklerini de içerisinde barındırıyor. Ziyaretçiler, bu tepeyi gezerek hem doğayı hem de tarihin izlerini keşfedebilirler.
 
 ## Tarihçe
 

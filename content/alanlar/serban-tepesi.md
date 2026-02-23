@@ -29,7 +29,7 @@ wikidata_id: "Q31387793"
 
 # Serban Tepesi
 
-Serban Tepesi, Erzurum'un göbeğinde yer alan bir tepe. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Serban Tepesi, yerli ve yabancı turistlerin ilgi odağı oluyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu alan, aynı zamanda birçok canlıya ev sahipliği yapıyor.
+Serban Tepesi, Erzurum'un göbeğinde yer alan bir tepe. Bu bölge, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Serban Tepesi, yerli ve yabancı turistlerin ilgi odağı oluyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu alan, aynı zamanda birçok canlıya ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Serban Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış. Ta
 
 ## Coğrafya
 
-Serban Tepesi, Erzurum'un coğrafi yapısında önemli bir yer tutuyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu alan, aynı zamanda birçok canlıya ev sahipliği yapıyor. Serban Tepesi, Erzurum'un en yüksek noktalarından biri. Tepenin etrafında, birçok dağ ve tepe bulunmakta. Bu bölge, aynı zamanda birçok nehrin ve derenin kaynağı.
+Serban Tepesi, Erzurum'un coğrafi yapısında önemli bir yer tutuyor. Bu bölge, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu alan, aynı zamanda birçok canlıya ev sahipliği yapıyor. Serban Tepesi, Erzurum'un en yüksek noktalarından biri. Tepenin etrafında, birçok dağ ve tepe bulunmakta. Bu bölge, aynı zamanda birçok nehrin ve derenin kaynağı.
 
 ## Flora ve Fauna
 

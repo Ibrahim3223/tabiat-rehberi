@@ -22,7 +22,7 @@ wikidata_id: "Q108227732"
 
 # Kastamonu-Bozkurt-Goynuk Kestane
 
-Kastamonu-Bozkurt-Goynuk Kestane milli parkı, Karadeniz Bölgesi'nin güzelliklerini gözler önüne seren bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte, ziyaretçilerin doğanın güzelliğini keşfetmesine olanak sağlar. Bu milli park, Kastamonu'nun Bozkurt ilçesinde yer alır ve Goynuk Kestane olarak bilinen bu bölge, ziyaretçilerini doğanın kucağına davet eder. Kestane ağaçlarının bolca bulunduğu bu alanda, ziyaretçiler doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir ve doğanın güzelliğini keşfedebilir.
+Kastamonu-Bozkurt-Goynuk Kestane milli parkı, Karadeniz Bölgesi'nin güzelliklerini gözler önüne seren bir destinasyondur. Bu milli park, Kastamonu'nun Bozkurt ilçesinde yer alır ve Goynuk Kestane olarak bilinen bu bölge, ziyaretçilerini doğanın kucağına davet eder. Kestane ağaçlarının bolca bulunduğu bu alanda, ziyaretçiler doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir ve doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kastamonu-Bozkurt-Goynuk Kestane milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Kastamonu-Bozkurt-Goynuk Kestane milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte, ziyaretçilerin doğanın güzelliğini keşfetmesine olanak sağlar. Milli park, dağlık bir arazi üzerinde yer alır ve bu coğrafi yapı, ziyaretçilere birçok farklı manzara sunar. Kestane ağaçlarının bolca bulunduğu bu alanda, ziyaretçiler doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir ve doğanın güzelliğini keşfedebilir. İklim olarak, Karadeniz Bölgesi'nin característicasını taşır ve bu özelliği, ziyaretçilere yılın dört mevsiminde farklı deneyimler sunar. Çevre olarak, milli parkın etrafı ormanlarla çevrilidir ve bu çevre, ziyaretçilere doğanın güzelliğini sunar.
+Kastamonu-Bozkurt-Goynuk Kestane milli parkı, Karadeniz Bölgesi'nin coğrafi özelliklerini taşır. Milli park, dağlık bir arazi üzerinde yer alır ve bu coğrafi yapı, ziyaretçilere birçok farklı manzara sunar. Kestane ağaçlarının bolca bulunduğu bu alanda, ziyaretçiler doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir ve doğanın güzelliğini keşfedebilir. İklim olarak, Karadeniz Bölgesi'nin característicasını taşır ve bu özelliği, ziyaretçilere yılın dört mevsiminde farklı deneyimler sunar. Çevre olarak, milli parkın etrafı ormanlarla çevrilidir ve bu çevre, ziyaretçilere doğanın güzelliğini sunar.
 
 ## Flora ve Fauna
 

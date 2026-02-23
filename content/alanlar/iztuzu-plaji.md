@@ -29,7 +29,7 @@ wikidata_id: "Q2016002"
 
 # İztuzu Plajı
 
-İztuzu Plajı, İç Anadolu Bölgesi'nin en güzel ve en çok ziyaret edilen yerlerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Plajın uzunluğu 4,5 kilometre, genişliği ise 50 metre civarındadır. Bu büyüklük, ziyaretçilere geniş ve ferah bir alan sağlar. İztuzu Plajı, ziyaretçilerine çeşitli olanaklar sunar. Plajda şezlong ve şemsiye kiralama mümkün olup, ziyaretçiler güneşin keyfini çıkarabilirler. Ayrıca, plajda çeşitli su sporları da yapılabilmektedir.
+İztuzu Plajı, İç Anadolu Bölgesi'nin en güzel ve en çok ziyaret edilen yerlerinden biridir. Plajın uzunluğu 4,5 kilometre, genişliği ise 50 metre civarındadır. Bu büyüklük, ziyaretçilere geniş ve ferah bir alan sağlar. İztuzu Plajı, ziyaretçilerine çeşitli olanaklar sunar. Plajda şezlong ve şemsiye kiralama mümkün olup, ziyaretçiler güneşin keyfini çıkarabilirler. Ayrıca, plajda çeşitli su sporları da yapılabilmektedir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ wikidata_id: "Q2016002"
 ## İlginç Bilgiler
 
 - İztuzu Plajı, 140 hektarlık bir alana sahiptir.
-- İztuzu Plajı, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - İztuzu Plajı, deniz seviyesinde olup, deniz suyu sıcaklığı yaz aylarında 25 derece civarındadır.
 - İztuzu Plajı, flora ve fauna açısından zengin bir bölgedir.
 - İztuzu Plajı, özellikle deniz canlıları ile dikkat çeker.

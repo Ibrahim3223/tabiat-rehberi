@@ -28,7 +28,7 @@ wikidata_id: "Q31385764"
 
 # Harami Tepesi (Malatya)
 
-Harami Tepesi, Malatya'nın eşsiz manzarasına sahip bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, zirvesinden ise tüm bölgeyi görebilme imkanı sunuyor. Bu tepe, özellikle gün batımı saatlerinde ziyaret edildiğinde, gerçek bir doğa şölenine dönüşüyor.
+Harami Tepesi, Malatya'nın eşsiz manzarasına sahip bir doğa harikasıdır. Tepenin eteklerinde çeşitli bitki türleri bulunurken, zirvesinden ise tüm bölgeyi görebilme imkanı sunuyor. Bu tepe, özellikle gün batımı saatlerinde ziyaret edildiğinde, gerçek bir doğa şölenine dönüşüyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Harami Tepesi, Doğu Anadolu Bölgesi'nde, Malatya ilinin sınırları içerisin
 
 ## Flora ve Fauna
 
-Harami Tepesi ve çevresi, zengin bir flora ve fauna çeşitliliğine sahip. Tepenin eteklerinde, çeşitli bitki türleri bulunurken, zirvesinde ise daha az bitki türü görülüyor. Bu bitki türleri, bölgenin iklim koşullarına adaptasyon göstererek, zor koşullarda yaşayabilen türlerden oluşuyor. Tepenin fauna açısından da zengin olduğunu söyleme mümkün. Çeşitli hayvan türleri, bu bölgede yaşamlarını sürdürüyor. Yaban hayatının zengin olması, bölgenin ekolojik dengesini korumak açısından büyük önem taşıyor. Mevsimsel değişimler, bölgenin flora ve faunasını etkileyerek, her mevsim farklı bir güzelliğe bürünmesini sağlıyor.
+Harami Tepesi ve çevresi, zengin bir flora ve fauna çeşitliliğine sahip. Tepenin eteklerinde, çeşitli bitki türleri bulunurken, zirvesinde ise daha az bitki türü görülüyor. Bu bitki türleri, bölgenin iklim koşullarına adaptasyon göstererek, zor koşullarda yaşayabilen türlerden oluşuyor. Tepenin fauna açısından da zengin olduğunu söyleme mümkün. Çeşitli hayvan türleri, bu bölgede yaşamlarını sürdürüyor. Mevsimsel değişimler, bölgenin flora ve faunasını etkileyerek, her mevsim farklı bir güzelliğe bürünmesini sağlıyor.
 
 ## Ziyaret Bilgileri
 

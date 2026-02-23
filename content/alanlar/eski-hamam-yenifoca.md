@@ -1,7 +1,7 @@
 ---
 title: "Eski Hamam, Yenifoça"
 date: "2026-01-10T03:39:22.746Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245830"
 
 # Eski Hamam, Yenifoça
 
-Foça'nın Yenifoça mahallesinde yer alan Eski Hamam, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu plaj, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Eski Hamam, denize girilebilen ve doğa yürüyüşü yapılabilecek bir alana sahiptir. Bu bölge, tarihi geçmişi ve coğrafi konumu ile dikkat çeker. İzmir'in Foça ilçesinde yer alan bu plaj, ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar.
+ Eski Hamam, denize girilebilen ve doğa yürüyüşü yapılabilecek bir alana sahiptir. Bu bölge, tarihi geçmişi ve coğrafi konumu ile dikkat çeker. İzmir'in Foça ilçesinde yer alan bu plaj, ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar.
 
 ## Tarihçe
 
@@ -37,20 +37,20 @@ Eski Hamam'ın tarihi geçmişi, Foça'nın tarihi ile iç içe geçmiştir. Fo�
 
 ## Coğrafya
 
-Eski Hamam, İzmir'in Foça ilçesinde yer alan Yenifoça mahallesinde bulunur. Bu plaj, Ege Bölgesi'nin güzel ve sakin bir köşesinde yer alır. Eski Hamam, denize girilebilen ve doğa yürüyüşü yapılabilecek bir alana sahiptir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Eski Hamam'ın coğrafi konumu, ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar. Bu plaj, Ege Bölgesi'nin güzel ve sakin bir köşesinde yer alır ve ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar. Eski Hamam, Foça'nın tarihi ve doğal güzelliklerini ziyaret etmek için ideal bir yerdir.
+Eski Hamam, İzmir'in Foça ilçesinde yer alan Yenifoça mahallesinde bulunur. Bu plaj, Ege Bölgesi'nin güzel ve sakin bir köşesinde yer alır. Eski Hamam, denize girilebilen ve doğa yürüyüşü yapılabilecek bir alana sahiptir. Eski Hamam'ın coğrafi konumu, ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar. Bu plaj, Ege Bölgesi'nin güzel ve sakin bir köşesinde yer alır ve ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar. Eski Hamam, Foça'nın tarihi ve doğal güzelliklerini ziyaret etmek için ideal bir yerdir.
 
 ## Flora ve Fauna
 
-Eski Hamam, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu plaj, ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar. Eski Hamam'da, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. Eski Hamam'ın flora ve fauna zenginliği, ziyaretçilerini cezbeder. Bu plaj, Ege Bölgesi'nin güzel ve sakin bir köşesinde yer alır ve ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar.
+ Bu plaj, ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar. Eski Hamam'da, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. Eski Hamam'ın flora ve fauna zenginliği, ziyaretçilerini cezbeder. Bu plaj, Ege Bölgesi'nin güzel ve sakin bir köşesinde yer alır ve ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar.
 
 ## Ziyaret Bilgileri
 
-Eski Hamam'ı ziyaret etmek için, Foça'nın Yenifoça mahallesine gitmek gerekir. Bu plaj, Ege Bölgesi'nin güzel ve sakin bir köşesinde yer alır ve ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar. Eski Hamam, denize girilebilen ve doğa yürüyüşü yapılabilecek bir alana sahiptir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Eski Hamam'ı ziyaret etmek için, en iyi zaman ilkbahar ve yaz aylarıdır. Bu plaj, ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar.
+Eski Hamam'ı ziyaret etmek için, Foça'nın Yenifoça mahallesine gitmek gerekir. Bu plaj, Ege Bölgesi'nin güzel ve sakin bir köşesinde yer alır ve ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar. Eski Hamam, denize girilebilen ve doğa yürüyüşü yapılabilecek bir alana sahiptir. Eski Hamam'ı ziyaret etmek için, en iyi zaman ilkbahar ve yaz aylarıdır. Bu plaj, ziyaretçilerine güzel bir gün geçirmeleri için gerekli olan tüm olanakları sunar.
 
 ## İlginç Bilgiler
 
 - Eski Hamam, Foça'nın Yenifoça mahallesinde yer alır.
 - Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar.
 - Eski Hamam, denize girilebilen ve doğa yürüyüşü yapılabilecek bir alana sahiptir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Eski Hamam, Ege Bölgesi'nin güzel ve sakin bir köşesinde yer alır.

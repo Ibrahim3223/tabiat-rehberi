@@ -1,7 +1,7 @@
 ---
 title: "Mihrimah Sultan Hamamı, Edirnekapı"
 date: "2026-01-10T04:25:53.962Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q118495282"
 
 # Mihrimah Sultan Hamamı, Edirnekapı
 
-Mihrimah Sultan Hamamı, Edirnekapı, İstanbul'un tarihi ve kültürel zenginliklerini barındıran bir bölgede yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli tarihi mekanlarından biridir. Bu tarihi hamam,Mihrimah Sultan'ın yaptırdığı eserlerden biri olarak bilinir ve İstanbul'un gizli köşelerinden biri olarak kabul edilir. Mihrimah Sultan Hamamı, Edirnekapı, ziyaretçilerini tarihin derinliklerine götürerek, tarihi ve kültürel bir deneyim sunar.
+Mihrimah Sultan Hamamı, Edirnekapı, İstanbul'un tarihi ve kültürel zenginliklerini barındıran bir bölgede yer alır. Bu tarihi hamam,Mihrimah Sultan'ın yaptırdığı eserlerden biri olarak bilinir ve İstanbul'un gizli köşelerinden biri olarak kabul edilir. Mihrimah Sultan Hamamı, Edirnekapı, ziyaretçilerini tarihin derinliklerine götürerek, tarihi ve kültürel bir deneyim sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mihrimah Sultan Hamamı, Edirnekapı, 16. yüzyılın önemli tarihi eserlerinde
 
 ## Coğrafya
 
-Mihrimah Sultan Hamamı, Edirnekapı, İstanbul'un Fatih ilçesinde yer alır ve Marmara Bölgesi'nin en önemli tarihi mekanlarından biridir. Bu tarihi hamam, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un tarihi dokusuna önemli bir katkı sağlar. Hamamın çevresinde, tarihi eserler ve önemli mekanlar yer alır ve ziyaretçilere tarihin sayfalarını çevirmeye davet eder. Mihrimah Sultan Hamamı, Edirnekapı, İstanbul'un gizli köşelerinden biri olarak kabul edilir ve ziyaretçilerini tarihin derinliklerine götürerek, tarihi ve kültürel bir deneyim sunar. Bu tarihi hamam, İstanbul'un en önemli tarihi mekanlarından biri olarak kabul edilir ve ziyaretçilerine tarihin sayfalarını çevirmeye davet eder. Hamamın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna yer alır ve ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar.
+Mihrimah Sultan Hamamı, Edirnekapı, İstanbul'un Fatih ilçesinde yer alır ve Marmara Bölgesi'nin en önemli tarihi mekanlarından biridir. Hamamın çevresinde, tarihi eserler ve önemli mekanlar yer alır ve ziyaretçilere tarihin sayfalarını çevirmeye davet eder. Mihrimah Sultan Hamamı, Edirnekapı, İstanbul'un gizli köşelerinden biri olarak kabul edilir ve ziyaretçilerini tarihin derinliklerine götürerek, tarihi ve kültürel bir deneyim sunar. Bu tarihi hamam, İstanbul'un en önemli tarihi mekanlarından biri olarak kabul edilir ve ziyaretçilerine tarihin sayfalarını çevirmeye davet eder. Hamamın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna yer alır ve ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

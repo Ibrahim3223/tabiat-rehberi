@@ -1,7 +1,7 @@
 ---
 title: "Avcıkilisesi Tepesi"
 date: "2026-01-10T09:52:35.021Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Artvin"
@@ -28,15 +28,15 @@ wikidata_id: "Q31387311"
 
 # Avcıkilisesi Tepesi
 
-Avcıkilisesi Tepesi, Artvin'in muhteşem manzarasına ev sahipliği yapan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliğine davet etmektedir. Avcıkilisesi Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak bilinir ve her yıl birçok turisti ağırlamaktadır. Doğal güzellikleri, tarihi ve kültürel zenginlikleriyle Avcıkilisesi Tepesi, ziyaretçilerini bekleyen bir hazine gibidir.
+Avcıkilisesi Tepesi, Artvin'in muhteşem manzarasına ev sahipliği yapan 140 hektarlık bir yeşil alandır. Avcıkilisesi Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak bilinir ve her yıl birçok turisti ağırlamaktadır. Doğal güzellikleri, tarihi ve kültürel zenginlikleriyle Avcıkilisesi Tepesi, ziyaretçilerini bekleyen bir hazine gibidir.
 
 ## Tarihçe
 
-Avcıkilisesi Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların etkisi altında kalmıştır. Avcıkilisesi Tepesi'nin adı, buradaki tarihi kiliseden gelmektedir. Kilise, bölgeye gelen Hristiyanların ibadet ettiği bir yer olarak kullanılmıştır. Zaman içinde, kilise ve çevresindeki alan, doğal güzellikleri ve tarihi önemi nedeniyle önemli bir turizm merkezi haline gelmiştir. Avcıkilisesi Tepesi, bugüne kadar birçok ziyaretçiyi ağırlamış ve ziyaretçilerine unutulmaz anlar yaşatmıştır. Tarihi ve kültürel zenginliklerinin yanı sıra, Avcıkilisesi Tepesi'nin doğal güzellikleri de ziyaretçilerini cezbeden önemli bir unsurdur.
+Avcıkilisesi Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların etkisi altında kalmıştır. Avcıkilisesi Tepesi'nin adı, buradaki tarihi kiliseden gelmektedir. Kilise, bölgeye gelen Hristiyanların ibadet ettiği bir yer olarak kullanılmıştır. Zaman içinde, kilise ve çevresindeki alan, doğal güzellikleri ve tarihi önemi nedeniyle önemli bir turizm merkezi haline gelmiştir. Tarihi ve kültürel zenginliklerinin yanı sıra, Avcıkilisesi Tepesi'nin doğal güzellikleri de ziyaretçilerini cezbeden önemli bir unsurdur.
 
 ## Coğrafya
 
-Avcıkilisesi Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak bilinir. Bu bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuştur. Avcıkilisesi Tepesi, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliğine davet etmektedir. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, ziyaretçilere renkli bir manzara sunar. Avcıkilisesi Tepesi, aynı zamanda zengin fauna çeşitliliğine de ev sahipliği yapar. Bu tepede, çeşitli hayvan türleri yaşamaktadır ve ziyaretçiler, bu hayvanları doğal ortamlarında görebilirler. Avcıkilisesi Tepesi'nin iklimi, Karadeniz Bölgesi'nin genel iklimine benzerdir. Bu bölgede, genellikle yağışlı ve nemli bir hava hakimdir. Avcıkilisesi Tepesi, ziyaretçilerine yılın her mevsiminde farklı güzellikler sunar. İlkbahar ve yaz aylarında, tepede çeşitli bitki türleri çiçek açar ve ziyaretçilere renkli bir manzara sunar. Sonbahar ve kış aylarında ise, tepede kar yağar ve ziyaretçiler, kışın güzelliğine tanık olabilirler.
+Avcıkilisesi Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak bilinir. Bu bölge, 140 hektarlık bir yeşil alan üzerinde kurulmuştur. Tepenin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, ziyaretçilere renkli bir manzara sunar. Avcıkilisesi Tepesi, aynı zamanda zengin fauna çeşitliliğine de ev sahipliği yapar. Bu tepede, çeşitli hayvan türleri yaşamaktadır ve ziyaretçiler, bu hayvanları doğal ortamlarında görebilirler. Avcıkilisesi Tepesi'nin iklimi, Karadeniz Bölgesi'nin genel iklimine benzerdir. Bu bölgede, genellikle yağışlı ve nemli bir hava hakimdir. Avcıkilisesi Tepesi, ziyaretçilerine yılın her mevsiminde farklı güzellikler sunar. İlkbahar ve yaz aylarında, tepede çeşitli bitki türleri çiçek açar ve ziyaretçilere renkli bir manzara sunar. Sonbahar ve kış aylarında ise, tepede kar yağar ve ziyaretçiler, kışın güzelliğine tanık olabilirler.
 
 ## Flora ve Fauna
 

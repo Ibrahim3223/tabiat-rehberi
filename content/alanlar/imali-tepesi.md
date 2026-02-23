@@ -28,11 +28,11 @@ wikidata_id: "Q31390771"
 
 # İmalı Tepesi
 
-İmalı Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinin sınırları içerisinde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada yer alan tepe, régionun en önemli doğal noktalarından birisidir. İmalı Tepesi, ziyaretçilerini hem doğal güzellikleri hem de tarihi geçmişi ile cezbediyor. Tepenin eteklerinde yer alan köyler, yöresel mimari örnekleri ile dikkat çekiyor. İmalı Tepesi, özellikle bahar aylarında, rengarenk çiçekleri ile bir görsel şölen sunuyor.
+İmalı Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinin sınırları içerisinde yer alan bir doğa harikasıdır. İmalı Tepesi, ziyaretçilerini hem doğal güzellikleri hem de tarihi geçmişi ile cezbediyor. Tepenin eteklerinde yer alan köyler, yöresel mimari örnekleri ile dikkat çekiyor. İmalı Tepesi, özellikle bahar aylarında, rengarenk çiçekleri ile bir görsel şölen sunuyor.
 
 ## Tarihçe
 
-İmalı Tepesi, tarihi geçmişi ile de dikkat çekiyor. Bu région, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış ve her biri bu topraklara izlerini bırakmıştır. Tepenin üzerinde ve çevresinde yer alan tarihi kalıntılar, bu bölgenin zengin tarihsel geçmişini gözler önüne seriyor. İmalı Tepesi, aynı zamanda mitolojik hikayelerin de merkezinde yer alıyor. Efsaneler, bu tepenin mistik bir enerjiye sahip olduğunu ve ziyaretçilere huzur verdiğini anlatıyor. İmalı Tepesi, tarihin depthsinden gelen bir ses gibi, ziyaretçilerini geçmişin gizemli dünyasına davet ediyor.
+İmalı Tepesi, tarihi geçmişi ile de dikkat çekiyor. Bu bölge, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış ve her biri bu topraklara izlerini bırakmıştır. Tepenin üzerinde ve çevresinde yer alan tarihi kalıntılar, bu bölgenin zengin tarihsel geçmişini gözler önüne seriyor. İmalı Tepesi, aynı zamanda mitolojik hikayelerin de merkezinde yer alıyor. Efsaneler, bu tepenin mistik bir enerjiye sahip olduğunu ve ziyaretçilere huzur verdiğini anlatıyor. İmalı Tepesi, tarihin depthsinden gelen bir ses gibi, ziyaretçilerini geçmişin gizemli dünyasına davet ediyor.
 
 ## Coğrafya
 

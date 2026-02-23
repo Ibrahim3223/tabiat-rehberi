@@ -29,7 +29,7 @@ wikidata_id: "Q4081181"
 
 # Beycesultan
 
-Beycesultan, Denizli'nin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin zengin tarihi ve kültürel mirasına ev sahipliği yapan özel bir yer. Bu alan, 140 hektarlık geniş bir alanı kaplıyor, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Beycesultan, hem yerli hem de yabancı ziyaretçiler için önemli bir destinasyon olarak kabul ediliyor. Burada, tarihi geçmişi ve kültürel önemi ile dikkat çeken bir tepe bulunmakta.
+Beycesultan, Denizli'nin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin zengin tarihi ve kültürel mirasına ev sahipliği yapan özel bir yer. Beycesultan, hem yerli hem de yabancı ziyaretçiler için önemli bir destinasyon olarak kabul ediliyor. Burada, tarihi geçmişi ve kültürel önemi ile dikkat çeken bir tepe bulunmakta.
 
 ## Tarihçe
 

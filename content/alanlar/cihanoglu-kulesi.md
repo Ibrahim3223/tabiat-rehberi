@@ -29,7 +29,7 @@ wikidata_id: "Q131738535"
 
 # Cihanoğlu Kulesi
 
-Cihanoğlu Kulesi, Aydın'ın Koçarlı ilçesinde bulunan bir plaj olarak dikkat çekiyor. Bu bölge, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Cihanoğlu Kulesi, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Bu plaj, Ege Bölgesi'nin en güzel noktalarından biri olarak biliniyor ve yerli ve yabancı turistlerin ilgisini çekiyor.
+Cihanoğlu Kulesi, Aydın'ın Koçarlı ilçesinde bulunan bir plaj olarak dikkat çekiyor. Cihanoğlu Kulesi, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Bu plaj, Ege Bölgesi'nin en güzel noktalarından biri olarak biliniyor ve yerli ve yabancı turistlerin ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Cihanoğlu Kulesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bö
 
 ## Coğrafya
 
-Cihanoğlu Kulesi, Ege Bölgesi'nin güzelliklerini gözler önüne seren bir coğrafyada yer alıyor. Bu plaj, Koçarlı'nın merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Cihanoğlu Kulesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna encontrar. Bu bölge, özellikle deniz kuşlarının habitatı olarak dikkat çekiyor. Cihanoğlu Kulesi'nin coğrafi konumu, ziyaretçilere hem deniz hem de doğanın güzelliğini aynı anda deneyimleme fırsatı sunuyor. 180 hektarlık bir alan, yaklaşık 300 futbol sahası büyüklüğünde bir yeşil alan sunuyor ve bu, ziyaretçilere geniş bir alan sağlıyor.
+Cihanoğlu Kulesi, Ege Bölgesi'nin güzelliklerini gözler önüne seren bir coğrafyada yer alıyor. Bu plaj, Koçarlı'nın merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Cihanoğlu Kulesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna encontrar. Bu bölge, özellikle deniz kuşlarının habitatı olarak dikkat çekiyor. Cihanoğlu Kulesi'nin coğrafi konumu, ziyaretçilere hem deniz hem de doğanın güzelliğini aynı anda deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

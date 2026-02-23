@@ -1,7 +1,7 @@
 ---
 title: "Gazi Gündüz Alp Türbesi"
 date: "2026-01-10T05:31:05.029Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391657"
 
 # Gazi Gündüz Alp Türbesi
 
-Gazi Gündüz Alp Türbesi, Ankara'nın Beypazarı ilçesinde yer alan tarihi bir mekan. Bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve etrafındaki yeşil alanlarla birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Türbenin bulunduğu yer, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Beypazarı'nın merkezine yakın bir konumda yer alan Gazi Gündüz Alp Türbesi, hem yerli hem de yabancı turistler tarafından ilgi görüyor. Türbenin mimarisi ve tarihi önemi, ziyaretçilere zengin bir kültür deneyimi sunuyor.
+Gazi Gündüz Alp Türbesi, Ankara'nın Beypazarı ilçesinde yer alan tarihi bir mekan. Türbenin bulunduğu yer, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Türbenin mimarisi ve tarihi önemi, ziyaretçilere zengin bir kültür deneyimi sunuyor.
 
 ## Tarihçe
 

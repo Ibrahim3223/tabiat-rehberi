@@ -1,7 +1,7 @@
 ---
 title: "Caferpaşa Külliyesi Türbe ve Tevhidhanesi"
 date: "2026-01-10T07:22:35.696Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

@@ -50,11 +50,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Kelebek Tepe'nin çevrese
 
 ## Flora ve Fauna
 
-Kelebek Tepe, Mardin'in yarı kurak ikliminin hakim olduğu dağlık bölgesinde yer alır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kelebek Tepe, Mardin'in yarı kurak ikliminin hakim olduğu dağlık bölgesinde yer alır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü olarak, ilkbahar aylarında çiçeklerle süslenen step ve ova ekolojisi, yaz aylarında kuraklığa dayanıklı bitkilerin hakim olduğu bir manzara sunar. Dağ ekosisteminin yükseklik zonlarında alpin flora çeşitliliği dikkat çeker. 
+Bitki örtüsü olarak, ilkbahar aylarında çiçeklerle süslenen step ve ova ekolojisi, yaz aylarında kuraklığa dayanıklı bitkilerin hakim olduğu bir manzara sunar. Dağ ekosisteminin yükseklik zonlarında alpin flora çeşitliliği dikkat çeker.
 
-Yaban hayatı açısından, dağ keçileri ve yaban domuzları gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu dağlık bölgede yaşamını sürdürür. İlkbahar ve sonbahar aylarında, göçmen kuşlar bu bölgeyi ziyaret eder, thus bu ekosistemin zenginliğini gösterir. 
+Yaban hayatı açısından, dağ keçileri ve yaban domuzları gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu dağlık bölgede yaşamını sürdürür. İlkbahar ve sonbahar aylarında, göçmen kuşlar bu bölgeyi ziyaret eder, thus bu ekosistemin zenginliğini gösterir.
 
 Ekolojik değer açısından, Kelebek Tepe'nin koruma durumu büyük önem taşır. Bu dağlık bölgenin ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve doğal dengesini sürdürmek için hayati önem taşır.
 

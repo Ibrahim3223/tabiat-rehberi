@@ -33,8 +33,8 @@ Mardin'in tarihi dokusu içinde yer alan Ali Tepe, şehrin zengin kültürel mir
 
 ## Tarihçe
 
-Mardin bölgesinin zengin tarihi, Ali Tepe'nin eteklerine kadar uzanır. Bu topraklar, tarihin depthsinden süzülerek gelen uygarlıkların izlerini taşır. Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetler, Mardin'in stratejik konumunu değerlendirmiş ve bölgede hüküm sürmüşlerdir. 
-Doğal güzellikleri ve coğrafi konumuyla Ali Tepe, tarihi ticaret yollarının kesişme noktasında yer alır. Yaylacılık ve hayvancılık, bölgenin geleneksel faaliyetleri arasındadır. İnsanlar, yüzyıllardır bu tür doğal alanları kullanmış, doğayla iç içe bir yaşam sürmüştür. 
+Mardin bölgesinin zengin tarihi, Ali Tepe'nin eteklerine kadar uzanır. Bu topraklar, tarihin depthsinden süzülerek gelen uygarlıkların izlerini taşır. Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetler, Mardin'in stratejik konumunu değerlendirmiş ve bölgede hüküm sürmüşlerdir.
+Doğal güzellikleri ve coğrafi konumuyla Ali Tepe, tarihi ticaret yollarının kesişme noktasında yer alır. Yaylacılık ve hayvancılık, bölgenin geleneksel faaliyetleri arasındadır. İnsanlar, yüzyıllardır bu tür doğal alanları kullanmış, doğayla iç içe bir yaşam sürmüştür.
 Bu bölgeler, aynı zamanda kültürel mirasın korunmasına da ev sahipliği yapar. Türkiye'nin doğal alanları, tarihin depthsinden gelen bir mirası temsil eder ve Ali Tepe, bu mirasın önemli bir parçasıdır.
 
 ## Coğrafya
@@ -49,11 +49,11 @@ Mevsimsel olarak, Ali Tepe ve çevresinde, yaz aylarında sıcaklık 35 dereceye
 
 ## Flora ve Fauna
 
-Ali Tepe, Mardin'de yer alan bir dağ ekosistemi olarak, yarı kurak iklimin hakim olduğu bir bölgede bulunmaktadır. Bu dağ, yükseklik zonları ve alpin flora ile karakterizedir. 
+Ali Tepe, Mardin'de yer alan bir dağ ekosistemi olarak, yarı kurak iklimin hakim olduğu bir bölgede bulunmaktadır. Bu dağ, yükseklik zonları ve alpin flora ile karakterizedir.
 
-Bitki örtüsü olarak, ilkbahar aylarında çiçeklerin açtığı ve dağ yamaçlarını renklendirdiği gözlemlenir. Step ve ova ekolojisinin bir parçası olan bu bölge, çeşitli ot türleri ve çalıları barındırır. 
+Bitki örtüsü olarak, ilkbahar aylarında çiçeklerin açtığı ve dağ yamaçlarını renklendirdiği gözlemlenir. Step ve ova ekolojisinin bir parçası olan bu bölge, çeşitli ot türleri ve çalıları barındırır.
 
-Yaban hayatı olarak, memeliler ve kuşlar bu bölgede yaşamlarını sürdürür. Göç eden kuşlar, sonbahar aylarında bu bölgeden geçer. Sürüngenler de bu dağ ekosisteminin bir parçasıdır. 
+Yaban hayatı olarak, memeliler ve kuşlar bu bölgede yaşamlarını sürdürür. Göç eden kuşlar, sonbahar aylarında bu bölgeden geçer. Sürüngenler de bu dağ ekosisteminin bir parçasıdır.
 
 Ekolojik değer olarak, bu dağ ekosisteminin korunması önemlidir. Bu bölge, çeşitli canlı türleri için yaşam alanı oluşturur ve ekolojik dengenin korunmasına katkıda bulunur.
 

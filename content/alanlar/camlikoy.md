@@ -23,7 +23,7 @@ wikidata_id: "Q108228238"
 
 # Çamlıköy
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Çamlıköy, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölge, yüzyıllar boyunca insanların doğa ile iç içe yaşadığı bir yerleşim yeri olarak bilinir. Çamlıköy'ün tarihi geçmişi, zengin flora ve faunası ile birlikte ziyaretçilerini doğanın kucağına davet ediyor. 70'li yıllardan bu yana koruma altına alınan bu alan, bugün birçok türün yaşam alanı olarak hizmet veriyor.
+ Bu bölge, yüzyıllar boyunca insanların doğa ile iç içe yaşadığı bir yerleşim yeri olarak bilinir. Çamlıköy'ün tarihi geçmişi, zengin flora ve faunası ile birlikte ziyaretçilerini doğanın kucağına davet ediyor. 70'li yıllardan bu yana koruma altına alınan bu alan, bugün birçok türün yaşam alanı olarak hizmet veriyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ wikidata_id: "Q108228238"
 
 ## Coğrafya
 
-Çamlıköy, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden birisidir. Bu bölge, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Çamlıköy'ün coğrafi yapısı, dağlar, ovalar ve su kaynakları ile birlikte çeşitlilik göstermektedir. Bu bölgede, birçok farklı türde bitki ve hayvan yaşamaktadır. Çamlıköy'ün iklimi, karasal iklim özellikleri taşımakta ve yazları sıcak, kışları soğuk geçmektedir. Bu bölge, yıl boyunca ziyaretçilerini ağırlamakta ve her mevsim, farklı bir güzelliği sunmaktadır. Çamlıköy'ün coğrafi konumu, birçok farklı türün yaşam alanı olarak hizmet vermektedir.
+Çamlıköy, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden birisidir. Çamlıköy'ün coğrafi yapısı, dağlar, ovalar ve su kaynakları ile birlikte çeşitlilik göstermektedir. Bu bölgede, birçok farklı türde bitki ve hayvan yaşamaktadır. Çamlıköy'ün iklimi, karasal iklim özellikleri taşımakta ve yazları sıcak, kışları soğuk geçmektedir. Bu bölge, yıl boyunca ziyaretçilerini ağırlamakta ve her mevsim, farklı bir güzelliği sunmaktadır. Çamlıköy'ün coğrafi konumu, birçok farklı türün yaşam alanı olarak hizmet vermektedir.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ wikidata_id: "Q108228238"
 ## İlginç Bilgiler
 
 - Çamlıköy, 140 hektarlık bir alanı kaplamaktadır.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Çamlıköy'ün flora ve faunası, birçok farklı türü barındırmaktadır.
 - Bu bölge, yıl boyunca ziyaretçilerini ağırlamakta ve her mevsim, farklı bir güzelliği sunmaktadır.
 - Çamlıköy'ün coğrafi konumu, birçok farklı türün yaşam alanı olarak hizmet vermektedir.

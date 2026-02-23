@@ -28,7 +28,7 @@ wikidata_id: "Q31386513"
 
 # Bugor Kechebey-tepe
 
-Hatay'ın Akdeniz Bölgesi'nde yer alan Bugor Kechebey-tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Tepe, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak históriki bir öneme sahip. Doğal güzelliği ve tarihi geçmişiyle birlikte, bu tepe ziyaretçilerini cezbediyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
+Hatay'ın Akdeniz Bölgesi'nde yer alan Bugor Kechebey-tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepe, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak tarihi bir öneme sahip. Doğal güzelliği ve tarihi geçmişiyle birlikte, bu tepe ziyaretçilerini cezbediyor. Ziyaretçiler, bu bölgeyi keşfederek hem doğal güzellikleri hem de tarihi kalıntıları görebiliyorlar.
 
 ## Tarihçe
 

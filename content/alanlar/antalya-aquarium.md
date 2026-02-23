@@ -29,7 +29,7 @@ wikidata_id: "Q20470397"
 
 # Antalya Aquarium
 
-Antalya Aquarium, Akdeniz'in kalbinde, Antalya'da yer alan bir plaj ve turizm merkezi olarak dikkat çekiyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini denizin ve güneşin tadını çıkarmaya davet ediyor. Antalya Aquarium, plajın yanı sıra çeşitli su sporları ve aktivitelere de ev sahipliği yapıyor. Bu bölge, hem yerli hem de yabancı turistler için bir cazibe merkezi haline gelmiş durumda.
+Antalya Aquarium, Akdeniz'in kalbinde, Antalya'da yer alan bir plaj ve turizm merkezi olarak dikkat çekiyor. Antalya Aquarium, plajın yanı sıra çeşitli su sporları ve aktivitelere de ev sahipliği yapıyor. Bu bölge, hem yerli hem de yabancı turistler için bir cazibe merkezi haline gelmiş durumda.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Antalya Aquarium'un tarihi geçmişi, Antalya'nın tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Antalya Aquarium, Antalya'nın merkezinde yer alıyor ve Akdeniz'in kıyısında kurulmuş durumda. Bu bölge, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Antalya Aquarium'un coğrafi konumu, ziyaretçilerine deniz, güneş ve kumun tadını çıkarmaya olanak sağlıyor. Bu bölge, aynı zamanda çeşitli su sporları ve aktivitelere de ev sahipliği yapıyor. Antalya Aquarium'un çevresi, yeşillik alanlarla dolu ve ziyaretçilerine doğayla iç içe bir ortam sunuyor. Bu bölge, hem deniz hem de doğa severler için ideal bir destinasyon olarak kabul ediliyor.
+Antalya Aquarium, Antalya'nın merkezinde yer alıyor ve Akdeniz'in kıyısında kurulmuş durumda. Antalya Aquarium'un coğrafi konumu, ziyaretçilerine deniz, güneş ve kumun tadını çıkarmaya olanak sağlıyor. Bu bölge, aynı zamanda çeşitli su sporları ve aktivitelere de ev sahipliği yapıyor. Antalya Aquarium'un çevresi, yeşillik alanlarla dolu ve ziyaretçilerine doğayla iç içe bir ortam sunuyor. Bu bölge, hem deniz hem de doğa severler için ideal bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

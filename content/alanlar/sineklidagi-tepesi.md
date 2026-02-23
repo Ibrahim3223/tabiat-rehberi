@@ -28,7 +28,7 @@ wikidata_id: "Q31535682"
 
 # Sineklidağı Tepesi
 
-Sineklidağı Tepesi, Hatay ilinin güzel bir köşesinde yer alan ve doğa severlerin ziyaret ettiği bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Sineklidağı Tepesi, Hatay'ın önemli coğrafi noktalarından biri olarak biliniyor. Burada doğa yürüyüşü yapmak, manzaranın tadını çıkarma ve çevreyi keşfetme mümkün. Sineklidağı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
+Sineklidağı Tepesi, Hatay ilinin güzel bir köşesinde yer alan ve doğa severlerin ziyaret ettiği bir tepe. Sineklidağı Tepesi, Hatay'ın önemli coğrafi noktalarından biri olarak biliniyor. Burada doğa yürüyüşü yapmak, manzaranın tadını çıkarma ve çevreyi keşfetme mümkün. Sineklidağı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sineklidağı Tepesi, yüzyıllar boyunca insan yaşamına tanıklık etmiş bir
 
 ## Coğrafya
 
-Sineklidağı Tepesi, Akdeniz Bölgesi'nin güzel bir köşesinde yer alıyor. Bu tepe, Hatay ilinin coğrafi yapısını teşkil ediyor. Sineklidağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, çevreyi güzel bir şekilde kaplıyor ve manzarayı güzelleştiriyor. Sineklidağı Tepesi, doğa severlerin ziyaret ettiği bir yer. Burada doğa yürüyüşü yapmak, manzaranın tadını çıkarma ve çevreyi keşfetme mümkün. Sineklidağı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu tepe, birçok bitki türüne ev sahipliği yapıyor ve zengin bir flora sahip. Sineklidağı Tepesi, coğrafi konumu itibariyle güzel bir yer.
+Sineklidağı Tepesi, Akdeniz Bölgesi'nin güzel bir köşesinde yer alıyor. Bu tepe, Hatay ilinin coğrafi yapısını teşkil ediyor. Bu tepe, çevreyi güzel bir şekilde kaplıyor ve manzarayı güzelleştiriyor. Sineklidağı Tepesi, doğa severlerin ziyaret ettiği bir yer. Burada doğa yürüyüşü yapmak, manzaranın tadını çıkarma ve çevreyi keşfetme mümkün. Sineklidağı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu tepe, birçok bitki türüne ev sahipliği yapıyor ve zengin bir flora sahip. Sineklidağı Tepesi, coğrafi konumu itibariyle güzel bir yer.
 
 ## Flora ve Fauna
 

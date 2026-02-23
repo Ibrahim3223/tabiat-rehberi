@@ -36,7 +36,7 @@ Ulukaya Şelalesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölg
 
 ## Coğrafya
 
-Ulukaya Şelalesi, Bartın ilinin Karadeniz kıyılarında yer alır. Bu şelale, Karadeniz Bölgesi'nin en güzel yerlerinden biridir ve doğa severler için bir cennet gibidir. Şelalenin çevresi, ormanlar ve dağlarla dolu bir alandır ve ziyaretçilere muhteşem bir manzara sunar. Bu bölge, iklim açısından ılımandır ve her mevsim ziyaret edilebilir. Ulukaya Şelalesi, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu yeşil alan, Bartın'ın en önemli turizm noktalarından biridir ve doğa tutkunları için bir zorunludur. Şelalenin suyu, Karadeniz Bölgesi'nin en temiz sularından biridir ve ziyaretçilere serinleme fırsatı sunar.
+Ulukaya Şelalesi, Bartın ilinin Karadeniz kıyılarında yer alır. Bu şelale, Karadeniz Bölgesi'nin en güzel yerlerinden biridir ve doğa severler için bir cennet gibidir. Şelalenin çevresi, ormanlar ve dağlarla dolu bir alandır ve ziyaretçilere muhteşem bir manzara sunar. Bu bölge, iklim açısından ılımandır ve her mevsim ziyaret edilebilir. Bu yeşil alan, Bartın'ın en önemli turizm noktalarından biridir ve doğa tutkunları için bir zorunludur. Şelalenin suyu, Karadeniz Bölgesi'nin en temiz sularından biridir ve ziyaretçilere serinleme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Ulukaya Şelalesi'ne ziyaret için en uygun zaman, ilkbahar ve yaz aylarıdır. 
 ## İlginç Bilgiler
 
 - Ulukaya Şelalesi, Bartın ilinin en önemli turizm noktalarından biridir.
-- Bu şelale, yaklaşık 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Ulukaya Şelalesi, Karadeniz Bölgesi'nin en güzel yerlerinden biridir ve doğa severler için bir cennet gibidir.
 - Bu bölge, iklim açısından ılımandır ve her mevsim ziyaret edilebilir.
 - Ulukaya Şelalesi, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.

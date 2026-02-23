@@ -23,7 +23,7 @@ wikidata_id: "Q108227869"
 
 # Keltepe
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Keltepe, yaklaşık 140 hektarlık bir alanı kaplayan muhteşem bir doğal alan. Bu büyüleyici bölge, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın güzelliği ile baş başa bırakarak dinlenebilecekleri bir mekan sunuyor. Keltepe'nin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde çeşitli bitki türleri ve yaban hayatı bulunmakta.
+İç Anadolu Bölgesi'nin kalbinde yer alan Keltepe, yaklaşık 140 hektarlık bir alanı kaplayan muhteşem bir doğal alan. Bu büyüleyici bölge, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın güzelliği ile baş başa bırakarak dinlenebilecekleri bir mekan sunuyor.
 
 ## Tarihçe
 

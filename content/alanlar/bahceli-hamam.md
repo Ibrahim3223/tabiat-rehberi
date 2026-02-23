@@ -1,7 +1,7 @@
 ---
 title: "Bahçeli Hamam"
 date: "2026-01-09T22:56:42.723Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738604"
 
 # Bahçeli Hamam
 
-Bahçeli Hamam, İstanbul'un Beyoğlu ilçesinde, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu tarihi plaj, yaklaşık 140 hektarlık bir alan kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bahçeli Hamam, denize girme ve güneşlenme imkanlarının yanı sıra, tarihi önemi ve doğal güzelliği ile ziyaretçilerini cezbeder. Plajın etrafında bulunan tarihi hamamlar, ziyaretçilere farklı bir deneyim sunar. Bahçeli Hamam, İstanbul'un kalabalık streetsinden uzak, sakin ve huzurlu bir atmosfer arayanların tercih ettiği bir noktadır.
+Bahçeli Hamam, İstanbul'un Beyoğlu ilçesinde, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bahçeli Hamam, denize girme ve güneşlenme imkanlarının yanı sıra, tarihi önemi ve doğal güzelliği ile ziyaretçilerini cezbeder. Plajın etrafında bulunan tarihi hamamlar, ziyaretçilere farklı bir deneyim sunar. Bahçeli Hamam, İstanbul'un kalabalık streetsinden uzak, sakin ve huzurlu bir atmosfer arayanların tercih ettiği bir noktadır.
 
 ## Tarihçe
 

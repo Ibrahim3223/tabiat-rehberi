@@ -52,9 +52,9 @@ Bölgenin çevresel ilişkileri açısından, Yalın Dağ, Van Gölü'ne olan ya
 
 Yalın Dağ, Van'ın yüksek dağ ekosistemine ev sahipliği yapan bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Yüksek dağ ekolojisi ve alpin çayırların hakim olduğu bu bölgede, endemik türler de bulunmaktadır.
 
-Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçlarını renklendiren çiçekler ve sonbaharda sararan yapraklar dikkat çekiyor. Alpin flora, bu yükseklik zonlarında yaşayabilen özel bitkilerle temsil ediliyor. 
+Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçlarını renklendiren çiçekler ve sonbaharda sararan yapraklar dikkat çekiyor. Alpin flora, bu yükseklik zonlarında yaşayabilen özel bitkilerle temsil ediliyor.
 
-Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri, yaban keçileri ve farklı kuş türleri, bu bölgenin yüksek dağ ekosisteminin birer parçası. Sürüngenler de, bu dağların kayalık yüzeylerinde yaşamlarını sürdürüyor. 
+Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri, yaban keçileri ve farklı kuş türleri, bu bölgenin yüksek dağ ekosisteminin birer parçası. Sürüngenler de, bu dağların kayalık yüzeylerinde yaşamlarını sürdürüyor.
 
 Bu ekosistem, yüksek dağ ekolojisi ve alpin çayırların bir arada bulunduğu ender bölgelerden biri. Bu nedenle, ekolojik değeri oldukça yükse ve koruma altına alınması gereken bir alan.
 

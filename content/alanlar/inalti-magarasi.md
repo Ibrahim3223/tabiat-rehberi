@@ -33,9 +33,9 @@ Sinop'un Ayancık ilçesinde, kayaların gizli dünyasını keşfetmenizi sağla
 
 ## Tarihçe
 
-Sinop'un doğusunda yer alan İnaltaş Mağarası, tarihin derinliklerinde gizlenen bir doğal hazine olarak karşımıza çıkıyor. Bu bölgenin tarihi, M.Ö. 7. yüzyıla kadar uzanır ve çeşitli uygarlıkların izlerini taşır. Sinop, antik dönemde bir Yunan kolonisi olarak kurulmuş ve Roma İmparatorluğu döneminde önemli bir ticaret merkezi haline gelmiştir. 
+Sinop'un doğusunda yer alan İnaltaş Mağarası, tarihin derinliklerinde gizlenen bir doğal hazine olarak karşımıza çıkıyor. Bu bölgenin tarihi, M.Ö. 7. yüzyıla kadar uzanır ve çeşitli uygarlıkların izlerini taşır. Sinop, antik dönemde bir Yunan kolonisi olarak kurulmuş ve Roma İmparatorluğu döneminde önemli bir ticaret merkezi haline gelmiştir.
 
-Bu bölge, históriki ticaret yollarının kesişme noktasında yer alır ve insanların doğal kaynaklara ulaşmak için kullandıkları bir güzergah olarak hizmet vermiştir. İnsanların bu tür doğal alanlarla ilişkisi, genellikle yaylacılık, hayvancılık ve ticaret faaliyetleri ile sınırlı olmuştur. İnaltaş Mağarası gibi doğal oluşumlar, tarih boyunca insanların settlements kurdukları, hayvancılık yaptıkları ve ticaret yolları üzerinde konakladıkları yerler olarak önem arz etmiştir.
+Bu bölge, tarihi ticaret yollarının kesişme noktasında yer alır ve insanların doğal kaynaklara ulaşmak için kullandıkları bir güzergah olarak hizmet vermiştir. İnsanların bu tür doğal alanlarla ilişkisi, genellikle yaylacılık, hayvancılık ve ticaret faaliyetleri ile sınırlı olmuştur. İnaltaş Mağarası gibi doğal oluşumlar, tarih boyunca insanların settlements kurdukları, hayvancılık yaptıkları ve ticaret yolları üzerinde konakladıkları yerler olarak önem arz etmiştir.
 
 Bu mağaranın tarihsel önemi, Türkiye'deki benzer doğal alanlarla birlikte değerlendirildiğinde daha iyi anlaşılabilir. Türkiye, geniş bir jeolojik çeşitliliğe sahip bir ülke olup, birçok farklı doğal oluşumun bulunduğu bir bölgedir. İnsanların bu doğal alanlarla olan ilişkisi, tarih boyunca çeşitli şekillerde devam etmiş ve bu alanlar, insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlamışlardır.
 
@@ -51,7 +51,7 @@ Doğal güzelliklerin zengin olduğu Karadeniz Bölgesi'nde, Sinop ilinin kuzeyd
 
 ## Flora ve Fauna
 
-Inaltı Mağarası ve çevresindeki jeopark, step bitki örtüsüne ev sahipliği yapan benzersiz bir ekosistemdir. 
+Inaltı Mağarası ve çevresindeki jeopark, step bitki örtüsüne ev sahipliği yapan benzersiz bir ekosistemdir.
 1. Bitki Örtüsü: Bu bölgede hakim olan bozkır bitki örtüsü, kuraklığa adapte olmuş türlerden oluşur. İlkbaharın gelmesiyle birlikte, çiçeklerin renkli bir şöleni başlar. Step bitkileri, mevsimsel değişimlere uyum sağlayarak hayatta kalır.
 2. Yaban Hayatı: Bu bölge, çeşitli yaban hayvanlarına ev sahipliği yapar. Memeliler, kuşlar ve sürüngenler, bu ekosistemin birer parçası olarak yaşamlarını sürdürürler. İlkbahar ve yaz aylarında, göçmen kuşlar bu bölgeyi ziyaret eder.
 3. Ekolojik Değer: Inaltı Mağarası ve çevresi, ekolojik açıdan önemli bir bölgedir. Bu bölge, çeşitli türlerin yaşam alanlarını korur ve doğal dengenin korunmasına katkı sağlar.

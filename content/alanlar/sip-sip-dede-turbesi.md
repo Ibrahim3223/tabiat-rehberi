@@ -1,7 +1,7 @@
 ---
 title: "Şıp Şıp Dede Türbesi"
 date: "2026-01-10T06:17:11.299Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390690"
 
 # Şıp Şıp Dede Türbesi
 
-Şıp Şıp Dede Türbesi, Edremit'in en çok ziyaret edilen yerlerinden biridir. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve denize nazır bir konumdadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çeker. Şıp Şıp Dede Türbesi, ziyaretçilerine hem dinlenme hem de eğlence olanakları sunar.
+Şıp Şıp Dede Türbesi, Edremit'in en çok ziyaret edilen yerlerinden biridir. Bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çeker. Şıp Şıp Dede Türbesi, ziyaretçilerine hem dinlenme hem de eğlence olanakları sunar.
 
 ## Tarihçe
 

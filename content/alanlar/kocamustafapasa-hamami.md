@@ -1,7 +1,7 @@
 ---
 title: "Kocamustafapaşa Hamamı"
 date: "2026-01-09T22:17:11.136Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

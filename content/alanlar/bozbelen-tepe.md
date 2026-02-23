@@ -28,7 +28,7 @@ wikidata_id: "Q31390129"
 
 # Bozbelen Tepe
 
-Bozbelen Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan 140 hektarlık bir doğal alandır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bozbelen Tepe, doğa severlerin ve gezi tutkunlarının keşfetmeye hazır olduğu bir destinasyon. Bu tepe, Antalya'nın turizm zenginliklerini gösteren önemli bir noktadır. 140 hektarlık bu yeşil alan, ziyaretçilerine doğanın renklerini ve seslerini sunuyor.
+Bozbelen Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan 140 hektarlık bir doğal alandır. Bozbelen Tepe, doğa severlerin ve gezi tutkunlarının keşfetmeye hazır olduğu bir destinasyon. Bu tepe, Antalya'nın turizm zenginliklerini gösteren önemli bir noktadır. 140 hektarlık bu yeşil alan, ziyaretçilerine doğanın renklerini ve seslerini sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bozbelen Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Bozbelen Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe olarak, coğrafi konumu itibariyle önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir yeşil alan sunmaktadır. Bu tepe, çevreyi kuşatan dağlarla birlikte, bir doğa harikası olarak görülmektedir. İklimi, Akdeniz ikliminin özellikleri taşır ve bu nedenle, ziyaretçilere dört mevsim farklı deneyimler sunar. Bozbelen Tepe'nin coğrafi yapısı, flora ve fauna için uygun bir ortam sağlar. Bu tepe, doğa severler için bir cennet olarak görülmektedir.
+Bozbelen Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe olarak, coğrafi konumu itibariyle önemli bir noktadır. Bu tepe, çevreyi kuşatan dağlarla birlikte, bir doğa harikası olarak görülmektedir. İklimi, Akdeniz ikliminin özellikleri taşır ve bu nedenle, ziyaretçilere dört mevsim farklı deneyimler sunar. Bozbelen Tepe'nin coğrafi yapısı, flora ve fauna için uygun bir ortam sağlar. Bu tepe, doğa severler için bir cennet olarak görülmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Bozbelen Tepe'yi ziyaret etmek, doğa severler için harika bir deneyim olabilir
 ## İlginç Bilgiler
 
 - Bozbelen Tepe, 140 hektarlık bir doğal alana sahiptir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bozbelen Tepe, Akdeniz Bölgesi'nde yer alır.
 - Bu tepe, flora ve fauna için uygun bir ortamdır.
 - Bozbelen Tepe, doğa severler için önemli bir destinasyondur.

@@ -28,7 +28,7 @@ wikidata_id: "Q31551477"
 
 # Rişkala Tepesi
 
-Rişkala Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta olarak karşımıza çıkıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak düşünülebilir. Mardin'in merkezine oldukça yakın olan Rişkala Tepesi, ziyaretçilerini tarihi geçmişi ve eşsiz manzarasıyla bekliyor. Tepenin eteklerinde yer alan tarihi yapılar ve çevredeki doğal güzellikler, burayı gezilecek önemli yerler listesine eklememiz için yeterli nedenler sunuyor.
+Rişkala Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta olarak karşımıza çıkıyor. Mardin'in merkezine oldukça yakın olan Rişkala Tepesi, ziyaretçilerini tarihi geçmişi ve eşsiz manzarasıyla bekliyor. Tepenin eteklerinde yer alan tarihi yapılar ve çevredeki doğal güzellikler, burayı gezilecek önemli yerler listesine eklememiz için yeterli nedenler sunuyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32196116"
 
 # Yüceziyaret Tepe
 
-Yüceziyaret Tepe, Kahramanmaraş'ın coğrafi ve tarihi zenginliklerini bir araya getiren özel bir bölgedir. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğal güzellikleri ve tarihi değerleriyle dikkat çeker. Ziyaretçiler, bu tepeye çıkarak, çevreyi panoramik olarak izleme fırsatı bulur. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösterir. Yüceziyaret Tepe, Kahramanmaraş'ın önemli turizm noktalarından biri olarak görülür.
+Yüceziyaret Tepe, Kahramanmaraş'ın coğrafi ve tarihi zenginliklerini bir araya getiren özel bir bölgedir. Doğal güzellikleri ve tarihi değerleriyle dikkat çeker. Ziyaretçiler, bu tepeye çıkarak, çevreyi panoramik olarak izleme fırsatı bulur. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösterir. Yüceziyaret Tepe, Kahramanmaraş'ın önemli turizm noktalarından biri olarak görülür.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yüceziyaret Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Yüceziyaret Tepe, Kahramanmaraş'ın coğrafi yapısını yansıtan özel bir bölgedir. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. İklim, Akdeniz ikliminin özelliklerini gösterir; yaz ayları sıcak ve kurak, kış ayları ılıman ve yağışlıdır. Yüceziyaret Tepe'nin coğrafi konumu, ziyaretçilere doğal güzellikleri ve panoramik manzaraları sunar. Tepe, yaklaşık 140 hektarlık alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kaplayan bir yeşil alan olarak görülür. Yüceziyaret Tepe, coğrafi güzellikleri ve tarihi değerleriyle ziyaretçilerini etkiler.
+Yüceziyaret Tepe, Kahramanmaraş'ın coğrafi yapısını yansıtan özel bir bölgedir. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. İklim, Akdeniz ikliminin özelliklerini gösterir; yaz ayları sıcak ve kurak, kış ayları ılıman ve yağışlıdır. Yüceziyaret Tepe'nin coğrafi konumu, ziyaretçilere doğal güzellikleri ve panoramik manzaraları sunar. Yüceziyaret Tepe, coğrafi güzellikleri ve tarihi değerleriyle ziyaretçilerini etkiler.
 
 ## Flora ve Fauna
 

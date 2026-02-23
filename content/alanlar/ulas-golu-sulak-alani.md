@@ -22,7 +22,7 @@ wikidata_id: "Q108228839"
 
 # Ulaş Gölü Sulak Alanı
 
-Ulaş Gölü Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsar. Bu sulak alan, bölgenin ekolojik dengesini koruma altına almakta ve birçok canlıyaşam alanı sunmaktadır. Ulaş Gölü Sulak Alanı, özellikle su kuşlarının göç yolu üzerinde bulunmasıyla dikkat çekmektedir. Bu bölge, aynı zamanda flora ve fauna açısından zengin bir çeşitliliğe sahiptir. Ulaş Gölü Sulak Alanı, doğa severlerin ve bilim insanlarının ilgi odağı haline gelmiştir.
+Ulaş Gölü Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir. Bu sulak alan, bölgenin ekolojik dengesini koruma altına almakta ve birçok canlıyaşam alanı sunmaktadır. Ulaş Gölü Sulak Alanı, özellikle su kuşlarının göç yolu üzerinde bulunmasıyla dikkat çekmektedir. Bu bölge, aynı zamanda flora ve fauna açısından zengin bir çeşitliliğe sahiptir. Ulaş Gölü Sulak Alanı, doğa severlerin ve bilim insanlarının ilgi odağı haline gelmiştir.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Ulaş Gölü Sulak Alanı, özellikle ilkbahar ve sonbahar aylarında ziyaretçi
 ## İlginç Bilgiler
 
 - Ulaş Gölü Sulak Alanı, 140 hektarlık bir alana sahiptir.
-- Bu sulak alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsar.
+
 - Ulaş Gölü Sulak Alanı, özellikle su kuşlarının göç yolu üzerinde bulunmaktadır.
 - Bu sulak alan, flora ve fauna açısından zengin bir çeşitliliğe sahiptir.
 - Ulaş Gölü Sulak Alanı, doğa severlerin ve bilim insanlarının ilgi odağı haline gelmiştir.

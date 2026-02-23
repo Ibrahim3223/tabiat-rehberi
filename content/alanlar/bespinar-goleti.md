@@ -46,7 +46,7 @@ Doğal bir su birikintisi olan Beşpınar Göleti, yaklaşık bir şehir bloğu 
 
 İklim açısından, Beşpınar Göleti Güneydoğu Anadolu Bölgesi'nin karakteristik mevsimsel değişimlerini yaşar. Yaz aylarında sıcaklık 40 dereceleri aşabilirken, kış aylarında 0 derecenin altına düşebilir. Bu mevsimsel dalgalanma, göletin su seviyesini ve çevresindeki bitki örtüsünü etkiler. Bölgenin kurak bir iklimi olması, göletin su kaynakları açısından daha da önemli hale gelmesini sağlar.
 
-Beşpınar Göleti, çevresindeki tarım alanları ve doğal habitatlar ile önemli bir ilişkiye sahiptir. Gölet, bölgedeki su kaynaklarının bir parçası olarak, yerel tarım ve hayvancılık faaliyetlerine katkıda bulunur. Ayrıca, gölet ve çevresindeki alanlar, çeşitli kuş türleri ve diğer canlılar için önemli bir yaşam alanı olarak görev yapar. Bu nedenle, göletin korunması ve sürdürülebilir kullanımı, bölgenin ekolojik dengesini korumak açısından büyük önem taşır.
+Beşpınar Göleti, çevresindeki tarım alanları ve doğal habitatlar ile önemli bir ilişkiye sahiptir. Gölet, bölgedeki su kaynaklarının bir parçası olarak, yerel tarım ve hayvancılık faaliyetlerine katkıda bulunur. Ayrıca, gölet ve çevresindeki alanlar, çeşitli kuş türleri ve diğer canlılar için önemli bir yaşam alanı olarak görev yapar.
 
 ## Flora ve Fauna
 

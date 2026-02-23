@@ -28,7 +28,7 @@ wikidata_id: "Q32211284"
 
 # Kızılsarnıç Tepe
 
-Kızılsarnıç Tepe, Karaman'ın İç Anadolu Bölgesi'nde yer alan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, coğrafi konumuyla birlikte tarihi ve kültürel zenginliklere de ev sahipliği yapıyor. Kızılsarnıç Tepe, ziyaretçilerini doğanın güzelliği ve tarihi geçmişiyle karşılar. Burada, doğa yürüyüşleri yapabilir, manzaraları izleyebilir ve bölgenin tarihini keşfedebilirsiniz. Kızılsarnıç Tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir destinasyon.
+Kızılsarnıç Tepe, Karaman'ın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, coğrafi konumuyla birlikte tarihi ve kültürel zenginliklere de ev sahipliği yapıyor. Kızılsarnıç Tepe, ziyaretçilerini doğanın güzelliği ve tarihi geçmişiyle karşılar. Burada, doğa yürüyüşleri yapabilir, manzaraları izleyebilir ve bölgenin tarihini keşfedebilirsiniz. Kızılsarnıç Tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir destinasyon.
 
 ## Tarihçe
 

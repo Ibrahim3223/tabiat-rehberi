@@ -28,7 +28,7 @@ wikidata_id: "Q31390138"
 
 # Tekeburcak Tepe
 
-Tekeburcak Tepe, Antalya'nın güzide noktalarından biri olarak karşımıza çıkar. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Tekeburcak Tepe, coğrafi konumu itibarıyla Akdeniz Bölgesi'nin önemli bir parçasıdır. Bu tepe, etrafındaki doğal güzellikleriyle ve tarihi geçmişiyle dikkat çeker. Antalya'nın turizm değerleri arasında yer alan Tekeburcak Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar.
+Tekeburcak Tepe, Antalya'nın güzide noktalarından biri olarak karşımıza çıkar. Tekeburcak Tepe, coğrafi konumu itibarıyla Akdeniz Bölgesi'nin önemli bir parçasıdır. Bu tepe, etrafındaki doğal güzellikleriyle ve tarihi geçmişiyle dikkat çeker. Antalya'nın turizm değerleri arasında yer alan Tekeburcak Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar.
 
 ## Tarihçe
 

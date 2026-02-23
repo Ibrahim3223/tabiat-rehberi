@@ -33,7 +33,7 @@ Tunceli'nin dağlık arazisinde yer alan Tunceli Kızıl Dağı, ilin coğrafi �
 
 ## Tarihçe
 
-Tunceli Kızıl Dağı, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu bölge, tarihin sâu sayfalarında önemli bir yere sahiptir. İnsanlık tarihinin önemli uygarlıklarından biri olan Hititlerin, Tunceli bölgesinde yaşadığı bilinmektedir. Daha sonra ise, Roma ve Bizans dönemlerinde bölgenin stratejik konumu nedeniyle önemli ticaret yolları üzerinde yer aldığından, çeşitli medeniyetlerin izlerini taşımaktadır.
+Tunceli Kızıl Dağı, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu bölge, tarihin derin sayfalarında önemli bir yere sahiptir. İnsanlık tarihinin önemli uygarlıklarından biri olan Hititlerin, Tunceli bölgesinde yaşadığı bilinmektedir. Daha sonra ise, Roma ve Bizans dönemlerinde bölgenin stratejik konumu nedeniyle önemli ticaret yolları üzerinde yer aldığından, çeşitli medeniyetlerin izlerini taşımaktadır.
 
 Doğal alanlar, Türkiye'nin kültürel ve coğrafi mirasının önemli bir parçasını oluşturur. Bu tür alanlar, insanların yaşamını sürdürmesi için gerekli olan ekosistemi sağlar ve aynı zamanda insanların doğayla olan bağını güçlendirir. Tunceli bölgesinde, yaylacılık ve hayvancılık gibi geleneksel faaliyetler, yüzyıllardır devam etmektedir. Bu faaliyetler, bölgenin doğal kaynaklarını koruma altına almakla birlikte, insanların bu alanla olan bağını da güçlendirmektedir.
 
@@ -51,10 +51,10 @@ Mevsimsel açıdan bakıldığında, Tunceli Kızıl Dağı, karasal iklimin hü
 
 ## Flora ve Fauna
 
-Tunceli Kızıl Dağı, yüksek dağ ekolojisinin tüm ihtişamını sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Dağın yamacında, alpin çayırlar ve endemik türlerle dolu bir dünya sizi bekliyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde renkli çiçekler açarak manzarayı renklendirir. 
-Yaban hayatına baktığımızda, dağ keçileri, ayılar ve kurtlar gibi memelilerin yanı sıra, kartallar ve şahinler gibi yırtıcı kuşlar da bu dağların sakinleridir. 
-Bu dağ ekosisteminin önemi, yükseklik zonlarına bağlı olarak değişen flora ve faunaya ev sahipliği yapmasıdır. Alpin flora, dağ hayvanları ve endemik türler, bu bölgeyi benzersiz kılar. 
+Tunceli Kızıl Dağı, yüksek dağ ekolojisinin tüm ihtişamını sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Dağın yamacında, alpin çayırlar ve endemik türlerle dolu bir dünya sizi bekliyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde renkli çiçekler açarak manzarayı renklendirir.
+Yaban hayatına baktığımızda, dağ keçileri, ayılar ve kurtlar gibi memelilerin yanı sıra, kartallar ve şahinler gibi yırtıcı kuşlar da bu dağların sakinleridir.
+Bu dağ ekosisteminin önemi, yükseklik zonlarına bağlı olarak değişen flora ve faunaya ev sahipliği yapmasıdır. Alpin flora, dağ hayvanları ve endemik türler, bu bölgeyi benzersiz kılar.
 Tunceli Kızıl Dağı, doğal güzelliği ve biyolojik çeşitliliği ile önemli bir ekolojik değer taşıyor.
 
 ## Ziyaret Bilgileri

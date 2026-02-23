@@ -22,7 +22,7 @@ wikidata_id: "Q108227275"
 
 # Adapazari-Akyazi-Dokurcun Mese 1
 
-Adapazari-Akyazi-Dokurcun Mese 1, İç Anadolu Bölgesi'nin merkezi bir konumda yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Bu milli park, ziyaretçilerini hem tarihi geçmişiyle hem de doğal güzellikleriyle karşılar. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu milli parkta net bir şekilde görülebilir.
+Adapazari-Akyazi-Dokurcun Mese 1, İç Anadolu Bölgesi'nin merkezi bir konumda yer alır. Bu milli park, ziyaretçilerini hem tarihi geçmişiyle hem de doğal güzellikleriyle karşılar. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu milli parkta net bir şekilde görülebilir.
 
 ## Tarihçe
 

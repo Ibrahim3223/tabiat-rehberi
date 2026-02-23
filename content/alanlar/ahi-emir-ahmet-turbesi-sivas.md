@@ -1,7 +1,7 @@
 ---
 title: "Ahi Emir Ahmet Türbesi, Sivas"
 date: "2026-01-10T06:35:04.649Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582405"
 
 # Ahi Emir Ahmet Türbesi, Sivas
 
-Sivas city merkezinde bulunan Ahi Emir Ahmet Türbesi, şehrin önemli tarihi mekanlarından biridir. 140 hektarlık bir alan üzerinde bulunan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin etrafında bulunan yeşil alanlar, doğa severlerin keyif alabileceği bir ortam sunar. Sivas'ın coğrafi konumu, türbeyi ziyaret edenlerin şehrin diğer tarihi mekanlarına kolayca ulaşabilmesini sağlar. Ahi Emir Ahmet Türbesi, Sivas'ın tarihini ve kültürünü keşfetmek isteyenler için önemli bir durak noktasıdır.
+Sivas city merkezinde bulunan Ahi Emir Ahmet Türbesi, şehrin önemli tarihi mekanlarından biridir. Türbenin etrafında bulunan yeşil alanlar, doğa severlerin keyif alabileceği bir ortam sunar. Sivas'ın coğrafi konumu, türbeyi ziyaret edenlerin şehrin diğer tarihi mekanlarına kolayca ulaşabilmesini sağlar. Ahi Emir Ahmet Türbesi, Sivas'ın tarihini ve kültürünü keşfetmek isteyenler için önemli bir durak noktasıdır.
 
 ## Tarihçe
 

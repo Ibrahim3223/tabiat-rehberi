@@ -47,7 +47,7 @@ Jeolojik açıdan bakıldığında, Çimen Dağları'nın fiziksel yapısı oldu
 
 Mevsimsel değişimlerin etkisi altında kalan Çimen Dağları, iklim karakteri bakımından da dikkat çekiyor. Bölgenin yüksekliği, Eiffel Kulesi'nin birkaç katı yükseklikte olan bazı zirvelerine sahip. Bu yükseklik, mevsimsel hava koşullarının değişken olmasına neden oluyor. Kış aylarında karla kaplı olan dağlar, yaz aylarında ise yeşilin her tonuna sahip oluyor.
 
-Çevresel açıdan bakıldığında, Çimen Dağları'nın komşu alanlarla ve su kaynaklarıyla olan bağlantıları önemli. Bu dağlık alan, bölgenin ekosistemini destekleyen önemli bir kaynak olarak görülebilir. Monaco'nun yarısı kadar büyük olan bazı komşu bölgelerle kıyaslandığında, Çimen Dağları'nın kendi içinde bir ekosistem olarak işlev gördüğü anlaşılabilir. Bu doğal güzelliğin korunması, bölgenin ekolojik dengesini korumak açısından kritik öneme sahip.
+Çevresel açıdan bakıldığında, Çimen Dağları'nın komşu alanlarla ve su kaynaklarıyla olan bağlantıları önemli. Bu dağlık alan, bölgenin ekosistemini destekleyen önemli bir kaynak olarak görülebilir. Monaco'nun yarısı kadar büyük olan bazı komşu bölgelerle kıyaslandığında, Çimen Dağları'nın kendi içinde bir ekosistem olarak işlev gördüğü anlaşılabilir.
 
 ## Flora ve Fauna
 

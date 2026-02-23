@@ -1,7 +1,7 @@
 ---
 title: "Gülbaba Türbesi"
 date: "2026-01-10T07:30:43.206Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırklareli"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391298"
 
 # Gülbaba Türbesi
 
-Gülbaba Türbesi, Kırklareli'nin Kofçaz ilçesinde yer alan bir tarihi mekan ve plaj olarak dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli turistik noktalarından biridir. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Gülbaba Türbesi, tarihi geçmişi ve eşsiz doğası ile ziyaretçilerine benzersiz bir deneyim sunar. Türbenin etrafındaki yeşil alanlar ve plaj, ziyaretçilerin dinlenip eğlenebileceği ideal bir ortamdır.
+Gülbaba Türbesi, Kırklareli'nin Kofçaz ilçesinde yer alan bir tarihi mekan ve plaj olarak dikkat çekmektedir. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Gülbaba Türbesi, tarihi geçmişi ve eşsiz doğası ile ziyaretçilerine benzersiz bir deneyim sunar. Türbenin etrafındaki yeşil alanlar ve plaj, ziyaretçilerin dinlenip eğlenebileceği ideal bir ortamdır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gülbaba Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Tarihi mekan�
 
 ## Coğrafya
 
-Gülbaba Türbesi, Marmara Bölgesi'nin Kırklareli ilinin Kofçaz ilçesinde yer almaktadır. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan ve plajdan oluşmaktadır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerin dinlenip eğlenebileceği ideal bir ortamdır. Coğrafi olarak, bölgede çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Gülbaba Türbesi ve çevresindeki coğrafya, ziyaretçilere doğayı keşfetme ve tarihi mekanları gezip görmeye olanak tanıyan bir destinasyondur. Bölgenin coğrafi özellikleri, ziyaretçilerin farklı mevsimlerde farklı deneyimler yaşayabilmesini sağlar.
+Gülbaba Türbesi, Marmara Bölgesi'nin Kırklareli ilinin Kofçaz ilçesinde yer almaktadır. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan ve plajdan oluşmaktadır. Coğrafi olarak, bölgede çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Gülbaba Türbesi ve çevresindeki coğrafya, ziyaretçilere doğayı keşfetme ve tarihi mekanları gezip görmeye olanak tanıyan bir destinasyondur. Bölgenin coğrafi özellikleri, ziyaretçilerin farklı mevsimlerde farklı deneyimler yaşayabilmesini sağlar.
 
 ## Flora ve Fauna
 

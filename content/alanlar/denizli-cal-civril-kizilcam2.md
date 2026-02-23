@@ -22,7 +22,7 @@ wikidata_id: "Q108228527"
 
 # Denizli-Cal-Civril-Kizilcam2
 
-Denizli-Cal-Civril-Kizilcam2 milli parkı, Ege Bölgesi'nin güneybatı kesiminde yer alan bir doğal güzelliktir. Bu alan, yaklaşık 140 hektarlık bir alanı kapsar ve büyüklüğü itibariyle 200 futbol sahası büyüklüğüne eşittir. Denizli ilinin merkezine yakın bir konumda bulunan bu milli park, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu doğal ortam, ziyaretçilere unutulmaz bir deneyim sunar.
+Denizli-Cal-Civril-Kizilcam2 milli parkı, Ege Bölgesi'nin güneybatı kesiminde yer alan bir doğal güzelliktir. Denizli ilinin merkezine yakın bir konumda bulunan bu milli park, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu doğal ortam, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Denizli-Cal-Civril-Kizilcam2 milli parkını ziyaret etmek, ziyaretçilere birç
 ## İlginç Bilgiler
 
 - Milli parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
-- Milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Milli parkın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır.
 - Milli park, Ege Bölgesi'nin coğrafi özellikleri ile şekillenmiştir.
 - Milli parkın flora ve faunası, mevsimsel değişimlere göre şekillenir.

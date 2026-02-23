@@ -28,7 +28,7 @@ wikidata_id: "Q34827867"
 
 # Mount Çakmak
 
-Mount Çakmak, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Gaziantep'in eşsiz manzaralarına ev sahipliği yapan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilere geniş bir doğal alan sunuyor. Mount Çakmak, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın güzelliği ile baş başa bırakıyor.
+Mount Çakmak, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Gaziantep'in eşsiz manzaralarına ev sahipliği yapan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Mount Çakmak, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın güzelliği ile baş başa bırakıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mount Çakmak'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Mount Çakmak, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alıyor. Gaziantep'in merkezine yakın bir konumda bulunan bu tepe, şehrin doğal güzelliklerini ön plana çıkarıyor. Mount Çakmak'ın coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilere geniş bir doğal alan sunuyor. Mount Çakmak'ın çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, tepeye renk katıyor. Mount Çakmak, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın güzelliği ile baş başa bırakıyor. Bu tepe, Gaziantep'in iklimini yansıtıyor ve ziyaretçilere, şehrin doğal güzelliklerini sunuyor.
+Mount Çakmak, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alıyor. Gaziantep'in merkezine yakın bir konumda bulunan bu tepe, şehrin doğal güzelliklerini ön plana çıkarıyor. Mount Çakmak'ın coğrafyası, ziyaretçilere çeşitli manzaralar sunuyor. Mount Çakmak'ın çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, tepeye renk katıyor. Mount Çakmak, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın güzelliği ile baş başa bırakıyor. Bu tepe, Gaziantep'in iklimini yansıtıyor ve ziyaretçilere, şehrin doğal güzelliklerini sunuyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389387"
 
 # Kocahasan Tepesi
 
-Kocahasan Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu tepe, Mersin'in güzide tepelerinden biri olarak bilinir. Kocahasan Tepesi, doğa severlerin ve gezi tutkunlarının ziyaret ettiği önemli bir noktadır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kocahasan Tepesi, ziyaretçilerine doğayla iç içe bir expérience sunmaktadır. Tepenin manzarası, Akdeniz Bölgesi'nin güzelliklerini gözler önüne sermekte ve ziyaretçilerini büyülemektedir.
+ Bu tepe, Mersin'in güzide tepelerinden biri olarak bilinir. Kocahasan Tepesi, doğa severlerin ve gezi tutkunlarının ziyaret ettiği önemli bir noktadır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kocahasan Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Tepenin manzarası, Akdeniz Bölgesi'nin güzelliklerini gözler önüne sermekte ve ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kocahasan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tep
 
 ## Coğrafya
 
-Kocahasan Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Tepenin coğrafi konumu, Akdeniz ikliminin etkisinde kalmaktadır. Bu nedenle, tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kocahasan Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, çevredeki diğer tepelerden daha yüksektir. Kocahasan Tepesi, Mersin'in güzide tepelerinden biri olarak bilinir. Tepenin manzarası, Akdeniz Bölgesi'nin güzelliklerini gözler önüne sermekte ve ziyaretçilerini büyülemektedir. Kocahasan Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır.
+Kocahasan Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Tepenin coğrafi konumu, Akdeniz ikliminin etkisinde kalmaktadır. Bu nedenle, tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tepenin yüksekliği, çevredeki diğer tepelerden daha yüksektir. Kocahasan Tepesi, Mersin'in güzide tepelerinden biri olarak bilinir. Tepenin manzarası, Akdeniz Bölgesi'nin güzelliklerini gözler önüne sermekte ve ziyaretçilerini büyülemektedir. Kocahasan Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

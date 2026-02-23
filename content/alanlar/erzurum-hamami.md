@@ -1,7 +1,7 @@
 ---
 title: "Erzurum Hamamı"
 date: "2026-01-09T22:24:07.271Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738425"
 
 # Erzurum Hamamı
 
-Erzurum Hamamı, Doğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak bilinir. Yakutiye ilçesinde bulunan bu plaj, yaklaşık 140 hektarlık bir alanı kapsar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeye karşılık gelir. Erzurum Hamamı, doğal güzelliği ve temiz suyu ile ziyaretçilerini cezbeder. Plajın etrafında bulunan dağlar ve ormanlar, bu bölgeyi doğa severler için bir cennet haline getirir. Erzurum Hamamı, hem yazın hem de kışın ziyaret edilebilecek bir destinasyondur.
+Erzurum Hamamı, Doğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak bilinir. Yakutiye ilçesinde bulunan bu plaj, yaklaşık 140 hektarlık bir alanı kapsar. Erzurum Hamamı, doğal güzelliği ve temiz suyu ile ziyaretçilerini cezbeder. Plajın etrafında bulunan dağlar ve ormanlar, bu bölgeyi doğa severler için bir cennet haline getirir. Erzurum Hamamı, hem yazın hem de kışın ziyaret edilebilecek bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Erzurum Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge
 
 ## Coğrafya
 
-Erzurum Hamamı, Doğu Anadolu Bölgesi'nin en güzel coğrafyasına sahiptir. Plaj, Yakutiye ilçesinde bulunur ve yaklaşık 140 hektarlık bir alanı kapsar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeye karşılık gelir. Erzurum Hamamı, doğal güzelliği ve temiz suyu ile ziyaretçilerini cezbeder. Plajın etrafında bulunan dağlar ve ormanlar, bu bölgeyi doğa severler için bir cennet haline getirir. Erzurum Hamamı, hem yazın hem de kışın ziyaret edilebilecek bir destinasyondur. Plajın coğrafyası, ziyaretçilere çeşitli aktivite olanakları sunar. Erzurum Hamamı, su sporları, doğa yürüyüşleri ve diğer outdoor aktiviteler için ideal bir yerdir. Plajın iklimi, yazın sıcak ve kışın soğukk olarak karakterize edilir. Bu nedenle, Erzurum Hamamı, yılın her dönemi ziyaret edilebilir. Plajın coğrafyası, ziyaretçilere geniş bir faaliyet yelpazesi sunar.
+Erzurum Hamamı, Doğu Anadolu Bölgesi'nin en güzel coğrafyasına sahiptir. Plaj, Yakutiye ilçesinde bulunur ve yaklaşık 140 hektarlık bir alanı kapsar. Erzurum Hamamı, doğal güzelliği ve temiz suyu ile ziyaretçilerini cezbeder. Plajın etrafında bulunan dağlar ve ormanlar, bu bölgeyi doğa severler için bir cennet haline getirir. Erzurum Hamamı, hem yazın hem de kışın ziyaret edilebilecek bir destinasyondur. Plajın coğrafyası, ziyaretçilere çeşitli aktivite olanakları sunar. Erzurum Hamamı, su sporları, doğa yürüyüşleri ve diğer outdoor aktiviteler için ideal bir yerdir. Plajın iklimi, yazın sıcak ve kışın soğukk olarak karakterize edilir. Bu nedenle, Erzurum Hamamı, yılın her dönemi ziyaret edilebilir. Plajın coğrafyası, ziyaretçilere geniş bir faaliyet yelpazesi sunar.
 
 ## Flora ve Fauna
 

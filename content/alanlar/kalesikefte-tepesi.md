@@ -28,7 +28,7 @@ wikidata_id: "Q31548545"
 
 # Kalesikefte Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan Kalesikefte Tepesi, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Kalesikefte Tepesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle cezbediyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Kalesikefte Tepesi, Siirt ilinin önemli turizm noktalarından biri olarak dikkat çekiyor.
+Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan Kalesikefte Tepesi, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Kalesikefte Tepesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle cezbediyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Kalesikefte Tepesi, Siirt ilinin önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kalesikefte Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Kalesikefte Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Kalesikefte Tepesi, Siirt ilinin önemli turizm noktalarından biri olarak dikkat çekiyor. Tepenin coğrafi konumu, ziyaretçilerin buraya ulaşmasını kolaylaştırıyor. Kalesikefte Tepesi, doğu ve batı yönlerinde farklı coğrafi özellikler gösteriyor. Tepenin doğu yönü, daha çok ormanlık alanlarla kaplıyken, batı yönü daha çok açık alanlardan oluşuyor. Kalesikefte Tepesi, coğrafi olarak zengin ve çeşitli bir yapıya sahip.
+Kalesikefte Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Kalesikefte Tepesi, Siirt ilinin önemli turizm noktalarından biri olarak dikkat çekiyor. Tepenin coğrafi konumu, ziyaretçilerin buraya ulaşmasını kolaylaştırıyor. Kalesikefte Tepesi, doğu ve batı yönlerinde farklı coğrafi özellikler gösteriyor. Tepenin doğu yönü, daha çok ormanlık alanlarla kaplıyken, batı yönü daha çok açık alanlardan oluşuyor. Kalesikefte Tepesi, coğrafi olarak zengin ve çeşitli bir yapıya sahip.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kalesikefte Tepesi'ni ziyaret etmek, doğa ve tarih severler için harika bir de
 
 ## İlginç Bilgiler
 
-- Kalesikefte Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
 - Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor.
 - Kalesikefte Tepesi, tarihçiler ve arkeologlar için önemli bir araştırma alanı olarak kabul ediliyor.
 - Tepenin tarihi hakkında daha fazla bilgi edinmek için, ziyaretçiler buradaki tarihi eserleri ve kalıntıları inceleyebilirler.

@@ -28,7 +28,7 @@ wikidata_id: "Q31525933"
 
 # Deriyeri Tepesi
 
-Deriyeri Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel tepelerinden biri olarak bilinir. Batman şehrinde bulunan bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Deriyeri Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çeker. Bu tepe, bölge halkının da sık sık ziyaret ettiği bir yer olarak bilinir. Deriyeri Tepesi'ne çıkanlar, bölgenin güzel manzarasını izleme fırsatı bulur.
+Deriyeri Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel tepelerinden biri olarak bilinir. Deriyeri Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çeker. Bu tepe, bölge halkının da sık sık ziyaret ettiği bir yer olarak bilinir. Deriyeri Tepesi'ne çıkanlar, bölgenin güzel manzarasını izleme fırsatı bulur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Deriyeri Tepesi'nin tarihi geçmişi hakkında detaylı bilgi bulunmamaktadır. 
 
 ## Coğrafya
 
-Deriyeri Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Batman şehrinde bulunan bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Deriyeri Tepesi, bölgeyi çevreleyen dağların eteklerinde yer alır. Bu tepe, bölge halkının da sık sık ziyaret ettiği bir yer olarak bilinir. Deriyeri Tepesi'ne çıkanlar, bölgenin güzel manzarasını izleme fırsatı bulur. Deriyeri Tepesi, bölgeyi gezenlerin mutlaka ziyaret etmesi gereken bir yer olarak bilinir. Deriyeri Tepesi'nin coğrafi konumu, bölgenin iklimi ve bitki örtüsü hakkında önemli bilgiler verir.
+Deriyeri Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Deriyeri Tepesi, bölgeyi çevreleyen dağların eteklerinde yer alır. Bu tepe, bölge halkının da sık sık ziyaret ettiği bir yer olarak bilinir. Deriyeri Tepesi'ne çıkanlar, bölgenin güzel manzarasını izleme fırsatı bulur. Deriyeri Tepesi, bölgeyi gezenlerin mutlaka ziyaret etmesi gereken bir yer olarak bilinir. Deriyeri Tepesi'nin coğrafi konumu, bölgenin iklimi ve bitki örtüsü hakkında önemli bilgiler verir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Deriyeri Tepesi'ni ziyaret etmek isteyenler, Batman şehrine gelmelidir. Deriyer
 
 ## İlginç Bilgiler
 
-- Deriyeri Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
 - Deriyeri Tepesi, yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olarak kullanılmıştır.
 - Deriyeri Tepesi, bölge halkının kültürü ve geçmişi hakkında önemli bilgiler verir.
 - Deriyeri Tepesi, zengin flora ve faunaya sahiptir.

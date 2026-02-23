@@ -29,7 +29,7 @@ wikidata_id: "Q31388609"
 
 # Yeşil Tepe
 
-Yeşil Tepe, Tortum, Erzurum'da yer alan 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Bu bölge, Doğu Anadolu Bölgesi'nin en önemli doğal alanlarından biridir. Yeşil Tepe, ziyaretçilerini büyüleyici manzarasıyla karşılar ve doğa severler için bir cennet olarak kabul edilir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklüğü ile bölgenin en önemli yeşil alanlarından biridir. Yeşil Tepe, ziyaretçilerine doğanın güzelliğini sunmakla kalmaz, aynı zamanda bölgenin tarihi ve kültürel değerlerini de gözler önüne serer.
+ Bu bölge, Doğu Anadolu Bölgesi'nin en önemli doğal alanlarından biridir. Yeşil Tepe, ziyaretçilerini büyüleyici manzarasıyla karşılar ve doğa severler için bir cennet olarak kabul edilir. Yeşil Tepe, ziyaretçilerine doğanın güzelliğini sunmakla kalmaz, aynı zamanda bölgenin tarihi ve kültürel değerlerini de gözler önüne serer.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yeşil Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölg
 
 ## Coğrafya
 
-Yeşil Tepe, Doğu Anadolu Bölgesi'nin coğrafi olarak en önemli noktalarından biridir. Bu bölge, Tortum, Erzurum'da yer alır ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Yeşil Tepe'nin coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliğini sunar ve manzarasının büyüleyici olması ile ziyaretçilerini etkiler. Bölgenin iklimi, mevsimsel olarak değişir ve her mevsim, Yeşil Tepe'nin güzelliğini farklı bir şekilde gösterir. Yeşil Tepe, coğrafi olarak önemli bir konumda yer alır ve ziyaretçilerine doğal güzelliğini sunmakla kalmaz, aynı zamanda bölgenin coğrafi değerlerini de gözler önüne serer. Yeşil Tepe'nin coğrafi konumu, bölgenin doğal güzelliğini ve coğrafi değerlerini vurgular.
+Yeşil Tepe, Doğu Anadolu Bölgesi'nin coğrafi olarak en önemli noktalarından biridir. Yeşil Tepe'nin coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliğini sunar ve manzarasının büyüleyici olması ile ziyaretçilerini etkiler. Bölgenin iklimi, mevsimsel olarak değişir ve her mevsim, Yeşil Tepe'nin güzelliğini farklı bir şekilde gösterir. Yeşil Tepe, coğrafi olarak önemli bir konumda yer alır ve ziyaretçilerine doğal güzelliğini sunmakla kalmaz, aynı zamanda bölgenin coğrafi değerlerini de gözler önüne serer. Yeşil Tepe'nin coğrafi konumu, bölgenin doğal güzelliğini ve coğrafi değerlerini vurgular.
 
 ## Flora ve Fauna
 

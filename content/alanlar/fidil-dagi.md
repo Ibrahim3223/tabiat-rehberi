@@ -46,9 +46,9 @@ Mevsimsel açıdan, Fidil Dağı ve çevresinin iklimi, iç Anadolu'nun karasal 
 
 ## Flora ve Fauna
 
-Fidil Dağı, Sivas'ın görkemli dağ ekosistemlerinden biridir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ etekleri renkli çiçeklerle donanır. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler öne çıkar. 
+Fidil Dağı, Sivas'ın görkemli dağ ekosistemlerinden biridir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ etekleri renkli çiçeklerle donanır. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler öne çıkar.
 
-Yaban hayatı da bir o kadar zengin. Memeliler ve kuşlar, dağların yükseklik zonlarına göre dağılım gösterir. Sürüngenler ise, kayalık alanlarda yaşamayı tercih eder. Sonbaharın gelmesiyle birlikte, göç eden kuşlar bu dağları ziyaret eder. 
+Yaban hayatı da bir o kadar zengin. Memeliler ve kuşlar, dağların yükseklik zonlarına göre dağılım gösterir. Sürüngenler ise, kayalık alanlarda yaşamayı tercih eder. Sonbaharın gelmesiyle birlikte, göç eden kuşlar bu dağları ziyaret eder.
 
 Fidil Dağı, ekolojik değer açısından önemli bir alandır. Yükseklik zonları, alpin flora ve dağ hayvanları, bu bölgenin benzersiz özellikleridir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak için çok önemlidir.
 

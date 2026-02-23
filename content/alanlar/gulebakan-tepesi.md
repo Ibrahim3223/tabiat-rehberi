@@ -28,7 +28,7 @@ wikidata_id: "Q32139058"
 
 # Gülebakan Tepesi
 
-Gülebakan Tepesi, Van ilinin doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu bölge yaklaşık 140 hektarlık bir alanı kapsıyor ki, bu 200 futbol sahası büyüklüğüne eşdeğer. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri yer alıyor. Gülebakan Tepesi, hem doğa severler hem de tarihi eserleri keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, Van'ın coğrafi yapısının bir parçası olarak, bölgenin jeolojik özelliklerini gözler önüne seriyor.
+Gülebakan Tepesi, Van ilinin doğal güzelliklerinden biri olarak karşımıza çıkıyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri yer alıyor. Gülebakan Tepesi, hem doğa severler hem de tarihi eserleri keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, Van'ın coğrafi yapısının bir parçası olarak, bölgenin jeolojik özelliklerini gözler önüne seriyor.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Gülebakan Tepesi'ni ziyaret etmek, hem doğa severler hem de tarihi eserleri ke
 
 - Gülebakan Tepesi, Van ilinin önemli turizm noktalarından biri
 - Tepenin eteklerinde ve çevresinde çeşitli bitki türleri yer alıyor
-- Gülebakan Tepesi, histórik bir geçmişe sahip
+- Gülebakan Tepesi, tarihi bir geçmişe sahip
 - Bölge, farklı hayvan türlerine ev sahipliği yapıyor
 - Gülebakan Tepesi, Van'ın coğrafi yapısını karakterize eden bir unsur

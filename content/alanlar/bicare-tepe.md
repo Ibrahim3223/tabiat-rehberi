@@ -28,7 +28,7 @@ wikidata_id: "Q32140121"
 
 # Biçare Tepe
 
-Biçare Tepe, Ağrı ilinin sınırları içerisinde yer alan ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmayı amaçlayan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Biçare Tepe, ziyaretçilerine hem tarihi hem de coğrafi açıdan zengin bir deneyim sunuyor. Biçare Tepe'nin etrafı, çeşitli bitki türleriyle dolu ve bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Ayrıca, tepeye tırmanırken, ziyaretçiler, Ağrı'nın güzel manzarasını da görebiliyor.
+Biçare Tepe, Ağrı ilinin sınırları içerisinde yer alan ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmayı amaçlayan bir tepe. Biçare Tepe, ziyaretçilerine hem tarihi hem de coğrafi açıdan zengin bir deneyim sunuyor. Biçare Tepe'nin etrafı, çeşitli bitki türleriyle dolu ve bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Ayrıca, tepeye tırmanırken, ziyaretçiler, Ağrı'nın güzel manzarasını da görebiliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Biçare Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bu tepe,
 
 ## Coğrafya
 
-Biçare Tepe, Ağrı ilinin sınırları içerisinde yer alan ve coğrafi açıdan zengin bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Biçare Tepe, coğrafi açıdan önemli bir yer ve ziyaretçilerine, hem dağların hem de ovaların güzel manzarasını sunuyor. Biçare Tepe'nin etrafı, çeşitli bitki türleriyle dolu ve bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Ayrıca, tepeye tırmanırken, ziyaretçiler, Ağrı'nın güzel manzarasını da görebiliyor. Biçare Tepe, coğrafi açıdan önemli bir yer ve ziyaretçilerine, hem dağların hem de ovaların güzel manzarasını sunuyor.
+Biçare Tepe, Ağrı ilinin sınırları içerisinde yer alan ve coğrafi açıdan zengin bir tepe. Biçare Tepe, coğrafi açıdan önemli bir yer ve ziyaretçilerine, hem dağların hem de ovaların güzel manzarasını sunuyor. Biçare Tepe'nin etrafı, çeşitli bitki türleriyle dolu ve bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Ayrıca, tepeye tırmanırken, ziyaretçiler, Ağrı'nın güzel manzarasını da görebiliyor. Biçare Tepe, coğrafi açıdan önemli bir yer ve ziyaretçilerine, hem dağların hem de ovaların güzel manzarasını sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Biçare Tepe, ziyaretçilerini bekliyor. Bu tepe, hem tarihi hem de coğrafi aç
 
 ## İlginç Bilgiler
 
-- Biçare Tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
 - Biçare Tepe, flora ve fauna açısından zengin bir tepe.
 - Biçare Tepe, birçok medeniyete ev sahipliği yapmış.
 - Biçare Tepe, coğrafi açıdan önemli bir yer.

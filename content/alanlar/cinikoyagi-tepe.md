@@ -28,7 +28,7 @@ wikidata_id: "Q34829201"
 
 # Çinikoyağı Tepe
 
-Çinikoyağı Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Çinikoyağı Tepe, Konya'nın merkezi bir konumunda yer almakta ve şehrin doğal güzelliklerinin başında gelmektedir. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunmaktadır.
+Çinikoyağı Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir alandır. Çinikoyağı Tepe, Konya'nın merkezi bir konumunda yer almakta ve şehrin doğal güzelliklerinin başında gelmektedir. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunmaktadır.
 
 ## Tarihçe
 

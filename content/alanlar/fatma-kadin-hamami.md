@@ -1,7 +1,7 @@
 ---
 title: "Fatma Kadın Hamamı"
 date: "2026-01-09T23:45:18.269Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245717"
 
 # Fatma Kadın Hamamı
 
-Fatma Kadın Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Karesi'nin merkezine yakın bir konumda bulunan bu plaj, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Güneşin ısısını hissederken, Ege Denizi'nin serin sularında serinleyebilirsiniz. Plajın etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, hem doğa severler hem de deniz kenarında tatil yapmak isteyenler için ideal bir destinasyondur.
+Fatma Kadın Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Güneşin ısısını hissederken, Ege Denizi'nin serin sularında serinleyebilirsiniz. Plajın etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, hem doğa severler hem de deniz kenarında tatil yapmak isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

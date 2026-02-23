@@ -29,7 +29,7 @@ wikidata_id: "Q134728148"
 
 # Sarıveliler Tepe Örenyeri
 
-Sarıveliler Tepe Örenyeri, Karaman'ın Sarıveliler ilçesinde yer alan, tarihi ve doğal güzelliklerin bir araya geldiği özel bir bölgedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir keşif alanı sunmaktadır. Bu tepe, hem doğal güzelliği hem de tarihi önemi ile dikkat çekmektedir. Ziyaretçiler, buraya geldiğinde hem güzel manzaraları izleyebilir hem de geçmişin izlerini sürebilirler.
+Sarıveliler Tepe Örenyeri, Karaman'ın Sarıveliler ilçesinde yer alan, tarihi ve doğal güzelliklerin bir araya geldiği özel bir bölgedir. Bu tepe, hem doğal güzelliği hem de tarihi önemi ile dikkat çekmektedir. Ziyaretçiler, buraya geldiğinde hem güzel manzaraları izleyebilir hem de geçmişin izlerini sürebilirler.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Sarıveliler Tepe Örenyeri, Karaman'ın Sarıveliler ilçesinde, İç Anadolu B
 
 ## Flora ve Fauna
 
-Sarıveliler Tepe Örenyeri, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölgede, step ve bozkır bitki örtüsüne ait bitkiler yaygındır. Ayrıca, bölgenin flora ve faunası, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, bölgede çiçek açan bitkiler ve yeşillenen otlar görülürken, sonbahar ve kış aylarında daha çok çalı ve dikenli bitkiler hakim olur. Fauna açısından da zengin olan bölgede, çeşitli kuş türleri, memeliler ve sürüngenler bulunur. Ziyaretçiler, buradaki doğa güzelliğini ve canlı çeşitliliğini gözlemleyebilirler. Sarıveliler Tepe Örenyeri, doğa severler ve biyologlar için önemli bir araştırma ve gözlem alanı olarak da kullanılır.
+ Bölgede, step ve bozkır bitki örtüsüne ait bitkiler yaygındır. Ayrıca, bölgenin flora ve faunası, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, bölgede çiçek açan bitkiler ve yeşillenen otlar görülürken, sonbahar ve kış aylarında daha çok çalı ve dikenli bitkiler hakim olur. Fauna açısından da zengin olan bölgede, çeşitli kuş türleri, memeliler ve sürüngenler bulunur. Ziyaretçiler, buradaki doğa güzelliğini ve canlı çeşitliliğini gözlemleyebilirler. Sarıveliler Tepe Örenyeri, doğa severler ve biyologlar için önemli bir araştırma ve gözlem alanı olarak da kullanılır.
 
 ## Ziyaret Bilgileri
 

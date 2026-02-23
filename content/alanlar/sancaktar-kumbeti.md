@@ -29,7 +29,7 @@ wikidata_id: "Q135582380"
 
 # Sancaktar Kümbeti
 
-Sancaktar Kümbeti, Kayseri'nin Pınarbaşı ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Sancaktar Kümbeti, tarihi geçmişi ve doğal güzelliği ile birlikte, ziyaretçilerini bir hikaye içerisinde sürüklemeye davet ediyor. İç Anadolu Bölgesi'nin zengin kültürel mirasının önemli bir parçası olan Sancaktar Kümbeti, ziyaretçilerini tarihi ve doğal güzelliklerin bir arada bulunduğu bir dünya içerisinde ağırlıyor.
+Sancaktar Kümbeti, Kayseri'nin Pınarbaşı ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Sancaktar Kümbeti, tarihi geçmişi ve doğal güzelliği ile birlikte, ziyaretçilerini bir hikaye içerisinde sürüklemeye davet ediyor. İç Anadolu Bölgesi'nin zengin kültürel mirasının önemli bir parçası olan Sancaktar Kümbeti, ziyaretçilerini tarihi ve doğal güzelliklerin bir arada bulunduğu bir dünya içerisinde ağırlıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sancaktar Kümbeti'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Sancaktar Kümbeti, Kayseri'nin Pınarbaşı ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu mekan, coğrafi olarak zengin bir çeşitlilik sunuyor. Sancaktar Kümbeti, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Sancaktar Kümbeti'nin coğrafi konumu, ziyaretçilerini doğal güzelliklerin içerisinde bir yolculuğa çıkarıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, Sancaktar Kümbeti'nin güzelliğini daha da artırıyor. Sancaktar Kümbeti, coğrafi olarak çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor.
+Sancaktar Kümbeti, Kayseri'nin Pınarbaşı ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu mekan, coğrafi olarak zengin bir çeşitlilik sunuyor. Sancaktar Kümbeti'nin coğrafi konumu, ziyaretçilerini doğal güzelliklerin içerisinde bir yolculuğa çıkarıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, Sancaktar Kümbeti'nin güzelliğini daha da artırıyor. Sancaktar Kümbeti, coğrafi olarak çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31552730"
 
 # Avahuşhuş Tepesi
 
-Mardin'in doğal güzelliklerini sunan Avahuşhuş Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Avahuşhuş Tepesi, ziyaretçilerini doğal güzellikleri ve zengin flora ile karşılar. Bu tepede, çeşitli bitki türleri ve canlılar bulunur. Avahuşhuş Tepesi, Mardin'in tarihi ve kültürel zenginliklerinin yanında, doğal güzelliklerini de sunar.
+Mardin'in doğal güzelliklerini sunan Avahuşhuş Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Avahuşhuş Tepesi, ziyaretçilerini doğal güzellikleri ve zengin flora ile karşılar. Bu tepede, çeşitli bitki türleri ve canlılar bulunur. Avahuşhuş Tepesi, Mardin'in tarihi ve kültürel zenginliklerinin yanında, doğal güzelliklerini de sunar.
 
 ## Tarihçe
 

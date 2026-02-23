@@ -28,7 +28,7 @@ wikidata_id: "Q32127063"
 
 # Alayürek Tepesi
 
-Alayürek Tepesi, Kastamonu'nun muhteşem manzaralarına ev sahipliği yapan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Alayürek Tepesi'ne tırmanırken, Karadeniz Bölgesi'nin eşsiz doğasını ve tarihi geçmişi hakkında bilgi edinebilir, aynı zamanda bölgenin zengin flora ve faunasını keşfedebilirsiniz. Tepenin zirvesine ulaştığınızda, size sunulan manzara, emeğinizi karşılama garantisi taşır.
+Alayürek Tepesi, Kastamonu'nun muhteşem manzaralarına ev sahipliği yapan bir tepe. Alayürek Tepesi'ne tırmanırken, Karadeniz Bölgesi'nin eşsiz doğasını ve tarihi geçmişi hakkında bilgi edinebilir, aynı zamanda bölgenin zengin flora ve faunasını keşfedebilirsiniz. Tepenin zirvesine ulaştığınızda, size sunulan manzara, emeğinizi karşılama garantisi taşır.
 
 ## Tarihçe
 

@@ -52,7 +52,7 @@ Mevsimsel olarak, Nergiz Dağı, Akdeniz ikliminin karakteristik özelliklerini 
 
 Nergiz Dağı, Antalya'nın güneşli kıyı şeridinin immediate arkasında yükselen bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Kuraklığa dayanıklı türler, bu bölgenin karakteristik bitki örtüsünü oluşturuyor.
 
-Yaban hayatı da bir o kadar zengin. Dağların yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşamlarını sürdürüyor. Kuşlar ise bu bölgenin gerçek yıldızları. Göç mevsiminde, binlerce kuştur bu dağları ziyaret ediyor. Sürüngenler de bu dağların sakinleri arasında yer alıyor. 
+Yaban hayatı da bir o kadar zengin. Dağların yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşamlarını sürdürüyor. Kuşlar ise bu bölgenin gerçek yıldızları. Göç mevsiminde, binlerce kuştur bu dağları ziyaret ediyor. Sürüngenler de bu dağların sakinleri arasında yer alıyor.
 Nergiz Dağı, ekolojik açıdan büyük bir önem taşıyor. Bu dağ ekosisteminin korunması, bölgenin doğal dengesini korumak için çok önemli.
 
 ## Ziyaret Bilgileri

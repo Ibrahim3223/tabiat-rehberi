@@ -22,7 +22,7 @@ wikidata_id: "Q108228590"
 
 # Bursa-Keles-Muratdere-Uludag Goknari
 
-Bursa-Keles-Muratdere-Uludag Goknari milli parkı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki dağlarla birlikte muhteşem bir manzaraya sahiptir. Burada, doğanın güzelliğini keşfedebilir ve çeşitli bitki türleriyle zengin fauna hakkında bilgi edinebilirsiniz. Milli park, aynı zamanda tarihi geçmişiyle de dikkat çekiyor ve ziyaretçiler, buradaki eski yerleşim yerlerini gezebilirler.
+Bursa-Keles-Muratdere-Uludag Goknari milli parkı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir. Burada, doğanın güzelliğini keşfedebilir ve çeşitli bitki türleriyle zengin fauna hakkında bilgi edinebilirsiniz. Milli park, aynı zamanda tarihi geçmişiyle de dikkat çekiyor ve ziyaretçiler, buradaki eski yerleşim yerlerini gezebilirler.
 
 ## Tarihçe
 

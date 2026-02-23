@@ -28,7 +28,7 @@ wikidata_id: "Q31390763"
 
 # Sazan Tepesi
 
-Yozgat'ın eşsiz güzelliği Sazan Tepesi, İç Anadolu Bölgesi'nin önemli bir turizm merkezi. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar. Sazan Tepesi, Yozgat'ın merkezine yakınlığıyla dikkat çekiyor. Doğal güzellikleri, tarihi geçmişi ve coğrafi yapısı ile Sazan Tepesi, bir gezi için ideal bir destinasyon.
+Yozgat'ın eşsiz güzelliği Sazan Tepesi, İç Anadolu Bölgesi'nin önemli bir turizm merkezi. Sazan Tepesi, Yozgat'ın merkezine yakınlığıyla dikkat çekiyor. Doğal güzellikleri, tarihi geçmişi ve coğrafi yapısı ile Sazan Tepesi, bir gezi için ideal bir destinasyon.
 
 ## Tarihçe
 

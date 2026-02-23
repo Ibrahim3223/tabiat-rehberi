@@ -1,7 +1,7 @@
 ---
 title: "Tahir ile Zühre Mescidi ve Türbesi"
 date: "2026-01-10T06:36:48.639Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q132134426"
 
 # Tahir ile Zühre Mescidi ve Türbesi
 
-Tahir ile Zühre Mescidi ve Türbesi, Meram, Konya'da bulunan ve tarihi ile doğal güzelliğinin birleştiği ender yerlerden biri. Bu alan, yaklaşık 140 hektarlık bir araziyi kaplayan geniş bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu mescid ve türbe, şehrin kalabalığından uzaklaşmak isteyenler için sakin ve huzurlu bir kaçış noktası. Tahir ile Zühre Mescidi ve Türbesi, Konya'nın zengin tarihi ve kültürel mirasının önemli bir parçasıdır.
+Tahir ile Zühre Mescidi ve Türbesi, Meram, Konya'da bulunan ve tarihi ile doğal güzelliğinin birleştiği ender yerlerden biri. Bu mescid ve türbe, şehrin kalabalığından uzaklaşmak isteyenler için sakin ve huzurlu bir kaçış noktası. Tahir ile Zühre Mescidi ve Türbesi, Konya'nın zengin tarihi ve kültürel mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 

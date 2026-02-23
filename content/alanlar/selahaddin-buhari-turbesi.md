@@ -1,7 +1,7 @@
 ---
 title: "Selahaddin Buhari Türbesi"
 date: "2026-01-10T05:20:54.123Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"

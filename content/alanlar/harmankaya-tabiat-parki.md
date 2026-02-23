@@ -29,7 +29,7 @@ wikidata_id: "Q38251251"
 
 # Harmankaya Tabiat Parkı
 
-Harmankaya Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal güzellik, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Parkın içinde yürüyüş yolları, piknik alanları ve çocuk oyun alanları gibi çeşitli olanaklar yer alıyor. Doğa severler için ideal bir destinasyon olan Harmankaya Tabiat Parkı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+ Bu doğal güzellik, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Parkın içinde yürüyüş yolları, piknik alanları ve çocuk oyun alanları gibi çeşitli olanaklar yer alıyor. Doğa severler için ideal bir destinasyon olan Harmankaya Tabiat Parkı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

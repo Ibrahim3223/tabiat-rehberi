@@ -28,7 +28,7 @@ wikidata_id: "Q31386552"
 
 # Meşindağı Tepesi
 
-Meşindağı Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe olarak dikkat çekmektedir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleriyle zengin fauna sahiptir. Meşindağı Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar ve bölgeye özgü türleri keşfetme fırsatı sunar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma ve geleneksel yaşamı deneyimleme olanağı sağlar.
+Meşindağı Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe olarak dikkat çekmektedir. Meşindağı Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar ve bölgeye özgü türleri keşfetme fırsatı sunar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma ve geleneksel yaşamı deneyimleme olanağı sağlar.
 
 ## Tarihçe
 

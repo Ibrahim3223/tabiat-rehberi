@@ -1,7 +1,7 @@
 ---
 title: "Şeyh İdris Türbesi"
 date: "2026-01-10T06:20:41.363Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391795"
 
 # Şeyh İdris Türbesi
 
-Şeyh İdris Türbesi, Karadeniz Bölgesi'nin güzide plajlarından biri olarak, Giresun'un Piraziz ilçesinde yer alan bir doğal güzelliktir. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Şeyh İdris Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbeder. Giresun'un tarihi ve kültürel değerlerini taşıyan bu türbe, aynı zamanda Karadeniz Bölgesi'nin önemli dini merkezlerinden biridir. Şeyh İdris Türbesi, ziyaretçilerine hem manevi hem de doğal bir experiencia sunar.
+Şeyh İdris Türbesi, Karadeniz Bölgesi'nin güzide plajlarından biri olarak, Giresun'un Piraziz ilçesinde yer alan bir doğal güzelliktir. Şeyh İdris Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbeder. Giresun'un tarihi ve kültürel değerlerini taşıyan bu türbe, aynı zamanda Karadeniz Bölgesi'nin önemli dini merkezlerinden biridir. Şeyh İdris Türbesi, ziyaretçilerine hem manevi hem de doğal bir experiencia sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391795"
 
 ## Coğrafya
 
-Şeyh İdris Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini taşır. Bu türbe, Giresun'un Piraziz ilçesinde yer alır ve Karadeniz kıyılarına oldukça yakındır. Şeyh İdris Türbesi'nin etrafı, yeşilliklerle kaplı tepeler ve vadilerle çevrilidir. Bu coğrafi yapı, ziyaretçilere güzel bir manzara sunar. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şeyh İdris Türbesi'nin coğrafi konumu, ziyaretçilere hem deniz hem de dağ manzarasını sunar. Bu coğrafi güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunar. Şeyh İdris Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini yansıtan önemli bir mekândır.
+Şeyh İdris Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini taşır. Bu türbe, Giresun'un Piraziz ilçesinde yer alır ve Karadeniz kıyılarına oldukça yakındır. Şeyh İdris Türbesi'nin etrafı, yeşilliklerle kaplı tepeler ve vadilerle çevrilidir. Bu coğrafi yapı, ziyaretçilere güzel bir manzara sunar. Şeyh İdris Türbesi'nin coğrafi konumu, ziyaretçilere hem deniz hem de dağ manzarasını sunar. Bu coğrafi güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunar. Şeyh İdris Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini yansıtan önemli bir mekândır.
 
 ## Flora ve Fauna
 

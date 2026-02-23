@@ -23,7 +23,7 @@ wikidata_id: "Q108228663"
 
 # TAŞOVA
 
-Taşova milli parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kaplayan, doğa severler için gerçek bir cennet. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa tutkunları için sonsuz bir keşif alanı sunuyor. Milli parkın sunduğu zengin flora ve fauna, ziyaretçilere benzersiz bir deneyim sunuyor. Doğanın içinde kaybolma ve yaban hayatının güzelliğini keşfetmek isteyenler için Taşova, gerçek bir destinasyon.
+Taşova milli parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kaplayan, doğa severler için gerçek bir cennet. Milli parkın sunduğu zengin flora ve fauna, ziyaretçilere benzersiz bir deneyim sunuyor. Doğanın içinde kaybolma ve yaban hayatının güzelliğini keşfetmek isteyenler için Taşova, gerçek bir destinasyon.
 
 ## Tarihçe
 

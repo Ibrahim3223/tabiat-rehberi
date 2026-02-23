@@ -28,7 +28,7 @@ wikidata_id: "Q21702986"
 
 # Çıplakyurt Tepesi
 
-Çıplakyurt Tepesi, Iğdır'ın doğal güzellikleri arasında yer alan bir tepe. Doğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde bulunan bu tepe, özellikle manzarası ile dikkat çekiyor. 140 hektarlık bir alanı kapsayan Çıplakyurt Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor ve doğayı keşfetmek için ideal bir nokta oluşturuyor. Çıplakyurt Tepesi, doğa severler ve manzaraların güzelliğini keşfetmek isteyenler için bir çekim noktası.
+Çıplakyurt Tepesi, Iğdır'ın doğal güzellikleri arasında yer alan bir tepe. Doğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde bulunan bu tepe, özellikle manzarası ile dikkat çekiyor. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor ve doğayı keşfetmek için ideal bir nokta oluşturuyor. Çıplakyurt Tepesi, doğa severler ve manzaraların güzelliğini keşfetmek isteyenler için bir çekim noktası.
 
 ## Tarihçe
 

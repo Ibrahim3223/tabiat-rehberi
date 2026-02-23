@@ -43,7 +43,7 @@ Marmara Denizi'nin sakin suları içinde yer alan Pavli Adası, 40.8615°K, 29.2
 
 Jeolojik açıdan incelendiğinde, Pavli Adası'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, ada İstanbul'un kuzeydoğusunda yer alan diğer adalarla benzer özelliklere sahip olabilir. Bir şehir bloğu büyüklüğünde olan bu ada, küçük boyutuna rağmen Marmara Denizi'nin güzelliğini sunar. Ada hakkında daha detaylı fiziksel veriler bulunmuyor olsa da, coğrafi konumu itibariyle ilgi çekici bir nokta olarak dikkat çeker.
 
-Marmara Denizi'nin iklim característicasını taşıyan Pavli Adası, ılıman bir iklim karakterine sahiptir. Yaz aylarında sıcaklık ve nem oranı artarken, kış aylarında serin ve yağışlı bir hava hakim olur. Bu mevsimsel değişimler, adanın doğal güzelliğini her sezon farklı bir şekilde sunar. 
+Marmara Denizi'nin iklim característicasını taşıyan Pavli Adası, ılıman bir iklim karakterine sahiptir. Yaz aylarında sıcaklık ve nem oranı artarken, kış aylarında serin ve yağışlı bir hava hakim olur. Bu mevsimsel değişimler, adanın doğal güzelliğini her sezon farklı bir şekilde sunar.
 
 Pavli Adası, Marmara Denizi'nin bir parçası olarak çeşitli su kaynaklarına ve ekosistem bağlantılarına sahiptir. Ada, İstanbul'un su kaynaklarını koruma altına alan önemli bir noktada yer alır. Pavli Adası'nın çevresi, Marmara Denizi'nin zengin su altı yaşamına ev sahipliği yapmaktadır. Bu nedenle, ada ve çevresi, koruma altına alınması gereken önemli bir ekosistem olarak dikkat çeker.
 

@@ -1,7 +1,7 @@
 ---
 title: "Porselen Müzesi"
 date: "2026-01-10T15:11:27.209Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q6043801"
 
 # Porselen Müzesi
 
-Porselen Müzesi, Kütahya'nın merkezinde yer alan ve şehrin önemli kültürel mekanlarından biri olarak kabul edilen bir sanat ve tarih müzesidir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunan Porselen Müzesi, ziyaretçilerine hem sanatın güzelliğini hem de tarihî önemi anlatan bir mekan olarak hizmet vermektedir. Müzede, porselen sanatının tarihî gelişim süreci ve örnekleri sergilenmektedir. Ziyaretçiler, porselen üretimi ve tasarımı hakkında bilgi edinebilir ve bu eşsiz sanatın güzelliğini yakından inceleyebilirler.
+Porselen Müzesi, Kütahya'nın merkezinde yer alan ve şehrin önemli kültürel mekanlarından biri olarak kabul edilen bir sanat ve tarih müzesidir. Müzede, porselen sanatının tarihî gelişim süreci ve örnekleri sergilenmektedir. Ziyaretçiler, porselen üretimi ve tasarımı hakkında bilgi edinebilir ve bu eşsiz sanatın güzelliğini yakından inceleyebilirler.
 
 ## Tarihçe
 

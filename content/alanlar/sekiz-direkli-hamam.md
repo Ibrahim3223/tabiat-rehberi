@@ -1,7 +1,7 @@
 ---
 title: "Sekiz Direkli Hamam"
 date: "2026-01-09T22:46:45.471Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738515"
 
 # Sekiz Direkli Hamam
 
-Sekiz Direkli Hamam, Trabzon'un Ortahisar ilçesinde yer alan ve Karadeniz Bölgesi'nin önemli doğal alanlarından biridir. Bu bölge, yaklaşık 140 hektarlık bir alan kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Sekiz Direkli Hamam, doğal güzelliği ve tarihi geçmişi ile dikkat çeker. Bu alanın etrafı, zengin flora ve fauna ile çevrilidir. Sekiz Direkli Hamam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, farklı medeniyetlere ev sahipliği yapmış ve her biri, bu bölgeye kendi kültürünü bırakmıştır.
+Sekiz Direkli Hamam, Trabzon'un Ortahisar ilçesinde yer alan ve Karadeniz Bölgesi'nin önemli doğal alanlarından biridir. Sekiz Direkli Hamam, doğal güzelliği ve tarihi geçmişi ile dikkat çeker. Bu alanın etrafı, zengin flora ve fauna ile çevrilidir. Sekiz Direkli Hamam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, farklı medeniyetlere ev sahipliği yapmış ve her biri, bu bölgeye kendi kültürünü bırakmıştır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sekiz Direkli Hamam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Sekiz Direkli Hamam, Trabzon'un Ortahisar ilçesinde yer alır ve Karadeniz Bölgesi'nin coğrafyası, bu bölgenin doğal güzelliğini etkiler. Bu bölge, yaklaşık 140 hektarlık bir alan kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Sekiz Direkli Hamam'ın etrafı, zengin flora ve fauna ile çevrilidir. Bu bölgenin coğrafyası, Karadeniz Bölgesi'nin coğrafyası ile benzerlik gösterir. Sekiz Direkli Hamam, Karadeniz Bölgesi'nin önemli coğrafi mekanlarından biridir ve bu bölgeyi ziyaret edenlerin, bu coğrafyayı öğrenmesi önemli olacaktır. Bu bölgenin iklimi, Karadeniz iklimi olarak bilinen ılıman iklimdir. Bu iklim, bu bölgenin flora ve faunasını etkiler ve bu bölgeyi, yıl boyunca ziyaret edeceklerin, bu iklimi dikkate alması önemlidir.
+Sekiz Direkli Hamam, Trabzon'un Ortahisar ilçesinde yer alır ve Karadeniz Bölgesi'nin coğrafyası, bu bölgenin doğal güzelliğini etkiler. Sekiz Direkli Hamam'ın etrafı, zengin flora ve fauna ile çevrilidir. Bu bölgenin coğrafyası, Karadeniz Bölgesi'nin coğrafyası ile benzerlik gösterir. Sekiz Direkli Hamam, Karadeniz Bölgesi'nin önemli coğrafi mekanlarından biridir ve bu bölgeyi ziyaret edenlerin, bu coğrafyayı öğrenmesi önemli olacaktır. Bu bölgenin iklimi, Karadeniz iklimi olarak bilinen ılıman iklimdir. Bu iklim, bu bölgenin flora ve faunasını etkiler ve bu bölgeyi, yıl boyunca ziyaret edeceklerin, bu iklimi dikkate alması önemlidir.
 
 ## Flora ve Fauna
 

@@ -32,7 +32,7 @@ Tunceli'nin dağlık arazisinde yer alan Yeşilbaba Dağı, Türkiye'nin doğu k
 
 ## Tarihçe
 
-Tunceli'nin doğusunda yer alan Yeşilbaba Dağı, ülkenin en uza ve en az erişilebilir bölgelerinden biri olarak bilinir. Bu bölgenin tarihi, binlerce yıl öncesine uzanır. Hitit, Pers ve Roma uygarlıkları, Tunceli'nin stratejik konumundan yararlanarak burayı önemli bir ticaret ve kültür merkezi olarak kullanmışlardır. 
+Tunceli'nin doğusunda yer alan Yeşilbaba Dağı, ülkenin en uza ve en az erişilebilir bölgelerinden biri olarak bilinir. Bu bölgenin tarihi, binlerce yıl öncesine uzanır. Hitit, Pers ve Roma uygarlıkları, Tunceli'nin stratejik konumundan yararlanarak burayı önemli bir ticaret ve kültür merkezi olarak kullanmışlardır.
 
 Yeşilbaba Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Bu bölgeler, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için gerekli olan kaynakları sağlamış, aynı zamanda yaylacılık, hayvancılık ve avcılık gibi geleneksel faaliyetlerin merkezi olmuştur. Ayrıca, tarihi İpek Yolu ve diğer ticaret yolları, bu doğal güzelliklerin arasında geçmiş, bölgenin ekonomi ve kültürel önemini artırmıştır.
 
@@ -50,7 +50,7 @@ Mevsimsel özelliklere baktığımızda, Yeşilbaba Dağı'nın iklim karakteri,
 
 ## Flora ve Fauna
 
-Yeşilbaba Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açar ve alpin çayırlar renklenir. Yükseklik zonlarına bağlı olarak, flora çeşitliliği değişir. 
+Yeşilbaba Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açar ve alpin çayırlar renklenir. Yükseklik zonlarına bağlı olarak, flora çeşitliliği değişir.
 
 Dağın yükseklerinde, alpin bitkiler hakimdir. Bu bitkiler, zorlu koşullara adapte olmuş ve soğuğa dayanıklıdır. Sonbaharda, göç eden kuşlar dağları ziyaret eder ve bu bölgeye renk katarlar. Dağ keçileri, dağların zorlu arazisinde yaşamını sürdürür ve bu ekosistemin önemli bir parçasıdır.
 

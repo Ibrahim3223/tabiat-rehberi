@@ -33,7 +33,7 @@ wikidata_id: "Q109323615"
 
 ## Tarihçe
 
-Sarıçalı Dağı Millî Parkı, 1992 yılında millî park olarak ilan edilmiştir. Bu bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir. Parkın bulunduğu bölgede yapılan araştırmalar, burada yaşayan ilk insanların M.Ö. 3000 yıllarına kadar uzandığını gösteriyor. Ayrıca, parkın içinde birçok tarihi eser ve kalıntı bulunmakta olup, bunlar arasında Roma ve Bizans dönemlerine ait kalıntılar da yer alıyor. Bu tarihi miras, parkın ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Sarıçalı Dağı Millî Parkı, 1992 yılında millî park olarak ilan edilmiştir. Bu bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir. Parkın bulunduğu bölgede yapılan araştırmalar, burada yaşayan ilk insanların M.Ö. 3000 yıllarına kadar uzandığını gösteriyor. Ayrıca, parkın içinde birçok tarihi eser ve kalıntı bulunmakta olup, bunlar arasında Roma ve Bizans dönemlerine ait kalıntılar da yer alıyor.
 
 ## Coğrafya
 

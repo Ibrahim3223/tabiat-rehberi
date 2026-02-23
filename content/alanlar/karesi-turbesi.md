@@ -1,7 +1,7 @@
 ---
 title: "Karesi Türbesi"
 date: "2026-01-10T04:45:37.205Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q6033666"
 
 # Karesi Türbesi
 
-Karesi Türbesi, Marmara Bölgesi'nin güzide şehri Balıkesir'de yer alan bir tarihi ve doğal güzellik noktasıdır. Bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Karesi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Bu türbeye yapılan ziyaretler, hem tarihi hem de doğal güzellikleri keşfetmek isteyenler için önemli bir fırsat sunar. Ziyaretçiler, Karesi Türbesi'nin çevresindeki yeşillikler ve tarihi yapılar arasında gezinirken, aynı zamanda bölgenin zengin tarihini de keşfetme fırsatı bulurlar.
+Karesi Türbesi, Marmara Bölgesi'nin güzide şehri Balıkesir'de yer alan bir tarihi ve doğal güzellik noktasıdır. Karesi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Bu türbeye yapılan ziyaretler, hem tarihi hem de doğal güzellikleri keşfetmek isteyenler için önemli bir fırsat sunar. Ziyaretçiler, Karesi Türbesi'nin çevresindeki yeşillikler ve tarihi yapılar arasında gezinirken, aynı zamanda bölgenin zengin tarihini de keşfetme fırsatı bulurlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karesi Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu türbe, yüz
 
 ## Coğrafya
 
-Karesi Türbesi, Marmara Bölgesi'nin Balıkesir şehrinde yer alır. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahiptir. Türbe, çevresindeki yeşillikler ve tarihi yapılardan oluşan bir ortamda bulunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimi olarak tanımlanabilir. Karesi Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin çevresi, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bu doğal güzellikler, ziyaretçilere hem dinlenmek hem de tarihi ve kültürel zenginlikleri keşfetmek için ideal bir ortam sunar. Karesi Türbesi, coğrafi konumu itibariyle de önemli bir noktadır. Türbe, şehrin merkezi bölgesine yakın bir konumda yer alır ve ulaşım açısından da kolaylık sağlar.
+Karesi Türbesi, Marmara Bölgesi'nin Balıkesir şehrinde yer alır. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahiptir. Türbe, çevresindeki yeşillikler ve tarihi yapılardan oluşan bir ortamda bulunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimi olarak tanımlanabilir. Türbenin çevresi, çeşitli bitki türleri ve ağaçlarla kaplıdır. Bu doğal güzellikler, ziyaretçilere hem dinlenmek hem de tarihi ve kültürel zenginlikleri keşfetmek için ideal bir ortam sunar. Karesi Türbesi, coğrafi konumu itibariyle de önemli bir noktadır. Türbe, şehrin merkezi bölgesine yakın bir konumda yer alır ve ulaşım açısından da kolaylık sağlar.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Karesi Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve hayvanlarla z
 
 ## Ziyaret Bilgileri
 
-Karesi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetmek isteyenler için önemli bir fırsat sunar. Ziyaretçilerin, türbeye nasıl ulaşacağına dair bilgileri önceden öğrenmeleri yararlı olur. Türbe, şehrin merkezi bölgesine yakın bir konumda yer alır ve ulaşım açısından da kolaylık sağlar. Ziyaretçilerin, Karesi Türbesi'ni ziyaretleri sırasında, çevresindeki tarihi ve doğal güzellikleri de keşfetmeleri önerilir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Ziyaretçiler, bu geniş alanda gezinirken, aynı zamanda bölgenin zengin tarihini de keşfetme fırsatı bulurlar.
+Karesi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetmek isteyenler için önemli bir fırsat sunar. Ziyaretçilerin, türbeye nasıl ulaşacağına dair bilgileri önceden öğrenmeleri yararlı olur. Türbe, şehrin merkezi bölgesine yakın bir konumda yer alır ve ulaşım açısından da kolaylık sağlar. Ziyaretçilerin, Karesi Türbesi'ni ziyaretleri sırasında, çevresindeki tarihi ve doğal güzellikleri de keşfetmeleri önerilir. Ziyaretçiler, bu geniş alanda gezinirken, aynı zamanda bölgenin zengin tarihini de keşfetme fırsatı bulurlar.
 
 ## İlginç Bilgiler
 
 - Karesi Türbesi, yüzyıllar boyunca çeşitli medeniyetlerin hakimiyeti altında kalmıştır.
 - Türbenin tarihi geçmişi, bölgenin kültürel ve tarihi zenginliklerini yansıtan önemli bir noktadır.
 - Bölge, coğrafi olarak zengin bir çeşitliliğe sahiptir.
-- Karesi Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Türbenin çevresi, çeşitli bitki türleri ve ağaçlarla kaplıdır.

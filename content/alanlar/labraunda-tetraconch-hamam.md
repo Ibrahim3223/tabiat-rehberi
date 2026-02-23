@@ -1,7 +1,7 @@
 ---
 title: "Labraunda Tetraconch Hamam"
 date: "2026-01-09T23:13:45.606Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738858"
 
 # Labraunda Tetraconch Hamam
 
-Labraunda Tetraconch Hamam, Muğla'nın Milas ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi hazinelerinden biri olan bir arkeolojik site içinde bulunan tarihi bir hamam yapısıdır. Bu yapı, tarihi geçmişi ve mimari özellikleriyle dikkat çekmektedir. 140 hektarlık bir alana yayılan Labraunda Antik Kenti içinde bulunan Tetraconch Hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu yapı, antik dönemlerde inşa edilmiş ve uzun yıllardır ayakta kalmıştır. Tarihi ve kültürel önemi nedeniyle, ziyaretçilerin ilgisini çekmektedir.
+Labraunda Tetraconch Hamam, Muğla'nın Milas ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi hazinelerinden biri olan bir arkeolojik site içinde bulunan tarihi bir hamam yapısıdır. Bu yapı, tarihi geçmişi ve mimari özellikleriyle dikkat çekmektedir. Bu yapı, antik dönemlerde inşa edilmiş ve uzun yıllardır ayakta kalmıştır. Tarihi ve kültürel önemi nedeniyle, ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Labraunda Tetraconch Hamam ve çevresindeki Labraunda Antik Kenti, çeşitli bit
 
 ## Ziyaret Bilgileri
 
-Labraunda Tetraconch Hamam ve Labraunda Antik Kenti'ni ziyaret etmek, tarihi ve kültürel bir deneyim sunmaktadır. Ziyaretçiler, antik kent içinde yer alan diğer tarihi yapılarla birlikte, Tetraconch Hamam'ı da gezebilmektedir. Bölgeye ulaşım, Muğla'nın Milas ilçesinden sağlanmaktadır. Ziyaretçiler, antik kent içinde yer alan diğer tarihi yapıları da gezerek, bölgenin tarihi ve kültürel zenginliğini daha iyi anlayabilmektedir. İlkbahar ve yaz ayları, ziyaret için en uygun mevsimdir. Ziyaret süresi, genellikle birkaç saati bulmaktadır. Ziyaretçiler, régionun doğal güzelliği ve tarihi önemi nedeniyle, burayı tekrar ziyaret etmek isteyebilirler.
+Labraunda Tetraconch Hamam ve Labraunda Antik Kenti'ni ziyaret etmek, tarihi ve kültürel bir deneyim sunmaktadır. Ziyaretçiler, antik kent içinde yer alan diğer tarihi yapılarla birlikte, Tetraconch Hamam'ı da gezebilmektedir. Bölgeye ulaşım, Muğla'nın Milas ilçesinden sağlanmaktadır. Ziyaretçiler, antik kent içinde yer alan diğer tarihi yapıları da gezerek, bölgenin tarihi ve kültürel zenginliğini daha iyi anlayabilmektedir. İlkbahar ve yaz ayları, ziyaret için en uygun mevsimdir. Ziyaret süresi, genellikle birkaç saati bulmaktadır. Ziyaretçiler, bölgenin doğal güzelliği ve tarihi önemi nedeniyle, burayı tekrar ziyaret etmek isteyebilirler.
 
 ## İlginç Bilgiler
 

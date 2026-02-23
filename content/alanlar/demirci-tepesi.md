@@ -28,11 +28,11 @@ wikidata_id: "Q31390945"
 
 # Demirci Tepesi
 
-Demirci Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan Kayseri'de bulunur. Bu bölgede, 140 hektarlık bir alan kaplayan Demirci Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken bu tepe, ziyaretçilerini etkileyen bir güzelliğe sahiptir. Demirci Tepesi, bölgenin tarihi ve kültürel değerlerini de içerisinde barındıran önemli bir noktadır.
+Demirci Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan Kayseri'de bulunur. Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken bu tepe, ziyaretçilerini etkileyen bir güzelliğe sahiptir. Demirci Tepesi, bölgenin tarihi ve kültürel değerlerini de içerisinde barındıran önemli bir noktadır.
 
 ## Tarihçe
 
-Demirci Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır. Tarihi değerlerin yanı sıra, coğrafi konumu itibariyle de önemli bir noktadır. Tepenin história, bölgenin kültürel mirasının önemli bir parçasını oluşturur. Demirci Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunar. Bu tepe, geçmişten günümüze kadar ulaşan önemli bir coğrafi ve kültürel noktadır.
+Demirci Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır. Tarihi değerlerin yanı sıra, coğrafi konumu itibariyle de önemli bir noktadır. Tepenin tarihi, bölgenin kültürel mirasının önemli bir parçasını oluşturur. Demirci Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunar. Bu tepe, geçmişten günümüze kadar ulaşan önemli bir coğrafi ve kültürel noktadır.
 
 ## Coğrafya
 
@@ -49,7 +49,7 @@ Demirci Tepesi, ziyaretçilere geniş bir alan sunar. Bu bölge, doğal güzelli
 ## İlginç Bilgiler
 
 - Demirci Tepesi, 140 hektarlık bir alan kaplar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Demirci Tepesi, coğrafi konumu itibariyle de önemli bir noktadır.
 - Bu bölge, farklı bitki türleri ve hayvanlar ile zengin bir fauna ve floraya sahiptir.
 - Demirci Tepesi, ziyaretçilere geniş bir alan sunar.

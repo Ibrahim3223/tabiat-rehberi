@@ -22,7 +22,7 @@ wikidata_id: "Q108227938"
 
 # Bursa-Mustafakemalpaşa-Karacabey Karacam 3
 
-Bursa-Mustafakemalpaşa-Karacabey Karacam 3 milli parkı, Marmara Bölgesi'nin gözdeleri arasında yer alıyor. 140 hektarlık geniş yeşil alanı, ziyaretçilerini doğanın kucağına davet ediyor. Parkın büyüklüğü, yaklaşık 200 futbol sahası büyüklüğünde olduğunu gösteriyor. Bu alan, hem doğa severlerin hem de kent yaşamının koşturmacasından kaçmak isteyenlerin sığınaklarından biri haline geliyor. Karacam 3, ziyaretçilerinehem dinlenme hem de keşif imkânı sunuyor.
+Bursa-Mustafakemalpaşa-Karacabey Karacam 3 milli parkı, Marmara Bölgesi'nin gözdeleri arasında yer alıyor. 140 hektarlık geniş yeşil alanı, ziyaretçilerini doğanın kucağına davet ediyor. Bu alan, hem doğa severlerin hem de kent yaşamının koşturmacasından kaçmak isteyenlerin sığınaklarından biri haline geliyor. Karacam 3, ziyaretçilerinehem dinlenme hem de keşif imkânı sunuyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Karacam 3 milli parkını ziyaret etmek, doğa severler ve kent yaşamından ka�
 ## İlginç Bilgiler
 
 - Karacam 3 milli parkı, Marmara Bölgesi'nin önemli doğa alanlarından biri.
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Parkta çeşitli bitki türleri ve zengin fauna bulunuyor.
 - Ziyaretçiler, parkın içinde yürüyüş yapabilir ve piknik alanlarında dinlenebilir.
 - Parkın ziyaret saatleri, mevsimsel olarak değişebiliyor.

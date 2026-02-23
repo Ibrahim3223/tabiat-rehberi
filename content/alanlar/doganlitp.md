@@ -22,7 +22,7 @@ wikidata_id: "Q108228801"
 
 # DOĞANLI_TP
 
-İç Anadolu Bölgesi'nde yer alan DOĞANLI_TP, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini büyülüyor. Yaklaşık 200 futbol sahası büyüklüğündeki bu doğal alan, hem bölge halkı hem de dışarıdan gelenler için önemli bir gezi noktası. DOĞANLI_TP, doğa severlerin ve çevre dostlarının ilgisini çeken bir destinasyon olarak öne çıkıyor. İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bu alanda çeşitli bitki türleri ve zengin fauna bulunuyor.
+İç Anadolu Bölgesi'nde yer alan DOĞANLI_TP, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini büyülüyor. DOĞANLI_TP, doğa severlerin ve çevre dostlarının ilgisini çeken bir destinasyon olarak öne çıkıyor. İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bu alanda çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ DOĞANLI_TP'nin tarihi geçmişi, İç Anadolu Bölgesi'nin genel tarihinden ayr
 
 ## Coğrafya
 
-DOĞANLI_TP, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlardan oluşuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini koruma altına alıyor. İç Anadolu Bölgesi'nin iklim özellikleri, bu alanda çeşitli bitki türlerinin ve zengin faunanın gelişmesine uygun koşullar sağlıyor. Bölgenin coğrafi yapısı, aynı zamanda ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebileceğiniz gibi, sonbahar ve kış aylarında da doğanın farklı renklerine tanık olabilirsiniz. DOĞANLI_TP, bu özellikleri ile ziyaretçilerini dört mevsim boyunca büyülemeye devam ediyor.
+DOĞANLI_TP, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve ormanlık alanlardan oluşuyor. İç Anadolu Bölgesi'nin iklim özellikleri, bu alanda çeşitli bitki türlerinin ve zengin faunanın gelişmesine uygun koşullar sağlıyor. Bölgenin coğrafi yapısı, aynı zamanda ziyaretçilere farklı mevsimlerde farklı deneyimler sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebileceğiniz gibi, sonbahar ve kış aylarında da doğanın farklı renklerine tanık olabilirsiniz. DOĞANLI_TP, bu özellikleri ile ziyaretçilerini dört mevsim boyunca büyülemeye devam ediyor.
 
 ## Flora ve Fauna
 

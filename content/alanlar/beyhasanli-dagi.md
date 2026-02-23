@@ -52,9 +52,9 @@ Beyhasanlı Dağı, Konya'nın su kaynaklarına ve ekosistemine de önemli bir k
 
 Beyhasanlı Dağı, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, alpin flora ve dağ hayvanları ile zengin bir ekosistem sunuyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında renkli çiçekler açıyor. Step bitki örtüsü ve bozkır ekosistemi, kuraklığa adapte olmuş türlerle dolu. Dağın yüksek kesimlerinde, alpin flora çeşitliliği göze çarpıyor. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında renkli çiçekler açıyor. Step bitki örtüsü ve bozkır ekosistemi, kuraklığa adapte olmuş türlerle dolu. Dağın yüksek kesimlerinde, alpin flora çeşitliliği göze çarpıyor.
 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler dağın ekosistemine katkı sağlıyor. Dağın yüksek kesimlerinde yaşayan dağ keçileri, yaban keçileri ve tavşanları görme mümkün. Sonbaharda, göç eden kuşlar dağ üzerinden geçiş yapıyor. 
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler dağın ekosistemine katkı sağlıyor. Dağın yüksek kesimlerinde yaşayan dağ keçileri, yaban keçileri ve tavşanları görme mümkün. Sonbaharda, göç eden kuşlar dağ üzerinden geçiş yapıyor.
 
 Ekolojik Değer bölümünde, bu dağ ekosisteminin neden önemli olduğu ve koruma durumu ele alınıyor. Dağın yükseklik zonları, alpin flora ve dağ hayvanları ile zengin bir ekosistem sunması, onu önemli bir ekolojik değer haline getiriyor.
 

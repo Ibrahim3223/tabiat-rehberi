@@ -28,7 +28,7 @@ wikidata_id: "Q31390364"
 
 # Karabay Tepesi
 
-Afyonkarahisar'ın güzide bir noktası olan Karabay Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan ve ziyaretçilerini büyüleyen bir destinasyondur. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve oldukça geniş bir yeşil alana sahiptir. Karabay Tepesi, hem doğa severler hem de tarihi ve kültürel zenginliklere ilgi duyanlar için bir çekim merkezi olarak kabul edilebilir. Bu tepe, Afyonkarahisar'ın önemli bir parçası olarak bilinir ve birçok ziyaretçiyi kendine çekmeyi başarır.
+Afyonkarahisar'ın güzide bir noktası olan Karabay Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan ve ziyaretçilerini büyüleyen bir destinasyondur. Karabay Tepesi, hem doğa severler hem de tarihi ve kültürel zenginliklere ilgi duyanlar için bir çekim merkezi olarak kabul edilebilir. Bu tepe, Afyonkarahisar'ın önemli bir parçası olarak bilinir ve birçok ziyaretçiyi kendine çekmeyi başarır.
 
 ## Tarihçe
 

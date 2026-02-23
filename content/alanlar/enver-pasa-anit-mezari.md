@@ -1,7 +1,7 @@
 ---
 title: "Enver Paşa Anıt Mezarı"
 date: "2026-01-10T03:53:51.051Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728159"
 
 # Enver Paşa Anıt Mezarı
 
-Enver Paşa Anıt Mezarı, İstanbul'un Şişli ilçesinde bulunan bir tarihi mekan. Bu anıt mezar, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Enver Paşa Anıt Mezarı, tarihin derinliklerinden gelen bir hikayeyi anlatıyor. Bu mekan, ziyaretçilerini tarihin sayfalarına götürüyor ve onların geçmişi anlamalarına yardımcı oluyor. Enver Paşa Anıt Mezarı, bir zamanların önemli isimlerinden biri olan Enver Paşa'nın anısına yapılmış bir anıt mezar.
+Enver Paşa Anıt Mezarı, İstanbul'un Şişli ilçesinde bulunan bir tarihi mekan. Enver Paşa Anıt Mezarı, tarihin derinliklerinden gelen bir hikayeyi anlatıyor. Bu mekan, ziyaretçilerini tarihin sayfalarına götürüyor ve onların geçmişi anlamalarına yardımcı oluyor. Enver Paşa Anıt Mezarı, bir zamanların önemli isimlerinden biri olan Enver Paşa'nın anısına yapılmış bir anıt mezar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Enver Paşa Anıt Mezarı, Enver Paşa'nın life hikayesini anlatan bir mekan. E
 
 ## Coğrafya
 
-Enver Paşa Anıt Mezarı, İstanbul'un Şişli ilçesinde bulunan bir tarihi mekan. Bu mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Enver Paşa Anıt Mezarı, İstanbul'un merkezinde bulunan bir mekan ve ulaşımı oldukça kolay. Bu mekan, ziyaretçilerini tarihin sayfalarına götürüyor ve onların geçmişi anlamalarına yardımcı oluyor. Enver Paşa Anıt Mezarı, bir zamanların önemli isimlerinden biri olan Enver Paşa'nın anısına yapılmış bir anıt mezar. Bu mekan, Marmara Bölgesi'nin önemli bir parçasını temsil ediyor ve ziyaretçilerine bu bölgenin güzelliklerini gösteriyor.
+Enver Paşa Anıt Mezarı, İstanbul'un Şişli ilçesinde bulunan bir tarihi mekan. Enver Paşa Anıt Mezarı, İstanbul'un merkezinde bulunan bir mekan ve ulaşımı oldukça kolay. Bu mekan, ziyaretçilerini tarihin sayfalarına götürüyor ve onların geçmişi anlamalarına yardımcı oluyor. Enver Paşa Anıt Mezarı, bir zamanların önemli isimlerinden biri olan Enver Paşa'nın anısına yapılmış bir anıt mezar. Bu mekan, Marmara Bölgesi'nin önemli bir parçasını temsil ediyor ve ziyaretçilerine bu bölgenin güzelliklerini gösteriyor.
 
 ## Flora ve Fauna
 

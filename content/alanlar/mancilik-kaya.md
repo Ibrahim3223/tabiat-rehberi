@@ -28,7 +28,7 @@ wikidata_id: "Q31386255"
 
 # Mancılık Kaya
 
-Mancılık Kaya, Hatay ilinin güzergahında yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini etkileyen bir manzaraya sahip. Mancılık Kaya, tarihi geçmişi ve zengin doğasıyla birlikte, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu bölge, hem doğa severlerin hem de tarihi eserlere ilgi duyanların ilgi odağı haline gelmiştir.
+Mancılık Kaya, Hatay ilinin güzergahında yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Mancılık Kaya, tarihi geçmişi ve zengin doğasıyla birlikte, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu bölge, hem doğa severlerin hem de tarihi eserlere ilgi duyanların ilgi odağı haline gelmiştir.
 
 ## Tarihçe
 

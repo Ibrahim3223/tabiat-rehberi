@@ -1,7 +1,7 @@
 ---
 title: "Nasuhbaba Türbesi ve Haziresi"
 date: "2026-01-10T05:25:29.567Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tekirdağ"

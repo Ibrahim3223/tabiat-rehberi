@@ -22,7 +22,7 @@ wikidata_id: "Q108227287"
 
 # Sakarya-Akyazı Dokurcun Uludag Goknari 2
 
-Sakarya-Akyazı Dokurcun Uludag Goknari 2, Marmara Bölgesi'nin saklı cennetlerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğaseverler için gerçek bir keşif noktası. Bu doğal güzelliğin içerisinde yer alan yürüyüş yolları, ziyaretçilere hem dinlenme hem de keşif imkanı sunuyor. Sakarya ilinin Akyazı ilçesinde bulunan bu milli park, bölgeye gelenlerin kesinlikle ziyaret etmesi gereken yerlerden biri.
+Sakarya-Akyazı Dokurcun Uludag Goknari 2, Marmara Bölgesi'nin saklı cennetlerinden biri olarak karşımıza çıkıyor. Bu doğal güzelliğin içerisinde yer alan yürüyüş yolları, ziyaretçilere hem dinlenme hem de keşif imkanı sunuyor. Sakarya ilinin Akyazı ilçesinde bulunan bu milli park, bölgeye gelenlerin kesinlikle ziyaret etmesi gereken yerlerden biri.
 
 ## Tarihçe
 

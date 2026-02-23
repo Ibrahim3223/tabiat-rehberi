@@ -29,7 +29,7 @@ wikidata_id: "Q31387159"
 
 # Gaziler Tepesi
 
-Gaziler Tepesi, Marmara Bölgesi'nin Kocaeli ilinde yer alan ve yaklaşık 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip. Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Gaziler Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler ve fotoğraf tutkunları için bir cennet.
+ Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Gaziler Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler ve fotoğraf tutkunları için bir cennet.
 
 ## Tarihçe
 

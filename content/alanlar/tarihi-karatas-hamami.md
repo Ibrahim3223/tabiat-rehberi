@@ -1,7 +1,7 @@
 ---
 title: "Tarihi Karataş Hamamı"
 date: "2026-01-09T23:22:09.397Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738966"
 
 # Tarihi Karataş Hamamı
 
-Tarihi Karataş Hamamı, İzmir'in Konak ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir hamam ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en önemli turizm merkezlerinden biri olarak bilinir. Karataş Hamamı, tarihi değerleri ve doğal güzellikleri bir araya getiren benzersiz bir mekan olarak ziyaretçilerini ağırlamaktadır. İzmir'in merkezine yakın konumu ve ulaşım kolaylığıyla da dikkat çekmektedir.
+Tarihi Karataş Hamamı, İzmir'in Konak ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir hamam ve plaj alanıdır. Karataş Hamamı, tarihi değerleri ve doğal güzellikleri bir araya getiren benzersiz bir mekan olarak ziyaretçilerini ağırlamaktadır. İzmir'in merkezine yakın konumu ve ulaşım kolaylığıyla da dikkat çekmektedir.
 
 ## Tarihçe
 

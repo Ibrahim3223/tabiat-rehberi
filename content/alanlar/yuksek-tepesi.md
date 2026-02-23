@@ -29,7 +29,7 @@ wikidata_id: "Q34822551"
 
 # Yüksek Tepesi
 
-Yüksek Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir yer. Yüksek Tepesi, Ankara'nın merkezine yakın bir konumda yer alıyor. Burada, şehrin gürültüsünden uzaklaşarak doğayla baş başa kalabilirsiniz. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu, bölgeyi hem doğa severler hem de araştırmacıları için önemli bir yer haline getiriyor.
+Yüksek Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu bölge, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir yer. Yüksek Tepesi, Ankara'nın merkezine yakın bir konumda yer alıyor. Burada, şehrin gürültüsünden uzaklaşarak doğayla baş başa kalabilirsiniz. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu, bölgeyi hem doğa severler hem de araştırmacıları için önemli bir yer haline getiriyor.
 
 ## Tarihçe
 

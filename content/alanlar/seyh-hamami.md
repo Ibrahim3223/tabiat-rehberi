@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Hamamı"
 date: "2026-01-09T23:09:41.952Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738920"
 
 # Şeyh Hamamı
 
-Şeyh Hamamı, Tire'de yer alan ve İzmir'in en güzel plajlarından biri olarak bilinen bir destinasyondur. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en çok ziyaret edilen noktalarından biridir. Şeyh Hamamı, doğası ve tarihi geçmişiyle birlikte ziyaretçilerini cezbeden bir yer. Plajın kumsalı, temiz ve geniş olmasıyla bilinir ve denizi de serin ve berrakdır. Şeyh Hamamı, hem yerel halk hem de turistler için keyifli bir gezi noktasıdır.
+Şeyh Hamamı, Tire'de yer alan ve İzmir'in en güzel plajlarından biri olarak bilinen bir destinasyondur. Şeyh Hamamı, doğası ve tarihi geçmişiyle birlikte ziyaretçilerini cezbeden bir yer. Plajın kumsalı, temiz ve geniş olmasıyla bilinir ve denizi de serin ve berrakdır. Şeyh Hamamı, hem yerel halk hem de turistler için keyifli bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738920"
 
 ## Coğrafya
 
-Şeyh Hamamı, Tire'de yer alır ve Ege Bölgesi'nin en güzel sahillerinden biridir. Bu plaj, 140 hektarlık bir alana yayılmıştır ve yaklaşık 200 futbol sahası büyüklüğündedir. Şeyh Hamamı'nın kumsalı, geniş ve temizdir, denizi de serin ve berraktır. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta ve ziyaretçiler, bu doğal güzellikleri keşfedebilirler. Şeyh Hamamı, especialmente yaz aylarında ziyaretçilerini ağırlar ve bu dönem, plajın en çok ziyaret edildiği zamandır. Plajın iklimi, genel olarak sıcak ve güneşlidir, ancak serin günler de olabilir. Şeyh Hamamı, ziyaretçilerine hem güneşlenmek hem de serinlemek için uygun bir ortam sunar. Bu plaj, aynı zamanda, çeşitli su sporları ve etkinlikler için de ideal bir noktadır.
+Şeyh Hamamı, Tire'de yer alır ve Ege Bölgesi'nin en güzel sahillerinden biridir. Şeyh Hamamı'nın kumsalı, geniş ve temizdir, denizi de serin ve berraktır. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta ve ziyaretçiler, bu doğal güzellikleri keşfedebilirler. Şeyh Hamamı, especialmente yaz aylarında ziyaretçilerini ağırlar ve bu dönem, plajın en çok ziyaret edildiği zamandır. Plajın iklimi, genel olarak sıcak ve güneşlidir, ancak serin günler de olabilir. Şeyh Hamamı, ziyaretçilerine hem güneşlenmek hem de serinlemek için uygun bir ortam sunar. Bu plaj, aynı zamanda, çeşitli su sporları ve etkinlikler için de ideal bir noktadır.
 
 ## Flora ve Fauna
 

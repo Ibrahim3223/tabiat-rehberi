@@ -28,7 +28,7 @@ wikidata_id: "Q31387873"
 
 # Simokalesi Tepesi
 
-Simokalesi Tepesi, Kars ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık geniş yeşil alanı ile dikkat çeken bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğayla baş başa bırakır. Simokalesi Tepesi, hem doğal güzelliği hem de tarihi önemisiyle ziyaretçilerini etkileyen bir destinasyon olarak karşımıza çıkar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found, bu bölgenin ekolojik önemini vurgular.
+Simokalesi Tepesi, Kars ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık geniş yeşil alanı ile dikkat çeken bir doğa harikasıdır. Simokalesi Tepesi, hem doğal güzelliği hem de tarihi önemisiyle ziyaretçilerini etkileyen bir destinasyon olarak karşımıza çıkar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found, bu bölgenin ekolojik önemini vurgular.
 
 ## Tarihçe
 

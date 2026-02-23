@@ -29,7 +29,7 @@ wikidata_id: "Q31387640"
 
 # Kok Tepesi
 
-Kok Tepesi, Van'ın güzel manzaralara sahip bir bölgesinde bulunan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için gerçek bir cennet. Kok Tepesi'nin eteklerinde çeşitli bitki türleri yetişir ve bu bölge, yaban hayatı için önemli bir yaşam alanıdır. Ziyaretçiler, tepeye tırmanırken güzel manzaralar ve temiz hava keyfi sürerler. Kok Tepesi, özellikle doğa yürüyüşü sevenler için ideal bir destinasyon.
+Kok Tepesi, Van'ın güzel manzaralara sahip bir bölgesinde bulunan bir tepe. Kok Tepesi'nin eteklerinde çeşitli bitki türleri yetişir ve bu bölge, yaban hayatı için önemli bir yaşam alanıdır. Ziyaretçiler, tepeye tırmanırken güzel manzaralar ve temiz hava keyfi sürerler. Kok Tepesi, özellikle doğa yürüyüşü sevenler için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -49,9 +49,9 @@ Bölgenin ekosistemini inceleyen bir göz, Kuştepe Dağı'nın çevresindeki di
 
 ## Flora ve Fauna
 
-Kuştepe Dağı, Şırnak'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Step ve ova bitkileri, dağ eteklerinde hakimdir. 
+Kuştepe Dağı, Şırnak'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Step ve ova bitkileri, dağ eteklerinde hakimdir.
 
-Dağın yüksek kesimlerinde, alpin flora türleri bulunur. Bu bitkiler, zorlu iklim koşullarına adapte olmuşlardır. Sonbaharda, göç eden kuşlar dağ üzerinden geçer. Memeliler ve sürüngenler de bu dağ ekosisteminin bir parçasıdır. Dağ keçileri ve yaban kedileri, bu bölgenin önemli memeli türleridir. 
+Dağın yüksek kesimlerinde, alpin flora türleri bulunur. Bu bitkiler, zorlu iklim koşullarına adapte olmuşlardır. Sonbaharda, göç eden kuşlar dağ üzerinden geçer. Memeliler ve sürüngenler de bu dağ ekosisteminin bir parçasıdır. Dağ keçileri ve yaban kedileri, bu bölgenin önemli memeli türleridir.
 
 Kuştepe Dağı, ekolojik değerini koruma altına almak için önemli bir alandır. Bu bölge, birçok canlı türünün yaşam alanıdır ve ekosistemin dengesini sağlar. Doğal güzelliği ve biyolojik çeşitliliği korunmalıdır.
 

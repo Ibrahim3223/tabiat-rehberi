@@ -22,7 +22,7 @@ wikidata_id: "Q108227540"
 
 # Sakarya-Akyazi-Dokurcun Saricam
 
-Sakarya-Akyazi-Dokurcun Saricam milli parkı, Marmara Bölgesi'nin Sakarya ilinde, Akyazı ilçesinde yer alan bir milli parktır. 140 hektarlık geniş bir alana sahip olan bu park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu bölge, hem doğa severler hem de yaban hayatı ile ilgilenenler için ideal bir destinasyondur. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna found. Bu milli park, Sakarya ilinin önemli bir turizm merkezlerinden biridir.
+Sakarya-Akyazi-Dokurcun Saricam milli parkı, Marmara Bölgesi'nin Sakarya ilinde, Akyazı ilçesinde yer alan bir milli parktır. Bu bölge, hem doğa severler hem de yaban hayatı ile ilgilenenler için ideal bir destinasyondur. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna found. Bu milli park, Sakarya ilinin önemli bir turizm merkezlerinden biridir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sakarya-Akyazi-Dokurcun Saricam milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Sakarya-Akyazi-Dokurcun Saricam milli parkı, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Milli park, 140 hektarlık geniş bir alana sahiptir ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekillenmiştir. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve bu bölgede, her mevsim farklı bir güzelliğe şahit olma mümkündür. Milli parkın çevresinde, çeşitli su kaynakları ve doğal güzellikler bulunmaktadır. Bu milli park, hem doğa severler hem de yaban hayatı ile ilgilenenler için ideal bir destinasyondur.
+Sakarya-Akyazi-Dokurcun Saricam milli parkı, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekillenmiştir. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer ve bu bölgede, her mevsim farklı bir güzelliğe şahit olma mümkündür. Milli parkın çevresinde, çeşitli su kaynakları ve doğal güzellikler bulunmaktadır. Bu milli park, hem doğa severler hem de yaban hayatı ile ilgilenenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

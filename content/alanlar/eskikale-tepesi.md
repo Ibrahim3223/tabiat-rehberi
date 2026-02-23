@@ -28,7 +28,7 @@ wikidata_id: "Q31389776"
 
 # Eskikale Tepesi
 
-Eskikale Tepesi, Marmara Bölgesi'nin kalbinde, Bilecik ilinde yer alan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Doğal güzellikleri, históriki önemi ve coğrafi konumuyla Eskikale Tepesi, ziyaretçilerini cezbediyor. Tepe, bölgenin en önemli doğal ve kültürel varlıklarından biri olarak kabul ediliyor. Ziyaretçiler, bu tepeyi keşfederek hem doğal güzelliklere tanıklık ediyor hem de tarihin sayfalarında bir yolculuğa çıkıyor.
+Eskikale Tepesi, Marmara Bölgesi'nin kalbinde, Bilecik ilinde yer alan bir doğa harikası. Doğal güzellikleri, tarihi önemi ve coğrafi konumuyla Eskikale Tepesi, ziyaretçilerini cezbediyor. Tepe, bölgenin en önemli doğal ve kültürel varlıklarından biri olarak kabul ediliyor. Ziyaretçiler, bu tepeyi keşfederek hem doğal güzelliklere tanıklık ediyor hem de tarihin sayfalarında bir yolculuğa çıkıyor.
 
 ## Tarihçe
 

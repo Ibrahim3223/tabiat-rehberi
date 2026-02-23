@@ -1,7 +1,7 @@
 ---
 title: "İlyas Bey Hamamı"
 date: "2026-01-09T22:52:34.407Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İyonya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738671"
 
 # İlyas Bey Hamamı
 
-İlyas Bey Hamamı, Didim'in merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir plaj ve hamam kompleksidir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzellikleriyle ziyaretçilerini cezbediyor. İlyas Bey Hamamı, sadece bir plaj değil, aynı zamanda tarihi bir hamam kompleksi olarak da bilinir. Bu kompleks, ziyaretçilerine hem dinlenme hem de kültürel bir deneyim sunuyor. İlyas Bey Hamamı, Didim'in en önemli turistik noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih ediliyor.
+İlyas Bey Hamamı, Didim'in merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir plaj ve hamam kompleksidir. İlyas Bey Hamamı, sadece bir plaj değil, aynı zamanda tarihi bir hamam kompleksi olarak da bilinir. Bu kompleks, ziyaretçilerine hem dinlenme hem de kültürel bir deneyim sunuyor. İlyas Bey Hamamı, Didim'in en önemli turistik noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738671"
 
 ## Coğrafya
 
-İlyas Bey Hamamı, Didim'in merkezinde yer alan ve doğal güzellikleriyle dikkat çeken bir bölgedir. Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. İlyas Bey Hamamı, plajın yanı sıra hamam kompleksi ile de bilinir ve ziyaretçilerine hem dinlenme hem de kültürel bir deneyim sunar. Bu bölge, Didim'in iklimi ve coğrafi özellikleri ile de dikkat çeker. İlyas Bey Hamamı, ziyaretçilerine doğal güzelliklerinin yanı sıra tarihi ve kültürel zenginliklerini de sunar. Bu bölge, Didim'in en önemli turistik noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih ediliyor. İlyas Bey Hamamı'nın coğrafi konumu, ziyaretçilerine doğal güzelliklerinin yanı sıra tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunar.
+İlyas Bey Hamamı, Didim'in merkezinde yer alan ve doğal güzellikleriyle dikkat çeken bir bölgedir. İlyas Bey Hamamı, plajın yanı sıra hamam kompleksi ile de bilinir ve ziyaretçilerine hem dinlenme hem de kültürel bir deneyim sunar. Bu bölge, Didim'in iklimi ve coğrafi özellikleri ile de dikkat çeker. İlyas Bey Hamamı, ziyaretçilerine doğal güzelliklerinin yanı sıra tarihi ve kültürel zenginliklerini de sunar. Bu bölge, Didim'in en önemli turistik noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih ediliyor. İlyas Bey Hamamı'nın coğrafi konumu, ziyaretçilerine doğal güzelliklerinin yanı sıra tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

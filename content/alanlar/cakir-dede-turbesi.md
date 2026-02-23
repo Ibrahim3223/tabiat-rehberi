@@ -1,7 +1,7 @@
 ---
 title: "Çakır Dede Türbesi"
 date: "2026-01-10T04:58:29.735Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391528"
 
 # Çakır Dede Türbesi
 
-Çakır Dede Türbesi, Ege Bölgesi'nin güneşli kıyılarını süsleyen bir plaj olarak bilinir. Bu güzel plaj, Koçarlı ilçesinin sınırları içinde yer alır ve tatilcilerin gözdesi durumundadır. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir sahil şeridine sahiptir. Bu bölge, hem doğal güzelliği hem de tarihi zenginliği ile dikkat çeker.
+Çakır Dede Türbesi, Ege Bölgesi'nin güneşli kıyılarını süsleyen bir plaj olarak bilinir. Bu güzel plaj, Koçarlı ilçesinin sınırları içinde yer alır ve tatilcilerin gözdesi durumundadır. Bu bölge, hem doğal güzelliği hem de tarihi zenginliği ile dikkat çeker.
 
 ## Tarihçe
 

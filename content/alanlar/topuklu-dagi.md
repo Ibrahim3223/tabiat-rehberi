@@ -32,7 +32,7 @@ Giresun'un doğusunda, Karadeniz kıyı şeridinin güzelliği ile çevrili bir 
 
 ## Tarihçe
 
-Giresun bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, Hititlerden Osmanlı'ya kadar birçok uygarlığa ev sahipliği yapmış ve stratejik konumuyla ticaret yollarının kesişme noktası olmuştur. Topuklu Dağı da bu bölgenin bir parçası olarak, yüzyıllar boyunca insan yerleşimlerinin ve faaliyetlerinin merkezinde yer almıştır.
+Giresun bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, Hititlerden Osmanlı'ya kadar birçok uygarlığa ev sahipliği yapmış ve stratejik konumuyla ticaret yollarının kesişme noktası olmuştur. Topuklu Dağı da bu bölgenin bir parçası olarak, yüzyıllar boyunca insan yerleşimlerinin ve faaliyetlerinin merkezinde yer almıştır.
 
 Doğal güzelliği ve verimli topraklarıyla, Giresun bölgesi altijd insanların ilgisini çekmiştir. Yaylacılık ve hayvancılık, bu bölgede uzun süredir yapılan geleneksel faaliyetlerdir. Dağların yüksek yerlerinde kurulan yaylalar, yaz aylarında insanların ve hayvanların sığınakları olurken, vadiler ve ovalar tarımın ve ticaretin merkezi olmuştur.
 
@@ -50,9 +50,9 @@ Mevsimsel özelliklere bakıldığında, Topuklu Dağı'nın iklim karakteri Kar
 
 ## Flora ve Fauna
 
-Topuklu Dağı, Giresun'un nemli ikliminde gür ormanlarla kaplı bir dağ ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Topuklu Dağı, Giresun'un nemli ikliminde gür ormanlarla kaplı bir dağ ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü açısından, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Gür ormanlar, yüksek biyoçeşitlili ve alpin flora, bu dağ ekosisteminin önemli özellikleridir. 
+Bitki örtüsü açısından, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Gür ormanlar, yüksek biyoçeşitlili ve alpin flora, bu dağ ekosisteminin önemli özellikleridir.
 
 Yaban hayatı da aynı derecede zengin: memeliler, kuşlar ve sürüngenler bu dağda yaşamlarını sürdürür. Sonbaharda, göç eden kuşlar dağların üzerinden geçer. Bu ekosistem, yükseklik zonları ve dağ hayvanları ile birlikte, bir bütün olarak koruma altına alınmalıdır.
 

@@ -1,7 +1,7 @@
 ---
 title: "Eren Babalar Türbesi"
 date: "2026-01-10T05:12:46.896Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sakarya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391620"
 
 # Eren Babalar Türbesi
 
-Sakarya'nın Adapazarı ilçesinde bulunan Eren Babalar Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve zengin bir tarihi geçmişi bulunuyor. Eren Babalar Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Bölgenin coğrafi konumu, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. İklim, mevsimsel değişimlerle birlikte çeşitlilik gösteriyor.
+Sakarya'nın Adapazarı ilçesinde bulunan Eren Babalar Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve zengin bir tarihi geçmişi bulunuyor. Eren Babalar Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Bölgenin coğrafi konumu, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. İklim, mevsimsel değişimlerle birlikte çeşitlilik gösteriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Eren Babalar Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu
 
 ## Coğrafya
 
-Eren Babalar Türbesi, Sakarya'nın Adapazarı ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi konumu, visitçiler için önemli bir bilgi kaynağı. İklim, mevsimsel değişimlerle birlikte çeşitlilik gösteriyor. Bölge, çeşitli bitki türleriyle zengin bir flora sahip. Ayrıca, fauna açısından da zengin olan bölge, birçok canlıya ev sahipliği yapıyor. Eren Babalar Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmesine olanak tanıyan bir yapıya sahip.
+Eren Babalar Türbesi, Sakarya'nın Adapazarı ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bölgenin coğrafi konumu, visitçiler için önemli bir bilgi kaynağı. İklim, mevsimsel değişimlerle birlikte çeşitlilik gösteriyor. Bölge, çeşitli bitki türleriyle zengin bir flora sahip. Ayrıca, fauna açısından da zengin olan bölge, birçok canlıya ev sahipliği yapıyor. Eren Babalar Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmesine olanak tanıyan bir yapıya sahip.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Eren Babalar Türbesi'ni ziyaret etmek, ziyaretçiler için önemli bir deneyim 
 ## İlginç Bilgiler
 
 - Eren Babalar Türbesi, Sakarya'nın Adapazarı ilçesinde yer alıyor.
-- Bölge, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Eren Babalar Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor.
 - Bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.
 - Eren Babalar Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor.

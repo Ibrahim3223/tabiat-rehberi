@@ -28,7 +28,7 @@ wikidata_id: "Q31506386"
 
 # Sirgen Tepesi
 
-Sirgen Tepesi, Antalya'nın güzide bir bölgesinde yer alan, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sirgen Tepesi, ziyaretçilerini Akdeniz Bölgesi'nin panoramik manzarası ile büyüler. Tepe, aynı zamanda bölge halkının önemli bir gezi noktasıdır. Sirgen Tepesi'ne tırmanmak, bölgeyi keşfetme ve doğa ile iç içe olmak isteyenlerin keyif alacağı bir deneyimdir.
+ Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sirgen Tepesi, ziyaretçilerini Akdeniz Bölgesi'nin panoramik manzarası ile büyüler. Tepe, aynı zamanda bölge halkının önemli bir gezi noktasıdır. Sirgen Tepesi'ne tırmanmak, bölgeyi keşfetme ve doğa ile iç içe olmak isteyenlerin keyif alacağı bir deneyimdir.
 
 ## Tarihçe
 

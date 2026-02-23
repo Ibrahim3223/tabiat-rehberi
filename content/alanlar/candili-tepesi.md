@@ -29,7 +29,7 @@ wikidata_id: "Q34828305"
 
 # Çandili Tepesi
 
-140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olan Çandili Tepesi, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliğiyle ziyaretçilerini bekliyor. Çandili Tepesi, özellikle doğa severlerin ilgisini çekiyor ve yıl boyunca çeşitli mevsimsel aktivitelerin merkezi olarak hizmet veriyor.
+ Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliğiyle ziyaretçilerini bekliyor. Çandili Tepesi, özellikle doğa severlerin ilgisini çekiyor ve yıl boyunca çeşitli mevsimsel aktivitelerin merkezi olarak hizmet veriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q34828305"
 
 ## Coğrafya
 
-Çandili Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtıyor. Tepenin yüksekliği, eteklerinde yer alan köyleri ve çevresindeki doğal güzellikleri ile dikkat çekiyor. Çandili Tepesi, özellikle doğa severlerin ilgisini çekiyor ve yıl boyunca çeşitli mevsimsel aktivitelerin merkezi olarak hizmet veriyor. Tepenin coğrafi konumu, ziyaretçilere önemli bilgiler sunuyor ve doğal güzellikleri ile dikkat çekiyor. Çandili Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve bu nedenle ziyaretçilere geniş bir alan sunuyor.
+Çandili Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtıyor. Tepenin yüksekliği, eteklerinde yer alan köyleri ve çevresindeki doğal güzellikleri ile dikkat çekiyor. Çandili Tepesi, özellikle doğa severlerin ilgisini çekiyor ve yıl boyunca çeşitli mevsimsel aktivitelerin merkezi olarak hizmet veriyor. Tepenin coğrafi konumu, ziyaretçilere önemli bilgiler sunuyor ve doğal güzellikleri ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

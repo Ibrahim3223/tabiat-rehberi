@@ -22,7 +22,7 @@ wikidata_id: "Q108227770"
 
 # Sakarya-Hendek-Hendek-Dogu Kayini
 
-Sakarya-Hendek-Hendek-Dogu Kayini, Marmara Bölgesi'nde yer alan ve doğal güzellikleriyle dikkat çeken bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla baş başa bırakmaya hazır. Bu bölge, yaban hayatı ve flora çeşitliliği ile zengin bir ekosisteme sahiptir. Sakarya-Hendek-Hendek-Dogu Kayini, hem doğa severler hem de tatil arayanlar için ideal bir destinasyon olarak öne çıkıyor. Doğal güzellikleri, yürüyüş parkurları ve zengin fauna çeşitliliği ile bu milli park, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Sakarya-Hendek-Hendek-Dogu Kayini, Marmara Bölgesi'nde yer alan ve doğal güzellikleriyle dikkat çeken bir milli parktır. Bu bölge, yaban hayatı ve flora çeşitliliği ile zengin bir ekosisteme sahiptir. Sakarya-Hendek-Hendek-Dogu Kayini, hem doğa severler hem de tatil arayanlar için ideal bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sakarya-Hendek-Hendek-Dogu Kayini'nin tarihi geçmişi, bölgeye yapılan ilk ye
 
 ## Coğrafya
 
-Sakarya-Hendek-Hendek-Dogu Kayini, Marmara Bölgesi'nin coğrafi çeşitliliğiçinde yer alıyor. Milli park, 140 hektarlık geniş bir alanı kapsıyor ve bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak Sakarya ilinin Hendek ilçesinde bulunan bu milli park, doğu ve batı yönlerinde farklı coğrafi oluşumları barındırıyor. Doğu bölümü daha engebeli ve ormanlık alanlarla kaplıyken, batı bölümü daha düz ve açık alanlardan oluşuyor. İklim olarak, Sakarya-Hendek-Hendek-Dogu Kayini, Marmara Bölgesi'nin ılıman iklimine sahip. Kışlar ılık, yazlar ise serin geçiyor. Bu coğrafi ve iklimsel çeşitlilik, milli parkın flora ve fauna çeşitliliğine de katkıda bulunuyor. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve manzara noktaları sunuyor.
+Sakarya-Hendek-Hendek-Dogu Kayini, Marmara Bölgesi'nin coğrafi çeşitliliğiçinde yer alıyor. Coğrafi olarak Sakarya ilinin Hendek ilçesinde bulunan bu milli park, doğu ve batı yönlerinde farklı coğrafi oluşumları barındırıyor. Doğu bölümü daha engebeli ve ormanlık alanlarla kaplıyken, batı bölümü daha düz ve açık alanlardan oluşuyor. İklim olarak, Sakarya-Hendek-Hendek-Dogu Kayini, Marmara Bölgesi'nin ılıman iklimine sahip. Kışlar ılık, yazlar ise serin geçiyor. Bu coğrafi ve iklimsel çeşitlilik, milli parkın flora ve fauna çeşitliliğine de katkıda bulunuyor. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve manzara noktaları sunuyor.
 
 ## Flora ve Fauna
 

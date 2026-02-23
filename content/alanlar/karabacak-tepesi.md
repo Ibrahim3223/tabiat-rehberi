@@ -28,7 +28,7 @@ wikidata_id: "Q31389158"
 
 # Karabacak Tepesi
 
-Sivas'ın İç Anadolu Bölgesi'nde yer alan Karabacak Tepesi, tarihi ve doğal güzellikleri ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılıyor. Bu tepe, Sivas'ın önemli doğal ve tarihi alanlarından biri olarak biliniyor. Tarihi geçmişi ve zengin flora ile ziyaretçilerini sürükleyen bir mekan olarak ön plana çıkıyor.
+Sivas'ın İç Anadolu Bölgesi'nde yer alan Karabacak Tepesi, tarihi ve doğal güzellikleri ile dikkat çekiyor. Bu tepe, Sivas'ın önemli doğal ve tarihi alanlarından biri olarak biliniyor. Tarihi geçmişi ve zengin flora ile ziyaretçilerini sürükleyen bir mekan olarak ön plana çıkıyor.
 
 ## Tarihçe
 

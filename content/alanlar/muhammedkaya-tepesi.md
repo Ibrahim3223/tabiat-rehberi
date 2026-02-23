@@ -28,11 +28,11 @@ wikidata_id: "Q31542330"
 
 # Muhammedkaya Tepesi
 
-Muhammedkaya Tepesi, Diyarbakır'ın merkezinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en önemli tarihi ve turistik mekanlarından biridir. Tepenin eteklerinde yer alan tarihi eserler ve doğal güzellikler, ziyaretçilerin ilgisini çekmektedir. Muhammedkaya Tepesi, Diyarbakır'ın simgelerinden biri olarak kabul edilmektedir ve şehrin tarihi geçmişi hakkında önemli bilgiler sunmaktadır.
+Muhammedkaya Tepesi, Diyarbakır'ın merkezinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Tepenin eteklerinde yer alan tarihi eserler ve doğal güzellikler, ziyaretçilerin ilgisini çekmektedir. Muhammedkaya Tepesi, Diyarbakır'ın simgelerinden biri olarak kabul edilmektedir ve şehrin tarihi geçmişi hakkında önemli bilgiler sunmaktadır.
 
 ## Tarihçe
 
-Muhammedkaya Tepesi, tarihin derinliklerinde yer alan bir mekandır. Tarihi geçmişi, Diyarbakır'ın tarihinde önemli bir yer tutar. Tepenin üzerindeki tarihi eserler, şehrin zengin tarihini ve kültürel mirasını yansıtmaktadır. Tepenin história, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. Ancak, tepenin tarihi hakkında net bilgiler bulunmamaktadır. Tarihi eserlerin incelenmesi, tepenin geçmişini aydınlatmaktadır. Muhammedkaya Tepesi, Diyarbakır'ın tarihini ve kültürünü öğrenmek isteyenler için önemli bir merkez olarak kabul edilmektedir.
+Muhammedkaya Tepesi, tarihin derinliklerinde yer alan bir mekandır. Tarihi geçmişi, Diyarbakır'ın tarihinde önemli bir yer tutar. Tepenin üzerindeki tarihi eserler, şehrin zengin tarihini ve kültürel mirasını yansıtmaktadır. Tepenin tarihi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. Ancak, tepenin tarihi hakkında net bilgiler bulunmamaktadır. Tarihi eserlerin incelenmesi, tepenin geçmişini aydınlatmaktadır. Muhammedkaya Tepesi, Diyarbakır'ın tarihini ve kültürünü öğrenmek isteyenler için önemli bir merkez olarak kabul edilmektedir.
 
 ## Coğrafya
 

@@ -1,7 +1,7 @@
 ---
 title: "Çadırcı Hamamı"
 date: "2026-01-09T23:17:57.929Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739005"
 
 # Çadırcı Hamamı
 
-Çadırcı Hamamı, Erzincan'ın güzelliklerini ve tarihi değerlerini bir araya getiren bir mekan olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu mekan, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. Çadırcı Hamamı, Erzincan'ın önemli turizm noktalarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor.
+Çadırcı Hamamı, Erzincan'ın güzelliklerini ve tarihi değerlerini bir araya getiren bir mekan olarak dikkat çekiyor. Bu mekan, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. Çadırcı Hamamı, Erzincan'ın önemli turizm noktalarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Beta Yeni Han 1554 Kahve Müzesi"
 date: "2026-01-10T15:16:51.091Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949605"
 
 # Beta Yeni Han 1554 Kahve Müzesi
 
-Beta Yeni Han 1554 Kahve Müzesi, Marmara Bölgesi'nin kalbi olan İstanbul'da, şehrin tarihi atmosferini soluyabileceğiniz özel bir mekan. Bu müze, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde, tarihi Beta Yeni Han içerisinde kurulmuş. 1554 yılında inşa edilen han, uzun yıllardır İstanbul'un önemli ticaret merkezlerinden biri olarak hizmet vermiş. Bugün, aynı hanın içerisinde yer alan 1554 Kahve Müzesi, ziyaretçilerini İstanbul'un zengin tarihine ve kahve kültürüne davet ediyor. Müzenin içerisinde, kahvenin tarihi, üretim süreci ve kültürel önemini keşfetme mümkün.
+Beta Yeni Han 1554 Kahve Müzesi, Marmara Bölgesi'nin kalbi olan İstanbul'da, şehrin tarihi atmosferini soluyabileceğiniz özel bir mekan. 1554 yılında inşa edilen han, uzun yıllardır İstanbul'un önemli ticaret merkezlerinden biri olarak hizmet vermiş. Bugün, aynı hanın içerisinde yer alan 1554 Kahve Müzesi, ziyaretçilerini İstanbul'un zengin tarihine ve kahve kültürüne davet ediyor. Müzenin içerisinde, kahvenin tarihi, üretim süreci ve kültürel önemini keşfetme mümkün.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Beta Yeni Han 1554 Kahve Müzesi'ni ziyaret etmek, İstanbul'un tarihi ve kült�
 ## İlginç Bilgiler
 
 - Beta Yeni Han 1554 Kahve Müzesi, İstanbul'un en eski ve önemli ticaret merkezlerinden biri olan Beta Yeni Han içerisinde yer alıyor.
-- Müze, 1554 yılında inşa edilen hanın içerisinde, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde kurulmuş.
+
 - Beta Yeni Han, yüzyıllar boyunca İstanbul'un ticaret ve kültür hayatında önemli bir role sahip.
 - Müze, kahve kültürü ve tarihi hakkında geniş bir koleksiyona sahip.
 - Ziyaretçiler, müzenin içerisinde, tarihi belgeler, eserler ve araç-gereçler sergileniyor.

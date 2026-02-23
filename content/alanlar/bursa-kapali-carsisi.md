@@ -23,7 +23,7 @@ wikidata_id: "Q108607497"
 
 # Bursa Kapalı Çarşısı
 
-Bursa Kapalı Çarşısı, Marmara Bölgesi'nin önemli ticaret merkezlerinden biri olarak dikkat çekmektedir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tarihi mekan, ziyaretçilerini Bursa'nın zengin geçmişine götürmektedir. Çarşı, çeşitli dükkanlar ve tarihi yapılarla doludur. Bursa'nın kalbinde yer alan bu mekan, hem yerel halk hem de turistler için önemli bir çekim noktasıdır.
+Bursa Kapalı Çarşısı, Marmara Bölgesi'nin önemli ticaret merkezlerinden biri olarak dikkat çekmektedir. Çarşı, çeşitli dükkanlar ve tarihi yapılarla doludur. Bursa'nın kalbinde yer alan bu mekan, hem yerel halk hem de turistler için önemli bir çekim noktasıdır.
 
 ## Tarihçe
 

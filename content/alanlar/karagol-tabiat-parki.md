@@ -30,7 +30,7 @@ wikidata_id: "Q48791846"
 
 # Karagöl Tabiat Parkı
 
-Karagöl Tabiat Parkı, İzmir'in Menemen ilçesinde yer alan ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu bölge, yemyeşil ormanları, göl ve çevresindeki yürüyüş yollarıyla ziyaretçilerini doğayla baş başa bırakıyor. Parkın büyüklüğü ve doğal güzelliği, onu Ege Bölgesi'nin önemli turizm noktalarından biri haline getiriyor. Karagöl Tabiat Parkı, hem doğa severler hem de dinlenmek isteyenler için ideal bir kaçış noktası olarak görünüyor.
+ Bu bölge, yemyeşil ormanları, göl ve çevresindeki yürüyüş yollarıyla ziyaretçilerini doğayla baş başa bırakıyor. Parkın büyüklüğü ve doğal güzelliği, onu Ege Bölgesi'nin önemli turizm noktalarından biri haline getiriyor. Karagöl Tabiat Parkı, hem doğa severler hem de dinlenmek isteyenler için ideal bir kaçış noktası olarak görünüyor.
 
 ## Tarihçe
 

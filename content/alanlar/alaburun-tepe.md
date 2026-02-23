@@ -32,7 +32,7 @@ Gaziantep'in doğası, tarihi ve kültürel zenginliklerinin bir araya geldiği 
 
 ## Tarihçe
 
-Gaziantep bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Hitit, Roma ve Osmanlı gibi çeşitli uygarlıkların izlerini taşıyan bu topraklar, kültürel zenginliği ile dikkat çeker. Alaburun Tepe, bu tarihi coğrafyanın bir parçası olarak, bölgenin doğal güzelliklerini sunar.
+Gaziantep bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Hitit, Roma ve Osmanlı gibi çeşitli uygarlıkların izlerini taşıyan bu topraklar, kültürel zenginliği ile dikkat çeker. Alaburun Tepe, bu tarihi coğrafyanın bir parçası olarak, bölgenin doğal güzelliklerini sunar.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu alanların insanlarla ilişkisini güçlendirir. Gaziantep bölgesinde de benzer şekilde, insanların alanlarla olan bağlantısı, ekonomi ve kültürel faaliyetlerin temelini oluşturur.
 
@@ -66,7 +66,7 @@ Gaziantep'in doğal güzelliklerinden biri olan Alaburun Tepe, doğa severler i�
 
 - Gaziantep ilinin en yüksek noktalarından biri olan Alaburun Tepe, il merkezine yaklaşık 30 kilometre uzaklıktadır.
 - Alaburun Tepe, doğu-batı yönünde uzanan bir sırt üzerinde yer alır ve çevresindeki ovalara hakim bir konumdadır.
-- Bu bölge, histórik Gaziantep Kalesi'ne yaklaşık 25 kilometre mesafededir.
+- Bu bölge, tarihi Gaziantep Kalesi'ne yaklaşık 25 kilometre mesafededir.
 - Alaburun Tepe ve çevresi, Gaziantep'in tarihi ve doğal güzelliklerini bir arada sunar.
 - Gaziantep'in coğrafi yapısı, Alaburun Tepe gibi yüksekliklerin yanı sıra geniş ovaları da içerir.
 - Alaburun Tepe'nin tam yüksekliği bilinmemekle birlikte, bölge coğrafyası genel olarak 500-1000 metre arasında değişen yüksekliklere sahiptir.

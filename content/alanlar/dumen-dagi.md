@@ -32,9 +32,9 @@ Bursa'nın yeşille örtülü dağları arasında gizli bir hazine gibi duran D�
 
 ## Tarihçe
 
-Dümen Dağı, tarihi İpek Yolu'nun geçtiği Bursa bölgesinde yer alıyor. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların etkisinde kaldı. Roma ve Bizans dönemlerinde önemli bir ticaret merkezi olan Bursa, Osmanlı İmparatorluğu'nun da kurucusu Osman Bey'in faaliyet gösterdiği topraklardan biri. 
+Dümen Dağı, tarihi İpek Yolu'nun geçtiği Bursa bölgesinde yer alıyor. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların etkisinde kaldı. Roma ve Bizans dönemlerinde önemli bir ticaret merkezi olan Bursa, Osmanlı İmparatorluğu'nun da kurucusu Osman Bey'in faaliyet gösterdiği topraklardan biri.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Özellikle yaylacılık ve hayvancılık faaliyetleri, insanların bu doğal güzelliklerle iç içe geçmişlarını sürdürmelerini sağladı. Ticaret yollarının da bu bölgelerden geçmesi, insanların birbirleriyle etkileşimini ve kültürel alışverişi kolaylaştırdı. 
+Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Özellikle yaylacılık ve hayvancılık faaliyetleri, insanların bu doğal güzelliklerle iç içe geçmişlarını sürdürmelerini sağladı. Ticaret yollarının da bu bölgelerden geçmesi, insanların birbirleriyle etkileşimini ve kültürel alışverişi kolaylaştırdı.
 
 Dümen Dağı ve çevresi, bu tarihi ve kültürel zenginliğin bir parçası olarak görülüyor. Bölgenin coğrafi özellikleri, insanların yaşam tarzlarını ve geleneklerini şekillendirdi. Yaylacılık geleneği, bu doğal alanların insan yaşamındaki önemini gösteriyor. Bu gelenek, nesiller boyu devam etti ve bölgenin kültürel mirasının önemli bir bileşeni haline geldi.
 

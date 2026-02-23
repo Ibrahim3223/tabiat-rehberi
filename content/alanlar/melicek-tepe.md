@@ -28,7 +28,7 @@ wikidata_id: "Q31391051"
 
 # Melicek Tepe
 
-Melicek Tepe, Malatya'nın eşsiz doğası içerisinde yer alan bir tepe olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir manzara sunuyor. Doğu Anadolu Bölgesi'nin coğrafi özellikleri düşünüldüğünde, Melicek Tepe'nin bulunduğu konum, bölgenin doğal güzelliklerini gözlemlemek için ideal bir nokta olarak görünüyor. Tepe, çevresindeki dağlarla birlikte bir bütün olarak düşünüldüğünde, ziyaretçilerini büyüleyen bir panorama sunuyor.
+Melicek Tepe, Malatya'nın eşsiz doğası içerisinde yer alan bir tepe olarak dikkat çekiyor. Doğu Anadolu Bölgesi'nin coğrafi özellikleri düşünüldüğünde, Melicek Tepe'nin bulunduğu konum, bölgenin doğal güzelliklerini gözlemlemek için ideal bir nokta olarak görünüyor. Tepe, çevresindeki dağlarla birlikte bir bütün olarak düşünüldüğünde, ziyaretçilerini büyüleyen bir panorama sunuyor.
 
 ## Tarihçe
 

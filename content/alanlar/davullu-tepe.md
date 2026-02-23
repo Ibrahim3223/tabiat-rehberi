@@ -28,7 +28,7 @@ wikidata_id: "Q31388419"
 
 # Davullu Tepe
 
-Erzurum'un tarihi ve coğrafi açıdan önemli noktalarından biri olan Davullu Tepe, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakın. Doğa severlerin ve tarih meraklılarının ilgisini çeken bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Konum itibarıyla, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor.
+Erzurum'un tarihi ve coğrafi açıdan önemli noktalarından biri olan Davullu Tepe, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Doğa severlerin ve tarih meraklılarının ilgisini çeken bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Konum itibarıyla, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Coğrafi olarak, Davullu Tepe, Erzurum'un şehrin merkezine yakın bir konumda b
 
 ## Flora ve Fauna
 
-Davullu Tepe, flora ve fauna açısından oldukça zengin bir bölge. Çeşitli bitki türleri, mevsimsel olarak değişen renkleri ve güzellikleriyle dikkat çekmektedir. Bahar aylarında, tepeye ren veren çiçekler, ziyaretçilere görsel bir şölen sunmaktadır. Ayrıca, bu bölge, birçok hayvan türüne de ev sahipliği yapmaktadır. Kuş türleri, özellikle göç mevsimlerinde, bu bölgede çokça görülür. Ayrıca, çeşitli memeli hayvanlar ve böcek türleri de bu ekosistemin bir parçasıdır. Mevsimsel değişimler, bu bölgenin güzelliğini ve canlılığını daha da artırmaktadır.
+ Çeşitli bitki türleri, mevsimsel olarak değişen renkleri ve güzellikleriyle dikkat çekmektedir. Bahar aylarında, tepeye ren veren çiçekler, ziyaretçilere görsel bir şölen sunmaktadır. Ayrıca, bu bölge, birçok hayvan türüne de ev sahipliği yapmaktadır. Kuş türleri, özellikle göç mevsimlerinde, bu bölgede çokça görülür. Ayrıca, çeşitli memeli hayvanlar ve böcek türleri de bu ekosistemin bir parçasıdır. Mevsimsel değişimler, bu bölgenin güzelliğini ve canlılığını daha da artırmaktadır.
 
 ## Ziyaret Bilgileri
 

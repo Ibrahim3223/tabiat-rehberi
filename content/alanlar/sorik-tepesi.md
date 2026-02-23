@@ -28,7 +28,7 @@ wikidata_id: "Q31547198"
 
 # Sorik Tepesi
 
-Sorik Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, khong yüksek bir konumdate ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Batman şehrinin etrafını çeviren dağların bir parçası olan Sorik Tepesi, şehre hakim bir konumda bulunuyor ve şehrin panoramik manzarasını sunuyor. Doğal güzelliği, tarihi önemi ve coğrafi konumu ile dikkat çeken Sorik Tepesi, ziyaretçilerini bekliyor.
+Sorik Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Batman şehrinin etrafını çeviren dağların bir parçası olan Sorik Tepesi, şehre hakim bir konumda bulunuyor ve şehrin panoramik manzarasını sunuyor. Doğal güzelliği, tarihi önemi ve coğrafi konumu ile dikkat çeken Sorik Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

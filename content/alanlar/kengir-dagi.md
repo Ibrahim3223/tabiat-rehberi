@@ -54,7 +54,7 @@ Kengir Dağı, Şırnak'ta yer alan yarı kurak iklimin hakim olduğu bir dağ e
 
 Bitki örtüsünde çoğunlukla step ve ova ekolojisi hakim. İlkbaharla birlikte dağ yamaçları renkli çiçeklerle donanıyor. Sonbaharda ise göç eden kuşlar bu bölgeden geçiş yapıyor. Dağın yüksek kesimlerinde alpin bitkiler foundür. Bu bitkiler, zor koşullara adapte olmuş ve dağların zorlu iklimine karşı dayanıklı.
 
-Yaban hayatı açısından zengin olan Kengir Dağı, çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapıyor. Dağın ekolojik değeri, bu türlerin yaşam alanlarını koruma altına almakla sağlanabilir. Ancak, koruma durumu hala yeterli seviyede değil. Bu nedenle, Kengir Dağı'nın doğal güzelliğini koruma ve gelecek nesiller için bảo tồn etmek önemlidir.
+Yaban hayatı açısından zengin olan Kengir Dağı, çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapıyor. Dağın ekolojik değeri, bu türlerin yaşam alanlarını koruma altına almakla sağlanabilir. Ancak, koruma durumu hala yeterli seviyede değil. Bu nedenle, Kengir Dağı'nın doğal güzelliğini koruma ve gelecek nesiller için koruma tồn etmek önemlidir.
 
 ## Ziyaret Bilgileri
 

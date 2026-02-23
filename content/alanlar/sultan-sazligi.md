@@ -23,7 +23,7 @@ wikidata_id: "Q108228036"
 
 # Sultan Sazligi
 
-Sultan Sazligi, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Sultan Sazligi, hem doğa severlerin hem de bilim insanlarının ilgisini çeken bir alandır. Burada, birçok farklı türde canlıya ev sahipliği yapan bu sazlık, aynı zamanda önemli bir ekosistemdir. Sultan Sazligi'nin güzelliği ve önemi, sadece bu bölgede yaşayanların değil, tüm ülkenin ilgisini çekmektedir.
+Sultan Sazligi, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. Sultan Sazligi, hem doğa severlerin hem de bilim insanlarının ilgisini çeken bir alandır. Burada, birçok farklı türde canlıya ev sahipliği yapan bu sazlık, aynı zamanda önemli bir ekosistemdir. Sultan Sazligi'nin güzelliği ve önemi, sadece bu bölgede yaşayanların değil, tüm ülkenin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Sultan Sazligi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Sultan Sazligi, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biridir. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu sazlık, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bu bölge, aynı zamanda önemli bir ekosistemdir. Sultan Sazligi'nin coğrafi yapısı, hem doğal güzelliği hem de bu bölgede yaşayan canlıların çeşitliliği açısından önemlidir. Bu sazlık, birçok farklı türde bitki ve hayvanın yaşam alanıdır. Sultan Sazligi'nin coğrafi konumu, İç Anadolu Bölgesi'nin merkezi bir bölgesinde yer almaktadır. Bu bölge, aynı zamanda önemli bir su kaynaklarına sahiptir. Sultan Sazligi, su kaynakları ve doğal güzelliği ile dikkat çekmektedir.
+Sultan Sazligi, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biridir. Bu bölge, aynı zamanda önemli bir ekosistemdir. Sultan Sazligi'nin coğrafi yapısı, hem doğal güzelliği hem de bu bölgede yaşayan canlıların çeşitliliği açısından önemlidir. Bu sazlık, birçok farklı türde bitki ve hayvanın yaşam alanıdır. Sultan Sazligi'nin coğrafi konumu, İç Anadolu Bölgesi'nin merkezi bir bölgesinde yer almaktadır. Bu bölge, aynı zamanda önemli bir su kaynaklarına sahiptir. Sultan Sazligi, su kaynakları ve doğal güzelliği ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Sultan Sazligi, hem doğa severlerin hem de bilim insanlarının ilgisini çeken
 
 ## İlginç Bilgiler
 
-- Sultan Sazligi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu sazlık, birçok farklı türde bitki ve hayvanın yaşam alanıdır.
 - Sultan Sazligi, aynı zamanda önemli bir ekosistemdir.
 - Bu bölge, su kaynakları ve doğal güzelliği ile dikkat çekmektedir.

@@ -1,7 +1,7 @@
 ---
 title: "Küçük Hamam"
 date: "2026-01-09T22:20:45.173Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738433"
 
 # Küçük Hamam
 
-Kütahya ilinin merkezinde yer alan Küçük Hamam, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplıyor. Bu alan, ziyaretçilerini Ege Bölgesi'nin doğal güzelliği ve tarihi geçmişiyle karşılar. Küçük Hamam, Kütahya'nın en önemli turizm merkezlerinden biri olarak bilinir. Şehir merkezine yakın olması ve ulaşım kolaylığı nedeniyle, hem yerli hem de yabancı ziyaretçiler için popüler bir destinasyondur. Küçük Hamam'ın sunduğu doğal güzellik, tarihi yapılar ve zengin flora, ziyaretçilere unutulmaz bir deneyim sunar.
+ Bu alan, ziyaretçilerini Ege Bölgesi'nin doğal güzelliği ve tarihi geçmişiyle karşılar. Küçük Hamam, Kütahya'nın en önemli turizm merkezlerinden biri olarak bilinir. Şehir merkezine yakın olması ve ulaşım kolaylığı nedeniyle, hem yerli hem de yabancı ziyaretçiler için popüler bir destinasyondur. Küçük Hamam'ın sunduğu doğal güzellik, tarihi yapılar ve zengin flora, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Küçük Hamam'ın tarihi geçmişi, Kütahya'nın tarihiyle iç içe geçer. Ta
 
 ## Coğrafya
 
-Küçük Hamam, Ege Bölgesi'nin doğal güzelliklerinin ön plana çıktığı bir bölge olarak dikkat çeker. 140 hektarlık geniş bir alana yayılmış olan Küçük Hamam, ziyaretçilerine geniş bir yeşil alan sunar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan deneyimi sunar. Bölgenin coğrafi yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşır. İklimi ılımandır ve ziyaretçilere yıl boyunca çeşitli aktiviteler sunar. Küçük Hamam, Kütahya şehir merkezine yakın olması ve ulaşım kolaylığı nedeniyle, ziyaretçiler için ideal bir destinasyondur. Ayrıca, bölgenin coğrafi yapısı, ziyaretçilere trekking, piknik gibi çeşitli açık hava aktivitelerine imkân tanır.
+Küçük Hamam, Ege Bölgesi'nin doğal güzelliklerinin ön plana çıktığı bir bölge olarak dikkat çeker. 140 hektarlık geniş bir alana yayılmış olan Küçük Hamam, ziyaretçilerine geniş bir yeşil alan sunar. Bölgenin coğrafi yapısı, Ege Bölgesi'nin karakteristik özelliklerini taşır. İklimi ılımandır ve ziyaretçilere yıl boyunca çeşitli aktiviteler sunar. Küçük Hamam, Kütahya şehir merkezine yakın olması ve ulaşım kolaylığı nedeniyle, ziyaretçiler için ideal bir destinasyondur. Ayrıca, bölgenin coğrafi yapısı, ziyaretçilere trekking, piknik gibi çeşitli açık hava aktivitelerine imkân tanır.
 
 ## Flora ve Fauna
 
-Küçük Hamam'ın flora ve fauna zenginliği, ziyaretçileri cezbeder. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Mevsimsel değişimlere bağlı olarak, ziyaretçiler farklı zamanlarda farklı türlerle karşılaşabilir. Bölgenin ekolojik dengesi, ziyaretçilere doğal bir ortam sunar. Küçük Hamam'ın sunduğu flora ve fauna, ziyaretçilere doğayla iç içe bir deneyim sunar. Ayrıca, bölge, çeşitli kuş türleri ve diğer canlılarla karşılaşma fırsatı sunar. Ziyaretçiler, Küçük Hamam'ın doğal güzelliğini ve canlı çeşitliliğini keşfetme fırsatı bulur.
+Küçük Hamam'ın flora ve fauna zenginliği, ziyaretçileri cezbeder. Mevsimsel değişimlere bağlı olarak, ziyaretçiler farklı zamanlarda farklı türlerle karşılaşabilir. Bölgenin ekolojik dengesi, ziyaretçilere doğal bir ortam sunar. Küçük Hamam'ın sunduğu flora ve fauna, ziyaretçilere doğayla iç içe bir deneyim sunar. Ayrıca, bölge, çeşitli kuş türleri ve diğer canlılarla karşılaşma fırsatı sunar. Ziyaretçiler, Küçük Hamam'ın doğal güzelliğini ve canlı çeşitliliğini keşfetme fırsatı bulur.
 
 ## Ziyaret Bilgileri
 

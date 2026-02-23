@@ -28,7 +28,7 @@ wikidata_id: "Q31391090"
 
 # Tebdekaya Tepesi
 
-Tebdekaya Tepesi, Erzincan ilinin sınırları içerisinde yer alan ve doğa severlerin ziyaret ettiği bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanda yayılmış ve çeşitli bitki türleri ile hayvanların yaşam alanı. Tebdekaya Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepenin eteklerinde, çeşitli akarsular ve çaylar bulunmakta. Tebdekaya Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunuyor.
+Tebdekaya Tepesi, Erzincan ilinin sınırları içerisinde yer alan ve doğa severlerin ziyaret ettiği bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanda yayılmış ve çeşitli bitki türleri ile hayvanların yaşam alanı. Bu tepenin eteklerinde, çeşitli akarsular ve çaylar bulunmakta. Tebdekaya Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunuyor.
 
 ## Tarihçe
 
@@ -36,15 +36,15 @@ Tebdekaya Tepesi, tarihsel olarak önemli bir konumda bulunmakta. Bu tepe, yüzy
 
 ## Coğrafya
 
-Tebdekaya Tepesi, Erzincan ilinin sınırları içerisinde yer alan bir tepe. Bu tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Tebdekaya Tepesi, yaklaşık 140 hektarlık bir alanda yayılmış ve çeşitli bitki türleri ile hayvanların yaşam alanı. Bu tepenin eteklerinde, çeşitli akarsular ve çaylar bulunmakta. Tebdekaya Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunuyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tebdekaya Tepesi, coğrafi açıdan önemli bir nokta. Bu tepe, ziyaretçilerine coğrafi güzelliği ve zenginliği sunuyor.
+Tebdekaya Tepesi, Erzincan ilinin sınırları içerisinde yer alan bir tepe. Bu tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Tebdekaya Tepesi, yaklaşık 140 hektarlık bir alanda yayılmış ve çeşitli bitki türleri ile hayvanların yaşam alanı. Bu tepenin eteklerinde, çeşitli akarsular ve çaylar bulunmakta. Tebdekaya Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunuyor. Tebdekaya Tepesi, coğrafi açıdan önemli bir nokta. Bu tepe, ziyaretçilerine coğrafi güzelliği ve zenginliği sunuyor.
 
 ## Flora ve Fauna
 
-Tebdekaya Tepesi, çeşitli bitki türleri ile hayvanların yaşam alanı. Bu tepe, yaklaşık 140 hektarlık bir alanda yayılmış ve doğanın güzelliğini sunuyor. Tebdekaya Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunuyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tebdekaya Tepesi, flora ve fauna açısından önemli bir nokta. Bu tepe, ziyaretçilerine flora ve fauna açısından zenginliği sunuyor. Tebdekaya Tepesi, mevsimsel değişimlere göre, çeşitli bitki türleri ve hayvanları barındırıyor.
+Tebdekaya Tepesi, çeşitli bitki türleri ile hayvanların yaşam alanı. Bu tepe, yaklaşık 140 hektarlık bir alanda yayılmış ve doğanın güzelliğini sunuyor. Tebdekaya Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunuyor. Tebdekaya Tepesi, flora ve fauna açısından önemli bir nokta. Bu tepe, ziyaretçilerine flora ve fauna açısından zenginliği sunuyor. Tebdekaya Tepesi, mevsimsel değişimlere göre, çeşitli bitki türleri ve hayvanları barındırıyor.
 
 ## Ziyaret Bilgileri
 
-Tebdekaya Tepesi, ziyaretçilerini ağırlamak için hazır. Bu tepe, doğa severlerin ziyaret ettiği bir nokta. Tebdekaya Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunuyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tebdekaya Tepesi, ziyaretçilerine flora ve fauna açısından zenginliği sunuyor. Bu tepe, mevsimsel değişimlere göre, çeşitli bitki türleri ve hayvanları barındırıyor. Tebdekaya Tepesi, ziyaretçilerini tarihin deepestlerine götürüyor.
+Tebdekaya Tepesi, ziyaretçilerini ağırlamak için hazır. Bu tepe, doğa severlerin ziyaret ettiği bir nokta. Tebdekaya Tepesi, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunuyor. Tebdekaya Tepesi, ziyaretçilerine flora ve fauna açısından zenginliği sunuyor. Bu tepe, mevsimsel değişimlere göre, çeşitli bitki türleri ve hayvanları barındırıyor. Tebdekaya Tepesi, ziyaretçilerini tarihin deepestlerine götürüyor.
 
 ## İlginç Bilgiler
 

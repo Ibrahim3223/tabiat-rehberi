@@ -32,7 +32,7 @@ Uzunkabir Dağı, Türkiye'nin doğal güzelliklerini keşfetmek isteyenler içi
 
 ## Tarihçe
 
-Uzunkabir Dağı, Türkiye'nin zengin tarihsel dokusunda önemli bir yere sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği bir nokta olarak dikkat çeker. Hitit, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada izler bırakmışlardır. 
+Uzunkabir Dağı, Türkiye'nin zengin tarihsel dokusunda önemli bir yere sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği bir nokta olarak dikkat çeker. Hitit, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada izler bırakmışlardır.
 
 Doğal güzellikleri ve stratejik konumuyla Uzunkabir Dağı, insanların yaşamını ve faaliyetlerini etkilemiştir. Yaylacılık ve hayvancılık, bu bölgede yaşayan halkların geleneksel uğraşları arasında yer alır. Ayrıca, tarihi ticaret yollarının bu bölgeyi kapsaması, Uzunkabir Dağı'nın ekonomi ve kültürel olarak önemli bir merkez olmasına katkıda bulunmuştur.
 
@@ -50,11 +50,11 @@ Mevsimsel olarak, Uzunkabir Dağı'nın iklim karakteri, bölgenin genel iklim �
 
 ## Flora ve Fauna
 
-Uzunkabir Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir bölge olan Anadolu'nun kuraklığa adapte olmuş türlerine ev sahipliği yapar. Dağın yükseklik zonları, alpin flora ile karakterizedir. İlkbaharın başlangıcında, dağ yamaçları rengarenk çiçeklerle donanır. 
+Uzunkabir Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir bölge olan Anadolu'nun kuraklığa adapte olmuş türlerine ev sahipliği yapar. Dağın yükseklik zonları, alpin flora ile karakterizedir. İlkbaharın başlangıcında, dağ yamaçları rengarenk çiçeklerle donanır.
 
-Bitki örtüsünün çeşitliliği, mevsimsel değişimlere bağlı olarak değişir. Step bitki örtüsü, kuraklığa dayanıklı otlar ve çalılarla karakterizedir. Dağın yüksek kesimlerinde, alpin bitkiler ve çalılar bulunur. 
+Bitki örtüsünün çeşitliliği, mevsimsel değişimlere bağlı olarak değişir. Step bitki örtüsü, kuraklığa dayanıklı otlar ve çalılarla karakterizedir. Dağın yüksek kesimlerinde, alpin bitkiler ve çalılar bulunur.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Dağ keçileri ve yaban domuzları, dağlık alanların karakteristik hayvanlarıdır. Kuşlar, özellikle göç mevsimlerinde dağların üzerinde görülür. Sürüngenler, kaya ve taşların arasında yaşamlarını sürdürür. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Dağ keçileri ve yaban domuzları, dağlık alanların karakteristik hayvanlarıdır. Kuşlar, özellikle göç mevsimlerinde dağların üzerinde görülür. Sürüngenler, kaya ve taşların arasında yaşamlarını sürdürür.
 
 Ekolojik değerini koruma altına almak, bu dağ ekosisteminin sürekliliğini sağlamak için önemlidir. Uzunkabir Dağı, bölgenin ekolojik dengesini korumak için kritik bir role sahiptir.
 

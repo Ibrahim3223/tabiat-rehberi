@@ -29,7 +29,7 @@ wikidata_id: "Q32196053"
 
 # Yüce Tepe
 
-Yüce Tepe, İç Anadolu Bölgesi'nin gizli bir köşesinde yer alan, tarihi ve doğal güzellikleri bir arada sunan özel bir nokta. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde. Doğal güzelliği ve tarihi önemi ile dikkat çeken Yüce Tepe, ziyaretçilerini geçmişe götürmeyi vaat ediyor. Burada, doğanın ve tarihin iç içe geçtiği bir worldde kendinizi kaybedebilirsiniz. Yüce Tepe, ziyaretçilerine doğa yürüyüşleri, tarihi keşifler ve kültürel deneyimler sunuyor.
+Yüce Tepe, İç Anadolu Bölgesi'nin gizli bir köşesinde yer alan, tarihi ve doğal güzellikleri bir arada sunan özel bir nokta. Doğal güzelliği ve tarihi önemi ile dikkat çeken Yüce Tepe, ziyaretçilerini geçmişe götürmeyi vaat ediyor. Burada, doğanın ve tarihin iç içe geçtiği bir worldde kendinizi kaybedebilirsiniz. Yüce Tepe, ziyaretçilerine doğa yürüyüşleri, tarihi keşifler ve kültürel deneyimler sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yüce Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin iz
 
 ## Coğrafya
 
-Yüce Tepe, İç Anadolu Bölgesi'nin coğrafi olarak özel bir konumunda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde. Çevresinde, çeşitli bitki türleri ve zengin fauna encontrando. Yüce Tepe'nin coğrafi yapısı, ziyaretçilerine doğa yürüyüşleri, manzara seyir noktaları ve açık alan etkinlikleri sunuyor. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bir entire ekosistemi oluşturuyor. Yüce Tepe'nin coğrafyası, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor.
+Yüce Tepe, İç Anadolu Bölgesi'nin coğrafi olarak özel bir konumunda yer alıyor. Çevresinde, çeşitli bitki türleri ve zengin fauna encontrando. Yüce Tepe'nin coğrafi yapısı, ziyaretçilerine doğa yürüyüşleri, manzara seyir noktaları ve açık alan etkinlikleri sunuyor. Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte, bir entire ekosistemi oluşturuyor. Yüce Tepe'nin coğrafyası, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

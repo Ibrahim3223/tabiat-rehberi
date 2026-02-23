@@ -30,7 +30,7 @@ wikidata_id: "Q4150019"
 
 # Yuşâ Tepesi
 
-Yuşâ Tepesi, İstanbul'un Beykoz ilçesinde yer alan ve Marmara Bölgesi'nin önemli doğal alanlarından biri olan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Yuşâ Tepesi, aynı zamanda şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenlerin de ilgisini çeker. Yuşâ Tepesi, ziyaretçilerine şehrin eşsiz manzarasını sunar ve İstanbul'un doğal güzelliğini keşfetmek için mükemmel bir oportunite sunar.
+Yuşâ Tepesi, İstanbul'un Beykoz ilçesinde yer alan ve Marmara Bölgesi'nin önemli doğal alanlarından biri olan bir tepe. İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Yuşâ Tepesi, aynı zamanda şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenlerin de ilgisini çeker. Yuşâ Tepesi, ziyaretçilerine şehrin eşsiz manzarasını sunar ve İstanbul'un doğal güzelliğini keşfetmek için mükemmel bir oportunite sunar.
 
 ## Tarihçe
 

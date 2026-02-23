@@ -1,7 +1,7 @@
 ---
 title: "Mehmet Şah Dede Türbesi"
 date: "2026-01-10T06:52:40.231Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çankırı"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390764"
 
 # Mehmet Şah Dede Türbesi
 
-Mehmet Şah Dede Türbesi, İç Anadolu Bölgesi'nin gizli güzelliği, Çankırı'nın Kurşunlu ilçesinde yer alan tarihi bir mekan. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Mehmet Şah Dede Türbesi, ziyaretçilerini tarihin derinliklerine götürerek, bölge hakkında detaylı bilgi edinme fırsatı sunar. Tarihi geçmişi ve coğrafi konumu ile dikkat çeken bu mekan, her yıl binlerce ziyaretçiyi ağırlar.
+Mehmet Şah Dede Türbesi, İç Anadolu Bölgesi'nin gizli güzelliği, Çankırı'nın Kurşunlu ilçesinde yer alan tarihi bir mekan. Mehmet Şah Dede Türbesi, ziyaretçilerini tarihin derinliklerine götürerek, bölge hakkında detaylı bilgi edinme fırsatı sunar. Tarihi geçmişi ve coğrafi konumu ile dikkat çeken bu mekan, her yıl binlerce ziyaretçiyi ağırlar.
 
 ## Tarihçe
 

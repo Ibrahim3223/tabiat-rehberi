@@ -1,7 +1,7 @@
 ---
 title: "Hocapaşa Hamamı"
 date: "2026-01-09T22:43:11.916Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738565"
 
 # Hocapaşa Hamamı
 
-Hocapaşa Hamamı, İstanbul'un tarihi dokusunu yansıtan önemli bir kültürel mirastır. Fatih ilçesinde bulunan bu hamam, yaklaşık 140 hektarlık bir alanda, 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un en eski ve en önemli hamamlarından biri olan Hocapaşa Hamamı, ziyaretçilerini tarihin sâuına götürür. Bu tarihi mekan, hem yerel halk hem de yabancı turistler için büyük bir çekim merkezidir. Hocapaşa Hamamı, İstanbul'un zengin kültürel mirasının bir parçasını oluşturur ve ziyaretçilerine unutulmaz bir deneyim sunar.
+Hocapaşa Hamamı, İstanbul'un tarihi dokusunu yansıtan önemli bir kültürel mirastır. İstanbul'un en eski ve en önemli hamamlarından biri olan Hocapaşa Hamamı, ziyaretçilerini tarihin derinına götürür. Bu tarihi mekan, hem yerel halk hem de yabancı turistler için büyük bir çekim merkezidir.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Hocapaşa Hamamı, İstanbul'un tarihi ve kültürel merkezi olarak, zengin bir 
 
 ## Ziyaret Bilgileri
 
-Hocapaşa Hamamı, yıl boyunca ziyaretçilerini ağırlar. Hamama ulaşım, çeşitli toplu taşıma araçları ile kolaydır. Ziyaretçiler, hamamın tarihi atmosferini deneyimlemek için çeşitli olanaklardan yararlanabilirler. Hocapaşa Hamamı, ziyaretçilerine rehberli turlar sunar ve hamamın tarihi ve kültürel önemini anlatır. Ziyaretçiler, hamamın tarihi odalarını gezerek, İstanbul'un kültürel mirasını keşfedebilirler. Hocapaşa Hamamı, ziyaretçilerine unutulmaz bir deneyim sunar ve İstanbul'un tarihi ve kültürel merkezi olarak, önemli bir destinasyondur.
+Hocapaşa Hamamı, yıl boyunca ziyaretçilerini ağırlar. Hamama ulaşım, çeşitli toplu taşıma araçları ile kolaydır. Ziyaretçiler, hamamın tarihi atmosferini deneyimlemek için çeşitli olanaklardan yararlanabilirler. Hocapaşa Hamamı, ziyaretçilerine rehberli turlar sunar ve hamamın tarihi ve kültürel önemini anlatır. Ziyaretçiler, hamamın tarihi odalarını gezerek, İstanbul'un kültürel mirasını keşfedebilirler.
 
 ## İlginç Bilgiler
 

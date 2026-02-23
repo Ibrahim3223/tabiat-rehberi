@@ -28,7 +28,7 @@ wikidata_id: "Q31390499"
 
 # Selimağılı Tepesi
 
-Konya'nın İç Anadolu Bölgesi'nde yer alan Selimağılı Tepesi, 140 hektarlık yeşil alanı yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilerin doğayı sâu bir şekilde keşfedebilmesi için geniş bir alan sunuyor. Tepenin yüksekliği, çevredeki diğer tepelere nazaran dikkat çekici bir konumda ve bu nedenle, çevrenin panoramik manzarasını izlemek için ideal bir nokta. Selimağılı Tepesi, sadece doğal güzelliği ile değil, aynı zamanda coğrafi konumuyla da dikkat çekiyor. Konya'nın merkezine yakın konumu, ziyaretçilerin ulaşımını kolaylaştırıyor.
+ Bu büyüklük, ziyaretçilerin doğayı derin bir şekilde keşfedebilmesi için geniş bir alan sunuyor. Tepenin yüksekliği, çevredeki diğer tepelere nazaran dikkat çekici bir konumda ve bu nedenle, çevrenin panoramik manzarasını izlemek için ideal bir nokta. Selimağılı Tepesi, sadece doğal güzelliği ile değil, aynı zamanda coğrafi konumuyla da dikkat çekiyor. Konya'nın merkezine yakın konumu, ziyaretçilerin ulaşımını kolaylaştırıyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Selimağılı Tepesi'ni ziyaret etmek, doğa severler için bir fırsat sunuyor.
 
 ## İlginç Bilgiler
 
-- Selimağılı Tepesi, 140 hektarlık yeşil alanı yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin yüksekliği, çevredeki diğer tepelere nazaran dikkat çekici bir konumda.
 - Selimağılı Tepesi, sadece doğal güzelliği ile değil, aynı zamanda coğrafi konumuyla da dikkat çekiyor.
 - Tepenin etrafında, çeşitli bitki türleri bulunabilir.

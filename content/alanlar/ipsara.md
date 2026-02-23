@@ -34,7 +34,7 @@ wikidata_id: "Q1330873"
 
 ## Tarihçe
 
-Sakız ilçesi, tarihin sâu izlerini taşıyan bir bölge. İnsanlık tarihinin önemli merkezlerinden biri olan Ege Bölgesi'nde yer alan bu topraklar, binlerce yıl boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış. İpsara adası da bu zengin tarihsel mirasın bir parçası.
+Sakız ilçesi, tarihin derin izlerini taşıyan bir bölge. İnsanlık tarihinin önemli merkezlerinden biri olan Ege Bölgesi'nde yer alan bu topraklar, binlerce yıl boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış. İpsara adası da bu zengin tarihsel mirasın bir parçası.
 
 Bu bölgede, antik dönemden itibaren yerleşim ve ticaret faaliyetleri sürmüştür. Ege Denizi'nin stratejik konumu, bölgenin önemli bir ticaret merkezi olmasını sağlamıştır. İnsanlar, doğal güzellikleri ve verimli topraklarıyla bu bölgeye çekilmiş, burada yerleşerek hayvancılık, tarım ve ticaret gibi faaliyetlerle geçimlerini sağlamaya çalışmışlardır.
 

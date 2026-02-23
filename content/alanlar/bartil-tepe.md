@@ -28,7 +28,7 @@ wikidata_id: "Q31386867"
 
 # Bartıl Tepe
 
-Bartıl Tepe, Şırnak ilinin güneydoğu portionunda yer alan ve coğrafi özellikleri ile dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğüne eşdeğer. Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan Bartıl Tepe, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve zengin bir kültürel mirasa sahip.
+Bartıl Tepe, Şırnak ilinin güneydoğu portionunda yer alan ve coğrafi özellikleri ile dikkat çeken bir tepe. Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan Bartıl Tepe, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve zengin bir kültürel mirasa sahip.
 
 ## Tarihçe
 

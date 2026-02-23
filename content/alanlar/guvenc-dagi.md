@@ -32,7 +32,7 @@ Güvenç Dağı, Muğla'nın Ege Bölgesi'nde yer alan ve yaklaşık 140 hektarl
 
 ## Tarihçe
 
-Güvenç Dağı'nın tarihi geçmişi, Muğla'nın zengin kültürel mirasıyla iç içe geçmiş durumda. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bölgenin kültürel dokusuna katkıda bulunmuş. Güvenç Dağı, tarihi ve kültürel önemi nedeniyle önemli bir turizm merkezi olarak dikkat çekiyor. Tarihi geçmişi ve doğal güzellikleri bir arada sunan bu tepe, ziyaretçilerine unutulmaz bir deneyim sunuyor. Güvenç Dağı'nın tarihini keşfetmek, Muğla'nın zengin kültürel mirasını daha iyi anlamak için önemli bir adımdır.
+Güvenç Dağı'nın tarihi geçmişi, Muğla'nın zengin kültürel mirasıyla iç içe geçmiş durumda. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bölgenin kültürel dokusuna katkıda bulunmuş. Güvenç Dağı, tarihi ve kültürel önemi nedeniyle önemli bir turizm merkezi olarak dikkat çekiyor. Güvenç Dağı'nın tarihini keşfetmek, Muğla'nın zengin kültürel mirasını daha iyi anlamak için önemli bir adımdır.
 
 ## Coğrafya
 

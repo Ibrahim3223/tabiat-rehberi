@@ -1,7 +1,7 @@
 ---
 title: "Koçhisar Mağarası"
 date: "2026-01-09T10:25:45.534Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "jeopark"
 il: "Çorum"

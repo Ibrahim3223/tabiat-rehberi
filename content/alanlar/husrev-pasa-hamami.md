@@ -1,7 +1,7 @@
 ---
 title: "Hüsrev Paşa Hamamı"
 date: "2026-01-09T22:54:10.135Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738660"
 
 # Hüsrev Paşa Hamamı
 
-Hüsrev Paşa Hamamı, İç Anadolu Bölgesi'nin Eskişehir ilinin Han ilçesinde yer alan tarihi bir hamamdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir arazide bulunmaktadır. Bu tarihi hamam, yüzyıllar boyunca bölgenin önemli bir kültürel merkezi olarak hizmet vermiştir. Ziyaretçiler, hamamın tarihi atmosferini deneyimleyebilir ve çevredeki doğal güzellikleri keşfedebilirler. Husrev Paşa Hamamı, tarihi ve doğası ile ziyaretçilerini bekliyor.
+Hüsrev Paşa Hamamı, İç Anadolu Bölgesi'nin Eskişehir ilinin Han ilçesinde yer alan tarihi bir hamamdır. Bu tarihi hamam, yüzyıllar boyunca bölgenin önemli bir kültürel merkezi olarak hizmet vermiştir. Ziyaretçiler, hamamın tarihi atmosferini deneyimleyebilir ve çevredeki doğal güzellikleri keşfedebilirler. Husrev Paşa Hamamı, tarihi ve doğası ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Abdulvahabi Gazi Türbesi"
 date: "2026-01-10T05:56:08.782Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -28,7 +28,7 @@ wikidata_id: "Q127632765"
 
 # Abdulvahabi Gazi Türbesi
 
-Abdulvahabi Gazi Türbesi, Sivas'ın merkezinde bulunan bir plaj ve tarihi türbe olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Abdulvahabi Gazi Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. İç Anadolu Bölgesi'nin kalbinde yer alan bu bölge, Sivas'ın turizm açısından önemli noktalarından biri olarak biliniyor. Abdulvahabi Gazi Türbesi ve plajı, hem yerli hem de yabancı turistlerin ilgisini çekiyor.
+Abdulvahabi Gazi Türbesi, Sivas'ın merkezinde bulunan bir plaj ve tarihi türbe olarak dikkat çekiyor. Abdulvahabi Gazi Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. İç Anadolu Bölgesi'nin kalbinde yer alan bu bölge, Sivas'ın turizm açısından önemli noktalarından biri olarak biliniyor. Abdulvahabi Gazi Türbesi ve plajı, hem yerli hem de yabancı turistlerin ilgisini çekiyor.
 
 ## Tarihçe
 

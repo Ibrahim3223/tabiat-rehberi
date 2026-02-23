@@ -23,7 +23,7 @@ wikidata_id: "Q108228356"
 
 # Şamlar
 
-Şamlar, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplıdır. Şamlar, ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunar. Bu milli park, bölgenin en önemli turizm merkezlerinden biri olarak dikkat çeker. Şamlar'ı ziyaret ettiğinizde, doğanın güzelliği ve tarihi ile iç içe olacaksınız.
+Şamlar, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Şamlar, ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunar. Bu milli park, bölgenin en önemli turizm merkezlerinden biri olarak dikkat çeker. Şamlar'ı ziyaret ettiğinizde, doğanın güzelliği ve tarihi ile iç içe olacaksınız.
 
 ## Tarihçe
 
@@ -39,7 +39,7 @@ wikidata_id: "Q108228356"
 
 ## Ziyaret Bilgileri
 
-Şamlar'ı ziyaret etmek, doğa ve tarih severler için büyük bir fırsat sunar. Bu milli parka, özel araçla veya toplu taşıma araçlarıyla ulaşılabilir. Şamlar'ı ziyaret etmek isteyenler, mevsimsel değişimlere dikkat etmelidir. İlkbahar ve sonbahar ayları, Şamlar'ı ziyaret etmek için en uygun zamanlardır. Ziyaretçiler, burada doğa yürüyüşü, fotoğrafçılık ve tarihi eserleri ziyaret gibi etkinlikler yapabilir. Şamlar, ziyaretçilerine unutulmaz bir deneyim sunar.
+Şamlar'ı ziyaret etmek, doğa ve tarih severler için büyük bir fırsat sunar. Bu milli parka, özel araçla veya toplu taşıma araçlarıyla ulaşılabilir. Şamlar'ı ziyaret etmek isteyenler, mevsimsel değişimlere dikkat etmelidir. İlkbahar ve sonbahar ayları, Şamlar'ı ziyaret etmek için en uygun zamanlardır. Ziyaretçiler, burada doğa yürüyüşü, fotoğrafçılık ve tarihi eserleri ziyaret gibi etkinlikler yapabilir.
 
 ## İlginç Bilgiler
 

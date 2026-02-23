@@ -28,7 +28,7 @@ wikidata_id: "Q31390891"
 
 # Alışık Tepe
 
-Alışık Tepe, Yozgat ilinin merkezinde yer alan ve şehrin önemli sembollerinden biri olarak kabul edilen bir tepe. Bu tepe, khong 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Alışık Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin bir bölge. Tepe, aynı zamanda şehrin tarihi geçmişine de tanıklık ediyor. Alışık Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor. Burada, şehrin panoramik manzarasını izleyebilir ve doğanın güzelliğini keşfedebilirsiniz.
+Alışık Tepe, Yozgat ilinin merkezinde yer alan ve şehrin önemli sembollerinden biri olarak kabul edilen bir tepe. Alışık Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin bir bölge. Tepe, aynı zamanda şehrin tarihi geçmişine de tanıklık ediyor. Alışık Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor. Burada, şehrin panoramik manzarasını izleyebilir ve doğanın güzelliğini keşfedebilirsiniz.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Alışık Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölg
 
 ## Coğrafya
 
-Alışık Tepe, Yozgat ilinin merkezinde yer alıyor. Bu tepe, khong 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Alışık Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin bir bölge. Tepe, aynı zamanda şehrin tarihi geçmişine de tanıklık ediyor. Alışık Tepe'nin coğrafi yapısı, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle step iklimine sahip ve yazları sıcak, kışları soğuk passing. Alışık Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor. Burada, şehrin panoramik manzarasını izleyebilir ve doğanın güzelliğini keşfedebilirsiniz. Alışık Tepe, Yozgat'ın önemli bir turizm merkezi olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Alışık Tepe, Yozgat ilinin merkezinde yer alıyor. Alışık Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin bir bölge. Tepe, aynı zamanda şehrin tarihi geçmişine de tanıklık ediyor. Alışık Tepe'nin coğrafi yapısı, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle step iklimine sahip ve yazları sıcak, kışları soğuk passing. Alışık Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor. Burada, şehrin panoramik manzarasını izleyebilir ve doğanın güzelliğini keşfedebilirsiniz. Alışık Tepe, Yozgat'ın önemli bir turizm merkezi olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Flora ve Fauna
 

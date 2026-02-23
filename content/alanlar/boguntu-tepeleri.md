@@ -28,7 +28,7 @@ wikidata_id: "Q31387269"
 
 # Boğuntu Tepeleri
 
-Boğuntu Tepeleri, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplamakta ve coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Boğuntu Tepeleri, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon olarak dikkat çekiyor.
+Boğuntu Tepeleri, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplamakta ve coğrafi olarak oldukça zengin bir yapıya sahip. Boğuntu Tepeleri, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

@@ -50,11 +50,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından bakıldığı
 
 ## Flora ve Fauna
 
-Akpınar Dağı, Bingöl'ün yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Akpınar Dağı, Bingöl'ün yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelişiyle birlikte dağ eteklerinde çiçeklerin açtığı görülür. Alpin flora, yükseklik zonlarına bağlı olarak değişkenlik gösterir. Dağın yüksek kesimlerinde, soğuğa dayanıklı bitkiler hakimdir. 
+Bitki Örtüsü olarak, ilkbaharın gelişiyle birlikte dağ eteklerinde çiçeklerin açtığı görülür. Alpin flora, yükseklik zonlarına bağlı olarak değişkenlik gösterir. Dağın yüksek kesimlerinde, soğuğa dayanıklı bitkiler hakimdir.
 
-Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Memeliler arasında, dağ keçileri ve yaban keçileri görülür. Kuşlar, özellikle göç mevsimlerinde dağda önemli bir varlık gösterir. 
+Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Memeliler arasında, dağ keçileri ve yaban keçileri görülür. Kuşlar, özellikle göç mevsimlerinde dağda önemli bir varlık gösterir.
 
 Ekolojik Değer olarak, Akpınar Dağı yüksek dağ ekosisteminin korunması açısından önemlidir. Bu alanın korunması, bölgenin ekolojik dengesinin korunmasına katkı sağlar.
 

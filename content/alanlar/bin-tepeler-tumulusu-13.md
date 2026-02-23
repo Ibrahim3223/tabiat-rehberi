@@ -29,7 +29,7 @@ wikidata_id: "Q134728371"
 
 # Bin Tepeler Tümülüsü 13
 
-Bin Tepeler Tümülüsü 13, Salihli, Manisa'da yer alan bir tarih ve kültür mirası. Buda bulunan tümülüsler, Ege Bölgesi'nin zengin tarihi geçmişi hakkında bilgi veriyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunuyor. Bin Tepeler Tümülüsü 13, tarihi yapıları ve coğrafi güzelliği ile ziyaretçilerini bekliyor.
+Bin Tepeler Tümülüsü 13, Salihli, Manisa'da yer alan bir tarih ve kültür mirası. Buda bulunan tümülüsler, Ege Bölgesi'nin zengin tarihi geçmişi hakkında bilgi veriyor. Bin Tepeler Tümülüsü 13, tarihi yapıları ve coğrafi güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 13, tarihin derinliklerine uzanan bir geçmişe sahip. 
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 13, coğrafi güzelliği ile dikkat çekiyor. Ege Bölgesi'nin karakteristik coğrafi özellikleri, bu tümülüslerin bulunduğu alanda da görülüyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunuyor. Bin Tepeler Tümülüsü 13, Ege Bölgesi'nin iklimini yansıtan bir coğrafyaya sahip. Bu coğrafi güzellik, ziyaretçilere doğayla iç içe bir gezi deneyimi sunuyor. Tümülüslerini, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
+Bin Tepeler Tümülüsü 13, coğrafi güzelliği ile dikkat çekiyor. Ege Bölgesi'nin karakteristik coğrafi özellikleri, bu tümülüslerin bulunduğu alanda da görülüyor. Bin Tepeler Tümülüsü 13, Ege Bölgesi'nin iklimini yansıtan bir coğrafyaya sahip. Bu coğrafi güzellik, ziyaretçilere doğayla iç içe bir gezi deneyimi sunuyor. Tümülüslerini, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 
 ## Flora ve Fauna
 

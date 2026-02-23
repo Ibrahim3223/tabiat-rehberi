@@ -28,7 +28,7 @@ wikidata_id: "Q31549420"
 
 # Susuz Tepesi
 
-Susuz Tepesi, Batman'ın doğal güzelliklerini keşfetmek isteyenler için bir hazine. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir perspektif sunuyor. Susuz Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Susuz Tepesi, Batman'ın doğal güzelliklerini keşfetmek isteyenler için bir hazine. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir perspektif sunuyor. Susuz Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

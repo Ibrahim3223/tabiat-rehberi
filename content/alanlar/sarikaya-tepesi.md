@@ -28,7 +28,7 @@ wikidata_id: "Q31386570"
 
 # Sarıkaya Tepesi
 
-Sarıkaya Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan ve Siirt'in doğal güzelliklerinden biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Sarıkaya Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde yer alan köyler, misafirlerini sıcak bir şekilde karşılıyor. Burada, yerel halkın geleneksel yaşam tarzı ve kültürü hakkında bilgi sahibi olma mümkün.
+Sarıkaya Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan ve Siirt'in doğal güzelliklerinden biri olan bir tepe. Sarıkaya Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde yer alan köyler, misafirlerini sıcak bir şekilde karşılıyor. Burada, yerel halkın geleneksel yaşam tarzı ve kültürü hakkında bilgi sahibi olma mümkün.
 
 ## Tarihçe
 

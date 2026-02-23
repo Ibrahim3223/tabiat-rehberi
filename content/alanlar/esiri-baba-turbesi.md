@@ -1,7 +1,7 @@
 ---
 title: "Esiri Baba Türbesi"
 date: "2026-01-10T07:15:33.693Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Malatya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390904"
 
 # Esiri Baba Türbesi
 
-Esiri Baba Türbesi, Doğu Anadolu Bölgesi'nin gizli cenneti olarak bilinen Hekimhan/Malatya'da yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu özel mekan, hem tarihi geçmiş hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. Esiri Baba Türbesi, Malatya'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Esiri Baba Türbesi, Doğu Anadolu Bölgesi'nin gizli cenneti olarak bilinen Hekimhan/Malatya'da yer alıyor. Bu özel mekan, hem tarihi geçmiş hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. Esiri Baba Türbesi, Malatya'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 

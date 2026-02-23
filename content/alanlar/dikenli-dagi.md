@@ -32,7 +32,7 @@ Erzurum'un dağlık bölgesinde gizlenen Dikenli Dağı, ziyaretçilerini doğan
 
 ## Tarihçe
 
-Erzurum bölgesi, tarihin sâu sayfalarında önemli bir rol oynamıştır. Bu bölge, binlerce yıl önce Hitit, Urartu ve Pers uygarlıklarının etkisi altında kalmıştır. Dikenli Dağı da, bu tarihsel coğrafyanın bir parçasını oluşturmaktadır. Türkiye'de doğal alanlar, altijd insanlar için önemli bir yaşam kaynağı olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomisine ve kültürüne katkıda bulunmuştur.
+Erzurum bölgesi, tarihin derin sayfalarında önemli bir rol oynamıştır. Bu bölge, binlerce yıl önce Hitit, Urartu ve Pers uygarlıklarının etkisi altında kalmıştır. Dikenli Dağı da, bu tarihsel coğrafyanın bir parçasını oluşturmaktadır. Türkiye'de doğal alanlar, altijd insanlar için önemli bir yaşam kaynağı olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomisine ve kültürüne katkıda bulunmuştur.
 
 Erzurum'un coğrafi konumu, tarihi İpek Yolu'nun önemli bir durağı haline getirmiştir. Bu yol, Asya ile Avrupa arasındaki ticaretin can damarı olmuştur. Bölge, aynı zamanda çeşitli kültürlerin birleştiği bir noktada yer almaktadır. Dikenli Dağı, bu kültürel ve coğrafi zenginliğin bir parçası olarak, insanların yaşamlarını sürdürdükleri ve doğayla iç içe oldukları bir mekân olarak görülebilir. Bu doğal alan, insanların tarih boyunca doğaya olan bağımlılıklarını ve doğayla uyum içinde yaşama çabalarını yansıtmaktadır. Bu bağlamda, Dikenli Dağı, Türkiye'nin doğal ve tarihsel mirasının önemli bir bileşenidir.
 
@@ -50,9 +50,9 @@ Mevsimsel olarak, Dikenli Dağı ve çevresinde karasal iklim hüküm sürer. K�
 
 Dikenli Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, alpin flora ve fauna için ideal bir ortam sunuyor.
 
-İlkbaharda, dağ eteklerinde çiçekler açar ve rengarenk bir manzara oluşur. Alpin çayırlar, endemik türlerle dolu bir halı gibi görünür. Sonbaharda, göç eden kuşlar dağları ziyaret eder ve gökyüzü renkli bir şölene dönüşür. 
+İlkbaharda, dağ eteklerinde çiçekler açar ve rengarenk bir manzara oluşur. Alpin çayırlar, endemik türlerle dolu bir halı gibi görünür. Sonbaharda, göç eden kuşlar dağları ziyaret eder ve gökyüzü renkli bir şölene dönüşür.
 
-Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşam alanlarını bulur. Kuşlar, özellikle de kartallar ve doğanların yuvalandığı bir bölge. Sürüngenler de, dağların kayalık yüzeylerinde yaşamlarını sürdürür. 
+Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşam alanlarını bulur. Kuşlar, özellikle de kartallar ve doğanların yuvalandığı bir bölge. Sürüngenler de, dağların kayalık yüzeylerinde yaşamlarını sürdürür.
 
 Dikenli Dağı, yüksek dağ ekosisteminin korunması açısından önemli bir bölgedir. Bu alanın korunması, birçok endemik türün hayatta kalması için gerekli.
 

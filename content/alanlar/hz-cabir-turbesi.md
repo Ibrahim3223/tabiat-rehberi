@@ -1,7 +1,7 @@
 ---
 title: "Hz. Cabir Türbesi"
 date: "2026-01-10T07:15:07.757Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390974"
 
 # Hz. Cabir Türbesi
 
-Hz. Cabir Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren bir mekan olarak karşımıza çıkıyor. Fatih ilçesinde bulunan bu özel yer, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak biliniyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Bu mekan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olan Hz. Cabir Türbesi, aynı zamanda şehrin tarihi geçmişini keşfetmek isteyenler için de önemli bir destinasyon.
+Hz. Cabir Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren bir mekan olarak karşımıza çıkıyor. Fatih ilçesinde bulunan bu özel yer, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak biliniyor. Bu mekan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olan Hz. Cabir Türbesi, aynı zamanda şehrin tarihi geçmişini keşfetmek isteyenler için de önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hz. Cabir Türbesi'nin tarihi geçmişi, İstanbul'un fethi dönemine kadar uzan
 
 ## Coğrafya
 
-Hz. Cabir Türbesi, Fatih ilçesinde, İstanbul'un merkezine yakın bir konumda bulunuyor. Bu mekan, Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiş ve bölgenin iklimi, türbenin mimarisini ve çevresini etkilemiştir. Bölge, genellikle ılıman bir iklim özelliği gösteriyor ve ziyaretçilere, dört mevsim boyunca ziyaret imkanı sunuyor. Türbenin çevresi, yeşillik alanlarla çevrili ve ziyaretçilere, şehrin gürültüsünden uzaklaşmak için bir fırsat sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Bu mekan, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbediyor.
+Hz. Cabir Türbesi, Fatih ilçesinde, İstanbul'un merkezine yakın bir konumda bulunuyor. Bu mekan, Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiş ve bölgenin iklimi, türbenin mimarisini ve çevresini etkilemiştir. Bölge, genellikle ılıman bir iklim özelliği gösteriyor ve ziyaretçilere, dört mevsim boyunca ziyaret imkanı sunuyor. Türbenin çevresi, yeşillik alanlarla çevrili ve ziyaretçilere, şehrin gürültüsünden uzaklaşmak için bir fırsat sunuyor. Bu mekan, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

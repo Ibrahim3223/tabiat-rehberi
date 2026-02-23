@@ -23,7 +23,7 @@ wikidata_id: "Q108228404"
 
 # Altıparmak
 
-Altıparmak, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak 140 hektarlık geniş bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğa severlerin ve tarih meraklılarının ilgisini çeker. İnsanlık tarihi boyunca önemli bir yerleşim ve geçiş noktası olan bu bölge, zengin kültürel mirasını günümüze taşır. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini büyüleyen Altıparmak, yılın her dönemi ziyaret edilebilir.
+Altıparmak, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak 140 hektarlık geniş bir alanı kaplar. İnsanlık tarihi boyunca önemli bir yerleşim ve geçiş noktası olan bu bölge, zengin kültürel mirasını günümüze taşır. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini büyüleyen Altıparmak, yılın her dönemi ziyaret edilebilir.
 
 ## Tarihçe
 

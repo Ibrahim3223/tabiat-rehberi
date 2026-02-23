@@ -1,7 +1,7 @@
 ---
 title: "Ürgüp Hamamı"
 date: "2026-01-09T23:55:06.123Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Nevşehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739221"
 
 # Ürgüp Hamamı
 
-Ürgüp Hamamı, Ürgüp'ün merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir doğal güzellik alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yüksek kayalar ile çevrili. Bu doğal oluşum, yüzyıllar boyunca oluşmuş ve bölgenin jeolojik yapısını yansıtan bir görünüm sunuyor. Ürgüp Hamamı, ziyaretçilerin doğayı yakından tanımalarına olanak tanıyan bir destinasyon olarak dikkat çekiyor.
+Ürgüp Hamamı, Ürgüp'ün merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir doğal güzellik alanıdır. Bu doğal oluşum, yüzyıllar boyunca oluşmuş ve bölgenin jeolojik yapısını yansıtan bir görünüm sunuyor. Ürgüp Hamamı, ziyaretçilerin doğayı yakından tanımalarına olanak tanıyan bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

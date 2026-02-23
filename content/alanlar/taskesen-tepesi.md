@@ -28,7 +28,7 @@ wikidata_id: "Q31386137"
 
 # Taşkesen Tepesi
 
-Taşkesen Tepesi, Gaziantep'in güneydoğusunda yer alan bir tepe olup, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir ortam sunar. Tepenin eteklerinde yer alan köyler, ziyaretçilere sıcak bir misafirperverlik sunarken, tepe üzerindeki manzara, şehri ve civarını panoramik olarak gözler önüne serer.
+Taşkesen Tepesi, Gaziantep'in güneydoğusunda yer alan bir tepe olup, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Tepenin eteklerinde yer alan köyler, ziyaretçilere sıcak bir misafirperverlik sunarken, tepe üzerindeki manzara, şehri ve civarını panoramik olarak gözler önüne serer.
 
 ## Tarihçe
 

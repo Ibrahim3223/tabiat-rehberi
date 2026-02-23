@@ -52,7 +52,7 @@ Mevsimsel açıdan ele alındığında, Sivrice Dağı'nın iklimi, Doğu Anadol
 
 Sivrice Dağı'nın yüksek dağ ekosisteminde, 1200 metre ile 2000 metre arasındaki yükseklik zonlarında alpin çayırlar hakimdir. İlkbaharın gelmesiyle birlikte, bu çayırlar renkli çiçeklerle donanır. Sonbaharda ise, göç eden kuşlar dağların üzerinde görkemli bir göç gösterisi sunar.
 
-Dağların yaban hayatı da oldukça zengin. Memeliler arasında, dağ keçileri ve yaban keçileri yaşam alanlarını bu dağlarda bulur. Kuşlar arasında, kartallar ve doğanların görülebileceği bu bölgede, sürüngenler de yaşamaktadır. 
+Dağların yaban hayatı da oldukça zengin. Memeliler arasında, dağ keçileri ve yaban keçileri yaşam alanlarını bu dağlarda bulur. Kuşlar arasında, kartallar ve doğanların görülebileceği bu bölgede, sürüngenler de yaşamaktadır.
 
 Sivrice Dağı, endemik türlerin varlığıyla da önemli bir ekolojik değer taşır. Bu dağların korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin ekolojik dengesi için de önemlidir.
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31385824"
 
 # Gelincikana Tepe
 
-Gelincikana Tepe, İç Anadolu Bölgesi'nin coğrafi güzelliklerinin odak noktasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Coğrafi konum olarak, Gelincikana Tepe, bölgenin önemli doğal ve tarihi değerlerini bir araya getirerek, ziyaretçilere benzersiz bir keşif deneyimi sunuyor. Gelincikana Tepe, coğrafi olarak da önemli bir konumda bulunmakta ve bu sayede, bölgeyi daha iyi anlama ve keşfetmek için ideal bir başlangıç noktası oluşturuyor.
+Gelincikana Tepe, İç Anadolu Bölgesi'nin coğrafi güzelliklerinin odak noktasıdır. Coğrafi konum olarak, Gelincikana Tepe, bölgenin önemli doğal ve tarihi değerlerini bir araya getirerek, ziyaretçilere benzersiz bir keşif deneyimi sunuyor. Gelincikana Tepe, coğrafi olarak da önemli bir konumda bulunmakta ve bu sayede, bölgeyi daha iyi anlama ve keşfetmek için ideal bir başlangıç noktası oluşturuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gelincikana Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Gelincikana Tepe, coğrafi olarak İç Anadolu Bölgesi'nin ortasında yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Coğrafi konum olarak, Gelincikana Tepe, bölgenin önemli doğal ve tarihi değerlerini bir araya getirerek, ziyaretçilere benzersiz bir keşif deneyimi sunuyor. Gelincikana Tepe, coğrafi olarak da önemli bir konumda bulunmakta ve bu sayede, bölgeyi daha iyi anlama ve keşfetmek için ideal bir başlangıç noktası oluşturuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Coğrafi yapısı, ziyaretçilere, farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında, bölgenin flora ve fauna zenginliği, ziyaretçilere eşsiz bir deneyim sunarken, kış aylarında, karla kaplı manzaralar, bir başka güzelliği ortaya çıkarıyor.
+Gelincikana Tepe, coğrafi olarak İç Anadolu Bölgesi'nin ortasında yer alıyor. Coğrafi konum olarak, Gelincikana Tepe, bölgenin önemli doğal ve tarihi değerlerini bir araya getirerek, ziyaretçilere benzersiz bir keşif deneyimi sunuyor. Gelincikana Tepe, coğrafi olarak da önemli bir konumda bulunmakta ve bu sayede, bölgeyi daha iyi anlama ve keşfetmek için ideal bir başlangıç noktası oluşturuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Coğrafi yapısı, ziyaretçilere, farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında, bölgenin flora ve fauna zenginliği, ziyaretçilere eşsiz bir deneyim sunarken, kış aylarında, karla kaplı manzaralar, bir başka güzelliği ortaya çıkarıyor.
 
 ## Flora ve Fauna
 

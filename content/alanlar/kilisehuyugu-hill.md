@@ -1,7 +1,7 @@
 ---
 title: "Kilisehüyüğü Hill"
 date: "2026-01-10T15:03:12.478Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Hatay"
@@ -28,7 +28,7 @@ wikidata_id: "Q49091544"
 
 # Kilisehüyüğü Hill
 
-Kilisehüyüğü Hill, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Kilisehüyüğü Hill, tarihi ve doğal güzellikleri ile dikkat çekiyor. Bu tepe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış. Tarihi geçmişi, bu tepenin güzelliğini daha da artırıyor.
+Kilisehüyüğü Hill, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Kilisehüyüğü Hill, tarihi ve doğal güzellikleri ile dikkat çekiyor. Bu tepe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış. Tarihi geçmişi, bu tepenin güzelliğini daha da artırıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kilisehüyüğü Hill'in tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu 
 
 ## Coğrafya
 
-Kilisehüyüğü Hill, Hatay ilinin Akdeniz Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Kilisehüyüğü Hill, coğrafi olarak zengin bir yapıya sahip. Bu tepe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış. Coğrafi yapısı, bu tepenin güzelliğini daha da artırıyor. Kilisehüyüğü Hill, coğrafi olarak zengin bir yapıya sahip. Bu tepe, iklim olarak ılıman bir bölge. İklimi, bu tepenin güzelliğini daha da artırıyor.
+Kilisehüyüğü Hill, Hatay ilinin Akdeniz Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Kilisehüyüğü Hill, coğrafi olarak zengin bir yapıya sahip. Bu tepe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış. Coğrafi yapısı, bu tepenin güzelliğini daha da artırıyor. Kilisehüyüğü Hill, coğrafi olarak zengin bir yapıya sahip. Bu tepe, iklim olarak ılıman bir bölge. İklimi, bu tepenin güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 

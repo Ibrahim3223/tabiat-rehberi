@@ -45,9 +45,9 @@ Jeolojik açıdan bakıldığında, Ergan Dağı'nın yapısı oldukça karmaş�
 
 Ergan Dağı, Erzincan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu dağ ekosisteminde, yükseklik zonları ve alpin çayırlar, endemik türlerin yaşamasına olanak tanır.
 
-Bitki örtüsü, ilkbaharda renkli çiçeklerle donanır, yaz aylarında ise yeşil bir halı gibi görünür. Sonbaharda, yaprakların değişimiyle birlikte, dağ manzarası bir başka güzelliğe bürünür. Alpin flora, bu bölgenin özel bitkilerini barındırır. 
+Bitki örtüsü, ilkbaharda renkli çiçeklerle donanır, yaz aylarında ise yeşil bir halı gibi görünür. Sonbaharda, yaprakların değişimiyle birlikte, dağ manzarası bir başka güzelliğe bürünür. Alpin flora, bu bölgenin özel bitkilerini barındırır.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirir. Dağ keçileri, ayılar ve kurtlar, bu bölgenin memeli temsilcileridir. Kuşlar, özellikle göç mevsimlerinde, Ergan Dağı'nı önemli bir durak olarak kullanır. Sürüngenler, kayalık alanlarda yaşamlarını sürdürür. Bu canlılar, dağ ekosisteminin önemli parçalarıdır ve birbirleriyle ekolojik ilişkiler içinde yaşarlar. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirir. Dağ keçileri, ayılar ve kurtlar, bu bölgenin memeli temsilcileridir. Kuşlar, özellikle göç mevsimlerinde, Ergan Dağı'nı önemli bir durak olarak kullanır. Sürüngenler, kayalık alanlarda yaşamlarını sürdürür. Bu canlılar, dağ ekosisteminin önemli parçalarıdır ve birbirleriyle ekolojik ilişkiler içinde yaşarlar.
 
 Ergan Dağı, yüksek dağ ekolojisi ve endemik türlerin varlığıyla önemli bir ekolojik değer taşır. Bu alanın korunması, bu özel ekosistemin devamını sağlar.
 

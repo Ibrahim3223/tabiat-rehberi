@@ -22,7 +22,7 @@ wikidata_id: "Q108227398"
 
 # Mersin-Tarsus Hopur Topasir
 
-Mersin-Tarsus Hopur Topasir Milli Parkı, Mersin'in Tarsus ilçesinde yer alan ve 140 hektarlık geniş bir yeşil alana sahip olan bir milli parktır. Bu park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilere geniş bir açık alan sunar. Hopur Topasir Milli Parkı, doğa severlerin ve çevre dostlarının ilgisini çeken bir destinasyondur. Parkta çeşitli bitki türleri ve hayvanlar bulunur. Bu milli park, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır.
+Mersin-Tarsus Hopur Topasir Milli Parkı, Mersin'in Tarsus ilçesinde yer alan ve 140 hektarlık geniş bir yeşil alana sahip olan bir milli parktır. Hopur Topasir Milli Parkı, doğa severlerin ve çevre dostlarının ilgisini çeken bir destinasyondur. Parkta çeşitli bitki türleri ve hayvanlar bulunur. Bu milli park, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır.
 
 ## Tarihçe
 

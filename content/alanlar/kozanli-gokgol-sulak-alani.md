@@ -22,7 +22,7 @@ wikidata_id: "Q108229016"
 
 # Kozanlı-Gökgöl Sulak Alanı
 
-Kozanlı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekmektedir. 140 hektarlık alanı ile önemli bir sulak alan olan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Bu sulak alan, çeşitli bitki türleri ve zengin fauna ile birlikte, doğal yaşamın güzelliğini gözler önüne sermektedir. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu sulak alanın oluşumunda önemli bir rol oynamıştır. Bölgenin iklimi ve toprak yapısı, sulak alanın oluşumuna uygun şartları sağlamıştır. Kozanlı-Gökgöl Sulak Alanı, aynı zamanda önemli bir ekolojik bölgedir. Bu bölge, çeşitli canlı türlerinin yaşam alanı olarak hizmet etmektedir.
+Kozanlı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu sulak alan, çeşitli bitki türleri ve zengin fauna ile birlikte, doğal yaşamın güzelliğini gözler önüne sermektedir. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu sulak alanın oluşumunda önemli bir rol oynamıştır. Bölgenin iklimi ve toprak yapısı, sulak alanın oluşumuna uygun şartları sağlamıştır. Kozanlı-Gökgöl Sulak Alanı, aynı zamanda önemli bir ekolojik bölgedir. Bu bölge, çeşitli canlı türlerinin yaşam alanı olarak hizmet etmektedir.
 
 ## Tarihçe
 

@@ -30,7 +30,7 @@ wikidata_id: "Q108228303"
 
 # Limni Gölü Tabiat Parkı
 
-Limni Gölü Tabiat Parkı, Gümüşhane'nin Torul ilçesinde yer alan ve 140 hektarlık geniş bir alanı kaplayan bir doğal güzelliktir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olmakla birlikte, ziyaretçilerine doğanın güzelliğini ve sakinliğini sunar. Park, Karadeniz Bölgesi'nin en güzel noktalarından biri olup, doğa severlerin ziyaret etmesi gereken bir yerdir. Limni Gölü'nün etrafındaki dağlar ve ormanlar, ziyaretçilere geniş bir flora ve fauna çeşitliliği sunarken, aynı zamanda trekking ve doğa yürüyüşü gibi aktivitelere de olanak tanır.
+Limni Gölü Tabiat Parkı, Gümüşhane'nin Torul ilçesinde yer alan ve 140 hektarlık geniş bir alanı kaplayan bir doğal güzelliktir. Park, Karadeniz Bölgesi'nin en güzel noktalarından biri olup, doğa severlerin ziyaret etmesi gereken bir yerdir. Limni Gölü'nün etrafındaki dağlar ve ormanlar, ziyaretçilere geniş bir flora ve fauna çeşitliliği sunarken, aynı zamanda trekking ve doğa yürüyüşü gibi aktivitelere de olanak tanır.
 
 ## Tarihçe
 

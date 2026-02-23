@@ -30,7 +30,7 @@ wikidata_id: "Q20471012"
 
 # Emir Saltuk Kümbeti
 
-Erzurum'un merkezinde yer alan Emir Saltuk Kümbeti, yaklaşık 140 hektarlık bir alanı kaplayan tarihi ve kültürel bir mirastır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin en önemli turistik mekanlarından biridir. Emir Saltuk Kümbeti, Selçuklu döneminde inşa edilmiş ve tarihin farklı dönemlerinde çeşitli restorasyonlar geçirmiştir. Kümbet, Türk mimarisinin güzel örneklerinden biri olarak kabul edilir ve ziyaretçilerini tarihin derinliklerine götürür.
+Erzurum'un merkezinde yer alan Emir Saltuk Kümbeti, yaklaşık 140 hektarlık bir alanı kaplayan tarihi ve kültürel bir mirastır. Emir Saltuk Kümbeti, Selçuklu döneminde inşa edilmiş ve tarihin farklı dönemlerinde çeşitli restorasyonlar geçirmiştir. Kümbet, Türk mimarisinin güzel örneklerinden biri olarak kabul edilir ve ziyaretçilerini tarihin derinliklerine götürür.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q130366770"
 
 # Anzer Şelalesi
 
-Anzer Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alanda, çeşitli bitki türleriyle çevrili olarak bulunur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şelalenin suyu, çevredeki yüksek dağlardan gelen kaynak sularından oluşur ve yıl boyunca sürekli akışını sürdürür. Anzer Şelalesi, hem doğa severler hem de macera tutkunları için bir cennet olarak kabul edilir.
+Anzer Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alanda, çeşitli bitki türleriyle çevrili olarak bulunur. Şelalenin suyu, çevredeki yüksek dağlardan gelen kaynak sularından oluşur ve yıl boyunca sürekli akışını sürdürür. Anzer Şelalesi, hem doğa severler hem de macera tutkunları için bir cennet olarak kabul edilir.
 
 ## Tarihçe
 

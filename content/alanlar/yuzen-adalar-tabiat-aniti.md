@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Yüzen Adalar Tabiat Anıtı
 
-Yüzen Adalar Tabiat Anıtı, Doğu Anadolu Bölgesi'nin Bingöl şehrinde bulunan bir doğal güzellik. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin gözdesi. Bu tabiat anıtı, bölgenin en önemli doğal değerlerinden biri olarak kabul ediliyor. Yüzen Adalar Tabiat Anıtı, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Yüzen Adalar Tabiat Anıtı, Doğu Anadolu Bölgesi'nin Bingöl şehrinde bulunan bir doğal güzellik. Bu tabiat anıtı, bölgenin en önemli doğal değerlerinden biri olarak kabul ediliyor. Yüzen Adalar Tabiat Anıtı, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Yüzen Adalar Tabiat Anıtı'nın tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Yüzen Adalar Tabiat Anıtı, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtıyor. Bu bölge, dağlık ve engebeli bir araziye sahip. Yüzen Adalar Tabiat Anıtı, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu tabiat anıtı, bölgenin ikliminin değişken olması nedeniyle, çeşitli mevsimsel değişimlere uğruyor. Kışın karla kaplanan bu bölge, yazın yeşilleniyor ve doğanın güzelliğini sergiliyor. Yüzen Adalar Tabiat Anıtı, çevresi ile birlikte, bir doğa harikası olarak kabul ediliyor. Burada, doğanın güzelliği ve çeşitliliği, ziyaretçilerini büyülüyor.
+Yüzen Adalar Tabiat Anıtı, Doğu Anadolu Bölgesi'nin coğrafi yapısını yansıtıyor. Bu bölge, dağlık ve engebeli bir araziye sahip. Bu tabiat anıtı, bölgenin ikliminin değişken olması nedeniyle, çeşitli mevsimsel değişimlere uğruyor. Kışın karla kaplanan bu bölge, yazın yeşilleniyor ve doğanın güzelliğini sergiliyor. Yüzen Adalar Tabiat Anıtı, çevresi ile birlikte, bir doğa harikası olarak kabul ediliyor. Burada, doğanın güzelliği ve çeşitliliği, ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 

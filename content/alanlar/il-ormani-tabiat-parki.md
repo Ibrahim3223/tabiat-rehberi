@@ -23,7 +23,7 @@ wikidata_id: "Q108228197"
 
 # İl Ormanı Tabiat Parkı
 
-İç Anadolu Bölgesi'nin kalbinde, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alan üzerine kurulu olan İl Ormanı Tabiat Parkı, ziyaretçilerini doğanın kucağına davet ediyor. Bu muhteşem park, çevreye duyarlı bir anlayışla yönetiliyor ve bölgenin ekolojik dengesine katkıda bulunmayı amaçlıyor. Parkın sunduğu geniş yeşil alanlar, temiz hava ve sakin atmosfer, doğa severler için ideal bir kaçış noktası oluşturuyor.
+ Bu muhteşem park, çevreye duyarlı bir anlayışla yönetiliyor ve bölgenin ekolojik dengesine katkıda bulunmayı amaçlıyor. Parkın sunduğu geniş yeşil alanlar, temiz hava ve sakin atmosfer, doğa severler için ideal bir kaçış noktası oluşturuyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ wikidata_id: "Q108228197"
 
 ## Coğrafya
 
-İl Ormanı Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alıyor. Parkın bulunduğu alan, geniş ormanlık araziler, çayır ve meralar ile çevrilidir. Coğrafi konumu itibariyle, parkın iklimi karasal iklim özellikleri göstererek, kışları soğuk ve yazları sıcak geçiyor. Parkın içinde ve çevresinde, çeşitli su kaynakları ve akarsular bulunmakta, bu da bölgenin flora ve faunası için önemli bir yaşam kaynağı oluşturuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık hava deneyimi sunuyor. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetmeleri için ideal bir zemin hazırlıyor.
+İl Ormanı Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alıyor. Parkın bulunduğu alan, geniş ormanlık araziler, çayır ve meralar ile çevrilidir. Coğrafi konumu itibariyle, parkın iklimi karasal iklim özellikleri göstererek, kışları soğuk ve yazları sıcak geçiyor. Parkın içinde ve çevresinde, çeşitli su kaynakları ve akarsular bulunmakta, bu da bölgenin flora ve faunası için önemli bir yaşam kaynağı oluşturuyor. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetmeleri için ideal bir zemin hazırlıyor.
 
 ## Flora ve Fauna
 

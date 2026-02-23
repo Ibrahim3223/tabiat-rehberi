@@ -1,7 +1,7 @@
 ---
 title: "Belevi Anıt Mezarı"
 date: "2026-01-09T22:07:49.189Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q1911796"
 
 # Belevi Anıt Mezarı
 
-Belevi Anıt Mezarı, İzmir'in Selçuk ilçesinde yer alan ve tarihin sâu izlerini taşıyan bir tarihi mezar olarak dikkat çekiyor. Bu mezar, yaklaşık 200 futbol sahası büyüklüğünde bir alana yayılmış, 140 hektarlık bir alanın içinde yer alıyor. Belevi Anıt Mezarı, ziyaretçilerini Ege Bölgesi'nin zengin tarihi ve kültürel mirasına davet ediyor. Mezarın bulunduğu bölgede, tarihi geçmişi yansıtan çeşitli kalıntılar ve eserler bulunmakta. Bu bölge, aynı zamanda doğal güzellikleriyle de ziyaretçilerini cezbediyor.
+Belevi Anıt Mezarı, İzmir'in Selçuk ilçesinde yer alan ve tarihin derin izlerini taşıyan bir tarihi mezar olarak dikkat çekiyor. Belevi Anıt Mezarı, ziyaretçilerini Ege Bölgesi'nin zengin tarihi ve kültürel mirasına davet ediyor. Mezarın bulunduğu bölgede, tarihi geçmişi yansıtan çeşitli kalıntılar ve eserler bulunmakta. Bu bölge, aynı zamanda doğal güzellikleriyle de ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

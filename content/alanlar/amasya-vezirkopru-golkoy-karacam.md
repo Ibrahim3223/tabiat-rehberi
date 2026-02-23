@@ -22,7 +22,7 @@ wikidata_id: "Q108227474"
 
 # Amasya-Vezirkopru-Golkoy Karacam
 
-Amasya-Vezirkopru-Golkoy Karacam milli parkı, Karadeniz Bölgesi'nin güzelliklerini bir araya getiren bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok bitki türünü barındıran bir ekosistemdir. Bu milli park, şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktasıdır. Burada, doğanın seslerini dinleyebilir, temiz havayı soluyabilir ve güzel manzaraları izleyebilirsiniz. Amasya-Vezirkopru-Golkoy Karacam milli parkı, ziyaretçilerini doğanın kucağına davet ediyor ve unutulmaz bir deneyim vaat ediyor.
+Amasya-Vezirkopru-Golkoy Karacam milli parkı, Karadeniz Bölgesi'nin güzelliklerini bir araya getiren bir doğa harikasıdır. Bu milli park, şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktasıdır. Burada, doğanın seslerini dinleyebilir, temiz havayı soluyabilir ve güzel manzaraları izleyebilirsiniz. Amasya-Vezirkopru-Golkoy Karacam milli parkı, ziyaretçilerini doğanın kucağına davet ediyor ve unutulmaz bir deneyim vaat ediyor.
 
 ## Tarihçe
 

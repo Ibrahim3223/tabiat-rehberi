@@ -32,9 +32,9 @@ Siirt'in dağlık arazisinde yer alan Beyvük Tepe, ilin doğal güzelliklerini 
 
 ## Tarihçe
 
-Siirt bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahip. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların etkilerini taşımıştır. Hitit, Asur, Pers ve Roma gibi medeniyetlerin izleri, bölgenin kültürel ve tarihi dokusunda yer almıştır. 
+Siirt bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahip. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların etkilerini taşımıştır. Hitit, Asur, Pers ve Roma gibi medeniyetlerin izleri, bölgenin kültürel ve tarihi dokusunda yer almıştır.
 
-Bu tür doğal alanlar, Türkiye'nin tarih boyunca önemli ticaret yollarının geçiş noktaları olarak görev görmüşlerdir. İpek Yolu gibi tarihi ticaret yolları, bu bölgelerden geçen kervanların konaklama noktaları olarak hizmet vermiştir. Ayrıca, yaylacılık ve hayvancılık faaliyetleri, bu doğal alanların insanlarla olan bağlantısını güçlendirmiştir. 
+Bu tür doğal alanlar, Türkiye'nin tarih boyunca önemli ticaret yollarının geçiş noktaları olarak görev görmüşlerdir. İpek Yolu gibi tarihi ticaret yolları, bu bölgelerden geçen kervanların konaklama noktaları olarak hizmet vermiştir. Ayrıca, yaylacılık ve hayvancılık faaliyetleri, bu doğal alanların insanlarla olan bağlantısını güçlendirmiştir.
 
 Beyvük Tepe, bu geniş tarihi bağlam içinde yer alan bir doğal alan olarak, bölgenin jeoloji ve ekolojik zenginliklerini barındırmaktadır. İnsanların bu alanla olan ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda kültürel ve sosyal boyutları da içermiştir. Bu doğal alanlar, insan yerleşimlerinin yanı sıra, çeşitli kültürel ve dini etkinliklere de ev sahipliği yapmıştır.
 

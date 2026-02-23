@@ -33,7 +33,7 @@ Hakkari'nin dağlık arazisinde yer alan Cilo Dağı, Türkiye'nin en uzak köş
 
 ## Tarihçe
 
-Hakkari'nin yüksek dağları arasında yer alan Cilo Dağı, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarih boyunca çeşitli uygarlıkların geçiş noktası ve yerleşim yeri olarak önemli bir rol oynamıştır. Medler, Persler, Romalılar ve daha sonra Osmanlılar, bu topraklarda izlerini bırakmışlardır. Cilo Dağı ve çevresindeki doğal güzellikler, sadece bölgenin değil, Türkiye'nin de önemli bir parçası olarak karşımıza çıkıyor.
+Hakkari'nin yüksek dağları arasında yer alan Cilo Dağı, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarih boyunca çeşitli uygarlıkların geçiş noktası ve yerleşim yeri olarak önemli bir rol oynamıştır. Medler, Persler, Romalılar ve daha sonra Osmanlılar, bu topraklarda izlerini bırakmışlardır. Cilo Dağı ve çevresindeki doğal güzellikler, sadece bölgenin değil, Türkiye'nin de önemli bir parçası olarak karşımıza çıkıyor.
 
 Bu tür doğal alanlar, Türkiye'nin tarih boyunca önemli ticaret yolları ve yaylak olarak kullanılmıştır. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların yaşam tarzını şekillendirmiştir. Cilo Dağı'nın eteklerinde ve çevresindeki köylerde yaşayan halk, asırlar boyu bu doğal güzelliklerden faydalanmış ve yaşamını sürdürmüştür. Türkiye'nin coğrafi çeşitliliği, tarihin her döneminde insanları bu topraklara çekmiştir. Cilo Dağı, bu zengin tarihsel mirasın bir parçası olarak, ziyaretçilerini büyüleyici manzaralarıyla karşılar.
 

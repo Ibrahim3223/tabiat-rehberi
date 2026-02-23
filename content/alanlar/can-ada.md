@@ -33,7 +33,7 @@ Isparta'nın doğal güzelliklerini keşfedenler, genellikle Göller Yöresinin 
 
 ## Tarihçe
 
-Isparta bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, binlerce yıl önce Lidya, Pers, Roma ve Bizans uygarlıklarının egemenliği altında bulunmuştur. Isparta, tarihi ticaret yollarının kesişme noktasında yer alan stratejik bir konumdadır. Can Ada, Isparta'nın doğal güzellikleri arasında önemli bir role sahiptir.
+Isparta bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, binlerce yıl önce Lidya, Pers, Roma ve Bizans uygarlıklarının egemenliği altında bulunmuştur. Isparta, tarihi ticaret yollarının kesişme noktasında yer alan stratejik bir konumdadır. Can Ada, Isparta'nın doğal güzellikleri arasında önemli bir role sahiptir.
 
 Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli bir yere sahiptir. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerde binlerce yıl boyunca sürdürülmüştür. Ayrıca, tarihi ticaret yolları da bu doğal güzelliklerin yakınından geçer. İnsanların bu alanlarla ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı değildir. Bu bölgeler, aynı zamanda kültürel ve sosyal yaşamın önemli bir parçasıdır.
 

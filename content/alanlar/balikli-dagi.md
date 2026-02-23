@@ -34,7 +34,7 @@ Erzincan'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir dest
 
 Erzincan bölgesi, tarih boyunca çeşitli uygarlıkların hüküm sürdüğü bir coğrafyadır. Hitit, Urartu, Pers, Roma ve Osmanlı gibi medeniyetler bu bölgeyi kontrol etmiş ve kendi kültürlerini bırakmışlardır. Bu zengin tarih, bölgenin doğal güzelliklerini de etkilemiştir. Türkiye'de doğal alanlar, binlerce yıldır insanların yaşamlarının merkezi olmuştur. Dağlar, ormanlar ve nehirler, insanların yerleşim, tarım, hayvancılık ve ticaret faaliyetlerini desteklemiş, aynı zamanda kültürel ve dini merkezler olarak görev yapmıştır.
 
-Balıklı Dağı da bu bağlamda, bölgenin históri ve kültürel dokusuna katkıda bulunan önemli bir doğal alan olarak görülebilir. Yaylacılık ve hayvancılık faaliyetleri, bu bölgede uzun süredir devam eden geleneksel uygulamalardır. Ayrıca, tarihi ticaret yolları da bu bölge üzerinden geçmiş, insanların ve malların hareketliliğini sağlamıştır. Bu tür doğal alanlar, Türkiye'nin históri ve kültürel mirasının önemli bir parçasını oluşturur ve günümüzde de aynı önemini korumaktadır.
+Balıklı Dağı da bu bağlamda, bölgenin tarihi ve kültürel dokusuna katkıda bulunan önemli bir doğal alan olarak görülebilir. Yaylacılık ve hayvancılık faaliyetleri, bu bölgede uzun süredir devam eden geleneksel uygulamalardır. Ayrıca, tarihi ticaret yolları da bu bölge üzerinden geçmiş, insanların ve malların hareketliliğini sağlamıştır. Bu tür doğal alanlar, Türkiye'nin tarihi ve kültürel mirasının önemli bir parçasını oluşturur ve günümüzde de aynı önemini korumaktadır.
 
 ## Coğrafya
 
@@ -42,13 +42,13 @@ Doğunun gizli köşelerinden biri olan Balıklı Dağı, Erzincan'ın coğrafi 
 
 Jeolojik açıdan bakıldığında, Balıklı Dağı'nın fiziksel yapısı hakkında detaylı bilgiler olmasa da, genel olarak bölgenin coğrafi özellikleri, Türkiye'nin doğu kesimlerinin karmaşık jeolojik yapısını yansıtır. Bu dağ, bölgenin diğer coğrafi oluşumları gibi, binlerce yılın resultası olarak şekillenmiş ve bugünkü halini almıştır. Boyutları ve şekli hakkında somut verilerin olmaması, bu doğal güzelliğin keşfedilmeyi bekleyen birçok sırrını saklayabileceğini düşündürür.
 
-Mevsimsel değişimler açısından, Balıklı Dağı'nın bulunduğu région, karasal iklimin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir. Dağın çevresindeki bitki örtüsü ve hayvan popülasyonu, bu mevsimsel değişimlere uyum sağlamak zorunda kalır.
+Mevsimsel değişimler açısından, Balıklı Dağı'nın bulunduğu bölge, karasal iklimin etkilerini taşır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava hakimdir. Bu iklim karakteri, bölgenin flora ve fauna çeşitliliği üzerinde önemli bir etkiye sahiptir. Dağın çevresindeki bitki örtüsü ve hayvan popülasyonu, bu mevsimsel değişimlere uyum sağlamak zorunda kalır.
 
 Bölgenin ekosistemi, su kaynakları ve komşu alanlarla olan ilişkileri de önemlidir. Balıklı Dağı, etrafındaki diğer coğrafi oluşumlarla birlikte, bir bütün olarak düşünüldüğünde, bölgenin doğal dengesini koruma altına alır. Bu dağ, çevresindeki diğer dağlar ve vadilerle birlikte, bir su toplama havzası olarak işlev görür ve bölgenin su kaynaklarının sürdürülebilirliğini sağlar. Bu nedenle, Balıklı Dağı, sadece bir doğal güzellik olarak değil, aynı zamanda bölgenin ekolojik dengesinde önemli bir rol oynar.
 
 ## Flora ve Fauna
 
-Balıklı Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Balıklı Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne baktığımızda, ilkbahar aylarında alpin çayırlar renkli çiçeklerle donanırken, sonbaharda bu manzara sarı ve kırmızı tonlara bürünür. Dağın yükseklik zonlarına göre değişen flora, bölgenin ekolojik zenginliğini gösterir.
 

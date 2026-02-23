@@ -28,7 +28,7 @@ wikidata_id: "Q31389479"
 
 # Karadinekkalesi Tepe
 
-Karadinekkalesi Tepe, Gaziantep'in güneydoğu bölümünde yer alan, 140 hektarlık alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu tepe, şehrin tarihi ve doğal güzelliklerinin birleştiği nadir yerlerden biri. Ziyaretçiler, tepeye çıktıklarında, Gaziantep'in geniş panoramasını izleme fırsatı buluyorlar. Tepe, aynı zamanda birçok bitki türüne ev sahipliği yapıyor ve ziyaretçiler, buradaki floranın zenginliğini gözlemleyebiliyorlar.
+ Bu tepe, şehrin tarihi ve doğal güzelliklerinin birleştiği nadir yerlerden biri. Ziyaretçiler, tepeye çıktıklarında, Gaziantep'in geniş panoramasını izleme fırsatı buluyorlar. Tepe, aynı zamanda birçok bitki türüne ev sahipliği yapıyor ve ziyaretçiler, buradaki floranın zenginliğini gözlemleyebiliyorlar.
 
 ## Tarihçe
 

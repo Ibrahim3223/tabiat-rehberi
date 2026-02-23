@@ -1,7 +1,7 @@
 ---
 title: "Caca Bey Türbesi"
 date: "2026-01-10T06:55:12.358Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırşehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390869"
 
 # Caca Bey Türbesi
 
-Caca Bey Türbesi, İç Anadolu Bölgesi'nin merkezinde, Kırşehir ilinde yer alan bir tarihi türbe ve plaj alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir açık alan sunar. Caca Bey Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir mekandır. Tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor.
+Caca Bey Türbesi, İç Anadolu Bölgesi'nin merkezinde, Kırşehir ilinde yer alan bir tarihi türbe ve plaj alanıdır. Caca Bey Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir mekandır. Tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

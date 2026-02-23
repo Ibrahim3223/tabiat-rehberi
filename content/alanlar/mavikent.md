@@ -23,7 +23,7 @@ wikidata_id: "Q108228140"
 
 # Mavikent
 
-Mavikent, İç Anadolu Bölgesi'nin göbeğinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu muhteşem doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Mavikent, aynı zamanda zengin fauna çeşitliliğiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor. 70-80 yıl önce kurulan bu milli park, bugüne kadar birçok ziyaretçiyi ağırladı ve onların doğayla iç içe olmasını sağladı.
+ Bu muhteşem doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Mavikent, aynı zamanda zengin fauna çeşitliliğiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor. 70-80 yıl önce kurulan bu milli park, bugüne kadar birçok ziyaretçiyi ağırladı ve onların doğayla iç içe olmasını sağladı.
 
 ## Tarihçe
 

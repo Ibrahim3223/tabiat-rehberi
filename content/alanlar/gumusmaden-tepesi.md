@@ -28,7 +28,7 @@ wikidata_id: "Q32139264"
 
 # Gümüşmaden Tepesi
 
-Gümüşmaden Tepesi, Aydın ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede çeşitli bitki türleri ile zengin fauna bulunmakta. Tepenin eteklerinde yer alan köyler ve kasabalar, bu bölgeyi ziyaret edenler için önemli birer durak noktası. Gümüşmaden Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin doğal yaşamı ile karşılamakta.
+Gümüşmaden Tepesi, Aydın ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Tepenin eteklerinde yer alan köyler ve kasabalar, bu bölgeyi ziyaret edenler için önemli birer durak noktası. Gümüşmaden Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin doğal yaşamı ile karşılamakta.
 
 ## Tarihçe
 

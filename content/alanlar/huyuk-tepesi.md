@@ -29,7 +29,7 @@ wikidata_id: "Q34875207"
 
 # Hüyük Tepesi
 
-Hüyük Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, yaklaşık 140 hektarlık alanı ile önemli bir doğal güzellik alanıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevredeki diğer tepelerle birlikte bir bütünü oluşturuyor. Hüyük Tepesi, Ankara'nın coğrafi yapısını anlamak için önemli bir nokta olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found. Bu bölgede, yaban hayatının çeşitliliği ve doğal güzellikleri bir arada görme mümkün.
+Hüyük Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, yaklaşık 140 hektarlık alanı ile önemli bir doğal güzellik alanıdır. Hüyük Tepesi, Ankara'nın coğrafi yapısını anlamak için önemli bir nokta olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found. Bu bölgede, yaban hayatının çeşitliliği ve doğal güzellikleri bir arada görme mümkün.
 
 ## Tarihçe
 

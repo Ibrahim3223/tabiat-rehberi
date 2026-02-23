@@ -28,7 +28,7 @@ wikidata_id: "Q49319915"
 
 # Çizme Mağarası
 
-Hatay'ın zengin tarihi ve kültürel mirasına ev sahipliği yapan coğrafyasında, Çizme Mağarası dikkat çekici bir doğal güzellik olarak ziyaretçilerini bekliyor. Bu jeopark, Hatay'ın çeşitli doğal ve kültürel zenginliklerini bir araya getiren bir bölge olarak öne çıkıyor. Doğal oluşumların ve tarihi kalıntıların bir arada bulunduğu bu alanda, ziyaretçiler hem jeolojik hem de kültürel açıdan zengin bir deneyim yaşayabiliyor. 
+Hatay'ın zengin tarihi ve kültürel mirasına ev sahipliği yapan coğrafyasında, Çizme Mağarası dikkat çekici bir doğal güzellik olarak ziyaretçilerini bekliyor. Bu jeopark, Hatay'ın çeşitli doğal ve kültürel zenginliklerini bir araya getiren bir bölge olarak öne çıkıyor. Doğal oluşumların ve tarihi kalıntıların bir arada bulunduğu bu alanda, ziyaretçiler hem jeolojik hem de kültürel açıdan zengin bir deneyim yaşayabiliyor.
 
 Hatay'ın turistik çekiciliği, Çizme Mağarası gibi doğal güzelliklerle birlikte daha da artıyor.
 

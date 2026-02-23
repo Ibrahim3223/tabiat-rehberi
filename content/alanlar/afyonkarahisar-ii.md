@@ -23,7 +23,7 @@ wikidata_id: "Q108228612"
 
 # AFYONKARAHİSAR II.
 
-AFYONKARAHİSAR II. milli parkı, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik sunuyor. Bu bölge, zengin flora ve fauna çeşitliliği ile doğa severlerin ilgisini çekmektedir. AFYONKARAHİSAR II. milli parkı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilerin keyifli anlar geçirmesine olanak tanır.
+AFYONKARAHİSAR II. milli parkı, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak dikkat çekiyor. Bu bölge, zengin flora ve fauna çeşitliliği ile doğa severlerin ilgisini çekmektedir. AFYONKARAHİSAR II. milli parkı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilerin keyifli anlar geçirmesine olanak tanır.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ AFYONKARAHİSAR II. milli parkının tarihi geçmişi, bölgenin jeolojik yapıs
 
 ## Coğrafya
 
-AFYONKARAHİSAR II. milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu bölge, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik sunar. Milli parkın coğrafi konumu, ziyaretçilere farklı mevsimlerde çeşitli deneyimler sunar. İlkbahar ve yaz aylarında, flora çeşitliliği ile ziyaretçileri karşılar. Sonbahar ve kış aylarında ise, fauna çeşitliliği ile dikkat çeker. AFYONKARAHİSAR II. milli parkı, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunar. Bu bölge, coğrafi konumu ve iklimi nedeniyle, ziyaretçilere zengin bir doğa deneyimi sunar.
+AFYONKARAHİSAR II. milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Milli parkın coğrafi konumu, ziyaretçilere farklı mevsimlerde çeşitli deneyimler sunar. İlkbahar ve yaz aylarında, flora çeşitliliği ile ziyaretçileri karşılar. Sonbahar ve kış aylarında ise, fauna çeşitliliği ile dikkat çeker. AFYONKARAHİSAR II. milli parkı, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunar. Bu bölge, coğrafi konumu ve iklimi nedeniyle, ziyaretçilere zengin bir doğa deneyimi sunar.
 
 ## Flora ve Fauna
 

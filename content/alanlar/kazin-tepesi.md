@@ -29,7 +29,7 @@ wikidata_id: "Q31581096"
 
 # Kazın Tepesi
 
-Kazın Tepesi, Çorum'un doğal güzelliklerini keşfetmek isteyenler için bir cennet. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en güzel manzaralarından birini sunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sağlıyor. Kazın Tepesi, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmesi gereken bir yer. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfedebilirsiniz.
+Kazın Tepesi, Çorum'un doğal güzelliklerini keşfetmek isteyenler için bir cennet. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sağlıyor. Kazın Tepesi, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmesi gereken bir yer. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfedebilirsiniz.
 
 ## Tarihçe
 

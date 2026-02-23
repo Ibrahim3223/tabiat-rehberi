@@ -29,7 +29,7 @@ wikidata_id: "Q31388285"
 
 # Diktepe
 
-Diktepe, Kars ilinin merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile şehrin önemli doğal güzelliklerinden biri. Diktepe, aynı zamanda şehrin panoramik manzarasını sunan bir nokta. Burada, Kars'ın tarihi yapılarını ve doğal güzelliklerini bir arada görebilirsiniz. Tepe, özellikle gün batımı saatlerinde ziyaretçilerini büyüleyen bir atmosfere sahip.
+Diktepe, Kars ilinin merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Diktepe, aynı zamanda şehrin panoramik manzarasını sunan bir nokta. Burada, Kars'ın tarihi yapılarını ve doğal güzelliklerini bir arada görebilirsiniz. Tepe, özellikle gün batımı saatlerinde ziyaretçilerini büyüleyen bir atmosfere sahip.
 
 ## Tarihçe
 

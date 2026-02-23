@@ -51,11 +51,11 @@ Gölün bulunduğu bölge, su kaynakları ve ekosistem bağlantıları açısın
 
 ## Flora ve Fauna
 
-Karapınar Krater Gölü'nün flora ve fauna zenginliği, ziyaretçilerini doğanın gerçek bir cennetine davet ediyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Karapınar Krater Gölü'nün flora ve fauna zenginliği, ziyaretçilerini doğanın gerçek bir cennetine davet ediyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak step bitki örtüsü ve bozkır hakim. İlkbaharla birlikte, alpin flora çiçek açmaya başlıyor. Bu dönemde, dağların yamaçlarında rengarenk bir manzara ortaya çıkıyor. 
+Bitki Örtüsü olarak step bitki örtüsü ve bozkır hakim. İlkbaharla birlikte, alpin flora çiçek açmaya başlıyor. Bu dönemde, dağların yamaçlarında rengarenk bir manzara ortaya çıkıyor.
 
-Yaban Hayatı açısından ise, dağ hayvanları gibi çeşitli türler yaşamlarını sürdürüyor. Göçmen kuşlar, sonbaharla birlikte bu bölgeyi ziyaret ediyor. Sürüngenler ve memeliler de bu dağ ekosisteminin birer parçası. 
+Yaban Hayatı açısından ise, dağ hayvanları gibi çeşitli türler yaşamlarını sürdürüyor. Göçmen kuşlar, sonbaharla birlikte bu bölgeyi ziyaret ediyor. Sürüngenler ve memeliler de bu dağ ekosisteminin birer parçası.
 
 Ekolojik Değer olarak, bu yükseklik zonları ve kuraklığa adapte türler, bu bölgenin önemini vurguluyor. Bu alanın korunması, bu türlerin yaşam alanlarını korumak açısından son derece önemli.
 

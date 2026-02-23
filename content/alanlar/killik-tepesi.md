@@ -28,7 +28,7 @@ wikidata_id: "Q31389865"
 
 # Kıllık Tepesi
 
-Kıllık Tepesi, Sinop'un önemli doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan sunuyor. Doğal güzelliği ve coğrafi konumu ile dikkat çeken bu tepe, ziyaretçilere geniş bir manzara sunuyor. Yerliler ve turistler için bir çekim noktası olan Kıllık Tepesi, Sinop'un tarihini ve kültürünü yansıtan bir nokta olarak görülüyor.
+Kıllık Tepesi, Sinop'un önemli doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alıyor. Doğal güzelliği ve coğrafi konumu ile dikkat çeken bu tepe, ziyaretçilere geniş bir manzara sunuyor. Yerliler ve turistler için bir çekim noktası olan Kıllık Tepesi, Sinop'un tarihini ve kültürünü yansıtan bir nokta olarak görülüyor.
 
 ## Tarihçe
 

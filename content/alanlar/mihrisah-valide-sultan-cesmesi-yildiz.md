@@ -1,7 +1,7 @@
 ---
 title: "Mihrişah Valide Sultan Çeşmesi, Yıldız"
 date: "2026-01-10T04:33:25.679Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131836386"
 
 # Mihrişah Valide Sultan Çeşmesi, Yıldız
 
-Mihrişah Valide Sultan Çeşmesi, İstanbul'un Beşiktaş ilçesinde, Yıldız'da bulunan bir tarihi çeşmedir. 140 hektarlık bir alan içinde yer alan bu çeşme, yaklaşık 200 futbol sahası büyüklüğünde bir bölgede bulunmaktadır. Çeşme, Mihrişah Valide Sultan tarafından yaptırılmıştır. İstanbul'un önemli tarihi eserlerinden biri olan bu çeşme, şehrin kültürel mirasının bir parçasıdır. Çeşme, tarihi ve mimari özellikleriyle dikkat çekmektedir. Ziyaretçiler, bu tarihi çeşmeyi görmek için Yıldız'a gelmektedir. Çeşme, İstanbul'un tarihi ve kültürel zenginliğinin bir kanıtıdır.
+Mihrişah Valide Sultan Çeşmesi, İstanbul'un Beşiktaş ilçesinde, Yıldız'da bulunan bir tarihi çeşmedir. Çeşme, Mihrişah Valide Sultan tarafından yaptırılmıştır. İstanbul'un önemli tarihi eserlerinden biri olan bu çeşme, şehrin kültürel mirasının bir parçasıdır. Çeşme, tarihi ve mimari özellikleriyle dikkat çekmektedir. Ziyaretçiler, bu tarihi çeşmeyi görmek için Yıldız'a gelmektedir. Çeşme, İstanbul'un tarihi ve kültürel zenginliğinin bir kanıtıdır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mihrişah Valide Sultan Çeşmesi, Osmanlı Devleti'nin önemli dönemlerinden b
 
 ## Coğrafya
 
-Mihrişah Valide Sultan Çeşmesi, İstanbul'un Beşiktaş ilçesinde, Yıldız'da bulunmaktadır. Çeşme, 140 hektarlık bir alan içinde yer almaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgedir. Çeşme, Yıldız Parkı'nın içinde yer almaktadır. Yıldız Parkı, İstanbul'un önemli parklarından biridir. Park, historical ve doğal güzellikleriyle dikkat çekmektedir. Çeşme, parkın içinde yer alan bir tarihi eserdir. Çeşme, İstanbul'un coğrafi özellikleriyle uyumlu bir şekilde inşa edilmiştir. Çeşme, şehrin tarihi ve kültürel mirasının bir parçasıdır. Çeşme, Yıldız'ın önemli turistik mekanlarından biridir. Çeşme, her yıl binlerce ziyaretçiyi çekmektedir. Çeşme, İstanbul'un coğrafi ve kültürel zenginliğinin bir kanıtıdır. Çeşme, Marmara Bölgesi'nin önemli tarihi eserlerinden biridir.
+Mihrişah Valide Sultan Çeşmesi, İstanbul'un Beşiktaş ilçesinde, Yıldız'da bulunmaktadır. Çeşme, 140 hektarlık bir alan içinde yer almaktadır. Çeşme, Yıldız Parkı'nın içinde yer almaktadır. Yıldız Parkı, İstanbul'un önemli parklarından biridir. Park, historical ve doğal güzellikleriyle dikkat çekmektedir. Çeşme, parkın içinde yer alan bir tarihi eserdir. Çeşme, İstanbul'un coğrafi özellikleriyle uyumlu bir şekilde inşa edilmiştir. Çeşme, şehrin tarihi ve kültürel mirasının bir parçasıdır. Çeşme, Yıldız'ın önemli turistik mekanlarından biridir. Çeşme, her yıl binlerce ziyaretçiyi çekmektedir. Çeşme, İstanbul'un coğrafi ve kültürel zenginliğinin bir kanıtıdır. Çeşme, Marmara Bölgesi'nin önemli tarihi eserlerinden biridir.
 
 ## Flora ve Fauna
 

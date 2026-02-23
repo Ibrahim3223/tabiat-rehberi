@@ -48,9 +48,9 @@ Doğal kaynaklar açısından, Seyitağzı Tepe ve çevresinin su kaynakları ve
 
 ## Flora ve Fauna
 
-Seyitağzı Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan dağlık bir alan. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekiyor. İlkbahar aylarında, alpin flora ile kaplı yamaçlarda renklendirici çiçekler açıyor. 
+Seyitağzı Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan dağlık bir alan. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekiyor. İlkbahar aylarında, alpin flora ile kaplı yamaçlarda renklendirici çiçekler açıyor.
 
-Bitki örtüsünde step ve ova ekolojisinin karakteristik türleri hakim. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu bölgeden geçiş yapıyor. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin. Dağların yüksek kesimlerinde, dağ keçileri ve diğer adaptasyon gösteren memeliler yaşamını sürdürüyor. 
+Bitki örtüsünde step ve ova ekolojisinin karakteristik türleri hakim. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu bölgeden geçiş yapıyor. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin. Dağların yüksek kesimlerinde, dağ keçileri ve diğer adaptasyon gösteren memeliler yaşamını sürdürüyor.
 
 Bu dağ ekosisteminin ekolojik değeri, bölgeye özgü türlerin barınmasına ve göç eden kuşların konaklamasına olanak sağlamasıyla önemli. Ancak, koruma durumuyla ilgili çalışmalar devam ediyor. Seyitağzı Tepe, doğal güzellikleri ve biyolojik çeşitliliğiyle dikkat çekiyor ve korumaya değer bir bölge olarak görülüyor.
 

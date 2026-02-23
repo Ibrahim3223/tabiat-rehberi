@@ -28,7 +28,7 @@ wikidata_id: "Q31387713"
 
 # Sağısol Tepesi
 
-Sağısol Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Artvin'de yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve büyüklüğü itibariyle yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Sağısol Tepesi, ziyaretçilerini muhteşem manzarasıyla bekliyor. Doğa severler için bir cennet olan bu tepe, yaban hayatı ve flora zenginliği ile dikkat çekiyor. Sağısol Tepesi, hem doğa severler hem de macera tutkunları için ideal bir destinasyon.
+Sağısol Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Artvin'de yer alır. Sağısol Tepesi, ziyaretçilerini muhteşem manzarasıyla bekliyor. Doğa severler için bir cennet olan bu tepe, yaban hayatı ve flora zenginliği ile dikkat çekiyor. Sağısol Tepesi, hem doğa severler hem de macera tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -33,9 +33,9 @@ Bitlis'in dağlık arazisinde gizli bir hazine gibi duran Panor Dağı, doğa se
 
 ## Tarihçe
 
-Bitlis'in dağlık bölgesinde yer alan Panor Dağı, tarihin sâu izlerini taşıyan bir doğal alan. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Urartular, Romalılar ve Osmanlılar gibi medeniyetler, burada izler bırakmışlardır. 
+Bitlis'in dağlık bölgesinde yer alan Panor Dağı, tarihin derin izlerini taşıyan bir doğal alan. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Urartular, Romalılar ve Osmanlılar gibi medeniyetler, burada izler bırakmışlardır.
 
-Bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında bulunması, Panor Dağı'nı önemli bir geçiş noktası haline getirmiştir. Yaylacılık ve hayvancılık, bölgenin ekonomik yaşamının temelini oluşturmuş, insanların bu doğal alanla olan bağlantısını güçlendirmiştir. 
+Bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında bulunması, Panor Dağı'nı önemli bir geçiş noktası haline getirmiştir. Yaylacılık ve hayvancılık, bölgenin ekonomik yaşamının temelini oluşturmuş, insanların bu doğal alanla olan bağlantısını güçlendirmiştir.
 
 Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde bulunan doğal alanlar, ülkenin kültürel ve ekonomik yaşamında önemli bir rol oynamışlardır. Bu tür alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda tarihi ve kültürel değerleriyle de dikkat çekmektedir. Panor Dağı da, bu bağlamda, bölgeye özgü flora ve fauna çeşitliliği ile birlikte, tarihsel öneme sahip bir doğal alan olarak karşımıza çıkmaktadır.
 
@@ -51,7 +51,7 @@ Bölgenin hidrolojisi açısından önemli bir role sahip olan Panor Dağı, etr
 
 ## Flora ve Fauna
 
-Panor Dağı, Bitlis'in yüksek dağ ekolojisine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Panor Dağı, Bitlis'in yüksek dağ ekolojisine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne baktığımızda, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, endemik türlerle bezenir ve dağ ekosisteminin zenginliğini gözler önüne serer. Sonbaharda, çiçekler solmaya başlar ve dağlar sarı, kahverengi ve kırmızının tonlarına bürünür.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388899"
 
 # Kayacık Tepesi
 
-Kayacık Tepesi, Marmara Bölgesi'nin önemli noktalarından biri olarak karşımıza çıkıyor. Kırklareli ilinin sınırları içerisinde yer alan bu tepe, bölgenin coğrafi yapısını anlamak için önemli bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş alan, çeşitli bitki türleri ve zengin fauna için uygun bir ortam sunuyor. Kayacık Tepesi, hem doğa severler hem de coğrafya meraklıları için bir çekim merkezi olarak dikkat çekiyor.
+Kayacık Tepesi, Marmara Bölgesi'nin önemli noktalarından biri olarak karşımıza çıkıyor. Kırklareli ilinin sınırları içerisinde yer alan bu tepe, bölgenin coğrafi yapısını anlamak için önemli bir nokta. Bu geniş alan, çeşitli bitki türleri ve zengin fauna için uygun bir ortam sunuyor. Kayacık Tepesi, hem doğa severler hem de coğrafya meraklıları için bir çekim merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31572200"
 
 # Acısu Tepesi
 
-Acısu Tepesi, Karadeniz Bölgesi'nin Zonguldak ilinde bulunan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Acısu Tepesi, aynı zamanda bölgenin önemli bir doğal güzelliği olarak kabul ediliyor ve ziyaretçilerini dört mevsim boyunca ağırlıyor. Burada, hem doğa severler hem de tarih meraklıları için birbirinden farklı aktivite ve keşif fırsatları bulunmakta.
+Acısu Tepesi, Karadeniz Bölgesi'nin Zonguldak ilinde bulunan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Acısu Tepesi, aynı zamanda bölgenin önemli bir doğal güzelliği olarak kabul ediliyor ve ziyaretçilerini dört mevsim boyunca ağırlıyor. Burada, hem doğa severler hem de tarih meraklıları için birbirinden farklı aktivite ve keşif fırsatları bulunmakta.
 
 ## Tarihçe
 

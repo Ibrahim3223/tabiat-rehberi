@@ -28,7 +28,7 @@ wikidata_id: "Q49324963"
 
 # Taşlık Plajı
 
-Taşlık Plajı, Muğla'nın en güzel plajlarından biri olarak bilinen bir yer. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Plajın etrafı, yüksek dağlarla çevrili ve bu da plaja özel bir güzellik katıyor. Taşlık Plajı, sakin ve huzurlu bir atmosfere sahip, ziyaretçiler buraya gelerek deniz, kum ve güneşin tadını çıkarabiliyorlar.
+Taşlık Plajı, Muğla'nın en güzel plajlarından biri olarak bilinen bir yer. Plajın etrafı, yüksek dağlarla çevrili ve bu da plaja özel bir güzellik katıyor. Taşlık Plajı, sakin ve huzurlu bir atmosfere sahip, ziyaretçiler buraya gelerek deniz, kum ve güneşin tadını çıkarabiliyorlar.
 
 ## Tarihçe
 

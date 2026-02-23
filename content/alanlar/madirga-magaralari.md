@@ -48,7 +48,7 @@ Jeolojik açıdan incelendiğinde, Madırga Mağaraları'nın oluşumu kireç ta
 
 ## Flora ve Fauna
 
-Madırga Mağaraları'nın flora ve fauna zenginliği, yarı kurak iklimin hüküm sürdüğü bu bölgede dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, step ve ova ekolojisinin hakim olduğu bu topraklarda, çeşitli çiçek türleri renkli bir şölen sunuyor. 
+Madırga Mağaraları'nın flora ve fauna zenginliği, yarı kurak iklimin hüküm sürdüğü bu bölgede dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, step ve ova ekolojisinin hakim olduğu bu topraklarda, çeşitli çiçek türleri renkli bir şölen sunuyor.
 
 Orman ekosisteminin çeşitliliği, bölgeye özgü ağaç türleriyle birlikte, birçok orman memelisinin yaşam alanı oluyor. Mevsimsel değişimlerle birlikte, göçmen kuşlar bu bölgeyi ziyaret ediyor ve ekolojik dengenin bir parçası haline geliyor. Sürüngenler ve diğer yaban hayvanları da bu ekosistemin önemli bileşenleri olarak yer alıyor.
 

@@ -53,7 +53,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Page Tepe'nin doğal güz
 
 Diyarbakır'daki Page Tepe, yarı kurak iklimin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda göç eden kuş sürüleri bu bölgenin gökyüzünü süsüyor.
 
-Bitki örtüsünü oluşturan step ve ova ekolojisi, çoğunlukla kuru otlaklar ve bodur ağaçlardan oluşuyor. Yükseklik zonlarına bağlı olarak değişen flora, alpin çiçeklerin büyümesine elverişli bir ortam sunuyor. Bu dağ ekosisteminde yer alan memeliler, kuşlar ve sürüngenler, birbirleriyle ve yaşam alanlarıyla sıkı bir ilişki içinde yaşıyor. 
+Bitki örtüsünü oluşturan step ve ova ekolojisi, çoğunlukla kuru otlaklar ve bodur ağaçlardan oluşuyor. Yükseklik zonlarına bağlı olarak değişen flora, alpin çiçeklerin büyümesine elverişli bir ortam sunuyor. Bu dağ ekosisteminde yer alan memeliler, kuşlar ve sürüngenler, birbirleriyle ve yaşam alanlarıyla sıkı bir ilişki içinde yaşıyor.
 Page Tepe, bölgenin ekolojik dengesini koruma konusunda önemli bir rol oynuyor. Bu nedenle, koruma altına alınması ve sürdürülebilir kullanımına özen gösterilmesi gerekiyor.
 
 ## Ziyaret Bilgileri

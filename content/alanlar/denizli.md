@@ -23,7 +23,7 @@ wikidata_id: "Q108228894"
 
 # DENİZLİ
 
-DENİZLİ milli parkı, İç Anadolu Bölgesi'nin gizli bir hazinesi olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. DENİZLİ milli parkı, doğa severler için bir cennet olarak kabul ediliyor. Burada, doğanın güzelliğini ve canlıların çeşitliliğini yakından keşfetme mümkün. DENİZLİ milli parkı, aynı zamanda bir eğitim merkezi olarak da hizmet veriyor. Burada, doğa ve çevre hakkında bilgi sahibi olmak isteyenler için çeşitli etkinlikler düzenleniyor.
+DENİZLİ milli parkı, İç Anadolu Bölgesi'nin gizli bir hazinesi olarak karşımıza çıkıyor. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. DENİZLİ milli parkı, doğa severler için bir cennet olarak kabul ediliyor. Burada, doğanın güzelliğini ve canlıların çeşitliliğini yakından keşfetme mümkün. DENİZLİ milli parkı, aynı zamanda bir eğitim merkezi olarak da hizmet veriyor. Burada, doğa ve çevre hakkında bilgi sahibi olmak isteyenler için çeşitli etkinlikler düzenleniyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ DENİZLİ milli parkı, doğa severler için bir cennet olarak kabul ediliyor. B
 ## İlginç Bilgiler
 
 - DENİZLİ milli parkı, 140 hektarlık bir alanı kapsıyor.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - DENİZLİ milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu bölge, bir eğitim merkezi olarak da hizmet veriyor.
 - DENİZLİ milli parkı, aynı zamanda bir konaklama merkezi olarak da kabul ediliyor.

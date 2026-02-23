@@ -28,7 +28,7 @@ wikidata_id: "Q32223281"
 
 # Göbekçal Tepe
 
-Göbekçal Tepe, Antalya'nın tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Göbekçal Tepe, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle cezbeder. Bu tepe, Antalya'nın merkezine yakın bir konumda yer alır ve ulaşım açısından oldukça elverişlidir. Göbekçal Tepe, ziyaretçilerine hem gezi hem de keşif imkanı sunar.
+Göbekçal Tepe, Antalya'nın tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Göbekçal Tepe, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle cezbeder. Bu tepe, Antalya'nın merkezine yakın bir konumda yer alır ve ulaşım açısından oldukça elverişlidir. Göbekçal Tepe, ziyaretçilerine hem gezi hem de keşif imkanı sunar.
 
 ## Tarihçe
 

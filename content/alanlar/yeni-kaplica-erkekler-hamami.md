@@ -1,7 +1,7 @@
 ---
 title: "Yeni Kaplıca Erkekler Hamamı"
 date: "2026-01-09T22:29:19.368Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738460"
 
 # Yeni Kaplıca Erkekler Hamamı
 
-Yeni Kaplıca Erkekler Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan bir kaplıca ve hamam kompleksi. Bu kompleks, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Yeni Kaplıca Erkekler Hamamı, zengin tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerine keyifli ve sağlık dolu bir deneyim sunuyor. Bu bölge, yüzyıllar boyunca insanların sağlık ve rahatlık arayışının bir merkezi olarak görev yaptı.
+Yeni Kaplıca Erkekler Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan bir kaplıca ve hamam kompleksi. Yeni Kaplıca Erkekler Hamamı, zengin tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerine keyifli ve sağlık dolu bir deneyim sunuyor. Bu bölge, yüzyıllar boyunca insanların sağlık ve rahatlık arayışının bir merkezi olarak görev yaptı.
 
 ## Tarihçe
 

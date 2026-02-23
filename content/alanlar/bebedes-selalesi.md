@@ -28,11 +28,11 @@ wikidata_id: "Q97320209"
 
 # Bebedes Şelalesi
 
-Bebedes Şelalesi, İç Anadolu Bölgesi'nin sakin ve gizli bir köşesinde bulunan, yaklaşık 140 hektarlık bir alanı kaplayan bir doğa harikasıdır. Bu şelale, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerini büyüleyici güzelliği ile kendine çekiyor. Şelalenin çevresi, çeşitli bitki türleriyle dolu ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Bebedes Şelalesi, İç Anadolu Bölgesi'nin sakin ve gizli bir köşesinde bulunan, yaklaşık 140 hektarlık bir alanı kaplayan bir doğa harikasıdır. Şelalenin çevresi, çeşitli bitki türleriyle dolu ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
-Bebedes Şelalesi, yüzyıllar boyunca bölgenin gizli bir köşesi olarak kaldı. Tarihi geçmişi hakkında detaylı bilgi bulunmasa da, bu şelalenin doğal güzelliğinin régionun önemli bir parçası olduğu biliniyor. Şelalenin oluşumu, bölgenin jeolojik yapısı ve iklim koşullarıyla ilgili. Bu doğal oluşum, yüzyıllar boyunca şekillenerek günümüze ulaştı. Bebedes Şelalesi, bölgenin önemli bir turizm merkezi haline gelerek, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Bebedes Şelalesi, yüzyıllar boyunca bölgenin gizli bir köşesi olarak kaldı. Tarihi geçmişi hakkında detaylı bilgi bulunmasa da, bu şelalenin doğal güzelliğinin bölgenin önemli bir parçası olduğu biliniyor. Şelalenin oluşumu, bölgenin jeolojik yapısı ve iklim koşullarıyla ilgili. Bu doğal oluşum, yüzyıllar boyunca şekillenerek günümüze ulaştı. Bebedes Şelalesi, bölgenin önemli bir turizm merkezi haline gelerek, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Coğrafya
 

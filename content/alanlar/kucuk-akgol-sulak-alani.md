@@ -22,7 +22,7 @@ wikidata_id: "Q108229024"
 
 # Küçük Akgöl Sulak Alanı
 
-Küçük Akgöl Sulak Alanı, İç Anadolu Bölgesi'nin önemli sulak alanlarından biridir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu sulak alan, bölgeye özgü çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bu alan, hem doğa severler hem de bilim insanları için önemli bir merkez haline gelmiştir. Sulak alanın güzel manzarası ve zengin doğası, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
+Küçük Akgöl Sulak Alanı, İç Anadolu Bölgesi'nin önemli sulak alanlarından biridir. Bu alan, hem doğa severler hem de bilim insanları için önemli bir merkez haline gelmiştir. Sulak alanın güzel manzarası ve zengin doğası, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
 
 ## Tarihçe
 

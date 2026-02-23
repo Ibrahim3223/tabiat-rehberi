@@ -29,7 +29,7 @@ wikidata_id: "Q134728282"
 
 # Ankara Frig Tümülüsü 3, Yücetepe
 
-Ankara Frig Tümülüsü 3, Yücetepe, İç Anadolu Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Yücetepe'nin eteklerinde yer alan Frig Tümülüsü, tarihin derinliklerinden gelen bir hikayeyi anlatır. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu bölge, ziyaretçilerini tarihin ve doğanın kucaklaşmasına davet eder.
+Ankara Frig Tümülüsü 3, Yücetepe, İç Anadolu Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik alanıdır. Yücetepe'nin eteklerinde yer alan Frig Tümülüsü, tarihin derinliklerinden gelen bir hikayeyi anlatır. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu bölge, ziyaretçilerini tarihin ve doğanın kucaklaşmasına davet eder.
 
 ## Tarihçe
 

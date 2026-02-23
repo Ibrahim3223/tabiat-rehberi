@@ -1,7 +1,7 @@
 ---
 title: "Sultan III. Murat Türbesi"
 date: "2026-01-10T07:28:17.363Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391091"
 
 # Sultan III. Murat Türbesi
 
-Sultan III. Murat Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini bir araya getiren önemli bir gezi noktasıdır. Bu türbe, Fatih ilçesinde yer alır ve Marmara Bölgesi'nin merkezi bir konumundadır. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilere geniş ve ferah bir ortam sunar. Sultan III. Murat Türbesi, mimarisi ve tarihi değeri ile dikkat çekici bir yapıdır. Ziyaretçiler, bu türbenin güzelliğini ve tarihi atmosferini deneyimlemek için gelirler.
+Sultan III. Murat Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini bir araya getiren önemli bir gezi noktasıdır. Bu türbe, Fatih ilçesinde yer alır ve Marmara Bölgesi'nin merkezi bir konumundadır. Sultan III. Murat Türbesi, mimarisi ve tarihi değeri ile dikkat çekici bir yapıdır. Ziyaretçiler, bu türbenin güzelliğini ve tarihi atmosferini deneyimlemek için gelirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sultan III. Murat Türbesi, Osmanlı İmparatorluğu'nun önemli hükümdarları
 
 ## Coğrafya
 
-Sultan III. Murat Türbesi, İstanbul'un Fatih ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin merkezi bir konumundadır. Türbe, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilere geniş ve ferah bir ortam sunar. İstanbul'un coğrafi konumu, türbenin güzelliğini ve tarihi atmosferini etkileyen önemli bir faktördür. İstanbul, Boğaziçi'nin kıyısında yer alır ve bu bölgenin coğrafi özellikleri, türbenin mimari yapısını etkilemiştir. Türbenin çevresinde, çeşitli tarihi ve kültürel yapılar yer alır. Ziyaretçiler, bu türbenin güzelliğini ve tarihi atmosferini deneyimlemek için gelirler. Sultan III. Murat Türbesi, İstanbul'un coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir gezi noktasıdır.
+Sultan III. Murat Türbesi, İstanbul'un Fatih ilçesinde yer alır. Bu bölge, Marmara Bölgesi'nin merkezi bir konumundadır. İstanbul'un coğrafi konumu, türbenin güzelliğini ve tarihi atmosferini etkileyen önemli bir faktördür. İstanbul, Boğaziçi'nin kıyısında yer alır ve bu bölgenin coğrafi özellikleri, türbenin mimari yapısını etkilemiştir. Türbenin çevresinde, çeşitli tarihi ve kültürel yapılar yer alır. Ziyaretçiler, bu türbenin güzelliğini ve tarihi atmosferini deneyimlemek için gelirler. Sultan III. Murat Türbesi, İstanbul'un coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir gezi noktasıdır.
 
 ## Flora ve Fauna
 

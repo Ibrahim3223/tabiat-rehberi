@@ -28,7 +28,7 @@ wikidata_id: "Q31391161"
 
 # Nacaklı Tepe
 
-Nacaklı Tepe, Sivas'ın İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir alan olarak dikkat çekiyor. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Bu bölge, ziyaretçilerini hem doğanın güzelliklerine hem de tarihin-depth bilgilerine davet ediyor. Nacaklı Tepe, Sivas'ın coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir destinasyon olarak görülebilir.
+Nacaklı Tepe, Sivas'ın İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir alan olarak dikkat çekiyor. Bu bölge, ziyaretçilerini hem doğanın güzelliklerine hem de tarihin-depth bilgilerine davet ediyor. Nacaklı Tepe, Sivas'ın coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir destinasyon olarak görülebilir.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Ağrı'nın doğusunda yükselen Gülizar Tepe, Türkiye'nin en doğu ucunda yer
 
 ## Tarihçe
 
-Gülizar Tepe, Ağrı'nın dağlık bölgesinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Ağrı, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş, Urartular, Romalılar ve Osmanlılar gibi medeniyetlerin izlerini taşımaktadır. Doğal güzellikleri ve stratejik konumuyla, Gülizar Tepe de bu tarihsel sürecin bir parçası olmuştur.
+Gülizar Tepe, Ağrı'nın dağlık bölgesinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Ağrı, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş, Urartular, Romalılar ve Osmanlılar gibi medeniyetlerin izlerini taşımaktadır. Doğal güzellikleri ve stratejik konumuyla, Gülizar Tepe de bu tarihsel sürecin bir parçası olmuştur.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için önemli bir kaynak olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla olan ilişkisini belirlemiştir. Ağrı bölgesinde de benzer bir durum söz konusudur. Bölgenin coğrafi yapısı, insanların burada yaşamını sürdürmesi için uygun koşullar sunmaktadır. Gülizar Tepe, bu bağlamda, insanların doğayla iç içe yaşadığı bir alan olarak dikkat çekmektedir. Tarihsel süreçte, bu tür doğal alanlar, insanların yaşamını sürdürmesi için gerekli kaynakları sağlarken, aynı zamanda kültürel ve ekonomik faaliyetlerin de merkezi olmuştur.
 
@@ -63,6 +63,6 @@ Ağrı'nın güzel dağlarından biri olan Gülizar Tepe'yi ziyaret etmek isteye
 - Gülizar Tepe, Ağrı Dağı'nın eteklerinde yer alır ve dağcılık için önemli bir noktadır.
 - Ağrı Dağı, Türkiye'nin en yüksek dağıdır ve 5.137 metre yüksekliğe sahiptir.
 - Gülizar Tepe, Ağrı ilinin sınırları içerisinde yer alır ve bölgenin coğrafi yapısını etkiler.
-- Ağrı Dağı ve çevresinde, históri ve kültürel açıdan önemli birçok sitio bulunmaktadır.
+- Ağrı Dağı ve çevresinde, tarihi ve kültürel açıdan önemli birçok sitio bulunmaktadır.
 - Gülizar Tepe'nin tam yüksekliği ve özellikleri hakkında spesifi veri bulunmamaktadır, ancak Ağrı Dağı'nın genel özellikleri bilinmektedir.
 - Ağrı Dağı, volkanik kökenli bir dağdır ve jeolojik açıdan önemli bir oluşumdur.

@@ -28,7 +28,7 @@ wikidata_id: "Q31557174"
 
 # Karşıkaya Tepesi
 
-Karşıkaya Tepesi, Ankara'nın kalbinde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bu alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir kaçış noktası. Tepenin eteklerinde yer alan köyler, geleneksel mimari örneklerini sunarken, tepe itself, manzarasının güzelliği ile ziyaretçilerini büyülüyor.
+Karşıkaya Tepesi, Ankara'nın kalbinde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde yer alan köyler, geleneksel mimari örneklerini sunarken, tepe itself, manzarasının güzelliği ile ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Safiye Sultan Türbesi"
 date: "2026-01-10T06:10:57.597Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390547"
 
 # Safiye Sultan Türbesi
 
-Safiye Sultan Türbesi, Ege Bölgesi'nin Efeler ilçesinde bulunan tarihi ve doğal güzellikteki bir alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu bölge, tarihi geçmişinin yanı sıra, zengin flora ve fauna çeşitliliği ile de dikkat çekmektedir. Safiye Sultan Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri deneyimleme fırsatı sunar.
+Safiye Sultan Türbesi, Ege Bölgesi'nin Efeler ilçesinde bulunan tarihi ve doğal güzellikteki bir alandır. Bu bölge, tarihi geçmişinin yanı sıra, zengin flora ve fauna çeşitliliği ile de dikkat çekmektedir. Safiye Sultan Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri deneyimleme fırsatı sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Safiye Sultan Türbesi'nin tarihi geçmişi, Osmanlı İmparatorluğu'nun öneml
 
 ## Coğrafya
 
-Safiye Sultan Türbesi, Ege Bölgesi'nin Efeler ilçesinde yer alır. Bu bölge, Ege Denizi'ne yakınlığı ile dikkat çekmekte olup, ziyaretçilerine deniz ve çevre güzellikleri sunar. Türbe, 140 hektarlık bir alanda kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğündedir. Safiye Sultan Türbesi'nin coğrafi konumu, ziyaretçilerine çevresindeki tarihi ve doğal güzellikleri keşfetme fırsatı sunar. Ayrıca, türbenin bulunduğu alan, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Ziyaretçiler, türbenin çevresinde çeşitli bitki türleri ve hayvanları gözlemleyebilirler. Safiye Sultan Türbesi, doğal güzellikleri ve tarihi ile önemli bir turizm merkezidir.
+Safiye Sultan Türbesi, Ege Bölgesi'nin Efeler ilçesinde yer alır. Bu bölge, Ege Denizi'ne yakınlığı ile dikkat çekmekte olup, ziyaretçilerine deniz ve çevre güzellikleri sunar. Safiye Sultan Türbesi'nin coğrafi konumu, ziyaretçilerine çevresindeki tarihi ve doğal güzellikleri keşfetme fırsatı sunar. Ayrıca, türbenin bulunduğu alan, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Ziyaretçiler, türbenin çevresinde çeşitli bitki türleri ve hayvanları gözlemleyebilirler. Safiye Sultan Türbesi, doğal güzellikleri ve tarihi ile önemli bir turizm merkezidir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Safiye Sultan Türbesi'ni ziyaret etmek, tarihi ve doğal güzellikleri deneyiml
 ## İlginç Bilgiler
 
 - Safiye Sultan Türbesi, Osmanlı İmparatorluğu'nun önemli tarihi figürlerinden biri olan Safiye Sultan'ın anısına inşa edilmiştir.
-- Türbe, 140 hektarlık bir alanda kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Safiye Sultan Türbesi, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir.
 - Türbenin bulunduğu Efeler ilçesi, Ege Denizi'ne yakınlığı ile dikkat çekmekte olup, ziyaretçilerine deniz ve çevre güzellikleri sunar.
 - Safiye Sultan Türbesi, yıl boyunca ziyaret edilebilir olup, ziyaretçilerine çeşitli etkinlikler ve faaliyetler sunar.

@@ -28,11 +28,11 @@ wikidata_id: "Q31389355"
 
 # Dedekavak Tepesi
 
-Dedekavak Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve tarihi ile doğal güzellikleri bir arada sunan bir destinasyon. Bu bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Tepenin eteklerinde ve çevresinde yer alan köyler, ziyaretçilere yerelı ve kültürü deneyimleme fırsatı sunuyor. Dedekavak Tepesi, hem tarih meraklıları hem de doğa severler için önemli bir gezi noktası olarak dikkat çekiyor.
+Dedekavak Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve tarihi ile doğal güzellikleri bir arada sunan bir destinasyon. Tepenin eteklerinde ve çevresinde yer alan köyler, ziyaretçilere yerelı ve kültürü deneyimleme fırsatı sunuyor. Dedekavak Tepesi, hem tarih meraklıları hem de doğa severler için önemli bir gezi noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 
-Dedekavak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılması ile şekillenmiştir. Tepenin etrafında ve eteklerinde yer alan tarihi kalıntılar, bu bölgenin histórik önemini vurguluyor. Ziyaretçiler, tepenin zirvesine çıkarak geniş bir manzara izleme fırsatı bulurken, aynı zamanda tarihi yapıları ve kalıntıları da görme imkânı buluyor. Dedekavak Tepesi'nin tarihi zenginlikleri, ziyaretçilere bu bölgenin geçmişini ve kültürel mirasını keşfetme fırsatı sunuyor.
+Dedekavak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılması ile şekillenmiştir. Tepenin etrafında ve eteklerinde yer alan tarihi kalıntılar, bu bölgenin tarihi önemini vurguluyor. Ziyaretçiler, tepenin zirvesine çıkarak geniş bir manzara izleme fırsatı bulurken, aynı zamanda tarihi yapıları ve kalıntıları da görme imkânı buluyor. Dedekavak Tepesi'nin tarihi zenginlikleri, ziyaretçilere bu bölgenin geçmişini ve kültürel mirasını keşfetme fırsatı sunuyor.
 
 ## Coğrafya
 

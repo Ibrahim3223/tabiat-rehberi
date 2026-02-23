@@ -28,7 +28,7 @@ wikidata_id: "Q31552201"
 
 # Kelabaniya Tepesi
 
-Kelabaniya Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği noktalardan biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı örter. Tepenin eteklerinde, Mardin'in tarihi evleri ve camileri bulunur. Tepenin zirvesinden, Mardin'in panoramik manzarasını izleme mümkündür. Kelabaniya Tepesi, Mardin'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Kelabaniya Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği noktalardan biridir. Tepenin eteklerinde, Mardin'in tarihi evleri ve camileri bulunur. Tepenin zirvesinden, Mardin'in panoramik manzarasını izleme mümkündür. Kelabaniya Tepesi, Mardin'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

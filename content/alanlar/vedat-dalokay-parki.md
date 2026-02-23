@@ -34,7 +34,7 @@ Ankara'nın kalbinde, Yenimahalle ilçesinde yer alan Vedat Dalokay Parkı, şeh
 
 ## Tarihçe
 
-Ankara, tarihin sâu izlerini taşıyan bir şehir. Hititlerden, Roma ve Bizans uygarlıklarına, Selçuklular ve Osmanlılardan Cumhuriyetin kurulmasına kadar birçok medeniyete ev sahipliği yapmış bir bölge. Bu zengin tarih, şehrin doğal alanlarına da yansımış. Vedat Dalokay Parkı gibi botanik bahçeleri, Ankara'nın tarihini ve kültürünü yansıtan önemli noktalar.
+Ankara, tarihin derin izlerini taşıyan bir şehir. Hititlerden, Roma ve Bizans uygarlıklarına, Selçuklular ve Osmanlılardan Cumhuriyetin kurulmasına kadar birçok medeniyete ev sahipliği yapmış bir bölge. Bu zengin tarih, şehrin doğal alanlarına da yansımış. Vedat Dalokay Parkı gibi botanik bahçeleri, Ankara'nın tarihini ve kültürünü yansıtan önemli noktalar.
 
 Türkiye'de, özellikle Osmanlı döneminde, doğal alanlar ve bahçeler önemli bir yer tutmuş. İstanbul'daki Topkapı Sarayı bahçeleri gibi örnekler, bu dönemin zenginliğini gösteriyor. Ankara'da benzer bir şekilde, doğal alanlar insanların dinlenip, doğayı seyrettiği mekanlar olarak kullanılmış. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgede insanların yaşamını şekillendiren önemli faaliyetler olmuş.
 

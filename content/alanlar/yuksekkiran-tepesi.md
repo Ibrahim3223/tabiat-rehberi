@@ -28,7 +28,7 @@ wikidata_id: "Q32196143"
 
 # Yüksekkıran Tepesi
 
-Yüksekkıran Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık bir alanı kaplayan tepe, yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bitki türleri, tepenin doğal güzelliğini artırmaktadır. Tepenin yüksekliği, etrafındaki manzarayı seyretmek için ideal bir noktadır. Yüksekkıran Tepesi, doğa severlerin ve gezi meraklılarının ziyaret etmesi gereken bir yerdir.
+Yüksekkıran Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bitki türleri, tepenin doğal güzelliğini artırmaktadır. Tepenin yüksekliği, etrafındaki manzarayı seyretmek için ideal bir noktadır. Yüksekkıran Tepesi, doğa severlerin ve gezi meraklılarının ziyaret etmesi gereken bir yerdir.
 
 ## Tarihçe
 

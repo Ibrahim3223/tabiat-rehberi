@@ -28,7 +28,7 @@ wikidata_id: "Q34824008"
 
 # Çardaklı Tepesi
 
-Çardaklı Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Çorum'da yer alan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip. Çardaklı Tepesi, ziyaretçilerini muhteşem manzaralarıyla karşılıyor. Tepenin eteklerinde çeşitli bitki türleri bulunan bu bölge, aynı zamanda yaban hayvanlarına da ev sahipliği yapıyor. Çardaklı Tepesi, özellikle doğa severler için bir cennet olarak kabul ediliyor. Bölge, hem doğal güzellikleri hem de tarihi zenginlikleriyle ziyaretçilerini bekliyor.
+Çardaklı Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Çorum'da yer alan bir tepe. Çardaklı Tepesi, ziyaretçilerini muhteşem manzaralarıyla karşılıyor. Tepenin eteklerinde çeşitli bitki türleri bulunan bu bölge, aynı zamanda yaban hayvanlarına da ev sahipliği yapıyor. Çardaklı Tepesi, özellikle doğa severler için bir cennet olarak kabul ediliyor. Bölge, hem doğal güzellikleri hem de tarihi zenginlikleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34824008"
 
 ## Coğrafya
 
-Çardaklı Tepesi, Karadeniz Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu tepe, Çorum'un merkezine yaklaşık olarak 10 kilometre uzaklıkta bulunuyor. Çardaklı Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip. Bölge, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapıyor. Çardaklı Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor. Bu mevsimlerde, bölgeye gelen ziyaretçiler, muhteşem manzaralar ve güzel bir hava koşullarıyla karşılaşıyor. Çardaklı Tepesi, aynı zamanda bölgenin iklimini de etkiliyor. Tepenin eteklerinde, çeşitli akarsular ve dereler bulunmakta. Bu su kaynakları, bölgenin ekolojik dengesini koruyor.
+Çardaklı Tepesi, Karadeniz Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu tepe, Çorum'un merkezine yaklaşık olarak 10 kilometre uzaklıkta bulunuyor. Bölge, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapıyor. Çardaklı Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor. Bu mevsimlerde, bölgeye gelen ziyaretçiler, muhteşem manzaralar ve güzel bir hava koşullarıyla karşılaşıyor. Çardaklı Tepesi, aynı zamanda bölgenin iklimini de etkiliyor. Tepenin eteklerinde, çeşitli akarsular ve dereler bulunmakta. Bu su kaynakları, bölgenin ekolojik dengesini koruyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ wikidata_id: "Q34824008"
 ## İlginç Bilgiler
 
 - Çardaklı Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip.
+
 - Çardaklı Tepesi, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapıyor.
 - Bölge, especialmente ilkbahar ve sonbahar aylarında ziyaret ediliyor.
 - Çardaklı Tepesi, doğa severler için bir cennet olarak kabul ediliyor.

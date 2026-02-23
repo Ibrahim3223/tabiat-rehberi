@@ -22,7 +22,7 @@ wikidata_id: "Q5278019"
 
 # Dindymon
 
-Türkiye'nin dağlık bölgelerinden biri olan Dindymon, coğrafi konumu itibariyle dikkat çekici bir yer. Konum olarak belli bir il veya ilçede yer almasa da, Türkiye'nin genel coğrafyası içerisinde önemli bir bölümü oluşturan dağlık alanlardan biri. Türkiye'nin çeşitli dağlık bölgeleri, ziyaretçilerini doğal güzellikleri ve zengin ekosistemleri ile cezbediyor. Doğal güzellikleri ile ön plana çıkan bu dağlık alanlar, ziyaretçilerine unutulmaz deneyimler sunuyor.
+Türkiye'nin dağlık bölgelerinden biri olan Dindymon, coğrafi konumu itibariyle dikkat çekici bir yer. Konum olarak belli bir il veya ilçede yer almasa da, Türkiye'nin genel coğrafyası içerisinde önemli bir bölümü oluşturan dağlık alanlardan biri. Türkiye'nin çeşitli dağlık bölgeleri, ziyaretçilerini doğal güzellikleri ve zengin ekosistemleri ile cezbediyor.
 
 ## Tarihçe
 

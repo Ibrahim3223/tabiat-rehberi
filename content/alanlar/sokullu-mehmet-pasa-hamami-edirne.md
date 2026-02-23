@@ -1,7 +1,7 @@
 ---
 title: "Sokullu Mehmet Paşa Hamamı, Edirne"
 date: "2026-01-10T03:41:24.495Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"

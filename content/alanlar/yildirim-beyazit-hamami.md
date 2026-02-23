@@ -1,7 +1,7 @@
 ---
 title: "Yıldırım Beyazıt Hamamı"
 date: "2026-01-09T22:18:53.808Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738414"
 
 # Yıldırım Beyazıt Hamamı
 
-Yıldırım Beyazıt Hamamı, Mudurnu'nun eşsiz güzellikleri arasında yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alan kaplıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Yıldırım Beyazıt Hamamı, tarihi ve doğal güzellikleri bir arada sunmasıyla dikkat çekiyor. Ziyaretçiler, burada hem tarihi bir hamamın kalıntılarını görebiliyor hem de Karadeniz'in serin sularında serinleyebiliyor. Bu plaj, özellikle yaz aylarında hem yerli hem de yabancı turistlerin ilgi odağı oluyor. Yıldırım Beyazıt Hamamı'nın güzelliği, sadece doğal güzelliklerinden değil, aynı zamanda tarihi geçmişinden de geliyor. Bu reasons ile Yıldırım Beyazıt Hamamı, ziyaretçilerine benzersiz bir deneyim sunuyor.
+Yıldırım Beyazıt Hamamı, Mudurnu'nun eşsiz güzellikleri arasında yer alan bir plajdır. Yıldırım Beyazıt Hamamı, tarihi ve doğal güzellikleri bir arada sunmasıyla dikkat çekiyor. Ziyaretçiler, burada hem tarihi bir hamamın kalıntılarını görebiliyor hem de Karadeniz'in serin sularında serinleyebiliyor. Bu plaj, özellikle yaz aylarında hem yerli hem de yabancı turistlerin ilgi odağı oluyor. Yıldırım Beyazıt Hamamı'nın güzelliği, sadece doğal güzelliklerinden değil, aynı zamanda tarihi geçmişinden de geliyor. Bu reasons ile Yıldırım Beyazıt Hamamı, ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

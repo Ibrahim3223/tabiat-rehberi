@@ -53,7 +53,7 @@ Doğal bir anıt olarak Hasan Dağı, Antalya'nın coğrafi yapısına önemli b
 
 Hasan Dağı, Antalya'nın güneyinde yükselen bir dağ Silsilesi. Bu dağ ekosisteminde, maki bitki örtüsü hakimdir. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Kuraklığa dayanıklı türler, bu bölgenin karakteristik özelliklerindendir.
 
-Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Bu zona özgü bitkiler, sert iklim koşullarına adapte olmuşlardır. Dağın yaban hayatı da zenginlik gösterir. Memeliler, kuşlar ve sürüngenler, dağın çeşitli yaşam alanlarında bulunur. Sonbaharda, göçmen kuşlar, Hasan Dağı'nın gökyüzünü süsler. 
+Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Bu zona özgü bitkiler, sert iklim koşullarına adapte olmuşlardır. Dağın yaban hayatı da zenginlik gösterir. Memeliler, kuşlar ve sürüngenler, dağın çeşitli yaşam alanlarında bulunur. Sonbaharda, göçmen kuşlar, Hasan Dağı'nın gökyüzünü süsler.
 
 Bu dağ ekosisteminin ekolojik değeri büyüktür. Kıyı ekosistemiyle olan bağlantısı, bölgenin biyolojik çeşitliliğini destekler. Ancak, koruma durumu dikkat gerektirir. İnsan faaliyetlerinin olumsuz etkileri, bu hassas ekosistemi tehdit edebilir. Hasan Dağı, sadece yerel değil, ulusal ölçekte de önemli bir ekolojik alan olarak kabul edilir.
 

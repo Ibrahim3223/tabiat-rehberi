@@ -29,7 +29,7 @@ wikidata_id: "Q31388244"
 
 # Karanlık Tepe
 
-Karanlık Tepe, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan ve coğrafi olarak önemli bir konuma sahip olan bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Karanlık Tepe, tarihi ve coğrafi açıdan önemli bir nokta olarak bilinmektedir. Doğal güzellikleri ve tarihi yapılarıyla birlikte, ziyaretçilerin ilgisini çekmekte ve doğa severler için önemli bir destinasyon olarak kabul edilmektedir.
+Karanlık Tepe, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan ve coğrafi olarak önemli bir konuma sahip olan bir tepe olarak dikkat çekmektedir. Karanlık Tepe, tarihi ve coğrafi açıdan önemli bir nokta olarak bilinmektedir. Doğal güzellikleri ve tarihi yapılarıyla birlikte, ziyaretçilerin ilgisini çekmekte ve doğa severler için önemli bir destinasyon olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karanlık Tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu te
 
 ## Coğrafya
 
-Karanlık Tepe, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan bir tepe olarak coğrafi açıdan önemli bir konuma sahiptir. Tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Coğrafi olarak, tepe'nin etrafı dağlar ve ovalarla çevrilidir. İklimi, bölgenin genel iklimine uygun olarak karasal iklim özellikleri göstermektedir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçmektedir. Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşamasına elverişli bir ortam sunmaktadır.
+Karanlık Tepe, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan bir tepe olarak coğrafi açıdan önemli bir konuma sahiptir. Coğrafi olarak, tepe'nin etrafı dağlar ve ovalarla çevrilidir. İklimi, bölgenin genel iklimine uygun olarak karasal iklim özellikleri göstermektedir. Yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçmektedir. Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanların yaşamasına elverişli bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 

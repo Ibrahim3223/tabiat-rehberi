@@ -28,7 +28,7 @@ wikidata_id: "Q31389261"
 
 # Sığırkırantepesi
 
-Sığırkırantepesi, Malatya'nın eşsiz güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, Doğu Anadolu Bölgesi'nin coğrafi zenginliklerini gözler önüne sererken, aynı zamanda tarihi geçmişinin izlerini de taşıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunuyor. Sığırkırantepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor.
+Sığırkırantepesi, Malatya'nın eşsiz güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, Doğu Anadolu Bölgesi'nin coğrafi zenginliklerini gözler önüne sererken, aynı zamanda tarihi geçmişinin izlerini de taşıyor. Sığırkırantepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 

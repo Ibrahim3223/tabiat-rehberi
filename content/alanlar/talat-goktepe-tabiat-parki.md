@@ -29,7 +29,7 @@ wikidata_id: "Q48790814"
 
 # Talat Göktepe Tabiat Parkı
 
-Talat Göktepe Tabiat Parkı, Mersin'in Erdemli ilçesinde yer alan ve 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunan bir doğa harikasıdır. Bu park, ziyaretçilerine yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile birlikte unutulmaz bir doğa deneyimi sunuyor. Talat Göktepe Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak görülüyor. Parkın geniş alanları, ziyaretçilerin doğanın güzelliğini keşfetmeleri için ideal bir ortam sağlıyor.
+ Bu park, ziyaretçilerine yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile birlikte unutulmaz bir doğa deneyimi sunuyor. Talat Göktepe Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak görülüyor. Parkın geniş alanları, ziyaretçilerin doğanın güzelliğini keşfetmeleri için ideal bir ortam sağlıyor.
 
 ## Tarihçe
 
@@ -45,11 +45,10 @@ Talat Göktepe Tabiat Parkı, ziyaretçilerine çeşitli bitki türleri ve zengi
 
 ## Ziyaret Bilgileri
 
-Talat Göktepe Tabiat Parkı, ziyaretçilerine unutulmaz bir doğa deneyimi sunuyor. Parka, Erdemli ilçesinden kolayca ulaşılabilen bir konumda yer alıyor. Ziyaretçiler, parkın geniş alanlarını keşfedebilir ve doğanın güzelliğini deneyimleyebilir. Parka gitmek için en iyi zaman, ilkbahar ve sonbahar ayları olarak öneriliyor. Bu aylarda, parkın bitki türleri ve fauna zenginliği daha çok ziyaretçi çekiyor. Ziyaretçiler, parkta çeşitli etkinlikler yapabilir ve doğanın güzelliğini keşfedebilir.
+ Parka, Erdemli ilçesinden kolayca ulaşılabilen bir konumda yer alıyor. Ziyaretçiler, parkın geniş alanlarını keşfedebilir ve doğanın güzelliğini deneyimleyebilir. Parka gitmek için en iyi zaman, ilkbahar ve sonbahar ayları olarak öneriliyor. Bu aylarda, parkın bitki türleri ve fauna zenginliği daha çok ziyaretçi çekiyor. Ziyaretçiler, parkta çeşitli etkinlikler yapabilir ve doğanın güzelliğini keşfedebilir.
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Talat Göktepe Tabiat Parkı, Mersin'in Erdemli ilçesinde yer alıyor.
 - Parkın flora ve fauna zenginliği, ziyaretçilerin doğanın güzelliğini keşfetmeleri için ideal bir ortam sağlıyor.
 - Parka, Erdemli ilçesinden kolayca ulaşılabilen bir konumda yer alıyor.

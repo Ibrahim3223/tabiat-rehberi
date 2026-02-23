@@ -29,7 +29,7 @@ wikidata_id: "Q135582374"
 
 # Sungur Bey Kümbeti, Niğde
 
-Sungur Bey Kümbeti, Niğde'nin merkezinde yer alan tarihi bir kümbettir. 140 hektarlık bir alanda bulunan bu kümbet, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sungur Bey Kümbeti, Niğde'nin önemli tarihi eserlerinden biri olarak kabul edilir. Bu kümbet, şehrin kültürel ve tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Niğde'nin merkezi konumu, Sungur Bey Kümbeti'ni ziyaret etmek için ideal bir başlangıç noktası sağlar.
+Sungur Bey Kümbeti, Niğde'nin merkezinde yer alan tarihi bir kümbettir. Sungur Bey Kümbeti, Niğde'nin önemli tarihi eserlerinden biri olarak kabul edilir. Bu kümbet, şehrin kültürel ve tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Niğde'nin merkezi konumu, Sungur Bey Kümbeti'ni ziyaret etmek için ideal bir başlangıç noktası sağlar.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386225"
 
 # Dernek Tepesi
 
-Dernek Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan önemli bir doğal alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölge, yaban hayatının zengin çeşitliliğini sunar. Dernek Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakır ve burada geçirilen her an, unutulmaz bir deneyim olur.
+Dernek Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan önemli bir doğal alandır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölge, yaban hayatının zengin çeşitliliğini sunar. Dernek Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakır ve burada geçirilen her an, unutulmaz bir deneyim olur.
 
 ## Tarihçe
 

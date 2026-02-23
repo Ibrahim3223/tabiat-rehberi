@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Mustafa Efendi Türbesi"
 date: "2026-01-10T05:08:13.682Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391584"
 
 # Şeyh Mustafa Efendi Türbesi
 
-Şeyh Mustafa Efendi Türbesi, Turhal'da bulunan bir tarihi türbe ve plajdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve çevresindeki doğal güzelliklerle birlikte, ziyaretçilere geniş bir yeşil alan sunar. Türbenin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmektedir. Şeyh Mustafa Efendi Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Burada, Karadeniz'in serin sularında serinleyebilir ve güneşin keyfini çıkarabilirsiniz. 200 futbol sahası büyüklüğünde bir alan, ziyaretçilere geniş bir hareket alanı sağlar.
+Şeyh Mustafa Efendi Türbesi, Turhal'da bulunan bir tarihi türbe ve plajdır. Türbenin tarihi geçmişi, bölgeye gelen ziyaretçilerin ilgisini çekmektedir. Şeyh Mustafa Efendi Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Burada, Karadeniz'in serin sularında serinleyebilir ve güneşin keyfini çıkarabilirsiniz. 200 futbol sahası büyüklüğünde bir alan, ziyaretçilere geniş bir hareket alanı sağlar.
 
 ## Tarihçe
 

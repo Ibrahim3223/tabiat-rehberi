@@ -28,7 +28,7 @@ wikidata_id: "Q32196235"
 
 # Yürükçal Tepesi
 
-Yürükçal Tepesi, Samsun'un eşsiz doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alır. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Yürükçal Tepesi, ziyaretçilerini etkileyici manzarasıyla karşılar. Tepenin zirvesinden bakıldığında, Karadeniz'in maviliği ve etrafındaki yeşilliğin birleştiği görüntüye şahit olma mümkün. Bu tepe, hem doğa severler hem de fotoğraf tutkunları için bir cennet niteliğindedir.
+Yürükçal Tepesi, Samsun'un eşsiz doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alır. Yürükçal Tepesi, ziyaretçilerini etkileyici manzarasıyla karşılar. Tepenin zirvesinden bakıldığında, Karadeniz'in maviliği ve etrafındaki yeşilliğin birleştiği görüntüye şahit olma mümkün. Bu tepe, hem doğa severler hem de fotoğraf tutkunları için bir cennet niteliğindedir.
 
 ## Tarihçe
 

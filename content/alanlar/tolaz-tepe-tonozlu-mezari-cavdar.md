@@ -29,7 +29,7 @@ wikidata_id: "Q134728119"
 
 # Tolaz Tepe Tonozlu Mezarı, Çavdar
 
-Tolaz Tepe Tonozlu Mezarı, Aydın'ın Söke ilçesinde, Çavdar Plajı'na yakın bir konumda yer alan tarihi bir mezar alanıdır. Bu mezar, bölgenin zengin tarihi geçmişi hakkında önemli bilgiler sunmaktadır. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplamaktadır. Tolaz Tepe, tarihi değerleri ve doğal güzelliği ile dikkat çekmektedir. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tolaz TepeTonozlu Mezarı, tarihin izlerini taşıyan önemli bir kültürel miras olarak görülmektedir.
+Tolaz Tepe Tonozlu Mezarı, Aydın'ın Söke ilçesinde, Çavdar Plajı'na yakın bir konumda yer alan tarihi bir mezar alanıdır. Bu mezar, bölgenin zengin tarihi geçmişi hakkında önemli bilgiler sunmaktadır. Tolaz Tepe, tarihi değerleri ve doğal güzelliği ile dikkat çekmektedir. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tolaz TepeTonozlu Mezarı, tarihin izlerini taşıyan önemli bir kültürel miras olarak görülmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tolaz Tepe Tonozlu Mezarı, tarihin derinliklerinde gizlenen bir hazinedir. Bu m
 
 ## Coğrafya
 
-Tolaz Tepe Tonozlu Mezarı, Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Söke ilçesinde yer almaktadır. Bu ilçenin coğrafi konumu, mezarın doğal güzelliğini arttırmaktadır. Çavdar Plajı'na yakın bir konumda bulunan mezar, denizin maviliği ve güneşin sıcaklığı ile ziyaretçilerini karşılamaktadır. 180 hektarlık bir alanda yer alan Tolaz Tepe, yaklaşık 300 futbol sahası büyüklüğünde bir bölgeyi kaplamaktadır. Mezarın çevresi, çeşitli bitki türleri ile zengin fauna ile kaplıdır. Bu bölge, coğrafi konumu itibari ile ziyaretçilere hem tarihi bir deneyim hem de doğal güzellikler sunmaktadır. Tolaz Tepe Tonozlu Mezarı, Söke'nin coğrafi güzelliği ve tarihi değerleri ile dikkat çekmektedir. Mezarın tonozlu yapısı, bölgenin mimari özelliklerini yansıtmaktadır.
+Tolaz Tepe Tonozlu Mezarı, Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Söke ilçesinde yer almaktadır. Bu ilçenin coğrafi konumu, mezarın doğal güzelliğini arttırmaktadır. Çavdar Plajı'na yakın bir konumda bulunan mezar, denizin maviliği ve güneşin sıcaklığı ile ziyaretçilerini karşılamaktadır. Mezarın çevresi, çeşitli bitki türleri ile zengin fauna ile kaplıdır. Bu bölge, coğrafi konumu itibari ile ziyaretçilere hem tarihi bir deneyim hem de doğal güzellikler sunmaktadır. Tolaz Tepe Tonozlu Mezarı, Söke'nin coğrafi güzelliği ve tarihi değerleri ile dikkat çekmektedir. Mezarın tonozlu yapısı, bölgenin mimari özelliklerini yansıtmaktadır.
 
 ## Flora ve Fauna
 

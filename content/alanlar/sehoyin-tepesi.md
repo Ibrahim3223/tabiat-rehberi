@@ -28,7 +28,7 @@ wikidata_id: "Q31552066"
 
 # Şehoyın Tepesi
 
-Mardin'in tarihi ve doğal güzelliklerinin birleştiği nokta olan Şehoyın Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin panoramik görünümüne şahitlik eder. Tepenin eteklerinde yer alan tarihi yapılar, bölgenin zengin tarihini ve kültürel mirasını yansıtır. Şehoyın Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak dikkat çeker.
+Mardin'in tarihi ve doğal güzelliklerinin birleştiği nokta olan Şehoyın Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar. Tepenin eteklerinde yer alan tarihi yapılar, bölgenin zengin tarihini ve kültürel mirasını yansıtır. Şehoyın Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 

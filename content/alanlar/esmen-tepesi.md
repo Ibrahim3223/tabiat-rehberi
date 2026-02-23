@@ -28,7 +28,7 @@ wikidata_id: "Q31388947"
 
 # Esmen Tepesi
 
-Esmen Tepesi, Doğu Anadolu Bölgesi'nin kalbinde, Bingöl ilinin dağlarla çevrilmiş bir bölgesinde yer alıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve yaban hayatıyla ziyaretçilerini çekiyor. Burada, doğa yürüyüşleri yapabilir, temiz havayı soluyabilir ve doğal güzelliği keşfedebilirsiniz. Esmen Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Esmen Tepesi, Doğu Anadolu Bölgesi'nin kalbinde, Bingöl ilinin dağlarla çevrilmiş bir bölgesinde yer alıyor. Burada, doğa yürüyüşleri yapabilir, temiz havayı soluyabilir ve doğal güzelliği keşfedebilirsiniz. Esmen Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Esmen Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Esmen Tepesi, coğrafi olarak Doğu Anadolu Bölgesi'nin dağlık bir bölgesinde yer alıyor. Bu tepe, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde. Çevresinde, yüksek dağlar ve derin vadiler bulunuyor. İklim, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Kış aylarında kar yağışı görülürken, yaz ayları serin ve yağışlı geçiyor. Esmen Tepesi, doğal güzelliği ve coğrafi özellikleri ile ziyaretçilerini etkiliyor. Burada, dağ yürüyüşleri, doğa gözlemi ve fotoğraf çekimi gibi faaliyetler yapabilirsiniz.
+Esmen Tepesi, coğrafi olarak Doğu Anadolu Bölgesi'nin dağlık bir bölgesinde yer alıyor. Çevresinde, yüksek dağlar ve derin vadiler bulunuyor. İklim, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Kış aylarında kar yağışı görülürken, yaz ayları serin ve yağışlı geçiyor. Esmen Tepesi, doğal güzelliği ve coğrafi özellikleri ile ziyaretçilerini etkiliyor. Burada, dağ yürüyüşleri, doğa gözlemi ve fotoğraf çekimi gibi faaliyetler yapabilirsiniz.
 
 ## Flora ve Fauna
 

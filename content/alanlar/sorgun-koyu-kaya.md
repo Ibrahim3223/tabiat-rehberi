@@ -50,9 +50,9 @@ Mevsimsel değişikliklere bakıldığında, Sorgun Köyü Kaya'nın bulunduğu 
 
 ## Flora ve Fauna
 
-Sorgun Köyü Kaya, Çorum'da yer alan bir jeoparktır. Nemli iklim ve gür ormanlar, bu bölgenin yüksek biyoçeşitliliğine katkıda bulunur. 
+Sorgun Köyü Kaya, Çorum'da yer alan bir jeoparktır. Nemli iklim ve gür ormanlar, bu bölgenin yüksek biyoçeşitliliğine katkıda bulunur.
 
-Bitki örtüsü açısından, ilkbahar mevsiminde çiçeklerin açtığı ormanlar, sonbaharın gelmesiyle birlikte renk değiştirir. Gür ormanlar, çeşitli ağaç türlerine ev sahipliği yapar. 
+Bitki örtüsü açısından, ilkbahar mevsiminde çiçeklerin açtığı ormanlar, sonbaharın gelmesiyle birlikte renk değiştirir. Gür ormanlar, çeşitli ağaç türlerine ev sahipliği yapar.
 
 Yaban hayatı, memeliler ve kuşlar açısından zengindir. Orman memelileri, bu alanın doğal yaşamını oluştururken, göç mevsimlerinde çeşitli kuş türleri görülebilir. Sürüngenler de bu ekosistemin bir parçasını oluşturur.
 

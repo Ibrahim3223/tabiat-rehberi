@@ -22,7 +22,7 @@ wikidata_id: "Q108227441"
 
 # Mersin-Tarsus-Namrun Kızılçam
 
-Mersin-Tarsus-Namrun Kızılçam Milli Parkı, Mersin'in Tarsus ilçesinde yer alan ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu milli park, kızılçam ormanlarıyla kaplı olup, ziyaretçilerini doğanın güzelliğine davet ediyor. Parkın içinde çeşitli bitki türleri ve hayvanlar yaşadığı için, ekosistemi oldukça zengin. Mersin-Tarsus-Namrun Kızılçam Milli Parkı, hem doğa severlerin hem de fotoğraf tutkunlarının keyifle ziyaret edebileceği bir yer.
+ Bu milli park, kızılçam ormanlarıyla kaplı olup, ziyaretçilerini doğanın güzelliğine davet ediyor. Parkın içinde çeşitli bitki türleri ve hayvanlar yaşadığı için, ekosistemi oldukça zengin. Mersin-Tarsus-Namrun Kızılçam Milli Parkı, hem doğa severlerin hem de fotoğraf tutkunlarının keyifle ziyaret edebileceği bir yer.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Mersin-Tarsus-Namrun Kızılçam Milli Parkı, ziyaretçilerin keyifle gezebilec
 
 ## İlginç Bilgiler
 
-- Mersin-Tarsus-Namrun Kızılçam Milli Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkın içindeki kızılçam ormanları, çeşitli bitki türleri ve hayvanlar, ekosistemin bir parçası olarak kabul ediliyor.
 - Parkın coğrafyası, kızılçam ormanları ve çeşitli bitki türleriyle kaplı.
 - Parkın içindeki su kaynakları, ziyaretçilerin serinleyip dinlenebileceği alanlar sunar.

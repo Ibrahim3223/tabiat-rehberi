@@ -30,7 +30,7 @@ wikidata_id: "Q134728427"
 
 # Dardanos Tümülüsü
 
-Dardanos Tümülüsü, Çanakkale'nin Çanakkale ilçesinde bulunan ve tarihî bir geçmişe sahip olan bir tümülüstür. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini  ve doğanın güzelliği ile karşılar. Dardanos Tümülüsü, ziyaretçilerine hem tarihi hem de doğayı keşfetme fırsatı sunar.
+Dardanos Tümülüsü, Çanakkale'nin Çanakkale ilçesinde bulunan ve tarihî bir geçmişe sahip olan bir tümülüstür. Dardanos Tümülüsü, ziyaretçilerine hem tarihi hem de doğayı keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Dardanos Tümülüsü, tarihi geçmişiyle dikkat çeker. Bu tümülüs, yüzyı
 
 ## Coğrafya
 
-Dardanos Tümülüsü, Çanakkale'nin coğrafi yapısının güzel bir örneğidir. Bu bölge, İç Anadolu Bölgesi'nin kuzeybatı kesiminde yer alır ve coğrafi olarak çeşitli özelliklere sahiptir. Tümülüs, 140 hektarlık bir yeşil alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölgenin coğrafi yapısı, ziyaretçilerine güzel manzaralar sunar. Dardanos Tümülüsü, çevreyle uyumlu bir şekilde tasarlanmış ve doğanın güzelliği ile ziyaretçilerini karşılar. Bölgenin iklimi, genellikle ılıman ve serin geçer ve ziyaretçiler, mevsimsel değişimlere göre farklı deneyimler yaşayabilir.
+Dardanos Tümülüsü, Çanakkale'nin coğrafi yapısının güzel bir örneğidir. Bu bölge, İç Anadolu Bölgesi'nin kuzeybatı kesiminde yer alır ve coğrafi olarak çeşitli özelliklere sahiptir. Bölgenin coğrafi yapısı, ziyaretçilerine güzel manzaralar sunar. Dardanos Tümülüsü, çevreyle uyumlu bir şekilde tasarlanmış ve doğanın güzelliği ile ziyaretçilerini karşılar. Bölgenin iklimi, genellikle ılıman ve serin geçer ve ziyaretçiler, mevsimsel değişimlere göre farklı deneyimler yaşayabilir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Dardanos Tümülüsü, ziyaretçilerine çeşitli deneyimler sunar. Ziyaretçile
 ## İlginç Bilgiler
 
 - Dardanos Tümülüsü, 140 hektarlık bir yeşil alana kurulmuştur.
-- Tümülüs, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Dardanos Tümülüsü, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeriydi.
 - Tümülüs, tarihi belgelerde söz edilmektedir.
 - Dardanos Tümülüsü, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini gösterir.

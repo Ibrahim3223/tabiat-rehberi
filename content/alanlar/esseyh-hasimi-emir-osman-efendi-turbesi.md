@@ -1,7 +1,7 @@
 ---
 title: "Eşşeyh Haşimi Emir Osman Efendi Türbesi"
 date: "2026-01-10T05:12:56.257Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

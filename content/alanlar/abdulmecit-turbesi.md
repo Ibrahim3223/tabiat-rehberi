@@ -1,7 +1,7 @@
 ---
 title: "Abdülmecit Türbesi"
 date: "2026-01-10T07:25:40.278Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391032"
 
 # Abdülmecit Türbesi
 
-Abdülmecit Türbesi, İstanbul'un tarihi ve kültürel zenginliğini yansıtan önemli bir nokta. Fatih ilçesinde bulunan bu özel mekan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. 140 hektarlık bir alanı kaplayan Abdülmecit Türbesi, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Bu büyük alan, ziyaretçilerin doğayla iç içe olmasını sağlıyor ve şehrin gürültüsünden uzaklaşabilme imkanı tanıyor. Abdülmecit Türbesi'nin etrafı, çeşitli ağaçlar ve bitkilerle dolu, bu da ziyaretçilere doğanın güzelliğini deneyimleme fırsatı veriyor.
+Abdülmecit Türbesi, İstanbul'un tarihi ve kültürel zenginliğini yansıtan önemli bir nokta. Fatih ilçesinde bulunan bu özel mekan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Bu büyük alan, ziyaretçilerin doğayla iç içe olmasını sağlıyor ve şehrin gürültüsünden uzaklaşabilme imkanı tanıyor. Abdülmecit Türbesi'nin etrafı, çeşitli ağaçlar ve bitkilerle dolu, bu da ziyaretçilere doğanın güzelliğini deneyimleme fırsatı veriyor.
 
 ## Tarihçe
 

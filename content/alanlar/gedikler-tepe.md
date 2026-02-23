@@ -28,7 +28,7 @@ wikidata_id: "Q31390452"
 
 # Gedikler Tepe
 
-Gedikler Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Gedikler Tepe'nin etrafı, çeşitli bitki türleriyle dolu. Bu bölgede, yaban hayatının zenginliği de dikkat çekiyor. Gedikler Tepe, ziyaretçilerine hem doğayla iç içe bir deneyim sunuyor hem de tarihi geçmişiyle ilgi çekiyor. Bu tepe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.
+Gedikler Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Gedikler Tepe'nin etrafı, çeşitli bitki türleriyle dolu. Bu bölgede, yaban hayatının zenginliği de dikkat çekiyor. Gedikler Tepe, ziyaretçilerine hem doğayla iç içe bir deneyim sunuyor hem de tarihi geçmişiyle ilgi çekiyor. Bu tepe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.
 
 ## Tarihçe
 

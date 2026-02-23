@@ -32,7 +32,7 @@ Van'ın doğusunda yükselen Beyazıt Dağı, bölgenin coğrafi yapısına haki
 
 ## Tarihçe
 
-Van bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Urartular, Medler, Persler ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşıyan bu bölge, zengin bir tarihsel mirasa sahiptir. Beyazıt Dağı, bu tarihsel coğrafyanın bir parçasıdır ve doğal güzelliği ile dikkat çeker.
+Van bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Urartular, Medler, Persler ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşıyan bu bölge, zengin bir tarihsel mirasa sahiptir. Beyazıt Dağı, bu tarihsel coğrafyanın bir parçasıdır ve doğal güzelliği ile dikkat çeker.
 
 Türkiye'de doğal alanlar, tarihin çeşitli dönemlerinde önemli roller oynamıştır. İnsanlar, bu alanları yerleşim, tarım, hayvancılık ve ticaret için kullanmışlardır. Yaylacılık geleneği, özellikle Doğu Anadolu Bölgesi'nde yaygın olarak uygulanmıştır. Bu gelenek, insanların doğayla uyum içinde yaşamasını sağlamıştır.
 
@@ -50,9 +50,9 @@ Mevsimsel olarak, Doğu Anadolu Bölgesi'nin iklim karakteri, soğuk kışlar ve
 
 ## Flora ve Fauna
 
-Beyazıt Dağı'nın yükseklik zonlarında, alpin flora çeşitliliği hakimdir. İlkbaharın gelmesiyle birlikte, çayırlar renkli çiçeklerle donanır. Bu mevsimsel değişim, dağ ekosisteminin dinamik yapısını gösterir. 
-Dağın yüksek kesimlerinde, dayanıklı ve adapte olmuş bitkiler bulunur. Bu bitkiler, zorlu hava koşullarına rağmen hayatiyetlerini sürdürürler. 
-Yaban hayatı açısından da zengin olan Beyazıt Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Göç mevsiminde, dağların semalarında farklı kuş türleri görülebilir. 
+Beyazıt Dağı'nın yükseklik zonlarında, alpin flora çeşitliliği hakimdir. İlkbaharın gelmesiyle birlikte, çayırlar renkli çiçeklerle donanır. Bu mevsimsel değişim, dağ ekosisteminin dinamik yapısını gösterir.
+Dağın yüksek kesimlerinde, dayanıklı ve adapte olmuş bitkiler bulunur. Bu bitkiler, zorlu hava koşullarına rağmen hayatiyetlerini sürdürürler.
+Yaban hayatı açısından da zengin olan Beyazıt Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Göç mevsiminde, dağların semalarında farklı kuş türleri görülebilir.
 Beyazıt Dağı'nın ekolojik değeri, yüksek dağ ekolojisi ve endemik türlerin varlığından kaynaklanır. Bu alanın korunması, bölgenin biyolojik çeşitliliğinin sürdürülmesi için önemlidir.
 
 ## Ziyaret Bilgileri

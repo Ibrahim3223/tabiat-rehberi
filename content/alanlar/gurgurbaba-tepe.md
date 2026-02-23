@@ -46,9 +46,9 @@ Jeolojik açıdan bakıldığında, Gürgürbaba Tepe'nin fiziksel yapısı hakk
 
 ## Flora ve Fauna
 
-Gürgürbaba Tepe, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir dağdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarında alpin çayırlar ve endemik türler bulunur. 
+Gürgürbaba Tepe, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir dağdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarında alpin çayırlar ve endemik türler bulunur.
 
-Bitki örtüsünde hakim türler, ilkbaharda renkli çiçeklerle donanırken, sonbaharda sarı ve kırmızı tonlara bürünür. Alpin flora, dağların yüksek kesimlerinde yer alır ve mevsimsel değişimlere uyum sağlar. Dağ hayvanları, bu flora ile beslenir ve yaşam alanlarını oluşturur. 
+Bitki örtüsünde hakim türler, ilkbaharda renkli çiçeklerle donanırken, sonbaharda sarı ve kırmızı tonlara bürünür. Alpin flora, dağların yüksek kesimlerinde yer alır ve mevsimsel değişimlere uyum sağlar. Dağ hayvanları, bu flora ile beslenir ve yaşam alanlarını oluşturur.
 
 Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Göçmen kuşlar, sonbaharda dağları ziyaret ederken, memeliler ve sürüngenler yıl boyunca burada yaşar. Ekolojik değerini koruma altına almak, bu dağ ekosisteminin devamlılığını sağlar.
 

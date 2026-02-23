@@ -22,7 +22,7 @@ wikidata_id: "Q108227916"
 
 # Mugla-Ula-Kizilyaka Kızılçam 3
 
-Mugla-Ula-Kizilyaka Kızılçam 3, İç Anadolu Bölgesi'nin geniş ve zengin coğrafyası içerisinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Bu muhteşem park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Ziyaretçiler, burada doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilirler. Mugla-Ula-Kizilyaka Kızılçam 3, doğa severler için gerçek bir cennet
+Mugla-Ula-Kizilyaka Kızılçam 3, İç Anadolu Bölgesi'nin geniş ve zengin coğrafyası içerisinde yer alan bir milli parktır. Bu muhteşem park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Ziyaretçiler, burada doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilirler. Mugla-Ula-Kizilyaka Kızılçam 3, doğa severler için gerçek bir cennet
 
 ## Tarihçe
 

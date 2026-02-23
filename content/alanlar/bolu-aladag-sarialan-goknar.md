@@ -22,7 +22,7 @@ wikidata_id: "Q108228538"
 
 # Bolu-Aladag-Sarıalan-Goknar
 
-Bolu-Aladag-Sarıalan-Goknar milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin bir flora ile fauna çeşitliliğine sahiptir. Bu milli park, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve doğa severlerin keyif alacağı bir mekan olarak bilinmektedir. Bolu-Aladag-Sarıalan-Goknar milli parkının güzelliği, sadece doğal güzelliklerinden değil, aynı zamanda tarihi ve kültürel önemi nedeniyle de dikkat çekmektedir.
+Bolu-Aladag-Sarıalan-Goknar milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu milli park, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve doğa severlerin keyif alacağı bir mekan olarak bilinmektedir. Bolu-Aladag-Sarıalan-Goknar milli parkının güzelliği, sadece doğal güzelliklerinden değil, aynı zamanda tarihi ve kültürel önemi nedeniyle de dikkat çekmektedir.
 
 ## Tarihçe
 

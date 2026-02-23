@@ -28,7 +28,7 @@ wikidata_id: "Q31386107"
 
 # Karaanlı Tepe
 
-Karaanlı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir doğal alan. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli coğrafi noktalarından biri. Karaanlı Tepe, ziyaretçilerini hem doğal güzelliği hem de tarihi geçmişiyle büyülüyor. Bu tepe, Akdeniz Bölgesi'nin zengin flora ve faunasına ev sahipliği yapıyor. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğayla iç içe hem de tarihin izlerini sürebiliyorlar.
+Karaanlı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe ve önemli bir doğal alan. Karaanlı Tepe, ziyaretçilerini hem doğal güzelliği hem de tarihi geçmişiyle büyülüyor. Bu tepe, Akdeniz Bölgesi'nin zengin flora ve faunasına ev sahipliği yapıyor. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğayla iç içe hem de tarihin izlerini sürebiliyorlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karaanlı Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe,
 
 ## Coğrafya
 
-Karaanlı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepe, bölgenin coğrafi yapısını etkileyen önemli bir nokta. Karaanlı Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Tepe, Akdeniz ikliminin hüküm sürdüğü bir bölgede yer alıyor. Bu nedenle, tepeyi ziyaret edenler, sıcak ve güneşli bir iklimle karşılaşıyor. Karaanlı Tepe, ziyaretçilerine doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla birlikte bir gezi deneyimi sunuyor. Tepe, Mersin'in ve Akdeniz Bölgesi'nin önemli bir doğal ve coğrafi mirası olarak kabul ediliyor.
+Karaanlı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Tepe, bölgenin coğrafi yapısını etkileyen önemli bir nokta. Karaanlı Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Tepe, Akdeniz ikliminin hüküm sürdüğü bir bölgede yer alıyor. Bu nedenle, tepeyi ziyaret edenler, sıcak ve güneşli bir iklimle karşılaşıyor. Karaanlı Tepe, ziyaretçilerine doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla birlikte bir gezi deneyimi sunuyor. Tepe, Mersin'in ve Akdeniz Bölgesi'nin önemli bir doğal ve coğrafi mirası olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

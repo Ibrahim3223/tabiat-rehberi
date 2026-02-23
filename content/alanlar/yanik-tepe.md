@@ -29,7 +29,7 @@ wikidata_id: "Q31389948"
 
 # Yanık Tepe
 
-Yanık Tepe, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Yanık Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Yanık Tepe, ziyaretçilerini tarihi geçmişi ve doğal güzellikleri ile bekliyor.
+Yanık Tepe, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Yanık Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Yanık Tepe, ziyaretçilerini tarihi geçmişi ve doğal güzellikleri ile bekliyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Yanık Tepe, ziyaretçilerini tarihi geçmişi ve doğal güzellikleri ile bekli
 ## İlginç Bilgiler
 
 - Yanık Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Yanık Tepe, tarihi geçmişi ile dikkat çekiyor.
 - Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta.
 - Yanık Tepe, ziyaretçilerini coğrafi güzellikleri ile bekliyor.

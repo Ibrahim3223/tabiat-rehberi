@@ -1,7 +1,7 @@
 ---
 title: "Terzi Baba Türbesi"
 date: "2026-01-10T06:54:37.862Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzincan"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390803"
 
 # Terzi Baba Türbesi
 
-Terzi Baba Türbesi, Erzincan'ın merkezinde yer alan ve tarihsel öneme sahip bir türbedir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bu bölge, hem doğal güzelliği hem de tarihsel değeri ile ziyaretçilerini cezbeder. Terzi Baba Türbesi, Erzincan'ın önemli tarihi mekânlarından biri olarak kabul edilir ve şehre gelenlerin mutlaka ziyaret etmesi gereken yerlerden biridir.
+Terzi Baba Türbesi, Erzincan'ın merkezinde yer alan ve tarihsel öneme sahip bir türbedir. Bu bölge, hem doğal güzelliği hem de tarihsel değeri ile ziyaretçilerini cezbeder. Terzi Baba Türbesi, Erzincan'ın önemli tarihi mekânlarından biri olarak kabul edilir ve şehre gelenlerin mutlaka ziyaret etmesi gereken yerlerden biridir.
 
 ## Tarihçe
 

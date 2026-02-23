@@ -28,7 +28,7 @@ wikidata_id: "Q60842230"
 
 # Burj al Babas
 
-Burj al Babas, Bolu'nun en güzel plajlarından biri olarak bilinir. Bu muhteşem plaj, Karadeniz Bölgesi'nin doğal güzelliklerini sunar. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Burada, deniz, kum ve güneş üçlüsünün keyfini çıkarabilirsiniz. Burj al Babas, doğa severler ve plaj tutkunları için gerçek bir cennet olarak kabul edilir. Plajda, çeşitli aktiviteler ve hizmetler bulunur.
+Burj al Babas, Bolu'nun en güzel plajlarından biri olarak bilinir. Bu muhteşem plaj, Karadeniz Bölgesi'nin doğal güzelliklerini sunar. Burada, deniz, kum ve güneş üçlüsünün keyfini çıkarabilirsiniz. Burj al Babas, doğa severler ve plaj tutkunları için gerçek bir cennet olarak kabul edilir. Plajda, çeşitli aktiviteler ve hizmetler bulunur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Burj al Babas'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Burj al Babas, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, Bolu ilinin sahil şeridinde bulunur. Plajın coğrafi konumu, ziyaretçilerine doğal güzellikler sunar. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Plajda, deniz, kum ve güneş üçlüsünün keyfini çıkarabilirsiniz. Burj al Babas, Karadeniz Bölgesi'nin iklim özellikleri ile şekillenmiştir. Plajın coğrafi konumu, ziyaretçilerine çeşitli doğa aktivitelerine olanak sağlar. Burj al Babas, doğa severler için gerçek bir cennet olarak kabul edilir.
+Burj al Babas, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, Bolu ilinin sahil şeridinde bulunur. Plajın coğrafi konumu, ziyaretçilerine doğal güzellikler sunar. Plajda, deniz, kum ve güneş üçlüsünün keyfini çıkarabilirsiniz. Burj al Babas, Karadeniz Bölgesi'nin iklim özellikleri ile şekillenmiştir. Plajın coğrafi konumu, ziyaretçilerine çeşitli doğa aktivitelerine olanak sağlar. Burj al Babas, doğa severler için gerçek bir cennet olarak kabul edilir.
 
 ## Flora ve Fauna
 

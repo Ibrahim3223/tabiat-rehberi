@@ -1,7 +1,7 @@
 ---
 title: "Mesih Ali Paşa Türbesi"
 date: "2026-01-10T07:43:31.024Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391179"
 
 # Mesih Ali Paşa Türbesi
 
-Mesih Ali Paşa Türbesi, Fatih ilçesinde, İstanbul'un kalbinde yer alan bir tarihi mekan. Bu mekan, Marmara Bölgesi'nin önemli noktalarından biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunar. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, ziyaretçiler için önemli bir destinasyon olarak ortaya çıkıyor. İstanbul'un kalabalık sokaklarından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Mesih Ali Paşa Türbesi, aynı zamanda tarihi ve kültürel zenginlikleri keşfetmek isteyenler için de bir hazine.
+Mesih Ali Paşa Türbesi, Fatih ilçesinde, İstanbul'un kalbinde yer alan bir tarihi mekan. Bu mekan, Marmara Bölgesi'nin önemli noktalarından biri olarak bilinir. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, ziyaretçiler için önemli bir destinasyon olarak ortaya çıkıyor. İstanbul'un kalabalık sokaklarından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Mesih Ali Paşa Türbesi, aynı zamanda tarihi ve kültürel zenginlikleri keşfetmek isteyenler için de bir hazine.
 
 ## Tarihçe
 

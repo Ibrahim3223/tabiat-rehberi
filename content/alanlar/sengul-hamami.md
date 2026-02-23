@@ -1,7 +1,7 @@
 ---
 title: "Şengül Hamamı"
 date: "2026-01-09T22:11:02.950Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q19613929"
 
 # Şengül Hamamı
 
-Şengül Hamamı, Ankara'nın Altındağ ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenlerin sığınağı. Bu tarihi hamam, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor. Şengül Hamamı, sadece bir tarihi eser değil, aynı zamanda Ankara'nın kültürel mirasının bir parçası.
+Şengül Hamamı, Ankara'nın Altındağ ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir mekan. Bu tarihi hamam, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor. Şengül Hamamı, sadece bir tarihi eser değil, aynı zamanda Ankara'nın kültürel mirasının bir parçası.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q19613929"
 
 ## Coğrafya
 
-Şengül Hamamı, Ankara'nın Altındağ ilçesinde bulunan ve şehrin merkezine yakın bir mesafede yer alıyor. Hamamın etrafı, tarihi evler ve binalarla çevrili ve ziyaretçilere Ankara'nın eskiğini yansıtan bir atmosfer sunuyor. Hamamın bulunduğu alan, 140 hektarlık bir araziye yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere rahat bir gezi imkanı sunuyor ve hamamın tarihi geçmişi hakkında fikir veriyor. Şengül Hamamı, Ankara'nın coğrafi konumu itibariyle, şehrin diğer önemli tarihi mekanlarına da yakın bir mesafede bulunuyor.
+Şengül Hamamı, Ankara'nın Altındağ ilçesinde bulunan ve şehrin merkezine yakın bir mesafede yer alıyor. Hamamın etrafı, tarihi evler ve binalarla çevrili ve ziyaretçilere Ankara'nın eskiğini yansıtan bir atmosfer sunuyor. Bu geniş alan, ziyaretçilere rahat bir gezi imkanı sunuyor ve hamamın tarihi geçmişi hakkında fikir veriyor. Şengül Hamamı, Ankara'nın coğrafi konumu itibariyle, şehrin diğer önemli tarihi mekanlarına da yakın bir mesafede bulunuyor.
 
 ## Flora ve Fauna
 

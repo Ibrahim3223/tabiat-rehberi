@@ -32,7 +32,7 @@ Ağrı'nın dağlık bölgesinde, Türkiye'nin doğusundaki doğal güzellikleri
 
 ## Tarihçe
 
-Ağrı bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu coğrafya, Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşımaktadır. Bulutpınar Dağı da, bu zengin tarihsel mirasın bir parçasını oluşturmaktadır.
+Ağrı bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu coğrafya, Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşımaktadır. Bulutpınar Dağı da, bu zengin tarihsel mirasın bir parçasını oluşturmaktadır.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. İnsanlar, bu bölgelerde yaylacılık, hayvancılık ve avcılıkla uğraşmış, aynı zamanda ticaret yolları olarak kullanmışlardır. Ağrı bölgesinde de benzer bir durum söz konusudur. Dağların ve ovaların birleştiği bu coğrafya, tarihi İpek Yolu'nun bir bölümünü oluşturmaktadır.
 
@@ -50,7 +50,7 @@ Bulutpınar Dağı, çevresindeki su kaynakları ve ekosistemlerle birlikte, bir
 
 ## Flora ve Fauna
 
-Bulutpınar Dağı, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Bulutpınar Dağı, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ eteklerinde çiçekler açar ve alpin çayırlar canlanır. Sonbaharda ise dağların rengi sarı, turuncu ve kırmızıya dönüşür. Bu mevsimsel değişim, dağ ekosisteminin canlılığını gösterir.
 
@@ -67,6 +67,6 @@ Bulutpınar Dağı, Ağrı'nın gizli bir cenneti. Sabah erken gitmenizi önerir
 - Bulutpınar Dağı, Ağrı ilinin Doğubayazıt ilçesinde yer alır.
 - Dağın zirvesi 3.420 metre yüksekliktedir.
 - Bulutpınar Dağı, Türkiye'nin Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir.
-- Dağın eteklerinde históriki significance taşıyan Urartu dönemine ait kalıntılar bulunmuştur.
+- Dağın eteklerinde tarihi significance taşıyan Urartu dönemine ait kalıntılar bulunmuştur.
 - Bulutpınar Dağı, çevresindeki doğal güzellikleriyle birlikte trekking ve doğa yürüyüşü için popüler bir destinasyondur.
 - Dağın çevresinde yer alan köyler, geleneksel mimari ve kültürel mirasıyla dikkat çeker.

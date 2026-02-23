@@ -36,7 +36,7 @@ Bitlis'in yemyeşil dağları arasında yer alan Çayır Dağı, tarihin derinli
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutmuş. Yaylacılık ve hayvancılık faaliyetleri, bölgede yaşayan toplulukların geçim kaynakları arasında yer almış. Çayır Dağı gibi yüksek rakımlı alanlar, yaz aylarında çobanların ve sürülerinin sığındığı yerler olarak hizmet vermiş.
 
-Ticaret yolları ve histórik rotaların kesişme noktasında bulunan Bitlis, farklı uygarlıkların izlerini taşıyor. Bu bölgede yaşayan insanların, Çayır Dağı gibi doğal alanlarla olan ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut taşıyor. Bu dağlar, sadece bir doğal güzellik değil, aynı zamanda bölgenin tarihini ve kültürünü şekillendiren önemli bir unsur.
+Ticaret yolları ve tarihi rotaların kesişme noktasında bulunan Bitlis, farklı uygarlıkların izlerini taşıyor. Bu bölgede yaşayan insanların, Çayır Dağı gibi doğal alanlarla olan ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut taşıyor. Bu dağlar, sadece bir doğal güzellik değil, aynı zamanda bölgenin tarihini ve kültürünü şekillendiren önemli bir unsur.
 
 ## Coğrafya
 
@@ -50,9 +50,9 @@ Jeolojik açıdan bakıldığında, Çayır Dağı'nın fiziksel yapısı hakkı
 
 ## Flora ve Fauna
 
-Çayır Dağı, Bitlis'in yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır ve alpin çayırların güzelliği ortaya çıkar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çayır Dağı, Bitlis'in yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır ve alpin çayırların güzelliği ortaya çıkar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalı türleri bulunur. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu dağları ziyaret eder. Dağ hayvanları, yükseklik zonlarına adapte olmuş özel türlerdir. 
+Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalı türleri bulunur. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu dağları ziyaret eder. Dağ hayvanları, yükseklik zonlarına adapte olmuş özel türlerdir.
 
 Bu dağ ekosisteminin ekolojik değeri, endemik türlerin varlığı ve yüksek dağ ekolojisinin korunmasıdır. Bu nedenle, Çayır Dağı'nın korunması ve sürdürülebilir kullanımı önemlidir.
 

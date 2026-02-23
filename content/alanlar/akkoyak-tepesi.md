@@ -28,7 +28,7 @@ wikidata_id: "Q31581445"
 
 # Akkoyak Tepesi
 
-Akkoyak Tepesi, Karadeniz Bölgesi'nin güzide illerinden biri olan Çorum'da yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Akkoyak Tepesi, ziyaretçilerini doğanın kucağına davet ediyor ve onlara unutulmaz bir deneyim sunuyor. Bu tepe, bölgenin tarihi ve kültürel zenginliklerini de içerisinde barındırıyor. Ziyaretçiler, burada hem doğayı hem de tarihin izlerini keşfedebilirler.
+Akkoyak Tepesi, Karadeniz Bölgesi'nin güzide illerinden biri olan Çorum'da yer alan bir doğa harikasıdır. Akkoyak Tepesi, ziyaretçilerini doğanın kucağına davet ediyor ve onlara unutulmaz bir deneyim sunuyor. Bu tepe, bölgenin tarihi ve kültürel zenginliklerini de içerisinde barındırıyor. Ziyaretçiler, burada hem doğayı hem de tarihin izlerini keşfedebilirler.
 
 ## Tarihçe
 

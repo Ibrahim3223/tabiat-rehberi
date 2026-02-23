@@ -1,7 +1,7 @@
 ---
 title: "Arap Şeyhi Türbesi"
 date: "2026-01-10T05:36:25.327Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391390"
 
 # Arap Şeyhi Türbesi
 
-Arap Şeyhi Türbesi, Sivas'ın merkezinde yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir nokta. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yer alıyor. Türbe, Arap Şeyhi'nin hayatını ve öğretilerini anlatan bir yapı ve çevresi, yeşilin verschill çeşit tonlarını sunan bir doğal alan. Bu bölge, hem Sivas'ın tarihi geçmişi hem de doğal güzelliği hakkında fikir veren bir gezi noktası.
+Arap Şeyhi Türbesi, Sivas'ın merkezinde yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir nokta. Türbe, Arap Şeyhi'nin hayatını ve öğretilerini anlatan bir yapı ve çevresi, yeşilin verschill çeşit tonlarını sunan bir doğal alan. Bu bölge, hem Sivas'ın tarihi geçmişi hem de doğal güzelliği hakkında fikir veren bir gezi noktası.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Arap Şeyhi Türbesi, yüzyıllar boyunca Sivas'ın önemli dini ve kültürel m
 
 ## Coğrafya
 
-Arap Şeyhi Türbesi, Sivas'ın merkezinde yer alan ve şehrin kalbinde bulunan bir noktada konumlanıyor. Türbe ve çevresi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, Sivas'ın coğrafi yapısını yansıtan bir nokta ve şehrin doğal güzelliklerini sunuyor. Çevresi, yeşilin çeşitli tonlarını sunan bir doğal alan ve Sivas'ın iklim özellikleri, bu bölgenin güzelliğini daha da artırıyor. Arap Şeyhi Türbesi, Sivas'ın coğrafi yapısını ve doğal güzelliklerini bir araya getiren özel bir nokta.
+Arap Şeyhi Türbesi, Sivas'ın merkezinde yer alan ve şehrin kalbinde bulunan bir noktada konumlanıyor. Bu bölge, Sivas'ın coğrafi yapısını yansıtan bir nokta ve şehrin doğal güzelliklerini sunuyor. Çevresi, yeşilin çeşitli tonlarını sunan bir doğal alan ve Sivas'ın iklim özellikleri, bu bölgenin güzelliğini daha da artırıyor. Arap Şeyhi Türbesi, Sivas'ın coğrafi yapısını ve doğal güzelliklerini bir araya getiren özel bir nokta.
 
 ## Flora ve Fauna
 

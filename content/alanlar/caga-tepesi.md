@@ -28,7 +28,7 @@ wikidata_id: "Q34824486"
 
 # Çağa Tepesi
 
-Mersin'in Akdeniz Bölgesi'nde bulunan Çağa Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Bu tepe, ziyaretçilerini doğal güzellikleriyle büyülemeye hazırlanıyor. Doğa severler için ideal bir gezi noktası olan Çağa Tepesi, Mersin'in önemli bir turizm merkezlerinden biri olarak dikkat çekiyor. Ziyaretçiler, bu tepeye çıkarak eşsiz manzaraları izleme fırsatı buluyor.
+ Bu tepe, ziyaretçilerini doğal güzellikleriyle büyülemeye hazırlanıyor. Doğa severler için ideal bir gezi noktası olan Çağa Tepesi, Mersin'in önemli bir turizm merkezlerinden biri olarak dikkat çekiyor. Ziyaretçiler, bu tepeye çıkarak eşsiz manzaraları izleme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mersin'in Akdeniz Bölgesi'nde bulunan Çağa Tepesi, yaklaşık 200 futbol saha
 
 ## Coğrafya
 
-Çağa Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Çağa Tepesi'nin coğrafi konumu, ziyaretçilerine eşsiz manzaralar sunuyor. Bu tepe, Akdeniz Bölgesi'nin iklimine uygun olarak, sıcak ve kurak bir iklime sahip. Ziyaretçiler, bu tepeye çıkarak, çevredeki diğer doğal güzellikleri de izleme fırsatı buluyor. Çağa Tepesi'nin etrafı, çeşitli bitki türleriyle kaplı ve zengin bir fauna sahip. Bu tepe, doğa severler için ideal bir gezi noktası olarak dikkat çekiyor.
+Çağa Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Çağa Tepesi'nin coğrafi konumu, ziyaretçilerine eşsiz manzaralar sunuyor. Bu tepe, Akdeniz Bölgesi'nin iklimine uygun olarak, sıcak ve kurak bir iklime sahip. Ziyaretçiler, bu tepeye çıkarak, çevredeki diğer doğal güzellikleri de izleme fırsatı buluyor. Çağa Tepesi'nin etrafı, çeşitli bitki türleriyle kaplı ve zengin bir fauna sahip. Bu tepe, doğa severler için ideal bir gezi noktası olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

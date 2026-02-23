@@ -1,7 +1,7 @@
 ---
 title: "Atatürk Orman Çiftliği Hamamı"
 date: "2026-01-09T23:00:37.773Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738838"
 
 # Atatürk Orman Çiftliği Hamamı
 
-Atatürk Orman Çiftliği Hamamı, İç Anadolu Bölgesi'nde yer alan bir doğa harikası olarak karşımıza çıkıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alana sahip. Bu alan, hem doğayı severler hem de şehrin gürültüsünden kaçmak isteyenler için ideal bir kaçış noktası sunuyor. Atatürk Orman Çiftliği Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+Atatürk Orman Çiftliği Hamamı, İç Anadolu Bölgesi'nde yer alan bir doğa harikası olarak karşımıza çıkıyor. Bu alan, hem doğayı severler hem de şehrin gürültüsünden kaçmak isteyenler için ideal bir kaçış noktası sunuyor. Atatürk Orman Çiftliği Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31537247"
 
 # Dolap Tepe
 
-Güneydoğu Türkiye'nin histórik kentlerinden biri olan Kilis, doğal güzellikleri ile dikkat çekiyor. Bu bölgede yer alan Dolap Tepe, ziyaretçilerini karşılayacak bir doğa harikası olarak öne çıkıyor. Kilis'in coğrafi çeşitliliği, ziyaretçilere geniş bir deneyim yelpazesi sunuyor. Bölgenin tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzelliği de keşfedilmeye değer.
+Güneydoğu Türkiye'nin tarihi kentlerinden biri olan Kilis, doğal güzellikleri ile dikkat çekiyor. Bu bölgede yer alan Dolap Tepe, ziyaretçilerini karşılayacak bir doğa harikası olarak öne çıkıyor. Kilis'in coğrafi çeşitliliği, ziyaretçilere geniş bir deneyim yelpazesi sunuyor. Bölgenin tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzelliği de keşfedilmeye değer.
 
 ## Tarihçe
 
@@ -56,7 +56,7 @@ Bitki örtüsü olarak, step ve ova ekolojisinin hakim olduğu bu bölgede, ilkb
 
 Yaban hayatı olarak, memeliler, kuşlar ve sürüngenler bu ekosistemin bir parçası. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yüksek bölümlerinde yaşıyor. Kuşlar olarak, kartallar, şahinler ve keklikler gibi türler, bu bölgede yaşamlarını sürdürüyor. Sürüngenler olarak, yılanlar ve kertenkeleler, bu ekosistemin bir parçası.
 
-Bu dağ ekosisteminin ekolojik değeri, bölgenin biyolojik çeşitliliği ve ekosistem hizmetleri açısından önemlidir. Bu alan, birçok canlı türünün yaşamsal faaliyetlerini sürdürdüğü bir habitat sunuyor. Dolayısıyla, bu alanın korunması ve bảo tồn edilmesi, gelecek nesiller için çok önemlidir.
+Bu dağ ekosisteminin ekolojik değeri, bölgenin biyolojik çeşitliliği ve ekosistem hizmetleri açısından önemlidir. Bu alan, birçok canlı türünün yaşamsal faaliyetlerini sürdürdüğü bir habitat sunuyor. Dolayısıyla, bu alanın korunması ve koruma tồn edilmesi, gelecek nesiller için çok önemlidir.
 
 ## Ziyaret Bilgileri
 

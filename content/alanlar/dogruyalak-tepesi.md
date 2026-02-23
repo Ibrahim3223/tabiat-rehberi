@@ -28,7 +28,7 @@ wikidata_id: "Q31389589"
 
 # Doğruyalak Tepesi
 
-Doğruyalak Tepesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biri olarak Balıkesir'de yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini yansıtması açısından önemlidir. Tepenin etrafında bitki türleri bulunur ve zengin fauna ile dikkat çeker. Doğruyalak Tepesi, hem doğal güzelliği hem de coğrafi konumu nedeniyle ziyaretçilerin ilgisini çeker.
+Doğruyalak Tepesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biri olarak Balıkesir'de yer alır. Tepenin etrafında bitki türleri bulunur ve zengin fauna ile dikkat çeker. Doğruyalak Tepesi, hem doğal güzelliği hem de coğrafi konumu nedeniyle ziyaretçilerin ilgisini çeker.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Doğruyalak Tepesi, Marmara Bölgesi'nde Balıkesir ilinde bulunur ve coğrafi o
 
 ## Flora ve Fauna
 
-Doğruyalak Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölgenin flora ve fauna zenginliği, coğrafi konumu ve iklimi nedeniyle oluşmuştur. Mevsimsel değişimler, bitki ve hayvan türleri üzerinde önemli etkiler yapar. İlkbahar ve yaz aylarında flora zenginliği artar, sonbahar ve kış aylarında fauna daha aktif hale gelir. Doğruyalak Tepesi, doğal güzelliği ve fauna zenginliği ile önemli bir ekosistem olarak kabul edilir.
+ Bölgenin flora ve fauna zenginliği, coğrafi konumu ve iklimi nedeniyle oluşmuştur. Mevsimsel değişimler, bitki ve hayvan türleri üzerinde önemli etkiler yapar. İlkbahar ve yaz aylarında flora zenginliği artar, sonbahar ve kış aylarında fauna daha aktif hale gelir. Doğruyalak Tepesi, doğal güzelliği ve fauna zenginliği ile önemli bir ekosistem olarak kabul edilir.
 
 ## Ziyaret Bilgileri
 
@@ -48,7 +48,6 @@ Doğruyalak Tepesi'ni ziyaret etmek, doğal güzelliği ve coğrafi konumu neden
 
 ## İlginç Bilgiler
 
-- Doğruyalak Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin etrafında çeşitli bitki türleri bulunur.
 - Doğruyalak Tepesi, coğrafi konumu ve doğal güzelliği ile önemli bir turizm merkezi olarak kabul edilir.
 - Tepenin yüksekliği, bölgenin diğer tepelerine göre önemli bir yükseklikte değildir.

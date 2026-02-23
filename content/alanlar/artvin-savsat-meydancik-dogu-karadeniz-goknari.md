@@ -22,7 +22,7 @@ wikidata_id: "Q108227585"
 
 # Artvin-Savsat-Meydancik Dogu Karadeniz Goknari
 
-Artvin-Savsat-Meydancik Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik bölgelerinden biri. Milli parkın konumu, ziyaretçilere hem doğanın güzelliğini hem de bölgenin tarihi zenginliklerini keşfetme fırsatı sunuyor. Artvin ili sınırları içinde yer alan milli park, özellikle doğa severlerin ilgisini çekiyor.
+Artvin-Savsat-Meydancik Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Milli parkın konumu, ziyaretçilere hem doğanın güzelliğini hem de bölgenin tarihi zenginliklerini keşfetme fırsatı sunuyor. Artvin ili sınırları içinde yer alan milli park, özellikle doğa severlerin ilgisini çekiyor.
 
 ## Tarihçe
 

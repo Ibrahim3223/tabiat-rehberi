@@ -1,7 +1,7 @@
 ---
 title: "Akbıyık Sultan Türbesi"
 date: "2026-01-10T07:42:48.930Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391207"
 
 # Akbıyık Sultan Türbesi
 
-Akbıyık Sultan Türbesi, Marmara Bölgesi'nin önemli türbeleri arasında yer alıyor. Osmangazi/Bursa'da bulunan bu türbe, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana kurulmuş durumda. Bu türbe, yüzyıllar boyunca birçok ziyaretçiyi ağırlamış ve önemli bir tarihi miras olarak kabul ediliyor. 16. yüzyılda inşa edilen Akbıyık Sultan Türbesi, Osmanlı mimarisinin önemli örneklerinden biri olarak karşımıza çıkıyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrar, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Akbıyık Sultan Türbesi, Marmara Bölgesi'nin önemli türbeleri arasında yer alıyor. Bu türbe, yüzyıllar boyunca birçok ziyaretçiyi ağırlamış ve önemli bir tarihi miras olarak kabul ediliyor. 16. yüzyılda inşa edilen Akbıyık Sultan Türbesi, Osmanlı mimarisinin önemli örneklerinden biri olarak karşımıza çıkıyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrar, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

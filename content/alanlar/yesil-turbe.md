@@ -1,7 +1,7 @@
 ---
 title: "Yeşil Türbe"
 date: "2026-01-10T04:24:51.953Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q8053362"
 
 # Yeşil Türbe
 
-Yeşil Türbe, Bursa'nın şehir merkezine oldukça yakın bir mesafede, Marmara Denizi'nin kıyısında yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Yeşil Türbe, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Yeşil Türbe'nin en önemli özelliklerinden biri, temiz ve berrak denizi ile çevreyi süsleyen yeşilliktir. Bu kombinasyon, ziyaretçilere hem dinlenme hem de doğayı seyretme imkanı sunar.
+Yeşil Türbe, Bursa'nın şehir merkezine oldukça yakın bir mesafede, Marmara Denizi'nin kıyısında yer alan bir plajdır. Yeşil Türbe, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Yeşil Türbe'nin en önemli özelliklerinden biri, temiz ve berrak denizi ile çevreyi süsleyen yeşilliktir. Bu kombinasyon, ziyaretçilere hem dinlenme hem de doğayı seyretme imkanı sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yeşil Türbe'nin tarihi geçmişi, Bursa'nın zengin kültürel mirasıyla iç 
 
 ## Coğrafya
 
-Yeşil Türbe, coğrafi olarak Marmara Denizi'nin kıyısında, Bursa şehir merkezinin yakınında yer alır. Bu plaj, 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Yeşil Türbe'nin coğrafyası, denizle iç içe geçmiş bir yeşil alan olarak tanımlanabilir. Plajın etrafı, çeşitli ağaçlar ve bitki türleriyle süslüdür. Yeşil Türbe, deniz kenarına yakın bir konumda yer alması nedeniyle, ulaşım açısından oldukça elverişlidir. Bu coğrafi konumu, plajı hem yerli hem de yabancı turistler için çekici kılar. Yeşil Türbe'nin coğrafyası, ziyaretçilere hem denizin serinliği hem de yeşilin huzuru sunar. Marmara Bölgesi'nin iklimi, bu bölgede ziyaretçilerin yılın dört mevsimi rahatça gezebilmelerine olanak tanır.
+Yeşil Türbe, coğrafi olarak Marmara Denizi'nin kıyısında, Bursa şehir merkezinin yakınında yer alır. Yeşil Türbe'nin coğrafyası, denizle iç içe geçmiş bir yeşil alan olarak tanımlanabilir. Plajın etrafı, çeşitli ağaçlar ve bitki türleriyle süslüdür. Yeşil Türbe, deniz kenarına yakın bir konumda yer alması nedeniyle, ulaşım açısından oldukça elverişlidir. Bu coğrafi konumu, plajı hem yerli hem de yabancı turistler için çekici kılar. Yeşil Türbe'nin coğrafyası, ziyaretçilere hem denizin serinliği hem de yeşilin huzuru sunar. Marmara Bölgesi'nin iklimi, bu bölgede ziyaretçilerin yılın dört mevsimi rahatça gezebilmelerine olanak tanır.
 
 ## Flora ve Fauna
 

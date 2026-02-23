@@ -1,7 +1,7 @@
 ---
 title: "Zeyrek Çinili Hamam Müzesi"
 date: "2026-01-10T15:18:34.189Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949560"
 
 # Zeyrek Çinili Hamam Müzesi
 
-Zeyrek Çinili Hamam Müzesi, İstanbul'un tarihi dokusunu günümüze taşıyan önemli bir kültürel varlıktır. Bu tarihi hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer almaktadır. Zeyrek Çinili Hamam Müzesi, ziyaretçilerini İstanbul'un geçmişine götürerek, şehrin zengin kültürel mirasını keşfetme fırsatı sunar. Burada, tarihi mimarinin güzelliği ve hamam kültürünün derinliği bir arada bulunmakta, ziyaretçilere benzersiz bir deneyim sunmaktadır.
+Zeyrek Çinili Hamam Müzesi, İstanbul'un tarihi dokusunu günümüze taşıyan önemli bir kültürel varlıktır. Zeyrek Çinili Hamam Müzesi, ziyaretçilerini İstanbul'un geçmişine götürerek, şehrin zengin kültürel mirasını keşfetme fırsatı sunar. Burada, tarihi mimarinin güzelliği ve hamam kültürünün derinliği bir arada bulunmakta, ziyaretçilere benzersiz bir deneyim sunmaktadır.
 
 ## Tarihçe
 

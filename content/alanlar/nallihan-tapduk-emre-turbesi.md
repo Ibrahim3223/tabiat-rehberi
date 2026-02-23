@@ -1,7 +1,7 @@
 ---
 title: "Nallıhan Tapduk Emre Türbesi"
 date: "2026-01-10T06:12:37.012Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390677"
 
 # Nallıhan Tapduk Emre Türbesi
 
-Nallıhan Tapduk Emre Türbesi, Ankara'nın Nallıhan ilçesinde yer alan tarihi bir türbedir. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda konumlanmıştır. İç Anadolu Bölgesi'nin önemli dini yapılarından biri olan Tapduk Emre Türbesi, ziyaretçilerini tarihin derinliklerine götürmektedir. Türbenin çevresinde bulunan yeşillikler, ziyaretçilere huzurlu bir atmosfer sunmaktadır. 140 hektarlık bir yeşil alanın içinde yer alan bu türbe, bölge için önemli bir kültürel ve tarihi mirastır.
+Nallıhan Tapduk Emre Türbesi, Ankara'nın Nallıhan ilçesinde yer alan tarihi bir türbedir. İç Anadolu Bölgesi'nin önemli dini yapılarından biri olan Tapduk Emre Türbesi, ziyaretçilerini tarihin derinliklerine götürmektedir. Türbenin çevresinde bulunan yeşillikler, ziyaretçilere huzurlu bir atmosfer sunmaktadır. 140 hektarlık bir yeşil alanın içinde yer alan bu türbe, bölge için önemli bir kültürel ve tarihi mirastır.
 
 ## Tarihçe
 

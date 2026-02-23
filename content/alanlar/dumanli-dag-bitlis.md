@@ -49,9 +49,9 @@ Dumanlı Dağ, çevresindeki diğer doğal alanlar ile bağlantılı olarak, bir
 
 ## Flora ve Fauna
 
-Dumanlı Dağ, Bitlis'in yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Dumanlı Dağ, Bitlis'in yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü, ilkbaharın başlangıcında renkli çiçeklerle donanır. Alpin flora, yükseklik zonlarına göre değişkenlik gösterir. Dağ ekosisteminin bu özelliği, çeşitli bitki türlerinin bir arada yaşamasına olanak tanır. 
+Bitki örtüsü, ilkbaharın başlangıcında renkli çiçeklerle donanır. Alpin flora, yükseklik zonlarına göre değişkenlik gösterir. Dağ ekosisteminin bu özelliği, çeşitli bitki türlerinin bir arada yaşamasına olanak tanır.
 
 Yaban hayatı da bir o kadar zengin. Dağ keçileri, kartallar ve diğer yüksek dağ hayvanları, bu bölgenin sakinleridir. Sürüngenler ve memeliler, dağların yükseklik zonlarına göre dağılırlar. Ekolojik değerini koruma altına almak, bu zenginliğin devamı için önemlidir.
 

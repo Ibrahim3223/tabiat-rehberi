@@ -1,7 +1,7 @@
 ---
 title: "Rumi Hâce Dede Sultan Türbesi"
 date: "2026-01-10T06:31:43.706Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582710"
 
 # Rumi Hâce Dede Sultan Türbesi
 
-Rumi Hâce Dede Sultan Türbesi, İç Anadolu Bölgesi'nin Merzifon İlçesi'nde bulunan tarihi ve doğal güzellikleriyle dikkat çeken bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Merzifon'un merkezi konumunda bulunan türbe, şehrin önemli tarihi noktalarından biri olarak kabul edilir. Rumi Hâce Dede Sultan Türbesi, Merzifon'un tarihi geçmişi ve doğal güzelliklerinin birleştiği noktalardan biridir.
+Rumi Hâce Dede Sultan Türbesi, İç Anadolu Bölgesi'nin Merzifon İlçesi'nde bulunan tarihi ve doğal güzellikleriyle dikkat çeken bir destinasyon. Merzifon'un merkezi konumunda bulunan türbe, şehrin önemli tarihi noktalarından biri olarak kabul edilir. Rumi Hâce Dede Sultan Türbesi, Merzifon'un tarihi geçmişi ve doğal güzelliklerinin birleştiği noktalardan biridir.
 
 ## Tarihçe
 

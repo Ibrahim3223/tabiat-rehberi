@@ -32,7 +32,7 @@ Afyonkarahisar'ın doğal güzelliklerinin arasında yer alan Hacıkadir Boğaz�
 
 ## Tarihçe
 
-Afyonkarahisar, tarihin sâu sayfalarına uzanan bir bölge. Bu topraklar, histórik açıdan önemli birçok uygarlığa ev sahipliği yapmış: Hitit, Frig, Lidya, Pers, Roma ve Osmanlı gibi medeniyetler burada yaşamış, ticaret yapmış, savaşlar vermiş. Hacıkadir Boğazı da bu tarihsel zenginliğin bir parçası, bölgenin coğrafi güzelliği ve stratejik konumuyla önemli bir doğal alan.
+Afyonkarahisar, tarihin derin sayfalarına uzanan bir bölge. Bu topraklar, tarihi açıdan önemli birçok uygarlığa ev sahipliği yapmış: Hitit, Frig, Lidya, Pers, Roma ve Osmanlı gibi medeniyetler burada yaşamış, ticaret yapmış, savaşlar vermiş. Hacıkadir Boğazı da bu tarihsel zenginliğin bir parçası, bölgenin coğrafi güzelliği ve stratejik konumuyla önemli bir doğal alan.
 
 Türkiye'de kanyonlar, tarihin her döneminde önemli rol oynamış. Bu doğal oluşumlar, insan yerleşimlerinin, ticaret yollarının ve kültür alışverişinin merkezinde yer almış. Yayla ve ova arasında köprü görevi gören bu alanlar, yaylacılık ve hayvancılıkla uğraşanların yaşamını sürdürdüğü yerler olmuş. Ayrıca, tarihi İpek Yolu gibi önemli ticaret yolları da bu bölgelerden geçmiş, böylece kültürel ve ekonomik alışverişe katkıda bulunmuş.
 

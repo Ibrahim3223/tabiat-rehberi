@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Hasan El Fatirin Türbesi"
 date: "2026-01-10T06:45:52.003Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Siirt"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582862"
 
 # Şeyh Hasan El Fatirin Türbesi
 
-Güneydoğu Anadolu Bölgesi'nin güzide illerinden Siirt'in Tillo ilçesinde yer alan Şeyh Hasan El Fatirin Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda hem türbenin tarihi atmosferini hem de plajın serin sularını deneyimleme mümkün. Tillo'nun tarihi geçmişi ve kültürel zenginliği, bu türbenin etrafında yoğunlaşıyor. Ziyaretçiler, bu türbeyi ziyaret ederek hem manevi bir deneyim yaşayabiliyor hem de Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini keşfedebiliyor.
+Güneydoğu Anadolu Bölgesi'nin güzide illerinden Siirt'in Tillo ilçesinde yer alan Şeyh Hasan El Fatirin Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Tillo'nun tarihi geçmişi ve kültürel zenginliği, bu türbenin etrafında yoğunlaşıyor. Ziyaretçiler, bu türbeyi ziyaret ederek hem manevi bir deneyim yaşayabiliyor hem de Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini keşfedebiliyor.
 
 ## Tarihçe
 

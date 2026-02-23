@@ -1,7 +1,7 @@
 ---
 title: "Merzifon Mehmet Çelebi Medresesi"
 date: "2026-01-09T22:10:46.803Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -30,7 +30,7 @@ wikidata_id: "Q19611962"
 
 # Merzifon Mehmet Çelebi Medresesi
 
-Merzifon Mehmet Çelebi Medresesi, Amasya ilinin Merzifon ilçesinde yer alan bir tarihi medrese ve plaj olarak bilinir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi ve doğal güzelliği ile dikkat çeken bu yer, ziyaretçiler için önemli bir gezi noktasıdır. Mehmet Çelebi Medresesi, mimari özellikleri ve tarihi önemi ile de dikkat çekmektedir. Bu medrese, yüzyıllar boyunca eğitim ve kültür merkezi olarak hizmet vermiş ve bölgenin önemli bir kültür mirası olarak kabul edilmektedir.
+Merzifon Mehmet Çelebi Medresesi, Amasya ilinin Merzifon ilçesinde yer alan bir tarihi medrese ve plaj olarak bilinir. Tarihi ve doğal güzelliği ile dikkat çeken bu yer, ziyaretçiler için önemli bir gezi noktasıdır. Mehmet Çelebi Medresesi, mimari özellikleri ve tarihi önemi ile de dikkat çekmektedir. Bu medrese, yüzyıllar boyunca eğitim ve kültür merkezi olarak hizmet vermiş ve bölgenin önemli bir kültür mirası olarak kabul edilmektedir.
 
 ## Tarihçe
 

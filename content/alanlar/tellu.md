@@ -33,7 +33,7 @@ Bitlis'in dağlık arazisinde yer alan Tellu Dağı, Türkiye'nin en önemli co�
 
 ## Tarihçe
 
-Bitlis'in dağlık bölgesinde yer alan Tellu Dağı, tarihin sâu izlerini taşıyan bir coğrafyanın parçasıdır. Bu bölge, histórik olarak Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisi altında kalmıştır. Tellu Dağı ve çevresi, tarihsel ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir stratejik konumda yer almaktadır.
+Bitlis'in dağlık bölgesinde yer alan Tellu Dağı, tarihin derin izlerini taşıyan bir coğrafyanın parçasıdır. Bu bölge, tarihi olarak Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisi altında kalmıştır. Tellu Dağı ve çevresi, tarihsel ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir stratejik konumda yer almaktadır.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarını sürdürdüğü, hayvancılık ve yaylacılık faaliyetlerini gerçekleştirdiği önemli merkezler olarak görev görmüştür. Bu tür alanlar, aynı zamanda kültürel ve ekonomik faaliyetlerin de merkezinde yer almıştır. İnsanlar, bu doğal alanları kullanarak geçimlerini sağlamış, sosyal ve ekonomik ilişkilerini geliştirmişlerdir.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31582121"
 
 # Kalınkaya Tepesi
 
-Kalınkaya Tepesi, Çorum'un önemli doğal güzelliklerinden biridir. Bu tepenin etrafındaki 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunar. Kalınkaya Tepesi, özellikle doğa severlerin ve fotoğraf tutkunlarının ziyaret ettiği bir noktadır. Tepenin üstünden bakıldığında, Karadeniz Bölgesi'nin güzel manzaraları izlenebilir. Kalınkaya Tepesi, hem doğa yürüyüşleri hem de manzara seyri için ideal bir lokasyondur.
+Kalınkaya Tepesi, Çorum'un önemli doğal güzelliklerinden biridir. Kalınkaya Tepesi, özellikle doğa severlerin ve fotoğraf tutkunlarının ziyaret ettiği bir noktadır. Tepenin üstünden bakıldığında, Karadeniz Bölgesi'nin güzel manzaraları izlenebilir. Kalınkaya Tepesi, hem doğa yürüyüşleri hem de manzara seyri için ideal bir lokasyondur.
 
 ## Tarihçe
 

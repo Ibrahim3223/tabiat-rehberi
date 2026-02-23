@@ -57,7 +57,7 @@ Dağın bitki örtüsü, bozkırın hakim olduğu step bölgesine özgü türler
 
 ## Ziyaret Bilgileri
 
-Ballı Dağ, Kastamonu'nun doğal güzelliklerinin başlıcalarından biri. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu izleyebilirsiniz. Kastamonu'dan yaklaşık 30 kilometre uzaklıkta bulunan Ballı Dağ'a, özel araçla veya toplu taşıma araçlarıyla ulaşabilirsiniz. İlkbahar ve sonbahar mevsimleri, trekking ve kamp için idealdir. Yanınıza mutlaka su, atıştırmalık ve uygun kıyafetler alın. Fotoğraf makinenizi de unutmayın, çünkü manzaralar gerçekten büyüleyici. En güzel manzara noktası, zirvedir; ancak buraya ulaşmak için uygun bir fiziksel kondisyona sahip olmanız necessário.
+Ballı Dağ, Kastamonu'nun doğal güzelliklerinin başlıcalarından biri. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu izleyebilirsiniz. Kastamonu'dan yaklaşık 30 kilometre uzaklıkta bulunan Ballı Dağ'a, özel araçla veya toplu taşıma araçlarıyla ulaşabilirsiniz. İlkbahar ve sonbahar mevsimleri, trekking ve kamp için idealdir. Yanınıza mutlaka su, atıştırmalık ve uygun kıyafetler alın. Fotoğraf makinenizi de unutmayın, çünkü manzaralar gerçekten büyüleyici. En güzel manzara noktası, zirvedir; ancak buraya ulaşmak için uygun bir fiziksel kondisyona sahip olmanız gerekli.
 
 ## İlginç Bilgiler
 

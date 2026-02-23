@@ -1,7 +1,7 @@
 ---
 title: "El Hac Hüseyin Yıldız Efendi Türbesi"
 date: "2026-01-10T05:08:31.913Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391615"
 
 # El Hac Hüseyin Yıldız Efendi Türbesi
 
-El Hac Hüseyin Yıldız Efendi Türbesi, Düzce'nin merkezinde, Karadeniz Bölgesi'nin yeşil örtüsünün içinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak gibi hizmet vermektedir. Bu özel yer, hem tarihi hem de doğal güzelliklerin bir araya geldiği bir mekan olarak bilinir. El Hac Hüseyin Yıldız Efendi Türbesi, ziyaretçilerini tarihin derinliklerine götürürken, aynı zamanda Karadeniz Bölgesi'nin zengin florası ve faunasını keşfetme fırsatı sunar. Bu türbenin etrafında, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar.
+El Hac Hüseyin Yıldız Efendi Türbesi, Düzce'nin merkezinde, Karadeniz Bölgesi'nin yeşil örtüsünün içinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu özel yer, hem tarihi hem de doğal güzelliklerin bir araya geldiği bir mekan olarak bilinir. El Hac Hüseyin Yıldız Efendi Türbesi, ziyaretçilerini tarihin derinliklerine götürürken, aynı zamanda Karadeniz Bölgesi'nin zengin florası ve faunasını keşfetme fırsatı sunar. Bu türbenin etrafında, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar.
 
 ## Tarihçe
 

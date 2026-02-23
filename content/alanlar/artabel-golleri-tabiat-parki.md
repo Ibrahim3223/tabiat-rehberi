@@ -30,7 +30,7 @@ wikidata_id: "Q20476870"
 
 # Artabel Gölleri Tabiat Parkı
 
-Ankara ve Gümüşhane sınırları içerisinde yer alan Artabel Gölleri Tabiat Parkı, Türkiye'nin doğa harikalarından biri olarak dikkat çekiyor. Bu tabiat parkı, iki ilin sınırında bulunuyor ve ziyaretçilerini doğal güzellikleriyle karşılar. Ankara ve Gümüşhane'nin birleştiği noktada, bu güzel parkı keşfetme mümkün. Doğal güzellikleri ile ön plana çıkan Artabel Gölleri Tabiat Parkı, ziyaretçilerine unutulmaz anlar vadeder.
+Ankara ve Gümüşhane sınırları içerisinde yer alan Artabel Gölleri Tabiat Parkı, Türkiye'nin doğa harikalarından biri olarak dikkat çekiyor. Bu tabiat parkı, iki ilin sınırında bulunuyor ve ziyaretçilerini doğal güzellikleriyle karşılar. Ankara ve Gümüşhane'nin birleştiği noktada, bu güzel parkı keşfetme mümkün.
 
 ## Tarihçe
 

@@ -53,7 +53,7 @@ Doğal su kaynaklarına yakınlığıyla dikkat çeken "Derin Dağ", çevresinde
 
 Derin Dağ, Gümüşhane'nin nemli iklimine ve gür ormanlarına ev sahipliği yapan bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. İlkbaharın gelişiyle birlikte, dağ etekleri renkli çiçeklerle donanır ve yeşillenir. Sonbaharda ise, göçmen kuşlar dağları geçerek daha sıcak bölgelere doğru yol alırlar.
 
-Dağın yükseklik zonlarında, alpin flora hakimdir. Bu bölgede, dayanıklı ve adaptasyon yeteneği yüksek bitkiler bulunur. Bitki örtüsünün mevsimsel değişimleri, dağ ekosisteminin dinamik yapısını gözler önüne serer. 
+Dağın yükseklik zonlarında, alpin flora hakimdir. Bu bölgede, dayanıklı ve adaptasyon yeteneği yüksek bitkiler bulunur. Bitki örtüsünün mevsimsel değişimleri, dağ ekosisteminin dinamik yapısını gözler önüne serer.
 
 Memeliler, kuşlar ve sürüngenler de bu dağ ekosisteminin önemli bileşenleridir. Dağ keçileri ve yaban keçileri, kayalık alanlarda yaşarken, kartallar ve şahinler ise gökyüzünde süzülürler. Bu canlılar, dağların zorlu koşullarına adapte olmuş ve birbirleriyle ekolojik ilişkiler kurmuşlardır.
 

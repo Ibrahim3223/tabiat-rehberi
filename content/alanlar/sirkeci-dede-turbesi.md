@@ -1,7 +1,7 @@
 ---
 title: "Sirkeci Dede Türbesi"
 date: "2026-01-10T05:54:45.288Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q121423006"
 
 # Sirkeci Dede Türbesi
 
-Sirkeci Dede Türbesi, İstanbul'un Fatih ilçesinde, tarihiinde yer alan bir türbedir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. İstanbul'un kalbinde, Marmara Bölgesi'nin en önemli kültür merkezlerinden birinde bulunan bu türbe, hem dini hem de turistik bir cazibe merkezi olarak dikkat çeker. Sirkeci Dede Türbesi, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor.
+Sirkeci Dede Türbesi, İstanbul'un Fatih ilçesinde, tarihiinde yer alan bir türbedir. İstanbul'un kalbinde, Marmara Bölgesi'nin en önemli kültür merkezlerinden birinde bulunan bu türbe, hem dini hem de turistik bir cazibe merkezi olarak dikkat çeker. Sirkeci Dede Türbesi, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sirkeci Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Sirkeci Dede Türbesi, Fatih ilçesinde, Marmara Bölgesi'nin en önemli kültür merkezlerinden birinde yer alır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. İstanbul'un kalbinde yer alan bu türbe, şehrin en önemli turistik merkezlerinden biridir. Sirkeci Dede Türbesi'nin bulunduğu yer, tarihi inde yer alan önemli bir merkezdir. Türbenin etrafında, çeşitli tarihi yapılar ve doğal güzellikler bulunmaktadır. Sirkeci Dede Türbesi, İstanbul'un coğrafi konumu itibariyle, ziyaretçilerine şehir hakkında geniş bir bakış açısı sunar.
+Sirkeci Dede Türbesi, Fatih ilçesinde, Marmara Bölgesi'nin en önemli kültür merkezlerinden birinde yer alır. İstanbul'un kalbinde yer alan bu türbe, şehrin en önemli turistik merkezlerinden biridir. Sirkeci Dede Türbesi'nin bulunduğu yer, tarihi inde yer alan önemli bir merkezdir. Türbenin etrafında, çeşitli tarihi yapılar ve doğal güzellikler bulunmaktadır. Sirkeci Dede Türbesi, İstanbul'un coğrafi konumu itibariyle, ziyaretçilerine şehir hakkında geniş bir bakış açısı sunar.
 
 ## Flora ve Fauna
 

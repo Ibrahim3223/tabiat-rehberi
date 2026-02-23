@@ -1,7 +1,7 @@
 ---
 title: "Yavuz Sultan Selim Türbesi"
 date: "2026-01-10T07:24:32.024Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391009"
 
 # Yavuz Sultan Selim Türbesi
 
-Yavuz Sultan Selim Türbesi, İstanbul'un tarihi ve kültürel zenginliklerinin bir araya geldiği önemli bir nokta. Fatih ilçesinde bulunan bu türbe, Yavuz Sultan Selim'in anısına inşa edilmiştir. Çevresindeki yeşil alan, ziyaretçilere dinlenme ve tarihi yapıları incelemek için uygun bir ortam sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un kalbinde bir nefes alma noktası olarak hizmet vermektedir. Türbenin mimarisi, Osmanlı dönemi sanatının güzel bir örneğini sunar ve tarihi geçmişi ile ziyaretçileri etkiler.
+Yavuz Sultan Selim Türbesi, İstanbul'un tarihi ve kültürel zenginliklerinin bir araya geldiği önemli bir nokta. Fatih ilçesinde bulunan bu türbe, Yavuz Sultan Selim'in anısına inşa edilmiştir. Çevresindeki yeşil alan, ziyaretçilere dinlenme ve tarihi yapıları incelemek için uygun bir ortam sunar. Türbenin mimarisi, Osmanlı dönemi sanatının güzel bir örneğini sunar ve tarihi geçmişi ile ziyaretçileri etkiler.
 
 ## Tarihçe
 

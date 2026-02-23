@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine ev sahipli
 
 ## Tarihçe
 
-Şanlıurfa, tarihin sâuşturduğu bir bölgedir. Binlerce yıldır çeşitli uygarlıkların izlerini taşıyan bu topraklar, insanlık tarihinin önemli bir parçası olarak kabul edilir. Karababa Dağı, bu tarihsel coğrafyanın bir parçasıdır. Bölge, Hitit, Asur, Pers, Roma ve Bizans uygarlıklarının izlerini taşır.
+Şanlıurfa, tarihin derinşturduğu bir bölgedir. Binlerce yıldır çeşitli uygarlıkların izlerini taşıyan bu topraklar, insanlık tarihinin önemli bir parçası olarak kabul edilir. Karababa Dağı, bu tarihsel coğrafyanın bir parçasıdır. Bölge, Hitit, Asur, Pers, Roma ve Bizans uygarlıklarının izlerini taşır.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. İnsanlar, bu alanları yaylacılık, hayvancılık ve ticaret için kullanmışlardır. Karababa Dağı da, bu bağlamda, bölgenin ekonomi ve kültürel hayatında önemli bir rol oynamıştır. Ticaret yolları, bu dağların eteklerinden geçerek, bölgeyi diğer uygarlıklarla bağlamıştır.
 

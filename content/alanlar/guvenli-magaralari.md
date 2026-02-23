@@ -50,7 +50,7 @@ Mardin'in iklimi, "Güvenli Mağaraları" jeoparkının karakterini de etkiliyor
 
 ## Flora ve Fauna
 
-"Güvenli Mağaraları" jeoparkı, yarı kurak iklimin hakim olduğu bir bölgede yer alıyor. Bu özel alan, step ve ova ekolojisinin yanı sıra orman ekosistemine de ev sahipliği yapıyor. 
+"Güvenli Mağaraları" jeoparkı, yarı kurak iklimin hakim olduğu bir bölgede yer alıyor. Bu özel alan, step ve ova ekolojisinin yanı sıra orman ekosistemine de ev sahipliği yapıyor.
 
 Bitki örtüsünü oluşturan çoğunlukla otsu bitkiler ve çalılar, ilkbahar mevsiminde renkli çiçeklerle donanıyor. Bu mevsimde, bölgenin flora çeşitliliği en yüksek düzeyde oluyor. Sonbaharda ise, göçmen kuşların gelmesi ile birlikte, havada farklı türlerin sesleri yankılanıyor.
 

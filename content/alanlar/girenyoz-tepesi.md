@@ -28,7 +28,7 @@ wikidata_id: "Q31549637"
 
 # Girenyoz Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Girenyoz Tepesi, yaklaşık 1400 metre yüksekliğiyle bölgenin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Batman'ın merkezine uzun bir mesafe uzaklıkta bulunan bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Girenyoz Tepesi, eşsiz manzarasıyla ziyaretçilerini büyülüyor. Bu tepe, doğa severler ve macera arayışında olanların mutlaka ziyaret etmesi gereken bir destinasyon.
+Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Girenyoz Tepesi, yaklaşık 1400 metre yüksekliğiyle bölgenin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Girenyoz Tepesi, eşsiz manzarasıyla ziyaretçilerini büyülüyor. Bu tepe, doğa severler ve macera arayışında olanların mutlaka ziyaret etmesi gereken bir destinasyon.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Girenyoz Tepesi, coğrafi açıdan oldukça zengin bir yapıya sahip. Bu tepe, G
 
 ## Flora ve Fauna
 
-Girenyoz Tepesi, flora ve fauna açısından oldukça zengin bir yapıya sahip. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bölgenin karakteristik ağaç türlerini barındırıyor. Girenyoz Tepesi, yaban hayatının zengin olması nedeniyle doğa severlerin ilgisini çekiyor. Tepede, çeşitli hayvan türleri yaşiyor ve bölgenin ekolojik dengesine büyük katkı sağlıyor. Mevsimsel değişimler, Girenyoz Tepesi'nin flora ve faunasını etkiliyor ve her mevsim farklı bir güzelliğe sahip oluyor.
+ Tepenin etrafı, çeşitli bitki türleriyle kaplı ve bölgenin karakteristik ağaç türlerini barındırıyor. Girenyoz Tepesi, yaban hayatının zengin olması nedeniyle doğa severlerin ilgisini çekiyor. Tepede, çeşitli hayvan türleri yaşiyor ve bölgenin ekolojik dengesine büyük katkı sağlıyor. Mevsimsel değişimler, Girenyoz Tepesi'nin flora ve faunasını etkiliyor ve her mevsim farklı bir güzelliğe sahip oluyor.
 
 ## Ziyaret Bilgileri
 

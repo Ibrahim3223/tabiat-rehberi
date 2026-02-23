@@ -28,7 +28,7 @@ wikidata_id: "Q34818804"
 
 # Çemihacı Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin kalbinde, Batman ilinin sınırlarında yer alan Çemihacı Tepesi, doğa severlerin ve macera tutkunlarının yeni keşif noktası. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplayan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Çemihacı Tepesi, ziyaretçilerine hem doğanın güzelliklerini keşfetme fırsatı hem de tarihi ve kültürel zenginliklere tanık olma imkanı sunuyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyan bir bölge olarak dikkat çekiyor.
+Güneydoğu Anadolu Bölgesi'nin kalbinde, Batman ilinin sınırlarında yer alan Çemihacı Tepesi, doğa severlerin ve macera tutkunlarının yeni keşif noktası. Çemihacı Tepesi, ziyaretçilerine hem doğanın güzelliklerini keşfetme fırsatı hem de tarihi ve kültürel zenginliklere tanık olma imkanı sunuyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyan bir bölge olarak dikkat çekiyor.
 
 ## Tarihçe
 

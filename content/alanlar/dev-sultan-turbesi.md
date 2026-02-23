@@ -1,7 +1,7 @@
 ---
 title: "Dev Sultan Türbesi"
 date: "2026-01-10T06:13:47.065Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390678"
 
 # Dev Sultan Türbesi
 
-Dev Sultan Türbesi, Polatlı'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir mekan olarak ziyaretçilerini çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin önemli gezi noktalarından biri olarak kabul ediliyor. Bu geniş alan, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Ziyaretçiler, hem Dev Sultan Türbesi'nin histórik önemini keşfedebilir hem de geniş yeşil alanlarda doğanın güzelliğini deneyimleyebilir.
+Dev Sultan Türbesi, Polatlı'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir mekan olarak ziyaretçilerini çekiyor. Bu geniş alan, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Ziyaretçiler, hem Dev Sultan Türbesi'nin tarihi önemini keşfedebilir hem de geniş yeşil alanlarda doğanın güzelliğini deneyimleyebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dev Sultan Türbesi'nin tarihi geçmişi, bölgenin önemli tarihi mekanlarında
 
 ## Coğrafya
 
-Dev Sultan Türbesi, Polatlı'nın merkezi bir bölgesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özellikleri ile ilmiştir. 140 hektarlık yeşil alan, ziyaretçilere geniş bir açık alan sunar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Bu geniş alan, bölgenin coğrafi özelliklerini yansıtan bir peyzaj sunar ve ziyaretçilere doğanın güzelliğini deneyimleme fırsatı tanır. Mekan, Ankara'nın merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Coğrafi konumu itibariyle, Dev Sultan Türbesi, hem yerel hem de yabancı ziyaretçilerin ilgisini çekmektedir. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu türbenin etrafındaki manzarayı şekillendirir ve ziyaretçilere benzersiz bir doğal güzellik sunar.
+Dev Sultan Türbesi, Polatlı'nın merkezi bir bölgesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özellikleri ile ilmiştir. Bu geniş alan, bölgenin coğrafi özelliklerini yansıtan bir peyzaj sunar ve ziyaretçilere doğanın güzelliğini deneyimleme fırsatı tanır. Mekan, Ankara'nın merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Coğrafi konumu itibariyle, Dev Sultan Türbesi, hem yerel hem de yabancı ziyaretçilerin ilgisini çekmektedir. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu türbenin etrafındaki manzarayı şekillendirir ve ziyaretçilere benzersiz bir doğal güzellik sunar.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Dev Sultan Türbesi'nin etrafındaki 140 hektarlık yeşil alan, çeşitli bitki
 
 ## Ziyaret Bilgileri
 
-Dev Sultan Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri bir arada deneyimlemek için ideal bir oportunite sunar. Ziyaretçilerin, türbeyi ve etrafındaki yeşil alanları gezmeleri önerilir. Bu geniş alan, ziyaretçilere hem dinlenmek hem de doğanın güzelliğini deneyimlemek için olanak tanır. Ziyaretçiler, türbenin histórik önemini keşfedebilir ve aynı zamanda doğal güzellikleri deneyimleyebilir. Dev Sultan Türbesi, yılın her mevsiminde ziyaret edilebilir, ancak bahar ve yaz ayları, yeşil alanların en güzel olduğu dönemlerdir.
+Dev Sultan Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri bir arada deneyimlemek için ideal bir oportunite sunar. Ziyaretçilerin, türbeyi ve etrafındaki yeşil alanları gezmeleri önerilir. Bu geniş alan, ziyaretçilere hem dinlenmek hem de doğanın güzelliğini deneyimlemek için olanak tanır. Ziyaretçiler, türbenin tarihi önemini keşfedebilir ve aynı zamanda doğal güzellikleri deneyimleyebilir. Dev Sultan Türbesi, yılın her mevsiminde ziyaret edilebilir, ancak bahar ve yaz ayları, yeşil alanların en güzel olduğu dönemlerdir.
 
 ## İlginç Bilgiler
 

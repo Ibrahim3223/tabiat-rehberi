@@ -1,7 +1,7 @@
 ---
 title: "Adil Bey Türbesi"
 date: "2026-01-10T07:34:10.841Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391292"
 
 # Adil Bey Türbesi
 
-Kastamonu ilinin merkezinde bulunan Adil Bey Türbesi, tarihi ve doğal güzelliklerinin bir arada olduğu özel bir yerdir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Adil Bey Türbesi, Kastamonu'nun tarihi geçmişini yansıtan önemli bir yapı ve aynı zamanda doğa severler için de bir çekim merkezi. Burada, geçmişin izlerini takip ederken, aynı zamanda doğal güzellikler içinde huzur bulabilirsiniz.
+Kastamonu ilinin merkezinde bulunan Adil Bey Türbesi, tarihi ve doğal güzelliklerinin bir arada olduğu özel bir yerdir. Adil Bey Türbesi, Kastamonu'nun tarihi geçmişini yansıtan önemli bir yapı ve aynı zamanda doğa severler için de bir çekim merkezi. Burada, geçmişin izlerini takip ederken, aynı zamanda doğal güzellikler içinde huzur bulabilirsiniz.
 
 ## Tarihçe
 

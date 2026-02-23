@@ -28,7 +28,7 @@ wikidata_id: "Q31544645"
 
 # Bira Tepesi
 
-Bira Tepesi, Güneydoğu Anadolu Bölgesi'nin eşsiz doğal güzelliklerinden biridir. Batman ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bira Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Tepenin eteklerinde ve zirvesinde yer alan çeşitli bitki türleri ve fauna, ziyaretçilere zengin bir ekolojik deneyim sunar.
+Bira Tepesi, Güneydoğu Anadolu Bölgesi'nin eşsiz doğal güzelliklerinden biridir. Batman ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Bira Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Tepenin eteklerinde ve zirvesinde yer alan çeşitli bitki türleri ve fauna, ziyaretçilere zengin bir ekolojik deneyim sunar.
 
 ## Tarihçe
 

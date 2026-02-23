@@ -28,7 +28,7 @@ wikidata_id: "Q31581335"
 
 # Armutlu Tepesi
 
-Armutlu Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeyi keşfetmek isteyenler için ideal bir nokta. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor. Bu tepe, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. Armutlu Tepesi, ziyaretçilerini bekliyor.
+Armutlu Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor. Bu tepe, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. Armutlu Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

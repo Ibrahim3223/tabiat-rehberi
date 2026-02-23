@@ -32,7 +32,7 @@ wikidata_id: "Q31559998"
 
 ## Tarihçe
 
-Çorum bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, zengin bir kültürel mirasın bir parçası olarak Yergen Dağı gibi doğal güzelliklere ev sahipliği yapar. Türkiye'nin coğrafi konumu, histórik ticaret yollarının kesişme noktasında bulunması, bu bölgenin önemini further artırır.
+Çorum bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, zengin bir kültürel mirasın bir parçası olarak Yergen Dağı gibi doğal güzelliklere ev sahipliği yapar. Türkiye'nin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, bu bölgenin önemini further artırır.
 
 Yergen Dağı gibi dağlar, yüzyıllar boyunca insanların yaşadığı, çalıştığı ve dini ritüeller gerçekleştirdiği alanlar olarak hizmet vermiştir. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan halkların geleneksel uğraşları arasında yer alır. Bu doğal alanlar, aynı zamanda ticaret yolları ve ulaşım hatları için de önemli bir role sahiptir. İnsanların bu dağlarla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve dini boyutlara da sahiptir. Bu tür doğal alanlar, Türkiye'nin tarihini ve kültürünü şekillendiren önemli unsurlardır.
 
@@ -48,9 +48,9 @@ Doğal kaynaklar açısından, Yergen Dağı'nın çevresi, su kaynakları ve ek
 
 ## Flora ve Fauna
 
-Yergen Dağı, Çorum'un nemli ikliminde yer alan gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçeklerin açtığını görebiliriz. Mevsimsel değişimlerle birlikte, ormanlar renk değiştirir ve sonbaharda, yaprakların dökülmesiyle birlikte, dağların gerçek güzelliği ortaya çıkar. 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler gibi çeşitli canlıları yaşam alanlarıyla birlikte görebiliriz. Dağların yükseklik zonlarında, alpin flora ve fauna çeşitliliği dikkat çeker. 
+Yergen Dağı, Çorum'un nemli ikliminde yer alan gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar.
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçeklerin açtığını görebiliriz. Mevsimsel değişimlerle birlikte, ormanlar renk değiştirir ve sonbaharda, yaprakların dökülmesiyle birlikte, dağların gerçek güzelliği ortaya çıkar.
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler gibi çeşitli canlıları yaşam alanlarıyla birlikte görebiliriz. Dağların yükseklik zonlarında, alpin flora ve fauna çeşitliliği dikkat çeker.
 Ekolojik Değer bölümünde, bu dağ ekosisteminin neden önemli olduğunu ve koruma durumunu öğrenebiliriz. Yüksek biyoçeşitlili ve ekolojik ilişkiler, bu alanı özel kılar.
 
 ## Ziyaret Bilgileri

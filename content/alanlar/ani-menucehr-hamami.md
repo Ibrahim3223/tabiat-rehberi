@@ -1,7 +1,7 @@
 ---
 title: "Ani Menuçehr Hamamı"
 date: "2026-01-09T22:39:11.389Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kars"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738756"
 
 # Ani Menuçehr Hamamı
 
-Ani Menuçehr Hamamı, Kars ilinin Ani ilçesinde bulunan tarihi ve doğal güzelliklerin birleştiği bir yerdir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Ani Menuçehr Hamamı, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerini büyüleyen bir yerdir. Burada, tarihi yapılar ve doğal güzellikler bir arada bulunmakta ve ziyaretçilere benzersiz bir deneyim sunmaktadır. Ani Menuçehr Hamamı, Doğu Anadolu Bölgesi'nin önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
+Ani Menuçehr Hamamı, Kars ilinin Ani ilçesinde bulunan tarihi ve doğal güzelliklerin birleştiği bir yerdir. Ani Menuçehr Hamamı, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerini büyüleyen bir yerdir. Burada, tarihi yapılar ve doğal güzellikler bir arada bulunmakta ve ziyaretçilere benzersiz bir deneyim sunmaktadır. Ani Menuçehr Hamamı, Doğu Anadolu Bölgesi'nin önemli turizm merkezlerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ani Menuçehr Hamamı, tarihi geçmişi ile birlikte, ziyaretçilerini büyüley
 
 ## Coğrafya
 
-Ani Menuçehr Hamamı, Kars ilinin Ani ilçesinde bulunmaktadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Ani Menuçehr Hamamı, Doğu Anadolu Bölgesi'nin coğrafi yapısı ile birlikte, ziyaretçilerine benzersiz bir deneyim sunmaktadır. Bu hamam, doğal güzellikleriyle birlikte, ziyaretçilerini büyülemektedir. Ani Menuçehr Hamamı, çevresi ile birlikte, ziyaretçilerine önemli bir deneyim sunmaktadır. Bu hamam, yüzyıllar boyunca çeşitli medeniyetlerin hakimiyeti altında bulunmuş ve her biri tarafından şekillendirilmiştir. Ani Menuçehr Hamamı, coğrafi yapısı ve tarihi geçmişi ile birlikte, Doğu Anadolu Bölgesi'nin önemli turizm merkezlerinden biridir.
+Ani Menuçehr Hamamı, Kars ilinin Ani ilçesinde bulunmaktadır. Ani Menuçehr Hamamı, Doğu Anadolu Bölgesi'nin coğrafi yapısı ile birlikte, ziyaretçilerine benzersiz bir deneyim sunmaktadır. Bu hamam, doğal güzellikleriyle birlikte, ziyaretçilerini büyülemektedir. Ani Menuçehr Hamamı, çevresi ile birlikte, ziyaretçilerine önemli bir deneyim sunmaktadır. Bu hamam, yüzyıllar boyunca çeşitli medeniyetlerin hakimiyeti altında bulunmuş ve her biri tarafından şekillendirilmiştir. Ani Menuçehr Hamamı, coğrafi yapısı ve tarihi geçmişi ile birlikte, Doğu Anadolu Bölgesi'nin önemli turizm merkezlerinden biridir.
 
 ## Flora ve Fauna
 

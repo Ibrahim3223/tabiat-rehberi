@@ -32,8 +32,8 @@ Muğla'nın dağlık bölgesinde, yaban hayatın zenginliklerini barındıran Ot
 
 ## Tarihçe
 
-Muğla bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşamına ev sahipliği yapmış bir coğrafyadır. Otlutaş Dağı da, bu bölgenin zengin tarihsel dokusunun bir parçasını oluşturur. Bölge, antik dönemde Karya bölgesinin bir parçası idi ve bu dönemde birçok uygarlık burada yaşamıştır. 
-Tarihi ticaret yollarının da bu bölgeden geçmesi, Otlutaş Dağı'nın ve çevresinin ticari ve kültürel açıdan önemli bir merkez olmasını sağlamıştır. 
+Muğla bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşamına ev sahipliği yapmış bir coğrafyadır. Otlutaş Dağı da, bu bölgenin zengin tarihsel dokusunun bir parçasını oluşturur. Bölge, antik dönemde Karya bölgesinin bir parçası idi ve bu dönemde birçok uygarlık burada yaşamıştır.
+Tarihi ticaret yollarının da bu bölgeden geçmesi, Otlutaş Dağı'nın ve çevresinin ticari ve kültürel açıdan önemli bir merkez olmasını sağlamıştır.
 Doğal güzellikleri ve stratejik konumuyla, Otlutaş Dağı, bölgenin tarih boyunca önemli bir noktası olarak kalmıştır.
 
 ## Coğrafya
@@ -48,9 +48,9 @@ Mevsimsel özellikler açısından, Otlutaş Dağı ve çevresi, Akdeniz iklimin
 
 ## Flora ve Fauna
 
-Otlutaş Dağı'nın flora ve fauna zenginliği, ziyaretçilerini büyüleyici bir doğa deneyimi bekliyor. 1200 metre yükseklikte, Akdeniz ikliminin hüküm sürdüğü bu dağ ekosistemi, zeytinlikler ve çam ormanları ile çevrili. 
+Otlutaş Dağı'nın flora ve fauna zenginliği, ziyaretçilerini büyüleyici bir doğa deneyimi bekliyor. 1200 metre yükseklikte, Akdeniz ikliminin hüküm sürdüğü bu dağ ekosistemi, zeytinlikler ve çam ormanları ile çevrili.
 
-Bitki örtüsünde, çam ağaçları ve zeytinliklerin yanı sıra, ilkbahar aylarında renkli çiçekler açan otsu bitkiler hakim. Mevsimsel değişim, sonbaharda göç eden kuşların gelip geçtiği bir manzara sunuyor. 
+Bitki örtüsünde, çam ağaçları ve zeytinliklerin yanı sıra, ilkbahar aylarında renkli çiçekler açan otsu bitkiler hakim. Mevsimsel değişim, sonbaharda göç eden kuşların gelip geçtiği bir manzara sunuyor.
 
 Yaban hayatı, dağ keçileri, tilkiler ve çeşitli kuş türleri ile zengin. Sürüngenler de dağın kayalık alanlarında yaşamlarını sürdürüyor. Ekolojik olarak, bu dağ ekosisteminin korunması, bölgenin tüm canlıları için hayati önem taşıyor.
 

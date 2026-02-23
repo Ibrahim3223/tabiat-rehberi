@@ -1,7 +1,7 @@
 ---
 title: "Öküz Mehmet Paşa Hamamı"
 date: "2026-01-09T22:32:25.862Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738685"
 
 # Öküz Mehmet Paşa Hamamı
 
-Öküz Mehmet Paşa Hamamı, Aydın'ın Kuşadası ilçesinde bulunan tarihi bir hamam ve plaj alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel plajlarından biridir. Bu tarihi hamam, Öküz Mehmet Paşa tarafından yaptırılmıştır. Hamamın tarihi geçmişi, bölgenin önemli kültürel miraslarından biridir. Öküz Mehmet Paşa Hamamı, aynı zamanda doğal güzellikleriyle de dikkat çeker. Denizin maviliği, çevredeki dağların yeşilliği ve hamamın tarihi atmosferi, ziyaretçilere unutulmaz bir deneyim sunar.
+Öküz Mehmet Paşa Hamamı, Aydın'ın Kuşadası ilçesinde bulunan tarihi bir hamam ve plaj alanıdır. Bu tarihi hamam, Öküz Mehmet Paşa tarafından yaptırılmıştır. Hamamın tarihi geçmişi, bölgenin önemli kültürel miraslarından biridir. Öküz Mehmet Paşa Hamamı, aynı zamanda doğal güzellikleriyle de dikkat çeker. Denizin maviliği, çevredeki dağların yeşilliği ve hamamın tarihi atmosferi, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

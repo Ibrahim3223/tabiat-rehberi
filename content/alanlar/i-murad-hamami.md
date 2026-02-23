@@ -1,7 +1,7 @@
 ---
 title: "I. Murad Hamamı"
 date: "2026-01-10T04:27:24.668Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q118946695"
 
 # I. Murad Hamamı
 
-I. Murad Hamamı, İznik'in merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir hamam ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İznik Gölü'nün kıyısında yer almaktadır. Burada hem tarihi bir hamamın atmosferini deneyimleyebilir hem de plajın keyfini çıkarabilirsiniz. I. Murad Hamamı, İznik'in en önemli turistik noktalarından biri olarak kabul edilmektedir.
+I. Murad Hamamı, İznik'in merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir hamam ve plaj alanıdır. Burada hem tarihi bir hamamın atmosferini deneyimleyebilir hem de plajın keyfini çıkarabilirsiniz. I. Murad Hamamı, İznik'in en önemli turistik noktalarından biri olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ I. Murad Hamamı, Osmanlı Devleti'nin önemli padişahlarından biri olan I. Mu
 
 ## Coğrafya
 
-I. Murad Hamamı, İznik'in merkezinde yer alan ve İznik Gölü'nün kıyısında bulunan bir hamam ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en önemli turistik noktalarından biri olarak kabul edilmektedir. Hamam ve plaj alanı, İznik Gölü'nün doğal güzellikleri ile çevrilidir ve ziyaretçiler, gölü ve çevresini keşfetme fırsatı bulabilirler. İznik Gölü, Marmara Bölgesi'nin en önemli gölleri arasında yer almaktadır ve etrafındaki doğal güzellikleri ile dikkat çekmektedir. I. Murad Hamamı ve plaj alanı, İznik'in coğrafi konumu ve doğal güzellikleri ile ziyaretçilere keyifli bir gezi deneyimi sunmaktadır.
+I. Murad Hamamı, İznik'in merkezinde yer alan ve İznik Gölü'nün kıyısında bulunan bir hamam ve plaj alanıdır. Hamam ve plaj alanı, İznik Gölü'nün doğal güzellikleri ile çevrilidir ve ziyaretçiler, gölü ve çevresini keşfetme fırsatı bulabilirler. İznik Gölü, Marmara Bölgesi'nin en önemli gölleri arasında yer almaktadır ve etrafındaki doğal güzellikleri ile dikkat çekmektedir. I. Murad Hamamı ve plaj alanı, İznik'in coğrafi konumu ve doğal güzellikleri ile ziyaretçilere keyifli bir gezi deneyimi sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227574"
 
 # Eskişehir-Catacik-Degirmendere Saricam 1
 
-Eskişehir-Catacik-Degirmendere Saricam 1 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan Eskişehir ilinde bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölge halkının doğayla iç içe vakit geçirmesine olanak tanıyan bir cennet. Milli parkın etrafı, çeşitli bitki türleriyle kaplıdır ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Eskişehir ilinin merkezine uzun bir mesafe uzaklıkta bulunan bu milli park, birçok turistik destinasyona yakınlığıyla da dikkat çekmektedir.
+Eskişehir-Catacik-Degirmendere Saricam 1 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan Eskişehir ilinde bulunmaktadır. Milli parkın etrafı, çeşitli bitki türleriyle kaplıdır ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Eskişehir ilinin merkezine uzun bir mesafe uzaklıkta bulunan bu milli park, birçok turistik destinasyona yakınlığıyla da dikkat çekmektedir.
 
 ## Tarihçe
 

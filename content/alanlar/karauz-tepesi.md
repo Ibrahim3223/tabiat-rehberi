@@ -28,7 +28,7 @@ wikidata_id: "Q31581996"
 
 # Karauz Tepesi
 
-Karauz Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan yaklaşık 140 hektarlık büyüleyici bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini etkileyen geniş ve yeşil bir mekândır. Karauz Tepesi, aynı zamanda yaban hayatı açısından da oldukça zengindir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin eteklerinde, tarihi geçmişi olan köyler ve yerleşim yerleri bulunmaktadır. Bu tepenin etrafındaki manzara, doğa severlerin gözdesidir.
+Karauz Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan yaklaşık 140 hektarlık büyüleyici bir doğa harikasıdır. Karauz Tepesi, aynı zamanda yaban hayatı açısından da oldukça zengindir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin eteklerinde, tarihi geçmişi olan köyler ve yerleşim yerleri bulunmaktadır. Bu tepenin etrafındaki manzara, doğa severlerin gözdesidir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karauz Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış bir
 
 ## Coğrafya
 
-Karauz Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini etkileyen geniş ve yeşil bir mekândır. Tepenin etrafındaki manzara, doğa severlerin gözdesidir. Karauz Tepesi, aynı zamanda yaban hayatı açısından da oldukça zengindir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin eteklerinde, tarihi geçmişi olan köyler ve yerleşim yerleri bulunmaktadır. Karauz Tepesi, yaklaşık 1000 metre rakımlı bir tepe olup, bölgenin en yüksek noktalarından biridir. Tepenin etrafındaki manzara, doğa severlerin gözdesidir.
+Karauz Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan yaklaşık 140 hektarlık bir alanı kaplamaktadır. Tepenin etrafındaki manzara, doğa severlerin gözdesidir. Karauz Tepesi, aynı zamanda yaban hayatı açısından da oldukça zengindir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin eteklerinde, tarihi geçmişi olan köyler ve yerleşim yerleri bulunmaktadır. Karauz Tepesi, yaklaşık 1000 metre rakımlı bir tepe olup, bölgenin en yüksek noktalarından biridir. Tepenin etrafındaki manzara, doğa severlerin gözdesidir.
 
 ## Flora ve Fauna
 

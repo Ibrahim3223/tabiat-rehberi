@@ -69,4 +69,4 @@ Yarık Tepe, Niğde'de bulunan bir dağdır. Sabah erken gitmenizi öneririm, he
 - Yörede yapılan araştırmalar, bölgenin tarihi yerleşim için uygun olduğunu göstermiştir.
 - Bölge, flora ve fauna açısından zengin bir çeşitliliğe sahiptir.
 - Yarık Tepe, trekking ve doğa yürüyüşü için elverişli bir alandır.
-- Dağın etrafında verschill históri ve kültürel değerlere rastlama mümkündür.
+- Dağın etrafında verschill tarihi ve kültürel değerlere rastlama mümkündür.

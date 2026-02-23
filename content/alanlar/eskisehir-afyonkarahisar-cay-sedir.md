@@ -1,7 +1,7 @@
 ---
 title: "Eskişehir-Afyonkarahisar-Cay Sedir"
 date: "2026-01-09T20:58:03.288Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Eskişehir"
@@ -22,11 +22,11 @@ wikidata_id: "Q108227603"
 
 # Eskişehir-Afyonkarahisar-Cay Sedir
 
-Eskişehir-Afyonkarahisar-Cay Sedir milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden biri. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Milli parkın konumu, Eskişehir ve Afyonkarahisar arasında bulunuyor ve bu konumuyla birlikte bölgeye gelen ziyaretçilerin ilgisini çekiyor. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla birlikte bu milli park, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Eskişehir-Afyonkarahisar-Cay Sedir milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Milli parkın konumu, Eskişehir ve Afyonkarahisar arasında bulunuyor ve bu konumuyla birlikte bölgeye gelen ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 
-Eskişehir-Afyonkarahisar-Cay Sedir milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bölge, tarihi dönemde önemli bir ticaret ve kültür merkezi olarak biliniyordu. Milli parkın kurulmasıyla birlikte, bölgenin doğal güzellikleri ve tarihi değerleri korunmaya başlandı. Bu çalışmalarda, bölgenin ekosisteminin korunması ve geliştirilmesi amaçlandı. Milli parkın tarihi geçmişi, bölgenin kültürel ve doğal zenginliklerini anlamak için önemli bir kaynak. Ziyaretçiler, milli parkı gezdiklerinde, bölgenin histórik değerlerini ve doğal güzelliklerini keşfetme fırsatı buluyorlar. Milli parkın kurulması, bölgenin turizmine de katkıda bulunmuş ve ziyaretçi sayısını artırmış.
+Eskişehir-Afyonkarahisar-Cay Sedir milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bölge, tarihi dönemde önemli bir ticaret ve kültür merkezi olarak biliniyordu. Milli parkın kurulmasıyla birlikte, bölgenin doğal güzellikleri ve tarihi değerleri korunmaya başlandı. Bu çalışmalarda, bölgenin ekosisteminin korunması ve geliştirilmesi amaçlandı. Milli parkın tarihi geçmişi, bölgenin kültürel ve doğal zenginliklerini anlamak için önemli bir kaynak. Ziyaretçiler, milli parkı gezdiklerinde, bölgenin tarihi değerlerini ve doğal güzelliklerini keşfetme fırsatı buluyorlar. Milli parkın kurulması, bölgenin turizmine de katkıda bulunmuş ve ziyaretçi sayısını artırmış.
 
 ## Coğrafya
 

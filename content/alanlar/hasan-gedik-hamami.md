@@ -1,7 +1,7 @@
 ---
 title: "Hasan Gedik Hamamı"
 date: "2026-01-09T22:43:37.726Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738519"
 
 # Hasan Gedik Hamamı
 
-Hasan Gedik Hamamı, Sivas'ın Suşehri ilçesinde bulunan ve 140 hektarlık yeşil alanı ile dikkat çekici bir doğal güzelliğimizdir. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerini doğayla baş başa bırakıyor. Hasan Gedik Hamamı, hem tarihi geçmişi hem de doğal güzellikleri ile Suşehri'nin önemli turizm noktalarından biri olarak biliniyor.
+Hasan Gedik Hamamı, Sivas'ın Suşehri ilçesinde bulunan ve 140 hektarlık yeşil alanı ile dikkat çekici bir doğal güzelliğimizdir. Hasan Gedik Hamamı, hem tarihi geçmişi hem de doğal güzellikleri ile Suşehri'nin önemli turizm noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 

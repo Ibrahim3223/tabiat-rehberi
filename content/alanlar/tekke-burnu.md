@@ -1,7 +1,7 @@
 ---
 title: "Tekke Burnu"
 date: "2026-01-09T11:18:09.917Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "kus-cenneti"
 il: "Türkiye"

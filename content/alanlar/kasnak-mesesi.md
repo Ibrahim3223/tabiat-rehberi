@@ -23,7 +23,7 @@ wikidata_id: "Q108227062"
 
 # Kasnak Mesesi
 
-Kasnak Mesesi milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal miraslarından biri. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu milli park, hem doğa severler hem de tarih meraklıları için eşsiz bir deneyim sunuyor. Kasnak Mesesi milli parkı, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Kasnak Mesesi milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu milli park, hem doğa severler hem de tarih meraklıları için eşsiz bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hacı İbrahim Baba Türbesi"
 date: "2026-01-10T05:23:27.067Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"

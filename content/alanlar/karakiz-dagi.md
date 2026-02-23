@@ -28,7 +28,7 @@ wikidata_id: "Q31386005"
 
 # Karakız Dağı
 
-Karakız Dağı, Şanlıurfa'nın güneydoğusunda yer alan ve yaklaşık 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu dağ, şehrin güneydoğusunda bulunan bir sıradağının zirvesini oluşturuyor. Karakız Dağı, eteklerinde uzanan ovalar ve vadilerle birlikte, geniş bir coğrafi alanı kapsıyor. Dağın zirvesinden, Şanlıurfa'nın ve çevresinin panoramik manzarasını izleme mümkün. Karakız Dağı, hem coğrafi konumu hem de doğal güzelliği ile, ziyaretçilerini cezbeden bir destinasyon.
+ Bu dağ, şehrin güneydoğusunda bulunan bir sıradağının zirvesini oluşturuyor. Karakız Dağı, eteklerinde uzanan ovalar ve vadilerle birlikte, geniş bir coğrafi alanı kapsıyor. Dağın zirvesinden, Şanlıurfa'nın ve çevresinin panoramik manzarasını izleme mümkün. Karakız Dağı, hem coğrafi konumu hem de doğal güzelliği ile, ziyaretçilerini cezbeden bir destinasyon.
 
 ## Tarihçe
 

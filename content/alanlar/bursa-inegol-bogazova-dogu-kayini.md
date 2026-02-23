@@ -22,7 +22,7 @@ wikidata_id: "Q108228595"
 
 # Bursa-Inegol-Bogazova Dogu Kayini
 
-Bursa-Inegol-Bogazova Dogu Kayini, Marmara Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık geniş yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Bursa-Inegol-Bogazova Dogu Kayini, bölgede yer alan diğer doğal güzelliklerle birlikte, Marmara Bölgesi'nin en önemli doğal varlıklarından biridir. Ziyaretçiler, bu doğa cennetinde huzurlu bir gün geçirebilir, doğanın seslerini dinleyebilir ve güzelliğini keşfedebilir.
+Bursa-Inegol-Bogazova Dogu Kayini, Marmara Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Bursa-Inegol-Bogazova Dogu Kayini, bölgede yer alan diğer doğal güzelliklerle birlikte, Marmara Bölgesi'nin en önemli doğal varlıklarından biridir. Ziyaretçiler, bu doğa cennetinde huzurlu bir gün geçirebilir, doğanın seslerini dinleyebilir ve güzelliğini keşfedebilir.
 
 ## Tarihçe
 

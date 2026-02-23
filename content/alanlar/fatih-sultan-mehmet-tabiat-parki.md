@@ -30,7 +30,7 @@ wikidata_id: "Q30623995"
 
 # Fatih Sultan Mehmet Tabiat Parkı
 
-Fatih Sultan Mehmet Tabiat Parkı, İstanbul'un Sarıyer ilçesinde yer alan yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan olarak dikkat çekiyor. Bu 140 hektarlık park, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Fatih Sultan Mehmet Tabiat Parkı, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de yansıtıyor.
+ Bu 140 hektarlık park, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Fatih Sultan Mehmet Tabiat Parkı, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de yansıtıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Fatih Sultan Mehmet Tabiat Parkı, tarihi geçmişiyle de dikkat çekiyor. İsta
 
 ## Coğrafya
 
-Fatih Sultan Mehmet Tabiat Parkı, Marmara Bölgesi'nde yer alan İstanbul'un Sarıyer ilçesinde bulunuyor. Parkın coğrafi yapısı, genel olarak ormanlık ve yeşil alanlardan oluşuyor. Burada çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Parkın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak ılıman ve nemli bir yapıya sahip. Çevre, doğal güzellikleri ve tarihi yapılarıyla dikkat çekiyor. Fatih Sultan Mehmet Tabiat Parkı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve bu özelliği ile bölgenin en büyük doğal alanlarından biri olarak kabul ediliyor. Parkın coğrafi konumu, ziyaretçilerin İstanbul'un merkezine yakın bir konumda doğanın güzelliklerini keşfetmesine olanak tanıyor.
+Fatih Sultan Mehmet Tabiat Parkı, Marmara Bölgesi'nde yer alan İstanbul'un Sarıyer ilçesinde bulunuyor. Parkın coğrafi yapısı, genel olarak ormanlık ve yeşil alanlardan oluşuyor. Burada çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Parkın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak ılıman ve nemli bir yapıya sahip. Çevre, doğal güzellikleri ve tarihi yapılarıyla dikkat çekiyor. Parkın coğrafi konumu, ziyaretçilerin İstanbul'un merkezine yakın bir konumda doğanın güzelliklerini keşfetmesine olanak tanıyor.
 
 ## Flora ve Fauna
 

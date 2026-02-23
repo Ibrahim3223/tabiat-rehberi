@@ -1,7 +1,7 @@
 ---
 title: "Ahi Ebubekir Türbesi"
 date: "2026-01-10T05:05:49.877Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391629"
 
 # Ahi Ebubekir Türbesi
 
-Ahi Ebubekir Türbesi, Muğla'nın Yatağan ilçesinde yer alan önemli bir tarihi yapıdır. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alana yayılmış ve tarih severler için bir hazine niteliğindedir. Ahi Ebubekir Türbesi, ziyaretçilerine hem tarihi hem de kültürel bir deney sunar. Türbenin etrafında yeşillikler hakim ve ziyaretçilerin dinlenebileceği bir ortam mevcuttur. Tarihi geçmişi ve önemli konumu ile Ahi Ebubekir Türbesi, Ege Bölgesi'nin önemli turizm noktalarından biridir.
+Ahi Ebubekir Türbesi, Muğla'nın Yatağan ilçesinde yer alan önemli bir tarihi yapıdır. Ahi Ebubekir Türbesi, ziyaretçilerine hem tarihi hem de kültürel bir deney sunar. Türbenin etrafında yeşillikler hakim ve ziyaretçilerin dinlenebileceği bir ortam mevcuttur. Tarihi geçmişi ve önemli konumu ile Ahi Ebubekir Türbesi, Ege Bölgesi'nin önemli turizm noktalarından biridir.
 
 ## Tarihçe
 

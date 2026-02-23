@@ -1,7 +1,7 @@
 ---
 title: "Asude Hatun Türbesi"
 date: "2026-01-10T07:09:52.445Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390959"
 
 # Asude Hatun Türbesi
 
-Asude Hatun Türbesi, İstanbul'un Fatih ilçesinde yer alan tarihi bir türbedir. Bu türbe, aynı zamanda bir plaj olarak da bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tarihi geçmişi olan bu bölge, ziyaretçilerini hem tarihi açıdan hem de doğal güzellikleri ile çekmektedir. Asude Hatun Türbesi, İstanbul'un kalbinde bir kültür ve doğa harikası olarak dikkat çeker.
+Asude Hatun Türbesi, İstanbul'un Fatih ilçesinde yer alan tarihi bir türbedir. Bu türbe, aynı zamanda bir plaj olarak da bilinir. Tarihi geçmişi olan bu bölge, ziyaretçilerini hem tarihi açıdan hem de doğal güzellikleri ile çekmektedir. Asude Hatun Türbesi, İstanbul'un kalbinde bir kültür ve doğa harikası olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Asude Hatun Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanır. Bu 
 
 ## Coğrafya
 
-Asude Hatun Türbesi, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. Bu bölge, coğrafi konumu itibariyle deniz seviyesine yakındır ve etrafı tarihi yapılar ve yeşil alanlarla çevrilidir. Türbenin ve plajın bulunduğu alan, 140 hektarlık bir yeşil alanı kapsar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Coğrafi olarak, Asude Hatun Türbesi ve plajı, İstanbul'un merkezi bölgelerinden birinde yer alır. Etrafında çeşitli tarihi yapılar, parklar ve yeşil alanlar bulunmaktadır. İklim olarak, Marmara Bölgesi'nin ılıman iklimine sahiptir. Bölge, yaz aylarında sıcak ve nemli, kış aylarında ılıman ve yağışlı bir iklime sahiptir.
+Asude Hatun Türbesi, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. Bu bölge, coğrafi konumu itibariyle deniz seviyesine yakındır ve etrafı tarihi yapılar ve yeşil alanlarla çevrilidir. Türbenin ve plajın bulunduğu alan, 140 hektarlık bir yeşil alanı kapsar. Coğrafi olarak, Asude Hatun Türbesi ve plajı, İstanbul'un merkezi bölgelerinden birinde yer alır. Etrafında çeşitli tarihi yapılar, parklar ve yeşil alanlar bulunmaktadır. İklim olarak, Marmara Bölgesi'nin ılıman iklimine sahiptir. Bölge, yaz aylarında sıcak ve nemli, kış aylarında ılıman ve yağışlı bir iklime sahiptir.
 
 ## Flora ve Fauna
 

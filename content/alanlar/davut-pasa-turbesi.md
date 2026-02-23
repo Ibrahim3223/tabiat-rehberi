@@ -1,7 +1,7 @@
 ---
 title: "Davut Paşa Türbesi"
 date: "2026-01-10T07:22:55.592Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391047"
 
 # Davut Paşa Türbesi
 
-Davut Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi türbedir. Bu önemli tarihi mekân, çevresindeki doğal güzelliklerle birlikte ziyaretçilerini bekliyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunuyor. Tarihi geçmişi ve doğal güzellikleri ile dikkat çeken bu yer, İstanbul'un önemli turizm noktalarından biri olarak kabul ediliyor.
+Davut Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi türbedir. Bu önemli tarihi mekân, çevresindeki doğal güzelliklerle birlikte ziyaretçilerini bekliyor. Tarihi geçmişi ve doğal güzellikleri ile dikkat çeken bu yer, İstanbul'un önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

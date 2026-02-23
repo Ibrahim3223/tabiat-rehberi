@@ -22,7 +22,7 @@ wikidata_id: "Q108227740"
 
 # Zonguldak-Eregli-Caylioglu Dogu Kayini 2
 
-Zonguldak-Eregli-Caylioglu Dogu Kayini 2 milli parkı, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar. Bu bölgede, Karadeniz Bölgesi'nin karakteristik bitki örtüsüne rastlama mümkün. Milli parkın yer aldığı Zonguldak, Karadeniz Bölgesi'nin önemli illerinden biridir. Ereğli ve Çaycuma gibi ilçeler, bu bölgenin önemli yerleşim merkezleridir. Zonguldak-Eregli-Caylioglu Dogu Kayini 2 milli parkı, bu bölgede yer alan doğal güzelliklerin başlıcalarından biridir.
+ Bu bölgede, Karadeniz Bölgesi'nin karakteristik bitki örtüsüne rastlama mümkün. Milli parkın yer aldığı Zonguldak, Karadeniz Bölgesi'nin önemli illerinden biridir. Ereğli ve Çaycuma gibi ilçeler, bu bölgenin önemli yerleşim merkezleridir. Zonguldak-Eregli-Caylioglu Dogu Kayini 2 milli parkı, bu bölgede yer alan doğal güzelliklerin başlıcalarından biridir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Zonguldak-Eregli-Caylioglu Dogu Kayini 2 milli parkının tarihi geçmişi, böl
 
 ## Coğrafya
 
-Zonguldak-Eregli-Caylioglu Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alır. Milli park, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu bölgede, Karadeniz Bölgesi'nin karakteristik bitki örtüsüne rastlama mümkün. Ormanlar, milli parkın önemli bir kısmını oluşturur. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunar. Zonguldak-Eregli-Caylioglu Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin coğrafi güzelliklerinin önemli bir parçasıdır.
+Zonguldak-Eregli-Caylioglu Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alır. Bu bölgede, Karadeniz Bölgesi'nin karakteristik bitki örtüsüne rastlama mümkün. Ormanlar, milli parkın önemli bir kısmını oluşturur. Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunar. Zonguldak-Eregli-Caylioglu Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin coğrafi güzelliklerinin önemli bir parçasıdır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Zonguldak-Eregli-Caylioglu Dogu Kayini 2 milli parkını ziyaret etmek için, Zo
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Zonguldak-Eregli-Caylioglu Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin karakteristik bitki örtüsüne ev sahipliği yapar.
 - Milli parkın coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunar.
 - Zonguldak-Eregli-Caylioglu Dogu Kayini 2 milli parkı, bölgenin doğal güzelliklerini korumak amacıyla kurulmuştur.

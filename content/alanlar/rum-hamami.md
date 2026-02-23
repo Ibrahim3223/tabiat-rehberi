@@ -1,7 +1,7 @@
 ---
 title: "Rum Hamamı"
 date: "2026-01-09T23:08:01.040Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738896"
 
 # Rum Hamamı
 
-Rum Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alana yayılmıştır ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Rum Hamamı, doğanın güzelliği ve denizinin berraklığıyla ziyaretçilerini cezbeder. Plajın kumları ince ve zlat, denizi ise sakin ve berraktır. Ziyaretçiler, plajda güneşlenmek, denizde yüzme ve doğanın güzelliğini keşfetmek için gelirler. Rum Hamamı, Ege Bölgesi'nin en güzel plajlarından biridir ve her yıl çok sayıda ziyaretçi çeker.
+Rum Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alan bir plajdır. Rum Hamamı, doğanın güzelliği ve denizinin berraklığıyla ziyaretçilerini cezbeder. Plajın kumları ince ve zlat, denizi ise sakin ve berraktır. Ziyaretçiler, plajda güneşlenmek, denizde yüzme ve doğanın güzelliğini keşfetmek için gelirler. Rum Hamamı, Ege Bölgesi'nin en güzel plajlarından biridir ve her yıl çok sayıda ziyaretçi çeker.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Rum Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu plaj
 
 ## Coğrafya
 
-Rum Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alan bir plajdır. Plaj, deniz kıyısında yer alır ve etrafı, yeşilliklerle çevrilidir. Plajın kumları ince ve zlat, denizi ise sakin ve berraktır. Rum Hamamı, yaklaşık 140 hektarlık bir alana yayılmıştır ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Plajın etrafında, tarihi kalıntılar ve antik yapılar bulunmaktadır. Rum Hamamı, aynı zamanda bir doğal güzellik alanı olarak da bilinir ve ziyaretçiler, plajın güzelliğini keşfetmek için gelirler. Plajın coğrafi konumu, ziyaretçilere ilginç bilgiler sunar ve plajın güzelliğini keşfetmelerine yardımcı olur. Rum Hamamı, Ege Bölgesi'nin en güzel plajlarından biridir ve her yıl çok sayıda ziyaretçi çeker. Plajın coğrafi konumu, ziyaretçilere ilginç bir hikaye sunar ve plajın güzelliğini keşfetmelerine yardımcı olur. Rum Hamamı, deniz kıyısında yer alan bir plajdır ve etrafı, yeşilliklerle çevrilidir. Plajın kumları ince ve zlat, denizi ise sakin ve berraktır.
+Rum Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alan bir plajdır. Plaj, deniz kıyısında yer alır ve etrafı, yeşilliklerle çevrilidir. Plajın kumları ince ve zlat, denizi ise sakin ve berraktır. Plajın etrafında, tarihi kalıntılar ve antik yapılar bulunmaktadır. Rum Hamamı, aynı zamanda bir doğal güzellik alanı olarak da bilinir ve ziyaretçiler, plajın güzelliğini keşfetmek için gelirler. Plajın coğrafi konumu, ziyaretçilere ilginç bilgiler sunar ve plajın güzelliğini keşfetmelerine yardımcı olur. Rum Hamamı, Ege Bölgesi'nin en güzel plajlarından biridir ve her yıl çok sayıda ziyaretçi çeker. Plajın coğrafi konumu, ziyaretçilere ilginç bir hikaye sunar ve plajın güzelliğini keşfetmelerine yardımcı olur. Rum Hamamı, deniz kıyısında yer alan bir plajdır ve etrafı, yeşilliklerle çevrilidir. Plajın kumları ince ve zlat, denizi ise sakin ve berraktır.
 
 ## Flora ve Fauna
 

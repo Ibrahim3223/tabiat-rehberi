@@ -28,7 +28,7 @@ wikidata_id: "Q31390350"
 
 # Hasandede Tepesi
 
-Afyonkarahisar'da yer alan Hasandede Tepesi, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanıyla dikkat çekiyor. Bu tepe, Ege Bölgesi'nde bulunan önemli fiziksel verilerden biri olarak karşımıza çıkıyor. Hasandede Tepesi'nin hikayesi, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini etkileyen bir yer olarak biliniyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile oldukça geniş bir alanı kapsıyor.
+ Bu tepe, Ege Bölgesi'nde bulunan önemli fiziksel verilerden biri olarak karşımıza çıkıyor. Hasandede Tepesi'nin hikayesi, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini etkileyen bir yer olarak biliniyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hasandede Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Hasandede Tepesi, Afyonkarahisar'da yer alan bir tepe olarak Ege Bölgesi'nin coğrafi yapısını yansıtıyor. Bu tepe, 140 hektarlık yeşil alanıyla birlikte yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile oldukça geniş bir alanı kapsıyor. Hasandede Tepesi'nin coğrafi konumu, ziyaretçilerini etkileyen ve merak uyandıran bir özelliktir. Bu tepe, Ege Bölgesi'nin iklimini ve coğrafi yapısını yansıtan önemli bir fiziksel veridir. Hasandede Tepesi, Afyonkarahisar'da bulunan diğer tepe ve dağların arasında önemli bir yer tutuyor.
+Hasandede Tepesi, Afyonkarahisar'da yer alan bir tepe olarak Ege Bölgesi'nin coğrafi yapısını yansıtıyor. Hasandede Tepesi'nin coğrafi konumu, ziyaretçilerini etkileyen ve merak uyandıran bir özelliktir. Bu tepe, Ege Bölgesi'nin iklimini ve coğrafi yapısını yansıtan önemli bir fiziksel veridir. Hasandede Tepesi, Afyonkarahisar'da bulunan diğer tepe ve dağların arasında önemli bir yer tutuyor.
 
 ## Flora ve Fauna
 

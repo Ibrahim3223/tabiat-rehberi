@@ -51,11 +51,11 @@ Gülüdağ, çevresindeki coğrafi oluşumlarla ve su kaynaklarıyla bağlantıl
 
 ## Flora ve Fauna
 
-Gülüdağ'ın flora ve fauna bölümü, bu dağ ekosisteminin çeşitlili ve güzelliğini gözler önüne serer. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gülüdağ'ın flora ve fauna bölümü, bu dağ ekosisteminin çeşitlili ve güzelliğini gözler önüne serer. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, step bitki örtüsü ve bozkırın hakim olduğunu görüyoruz. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, sonbaharda kuraklığa adapte türler hüküm sürer. 
+Bitki Örtüsü bölümünde, step bitki örtüsü ve bozkırın hakim olduğunu görüyoruz. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, sonbaharda kuraklığa adapte türler hüküm sürer.
 
-Yaban Hayatı bölümünde, dağ hayvanlarının çeşitliliği dikkat çeker. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenleridir. İlkbaharda, göçmen kuşlar dağların üzerinden geçerken, yaz aylarında yaban keçileri ve dağ keçileri dağ yamaçlarında görülür. 
+Yaban Hayatı bölümünde, dağ hayvanlarının çeşitliliği dikkat çeker. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenleridir. İlkbaharda, göçmen kuşlar dağların üzerinden geçerken, yaz aylarında yaban keçileri ve dağ keçileri dağ yamaçlarında görülür.
 
 Ekolojik Değer bölümünde, Gülüdağ'ın neden önemli olduğu ve koruma durumu ele alınır. Bu dağ ekosisteminin korunması, sadece yerel fauna ve florayı değil, aynı zamanda bölgenin ekolojik dengesini de sağlar.
 

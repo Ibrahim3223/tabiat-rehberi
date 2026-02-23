@@ -28,7 +28,7 @@ wikidata_id: "Q31387610"
 
 # Aliderviş Tepe
 
-Aliderviş Tepe, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tarihi geçmişiyle birlikte doğal güzellikleri de sunan Aliderviş Tepe, ziyaretçilerini bekleyen bir hazine gibidir. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunur. Aliderviş Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar.
+Aliderviş Tepe, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Tarihi geçmişiyle birlikte doğal güzellikleri de sunan Aliderviş Tepe, ziyaretçilerini bekleyen bir hazine gibidir. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunur. Aliderviş Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Aliderviş Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu t
 
 ## Coğrafya
 
-Aliderviş Tepe, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Coğrafi olarak, Aliderviş Tepe'nin çevresi, çeşitli bitki türleri ve zengin fauna ile örtülüdür. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Aliderviş Tepe, ziyaretçilerine coğrafi açıdan zengin bir bölge sunar. Burada, coğrafi güzellikler ve doğal yaşam bir arada bulunur. Aliderviş Tepe, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biridir.
+Aliderviş Tepe, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Coğrafi olarak, Aliderviş Tepe'nin çevresi, çeşitli bitki türleri ve zengin fauna ile örtülüdür. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir. Aliderviş Tepe, ziyaretçilerine coğrafi açıdan zengin bir bölge sunar. Burada, coğrafi güzellikler ve doğal yaşam bir arada bulunur. Aliderviş Tepe, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biridir.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32138995"
 
 # Güdükkavak Tepesi
 
-Güdükkavak Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kapsar. Bu tepe, doğal güzellikleri ve tarihi zenginlikleriyle dikkat çeker. Güdükkavak Tepesi'ne çıkanlar, bölgenin eşsiz manzarasını izleyebilir vei geçmişi hakkında bilgi edinebilirler. Tepenin etrafındaki köyler ve kasabalar, ziyaretçilere yerel lezzetler sunar ve kültürel deneyimler yaşatır. Güdükkavak Tepesi, doğa severler ve tarih meraklıları için bir çekim merkezi olarak hizmet eder.
+ Bu tepe, doğal güzellikleri ve tarihi zenginlikleriyle dikkat çeker. Güdükkavak Tepesi'ne çıkanlar, bölgenin eşsiz manzarasını izleyebilir vei geçmişi hakkında bilgi edinebilirler. Tepenin etrafındaki köyler ve kasabalar, ziyaretçilere yerel lezzetler sunar ve kültürel deneyimler yaşatır. Güdükkavak Tepesi, doğa severler ve tarih meraklıları için bir çekim merkezi olarak hizmet eder.
 
 ## Tarihçe
 

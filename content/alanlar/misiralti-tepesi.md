@@ -28,7 +28,7 @@ wikidata_id: "Q31390613"
 
 # Mısıraltı Tepesi
 
-Mısıraltı Tepesi, Kırıkkale'nin eşsiz bir köşesinde yer alır ve ziyaretçilerini tarihi ve doğal güzellikleriyle baştan çıkarır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Mısıraltı Tepesi'nin etrafı, yemyeşil ormanlarla çevrilidir ve buraya gelenler, doğanın güzelliği ile baş başa kalabilirler. Tepenin üzerinde, tarihi geçmişi olan kalıntılar bulunur ve buradan, etraftaki manzaraları seyretmek mogelijk olur.
+Mısıraltı Tepesi, Kırıkkale'nin eşsiz bir köşesinde yer alır ve ziyaretçilerini tarihi ve doğal güzellikleriyle baştan çıkarır. Mısıraltı Tepesi'nin etrafı, yemyeşil ormanlarla çevrilidir ve buraya gelenler, doğanın güzelliği ile baş başa kalabilirler. Tepenin üzerinde, tarihi geçmişi olan kalıntılar bulunur ve buradan, etraftaki manzaraları seyretmek mogelijk olur.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Mısıraltı Tepesi, Kırıkkale'nin merkezine yakın bir konumda yer alır ve b
 
 ## Flora ve Fauna
 
-Mısıraltı Tepesi, flora ve fauna açısından oldukça zengindir. Burada, çeşitli bitkiler ve hayvanlar bulunur ve burası, doğa severler için bir cennet gibidir. Tepenin etrafı, yemyeşil ormanlarla çevrilidir ve buraya gelenler, doğanın güzelliği ile baş başa kalabilirler. Mısıraltı Tepesi, çeşitli mevsimlerde, farklı bitkilerin ve hayvanların yaşadığı bir bölge olup, her mevsim ziyaret edilebilir. Burada, ilkbaharda çiçekler açar, yazın yeşillikler hüküm sürer, sonbaharda yapraklar renk değiştirir ve kışın karlar düşer. Mısıraltı Tepesi, doğa severler için bir cennet gibidir ve buraya gelenler, doğanın güzelliği ile baş başa kalabilirler.
+ Burada, çeşitli bitkiler ve hayvanlar bulunur ve burası, doğa severler için bir cennet gibidir. Tepenin etrafı, yemyeşil ormanlarla çevrilidir ve buraya gelenler, doğanın güzelliği ile baş başa kalabilirler. Mısıraltı Tepesi, çeşitli mevsimlerde, farklı bitkilerin ve hayvanların yaşadığı bir bölge olup, her mevsim ziyaret edilebilir. Burada, ilkbaharda çiçekler açar, yazın yeşillikler hüküm sürer, sonbaharda yapraklar renk değiştirir ve kışın karlar düşer. Mısıraltı Tepesi, doğa severler için bir cennet gibidir ve buraya gelenler, doğanın güzelliği ile baş başa kalabilirler.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Mısıraltı Tepesi'ni ziyaret etmek, oldukça kolaydır. Buraya, Kırıkkale'ni
 
 - Mısıraltı Tepesi, Kırıkkale'nin önemli bir turizm merkezidir.
 - Tepenin etrafı, yemyeşil ormanlarla çevrilidir.
-- Mısıraltı Tepesi, flora ve fauna açısından oldukça zengindir.
+
 - Tepenin üzerinde, tarihi kalıntılar bulunur.
 - Mısıraltı Tepesi, doğa severler için bir cennet gibidir.

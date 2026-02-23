@@ -22,7 +22,7 @@ wikidata_id: "Q108227174"
 
 # Örümcek Ormani Ladini 3
 
-Örümcek Ormani Ladini 3, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için gerçek bir cennet. Parkın içinde çeşitli bitki türleri ve zengin fauna çeşitliliği ziyaretçileri bekliyor. Örümcek Ormani Ladini 3, hem doğa tutkunları hem de macera arayanlar için ideal bir destinasyon.
+Örümcek Ormani Ladini 3, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Parkın içinde çeşitli bitki türleri ve zengin fauna çeşitliliği ziyaretçileri bekliyor. Örümcek Ormani Ladini 3, hem doğa tutkunları hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

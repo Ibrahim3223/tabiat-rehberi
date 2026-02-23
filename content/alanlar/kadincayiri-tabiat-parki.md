@@ -23,7 +23,7 @@ wikidata_id: "Q108228382"
 
 # Kadınçayırı Tabiat Parkı
 
-Kadınçayırı Tabiat Parkı, Çankırı ilinin güzide bir bölgesinde, 140 hektarlık geniş bir alan üzerine kurulu. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktası. Parkın içinde çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu doğal cennet, hem doğa severler hem de dinlenmek isteyenler için ideal bir destinasyon.
+Kadınçayırı Tabiat Parkı, Çankırı ilinin güzide bir bölgesinde, 140 hektarlık geniş bir alan üzerine kurulu. Parkın içinde çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu doğal cennet, hem doğa severler hem de dinlenmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Kadınçayırı Tabiat Parkı, Çankırı ilinin coğrafi yapısına uygun olara
 
 ## Flora ve Fauna
 
-Kadınçayırı Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Parkın bitki örtüsü, bölgenin coğrafi yapısına uygun olarak oluşmuş ve geniş çayırlar, ormanlık alanlar ve dağlık arazilerde farklı bitki türlerine ev sahipliği yapar. Ayrıca, parkta yaşayan hayvanlar, bölgenin ekolojik dengesini korur ve ziyaretçilere doğal bir ortam sunar. Mevsimsel değişimler, parkın doğal güzelliklerini farklı şekillerde gösterir ve ziyaretçilere her mevsim farklı deneyimler sunar.
+ Parkın bitki örtüsü, bölgenin coğrafi yapısına uygun olarak oluşmuş ve geniş çayırlar, ormanlık alanlar ve dağlık arazilerde farklı bitki türlerine ev sahipliği yapar. Ayrıca, parkta yaşayan hayvanlar, bölgenin ekolojik dengesini korur ve ziyaretçilere doğal bir ortam sunar. Mevsimsel değişimler, parkın doğal güzelliklerini farklı şekillerde gösterir ve ziyaretçilere her mevsim farklı deneyimler sunar.
 
 ## Ziyaret Bilgileri
 

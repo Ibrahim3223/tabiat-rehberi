@@ -28,7 +28,7 @@ wikidata_id: "Q31390300"
 
 # Eşmetaş Tepesi
 
-Adana'nın Akdeniz Bölgesi'nde yer alan Eşmetaş Tepesi, şehrin önemli doğal alanlarından biridir. Eşmetaş Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Eşmetaş Tepesi, ziyaretçilerinehem doğal güzellikleri hem de tarihi değerleri sunar. Bu tepe, Adana'nın önemli turizm noktalarından biridir ve her yıl birçok ziyaretçi tarafından tercih edilir.
+Adana'nın Akdeniz Bölgesi'nde yer alan Eşmetaş Tepesi, şehrin önemli doğal alanlarından biridir. Bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Eşmetaş Tepesi, ziyaretçilerinehem doğal güzellikleri hem de tarihi değerleri sunar. Bu tepe, Adana'nın önemli turizm noktalarından biridir ve her yıl birçok ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Eşmetaş Tepesi, ziyaretçilerine birçok aktivite sunar. Bu tepe, ziyaretçile
 ## İlginç Bilgiler
 
 - Eşmetaş Tepesi, 140 hektarlık bir alanı kaplar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar.
+
 - Eşmetaş Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunar.
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmıştır.
 - Eşmetaş Tepesi, flora ve fauna açısından önemli bir alandır.

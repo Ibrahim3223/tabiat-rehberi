@@ -32,7 +32,7 @@ Türkiye'nin çeşitli coğrafi güzelliklere ev sahipliği yaptığı bir gerç
 
 ## Tarihçe
 
-Çölik Tepesi, Türkiye'nin zengin tarihsel dokusuna sahip bir bölgede yer alıyor. Bu bölge, tarihin sâu sayfalarına uzanan bir geçmişe sahip. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, binlerce yılın birikimiyle şekillenmiş. 
+Çölik Tepesi, Türkiye'nin zengin tarihsel dokusuna sahip bir bölgede yer alıyor. Bu bölge, tarihin derin sayfalarına uzanan bir geçmişe sahip. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, binlerce yılın birikimiyle şekillenmiş.
 
 Doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturuyor. Bu tür bölgeler, yalnızca doğal güzellikleri ile değil, aynı zamanda insanların yaşamlarını sürdürdükleri, yaylacılık ve hayvancılık yaparak geçimlerini sağladıkları önemli merkezler olarak da görev görmüşler. Ticaret yolları üzerinde yer alan bu bölgeler, kültürel alışveriş ve etkileşimin de önemli noktaları olmuş.
 

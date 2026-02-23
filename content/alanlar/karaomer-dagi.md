@@ -49,9 +49,9 @@ Doğal yapısına bakıldığında, Karaömer Dağı'nın fiziksel özellikleri 
 
 ## Flora ve Fauna
 
-Karaömer Dağı, step bitkileri ve bozkırın hakim olduğu bir dağ ekosistemi sunar. İklim koşullarına adapte olan kuraklığa dayanıklı türler, bu bölgenin karakterini şekillendirir. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. 
+Karaömer Dağı, step bitkileri ve bozkırın hakim olduğu bir dağ ekosistemi sunar. İklim koşullarına adapte olan kuraklığa dayanıklı türler, bu bölgenin karakterini şekillendirir. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır.
 
-Dağın yükseklik zonlarına göre değişen flora, alpin bitkilerin ortaya çıkmasını sağlar. Bu bitkiler, zorlu koşullara rağmen hayatta kalmayı başarır. Bitki örtüsünün çeşitliliği, yaban hayatı için zengin bir yaşam alanı yaratır. 
+Dağın yükseklik zonlarına göre değişen flora, alpin bitkilerin ortaya çıkmasını sağlar. Bu bitkiler, zorlu koşullara rağmen hayatta kalmayı başarır. Bitki örtüsünün çeşitliliği, yaban hayatı için zengin bir yaşam alanı yaratır.
 
 Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin birer parçası olarak, yaşam alanlarını paylaşır. Göç eden kuşlar, sonbaharda dağları ziyaret eder ve beslenme olanaklarından yararlanırlar. Bu ekosistem, canlıların birbirine bağımlı olduğu bir döngüdür. Karaömer Dağı, bu nedenle önemli bir ekolojik değer taşır ve koruma altına alınmalıdır.
 

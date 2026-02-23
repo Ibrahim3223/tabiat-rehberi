@@ -28,7 +28,7 @@ wikidata_id: "Q31388477"
 
 # Kayışkıran Tepesi
 
-Kayışkıran Tepesi, Erzurum'un yükse ve geniş alanlarını kapsayan bir doğa harikasıdır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alana sahiptir. Doğu Anadolu Bölgesi'nin gizli güzelliği olarak known, bu tepe ziyaretçilerini büyüleyici manzaralarıyla karşılar. Kayışkıran Tepesi, hem doğa severlerin hem de macera arayanların ziyaret ettiği bir destinasyondur. Tepenin yüksekliği ve genişliği, ziyaretçilere eşsiz bir deneyim sunar.
+Kayışkıran Tepesi, Erzurum'un yükse ve geniş alanlarını kapsayan bir doğa harikasıdır. Doğu Anadolu Bölgesi'nin gizli güzelliği olarak known, bu tepe ziyaretçilerini büyüleyici manzaralarıyla karşılar. Kayışkıran Tepesi, hem doğa severlerin hem de macera arayanların ziyaret ettiği bir destinasyondur. Tepenin yüksekliği ve genişliği, ziyaretçilere eşsiz bir deneyim sunar.
 
 ## Tarihçe
 

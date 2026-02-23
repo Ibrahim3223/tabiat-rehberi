@@ -36,7 +36,7 @@ Giresun bölgesi, tarihin en eski zamanlarından beri çeşitli uygarlıkların 
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamını sürdürmesi için önemli kaynaklar olmuştur. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin ekonomi ve sosyal önemini artırmıştır. Giresun bölgesinde de benzer bir şekilde, insanların coğrafi koşullarla uyum içinde yaşadığı görülmektedir. Kılıç Tepesi, bölgenin coğrafi çeşitliliğini ve doğal güzelliğini temsil etmektedir.
 
-Bu tür doğal alanlar, Türkiye'de tarih boyunca önemli birer yaşam merkezi olarak görev yapmışlardır. İnsanların bu alanlarla ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda kültürel ve sosyal bir boyut da kazanmıştır. Giresun bölgesinde, Kılıç Tepesi gibi doğal güzelliklerin korunması ve gelecek nesiller için bảo tồn edilmesi, bölgenin tarihsel ve kültürel mirasının devamı için önemlidir.
+Bu tür doğal alanlar, Türkiye'de tarih boyunca önemli birer yaşam merkezi olarak görev yapmışlardır. İnsanların bu alanlarla ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda kültürel ve sosyal bir boyut da kazanmıştır. Giresun bölgesinde, Kılıç Tepesi gibi doğal güzelliklerin korunması ve gelecek nesiller için koruma tồn edilmesi, bölgenin tarihsel ve kültürel mirasının devamı için önemlidir.
 
 ## Coğrafya
 

@@ -50,7 +50,7 @@ Doğal güzelliklerinin yanı sıra, Sarıbulak Dağı'nın fiziksel yapısı da
 
 ## Flora ve Fauna
 
-Sarıbulak Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sarıbulak Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır, yazın ise yükseklik zonlarına göre değişen alpin flora çeşitliliği ortaya çıkar. Sonbaharda, göç eden kuş sürüleri dağları bir geçiş noktası olarak kullanır.
 
 Memeliler ve kuşlar, bu dağ ekosisteminin önemli bileşenleridir. Dağ keçileri ve yaban keçileri, kayalık alanlarda yaşarken, kartallar ve doğanların yuvaları dağların yüksek kesimlerinde bulunur. Sürüngenler ise, güneşli günlerde kayaların üzerinde ısınmayı sever.

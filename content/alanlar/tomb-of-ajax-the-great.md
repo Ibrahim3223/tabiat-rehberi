@@ -30,7 +30,7 @@ wikidata_id: "Q124644585"
 
 # Tomb of Ajax the Great
 
-Tomb of Ajax the Great, İç Anadolu Bölgesi'nin büyüleyici bir köşesinde, Biga Yarımadası'nda yer alan bir plajdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Tarihi ve doğal güzelliklerinin birleştiği bu nokta, ziyaretçiler için önemli bir çekim merkezidir. Plajın çevresindeki manzara, büyüleyici bir görsellik sunar ve ziyaretçilere huzurlu bir atmosfer sağlar.
+Tomb of Ajax the Great, İç Anadolu Bölgesi'nin büyüleyici bir köşesinde, Biga Yarımadası'nda yer alan bir plajdır. Tarihi ve doğal güzelliklerinin birleştiği bu nokta, ziyaretçiler için önemli bir çekim merkezidir. Plajın çevresindeki manzara, büyüleyici bir görsellik sunar ve ziyaretçilere huzurlu bir atmosfer sağlar.
 
 ## Tarihçe
 

@@ -33,7 +33,7 @@ Mersin'in doğal güzelliklerini keşfetmek isteyenler için Direkli İni, bir j
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Hitit, Roma ve Bizans uygarlıklarının izlerini taşıyan bu bölge, tarihi ticaret yollarının da kesişme noktasıdır. Direkli İni gibi doğal oluşumlar, bu zengin tarihsel dokunun bir parçası olarak değerlendirilebilir.
+Mersin bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Hitit, Roma ve Bizans uygarlıklarının izlerini taşıyan bu bölge, tarihi ticaret yollarının da kesişme noktasıdır. Direkli İni gibi doğal oluşumlar, bu zengin tarihsel dokunun bir parçası olarak değerlendirilebilir.
 
 Tarih boyunca, insanların bu tür doğal alanlarla ilişkisi comercia, hayvancılık ve yaylacılık gibi faaliyetler etrafında şekillenmiştir. Türkiye'de, özellikle İç ve Güneydoğu Anadolu'da, yaylacılık geleneksel bir yaşam tarzı olarak devam etmektedir. Bu bölgelerde, insanların doğal alanlarla kurduğu bağ, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşır.
 

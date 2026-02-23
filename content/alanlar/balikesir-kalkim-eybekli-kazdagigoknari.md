@@ -22,7 +22,7 @@ wikidata_id: "Q108228097"
 
 # Balıkesir- Kalkim Eybekli-Kazdagigoknari
 
-Balıkesir- Kalkim Eybekli-Kazdagigoknari, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severleri bekliyor. Bölgenin coğrafi yapısı, ziyaretçilere farklı bir deneyim sunuyor. Dağların eteklerinde yer alan bu milli park, zengin florası ve faunasıyla dikkat çekiyor.
+Balıkesir- Kalkim Eybekli-Kazdagigoknari, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bölgenin coğrafi yapısı, ziyaretçilere farklı bir deneyim sunuyor. Dağların eteklerinde yer alan bu milli park, zengin florası ve faunasıyla dikkat çekiyor.
 
 ## Tarihçe
 

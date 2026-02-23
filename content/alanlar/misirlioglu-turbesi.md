@@ -1,7 +1,7 @@
 ---
 title: "Mısırlıoğlu Türbesi"
 date: "2026-01-10T07:52:22.407Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon Eyaleti"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391324"
 
 # Mısırlıoğlu Türbesi
 
-Mısırlıoğlu Türbesi, Gümüşhane'nin tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşillik bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunar. Mısırlıoğlu Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Bu türbe, Gümüşhane'nin önemli tarihi yapılarından biri olarak kabul edilir ve ziyaretçiler tarafından sıklıkla ziyaret edilir.
+Mısırlıoğlu Türbesi, Gümüşhane'nin tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşillik bir alandır. Mısırlıoğlu Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Bu türbe, Gümüşhane'nin önemli tarihi yapılarından biri olarak kabul edilir ve ziyaretçiler tarafından sıklıkla ziyaret edilir.
 
 ## Tarihçe
 

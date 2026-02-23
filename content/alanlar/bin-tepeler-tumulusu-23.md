@@ -29,7 +29,7 @@ wikidata_id: "Q134728345"
 
 # Bin Tepeler Tümülüsü 23
 
-Bin Tepeler Tümülüsü 23, Manisa'nın Salihli ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi noktalarından biri olan bir tümülüstür. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tümülüs,Bin Tepeler olarak bilinen bir bölgede yer alır ve çevresi çeşitli bitki türleriyle kaplıdır. Tarihseverlerin yanı sıra doğa severlerin de ilgisini çeken bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar.
+Bin Tepeler Tümülüsü 23, Manisa'nın Salihli ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi noktalarından biri olan bir tümülüstür. Bu tümülüs,Bin Tepeler olarak bilinen bir bölgede yer alır ve çevresi çeşitli bitki türleriyle kaplıdır. Tarihseverlerin yanı sıra doğa severlerin de ilgisini çeken bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar.
 
 ## Tarihçe
 

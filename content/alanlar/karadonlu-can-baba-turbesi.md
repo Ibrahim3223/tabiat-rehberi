@@ -1,7 +1,7 @@
 ---
 title: "Karadonlu Can Baba Türbesi"
 date: "2026-01-10T06:34:18.494Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735173"
 
 # Karadonlu Can Baba Türbesi
 
-Karadonlu Can Baba Türbesi, Kütahya'nın merkezinde yer alan ve tarihi ile doğal güzelliklerini bir araya getiren önemli bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir keşif alanı sunuyor. Tarihi geçmişi ile dikkat çeken bu mekan, aynı zamanda doğal güzelliklerini koruma altına almış durumda. Ziyaretçiler, hem tarihi hem de doğal güzelliklerini keşfetmek için burayı tercih ediyor.
+Karadonlu Can Baba Türbesi, Kütahya'nın merkezinde yer alan ve tarihi ile doğal güzelliklerini bir araya getiren önemli bir destinasyon. Tarihi geçmişi ile dikkat çeken bu mekan, aynı zamanda doğal güzelliklerini koruma altına almış durumda. Ziyaretçiler, hem tarihi hem de doğal güzelliklerini keşfetmek için burayı tercih ediyor.
 
 ## Tarihçe
 

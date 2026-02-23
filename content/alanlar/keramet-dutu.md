@@ -23,7 +23,7 @@ wikidata_id: "Q108228081"
 
 # Keramet Dutu
 
-Keramet Dutu, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Ziyaretçiler, doğanın güzelliğini keşfetmek için burayı tercih edebilirler. Keramet Dutu, doğa severler için bir cennet olarak tanımlanabilir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli park, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunmaktadır.
+Keramet Dutu, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Ziyaretçiler, doğanın güzelliğini keşfetmek için burayı tercih edebilirler. Keramet Dutu, doğa severler için bir cennet olarak tanımlanabilir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli park, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunmaktadır.
 
 ## Tarihçe
 

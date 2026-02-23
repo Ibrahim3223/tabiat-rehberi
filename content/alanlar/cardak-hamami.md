@@ -1,7 +1,7 @@
 ---
 title: "Çardak Hamamı"
 date: "2026-01-09T22:56:17.271Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738664"
 
 # Çardak Hamamı
 
-Sivrihisar'ın merkezinde yer alan Çardak Hamamı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir yeşil alana sahiptir. Bu büyüklükte bir alan, ziyaretçilere geniş ve ferah bir ortam sunar. Çardak Hamamı, Sivrihisar'ın doğal güzellikleri arasında önemli bir yer tutar. Ziyaretçiler, bu güzel ortamda doğayı keşfetme fırsatı bulur. Çardak Hamamı, Sivrihisar'ın tarihini ve kültürünü yansıtan önemli bir noktadır.
+ Bu büyüklükte bir alan, ziyaretçilere geniş ve ferah bir ortam sunar. Çardak Hamamı, Sivrihisar'ın doğal güzellikleri arasında önemli bir yer tutar. Ziyaretçiler, bu güzel ortamda doğayı keşfetme fırsatı bulur. Çardak Hamamı, Sivrihisar'ın tarihini ve kültürünü yansıtan önemli bir noktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sivrihisar'ın merkezinde yer alan Çardak Hamamı, yaklaşık 200 futbol sahas�
 
 ## Coğrafya
 
-Çardak Hamamı, Sivrihisar'ın merkezinde yer alır ve 140 hektarlık bir yeşil alanı kaplar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğündedir. Çardak Hamamı, Sivrihisar'ın coğrafi özellikleri arasında önemli bir yer tutar. Bu bölgenin coğrafyası, İç Anadolu Bölgesi'nin genel özelliklerini taşır. Çardak Hamamı, Sivrihisar'ın iklimini ve coğrafi yapısını yansıtan önemli bir noktadır. Bu bölge, Sivrihisar'ın doğal güzelliklerini ortaya koyar. Çardak Hamamı, Sivrihisar'ın coğrafi özellikleri ile ilgili bilgi edinmek isteyen ziyaretçiler için önemli bir gezi noktasıdır.
+Çardak Hamamı, Sivrihisar'ın merkezinde yer alır ve 140 hektarlık bir yeşil alanı kaplar. Çardak Hamamı, Sivrihisar'ın coğrafi özellikleri arasında önemli bir yer tutar. Bu bölgenin coğrafyası, İç Anadolu Bölgesi'nin genel özelliklerini taşır. Çardak Hamamı, Sivrihisar'ın iklimini ve coğrafi yapısını yansıtan önemli bir noktadır. Bu bölge, Sivrihisar'ın doğal güzelliklerini ortaya koyar. Çardak Hamamı, Sivrihisar'ın coğrafi özellikleri ile ilgili bilgi edinmek isteyen ziyaretçiler için önemli bir gezi noktasıdır.
 
 ## Flora ve Fauna
 

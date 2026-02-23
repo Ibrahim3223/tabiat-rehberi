@@ -50,9 +50,9 @@ Mevsimsel açıdan bakıldığında, "Serin Dağ"ın iklimi, bölgenin genel ikl
 
 ## Flora ve Fauna
 
-Serin Dağ, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, çeşitli yükseklik zonlarına adapte olmuş bitki türleriyle bezelidir. 
-Sonbaharda, dağlar göçmen kuş sürüleri ile canlanır. Bu yükseklikte yaşayan memeliler, dağ keçileri ve yaban keçileri gibi türler, zorlu koşullara adapte olmuşlardır. 
+Serin Dağ, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, çeşitli yükseklik zonlarına adapte olmuş bitki türleriyle bezelidir.
+Sonbaharda, dağlar göçmen kuş sürüleri ile canlanır. Bu yükseklikte yaşayan memeliler, dağ keçileri ve yaban keçileri gibi türler, zorlu koşullara adapte olmuşlardır.
 Ekolojik değerini koruma altına almak, bu benzersiz ekosistemin devamlılığını sağlar.
 
 ## Ziyaret Bilgileri

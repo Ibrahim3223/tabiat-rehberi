@@ -1,7 +1,7 @@
 ---
 title: "Cimcime Hatun Türbesi"
 date: "2026-01-10T06:42:19.472Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582844"
 
 # Cimcime Hatun Türbesi
 
-Cimcime Hatun Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir yer. Yakutiye'nin kalbinde yer alan bu türbe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Cimcime Hatun Türbesi, tarih ve doğa severler için önemli bir destinasyon olarak dikkat çekiyor. Tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+Cimcime Hatun Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir yer. Yakutiye'nin kalbinde yer alan bu türbe, yaklaşık 140 hektarlık bir alanı kapsıyor. Cimcime Hatun Türbesi, tarih ve doğa severler için önemli bir destinasyon olarak dikkat çekiyor. Tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

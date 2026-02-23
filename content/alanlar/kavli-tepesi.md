@@ -32,7 +32,7 @@ Diyarbakır'ın tarihi ve kültürel zenginliklerinin arasında yer alan Kavli T
 
 ## Tarihçe
 
-Diyarbakır, tarihin sâu izlerini taşıyan bir bölge olarak bilinir. Kavli Tepesi de bu tarihsel coğrafyanın bir parçasıdır. Bölge, Medler, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların hakimiyetini görmüştür. Bu zengin tarihsel miras, Diyarbakır'ı önemli bir kültürel merkez haline getirmiştir.
+Diyarbakır, tarihin derin izlerini taşıyan bir bölge olarak bilinir. Kavli Tepesi de bu tarihsel coğrafyanın bir parçasıdır. Bölge, Medler, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların hakimiyetini görmüştür. Bu zengin tarihsel miras, Diyarbakır'ı önemli bir kültürel merkez haline getirmiştir.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda insanların yaşamlarını sürdürdükleri, tarım ve hayvancılık yaptığı, ticaret yolları üzerinde bulundukları için de önemlidir. Yaylacılık, özellikle Türkiye'nin dağlık bölgelerinde önemli bir faaliyet olarak karşımıza çıkar. İnsanlar, mevsimsel olarak yüksek rakımlı bölgelere çıkar, hayvanlarını otlatır ve bu şekilde yaşamını sürdürür.
 
@@ -50,9 +50,9 @@ Bölgenin iklim karakteri, Kavli Tepesi'nin doğal güzelliklerini etkileyen ön
 
 ## Flora ve Fauna
 
-Kavli Tepesi, Diyarbakır'da yer alan bir dağ ekosistemi olarak, yarı kurak iklimin karakteristik özelliklerini taşır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlkbahar aylarında, Kavli Tepesi renkli bir hal alır; çiçekler açar ve dağ yamaçları bir örtü gibi görünür. Bu mevsimde, dağ keçileri ve yaban keçileri gibi memeliler, otlaklarda beslenirken görülür. 
-Sonbahar mevsiminde ise, göçmen kuşlar dağları geçer ve bu bölgeyi konaklama alanı olarak kullanır. Sürüngenler ve diğer küçük hayvanlar, step ve ova ekolojisinin karakteristik türleridir. 
+Kavli Tepesi, Diyarbakır'da yer alan bir dağ ekosistemi olarak, yarı kurak iklimin karakteristik özelliklerini taşır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlkbahar aylarında, Kavli Tepesi renkli bir hal alır; çiçekler açar ve dağ yamaçları bir örtü gibi görünür. Bu mevsimde, dağ keçileri ve yaban keçileri gibi memeliler, otlaklarda beslenirken görülür.
+Sonbahar mevsiminde ise, göçmen kuşlar dağları geçer ve bu bölgeyi konaklama alanı olarak kullanır. Sürüngenler ve diğer küçük hayvanlar, step ve ova ekolojisinin karakteristik türleridir.
 Kavli Tepesi, dağ ekosisteminin yükseklik zonları ve alpin florası ile önemli bir ekolojik değer taşır. Bu bölgenin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölge ekosisteminin dengesi için de önemlidir.
 
 ## Ziyaret Bilgileri

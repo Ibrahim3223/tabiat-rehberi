@@ -1,7 +1,7 @@
 ---
 title: "Çifte Gelinler Türbesi"
 date: "2026-01-10T05:47:54.519Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q135430366"
 
 # Çifte Gelinler Türbesi
 
-Çifte Gelinler Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir mekandır. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve tarihi geçmişi ile dikkat çeker. Çifte Gelinler Türbesi, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Bu alan, ziyaretçilerine hem tarihi hem de kültürel zenginlikler sunar. Çifte Gelinler Türbesi, İstanbul'un tarihi mekanları arasında önemli bir yere sahiptir ve her yıl birçok ziyaretçi tarafından tercih edilir.
+Çifte Gelinler Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir mekandır. Çifte Gelinler Türbesi, Marmara Bölgesi'nin önemli turizm merkezlerinden biridir. Bu alan, ziyaretçilerine hem tarihi hem de kültürel zenginlikler sunar. Çifte Gelinler Türbesi, İstanbul'un tarihi mekanları arasında önemli bir yere sahiptir ve her yıl birçok ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q135430366"
 
 ## Coğrafya
 
-Çifte Gelinler Türbesi, Marmara Bölgesi'nin İstanbul şehrinde yer alır. Bu mekan, Eyüpsultan ilçesinde bulunur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Çifte Gelinler Türbesi, deniz seviyesinden yüksek bir konumda yer alır. Bu mekan, çevresindeki diğer tarihi mekanlarla birlikte bir bütün olarak kabul edilir. Çifte Gelinler Türbesi, İstanbul'un diğer ilçelerine göre daha histórik bir yapıya sahiptir. Bu mekan, çevre düzenlemeleri ile birlikte ziyaretçilerine güzel bir görünüm sunar. Çifte Gelinler Türbesi, İstanbul'un iklim koşullarına uygun bir şekilde tasarlanmıştır.
+Çifte Gelinler Türbesi, Marmara Bölgesi'nin İstanbul şehrinde yer alır. Çifte Gelinler Türbesi, deniz seviyesinden yüksek bir konumda yer alır. Bu mekan, çevresindeki diğer tarihi mekanlarla birlikte bir bütün olarak kabul edilir. Çifte Gelinler Türbesi, İstanbul'un diğer ilçelerine göre daha tarihi bir yapıya sahiptir. Bu mekan, çevre düzenlemeleri ile birlikte ziyaretçilerine güzel bir görünüm sunar. Çifte Gelinler Türbesi, İstanbul'un iklim koşullarına uygun bir şekilde tasarlanmıştır.
 
 ## Flora ve Fauna
 

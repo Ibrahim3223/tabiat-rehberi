@@ -22,7 +22,7 @@ wikidata_id: "Q108228833"
 
 # Iron Sazlıkları Sulak Alanı
 
-Iron Sazlıkları Sulak Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 140 hektarlık bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık sulak alanı, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Burada, çeşitli bitki türleri ve hayvanlar, eşsiz bir ekosistem oluşturmuşlardır. Bu sulak alan, aynı zamanda birçok kuş türünün yaşam alanı olarak da bilinmektedir.
+Iron Sazlıkları Sulak Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 140 hektarlık bir doğa harikasıdır. Burada, çeşitli bitki türleri ve hayvanlar, eşsiz bir ekosistem oluşturmuşlardır. Bu sulak alan, aynı zamanda birçok kuş türünün yaşam alanı olarak da bilinmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Iron Sazlıkları Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekil
 
 ## Coğrafya
 
-Iron Sazlıkları Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Bu alan, yaklaşık 140 hektarlık bir sulak alanı kapsar ve çevredeki dağlarla çevrilidir. Burada, çeşitli bitki türleri ve hayvanlar, eşsiz bir ekosistem oluşturmuşlardır. Bu sulak alan, aynı zamanda birçok kuş türünün yaşam alanı olarak da bilinmektedir. Iron Sazlıkları Sulak Alanı, coğrafi olarak çok zengin bir alandır ve burada, birçok farklı türün yaşadığı görülmektedir. Bu alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve burada, yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçmektedir.
+Iron Sazlıkları Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Burada, çeşitli bitki türleri ve hayvanlar, eşsiz bir ekosistem oluşturmuşlardır. Bu sulak alan, aynı zamanda birçok kuş türünün yaşam alanı olarak da bilinmektedir. Iron Sazlıkları Sulak Alanı, coğrafi olarak çok zengin bir alandır ve burada, birçok farklı türün yaşadığı görülmektedir. Bu alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve burada, yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçmektedir.
 
 ## Flora ve Fauna
 

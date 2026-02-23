@@ -1,7 +1,7 @@
 ---
 title: "Yediler Türbesi"
 date: "2026-01-10T06:30:08.898Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391789"
 
 # Yediler Türbesi
 
-Yediler Türbesi, Denizli'nin Merkezefendi ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini Ege Bölgesi'nin zengin kültürüne davet ediyor. Yediler Türbesi, plajın yanı sıra tarihi bir türbe ile de ziyaretçilerini karşılayan bir nokta. Bu türbe, yüzyıllar boyunca bölge halkının inanç ve kültürel yaşamının önemli bir parçası olarak kabul edilmiş. Yediler Türbesi, hem plajın güzelliği hem de tarihi değerleri ile ziyaretçilerini bekliyor.
+Yediler Türbesi, Denizli'nin Merkezefendi ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir destinasyon. Yediler Türbesi, plajın yanı sıra tarihi bir türbe ile de ziyaretçilerini karşılayan bir nokta. Bu türbe, yüzyıllar boyunca bölge halkının inanç ve kültürel yaşamının önemli bir parçası olarak kabul edilmiş. Yediler Türbesi, hem plajın güzelliği hem de tarihi değerleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yediler Türbesi, tarihi geçmişi ile dikkat çeken bir nokta. Türbenin tam ol
 
 ## Coğrafya
 
-Yediler Türbesi, Denizli'nin Merkezefendi ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi çeşitliliği ile dikkat çekiyor. Plajın bulunduğu alan, 140 hektarlık bir genişliğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Yediler Türbesi ve plajı, bölgedeki diğer tarihi ve doğal güzelliklere de yakınlığı ile dikkat çekiyor. Denizli'nin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor ve bu, Yediler Türbesi ve çevresindeki plajın yıl boyunca ziyaretçilerini ağırlamasına uygun bir ortam sağlıyor. Yediler Türbesi, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilere zengin bir coğrafi çeşitlilik sunuyor. Bu bölge, hem deniz hem de karayla çevrili bir konumda yer alıyor ve bu, ziyaretçilere çeşitli aktivite seçenekleri sunuyor.
+Yediler Türbesi, Denizli'nin Merkezefendi ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin coğrafi çeşitliliği ile dikkat çekiyor. Yediler Türbesi ve plajı, bölgedeki diğer tarihi ve doğal güzelliklere de yakınlığı ile dikkat çekiyor. Denizli'nin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor ve bu, Yediler Türbesi ve çevresindeki plajın yıl boyunca ziyaretçilerini ağırlamasına uygun bir ortam sağlıyor. Yediler Türbesi, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilere zengin bir coğrafi çeşitlilik sunuyor. Bu bölge, hem deniz hem de karayla çevrili bir konumda yer alıyor ve bu, ziyaretçilere çeşitli aktivite seçenekleri sunuyor.
 
 ## Flora ve Fauna
 

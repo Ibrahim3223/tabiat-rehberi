@@ -28,7 +28,7 @@ wikidata_id: "Q31389696"
 
 # Sekme Tepesi
 
-Sekme Tepesi, Kastamonu'nun en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini muhteşem bir manzarayla karşılıyor. Sekme Tepesi, özellikle doğa severlerin ve fotoğraf tutkunlarının favori destinasyonlarından biri haline gelmiş durumda. Bu tepe, Kastamonu'nun tarihi ve kültürel zenginliklerini de içinde barındıran bir bölge olarak bilinir. Sekme Tepesi'ni ziyaret ettiğinizde, hem doğal güzellikleri hem de bölgenin tarihi geçmişini keşfetme fırsatı bulacaksınız.
+Sekme Tepesi, Kastamonu'nun en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Sekme Tepesi, özellikle doğa severlerin ve fotoğraf tutkunlarının favori destinasyonlarından biri haline gelmiş durumda. Bu tepe, Kastamonu'nun tarihi ve kültürel zenginliklerini de içinde barındıran bir bölge olarak bilinir. Sekme Tepesi'ni ziyaret ettiğinizde, hem doğal güzellikleri hem de bölgenin tarihi geçmişini keşfetme fırsatı bulacaksınız.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sekme Tepesi'nin tarihi geçmişi, Kastamonu'nun tarihi ile iç içe geçmiş du
 
 ## Coğrafya
 
-Sekme Tepesi, Karadeniz Bölgesi'nde, Kastamonu ilinin sınırları içinde yer alıyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Sekme Tepesi'nin coğrafi konumu, ziyaretçilerine muhteşem bir manzara sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunmakta ve bu da tepeye özel bir güzellik kazandırıyor. Sekme Tepesi'nin iklimi, Karadeniz Bölgesi'nin tipik iklimine uygun olarak yağışlı ve nemli. Bu tepe, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlıyor. Kastamonu'nun diğer turistik noktalarına da yakın olan Sekme Tepesi, bölgede gezenler için önemli bir durak noktası olarak kabul ediliyor. Sekme Tepesi'nin coğrafi yapısı, ziyaretçilerine doğa yürüyüşleri ve trekking gibi etkinlikler için ideal bir ortam sunuyor.
+Sekme Tepesi, Karadeniz Bölgesi'nde, Kastamonu ilinin sınırları içinde yer alıyor. Sekme Tepesi'nin coğrafi konumu, ziyaretçilerine muhteşem bir manzara sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunmakta ve bu da tepeye özel bir güzellik kazandırıyor. Sekme Tepesi'nin iklimi, Karadeniz Bölgesi'nin tipik iklimine uygun olarak yağışlı ve nemli. Bu tepe, özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlıyor. Kastamonu'nun diğer turistik noktalarına da yakın olan Sekme Tepesi, bölgede gezenler için önemli bir durak noktası olarak kabul ediliyor. Sekme Tepesi'nin coğrafi yapısı, ziyaretçilerine doğa yürüyüşleri ve trekking gibi etkinlikler için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 

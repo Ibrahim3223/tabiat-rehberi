@@ -29,7 +29,7 @@ wikidata_id: "Q49741892"
 
 # Bayramören Kaplıcası
 
-Bayramören Kaplıcası, Çankırı ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli termal kaynaklarından biridir. 140 hektarlık geniş bir alana kurulan kaplıca, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem sağlık hem de doğa güzellikleri açısından zengin bir deneyim sunar. Kaplıcanın termal suları, çeşitli sağlık sorunlarına iyi geldiği bilinen ve bölgeye özgü bir özellik taşır. Ziyaretçiler, kaplıcanın sunduğu imkanlarla birlikte, tarihi ve kültürel açıdan zengin bir bölgeyi keşfetme fırsatını bulur.
+Bayramören Kaplıcası, Çankırı ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli termal kaynaklarından biridir. Bu geniş alan, ziyaretçilere hem sağlık hem de doğa güzellikleri açısından zengin bir deneyim sunar. Kaplıcanın termal suları, çeşitli sağlık sorunlarına iyi geldiği bilinen ve bölgeye özgü bir özellik taşır. Ziyaretçiler, kaplıcanın sunduğu imkanlarla birlikte, tarihi ve kültürel açıdan zengin bir bölgeyi keşfetme fırsatını bulur.
 
 ## Tarihçe
 

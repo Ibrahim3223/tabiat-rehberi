@@ -32,9 +32,9 @@ Artvin'in dağlık arazisinde yer alan Güngörmez Dağı, doğal güzelliği il
 
 ## Tarihçe
 
-Güngörmez Dağı, Artvin'in yeşil örtüsünü süsleyen bir doğa harikasıdır. Bu bölgenin tarihi, binlerce yıl öncesine uzanan bir geçmişe sahiptir. Artvin, tarihin çeşitli dönemlerinde farklı uygarlıkların etkisi altında kalmıştır. Antik Çağ'da Kolheti Krallığı'nın bir parçası olan bölge, daha sonra Roma ve Bizans egemenliğine girmiştir. 
+Güngörmez Dağı, Artvin'in yeşil örtüsünü süsleyen bir doğa harikasıdır. Bu bölgenin tarihi, binlerce yıl öncesine uzanan bir geçmişe sahiptir. Artvin, tarihin çeşitli dönemlerinde farklı uygarlıkların etkisi altında kalmıştır. Antik Çağ'da Kolheti Krallığı'nın bir parçası olan bölge, daha sonra Roma ve Bizans egemenliğine girmiştir.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve kültürel yaşamın merkezi haline gelmesini sağlamıştır. Güngörmez Dağı'nın eteklerinde ve çevresinde yer alan köyler, bu geleneksel faaliyetlere ev sahipliği yapmaktadır. Ayrıca, tarihi ticaret yollarının geçtiği bu bölge, farklı kültürlerin etkileşimine tanıklık etmiştir. 
+Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve kültürel yaşamın merkezi haline gelmesini sağlamıştır. Güngörmez Dağı'nın eteklerinde ve çevresinde yer alan köyler, bu geleneksel faaliyetlere ev sahipliği yapmaktadır. Ayrıca, tarihi ticaret yollarının geçtiği bu bölge, farklı kültürlerin etkileşimine tanıklık etmiştir.
 
 Güngörmez Dağı, sadece bir doğal güzellik değil, aynı zamanda bölgenin kültürel ve tarihi kimliğinin bir parçasıdır. Bu dağ, Artvin'in zengin tarihini ve kültürel çeşitliliğini yansıtan önemli bir unsurdur.
 
@@ -50,11 +50,11 @@ Mevsimsel özellikler bakımından, Güngörmez Dağı'nın bulunduğu bölge, K
 
 ## Flora ve Fauna
 
-Güngörmez Dağı, nemli iklimin hâkim olduğu bir bölge olarak, gür ormanlar ve yüksek biyoçeşitlilik sunar. Dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker. 
+Güngörmez Dağı, nemli iklimin hâkim olduğu bir bölge olarak, gür ormanlar ve yüksek biyoçeşitlilik sunar. Dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker.
 
-Bitki örtüsünde, ilkbaharın gelmesi ile birlikte, çiçekler patlar ve dağ yamaçlarını renkli bir halı gibi kaplar. Sonbaharda ise, yaprakların dökülmesi ile birlikte, dağ manzarası bir başka güzelliğe bürünür. 
+Bitki örtüsünde, ilkbaharın gelmesi ile birlikte, çiçekler patlar ve dağ yamaçlarını renkli bir halı gibi kaplar. Sonbaharda ise, yaprakların dökülmesi ile birlikte, dağ manzarası bir başka güzelliğe bürünür.
 
-Yaban hayatı da bir o kadar çeşitlilik gösterir. Dağ keçileri, ayılar ve Vaşaklar gibi memeliler, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gibi kuşlar, gökyüzünde hâkimiyet kurar. Sürüngenler de, dağların kayalık kesimlerinde yaşamaya adapte olmuşlardır. 
+Yaban hayatı da bir o kadar çeşitlilik gösterir. Dağ keçileri, ayılar ve Vaşaklar gibi memeliler, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gibi kuşlar, gökyüzünde hâkimiyet kurar. Sürüngenler de, dağların kayalık kesimlerinde yaşamaya adapte olmuşlardır.
 
 Bu dağ ekosisteminin ekolojik değeri, yüksek biyoçeşitliliğine ve doğal dengenin korunmasına bağlıdır. Bu nedenle, koruma altına alınması ve doğal dengesinin bozulmaması büyük önem taşır.
 

@@ -32,7 +32,7 @@ Mardin'in tarihi dokusuyla iç içe geçmiş Kuzu Tepe, Türkiye'nin güneydoğu
 
 ## Tarihçe
 
-Mardin'in kayalık tepeleri arasında yer alan Kuzu Tepe, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, binlerce yıl önce, Sümerler, Asurlar ve Romalılara ev sahipliği yapmış. Mardin, tarihin her döneminde önemli ticaret yollarının kesişme noktası olmuş ve bu nedenle çeşitli uygarlıkların izlerini taşımış.
+Mardin'in kayalık tepeleri arasında yer alan Kuzu Tepe, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, binlerce yıl önce, Sümerler, Asurlar ve Romalılara ev sahipliği yapmış. Mardin, tarihin her döneminde önemli ticaret yollarının kesişme noktası olmuş ve bu nedenle çeşitli uygarlıkların izlerini taşımış.
 
 Doğal güzellikleri ve stratejik konumu nedeniyle, Kuzu Tepe gibi alanlar, Türkiye'nin tarihsel boyunca önemli rol oynamış. Bu tür doğal alanlar, geçmişte insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlamış, aynı zamanda ticaret ve kültür alışverişinin gerçekleştiği yerler olarak görev görmüş.
 

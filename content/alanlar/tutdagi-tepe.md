@@ -28,7 +28,7 @@ wikidata_id: "Q31389464"
 
 # Tutdağı Tepe
 
-Tutdağı Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan ve hem tarihsel hem de doğal güzellikleri ile dikkat çeken bir destinasyon. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülüyor. Tutdağı Tepe, ziyaretçilerini hem tarihi geçmişinin zenginliği hem de doğal güzellikleri ile büyülüyor. Bu bölge, aynı zamanda coğrafi konumu ile de dikkat çekiyor ve ziyaretçilere geniş bir manzara sunuyor.
+Tutdağı Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan ve hem tarihsel hem de doğal güzellikleri ile dikkat çeken bir destinasyon. Tutdağı Tepe, ziyaretçilerini hem tarihi geçmişinin zenginliği hem de doğal güzellikleri ile büyülüyor. Bu bölge, aynı zamanda coğrafi konumu ile de dikkat çekiyor ve ziyaretçilere geniş bir manzara sunuyor.
 
 ## Tarihçe
 

@@ -30,7 +30,7 @@ wikidata_id: "Q952924"
 
 # Bozdoğan Kemeri
 
-Bozdoğan Kemeri, İstanbul'un tarihi ve doğal güzelliklerinin birleştiği noktalardan biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un en önemli doğal ve tarihi değerlerinden biri olarak kabul edilir. Bu bölge, hem tarihi değeri hem de doğal güzelliği ile ziyaretçilerini cezbeden bir yerdir. İstanbul'un kalbinde yer alan Bozdoğan Kemeri, şehrin gürültüsünden uzaklaşmak isteyenler için sakin ve huzurlu bir ortam sunar.
+Bozdoğan Kemeri, İstanbul'un tarihi ve doğal güzelliklerinin birleştiği noktalardan biridir. Bu bölge, hem tarihi değeri hem de doğal güzelliği ile ziyaretçilerini cezbeden bir yerdir. İstanbul'un kalbinde yer alan Bozdoğan Kemeri, şehrin gürültüsünden uzaklaşmak isteyenler için sakin ve huzurlu bir ortam sunar.
 
 ## Tarihçe
 

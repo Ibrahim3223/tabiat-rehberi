@@ -28,7 +28,7 @@ wikidata_id: "Q31549039"
 
 # Giribirıni Tepesi
 
-Giribirıni Tepesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Siirt şehrinde yer alır. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak gibidir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı oldukça zengin. Giribirıni Tepesi, hem doğa severlerin hem de şehri keşfetmek isteyenlerin ilgisini çeker. Tepenin yüksekliği, şehri panoramik olarak izlemeye olanak tanır ve manzara gerçekten büyüleyicidir. Bu tepenin okolí, tarihi geçmişi ve coğrafi konumuyla dikkat çekici.
+Giribirıni Tepesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Siirt şehrinde yer alır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı oldukça zengin. Giribirıni Tepesi, hem doğa severlerin hem de şehri keşfetmek isteyenlerin ilgisini çeker. Tepenin yüksekliği, şehri panoramik olarak izlemeye olanak tanır ve manzara gerçekten büyüleyicidir. Bu tepenin okolí, tarihi geçmişi ve coğrafi konumuyla dikkat çekici.
 
 ## Tarihçe
 

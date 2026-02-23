@@ -1,7 +1,7 @@
 ---
 title: "Hacı Hamza Oğlu Kasım Türbesi"
 date: "2026-01-10T06:16:28.202Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -21,7 +21,7 @@ aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Hacı Hamza Oğlu Kasım Türbesi","caption":"Hacı Hamza Oğlu Kasım Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Hamza%20O%C4%9Flu%20Kas%C4%B1m%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390704","tip":"genel"}]
-description: "Karadeniz Bölgesi'nin güzide illerinden Bolu'da, Hacı Hamza Oğlu Kasım Türbesi, tarihin sâu izlerini taşıyan bir mekan."
+description: "Karadeniz Bölgesi'nin güzide illerinden Bolu'da, Hacı Hamza Oğlu Kasım Türbesi, tarihin derin izlerini taşıyan bir mekan."
 keywords: ["Bolu","Karadeniz Bölgesi","Türbe","Tarih","Coğrafya","Flora","Fauna","Ziyaret","Gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131390704"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390704"
 
 # Hacı Hamza Oğlu Kasım Türbesi
 
-Hacı Hamza Oğlu Kasım Türbesi, Karadeniz Bölgesi'nin kalbinde yer alan Bolu ilinin tarihi ve kültürel açıdan önemli bir mekanıdır. 140 hektarlık bir alan üzerinde konumlanan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu türbenin tarihi geçmişi, Bolu'nun zengin kültürel mirasının önemli bir parçasını oluşturur. Türbenin etrafındaki yeşillikler, ziyaretçilere huzurlu bir atmosfer sağlar.
+Hacı Hamza Oğlu Kasım Türbesi, Karadeniz Bölgesi'nin kalbinde yer alan Bolu ilinin tarihi ve kültürel açıdan önemli bir mekanıdır. Bu türbenin tarihi geçmişi, Bolu'nun zengin kültürel mirasının önemli bir parçasını oluşturur. Türbenin etrafındaki yeşillikler, ziyaretçilere huzurlu bir atmosfer sağlar.
 
 ## Tarihçe
 

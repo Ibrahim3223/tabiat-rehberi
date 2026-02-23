@@ -1,7 +1,7 @@
 ---
 title: "Saruhan Bey Türbesi"
 date: "2026-01-09T23:03:40.186Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390922"
 
 # Saruhan Bey Türbesi
 
-Saruhan Bey Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi türbe ve plajdır. Bu bölge, tarihi ve doğal güzellikleri bir arada sunmasıyla dikkat çekiyor. Saruhan Bey Türbesi, yaklaşık 140 hektarlık bir alanda yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için de cazip kılıyor. Saruhan Bey Türbesi, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Saruhan Bey Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi türbe ve plajdır. Bu bölge, tarihi ve doğal güzellikleri bir arada sunmasıyla dikkat çekiyor. Saruhan Bey Türbesi, yaklaşık 140 hektarlık bir alanda yer alıyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için de cazip kılıyor. Saruhan Bey Türbesi, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Saruhan Bey Türbesi, tarihi geçmişi ile dikkat çekiyor. Türbenin yüzyılla
 
 ## Coğrafya
 
-Saruhan Bey Türbesi, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan zengin bir çeşitlilik sunuyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için de cazip kılıyor. Saruhan Bey Türbesi, yaklaşık 140 hektarlık bir alanda yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Türbenin bulunduğu bölge, genellikle ılıman bir iklime sahip. Kış ayları ılık ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim, ziyaretçilerin yıl boyunca türbeyi ve çevresini ziyaret etmeleri için uygun koşullar sunuyor. Saruhan Bey Türbesi, coğrafi konumu ve doğal güzellikleriyle, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Saruhan Bey Türbesi, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan zengin bir çeşitlilik sunuyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için de cazip kılıyor. Saruhan Bey Türbesi, yaklaşık 140 hektarlık bir alanda yer alıyor. Türbenin bulunduğu bölge, genellikle ılıman bir iklime sahip. Kış ayları ılık ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim, ziyaretçilerin yıl boyunca türbeyi ve çevresini ziyaret etmeleri için uygun koşullar sunuyor. Saruhan Bey Türbesi, coğrafi konumu ve doğal güzellikleriyle, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32210883"
 
 # Küçük Hüyük
 
-Küçük Hüyük, Hatay ilinde yer alan ve tarihi geçmişi ile dikkat çeken bir bölgedir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi olarak zengin bir yapıya sahiptir. Bu bölge, hem tarihi hem de coğrafi açıdan önemli bir konumda bulunur. Ziyaretçiler, burada bulunan tarihi kalıntıları keşfedebilir ve aynı zamanda doğal güzellikleri discovery edebilir. Küçük Hüyük, turizm açısından da önemli bir destinasyondur.
+Küçük Hüyük, Hatay ilinde yer alan ve tarihi geçmişi ile dikkat çeken bir bölgedir. Bu bölge, hem tarihi hem de coğrafi açıdan önemli bir konumda bulunur. Ziyaretçiler, burada bulunan tarihi kalıntıları keşfedebilir ve aynı zamanda doğal güzellikleri discovery edebilir. Küçük Hüyük, turizm açısından da önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Küçük Hüyük'ün tarihi geçmişi, yüzyıllar boyunca farklı uygarlıklar�
 
 ## Coğrafya
 
-Küçük Hüyük, Hatay ilinin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplamaktadır ve coğrafi açıdan önemli bir konumda bulunur. Küçük Hüyük'ün coğrafyası, ziyaretçilere doğal güzellikleri sunmaktadır. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahiptir. İklimi, Akdeniz Bölgesi'ne özgü olarak sıcak ve nemlidir. Küçük Hüyük'ün coğrafyası, ziyaretçilere geniş bir alan sunmaktadır ve bu da ziyaretçilere çeşitli aktiviteler yapma imkanı vermektedir. Bölgenin coğrafi yapısı, ziyaretçilere doğayı keşfetme fırsatı sunmaktadır.
+Küçük Hüyük, Hatay ilinin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplamaktadır ve coğrafi açıdan önemli bir konumda bulunur. Küçük Hüyük'ün coğrafyası, ziyaretçilere doğal güzellikleri sunmaktadır. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahiptir. İklimi, Akdeniz Bölgesi'ne özgü olarak sıcak ve nemlidir. Küçük Hüyük'ün coğrafyası, ziyaretçilere geniş bir alan sunmaktadır ve bu da ziyaretçilere çeşitli aktiviteler yapma imkanı vermektedir.
 
 ## Flora ve Fauna
 
-Küçük Hüyük, flora ve fauna açısından zengin bir bölgedir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bölgenin ekosistemi, ziyaretçilere doğal güzellikleri sunmaktadır. Mevsimsel değişimler, bölgenin flora ve faunasını etkilemektedir. Küçük Hüyük'ün flora ve faunası, ziyaretçilere doğayı keşfetme fırsatı sunmaktadır. Bölgede, çeşitli kuş türleri ve diğerlar yaşamaktadır ve bu da Küçük Hüyük'ü özel kılmaktadır. Ziyaretçiler, burada bulunan flora ve faunayı keşfedebilir ve doğayı discovery edebilir.
+Küçük Hüyük, flora ve fauna açısından zengin bir bölgedir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bölgenin ekosistemi, ziyaretçilere doğal güzellikleri sunmaktadır. Mevsimsel değişimler, bölgenin flora ve faunasını etkilemektedir. Bölgede, çeşitli kuş türleri ve diğerlar yaşamaktadır ve bu da Küçük Hüyük'ü özel kılmaktadır. Ziyaretçiler, burada bulunan flora ve faunayı keşfedebilir ve doğayı discovery edebilir.
 
 ## Ziyaret Bilgileri
 

@@ -44,9 +44,9 @@ Doğal kaynaklar açısından, Fyndyjak dağının bulunduğu bölge, su kaynakl
 
 ## Flora ve Fauna
 
-Fyndyjak dağının eteklerinde, maki bitki örtüsünün hâkimiyeti dikkat çekiyor. İlkbaharın gelmesiyle birlikte, kuraklığa dayanıklı türlerin arasında renkli çiçekler açıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Fyndyjak dağının eteklerinde, maki bitki örtüsünün hâkimiyeti dikkat çekiyor. İlkbaharın gelmesiyle birlikte, kuraklığa dayanıklı türlerin arasında renkli çiçekler açıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünün çeşitliliği, dağ ekosisteminin yükseklik zonlarına bağlı olarak değişiyor. Alpine flora, dağların yüksek kesimlerinde hüküm sürerken, kıyı ekosistemi de bu çeşitliliği destekliyor. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu alanı ziyaret ediyor. 
+Bitki örtüsünün çeşitliliği, dağ ekosisteminin yükseklik zonlarına bağlı olarak değişiyor. Alpine flora, dağların yüksek kesimlerinde hüküm sürerken, kıyı ekosistemi de bu çeşitliliği destekliyor. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu alanı ziyaret ediyor.
 
 Dağların yüksek kesimlerinde, memeliler ve sürüngenler yaşamını sürdürüyor. Bu canlıların yaşam alanları, dağ ekosisteminin farklı zonlarına bağlı olarak değişiyor. Ekolojik ilişkiler, bu canlıların birbiriyle ve çevreye bağımlılığını gösteriyor. Fyndyjak dağının ekolojik değeri, bu çeşitliliğin korunmasıyla doğrudan ilgili.
 

@@ -50,7 +50,7 @@ Mevsimsel açıdan, Buluntu Dağı surroundingsında hava koşulları Karadeniz 
 
 ## Flora ve Fauna
 
-Buluntu Dağı, Rize'nin nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur. 
+Buluntu Dağı, Rize'nin nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur.
 
 Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çeşitli çiçekler açar. Sonbaharda ise ormanların renk paleti değişir ve sarı, kızıl tonlara bürünür. Bu mevsimsel değişim, dağda yaşayan canlılar için önemli bir ekolojik döngüdür.
 

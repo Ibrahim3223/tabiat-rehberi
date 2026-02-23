@@ -1,7 +1,7 @@
 ---
 title: "Merkez Efendi Türbesi"
 date: "2026-01-10T07:12:19.723Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390980"
 
 # Merkez Efendi Türbesi
 
-Merkez Efendi Türbesi, Zeytinburnu'nda bulunan ve İstanbul'un önemli tarihi ve dini mekanlarından biri olarak kabul edilen bir türbedir. 140 hektarlık bir alanda yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Merkez Efendi Türbesi, tarihi geçmişi ve dini önemiyle ziyaretçilerini cezbeder. Bu türbe, aynı zamanda İstanbul'un kültürel zenginliğinin önemli bir parçasıdır. Zeytinburnu'nda yer alan bu tarihi mekan, İstanbul'un turistik आकर noktalarından biridir.
+Merkez Efendi Türbesi, Zeytinburnu'nda bulunan ve İstanbul'un önemli tarihi ve dini mekanlarından biri olarak kabul edilen bir türbedir. Merkez Efendi Türbesi, tarihi geçmişi ve dini önemiyle ziyaretçilerini cezbeder. Bu türbe, aynı zamanda İstanbul'un kültürel zenginliğinin önemli bir parçasıdır. Zeytinburnu'nda yer alan bu tarihi mekan, İstanbul'un turistik आकर noktalarından biridir.
 
 ## Tarihçe
 

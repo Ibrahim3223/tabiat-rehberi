@@ -1,7 +1,7 @@
 ---
 title: "Rhodiapolis Büyük Hamam"
 date: "2026-01-09T23:39:12.571Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739203"
 
 # Rhodiapolis Büyük Hamam
 
-Rhodiapolis Büyük Hamam, Kumluca districtinde yer alan ve Antalya'nın zengin tarihi mirasını yansıtan önemli bir tarihi eserdir. Bu büyük hamam, Rhodiapolis antik kentinde bulunan önemli yapılar arasında yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere antik dönemlerin ihtişamını hissettirir. Rhodiapolis Büyük Hamam, tarihi değerlerinin yanı sıra, doğal güzellikleri ile de ziyaretçilerini cezbeder. Ziyaretçiler, burada hem tarihi yapıları keşfedebilir hem de çevrenin doğal güzelliğini deneyimleyebilir.
+Rhodiapolis Büyük Hamam, Kumluca districtinde yer alan ve Antalya'nın zengin tarihi mirasını yansıtan önemli bir tarihi eserdir. Bu büyük hamam, Rhodiapolis antik kentinde bulunan önemli yapılar arasında yer alır. Rhodiapolis Büyük Hamam, tarihi değerlerinin yanı sıra, doğal güzellikleri ile de ziyaretçilerini cezbeder. Ziyaretçiler, burada hem tarihi yapıları keşfedebilir hem de çevrenin doğal güzelliğini deneyimleyebilir.
 
 ## Tarihçe
 

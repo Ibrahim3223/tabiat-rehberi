@@ -1,7 +1,7 @@
 ---
 title: "Hasan Fehmi Paşa Türbesi"
 date: "2026-01-10T07:20:31.834Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,11 +29,11 @@ wikidata_id: "Q131391015"
 
 # Hasan Fehmi Paşa Türbesi
 
-Hasan Fehmi Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi yapıdır. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda bulunmaktadır. Türbenin bulunduğu alan, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Hasan Fehmi Paşa Türbesi, ziyaretçilerini tarihi ve doğası ile çekmektedir. Türbenin çevresinde, çeşitli bitkiler ve ağaçlar bulunmaktadır. Bu bitkiler, türbenin etrafını yeşillendirmektedir. Hasan Fehmi Paşa Türbesi, ziyaretçilerini bekliyor.
+Hasan Fehmi Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi yapıdır. Türbenin bulunduğu alan, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Hasan Fehmi Paşa Türbesi, ziyaretçilerini tarihi ve doğası ile çekmektedir. Türbenin çevresinde, çeşitli bitkiler ve ağaçlar bulunmaktadır. Bu bitkiler, türbenin etrafını yeşillendirmektedir. Hasan Fehmi Paşa Türbesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
-Hasan Fehmi Paşa Türbesi, histórik bir geçmişe sahiptir. Türbenin tam olarak ne zaman yapıldığı bilinmemekle birlikte, yüzyıllar boyunca birçok önemli olaya tanık olmuştur. Türbe, Osmanlı döneminde yapılmış bir yapıdır. Osmanlı döneminde, birçok önemli kişi bu türbeye defnedilmiştir. Hasan Fehmi Paşa Türbesi, tarihinin zenginliği ile dikkat çekmektedir. Türbenin tarihi geçmişi, ziyaretçileri tarafından merakla araştırılmaktadır. Türbenin geçmişi, birçok önemli olayı içermektedir. Bu olaylar, türbenin tarihini zenginleştirmektedir. Hasan Fehmi Paşa Türbesi, tarihinin zenginliği ile ziyaretçilerini bekliyor.
+Hasan Fehmi Paşa Türbesi, tarihi bir geçmişe sahiptir. Türbenin tam olarak ne zaman yapıldığı bilinmemekle birlikte, yüzyıllar boyunca birçok önemli olaya tanık olmuştur. Türbe, Osmanlı döneminde yapılmış bir yapıdır. Osmanlı döneminde, birçok önemli kişi bu türbeye defnedilmiştir. Hasan Fehmi Paşa Türbesi, tarihinin zenginliği ile dikkat çekmektedir. Türbenin tarihi geçmişi, ziyaretçileri tarafından merakla araştırılmaktadır. Türbenin geçmişi, birçok önemli olayı içermektedir. Bu olaylar, türbenin tarihini zenginleştirmektedir. Hasan Fehmi Paşa Türbesi, tarihinin zenginliği ile ziyaretçilerini bekliyor.
 
 ## Coğrafya
 

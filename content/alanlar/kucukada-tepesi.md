@@ -48,11 +48,11 @@ Mevsimsel değişikliklere göre, Küçükada Tepesi'nin iklim karakteri Ankara'
 
 ## Flora ve Fauna
 
-Küçükada Tepesi, Ankara'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çeker. 
+Küçükada Tepesi, Ankara'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çeker.
 
-Bitki Örtüsü bölümünde, ilkbahar aylarında dağ yamaçlarını renklendiren çiçeklerin açtığını görürüz. Step bitkileri ve bozkır türleri, kuraklığa adapte olmuş ve bu bölgenin karakteristik özellikleridir. 
+Bitki Örtüsü bölümünde, ilkbahar aylarında dağ yamaçlarını renklendiren çiçeklerin açtığını görürüz. Step bitkileri ve bozkır türleri, kuraklığa adapte olmuş ve bu bölgenin karakteristik özellikleridir.
 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler gibi çeşitli canlılara rastlanır. İlkbahar ve yaz aylarında dağların yeşillendiği dönemde, bu canlılar yaşam alanlarında aktif olarak görülürler. Sonbaharda ise, göç eden kuşlar bu bölgeden geçerler. 
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler gibi çeşitli canlılara rastlanır. İlkbahar ve yaz aylarında dağların yeşillendiği dönemde, bu canlılar yaşam alanlarında aktif olarak görülürler. Sonbaharda ise, göç eden kuşlar bu bölgeden geçerler.
 
 Ekolojik Değer olarak, Küçükada Tepesi'nin bu dağ ekosisteminin korunması önemlidir. Bu alanın step bitki örtüsü ve bozkır türleri, Ankara'nın ekolojik dengesini sağlar. Bu nedenle, bu bölgenin korunmasına dikkat etmek gerekir.
 

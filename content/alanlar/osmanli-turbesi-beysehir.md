@@ -1,7 +1,7 @@
 ---
 title: "Osmanlı Türbesi, Beyşehir"
 date: "2026-01-10T05:39:26.819Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582354"
 
 # Osmanlı Türbesi, Beyşehir
 
-Osmanlı Türbesi, Beyşehir, Konya'nın tarihi ve kültürel zenginliklerinin bir parçasıdır. 140 hektarlık bir alanda yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu geniş alan, ziyaretçilere tarihi ve doğal güzellikleri bir arada deneyimleme fırsatı sunar. Türbenin mimarisi, Osmanlı döneminin karakteristik özelliklerini taşır ve bu yapı, Konya'nın önemli kültürel varlıklarından biri olarak kabul edilir. Osmanlı Türbesi, Beyşehir'in merkezinde yer alır ve kolay ulaşılabilir bir konuma sahiptir.
+Osmanlı Türbesi, Beyşehir, Konya'nın tarihi ve kültürel zenginliklerinin bir parçasıdır. Bu geniş alan, ziyaretçilere tarihi ve doğal güzellikleri bir arada deneyimleme fırsatı sunar. Türbenin mimarisi, Osmanlı döneminin karakteristik özelliklerini taşır ve bu yapı, Konya'nın önemli kültürel varlıklarından biri olarak kabul edilir. Osmanlı Türbesi, Beyşehir'in merkezinde yer alır ve kolay ulaşılabilir bir konuma sahiptir.
 
 ## Tarihçe
 

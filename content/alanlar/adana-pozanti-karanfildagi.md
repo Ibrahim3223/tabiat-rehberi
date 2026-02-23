@@ -22,7 +22,7 @@ wikidata_id: "Q108227378"
 
 # Adana-Pozanti-Karanfildagi
 
-Adana-Pozanti-Karanfildagi milli parkı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu milli park, ziyaretçilerine zengin bir flora ve fauna sunar. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemdir. Milli parkın konumu, Akdeniz Bölgesi'nde yer almasıyla birlikte, ziyaretçilerine eşsiz bir doğa deneyimi sunar. Burada, doğanın güzelliğini keşfetme ve doğayla iç içe olma mümkündür.
+ Bu milli park, ziyaretçilerine zengin bir flora ve fauna sunar. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemdir. Milli parkın konumu, Akdeniz Bölgesi'nde yer almasıyla birlikte, ziyaretçilerine eşsiz bir doğa deneyimi sunar. Burada, doğanın güzelliğini keşfetme ve doğayla iç içe olma mümkündür.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adana-Pozanti-Karanfildagi milli parkının tarihi geçmişi, yüzyıllar boyunc
 
 ## Coğrafya
 
-Adana-Pozanti-Karanfildagi milli parkı, Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu milli park, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir ekosistemdir. Milli parkın konumu, Akdeniz Bölgesi'nde yer almasıyla birlikte, ziyaretçilerine eşsiz bir doğa deneyimi sunar. Burada, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistem bulunmaktadır. Milli parkın coğrafi yapısı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar. Bu bölgede, dağlar, ormanlar ve nehirler bulunmaktadır. Milli parkın iklimi, Akdeniz iklimi karakteristiklerini taşır. Bu nedenle, ziyaretçilerine çeşitli mevsimsel değişimler sunar.
+Adana-Pozanti-Karanfildagi milli parkı, Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Milli parkın konumu, Akdeniz Bölgesi'nde yer almasıyla birlikte, ziyaretçilerine eşsiz bir doğa deneyimi sunar. Burada, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistem bulunmaktadır. Milli parkın coğrafi yapısı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar. Bu bölgede, dağlar, ormanlar ve nehirler bulunmaktadır. Milli parkın iklimi, Akdeniz iklimi karakteristiklerini taşır. Bu nedenle, ziyaretçilerine çeşitli mevsimsel değişimler sunar.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Adana-Pozanti-Karanfildagi milli parkını ziyaret etmek, doğanın güzelliğin
 
 ## İlginç Bilgiler
 
-- Adana-Pozanti-Karanfildagi milli parkının 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
 - Milli parkın flora ve faunası, mevsimsel değişimlere göre şekillenir.
 - Milli parkın coğrafi yapısı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar.
 - Milli parkın iklimi, Akdeniz iklimi karakteristiklerini taşır.

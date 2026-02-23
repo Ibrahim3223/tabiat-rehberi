@@ -34,7 +34,7 @@ Artvin'in dağlık arazisinde yer alan Uğrak Dağı, şehrin doğal güzellikle
 
 Uğrak Dağı, tarihi ve kültürel zenginliklerle dolu Artvin bölgesinin önemli doğal güzelliklerinden biridir. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yaşadığı stratejik bir konumda yer alır. Artvin, tarihin farklı dönemlerinde Gürcü Krallığı, Selçuklu İmparatorluğu ve Osmanlı İmparatorluğu gibi büyük devletlerin egemenliği altında bulunmuştur. Bu çeşitlilik, bölgenin kültürel mirasına zenginlik katmıştır.
 
-Doğal güzellikleri ve coğrafi konumuyla Uğrak Dağı, bölgenin ekonomisi ve kültürü için önemli bir role sahiptir. Türkiye'de, özellikle Doğu Karadeniz Bölgesi'nde, bu tür doğal alanlar históriki olarak yaylacılık, hayvancılık ve ticaret yolları için kritik öneme sahiptir. İnsanların bu alanlarla olan ilişkisi, bölgenin sosyal ve ekonomik yapısını şekillendirmiştir. Uğrak Dağı, bu bağlamda, bölgenin tarihi ve kültürel dokusunun önemli bir parçasını oluşturur.
+Doğal güzellikleri ve coğrafi konumuyla Uğrak Dağı, bölgenin ekonomisi ve kültürü için önemli bir role sahiptir. Türkiye'de, özellikle Doğu Karadeniz Bölgesi'nde, bu tür doğal alanlar tarihi olarak yaylacılık, hayvancılık ve ticaret yolları için kritik öneme sahiptir. İnsanların bu alanlarla olan ilişkisi, bölgenin sosyal ve ekonomik yapısını şekillendirmiştir. Uğrak Dağı, bu bağlamda, bölgenin tarihi ve kültürel dokusunun önemli bir parçasını oluşturur.
 
 ## Coğrafya
 

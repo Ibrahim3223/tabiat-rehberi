@@ -28,7 +28,7 @@ wikidata_id: "Q35731442"
 
 # Büyüktojo Tepesi
 
-Büyüktojo Tepesi, Diyarbakır'ın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli bir bölümünü kapsıyor. Bu tepe, şehrin tarihini ve kültürünü anlamak için önemli bir nokta. Büyüktojo Tepesi, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepede, doğa yürüyüşleri ve tarihi keşifler yapma mümkün.
+Büyüktojo Tepesi, Diyarbakır'ın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Bu tepe, şehrin tarihini ve kültürünü anlamak için önemli bir nokta. Büyüktojo Tepesi, aynı zamanda doğal güzellikleri ile de dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepede, doğa yürüyüşleri ve tarihi keşifler yapma mümkün.
 
 ## Tarihçe
 

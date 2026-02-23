@@ -34,7 +34,7 @@ Tunceli'nin dağlık coğrafyasında, Ziri Dağı gibi gizli cennetler bulunmakt
 
 Tunceli bölgesi, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir coğrafyadır. Ziri Dağı da bu bölgenin bir parçasıdır. Bölge, Hitit, Pers, Roma ve Osmanlı gibi medeniyetlerin izlerini taşır. Bu bölgede yaşayan insanlar, yüzyıllar boyunca yaylacılık, hayvancılık ve ticaret gibi faaliyetlerle geçimlerini sağlamışlardır.
 
-Doğal güzellikleri ve stratejik konumuyla, Tunceli ve çevresindeki dağlar, históri boyunca önemli ticaret yollarının kavşak noktası olmuştur. İnsanlar, bu bölgedeki dağları ve vadileri, ticaret ve kültür alışverişinin yanı sıra, hayvancılık ve tarım için de kullanmışlardır. Ziri Dağı da, bu bölgenin doğal güzelliklerinin bir parçası olarak, insanların yaşamına dahil olmuş ve bölgenin kültürel mirasına katkıda bulunmuştur.
+Doğal güzellikleri ve stratejik konumuyla, Tunceli ve çevresindeki dağlar, tarihi boyunca önemli ticaret yollarının kavşak noktası olmuştur. İnsanlar, bu bölgedeki dağları ve vadileri, ticaret ve kültür alışverişinin yanı sıra, hayvancılık ve tarım için de kullanmışlardır. Ziri Dağı da, bu bölgenin doğal güzelliklerinin bir parçası olarak, insanların yaşamına dahil olmuş ve bölgenin kültürel mirasına katkıda bulunmuştur.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçasını oluşturur. İnsanların bu alanlarla olan ilişkisi, sadece ekonomik değil, aynı zamanda sosyal ve kültürel boyutları da içerir. Ziri Dağı ve benzeri doğal güzellikler, Türkiye'nin coğrafi çeşitliliğini ve zenginliğini gözler önüne serer.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31573827"
 
 # Giridar Tepe
 
-Mardin'in histórik şehir manzarasına hakim bir konumda bulunan Giridar Tepe, bölgeye gelen ziyaretçilerin dikkatini çekmeyi başaran bir dağ. Mardin'in zengin kültürel mirasına ev sahipliği yapan bu tepe, ilin coğrafi çeşitliliğini de gözler önüne seriyor. Giridar Tepe, Mardin'in merkezinde yer alan önemli bir nokta olarak dikkat çekiyor. Bu dağ, Mardin'in tarihî dokusunu keşfetmek isteyenler için bir başlangıç noktası olarak işlev görüyor.
+Mardin'in tarihi şehir manzarasına hakim bir konumda bulunan Giridar Tepe, bölgeye gelen ziyaretçilerin dikkatini çekmeyi başaran bir dağ. Mardin'in zengin kültürel mirasına ev sahipliği yapan bu tepe, ilin coğrafi çeşitliliğini de gözler önüne seriyor. Giridar Tepe, Mardin'in merkezinde yer alan önemli bir nokta olarak dikkat çekiyor. Bu dağ, Mardin'in tarihî dokusunu keşfetmek isteyenler için bir başlangıç noktası olarak işlev görüyor.
 
 ## Tarihçe
 

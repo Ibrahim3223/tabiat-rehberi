@@ -50,11 +50,11 @@ Doğal çevreye bakıldığında, Ağıl Dağı'nın komşu alanlar ve su kaynak
 
 ## Flora ve Fauna
 
-Ağıl Dağı, Afyonkarahisar'ın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle donanır ve havayı mis gibi kokularla doldurur. 
+Ağıl Dağı, Afyonkarahisar'ın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle donanır ve havayı mis gibi kokularla doldurur.
 
-Bitki örtüsünde çam ağaçları hakimdir, ancak mevsimsel değişimlerle birlikte, alpin flora ortaya çıkar. Dağın yükseklik zonlarına bağlı olarak, farklı bitki türleri alanlarını oluşturur. 
+Bitki örtüsünde çam ağaçları hakimdir, ancak mevsimsel değişimlerle birlikte, alpin flora ortaya çıkar. Dağın yükseklik zonlarına bağlı olarak, farklı bitki türleri alanlarını oluşturur.
 
-Yaban hayatı da bir o kadar çeşitli ve zengin. Dağ keçileri, yaban domuzları gibi memeliler, kartallar, şahinler gibi kuşlar ve çeşitli sürüngenler bu dağda yaşamını sürdürür. Göç mevsiminde, binlerce kuş bu bölgeden geçer ve doğa severlerin ilgisini çeker. 
+Yaban hayatı da bir o kadar çeşitli ve zengin. Dağ keçileri, yaban domuzları gibi memeliler, kartallar, şahinler gibi kuşlar ve çeşitli sürüngenler bu dağda yaşamını sürdürür. Göç mevsiminde, binlerce kuş bu bölgeden geçer ve doğa severlerin ilgisini çeker.
 
 Ağıl Dağı, ekolojik değer açısından önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve su kaynaklarını korumak için hayati önem taşır.
 

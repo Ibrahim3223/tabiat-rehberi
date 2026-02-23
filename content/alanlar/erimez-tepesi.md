@@ -28,7 +28,7 @@ wikidata_id: "Q31568142"
 
 # Erimez Tepesi
 
-Erimez Tepesi, Giresun'un güzide bir bölgesinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan yeşil bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Erimez Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi. Bu tepenin eteklerinde yer alan köyler, ziyaretçilere konaklama ve yemek imkanları sunuyor. Giresun'un tarihi geçmişi ve kültürel zenginliği, Erimez Tepesi ziyaretçilerini bekliyor.
+Erimez Tepesi, Giresun'un güzide bir bölgesinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan yeşil bir tepe. Erimez Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi. Bu tepenin eteklerinde yer alan köyler, ziyaretçilere konaklama ve yemek imkanları sunuyor. Giresun'un tarihi geçmişi ve kültürel zenginliği, Erimez Tepesi ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

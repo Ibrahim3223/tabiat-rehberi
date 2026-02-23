@@ -53,7 +53,7 @@ Yaz aylarında sıcaklık 30 dereceye ulaşan bu bölgede, mevsimsel değişimle
 
 Kabakbaşı Dağı, step bitki örtüsü ve bozkırın karakteristik özelliklerini taşıyan bir dağ ekosistemi olarak dikkat çekiyor. Bu yükseklik zonlarında, alpin flora çeşitliliği göze çarpıyor. İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle süsleniyor. Sonbaharda ise, göç eden kuş sürüleri dağların üzerinden geçiyor.
 
-Dağın bitkisel örtüsünü step otları ve kuraklığa adapte olmuş türler oluşturuyor. Bu bitkiler, suyun az olduğu bölgelerde hayatta kalmak için özel mekanizmalar geliştirmişler. Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri ve yaban domuzları gibi memeliler, dağların kaya dik yamaçlarında yaşamlarını sürdürüyorlar. 
+Dağın bitkisel örtüsünü step otları ve kuraklığa adapte olmuş türler oluşturuyor. Bu bitkiler, suyun az olduğu bölgelerde hayatta kalmak için özel mekanizmalar geliştirmişler. Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri ve yaban domuzları gibi memeliler, dağların kaya dik yamaçlarında yaşamlarını sürdürüyorlar.
 
 Kabakbaşı Dağı, ekolojik açıdan önemli bir bölge olarak kabul ediliyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve su kaynaklarını güvence altına almak açısından büyük önem taşıyor.
 

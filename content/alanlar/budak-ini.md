@@ -33,11 +33,11 @@ Konya'nın coğrafi çeşitliliği, Türkiye'nin doğal zenginliklerini keşfetm
 
 ## Tarihçe
 
-Konya Bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Hitit, Frig, Pers ve Roma gibi uygarlıkların izlerini taşıyan bu topraklar, binlerce yılın kültür ve medeniyet birikimini barındırır. Budak İni Jeopark, bu zengin tarihsel dokunun bir parçası olarak karşımıza çıkar.
+Konya Bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Hitit, Frig, Pers ve Roma gibi uygarlıkların izlerini taşıyan bu topraklar, binlerce yılın kültür ve medeniyet birikimini barındırır. Budak İni Jeopark, bu zengin tarihsel dokunun bir parçası olarak karşımıza çıkar.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir role sahip olmuştur. İnsanların bu bölgelerle ilişkisi, sadece turizm veya rekreasyonla sınırlı değildir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu doğal alanların ekonomi ve sosyal yaşamda merkezi bir konumda olmasını sağlamıştır.
 
-Konya Bölgesi, histórik İpek Yolu'nun önemli bir durağı olarak, doğu-batı ticaretinin merkezi olmuştur. Bu ticaret yolları, aynı zamanda kültürel alışverişin de önemli bir aracı olarak görev yapmış ve bölgenin zengin kültürel mirasına katkıda bulunmuştur. Budak İni Jeopark, bu tarihsel bağlam içinde, Konya Bölgesi'nin doğal ve kültürel zenginliklerini bir araya getiren önemli bir destinasyondur.
+Konya Bölgesi, tarihi İpek Yolu'nun önemli bir durağı olarak, doğu-batı ticaretinin merkezi olmuştur. Bu ticaret yolları, aynı zamanda kültürel alışverişin de önemli bir aracı olarak görev yapmış ve bölgenin zengin kültürel mirasına katkıda bulunmuştur. Budak İni Jeopark, bu tarihsel bağlam içinde, Konya Bölgesi'nin doğal ve kültürel zenginliklerini bir araya getiren önemli bir destinasyondur.
 
 ## Coğrafya
 
@@ -51,7 +51,7 @@ Budak İni'nin çevresinde, Konya'nın önemli su kaynaklarından bazıları yer
 
 ## Flora ve Fauna
 
-Budak İni Jeoparkı, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan benzersiz bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Budak İni Jeoparkı, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan benzersiz bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbahar aylarında çiçeklerle dolu bir manzara sunar. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler ön plana çıkar. Yaban Hayatı açısından, orman memelileri ve çeşitli kuş türleri bu bölgede yaşamlarını sürdürür. Göç mevsimlerinde, özellikle sonbaharda, birçok kuş türü bu bölgeden geçer.
 

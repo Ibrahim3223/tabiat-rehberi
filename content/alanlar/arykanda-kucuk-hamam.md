@@ -1,7 +1,7 @@
 ---
 title: "Arykanda Küçük Hamam"
 date: "2026-01-09T23:26:13.172Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739044"
 
 # Arykanda Küçük Hamam
 
-Arykanda Küçük Hamam, Finike/Antalya'nın güneşli ve yeşillik bir bölgesinde, tarihi Arykanda antik kentinin yakınında yer alan bir doğa harikasıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Arykanda Küçük Hamam, ziyaretçilerini históriki bir atmosfer ve güzel bir doğa ile karşılar. Burada, denize girme imkanı, tarihi kalıntıları keşfetme ve doğanın güzelliğini seyretme fırsatı bulunur.
+Arykanda Küçük Hamam, Finike/Antalya'nın güneşli ve yeşillik bir bölgesinde, tarihi Arykanda antik kentinin yakınında yer alan bir doğa harikasıdır. Arykanda Küçük Hamam, ziyaretçilerini tarihi bir atmosfer ve güzel bir doğa ile karşılar. Burada, denize girme imkanı, tarihi kalıntıları keşfetme ve doğanın güzelliğini seyretme fırsatı bulunur.
 
 ## Tarihçe
 

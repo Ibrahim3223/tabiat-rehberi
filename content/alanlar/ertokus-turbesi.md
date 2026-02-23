@@ -1,7 +1,7 @@
 ---
 title: "Ertokuş Türbesi"
 date: "2026-01-10T07:40:08.405Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Isparta"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391254"
 
 # Ertokuş Türbesi
 
-Ertokuş Türbesi, Isparta'nın Atabey ilçesinde yer alan tarihi ve kültürel bir ziyaret noktasıdır. Bu özel alan, 140 hektarlık bir arazide kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tarihî ve doğal güzelliklerin bir araya geldiği bu mekan, ziyaretçiler için önemli bir çekim noktası oluşturmaktadır. Ertokuş Türbesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve bu bölge, doğa severler için ideal bir gezi yeri olarak kabul edilmektedir.
+Ertokuş Türbesi, Isparta'nın Atabey ilçesinde yer alan tarihi ve kültürel bir ziyaret noktasıdır. Tarihî ve doğal güzelliklerin bir araya geldiği bu mekan, ziyaretçiler için önemli bir çekim noktası oluşturmaktadır. Ertokuş Türbesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve bu bölge, doğa severler için ideal bir gezi yeri olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ertokuş Türbesi'nin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetler
 
 ## Coğrafya
 
-Ertokuş Türbesi, Isparta'nın Atabey ilçesinde, Akdeniz Bölgesi'nin doğal güzellikleri arasında yer almaktadır. Bu bölge, dağların eteklerinde kurulmuş ve çevresi, çeşitli bitki türleri ile kaplıdır. Türbenin bulunduğu alan, 140 hektarlık bir araziyi kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı içerisine almaktadır. Ertokuş Türbesi'nin etrafı, zengin bir flora ve fauna ile çevrilidir. Bu bölge, doğa severler için ideal bir gezi yeri olarak kabul edilmektedir. Akdeniz Bölgesi'nin karakteristik iklimi, Ertokuş Türbesi'nin bulunduğu bölgede de görülmektedir. Yaz ayları sıcak ve kuru, kış ayları ise ılıman ve yağışlı geçmektedir. Bu iklim özellikleri, bölgenin doğal güzelliklerini daha da vurgulamaktadır. Ertokuş Türbesi, Isparta'nın Atabey ilçesinde, tarihi ve doğal güzelliklerin bir araya geldiği özel bir noktada yer almaktadır.
+Ertokuş Türbesi, Isparta'nın Atabey ilçesinde, Akdeniz Bölgesi'nin doğal güzellikleri arasında yer almaktadır. Bu bölge, dağların eteklerinde kurulmuş ve çevresi, çeşitli bitki türleri ile kaplıdır. Ertokuş Türbesi'nin etrafı, zengin bir flora ve fauna ile çevrilidir. Bu bölge, doğa severler için ideal bir gezi yeri olarak kabul edilmektedir. Akdeniz Bölgesi'nin karakteristik iklimi, Ertokuş Türbesi'nin bulunduğu bölgede de görülmektedir. Yaz ayları sıcak ve kuru, kış ayları ise ılıman ve yağışlı geçmektedir. Bu iklim özellikleri, bölgenin doğal güzelliklerini daha da vurgulamaktadır. Ertokuş Türbesi, Isparta'nın Atabey ilçesinde, tarihi ve doğal güzelliklerin bir araya geldiği özel bir noktada yer almaktadır.
 
 ## Flora ve Fauna
 

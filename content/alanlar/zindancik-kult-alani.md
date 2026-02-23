@@ -29,7 +29,7 @@ wikidata_id: "Q134728230"
 
 # Zindancık Kült Alanı
 
-Dikili'nin en güzel plajlarından biri olan Zindancıkült Alanı, Ege Bölgesi'nin önemli turizm noktalarından biridir. Bu alan, yaklaşık 140 hektarlık bir yeşil alan sunar, ki bu da yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Zindancıkült Alanı, doğa severler ve plaj tutkunları için ideal bir destinasyondur. Burada, denizin serin sularında yüzme, güneşin altında dinlenme ve çevrenin güzelliğini keşfetme fırsatı bulacaksınız.
+Dikili'nin en güzel plajlarından biri olan Zindancıkült Alanı, Ege Bölgesi'nin önemli turizm noktalarından biridir. Zindancıkült Alanı, doğa severler ve plaj tutkunları için ideal bir destinasyondur. Burada, denizin serin sularında yüzme, güneşin altında dinlenme ve çevrenin güzelliğini keşfetme fırsatı bulacaksınız.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Zindancıkült Alanı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli meden
 
 ## Coğrafya
 
-Zindancıkült Alanı, Dikili'nin en güzel plajlarından biridir. Bu alan, Ege Bölgesi'nin önemli turizm noktalarından biridir. Zindancıkült Alanı, Dikili'nin merkezine uzun bir mesafe uzaklıktadır. Bu alan, ulaşım bakımından oldukça kolaydır. Zindancıkült Alanı, çevrenin güzelliği ile dikkat çekmektedir. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplar. Zindancıkült Alanı, denizin serin suları ile çevrilidir. Bu alan, aynı zamanda, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Zindancıkült Alanı, iklim bakımından ılımandır. Bu alan, yıl boyunca ılıman bir iklimi korumaktadır.
+Zindancıkült Alanı, Dikili'nin en güzel plajlarından biridir. Bu alan, Ege Bölgesi'nin önemli turizm noktalarından biridir. Zindancıkült Alanı, Dikili'nin merkezine uzun bir mesafe uzaklıktadır. Bu alan, ulaşım bakımından oldukça kolaydır. Zindancıkült Alanı, çevrenin güzelliği ile dikkat çekmektedir. Zindancıkült Alanı, denizin serin suları ile çevrilidir. Bu alan, aynı zamanda, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Zindancıkült Alanı, iklim bakımından ılımandır. Bu alan, yıl boyunca ılıman bir iklimi korumaktadır.
 
 ## Flora ve Fauna
 

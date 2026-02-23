@@ -22,7 +22,7 @@ wikidata_id: "Q108227796"
 
 # Trabzon-Macka-Catak Dogu Kayini
 
-Trabzon'un Macka ilçesinde bulunan Catak Dogu Kayini milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Milli park, Karadeniz Bölgesi'nin karakteristik bitki örtüsüne ve zengin faunasına ev sahipliği yapıyor. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları gözlemleyebilecekleri gibi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinebiliyorlar. Milli parkın coğrafi konumu, ziyaretçilere hem doğal güzellikleri keşfetme hem de tarihi ve kültürel zenginlikleri deneyimleme fırsatı sunuyor.
+Trabzon'un Macka ilçesinde bulunan Catak Dogu Kayini milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. Milli park, Karadeniz Bölgesi'nin karakteristik bitki örtüsüne ve zengin faunasına ev sahipliği yapıyor. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları gözlemleyebilecekleri gibi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinebiliyorlar. Milli parkın coğrafi konumu, ziyaretçilere hem doğal güzellikleri keşfetme hem de tarihi ve kültürel zenginlikleri deneyimleme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Catak Dogu Kayini milli parkını ziyaret etmek, hem doğayı hem de tarihi ve k
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Catak Dogu Kayini milli parkı, Karadeniz Bölgesi'nin karakteristik coğrafi yapısına sahip.
 - Milli parkta, çeşitli bitki türleri ve hayvanlar encontrado.
 - Bölgenin iklimi, Karadeniz ikliminin tipik özelliklerini taşıyor.

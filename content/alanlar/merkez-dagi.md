@@ -53,7 +53,7 @@ Mevsimsel olarak, Merkez Dağı'nın iklimi Van'ın genel iklim karakterini yans
 
 Merkez Dağı, Van'ın yüksek dağ ekolojisinin güzelliğini sergileyen bir alpin cennettir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ eteklerinde renkli çiçekler açar ve havada bal arılarının vızıltısı duyulur. Yaz aylarında, dağ çayırları yeşillenir ve dağ keçileri bu açık alanlarda otlar.
 
-Yaban hayatı da bir o kadar çeşitlilik gösterir. Dağların yükseklik zonlarında, kartallar ve doğanlar gibi yırtıcı kuşlar yaşar. Ayrıca, dağ keçileri ve yaban keçileri de bu dağların sakinleridir. Sonbaharda, göçmen kuşlar dağları geçer ve bu manzara bir doğa belgeseli gibi izlenir. 
+Yaban hayatı da bir o kadar çeşitlilik gösterir. Dağların yükseklik zonlarında, kartallar ve doğanlar gibi yırtıcı kuşlar yaşar. Ayrıca, dağ keçileri ve yaban keçileri de bu dağların sakinleridir. Sonbaharda, göçmen kuşlar dağları geçer ve bu manzara bir doğa belgeseli gibi izlenir.
 
 Bu dağ ekosisteminin korunması büyük önem taşır. Çünkü, bu yükseklik zonlarında yaşayan endemik türler, başka hiçbir yerde bulunmaz. Bu nedenle, koruma çalışmaları devam etmektedir.
 

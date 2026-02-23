@@ -40,7 +40,7 @@ Bu bölgedeki doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının ö
 
 ## Coğrafya
 
-Marmara Denizi'nin göbeğinde, 40.5067°K ve 27.5114°D koordinatlarında yer alan Avşa Adası, Balıkesir'in Erdek ilçesine bağlı bir ada olarak dikkat çekiyor. İstanbul'un kuzeybatısına yaklaşık 30 kilometre uzaklıkta bulunan ada, Marmara Denizi'nin en büyük adalarından biri olarak biliniyor. 
+Marmara Denizi'nin göbeğinde, 40.5067°K ve 27.5114°D koordinatlarında yer alan Avşa Adası, Balıkesir'in Erdek ilçesine bağlı bir ada olarak dikkat çekiyor. İstanbul'un kuzeybatısına yaklaşık 30 kilometre uzaklıkta bulunan ada, Marmara Denizi'nin en büyük adalarından biri olarak biliniyor.
 
 Doğal güzellikleri ve coğrafi konumuyla Avşa Adası, bir şehir bloğu büyüklüğünde bir alan olarak düşünülebilir. Ada, genel olarak düz ve alçak bir araziden oluşuyor. Jeolojik olarak bakıldığında, ada genellikle kireçtaşı ve volkanik kayalardan oluşuyor.
 
@@ -50,9 +50,9 @@ Avşa Adası, Marmara Denizi'nin su kaynaklarına doğrudan bağlı olarak bulun
 
 ## Flora ve Fauna
 
-Avşa Adası, step bitki örtüsünün hakim olduğu bir coğrafyada yer alır. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Kıyı kesimlerde, tuzlu suya adapte olmuş bitkiler, adanın eşsiz manzarasına katkıda bulunur. 
+Avşa Adası, step bitki örtüsünün hakim olduğu bir coğrafyada yer alır. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Kıyı kesimlerde, tuzlu suya adapte olmuş bitkiler, adanın eşsiz manzarasına katkıda bulunur.
 
-Yaban hayatı açısından zengin olan Avşa, özellikle deniz kuşlarını cezbeder. Göç mevsiminde, adaya konan göçmen kuşlar, bu izole ekosistemin önemli bileşenleridir. Adanın step ve bozkır alanlarında, kuraklığa adapte olmuş türler, yaşam mücadelesini sürdürür. 
+Yaban hayatı açısından zengin olan Avşa, özellikle deniz kuşlarını cezbeder. Göç mevsiminde, adaya konan göçmen kuşlar, bu izole ekosistemin önemli bileşenleridir. Adanın step ve bozkır alanlarında, kuraklığa adapte olmuş türler, yaşam mücadelesini sürdürür.
 
 Avşa Adası, ekolojik açıdan önemli bir bölge olup, izole popülasyonların varlığı, bu alanı daha da değerli kılar. Koruma altına alınması gereken bu ada, doğal dengesini korumak için özenle korunmalıdır.
 

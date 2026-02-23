@@ -23,7 +23,7 @@ wikidata_id: "Q108228362"
 
 # Suadiye
 
-Suadiye milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini sunan bir alanı kapsamaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir doğa deneyimi sunar. Parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekmektedir. Suadiye milli parkı, hem doğa severler hem de fotoğraf sanatçıları için bir cennet olarak görülmektedir.
+Suadiye milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini sunan bir alanı kapsamaktadır. Parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekmektedir. Suadiye milli parkı, hem doğa severler hem de fotoğraf sanatçıları için bir cennet olarak görülmektedir.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Serindere Şelalesi
 
-Serindere Şelalesi, Kocaeli'nin sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir şelaledir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde ziyaretçiler, doğanın güzelliğini ve serinliğini yaşayabilirler. Şelalenin bulunduğu bölge, yeşilin farklı tonlarını sunan ormanlarla çevrilidir ve bu ormanlar, birçok bitki ve hayvan türüne ev sahipliği yapmaktadır. Serindere Şelalesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini cezbeden bir destinasyondur.
+Serindere Şelalesi, Kocaeli'nin sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir şelaledir. Şelalenin bulunduğu bölge, yeşilin farklı tonlarını sunan ormanlarla çevrilidir ve bu ormanlar, birçok bitki ve hayvan türüne ev sahipliği yapmaktadır. Serindere Şelalesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini cezbeden bir destinasyondur.
 
 ## Tarihçe
 

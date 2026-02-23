@@ -30,7 +30,7 @@ wikidata_id: "Q131738876"
 
 # Ağalar Dairesi
 
-Ağalar Dairesi, Sarıyer'in en güzel plajlarından biri olarak known. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri. Ağalar Dairesi, İstanbul'un kalabalığından kaçmak isteyenler için bir sığınak harika bir deneyim. Burada, denizin ve doğanın tadını çıkarabilir, stresinizi atabilirsiniz. Ağalar Dairesi'ne gelenler, bu güzel plajın güzelliğini ve sakinliğini keşfederken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfedebilirler.
+Ağalar Dairesi, Sarıyer'in en güzel plajlarından biri olarak known. Ağalar Dairesi, İstanbul'un kalabalığından kaçmak isteyenler için bir sığınak harika bir deneyim. Burada, denizin ve doğanın tadını çıkarabilir, stresinizi atabilirsiniz. Ağalar Dairesi'ne gelenler, bu güzel plajın güzelliğini ve sakinliğini keşfederken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfedebilirler.
 
 ## Tarihçe
 

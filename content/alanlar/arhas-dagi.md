@@ -32,7 +32,7 @@ Malatya'nın doğa harikaları arasında yer alan Arhaş Dağı, ziyaretçilerin
 
 ## Tarihçe
 
-Malatya bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Arhaş Dağı, bu bölgenin önemli doğal alanlarından biridir. Malatya, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir bölge olarak, zengin bir tarihsel mirasa sahiptir. Bu bölgede, binlerce yıl önce yaşamış medeniyetler, ticaret yolları ve yerleşim yerleri kurulmuştur.
+Malatya bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Arhaş Dağı, bu bölgenin önemli doğal alanlarından biridir. Malatya, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir bölge olarak, zengin bir tarihsel mirasa sahiptir. Bu bölgede, binlerce yıl önce yaşamış medeniyetler, ticaret yolları ve yerleşim yerleri kurulmuştur.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunun önemli bir parçasını oluşturur. Bu alanlar, insanların yaşamını sürdürmesi, hayvancılık ve tarım faaliyetleri için önemli kaynaklar olmuştur. Yaylacılık, bu bölgelerde yaşayan insanların geleneksel yaşam tarzıdır. Malatya bölgesinde de, yaylacılık ve hayvancılık, insanların doğal alanlarla ilişkisinin önemli bir boyutunu oluşturur.
 

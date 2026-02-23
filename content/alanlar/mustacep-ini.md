@@ -32,7 +32,7 @@ Mersin'in doğal güzelliklerini keşfetmek isteyenler için bir hazine olan Mus
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hititler, Asurlular ve Romalılar gibi uygarlıkların izlerini taşıyan bu topraklar, zengin bir kültürel mirasa sahiptir. Mustacep İni de, bu bölgenin doğal güzelliklerini temsil eden önemli bir noktadır. Türkiye'de, bu tür jeolojik oluşumlar genellikle insan yerleşimlerinin yakınında bulunur ve tarih boyunca insanların yaşamlarını etkilemiştir.
+Mersin bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hititler, Asurlular ve Romalılar gibi uygarlıkların izlerini taşıyan bu topraklar, zengin bir kültürel mirasa sahiptir. Mustacep İni de, bu bölgenin doğal güzelliklerini temsil eden önemli bir noktadır. Türkiye'de, bu tür jeolojik oluşumlar genellikle insan yerleşimlerinin yakınında bulunur ve tarih boyunca insanların yaşamlarını etkilemiştir.
 
 Mersin bölgesinde, insanlar yüzyıllar boyunca yaylacılık, hayvancılık ve ticaret faaliyetleri ile geçimlerini sağlamışlardır. Bu doğal alanlar, aynı zamanda ticaret yolları ve göç rotaları olarak da kullanılmıştır. İnsanların bu alanlarla ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal açıdan da önemlidir. Mustacep İni, bu bağlamda, Mersin bölgesinin doğal ve kültürel zenginliğinin bir parçasını oluşturur. Bu jeopark, bölgenin tarihini ve kültürel mirasını anlamak için önemli bir noktadır.
 
@@ -48,7 +48,7 @@ Mustacep İni, çevresindeki doğal kaynaklarla bağlantılı ve bu bağlantı, 
 
 ## Flora ve Fauna
 
-Mustacep İni, Mersin'in jeopark alanlarından biri olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ve kuraklığa dayanıklı türlerin yaşadığı bir ekosistem barındırıyor. 
+Mustacep İni, Mersin'in jeopark alanlarından biri olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ve kuraklığa dayanıklı türlerin yaşadığı bir ekosistem barındırıyor.
 
 İlkbaharın gelmesiyle birlikte, maki bitkileri renkli çiçekler açıyor ve bölgenin görünümü değişiyor. Kıyı ekosisteminde, çeşitli kuş türleri yuvalarını kuruyor ve göç mevsiminde, bu bölgeyi geçiş noktası olarak kullanıyor. Orman ekosisteminde, çeşitli ağaç türleri ve orman memelileri yaşamlarını sürdürüyor.
 

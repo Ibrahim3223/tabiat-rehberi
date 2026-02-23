@@ -1,7 +1,7 @@
 ---
 title: "Ahi Musa Mescidi ve Türbesi"
 date: "2026-01-10T06:40:37.379Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"

@@ -1,7 +1,7 @@
 ---
 title: "Arap Baba Mescidi ve Türbesi"
 date: "2026-01-10T06:29:31.923Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"
@@ -30,7 +30,7 @@ wikidata_id: "Q132134393"
 
 # Arap Baba Mescidi ve Türbesi
 
-Elazığ, Doğu Anadolu Bölgesi'nin önemli şehirlerinden biri olarak karşımıza çıkıyor. Bu şehir, tarihi ve kültürel zenginlikleriyle ziyaretçilerini cezbediyor. Arap Baba Mescidi ve Türbesi de bu önemli noktalarından biri. 140 hektarlık bir alana yayılmış bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Bu mescid ve türbe, Elazığ'ın merkezi bir konumunda yer alıyor ve şehrin önemli dini merkezlerinden biri. Mescidin tarihi geçmişi, ziyaretçilerini çekiyor ve bu noktada, şehrin kültürel zenginlikleri hakkında bilgi sahibi olma mümkün.
+Elazığ, Doğu Anadolu Bölgesi'nin önemli şehirlerinden biri olarak karşımıza çıkıyor. Bu şehir, tarihi ve kültürel zenginlikleriyle ziyaretçilerini cezbediyor. Arap Baba Mescidi ve Türbesi de bu önemli noktalarından biri. Bu mescid ve türbe, Elazığ'ın merkezi bir konumunda yer alıyor ve şehrin önemli dini merkezlerinden biri. Mescidin tarihi geçmişi, ziyaretçilerini çekiyor ve bu noktada, şehrin kültürel zenginlikleri hakkında bilgi sahibi olma mümkün.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Arap Baba Mescidi ve Türbesi, tarihsel açıdan önemli bir geçmişe sahip. Bu
 
 ## Coğrafya
 
-Arap Baba Mescidi ve Türbesi, Elazığ'ın merkezi bir konumunda yer alıyor. Bu bölge, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Mescid ve türbenin çevresi, yeşillik bir alan ve ziyaretçilere dinlenmek için uygun bir ortam sunuyor. Elazığ'ın iklimi, karasal iklim özellikleri gösteriyor ve Arap Baba Mescidi ve Türbesi, bu iklimin etkisi altında. Şehrin coğrafi konumu, mescid ve türbenin ziyaretçilerini etkiliyor ve bu noktada, ziyaretçilerin şehrin coğrafi özelliklerini keşfetmeleri mümkün. Arap Baba Mescidi ve Türbesi, Elazığ'ın coğrafi zenginliklerini keşfetmek için önemli bir nokta.
+Arap Baba Mescidi ve Türbesi, Elazığ'ın merkezi bir konumunda yer alıyor. Mescid ve türbenin çevresi, yeşillik bir alan ve ziyaretçilere dinlenmek için uygun bir ortam sunuyor. Elazığ'ın iklimi, karasal iklim özellikleri gösteriyor ve Arap Baba Mescidi ve Türbesi, bu iklimin etkisi altında. Şehrin coğrafi konumu, mescid ve türbenin ziyaretçilerini etkiliyor ve bu noktada, ziyaretçilerin şehrin coğrafi özelliklerini keşfetmeleri mümkün. Arap Baba Mescidi ve Türbesi, Elazığ'ın coğrafi zenginliklerini keşfetmek için önemli bir nokta.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Arap Baba Mescidi ve Türbesi, Elazığ'ı ziyaret edenlerin mutlaka görmesi ge
 
 - Arap Baba Mescidi ve Türbesi, Elazığ'ın en önemli dini merkezlerinden biri.
 - Bu mescid ve türbe, yüzyıllar boyunca Elazığ'ın dini ve kültürel hayatında önemli bir rol oynadı.
-- Arap Baba Mescidi ve Türbesi, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Elazığ'ın iklimi, karasal iklim özellikleri gösteriyor.
 - Arap Baba Mescidi ve Türbesi, Elazığ'ın flora ve faunasını keşfetmek için önemli bir nokta.

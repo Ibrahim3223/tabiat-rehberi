@@ -1,7 +1,7 @@
 ---
 title: "Baltasıgedik Mahmut Dede Türbesi"
 date: "2026-01-10T06:15:53.852Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390684"
 
 # Baltasıgedik Mahmut Dede Türbesi
 
-Baltasıgedik Mahmut Dede Türbesi, Antalya'nın Elmalı ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere büyük bir açık hava deneyimi sunuyor. Baltasıgedik Mahmut Dede Türbesi, Akdeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak kabul ediliyor. Bu mekan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini etkiliyor ve bir kez ziyaret etmek isteyenlerin hayalini kurduğu bir yer.
+Baltasıgedik Mahmut Dede Türbesi, Antalya'nın Elmalı ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. Baltasıgedik Mahmut Dede Türbesi, Akdeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak kabul ediliyor. Bu mekan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini etkiliyor ve bir kez ziyaret etmek isteyenlerin hayalini kurduğu bir yer.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Baltasıgedik Mahmut Dede Türbesi'nin etrafındaki bölge, çeşitli bitkiler v
 
 ## Ziyaret Bilgileri
 
-Baltasıgedik Mahmut Dede Türbesi'ni ziyaret etmek, özellikle tarihi ve doğal güzelliklerine merakı olanlar için önemli bir deneyim olabilir. Türbeye ulaşım, genellikle özel araç veya toplu taşıma araçları ile sağlanıyor. Ziyaretçilerin, türbeye gitmeden önce, bölge hakkında bilgi sahibi olması ve gerekli hazırlıkları yapması öneriliyor. Baltasıgedik Mahmut Dede Türbesi, yılın her dönemi ziyaret edilebilir, ancak en iyi ziyaret dönemi, ilkbahar ve yaz ayları olarak kabul ediliyor. Ziyaretçilerin, türbe ve çevresini gezerken, özellikle históriye ve doğaya saygı göstermesi ve olan kurallara uyması gerekiyor.
+Baltasıgedik Mahmut Dede Türbesi'ni ziyaret etmek, özellikle tarihi ve doğal güzelliklerine merakı olanlar için önemli bir deneyim olabilir. Türbeye ulaşım, genellikle özel araç veya toplu taşıma araçları ile sağlanıyor. Ziyaretçilerin, türbeye gitmeden önce, bölge hakkında bilgi sahibi olması ve gerekli hazırlıkları yapması öneriliyor. Baltasıgedik Mahmut Dede Türbesi, yılın her dönemi ziyaret edilebilir, ancak en iyi ziyaret dönemi, ilkbahar ve yaz ayları olarak kabul ediliyor. Ziyaretçilerin, türbe ve çevresini gezerken, özellikle tarihi ve doğaya saygı göstermesi ve olan kurallara uyması gerekiyor.
 
 ## İlginç Bilgiler
 

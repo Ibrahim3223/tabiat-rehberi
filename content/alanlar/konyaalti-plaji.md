@@ -30,7 +30,7 @@ wikidata_id: "Q2493895"
 
 # Konyaaltı Plajı
 
-Konyaaltı Plajı, Antalya'nın en çok ziyaret edilen ve sevilen plajlarından biridir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu plaj, geniş kumsalları ve berrak sularıyla dikkat çekmektedir. Konyaaltı Plajı, Antalya şehir merkezine yakın konumuyla da kolay ulaşılabilirlik sağlamaktadır. Plajın etrafında çeşitli restoranlar, kafeler ve alışveriş olanakları bulunmaktadır. Konyaaltı Plajı, hem yerli hem de yabancı turistler tarafından çok tercih edilmektedir.
+Konyaaltı Plajı, Antalya'nın en çok ziyaret edilen ve sevilen plajlarından biridir. Konyaaltı Plajı, Antalya şehir merkezine yakın konumuyla da kolay ulaşılabilirlik sağlamaktadır. Plajın etrafında çeşitli restoranlar, kafeler ve alışveriş olanakları bulunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Konyaaltı Plajı, tarihi geçmişiyle de dikkat çekmektedir. Antalya'nın en e
 
 ## Coğrafya
 
-Konyaaltı Plajı, coğrafi konumu itibariyle de önemli bir bölgedir. Akdeniz Bölgesi'nin en güzel plajlarından biri olan Konyaaltı Plajı, Antalya'nın batı kısmında yer almaktadır. Plaj, Toros Dağları'nın eteklerinde bulunmaktadır ve bu dağların denizle buluştuğu noktada yer almaktadır. Konyaaltı Plajı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olup, geniş kumsalları ve berrak sularıyla dikkat çekmektedir. Plajın etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Konyaaltı Plajı, aynı zamanda iklimi ile de dikkat çekmektedir. Plaj, Akdeniz ikliminin karakteristik özelliklerini taşır ve genellikle sıcak ve kuru bir iklimi vardır.
+Konyaaltı Plajı, coğrafi konumu itibariyle de önemli bir bölgedir. Akdeniz Bölgesi'nin en güzel plajlarından biri olan Konyaaltı Plajı, Antalya'nın batı kısmında yer almaktadır. Plaj, Toros Dağları'nın eteklerinde bulunmaktadır ve bu dağların denizle buluştuğu noktada yer almaktadır. Plajın etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Konyaaltı Plajı, aynı zamanda iklimi ile de dikkat çekmektedir. Plaj, Akdeniz ikliminin karakteristik özelliklerini taşır ve genellikle sıcak ve kuru bir iklimi vardır.
 
 ## Flora ve Fauna
 
@@ -46,12 +46,11 @@ Konyaaltı Plajı, flora ve fauna açısından zengin bir bölgedir. Plajın etr
 
 ## Ziyaret Bilgileri
 
-Konyaaltı Plajı, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve yaz ayları plajın en fazla ziyaret edildiği dönemlerdir. Plaja ulaşım, Antalya şehir merkezinden rahatlıkla sağlanabilir. Plajın etrafında çeşitli restoranlar, kafeler ve alışveriş olanakları bulunmaktadır. Konyaaltı Plajı, hem yerli hem de yabancı turistler tarafından çok tercih edilmektedir. Plaj, geniş kumsalları ve berrak sularıyla dikkat çekmekte ve ziyaretçilerine güzel bir tatil imkânı sunmaktadır.
+Konyaaltı Plajı, yılın her dönemi ziyaret edilebilir. Ancak, ilkbahar ve yaz ayları plajın en fazla ziyaret edildiği dönemlerdir. Plaja ulaşım, Antalya şehir merkezinden rahatlıkla sağlanabilir. Plajın etrafında çeşitli restoranlar, kafeler ve alışveriş olanakları bulunmaktadır. Plaj, geniş kumsalları ve berrak sularıyla dikkat çekmekte ve ziyaretçilerine güzel bir tatil imkânı sunmaktadır.
 
 ## İlginç Bilgiler
 
-- Konyaaltı Plajı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Plaj, Antalya şehir merkezine yakın konumuyla da kolay ulaşılabilirlik sağlamaktadır.
-- Konyaaltı Plajı, hem yerli hem de yabancı turistler tarafından çok tercih edilmektedir.
+
 - Plajın etrafında çeşitli restoranlar, kafeler ve alışveriş olanakları bulunmaktadır.
 - Konyaaltı Plajı, flora ve fauna açısından zengin bir bölgedir.

@@ -28,7 +28,7 @@ wikidata_id: "Q31390529"
 
 # Yılandede Tepesi
 
-Yılandede Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan sunar. Bu tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir ortamda doğayı keşfetme fırsatı verir. Yılandede Tepesi, özellikle gün batımı saatlerinde muhteşem manzarasıyla dikkat çeker ve fotoğraf severlerin favori mekanlarından biri haline gelir.
+ Bu tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir ortamda doğayı keşfetme fırsatı verir. Yılandede Tepesi, özellikle gün batımı saatlerinde muhteşem manzarasıyla dikkat çeker ve fotoğraf severlerin favori mekanlarından biri haline gelir.
 
 ## Tarihçe
 

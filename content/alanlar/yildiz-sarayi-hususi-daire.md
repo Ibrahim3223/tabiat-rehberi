@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Hususi Daire"
 date: "2026-01-10T04:32:51.090Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133683979"
 
 # Yıldız Sarayı Hususi Daire
 
-Yıldız Sarayı Hususi Daire, Marmara Bölgesi'nin en güzel noktalarından biri olan Beşiktaş'ta bulunmaktadır. Bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un tarihi ve doğal güzellikleri arasında önemli bir yer tutan Yıldız Sarayı Hususi Daire, ziyaretçilerini bekliyor. Bu alan, hem doğa severlerin hem de tarihe merakı olanların ilgisini çekmektedir.
+Yıldız Sarayı Hususi Daire, Marmara Bölgesi'nin en güzel noktalarından biri olan Beşiktaş'ta bulunmaktadır. İstanbul'un tarihi ve doğal güzellikleri arasında önemli bir yer tutan Yıldız Sarayı Hususi Daire, ziyaretçilerini bekliyor. Bu alan, hem doğa severlerin hem de tarihe merakı olanların ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yıldız Sarayı Hususi Daire'nin tarihi geçmişi, Osmanlı İmparatorluğu'nun
 
 ## Coğrafya
 
-Yıldız Sarayı Hususi Daire, Marmara Bölgesi'nin en güzel noktalarından biri olan Beşiktaş'ta bulunmaktadır. Bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul Boğazı'na yakın konumuyla, ziyaretçilerine eşsiz bir manzara sunar. Yıldız Sarayı Hususi Daire'nin coğrafi konumu, İstanbul'un tarihi ve doğal güzelliklerini bir araya getirmesiyle dikkat çekmektedir. Bu alan, hem doğal güzelliği hem de tarihsel önemiyle ziyaretçilerini cezbeder. Coğrafi olarak, Yıldız Sarayı Hususi Daire, İstanbul'un merkezinde yer alan bir bölgedir. Bu bölge, birçok önemli tarihi ve kültürel mekana ev sahipliği yapmaktadır.
+Yıldız Sarayı Hususi Daire, Marmara Bölgesi'nin en güzel noktalarından biri olan Beşiktaş'ta bulunmaktadır. İstanbul Boğazı'na yakın konumuyla, ziyaretçilerine eşsiz bir manzara sunar. Yıldız Sarayı Hususi Daire'nin coğrafi konumu, İstanbul'un tarihi ve doğal güzelliklerini bir araya getirmesiyle dikkat çekmektedir. Bu alan, hem doğal güzelliği hem de tarihsel önemiyle ziyaretçilerini cezbeder. Coğrafi olarak, Yıldız Sarayı Hususi Daire, İstanbul'un merkezinde yer alan bir bölgedir. Bu bölge, birçok önemli tarihi ve kültürel mekana ev sahipliği yapmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Yıldız Sarayı Hususi Daire'yi ziyaret etmek, hem tarihi hem de doğal güzell
 ## İlginç Bilgiler
 
 - Yıldız Sarayı Hususi Daire, 19. yüzyılda inşa edilmiştir.
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Yıldız Sarayı Hususi Daire, İstanbul Boğazı'na yakın bir konumda bulunmaktadır.
 - Bu özel alan, birçok farklı bitki türünün yetiştiği bir bölgedir.
 - Yıldız Sarayı Hususi Daire, birçok farklı canlı türünün yaşam alanıdır.

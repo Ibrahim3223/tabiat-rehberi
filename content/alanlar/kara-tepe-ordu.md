@@ -51,9 +51,9 @@ Jeolojik açıdan incelendiğinde, Kara Tepe'nin oluşumu ve yapısı hakkında 
 
 ## Flora ve Fauna
 
-Kara Tepe (Ordu), nemli iklimin hâkim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. Dağın farklı yükseklik zonlarında, mevsimsel değişimlerle birlikte değişen bir bitki örtüsü bulunur. İlkbaharın arrivalıyla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. 
+Kara Tepe (Ordu), nemli iklimin hâkim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. Dağın farklı yükseklik zonlarında, mevsimsel değişimlerle birlikte değişen bir bitki örtüsü bulunur. İlkbaharın arrivalıyla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır.
 
-Bu dağlık alanda, gür ormanlar hakimdir. Ormanların içinde, çeşitli memeliler ve kuşlar yaşar. Dağın yüksek kesimlerinde, alpin flora bulunur. Bu flora, soğu ve rüzgârlı koşullara adapte olmuştur. 
+Bu dağlık alanda, gür ormanlar hakimdir. Ormanların içinde, çeşitli memeliler ve kuşlar yaşar. Dağın yüksek kesimlerinde, alpin flora bulunur. Bu flora, soğu ve rüzgârlı koşullara adapte olmuştur.
 
 Kara Tepe, ekolojik açıdan önemli bir bölgedir. Yüksek biyoçeşitlilik, bu bölgenin değerini arttırır. Ancak, koruma durumu hakkında daha fazla bilgiye ihtiyaç vardır. Bu dağlık alanın korunması, gelecek nesiller için önemli bir görevdir.
 

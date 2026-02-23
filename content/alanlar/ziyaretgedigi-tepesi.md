@@ -28,7 +28,7 @@ wikidata_id: "Q31536202"
 
 # Zıyaretgediği Tepesi
 
-Zıyaretgediği Tepesi, Hatay ilinin sınırları içerisinde yer alan ve ziyaretçilerini büyüleyen bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alan kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Zıyaretgediği Tepesi, ziyaretçilerine doğal güzelliği ve tarihi değerleri ile birlikte bir gezi deneyimi sunar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar.
+Zıyaretgediği Tepesi, Hatay ilinin sınırları içerisinde yer alan ve ziyaretçilerini büyüleyen bir doğa harikasıdır. Zıyaretgediği Tepesi, ziyaretçilerine doğal güzelliği ve tarihi değerleri ile birlikte bir gezi deneyimi sunar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Zıyaretgediği Tepesi, tarihsel geçmişi ile dikkat çeker. Bu tepe, yüzyıll
 
 ## Coğrafya
 
-Zıyaretgediği Tepesi, Hatay ilinin sınırları içerisinde yer alır ve Akdeniz Bölgesi'nde bulunur. Bu tepe, yaklaşık 140 hektarlık bir alan kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar. Zıyaretgediği Tepesi, ziyaretçilerine doğal güzelliği ve tarihi değerleri ile birlikte bir gezi deneyimi sunar. Tepenin coğrafi konumu, ziyaretçilere bu bölge hakkında daha fazla bilgi edinme fırsatı sunar. Zıyaretgediği Tepesi, ziyaretçilerine doğal güzelliği ve tarihi değerleri ile birlikte bir gezi deneyimi sunar.
+Zıyaretgediği Tepesi, Hatay ilinin sınırları içerisinde yer alır ve Akdeniz Bölgesi'nde bulunur. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar. Zıyaretgediği Tepesi, ziyaretçilerine doğal güzelliği ve tarihi değerleri ile birlikte bir gezi deneyimi sunar. Tepenin coğrafi konumu, ziyaretçilere bu bölge hakkında daha fazla bilgi edinme fırsatı sunar. Zıyaretgediği Tepesi, ziyaretçilerine doğal güzelliği ve tarihi değerleri ile birlikte bir gezi deneyimi sunar.
 
 ## Flora ve Fauna
 

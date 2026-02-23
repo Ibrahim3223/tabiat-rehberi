@@ -28,7 +28,7 @@ wikidata_id: "Q31572922"
 
 # Arpa Tepe
 
-Iğdır ilinin doğa harikalarından biri olan Arpa Tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğal güzelliği ile büyülüyor. Bu tepe, Iğdır'ın coğrafi zenginliklerinin önemli bir parçasını oluşturuyor. Doğa severler ve macera arayışında olanlar için ideal bir destinasyon olan Arpa Tepe, Iğdır'ın eşsiz manzaralarını keşfetmek isteyenler için bir keşif noktası olarak dikkat çekiyor. Iğdır'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir durak olan Arpa Tepe, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Iğdır ilinin doğa harikalarından biri olan Arpa Tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğal güzelliği ile büyülüyor. Bu tepe, Iğdır'ın coğrafi zenginliklerinin önemli bir parçasını oluşturuyor. Doğa severler ve macera arayışında olanlar için ideal bir destinasyon olan Arpa Tepe, Iğdır'ın eşsiz manzaralarını keşfetmek isteyenler için bir keşif noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -52,7 +52,7 @@ Bölgenin ekosistem bağlantıları açısından önemli bir nokta olan Arpa Tep
 
 Arpa Tepe, Iğdır'da yer alan yüksek dağ ekosistemine ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Yüksek dağ ekolojisi ve alpin çayırların hakim olduğu bu bölgede, endemik türler de bulunmaktadır.
 
-Bitki örtüsüne bakıldığında, ilkbaharda çiçeklenen türlerin renkli görüntüsüne şahit olunabilir. Sonbaharda ise, göç eden kuşlar bölgeden geçer. Dağ ekosisteminin yükseklik zonları, alpin flora ile karakterizedir. 
+Bitki örtüsüne bakıldığında, ilkbaharda çiçeklenen türlerin renkli görüntüsüne şahit olunabilir. Sonbaharda ise, göç eden kuşlar bölgeden geçer. Dağ ekosisteminin yükseklik zonları, alpin flora ile karakterizedir.
 
 Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Bu yüksek dağ ekosisteminin ekolojik değeri, endemik türlerin varlığı ve biyolojik çeşitlilik nedeniyle önemlidir.
 

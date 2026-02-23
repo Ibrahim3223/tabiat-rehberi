@@ -21,7 +21,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Tarih gezisi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kadodu Tepesi","caption":"Kadodu Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kadodu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387108","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Kadodu Tepesi, ziyaretçilerini doğal atmosferi ve históriki geçmişi ile cezbediyor."
+description: "İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Kadodu Tepesi, ziyaretçilerini doğal atmosferi ve tarihi geçmişi ile cezbediyor."
 keywords: ["Kadodu Tepesi","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmiş","gezi","turizm","çevre","iklim","bitki örtüsü"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387108"
@@ -29,7 +29,7 @@ wikidata_id: "Q31387108"
 
 # Kadodu Tepesi
 
-Kadodu Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan en önemli tepe noktalarından biri olarak bilinir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. İç Anadolu Bölgesi'nin coğrafi yapısını şekillendiren Kadodu Tepesi, ziyaretçiler için önemli bir doğal güzellik olarak kabul edilir. Bu bölge, aynı zamanda tarihi geçmişinin zenginliği ile de dikkat çeker.
+Kadodu Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan en önemli tepe noktalarından biri olarak bilinir. İç Anadolu Bölgesi'nin coğrafi yapısını şekillendiren Kadodu Tepesi, ziyaretçiler için önemli bir doğal güzellik olarak kabul edilir. Bu bölge, aynı zamanda tarihi geçmişinin zenginliği ile de dikkat çeker.
 
 ## Tarihçe
 

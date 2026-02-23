@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Kutbettin Türbesi"
 date: "2026-01-10T06:22:34.580Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390726"
 
 # Şeyh Kutbettin Türbesi
 
-İznik'in doğal güzelliklerinin birleştiği yer olan Şeyh Kutbettin Türbesi, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, misafirlerine geniş ve ferah bir ortam sağlar. Şeyh Kutbettin Türbesi, İznik'in merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı kolaydır. Bu bölge, hem İznik'in tarihi geçmişini hem de doğal güzelliklerini bir araya getirmesiyle dikkat çeker.
+İznik'in doğal güzelliklerinin birleştiği yer olan Şeyh Kutbettin Türbesi, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Şeyh Kutbettin Türbesi, İznik'in merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı kolaydır. Bu bölge, hem İznik'in tarihi geçmişini hem de doğal güzelliklerini bir araya getirmesiyle dikkat çeker.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390726"
 
 ## Coğrafya
 
-Şeyh Kutbettin Türbesi, İznik'in merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı kolaydır. Bu bölge, İznik Gölü'nün güneydoğu kıyısında yer alır ve göl manzarasına sahiptir. Şeyh Kutbettin Türbesi, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, misafirlerine geniş ve ferah bir ortam sağlar. İznik Gölü, Türkiye'nin en büyük 5. gölüdür ve 289 kilometrekarelik bir alanı kaplar. Gölün maksimum derinliği 15 metre olup, su seviyesi mevsimsel olarak değişebilir. Şeyh Kutbettin Türbesi, İznik Gölü'nün güzelliğini ve doğal zenginliklerini korumak için önemli bir bölgedir.
+Şeyh Kutbettin Türbesi, İznik'in merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı kolaydır. Bu bölge, İznik Gölü'nün güneydoğu kıyısında yer alır ve göl manzarasına sahiptir. Şeyh Kutbettin Türbesi, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. İznik Gölü, Türkiye'nin en büyük 5. gölüdür ve 289 kilometrekarelik bir alanı kaplar. Gölün maksimum derinliği 15 metre olup, su seviyesi mevsimsel olarak değişebilir. Şeyh Kutbettin Türbesi, İznik Gölü'nün güzelliğini ve doğal zenginliklerini korumak için önemli bir bölgedir.
 
 ## Flora ve Fauna
 

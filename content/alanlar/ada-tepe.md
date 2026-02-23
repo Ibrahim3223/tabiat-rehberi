@@ -29,7 +29,7 @@ wikidata_id: "Q31386105"
 
 # Ada Tepe
 
-Ada Tepe, Osmaniye'nin gözde mekanlarından biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal güzelliğin içinde, çeşitli bitki türleri ve zengin fauna found. Ada Tepe, hem doğa severlerin hem de tarih meraklılarının ilgi odağı. Tepeye çıkarken, Akdeniz Bölgesi'nin güzel manzarasını seyretme mümkün. Ada Tepe, ziyaretçilerine hem huzur verici bir atmosfer sunuyor hem de tarihi geçmişiyle dikkat çekiyor.
+Ada Tepe, Osmaniye'nin gözde mekanlarından biri. Bu doğal güzelliğin içinde, çeşitli bitki türleri ve zengin fauna found. Ada Tepe, hem doğa severlerin hem de tarih meraklılarının ilgi odağı. Tepeye çıkarken, Akdeniz Bölgesi'nin güzel manzarasını seyretme mümkün. Ada Tepe, ziyaretçilerine hem huzur verici bir atmosfer sunuyor hem de tarihi geçmişiyle dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ada Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izle
 
 ## Coğrafya
 
-Ada Tepe, Osmaniye'de bulunan bir tepe. Bu tepe, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Ada Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu tepe, Akdeniz Bölgesi'nin iklimi nedeniyle, yıl boyunca ılıman bir hava koşulu sunuyor. Ada Tepe'nin etrafı, yeşil alanlarla çevrili ve bu doğal güzelliği ziyaret etmek, doğa severler için ideal bir gezi noktası. Ada Tepe, coğrafi özellikleri ile birlikte, ziyaretçilerine güzel manzaralar sunuyor. Bu tepe, Osmaniye'nin önemli doğal güzelliklerinden biri.
+Ada Tepe, Osmaniye'de bulunan bir tepe. Bu tepe, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Ada Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu tepe, Akdeniz Bölgesi'nin iklimi nedeniyle, yıl boyunca ılıman bir hava koşulu sunuyor. Ada Tepe'nin etrafı, yeşil alanlarla çevrili ve bu doğal güzelliği ziyaret etmek, doğa severler için ideal bir gezi noktası. Ada Tepe, coğrafi özellikleri ile birlikte, ziyaretçilerine güzel manzaralar sunuyor. Bu tepe, Osmaniye'nin önemli doğal güzelliklerinden biri.
 
 ## Flora ve Fauna
 

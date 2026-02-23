@@ -29,7 +29,7 @@ wikidata_id: "Q134728348"
 
 # Bin Tepeler Tümülüsü 26
 
-Bin Tepeler Tümülüsü 26, Manisa'nın Salihli ilçesinde yer alan ve tarihin derinliklerine doğru bir yolculuk sunan tarihi bir tümülüs. Bu 26 numaralı tümülüs, bölgenin zengin tarihi geçmişini yansıtan önemli bir arkeolojik sit alanı. 140 hektarlık bir alanda yer alan bu tümülüsler, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bin Tepeler Tümülüsü 26, ziyaretçilere Ege Bölgesi'nin tarihi ve kültürel mirasını keşfetme fırsatı sunuyor.
+Bin Tepeler Tümülüsü 26, Manisa'nın Salihli ilçesinde yer alan ve tarihin derinliklerine doğru bir yolculuk sunan tarihi bir tümülüs. Bu 26 numaralı tümülüs, bölgenin zengin tarihi geçmişini yansıtan önemli bir arkeolojik sit alanı. Bin Tepeler Tümülüsü 26, ziyaretçilere Ege Bölgesi'nin tarihi ve kültürel mirasını keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

@@ -54,7 +54,7 @@ Mevsimsel olarak bakıldığında, Paksu'nun iklimi, genel olarak Akdeniz iklimi
 
 Paksu Adası, İyonya Adaları'nın gizli bir incisi. Bu 1200 hektarlık yeşil cennet, step bitki örtüsü ve bozkırın hakim olduğu bir bölge. İlkbaharda, ada çiçeklerle kaplanıyor; renkli çiçekler her yeri süslüyor. Sonbaharda ise göç eden deniz kuşları adayı ziyaret ediyor.
 
-Ada ekosisteminde, izole popülasyonlar ve deniz kuşları yaşamını sürdürüyor. Kıyı bitkileri, ada çevresinde bulunan kayalık alanlarda yetişiyor. Bu bitkiler, ada ekosisteminin önemli bir parçasını oluşturuyor. 
+Ada ekosisteminde, izole popülasyonlar ve deniz kuşları yaşamını sürdürüyor. Kıyı bitkileri, ada çevresinde bulunan kayalık alanlarda yetişiyor. Bu bitkiler, ada ekosisteminin önemli bir parçasını oluşturuyor.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitleniyor. Ada, deniz kuşları için önemli bir durak noktası. Bu canlılar, ada ekosisteminin dengesini koruyor. Ekolojik değerini korumak için, ada ekosisteminin korunmasına dikkat edilmesi gerekiyor.
 

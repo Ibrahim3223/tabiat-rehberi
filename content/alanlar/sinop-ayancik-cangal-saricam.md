@@ -22,7 +22,7 @@ wikidata_id: "Q108227198"
 
 # Sinop-Ayancik-Cangal Saricam
 
-Sinop-Ayancik-Cangal Saricam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak öne çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici bir doğa deneyimi sunuyor. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dolu, ziyaretçilerin doğa ile iç içe olmasını sağlayan bir cennet. Milli parkın büyüklüğü ve güzelliği, ziyaretçilerini etkileyici bir gezi deneyimi sunuyor.
+Sinop-Ayancik-Cangal Saricam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak öne çıkıyor. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dolu, ziyaretçilerin doğa ile iç içe olmasını sağlayan bir cennet. Milli parkın büyüklüğü ve güzelliği, ziyaretçilerini etkileyici bir gezi deneyimi sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Sinop-Ayancik-Cangal Saricam milli parkını ziyaret etmek, ziyaretçilerine do�
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli parkın flora ve fauna, ziyaretçilerine doğa ile iç içe olmasını sağlayan bir cennet.
 - Milli parkın coğrafi konumu, ziyaretçilerine doğa ile iç içe olmasını sağlayan bir gezi deneyimi sunuyor.
 - Milli parkın iklimi, ılıman ve yağışlı.

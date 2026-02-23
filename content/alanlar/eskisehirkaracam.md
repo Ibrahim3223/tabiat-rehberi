@@ -23,7 +23,7 @@ wikidata_id: "Q108228518"
 
 # Eskisehir_Karacam
 
-Eskisehir_Karacam, İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş alanda çeşitli bitki türleri ve zengin fauna çeşitliliği yer alıyor. Doğa severler için bir cennet olan Eskisehir_Karacam, ziyaretçilerini bekliyor.
+Eskisehir_Karacam, İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olarak karşımıza çıkıyor. Bu geniş alanda çeşitli bitki türleri ve zengin fauna çeşitliliği yer alıyor. Doğa severler için bir cennet olan Eskisehir_Karacam, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -50,7 +50,7 @@ Sivri Dağı'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile ba
 
 ## Flora ve Fauna
 
-Sivri Dağı, Mersin'in muhteşem bir köşesi, maki bitki örtüsünün egemen olduğu bir dağ ekosistemi. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sivri Dağı, Mersin'in muhteşem bir köşesi, maki bitki örtüsünün egemen olduğu bir dağ ekosistemi. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü açısından, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Kuraklığa dayanıklı türler, tüm mevsim boyunca yeşilliğini korur. Kıyı ekosisteminin etkisi, flora çeşitliliğini arttırır.
 

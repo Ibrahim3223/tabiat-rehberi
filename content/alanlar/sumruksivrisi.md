@@ -48,14 +48,14 @@ Jeolojik açıdan incelendiğinde, Sümrüksivrisi Dağı'nın fiziksel yapısı
 
 ## Flora ve Fauna
 
-Sümrüksivrisi Dağı, Yozgat'ın göbeğinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sümrüksivrisi Dağı, Yozgat'ın göbeğinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Dağın yükseklik zonları, alpin flora ve dağ hayvanları ile dolu bir world.
 
-Bitki Örtüsü bölümünde, step bitki örtüsü ve bozkırın hakim olduğu bir manzara karşılıyor bizi. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çeşitli çiçekler açmaya başlıyor. 
-Yaban Hayatı bölümünde ise, memeliler, kuşlar ve sürüngenler dağda yaşamını sürdürüyor. 
-Ekolojik Değer bölümünde, bu dağ ekosisteminin neden önemli olduğu ve koruma durumuna değiniyoruz. 
-Sümrüksivrisi Dağı, yükseklik zonları, alpin flora ve dağ hayvanları ile dolu bir dünya. 
-Dağın yükseklik zonlarında, kuraklığa adapte türler yaşamını sürdürüyor. 
+Bitki Örtüsü bölümünde, step bitki örtüsü ve bozkırın hakim olduğu bir manzara karşılıyor bizi. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çeşitli çiçekler açmaya başlıyor.
+Yaban Hayatı bölümünde ise, memeliler, kuşlar ve sürüngenler dağda yaşamını sürdürüyor.
+Ekolojik Değer bölümünde, bu dağ ekosisteminin neden önemli olduğu ve koruma durumuna değiniyoruz.
+Sümrüksivrisi Dağı, yükseklik zonları, alpin flora ve dağ hayvanları ile dolu bir dünya.
+Dağın yükseklik zonlarında, kuraklığa adapte türler yaşamını sürdürüyor.
 Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesi için çok önemli.
 
 ## Ziyaret Bilgileri

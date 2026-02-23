@@ -28,7 +28,7 @@ wikidata_id: "Q34872831"
 
 # Güharaderi Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin güzide şehri Batman'da yer alan Güharaderi Tepesi, yaklaşık 140 hektarlık alanı ile 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu tepe, Batman'ın merkezine uzun bir mesafe uzaklıkta bulunuyor ve şehrin doğal güzelliklerinden biri olarak kabul ediliyor. Güharaderi Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak görülüyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
+ Bu tepe, Batman'ın merkezine uzun bir mesafe uzaklıkta bulunuyor ve şehrin doğal güzelliklerinden biri olarak kabul ediliyor. Güharaderi Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak görülüyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 

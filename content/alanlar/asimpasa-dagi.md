@@ -48,9 +48,9 @@ Jeolojik açıdan bakıldığında, Asımpaşa Dağı'nın detaylı fiziksel ver
 
 ## Flora ve Fauna
 
-Asımpaşa Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü bölümünden başlarsak, ilkbaharın gelmesiyle birlikte dağ etekleri rengarenk çiçeklerle donanır. Alpin çayırlar, bölgenin endemik türleriyle dolu. 
-Yaban Hayatı bölümünde, memeliler ve kuşlar dağın yükseklik zonlarında yaşamını sürdürür. Sürüngenler de bu dağlarda kendine yer bulmuştur. 
+Asımpaşa Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü bölümünden başlarsak, ilkbaharın gelmesiyle birlikte dağ etekleri rengarenk çiçeklerle donanır. Alpin çayırlar, bölgenin endemik türleriyle dolu.
+Yaban Hayatı bölümünde, memeliler ve kuşlar dağın yükseklik zonlarında yaşamını sürdürür. Sürüngenler de bu dağlarda kendine yer bulmuştur.
 Ekolojik Değer bölümünden bahsedecek olursak, Asımpaşa Dağı yüksek dağ ekolojisinin tüm güzelliğini sunması nedeniyle önemlidir. Koruma durumu ise henüz istenilen seviyede değildir.
 
 ## Ziyaret Bilgileri

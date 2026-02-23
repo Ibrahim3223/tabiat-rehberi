@@ -22,7 +22,7 @@ wikidata_id: "Q21209755"
 
 # Frfrkar
 
-Muş'un dağlık arazisinde gizlenen Frfrkar Dağı, şehrin doğal güzelliklerini keşfetmek isteyenler için bir hazine. Bu dağ, Muş'un coğrafi yapısını şekillendiren önemli bir oluşum. Doğa severler ve macera arayanlar için ideal bir destinasyon olan Frfrkar Dağı, Muş'un büyüleyici manzaralarına ev sahipliği yapıyor. Muş'un merkezine yakın konumu ile kolayca ulaşılabilen bu dağ, ziyaretçilerine unutulmaz bir deneyim vadediyor.
+Muş'un dağlık arazisinde gizlenen Frfrkar Dağı, şehrin doğal güzelliklerini keşfetmek isteyenler için bir hazine. Bu dağ, Muş'un coğrafi yapısını şekillendiren önemli bir oluşum. Doğa severler ve macera arayanlar için ideal bir destinasyon olan Frfrkar Dağı, Muş'un büyüleyici manzaralarına ev sahipliği yapıyor.
 
 ## Tarihçe
 

@@ -46,7 +46,7 @@ Akburun Adası'nın bulunduğu bölge, doğal su kaynaklarına yakın bir konumd
 
 ## Flora ve Fauna
 
-Konya'nın Akburun Adası, step bitki örtüsünün hakim olduğu bir bölge olarak dikkat çekiyor. İlbahar mevsiminde, ada çiçeklerle örtülür ve renkli bir manzara sunar. Kıyı kesimlerde, tuzlu suya adapte olmuş bitkiler bulunur. 
+Konya'nın Akburun Adası, step bitki örtüsünün hakim olduğu bir bölge olarak dikkat çekiyor. İlbahar mevsiminde, ada çiçeklerle örtülür ve renkli bir manzara sunar. Kıyı kesimlerde, tuzlu suya adapte olmuş bitkiler bulunur.
 
 Yaban hayatı, özellikle deniz kuşlarıyla zengin. Göç mevsimlerinde, ada önemli bir durak noktasıdır. Ada ekosisteminin izole yapısı, benzersiz popülasyonların oluşmasına yol açmıştır. Memeliler ve sürüngenler de adanın fauna çeşitliliğine katkıda bulunur.
 

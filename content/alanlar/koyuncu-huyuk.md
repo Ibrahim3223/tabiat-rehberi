@@ -29,7 +29,7 @@ wikidata_id: "Q32200790"
 
 # Koyuncu Hüyük
 
-Koyuncu Hüyük, Hatay'ın Kırıkhan ilçesinde yer alan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Koyuncu Hüyük'ün etrafı, çeşitli bitki türleriyle çevrili. Bu bölge, yüzyıllar boyunca insanların yaşadığı ve tarımla uğraştığı bir yer olarak biliniyor. Koyuncu Hüyük'ün tarihi geçmişi, bölgenin önemli bir yerleşim yeri olduğunu gösteriyor. Koyuncu Hüyük'ü ziyaret ettiğinizde, tarihi ve doğal güzellikleri bir arada görebilirsiniz.
+Koyuncu Hüyük, Hatay'ın Kırıkhan ilçesinde yer alan bir tepe. Koyuncu Hüyük'ün etrafı, çeşitli bitki türleriyle çevrili. Bu bölge, yüzyıllar boyunca insanların yaşadığı ve tarımla uğraştığı bir yer olarak biliniyor. Koyuncu Hüyük'ün tarihi geçmişi, bölgenin önemli bir yerleşim yeri olduğunu gösteriyor. Koyuncu Hüyük'ü ziyaret ettiğinizde, tarihi ve doğal güzellikleri bir arada görebilirsiniz.
 
 ## Tarihçe
 

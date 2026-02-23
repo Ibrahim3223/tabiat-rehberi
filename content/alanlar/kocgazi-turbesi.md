@@ -1,7 +1,7 @@
 ---
 title: "Koçgazi Türbesi"
 date: "2026-01-10T06:06:42.975Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390637"
 
 # Koçgazi Türbesi
 
-Afyonkarahisar'ın Sandıklı ilçesinde yer alan Koçgazi Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği özel bir noktaya davet ediyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere hem tarihi bir yolculuk hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Bu mekan, hem tarihin izlerini taşıyan bir türbe hem de doğal güzellikleriyle dikkat çekiyor. Koçgazi Türbesi, Ege Bölgesi'nin turizm potansiyelini gösteren önemli bir destinasyon olarak dikkat çekiyor.
+Afyonkarahisar'ın Sandıklı ilçesinde yer alan Koçgazi Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği özel bir noktaya davet ediyor. Bu mekan, hem tarihin izlerini taşıyan bir türbe hem de doğal güzellikleriyle dikkat çekiyor. Koçgazi Türbesi, Ege Bölgesi'nin turizm potansiyelini gösteren önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

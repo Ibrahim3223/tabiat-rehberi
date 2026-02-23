@@ -28,7 +28,7 @@ wikidata_id: "Q32127193"
 
 # Aliöflez Dağı
 
-Aliöflez Dağı, İç Anadolu Bölgesi'nin kalbinde, Kırşehir ilinin sınırları içerisinde yer alan bir tepe. Bu bölge, coğrafi yapısı ve tarihi geçmişiyle dikkat çekiyor. Aliöflez Dağı'nın eteklerinde kurulan köyler ve kasabalar, bölgenin kültürel zenginliğini yansıtıyor. 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Aliöflez Dağı, doğa severler ve tarih meraklıları için bir hazine niteliğinde.
+Aliöflez Dağı, İç Anadolu Bölgesi'nin kalbinde, Kırşehir ilinin sınırları içerisinde yer alan bir tepe. Bu bölge, coğrafi yapısı ve tarihi geçmişiyle dikkat çekiyor. Aliöflez Dağı'nın eteklerinde kurulan köyler ve kasabalar, bölgenin kültürel zenginliğini yansıtıyor. Aliöflez Dağı, doğa severler ve tarih meraklıları için bir hazine niteliğinde.
 
 ## Tarihçe
 

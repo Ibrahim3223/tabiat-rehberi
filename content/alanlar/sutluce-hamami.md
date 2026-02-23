@@ -1,7 +1,7 @@
 ---
 title: "Sütlüce Hamamı"
 date: "2026-01-09T22:43:45.807Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738581"
 
 # Sütlüce Hamamı
 
-Sütlüce Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir mekan. İstanbul'un güzelliğini yansıtan bu plaj, Beyoğlu ilçesinde yer alıyor. 140 hektarlık bir alana sahip olan Sütlüce Hamamı, yaklaşık 200 futbol sahası büyüklüğünde. Bu güzel plaj, denizin güzelliğini ve temizliğini gözler önüne seriyor. Sütlüce Hamamı, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu nedenle, özellikle yaz aylarında çok kalabalık oluyor.
+Sütlüce Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir mekan. İstanbul'un güzelliğini yansıtan bu plaj, Beyoğlu ilçesinde yer alıyor. Bu güzel plaj, denizin güzelliğini ve temizliğini gözler önüne seriyor. Sütlüce Hamamı, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu nedenle, özellikle yaz aylarında çok kalabalık oluyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Sütlüce Hamamı, özellikle yaz aylarında ziyaret edilebilir. Bu dönemde, pl
 ## İlginç Bilgiler
 
 - Sütlüce Hamamı, 140 hektarlık bir alana sahip.
-- Plaj, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Sütlüce Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri.
 - Plaj, özellikle yaz aylarında çok kalabalık oluyor.
 - Sütlüce Hamamı, bir kültürel miras olarak kabul ediliyor.

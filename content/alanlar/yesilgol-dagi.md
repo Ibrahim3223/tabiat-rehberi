@@ -64,5 +64,5 @@ Yeşilgöl Dağı, Burdur'un görkemli doğasının bir parçasıdır. Sabah erk
 - Burdur il merkezine yaklaşık 15 kilometre uzaklıktadır.
 - Dağın yüksekliği hakkında net bir bilgi bulunmamaktadır, ancak Burdur'un coğrafi yapısı içinde önemli bir yer tutar.
 - Yeşilgöl Dağı, bölgede trekking ve doğa yürüyüşü için popüler bir destinasyon olarak bilinir.
-- Dağın çevresinde çeşitli históri ve kültürel noktalar yer alır, ancak bunlar hakkında spesifik bilgiler sınırlıdır.
+- Dağın çevresinde çeşitli tarihi ve kültürel noktalar yer alır, ancak bunlar hakkında spesifik bilgiler sınırlıdır.
 - Burdur ilinin toplam yüzölçümü 6.887 kilometrekare olduğuna göre, Yeşilgöl Dağı bu bölgenin küçük bir kısmını oluşturur.

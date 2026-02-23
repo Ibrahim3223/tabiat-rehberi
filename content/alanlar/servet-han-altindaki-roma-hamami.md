@@ -1,7 +1,7 @@
 ---
 title: "Servet Han Altındaki Roma Hamamı"
 date: "2026-01-09T23:26:22.110Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739094"
 
 # Servet Han Altındaki Roma Hamamı
 
-Servet Han Altındaki Roma Hamamı, İstanbul'un tarihi merkezi olan Fatih ilçesinde yer alır. Bu tarihi yapı, Marmara Bölgesi'nin önemli turistik noktalarından biri olarak bilinir. Roma Hamamı, yaklaşık 140 hektarlık bir alan üzerinde bulunur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Roma Hamamı, tarihsel önem taşıyan bir yapı olarak, ziyaretçilerini geçmişe götürmeyi başaran bir mekândır. Ziyaretçiler, bu hamamın tarihi atmosferini hissedebilir ve geçmişte yaşamış insanların nasıl yaşadığını hayal edebilir.
+Servet Han Altındaki Roma Hamamı, İstanbul'un tarihi merkezi olan Fatih ilçesinde yer alır. Bu tarihi yapı, Marmara Bölgesi'nin önemli turistik noktalarından biri olarak bilinir. Roma Hamamı, yaklaşık 140 hektarlık bir alan üzerinde bulunur. Roma Hamamı, tarihsel önem taşıyan bir yapı olarak, ziyaretçilerini geçmişe götürmeyi başaran bir mekândır. Ziyaretçiler, bu hamamın tarihi atmosferini hissedebilir ve geçmişte yaşamış insanların nasıl yaşadığını hayal edebilir.
 
 ## Tarihçe
 

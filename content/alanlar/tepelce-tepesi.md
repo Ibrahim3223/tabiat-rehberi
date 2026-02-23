@@ -28,7 +28,7 @@ wikidata_id: "Q31389772"
 
 # Tepelce Tepesi
 
-Tepelce Tepesi, Bilecik'in eşsiz doğa güzelliklerini sunan bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere geniş bir faaliyet yelpazesi sunar. Tepelce Tepesi, Marmara Bölgesi'nin kalbinde yer alır ve bu konum, ziyaretçilere bölgeye özgü floranın ve faunanın keyfini çıkarma fırsatı verir. Tepenin yüksekliği, çevredeki manzarayı izlemek için ideal bir noktadır ve bu, ziyaretçilere benzersiz bir deneyim sunar.
+Tepelce Tepesi, Bilecik'in eşsiz doğa güzelliklerini sunan bir destinasyondur. Tepelce Tepesi, Marmara Bölgesi'nin kalbinde yer alır ve bu konum, ziyaretçilere bölgeye özgü floranın ve faunanın keyfini çıkarma fırsatı verir. Tepenin yüksekliği, çevredeki manzarayı izlemek için ideal bir noktadır ve bu, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227523"
 
 # Kastamonu-Karadere Karacam
 
-Kastamonu-Karadere Karacam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda ziyaretçiler, doğanın tüm güzelliğini keşfetme fırsatı buluyor. Kastamonu'nun güzide milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini ortaya koyuyor. Burada, çeşitli bitki türleri ve fauna ziyaretçilere benzersiz bir deneyim sunuyor. Milli parkın güzergahı, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunuyor.
+Kastamonu-Karadere Karacam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Kastamonu'nun güzide milli parkı, Karadeniz Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini ortaya koyuyor. Burada, çeşitli bitki türleri ve fauna ziyaretçilere benzersiz bir deneyim sunuyor. Milli parkın güzergahı, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunuyor.
 
 ## Tarihçe
 

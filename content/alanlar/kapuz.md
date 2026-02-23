@@ -43,7 +43,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları da önemli bir nokta olara
 
 ## Flora ve Fauna
 
-Kapuz Kanyonu, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir doğa harikasıdır. İlkbaharın gelmesiyle birlikte, kanyonun eteklerinde çiçekler açar ve havayı mis gibi kokularla doldurur. Çam ağaçlarının gölgesinde, zeytinliklerin yeşilliği hüküm sürer. 
+Kapuz Kanyonu, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir doğa harikasıdır. İlkbaharın gelmesiyle birlikte, kanyonun eteklerinde çiçekler açar ve havayı mis gibi kokularla doldurur. Çam ağaçlarının gölgesinde, zeytinliklerin yeşilliği hüküm sürer.
 
 Bu bölgede yaşayan yaban hayat, Akdeniz ikliminin karakteristik türlerini barındırır. Kanyonun kayalık duvarlarında, çeşitli kuş türleri yuvalarını kurarken, memeliler ve sürüngenler de bu alanda yaşamlarını sürdürürler. Sonbaharın gelmesiyle birlikte, göçmen kuşlar kanyonun üzerinde uçarak geçer ve bu doğa cennetini ziyaret edenler için bir gösteri sunarlar.
 

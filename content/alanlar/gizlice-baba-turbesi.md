@@ -1,7 +1,7 @@
 ---
 title: "Gizlice Baba Türbesi"
 date: "2026-01-10T06:58:06.244Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390813"
 
 # Gizlice Baba Türbesi
 
-Gizlice Baba Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bu bölge, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmektedir. Türbenin etrafında bulunan ağaçlar ve yeşillikler, ziyaretçilere dinlenme ve doğayla baş başa kalma fırsatı sunmaktadır.
+Gizlice Baba Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. Bu bölge, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmektedir. Türbenin etrafında bulunan ağaçlar ve yeşillikler, ziyaretçilere dinlenme ve doğayla baş başa kalma fırsatı sunmaktadır.
 
 ## Tarihçe
 

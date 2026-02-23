@@ -1,7 +1,7 @@
 ---
 title: "Yerköprü Şelalesi"
 date: "2026-01-10T08:05:17.921Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "selalesi"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q6034015"
 
 # Yerköprü Şelalesi
 
-Yerköprü Şelalesi, Konya'nın Hadim ilçesinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir şelaledir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünebiliriz. Bu şelale, bölgenin coğrafi yapısı ve iklim koşulları nedeniyle, yıl boyunca ziyaretçilerini ağırlamaya hazırdır. Yerköprü Şelalesi, aynı zamanda bölgenin tarihi geçmişi ve kültürel zenginliği hakkında da bilgi sahibi olmamızı sağlar. Şelalenin etrafındaki doğa, ziyaretçilere huzur verici bir atmosfer sunar.
+Yerköprü Şelalesi, Konya'nın Hadim ilçesinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir şelaledir. Bu şelale, bölgenin coğrafi yapısı ve iklim koşulları nedeniyle, yıl boyunca ziyaretçilerini ağırlamaya hazırdır. Yerköprü Şelalesi, aynı zamanda bölgenin tarihi geçmişi ve kültürel zenginliği hakkında da bilgi sahibi olmamızı sağlar. Şelalenin etrafındaki doğa, ziyaretçilere huzur verici bir atmosfer sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yerköprü Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir s�
 
 ## Coğrafya
 
-Yerköprü Şelalesi, Konya'nın Hadim ilçesinde yer alır ve İç Anadolu Bölgesi'nin önemli coğrafi özelliklerinden biridir. Bu şelale, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünebiliriz. Yerköprü Şelalesi'nin coğrafi yapısı, bölgenin iklim koşulları ve bitki örtüsü hakkında bilgi sahibi olmamızı sağlar. Bu şelale, bölgenin coğrafi yapısı ve iklim koşulları nedeniyle, yıl boyunca ziyaretçilerini ağırlamaya hazırdır. Yerköprü Şelalesi'nin etrafındaki doğa, ziyaretçilere huzur verici bir atmosfer sunar. Bu şelale, aynı zamanda bölgenin coğrafi yapısı ve iklim koşulları hakkında da bilgi sahibi olmamızı sağlar. Yerköprü Şelalesi, Konya'nın Hadim ilçesinde yer alan bir doğa harikasıdır.
+Yerköprü Şelalesi, Konya'nın Hadim ilçesinde yer alır ve İç Anadolu Bölgesi'nin önemli coğrafi özelliklerinden biridir. Yerköprü Şelalesi'nin coğrafi yapısı, bölgenin iklim koşulları ve bitki örtüsü hakkında bilgi sahibi olmamızı sağlar. Bu şelale, bölgenin coğrafi yapısı ve iklim koşulları nedeniyle, yıl boyunca ziyaretçilerini ağırlamaya hazırdır. Yerköprü Şelalesi'nin etrafındaki doğa, ziyaretçilere huzur verici bir atmosfer sunar. Bu şelale, aynı zamanda bölgenin coğrafi yapısı ve iklim koşulları hakkında da bilgi sahibi olmamızı sağlar. Yerköprü Şelalesi, Konya'nın Hadim ilçesinde yer alan bir doğa harikasıdır.
 
 ## Flora ve Fauna
 

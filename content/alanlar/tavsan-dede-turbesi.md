@@ -1,7 +1,7 @@
 ---
 title: "Tavşan Dede Türbesi"
 date: "2026-01-10T07:01:41.252Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390780"
 
 # Tavşan Dede Türbesi
 
-Karadeniz Bölgesi'nin en güzel plajlarından biri olan Tavşan Dede Türbesi, Düzce'nin Akçakoca ilçesinde yer alıyor. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alana eşit. Tavşan Dede Türbesi, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini büyülüyor. Plajın etrafında çeşitli restoranlar ve kafeler yer alıyor, ziyaretçilerin yeme ve içecek ihtiyaçlarını karşılayabiliyor. Tavşan Dede Türbesi, hem yerli hem de yabancı turistlerin favori destinasyonlarından biri haline geldi.
+Karadeniz Bölgesi'nin en güzel plajlarından biri olan Tavşan Dede Türbesi, Düzce'nin Akçakoca ilçesinde yer alıyor. Tavşan Dede Türbesi, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini büyülüyor. Plajın etrafında çeşitli restoranlar ve kafeler yer alıyor, ziyaretçilerin yeme ve içecek ihtiyaçlarını karşılayabiliyor. Tavşan Dede Türbesi, hem yerli hem de yabancı turistlerin favori destinasyonlarından biri haline geldi.
 
 ## Tarihçe
 

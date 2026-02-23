@@ -29,7 +29,7 @@ wikidata_id: "Q134728279"
 
 # Ankara Frig Tümülüsü 11, Beştepe
 
-Ankara Frig Tümülüsü 11, Beştepe, İç Anadolu Bölgesi'nin kalbinde yer alan tarihi bir mekan. Bu önemli tarihi alan, yaklaşık 140 hektarlık bir genişlikte yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tarihi geçmişiyle dikkat çeken bu mekan, ziyaretçilerini bekliyor. Ankara'nın Yenimahalle ilçesinde bulunan bu tümülüs, tarihi açıdan zengin bir geçmişe sahip.
+Ankara Frig Tümülüsü 11, Beştepe, İç Anadolu Bölgesi'nin kalbinde yer alan tarihi bir mekan. Bu önemli tarihi alan, yaklaşık 140 hektarlık bir genişlikte yer alıyor. Tarihi geçmişiyle dikkat çeken bu mekan, ziyaretçilerini bekliyor. Ankara'nın Yenimahalle ilçesinde bulunan bu tümülüs, tarihi açıdan zengin bir geçmişe sahip.
 
 ## Tarihçe
 

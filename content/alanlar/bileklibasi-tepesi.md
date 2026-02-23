@@ -28,7 +28,7 @@ wikidata_id: "Q31534890"
 
 # Bileklibaşı Tepesi
 
-Bileklibaşı Tepesi, Osmaniye'nin Akdeniz Bölgesi'nde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgenin güzel manzarasını sunuyor. Bileklibaşı Tepesi, doğa severler ve gezi tutkunları için ideal bir destinasyon.
+Bileklibaşı Tepesi, Osmaniye'nin Akdeniz Bölgesi'nde yer alan bir tepe. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgenin güzel manzarasını sunuyor. Bileklibaşı Tepesi, doğa severler ve gezi tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 

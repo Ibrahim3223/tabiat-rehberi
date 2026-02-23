@@ -29,11 +29,11 @@ wikidata_id: "Q135582397"
 
 # Sitte Melik Kümbeti, Divriği
 
-Sivas'ın Divriği ilçesinde yer alan Sitte Melik Kümbeti, bir tarihi mekan olarak ziyaretçilerin ilgisini çekiyor. Bu kümbet, yaklaşık 12. yüzyılda inşa edilmiş ve bölgenin önemli kültürel miraslarından biri olarak kabul ediliyor. 140 hektarlık bir alan içinde bulunan Sitte Melik Kümbeti, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Mimari özellikleri ile dikkat çeken bu eser, özellikle tarihi ve kültürel değerleri sevenler için önemli bir gezi noktası olarak görülüyor.
+Sivas'ın Divriği ilçesinde yer alan Sitte Melik Kümbeti, bir tarihi mekan olarak ziyaretçilerin ilgisini çekiyor. Bu kümbet, yaklaşık 12. yüzyılda inşa edilmiş ve bölgenin önemli kültürel miraslarından biri olarak kabul ediliyor. Mimari özellikleri ile dikkat çeken bu eser, özellikle tarihi ve kültürel değerleri sevenler için önemli bir gezi noktası olarak görülüyor.
 
 ## Tarihçe
 
-Sitte Melik Kümbeti, 12. yüzyılın başlarında inşa edilmiş bir tarihi eser olarak dikkat çekiyor. Bu dönemde, özellikle Selçuklu hanedanının etkisi altında, birçok kümbet ve türbe inşa edilmiştir. Sitte Melik Kümbeti de bu döneme ait önemli bir örnek olarak kabul ediliyor. Tarihi geçmişi zengin olan bu mekan, yüzyıllar boyu çeşitli restorasyon ve onarımlar görmüş ve günümüze kadar ulaşmıştır. Özellikle mimari özellikleri ve histórik değerleri ile dikkat çeken Sitte Melik Kümbeti, Sivas'ın Divriği ilçesinde önemli bir kültürel miras olarak kabul ediliyor.
+Sitte Melik Kümbeti, 12. yüzyılın başlarında inşa edilmiş bir tarihi eser olarak dikkat çekiyor. Bu dönemde, özellikle Selçuklu hanedanının etkisi altında, birçok kümbet ve türbe inşa edilmiştir. Sitte Melik Kümbeti de bu döneme ait önemli bir örnek olarak kabul ediliyor. Tarihi geçmişi zengin olan bu mekan, yüzyıllar boyu çeşitli restorasyon ve onarımlar görmüş ve günümüze kadar ulaşmıştır. Özellikle mimari özellikleri ve tarihi değerleri ile dikkat çeken Sitte Melik Kümbeti, Sivas'ın Divriği ilçesinde önemli bir kültürel miras olarak kabul ediliyor.
 
 ## Coğrafya
 

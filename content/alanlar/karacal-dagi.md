@@ -57,7 +57,7 @@ Bitki Örtüsü:
 Karaçal Dağı'nın bitki örtüsü, maki türleri ile karakterize edilir. İlkbaharda, dağ etekleri rengarenk çiçeklerle kaplanır. Kuru ve sıcak yaz aylarında, bitkiler kuraklığa dayanıklı türler haline gelir.
 
 Yaban Hayatı:
-Dağın yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Kış aylarında, göçmen kuşlar dağları ziyaret eder. 
+Dağın yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Kış aylarında, göçmen kuşlar dağları ziyaret eder.
 Ekolojik Değer:
 Karaçal Dağı, bölge ekolojisinde önemli bir role sahiptir. Dağın ekosistemi, birçok canlının yaşam alanıdır ve koruma altına alınmıştır.
 

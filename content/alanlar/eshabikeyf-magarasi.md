@@ -49,10 +49,10 @@ Bölgenin ekosistem bağlantıları dikkate alındığında, Eshabıkeyf Mağara
 
 ## Flora ve Fauna
 
-Eshabıkeyf Mağarası'nın jeopark alanı, yarı kurak iklimin hüküm sürdüğü bir bölge içerisinde yer alır. Bu alan, step ve ova ekolojisinin karakteristik özelliklerini taşır. 
-1. Bitki Örtüsü: İlkbaharla birlikte, 1200 hektarlık bu yeşil cennet, çeşitli çiçek türleriyle renklenir. Yabani çiçekler ve otlar, mevsimsel değişimlere bağlı olarak farklı görünüm sergiler. 
-2. Yaban Hayatı: Bölgede, orman memelileri ve çeşitli kuş türleri bulunur. Sonbaharda, göç eden kuşlar bu alanı ziyaret eder. 
-3. Ekolojik Değer: Bu jeopark, bölgenin ekolojik dengesini korumak açısından önemlidir. Yerel türlerin yaşamsal bağımlılıkları, bu alanın korunmasını gerekli kılar.
+Eshabıkeyf Mağarası'nın jeopark alanı, yarı kurak iklimin hüküm sürdüğü bir bölge içerisinde yer alır. Bu alan, step ve ova ekolojisinin karakteristik özelliklerini taşır.
+1. Bitki Örtüsü: İlkbaharla birlikte, 1200 hektarlık bu yeşil cennet, çeşitli çiçek türleriyle renklenir. Yabani çiçekler ve otlar, mevsimsel değişimlere bağlı olarak farklı görünüm sergiler.
+2. Yaban Hayatı: Bölgede, orman memelileri ve çeşitli kuş türleri bulunur. Sonbaharda, göç eden kuşlar bu alanı ziyaret eder.
+3. Yerel türlerin yaşamsal bağımlılıkları, bu alanın korunmasını gerekli kılar.
 
 ## Ziyaret Bilgileri
 

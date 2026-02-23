@@ -22,7 +22,7 @@ wikidata_id: "Q108227597"
 
 # Antalya-Finike-Aykiricay Sedir 2
 
-Antalya-Finike-Aykiricay Sedir 2 milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden birini oluşturuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılıyor. Milli parkın içinde yer alan Aykiricay Nehri, Sedir Ormanları ve Finike'nin tarihi geçmişi, ziyaretçilere zengin bir deneyim sunuyor. Bu milli park, hem doğa severler hem de tarih meraklıları için önemli bir çekim merkezi olarak dikkat çekiyor.
+Antalya-Finike-Aykiricay Sedir 2 milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden birini oluşturuyor. Milli parkın içinde yer alan Aykiricay Nehri, Sedir Ormanları ve Finike'nin tarihi geçmişi, ziyaretçilere zengin bir deneyim sunuyor. Bu milli park, hem doğa severler hem de tarih meraklıları için önemli bir çekim merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Finike-Aykiricay Sedir 2 milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Antalya-Finike-Aykiricay Sedir 2 milli parkı, Akdeniz Bölgesi'nin coğrafi yapısını yansıtıyor. Milli parkın coğrafi konumu, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgede, Sedir Ormanları, Aykiricay Nehri ve Finike'nin tarihi geçmişi, ziyaretçilere zengin bir doğal ve kültürel deneyim sunuyor. Milli parkın iklimi, Akdeniz ikliminin özellikleri taşıyor ve ziyaretçilere yılın her döneminde ziyaret imkanı veriyor. Bu coğrafi yapı, milli parkın flora ve faunasını da şekillendiriyor ve ziyaretçilere çeşitli bitki ve hayvan türlerini gözlemleme imkanı sunuyor.
+Antalya-Finike-Aykiricay Sedir 2 milli parkı, Akdeniz Bölgesi'nin coğrafi yapısını yansıtıyor. Bu bölgede, Sedir Ormanları, Aykiricay Nehri ve Finike'nin tarihi geçmişi, ziyaretçilere zengin bir doğal ve kültürel deneyim sunuyor. Milli parkın iklimi, Akdeniz ikliminin özellikleri taşıyor ve ziyaretçilere yılın her döneminde ziyaret imkanı veriyor. Bu coğrafi yapı, milli parkın flora ve faunasını da şekillendiriyor ve ziyaretçilere çeşitli bitki ve hayvan türlerini gözlemleme imkanı sunuyor.
 
 ## Flora ve Fauna
 

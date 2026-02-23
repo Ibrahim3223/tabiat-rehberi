@@ -28,7 +28,7 @@ wikidata_id: "Q31551337"
 
 # Rabi Tepesi
 
-Rabi Tepesi, Mardin ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, khong 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan geniş bir yeşil alana sahiptir. Rabi Tepesi, Mardin'in tarihi ve kültürel zenginliklerinin yanı sıra doğal güzellikleriyle de dikkat çekmektedir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu nedenle doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olarak görülmektedir.
+Rabi Tepesi, Mardin ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Rabi Tepesi, Mardin'in tarihi ve kültürel zenginliklerinin yanı sıra doğal güzellikleriyle de dikkat çekmektedir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu nedenle doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olarak görülmektedir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Rabi Tepesi, Mardin ilinin coğrafi yapısını karakterize eden en önemli öze
 
 ## Flora ve Fauna
 
-Rabi Tepesi, Güneydoğu Anadolu Bölgesi'nin flora ve faunasının çeşitliliğini yansıtmaktadır. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta, bu nedenle doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olarak görülmektedir. Rabi Tepesi ve çevresindeki alanlar, mevsimsel değişimlere göre farklı güzellikler sunmaktadır. İlkbahar ve yaz aylarında, tepe ve çevresindeki alanlar yeşillenmekte ve çeşitli bitki türleri ile kaplanmaktadır. Kış aylarında ise, karla kaplanan tepe, kış sporları için elverişli bir ortam sunmaktadır. Rabi Tepesi, bölgenin ekolojik dengesini korumak açısından da önemli bir role sahiptir.
+Rabi Tepesi, Güneydoğu Anadolu Bölgesi'nin flora ve faunasının çeşitliliğini yansıtmaktadır. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta, bu nedenle doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olarak görülmektedir. Rabi Tepesi ve çevresindeki alanlar, mevsimsel değişimlere göre farklı güzellikler sunmaktadır. İlkbahar ve yaz aylarında, tepe ve çevresindeki alanlar yeşillenmekte ve çeşitli bitki türleri ile kaplanmaktadır. Kış aylarında ise, karla kaplanan tepe, kış sporları için elverişli bir ortam sunmaktadır.
 
 ## Ziyaret Bilgileri
 

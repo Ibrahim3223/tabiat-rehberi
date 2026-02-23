@@ -28,7 +28,7 @@ wikidata_id: "Q34828366"
 
 # Çanlıdede Tepesi
 
-Yozgat'ın İç Anadolu Bölgesi'nde bulunan Çanlıdede Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu tepe, ziyaretçilerini doğal güzellikleriyle ve yaban hayatı çeşitliliğiyle karşılar. Çanlıdede Tepesi, bölgenin önemli ekoloji ve turistik noktalarından biri olarak kabul edilir. Tepenin etrafındaki manzara, ziyaretçilere geniş ve yeşil bir alan sunar.
+ Bu tepe, ziyaretçilerini doğal güzellikleriyle ve yaban hayatı çeşitliliğiyle karşılar. Çanlıdede Tepesi, bölgenin önemli ekoloji ve turistik noktalarından biri olarak kabul edilir. Tepenin etrafındaki manzara, ziyaretçilere geniş ve yeşil bir alan sunar.
 
 ## Tarihçe
 

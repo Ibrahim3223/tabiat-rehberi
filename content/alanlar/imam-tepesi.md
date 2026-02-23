@@ -28,7 +28,7 @@ wikidata_id: "Q31388230"
 
 # İmam Tepesi
 
-İmam Tepesi, Kars'ın tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. İmam Tepesi, Kars'ın merkezine yakın bir konumda yer alır ve şehrin tarihi geçmişi hakkında bilgi edinmek isteyenler için ideal bir noktadır. Tepenin eteklerinde bulunan tarihi yapılar, ziyaretçilere bölgenin zengin tarihini anlatır.
+İmam Tepesi, Kars'ın tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyondur. İmam Tepesi, Kars'ın merkezine yakın bir konumda yer alır ve şehrin tarihi geçmişi hakkında bilgi edinmek isteyenler için ideal bir noktadır. Tepenin eteklerinde bulunan tarihi yapılar, ziyaretçilere bölgenin zengin tarihini anlatır.
 
 ## Tarihçe
 

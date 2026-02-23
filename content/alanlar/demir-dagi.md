@@ -52,13 +52,13 @@ Jeolojik açıdan bakıldığında, Demir Dağı'nın fiziksel yapısı hakkınd
 
 ## Flora ve Fauna
 
-Demir Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir bölge olarak, benzersiz bir dağ ekosisteminin ev sahibidir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Demir Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir bölge olarak, benzersiz bir dağ ekosisteminin ev sahibidir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü:
-Demir Dağı'nın flora'sı, ilkbaharın başlangıcında renkli çiçeklerle süslenir. step bölgesinin karakteristik bitkileri, kuraklığa adapte olmuş türler, dağ yamaçlarında ve zirvelerde alpin flora ile bir araya gelir. 
+Demir Dağı'nın flora'sı, ilkbaharın başlangıcında renkli çiçeklerle süslenir. step bölgesinin karakteristik bitkileri, kuraklığa adapte olmuş türler, dağ yamaçlarında ve zirvelerde alpin flora ile bir araya gelir.
 
 Yaban Hayatı:
-Demir Dağı, çeşitli yaban hayvanlarına ev sahipliği yapar. Memeliler, dağların yükseklik zonlarında yaşamını sürdürürken, kuşlar mevsimsel olarak göç eder. Sürüngenler, step bölgesinin karakteristik türleri, dağların sıcak ve kurak bölgelerinde yaşar. 
+Demir Dağı, çeşitli yaban hayvanlarına ev sahipliği yapar. Memeliler, dağların yükseklik zonlarında yaşamını sürdürürken, kuşlar mevsimsel olarak göç eder. Sürüngenler, step bölgesinin karakteristik türleri, dağların sıcak ve kurak bölgelerinde yaşar.
 
 Ekolojik Değer:
 Demir Dağı, ekolojik olarak önemli bir bölgedir. Yükseklik zonları, alpin flora ve dağ hayvanları, bu dağ ekosisteminin değerini arttırır. Bu bölge, koruma altına alınmalıdır ki gelecek nesiller de bu doğal güzelliği deneyimleyebilsin.

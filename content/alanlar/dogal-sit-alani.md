@@ -23,7 +23,7 @@ wikidata_id: "Q108228951"
 
 # Doğal Sit Alani
 
-Doğal Sit Alani, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası. Bu muhteşem alan, ziyaretçilerini güneşin ışığını yaprakların arasında izlemeye, çiçeklerin renklerini ve kokularını keşfetmeye davet ediyor. Doğal Sit Alani, doğa severlerin ve fotoğraf tutkunlarının buluşma noktası olarak bilinir. Burada, doğanın güzelliğini ve çeşitliliğini keşfetme mümkündür. 140 hektarlık bu yeşil alan, aynı zamanda birçok bitki ve hayvan türünün yaşam alanı olarak hizmet vermektedir.
+ Bu muhteşem alan, ziyaretçilerini güneşin ışığını yaprakların arasında izlemeye, çiçeklerin renklerini ve kokularını keşfetmeye davet ediyor. Doğal Sit Alani, doğa severlerin ve fotoğraf tutkunlarının buluşma noktası olarak bilinir. Burada, doğanın güzelliğini ve çeşitliliğini keşfetme mümkündür. 140 hektarlık bu yeşil alan, aynı zamanda birçok bitki ve hayvan türünün yaşam alanı olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Doğal Sit Alani'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Doğal Sit Alani, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları, ormanlık alanları ve su kaynaklarıyla birlikte, zengin bir ekosistemi barındırmaktadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. İklimi, karasal iklim özellikleri göstermekte olup, yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı geçmektedir. Bu coğrafi yapı, doğal sit alanının zengin fauna ve floraya sahip olmasını sağlamıştır. Doğal Sit Alani, aynı zamanda birçok su kaynağına ev sahipliği yapmakta olup, bu su kaynakları, ziyaretçilerin ve canlıların yararlanabileceği önemli bir kaynaktır.
+Doğal Sit Alani, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları, ormanlık alanları ve su kaynaklarıyla birlikte, zengin bir ekosistemi barındırmaktadır. İklimi, karasal iklim özellikleri göstermekte olup, yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı geçmektedir. Bu coğrafi yapı, doğal sit alanının zengin fauna ve floraya sahip olmasını sağlamıştır. Doğal Sit Alani, aynı zamanda birçok su kaynağına ev sahipliği yapmakta olup, bu su kaynakları, ziyaretçilerin ve canlıların yararlanabileceği önemli bir kaynaktır.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Doğal Sit Alani'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim ol
 ## İlginç Bilgiler
 
 - Doğal Sit Alani, 140 hektarlık bir alana sahiptir.
-- Doğal Sit Alani, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Doğal Sit Alani, birçok bitki ve hayvan türünün yaşam alanıdır.
 - Doğal Sit Alani, İç Anadolu Bölgesi'nin kalbinde yer almaktadır.
 - Doğal Sit Alani, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunmaktadır.

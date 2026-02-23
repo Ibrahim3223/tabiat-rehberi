@@ -28,7 +28,7 @@ wikidata_id: "Q34829413"
 
 # Çiğdemli Tepesi
 
-Samsun'un güzide noktalarından biri olan Çiğdemli Tepesi, şehrin panoramik manzarasına hakim bir konumda yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Çiğdemli Tepesi, Samsun'un merkezine yakın bir konumda bulunması nedeniyle, ziyaretçiler için ulaşımı oldukça kolaydır. Bu tepe, aynı zamanda şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir noktadır. Çiğdemli Tepesi'nin etrafında bulunan çeşitli tarihi ve kültürel yapılar, ziyaretçilere Samsun'un geçmişini ve günümüzdeki yaşamını anlatmaktadır.
+Samsun'un güzide noktalarından biri olan Çiğdemli Tepesi, şehrin panoramik manzarasına hakim bir konumda yer alır. Çiğdemli Tepesi, Samsun'un merkezine yakın bir konumda bulunması nedeniyle, ziyaretçiler için ulaşımı oldukça kolaydır. Bu tepe, aynı zamanda şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir noktadır. Çiğdemli Tepesi'nin etrafında bulunan çeşitli tarihi ve kültürel yapılar, ziyaretçilere Samsun'un geçmişini ve günümüzdeki yaşamını anlatmaktadır.
 
 ## Tarihçe
 

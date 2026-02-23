@@ -28,7 +28,7 @@ wikidata_id: "Q31388201"
 
 # Kuzalan Tepesi
 
-Kuzalan Tepesi, Denizli'nin Ege Bölgesi'nde yer alan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Kuzalan Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkün. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found. Kuzalan Tepesi, aynı zamanda yerel halkın ve turistlerin ziyaret ettiği bir yer.
+Kuzalan Tepesi, Denizli'nin Ege Bölgesi'nde yer alan bir doğa harikası. Kuzalan Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkün. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found. Kuzalan Tepesi, aynı zamanda yerel halkın ve turistlerin ziyaret ettiği bir yer.
 
 ## Tarihçe
 

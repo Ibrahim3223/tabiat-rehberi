@@ -28,11 +28,11 @@ wikidata_id: "Q31555582"
 
 # Kelah Tepesi
 
-Kelah Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve bölgenin doğal güzelliklerine örnek olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Kelah Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayacak bir bölge. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Kelah Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve bölgenin doğal güzelliklerine örnek olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Kelah Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayacak bir bölge. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
-Kelah Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, tarihin farklı dönemlerinde çeşitli medeniyetlere ev sahipliği yapmış. Kelah Tepesi, bölgenin önemli tarihî ve kültürel değerlerini barındırıyor. Tarihin izlerini taşıyan bu tepe, ziyaretçilerine geçmişten günümüze uzanan bir zaman yolculuğu sunuyor. Kelah Tepesi'nin história, bölgenin zengin kültürel mirasını öğrenmek için ideal bir yer.
+Kelah Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, tarihin farklı dönemlerinde çeşitli medeniyetlere ev sahipliği yapmış. Kelah Tepesi, bölgenin önemli tarihî ve kültürel değerlerini barındırıyor. Tarihin izlerini taşıyan bu tepe, ziyaretçilerine geçmişten günümüze uzanan bir zaman yolculuğu sunuyor. Kelah Tepesi'nin tarihi, bölgenin zengin kültürel mirasını öğrenmek için ideal bir yer.
 
 ## Coğrafya
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31539924"
 
 # Harunahaka Tepesi
 
-Harunahaka Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir bölge. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada keşfetme fırsatı sunuyor. Tepenin yüksekliği ve konumu, çevreyi panoramik olarak izlemek için ideal bir nokta oluşturuyor. Harunahaka Tepesi, doğa severler ve tarih meraklıları için önemli bir destinasyon.
+Harunahaka Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir bölge. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada keşfetme fırsatı sunuyor. Tepenin yüksekliği ve konumu, çevreyi panoramik olarak izlemek için ideal bir nokta oluşturuyor. Harunahaka Tepesi, doğa severler ve tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 

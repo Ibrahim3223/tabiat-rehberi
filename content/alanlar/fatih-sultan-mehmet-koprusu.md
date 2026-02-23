@@ -1,7 +1,7 @@
 ---
 title: "Fatih Sultan Mehmet Köprüsü"
 date: "2026-01-09T22:09:29.476Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q369967"
 
 # Fatih Sultan Mehmet Köprüsü
 
-Fatih Sultan Mehmet Köprüsü, İstanbul'un Avrupa ve Asya yakalarını bağlayan önemli bir ulaşım arteridir. 1510 metrelik uzunluğuyla, Boğaziçi Köprüsü'nden sonra ikinci olarak yapılan asma köprüdür. Bu köprü, Hisarüstü ve Kavacık arasında bulunan khonglığı köprü ile bağlar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeye karşılık gelir. Fatih Sultan Mehmet Köprüsü, İstanbul'un trafik akışını düzenlemede önemli bir rol oynar. Köprünün inşaatı 1986 yılında tamamlanmıştır. İstanbul'un en önemli geçiş noktalarından biri olan Fatih Sultan Mehmet Köprüsü, aynı zamanda şehrin önemli bir simgesidir.
+Fatih Sultan Mehmet Köprüsü, İstanbul'un Avrupa ve Asya yakalarını bağlayan önemli bir ulaşım arteridir. 1510 metrelik uzunluğuyla, Boğaziçi Köprüsü'nden sonra ikinci olarak yapılan asma köprüdür. Bu köprü, Hisarüstü ve Kavacık arasında bulunan khonglığı köprü ile bağlar. Fatih Sultan Mehmet Köprüsü, İstanbul'un trafik akışını düzenlemede önemli bir rol oynar. Köprünün inşaatı 1986 yılında tamamlanmıştır. İstanbul'un en önemli geçiş noktalarından biri olan Fatih Sultan Mehmet Köprüsü, aynı zamanda şehrin önemli bir simgesidir.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q131738530"
 
 # Salihler Ilıcası
 
-Salihler Ilıcası, Dikili'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu güzel plaj, ziyaretçilerini denizin serinliklerinde ve güneşin sıcaklığında karşılar. Salihler Ilıcası, aynı zamanda zengin flora ve fauna ile dikkat çeker. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bu doğal cennet, ziyaretçilerine huzur ve rahatlık sunar.
+Salihler Ilıcası, Dikili'nin en güzel plajlarından biri olarak bilinir. Bu güzel plaj, ziyaretçilerini denizin serinliklerinde ve güneşin sıcaklığında karşılar. Salihler Ilıcası, aynı zamanda zengin flora ve fauna ile dikkat çeker. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bu doğal cennet, ziyaretçilerine huzur ve rahatlık sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Salihler Ilıcası'nın tarihi geçmişi, yüzyıllar boyunca insanların bu gü
 
 ## Coğrafya
 
-Salihler Ilıcası, Dikili'nin en güzel plajlarından biri olarak bilinir ve Ege Bölgesi'nin doğal güzelliklerini sunar. Bu plaj, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğündedir. Salihler Ilıcası, Dikili'nin merkezine yakın bir konumda bulunur ve ulaşımı kolaydır. Bu plaj, deniz ve güneş ile tanınır ve ziyaretçilerine çeşitli etkinlikler sunar. Salihler Ilıcası'nın coğrafyası, Ege Bölgesi'nin karakteristik özelliklerini taşır. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bu doğal cennet, ziyaretçilerine huzur ve rahatlık sunar. Salihler Ilıcası, aynı zamanda önemli bir ekolojik alan olarak kabul edilir. Burada, çeşitli ekolojik projeler düzenlenir ve ziyaretçiler, bu güzel yerin ekolojisini öğrenme fırsatı bulur.
+Salihler Ilıcası, Dikili'nin en güzel plajlarından biri olarak bilinir ve Ege Bölgesi'nin doğal güzelliklerini sunar. Salihler Ilıcası, Dikili'nin merkezine yakın bir konumda bulunur ve ulaşımı kolaydır. Bu plaj, deniz ve güneş ile tanınır ve ziyaretçilerine çeşitli etkinlikler sunar. Salihler Ilıcası'nın coğrafyası, Ege Bölgesi'nin karakteristik özelliklerini taşır. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Bu doğal cennet, ziyaretçilerine huzur ve rahatlık sunar. Salihler Ilıcası, aynı zamanda önemli bir ekolojik alan olarak kabul edilir. Burada, çeşitli ekolojik projeler düzenlenir ve ziyaretçiler, bu güzel yerin ekolojisini öğrenme fırsatı bulur.
 
 ## Flora ve Fauna
 

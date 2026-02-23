@@ -28,7 +28,7 @@ wikidata_id: "Q32223497"
 
 # Gökkaya Tepesi
 
-Gökkaya Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir yeşil cennet. Bu tepe, doğa severlerin buluşma noktası olarak bilinir. Gökkaya Tepesi, Muğla'nın merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşımı kolaydır. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Gökkaya Tepesi, hem doğa severler hem de fotoğraf sanatçıları için bir cennettir.
+ Bu tepe, doğa severlerin buluşma noktası olarak bilinir. Gökkaya Tepesi, Muğla'nın merkezine uzun bir mesafe uzaklıkta bulunur ve ulaşımı kolaydır. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Gökkaya Tepesi, hem doğa severler hem de fotoğraf sanatçıları için bir cennettir.
 
 ## Tarihçe
 

@@ -32,9 +32,9 @@ Ordu'nun dağlık bölgesinde yer alan Döşeme Dağı, Karadeniz Bölgesi'nin e
 
 ## Tarihçe
 
-Döşeme Dağı, Ordu'nun tarihi ve kültürel zenginliklerinin bir parçası olarak doğanın güzelliğini sergiler. Ordu bölgesi, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir yerleşim merkezi olmuştur. Hititler, Romalılar ve Osmanlılar gibi medeniyetler bu topraklarda izler bırakmışlardır. 
+Döşeme Dağı, Ordu'nun tarihi ve kültürel zenginliklerinin bir parçası olarak doğanın güzelliğini sergiler. Ordu bölgesi, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir yerleşim merkezi olmuştur. Hititler, Romalılar ve Osmanlılar gibi medeniyetler bu topraklarda izler bırakmışlardır.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu doğal alanlarla ilişkisini şekillendirmiştir. Döşeme Dağı da, bu bağlamda, bölgenin ekonomi ve sosyal yapısına katkıda bulunmuştur. 
+Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu doğal alanlarla ilişkisini şekillendirmiştir. Döşeme Dağı da, bu bağlamda, bölgenin ekonomi ve sosyal yapısına katkıda bulunmuştur.
 
 Tarih boyunca, Ordu bölgesinde yaşayan insanlar, doğal kaynakları kullanarak hayatlarını sürdürmüşlerdir. Dağların eteklerinde kurulan yerleşim yerleri, ticaret ve kültür alışverişiçin önemli merkezler olarak görev görmüştür. Döşeme Dağı, bu zengin tarihsel bağlam içinde, Ordu'nun doğal güzelliğini ve kültürel mirasını koruma altına almıştır.
 

@@ -28,15 +28,15 @@ wikidata_id: "Q31389725"
 
 # Siraca Tepesi
 
-Siraca Tepesi, Kastamonu'nun gözde noktalarından biri olarak karşımıza çıkıyor. Yaklaşık 140 hektarlık alanıyla 200 futbol sahası büyüklüğünde bir yeşil cennet sunan bu tepe, ziyaretçilerini doğanın kucağına davet ediyor. Doğal güzelliği, zengin flora ve fauna çeşitliliği ile dikkat çeken Siraca Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi.
+Siraca Tepesi, Kastamonu'nun gözde noktalarından biri olarak karşımıza çıkıyor. Doğal güzelliği, zengin flora ve fauna çeşitliliği ile dikkat çeken Siraca Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi.
 
 ## Tarihçe
 
-Siraca Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu tepenin eteklerinde ve çevresinde yapılan araştırmalar, bölgenin zengin bir kültürel mirasa sahip olduğunu gösteriyor. Siraca Tepesi, geçmişte önemli bir yerleşim ve ticaret merkezi olarak görev almış olabileceği düşünülüyor. Ancak, bugüne kadar yapılan araştırmalar,tam bir tarihleme sağlamamış olsa da, tepenin histórik önemini vurguluyor.
+Siraca Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu tepenin eteklerinde ve çevresinde yapılan araştırmalar, bölgenin zengin bir kültürel mirasa sahip olduğunu gösteriyor. Siraca Tepesi, geçmişte önemli bir yerleşim ve ticaret merkezi olarak görev almış olabileceği düşünülüyor. Ancak, bugüne kadar yapılan araştırmalar,tam bir tarihleme sağlamamış olsa da, tepenin tarihi önemini vurguluyor.
 
 ## Coğrafya
 
-Siraca Tepesi, Kastamonu'nun coğrafi yapısının önemli bir parçasını oluşturuyor. Tepenin bulunduğu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Yaklaşık 140 hektarlık alanı, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Tepenin etekleri, çeşitli bitki türleri ile kaplı olup, bu bölgede zengin bir flora çeşitliliği gözlemleniyor. Siraca Tepesi, aynı zamanda zengin bir fauna çeşitliliğine de ev sahipliği yapıyor. Tepenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve etraftaki manzarayı izleme imkanı sağlıyor.
+Siraca Tepesi, Kastamonu'nun coğrafi yapısının önemli bir parçasını oluşturuyor. Tepenin bulunduğu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Tepenin etekleri, çeşitli bitki türleri ile kaplı olup, bu bölgede zengin bir flora çeşitliliği gözlemleniyor. Siraca Tepesi, aynı zamanda zengin bir fauna çeşitliliğine de ev sahipliği yapıyor. Tepenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve etraftaki manzarayı izleme imkanı sağlıyor.
 
 ## Flora ve Fauna
 

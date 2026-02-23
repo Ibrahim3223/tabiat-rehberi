@@ -28,7 +28,7 @@ wikidata_id: "Q32138078"
 
 # Mühlü Tepe
 
-Mühlü Tepe, Konya'nın merkezi bir noktasında yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş açıkları ile karşılar. Tarihi geçmişi ve coğrafi konumu ile dikkat çeken Mühlü Tepe, yıl boyunca çok sayıda ziyaretçi tarafından keşfediliyor. Bu tepe, Konya'nın önemli noktalarından biri olarak biliniyor ve ziyaretçilerine doğa ile iç içe bir deneyim sunuyor.
+Mühlü Tepe, Konya'nın merkezi bir noktasında yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir tepe. Tarihi geçmişi ve coğrafi konumu ile dikkat çeken Mühlü Tepe, yıl boyunca çok sayıda ziyaretçi tarafından keşfediliyor. Bu tepe, Konya'nın önemli noktalarından biri olarak biliniyor ve ziyaretçilerine doğa ile iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

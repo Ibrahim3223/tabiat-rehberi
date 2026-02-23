@@ -1,7 +1,7 @@
 ---
 title: "Çandarlı İbrahim Paşa Hamamı"
 date: "2026-01-09T22:53:35.136Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -38,7 +38,7 @@ wikidata_id: "Q131738642"
 
 ## Coğrafya
 
-Çandarlı İbrahim Paşa Hamamı, Osmangazi ilçesinin merkezi bölümünde yer almaktadır. Hamamın konumu, ziyaretçilerin kolayca ulaşabilmesine olanak tanımaktadır. Hamamın etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu doğal güzellikler, hamamın atmosferini daha da güzelleştirmektedir. Hamamın yapısı, geleneksel Osmanlı mimarisine uygun olarak tasarlanmış olup, tarihi bir atmosferi yansıtmaktadır. Çandarlı İbrahim Paşa Hamamı, Marmara Bölgesi'nin coğrafi özelliklerine uygun olarak inşa edilmiştir. Hamamın bulunduğu bölge, ilkbahar ve yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir iklime sahiptir. Bu nedenle, ziyaretçilerin hamama gitmeden önce hava durumunu kontrol etmeleri önerilir. Hamamın coğrafi konumu, ziyaretçilere Bursa'nın tarihi ve doğal güzelliklerini keşfetme fırsatı sunmaktadır.
+Çandarlı İbrahim Paşa Hamamı, Osmangazi ilçesinin merkezi bölümünde yer almaktadır. Hamamın konumu, ziyaretçilerin kolayca ulaşabilmesine olanak tanımaktadır. Hamamın etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu doğal güzellikler, hamamın atmosferini daha da güzelleştirmektedir. Hamamın yapısı, geleneksel Osmanlı mimarisine uygun olarak tasarlanmış olup, tarihi bir atmosferi yansıtmaktadır. Çandarlı İbrahim Paşa Hamamı, Marmara Bölgesi'nin coğrafi özelliklerine uygun olarak inşa edilmiştir. Hamamın bulunduğu bölge, ilkbahar ve yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir iklime sahiptir. Bu nedenle, ziyaretçilerin hamama gitmeden önce hava durumunu kontrol etmeleri önerilir.
 
 ## Flora ve Fauna
 

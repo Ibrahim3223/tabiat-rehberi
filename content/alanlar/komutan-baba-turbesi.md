@@ -1,7 +1,7 @@
 ---
 title: "Komutan Baba Türbesi"
 date: "2026-01-10T06:53:12.005Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390776"
 
 # Komutan Baba Türbesi
 
-Komutan Baba Türbesi, Düzce'nin Akçakoca ilçesinde yer alan ve tarihi ile doğal güzelliği bir arada sunan özel bir mekan. Bu alan, yaklaşık 140 hektarlık geniş bir yeşil alan sunuyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu geniş yeşil alanın içinde, tarihi bir türbe ve çevresi, ziyaretçilere hem manevi hem de doğal bir zenginlik sunuyor. Komutan Baba Türbesi, hem yerel halk hem de gelen ziyaretçiler için önemli bir çekim merkezi olarak kabul ediliyor.
+Komutan Baba Türbesi, Düzce'nin Akçakoca ilçesinde yer alan ve tarihi ile doğal güzelliği bir arada sunan özel bir mekan. Bu geniş yeşil alanın içinde, tarihi bir türbe ve çevresi, ziyaretçilere hem manevi hem de doğal bir zenginlik sunuyor. Komutan Baba Türbesi, hem yerel halk hem de gelen ziyaretçiler için önemli bir çekim merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 

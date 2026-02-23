@@ -28,7 +28,7 @@ wikidata_id: "Q31554245"
 
 # Hisadero Tepesi
 
-Hisadero Tepesi, Mardin ilinin eşsiz güzellikteki bir noktası. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Hisadero Tepesi, hem doğal güzelliği hem de tarihsel önemiyle dikkat çekiyor. Tepenin eteklerinde bulunan tarihi yapılar, bu bölgenin zengin geçmişini yansıtıyor. Gezginler, bu tepeye çıkarak Mardin'in panoramik manzarasını izleyebilir ve bölgeyi keşfedebilir.
+Hisadero Tepesi, Mardin ilinin eşsiz güzellikteki bir noktası. Hisadero Tepesi, hem doğal güzelliği hem de tarihsel önemiyle dikkat çekiyor. Tepenin eteklerinde bulunan tarihi yapılar, bu bölgenin zengin geçmişini yansıtıyor. Gezginler, bu tepeye çıkarak Mardin'in panoramik manzarasını izleyebilir ve bölgeyi keşfedebilir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Hisadero Tepesi, Mardin'in coğrafi özelliklerini yansıtan bir bölgedir. Tepe
 
 ## Flora ve Fauna
 
-Hisadero Tepesi ve çevresindeki bölge, çeşitli bitki türleri ve hayvanları barındırmaktadır. Bu bölgenin flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, tepenin etrafı yeşilleniyor ve çeşitli çiçekler açıyor. Kış aylarında ise, bölgenin flora ve faunası daha sakin bir hal alıyor. Hisadero Tepesi, Mardin'in ekolojik dengesini korumak açısından önemli bir role sahip. Bu bölge, çeşitli hayvan türleri için doğal bir habitat oluşturuyor ve bölgenin ekolojik zenginliğini koruyor.
+Hisadero Tepesi ve çevresindeki bölge, çeşitli bitki türleri ve hayvanları barındırmaktadır. Bu bölgenin flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, tepenin etrafı yeşilleniyor ve çeşitli çiçekler açıyor. Kış aylarında ise, bölgenin flora ve faunası daha sakin bir hal alıyor. Bu bölge, çeşitli hayvan türleri için doğal bir habitat oluşturuyor ve bölgenin ekolojik zenginliğini koruyor.
 
 ## Ziyaret Bilgileri
 

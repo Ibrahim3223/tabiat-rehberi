@@ -23,7 +23,7 @@ wikidata_id: "Q123222156"
 
 # Legoland Discovery Centre İstanbul
 
-Legoland Discovery Centre İstanbul, eğlence ve öğrenmenin birleştiği benzersiz bir mekan olarak karşımıza çıkıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu merkez, çocuklar ve yetişkinler için birbirinden renkli ve heyecan verici oyun alanları sunuyor. İç Anadolu Bölgesi'nde yer alan bu özel mekan, ziyaretçilerine hem keyifli bir gün geçirmeleri hem de yeni şeyler öğrenmeleri için ideal bir ortam sağlıyor. Legoland Discovery Centre İstanbul, çocukların hayal güçlerini geliştirmelerine ve yaratıcılıklarını keşfetmelerine yardımcı oluyor.
+Legoland Discovery Centre İstanbul, eğlence ve öğrenmenin birleştiği benzersiz bir mekan olarak karşımıza çıkıyor. İç Anadolu Bölgesi'nde yer alan bu özel mekan, ziyaretçilerine hem keyifli bir gün geçirmeleri hem de yeni şeyler öğrenmeleri için ideal bir ortam sağlıyor. Legoland Discovery Centre İstanbul, çocukların hayal güçlerini geliştirmelerine ve yaratıcılıklarını keşfetmelerine yardımcı oluyor.
 
 ## Tarihçe
 

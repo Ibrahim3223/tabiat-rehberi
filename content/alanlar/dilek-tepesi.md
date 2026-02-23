@@ -29,7 +29,7 @@ wikidata_id: "Q31388521"
 
 # Dilek Tepesi
 
-Dilek Tepesi, Rize ilinin Karadeniz Bölgesi'ndeki konumuyla dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte bir doğa harikasını barındırıyor. Dilek Tepesi, ziyaretçilerini etkileyen bir manzaraya sahip. Tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere gelenekselın bir parçası olmak için fırsat sunuyor. Dilek Tepesi, hem doğal güzelliği hem de kültürel zenginliğiyle ziyaretçilerini bekliyor.
+Dilek Tepesi, Rize ilinin Karadeniz Bölgesi'ndeki konumuyla dikkat çekiyor. Dilek Tepesi, ziyaretçilerini etkileyen bir manzaraya sahip. Tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere gelenekselın bir parçası olmak için fırsat sunuyor. Dilek Tepesi, hem doğal güzelliği hem de kültürel zenginliğiyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

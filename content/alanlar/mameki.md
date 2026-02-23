@@ -23,7 +23,7 @@ wikidata_id: "Q108227813"
 
 # Mameki
 
-Mameki milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklüğü ile ziyaretçilerini büyülüyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrabilir. Mameki, doğa severlerin ve macera arayışında olanların hayalini süsleyen bir destinasyon.
+Mameki milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrabilir. Mameki, doğa severlerin ve macera arayışında olanların hayalini süsleyen bir destinasyon.
 
 ## Tarihçe
 

@@ -33,7 +33,7 @@ Türkiye'nin doğal güzellikleri arasında yer alan Karcı Dağı, ziyaretçile
 
 ## Tarihçe
 
-Karcı Dağı, tarihin sâu sayfalarında gizli bir hazine gibi duruyor. Bu bölgenin genel tarihi, binlerce yıl öncesine uzanan bir geçmişe sahip. İnsanlık, bu coğrafyada çeşitli uygarlıkların doğup büyümesini izledi. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürdü.
+Karcı Dağı, tarihin derin sayfalarında gizli bir hazine gibi duruyor. Bu bölgenin genel tarihi, binlerce yıl öncesine uzanan bir geçmişe sahip. İnsanlık, bu coğrafyada çeşitli uygarlıkların doğup büyümesini izledi. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürdü.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahip. Bu tür bölgeler, insanlığın varoluşundan bu yana hayvancılık, tarım ve ticaret için kritik öneme sahip oldu. Yaylacılık, bu coğrafyanın bir parçası haline geldi. İnsanlar, mevsimsel olarak yüksek dağlara çıkarak hayvanlarını otlattı ve bu şekilde yaşamını sürdürdü.
 

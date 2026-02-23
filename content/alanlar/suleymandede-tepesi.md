@@ -28,7 +28,7 @@ wikidata_id: "Q34811191"
 
 # Süleymandede Tepesi
 
-Ankara'nın İç Anadolu Bölgesi'nde yer alan Süleymandede Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal alanı temsil ediyor. Bu alan, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Süleymandede Tepesi, aynı zamanda tarihin izlerini taşıyan bir bölge olarak da dikkat çekiyor.
+ Bu alan, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Süleymandede Tepesi, aynı zamanda tarihin izlerini taşıyan bir bölge olarak da dikkat çekiyor.
 
 ## Tarihçe
 

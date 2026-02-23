@@ -50,7 +50,7 @@ Mevsimsel değişimler açısından, Ürküten Dağı'nın iklim karakteri Akden
 
 ## Flora ve Fauna
 
-Ürküten Dağı, Antalya'nın kıyı ekosisteminin bir parçası olan maki bitki örtüsüne ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında kuraklığa dayanıklı türler hakim oluyor. 
+Ürküten Dağı, Antalya'nın kıyı ekosisteminin bir parçası olan maki bitki örtüsüne ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında kuraklığa dayanıklı türler hakim oluyor.
 
 Dağ ekosisteminin yükseklik zonlarında, alpin flora çeşitliliği dikkat çekiyor. Bu yüksekliklerde, bitki türleri mevsimsel değişimlere uyum sağlıyor. Sonbahar aylarında, göç eden kuşlar dağların üzerinde konaklıyor. Memeliler ve sürüngenler, dağların kaya oyuklarında ve maki bitki örtüsünde yaşamlarını sürdürüyor. Bu ekosistem, canlıların birbirine bağımlı olduğu karmaşık bir ilişki ağı sunuyor. Ürküten Dağı, bu nedenle önemli bir ekolojik değer taşıyor ve koruma altında tutulması gerekiyor.
 

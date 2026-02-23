@@ -22,7 +22,7 @@ wikidata_id: "Q108229001"
 
 # SULTANDAĞI_TP
 
-İç Anadolu Bölgesi'nin kalbinde yer alan SULTANDAĞI_TP, 140 hektarlık geniş bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. SULTANDAĞI_TP, ziyaretçilerini çeşitli bitki türleri ve zengin fauna ile karşılayan bir doğa harikası. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkün. SULTANDAĞI_TP, aynı zamanda bir milli park olarak koruma altına alınmış ve bu sayede doğal güzelliği future nesiller için korunmaktadır.
+İç Anadolu Bölgesi'nin kalbinde yer alan SULTANDAĞI_TP, 140 hektarlık geniş bir alanı kapsıyor. SULTANDAĞI_TP, ziyaretçilerini çeşitli bitki türleri ve zengin fauna ile karşılayan bir doğa harikası. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkün. SULTANDAĞI_TP, aynı zamanda bir milli park olarak koruma altına alınmış ve bu sayede doğal güzelliği future nesiller için korunmaktadır.
 
 ## Tarihçe
 

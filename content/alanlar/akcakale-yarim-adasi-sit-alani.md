@@ -22,7 +22,7 @@ wikidata_id: "Q108226268"
 
 # Akçakale Yarım Adası Sit Alanı
 
-Akçakale Yarım Adası Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği özel bir yer. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu sit alanı, bölgenin ekolojik dengesini korumak amacıyla kurulmuş ve doğal güzelliğini koruyarak gelecek nesillere ulaştırmayı amaçlıyor. Akçakale Yarım Adası Sit Alanı, doğa severlerin ve gezginlerin ilgisini çekmeyi başaran bir destinasyon olarak ön plana çıkıyor.
+Akçakale Yarım Adası Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği özel bir yer. Bu sit alanı, bölgenin ekolojik dengesini korumak amacıyla kurulmuş ve doğal güzelliğini koruyarak gelecek nesillere ulaştırmayı amaçlıyor. Akçakale Yarım Adası Sit Alanı, doğa severlerin ve gezginlerin ilgisini çekmeyi başaran bir destinasyon olarak ön plana çıkıyor.
 
 ## Tarihçe
 

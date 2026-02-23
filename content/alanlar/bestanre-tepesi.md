@@ -32,7 +32,7 @@ Bestanre Tepesi, Diyarbakır'ın zengin tarihi ve doğal güzelliklerini bir ara
 
 ## Tarihçe
 
-Bestanre Tepesi, Diyarbakır'ın tarihi geçmişi ile sâu şekilde bağlantılı. Bu bölgede yapılan arkeolojik kazılar, tarihin derinliklerine ışık tutuyor. Tepenin eteklerinde yer alan tarihi kalıntılar, bölgenin zengin kültürel mirasını gözler önüne seriyor. Bestanre Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bu topraklara kendi izini bırakmış. Bu nedenle, Bestanre Tepesi, Diyarbakır'ın tarihini anlamak için önemli bir nokta.
+Bestanre Tepesi, Diyarbakır'ın tarihi geçmişi ile derin şekilde bağlantılı. Bu bölgede yapılan arkeolojik kazılar, tarihin derinliklerine ışık tutuyor. Tepenin eteklerinde yer alan tarihi kalıntılar, bölgenin zengin kültürel mirasını gözler önüne seriyor. Bestanre Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bu topraklara kendi izini bırakmış. Bu nedenle, Bestanre Tepesi, Diyarbakır'ın tarihini anlamak için önemli bir nokta.
 
 ## Coğrafya
 

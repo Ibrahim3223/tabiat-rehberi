@@ -30,7 +30,7 @@ wikidata_id: "Q6007296"
 
 # Küçük Çamlıca Tepesi
 
-Küçük Çamlıca Tepesi, Üsküdar ilçesinde yer alan ve yaklaşık 268 metrelik yüksekliğiyle İstanbul'un önemli doğal noktalarından biridir. Bu tepe, şehrin kalabalığından uzaklaşma ve doğal güzellikleri keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada yer alan ağaçlar ve bitki türleri, ziyaretçilere ferah bir ortam sunar. Tepenin etrafında yer alan historical yapılar ve doğal güzellikler, ziyaretçilerin dikkatini çekmekte.
+Küçük Çamlıca Tepesi, Üsküdar ilçesinde yer alan ve yaklaşık 268 metrelik yüksekliğiyle İstanbul'un önemli doğal noktalarından biridir. Bu tepe, şehrin kalabalığından uzaklaşma ve doğal güzellikleri keşfetmek isteyenler için ideal bir destinasyon. Tepenin etrafında yer alan historical yapılar ve doğal güzellikler, ziyaretçilerin dikkatini çekmekte.
 
 ## Tarihçe
 

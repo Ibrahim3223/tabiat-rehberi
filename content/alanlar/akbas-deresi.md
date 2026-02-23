@@ -28,7 +28,7 @@ wikidata_id: "Q31387554"
 
 # Akbaş Deresi
 
-Akbaş Deresi, Çanakkale'nin güzide yerlerinden biri olarak Marmara Bölgesi'nde yer alır. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Akbaş Deresi, tarihi geçmişi ve zengin doğası ile dikkat çekmektedir. Burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölge, ziyaretçilerine doğa yürüyüşü, pikni ve keşif gibi olanaklar sunmaktadır. Akbaş Deresi, Çanakkale'nin turizm açısından önemli noktalarından biridir.
+Akbaş Deresi, Çanakkale'nin güzide yerlerinden biri olarak Marmara Bölgesi'nde yer alır. Akbaş Deresi, tarihi geçmişi ve zengin doğası ile dikkat çekmektedir. Burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölge, ziyaretçilerine doğa yürüyüşü, pikni ve keşif gibi olanaklar sunmaktadır. Akbaş Deresi, Çanakkale'nin turizm açısından önemli noktalarından biridir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Akbaş Deresi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bölge
 
 ## Coğrafya
 
-Akbaş Deresi, Çanakkale'nin coğrafi olarak önemli bir bölgesinde yer alır. Bölge, Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Akbaş Deresi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bölgenin coğrafyası, dağlar, ovalar ve nehirler ile çeşitlilik göstermektedir. Akbaş Deresi, coğrafi olarak önemli bir konumda yer almakta ve ziyaretçilerine çeşitli coğrafi oluşumları sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin iklimi ile benzerlik göstermektedir. Akbaş Deresi, coğrafi olarak zengin bir bölgede yer almakta ve ziyaretçilerine çeşitli olanaklar sunmaktadır.
+Akbaş Deresi, Çanakkale'nin coğrafi olarak önemli bir bölgesinde yer alır. Bölge, Marmara Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bölgenin coğrafyası, dağlar, ovalar ve nehirler ile çeşitlilik göstermektedir. Akbaş Deresi, coğrafi olarak önemli bir konumda yer almakta ve ziyaretçilerine çeşitli coğrafi oluşumları sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin iklimi ile benzerlik göstermektedir. Akbaş Deresi, coğrafi olarak zengin bir bölgede yer almakta ve ziyaretçilerine çeşitli olanaklar sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Akbaş Deresi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylar�
 ## İlginç Bilgiler
 
 - Bölgenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
-- Akbaş Deresi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Akbaş Deresi, Çanakkale'nin turizm açısından önemli noktalarından biridir.
 - Bölge, doğa koruma çalışmaları yapılmaktadır.

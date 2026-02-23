@@ -1,7 +1,7 @@
 ---
 title: "Üççeşme Tepesi"
 date: "2026-01-10T14:07:05.397Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Kayseri"
@@ -28,7 +28,7 @@ wikidata_id: "Q34810170"
 
 # Üççeşme Tepesi
 
-Üççeşme Tepesi, Kayseri'nin merkezinde yer alan ve şehrin panoramik manzarasını sunan bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ki bu, yaklaşık 200 futbol sahası büyüklüğünde. Burada, şehrin tarihi ve kültürel zenginliğini keşfetme mümkün. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna dikkat çekiyor. Her mevsim, farklı bir güzelliğe bürünen Üççeşme Tepesi, ziyaretçilerini bekliyor.
+Üççeşme Tepesi, Kayseri'nin merkezinde yer alan ve şehrin panoramik manzarasını sunan bir nokta. Burada, şehrin tarihi ve kültürel zenginliğini keşfetme mümkün. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna dikkat çekiyor. Her mevsim, farklı bir güzelliğe bürünen Üççeşme Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

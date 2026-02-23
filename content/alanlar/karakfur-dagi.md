@@ -48,7 +48,7 @@ Jeolojik olarak, Karakâfur Dağı'nın yapısı hakkında detaylı bilgi olmasa
 
 ## Flora ve Fauna
 
-Karakâfur Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğal alan. 1200 hektarlık bu dağ, alpin çayırlar ve endemik türlerle dolu bir ekosistem barındırıyor. 
+Karakâfur Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğal alan. 1200 hektarlık bu dağ, alpin çayırlar ve endemik türlerle dolu bir ekosistem barındırıyor.
 
 İlkbaharda, dağ yamaçları rengarenk çiçeklerle örtülür. Yaz aylarında, alpin çayırlar yeşillenir ve dağ keçileri gibi memeliler bu bölgede yaşam bulur. Sonbaharda, göçebe kuşlar dağların üzerinden geçer ve kış aylarında, dağlar karla örtülür.
 

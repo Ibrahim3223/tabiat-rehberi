@@ -30,7 +30,7 @@ wikidata_id: "Q6401196"
 
 # Hidiv Kasrı
 
-Hidiv Kasrı, İstanbul'un en güzel ve tarihi mekanlarından biri olarak bilinir. Çubuklu semtinde bulunan bu kasır, yaklaşık 140 hektarlık bir alanı kaplar ve bu størreligi ile yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu güzel mekan, hem tarihin hem de doğanın birleştiği bir nokta olarak ziyaretçilerini bekler. Hidiv Kasrı, ziyaretçilerine tarihin izlerini taşıyan bir ortam sunarken, aynı zamanda doğanın güzelliğini de gözler önüne serer.
+Hidiv Kasrı, İstanbul'un en güzel ve tarihi mekanlarından biri olarak bilinir. Bu güzel mekan, hem tarihin hem de doğanın birleştiği bir nokta olarak ziyaretçilerini bekler. Hidiv Kasrı, ziyaretçilerine tarihin izlerini taşıyan bir ortam sunarken, aynı zamanda doğanın güzelliğini de gözler önüne serer.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hidiv Kasrı'nın tarihi geçmişi, 19. yüzyıla kadar uzanır. Bu kasır, o d�
 
 ## Coğrafya
 
-Hidiv Kasrı, Çubuklu semtinde bulunur ve İstanbul'un en güzel bölgelerinden biridir. Bu kasır, yaklaşık 140 hektarlık bir alanı kaplar ve bu størreligi ile yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hidiv Kasrı'nın coğrafi konumu, ziyaretçilerine birçok avantaj sağlar. Bu kasır, deniz seviyesinden yüksek bir konumda bulunması nedeniyle, ziyaretçilerine güzel bir manzara sunar. Hidiv Kasrı'nın iklimi, İstanbul'un genel iklimine benzer ve bu kasır, bn mevsim ziyaret edilebilir. Hidiv Kasrı, ziyaretçilerine birçok farklı faaliyet yapma imkanı sunar. Bu kasır, yürüyüş, koşu, bisiklet sürme gibi birçok farklı aktivite için uygun bir ortamdır.
+Hidiv Kasrı, Çubuklu semtinde bulunur ve İstanbul'un en güzel bölgelerinden biridir. Hidiv Kasrı'nın coğrafi konumu, ziyaretçilerine birçok avantaj sağlar. Bu kasır, deniz seviyesinden yüksek bir konumda bulunması nedeniyle, ziyaretçilerine güzel bir manzara sunar. Hidiv Kasrı'nın iklimi, İstanbul'un genel iklimine benzer ve bu kasır, bn mevsim ziyaret edilebilir. Hidiv Kasrı, ziyaretçilerine birçok farklı faaliyet yapma imkanı sunar. Bu kasır, yürüyüş, koşu, bisiklet sürme gibi birçok farklı aktivite için uygun bir ortamdır.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Saadet Hatun Hamamı"
 date: "2026-01-10T04:31:40.758Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738766"
 
 # Saadet Hatun Hamamı
 
-Saadet Hatun Hamamı, İzmir'in Selçuk ilçesinde yer alan bir tarihi hamamdır. Bu hamam, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Hamamın storia geçmişi, Selçuk'un tarihi zenginliklerini gözler önüne sermekte ve ziyaretçilerini geçmişe götürmektedir. Saadet Hatun Hamamı, tarihi ve kültürel önemi ile Ege Bölgesi'nin önemli turistik noktalarından biri haline gelmiştir.
+Saadet Hatun Hamamı, İzmir'in Selçuk ilçesinde yer alan bir tarihi hamamdır. Hamamın storia geçmişi, Selçuk'un tarihi zenginliklerini gözler önüne sermekte ve ziyaretçilerini geçmişe götürmektedir. Saadet Hatun Hamamı, tarihi ve kültürel önemi ile Ege Bölgesi'nin önemli turistik noktalarından biri haline gelmiştir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Saadet Hatun Hamamı'nın tarihi geçmişi, Selçuk'un tarihi zenginliklerini g�
 
 ## Coğrafya
 
-Saadet Hatun Hamamı, İzmir'in Selçuk ilçesinde yer almaktadır. Bu hamam, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim, Ege Bölgesi'nin karakteristik Akdeniz iklimidir ve yaz aylarında sıcak, kış aylarında ılıman bir hava hüküm sürmektedir. Hamamın konumu, ziyaretçilerin Selçuk'un tarihi ve kültürel zenginliklerini keşfetmeleri için ideal bir başlangıç noktası oluşturmaktadır. Saadet Hatun Hamamı, çevresindeki tarihi ve kültürel noktalar ile birlikte, Ege Bölgesi'nin önemli turistik noktalarından biri haline gelmiştir.
+Saadet Hatun Hamamı, İzmir'in Selçuk ilçesinde yer almaktadır. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İklim, Ege Bölgesi'nin karakteristik Akdeniz iklimidir ve yaz aylarında sıcak, kış aylarında ılıman bir hava hüküm sürmektedir. Hamamın konumu, ziyaretçilerin Selçuk'un tarihi ve kültürel zenginliklerini keşfetmeleri için ideal bir başlangıç noktası oluşturmaktadır. Saadet Hatun Hamamı, çevresindeki tarihi ve kültürel noktalar ile birlikte, Ege Bölgesi'nin önemli turistik noktalarından biri haline gelmiştir.
 
 ## Flora ve Fauna
 

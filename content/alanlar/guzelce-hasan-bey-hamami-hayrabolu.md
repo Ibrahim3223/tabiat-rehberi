@@ -1,7 +1,7 @@
 ---
 title: "Güzelce Hasan Bey Hamamı, Hayrabolu"
 date: "2026-01-09T23:48:59.009Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tekirdağ"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245778"
 
 # Güzelce Hasan Bey Hamamı, Hayrabolu
 
-Güzelce Hasan Bey Hamamı, Tekirdağ'ın Hayrabolu ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. Bu bölge, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Bu geniş alan, hem tarihi hamamın hem de plajın keyfini çıkarmak için ideal bir ortam sağlar. Güzelce Hasan Bey Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini beklemektedir.
+Güzelce Hasan Bey Hamamı, Tekirdağ'ın Hayrabolu ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. Bu bölge, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekmektedir. Bu geniş alan, hem tarihi hamamın hem de plajın keyfini çıkarmak için ideal bir ortam sağlar. Güzelce Hasan Bey Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 

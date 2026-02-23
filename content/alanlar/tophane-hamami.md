@@ -1,7 +1,7 @@
 ---
 title: "Tophane Hamamı"
 date: "2026-01-09T23:02:33.167Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738825"
 
 # Tophane Hamamı
 
-Tophane Hamamı, Trabzon'un Ortahisar ilçesinde Karadeniz'in güzel kıyı şeridinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşillik bir alana sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunmaktadır. Tophane Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Tophane Hamamı, Karadeniz Bölgesi'nin en önemli plajlarından biri olarak bilinmektedir.
+Tophane Hamamı, Trabzon'un Ortahisar ilçesinde Karadeniz'in güzel kıyı şeridinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşillik bir alana sahiptir. Tophane Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Tophane Hamamı, Karadeniz Bölgesi'nin en önemli plajlarından biri olarak bilinmektedir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389953"
 
 # Kirtecik Tepesi
 
-Eskişehir'in İç Anadolu Bölgesi'nde yer alan Kirtecik Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yer. Kirtecik Tepesi, Eskişehir'in şehir merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Kirtecik Tepesi, doğa severler ve yürüyüş yapanlar için popüler bir destinasyon.
+ Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yer. Kirtecik Tepesi, Eskişehir'in şehir merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Kirtecik Tepesi, doğa severler ve yürüyüş yapanlar için popüler bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kirtecik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Kirtecik Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğündeki arazisiyle dikkat çekiyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Kirtecik Tepesi'nin coğrafi yapısı, yürüyüş yapanlar ve doğa severler için ideal bir destinasyon olmasını sağlıyor. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilere büyüleyici bir görünüm sunuyor. Kirtecik Tepesi, Eskişehir'in şehir merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu bölge, coğrafi konumu itibariyle ulaşım açısından thun li bir yer.
+Kirtecik Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Kirtecik Tepesi'nin coğrafi yapısı, yürüyüş yapanlar ve doğa severler için ideal bir destinasyon olmasını sağlıyor. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilere büyüleyici bir görünüm sunuyor. Kirtecik Tepesi, Eskişehir'in şehir merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu bölge, coğrafi konumu itibariyle ulaşım açısından thun li bir yer.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kirtecik Tepesi, ziyaretçilerine çeşitli olanaklar sunuyor. Bu bölge, doğa 
 ## İlginç Bilgiler
 
 - Kirtecik Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor.
-- Bu bölge, 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğündeki arazisiyle dikkat çekiyor.
+
 - Kirtecik Tepesi, doğa severler ve yürüyüş yapanlar için popüler bir destinasyon.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 - Kirtecik Tepesi, Eskişehir'in şehir merkezine uzun bir mesafe uzaklıkta yer alıyor.

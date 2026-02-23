@@ -22,7 +22,7 @@ wikidata_id: "Q108228092"
 
 # Bolu Kale-Akcaagac
 
-Bolu Kale-Akcaagac, İç Anadolu Bölgesi'nin gizli bir incisi. 140 hektarlık geniş bir alanı kapsayan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde. Burada, yaban hayatı ve çeşitli bitki türleri ile karşılaşabilirsiniz. Doğal güzellikleri keşfetmek için ideal bir yer olan Bolu Kale-Akcaagac, ziyaretçilerini bekliyor. Bu milli park, doğa severlerin ve macera arayanların hayalini süsleyen bir destinasyon.
+Bolu Kale-Akcaagac, İç Anadolu Bölgesi'nin gizli bir incisi. Burada, yaban hayatı ve çeşitli bitki türleri ile karşılaşabilirsiniz. Doğal güzellikleri keşfetmek için ideal bir yer olan Bolu Kale-Akcaagac, ziyaretçilerini bekliyor. Bu milli park, doğa severlerin ve macera arayanların hayalini süsleyen bir destinasyon.
 
 ## Tarihçe
 

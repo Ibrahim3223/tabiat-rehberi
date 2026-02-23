@@ -36,7 +36,7 @@ Kumsalbelen Tepe'nin tarihi geçmişi, bölgenin genel tarihçesi ile paralel ol
 
 ## Coğrafya
 
-Kumsalbelen Tepe, coğrafi olarak Gaziantep'in önemli bir bölümünü oluşturuyor. Tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş alan, bölgenin coğrafi yapısını belirlemede önemli bir rol oynar. Kumsalbelen Tepe'nin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü de etkiliyor. Tepe ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunması, bölgenin doğal güzelliklerini artırıyor. Kumsalbelen Tepe'nin coğrafi yapısı, aynı zamanda bölgenin su kaynaklarını da etkiliyor. Tepe, bölgenin su ihtiyacını karşılayan önemli bir kaynak olarak görülüyor.
+Kumsalbelen Tepe, coğrafi olarak Gaziantep'in önemli bir bölümünü oluşturuyor. Bu geniş alan, bölgenin coğrafi yapısını belirlemede önemli bir rol oynar. Kumsalbelen Tepe'nin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü de etkiliyor. Tepe ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunması, bölgenin doğal güzelliklerini artırıyor. Kumsalbelen Tepe'nin coğrafi yapısı, aynı zamanda bölgenin su kaynaklarını da etkiliyor. Tepe, bölgenin su ihtiyacını karşılayan önemli bir kaynak olarak görülüyor.
 
 ## Flora ve Fauna
 

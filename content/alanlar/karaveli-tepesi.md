@@ -28,7 +28,7 @@ wikidata_id: "Q31517352"
 
 # Karaveli Tepesi
 
-Karaveli Tepesi, Doğu Anadolu Bölgesi'ninVan ilinde yer alan bir tepe olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Karaveli Tepesi, çevresindeki dağlarla birlikte doğal bir güzellik sunuyor ve ziyaretçilerini kendine çekiyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna encontruluyor.
+Karaveli Tepesi, Doğu Anadolu Bölgesi'ninVan ilinde yer alan bir tepe olarak dikkat çekiyor. Karaveli Tepesi, çevresindeki dağlarla birlikte doğal bir güzellik sunuyor ve ziyaretçilerini kendine çekiyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna encontruluyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Karaveli Tepesi, Van ilinin coğrafi yapısını oluşturan önemli bir parça. 
 
 ## Flora ve Fauna
 
-Karaveli Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri encontruluyor. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösteriyor ve her mevsim, ziyaretçilere yeni bir güzellik sunuyor. Aynı zamanda, Karaveli Tepesi, zengin fauna sahip bir bölge. Tepenin çevresinde, çeşitli hayvan türleri encontruluyor ve bu da, bölgenin ekolojik dengesini koruyor. Mevsimsel değişimler, bu bölgede yaşayan canlıları etkiliyor ve her mevsim, farklı bir ekosistem ortaya çıkıyor.
+ Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri encontruluyor. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösteriyor ve her mevsim, ziyaretçilere yeni bir güzellik sunuyor. Aynı zamanda, Karaveli Tepesi, zengin fauna sahip bir bölge. Tepenin çevresinde, çeşitli hayvan türleri encontruluyor ve bu da, bölgenin ekolojik dengesini koruyor. Mevsimsel değişimler, bu bölgede yaşayan canlıları etkiliyor ve her mevsim, farklı bir ekosistem ortaya çıkıyor.
 
 ## Ziyaret Bilgileri
 

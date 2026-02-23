@@ -28,7 +28,7 @@ wikidata_id: "Q31388367"
 
 # Kuşlu Tepe
 
-Erzurum'un doğal güzellikleri arasında yer alan Kuşlu Tepe, yaklaşık 140 hektarlık bir alana yayılmış ve bu bakımdan yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Kuşlu Tepe, Erzurum'un merkezine oldukça yakın bir konumda yer alıyor ve bu nedenle ulaşımı oldukça kolay. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğal güzelliği hem de tarihini keşfedebilirler.
+ Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Kuşlu Tepe, Erzurum'un merkezine oldukça yakın bir konumda yer alıyor ve bu nedenle ulaşımı oldukça kolay. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğal güzelliği hem de tarihini keşfedebilirler.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Kuşlu Tepe, tarihsel açıdan oldukça zengin bir geçmişe sahip. Bu tepe, yü
 
 ## Coğrafya
 
-Kuşlu Tepe, Erzurum'un coğrafi yapısı içinde önemli bir yer tutuyor. Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve bu bakımdan yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Kuşlu Tepe, Erzurum'un merkezine oldukça yakın bir konumda yer alıyor ve bu nedenle ulaşımı oldukça kolay. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Kuşlu Tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Bu tepe, Erzurum'un coğrafi güzelliğini keşfetmek isteyenler için önemli bir destinasyon.
+Kuşlu Tepe, Erzurum'un coğrafi yapısı içinde önemli bir yer tutuyor. Kuşlu Tepe, Erzurum'un merkezine oldukça yakın bir konumda yer alıyor ve bu nedenle ulaşımı oldukça kolay. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Kuşlu Tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Bu tepe, Erzurum'un coğrafi güzelliğini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Flora ve Fauna
 
-Kuşlu Tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Bu tepe, mevsimsel değişimlere göre farklı bir güzellik sunuyor. Bahar aylarında, Kuşlu Tepeyi ziyaret edenler, çeşitli çiçek türleri ile karşılaşabilirler. Kış aylarında ise, bu tepe, karla kaplı bir güzelliğe sahip oluyor. Kuşlu Tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve bu nedenle flora ve fauna açısından oldukça zengin bir destinasyon.
+Kuşlu Tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Bu tepe, mevsimsel değişimlere göre farklı bir güzellik sunuyor. Bahar aylarında, Kuşlu Tepeyi ziyaret edenler, çeşitli çiçek türleri ile karşılaşabilirler. Kış aylarında ise, bu tepe, karla kaplı bir güzelliğe sahip oluyor.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,7 @@ Kuşlu Tepeyi ziyaret etmek, Erzurum'un doğal güzelliğini keşfetmek isteyenl
 ## İlginç Bilgiler
 
 - Kuşlu Tepe, Erzurum'un doğal güzellikleri arasında yer alıyor.
-- Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve bu bakımdan yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Kuşlu Tepe, tarihsel açıdan oldukça zengin bir geçmişe sahip.
 - Bu tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor.
 - Kuşlu Tepe, Erzurum'un coğrafi güzelliğini keşfetmek isteyenler için önemli bir destinasyon.

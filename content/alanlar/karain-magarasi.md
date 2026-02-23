@@ -49,11 +49,11 @@ Fiziksel yapısı itibariyle Karain Mağarası, jeolojik açıdan oldukça önem
 
 ## Flora ve Fauna
 
-Karain Mağarası, Mersin'in güneşli kıyılarında yer alan bir jeoparktır. Bu bölge, maki bitki örtüsüne ev sahipliği yapar ve kuraklığa dayanıklı türlerin yaşadığı bir ekosistemdir. 
+Karain Mağarası, Mersin'in güneşli kıyılarında yer alan bir jeoparktır. Bu bölge, maki bitki örtüsüne ev sahipliği yapar ve kuraklığa dayanıklı türlerin yaşadığı bir ekosistemdir.
 
 Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte, bölgenin rengarenk çiçeklerle süslendiğini görebilirsiniz. Kıyı ekosisteminin bir parçası olan bu alan, çeşitli ağaç türlerini de barındırır. İlkbahar ve yaz aylarında, bu ağaçların yaprakları güneşin ışınlarına karşı bir sığınak oluştururken, sonbaharın gelmesiyle birlikte, yaprakların dökülmesiyle birlikte, bir başka güzelliğe bürünür.
 
-Yaban hayatı açısından, bu bölgede orman memelileri ve çeşitli kuş türlerine rastlayabilirsiniz. Kış aylarında, göçmen kuşların ziyaret ettiği bir yer olan Karain Mağarası, aynı zamanda sürüngenlerin de yaşam alanıdır. Bu canlılar, bölgenin ekolojik dengesini korumak için önemli bir rol oynar. 
+Yaban hayatı açısından, bu bölgede orman memelileri ve çeşitli kuş türlerine rastlayabilirsiniz. Kış aylarında, göçmen kuşların ziyaret ettiği bir yer olan Karain Mağarası, aynı zamanda sürüngenlerin de yaşam alanıdır. Bu canlılar, bölgenin ekolojik dengesini korumak için önemli bir rol oynar.
 
 Ekolojik değer açısından, Karain Mağarası ve çevresi, koruma altına alınması gereken bir alandır. Bu bölge, çeşitli canlı türlerinin yaşam alanı olmasının yanı sıra, aynı zamanda bir jeopark olarak da önemli bir değer taşır. Bu nedenle, bu alanın korunması ve gelecek nesiller için korunması büyük önem taşır.
 

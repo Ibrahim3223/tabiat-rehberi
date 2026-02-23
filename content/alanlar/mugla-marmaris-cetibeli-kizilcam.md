@@ -22,7 +22,7 @@ wikidata_id: "Q108227444"
 
 # Mugla-Marmaris-Cetibeli Kızılçam
 
-Marmaris'in güzelliklerini keşfetmek isteyenler için Cetibeli Kızılçam Milli Parkı, 140 hektarlık yeşil alanı ve zengin flora faunasıyla dikkat çekiyor. Bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerini doğayla baş başa bırakıyor. Marmaris'in merkezi konumunda bulunan Cetibeli Kızılçam Milli Parkı, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası.
+Marmaris'in güzelliklerini keşfetmek isteyenler için Cetibeli Kızılçam Milli Parkı, 140 hektarlık yeşil alanı ve zengin flora faunasıyla dikkat çekiyor. Marmaris'in merkezi konumunda bulunan Cetibeli Kızılçam Milli Parkı, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Cetibeli Kızılçam Milli Parkı, yüzyıllar boyunca bölgenin doğal güzelli
 
 ## Coğrafya
 
-Cetibeli Kızılçam Milli Parkı, Marmaris'in merkezi konumunda bulunuyor ve Ege Bölgesi'nin güzelliklerini yansıtıyor. Park, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Milli parkın coğrafyası, dağlık ve ormanlık alanlardan oluşuyor ve ziyaretçilerine farklı yüksekliklerde ve iklimlerde keşfedilecek birçok alan sunuyor. Cetibeli Kızılçam Milli Parkı, Marmaris'in iklimini yansıtıyor ve Akdeniz ikliminin characteristics özelliklerini taşıyor. Parkın coğrafyası, flora ve faunayı zenginleştiren bir yapıya sahip ve ziyaretçilerine birçok farklı türde bitki ve hayvanı keşfetme fırsatı sunuyor.
+Cetibeli Kızılçam Milli Parkı, Marmaris'in merkezi konumunda bulunuyor ve Ege Bölgesi'nin güzelliklerini yansıtıyor. Milli parkın coğrafyası, dağlık ve ormanlık alanlardan oluşuyor ve ziyaretçilerine farklı yüksekliklerde ve iklimlerde keşfedilecek birçok alan sunuyor. Cetibeli Kızılçam Milli Parkı, Marmaris'in iklimini yansıtıyor ve Akdeniz ikliminin characteristics özelliklerini taşıyor. Parkın coğrafyası, flora ve faunayı zenginleştiren bir yapıya sahip ve ziyaretçilerine birçok farklı türde bitki ve hayvanı keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Cetibeli Kızılçam Milli Parkı, ziyaretçilerine birçok farklı aktivite sun
 
 ## İlginç Bilgiler
 
-- Cetibeli Kızılçam Milli Parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
 - Park, Marmaris'in merkezi konumunda bulunuyor.
 - Milli parkın flora ve fauna çeşitliliği zengin ve çeşitli.
 - Park, yılın her dönemi ziyaret edilebilir, ancak en iyi ziyaret zamanı ilkbahar ve sonbahar aylarıdır.

@@ -28,11 +28,11 @@ wikidata_id: "Q61076484"
 
 # Maselevat Şelalesi
 
-Maselevat Şelalesi, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Şelalenin etrafı, çeşitli bitki türleriyle dolu ve zengin fauna ile dikkat çekiyor. Şelalenin sesi, çevredeki dağların arasında yankılanıyor ve ziyaretçilere huzur dolu anlar sunuyor.
+Maselevat Şelalesi, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Şelalenin etrafı, çeşitli bitki türleriyle dolu ve zengin fauna ile dikkat çekiyor. Şelalenin sesi, çevredeki dağların arasında yankılanıyor ve ziyaretçilere huzur dolu anlar sunuyor.
 
 ## Tarihçe
 
-Maselevat Şelalesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, históriki dönemlerde önemli bir yerleşim yeri olarak kullanılmış ve çeşitli medeniyetlerin izlerini taşıyor. Şelale, zaman içinde doğal güzelliğini korumuş ve günümüzde de ziyaretçilerin ilgisini çekmeye devam ediyor. Tarihi geçmişi hakkında spesifik bilgiler olmasa da, bu bölgenin önemli bir kültürel miras olduğu şüphesiz.
+Maselevat Şelalesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tarihi dönemlerde önemli bir yerleşim yeri olarak kullanılmış ve çeşitli medeniyetlerin izlerini taşıyor. Şelale, zaman içinde doğal güzelliğini korumuş ve günümüzde de ziyaretçilerin ilgisini çekmeye devam ediyor. Tarihi geçmişi hakkında spesifik bilgiler olmasa da, bu bölgenin önemli bir kültürel miras olduğu şüphesiz.
 
 ## Coğrafya
 

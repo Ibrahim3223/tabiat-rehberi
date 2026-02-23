@@ -1,7 +1,7 @@
 ---
 title: "Akçakoca Bey Anıt Mezarı"
 date: "2026-01-10T03:38:13.268Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -30,7 +30,7 @@ wikidata_id: "Q134728087"
 
 # Akçakoca Bey Anıt Mezarı
 
-Akçakoca Bey Anıt Mezarı, Kocaeli'nin Kandıra ilçesinde, Marmara Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi mezar, Akçakoca Bey'in anısına inşa edilmiş ve yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Akçakoca Bey Anıt Mezarı, not only tarihi bir değer olmakla kalmayıp, aynı zamanda doğal güzellikleri de içerisinde barındırıyor. Mezarın etrafında çeşitli bitki türleri ve hayvanlar yer alıyor, ancak bu doğal güzellikler, mezarın tarihi değerini gölgelemiyor. Akçakoca Bey Anıt Mezarı, ziyaretçilerini tarihin derinliklerine götürmeye hazır.
+Akçakoca Bey Anıt Mezarı, Kocaeli'nin Kandıra ilçesinde, Marmara Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi mezar, Akçakoca Bey'in anısına inşa edilmiş ve yaklaşık 140 hektarlık bir alanı kaplıyor. Akçakoca Bey Anıt Mezarı, not only tarihi bir değer olmakla kalmayıp, aynı zamanda doğal güzellikleri de içerisinde barındırıyor. Mezarın etrafında çeşitli bitki türleri ve hayvanlar yer alıyor, ancak bu doğal güzellikler, mezarın tarihi değerini gölgelemiyor. Akçakoca Bey Anıt Mezarı, ziyaretçilerini tarihin derinliklerine götürmeye hazır.
 
 ## Tarihçe
 

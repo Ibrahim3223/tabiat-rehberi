@@ -50,7 +50,7 @@ Göcen Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosistem
 
 ## Flora ve Fauna
 
-Göcen Dağı, İzmir'in zeytinliklerle çevrili eteklerinde yükselen bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapar. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır, çam ormanları ise yıl boyunca yeşil kalır. 
+Göcen Dağı, İzmir'in zeytinliklerle çevrili eteklerinde yükselen bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapar. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır, çam ormanları ise yıl boyunca yeşil kalır.
 
 Bitki örtüsünün hakim türleri arasında çam ağaçları ve zeytinliklerin karakteristik bitkileri bulunur. Mevsimsel değişimlerle birlikte, sonbaharda göçmen kuşlar dağların üzerinden geçer, baharda ise dağ çiçekleri renkli bir görünüme bürünür.
 

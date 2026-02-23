@@ -23,7 +23,7 @@ wikidata_id: "Q108228419"
 
 # Gunduzbey
 
-Gunduzbey milli parkı, İç Anadolu Bölgesi'nin göbeğinde yer alan bir doğal güzellik. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, doğa severlerin ve macera arayanların uğrak noktası. Gunduzbey, sunduğu çeşitli doğa güzellikleriyle ziyaretçilerini büyülüyor. Her mevsim farklı bir güzelliğe bürünen bu milli park, yıl boyunca ziyaretçilerini ağırlıyor.
+Gunduzbey milli parkı, İç Anadolu Bölgesi'nin göbeğinde yer alan bir doğal güzellik. Bu milli park, doğa severlerin ve macera arayanların uğrak noktası. Gunduzbey, sunduğu çeşitli doğa güzellikleriyle ziyaretçilerini büyülüyor. Her mevsim farklı bir güzelliğe bürünen bu milli park, yıl boyunca ziyaretçilerini ağırlıyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Gunduzbey milli parkının tarihi geçmişi, yüzyıllar boyunca çeşitli uygar
 
 ## Coğrafya
 
-Gunduzbey milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısının karakteristik özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle bozkırlar ve step alanlarıyla örtüşüyor. Gunduzbey, 140 hektarlık alanı ile oldukça geniş bir yeşillik alanı sunuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa alanı sunuyor. Milli parkın coğrafyası, çeşitli bitki türleri ve fauna ile zenginleştirilmiş durumda. Bu coğrafi yapı, ziyaretçilere doğanın güzelliğini sunarken, aynı zamanda bu bölgenin iklimini de yansıtıyor.
+Gunduzbey milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısının karakteristik özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle bozkırlar ve step alanlarıyla örtüşüyor. Gunduzbey, 140 hektarlık alanı ile oldukça geniş bir yeşillik alanı sunuyor. Milli parkın coğrafyası, çeşitli bitki türleri ve fauna ile zenginleştirilmiş durumda. Bu coğrafi yapı, ziyaretçilere doğanın güzelliğini sunarken, aynı zamanda bu bölgenin iklimini de yansıtıyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Gunduzbey milli parkını ziyaret etmek, doğa severler için büyük bir macera
 
 ## İlginç Bilgiler
 
-- Gunduzbey milli parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu milli park, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.
 - Gunduzbey, çeşitli flora ve fauna türleriyle zenginleştirilmiş bir doğa alanı.
 - Milli parkın tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olmasıyla şekillenmiştir.

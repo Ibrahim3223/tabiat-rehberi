@@ -28,7 +28,7 @@ wikidata_id: "Q31386212"
 
 # Kırıksoku Tepesi
 
-Gaziantep'in eşsiz manzarasına ev sahipliği yapan Kırıksoku Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın güzelliğini tüm çıplaklığıyla sergiliyor. Kırıksoku Tepesi, bölgenin coğrafi yapısını ve doğasını anlamak için önemli bir nokta olarak kabul ediliyor. Tepenin etrafındaki yerleşim yerleri ve tarihi kalıntılar, bu bölgenin tarihsel geçmişi hakkında da bilgi veriyor.
+Gaziantep'in eşsiz manzarasına ev sahipliği yapan Kırıksoku Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Kırıksoku Tepesi, bölgenin coğrafi yapısını ve doğasını anlamak için önemli bir nokta olarak kabul ediliyor. Tepenin etrafındaki yerleşim yerleri ve tarihi kalıntılar, bu bölgenin tarihsel geçmişi hakkında da bilgi veriyor.
 
 ## Tarihçe
 

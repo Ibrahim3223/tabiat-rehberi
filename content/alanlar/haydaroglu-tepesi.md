@@ -28,7 +28,7 @@ wikidata_id: "Q31389874"
 
 # Haydaroğlu Tepesi
 
-Haydaroğlu Tepesi, Sinop'un kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüleyici tepe, Karadeniz Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Tepenin eteklerinde, tarihi evler ve dar sokaklar, ziyaretçilere bir zaman yolculuğu sunuyor. Haydaroğlu Tepesi, aynı zamanda Sinop'un panoramik manzarasını izleyebileceğiniz bir gözlem noktası olarak da biliniyor. Tepenin zirvesine ulaştığınızda, Karadeniz'in mavisi ve Sinop'un tarihi dokusu, size benzersiz bir deneyim sunuyor.
+ Bu büyüleyici tepe, Karadeniz Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Tepenin eteklerinde, tarihi evler ve dar sokaklar, ziyaretçilere bir zaman yolculuğu sunuyor. Haydaroğlu Tepesi, aynı zamanda Sinop'un panoramik manzarasını izleyebileceğiniz bir gözlem noktası olarak da biliniyor. Tepenin zirvesine ulaştığınızda, Karadeniz'in mavisi ve Sinop'un tarihi dokusu, size benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

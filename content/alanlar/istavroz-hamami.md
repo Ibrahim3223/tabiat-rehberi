@@ -1,7 +1,7 @@
 ---
 title: "Istavroz Hamamı"
 date: "2026-01-09T23:38:14.048Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739162"
 
 # Istavroz Hamamı
 
-Istavroz Hamamı, Üsküdar'ın tarihi plajlarından biri olarak Marmara Bölgesi'nin güzide noktalarından birini oluşturur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi geçmişi ile dikkat çekmektedir. Istavroz Hamamı, Üsküdar'ın merkezine yakın bir konumda yer alır ve bu sayede ulaşım açısından kolaylık sağlar. Plajın güzide konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini bir arada deneyimleme fırsatı sunar.
+Istavroz Hamamı, Üsküdar'ın tarihi plajlarından biri olarak Marmara Bölgesi'nin güzide noktalarından birini oluşturur. Istavroz Hamamı, Üsküdar'ın merkezine yakın bir konumda yer alır ve bu sayede ulaşım açısından kolaylık sağlar. Plajın güzide konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini bir arada deneyimleme fırsatı sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Istavroz Hamamı'nın tarihi geçmişi, Üsküdar'ın tarihi ile iç içe geçme
 
 ## Coğrafya
 
-Istavroz Hamamı, Üsküdar'ın merkezine yakın bir konumda yer alır ve Marmara Bölgesi'nin güzide noktalarından birini oluşturur. Plaj, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Istavroz Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini bir arada deneyimleme fırsatı sunar. Plajın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir ve bu sayede ziyaretçilerine a güzellikleri sunmaktadır. Istavroz Hamamı'nın iklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak değişmektedir ve ziyaretçilerine dört mevsim boyunca farklı deneyimler sunmaktadır.
+Istavroz Hamamı, Üsküdar'ın merkezine yakın bir konumda yer alır ve Marmara Bölgesi'nin güzide noktalarından birini oluşturur. Istavroz Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini bir arada deneyimleme fırsatı sunar. Plajın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir ve bu sayede ziyaretçilerine a güzellikleri sunmaktadır. Istavroz Hamamı'nın iklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak değişmektedir ve ziyaretçilerine dört mevsim boyunca farklı deneyimler sunmaktadır.
 
 ## Flora ve Fauna
 

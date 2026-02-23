@@ -1,7 +1,7 @@
 ---
 title: "Hisar Anıt Mezarı"
 date: "2026-01-10T03:42:46.469Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728157"
 
 # Hisar Anıt Mezarı
 
-Hisar Anıt Mezarı, Gaziantep'in Araban ilçesinde yer alan tarihi bir mezarlık alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alana eşittir. Hisar Anıt Mezarı, bölgenin tarihi ve kültürel zenginliklerini yansıtan önemli bir kültür varlığıdır. Bu mezarlık, geçmişte yaşamış insanların hayatlarını ve kültürlerini anlamak için önemli bir kaynak olarak kabul edilir. Hisar Anıt Mezarı, aynı zamanda bölgenin coğrafi özelliklerini de yansıtan bir alandır. Burada, bölgeye özgü çeşitli bitki türleri ve hayvanlar bulunmaktadır.
+Hisar Anıt Mezarı, Gaziantep'in Araban ilçesinde yer alan tarihi bir mezarlık alanıdır. Hisar Anıt Mezarı, bölgenin tarihi ve kültürel zenginliklerini yansıtan önemli bir kültür varlığıdır. Bu mezarlık, geçmişte yaşamış insanların hayatlarını ve kültürlerini anlamak için önemli bir kaynak olarak kabul edilir. Hisar Anıt Mezarı, aynı zamanda bölgenin coğrafi özelliklerini de yansıtan bir alandır. Burada, bölgeye özgü çeşitli bitki türleri ve hayvanlar bulunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hisar Anıt Mezarı, tarihi geçmişi ile dikkat çeken bir alandır. Bu mezarl�
 
 ## Coğrafya
 
-Hisar Anıt Mezarı, Gaziantep'in Araban ilçesinde yer alan bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alana eşittir. Hisar Anıt Mezarı, bölgenin coğrafi özelliklerini yansıtan bir alandır. Burada, bölgeye özgü çeşitli bitki türleri ve hayvanlar bulunmaktadır. Hisar Anıt Mezarı, aynı zamanda bölgenin iklimini de yansıtan bir alandır. Bu mezarlık, bölgenin sıcak ve kurak iklimine uygun bir şekilde inşa edilmiştir. Hisar Anıt Mezarı, bölgenin coğrafi özellikleri ile birlikte, tarihi ve kültürel zenginliklerini de koruyan önemli bir kültür varlığı olarak kabul edilir. Bu mezarlık, bölgenin tarihini ve kültürünü öğrenmek isteyenler için önemli bir destinasyon olarak kabul edilir. Hisar Anıt Mezarı, yüzyıllar boyunca bölgede yaşamış insanların izlerini taşıyan bir kültür varlığı olarak kabul edilir. Bu mezarlık, bölgenin coğrafi ve kültürel zenginliklerini koruyan önemli bir alan olarak kabul edilir.
+Hisar Anıt Mezarı, Gaziantep'in Araban ilçesinde yer alan bir alandır. Hisar Anıt Mezarı, bölgenin coğrafi özelliklerini yansıtan bir alandır. Burada, bölgeye özgü çeşitli bitki türleri ve hayvanlar bulunmaktadır. Hisar Anıt Mezarı, aynı zamanda bölgenin iklimini de yansıtan bir alandır. Bu mezarlık, bölgenin sıcak ve kurak iklimine uygun bir şekilde inşa edilmiştir. Hisar Anıt Mezarı, bölgenin coğrafi özellikleri ile birlikte, tarihi ve kültürel zenginliklerini de koruyan önemli bir kültür varlığı olarak kabul edilir. Bu mezarlık, bölgenin tarihini ve kültürünü öğrenmek isteyenler için önemli bir destinasyon olarak kabul edilir. Hisar Anıt Mezarı, yüzyıllar boyunca bölgede yaşamış insanların izlerini taşıyan bir kültür varlığı olarak kabul edilir. Bu mezarlık, bölgenin coğrafi ve kültürel zenginliklerini koruyan önemli bir alan olarak kabul edilir.
 
 ## Flora ve Fauna
 

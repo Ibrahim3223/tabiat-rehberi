@@ -1,7 +1,7 @@
 ---
 title: "Afyonkarahisar Buzluk Mağarası"
 date: "2026-01-09T11:24:16.148Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "magara"
 il: "Afyonkarahisar"
@@ -45,7 +45,7 @@ Coğrafi olarak, Afyonkarahisar Buzluk Mağarası, 41.9808°K ve 27.7475°D koor
 
 Jeolojik açıdan bakıldığında, mağaranın bulunduğu bölge kireç taşı ve dolomit gibi kayaçlardan oluşmaktadır. Bu kayaçlar, milyonlarca yıl boyunca erozyon ve kimyasal çözünme sonucu şekillenmiştir. Mağaranın fiziksel yapısı, bu jeolojik süreçlerin sonucu olarak ortaya çıkmıştır. Mağaranın büyüklüğü, yaklaşık bir şehir bloğu büyüklüğünde olup, ziyaretçilerin kolayca gezebileceği bir alanı kaplamaktadır.
 
-Mevsimsel açıdan, mağaranın bulunduğu région, karasal iklimin hakim olduğu bir bölgedir. Yaz aylarında sıcaklık 25 derecenin üzerinde çıkarken, kış aylarında -5 derecenin altına düşmektedir. Bu mevsimsel özellikler, mağaranın iç sıcaklığını etkilemekte ve yıl boyunca yaklaşık 10 derecede sabit tutmaktadır. Bu durum, mağaranın iç kısmının her mevsim aynı sıcaklıkta olmasını sağlamaktadır.
+Mevsimsel açıdan, mağaranın bulunduğu bölge, karasal iklimin hakim olduğu bir bölgedir. Yaz aylarında sıcaklık 25 derecenin üzerinde çıkarken, kış aylarında -5 derecenin altına düşmektedir. Bu mevsimsel özellikler, mağaranın iç sıcaklığını etkilemekte ve yıl boyunca yaklaşık 10 derecede sabit tutmaktadır. Bu durum, mağaranın iç kısmının her mevsim aynı sıcaklıkta olmasını sağlamaktadır.
 
 Doğal çevre açısından, mağara, komşu ormanlık alanlarla ve su kaynaklarıyla bağlantılıdır. Mağaranın girişinin yakınında, küçük bir akarsu bulunmaktadır. Bu akarsu, mağaranın içinde ve dışında formede olan çeşitli jeolojik şekilleri oluşturmuş ve mağaranın oluşumunda önemli bir rol oynamıştır. Mağaranın bulunduğu bölge, aynı zamanda çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır. Bu zengin doğa, mağaranın çevresini bir ekosistem olarak tanımlamaktadır.
 

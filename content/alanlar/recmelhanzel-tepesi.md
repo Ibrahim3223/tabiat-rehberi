@@ -28,7 +28,7 @@ wikidata_id: "Q31541174"
 
 # Recmelhanzel Tepesi
 
-Recmelhanzel Tepesi, Şanlıurfa'nın Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepenin etrafında yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu bölge, tarihi ve doğal güzelliklerinin bir araya geldiği önemli bir destinasyon olarak ziyaretçilerini bekliyor. Recmelhanzel Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri deneyimleme fırsatı sunuyor.
+Recmelhanzel Tepesi, Şanlıurfa'nın Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu bölge, tarihi ve doğal güzelliklerinin bir araya geldiği önemli bir destinasyon olarak ziyaretçilerini bekliyor. Recmelhanzel Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri deneyimleme fırsatı sunuyor.
 
 ## Tarihçe
 

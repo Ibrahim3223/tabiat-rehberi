@@ -1,7 +1,7 @@
 ---
 title: "Yeşildere Hamamı"
 date: "2026-01-09T23:52:19.770Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245706"
 
 # Yeşildere Hamamı
 
-Yeşildere Hamamı, Karaman'ın merkezinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alana sahiptir. Bu geniş alan, ziyaretçilerine doğayla iç içe vakit geçirmeleri için ideal bir ortam sunar. Yeşildere Hamamı, Karaman'ın en önemli turizm merkezlerinden biri olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir. Ziyaretçiler, burada doğanın güzelliğini ve sakinliğini deneyimleyebilirler.
+ Bu geniş alan, ziyaretçilerine doğayla iç içe vakit geçirmeleri için ideal bir ortam sunar. Yeşildere Hamamı, Karaman'ın en önemli turizm merkezlerinden biri olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir. Ziyaretçiler, burada doğanın güzelliğini ve sakinliğini deneyimleyebilirler.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Yeşildere Hamamı'na ziyaretçiler, Karaman'ın merkezinden kolayca ulaşabilir
 ## İlginç Bilgiler
 
 - Yeşildere Hamamı, Karaman'ın en büyük doğal alanlarından biridir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Yeşildere Hamamı, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur.
 - Yeşildere Hamamı, yılın her dönemi ziyaret edilebilir.

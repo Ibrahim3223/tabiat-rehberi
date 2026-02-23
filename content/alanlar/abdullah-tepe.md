@@ -29,7 +29,7 @@ wikidata_id: "Q31386204"
 
 # Abdullah Tepe
 
-Abdullah Tepe, Şanlıurfa ilinin merkezinde yer alan ve histórik önem taşıyan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şanlıurfa'nın tarihi ve kültürel dokusunu yansıtan Abdullah Tepe, ziyaretçilerini şehrin giàu tarihsel geçmişine götürüyor. Tepe, doğal güzellikleri ve tarihi eserleri ile birlikte, bir bütün olarak karşımıza çıkıyor. Abdullah Tepe, Şanlıurfa'nın önemli turizm merkezlerinden biri olarak kabul ediliyor.
+Abdullah Tepe, Şanlıurfa ilinin merkezinde yer alan ve tarihi önem taşıyan bir tepe. Şanlıurfa'nın tarihi ve kültürel dokusunu yansıtan Abdullah Tepe, ziyaretçilerini şehrin giàu tarihsel geçmişine götürüyor. Tepe, doğal güzellikleri ve tarihi eserleri ile birlikte, bir bütün olarak karşımıza çıkıyor. Abdullah Tepe, Şanlıurfa'nın önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abdullah Tepe'nin tarihi geçmişi, Şanlıurfa'nın tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Abdullah Tepe, Şanlıurfa'nın merkezinde yer alıyor ve şehrin önemli coğrafi noktalarından biri. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Abdullah Tepe'nin coğrafi konumu, şehrin tarihi ve kültürel dokusunu yansıtıyor. Tepe, doğal güzellikleri ile birlikte, bir bütün olarak karşımıza çıkıyor. Abdullah Tepe'nin etrafında, çeşitli tarihi eserler ve anıtlar yer alıyor. Bu eserler, tepeye ayrı bir güzellik katıyor ve ziyaretçilere şehrin zengin tarihsel mirasını sunuyor. Abdullah Tepe, Şanlıurfa'nın önemli turizm merkezlerinden biri olarak kabul ediliyor ve ziyaretçilerini şehrin giàu tarihsel geçmişine götürüyor. Tepe, doğal güzellikleri ve tarihi eserleri ile birlikte, bir bütün olarak karşımıza çıkıyor.
+Abdullah Tepe, Şanlıurfa'nın merkezinde yer alıyor ve şehrin önemli coğrafi noktalarından biri. Abdullah Tepe'nin coğrafi konumu, şehrin tarihi ve kültürel dokusunu yansıtıyor. Tepe, doğal güzellikleri ile birlikte, bir bütün olarak karşımıza çıkıyor. Abdullah Tepe'nin etrafında, çeşitli tarihi eserler ve anıtlar yer alıyor. Bu eserler, tepeye ayrı bir güzellik katıyor ve ziyaretçilere şehrin zengin tarihsel mirasını sunuyor. Abdullah Tepe, Şanlıurfa'nın önemli turizm merkezlerinden biri olarak kabul ediliyor ve ziyaretçilerini şehrin giàu tarihsel geçmişine götürüyor. Tepe, doğal güzellikleri ve tarihi eserleri ile birlikte, bir bütün olarak karşımıza çıkıyor.
 
 ## Flora ve Fauna
 

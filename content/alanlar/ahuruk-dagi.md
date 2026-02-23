@@ -50,10 +50,10 @@ Yüksekli ve iklim açısından Ahürük Dağı, bölgenin karakteristik özelli
 
 ## Flora ve Fauna
 
-Ahürük Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlkbaharın gelişiyle birlikte, dağ eteklerinde çiçekler açmaya başlar. Alpin çayırlar, renklendirir ve dağ havası, mis gibi kokar. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçer. 
+Ahürük Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlkbaharın gelişiyle birlikte, dağ eteklerinde çiçekler açmaya başlar. Alpin çayırlar, renklendirir ve dağ havası, mis gibi kokar. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçer.
 
-Dağın yükseklik zonlarında, çeşitli memeli türleri bulunur. Dağ keçileri, dağların zorlu koşullarına adapte olmuştur. Kuşlar dağların yüksekliklerinde yuva yapar ve avlanırlar. Sürüngenler ise, kayaların arasında yaşar ve avlanır. 
+Dağın yükseklik zonlarında, çeşitli memeli türleri bulunur. Dağ keçileri, dağların zorlu koşullarına adapte olmuştur. Kuşlar dağların yüksekliklerinde yuva yapar ve avlanırlar. Sürüngenler ise, kayaların arasında yaşar ve avlanır.
 Ahürük Dağı, endemik türlerin yaşam alanıdır ve bu nedenle koruma altına alınması önemlidir. Dağın ekosistemi, yükseklik zonlarına göre değişkenlik gösterir ve her zon, farklı türleri barındırır.
 
 ## Ziyaret Bilgileri

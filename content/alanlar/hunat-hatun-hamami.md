@@ -1,7 +1,7 @@
 ---
 title: "Hunat Hatun Hamamı"
 date: "2026-01-09T22:44:44.365Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738522"
 
 # Hunat Hatun Hamamı
 
-Kayseri'nin Melikgazi ilçesinde bulunan Hunat Hatun Hamamı, 140 hektarlık geniş bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu tarihi ve doğal güzelliklerin birleştiği noktada, ziyaretçiler hem geçmişin izlerini takip edebiliyor hem de doğanın güzelliğine şahit oluyor. Hunat Hatun Hamamı, özellikle tarih ve doğa meraklıları için bir çekim merkezi olarak dikkat çekiyor.
+ Bu tarihi ve doğal güzelliklerin birleştiği noktada, ziyaretçiler hem geçmişin izlerini takip edebiliyor hem de doğanın güzelliğine şahit oluyor. Hunat Hatun Hamamı, özellikle tarih ve doğa meraklıları için bir çekim merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 

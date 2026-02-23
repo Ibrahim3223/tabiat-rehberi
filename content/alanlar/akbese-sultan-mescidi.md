@@ -1,7 +1,7 @@
 ---
 title: "Akbeşe Sultan Mescidi"
 date: "2026-01-10T04:47:10.439Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q6033830"
 
 # Akbeşe Sultan Mescidi
 
-Antalya'nın Alanya ilçesinde bulunan Akbeşe Sultan Mescidi, ziyaretçilerini tarihi ve kültürel zenginliklerle karşılar. Bu tarihi mekan, 140 hektarlık bir alan üzerinde yer alan yaklaşık 200 futbol sahası büyüklüğünde bir bölgede bulunur. Akbeşe Sultan Mescidi, Alanya'nın merkezine uzun bir mesafe uzaklıkta yer alır ve d bir ulaşım sağlar. Bu mescit, Alanya'nın tarihi ve kültürel mirasının önemli bir parçasını oluşturur.
+Antalya'nın Alanya ilçesinde bulunan Akbeşe Sultan Mescidi, ziyaretçilerini tarihi ve kültürel zenginliklerle karşılar. Akbeşe Sultan Mescidi, Alanya'nın merkezine uzun bir mesafe uzaklıkta yer alır ve d bir ulaşım sağlar. Bu mescit, Alanya'nın tarihi ve kültürel mirasının önemli bir parçasını oluşturur.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Akbeşe Sultan Mescidi, Alanya'nın Akdeniz sahil şeridinde yer alır. Bu bölg
 
 ## Flora ve Fauna
 
-Akbeşe Sultan Mescidi ve çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, genellikle narenciye, zeytin ve diğer meyve ağaçları bulunur. Ayrıca, mescidin yakınında, ziyaretçilerin dinlenebileceği ve doğayı seyretabileceği alanlar vardır. Bu bölge, birçok kuş türüne ev sahipliği yapmaktadır. Ayrıca, mescidin çevresindeki tarım arazilerinde, çeşitli tarım ürünleri yetiştirilir. Bu bölge, genellikle sıcak ve nemli bir iklime sahip olduğu için, flora ve fauna da buna uygun bir şekilde gelişmiştir.
+ Bu bölgede, genellikle narenciye, zeytin ve diğer meyve ağaçları bulunur. Ayrıca, mescidin yakınında, ziyaretçilerin dinlenebileceği ve doğayı seyretabileceği alanlar vardır. Bu bölge, birçok kuş türüne ev sahipliği yapmaktadır. Ayrıca, mescidin çevresindeki tarım arazilerinde, çeşitli tarım ürünleri yetiştirilir. Bu bölge, genellikle sıcak ve nemli bir iklime sahip olduğu için, flora ve fauna da buna uygun bir şekilde gelişmiştir.
 
 ## Ziyaret Bilgileri
 

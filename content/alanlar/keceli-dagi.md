@@ -48,11 +48,11 @@ Mevsimsel değişikliklere göre iklim karakteri değişen Keçeli Dağı, yaz a
 
 ## Flora ve Fauna
 
-Keçeli Dağı, Adana'nın güneşli bölgesinde yer alan bir dağ ekosistemi olarak, maki bitki örtüsüne ev sahipliği yapar. İlkbahar aylarında, dağ yamacı rengarenk çiçeklerle donanır ve kuraklığa dayanıklı türlerin çeşitliliği dikkat çeker. 
+Keçeli Dağı, Adana'nın güneşli bölgesinde yer alan bir dağ ekosistemi olarak, maki bitki örtüsüne ev sahipliği yapar. İlkbahar aylarında, dağ yamacı rengarenk çiçeklerle donanır ve kuraklığa dayanıklı türlerin çeşitliliği dikkat çeker.
 
-Bitki örtüsünün hakim türleri, Akdeniz bölgesine özgü defne, zeytin ve keçiboynuzu gibi türlerdir. Kış aylarında, dağların yüksek kesimlerinde alpin flora çeşitlenir ve nadir bitki türlerine rastlama mümkün olur. 
+Bitki örtüsünün hakim türleri, Akdeniz bölgesine özgü defne, zeytin ve keçiboynuzu gibi türlerdir. Kış aylarında, dağların yüksek kesimlerinde alpin flora çeşitlenir ve nadir bitki türlerine rastlama mümkün olur.
 
-Yaban hayatı ise, dağ keçileri, tavşanlar ve tilkiler gibi memelilerle zenginleşir. Kuşlar, özellikle sonbahar aylarında göç ederken, dağların yüksek kesimlerinde gözlemlenebilir. Sürüngenler ise, kura ve kayalık alanlarda yaşamlarını sürdürür. 
+Yaban hayatı ise, dağ keçileri, tavşanlar ve tilkiler gibi memelilerle zenginleşir. Kuşlar, özellikle sonbahar aylarında göç ederken, dağların yüksek kesimlerinde gözlemlenebilir. Sürüngenler ise, kura ve kayalık alanlarda yaşamlarını sürdürür.
 
 Keçeli Dağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve su kaynaklarını güvence altına almak için son derece önemlidir.
 

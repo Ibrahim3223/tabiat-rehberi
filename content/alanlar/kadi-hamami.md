@@ -1,7 +1,7 @@
 ---
 title: "Kadı Hamamı"
 date: "2026-01-09T22:11:35.698Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q87818177"
 
 # Kadı Hamamı
 
-Kadı Hamamı, Güneydoğu Anadolu Bölgesi'nin kalbinde, Sur/Diyarbakır'da yer alan bir tarihi plajdır. Bu alanda, yaklaşık 140 hektarlık yeşil alan, ziyaretçilerini doğal güzellikleri ile karşılar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada geçirilecek zaman, ziyaretçilerin doğa ile iç içe olmasını sağlar. Tarihi geçmişi ile de dikkat çeken bu bölge, hem doğal güzellikleri hem de kültürel zenginliği ile ziyaretçilerini bekliyor.
+Kadı Hamamı, Güneydoğu Anadolu Bölgesi'nin kalbinde, Sur/Diyarbakır'da yer alan bir tarihi plajdır. Tarihi geçmişi ile de dikkat çeken bu bölge, hem doğal güzellikleri hem de kültürel zenginliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kadı Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Kadı Hamamı, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin merkezinde yer alır. Sur/Diyarbakır'da bulunan bu bölge, doğal güzellikleri ile dikkat çeker. Bölge, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. İklimi, bölgenin coğrafi konumuna göre şekillenir ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Çevre, doğal güzellikleri ile ziyaretçileri çeker ve burada geçirilecek zaman, doğa ile iç içe olmayı sağlar. Bölgenin coğrafi yapısı, ziyaretçilerin keşfetmek için geldikleri bir yer olarak bilinir.
+Kadı Hamamı, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin merkezinde yer alır. Sur/Diyarbakır'da bulunan bu bölge, doğal güzellikleri ile dikkat çeker. İklimi, bölgenin coğrafi konumuna göre şekillenir ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Çevre, doğal güzellikleri ile ziyaretçileri çeker ve burada geçirilecek zaman, doğa ile iç içe olmayı sağlar. Bölgenin coğrafi yapısı, ziyaretçilerin keşfetmek için geldikleri bir yer olarak bilinir.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Sultan Ahmet Türbesi"
 date: "2026-01-10T07:47:00.844Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391181"
 
 # Sultan Ahmet Türbesi
 
-Sultan Ahmet Türbesi, İstanbul'un Fatih ilçesinde bulunan bir tarihi mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve Marmara Bölgesi'nin önemli kültürel merkezlerinden biri. Sultan Ahmet Türbesi, İstanbul'un kalbinde yer alan bir nokta ve tarihi açıdan büyük bir önem taşıyor. Bu mekan, çeşitli tarihi olaylara sahne olmuş ve İstanbul'un zengin kültürel mirasına katkıda bulunmuştur. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini tarihin derinliklerine götürmeye davet ediyor.
+Sultan Ahmet Türbesi, İstanbul'un Fatih ilçesinde bulunan bir tarihi mekan. Sultan Ahmet Türbesi, İstanbul'un kalbinde yer alan bir nokta ve tarihi açıdan büyük bir önem taşıyor. Bu mekan, çeşitli tarihi olaylara sahne olmuş ve İstanbul'un zengin kültürel mirasına katkıda bulunmuştur. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini tarihin derinliklerine götürmeye davet ediyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sultan Ahmet Türbesi'nin tarihi geçmişi, İstanbul'un fethinin ardından baş
 
 ## Coğrafya
 
-Sultan Ahmet Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Sultan Ahmet Türbesi'nin çevresi, tarihi yapılar ve önemli kültürel merkezlerle dolu. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve Marmara Bölgesi'nin önemli bir bölümünü kapsıyor. Sultan Ahmet Türbesi'nin coğrafi konumu, ziyaretçilerin İstanbul'un tarihi ve kültürel zenginliklerini keşfetmesine olanak sağlıyor. Bu mekan, İstanbul'un kalbinde yer alıyor ve ziyaretçilerini tarihin derinliklerine götürmeye davet ediyor. Sultan Ahmet Türbesi'nin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilerin yıl boyunca ziyaret etmelerine olanak sağlıyor.
+Sultan Ahmet Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Sultan Ahmet Türbesi'nin çevresi, tarihi yapılar ve önemli kültürel merkezlerle dolu. Sultan Ahmet Türbesi'nin coğrafi konumu, ziyaretçilerin İstanbul'un tarihi ve kültürel zenginliklerini keşfetmesine olanak sağlıyor. Bu mekan, İstanbul'un kalbinde yer alıyor ve ziyaretçilerini tarihin derinliklerine götürmeye davet ediyor. Sultan Ahmet Türbesi'nin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilerin yıl boyunca ziyaret etmelerine olanak sağlıyor.
 
 ## Flora ve Fauna
 

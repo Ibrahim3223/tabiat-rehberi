@@ -1,7 +1,7 @@
 ---
 title: "Yalınayak Dede Türbesi"
 date: "2026-01-10T06:12:27.921Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390596"
 
 # Yalınayak Dede Türbesi
 
-Yalınayak Dede Türbesi, İzmir'in Dikili ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle kaplıdır. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çeken bir noktadır. Deniz kenarında yer alan Yalınayak Dede Türbesi, tarihi ve doğal güzelliği bir arada sunmaktadır.
+Yalınayak Dede Türbesi, İzmir'in Dikili ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çeken bir noktadır. Deniz kenarında yer alan Yalınayak Dede Türbesi, tarihi ve doğal güzelliği bir arada sunmaktadır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Şıh İbrahim El Hekim Türbesi"
 date: "2026-01-10T05:48:03.408Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391780"
 
 # Şıh İbrahim El Hekim Türbesi
 
-Şıh İbrahim El Hekim Türbesi, Mersin'in önemli dini ve turistik merkezlerinden biri olarak karşımıza çıkıyor. Bu tarihi mekan, Akdeniz Bölgesi'nin zengin kültürel mirasını yansıtan önemli bir bölümü oluşturur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere derin bir tarih ve kültür yolculuğu sunar. Şıh İbrahim El Hekim Türbesi, ziyaretçiler için hem dinî hem de kültürel açıdan büyük bir öneme sahiptir. Burada, tarihin derinliklerinden gelen hikayeler, ziyaretçileri etkileyerek, onların bu önemli tarihi mekanla bağ kurmalarını sağlar.
+Şıh İbrahim El Hekim Türbesi, Mersin'in önemli dini ve turistik merkezlerinden biri olarak karşımıza çıkıyor. Bu tarihi mekan, Akdeniz Bölgesi'nin zengin kültürel mirasını yansıtan önemli bir bölümü oluşturur. Şıh İbrahim El Hekim Türbesi, ziyaretçiler için hem dinî hem de kültürel açıdan büyük bir öneme sahiptir. Burada, tarihin derinliklerinden gelen hikayeler, ziyaretçileri etkileyerek, onların bu önemli tarihi mekanla bağ kurmalarını sağlar.
 
 ## Tarihçe
 

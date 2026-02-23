@@ -29,7 +29,7 @@ wikidata_id: "Q134728379"
 
 # Bin Tepeler Tümülüsü 18
 
-Bin Tepeler Tümülüsü 18, Ege Bölgesi'nin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir alandır. Salihli, Manisa'nın zengin tarihi ve kültürel mirasına ev sahipliği yapan bir bölgedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin derinliklerine davet etmektedir. Bin Tepeler Tümülüsü, ismini çevresindeki tepe gibi yükselen tümülüslerden alır ve bu bölge, tarihi ve doğası ile ziyaretçilerini cezbeder.
+Bin Tepeler Tümülüsü 18, Ege Bölgesi'nin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir alandır. Salihli, Manisa'nın zengin tarihi ve kültürel mirasına ev sahipliği yapan bir bölgedir. Bin Tepeler Tümülüsü, ismini çevresindeki tepe gibi yükselen tümülüslerden alır ve bu bölge, tarihi ve doğası ile ziyaretçilerini cezbeder.
 
 ## Tarihçe
 

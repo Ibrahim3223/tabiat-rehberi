@@ -51,9 +51,9 @@ Jeolojik açıdan bakıldığında, Çatal Adası'nın fiziksel yapısı hakkın
 
 ## Flora ve Fauna
 
-Çatal Adası, Muğla'nın güneşli kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çatal Adası, Muğla'nın güneşli kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, adanın hakim türleri zeytinlikler ve çam ormanları. İlkbaharda, ada çiçeklerle dolu bir hal alır. Çam ağaçlarının altında, çeşitli ot türleri ve renkli çiçekler açarlar. 
+Bitki Örtüsü olarak, adanın hakim türleri zeytinlikler ve çam ormanları. İlkbaharda, ada çiçeklerle dolu bir hal alır. Çam ağaçlarının altında, çeşitli ot türleri ve renkli çiçekler açarlar.
 
 Yaban Hayatı olarak, ada özellikle deniz kuşları için önemli bir yaşam alanı. Göç mevsiminde, ada birçok kuş türüne ev sahipliği yapar. Bu kuşlar, adanın kıyılarında ve zeytinliklerinde yuvalanır. Ekolojik Değer olarak, Çatal Adası'nin izole konumu, burada yaşayan canlıların benzersiz bir adaptasyon sürecine girmesine neden olmuştur. Bu ada, doğa severler ve bilim insanları için bir hazine niteliğindedir.
 

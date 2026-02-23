@@ -28,7 +28,7 @@ wikidata_id: "Q31535272"
 
 # Kırtıllıdaz Tepesi
 
-Kırtıllıdaz Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişi hakkında bilgi sahibi olabilirsiniz. Kırtıllıdaz Tepesi, ziyaretçiler için bir çekim merkezi olarak kabul ediliyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz.
+Kırtıllıdaz Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişi hakkında bilgi sahibi olabilirsiniz. Kırtıllıdaz Tepesi, ziyaretçiler için bir çekim merkezi olarak kabul ediliyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz.
 
 ## Tarihçe
 

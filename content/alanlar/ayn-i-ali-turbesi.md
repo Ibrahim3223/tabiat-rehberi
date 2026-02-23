@@ -1,7 +1,7 @@
 ---
 title: "Ayn-i Ali Türbesi"
 date: "2026-01-10T07:15:59.158Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390919"
 
 # Ayn-i Ali Türbesi
 
-Ayn-i Ali Türbesi, Ege Bölgesi'nin en önemli tarihi ve kültürel mekanlarından biridir. Manisa'nın Yunusemre ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunmaktadır. Türbenin tarihi geçmişi, yüzyıllar boyunca oluşan kültürel mirası ile ziyaretçilerini etkilemektedir. Ayn-i Ali Türbesi, tarih ve doğa severlerin mutlaka ziyaret etmesi gereken bir mekan olarak dikkat çekmektedir.
+Ayn-i Ali Türbesi, Ege Bölgesi'nin en önemli tarihi ve kültürel mekanlarından biridir. Manisa'nın Yunusemre ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuştur. Türbenin tarihi geçmişi, yüzyıllar boyunca oluşan kültürel mirası ile ziyaretçilerini etkilemektedir. Ayn-i Ali Türbesi, tarih ve doğa severlerin mutlaka ziyaret etmesi gereken bir mekan olarak dikkat çekmektedir.
 
 ## Tarihçe
 

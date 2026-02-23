@@ -23,7 +23,7 @@ wikidata_id: "Q108228267"
 
 # Yakamanastır
 
-Yakamanastır, İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık geniş yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bir milli parktır. Bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmıştır. Yeşilin her tonunu görebileceğiniz bu doğal cennet, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon olarak karşımıza çıkıyor. Yakamanastır, ziyaretçilerine geniş açık alanlar, çeşitli flora ve fauna çeşitliliği sunuyor. Burada doğanın seslerini dinleyerek, stresinizi atabilirsiniz.
+ Bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmıştır. Yeşilin her tonunu görebileceğiniz bu doğal cennet, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon olarak karşımıza çıkıyor. Yakamanastır, ziyaretçilerine geniş açık alanlar, çeşitli flora ve fauna çeşitliliği sunuyor. Burada doğanın seslerini dinleyerek, stresinizi atabilirsiniz.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Yakamanastır'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Yakamanastır, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak geniş ova ve dağlık alanlara sahip. Milli park, 140 hektarlık bir alanda kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Yakamanastır'ın coğrafyası, ziyaretçilerine çeşitli doğa aktiviteleri sunuyor. Burada, yürüyüş parkurları, gözlem noktaları ve piknik alanları gibi olanaklar vorhandur. Ayrıca, milli parkın etrafında yer alan dağlar ve ovalar, ziyaretçilere geniş bir manzara sunuyor. Yakamanastır, coğrafi konumu itibariyle, dört mevsim ziyaret edilebilecek bir destinasyon olarak karşımıza çıkıyor. Kışın karla kaplı dağları, ilkbaharda yeşeren çiçekleri, yazın serin ormanları ve sonbaharda renklenen yaprakları ile her mevsim ziyaretçilerini bekliyor.
+Yakamanastır, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak geniş ova ve dağlık alanlara sahip. Yakamanastır'ın coğrafyası, ziyaretçilerine çeşitli doğa aktiviteleri sunuyor. Burada, yürüyüş parkurları, gözlem noktaları ve piknik alanları gibi olanaklar vorhandur. Ayrıca, milli parkın etrafında yer alan dağlar ve ovalar, ziyaretçilere geniş bir manzara sunuyor. Yakamanastır, coğrafi konumu itibariyle, dört mevsim ziyaret edilebilecek bir destinasyon olarak karşımıza çıkıyor. Kışın karla kaplı dağları, ilkbaharda yeşeren çiçekleri, yazın serin ormanları ve sonbaharda renklenen yaprakları ile her mevsim ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Yakamanastır'ı ziyaret etmek için, her mevsim uygun. Ancak, en iyi ziyaret me
 ## İlginç Bilgiler
 
 - Yakamanastır, 140 hektarlık bir yeşil alanı kapsıyor.
-- Yakamanastır, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Milli parkta, çeşitli flora ve fauna çeşitliliği mevcut.
 - Yakamanastır, dört mevsim ziyaret edilebilecek bir destinasyon.
 - Milli park, doğa yürüyüşleri ve kuş gözlemciliğiçin ideal.

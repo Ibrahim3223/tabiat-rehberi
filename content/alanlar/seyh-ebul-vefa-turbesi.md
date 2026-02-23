@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Ebul Vefa Türbesi"
 date: "2026-01-10T07:21:09.062Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390997"
 
 # Şeyh Ebul Vefa Türbesi
 
-Şeyh Ebul Vefa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Fatih ilçesinde bulunan bu tarihi mekân, şehrin kalbinde yer alıyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere derin bir tarih ve kültür deneyimi sunuyor. Şeyh Ebul Vefa Türbesi, şehrin en önemli tarihi noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Türbenin etrafı, çeşitli bitkiler ve ağaçlarla çevrili, ziyaretçilere huzurlu bir atmosfer sunuyor.
+Şeyh Ebul Vefa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Fatih ilçesinde bulunan bu tarihi mekân, şehrin kalbinde yer alıyor. Şeyh Ebul Vefa Türbesi, şehrin en önemli tarihi noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Türbenin etrafı, çeşitli bitkiler ve ağaçlarla çevrili, ziyaretçilere huzurlu bir atmosfer sunuyor.
 
 ## Tarihçe
 

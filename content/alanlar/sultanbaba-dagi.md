@@ -48,11 +48,11 @@ Sultanbaba Dağı, çevresindeki ekosistemle önemli bir bağlantıyı temsil ed
 
 ## Flora ve Fauna
 
-Sultanbaba Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sultanbaba Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü açısından, ilkbaharın geldiği ilk günlerde dağ eteklerinde çiçekler açmaya başlar. Alpin çayırlar, yükseklik zonlarına göre değişen bitki türleriyle renklenir. Bu bölgede, yüksek dağ ekosisteminin karakteristik türleri bulunur. 
+Bitki Örtüsü açısından, ilkbaharın geldiği ilk günlerde dağ eteklerinde çiçekler açmaya başlar. Alpin çayırlar, yükseklik zonlarına göre değişen bitki türleriyle renklenir. Bu bölgede, yüksek dağ ekosisteminin karakteristik türleri bulunur.
 
-Yaban Hayatı açısından, dağda çeşitli memeli ve kuş türleri yaşar. Sonbaharda, göçmen kuşlar buradan geçer. Sürüngenler de bu ekosistemin bir parçasıdır. Dağ hayvanları, yaşam alanlarıyla birlikte düşünüldüğünde, ekolojik ilişkiler ortaya çıkar. 
+Yaban Hayatı açısından, dağda çeşitli memeli ve kuş türleri yaşar. Sonbaharda, göçmen kuşlar buradan geçer. Sürüngenler de bu ekosistemin bir parçasıdır. Dağ hayvanları, yaşam alanlarıyla birlikte düşünüldüğünde, ekolojik ilişkiler ortaya çıkar.
 
 Ekolojik Değer olarak, Sultanbaba Dağı, endemik türlerin yaşam alanı olması nedeniyle önemlidir. Yüksek dağ ekolojisi, alpin çayırlar ve endemik türler, bu bölgenin benzersiz özellikleridir.
 

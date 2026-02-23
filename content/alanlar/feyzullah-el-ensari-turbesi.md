@@ -1,7 +1,7 @@
 ---
 title: "Feyzullah el Ensari Türbesi"
 date: "2026-01-10T06:10:01.008Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bitlis Vilayeti"

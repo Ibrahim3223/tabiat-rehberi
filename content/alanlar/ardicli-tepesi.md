@@ -28,7 +28,7 @@ wikidata_id: "Q34833407"
 
 # Ardıçlı Tepesi
 
-Ardıçlı Tepesi, Konya'nın içlerinde, İç Anadolu Bölgesi'nin geniş ve çeşitli coğrafyası içerisinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ardıçlı Tepesi, Konya'nın tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzelliklerinin de önemli bir parçası. Burada, ziyaretçiler, geniş ve zengin flora ile fauna çeşitliliğini keşfedebilirler. Ardıçlı Tepesi, aynı zamanda, bölgenin coğrafi özelliklerini ve iklimini gözlemlemek için ideal bir nokta.
+Ardıçlı Tepesi, Konya'nın içlerinde, İç Anadolu Bölgesi'nin geniş ve çeşitli coğrafyası içerisinde yer alan bir tepe. Ardıçlı Tepesi, Konya'nın tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzelliklerinin de önemli bir parçası. Burada, ziyaretçiler, geniş ve zengin flora ile fauna çeşitliliğini keşfedebilirler. Ardıçlı Tepesi, aynı zamanda, bölgenin coğrafi özelliklerini ve iklimini gözlemlemek için ideal bir nokta.
 
 ## Tarihçe
 

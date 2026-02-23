@@ -1,7 +1,7 @@
 ---
 title: "Berberkaya Anıt Mezarı"
 date: "2026-01-10T00:02:55.391Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728105"
 
 # Berberkaya Anıt Mezarı
 
-Berberkaya Anıt Mezarı, İznik'in tarihi sokaklarında gizlenen bir hazine olarak karşımıza çıkıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi geçmişi ile ziyaretçilerini büyülüyor. İznik Gölü'nün hemen kenarında yer alan bu anıt mezar, Marmara Bölgesi'nin en önemli tarihi mekanlarından biri olarak kabul ediliyor. Berberkaya Anıt Mezarı, İznik'in zengin tarihini ve kültürel mirasını yansıtan önemli bir sembol olarak görülüyor.
+Berberkaya Anıt Mezarı, İznik'in tarihi sokaklarında gizlenen bir hazine olarak karşımıza çıkıyor. İznik Gölü'nün hemen kenarında yer alan bu anıt mezar, Marmara Bölgesi'nin en önemli tarihi mekanlarından biri olarak kabul ediliyor. Berberkaya Anıt Mezarı, İznik'in zengin tarihini ve kültürel mirasını yansıtan önemli bir sembol olarak görülüyor.
 
 ## Tarihçe
 

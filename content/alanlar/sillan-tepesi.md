@@ -28,11 +28,11 @@ wikidata_id: "Q31385453"
 
 # Şillan Tepesi
 
-Şillan Tepesi, Malatya'nın doğal güzellikleri arasında yer alan bir tepe. Doğu Anadolu Bölgesi'nde bulunan bu tepe, ziyaretçilerini büyüleyici manzarasıyla karşılıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, doğa severlerin keyifli anlar geçirmesine olanak tanıyor. Şillan Tepesi, aynı zamanda çevresindeki diğer doğal güzelliklerle birlikte bir bütün oluşturuyor. Bu bölge, hem doğa hem de tarih açısından önemli bir konumda yer alıyor.
+Şillan Tepesi, Malatya'nın doğal güzellikleri arasında yer alan bir tepe. Doğu Anadolu Bölgesi'nde bulunan bu tepe, ziyaretçilerini büyüleyici manzarasıyla karşılıyor. Bu geniş alan, doğa severlerin keyifli anlar geçirmesine olanak tanıyor. Şillan Tepesi, aynı zamanda çevresindeki diğer doğal güzelliklerle birlikte bir bütün oluşturuyor. Bu bölge, hem doğa hem de tarih açısından önemli bir konumda yer alıyor.
 
 ## Tarihçe
 
-Şillan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe, tarih boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak bilinir. Ancak, Şillan Tepesi'nin tam tarihi hakkında net bilgiler bulunmuyor. Bu tepenin história, bölgenin genel tarihi geçmişi ile paralellik gösteriyor. Şillan Tepesi, Malatya'nın önemli noktalarından biri olarak kabul ediliyor. Tepenin etrafındaki yerleşim yerleri ve tarihi kalıntılar, bu bölgenin zengin historia hakkında fikir veriyor.
+Şillan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe, tarih boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak bilinir. Ancak, Şillan Tepesi'nin tam tarihi hakkında net bilgiler bulunmuyor. Bu tepenin tarihi, bölgenin genel tarihi geçmişi ile paralellik gösteriyor. Şillan Tepesi, Malatya'nın önemli noktalarından biri olarak kabul ediliyor. Tepenin etrafındaki yerleşim yerleri ve tarihi kalıntılar, bu bölgenin zengin historia hakkında fikir veriyor.
 
 ## Coğrafya
 

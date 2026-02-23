@@ -68,5 +68,5 @@ Solarya Dağı, Balıkesir'in gizli bir incisi. Sabah erken gitmenizi öneririm,
 - Dağın etrafındaki ormanlık alan, 1993 yılında koruma altına alınmıştır.
 - Dağın yüksekliği 814 metredir ve bölgede trekking ve dağcılık faaliyetlerine ev sahipliği yapar.
 - Solarya Dağı, İstanbul'a yaklaşık 270 kilometre mesafededir.
-- Dağın eteklerinde, históri ve kültürel öneme sahip several köyler bulunmaktadır.
+- Dağın eteklerinde, tarihi ve kültürel öneme sahip several köyler bulunmaktadır.
 - Solarya Dağı, flora ve fauna açısından zengin bir alana sahiptir, 200'den fazla bitki türü burada yetişmektedir.

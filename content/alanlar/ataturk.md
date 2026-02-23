@@ -23,7 +23,7 @@ wikidata_id: "Q108228707"
 
 # ATATÜRK
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Atatürk, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplar. Bu geniş yeşil alan, ziyaretçilerini doğanın güzelliğine davet ediyor. Atatürk'ün konumu, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Burada, İç Anadolu Bölgesi'nin benzersiz iklimini ve coğrafi yapısını gözlemleme mümkün. Atatürk, sadece bir doğal alan değil, aynı zamanda bölgenin tarihi ve kültürel mirasının önemli bir parçasıdır.
+ Bu geniş yeşil alan, ziyaretçilerini doğanın güzelliğine davet ediyor. Atatürk'ün konumu, bölgenin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Burada, İç Anadolu Bölgesi'nin benzersiz iklimini ve coğrafi yapısını gözlemleme mümkün. Atatürk, sadece bir doğal alan değil, aynı zamanda bölgenin tarihi ve kültürel mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ ATATÜRK'ün tarihi geçmişi, İç Anadolu Bölgesi'nin zengin kültürel miras
 
 ## Coğrafya
 
-ATATÜRK, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahiptir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğündedir ve bu geniş yeşil alan, ziyaretçilerini doğanın güzelliğine davet ediyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimini yansıtır ve burada, karasal iklimin özellikleri görülür. Atatürk'ün coğrafi yapısı, ziyaretçilere bölgenin benzersiz özelliklerini keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çeker. Atatürk'ün konumu, ziyaretçilere çevreyi ve ekosistemi gözlemleme fırsatı sunar.
+ATATÜRK, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıya sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimini yansıtır ve burada, karasal iklimin özellikleri görülür. Atatürk'ün coğrafi yapısı, ziyaretçilere bölgenin benzersiz özelliklerini keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çeker. Atatürk'ün konumu, ziyaretçilere çevreyi ve ekosistemi gözlemleme fırsatı sunar.
 
 ## Flora ve Fauna
 

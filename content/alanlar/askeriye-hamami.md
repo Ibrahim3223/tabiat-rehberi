@@ -1,7 +1,7 @@
 ---
 title: "Askeriye Hamamı"
 date: "2026-01-09T22:19:50.552Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738420"
 
 # Askeriye Hamamı
 
-Askeriye Hamamı, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un Yakutiye ilçesinde yer alan bir doğal güzellik. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Askeriye Hamamı, tarihi geçmişi ve zengin flora ile dikkat çekiyor. Doğa severler ve macera tutkunları için ideal bir destinasyon olan bu mekan, yerel kültürü deneyimlemek isteyenler için de bir fırsat sunuyor.
+Askeriye Hamamı, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un Yakutiye ilçesinde yer alan bir doğal güzellik. Askeriye Hamamı, tarihi geçmişi ve zengin flora ile dikkat çekiyor. Doğa severler ve macera tutkunları için ideal bir destinasyon olan bu mekan, yerel kültürü deneyimlemek isteyenler için de bir fırsat sunuyor.
 
 ## Tarihçe
 

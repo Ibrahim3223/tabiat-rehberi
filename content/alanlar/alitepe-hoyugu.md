@@ -28,7 +28,7 @@ wikidata_id: "Q32127169"
 
 # Alitepe Höyüğü
 
-Alitepe Höyüğü, Malatya'nın tarihi ve kültürel zenginliklerini barındıran önemli bir höyüktür. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en büyük höyüklerinden biridir. Höyüğün etrafında, tarihi geçmişi yansıtan çeşitli kalıntılar ve eserler bulunmaktadır. Bu höyük, ziyaretçilerini tarihin derinliklerine götürerek, Doğu Anadolu Bölgesi'nin zengin kültürel mirasını keşfetme fırsatı sunmaktadır.
+Alitepe Höyüğü, Malatya'nın tarihi ve kültürel zenginliklerini barındıran önemli bir höyüktür. Höyüğün etrafında, tarihi geçmişi yansıtan çeşitli kalıntılar ve eserler bulunmaktadır. Bu höyük, ziyaretçilerini tarihin derinliklerine götürerek, Doğu Anadolu Bölgesi'nin zengin kültürel mirasını keşfetme fırsatı sunmaktadır.
 
 ## Tarihçe
 

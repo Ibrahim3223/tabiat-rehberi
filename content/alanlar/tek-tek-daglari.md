@@ -23,7 +23,7 @@ wikidata_id: "Q108228112"
 
 # Tek Tek Daglari
 
-Tek Daglari, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini korumak için kurulmuştur. Parkın kurulması, bölgenin tarihi ve kültürel zenginliklerini koruma altına almak amacıyla gerçekleştirilmiştir. Doğal güzellikleri, tarihi geçmişi ve coğrafi özellikleri ile Tek Daglari, ziyaretçilerini bekleyen bir hazine gibidir.
+Tek Daglari, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Parkın kurulması, bölgenin tarihi ve kültürel zenginliklerini koruma altına almak amacıyla gerçekleştirilmiştir. Doğal güzellikleri, tarihi geçmişi ve coğrafi özellikleri ile Tek Daglari, ziyaretçilerini bekleyen bir hazine gibidir.
 
 ## Tarihçe
 

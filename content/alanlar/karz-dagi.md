@@ -48,9 +48,9 @@ Bölgenin diğer doğal güzelliklerine benzer şekilde Karz Dağı, çevresinde
 
 ## Flora ve Fauna
 
-Karz Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, Bitlis'in toplam yüzölçümünün neredeyse %10'unu kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanıyor. 
+Karz Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, Bitlis'in toplam yüzölçümünün neredeyse %10'unu kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanıyor.
 
-Bitki örtüsünü oluşturan hakim türler, yükseklik zonlarına göre değişkenlik gösteriyor. Alpin flora, dağların yüksek kesimlerinde hakim oluyor. Mevsimsel değişimlere bağlı olarak, sonbaharda göç eden kuşlar, dağların yüksek kesimlerinde konaklıyor. 
+Bitki örtüsünü oluşturan hakim türler, yükseklik zonlarına göre değişkenlik gösteriyor. Alpin flora, dağların yüksek kesimlerinde hakim oluyor. Mevsimsel değişimlere bağlı olarak, sonbaharda göç eden kuşlar, dağların yüksek kesimlerinde konaklıyor.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri, yüksek kesimlerde yaşamını sürdürürken, kartallar ve diğer yırtıcı kuşlar, dağların tepelerinden avlarını gözleyerek yaşamını sürdürüyor. Ekolojik değerini koruma altına almak, bu dağ ekosisteminin sürekliliğini sağlamak açısından büyük önem taşıyor.
 

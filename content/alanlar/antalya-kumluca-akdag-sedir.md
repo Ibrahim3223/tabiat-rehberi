@@ -22,7 +22,7 @@ wikidata_id: "Q108227600"
 
 # Antalya-Kumluca-Akdag Sedir
 
-Akdag Sedir milli parkı, Antalya'nın Kumluca ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçiler için geniş bir açık alan sunmaktadır. Parkın içinde çeşitli bitki türleri ve zengin fauna çeşitliliği bulunmaktadır. Parka gelen ziyaretçiler, doğanın güzelliğini ve canlı çeşitliliğini yakından görebilmektedir.
+Akdag Sedir milli parkı, Antalya'nın Kumluca ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Parkın içinde çeşitli bitki türleri ve zengin fauna çeşitliliği bulunmaktadır. Parka gelen ziyaretçiler, doğanın güzelliğini ve canlı çeşitliliğini yakından görebilmektedir.
 
 ## Tarihçe
 

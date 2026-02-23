@@ -28,7 +28,7 @@ wikidata_id: "Q130366756"
 
 # Ayder Şelalesi
 
-Ayder Şelalesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Şelale, yüksek bir kayaların üzerinden dökülen suyun oluşturduğu bir doğal güzelliktir. Ayder Şelalesi, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmek isteyeceği bir yerdir. Bu bölge, yaban hayatı ve ekosistemi ile dikkat çekmektedir.
+Ayder Şelalesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Şelale, yüksek bir kayaların üzerinden dökülen suyun oluşturduğu bir doğal güzelliktir. Ayder Şelalesi, doğa severlerin ve fotoğraf tutkunlarının ziyaret etmek isteyeceği bir yerdir. Bu bölge, yaban hayatı ve ekosistemi ile dikkat çekmektedir.
 
 ## Tarihçe
 

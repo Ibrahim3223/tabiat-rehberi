@@ -22,7 +22,7 @@ wikidata_id: "Q108228611"
 
 # HASBAHCE KENT ORMANI
 
-İç Anadolu Bölgesi'nin merkezinde yer alan Hasbahçe Kent Ormanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu geniş alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırma ve doğanın güzelliğine şahit olmak için ideal bir yer sunar. Hasbahçe Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir peyzaj içerir ve bölgenin ekolojik dengesini koruma altına alır. Ziyaretçiler, bu eşsiz doğa alanını keşfederek, bölgenin flora ve faunasını yakından tanıma fırsatı bulabilirler.
+ Bu geniş alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırma ve doğanın güzelliğine şahit olmak için ideal bir yer sunar. Hasbahçe Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir peyzaj içerir ve bölgenin ekolojik dengesini koruma altına alır. Ziyaretçiler, bu eşsiz doğa alanını keşfederek, bölgenin flora ve faunasını yakından tanıma fırsatı bulabilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Hasbahçe Kent Ormanı, İç Anadolu Bölgesi'nin tarihi geçmişiçerisinde ön
 
 ## Coğrafya
 
-Hasbahçe Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir peyzaj içerir. Orman, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır. Bu geniş alan, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Ormanın coğrafi konumu, bölgenin iklimini ve ekolojik dengesini etkiler. Hasbahçe Kent Ormanı, İç Anadolu Bölgesi'nin merkezi bir bölgesinde yer alır ve bölgenin coğrafi özelliklerini yansıtan bir peyzaj içerir. Ormanın coğrafi konumu, ziyaretçilerin ormanı keşfetmelerine ve bölgenin güzelliğini tanımalarına olanak tanır. Orman, çeşitli yürüyüş parkurları ve noktaları içerir ve ziyaretçiler, bu parkurları kullanarak ormanın güzelliğini keşfedebilir.
+Hasbahçe Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir peyzaj içerir. Bu geniş alan, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar. Ormanın coğrafi konumu, bölgenin iklimini ve ekolojik dengesini etkiler. Hasbahçe Kent Ormanı, İç Anadolu Bölgesi'nin merkezi bir bölgesinde yer alır ve bölgenin coğrafi özelliklerini yansıtan bir peyzaj içerir. Ormanın coğrafi konumu, ziyaretçilerin ormanı keşfetmelerine ve bölgenin güzelliğini tanımalarına olanak tanır. Orman, çeşitli yürüyüş parkurları ve noktaları içerir ve ziyaretçiler, bu parkurları kullanarak ormanın güzelliğini keşfedebilir.
 
 ## Flora ve Fauna
 

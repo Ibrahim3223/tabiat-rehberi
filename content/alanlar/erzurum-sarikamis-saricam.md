@@ -22,7 +22,7 @@ wikidata_id: "Q108227563"
 
 # Erzurum-Sarikamis Saricam
 
-Erzurum-Sarikamis Saricam, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olarak dikkat çekiyor. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu mekan, doğa severlerin gözdesi durumunda. Sarikamis Saricam, Erzurum'un merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Bu yeşil cennet, şehrin gürültüsünden uzaklaşarak doğayla baş başa kalabileceğiniz ideal bir mekan.
+Erzurum-Sarikamis Saricam, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olarak dikkat çekiyor. Sarikamis Saricam, Erzurum'un merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Bu yeşil cennet, şehrin gürültüsünden uzaklaşarak doğayla baş başa kalabileceğiniz ideal bir mekan.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Sarikamis Saricam, coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektar
 
 ## Flora ve Fauna
 
-Sarikamis Saricam, flora ve fauna açısından oldukça zengin bir bölge. Bu yeşil cennette, çeşitli bitki türleri ve ağaçlar bulunuyor. Mevsimsel değişimlerle birlikte, bu bitkiler ve ağaçlar farklı renklere bürünüyor ve ziyaretçilere görsel bir şölen sunuyor. Sarikamis Saricam, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Bu mekan, doğa severlerin hem bitki hem de hayvan türlerinilemek için ideal bir yer olarak düşünülüyor. Sarikamis Saricam, ekolojik dengenin korunması açısından da önemli bir rol oynuyor.
+ Bu yeşil cennette, çeşitli bitki türleri ve ağaçlar bulunuyor. Mevsimsel değişimlerle birlikte, bu bitkiler ve ağaçlar farklı renklere bürünüyor ve ziyaretçilere görsel bir şölen sunuyor. Sarikamis Saricam, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Bu mekan, doğa severlerin hem bitki hem de hayvan türlerinilemek için ideal bir yer olarak düşünülüyor. Sarikamis Saricam, ekolojik dengenin korunması açısından da önemli bir rol oynuyor.
 
 ## Ziyaret Bilgileri
 
@@ -43,7 +43,7 @@ Sarikamis Saricam'ı ziyaret etmek için, Erzurum merkezinden ulaşım oldukça 
 ## İlginç Bilgiler
 
 - Sarikamis Saricam, Erzurum'un en büyük yeşil alanlarından biri.
-- Bu mekan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Sarikamis Saricam, tarihin farklı dönemlerinde önemli bir merkez olarak kullanılmış.
 - Bu bölge, iklimsel olarak karasal iklimin hakim olduğu bir bölgede yer alıyor.
-- Sarikamis Saricam, flora ve fauna açısından oldukça zengin.
+

@@ -48,7 +48,7 @@ Mevsimsel özellikler açısından Kuringan Tepe, bölgenin iklim karakterine uy
 
 ## Flora ve Fauna
 
-Kuringan Tepe, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, alpin çayırlar renkli çiçeklerle donanırken, sonbaharda göç eden kuşlar burada konaklar. 
+Kuringan Tepe, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, alpin çayırlar renkli çiçeklerle donanırken, sonbaharda göç eden kuşlar burada konaklar.
 
 Bitki örtüsünü oluşturan yüksek dağ florası, mevsimsel değişimlere uyum sağlar. Alpin çayırlar, çam ve ladin ağaçları hakim türlerdir. Bu bitkiler, dağ hayvanlarının yaşam alanlarını oluşturur. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban keçileri, bu bölgenin karakteristik hayvanlarıdır.
 

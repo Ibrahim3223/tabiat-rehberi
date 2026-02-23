@@ -28,7 +28,7 @@ wikidata_id: "Q32223440"
 
 # Gök Tepesi
 
-Gök Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu muhteşem tepe, Giresun ilinin doğal güzelliklerinden biri olarak görülmektedir. Gök Tepesi, ziyaretçilerine Karadeniz Bölgesi'nin eşsiz manzaralarını sunuyor. Ziyaretçiler, tepeye çıkarak régionun güzel görünümüyle karşılaşabilir ve doğanın güzelliğini deneyimleyebilir.
+ Bu muhteşem tepe, Giresun ilinin doğal güzelliklerinden biri olarak görülmektedir. Gök Tepesi, ziyaretçilerine Karadeniz Bölgesi'nin eşsiz manzaralarını sunuyor. Ziyaretçiler, tepeye çıkarak bölgenin güzel görünümüyle karşılaşabilir ve doğanın güzelliğini deneyimleyebilir.
 
 ## Tarihçe
 
@@ -44,12 +44,12 @@ Gök Tepesi, ziyaretçilerine, Karadeniz Bölgesi'nin karakteristik flora ve fau
 
 ## Ziyaret Bilgileri
 
-Gök Tepesi'ni ziyaret etmek, ziyaretçilere, Karadeniz Bölgesi'nin güzelliğini deneyimleme fırsatı sunuyor. Ziyaretçiler, tepeye çıkarak, régionun güzel manzarasını görebilir. Gök Tepesi'ne, Giresun ilinin merkezinden kolayca ulaşılabilir. Ziyaretçiler, tepeye, yürüyere veya araçla çıkabilir. Gök Tepesi, ziyaretçilerine, Karadeniz Bölgesi'nin karakteristik kültürünü ve güzelliğini sunuyor.
+Gök Tepesi'ni ziyaret etmek, ziyaretçilere, Karadeniz Bölgesi'nin güzelliğini deneyimleme fırsatı sunuyor. Ziyaretçiler, tepeye çıkarak, bölgenin güzel manzarasını görebilir. Gök Tepesi'ne, Giresun ilinin merkezinden kolayca ulaşılabilir. Ziyaretçiler, tepeye, yürüyere veya araçla çıkabilir. Gök Tepesi, ziyaretçilerine, Karadeniz Bölgesi'nin karakteristik kültürünü ve güzelliğini sunuyor.
 
 ## İlginç Bilgiler
 
 - Gök Tepesi, Giresun ilinin en önemli turizm noktalarından biri
 - Gök Tepesi, Karadeniz Bölgesi'nin karakteristik flora ve faunasını sunuyor
-- Gök Tepesi, ziyaretçilerine, régionun güzel manzarasını sunuyor
+- Gök Tepesi, ziyaretçilerine, bölgenin güzel manzarasını sunuyor
 - Gök Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde
 - Gök Tepesi, yüksek bir konumda

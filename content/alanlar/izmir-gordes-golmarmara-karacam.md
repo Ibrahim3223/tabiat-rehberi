@@ -22,7 +22,7 @@ wikidata_id: "Q108227949"
 
 # Izmir-Gordes-Golmarmara Karacam
 
-Izmir-Gordes-Golmarmara Karacam milli parkı, Ege Bölgesi'nin doğal güzelliklerini sergileyen bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik noktalarından biri olarak kabul ediliyor. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna encontrando. Bu doğa harikası, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunuyor. Milli parkın tarihi geçmişi, yüzyıllar boyunca oluşan jeolojik yapı ve iklimsel koşullarla şekillenmiş. Bu nedenle, ziyaretçiler için hem eğitici hem de keyifli bir gezi deneyimi sunuyor.
+Izmir-Gordes-Golmarmara Karacam milli parkı, Ege Bölgesi'nin doğal güzelliklerini sergileyen bir alan olarak dikkat çekiyor. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna encontrando. Bu doğa harikası, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunuyor. Milli parkın tarihi geçmişi, yüzyıllar boyunca oluşan jeolojik yapı ve iklimsel koşullarla şekillenmiş. Bu nedenle, ziyaretçiler için hem eğitici hem de keyifli bir gezi deneyimi sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Izmir-Gordes-Golmarmara Karacam milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Izmir-Gordes-Golmarmara Karacam milli parkı, Ege Bölgesi'nin coğrafi yapısını gösteren bir bölgedir. Milli park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi yapısı, dağlar, vadiler ve ova alanlarından oluşuyor. İklim, Akdeniz iklimi özellikleri taşır ve yazları sıcak, kışları ılıman geçer. Bu coğrafi yapı, çeşitli bitki türlerinin yetişmesine ve zengin faunanın oluşmasına olanak tanır. Milli parkın çevresi, doğal güzellikleri ve ekolojik önemi nedeniyle koruma altına alınmıştır. Ziyaretçiler, bu coğrafi yapının güzelliklerini keşfedebilir ve doğanın renklerini yakından görebilir.
+Izmir-Gordes-Golmarmara Karacam milli parkı, Ege Bölgesi'nin coğrafi yapısını gösteren bir bölgedir. Bölgenin coğrafi yapısı, dağlar, vadiler ve ova alanlarından oluşuyor. İklim, Akdeniz iklimi özellikleri taşır ve yazları sıcak, kışları ılıman geçer. Bu coğrafi yapı, çeşitli bitki türlerinin yetişmesine ve zengin faunanın oluşmasına olanak tanır. Milli parkın çevresi, doğal güzellikleri ve ekolojik önemi nedeniyle koruma altına alınmıştır. Ziyaretçiler, bu coğrafi yapının güzelliklerini keşfedebilir ve doğanın renklerini yakından görebilir.
 
 ## Flora ve Fauna
 

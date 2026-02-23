@@ -22,7 +22,7 @@ wikidata_id: "Q108229002"
 
 # EFENDİOĞLU_HANYANI_TP
 
-EFENDİOĞLU_HANYANI_TP, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Milli parkın içinde çeşitli bitki türleri ve hayvanlar bulunur. Ziyaretçiler, doğanın içinde yürüyüş yapabilir, piknik düzenleyebilir ve çevreyi keşfedebilir. EFENDİOĞLU_HANYANI_TP, doğa severler ve çevreyi korumak isteyenler için ideal bir destinasyondur.
+EFENDİOĞLU_HANYANI_TP, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Milli parkın içinde çeşitli bitki türleri ve hayvanlar bulunur. Ziyaretçiler, doğanın içinde yürüyüş yapabilir, piknik düzenleyebilir ve çevreyi keşfedebilir. EFENDİOĞLU_HANYANI_TP, doğa severler ve çevreyi korumak isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ EFENDİOĞLU_HANYANI_TP'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-EFENDİOĞLU_HANYANI_TP, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir kısmını oluşturur. Milli park, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, çeşitli bitki türleri ve hayvanlar ile dolu olan bir ekosisteme sahiptir. İklim, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçer. Çevre, doğal güzelliği ile ziyaretçileri çekmeye devam etmektedir. EFENDİOĞLU_HANYANI_TP, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Milli parkın coğrafi konumu, ziyaretçilere çeşitli aktivite olanakları sunar. Ziyaretçiler, doğanın içinde yürüyüş yapabilir, piknik düzenleyebilir ve çevreyi keşfedebilir.
+EFENDİOĞLU_HANYANI_TP, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir kısmını oluşturur. Bölge, çeşitli bitki türleri ve hayvanlar ile dolu olan bir ekosisteme sahiptir. İklim, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçer. Çevre, doğal güzelliği ile ziyaretçileri çekmeye devam etmektedir. EFENDİOĞLU_HANYANI_TP, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Milli parkın coğrafi konumu, ziyaretçilere çeşitli aktivite olanakları sunar. Ziyaretçiler, doğanın içinde yürüyüş yapabilir, piknik düzenleyebilir ve çevreyi keşfedebilir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ EFENDİOĞLU_HANYANI_TP, ziyaretçilere doğanın güzelliğini keşfetme fırsa
 ## İlginç Bilgiler
 
 - EFENDİOĞLU_HANYANI_TP, 140 hektarlık geniş bir alanı kapsar.
-- Milli park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bölge, çeşitli bitki türleri ve hayvanlar ile dolu olan bir ekosisteme sahiptir.
 - İklim, İç Anadolu Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları soğuk geçer.
 - Ziyaretçiler, doğanın içinde yürüyüş yapabilir, piknik düzenleyebilir ve çevreyi keşfedebilir.

@@ -33,7 +33,7 @@ Diyarbakır'ın tarihi ve doğal güzellikleriyle dolu coğrafyasında yer alan 
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Bu topraklar, binlerce yıl boyunca çeşitli uygarlıklara ev sahipliği yapmış, Medler, Persler, Romalılar ve Osmanlılar gibi büyük imparatorlukların izlerini taşımaktadır. Diyarbakır'ın tarihi zenginliği, aynı zamanda bölgedeki doğal alanların önemini de vurgulamaktadır.
+Diyarbakır bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Bu topraklar, binlerce yıl boyunca çeşitli uygarlıklara ev sahipliği yapmış, Medler, Persler, Romalılar ve Osmanlılar gibi büyük imparatorlukların izlerini taşımaktadır. Diyarbakır'ın tarihi zenginliği, aynı zamanda bölgedeki doğal alanların önemini de vurgulamaktadır.
 
 Hun Tepe, bu tarihi coğrafyanın bir parçası olarak, insanların yaşamlarında önemli bir rol oynamıştır. Türkiye'de, özellikle güneydoğu bölgelerinde, yaylacılık ve hayvancılık gibi geleneksel faaliyetler, doğal alanların korunmasına katkıda bulunmuştur. Bu tür alanlar, aynı zamanda ticaret yolları ve kültür alışverişinin gerçekleştiği mekanlar olarak da görev yapmıştır.
 
@@ -69,5 +69,5 @@ Hun Tepe, Diyarbakır'ın doğal güzelliklerini keşfetmek isteyenler için bir
 - Bu dağ, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir.
 - Diyarbakır'ın yüksek noktalarından biri olan Hun Tepe, ilin panoramik manzarasına olanak sağlar.
 - Hun Tepe'nin etrafındaki bölge,histori ve kültürel açıdan zengin bir geçmişe sahiptir.
-- Bu bölge, Diyarbakır'ın doğal güzellikleri ve histórik alanlarını keşfetmek için ziyaret edilebilir.
+- Bu bölge, Diyarbakır'ın doğal güzellikleri ve tarihi alanlarını keşfetmek için ziyaret edilebilir.
 - Hun Tepe ve çevresindeki coğrafi yapı, Güneydoğu Anadolu Bölgesi'nin jeolojik çeşitliliğini yansıtmaktadır.

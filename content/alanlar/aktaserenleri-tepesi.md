@@ -28,7 +28,7 @@ wikidata_id: "Q31387328"
 
 # Aktaşerenleri Tepesi
 
-Aktaşerenleri Tepesi, Karabük'ün merkezinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir yeşil alandır. Bu büyüleyici tepe, ziyaretçilerini Karadeniz Bölgesi'nin benzersiz manzaralarıyla karşılar. Doğa severler için bir cennet olan Aktaşerenleri Tepesi, yürüyüş parkurları, piknik alanları ve zengin flora ve fauna çeşitliliğiyle dikkat çeker. Burada, doğanın güzelliğini keşfetme ve şehrin gürültüsünden kaçma mümkündür.
+ Bu büyüleyici tepe, ziyaretçilerini Karadeniz Bölgesi'nin benzersiz manzaralarıyla karşılar. Doğa severler için bir cennet olan Aktaşerenleri Tepesi, yürüyüş parkurları, piknik alanları ve zengin flora ve fauna çeşitliliğiyle dikkat çeker. Burada, doğanın güzelliğini keşfetme ve şehrin gürültüsünden kaçma mümkündür.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Aktaşerenleri Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgenin öneml
 
 ## Coğrafya
 
-Aktaşerenleri Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkar. Tepenin yüksekliği, Karabük'ün merkezinden itibaren postupně artar ve manzaraya hakim bir noktaya ulaşır. Bölgenin iklimi, Karadeniz ikliminin özellikleri gösterir; yağışlı ve nemli bir hava hakimdir. Tepenin yakınındaki akarsular, bölgenin su kaynaklarını oluşturur. Aktaşerenleri Tepesi, zengin flora ve fauna çeşitliliğine sahiptir. Bölgede, çeşitli bitki türleri ve hayvanlar bulunur. Özellikle, tepenin eteklerinde yer alan ormanlık alanlar, bölgenin ekolojik dengesini korur.
+Aktaşerenleri Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Tepenin yüksekliği, Karabük'ün merkezinden itibaren postupně artar ve manzaraya hakim bir noktaya ulaşır. Bölgenin iklimi, Karadeniz ikliminin özellikleri gösterir; yağışlı ve nemli bir hava hakimdir. Tepenin yakınındaki akarsular, bölgenin su kaynaklarını oluşturur. Aktaşerenleri Tepesi, zengin flora ve fauna çeşitliliğine sahiptir. Bölgede, çeşitli bitki türleri ve hayvanlar bulunur. Özellikle, tepenin eteklerinde yer alan ormanlık alanlar, bölgenin ekolojik dengesini korur.
 
 ## Flora ve Fauna
 

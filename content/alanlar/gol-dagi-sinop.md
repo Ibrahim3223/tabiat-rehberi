@@ -40,7 +40,7 @@ Göl Dağı, Sinop'un coğrafi yapısını şekillendiren bir doğal güzellik. 
 
 ## Coğrafya
 
-İç Anadolu'nun kuzeydoğusunda yer alan Göl Dağı, Sinop'un coğrafi çeşitliliğine önemli bir katkıda bulunur. 41.6214°K, 35.1339°D koordinatlarında bulunan bu dağ, Karadeniz Bölgesi'nin en önemli coğrafi oluşumlarından biridir. Etrafındaki ovaların aksine, Göl Dağı daha engebeli bir yapısı olan bir bölgedir. 
+İç Anadolu'nun kuzeydoğusunda yer alan Göl Dağı, Sinop'un coğrafi çeşitliliğine önemli bir katkıda bulunur. 41.6214°K, 35.1339°D koordinatlarında bulunan bu dağ, Karadeniz Bölgesi'nin en önemli coğrafi oluşumlarından biridir. Etrafındaki ovaların aksine, Göl Dağı daha engebeli bir yapısı olan bir bölgedir.
 
 Doğal bir engel oluşturan Göl Dağı, Sinop'un diğer bölgelerinden ayrılmış bir coğrafi alan olarak karşımıza çıkar. Ancak, fiziksel boyutları hakkında detaylı bilgi bulunmamasına rağmen, Sinop'un genel coğrafi yapısına bakıldığında, Göl Dağı'nın etrafındaki ovaların ve dağların bir bileşeni olarak görülebilir. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır.
 

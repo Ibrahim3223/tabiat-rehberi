@@ -1,7 +1,7 @@
 ---
 title: "Semerkandi Baba Türbesi"
 date: "2026-01-10T06:28:16.134Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391803"
 
 # Semerkandi Baba Türbesi
 
-Semerkandi Baba Türbesi, Denizli'nin Acıpayam ilçesinde yer alan tarihi bir mekan olarak dikkat çekiyor. 140 hektarlık bir alan üzerinde konumlanan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için önemli bir destinasyon haline getiriyor. Semerkandi Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Semerkandi Baba Türbesi, Denizli'nin Acıpayam ilçesinde yer alan tarihi bir mekan olarak dikkat çekiyor. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için önemli bir destinasyon haline getiriyor. Semerkandi Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Semerkandi Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Semerkandi Baba Türbesi, Denizli'nin Acıpayam ilçesinde, Ege Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı bir alan olarak dikkat çekiyor. Bu bölge, coğrafi olarak ılıman bir iklime sahip ve yıl boyunca ziyaret edilebilir. Türbenin konumu, ziyaretçilerin doğal güzellikleri ve tarihi mekanları aynı anda deneyimlemesine olanak tanır. 180 hektarlık bir alanı kaplayan türbe ve çevresi, ziyaretçilere geniş bir açık alan sunuyor. Bu alan, yaklaşık 300 futbol sahası büyüklüğünde ve ziyaretçilere yeterli bir alan sağlıyor.
+Semerkandi Baba Türbesi, Denizli'nin Acıpayam ilçesinde, Ege Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı bir alan olarak dikkat çekiyor. Bu bölge, coğrafi olarak ılıman bir iklime sahip ve yıl boyunca ziyaret edilebilir. Türbenin konumu, ziyaretçilerin doğal güzellikleri ve tarihi mekanları aynı anda deneyimlemesine olanak tanır. 180 hektarlık bir alanı kaplayan türbe ve çevresi, ziyaretçilere geniş bir açık alan sunuyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388835"
 
 # Doluca Tepesi
 
-Doluca Tepesi, Tekirdağ'ın sınırları içerisinde yer alan ve ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaya davet eden bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok doğal güzelliği barındırıyor. Doğa severler için gerçek bir cennet olan bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Doluca Tepesi'ne tırmanırken, manzaranın güzelliği ve doğanın sesleri, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Doluca Tepesi, Tekirdağ'ın sınırları içerisinde yer alan ve ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaya davet eden bir tepe. Doğa severler için gerçek bir cennet olan bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Doluca Tepesi'ne tırmanırken, manzaranın güzelliği ve doğanın sesleri, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

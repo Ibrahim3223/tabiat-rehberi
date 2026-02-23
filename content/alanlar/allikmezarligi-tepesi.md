@@ -28,7 +28,7 @@ wikidata_id: "Q31549403"
 
 # Allıkmezarlığı Tepesi
 
-Allıkmezarlığı Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Allıkmezarlığı Tepesi, ziyaretçilerini tarihi geçmişi ve doğal güzellikleriyle karşılar. Bu tepenin eteklerinde yer alan köyler, bölgeye özgü tarım ürünleri yetiştirir. Allıkmezarlığı Tepesi, bölgenin coğrafi özelliklerini ve tarihi geçmişini keşfetmek isteyenler için ideal bir destinasyon.
+Allıkmezarlığı Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Allıkmezarlığı Tepesi, ziyaretçilerini tarihi geçmişi ve doğal güzellikleriyle karşılar. Bu tepenin eteklerinde yer alan köyler, bölgeye özgü tarım ürünleri yetiştirir. Allıkmezarlığı Tepesi, bölgenin coğrafi özelliklerini ve tarihi geçmişini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Allıkmezarlığı Tepesi, yüzyıllar boyunca çeşitli uygarlıkların hakimiy
 
 ## Coğrafya
 
-Allıkmezarlığı Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Allıkmezarlığı Tepesi, bölgenin coğrafi özelliklerini ve doğal güzelliklerini ortaya koyuyor. Bu tepe, bölgenin iklim koşullarına uygun şekilde flora ve fauna çeşitliliği gösteriyor. Allıkmezarlığı Tepesi, eteklerinde yer alan köyler ile birlikte bir bütün olarak düşünülüyor. Bu tepe, bölgenin coğrafi özelliklerini keşfetmek isteyenler için ideal bir destinasyon. Allıkmezarlığı Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar.
+Allıkmezarlığı Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Allıkmezarlığı Tepesi, bölgenin coğrafi özelliklerini ve doğal güzelliklerini ortaya koyuyor. Bu tepe, bölgenin iklim koşullarına uygun şekilde flora ve fauna çeşitliliği gösteriyor. Allıkmezarlığı Tepesi, eteklerinde yer alan köyler ile birlikte bir bütün olarak düşünülüyor. Bu tepe, bölgenin coğrafi özelliklerini keşfetmek isteyenler için ideal bir destinasyon. Allıkmezarlığı Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Allıkmezarlığı Tepesi, ziyaretçilerini tarihi geçmişi ve doğal güzellik
 
 ## İlginç Bilgiler
 
-- Allıkmezarlığı Tepesi, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu tepe, yüzyıllar boyunca çeşitli uygarlıkların hakimiyetinde kalmış.
 - Allıkmezarlığı Tepesi, bölgenin coğrafi özelliklerini ve flora/fauna çeşitliliği açısından zengin bir alana sahip.
 - Bu tepe, ziyaretçilerini tarihi geçmişine yolculuğa çıkarıyor.

@@ -22,7 +22,7 @@ wikidata_id: "Q108227351"
 
 # Kocapinar Toros Sediri
 
-Kocapinar Toros Sediri, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir milli parktır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş ve yeşil bir ortam sunar. Milli park, çeşitli bitki türleri ve zengin fauna çeşitliliğine ev sahipliği yapar. Kocapinar Toros Sediri, doğa severler ve çevreciler için önemli bir destinasyon olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
+Kocapinar Toros Sediri, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir milli parktır. Milli park, çeşitli bitki türleri ve zengin fauna çeşitliliğine ev sahipliği yapar. Kocapinar Toros Sediri, doğa severler ve çevreciler için önemli bir destinasyon olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
 
 ## Tarihçe
 

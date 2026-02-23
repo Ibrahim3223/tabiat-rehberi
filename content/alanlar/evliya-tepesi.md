@@ -29,11 +29,11 @@ wikidata_id: "Q31387740"
 
 # Evliya Tepesi
 
-Evliya Tepesi, Artvin'in merkezine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede özellikle bahar aylarında doğa canlı renklerle süslenir. Evliya Tepesi, hem doğa severler hem de tarihe ilgi duyan ziyaretçiler için önemli bir destinasyon olarak görülür.
+Evliya Tepesi, Artvin'in merkezine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede özellikle bahar aylarında doğa canlı renklerle süslenir. Evliya Tepesi, hem doğa severler hem de tarihe ilgi duyan ziyaretçiler için önemli bir destinasyon olarak görülür.
 
 ## Tarihçe
 
-Evliya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Tepenin adı, seyyah Evliya Çelebi'den esinlenmiştir ve bu régionun önemli bir kültürel mirasını temsil eder. Tarihi kaynaklara göre, bu bölge yüzyıllar boyunca çeşitli kavimlerin yerleşim yeri olarak kullanılmıştır. Evliya Tepesi, tarihin farklı dönemlerine ait kalıntıları ve buluntuları barındıran önemli bir arkeolojik alan olarak kabul edilir. Ziyaretçiler, bu tepede geçmişin izlerini keşfedebilir ve bölgenin zengin kültürel mirasını öğrenme fırsatı bulabilir.
+Evliya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Tepenin adı, seyyah Evliya Çelebi'den esinlenmiştir ve bu bölgenin önemli bir kültürel mirasını temsil eder. Tarihi kaynaklara göre, bu bölge yüzyıllar boyunca çeşitli kavimlerin yerleşim yeri olarak kullanılmıştır. Evliya Tepesi, tarihin farklı dönemlerine ait kalıntıları ve buluntuları barındıran önemli bir arkeolojik alan olarak kabul edilir. Ziyaretçiler, bu tepede geçmişin izlerini keşfedebilir ve bölgenin zengin kültürel mirasını öğrenme fırsatı bulabilir.
 
 ## Coğrafya
 

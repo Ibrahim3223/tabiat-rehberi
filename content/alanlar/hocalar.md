@@ -23,7 +23,7 @@ wikidata_id: "Q108228617"
 
 # HOCALAR
 
-HOCALAR milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü flora ve fauna çeşitliliğiyle ziyaretçilerini bekliyor. Bu doğal cennet, hem doğa severler hem de yaban hayatını korumak isteyenler için önemli bir destinasyon. Alanın büyüklüğü ve zengin doğası, ziyaretçilere unutulmaz bir deneyim sunuyor.
+HOCALAR milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu doğal cennet, hem doğa severler hem de yaban hayatını korumak isteyenler için önemli bir destinasyon. Alanın büyüklüğü ve zengin doğası, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228855"
 
 # Bendimahi Deltası Sulak Alanı
 
-Bendimahi Deltası Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli sulak alanlarından biri. Bu doğal alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Bendimahi Deltası Sulak Alanı, aynı zamanda birçok kuş türünün yuvalama ve göç noktalarından biri olarak da önemlidir. Bu alanın güzelliği ve önemi, onu ziyaret edenlerin doğayla iç içe bir deneyim yaşamasını sağlıyor.
+Bendimahi Deltası Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu doğal alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Bendimahi Deltası Sulak Alanı, aynı zamanda birçok kuş türünün yuvalama ve göç noktalarından biri olarak da önemlidir. Bu alanın güzelliği ve önemi, onu ziyaret edenlerin doğayla iç içe bir deneyim yaşamasını sağlıyor.
 
 ## Tarihçe
 

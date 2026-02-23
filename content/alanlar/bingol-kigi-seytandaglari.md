@@ -22,7 +22,7 @@ wikidata_id: "Q108227095"
 
 # Bingol-Kigi Seytandaglari
 
-Bingol-Kigi Seytandaglari milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Parkın içinde çeşitli değil, çeşitli bitki türleri ve yaban hayatı bulunmakta. Ziyaretçiler, bu doğal güzellikleri keşfetmek için gelenekselleşmiş rotaları takip edebilirler. Parkın girişinde, ziyaretçilere rehberlik edecek personele ve bilgi panolarına rastlayabilirsiniz. Bu milli park, doğa severlerin ve macera arayanların buluşma noktası olarak görev yapıyor.
+Bingol-Kigi Seytandaglari milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Parkın içinde çeşitli değil, çeşitli bitki türleri ve yaban hayatı bulunmakta. Ziyaretçiler, bu doğal güzellikleri keşfetmek için gelenekselleşmiş rotaları takip edebilirler. Parkın girişinde, ziyaretçilere rehberlik edecek personele ve bilgi panolarına rastlayabilirsiniz. Bu milli park, doğa severlerin ve macera arayanların buluşma noktası olarak görev yapıyor.
 
 ## Tarihçe
 

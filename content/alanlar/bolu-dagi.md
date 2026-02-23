@@ -34,9 +34,9 @@ Bolu'nun yemyeşil dağları arasında yer alan Bolu Dağı, Türkiye'nin öneml
 
 ## Tarihçe
 
-Bolu Dağı, Türkiye'nin kuzeybatısında yer alan bir doğa harikasıdır. Bu bölge, tarihin sâu izlerini taşıyan bir coğrafyadır. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, insanlık tarihinin önemli bir bölümünü kapsar. 
+Bolu Dağı, Türkiye'nin kuzeybatısında yer alan bir doğa harikasıdır. Bu bölge, tarihin derin izlerini taşıyan bir coğrafyadır. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, insanlık tarihinin önemli bir bölümünü kapsar.
 
-Bölge, tarihi İpek Yolu'nun güzergahında yer alır ve bu nedenle ticaret ve kültürel alışverişin önemli bir merkezi olmuştur. Ayrıca, yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgede yaşayan insanların doğa ile ilişkisini şekillendirmiştir. 
+Bölge, tarihi İpek Yolu'nun güzergahında yer alır ve bu nedenle ticaret ve kültürel alışverişin önemli bir merkezi olmuştur. Ayrıca, yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgede yaşayan insanların doğa ile ilişkisini şekillendirmiştir.
 
 Doğal güzelliği ve stratejik konumuyla, Bolu Dağı ve çevresindeki alanlar, insanlık tarihi boyunca önemli bir rolesahip olmuştur. Türkiye'de bulunan diğer doğal alanlar gibi, Bolu Dağı da insan yaşamının bir parçası olarak kabul edilir ve koruma altına alınmıştır. Bu bölge, Türkiye'nin zengin kültürel ve doğal mirasının bir parçasını oluşturur.
 

@@ -34,9 +34,9 @@ Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için Yay Gölü, şehr
 
 ## Tarihçe
 
-Yay Gölü, Türkiye'nin merkezi bölgesinde, Kayseri şehrinin yakınlarında yer alan bir doğal göldür. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşadığı önemli bir coğrafyadır. Hitit, Roma ve Selçuklu gibi medeniyetler, Kayseri ve çevresinde izlerini bırakmışlardır. 
+Yay Gölü, Türkiye'nin merkezi bölgesinde, Kayseri şehrinin yakınlarında yer alan bir doğal göldür. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşadığı önemli bir coğrafyadır. Hitit, Roma ve Selçuklu gibi medeniyetler, Kayseri ve çevresinde izlerini bırakmışlardır.
 
-Bu tür doğal alanlar, Türkiye'nin tarih boyunca önemli ticaret yolları üzerinde bulunması nedeniyle, insanların geçiş noktaları ve yaşam alanları olarak kullanılmıştır. Ayrıca, yaylacılık ve hayvancılık faaliyetleri, bölgenin ekonomi ve kültürel yaşamında önemli bir yer tutmuştur. Yay Gölü de, bu tür faaliyetlerin yapıldığı bir bölge olarak, insanların yaşamında önemli bir rol oynamıştır. 
+Bu tür doğal alanlar, Türkiye'nin tarih boyunca önemli ticaret yolları üzerinde bulunması nedeniyle, insanların geçiş noktaları ve yaşam alanları olarak kullanılmıştır. Ayrıca, yaylacılık ve hayvancılık faaliyetleri, bölgenin ekonomi ve kültürel yaşamında önemli bir yer tutmuştur. Yay Gölü de, bu tür faaliyetlerin yapıldığı bir bölge olarak, insanların yaşamında önemli bir rol oynamıştır.
 
 Bölgenin coğrafi konumu, insanları güzellikleri ve doğal kaynakları ile çekmiştir. Yay Gölü, bu doğal güzelliklerin bir parçası olarak,in yaşamını sürdürdüğü ve doğayı koruma altına aldığı önemli bir alandır. Türkiye'nin zengin tarihi ve kültürel mirasının bir parçası olan bu tür doğal alanlar, günümüzde de önemini korumaktadır.
 

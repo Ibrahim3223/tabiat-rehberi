@@ -56,7 +56,7 @@ Bahçenin bulunduğu bölge, çeşitli su kaynaklarına ve ekosistem bağlantıl
 
 Bu ekosistemde, çeşitli memeliler ve kuşlar yaşamını sürdürür. Göçmen kuşlar, özellikle sonbahar ve ilkbahar aylarında bahçeyi ziyaret ederek, beslenme ve barınma olanaklarından yararlanırlar. Sürüngenler de bu bölgede yaşamakta olup, özellikle sıcak günlerde aktif olarak gözlemlenebilirler.
 
-15 Temmuz Millet Bahçesi, bölgenin ekolojik dengesini korumak açısından önemli bir role sahiptir. Bu alan, şehir içinde bir yeşil cennet olarak, hem bitkilerin hem de hayvanların yaşam alanını oluştururken, aynı zamanda insanlara doğayla iç içe yaşamın keyfini sunuyor.
+ Bu alan, şehir içinde bir yeşil cennet olarak, hem bitkilerin hem de hayvanların yaşam alanını oluştururken, aynı zamanda insanlara doğayla iç içe yaşamın keyfini sunuyor.
 
 ## Ziyaret Bilgileri
 

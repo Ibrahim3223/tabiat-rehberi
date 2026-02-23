@@ -22,7 +22,7 @@ wikidata_id: "Q108228483"
 
 # İzmir-Bayindir-Selcuk Defne
 
-İzmir-Bayındır-Selçuk Defne milli parkı, Ege Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunar. Defne milli parkı, şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Burada doğa yürüyüşleri, piknik alanları ve çeşitli flora ve fauna türleri ile karşılaşabilirsiniz. Parkın bulunduğu région, zengin bir tarihi geçmişe sahiptir ve ziyaretçiler bu bölgede birçok tarihi yapıya rastlayabilir.
+İzmir-Bayındır-Selçuk Defne milli parkı, Ege Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Defne milli parkı, şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Burada doğa yürüyüşleri, piknik alanları ve çeşitli flora ve fauna türleri ile karşılaşabilirsiniz. Parkın bulunduğu bölge, zengin bir tarihi geçmişe sahiptir ve ziyaretçiler bu bölgede birçok tarihi yapıya rastlayabilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108228483"
 
 ## Coğrafya
 
-İzmir-Bayındır-Selçuk Defne milli parkı, Ege Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Park, 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Defne milli parkı, yüksek bir konumda bulunur ve bu yükseklik, ziyaretçilere bölgenin panoramik manzarasını sunar. Parkın coğrafi yapısı, çeşitli flora ve fauna türlerinin yaşamına elverişlidir. Ayrıca, parkın iklimi, ılıman ve yağışlıdır, bu da bitkilerin ve hayvanların yaşaması için ideal koşulları sağlar. Defne milli parkı, coğrafi olarak zengin bir bölgede bulunur ve ziyaretçilere çeşitli doğa güzellikleri sunar.
+İzmir-Bayındır-Selçuk Defne milli parkı, Ege Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Defne milli parkı, yüksek bir konumda bulunur ve bu yükseklik, ziyaretçilere bölgenin panoramik manzarasını sunar. Parkın coğrafi yapısı, çeşitli flora ve fauna türlerinin yaşamına elverişlidir. Ayrıca, parkın iklimi, ılıman ve yağışlıdır, bu da bitkilerin ve hayvanların yaşaması için ideal koşulları sağlar. Defne milli parkı, coğrafi olarak zengin bir bölgede bulunur ve ziyaretçilere çeşitli doğa güzellikleri sunar.
 
 ## Flora ve Fauna
 

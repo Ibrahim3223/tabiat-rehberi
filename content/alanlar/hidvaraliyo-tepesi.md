@@ -29,7 +29,7 @@ wikidata_id: "Q31554708"
 
 # Hıdvaraliyo Tepesi
 
-Hıdvaraliyo Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hıdvaraliyo Tepesi, ziyaretçilerini doğal güzellikleri ve eşsiz manzarasıyla karşılar. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Bu tepe, özellikle doğa severler ve fotoğraf tutkunları için ideal bir destinasyondur. Ziyaretçiler, tepeye tırmanarak bölgenin panorama manzarasını izleme fırsatı bulabilirler.
+Hıdvaraliyo Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır. Hıdvaraliyo Tepesi, ziyaretçilerini doğal güzellikleri ve eşsiz manzarasıyla karşılar. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Bu tepe, özellikle doğa severler ve fotoğraf tutkunları için ideal bir destinasyondur. Ziyaretçiler, tepeye tırmanarak bölgenin panorama manzarasını izleme fırsatı bulabilirler.
 
 ## Tarihçe
 

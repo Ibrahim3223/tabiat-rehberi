@@ -23,7 +23,7 @@ wikidata_id: "Q108228994"
 
 # KIZ TEPESİ TA
 
-Kız Tepesi TA, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Doğal güzelliği ve tarihi geçmişiyle ön plana çıkan bu alan, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor. 140 hektarlık bu yeşil alan, hem yerel halk hem de turistik ziyaretçiler için önemli bir çekim merkezidir.
+Kız Tepesi TA, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Doğal güzelliği ve tarihi geçmişiyle ön plana çıkan bu alan, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor. 140 hektarlık bu yeşil alan, hem yerel halk hem de turistik ziyaretçiler için önemli bir çekim merkezidir.
 
 ## Tarihçe
 

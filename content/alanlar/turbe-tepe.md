@@ -1,7 +1,7 @@
 ---
 title: "Türbe Tepe"
 date: "2026-01-09T06:29:21.697Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Batman"
@@ -51,11 +51,11 @@ Doğal kaynaklar ve ekosistem açısından bakıldığında, Türbe Tepe, Batman
 
 ## Flora ve Fauna
 
-Türkiye'nin güneydoğusundaki "Türbe Tepe" dağlık alan, yarı kurak iklimin hakim olduğu bir bölge. Bu dağ ekosisteminde, yükseklik zonları farklı flora ve fauna çeşitliliğine ev sahipliği yapar. 
+Türkiye'nin güneydoğusundaki "Türbe Tepe" dağlık alan, yarı kurak iklimin hakim olduğu bir bölge. Bu dağ ekosisteminde, yükseklik zonları farklı flora ve fauna çeşitliliğine ev sahipliği yapar.
 
-İlkbaharda, dağ yamaçları renkli çiçeklerle donanır. Step ve ova ekolojisinin bir sonucu olarak, bu bölgede genellikle kuraklığa dayanıklı bitkiler bulunur. Yaz aylarında, yüksek alanlar daha serin ve nemli bir ortam sunar, bu da alpin flora için ideal koşullar sağlar. 
+İlkbaharda, dağ yamaçları renkli çiçeklerle donanır. Step ve ova ekolojisinin bir sonucu olarak, bu bölgede genellikle kuraklığa dayanıklı bitkiler bulunur. Yaz aylarında, yüksek alanlar daha serin ve nemli bir ortam sunar, bu da alpin flora için ideal koşullar sağlar.
 
-Bu dağlık alanda, çeşitli yaban hayvanları yaşamaktadır. Memeliler ve kuşlar, dağların yükse ve alçak kesimlerinde farklı yaşam alanlarına sahiptirler. Sürüngenler de, özellikle sıca ve kayaçlı bölgelerde görülebilir. 
+Bu dağlık alanda, çeşitli yaban hayvanları yaşamaktadır. Memeliler ve kuşlar, dağların yükse ve alçak kesimlerinde farklı yaşam alanlarına sahiptirler. Sürüngenler de, özellikle sıca ve kayaçlı bölgelerde görülebilir.
 
 "Türbe Tepe"nin ekolojik değeri, bu dağ ekosisteminin korunmasının önemini vurgular. Bu alan, birçok canlı için yaşam alanı ve göç yolu olarak işlev görür. Koruma altına alınarak, bu dağ ekosisteminin sürekliliği sağlanabilir ve gelecek nesiller için korunabilir.
 

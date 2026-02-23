@@ -22,7 +22,7 @@ wikidata_id: "Q108227558"
 
 # Denizli-Usak-Catak Saricam
 
-Denizli-Usak-Catak Saricam milli parkı, Ege Bölgesi'nin güzide illerinden Denizli'de yer alıyor. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip. Bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrularak, ziyaretçilerin doğa ile iç içe olması sağlanıyor. Denizli-Usak-Catak Saricam milli parkı, doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer.
+Denizli-Usak-Catak Saricam milli parkı, Ege Bölgesi'nin güzide illerinden Denizli'de yer alıyor. Bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrularak, ziyaretçilerin doğa ile iç içe olması sağlanıyor. Denizli-Usak-Catak Saricam milli parkı, doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Denizli-Usak-Catak Saricam milli parkını ziyaret etmek için, yılın her dön
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Denizli-Usak-Catak Saricam milli parkı, Ege Bölgesi'nin güzide illerinden Denizli'de yer alıyor.
 - Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna encontruluyor.
 - Milli parkın coğrafi yapısı, ziyaretçilerin doğa ile iç içe olmasını sağlıyor.

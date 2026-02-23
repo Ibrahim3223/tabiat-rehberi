@@ -50,7 +50,7 @@ Doğal kaynaklar ve ekosistem bağlantıları açısından, Yasma Dağı, çevre
 
 Yasma Dağı, Çorum'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, 1200 hektarlık yeşil cennet, yüksek biyoçeşitlilik sunar. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Sonbaharda ise, göç eden kuşlar dağların üzerinde uçarken, manzaraya renk katarlar.
 
-Bitki Örtüsü bölümünde, hakim türlerin genellikle iğne yapraklı ağaçlar ve geniş yapraklı ağaçlar olduğunu görürüz. Mevsimsel değişimlerle birlikte, dağların yükseklik zonlarına bağlı olarak alpin flora çeşitlenir. 
+Bitki Örtüsü bölümünde, hakim türlerin genellikle iğne yapraklı ağaçlar ve geniş yapraklı ağaçlar olduğunu görürüz. Mevsimsel değişimlerle birlikte, dağların yükseklik zonlarına bağlı olarak alpin flora çeşitlenir.
 
 Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler dağların ekosistemini oluşturur. Dağ keçileri ve ayılar gibi memeliler, yükseklik zonalarında yaşarken, çeşitli kuş türleri göç ve üreme amaçlarıyla burayı ziyaret eder. Sürüngenler ise, genellikle kaya ve taşlık alanlarda görülür.
 

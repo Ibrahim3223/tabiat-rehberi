@@ -28,7 +28,7 @@ wikidata_id: "Q34829615"
 
 # Çökükdurmaz Tepesi
 
-Kırşehir'in kalbinde yer alan Çökükdurmaz Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Çökükdurmaz Tepesi, hem doğal güzelliği hem de coğrafi konumu ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıktıklarında, şehrin ve çevrenin panoramik manzarasını izleme fırsatı buluyorlar. Çökükdurmaz Tepesi, aynı zamanda flora ve fauna açısından da zengin bir alana sahip.
+Kırşehir'in kalbinde yer alan Çökükdurmaz Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Çökükdurmaz Tepesi, hem doğal güzelliği hem de coğrafi konumu ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıktıklarında, şehrin ve çevrenin panoramik manzarasını izleme fırsatı buluyorlar. Çökükdurmaz Tepesi, aynı zamanda flora ve fauna açısından da zengin bir alana sahip.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31588954"
 
 # Som Tepesi
 
-Som Tepesi, Batman'ın merkezine yakın bir konumda yer alıyor ve şehrin panoramik manzarasına hakim. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle dolu. Bu tepe, hem yerel halk hem de ziyaretçiler için keyifli bir gezi noktası. İnsanlar burada doğayı keşfetmenin yanı sıra, şehrin güzelliğini de keşfedebiliyor. Som Tepesi, özellikle gün batımında ziyaret edildiğinde, muhteşem bir manzara sunuyor.
+Som Tepesi, Batman'ın merkezine yakın bir konumda yer alıyor ve şehrin panoramik manzarasına hakim. Bu tepe, hem yerel halk hem de ziyaretçiler için keyifli bir gezi noktası. İnsanlar burada doğayı keşfetmenin yanı sıra, şehrin güzelliğini de keşfedebiliyor. Som Tepesi, özellikle gün batımında ziyaret edildiğinde, muhteşem bir manzara sunuyor.
 
 ## Tarihçe
 

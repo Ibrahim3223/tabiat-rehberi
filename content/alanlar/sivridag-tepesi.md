@@ -28,7 +28,7 @@ wikidata_id: "Q31387422"
 
 # Sivridağ Tepesi
 
-Sivridağ Tepesi, İzmir'in merkezine yakın bir konumda yer alır ve Ege Bölgesi'nin doğal güzelliklerini sunar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşittir. Sivridağ Tepesi, ziyaretçilerine hem şehrin panoramik manzarasını sunar hem de bölgenin çeşitli bitki türleri ve fauna çeşitliliği hakkında bilgi edinme fırsatı sağlar.
+Sivridağ Tepesi, İzmir'in merkezine yakın bir konumda yer alır ve Ege Bölgesi'nin doğal güzelliklerini sunar. Sivridağ Tepesi, ziyaretçilerine hem şehrin panoramik manzarasını sunar hem de bölgenin çeşitli bitki türleri ve fauna çeşitliliği hakkında bilgi edinme fırsatı sağlar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Kör Hamam"
 date: "2026-01-09T23:28:07.754Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739088"
 
 # Kör Hamam
 
-Kör Hamam, Ege Bölgesi'nin Sandıklı ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir plajdır. 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Kör Hamam'ın tarihi geçmişi, yüzyıllar boyunca insanların ilgi odağı olmuş. Bu bölge, doğa severlerin ve plaj sevenlerin buluşma noktası olarak bilinir. Kör Hamam, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Doğal güzelliği, temiz suyu ve geniş alanı ile Kör Hamam, ziyaretçilerine unutulmaz bir deneyim sunar.
+Kör Hamam, Ege Bölgesi'nin Sandıklı ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir plajdır. 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Kör Hamam'ın tarihi geçmişi, yüzyıllar boyunca insanların ilgi odağı olmuş. Bu bölge, doğa severlerin ve plaj sevenlerin buluşma noktası olarak bilinir. Kör Hamam, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kör Hamam'ın tarihi geçmişi, yüzyıllar boyunca insanların ilgi odağı ol
 
 ## Coğrafya
 
-Kör Hamam, Ege Bölgesi'nin Sandıklı ilçesinde yer alır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve 200 futbol sahası büyüklüğündedir. Kör Hamam'ın coğrafi konumu, ziyaretçilerine geniş bir plaj ve temiz su sunar. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Kör Hamam'ın iklimi, Ege Bölgesi'nin karakteristik iklimi ile benzerlik gösterir. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir iklimi vardır. Kör Hamam, ziyaretçilerine doğanın güzelliği ile baş başa bırakmak için ideal bir yerdir. Bu plaj, geniş alanı, temiz suyu ve doğal güzelliği ile ziyaretçilerine unutulmaz bir deneyim sunar. Kör Hamam'ın coğrafi konumu, ziyaretçilerine çeşitli etkinlikler ve aktiviteler için ideal bir ortam sağlar.
+Kör Hamam, Ege Bölgesi'nin Sandıklı ilçesinde yer alır. Kör Hamam'ın coğrafi konumu, ziyaretçilerine geniş bir plaj ve temiz su sunar. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Kör Hamam'ın iklimi, Ege Bölgesi'nin karakteristik iklimi ile benzerlik gösterir. Yaz aylarında sıcak ve kuru, kış aylarında ise ılık ve yağışlı bir iklimi vardır. Kör Hamam, ziyaretçilerine doğanın güzelliği ile baş başa bırakmak için ideal bir yerdir. Kör Hamam'ın coğrafi konumu, ziyaretçilerine çeşitli etkinlikler ve aktiviteler için ideal bir ortam sağlar.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728385"
 
 # Bayındır Tümülüsleri
 
-Bayındır Tümülüsleri, Antalya'nın Elmalı ilçesinde yer alan ve tarihi oraz doğal güzellikleri ile dikkat çekici bir destinasyon. Bu bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Bayındır Tümülüsleri, Akdeniz Bölgesi'nin önemli kültür varlıklarından biri olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından keşfediliyor. Bu alanın zengin tarihi geçmişi, ziyaretçilere benzersiz bir deneyim sunuyor.
+Bayındır Tümülüsleri, Antalya'nın Elmalı ilçesinde yer alan ve tarihi oraz doğal güzellikleri ile dikkat çekici bir destinasyon. Bayındır Tümülüsleri, Akdeniz Bölgesi'nin önemli kültür varlıklarından biri olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından keşfediliyor. Bu alanın zengin tarihi geçmişi, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bayındır Tümülüsleri, yüzyıllar boyunca çeşitli uygarlıkların yerleş
 
 ## Coğrafya
 
-Bayındır Tümülüsleri, Antalya'nın Elmalı ilçesinde yer alıyor ve coğrafi olarak önemli bir konuma sahip. Bu bölge, Akdeniz Bölgesi'nin doğal güzellikleri ile çevrili ve ziyaretçilere benzersiz bir manzara sunuyor. Bayındır Tümülüsleri'nin coğrafyası, çeşitli bitki türleri ve hayvanlarla zengin bir ekosistemi desteklıyor. Bölgenin iklimi, Akdeniz iklimi özellikleri taşıyor ve ziyaretçilere yıl boyunca güzel bir hava sunuyor. Bayındır Tümülüsleri, coğrafi konumu itibariyle önemli bir kültür ve doğa merkezi olarak kabul ediliyor. Bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor.
+Bayındır Tümülüsleri, Antalya'nın Elmalı ilçesinde yer alıyor ve coğrafi olarak önemli bir konuma sahip. Bu bölge, Akdeniz Bölgesi'nin doğal güzellikleri ile çevrili ve ziyaretçilere benzersiz bir manzara sunuyor. Bayındır Tümülüsleri'nin coğrafyası, çeşitli bitki türleri ve hayvanlarla zengin bir ekosistemi desteklıyor. Bölgenin iklimi, Akdeniz iklimi özellikleri taşıyor ve ziyaretçilere yıl boyunca güzel bir hava sunuyor. Bayındır Tümülüsleri, coğrafi konumu itibariyle önemli bir kültür ve doğa merkezi olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

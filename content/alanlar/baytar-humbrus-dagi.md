@@ -28,7 +28,7 @@ wikidata_id: "Q31386535"
 
 # Baytar Humbruş Dağı
 
-Hatay ilinin güzide bir noktası olan Baytar Humbruş Dağı, 140 hektarlık geniş bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini etkileyen bir doğa harikasıdır. Bu dağ, Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olarak bilinir ve yöre halkı için önemli bir turizm merkezi konumundadır. Baytar Humbruş Dağı, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini büyülemektedir.
+ Bu dağ, Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olarak bilinir ve yöre halkı için önemli bir turizm merkezi konumundadır. Baytar Humbruş Dağı, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Baytar Humbruş Dağı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli mede
 
 ## Coğrafya
 
-Baytar Humbruş Dağı, Hatay ilinin sınırları içerisinde yer alan bir coğrafi oluşumdur. Akdeniz Bölgesi'nin önemli dağlarından biri olan Baytar Humbruş Dağı, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Dağın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu dağ, çevredeki doğa ile iç içe geçerek ziyaretçilere eşsiz bir manzara sunar. Baytar Humbruş Dağı'nın iklimi, Akdeniz ikliminin özellikleri taşır ve genellikle ılıman bir hava görülür. Dağın yüksekliği ve coğrafi konumu, burada çeşitli mevsimsel değişimlere neden olur.
+Baytar Humbruş Dağı, Hatay ilinin sınırları içerisinde yer alan bir coğrafi oluşumdur. Bu dağ, çevredeki doğa ile iç içe geçerek ziyaretçilere eşsiz bir manzara sunar. Baytar Humbruş Dağı'nın iklimi, Akdeniz ikliminin özellikleri taşır ve genellikle ılıman bir hava görülür. Dağın yüksekliği ve coğrafi konumu, burada çeşitli mevsimsel değişimlere neden olur.
 
 ## Flora ve Fauna
 

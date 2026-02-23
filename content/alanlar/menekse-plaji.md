@@ -30,7 +30,7 @@ wikidata_id: "Q107357274"
 
 # Menekşe Plajı
 
-Menekşe Plajı, Marmara Bölgesi'nin en güzel noktalarından biri olan Küçükçekmece'de yer alır. Bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine geniş bir alan sunar. İstanbul'un merkezine yakın konumuyla da dikkat çeker. Menekşe Plajı, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet eder. Burada, denizlerin güzelliğini ve doğanın serinliğini bir arada deneyimleme mümkün.
+Menekşe Plajı, Marmara Bölgesi'nin en güzel noktalarından biri olan Küçükçekmece'de yer alır. İstanbul'un merkezine yakın konumuyla da dikkat çeker. Menekşe Plajı, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet eder. Burada, denizlerin güzelliğini ve doğanın serinliğini bir arada deneyimleme mümkün.
 
 ## Tarihçe
 

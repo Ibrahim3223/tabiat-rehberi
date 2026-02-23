@@ -29,7 +29,7 @@ wikidata_id: "Q135582819"
 
 # Kul Yusuf Kümbeti
 
-Kul Yusuf Kümbeti, Iğdır'ın Sürmeli uyezdi'nde yer alan tarihi bir kümbettir. Bu tarihi yapı, İğdır'ın zengin kültürel mirasının önemli bir parçasını oluşturur. Kümbet, yaklaşık 140 hektarlık bir alan üzerinde bulunmaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olan geniş bir yeşil alanı temsil etmektedir. Bu geniş alan, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini sunmaktadır. Kul Yusuf Kümbeti, İğdır'ın tarihini ve kültürünü keşfetmek isteyenler için önemli bir destinasyondur.
+Kul Yusuf Kümbeti, Iğdır'ın Sürmeli uyezdi'nde yer alan tarihi bir kümbettir. Bu tarihi yapı, İğdır'ın zengin kültürel mirasının önemli bir parçasını oluşturur. Kümbet, yaklaşık 140 hektarlık bir alan üzerinde bulunmaktadır. Bu geniş alan, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini sunmaktadır. Kul Yusuf Kümbeti, İğdır'ın tarihini ve kültürünü keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

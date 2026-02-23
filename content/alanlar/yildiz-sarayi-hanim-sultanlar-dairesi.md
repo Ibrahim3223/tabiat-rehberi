@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Hanım Sultanlar Dairesi"
 date: "2026-01-10T04:38:26.194Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

@@ -28,7 +28,7 @@ wikidata_id: "Q31387463"
 
 # Girgevri Tepesi
 
-Girgevri Tepesi, Van'ın muhteşem manzarasına ev sahipliği yapan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada ziyaretçiler doğanın güzelliğini keşfetme fırsatı bulur. Girgevri Tepesi, Van'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler burada hem doğanın güzelliğini hem de Van'ın eşsiz kültürünü deneyimleyebilir.
+Girgevri Tepesi, Van'ın muhteşem manzarasına ev sahipliği yapan bir doğa harikasıdır. Girgevri Tepesi, Van'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler burada hem doğanın güzelliğini hem de Van'ın eşsiz kültürünü deneyimleyebilir.
 
 ## Tarihçe
 

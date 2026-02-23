@@ -29,7 +29,7 @@ wikidata_id: "Q31562551"
 
 # Mercan Tepesi
 
-Mercan Tepesi, Ordu'nun eşsiz doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet eder. Mercan Tepesi, coğrafi konumu itibariyle Karadeniz'in yeşilin mavisi ile buluştuğu bir nokta olarak dikkat çeker. Burada, doğanın güzelliği ve zenginliği, ziyaretçilere unutulmaz bir deneyim sunar.
+Mercan Tepesi, Ordu'nun eşsiz doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alır. Mercan Tepesi, coğrafi konumu itibariyle Karadeniz'in yeşilin mavisi ile buluştuğu bir nokta olarak dikkat çeker. Burada, doğanın güzelliği ve zenginliği, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Mercan Tepesi'nin tarihi geçmişi, Karadeniz Bölgesi'nin zengin kültürel mir
 
 ## Coğrafya
 
-Mercan Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını oluşturan dağlar, vadiler ve nehirler arasında yer alır. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın farklı yüzleri ile buluşturur. Mercan Tepesi'nin coğrafi konumu, Karadeniz'in yeşilin mavisi ile buluştuğu bir nokta olarak dikkat çeker. Burada, dağların yeşilliği, vadilerin serinliği ve nehirlerin sesi, ziyaretçilere doğanın farklı yönlerini deneyimleme fırsatı sunar. Ayrıca, bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Mercan Tepesi, coğrafi olarak zengin bir yapıya sahip olması ve doğanın farklı yüzlerini sunmasıyla ziyaretçilerini cezbeder.
+Mercan Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını oluşturan dağlar, vadiler ve nehirler arasında yer alır. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir. Mercan Tepesi'nin coğrafi konumu, Karadeniz'in yeşilin mavisi ile buluştuğu bir nokta olarak dikkat çeker. Burada, dağların yeşilliği, vadilerin serinliği ve nehirlerin sesi, ziyaretçilere doğanın farklı yönlerini deneyimleme fırsatı sunar. Mercan Tepesi, coğrafi olarak zengin bir yapıya sahip olması ve doğanın farklı yüzlerini sunmasıyla ziyaretçilerini cezbeder.
 
 ## Flora ve Fauna
 
-Mercan Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir ve ziyaretçilerine farklı mevsimlerde farklı deneyimler sunar. İlkbaharda, Mercan Tepesi, rengarenk çiçeklerle örtülü bir hal alır ve baharın güzelliğini ziyaretçilerine gösterir. Yaz aylarında, yeşilin farklı tonları ile ziyaretçilerini karşılar ve serin bir atmosfer sunar. Sonbaharda, yaprakların renk değiştirmesi ile bir renk cümbüşü yaratır ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Kış aylarında, karla örtülü bir hal alan Mercan Tepesi, ziyaretçilerine kışın huzurunu ve güzelliğini gösterir. Bu mevsimsel değişimler, Mercan Tepesi'ni her mevsim ziyaretçilerini bekleyen bir doğa harikası haline getirir.
+ Bu bölge, coğrafi olarak çeşitlilik gösteren bir yapıya sahiptir ve ziyaretçilerine farklı mevsimlerde farklı deneyimler sunar. İlkbaharda, Mercan Tepesi, rengarenk çiçeklerle örtülü bir hal alır ve baharın güzelliğini ziyaretçilerine gösterir. Yaz aylarında, yeşilin farklı tonları ile ziyaretçilerini karşılar ve serin bir atmosfer sunar. Sonbaharda, yaprakların renk değiştirmesi ile bir renk cümbüşü yaratır ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Kış aylarında, karla örtülü bir hal alan Mercan Tepesi, ziyaretçilerine kışın huzurunu ve güzelliğini gösterir. Bu mevsimsel değişimler, Mercan Tepesi'ni her mevsim ziyaretçilerini bekleyen bir doğa harikası haline getirir.
 
 ## Ziyaret Bilgileri
 

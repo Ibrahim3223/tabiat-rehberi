@@ -30,7 +30,7 @@ wikidata_id: "Q6428726"
 
 # Konak Meydanı
 
-Konak Meydanı, İzmir'in kalbinde yer alan ve 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanda konumlanan bir meydandır. Bu güzel meydanda, yaklaşık 1000 ağacın arasında, yaban hayatını gözlemleme mümkün. Ayrıca, meydanda yer alan çeşitli çiçek türleri, ziyaretçilere renkli bir atmosfer sunar. Konak Meydanı, hem İzmir halkının hem de şehri ziyaret edenlerin keyifli zaman geçirebileceği bir destinasyondur. İzmir'in tarihi ve kültürel zenginliğini yansıtan bu meydanda, ziyaretçiler hem doğayı hem de kültürü deneyimleyebilirler.
+ Bu güzel meydanda, yaklaşık 1000 ağacın arasında, yaban hayatını gözlemleme mümkün. Ayrıca, meydanda yer alan çeşitli çiçek türleri, ziyaretçilere renkli bir atmosfer sunar. Konak Meydanı, hem İzmir halkının hem de şehri ziyaret edenlerin keyifli zaman geçirebileceği bir destinasyondur. İzmir'in tarihi ve kültürel zenginliğini yansıtan bu meydanda, ziyaretçiler hem doğayı hem de kültürü deneyimleyebilirler.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227608"
 
 # Adana-Pozanti Sedir
 
-Adana-Pozanti Sedir milli parkı, Akdeniz Bölgesi'nin güzide mekanlarından biri olarak dikkati çekiyor. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, misafirlerini bekliyor. Bu milli park, hem doğa severler hem de tarihi mekanları keşfetmek isteyenler için ideal bir destinasyon olarak görünüyor. Ziyaretçiler, bu milli parkın sunduğu geniş yeşil alanlarda doğayla baş başa kalabilir, Burada yer alan yürüyüş yollarında keyifli bir yürüyüş yapabilirler.
+Adana-Pozanti Sedir milli parkı, Akdeniz Bölgesi'nin güzide mekanlarından biri olarak dikkati çekiyor. Burada, çeşitli bitki türleri ve zengin fauna, misafirlerini bekliyor. Bu milli park, hem doğa severler hem de tarihi mekanları keşfetmek isteyenler için ideal bir destinasyon olarak görünüyor. Ziyaretçiler, bu milli parkın sunduğu geniş yeşil alanlarda doğayla baş başa kalabilir, Burada yer alan yürüyüş yollarında keyifli bir yürüyüş yapabilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Adana-Pozanti Sedir milli parkının tarihi geçmişi, yüzyıllar boyunca şeki
 
 ## Coğrafya
 
-Adana-Pozanti Sedir milli parkı, Akdeniz Bölgesi'nde yer alıyor. Bu milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş bir doğal alanla karşılıyor. Milli parkın coğrafi konumu, ziyaretçilere çeşitli etkinlikler yapma fırsatı sunuyor. Burada, doğa yürüyüşleri, piknik alanları ve diğer outdoor etkinlikler yapabilirler. Milli parkın iklimi, Akdeniz ikliminin özelliklerini taşıyor ve ziyaretçilere dört mevsim boyunca güzel günler vaat ediyor. Çevre, ziyaretçilere geniş bir yeşil alan sunuyor ve Burada, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyorlar.
+Adana-Pozanti Sedir milli parkı, Akdeniz Bölgesi'nde yer alıyor. Milli parkın coğrafi konumu, ziyaretçilere çeşitli etkinlikler yapma fırsatı sunuyor. Burada, doğa yürüyüşleri, piknik alanları ve diğer outdoor etkinlikler yapabilirler. Milli parkın iklimi, Akdeniz ikliminin özelliklerini taşıyor ve ziyaretçilere dört mevsim boyunca güzel günler vaat ediyor. Çevre, ziyaretçilere geniş bir yeşil alan sunuyor ve Burada, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyorlar.
 
 ## Flora ve Fauna
 

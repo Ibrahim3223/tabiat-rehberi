@@ -32,9 +32,9 @@ Artvin'in dağlık arazisinde, doğanın gerçek bir hazine sandığı gibi sakl
 
 ## Tarihçe
 
-Artvin'in dağlık bölgesinde yer alan Deleklitaş Dağı, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların etkisinde kalmış ve kültürel bir mozaik haline gelmiştir. Artvin, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişi açısından önemli bir rol oynamıştır.
+Artvin'in dağlık bölgesinde yer alan Deleklitaş Dağı, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların etkisinde kalmış ve kültürel bir mozaik haline gelmiştir. Artvin, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişi açısından önemli bir rol oynamıştır.
 
-Doğal güzellikleri ve stratejik konumuyla, Deleklitaş Dağı gibi alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve yaylacılık yaptıkları yerler olarak önem taşımışlardır. Türkiye'de, özellikle Karadeniz Bölgesi'nde, bu tür doğal alanlar, insanların geleneksel yaşam biçimleri ve ekonomileri için hayati öneme sahip olmuştur. Deleklitaş Dağı, bölgenin zengin tarihi ve kültürel mirasının bir parçası olarak, ziyaretçilerini tarihin sâu izlerine davet ediyor.
+Doğal güzellikleri ve stratejik konumuyla, Deleklitaş Dağı gibi alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve yaylacılık yaptıkları yerler olarak önem taşımışlardır. Türkiye'de, özellikle Karadeniz Bölgesi'nde, bu tür doğal alanlar, insanların geleneksel yaşam biçimleri ve ekonomileri için hayati öneme sahip olmuştur. Deleklitaş Dağı, bölgenin zengin tarihi ve kültürel mirasının bir parçası olarak, ziyaretçilerini tarihin derin izlerine davet ediyor.
 
 ## Coğrafya
 

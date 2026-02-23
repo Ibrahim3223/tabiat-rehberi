@@ -28,7 +28,7 @@ wikidata_id: "Q31387563"
 
 # Bastepe Tepe
 
-Bastepe Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bastepe Tepe, doğa severlerin ve trekkingdoing sevenlerin keyif alacağı bir yer. Tepe, eteklerinde yer alan köylerle birlikte bir bütün olarak görülüyor. Bastepe Tepe, Çanakkale'nin tarihini ve kültürünü yansıtan önemli bir nokta.
+Bastepe Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bastepe Tepe, doğa severlerin ve trekkingdoing sevenlerin keyif alacağı bir yer. Tepe, eteklerinde yer alan köylerle birlikte bir bütün olarak görülüyor. Bastepe Tepe, Çanakkale'nin tarihini ve kültürünü yansıtan önemli bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bastepe Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, t
 
 ## Coğrafya
 
-Bastepe Tepe, Marmara Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, Çanakkale'nin coğrafi yapısını yansıtan önemli bir nokta. Bastepe Tepe, eteklerinde yer alan köylerle birlikte bir bütün olarak görülüyor. Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bastepe Tepe, doğa severlerin ve trekkingdoing sevenlerin keyif alacağı bir yer. Tepe, Çanakkale'nin coğrafi yapısını yansıtan önemli bir alan. Bastepe Tepe, çevresindeki köylerle birlikte bir bütün olarak görülüyor. Çevresinde yer alan ormanlar, Bastepe Tepe'nin doğal güzelliklerini artırıyor.
+Bastepe Tepe, Marmara Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, Çanakkale'nin coğrafi yapısını yansıtan önemli bir nokta. Bastepe Tepe, eteklerinde yer alan köylerle birlikte bir bütün olarak görülüyor. Bastepe Tepe, doğa severlerin ve trekkingdoing sevenlerin keyif alacağı bir yer. Tepe, Çanakkale'nin coğrafi yapısını yansıtan önemli bir alan. Bastepe Tepe, çevresindeki köylerle birlikte bir bütün olarak görülüyor. Çevresinde yer alan ormanlar, Bastepe Tepe'nin doğal güzelliklerini artırıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Bastepe Tepe, doğa severlerin ve trekkingdoing sevenlerin keyif alacağı bir y
 ## İlginç Bilgiler
 
 - Bastepe Tepe, Çanakkale'nin tarihini ve kültürünü yansıtan önemli bir nokta.
-- Bastepe Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Bastepe Tepe, çeşitli bitki türlerine ev sahipliği yapıyor.
 - Bastepe Tepe, zengin fauna yapısıyla dikkat çekiyor.
 - Bastepe Tepe, mevsimsel değişimlere göre farklı bir güzellik sunuyor.

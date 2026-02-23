@@ -50,8 +50,8 @@ Doğal kaynaklar açısından zengin olan bu bölge, su kaynakları ve ekosistem
 
 ## Flora ve Fauna
 
-Davarca Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapıyor. 1200 hektarlık bu dağ, kuraklığa dayanıklı türlerin yaşadığı bir ekosistem sunuyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. 
-Yaban hayatı, dağ keçileri, tilkiler ve çeşitli kuş türleriyle zengin. Göç mevsiminde, dağ yollarına konan kuş sürüleri ekosistemi canlandırıyor. 
+Davarca Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapıyor. 1200 hektarlık bu dağ, kuraklığa dayanıklı türlerin yaşadığı bir ekosistem sunuyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor.
+Yaban hayatı, dağ keçileri, tilkiler ve çeşitli kuş türleriyle zengin. Göç mevsiminde, dağ yollarına konan kuş sürüleri ekosistemi canlandırıyor.
 Davarca Dağı, yükseklik zonları ve alpin flora çeşitliliği ile önemli bir ekolojik değer taşıyor. Bu dağ ekosisteminin korunması, bölgedeki canlıların yaşam alanlarını güvence altına almak anlamına geliyor.
 
 ## Ziyaret Bilgileri

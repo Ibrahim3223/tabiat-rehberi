@@ -28,7 +28,7 @@ wikidata_id: "Q34828693"
 
 # Çavdarlı Tepe
 
-Bayburt ilinin güzellikleri arasında yer alan Çavdarlı Tepe, Karadeniz Bölgesi'nin önemli coğrafi noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Çavdarlı Tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın güzelliğini sunan bir mekan olarak dikkat çeker. Doğa severler için ideal bir gezi noktası olan Çavdarlı Tepe, Karadeniz Bölgesi'nin zengin flora ve faunasını keşfetmek isteyenler için önemli bir destinasyondur.
+Bayburt ilinin güzellikleri arasında yer alan Çavdarlı Tepe, Karadeniz Bölgesi'nin önemli coğrafi noktalarından biridir. Çavdarlı Tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın güzelliğini sunan bir mekan olarak dikkat çeker. Doğa severler için ideal bir gezi noktası olan Çavdarlı Tepe, Karadeniz Bölgesi'nin zengin flora ve faunasını keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Bayburt ilinin güzellikleri arasında yer alan Çavdarlı Tepe, Karadeniz Bölg
 
 ## Flora ve Fauna
 
-Çavdarlı Tepe, zengin bir flora ve fauna ile ziyaretçilerini karşılar. Bu tepe, çeşitli bitki türleri ve ağaçlarla kaplıdır. Çavdarlı Tepe'nin flora ve faunası, Karadeniz Bölgesi'nin karakteristik özellikleri ile uyumlu olarak şekillenmiştir. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı türlerde canlılar bulunur. Çavdarlı Tepe, doğa severler için bir cennet olarak kabul edilebilir. Bu tepe, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar. Çavdarlı Tepe'nin flora ve faunası, Karadeniz Bölgesi'nin ekolojik dengesini korumak açısından önemli bir rol oynar.
+Çavdarlı Tepe, zengin bir flora ve fauna ile ziyaretçilerini karşılar. Bu tepe, çeşitli bitki türleri ve ağaçlarla kaplıdır. Çavdarlı Tepe'nin flora ve faunası, Karadeniz Bölgesi'nin karakteristik özellikleri ile uyumlu olarak şekillenmiştir. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı türlerde canlılar bulunur. Çavdarlı Tepe, doğa severler için bir cennet olarak kabul edilebilir. Bu tepe, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar.
 
 ## Ziyaret Bilgileri
 

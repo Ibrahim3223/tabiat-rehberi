@@ -29,7 +29,7 @@ wikidata_id: "Q6040231"
 
 # Orhaniye Kışlası
 
-Orhaniye Kışlası, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanda yer alan tarihi bir plajdır. Bu alan, İstanbul'un en önemli doğal ve tarihi mekanlarından biridir. Orhaniye Kışlası, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor. İstanbul'un kalabalık şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Orhaniye Kışlası, aynı zamanda tarihi değerleri ile de dikkat çekiyor.
+ Bu alan, İstanbul'un en önemli doğal ve tarihi mekanlarından biridir. Orhaniye Kışlası, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor. İstanbul'un kalabalık şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası olan Orhaniye Kışlası, aynı zamanda tarihi değerleri ile de dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Orhaniye Kışlası, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği y
 
 ## Coğrafya
 
-Orhaniye Kışlası, İstanbul'un Beşiktaş ilçesinde, Yıldız semtinde yer alıyor. Bu bölge, Boğaziçi'nin en güzel noktalarından biri olarak kabul ediliyor. Orhaniye Kışlası, 140 hektarlık yeşil alanının yanı sıra, deniz kıyısında yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Orhaniye Kışlası'nın coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve doğal güzelliklerini bir arada deneyimleme fırsatı sunuyor. Bu bölgenin iklimi, genel olarak İstanbul'un iklimine benzer ve dört mevsim ziyaret edilebilir. Orhaniye Kışlası'nın etrafı, çeşitli bitki türleri ve ağaçlarla kaplı, bu da ziyaretçilere doğanın güzelliğini sunuyor.
+Orhaniye Kışlası, İstanbul'un Beşiktaş ilçesinde, Yıldız semtinde yer alıyor. Bu bölge, Boğaziçi'nin en güzel noktalarından biri olarak kabul ediliyor. Orhaniye Kışlası, 140 hektarlık yeşil alanının yanı sıra, deniz kıyısında yer alıyor. Orhaniye Kışlası'nın coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve doğal güzelliklerini bir arada deneyimleme fırsatı sunuyor. Bu bölgenin iklimi, genel olarak İstanbul'un iklimine benzer ve dört mevsim ziyaret edilebilir. Orhaniye Kışlası'nın etrafı, çeşitli bitki türleri ve ağaçlarla kaplı, bu da ziyaretçilere doğanın güzelliğini sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Orhaniye Kışlası, yıl boyunca ziyaret edilebilir. Bu bölgenin güzelliği, 
 ## İlginç Bilgiler
 
 - Orhaniye Kışlası, 140 hektarlık bir yeşil alana sahiptir.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Orhaniye Kışlası, İstanbul'un en önemli tarihi ve doğal mekanlarından biridir.
 - Bu bölgenin flora ve fauna yapısı, mevsimsel değişimlere göre değişiyor.
 - Orhaniye Kışlası, yıl boyunca ziyaret edilebilir.

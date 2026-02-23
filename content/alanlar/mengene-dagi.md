@@ -48,7 +48,7 @@ Doğal bir koridor olarak işlev gören Mengene Dağı, çevresindeki su kaynakl
 
 ## Flora ve Fauna
 
-Mengene Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Mengene Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki Örtüsü: Mengene Dağı'nın bitki örtüsü, yükseklik zonlarına göre değişir. Alpin çayırlar, ilkbahar ve yaz aylarında renkli çiçeklerle dolu olurken, sonbaharda sarı ve kırmızı tonlara bürünür. Dağın yüksek kesimlerinde, soğuğa dayanıklı bitkiler hüküm sürer.
 
 Yaban Hayatı: Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri ve yaban keçileri, dağların dik yamaçlarında yaşarken, kartallar ve şahinler gökyüzünde hüküm sürer. Sürüngenler, kayalık alanlarda ve çayırlarda yaşar.

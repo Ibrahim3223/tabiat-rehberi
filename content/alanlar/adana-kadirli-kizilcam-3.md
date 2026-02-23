@@ -22,7 +22,7 @@ wikidata_id: "Q108227829"
 
 # Adana-Kadirli Kızılçam 3
 
-Adana-Kadirli Kızılçam 3, Akdeniz Bölgesi'nin güzide şehirlerinden biri olan Adana'da yer alan bir milli parktır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliklerle dolu bir dünyaya davet ediyor. Adana'nın zengin tarihi ve kültürünü yansıtan bu park, aynı zamanda bölgenin önemli bir turizm merkezidir. Burada, ziyaretçiler hem doğayı keşfedebilir hem de históri ve kültürel öğeleri yakından inceleyebilir. Parkın içerisinde çeşitli yürüyüş yolları, piknik alanları ve doğa gözlem noktaları bulunmaktadır.
+Adana-Kadirli Kızılçam 3, Akdeniz Bölgesi'nin güzide şehirlerinden biri olan Adana'da yer alan bir milli parktır. Adana'nın zengin tarihi ve kültürünü yansıtan bu park, aynı zamanda bölgenin önemli bir turizm merkezidir. Burada, ziyaretçiler hem doğayı keşfedebilir hem de tarihi ve kültürel öğeleri yakından inceleyebilir. Parkın içerisinde çeşitli yürüyüş yolları, piknik alanları ve doğa gözlem noktaları bulunmaktadır.
 
 ## Tarihçe
 

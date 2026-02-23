@@ -32,8 +32,8 @@ Konya'nın doğal güzelliklerinin arasında yer alan Çoka Dağı, bu bölgenin
 
 ## Tarihçe
 
-Konya bölgesi, tarihin en eski uygarlıklarına ev sahipliği yapmış bir coğrafyadır. Çoka Dağı da bu tarihi zenginliklerin içinde yer alan önemli bir doğal alandır. Hitit, Roma ve Selçuklu gibi medeniyetlerin izlerini taşıyan bu bölge, insanlık tarihinin önemli bir parçası olarak kabul edilir. 
-Türkiye'de doğal alanlar, tarihin her döneminde önemli bir role sahip olmuştur. Bu alanlar, yalnızca insan yaşamı için gerekli olan su, gıda ve barınma gibi temel ihtiyaçların karşılanması açısından değil, aynı zamanda kültürel ve ekonomik faaliyetlerin yürütülmesi için de önemli birer merkezdir. 
+Konya bölgesi, tarihin en eski uygarlıklarına ev sahipliği yapmış bir coğrafyadır. Çoka Dağı da bu tarihi zenginliklerin içinde yer alan önemli bir doğal alandır. Hitit, Roma ve Selçuklu gibi medeniyetlerin izlerini taşıyan bu bölge, insanlık tarihinin önemli bir parçası olarak kabul edilir.
+Türkiye'de doğal alanlar, tarihin her döneminde önemli bir role sahip olmuştur. Bu alanlar, yalnızca insan yaşamı için gerekli olan su, gıda ve barınma gibi temel ihtiyaçların karşılanması açısından değil, aynı zamanda kültürel ve ekonomik faaliyetlerin yürütülmesi için de önemli birer merkezdir.
 Konya bölgesinde, insanların doğal alanlarla olan ilişkisi oldukça eskiye dayanır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgede yaşayan insanların geçimini sağlayan önemli faaliyetlerdir. Çoka Dağı, bu faaliyetlerin yürütülmesi için uygun bir coğrafyaya sahiptir. Bölgenin coğrafi özellikleri, insanların bu doğal alanlarla olan bağını güçlendirmiştir.
 
 ## Coğrafya
@@ -44,7 +44,7 @@ Doğal güzellikleri ve coğrafi konumu ile dikkat çeken Çoka Dağı, yaklaş�
 
 Mevsimsel özellikler bakımından, Çoka Dağı ve çevresindeki bölge, karasal iklimin característicasini taşımaktadır. Yaz aylarında sıcak ve kuru, kış aylarında soğuk ve yağışlı bir hava durumu hakimdir. Bu bölgede, yıllık ortalama yağış miktarı 400-500 mm arasında değişmektedir. Bu, İstanbul'un yıllık yağış miktarının yaklaşık %60'ı kadar bir değere karşılık gelmektedir.
 
-Çevresel açıdan, Çoka Dağı, Konya Ovası'nın bir parçası olarak, bölgenin su kaynakları ve ekosistem bağlantılarına önemli bir katkı sağlamaktadır. Dağın etrafındaki düzlükler, genellikle tarımsal faaliyetler için kullanılmaktadır. Bu nedenle, Çoka Dağı, bölgenin ekolojik dengesini korumak açısından kritik bir role sahiptir. Ayrıca, dağ, komşu alanlar ile birlikte, bir bütün olarak düşünülmesi gereken bir coğrafi sistem içinde yer almaktadır.
+Çevresel açıdan, Çoka Dağı, Konya Ovası'nın bir parçası olarak, bölgenin su kaynakları ve ekosistem bağlantılarına önemli bir katkı sağlamaktadır. Dağın etrafındaki düzlükler, genellikle tarımsal faaliyetler için kullanılmaktadır. Ayrıca, dağ, komşu alanlar ile birlikte, bir bütün olarak düşünülmesi gereken bir coğrafi sistem içinde yer almaktadır.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31557808"
 
 # Ergene Tepesi
 
-Ergene Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alana yayılan bir tepe. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Ergene Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, hem doğa severler hem de tarihi geçmişe meraklı olanlar için ideal bir gezi noktası.
+Ergene Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alana yayılan bir tepe. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Ergene Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, hem doğa severler hem de tarihi geçmişe meraklı olanlar için ideal bir gezi noktası.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Çakır Hamamı"
 date: "2026-01-09T22:22:59.568Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738461"
 
 # Çakır Hamamı
 
-Çakır Hamamı, Osmangazi ilçesinde, Bursa'nın merkezine yakın bir konumda yer alır. Bu güzel plaj, Marmara Bölgesi'nin en önemli turizm noktalarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir sahil şeridine sahiptir. Çakır Hamamı, hem yerli hem de yabancı turistlerin ilgisini çeken bir destinasyondur. Burada, denizin serin sularında yüzme, güneşlenme, su sporları ve diğer ativitelerle keyifli anlar geçirebilirsiniz.
+Çakır Hamamı, Osmangazi ilçesinde, Bursa'nın merkezine yakın bir konumda yer alır. Bu güzel plaj, Marmara Bölgesi'nin en önemli turizm noktalarından biridir. Çakır Hamamı, hem yerli hem de yabancı turistlerin ilgisini çeken bir destinasyondur. Burada, denizin serin sularında yüzme, güneşlenme, su sporları ve diğer ativitelerle keyifli anlar geçirebilirsiniz.
 
 ## Tarihçe
 

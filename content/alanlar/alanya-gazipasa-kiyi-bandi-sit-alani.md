@@ -22,7 +22,7 @@ wikidata_id: "Q108226642"
 
 # Alanya Gazipaşa Kıyı Bandı Sit Alanı
 
-Alanya Gazipaşa Kıyı Bandı Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu sahil şeridi, doğa severlerin ve turistlerin ilgisini çeken önemli bir destinasyondur. Alan, zengin fauna ve flora çeşitliliği ile dikkat çeker ve ziyaretçilere benzersiz bir deneyim sunar. Sahil boyunca, çeşitli bitki türleri ve canlılar bulunur, bu da bu bölgeyi doğal bir cennet haline getirir.
+ Bu sahil şeridi, doğa severlerin ve turistlerin ilgisini çeken önemli bir destinasyondur. Alan, zengin fauna ve flora çeşitliliği ile dikkat çeker ve ziyaretçilere benzersiz bir deneyim sunar. Sahil boyunca, çeşitli bitki türleri ve canlılar bulunur, bu da bu bölgeyi doğal bir cennet haline getirir.
 
 ## Tarihçe
 

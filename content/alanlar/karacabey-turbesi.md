@@ -1,7 +1,7 @@
 ---
 title: "Karacabey Türbesi"
 date: "2026-01-10T07:49:34.622Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391193"
 
 # Karacabey Türbesi
 
-Karacabey Türbesi, Ankara'nın Altındağ ilçesinde yer alan tarihi bir mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Tarihi geçmişiyle dikkat çeken Karacabey Türbesi, ziyaretçilerini bekliyor. Burada, hem doğal güzellikleri keşfedebilir hem de tarihsel öneme sahip mekanları gezebilirsiniz. Karacabey Türbesi, Ankara'nın merkezi bir konumunda yer alıyor. Şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası.
+Karacabey Türbesi, Ankara'nın Altındağ ilçesinde yer alan tarihi bir mekan. Tarihi geçmişiyle dikkat çeken Karacabey Türbesi, ziyaretçilerini bekliyor. Burada, hem doğal güzellikleri keşfedebilir hem de tarihsel öneme sahip mekanları gezebilirsiniz. Karacabey Türbesi, Ankara'nın merkezi bir konumunda yer alıyor. Şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 

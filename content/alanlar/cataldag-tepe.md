@@ -50,7 +50,7 @@ Mevsimsel değişimlere bakıldığında, Çataldağ Tepe ve çevresindeki bölg
 
 ## Flora ve Fauna
 
-Çataldağ Tepe, Sakarya'da bulunan bir dağ ekosistemi olarak, geçiş ikliminin özellikleri ve karma ormanların çeşitliliğiyle dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çataldağ Tepe, Sakarya'da bulunan bir dağ ekosistemi olarak, geçiş ikliminin özellikleri ve karma ormanların çeşitliliğiyle dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharla birlikte dağ yamaçlarında çiçekler açmaya başlarken, sonbaharda sararan yapraklar manzaraya renk katıyor. Dağın yükseklik zonlarında, alpin flora kendini gösteriyor. Yaban Hayatı açısından, memeliler ve kuşlar bu bölgede yaşamını sürdürüyor. Göçmen kuş rotası üzerinde olan bu dağ, her yıl binlerce kuşa ev sahipliği yapıyor. Ekolojik Değer olarak, bu dağ ekosisteminin korunması, bölgenin iklim dengesini ve canlı çeşitliliğini korumak için büyük önem taşıyor.
 

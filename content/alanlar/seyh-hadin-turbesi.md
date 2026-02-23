@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Hadin Türbesi"
 date: "2026-01-10T04:57:47.712Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391497"
 
 # Şeyh Hadin Türbesi
 
-Şeyh Hadin Türbesi, Güneydoğu Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçası olarak karşımıza çıkıyor. Bu özel mekan, Diyarbakır'ın Sur ilçesinde bulunan bir türbe ve aynı zamanda bir plaj olarak hizmet veriyor. 140 hektarlık bir alan üzerine kurulmuş olan Şeyh Hadin Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu güzel mekan, ziyaretçilerine hem tarihi bir geçmiş hem de doğal güzellikler sunuyor. Şeyh Hadin Türbesi, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor.
+Şeyh Hadin Türbesi, Güneydoğu Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçası olarak karşımıza çıkıyor. Bu özel mekan, Diyarbakır'ın Sur ilçesinde bulunan bir türbe ve aynı zamanda bir plaj olarak hizmet veriyor. Bu güzel mekan, ziyaretçilerine hem tarihi bir geçmiş hem de doğal güzellikler sunuyor. Şeyh Hadin Türbesi, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor.
 
 ## Tarihçe
 

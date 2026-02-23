@@ -28,7 +28,7 @@ wikidata_id: "Q31387344"
 
 # Bakacak Tepe
 
-Bakacak Tepe, Samsun'un en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini karşılayan geniş bir yeşil alan sunuyor. Bu tepe, Karadeniz Bölgesi'nin coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta. Ziyaretçiler, bu bölgede yer alan tarihi eserleri ve doğal güzellikleri keşfederek, Samsun'un kültürel ve doğal zenginliklerini deneyimliyor.
+Bakacak Tepe, Samsun'un en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, Karadeniz Bölgesi'nin coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta. Ziyaretçiler, bu bölgede yer alan tarihi eserleri ve doğal güzellikleri keşfederek, Samsun'un kültürel ve doğal zenginliklerini deneyimliyor.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Bakacak Tepe, Samsun'un merkezi bir konumunda yer alıyor ve ziyaretçilerine ko
 
 - Bakacak Tepe, Samsun'un en önemli doğal güzelliklerinden biri.
 - Bu tepe, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan önemli bir nokta.
-- Bakacak Tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna yer alıyor.
 - Ziyaretçiler, bu bölgede yer alan tarihi eserleri ve müzeleri ziyaret ederek, Samsun'un tarihini ve kültürel zenginliklerini keşfediyor.

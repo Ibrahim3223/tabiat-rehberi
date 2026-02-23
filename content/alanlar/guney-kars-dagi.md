@@ -32,7 +32,7 @@ Kars'ın büyüleyici coğrafyasında yer alan Güney (Kars Dağı), doğal güz
 
 ## Tarihçe
 
-Kars Dağı, tarihin sâu izlerini taşıyan bir bölge. Bu coğrafya, yüzyıllar boyunca çeşitli uygarlıkların geçiş noktası olmuş. Selçuklular, Osmanlılar ve diğer medeniyetler, bu topraklarda izler bırakmış. Doğal güzelliği ve stratejik konumu, Kars Dağı'nı önemli bir merkez haline getirmiş.
+Kars Dağı, tarihin derin izlerini taşıyan bir bölge. Bu coğrafya, yüzyıllar boyunca çeşitli uygarlıkların geçiş noktası olmuş. Selçuklular, Osmanlılar ve diğer medeniyetler, bu topraklarda izler bırakmış. Doğal güzelliği ve stratejik konumu, Kars Dağı'nı önemli bir merkez haline getirmiş.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu bölgelerle ilişkisini şekillendirmiş. Kars Dağı, çevredeki vadiler ve dağlar, binlerce yıl boyunca insanların yaşamlarını sürdürdüğü, geçimini sağladığı bir bölge olmuş.
 
@@ -50,11 +50,11 @@ Mevsimsel değişikliklere bakıldığında, Güney (Kars Dağı) kış ayların
 
 ## Flora ve Fauna
 
-Güney (Kars Dağı), yüksek dağ ekolojisinin zenginliklerini sunan bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Güney (Kars Dağı), yüksek dağ ekolojisinin zenginliklerini sunan bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharda dağ çayırları rengarenk çiçeklerle donanırken, yaz aylarında yükseklik zonlarına bağlı olarak farklı bitki türleri ortaya çıkar. Sonbaharda ise, yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünür. 
+Bitki Örtüsü olarak, ilkbaharda dağ çayırları rengarenk çiçeklerle donanırken, yaz aylarında yükseklik zonlarına bağlı olarak farklı bitki türleri ortaya çıkar. Sonbaharda ise, yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünür.
 
-Yaban Hayatı açısından, dağ keçileri, yaban kedileri ve tilkiler gibi memeliler, kartallar, doğanların yanı sıra, çeşitli sürüngen ve amfibiler de bu dağ ekosisteminin bir parçasıdır. 
+Yaban Hayatı açısından, dağ keçileri, yaban kedileri ve tilkiler gibi memeliler, kartallar, doğanların yanı sıra, çeşitli sürüngen ve amfibiler de bu dağ ekosisteminin bir parçasıdır.
 
 Ekolojik Değer olarak, Kars Dağı'nın yüksek dağ ekolojisi ve alpin çayırları, endemik türlerin yaşam alanı olarak büyük önem taşır. Bu bölge, birçok canlı türünün yaşam döngüsüne bağımlıdır ve doğru korunma önlemleriyle, bu doğal güzelliklerin sürekliliği sağlanabilir.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389005"
 
 # Armut Tepesi
 
-Armut Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde bulunan ve 140 hektarlık yeşil alanıyla ziyaretçilerini karşılayan bir doğa harikasıdır. Bu büyüleyici tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine doğanın güzelliğini sunar. Armut Tepesi, hem doğa severlerin hem de macera arayanların ilgisini çeken bir destinasyon olarak dikkat çeker. Burada, doğanın seslerini dinleyerek, güneşin doğuşunu ve batışını izleyerek, çevreyi keşfedere ve bol oksijenli havayı soluyarak huzur bulabilirsiniz.
+Armut Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde bulunan ve 140 hektarlık yeşil alanıyla ziyaretçilerini karşılayan bir doğa harikasıdır. Armut Tepesi, hem doğa severlerin hem de macera arayanların ilgisini çeken bir destinasyon olarak dikkat çeker. Burada, doğanın seslerini dinleyerek, güneşin doğuşunu ve batışını izleyerek, çevreyi keşfedere ve bol oksijenli havayı soluyarak huzur bulabilirsiniz.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q34823096"
 
 # Çadır Tepesi
 
-Bursa'nın doğal güzelliklerinden biri olan Çadır Tepesi, Marmara Bölgesi'nde yer alır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Çadır Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir. Doğal güzelliği ve coğrafi konumuyla dikkat çeker. Çadır Tepesi, Bursa'nın önemli turizm noktalarından biridir. Doğal güzelliği, flora ve faunası ile ziyaretçilerini cezbetmektedir.
+Bursa'nın doğal güzelliklerinden biri olan Çadır Tepesi, Marmara Bölgesi'nde yer alır. Çadır Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir. Doğal güzelliği ve coğrafi konumuyla dikkat çeker. Çadır Tepesi, Bursa'nın önemli turizm noktalarından biridir. Doğal güzelliği, flora ve faunası ile ziyaretçilerini cezbetmektedir.
 
 ## Tarihçe
 

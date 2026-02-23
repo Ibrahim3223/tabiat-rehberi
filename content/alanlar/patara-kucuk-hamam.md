@@ -1,7 +1,7 @@
 ---
 title: "Patara Küçük Hamam"
 date: "2026-01-09T23:10:41.840Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738915"
 
 # Patara Küçük Hamam
 
-Patara Küçük Hamam, Akdeniz'in en güzel plajlarından biri olarak bilinen bir yerdir. Kaş ilçesi sınırları içerisinde bulunan bu plaj, tarihi ve doğal güzelliği ile dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte bir plajda denizin ve güneşin keyfini çıkarma mümkün. Bu plaj, Patara Antik Kenti'nin de yakınlarında bulunduğu için hem tarihi hem de doğal güzelliklerini bir arada sunar. Patara Küçük Hamam, denizin maviliği ve kumsalın beyazlığıyla birlikte, ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
+Patara Küçük Hamam, Akdeniz'in en güzel plajlarından biri olarak bilinen bir yerdir. Kaş ilçesi sınırları içerisinde bulunan bu plaj, tarihi ve doğal güzelliği ile dikkat çeker. Bu plaj, Patara Antik Kenti'nin de yakınlarında bulunduğu için hem tarihi hem de doğal güzelliklerini bir arada sunar. Patara Küçük Hamam, denizin maviliği ve kumsalın beyazlığıyla birlikte, ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
 
 ## Tarihçe
 

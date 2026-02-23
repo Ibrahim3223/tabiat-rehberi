@@ -28,7 +28,7 @@ wikidata_id: "Q32210177"
 
 # Köleninsivrisi Tepesi
 
-Köleninsivrisi Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinin sınırları içinde yer alan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte yaklaşık 300 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin yüksekliği ve genişliği, onu bölgenin önemli doğal oluşumlarından biri haline getiriyor. Köleninsivrisi Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor.
+Köleninsivrisi Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinin sınırları içinde yer alan bir tepe. Tepenin yüksekliği ve genişliği, onu bölgenin önemli doğal oluşumlarından biri haline getiriyor. Köleninsivrisi Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 

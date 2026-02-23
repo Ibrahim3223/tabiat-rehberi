@@ -1,7 +1,7 @@
 ---
 title: "Halifet Gazi Türbesi"
 date: "2026-01-10T05:54:53.161Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -30,7 +30,7 @@ wikidata_id: "Q118957813"
 
 # Halifet Gazi Türbesi
 
-Halifet Gazi Türbesi, Amasya'nın merkezinde yer alan ve tarihi önemi taşımakta olan bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde bulunmaktadır. Bu mekan, hem doğal güzelliklerin hem de tarihi değerlerin bir araya geldiği ender noktalardan biridir. Ziyaretçilerini geçmişe götürerek aynı zamanda doğal güzelliği ile büyülemektedir. Halifet Gazi Türbesi, Amasya'nın önemli turizm noktalarından biri olarak dikkat çekmektedir.
+Halifet Gazi Türbesi, Amasya'nın merkezinde yer alan ve tarihi önemi taşımakta olan bir yapıdır. Bu mekan, hem doğal güzelliklerin hem de tarihi değerlerin bir araya geldiği ender noktalardan biridir. Ziyaretçilerini geçmişe götürerek aynı zamanda doğal güzelliği ile büyülemektedir. Halifet Gazi Türbesi, Amasya'nın önemli turizm noktalarından biri olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Halifet Gazi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır
 
 ## Coğrafya
 
-Halifet Gazi Türbesi, Amasya'nın merkezi bölgesinde bulunmaktadır. Coğrafi konumu itibariyle, Karadeniz Bölgesi'nin önemli noktalarından biridir. Türbenin etrafı, çeşitli bitki türleri ve ağaçlar ile çevrilidir. Bu alan, hem doğal güzelliklerin hem de tarihi yapıların bir araya geldiği bir bölgedir. Coğrafi olarak, 140 hektarlık bir alanı kaplayan bu mekan, yaklaşık 200 futbol sahası büyüklüğündedir. Halifet Gazi Türbesi'nin coğrafi konumu, ziyaretçilerine hem tarihi bir deneyim hem de doğal bir güzellik sunmaktadır. Karadeniz Bölgesi'nin karakteristik iklimi, bu bölgede de hakimdir. Bölge, yıl boyunca ılıman bir iklime sahiptir. Bu coğrafi özellikler, ziyaretçilerin yıl boyunca bu mekanı ziyaret etmelerine olanak sağlamaktadır.
+Halifet Gazi Türbesi, Amasya'nın merkezi bölgesinde bulunmaktadır. Coğrafi konumu itibariyle, Karadeniz Bölgesi'nin önemli noktalarından biridir. Türbenin etrafı, çeşitli bitki türleri ve ağaçlar ile çevrilidir. Bu alan, hem doğal güzelliklerin hem de tarihi yapıların bir araya geldiği bir bölgedir. Halifet Gazi Türbesi'nin coğrafi konumu, ziyaretçilerine hem tarihi bir deneyim hem de doğal bir güzellik sunmaktadır. Karadeniz Bölgesi'nin karakteristik iklimi, bu bölgede de hakimdir. Bölge, yıl boyunca ılıman bir iklime sahiptir. Bu coğrafi özellikler, ziyaretçilerin yıl boyunca bu mekanı ziyaret etmelerine olanak sağlamaktadır.
 
 ## Flora ve Fauna
 

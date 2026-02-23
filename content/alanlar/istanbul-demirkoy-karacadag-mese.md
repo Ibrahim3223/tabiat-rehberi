@@ -22,7 +22,7 @@ wikidata_id: "Q108227764"
 
 # Istanbul-Demirkoy-Karacadag Mese
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Istanbul-Demirkoy-Karacadag Mese, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik sunuyor. Bu alanda, çeşitli bitki türleri ve zengin fauna, ziyaretçilerini bekliyor. Doğal güzellikleri keşfetmek isteyenler için, bu milli park, mükemmel bir destinasyon olarak karşımıza çıkıyor. İstanbul, Demirköy ve Karacadağ gibi önemli yerlerin birleşmesiyle oluşan bu bölge, tarihi ve kültürel açıdan da oldukça önemli. Ziyaretçiler, bu bölgede, hem doğayı keşfetmenin hem de tarihi geçmişini öğrenmenin keyfini çıkarabilirler.
+ Bu alanda, çeşitli bitki türleri ve zengin fauna, ziyaretçilerini bekliyor. Doğal güzellikleri keşfetmek isteyenler için, bu milli park, mükemmel bir destinasyon olarak karşımıza çıkıyor. İstanbul, Demirköy ve Karacadağ gibi önemli yerlerin birleşmesiyle oluşan bu bölge, tarihi ve kültürel açıdan da oldukça önemli. Ziyaretçiler, bu bölgede, hem doğayı keşfetmenin hem de tarihi geçmişini öğrenmenin keyfini çıkarabilirler.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228594"
 
 # Eskisehir-Seyitgazi Alic
 
-Eskisehir-Seyitgazi Alic, İç Anadolu Bölgesi'nin merkezi bir konumda yer alan, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir milli parktır. Bu alanda çeşitli bitki türleri ve zengin fauna gefunden. Milli parkın çevresi, farklı coğrafi oluşumlarla çevrilidir. Burada doğa severler, trekking yapabilir, doğayı keşfedebilir ve dinlenebilir. Milli parkın girişinde, ziyaretçilere bilgi veren bir alan bulunmaktadır.
+ Bu alanda çeşitli bitki türleri ve zengin fauna gefunden. Milli parkın çevresi, farklı coğrafi oluşumlarla çevrilidir. Burada doğa severler, trekking yapabilir, doğayı keşfedebilir ve dinlenebilir. Milli parkın girişinde, ziyaretçilere bilgi veren bir alan bulunmaktadır.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Eskisehir-Seyitgazi Alic milli parkını ziyaret etmek, doğa severler için bir
 
 ## İlginç Bilgiler
 
-- Milli parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli parkta, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Milli parkın iklimi, karasal iklim özellikleri taşımaktadır.
 - Milli parkın çevresi, farklı coğrafi oluşumlarla çevrilidir.

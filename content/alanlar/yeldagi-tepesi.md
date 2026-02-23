@@ -50,9 +50,9 @@ Mevsimsel olarak, Yeldağı Tepesi ve çevresinin iklimi soğu ve karasal bir ka
 
 ## Flora ve Fauna
 
-Yeldağı Tepesi, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü bölümünde, ilkbaharla birlikte çiçeklenen alpin çayırların renk cümbüşü ile karşılaşıyoruz. Sonbaharda, dağların yükseklik zonlarına adapte olmuş bitkiler, mevsimsel değişimlere uyum sağlıyor. 
-Yaban Hayatı bölümünde, dağ keçileri ve yaban keçileri gibi memelileri, kartallar ve akbabalar gibi kuşları ve çeşitli sürüngenleri görebiliyoruz. Bu canlılar, dağların zorlu koşullarına adapte olmuşlar ve birbirleriyle olan ekolojik ilişkileri, bu dağ ekosisteminin dengesini koruyor. 
+Yeldağı Tepesi, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü bölümünde, ilkbaharla birlikte çiçeklenen alpin çayırların renk cümbüşü ile karşılaşıyoruz. Sonbaharda, dağların yükseklik zonlarına adapte olmuş bitkiler, mevsimsel değişimlere uyum sağlıyor.
+Yaban Hayatı bölümünde, dağ keçileri ve yaban keçileri gibi memelileri, kartallar ve akbabalar gibi kuşları ve çeşitli sürüngenleri görebiliyoruz. Bu canlılar, dağların zorlu koşullarına adapte olmuşlar ve birbirleriyle olan ekolojik ilişkileri, bu dağ ekosisteminin dengesini koruyor.
 Ekolojik Değer bölümünde, Yeldağı Tepesi'nin neden önemli olduğunu ve koruma durumunu öğreniyoruz. Bu yüksek dağ ekosistemi, endemik türlerin yaşaması için kritik bir alan ve koruma altına alınması, bu türlerin yok olmasını önlemek için çok önemli.
 
 ## Ziyaret Bilgileri

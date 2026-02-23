@@ -28,7 +28,7 @@ wikidata_id: "Q34873495"
 
 # Gürük Tepesi
 
-Gürük Tepesi, Batman'ın güzide noktalarından biri olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gürük Tepesi, ziyaretçilerini doğanın içinde bir macera bekliyor. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla bu tepe, şehrin kalabalığından kaçmak isteyenler için bir sığınak görevi görüyor. Gürük Tepesi'nin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna ziyaretçileri karşılıyor. Bu tepenin etrafındaki manzara, şehrin panorama görüntüsünü sunuyor ve ziyaretçilere huzurlu anlar yaşatıyor.
+Gürük Tepesi, Batman'ın güzide noktalarından biri olarak dikkat çekiyor. Gürük Tepesi, ziyaretçilerini doğanın içinde bir macera bekliyor. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla bu tepe, şehrin kalabalığından kaçmak isteyenler için bir sığınak görevi görüyor. Gürük Tepesi'nin eteklerinde ve zirvesinde, çeşitli bitki türleri ve zengin fauna ziyaretçileri karşılıyor. Bu tepenin etrafındaki manzara, şehrin panorama görüntüsünü sunuyor ve ziyaretçilere huzurlu anlar yaşatıyor.
 
 ## Tarihçe
 

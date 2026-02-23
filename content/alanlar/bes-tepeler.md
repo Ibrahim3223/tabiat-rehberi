@@ -28,7 +28,7 @@ wikidata_id: "Q31388267"
 
 # Beş Tepeler
 
-Beş Tepeler, Kars ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, çeşitli bitki türleri ve zengin fauna ile beraber, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Beş Tepeler, hem doğa severler hem de tarih meraklıları için bir hazine. Burası, Kars'ın tarihi geçmişi ve kültürel mirasının önemli bir parçası.
+Beş Tepeler, Kars ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu alan, çeşitli bitki türleri ve zengin fauna ile beraber, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Beş Tepeler, hem doğa severler hem de tarih meraklıları için bir hazine. Burası, Kars'ın tarihi geçmişi ve kültürel mirasının önemli bir parçası.
 
 ## Tarihçe
 

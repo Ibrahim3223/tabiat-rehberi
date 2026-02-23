@@ -22,7 +22,7 @@ wikidata_id: "Q108227922"
 
 # Adapazari-Izmit-Gebze Karacam 1
 
-Adapazari-Izmit-Gebze Karacam 1 milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerine geniş ve yeşil bir alan sunmaktadır. Burada doğanın güzelliğini keşfedebilir, temiz hava ve sakin bir ortamda dinlenebilirsiniz. Milli parkın etrafında çeşitli yürüyüş yolları ve piknik alanları bulunmaktadır. Bu alanlar ziyaretçilerin doğayı keşfetmelerine ve keyifli anlar geçirmelerine olanak tanır.
+Adapazari-Izmit-Gebze Karacam 1 milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Burada doğanın güzelliğini keşfedebilir, temiz hava ve sakin bir ortamda dinlenebilirsiniz. Milli parkın etrafında çeşitli yürüyüş yolları ve piknik alanları bulunmaktadır. Bu alanlar ziyaretçilerin doğayı keşfetmelerine ve keyifli anlar geçirmelerine olanak tanır.
 
 ## Tarihçe
 

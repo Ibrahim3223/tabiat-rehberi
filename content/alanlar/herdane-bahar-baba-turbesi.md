@@ -1,7 +1,7 @@
 ---
 title: "Herdane Bahar Baba Türbesi"
 date: "2026-01-10T05:47:38.231Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582191"
 
 # Herdane Bahar Baba Türbesi
 
-İhsaniye, Afyonkarahisar'da yer alan Herdane Bahar Baba Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir açık alan sunuyor. Türbe ve plajın bir arada olması, bu bölgeyi hem dinî hem de doğa severler için çekici kılıyor. İnsanlar, hem manevî huzuru hem de doğanın güzelliğini bir arada deneyimleyebiliyorlar.
+İhsaniye, Afyonkarahisar'da yer alan Herdane Bahar Baba Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon. Türbe ve plajın bir arada olması, bu bölgeyi hem dinî hem de doğa severler için çekici kılıyor. İnsanlar, hem manevî huzuru hem de doğanın güzelliğini bir arada deneyimleyebiliyorlar.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388329"
 
 # Kavakdağı Tepesi
 
-Kavakdağı Tepesi, Iğdır ilinin sınırları içerisinde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir destinasyon. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Kavakdağı Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunuyor. Iğdır'ın coğrafi konumu, Kavakdağı Tepesi'ni bölgenin önemli bir turizm merkezi haline getiriyor.
+Kavakdağı Tepesi, Iğdır ilinin sınırları içerisinde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir destinasyon. Kavakdağı Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunuyor. Iğdır'ın coğrafi konumu, Kavakdağı Tepesi'ni bölgenin önemli bir turizm merkezi haline getiriyor.
 
 ## Tarihçe
 

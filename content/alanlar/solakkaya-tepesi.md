@@ -28,7 +28,7 @@ wikidata_id: "Q31536078"
 
 # Solakkaya Tepesi
 
-Solakkaya Tepesi, Hatay'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak, tarih ve doğanın birleştiği benzersiz bir noktayı temsil ediyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Solakkaya Tepesi, ziyaretçilerini hem tarihi geçmişiyle hem de doğal güzellikleriyle etkileyerek, unutulmaz bir deneyim sunuyor.
+Solakkaya Tepesi, Hatay'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak, tarih ve doğanın birleştiği benzersiz bir noktayı temsil ediyor. Solakkaya Tepesi, ziyaretçilerini hem tarihi geçmişiyle hem de doğal güzellikleriyle etkileyerek, unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Gazi Turhan Bey Türbesi"
 date: "2026-01-10T06:56:31.485Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390794"
 
 # Gazi Turhan Bey Türbesi
 
-Gazi Turhan Bey Türbesi, Marmara Bölgesi'nin Edirne ilinin Uzunköprü ilçesinde bulunan bir türbe ve plajdır. Bu tarihi mekan, bölgenin önemli turistik noktalarından biri olarak bilinir. Türbenin çevresinde geniş bir yeşil alan bulunur ve ziyaretçiler burayı hem tarihi açıdan hem de doğal güzelliği nedeniyle ziyaret ederler. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açıklık sunar. Türbe ve çevresindeki plaj, hem yerli hem de yabancı turistlerin ilgisini çeker.
+Gazi Turhan Bey Türbesi, Marmara Bölgesi'nin Edirne ilinin Uzunköprü ilçesinde bulunan bir türbe ve plajdır. Bu tarihi mekan, bölgenin önemli turistik noktalarından biri olarak bilinir. Türbenin çevresinde geniş bir yeşil alan bulunur ve ziyaretçiler burayı hem tarihi açıdan hem de doğal güzelliği nedeniyle ziyaret ederler. Türbe ve çevresindeki plaj, hem yerli hem de yabancı turistlerin ilgisini çeker.
 
 ## Tarihçe
 

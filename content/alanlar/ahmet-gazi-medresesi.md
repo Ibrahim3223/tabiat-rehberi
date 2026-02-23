@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Gazi Medresesi"
 date: "2026-01-10T06:31:34.872Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -30,7 +30,7 @@ wikidata_id: "Q131741422"
 
 # Ahmet Gazi Medresesi
 
-Ahmet Gazi Medresesi, Muğla'nın Milas ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu alan, yaklaşık 140 hektarlık bir genişliğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kapsar. Ahmet Gazi Medresesi, tarihi ve kültürel değerleri ile birlikte, Ege Bölgesi'nin en önemli turizm merkezlerinden biridir. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar.
+Ahmet Gazi Medresesi, Muğla'nın Milas ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Ahmet Gazi Medresesi, tarihi ve kültürel değerleri ile birlikte, Ege Bölgesi'nin en önemli turizm merkezlerinden biridir. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar.
 
 ## Tarihçe
 

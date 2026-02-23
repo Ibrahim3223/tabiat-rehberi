@@ -1,7 +1,7 @@
 ---
 title: "Konuralp Türbesi"
 date: "2026-01-10T04:55:02.782Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391522"
 
 # Konuralp Türbesi
 
-Konuralp Türbesi, Düzce'nin merkezinde yer alan ve tarihi öneme sahip bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Konuralp Türbesi, hem doğal güzellikleri hem de tarihi önemiıyla ziyaretçilerini cezbeden bir destinasyondur. Bölge, yeşilin her tonunu sunan ormanlarla çevrilidir ve bu sayede ziyaretçiler için gerçek bir doğa cenneti oluşturur.
+Konuralp Türbesi, Düzce'nin merkezinde yer alan ve tarihi öneme sahip bir alandır. Konuralp Türbesi, hem doğal güzellikleri hem de tarihi önemiıyla ziyaretçilerini cezbeden bir destinasyondur. Bölge, yeşilin her tonunu sunan ormanlarla çevrilidir ve bu sayede ziyaretçiler için gerçek bir doğa cenneti oluşturur.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Dombey Hamamı"
 date: "2026-01-09T23:24:32.984Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738987"
 
 # Dombey Hamamı
 
-Dombey Hamamı, Çivril'in merkezine uzun bir mesafe uzaklıkta bulunan, Ege Bölgesi'nin en güzel plajlarından biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte bir plajın sunduğu tüm imkanları sunuyor. Dombey Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon. Bu plaj, özellikle yaz aylarında birçok ziyaretçiyi ağırlıyor ve misafirlerine unutulmaz bir deneyim sunuyor.
+Dombey Hamamı, Çivril'in merkezine uzun bir mesafe uzaklıkta bulunan, Ege Bölgesi'nin en güzel plajlarından biri. Dombey Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon. Bu plaj, özellikle yaz aylarında birçok ziyaretçiyi ağırlıyor ve misafirlerine unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dombey Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev 
 
 ## Coğrafya
 
-Dombey Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak, Çivril'in merkezine uzun bir mesafe uzaklıkta bulunuyor. Bu plaj, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Dombey Hamamı'nın coğrafi konumu, ziyaretçilerine denizin ve güneşin keyfini çıkarmak için ideal bir ortam sunuyor. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Dombey Hamamı, özellikle yaz aylarında birçok ziyaretçiyi ağırlıyor ve misafirlerine unutulmaz bir deneyim sunuyor. Bu plaj, Ege Bölgesi'nin güzelliklerini ve doğal değerlerini keşfetmek isteyenler için mükemmel bir destinasyon.
+Dombey Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak, Çivril'in merkezine uzun bir mesafe uzaklıkta bulunuyor. Dombey Hamamı'nın coğrafi konumu, ziyaretçilerine denizin ve güneşin keyfini çıkarmak için ideal bir ortam sunuyor. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Dombey Hamamı, özellikle yaz aylarında birçok ziyaretçiyi ağırlıyor ve misafirlerine unutulmaz bir deneyim sunuyor. Bu plaj, Ege Bölgesi'nin güzelliklerini ve doğal değerlerini keşfetmek isteyenler için mükemmel bir destinasyon.
 
 ## Flora ve Fauna
 

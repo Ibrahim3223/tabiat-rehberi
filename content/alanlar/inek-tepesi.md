@@ -28,7 +28,7 @@ wikidata_id: "Q31391268"
 
 # İnek Tepesi
 
-İnek Tepesi, İç Anadolu Bölgesi'nin geniş ve verimli ovalarıyla çevrili bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. İnek Tepesi, bölgeye özgü bitki türleriyle kaplı ve çeşitli fauna örneklerine ev sahipliği yapıyor. Bu tepe, özellikle trekking ve doğa yürüyüşü sevenler için ideal bir destinasyon olarak görülüyor.
+İnek Tepesi, İç Anadolu Bölgesi'nin geniş ve verimli ovalarıyla çevrili bir tepe olarak dikkat çekiyor. İnek Tepesi, bölgeye özgü bitki türleriyle kaplı ve çeşitli fauna örneklerine ev sahipliği yapıyor. Bu tepe, özellikle trekking ve doğa yürüyüşü sevenler için ideal bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 

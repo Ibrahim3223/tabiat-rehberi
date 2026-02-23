@@ -28,7 +28,7 @@ wikidata_id: "Q32210771"
 
 # Küllüm Tepesi
 
-Küllüm Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olarak dikkat çekiyor. Gaziantep ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Küllüm Tepesi, doğa severlerin ve trekking yapanların ziyaret ettiği bir nokta olarak biliniyor. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel geçmişine de önemli katkılar sağlıyor.
+Küllüm Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olarak dikkat çekiyor. Gaziantep ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Küllüm Tepesi, doğa severlerin ve trekking yapanların ziyaret ettiği bir nokta olarak biliniyor. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel geçmişine de önemli katkılar sağlıyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Küllüm Tepesi, doğa severlerin ve trekking yapanların ziyaret ettiği bir no
 ## İlginç Bilgiler
 
 - Küllüm Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Tepenin yüksekliği, flora ve fauna açısından önemli bir çeşitlilik yaratıyor.
 - Küllüm Tepesi, bölgenin tarihi ve kültürel geçmişine önemli katkılar sağlıyor.
 - Tepenin eteklerinde ve çevresinde, tarım alanları ve yerleşim yerleri de yer alıyor.

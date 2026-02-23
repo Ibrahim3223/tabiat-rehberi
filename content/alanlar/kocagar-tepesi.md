@@ -28,7 +28,7 @@ wikidata_id: "Q31535337"
 
 # Kocagar Tepesi
 
-Kocagar Tepesi, Hatay ilinin sınırında yer alan ve bölgeye özel bir coğrafi oluşum olan bir tepe olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Kocagar Tepesi, bölgenin doğal güzelliğini ve coğrafi çeşitliliğini temsil eder. Bu tepe, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve hayvanlar için önemli bir yaşam alanıdır.
+Kocagar Tepesi, Hatay ilinin sınırında yer alan ve bölgeye özel bir coğrafi oluşum olan bir tepe olarak dikkat çeker. Kocagar Tepesi, bölgenin doğal güzelliğini ve coğrafi çeşitliliğini temsil eder. Bu tepe, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve hayvanlar için önemli bir yaşam alanıdır.
 
 ## Tarihçe
 

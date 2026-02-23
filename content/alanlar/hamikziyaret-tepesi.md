@@ -28,7 +28,7 @@ wikidata_id: "Q31385772"
 
 # Hamikziyaret Tepesi
 
-Hamikziyaret Tepesi, Adıyaman'ın coğrafi yapısını oluşturan önemli noktalardan biridir. Güneydoğu Anadolu Bölgesi'nin zengin doğal güzelliklerine ev sahipliği yapan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir alanı temsil eder. Hamikziyaret Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve doğanın sakinliğine davet etmeye hazırdır. Tepenin etrafında yer alan çeşitli bitki türleri ve canlılar, bu bölgeyi özel kılar.
+Hamikziyaret Tepesi, Adıyaman'ın coğrafi yapısını oluşturan önemli noktalardan biridir. Güneydoğu Anadolu Bölgesi'nin zengin doğal güzelliklerine ev sahipliği yapan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Hamikziyaret Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve doğanın sakinliğine davet etmeye hazırdır. Tepenin etrafında yer alan çeşitli bitki türleri ve canlılar, bu bölgeyi özel kılar.
 
 ## Tarihçe
 

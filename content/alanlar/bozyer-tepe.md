@@ -28,7 +28,7 @@ wikidata_id: "Q31386109"
 
 # Bozyer Tepe
 
-Bozyer Tepe, İzmir'in güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle büyülüyor. Bozyer Tepe, Ege Bölgesi'nin coğrafyasına hakim bir konumda yer alıyor ve bu sayede ziyaretçilerine geniş bir manzara sunuyor. Tepe, özellikle gün batımında ziyaret edildiğinde, izleyenleri büyüleyen bir güzelliğe sahip.
+Bozyer Tepe, İzmir'in güzide noktalarından biri olarak karşımıza çıkıyor. Bozyer Tepe, Ege Bölgesi'nin coğrafyasına hakim bir konumda yer alıyor ve bu sayede ziyaretçilerine geniş bir manzara sunuyor. Tepe, özellikle gün batımında ziyaret edildiğinde, izleyenleri büyüleyen bir güzelliğe sahip.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227846"
 
 # Antalya-Döşemealtı Kızılçam 2
 
-Antalya-Döşemealtı Kızılçam 2, Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ormanlık alanlarından biri olarak kabul ediliyor. Bu milli park, kızılçam ağaçları ile çevrili ve zengin bir flora ve fauna çeşitliliğine sahip. Ziyaretçiler, bu doğal güzelliği keşfetmek için buraya geliyor ve môi ormanın güzelliğini deneyimleme fırsatı buluyor.
+Antalya-Döşemealtı Kızılçam 2, Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak dikkat çekiyor. Bu milli park, kızılçam ağaçları ile çevrili ve zengin bir flora ve fauna çeşitliliğine sahip. Ziyaretçiler, bu doğal güzelliği keşfetmek için buraya geliyor ve môi ormanın güzelliğini deneyimleme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -44,6 +44,6 @@ Antalya-Döşemealtı Kızılçam 2'yi ziyaret etmek, doğa severler için ideal
 
 - Milli parkın kuruluşu, bölgenin doğal güzelliğini korumak amacıyla gerçekleştirilmiştir.
 - Antalya-Döşemealtı Kızılçam 2, Türkiye'nin önemli milli parklarından biri olarak kabul ediliyor.
-- Milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahip ve çeşitli bitki ve hayvan türleri barındırıyor.
 - Milli parkın iklimi, Akdeniz ikliminin özellikleri ile uyumlu ve genellikle ılıman ve yağışlı bir hava hüküm sürüyor.

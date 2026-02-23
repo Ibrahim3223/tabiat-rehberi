@@ -22,7 +22,7 @@ wikidata_id: "Q108228908"
 
 # EDİRNE ASKERSÖĞÜTLÜĞÜ
 
-EDİRNE ASKERSÖĞÜTLÜĞÜ, İç Anadolu Bölgesi'nin göbeğinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik noktalarından biridir. Milli parkın establishment tarihi bilinmese de, yüzyıllar boyunca bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmiştir. EDİRNE ASKERSÖĞÜTLÜĞÜ, doğa severlerin ve bilim insanlarının ilgi odağıdır. Bu milli park, ziyaretçilerine, doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
+EDİRNE ASKERSÖĞÜTLÜĞÜ, İç Anadolu Bölgesi'nin göbeğinde yer alan bir milli parktır. Milli parkın establishment tarihi bilinmese de, yüzyıllar boyunca bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmiştir. EDİRNE ASKERSÖĞÜTLÜĞÜ, doğa severlerin ve bilim insanlarının ilgi odağıdır. Bu milli park, ziyaretçilerine, doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ EDİRNE ASKERSÖĞÜTLÜĞÜ'nün tarihi geçmişi, tam olarak bilinmemekle birl
 
 ## Coğrafya
 
-EDİRNE ASKERSÖĞÜTLÜĞÜ, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Milli park, 140 hektarlık bir alanı kaplamaktadır ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. EDİRNE ASKERSÖĞÜTLÜĞÜ'nün coğrafi yapısı, ziyaretçilere, doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçiler, buraya gelerek, bölgenin coğrafi güzelliğini keşfedebilir. EDİRNE ASKERSÖĞÜTLÜĞÜ, çevre ile iç içe bir bölgedir ve ziyaretçiler, buraya gelerek, doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı bulabilir.
+EDİRNE ASKERSÖĞÜTLÜĞÜ, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. EDİRNE ASKERSÖĞÜTLÜĞÜ'nün coğrafi yapısı, ziyaretçilere, doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçiler, buraya gelerek, bölgenin coğrafi güzelliğini keşfedebilir. EDİRNE ASKERSÖĞÜTLÜĞÜ, çevre ile iç içe bir bölgedir ve ziyaretçiler, buraya gelerek, doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı bulabilir.
 
 ## Flora ve Fauna
 

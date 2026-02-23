@@ -34,7 +34,7 @@ Bursa-Yalova-Armutlu-Fıstıkcamı, Marmara Bölgesi'nin coğrafi yapısı için
 
 ## Flora ve Fauna
 
-Bursa-Yalova-Armutlu-Fıstıkcamı, flora ve fauna açısından oldukça zengindir. Bu bölgede, çeşitli ağaç türleri, çalılar ve otlar bulunur. Yaban hayatının çeşitliliği, bu bölgenin zengin ekosistemini oluşturur. Kuş türleri, memeliler, sürüngenler ve amfibiler, bu bölgenin fauna çeşitliliğini gösterir. Mevsimsel değişimler, bu bölgenin flora ve fauna çeşitliliğini etkiler. İlkbahar ve yaz aylarında, bu bölgede flora çeşitliliği artar. Sonbahar ve kış aylarında, fauna çeşitliliği daha belirgin hale gelir.
+ Bu bölgede, çeşitli ağaç türleri, çalılar ve otlar bulunur. Yaban hayatının çeşitliliği, bu bölgenin zengin ekosistemini oluşturur. Kuş türleri, memeliler, sürüngenler ve amfibiler, bu bölgenin fauna çeşitliliğini gösterir. Mevsimsel değişimler, bu bölgenin flora ve fauna çeşitliliğini etkiler. İlkbahar ve yaz aylarında, bu bölgede flora çeşitliliği artar. Sonbahar ve kış aylarında, fauna çeşitliliği daha belirgin hale gelir.
 
 ## Ziyaret Bilgileri
 

@@ -30,7 +30,7 @@ wikidata_id: "Q72176536"
 
 # Upper Düden Waterfalls
 
-Upper Düden Waterfalls, Antalya'nın kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde genişlikte ve yemyeşil bir doğaya sahiptir. Bu alan, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Ziyaretçiler, burada hem doğayı keşfeder hem de şelalenin güzelliğine tanıklık eder. Şelalenin yüksekliği ve suyu, ziyaretçilere büyüleyici bir manzara sunar.
+ Bu alan, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Ziyaretçiler, burada hem doğayı keşfeder hem de şelalenin güzelliğine tanıklık eder. Şelalenin yüksekliği ve suyu, ziyaretçilere büyüleyici bir manzara sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Upper Düden Waterfalls'in tarihi geçmişi, yüzyıllar boyunca bölgeye yerle�
 
 ## Coğrafya
 
-Upper Düden Waterfalls, Antalya'nın merkezinde yer alan bir doğa harikasıdır. Bu alan, 140 hektarlık bir yeşil alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde genişliğe sahiptir. Şelalenin yüksekliği ve suyu, ziyaretçilere büyüleyici bir manzara sunar. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir alanda yer alır ve burada çeşitli bitki türleri ve hayvanlar bulunur. Upper Düden Waterfalls'in coğrafi konumu, ziyaretçilerin hem doğal güzelliği hem de tarihi ve kültürel zenginliği deneyimlemelerine olanak tanır. Bu bölge, Antalya'nın önemli turizm merkezlerinden biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+Upper Düden Waterfalls, Antalya'nın merkezinde yer alan bir doğa harikasıdır. Şelalenin yüksekliği ve suyu, ziyaretçilere büyüleyici bir manzara sunar. Bu bölge, Akdeniz ikliminin hüküm sürdüğü bir alanda yer alır ve burada çeşitli bitki türleri ve hayvanlar bulunur. Upper Düden Waterfalls'in coğrafi konumu, ziyaretçilerin hem doğal güzelliği hem de tarihi ve kültürel zenginliği deneyimlemelerine olanak tanır. Bu bölge, Antalya'nın önemli turizm merkezlerinden biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Flora ve Fauna
 

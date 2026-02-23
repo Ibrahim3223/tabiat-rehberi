@@ -53,7 +53,7 @@ Sarıkum Gölü, Muş'un step bitki örtüsü ve bozkıryla çevrili bir vahadı
 
 Gölün yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Su kuşları ve balık türleri, gölün ekosisteminin temel bileşenlerini oluşturur. Bu canlılar, gölün sulak alanlarında ve suyun altında yaşar; birbirleriyle ve çevreleriyle kompleks bir ilişki ağı kurar.
 
-Sarıkum Gölü, bölgenin ekolojik dengesini korumak açısından büyük önem taşır. Göl, su kuşları ve diğer canlılar için önemli bir yaşam alanı ve göç güzergahıdır. Bu nedenle, gölün korunması ve sürdürülebilir kullanımına dikkat edilmesi gerekmektedir.
+ Göl, su kuşları ve diğer canlılar için önemli bir yaşam alanı ve göç güzergahıdır. Bu nedenle, gölün korunması ve sürdürülebilir kullanımına dikkat edilmesi gerekmektedir.
 
 ## Ziyaret Bilgileri
 

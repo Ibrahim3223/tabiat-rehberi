@@ -28,7 +28,7 @@ wikidata_id: "Q32211066"
 
 # Küçükyahni Tepesi
 
-Kars'ın büyüleyici manzarasına sahip Küçükyahni Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Bu tepe, ziyaretçilerini doğanın güzelliği ve tarihi zenginliği ile büyülemeye hazır. Kars ili sınırları içerisinde yer alan Küçükyahni Tepesi, ziyaretçilerini bekleyen bir doğa harikası. Burada, hem doğa severler hem de tarih meraklıları için birçok şey bulunmakta.
+ Bu tepe, ziyaretçilerini doğanın güzelliği ve tarihi zenginliği ile büyülemeye hazır. Kars ili sınırları içerisinde yer alan Küçükyahni Tepesi, ziyaretçilerini bekleyen bir doğa harikası. Burada, hem doğa severler hem de tarih meraklıları için birçok şey bulunmakta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Küçükyahni Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyet
 
 ## Coğrafya
 
-Küçükyahni Tepesi, Kars ilinin coğrafi yapısında önemli bir yer tutuyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak tanımlanabilir. Tepenin yüksekliği ve genişliği, ziyaretçilerine Kars'ın eşsiz manzarasını sunuyor. Küçükyahni Tepesi, Kars'ın coğrafi çeşitliliğiçinde yer alan bir bölge olarak, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya hazır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna encontruluyor.
+Küçükyahni Tepesi, Kars ilinin coğrafi yapısında önemli bir yer tutuyor. Tepenin yüksekliği ve genişliği, ziyaretçilerine Kars'ın eşsiz manzarasını sunuyor. Küçükyahni Tepesi, Kars'ın coğrafi çeşitliliğiçinde yer alan bir bölge olarak, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya hazır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna encontruluyor.
 
 ## Flora ve Fauna
 

@@ -32,7 +32,7 @@ Gaziantep'in tarihi ve kültürel zenginliklerinin arasında yer alan Akce Dağ�
 
 ## Tarihçe
 
-Gaziantep bölgesi, tarihin sâu sayfalarından bugüne kadar çeşitli uygarlıkların izlerini taşıyor. Hitit, Roma ve Osmanlı gibi medeniyetler bu topraklarda yaşamış, her biri bölgeye özgü bir kültürel miras bırakmış. Doğal güzellikleri ve stratejik konumuyla, bu bölge yüzyıllar boyu insanların yerleşimine, ticaretine ve hayvancılığına ev sahipliği yapmış.
+Gaziantep bölgesi, tarihin derin sayfalarından bugüne kadar çeşitli uygarlıkların izlerini taşıyor. Hitit, Roma ve Osmanlı gibi medeniyetler bu topraklarda yaşamış, her biri bölgeye özgü bir kültürel miras bırakmış. Doğal güzellikleri ve stratejik konumuyla, bu bölge yüzyıllar boyu insanların yerleşimine, ticaretine ve hayvancılığına ev sahipliği yapmış.
 
 Akce Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahip. Bu tür alanlar, yalnızca doğal güzellikleri ve biyolojik çeşitlilikleriyle değil, aynı zamanda insanların yaşamlarını sürdürmesi açısından da kritik bir rol oynamış. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu doğal alanların etrafında gelişmiş, insanların doğayla iç içe yaşamasını sağlamış.
 
@@ -50,7 +50,7 @@ Doğal bir anıt gibi yükselen Akce Dağı, yaklaşık olarak bir şehir bloğu
 
 ## Flora ve Fauna
 
-Akce Dağı, Gaziantep'in yarı kurak ikliminde, step ve ova ekolojisine ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Akce Dağı, Gaziantep'in yarı kurak ikliminde, step ve ova ekolojisine ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çiçekler açmaya başlıyor. Step ve ova ekolojisine uygun olarak, buğdaygiller ve papatyagiller gibi bitkiler hakim türler olarak karşımıza çıkıyor. Sonbaharda, dağların yüksek kesimlerinde alpin flora görülebiliyor.
 

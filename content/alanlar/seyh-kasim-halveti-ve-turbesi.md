@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Kasım Halveti ve Türbesi"
 date: "2026-01-10T07:56:58.783Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -45,7 +45,7 @@ Mardin'in Artuklu ilçesinde yer alan Şeyh Kasım Halveti ve Türbesi, tarihin 
 
 ## Ziyaret Bilgileri
 
-Şeyh Kasım Halveti ve Türbesi, ziyaretçilere geniş bir perspektif sunuyor. Bu bölgenin tarihi ve kültürel önemini yansıtan önemli bir mekan olarak kabul ediliyor. Şeyh Kasım Halveti ve Türbesi, Mardin'in coğrafi konumuna göre, çeşitli ulaşım seçenekleri ile ziyaret edilebilir. Bu bölgenin ziyaretçileri, yaklaşık 200 futbol sahası büyüklüğündeki alanı gezerek, tarihin ve kültürün birleştiği önemli bir mekan olarak kabul ediliyor. Şeyh Kasım Halveti ve Türbesi, Mardin'in kültürel mirasını yansıtan önemli bir mekan olarak ziyaret ediliyor.
+Şeyh Kasım Halveti ve Türbesi, ziyaretçilere geniş bir perspektif sunuyor. Bu bölgenin tarihi ve kültürel önemini yansıtan önemli bir mekan olarak kabul ediliyor. Şeyh Kasım Halveti ve Türbesi, Mardin'in coğrafi konumuna göre, çeşitli ulaşım seçenekleri ile ziyaret edilebilir. Şeyh Kasım Halveti ve Türbesi, Mardin'in kültürel mirasını yansıtan önemli bir mekan olarak ziyaret ediliyor.
 
 ## İlginç Bilgiler
 

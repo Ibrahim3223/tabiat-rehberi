@@ -28,7 +28,7 @@ wikidata_id: "Q31386158"
 
 # Kılcak Tepesi
 
-Gaziantep'in güneydoğusunda yer alan Kılcak Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Kılcak Tepesi, doğa severlerin yanı sıra tarih meraklılarının da ilgisini çekiyor. Tepenin eteklerinde yer alan tarihi kalıntılar, bölgenin zengin tarihi geçmişi hakkında bilgi veriyor.
+Gaziantep'in güneydoğusunda yer alan Kılcak Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için bir destinasyon. Kılcak Tepesi, doğa severlerin yanı sıra tarih meraklılarının da ilgisini çekiyor. Tepenin eteklerinde yer alan tarihi kalıntılar, bölgenin zengin tarihi geçmişi hakkında bilgi veriyor.
 
 ## Tarihçe
 

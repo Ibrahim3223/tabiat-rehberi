@@ -29,7 +29,7 @@ wikidata_id: "Q30623318"
 
 # Avcıkoru Tabiat Parkı
 
-Avcıkoru Tabiat Parkı, İstanbul'un kalbinde, Marmara Bölgesi'nde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini ağırlıyor. Bu alanda, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliği keşfetme mümkün. Parkın içinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Avcıkoru Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyon.
+Avcıkoru Tabiat Parkı, İstanbul'un kalbinde, Marmara Bölgesi'nde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini ağırlıyor. Parkın içinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Avcıkoru Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Avcıkoru Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Avcıkoru Tabiat Parkı, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alır. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlar. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliği sunar. Parkın içinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Avcıkoru Tabiat Parkı, İstanbul'un kalabalık ve gürültülü şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Parkın iklimi, İstanbul'un genel iklimine benzer ve dört mevsim ziyaret edilebilir.
+Avcıkoru Tabiat Parkı, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alır. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlar. Parkın içinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Avcıkoru Tabiat Parkı, İstanbul'un kalabalık ve gürültülü şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Parkın iklimi, İstanbul'un genel iklimine benzer ve dört mevsim ziyaret edilebilir.
 
 ## Flora ve Fauna
 

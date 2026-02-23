@@ -28,7 +28,7 @@ wikidata_id: "Q31390244"
 
 # Havlanlı Hill
 
-Havlanlı Hill, Adana'nın güzide bir bölgesinde yer alan bir tepedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte önemli bir doğal alan oluşturur. Bu tepe, bölgenin coğrafi yapısını ve güzelliğini gözler önüne serer. Havlanlı Hill'i ziyaret ettiğinizde, size sunduğu manzaralar ve doğal güzellikler ile karşılaşacaksınız.
+Havlanlı Hill, Adana'nın güzide bir bölgesinde yer alan bir tepedir. Bu tepe, bölgenin coğrafi yapısını ve güzelliğini gözler önüne serer. Havlanlı Hill'i ziyaret ettiğinizde, size sunduğu manzaralar ve doğal güzellikler ile karşılaşacaksınız.
 
 ## Tarihçe
 

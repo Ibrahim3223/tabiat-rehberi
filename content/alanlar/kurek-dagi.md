@@ -32,7 +32,7 @@ Hakkari'nin dağlık arazisinde yer alan Kürek Dağı, bölgenin doğal güzell
 
 ## Tarihçe
 
-Hakkari'nin dağlık bölgeleri, tarihin sâu izlerini taşıyan bir coğrafyadır. Bu bölge, medeniyetlerin doğduğu ve geliştiği Mezopotamya'nın immediate yakınında yer alır. Tarih boyunca, Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisi altında kalmıştır. Kürek Dağı, bu tarihsel sürecin bir parçası olan bir doğal alan olarak, bölgenin kültürel ve ekonomik yaşamına önemli katkılarda bulunmuştur.
+Hakkari'nin dağlık bölgeleri, tarihin derin izlerini taşıyan bir coğrafyadır. Bu bölge, medeniyetlerin doğduğu ve geliştiği Mezopotamya'nın immediate yakınında yer alır. Tarih boyunca, Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisi altında kalmıştır. Kürek Dağı, bu tarihsel sürecin bir parçası olan bir doğal alan olarak, bölgenin kültürel ve ekonomik yaşamına önemli katkılarda bulunmuştur.
 
 Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde yer alan doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmesi için önemli kaynaklar olmuştur. Bu bölgeler, yaylacılık, hayvancılık ve ticaret yolları için stratejik öneme sahip olmuştur. İnsanların doğa ile kurduğu bu ilişki, bölgenin kültürel mirasının önemli bir parçasını oluşturur. Kürek Dağı da, bu doğal alanlardan biri olarak, bölgenin tarihsel ve kültürel dokusunda önemli bir yer tutar.
 
@@ -48,10 +48,10 @@ Mevsimsel değişimler, Kürek Dağı'nın iklim karakterini şekillendirir. Kı
 
 ## Flora ve Fauna
 
-Kürek Dağı, Hakkari'nin yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu dağlık alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kürek Dağı, Hakkari'nin yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu dağlık alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, alpin çayırlar ve endemik türler hakim. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. 
-Yaban Hayatı açısından, dağ keçileri, kurtlar ve ayılar gibi memeliler, kartallar ve doğan gibi kuşlar ve çeşitli sürüngenler bu bölgenin önemli sakinleri. 
+Bitki Örtüsü olarak, alpin çayırlar ve endemik türler hakim. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor.
+Yaban Hayatı açısından, dağ keçileri, kurtlar ve ayılar gibi memeliler, kartallar ve doğan gibi kuşlar ve çeşitli sürüngenler bu bölgenin önemli sakinleri.
 Ekolojik Değer olarak, bu yüksek dağ ekosistemi, birçok canlıyaşam alanı sunuyor ve bölgenin ekolojik dengesini koruyor.
 
 ## Ziyaret Bilgileri

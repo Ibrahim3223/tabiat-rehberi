@@ -23,7 +23,7 @@ wikidata_id: "Q108228411"
 
 # Yozgat Fatih
 
-Yozgat Fatih, İç Anadolu Bölgesi'nin göbeğinde yer alan bir milli parktır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın kucağına davet ediyor. Yozgat ilinin merkezine uzun bir mesafe uzaklıkta bulunan Yozgat Fatih, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliğinde. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçiler için doğayla iç içe olmak anlamına gelen bir experiencia sunuyor.
+Yozgat Fatih, İç Anadolu Bölgesi'nin göbeğinde yer alan bir milli parktır. Yozgat ilinin merkezine uzun bir mesafe uzaklıkta bulunan Yozgat Fatih, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliğinde. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçiler için doğayla iç içe olmak anlamına gelen bir experiencia sunuyor.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Yozgat Fatih'i ziyaret etmek için, ziyaretçilerin önce Yozgat iline gelmesi g
 
 ## İlginç Bilgiler
 
-- Yozgat Fatih, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Yozgat Fatih, İç Anadolu Bölgesi'nin coğrafi ve kültürel zenginliklerini bir araya getiren bir destinasyondur.
 - Milli parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal iklim özellikleri gösteriyor.

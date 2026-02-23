@@ -28,7 +28,7 @@ wikidata_id: "Q31386757"
 
 # Ovl Tepesi
 
-Ovl Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin tarihi ve doğal güzelliklerini bir arada sunan önemli bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçiler için geniş bir açık alan sunuyor. Tepenin etrafında bulunan tarihi yapılar ve doğal güzellikler, ziyaretçilere zengin bir deneyim sunuyor. Ovl Tepesi, aynı zamanda şehrin manzarasını izlemek için ideal bir nokta.
+Ovl Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin tarihi ve doğal güzelliklerini bir arada sunan önemli bir destinasyon. Tepenin etrafında bulunan tarihi yapılar ve doğal güzellikler, ziyaretçilere zengin bir deneyim sunuyor. Ovl Tepesi, aynı zamanda şehrin manzarasını izlemek için ideal bir nokta.
 
 ## Tarihçe
 

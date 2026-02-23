@@ -28,7 +28,7 @@ wikidata_id: "Q32138667"
 
 # Gözkaya Tepesi
 
-Gözkaya Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin doğal güzelliklerini sunan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, coğrafi yapısı ve doğal güzellikleriyle dikkat çekiyor. Gözkaya Tepesi, özellikle yürüyüş ve doğa severler için ideal bir destinasyon.
+Gözkaya Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin doğal güzelliklerini sunan bir tepe. Bu bölge, coğrafi yapısı ve doğal güzellikleriyle dikkat çekiyor. Gözkaya Tepesi, özellikle yürüyüş ve doğa severler için ideal bir destinasyon.
 
 ## Tarihçe
 

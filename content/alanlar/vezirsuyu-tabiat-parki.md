@@ -30,7 +30,7 @@ wikidata_id: "Q116778920"
 
 # Vezirsuyu Tabiat Parkı
 
-Vezirsuyu Tabiat Parkı, Samsun'un merkezinde, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplar. Bu geniş yeşil alan, şehrin kalabalığından uzaklaşma ve doğanın güzelliklerini keşfetmek için ideal bir yerdir. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun alanları bulunur. Vezirsuyu Tabiat Parkı, hem Samsun halkı hem de şehri ziyaret edenler için keyifli bir kaçış noktasıdır. Parkın girişinde, ziyaretçileri bir tabela karşılar ve parkın zengin flora ve faunası hakkında bilgi verir. Bu tabela, parkı gezerken karşılaşacağınız çeşitli bitki ve hayvan türleri hakkında bilgi verir.
+ Bu geniş yeşil alan, şehrin kalabalığından uzaklaşma ve doğanın güzelliklerini keşfetmek için ideal bir yerdir. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun alanları bulunur. Vezirsuyu Tabiat Parkı, hem Samsun halkı hem de şehri ziyaret edenler için keyifli bir kaçış noktasıdır. Parkın girişinde, ziyaretçileri bir tabela karşılar ve parkın zengin flora ve faunası hakkında bilgi verir. Bu tabela, parkı gezerken karşılaşacağınız çeşitli bitki ve hayvan türleri hakkında bilgi verir.
 
 ## Tarihçe
 

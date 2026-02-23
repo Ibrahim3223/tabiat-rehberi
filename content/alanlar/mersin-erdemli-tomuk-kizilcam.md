@@ -22,7 +22,7 @@ wikidata_id: "Q108227435"
 
 # Mersin-Erdemli-Tomuk Kızılçam
 
-Mersin-Erdemli-Tomuk Kızılçam Milli Parkı, Akdeniz Bölgesi'nin güzide yerlerinden biri olan Mersin'in Erdemli ilçesinde bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş yeşil alan, ziyaretçilerini doğanın kucağına davet etmektedir. Milli parkın içerisinde yer alan Tomuk Kızılçam ormanları, bölgeye özgü flora ve faunayı barındırmaktadır. Bu doğal güzellik, hem yerli hem de yabancı ziyaretçilerin ilgisini çekmektedir. Mersin-Erdemli-Tomuk Kızılçam Milli Parkı, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunmaktadır.
+Mersin-Erdemli-Tomuk Kızılçam Milli Parkı, Akdeniz Bölgesi'nin güzide yerlerinden biri olan Mersin'in Erdemli ilçesinde bulunmaktadır. Milli parkın içerisinde yer alan Tomuk Kızılçam ormanları, bölgeye özgü flora ve faunayı barındırmaktadır. Bu doğal güzellik, hem yerli hem de yabancı ziyaretçilerin ilgisini çekmektedir. Mersin-Erdemli-Tomuk Kızılçam Milli Parkı, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunmaktadır.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Mersin-Erdemli-Tomuk Kızılçam Milli Parkı'nın tarihi geçmişi, bölgenin d
 
 ## Coğrafya
 
-Mersin-Erdemli-Tomuk Kızılçam Milli Parkı, Mersin'in Erdemli ilçesinde yer almaktadır. Milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyan bir coğrafyaya sahiptir. Milli parkın coğrafyası, kızılçam ormanları ile kaplıdır ve bu ormanlar, bölgenin flora ve faunasını barındırmaktadır. Milli parkın iklimi, Akdeniz ikliminin özelliklerini taşır ve bu iklim, ziyaretçilere yıl boyunca ziyaret imkanı sunmaktadır. Milli parkın coğrafyası, ziyaretçilere çeşitli doğa güzellikleri sunmaktadır. Bölge, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunmaktadır.
+Mersin-Erdemli-Tomuk Kızılçam Milli Parkı, Mersin'in Erdemli ilçesinde yer almaktadır. Bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyan bir coğrafyaya sahiptir. Milli parkın coğrafyası, kızılçam ormanları ile kaplıdır ve bu ormanlar, bölgenin flora ve faunasını barındırmaktadır. Milli parkın iklimi, Akdeniz ikliminin özelliklerini taşır ve bu iklim, ziyaretçilere yıl boyunca ziyaret imkanı sunmaktadır. Milli parkın coğrafyası, ziyaretçilere çeşitli doğa güzellikleri sunmaktadır. Bölge, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 
-Mersin-Erdemli-Tomuk Kızılçam Milli Parkı, çeşitli flora ve faunayı barındırmaktadır. Milli parkın flora ve faunası, bölgenin doğal güzelliğini oluşturmaktadır. Milli parkın içerisinde yer alan kızılçam ormanları, bölgenin karakteristik özelliklerini taşıyan bir floranın varlığını göstermektedir. Milli parkın faunası, çeşitli hayvan türlerini barındırmaktadır. Bu hayvan türleri, milli parkın doğal güzelliğini oluşturan önemli bir parçadır. Milli parkın flora ve faunası, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmaktadır. Mevsimsel değişimler, milli parkın flora ve faunasını etkilemektedir. Bu değişimler, milli parkın doğal güzelliğini oluşturan önemli bir faktördür.
+Mersin-Erdemli-Tomuk Kızılçam Milli Parkı, çeşitli flora ve faunayı barındırmaktadır. Milli parkın flora ve faunası, bölgenin doğal güzelliğini oluşturmaktadır. Milli parkın içerisinde yer alan kızılçam ormanları, bölgenin karakteristik özelliklerini taşıyan bir floranın varlığını göstermektedir. Milli parkın faunası, çeşitli hayvan türlerini barındırmaktadır. Bu hayvan türleri, milli parkın doğal güzelliğini oluşturan önemli bir parçadır. Mevsimsel değişimler, milli parkın flora ve faunasını etkilemektedir. Bu değişimler, milli parkın doğal güzelliğini oluşturan önemli bir faktördür.
 
 ## Ziyaret Bilgileri
 
@@ -42,7 +42,6 @@ Mersin-Erdemli-Tomuk Kızılçam Milli Parkı, ziyaretçilerine yıl boyunca ziy
 
 ## İlginç Bilgiler
 
-- Mersin-Erdemli-Tomuk Kızılçam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğündedir.
 - Milli park, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyan bir coğrafyaya sahiptir.
 - Milli parkın flora ve faunası, bölgenin doğal güzelliğini oluşturmaktadır.
 - Milli park, ziyaretçilerine yıl boyunca ziyaret imkanı sunmaktadır.

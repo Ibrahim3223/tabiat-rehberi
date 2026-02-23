@@ -29,7 +29,7 @@ wikidata_id: "Q56015616"
 
 # Conkbayırı
 
-Conkbayırı, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Conkbayırı, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda doğanın güzelliği ile baş başa bırakıyor. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunuyor. Conkbayırı, ziyaretçilerine hem tarihi hem de coğrafi açıdan zengin bir deneyimi sunuyor.
+Conkbayırı, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Conkbayırı, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda doğanın güzelliği ile baş başa bırakıyor. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunuyor. Conkbayırı, ziyaretçilerine hem tarihi hem de coğrafi açıdan zengin bir deneyimi sunuyor.
 
 ## Tarihçe
 

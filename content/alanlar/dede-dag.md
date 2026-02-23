@@ -51,7 +51,7 @@ Doğal güzelliklerin arasında yer alan Dede Dağ, yaklaşık bir şehir bloğu
 
 ## Flora ve Fauna
 
-Dede Dağ, Adana'nın güneşli kıyılarına hakim bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapar. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, yaz aylarında kuraklığa dayanıklı türler hüküm sürer. 
+Dede Dağ, Adana'nın güneşli kıyılarına hakim bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapar. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, yaz aylarında kuraklığa dayanıklı türler hüküm sürer.
 
 Dağın yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artar. Bu bölgelerde, yerli bitkiler ve endemik türler bulunur. Mevsimsel değişimlere uyum sağlayan bu bitkiler, dağ ekosisteminin zenginliğini sağlar.
 

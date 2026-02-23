@@ -32,7 +32,7 @@ Diyarbakır'ın tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzel
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış, tarihi ticaret yollarının kesişme noktası olmuştur. Hamitali Tepe de bu zengin tarihsel mirasın bir parçasıdır.
+Diyarbakır bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış, tarihi ticaret yollarının kesişme noktası olmuştur. Hamitali Tepe de bu zengin tarihsel mirasın bir parçasıdır.
 
 Türkiye'nin doğusunda yer alan bu bölge, tarihin farklı dönemlerinde Sümerler, Asurlar, Persler, Roma ve Osmanlı gibi büyük uygarlıkların etkilerini taşımıştır. Bu doğal alanlar, yalnızca doğanın güzelliğini sunmakla kalmaz, aynı zamanda insanların yaşamlarını sürdürmeleri için gerekli kaynakları da sağlar. Yaylacılık, hayvancılık ve tarım gibi faaliyetler, bu bölgede yaşayan insanların geçimini sağlar.
 
@@ -50,7 +50,7 @@ Mevsimler boyunca Hamitali Tepe'nin iklimi, Diyarbakır'ın genel iklim karakter
 
 ## Flora ve Fauna
 
-Hamitali Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
+Hamitali Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
 
 Bitki Örtüsü olarak, ilkbahar aylarında, dağ yamaçları renkli bir hal alıyor; çiçeklenen otsu bitkiler ve küçük çalılar, bu bölgenin güzelliğine güzellik katıyor. Mevsimsel değişimlerle birlikte, bitki örtüsü değişiyor; yaz aylarında kuraklık nedeniyle bazı bitkiler kurumaya başlarken, sonbahar yağmurlarıyla birlikte yeniden canlanıyorlar.
 
@@ -67,6 +67,6 @@ Diyarbakır'ın güzide dağı Hamitali Tepe, doğa severler için bir cennet. S
 - Hamitali Tepe, Diyarbakır ili sınırları içerisinde yer almaktadır.
 - Diyarbakır'ın coğrafi yapısını oluşturan tepe, ilin kuzeydoğu kesiminde bulunmaktadır.
 - Hamitali Tepe, bölgeye özgü flora ve fauna çeşitliliği ile dikkat çekmektedir.
-- Tepe ve çevresinde históri ve kültürel olarak önemli birçok yerleşim birimi bulunmakta olup, arkeolojik kazılar ve araştırmalar yapılmaktadır.
+- Tepe ve çevresinde tarihi ve kültürel olarak önemli birçok yerleşim birimi bulunmakta olup, arkeolojik kazılar ve araştırmalar yapılmaktadır.
 - Diyarbakır'ın tarihi ve coğrafi zenginliklerini keşfetmek isteyenler için önemli bir uğrak noktasıdır.
 - Bölge, doğal güzelliği ve tarihi önemi nedeniyle ziyaretçilerin ilgisini çekmektedir.

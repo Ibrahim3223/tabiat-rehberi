@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Muhiddin Hamamı"
 date: "2026-01-09T23:11:54.254Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738852"
 
 # Şeyh Muhiddin Hamamı
 
-Şeyh Muhiddin Hamamı, İzmir'in Ödemiş ilçesinde yer alan tarihi ve doğal güzellikleriyle dikkat çeken bir destinasyon. Bu bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Şeyh Muhiddin Hamamı, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Burada, Ege Bölgesi'nin eşsiz manzarasını ve tarihi değerlerini keşfedebilirsiniz. Şeyh Muhiddin Hamamı, Ödemiş'in en önemli turizm noktalarından biri olarak kabul ediliyor.
+Şeyh Muhiddin Hamamı, İzmir'in Ödemiş ilçesinde yer alan tarihi ve doğal güzellikleriyle dikkat çeken bir destinasyon. Şeyh Muhiddin Hamamı, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Burada, Ege Bölgesi'nin eşsiz manzarasını ve tarihi değerlerini keşfedebilirsiniz. Şeyh Muhiddin Hamamı, Ödemiş'in en önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738852"
 
 ## Coğrafya
 
-Şeyh Muhiddin Hamamı, Ödemiş ilçesinin merkezinde yer alıyor ve Ege Bölgesi'nin doğal güzelliklerini ziyaretçilerine sunuyor. Bölgenin coğrafi yapısı, Ege Denizi'ne blízkığı ve çevredeki dağların manzarasıyla birlikte, ziyaretçilere eşsiz bir görsel deneyim sunuyor. Hamamın bulunduğu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Şeyh Muhiddin Hamamı'nın coğrafi konumu, Ege Bölgesi'nin iklimini ve doğal güzelliklerini keşfetmek isteyen ziyaretçilere ideal bir destinasyon sunuyor. Hamamın yakınında, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz.
+Şeyh Muhiddin Hamamı, Ödemiş ilçesinin merkezinde yer alıyor ve Ege Bölgesi'nin doğal güzelliklerini ziyaretçilerine sunuyor. Bölgenin coğrafi yapısı, Ege Denizi'ne blízkığı ve çevredeki dağların manzarasıyla birlikte, ziyaretçilere eşsiz bir görsel deneyim sunuyor. Şeyh Muhiddin Hamamı'nın coğrafi konumu, Ege Bölgesi'nin iklimini ve doğal güzelliklerini keşfetmek isteyen ziyaretçilere ideal bir destinasyon sunuyor. Hamamın yakınında, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz.
 
 ## Flora ve Fauna
 

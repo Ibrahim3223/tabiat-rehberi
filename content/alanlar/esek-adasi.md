@@ -51,11 +51,11 @@ Ada'nın çevresinde, Ege Denizi'nin sakin suları uzanıyor. Eşek Adası, bu s
 
 ## Flora ve Fauna
 
-Eşek Adası, İzmir'in kıyılarında yer alan bir ada ekosistemi olarak, zeytinlikler ve çam ormanlarıyla kaplı bir Akdeniz iklimine sahiptir. 
+Eşek Adası, İzmir'in kıyılarında yer alan bir ada ekosistemi olarak, zeytinlikler ve çam ormanlarıyla kaplı bir Akdeniz iklimine sahiptir.
 
-Bitki Örtüsü olarak, ada ilkbaharda renkli çiçeklerle donanırken, yaz aylarında kuraklığa dayanıklı bitkiler hakimiyet kurar. Kıyı kesimlerde tuzlu suya dayanıklı bitkiler bulunur. 
+Bitki Örtüsü olarak, ada ilkbaharda renkli çiçeklerle donanırken, yaz aylarında kuraklığa dayanıklı bitkiler hakimiyet kurar. Kıyı kesimlerde tuzlu suya dayanıklı bitkiler bulunur.
 
-Yaban Hayatı açısından, ada özellikle deniz kuşları için önemli bir üreme ve göç noktalarından biridir. Ada çevresindeki sular, çeşitli balık türleri için bir yaşam alanı sunarken, kıyı kesimlerde sürüngenler ve küçük memeliler bulunur. 
+Yaban Hayatı açısından, ada özellikle deniz kuşları için önemli bir üreme ve göç noktalarından biridir. Ada çevresindeki sular, çeşitli balık türleri için bir yaşam alanı sunarken, kıyı kesimlerde sürüngenler ve küçük memeliler bulunur.
 
 Ekolojik Değer olarak, ada ekosisteminin izole konumu, benzersiz bir flora ve fauna oluşumuna yol açmıştır. Bu nedenle, ada ekosisteminin koruma altına alınması büyük önem taşır.
 

@@ -29,7 +29,7 @@ wikidata_id: "Q131390688"
 
 # Kuşadalı İbrahim Halveti Mezarı
 
-Kuşadalı İbrahim Halveti Mezarı, Kuşadası'nın merkezinde yer alan ve tarihi öneme sahip bir mezar alanıdır. Bu özel destinasyon, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerini Kuşadası'nın zengin tarihsel mirasıyla buluşturuyor. Mezarlığın bulunduğu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor ve ziyaretçilere geniş bir doğal ambiente sahip oluyor. İbrahim Halveti Mezarı, hem tarihinin derinliklerini keşfetmek hem de Kuşadası'nın doğal güzelliklerini deneyimlemek isteyenler için ideal bir destinasyon.
+Kuşadalı İbrahim Halveti Mezarı, Kuşadası'nın merkezinde yer alan ve tarihi öneme sahip bir mezar alanıdır. Bu özel destinasyon, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerini Kuşadası'nın zengin tarihsel mirasıyla buluşturuyor. İbrahim Halveti Mezarı, hem tarihinin derinliklerini keşfetmek hem de Kuşadası'nın doğal güzelliklerini deneyimlemek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

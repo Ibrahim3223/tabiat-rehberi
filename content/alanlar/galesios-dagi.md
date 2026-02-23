@@ -57,7 +57,7 @@ Bitki Örtüsü:
 Galesios Dağı'nda hakim türler arasında zeytin ve çam ağaçları yer alıyor. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Alpin flora, yükseklik zonlarında kendine has bir güzellik kazandırıyor.
 
 Yaban Hayatı:
-Dağların yükseklik zonalarında, çeşitli memeliler ve kuşlar yaşıyor. Sürüngenler, çam ormanlarının altında ve zeytinliklerde yaşamlarını sürdürüyor. 
+Dağların yükseklik zonalarında, çeşitli memeliler ve kuşlar yaşıyor. Sürüngenler, çam ormanlarının altında ve zeytinliklerde yaşamlarını sürdürüyor.
 
 Ekolojik Değer:
 Galesios Dağı, bölgenin ekolojik dengesini koruyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve doğal güzelliğini korumak için çok önemli.

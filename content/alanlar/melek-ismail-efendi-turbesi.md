@@ -1,7 +1,7 @@
 ---
 title: "Melek İsmail Efendi Türbesi"
 date: "2026-01-10T06:05:51.001Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"

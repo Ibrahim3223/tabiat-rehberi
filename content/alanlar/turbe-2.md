@@ -1,7 +1,7 @@
 ---
 title: "Türbe 2"
 date: "2026-01-10T05:12:05.272Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,11 +30,11 @@ wikidata_id: "Q131391591"
 
 # Türbe 2
 
-Türbe 2 plajı, Aydın'ın Germencik ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan geniş bir sahil şerididir. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Germencik'in turizm potansiyelini artıran önemli noktalarından biri olan bu plaj, Ege Bölgesi'nin en güzel ve temiz sahillerinden biridir. Denizin maviliği ve kumun beyazlığı, ziyaretçilere doğanın güzelliğini sunar. Türbe 2 plajı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
+Türbe 2 plajı, Aydın'ın Germencik ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan geniş bir sahil şerididir. Germencik'in turizm potansiyelini artıran önemli noktalarından biri olan bu plaj, Ege Bölgesi'nin en güzel ve temiz sahillerinden biridir. Denizin maviliği ve kumun beyazlığı, ziyaretçilere doğanın güzelliğini sunar. Türbe 2 plajı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
-Türbe 2 plajının tarihi geçmişi, Germencik'in tarihine paralel olara ilerler. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin uğrak noktalarından biri olmuştur. Plajın etrafındaki tarihi kalıntılar ve yapılar, bu bölgenin zengin tarihini yansıtır. Ancak, plajın kendisinin spesifik bir kuruluşu veya tarihi olaya dayanan bir geçmişi hakkında net bilgiler bulunmamaktadır. Bölgenin tarihi geçmişi, Germencik'in histórik zenginliğini yansıtır. Türbe 2 plajı, bu tarihi bölgenin önemli bir parçasıdır ve ziyaretçilere hem doğal güzellikleri hem de tarihi zenginliği sunar.
+Türbe 2 plajının tarihi geçmişi, Germencik'in tarihine paralel olara ilerler. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin uğrak noktalarından biri olmuştur. Plajın etrafındaki tarihi kalıntılar ve yapılar, bu bölgenin zengin tarihini yansıtır. Ancak, plajın kendisinin spesifik bir kuruluşu veya tarihi olaya dayanan bir geçmişi hakkında net bilgiler bulunmamaktadır. Bölgenin tarihi geçmişi, Germencik'in tarihi zenginliğini yansıtır. Türbe 2 plajı, bu tarihi bölgenin önemli bir parçasıdır ve ziyaretçilere hem doğal güzellikleri hem de tarihi zenginliği sunar.
 
 ## Coğrafya
 

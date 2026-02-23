@@ -1,7 +1,7 @@
 ---
 title: "Rüstem Paşa Hamamı"
 date: "2026-01-09T22:50:00.978Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tekirdağ"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738675"
 
 # Rüstem Paşa Hamamı
 
-Rüstem Paşa Hamamı, Tekirdağ'ın Süleymanpaşa ilçesinde bulunan ve Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak kabul edilen bir yerdir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli turizm merkezlerinden biri olarak dikkat çekmektedir. Bu özel yer, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır. Rüstem Paşa Hamamı, tarihi geçmişi ve eşsiz doğal güzellikleriyle ziyaretçilerini beklemektedir.
+Rüstem Paşa Hamamı, Tekirdağ'ın Süleymanpaşa ilçesinde bulunan ve Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak kabul edilen bir yerdir. Bu özel yer, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmaktadır. Rüstem Paşa Hamamı, tarihi geçmişi ve eşsiz doğal güzellikleriyle ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Rüstem Paşa Hamamı, tarihi geçmişi ile dikkat çekmektedir. Bu hamam, yüzy
 
 ## Coğrafya
 
-Rüstem Paşa Hamamı, Marmara Bölgesi'nin Süleymanpaşa ilçesinde yer almaktadır. Bölge, coğrafi olarak zengin bir yapıya sahiptir. Hamam, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçilere dört mevsim ayrı güzellikler sunar. Rüstem Paşa Hamamı, ziyaretçilerine zengin bir coğrafi yapı ve eşsiz doğal güzellikler sunmaktadır. Bölgenin coğrafi yapısı, tarihi hamamın güzelliğini daha da artırmaktadır. Rüstem Paşa Hamamı, ziyaretçilerini etkileyici bir coğrafi güzelliğe sahip bir yerdir.
+Rüstem Paşa Hamamı, Marmara Bölgesi'nin Süleymanpaşa ilçesinde yer almaktadır. Bölge, coğrafi olarak zengin bir yapıya sahiptir. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçilere dört mevsim ayrı güzellikler sunar. Rüstem Paşa Hamamı, ziyaretçilerine zengin bir coğrafi yapı ve eşsiz doğal güzellikler sunmaktadır. Bölgenin coğrafi yapısı, tarihi hamamın güzelliğini daha da artırmaktadır. Rüstem Paşa Hamamı, ziyaretçilerini etkileyici bir coğrafi güzelliğe sahip bir yerdir.
 
 ## Flora ve Fauna
 

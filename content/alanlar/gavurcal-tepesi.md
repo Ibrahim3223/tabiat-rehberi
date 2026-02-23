@@ -28,7 +28,7 @@ wikidata_id: "Q31390694"
 
 # Gavurcal Tepesi
 
-Gavurcal Tepesi, Tokat ilinin muhteşem manzarasına ev sahipliği yapan bir doğal alan olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tokat'ın coğrafyasını şekillendiren Gavurcal Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir çekim noktası olarak kabul ediliyor. Burada, zengin bir flora ve fauna çeşitliliği bulunuyor ve bu da tepeyi doğa severler için bir cennet haline getiriyor.
+Gavurcal Tepesi, Tokat ilinin muhteşem manzarasına ev sahipliği yapan bir doğal alan olarak dikkat çekiyor. Tokat'ın coğrafyasını şekillendiren Gavurcal Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir çekim noktası olarak kabul ediliyor. Burada, zengin bir flora ve fauna çeşitliliği bulunuyor ve bu da tepeyi doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 

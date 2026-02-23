@@ -29,7 +29,7 @@ wikidata_id: "Q32138497"
 
 # Göllü Tepesi
 
-Göllü Tepesi, Ege Bölgesi'nin en güzel doğal alanlarından biri olarak Muğla'da yer alan bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Göllü Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini çekiyor. Bu tepe, Muğla'nın en önemli turizm noktalarından biri olarak biliniyor. Göllü Tepesi'nin yüksekliği, Muğla'nın diğer bölgelerine göre oldukça dikkat çekici.
+Göllü Tepesi, Ege Bölgesi'nin en güzel doğal alanlarından biri olarak Muğla'da yer alan bir tepe. Göllü Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini çekiyor. Bu tepe, Muğla'nın en önemli turizm noktalarından biri olarak biliniyor. Göllü Tepesi'nin yüksekliği, Muğla'nın diğer bölgelerine göre oldukça dikkat çekici.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Göllü Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Göllü Tepesi, Ege Bölgesi'nin en güzel doğal alanlarından biri olarak Muğla'da yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Göllü Tepesi, Muğla'nın diğer bölgelerine göre oldukça yüksek bir noktada yer alıyor. Bu tepe, Ege Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak biliniyor. Göllü Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, çeşitli mevsimlerde farklı güzellikler sunuyor. Göllü Tepesi, ilkbahar ve sonbahar aylarında en güzel haliyle ziyaretçilerini ağırlıyor.
+Göllü Tepesi, Ege Bölgesi'nin en güzel doğal alanlarından biri olarak Muğla'da yer alıyor. Göllü Tepesi, Muğla'nın diğer bölgelerine göre oldukça yüksek bir noktada yer alıyor. Bu tepe, Ege Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak biliniyor. Göllü Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, çeşitli mevsimlerde farklı güzellikler sunuyor. Göllü Tepesi, ilkbahar ve sonbahar aylarında en güzel haliyle ziyaretçilerini ağırlıyor.
 
 ## Flora ve Fauna
 

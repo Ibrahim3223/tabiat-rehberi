@@ -22,11 +22,11 @@ wikidata_id: "Q108227365"
 
 # Kirinti Koyu Cinar Agaci
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Kirinti Koyu Cinar Agaci, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil cennet, ziyaretçilerini geniş ve zengin bir doğa ile karşılar. Bu doğal alan, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir. Kirinti Koyu Cinar Agaci, doğa severlerin ve macera arayışındaki kişilerin keşfetmek için ideal bir destinasyon olarak görünmektedir.
+ Bu doğal alan, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir. Kirinti Koyu Cinar Agaci, doğa severlerin ve macera arayışındaki kişilerin keşfetmek için ideal bir destinasyon olarak görünmektedir.
 
 ## Tarihçe
 
-Kirinti Koyu Cinar Agaci'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bu bölge, uzun zaman boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmıştır. Tarihi kaynaklara göre, bu bölge, yaban hayatı ve flora açısından zengin bir ekosisteme sahip olmuştur. Kirinti Koyu Cinar Agaci, bugün milli park olarak koruma altına alınmış ve ziyaretçilere, bu doğal güzelliği keşfetme fırsatı sunmaktadır. Geçmişten günümüze, bu bölge, doğa ve tarih meraklıları için önemli bir çekim merkezi olarak kalmıştır.
+Kirinti Koyu Cinar Agaci'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bu bölge, uzun zaman boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmıştır. Tarihi kaynaklara göre, bu bölge, yaban hayatı ve flora açısından zengin bir ekosisteme sahip olmuştur. Geçmişten günümüze, bu bölge, doğa ve tarih meraklıları için önemli bir çekim merkezi olarak kalmıştır.
 
 ## Coğrafya
 
@@ -34,7 +34,7 @@ Kirinti Koyu Cinar Agaci, İç Anadolu Bölgesi'nin coğrafi yapısına uygun ol
 
 ## Flora ve Fauna
 
-Kirinti Koyu Cinar Agaci, flora ve fauna açısından zengin bir ekosisteme sahiptir. Bu milli park, çeşitli bitki türleri ve hayvanları barındırmakta ve ziyaretçilere, bu doğal güzelliği keşfetme fırsatı sunmaktadır. Kirinti Koyu Cinar Agaci'nin flora ve faunası, mevsimsel değişimlere göre farklılık göstermekte ve ziyaretçileri, bu doğal güzelliği keşfetmeleri için, ideal bir zemin hazırlamaktadır. Bu bölge, yaban hayatı ve flora açısından zengin bir ekosisteme sahip olmakla birlikte, ziyaretçilerin, bu doğal güzelliği keşfetmeleri için, önemli bir destinasyon olarak görünmektedir.
+Kirinti Koyu Cinar Agaci, flora ve fauna açısından zengin bir ekosisteme sahiptir. Kirinti Koyu Cinar Agaci'nin flora ve faunası, mevsimsel değişimlere göre farklılık göstermekte ve ziyaretçileri, bu doğal güzelliği keşfetmeleri için, ideal bir zemin hazırlamaktadır. Bu bölge, yaban hayatı ve flora açısından zengin bir ekosisteme sahip olmakla birlikte, ziyaretçilerin, bu doğal güzelliği keşfetmeleri için, önemli bir destinasyon olarak görünmektedir.
 
 ## Ziyaret Bilgileri
 

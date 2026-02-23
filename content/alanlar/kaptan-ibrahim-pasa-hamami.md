@@ -1,7 +1,7 @@
 ---
 title: "Kaptan İbrahim Paşa Hamamı"
 date: "2026-01-09T22:33:36.668Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

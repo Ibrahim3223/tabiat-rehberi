@@ -28,7 +28,7 @@ wikidata_id: "Q31387169"
 
 # Evliya Tepe
 
-Evliya Tepe, Tokat ilinin güzide yerlerinden biri olarak bilinir. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Evliya Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Burada, tarihin izleri ve doğanın mucizeleri bir arada bulunur. Ziyaretçiler, bu güzel tepeyi keşfederek hem doğayı severek hem de tarihe dokunabilirler. Evliya Tepe, Tokat'ı ziyaret edenlerin mutlaka görmesi gereken bir yerdir.
+Evliya Tepe, Tokat ilinin güzide yerlerinden biri olarak bilinir. Evliya Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Burada, tarihin izleri ve doğanın mucizeleri bir arada bulunur. Ziyaretçiler, bu güzel tepeyi keşfederek hem doğayı severek hem de tarihe dokunabilirler. Evliya Tepe, Tokat'ı ziyaret edenlerin mutlaka görmesi gereken bir yerdir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Evliya Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe,
 
 ## Coğrafya
 
-Evliya Tepe, coğrafi olarak dikkat çekici bir konuma sahiptir. Tokat ilinin merkezinde bulunan bu tepe, Karadeniz Bölgesi'nin doğal güzelliklerini yansıtır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezi bölgesinde yer alır. Bu tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak değerlendirilir ve bölgenin coğrafi yapısını oluşturur. Evliya Tepe'nin iklimi, Karadeniz Bölgesi'nin genel iklim özellikleri gösterir. Bu bölge, genellikle yağışlı ve nemli bir yapıya sahiptir. Evliya Tepe'nin çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, tepeye renkli bir görünüm kazandırır. Doğal güzellikleri ve coğrafi konumuyla Evliya Tepe, ziyaretçilerini etkileyen bir yerdir.
+Evliya Tepe, coğrafi olarak dikkat çekici bir konuma sahiptir. Tokat ilinin merkezinde bulunan bu tepe, Karadeniz Bölgesi'nin doğal güzelliklerini yansıtır. Bu tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak değerlendirilir ve bölgenin coğrafi yapısını oluşturur. Evliya Tepe'nin iklimi, Karadeniz Bölgesi'nin genel iklim özellikleri gösterir. Bu bölge, genellikle yağışlı ve nemli bir yapıya sahiptir. Evliya Tepe'nin çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, tepeye renkli bir görünüm kazandırır. Doğal güzellikleri ve coğrafi konumuyla Evliya Tepe, ziyaretçilerini etkileyen bir yerdir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Evliya Tepe, ziyaretçilerine çeşitli deneyimler sunar. Ziyaretçiler, bu güz
 ## İlginç Bilgiler
 
 - Evliya Tepe, Tokat ilinin en önemli doğal güzelliklerinden biridir.
-- Bu tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Evliya Tepe, tarihin farklı dönemlerinde çeşitli medeniyetlerin etkilerini taşımıştır.
 - Bu tepe, geçmişte çeşitli savaşlara ve olaylara tanıklık etmiş ve bu süreçte önemli bir role sahip olmuştur.
 - Evliya Tepe, ziyaretçilerine tarihin sayfalarını açar ve onları geçmişe götürür.

@@ -1,7 +1,7 @@
 ---
 title: "Kıllıoğlu Hamamı"
 date: "2026-01-09T23:13:18.456Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738875"
 
 # Kıllıoğlu Hamamı
 
-Kıllıoğlu Hamamı, İzmir'in Konak ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olan bir doğa cenneti. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunuyor. Bu muhteşem plaj, denizin maviliği ve güneşin ılıklığıyla ziyaretçilerini cezbediyor. Kıllıoğlu Hamamı, hem yerli hem de yabancı turistlerin interestini çekmekte.
+Kıllıoğlu Hamamı, İzmir'in Konak ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olan bir doğa cenneti. Bu muhteşem plaj, denizin maviliği ve güneşin ılıklığıyla ziyaretçilerini cezbediyor. Kıllıoğlu Hamamı, hem yerli hem de yabancı turistlerin interestini çekmekte.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kıllıoğlu Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu
 
 ## Coğrafya
 
-Kıllıoğlu Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak kabul ediliyor. Bu plaj, denizin maviliği ve güneşin ılıklığıyla ziyaretçilerini cezbediyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunuyor. Bu bölgenin coğrafyası, genellikle sıcak ve kurak bir iklime sahip. Yaz aylarında sıcaklık 30 derecenin üzerine çıkarken, kış aylarında 10 derecenin altına düşüyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli bir yapıya sahip. Bu nedenle, ziyaretçiler bu bölgede trekking ve doğa yürüyüşü gibi ativiteler yapabiliyorlar.
+Kıllıoğlu Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak kabul ediliyor. Bu plaj, denizin maviliği ve güneşin ılıklığıyla ziyaretçilerini cezbediyor. Bu bölgenin coğrafyası, genellikle sıcak ve kurak bir iklime sahip. Yaz aylarında sıcaklık 30 derecenin üzerine çıkarken, kış aylarında 10 derecenin altına düşüyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli bir yapıya sahip. Bu nedenle, ziyaretçiler bu bölgede trekking ve doğa yürüyüşü gibi ativiteler yapabiliyorlar.
 
 ## Flora ve Fauna
 

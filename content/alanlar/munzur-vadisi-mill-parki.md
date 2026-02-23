@@ -33,7 +33,7 @@ Tunceli ilinin kalbinde yer alan Munzur Vadisi Millî Parkı, 42.000 hektarlık 
 
 ## Tarihçe
 
-Munzur Vadisi Millî Parkı'nın tarihi, Paleolitik Çağ'a kadar uzanıyor. Bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. 1971 yılında millî park olarak ilan edilmesiyle birlikte, doğal güzellikleri ve zengin ekosistemi koruma altına alınmıştır. Bu karar, bölgenin doğal kaynaklarının korunması ve gelecek nesiller için bảo tồn edilmesini sağladı. Munzur Vadisi, aynı zamanda bölgenin kültürel mirasının önemli bir parçası olarak kabul ediliyor.
+Munzur Vadisi Millî Parkı'nın tarihi, Paleolitik Çağ'a kadar uzanıyor. Bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. 1971 yılında millî park olarak ilan edilmesiyle birlikte, doğal güzellikleri ve zengin ekosistemi koruma altına alınmıştır. Bu karar, bölgenin doğal kaynaklarının korunması ve gelecek nesiller için koruma tồn edilmesini sağladı. Munzur Vadisi, aynı zamanda bölgenin kültürel mirasının önemli bir parçası olarak kabul ediliyor.
 
 ## Coğrafya
 

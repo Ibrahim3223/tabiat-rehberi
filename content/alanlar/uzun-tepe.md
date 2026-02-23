@@ -29,7 +29,7 @@ wikidata_id: "Q31387857"
 
 # Uzun Tepe
 
-Uzun Tepe, İzmir'in Ege Bölgesi'nde yer alan bir tepe olarak, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Bu alan, ziyaretçiler için hem doğayı keşfetme hem de eğlenme fırsatı sunmaktadır. Uzun Tepe'nin konumu, ziyaretçilerin şehrin gürültüsünden uzaklaşarak doğayla baş başa kalmasına olanak tanımaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile dikkat çekmektedir.
+ Bu alan, ziyaretçiler için hem doğayı keşfetme hem de eğlenme fırsatı sunmaktadır. Uzun Tepe'nin konumu, ziyaretçilerin şehrin gürültüsünden uzaklaşarak doğayla baş başa kalmasına olanak tanımaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Uzun Tepe'nin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin etkis
 
 ## Coğrafya
 
-Uzun Tepe, İzmir'in Ege Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak dikkat çekici bir konuma sahiptir. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile dikkat çekmektedir. Uzun Tepe'nin coğrafi yapısı, ziyaretçiler için hem doğayı keşfetme hem de eğlenme fırsatı sunmaktadır. Bu tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Ayrıca, tepe çevresindeki manzara, ziyaretçilere büyüleyici bir görünüm sunmaktadır. İklim olarak, Uzun Tepe'nin bulunduğu bölge, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir. Bu, ziyaretçilere yılın dört mevsiminde farklı güzellikleri keşfetme fırsatı sunmaktadır.
+Uzun Tepe, İzmir'in Ege Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak dikkat çekici bir konuma sahiptir. Uzun Tepe'nin coğrafi yapısı, ziyaretçiler için hem doğayı keşfetme hem de eğlenme fırsatı sunmaktadır. Bu tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Ayrıca, tepe çevresindeki manzara, ziyaretçilere büyüleyici bir görünüm sunmaktadır. İklim olarak, Uzun Tepe'nin bulunduğu bölge, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir.
 
 ## Flora ve Fauna
 

@@ -33,9 +33,9 @@ Muğla'nın eşsiz doğası, Sedir Adası'nda ziyaretçilerini karşılayan bir 
 
 ## Tarihçe
 
-Muğla bölgesi, tarihin derinliklerinden gelen bir zenginliğe sahip. Bu bölgede, Sedir Adası gibi doğal güzellikler, binlerce yıllık uygarlıkların izlerini taşıyor. Likya, Karya ve Roma uygarlıkları, bu topraklarda yaşamış ve her biri bölgeye ayrı bir renk katmış. 
+Muğla bölgesi, tarihin derinliklerinden gelen bir zenginliğe sahip. Bu bölgede, Sedir Adası gibi doğal güzellikler, binlerce yıllık uygarlıkların izlerini taşıyor. Likya, Karya ve Roma uygarlıkları, bu topraklarda yaşamış ve her biri bölgeye ayrı bir renk katmış.
 
-Sedir Adası, bu tarihsel zenginliğin bir parçası olarak, bölgenin doğal güzelliklerinin korunmasına katkıda bulunmuş. Türkiye'de, benzer doğal alanlar, insanlık tarihinin önemli bir bölümünü şekillendirmiş. Yaylacılık, hayvancılık ve ticaret yolları, bu alanların önemini artırmış. İnsanlar, bu doğal cennetlere, yalnızca güzelliklerini görmek için değil, aynı zamanda yaşamın temel ihtiyaçlarını karşılamak için de gelmiş. 
+Sedir Adası, bu tarihsel zenginliğin bir parçası olarak, bölgenin doğal güzelliklerinin korunmasına katkıda bulunmuş. Türkiye'de, benzer doğal alanlar, insanlık tarihinin önemli bir bölümünü şekillendirmiş. Yaylacılık, hayvancılık ve ticaret yolları, bu alanların önemini artırmış. İnsanlar, bu doğal cennetlere, yalnızca güzelliklerini görmek için değil, aynı zamanda yaşamın temel ihtiyaçlarını karşılamak için de gelmiş.
 
 Bu doğal alanların tarihsel önemi, yalnızca güzelliklerinden değil, aynı zamanda insanların bu alanlarla kurduğu ilişkiyi yansıtan toplumsal ve kültürel değerlerden de oluşuyor. Sedir Adası, Muğla bölgesinin zengin tarihini ve doğal güzelliklerini bir araya getiren önemli bir nokta olarak, ziyaretçilerini tarihin derinliklerine götürmeye hazır.
 
@@ -51,9 +51,9 @@ Ada etrafındaki su kaynakları ve komşu alanlar, Sedir Adası'nın çevresel i
 
 ## Flora ve Fauna
 
-Sedir Adası, Muğla'nın güzide bir köşesinde yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlk olarak Sedir Adası'nın flora açısından ele alındığında, zeytinlikler ve çam ormanlarının hakim olduğu bir manzara ile karşılaşılır. İlkbahar aylarında, ada çiçeklerle donanır ve rengarenk bir görünüme bürünür. 
-Yaban hayatı açısından ise, ada özellikle deniz kuşlarının uğrak yeri konumundadır. Kıyı bitkileri, bu kuşların yaşam alanı için önemli bir kaynak teşkil eder. 
+Sedir Adası, Muğla'nın güzide bir köşesinde yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlk olarak Sedir Adası'nın flora açısından ele alındığında, zeytinlikler ve çam ormanlarının hakim olduğu bir manzara ile karşılaşılır. İlkbahar aylarında, ada çiçeklerle donanır ve rengarenk bir görünüme bürünür.
+Yaban hayatı açısından ise, ada özellikle deniz kuşlarının uğrak yeri konumundadır. Kıyı bitkileri, bu kuşların yaşam alanı için önemli bir kaynak teşkil eder.
 Ekolojik olarak bakıldığında, Sedir Adası'nı önemli kılan, izole popülasyonlara ev sahipliği yapmasıdır. Bu ada, çeşitli canlı türleri için önemli bir yaşam alanı oluşturur ve bu nedenle korunması büyük önem taşır.
 
 ## Ziyaret Bilgileri

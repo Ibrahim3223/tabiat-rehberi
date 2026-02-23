@@ -28,7 +28,7 @@ wikidata_id: "Q31389525"
 
 # Yuğruk Tepe
 
-Karaman ilinin coğrafi zenginliklerinden biri olan Yuğruk Tepe, yaklaşık 140 hektarlık bir alanı kaplayan ve şehrin tarihi geçmişine ışık tutan önemli bir noktadır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve şehrin merkezine yakınlığıyla dikkat çeker. Yuğruk Tepe, şehrin tarihi ve kültürel mirasının önemli bir parçası olarak görülür ve ziyaretçilerini geçmişe götürmeyi vaat eder. Karaman'ın coğrafi yapısı içinde yer alan bu tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkar.
+Karaman ilinin coğrafi zenginliklerinden biri olan Yuğruk Tepe, yaklaşık 140 hektarlık bir alanı kaplayan ve şehrin tarihi geçmişine ışık tutan önemli bir noktadır. Yuğruk Tepe, şehrin tarihi ve kültürel mirasının önemli bir parçası olarak görülür ve ziyaretçilerini geçmişe götürmeyi vaat eder. Karaman'ın coğrafi yapısı içinde yer alan bu tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkar.
 
 ## Tarihçe
 

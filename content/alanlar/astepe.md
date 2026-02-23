@@ -29,7 +29,7 @@ wikidata_id: "Q31386810"
 
 # Astepe
 
-Astepe, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. Siirt ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Astepe, eşsiz manzarası ve zengin flora ve faunasıyla ziyaretçilerini beklemektedir. Bu tepe, aynı zamanda tarihi geçmişiyle de dikkat çekmektedir. Astepe, ziyaretçilerine hem doğanın güzelliklerini hem de tarihin zenginliğini sunmaktadır.
+Astepe, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. Siirt ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Astepe, eşsiz manzarası ve zengin flora ve faunasıyla ziyaretçilerini beklemektedir. Bu tepe, aynı zamanda tarihi geçmişiyle de dikkat çekmektedir. Astepe, ziyaretçilerine hem doğanın güzelliklerini hem de tarihin zenginliğini sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Astepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe, çe�
 
 ## Coğrafya
 
-Astepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer almaktadır. Bu tepe, 140 hektarlık bir alanı kaplamaktadır ve yaklaşık 200 futbol sahası büyüklüğündedir. Astepe'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunmaktadır. Bu tepe, aynı zamanda zengin bir flora ve faunaya sahiptir. Astepe, ziyaretçilerine doğal güzelliklerini ve coğrafi çeşitliliğini sunmaktadır. Bu tepe, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici coğrafi oluşumlarından biridir. Astepe, ziyaretçilerine coğrafi güzelliklerini ve doğal zenginliğini sunmaktadır. Bu tepe, aynı zamanda birço ve araştırma projesine de konu olmaktadır.
+Astepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer almaktadır. Astepe'nin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunmaktadır. Bu tepe, aynı zamanda zengin bir flora ve faunaya sahiptir. Astepe, ziyaretçilerine doğal güzelliklerini ve coğrafi çeşitliliğini sunmaktadır. Bu tepe, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici coğrafi oluşumlarından biridir. Astepe, ziyaretçilerine coğrafi güzelliklerini ve doğal zenginliğini sunmaktadır. Bu tepe, aynı zamanda birço ve araştırma projesine de konu olmaktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Astepe, ziyaretçilerine birçok olanak sunmaktadır. Bu tepe, ziyaretçilerine 
 ## İlginç Bilgiler
 
 - Astepe, 140 hektarlık bir alanı kaplamaktadır.
-- Astepe, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Astepe, zengin bir flora ve faunaya sahiptir.
 - Astepe, birçok endemik türe ev sahipliği yapmaktadır.
 - Astepe, Güneydoğu Anadolu Bölgesi'nin en önemli biyolojik çeşitlilik merkezlerinden biridir.

@@ -48,7 +48,7 @@ Doğal kaynaklar ve ekosistem bağlantıları açısından, Kös Dağı'nın bul
 
 ## Flora ve Fauna
 
-Kös Dağı, Çorum'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ, gür ormanlar ve yüksek biyoçeşitlili ile karakterizedir. Dağ ekosisteminde yükseklik zonlarına bağlı olarak farklı flora türleri bulunur. İlkbaharın gelişiyle birlikte, dağ yamaçlarında çeşitli çiçekler açar ve renkli bir manzara oluşur. 
+Kös Dağı, Çorum'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ, gür ormanlar ve yüksek biyoçeşitlili ile karakterizedir. Dağ ekosisteminde yükseklik zonlarına bağlı olarak farklı flora türleri bulunur. İlkbaharın gelişiyle birlikte, dağ yamaçlarında çeşitli çiçekler açar ve renkli bir manzara oluşur.
 
 Bitki örtüsü, mevsimsel değişimlere bağlı olarak farklılık gösterir. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı renklerle dağları süsler. Bu dağda yaşayan hayvanlar, bitki örtüsüne bağımlı olarak beslenip yaşamlarını sürdürürler. Memeliler, kuşlar ve sürüngenler bu dağda yaşamlarını sürdürür.
 

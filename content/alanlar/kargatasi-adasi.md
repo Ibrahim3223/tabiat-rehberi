@@ -50,9 +50,9 @@ Mevsimsel olarak, Kargataşı Adası, Akdeniz ikliminin karakteristik özellikle
 
 ## Flora ve Fauna
 
-Kargataşı Adası, Muğla'nın zeytinli ve çam ormanlarıyla çevrili bir Akdeniz cenneti. Ada ekosistemi, izole popülasyonlar ve deniz kuşlarıyla dikkat çekiyor. 
+Kargataşı Adası, Muğla'nın zeytinli ve çam ormanlarıyla çevrili bir Akdeniz cenneti. Ada ekosistemi, izole popülasyonlar ve deniz kuşlarıyla dikkat çekiyor.
 
-Bitki Örtüsü olarak, ilkbaharda çiçeklerle kaplanan ada, sonbaharda göç eden kuşlarla renkleniyor. Çam ormanları ve zeytinlikler, adanın hakim türlerini oluşturuyor. 
+Bitki Örtüsü olarak, ilkbaharda çiçeklerle kaplanan ada, sonbaharda göç eden kuşlarla renkleniyor. Çam ormanları ve zeytinlikler, adanın hakim türlerini oluşturuyor.
 
 Yaban Hayatı olarak, ada memeliler, kuşlar ve sürüngenlerle zengin bir fauna sunuyor. Deniz kuşları, adanın kıyılarını mesken tutarken, memeliler ve sürüngenler ormanlık alanlarda yaşamlarını sürdürüyor.
 

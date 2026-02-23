@@ -28,7 +28,7 @@ wikidata_id: "Q31386588"
 
 # Delecumi Tepesi
 
-Delecumi Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Delecumi Tepesi, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle bekliyor. Burada, çeşitli bitki türleri ve zengin fauna görebilirsiniz. Tepenin eteklerinde, eski yerleşim yerleri ve tarihi kalıntılar bulunmakta. Delecumi Tepesi, doğa severler ve tarih meraklıları için ideal bir gezi noktası.
+Delecumi Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir tepe. Delecumi Tepesi, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle bekliyor. Burada, çeşitli bitki türleri ve zengin fauna görebilirsiniz. Tepenin eteklerinde, eski yerleşim yerleri ve tarihi kalıntılar bulunmakta. Delecumi Tepesi, doğa severler ve tarih meraklıları için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Delecumi Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Delecumi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Delecumi Tepesi, doğa severler için ideal bir gezi noktası ve ziyaretçilere, doğanın güzelliğini sunuyor. Bu bölgede, iklim koşulları, mevsimsel değişimlere göre şekil alıyor. Kış aylarında, soğuk ve yağışlı bir hava hakimken, yaz aylarında, sıcak ve kurak bir hava hüküm sürüyor. Delecumi Tepesi, coğrafi zenginlikleriyle ziyaretçilerini bekliyor.
+Delecumi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Delecumi Tepesi, doğa severler için ideal bir gezi noktası ve ziyaretçilere, doğanın güzelliğini sunuyor. Bu bölgede, iklim koşulları, mevsimsel değişimlere göre şekil alıyor. Kış aylarında, soğuk ve yağışlı bir hava hakimken, yaz aylarında, sıcak ve kurak bir hava hüküm sürüyor. Delecumi Tepesi, coğrafi zenginlikleriyle ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

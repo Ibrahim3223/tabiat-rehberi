@@ -1,7 +1,7 @@
 ---
 title: "Taşköprüzade Hayrettin Halil Bin Kasım Türbesi"
 date: "2026-01-10T05:38:25.608Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391761"
 
 # Taşköprüzade Hayrettin Halil Bin Kasım Türbesi
 
-Taşköprüzade Hayrettin Halil Bin Kasım Türbesi, Kastamonu'nun Küre ilçesinde yer alan tarihi ve kültürel bir mekan olarak dikkat çekiyor. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda bulunuyor ve çevresi zengin fauna ile dolu. Tarihi geçmişi ile önemli bir kültürel değer olan bu türbe, ziyaretçilerini bekliyor.
+Taşköprüzade Hayrettin Halil Bin Kasım Türbesi, Kastamonu'nun Küre ilçesinde yer alan tarihi ve kültürel bir mekan olarak dikkat çekiyor. Tarihi geçmişi ile önemli bir kültürel değer olan bu türbe, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -51,7 +51,7 @@ Orta Tepe'nin çevresel ilişkileri, bölgenin ekosistem dengesini koruması aç
 
 Orta Tepe, Siirt'in yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çeker.
 
-Yaban hayatı da bir o kadar renkli ve çeşitlidir. Dağ keçileri ve yaban keçileri, dağların kayalık yamaçlarında yaşamını sürdürür. Kuşlar, özellikle göç mevsimlerinde, bu bölgenin gökyüzünü süsler. Sürüngenler, step ve ova ekolojisinin karakteristiğidir. 
+Yaban hayatı da bir o kadar renkli ve çeşitlidir. Dağ keçileri ve yaban keçileri, dağların kayalık yamaçlarında yaşamını sürdürür. Kuşlar, özellikle göç mevsimlerinde, bu bölgenin gökyüzünü süsler. Sürüngenler, step ve ova ekolojisinin karakteristiğidir.
 
 Bu dağ ekosisteminin ekolojik değeri, yükseklik zonlarına bağlı olarak oluşan çeşitli yaşam alanlarını barındırmasıdır. Bu alan, birçok canlı türünün yaşamsal bağımlılıklarının merkezi olarak işlev görür. Bu nedenle, koruma durumu büyük önem taşır.
 

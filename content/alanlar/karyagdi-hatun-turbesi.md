@@ -1,7 +1,7 @@
 ---
 title: "Karyağdı Hatun Türbesi"
 date: "2026-01-10T04:44:38.463Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q19611633"
 
 # Karyağdı Hatun Türbesi
 
-Karyağdı Hatun Türbesi, Ankara'nın Altındağ ilçesinde bulunan bir tarihi mekandır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alır, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Karyağdı Hatun Türbesi, tarihi geçmişi ve mimari yapısı ile dikkat çeker. Bu mekân, Ankara'nın önemli turistik noktalarından biridir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilir. Karyağdı Hatun Türbesi, aynı zamanda Ankara'nın tarihi ve kültürel zenginliğini yansıtması açısından da önemlidir.
+Karyağdı Hatun Türbesi, Ankara'nın Altındağ ilçesinde bulunan bir tarihi mekandır. Karyağdı Hatun Türbesi, tarihi geçmişi ve mimari yapısı ile dikkat çeker. Bu mekân, Ankara'nın önemli turistik noktalarından biridir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilir. Karyağdı Hatun Türbesi, aynı zamanda Ankara'nın tarihi ve kültürel zenginliğini yansıtması açısından da önemlidir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Garip Türbesi"
 date: "2026-01-10T04:56:02.396Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bitlis"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391553"
 
 # Şeyh Garip Türbesi
 
-Şeyh Garip Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan. Bitlis ilinin merkezinde yer alan bu türbe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Şeyh Garip Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Bu özel mekanda, tarihin izlerini ve doğanın güzelliklerini keşfedebilirsiniz.
+Şeyh Garip Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan. Bitlis ilinin merkezinde yer alan bu türbe, yaklaşık 140 hektarlık bir alanı kapsıyor. Şeyh Garip Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Bu özel mekanda, tarihin izlerini ve doğanın güzelliklerini keşfedebilirsiniz.
 
 ## Tarihçe
 

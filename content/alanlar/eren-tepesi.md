@@ -29,7 +29,7 @@ wikidata_id: "Q31385837"
 
 # Eren Tepesi
 
-Eren Tepesi, Muğla'nın güzide bir bölgesinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel manzaralarına sahip. Eren Tepesi, doğa severlerin ve yürüyüş tutkunlarının gözdesi haline gelmiş bir destinasyon. Tepe, yılın her dönemi ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahip. İlkbaharın yeşilliği, yazın sıcakklığı, sonbaharın renk cümbüşü ve kışın karlı manzarası, Eren Tepesi'ni dört mevsim ziyaret etmek için geçerli nedenler.
+Eren Tepesi, Muğla'nın güzide bir bölgesinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Eren Tepesi, doğa severlerin ve yürüyüş tutkunlarının gözdesi haline gelmiş bir destinasyon. Tepe, yılın her dönemi ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahip. İlkbaharın yeşilliği, yazın sıcakklığı, sonbaharın renk cümbüşü ve kışın karlı manzarası, Eren Tepesi'ni dört mevsim ziyaret etmek için geçerli nedenler.
 
 ## Tarihçe
 

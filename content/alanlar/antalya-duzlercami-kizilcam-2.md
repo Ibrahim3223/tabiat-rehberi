@@ -1,7 +1,7 @@
 ---
 title: "Antalya-Duzlercami Kızılçam 2"
 date: "2026-01-09T21:25:58.506Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Antalya"
@@ -22,11 +22,11 @@ wikidata_id: "Q108227852"
 
 # Antalya-Duzlercami Kızılçam 2
 
-Antalya-Duzlercami Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın mucizeleriyle baş başa bırakmaya hazır. Milli parkın sunduğu imkânlar ve doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Burada, kızılçamların yeşilliği ve çevrenin güzelliği, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Milli park, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiş durumda.
+Antalya-Duzlercami Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Milli parkın sunduğu imkânlar ve doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Burada, kızılçamların yeşilliği ve çevrenin güzelliği, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Milli park, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiş durumda.
 
 ## Tarihçe
 
-Antalya-Duzlercami Kızılçam 2 milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölgede, insan yerleşimlerinin eski dönemlere kadar uzandığı bilinmektedir. Ancak, milli parkın kurulduğu tarih tam olarak bilinmemektedir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmış ve doğal güzellikleri, ziyaretçilerini her dönemde etkilemeyi başarmıştır. Milli parkın kurulmasıyla birlikte, bu bölgeye olan ilgi artmış ve doğal güzellikleri korumak amacıyla çeşitli önlemler alınmıştır. Bugün, milli park, doğal güzelliklerini koruyarak, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Antalya-Duzlercami Kızılçam 2 milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölgede, insan yerleşimlerinin eski dönemlere kadar uzandığı bilinmektedir. Ancak, milli parkın kurulduğu tarih tam olarak bilinmemektedir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmış ve doğal güzellikleri, ziyaretçilerini her dönemde etkilemeyi başarmıştır. Milli parkın kurulmasıyla birlikte, bu bölgeye olan ilgi artmış ve doğal güzellikleri korumak amacıyla çeşitli önlemler alınmıştır.
 
 ## Coğrafya
 
@@ -46,4 +46,4 @@ Antalya-Duzlercami Kızılçam 2 milli parkını ziyaret etmek, doğa severler i
 - Milli parkın fauna zenginliği dikkat çekicidir.
 - Milli park, ekolojik dengenin korunmasına önemli katkılar sağlıyor.
 - Milli parkta, mevsimsel değişimler, bitki ve hayvan türlerinin yaşamını etkiliyor.
-- Milli park, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+

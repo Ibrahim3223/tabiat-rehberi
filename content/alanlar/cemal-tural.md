@@ -23,7 +23,7 @@ wikidata_id: "Q108228243"
 
 # Cemal Tural
 
-Cemal Tural milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin flora ve faunasını korumak için önemli bir rol oynuyor. Parkın sunduğu imkanlar, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere eşsiz bir deneyim sunuyor.
+Cemal Tural milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın sunduğu imkanlar, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere eşsiz bir deneyim sunuyor.
 
 ## Tarihçe
 

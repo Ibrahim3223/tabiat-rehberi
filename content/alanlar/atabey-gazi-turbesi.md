@@ -1,7 +1,7 @@
 ---
 title: "Atabey Gazi Türbesi"
 date: "2026-01-10T04:58:20.931Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391506"
 
 # Atabey Gazi Türbesi
 
-Atabey Gazi Türbesi, Kastamonu'nun merkezinde yer alan tarihi bir mekan. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tarihi geçmişi ile dikkat çeken Atabey Gazi Türbesi, ziyaretçilerini bekliyor.
+Atabey Gazi Türbesi, Kastamonu'nun merkezinde yer alan tarihi bir mekan. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tarihi geçmişi ile dikkat çeken Atabey Gazi Türbesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Atabey Gazi Türbesi, yüzyıllar boyunca önemli bir merkez olarak görev yapm�
 
 ## Coğrafya
 
-Atabey Gazi Türbesi, Kastamonu'nun merkezinde yer alan bir bölgedir. Bu bölge, 140 hektarlık yeşil alan ile yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu itibariyle, ziyaretçiler bu bölgede çeşitli bitki türleri ve zengin fauna ile karşılaşabilir. Atabey Gazi Türbesi'nin coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede, yağışlı ve nemli bir iklim hakimdir. Atabey Gazi Türbesi, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Atabey Gazi Türbesi, Kastamonu'nun merkezinde yer alan bir bölgedir. Coğrafi konumu itibariyle, ziyaretçiler bu bölgede çeşitli bitki türleri ve zengin fauna ile karşılaşabilir. Atabey Gazi Türbesi'nin coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede, yağışlı ve nemli bir iklim hakimdir. Atabey Gazi Türbesi, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Flora ve Fauna
 
-Atabey Gazi Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, mevsimsel değişimler ile birlikte, farklı canlılar ve ekosistemler bulunmaktadır. Atabey Gazi Türbesi, doğa meraklıları için önemli bir destinasyon. Ziyaretçiler, bu bölgede çeşitli bitki türleri ve hayvanları yakından inceleyebilir. Atabey Gazi Türbesi'nin flora ve fauna çeşitliliği, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır.
+ Bu bölgede, mevsimsel değişimler ile birlikte, farklı canlılar ve ekosistemler bulunmaktadır. Atabey Gazi Türbesi, doğa meraklıları için önemli bir destinasyon. Ziyaretçiler, bu bölgede çeşitli bitki türleri ve hayvanları yakından inceleyebilir. Atabey Gazi Türbesi'nin flora ve fauna çeşitliliği, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır.
 
 ## Ziyaret Bilgileri
 

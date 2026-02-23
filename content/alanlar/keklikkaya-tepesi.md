@@ -28,7 +28,7 @@ wikidata_id: "Q31390574"
 
 # Keklikkaya Tepesi
 
-Keklikkaya Tepesi, Aksaray ilinin İç Anadolu Bölgesi'nde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Keklikkaya Tepesi, Aksaray il merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, doğa yürüyüşleri ve tarih gezileri için ideal bir destinasyon.
+Keklikkaya Tepesi, Aksaray ilinin İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Keklikkaya Tepesi, Aksaray il merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, doğa yürüyüşleri ve tarih gezileri için ideal bir destinasyon.
 
 ## Tarihçe
 

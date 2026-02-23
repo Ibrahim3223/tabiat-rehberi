@@ -28,7 +28,7 @@ wikidata_id: "Q31581462"
 
 # Karabel Tepesi
 
-Karabel Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan ve doğa severlerin ziyaret ettiği bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Karabel Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burada, çeşitli bitki türleri ve hayvanlar yaşıyor. Tepenin etrafı, zengin flora ve fauna ile çevrili. Karabel Tepesi, doğa yürüyüşleri için ideal bir yer. Ziyaretçiler, bu tepeyi ziyaret ederek doğanın güzelliğini görebiliyorlar.
+Karabel Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alan ve doğa severlerin ziyaret ettiği bir nokta. Karabel Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burada, çeşitli bitki türleri ve hayvanlar yaşıyor. Tepenin etrafı, zengin flora ve fauna ile çevrili. Karabel Tepesi, doğa yürüyüşleri için ideal bir yer. Ziyaretçiler, bu tepeyi ziyaret ederek doğanın güzelliğini görebiliyorlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karabel Tepesi, tarihsel geçmişi olan bir yer. Bu tepe, yüzyıllar boyunca ç
 
 ## Coğrafya
 
-Karabel Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Karabel Tepesi, deniz seviyesinden yüksek bir noktada yer alıyor. Tepenin etrafı, zengin flora ve fauna ile çevrili. Burada, çeşitli bitki türleri ve hayvanlar yaşıyor. Karabel Tepesi, doğa yürüyüşleri için ideal bir yer. Ziyaretçiler, bu tepeyi ziyaret ederek doğanın güzelliğini görebiliyorlar. Tepenin iklimi, Karadeniz Bölgesi'nin iklimine benzer. Burada, yazları serin ve yağmurlu, kışları ise soğuk ve karlı geçer. Karabel Tepesi, çevresindeki diğer tepelerle birlikte, bir dağ silsilesini oluşturuyor.
+Karabel Tepesi, Çorum'un Karadeniz Bölgesi'nde yer alıyor. Karabel Tepesi, deniz seviyesinden yüksek bir noktada yer alıyor. Tepenin etrafı, zengin flora ve fauna ile çevrili. Burada, çeşitli bitki türleri ve hayvanlar yaşıyor. Karabel Tepesi, doğa yürüyüşleri için ideal bir yer. Ziyaretçiler, bu tepeyi ziyaret ederek doğanın güzelliğini görebiliyorlar. Tepenin iklimi, Karadeniz Bölgesi'nin iklimine benzer. Burada, yazları serin ve yağmurlu, kışları ise soğuk ve karlı geçer. Karabel Tepesi, çevresindeki diğer tepelerle birlikte, bir dağ silsilesini oluşturuyor.
 
 ## Flora ve Fauna
 

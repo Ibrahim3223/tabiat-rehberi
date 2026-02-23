@@ -1,7 +1,7 @@
 ---
 title: "Antandros Roma Hamamı"
 date: "2026-01-10T04:30:50.656Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,15 +29,15 @@ wikidata_id: "Q131738780"
 
 # Antandros Roma Hamamı
 
-Antandros Roma Hamamı, Marmara Bölgesi'nin Edremit ilçesinde yer alan tarihi ve doğal bir güzelliği bir araya getiren özel bir yerdir. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık geniş bir yeşil alan olarak dikkat çekmektedir. Tarihi Roma Hamamı, bölgenin en önemli turistik noktalarından biri olarak ziyaretçilerini ağırlamaktadır. Antandros Roma Hamamı, denizin ve doğanın eşsiz güzelliğini birleştiren bir mekan olarak, hem tarih severlerin hem de doğa tutkunlarının ilgisini çekmektedir.
+Antandros Roma Hamamı, Marmara Bölgesi'nin Edremit ilçesinde yer alan tarihi ve doğal bir güzelliği bir araya getiren özel bir yerdir. Tarihi Roma Hamamı, bölgenin en önemli turistik noktalarından biri olarak ziyaretçilerini ağırlamaktadır. Antandros Roma Hamamı, denizin ve doğanın eşsiz güzelliğini birleştiren bir mekan olarak, hem tarih severlerin hem de doğa tutkunlarının ilgisini çekmektedir.
 
 ## Tarihçe
 
-Antandros Roma Hamamı, tarihin derinliklerinden gelen bir geçmişe sahiptir. Roma İmparatorluğu döneminde inşa edilen hamam, o dönemlerin mimari ve kültürel zenginliğini yansıtmaktadır. Tarihi geçmişi ile dikkat çeken bu hamam, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşımıştır. Antandros'un tarihi, Roma Dönemi'nden itibaren zengin bir kültürel mirası içerir. Bölge, tarihi eserleri ve doğal güzellikleriyle ziyaretçilerini beklemektedir. Antandros Roma Hamamı, geçmişin izlerini günümüze taşıyan önemli bir tarihi yapı olarak, ziyaretçilerine unutulmaz bir deneyim sunmaktadır.
+Antandros Roma Hamamı, tarihin derinliklerinden gelen bir geçmişe sahiptir. Roma İmparatorluğu döneminde inşa edilen hamam, o dönemlerin mimari ve kültürel zenginliğini yansıtmaktadır. Tarihi geçmişi ile dikkat çeken bu hamam, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşımıştır. Antandros'un tarihi, Roma Dönemi'nden itibaren zengin bir kültürel mirası içerir. Bölge, tarihi eserleri ve doğal güzellikleriyle ziyaretçilerini beklemektedir.
 
 ## Coğrafya
 
-Antandros Roma Hamamı, Marmara Bölgesi'nin Edremit ilçesinde, denizin ve doğanın harika bir bileşimini sunan bir konuma sahiptir. Bu bölge, 140 hektarlık geniş bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Coğrafi konumu itibariyle, bölgeye ulaşım kolaydır ve ziyaretçilere geniş bir otopark alanı sunulmaktadır. Denizin maviliği ve çevredeki doğanın yeşilliği, bu bölgeyi ziyaretçilere çekici kılmaktadır. Antandros Roma Hamamı, Roma Dönemi'nden kalma tarihi yapıları, geniş yeşil alanları ve plajıyla birlikte, ziyaretçilere geniş bir aktivite yelpazesi sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçilere dört mevsim boyunca keyifli bir gezi imkanı sunar.
+Antandros Roma Hamamı, Marmara Bölgesi'nin Edremit ilçesinde, denizin ve doğanın harika bir bileşimini sunan bir konuma sahiptir. Coğrafi konumu itibariyle, bölgeye ulaşım kolaydır ve ziyaretçilere geniş bir otopark alanı sunulmaktadır. Denizin maviliği ve çevredeki doğanın yeşilliği, bu bölgeyi ziyaretçilere çekici kılmaktadır. Antandros Roma Hamamı, Roma Dönemi'nden kalma tarihi yapıları, geniş yeşil alanları ve plajıyla birlikte, ziyaretçilere geniş bir aktivite yelpazesi sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçilere dört mevsim boyunca keyifli bir gezi imkanı sunar.
 
 ## Flora ve Fauna
 

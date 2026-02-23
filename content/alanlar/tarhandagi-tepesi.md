@@ -28,7 +28,7 @@ wikidata_id: "Q21696176"
 
 # Tarhandağı Tepesi
 
-Tarhandağı Tepesi, Kars'ın doğal güzelliklerini keşfetmek isteyenlerin ilk durağı. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve ziyaretçilerini etkileyici manzaralarla karşılıyor. Kars'ın coğrafi konumu, Tarhandağı Tepesi'ni önemli bir gözlem noktası haline getiriyor. Burada, doğanın güzelliğini ve bölgenin coğrafi özelliklerini bir arada görebilirsiniz.
+Tarhandağı Tepesi, Kars'ın doğal güzelliklerini keşfetmek isteyenlerin ilk durağı. Kars'ın coğrafi konumu, Tarhandağı Tepesi'ni önemli bir gözlem noktası haline getiriyor. Burada, doğanın güzelliğini ve bölgenin coğrafi özelliklerini bir arada görebilirsiniz.
 
 ## Tarihçe
 

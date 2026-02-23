@@ -1,7 +1,7 @@
 ---
 title: "Büyük Hamam"
 date: "2026-01-09T22:34:24.955Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ordu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738710"
 
 # Büyük Hamam
 
-Büyük Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte birçok farklı aktivite için uygun bir ortam sunar. Bu plaj, deniz severlerin ve doğaşığıların buluşma noktalarından biri olarak kabul edilir. Büyük Hamam, ziyaretçilerine sunduğu geniş ve güzel plaj alanı ile birlikte, etrafındaki zengin flora ve fauna ile de dikkat çeker. Bu bölge, hem yerel halk hem de turistler için keyifli ve dinlendirici bir kaçış noktasıdır.
+Büyük Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğa harikasıdır. Bu plaj, deniz severlerin ve doğaşığıların buluşma noktalarından biri olarak kabul edilir. Büyük Hamam, ziyaretçilerine sunduğu geniş ve güzel plaj alanı ile birlikte, etrafındaki zengin flora ve fauna ile de dikkat çeker. Bu bölge, hem yerel halk hem de turistler için keyifli ve dinlendirici bir kaçış noktasıdır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Büyük Hamam'ın tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin i
 
 ## Coğrafya
 
-Büyük Hamam, Karadeniz Bölgesi'nin Ordu ilinin Altınordu ilçesinde bulunur. Bu plaj, Karadeniz'in kıyısında yer alan bir doğa harikasıdır. 140 hektarlık alanı, ziyaretçilerine geniş ve güzel bir plaj sunar. Büyük Hamam'ın coğrafi konumu, ziyaretçilerine farklı aktiviteler için uygun bir ortam sağlar. Plajın etrafı, zengin flora ve fauna ile çevrilidir ve bu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Büyük Hamam'ın iklimi, Karadeniz'in karakteristik iklimine uygun olarak yağışlı ve nemlidir. Bu iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunur. Büyük Hamam, ziyaretçilerine sunduğu doğal güzellikler ve coğrafi konumu ile birlikte, bir bütün olarak düşünülmesi gereken bir destinasyondur. Bu plaj, Karadeniz'in gizli cennetlerinden biri olarak kabul edilir ve ziyaretçilerine unutulmaz bir deneyim sunar.
+Büyük Hamam, Karadeniz Bölgesi'nin Ordu ilinin Altınordu ilçesinde bulunur. Bu plaj, Karadeniz'in kıyısında yer alan bir doğa harikasıdır. 140 hektarlık alanı, ziyaretçilerine geniş ve güzel bir plaj sunar. Büyük Hamam'ın coğrafi konumu, ziyaretçilerine farklı aktiviteler için uygun bir ortam sağlar. Plajın etrafı, zengin flora ve fauna ile çevrilidir ve bu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Büyük Hamam'ın iklimi, Karadeniz'in karakteristik iklimine uygun olarak yağışlı ve nemlidir. Bu iklim, bölgenin flora ve faunasının zenginleşmesine katkıda bulunur. Büyük Hamam, ziyaretçilerine sunduğu doğal güzellikler ve coğrafi konumu ile birlikte, bir bütün olarak düşünülmesi gereken bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Büyük Hamam'a ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunar. Bu pl
 ## İlginç Bilgiler
 
 - Büyük Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Büyük Hamam, ziyaretçilerine sunduğu doğal güzellikler ve coğrafi konumu ile birlikte, bir bütün olarak düşünülmesi gereken bir destinasyondur.
 - Bu plaj, Karadeniz Bölgesi'nin önemli bir parçası olarak kabul edilir ve ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunar.
 - Büyük Hamam'a ziyarette bulunmak isteyenler, en iyi mevsimi seçmelidir.

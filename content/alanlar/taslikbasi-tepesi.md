@@ -28,7 +28,7 @@ wikidata_id: "Q31547350"
 
 # Taşlıkbaşı Tepesi
 
-Taşlıkbaşı Tepesi, Batman'ın merkezine yakın bir konumda yer alır ve şehrin panoramik manzarasını sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunur ve bu doğal güzelliği görmek için her yıl birçok ziyaretçi gelir.
+Taşlıkbaşı Tepesi, Batman'ın merkezine yakın bir konumda yer alır ve şehrin panoramik manzarasını sunar. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunur ve bu doğal güzelliği görmek için her yıl birçok ziyaretçi gelir.
 
 ## Tarihçe
 

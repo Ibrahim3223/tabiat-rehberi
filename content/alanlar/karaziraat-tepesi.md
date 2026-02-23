@@ -28,7 +28,7 @@ wikidata_id: "Q31390738"
 
 # Karaziraat Tepesi
 
-Yozgat'ta bulunan Karaziraat Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olarak dikkat çekiyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Karaziraat Tepesi, bölgenin tarihçesi ve coğrafyası açısından önemli bir rol oynuyor. Tepenin etrafında bulunan köyler ve kasabalar, tepe ile birlikte bir bütün olarak düşünülüyor. Karaziraat Tepesi, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini bekliyor.
+Yozgat'ta bulunan Karaziraat Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olarak dikkat çekiyor. Karaziraat Tepesi, bölgenin tarihçesi ve coğrafyası açısından önemli bir rol oynuyor. Tepenin etrafında bulunan köyler ve kasabalar, tepe ile birlikte bir bütün olarak düşünülüyor. Karaziraat Tepesi, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

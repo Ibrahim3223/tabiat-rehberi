@@ -51,9 +51,9 @@ Kayaboğazı Baraj Gölü, çevresindeki su kaynakları ve ekosistem bağlantıl
 
 ## Flora ve Fauna
 
-Kayaboğazı Baraj Gölü, step bitki örtüsünün hakim olduğu bir bölgede yer alan 1200 hektarlık bir yeşil cennettir. İlkbaharın gelmesiyle birlikte, gölün çevresi rengarenk çiçeklerle donanır. Step bitkileri, gölün su seviyesine göre değişen bir yapıya sahiptir. Sonbaharda, gölün sulak alanlarında göçmen kuşlar görülebilir. 
+Kayaboğazı Baraj Gölü, step bitki örtüsünün hakim olduğu bir bölgede yer alan 1200 hektarlık bir yeşil cennettir. İlkbaharın gelmesiyle birlikte, gölün çevresi rengarenk çiçeklerle donanır. Step bitkileri, gölün su seviyesine göre değişen bir yapıya sahiptir. Sonbaharda, gölün sulak alanlarında göçmen kuşlar görülebilir.
 
-Gölün yaban hayatı, su kuşları ve balıkların çeşitliliğiyle dikkat çeker. Su kuşları, gölün sazlıklarına yuva yapar ve gölün sulak alanlarında beslenir. Balıklar ise, gölün suyunun oksijen seviyesine göre yaşam alanlarını belirler. 
+Gölün yaban hayatı, su kuşları ve balıkların çeşitliliğiyle dikkat çeker. Su kuşları, gölün sazlıklarına yuva yapar ve gölün sulak alanlarında beslenir. Balıklar ise, gölün suyunun oksijen seviyesine göre yaşam alanlarını belirler.
 
 Kayaboğazı Baraj Gölü, ekolojik açıdan önemli bir bölgedir. Göl, göçmen kuşlar için önemli bir durak noktasıdır ve su kuşları için bir yaşam alanı sağlar. Ayrıca, gölün sulak alanları, su bitkileri ve diğer canlılar için de bir habitat oluşturur. Bu nedenle, gölün korunması ve ekolojik dengesinin korunması önemlidir.
 

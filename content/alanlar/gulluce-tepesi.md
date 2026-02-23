@@ -36,7 +36,7 @@ Güllüce Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Güllüce Tepesi, Van şehrinin kuzeyinde yer alan bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin eteklerinde, Van Gölü'nün panoramik manzarasını izleme mümkün. Güllüce Tepesi, yüksekliği ve genişliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin coğrafi konumu, bölgeyi önemli bir turizm merkezi haline getiriyor. Van şehrinin iklimi, Güllüce Tepesi'nin flora ve fauna çeşitliliğini etkiliyor. Tepenin çevresi, zengin bir ekosisteme sahip.
+Güllüce Tepesi, Van şehrinin kuzeyinde yer alan bir tepe. Tepenin eteklerinde, Van Gölü'nün panoramik manzarasını izleme mümkün. Güllüce Tepesi, yüksekliği ve genişliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin coğrafi konumu, bölgeyi önemli bir turizm merkezi haline getiriyor. Van şehrinin iklimi, Güllüce Tepesi'nin flora ve fauna çeşitliliğini etkiliyor. Tepenin çevresi, zengin bir ekosisteme sahip.
 
 ## Flora ve Fauna
 

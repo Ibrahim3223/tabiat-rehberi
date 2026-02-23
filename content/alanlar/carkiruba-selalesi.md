@@ -28,15 +28,15 @@ wikidata_id: "Q61076502"
 
 # Çarkıruba Şelalesi
 
-Rize'nin muhteşem doğası içerisinde yer alan Çarkıruba Şelalesi, ziyaretçilerini büyüleyen bir doğal güzellik. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin bir flora ile fauna sunuyor. Bölgenin tarihi geçmişi, yüzyıllar boyunca süregelen bir doğal güzelliği koruma çabasını gösteriyor. Çarkıruba Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olarak dikkat çekiyor. Ziyaretçiler, bu doğal harikayı görme fırsatı buluyor ve bölgenin zengin doğası hakkında bilgi sahibi oluyor.
+Rize'nin muhteşem doğası içerisinde yer alan Çarkıruba Şelalesi, ziyaretçilerini büyüleyen bir doğal güzellik. Bölgenin tarihi geçmişi, yüzyıllar boyunca süregelen bir doğal güzelliği koruma çabasını gösteriyor. Çarkıruba Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olarak dikkat çekiyor. Ziyaretçiler, bu doğal harikayı görme fırsatı buluyor ve bölgenin zengin doğası hakkında bilgi sahibi oluyor.
 
 ## Tarihçe
 
-Çarkıruba Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca süregelen bir doğal güzelliği koruma çabasını gösteriyor. Bölge, uzun yıllardan beri yerel halk tarafından korunmuş ve doğal güzelliği korunmuştur. Çarkıruba Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olarak dikkat çekiyor. Ziyaretçiler, bu doğal harikayı görme fırsatı buluyor ve bölgenin zengin doğası hakkında bilgi sahibi oluyor. Tarihi geçmişi ile birlikte, Çarkıruba Şelalesi, ziyaretçilerine unutulmaz bir deneyimi sunuyor.
+Çarkıruba Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca süregelen bir doğal güzelliği koruma çabasını gösteriyor. Bölge, uzun yıllardan beri yerel halk tarafından korunmuş ve doğal güzelliği korunmuştur. Çarkıruba Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olarak dikkat çekiyor. Ziyaretçiler, bu doğal harikayı görme fırsatı buluyor ve bölgenin zengin doğası hakkında bilgi sahibi oluyor.
 
 ## Coğrafya
 
-Çarkıruba Şelalesi, Rize'nin Karadeniz Bölgesi'nde yer alıyor. Bölge, 140 hektarlık bir yeşil alan üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Şelalenin yüksekliği, khong 10 metre civarında ve suyun düşüşü, ziyaretçilere unutulmaz bir manzara sunuyor. Çarkıruba Şelalesi'nin etrafı, çeşitli bitki türleri ile çevrili ve zengin bir fauna sunuyor. Bölgenin iklimi, Karadeniz iklimi özellikleri gösteriyor ve ziyaretçilere, yılın her dönemi farklı bir güzellik sunuyor. Çarkıruba Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor.
+Çarkıruba Şelalesi, Rize'nin Karadeniz Bölgesi'nde yer alıyor. Şelalenin yüksekliği, khong 10 metre civarında ve suyun düşüşü, ziyaretçilere unutulmaz bir manzara sunuyor. Çarkıruba Şelalesi'nin etrafı, çeşitli bitki türleri ile çevrili ve zengin bir fauna sunuyor. Bölgenin iklimi, Karadeniz iklimi özellikleri gösteriyor ve ziyaretçilere, yılın her dönemi farklı bir güzellik sunuyor. Çarkıruba Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

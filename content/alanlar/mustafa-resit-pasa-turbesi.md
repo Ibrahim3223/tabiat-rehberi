@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Reşit Paşa Türbesi"
 date: "2026-01-10T07:42:16.644Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391094"
 
 # Mustafa Reşit Paşa Türbesi
 
-Mustafa Reşit Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak görevi görüyor. Bu türbe, aynı zamanda önemli bir tarihi figür olan Mustafa Reşit Paşa'nın son dinlenme yeri. Türbenin mimarisi, klasik Osmanlı tarzını yansıtıyor ve ziyaretçilere bir geçmişe yolculuk sunuyor. Mustafa Reşit Paşa Türbesi, yalnızca tarihi önemiyle değil, aynı zamanda doğal güzelliği ile de ziyaretçilerini cezbediyor.
+Mustafa Reşit Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir türbe ve plaj alanıdır. Bu türbe, aynı zamanda önemli bir tarihi figür olan Mustafa Reşit Paşa'nın son dinlenme yeri. Türbenin mimarisi, klasik Osmanlı tarzını yansıtıyor ve ziyaretçilere bir geçmişe yolculuk sunuyor. Mustafa Reşit Paşa Türbesi, yalnızca tarihi önemiyle değil, aynı zamanda doğal güzelliği ile de ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

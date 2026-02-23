@@ -1,7 +1,7 @@
 ---
 title: "Ebu Said El-Hudri Türbesi"
 date: "2026-01-10T07:26:43.138Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391050"
 
 # Ebu Said El-Hudri Türbesi
 
-Ebu Said El-Hudri Türbesi, İstanbul'un tarihi ve kültürel zenginliklerinin birleştiği noktalarından biri olan Fatih ilçesinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve çevresindeki yeşil alanlar ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir doğal alanı temsil ediyor. Türbenin bulunduğu yer, hem dini hem de tarihi açıdan önemli bir merkez olarak kabul ediliyor. Ebu Said El-Hudri, İslam dünyasında önemli bir figür olarak biliniyor ve türbesi her yıl birçok ziyaretçi tarafından ziyaret ediliyor.
+Ebu Said El-Hudri Türbesi, İstanbul'un tarihi ve kültürel zenginliklerinin birleştiği noktalarından biri olan Fatih ilçesinde yer alıyor. Türbenin bulunduğu yer, hem dini hem de tarihi açıdan önemli bir merkez olarak kabul ediliyor. Ebu Said El-Hudri, İslam dünyasında önemli bir figür olarak biliniyor ve türbesi her yıl birçok ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 

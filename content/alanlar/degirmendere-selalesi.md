@@ -28,7 +28,7 @@ wikidata_id: "Q97207625"
 
 # Değirmendere Şelalesi
 
-Degirmendere Şelalesi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Şelalenin yüksekliği 10 metre civarında olup, suyu yıl boyunca akan bir kaynak tarafından beslenir. Degirmendere Şelalesi, doğa severler için bir cennet olup, trekking, pikni ve doğa fotoğrafçılığı gibi ativiteler için ideal bir yerdir.
+Degirmendere Şelalesi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Şelalenin yüksekliği 10 metre civarında olup, suyu yıl boyunca akan bir kaynak tarafından beslenir. Degirmendere Şelalesi, doğa severler için bir cennet olup, trekking, pikni ve doğa fotoğrafçılığı gibi ativiteler için ideal bir yerdir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Degirmendere Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca insanların bu 
 
 ## Coğrafya
 
-Degirmendere Şelalesi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Şelale, 140 hektarlık bir alanda yer alır ve yaklaşık 200 futbol sahası büyüklüğündedir. Çevresinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Şelalenin yüksekliği 10 metre civarında olup, suyu yıl boyunca akan bir kaynak tarafından beslenir. Degirmendere Şelalesi, trekking, pikni ve doğa fotoğrafçılığı gibi ativiteler için ideal bir yerdir. Şelale çevresinde, çeşitli yürüyüş parkurları ve gözlem noktaları bulunmaktadır. Degirmendere Şelalesi, doğa severler için bir cennet olup, ziyaretçilerini doğanın güzelliği ile karşılar.
+Degirmendere Şelalesi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Çevresinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Şelalenin yüksekliği 10 metre civarında olup, suyu yıl boyunca akan bir kaynak tarafından beslenir. Degirmendere Şelalesi, trekking, pikni ve doğa fotoğrafçılığı gibi ativiteler için ideal bir yerdir. Şelale çevresinde, çeşitli yürüyüş parkurları ve gözlem noktaları bulunmaktadır. Degirmendere Şelalesi, doğa severler için bir cennet olup, ziyaretçilerini doğanın güzelliği ile karşılar.
 
 ## Flora ve Fauna
 

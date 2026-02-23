@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi"
 date: "2026-01-10T07:30:16.586Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390993"
 
 # Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi
 
-Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi, İstanbul'un tarihi ilçelerinden biri olan Fatih'te yer alır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Seyyid Seyfullah Kasım Efendi, Osmanlı döneminde yaşayan önemli bir din adamı ve alimdir. Türbesi ve haziresi, İstanbul'un önemli tarihi ve kültürel mekanlarından biridir. Bu mekan, ziyaretçilerini tarihin derinliklerine götürerek, Osmanlı'nın zengin kültürel mirasını keşfetme fırsatı sunar.
+Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi, İstanbul'un tarihi ilçelerinden biri olan Fatih'te yer alır. Seyyid Seyfullah Kasım Efendi, Osmanlı döneminde yaşayan önemli bir din adamı ve alimdir. Türbesi ve haziresi, İstanbul'un önemli tarihi ve kültürel mekanlarından biridir. Bu mekan, ziyaretçilerini tarihin derinliklerine götürerek, Osmanlı'nın zengin kültürel mirasını keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi, tarihi geçmişi ile dikkat �
 
 ## Coğrafya
 
-Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi, Fatih ilçesinde, İstanbul'un merkezi bölgelerinden birinde yer alır. Bu bölge, yaklaşık 140 hektarlık bir yeşil alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Türbe ve hazire, Marmara Denizi'ne yakın bir konumda bulunur ve ziyaretçilere deniz manzarası sunar. İstanbul'un coğrafi yapısı, tarihi mekanların ve doğal güzelliklerin bir arada bulunmasını sağlar. Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi, bu coğrafi özelliklerin birleştiği önemli bir noktadır. İstanbul'un iklimi, ılıman ve nemli bir yapıya sahiptir ve bu, bölgenin yeşilliklerinin ve doğal güzelliklerinin korunmasına katkıda bulunur.
+Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi, Fatih ilçesinde, İstanbul'un merkezi bölgelerinden birinde yer alır. Türbe ve hazire, Marmara Denizi'ne yakın bir konumda bulunur ve ziyaretçilere deniz manzarası sunar. İstanbul'un coğrafi yapısı, tarihi mekanların ve doğal güzelliklerin bir arada bulunmasını sağlar. Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi, bu coğrafi özelliklerin birleştiği önemli bir noktadır. İstanbul'un iklimi, ılıman ve nemli bir yapıya sahiptir ve bu, bölgenin yeşilliklerinin ve doğal güzelliklerinin korunmasına katkıda bulunur.
 
 ## Flora ve Fauna
 

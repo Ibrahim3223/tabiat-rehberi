@@ -28,7 +28,7 @@ wikidata_id: "Q31391210"
 
 # Eşik Tepe
 
-Eşik Tepe, İç Anadolu Bölgesi'nin kalbinde yer alan bir tepe ve tarihi bir noktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Eşik Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Tarihi geçmişi olan bu tepe, yüzyıllar boyunca insanların yaşamına ev sahipliği yapmış. Coğrafi konumu itibariyle, Eşik Tepe, İç Anadolu Bölgesi'nin önemli noktalarından biri.
+Eşik Tepe, İç Anadolu Bölgesi'nin kalbinde yer alan bir tepe ve tarihi bir noktadır. Eşik Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Tarihi geçmişi olan bu tepe, yüzyıllar boyunca insanların yaşamına ev sahipliği yapmış. Coğrafi konumu itibariyle, Eşik Tepe, İç Anadolu Bölgesi'nin önemli noktalarından biri.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q30598311"
 
 # Titrek Kavak Tabiat Anıtı
 
-Titrek Kavak Tabiat Anıtı, Konya'nın eşsiz doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçilere geniş bir yeşil alan sunuyor. Bu tabiat anıtı, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekiyor. Titrek Kavak Tabiat Anıtı, doğanın güzelliğini ve çeşitliliğini gözler önüne seriyor.
+Titrek Kavak Tabiat Anıtı, Konya'nın eşsiz doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tabiat anıtı, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekiyor. Titrek Kavak Tabiat Anıtı, doğanın güzelliğini ve çeşitliliğini gözler önüne seriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Titrek Kavak Tabiat Anıtı, yüzyıllar boyunca doğa koşullarına göre şeki
 
 ## Coğrafya
 
-Titrek Kavak Tabiat Anıtı, Konya'nın coğrafi yapısı içinde yer alan bir doğal güzellik. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor. Titrek Kavak Tabiat Anıtı, coğrafi konumu itibariyle, ziyaretçilere geniş bir manzara sunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçilere geniş bir yeşil alan sunuyor. Bu tabiat anıtının coğrafi konumu, ziyaretçilerin doğayı gözlemlemesine ve doğal güzelliği deneyimlemesine olanak sağlıyor. Titrek Kavak Tabiat Anıtı, coğrafi yapısı ile dikkat çekiyor ve ziyaretçilere çeşitli doğal güzellikler sunuyor.
+Titrek Kavak Tabiat Anıtı, Konya'nın coğrafi yapısı içinde yer alan bir doğal güzellik. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor. Titrek Kavak Tabiat Anıtı, coğrafi konumu itibariyle, ziyaretçilere geniş bir manzara sunuyor. Bu tabiat anıtının coğrafi konumu, ziyaretçilerin doğayı gözlemlemesine ve doğal güzelliği deneyimlemesine olanak sağlıyor. Titrek Kavak Tabiat Anıtı, coğrafi yapısı ile dikkat çekiyor ve ziyaretçilere çeşitli doğal güzellikler sunuyor.
 
 ## Flora ve Fauna
 

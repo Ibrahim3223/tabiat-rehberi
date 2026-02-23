@@ -1,7 +1,7 @@
 ---
 title: "Demirşeyh Türbesi"
 date: "2026-01-10T07:41:18.994Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çorum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391301"
 
 # Demirşeyh Türbesi
 
-Demirşeyh Türbesi, Karadeniz Bölgesi'nin Sungurlu ilçesinde, Çorum'un doğal güzelliklerine ev sahipliği yapan bir nokta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu bölge, tarihi geçmişinin yanı sıra, coğrafi konumuyla da dikkat çekiyor. Ziyaretçiler, burada hem doğal güzellikleri keşfedebilir hem de tarihi değerleri hakkında bilgi edinebilirler. Demirşeyh Türbesi, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir ve ziyaretçilerini bekliyor.
+Demirşeyh Türbesi, Karadeniz Bölgesi'nin Sungurlu ilçesinde, Çorum'un doğal güzelliklerine ev sahipliği yapan bir nokta. Bu bölge, tarihi geçmişinin yanı sıra, coğrafi konumuyla da dikkat çekiyor. Ziyaretçiler, burada hem doğal güzellikleri keşfedebilir hem de tarihi değerleri hakkında bilgi edinebilirler. Demirşeyh Türbesi, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Demirşeyh Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Demirşeyh Türbesi, Karadeniz Bölgesi'nin coğrafi olarak önemli bir noktasında yer almaktadır. Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu itibariyle, ziyaretçiler bu bölgede hem doğal güzellikleri keşfedebilir hem de tarihi değerleri hakkında bilgi edinebilirler. Demirşeyh Türbesi, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir ve ziyaretçilerini bekliyor. Bu bölge, coğrafi konumuyla birlikte, iklimi ve çevresi ile de dikkat çekmektedir. Ziyaretçiler, Demirşeyh Türbesi'ni ziyaret ederek, hem coğrafi güzellikleri keşfedebilir hem de tarihi değerleri hakkında bilgi edinebilirler. Demirşeyh Türbesi, Karadeniz Bölgesi'nin önemli coğrafi merkezlerinden biri olarak kabul edilir ve ziyaretçilerini bekliyor. Bu bölge, coğrafi konumuyla birlikte, doğal güzellikleri ve tarihi değerleri ile de dikkat çekmektedir.
+Demirşeyh Türbesi, Karadeniz Bölgesi'nin coğrafi olarak önemli bir noktasında yer almaktadır. Coğrafi konumu itibariyle, ziyaretçiler bu bölgede hem doğal güzellikleri keşfedebilir hem de tarihi değerleri hakkında bilgi edinebilirler. Demirşeyh Türbesi, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir ve ziyaretçilerini bekliyor. Bu bölge, coğrafi konumuyla birlikte, iklimi ve çevresi ile de dikkat çekmektedir. Ziyaretçiler, Demirşeyh Türbesi'ni ziyaret ederek, hem coğrafi güzellikleri keşfedebilir hem de tarihi değerleri hakkında bilgi edinebilirler. Demirşeyh Türbesi, Karadeniz Bölgesi'nin önemli coğrafi merkezlerinden biri olarak kabul edilir ve ziyaretçilerini bekliyor. Bu bölge, coğrafi konumuyla birlikte, doğal güzellikleri ve tarihi değerleri ile de dikkat çekmektedir.
 
 ## Flora ve Fauna
 

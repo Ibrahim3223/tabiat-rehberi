@@ -46,11 +46,11 @@ Doğal güzelliklerin bir araya geldiği bu bölgede, Yazır Dağı'nın fizikse
 
 ## Flora ve Fauna
 
-Yazır Dağı, Türkiye'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı bitki türleri ve hayvanlar yaşamaktadır. 
+Yazır Dağı, Türkiye'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı bitki türleri ve hayvanlar yaşamaktadır.
 
-Bitki örtüsünde, ilkbaharda çiçeklenen otsu bitkiler ve dikenli çalılar hakimdir. Sonbaharda, bu bitkiler sararır ve kurur. Dağın yüksek kesimlerinde, alpin flora bulunur. 
+Bitki örtüsünde, ilkbaharda çiçeklenen otsu bitkiler ve dikenli çalılar hakimdir. Sonbaharda, bu bitkiler sararır ve kurur. Dağın yüksek kesimlerinde, alpin flora bulunur.
 
-Yaban hayatı da oldukça çeşitlidir. Memeliler, dağ keçileri ve yaban domuzları gibi türleri barındırır. Kuşlar, özellikle göç mevsimlerinde dağda görülür. Sürüngenler, yılanlar ve kertenkeleler gibi türlerle temsil edilir. 
+Yaban hayatı da oldukça çeşitlidir. Memeliler, dağ keçileri ve yaban domuzları gibi türleri barındırır. Kuşlar, özellikle göç mevsimlerinde dağda görülür. Sürüngenler, yılanlar ve kertenkeleler gibi türlerle temsil edilir.
 
 Yazır Dağı, ekolojik açıdan önemli bir alandır. Bu bölge, çeşitli canlı türlerinin yaşam alanı olması ve doğal dengenin korunması açısından değerlidir. Ancak, koruma durumuyla ilgili daha fazla çalışmaya ihtiyaç duyulmaktadır.
 

@@ -50,11 +50,11 @@ Bölgenin ekosistemi, komşu alanlar ve su kaynakları ile bağlantılı. Küp D
 
 ## Flora ve Fauna
 
-Küp Dağı, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir ekosistem sunar. 
+Küp Dağı, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir ekosistem sunar.
 
 Bitki örtüsüne bakıldığında, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, sararan yapraklar ve göç eden kuşlar manzarayı değiştirir. Dağın yükseklik zonlarında, alpin flora hakimdir ve bu bitki türleri, dağın zor koşullarına adapte olmuştur.
 
-Yaban hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Bu canlılar, dağ ekosisteminin önemli bir parçasını oluşturur ve birbirleriyle olan ekolojik ilişkileri, dağın dengesini korur. Örneğin, bazı memeliler, dağdaki bitkileri tüketirken, bazı kuşlar da bu memelilerin avcısı olarak rol oynar. 
+Yaban hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Bu canlılar, dağ ekosisteminin önemli bir parçasını oluşturur ve birbirleriyle olan ekolojik ilişkileri, dağın dengesini korur. Örneğin, bazı memeliler, dağdaki bitkileri tüketirken, bazı kuşlar da bu memelilerin avcısı olarak rol oynar.
 
 Küp Dağı, yüksek dağ ekolojisi ve endemik türler nedeniyle ekolojik açıdan önemli bir alandır. Bu nedenle, koruma altına alınması ve doğal dengesinin korunması büyük önem taşır.
 

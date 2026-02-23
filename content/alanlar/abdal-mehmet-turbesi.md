@@ -1,7 +1,7 @@
 ---
 title: "Abdal Mehmet Türbesi"
 date: "2026-01-10T06:29:24.065Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390738"
 
 # Abdal Mehmet Türbesi
 
-Abdal Mehmet Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olan Bursa'nın Osmangazi ilçesinde bulunmaktadır. Bu özel mekan, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekmektedir. 140 hektarlık bir alan üzerine kurulu olan Abdal Mehmet Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu geniş alan, ziyaretçilere geniş olanaklar sunmakta ve doğayla iç içe bir deneyim sunmaktadır. Abdal Mehmet Türbesi'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bölge, zengin fauna yapısıyla dikkat çekmektedir. Burada, doğa severler ve tarih meraklıları için birçok olanak bulunmaktadır.
+Abdal Mehmet Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olan Bursa'nın Osmangazi ilçesinde bulunmaktadır. Bu özel mekan, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekmektedir. Bu geniş alan, ziyaretçilere geniş olanaklar sunmakta ve doğayla iç içe bir deneyim sunmaktadır. Abdal Mehmet Türbesi'nin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bölge, zengin fauna yapısıyla dikkat çekmektedir. Burada, doğa severler ve tarih meraklıları için birçok olanak bulunmaktadır.
 
 ## Tarihçe
 

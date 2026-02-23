@@ -22,7 +22,7 @@ wikidata_id: "Q108226176"
 
 # Gogan Gölü 2 Sit Alanı
 
-Gogan Gölü 2 Sit Alanı, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin ve huzur arayanların gözdesi durumunda. Gölün etrafını saran çeşitli bitki türleri ve zengin fauna, bu alanı bir doğa cenneti haline getiriyor. Gogan Gölü 2 Sit Alanı, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirilen her an, anıların arasında özel bir yere sahip oluyor.
+Gogan Gölü 2 Sit Alanı, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Gölün etrafını saran çeşitli bitki türleri ve zengin fauna, bu alanı bir doğa cenneti haline getiriyor. Gogan Gölü 2 Sit Alanı, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirilen her an, anıların arasında özel bir yere sahip oluyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Gogan Gölü 2 Sit Alanı'nın tarihi geçmişi, bölgenin coğrafi yapısı ve 
 
 ## Coğrafya
 
-Gogan Gölü 2 Sit Alanı, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alıyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu sit alanı, göl ve çevresindeki yeşil alanlardan oluşuyor. Bölgenin iklimi, karasal iklim özellikleri göstermekle birlikte, gölün varlığı ve çevresindeki bitki örtüsü, mikro bir iklim dengesi yaratıyor. Gölün suyu, çevresindeki araziden gelen kaynak suları ile beslenmektedir. Bu kaynak suları, bölgenin jeolojik yapısı ve yer altı suyu seviyesi ile ilgilidir. Gogan Gölü 2 Sit Alanı, coğrafi açıdan zengin bir yapıya sahiptir ve ziyaretçilerini doğanın farklı yönleri ile baş başa bırakır.
+Gogan Gölü 2 Sit Alanı, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alıyor. Bölgenin iklimi, karasal iklim özellikleri göstermekle birlikte, gölün varlığı ve çevresindeki bitki örtüsü, mikro bir iklim dengesi yaratıyor. Gölün suyu, çevresindeki araziden gelen kaynak suları ile beslenmektedir. Bu kaynak suları, bölgenin jeolojik yapısı ve yer altı suyu seviyesi ile ilgilidir. Gogan Gölü 2 Sit Alanı, coğrafi açıdan zengin bir yapıya sahiptir ve ziyaretçilerini doğanın farklı yönleri ile baş başa bırakır.
 
 ## Flora ve Fauna
 

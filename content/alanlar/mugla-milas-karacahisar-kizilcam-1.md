@@ -1,7 +1,7 @@
 ---
 title: "Mugla-Milas-Karacahisar Kızılçam 1"
 date: "2026-01-09T20:43:28.494Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Muğla"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227459"
 
 # Mugla-Milas-Karacahisar Kızılçam 1
 
-Mugla-Milas-Karacahisar Kızılçam 1 milli parkı, Muğla'nın Milas ilçesinde yer alan 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekmekte. parkın içerisinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Parkın etrafında bulunan dağlar ve vadiler, ziyaretçilere güzel manzaralar sunmakta. Ayrıca, parkın içerisinde bulunan yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli zaman geçirmeleri için olanak sağlamakta.
+ Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekmekte. parkın içerisinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Parkın etrafında bulunan dağlar ve vadiler, ziyaretçilere güzel manzaralar sunmakta. Ayrıca, parkın içerisinde bulunan yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli zaman geçirmeleri için olanak sağlamakta.
 
 ## Tarihçe
 

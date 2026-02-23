@@ -50,11 +50,11 @@ Budak Dağı, çevresindeki diğer dağlarla ve su kaynaklarıyla birlikte bir b
 
 ## Flora ve Fauna
 
-Budak Dağı, Artvin'in nemli ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Budak Dağı, Artvin'in nemli ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünü oluşturan gür ormanlar, ilkbaharda rengarenk çiçeklerle donanırken, sonbaharda sarı, turuncu ve kırmızı tonlara bürünür. Bu mevsimsel değişim, dağın yükseklik zonalarında farklılaşan alpin flora türlerinin ortaya çıkmasını sağlar. 
+Bitki örtüsünü oluşturan gür ormanlar, ilkbaharda rengarenk çiçeklerle donanırken, sonbaharda sarı, turuncu ve kırmızı tonlara bürünür. Bu mevsimsel değişim, dağın yükseklik zonalarında farklılaşan alpin flora türlerinin ortaya çıkmasını sağlar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle temsil edilir. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri gibi memeliler, kayalık alanlarda ederken, çeşitli kuş türleri göç döneminde buradan geçer. Sürüngenler ise, ılıman iklimin hüküm sürdüğü alanlarda yaşamlarını sürdürür. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle temsil edilir. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri gibi memeliler, kayalık alanlarda ederken, çeşitli kuş türleri göç döneminde buradan geçer. Sürüngenler ise, ılıman iklimin hüküm sürdüğü alanlarda yaşamlarını sürdürür.
 
 Ekolojik değerini koruma altına almak, bu dağ ekosisteminin devamlılığını sağlar. Budak Dağı, yüksek biyoçeşitlilik nedeniyle ekolojik açıdan önemli bir alandır.
 

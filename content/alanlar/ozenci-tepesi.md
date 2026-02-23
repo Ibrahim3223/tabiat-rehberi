@@ -28,7 +28,7 @@ wikidata_id: "Q34829833"
 
 # Özenci Tepesi
 
-Özenci Tepesi, Burdur'un göbeğinde yükselen bir tepe olarak, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Burdur'un önemli bir częsi. Tepenin eteklerinde yeşilin çeşitli tonlarını görme mümkün, özellikle ilkbahar mevsiminde çiçeklerin açmasıyla birlikte bir renk cümbüşü oluşuyor. Özenci Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet.
+Özenci Tepesi, Burdur'un göbeğinde yükselen bir tepe olarak, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde yeşilin çeşitli tonlarını görme mümkün, özellikle ilkbahar mevsiminde çiçeklerin açmasıyla birlikte bir renk cümbüşü oluşuyor. Özenci Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet.
 
 ## Tarihçe
 

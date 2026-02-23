@@ -29,7 +29,7 @@ wikidata_id: "Q134728218"
 
 # Kaya Mezarı 5 (Delikkaya Mahallesi), Altınordu
 
-Kaya Mezarı 5, Delikkaya Mahallesi, Altınordu, Karadeniz Bölgesi'nin önemli noktalarından biridir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu bölge, hem doğal güzellikleri hem de tarihi değerleri ile dikkat çekiyor. Kaya Mezarı 5, ziyaretçilerini Karadeniz'in eşsiz manzaralarıyla karşılayan bir destinasyon. Bölgenin tarihi geçmişi, ziyaretçilere derin bir geçmiş sunuyor. Doğal güzellikleri, ziyaretçilere huzur verici bir ortam sunuyor.
+Kaya Mezarı 5, Delikkaya Mahallesi, Altınordu, Karadeniz Bölgesi'nin önemli noktalarından biridir. Bu bölge, hem doğal güzellikleri hem de tarihi değerleri ile dikkat çekiyor. Kaya Mezarı 5, ziyaretçilerini Karadeniz'in eşsiz manzaralarıyla karşılayan bir destinasyon. Bölgenin tarihi geçmişi, ziyaretçilere derin bir geçmiş sunuyor. Doğal güzellikleri, ziyaretçilere huzur verici bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaya Mezarı 5'in tarihi geçmişi,Karadeniz Bölgesi'nin zengin tarihine ışı
 
 ## Coğrafya
 
-Kaya Mezarı 5, Karadeniz Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bölge, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Kaya Mezarı 5'in coğrafi yapısı, ziyaretçilere Karadeniz'in eşsiz manzaralarını sunuyor. Bölgenin coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi değerleri sunuyor. Kaya Mezarı 5'in coğrafi özellikleri, ziyaretçilere bu bölgenin neden önemli olduğunu anlatıyor. Bölgenin iklimi, ziyaretçilere yılın her dönemi farklı deneyimler sunuyor. Kaya Mezarı 5, ziyaretçilerini Karadeniz'in eşsiz güzellikleriyle karşılayan bir destinasyon.
+Kaya Mezarı 5, Karadeniz Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Kaya Mezarı 5'in coğrafi yapısı, ziyaretçilere Karadeniz'in eşsiz manzaralarını sunuyor. Bölgenin coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi değerleri sunuyor. Kaya Mezarı 5'in coğrafi özellikleri, ziyaretçilere bu bölgenin neden önemli olduğunu anlatıyor. Bölgenin iklimi, ziyaretçilere yılın her dönemi farklı deneyimler sunuyor. Kaya Mezarı 5, ziyaretçilerini Karadeniz'in eşsiz güzellikleriyle karşılayan bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kaya Mezarı 5, ziyaretçilerine çeşitli deneyimler sunuyor. Ziyaretçiler, bu
 ## İlginç Bilgiler
 
 - Kaya Mezarı 5, Karadeniz Bölgesi'nin önemli tarihi noktalarından biridir.
-- Bölge, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Kaya Mezarı 5, ziyaretçilerine çeşitli bitki türleri ve zengin fauna sunuyor.
 - Bölgenin iklimi, ziyaretçilere yılın her dönemi farklı deneyimler sunuyor.
 - Kaya Mezarı 5, ziyaretçilerini Karadeniz'in eşsiz güzellikleriyle karşılayan bir destinasyon.

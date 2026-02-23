@@ -32,7 +32,7 @@ Diyarbakır'ın eşsiz coğrafyası, tarihi ve kültürel zenginlikleriyle dikka
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu topraklar, Hititlerden Osmanlı'ya kadar birçok uygarlığa ev sahipliği yapmıştır. Çapur Tepe, bu zengin tarihsel mirasın bir parçası olarak doğa severleri ve tarih meraklılarını kendine çeker. Türkiye'nin diğer doğal güzellikleri gibi, Çapur Tepe de binlerce yıllık insan yerleşimlerinin ve ticaret yollarının bir parçası olarak önem taşır.
+Diyarbakır bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu topraklar, Hititlerden Osmanlı'ya kadar birçok uygarlığa ev sahipliği yapmıştır. Çapur Tepe, bu zengin tarihsel mirasın bir parçası olarak doğa severleri ve tarih meraklılarını kendine çeker. Türkiye'nin diğer doğal güzellikleri gibi, Çapur Tepe de binlerce yıllık insan yerleşimlerinin ve ticaret yollarının bir parçası olarak önem taşır.
 
 Bu bölgede, insanların doğal alanlarla olan ilişkisi, yüzyıllar boyunca hayvancılık, yaylacılık ve ticaret faaliyetleriyle şekillenmiştir. İnsanların dağlar ve ovalar arasında oluşturduğu hareketlilik, bölgenin kültürel ve ekonomik dokusunu zenginleştirmiştir. Çapur Tepe, bu tarihi ve kültürel bağlam içinde, hem yerel halk hem de ziyaretçiler için önemli bir doğal ve kültürel miras olarak değerlendirilebilir. Bu alanın tarihsel önemi, sadece doğal güzelliği ile değil, aynı zamanda insan yerleşimlerinin ve faaliyetlerinin bir parçası olarak ortaya çıkan zengin kültürel mirasıyla da anlaşılabilir.
 

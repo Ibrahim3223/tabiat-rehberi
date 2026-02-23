@@ -28,7 +28,7 @@ wikidata_id: "Q31385582"
 
 # Kazmadağı Tepesi
 
-Kazmadağı Tepesi, Doğu Anadolu Bölgesi'nin Muş ilinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kazmadağı Tepesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunuyor. Burada, yüzyılların izlerini taşıyan tarihi kalıntılar ile birlikte, çeşitli bitki türleri ve zengin fauna encontrabilir.
+Kazmadağı Tepesi, Doğu Anadolu Bölgesi'nin Muş ilinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Kazmadağı Tepesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunuyor. Burada, yüzyılların izlerini taşıyan tarihi kalıntılar ile birlikte, çeşitli bitki türleri ve zengin fauna encontrabilir.
 
 ## Tarihçe
 

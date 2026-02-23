@@ -1,7 +1,7 @@
 ---
 title: "Himmet Dede Türbesi"
 date: "2026-01-10T06:57:11.670Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390781"
 
 # Himmet Dede Türbesi
 
-Cumayeri, Düzce'de yer alan Himmet Dede Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu yeşil alan, ziyaretçilerine geniş bir açık alanda dinlenme imkanı sunuyor. Himmet Dede Türbesi, Karadeniz Bölgesi'nin önemli turistik mekanlarından biri olarak biliniyor. Tarihi geçmişi ve doğal güzelliği ile bu mekan, birçok ziyaretçi tarafından tercih ediliyor. Ziyaretçiler, hem tarihi hem de doğal güzelliği bir arada görebiliyorlar.
+Cumayeri, Düzce'de yer alan Himmet Dede Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor. Himmet Dede Türbesi, Karadeniz Bölgesi'nin önemli turistik mekanlarından biri olarak biliniyor. Tarihi geçmişi ve doğal güzelliği ile bu mekan, birçok ziyaretçi tarafından tercih ediliyor. Ziyaretçiler, hem tarihi hem de doğal güzelliği bir arada görebiliyorlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Himmet Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Himmet Dede Türbesi, Cumayeri, Düzce'de yer alıyor ve Karadeniz Bölgesi'nin önemli coğrafi noktalarından biri olarak biliniyor. Bu mekan, 140 hektarlık bir alanda yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Himmet Dede Türbesi, deniz seviyesinden yüksek değil ve bu nedenle, ziyaretçiler için ulaşılması kolay bir mekan. Bu mekanın coğrafi konumu, birçok ziyaretçinin ilgisini çekiyor ve ziyaretçiler, bu mekanın doğal güzelliğini görebiliyorlar. Himmet Dede Türbesi'nin coğrafi konumu, Karadeniz Bölgesi'nin önemli coğrafi noktalarından biri olarak kabul ediliyor. Bu mekanın coğrafi konumu, ziyaretçilerin bu mekanı ziyaret etmesini kolaylaştırıyor. Himmet Dede Türbesi, Cumayeri, Düzce'de yer alıyor ve bu mekanın coğrafi konumu, birçok kişinin ilgisini çekiyor.
+Himmet Dede Türbesi, Cumayeri, Düzce'de yer alıyor ve Karadeniz Bölgesi'nin önemli coğrafi noktalarından biri olarak biliniyor. Himmet Dede Türbesi, deniz seviyesinden yüksek değil ve bu nedenle, ziyaretçiler için ulaşılması kolay bir mekan. Bu mekanın coğrafi konumu, birçok ziyaretçinin ilgisini çekiyor ve ziyaretçiler, bu mekanın doğal güzelliğini görebiliyorlar. Himmet Dede Türbesi'nin coğrafi konumu, Karadeniz Bölgesi'nin önemli coğrafi noktalarından biri olarak kabul ediliyor. Bu mekanın coğrafi konumu, ziyaretçilerin bu mekanı ziyaret etmesini kolaylaştırıyor. Himmet Dede Türbesi, Cumayeri, Düzce'de yer alıyor ve bu mekanın coğrafi konumu, birçok kişinin ilgisini çekiyor.
 
 ## Flora ve Fauna
 

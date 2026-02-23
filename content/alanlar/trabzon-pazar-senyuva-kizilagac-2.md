@@ -22,7 +22,7 @@ wikidata_id: "Q108227753"
 
 # Trabzon-Pazar-Senyuva Kizilagac 2
 
-Trabzon-Pazar-Senyuva Kizilagac 2 milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor. Milli parkın konumu, Trabzon'un Pazar ilçesine yakın bir bölgede yer alıyor ve buraya ulaşım oldukça kolay. Bu milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Doğa severler için gerçek bir cennet olan bu milli park, hem gezi hem de doğa ile iç içe olma imkânı sunuyor.
+Trabzon-Pazar-Senyuva Kizilagac 2 milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Milli parkın konumu, Trabzon'un Pazar ilçesine yakın bir bölgede yer alıyor ve buraya ulaşım oldukça kolay. Bu milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Doğa severler için gerçek bir cennet olan bu milli park, hem gezi hem de doğa ile iç içe olma imkânı sunuyor.
 
 ## Tarihçe
 

@@ -30,7 +30,7 @@ wikidata_id: "Q134728431"
 
 # Antiphellos Aslanlı Lahit
 
-Antiphellos Aslanlı Lahit, Antalya'nın Kaş ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir mekan. Bu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Antiphellos Aslanlı Lahit, tarihi geçmişi ve güzel doğası ile ziyaretçilerini çekiyor. Burada, historical bir atmosferi hissedece ve doğanın güzelliğini keşfedeceksiniz.
+Antiphellos Aslanlı Lahit, Antalya'nın Kaş ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir mekan. Antiphellos Aslanlı Lahit, tarihi geçmişi ve güzel doğası ile ziyaretçilerini çekiyor. Burada, historical bir atmosferi hissedece ve doğanın güzelliğini keşfedeceksiniz.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Antiphellos Aslanlı Lahit'in tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Antiphellos Aslanlı Lahit, Antalya'nın Kaş ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, geniş yeşil alanları, tarihi Lahit ve güzel doğası ile ziyaretçilerini çekiyor. Antiphellos Aslanlı Lahit'in coğrafyası, yaklaşık 140 hektarlık bir yeşil alan ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, geniş açık alanlar, tarihi Lahit ve güzel doğa manzaraları ziyaretçilerini bekliyor. Antiphellos Aslanlı Lahit'in iklimi, Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilerine sıcak ve güneşli bir ortam sunuyor.
+Antiphellos Aslanlı Lahit, Antalya'nın Kaş ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, geniş yeşil alanları, tarihi Lahit ve güzel doğası ile ziyaretçilerini çekiyor. Burada, geniş açık alanlar, tarihi Lahit ve güzel doğa manzaraları ziyaretçilerini bekliyor. Antiphellos Aslanlı Lahit'in iklimi, Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilerine sıcak ve güneşli bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Antiphellos Aslanlı Lahit, ziyaretçilerine kolay ulaşım olanakları sunuyor.
 ## İlginç Bilgiler
 
 - Antiphellos Aslanlı Lahit, tarihi ve doğal güzellikleri bir arada sunuyor.
-- Bu alan, yaklaşık 140 hektarlık bir yeşil alan ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Antiphellos Aslanlı Lahit, yüzyıllar boyunca şekillenmiş tarihi geçmişi ile önemli bir tarihi eser.
 - Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Antiphellos Aslanlı Lahit, mevsimsel değişimlere göre flora ve faunası değişiyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q31524828"
 
 # Eğrikaya Tepesi
 
-Isparta'nın doğal güzelliklerini keşfedin. Eğrikaya Tepesi, Akdeniz Bölgesi'nde yer alan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Isparta'nın en yüksek noktalarından biri. Eğrikaya Tepesi, doğa severler ve macera arayanlar için ideal bir destinasyon. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Eğrikaya Tepesi, aynı zamanda Isparta'nın tarihi geçmişini keşfetmek için de ideal bir yer.
+Isparta'nın doğal güzelliklerini keşfedin. Eğrikaya Tepesi, Akdeniz Bölgesi'nde yer alan bir tepe. Eğrikaya Tepesi, doğa severler ve macera arayanlar için ideal bir destinasyon. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Eğrikaya Tepesi, aynı zamanda Isparta'nın tarihi geçmişini keşfetmek için de ideal bir yer.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Eğrikaya Tepesi, Isparta'nın tarihi geçmişinin önemli bir parçası. Bu tep
 
 ## Coğrafya
 
-Eğrikaya Tepesi, Isparta'nın coğrafi yapısının önemli bir parçası. Bu tepe, Akdeniz Bölgesi'nde yer alıyor ve Isparta'nın en yüksek noktalarından biri. Eğrikaya Tepesi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Eğrikaya Tepesi, aynı zamanda Isparta'nın iklimini şekillendiren önemli bir faktör. Bu tepe, Isparta'nın hava durumunu etkileyen bir yer ve burada, çeşitli hava koşulları ile karşılaşabilirsiniz.
+Eğrikaya Tepesi, Isparta'nın coğrafi yapısının önemli bir parçası. Bu tepe, Akdeniz Bölgesi'nde yer alıyor ve Isparta'nın en yüksek noktalarından biri. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Eğrikaya Tepesi, aynı zamanda Isparta'nın iklimini şekillendiren önemli bir faktör. Bu tepe, Isparta'nın hava durumunu etkileyen bir yer ve burada, çeşitli hava koşulları ile karşılaşabilirsiniz.
 
 ## Flora ve Fauna
 

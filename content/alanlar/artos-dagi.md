@@ -51,9 +51,9 @@ Artos Dağı, Van Gölü'nün kuzeyinde yer alan diğer dağlık alanlarla birli
 
 ## Flora ve Fauna
 
-Artos Dağı, Van'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçları renkli çiçeklerle süslenir, alpin flora gökyüzünü selamlar. 
+Artos Dağı, Van'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçları renkli çiçeklerle süslenir, alpin flora gökyüzünü selamlar.
 
-Bitki örtüsünü oluşturan hakim türler arasında çeşitli otsu bitkiler ve çalılar yer alır. Mevsimsel değişimlerle birlikte, sonbaharda dağlar sarı, turuncu ve kırmızı tonlara bürünür. Dağ hayvanları, bu zengin bitki örtüsüne bağımlıdır. Yaban hayatını oluşturan memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli parçalarıdır. 
+Bitki örtüsünü oluşturan hakim türler arasında çeşitli otsu bitkiler ve çalılar yer alır. Mevsimsel değişimlerle birlikte, sonbaharda dağlar sarı, turuncu ve kırmızı tonlara bürünür. Dağ hayvanları, bu zengin bitki örtüsüne bağımlıdır. Yaban hayatını oluşturan memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli parçalarıdır.
 
 Artos Dağı, yüksek dağ ekolojisi ve alpin çayırların bir araya geldiği ender yerlerden biri. Bu nedenle, ekolojik değeri oldukça yüksektir. Ancak, koruma durumu hala geliştirilmeye ihtiyaç duyuyor. Bu alanın korunması, sadece burada yaşayan canlılar için değil, tüm bölgenin ekolojik dengesi için de çok önemli.
 

@@ -43,9 +43,9 @@ Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Kunduz Dağı, yükse
 
 ## Flora ve Fauna
 
-Kunduz Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle doniyor. Çayırlar ve otlaklar, kuraklığa adapte olmuş türlerle dolu. 
+Kunduz Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle doniyor. Çayırlar ve otlaklar, kuraklığa adapte olmuş türlerle dolu.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, kaya yamaçlarında dolaşırken, kartallar ve şahinler gökyüzünde süzülüyor. Sürüngenler, güneşli kayaların üzerinde ısınıyor. Sonbaharda, göç eden kuşlar dağları bir geçit olarak kullanıyor. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, kaya yamaçlarında dolaşırken, kartallar ve şahinler gökyüzünde süzülüyor. Sürüngenler, güneşli kayaların üzerinde ısınıyor. Sonbaharda, göç eden kuşlar dağları bir geçit olarak kullanıyor.
 
 Kunduz Dağı, yükseklik zonları ve alpin flora ile ekolojik açıdan önemli bir bölge. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini sürdürmek için hayati önem taşıyor.
 

@@ -51,7 +51,7 @@ Bölgenin su kaynaklarına yakın olan Çamlık Tepe, komşu alanlardaki ekosist
 
 Çamlık Tepe, Osmaniye'nin maki bitki örtüsüne ev sahipliği yapan dağ ekosisteminin önemli bir parçasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbahar aylarında, çiçeklerin renk cümbüşü ile kaplanan dağ yamaçları, sonbaharda göç eden kuşların konaklama noktalarına dönüşür.
 
-Bitki örtüsünün hakim türleri arasında kuraklığa dayanıklı türler bulunur. Bu bitkiler, dağın yükseklik zonlarına adapte olmuş ve alpin flora ile iç içe geçmişlerdir. Dağ ekosisteminin yükseklik zonları, farklı bitki topluluklarının oluşmasına olanak sağlar. Yaban hayatı da bu ekosisteme uyum sağlamış durumdadır. Memeliler, kuşlar ve sürüngenler, dağın farklı yükseklik zonlarında yaşamını sürdürür. 
+Bitki örtüsünün hakim türleri arasında kuraklığa dayanıklı türler bulunur. Bu bitkiler, dağın yükseklik zonlarına adapte olmuş ve alpin flora ile iç içe geçmişlerdir. Dağ ekosisteminin yükseklik zonları, farklı bitki topluluklarının oluşmasına olanak sağlar. Yaban hayatı da bu ekosisteme uyum sağlamış durumdadır. Memeliler, kuşlar ve sürüngenler, dağın farklı yükseklik zonlarında yaşamını sürdürür.
 
 Dağın ekolojik değeri, yükseklik zonlarına bağlı olarak oluşan farklı ekosistemlerin varlığından kaynaklanır. Bu ekosistemler, birbirine bağımlı olarak çalışır ve dağın doğal dengesini sağlar. Çamlık Tepe'nin korunması, bu ekosistemlerin devamlılığını sağlamak için önemlidir.
 

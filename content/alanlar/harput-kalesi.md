@@ -30,7 +30,7 @@ wikidata_id: "Q6017381"
 
 # Harput Kalesi
 
-Harput Kalesi, Elazığ'ın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir yerleşim yeridir. 140 hektarlık bir alana yayılmış olan kale, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu önemli tarihi mekan, ziyaretçilerini geçmişe götürerek bir zaman yolculuğuna çıkarır. Harput Kalesi, bölgenin en önemli turizm merkezlerinden biri olup, her yıl binlerce ziyaretçi tarafından keşfediliyor. Kaleye gelen ziyaretçiler, tarihi yapıları, müzeleri ve geleneksel evleri görebiliyorlar.
+Harput Kalesi, Elazığ'ın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir yerleşim yeridir. Bu önemli tarihi mekan, ziyaretçilerini geçmişe götürerek bir zaman yolculuğuna çıkarır. Harput Kalesi, bölgenin en önemli turizm merkezlerinden biri olup, her yıl binlerce ziyaretçi tarafından keşfediliyor. Kaleye gelen ziyaretçiler, tarihi yapıları, müzeleri ve geleneksel evleri görebiliyorlar.
 
 ## Tarihçe
 

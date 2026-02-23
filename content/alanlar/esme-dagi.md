@@ -48,9 +48,9 @@ Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Eşme Dağı, bölgenin
 
 ## Flora ve Fauna
 
-Eşme Dağı, Muğla'nın zeytinlikler ve çam ormanları arasında yükselen bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bitki örtüsünde çam ormanları hakimdir ve ilkbaharda çiçek açan zeytin ağaçları ile birlikte renkli bir manzara oluşturur. 
+Eşme Dağı, Muğla'nın zeytinlikler ve çam ormanları arasında yükselen bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bitki örtüsünde çam ormanları hakimdir ve ilkbaharda çiçek açan zeytin ağaçları ile birlikte renkli bir manzara oluşturur.
 
-Yaban hayatı da zengin bir çeşitlilik gösterir. Dağ keçileri ve yaban domuzları gibi memeliler, kartallar ve şahinler gibi kuşlar, ve çeşitli sürüngenler yaşam alanlarını burada bulur. İlkbahar ve sonbahar aylarında, göçmen kuşlar dağların üzerinden geçer ve bu bölgeye renk katar. 
+Yaban hayatı da zengin bir çeşitlilik gösterir. Dağ keçileri ve yaban domuzları gibi memeliler, kartallar ve şahinler gibi kuşlar, ve çeşitli sürüngenler yaşam alanlarını burada bulur. İlkbahar ve sonbahar aylarında, göçmen kuşlar dağların üzerinden geçer ve bu bölgeye renk katar.
 
 Ekolojik değer açısından, Eşme Dağı önemli bir bölge olarak kabul edilir. Zeytinlikler ve çam ormanları, bölgenin ekosistemini dengede tutarak, yaban hayatının çeşitliliğini korur. Ancak, insan faaliyetleri ve iklim değişikliği, bu dengenin bozulmasına neden olabilir. Bu nedenle, Eşme Dağı'nın korunması ve korunmasına dikkat edilmesi önemlidir.
 

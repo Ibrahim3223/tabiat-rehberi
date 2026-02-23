@@ -29,7 +29,7 @@ wikidata_id: "Q135582821"
 
 # Söylemez Baba Kümbeti, Karayazı
 
-Karayazı, Erzurum'un bir ilçesi ve Söylemez Baba Kümbeti, bu bölgenin en önemli tarihi ve kültürel yapılarından biri. 140 hektarlık bir alana yayılan bu kümbet, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Söylemez Baba Kümbeti,Karayazı'nın merkezinde yer alıyor ve ilçe merkezine uzun bir mesafe uzaklıkta. Burada, ziyaretçiler hem tarihi bir yapıyı keşfediyor hem de Karayazı'nın güzel manzarasını izleyebiliyor.
+Karayazı, Erzurum'un bir ilçesi ve Söylemez Baba Kümbeti, bu bölgenin en önemli tarihi ve kültürel yapılarından biri. Söylemez Baba Kümbeti,Karayazı'nın merkezinde yer alıyor ve ilçe merkezine uzun bir mesafe uzaklıkta. Burada, ziyaretçiler hem tarihi bir yapıyı keşfediyor hem de Karayazı'nın güzel manzarasını izleyebiliyor.
 
 ## Tarihçe
 

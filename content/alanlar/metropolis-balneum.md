@@ -29,7 +29,7 @@ wikidata_id: "Q131739215"
 
 # Metropolis Balneum
 
-Torbalı'nın güzel plajlarından biri olan Metropolis Balneum, Ege Bölgesi'nin en güzel kıyılarını sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahip. Torbalı'nın merkezine yakın konumuyla kolay ulaşılabilirlik sunan Metropolis Balneum, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Plajın güzelliği, temizliği ve sunduğu olanaklar, ziyaretçilerin rahat ve keyifli bir gün geçirmesini sağlıyor.
+Torbalı'nın güzel plajlarından biri olan Metropolis Balneum, Ege Bölgesi'nin en güzel kıyılarını sunuyor. Torbalı'nın merkezine yakın konumuyla kolay ulaşılabilirlik sunan Metropolis Balneum, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Plajın güzelliği, temizliği ve sunduğu olanaklar, ziyaretçilerin rahat ve keyifli bir gün geçirmesini sağlıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Metropolis Balneum'un tarihi geçmişi, bölgenin tarihine bağlı olarak şekil
 
 ## Coğrafya
 
-Metropolis Balneum, Torbalı'nın merkezine yakın bir konumda yer alıyor. Plaj, Ege Denizi'nin güzel kıyılarını sunuyor ve geniş bir kumsala sahip. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve yeşilliklerle dolu. Plajın çevresi, çeşitli bitkiler ve ağaçlarla kaplı ve bu doğal güzellik, ziyaretçilerin rahat ve keyifli bir gün geçirmesini sağlıyor. Metropolis Balneum'un iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak sıcak ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu iklim, plajın yıl boyunca ziyaretçilerini ağırlaması için uygun koşullar sunuyor.
+Metropolis Balneum, Torbalı'nın merkezine yakın bir konumda yer alıyor. Plaj, Ege Denizi'nin güzel kıyılarını sunuyor ve geniş bir kumsala sahip. Plajın çevresi, çeşitli bitkiler ve ağaçlarla kaplı ve bu doğal güzellik, ziyaretçilerin rahat ve keyifli bir gün geçirmesini sağlıyor. Metropolis Balneum'un iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak sıcak ve kuru yazlar, ılık ve yağışlı kışlar şeklinde tanımlanabilir. Bu iklim, plajın yıl boyunca ziyaretçilerini ağırlaması için uygun koşullar sunuyor.
 
 ## Flora ve Fauna
 

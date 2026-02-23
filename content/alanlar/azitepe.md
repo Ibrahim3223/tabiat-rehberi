@@ -43,9 +43,9 @@ Jeolojik açıdan bakıldığında, Azıtepe'nin fiziksel yapısı oldukça dikk
 
 ## Flora ve Fauna
 
-Azıtepe dağ ekosistemi, çeşitli yükseklik zonlarına sahip bir bölge olarak dikkat çekiyor. Bu dağda, step bitki örtüsü ve bozkırın hakim olduğu bir manzara karşılıyor bizi. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanıyor. Bu mevsimde, kuraklığa adapte olmuş türler de görülebiliyor. 
+Azıtepe dağ ekosistemi, çeşitli yükseklik zonlarına sahip bir bölge olarak dikkat çekiyor. Bu dağda, step bitki örtüsü ve bozkırın hakim olduğu bir manzara karşılıyor bizi. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanıyor. Bu mevsimde, kuraklığa adapte olmuş türler de görülebiliyor.
 
-Yaban hayat olarak, memeliler ve kuşlar bu bölgede yaşamlarını sürdürüyor. Göç mevsiminde, çeşitli kuş türleri Azıtepe dağlarını bir geçiş noktası olarak kullanıyor. Sürüngenler de bu dağda yaşamlarını sürdürüyor. 
+Yaban hayat olarak, memeliler ve kuşlar bu bölgede yaşamlarını sürdürüyor. Göç mevsiminde, çeşitli kuş türleri Azıtepe dağlarını bir geçiş noktası olarak kullanıyor. Sürüngenler de bu dağda yaşamlarını sürdürüyor.
 
 Azıtepe'nin ekolojik değeri, bu bölgede bulunan yükseklik zonları ve alpin flora thanks to kuraklığa adapte olmuş türlerin varlığından kaynaklanıyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak açısından önemli.
 

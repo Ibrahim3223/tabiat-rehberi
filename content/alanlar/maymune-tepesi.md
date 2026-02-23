@@ -50,11 +50,11 @@ Bölgenin ekosistem bağlantıları açısından önemli bir role sahip olan May
 
 ## Flora ve Fauna
 
-Maymune Tepesi, yarı kurak iklimin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 
+Maymune Tepesi, yarı kurak iklimin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar.
 
-Bitki örtüsünü oluşturan step ve ova bitkileri, ilkbaharın gelmesiyle birlikte renkli bir hal alır. Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. 
+Bitki örtüsünü oluşturan step ve ova bitkileri, ilkbaharın gelmesiyle birlikte renkli bir hal alır. Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker.
 
-Yaban hayatı da aynı şekilde çeşitlilik gösterir. Memeliler ve kuşlar, dağların yüksek kesimlerinde yaşarken, sürüngenler daha çok step ve ova ekosistemlerinde bulunur. Sonbahar mevsiminde, göçmen kuşlar bu bölgeden geçer. 
+Yaban hayatı da aynı şekilde çeşitlilik gösterir. Memeliler ve kuşlar, dağların yüksek kesimlerinde yaşarken, sürüngenler daha çok step ve ova ekosistemlerinde bulunur. Sonbahar mevsiminde, göçmen kuşlar bu bölgeden geçer.
 
 Maymune Tepesi, ekolojik açıdan önemli bir bölgedir. Bu tür dağ ekosistemleri, bölgenin su döngüsünü ve toprak kalitesini korumada önemli bir rol oynar. Bu nedenle, bu alanın korunması gelecek nesiller için büyük önem taşır.
 

@@ -51,11 +51,11 @@ Atdağı, Erzurum'un önemli su kaynaklarına yakın bir konumda bulunur. Paland
 
 ## Flora ve Fauna
 
-Atdağı'nın yüksek dağ ekosisteminde, flora ve fauna çeşitliliği dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Atdağı'nın yüksek dağ ekosisteminde, flora ve fauna çeşitliliği dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü: İlkbahar aylarında, Atdağı'nın alpin çayırları rengarenk çiçeklerle donanıyor. Bu mevsimsel değişim, dağ ekosisteminin canlılığını gözler önüne seriyor. 
+Bitki Örtüsü: İlkbahar aylarında, Atdağı'nın alpin çayırları rengarenk çiçeklerle donanıyor. Bu mevsimsel değişim, dağ ekosisteminin canlılığını gözler önüne seriyor.
 
-Yaban Hayatı: Dağ keçileri ve yaban keçileri, bu dağların yükseklik zonlarında yaşamlarını sürdürüyor. Bahar aylarında, göçmen kuşlar Atdağı'nın gökyüzünü süsüyor. 
+Yaban Hayatı: Dağ keçileri ve yaban keçileri, bu dağların yükseklik zonlarında yaşamlarını sürdürüyor. Bahar aylarında, göçmen kuşlar Atdağı'nın gökyüzünü süsüyor.
 
 Ekolojik Değer: Atdağı, yüksek dağ ekolojisi ve endemik türler bakımından önemli bir bölge. Bu alanın korunması, bölgenin ekolojik dengesinin korunması için büyük önem taşıyor.
 

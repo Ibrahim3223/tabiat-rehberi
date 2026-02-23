@@ -29,7 +29,7 @@ wikidata_id: "Q134728182"
 
 # Akpınar Kaya Mezarı
 
-Akpınar Kaya Mezarı, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi mezar alanıdır. Bu alan, Ege Bölgesi'nin önemli kültürel varlıklarından biri olarak bilinir. 140 hektarlık bir alanı kapsayan bu mezarlık, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Akpınar Kaya Mezarı, ziyaretçiler için hem tarihi hem de kültürel bir deneyim sunar. Bu mezarlık, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan bir bölgede yer alır.
+Akpınar Kaya Mezarı, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi mezar alanıdır. Bu alan, Ege Bölgesi'nin önemli kültürel varlıklarından biri olarak bilinir. Akpınar Kaya Mezarı, ziyaretçiler için hem tarihi hem de kültürel bir deneyim sunar. Bu mezarlık, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan bir bölgede yer alır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Akpınar Kaya Mezarı, tarih öncesi dönemlerden başlayarak çeşitli uygarlı
 
 ## Coğrafya
 
-Akpınar Kaya Mezarı, Manisa'nın Şehzadeler ilçesinde yer alan bir bölgedir. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerini taşır. Mezarlık, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Akpınar Kaya Mezarı, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçiler için önemli bir coğrafi ve kültürel deneyim sunar. Bölge, yaban hayatı ve ekolojik çeşitlilik bakımından da zengindir. Bu mezarlık, Manisa'nın Şehzadeler ilçesinin önemli bir coğrafi ve kültürel varlığı olarak bilinir.
+Akpınar Kaya Mezarı, Manisa'nın Şehzadeler ilçesinde yer alan bir bölgedir. Bu bölge, Ege Bölgesi'nin coğrafi özelliklerini taşır. Akpınar Kaya Mezarı, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçiler için önemli bir coğrafi ve kültürel deneyim sunar. Bölge, yaban hayatı ve ekolojik çeşitlilik bakımından da zengindir. Bu mezarlık, Manisa'nın Şehzadeler ilçesinin önemli bir coğrafi ve kültürel varlığı olarak bilinir.
 
 ## Flora ve Fauna
 

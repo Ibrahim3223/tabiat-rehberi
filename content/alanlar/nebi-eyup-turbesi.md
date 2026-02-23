@@ -1,7 +1,7 @@
 ---
 title: "Nebi Eyüp Türbesi"
 date: "2026-01-10T05:17:27.820Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,15 +29,15 @@ wikidata_id: "Q131391721"
 
 # Nebi Eyüp Türbesi
 
-Nebi Eyüp Türbesi, Mersin'in kıyı şeridinde, Akdeniz'in mavi sularına karşı yer alan tarihi ve doğal bir güzelliktir. Bu alan, yaklaşık 140 hektarlık bir yeşil alan sunar, ki bu yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Nebi Eyüp Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir noktadır. Burada, denizin serinliğini ve güneşin sıcaklığını aynı anda hissedebilirsiniz. Bu türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur, ziyaretçilere doğanın güzelliğini sunar.
+Nebi Eyüp Türbesi, Mersin'in kıyı şeridinde, Akdeniz'in mavi sularına karşı yer alan tarihi ve doğal bir güzelliktir. Nebi Eyüp Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir noktadır. Burada, denizin serinliğini ve güneşin sıcaklığını aynı anda hissedebilirsiniz. Bu türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur, ziyaretçilere doğanın güzelliğini sunar.
 
 ## Tarihçe
 
-Nebi Eyüp Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölgede, geçmişte birçok medeniyet yaşamıştır ve her biri buraya kendi kültürünü ve mimari özelliklerini bırakmıştır. Türbenin tarihi hakkında kesin bilgiler bulunmasa da, bölgenin históriyası oldukça zengindir. Mersin, tarihin birçok döneminde önemli bir yerleşim yeri olarak kabul edilmiştir. Nebi Eyüp Türbesi, bu bölgenin tarihi ve kültürel öneminin bir parçasıdır. Ziyaretçiler, buradaki tarihi yapıları inceleyerek geçmişin izlerini sürdürebilirler. Tüm bu özellikler, Nebi Eyüp Türbesi'ni önemli bir kültürel ve tarihi merkez haline getirir.
+Nebi Eyüp Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölgede, geçmişte birçok medeniyet yaşamıştır ve her biri buraya kendi kültürünü ve mimari özelliklerini bırakmıştır. Türbenin tarihi hakkında kesin bilgiler bulunmasa da, bölgenin tarihiı oldukça zengindir. Mersin, tarihin birçok döneminde önemli bir yerleşim yeri olarak kabul edilmiştir. Nebi Eyüp Türbesi, bu bölgenin tarihi ve kültürel öneminin bir parçasıdır. Ziyaretçiler, buradaki tarihi yapıları inceleyerek geçmişin izlerini sürdürebilirler. Tüm bu özellikler, Nebi Eyüp Türbesi'ni önemli bir kültürel ve tarihi merkez haline getirir.
 
 ## Coğrafya
 
-Nebi Eyüp Türbesi, Mersin'in kıyı şeridinde yer alır ve Akdeniz'in mavi sularına karşı uzanır. Bu bölge, coğrafi olarak özel bir konuma sahiptir. Türbe, yaklaşık 140 hektarlık bir yeşil alan içerisinde yer alır, bu da yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin coğrafyası, denize yakın konumu ve yeşil alanları ile ziyaretçilere çeşitli olanaklar sunar. İklim, tipik Akdeniz iklimi özellikleri taşır; yani yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçer. Bu coğrafi özellikler, Nebi Eyüp Türbesi'ni hem doğa severler hem de tarih meraklıları için çekici bir destinasyon haline getirir. Ayrıca, çevredeki diğer tarihi ve doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunar.
+Nebi Eyüp Türbesi, Mersin'in kıyı şeridinde yer alır ve Akdeniz'in mavi sularına karşı uzanır. Bu bölge, coğrafi olarak özel bir konuma sahiptir. Bölgenin coğrafyası, denize yakın konumu ve yeşil alanları ile ziyaretçilere çeşitli olanaklar sunar. İklim, tipik Akdeniz iklimi özellikleri taşır; yani yazlar sıcak ve kurak, kışlar ise ılıman ve yağışlı geçer. Bu coğrafi özellikler, Nebi Eyüp Türbesi'ni hem doğa severler hem de tarih meraklıları için çekici bir destinasyon haline getirir. Ayrıca, çevredeki diğer tarihi ve doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunar.
 
 ## Flora ve Fauna
 

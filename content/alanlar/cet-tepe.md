@@ -30,7 +30,7 @@ wikidata_id: "Q84604883"
 
 # Çet Tepe
 
-Mersin'in Erdemli ilçesinde yer alan Çet Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, ziyaretçilerini Akdeniz Bölgesi'nin zengin doğasıyla baş başa bırakıyor. Çet Tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak ön plana çıkıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor.
+Mersin'in Erdemli ilçesinde yer alan Çet Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Bu bölge, ziyaretçilerini Akdeniz Bölgesi'nin zengin doğasıyla baş başa bırakıyor. Çet Tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak ön plana çıkıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

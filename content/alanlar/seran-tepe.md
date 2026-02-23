@@ -47,7 +47,7 @@ Doğal bir yapı olarak Şeran Tepe, çevresindeki diğer dağlar ve tepelerle b
 
 İklim açısından Şeran Tepe, bölgenin karakteristik mevsimsel özelliklerini taşır. Yaz aylarında sıcaklık ve nem artarken, kış aylarında soğuk hava ve yağışlar görülür. Bu mevsimsel değişimler, bölgenin ekosistemini etkiler ve doğal yaşamın çeşitliliğini sağlar. Hava durumu, bölgenin coğrafi yapısı ve yüksekliği nedeniyle değişkenlik gösterir ve bu, Şeran Tepe'nin çevresindeki diğer dağlar ve vadilerle birlikte bir bütünü oluşturur.
 
-Bölgenin su kaynakları ve ekosistem bağlantıları, Şeran Tepe'nin çevresel ilişkilerini belirler. Batman Çayı, bölgenin ana su kaynağını oluşturur ve bu çay, Şeran Tepe'nin eteklerinde bulunan tarım arazilerini sulayarak bölgenin ekonomik yaşamına katkı sağlar. Şeran Tepe, bölgenin doğal güzelliklerini koruma altına alma ve ekosistemi bảo tồn etmek için önemli bir role sahiptir ve bu nedenle, çevreye duyarlı bir yaklaşım gereklidir.
+Bölgenin su kaynakları ve ekosistem bağlantıları, Şeran Tepe'nin çevresel ilişkilerini belirler. Batman Çayı, bölgenin ana su kaynağını oluşturur ve bu çay, Şeran Tepe'nin eteklerinde bulunan tarım arazilerini sulayarak bölgenin ekonomik yaşamına katkı sağlar. Şeran Tepe, bölgenin doğal güzelliklerini koruma altına alma ve ekosistemi koruma tồn etmek için önemli bir role sahiptir ve bu nedenle, çevreye duyarlı bir yaklaşım gereklidir.
 
 ## Flora ve Fauna
 

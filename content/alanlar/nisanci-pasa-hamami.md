@@ -1,7 +1,7 @@
 ---
 title: "Nişancı Paşa Hamamı"
 date: "2026-01-09T23:41:47.206Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739127"
 
 # Nişancı Paşa Hamamı
 
-Nişancı Paşa Hamamı, İstanbul'un Eyüpsultan ilçesinde bulunan ve Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olan bir alandır. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi tarihi ve doğal güzelliklerle dolu. Bu alan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbeden bir destinasyon. Nişancı Paşa Hamamı, İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenlerin sığınabileceği bir yer olarak dikkat çekiyor. Bu yeşil cennet, ziyaretçilerine dinlenmek, doğayı keşfetme ve tarihi öğrenmek için ideal bir ortam sunuyor.
+Nişancı Paşa Hamamı, İstanbul'un Eyüpsultan ilçesinde bulunan ve Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olan bir alandır. Bu alan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbeden bir destinasyon. Nişancı Paşa Hamamı, İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenlerin sığınabileceği bir yer olarak dikkat çekiyor. Bu yeşil cennet, ziyaretçilerine dinlenmek, doğayı keşfetme ve tarihi öğrenmek için ideal bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Nişancı Paşa Hamamı'nın tarihi geçmişi, Osmanlı İmparatorluğu dönemin
 
 ## Coğrafya
 
-Nişancı Paşa Hamamı, Eyüpsultan ilçesinde, İstanbul'un kuzeyinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli coğrafi özelliklerinden biri olan Boğaziçi'nin kıyısında bulunuyor. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi tarihi ve doğal güzelliklerle dolu. Bu bölgenin coğrafi konumu, ziyaretçilerine önemli bir avantaj sunuyor. Ziyaretçiler, bu bölgede doğayı keşfedebilir, tarihi öğrenebilir ve dinlenebilir. Nişancı Paşa Hamamı'nın coğrafi konumu, İstanbul'un diğer önemli destinasyonlarına yakın mesafede. Bu bölge, toplu taşıma araçları ile kolayca ulaşılabilir. Bu bölgenin iklimi, Marmara Bölgesi'nin iklimine benzer. Bu bölgede, dört mevsim yaşanıyor ve her mevsim, ziyaretçilerine farklı bir deneyim sunuyor.
+Nişancı Paşa Hamamı, Eyüpsultan ilçesinde, İstanbul'un kuzeyinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli coğrafi özelliklerinden biri olan Boğaziçi'nin kıyısında bulunuyor. Bu bölgenin coğrafi konumu, ziyaretçilerine önemli bir avantaj sunuyor. Ziyaretçiler, bu bölgede doğayı keşfedebilir, tarihi öğrenebilir ve dinlenebilir. Nişancı Paşa Hamamı'nın coğrafi konumu, İstanbul'un diğer önemli destinasyonlarına yakın mesafede. Bu bölge, toplu taşıma araçları ile kolayca ulaşılabilir. Bu bölgenin iklimi, Marmara Bölgesi'nin iklimine benzer. Bu bölgede, dört mevsim yaşanıyor ve her mevsim, ziyaretçilerine farklı bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

@@ -27,7 +27,7 @@ Küçük Akgöl, Türkiye'nin büyüleyici doğal güzelliklerinden biri olarak 
 
 ## Tarihçe
 
-Küçük Akgöl, ülkemizin zengin doğal mirasının bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin sâu sayfalarında gizli, ancak geniş bir coğrafyada çeşitli uygarlıkların izlerini taşıyor. Anadolu, tarih boyunca Hititlerden Roma İmparatorluğu'na, Bizans'tan Osmanlı'ya kadar birçok medeniyete ev sahipliği yapmış ve her biri bu topraklarda izlerini bırakmıştır.
+Küçük Akgöl, ülkemizin zengin doğal mirasının bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin derin sayfalarında gizli, ancak geniş bir coğrafyada çeşitli uygarlıkların izlerini taşıyor. Anadolu, tarih boyunca Hititlerden Roma İmparatorluğu'na, Bizans'tan Osmanlı'ya kadar birçok medeniyete ev sahipliği yapmış ve her biri bu topraklarda izlerini bırakmıştır.
 
 Doğal alanlar gibi Küçük Akgöl, insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan halkların geleneksel faaliyetleri arasında yer almıştır. Ayrıca, ticaret yollarının geçtiği bu coğrafya, farklı kültürlerin karşılaşma ve etkileşim noktaları olarak hizmet vermiştir.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31551826"
 
 # Herbelaş Tepesi
 
-Herbelaş Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Mardin'in coğrafi konumu nedeniyle, Herbelaş Tepesi de çeşitli bitki türlerine ev sahipliği yapıyor. Tepenin etrafında, zengin fauna ile karşılaşma mümkün. Bu bölge, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini bekliyor.
+Herbelaş Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olarak karşımıza çıkıyor. Mardin'in coğrafi konumu nedeniyle, Herbelaş Tepesi de çeşitli bitki türlerine ev sahipliği yapıyor. Tepenin etrafında, zengin fauna ile karşılaşma mümkün. Bu bölge, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

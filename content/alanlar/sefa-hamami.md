@@ -1,7 +1,7 @@
 ---
 title: "Sefa Hamamı"
 date: "2026-01-09T22:50:51.508Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738619"
 
 # Sefa Hamamı
 
-Sefa Hamamı, İstanbul'un tarihi mekanlarından biri olarak Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunur. Bu tarihi hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sefa Hamamı, ziyaretçilerini tarihi atmosferi ve güzel mimarisiyle karşılar. Bu mekan, İstanbul'un tarihi geçmişini ve kültürel zenginliğini yansıtan önemli bir noktadır. Sefa Hamamı, gezi severlerin ve tarih meraklılarının mutlaka ziyaret etmesi gereken bir yerdir.
+Sefa Hamamı, İstanbul'un tarihi mekanlarından biri olarak Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunur. Bu tarihi hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Sefa Hamamı, ziyaretçilerini tarihi atmosferi ve güzel mimarisiyle karşılar. Bu mekan, İstanbul'un tarihi geçmişini ve kültürel zenginliğini yansıtan önemli bir noktadır. Sefa Hamamı, gezi severlerin ve tarih meraklılarının mutlaka ziyaret etmesi gereken bir yerdir.
 
 ## Tarihçe
 

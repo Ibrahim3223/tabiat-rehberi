@@ -29,7 +29,7 @@ wikidata_id: "Q31529669"
 
 # Boylu Tepesi
 
-Boylu Tepesi, İç Anadolu Bölgesi'nin büyüleyici doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, doğa severleri bekliyor. Boylu Tepesi, hem doğal güzellikleri hem de coğrafi konumuyla dikkat çekiyor. Burada, ziyaretçiler hem doğanın tadını çıkarabilir hem de bölgenin tarihini keşfedebilir.
+Boylu Tepesi, İç Anadolu Bölgesi'nin büyüleyici doğal güzelliklerinden biridir. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, doğa severleri bekliyor. Boylu Tepesi, hem doğal güzellikleri hem de coğrafi konumuyla dikkat çekiyor. Burada, ziyaretçiler hem doğanın tadını çıkarabilir hem de bölgenin tarihini keşfedebilir.
 
 ## Tarihçe
 

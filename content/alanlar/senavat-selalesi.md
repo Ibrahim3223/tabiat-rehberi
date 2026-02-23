@@ -28,7 +28,7 @@ wikidata_id: "Q97212596"
 
 # Senavat Şelalesi
 
-Senavat Şelalesi, İç Anadolu Bölgesi'nin doğal güzelliklerinin arasında gizli bir cennet olarak karşımıza çıkıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada doğa severler için birçok gezi ve keşif imkanı sunuyor. Şelalenin güzelliği ve çevredeki yeşillik, ziyaretçilere huzurlu bir atmosfer sunuyor. Senavat Şelalesi, yerel turizmin önemli noktalarından biri olarak dikkat çekiyor ve doğa tutkunlarının ziyaret etmesi gereken bir destinasyon olarak görülüyor.
+Senavat Şelalesi, İç Anadolu Bölgesi'nin doğal güzelliklerinin arasında gizli bir cennet olarak karşımıza çıkıyor. Şelalenin güzelliği ve çevredeki yeşillik, ziyaretçilere huzurlu bir atmosfer sunuyor. Senavat Şelalesi, yerel turizmin önemli noktalarından biri olarak dikkat çekiyor ve doğa tutkunlarının ziyaret etmesi gereken bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Senavat Şelalesi'nin tarihi geçmişi, bölgenin jeolojik oluşumuna dayanıyor
 
 ## Coğrafya
 
-Senavat Şelalesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir doğal güzellik. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Şelalenin çevresinde, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu reason, ziyaretçilere yeşil bir atmosfer sunuyor. Senavat Şelalesi, 140 hektarlık alan üzerinde bulunuyor ve yaklaşık 200 futbol sahası büyüklüğünde. Şelalenin yüksekliği, çevredeki yeşilli ve doğal güzellik, ziyaretçilere etkileyici bir manzara sunuyor. Bölgenin coğrafi özellikleri, şelalenin güzelliği ile birleşerek ziyaretçilere benzersiz bir deneyim sağlıyor.
+Senavat Şelalesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir doğal güzellik. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Şelalenin çevresinde, çeşitli bitki türleri ve ağaçlar bulunmakta ve bu reason, ziyaretçilere yeşil bir atmosfer sunuyor. Şelalenin yüksekliği, çevredeki yeşilli ve doğal güzellik, ziyaretçilere etkileyici bir manzara sunuyor. Bölgenin coğrafi özellikleri, şelalenin güzelliği ile birleşerek ziyaretçilere benzersiz bir deneyim sağlıyor.
 
 ## Flora ve Fauna
 

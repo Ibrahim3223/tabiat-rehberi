@@ -1,7 +1,7 @@
 ---
 title: "Eski Hamam, Kula"
 date: "2026-01-09T23:48:14.055Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245825"
 
 # Eski Hamam, Kula
 
-Eski Hamam, Kula, Manisa'nın Kula ilçesinde, Ege Bölgesi'nin doğal güzellikleri arasında yer alan bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, geniş kumsalları, berrak suları ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyondur. Eski Hamam, Kula, doğaseverler ve plaj severler için bir cennet olarak kabul edilebilir. Plajın etrafındaki bölge, yeşilliklerle kaplı ve çeşitli bitki türleri ile zengin bir ekosisteme sahiptir.
+Eski Hamam, Kula, Manisa'nın Kula ilçesinde, Ege Bölgesi'nin doğal güzellikleri arasında yer alan bir plajdır. Bu plaj, geniş kumsalları, berrak suları ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyondur. Eski Hamam, Kula, doğaseverler ve plaj severler için bir cennet olarak kabul edilebilir. Plajın etrafındaki bölge, yeşilliklerle kaplı ve çeşitli bitki türleri ile zengin bir ekosisteme sahiptir.
 
 ## Tarihçe
 

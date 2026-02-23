@@ -33,7 +33,7 @@ Antalya'nın doğa harikalarına ev sahipliği yapan coğrafyası, Sivridağ gib
 
 ## Tarihçe
 
-Sivridağ, Türkiye'nin güneyinde, Antalya bölgesinde yer alan bir dağdır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Antalya, Likya, Pamfilya ve Roma uygarlıklarının izlerini taşır. Likya uygarlığı, MÖ 1. bin yılında bu bölgede hüküm sürmüştür. Daha sonra Pamfilya ve Roma uygarlıkları, bu topraklara egemen olmuştur.
+Sivridağ, Türkiye'nin güneyinde, Antalya bölgesinde yer alan bir dağdır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Antalya, Likya, Pamfilya ve Roma uygarlıklarının izlerini taşır. Likya uygarlığı, MÖ 1. bin yılında bu bölgede hüküm sürmüştür. Daha sonra Pamfilya ve Roma uygarlıkları, bu topraklara egemen olmuştur.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir role sahiptir. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu bölgelerle ilişkisini sağlar. Antalya bölgesindeki dağlar ve ovalar, tarihi İpek Yolu'nun önemli bir kısmını oluşturur. Bu ticaret yolu, Asya ve Avrupa arasındaki ticari faaliyetleri desteklemiştir.
 

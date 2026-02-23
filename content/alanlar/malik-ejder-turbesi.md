@@ -1,7 +1,7 @@
 ---
 title: "Malik Ejder Türbesi"
 date: "2026-01-10T07:06:22.493Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kahramanmaraş"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390841"
 
 # Malik Ejder Türbesi
 
-Malik Ejder Türbesi, Kahramanmaraş'ın Onikişubat ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan bir destinasyon. Bu özel mekan, ziyaretçilerini hem tarihin derinliklerine götürüyor hem de Akdeniz Bölgesi'nin güzelliğini gözler önüne seriyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sağlıyor. Malik Ejder Türbesi, aynı zamanda bölgeye özgü bitki türleri ve hayvanlarla dolu zengin bir fauna sunuyor.
+Malik Ejder Türbesi, Kahramanmaraş'ın Onikişubat ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan bir destinasyon. Bu özel mekan, ziyaretçilerini hem tarihin derinliklerine götürüyor hem de Akdeniz Bölgesi'nin güzelliğini gözler önüne seriyor. Malik Ejder Türbesi, aynı zamanda bölgeye özgü bitki türleri ve hayvanlarla dolu zengin bir fauna sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Malik Ejder Türbesi'nin tarihi geçmişi, yüzyılların ötesine uzanıyor. Bu
 
 ## Coğrafya
 
-Malik Ejder Türbesi, Akdeniz Bölgesi'nin güzelliğini yansıtan bir coğrafyada yer alıyor. Bu bölge, denize yakınlığı ile birlikte, ziyaretçilere hem deniz hem de kara güzelliklerini aynı anda sunuyor. 180 hektarlık bir alana yayılan bu bölge, yaklaşık 300 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sağlıyor. Coğrafi olarak zengin bir bölge olan burada, çeşitli bitki türleri ve hayvanlar encontrabilir. Bölgenin iklimi, Akdeniz ikliminin özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi özellikler, Malik Ejder Türbesi'ni ziyaret etmek için ideal bir mekan haline getiriyor.
+Malik Ejder Türbesi, Akdeniz Bölgesi'nin güzelliğini yansıtan bir coğrafyada yer alıyor. Bu bölge, denize yakınlığı ile birlikte, ziyaretçilere hem deniz hem de kara güzelliklerini aynı anda sunuyor. Coğrafi olarak zengin bir bölge olan burada, çeşitli bitki türleri ve hayvanlar encontrabilir. Bölgenin iklimi, Akdeniz ikliminin özellikleri gösteriyor; yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Bu coğrafi özellikler, Malik Ejder Türbesi'ni ziyaret etmek için ideal bir mekan haline getiriyor.
 
 ## Flora ve Fauna
 

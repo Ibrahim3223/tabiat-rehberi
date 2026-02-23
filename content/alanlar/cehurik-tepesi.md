@@ -28,7 +28,7 @@ wikidata_id: "Q31548186"
 
 # Cehurik Tepesi
 
-Cehurik Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepenin etrafını saran dağlar ve vadiler, bölgeyi eşsiz bir doğal güzellik haline getiriyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Cehurik Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında bilgi edinmek için ideal bir yer.
+Cehurik Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepenin etrafını saran dağlar ve vadiler, bölgeyi eşsiz bir doğal güzellik haline getiriyor. Cehurik Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında bilgi edinmek için ideal bir yer.
 
 ## Tarihçe
 

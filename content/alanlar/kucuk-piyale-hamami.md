@@ -1,7 +1,7 @@
 ---
 title: "Küçük Piyale Hamamı"
 date: "2026-01-09T23:43:34.429Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739147"
 
 # Küçük Piyale Hamamı
 
-Küçük Piyale Hamamı, İstanbul'un tarihi ve kültürel zenginliklerinin bir araya geldiği özel bir mekan olarak dikkat çeker. Beyoğlu'nda bulunan bu plaj, yaklaşık 140 hektarlık bir alan üzerinde yer alır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Küçük Piyale Hamamı, İstanbul'un deniz kıyısında yer alan bir plaj olarak, şehrin kalabalık ve gürültüsünden uzak, sakin ve huzurlu bir atmosfere sahiptir. Burada, denizin serinletici suyu ve güneşin ılıman ışıklarıyla birlikte, şehrin stresinden uzaklaşabilir ve doğayla iç içe bir gün geçirebilirsiniz.
+Küçük Piyale Hamamı, İstanbul'un tarihi ve kültürel zenginliklerinin bir araya geldiği özel bir mekan olarak dikkat çeker. Beyoğlu'nda bulunan bu plaj, yaklaşık 140 hektarlık bir alan üzerinde yer alır. Küçük Piyale Hamamı, İstanbul'un deniz kıyısında yer alan bir plaj olarak, şehrin kalabalık ve gürültüsünden uzak, sakin ve huzurlu bir atmosfere sahiptir. Burada, denizin serinletici suyu ve güneşin ılıman ışıklarıyla birlikte, şehrin stresinden uzaklaşabilir ve doğayla iç içe bir gün geçirebilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Küçük Piyale Hamamı'nın tarihi geçmişi, İstanbul'un zengin tarihine ış
 
 ## Coğrafya
 
-Küçük Piyale Hamamı, coğrafi konumu itibariyle, Marmara Bölgesi'nin en özel noktalarından biridir. Bu plaj, İstanbul'un Beyoğlu ilçesinde yer alır ve şehrin merkezine yakındır. Bu alan, yaklaşık 140 hektarlık bir arazi üzerinde kurulmuştur. Bu geniş alan, ziyaretçilere geniş bir açık mekan sunar ve burada, deniz, güneş ve doğanın keyfini çıkarma mümkündür. Küçük Piyale Hamamı'nın coğrafi konumu, aynı zamanda, ziyaretçilerin şehrin diğer önemli noktalarına kolayca ulaşabilmesini sağlar. Bu plajın yakınında, çeşitli ulaşım seçenekleri mevcuttur ve burada, toplu taşıma araçlarını kullanma veya özel araçla gelme mümkündür. Ayrıca, bu plajın çevresinde, çeşitli restoranlar, kafeler ve alışveriş merkezleri bulunur ve burada, yemek yeme, alışveriş yapma veya sadece dinlenme imkanı vardır.
+Küçük Piyale Hamamı, coğrafi konumu itibariyle, Marmara Bölgesi'nin en özel noktalarından biridir. Bu plaj, İstanbul'un Beyoğlu ilçesinde yer alır ve şehrin merkezine yakındır. Bu geniş alan, ziyaretçilere geniş bir açık mekan sunar ve burada, deniz, güneş ve doğanın keyfini çıkarma mümkündür. Küçük Piyale Hamamı'nın coğrafi konumu, aynı zamanda, ziyaretçilerin şehrin diğer önemli noktalarına kolayca ulaşabilmesini sağlar. Bu plajın yakınında, çeşitli ulaşım seçenekleri mevcuttur ve burada, toplu taşıma araçlarını kullanma veya özel araçla gelme mümkündür. Ayrıca, bu plajın çevresinde, çeşitli restoranlar, kafeler ve alışveriş merkezleri bulunur ve burada, yemek yeme, alışveriş yapma veya sadece dinlenme imkanı vardır.
 
 ## Flora ve Fauna
 

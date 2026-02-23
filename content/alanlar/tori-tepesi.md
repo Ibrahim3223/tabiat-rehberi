@@ -28,7 +28,7 @@ wikidata_id: "Q31553856"
 
 # Tori Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Tori Tepesi, Batman ilinin sınırları içerisinde yer alır. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe olarak dikkat çeker. Tori Tepesi, Batman ilinin merkezine uzun bir mesafe uzaklıkta yer alır ve ilin önemli bir doğal güzelliği olarak kabul edilir. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilerini cezbeden önemli unsurlardır.
+Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Tori Tepesi, Batman ilinin sınırları içerisinde yer alır. Tori Tepesi, Batman ilinin merkezine uzun bir mesafe uzaklıkta yer alır ve ilin önemli bir doğal güzelliği olarak kabul edilir. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilerini cezbeden önemli unsurlardır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tori Tepesi'nin tarihi geçmişi hakkındalı bilgiler bulunmamaktadır. Ancak, 
 
 ## Coğrafya
 
-Tori Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutar. Bölgenin jeolojik özellikleri, tepenin oluşumunu etkileyen önemli faktörlerdir. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilerini cezbeden önemli unsurlardır. Tori Tepesi, yaklaşık 140 hektarlık alanı kaplayan bir tepe olarak dikkat çeker ve yaklaşık 200 futbol sahası büyüklüğünde olan bir alan olarak değerlendirilebilir. Tepenin coğrafi yapısı, bölgenin iklim koşullarını da etkiler. Bölgenin iklimi, genellikle sıcak ve kurak geçer ve bu, tepenin flora ve faunasını etkileyen önemli bir faktördür. Tori Tepesi, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin önemli bir doğal güzelliği olarak kabul edilir.
+Tori Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yer tutar. Bölgenin jeolojik özellikleri, tepenin oluşumunu etkileyen önemli faktörlerdir. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilerini cezbeden önemli unsurlardır. Tepenin coğrafi yapısı, bölgenin iklim koşullarını da etkiler. Bölgenin iklimi, genellikle sıcak ve kurak geçer ve bu, tepenin flora ve faunasını etkileyen önemli bir faktördür. Tori Tepesi, çevresindeki diğer coğrafi oluşumlarla birlikte, bölgenin önemli bir doğal güzelliği olarak kabul edilir.
 
 ## Flora ve Fauna
 

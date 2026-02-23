@@ -28,7 +28,7 @@ wikidata_id: "Q31388990"
 
 # Şeyhlidağı Tepesi
 
-Erzurum'un büyüleyici manzarasına ev sahipliği yapan Şeyhlidağı Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Şeyhlidağı Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak biliniyor. Bölgenin coğrafi yapısı ve iklimi, bu tepeye özel bir güzellik katıyor. Ziyaretçiler, buraya geldiğinde hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı buluyor.
+Erzurum'un büyüleyici manzarasına ev sahipliği yapan Şeyhlidağı Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Şeyhlidağı Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak biliniyor. Bölgenin coğrafi yapısı ve iklimi, bu tepeye özel bir güzellik katıyor. Ziyaretçiler, buraya geldiğinde hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı buluyor.
 
 ## Tarihçe
 

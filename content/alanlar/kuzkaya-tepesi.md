@@ -28,7 +28,7 @@ wikidata_id: "Q31391011"
 
 # Kuzkaya Tepesi
 
-Kuzkaya Tepesi, Akdeniz Bölgesi'nin önemli noktalarından biri olarak Kahramanmaraş'ta yer alıyor. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Kuzkaya Tepesi, ziyaretçilerine doğal güzellikleri ve tarihi geçmişiyle bir araya gelme fırsatı sunuyor. Bu tepe, Kahramanmaraş'ın coğrafyasında önemli bir yer tutuyor ve ziyaretçilerin ilgisini çekiyor. Kuzkaya Tepesi'nin etrafındaki manzara, ziyaretçilere büyüleyici bir görünüm sunuyor.
+Kuzkaya Tepesi, Akdeniz Bölgesi'nin önemli noktalarından biri olarak Kahramanmaraş'ta yer alıyor. Kuzkaya Tepesi, ziyaretçilerine doğal güzellikleri ve tarihi geçmişiyle bir araya gelme fırsatı sunuyor. Bu tepe, Kahramanmaraş'ın coğrafyasında önemli bir yer tutuyor ve ziyaretçilerin ilgisini çekiyor. Kuzkaya Tepesi'nin etrafındaki manzara, ziyaretçilere büyüleyici bir görünüm sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kuzkaya Tepesi'ni ziyaret etmek, ziyaretçilere doğal güzellikleri ve tarihi g
 ## İlginç Bilgiler
 
 - Kuzkaya Tepesi, Kahramanmaraş'ın önemli coğrafi noktalarından biri.
-- Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Kuzkaya Tepesi, flora ve fauna açısından zengin bir bölge.
 - Bu tepe, ziyaretçilerine doğal güzellikleri ve tarihi geçmişi hakkında fikir edinebilecekleri bir fırsattır.
 - Kuzkaya Tepesi, ekolojik olarak önemli bir bölge olarak kabul ediliyor.

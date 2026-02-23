@@ -1,7 +1,7 @@
 ---
 title: "Ferhat Paşa Türbesi"
 date: "2026-01-10T07:23:48.335Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391053"
 
 # Ferhat Paşa Türbesi
 
-Ferhat Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu özel alan, yaklaşık 140 hektarlık bir yeşil saha sunar, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ferhat Paşa Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren ender yerlerden biridir. Tarihi geçmişi ve coğrafi konumuyla ziyaretçilerini bekleyen bu özel nokta, İstanbul'un görülmeye değer mekanlarından biridir.
+Ferhat Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik noktasıdır. Ferhat Paşa Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren ender yerlerden biridir. Tarihi geçmişi ve coğrafi konumuyla ziyaretçilerini bekleyen bu özel nokta, İstanbul'un görülmeye değer mekanlarından biridir.
 
 ## Tarihçe
 

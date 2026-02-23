@@ -28,7 +28,7 @@ wikidata_id: "Q31387779"
 
 # Ormanbaşı Tepesi
 
-Ormanbaşı Tepesi, Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri olarak Erzurum'un doğal güzellikleri arasında önemli bir yere sahiptir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve çevreyle birlikte yaklaşık 140 hektarlık bir yeşil alan sunar. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Ormanbaşı Tepesi, aynı zamanda yüzyıllar boyunca insan yerleşimine ve doğal yaşamın uyumuna tanıklık etmiş bir bölgedir. Tepenin eteklerinde ve çevresinde, tarihi geçmişi olan çeşitli değil, çeşitli yerleşim yerleri ve doğal güzelliği yüksek bölgeler bulunur.
+Ormanbaşı Tepesi, Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri olarak Erzurum'un doğal güzellikleri arasında önemli bir yere sahiptir. Ormanbaşı Tepesi, aynı zamanda yüzyıllar boyunca insan yerleşimine ve doğal yaşamın uyumuna tanıklık etmiş bir bölgedir. Tepenin eteklerinde ve çevresinde, tarihi geçmişi olan çeşitli değil, çeşitli yerleşim yerleri ve doğal güzelliği yüksek bölgeler bulunur.
 
 ## Tarihçe
 

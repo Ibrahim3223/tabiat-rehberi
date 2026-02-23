@@ -28,11 +28,11 @@ wikidata_id: "Q31544630"
 
 # Diyarıbira Tepesi
 
-Diyarıbira Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak, Batman'ın doğal güzelliklerini gözler önüne seriyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin dikkatini çekiyor. Bu tepe, aynı zamanda bölgenin tarihi geçmişine de ışık tutuyor. İnsanlık tarihi boyunca, bu tepe önemli bir gözlem noktası olarak kullanılmış ve günümüzde de aynı önemini koruyor.
+Diyarıbira Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak, Batman'ın doğal güzelliklerini gözler önüne seriyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin dikkatini çekiyor. Bu tepe, aynı zamanda bölgenin tarihi geçmişine de ışık tutuyor. İnsanlık tarihi boyunca, bu tepe önemli bir gözlem noktası olarak kullanılmış ve günümüzde de aynı önemini koruyor.
 
 ## Tarihçe
 
-Diyarıbira Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor. Tarihi geçmişi, bölgenin kültürel zenginliğini gözler önüne seriyor. Bu tepenin etrafında, çeşitli uygarlıkların kalıntıları bulunuyor ve bu kalıntılar, tepenin tarihsel önemini vurguluyor. Tepenin história, bölgenin stratejik konumuna da işaret ediyor. Ticaret yollarının kesiştiği noktada bulunan Diyarbira Tepesi, geçmişte önemli bir ticaret merkezi olarak görev almış ve bu özelliğini günümüze kadar korumuştur.
+Diyarıbira Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor. Tarihi geçmişi, bölgenin kültürel zenginliğini gözler önüne seriyor. Bu tepenin etrafında, çeşitli uygarlıkların kalıntıları bulunuyor ve bu kalıntılar, tepenin tarihsel önemini vurguluyor. Tepenin tarihi, bölgenin stratejik konumuna da işaret ediyor. Ticaret yollarının kesiştiği noktada bulunan Diyarbira Tepesi, geçmişte önemli bir ticaret merkezi olarak görev almış ve bu özelliğini günümüze kadar korumuştur.
 
 ## Coğrafya
 

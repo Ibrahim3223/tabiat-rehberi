@@ -28,7 +28,7 @@ wikidata_id: "Q31389065"
 
 # Onbaşı Tepesi
 
-Onbaşı Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Muş'ta yer alır. Bu bölge, doğa severler için cennet gibi bir destinasyon konumundadır. Onbaşı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ziyaretçiler, bu tepeye çıktıklarında, Muş'un eşsiz manzarasını izleme fırsatı bulurlar. Tepenin eteklerinde yer alan köyler, geleneksel mimariye örnek teşkil eder. Bu bölge, aynı zamanda zengin bir flora ve faunaya ev sahipliği yapar.
+Onbaşı Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Muş'ta yer alır. Bu bölge, doğa severler için cennet gibi bir destinasyon konumundadır. Ziyaretçiler, bu tepeye çıktıklarında, Muş'un eşsiz manzarasını izleme fırsatı bulurlar. Tepenin eteklerinde yer alan köyler, geleneksel mimariye örnek teşkil eder. Bu bölge, aynı zamanda zengin bir flora ve faunaya ev sahipliği yapar.
 
 ## Tarihçe
 

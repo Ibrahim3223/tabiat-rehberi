@@ -1,7 +1,7 @@
 ---
 title: "Gümüşköy Roma Hamamı"
 date: "2026-01-09T23:32:56.863Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739087"
 
 # Gümüşköy Roma Hamamı
 
-Gümüşköy Roma Hamamı, Ege Bölgesi'nin Aydın ilinin Germencik ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Gümüşköy Roma Hamamı, tarihi Roma döneminden kalma bir hamam kompleksi olup, bölgenin önemli turistik mekanlarından biridir. Ayrıca, bu alanın etrafında çeşitli bitki türleri ve zengin fauna bulunmakta olup, doğa severler için ideal bir yerdir.
+Gümüşköy Roma Hamamı, Ege Bölgesi'nin Aydın ilinin Germencik ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Gümüşköy Roma Hamamı, tarihi Roma döneminden kalma bir hamam kompleksi olup, bölgenin önemli turistik mekanlarından biridir. Ayrıca, bu alanın etrafında çeşitli bitki türleri ve zengin fauna bulunmakta olup, doğa severler için ideal bir yerdir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gümüşköy Roma Hamamı, tarihi Roma dönemine ait bir hamam kompleksidir. Bu 
 
 ## Coğrafya
 
-Gümüşköy Roma Hamamı, Ege Bölgesi'nin Aydın ilinin Germencik ilçesinde yer alan bir coğrafya alanıdır. Bu alan, 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Gümüşköy Roma Hamamı, bölgenin coğrafi yapısı itibariyle, yüksek bir konumda yer almaktadır. Bu alanın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta olup, doğa severler için ideal bir yerdir. Ayrıca, Gümüşköy Roma Hamamı, bölgenin iklimi itibariyle, ılıman bir iklime sahip olup, ziyaretçilerin yıl boyunca ziyaret edebileceği bir mekan olarak kabul edilmektedir.
+Gümüşköy Roma Hamamı, Ege Bölgesi'nin Aydın ilinin Germencik ilçesinde yer alan bir coğrafya alanıdır. Gümüşköy Roma Hamamı, bölgenin coğrafi yapısı itibariyle, yüksek bir konumda yer almaktadır. Bu alanın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta olup, doğa severler için ideal bir yerdir. Ayrıca, Gümüşköy Roma Hamamı, bölgenin iklimi itibariyle, ılıman bir iklime sahip olup, ziyaretçilerin yıl boyunca ziyaret edebileceği bir mekan olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Gümüşköy Roma Hamamı, yıl boyunca ziyaret edilebilecek bir mekandır. Bu a
 
 - Gümüşköy Roma Hamamı, tarihi Roma döneminden kalma bir hamam kompleksidir.
 - Bu kompleks, Romalılar tarafından inşa edilmiş olup, bölgenin önemli tarihi mekanlarından biridir.
-- Gümüşköy Roma Hamamı, 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Bu alan, flora ve fauna açısından zengin olup, çeşitli bitki türleri ve zengin fauna bulunmakta olup, doğa severler için ideal bir yerdir.
 - Gümüşköy Roma Hamamı, yıl boyunca ziyaret edilebilecek bir mekandır.

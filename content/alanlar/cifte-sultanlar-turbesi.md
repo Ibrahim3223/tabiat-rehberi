@@ -1,7 +1,7 @@
 ---
 title: "Çifte Sultanlar Türbesi"
 date: "2026-01-10T07:09:26.809Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390968"
 
 # Çifte Sultanlar Türbesi
 
-Çifte Sultanlar Türbesi, İstanbul'un tarihi ve doğal güzelliklerinin bir araya geldiği özel bir. Fatih ilçesinde bulunan bu alan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Çifte Sultanlar Türbesi, İstanbul'un en önemli tarihi ve doğal güzelliklerinden biri olarak kabul ediliyor.
+Çifte Sultanlar Türbesi, İstanbul'un tarihi ve doğal güzelliklerinin bir araya geldiği özel bir. Fatih ilçesinde bulunan bu alan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Bu büyük alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Çifte Sultanlar Türbesi, İstanbul'un en önemli tarihi ve doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

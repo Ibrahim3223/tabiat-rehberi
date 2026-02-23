@@ -28,7 +28,7 @@ wikidata_id: "Q32197824"
 
 # Kocaçal Dağı
 
-Konya'nın görkemli manzarasına ev sahipliği yapan Kocaçal Dağı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık geniş bir alanı kapsar. Bu muhteşem doğal alan, ziyaretçilerini büyüleyici bir doğa deneyimi ile karşılar. Kocaçal Dağı, hem doğa severler hem de macera arayışındaki gezginler için ideal bir destinasyon olarak dikkat çeker. Doğal güzelliği, zengin florası ve fauna çeşitliliği ile Kocaçal Dağı, ziyaretçilerini büyüler.
+ Bu muhteşem doğal alan, ziyaretçilerini büyüleyici bir doğa deneyimi ile karşılar. Kocaçal Dağı, hem doğa severler hem de macera arayışındaki gezginler için ideal bir destinasyon olarak dikkat çeker. Doğal güzelliği, zengin florası ve fauna çeşitliliği ile Kocaçal Dağı, ziyaretçilerini büyüler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kocaçal Dağı'nın tarihi geçmişi, İç Anadolu Bölgesi'nin zengin kültür
 
 ## Coğrafya
 
-Kocaçal Dağı, Konya ilinin görkemli bir parçası olarak İç Anadolu Bölgesi'nde yer alır. Bu dağ, yaklaşık 140 hektarlık geniş bir alanı kapsar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Kocaçal Dağı'nın coğrafi yapısı, çeşitli bitki türleri ve fauna çeşitliliği ile zengin bir ekosistemi destekler. Dağın eteklerinde ve zirvesinde, ziyaretçilerin keşfedebileceği birçok doğal güzellik bulunur. Kocaçal Dağı, ziyaretçilere hem doğanın güzelliğini hem de bölgenin coğrafi çeşitliliğini sunar.
+Kocaçal Dağı, Konya ilinin görkemli bir parçası olarak İç Anadolu Bölgesi'nde yer alır. Kocaçal Dağı'nın coğrafi yapısı, çeşitli bitki türleri ve fauna çeşitliliği ile zengin bir ekosistemi destekler. Dağın eteklerinde ve zirvesinde, ziyaretçilerin keşfedebileceği birçok doğal güzellik bulunur. Kocaçal Dağı, ziyaretçilere hem doğanın güzelliğini hem de bölgenin coğrafi çeşitliliğini sunar.
 
 ## Flora ve Fauna
 

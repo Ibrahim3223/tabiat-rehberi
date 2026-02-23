@@ -22,7 +22,7 @@ wikidata_id: "Q108228770"
 
 # BAYRAKTEPE TP
 
-Bayraktepe TP, İç Anadolu Bölgesi'nin güzide bir bölgesinde yer alan 140 hektarlık bir milli parktır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğal güzellikleri ile büyülemektedir. Bayraktepe TP, zengin flora ve fauna çeşitliliği ile dikkat çekmekte olup, özellikle doğa severlerin ilgi odağı haline gelmiştir. Milli parkın içinde çeşitli yürüyüş parkurları ve piknik alanları yer almakta olup, ziyaretçiler burada keyifli anlar geçirebilmektedir.
+Bayraktepe TP, İç Anadolu Bölgesi'nin güzide bir bölgesinde yer alan 140 hektarlık bir milli parktır. Bayraktepe TP, zengin flora ve fauna çeşitliliği ile dikkat çekmekte olup, özellikle doğa severlerin ilgi odağı haline gelmiştir. Milli parkın içinde çeşitli yürüyüş parkurları ve piknik alanları yer almakta olup, ziyaretçiler burada keyifli anlar geçirebilmektedir.
 
 ## Tarihçe
 

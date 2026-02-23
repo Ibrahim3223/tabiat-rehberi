@@ -23,7 +23,7 @@ wikidata_id: "Q108228364"
 
 # Adana-Akyatan Golu
 
-Adana-Akyatan Gölü, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri. 140 hektarlık bir alanı kapsayan bu göl, yaklaşık 200 futbol sahası büyüklüğünde. Gölün etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu doğal güzellik, ziyaretçilerini doğayla baş başa bırakarak unutulmaz bir deneyim sunuyor. Gölün sakin ve huzurlu atmosferi, ziyaretçilerini dinlendirmekte.
+Adana-Akyatan Gölü, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri. Gölün etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu doğal güzellik, ziyaretçilerini doğayla baş başa bırakarak unutulmaz bir deneyim sunuyor. Gölün sakin ve huzurlu atmosferi, ziyaretçilerini dinlendirmekte.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Adana-Akyatan Gölü'nün tarihi geçmişi, yüzyıllar boyunca şekillenmiş. B
 
 ## Coğrafya
 
-Adana-Akyatan Gölü, Akdeniz Bölgesi'nin coğrafi yapılarından biri. Göl, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gölün etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Gölün bulunduğu bölgenin iklimi, Akdeniz iklimi característicasına uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı. Bu coğrafi yapı, gölün etrafındaki bitkilerin ve hayvanların çeşitliliğini etkilemekte. Gölün konumu, ziyaretçilerin kolayca ulaşabileceği bir yerde bulunmakta.
+Adana-Akyatan Gölü, Akdeniz Bölgesi'nin coğrafi yapılarından biri. Gölün etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Gölün bulunduğu bölgenin iklimi, Akdeniz iklimi característicasına uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı. Bu coğrafi yapı, gölün etrafındaki bitkilerin ve hayvanların çeşitliliğini etkilemekte. Gölün konumu, ziyaretçilerin kolayca ulaşabileceği bir yerde bulunmakta.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Adana-Akyatan Gölü'ne ziyaretçiler, kolayca ulaşabilir. Göl, şehir merkezi
 ## İlginç Bilgiler
 
 - Adana-Akyatan Gölü, 140 hektarlık bir alanı kapsıyor.
-- Göl, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Gölün etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Göl, milli park olarak bilinen bir doğal güzellik.
 - Gölün tarihi geçmişi, yüzyıllar boyunca şekillenmiş.

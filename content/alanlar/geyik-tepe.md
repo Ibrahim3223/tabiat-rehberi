@@ -36,7 +36,7 @@ Batman bölgesi, tarihin en eski dönemlerinden bu yana çeşitli uygarlıkları
 
 Türkiye'de, özellikle dağlık ve ormanlık bölgeler, tarihin her döneminde insanların yaşamlarında önemli bir rol oynamıştır. Bu alanlar, yaylacılık, hayvancılık ve avcılık gibi faaliyetler için elverişli koşullar sunmuştur. Ayrıca, tarihi ticaret yolları bu bölgelerden geçerek, bölgenin stratejik önemini artırmıştır.
 
-Geyik Tepe gibi doğal alanlar, sadece doğal güzellikleri ile değil, aynı zamanda tarihsel ve kültürel önemi ile de dikkat çekmektedir. Bu alanlar, insanların doğa ile etkileşimini ve çevre ile olan bağlarını göstermektedir. Batman bölgesinin tarihsel zenginliği, Geyik Tepe'nin de bir parçası olduğu bu doğal alanların önemini daha da artırarak, ziyaretçilere tarihin izlerini keşfetme fırsatı sunmaktadır.
+Geyik Tepe gibi doğal alanlar, sadece doğal güzellikleri ile değil, aynı zamanda tarihsel ve kültürel önemi ile de dikkat çekmektedir. Bu alanlar, insanların doğa ile etkileşimini ve çevre ile olan bağlarını göstermektedir.
 
 ## Coğrafya
 
@@ -50,9 +50,9 @@ Geyik Tepe'nin çevresel ilişkileri, komşu alanlar ve su kaynakları açısın
 
 ## Flora ve Fauna
 
-Geyik Tepe, Batman'ın dağlık bölgesinde yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, yarı kurak iklimin hakim olduğu bir bölgede, step ve ova ekolojisinin birleştiği bir noktada yer alıyor. 
+Geyik Tepe, Batman'ın dağlık bölgesinde yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, yarı kurak iklimin hakim olduğu bir bölgede, step ve ova ekolojisinin birleştiği bir noktada yer alıyor.
 
-Bitki örtüsü bakımından, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Yükseklik zonlarına bağlı olarak değişen alpin flora, bu bölgenin benzersiz özelliklerinden biri. Dağ hayvanları, bu flora ile beslenerek hayatta kalıyor. 
+Bitki örtüsü bakımından, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Yükseklik zonlarına bağlı olarak değişen alpin flora, bu bölgenin benzersiz özelliklerinden biri. Dağ hayvanları, bu flora ile beslenerek hayatta kalıyor.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Göç mevsimlerinde, gökyüzünde farklı kuş türlerini izleme mümkün. Memeliler, dağların yüksek kesimlerinde, sürüngenler ise daha alçak kesimlerde yaşıyor. Bu dağ ekosisteminin ekolojik değeri, bölge için oldukça önemli. Bu nedenle, koruma altına alınması ve doğal dengenin korunması büyük önem taşıyor.
 

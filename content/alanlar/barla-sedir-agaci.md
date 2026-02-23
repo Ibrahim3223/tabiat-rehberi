@@ -22,7 +22,7 @@ wikidata_id: "Q108227130"
 
 # Barla Sedir Agaci
 
-İç Anadolu Bölgesi'nde yer alan Barla Sedir Agaci, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu muhteşem doğal alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya hazırlanıyor. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle dolu ve sedir ağacının güzelliğini gözler önüne seriyor. Barla Sedir Agaci, doğa severlerin ve fotoğraf tutkunlarının mutlaka ziyaret etmesi gereken bir yer.
+ Bu muhteşem doğal alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya hazırlanıyor. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle dolu ve sedir ağacının güzelliğini gözler önüne seriyor. Barla Sedir Agaci, doğa severlerin ve fotoğraf tutkunlarının mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

@@ -53,7 +53,7 @@ Kırşehir'in su kaynaklarına yakın bir konumda bulunan Kızıl Dağ, bölgeni
 
 Kızıl Dağ, Kırşehir'in kalbinde yer alan 39.17 N enleminde bulunan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, step bitki örtüsü ve bozkırın hakim olduğu bir bölge olarak karşımıza çıkıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Bu dönemde, kuraklığa adapte olmuş türler de ortaya çıkıyor.
 
-Yaban hayatı açısından zengin bir bölge olan Kızıl Dağ, memeliler, kuşlar ve sürüngenlerle dolu. Dağın yükseklik zonalarında, alpin flora ve dağ hayvanları bulunuyor. Mevsimsel değişimlerle birlikte, göç eden kuşlar da bu bölgeden geçiyor. 
+Yaban hayatı açısından zengin bir bölge olan Kızıl Dağ, memeliler, kuşlar ve sürüngenlerle dolu. Dağın yükseklik zonalarında, alpin flora ve dağ hayvanları bulunuyor. Mevsimsel değişimlerle birlikte, göç eden kuşlar da bu bölgeden geçiyor.
 
 Kızıl Dağ, ekolojik açıdan önemli bir bölge olarak koruma altına alınması gereken bir alan. Bu dağ ekosisteminin korunması, bölgedeki canlıların yaşam alanlarını güvence altına almak için oldukça önemli.
 

@@ -29,7 +29,7 @@ wikidata_id: "Q32210196"
 
 # Kömür Tepe
 
-Kömür Tepe, Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzellikleriyle dolu bir bölgesi olan Adıyaman'da yer alıyor. Bu bölge, yaklaşık olarak 140 hektarlık bir alanı kapsıyor, ki bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kömür Tepe, ziyaretçilerini tarih ve doğa ile baş başa bırakmak isteyen herkes için ideal bir destinasyon.
+Kömür Tepe, Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzellikleriyle dolu bir bölgesi olan Adıyaman'da yer alıyor. Kömür Tepe, ziyaretçilerini tarih ve doğa ile baş başa bırakmak isteyen herkes için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kömür Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgeni
 
 ## Coğrafya
 
-Kömür Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, dağlar, ovalar ve nehirler ile çevrilidir ve doğa severler için cennet gibi bir yer. Tepe, yaklaşık olarak 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kömür Tepe'nin coğrafi konumu, ziyaretçilere, doğanın güzelliklerini keşfetme fırsatı sunar. Bölge, çeşitli bitki türleri ve zengin fauna ile dolu ve bu, doğa severler için büyük bir çekicilik oluşturur. Kömür Tepe, ziyaretçilerini, doğanın güzelliği ile baş başa bırakmak isteyen herkes için ideal bir destinasyon.
+Kömür Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, dağlar, ovalar ve nehirler ile çevrilidir ve doğa severler için cennet gibi bir yer. Kömür Tepe'nin coğrafi konumu, ziyaretçilere, doğanın güzelliklerini keşfetme fırsatı sunar. Bölge, çeşitli bitki türleri ve zengin fauna ile dolu ve bu, doğa severler için büyük bir çekicilik oluşturur. Kömür Tepe, ziyaretçilerini, doğanın güzelliği ile baş başa bırakmak isteyen herkes için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

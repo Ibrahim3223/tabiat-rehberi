@@ -50,9 +50,9 @@ Doğal kaynaklar açısından, Domuz Dağı'nın çevresinde çeşitli su kaynak
 
 ## Flora ve Fauna
 
-Domuz Dağı, Sinop'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ, gür ormanlarla kaplı ve yüksek biyoçeşitliliğe sahip bir ekosistemdir. 
+Domuz Dağı, Sinop'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ, gür ormanlarla kaplı ve yüksek biyoçeşitliliğe sahip bir ekosistemdir.
 
-Bitki örtüsüne baktığımızda, ilkbahar aylarında çiçeklerin renkli bir şölenine tanık oluruz. Orman zemininde çalı ve otsu bitkiler, yükseklik zonlarına göre değişen bir güzergah izler. 
+Bitki örtüsüne baktığımızda, ilkbahar aylarında çiçeklerin renkli bir şölenine tanık oluruz. Orman zemininde çalı ve otsu bitkiler, yükseklik zonlarına göre değişen bir güzergah izler.
 
 Yaban hayatı ise bu dağda oldukça zengin. Memeliler ve kuşlar, dağın farklı yükseklik zonlarında yaşamını sürdürür. Göç mevsiminde, çeşitli kuş türleri bu bölgeyi ziyaret eder. Sürüngenler de dağın kayalık ve güneşli alanlarını tercih eder.
 

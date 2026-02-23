@@ -32,7 +32,7 @@ Rize'nin yeşil dağ siluetleri arasında yer alan Cığalver Dağı, ilin doğa
 
 ## Tarihçe
 
-Rize bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, históriaki dönemde Kolhis Krallığı'nın bir parçası olarak bilinir. Daha sonra Roma ve Bizans dönemlerini yaşayan Rize, 15. yüzyılda Osmanlı hakimiyetine geçmiştir. Bu tarihsel süreç, bölgenin kültürel ve ekonomik yapısını şekillendirmiştir.
+Rize bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarihi dönemde Kolhis Krallığı'nın bir parçası olarak bilinir. Daha sonra Roma ve Bizans dönemlerini yaşayan Rize, 15. yüzyılda Osmanlı hakimiyetine geçmiştir. Bu tarihsel süreç, bölgenin kültürel ve ekonomik yapısını şekillendirmiştir.
 
 Doğal güzellikleri ve stratejik konumu ile Rize, tarih boyunca insanların ilgisini çekmiştir. Cığalver Dağı gibi yüksek rakımlı alanlar, yaylacılık ve hayvancılık faaliyetleri için elverişli ortamlar sunmuştur. Ayrıca, bölgenin ticaret yolları üzerinde bulunması, ticaret ve kültürel alışverişlerin yaşanmasına neden olmuştur. Türkiye'de doğal alanların tarihsel önemi, sadece güzellikleri ile değil, aynı zamanda ekonomi ve kültürel katkıları ile de ölçülmektedir. Bu tür alanlar, toplumların yaşam tarzlarını, geleneklerini ve ekonomilerini şekillendirmiştir. Cığalver Dağı, Rize'nin doğal ve tarihsel zenginliklerinin bir parçasıdır ve bölgenin geçmişini anlamak için önemli bir noktadır.
 

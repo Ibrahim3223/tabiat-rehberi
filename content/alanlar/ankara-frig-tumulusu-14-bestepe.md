@@ -29,7 +29,7 @@ wikidata_id: "Q134728276"
 
 # Ankara Frig Tümülüsü 14, Beştepe
 
-Ankara Frig Tümülüsü 14, Beştepe, İç Anadolu Bölgesi'nin kalbinde, Yenimahalle'de yer alan tarihi ve doğal bir güzelliktir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ziyaretçiler, tarihin derinliklerine dalarken, aynı zamanda bölgenin eşsiz doğal güzelliği ile de karşılaşır. Frig Tümülüsü, tarihi ve kültürel zenginliğiyle Ankara'nın önemli ziyaret noktalarından biridir.
+Ankara Frig Tümülüsü 14, Beştepe, İç Anadolu Bölgesi'nin kalbinde, Yenimahalle'de yer alan tarihi ve doğal bir güzelliktir. Ziyaretçiler, tarihin derinliklerine dalarken, aynı zamanda bölgenin eşsiz doğal güzelliği ile de karşılaşır. Frig Tümülüsü, tarihi ve kültürel zenginliğiyle Ankara'nın önemli ziyaret noktalarından biridir.
 
 ## Tarihçe
 

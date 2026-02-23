@@ -29,7 +29,7 @@ wikidata_id: "Q31387320"
 
 # Alandağı Tepesi
 
-Alandağı Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerinden biri olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Alandağı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir destinasyon. Tepenin eteklerinde bulunan köyler, geleneksel mimari örnekleri sunuyor. Alandağı Tepesi, doğa severler için bir cennet olarak kabul ediliyor. Burada, doğanın seslerini dinleyerek, stresten uzaklaşabilirsiniz.
+Alandağı Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerinden biri olarak dikkat çekiyor. Alandağı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir destinasyon. Tepenin eteklerinde bulunan köyler, geleneksel mimari örnekleri sunuyor. Alandağı Tepesi, doğa severler için bir cennet olarak kabul ediliyor. Burada, doğanın seslerini dinleyerek, stresten uzaklaşabilirsiniz.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Alandağı Tepesi, coğrafi olarak oldukça zengin bir bölge. Bu bölge, İç A
 
 ## Flora ve Fauna
 
-Alandağı Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Bu bölge, çeşitli bitki türlerine ev sahipliği yapıyor. Alandağı Tepesi, aynı zamanda hayvanlar açısından da zengin bir bölge. Burada, çeşitli hayvan türleri yaşıyor. Alandağı Tepesi, mevsimsel değişimlere göre değişen bir ekosisteme sahip. Kışın karla kaplanan tepenin eteklerinde, baharın gelişiyle birlikte çeşitli bitki türleri yetişiyor. Alandağı Tepesi, doğa severler için bir cennet olarak kabul ediliyor.
+ Bu bölge, çeşitli bitki türlerine ev sahipliği yapıyor. Alandağı Tepesi, aynı zamanda hayvanlar açısından da zengin bir bölge. Burada, çeşitli hayvan türleri yaşıyor. Alandağı Tepesi, mevsimsel değişimlere göre değişen bir ekosisteme sahip. Kışın karla kaplanan tepenin eteklerinde, baharın gelişiyle birlikte çeşitli bitki türleri yetişiyor. Alandağı Tepesi, doğa severler için bir cennet olarak kabul ediliyor.
 
 ## Ziyaret Bilgileri
 

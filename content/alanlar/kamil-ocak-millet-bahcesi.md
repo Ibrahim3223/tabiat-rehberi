@@ -34,7 +34,7 @@ Gaziantep'in Şehitkâmil ilçesinde bulunan Kamil Ocak Millet Bahçesi, şehrin
 
 ## Tarihçe
 
-Gaziantep, tarihin sâu izlerini taşıyan bir bölge olarak, çeşitli uygarlıkların izlerini üzerinde taşımaktadır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel mirasını şekillendirmişlerdir. Doğal güzellikleri ve verimli topraklarıyla, Gaziantep ve çevresinde insan yerleşimleri binlerce yıl önce başlamıştır.
+Gaziantep, tarihin derin izlerini taşıyan bir bölge olarak, çeşitli uygarlıkların izlerini üzerinde taşımaktadır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel mirasını şekillendirmişlerdir. Doğal güzellikleri ve verimli topraklarıyla, Gaziantep ve çevresinde insan yerleşimleri binlerce yıl önce başlamıştır.
 
 Bu bölgede bulunan Kamil Ocak Millet Bahçesi, Türkiye'deki diğer doğal alanlarla birlikte, ülkenin zengin biyolojik çeşitliliğini gözler önüne sermektedir. Türkiye, farklı iklimler ve coğrafi bölgelerin birleştiği bir noktada yer almaktadır ve bu nedenle, çok çeşitli bitki ve hayvan türlerine ev sahipliği yapmaktadır. Bu tür doğal alanlar, insanların doğayla iç içe yaşamasını sağlamış, yaylacılık, hayvancılık ve ticaret gibi faaliyetlerin merkezinde yer almıştır.
 

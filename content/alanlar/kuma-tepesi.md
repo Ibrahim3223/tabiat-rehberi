@@ -28,7 +28,7 @@ wikidata_id: "Q31388720"
 
 # Kuma Tepesi
 
-Kuma Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte yüksek bir konumdate bulunmaktadır. Bu tepe, ziyaretçilerini etkileyici manzarası ve zengin bitki örtüsü ile karşılar. Kuma Tepesi, doğa severlerin ve yürüyüş tutkunlarının uğrak noktası haline gelmiştir. Ziyaretçiler, bu tepeye tırmanırken, Ege Bölgesi'nin eşsiz güzelliğini keşfedebilirler. Kuma Tepesi, aynı zamanda tarihi ve kültürel açıdan da önemli bir noktadır. Bu tepe, yüzyıllar boyunca verschillı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır.
+Kuma Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, ziyaretçilerini etkileyici manzarası ve zengin bitki örtüsü ile karşılar. Kuma Tepesi, doğa severlerin ve yürüyüş tutkunlarının uğrak noktası haline gelmiştir. Ziyaretçiler, bu tepeye tırmanırken, Ege Bölgesi'nin eşsiz güzelliğini keşfedebilirler. Kuma Tepesi, aynı zamanda tarihi ve kültürel açıdan da önemli bir noktadır. Bu tepe, yüzyıllar boyunca verschillı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır.
 
 ## Tarihçe
 

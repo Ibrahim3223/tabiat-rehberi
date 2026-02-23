@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Bican Türbesi"
 date: "2026-01-10T06:50:39.848Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390755"
 
 # Ahmed Bican Türbesi
 
-Ahmed Bican Türbesi, Gelibolu'nun eşsiz güzelliklerini sunan bir destinasyondur. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir. Ahmed Bican Türbesi, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda doğal güzellikleriyle de etkilemektedir. Gelibolu'nun tarihi geçmişi, Ahmed Bican Türbesi'ni önemli bir kültür merkezi haline getirmiştir.
+Ahmed Bican Türbesi, Gelibolu'nun eşsiz güzelliklerini sunan bir destinasyondur. Ahmed Bican Türbesi, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda doğal güzellikleriyle de etkilemektedir. Gelibolu'nun tarihi geçmişi, Ahmed Bican Türbesi'ni önemli bir kültür merkezi haline getirmiştir.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Ahmed Bican Türbesi'nin tarihi geçmişi, yüzyıllar boyunca uzanmaktadır. Bu
 
 ## Coğrafya
 
-Ahmed Bican Türbesi, Gelibolu'nun merkezinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir. Ahmed Bican Türbesi'nin etrafı, yeşilliklerle çevrilidir ve ziyaretçiler, doğal güzelliklerin tadını çıkarabilirler. Bu alan, 140 hektarlık bir yeşil alan olup, yaklaşık 200 futbol sahası büyüklüğündedir. Ahmed Bican Türbesi, ziyaretçilerini tarihin derinliklerine götürürken, aynı zamanda doğal güzellikleriyle de etkilemektedir. Bu bölge, Gelibolu'nun eşsiz güzelliklerini sunan bir destinasyondur.
+Ahmed Bican Türbesi, Gelibolu'nun merkezinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin en önemli turizm merkezlerinden biridir. Ahmed Bican Türbesi'nin etrafı, yeşilliklerle çevrilidir ve ziyaretçiler, doğal güzelliklerin tadını çıkarabilirler. Ahmed Bican Türbesi, ziyaretçilerini tarihin derinliklerine götürürken, aynı zamanda doğal güzellikleriyle de etkilemektedir. Bu bölge, Gelibolu'nun eşsiz güzelliklerini sunan bir destinasyondur.
 
 ## Flora ve Fauna
 
-Ahmed Bican Türbesi'nin etrafı, çeşitli bitki türleri ile çevrilidir. Bu bölgede, mevsimsel değişimler ziyaretçilere farklı bir güzellik sunmaktadır. Ahmed Bican Türbesi, ziyaretçilerini tarihin derinliklerine götürürken, aynı zamanda doğal güzellikleriyle de etkilemektedir. Bu bölge, Gelibolu'nun eşsiz güzelliklerini sunan bir destinasyondur. Ahmed Bican Türbesi'nin etrafındaki flora, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunmaktadır.
+Ahmed Bican Türbesi'nin etrafı, çeşitli bitki türleri ile çevrilidir. Bu bölgede, mevsimsel değişimler ziyaretçilere farklı bir güzellik sunmaktadır. Ahmed Bican Türbesi, ziyaretçilerini tarihin derinliklerine götürürken, aynı zamanda doğal güzellikleriyle de etkilemektedir. Bu bölge, Gelibolu'nun eşsiz güzelliklerini sunan bir destinasyondur.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387411"
 
 # Kutluca Tepesi
 
-Kutluca Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve bölgenin en önemli doğal güzelliklerinden biri olan bir tepedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki örtüsü ile kaplıdır. Bu tepe, hem doğa severler hem de tarihi geçmişe ilgi duyanlar için bir cazibe merkezidir. Bölgenin coğrafi yapısı ve iklimi, bu tepenin oluşumunda büyük bir rol oynamıştır. Ayrıca, tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere yerel kültürü tanıma fırsatı sunar.
+Kutluca Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve bölgenin en önemli doğal güzelliklerinden biri olan bir tepedir. Bu tepe, hem doğa severler hem de tarihi geçmişe ilgi duyanlar için bir cazibe merkezidir. Bölgenin coğrafi yapısı ve iklimi, bu tepenin oluşumunda büyük bir rol oynamıştır. Ayrıca, tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere yerel kültürü tanıma fırsatı sunar.
 
 ## Tarihçe
 

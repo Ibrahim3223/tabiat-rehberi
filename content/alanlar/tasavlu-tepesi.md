@@ -28,7 +28,7 @@ wikidata_id: "Q31387839"
 
 # Taşavlu Tepesi
 
-Taşavlu Tepesi, Marmara Bölgesi'nin güzel illerinden biri olan Balıkesir'de yer alan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile karşılar. Taşavlu Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Burada, hem güzel manzaralar hem de bölgeye özgü bitki ve hayvan türleri bulunabilir. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur, bu da burayı doğa tutkunları için bir cennet haline getirir.
+Taşavlu Tepesi, Marmara Bölgesi'nin güzel illerinden biri olan Balıkesir'de yer alan bir tepe. Taşavlu Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Burada, hem güzel manzaralar hem de bölgeye özgü bitki ve hayvan türleri bulunabilir. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur, bu da burayı doğa tutkunları için bir cennet haline getirir.
 
 ## Tarihçe
 

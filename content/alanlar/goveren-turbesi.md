@@ -1,7 +1,7 @@
 ---
 title: "Göveren Türbesi"
 date: "2026-01-10T06:56:39.481Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karabük"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390847"
 
 # Göveren Türbesi
 
-Göveren Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilmektedir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Safranbolu'nun Karabük ilçesinde yer almaktadır. Bu bölge, doğal güzelliği ve tarihi geçmişiyle dikkat çekmektedir. Göveren Türbesi, Karadeniz Bölgesi'nin turizm merkezlerinden biri olarak bilinmektedir. Göveren Türbesi'ne gelen ziyaretçiler, plajın güzelliği ve tarihi önemi hakkında bilgi edinebilmektedir. Göveren Türbesi, Karabük'ün en önemli turistik merkezlerinden biridir.
+Göveren Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilmektedir. Bu bölge, doğal güzelliği ve tarihi geçmişiyle dikkat çekmektedir. Göveren Türbesi, Karadeniz Bölgesi'nin turizm merkezlerinden biri olarak bilinmektedir. Göveren Türbesi'ne gelen ziyaretçiler, plajın güzelliği ve tarihi önemi hakkında bilgi edinebilmektedir. Göveren Türbesi, Karabük'ün en önemli turistik merkezlerinden biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Göveren Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu
 
 ## Coğrafya
 
-Göveren Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilmektedir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Safranbolu'nun Karabük ilçesinde yer almaktadır. Göveren Türbesi, Karadeniz Bölgesi'nin en önemli turistik merkezlerinden biridir. Göveren Türbesi'ne gelen ziyaretçiler, plajın güzelliği ve tarihi önemi hakkında bilgi edinebilmektedir. Göveren Türbesi, Karabük'ün en önemli turistik merkezlerinden biridir. Göveren Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinmektedir. Göveren Türbesi, Karadeniz Bölgesi'nin turizm merkezlerinden biri olarak kabul edilmektedir. Göveren Türbesi, Karadeniz Bölgesi'nin en önemli tarihi yapılarından biri olarak bilinmektedir. Göveren Türbesi, Karabük'ün en önemli tarihi yapılarından biridir. Göveren Türbesi, Karadeniz Bölgesi'nin turizm merkezlerinden biri olarak bilinmektedir.
+Göveren Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilmektedir. Göveren Türbesi, Karadeniz Bölgesi'nin en önemli turistik merkezlerinden biridir. Göveren Türbesi'ne gelen ziyaretçiler, plajın güzelliği ve tarihi önemi hakkında bilgi edinebilmektedir. Göveren Türbesi, Karabük'ün en önemli turistik merkezlerinden biridir. Göveren Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinmektedir. Göveren Türbesi, Karadeniz Bölgesi'nin turizm merkezlerinden biri olarak kabul edilmektedir. Göveren Türbesi, Karadeniz Bölgesi'nin en önemli tarihi yapılarından biri olarak bilinmektedir. Göveren Türbesi, Karabük'ün en önemli tarihi yapılarından biridir. Göveren Türbesi, Karadeniz Bölgesi'nin turizm merkezlerinden biri olarak bilinmektedir.
 
 ## Flora ve Fauna
 

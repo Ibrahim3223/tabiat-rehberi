@@ -50,11 +50,11 @@ Doğal güzellikleri incelemeye başladığımızda, Kabak Tepe'nin fiziksel yap
 
 ## Flora ve Fauna
 
-Kabak Tepe, Hatay'da bulunan bir dağ ekosistemi olarak, maki bitki örtüsüne ve kuraklığa dayanıklı türlere ev sahipliği yapar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kabak Tepe, Hatay'da bulunan bir dağ ekosistemi olarak, maki bitki örtüsüne ve kuraklığa dayanıklı türlere ev sahipliği yapar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, maki bitkilerinin çiçeklenmesi ve dağ yamaçlarını renkli bir halı gibi kaplaması dikkat çeker. Kıyı ekosisteminin de etkisiyle, bu bölgede kuraklığa dayanıklı türler hakimdir. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, maki bitkilerinin çiçeklenmesi ve dağ yamaçlarını renkli bir halı gibi kaplaması dikkat çeker. Kıyı ekosisteminin de etkisiyle, bu bölgede kuraklığa dayanıklı türler hakimdir.
 
-Yaban Hayatı bölümünde, dağ ekosisteminin yükseklik zonlarına uyum sağlamış memeliler, kuşlar ve sürüngenler bulunur. Bu canlılar, dağların yüksek kesimlerinde, alpin flora arasında yaşamını sürdürür. 
+Yaban Hayatı bölümünde, dağ ekosisteminin yükseklik zonlarına uyum sağlamış memeliler, kuşlar ve sürüngenler bulunur. Bu canlılar, dağların yüksek kesimlerinde, alpin flora arasında yaşamını sürdürür.
 
 Ekolojik Değer bölümünde, bu dağ ekosisteminin neden önemli olduğu ve koruma durumu ele alınır. Kabak Tepe, bölgenin ekolojik dengesi için önemli bir rol oynar ve koruma altına alınması gerekir.
 

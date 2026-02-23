@@ -51,7 +51,7 @@ Fiziksel yapısına bakıldığında, Yıldırım Dağı'nın boyutları hakkın
 
 ## Flora ve Fauna
 
-Yıldırım Dağı (Erzurum), yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğal cennettir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yıldırım Dağı (Erzurum), yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğal cennettir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ eteklerinde renkli çiçekler açarken, yaz aylarında alpin çayırlar yeşerir. Sonbaharda, dağların yüksek kesimlerinde yer alan endemik bitkiler, sarı, turuncu ve kırmızı renklerle dağ manzarasına renk katar.
 

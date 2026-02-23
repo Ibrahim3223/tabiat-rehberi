@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Nizam Türbesi"
 date: "2026-01-10T07:19:57.526Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -38,7 +38,7 @@ Seyyid Nizam Türbesi'nin tarihi geçmişi, İstanbul'un tarihinde önemli bir y
 
 ## Coğrafya
 
-Seyyid Nizam Türbesi, İstanbul'un Zeytinburnu ilçesinde, Marmara Bölgesi'nin coğrafi güzelliklerine ev sahipliği yapar. Bu mekan, yaklaşık 140 hektarlık bir alan içerisinde, 200 futbol sahası büyüklüğünde bir açık alan sunar. Türbe, deniz seviyesine yakın bir konumda yer alır ve ziyaretçilere Marmara Denizi'nin güzelliklerini sunar. İstanbul'un coğrafi yapısı, tarihi mekanların güzelliğini ve atmosferini daha da artırır. Seyyid Nizam Türbesi, ziyaretçilere İstanbul'un coğrafi güzelliklerini keşfetme fırsatı sunar. Bu mekanın coğrafi konumu, ziyaretçilere geniş bir açık alan ve Marmara Denizi'nin güzelliklerini sunar.
+Seyyid Nizam Türbesi, İstanbul'un Zeytinburnu ilçesinde, Marmara Bölgesi'nin coğrafi güzelliklerine ev sahipliği yapar. Türbe, deniz seviyesine yakın bir konumda yer alır ve ziyaretçilere Marmara Denizi'nin güzelliklerini sunar. İstanbul'un coğrafi yapısı, tarihi mekanların güzelliğini ve atmosferini daha da artırır. Seyyid Nizam Türbesi, ziyaretçilere İstanbul'un coğrafi güzelliklerini keşfetme fırsatı sunar. Bu mekanın coğrafi konumu, ziyaretçilere geniş bir açık alan ve Marmara Denizi'nin güzelliklerini sunar.
 
 ## Flora ve Fauna
 

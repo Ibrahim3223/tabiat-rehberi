@@ -49,11 +49,11 @@ Mandal Tepe, çevresindeki diğer doğal alanlarla bağlantılı bir ekosistem i
 
 ## Flora ve Fauna
 
-Mandal Tepe, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Mandal Tepe, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçlarını renkli çiçekler süslerken, yaz aylarında kuraklığa adapte olan türler hakim oluyor. Bozkırın karakteristik bitkileri, dağ ekosisteminin yükseklik zonlarına uyum sağlıyor. 
+Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçlarını renkli çiçekler süslerken, yaz aylarında kuraklığa adapte olan türler hakim oluyor. Bozkırın karakteristik bitkileri, dağ ekosisteminin yükseklik zonlarına uyum sağlıyor.
 
-Yaban Hayatı olarak, dağ hayvanları ve göçmen kuşlar bu bölgede yaşamını sürdürüyor. Kış aylarında, soğuk hava koşullarına adapte olan memeliler ve kuşlar, bu dağların yüksek kesimlerinde barınıyor. 
+Yaban Hayatı olarak, dağ hayvanları ve göçmen kuşlar bu bölgede yaşamını sürdürüyor. Kış aylarında, soğuk hava koşullarına adapte olan memeliler ve kuşlar, bu dağların yüksek kesimlerinde barınıyor.
 
 Ekolojik Değer olarak, Mandal Tepe'nin bu dağ ekosistemi, bölgenin ekolojik dengesi için önemli bir.role oynuyor. Bu alanın korunması, hem yerel hem de göçmen türlerin yaşam alanlarını güvence altına almak için gerekiyor.
 

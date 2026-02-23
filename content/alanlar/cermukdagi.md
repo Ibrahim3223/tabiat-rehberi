@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin gizli köşelerinden biri olan Çermukdağı, B
 
 ## Tarihçe
 
-Batman bölgesinde yer alan Çermukdağı, tarihin sâu izlerini taşıyan bir coğrafyanın içinde bulunuyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim ve geçiş noktalarından biri olarak önemli bir role sahip olmuş. Hitit, Asur, Pers ve Roma imparatorlukları gibi farklı medeniyetler, bu topraklarda izlerini bırakmışlar.
+Batman bölgesinde yer alan Çermukdağı, tarihin derin izlerini taşıyan bir coğrafyanın içinde bulunuyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim ve geçiş noktalarından biri olarak önemli bir role sahip olmuş. Hitit, Asur, Pers ve Roma imparatorlukları gibi farklı medeniyetler, bu topraklarda izlerini bırakmışlar.
 
 Doğal güzellikleri ve stratejik konumuyla, Çermukdağı gibi alanlar Türkiye'nin tarihsel dokusunda önemli bir yere sahip. Bu tür doğal alanlar, insan yerleşimlerinin ve ticaret yollarının oluşumunda kritik bir rol oynamış. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerde yaşayan insanların yaşam tarzını şekillendirmiş.
 

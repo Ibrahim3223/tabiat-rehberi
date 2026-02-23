@@ -32,7 +32,7 @@ Van'ın büyüleyici doğası, Esen Tepe'nin eteklerinde başlıyor. Bu dağ, Va
 
 ## Tarihçe
 
-Esen Tepe, Van'ın eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu bölge, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Van, tarih boyunca Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların hüküm sürdüğü bir bölge olarak dikkat çekiyor. Bu zengin tarihsel miras, bölgenin kültürel ve doğal varlıklarının şekillenmesinde önemli bir rol oynamıştır.
+Esen Tepe, Van'ın eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu bölge, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Van, tarih boyunca Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların hüküm sürdüğü bir bölge olarak dikkat çekiyor. Bu zengin tarihsel miras, bölgenin kültürel ve doğal varlıklarının şekillenmesinde önemli bir rol oynamıştır.
 
 Doğu Anadolu Bölgesi'nde yer alan Esen Tepe, yüzyıllar boyunca insanların yaşadığı, ticaret yaptığı ve doğal kaynaklarını kullandığı bir alan olarak önemini koruyor. Yaylacılık ve hayvancılık, bu bölgede geleneksel olarak sürdürülen faaliyetler arasında yer alıyor. Ayrıca, tarihi İpek Yolu gibi önemli ticaret yollarının da bu bölgeyi kapsaması, Esen Tepe'nin tarihsel öneminin bir diğer yönünü oluşturuyor.
 
@@ -54,7 +54,7 @@ Esen Tepe, Van'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 120
 
 Bitki Örtüsü olarak, ilkbaharın gelişiyle birlikte çiçekler açıyor ve dağ etekleri bir renk cümbüşüne dönüşüyor. Alpin çayırlar, endemik türlerle dolu ve bu bölgeye özgü bitkilerle süsleniyor. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızılara bürünüyor.
 
-Yaban Hayatı açısından, dağ keçileri, kartallar ve otherleri gibi memeliler ve kuşlar bu bölgede yaşamlarını sürdürüyor. Sürüngenler de bu yüksekliklerde yaşamını sürdürebilen türlerle temsil ediliyor. 
+Yaban Hayatı açısından, dağ keçileri, kartallar ve otherleri gibi memeliler ve kuşlar bu bölgede yaşamlarını sürdürüyor. Sürüngenler de bu yüksekliklerde yaşamını sürdürebilen türlerle temsil ediliyor.
 
 Ekolojik Değer olarak, bu yüksek dağ ekosistemi, birçok canlıyaşam alanı sunuyor ve ekolojik dengenin korunması için önemli bir rol üstleniyor. Bu nedenle, koruma altına alınması ve sürdürülebilir kullanımının sağlanması büyük önem taşıyor.
 

@@ -1,7 +1,7 @@
 ---
 title: "Seyidna Hıdır Aleyselam Türbesi"
 date: "2026-01-10T05:22:59.044Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391723"
 
 # Seyidna Hıdır Aleyselam Türbesi
 
-Seyidna Hıdır Aleyselam Türbesi, Mersin'in Akdeniz bölgesinde yer alan bir turbe ve plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli ağaçlar ve bitkilerle kaplıdır. Bu bölge, hem doğal güzelliği hem de tarihi önemiyle dikkat çekmektedir. Türbenin etrafında yer alan yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmesi için olanak sağlar. Ayrıca, plajın sunduğu deniz ve kum keyfi, ziyaretçilerin dinlenmesine yardımcı olur.
+Seyidna Hıdır Aleyselam Türbesi, Mersin'in Akdeniz bölgesinde yer alan bir turbe ve plajdır. Bu bölge, hem doğal güzelliği hem de tarihi önemiyle dikkat çekmektedir. Türbenin etrafında yer alan yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmesi için olanak sağlar. Ayrıca, plajın sunduğu deniz ve kum keyfi, ziyaretçilerin dinlenmesine yardımcı olur.
 
 ## Tarihçe
 

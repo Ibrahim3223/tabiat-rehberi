@@ -28,7 +28,7 @@ wikidata_id: "Q31533991"
 
 # Sırakaya Tepesi
 
-Sırakaya Tepesi, Hakkari'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan. Sırakaya Tepesi, ziyaretçilerini doğanın güzelliği ile büyüleyecek bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Sırakaya Tepesi'ne gitmek, doğa ile iç içe olmak isteyenler için bir fırsat.
+Sırakaya Tepesi, Hakkari'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Sırakaya Tepesi, ziyaretçilerini doğanın güzelliği ile büyüleyecek bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Sırakaya Tepesi'ne gitmek, doğa ile iç içe olmak isteyenler için bir fırsat.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sırakaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tep
 
 ## Coğrafya
 
-Sırakaya Tepesi, Hakkari'nin coğrafi yapısını yansıtan bir tepe. Bu tepe, bölgenin dağlık ve engebeli arazisini oluşturan bir yer. Sırakaya Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, ziyaretçilerini doğanın güzelliği ile büyüleyecek bir yer. Sırakaya Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan. Bu tepe, bölgenin coğrafi yapısını ve iklimini yansıtan bir yer. Sırakaya Tepesi, ziyaretçilerini doğanın güzelliği ve coğrafi çeşitliliğiyle karşılayacak bir yer.
+Sırakaya Tepesi, Hakkari'nin coğrafi yapısını yansıtan bir tepe. Bu tepe, bölgenin dağlık ve engebeli arazisini oluşturan bir yer. Sırakaya Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, ziyaretçilerini doğanın güzelliği ile büyüleyecek bir yer. Bu tepe, bölgenin coğrafi yapısını ve iklimini yansıtan bir yer. Sırakaya Tepesi, ziyaretçilerini doğanın güzelliği ve coğrafi çeşitliliğiyle karşılayacak bir yer.
 
 ## Flora ve Fauna
 

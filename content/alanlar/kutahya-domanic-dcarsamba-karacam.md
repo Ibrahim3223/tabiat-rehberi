@@ -22,7 +22,7 @@ wikidata_id: "Q108227525"
 
 # Kutahya-Domanic-D.Carsamba Karacam
 
-Kutahya-Domanic-D.Carsamba Karacam milli parkı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan önemli bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini korumak için önemli bir role sahiptir. Bu milli park, ziyaretçiler için çeşitli doğa aktivitelerinin keyfini çıkarabilecekleri bir mekan sunar. İnsanlar, bu güzide mekanda doğayla iç içe, temiz hava ve yeşilin tadını çıkarabilirler.
+Kutahya-Domanic-D.Carsamba Karacam milli parkı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan önemli bir destinasyondur. Bu milli park, ziyaretçiler için çeşitli doğa aktivitelerinin keyfini çıkarabilecekleri bir mekan sunar. İnsanlar, bu güzide mekanda doğayla iç içe, temiz hava ve yeşilin tadını çıkarabilirler.
 
 ## Tarihçe
 

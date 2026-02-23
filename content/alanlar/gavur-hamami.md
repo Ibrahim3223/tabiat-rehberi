@@ -1,7 +1,7 @@
 ---
 title: "Gavur Hamamı"
 date: "2026-01-09T22:34:42.324Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738747"
 
 # Gavur Hamamı
 
-Gavur Hamamı, Turgutlu'nun sakin ve doğal bir ortam sunan plajlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğal alan sunuyor. Bu bölge, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Gavur Hamamı, hem doğa severler hem de deniz keyfi isteyenler için bir kaçış noktası olarak hizmet veriyor.
+Gavur Hamamı, Turgutlu'nun sakin ve doğal bir ortam sunan plajlarından biri olarak dikkat çekiyor. Bu bölge, Ege Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Gavur Hamamı, hem doğa severler hem de deniz keyfi isteyenler için bir kaçış noktası olarak hizmet veriyor.
 
 ## Tarihçe
 

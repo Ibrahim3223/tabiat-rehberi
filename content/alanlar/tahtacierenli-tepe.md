@@ -28,7 +28,7 @@ wikidata_id: "Q31388748"
 
 # Tahtacıerenli Tepe
 
-Tahtacıerenli Tepe, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tahtacıerenli Tepe, doğa severler için bir cennet. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepe, aynı zamanda histórik bir geçmişe sahip ve bölgenin kültürel mirasını yansıtıyor. Doğa yürüyüşleri, manzara seyri ve tarihî değerleri ile Tahtacıerenli Tepe, ziyaretçilerini bekliyor.
+Tahtacıerenli Tepe, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikası. Tahtacıerenli Tepe, doğa severler için bir cennet. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepe, aynı zamanda tarihi bir geçmişe sahip ve bölgenin kültürel mirasını yansıtıyor. Doğa yürüyüşleri, manzara seyri ve tarihî değerleri ile Tahtacıerenli Tepe, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

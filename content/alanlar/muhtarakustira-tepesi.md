@@ -28,7 +28,7 @@ wikidata_id: "Q31386746"
 
 # Muhtarakuştira Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Muhtarakuştira Tepesi, Diyarbakır'ın tarihi ve coğrafi değerleriyle dikkat çekiyor. Bu tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Muhtarakuştira Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişini anlamak için önemli bir nokta olarak kabul ediliyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, bu bölgeyi doğa severler için bir cennet haline getiriyor. Diyarbakır'ın tarihi merkezi ve çevresi, Muhtarakuştira Tepesi'ne yakın bir mesafede bulunuyor, bu nedenle ziyaretçiler, hem doğal güzelliği hem de tarihi değerleri aynı anda keşfedebiliyor.
+Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Muhtarakuştira Tepesi, Diyarbakır'ın tarihi ve coğrafi değerleriyle dikkat çekiyor. Muhtarakuştira Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişini anlamak için önemli bir nokta olarak kabul ediliyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, bu bölgeyi doğa severler için bir cennet haline getiriyor. Diyarbakır'ın tarihi merkezi ve çevresi, Muhtarakuştira Tepesi'ne yakın bir mesafede bulunuyor, bu nedenle ziyaretçiler, hem doğal güzelliği hem de tarihi değerleri aynı anda keşfedebiliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Muhtarakuştira Tepesi'nin tarihi geçmişi, bölgeye yerleşen ilk medeniyetler
 
 ## Coğrafya
 
-Muhtarakuştira Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını temsil eden önemli bir nokta. Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkileyen bir faktör. Muhtarakuştira Tepesi, 140 hektarlık bir alan kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil ediyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, bu bölgeyi doğa severler için bir cennet haline getiriyor. Bölgenin iklimi, genellikle sıcak ve kurak geçiyor, ancak Muhtarakuştira Tepesi'nin yüksekliği, iklimi biraz daha ılıman hale getiriyor. Tepenin eteklerinde, çeşitli zamanlardan kalan tarihi yapılar ve kalıntılar, ziyaretçilere, bu bölgenin tarihsel değerlerini keşfetme fırsatı sunuyor. Muhtarakuştira Tepesi, Diyarbakır'ın tarihi merkezi ve çevresi, bu tepeye yakın bir mesafede bulunuyor, bu nedenle ziyaretçiler, hem doğal güzelliği hem de tarihi değerleri aynı anda keşfedebiliyor.
+Muhtarakuştira Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını temsil eden önemli bir nokta. Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkileyen bir faktör. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, bu bölgeyi doğa severler için bir cennet haline getiriyor. Bölgenin iklimi, genellikle sıcak ve kurak geçiyor, ancak Muhtarakuştira Tepesi'nin yüksekliği, iklimi biraz daha ılıman hale getiriyor. Tepenin eteklerinde, çeşitli zamanlardan kalan tarihi yapılar ve kalıntılar, ziyaretçilere, bu bölgenin tarihsel değerlerini keşfetme fırsatı sunuyor. Muhtarakuştira Tepesi, Diyarbakır'ın tarihi merkezi ve çevresi, bu tepeye yakın bir mesafede bulunuyor, bu nedenle ziyaretçiler, hem doğal güzelliği hem de tarihi değerleri aynı anda keşfedebiliyor.
 
 ## Flora ve Fauna
 

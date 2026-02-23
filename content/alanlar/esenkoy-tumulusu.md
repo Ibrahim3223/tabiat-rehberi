@@ -29,7 +29,7 @@ wikidata_id: "Q134728311"
 
 # Eşenköy Tümülüsü
 
-Eşenköy Tümülüsü, Marmara Bölgesi'nin Bandırma ilçesinde yer alan, tarihin derinliklerine uzanan bir geçmişe sahip olan önemli bir kültürel ve tarihi mekândır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Eşenköy Tümülüsü, ziyaretçilerini tarihin gizemli dünyasına davet ederken, aynı zamanda bölgenin zengin kültürel mirasını da gözler önüne serer. Bu tarihi mekân, Marmara Bölgesi'nin en önemli turizm noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından keşfedilir.
+Eşenköy Tümülüsü, Marmara Bölgesi'nin Bandırma ilçesinde yer alan, tarihin derinliklerine uzanan bir geçmişe sahip olan önemli bir kültürel ve tarihi mekândır. Eşenköy Tümülüsü, ziyaretçilerini tarihin gizemli dünyasına davet ederken, aynı zamanda bölgenin zengin kültürel mirasını da gözler önüne serer. Bu tarihi mekân, Marmara Bölgesi'nin en önemli turizm noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından keşfedilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Eşenköy Tümülüsü, tarihin derinliklerine uzanan bir geçmişe sahiptir. Bu
 
 ## Coğrafya
 
-Eşenköy Tümülüsü, Marmara Bölgesi'nin Bandırma ilçesinde yer alır ve bu bölgenin coğrafi özelliklerini taşır. Bu alan, 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Eşenköy Tümülüsü, yüksek bir konumda yer alır ve çevresinde çeşitli tepe ve dağlar bulunur. Bu coğrafi yapı, Eşenköy Tümülüsü'nü doğal bir güzelliğe sahip olan bir mekân haline getirir. Ayrıca, bu bölgenin iklimi ılımandır ve kış ayları ılık, yaz ayları ise serin geçer. Bu nedenle, Eşenköy Tümülüsü, yılın her mevsiminde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. Eşenköy Tümülüsü'nün coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
+Eşenköy Tümülüsü, Marmara Bölgesi'nin Bandırma ilçesinde yer alır ve bu bölgenin coğrafi özelliklerini taşır. Eşenköy Tümülüsü, yüksek bir konumda yer alır ve çevresinde çeşitli tepe ve dağlar bulunur. Bu coğrafi yapı, Eşenköy Tümülüsü'nü doğal bir güzelliğe sahip olan bir mekân haline getirir. Ayrıca, bu bölgenin iklimi ılımandır ve kış ayları ılık, yaz ayları ise serin geçer. Bu nedenle, Eşenköy Tümülüsü, yılın her mevsiminde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. Eşenköy Tümülüsü'nün coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

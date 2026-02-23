@@ -29,7 +29,7 @@ wikidata_id: "Q31386732"
 
 # Cadde Tepesi
 
-Cadde Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. Diyarbakır ilinin merkezinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Cadde Tepesi, ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle büyüler. Bu tepe, Diyarbakır'ın en önemli turizm merkezlerinden biri olarak kabul edilir.
+Cadde Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. Cadde Tepesi, ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle büyüler. Bu tepe, Diyarbakır'ın en önemli turizm merkezlerinden biri olarak kabul edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Cadde Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların
 
 ## Coğrafya
 
-Cadde Tepesi, Diyarbakır ilinin merkezinde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Cadde Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu tepe, Diyarbakır'ın en önemli doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle büyüler. Cadde Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve yaz aylarında sıcak ve kuru, kış aylarında soğuk ve yağışlı bir iklimi vardır. Bu tepe, Diyarbakır'ın en önemli turizm merkezlerinden biri olarak kabul edilir ve ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle büyüler.
+Cadde Tepesi, Diyarbakır ilinin merkezinde yer alan bir tepe olarak bilinir. Cadde Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu tepe, Diyarbakır'ın en önemli doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle büyüler. Cadde Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve yaz aylarında sıcak ve kuru, kış aylarında soğuk ve yağışlı bir iklimi vardır. Bu tepe, Diyarbakır'ın en önemli turizm merkezlerinden biri olarak kabul edilir ve ziyaretçilerini hem doğal güzellikleriyle hem de tarihi geçmişiyle büyüler.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Cadde Tepesi, ziyaretçilerini bekliyor. Bu tepe, Diyarbakır'ın en önemli tur
 ## İlginç Bilgiler
 
 - Cadde Tepesi, Diyarbakır'ın en önemli doğal güzelliklerinden biri olarak bilinir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Cadde Tepesi, Diyarbakır'ın tarihinde önemli bir yere sahiptir.
 - Bu tepe, Diyarbakır'ın en önemli turizm merkezlerinden biri olarak kabul edilir.
 - Cadde Tepesi, çeşitli bitki türleri ve zengin fauna ile karakterizedir.

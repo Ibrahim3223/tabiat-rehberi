@@ -1,7 +1,7 @@
 ---
 title: "Aizanoi 2. Roma Hamamı"
 date: "2026-01-09T23:11:27.655Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738854"
 
 # Aizanoi 2. Roma Hamamı
 
-Aizanoi 2. Roma Hamamı, Çavdarhisar'ın merkezinde, Ege Bölgesi'nin tarihi ve kültürel zenginliklerini barındıran bir bölgede yer alıyor. Bu antik yapı, Roma Dönemi'nden kalma hamam olarak inşa edilen ve bölgenin önemli tarihi değerlerinden biri olarak kabul ediliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda, Aizanoi 2. Roma Hamamı, ziyaretçilerini tarihin derinliklerine götürerek, Roma Dönemi'nin yaşam tarzını ve kültürel özelliklerini sergiliyor. Historik öneme sahip bu hamam, aynı zamanda bölgenin turistik çekim merkezlerinden biri olarak da hizmet veriyor.
+Aizanoi 2. Roma Hamamı, Çavdarhisar'ın merkezinde, Ege Bölgesi'nin tarihi ve kültürel zenginliklerini barındıran bir bölgede yer alıyor. Bu antik yapı, Roma Dönemi'nden kalma hamam olarak inşa edilen ve bölgenin önemli tarihi değerlerinden biri olarak kabul ediliyor. Roma Hamamı, ziyaretçilerini tarihin derinliklerine götürerek, Roma Dönemi'nin yaşam tarzını ve kültürel özelliklerini sergiliyor. Historik öneme sahip bu hamam, aynı zamanda bölgenin turistik çekim merkezlerinden biri olarak da hizmet veriyor.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Aizanoi 2. Roma Hamamı, Çavdarhisar'ın merkezinde, Ege Bölgesi'nin coğrafi 
 
 ## Flora ve Fauna
 
-Aizanoi 2. Roma Hamamı'nın bulunduğu bölge, flora ve fauna bakımından zengin bir çeşitlilik gösteriyor. Bölge, Akdeniz İklimi'nin karakteristik bitkileri ve hayvanları ile dolu. Mevsimsel değişimler, bölgenin flora ve faunasını şekillendiriyor. İlkbahar ve yaz aylarında, région, yeşilliklerle dolu ve çeşitli bitki türleri ile renkleniyor. Kış aylarında ise, ılıman iklim, bölgenin flora ve faunasının çeşitliliğini koruyor. Aizanoi 2. Roma Hamamı'nın bulunduğu alan, antik şehrin kalıntıları ile dolu ve bu tarihi yapılar, bölgenin ekolojik dengesini koruyor. Ziyaretçiler, bölgenin flora ve faunasını keşfederek, tarihi ve kültürel değerlerin yanı sıra, doğal güzellikleri de deneyimleyebilir.
+Aizanoi 2. Roma Hamamı'nın bulunduğu bölge, flora ve fauna bakımından zengin bir çeşitlilik gösteriyor. Bölge, Akdeniz İklimi'nin karakteristik bitkileri ve hayvanları ile dolu. Mevsimsel değişimler, bölgenin flora ve faunasını şekillendiriyor. İlkbahar ve yaz aylarında, bölge, yeşilliklerle dolu ve çeşitli bitki türleri ile renkleniyor. Kış aylarında ise, ılıman iklim, bölgenin flora ve faunasının çeşitliliğini koruyor. Aizanoi 2. Roma Hamamı'nın bulunduğu alan, antik şehrin kalıntıları ile dolu ve bu tarihi yapılar, bölgenin ekolojik dengesini koruyor. Ziyaretçiler, bölgenin flora ve faunasını keşfederek, tarihi ve kültürel değerlerin yanı sıra, doğal güzellikleri de deneyimleyebilir.
 
 ## Ziyaret Bilgileri
 

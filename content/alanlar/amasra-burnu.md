@@ -50,7 +50,7 @@ Fiziksel olarak, Amasra Burnu'nun boyutları hakkında net bir veri olmasa da, b
 
 ## Flora ve Fauna
 
-Amasra Burnu, bir kuş cenneti olarak steppede yer alan benzersiz bir ekosistemdir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Step bitki örtüsü, bozkır ve kuraklığa adapte türlerin hakim olduğu bu bölgede, mevsimsel değişimler oldukça belirgindir. İlkbaharda, çiçekler ve otlar yeşererek bu alanı bir renk cümbüşüne dönüştürür. 
+Amasra Burnu, bir kuş cenneti olarak steppede yer alan benzersiz bir ekosistemdir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Step bitki örtüsü, bozkır ve kuraklığa adapte türlerin hakim olduğu bu bölgede, mevsimsel değişimler oldukça belirgindir. İlkbaharda, çiçekler ve otlar yeşererek bu alanı bir renk cümbüşüne dönüştürür.
 
 Bu bölgede, çeşitli memeliler ve sürüngenler yaşar. Kuşlar ise bu bölgenin gerçek yıldızlarıdır. Göç mevsiminde, binlerce kuş bu bölgeden geçer. Ekolojik olarak, bu bölge önemli bir göç güzergahıdır ve birçok tür için yaşam alanı sağlar. Bu bölgenin korunması, bu türlerin devamlılığı için çok önemlidir.
 

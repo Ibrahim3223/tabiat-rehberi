@@ -28,7 +28,7 @@ wikidata_id: "Q31389030"
 
 # Şerafettin Tepesi
 
-Şerafettin Tepesi, Doğu Anadolu Bölgesi'nin Muş ilinde yer alan bir tepe olarak, bölgenin coğrafi güzelliğini ve doğal zenginliğini temsil eder. Bu tepenin etrafında akan nehirler, akan dereler ve çeşitli bitki türleri, bu alanı önemli bir ekosistem haline getirir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sağlar. Şerafettin Tepesi, doğa severler için bir cennet olarak kabul edilir ve burada geçirilen zaman, unutulmaz bir deneyim olabilir.
+Şerafettin Tepesi, Doğu Anadolu Bölgesi'nin Muş ilinde yer alan bir tepe olarak, bölgenin coğrafi güzelliğini ve doğal zenginliğini temsil eder. Bu tepenin etrafında akan nehirler, akan dereler ve çeşitli bitki türleri, bu alanı önemli bir ekosistem haline getirir. Şerafettin Tepesi, doğa severler için bir cennet olarak kabul edilir ve burada geçirilen zaman, unutulmaz bir deneyim olabilir.
 
 ## Tarihçe
 

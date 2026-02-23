@@ -1,7 +1,7 @@
 ---
 title: "Akça Dede Türbesi"
 date: "2026-01-10T06:12:45.773Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390656"
 
 # Akça Dede Türbesi
 
-Amasya'nın tarihi ve doğal güzellikleri arasında yer alan Akça Dede Türbesi, ziyaretçiler için önemli bir destinasyon. Bu alan, yaklaşık 140 hektarlık genişliği ile önemli bir yeşil alan sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sağlıyor. Akça Dede Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Tarihi geçmişi ve doğal güzellikleri ile bu bölge, gezi severler için önemli bir cazibe merkezi.
+Amasya'nın tarihi ve doğal güzellikleri arasında yer alan Akça Dede Türbesi, ziyaretçiler için önemli bir destinasyon. Akça Dede Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Tarihi geçmişi ve doğal güzellikleri ile bu bölge, gezi severler için önemli bir cazibe merkezi.
 
 ## Tarihçe
 

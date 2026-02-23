@@ -28,7 +28,7 @@ wikidata_id: "Q34819742"
 
 # Çoğunyorebi Tepesi
 
-Hatay'ın güzide noktalarından biri olan Çoğunyorebi Tepesi, ziyaretçilerini 140 hektarlık geniş yeşil alanıyla karşılar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğa severlerin keyifli anlar geçirmesine olanak tanır. Çoğunyorebi Tepesi, Akdeniz Bölgesi'nin eşsiz manzaralarına ev sahipliği yapar. Bu tepe, bölgenin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çeker.
+Hatay'ın güzide noktalarından biri olan Çoğunyorebi Tepesi, ziyaretçilerini 140 hektarlık geniş yeşil alanıyla karşılar. Çoğunyorebi Tepesi, Akdeniz Bölgesi'nin eşsiz manzaralarına ev sahipliği yapar. Bu tepe, bölgenin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Hatay'ın güzide noktalarından biri olan Çoğunyorebi Tepesi, ziyaretçilerin
 
 ## Flora ve Fauna
 
-Çoğunyorebi Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede yer alan bitkiler, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, tepenin etrafı rengarenk çiçeklerle süslüdür. Kışın ise, bölgede yer alan bazı bitki türleri, soğukğa karşı dayanıklı bir yapı gösterir. Çoğunyorebi Tepesi, ekolojik dengenin korunmasına katkı sağlar. Bu tepe, doğa severlerin keyifli anlar geçirmesine olanak tanır.
+ Bu bölgede yer alan bitkiler, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, tepenin etrafı rengarenk çiçeklerle süslüdür. Kışın ise, bölgede yer alan bazı bitki türleri, soğukğa karşı dayanıklı bir yapı gösterir. Çoğunyorebi Tepesi, ekolojik dengenin korunmasına katkı sağlar. Bu tepe, doğa severlerin keyifli anlar geçirmesine olanak tanır.
 
 ## Ziyaret Bilgileri
 
@@ -48,7 +48,6 @@ Hatay'ın güzide noktalarından biri olan Çoğunyorebi Tepesi, ziyaretçilerin
 
 ## İlginç Bilgiler
 
-- Çoğunyorebi Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir.
 - Bu tepe, Akdeniz Bölgesi'nin eşsiz manzaralarına ev sahipliği yapar.
 - Çoğunyorebi Tepesi, tarihi geçmişi ve kültürel değerleriyle dikkat çeker.
 - Tepenin etrafında yer alan çeşitli bitki türleri, zengin fauna ve ekolojik dengenin bir parçası olarak dikkat çeker.

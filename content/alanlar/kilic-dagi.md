@@ -49,11 +49,11 @@ Mevsimsel özellikler bakımından, Kılıç Dağı'nın iklim karakteri Doğu K
 
 ## Flora ve Fauna
 
-Kılıç Dağı, nemli iklimin hâkim olduğu bir dağ ekosistemi olarak, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kılıç Dağı, nemli iklimin hâkim olduğu bir dağ ekosistemi olarak, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharla birlikte dağ yamaçlarında rengârenk çiçekler açarak, bir tablo gibi görünüyor. Sonbaharda ise, ormanlar sarı, kırmızı ve turuncu tonlara bürünerek, bir güzelliğe şahit oluyoruz. Dağın yükseklik zonlarında, alpin flora hakimdir. 
+Bitki Örtüsü olarak, ilkbaharla birlikte dağ yamaçlarında rengârenk çiçekler açarak, bir tablo gibi görünüyor. Sonbaharda ise, ormanlar sarı, kırmızı ve turuncu tonlara bürünerek, bir güzelliğe şahit oluyoruz. Dağın yükseklik zonlarında, alpin flora hakimdir.
 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler bu dağda yaşamını sürdürüyor. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri de mevsimsel olarak göç ederek bu dağda konaklıyor. 
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler bu dağda yaşamını sürdürüyor. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri de mevsimsel olarak göç ederek bu dağda konaklıyor.
 
 Ekolojik Değer olarak, Kılıç Dağı'nın korunması büyük önem taşıyor. Bu dağ, birçok canlı türünün yaşam alanı olarak görev yapıyor ve ekosistemin dengesini sağlıyor.
 

@@ -51,7 +51,7 @@ Doğal güzelliği ile dikkat çeken İdris Dağı, yaklaşık olarak Beşiktaş
 
 İdris Dağı, Ankara'nın steppedeLocated bir bölgesinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu dağda, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği göze çarpar.
 
-Bitki Örtüsü olarak, step bitki örtüsü hakimdir. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda sarı ve kahverengi tonlara bürünür. Dağın yüksek kesimlerinde, alpin flora türleri bulunur. 
+Bitki Örtüsü olarak, step bitki örtüsü hakimdir. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda sarı ve kahverengi tonlara bürünür. Dağın yüksek kesimlerinde, alpin flora türleri bulunur.
 
 Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Göç eden kuşlar, sonbaharda dağdan geçer. Memeliler, dağın yüksek kesimlerinde yaşamını sürdürür.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227989"
 
 # Giresun-Ordu Dogu Ladini 2
 
-Giresun-Ordu Dogu Ladini 2 milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden biri olarak kabul ediliyor. Doğal güzellikleri, zengin florası ve faunası ile ziyaretçilerini cezbeden bu milli park, aynı zamanda bölgenin tarihi ve kültürel açıdan da önemli bir konumu olarak biliniyor. Giresun ve Ordu illerinin sınırında bulunan milli park, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor.
+Giresun-Ordu Dogu Ladini 2 milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Doğal güzellikleri, zengin florası ve faunası ile ziyaretçilerini cezbeden bu milli park, aynı zamanda bölgenin tarihi ve kültürel açıdan da önemli bir konumu olarak biliniyor. Giresun ve Ordu illerinin sınırında bulunan milli park, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

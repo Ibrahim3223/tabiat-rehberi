@@ -1,7 +1,7 @@
 ---
 title: "Hacı Emin Efendi Türbesi"
 date: "2026-01-10T07:06:13.248Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karabük"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390844"
 
 # Hacı Emin Efendi Türbesi
 
-Hacı Emin Efendi Türbesi, Safranbolu'nun merkezinde, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer alıyor. Bu tarihi türbe, Karadeniz Bölgesi'nin güzide şehirlerinden biri olan Safranbolu'nun zengin kültürel mirasını yansıtıyor. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar yer alıyor. Tarihi geçmişi ile dikkat çeken bu türbe, Safranbolu'nun önemli turizm noktalarından biri olarak kabul ediliyor.
+ Bu tarihi türbe, Karadeniz Bölgesi'nin güzide şehirlerinden biri olan Safranbolu'nun zengin kültürel mirasını yansıtıyor. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar yer alıyor. Tarihi geçmişi ile dikkat çeken bu türbe, Safranbolu'nun önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hacı Emin Efendi Türbesi, yüzyıllar boyunca Safranbolu'nun önemli dini ve k
 
 ## Coğrafya
 
-Hacı Emin Efendi Türbesi, Karadeniz Bölgesi'nin güzide şehirlerinden biri olan Safranbolu'nun merkezinde yer alıyor. Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda kurulmuş ve etrafında çeşitli bitki türleri ile ağaçlar yer alıyor. Safranbolu'nun coğrafi yapısı, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yeşilin çeşitli tonlarını sunan ormanlar ve dağlarla çevrili. Hacı Emin Efendi Türbesi, bu coğrafi yapının içinde, Safranbolu'nun tarihi ve kültürel değerlerini yansıtıyor. Türbenin bulunduğu alan, Karadeniz Bölgesi'nin iklimsel özellikleri nedeniyle, yıl boyunca çeşitli hava koşullarına maruz kalıyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hüküm sürüyor. Bu iklimsel koşullar, bölgenin flora ve faunasını şekillendiriyor ve Hacı Emin Efendi Türbesi'nin etrafındaki bitki örtüsünü etkiliyor.
+Hacı Emin Efendi Türbesi, Karadeniz Bölgesi'nin güzide şehirlerinden biri olan Safranbolu'nun merkezinde yer alıyor. Safranbolu'nun coğrafi yapısı, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yeşilin çeşitli tonlarını sunan ormanlar ve dağlarla çevrili. Hacı Emin Efendi Türbesi, bu coğrafi yapının içinde, Safranbolu'nun tarihi ve kültürel değerlerini yansıtıyor. Türbenin bulunduğu alan, Karadeniz Bölgesi'nin iklimsel özellikleri nedeniyle, yıl boyunca çeşitli hava koşullarına maruz kalıyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hüküm sürüyor. Bu iklimsel koşullar, bölgenin flora ve faunasını şekillendiriyor ve Hacı Emin Efendi Türbesi'nin etrafındaki bitki örtüsünü etkiliyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390546"
 
 # Bozarmut Tepesi
 
-Bozarmut Tepesi, Niğde ili sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bozarmut Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşam tarzları hakkında bilgi veriyor.
+Bozarmut Tepesi, Niğde ili sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Bozarmut Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşam tarzları hakkında bilgi veriyor.
 
 ## Tarihçe
 

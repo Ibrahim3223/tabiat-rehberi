@@ -1,7 +1,7 @@
 ---
 title: "Sümbül Baba Türbesi"
 date: "2026-01-10T07:07:43.049Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -34,7 +34,7 @@ Sümbül Baba Türbesi, Tokat ilinin merkezinde yer alan ve tarihi ile doğal g�
 
 ## Tarihçe
 
-Sümbül Baba Türbesi, tarihsel geçmişi ile dikkat çekiyor. Bu türbenin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Sümbül Baba, bir din alimi ve mutasavvıf olarak biliniyor ve türbesi, Tokat'ın önemli dini noktalarından biri olarak kabul ediliyor. Tarihi belgelerde Sümbül Baba'nın hayatı ve öğretileri hakkında bilgiler bulunmakla birlikte, türbenin tam olarak ne zaman yapıldığına dair net bir bilgi bulunmuyor. Ancak, Sümbül Baba Türbesi, Tokat'ın kültürel ve tarihi mirasının önemli bir parçası olarak kabul ediliyor. Bu türbe, ziyaretçilerini tarihin sâu sayfalarına götürerek, Sümbül Baba'nın yaşamı ve öğretilerini öğrenme imkanı sunuyor.
+Sümbül Baba Türbesi, tarihsel geçmişi ile dikkat çekiyor. Bu türbenin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Sümbül Baba, bir din alimi ve mutasavvıf olarak biliniyor ve türbesi, Tokat'ın önemli dini noktalarından biri olarak kabul ediliyor. Tarihi belgelerde Sümbül Baba'nın hayatı ve öğretileri hakkında bilgiler bulunmakla birlikte, türbenin tam olarak ne zaman yapıldığına dair net bir bilgi bulunmuyor. Ancak, Sümbül Baba Türbesi, Tokat'ın kültürel ve tarihi mirasının önemli bir parçası olarak kabul ediliyor. Bu türbe, ziyaretçilerini tarihin derin sayfalarına götürerek, Sümbül Baba'nın yaşamı ve öğretilerini öğrenme imkanı sunuyor.
 
 ## Coğrafya
 

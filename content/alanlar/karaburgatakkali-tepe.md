@@ -28,7 +28,7 @@ wikidata_id: "Q31390465"
 
 # Karaburgatakkalı Tepe
 
-Konya'nın tarihi ve doğal güzellikleri arasında yer alan Karaburgatakkalı Tepe, ziyaretçilerini bekliyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide yer alıyor. Karaburgatakkalı Tepe, Konya'nın coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta olarak kabul ediliyor. Ziyaretçiler, bu tepeye çıkarak Konya'nın geniş düzlüklerini ve tarihi eserlerini panoramik olarak görebiliyorlar.
+Konya'nın tarihi ve doğal güzellikleri arasında yer alan Karaburgatakkalı Tepe, ziyaretçilerini bekliyor. Karaburgatakkalı Tepe, Konya'nın coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta olarak kabul ediliyor. Ziyaretçiler, bu tepeye çıkarak Konya'nın geniş düzlüklerini ve tarihi eserlerini panoramik olarak görebiliyorlar.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Karaburgatakkalı Tepe, ziyaretçileri için çeşitli olanaklar sunuyor. Ziyare
 ## İlginç Bilgiler
 
 - Karaburgatakkalı Tepe, Konya'nın tarihi ve doğal güzellikleri arasında yer alıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Karaburgatakkalı Tepe, Konya'nın coğrafi yapısını ve flora/faunasını yansıtan önemli bir noktadır.
 - Ziyaretçiler, bu tepeye çıkarak Konya'nın tarihi ve doğal güzelliklerini keşfedebilirler.
 - Karaburgatakkalı Tepe, Konya'nın ziyaretçileri için önemli bir destinasyon olarak kabul ediliyor.

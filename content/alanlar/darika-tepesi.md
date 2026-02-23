@@ -28,7 +28,7 @@ wikidata_id: "Q31552170"
 
 # Darika Tepesi
 
-Mardin'in tarihi ve doğal güzellikleri arasında yer alan Darika Tepesi, ziyaretçilerini bekliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle dolu. Darika Tepesi, Mardin'in merkezine uzun bir mesafe uzaklıkta yer alıyor ve şehrin tarihi dokusunu korumak amacıyla restore edilen birçok tarihi yapıyı bünyesinde barındırıyor. Tepenin eteklerinde, Mardin'in geleneksel mimarisini yansıtan ahşap ve taş yapılar bulunuyor. Bu yapılardan bazıları, restore edilerek konaklama tesisi veya restoran olarak kullanılıyor.
+Mardin'in tarihi ve doğal güzellikleri arasında yer alan Darika Tepesi, ziyaretçilerini bekliyor. Darika Tepesi, Mardin'in merkezine uzun bir mesafe uzaklıkta yer alıyor ve şehrin tarihi dokusunu korumak amacıyla restore edilen birçok tarihi yapıyı bünyesinde barındırıyor. Tepenin eteklerinde, Mardin'in geleneksel mimarisini yansıtan ahşap ve taş yapılar bulunuyor. Bu yapılardan bazıları, restore edilerek konaklama tesisi veya restoran olarak kullanılıyor.
 
 ## Tarihçe
 

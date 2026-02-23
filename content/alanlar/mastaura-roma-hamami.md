@@ -1,7 +1,7 @@
 ---
 title: "Mastaura Roma Hamamı"
 date: "2026-01-09T23:29:10.190Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739119"
 
 # Mastaura Roma Hamamı
 
-Mastaura Roma Hamamı, Aydın'ın Nazilli ilçesinde yer alan ve bölgenin önemli tarihi mekânlarından biri olarak kabul edilen bir antik yapıdır. Bu tarihi hamam, Ege Bölgesi'nin zengin tarihi geçmişini yansıtan önemli bir kültürel mirastır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilere geniş bir tarihi atmosfer sunar. Mastaura Roma Hamamı, geçmişin izlerini taşıyan bir yapı olarak, bölgenin turizm değerlerini artırmaya katkıda bulunmaktadır.
+Mastaura Roma Hamamı, Aydın'ın Nazilli ilçesinde yer alan ve bölgenin önemli tarihi mekânlarından biri olarak kabul edilen bir antik yapıdır. Bu tarihi hamam, Ege Bölgesi'nin zengin tarihi geçmişini yansıtan önemli bir kültürel mirastır. Mastaura Roma Hamamı, geçmişin izlerini taşıyan bir yapı olarak, bölgenin turizm değerlerini artırmaya katkıda bulunmaktadır.
 
 ## Tarihçe
 

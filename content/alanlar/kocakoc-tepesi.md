@@ -48,9 +48,9 @@ Mevsimsel değişiklikler, Kocakoç Tepesi'nin iklim karakterini şekillendirir.
 
 ## Flora ve Fauna
 
-Kocakoç Tepesi, yarı kurak iklimin hakim olduğu bir bölgede, dağ ekosisteminin zenginliklerini sunuyor. 1200 metre rakımla, dağların yükseklik zonlarına ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, alpin flora çiçek açmaya başlıyor ve dağ yamaçlarını bir renk cümbüşüne dönüştürüyor. 
+Kocakoç Tepesi, yarı kurak iklimin hakim olduğu bir bölgede, dağ ekosisteminin zenginliklerini sunuyor. 1200 metre rakımla, dağların yükseklik zonlarına ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, alpin flora çiçek açmaya başlıyor ve dağ yamaçlarını bir renk cümbüşüne dönüştürüyor.
 
-Bitki örtüsünün hakim türleri, step ve ova ekolojisine uygun olarak, kuraklığa dayanıklı çayır otları ve dikenli çalılardan oluşuyor. Mevsimsel değişimlere uyum sağlayan bu bitkiler, yaz aylarında kuraklığa dayanıklı bir yapıya sahipken, ilkbahar ve sonbahar aylarında yeşilleniyor. 
+Bitki örtüsünün hakim türleri, step ve ova ekolojisine uygun olarak, kuraklığa dayanıklı çayır otları ve dikenli çalılardan oluşuyor. Mevsimsel değişimlere uyum sağlayan bu bitkiler, yaz aylarında kuraklığa dayanıklı bir yapıya sahipken, ilkbahar ve sonbahar aylarında yeşilleniyor.
 
 Yaban hayatı da bu dağ ekosisteminde zenginlik gösteriyor. Memeliler, özellikle dağ keçileri ve yaban domuzları, bu bölgede yaşamlarını sürdürüyor. Kuşlar ise, özellikle göç mevsimlerinde, bu dağları konaklama noktası olarak kullanıyor. Sürüngenler de, bu bölgenin kuru ve kayalık alanlarında yaşamını sürdüren çeşitli türlerle temsil ediliyor.
 

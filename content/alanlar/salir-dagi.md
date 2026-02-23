@@ -50,7 +50,7 @@ Mevsimsel açıdan, Salır Dağı'nın iklimi Akdeniz ikliminin karakteristik ö
 
 ## Flora ve Fauna
 
-Salır Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak maki bitki örtüsüne ev sahipliği yapar. 1200 metre yükseklikte, kuraklığa dayanıklı türler hakimdir. İlkbaharda, dağ yamaçları renkli çiçeklerle donanır. 
+Salır Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak maki bitki örtüsüne ev sahipliği yapar. 1200 metre yükseklikte, kuraklığa dayanıklı türler hakimdir. İlkbaharda, dağ yamaçları renkli çiçeklerle donanır.
 
 Bitki örtüsünün yanı sıra, dağ hayvanları da bu ekosistemin önemli bir parçasıdır. Dağ keçileri ve yaban domuzları, bölgenin memeli türleridir. Kuşlar, özellikle göç mevsiminde, dağları ziyaret eder. Sürüngenler de, özellikle kaya ve taşlık alanlarda, bolca bulunur.
 

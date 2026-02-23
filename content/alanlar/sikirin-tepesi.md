@@ -28,7 +28,7 @@ wikidata_id: "Q31389243"
 
 # Şıkırın Tepesi
 
-Şıkırın Tepesi, Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğa severlerin ve macera arayanların ziyaret etmek için ideal bir yer. Şıkırın Tepesi, ziyaretçilerini büyüleyici manzaralar ve eşsiz doğası ile karşılayacak. Bu tepe, aynı zamanda trekking ve doğa yürüyüşü için uygun bir ortam sunuyor. Ziyaretçiler, bu güzel doğa alanını keşfetmek için çeşitli parkurları takip edebilirler.
+Şıkırın Tepesi, Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alan bir tepe. Bu bölge, doğa severlerin ve macera arayanların ziyaret etmek için ideal bir yer. Şıkırın Tepesi, ziyaretçilerini büyüleyici manzaralar ve eşsiz doğası ile karşılayacak. Bu tepe, aynı zamanda trekking ve doğa yürüyüşü için uygun bir ortam sunuyor. Ziyaretçiler, bu güzel doğa alanını keşfetmek için çeşitli parkurları takip edebilirler.
 
 ## Tarihçe
 

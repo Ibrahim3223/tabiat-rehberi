@@ -28,7 +28,7 @@ wikidata_id: "Q32211272"
 
 # Kızılgöl
 
-Samsun'un doğa harikası Kızılgöl, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan Kızılgöl, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer. Kızılgöl'ün etrafında bulunan ormanlar, ziyaretçilere huzurlu ve sakin bir ortam sunuyor. Kızılgöl'ü ziyaret etmek, doğayla iç içe olma ve stresten uzaklaşmak isteyenler için ideal bir seçenek.
+Samsun'un doğa harikası Kızılgöl, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Bu bölge, doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer. Kızılgöl'ün etrafında bulunan ormanlar, ziyaretçilere huzurlu ve sakin bir ortam sunuyor. Kızılgöl'ü ziyaret etmek, doğayla iç içe olma ve stresten uzaklaşmak isteyenler için ideal bir seçenek.
 
 ## Tarihçe
 

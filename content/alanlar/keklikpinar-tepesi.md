@@ -28,7 +28,7 @@ wikidata_id: "Q31557633"
 
 # Keklikpınar Tepesi
 
-Keklikpınar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve böylece yaklaşık 200 futbol sahası büyüklüğünde bir doğal alanı temsil ediyor. Keklikpınar Tepesi, ziyaretçilerini güler yüzlü bir şekilde karşılayarak, onlara doğayla iç içe bir deneyim sunuyor. Bu tepe, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenlerin sığınaklarından biri olarak biliniyor.
+Keklikpınar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Keklikpınar Tepesi, ziyaretçilerini güler yüzlü bir şekilde karşılayarak, onlara doğayla iç içe bir deneyim sunuyor. Bu tepe, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenlerin sığınaklarından biri olarak biliniyor.
 
 ## Tarihçe
 

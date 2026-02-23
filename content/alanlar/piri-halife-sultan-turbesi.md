@@ -1,7 +1,7 @@
 ---
 title: "Piri Halife Sultan Türbesi"
 date: "2026-01-10T07:02:34.802Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Isparta"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390830"
 
 # Piri Halife Sultan Türbesi
 
-Piri Halife Sultan Türbesi, Isparta'nın Eğirdir ilçesinde bulunan bir tarihi türbe ve plajdır. Bu güzel mekan, 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içinde yer alır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş bir açık alan sunar. Tarihi türbe, güzel plajı ve zengin doğasıyla birlikte, Piri Halife Sultan Türbesi, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir destinasyondur. Burada, tarihi bir türbenin huzurunu ve güzel bir plajın keyfini bir arada yaşayabilirsiniz.
+Piri Halife Sultan Türbesi, Isparta'nın Eğirdir ilçesinde bulunan bir tarihi türbe ve plajdır. Bu güzel mekan, 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içinde yer alır. Tarihi türbe, güzel plajı ve zengin doğasıyla birlikte, Piri Halife Sultan Türbesi, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir destinasyondur. Burada, tarihi bir türbenin huzurunu ve güzel bir plajın keyfini bir arada yaşayabilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Piri Halife Sultan Türbesi, tarihi geçmişi ile dikkat çeker. Bu tarihi mekan
 
 ## Coğrafya
 
-Piri Halife Sultan Türbesi, Isparta'nın Eğirdir ilçesinde bulunur. Bu bölge, Akdeniz Bölgesi'nin güzelliklerini taşır. Türbe ve plaj, 140 hektarlık geniş bir yeşil alanın içinde yer alır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Bölge, güzel bir plaj ve tarihi bir türbe ile birlikte, ziyaretçilerine zengin bir doğa ve tarih deneyimi sunar. Eğirdir Gölü'nün yakınlarında bulunan Piri Halife Sultan Türbesi, güzel bir göl manzarası da sunar. Bu mekan, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir destinasyondur.
+Piri Halife Sultan Türbesi, Isparta'nın Eğirdir ilçesinde bulunur. Bu bölge, Akdeniz Bölgesi'nin güzelliklerini taşır. Türbe ve plaj, 140 hektarlık geniş bir yeşil alanın içinde yer alır. Bölge, güzel bir plaj ve tarihi bir türbe ile birlikte, ziyaretçilerine zengin bir doğa ve tarih deneyimi sunar. Eğirdir Gölü'nün yakınlarında bulunan Piri Halife Sultan Türbesi, güzel bir göl manzarası da sunar. Bu mekan, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

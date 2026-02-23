@@ -28,7 +28,7 @@ wikidata_id: "Q31390513"
 
 # İbişağıl Tepesi
 
-İbişağıl Tepesi, Konya ilinin merkezine yakın bir konumda bulunan ve İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çeker. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. İbişağıl Tepesi, bölgenin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak görünür. Tepenin etrafındaki manzara, Konya'nın geniş ovalarını ve tarihi yapılarını görmek için uygun bir noktadır.
+İbişağıl Tepesi, Konya ilinin merkezine yakın bir konumda bulunan ve İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çeker. İbişağıl Tepesi, bölgenin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak görünür. Tepenin etrafındaki manzara, Konya'nın geniş ovalarını ve tarihi yapılarını görmek için uygun bir noktadır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390932"
 
 # Adaca Tepesi
 
-Adaca Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini geniş ve yeşil bir mekanda ağırlıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Adaca Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Ziyaretçileri, bu tepeye çıktıklarında, geniş ve yeşillik bir görüş alanına sahip oluyorlar. Bu tepe, özellikle güneşin batış saatlerinde, ziyaretçilerine eşsiz bir manzara sunuyor.
+Adaca Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini geniş ve yeşil bir mekanda ağırlıyor. Adaca Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Ziyaretçileri, bu tepeye çıktıklarında, geniş ve yeşillik bir görüş alanına sahip oluyorlar. Bu tepe, özellikle güneşin batış saatlerinde, ziyaretçilerine eşsiz bir manzara sunuyor.
 
 ## Tarihçe
 

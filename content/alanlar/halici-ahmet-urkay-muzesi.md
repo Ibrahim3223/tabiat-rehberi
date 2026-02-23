@@ -1,7 +1,7 @@
 ---
 title: "Halıcı Ahmet Urkay Müzesi"
 date: "2026-01-10T15:10:23.005Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Muğla"
@@ -24,7 +24,7 @@ wikidata_id: "Q6019696"
 
 # Halıcı Ahmet Urkay Müzesi
 
-Marmaris'te yer alan Halıcı Ahmet Urkay Müzesi, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor. Bu müzeyi ziyaret etmek isteyenler, Marmaris'in merkezinden uzun bir mesafe uzaklıkta bulunan yaylaya ulaşabilirler. Müzenin içinde, çeşitli eserler ve koleksiyonlar sergileniyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçiler için geniş bir gezi alanı sunuyor. Müzenin giriş kısmında, tarihi bir bina yer alıyor ve bu bina, müzenin en önemli yapılarından biri olarak kabul ediliyor.
+Marmaris'te yer alan Halıcı Ahmet Urkay Müzesi, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor. Bu müzeyi ziyaret etmek isteyenler, Marmaris'in merkezinden uzun bir mesafe uzaklıkta bulunan yaylaya ulaşabilirler. Müzenin içinde, çeşitli eserler ve koleksiyonlar sergileniyor. Müzenin giriş kısmında, tarihi bir bina yer alıyor ve bu bina, müzenin en önemli yapılarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

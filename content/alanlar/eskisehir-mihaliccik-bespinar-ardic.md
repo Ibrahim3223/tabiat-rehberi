@@ -22,7 +22,7 @@ wikidata_id: "Q108228099"
 
 # Eskişehir- Mihaliccık-Bespinar-Ardic
 
-Eskişehir- Mihaliccık-Bespinar-Ardic milli parkı, İç Anadolu Bölgesi'nin en güzel doğal alanlarından biridir. Bu park, yaklaşık 140 hektarlık bir alanı kapsar ve 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Burası, hem doğa severler hem de tarih meraklıları için eşsiz bir deneyim sunar. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Ayrıca, ziyaretçiler için birçok gezi güzargahı ve etkinlik alanı mevcuttur.
+Eskişehir- Mihaliccık-Bespinar-Ardic milli parkı, İç Anadolu Bölgesi'nin en güzel doğal alanlarından biridir. Burası, hem doğa severler hem de tarih meraklıları için eşsiz bir deneyim sunar. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Ayrıca, ziyaretçiler için birçok gezi güzargahı ve etkinlik alanı mevcuttur.
 
 ## Tarihçe
 

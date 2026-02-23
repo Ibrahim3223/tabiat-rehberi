@@ -32,9 +32,9 @@ Diyarbakır'ın tarihi ve doğal güzellikleriyle dolu coğrafyasında yer alan 
 
 ## Tarihçe
 
-Diyarbakır bölgesinin zengin tarihi, binlerce yıl öncesine uzanmaktadır. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıklara ev sahipliği yapmış; Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük medeniyetlerin izlerini taşımaktadır. Ciro Tepe de bu tarihi coğrafyanın bir parçasıdır. 
+Diyarbakır bölgesinin zengin tarihi, binlerce yıl öncesine uzanmaktadır. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıklara ev sahipliği yapmış; Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük medeniyetlerin izlerini taşımaktadır. Ciro Tepe de bu tarihi coğrafyanın bir parçasıdır.
 
-Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli roller oynamıştır. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisinde ve insanların yaşamlarında önemli yer tutmuştur. Ayrıca, ticaret yollarının güzergahlarında bulunan bazı doğal alanlar, bölgenin stratejik öneminin artmasına katkıda bulunmuştur. 
+Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli roller oynamıştır. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisinde ve insanların yaşamlarında önemli yer tutmuştur. Ayrıca, ticaret yollarının güzergahlarında bulunan bazı doğal alanlar, bölgenin stratejik öneminin artmasına katkıda bulunmuştur.
 
 Ciro Tepe ve benzeri doğal alanlar, yalnızca coğrafi güzellikleri ile değil, aynı zamanda tarihsel ve kültürel bağlamları ile de önemli birer mekândır. Bu alanlar, insan faaliyetlerinin yanı sıra, flora ve fauna çeşitliliği açısından da zenginliklerini korumuştur. Diyarbakır'ın tarihi ve kültürel mirasının bir parçası olarak, Ciro Tepe, bölgenin doğal güzelliklerinin ve tarihsel değerlerinin korunmasına katkıda bulunmaktadır.
 
@@ -50,9 +50,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Ciro Tepe'ni
 
 ## Flora ve Fauna
 
-Ciro Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarına bağlı olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları renkli çiçeklerle donanıyor. 
+Ciro Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarına bağlı olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları renkli çiçeklerle donanıyor.
 
-Bitki örtüsünü oluşturan step ve ova ekolojisi, mevsimsel olarak değişen bir görünüm sunuyor. Dağın daha yüksek kesimlerinde, alpin flora türlerine rastlama mümkün. Bu bölgenin yaban hayatı da bir o kadar zengin. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin bir parçası. Sonbaharın gelmesiyle birlikte, göç eden kuşlar bu bölgeden geçiyor. 
+Bitki örtüsünü oluşturan step ve ova ekolojisi, mevsimsel olarak değişen bir görünüm sunuyor. Dağın daha yüksek kesimlerinde, alpin flora türlerine rastlama mümkün. Bu bölgenin yaban hayatı da bir o kadar zengin. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin bir parçası. Sonbaharın gelmesiyle birlikte, göç eden kuşlar bu bölgeden geçiyor.
 
 Ciro Tepe'nin ekolojik değeri, bu dağ ekosisteminin korunmasına bağlı. Bu bölge, birçok canlı türünün yaşam alanı ve göç yolu olarak önemli bir rol oynuyor. Bu nedenle, bu alanın korunmasına dikkat etmek gerekiyor.
 

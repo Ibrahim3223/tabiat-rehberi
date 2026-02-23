@@ -51,7 +51,7 @@ Bölgenin ekosistem bağlantıları, Kadıoğlu Dağı'nın önemini gösterir. 
 
 Kadıoğlu Dağı, Karadeniz Bölgesi'nin step bitki örtüsüne ve bozkırına ev sahipliği yapan bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, alpin flora ve dağ hayvanları ile zengin bir ekosistem sunar.
 
-İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, sonbaharda göç eden kuşlar gökyüzünü süsler. Step ve bozkır bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler yaşamını sürdürür. 
+İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, sonbaharda göç eden kuşlar gökyüzünü süsler. Step ve bozkır bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler yaşamını sürdürür.
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Bu canlılar, dağın yükseklik zonlarına ve yaşam alanlarına bağlı olarak değişkenlik gösterir. Ekolojik ilişkiler, bu dağ ekosisteminin önemini vurgular. Örneğin, bazı bitkiler belirli hayvanlara bağımlıdır ve onların varlığıyla birlikte sốngler. Bu nedenle, Kadıoğlu Dağı'nın koruma durumu büyük önem taşır.
 

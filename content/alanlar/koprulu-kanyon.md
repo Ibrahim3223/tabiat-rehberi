@@ -1,7 +1,7 @@
 ---
 title: "Köprülü Kanyon"
 date: "2026-01-09T11:00:18.176Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "kanyon"
 il: "Türkiye"
@@ -33,7 +33,7 @@ Antalya'nın manzaralı Köprüçay Vadisi'nde yer alan Köprülü Kanyon, Türk
 
 ## Tarihçe
 
-Köprülü Kanyon, Türkiye'nin güneyinde, Antalya ilinin Manavgat ilçesinde yer alan bir doğal harikadır. Bu bölge, tarihin sâu sayfalarında önemli bir role sahip olmuştur. Antik Çağ'da, bu bölge Likya ve Pamfilya uygarlıklarının önemli yerleşim yerlerinden biridir. Bölge, tarihi İpek Yolu'nun bir parçası olarak da önemli bir ticaret merkezi olmuştur.
+Köprülü Kanyon, Türkiye'nin güneyinde, Antalya ilinin Manavgat ilçesinde yer alan bir doğal harikadır. Bu bölge, tarihin derin sayfalarında önemli bir role sahip olmuştur. Antik Çağ'da, bu bölge Likya ve Pamfilya uygarlıklarının önemli yerleşim yerlerinden biridir. Bölge, tarihi İpek Yolu'nun bir parçası olarak da önemli bir ticaret merkezi olmuştur.
 
 Doğal güzellikleri ve stratejik konumu nedeniyle, bu bölge yüzyıllar boyunca çeşitli uygarlıkların ilgi odağı olmuştur. Köprülü Kanyon'un bulunduğu Manavgat Nehri, antik dönemlerden beri bölgenin ekonomisi ve kültürü için önemli bir kaynak olmuştur. Bölge, aynı zamanda yaylacılık ve hayvancılık faaliyetleri için de uygun bir ortama sahiptir.
 
@@ -59,7 +59,7 @@ Köprülü Kanyon, ekolojik açıdan büyük bir değer taşır. Bu bölge, bir�
 
 ## Ziyaret Bilgileri
 
-Köprülü Kanyon'u ziyaret etmek için sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu izleyebilirsiniz. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. En güzel manzara noktası, kanyonun ortasında bulunan köprüden izlenebilir. Yanınıza mutlaka su ve atıştırmalık alın çünkü kanyon içinde yemek seçenekleri sınırlı olabilir. Doğa yürüyüşü, fotoğrafçılık ve piknik için ideal bir yer olan Köprülü Kanyon, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Köprülü Kanyon'u ziyaret etmek için sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu izleyebilirsiniz. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. En güzel manzara noktası, kanyonun ortasında bulunan köprüden izlenebilir. Yanınıza mutlaka su ve atıştırmalık alın çünkü kanyon içinde yemek seçenekleri sınırlı olabilir.
 
 ## İlginç Bilgiler
 

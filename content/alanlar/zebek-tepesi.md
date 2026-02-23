@@ -28,7 +28,7 @@ wikidata_id: "Q31390517"
 
 # Zebek Tepesi
 
-Zebek Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu bakımdan yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Zebek Tepesi, özellikle yürüyüş ve doğa severler için ideal bir destinasyon olarak dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Zebek Tepesi'nin etrafında, geniş otlaklar ve ormanlık alanlar yer alır ve bu nedenle doğa ile iç içe bir deneyim sunar.
+Zebek Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Zebek Tepesi, özellikle yürüyüş ve doğa severler için ideal bir destinasyon olarak dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Zebek Tepesi'nin etrafında, geniş otlaklar ve ormanlık alanlar yer alır ve bu nedenle doğa ile iç içe bir deneyim sunar.
 
 ## Tarihçe
 

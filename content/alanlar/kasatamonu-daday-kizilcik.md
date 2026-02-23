@@ -22,7 +22,7 @@ wikidata_id: "Q108228593"
 
 # Kasatamonu-Daday Kizilcik
 
-Kasatamonu-Daday Kizilcik milli parkı, İç Anadolu Bölgesi'nin en çekici doğal alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik değerlerini barındırıyor. Bu milli park, hem doğa severler hem de çevre bilincini geliştirmek isteyenler için ideal bir gezi noktası sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın büyüklüğü ve sunduğu olanaklar, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
+Kasatamonu-Daday Kizilcik milli parkı, İç Anadolu Bölgesi'nin en çekici doğal alanlarından biri olarak karşımıza çıkıyor. Bu milli park, hem doğa severler hem de çevre bilincini geliştirmek isteyenler için ideal bir gezi noktası sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın büyüklüğü ve sunduğu olanaklar, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
 
 ## Tarihçe
 

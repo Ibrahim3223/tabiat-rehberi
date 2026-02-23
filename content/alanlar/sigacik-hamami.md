@@ -1,7 +1,7 @@
 ---
 title: "Sığacık Hamamı"
 date: "2026-01-09T23:18:22.503Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738981"
 
 # Sığacık Hamamı
 
-Sığacık Hamamı, İzmir'in Seferihisar ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olan bir deniz kıyısıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir sahile sahiptir. Bu plaj, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini cezbeder. Sığacık Hamamı, özellikle yaz aylarında tatilciler için popüler bir destinasyon olarak bilinir. Bu güzel plajda, denizin serin sularında yüzebilir, güneşin altında dinlenebilir veya çeşitli su sporları ile eğlenebilirsiniz.
+Sığacık Hamamı, İzmir'in Seferihisar ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olan bir deniz kıyısıdır. Bu plaj, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini cezbeder. Sığacık Hamamı, özellikle yaz aylarında tatilciler için popüler bir destinasyon olarak bilinir. Bu güzel plajda, denizin serin sularında yüzebilir, güneşin altında dinlenebilir veya çeşitli su sporları ile eğlenebilirsiniz.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228255"
 
 # Ankara-Ankara-Bala-Karaçam
 
-Ankara-Ankara-Bala-Karaçam, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzak bir doğal cennettir. Parkın etrafı, yüksek dağlarla çevrilidir ve hereyi çam ağaçlarının yeşilliği sarar. Bu milli park, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Konum olarak, Ankara şehrine yakın olmasına rağmen, doğal bir ortam sunar ve ziyaretçilere şehrin stresinden kaçış imkânı sağlar.
+Ankara-Ankara-Bala-Karaçam, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Parkın etrafı, yüksek dağlarla çevrilidir ve hereyi çam ağaçlarının yeşilliği sarar. Bu milli park, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Konum olarak, Ankara şehrine yakın olmasına rağmen, doğal bir ortam sunar ve ziyaretçilere şehrin stresinden kaçış imkânı sağlar.
 
 ## Tarihçe
 

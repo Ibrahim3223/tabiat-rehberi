@@ -46,7 +46,7 @@ Doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çeken Bekçiler Tepe
 
 İklim açısından bakıldığında, Bekçiler Tepe ve çevresindeki bölge, karasal iklim özellikleri göstermektedir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçmektedir. Bu mevsimsel değişimler, tepe ve çevresindeki ekosistemi etkilemektedir. Bekçiler Tepe, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte bir tepe olmasa da, bölgenin coğrafi yapısını etkileyen önemli bir noktadır.
 
-Bekçiler Tepe, çevresindeki diğer dağlık alanlar ve vadilerle birlikte, bir bütün olarak düşünüldüğünde, Monaco'nun onda biri kadar bir alanı kaplar. Bu bölge, su kaynakları ve ekosistem bağlantıları açısından önemlidir. Çevresindeki nehirler ve akarsular, tepe ve çevresindeki bitki örtüsünü ve hayvanları beslemektedir. Bu nedenle, Bekçiler Tepe, bölgenin ekolojik dengesini korumak açısından önemli bir role sahiptir.
+Bekçiler Tepe, çevresindeki diğer dağlık alanlar ve vadilerle birlikte, bir bütün olarak düşünüldüğünde, Monaco'nun onda biri kadar bir alanı kaplar. Bu bölge, su kaynakları ve ekosistem bağlantıları açısından önemlidir. Çevresindeki nehirler ve akarsular, tepe ve çevresindeki bitki örtüsünü ve hayvanları beslemektedir.
 
 ## Flora ve Fauna
 

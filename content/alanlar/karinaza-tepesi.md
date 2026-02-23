@@ -28,7 +28,7 @@ wikidata_id: "Q31385676"
 
 # Karınaza Tepesi
 
-Van şehrinde yer alan Karınaza Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Karınaza Tepesi, şehrin merkezine yakınlığıyla dikkat çekiyor ve ziyaretçilerine şehir manzarasını sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, burayı doğal bir cennet haline getiriyor. Karınaza Tepesi, hem doğa severler hem de fotoğraf çekmek isteyenler için ideal bir destinasyon.
+Van şehrinde yer alan Karınaza Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Karınaza Tepesi, şehrin merkezine yakınlığıyla dikkat çekiyor ve ziyaretçilerine şehir manzarasını sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, burayı doğal bir cennet haline getiriyor. Karınaza Tepesi, hem doğa severler hem de fotoğraf çekmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

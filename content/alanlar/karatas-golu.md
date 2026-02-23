@@ -34,7 +34,7 @@ Burdur'un merkezinde yer alan Karataş Gölü, bölgenin önemli doğal güzelli
 
 ## Tarihçe
 
-Burdur bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, antik çağlardan beri çeşitli uygarlıkların yaşam alanı olmuştur. Hititler, Frigler, Lidyalılar ve Romalılar gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. Karataş Gölü de, bu tarihi zenginliğin bir parçasını oluşturan doğal bir hazinedir.
+Burdur bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, antik çağlardan beri çeşitli uygarlıkların yaşam alanı olmuştur. Hititler, Frigler, Lidyalılar ve Romalılar gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. Karataş Gölü de, bu tarihi zenginliğin bir parçasını oluşturan doğal bir hazinedir.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. Bu alanlar, sadece güzellikleri ile değil, aynı zamanda insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sunmaları açısından da değerlidir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu tür doğal alanların etrafında şekillenmiştir. İnsanlar, bu bölgelerde yaşamını sürdürürken, aynı zamanda doğayı koruma ve kullanma arasındaki dengeyi de öğrenmiştir.
 

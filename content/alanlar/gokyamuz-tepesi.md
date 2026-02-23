@@ -28,7 +28,7 @@ wikidata_id: "Q32138318"
 
 # Gökyamuz Tepesi
 
-Gökyamuz Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanıyla dikkat çekmektedir. Bu tepe, ziyaretçilerini doğal güzellikleriyle büyülemektedir. Gökyamuz Tepesi, aynı zamanda flora ve fauna bakımından zengin bir alandır. Burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere eşsiz bir manzara sunmaktadır.
+ Bu tepe, ziyaretçilerini doğal güzellikleriyle büyülemektedir. Gökyamuz Tepesi, aynı zamanda flora ve fauna bakımından zengin bir alandır. Burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere eşsiz bir manzara sunmaktadır.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Gökyamuz Tepesi'ni ziyaret etmek için, Antalya'ya ulaşmanız gerekmektedir. T
 
 ## İlginç Bilgiler
 
-- Gökyamuz Tepesi, 140 hektarlık yeşil alanıyla approximately 200 futbol sahası büyüklüğündedir.
 - Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır.
 - Bu bölge, fauna bakımından da zengin olup, çeşitli hayvanlar yaşamaktadır.
 - Gökyamuz Tepesi, tarihsel öneme sahip bir alandır.

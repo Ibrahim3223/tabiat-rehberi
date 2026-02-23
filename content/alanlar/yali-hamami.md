@@ -1,7 +1,7 @@
 ---
 title: "Yalı Hamamı"
 date: "2026-01-09T22:28:44.121Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale (ilçe)"
@@ -29,11 +29,11 @@ wikidata_id: "Q131738507"
 
 # Yalı Hamamı
 
-Yalı Hamamı, Çanakkale'nin merkezinde bulunan ve yaklaşık 140 hektarlık bir alanı kapsayan bir plajdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş ve uzun kumsalıyla dikkat çekmektedir. Yalı Hamamı, denize girilebilecek en güzel yerlerden biri olarak bilinir ve özellikle yaz aylarında turistlerin ve yerel halkın ziyaret ettiği bir noktadır. Plajın çevresinde çeşitli sosyal tesisler ve işletmeler bulunur, bu da ziyaretçilerin konaklama, yeme içme ve eğlence ihtiyaçlarını karşılamalarına olanak tanır.
+Yalı Hamamı, Çanakkale'nin merkezinde bulunan ve yaklaşık 140 hektarlık bir alanı kapsayan bir plajdır. Yalı Hamamı, denize girilebilecek en güzel yerlerden biri olarak bilinir ve özellikle yaz aylarında turistlerin ve yerel halkın ziyaret ettiği bir noktadır. Plajın çevresinde çeşitli sosyal tesisler ve işletmeler bulunur, bu da ziyaretçilerin konaklama, yeme içme ve eğlence ihtiyaçlarını karşılamalarına olanak tanır.
 
 ## Tarihçe
 
-Yalı Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bu topraklara kendi kültürel ve mimari izlerini bırakmıştır. Çanakkale'nin históriki geçmişi, Yalı Hamamı'nın da bir parçası olduğu geniş bir coğrafyayı kapsar. Bu plaj, sadece doğal güzelliği ile değil, aynı zamanda tarihi değerleriyle de ziyaretçilerini çekmektedir. Yalı Hamamı'nın tarihi hakkında detaylı bilgi bulunmasa da, Çanakkale'nin genel tarihi geçmişi, bu bölgenin önemini vurgulamaktadır.
+Yalı Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bu topraklara kendi kültürel ve mimari izlerini bırakmıştır. Çanakkale'nin tarihi geçmişi, Yalı Hamamı'nın da bir parçası olduğu geniş bir coğrafyayı kapsar. Bu plaj, sadece doğal güzelliği ile değil, aynı zamanda tarihi değerleriyle de ziyaretçilerini çekmektedir. Yalı Hamamı'nın tarihi hakkında detaylı bilgi bulunmasa da, Çanakkale'nin genel tarihi geçmişi, bu bölgenin önemini vurgulamaktadır.
 
 ## Coğrafya
 
@@ -41,7 +41,7 @@ Yalı Hamamı, Çanakkale ilinin merkezinde, denize kıyısı olan bir bölgede 
 
 ## Flora ve Fauna
 
-Yalı Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, özellikle deniz kıyısında yetişen bitkiler ve ağaçlar bulunur. Yalı Hamamı'nın flora ve fauna açısından zengin olması, bu bölgenin doğal güzelliğini ve önemini vurgular. Deniz suyu, çeşitli balık türleri ve diğer deniz canlılarıyla doludur. Bu durum, plajın hem doğal güzelliğini hem de ekolojik önemini arttırmaktadır. Yalı Hamamı, ziyaretçilere doğayla iç içe bir deneyim sunar ve bu da plajın popüler olmasının nedenlerinden biridir.
+ Bu bölgede, özellikle deniz kıyısında yetişen bitkiler ve ağaçlar bulunur. Yalı Hamamı'nın flora ve fauna açısından zengin olması, bu bölgenin doğal güzelliğini ve önemini vurgular. Deniz suyu, çeşitli balık türleri ve diğer deniz canlılarıyla doludur. Bu durum, plajın hem doğal güzelliğini hem de ekolojik önemini arttırmaktadır. Yalı Hamamı, ziyaretçilere doğayla iç içe bir deneyim sunar ve bu da plajın popüler olmasının nedenlerinden biridir.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Yalı Hamamı'na ulaşım, Çanakkale'nin merkezinden oldukça kolaydır. Ziyare
 ## İlginç Bilgiler
 
 - Yalı Hamamı, Çanakkale'nin en çok ziyaret edilen plajlarından biridir.
-- Plaj, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Yalı Hamamı'nın tarihi geçmişi, Çanakkale'nin genel tarihsel önemini vurgular.
 - Plajın etrafında çeşitli bitki türleri ve ağaçlar bulunur.
 - Yalı Hamamı, yıl boyunca ziyaret edilebilir bir yerdir.

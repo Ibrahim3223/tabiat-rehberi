@@ -1,7 +1,7 @@
 ---
 title: "Kariye Sultan Hamamı"
 date: "2026-01-09T22:43:20.127Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738578"
 
 # Kariye Sultan Hamamı
 
-Kariye Sultan Hamamı, Fatih ilçesinde yer alan ve Marmara Bölgesi'nin önemli plajlarından biri olarak bilinen bir alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunar. Kariye Sultan Hamamı,historik öneme sahip bir bölgede yer alır ve ziyaretçilerini İstanbul'un zengin tarihine davet eder. Bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çekmeyi başarır. Ziyaretçiler, plajın sunduğu olanaklardan yararlanabilir ve aynı zamanda tarihi yapıları keşfedebilir.
+Kariye Sultan Hamamı, Fatih ilçesinde yer alan ve Marmara Bölgesi'nin önemli plajlarından biri olarak bilinen bir alandır. Kariye Sultan Hamamı,historik öneme sahip bir bölgede yer alır ve ziyaretçilerini İstanbul'un zengin tarihine davet eder. Bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çekmeyi başarır. Ziyaretçiler, plajın sunduğu olanaklardan yararlanabilir ve aynı zamanda tarihi yapıları keşfedebilir.
 
 ## Tarihçe
 

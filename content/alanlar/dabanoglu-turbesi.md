@@ -1,7 +1,7 @@
 ---
 title: "Dabanoğlu Türbesi"
 date: "2026-01-10T04:57:22.009Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -37,11 +37,11 @@ Dabanoğlu Türbesi'nin tarihi geçmişi, Diyarbakır'ın tarihsel süreçteki k
 
 ## Coğrafya
 
-Dabanoğlu Türbesi, Sur ilçesinde yer alır ve Diyarbakır'ın coğrafi yapısına uygun bir şekilde tasarlanmıştır. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresi tarihi yapılarla dolu bir bölgede yer alır. Diyarbakır, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında bulunur ve bölge, histórik açıdan zengin bir geçmişe sahiptir. Dabanoğlu Türbesi de bu coğrafi konumun bir parçası olarak, ziyaretçilerine bölge hakkında geniş bir perspektif sunar. Türbenin etrafı, tarihi yapılar ve yeşil alanlarla çevrilidir, bu da ziyaretçilerin tarihi bir atmosferde dinlenmelerine olanak sağlar. Diyarbakır'ın iklimi, genel olarak kura ve sıcak bir karaktere sahiptir, ancak Dabanoğlu Türbesi gibi tarihi yapılar, ziyaretçilere serin ve huzurlu bir ortam sunar.
+Dabanoğlu Türbesi, Sur ilçesinde yer alır ve Diyarbakır'ın coğrafi yapısına uygun bir şekilde tasarlanmıştır. Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresi tarihi yapılarla dolu bir bölgede yer alır. Diyarbakır, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında bulunur ve bölge, tarihi açıdan zengin bir geçmişe sahiptir. Dabanoğlu Türbesi de bu coğrafi konumun bir parçası olarak, ziyaretçilerine bölge hakkında geniş bir perspektif sunar. Türbenin etrafı, tarihi yapılar ve yeşil alanlarla çevrilidir, bu da ziyaretçilerin tarihi bir atmosferde dinlenmelerine olanak sağlar. Diyarbakır'ın iklimi, genel olarak kura ve sıcak bir karaktere sahiptir, ancak Dabanoğlu Türbesi gibi tarihi yapılar, ziyaretçilere serin ve huzurlu bir ortam sunar.
 
 ## Flora ve Fauna
 
-Dabanoğlu Türbesi ve çevresi, çeşitli bitki türleri ve fauna ile zengin bir doğaya sahiptir. Bölge, histórik açıdan önemli olmasının yanı sıra, doğal güzellikleri ile de dikkat çeker. Diyarbakır'ın flora ve fauna zenginliği, ziyaretçilere bölge hakkında geniş bir perspektif sunar. Dabanoğlu Türbesi'nin etrafında, bölgeye özgü bitkiler ve ağaçlar yer alır, bu da ziyaretçilerin doğal bir atmosferde dinlenmelerine olanak sağlar. Mevsimsel değişimler, bölgenin flora ve faunasını etkiler, ancak Dabanoğlu Türbesi gibi tarihi yapılar, ziyaretçilere her mevsim serin ve huzurlu bir ortam sunar.
+Dabanoğlu Türbesi ve çevresi, çeşitli bitki türleri ve fauna ile zengin bir doğaya sahiptir. Bölge, tarihi açıdan önemli olmasının yanı sıra, doğal güzellikleri ile de dikkat çeker. Diyarbakır'ın flora ve fauna zenginliği, ziyaretçilere bölge hakkında geniş bir perspektif sunar. Dabanoğlu Türbesi'nin etrafında, bölgeye özgü bitkiler ve ağaçlar yer alır, bu da ziyaretçilerin doğal bir atmosferde dinlenmelerine olanak sağlar. Mevsimsel değişimler, bölgenin flora ve faunasını etkiler, ancak Dabanoğlu Türbesi gibi tarihi yapılar, ziyaretçilere her mevsim serin ve huzurlu bir ortam sunar.
 
 ## Ziyaret Bilgileri
 

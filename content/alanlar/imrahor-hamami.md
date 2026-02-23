@@ -1,7 +1,7 @@
 ---
 title: "İmrahor Hamamı"
 date: "2026-01-09T23:31:39.615Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739054"
 
 # İmrahor Hamamı
 
-İmrahor Hamamı, Fatih, İstanbul'da bulunan tarihi bir hamam ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak gibidir. İmrahor Hamamı, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini cezbeden bir yerdir. Burada, tarihi hamamın yanı sıra, plaj keyfi yapabilir ve çevredeki doğayı keşfe çıkabilirsiniz.
+İmrahor Hamamı, Fatih, İstanbul'da bulunan tarihi bir hamam ve plaj alanıdır. İmrahor Hamamı, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini cezbeden bir yerdir. Burada, tarihi hamamın yanı sıra, plaj keyfi yapabilir ve çevredeki doğayı keşfe çıkabilirsiniz.
 
 ## Tarihçe
 

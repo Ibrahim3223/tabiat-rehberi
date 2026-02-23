@@ -28,7 +28,7 @@ wikidata_id: "Q31547984"
 
 # Rasınneboh Tepesi
 
-Rasınneboh Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Rasınneboh Tepesi, tarihi ve doğal güzellikleri ile dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölgede, yüzyıllar boyunca verschillı medeniyetler hüküm sürmüş. Rasınneboh Tepesi, ziyaretçilerini bekliyor.
+Rasınneboh Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Rasınneboh Tepesi, tarihi ve doğal güzellikleri ile dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölgede, yüzyıllar boyunca verschillı medeniyetler hüküm sürmüş. Rasınneboh Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

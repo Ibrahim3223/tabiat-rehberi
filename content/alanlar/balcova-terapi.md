@@ -23,7 +23,7 @@ wikidata_id: "Q108228745"
 
 # BALÇOVA TERAPİ
 
-BALÇOVA TERAPİ, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir alanı kapsayan bir milli parktır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğaseverler için cennet gibi bir yer. Parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrado. BALÇOVA TERAPİ, hem doğayı korumak hem de ziyaretçilere unutulmaz deneyimler sunmak amacıyla kurulmuştur. Doğa yürüyüşleri, piknik alanları ve çevreyi keşfetmek için ideal bir yer olan BALÇOVA TERAPİ, her mevsim ziyaretçilerini bekliyor.
+BALÇOVA TERAPİ, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir alanı kapsayan bir milli parktır. Parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrado. BALÇOVA TERAPİ, hem doğayı korumak hem de ziyaretçilere unutulmaz deneyimler sunmak amacıyla kurulmuştur. Doğa yürüyüşleri, piknik alanları ve çevreyi keşfetmek için ideal bir yer olan BALÇOVA TERAPİ, her mevsim ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ BALÇOVA TERAPİ'nin tarihi geçmişi, yüzyıllar boyunca süregelmiştir. Bu b
 
 ## Coğrafya
 
-BALÇOVA TERAPİ, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden birisidir. Park, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, piknik alanları ve çevreyi keşfetmek için ideal bir ortam sunuyor. BALÇOVA TERAPİ, İç Anadolu Bölgesi'nin iklimine uygun olarak, yazları sıcak ve kışları soğuk bir iklime sahiptir. Parkın çevresi, birçok doğal güzelliğe ev sahipliği yapmakta ve ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
+BALÇOVA TERAPİ, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden birisidir. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, piknik alanları ve çevreyi keşfetmek için ideal bir ortam sunuyor. BALÇOVA TERAPİ, İç Anadolu Bölgesi'nin iklimine uygun olarak, yazları sıcak ve kışları soğuk bir iklime sahiptir. Parkın çevresi, birçok doğal güzelliğe ev sahipliği yapmakta ve ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ BALÇOVA TERAPİ'yi ziyaret etmek, doğa severler için ideal bir aktivite. Park
 ## İlginç Bilgiler
 
 - BALÇOVA TERAPİ, 140 hektarlık bir alanı kapsıyor.
-- Park, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - BALÇOVA TERAPİ, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Park, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici bölgelerinden birisidir.
 - BALÇOVA TERAPİ, her mevsim ziyaretçilerini bekliyor.

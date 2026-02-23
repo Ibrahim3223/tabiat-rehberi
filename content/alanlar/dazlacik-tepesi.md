@@ -28,7 +28,7 @@ wikidata_id: "Q31388185"
 
 # Dazlacık Tepesi
 
-Dazlacık Tepesi, Denizli'nin doğal güzelliklerinden biri olarak Ege Bölgesi'nde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Dazlacık Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi değerleriyle karşılar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel halkın kültürünü ve geleneklerini tanıma fırsatı sunar. Dazlacık Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir destinasyondur.
+Dazlacık Tepesi, Denizli'nin doğal güzelliklerinden biri olarak Ege Bölgesi'nde yer alır. Dazlacık Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi değerleriyle karşılar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel halkın kültürünü ve geleneklerini tanıma fırsatı sunar. Dazlacık Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir destinasyondur.
 
 ## Tarihçe
 

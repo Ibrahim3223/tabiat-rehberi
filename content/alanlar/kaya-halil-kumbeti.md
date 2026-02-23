@@ -29,7 +29,7 @@ wikidata_id: "Q135582376"
 
 # Kaya Halil Kümbeti
 
-Karaman ilinin merkezinde bulunan Kaya Halil Kümbeti, bir tarihi ve doğal güzelliğin bir arada olduğu özel bir yer. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayan bir mekan. Bu özel yer, Karaman'ın zengin tarihini ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Karaman ilinin merkezinde bulunan Kaya Halil Kümbeti, bir tarihi ve doğal güzelliğin bir arada olduğu özel bir yer. Bu özel yer, Karaman'ın zengin tarihini ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

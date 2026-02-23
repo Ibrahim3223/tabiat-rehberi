@@ -22,7 +22,7 @@ wikidata_id: "Q108227891"
 
 # Izmir-Bergama-Poyracık Kızılçam 3
 
-İzmir-Bergama-Poyracıkızılçam 3 milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin flora ve faunasına ev sahipliği yapar. Bu milli park, doğa severler için bir cennet olup, ziyaretçilere çeşitli faaliyetler ve gezilecek yerler sunar. İzmir'in Bergama ilçesinde bulunan bu milli park, hem doğa hem de tarih açısından önemli bir destinasyondur.
+İzmir-Bergama-Poyracıkızılçam 3 milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. Bu milli park, doğa severler için bir cennet olup, ziyaretçilere çeşitli faaliyetler ve gezilecek yerler sunar. İzmir'in Bergama ilçesinde bulunan bu milli park, hem doğa hem de tarih açısından önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ wikidata_id: "Q108227891"
 ## İlginç Bilgiler
 
 - Milli parkın flora ve faunası, bölgeye özgüdür.
-- Park, históri ve kültürel açıdan önemlidir.
+- Park, tarihi ve kültürel açıdan önemlidir.
 - Milli park, doğa turizminin teşvik edilmesine katkıda bulunur.
 - Parkın coğrafi yapısı, dağlar, ormanlar ve vadilerden oluşur.
 - Milli park, yıl boyunca açık olup, ziyaretçilere çeşitli doğa aktivitelerine katılma fırsatı sunar.

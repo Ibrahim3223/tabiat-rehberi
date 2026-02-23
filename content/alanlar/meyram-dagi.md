@@ -50,11 +50,11 @@ Meyram Dağı'nın iklim karakteri, bölgenin genel iklimine benzer şekilde, ka
 
 ## Flora ve Fauna
 
-Meyram Dağı, Erzurum'un yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Meyram Dağı, Erzurum'un yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, yükseklik zonlarına göre değişkenlik gösterir. Dağların yüksek kesimlerinde, dayanıklı ve adaptasyon gösteren bitkiler hüküm sürer. 
+Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, yükseklik zonlarına göre değişkenlik gösterir. Dağların yüksek kesimlerinde, dayanıklı ve adaptasyon gösteren bitkiler hüküm sürer.
 
-Yaban Hayatı açısından, dağ keçileri ve yaban kedileri gibi memeliler, kartallar ve diğer dağ kuşları gibi kuş türleri, dağların zorlu koşullarına uyum sağlamışlardır. Sürüngenler de, kayalık alanlarda yaşamını sürdürür. 
+Yaban Hayatı açısından, dağ keçileri ve yaban kedileri gibi memeliler, kartallar ve diğer dağ kuşları gibi kuş türleri, dağların zorlu koşullarına uyum sağlamışlardır. Sürüngenler de, kayalık alanlarda yaşamını sürdürür.
 
 Ekolojik Değer olarak, Meyram Dağı'nın yüksek dağ ekolojisi ve alpin çayırları, endemik türlerin korunması için önemli bir alandır. Bu bölgenin korunması, dağ ekosisteminin dengesini korumak için son derece önemlidir.
 

@@ -29,7 +29,7 @@ wikidata_id: "Q49741877"
 
 # Acısu Kaplıcası
 
-Acısu Kaplıcası, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir termal kaynak olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içinde şifalı sularla buluşturuyor. Kaplıcanın suları, romatizma, cilt hastalıkları ve kas gevşetici özellikleriyle bilinen bir doğal kaynak olarak biliniyor. Acısu Kaplıcası, hem sağlık hem de doğa tutkunları için ideal bir destinasyon olarak karşımıza çıkıyor.
+Acısu Kaplıcası, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir termal kaynak olarak dikkat çekiyor. Kaplıcanın suları, romatizma, cilt hastalıkları ve kas gevşetici özellikleriyle bilinen bir doğal kaynak olarak biliniyor. Acısu Kaplıcası, hem sağlık hem de doğa tutkunları için ideal bir destinasyon olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

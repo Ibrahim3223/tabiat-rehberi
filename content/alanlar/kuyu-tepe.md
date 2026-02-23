@@ -28,7 +28,7 @@ wikidata_id: "Q31387638"
 
 # Kuyu Tepe
 
-Kuyu Tepe, Van ilinin zengin tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve Van'ın coğrafi yapısını anlamak için ideal bir noktası. Kuyu Tepe'nin etrafı, tarihi ve kültürel zenginliklerle dolu. Burada, geçmişin izlerini taşıyan çeşitli yapılar ve kalıntılar bulunmakta. Kuyu Tepe, aynı zamanda doğal güzellikleri ile ziyaretçilerini etkileyen bir yer. Bu tepe, Van'ın şehir merkezine yakınlığıyla da dikkat çekiyor ve kolay ulaşılabilir olmasıyla turistik bir cazibe merkezi olarak kabul ediliyor.
+Kuyu Tepe, Van ilinin zengin tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta. Kuyu Tepe'nin etrafı, tarihi ve kültürel zenginliklerle dolu. Burada, geçmişin izlerini taşıyan çeşitli yapılar ve kalıntılar bulunmakta. Kuyu Tepe, aynı zamanda doğal güzellikleri ile ziyaretçilerini etkileyen bir yer. Bu tepe, Van'ın şehir merkezine yakınlığıyla da dikkat çekiyor ve kolay ulaşılabilir olmasıyla turistik bir cazibe merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 

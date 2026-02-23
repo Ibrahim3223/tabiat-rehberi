@@ -28,7 +28,7 @@ wikidata_id: "Q31389350"
 
 # Kumbet Tepesi
 
-Kumbet Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe olarak known. 140 hektarlık geniş bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunar. Doğal güzelliği ile ziyaretçilerini büyüleyen Kumbet Tepesi, aynı zamanda bölgenin iklimini ve çevreyi etkileyen önemli bir faktördür. Bu tepe, Mersin'in turizm değerlerini artıran önemli bir doğal güzellik olarak kabul edilir. Ziyaretçiler, bu tepeye çıkarak bölgenin panoramik manzarasını izleyebilir ve doğayla iç içe bir gün geçirebilirler.
+Kumbet Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe olarak known. Doğal güzelliği ile ziyaretçilerini büyüleyen Kumbet Tepesi, aynı zamanda bölgenin iklimini ve çevreyi etkileyen önemli bir faktördür. Bu tepe, Mersin'in turizm değerlerini artıran önemli bir doğal güzellik olarak kabul edilir. Ziyaretçiler, bu tepeye çıkarak bölgenin panoramik manzarasını izleyebilir ve doğayla iç içe bir gün geçirebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kumbet Tepesi'nin tarihi geçmişi, Mersin'in tarihine paralel olarak şekillenm
 
 ## Coğrafya
 
-Kumbet Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe olarak, bölgenin coğrafyasını etkileyen önemli bir faktördür. Bu tepe, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunar. Bölgenin iklimi, Akdeniz ikliminin özelliklerini taşır ve yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Kumbet Tepesi, bölgenin coğrafyasını şekillendiren önemli bir faktör olarak kabul edilir. Bu tepe, aynı zamanda bölgenin su kaynaklarını etkileyen önemli bir faktördür. Ziyaretçiler, bu tepeye çıkarak bölgenin coğrafyası ve iklimi hakkında bilgi edinebilir ve doğal güzelliği ile büyülenebilirler. Kumbet Tepesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, aynı zamanda bölgenin ekolojik dengesini sağlayan önemli bir faktördür.
+Kumbet Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe olarak, bölgenin coğrafyasını etkileyen önemli bir faktördür. Bölgenin iklimi, Akdeniz ikliminin özelliklerini taşır ve yazları sıcak ve kurak, kışları ılıman ve yağışlı geçer. Kumbet Tepesi, bölgenin coğrafyasını şekillendiren önemli bir faktör olarak kabul edilir. Bu tepe, aynı zamanda bölgenin su kaynaklarını etkileyen önemli bir faktördür. Ziyaretçiler, bu tepeye çıkarak bölgenin coğrafyası ve iklimi hakkında bilgi edinebilir ve doğal güzelliği ile büyülenebilirler. Kumbet Tepesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu bölge, aynı zamanda bölgenin ekolojik dengesini sağlayan önemli bir faktördür.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kumbet Tepesi, ziyaretçiler için önemli bir destinasyon olarak kabul edilir. 
 ## İlginç Bilgiler
 
 - Kumbet Tepesi, Mersin'in turizm değerlerini artıran önemli bir doğal güzellik olarak kabul edilir.
-- Bu tepe, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunar.
+
 - Kumbet Tepesi, bölgenin iklimini ve çevreyi etkileyen önemli bir faktördür.
 - Bu tepe, aynı zamanda bölgenin su kaynaklarını etkileyen önemli bir faktördür.
 - Kumbet Tepesi, doğa severler için önemli bir destinasyon olarak kabul edilir.

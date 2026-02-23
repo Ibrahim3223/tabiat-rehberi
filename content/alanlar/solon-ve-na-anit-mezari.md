@@ -1,7 +1,7 @@
 ---
 title: "Solon ve Na Anıt Mezarı"
 date: "2026-01-10T03:39:15.088Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q134727951"
 
 # Solon ve Na Anıt Mezarı
 
-Solon ve Na Anıt Mezarı, Antalya'nın Konyaaltı ilçesinde bulunan ve tarihi ile doğal güzellikleri bir arada sunan özel bir plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yer sunuyor. Bu plaj, hem tarih severlerin hem de doğaşığıların ilgisini çeken bir destinasyon. Solon ve Na Anıt Mezarı, aynı zamanda Akdeniz Bölgesi'nin zengin kültürel mirasının önemli bir parçasını oluşturuyor.
+Solon ve Na Anıt Mezarı, Antalya'nın Konyaaltı ilçesinde bulunan ve tarihi ile doğal güzellikleri bir arada sunan özel bir plajdır. Bu plaj, hem tarih severlerin hem de doğaşığıların ilgisini çeken bir destinasyon. Solon ve Na Anıt Mezarı, aynı zamanda Akdeniz Bölgesi'nin zengin kültürel mirasının önemli bir parçasını oluşturuyor.
 
 ## Tarihçe
 

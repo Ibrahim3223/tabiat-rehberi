@@ -1,7 +1,7 @@
 ---
 title: "Çifte Hamam"
 date: "2026-01-09T22:21:43.160Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738498"
 
 # Çifte Hamam
 
-Çifte Hamam, Kastamonu'nun en güzel plajlarından biri olarak bilinir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz'in en güzel kumsallarından birine sahiptir. Çam ormanlarıyla çevrili olan bu plaj, hem doğa severler hem de deniz severler için bir cennet olarak kabul ediliyor. Çifte Hamam'ın kumsalı, ince kumdan oluşur ve denizin sakinliği, bu plajı özellikle aileler için ideal bir yer haline getirir. Plajın etrafındaki çam ormanları, hem gölgeli alanlar sunar hem de ziyaretçilere doğayla iç içe bir ortam sağlar.
+Çifte Hamam, Kastamonu'nun en güzel plajlarından biri olarak bilinir. Çam ormanlarıyla çevrili olan bu plaj, hem doğa severler hem de deniz severler için bir cennet olarak kabul ediliyor. Çifte Hamam'ın kumsalı, ince kumdan oluşur ve denizin sakinliği, bu plajı özellikle aileler için ideal bir yer haline getirir. Plajın etrafındaki çam ormanları, hem gölgeli alanlar sunar hem de ziyaretçilere doğayla iç içe bir ortam sağlar.
 
 ## Tarihçe
 

@@ -33,7 +33,7 @@ Türkiye'nin çeşitli bölgelerinde bulunan doğal güzellikler arasında, Seç
 
 ## Tarihçe
 
-Seçedil Dağı, Türkiye'nin zengin tarihi ve kültürel mirasının bir parçasını oluşturan bir bölgede yer alıyor. Bu bölge, tarihin sâu sayfalarında, çeşitli uygarlıkların izlerini taşıyor. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüş, ticaret yolları ve kültür alışverişi yapmışlardır.
+Seçedil Dağı, Türkiye'nin zengin tarihi ve kültürel mirasının bir parçasını oluşturan bir bölgede yer alıyor. Bu bölge, tarihin derin sayfalarında, çeşitli uygarlıkların izlerini taşıyor. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüş, ticaret yolları ve kültür alışverişi yapmışlardır.
 
 Doğal güzellikleri ve stratejik konumuyla, Seçedil Dağı ve çevresindeki alanlar, insanlık tarihinin önemli bir bölümünde yer almıştır. Türkiye'de, özellikle dağlık ve ormanlık bölgeler, geleneksel olarak yaylacılık ve hayvancılık faaliyetleriyle bilinen yerlerdir. Bu bölgeler, aynı zamanda tarihsel ticaret yollarının da önemli bir kısmını oluşturmuşlardır.
 

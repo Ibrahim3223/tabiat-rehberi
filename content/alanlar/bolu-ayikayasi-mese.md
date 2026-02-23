@@ -22,7 +22,7 @@ wikidata_id: "Q108227758"
 
 # Bolu-Ayikayasi Mese
 
-Bolu-Ayikayasi Mese, Karadeniz Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Bolu ilinin güzide mekanlarından biri olan Bolu-Ayikayasi Mese, coğrafyası ve doğası ile ziyaretçilerini büyülüyor. Bu milli parkta, çeşitli bitki türleri ve hayvanlar ile karşılaşma mümkün. Ayrıca, burada yapılan birçok etkinli ve faaliyet, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor.
+Bolu-Ayikayasi Mese, Karadeniz Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. Bolu ilinin güzide mekanlarından biri olan Bolu-Ayikayasi Mese, coğrafyası ve doğası ile ziyaretçilerini büyülüyor. Bu milli parkta, çeşitli bitki türleri ve hayvanlar ile karşılaşma mümkün. Ayrıca, burada yapılan birçok etkinli ve faaliyet, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Ayikayasi Mese'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Bolu-Ayikayasi Mese, Karadeniz Bölgesi'nde yer alan bir milli parktır. Coğrafi olarak, bu bölge, dağlar ve vadilerle çevrili bir alandır. Milli parkın toplam alanı 140 hektar olup, bu alan yaklaşık 200 futbol sahası büyüklüğündedir. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşır. Genellikle yağışlı ve nemli bir iklim hakimdir. Bu milli parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ayrıca, burada birçok derenin ve nehrin birleşmesi, bu bölgenin coğrafi yapısını daha da güzelleştiriyor. Coğrafi konumu itibariyle, Bolu-Ayikayasi Mese, ziyaretçilerine doğanın tüm güzelliklerini sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor. Ayrıca, bu bölgenin coğrafi özellikleri, birçok canlıya ev sahipliği yapıyor.
+Bolu-Ayikayasi Mese, Karadeniz Bölgesi'nde yer alan bir milli parktır. Coğrafi olarak, bu bölge, dağlar ve vadilerle çevrili bir alandır. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşır. Genellikle yağışlı ve nemli bir iklim hakimdir. Bu milli parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ayrıca, burada birçok derenin ve nehrin birleşmesi, bu bölgenin coğrafi yapısını daha da güzelleştiriyor. Coğrafi konumu itibariyle, Bolu-Ayikayasi Mese, ziyaretçilerine doğanın tüm güzelliklerini sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor. Ayrıca, bu bölgenin coğrafi özellikleri, birçok canlıya ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 

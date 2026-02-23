@@ -22,7 +22,7 @@ wikidata_id: "Q108228552"
 
 # Artvin-Arhavi-Kayadibi-Kizilagac
 
-Artvin-Arhavi-Kayadibi-Kizilagac, Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Milli parkın etrafında yer alan dağlar ve vadiler, ziyaretçilere eşsiz bir manzara sunar. Artvin-Arhavi-Kayadibi-Kizilagac, doğa severlerin ve fotoğraf tutkunlarının vazgeçilmez bir destinasyonu haline gelmiştir. Milli parkın içerisinde yer alan yürüyüş parkurları ve piknik alanları, ziyaretçilerin doğayı daha yakından tanımalarına olanak sağlar.
+Artvin-Arhavi-Kayadibi-Kizilagac, Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak bilinir. Milli parkın etrafında yer alan dağlar ve vadiler, ziyaretçilere eşsiz bir manzara sunar. Artvin-Arhavi-Kayadibi-Kizilagac, doğa severlerin ve fotoğraf tutkunlarının vazgeçilmez bir destinasyonu haline gelmiştir. Milli parkın içerisinde yer alan yürüyüş parkurları ve piknik alanları, ziyaretçilerin doğayı daha yakından tanımalarına olanak sağlar.
 
 ## Tarihçe
 

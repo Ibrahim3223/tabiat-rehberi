@@ -29,7 +29,7 @@ wikidata_id: "Q32139616"
 
 # Gürleyik Tepesi
 
-Gürleyik Tepesi, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğanın güzelliği ile büyülemektedir. Gürleyik Tepesi'nin eteklerinde çeşitli bitki türleri yetişir ve bu bölge, yaban hayatının zengin olmasıyla dikkat çeker. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğanın güzelliğini keşfedebilir hem de yaban hayatının çeşitliliğini gözlemleyebilirler.
+Gürleyik Tepesi, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Gürleyik Tepesi'nin eteklerinde çeşitli bitki türleri yetişir ve bu bölge, yaban hayatının zengin olmasıyla dikkat çeker. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğanın güzelliğini keşfedebilir hem de yaban hayatının çeşitliliğini gözlemleyebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gürleyik Tepesi'nin tarihi geçmişi hakkındalı bilgi bulunmamaktadır, ancak
 
 ## Coğrafya
 
-Gürleyik Tepesi, Türkiye'nin İç Anadolu Bölgesi'nde yer alan bir tepe olup, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir. Bu tepe, çeşitli bitki türleriyle kaplı olup, yaban hayatı açısından da zengin bir bölgedir. Gürleyik Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir iklimdir. Bu tepe, ziyaretçilerini doğanın güzelliği ile büyülemektedir. Gürleyik Tepesi'nin etrafında, çeşitli akarsular ve göller bulunmaktadır. Bu bölge, doğanın güzelliği ile ziyaretçilerini cezbetmekte ve yaban hayatının çeşitliliğiyle de dikkat çekmektedir.
+ Bu tepe, çeşitli bitki türleriyle kaplı olup, yaban hayatı açısından da zengin bir bölgedir. Gürleyik Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir iklimdir. Bu tepe, ziyaretçilerini doğanın güzelliği ile büyülemektedir. Gürleyik Tepesi'nin etrafında, çeşitli akarsular ve göller bulunmaktadır. Bu bölge, doğanın güzelliği ile ziyaretçilerini cezbetmekte ve yaban hayatının çeşitliliğiyle de dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Gürleyik Tepesi'ni ziyaret etmek isteyenler, İç Anadolu Bölgesi'ne geldiğin
 
 ## İlginç Bilgiler
 
-- Gürleyik Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir.
 - Bu tepe, çeşitli bitki türleriyle kaplı bir bölgedir.
 - Gürleyik Tepesi, yaban hayatı açısından da zengin bir bölgedir.
 - Bu tepe, ziyaretçilerini doğanın güzelliği ile büyülemektedir.

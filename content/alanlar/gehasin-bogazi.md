@@ -32,7 +32,7 @@ Siirt'in doğal güzelliklerinden biri olan Gehaşin Boğazı, Türkiye'nin en i
 
 ## Tarihçe
 
-Gehaşin Boğazı, tarihin sâu izlerini taşıyan bir doğal harikadır. Siirt bölgesi, tarihi boyunca çeşitli uygarlıkların yerleşim alanı olmuştur. Bölge, Hitit, Asur, Pers ve Roma gibi medeniyetlerin etki alanını görmüştür. Bu zengin tarihsel miras, bölgenin kültürel ve doğal dokusunu şekillendirmiştir.
+Gehaşin Boğazı, tarihin derin izlerini taşıyan bir doğal harikadır. Siirt bölgesi, tarihi boyunca çeşitli uygarlıkların yerleşim alanı olmuştur. Bölge, Hitit, Asur, Pers ve Roma gibi medeniyetlerin etki alanını görmüştür. Bu zengin tarihsel miras, bölgenin kültürel ve doğal dokusunu şekillendirmiştir.
 
 Türkiye'de kanyonlar ve doğal boğazlar, tarih boyunca önemli ticaret yolları ve yerleşim merkezleri olarak kullanılmıştır. İnsanların bu doğal alanlarla ilişkisi, yaylacılık, hayvancılık ve ticaret faaliyetleriyle şekillenmiştir. Siirt bölgesinde de benzer bir durum söz konusudur. Bölgenin coğrafi yapısı, insanların doğal kaynaklar ve ticaret yolları etrafında yerleşimlerini belirlemiştir.
 

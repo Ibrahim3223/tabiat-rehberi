@@ -28,7 +28,7 @@ wikidata_id: "Q31568047"
 
 # Garipkuyu Tepesi
 
-Garipkuyu Tepesi, İstanbul'un Marmara Bölgesi'ndeki bir tepe olarak yaklaşık 140 hektarlık yeşil alanıyla dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için önemli bir kaçış noktası olarak görülüyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor ve şehri farklı bir açıdan görmelerine olanak sağlıyor. Ayrıca, tepe çevresindeki doğa, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Garipkuyu Tepesi, İstanbul'un Marmara Bölgesi'ndeki bir tepe olarak yaklaşık 140 hektarlık yeşil alanıyla dikkat çekiyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor ve şehri farklı bir açıdan görmelerine olanak sağlıyor. Ayrıca, tepe çevresindeki doğa, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

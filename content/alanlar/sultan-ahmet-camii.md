@@ -1,7 +1,7 @@
 ---
 title: "Sultan Ahmet Camii"
 date: "2026-01-09T22:05:30.176Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Fatih"
@@ -30,7 +30,7 @@ wikidata_id: "Q80541"
 
 # Sultan Ahmet Camii
 
-Sultan Ahmet Camii, İstanbul'un en önemli ve tarihi dini yapılarından biri olarak kabul edilir. 1616 yılında inşa edilen cami, Mimar Sedefkar Mehmed Ağa tarafından tasarlandı. Caminin inşa edildiği alan, yaklaşık 140 hektar büyüklüğünde ve yaklaşık 200 futbol sahası büyüklüğündedir. Sultan Ahmet Camii, Türk mimarisinin en güzel örneklerinden biri olarak görülür ve her yıl binlerce ziyaretçi çeker. Caminin görkemli kubbesi ve altı minaresi, İstanbul'un siluetinin önemli bir parçasıdır.
+Sultan Ahmet Camii, İstanbul'un en önemli ve tarihi dini yapılarından biri olarak kabul edilir. 1616 yılında inşa edilen cami, Mimar Sedefkar Mehmed Ağa tarafından tasarlandı. Sultan Ahmet Camii, Türk mimarisinin en güzel örneklerinden biri olarak görülür ve her yıl binlerce ziyaretçi çeker. Caminin görkemli kubbesi ve altı minaresi, İstanbul'un siluetinin önemli bir parçasıdır.
 
 ## Tarihçe
 

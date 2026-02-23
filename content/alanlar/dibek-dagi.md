@@ -32,7 +32,7 @@ Mardin'in tarihi ve kültürel zenginliklerini barındıran coğrafyasında, Dib
 
 ## Tarihçe
 
-Mardin'in eşsiz coğrafyasında yer alan Dibek Dağı, bölgenin zengin tarihsel mirasının bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin sâu derinliklerinden beri çeşitli uygarlıklara ev sahipliği yapmış, kültürel ve ticari açıdan önemli bir merkez olmuştur. Hititlerden, Asurilere; Roma İmparatorluğu'ndan, Selçuklu ve Osmanlı Devleti'ne kadar birçok medeniyet, Mardin'i ve çevresini etkilemiştir.
+Mardin'in eşsiz coğrafyasında yer alan Dibek Dağı, bölgenin zengin tarihsel mirasının bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin derin derinliklerinden beri çeşitli uygarlıklara ev sahipliği yapmış, kültürel ve ticari açıdan önemli bir merkez olmuştur. Hititlerden, Asurilere; Roma İmparatorluğu'ndan, Selçuklu ve Osmanlı Devleti'ne kadar birçok medeniyet, Mardin'i ve çevresini etkilemiştir.
 
 Doğal güzellikleri ve stratejik konumuyla Dibek Dağı, yüzyıllar boyunca insanların yaşamına çeşitli şekillerde dahil olmuştur. Yaylacılık ve hayvancılık, bu bölgede yaşayan halkların önemli geçim kaynaklarından olmuştur. Ayrıca, tarihi ticaret yollarının üzerinde yer alması, Dibek Dağı'nı ve çevresini bir nevi kavşak haline getirmiştir. Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli rol oynamış, insanların yerleşimi, ekonomisi ve kültürü üzerinde derin etkiler bırakmıştır. Dibek Dağı, Mardin'in tarihsel ve kültürel zenginliğini yansıtan bir sembol olarak, ziyaretçilerini buengin derin geçmişe davet ediyor.
 

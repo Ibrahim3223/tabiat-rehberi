@@ -28,7 +28,7 @@ wikidata_id: "Q34872556"
 
 # Görebazan Tepesi
 
-Görebazan Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Diyarbakır ilinin önemli doğal ve tarihi alanlarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alanı temsil etmektedir. Görebazan Tepesi, ziyaretçilere şehrin panoramik manzarasını sunan bir noktadır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölge, hem doğal güzellikleri hem de tarihi geçmişi ile dikkat çekmektedir.
+Görebazan Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Diyarbakır ilinin önemli doğal ve tarihi alanlarından biridir. Görebazan Tepesi, ziyaretçilere şehrin panoramik manzarasını sunan bir noktadır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölge, hem doğal güzellikleri hem de tarihi geçmişi ile dikkat çekmektedir.
 
 ## Tarihçe
 

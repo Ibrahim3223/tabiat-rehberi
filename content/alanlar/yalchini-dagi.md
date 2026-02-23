@@ -50,7 +50,7 @@ Mevsimsel olarak, Yalchini Dağı'nın bulunduğu Karadeniz Bölgesi, nemli ve y
 
 ## Flora ve Fauna
 
-Yalchini Dağı, step bitki örtüsünün hakim olduğu bir bölge olarak, mevsimsel değişimlere göre farklı bir görünüm sunar. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanır ve bozkırın kuraklığına adapte olmuş türler aktif olur. 
+Yalchini Dağı, step bitki örtüsünün hakim olduğu bir bölge olarak, mevsimsel değişimlere göre farklı bir görünüm sunar. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanır ve bozkırın kuraklığına adapte olmuş türler aktif olur.
 
 Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Bu alan, dağ hayvanlarının yaşam alanlarını oluşturur. Yaban hayatında, memeliler ve kuşlar, dağların yüksek kesimlerinde ve step bölgesinde yaşamlarını sürdürürler. Sürüngenler ise, daha çok kura ve kayalık alanlarda görülürler.
 

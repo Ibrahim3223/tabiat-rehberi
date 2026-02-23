@@ -55,7 +55,7 @@ Yılan Tepe, Siirt'in yarı kurak ikliminin hakim olduğu bir dağ ekosistemi ol
 
 Yaban hayatı açısından zengin olan Yılan Tepe, çeşitli memelilere, kuşlara ve sürüngenlere ev sahipliği yapıyor. Dağların yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşamını sürdürürken, vadilerde ve ova ekolojisinin hakim olduğu alanlarda, tilkiler ve çakallar görülebiliyor. Sonbaharın gelmesiyle birlikte, göçmen kuşlar bu bölgeden geçerek kışlaklarına ulaşıyor.
 
-Yılan Tepe'nin ekolojik değeri, bu dağ ekosisteminin korunmasına bağlı. Bu bölge, birçok canlı türünün yaşam alanı olarak önemli bir rol oynuyor. Ancak, insan faaliyetleri ve iklim değişikliği tehdidi, bu ekosistemin korunmasına dikkat çekiyor. Bu nedenle, Yılan Tepe'nin korunması ve gelecek nesiller için bảolanması büyük önem taşıyor.
+Yılan Tepe'nin ekolojik değeri, bu dağ ekosisteminin korunmasına bağlı. Bu bölge, birçok canlı türünün yaşam alanı olarak önemli bir rol oynuyor. Ancak, insan faaliyetleri ve iklim değişikliği tehdidi, bu ekosistemin korunmasına dikkat çekiyor. Bu nedenle, Yılan Tepe'nin korunması ve gelecek nesiller için korunması büyük önem taşıyor.
 
 ## Ziyaret Bilgileri
 

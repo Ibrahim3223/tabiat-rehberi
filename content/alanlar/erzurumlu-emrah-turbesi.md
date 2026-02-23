@@ -1,7 +1,7 @@
 ---
 title: "Erzurumlu Emrah Türbesi"
 date: "2026-01-10T06:30:36.556Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391787"
 
 # Erzurumlu Emrah Türbesi
 
-Erzurumlu Emrah Türbesi, Tokat'ın Niksar ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki yeşilliklerle birlikte ziyaretçilerini cezbediyor. Bu alan, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmekte ve ziyaretçilere geniş bir faaliyet yelpazesi sunmaktadır. Erzurumlu Emrah Türbesi, Karadeniz Bölgesi'nin zengin tarihini ve kültürünü yansıtan önemli bir noktadır.
+Erzurumlu Emrah Türbesi, Tokat'ın Niksar ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu alan, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmekte ve ziyaretçilere geniş bir faaliyet yelpazesi sunmaktadır. Erzurumlu Emrah Türbesi, Karadeniz Bölgesi'nin zengin tarihini ve kültürünü yansıtan önemli bir noktadır.
 
 ## Tarihçe
 

@@ -46,7 +46,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından bakıldığı
 
 ## Flora ve Fauna
 
-Kocar Tepe, Diyarbakır'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. 
+Kocar Tepe, Diyarbakır'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar.
 
 Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Step ve ova ekolojisinin karakteristik özellikleri, Kocar Tepe'nin yükseklik zonalarında da kendini gösterir. Yaban Hayatı açısından, dağlık alanlar çeşitli memeli ve kuş türlerine yaşam alanı sunar. Göç mevsiminde, özellikle sonbahar aylarında, dağların üzerinden geçen kuş sürüleri bu bölgeyi önemli bir göç güzergahı haline getirir.
 

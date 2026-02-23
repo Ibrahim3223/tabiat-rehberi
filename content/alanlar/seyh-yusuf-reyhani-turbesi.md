@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Yusuf Reyhani Türbesi"
 date: "2026-01-10T05:10:09.818Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391640"
 
 # Şeyh Yusuf Reyhani Türbesi
 
-Mersin'in zengin tarihi ve doğal güzelliklerinin birleştiği noktada yer alan Şeyh Yusuf Reyhani Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Bu tarihi mekan, Akdeniz Bölgesi'nin önemli dini ve kültürel merkezlerinden biri olarak kabul ediliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda çeşitli bitkiler ve ağaçlar bulunur. Şeyh Yusuf Reyhani Türbesi, Mersin'in tarihi dokusunu koruma ve geleceğe taşımak için önemli bir role sahip.
+Mersin'in zengin tarihi ve doğal güzelliklerinin birleştiği noktada yer alan Şeyh Yusuf Reyhani Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Bu tarihi mekan, Akdeniz Bölgesi'nin önemli dini ve kültürel merkezlerinden biri olarak kabul ediliyor. Şeyh Yusuf Reyhani Türbesi, Mersin'in tarihi dokusunu koruma ve geleceğe taşımak için önemli bir role sahip.
 
 ## Tarihçe
 

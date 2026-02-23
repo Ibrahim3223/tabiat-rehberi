@@ -32,7 +32,7 @@ Batman'ın coğrafi çeşitliliği, aynı zamanda zengin jeolojik oluşumlarına
 
 ## Tarihçe
 
-Batman bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, binlerce yıl önce, Asur, Med ve Pers uygarlıklarının etkisinde kalmıştır. Bölgenin stratejik konumu, tarihi İpek Yolu'nun güzergahı üzerinde bulunması, burada yaşayan toplulukların ticaret ve kültür alışverişine tanık olmasını sağlamıştır.
+Batman bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, binlerce yıl önce, Asur, Med ve Pers uygarlıklarının etkisinde kalmıştır. Bölgenin stratejik konumu, tarihi İpek Yolu'nun güzergahı üzerinde bulunması, burada yaşayan toplulukların ticaret ve kültür alışverişine tanık olmasını sağlamıştır.
 
 Gevina Mağarası gibi doğal oluşumlar, Türkiye'nin coğrafi çeşitliliğini gözler önüne serer. Bu tür mağaralar, yeraltı dünyasının gizemini koruyan önemli jeolojik oluşumlardır. Türkiye'de, benzer doğal alanlar, insanlık tarihini anlamak için önemli birer arkeoloji ve kültürel miras olarak kabul edilir.
 
@@ -50,7 +50,7 @@ Doğal bir oluşum olan Gevina Mağarası, jeolojik açıdan büyük bir önem t
 
 ## Flora ve Fauna
 
-Gevina Mağarası'nın eteklerinde, yarı kurak iklimin hüküm sürdüğü step ve ova ekolojisi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gevina Mağarası'nın eteklerinde, yarı kurak iklimin hüküm sürdüğü step ve ova ekolojisi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünü oluşturan çalı ve otsu bitkiler, ilkbaharın gelmesiyle birlikte renkli çiçeklerle donanır. Sonbaharda, göçmen kuşlar bu bölgede konaklar ve ekosistemin çeşitliliğine katkıda bulunur. Orman ekosistemi, çeşitli ağaç türleriyle zenginleştirir ve bu ağaçlar, birçok yaban hayvanına yaşam alanı sağlar.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q49741921"
 
 # Haymana Ilıcası
 
-Haymana Ilıcası, Ankara'nın İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir alana yayılmış termal bir kaynak. Bu kaynak, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Haymana Ilıcası, sağlık turizmi açısından önemli bir merkez olarak dikkat çekiyor. Termal suların tedavi edici özellikleri, bu bölgeyi ziyaret edenler için büyük bir çekim noktası oluşturuyor. Ilıcanın bulunduğu bölge, aynı zamanda doğal güzelliği ile de dikkat çekiyor. Çevre, çeşitli bitki türleriyle kaplı ve bu atmosfer, ziyaretçilere huzur verici bir ortam sunuyor.
+Haymana Ilıcası, Ankara'nın İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir alana yayılmış termal bir kaynak. Haymana Ilıcası, sağlık turizmi açısından önemli bir merkez olarak dikkat çekiyor. Termal suların tedavi edici özellikleri, bu bölgeyi ziyaret edenler için büyük bir çekim noktası oluşturuyor. Ilıcanın bulunduğu bölge, aynı zamanda doğal güzelliği ile de dikkat çekiyor. Çevre, çeşitli bitki türleriyle kaplı ve bu atmosfer, ziyaretçilere huzur verici bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Haymana Ilıcası, uzun bir tarihe sahip. Bu bölgenin tarihi geçmişi, binlerc
 
 ## Coğrafya
 
-Haymana Ilıcası, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak geniş ve çeşitli bir alanı kapsıyor. Ilıcanın bulunduğu alan, 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, çeşitli bitki türleriyle kaplı ve doğal güzelliği ile dikkat çekiyor. Çevre, genellikle step iklimi özellikleri gösteriyor ve bu, flora ve fauna açısından zengin bir çeşitlilik sunuyor. Haymana Ilıcası, Ankara şehrinin merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşım açısından kolay bir konuma sahip. Bu, ziyaretçilerin bölgeye ulaşmasını kolaylaştırıyor ve turizm açısından önemli bir avantaj oluşturuyor.
+Haymana Ilıcası, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak geniş ve çeşitli bir alanı kapsıyor. Bu bölge, çeşitli bitki türleriyle kaplı ve doğal güzelliği ile dikkat çekiyor. Çevre, genellikle step iklimi özellikleri gösteriyor ve bu, flora ve fauna açısından zengin bir çeşitlilik sunuyor. Haymana Ilıcası, Ankara şehrinin merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşım açısından kolay bir konuma sahip. Bu, ziyaretçilerin bölgeye ulaşmasını kolaylaştırıyor ve turizm açısından önemli bir avantaj oluşturuyor.
 
 ## Flora ve Fauna
 

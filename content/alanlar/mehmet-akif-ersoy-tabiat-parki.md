@@ -30,7 +30,7 @@ wikidata_id: "Q30623258"
 
 # Mehmet Akif Ersoy Tabiat Parkı
 
-Mehmet Akif Ersoy Tabiat Parkı, İstanbul'un Sarıyer ilçesinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu park, şehrin kalabalığından uzaklaşma ve doğayla iç içe olmak isteyenler için ideal bir nokta. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun alanları bulunmakta. Ayrıca, parkın etrafında tarihi ve kültürel öneme sahip birçok nokta yer alıyor. Mehmet Akif Ersoy Tabiat Parkı, hem doğa severler hem de tarih meraklıları için ziyaret edilmesi gereken bir yer.
+ Bu park, şehrin kalabalığından uzaklaşma ve doğayla iç içe olmak isteyenler için ideal bir nokta. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun alanları bulunmakta. Ayrıca, parkın etrafında tarihi ve kültürel öneme sahip birçok nokta yer alıyor. Mehmet Akif Ersoy Tabiat Parkı, hem doğa severler hem de tarih meraklıları için ziyaret edilmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mehmet Akif Ersoy Tabiat Parkı, ismini Türkiye'nin millî şairi Mehmet Akif E
 
 ## Coğrafya
 
-Mehmet Akif Ersoy Tabiat Parkı, İstanbul'un Sarıyer ilçesinde, Marmara Bölgesi'nde yer alıyor. Park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi yapısı, İstanbul'un genel coğrafyasına benzer şekilde, ormanlık alanlar, tepe ve vadilerden oluşuyor. Parkın etrafında, tarihi ve kültürel öneme sahip birçok nokta yer alıyor. İstanbul Boğazı'na yakın konumu, parkı şehrin diğer bölgelerine ulaşım açısından avantajlı bir konumda tutuyor. Parkın iklimi, Marmara Bölgesi'nin karasal iklimine uygun olarak, soğuk kışlar ve sıcak yazlarla karakterize ediliyor. Bu coğrafi özellikler, parkın flora ve faunasının çeşitlendirilmesine katkıda bulunmakta.
+Mehmet Akif Ersoy Tabiat Parkı, İstanbul'un Sarıyer ilçesinde, Marmara Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, İstanbul'un genel coğrafyasına benzer şekilde, ormanlık alanlar, tepe ve vadilerden oluşuyor. Parkın etrafında, tarihi ve kültürel öneme sahip birçok nokta yer alıyor. İstanbul Boğazı'na yakın konumu, parkı şehrin diğer bölgelerine ulaşım açısından avantajlı bir konumda tutuyor. Parkın iklimi, Marmara Bölgesi'nin karasal iklimine uygun olarak, soğuk kışlar ve sıcak yazlarla karakterize ediliyor. Bu coğrafi özellikler, parkın flora ve faunasının çeşitlendirilmesine katkıda bulunmakta.
 
 ## Flora ve Fauna
 

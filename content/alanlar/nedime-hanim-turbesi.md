@@ -1,7 +1,7 @@
 ---
 title: "Nedime Hanım Türbesi"
 date: "2026-01-10T05:07:07.696Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale (ilçe)"
@@ -37,7 +37,7 @@ Nedime Hanım Türbesi, tarihi geçmişi ile dikkat çeker. Bu türbe, uzun yıl
 
 ## Coğrafya
 
-Nedime Hanım Türbesi, Çanakkale ilinin merkezinde yer alan bir sahil şeridinde bulunmaktadır. Bu sahil şeridi, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Türbe ve çevresindeki plaj alanı, geniş ve güneşli bir sahil şeridine sahiptir. Bu sahil, Çanakkale'nin en önemli turizm noktalarından biri olarak bilinir. Nedime Hanım Türbesi, denize sıfır bir konumda yer alır ve çevresi yeşilliklerle kaplıdır. Türbe ve plaj alanı, şehrin merkezine yakın bir konumda yer alması nedeniyle, ulaşım açısından kolaylık sağlar. Bu bölge, yıl boyunca ziyaretçilerini ağırlar ve Çanakkale'nin önemli bir turistik çekim noktasıdır. Nedime Hanım Türbesi ve çevresindeki plaj alanı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmektedir.
+Nedime Hanım Türbesi, Çanakkale ilinin merkezinde yer alan bir sahil şeridinde bulunmaktadır. Türbe ve çevresindeki plaj alanı, geniş ve güneşli bir sahil şeridine sahiptir. Bu sahil, Çanakkale'nin en önemli turizm noktalarından biri olarak bilinir. Nedime Hanım Türbesi, denize sıfır bir konumda yer alır ve çevresi yeşilliklerle kaplıdır. Türbe ve plaj alanı, şehrin merkezine yakın bir konumda yer alması nedeniyle, ulaşım açısından kolaylık sağlar. Bu bölge, yıl boyunca ziyaretçilerini ağırlar ve Çanakkale'nin önemli bir turistik çekim noktasıdır. Nedime Hanım Türbesi ve çevresindeki plaj alanı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Şehzade Mehmet Türbesi"
 date: "2026-01-10T07:19:07.165Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391028"
 
 # Şehzade Mehmet Türbesi
 
-İstanbul'un kalbi olan Fatih ilçesinde bulunan Şehzade Mehmet Türbesi, şehrin tarihi ve kültürel zenginliğini yansıtan önemli bir mekândır. 140 hektarlık bir alanda yer alan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Şehzade Mehmet Türbesi, İstanbul'un en önemli tarihi mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Mekan, şehrin merkezi konumunda olup, ulaşım açısından oldukça kolaydır. Ziyaretçiler, mekanın tarihi ve mimari güzelliğini keşfetmek için burayı tercih ederler.
+İstanbul'un kalbi olan Fatih ilçesinde bulunan Şehzade Mehmet Türbesi, şehrin tarihi ve kültürel zenginliğini yansıtan önemli bir mekândır. Şehzade Mehmet Türbesi, İstanbul'un en önemli tarihi mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Mekan, şehrin merkezi konumunda olup, ulaşım açısından oldukça kolaydır. Ziyaretçiler, mekanın tarihi ve mimari güzelliğini keşfetmek için burayı tercih ederler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391028"
 
 ## Coğrafya
 
-Şehzade Mehmet Türbesi, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. Mekan, şehrin merkezi konumunda olup, ulaşım açısından oldukça kolaydır. Şehzade Mehmet Türbesi, 140 hektarlık bir alanda yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Mekan, şehrin tarihi ve kültürel zenginliğini yansıtan önemli bir mekândır. Şehzade Mehmet Türbesi, İstanbul'un en önemli tarihi mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Mekan, şehrin merkezi konumunda olup, ulaşım açısından oldukça kolaydır. Mekan, İstanbul'un tarihi geçmişi hakkında önemli bilgiler sunar ve ziyaretçiler, burayı ziyaret ederek şehrin tarihini keşfedebilirler. Şehzade Mehmet Türbesi, İstanbul'un kültürel mirasının önemli bir parçasıdır ve ziyaretçiler, burayı ziyaret ederek şehrin kültürel zenginliğini keşfedebilirler.
+Şehzade Mehmet Türbesi, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. Mekan, şehrin merkezi konumunda olup, ulaşım açısından oldukça kolaydır. Mekan, şehrin tarihi ve kültürel zenginliğini yansıtan önemli bir mekândır. Şehzade Mehmet Türbesi, İstanbul'un en önemli tarihi mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Mekan, şehrin merkezi konumunda olup, ulaşım açısından oldukça kolaydır. Mekan, İstanbul'un tarihi geçmişi hakkında önemli bilgiler sunar ve ziyaretçiler, burayı ziyaret ederek şehrin tarihini keşfedebilirler. Şehzade Mehmet Türbesi, İstanbul'un kültürel mirasının önemli bir parçasıdır ve ziyaretçiler, burayı ziyaret ederek şehrin kültürel zenginliğini keşfedebilirler.
 
 ## Flora ve Fauna
 

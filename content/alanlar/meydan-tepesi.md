@@ -29,7 +29,7 @@ wikidata_id: "Q31387715"
 
 # Meydan Tepesi
 
-Meydan Tepesi, Erzurum'un şehrinin merkezine yakın bir konumda yer alan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Meydan Tepesi, şehre hakim bir noktada bulunduğundan, ziyaretçiler buradan Erzurum'un panoramik manzarasını izleyebilirler. Tepenin eteklerinde çeşitli bitki türleri yetişir ve bu bölgede zengin bir fauna bulunur. Meydan Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon.
+Meydan Tepesi, Erzurum'un şehrinin merkezine yakın bir konumda yer alan bir tepe. Meydan Tepesi, şehre hakim bir noktada bulunduğundan, ziyaretçiler buradan Erzurum'un panoramik manzarasını izleyebilirler. Tepenin eteklerinde çeşitli bitki türleri yetişir ve bu bölgede zengin bir fauna bulunur. Meydan Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Şerif Türbesi"
 date: "2026-01-10T05:47:46.748Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582344"
 
 # Seyyid Şerif Türbesi
 
-Seyyid Şerif Türbesi, Develi'nin tarihi ve doğal güzelliklerinin birleştiği nokta olarak bilinir. Bu alan, yaklaşık 140 hektarlık bir yeşil alan sunar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Seyyid Şerif Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbeder. Burada, geçmişin izlerini taşıyan tarihi yapılar ve çevredeki doğa bir arada bulunur. Bu mekan, hem Develi'nin hem de İç Anadolu Bölgesi'nin önemli bir parçasıdır.
+Seyyid Şerif Türbesi, Develi'nin tarihi ve doğal güzelliklerinin birleştiği nokta olarak bilinir. Seyyid Şerif Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbeder. Burada, geçmişin izlerini taşıyan tarihi yapılar ve çevredeki doğa bir arada bulunur. Bu mekan, hem Develi'nin hem de İç Anadolu Bölgesi'nin önemli bir parçasıdır.
 
 ## Tarihçe
 

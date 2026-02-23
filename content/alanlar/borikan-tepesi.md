@@ -28,7 +28,7 @@ wikidata_id: "Q31540477"
 
 # Borikan Tepesi
 
-Borikan Tepesi, Şırnak ilinin Güneydoğu Anadolu Bölgesi'ndeki önemli bir doğal oluşumudur. 1400 metrelik yüksekliğiyle bölgeye hakim olan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu yükseklik, ziyaretçilere bölgenin eşsiz manzarasını sunuyor. Tepenin eteklerinde çeşitli bitki türleri yerine, çeşitli bitki türleri ve zengin fauna found yerine, zengin fauna ile karşılaşıyoruz. Ayrıca, tepeye tırmanmak, ziyaretçilere bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor.
+Borikan Tepesi, Şırnak ilinin Güneydoğu Anadolu Bölgesi'ndeki önemli bir doğal oluşumudur. Bu yükseklik, ziyaretçilere bölgenin eşsiz manzarasını sunuyor. Tepenin eteklerinde çeşitli bitki türleri yerine, çeşitli bitki türleri ve zengin fauna found yerine, zengin fauna ile karşılaşıyoruz. Ayrıca, tepeye tırmanmak, ziyaretçilere bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor.
 
 ## Tarihçe
 

@@ -48,11 +48,11 @@ Doğal su kaynakları ve ekosistem bağlantıları açısından, Kaplangı Dağ�
 
 ## Flora ve Fauna
 
-Kaplangı Dağı, Uşak'ın zeytinliklerle çevrili çam ormanlarına ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kaplangı Dağı, Uşak'ın zeytinliklerle çevrili çam ormanlarına ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar ayında dağ yamacında çiçekler açar, sonbaharda ise zeytin ağaçları hasat edilmeye hazırdır. Çam ormanları, dağın yükseklik zonlarında farklı türlerde bitki örtüsüne ev sahipliği yapar. 
+Bitki Örtüsü olarak, ilkbahar ayında dağ yamacında çiçekler açar, sonbaharda ise zeytin ağaçları hasat edilmeye hazırdır. Çam ormanları, dağın yükseklik zonlarında farklı türlerde bitki örtüsüne ev sahipliği yapar.
 
-Yaban Hayatı açısından, memeliler ve kuşlar dağda yaşamlarını sürdürür. Göç mevsiminde, çeşitli kuş türleri buraya uğrar. Sürüngenler de dağda yaşamını sürdürür. 
+Yaban Hayatı açısından, memeliler ve kuşlar dağda yaşamlarını sürdürür. Göç mevsiminde, çeşitli kuş türleri buraya uğrar. Sürüngenler de dağda yaşamını sürdürür.
 
 Ekolojik Değer olarak, Kaplangı Dağı bölgesel ekosistem için önemlidir. Bu alanın korunması, bölgedeki canlıların yaşamını sürdürmesi için gereklidir.
 

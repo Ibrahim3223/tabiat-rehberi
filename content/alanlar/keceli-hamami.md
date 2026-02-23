@@ -1,7 +1,7 @@
 ---
 title: "Keçeli Hamamı"
 date: "2026-01-09T22:58:10.390Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738651"
 
 # Keçeli Hamamı
 
-Keçeli Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla dikkat çeken bir plajdır. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Keçeli Hamamı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilir ve turizm açısından da büyük önem taşır. Bu bölge, hem yerel halk hem de turistler tarafından sıkça ziyaret edilmektedir.
+Keçeli Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla dikkat çeken bir plajdır. Keçeli Hamamı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilir ve turizm açısından da büyük önem taşır. Bu bölge, hem yerel halk hem de turistler tarafından sıkça ziyaret edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Keçeli Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Keçeli Hamamı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş bir açık alan sunar. Bu bölge, Osmangazi ilçesinin merkezi konumunda bulunmasıyla birlikte, kolay ulaşılabilir bir konuma sahiptir. Coğrafi açıdan, Keçeli Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösterir. Bölge, çevre köyler ve kasabalarla birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilere geniş bir coğrafi perspektif sunar. Ayrıca, Keçeli Hamamı'nın coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunar. Bu faaliyetler, doğa yürüyüşlerinden, su sporlarına kadar çeşitlilik gösterir.
+Keçeli Hamamı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, Osmangazi ilçesinin merkezi konumunda bulunmasıyla birlikte, kolay ulaşılabilir bir konuma sahiptir. Coğrafi açıdan, Keçeli Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösterir. Bölge, çevre köyler ve kasabalarla birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilere geniş bir coğrafi perspektif sunar. Ayrıca, Keçeli Hamamı'nın coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunar. Bu faaliyetler, doğa yürüyüşlerinden, su sporlarına kadar çeşitlilik gösterir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Keçeli Hamamı, ziyaretçilere geniş bir faaliyet yelpazesi sunar. Bu faaliyet
 
 ## İlginç Bilgiler
 
-- Keçeli Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu bölge, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilir.
 - Keçeli Hamamı, surroundingindeki diğer doğal güzellikleriyle birlikte, bir bütün olarak değerlendirildiğinde, ziyaretçilere geniş bir ekolojik perspektif sunar.
 - Bu bölge, çevre köyler ve kasabalarla birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilere geniş bir doğa çeşitliliği sunar.

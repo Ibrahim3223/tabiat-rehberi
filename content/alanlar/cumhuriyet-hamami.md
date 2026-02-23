@@ -1,7 +1,7 @@
 ---
 title: "Cumhuriyet Hamamı"
 date: "2026-01-09T22:32:16.997Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738741"
 
 # Cumhuriyet Hamamı
 
-Cumhuriyet Hamamı, Manisa'nın Şehzadeler ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir alan olarak dikkat çeker. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Cumhuriyet Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekleyen bir destinasyondur. Tarihi geçmişi, zengin flora ve fauna çeşitliliği ile ziyaretçilerini cezbeder. İnsanlar bu alanı, hem doğal güzelliklerini keşfetmek hem de tarihi önemini anlamak için ziyaret ederler.
+Cumhuriyet Hamamı, Manisa'nın Şehzadeler ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir alan olarak dikkat çeker. Cumhuriyet Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekleyen bir destinasyondur. Tarihi geçmişi, zengin flora ve fauna çeşitliliği ile ziyaretçilerini cezbeder. İnsanlar bu alanı, hem doğal güzelliklerini keşfetmek hem de tarihi önemini anlamak için ziyaret ederler.
 
 ## Tarihçe
 

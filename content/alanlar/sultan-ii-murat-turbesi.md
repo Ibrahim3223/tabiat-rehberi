@@ -1,7 +1,7 @@
 ---
 title: "Sultan II. Murat Türbesi"
 date: "2026-01-10T05:58:19.850Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -38,7 +38,7 @@ Sultan II. Murat Türbesi, Marmara Bölgesi'nde yer alan Osmangazi, Bursa'da bul
 
 ## Coğrafya
 
-Sultan II. Murat Türbesi, Osmangazi, Bursa'da yer alan bir bölgede bulunmaktadır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerine sahiptir. Türbenin etrafındaki alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bölge, doğal güzellikleriyle dikkat çekmekte ve ziyaretçilerin gezebileceği birçok yer sunmaktadır. Türbenin yakınında, yeşillik alanlar, ağaçlar ve çiçekler bulunmaktadır. Ayrıca, bölgeye yakın olan diğer tarihi mekanlar da ziyaretçilerin ilgisini çekmektedir. Coğrafi konumu itibariyle, Sultan II. Murat Türbesi, Marmara Bölgesi'ndeki önemli tarihi ve doğal güzelliklerin bir araya geldiği bir noktada yer almaktadır.
+Sultan II. Murat Türbesi, Osmangazi, Bursa'da yer alan bir bölgede bulunmaktadır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerine sahiptir. Bölge, doğal güzellikleriyle dikkat çekmekte ve ziyaretçilerin gezebileceği birçok yer sunmaktadır. Türbenin yakınında, yeşillik alanlar, ağaçlar ve çiçekler bulunmaktadır. Ayrıca, bölgeye yakın olan diğer tarihi mekanlar da ziyaretçilerin ilgisini çekmektedir. Coğrafi konumu itibariyle, Sultan II. Murat Türbesi, Marmara Bölgesi'ndeki önemli tarihi ve doğal güzelliklerin bir araya geldiği bir noktada yer almaktadır.
 
 ## Flora ve Fauna
 

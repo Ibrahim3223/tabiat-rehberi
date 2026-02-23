@@ -1,7 +1,7 @@
 ---
 title: "Çömlekçiler Hamamı"
 date: "2026-01-09T22:45:18.897Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738552"
 
 # Çömlekçiler Hamamı
 
-Çömlekçiler Hamamı, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim. Çömlekçiler Hamamı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir mekan. Burada, günün yorgunluğunu atma ve doğayla iç içe olma mümkün.
+Çömlekçiler Hamamı, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plajdır. Çömlekçiler Hamamı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir mekan. Burada, günün yorgunluğunu atma ve doğayla iç içe olma mümkün.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738552"
 
 ## Coğrafya
 
-Çömlekçiler Hamamı, Marmara Bölgesi'nin coğrafi güzelliklerini tüm ihtişamıyla sergiliyor. Bu bölge, İstanbul Boğazı'nın kıyısında yer alıyor ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Çömlekçiler Hamamı, 140 hektarlık geniş bir alana yayılmış ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Burası, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olmakla birlikte, aynı zamanda doğa severlerin de ilgisini çekecek bir destinasyon. İklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak, dört mevsim ziyaret edilebilecek bir yapıya sahip. Çevresinde, çeşitli turistik noktalar ve tarihi mekanlar da yer alıyor.
+Çömlekçiler Hamamı, Marmara Bölgesi'nin coğrafi güzelliklerini tüm ihtişamıyla sergiliyor. Bu bölge, İstanbul Boğazı'nın kıyısında yer alıyor ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Burası, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olmakla birlikte, aynı zamanda doğa severlerin de ilgisini çekecek bir destinasyon. İklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak, dört mevsim ziyaret edilebilecek bir yapıya sahip. Çevresinde, çeşitli turistik noktalar ve tarihi mekanlar da yer alıyor.
 
 ## Flora ve Fauna
 

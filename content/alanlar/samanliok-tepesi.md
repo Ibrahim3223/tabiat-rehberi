@@ -28,7 +28,7 @@ wikidata_id: "Q31391164"
 
 # Samanlıok Tepesi
 
-Sivas'ın İç Anadolu Bölgesi'nde yer alan Samanlıok Tepesi, yaklaşık 140 hektarlık alanıyla dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal güzelliklerinden biri. Samanlıok Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle karşılayacak bir destinasyon. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor.
+Sivas'ın İç Anadolu Bölgesi'nde yer alan Samanlıok Tepesi, yaklaşık 140 hektarlık alanıyla dikkat çekiyor. Samanlıok Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle karşılayacak bir destinasyon. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor.
 
 ## Tarihçe
 

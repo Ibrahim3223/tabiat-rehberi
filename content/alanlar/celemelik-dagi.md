@@ -50,11 +50,11 @@ Mevsimsel değişiklikler açısından, Çelemelik Dağı'nın iklimi karasal ve
 
 ## Flora ve Fauna
 
-Çelemelik Dağı, Tunceli'nin yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Burada, yüksek dağ ekolojisi ve alpin çayırlar hakimdir. 
+Çelemelik Dağı, Tunceli'nin yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Burada, yüksek dağ ekolojisi ve alpin çayırlar hakimdir.
 
-Bitki örtüsünde, ilkbaharın başlangıcında renkli çiçekler açar. Sonbaharda ise yaprak döken ağaçlar sarı, turuncu ve kırmızının tonlarıyla manzaraya renk katar. Bu dağda, endemik türler de bulunur. 
+Bitki örtüsünde, ilkbaharın başlangıcında renkli çiçekler açar. Sonbaharda ise yaprak döken ağaçlar sarı, turuncu ve kırmızının tonlarıyla manzaraya renk katar. Bu dağda, endemik türler de bulunur.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, ayılar ve kurtlar gibi memeliler, kartallar ve şahinler gibi kuşlar ve çeşitli sürüngenler bu dağda yaşamını sürdürür. Bu canlılar, dağın yükseklik zonlarına ve mevsimsel değişimlere uyum sağlar. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, ayılar ve kurtlar gibi memeliler, kartallar ve şahinler gibi kuşlar ve çeşitli sürüngenler bu dağda yaşamını sürdürür. Bu canlılar, dağın yükseklik zonlarına ve mevsimsel değişimlere uyum sağlar.
 
 Çelemelik Dağı, yüksek dağ ekosisteminin korunması açısından büyük önem taşır. Bu nedenle, koruma altına alınması ve doğal dengesinin korunması gerekmektedir. Bu dağ, doğa severler ve bilim insanları için bir hazine niteliğindedir.
 

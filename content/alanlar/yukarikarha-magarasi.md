@@ -50,7 +50,7 @@ Doğal oluşumlar açısından zengin olan bu bölgede, Yukarıkarha Mağarası'
 
 ## Flora ve Fauna
 
-Yukarıkarha Mağarası'nın flora ve fauna zenginliği, yarı kurak iklimin sunduğu step ve ova ekolojisinin içinde bir orman ekosistemi cenneti olarak karşımıza çıkıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yukarıkarha Mağarası'nın flora ve fauna zenginliği, yarı kurak iklimin sunduğu step ve ova ekolojisinin içinde bir orman ekosistemi cenneti olarak karşımıza çıkıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, bölgede çiçeklenen otsu bitkiler ve ağaçlar yeşeriyor. Mevsimsel değişimlerle birlikte, sonbaharda yaprak döken ağaçlar, renkli bir manzara sunuyor.
 

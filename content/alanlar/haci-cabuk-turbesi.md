@@ -1,7 +1,7 @@
 ---
 title: "Hacı Çabuk Türbesi"
 date: "2026-01-10T06:23:30.161Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391783"
 
 # Hacı Çabuk Türbesi
 
-Hacı Çabuk Türbesi, Tokat'ın Niksar ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyon. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Türbe ve çevresindeki doğa, ziyaretçilere hem manevi bir deneyim hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Hacı Çabuk Türbesi, özellikle tarihi ve kültürel zenginlikleri ile dikkat çekiyor ve bu özellikleri ile ziyaretçilerini bekliyor.
+Hacı Çabuk Türbesi, Tokat'ın Niksar ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyon. Türbe ve çevresindeki doğa, ziyaretçilere hem manevi bir deneyim hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Hacı Çabuk Türbesi, özellikle tarihi ve kültürel zenginlikleri ile dikkat çekiyor ve bu özellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

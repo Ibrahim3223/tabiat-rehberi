@@ -50,9 +50,9 @@ Jeolojik açıdan bakıldığında, Hirhat Dağı'nın oluşumu ve yapısı hakk
 
 ## Flora ve Fauna
 
-Hirhat Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki örtüsünü oluşturan alpin çayırlar, ilkbaharda renkli çiçeklerle donanırken, sonbaharda sarı ve kırmızılara bürünüyor. Bu mevsimsel değişim, dağda yaşayan canlıları etkiliyor. 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin. Dağ keçileri ve ayılar, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gökyüzünde hükmeder. Sürüngenler, kayalık alanlarda ve çayırlarda yaşar. 
+Hirhat Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki örtüsünü oluşturan alpin çayırlar, ilkbaharda renkli çiçeklerle donanırken, sonbaharda sarı ve kırmızılara bürünüyor. Bu mevsimsel değişim, dağda yaşayan canlıları etkiliyor.
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin. Dağ keçileri ve ayılar, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gökyüzünde hükmeder. Sürüngenler, kayalık alanlarda ve çayırlarda yaşar.
 Ekolojik değer, bu yüksek dağ ekosisteminin korunmasıyla ilgili. Endemik türlerin yaşam alanlarını korurken, aynı zamanda su kaynaklarını ve toprağı korumak da önemlidir. Hirhat Dağı, doğal güzelliği ve biyolojik çeşitliliğiyle önemli bir ekosistemdir.
 
 ## Ziyaret Bilgileri

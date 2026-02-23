@@ -28,7 +28,7 @@ wikidata_id: "Q31550020"
 
 # Hamiyamalafeli Tepesi
 
-Diyarbakır'ın eşsiz doğal güzelliklerinden biri olan Hamiyamalafeli Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında önemli bilgiler sunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Hamiyamalafeli Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve bölgenin zengin tarihi hakkında fikir veriyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Diyarbakır'ın eşsiz doğal güzelliklerinden biri olan Hamiyamalafeli Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında önemli bilgiler sunuyor. Hamiyamalafeli Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve bölgenin zengin tarihi hakkında fikir veriyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

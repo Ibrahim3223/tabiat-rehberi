@@ -1,7 +1,7 @@
 ---
 title: "Ayşekadın Hamamı"
 date: "2026-01-09T22:55:53.148Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,11 +29,11 @@ wikidata_id: "Q131738609"
 
 # Ayşekadın Hamamı
 
-Ayşekadın Hamamı, İstanbul'un Fatih ilçesinde bulunan ve Marmara Bölgesi'nin güzelliklerini sunan bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunar. Bu plaj, tarihi yapılarıyla ve doğal güzellikleriyle dikkat çekmektedir. Ziyaretçiler, plajın güzel kumsalında güneşin tadını çıkarabilir ve denizin serin sularında yüzme keyfi yaşayabilir. Ayşekadın Hamamı, hem doğal güzellikleri hem de tarihi değerleriyle ziyaretçilerini bekliyor.
+Ayşekadın Hamamı, İstanbul'un Fatih ilçesinde bulunan ve Marmara Bölgesi'nin güzelliklerini sunan bir plajdır. Bu plaj, tarihi yapılarıyla ve doğal güzellikleriyle dikkat çekmektedir. Ziyaretçiler, plajın güzel kumsalında güneşin tadını çıkarabilir ve denizin serin sularında yüzme keyfi yaşayabilir. Ayşekadın Hamamı, hem doğal güzellikleri hem de tarihi değerleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
-Ayşekadın Hamamı'nın tarihi geçmişi, İstanbul'un tarihi ile iç içe geçmiş durumda. Bu plaj, yüzyıllar boyunca insanların dinlenme ve eğlenme alanı olarak kullanılmıştır. Tarihi kaynaklara göre, bu bölgeye Bizans döneminde de insanların geldiği ve burada dinlendiği bilinmektedir. Osmanlı döneminde de bu plajın önemi devam etmiş ve çeşitli yapılar inşa edilmiştir. Bugün, Ayşekadın Hamamı, tarihi yapıları ve doğal güzellikleriyle ziyaretçilerini ağırlamaya devam ediyor. Bu plaj, İstanbul'un tarihi ve kültürel değerlerinin bir parçası olarak kabul ediliyor ve ziyaretçilere zengin bir história sunuyor.
+Ayşekadın Hamamı'nın tarihi geçmişi, İstanbul'un tarihi ile iç içe geçmiş durumda. Bu plaj, yüzyıllar boyunca insanların dinlenme ve eğlenme alanı olarak kullanılmıştır. Tarihi kaynaklara göre, bu bölgeye Bizans döneminde de insanların geldiği ve burada dinlendiği bilinmektedir. Osmanlı döneminde de bu plajın önemi devam etmiş ve çeşitli yapılar inşa edilmiştir. Bugün, Ayşekadın Hamamı, tarihi yapıları ve doğal güzellikleriyle ziyaretçilerini ağırlamaya devam ediyor. Bu plaj, İstanbul'un tarihi ve kültürel değerlerinin bir parçası olarak kabul ediliyor ve ziyaretçilere zengin bir tarihi sunuyor.
 
 ## Coğrafya
 
@@ -45,7 +45,7 @@ Ayşekadın Hamamı, flora ve fauna açısından zengin bir yapıya sahiptir. Bu
 
 ## Ziyaret Bilgileri
 
-Ayşekadın Hamamı, ziyaretçilere çeşitli imkanlar sunar. Ziyaretçiler, plajın güzel kumsalında güneşin tadını çıkarabilir ve denizin serin sularında yüzme keyfi yaşayabilir. Ayrıca, plajın etrafında, çeşitli tarihi ve kültürel yapılar bulunur ve bu bölge, ziyaretçilere zengin bir história sunar. Ziyaretçiler, plaja, toplu taşıma araçları veya özel araçları ile gelebilir ve plajda, çeşitli yeme ve içme imkanları bulunur. Ayşekadın Hamamı, hem doğal güzellikleri hem de tarihi değerleriyle ziyaretçilerini bekliyor.
+Ayşekadın Hamamı, ziyaretçilere çeşitli imkanlar sunar. Ziyaretçiler, plajın güzel kumsalında güneşin tadını çıkarabilir ve denizin serin sularında yüzme keyfi yaşayabilir. Ayrıca, plajın etrafında, çeşitli tarihi ve kültürel yapılar bulunur ve bu bölge, ziyaretçilere zengin bir tarihi sunar. Ziyaretçiler, plaja, toplu taşıma araçları veya özel araçları ile gelebilir ve plajda, çeşitli yeme ve içme imkanları bulunur. Ayşekadın Hamamı, hem doğal güzellikleri hem de tarihi değerleriyle ziyaretçilerini bekliyor.
 
 ## İlginç Bilgiler
 

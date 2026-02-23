@@ -1,7 +1,7 @@
 ---
 title: "Hamam 1, Malkara"
 date: "2026-01-09T23:57:34.920Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245860"
 
 # Hamam 1, Malkara
 
-Hamam 1, Malkara, İstanbul Vilayeti'nin sınırları içerisinde yer alan bir plaj olarak dikkat çekiyor. Bu plaj, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Malkara'nın doğal güzelliklerinin sergilendiği bu nokta, ziyaretçilerini bekliyor. Burada, denizin serinliği ve güneşin sıcaklığı bir araya geliyor. Hamam 1, Malkara, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Hamam 1, Malkara, İstanbul Vilayeti'nin sınırları içerisinde yer alan bir plaj olarak dikkat çekiyor. Malkara'nın doğal güzelliklerinin sergilendiği bu nokta, ziyaretçilerini bekliyor. Burada, denizin serinliği ve güneşin sıcaklığı bir araya geliyor.
 
 ## Tarihçe
 
@@ -41,11 +41,11 @@ Hamam 1, Malkara, coğrafi olarak İstanbul Vilayeti'nin sınırları içerisind
 
 ## Flora ve Fauna
 
-Hamam 1, Malkara, flora ve fauna açısından zengin bir yapıya sahip. Bu plaj, çeşitli bitki türlerine ev sahipliği yapıyor ve bu, plajın güzelliğini daha da artırıyor. Ziyaretçileri, plajın etrafında çeşitli hayvan türleri de görebiliyor. Hamam 1, Malkara, doğa severlerin visit etmesi gereken bir nokta olarak dikkat çekiyor. Plajın flora ve fauna yapısı, ziyaretçilerine unutulmaz bir deneyim vaat ediyor. Burada, çeşitli bitki ve hayvan türleri bir araya geliyor ve bu, plajın güzelliğini daha da artırıyor.
+Hamam 1, Malkara, flora ve fauna açısından zengin bir yapıya sahip. Bu plaj, çeşitli bitki türlerine ev sahipliği yapıyor ve bu, plajın güzelliğini daha da artırıyor. Ziyaretçileri, plajın etrafında çeşitli hayvan türleri de görebiliyor. Hamam 1, Malkara, doğa severlerin visit etmesi gereken bir nokta olarak dikkat çekiyor. Burada, çeşitli bitki ve hayvan türleri bir araya geliyor ve bu, plajın güzelliğini daha da artırıyor.
 
 ## Ziyaret Bilgileri
 
-Hamam 1, Malkara, ziyaretçilerine unutulmaz bir deneyim vaat ediyor. Bu plaj, Malkara'nın doğal güzelliklerinin sergilendiği bir nokta olarak dikkat çekiyor. Ziyaretçiler, plajın güzelliğini görebiliyor ve burada çeşitli aktivitelere katılabilirler. Hamam 1, Malkara, ziyaretçilerine Malkara'nın zengin tarihini ve kültürel mirasını sunuyor. Bu plaj, Malkara'nın turizm potansiyelini gösteren önemli bir nokta olarak dikkat çekiyor.
+ Bu plaj, Malkara'nın doğal güzelliklerinin sergilendiği bir nokta olarak dikkat çekiyor. Ziyaretçiler, plajın güzelliğini görebiliyor ve burada çeşitli aktivitelere katılabilirler. Hamam 1, Malkara, ziyaretçilerine Malkara'nın zengin tarihini ve kültürel mirasını sunuyor. Bu plaj, Malkara'nın turizm potansiyelini gösteren önemli bir nokta olarak dikkat çekiyor.
 
 ## İlginç Bilgiler
 

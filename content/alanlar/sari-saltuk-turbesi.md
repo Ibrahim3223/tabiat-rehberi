@@ -1,7 +1,7 @@
 ---
 title: "Sarı Saltuk Türbesi"
 date: "2026-01-10T05:12:38.760Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tunceli"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391586"
 
 # Sarı Saltuk Türbesi
 
-Sarı Saltuk Türbesi, Doğu Anadolu Bölgesi'nin Tunceli ilinin Hozat ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Sarı Saltuk Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor. Bu özel mekan, doğa severler ve tarih meraklıları için eşsiz bir gezi deneyimi sunuyor.
+Sarı Saltuk Türbesi, Doğu Anadolu Bölgesi'nin Tunceli ilinin Hozat ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. Sarı Saltuk Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor. Bu özel mekan, doğa severler ve tarih meraklıları için eşsiz bir gezi deneyimi sunuyor.
 
 ## Tarihçe
 

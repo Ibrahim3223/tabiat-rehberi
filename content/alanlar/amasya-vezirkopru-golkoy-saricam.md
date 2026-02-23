@@ -22,7 +22,7 @@ wikidata_id: "Q108227546"
 
 # Amasya-Vezirkopru-Golkoy Saricam
 
-Amasya-Vezirkopru-Golkoy Saricam milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa deneyimi sunuyor. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul ediliyor.
+Amasya-Vezirkopru-Golkoy Saricam milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul ediliyor.
 
 ## Tarihçe
 

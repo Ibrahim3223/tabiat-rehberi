@@ -22,7 +22,7 @@ wikidata_id: "Q108228694"
 
 # MERAM ŞEHİR ORMANI
 
-MERAM ŞEHİR ORMANI, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık devasa bir yeşil alan olarak karşımıza çıkıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne denk geliyor. Şehrin gürültüsünden uzaklaşmak, doğayla baş başa kalma ve huzuru bulmak isteyenler için MERAM ŞEHİR ORMANI ideal bir kaçış noktası sunuyor. Orman, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, burada doğanın güzelliğini keşfetmenin yanı sıra, numerous aktivite seçeneklerine de sahip oluyor.
+MERAM ŞEHİR ORMANI, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık devasa bir yeşil alan olarak karşımıza çıkıyor. Şehrin gürültüsünden uzaklaşmak, doğayla baş başa kalma ve huzuru bulmak isteyenler için MERAM ŞEHİR ORMANI ideal bir kaçış noktası sunuyor. Orman, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, burada doğanın güzelliğini keşfetmenin yanı sıra, numerous aktivite seçeneklerine de sahip oluyor.
 
 ## Tarihçe
 

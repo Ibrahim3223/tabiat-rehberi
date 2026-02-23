@@ -22,7 +22,7 @@ wikidata_id: "Q108226818"
 
 # Servergazi Sit Alanı Sit Alanı
 
-Servergazi Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir alanı kapsar. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunar. Bölgenin coğrafi yapısı ve iklimi, burada yaşayan çeşitli bitki ve hayvan türleri için uygun bir ortam sağlar. Servergazi Sit Alanı, doğal güzellikleri ve biyolojik çeşitliliği koruma altına almak amacıyla sit alanı olarak belirlenmiştir. Bu alan, aynı zamanda ziyaretçilere doğayla iç içe olabilecekleri bir ortam sunar.
+Servergazi Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir alanı kapsar. Bölgenin coğrafi yapısı ve iklimi, burada yaşayan çeşitli bitki ve hayvan türleri için uygun bir ortam sağlar. Servergazi Sit Alanı, doğal güzellikleri ve biyolojik çeşitliliği koruma altına almak amacıyla sit alanı olarak belirlenmiştir. Bu alan, aynı zamanda ziyaretçilere doğayla iç içe olabilecekleri bir ortam sunar.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Servergazi Sit Alanı, doğa severler ve araştırma yapanlar için önemli bir 
 ## İlginç Bilgiler
 
 - Servergazi Sit Alanı, 140 hektarlık bir alanı kapsar.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - İç Anadolu Bölgesi'nin coğrafi yapısı ve iklimi, bu bölgede yaşayan çeşitli bitki ve hayvan türleri için uygun bir ortam sağlar.
 - Servergazi Sit Alanı, doğal güzellikleri ve biyolojik çeşitliliği koruma altına almak amacıyla sit alanı olarak belirlenmiştir.
 - Ziyaretçiler, bu alanda doğayla iç içe olabilir ve çeşitli bitki ve hayvan türlerini gözlemleyebilir.

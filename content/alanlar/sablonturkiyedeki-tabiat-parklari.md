@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Şablon:Türkiye'deki tabiat parkları
 
-İç Anadolu Bölgesi'nin merkezi bir konumunda bulunan tabiat parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrable. Ziyaretçiler, parkın doğal güzelliklerini keşfetmek için birçok olanak bulabilirler.
+İç Anadolu Bölgesi'nin merkezi bir konumunda bulunan tabiat parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrable. Ziyaretçiler, parkın doğal güzelliklerini keşfetmek için birçok olanak bulabilirler.
 
 ## Tarihçe
 

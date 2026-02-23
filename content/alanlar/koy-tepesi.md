@@ -28,11 +28,11 @@ wikidata_id: "Q32210405"
 
 # Köy Tepesi
 
-Köy Tepesi, Nevşehir'in İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve yöre halkı tarafından sıkça ziyaret edilir. Köy Tepesi, aynı zamanda tarih öncesi dönemlerden kalan kalıntılara ev sahipliği yapar ve arkeolojik açıdan önemli bir bölgedir. Tepenin zirvesinden bakıldığında, çevredeki köyler ve doğal güzellikler görülebilmekte ve ziyaretçilere büyüleyici bir manzara sunmaktadır.
+Köy Tepesi, Nevşehir'in İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve yöre halkı tarafından sıkça ziyaret edilir. Köy Tepesi, aynı zamanda tarih öncesi dönemlerden kalan kalıntılara ev sahipliği yapar ve arkeolojik açıdan önemli bir bölgedir. Tepenin zirvesinden bakıldığında, çevredeki köyler ve doğal güzellikler görülebilmekte ve ziyaretçilere büyüleyici bir manzara sunmaktadır.
 
 ## Tarihçe
 
-Köy Tepesi, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Tepenin tarihi geçmişi, bölgede yapılan arkeolojik kazılar ve araştırmalar neticesinde ortaya çıkarılmıştır. Bu kazılar, tepenin tarih öncesi dönemlerden itibaren insanların yaşadığı bir yer olduğunu göstermiştir. Ayrıca, tepede bulunan tarihi kalıntılar, bölgenin zengin tarihini ve kültürel önemini vurgulamaktadır. Köy Tepesi, aynı zamanda bölgede yaşayan halkın kültürel mirasının önemli bir parçasıdır ve birçok efsane ile çevrilidir. Tepenin tarihi ve kültürel önemi, ziyaretçilere zengin bir históriki deneyim sunar.
+Köy Tepesi, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Tepenin tarihi geçmişi, bölgede yapılan arkeolojik kazılar ve araştırmalar neticesinde ortaya çıkarılmıştır. Bu kazılar, tepenin tarih öncesi dönemlerden itibaren insanların yaşadığı bir yer olduğunu göstermiştir. Ayrıca, tepede bulunan tarihi kalıntılar, bölgenin zengin tarihini ve kültürel önemini vurgulamaktadır. Köy Tepesi, aynı zamanda bölgede yaşayan halkın kültürel mirasının önemli bir parçasıdır ve birçok efsane ile çevrilidir. Tepenin tarihi ve kültürel önemi, ziyaretçilere zengin bir tarihi deneyim sunar.
 
 ## Coğrafya
 

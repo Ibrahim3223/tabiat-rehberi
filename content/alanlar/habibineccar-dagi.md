@@ -23,7 +23,7 @@ wikidata_id: "Q108227187"
 
 # Habibineccar Dagi
 
-Habibineccar Dagi, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu büyüleyici alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Habibineccar Dagi, doğa severler ve macera arayışında olanlar için bir cennet gibidir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunar. Bu milli park, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.
+Habibineccar Dagi, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Habibineccar Dagi, doğa severler ve macera arayışında olanlar için bir cennet gibidir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunar. Bu milli park, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Habibineccar Dagi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölges
 
 ## Flora ve Fauna
 
-Habibineccar Dagi, flora ve fauna açısından oldukça zengindir. Burada, çeşitli bitki türleri ve ağaçlar, ziyaretçilere benzersiz bir deneyim sunar. Milli parkta, özellikle meşe, çam ve köknar ağaçları yaygındır. Ayrıca, burada birçok çiçek türü de bulunmaktadır. Flora açısından zengin olan bu bölge, aynı zamanda fauna açısından da önemlidir. Habibineccar Dagi, birçok hayvan türüne ev sahipliği yapmaktadır. Burada, özellikle geyik, yaban domuzu ve birçok kuş türü bulunmaktadır. Milli park, aynı zamanda birçok kelebe ve böcek türüne de ev sahipliği yapmaktadır. Habibineccar Dagi, doğa severler için bir cennet gibidir ve ziyaretçilere birçok sürpriz sunar.
+ Burada, çeşitli bitki türleri ve ağaçlar, ziyaretçilere benzersiz bir deneyim sunar. Milli parkta, özellikle meşe, çam ve köknar ağaçları yaygındır. Ayrıca, burada birçok çiçek türü de bulunmaktadır. Flora açısından zengin olan bu bölge, aynı zamanda fauna açısından da önemlidir. Habibineccar Dagi, birçok hayvan türüne ev sahipliği yapmaktadır. Burada, özellikle geyik, yaban domuzu ve birçok kuş türü bulunmaktadır. Milli park, aynı zamanda birçok kelebe ve böcek türüne de ev sahipliği yapmaktadır. Habibineccar Dagi, doğa severler için bir cennet gibidir ve ziyaretçilere birçok sürpriz sunar.
 
 ## Ziyaret Bilgileri
 

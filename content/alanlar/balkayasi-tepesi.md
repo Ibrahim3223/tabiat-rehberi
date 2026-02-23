@@ -28,7 +28,7 @@ wikidata_id: "Q31387975"
 
 # Balkayası Tepesi
 
-Balkayası Tepesi, Gümüşhane'nin önemli yüksekliklerinden biridir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir alanı kapsar. Tepenin yüksekliği ve genişliği, burayı ziyaret edenlerin geniş bir alanı görmesine olanak tanır. Balkayası Tepesi, Karadeniz Bölgesi'nin güzelliklerini göstermektedir. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin iklimine thíchmiştir. Tepenin yüksekliği, ziyaretçilerin geniş bir alanı görmesine olanak tanır ve buraya gelenler, Karadeniz Bölgesi'nin güzelliklerini görebilir.
+Balkayası Tepesi, Gümüşhane'nin önemli yüksekliklerinden biridir. Tepenin yüksekliği ve genişliği, burayı ziyaret edenlerin geniş bir alanı görmesine olanak tanır. Balkayası Tepesi, Karadeniz Bölgesi'nin güzelliklerini göstermektedir. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin iklimine thíchmiştir. Tepenin yüksekliği, ziyaretçilerin geniş bir alanı görmesine olanak tanır ve buraya gelenler, Karadeniz Bölgesi'nin güzelliklerini görebilir.
 
 ## Tarihçe
 

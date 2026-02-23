@@ -28,7 +28,7 @@ wikidata_id: "Q34827805"
 
 # Çakıllıca Tepe
 
-Çakıllıca Tepe, Antalya'nın eşsiz doğal güzelliklerinden biri olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzelliği ve zengin flora ile ziyaretçilerini cezbeden bir nokta. Çakıllıca Tepe, hem yerli hem de yabancı turistler için önemli bir destinasyon. Bu tepe, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+Çakıllıca Tepe, Antalya'nın eşsiz doğal güzelliklerinden biri olarak dikkat çekiyor. Doğal güzelliği ve zengin flora ile ziyaretçilerini cezbeden bir nokta. Çakıllıca Tepe, hem yerli hem de yabancı turistler için önemli bir destinasyon. Bu tepe, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

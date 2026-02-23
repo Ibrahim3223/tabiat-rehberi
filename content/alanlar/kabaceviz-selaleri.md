@@ -28,7 +28,7 @@ wikidata_id: "Q118928685"
 
 # Kabaceviz Şelaleri
 
-Kabaceviz Şelaleri, Samsun'un doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alıyor. Bu şelaleler, yaklaşık 140 hektarlık bir alan üzerinde, 200 futbol sahası büyüklüğünde bir bölgeyi kaplıyor. Şelalelerin yüksekliği ve suyun hızı, ziyaretçilere unutulmaz bir deneyim sunuyor. Kabaceviz Şelaleri, hem doğal güzelliği hem de ziyaretçilerine sunduğu olanaklar ile dikkat çekiyor.
+Kabaceviz Şelaleri, Samsun'un doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alıyor. Şelalelerin yüksekliği ve suyun hızı, ziyaretçilere unutulmaz bir deneyim sunuyor. Kabaceviz Şelaleri, hem doğal güzelliği hem de ziyaretçilerine sunduğu olanaklar ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kabaceviz Şelaleri'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Kabaceviz Şelaleri, Samsun'un Karadeniz Bölgesi'nde yer alan bir doğal güzelliktir. Şelaleler, 140 hektarlık bir alan üzerinde, 200 futbol sahası büyüklüğünde bir bölgeyi kaplıyor. Bu bölge, yeşilin farklı tonlarını barındıran ormanlık bir alanla çevrilidir. Şelalelerin yüksekliği ve suyun hızı, ziyaretçilere unutulmaz bir deneyim sunuyor. Kabaceviz Şelaleri, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir. Bölge, nemli ve ılıman bir iklimi ile dikkat çekiyor. Kış ayları soğuktur, ancak yaz ayları ılımandır. Bu iklim, şelalelerin ve çevrenin doğal güzelliğini daha da artırıyor.
+Kabaceviz Şelaleri, Samsun'un Karadeniz Bölgesi'nde yer alan bir doğal güzelliktir. Bu bölge, yeşilin farklı tonlarını barındıran ormanlık bir alanla çevrilidir. Şelalelerin yüksekliği ve suyun hızı, ziyaretçilere unutulmaz bir deneyim sunuyor. Kabaceviz Şelaleri, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir. Bölge, nemli ve ılıman bir iklimi ile dikkat çekiyor. Kış ayları soğuktur, ancak yaz ayları ılımandır. Bu iklim, şelalelerin ve çevrenin doğal güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kabaceviz Şelaleri'ni ziyaret etmek, unutulmaz bir deneyim olabilir. Şelaleler
 ## İlginç Bilgiler
 
 - Kabaceviz Şelaleri, Samsun'un doğal güzelliklerinden biridir.
-- Şelaleler, 140 hektarlık bir alan üzerinde, 200 futbol sahası büyüklüğünde bir bölgeyi kaplıyor.
+
 - Kabaceviz Şelaleri, Karadeniz Bölgesi'nin karakteristik iklimine sahiptir.
 - Bölge, nemli ve ılıman bir iklimi ile dikkat çekiyor.
 - Şelalelerin etrafında, birçok farklı türde bitki ve ağaç bulunabilir.

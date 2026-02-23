@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri"
 date: "2026-01-10T07:43:05.076Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391175"
 
 # Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri
 
-Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu türbeler, Marmara Bölgesi'nde, Fatih ilçesinde yer alıyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarihi ve kültürel alan sunuyor. İstanbul'un tarihi dokusunu hissetme ve geçmişini öğrenmek isteyenler için ideal bir yer.
+Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu türbeler, Marmara Bölgesi'nde, Fatih ilçesinde yer alıyor. İstanbul'un tarihi dokusunu hissetme ve geçmişini öğrenmek isteyenler için ideal bir yer.
 
 ## Tarihçe
 

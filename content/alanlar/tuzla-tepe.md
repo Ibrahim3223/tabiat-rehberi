@@ -51,9 +51,9 @@ Mevsimsel açıdan bakıldığında, Tuzla Tepe'nin iklim karakteri Akdeniz ikli
 
 ## Flora ve Fauna
 
-Tuzla Tepe, Antalya'nın dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-1. Bitki Örtüsü: Maki bitki örtüsüne ev sahipliği yapan Tuzla Tepe, kuraklığa dayanıklı türlerle dolu. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında rengarenk çiçekler açıyor. 
-2. Yaban Hayatı: Bölge, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Kış aylarında, göçmen kuşlar Tuzla Tepe'nin yükseklik zonlarına sığınıyor. 
+Tuzla Tepe, Antalya'nın dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+1. Bitki Örtüsü: Maki bitki örtüsüne ev sahipliği yapan Tuzla Tepe, kuraklığa dayanıklı türlerle dolu. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında rengarenk çiçekler açıyor.
+2. Yaban Hayatı: Bölge, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Kış aylarında, göçmen kuşlar Tuzla Tepe'nin yükseklik zonlarına sığınıyor.
 3. Ekolojik Değer: Bu dağ ekosistemi, alpin flora ve fauna için önemli bir yaşam alanı sunuyor. Tuzla Tepe'nin koruma durumu, bölgenin güzelliğini ve biyolojik çeşitliliğini korumak için büyük önem taşıyor.
 
 ## Ziyaret Bilgileri

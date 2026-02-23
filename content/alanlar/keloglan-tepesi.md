@@ -28,7 +28,7 @@ wikidata_id: "Q31558157"
 
 # Keloğlan Tepesi
 
-Keloğlan Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir destinasyondur. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Keloğlan Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğal bir ortamda dinlenme ve yürüyüş yapma imkanı sunuyor. Tepenin yüksekliği, Ankara'nın diğer bölgelerine nazaran daha yüksektir ve buradan şehrin panoramik manzarasını izleme mümkün.
+Keloğlan Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve doğal güzelliği ile dikkat çeken bir destinasyondur. Keloğlan Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğal bir ortamda dinlenme ve yürüyüş yapma imkanı sunuyor. Tepenin yüksekliği, Ankara'nın diğer bölgelerine nazaran daha yüksektir ve buradan şehrin panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Okçular Tekkesi"
 date: "2026-01-10T15:16:04.537Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -30,15 +30,15 @@ wikidata_id: "Q132949398"
 
 # Okçular Tekkesi
 
-Okçular Tekkesi, İstanbul'un kalbinde, Marmara Bölgesi'nin en güzel noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için bir cennet. Burada, tarihi ve doğal güzellikleri bir arada görme mümkün. İstanbul'un fethinin ardından, Fatih Sultan Mehmet'in emriyle kurulan bu tekke, tarihin sâu izlerini taşıyor. Şehrin merkezinde bulunmasına rağmen, burada doğanın seslerini dinleyerek, stresten uzaklaşabilirsiniz.
+Okçular Tekkesi, İstanbul'un kalbinde, Marmara Bölgesi'nin en güzel noktalarından biri olarak karşımıza çıkıyor. Burada, tarihi ve doğal güzellikleri bir arada görme mümkün. İstanbul'un fethinin ardından, Fatih Sultan Mehmet'in emriyle kurulan bu tekke, tarihin derin izlerini taşıyor. Şehrin merkezinde bulunmasına rağmen, burada doğanın seslerini dinleyerek, stresten uzaklaşabilirsiniz.
 
 ## Tarihçe
 
-Okçular Tekkesi'nin tarihi, İstanbul'un fethine kadar uzanıyor. Fatih Sultan Mehmet'in emriyle kurulan bu tekke, tarihin sâu izlerini taşıyor. Osmanlı'nın ilk dönemlerinde, okçuluğun geliştirilmesi amacıyla inşa edilen bu yapı, zamanla önemli bir dini merkez haline geldi. Burada, çeşitli dini törenlerin yanı sıra, okçuluk yarışmaları da düzenlenirdi. Tarihin her döneminde önemli bir role sahip olan Okçular Tekkesi, bugün de ziyaretçilerini tarihin sâu atmosferine çekmeyi başarıyor. Geçmişin izlerini taşıyan bu özel mekan, İstanbul'un tarihini anlamak isteyenler için bir başucu kaynağı olarak kabul edilebilir.
+Okçular Tekkesi'nin tarihi, İstanbul'un fethine kadar uzanıyor. Fatih Sultan Mehmet'in emriyle kurulan bu tekke, tarihin derin izlerini taşıyor. Osmanlı'nın ilk dönemlerinde, okçuluğun geliştirilmesi amacıyla inşa edilen bu yapı, zamanla önemli bir dini merkez haline geldi. Burada, çeşitli dini törenlerin yanı sıra, okçuluk yarışmaları da düzenlenirdi. Tarihin her döneminde önemli bir role sahip olan Okçular Tekkesi, bugün de ziyaretçilerini tarihin derin atmosferine çekmeyi başarıyor. Geçmişin izlerini taşıyan bu özel mekan, İstanbul'un tarihini anlamak isteyenler için bir başucu kaynağı olarak kabul edilebilir.
 
 ## Coğrafya
 
-Okçular Tekkesi, İstanbul'un kalbinde, Marmara Bölgesi'nin en güzel noktalarından biri olarak bulunmakta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için bir cennet. Burada, tarihi ve doğal güzellikleri bir arada görme mümkün. Tekke, şehrin merkezinde bulunmasına rağmen, doğanın seslerini dinleyerek, stresten uzaklaşabilirsiniz. Çevresinde, çeşitli bitki türleri ve hayvanlar bulunmakta. Mevsimsel değişimlere göre, buradaki doğa manzaraları da değişiyor. Bahar aylarında, yeşilin tüm tonlarını görebileceğiniz gibi, kış aylarında da karın beyazlığını izleyebilirsiniz. Coğrafi konumu itibariyle, Okçular Tekkesi, İstanbul'un en önemli doğal ve tarihi alanlarından biri olarak kabul ediliyor.
+Okçular Tekkesi, İstanbul'un kalbinde, Marmara Bölgesi'nin en güzel noktalarından biri olarak bulunmakta. Burada, tarihi ve doğal güzellikleri bir arada görme mümkün. Tekke, şehrin merkezinde bulunmasına rağmen, doğanın seslerini dinleyerek, stresten uzaklaşabilirsiniz. Çevresinde, çeşitli bitki türleri ve hayvanlar bulunmakta. Mevsimsel değişimlere göre, buradaki doğa manzaraları da değişiyor. Bahar aylarında, yeşilin tüm tonlarını görebileceğiniz gibi, kış aylarında da karın beyazlığını izleyebilirsiniz. Coğrafi konumu itibariyle, Okçular Tekkesi, İstanbul'un en önemli doğal ve tarihi alanlarından biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Okçular Tekkesi'ni ziyaret etmek, İstanbul'un tarihi ve doğal güzelliklerini
 
 - Okçular Tekkesi, İstanbul'un en eski yapılarından biri.
 - Burada, çeşitli dini törenlerin yanı sıra, okçuluk yarışmaları da düzenlenirdi.
-- Tarihin her döneminde önemli bir role sahip olan Okçular Tekkesi, bugün de ziyaretçilerini tarihin sâu atmosferine çekmeyi başarıyor.
+- Tarihin her döneminde önemli bir role sahip olan Okçular Tekkesi, bugün de ziyaretçilerini tarihin derin atmosferine çekmeyi başarıyor.
 - Okçular Tekkesi, 140 hektarlık bir yeşil alan.
 - Buradaki flora, İstanbul'un diğer bölgelerine göre daha zengin.

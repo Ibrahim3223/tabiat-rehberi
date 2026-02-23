@@ -1,7 +1,7 @@
 ---
 title: "Erek Hamamı"
 date: "2026-01-09T23:46:37.373Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245763"
 
 # Erek Hamamı
 
-Erek Hamamı, Karadeniz Bölgesi'nin Tokat ilinin Erbaa ilçesinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerini doğanın güzelliği ile büyülemektedir. Erek Hamamı, denizin ve ormanın birleştiği noktada, muhteşem bir manzaraya sahip olup, ziyaretçilerine unutulmaz anlar yaşatmaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgi odağı olmaktadır.
+Erek Hamamı, Karadeniz Bölgesi'nin Tokat ilinin Erbaa ilçesinde yer alan bir doğa harikasıdır. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgi odağı olmaktadır.
 
 ## Tarihçe
 

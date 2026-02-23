@@ -22,7 +22,7 @@ wikidata_id: "Q108227586"
 
 # Artvin-Savsat-Velikoy Dogu Karadeniz Goknari
 
-Artvin-Savsat-Velikoy Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Milli parkın bulunduğu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Doğal güzellikleri, yürüyüş parkurları ve kamp alanları ile ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor.
+Artvin-Savsat-Velikoy Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. Milli parkın bulunduğu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Doğal güzellikleri, yürüyüş parkurları ve kamp alanları ile ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389959"
 
 # Tahtalıbaba Tepesi
 
-Tahtalıbaba Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan 140 hektarlık yeşil bir alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini sunar. Tahtalıbaba Tepesi, ziyaretçilere şehrin panoramik manzarasını sunan bir noktaya sahiptir. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tahtalıbaba Tepesi, doğa severler ve Photographerlar için ideal bir destinasyondur. Ziyaretçiler, buraya gelerek hem doğayı keşfedebilir hem de şehrin tarihi hakkında bilgi edinebilir.
+Tahtalıbaba Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan 140 hektarlık yeşil bir alandır. Tahtalıbaba Tepesi, ziyaretçilere şehrin panoramik manzarasını sunan bir noktaya sahiptir. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tahtalıbaba Tepesi, doğa severler ve Photographerlar için ideal bir destinasyondur. Ziyaretçiler, buraya gelerek hem doğayı keşfedebilir hem de şehrin tarihi hakkında bilgi edinebilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tahtalıbaba Tepesi'nin tarihi geçmişi yüzyıllar boyunca şekillenmiştir. T
 
 ## Coğrafya
 
-Tahtalıbaba Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe oluşumudur. Bu tepe, 140 hektarlık yeşil bir alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıdadır. Bu yükseklik, ziyaretçilere şehrin panoramik manzarasını sunar. Tahtalıbaba Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tepenin eteklerinde, farklı türdeki ağaçlar ve bitkiler bulunmaktadır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Tahtalıbaba Tepesi, Eskişehir'in en önemli doğal güzelliklerinden biridir.
+Tahtalıbaba Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe oluşumudur. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıdadır. Bu yükseklik, ziyaretçilere şehrin panoramik manzarasını sunar. Tahtalıbaba Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tepenin eteklerinde, farklı türdeki ağaçlar ve bitkiler bulunmaktadır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Tahtalıbaba Tepesi, Eskişehir'in en önemli doğal güzelliklerinden biridir.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Tahtalıbaba Tepesi'ni ziyaret etmek, hem doğa severler hem de Photographerlar 
 
 - Tahtalıbaba Tepesi, Eskişehir'in en önemli doğal güzelliklerinden biridir.
 - Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıdadır.
-- Tahtalıbaba Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Tahtalıbaba Tepesi, doğa severler ve Photographerlar için ideal bir destinasyondur.

@@ -28,7 +28,7 @@ wikidata_id: "Q97207090"
 
 # Alişor Şelaleleri
 
-Alişor Şelaleleri, İç Anadolu Bölgesi'nin güzide yerlerinden biri olarak dikkat çekiyor. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Doğa severlerin ziyaret ettiği bir destinasyon olan Alişor Şelaleleri, şelalelerin güzelliği ve çevresindeki yeşillikle ziyaretçilerini büyülüyor. Burada, çeşitli bitki türleri ve zengin fauna yer alıyor. Alişor Şelaleleri, hem doğa tutkunları hem de fotoğraf severler için ideal bir yer.
+Alişor Şelaleleri, İç Anadolu Bölgesi'nin güzide yerlerinden biri olarak dikkat çekiyor. Doğa severlerin ziyaret ettiği bir destinasyon olan Alişor Şelaleleri, şelalelerin güzelliği ve çevresindeki yeşillikle ziyaretçilerini büyülüyor. Burada, çeşitli bitki türleri ve zengin fauna yer alıyor. Alişor Şelaleleri, hem doğa tutkunları hem de fotoğraf severler için ideal bir yer.
 
 ## Tarihçe
 

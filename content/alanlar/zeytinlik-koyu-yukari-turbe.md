@@ -1,7 +1,7 @@
 ---
 title: "Zeytinlik Köyü Yukarı Türbe"
 date: "2026-01-10T07:39:59.506Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kutaisi Guberniyası"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391318"
 
 # Zeytinlik Köyü Yukarı Türbe
 
-Zeytinlik Köyü Yukarı Türbe, İç Anadolu Bölgesi'nin güzide bir köşesinde, Artvin'in sınırları içerisinde yer alan bir doğa harikasıdır. Bu bölge, 140 hektarlık geniş bir alan üzerine kurulmuş, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennettir. Zeytinlik Köyü Yukarı Türbe, ziyaretçilerini doğanın kucağına davet ediyor. Burada, tarihi geçmişin izlerini taşıyan yapılar, zengin fauna ve flora çeşitliliği ile karşılaşma mümkün. Bu bölge, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekecek bir destinasyon olarak öne çıkıyor.
+Zeytinlik Köyü Yukarı Türbe, İç Anadolu Bölgesi'nin güzide bir köşesinde, Artvin'in sınırları içerisinde yer alan bir doğa harikasıdır. Zeytinlik Köyü Yukarı Türbe, ziyaretçilerini doğanın kucağına davet ediyor. Burada, tarihi geçmişin izlerini taşıyan yapılar, zengin fauna ve flora çeşitliliği ile karşılaşma mümkün. Bu bölge, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekecek bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

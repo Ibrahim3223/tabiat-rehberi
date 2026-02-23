@@ -51,11 +51,11 @@ Jeolojik açıdan bakıldığında, Elazığ Kızıl Dağı'nın fiziksel yapıs
 
 ## Flora ve Fauna
 
-Elazığ Kızıl Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Elazığ Kızıl Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunar. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunar.
 
-Yaban Hayatı açısından, dağ keçileri ve yaban kedileri gibi memelileri, kartallar ve şahinler gibi kuşları ve çeşitli sürüngenleri barındırır. Sonbaharda, göçmen kuşlar dağları geçer. 
+Yaban Hayatı açısından, dağ keçileri ve yaban kedileri gibi memelileri, kartallar ve şahinler gibi kuşları ve çeşitli sürüngenleri barındırır. Sonbaharda, göçmen kuşlar dağları geçer.
 
 Ekolojik Değer olarak, endemik türlerin varlığı ve yüksek dağ ekosisteminin korunması açısından önemlidir. Bu nedenle, koruma altına alınması gereken bir alandır.
 

@@ -1,7 +1,7 @@
 ---
 title: "Ankara Kulübü Derneği Ankara Kent Müzesi"
 date: "2026-01-10T15:14:07.801Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950098"
 
 # Ankara Kulübü Derneği Ankara Kent Müzesi
 
-Ankara Kulübü Derneği Ankara Kent Müzesi, Ankara'nın merkezinde yer alan bir kültür ve tarih merkezidir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir arazide kurulmuştur. Müze, Ankara'nın tarihi ve kültürel zenginliklerini sergileyen geniş koleksiyonlara ev sahipliği yapmaktadır. Ziyaretçiler, Ankara'nın geçmişini ve günümüzünü keşfetmek için bu merkezi ziyaret edebilirler. Ankara Kulübü Derneği Ankara Kent Müzesi, hem Ankara'nın hem de Türkiye'nin kültürel mirasını tanıtmak için önemli bir role sahiptir.
+Ankara Kulübü Derneği Ankara Kent Müzesi, Ankara'nın merkezinde yer alan bir kültür ve tarih merkezidir. Müze, Ankara'nın tarihi ve kültürel zenginliklerini sergileyen geniş koleksiyonlara ev sahipliği yapmaktadır. Ziyaretçiler, Ankara'nın geçmişini ve günümüzünü keşfetmek için bu merkezi ziyaret edebilirler. Ankara Kulübü Derneği Ankara Kent Müzesi, hem Ankara'nın hem de Türkiye'nin kültürel mirasını tanıtmak için önemli bir role sahiptir.
 
 ## Tarihçe
 

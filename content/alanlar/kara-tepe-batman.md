@@ -51,7 +51,7 @@ Doğal bir oluşum olan Kara Tepe, coğrafi olarak çeşitlilik gösteren bir b�
 
 ## Flora ve Fauna
 
-Kara Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, yükseklik zonları ve alpin flora ile dikkat çekiyor. İlkbaharın gelmesi ile birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Step ve ova ekolojisinin birleştiği bu bölgede, bitki örtüsü mevsimsel değişimlere göre şekil değiştiriyor. 
+Kara Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, yükseklik zonları ve alpin flora ile dikkat çekiyor. İlkbaharın gelmesi ile birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Step ve ova ekolojisinin birleştiği bu bölgede, bitki örtüsü mevsimsel değişimlere göre şekil değiştiriyor.
 
 Yaban hayatı da bu dağ ekosisteminin önemli bir parçası. Dağ keçileri ve yaban domuzları gibi memeliler, dağların yüksek kesimlerinde yaşamlarını sürdürüyor. Kuşlar ise sonbaharın gelmesi ile birlikte göçlerine başlıyor. Sürüngenler de bu ekosistemin bir parçası olarak, kayalar ve taşlı alanlarda yaşamını sürdürüyor.
 

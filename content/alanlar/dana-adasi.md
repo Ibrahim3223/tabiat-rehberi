@@ -51,7 +51,7 @@ Ada ve çevresinin jeolojik yapısı, bölgenin coğrafi özelliklerini şekille
 
 Dana Adası, Mersin'in kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte ada, çeşitli çiçek türleriyle renkleniyor. Kuraklığa dayanıklı bitkiler, ada koşullarına uyum sağlamayı başarmışlar.
 
-Ada, deniz kuşlarının önemli bir uğrak noktası. Kıyı ekosisteminin bir parçası olan bu kuşlar, ada üzerinde yuva yapıyorlar. Sürüngenler ve diğer yaban hayatları da bu ekosistemin önemli parçaları. Memeliler, adanın izole popülasyonuna katkıda bulunuyorlar. 
+Ada, deniz kuşlarının önemli bir uğrak noktası. Kıyı ekosisteminin bir parçası olan bu kuşlar, ada üzerinde yuva yapıyorlar. Sürüngenler ve diğer yaban hayatları da bu ekosistemin önemli parçaları. Memeliler, adanın izole popülasyonuna katkıda bulunuyorlar.
 
 Ada ekosisteminin korunması büyük önem taşıyor. İzole popülasyonlar ve deniz kuşları, ada ekosisteminin değerini artırıyor. Bu nedenle, Dana Adası'nın korunması için Necessary önlemler alınmalı.
 

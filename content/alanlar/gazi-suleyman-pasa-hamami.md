@@ -1,7 +1,7 @@
 ---
 title: "Gazi Süleyman Paşa Hamamı"
 date: "2026-01-09T22:29:54.478Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738466"
 
 # Gazi Süleyman Paşa Hamamı
 
-Göynük'te bulunan Gazi Süleyman Paşa Hamamı, tarihi dokusu ve doğal güzelliği ile dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Göynük'ün merkezinde yer alan hamam, Karadeniz Bölgesi'nin önemli tarihi ve turistik noktalarından biri olarak kabul ediliyor. Tarihi geçmişi ile birlikte, bu alan aynı zamanda bölge halkının sosyal ve kültürelının önemli bir parçasını oluşturuyor.
+Göynük'te bulunan Gazi Süleyman Paşa Hamamı, tarihi dokusu ve doğal güzelliği ile dikkat çekiyor. Göynük'ün merkezinde yer alan hamam, Karadeniz Bölgesi'nin önemli tarihi ve turistik noktalarından biri olarak kabul ediliyor. Tarihi geçmişi ile birlikte, bu alan aynı zamanda bölge halkının sosyal ve kültürelının önemli bir parçasını oluşturuyor.
 
 ## Tarihçe
 

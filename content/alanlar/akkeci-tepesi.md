@@ -28,7 +28,7 @@ wikidata_id: "Q32126735"
 
 # Akkeçi Tepesi
 
-Akkeçi Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir nokta. Bu tepe, yaklaşık 140 hektarlık alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Akkeçi Tepesi, yılın her mevsiminde ziyaret edilebiliyor ve her mevsiminde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşil örtüsü ile göz dolduran tepe, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor.
+Akkeçi Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir nokta. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Akkeçi Tepesi, yılın her mevsiminde ziyaret edilebiliyor ve her mevsiminde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşil örtüsü ile göz dolduran tepe, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor.
 
 ## Tarihçe
 

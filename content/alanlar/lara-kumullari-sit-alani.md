@@ -22,7 +22,7 @@ wikidata_id: "Q108226654"
 
 # Lara Kumulları Sit Alanı
 
-Lara Kumulları Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir doğal alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alanın önemli bir kısmı kumullardan oluşuyor ve çoğunlukla tuzlu su kaynaklarına yakın. Kumulların etrafında bulunan çeşitli bitki türleri, bu doğal alanın güzelliğini ve biyolojik çeşitliliğini arttırıyor. Lara Kumulları Sit Alanı, aynı zamanda birçok hayvan türüne de ev sahipliği yapıyor. Bu bölge, doğal güzelliği ve biyolojik çeşitliliği korumak amacıyla sit alanı olarak belirlenmiştir.
+ Bu alanın önemli bir kısmı kumullardan oluşuyor ve çoğunlukla tuzlu su kaynaklarına yakın. Kumulların etrafında bulunan çeşitli bitki türleri, bu doğal alanın güzelliğini ve biyolojik çeşitliliğini arttırıyor. Lara Kumulları Sit Alanı, aynı zamanda birçok hayvan türüne de ev sahipliği yapıyor. Bu bölge, doğal güzelliği ve biyolojik çeşitliliği korumak amacıyla sit alanı olarak belirlenmiştir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Lara Kumulları Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Lara Kumulları Sit Alanı, İç Anadolu Bölgesi'nde yer alan bir doğal alandan oluşuyor. Bu alan, 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Kumulların etrafında bulunan çeşitli bitki türleri, bu doğal alanın güzelliğini ve biyolojik çeşitliliğini arttırıyor. Lara Kumulları Sit Alanı, aynı zamanda birçok hayvan türüne de ev sahipliği yapıyor. Bu bölge, tuzlu su kaynaklarına yakın bir konumda yer alıyor ve iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kumulların yüksekliği, deniz seviyesinden yaklaşık 1000 metre yüksekte ve bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Lara Kumulları Sit Alanı, doğal güzelliği ve biyolojik çeşitliliği korumak amacıyla sit alanı olarak belirlenmiştir ve bu belirlenme, bölgenin geleceğini koruma ve doğal kaynaklarını sürdürülebilir bir şekilde kullanmak amacıyla yapılmıştır.
+Lara Kumulları Sit Alanı, İç Anadolu Bölgesi'nde yer alan bir doğal alandan oluşuyor. Kumulların etrafında bulunan çeşitli bitki türleri, bu doğal alanın güzelliğini ve biyolojik çeşitliliğini arttırıyor. Lara Kumulları Sit Alanı, aynı zamanda birçok hayvan türüne de ev sahipliği yapıyor. Bu bölge, tuzlu su kaynaklarına yakın bir konumda yer alıyor ve iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kumulların yüksekliği, deniz seviyesinden yaklaşık 1000 metre yüksekte ve bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiliyor. Lara Kumulları Sit Alanı, doğal güzelliği ve biyolojik çeşitliliği korumak amacıyla sit alanı olarak belirlenmiştir ve bu belirlenme, bölgenin geleceğini koruma ve doğal kaynaklarını sürdürülebilir bir şekilde kullanmak amacıyla yapılmıştır.
 
 ## Flora ve Fauna
 

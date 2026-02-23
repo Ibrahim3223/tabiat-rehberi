@@ -34,7 +34,7 @@ Bitlis'in dağlık arazisinde yer alan Petek Dağı, coğrafi konumu itibarıyla
 
 Bitlis bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarihin çeşitli dönemlerinde Urartular, Medler, Persler, Romalılar ve Osmanlılar gibi uygarlıkların egemenliğinde kalmıştır. Petek Dağı gibi doğal alanlar, bu bölgede yaşayan halkların yaşamlarında önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bölgenin coğrafi yapısı nedeniyle sempre önemli faaliyetler olagelmiştir. Ticaret yolları da bu bölgeden geçmekteydi, bölgenin stratejik önemi büyüktü.
 
-Bu doğal alanlar, sadece ekonomik faaliyetler için değil, aynı zamanda kültürel ve sosyal yaşam için de önemli merkezler olarak görev yapmıştır. İnsanların bu alanlarla olan bağları, yalnızca geçim kaynaklarına değil, aynı zamanda kültürel miraslarına da bağlıdır. Türkiye'de, benzer doğal alanlar tarihsel olarak önemli yerleşim yeri ve ticaret merkezleri olarak hizmet vermiştir. Bu tür alanların korunması ve gelecek nesiller için bảo tồn edilmesi, ülkemizin doğal ve kültürel mirasının zenginleştirilmesi için önemlidir.
+Bu doğal alanlar, sadece ekonomik faaliyetler için değil, aynı zamanda kültürel ve sosyal yaşam için de önemli merkezler olarak görev yapmıştır. İnsanların bu alanlarla olan bağları, yalnızca geçim kaynaklarına değil, aynı zamanda kültürel miraslarına da bağlıdır. Türkiye'de, benzer doğal alanlar tarihsel olarak önemli yerleşim yeri ve ticaret merkezleri olarak hizmet vermiştir. Bu tür alanların korunması ve gelecek nesiller için koruma tồn edilmesi, ülkemizin doğal ve kültürel mirasının zenginleştirilmesi için önemlidir.
 
 ## Coğrafya
 

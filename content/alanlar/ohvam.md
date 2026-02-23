@@ -32,7 +32,7 @@ Artvin'in doğa harikalarıyla dolu coğrafyasında, Ohvam Dağı ziyaretçileri
 
 ## Tarihçe
 
-Artvin'in dağlık bölgesinde yer alan Ohvam, tarihin sâu izlerini taşıyan bir doğal alan. Bu bölge, tarih boyunca çeşitli uygarlıkların geçiş noktası olmuş; Kolhlar, Roma İmparatorluğu, Bizans ve Osmanlı gibi medeniyetlerin izlerine rastlayabilme mümkün. Ohvam'ın bulunduğu Karadeniz Bölgesi, coğrafi konumu nedeniyle ticaret yollarının kesişme noktası olarak önemli bir role sahip.
+Artvin'in dağlık bölgesinde yer alan Ohvam, tarihin derin izlerini taşıyan bir doğal alan. Bu bölge, tarih boyunca çeşitli uygarlıkların geçiş noktası olmuş; Kolhlar, Roma İmparatorluğu, Bizans ve Osmanlı gibi medeniyetlerin izlerine rastlayabilme mümkün. Ohvam'ın bulunduğu Karadeniz Bölgesi, coğrafi konumu nedeniyle ticaret yollarının kesişme noktası olarak önemli bir role sahip.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutmaktadır. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin insanlarla olan bağlantısını güçlendirmiş, insanların doğayla iç içe yaşamasına olanak sağlamıştır. Ohvam gibi dağlık alanlar, aynı zamanda tarihi ticaret yollarının geçiş noktaları olarak da görev üstlenmiş, bölge halkının ekonomisini ve kültürünü şekillendirmiştir. Bu doğal cennetler, sadece güzellikleriyle değil, aynı zamanda taşıdıkları tarihsel önemiyle de dikkat çekmektedir. Ohvam, bu zengin tarihsel mirasın bir parçası olarak, ziyaretçilerini bölgeye özgü kültürel ve doğal zenginliklerin keşfine davet etmektedir.
 
@@ -48,11 +48,11 @@ Ohvam Dağı, çevresindeki diğer dağlar ve vadilerle birlikte, bir ekosistem 
 
 ## Flora ve Fauna
 
-Ohvam dağının nemli iklimi ve gür ormanları, yüksek biyoçeşitliliğin hüküm sürdüğü bir cenneti oluşturur. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Ohvam dağının nemli iklimi ve gür ormanları, yüksek biyoçeşitliliğin hüküm sürdüğü bir cenneti oluşturur. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsüne bakıldığında, ilkbaharda dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise ormanlar sarı, turuncu ve kırmızıyla renklenir. Dağ ekosisteminin yükseklik zonları, alpin flora ile karakterizedir. 
+Bitki örtüsüne bakıldığında, ilkbaharda dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise ormanlar sarı, turuncu ve kırmızıyla renklenir. Dağ ekosisteminin yükseklik zonları, alpin flora ile karakterizedir.
 
-Yaban hayatı da bir o kadar zengin. Memeliler, dağların dik yamaçlarında yaşamını sürdürürken, kuşlar göç mevsimlerinde burayı önemli bir uğrak noktası olarak kullanır. Sürüngenler ise kayalık alanlarda ve orman zemininde yaşamlarını sürdürür. 
+Yaban hayatı da bir o kadar zengin. Memeliler, dağların dik yamaçlarında yaşamını sürdürürken, kuşlar göç mevsimlerinde burayı önemli bir uğrak noktası olarak kullanır. Sürüngenler ise kayalık alanlarda ve orman zemininde yaşamlarını sürdürür.
 
 Ohvam dağının ekolojik değeri, yüksek biyoçeşitlili ve doğal güzellikleri nedeniyle önemlidir. Bu alanın korunması, bölgenin ekolojik dengesinin korunması açısından kritik bir role sahiptir.
 

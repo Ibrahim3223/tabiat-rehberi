@@ -51,11 +51,11 @@ Mevsimsel olarak incelendiğinde, Çadır Dağı'nın iklimi quite değişken. K
 
 ## Flora ve Fauna
 
-Çadır Dağı, Gümüşhane'nin nemli ikliminin hâkim olduğu bir bölgede yer alır. Bu dağ, gür ormanlarla kaplı ve yüksek biyoçeşitliliğe sahip bir ekosistemdir. 
+Çadır Dağı, Gümüşhane'nin nemli ikliminin hâkim olduğu bir bölgede yer alır. Bu dağ, gür ormanlarla kaplı ve yüksek biyoçeşitliliğe sahip bir ekosistemdir.
 
-Bitki örtüsüne baktığımızda, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Mevsimsel değişimlerle birlikte, sonbaharda yaprak döken ağaçlar kırmızılı sarıya dönüşür. Dağın yükseklik zonlarında, alpin flora hakimdir ve bu flora, dağın zorlu koşullarına adapte olmuştur. 
+Bitki örtüsüne baktığımızda, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Mevsimsel değişimlerle birlikte, sonbaharda yaprak döken ağaçlar kırmızılı sarıya dönüşür. Dağın yükseklik zonlarında, alpin flora hakimdir ve bu flora, dağın zorlu koşullarına adapte olmuştur.
 
-Yaban hayatı da oldukça zengin olan Çadır Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağın ormanlarında, geyi ve ayı gibi büyük memeliler yaşarken, dağ yamaçlarında çeşitli kuş türleri yuva yapar. Sürüngenler de bu ekosistemin bir parçasını oluşturur ve dağın kayalık alanlarında yaşarlar. 
+Yaban hayatı da oldukça zengin olan Çadır Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağın ormanlarında, geyi ve ayı gibi büyük memeliler yaşarken, dağ yamaçlarında çeşitli kuş türleri yuva yapar. Sürüngenler de bu ekosistemin bir parçasını oluşturur ve dağın kayalık alanlarında yaşarlar.
 
 Çadır Dağı, ekolojik açıdan önemli bir bölgedir. Bu dağ, birçok canlı türünün yaşam alanı olmakla birlikte, bölgenin su döngüsünü de düzenler. Ancak, bu önemli ekosistemin koruma durumu endişe vericidir. İnsan faaliyetleri, bu dağın doğal dengesini tehdit etmekte ve ekosistemin bozulmasına neden olmaktadır.
 

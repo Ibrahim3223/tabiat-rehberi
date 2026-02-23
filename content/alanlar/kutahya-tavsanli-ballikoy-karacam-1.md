@@ -22,7 +22,7 @@ wikidata_id: "Q108227530"
 
 # Kutahya-Tavsanli-Ballikoy Karacam 1
 
-Kutahya-Tavsanli-Ballikoy Karacam 1 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parka gelenler, hem doğayı keşfetmenin hem de dinlenmenin keyfini çıkarabiliyorlar. Özellikle bahar aylarında, flora çeşitliliği ile çevreyi renk bir hal alır.
+Kutahya-Tavsanli-Ballikoy Karacam 1 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parka gelenler, hem doğayı keşfetmenin hem de dinlenmenin keyfini çıkarabiliyorlar. Özellikle bahar aylarında, flora çeşitliliği ile çevreyi renk bir hal alır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kutahya-Tavsanli-Ballikoy Karacam 1 milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Kutahya-Tavsanli-Ballikoy Karacam 1 milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Parkın 140 hektarlık alanı, aproximadamente 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu bölge, çeşitli bitki türleri ve hayvan çeşitliliği ile zengin bir ekosisteme sahiptir. Parkın coğrafi yapısı, ziyaretçilere hem yürüyüş yapmak hem de doğayı keşfetmek için uygun bir ortam sunar. Ayrıca, parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve mevsimsel değişimler, flora ve fauna üzerinde etkisini gösterir. Parkın çevresi, doğal güzelliği ile ziyaretçileri etkileyen bir manzaraya sahiptir.
+Kutahya-Tavsanli-Ballikoy Karacam 1 milli parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, çeşitli bitki türleri ve hayvan çeşitliliği ile zengin bir ekosisteme sahiptir. Parkın coğrafi yapısı, ziyaretçilere hem yürüyüş yapmak hem de doğayı keşfetmek için uygun bir ortam sunar. Ayrıca, parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve mevsimsel değişimler, flora ve fauna üzerinde etkisini gösterir. Parkın çevresi, doğal güzelliği ile ziyaretçileri etkileyen bir manzaraya sahiptir.
 
 ## Flora ve Fauna
 

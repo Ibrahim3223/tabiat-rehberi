@@ -28,7 +28,7 @@ wikidata_id: "Q31387997"
 
 # Meyri Tepesi
 
-Meyri Tepesi, Karadeniz Bölgesi'nin güzide illerinden Bayburt'ta yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplı. Tepenin zirvesinden bakıldığında, etraftaki dağların ve vadilerin muhteşem manzarası gözler önüne serilir. Meyri Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbeden bir yer.
+Meyri Tepesi, Karadeniz Bölgesi'nin güzide illerinden Bayburt'ta yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir destinasyon. Tepenin zirvesinden bakıldığında, etraftaki dağların ve vadilerin muhteşem manzarası gözler önüne serilir. Meyri Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbeden bir yer.
 
 ## Tarihçe
 

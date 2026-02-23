@@ -48,7 +48,7 @@ Gedingelmez Dağı, çevresindeki ekosistemle güçlü bir bağ içinde bulunuyo
 
 ## Flora ve Fauna
 
-Gedingelmez Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, maki bitki örtüsünün hakim olduğu bir bölge. 1200 metrelik yüksekliğiyle, dağ ekosistemi çeşitli yükseklik zonlarına sahiptir. İlkbaharda, dağ yamaçları rengarenk çiçeklerle dolar, kuraklığa dayanıklı türler ise yaz mevsiminde yeşilliğini korur. 
+Gedingelmez Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, maki bitki örtüsünün hakim olduğu bir bölge. 1200 metrelik yüksekliğiyle, dağ ekosistemi çeşitli yükseklik zonlarına sahiptir. İlkbaharda, dağ yamaçları rengarenk çiçeklerle dolar, kuraklığa dayanıklı türler ise yaz mevsiminde yeşilliğini korur.
 
 Dağların yüksek zonlarında, alpin flora çeşitliliği dikkat çeker. Bu bölgede, dağ keçileri ve yaban keçileri, kayalık alanlarda yaşamlarını sürdürürler. Kuşlar ise, özellikle sonbaharda göç ettikleri dönemde, dağların gökyüzünü süsler. Sürüngenler de, sıca ve kayalık alanlarda, güneşin altında ısınarak yaşamlarını sürdürürler.
 

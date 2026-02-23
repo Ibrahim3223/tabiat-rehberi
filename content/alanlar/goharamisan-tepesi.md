@@ -28,7 +28,7 @@ wikidata_id: "Q31576018"
 
 # Goharamişan Tepesi
 
-Goharamişan Tepesi, Van şehrinin doğal güzelliklerinin başlıcalarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde ve zirvesinde çeşitli bitki türleri ve zengin fauna bulunan bu bölge, hem doğa severlerin hem de macera arayışındaki kişilerin ilgi odağı oluyor. Goharamişan Tepesi, Van'ın coğrafi yapısının önemli bir parçası olarak, şehrin tarihi ve kültürel mirasının bir parçasını oluşturuyor.
+Goharamişan Tepesi, Van şehrinin doğal güzelliklerinin başlıcalarından biri olarak dikkat çekiyor. Tepenin eteklerinde ve zirvesinde çeşitli bitki türleri ve zengin fauna bulunan bu bölge, hem doğa severlerin hem de macera arayışındaki kişilerin ilgi odağı oluyor. Goharamişan Tepesi, Van'ın coğrafi yapısının önemli bir parçası olarak, şehrin tarihi ve kültürel mirasının bir parçasını oluşturuyor.
 
 ## Tarihçe
 

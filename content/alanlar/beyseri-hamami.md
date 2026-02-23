@@ -1,7 +1,7 @@
 ---
 title: "Beyseri Hamamı"
 date: "2026-01-09T23:13:10.249Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738938"
 
 # Beyseri Hamamı
 
-Beyseri Hamamı, Antakya'da bulunan ve tarihi bir geçmişe sahip olan bir hamam ve plaj alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunmaktadır. Beyseri Hamamı, tarihi ve doğal güzelliği ile birlikte ziyaretçilerini bekliyor. Antakya'nın merkezine yakın bir konumda yer alan bu alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor.
+Beyseri Hamamı, Antakya'da bulunan ve tarihi bir geçmişe sahip olan bir hamam ve plaj alanıdır. Beyseri Hamamı, tarihi ve doğal güzelliği ile birlikte ziyaretçilerini bekliyor. Antakya'nın merkezine yakın bir konumda yer alan bu alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor.
 
 ## Tarihçe
 

@@ -54,7 +54,7 @@ Karatunasivrisi dağının eteklerinde, zeytinliklerin yeşilliği hakimdir. İl
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Kış aylarında, göçmen kuşlar bu bölgeden geçer ve çam ormanlarında barınak bulur. Memeliler, dağların yükseklik zonlarına adapte olmuş ve özel yaşam alanlarına sahiptir.
 
-Karatunasivrisi dağının ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasındadır. Dağın yükseklik zonları ve alpin flora, birçok canlıyaşam alanı sağlar ve ekolojik dengenin korunmasına yardımcı olur. Bu nedenle, bu dağ ekosisteminin korunması önemlidir ve gelecekteki nesiller için bảolanması gerekmektedir.
+Karatunasivrisi dağının ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasındadır. Dağın yükseklik zonları ve alpin flora, birçok canlıyaşam alanı sağlar ve ekolojik dengenin korunmasına yardımcı olur. Bu nedenle, bu dağ ekosisteminin korunması önemlidir ve gelecekteki nesiller için korunması gerekmektedir.
 
 ## Ziyaret Bilgileri
 

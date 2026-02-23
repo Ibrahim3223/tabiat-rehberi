@@ -1,7 +1,7 @@
 ---
 title: "Koru Dede Hazretleri Türbesi"
 date: "2026-01-10T05:05:03.646Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391616"
 
 # Koru Dede Hazretleri Türbesi
 
-Koru Dede Hazretleri Türbesi, Düzce'nin Cumayeri ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en önemli turistik noktalarından biridir. Bu bölge, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur. Koru Dede Hazretleri Türbesi, tarihi geçmişi ve doğal güzelliği ile birlikte, ziyaretçilerine unutulmaz bir deneyim sunar.
+Koru Dede Hazretleri Türbesi, Düzce'nin Cumayeri ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. Bu bölge, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Koru Dede Hazretleri Türbesi, yüzyıllar boyunca önemli bir dini merkez olara
 
 ## Coğrafya
 
-Koru Dede Hazretleri Türbesi, Karadeniz Bölgesi'nin Düzce ilinin Cumayeri ilçesinde yer alır. Bu bölge, Karadeniz kıyı şeridinin en güzel noktalarından biridir. 180 hektarlık bir alanı kapsayan bu bölge, yaklaşık 250 futbol sahası büyüklüğünde ve Karadeniz'in doğal güzelliğini sunar. Türbenin bulunduğu alan, yeşilin ve mavinin birleştiği görkemli bir manzaraya sahiptir. Koru Dede Hazretleri Türbesi, Karadeniz Bölgesi'nin iklimine uygun olarak, ılıman ve nemli bir hava sahiptir. Bölge, yıl boyunca ziyaretçilerini ağırlamak için uygun bir iklim sunar. Doğal güzelliği, tarihi önemi ve turizm potansiyeli ile birlikte, Koru Dede Hazretleri Türbesi, ziyaretçilerine unutulmaz bir deneyim sunar.
+Koru Dede Hazretleri Türbesi, Karadeniz Bölgesi'nin Düzce ilinin Cumayeri ilçesinde yer alır. Bu bölge, Karadeniz kıyı şeridinin en güzel noktalarından biridir. Türbenin bulunduğu alan, yeşilin ve mavinin birleştiği görkemli bir manzaraya sahiptir. Koru Dede Hazretleri Türbesi, Karadeniz Bölgesi'nin iklimine uygun olarak, ılıman ve nemli bir hava sahiptir. Bölge, yıl boyunca ziyaretçilerini ağırlamak için uygun bir iklim sunar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Koru Dede Hazretleri Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzell
 
 - Koru Dede Hazretleri Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak kabul edilmiştir.
 - Türbenin bulunduğu bölge, Karadeniz Bölgesi'nin en güzel noktalarından biridir.
-- Bölge, 180 hektarlık bir alanı kapsar ve yaklaşık 250 futbol sahası büyüklüğündedir.
+
 - Koru Dede Hazretleri Türbesi, dini ve kültürel açıdan önemli bir mekan olup, ziyaretçilerine tarihi ve dini açıdan zengin bir deneyim sunar.
 - Bölge, yıl boyunca ziyaretçilerini ağırlamak için uygun bir iklim sunar.

@@ -28,7 +28,7 @@ wikidata_id: "Q31515735"
 
 # Kepel Tepesi
 
-Sivas'ta yer alan Kepel Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliklerini sunan önemli bir noktadır. 140 hektarlık geniş alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Kepel Tepesi, bölgeye gelenlerin doğayı keşfetmek için tercih ettiği bir yerdir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar.
+Sivas'ta yer alan Kepel Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliklerini sunan önemli bir noktadır. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Kepel Tepesi, bölgeye gelenlerin doğayı keşfetmek için tercih ettiği bir yerdir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Kepel Tepesi, Sivas ilinin coğrafi yapısında önemli bir yer tutar. Bu tepe, 
 
 ## Flora ve Fauna
 
-Kepel Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin etrafında, bozkır ve step bölgelerine özgü bitkiler bulunur. Mevsimsel değişimler, bu bitkilerin büyümesinde ve gelişmesinde önemli bir rol oynar. Hayvanlarında, bu tepenin etrafında çeşitli türler bulunur. Bu hayvanlar, bölgenin ekosistemini destekler ve doğal dengenin korunmasına katkıda bulunurlar. Kepel Tepesi, bölgenin flora ve faunasının korunması için önemli bir alan olarak görülür.
+ Tepenin etrafında, bozkır ve step bölgelerine özgü bitkiler bulunur. Mevsimsel değişimler, bu bitkilerin büyümesinde ve gelişmesinde önemli bir rol oynar. Hayvanlarında, bu tepenin etrafında çeşitli türler bulunur. Bu hayvanlar, bölgenin ekosistemini destekler ve doğal dengenin korunmasına katkıda bulunurlar. Kepel Tepesi, bölgenin flora ve faunasının korunması için önemli bir alan olarak görülür.
 
 ## Ziyaret Bilgileri
 

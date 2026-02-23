@@ -1,7 +1,7 @@
 ---
 title: "Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı"
 date: "2026-01-10T03:38:22.028Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"

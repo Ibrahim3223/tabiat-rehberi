@@ -34,9 +34,9 @@ Bolu'nun Seben ilçesinde yer alan Kartalkaya kayak merkezi, kayak severlerin k�
 
 ## Tarihçe
 
-Kartalkaya kayak merkezi, Türkiye'nin kuzeybatısında, Bolu ilinin kalbinde yer alır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hitit, Frig ve Roma uygarlıkları, bu topraklarda yaşamış ve Bolu'nun doğal güzelliklerine tanıklık etmişlerdir. 
+Kartalkaya kayak merkezi, Türkiye'nin kuzeybatısında, Bolu ilinin kalbinde yer alır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hitit, Frig ve Roma uygarlıkları, bu topraklarda yaşamış ve Bolu'nun doğal güzelliklerine tanıklık etmişlerdir.
 
-Osmanlı İmparatorluğu döneminde, Bolu ve çevresi, önemli ticaret yolları üzerinde bulunması nedeniyle stratejik bir konumda olmuştur. Bu bölgede, yaylacılık ve hayvancılık da uzun yıllardan beri önemli bir geçim kaynağı olarak devam etmektedir. İnsanlar, bu doğal alanları sadece ekonomi için değil, aynı zamanda doğanın güzelliği ve zenginliğiçin değerlendirmişlerdir. 
+Osmanlı İmparatorluğu döneminde, Bolu ve çevresi, önemli ticaret yolları üzerinde bulunması nedeniyle stratejik bir konumda olmuştur. Bu bölgede, yaylacılık ve hayvancılık da uzun yıllardan beri önemli bir geçim kaynağı olarak devam etmektedir. İnsanlar, bu doğal alanları sadece ekonomi için değil, aynı zamanda doğanın güzelliği ve zenginliğiçin değerlendirmişlerdir.
 Türkiye'de, özellikle 20. yüzyılın ikinci yarısında, kayak merkezlerinin gelişimi, turizmin canlanmasıyla birlikte hızlanmıştır. Bu gelişmeler, Kartalkaya gibi doğal güzelliklerin keşfedilmesine ve değerinin anlaşılmasına katkıda bulunmuştur.
 
 ## Coğrafya

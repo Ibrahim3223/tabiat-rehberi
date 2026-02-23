@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Çağlayandibi Şelalesi Tabiat Parkı
 
-Gümüşhane'nin doğal güzelliklerinden biri olan Çağlayandibi Şelalesi Tabiat Parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Bu tabiat parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Şelalenin sesi, kuşların cıvıltısı ve ağaçların hışırtısı, ziyaretçilere doğanın güzelliğini sunar. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle kaplıdır ve zengin faunaıyla dikkat çeker. Çağlayandibi Şelalesi, Gümüşhane'nin turizm açısından önemli noktalarından biridir ve doğaseverleri cezbeder.
+ Bu tabiat parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Şelalenin sesi, kuşların cıvıltısı ve ağaçların hışırtısı, ziyaretçilere doğanın güzelliğini sunar. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle kaplıdır ve zengin faunaıyla dikkat çeker. Çağlayandibi Şelalesi, Gümüşhane'nin turizm açısından önemli noktalarından biridir ve doğaseverleri cezbeder.
 
 ## Tarihçe
 
@@ -29,7 +29,7 @@ Gümüşhane'nin doğal güzelliklerinden biri olan Çağlayandibi Şelalesi Tab
 
 ## Coğrafya
 
-Çağlayandibi Şelalesi Tabiat Parkı, Karadeniz Bölgesi'nin Gümüşhane ilinde bulunur. Park, 140 hektarlık alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır. Parkın coğrafyası, çeşitli bitki türleriyle kaplıdır ve zengin faunaıyla dikkat çeker. Şelalenin etrafındaki yeşil alan, ziyaretçilere piknik yapma ve doğayı seyretme imkanı sunar. Parkın iklimi, Karadeniz Bölgesi'nin iklimine benzer ve yaz aylarında sıcaktır, kış aylarında soğuktur. Parkın coğrafyası, ziyaretçilere doğanın güzelliğini sunar ve çeşitli bitki türleri, hayvanlar ve doğa güzellikleri bulunur. Parkın etrafında, tarihi ve kültürel açıdan önemli noktalar bulunur ve ziyaretçiler bu noktaları keşfedebilir. Çağlayandibi Şelalesi, Gümüşhane'nin turizm açısından önemli noktalarından biridir ve doğaseverleri cezbeder.
+Çağlayandibi Şelalesi Tabiat Parkı, Karadeniz Bölgesi'nin Gümüşhane ilinde bulunur. Parkın coğrafyası, çeşitli bitki türleriyle kaplıdır ve zengin faunaıyla dikkat çeker. Şelalenin etrafındaki yeşil alan, ziyaretçilere piknik yapma ve doğayı seyretme imkanı sunar. Parkın iklimi, Karadeniz Bölgesi'nin iklimine benzer ve yaz aylarında sıcaktır, kış aylarında soğuktur. Parkın coğrafyası, ziyaretçilere doğanın güzelliğini sunar ve çeşitli bitki türleri, hayvanlar ve doğa güzellikleri bulunur. Parkın etrafında, tarihi ve kültürel açıdan önemli noktalar bulunur ve ziyaretçiler bu noktaları keşfedebilir. Çağlayandibi Şelalesi, Gümüşhane'nin turizm açısından önemli noktalarından biridir ve doğaseverleri cezbeder.
 
 ## Flora ve Fauna
 

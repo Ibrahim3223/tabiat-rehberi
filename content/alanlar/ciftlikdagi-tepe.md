@@ -28,7 +28,7 @@ wikidata_id: "Q34829111"
 
 # Çiftlikdağı Tepe
 
-İzmir'in doğal güzelliklerini keşfedin. Çiftlikdağı Tepe, Ege Bölgesi'nin önemli tepe noktalarından biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, ziyaretçilerini geniş ve yeşil bir alana davet ediyor. Çiftlikdağı Tepe, gezi severlerin ve doğaşığıların keyiflenebileceği bir nokta. İzmir'in güzelliğini keşfetmek isteyenler için ideal bir rota.
+İzmir'in doğal güzelliklerini keşfedin. Çiftlikdağı Tepe, Ege Bölgesi'nin önemli tepe noktalarından biri. Bu tepe, ziyaretçilerini geniş ve yeşil bir alana davet ediyor. Çiftlikdağı Tepe, gezi severlerin ve doğaşığıların keyiflenebileceği bir nokta. İzmir'in güzelliğini keşfetmek isteyenler için ideal bir rota.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387482"
 
 # Navşor Tepesi
 
-Navşor Tepesi, Van şehrinin güzide noktalarından biri olarak dikkat çeker. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerine doğayla iç içe bir deneyim sunar. Doğu Anadolu Bölgesi'nin coğrafi özellikleri Navşor Tepesi'nde kendini gösterir. Burada yer alan bitki türleri ve hayvan çeşitliliği, bu tepeyi özel kılar. Navşor Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini bekliyor.
+Navşor Tepesi, Van şehrinin güzide noktalarından biri olarak dikkat çeker. Doğu Anadolu Bölgesi'nin coğrafi özellikleri Navşor Tepesi'nde kendini gösterir. Burada yer alan bitki türleri ve hayvan çeşitliliği, bu tepeyi özel kılar. Navşor Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Navşor Tepesi'nin tarihi geçmişi, Doğu Anadolu Bölgesi'nin genel tarihine p
 
 ## Coğrafya
 
-Navşor Tepesi, Van şehrinin coğrafi yapısını yansıtan önemli bir noktadır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, çevresindeki dağlarla birlikte bir bütün oluşturur. Tepenin coğrafi özellikleri, burada yaşayan bitki ve hayvan türlerini doğrudan etkiler. Doğu Anadolu Bölgesi'nin karasal iklimi, Navşor Tepesi'nin flora ve faunasını belirler. Tepenin yüksekliği ve eğimleri, çeşitli bitki türlerinin yetişmesine imkân tanır. Navşor Tepesi, Van'ın coğrafi zenginliklerini ortaya koyan önemli bir noktadır. Tepenin eteklerinde ve zirvesinde, ziyaretçilere eşsiz manzaralar sunan doğal güzellikler bulunur.
+Navşor Tepesi, Van şehrinin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin coğrafi özellikleri, burada yaşayan bitki ve hayvan türlerini doğrudan etkiler. Doğu Anadolu Bölgesi'nin karasal iklimi, Navşor Tepesi'nin flora ve faunasını belirler. Tepenin yüksekliği ve eğimleri, çeşitli bitki türlerinin yetişmesine imkân tanır. Navşor Tepesi, Van'ın coğrafi zenginliklerini ortaya koyan önemli bir noktadır. Tepenin eteklerinde ve zirvesinde, ziyaretçilere eşsiz manzaralar sunan doğal güzellikler bulunur.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Navşor Tepesi'ni ziyaret etmek, doğa severler için eşsiz bir deneyimi sunar.
 ## İlginç Bilgiler
 
 - Navşor Tepesi, Van şehrinin önemli coğrafi noktalarından biridir.
-- Tepenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Navşor Tepesi, Doğu Anadolu Bölgesi'nin karakteristik flora ve faunasına sahiptir.
 - Tepenin zirvesinden Van şehri ve çevresinin panoramik manzarası izlenebilir.
 - Navşor Tepesi, ilkbahar ve sonbahar mevsimlerinde ziyaret edilmeye değerdir.

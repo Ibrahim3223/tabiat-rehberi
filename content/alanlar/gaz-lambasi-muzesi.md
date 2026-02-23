@@ -1,7 +1,7 @@
 ---
 title: "Gaz Lambası Müzesi"
 date: "2026-01-10T15:13:22.962Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q132950323"
 
 # Gaz Lambası Müzesi
 
-Gaz Lambası Müzesi, Ankara'nın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan özel bir mekan. Müzenin bulunduğu bina, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplıyor. Bu alan, Ankara'nın tarihi dokusunu korurken aynı zamanda modern bir sanat ve kültür merkezine de ev sahipliği yapıyor. Gaz Lambası Müzesi, ziyaretçilerini şehrin geçmişine götürürken aynı zamanda günümüzün sanatını da sergiliyor.
+Gaz Lambası Müzesi, Ankara'nın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan özel bir mekan. Bu alan, Ankara'nın tarihi dokusunu korurken aynı zamanda modern bir sanat ve kültür merkezine de ev sahipliği yapıyor. Gaz Lambası Müzesi, ziyaretçilerini şehrin geçmişine götürürken aynı zamanda günümüzün sanatını da sergiliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gaz Lambası Müzesi'nin tarihi, Ankara'nın tarihine paralel olarak gelişmiş.
 
 ## Coğrafya
 
-Gaz Lambası Müzesi, İç Anadolu Bölgesi'nin kalbinde yer alan Ankara'nın merkezinde bulunuyor. Müze, şehrin tarihi ve turistik bölgelerine yakın bir konumda. İç Anadolu Bölgesi, Türkiye'nin coğrafi olarak en geniş bölgesidir ve Ankara, bu bölgenin en önemli kültür ve sanat merkezlerinden biri. Müzenin bulunduğu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin yeşil alanlarından birini oluşturuyor. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferi hem de modern bir sanat expérience sunuyor. Gaz Lambası Müzesi'nin coğrafi konumu, Ankara'nın tarihi ve kültürel zenginliğini yansıtmasının yanı sıra, şehrin sanatsal ve turistik çekiciliğini de arttırmaya katkıda bulunuyor.
+Gaz Lambası Müzesi, İç Anadolu Bölgesi'nin kalbinde yer alan Ankara'nın merkezinde bulunuyor. Müze, şehrin tarihi ve turistik bölgelerine yakın bir konumda. İç Anadolu Bölgesi, Türkiye'nin coğrafi olarak en geniş bölgesidir ve Ankara, bu bölgenin en önemli kültür ve sanat merkezlerinden biri. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferi hem de modern bir sanat deneyim sunuyor. Gaz Lambası Müzesi'nin coğrafi konumu, Ankara'nın tarihi ve kültürel zenginliğini yansıtmasının yanı sıra, şehrin sanatsal ve turistik çekiciliğini de arttırmaya katkıda bulunuyor.
 
 ## Flora ve Fauna
 

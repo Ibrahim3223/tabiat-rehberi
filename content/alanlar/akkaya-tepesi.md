@@ -28,7 +28,7 @@ wikidata_id: "Q31536107"
 
 # Akkaya Tepesi
 
-Akkaya Tepesi, Hatay'ın güzide bir noktası olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle cezbediyor. Tepenin eteklerinde yeşilin verschillileri, tepenin zirvesinde ise manzaranın tadını çıkarma mümkün. Akdeniz Bölgesi'nin bu önemli noktası, hem doğa severler hem de tarihi güzelliklere merakı olanlar için bir hazine niteliğinde.
+Akkaya Tepesi, Hatay'ın güzide bir noktası olarak karşımıza çıkıyor. Tepenin eteklerinde yeşilin verschillileri, tepenin zirvesinde ise manzaranın tadını çıkarma mümkün. Akdeniz Bölgesi'nin bu önemli noktası, hem doğa severler hem de tarihi güzelliklere merakı olanlar için bir hazine niteliğinde.
 
 ## Tarihçe
 

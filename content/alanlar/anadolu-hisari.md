@@ -1,7 +1,7 @@
 ---
 title: "Anadolu Hisarı"
 date: "2026-01-09T22:05:51.908Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q81650"
 
 # Anadolu Hisarı
 
-Anadolu Hisarı, İstanbul'un Beykoz ilçesinde, Boğaziçi'nin en güzel noktalarından biri olarak bilinen bir sahil kasabasıdır. 140 hektarlık bir alanda kurulmuş olan bu kasaba, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. İstanbul'un en eski yerleşim yerlerinden biri olan Anadolu Hisarı, tarihi dokusu ve doğal güzellikleriyle ziyaretçilerini cezbeden bir destinasyon olarak dikkat çekmektedir. Kasabanın sunduğu geniş yeşil alanlar, tarihi yapılar ve deniz manzarası, ziyaretçilere unutulmaz bir gezi deneyimi sunmaktadır.
+Anadolu Hisarı, İstanbul'un Beykoz ilçesinde, Boğaziçi'nin en güzel noktalarından biri olarak bilinen bir sahil kasabasıdır. İstanbul'un en eski yerleşim yerlerinden biri olan Anadolu Hisarı, tarihi dokusu ve doğal güzellikleriyle ziyaretçilerini cezbeden bir destinasyon olarak dikkat çekmektedir. Kasabanın sunduğu geniş yeşil alanlar, tarihi yapılar ve deniz manzarası, ziyaretçilere unutulmaz bir gezi deneyimi sunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Anadolu Hisarı'nın tarihi, 14. yüzyıla kadar uzanmaktadır. Osmanlı İmpara
 
 ## Coğrafya
 
-Anadolu Hisarı, İstanbul'un Beykoz ilçesinde, Boğaziçi'nin kuzey kıyısında bulunmaktadır. Kasaba, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bölge, Marmara Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Anadolu Hisarı'nın coğrafi konumu, ziyaretçilere Boğaziçi'nin muhteşem deniz manzarasını sunarken, aynı zamanda bölgenin doğal güzelliklerini de keşfetme fırsatı sunmaktadır. Kasabanın etrafı, ormanlık alanlarla çevrilidir ve bu ormanlar, çeşitli bitki türleri ve canlılara ev sahipliği yapmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak, yağışlı kışlar ve sıcak yazlar şeklinde karakterizedir. Anadolu Hisarı'nın coğrafi konumu ve iklimi, ziyaretçilere yıl boyunca çeşitli aktiviteler ve deneyimler sunmaktadır.
+Anadolu Hisarı, İstanbul'un Beykoz ilçesinde, Boğaziçi'nin kuzey kıyısında bulunmaktadır. Bölge, Marmara Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Anadolu Hisarı'nın coğrafi konumu, ziyaretçilere Boğaziçi'nin muhteşem deniz manzarasını sunarken, aynı zamanda bölgenin doğal güzelliklerini de keşfetme fırsatı sunmaktadır. Kasabanın etrafı, ormanlık alanlarla çevrilidir ve bu ormanlar, çeşitli bitki türleri ve canlılara ev sahipliği yapmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak, yağışlı kışlar ve sıcak yazlar şeklinde karakterizedir. Anadolu Hisarı'nın coğrafi konumu ve iklimi, ziyaretçilere yıl boyunca çeşitli aktiviteler ve deneyimler sunmaktadır.
 
 ## Flora ve Fauna
 

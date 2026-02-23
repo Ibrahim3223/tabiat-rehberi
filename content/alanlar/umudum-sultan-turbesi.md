@@ -1,7 +1,7 @@
 ---
 title: "Umudum Sultan Türbesi"
 date: "2026-01-10T07:07:25.062Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390805"
 
 # Umudum Sultan Türbesi
 
-Umudum Sultan Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir noktada yer alır. Erzurum'un Yakutiye ilçesinde bulunan bu türbe, ziyaretçilerini tarihin derinliklerine götürerek aynı zamanda bölgenin doğal güzelliği ile baş başa bırakır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilere geniş bir açık alan sunar. Bu türbe, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor.
+Umudum Sultan Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir noktada yer alır. Erzurum'un Yakutiye ilçesinde bulunan bu türbe, ziyaretçilerini tarihin derinliklerine götürerek aynı zamanda bölgenin doğal güzelliği ile baş başa bırakır. Bu türbe, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

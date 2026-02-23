@@ -1,7 +1,7 @@
 ---
 title: "Melike Hatun Türbesi"
 date: "2026-01-10T04:53:38.435Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q123532127"
 
 # Melike Hatun Türbesi
 
-Melike Hatun Türbesi, Ankara'nın merkezinde yer alan tarihi ve kültürel bir zenginlik. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, Ankara'nın tarihi geçmişinin önemli bir parçasını oluşturur. Melike Hatun Türbesi, Ankara'nın turizm açısından önemli noktalarından biri olarak dikkat çeker. Tarihi geçmişinin yanı sıra, doğal güzelliği ile de ziyaretçilerini büyüler. Ankara'nın merkezinde yer alan bu türkü, şehrin kalbinde yer alır.
+Melike Hatun Türbesi, Ankara'nın merkezinde yer alan tarihi ve kültürel bir zenginlik. Bu alan, Ankara'nın tarihi geçmişinin önemli bir parçasını oluşturur. Melike Hatun Türbesi, Ankara'nın turizm açısından önemli noktalarından biri olarak dikkat çeker. Tarihi geçmişinin yanı sıra, doğal güzelliği ile de ziyaretçilerini büyüler. Ankara'nın merkezinde yer alan bu türkü, şehrin kalbinde yer alır.
 
 ## Tarihçe
 

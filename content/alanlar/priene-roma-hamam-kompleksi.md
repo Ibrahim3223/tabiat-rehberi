@@ -1,7 +1,7 @@
 ---
 title: "Priene Roma Hamam Kompleksi"
 date: "2026-01-09T23:51:45.020Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739226"
 
 # Priene Roma Hamam Kompleksi
 
-Priene Roma Hamam Kompleksi, Ege Bölgesi'nin Aydın ilinin Söke ilçesinde yer alan bir tarihi ve turistik destinasyondur. Bu kompleks, yaklaşık 140 hektarlık bir alanı kaplayan antik bir Roma hamam kompleksidir. 140 hektarlık bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu kompleks, antik kent Priene'nin kalbinde yer alır ve tarihi geçmişi ile dikkat çeker. Priene Roma Hamam Kompleksi, ziyaretçilere tarihin izlerini takip etme ve antik uygarlıkların yaşayış tarzlarını keşfetme fırsatı sunar.
+Priene Roma Hamam Kompleksi, Ege Bölgesi'nin Aydın ilinin Söke ilçesinde yer alan bir tarihi ve turistik destinasyondur. Bu kompleks, yaklaşık 140 hektarlık bir alanı kaplayan antik bir Roma hamam kompleksidir. Bu kompleks, antik kent Priene'nin kalbinde yer alır ve tarihi geçmişi ile dikkat çeker. Priene Roma Hamam Kompleksi, ziyaretçilere tarihin izlerini takip etme ve antik uygarlıkların yaşayış tarzlarını keşfetme fırsatı sunar.
 
 ## Tarihçe
 

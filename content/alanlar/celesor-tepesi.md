@@ -28,7 +28,7 @@ wikidata_id: "Q34828870"
 
 # Çelesor Tepesi
 
-Çelesor Tepesi, Van ilinin sınırları içerisinde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine geniş bir manzara sunar. Çelesor Tepesi, özellikle doğal güzelliklerini keşfetmek isteyenler için ideal bir yerdir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur.
+Çelesor Tepesi, Van ilinin sınırları içerisinde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Çelesor Tepesi, özellikle doğal güzelliklerini keşfetmek isteyenler için ideal bir yerdir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 

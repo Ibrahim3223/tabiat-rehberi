@@ -29,7 +29,7 @@ wikidata_id: "Q6978175"
 
 # Patara Plajı
 
-Patara Plajı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Bu geniş yeşil alan, ziyaretçilerin doğayla iç içe olmasını sağlar. Patara Plajı, aynı zamanda geniş kumsallarıyla da ünlüdür. Kumsallar, turistlerin güneşlenme ve denize girmek için ideal bir yer sunar. Patara Plajı, bölgenin en çok ziyaret edilen yerlerinden biridir ve her yıl binlerce turisti ağırlar.
+Patara Plajı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu geniş yeşil alan, ziyaretçilerin doğayla iç içe olmasını sağlar. Patara Plajı, aynı zamanda geniş kumsallarıyla da ünlüdür. Kumsallar, turistlerin güneşlenme ve denize girmek için ideal bir yer sunar. Patara Plajı, bölgenin en çok ziyaret edilen yerlerinden biridir ve her yıl binlerce turisti ağırlar.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Patara Plajı, ziyaretçilere çeşitli aktivitelere katılma imkanı sunar. Pla
 ## İlginç Bilgiler
 
 - Patara Plajı, 140 hektarlık bir alanı kaplar.
-- Plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir.
+
 - Patara Plajı, geniş kumsalları ile ünlüdür.
 - Bölge, tarihi kalıntılar ve antik yapılar içerir.
 - Patara Plajı, bir doğa koruma alanı olarak da önemlidir.

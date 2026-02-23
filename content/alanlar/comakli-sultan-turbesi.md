@@ -1,7 +1,7 @@
 ---
 title: "Çomaklı Sultan Türbesi"
 date: "2026-01-10T07:03:18.834Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kahramanmaraş"
@@ -29,15 +29,15 @@ wikidata_id: "Q131390840"
 
 # Çomaklı Sultan Türbesi
 
-Kahramanmaraş'ın Afşin ilçesinde yer alan Çomaklı Sultan Türbesi, tarihi ve doğal güzelliği ile dikkat çeken bir alandır. Bu bölgede, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Çomaklı Sultan Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak kabul edilmiştir. Tarihi geçmişi ve doğal güzelliği ile, bu bölgeyi ziyaret etmek oldukça ilgi çekici bir deneyimdir. Çomaklı Sultan Türbesi, ziyaretçilerini históri ve doğal bir atmosfere davet ediyor.
+Kahramanmaraş'ın Afşin ilçesinde yer alan Çomaklı Sultan Türbesi, tarihi ve doğal güzelliği ile dikkat çeken bir alandır. Çomaklı Sultan Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak kabul edilmiştir. Tarihi geçmişi ve doğal güzelliği ile, bu bölgeyi ziyaret etmek oldukça ilgi çekici bir deneyimdir. Çomaklı Sultan Türbesi, ziyaretçilerini tarihi ve doğal bir atmosfere davet ediyor.
 
 ## Tarihçe
 
-Çomaklı Sultan Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu bölgede, çeşitli medeniyetler hüküm sürmüş ve her biri bu bölgeye farklı şekillerde katkıda bulunmuştur. Çomaklı Sultan Türbesi, özellikle dini açıdan önemli bir merkez olarak kabul edilmiştir. Yüzyıllar boyunca, bu bölgeye birçok ziyaretçi gelmiştir. Çomaklı Sultan Türbesi, tarihi değerleri ve doğal güzelliği ile, ziyaretçilerini históri ve doğal bir atmosfere davet ediyor. Bu bölgede, ziyaretçiler hem tarihi hem de doğal güzelliği keşfedebilirler. Çomaklı Sultan Türbesi, ziyaretçilerine tarihi ve doğal bir deneyim sunuyor.
+Çomaklı Sultan Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu bölgede, çeşitli medeniyetler hüküm sürmüş ve her biri bu bölgeye farklı şekillerde katkıda bulunmuştur. Çomaklı Sultan Türbesi, özellikle dini açıdan önemli bir merkez olarak kabul edilmiştir. Yüzyıllar boyunca, bu bölgeye birçok ziyaretçi gelmiştir. Çomaklı Sultan Türbesi, tarihi değerleri ve doğal güzelliği ile, ziyaretçilerini tarihi ve doğal bir atmosfere davet ediyor. Bu bölgede, ziyaretçiler hem tarihi hem de doğal güzelliği keşfedebilirler. Çomaklı Sultan Türbesi, ziyaretçilerine tarihi ve doğal bir deneyim sunuyor.
 
 ## Coğrafya
 
-Çomaklı Sultan Türbesi, Kahramanmaraş'ın Afşin ilçesinde yer alıyor. Bu bölgede, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Çomaklı Sultan Türbesi, coğrafi olarak önemli bir konuma sahip. Bu bölgede, ziyaretçiler çeşitli coğrafi oluşumları görebilirler. Çomaklı Sultan Türbesi, çevresindeki dağlar ve ovalarla birlikte, doğal güzelliği ile dikkat çekiyor. Bu bölge, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Çomaklı Sultan Türbesi, coğrafi konumu ve doğal güzelliği ile, ziyaretçilerini históri ve doğal bir atmosfere davet ediyor. Bu bölgede, ziyaretçiler hem coğrafi hem de tarihi güzelliği keşfedebilirler.
+Çomaklı Sultan Türbesi, Kahramanmaraş'ın Afşin ilçesinde yer alıyor. Çomaklı Sultan Türbesi, coğrafi olarak önemli bir konuma sahip. Bu bölgede, ziyaretçiler çeşitli coğrafi oluşumları görebilirler. Çomaklı Sultan Türbesi, çevresindeki dağlar ve ovalarla birlikte, doğal güzelliği ile dikkat çekiyor. Bu bölge, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Çomaklı Sultan Türbesi, coğrafi konumu ve doğal güzelliği ile, ziyaretçilerini tarihi ve doğal bir atmosfere davet ediyor. Bu bölgede, ziyaretçiler hem coğrafi hem de tarihi güzelliği keşfedebilirler.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kahramanmaraş'ın Afşin ilçesinde yer alan Çomaklı Sultan Türbesi, tarihi 
 ## İlginç Bilgiler
 
 - Çomaklı Sultan Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak kabul edilmiştir.
-- Bu bölgede, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor.
+
 - Çomaklı Sultan Türbesi, flora ve fauna açısından zengin bir bölgedir.
 - Bu bölgede, ziyaretçiler çeşitli bitkileri ve hayvanları görebilirler.
 - Çomaklı Sultan Türbesi, coğrafi olarak önemli bir konuma sahip.

@@ -28,7 +28,7 @@ wikidata_id: "Q31389727"
 
 # Deli Tepe
 
-Deli Tepe, Kastamonu'nun gizli bir incisi olarak karşımıza çıkıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerini şehrin panoramik manzarasıyla selamlıyor. Deli Tepe'nin etrafı, yemyeşil ormanlarla çevrili ve buraya çıkanlar, hem şehri hem de doğayı aynı anda keşfedebiliyorlar. Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için Deli Tepe, önemli bir durak noktası olarak dikkat çekiyor.
+Deli Tepe, Kastamonu'nun gizli bir incisi olarak karşımıza çıkıyor. Deli Tepe'nin etrafı, yemyeşil ormanlarla çevrili ve buraya çıkanlar, hem şehri hem de doğayı aynı anda keşfedebiliyorlar. Kastamonu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için Deli Tepe, önemli bir durak noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 

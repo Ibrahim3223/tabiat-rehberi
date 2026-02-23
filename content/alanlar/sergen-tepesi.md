@@ -28,7 +28,7 @@ wikidata_id: "Q31388054"
 
 # Sergen Tepesi
 
-Sergen Tepesi, Muş ilinin güzide bir noktası olarak, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. Yaklaşık 140 hektarlık bir alana yayılan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Sergen Tepesi, doğa severlerin ve coğrafya meraklılarının ilgisini çekiyor. Bu tepe, Muş'un coğrafi güzelliklerinin önemli bir parçasını oluşturuyor. Sergen Tepesi'ne ulaşmak için, Muş'un merkezi noktalarından hareket eden araçlara binme mümkün. Bu sayede, ziyaretçiler Sergen Tepesi'ne rahatça ulaşabiliyorlar.
+Sergen Tepesi, Muş ilinin güzide bir noktası olarak, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. Sergen Tepesi, doğa severlerin ve coğrafya meraklılarının ilgisini çekiyor. Bu tepe, Muş'un coğrafi güzelliklerinin önemli bir parçasını oluşturuyor. Sergen Tepesi'ne ulaşmak için, Muş'un merkezi noktalarından hareket eden araçlara binme mümkün. Bu sayede, ziyaretçiler Sergen Tepesi'ne rahatça ulaşabiliyorlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sergen Tepesi'nin tarihi geçmişi, Muş'un genel tarihî süreciyle paralellik 
 
 ## Coğrafya
 
-Sergen Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve yeşil bir alan olarak dikkat çekiyor. Bu tepe, Muş ilinin coğrafi güzelliklerini yansıtan önemli bir nokta olarak biliniyor. Sergen Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu tepe, visitorlerin manzaralarının keyfini çıkarmalarına olanak tanıyan, yükse ve geniş bir alana sahip. Sergen Tepesi'nin coğrafi konumu, ziyaretçilerin Muş'un diğer turistik noktalarına kolayca ulaşabilmesini sağlıyor. Bu tepe, Muş'un coğrafi güzelliklerini ve turistik değerlerini korumak amacıyla, ilgili kurumlar tarafından korunmaya ve geliştirilmeye devam ediyor.
+Sergen Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve yeşil bir alan olarak dikkat çekiyor. Bu tepe, Muş ilinin coğrafi güzelliklerini yansıtan önemli bir nokta olarak biliniyor. Bu tepe, visitorlerin manzaralarının keyfini çıkarmalarına olanak tanıyan, yükse ve geniş bir alana sahip. Sergen Tepesi'nin coğrafi konumu, ziyaretçilerin Muş'un diğer turistik noktalarına kolayca ulaşabilmesini sağlıyor. Bu tepe, Muş'un coğrafi güzelliklerini ve turistik değerlerini korumak amacıyla, ilgili kurumlar tarafından korunmaya ve geliştirilmeye devam ediyor.
 
 ## Flora ve Fauna
 

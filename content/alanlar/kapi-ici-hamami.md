@@ -1,7 +1,7 @@
 ---
 title: "Kapı İçi Hamamı"
 date: "2026-01-09T23:38:33.397Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739192"
 
 # Kapı İçi Hamamı
 
-Kapı İçi Hamamı, Beyoğlu ilçesinde yer alan ve İstanbul'un tarihi plajlarından biri olarak bilinen bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Kapı İçi Hamamı, Marmara Denizi'nin kıyısında yer alır ve denize girilebilecek bir plaj olarak bilinir. Bu bölge, hem yerel halk hem de turistler için popüler bir destinasyon haline gelmiştir.
+Kapı İçi Hamamı, Beyoğlu ilçesinde yer alan ve İstanbul'un tarihi plajlarından biri olarak bilinen bir alandır. Kapı İçi Hamamı, Marmara Denizi'nin kıyısında yer alır ve denize girilebilecek bir plaj olarak bilinir. Bu bölge, hem yerel halk hem de turistler için popüler bir destinasyon haline gelmiştir.
 
 ## Tarihçe
 

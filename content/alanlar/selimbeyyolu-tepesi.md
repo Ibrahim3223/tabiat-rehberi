@@ -28,7 +28,7 @@ wikidata_id: "Q31390742"
 
 # Selimbeyyolu Tepesi
 
-Selimbeyyolu Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bir tepedir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, Yozgat'ın en önemli doğal güzelliklerinden biridir. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu bölge yaban hayatının korunduğu önemli bir yerdir. Selimbeyyolu Tepesi, özellikle yürüyüş ve gezi içinideal bir noktadır. Tepenin zirvesinden Yozgat'ın panorama manzarasını izleme mümkündür.
+ Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu bölge yaban hayatının korunduğu önemli bir yerdir. Selimbeyyolu Tepesi, özellikle yürüyüş ve gezi içinideal bir noktadır. Tepenin zirvesinden Yozgat'ın panorama manzarasını izleme mümkündür.
 
 ## Tarihçe
 

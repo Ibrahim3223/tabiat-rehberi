@@ -28,7 +28,7 @@ wikidata_id: "Q31390747"
 
 # Bukağılıkaya Tepesi
 
-Bukağılıkaya Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve bölgeye özgü coğrafi özellikleriyle dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bukağılıkaya Tepesi, ziyaretçilerini doğal güzellikleriyle karşılayarak, bölgenin coğrafi çeşitliliğini keşfetme fırsatı sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna encontruyor. Bu özellikleriyle, Bukağılıkaya Tepesi, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon.
+Bukağılıkaya Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve bölgeye özgü coğrafi özellikleriyle dikkat çeken bir tepe. Bukağılıkaya Tepesi, ziyaretçilerini doğal güzellikleriyle karşılayarak, bölgenin coğrafi çeşitliliğini keşfetme fırsatı sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna encontruyor. Bu özellikleriyle, Bukağılıkaya Tepesi, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 

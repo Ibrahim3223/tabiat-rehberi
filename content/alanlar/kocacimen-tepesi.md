@@ -28,7 +28,7 @@ wikidata_id: "Q32197887"
 
 # Kocaçimen Tepesi
 
-Kocaçimen Tepesi, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş bir açıklık sunuyor. Kocaçimen Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Ziyaretçiler, bu tepeye çıktıklarında, İç Anadolu Bölgesi'nin panoramik manzarasını izleme fırsatı buluyorlar.
+Kocaçimen Tepesi, İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu büyüklük, ziyaretçilere geniş bir açıklık sunuyor. Kocaçimen Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Ziyaretçiler, bu tepeye çıktıklarında, İç Anadolu Bölgesi'nin panoramik manzarasını izleme fırsatı buluyorlar.
 
 ## Tarihçe
 

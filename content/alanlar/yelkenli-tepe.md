@@ -28,7 +28,7 @@ wikidata_id: "Q31386910"
 
 # Yelkenli Tepe
 
-Yelkenli Tepe, Erzurum'un kalbinde yer alan ve şehre hakim bir konumda bulunan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerinden biri. Yelkenli Tepe, ziyaretçilerini doğanın güzelliği ve şehrin panoramik manzarasıyla büyülüyor. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim noktası. Yelkenli Tepe'nin eteklerinde, tarihi ve kültürel öneme sahip yapılar ve eserler bulunuyor.
+Yelkenli Tepe, Erzurum'un kalbinde yer alan ve şehre hakim bir konumda bulunan bir tepe. Yelkenli Tepe, ziyaretçilerini doğanın güzelliği ve şehrin panoramik manzarasıyla büyülüyor. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim noktası. Yelkenli Tepe'nin eteklerinde, tarihi ve kültürel öneme sahip yapılar ve eserler bulunuyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Yelkenli Tepe, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, mev
 
 ## Ziyaret Bilgileri
 
-Yelkenli Tepe, ziyaretçilerine doğanın güzelliği ve şehrin panoramik manzarasını sunuyor. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim noktası. Yelkenli Tepe'ye ulaşım, Erzurum'un city merkezinden fácil bir şekilde sağlanabiliyor. Yelkenli Tepe, yılın her mevsiminde ziyaret edilebilir. Ancak, ilkbahar ve yaz ayları, bu tepeyi ziyaret etmek için en uygun zamanlar. Yelkenli Tepe, ziyaretçilerine çeşitli etkinlikler ve aktiviteler sunuyor. Bu tepe, doğa yürüyüşleri, pikni ve fotoğrafçılık için ideal bir yer.
+Yelkenli Tepe, ziyaretçilerine doğanın güzelliği ve şehrin panoramik manzarasını sunuyor. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim noktası. Yelkenli Tepe'ye ulaşım, Erzurum'un city merkezinden kolay bir şekilde sağlanabiliyor. Yelkenli Tepe, yılın her mevsiminde ziyaret edilebilir. Ancak, ilkbahar ve yaz ayları, bu tepeyi ziyaret etmek için en uygun zamanlar. Yelkenli Tepe, ziyaretçilerine çeşitli etkinlikler ve aktiviteler sunuyor. Bu tepe, doğa yürüyüşleri, pikni ve fotoğrafçılık için ideal bir yer.
 
 ## İlginç Bilgiler
 

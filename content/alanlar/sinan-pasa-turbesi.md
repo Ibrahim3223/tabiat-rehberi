@@ -1,7 +1,7 @@
 ---
 title: "Sinan Paşa Türbesi"
 date: "2026-01-10T07:32:33.417Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391258"
 
 # Sinan Paşa Türbesi
 
-Sinan Paşa Türbesi, Karatay, Konya'da bulunan bir tarihi turbe ve plaj olarak dikkat çekmektedir. Bu turbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tarihi geçmişine bakıldığında, bu türbenin yüzyıllar boyunca önemli bir dini ve kültürel merkez olarak hizmet verdiğini görme mümkündür. Sinan Paşa Türbesi, aynı zamanda doğal güzellikleri ile de dikkat çekmekte ve ziyaretçilerine güzel bir plaj deneyimi sunmaktadır.
+Sinan Paşa Türbesi, Karatay, Konya'da bulunan bir tarihi turbe ve plaj olarak dikkat çekmektedir. Tarihi geçmişine bakıldığında, bu türbenin yüzyıllar boyunca önemli bir dini ve kültürel merkez olarak hizmet verdiğini görme mümkündür. Sinan Paşa Türbesi, aynı zamanda doğal güzellikleri ile de dikkat çekmekte ve ziyaretçilerine güzel bir plaj deneyimi sunmaktadır.
 
 ## Tarihçe
 

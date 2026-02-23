@@ -22,7 +22,7 @@ wikidata_id: "Q108228424"
 
 # K.Maraş-Antakya-Kırıkhan-Kızılçam1
 
-K.Maraş-Antakya-Kırıkhan-Kızılçam1 milli parkı, İç Anadolu Bölgesi'nin güzide bir köşesinde yer alır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet eder. Milli parkın sınırları içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösterir. Her mevsim, farklı bir güzelliğe bürünen bu milli park, ziyaretçilerini büyüler.
+K.Maraş-Antakya-Kırıkhan-Kızılçam1 milli parkı, İç Anadolu Bölgesi'nin güzide bir köşesinde yer alır. Milli parkın sınırları içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösterir. Her mevsim, farklı bir güzelliğe bürünen bu milli park, ziyaretçilerini büyüler.
 
 ## Tarihçe
 

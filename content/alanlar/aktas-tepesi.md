@@ -28,7 +28,7 @@ wikidata_id: "Q31388236"
 
 # Aktaş Tepesi
 
-Aktaş Tepesi, Kars ilinin sınırları içerisinde yer alan ve bölgeyi keşfetmek isteyenler için önemli bir nokta olan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kaplayarak, 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Kars'ın coğrafi yapısını ve tarihi geçmişini anlamak için ziyaretçilere önemli bir fırsat sunuyor. Doğa severler ve tarihisevenler için ideal bir destinasyon olan Aktaş Tepesi, ziyaretçilerini bekliyor.
+Aktaş Tepesi, Kars ilinin sınırları içerisinde yer alan ve bölgeyi keşfetmek isteyenler için önemli bir nokta olan bir tepe. Kars'ın coğrafi yapısını ve tarihi geçmişini anlamak için ziyaretçilere önemli bir fırsat sunuyor. Doğa severler ve tarihisevenler için ideal bir destinasyon olan Aktaş Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Aktaş Tepesi, Kars'ın tarihi geçmişiçerisinde önemli bir yer tutuyor. Yüz
 
 ## Coğrafya
 
-Aktaş Tepesi, Kars'ın coğrafi yapısını temsil eden bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Kars'ın coğrafi yapısını anlamak için ziyaretçilere önemli bir fırsat sunuyor. Bu tepe, ziyaretçilere Kars'ın coğrafi zenginliğini gösteren bir panorama sunuyor. Aktaş Tepesi, bölgenin iklimini ve coğrafi yapısını etkileyen önemli bir faktör. Bu tepe, Kars'ın doğal güzelliklerini keşfetmek isteyen ziyaretçiler için ideal bir destinasyon.
+Aktaş Tepesi, Kars'ın coğrafi yapısını temsil eden bir tepe. Kars'ın coğrafi yapısını anlamak için ziyaretçilere önemli bir fırsat sunuyor. Bu tepe, ziyaretçilere Kars'ın coğrafi zenginliğini gösteren bir panorama sunuyor. Aktaş Tepesi, bölgenin iklimini ve coğrafi yapısını etkileyen önemli bir faktör. Bu tepe, Kars'ın doğal güzelliklerini keşfetmek isteyen ziyaretçiler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

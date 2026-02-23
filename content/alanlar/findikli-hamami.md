@@ -1,7 +1,7 @@
 ---
 title: "Fındıklı Hamamı"
 date: "2026-01-09T22:44:27.334Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738543"
 
 # Fındıklı Hamamı
 
-Fındıklı Hamamı, İstanbul'un histórik semtlerinden Beyoğlu'nda bulunan ve şehrin önemli turizm noktalarından biri olan bir plaj ve tarihi hamamdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Fındıklı Hamamı, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbeden bir destinasyondur. Bu bölge, denizin ve şehrin eşsiz manzarasını bir araya getirmesiyle bilinir ve İstanbul'un en çok ziyaret edilen yerlerinden biridir.
+Fındıklı Hamamı, İstanbul'un tarihi semtlerinden Beyoğlu'nda bulunan ve şehrin önemli turizm noktalarından biri olan bir plaj ve tarihi hamamdır. Fındıklı Hamamı, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbeden bir destinasyondur. Bu bölge, denizin ve şehrin eşsiz manzarasını bir araya getirmesiyle bilinir ve İstanbul'un en çok ziyaret edilen yerlerinden biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Fındıklı Hamamı'nın tarihi geçmişi, Osmanlı İmparatorluğu dönemine ka
 
 ## Coğrafya
 
-Fındıklı Hamamı, İstanbul'un Beyoğlu ilçesinde, Marmara Denizi'nin kıyısında yer almaktadır. Bu bölge, şehrin merkezine yakın bir konumda bulunmasıyla dikkat çekicidir ve ulaşımı oldukça kolaydır. Hamam ve plaj, doğal güzellikleri ve tarihi yapılarıyla ziyaretçilerini çekmektedir. İklimi, İstanbul'un genel iklimi gibi karasal ve nemlidir. Çevre, tarihi binalar, restoranlar ve diğer turistik noktalarla dolu olan bir alandır. Fındıklı Hamamı, denizin maviliği ve şehrin canlılığı arasında bir köprü görevi görerek, ziyaretçilerine benzersiz bir deneyim sunar. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir ve böylece geniş bir yeşil alan sunar.
+Fındıklı Hamamı, İstanbul'un Beyoğlu ilçesinde, Marmara Denizi'nin kıyısında yer almaktadır. Bu bölge, şehrin merkezine yakın bir konumda bulunmasıyla dikkat çekicidir ve ulaşımı oldukça kolaydır. Hamam ve plaj, doğal güzellikleri ve tarihi yapılarıyla ziyaretçilerini çekmektedir. İklimi, İstanbul'un genel iklimi gibi karasal ve nemlidir. Çevre, tarihi binalar, restoranlar ve diğer turistik noktalarla dolu olan bir alandır. Fındıklı Hamamı, denizin maviliği ve şehrin canlılığı arasında bir köprü görevi görerek, ziyaretçilerine benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

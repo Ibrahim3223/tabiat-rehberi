@@ -50,9 +50,9 @@ Bölgenin su kaynakları açısından önemli bir role sahip olan Domuz Dağı, 
 
 ## Flora ve Fauna
 
-Domuz Dağı, Şırnak'ta yer alan bir dağ ekosistemi olup, yarı kurak iklimin hüküm sürdüğü bir bölgede bulunmaktadır. Bu dağ, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği sunmaktadır. İlkbahar mevsiminde, dağ yamaçları rengarenk çiçeklerle donanır ve step ekolojisinin karakteristik bitkileri göze çarpar. 
+Domuz Dağı, Şırnak'ta yer alan bir dağ ekosistemi olup, yarı kurak iklimin hüküm sürdüğü bir bölgede bulunmaktadır. Bu dağ, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği sunmaktadır. İlkbahar mevsiminde, dağ yamaçları rengarenk çiçeklerle donanır ve step ekolojisinin karakteristik bitkileri göze çarpar.
 
-Yaban hayatı açısından zengin olan bu bölge, çeşitli memeli ve kuş türlerine ev sahipliği yapmaktadır. Dağ keçileri ve yaban keçileri gibi memeliler, dağların yüksek kesimlerinde yaşamaktadır. Kuşlar açısından ise, göç mevsiminde birçok kuş türü bu bölgeyi ziyaret etmektedir. 
+Yaban hayatı açısından zengin olan bu bölge, çeşitli memeli ve kuş türlerine ev sahipliği yapmaktadır. Dağ keçileri ve yaban keçileri gibi memeliler, dağların yüksek kesimlerinde yaşamaktadır. Kuşlar açısından ise, göç mevsiminde birçok kuş türü bu bölgeyi ziyaret etmektedir.
 
 Domuz Dağı'nın ekolojik değeri, yüksek biodiversitesi ve doğal güzelliğinden kaynaklanmaktadır. Ancak, yarı kurak iklim ve step ekolojisi nedeniyle, bu bölgeye özgü türlerin korunması önemlidir. Bu dağ ekosisteminin korunması, sadece yerel türlerin değil, aynı zamanda ekosistemin bütününün sağlığı için hayati önem taşımaktadır.
 

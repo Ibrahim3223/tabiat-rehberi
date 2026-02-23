@@ -32,7 +32,7 @@ Siirt'in büyüleyici dağ manzaraları arasında yer alan Gulik Tepe, şehrin d
 
 ## Tarihçe
 
-Gulik Tepe, Türkiye'nin doğu ucunda, Siirt ilinin eşsiz doğal güzelliklerine ev sahipliği yapan bir dağdır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutmuş, çeşitli uygarlıkların izlerini taşımaktadır. İnsanlık tarihinin önemli kavşak noktalarından biri olan Siirt, Hitit, Asur, Pers ve Roma gibi uygarlıkların etkisi altında kalmıştır.
+Gulik Tepe, Türkiye'nin doğu ucunda, Siirt ilinin eşsiz doğal güzelliklerine ev sahipliği yapan bir dağdır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutmuş, çeşitli uygarlıkların izlerini taşımaktadır. İnsanlık tarihinin önemli kavşak noktalarından biri olan Siirt, Hitit, Asur, Pers ve Roma gibi uygarlıkların etkisi altında kalmıştır.
 
 Doğu Anadolu Bölgesi, tarih boyunca ticaret yollarının kesişme noktası olarak önemli bir role sahip olmuştur. Gulik Tepe gibi doğal alanlar, bu ticaret yolları boyunca seyahat edenlerin konaklama ve dinlenme noktaları olarak kullanılmıştır. Ayrıca, bölgenin coğrafi yapısı, yaylacılık ve hayvancılık için uygun koşullar sunmaktadır. İnsanların bu doğal alanlarla olan ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal açıdan da önemli bir boyut taşır.
 
@@ -50,11 +50,11 @@ Gulik Tepe'nin çevresel ilişkileri, bölgenin ekosistem bağlantılarını etk
 
 ## Flora ve Fauna
 
-Gulik Tepe, Siirt'in yarı kurak ikliminin hakim olduğu bir bölgede, step ve ova ekolojisinin birleştiği bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gulik Tepe, Siirt'in yarı kurak ikliminin hakim olduğu bir bölgede, step ve ova ekolojisinin birleştiği bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, dağların yükseklik zonlarına özgüdür ve bu bölge, bu flora'nın örneklerini barındırır. 
+Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, dağların yükseklik zonlarına özgüdür ve bu bölge, bu flora'nın örneklerini barındırır.
 
-Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Sonbaharda, göç eden kuşlar bu bölgeden geçer. 
+Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Sonbaharda, göç eden kuşlar bu bölgeden geçer.
 
 Ekolojik Değer olarak, bu dağ ekosistemi, bölgenin ekolojik dengesini korur. Bu nedenle, koruma durumu önemlidir ve bu alanın doğal güzelliğini gelecek nesiller için korumak için çalışmalara ihtiyaç vardır.
 

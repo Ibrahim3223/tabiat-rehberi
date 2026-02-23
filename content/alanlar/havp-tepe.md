@@ -28,7 +28,7 @@ wikidata_id: "Q31386831"
 
 # Havp Tepe
 
-Havp Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafyasını şekillendiren önemli bir nokta. Havp Tepe, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor ve bu bölge, tarih boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmış. Bu tepe, sadece coğrafi konumuyla değil, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Havp Tepe'nin eteklerinde kurulan yerleşim yerleri, bölgenin zengin kültürel mirasını yansıtıyor.
+Havp Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe olarak dikkat çekiyor. Havp Tepe, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor ve bu bölge, tarih boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmış. Bu tepe, sadece coğrafi konumuyla değil, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Havp Tepe'nin eteklerinde kurulan yerleşim yerleri, bölgenin zengin kültürel mirasını yansıtıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Havp Tepe'nin tarihi geçmişi, bölgenin diğer yerleşim yerlerine benzerlik g
 
 ## Coğrafya
 
-Havp Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir nokta. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafyasını etkileyen önemli bir tepe. Havp Tepe, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor ve bu bölge, coğrafi konumu itibariyle dikkat çekiyor. Bu tepe, aynı zamanda bölgenin iklimini de etkileyen önemli bir faktör. Havp Tepe'nin eteklerinde kurulan yerleşim yerleri, bu tepeyle birlikte bir bütün oluşturuyor ve bölgenin coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, coğrafi konumu itibariyle, bölgenin diğer yerleşim yerlerine göre daha yüksek bir konumda bulunuyor. Bu nedenle, Havp Tepe'den bölgenin diğer yerleşim yerlerini görme mümkün. Havp Tepe, aynı zamanda bölgenin flora ve faunasını da etkileyen önemli bir faktör. Bu tepe, çevresindeki diğer tepelerle birlikte, bölgenin ekolojisini şekillendiren önemli bir nokta.
+Havp Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir nokta. Havp Tepe, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor ve bu bölge, coğrafi konumu itibariyle dikkat çekiyor. Bu tepe, aynı zamanda bölgenin iklimini de etkileyen önemli bir faktör. Havp Tepe'nin eteklerinde kurulan yerleşim yerleri, bu tepeyle birlikte bir bütün oluşturuyor ve bölgenin coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, coğrafi konumu itibariyle, bölgenin diğer yerleşim yerlerine göre daha yüksek bir konumda bulunuyor. Bu nedenle, Havp Tepe'den bölgenin diğer yerleşim yerlerini görme mümkün. Havp Tepe, aynı zamanda bölgenin flora ve faunasını da etkileyen önemli bir faktör. Bu tepe, çevresindeki diğer tepelerle birlikte, bölgenin ekolojisini şekillendiren önemli bir nokta.
 
 ## Flora ve Fauna
 

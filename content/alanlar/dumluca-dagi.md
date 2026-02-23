@@ -67,4 +67,4 @@ Dumluca Dağı'na gitmek için Sivas'tan hareket ederek, yaklaşık 1 saatlik bi
 - Sivas ilinin yüzölçümü 28.488 kilometrekare olup, Dumluca Dağı bu geniş coğrafyanın bir parçasıdır.
 - Dumluca Dağı, Sivas'ın merkezinden yaklaşık 30 kilometre uzaklıkta yer almaktadır.
 - Sivas ilinin nüfus yoğunluğuna bakıldığında, Dumluca Dağı çevresindeki yerleşim yerleri genel olarak düşük nüfus yoğunluğuna sahiptir.
-- Dumluca Dağı ve çevresinde históri ve kültürel değerler bulunmakla birlikte, bu konuda spesifik bilgiler sınırlıdır.
+- Dumluca Dağı ve çevresinde tarihi ve kültürel değerler bulunmakla birlikte, bu konuda spesifik bilgiler sınırlıdır.

@@ -1,7 +1,7 @@
 ---
 title: "Kurşunlu Hamamı"
 date: "2026-01-09T22:26:23.528Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738440"
 
 # Kurşunlu Hamamı
 
-Sivas ilinin merkezinde yer alan Kurşunlu Hamamı, şehrin önemli tarihi ve turistik mekanlarından biridir. 140 hektarlık bir alan üzerinde kurulu olan bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Şehir merkezinde bulunması ve tarihi önemi nedeniyle, ziyaretçiler için çekici bir destinasyondur. Kurşunlu Hamamı, Sivas'ın zengin tarihi geçmişi ve kültürel mirasının bir parçasıdır.
+Sivas ilinin merkezinde yer alan Kurşunlu Hamamı, şehrin önemli tarihi ve turistik mekanlarından biridir. Şehir merkezinde bulunması ve tarihi önemi nedeniyle, ziyaretçiler için çekici bir destinasyondur. Kurşunlu Hamamı, Sivas'ın zengin tarihi geçmişi ve kültürel mirasının bir parçasıdır.
 
 ## Tarihçe
 

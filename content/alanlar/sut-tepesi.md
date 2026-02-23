@@ -29,11 +29,11 @@ wikidata_id: "Q34811352"
 
 # Süt Tepesi
 
-Süt Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alana sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal değerlerinden biridir. Süt Tepesi, özellikle doğal güzelliği ve turizm potansiyeli ile dikkat çekmektedir. Bu tepe, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunmaktadır.
+Süt Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alana sahiptir. Süt Tepesi, özellikle doğal güzelliği ve turizm potansiyeli ile dikkat çekmektedir. Bu tepe, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunmaktadır.
 
 ## Tarihçe
 
-Süt Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşam alanı olarak kullanılmıştır. Bu bölgede, tarihi kalıntılar ve eski yerleşim yerleri bulunmakla birlikte, tepe itselfin tarihi hakkında bilgi bulunmamaktadır. Ancak, Süt Tepesi'nin coğrafi konumu ve doğal güzelliği, buranın histórik olarak önemli bir bölge olduğunu göstermektedir. Bu tepe, tarihi ve kültürel değerleri korumak için önemli bir alandır. Süt Tepesi, ziyaretçilerine tarihin sâu izlerini keşfetme fırsatı sunmaktadır.
+Süt Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşam alanı olarak kullanılmıştır. Bu bölgede, tarihi kalıntılar ve eski yerleşim yerleri bulunmakla birlikte, tepe itselfin tarihi hakkında bilgi bulunmamaktadır. Ancak, Süt Tepesi'nin coğrafi konumu ve doğal güzelliği, buranın tarihi olarak önemli bir bölge olduğunu göstermektedir. Bu tepe, tarihi ve kültürel değerleri korumak için önemli bir alandır. Süt Tepesi, ziyaretçilerine tarihin derin izlerini keşfetme fırsatı sunmaktadır.
 
 ## Coğrafya
 

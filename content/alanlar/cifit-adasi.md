@@ -30,7 +30,7 @@ wikidata_id: "Q30640382"
 
 # Çıfıt Adası
 
-İzmir'in Seferihisar ilçesinde yer alan Çıfıt Adası, Ege Denizi'nin sakin sularında gizli bir hazine gibi bekliyor. Bu küçük ada, Seferihisar'ın tarihi ve doğal güzelliklerinin birleştiği noktada ziyaretçilerini ağırlıyor. İzmir'in turistik noktaları arasında yer alan Çıfıt Adası, doğa severler ve denize aşık olanlar için bir çekim merkezi oluşturuyor. Seferihisar'ın eşsiz manzaraları ve tarihi dokusuyla birlikte, Çıfıt Adası ziyaretçilerine unutulmaz bir deneyim sunuyor.
+İzmir'in Seferihisar ilçesinde yer alan Çıfıt Adası, Ege Denizi'nin sakin sularında gizli bir hazine gibi bekliyor. Bu küçük ada, Seferihisar'ın tarihi ve doğal güzelliklerinin birleştiği noktada ziyaretçilerini ağırlıyor. İzmir'in turistik noktaları arasında yer alan Çıfıt Adası, doğa severler ve denize aşık olanlar için bir çekim merkezi oluşturuyor.
 
 ## Tarihçe
 

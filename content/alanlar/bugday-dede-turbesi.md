@@ -1,7 +1,7 @@
 ---
 title: "Buğday Dede Türbesi"
 date: "2026-01-10T07:03:02.032Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390835"
 
 # Buğday Dede Türbesi
 
-Buğday Dede Türbesi, İzmir'in Tire ilçesinde bulunan ve hem tarihi hem de doğal güzellikleri bir araya getiren özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Bu alanda, tarihi türbe ile birlikte çevreyi keşfetme mümkün. Tire'nin merkezine yakın konumu ve ulaşım kolaylığı ile birlikte, Buğday Dede Türbesi hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu alan, aynı zamanda yerel halk için de önemli bir sosyal ve kültürel buluşma noktası olarak hizmet veriyor.
+Buğday Dede Türbesi, İzmir'in Tire ilçesinde bulunan ve hem tarihi hem de doğal güzellikleri bir araya getiren özel bir mekan. Bu alanda, tarihi türbe ile birlikte çevreyi keşfetme mümkün. Tire'nin merkezine yakın konumu ve ulaşım kolaylığı ile birlikte, Buğday Dede Türbesi hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu alan, aynı zamanda yerel halk için de önemli bir sosyal ve kültürel buluşma noktası olarak hizmet veriyor.
 
 ## Tarihçe
 

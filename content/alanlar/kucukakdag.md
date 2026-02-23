@@ -36,7 +36,7 @@ Küçükakdağ, Antalya'nın zengin tarihi ve kültürel mirasına ev sahipliği
 
 Doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bir yer tutar. Bu tür bölgeler, tarihi ticaret yolları, yaylacılık ve hayvancılık faaliyetleri için uzun zamandır önemli merkezler olarak görev görmüştür. İnsanların bu doğal alanlarla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal açıdan da büyük önem taşır.
 
-Küçükakdağ'ın bulunduğu bölge, históriki ticaret yollarının kesişme noktasında yer alır ve bu, bölgenin ekonomisi ve kültürü üzerinde önemli bir etkiye sahip olmuştur. Yaylacılık ve hayvancılık faaliyetleri, bu bölgede yaşayan insanların yaşam tarzı ve geleneksel uğraşlarını şekillendirmiştir. Bu doğal alanların korunması ve sürdürülebilir kullanımı, Türkiye'nin kültürel ve doğal mirasının gelecek nesiller için korunması açısından büyük önem taşır.
+Küçükakdağ'ın bulunduğu bölge, tarihi ticaret yollarının kesişme noktasında yer alır ve bu, bölgenin ekonomisi ve kültürü üzerinde önemli bir etkiye sahip olmuştur. Yaylacılık ve hayvancılık faaliyetleri, bu bölgede yaşayan insanların yaşam tarzı ve geleneksel uğraşlarını şekillendirmiştir. Bu doğal alanların korunması ve sürdürülebilir kullanımı, Türkiye'nin kültürel ve doğal mirasının gelecek nesiller için korunması açısından büyük önem taşır.
 
 ## Coğrafya
 

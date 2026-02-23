@@ -29,7 +29,7 @@ wikidata_id: "Q31388853"
 
 # Manda Tepesi
 
-Manda Tepesi, Kırklareli ilinin sınırları içerisinde bulunan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafi yapısını gözlemlemek için mükemmel bir nokta. Manda Tepesi, yürüyüş parkurları, manzaraları ve zengin bitki örtüsü ile ziyaretçilerini bekliyor. Bu tepe, Marmara Bölgesi'nin coğrafi çeşitliliğini gösteren önemli bir nokta.
+Manda Tepesi, Kırklareli ilinin sınırları içerisinde bulunan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. Manda Tepesi, yürüyüş parkurları, manzaraları ve zengin bitki örtüsü ile ziyaretçilerini bekliyor. Bu tepe, Marmara Bölgesi'nin coğrafi çeşitliliğini gösteren önemli bir nokta.
 
 ## Tarihçe
 

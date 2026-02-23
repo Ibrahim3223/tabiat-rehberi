@@ -23,7 +23,7 @@ wikidata_id: "Q16833970"
 
 # Mount Cragus
 
-Türkiye'nin güneyinde, Antalya ilinin dağlık bölgesinde yer alan Mount Cragus, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu dağ, Antalya'nın merkezine yaklaşık 30 kilometre uzaklıkta bulunur. Mount Cragus, özellikle trekking ve doğa yürüyüşü tutkunları tarafından keşfedilmeyi bekleyen bir bölge olarak dikkat çeker. Antalya'nın zengin tarihi ve kültürel mirasının bir parçası olan bu dağ, ziyaretçilerine unutulmaz bir deneyim sunar.
+Türkiye'nin güneyinde, Antalya ilinin dağlık bölgesinde yer alan Mount Cragus, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu dağ, Antalya'nın merkezine yaklaşık 30 kilometre uzaklıkta bulunur. Mount Cragus, özellikle trekking ve doğa yürüyüşü tutkunları tarafından keşfedilmeyi bekleyen bir bölge olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Mount Cragus, Türkiye'nin güneyinde yer alan Toros Dağları'nın bir parças�
 
 Türkiye'de doğal alanlar, tarihsel olarak önemli ticaret yolları ve yaylaklar olarak kullanılmıştır. Toros Dağları, tarihi İpek Yolu'nun bir bölümünü oluşturmuş ve bölgenin ekonomisine önemli katkılar sağlamıştır. Ayrıca, bölgede yaşayan halk, yüzyıllar boyunca hayvancılık ve yaylacılıkla uğraşmış, dağların doğal kaynaklarını değerlendirmiştir.
 
-Mount Cragus ve çevresindeki dağlar, aynı zamanda kültürel ve dini öneme sahip alanlardır. Bölgede, tarihi kiliseler ve manastırlar bulunmaktadır ve bu yapılarda, bölgeye özgü mimari özellikler görülmektedir. Mount Cragus, Türkiye'nin doğal ve kültürel mirasının önemli bir parçasıdır ve ziyaretçilere, tarihin sâu izlerini keşfetme fırsatı sunar.
+Mount Cragus ve çevresindeki dağlar, aynı zamanda kültürel ve dini öneme sahip alanlardır. Bölgede, tarihi kiliseler ve manastırlar bulunmaktadır ve bu yapılarda, bölgeye özgü mimari özellikler görülmektedir. Mount Cragus, Türkiye'nin doğal ve kültürel mirasının önemli bir parçasıdır ve ziyaretçilere, tarihin derin izlerini keşfetme fırsatı sunar.
 
 ## Coğrafya
 
@@ -62,6 +62,6 @@ Mount Cragus'u ziyaret etmek için sabah erken gitmenizi öneririm, hem kalabal�
 - Mount Cragus, Antalya'nın batısındaki Lycian Dağları'nda yer alır.
 - Dağın yüksekliği yaklaşık 2.571 metredir.
 - Bu dağ, Likya Yöresi'nin önemli coğrafi özelliklerinden biridir.
-- Mount Cragus'un eteklerinde histórik Likya şehirleri bulunmaktadır.
+- Mount Cragus'un eteklerinde tarihi Likya şehirleri bulunmaktadır.
 - Likya Yöresi, 1998 yılında UNESCO Dünya Mirası Listesi'ne alınmıştır.
 - Dağ ve çevresindeki arkeolojik sit alanları, turistler ve araştırmacılar için önemli bir çekim merkezidir.

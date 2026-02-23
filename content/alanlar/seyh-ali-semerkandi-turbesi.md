@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Ali Semerkandi Türbesi"
 date: "2026-01-10T05:59:47.601Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,11 +29,11 @@ wikidata_id: "Q131390488"
 
 # Şeyh Ali Semerkandi Türbesi
 
-Mersin'in Gülnar ilçesinde yer alan Şeyh Ali Semerkandi Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada bulunan plaj, ziyaretçilerini Akdeniz'in sakin ve berrak sularına davet ediyor. Türbenin tarihi geçmişi, ziyaretçilerini geçmişe götürürken, plajın sunduğu olanaklar, tatil için ideal bir ortam sunuyor. Şeyh Ali Semerkandi Türbesi, hem tarih severlerin hem de doğaşığıların ziyaret edecekleri önemli bir nokta.
+Mersin'in Gülnar ilçesinde yer alan Şeyh Ali Semerkandi Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor. Türbenin tarihi geçmişi, ziyaretçilerini geçmişe götürürken, plajın sunduğu olanaklar, tatil için ideal bir ortam sunuyor. Şeyh Ali Semerkandi Türbesi, hem tarih severlerin hem de doğaşığıların ziyaret edecekleri önemli bir nokta.
 
 ## Tarihçe
 
-Şeyh Ali Semerkandi Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak görev yaptı. Tarihi geçmişi, çeşitli uygarlıkların izlerini taşıyor. Türbenin inşa tarihi tam olarak bilinmese de, bölgenin tarihi geçmişi, binlerce yıllık bir geçmişe işaret ediyor. Şeyh Ali Semerkandi, bölgenin önemli dini şahsiyetlerinden biri olarak kabul ediliyor ve türbesi, ziyaretçilerini tarihin sâu sayfalarına götürüyor. Türbenin etrafındaki tarihi kalıntılar, bölgenin zengin tarihi geçmişi hakkında bilgi vermeye devam ediyor.
+Şeyh Ali Semerkandi Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak görev yaptı. Tarihi geçmişi, çeşitli uygarlıkların izlerini taşıyor. Türbenin inşa tarihi tam olarak bilinmese de, bölgenin tarihi geçmişi, binlerce yıllık bir geçmişe işaret ediyor. Şeyh Ali Semerkandi, bölgenin önemli dini şahsiyetlerinden biri olarak kabul ediliyor ve türbesi, ziyaretçilerini tarihin derin sayfalarına götürüyor. Türbenin etrafındaki tarihi kalıntılar, bölgenin zengin tarihi geçmişi hakkında bilgi vermeye devam ediyor.
 
 ## Coğrafya
 

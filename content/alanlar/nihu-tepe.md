@@ -32,7 +32,7 @@ Siirt'in doğal güzelliklerini keşfetmek isteyenler için Nihu Tepe, dikkat ç
 
 ## Tarihçe
 
-Nihu Tepe, Siirt'in dağlık bölgesinde yer alan bir doğal güzellik. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Siirt, binlerce yıl önce çeşitli uygarlıkların yaşadığı bir coğrafyadır. Hititler, Asurlular ve Persler gibi kadim medeniyetler, bu topraklarda izlerini bırakmışlardır.
+Nihu Tepe, Siirt'in dağlık bölgesinde yer alan bir doğal güzellik. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Siirt, binlerce yıl önce çeşitli uygarlıkların yaşadığı bir coğrafyadır. Hititler, Asurlular ve Persler gibi kadim medeniyetler, bu topraklarda izlerini bırakmışlardır.
 
 Doğu Anadolu Bölgesi, tarihsel ticaret yollarının kesişme noktası olduğu için önemli bir konumda yer alır. İpek Yolu ve diğer tarihi ticaret yolları, bu bölgeden geçerek insanları ve kültürleri birbirine bağlamıştır. Siirt'in dağlık alanları, yaylacılık ve hayvancılık için elverişli bir ortama sahiptir. Yayla ve otlaklar, bölgenin ekonomisi ve kültürü için önemli bir rol oynamıştır.
 

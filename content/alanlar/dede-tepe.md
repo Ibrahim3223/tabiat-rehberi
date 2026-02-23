@@ -29,7 +29,7 @@ wikidata_id: "Q31387217"
 
 # Dede Tepe
 
-Dede Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe ve doğal güzellik alanıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini etkileyen bir manzaraya sahiptir. Dede Tepe'nin fiziksel verileri, ziyaretçilerin ilgisini çekmektedir. Rakımı yüksek olan bu tepe, civarındaki diğer tepe ve dağlarla birlikte bir bütün oluşturmaktadır. Dede Tepe'nin hikayesi, bölgenin coğrafi özellikleriyle yakından ilgilidir. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bölgenin kültürel mirasına katkıda bulunmuştur.
+Dede Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe ve doğal güzellik alanıdır. Dede Tepe'nin fiziksel verileri, ziyaretçilerin ilgisini çekmektedir. Rakımı yüksek olan bu tepe, civarındaki diğer tepe ve dağlarla birlikte bir bütün oluşturmaktadır. Dede Tepe'nin hikayesi, bölgenin coğrafi özellikleriyle yakından ilgilidir. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bölgenin kültürel mirasına katkıda bulunmuştur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dede Tepe'nin tarihi geçmişi, bölgenin tarihine paralel olarak şekillenmişt
 
 ## Coğrafya
 
-Dede Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe ve doğal güzellik alanıdır. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir alana sahiptir. Dede Tepe'nin rakımı yükse olup, civarındaki diğer tepe ve dağlarla birlikte bir bütün oluşturmaktadır. Bu tepe, bölgenin coğrafi özellikleriyle yakından ilgilidir. Dede Tepe'nin çevresi, çeşitli bitki türleriyle kaplıdır ve fauna da zengin bir çeşitlilik göstermektedir. Bu tepe, mevsimsel değişimlere göre farklı bir görünüm sergilemektedir. Kışın karla kaplı olan Dede Tepe, ilkbahar ve yaz aylarında yeşilin tüm tonlarına bürünmektedir. Dede Tepe, bölgenin iklimine göre şekillenmiştir ve bu iklim, tepe üzerindeki bitki ve hayvan türlerini etkilemektedir.
+Dede Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe ve doğal güzellik alanıdır. Dede Tepe'nin rakımı yükse olup, civarındaki diğer tepe ve dağlarla birlikte bir bütün oluşturmaktadır. Bu tepe, bölgenin coğrafi özellikleriyle yakından ilgilidir. Dede Tepe'nin çevresi, çeşitli bitki türleriyle kaplıdır ve fauna da zengin bir çeşitlilik göstermektedir. Bu tepe, mevsimsel değişimlere göre farklı bir görünüm sergilemektedir. Kışın karla kaplı olan Dede Tepe, ilkbahar ve yaz aylarında yeşilin tüm tonlarına bürünmektedir. Dede Tepe, bölgenin iklimine göre şekillenmiştir ve bu iklim, tepe üzerindeki bitki ve hayvan türlerini etkilemektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Dede Tepe, ziyaretçilerini etkileyen bir manzaraya sahiptir. Bu tepe, çeşitli
 ## İlginç Bilgiler
 
 - Dede Tepe, 140 hektarlık bir alana sahiptir.
-- Dede Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Dede Tepe, Çanakkale'nin merkezine yakın bir konumda yer almaktadır.
 - Dede Tepe, çeşitli bitki türleriyle kaplı bir alandır.
 - Dede Tepe, fauna da zengin bir çeşitlilik göstermektedir.

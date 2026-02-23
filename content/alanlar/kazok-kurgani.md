@@ -28,7 +28,7 @@ wikidata_id: "Q31386652"
 
 # Kazok Kurganı
 
-Kazok Kurganı, İç Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini barındıran bir alandır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli tarihi mekanlarından biridir. Bu kurgan, Anadolu'nun tarihini anlamak için önemli bir noktadır. Kazok Kurganı, ziyaretçilerini tarihin sâuuklarına götürerek, geçmişin gizemini çözmeye davet ediyor. Bu bölgede, tarihi yapılar, anıtlar ve arkeolojik kazılar, ziyaretçilerin dikkatini çekmekte ve onları tarihin içinde bir yolculuğa çıkarıyor.
+Kazok Kurganı, İç Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini barındıran bir alandır. Bu kurgan, Anadolu'nun tarihini anlamak için önemli bir noktadır. Kazok Kurganı, ziyaretçilerini tarihin sâuuklarına götürerek, geçmişin gizemini çözmeye davet ediyor. Bu bölgede, tarihi yapılar, anıtlar ve arkeolojik kazılar, ziyaretçilerin dikkatini çekmekte ve onları tarihin içinde bir yolculuğa çıkarıyor.
 
 ## Tarihçe
 

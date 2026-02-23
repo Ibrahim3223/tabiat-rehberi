@@ -29,7 +29,7 @@ wikidata_id: "Q31574952"
 
 # Uludağ
 
-Çanakkale'nin histórik topraklarında yükselen Uludağ, Türkiye'nin önemli dağlık bölgelerinden biri. Bu dağ, Çanakkale'nin büyüleyici manzaralarına ev sahipliği yapıyor. Bölgenin coğrafi yapısını şekillendiren Uludağ, aynı zamanda doğal güzelliği ile dikkat çekiyor. Çanakkale'nin eşsiz.viewsini sunan bu dağ, ziyaretçilerini şehrin tarihi ve doğal zenginliklerinin keşfine davet ediyor.
+Çanakkale'nin tarihi topraklarında yükselen Uludağ, Türkiye'nin önemli dağlık bölgelerinden biri. Bu dağ, Çanakkale'nin büyüleyici manzaralarına ev sahipliği yapıyor. Bölgenin coğrafi yapısını şekillendiren Uludağ, aynı zamanda doğal güzelliği ile dikkat çekiyor. Çanakkale'nin eşsiz.viewsini sunan bu dağ, ziyaretçilerini şehrin tarihi ve doğal zenginliklerinin keşfine davet ediyor.
 
 ## Tarihçe
 
@@ -51,11 +51,11 @@ Jeolojik açıdan incelendiğinde, Uludağ'ın oluşumu ve yapısı hakkında de
 
 ## Flora ve Fauna
 
-Uludağ'ın dağ ekosistemi, karma ormanların hakim olduğu bir geçiş iklimine sahiptir. İlkbaharda, 1200 metre yükseklikte çiçekler açmaya başlar ve dağ yamaçları renkli bir hal alır. Sonbaharda ise, göçmen kuşlar bu bölgeden geçer ve dağların tepelerine yerleşir. 
+Uludağ'ın dağ ekosistemi, karma ormanların hakim olduğu bir geçiş iklimine sahiptir. İlkbaharda, 1200 metre yükseklikte çiçekler açmaya başlar ve dağ yamaçları renkli bir hal alır. Sonbaharda ise, göçmen kuşlar bu bölgeden geçer ve dağların tepelerine yerleşir.
 
 Bitki örtüsünü oluşturan hakim türler, genellikle geniş yapraklı ağaçlar ve iğne yapraklı çamlardır. Mevsimsel değişimlere bağlı olarak, bu türlerin yoğunluğu ve çeşitliliği değişir. Dağın yükseklik zonlarına göre, alpin flora da gözlemlenir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerden oluşur. Dağ keçileri, ayılar ve tilkiler gibi memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar, özellikle göçmen türler, bu bölgede önemli bir yer tutar. Sürüngenler ise, genellikle dağların daha alçak kesimlerinde bulunur. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerden oluşur. Dağ keçileri, ayılar ve tilkiler gibi memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar, özellikle göçmen türler, bu bölgede önemli bir yer tutar. Sürüngenler ise, genellikle dağların daha alçak kesimlerinde bulunur.
 
 Uludağ'ın ekolojik değeri, karma ormanların ve göçmen kuş rotasının birleşmesinden kaynaklanır. Bu bölgenin korunması, sadece yerel ekosistemi değil, aynı zamanda daha geniş bir coğrafyadaki canlıları da etkiler.
 

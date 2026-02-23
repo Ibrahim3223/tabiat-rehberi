@@ -55,7 +55,7 @@ Mardaliç Adası, İzmir'in kıyılarında yer alan bir ada olarak, benzersiz bi
 
 İlkbaharın gelmesi ile birlikte ada, renkli çiçeklerle donanıyor. Çam ormanları ve zeytinlikler, mevsimsel değişimlere göre farklı bir görünüm kazanıyor. Kıyı şeridinde ise, tuzlu suya dayanıklı bitkiler, adanın doğal güzelliğini tamamlıyor.
 
-Ada, çeşitli deniz kuşlarına ev sahipliği yapıyor. Bu kuşlar, adanın izole konumundan yararlanarak yuvalarını yapıyorlar. Ayrıca, ada çevresindeki sular, balık türleri için önemli bir yaşam alanı sunuyor. 
+Ada, çeşitli deniz kuşlarına ev sahipliği yapıyor. Bu kuşlar, adanın izole konumundan yararlanarak yuvalarını yapıyorlar. Ayrıca, ada çevresindeki sular, balık türleri için önemli bir yaşam alanı sunuyor.
 
 Mardaliç Adası, ekolojik açıdan önemli bir bölge. İzole popülasyonlar, adanın benzersiz ekosistemini koruyor. Ada, göçmen kuşlar için önemli bir durak noktası. Ancak, adanın korunması için daha fazla çaba gerekiyor.
 

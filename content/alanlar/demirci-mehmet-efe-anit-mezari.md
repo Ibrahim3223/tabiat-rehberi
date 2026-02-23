@@ -1,7 +1,7 @@
 ---
 title: "Demirci Mehmet Efe Anıt Mezarı"
 date: "2026-01-10T03:40:51.364Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728110"
 
 # Demirci Mehmet Efe Anıt Mezarı
 
-Demirci Mehmet Efe Anıt Mezarı, Aydın'ın Nazilli ilçesinde yer alan bir tarihi anıttır. Bu anıt mezar, Demirci Mehmet Efe'nin hayatını ve mücadelesini anlatan bir yapıdır. 140 hektarlık bir alan içinde bulunan anıt mezar, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Demirci Mehmet Efe, Türk tarihinde önemli bir figürdür ve bu anıt mezar, onun anısına edilmiştir. Anıt mezarın etrafı, yeşilliklerle dolu bir park alanıyla çevrilidir ve ziyaretçiler, burada dinlenebilir ve tarihi bir atmosferi deneyimleyebilir.
+Demirci Mehmet Efe Anıt Mezarı, Aydın'ın Nazilli ilçesinde yer alan bir tarihi anıttır. Bu anıt mezar, Demirci Mehmet Efe'nin hayatını ve mücadelesini anlatan bir yapıdır. Demirci Mehmet Efe, Türk tarihinde önemli bir figürdür ve bu anıt mezar, onun anısına edilmiştir. Anıt mezarın etrafı, yeşilliklerle dolu bir park alanıyla çevrilidir ve ziyaretçiler, burada dinlenebilir ve tarihi bir atmosferi deneyimleyebilir.
 
 ## Tarihçe
 

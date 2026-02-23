@@ -28,7 +28,7 @@ wikidata_id: "Q31388017"
 
 # Kayserkale Tepesi
 
-Kayserkale Tepesi, Kütahya'nın merkezinde yer alan ve şehrin önemli bir simgesi olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin tarihi ve doğal güzelliklerini bir araya getiriyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alırken, tepenin zirvesinden Kütahya'nın panoramik manzarasını izleme mümkün. Kayserkale Tepesi, hem doğa severlerin hem de tarih meraklılarının ziyaret etmek isteyeceği bir yer.
+Kayserkale Tepesi, Kütahya'nın merkezinde yer alan ve şehrin önemli bir simgesi olan bir tepe. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alırken, tepenin zirvesinden Kütahya'nın panoramik manzarasını izleme mümkün. Kayserkale Tepesi, hem doğa severlerin hem de tarih meraklılarının ziyaret etmek isteyeceği bir yer.
 
 ## Tarihçe
 

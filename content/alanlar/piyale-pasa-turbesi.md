@@ -1,7 +1,7 @@
 ---
 title: "Piyale Paşa Türbesi"
 date: "2026-01-10T07:30:07.486Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391024"
 
 # Piyale Paşa Türbesi
 
-Piyale Paşa Türbesi, İstanbul'un kalbi olan Beyoğlu'nda yer alan tarihi bir mekan. 16. yüzyılda inşa edilen bu türbe, Piyale Paşa'nın mezarının bulunduğu önemli bir tarihi eser. Türbenin mimarisi, klasik Osmanlı inde inşa edilmiş ve zaman içinde birçok restorasyon görmüş. Piyale Paşa Türbesi, İstanbul'un tarihi dokusunu keşfetmek isteyenler için önemli bir ziyaret noktası. 140 hektarlık bir alanda yer alan bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Ziyaretçiler, türbenin tarihi atmosferini yaşayarak, Osmanlı Dönemi'nin önemli figürlerinden biri olan Piyale Paşa hakkında bilgi edinebiliyor.
+Piyale Paşa Türbesi, İstanbul'un kalbi olan Beyoğlu'nda yer alan tarihi bir mekan. 16. yüzyılda inşa edilen bu türbe, Piyale Paşa'nın mezarının bulunduğu önemli bir tarihi eser. Türbenin mimarisi, klasik Osmanlı inde inşa edilmiş ve zaman içinde birçok restorasyon görmüş. Piyale Paşa Türbesi, İstanbul'un tarihi dokusunu keşfetmek isteyenler için önemli bir ziyaret noktası. Ziyaretçiler, türbenin tarihi atmosferini yaşayarak, Osmanlı Dönemi'nin önemli figürlerinden biri olan Piyale Paşa hakkında bilgi edinebiliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Piyale Paşa Türbesi, 16. yüzyılda inşa edildi. Piyale Paşa, Osmanlı Donan
 
 ## Coğrafya
 
-Piyale Paşa Türbesi, İstanbul'un Beyoğlu ilçesinde yer alıyor. Türbe, şehrin kalbinde, tarihi mekanların yoğunlukta olduğu bir bölgede bulunuyor. Piyale Paşa Türbesi, 140 hektarlık bir alanda yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Türbenin etrafı, tarihi binalar ve önemli mekanlarla çevrili. Ziyaretçiler, türbeyi ziyaret ederken, aynı zamanda çevredeki diğer tarihi mekanları da keşfedebiliyor. Piyale Paşa Türbesi, İstanbul'un coğrafi konumu itibariyle, şehrin önemli mekanlarından biri. Şehrin merkezi konumunda bulunan türbe, ulaşım açısından da kolaylık sağlıyor. Ziyaretçiler, toplu taşıma araçlarını kullanarak kolayca ulaşabiliyor. Piyale Paşa Türbesi, İstanbul'un coğrafi güzelliği ve tarihi önemini bir arada sunan bir mekan.
+Piyale Paşa Türbesi, İstanbul'un Beyoğlu ilçesinde yer alıyor. Türbe, şehrin kalbinde, tarihi mekanların yoğunlukta olduğu bir bölgede bulunuyor. Piyale Paşa Türbesi, 140 hektarlık bir alanda yer alıyor. Türbenin etrafı, tarihi binalar ve önemli mekanlarla çevrili. Ziyaretçiler, türbeyi ziyaret ederken, aynı zamanda çevredeki diğer tarihi mekanları da keşfedebiliyor. Piyale Paşa Türbesi, İstanbul'un coğrafi konumu itibariyle, şehrin önemli mekanlarından biri. Şehrin merkezi konumunda bulunan türbe, ulaşım açısından da kolaylık sağlıyor. Ziyaretçiler, toplu taşıma araçlarını kullanarak kolayca ulaşabiliyor. Piyale Paşa Türbesi, İstanbul'un coğrafi güzelliği ve tarihi önemini bir arada sunan bir mekan.
 
 ## Flora ve Fauna
 

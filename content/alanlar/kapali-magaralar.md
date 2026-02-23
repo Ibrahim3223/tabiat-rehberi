@@ -34,7 +34,7 @@ Doğu Anadolu'nun coğrafi güzellikleriyle dolu illerinden biri olan Muş, tari
 
 Muş'un Kapalı Mağaraları, ülkenin doğu ucunda yer alan bir jeopark olarak, binlerce yıllık tarihin içinde gizli bir hazine gibi duruyor. Bu bölgenin tarihi, Urartular, Romalılar ve Selçuklular gibi çeşitli uygarlıkların izlerini taşıyor. Muş, tarihin her döneminde önemli ticaret yolları üzerinde bulunması nedeniyle, farklı kültürlerin etkilerini taşımış.
 
-Doğal alanlar, Türkiye'de tarih boyunca insanların yaşamsal faaliyetleri için kritik öneme sahip olmuş. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yaşayan insanların temel geçim kaynakları arasında yer alıyor. Kapalı Mağaraları da, bu bölgedeki insanların yaşamlarında önemli bir rol oynamış. Bölge, coğrafi konumu itibarıyla, histórik ticaret yollarının kesişme noktasında yer alıyor. Bu, bölgeyi önemli bir geçiş noktası haline getirmiş.
+Doğal alanlar, Türkiye'de tarih boyunca insanların yaşamsal faaliyetleri için kritik öneme sahip olmuş. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yaşayan insanların temel geçim kaynakları arasında yer alıyor. Kapalı Mağaraları da, bu bölgedeki insanların yaşamlarında önemli bir rol oynamış. Bölge, coğrafi konumu itibarıyla, tarihi ticaret yollarının kesişme noktasında yer alıyor. Bu, bölgeyi önemli bir geçiş noktası haline getirmiş.
 
 Kapalı Mağaraları ve benzeri doğal alanlar, sadece jeolojik oluşumlar olarak değil, aynı zamanda insanlık tarihinin bir parçası olarak da değerlendirilmeli. Bu bölgelerin korunması ve sürdürülebilir kullanımı, hem doğal mirasımızı korumak hem de gelecekteki nesiller için önemli bir sorumluluk.
 

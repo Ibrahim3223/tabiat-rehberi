@@ -1,7 +1,7 @@
 ---
 title: "Zorbehan Dağı"
 date: "2026-01-08T23:58:30.231Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Malatya"
@@ -50,9 +50,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Zorbehan Dağı'nın çev
 
 ## Flora ve Fauna
 
-Zorbehan Dağı, Malatya'nın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Zorbehan Dağı, Malatya'nın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-**Bitki Örtüsü**: İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açar ve renk cümbüşü başlar. Alpin flora, dağların yükseklik zonlarına özgüdür ve bu bölgede endemik türler bulunur. 
+**Bitki Örtüsü**: İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açar ve renk cümbüşü başlar. Alpin flora, dağların yükseklik zonlarına özgüdür ve bu bölgede endemik türler bulunur.
 
 **Yaban Hayatı**: Dağ keçileri, yaban keçileri ve ayılar gibi memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar ise, göç mevsiminde burayı ziyaret eder. Sürüngenler de, kayalık alanlarda yaşamlarını sürdürür.
 

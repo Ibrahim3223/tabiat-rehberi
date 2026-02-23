@@ -32,11 +32,11 @@ Muğla'nın doğa harikaları arasında yer alan Ezeden Dağı, ziyaretçilerini
 
 ## Tarihçe
 
-Muğla bölgesi, Ezeden Dağı gibi doğal güzelliklerle dolu bir coğrafyadır. Bu bölge, tarihin sâu sayfalarında önemli uygarlıkların yaşamış olduğu bir yer olarak karşımıza çıkar. Likya, Karya ve Rodos uygarlıkları, Muğla'nın tarihi dokusunu şekillendiren önemli medeniyetlerdir. 
+Muğla bölgesi, Ezeden Dağı gibi doğal güzelliklerle dolu bir coğrafyadır. Bu bölge, tarihin derin sayfalarında önemli uygarlıkların yaşamış olduğu bir yer olarak karşımıza çıkar. Likya, Karya ve Rodos uygarlıkları, Muğla'nın tarihi dokusunu şekillendiren önemli medeniyetlerdir.
 
-Bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında bulunması, tarihi boyunca çeşitli kültürlerin buluşma noktası olmasını sağlamıştır. Ezeden Dağı gibi doğal alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insanlığın yaşamına dokunan bir geçmişe de sahiptir. 
+Bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında bulunması, tarihi boyunca çeşitli kültürlerin buluşma noktası olmasını sağlamıştır. Ezeden Dağı gibi doğal alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insanlığın yaşamına dokunan bir geçmişe de sahiptir.
 
-Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geleneksel geçim kaynaklarından biri olmuştur. İnsanlar, mevsimlik göçlerle birlikte, hayvanlarını otlatmak için bu dağlara çıkarlardı. Bu gelenek, bölgenin kültürel mirasının önemli bir parçasını oluşturur. Ezeden Dağı, Muğla'nın tarihi ve kültürel zenginliğinin bir parçası olarak, ziyaretçilerini tarihin sâu sayfalarına götürmeye davet ediyor.
+Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geleneksel geçim kaynaklarından biri olmuştur. İnsanlar, mevsimlik göçlerle birlikte, hayvanlarını otlatmak için bu dağlara çıkarlardı. Bu gelenek, bölgenin kültürel mirasının önemli bir parçasını oluşturur. Ezeden Dağı, Muğla'nın tarihi ve kültürel zenginliğinin bir parçası olarak, ziyaretçilerini tarihin derin sayfalarına götürmeye davet ediyor.
 
 ## Coğrafya
 

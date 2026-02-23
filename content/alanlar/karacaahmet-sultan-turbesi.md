@@ -1,7 +1,7 @@
 ---
 title: "Karacaahmet Sultan Türbesi"
 date: "2026-01-10T07:40:36.037Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sakarya"

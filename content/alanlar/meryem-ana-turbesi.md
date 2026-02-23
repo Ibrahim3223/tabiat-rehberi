@@ -1,7 +1,7 @@
 ---
 title: "Meryem Ana Türbesi"
 date: "2026-01-10T04:59:21.601Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391537"
 
 # Meryem Ana Türbesi
 
-Meryem Ana Türbesi, Ege Bölgesi'nin önemli dini merkezlerinden biri olarak Aydın'ın Bozdoğan ilçesinde yer alır. Bu bölge, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplıdır. Meryem Ana Türbesi, özellikle dini açıdan önemli bir merkez olarak kabul edilir ve birçok ziyaretçi tarafından ziyaret edilmektedir. Bölgenin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmıştır.
+Meryem Ana Türbesi, Ege Bölgesi'nin önemli dini merkezlerinden biri olarak Aydın'ın Bozdoğan ilçesinde yer alır. Bu bölge, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çeker. Meryem Ana Türbesi, özellikle dini açıdan önemli bir merkez olarak kabul edilir ve birçok ziyaretçi tarafından ziyaret edilmektedir. Bölgenin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmıştır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Meryem Ana Türbesi, tarihi geçmişiyle dikkat çeker. Yüzyıllar boyunca bir�
 
 ## Coğrafya
 
-Meryem Ana Türbesi, Aydın'ın Bozdoğan ilçesinde yer alır ve Ege Bölgesi'nin önemli coğrafi merkezlerinden biridir. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Çevresi çeşitli bitki türleriyle kaplıdır ve doğal güzellikleri bir arada sunar. İklimi, Ege Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları ılımandır. Bölge, birçok nehir ve akarsuya ev sahipliği yapar ve su kaynakları açısından zengindir. Meryem Ana Türbesi, coğrafi konumu itibariyle önemli bir merkezi konumda yer alır ve birçok bölgeye kolayca ulaşım sağlar.
+Meryem Ana Türbesi, Aydın'ın Bozdoğan ilçesinde yer alır ve Ege Bölgesi'nin önemli coğrafi merkezlerinden biridir. Çevresi çeşitli bitki türleriyle kaplıdır ve doğal güzellikleri bir arada sunar. İklimi, Ege Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları ılımandır. Bölge, birçok nehir ve akarsuya ev sahipliği yapar ve su kaynakları açısından zengindir. Meryem Ana Türbesi, coğrafi konumu itibariyle önemli bir merkezi konumda yer alır ve birçok bölgeye kolayca ulaşım sağlar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Meryem Ana Türbesi, ziyaretçiler için önemli bir dini merkez ve doğal güze
 ## İlginç Bilgiler
 
 - Meryem Ana Türbesi, Ege Bölgesi'nin en önemli dini merkezlerinden biridir.
-- Bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Meryem Ana Türbesi, özellikle Hristiyanlık tarihinde önemli bir yere sahiptir.
 - Bölge, coğrafi konumu itibariyle önemli bir merkezi konumda yer alır.
 - Meryem Ana Türbesi, doğal güzellikleri bir arada sunmasıyla dikkat çeker.

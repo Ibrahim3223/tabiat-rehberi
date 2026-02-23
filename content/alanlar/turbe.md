@@ -1,7 +1,7 @@
 ---
 title: "Türbe"
 date: "2026-01-10T05:04:46.470Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391599"
 
 # Türbe
 
-Türbe plajı, Aydın'ın Koçarlı ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir kumsal sunmaktadır. Türbe plajı, denizin berraklığı ve güneşin sıcaklığıyla birlikte, yaz aylarında özellikle turistlerin ve yerlilerin ziyaret ettiği bir noktadır. Plajın çevresinde çeşitli restoranlar ve kafeler bulunmakta, ziyaretçilere konaklama imkanı sunmaktadır.
+Türbe plajı, Aydın'ın Koçarlı ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. Türbe plajı, denizin berraklığı ve güneşin sıcaklığıyla birlikte, yaz aylarında özellikle turistlerin ve yerlilerin ziyaret ettiği bir noktadır. Plajın çevresinde çeşitli restoranlar ve kafeler bulunmakta, ziyaretçilere konaklama imkanı sunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Türbe plajının tarihi geçmişi, yüzyıllar boyunca insanların bu bölgeyi 
 
 ## Coğrafya
 
-Türbe plajı, Koçarlı ilçesinin güneyinde yer alan bir sahil şerididir. Plaj, Ege Denizi'nin sakin ve berrak sularıyla çevrilidir. 180 hektarlık bir alanda yer alan plaj, yaklaşık 300 futbol sahası büyüklüğündedir. Plajın kumsalı geniş ve kumların rengi altın sarısıdır. Çevresinde çeşitli bitki türleri ve ağaçlar yer almaktadır. İklimi, Ege Bölgesi'nin genel iklimi ile benzerlik göstermektedir, yani yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçmektedir. Plajın coğrafi konumu, ziyaretçilere doğal güzellikler ve huzur dolu bir atmosfer sunmaktadır.
+Türbe plajı, Koçarlı ilçesinin güneyinde yer alan bir sahil şerididir. Plaj, Ege Denizi'nin sakin ve berrak sularıyla çevrilidir. Plajın kumsalı geniş ve kumların rengi altın sarısıdır. Çevresinde çeşitli bitki türleri ve ağaçlar yer almaktadır. İklimi, Ege Bölgesi'nin genel iklimi ile benzerlik göstermektedir, yani yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçmektedir. Plajın coğrafi konumu, ziyaretçilere doğal güzellikler ve huzur dolu bir atmosfer sunmaktadır.
 
 ## Flora ve Fauna
 

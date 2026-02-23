@@ -1,7 +1,7 @@
 ---
 title: "Binbir Oklu Ahmet Baba Türbesi"
 date: "2026-01-10T06:26:51.156Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırklareli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391806"
 
 # Binbir Oklu Ahmet Baba Türbesi
 
-Kırklareli'nin Pınarhisar ilçesinde yer alan Binbir Oklu Ahmet Baba Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Bu özel mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide yer alıyor. Burası, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Binbir Oklu Ahmet Baba Türbesi, yüzyıllar boyunca birçok önemli olaya şahitlik etmiş ve bu bölgenin kültürünün önemli bir parçası haline gelmiştir. Burada, tarihin izlerini taşıyan tarihi yapılar, ziyaretçilere bu bölgenin geçmişini anlatıyor.
+Kırklareli'nin Pınarhisar ilçesinde yer alan Binbir Oklu Ahmet Baba Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Burası, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Binbir Oklu Ahmet Baba Türbesi, yüzyıllar boyunca birçok önemli olaya şahitlik etmiş ve bu bölgenin kültürünün önemli bir parçası haline gelmiştir. Burada, tarihin izlerini taşıyan tarihi yapılar, ziyaretçilere bu bölgenin geçmişini anlatıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Binbir Oklu Ahmet Baba Türbesi, yüzyıllar öncesine dayanan bir geçmişi ola
 
 ## Coğrafya
 
-Binbir Oklu Ahmet Baba Türbesi, Marmara Bölgesi'nin güzelliklerini sunan Kırklareli ilinin Pınarhisar ilçesinde yer alıyor. Bu bölge, zengin bir coğrafyaya sahip ve ziyaretçilerine birçok doğal güzellik sunuyor. Türbenin bulunduğu arazi, 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş arazi, ziyaretçilere geniş bir alan sunuyor ve Burada, tarihi yapılar ile doğal güzelliklerin bir arada bulunması, ziyaretçilere benzersiz bir deneyim sunuyor. Binbir Oklu Ahmet Baba Türbesi, çevresindeki diğer tarihi ve doğal güzelliklerle birlikte, ziyaretçilere bir bütün olarak güzel bir gezi deneyimi sunuyor. Bu bölge, Marmara Bölgesi'nin karakteristik iklimini taşıyor ve ziyaretçilere dört mevsim farklı güzellikler sunuyor.
+Binbir Oklu Ahmet Baba Türbesi, Marmara Bölgesi'nin güzelliklerini sunan Kırklareli ilinin Pınarhisar ilçesinde yer alıyor. Bu bölge, zengin bir coğrafyaya sahip ve ziyaretçilerine birçok doğal güzellik sunuyor. Bu geniş arazi, ziyaretçilere geniş bir alan sunuyor ve Burada, tarihi yapılar ile doğal güzelliklerin bir arada bulunması, ziyaretçilere benzersiz bir deneyim sunuyor. Binbir Oklu Ahmet Baba Türbesi, çevresindeki diğer tarihi ve doğal güzelliklerle birlikte, ziyaretçilere bir bütün olarak güzel bir gezi deneyimi sunuyor. Bu bölge, Marmara Bölgesi'nin karakteristik iklimini taşıyor ve ziyaretçilere dört mevsim farklı güzellikler sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Binbir Oklu Ahmet Baba Türbesi'ni ziyaret etmek, tarihe meraklı olanlar için 
 
 - Binbir Oklu Ahmet Baba Türbesi, yüzyıllar öncesine dayanan bir geçmişi olan önemli bir tarihi mekan.
 - Bu tarihsel mekan, birçok önemli olaya tanıklık etmiş ve bu bölgenin kültürel mirasının önemli bir parçası haline gelmiştir.
-- Türbe, 140 hektarlık bir arazide yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Binbir Oklu Ahmet Baba Türbesi, Marmara Bölgesi'nin güzelliklerini sunan Kırklareli ilinin Pınarhisar ilçesinde yer alıyor.
 - Bu bölge, zengin bir coğrafyaya sahip ve ziyaretçilerine birçok doğal güzellik sunuyor.

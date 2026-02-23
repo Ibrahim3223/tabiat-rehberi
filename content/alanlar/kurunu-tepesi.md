@@ -28,7 +28,7 @@ wikidata_id: "Q32210850"
 
 # Kürünü Tepesi
 
-Erzurum'un tarihi ve coğrafi zenginliklerini keşfetmek için ideal bir yer olan Kürünü Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin doğasıyla karşılar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Erzurum'un görkemli dağ siluetlerinin bir parçasıdır. Bu tepe, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul edilebilir. Ziyaretçiler, burada hem doğanın güzelliğini keşfedebilir hem de bölgenin tarihini ve kültürünü daha yakından tanıma fırsatı bulabilirler.
+Erzurum'un tarihi ve coğrafi zenginliklerini keşfetmek için ideal bir yer olan Kürünü Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin doğasıyla karşılar. Bu tepe, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul edilebilir. Ziyaretçiler, burada hem doğanın güzelliğini keşfedebilir hem de bölgenin tarihini ve kültürünü daha yakından tanıma fırsatı bulabilirler.
 
 ## Tarihçe
 

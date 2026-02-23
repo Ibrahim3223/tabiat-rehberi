@@ -28,7 +28,7 @@ wikidata_id: "Q31386387"
 
 # Helmakaya Tepesi
 
-Helmakaya Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan ve Gaziantep'in önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Helmakaya Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle karşılar. Tepe, çeşitli bitki türleri ve zengin fauna ile çevrili. Helmakaya Tepesi'ne çıkarken, manzaranın güzelliği ve bölgenin tarihi geçmişi hakkında bilgi sahibi olma mümkün.
+Helmakaya Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan ve Gaziantep'in önemli doğal güzelliklerinden biri olan bir tepe. Helmakaya Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle karşılar. Tepe, çeşitli bitki türleri ve zengin fauna ile çevrili. Helmakaya Tepesi'ne çıkarken, manzaranın güzelliği ve bölgenin tarihi geçmişi hakkında bilgi sahibi olma mümkün.
 
 ## Tarihçe
 

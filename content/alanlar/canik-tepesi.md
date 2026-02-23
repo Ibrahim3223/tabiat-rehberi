@@ -28,7 +28,7 @@ wikidata_id: "Q31389175"
 
 # Canik Tepesi
 
-Canik Tepesi, Giresun'un en yüksek noktası olarak Karadeniz Bölgesi'nin eşsiz manzarasına sahip bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepenin konumu, ziyaretçilerine Karadeniz'in güzel manzarasını sunuyor. Canik Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunuyor. Canik Tepesi, Giresun'un önemli turizm merkezlerinden biri olarak kabul ediliyor.
+Canik Tepesi, Giresun'un en yüksek noktası olarak Karadeniz Bölgesi'nin eşsiz manzarasına sahip bir tepe. Bu tepenin konumu, ziyaretçilerine Karadeniz'in güzel manzarasını sunuyor. Canik Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunuyor. Canik Tepesi, Giresun'un önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

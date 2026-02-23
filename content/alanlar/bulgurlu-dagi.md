@@ -50,10 +50,10 @@ Bölgenin su kaynakları açısından zengin olduğu görülüyor. Van Gölü'n�
 
 ## Flora ve Fauna
 
-Bulgurlu Dağı, Van'ın yüksek dağ ekolojisinin güzelliklerini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Bulgurlu Dağı, Van'ın yüksek dağ ekolojisinin güzelliklerini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, yükseklik zonlarına bağlı olarak değişkenlik gösterir. Dağın yüksek kesimlerinde, endemik türler ve alpin çayırlar hakimdir. 
-Yaban hayatı da bir o kadar çeşitlilik gösterir. Dağ keçileri, kurtlar ve ayılar gibi memeliler, dağların yüksek kesimlerinde yaşamlarını sürdürür. Kuşlar ise, sonbaharın gelmesiyle birlikte güneye göç eder. Sürüngenler de, dağların kayalık kesimlerinde yaşamını sürdürür. 
+Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, yükseklik zonlarına bağlı olarak değişkenlik gösterir. Dağın yüksek kesimlerinde, endemik türler ve alpin çayırlar hakimdir.
+Yaban hayatı da bir o kadar çeşitlilik gösterir. Dağ keçileri, kurtlar ve ayılar gibi memeliler, dağların yüksek kesimlerinde yaşamlarını sürdürür. Kuşlar ise, sonbaharın gelmesiyle birlikte güneye göç eder. Sürüngenler de, dağların kayalık kesimlerinde yaşamını sürdürür.
 Bulgurlu Dağı, ekolojik açıdan büyük bir önem taşır. Doğal yaşam alanlarının korunması, bu dağ ekosisteminin devamını sağlar.
 
 ## Ziyaret Bilgileri

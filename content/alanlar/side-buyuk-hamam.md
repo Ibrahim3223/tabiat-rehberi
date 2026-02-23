@@ -1,7 +1,7 @@
 ---
 title: "Side Büyük Hamam"
 date: "2026-01-09T23:13:27.083Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738881"
 
 # Side Büyük Hamam
 
-Side Büyük Hamam, Antalya'nın Manavgat ilçesinde bulunan tarihi bir hamam ve plaj alanıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplıdır. Bu alan, hem tarihi önemi hem de doğal güzelliği ile dikkat çekmektedir. Side Büyük Hamam, tarihi geçmişi ve zengin flora ile ziyaretçilerini bekliyor. Tarihi hamamın yanındaki plaj, denize girerek serinlemenin keyfini çıkarmak isteyenler için ideal bir noktadır. Bu bölgede, güneşin tadını çıkarma ve tarihi atmosferi hissetme mümkündür.
+Side Büyük Hamam, Antalya'nın Manavgat ilçesinde bulunan tarihi bir hamam ve plaj alanıdır. Bu alan, hem tarihi önemi hem de doğal güzelliği ile dikkat çekmektedir. Side Büyük Hamam, tarihi geçmişi ve zengin flora ile ziyaretçilerini bekliyor. Tarihi hamamın yanındaki plaj, denize girerek serinlemenin keyfini çıkarmak isteyenler için ideal bir noktadır. Bu bölgede, güneşin tadını çıkarma ve tarihi atmosferi hissetme mümkündür.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Side Büyük Hamam'ın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. B
 
 ## Coğrafya
 
-Side Büyük Hamam, Akdeniz Bölgesi'nin Manavgat ilçesinde bulunmaktadır. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahiptir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplıdır. Side Büyük Hamam, denize yakın bir konumda bulunmaktadır ve plaj alanı, denize girerek serinlemenin keyfini çıkarmak isteyenler için ideal bir noktadır. Bu bölgede, güneşin tadını çıkarma ve doğal güzelliği hissetme mümkündür. Side Büyük Hamam'ın coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme imkanı sunmaktadır. Bu alan, coğrafi zenginliği ve doğal güzelliği ile dikkat çekmektedir.
+Side Büyük Hamam, Akdeniz Bölgesi'nin Manavgat ilçesinde bulunmaktadır. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahiptir. Side Büyük Hamam, denize yakın bir konumda bulunmaktadır ve plaj alanı, denize girerek serinlemenin keyfini çıkarmak isteyenler için ideal bir noktadır. Bu bölgede, güneşin tadını çıkarma ve doğal güzelliği hissetme mümkündür. Side Büyük Hamam'ın coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme imkanı sunmaktadır. Bu alan, coğrafi zenginliği ve doğal güzelliği ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 

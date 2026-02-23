@@ -1,7 +1,7 @@
 ---
 title: "Hızırbey Hamamı"
 date: "2026-01-09T22:15:05.145Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırklareli"
@@ -30,11 +30,11 @@ wikidata_id: "Q126682080"
 
 # Hızırbey Hamamı
 
-Hızırbey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Kırklareli'nin merkezinde yer alan bu plaj, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş ve ferah bir ortam sunar. Hızırbey Hamamı'nın kumsalı, ince kumdan oluşur ve sığ bir denize sahiptir. Bu nedenle, özellikle aileler ve çocuklu kişiler için ideal bir seçimdir. Plajda, çeşitli olanaklar ve hizmetler bulunur. Bunların arasında, şezlong ve şemsiye kiralama, duş ve tuvalet gibi temel ihtiyaçların karşılanması, yeme ve içme olanakları gibi hizmetler yer alır. Hızırbey Hamamı, hem doğası hem de sunduğu olanaklarla, ziyaretçilerine keyifli ve konforlu bir deneyim sunar.
+Hızırbey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Kırklareli'nin merkezinde yer alan bu plaj, yaklaşık 140 hektarlık bir alanı kaplar. Hızırbey Hamamı'nın kumsalı, ince kumdan oluşur ve sığ bir denize sahiptir. Bu nedenle, özellikle aileler ve çocuklu kişiler için ideal bir seçimdir. Plajda, çeşitli olanaklar ve hizmetler bulunur. Bunların arasında, şezlong ve şemsiye kiralama, duş ve tuvalet gibi temel ihtiyaçların karşılanması, yeme ve içme olanakları gibi hizmetler yer alır. Hızırbey Hamamı, hem doğası hem de sunduğu olanaklarla, ziyaretçilerine keyifli ve konforlu bir deneyim sunar.
 
 ## Tarihçe
 
-Hızırbey Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bu bölgeye kendi kültürünü ve izlerini bırakmıştır. Hızırbey Hamamı, özellikle Osmanlı Dönemi'nde önemli bir merkez olarak bilinirdi. Bu dönemde, hamamın etrafında çeşitli yapılar ve tesisler inşa edilmiştir. Zaman içinde, bu bölge, turizm açısından da önemli bir merkez haline gelmiştir. Günümüzde, Hızırbey Hamamı, hem yerli hem de yabancı turistler tarafından ziyaret edilen bir destinasyon olarak bilinir. Hızırbey Hamamı'nın tarihi ve kültürel önemi, ziyaretçilerine hem eğlenceli hem de bilgilendirici bir deneyim sunar.
+Hızırbey Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bu bölgeye kendi kültürünü ve izlerini bırakmıştır. Hızırbey Hamamı, özellikle Osmanlı Dönemi'nde önemli bir merkez olarak bilinirdi. Bu dönemde, hamamın etrafında çeşitli yapılar ve tesisler inşa edilmiştir. Zaman içinde, bu bölge, turizm açısından da önemli bir merkez haline gelmiştir. Hızırbey Hamamı'nın tarihi ve kültürel önemi, ziyaretçilerine hem eğlenceli hem de bilgilendirici bir deneyim sunar.
 
 ## Coğrafya
 

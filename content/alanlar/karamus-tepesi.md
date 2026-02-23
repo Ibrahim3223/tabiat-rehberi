@@ -28,7 +28,7 @@ wikidata_id: "Q31386774"
 
 # Karamus Tepesi
 
-Karamus Tepesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinde yer alan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplı. Tepenin eteklerinde akan küçük çaylar ve çevredeki yeşillik, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Karamus Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Bu tepe, bölgede yaşayan halkın doğayla uyum içinde yaşadığının bir göstergesi olarak görülüyor.
+Karamus Tepesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinde yer alan bir tepe. Tepenin eteklerinde akan küçük çaylar ve çevredeki yeşillik, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Karamus Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Bu tepe, bölgede yaşayan halkın doğayla uyum içinde yaşadığının bir göstergesi olarak görülüyor.
 
 ## Tarihçe
 

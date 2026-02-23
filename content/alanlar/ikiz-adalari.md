@@ -50,7 +50,7 @@ Doğal olarak, İkiz Adaları'nın çevresel ilişkileri, komşu alanlar ve su k
 
 ## Flora ve Fauna
 
-İkiz Adaları, Muğla'nın güneşli kıyılarında yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İkiz Adaları, zeytinlikler ve çam ormanlarıyla kaplı bir Akdeniz iklimine sahiptir. 
+İkiz Adaları, Muğla'nın güneşli kıyılarında yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İkiz Adaları, zeytinlikler ve çam ormanlarıyla kaplı bir Akdeniz iklimine sahiptir.
 
 Bitki örtüsünde zeytin ağaçları ve çam ağaçları hakimdir. İkiz Adaları, ilkbahar aylarında renkli çiçeklerle donanır. Sonbaharda ise göç eden deniz kuşları adaya renk katar. Ada ekosisteminin izole popülasyonları, deniz kuşları ve kıyı bitkileri ile birlikte eşsiz bir doğa deneyimi sunar.
 

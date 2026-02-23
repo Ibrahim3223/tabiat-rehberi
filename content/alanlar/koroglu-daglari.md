@@ -51,7 +51,7 @@ Mevsimsel olarak incelendiğinde, Köroğlu Dağları'nın iklimi, bölgenin kar
 
 ## Flora ve Fauna
 
-Köroğlu Dağları, nemli iklimin etkisiyle gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharın gelmesiyle, göçmen kuşlar dağları geçit olarak kullanır. 
+Köroğlu Dağları, nemli iklimin etkisiyle gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharın gelmesiyle, göçmen kuşlar dağları geçit olarak kullanır.
 
 Dağların yükseklik zonlarına göre değişen flora, alpin bitki türleriyle süslenir. Bu bölgede, yüksek biyoçeşitlilik dikkat çeker. Dağ keçileri ve ayılar gibi memeliler, ormanların derinliklerinde yaşamlarını sürdürür. Kuşlar, göç yolları üzerinde önemli bir durak olarak kullanır. Sürüngenler, kayalık alanlarda gizlenerek avlanırlar.
 

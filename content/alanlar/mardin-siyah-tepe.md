@@ -50,7 +50,7 @@ Mardin Siyah Tepe, çevresindeki diğer coğrafi oluşumlarla birlikte bir ekosi
 
 ## Flora ve Fauna
 
-Mardin Siyah Tepe, yarı kurak iklimin hüküm sürdüğü bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
+Mardin Siyah Tepe, yarı kurak iklimin hüküm sürdüğü bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
 
 Bitki örtüsünü oluşturan step ve ova ekolojisi, ilkbaharın gelmesiyle birlikte renkli bir hal alıyor; çiçekler açıyor ve dağ yamaçlarını bir halı gibi kaplıyor. Sonbaharda, dağların yükseklik zonlarında alpin flora hüküm sürüyor.
 

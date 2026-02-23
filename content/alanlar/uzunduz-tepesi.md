@@ -28,7 +28,7 @@ wikidata_id: "Q34816684"
 
 # Uzundüz Tepesi
 
-Uzundüz Tepesi, Hatay ilinin güzide bir noktası olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Uzundüz Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet eder. Tepenin etrafında yer alan çeşitli bitki türleri ve zengin fauna, bu bölgeyi özel kılar. Ziyaretçiler, buraya geldiğinde doğanın seslerini dinleyebilir ve güneşin batışını izleyerek huzur dolu anlar yaşayabilir.
+Uzundüz Tepesi, Hatay ilinin güzide bir noktası olarak dikkat çeker. Uzundüz Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet eder. Tepenin etrafında yer alan çeşitli bitki türleri ve zengin fauna, bu bölgeyi özel kılar. Ziyaretçiler, buraya geldiğinde doğanın seslerini dinleyebilir ve güneşin batışını izleyerek huzur dolu anlar yaşayabilir.
 
 ## Tarihçe
 

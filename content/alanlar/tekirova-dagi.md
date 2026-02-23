@@ -51,7 +51,7 @@ Bölgenin ekosistem bağlantıları açısından bakıldığında, Tekirova Dağ
 
 ## Flora ve Fauna
 
-Tekirova Dağı, Antalya'nın kıyı şeridinde yer alan bir dağ ekosistemi olarak, maki bitki örtüsüne ve kuraklığa dayanıklı türlere ev sahipliği yapmaktadır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Tekirova Dağı, Antalya'nın kıyı şeridinde yer alan bir dağ ekosistemi olarak, maki bitki örtüsüne ve kuraklığa dayanıklı türlere ev sahipliği yapmaktadır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları renkli çiçeklerle donanırken, yaz aylarında kuraklığa dayanıklı türler hakimiyet kuruyor. Kıyı ekosisteminin bir parçası olan bu dağ, alpin flora ile zenginleşiyor.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108226402"
 
 # Bolluk Gölü Sit Alanı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Bolluk Gölü Sit Alanı, 140 hektarlık geniş bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası. Bu eşsiz alan, ziyaretçilerini büyüleyici bir göle, zengin bir bitki örtüsüne ve çeşitli yaban hayatına ev sahipliği yapıyor. Gölün suyu, hem yerli hem de yabancı turistlerin ilgisini çekiyor ve burayı bir doğa cenneti haline getiriyor. Bolluk Gölü Sit Alanı, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunuyor ve İç Anadolu Bölgesi'ndeki en önemli turizm merkezlerinden biri olarak kabul ediliyor.
+ Bu eşsiz alan, ziyaretçilerini büyüleyici bir göle, zengin bir bitki örtüsüne ve çeşitli yaban hayatına ev sahipliği yapıyor. Gölün suyu, hem yerli hem de yabancı turistlerin ilgisini çekiyor ve burayı bir doğa cenneti haline getiriyor. Bolluk Gölü Sit Alanı, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunuyor ve İç Anadolu Bölgesi'ndeki en önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolluk Gölü Sit Alanı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor
 
 ## Coğrafya
 
-Bolluk Gölü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir doğa harikası. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede, çeşitli bitki türleri ve yaban hayatı encontruluyor. Gölün suyu, çevredeki dağların eteklerinden gelen su kaynakları ile besleniyor ve bu su, göle zengin bir  kazandırıyor. Bolluk Gölü Sit Alanı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve bu bölge, genellikle karasal bir iklim özelliği gösteriyor. Ancak, gölü çevreleyen dağlar, mikro bir iklim oluşumuna neden oluyor ve bu mikro iklim, göle ve çevreye özel bir yaşam alanı sunuyor. Bolluk Gölü Sit Alanı, coğrafi konumu itibariyle, ziyaretçilerine çeşitli doğa actividadesi sunuyor ve bu nedenle, özellikle doğa severler tarafından tercih ediliyor.
+Bolluk Gölü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir doğa harikası. Gölün suyu, çevredeki dağların eteklerinden gelen su kaynakları ile besleniyor ve bu su, göle zengin bir  kazandırıyor. Bolluk Gölü Sit Alanı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor ve bu bölge, genellikle karasal bir iklim özelliği gösteriyor. Ancak, gölü çevreleyen dağlar, mikro bir iklim oluşumuna neden oluyor ve bu mikro iklim, göle ve çevreye özel bir yaşam alanı sunuyor. Bolluk Gölü Sit Alanı, coğrafi konumu itibariyle, ziyaretçilerine çeşitli doğa actividadesi sunuyor ve bu nedenle, özellikle doğa severler tarafından tercih ediliyor.
 
 ## Flora ve Fauna
 

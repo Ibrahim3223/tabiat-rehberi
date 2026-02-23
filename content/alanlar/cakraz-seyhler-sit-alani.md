@@ -22,7 +22,7 @@ wikidata_id: "Q108226611"
 
 # Çakraz Seyhler Sit Alanı
 
-İç Anadolu Bölgesi'nin eşsiz güzelliklerinden biri olan Çakraz Seyhler Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın tüm güzelliklerini sunuyor. Çakraz Seyhler Sit Alanı, bölgenin zengin fauna ve florasını korumak amacıyla kurulmuş bir doğal sit alanı. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarını koruyor. Bu sit alanının kurulmasının amacı, bölgenin doğal güzelliklerini gelecek nesiller için koruma ve turizmi desteklemek.
+İç Anadolu Bölgesi'nin eşsiz güzelliklerinden biri olan Çakraz Seyhler Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsıyor. Çakraz Seyhler Sit Alanı, bölgenin zengin fauna ve florasını korumak amacıyla kurulmuş bir doğal sit alanı. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarını koruyor. Bu sit alanının kurulmasının amacı, bölgenin doğal güzelliklerini gelecek nesiller için koruma ve turizmi desteklemek.
 
 ## Tarihçe
 

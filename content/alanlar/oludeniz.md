@@ -30,7 +30,7 @@ wikidata_id: "Q1344290"
 
 # Ölüdeniz
 
-Ölüdeniz, Muğla'nın Fethiye ilçesinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip olan ve 140 hektarlık alanı ile dikkat çeken bir plajdır. Bu bölge, Ege Bölgesi'nin en güzide noktalarından biri olarak bilinir. Ölüdeniz'in doğal güzelliği ve temizliği, ziyaretçilerini her yıl yeniden çekmektedir. 140 hektarlık bu yeşil alan, birçok bitki türünü barındıran ve çeşitli hayvanların yuvalandığı bir doğa harikasıdır.
+ Bu bölge, Ege Bölgesi'nin en güzide noktalarından biri olarak bilinir. Ölüdeniz'in doğal güzelliği ve temizliği, ziyaretçilerini her yıl yeniden çekmektedir. 140 hektarlık bu yeşil alan, birçok bitki türünü barındıran ve çeşitli hayvanların yuvalandığı bir doğa harikasıdır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q1344290"
 
 ## Coğrafya
 
-Ölüdeniz, Muğla'nın Fethiye ilçesinde, Ege Bölgesi'nin güneyinde yer alıyor. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip ve 140 hektarlık alanı ile dikkat çekiyor. Ölüdeniz, deniz seviyesinden yüksekliği nedeniyle, Ege Bölgesi'nin en yüksek noktalarından biridir. Bu bölge, birçok bitki türünü barındıran ve çeşitli hayvanların yuvalandığı bir doğa harikasıdır. Ölüdeniz'in etrafı, dağlarla çevrilidir ve bu da bölgenin iklimini etkiler. Bu bölge, genellikle ılıman bir iklimi sahiptir, ancak kış aylarında soğuk olabilir. Ölüdeniz'in deniz suyu, genellikle sakin ve berraktır, bu da bölgenin turizm için ideal olmasını sağlar.
+Ölüdeniz, Muğla'nın Fethiye ilçesinde, Ege Bölgesi'nin güneyinde yer alıyor. Ölüdeniz, deniz seviyesinden yüksekliği nedeniyle, Ege Bölgesi'nin en yüksek noktalarından biridir. Bu bölge, birçok bitki türünü barındıran ve çeşitli hayvanların yuvalandığı bir doğa harikasıdır. Ölüdeniz'in etrafı, dağlarla çevrilidir ve bu da bölgenin iklimini etkiler. Bu bölge, genellikle ılıman bir iklimi sahiptir, ancak kış aylarında soğuk olabilir. Ölüdeniz'in deniz suyu, genellikle sakin ve berraktır, bu da bölgenin turizm için ideal olmasını sağlar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q1344290"
 ## İlginç Bilgiler
 
 - Ölüdeniz, 140 hektarlık bir yeşil alana sahiptir.
-- Ölüdeniz, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Ölüdeniz, Ege Bölgesi'nin en güzide noktalarından biridir.
 - Ölüdeniz, birçok bitki türünü barındıran ve çeşitli hayvanların yuvalandığı bir doğa harikasıdır.
 - Ölüdeniz, tarihinin yanı sıra doğal güzelliği ile de dikkat çekiyor.

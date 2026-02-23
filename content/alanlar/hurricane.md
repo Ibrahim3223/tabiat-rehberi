@@ -23,7 +23,7 @@ wikidata_id: "Q131466274"
 
 # Hurricane
 
-Hurricane plajı, İç Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş sahiliyle ziyaretçilerini cezbediyor. Plajın temiz suyu ve doğal güzellikleri, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Hurricane plajı, hem doğa severler hem de dinlenmek isteyenler için ideal bir destinasyon.
+Hurricane plajı, İç Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak dikkat çekiyor. Plajın temiz suyu ve doğal güzellikleri, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Hurricane plajı, hem doğa severler hem de dinlenmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

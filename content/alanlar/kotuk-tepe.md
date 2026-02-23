@@ -28,7 +28,7 @@ wikidata_id: "Q31386763"
 
 # Kotuk Tepe
 
-Kotuk Tepe, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çekmektedir. Diyarbakır'a bağlı olarak bulunan bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak karşımıza çıkmaktadır. 140 hektarlık bir alanı kaplayan Kotuk Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu büyük alan, ziyaretçilere geniş bir görüş açısı sunmakta ve bölgenin eşsiz manzarasını keşfetme fırsatı sunmaktadır. Kotuk Tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler içermektedir. Tarihi kalıntılar ve araştırmalar, bu tepenin yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yaptığını göstermektedir.
+Kotuk Tepe, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çekmektedir. Diyarbakır'a bağlı olarak bulunan bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak karşımıza çıkmaktadır. Bu büyük alan, ziyaretçilere geniş bir görüş açısı sunmakta ve bölgenin eşsiz manzarasını keşfetme fırsatı sunmaktadır. Kotuk Tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler içermektedir. Tarihi kalıntılar ve araştırmalar, bu tepenin yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yaptığını göstermektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kotuk Tepe'nin tarihi geçmişi, bölgenin zengin kültürel mirasını yansıtm
 
 ## Coğrafya
 
-Kotuk Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir oluşumdur. Bu tepe, bölgenin dağlık ve engebeli arazisini temsil etmektedir. 140 hektarlık bir alanı kaplayan Kotuk Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu büyük alan, ziyaretçilere geniş bir görüş açısı sunmakta ve bölgenin eşsiz manzarasını keşfetme fırsatı sunmaktadır. Kotuk Tepe'nin coğrafi konumu, bölgenin iklimini de etkilemektedir. Bu tepe, bölgenin yüksek noktalarından birini temsil etmekte ve ziyaretçilere geniş bir görüş açısı sunmaktadır. Kotuk Tepe, aynı zamanda bölgenin flora ve faunası hakkında da önemli bilgiler içermektedir. Ziyaretçiler, bu tepeyi keşfederek bölgenin doğal güzelliklerini ve canlı çeşitliliğini keşfetme fırsatı bulmaktadırlar.
+Kotuk Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir oluşumdur. Bu tepe, bölgenin dağlık ve engebeli arazisini temsil etmektedir. Bu büyük alan, ziyaretçilere geniş bir görüş açısı sunmakta ve bölgenin eşsiz manzarasını keşfetme fırsatı sunmaktadır. Kotuk Tepe'nin coğrafi konumu, bölgenin iklimini de etkilemektedir. Bu tepe, bölgenin yüksek noktalarından birini temsil etmekte ve ziyaretçilere geniş bir görüş açısı sunmaktadır. Kotuk Tepe, aynı zamanda bölgenin flora ve faunası hakkında da önemli bilgiler içermektedir. Ziyaretçiler, bu tepeyi keşfederek bölgenin doğal güzelliklerini ve canlı çeşitliliğini keşfetme fırsatı bulmaktadırlar.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Kotuk Tepe, ziyaretçiler için önemli bir destinasyon olarak karşımıza çı
 
 - Kotuk Tepe, Diyarbakır'ın önemli coğrafi oluşumlarından biridir.
 - Bu tepe, 140 hektarlık bir alanı kaplamaktadır.
-- Kotuk Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Bu tepe, bölgenin tarihi geçmişi hakkında önemli bilgiler içermektedir.
 - Kotuk Tepe, bölgenin flora ve faunası hakkında önemli bilgiler içermektedir.

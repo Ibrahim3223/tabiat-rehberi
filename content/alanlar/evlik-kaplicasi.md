@@ -28,7 +28,7 @@ wikidata_id: "Q49741908"
 
 # Evlik Kaplıcası
 
-Evlik Kaplıcası, Karadeniz Bölgesi'nin Çorum ilinde bulunan ve termal kaynaklarıyla ünlü bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğanın güzelliği ile iç içe geçmiş bir ortam sunar. Bu kaplıca, sağlık turizmi açısından önemli bir merkez olarak bilinir ve ziyaretçilerine doğayla iç içe bir deneyim sunar. Çorum'un zengin kültürel mirasıyla da uyum içinde olan Evlik Kaplıcası, hem sağlık hem de kültür turizmi için ideal bir noktadır.
+Evlik Kaplıcası, Karadeniz Bölgesi'nin Çorum ilinde bulunan ve termal kaynaklarıyla ünlü bir destinasyondur. Bu kaplıca, sağlık turizmi açısından önemli bir merkez olarak bilinir ve ziyaretçilerine doğayla iç içe bir deneyim sunar. Çorum'un zengin kültürel mirasıyla da uyum içinde olan Evlik Kaplıcası, hem sağlık hem de kültür turizmi için ideal bir noktadır.
 
 ## Tarihçe
 

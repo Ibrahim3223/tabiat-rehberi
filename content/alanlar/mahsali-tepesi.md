@@ -28,7 +28,7 @@ wikidata_id: "Q31544489"
 
 # Mahsali Tepesi
 
-Mahsali Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu tepe, Batman şehrine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile dikkat çekicidir. Mahsali Tepesi, bölgeye özgü bitki türleri ve hayvan çeşitliliği ile dikkat çekmektedir. Bu tepenin etrafında, çeşitli bitki türleri ve yaban hayatı bulunur. Mahsali Tepesi, doğa severler için önemli bir destinasyon olarak kabul edilir.
+Mahsali Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu tepe, Batman şehrine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Mahsali Tepesi, bölgeye özgü bitki türleri ve hayvan çeşitliliği ile dikkat çekmektedir. Bu tepenin etrafında, çeşitli bitki türleri ve yaban hayatı bulunur. Mahsali Tepesi, doğa severler için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 

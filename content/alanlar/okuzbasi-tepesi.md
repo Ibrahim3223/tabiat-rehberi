@@ -28,7 +28,7 @@ wikidata_id: "Q34829698"
 
 # Öküzbaşı Tepesi
 
-Öküzbaşı Tepesi, Kars'ın muhteşem doğal güzelliklerinden biridir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğanın içine davet eder. Kars'ın tarihi ve coğrafi açıdan önemli bir bölgesinde yer alan Öküzbaşı Tepesi, ziyaretçilerine unutulmaz bir deneyim sunar. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın bir parçası olma fırsatı verir.
+Öküzbaşı Tepesi, Kars'ın muhteşem doğal güzelliklerinden biridir. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın bir parçası olma fırsatı verir.
 
 ## Tarihçe
 

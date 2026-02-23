@@ -32,7 +32,7 @@ Konya'nın geniş ve verimli ovalarının arasında yükselen Asarlu Dağı, yö
 
 ## Tarihçe
 
-Konya bölgesinin zengin tarihi, Asarlu Dağı'nın eteklerine kadar uzanır. Bu bölge, tarihin çeşitli dönemlerinde Hitit, Frig, Lidya, Pers ve Roma uygarlıklarının etkisi altında kalmıştır. Özellikle Selçuklu ve Osmanlı dönemlerinde, Konya önemli bir ticaret ve kültür merkezi olarak bilinirdi. 
+Konya bölgesinin zengin tarihi, Asarlu Dağı'nın eteklerine kadar uzanır. Bu bölge, tarihin çeşitli dönemlerinde Hitit, Frig, Lidya, Pers ve Roma uygarlıklarının etkisi altında kalmıştır. Özellikle Selçuklu ve Osmanlı dönemlerinde, Konya önemli bir ticaret ve kültür merkezi olarak bilinirdi.
 
 Doğal güzellikleri ve stratejik konumuyla, Asarlu Dağı ve çevresi, tarih boyunca insanların dikkatini çekmiştir. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geleneksel faaliyetleri arasında yer almıştır. Ayrıca, tarihi İpek Yolu'nun bir bölümü de Konya üzerinden geçmektedir. Bu ticaret yolu, Asarlu Dağı'nın yakınından geçen önemli bir güzergahtı.
 
@@ -54,7 +54,7 @@ Asarlu Dağı, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipl
 
 Yaban hayatı da bu dağda oldukça zengin bir çeşitlilik gösterir. Memeliler, özellikle dağ keçileri ve yaban domuzları, bu bölgenin kaya dik yamaçlarında ve ormanlık alanlarında yaşamlarını sürdürürler. Kuşlar, özellikle göç mevsimlerinde, bu dağları önemli bir uğrak noktası olarak kullanır. Sürüngenler de, kuraklığa adapte olmuş türler olarak, bu bölgenin step ve bozkır ekosistemine uyum sağlamışlardır.
 
-Asarlu Dağı, bölgenin ekolojik dengesini korumak açısından önemli bir rol oynar. Bu dağ, su kaynaklarının korunması ve toprak erozyonunun önlenmesi açısından kritik bir konumdadır. Bu nedenle, bu bölgenin korunması ve doğal zenginliklerinin sürdürülebilir kullanımı, gelecek nesiller için büyük önem taşır.
+ Bu dağ, su kaynaklarının korunması ve toprak erozyonunun önlenmesi açısından kritik bir konumdadır. Bu nedenle, bu bölgenin korunması ve doğal zenginliklerinin sürdürülebilir kullanımı, gelecek nesiller için büyük önem taşır.
 
 ## Ziyaret Bilgileri
 

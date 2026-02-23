@@ -22,11 +22,11 @@ wikidata_id: "Q108226054"
 
 # Ömer Gecek Kaplıcası Sit Alanı
 
-Ömer Gecek Kaplıcası Sit Alanı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu sit alanı, ziyaretçilerini doğayla baş başa bırakmak için ideal bir destinasyondur. Kaplıcanın tarihi geçmişi ve doğal güzelliği, ziyaretçilerin ilgisini çekmektedir. Bu alan, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak hizmet vermektedir. Ziyaretçilerin keyifli bir gün geçirmeleri için gerekli tüm olanaklar düşünülmüştür.
+Ömer Gecek Kaplıcası Sit Alanı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Kaplıcanın tarihi geçmişi ve doğal güzelliği, ziyaretçilerin ilgisini çekmektedir. Bu alan, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak hizmet vermektedir. Ziyaretçilerin keyifli bir gün geçirmeleri için gerekli tüm olanaklar düşünülmüştür.
 
 ## Tarihçe
 
-Ömer Gecek Kaplıcası Sit Alanı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu kaplıcanın, bölgede yaşayan eski medeniyetler tarafından kullanıldığı bilinmektedir. Tarihi belgelerde, bu kaplıcanın şifalı özellikleri nedeniyle tercih edildiği kayıtları mevcuttur. Zaman içinde, çeşitli restorasyonlar ve yenileme çalışmaları yapılmış, ancak kaplıcanın orijinalliği korunmuştur. Günümüzde, hem yerli hem de yabancı turistler tarafından ziyaret edilmektedir. Kaplıcanın tarihi değeri, bölgeye gelen ziyaretçilerin ilgisini çekmektedir. Ziyaretçiler, hem kaplıcanın şifalı sularından yararlanabilmekte hem de tarihi geçmişi hakkında bilgi sahibi olabilmektedir.
+Ömer Gecek Kaplıcası Sit Alanı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu kaplıcanın, bölgede yaşayan eski medeniyetler tarafından kullanıldığı bilinmektedir. Tarihi belgelerde, bu kaplıcanın şifalı özellikleri nedeniyle tercih edildiği kayıtları mevcuttur. Zaman içinde, çeşitli restorasyonlar ve yenileme çalışmaları yapılmış, ancak kaplıcanın orijinalliği korunmuştur. Kaplıcanın tarihi değeri, bölgeye gelen ziyaretçilerin ilgisini çekmektedir. Ziyaretçiler, hem kaplıcanın şifalı sularından yararlanabilmekte hem de tarihi geçmişi hakkında bilgi sahibi olabilmektedir.
 
 ## Coğrafya
 

@@ -1,7 +1,7 @@
 ---
 title: "Hamza Bey’in Eşi ve Kızları Türbesi"
 date: "2026-01-10T05:16:50.986Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391703"
 
 # Hamza Bey’in Eşi ve Kızları Türbesi
 
-Hamza Bey’in Eşi ve Kızları Türbesi, Marmara Bölgesi'nin önemli noktalarından biri olan Bursa'nın Osmangazi ilçesinde yer almaktadır. Bu tarihi mekan, 140 hektarlık bir alanı kaplamaktadır ki, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu türbenin hikayesi, tarihin sayfalarında gizlidir ve ziyaretçilerini geçmişe götürmektedir. Hamza Bey’in Eşi ve Kızları Türbesi'nin etrafı, yeşilin farklı tonlarıyla bezelidir ve ziyaretçilerine huzurlu bir atmosfer sunmaktadır. Bu mekan, tarihin ve doğanın birleştiği özel bir noktadır.
+Hamza Bey’in Eşi ve Kızları Türbesi, Marmara Bölgesi'nin önemli noktalarından biri olan Bursa'nın Osmangazi ilçesinde yer almaktadır. Bu türbenin hikayesi, tarihin sayfalarında gizlidir ve ziyaretçilerini geçmişe götürmektedir. Hamza Bey’in Eşi ve Kızları Türbesi'nin etrafı, yeşilin farklı tonlarıyla bezelidir ve ziyaretçilerine huzurlu bir atmosfer sunmaktadır. Bu mekan, tarihin ve doğanın birleştiği özel bir noktadır.
 
 ## Tarihçe
 

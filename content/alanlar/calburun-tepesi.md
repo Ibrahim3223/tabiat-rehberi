@@ -28,7 +28,7 @@ wikidata_id: "Q34828000"
 
 # Çalburun Tepesi
 
-Çalburun Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepe, doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olarak görünüyor. Çalburun Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanın doğal güzelliğini artırıyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor.
+Çalburun Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olarak görünüyor. Çalburun Tepesi'nin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanın doğal güzelliğini artırıyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor.
 
 ## Tarihçe
 

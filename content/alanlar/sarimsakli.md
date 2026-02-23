@@ -23,7 +23,7 @@ wikidata_id: "Q108228352"
 
 # Sarımsakli
 
-Sarımsakli, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa cennetidir. 140 hektarlık geniş yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak karşımıza çıkıyor. Bu geniş alan, ziyaretçilere doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunuyor. Sarımsakli, doğa severlerin ve macera arayışındaki kişilerin vazgeçilmez bir durağı haline geliyor. Burada, doğanın tüm güzelliği ve çeşitliliği, ziyaretçilerin gözleri önüne seriliyor. Sarımsakli, doğa ve macera tutkunları için gerçek bir cennet olarak karşımıza çıkıyor.
+Sarımsakli, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa cennetidir. Bu geniş alan, ziyaretçilere doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunuyor. Sarımsakli, doğa severlerin ve macera arayışındaki kişilerin vazgeçilmez bir durağı haline geliyor. Burada, doğanın tüm güzelliği ve çeşitliliği, ziyaretçilerin gözleri önüne seriliyor. Sarımsakli, doğa ve macera tutkunları için gerçek bir cennet olarak karşımıza çıkıyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Sarımsakli'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölg
 
 ## Coğrafya
 
-Sarımsakli, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak karşımıza çıkıyor. Bu geniş alan, ziyaretçilere doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunuyor. Sarımsakli, doğa severlerin ve macera arayışındaki kişilerin vazgeçilmez bir durağı haline geliyor. Burada, doğanın tüm güzelliği ve çeşitliliği, ziyaretçilerin gözleri önüne seriliyor. Sarımsakli, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, ziyaretçilere farklı coğrafi oluşumları keşfetme fırsatı sunuyor. Sarımsakli, coğrafi zenginliği ve çeşitliliği ile ziyaretçilerin ilgisini çekiyor.
+Sarımsakli, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu geniş alan, ziyaretçilere doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunuyor. Sarımsakli, doğa severlerin ve macera arayışındaki kişilerin vazgeçilmez bir durağı haline geliyor. Burada, doğanın tüm güzelliği ve çeşitliliği, ziyaretçilerin gözleri önüne seriliyor. Sarımsakli, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, ziyaretçilere farklı coğrafi oluşumları keşfetme fırsatı sunuyor. Sarımsakli, coğrafi zenginliği ve çeşitliliği ile ziyaretçilerin ilgisini çekiyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Sarımsakli'yi ziyaret etmek, doğa severlerin ve macera arayışındaki kişile
 
 ## İlginç Bilgiler
 
-- Sarımsakli, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
 - Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır.
 - Sarımsakli, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor.
 - Bu bölge, zengin bir flora ve fauna çeşitliliğine sahip bir bölgedir.

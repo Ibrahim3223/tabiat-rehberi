@@ -48,9 +48,9 @@ Mevsimsel değişimler açısından, Uğur Dağı, Karadeniz Bölgesi'nin karakt
 
 ## Flora ve Fauna
 
-Uğur Dağı, nemli iklimin hâkim olduğu bir bölge olarak, gür ormanları ve yüksek biyoçeşitliliğiyle dikkat çekiyor. Dağın eteklerinde, ilkbaharın gelmesiyle birlikte rengârenk çiçekler açarken, sonbaharda göç eden kuşlar bu bölgeyi önemli bir uğrak noktası olarak kullanıyor. 
+Uğur Dağı, nemli iklimin hâkim olduğu bir bölge olarak, gür ormanları ve yüksek biyoçeşitliliğiyle dikkat çekiyor. Dağın eteklerinde, ilkbaharın gelmesiyle birlikte rengârenk çiçekler açarken, sonbaharda göç eden kuşlar bu bölgeyi önemli bir uğrak noktası olarak kullanıyor.
 
-Bitki örtüsüne bakıldığında, yükseklik zonlarına göre değişen ve alpin flora örneklerini barındıran bir dağ ekosistemiyle karşılaşıyoruz. Mevsimsel değişimlerle birlikte, ormanlar yeşillenirken, dağ yamaçlarında çeşitli bitki türleri görülebiliyor. 
+Bitki örtüsüne bakıldığında, yükseklik zonlarına göre değişen ve alpin flora örneklerini barındıran bir dağ ekosistemiyle karşılaşıyoruz. Mevsimsel değişimlerle birlikte, ormanlar yeşillenirken, dağ yamaçlarında çeşitli bitki türleri görülebiliyor.
 
 Yaban hayatı açısından zengin olan Uğur Dağı, çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapıyor. Dağın yüksek kesimlerinde, dağ keçileri ve diğer adaçaylı türler yaşamını sürdürürken, ormanlarda geyi ve ayı gibi büyük memeliler görülebiliyor. Ekolojik açıdan önemli olan bu bölgenin koruma durumu, yerel ve ulusal düzeyde takip ediliyor.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q130367210"
 
 # Gülderen Şelalesi
 
-Gülderen Şelalesi, Trabzon'un doğusunda yer alan, yaklaşık 140 hektarlık bir yeşil alan içinde bulunan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçilerin doğayı yakından keşfetmelerine olanak tanır. Şelalenin yüksekliği ve güzelliği, ziyaretçileri büyüler. Gülderen Şelalesi, Karadeniz Bölgesi'nin en güzel şelalelerinden biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Trabzon'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Gülderen Şelalesi, Trabzon'un doğusunda yer alan, yaklaşık 140 hektarlık bir yeşil alan içinde bulunan bir doğa harikasıdır. Şelalenin yüksekliği ve güzelliği, ziyaretçileri büyüler. Gülderen Şelalesi, Karadeniz Bölgesi'nin en güzel şelalelerinden biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Trabzon'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

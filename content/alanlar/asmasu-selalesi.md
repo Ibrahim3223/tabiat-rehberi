@@ -24,7 +24,7 @@ wikidata_id: "Q97207185"
 
 # Asmasu Şelalesi
 
-Asmasu Şelalesi, Trabzon'unMerit'te yer alan ve ziyaretçilerini büyüleyen bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzak bir noktada bulunmaktadır. Asmasu Şelalesi, özellikle ilkbahar ve yaz aylarında yeşilin tüm tonlarını gösteren bir manzaraya sahiptir. Şelalenin çevresinde bulunan yürüyüş yolları, ziyaretçilerin doğayı keşfetmelerine olanak tanır. Asmasu Şelalesi, hem doğa severler hem de fotoğraf tutkunları için mükemmel bir destinasyondur.
+Asmasu Şelalesi, Trabzon'unMerit'te yer alan ve ziyaretçilerini büyüleyen bir doğa harikasıdır. Asmasu Şelalesi, özellikle ilkbahar ve yaz aylarında yeşilin tüm tonlarını gösteren bir manzaraya sahiptir. Şelalenin çevresinde bulunan yürüyüş yolları, ziyaretçilerin doğayı keşfetmelerine olanak tanır. Asmasu Şelalesi, hem doğa severler hem de fotoğraf tutkunları için mükemmel bir destinasyondur.
 
 ## Tarihçe
 

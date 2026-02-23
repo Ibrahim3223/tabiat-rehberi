@@ -22,7 +22,7 @@ wikidata_id: "Q108227425"
 
 # Izmir-Gordes-Sahinkaya Kızılçam
 
-İzmir-Gordes-Sahinkaya Kızılçam Milli Parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, İzmir'in Gordes ilçesinde bulunmaktadır. Sahinkaya Kızılçamının doğal güzelliği, ziyaretçilerini büyülemektedir. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunmaktadır. İzmir-Gordes-Sahinkaya Kızılçam Milli Parkı, doğa severlerin ve turistlerin sık sık ziyaret ettiği bir yerdir.
+İzmir-Gordes-Sahinkaya Kızılçam Milli Parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. Sahinkaya Kızılçamının doğal güzelliği, ziyaretçilerini büyülemektedir. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunmaktadır. İzmir-Gordes-Sahinkaya Kızılçam Milli Parkı, doğa severlerin ve turistlerin sık sık ziyaret ettiği bir yerdir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108227425"
 
 ## Coğrafya
 
-İzmir-Gordes-Sahinkaya Kızılçam Milli Parkı, Ege Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Parkın coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikler sunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Parkın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak sıcak ve kuru yazlar, ılık ve yağışlı kışlar şeklinde oluşmaktadır. Sahinkaya Kızılçamının coğrafi konumu, ziyaretçilerini etkilemektedir. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunmaktadır.
+İzmir-Gordes-Sahinkaya Kızılçam Milli Parkı, Ege Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Parkın coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikler sunmaktadır. Parkın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine uygun olarak sıcak ve kuru yazlar, ılık ve yağışlı kışlar şeklinde oluşmaktadır. Sahinkaya Kızılçamının coğrafi konumu, ziyaretçilerini etkilemektedir. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108227425"
 
 ## İlginç Bilgiler
 
-- İzmir-Gordes-Sahinkaya Kızılçam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkın içinde, yürüyüş yolları, piknik alanları ve çeşitli bitki türleri bulunmaktadır.
 - İzmir-Gordes-Sahinkaya Kızılçam Milli Parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir.
 - Parkın coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikler sunmaktadır.

@@ -28,7 +28,7 @@ wikidata_id: "Q31386389"
 
 # Batmantası Tepesi
 
-Gaziantep'in Güneydoğu Anadolu Bölgesi'nde konumlanan Batmantası Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğal güzellikleriyle karşılar. Bu tepe, bölgenin önemli coğrafi oluşumlarından biri olarak dikkat çeker. Batmantası Tepesi, ziyaretçilerine geniş bir alan sunar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, buranın genişliği daha iyi anlaşılabilir. Tepenin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bitki örtüsü, tepeye ayrı bir güzellik katmaktadır. Bu nedenle, Batmantası Tepesi, hem doğa severler hem de bölgeyi keşfetmek isteyenler için önemli bir destinasyon olarak görülmektedir.
+Gaziantep'in Güneydoğu Anadolu Bölgesi'nde konumlanan Batmantası Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğal güzellikleriyle karşılar. Bu tepe, bölgenin önemli coğrafi oluşumlarından biri olarak dikkat çeker. Tepenin etrafı, çeşitli bitki türleriyle çevrilidir ve bu bitki örtüsü, tepeye ayrı bir güzellik katmaktadır. Bu nedenle, Batmantası Tepesi, hem doğa severler hem de bölgeyi keşfetmek isteyenler için önemli bir destinasyon olarak görülmektedir.
 
 ## Tarihçe
 

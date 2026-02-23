@@ -65,6 +65,6 @@ Hasbek Tepe, Malatya'nın doğal güzelliklerini keşfetmek isteyenler için ide
 - Malatya ilinin kuzeydoğusunda yer alan Hasbek Tepe, il merkezine yaklaşık 30 kilometre uzaklıktadır.
 - Hasbek Tepe'nin tam yüksekliği hakkında spesifik bir bilgi bulunmamaktadır.
 - Bölge, özellikle trekking ve doğa yürüyüşü gibi aktiviteler için tercih edilmektedir.
-- Hasbek Tepe'nin etrafında çeşitli históri ve kültürel alanlar bulunmaktadır.
+- Hasbek Tepe'nin etrafında çeşitli tarihi ve kültürel alanlar bulunmaktadır.
 - Tepe ve çevresinin jeolojik yapısı hakkında detaylı bir araştırma yapılmışsa da, güncel veriler erişime açık değildir.
 - Malatya'nın coğrafi ve jeolojik zenginliklerine örnek olarak gösterilebilecek önemli bir noktadır.

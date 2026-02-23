@@ -1,7 +1,7 @@
 ---
 title: "Şeyh-i Şibli Türbesi"
 date: "2026-01-10T06:49:50.368Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390775"
 
 # Şeyh-i Şibli Türbesi
 
-Düzce ilinin merkezinde yer alan Şeyh-i Şibli Türbesi, yaklaşık 140 hektarlık bir alan üzerinde konumlanıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yer alıyor. Şeyh-i Şibli Türbesi, sadece tarihi bir mekan değil, aynı zamanda doğal güzellikleri de barındıran bir bölge. Ziyaretçiler, burada hem tarihi yapıları inceleyebilir hem de doğanın güzelliklerini keşfedebilir. Şeyh-i Şibli Türbesi, Karadeniz Bölgesi'nin önemli tarihi ve turistik mekanlarından biri olarak dikkat çekiyor.
+Düzce ilinin merkezinde yer alan Şeyh-i Şibli Türbesi, yaklaşık 140 hektarlık bir alan üzerinde konumlanıyor. Şeyh-i Şibli Türbesi, sadece tarihi bir mekan değil, aynı zamanda doğal güzellikleri de barındıran bir bölge. Ziyaretçiler, burada hem tarihi yapıları inceleyebilir hem de doğanın güzelliklerini keşfedebilir. Şeyh-i Şibli Türbesi, Karadeniz Bölgesi'nin önemli tarihi ve turistik mekanlarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

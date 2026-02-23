@@ -34,7 +34,7 @@ Muğla'nın eşsiz doğası içinde yer alan Nar Adası, misafirlerine huzurlu b
 
 Muğla bölgesinin tarihçesi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarih boyunca various uygarlıkların yaşadığı önemli bir merkez olmuştur. Likya, Karya ve Roma uygarlıkları, Muğla'nın stratejik konumu nedeniyle burada yaşamış ve bölgeye kendi kültürlerini kazandırmışlardır.
 
-Doğal güzellikleri ve verimli topraklarıyla Muğla, insan yerleşimine ve ekonomik faaliyetlere elverişli bir bölge olarak histórik süreçte önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret, bölgenin ekonomisinin temelini oluşturmuş ve Nar Adası gibi doğal alanlar, bu faaliyetlerin yürütülmesinde kilit rol oynamıştır. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri ve ekonomik faaliyetlerde bulunmaları için elverişli ortamlar sunmuşlardır.
+Doğal güzellikleri ve verimli topraklarıyla Muğla, insan yerleşimine ve ekonomik faaliyetlere elverişli bir bölge olarak tarihi süreçte önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret, bölgenin ekonomisinin temelini oluşturmuş ve Nar Adası gibi doğal alanlar, bu faaliyetlerin yürütülmesinde kilit rol oynamıştır. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri ve ekonomik faaliyetlerde bulunmaları için elverişli ortamlar sunmuşlardır.
 
 Nar Adası, Muğla'nın bu zengin tarihî ve kültürel mirasının bir parçasıdır. Bölgenin doğal güzelliği ve stratejik konumu, Nar Adası'nı önemli bir nokta haline getirmiştir. İnsanların bu bölgeyle olan ilişkisi, tarih boyunca çeşitli ekonomi ve sosyal faaliyetlerle şekillenmiştir.
 
@@ -50,7 +50,7 @@ Nar Adası, Ege Denizi'nin zengin su kaynakları ve ekosistem bağlantılarına 
 
 ## Flora ve Fauna
 
-Nar Adası, Muğla'nın güneşli kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, zeytinliklerin ve çam ormanlarının hakim olduğu bir Akdeniz iklimine ev sahipliği yapıyor. 
+Nar Adası, Muğla'nın güneşli kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, zeytinliklerin ve çam ormanlarının hakim olduğu bir Akdeniz iklimine ev sahipliği yapıyor.
 
 Bitki Örtüsü olarak, ada özellikle ilkbahar aylarında rengarenk çiçeklerle kaplanıyor. Çam ağaçlarının arasında zeytinliklerin yeşilliği göze çarpıyor. Kıyı kesiminde ise tuzcul bitkiler ve dikenli otlar hakim.
 

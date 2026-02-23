@@ -1,7 +1,7 @@
 ---
 title: "Sivasi Abdülmecid Efendi Türbesi"
 date: "2026-01-10T07:20:49.898Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390995"
 
 # Sivasi Abdülmecid Efendi Türbesi
 
-Sivasi Abdülmecid Efendi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Tarihi geçmişi ile dikkat çeken bu türbe, aynı zamanda doğal güzelliği ile ziyaretçilerini cezbediyor. Sivasi Abdülmecid Efendi Türbesi, İstanbul'un kalabalıkından uzaklaşmak isteyenler için bir kaçış noktası olarak da değerlendirilebilir.
+Sivasi Abdülmecid Efendi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. Tarihi geçmişi ile dikkat çeken bu türbe, aynı zamanda doğal güzelliği ile ziyaretçilerini cezbediyor. Sivasi Abdülmecid Efendi Türbesi, İstanbul'un kalabalıkından uzaklaşmak isteyenler için bir kaçış noktası olarak da değerlendirilebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sivasi Abdülmecid Efendi Türbesi'nin tarihi geçmişi, Osmanlı Dönemi'ne kad
 
 ## Coğrafya
 
-Sivasi Abdülmecid Efendi Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kuzeyinde yer almaktadır. Bu bölge, coğrafi olarak deniz seviyesine yakın bir konumda bulunmakta ve iklimi ılımandır. Türbe ve plaj alanı, Haliç'in kıyısında yer almakta ve bu sayede ziyaretçilerine güzel bir manzara sunmaktadır. Alanın coğrafi konumu, aynı zamanda ulaşım açısından da avantajlıdır. İstanbul'un merkezi bölgelerine yakın olmakla birlikte, doğal bir ortamda dinlenmek isteyenler için ideal bir kaçış noktası olarak değerlendirilebilir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerin doğayı keşfetmesine olanak tanır.
+Sivasi Abdülmecid Efendi Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kuzeyinde yer almaktadır. Bu bölge, coğrafi olarak deniz seviyesine yakın bir konumda bulunmakta ve iklimi ılımandır. Türbe ve plaj alanı, Haliç'in kıyısında yer almakta ve bu sayede ziyaretçilerine güzel bir manzara sunmaktadır. Alanın coğrafi konumu, aynı zamanda ulaşım açısından da avantajlıdır. İstanbul'un merkezi bölgelerine yakın olmakla birlikte, doğal bir ortamda dinlenmek isteyenler için ideal bir kaçış noktası olarak değerlendirilebilir.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Sivasi Abdülmecid Efendi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal g�
 - Türbenin inşası, Osmanlı Dönemi'ne kadar uzanmaktadır.
 - Abdülmecid Efendi, dönemin önemli şahsiyetlerinden biri olarak bilinmektedir.
 - Türbe, Eyüpsultan ilçesinin tarihi ve kültürel mirasına önemli bir katkıda bulunmuştur.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsamaktadır.
+
 - Bölge, coğrafi olarak deniz seviyesine yakın bir konumda bulunmakta ve iklimi ılımandır.

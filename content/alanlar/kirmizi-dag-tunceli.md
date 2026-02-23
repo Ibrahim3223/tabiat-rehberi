@@ -48,10 +48,10 @@ Jeolojik açıdan bakıldığında, Kırmızı Dağ'nın fiziksel yapısı hakk�
 
 ## Flora ve Fauna
 
-Kırmızı Dağ, Tunceli'nin yüksek dağ ekosisteminin güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kırmızı Dağ, Tunceli'nin yüksek dağ ekosisteminin güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları renkli çiçeklerle donanır. Alpin flora, yükseklik zonlarına bağlı olarak değişkenlik gösterir. 
-Yaban Hayatı açısından, dağ keçileri ve yaban keçileri gibi memelilerin yanı sıra, kartallar ve doğanların Habitatını oluşturur. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları renkli çiçeklerle donanır. Alpin flora, yükseklik zonlarına bağlı olarak değişkenlik gösterir.
+Yaban Hayatı açısından, dağ keçileri ve yaban keçileri gibi memelilerin yanı sıra, kartallar ve doğanların Habitatını oluşturur.
 Ekolojik Değer olarak, bu yüksek dağ ekosistemi, endemik türlerin korunması açısından büyük önem taşır.
 
 ## Ziyaret Bilgileri

@@ -23,7 +23,7 @@ wikidata_id: "Q108229000"
 
 # GÜVER_KANYONU_TP
 
-İç Anadolu Bölgesi'nde bulunan Güver Kanyonu, yaklaşık 140 hektarlık bir alanı kapsayan ve 200 futbol sahası büyüklüğünde olan bir milli parktır. Bu bölge, doğal güzellikleri ve zengin flora ile fauna çeşitliliği ile dikkat çekmektedir. Ziyaretçiler, kanyonun derinliklerine inerek, eşsiz manzaraları ve çevreyi keşfedebilirler. Güver Kanyonu, hem doğa severler hem de macera arayanlar için mükemmel bir destinasyondur.
+ Bu bölge, doğal güzellikleri ve zengin flora ile fauna çeşitliliği ile dikkat çekmektedir. Ziyaretçiler, kanyonun derinliklerine inerek, eşsiz manzaraları ve çevreyi keşfedebilirler. Güver Kanyonu, hem doğa severler hem de macera arayanlar için mükemmel bir destinasyondur.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Güver Kanyonu'nu ziyaret etmek, hem doğa severler hem de macera arayanlar içi
 ## İlginç Bilgiler
 
 - Güver Kanyonu, 140 hektarlık bir alanı kapsar.
-- Kanyon, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Güver Kanyonu, hem doğa severler hem de macera arayanlar için mükemmel bir destinasyondur.
 - Kanyonun tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.

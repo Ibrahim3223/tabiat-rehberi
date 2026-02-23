@@ -32,7 +32,7 @@ Kahramanmaraş'ın dağlık bölgesinde yer alan Gayranlı Dağı, şehrin doğa
 
 ## Tarihçe
 
-Kahramanmaraş bölgesi, tarihin sâu sayfalarında yer alan bir coğrafyadır. Hititler, Romalılar ve Osmanlılar gibi uygarlıkların izlerini taşıyan bu bölge, tarihi zenginliği ile dikkat çekmektedir. Gayranlı Dağı da bu coğrafyanın bir parçası olarak, insanların yaşamına ve kültürüne katkıda bulunmuştur.
+Kahramanmaraş bölgesi, tarihin derin sayfalarında yer alan bir coğrafyadır. Hititler, Romalılar ve Osmanlılar gibi uygarlıkların izlerini taşıyan bu bölge, tarihi zenginliği ile dikkat çekmektedir. Gayranlı Dağı da bu coğrafyanın bir parçası olarak, insanların yaşamına ve kültürüne katkıda bulunmuştur.
 
 Türkiye'de doğal alanlar, tarihsel olarak önemli bir role sahiptir. İnsanlar, bu alanları yaylacılık, hayvancılık ve ticaret yolları olarak kullanmışlardır. Gayranlı Dağı da bu bağlamda, bölgenin ekonomi ve sosyal yaşamına etki eden bir faktör olarak görülebilir. Dağın eteklerinde ve çevresinde yer alan köyler, bu doğal alanın bir parçası olarak, insanların yaşamını sürdürdüğü yerlerdir.
 

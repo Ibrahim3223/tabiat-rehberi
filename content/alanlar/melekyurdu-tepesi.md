@@ -28,7 +28,7 @@ wikidata_id: "Q31387995"
 
 # Melekyurdu Tepesi
 
-Melekyurdu Tepesi, Karadeniz Bölgesi'nin güzide kentlerinden Bayburt'ta yer alan bir doğa harikası. Bu tepe, yüksek bir konumda yer alıyor ve ziyaretçilerine bölgenin eşsiz manzarasını sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile karşılaşma mümkün. Melekyurdu Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının ziyaret etmekten keyif alacağı bir nokta.
+Melekyurdu Tepesi, Karadeniz Bölgesi'nin güzide kentlerinden Bayburt'ta yer alan bir doğa harikası. Bu tepe, yüksek bir konumda yer alıyor ve ziyaretçilerine bölgenin eşsiz manzarasını sunuyor. Melekyurdu Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının ziyaret etmekten keyif alacağı bir nokta.
 
 ## Tarihçe
 

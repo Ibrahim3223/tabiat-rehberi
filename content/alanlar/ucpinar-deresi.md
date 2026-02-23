@@ -28,7 +28,7 @@ wikidata_id: "Q34810154"
 
 # Üçpınar Deresi
 
-Üçpınar Deresi, Kars ilinin güzide noktalarından biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunar. Derenin kenarlarında, çeşitli ağaç türleri ve çiçekler bulunur. Derenin suyu, temiz ve berrak bir yapıdadır. Burada, doğa ile iç içe olunabilir ve güzel anlar yaşanabilir. Üçpınar Deresi, Kars'ın en önemli doğal güzelliklerinden biridir ve yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir.
+Üçpınar Deresi, Kars ilinin güzide noktalarından biri olarak bilinir. Derenin kenarlarında, çeşitli ağaç türleri ve çiçekler bulunur. Derenin suyu, temiz ve berrak bir yapıdadır. Burada, doğa ile iç içe olunabilir ve güzel anlar yaşanabilir. Üçpınar Deresi, Kars'ın en önemli doğal güzelliklerinden biridir ve yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 

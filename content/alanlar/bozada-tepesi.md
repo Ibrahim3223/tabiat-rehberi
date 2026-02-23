@@ -28,7 +28,7 @@ wikidata_id: "Q31390641"
 
 # Bozada Tepesi
 
-Kırşehir'in doğal güzelliklerinin başında gelen Bozada Tepesi, 140 hektarlık alanıyla ziyaretçilerini bekliyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsıyor. Bozada Tepesi, bölgenin coğrafi yapısı ve iklimi nedeniyle benzersiz bir bitki örtüsüne sahip. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor.
+Kırşehir'in doğal güzelliklerinin başında gelen Bozada Tepesi, 140 hektarlık alanıyla ziyaretçilerini bekliyor. Bozada Tepesi, bölgenin coğrafi yapısı ve iklimi nedeniyle benzersiz bir bitki örtüsüne sahip. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor.
 
 ## Tarihçe
 

@@ -51,11 +51,11 @@ Ada, çevresindeki diğer adalar ve anakara ile birlikte, bir ekosistem ağı ol
 
 ## Flora ve Fauna
 
-Dişlice Adası, Muğla'nın kıyılarında yer alan bir ada olarak, zeytinlikler ve çam ormanları ile çevrili bir Akdeniz iklimine sahiptir. 
+Dişlice Adası, Muğla'nın kıyılarında yer alan bir ada olarak, zeytinlikler ve çam ormanları ile çevrili bir Akdeniz iklimine sahiptir.
 
-Bitki Örtüsü olarak, ada üzerinde hakim türler olarak zeytin ağaçları ve çam ağaçları bulunur. İlkbahar döneminde, ada yaban çiçekleri ile renklendirilir. 
+Bitki Örtüsü olarak, ada üzerinde hakim türler olarak zeytin ağaçları ve çam ağaçları bulunur. İlkbahar döneminde, ada yaban çiçekleri ile renklendirilir.
 
-Yaban Hayatı olarak, ada üzerinde çeşitli deniz kuşları yaşamaktadır. Kıyı çizgisinde, göçmen kuşlar sonbahar döneminde görülebilir. 
+Yaban Hayatı olarak, ada üzerinde çeşitli deniz kuşları yaşamaktadır. Kıyı çizgisinde, göçmen kuşlar sonbahar döneminde görülebilir.
 
 Ekolojik Değer olarak, ada ekosistemi izole popülasyonlar barındırmaktadır. Bu nedenle, ada ekosisteminin korunmasına önem verilmesi gerekmektedir.
 

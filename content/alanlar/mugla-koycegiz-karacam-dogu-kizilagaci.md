@@ -22,7 +22,7 @@ wikidata_id: "Q108228541"
 
 # Mugla-Koycegiz-Karacam-Dogu Kizilagaci
 
-Mugla-Koycegiz-Karacam-Dogu Kizilagaci milli parkı, Muğla'nın Koycegiz ilçesinde yer alan 140 hektarlık bir área. Bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Parkın konumu, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Milli parkın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Mugla-Koycegiz-Karacam-Dogu Kizilagaci milli parkı, Muğla'nın Koycegiz ilçesinde yer alan 140 hektarlık bir área. Parkın konumu, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Milli parkın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mugla-Koycegiz-Karacam-Dogu Kizilagaci milli parkının tarihi geçmişi, yüzy�
 
 ## Coğrafya
 
-Mugla-Koycegiz-Karacam-Dogu Kizilagaci milli parkı, Muğla'nın Koycegiz ilçesinde yer alıyor. Parkın coğrafi konumu, Ege Bölgesi'nin güneyinde, Akdeniz yakınlarında bulunmakta. Milli parkın iklimi, Akdeniz ikliminin özellikleri göstermekte. Parkın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Milli parkın coğrafi yapısı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+Mugla-Koycegiz-Karacam-Dogu Kizilagaci milli parkı, Muğla'nın Koycegiz ilçesinde yer alıyor. Parkın coğrafi konumu, Ege Bölgesi'nin güneyinde, Akdeniz yakınlarında bulunmakta. Milli parkın iklimi, Akdeniz ikliminin özellikleri göstermekte. Parkın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Milli parkın coğrafi yapısı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Mugla-Koycegiz-Karacam-Dogu Kizilagaci milli parkını ziyaret etmek için, Muğ
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
 - Milli parkın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Milli parkın iklimi, Akdeniz ikliminin özellikleri göstermekte.
 - Milli parkın coğrafi konumu, Ege Bölgesi'nin güneyinde, Akdeniz yakınlarında bulunmakta.

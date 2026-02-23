@@ -50,9 +50,9 @@ Bölgenin su kaynakları, Karayüksekdağ'ın eteklerinde yer alan akarsular ve 
 
 ## Flora ve Fauna
 
-Karayüksekdağ, yükseklik zonları ile zengin bir dağ ekosisteminin ev sahibi. Bitki örtüsü olarak step bitki örtüsü ve bozkır hakim, kuraklığa adapte türler burada yaşamını sürdürüyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Yüksek alanlarda, alpin flora çeşitliliği dikkat çekiyor. 
+Karayüksekdağ, yükseklik zonları ile zengin bir dağ ekosisteminin ev sahibi. Bitki örtüsü olarak step bitki örtüsü ve bozkır hakim, kuraklığa adapte türler burada yaşamını sürdürüyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Yüksek alanlarda, alpin flora çeşitliliği dikkat çekiyor.
 
-Yaban hayatı da bir o kadar zengin. Memeliler ve kuşlar, dağların yükseklik zonlarına göre dağılım gösteriyor. Göç mevsiminde, dağlar çeşitli kuş türlerinin konaklama noktası oluyor. Sürüngenler de, özellikle güneşli günlerde kayaların üzerinde görülebiliyor. 
+Yaban hayatı da bir o kadar zengin. Memeliler ve kuşlar, dağların yükseklik zonlarına göre dağılım gösteriyor. Göç mevsiminde, dağlar çeşitli kuş türlerinin konaklama noktası oluyor. Sürüngenler de, özellikle güneşli günlerde kayaların üzerinde görülebiliyor.
 
 Bu dağ ekosisteminin ekolojik değeri oldukça yüksek. Yükseklik zonları ve çeşitli yaşam alanları, birçok canlıyaşam alanı sunuyor. Ancak, koruma durumu konusunda hala daha çok çalışma yapılması gerekiyor. Bu doğal alanın korunması, sadece bölgenin fauna ve florasını değil, aynı zamanda su döngüsünü ve toprağın verimliliğini de etkiliyor.
 

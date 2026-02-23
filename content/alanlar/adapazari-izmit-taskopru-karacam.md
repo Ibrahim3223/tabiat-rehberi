@@ -22,7 +22,7 @@ wikidata_id: "Q108227923"
 
 # Adapazari-Izmit-Taskopru Karacam
 
-Adapazari-Izmit-Taskopru Karacam, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir milli parktır. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile ziyaretçilerini büyüler. Bu milli park, aynı zamanda çeşitli bitki türleri ve hayvanları barındıran önemli bir ekosistemdir. Ziyaretçiler, bu eşsiz güzelliği keşfetmek için buraya gelir ve doğanın güzelliğini yaşamaya çalışırlar.
+Adapazari-Izmit-Taskopru Karacam, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir milli parktır. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile ziyaretçilerini büyüler. Bu milli park, aynı zamanda çeşitli bitki türleri ve hayvanları barındıran önemli bir ekosistemdir. Ziyaretçiler, bu eşsiz güzelliği keşfetmek için buraya gelir ve doğanın güzelliğini yaşamaya çalışırlar.
 
 ## Tarihçe
 

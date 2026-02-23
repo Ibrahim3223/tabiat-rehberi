@@ -32,7 +32,7 @@ Mardin'in tarih kokan sokaklarının ortasında yükselen Caysı Tepe, şehrin p
 
 ## Tarihçe
 
-Mardin'in doğusunda yer alan Caysı Tepe, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Mardin bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yerleşim yeri olmuş bir bölgedir. Hitit, Asur, Roma ve Osmanlı gibi medeniyetler bu topraklarda yaşamış, her biri bölgenin kültürel ve tarihi mirasına katkıda bulunmuştur.
+Mardin'in doğusunda yer alan Caysı Tepe, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Mardin bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yerleşim yeri olmuş bir bölgedir. Hitit, Asur, Roma ve Osmanlı gibi medeniyetler bu topraklarda yaşamış, her biri bölgenin kültürel ve tarihi mirasına katkıda bulunmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla, Caysı Tepe gibi alanlar, Türkiye'nin tarihsel olarak önemli ticaret yolları üzerinde yer almış, insanların ve hayvanların göç yollarını belirlemiştir. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geleneksel yaşam biçimleri arasında yer almış, doğal kaynakların verimli kullanılmasına da imkân tanımıştır.
 

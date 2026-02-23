@@ -28,7 +28,7 @@ wikidata_id: "Q31560897"
 
 # Tinik Tepesi
 
-Tinik Tepesi, Tokat'ın merkezi bir konumda yer alan ve şehre hakim bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en önemli doğal alanlarından biri. Tinik Tepesi, aynı zamanda Tokat'ın tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan. Tepenin eteklerinde yer alan tarihi eserler ve yapılar, ziyaretçilere şehrin geçmişini anlatıyor. Tinik Tepesi, Tokat'ın gurur kaynağı ve şehrin önemli bir sembolü.
+Tinik Tepesi, Tokat'ın merkezi bir konumda yer alan ve şehre hakim bir tepe. Tinik Tepesi, aynı zamanda Tokat'ın tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan. Tepenin eteklerinde yer alan tarihi eserler ve yapılar, ziyaretçilere şehrin geçmişini anlatıyor. Tinik Tepesi, Tokat'ın gurur kaynağı ve şehrin önemli bir sembolü.
 
 ## Tarihçe
 

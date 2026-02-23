@@ -1,7 +1,7 @@
 ---
 title: "Hacı İbrahim Veli Sultan Türbesi"
 date: "2026-01-10T07:54:29.358Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -37,7 +37,7 @@ Hacı İbrahim Veli Sultan Türbesi, yüzyıllar boyunca önemli bir dini merkez
 
 ## Coğrafya
 
-Hacı İbrahim Veli Sultan Türbesi, Konya'nın Akşehir ilçesinde yer almaktadır. Bu mekan, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş ve etrafında bulunan doğal güzellikleri ile dikkat çekmektedir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu mekanın coğrafi konumu, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunarken, aynı zamanda önemli bir dini merkez olarak da görev yapmaktadır. Hacı İbrahim Veli Sultan Türbesi'nin etrafında bulunan yeşil alanlar, ziyaretçilere dinlenme ve eğlenme imkanı sunarken, aynı zamanda bu mekanın güzelliğine güzellik katmaktadır. İç Anadolu Bölgesi'nin karakteristik coğrafi yapısına uygun olarak, bu mekan da kura ve karasal bir iklimi sahiptir.
+Hacı İbrahim Veli Sultan Türbesi, Konya'nın Akşehir ilçesinde yer almaktadır. Bu mekan, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş ve etrafında bulunan doğal güzellikleri ile dikkat çekmektedir. Bu mekanın coğrafi konumu, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunarken, aynı zamanda önemli bir dini merkez olarak da görev yapmaktadır. Hacı İbrahim Veli Sultan Türbesi'nin etrafında bulunan yeşil alanlar, ziyaretçilere dinlenme ve eğlenme imkanı sunarken, aynı zamanda bu mekanın güzelliğine güzellik katmaktadır. İç Anadolu Bölgesi'nin karakteristik coğrafi yapısına uygun olarak, bu mekan da kura ve karasal bir iklimi sahiptir.
 
 ## Flora ve Fauna
 

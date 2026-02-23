@@ -33,7 +33,7 @@ Konya'nın eşsiz coğrafyasında yer alan Boz Dağ, bölgeye özgü doğal güz
 
 ## Tarihçe
 
-Konya bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Hititler, Frigler, Persler ve Roma İmparatorluğu gibi uygarlıkların izlerini taşıyan bu topraklar, tarih boyunca çeşitli kültürlerin etkileşimine şahit olmuştur. Boz Dağ, bu zengin tarihsel mirasın bir parçası olarak karşımıza çıkar.
+Konya bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Hititler, Frigler, Persler ve Roma İmparatorluğu gibi uygarlıkların izlerini taşıyan bu topraklar, tarih boyunca çeşitli kültürlerin etkileşimine şahit olmuştur. Boz Dağ, bu zengin tarihsel mirasın bir parçası olarak karşımıza çıkar.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal güzelliklerle iç içe olmasına neden olmuştur. Konya bölgesi de bu açıdan zengin bir geçmişe sahiptir. İnsanların doğal kaynakları kullanma biçimleri, bölgenin ekolojik dengesini şekillendirmiştir.
 
@@ -51,7 +51,7 @@ Bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları ile şekilleni
 
 ## Flora ve Fauna
 
-Boz Dağ, Konya'nın step bitki örtüsü ve bozkır ekosisteminin hakim olduğu bir dağ alanıdır. 1200 metre yükseklikte, dağ ekosistemi yükseklik zonlarına bölünmüş durumdadır. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır ve alpin flora ortaya çıkar. 
+Boz Dağ, Konya'nın step bitki örtüsü ve bozkır ekosisteminin hakim olduğu bir dağ alanıdır. 1200 metre yükseklikte, dağ ekosistemi yükseklik zonlarına bölünmüş durumdadır. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır ve alpin flora ortaya çıkar.
 
 Bitki örtüsünün hakim türleri, kuraklığa adapte olmuş step bitkileridir. Bu bitkiler, yaz aylarında kuraklık nedeniyle sararır, ancak ilkbaharda yeniden canlanır. Dağların yüksek kesimlerinde, alpin çayırlar ve otsu bitkiler bulunur.
 

@@ -1,7 +1,7 @@
 ---
 title: "Anadolu Oyuncak Müzesi"
 date: "2026-01-10T15:14:48.687Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q130391147"
 
 # Anadolu Oyuncak Müzesi
 
-Anadolu Oyuncak Müzesi, Kepez/Antalya'da yer alan ve çocukluğun nostaljik anlarını yaşatan bir müzedir. Bu müze, 140 hektarlık bir alan üzerinde kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğündedir. Müzenin içinde, çeşitli oyuncaklar ve çocukluk hatıralarını canlandıran eserler bulunmaktadır. Anadolu Oyuncak Müzesi, ziyaretçilerine çocukluklarını yeniden yaşamak için bir fırsat sunmaktadır.
+Anadolu Oyuncak Müzesi, Kepez/Antalya'da yer alan ve çocukluğun nostaljik anlarını yaşatan bir müzedir. Müzenin içinde, çeşitli oyuncaklar ve çocukluk hatıralarını canlandıran eserler bulunmaktadır. Anadolu Oyuncak Müzesi, ziyaretçilerine çocukluklarını yeniden yaşamak için bir fırsat sunmaktadır.
 
 ## Tarihçe
 

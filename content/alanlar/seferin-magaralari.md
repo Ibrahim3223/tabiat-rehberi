@@ -50,7 +50,7 @@ Bölgenin çevresel ilişkileri, Seferin Mağaraları'nın değerini daha da art
 
 ## Flora ve Fauna
 
-Seferin Mağaraları Jeoparkı, Gaziantep'in yarı kurak ikliminde, step ve ova ekolojisinin buluşma noktasında yer alıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlbaharın gelmesiyle birlikte, çiçeklerin renk cümbüşü bütün alanı süsler. 
+Seferin Mağaraları Jeoparkı, Gaziantep'in yarı kurak ikliminde, step ve ova ekolojisinin buluşma noktasında yer alıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlbaharın gelmesiyle birlikte, çiçeklerin renk cümbüşü bütün alanı süsler.
 
 Bitki örtüsünü oluşturan çalı ve otsu türler, mevsimsel değişimlere uyum sağlar. Sonbaharda, göçmen kuşlar bu bölgeden geçerken, orman ekosisteminin zenginliğini gözler önüne serer. Yaban hayatı, çeşitli memeli ve kuş türleriyle renklenir. Sürüngenler de bu ekosistemin bir parçası olarak yer alır.
 

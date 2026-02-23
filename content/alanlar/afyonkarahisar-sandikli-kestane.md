@@ -1,7 +1,7 @@
 ---
 title: "Afyonkarahisar-Sandikli Kestane"
 date: "2026-01-09T18:16:57.259Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Afyonkarahisar"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227731"
 
 # Afyonkarahisar-Sandikli Kestane
 
-Afyonkarahisar-Sandikli Kestane milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa deneyimi sunuyor. Bu milli park, Afyonkarahisar'ın Sandikli ilçesinde yer alıyor ve ziyaretçilerini zengin flora ve fauna çeşitliliği ile karşılıyor. Milli parkın etrafında, çeşitli bitki türleri ve hayvanlar yer alıyor ve bu doğal güzelliği keşfetmek için gelen ziyaretçiler, doğanın gerçek güzelliğini deneyimleyebiliyor.
+Afyonkarahisar-Sandikli Kestane milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu milli park, Afyonkarahisar'ın Sandikli ilçesinde yer alıyor ve ziyaretçilerini zengin flora ve fauna çeşitliliği ile karşılıyor. Milli parkın etrafında, çeşitli bitki türleri ve hayvanlar yer alıyor ve bu doğal güzelliği keşfetmek için gelen ziyaretçiler, doğanın gerçek güzelliğini deneyimleyebiliyor.
 
 ## Tarihçe
 

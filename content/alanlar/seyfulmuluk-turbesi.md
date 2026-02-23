@@ -1,7 +1,7 @@
 ---
 title: "Seyfülmülük Türbesi"
 date: "2026-01-10T07:31:00.818Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391228"
 
 # Seyfülmülük Türbesi
 
-Seyfülmülük Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi mekanlarından biri olarak Diyarbakır'ın Sur ilçesinde bulunur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tarihi mekan, bölgenin zengin kültürel mirasını yansıtan önemli bir turizm merkezidir. Seyfülmülük Türbesi, ziyaretçilerini Diyarbakır'ın tarihi ve kültürel değerlerini keşfetmeye davet eder. Bu türbe, Güneydoğu Anadolu Bölgesi'nin önemli bir kültürel simgesi olarak kabul edilir ve her yıl binlerce ziyaretçiyi ağırlar.
+Seyfülmülük Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi mekanlarından biri olarak Diyarbakır'ın Sur ilçesinde bulunur. Bu tarihi mekan, bölgenin zengin kültürel mirasını yansıtan önemli bir turizm merkezidir. Seyfülmülük Türbesi, ziyaretçilerini Diyarbakır'ın tarihi ve kültürel değerlerini keşfetmeye davet eder. Bu türbe, Güneydoğu Anadolu Bölgesi'nin önemli bir kültürel simgesi olarak kabul edilir ve her yıl binlerce ziyaretçiyi ağırlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Seyfülmülük Türbesi'nin tarihi geçmişi, yüzyıllar boyunca zengin bir kü
 
 ## Coğrafya
 
-Seyfülmülük Türbesi, Diyarbakır'ın Sur ilçesinde yer alır ve bölgenin coğrafi yapısını yansıtan önemli bir noktadır. Türbe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu alan, bölgenin coğrafi özelliklerini yansıtan önemli bir noktadır. Seyfülmülük Türbesi, bölgenin iklimini ve coğrafi yapısını yansıtan önemli bir turizm merkezidir. Türbe, bölgenin zengin flora ve faunasını barındırır ve ziyaretçilerine bölgenin doğal güzelliklerini sunar. Seyfülmülük Türbesi, bölgenin coğrafi ve kültürel özellikleri bakımından önemli bir noktadır ve her yıl binlerce ziyaretçiyi ağırlar. Bu türbe, bölgenin doğal güzelliklerini ve kültürel değerlerini yansıtması bakımından önemli bir turizm merkezi olarak kabul edilir.
+Seyfülmülük Türbesi, Diyarbakır'ın Sur ilçesinde yer alır ve bölgenin coğrafi yapısını yansıtan önemli bir noktadır. Bu alan, bölgenin coğrafi özelliklerini yansıtan önemli bir noktadır. Seyfülmülük Türbesi, bölgenin iklimini ve coğrafi yapısını yansıtan önemli bir turizm merkezidir. Türbe, bölgenin zengin flora ve faunasını barındırır ve ziyaretçilerine bölgenin doğal güzelliklerini sunar. Seyfülmülük Türbesi, bölgenin coğrafi ve kültürel özellikleri bakımından önemli bir noktadır ve her yıl binlerce ziyaretçiyi ağırlar. Bu türbe, bölgenin doğal güzelliklerini ve kültürel değerlerini yansıtması bakımından önemli bir turizm merkezi olarak kabul edilir.
 
 ## Flora ve Fauna
 

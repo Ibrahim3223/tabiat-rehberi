@@ -1,7 +1,7 @@
 ---
 title: "Arap Seyyid Sultan Türbesi"
 date: "2026-01-10T07:08:55.278Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390920"
 
 # Arap Seyyid Sultan Türbesi
 
-Arap Seyyid Sultan Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en önemli turistik mekanlarından biridir. Bu türbe, Arap Seyyid Sultan'ın anısına yapılmış ve yüzyıllar boyunca ziyaretçilerini ağırlamıştır. Türbenin etrafında geniş bir yeşil alan bulunmakta ve ziyaretçilerin dinlenebileceği, piknik yapabileceği birçok bulunmaktadır.
+Arap Seyyid Sultan Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu türbe, Arap Seyyid Sultan'ın anısına yapılmış ve yüzyıllar boyunca ziyaretçilerini ağırlamıştır. Türbenin etrafında geniş bir yeşil alan bulunmakta ve ziyaretçilerin dinlenebileceği, piknik yapabileceği birçok bulunmaktadır.
 
 ## Tarihçe
 
@@ -45,12 +45,12 @@ Arap Seyyid Sultan Türbesi'nin etrafında, çeşitli bitki türleri bulunmakta 
 
 ## Ziyaret Bilgileri
 
-Arap Seyyid Sultan Türbesi'ni ziyaret etmek, hem tarihi bir mekan görmeyi hem de doğal güzellikleri izlemeyi mümkün kılmaktadır. Türbeye ulaşım, Manisa'nın Şehzadeler ilçesinden fácil bir şekilde sağlanabilir. Ziyaretçiler, türbenin etrafındaki yeşil alanda dinlenebilir, piknik yapabilir ve doğal güzellikleri izleyebilirler. Arap Seyyid Sultan Türbesi, yıl boyunca ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları en uygun zamanlardır.
+Arap Seyyid Sultan Türbesi'ni ziyaret etmek, hem tarihi bir mekan görmeyi hem de doğal güzellikleri izlemeyi mümkün kılmaktadır. Türbeye ulaşım, Manisa'nın Şehzadeler ilçesinden kolay bir şekilde sağlanabilir. Ziyaretçiler, türbenin etrafındaki yeşil alanda dinlenebilir, piknik yapabilir ve doğal güzellikleri izleyebilirler. Arap Seyyid Sultan Türbesi, yıl boyunca ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları en uygun zamanlardır.
 
 ## İlginç Bilgiler
 
 - Arap Seyyid Sultan Türbesi, Manisa'nın en önemli turistik mekanlarından biridir.
-- Türbenin etrafındaki yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Arap Seyyid Sultan Türbesi, yüzyıllar öncesine dayanan bir tarihi geçmişi sahiptir.
 - Türbenin yapımı sırasında kullanılan malzemeler ve teknikler, o dönemin mimari özelliklerini taşımaktadır.
 - Arap Seyyid Sultan Türbesi, Türk tarihi ve kültürü açısından önemli bir mekan olarak kabul edilmektedir.

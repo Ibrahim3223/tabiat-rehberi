@@ -32,7 +32,7 @@ Diyarbakır'ın tarihi dokusu içinde yükselen Mesele Tepe, bölgeye gelen ziya
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Mesele Tepe, bu tarihi bölgenin bir parçası olarak, çeşitli uygarlıkların izlerini taşır. Diyarbakır, Hitit, Asur, Pers, Roma ve Osmanlı gibi uygarlıkların hakimiyetine girmiş ve her birinin kültürel mirasını taşımıştır.
+Diyarbakır bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Mesele Tepe, bu tarihi bölgenin bir parçası olarak, çeşitli uygarlıkların izlerini taşır. Diyarbakır, Hitit, Asur, Pers, Roma ve Osmanlı gibi uygarlıkların hakimiyetine girmiş ve her birinin kültürel mirasını taşımıştır.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel gelişiminde önemli bir role sahiptir. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendirmiştir. Diyarbakır bölgesinin coğrafi konumu, tarihi İpek Yolu'nun güzergahında yer alması, bölgenin ticari ve kültürel önemini artırmıştır.
 

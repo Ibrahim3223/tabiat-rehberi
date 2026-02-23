@@ -1,7 +1,7 @@
 ---
 title: "Sivrihisar Dağları"
 date: "2026-01-09T07:07:21.068Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Türkiye"
@@ -49,7 +49,7 @@ Doğal güzelliği ve coğrafi çeşitliliğiyle dikkat çeken Sivrihisar Dağla
 
 ## Flora ve Fauna
 
-Sivrihisar Dağları, step bitki örtüsü ve bozkırın hakim olduğu bir bölge. Dağ ekosisteminin yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çekiyor. 
+Sivrihisar Dağları, step bitki örtüsü ve bozkırın hakim olduğu bir bölge. Dağ ekosisteminin yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çekiyor.
 
 Bitki Örtüsü: İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanıyor. Sonbaharda, kuraklığa adapte türler, sarı ve kahverengi tonlara bürünüyor. Özel bitkiler, yüksek irtifalarda yetişen ve soğuğa dayanıklı türler.
 
@@ -68,4 +68,4 @@ Sivrihisar Dağları'na gitmek için sabah erken yola çıkmanızı öneririm, b
 - Sivrihisar Dağları, çevresindeki ovalardan yaklaşık 500-600 metre yükseklikte yükselir.
 - Dağların en yüksek noktası 1.703 metre ile İdris Dağı'dır.
 - Sivrihisar Dağları, jeolojik açıdan Paleozoyi ve Mezozoyik dönemlere ait kayaçlardan oluşur.
-- Bu dağların eteklerinde, histórik Sivrihisar kenti ve çevresindeki köyler bulunur.
+- Bu dağların eteklerinde, tarihi Sivrihisar kenti ve çevresindeki köyler bulunur.

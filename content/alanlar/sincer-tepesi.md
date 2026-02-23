@@ -29,7 +29,7 @@ wikidata_id: "Q31506543"
 
 # Sincer Tepesi
 
-Sincer Tepesi, Hatay ilinin güzide bir noktası olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşit. Tepenin yüksekliği ise 500 metre civarında. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Sincer Tepesi, hem yerli hem de yabancı turistler için önemli bir gezi noktası olarak biliniyor. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla dikkat çekiyor.
+Sincer Tepesi, Hatay ilinin güzide bir noktası olarak karşımıza çıkıyor. Tepenin yüksekliği ise 500 metre civarında. Bu yükseklik, ziyaretçilere geniş bir manzara sunuyor. Sincer Tepesi, hem yerli hem de yabancı turistler için önemli bir gezi noktası olarak biliniyor. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla dikkat çekiyor.
 
 ## Tarihçe
 

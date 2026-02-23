@@ -1,7 +1,7 @@
 ---
 title: "Adakale Hamamı"
 date: "2026-01-09T22:14:40.040Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kars Oblastı"
@@ -29,15 +29,15 @@ wikidata_id: "Q124024458"
 
 # Adakale Hamamı
 
-Adakale Hamamı, Ardanuç'un büyüleyici bir köşesinde yer alan, 140 hektarlık bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın muhteşem güzelliği ile karşılar. Doğal kaynakların zenginliği, bu bölgeyi çekici bir yer haline getirir. Ziyaretçiler, burada yer alan hamamın tarihi ve kültürel önemi hakkında bilgi edinebilirler. Adakale Hamamı, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor.
+Adakale Hamamı, Ardanuç'un büyüleyici bir köşesinde yer alan, 140 hektarlık bir alana sahiptir. Doğal kaynakların zenginliği, bu bölgeyi çekici bir yer haline getirir. Ziyaretçiler, burada yer alan hamamın tarihi ve kültürel önemi hakkında bilgi edinebilirler. Adakale Hamamı, ziyaretçilerini doğayla iç içe bir deneyime davet ediyor.
 
 ## Tarihçe
 
-Adakale Hamamı, tarihi geçmişiyle dikkat çeker. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak bilinir. Hamamın tarihi hakkında bilgiler bulunmasa da, bölgenin kültürel mirası ziyaretçileri etkileyen bir expérience sunar. Ziyaretçiler, burada yer alan tarihi yapılar ve kalıntılar hakkında bilgi edinebilirler. Adakale Hamamı, ziyaretçilerini tarihin derinliklerine götürerek, bir zaman yolculuğuna çıkarıyor. Bu bölge, tarihi ve kültürel zenginliğiyle ziyaretçilerini büyülemektedir.
+Adakale Hamamı, tarihi geçmişiyle dikkat çeker. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak bilinir. Hamamın tarihi hakkında bilgiler bulunmasa da, bölgenin kültürel mirası ziyaretçileri etkileyen bir deneyim sunar. Ziyaretçiler, burada yer alan tarihi yapılar ve kalıntılar hakkında bilgi edinebilirler. Adakale Hamamı, ziyaretçilerini tarihin derinliklerine götürerek, bir zaman yolculuğuna çıkarıyor. Bu bölge, tarihi ve kültürel zenginliğiyle ziyaretçilerini büyülemektedir.
 
 ## Coğrafya
 
-Adakale Hamamı, Ardanuç'un coğrafi güzelliklerine ev sahipliği yapar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. İklim, ziyaretçilerin doğayı keşfetmesine elverişli bir ortam sunar. Adakale Hamamı, ziyaretçilerini doğayla baş başa bırakarak, bir doğa deneyimi sunar. Bu bölge, coğrafi güzelliği ve doğal kaynaklarının zenginliğiyle dikkat çeker. Ziyaretçiler, burada yer alan doğal güzellikleri keşfederek, doğanın güzelliğini yaşayabilirler.
+Adakale Hamamı, Ardanuç'un coğrafi güzelliklerine ev sahipliği yapar. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. İklim, ziyaretçilerin doğayı keşfetmesine elverişli bir ortam sunar. Adakale Hamamı, ziyaretçilerini doğayla baş başa bırakarak, bir doğa deneyimi sunar. Bu bölge, coğrafi güzelliği ve doğal kaynaklarının zenginliğiyle dikkat çeker. Ziyaretçiler, burada yer alan doğal güzellikleri keşfederek, doğanın güzelliğini yaşayabilirler.
 
 ## Flora ve Fauna
 

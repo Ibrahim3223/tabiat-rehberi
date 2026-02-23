@@ -28,7 +28,7 @@ wikidata_id: "Q31552246"
 
 # Golakelem Tepesi
 
-Golakelem Tepesi, Mardin ilinin güzide bir noktası olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin zengin tarihi ve doğal güzelliğini bir arada sunan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tarihi geçmişiyle önemli bir konumda bulunan Golakelem Tepesi, ziyaretçilerini bekliyor. Bu tepenin güzelliği, sadece doğal yapısıyla değil, aynı zamanda tarihi önemini korumasıyla da ön plana çıkıyor.
+Golakelem Tepesi, Mardin ilinin güzide bir noktası olarak dikkat çekiyor. Tarihi geçmişiyle önemli bir konumda bulunan Golakelem Tepesi, ziyaretçilerini bekliyor. Bu tepenin güzelliği, sadece doğal yapısıyla değil, aynı zamanda tarihi önemini korumasıyla da ön plana çıkıyor.
 
 ## Tarihçe
 

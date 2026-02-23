@@ -37,7 +37,7 @@ Kars bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sah
 
 Türkiye'de, baraj gölleri gibi doğal alanlar, insan yaşamı için önemli kaynaklar olmuştur. Bu alanlar, insanların su ihtiyacını karşılamış, tarımı desteklemiş ve ekonomiye katkıda bulunmuştur. Ayrıca, bu bölgeler, göçerlerin ve çobanların hayvanlarını otlatmak için kullandıkları yaylaklar olarak da hizmet vermiştir.
 
-Kars bölgesinde, Arpaçay Baraj Gölü gibi doğal alanlar, insanların yaşamlarında önemli bir yer tutmaktadır. Bu göl, yalnızca yerel halkın değil, aynı zamanda bölgeyi ziyaret edenlerin de ilgisini çekmektedir. İnsanların bu alanla ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyaldır. Bu bölge, ticaret yolları ve histórik yerleşim yerleri açısından da önemlidir.
+Kars bölgesinde, Arpaçay Baraj Gölü gibi doğal alanlar, insanların yaşamlarında önemli bir yer tutmaktadır. Bu göl, yalnızca yerel halkın değil, aynı zamanda bölgeyi ziyaret edenlerin de ilgisini çekmektedir. İnsanların bu alanla ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyaldır. Bu bölge, ticaret yolları ve tarihi yerleşim yerleri açısından da önemlidir.
 
 ## Coğrafya
 
@@ -51,8 +51,8 @@ Arpaçay Baraj Gölü, çevresindeki dağların eteklerinde yer alıyor ve bu da
 
 ## Flora ve Fauna
 
-Arpaçay Baraj Gölü, Kars'ın yüksek dağ ekolojisinin içinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-1. Bitki Örtüsü: İlkbaharın gelmesiyle birlikte, gölün etrafındaki alpin çayırlar rengarenk çiçeklerle donanır. Bu mevsimde, sulak alan bitkileri gölün su seviyesine bağlı olarak değişen bir görünüm sunar. 
+Arpaçay Baraj Gölü, Kars'ın yüksek dağ ekolojisinin içinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+1. Bitki Örtüsü: İlkbaharın gelmesiyle birlikte, gölün etrafındaki alpin çayırlar rengarenk çiçeklerle donanır. Bu mevsimde, sulak alan bitkileri gölün su seviyesine bağlı olarak değişen bir görünüm sunar.
 2. Yaban Hayatı: Su kuşları ve balıklar gölün ekosisteminin temel bileşenleridir. Sonbaharda, göç eden kuşlar gölün üzerinde konaklar, bu sırada memeliler ve sürüngenler de gölün etrafındaki yaşam alanlarını paylaşır.
 3. Ekolojik Değer: Arpaçay Baraj Gölü, yüksek dağ ekolojisi ve endemik türler açısından önemli bir ekosistemdir. Bu alanın korunması, su kuşları ve balıkların yaşamlarını sürdürmesi içinHayvanların yaşam alanlarını koruma altına almak önemlidir.
 

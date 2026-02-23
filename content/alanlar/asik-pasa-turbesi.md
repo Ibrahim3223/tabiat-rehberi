@@ -1,7 +1,7 @@
 ---
 title: "Aşık Paşa Türbesi"
 date: "2026-01-10T04:49:58.638Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırşehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q96372899"
 
 # Aşık Paşa Türbesi
 
-Aşık Paşa Türbesi, Kırşehir'in merkezinde bulunan ve tarih boyunca önemli bir cultural merkez olarak kabul edilen bir türbedir. 13. yüzyılda yapılan bu türbe, aynı zamanda bir yeşil alan olarak da hizmet vermektedir. Türbenin etrafındaki 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle dolu. Bu yeşil alan, hem Kırşehir'in hem de türbenin güzelliğini artırmaktadır. Aşık Paşa Türbesi, sadece dini açıdan değil, aynı zamanda mimari ve tarihi açıdan da önemli bir yapıdır. Türbenin mimarisi, Selçuklu dönemi mimari özelliklerini taşır ve bu dönemin en güzel örneklerinden biridir.
+Aşık Paşa Türbesi, Kırşehir'in merkezinde bulunan ve tarih boyunca önemli bir cultural merkez olarak kabul edilen bir türbedir. 13. yüzyılda yapılan bu türbe, aynı zamanda bir yeşil alan olarak da hizmet vermektedir. Bu yeşil alan, hem Kırşehir'in hem de türbenin güzelliğini artırmaktadır. Aşık Paşa Türbesi, sadece dini açıdan değil, aynı zamanda mimari ve tarihi açıdan da önemli bir yapıdır. Türbenin mimarisi, Selçuklu dönemi mimari özelliklerini taşır ve bu dönemin en güzel örneklerinden biridir.
 
 ## Tarihçe
 

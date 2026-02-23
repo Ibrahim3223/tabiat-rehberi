@@ -28,7 +28,7 @@ wikidata_id: "Q31548283"
 
 # Cevnot Tepesi
 
-Cevnot Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde bulunan ve tarihi geçmişiyle dikkat çeken bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini etkileyen bir doğal güzelliğe sahip. Tepenin bulunduğu bölge, zengin flora ve faunaya ev sahipliği yapıyor. Cevnot Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve hayvanlar bulunmakla birlikte, bu bölgeyi özel kılan unsur, tarihi geçmişi ve kültürel önemidir.
+Cevnot Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde bulunan ve tarihi geçmişiyle dikkat çeken bir tepe. Tepenin bulunduğu bölge, zengin flora ve faunaya ev sahipliği yapıyor. Cevnot Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve hayvanlar bulunmakla birlikte, bu bölgeyi özel kılan unsur, tarihi geçmişi ve kültürel önemidir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Cevnot Tepesi, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış 
 
 ## Coğrafya
 
-Cevnot Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi farklılıklarıyla dikkat çeken bir bölgede yer alıyor. Bu bölge, dağlar, ovalar ve platolarla çevrili bir coğrafi yapıya sahip. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar encontrabilir. Cevnot Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve coğrafi konumu, burayı bir gözlem noktası haline getiriyor. Ziyaretçiler, tepeye çıktıklarında, çevreyi panoramik olarak görebiliyorlar. Cevnot Tepesi'nin coğrafi konumu, çevresindeki dağlarla ve ovalarla bir bütün olarak değerlendirildiğinde, bu bölgenin doğal güzelliği daha da dikkat çekici hale geliyor.
+Cevnot Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi farklılıklarıyla dikkat çeken bir bölgede yer alıyor. Bu bölge, dağlar, ovalar ve platolarla çevrili bir coğrafi yapıya sahip. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar encontrabilir. Tepenin yüksekliği ve coğrafi konumu, burayı bir gözlem noktası haline getiriyor. Ziyaretçiler, tepeye çıktıklarında, çevreyi panoramik olarak görebiliyorlar. Cevnot Tepesi'nin coğrafi konumu, çevresindeki dağlarla ve ovalarla bir bütün olarak değerlendirildiğinde, bu bölgenin doğal güzelliği daha da dikkat çekici hale geliyor.
 
 ## Flora ve Fauna
 

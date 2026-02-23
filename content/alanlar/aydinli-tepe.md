@@ -46,7 +46,7 @@ Doğal su kaynakları ve ekosistem bağlantıları açısından, Aydınlı Tepe'
 
 ## Flora ve Fauna
 
-Aydınlı Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Dağın yükseklik zonları, mevsimsel değişimlere göre farklı bir görünüm sunuyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. 
+Aydınlı Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Dağın yükseklik zonları, mevsimsel değişimlere göre farklı bir görünüm sunuyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor.
 
 Bu bölgede, step ve ova ekolojisinin karakteristik bitkileri hakim. Dağın daha yüksek kesimlerinde, alpin flora çeşitliliği dikkat çekiyor. Bu dağ ekosisteminde, memeliler, kuşlar ve sürüngenler yaşamını sürdürüyor. Kış aylarında, bazı kuş türleri bölgeyi terk ederek daha güneye göç ediyor. Bu ekosistem, birbirine bağımlı canlıların yaşam alanı olarak önemli bir rol oynuyor. Koruma altına alınması gereken bu doğal alan, bölgenin ekolojik dengesini korumak için büyük önem taşıyor.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227234"
 
 # Balikesir-Cataldag Kayin
 
-Balikesir-Cataldag Kayin, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna ile dikkat çekiyor. Bu doğal alan, doğa severlerin ve macera arayışında olanların ziyaret etmesi gereken bir yer. Milli park, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunuyor.
+Balikesir-Cataldag Kayin, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu doğal alan, doğa severlerin ve macera arayışında olanların ziyaret etmesi gereken bir yer. Milli park, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Balikesir-Cataldag Kayin'in tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Balikesir-Cataldag Kayin, İç Anadolu Bölgesi'nin coğrafi olarak çeşitli bir bölgede yer alıyor. Milli park, 140 hektarlık alan ile yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna ile dikkat çekiyor. Bu bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçilere dört mevsim boyunca çeşitli deneyimler sunuyor. Coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor ve milli park, bir doğa harikası olarak dikkat çekiyor.
+Balikesir-Cataldag Kayin, İç Anadolu Bölgesi'nin coğrafi olarak çeşitli bir bölgede yer alıyor. Bu bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçilere dört mevsim boyunca çeşitli deneyimler sunuyor. Coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor ve milli park, bir doğa harikası olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

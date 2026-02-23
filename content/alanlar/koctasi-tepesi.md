@@ -28,7 +28,7 @@ wikidata_id: "Q32200886"
 
 # Koçtaşı Tepesi
 
-Koçtaşı Tepesi, Yozgat'ın güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ki, bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde önemli bir yer tutan Koçtaşı Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor. Tepenin eteklerinde ve etrafında kurulmuş olan yerleşim yerleri, bu doğal alanla iç içe bir yaşam sunuyor. Koçtaşı Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor.
+Koçtaşı Tepesi, Yozgat'ın güzide noktalarından biri olarak karşımıza çıkıyor. İç Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde önemli bir yer tutan Koçtaşı Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor. Tepenin eteklerinde ve etrafında kurulmuş olan yerleşim yerleri, bu doğal alanla iç içe bir yaşam sunuyor. Koçtaşı Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor.
 
 ## Tarihçe
 

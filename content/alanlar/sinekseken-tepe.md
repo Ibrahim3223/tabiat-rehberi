@@ -28,7 +28,7 @@ wikidata_id: "Q31385450"
 
 # Sinekseken Tepe
 
-Sinekseken Tepe, Kilis ilinin güzide noktalarından biri olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin önemli coğrafik oluşumlarından biri olan bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile bölge için önemli bir doğal alan teşkil ediyor. Sinekseken Tepe, ziyaretçilerini bölge hakkında detaylı bilgi sahibi olmaya davet ediyor. Bu tepe, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini bekliyor.
+Sinekseken Tepe, Kilis ilinin güzide noktalarından biri olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin önemli coğrafik oluşumlarından biri olan bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor. Sinekseken Tepe, ziyaretçilerini bölge hakkında detaylı bilgi sahibi olmaya davet ediyor. Bu tepe, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

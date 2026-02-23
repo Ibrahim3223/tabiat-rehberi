@@ -48,9 +48,9 @@ Mevsimsel değişikliklere göre iklim karakteri değişen Atlas Dağı, yaz ayl
 
 ## Flora ve Fauna
 
-Atlas Dağı, doğu Akdeniz bölgesinin en önemli dağ ekosistemlerinden birini barındırıyor. 1200 metre yükseklikte, maki bitki örtüsünün hakim olduğu bu dağ, kuraklığa dayanıklı türlerin yaşadığı bir cennet. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor. 
+Atlas Dağı, doğu Akdeniz bölgesinin en önemli dağ ekosistemlerinden birini barındırıyor. 1200 metre yükseklikte, maki bitki örtüsünün hakim olduğu bu dağ, kuraklığa dayanıklı türlerin yaşadığı bir cennet. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri ve dağ kedileri, bu dağların yükseklik zonlarında yaşamlarını sürdürüyor. Göç mevsiminde, dağların üstünden geçen kuş sürüleri, bu bölgenin ekolojik önemini vurguluyor. Sürüngenler de bu dağların kayalık alanlarında yaşamlarını sürdürüyor. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri ve dağ kedileri, bu dağların yükseklik zonlarında yaşamlarını sürdürüyor. Göç mevsiminde, dağların üstünden geçen kuş sürüleri, bu bölgenin ekolojik önemini vurguluyor. Sürüngenler de bu dağların kayalık alanlarında yaşamlarını sürdürüyor.
 
 Atlas Dağı'nın ekolojik değeri, yükseklik zonlarına bağlı olarak değişen flora ve faunayla birlikte, bölge ekosisteminin dengesini korumasında yatıyor. Bu dağ, bölgenin su döngüsünü ve toprak sağlığını da etkileyen önemli bir bileşen.
 

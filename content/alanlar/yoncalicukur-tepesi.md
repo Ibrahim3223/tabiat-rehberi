@@ -28,7 +28,7 @@ wikidata_id: "Q32195262"
 
 # Yoncalıçukur Tepesi
 
-Yoncalıçukur Tepesi, Adana'nın güzelliklerini keşfedeceğiniz bir nokta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu tepe, notonly doğal güzellikleri ile dikkat çekiyor, aynı zamanda ziyaretçilerine farklı deneyimlerde bulunma fırsatı sunuyor. Yoncalıçukur Tepesi, özellikle doğa severler için önemli bir destinasyon.
+Yoncalıçukur Tepesi, Adana'nın güzelliklerini keşfedeceğiniz bir nokta. Bu tepe, notonly doğal güzellikleri ile dikkat çekiyor, aynı zamanda ziyaretçilerine farklı deneyimlerde bulunma fırsatı sunuyor. Yoncalıçukur Tepesi, özellikle doğa severler için önemli bir destinasyon.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31534070"
 
 # Deliklitaş Tepesi
 
-Deliklitaş Tepesi, Gaziantep'in görkemli manzarasına ev sahipliği yapan bir doğal oluşum. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Doğa severler için bir cennet olan Deliklitaş Tepesi, ziyaretçilerini büyüleyici bir güzelliğe davet eder. Tepenin etrafında yer alan köyler ve kasabalar, yerel kültürü deneyimlemek için ideal birer nokta.
+Deliklitaş Tepesi, Gaziantep'in görkemli manzarasına ev sahipliği yapan bir doğal oluşum. Doğa severler için bir cennet olan Deliklitaş Tepesi, ziyaretçilerini büyüleyici bir güzelliğe davet eder. Tepenin etrafında yer alan köyler ve kasabalar, yerel kültürü deneyimlemek için ideal birer nokta.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hançeri Güzar Türbesi"
 date: "2026-01-10T05:19:43.789Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391731"
 
 # Hançeri Güzar Türbesi
 
-Hançeri Güzar Türbesi, Diyarbakır'ın Sur ilçesinde bulunan ve tarihi geçmişi ile dikkat çeken önemli bir mekan. Bu alan, yaklaşık 140 hektarlık bir bölgeyi kapsıyor ve ziyaretçilerini geniş ve yeşil bir ortamda ağırlıyor. Hançeri Güzar Türbesi, Diyarbakır'ın tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyon. Bölge, zengin tarihi ve doğal güzellikleriyle ziyaretçilerini bekliyor. Hançeri Güzar Türbesi, Diyarbakır'ın önemli mekanlarından biri ve ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Hançeri Güzar Türbesi, Diyarbakır'ın Sur ilçesinde bulunan ve tarihi geçmişi ile dikkat çeken önemli bir mekan. Hançeri Güzar Türbesi, Diyarbakır'ın tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyon. Bölge, zengin tarihi ve doğal güzellikleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hançeri Güzar Türbesi, tarihi geçmişi ile dikkat çeken bir mekan. Bu türb
 
 ## Coğrafya
 
-Hançeri Güzar Türbesi, Diyarbakır'ın Sur ilçesinde bulunuyor. Bu mekan, yaklaşık 140 hektarlık bir bölgeyi kapsıyor ve ziyaretçilerini geniş ve yeşil bir ortamda ağırlıyor. Hançeri Güzar Türbesi, Diyarbakır'ın coğrafi özellikleri ile dikkat çekiyor. Bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip ve ziyaretçilerine zengin bir doğal güzellik sunuyor. Hançeri Güzar Türbesi, çevresindeki dağlar ve ovalar ile birlikte bir bütün olarak düşünülüyor. Bu mekan, Diyarbakır'ın coğrafi çeşitliliği ile dikkat çekiyor ve ziyaretçilerine unutulmaz bir deneyim vaat ediyor. Hançeri Güzar Türbesi, bölgenin iklimi ve coğrafi özellikleri ile birlikte değerlendiriliyor. Bu mekan, ziyaretçilerine zengin bir doğal güzelli ve coğrafi çeşitlilik sunuyor.
+Hançeri Güzar Türbesi, Diyarbakır'ın Sur ilçesinde bulunuyor. Bu mekan, yaklaşık 140 hektarlık bir bölgeyi kapsıyor ve ziyaretçilerini geniş ve yeşil bir ortamda ağırlıyor. Hançeri Güzar Türbesi, Diyarbakır'ın coğrafi özellikleri ile dikkat çekiyor. Bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip ve ziyaretçilerine zengin bir doğal güzellik sunuyor. Hançeri Güzar Türbesi, çevresindeki dağlar ve ovalar ile birlikte bir bütün olarak düşünülüyor. Hançeri Güzar Türbesi, bölgenin iklimi ve coğrafi özellikleri ile birlikte değerlendiriliyor. Bu mekan, ziyaretçilerine zengin bir doğal güzelli ve coğrafi çeşitlilik sunuyor.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Hançeri Güzar Türbesi, zengin bir flora ve fauna çeşitliliğine sahip. Bu m
 
 ## Ziyaret Bilgileri
 
-Hançeri Güzar Türbesi, ziyaretçilerine zengin bir deneyim vaat ediyor. Bu mekan, Diyarbakır'ın tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyon. Hançeri Güzar Türbesi, ziyaretçilerine unutulmaz bir deneyim sunuyor. Bu mekan, Diyarbakır'ın coğrafi özellikleri ile birlikte değerlendiriliyor. Hançeri Güzar Türbesi, çevresindeki dağlar ve ovalar ile birlikte bir bütün olarak düşünülüyor. Bu mekan, ziyaretçilerine zengin bir doğal güzelli ve coğrafi çeşitlilik sunuyor. Hançeri Güzar Türbesi, bölgenin iklimi ve coğrafi özellikleri ile birlikte değerlendiriliyor. Bu mekan, ziyaretçilerine zengin bir doğal güzelli ve coğrafi çeşitlilik sunuyor.
+Hançeri Güzar Türbesi, ziyaretçilerine zengin bir deneyim vaat ediyor. Bu mekan, Diyarbakır'ın tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyon. Bu mekan, Diyarbakır'ın coğrafi özellikleri ile birlikte değerlendiriliyor. Hançeri Güzar Türbesi, çevresindeki dağlar ve ovalar ile birlikte bir bütün olarak düşünülüyor. Bu mekan, ziyaretçilerine zengin bir doğal güzelli ve coğrafi çeşitlilik sunuyor. Hançeri Güzar Türbesi, bölgenin iklimi ve coğrafi özellikleri ile birlikte değerlendiriliyor. Bu mekan, ziyaretçilerine zengin bir doğal güzelli ve coğrafi çeşitlilik sunuyor.
 
 ## İlginç Bilgiler
 

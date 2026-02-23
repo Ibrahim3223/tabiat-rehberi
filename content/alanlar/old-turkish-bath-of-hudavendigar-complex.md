@@ -28,7 +28,7 @@ wikidata_id: "Q64699411"
 
 # Old Turkish Bath of Hüdavendigar Complex
 
-İç Anadolu Bölgesi, tarihi ve kültürel zenginlikleriyle dikkat çeken bir bölgedir. Bu bölgede bulunan Old Turkish Bath of Hüdavendigar Complex, 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkarır. Eski Türk hamamının mimarisi, geleneksel Türk motifleri ve süslemeleriyle dikkat çeker. Ziyaretçiler, bu tarihi eseri gezerek, Türk kültürü ve tarihi hakkında derinlemesine bilgi edinebilirler.
+İç Anadolu Bölgesi, tarihi ve kültürel zenginlikleriyle dikkat çeken bir bölgedir. Bu bölgede bulunan Old Turkish Bath of Hüdavendigar Complex, 140 hektarlık bir alan üzerinde kurulmuştur. Eski Türk hamamının mimarisi, geleneksel Türk motifleri ve süslemeleriyle dikkat çeker. Ziyaretçiler, bu tarihi eseri gezerek, Türk kültürü ve tarihi hakkında derinlemesine bilgi edinebilirler.
 
 ## Tarihçe
 

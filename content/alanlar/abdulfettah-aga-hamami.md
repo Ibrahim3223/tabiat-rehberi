@@ -1,7 +1,7 @@
 ---
 title: "Abdülfettah Ağa Hamamı"
 date: "2026-01-09T23:15:24.666Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,15 +29,15 @@ wikidata_id: "Q131738958"
 
 # Abdülfettah Ağa Hamamı
 
-Abdülfettah Ağa Hamamı, Muğla'nın Milas ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. Bu bölge, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken Abdülfettah Ağa Hamamı, hem yerel halk hem de turistler için önemli bir gezi noktasıdır. Bu alan, Ege Bölgesi'nin zengin kültürel mirasının bir parçası olarak kabul edilir ve ziyaretçilerini tarih ve doğa ile baş başa bırakır.
+Abdülfettah Ağa Hamamı, Muğla'nın Milas ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken Abdülfettah Ağa Hamamı, hem yerel halk hem de turistler için önemli bir gezi noktasıdır. Bu alan, Ege Bölgesi'nin zengin kültürel mirasının bir parçası olarak kabul edilir ve ziyaretçilerini tarih ve doğa ile baş başa bırakır.
 
 ## Tarihçe
 
-Abdülfettah Ağa Hamamı'nın tarihi geçmişi, bölgeye yerleşen ilk insanlara kadar uzanır. Bu région, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bölgenin kültürel mirasına katkıda bulunmuştur. Hamam, tarihi boyunca birçok kez restore edilmiş ve günümüze kadar ulaşmıştır. Abdülfettah Ağa Hamamı, sadece bir tarihi yapı değil, aynı zamanda bir kültürel simge olarak da kabul edilir. Bu hamam, bölgenin tarihi ve kültürel zenginliğini yansıtan önemli bir yapıttır. Ziyaretçiler, Abdülfettah Ağa Hamamı'nı gezdiklerinde, bölgenin tarihi geçmişini ve kültürel mirasını yakından keşfetme fırsatı bulurlar.
+Abdülfettah Ağa Hamamı'nın tarihi geçmişi, bölgeye yerleşen ilk insanlara kadar uzanır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bölgenin kültürel mirasına katkıda bulunmuştur. Hamam, tarihi boyunca birçok kez restore edilmiş ve günümüze kadar ulaşmıştır. Abdülfettah Ağa Hamamı, sadece bir tarihi yapı değil, aynı zamanda bir kültürel simge olarak da kabul edilir. Bu hamam, bölgenin tarihi ve kültürel zenginliğini yansıtan önemli bir yapıttır. Ziyaretçiler, Abdülfettah Ağa Hamamı'nı gezdiklerinde, bölgenin tarihi geçmişini ve kültürel mirasını yakından keşfetme fırsatı bulurlar.
 
 ## Coğrafya
 
-Abdülfettah Ağa Hamamı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin güneşli ve sıcak ikliminin hüküm sürdüğü bir bölgede yer alır. Bu bölge, 180 hektarlık bir yeşil alanın içerisinde yer alır ve yaklaşık 300 futbol sahası büyüklüğünde bir alanı kaplar. Hamam, deniz kıyısına yakın bir konumda bulunur ve plaj alanı olarak da kullanılan bu bölge, ziyaretçilere hem tarihi bir hamam hem de güzel bir plaj deneyimi sunar. Bölge, zengin flora ve fauna ile çevrilidir ve çeşitli bitki türleri ile yaban hayatı barındırır. Abdülfettah Ağa Hamamı ve çevresinin coğrafi yapısı, ziyaretçilere doğa ile baş başa kalma fırsatı sunar. Deniz, kum ve güneş, bu bölgenin güzelliğini completa eden önemli unsurlardır.
+Abdülfettah Ağa Hamamı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin güneşli ve sıcak ikliminin hüküm sürdüğü bir bölgede yer alır. Hamam, deniz kıyısına yakın bir konumda bulunur ve plaj alanı olarak da kullanılan bu bölge, ziyaretçilere hem tarihi bir hamam hem de güzel bir plaj deneyimi sunar. Bölge, zengin flora ve fauna ile çevrilidir ve çeşitli bitki türleri ile yaban hayatı barındırır. Abdülfettah Ağa Hamamı ve çevresinin coğrafi yapısı, ziyaretçilere doğa ile baş başa kalma fırsatı sunar. Deniz, kum ve güneş, bu bölgenin güzelliğini completa eden önemli unsurlardır.
 
 ## Flora ve Fauna
 

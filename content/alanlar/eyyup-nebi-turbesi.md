@@ -1,7 +1,7 @@
 ---
 title: "Eyyup Nebi Türbesi"
 date: "2026-01-10T07:18:32.985Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -37,7 +37,7 @@ Eyyup Nebi Türbesi'nin tarihi geçmişi, yüzyılların ötesine uzanıyor. Bu 
 
 ## Coğrafya
 
-Eyyup Nebi Türbesi, Şanlıurfa'nın Eyyübiye ilçesinde, şehir merkezine yakın bir konumda yer alıyor. Bu bölge, coğrafi açıdan zengin bir çeşitlilik sunuyor. Çevresinde yer alan dağlar, ovalar ve nehirler, burayı bir doğa harikası haline getiriyor. İklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor; yazlar sıcak ve kurak, kışlar ise soğuk ve yağışlı geçiyor. Türbenin bulunduğu alan, 140 hektarlık bir arazide kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Çevresi, tarihi ve dini yapılarla dolu ve ziyaretçiler için bir açık hava müzesi harika bir deneyim. Eyyup Nebi Türbesi'nin coğrafi konumu, hem doğal güzellikleri hem de tarihsel önemi bir araya getirmesi açısından özel bir öneme sahip.
+Eyyup Nebi Türbesi, Şanlıurfa'nın Eyyübiye ilçesinde, şehir merkezine yakın bir konumda yer alıyor. Bu bölge, coğrafi açıdan zengin bir çeşitlilik sunuyor. Çevresinde yer alan dağlar, ovalar ve nehirler, burayı bir doğa harikası haline getiriyor. İklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor; yazlar sıcak ve kurak, kışlar ise soğuk ve yağışlı geçiyor. Çevresi, tarihi ve dini yapılarla dolu ve ziyaretçiler için bir açık hava müzesi harika bir deneyim. Eyyup Nebi Türbesi'nin coğrafi konumu, hem doğal güzellikleri hem de tarihsel önemi bir araya getirmesi açısından özel bir öneme sahip.
 
 ## Flora ve Fauna
 

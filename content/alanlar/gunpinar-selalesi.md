@@ -30,7 +30,7 @@ wikidata_id: "Q31189554"
 
 # Günpınar Şelalesi
 
-Günpınar Şelalesi, Malatya'nın Darende ilçesinde bulunan ve Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir şelaledir. 140 hektarlık bir alanı kaplayan bu şelale, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi olarak kabul ediliyor. Şelalenin çevresinde bitki türleri ve zengin fauna found, bu da bölgeyi doğa severler için bir cennet haline getiriyor.
+Günpınar Şelalesi, Malatya'nın Darende ilçesinde bulunan ve Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir şelaledir. Bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi olarak kabul ediliyor. Şelalenin çevresinde bitki türleri ve zengin fauna found, bu da bölgeyi doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Günpınar Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca oluşmuş ve böl
 
 ## Coğrafya
 
-Günpınar Şelalesi, Malatya'nın Darende ilçesinde, Doğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölge, yüksek dağlar, vadiler ve nehirler ile karakterize ediliyor. Şelalenin bulunduğu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna için uygun bir ortam sağlıyor. İklim, karasal iklim özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Bölge, doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çekiyor.
+Günpınar Şelalesi, Malatya'nın Darende ilçesinde, Doğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu bölge, yüksek dağlar, vadiler ve nehirler ile karakterize ediliyor. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna için uygun bir ortam sağlıyor. İklim, karasal iklim özellikleri gösteriyor ve yazları sıcak, kışları soğuk geçiyor. Bölge, doğal güzellikleri ve coğrafi çeşitliliği ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

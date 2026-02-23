@@ -30,7 +30,7 @@ wikidata_id: "Q61076470"
 
 # Bulut Şelalesi
 
-Bulut Şelalesi, Rize'nin Çamlıhemşin ilçesinde, Karadeniz Bölgesi'nin en güzel köşelerinden birinde yer alıyor. Bu şelale, yaklaşık 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan içinde gizli. Şelalenin güzelliği, özellikle ilkbahar ve yaz aylarında, çevredeki bitkilerin ve ağaçların yeşillenmesiyle birlikte daha da artıyor. Bulut Şelalesi, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennet.
+Bulut Şelalesi, Rize'nin Çamlıhemşin ilçesinde, Karadeniz Bölgesi'nin en güzel köşelerinden birinde yer alıyor. Şelalenin güzelliği, özellikle ilkbahar ve yaz aylarında, çevredeki bitkilerin ve ağaçların yeşillenmesiyle birlikte daha da artıyor. Bulut Şelalesi, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennet.
 
 ## Tarihçe
 

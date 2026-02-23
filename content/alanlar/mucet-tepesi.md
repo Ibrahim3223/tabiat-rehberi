@@ -28,7 +28,7 @@ wikidata_id: "Q31386362"
 
 # Mucet Tepesi
 
-Mucet Tepesi, Gaziantep'in sınırları içinde yer alan ve Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan bir tepedir. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından birini oluşturur. Mucet Tepesi, ziyaretçilerini bölgeye özgü zengin bitki örtüsü ve çeşitli hayvan türleri ile karşılaşmaya davet eder. Tepenin eteklerinde ve zirvesinde yer alan yürüyüş yolları, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
+Mucet Tepesi, Gaziantep'in sınırları içinde yer alan ve Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan bir tepedir. Mucet Tepesi, ziyaretçilerini bölgeye özgü zengin bitki örtüsü ve çeşitli hayvan türleri ile karşılaşmaya davet eder. Tepenin eteklerinde ve zirvesinde yer alan yürüyüş yolları, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
 
 ## Tarihçe
 

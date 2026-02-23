@@ -28,7 +28,7 @@ wikidata_id: "Q31390947"
 
 # Sızgıdağı Tepesi
 
-Sızgıdağı Tepesi, Kayseri'nin görece yüksek noktalarından biri olarak, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Sızgıdağı Tepesi, özellikle doğa severler ve manzara tutkunları için bir cennet niteliğindedir. Ziyaretçiler, tepeye tırmanırken, etraflarındaki doğayı ve manzaraları izleme fırsatı bulurlar.
+Sızgıdağı Tepesi, Kayseri'nin görece yüksek noktalarından biri olarak, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Sızgıdağı Tepesi, özellikle doğa severler ve manzara tutkunları için bir cennet niteliğindedir. Ziyaretçiler, tepeye tırmanırken, etraflarındaki doğayı ve manzaraları izleme fırsatı bulurlar.
 
 ## Tarihçe
 

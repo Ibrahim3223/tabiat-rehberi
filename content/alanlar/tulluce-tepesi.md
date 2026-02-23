@@ -28,7 +28,7 @@ wikidata_id: "Q34816146"
 
 # Tüllüce Tepesi
 
-Tüllüce Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası. 140 hektarlık bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğayla baş başa kalmaya davet ediyor. Tüllüce Tepesi, Ankara'nın önemli doğal alanlarından biri olarak, hem yerli hem de yabancı ziyaretçilerin ilgisini çekiyor. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere unutulmaz bir deneyim sunuyor.
+ 140 hektarlık bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğayla baş başa kalmaya davet ediyor. Tüllüce Tepesi, Ankara'nın önemli doğal alanlarından biri olarak, hem yerli hem de yabancı ziyaretçilerin ilgisini çekiyor. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -48,7 +48,7 @@ Jeolojik açıdan incelendiğinde, Palulu Dağı'nın yapısı hakkında detayl�
 
 ## Flora ve Fauna
 
-Palulu Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Palulu Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne baktığımızda, ilkbahar aylarında dağ yamaçlarını renklendiren çiçekler görüyoruz. Alpin çayırlar, bölgenin karakteristik özelliklerini taşıyor. Yükseklik zonlarına bağlı olarak değişen bitki türleri, bu dağ ekosisteminin çeşitliliğini gösteriyor.
 

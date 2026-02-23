@@ -23,7 +23,7 @@ wikidata_id: "Q108227806"
 
 # Çakalli
 
-İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alana yayılmış olan Çakalli, bir doğa harikasıdır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Çakalli, bölgenin coğrafi özelliklerini yansıtan bir milli park olarak, ziyaretçilerine eşsiz bir deneyim sunuyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor.
+İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alana yayılmış olan Çakalli, bir doğa harikasıdır. Çakalli, bölgenin coğrafi özelliklerini yansıtan bir milli park olarak, ziyaretçilerine eşsiz bir deneyim sunuyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ wikidata_id: "Q108227806"
 
 ## Coğrafya
 
-Çakalli, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir milli parktır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal bir iklimi vardır. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak geçer. Çakalli, coğrafi konumu itibariyle, ziyaretçilerine çeşitli manzaralar sunuyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Çakalli'nin coğrafi yapısı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor.
+Çakalli, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir milli parktır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal bir iklimi vardır. Kışları soğuk ve kar yağışlı, yazları ise sıcak ve kurak geçer. Çakalli, coğrafi konumu itibariyle, ziyaretçilerine çeşitli manzaralar sunuyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Çakalli'nin coğrafi yapısı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

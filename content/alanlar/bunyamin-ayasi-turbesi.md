@@ -1,7 +1,7 @@
 ---
 title: "Bünyamin Ayaşi Türbesi"
 date: "2026-01-10T05:42:33.429Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582358"
 
 # Bünyamin Ayaşi Türbesi
 
-Bünyamin Ayaşi Türbesi, Ankara'nın Ayaş ilçesinde yer alan tarihi bir mekan ve plajdır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte bir alanı kaplıyor. Bu türbe ve plaj, İç Anadolu Bölgesi'nin en güzel doğal güzelliklerinden biridir. Tarihi ve doğal güzelliği bir arada sunan Bünyamin Ayaşi Türbesi, ziyaretçiler için gerçek bir keşif noktasıdır.
+Bünyamin Ayaşi Türbesi, Ankara'nın Ayaş ilçesinde yer alan tarihi bir mekan ve plajdır. Bu türbe ve plaj, İç Anadolu Bölgesi'nin en güzel doğal güzelliklerinden biridir. Tarihi ve doğal güzelliği bir arada sunan Bünyamin Ayaşi Türbesi, ziyaretçiler için gerçek bir keşif noktasıdır.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bünyamin Ayaşi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliği
 ## İlginç Bilgiler
 
 - Bünyamin Ayaşi Türbesi, Ayaş'ın en önemli tarihi mekanlarından biridir.
-- Türbenin bulunduğu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bu bölgenin coğrafi yapısı, geniş ovalar, dağlar ve nehirler ile karakterizedir.
 - Bünyamin Ayaşi Türbesi, ziyaretçilere hem tarihi hem de doğal güzelliği sunuyor.
 - Bu bölgede, birçok bitki türü ve hayvan yaşamaktadır.

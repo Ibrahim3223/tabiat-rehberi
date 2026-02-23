@@ -28,7 +28,7 @@ wikidata_id: "Q31386981"
 
 # Polot Tepesi
 
-Polot Tepesi, Trabzon'un en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, özellikle doğa severlerin ve fotoğrafçıların ilgi odağı haline gelmiş durumda. Bölgenin yüksekliği ve genişliği, ziyaretçilere eşsiz bir manzara sunuyor. Ayrıca, bu tepe çevresindeki köyler ve kasabalar, geleneksel mimari örneklerini görebileceğiniz önemli yerler.
+Polot Tepesi, Trabzon'un en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu bölge, özellikle doğa severlerin ve fotoğrafçıların ilgi odağı haline gelmiş durumda. Bölgenin yüksekliği ve genişliği, ziyaretçilere eşsiz bir manzara sunuyor. Ayrıca, bu tepe çevresindeki köyler ve kasabalar, geleneksel mimari örneklerini görebileceğiniz önemli yerler.
 
 ## Tarihçe
 

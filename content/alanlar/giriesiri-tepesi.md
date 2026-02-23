@@ -28,7 +28,7 @@ wikidata_id: "Q31386750"
 
 # Girıeşiri Tepesi
 
-Girıeşiri Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Girıeşiri Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle büyülüyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak kabul ediliyor. Girıeşiri Tepesi'ni ziyaret etmek, bu regionun tarihini ve doğasını keşfetmek için mükemmel bir fırsat.
+Girıeşiri Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Girıeşiri Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle büyülüyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak kabul ediliyor. Girıeşiri Tepesi'ni ziyaret etmek, bu regionun tarihini ve doğasını keşfetmek için mükemmel bir fırsat.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Girıeşiri Tepesi'ni ziyaret etmek, bu regionun tarihini ve doğasını keşfet
 ## İlginç Bilgiler
 
 - Girıeşiri Tepesi, 140 hektarlık bir alanı kapsıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Girıeşiri Tepesi, bitki türleri ve zengin fauna tarafından şekilleniyor.
 - Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak kabul ediliyor.
 - Girıeşiri Tepesi, ziyaretçilerini tarihin derinliklerine götürüyor.

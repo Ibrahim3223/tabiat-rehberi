@@ -29,7 +29,7 @@ wikidata_id: "Q134728364"
 
 # Sadyattes II Tümülüsü
 
-Sadyattes II Tümülüsü, Ege Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Salihli, Manisa'da yer alan bu tarihi yapı, Lidya Krallığı'nın önemli bir bölümüdür. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere tarihi bir atmosfer sunar. Sadyattes II Tümülüsü, tarihin izlerini taşıyan bir mekândır ve burayı ziyaret etmek, tarihe yolculuk yapmak gibidir.
+Sadyattes II Tümülüsü, Ege Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Salihli, Manisa'da yer alan bu tarihi yapı, Lidya Krallığı'nın önemli bir bölümüdür. Sadyattes II Tümülüsü, tarihin izlerini taşıyan bir mekândır ve burayı ziyaret etmek, tarihe yolculuk yapmak gibidir.
 
 ## Tarihçe
 

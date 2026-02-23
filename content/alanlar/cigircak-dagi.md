@@ -48,7 +48,7 @@ Mevsimsel olarak, Çığırcak Dağı'nın iklimi Akdeniz bölgesinin karakteris
 
 ## Flora ve Fauna
 
-Çığırcak Dağı, Mersin'in kıyı ekosisteminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çığırcak Dağı, Mersin'in kıyı ekosisteminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, maki bitki örtüsünün hakim olduğu bu dağ, ilkbahar aylarında rengarenk çiçeklerle donanıyor. Kuraklığa dayanıklı türler, dağın yükseklik zonalarında çeşitlilik gösteriyor. Kıyı ekosisteminin etkisi, bitki örtüsünün şekillenmesinde önemli bir rol oynuyor.
 

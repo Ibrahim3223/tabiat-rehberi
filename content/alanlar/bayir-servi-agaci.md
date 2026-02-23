@@ -24,7 +24,7 @@ wikidata_id: "Q108227166"
 
 # Bayır Servi Ağacı
 
-Marmaris'te bulunan Bayır Servi Ağacı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal alan, ziyaretçilerini doğanın içlerine çekerek, şehrin gürültüsünden uzaklaşmaları için mükemmel bir fırsat sunuyor. Bayır Servi Ağacı, Marmaris Millî Parkı içinde yer alıyor ve çevresi çeşitli bitki türleri ile zengin fauna ile dolu. Burada geçirilen zaman, doğa ile iç içe olma ve yaban hayatının güzelliğini keşfetmek anlamına geliyor. Bu bölge, aynı zamanda yürüyüş ve doğa yürüyüşü için ideal bir yer.
+ Bu doğal alan, ziyaretçilerini doğanın içlerine çekerek, şehrin gürültüsünden uzaklaşmaları için mükemmel bir fırsat sunuyor. Bayır Servi Ağacı, Marmaris Millî Parkı içinde yer alıyor ve çevresi çeşitli bitki türleri ile zengin fauna ile dolu. Burada geçirilen zaman, doğa ile iç içe olma ve yaban hayatının güzelliğini keşfetmek anlamına geliyor. Bu bölge, aynı zamanda yürüyüş ve doğa yürüyüşü için ideal bir yer.
 
 ## Tarihçe
 

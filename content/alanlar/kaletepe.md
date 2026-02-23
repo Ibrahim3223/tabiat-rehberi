@@ -29,7 +29,7 @@ wikidata_id: "Q31390221"
 
 # KaleTepe
 
-KaleTepe, Burdur ilinin Akdeniz Bölgesi'nde yer alan bir tepe ve tarihi alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevredeki diğer tepelerden daha yüksek bir konumdadır. KaleTepe'nin tarihi geçmişi, bölgede yaşayan çeşitli uygarlıkların izlerini taşır. Bu tepe, ziyaretçiler için hem tarihi hem de doğal güzelliklerin bir arada olduğu özel bir destinasyondur. KaleTepe'nin manzarası, özellikle gün batımında çok etkileyicidir.
+KaleTepe, Burdur ilinin Akdeniz Bölgesi'nde yer alan bir tepe ve tarihi alandır. KaleTepe'nin tarihi geçmişi, bölgede yaşayan çeşitli uygarlıkların izlerini taşır. Bu tepe, ziyaretçiler için hem tarihi hem de doğal güzelliklerin bir arada olduğu özel bir destinasyondur. KaleTepe'nin manzarası, özellikle gün batımında çok etkileyicidir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ KaleTepe'nin tarihi geçmişi, bölgede yaşayan çeşitli uygarlıkların izler
 
 ## Coğrafya
 
-KaleTepe, Burdur ilinin Akdeniz Bölgesi'nde yer alan bir tepe ve tarihi alandır. Bu alan, 140 hektarlık bir büyüklüğe sahiptir ve çevredeki diğer tepelerden daha yüksek bir konumdadır. KaleTepe'nin coğrafi konumu, ziyaretçiler için önemli bir çekim noktasıdır. Tepe, özellikle gün batımında çok etkileyici bir manzaraya sahiptir. Çevredeki diğer tepeler ve vadiler, KaleTepe'nin doğal güzelliğini daha da artırır. Bu tepe, ziyaretçiler için hem tarihi hem de doğal güzelliklerin bir arada olduğu özel bir destinasyondur. KaleTepe'nin iklimi, Akdeniz Bölgesi'ne özgü bir iklimdir. Yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçer. Bu iklim, KaleTepe'nin flora ve faunası için uygun bir ortam sağlar.
+KaleTepe, Burdur ilinin Akdeniz Bölgesi'nde yer alan bir tepe ve tarihi alandır. KaleTepe'nin coğrafi konumu, ziyaretçiler için önemli bir çekim noktasıdır. Tepe, özellikle gün batımında çok etkileyici bir manzaraya sahiptir. Çevredeki diğer tepeler ve vadiler, KaleTepe'nin doğal güzelliğini daha da artırır. Bu tepe, ziyaretçiler için hem tarihi hem de doğal güzelliklerin bir arada olduğu özel bir destinasyondur. KaleTepe'nin iklimi, Akdeniz Bölgesi'ne özgü bir iklimdir. Yaz ayları sıcak ve kurak, kış ayları ise ılıman ve yağışlı geçer. Bu iklim, KaleTepe'nin flora ve faunası için uygun bir ortam sağlar.
 
 ## Flora ve Fauna
 

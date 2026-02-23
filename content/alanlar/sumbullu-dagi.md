@@ -32,9 +32,9 @@ Karaman'ın doğal güzelliklerini keşfetmek isteyenler için Sümbüllü Dağ�
 
 ## Tarihçe
 
-Karaman bölgesinin zengin tarihi, Sümbüllü Dağı'nın eteklerinde de hissedilir. Bu topraklar, tarihin sâu sayfalarında önemli uygarlıkların izlerini taşır. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada varlıklarını hissettirmişlerdir. 
+Karaman bölgesinin zengin tarihi, Sümbüllü Dağı'nın eteklerinde de hissedilir. Bu topraklar, tarihin derin sayfalarında önemli uygarlıkların izlerini taşır. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada varlıklarını hissettirmişlerdir.
 
-Doğal güzellikleri ve coğrafi konumuyla Sümbüllü Dağı, insan yerleşimlerinin ve ticari faaliyetlerin merkezinde yer almıştır. Yaylacılık ve hayvancılık, bölgenin ekonomik yaşamında önemli bir rol oynamış, dağlık alanlar isesummer mevsiminde hayvan otlatmak için kullanılan önemli merkezler olmuştur. 
+Doğal güzellikleri ve coğrafi konumuyla Sümbüllü Dağı, insan yerleşimlerinin ve ticari faaliyetlerin merkezinde yer almıştır. Yaylacılık ve hayvancılık, bölgenin ekonomik yaşamında önemli bir rol oynamış, dağlık alanlar isesummer mevsiminde hayvan otlatmak için kullanılan önemli merkezler olmuştur.
 
 Tarihin her döneminde, bu tür doğal alanlar Türkiye'de önemli birer yaşam merkezi olarak kabul edilmişlerdir. İnsanlar, bu alanları sadece doğal güzellikleri için değil, aynı zamanda ekonomi ve kültürel faaliyetler için de kullanmışlardır. Sümbüllü Dağı da, bu bağlamda Karaman bölgesinin önemli bir parçası olarak görülebilir.
 

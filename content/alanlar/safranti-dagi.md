@@ -33,9 +33,9 @@ Türkiye'nin doğal güzellikleri arasında yer alan Safranti Dağı, Türkiye'n
 
 ## Tarihçe
 
-Safranbolu'nun eteklerinde yükselen Safranti Dağı, tarihin sâu sayfalarında gizli kalan bir doğal hazine. Bölge, tarih boyunca çeşitli uygarlıkların geçiş noktası olmuş; Hititler, Frigler, Romalılar ve Osmanlılar gibi medeniyetler bu topraklarda yaşamış ve izler bırakmışlar. 
+Safranbolu'nun eteklerinde yükselen Safranti Dağı, tarihin derin sayfalarında gizli kalan bir doğal hazine. Bölge, tarih boyunca çeşitli uygarlıkların geçiş noktası olmuş; Hititler, Frigler, Romalılar ve Osmanlılar gibi medeniyetler bu topraklarda yaşamış ve izler bırakmışlar.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunun önemli bir parçasını oluşturur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendiren önemli faktörler arasında yer alır. Safranti Dağı, bölgenin coğrafi yapısını ve ekosistemini korurken, aynı zamanda insanların yaşam tarzlarını ve geleneklerini de etkilemiştir. 
+Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunun önemli bir parçasını oluşturur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendiren önemli faktörler arasında yer alır. Safranti Dağı, bölgenin coğrafi yapısını ve ekosistemini korurken, aynı zamanda insanların yaşam tarzlarını ve geleneklerini de etkilemiştir.
 
 Tarih boyunca, bu gibi doğal alanlar, insanların yaşam alanları, geçim kaynakları ve kültürel miraslarının önemli bir bölümünü oluşturmuş; insanların doğayla iç içe yaşamasını sağlamıştır. Safranti Dağı da, bu doğal ve kültürel zenginliğin bir parçası olarak, bölgenin tarihine ve kimliğine katkıda bulunmuştur.
 
@@ -51,7 +51,7 @@ Doğal kaynaklar açısından, Safranti Dağı'nın etrafında several su kaynak
 
 ## Flora ve Fauna
 
-Safranti Dağı, step bitki örtüsünün hakim olduğu bozkır ekosisteminin içinde yükselen bir dağ ekosistemidir. İlkbahar döneminde, dağ yamaçları renkli çiçeklerle kaplanır. Step bitkilerinin yanı sıra, yükseklik zonlarına göre değişen alpin flora çeşitliliği dikkat çeker. 
+Safranti Dağı, step bitki örtüsünün hakim olduğu bozkır ekosisteminin içinde yükselen bir dağ ekosistemidir. İlkbahar döneminde, dağ yamaçları renkli çiçeklerle kaplanır. Step bitkilerinin yanı sıra, yükseklik zonlarına göre değişen alpin flora çeşitliliği dikkat çeker.
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Göç mevsimlerinde, çeşitli kuş türleri dağ üzerinden geçer. Memeliler, genellikle dağ eteklerinde ve yüksek bölgelerde yaşam alanı bulur. Sürüngenler ise, step ve bozkır bölgelerinde yaygın olarak görülür.
 

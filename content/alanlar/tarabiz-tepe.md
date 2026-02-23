@@ -28,7 +28,7 @@ wikidata_id: "Q31389420"
 
 # Tarabiz Tepe
 
-Mersin'in Akdeniz Bölgesi'nde yer alan Tarabiz Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur. Tarabiz Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu büyük alan, ziyaretçilere geniş bir sunmaktadır.
+ Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur. Tarabiz Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu büyük alan, ziyaretçilere geniş bir sunmaktadır.
 
 ## Tarihçe
 
@@ -36,20 +36,20 @@ Tarabiz Tepe'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu böl
 
 ## Coğrafya
 
-Tarabiz Tepe, Mersin'in Akdeniz Bölgesi'nde yer almaktadır. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu büyük alan, ziyaretçilere geniş bir sunmaktadır. Tarabiz Tepe, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur. Tarabiz Tepe'nin coğrafi konumu, ziyaretçilere geniş bir sunmaktadır. Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur.
+Tarabiz Tepe, Mersin'in Akdeniz Bölgesi'nde yer almaktadır. Bu büyük alan, ziyaretçilere geniş bir sunmaktadır. Tarabiz Tepe, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur. Tarabiz Tepe'nin coğrafi konumu, ziyaretçilere geniş bir sunmaktadır. Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur.
 
 ## Flora ve Fauna
 
-Tarabiz Tepe, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur. Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu büyük alan, ziyaretçilere geniş bir sunmaktadır. Tarabiz Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur. Tarabiz Tepe'nin flora ve fauna, ziyaretçilere geniş bir sunmaktadır. Bu bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
+Tarabiz Tepe, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur. Bu büyük alan, ziyaretçilere geniş bir sunmaktadır. Tarabiz Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur. Tarabiz Tepe'nin flora ve fauna, ziyaretçilere geniş bir sunmaktadır. Bu bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 
 ## Ziyaret Bilgileri
 
-Tarabiz Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur. Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu büyük alan, ziyaretçilere geniş bir sunmaktadır. Tarabiz Tepe, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Ziyaretçiler, bu bölgeyi ziyaret ederek, doğal güzelliği ve tarihi geçmişi hakkında bilgi edinebilirler. Tarabiz Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak dikkat çekmektedir.
+Tarabiz Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur. Bu büyük alan, ziyaretçilere geniş bir sunmaktadır. Tarabiz Tepe, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Ziyaretçiler, bu bölgeyi ziyaret ederek, doğal güzelliği ve tarihi geçmişi hakkında bilgi edinebilirler. Tarabiz Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak dikkat çekmektedir.
 
 ## İlginç Bilgiler
 
 - Tarabiz Tepe, Mersin'in önemli doğal güzelliklerinden biridir.
 - Bu bölge, yüzyıllar boyunca insan yerleşimine ve doğal oluşumlara sahne olmuştur.
-- Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır.
+
 - Tarabiz Tepe, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Bu bölge, Mersin'in önemli doğal güzelliklerinden biri olarak dikkat çekmektedir.

@@ -28,7 +28,7 @@ wikidata_id: "Q31507631"
 
 # Sandıkdere Tepesi
 
-Sandıkdere Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile karşılıyor. Bu tepe, tarihi geçmişi veUnique manzarasıyla dikkat çekiyor. Ziyaretçiler, Sandıkdere Tepesi'ne çıkarak büyüleyici bir manzara ile karşılaşacaklar. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşam biçimleri hakkında bilgi veriyor.
+Sandıkdere Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, tarihi geçmişi veUnique manzarasıyla dikkat çekiyor. Ziyaretçiler, Sandıkdere Tepesi'ne çıkarak büyüleyici bir manzara ile karşılaşacaklar. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşam biçimleri hakkında bilgi veriyor.
 
 ## Tarihçe
 

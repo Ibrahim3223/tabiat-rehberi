@@ -51,9 +51,9 @@ Doğal kaynaklar açısından, Eriklisivrisi Tepe, komşu alanlar ve su kaynakla
 
 ## Flora ve Fauna
 
-Eriklisivrisi Tepe, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçekler açmaya başlıyor. Step bitkileri, bozkırın kuraklığına adapte olmuş türler, mevsimsel değişimlere göre ren ve görünüm değiştiriyorlar. 
+Eriklisivrisi Tepe, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçekler açmaya başlıyor. Step bitkileri, bozkırın kuraklığına adapte olmuş türler, mevsimsel değişimlere göre ren ve görünüm değiştiriyorlar.
 
-Yaban hayatı da oldukça zengin. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yükseklik zonlarında yaşamlarını sürdürüyorlar. Kuşlar ise, özellikle sonbahar aylarında göç eden kuş sürüleri ile dikkat çekiyor. Sürüngenler de, dağların kura ve kayalık alanlarında yaşamlarını sürdürüyorlar. 
+Yaban hayatı da oldukça zengin. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yükseklik zonlarında yaşamlarını sürdürüyorlar. Kuşlar ise, özellikle sonbahar aylarında göç eden kuş sürüleri ile dikkat çekiyor. Sürüngenler de, dağların kura ve kayalık alanlarında yaşamlarını sürdürüyorlar.
 
 Eriklisivrisi Tepe'nin ekolojik değeri, yükseklik zonları ve alpin flora ile dağ hayvanlarının bir arada yaşadığı bir ekosistem olmasıdır. Bu dağ, bölgedeki ekosistemin dengesini sağlayan önemli bir yaşam alanıdır. Koruma durumu ise, masih bu dağın doğal güzelliğini ve canlı çeşitliliğini korumak için önemli bir görevdir.
 

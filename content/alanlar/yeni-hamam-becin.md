@@ -1,7 +1,7 @@
 ---
 title: "Yeni Hamam, Beçin"
 date: "2026-01-09T23:53:04.210Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245806"
 
 # Yeni Hamam, Beçin
 
-Yeni Hamam, Beçin, Milas'ta yer alan tarihi bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Yeni Hamam, Beçin, Ege Bölgesi'nin en güzel plajlarından biridir. Burada, denizin serin sularında serinleyebilir ve güneşin sıcak ışınlarını hissedebilirsiniz. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
+Yeni Hamam, Beçin, Milas'ta yer alan tarihi bir plajdır. Yeni Hamam, Beçin, Ege Bölgesi'nin en güzel plajlarından biridir. Burada, denizin serin sularında serinleyebilir ve güneşin sıcak ışınlarını hissedebilirsiniz. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 

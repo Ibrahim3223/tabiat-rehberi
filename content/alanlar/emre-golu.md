@@ -63,7 +63,7 @@ Emre Gölü, Afyonkarahisar'da bulunan bir doğa cenneti. Sabah erken gitmenizi 
 ## İlginç Bilgiler
 
 - Emre Gölü, İhsaniye ilçesi sınırları içinde yer alır.
-- Gölün çevresinde históri zengin bir flora ve fauna bulunur.
+- Gölün çevresinde tarihi zengin bir flora ve fauna bulunur.
 - Afyonkarahisar ilinin önemli doğal güzelliklerinden biridir.
 - Göl, özellikle su kuşlarının göç yolu üzerinde bulunmasıyla dikkat çeker.
 - Yörenin coğrafi özellikleri ve jeolojik yapısı about Emre Gölü'nü önemli kılar.

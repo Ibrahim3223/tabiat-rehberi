@@ -32,7 +32,7 @@ Muş'un dağlık arazisinde gizlenen Serpulaş Dağı, doğa severlerin keşfetm
 
 ## Tarihçe
 
-Muş bölgesinde yer alan Serpulaş Dağı, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarihi boyunca Urartular, Romalılar ve Selçuklular gibi çeşitli uygarlıkların etkisi altında kalmıştır. Doğal güzellikleri ve stratejik konumuyla, ticaret yolları ve hayvancılık faaliyetleri için önemli bir merkez olmuştur.
+Muş bölgesinde yer alan Serpulaş Dağı, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarihi boyunca Urartular, Romalılar ve Selçuklular gibi çeşitli uygarlıkların etkisi altında kalmıştır. Doğal güzellikleri ve stratejik konumuyla, ticaret yolları ve hayvancılık faaliyetleri için önemli bir merkez olmuştur.
 
 Türkiye'nin doğusunda yer alan bu dağlık alan, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, yaylacılık ve hayvancılıkla uğraştıkları bir bölge olarak bilinir. Bölgenin coğrafi özellikleri, insan yerleşimlerini ve ekonomik faaliyetlerini şekillendirmiştir. Serpulaş Dağı gibi doğal alanlar, Türkiye'nin kültürel ve tarihi mirasının önemli bir parçasını oluşturur. Bu tür alanların korunması ve gelecek nesillere aktarılması, ülkemizin doğal ve kültürel zenginliklerinin sürdürülebilirliğini sağlar.
 

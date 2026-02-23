@@ -1,7 +1,7 @@
 ---
 title: "Kesikbaş Türbesi"
 date: "2026-01-10T04:55:54.818Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391527"
 
 # Kesikbaş Türbesi
 
-Kesikbaş Türbesi, İzmir'in Tire ilçesinde bulunan tarihi ve doğal güzelliklerin birleştiği bir nokta. Bu alan, Tire'nin merkezine yakın bir konumda yer alıyor ve Ege Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor. Tire'nin tarihi geçmişi ve kültürel zenginliği, Kesikbaş Türbesi'ni ziyaret edenleri etkiliyor. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunuyor.
+Kesikbaş Türbesi, İzmir'in Tire ilçesinde bulunan tarihi ve doğal güzelliklerin birleştiği bir nokta. Bu alan, Tire'nin merkezine yakın bir konumda yer alıyor ve Ege Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor. Tire'nin tarihi geçmişi ve kültürel zenginliği, Kesikbaş Türbesi'ni ziyaret edenleri etkiliyor.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Kesikbaş Türbesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere 
 
 ## Ziyaret Bilgileri
 
-Kesikbaş Türbesi'ni ziyaret etmek, ziyaretçilere birçok farklı deneyim sunuyor. Bu bölge, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Kesikbaş Türbesi'ne, Tire'nin merkezinden fácil bir şekilde ulaşılabilir ve bu nedenle ziyaretçilere, kolay bir yolculuk sunuyor. Bu bölgenin ziyaret edilmesi önerilen en iyi mevsim, ilkbahar ve yaz ayları olarak kabul ediliyor ve bu nedenle ziyaretçilere, bu mevsimlerde ziyaret etmeleri öneriliyor.
+Kesikbaş Türbesi'ni ziyaret etmek, ziyaretçilere birçok farklı deneyim sunuyor. Bu bölge, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Kesikbaş Türbesi'ne, Tire'nin merkezinden kolay bir şekilde ulaşılabilir ve bu nedenle ziyaretçilere, kolay bir yolculuk sunuyor. Bu bölgenin ziyaret edilmesi önerilen en iyi mevsim, ilkbahar ve yaz ayları olarak kabul ediliyor ve bu nedenle ziyaretçilere, bu mevsimlerde ziyaret etmeleri öneriliyor.
 
 ## İlginç Bilgiler
 

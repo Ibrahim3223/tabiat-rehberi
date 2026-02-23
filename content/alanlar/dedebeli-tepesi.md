@@ -28,7 +28,7 @@ wikidata_id: "Q31557507"
 
 # Dedebeli Tepesi
 
-Dedebeli Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, Ankara'nın doğal güzelliklerinden biri olarak bilinir. Dedebeli Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sükunetini sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklüğü ile ziyaretçilerini etkileyen bir doğal alan.
+ Bu tepe, Ankara'nın doğal güzelliklerinden biri olarak bilinir. Dedebeli Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sükunetini sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Dedebeli Tepesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir süreç
 
 ## Coğrafya
 
-Dedebeli Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır. Bu tepe, coğrafi olarak önemli bir konuma sahiptir. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, Ankara'nın doğal güzelliklerinden biridir. Dedebeli Tepesi, Ankara'nın şehir merkezine yakın bir konumda yer alır. Bu tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sükunetini sunar. Coğrafi konumu, ziyaretçileri için önemli bir özelliktir. Dedebeli Tepesi, Ankara'nın coğrafyasını öğrenmek isteyenler için önemli bir mekândır.
+Dedebeli Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır. Bu tepe, coğrafi olarak önemli bir konuma sahiptir. Dedebeli Tepesi, Ankara'nın şehir merkezine yakın bir konumda yer alır. Bu tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sükunetini sunar. Coğrafi konumu, ziyaretçileri için önemli bir özelliktir. Dedebeli Tepesi, Ankara'nın coğrafyasını öğrenmek isteyenler için önemli bir mekândır.
 
 ## Flora ve Fauna
 

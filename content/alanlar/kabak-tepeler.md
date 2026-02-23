@@ -28,7 +28,7 @@ wikidata_id: "Q31386243"
 
 # Kabak Tepeler
 
-Kabak Tepeler, Hatay ilinin Akdeniz Bölgesi'nde yer alır. 140 hektarlık geniş alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın güzelliğine davet ediyor. Bu tepe, ziyaretçilerine geniş bir manzara sunar ve Hatay ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekiyor. Kabak Tepeler, hem doğa severler hem de tarihi geçmişi keşfetmek isteyenler için önemli bir nokta olarak kabul ediliyor.
+Kabak Tepeler, Hatay ilinin Akdeniz Bölgesi'nde yer alır. Bu tepe, ziyaretçilerine geniş bir manzara sunar ve Hatay ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekiyor. Kabak Tepeler, hem doğa severler hem de tarihi geçmişi keşfetmek isteyenler için önemli bir nokta olarak kabul ediliyor.
 
 ## Tarihçe
 

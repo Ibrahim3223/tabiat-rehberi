@@ -1,7 +1,7 @@
 ---
 title: "Karaatlı Türbesi, Söke"
 date: "2026-01-10T06:32:52.990Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735177"
 
 # Karaatlı Türbesi, Söke
 
-Söke, Aydın'ın bir ilçesi olarak Ege Bölgesi'nin en güzel yerlerinden biri. Karaatlı Türbesi, Söke'nin önemli tarihi mekanlarından biri. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, hem tarihi hem de doğal güzellikleri barındırmaktadır. Söke'nin denize kıyısı olan bir ilçe olması, plaj severlerin ilgisini çekmektedir. Karaatlı Türbesi, Söke'nin merkezine yakın bir konumda yer almaktadır. İlçe merkezinden kolayca ulaşılabilen bu mekan, tarihi ve doğal güzelliği ile ziyaretçilerini beklemektedir.
+Söke, Aydın'ın bir ilçesi olarak Ege Bölgesi'nin en güzel yerlerinden biri. Karaatlı Türbesi, Söke'nin önemli tarihi mekanlarından biri. Bu geniş alan, hem tarihi hem de doğal güzellikleri barındırmaktadır. Söke'nin denize kıyısı olan bir ilçe olması, plaj severlerin ilgisini çekmektedir. Karaatlı Türbesi, Söke'nin merkezine yakın bir konumda yer almaktadır. İlçe merkezinden kolayca ulaşılabilen bu mekan, tarihi ve doğal güzelliği ile ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Mehmet Hekim Türbesi"
 date: "2026-01-10T06:42:47.493Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582866"
 
 # Şeyh Mehmet Hekim Türbesi
 
-Şeyh Mehmet Hekim Türbesi, Mardin'in Artuklu ilçesinde yer alan tarihi ve doğal güzelliklerin bir araya geldiği özel bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Şeyh Mehmet Hekim Türbesi, çevresindeki tarihi yapılar ve doğal güzelliklerle birlikte, Mardin'in önemli turizm merkezlerinden biri olarak dikkat çekiyor. Ziyaretçiler, bu özel destinasyonda hem tarihi ve kültürel zenginlikler hem de eşsiz doğal güzellikler keşfetme fırsatına sahip oluyor.
+Şeyh Mehmet Hekim Türbesi, Mardin'in Artuklu ilçesinde yer alan tarihi ve doğal güzelliklerin bir araya geldiği özel bir destinasyon. Şeyh Mehmet Hekim Türbesi, çevresindeki tarihi yapılar ve doğal güzelliklerle birlikte, Mardin'in önemli turizm merkezlerinden biri olarak dikkat çekiyor. Ziyaretçiler, bu özel destinasyonda hem tarihi ve kültürel zenginlikler hem de eşsiz doğal güzellikler keşfetme fırsatına sahip oluyor.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728202"
 
 # Kaya Mezarı 10 (Tikenlice Mahallesi) Gürgentepe
 
-Karadeniz Bölgesi'nin en güzel köşelerinden biri olan Gürgentepe, Tikenlice Mahallesi'nde yer alan Kaya Mezarı 10, doğa severlerin yeni keşif noktası oluyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzarasıyla karşılıyor. Kaya Mezarı 10, Gürgentepe'nin sakin ve doğal güzelliği ile dikkat çekiyor. Bu alan, hem doğa yürüyüşleri hem de plaj keyfi için ideal bir nokta.
+Karadeniz Bölgesi'nin en güzel köşelerinden biri olan Gürgentepe, Tikenlice Mahallesi'nde yer alan Kaya Mezarı 10, doğa severlerin yeni keşif noktası oluyor. Kaya Mezarı 10, Gürgentepe'nin sakin ve doğal güzelliği ile dikkat çekiyor. Bu alan, hem doğa yürüyüşleri hem de plaj keyfi için ideal bir nokta.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Tikenlice Mahallesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Gürgentepe, Karadeniz Bölgesi'nin en güzel kıyı şeritlerinden birine sahip. Kaya Mezarı 10, bu bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu alan, 140 hektarlık bir yeşil alan ve yaklaşık 200 futbol sahası büyüklüğünde. Kaya Mezarı 10, deniz seviyesinden yüksekliğiyle birlikte ziyaretçilerine panoramik bir manzara sunuyor. Bu bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemli. Kaya Mezarı 10, bu iklimin etkisiyle birlikte yeşil ve mavi tonların bir arada bulunduğu bir güzelliğe sahip. Bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli doğa aktiviteleri sunuyor.
+Gürgentepe, Karadeniz Bölgesi'nin en güzel kıyı şeritlerinden birine sahip. Kaya Mezarı 10, bu bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Kaya Mezarı 10, deniz seviyesinden yüksekliğiyle birlikte ziyaretçilerine panoramik bir manzara sunuyor. Bu bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemli. Kaya Mezarı 10, bu iklimin etkisiyle birlikte yeşil ve mavi tonların bir arada bulunduğu bir güzelliğe sahip. Bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli doğa aktiviteleri sunuyor.
 
 ## Flora ve Fauna
 
-Kaya Mezarı 10, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölgede, mevsimsel değişimlerle birlikte farklı canlılar ziyaretçileri karşılayabiliyor. Kaya Mezarı 10, Karadeniz Bölgesi'nin karakteristik bitki türlerine ev sahipliği yapıyor. Bu bölgenin fauna zenginliği, ziyaretçilerine doğa yürüyüşleri sırasında çeşitli hayvan türleriyle karşılaşma fırsatı sunuyor. Kaya Mezarı 10, bu zengin doğası ile birlikte ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Kaya Mezarı 10, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölgede, mevsimsel değişimlerle birlikte farklı canlılar ziyaretçileri karşılayabiliyor. Kaya Mezarı 10, Karadeniz Bölgesi'nin karakteristik bitki türlerine ev sahipliği yapıyor. Bu bölgenin fauna zenginliği, ziyaretçilerine doğa yürüyüşleri sırasında çeşitli hayvan türleriyle karşılaşma fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 

@@ -50,11 +50,11 @@ Mevsimsel olarak, Değirmencik Adası, Akdeniz ikliminin karakteristik özellikl
 
 ## Flora ve Fauna
 
-Değirmencik Adası, Çanakkale'nin sınırları içinde yer alan bir ada olup, geçiş ikliminin etkisi altındadır. Bu ada, karma ormanlarla kaplı olup, göçmen kuş rotası üzerinde bulunmaktadır. 
+Değirmencik Adası, Çanakkale'nin sınırları içinde yer alan bir ada olup, geçiş ikliminin etkisi altındadır. Bu ada, karma ormanlarla kaplı olup, göçmen kuş rotası üzerinde bulunmaktadır.
 
-Bitki Örtüsü olarak, ada genelinde çeşitli ağaç türleri ve çalılar hakimdir. İlkbaharda, ada renkli bir hal alır ve çeşitli çiçekler açar. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler bulunur. 
+Bitki Örtüsü olarak, ada genelinde çeşitli ağaç türleri ve çalılar hakimdir. İlkbaharda, ada renkli bir hal alır ve çeşitli çiçekler açar. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler bulunur.
 
-Yaban Hayatı açısından, ada özellikle deniz kuşları için önemli bir durak noktasıdır. Ayrıca, ada ekosisteminin izole olması nedeniyle, burada yaşayan türler, diğer bölgelerde bulunan türlerden farklı özellikler gösterebilir. 
+Yaban Hayatı açısından, ada özellikle deniz kuşları için önemli bir durak noktasıdır. Ayrıca, ada ekosisteminin izole olması nedeniyle, burada yaşayan türler, diğer bölgelerde bulunan türlerden farklı özellikler gösterebilir.
 
 Ekolojik Değer olarak, ada ekosisteminin koruma altına alınması önemlidir. Bu ada, göçmen kuşlar için önemli bir durak noktası olup, aynı zamanda deniz ekosisteminin bir parçasıdır. Ada ekosisteminin korunması, bu bölgede yaşayan türlerin ve onların yaşam alanlarının korunması için önemlidir.
 

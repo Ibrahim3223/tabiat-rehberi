@@ -23,7 +23,7 @@ wikidata_id: "Q108228746"
 
 # GÜZELYURT
 
-Güzelyurt, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu nedenle oldukça geniş bir doğa harikası sunar. Bu bölge, tarihi ve doğal güzellikleri bir araya getirmesiyle dikkat çekmektedir. Güzelyurt, ziyaretçilerini doğanın içine davet ederken, aynı zamanda tarihin gizemli sayfalarını keşfetme fırsatı sunar. Burada, doğa ve tarih bir araya gelerek ziyaretçilere benzersiz bir deneyim sunar.
+Güzelyurt, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu bölge, tarihi ve doğal güzellikleri bir araya getirmesiyle dikkat çekmektedir. Güzelyurt, ziyaretçilerini doğanın içine davet ederken, aynı zamanda tarihin gizemli sayfalarını keşfetme fırsatı sunar. Burada, doğa ve tarih bir araya gelerek ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -47,4 +47,4 @@ Güzelyurt'u ziyaret etmek, doğa ve tarih meraklıları için unutulmaz bir den
 - Bu bölgede, tarihi eserlerin korunmasına büyük önem verilir.
 - Güzelyurt, doğa severler ve tarih meraklıları için ideal bir destinasyondur.
 - Bu bölge, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanıdır.
-- Güzelyurt, ziyaretçilerine unutulmaz bir deneyim sunar.
+

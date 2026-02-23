@@ -48,9 +48,9 @@ Bölgenin çevresel ilişkileri, Ashab-ı Kehf Mağaraları'nın bulunduğu coğ
 
 ## Flora ve Fauna
 
-Aşağımitvan Mağaraları, Mardin'in yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu jeopark, 1200 hektarlık yeşil cenneti ile İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. İlbahar mevsiminde, step ve ova ekolojisinin karakteristik bitkileri ile çevrilidir. Bu dönemde, çiçekler patlar ve mağaraların girişini süsler. 
+Aşağımitvan Mağaraları, Mardin'in yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu jeopark, 1200 hektarlık yeşil cenneti ile İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. İlbahar mevsiminde, step ve ova ekolojisinin karakteristik bitkileri ile çevrilidir. Bu dönemde, çiçekler patlar ve mağaraların girişini süsler.
 
-Orman ekosisteminin zenginliği, çeşitli ağaç türleri ile göze çarpar. Bu ağaçlar, orman memelileri için yaşam alanı oluşturur. Kuşlar da, bu ormanlarda yuvalarını kurar ve göç mevsiminde buradan geçer. Sürüngenler ve diğer yaban hayvanları da bu ekosistemin bir parçası olarak, mağaraların çevresinde yaşamlarını sürdürür. 
+Orman ekosisteminin zenginliği, çeşitli ağaç türleri ile göze çarpar. Bu ağaçlar, orman memelileri için yaşam alanı oluşturur. Kuşlar da, bu ormanlarda yuvalarını kurar ve göç mevsiminde buradan geçer. Sürüngenler ve diğer yaban hayvanları da bu ekosistemin bir parçası olarak, mağaraların çevresinde yaşamlarını sürdürür.
 
 Bu jeoparkın ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasından gelir. Mağaralar, birçok canlı için yaşam alanı oluşturur ve bölgenin doğal dengesini sağlar. Ancak, koruma durumuyla ilgili çalışmalar devam etmektedir. Bu alanın korunması, bölgenin ekolojik dengesini korumak için önemlidir.
 

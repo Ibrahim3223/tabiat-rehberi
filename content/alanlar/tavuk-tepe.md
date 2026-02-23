@@ -28,7 +28,7 @@ wikidata_id: "Q31386290"
 
 # Tavuk Tepe
 
-Tavuk Tepe, Kilis ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biri olarak bilinir. Bu tepe, yaklaşık 140 hektarlık alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tavuk Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu tepe, aynı zamanda yöre halkının önemli bir gezi destinasyonu olarak da bilinir. Tavuk Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile birlikte sunar.
+Tavuk Tepe, Kilis ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biri olarak bilinir. Tavuk Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu tepe, aynı zamanda yöre halkının önemli bir gezi destinasyonu olarak da bilinir. Tavuk Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile birlikte sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tavuk Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin et
 
 ## Coğrafya
 
-Tavuk Tepe, Kilis ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak bilinir. Bu tepe, yaklaşık 140 hektarlık alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tavuk Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu tepe, aynı zamanda yöre halkının önemli bir gezi destinasyonu olarak da bilinir. Tavuk Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile birlikte sunar. Tavuk Tepe'nin iklimi, genellikle sıcak ve kurudur. Bu tepe, aynı zamanda önemli bir su kaynağı olarak da bilinir. Tavuk Tepe'nin coğrafi konumu, aynı zamanda önemli bir stratejik konumu da sağlar.
+Tavuk Tepe, Kilis ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak bilinir. Tavuk Tepe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu tepe, aynı zamanda yöre halkının önemli bir gezi destinasyonu olarak da bilinir. Tavuk Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile birlikte sunar. Tavuk Tepe'nin iklimi, genellikle sıcak ve kurudur. Bu tepe, aynı zamanda önemli bir su kaynağı olarak da bilinir. Tavuk Tepe'nin coğrafi konumu, aynı zamanda önemli bir stratejik konumu da sağlar.
 
 ## Flora ve Fauna
 

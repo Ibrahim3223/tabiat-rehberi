@@ -28,7 +28,7 @@ wikidata_id: "Q31552681"
 
 # Bekialı Tepesi
 
-Bekialı Tepesi, Mardin'in tarih ve doğa harikalarını bir araya getiren özel bir nokta. Tepenin eteklerinde kurulmuş olan Mardin şehri, tarihi geçmişi ve eşsiz mimarisi ile ziyaretçilerini büyülüyor. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Bekialı Tepesi'ne yapılan ziyaretler, genellikle şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler tarafından tercih ediliyor.
+Bekialı Tepesi, Mardin'in tarih ve doğa harikalarını bir araya getiren özel bir nokta. Tepenin eteklerinde kurulmuş olan Mardin şehri, tarihi geçmişi ve eşsiz mimarisi ile ziyaretçilerini büyülüyor. Bekialı Tepesi'ne yapılan ziyaretler, genellikle şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler tarafından tercih ediliyor.
 
 ## Tarihçe
 

@@ -49,11 +49,11 @@ Doğal bir çevre olarak, Nergis Adası, Ege Denizi'nin ekosistemine bağlı bir
 
 ## Flora ve Fauna
 
-Nergis Adası, İzmir'in kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, zeytinlikler ve çam ormanları ile kaplı. Akdeniz ikliminin etkisiyle, ada ekosistemi izole popülasyonlara ev sahipliği yapıyor. 
+Nergis Adası, İzmir'in kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, zeytinlikler ve çam ormanları ile kaplı. Akdeniz ikliminin etkisiyle, ada ekosistemi izole popülasyonlara ev sahipliği yapıyor.
 
-Bitki örtüsü olarak, ilkbaharda çiçek açan çeşitli otsu bitkiler ve çalılar hakim. Sonbaharda, göç eden deniz kuşları adaya uğradığında, kıyı bitkileri gibi tuzcul severler de bu ziyaretçilere ev sahipliği yapıyor. 
+Bitki örtüsü olarak, ilkbaharda çiçek açan çeşitli otsu bitkiler ve çalılar hakim. Sonbaharda, göç eden deniz kuşları adaya uğradığında, kıyı bitkileri gibi tuzcul severler de bu ziyaretçilere ev sahipliği yapıyor.
 
-Yaban hayatı olarak, ada memeliler, kuşlar ve sürüngenler barındırıyor. Deniz kuşları, ada etrafındaki suları yuva olarak kullanıyor. Sürüngenler ise, ada üzerindeki kayalıklarda ve zeytinliklerde yaşamlarını sürdürüyor. 
+Yaban hayatı olarak, ada memeliler, kuşlar ve sürüngenler barındırıyor. Deniz kuşları, ada etrafındaki suları yuva olarak kullanıyor. Sürüngenler ise, ada üzerindeki kayalıklarda ve zeytinliklerde yaşamlarını sürdürüyor.
 
 Ekolojik değer olarak, Nergis Adası önemli bir göç yolu üzerinde yer alıyor. Deniz kuşlarının uğrak noktalarından biri olan ada, bu kuşların yaşam döngüsünde önemli bir rol oynuyor.
 

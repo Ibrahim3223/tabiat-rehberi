@@ -50,9 +50,9 @@ Doğal kaynaklar ve ekosistem bağlantıları açısından, Çetibeli Dağı, ç
 
 ## Flora ve Fauna
 
-Çetibeli Dağı'nın flora ve fauna zenginliği, ziyaretçilerini büyüleyici bir doğa deneyimi sunar. 1200 metrelik yüksekliğiyle, dağ ekosistemi farklı yükseklik zonlarına ev sahipliği yapar. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır, çam ormanları ve zeytinlikler ise yıl boyunca yeşilliğini korur. 
+Çetibeli Dağı'nın flora ve fauna zenginliği, ziyaretçilerini büyüleyici bir doğa deneyimi sunar. 1200 metrelik yüksekliğiyle, dağ ekosistemi farklı yükseklik zonlarına ev sahipliği yapar. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır, çam ormanları ve zeytinlikler ise yıl boyunca yeşilliğini korur.
 
-Dağın yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle dolu. Göç mevsiminde, dağ yolları göç eden kuş sürüleri tarafından kullanılır. Çam ormanları, geyi ve yaban domuzu gibi memelilerin yaşam alanlarını oluşturur. Zeytinlikler ve otlaklar ise, keçiler ve koyunlar için önemli bir besin kaynağıdır. 
+Dağın yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle dolu. Göç mevsiminde, dağ yolları göç eden kuş sürüleri tarafından kullanılır. Çam ormanları, geyi ve yaban domuzu gibi memelilerin yaşam alanlarını oluşturur. Zeytinlikler ve otlaklar ise, keçiler ve koyunlar için önemli bir besin kaynağıdır.
 
 Çetibeli Dağı'nın ekolojik değeri, biyolojik çeşitliliği ve doğal güzelliği ile ölçülür. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak için önemlidir. Zeytinlikler ve çam ormanları, toprağın erozyonunu önlerken, dağ yaban hayatı, ekosistemin sağlığını gösterir.
 

@@ -50,12 +50,12 @@ Jeolojik açıdan incelendiğinde, Davut Dağı'nın coğrafi yapısı hakkında
 
 ## Flora ve Fauna
 
-Davut Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğal cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Davut Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğal cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki Örtüsü:
 Davut Dağı'nın bitki örtüsü, yükseklik zonlarına göre değişkenlik gösterir. Alpin çayırlar, ilkbaharda rengarenk çiçeklerle kaplanırken, yaz aylarında yüksek dağ ekosisteminin karakteristik bitkilerini barındırır.
 
 Yaban Hayatı:
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Yüksek dağ ekosisteminin karakteristik türleri, bu bölgede yaşamını sürdürür. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Yüksek dağ ekosisteminin karakteristik türleri, bu bölgede yaşamını sürdürür.
 
 Ekolojik Değer:
 Davut Dağı, endemik türlerin varlığı ve yüksek dağ ekosisteminin korunması açısından büyük önem taşır. Bu doğal cennetin korunması, gelecek nesiller için önemli bir görevdir.

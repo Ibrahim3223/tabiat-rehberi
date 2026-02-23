@@ -1,7 +1,7 @@
 ---
 title: "Şifa Hamamı Kartal"
 date: "2026-01-09T22:56:33.805Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738603"
 
 # Şifa Hamamı Kartal
 
-Kartal'da bulunan Şifa Hamamı, Marmara Bölgesi'nin en önemli tarihi ve şifalı su kaynaklarından biridir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzak bir noktada yer alır. Bu tarihi hamam, yüzyıllar boyunca insanların şifa bulmak için geldiği bir mekan olarak bilinir. Şifa Hamamı'nın etrafındaki yeşil alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+Kartal'da bulunan Şifa Hamamı, Marmara Bölgesi'nin en önemli tarihi ve şifalı su kaynaklarından biridir. Bu tarihi hamam, yüzyıllar boyunca insanların şifa bulmak için geldiği bir mekan olarak bilinir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Kartal'da bulunan Şifa Hamamı, Marmara Bölgesi'nin en önemli tarihi ve şifa
 
 ## Coğrafya
 
-Şifa Hamamı, Kartal'ın merkezi bir noktasında yer alır. Hamamın etrafındaki yeşil alan, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Hamamın konumu, şehrin gürültüsünden uzak bir noktada olması nedeniyle ziyaretçilere sakin ve huzurlu bir ortam sunar. Şifa Hamamı'nın bulunduğu Kartal, Marmara Bölgesi'nin en önemli ilçelerinden biridir. İlçe, tarihi mekanları, şifalı su kaynakları ve yeşil alanları ile dikkat çeker. Şifa Hamamı, Kartal'ın en önemli tarihi ve şifalı su kaynaklarından biri olarak bilinir.
+Şifa Hamamı, Kartal'ın merkezi bir noktasında yer alır. Hamamın konumu, şehrin gürültüsünden uzak bir noktada olması nedeniyle ziyaretçilere sakin ve huzurlu bir ortam sunar. Şifa Hamamı'nın bulunduğu Kartal, Marmara Bölgesi'nin en önemli ilçelerinden biridir. İlçe, tarihi mekanları, şifalı su kaynakları ve yeşil alanları ile dikkat çeker. Şifa Hamamı, Kartal'ın en önemli tarihi ve şifalı su kaynaklarından biri olarak bilinir.
 
 ## Flora ve Fauna
 
-Şifa Hamamı'nın etrafındaki yeşil alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu alan, mevsimsel değişimlere göre farklı bitki türleri ve hayvanları barındırır. Şifa Hamamı'nın bulunduğu Kartal, Marmara Bölgesi'nin en önemli ekolojik alanlarından biridir. Bölge, zengin fauna ve flora ile dikkat çeker. Şifa Hamamı'nın etrafındaki yeşil alan, ziyaretçilere doğayı keşfetme ve şifalı suyun faydalarını görme imkanı sunar.
+ Bu alan, mevsimsel değişimlere göre farklı bitki türleri ve hayvanları barındırır. Şifa Hamamı'nın bulunduğu Kartal, Marmara Bölgesi'nin en önemli ekolojik alanlarından biridir. Bölge, zengin fauna ve flora ile dikkat çeker. Şifa Hamamı'nın etrafındaki yeşil alan, ziyaretçilere doğayı keşfetme ve şifalı suyun faydalarını görme imkanı sunar.
 
 ## Ziyaret Bilgileri
 

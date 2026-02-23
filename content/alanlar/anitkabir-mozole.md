@@ -30,7 +30,7 @@ wikidata_id: "Q134728100"
 
 # Anıtkabir Mozole
 
-Ankara'nın kalbinde, Çankaya ilçesinde yer alan Anıtkabir Mozole, Türkiye'nin Cumhuriyetinin kurucusu Mustafa Kemal Atatürk'ün sonsuzluğa uğurlandığı yerdir. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve Türkiye'nin en önemli tarihi mekanlarından biridir. Anıtkabir Mozole, Türkiye'nin Cumhuriyetinin kurucusunun anısını yaşatmak içinşa edilmiştir. Bu abide, Türk milletinin bağımsızlık mücadelesinin sembolü olarak görülmektedir.
+Ankara'nın kalbinde, Çankaya ilçesinde yer alan Anıtkabir Mozole, Türkiye'nin Cumhuriyetinin kurucusu Mustafa Kemal Atatürk'ün sonsuzluğa uğurlandığı yerdir. Anıtkabir Mozole, Türkiye'nin Cumhuriyetinin kurucusunun anısını yaşatmak içinşa edilmiştir. Bu abide, Türk milletinin bağımsızlık mücadelesinin sembolü olarak görülmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Anıtkabir Mozole'nin tarihi, Türkiye'nin Cumhuriyetinin kuruluş yıllarına d
 
 ## Coğrafya
 
-Anıtkabir Mozole, Ankara'nın Çankaya ilçesinde, Rasattepe mevkiinde yer almaktadır. Anıtkabir Mozole, 140 hektarlık bir alanda inşa edilmiştir ve yaklaşık 200 futbol sahası büyüklüğündedir. Anıtkabir Mozole'nin etrafı, çeşitli ağaçlarla çevrilidir ve bir park gibi görünmektedir. Anıtkabir Mozole, Ankara'nın şehir merkezine yakındır ve ulaşım açısından kolay bir konuma sahiptir. Anıtkabir Mozole, Ankara'nın en önemli tarihi mekanlarından biri olarak görülmektedir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Anıtkabir Mozole'nin coğrafi konumu, Türk milletinin bağımsızlık mücadelesinin önemli bir parçasıdır ve Türk milletinin tarihinde önemli bir yer tutmaktadır. Anıtkabir Mozole, Ankara'nın iklimine göre inşa edilmiştir ve Ankara'nın yıllık ortalama sıcaklığına uygun bir şekilde tasarlanmıştır. Anıtkabir Mozole, Ankara'nın coğrafi özelliklerine göre inşa edilmiş ve Ankara'nın şehir siluetine uygun bir şekilde tasarlanmıştır.
+Anıtkabir Mozole, Ankara'nın Çankaya ilçesinde, Rasattepe mevkiinde yer almaktadır. Anıtkabir Mozole'nin etrafı, çeşitli ağaçlarla çevrilidir ve bir park gibi görünmektedir. Anıtkabir Mozole, Ankara'nın şehir merkezine yakındır ve ulaşım açısından kolay bir konuma sahiptir. Anıtkabir Mozole, Ankara'nın en önemli tarihi mekanlarından biri olarak görülmektedir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Anıtkabir Mozole'nin coğrafi konumu, Türk milletinin bağımsızlık mücadelesinin önemli bir parçasıdır ve Türk milletinin tarihinde önemli bir yer tutmaktadır. Anıtkabir Mozole, Ankara'nın iklimine göre inşa edilmiştir ve Ankara'nın yıllık ortalama sıcaklığına uygun bir şekilde tasarlanmıştır. Anıtkabir Mozole, Ankara'nın coğrafi özelliklerine göre inşa edilmiş ve Ankara'nın şehir siluetine uygun bir şekilde tasarlanmıştır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Anıtkabir Mozole, Ankara'nın en önemli tarihi mekanlarından biri olarak gör
 ## İlginç Bilgiler
 
 - Anıtkabir Mozole, 140 hektarlık bir alanda inşa edilmiştir.
-- Anıtkabir Mozole, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Anıtkabir Mozole, Ankara'nın en önemli tarihi mekanlarından biridir.
 - Anıtkabir Mozole, Türk milletinin bağımsızlık mücadelesinin sembolü olarak görülmektedir.
 - Anıtkabir Mozole, her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.

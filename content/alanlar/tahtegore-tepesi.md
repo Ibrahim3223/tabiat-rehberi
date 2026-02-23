@@ -28,7 +28,7 @@ wikidata_id: "Q31550220"
 
 # Tahtegore Tepesi
 
-Diyarbakır'ın büyüleyici manzarasına ev sahipliği yapan Tahtegore Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak ziyaretçilerini karşılar. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçiler için hem gezi hem de dinlenme alanı olarak hizmet vermektedir. Tahtegore Tepesi, özellikle güneş batımında ziyaret edildiğinde, muhteşem bir manzaraya sahip olmasıyla bilinir. Tepenin etrafında encontran çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunar.
+ Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçiler için hem gezi hem de dinlenme alanı olarak hizmet vermektedir. Tahtegore Tepesi, özellikle güneş batımında ziyaret edildiğinde, muhteşem bir manzaraya sahip olmasıyla bilinir. Tepenin etrafında encontran çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tahtegore Tepesi, yüzyıllar boyunca bölge halkının önemli bir parçası ol
 
 ## Coğrafya
 
-Tahtegore Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Tepenin konumu, Diyarbakır şehir merkezine yakınlığıyla dikkat çekmektedir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak ziyaretçilere hizmet vermektedir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunar. Bölgenin iklimi, genellikle kura ve sıcak bir karaktere sahiptir, ancak tepenin yüksekliği, ziyaretçilere serin ve ferah bir ortam sunar. Tahtegore Tepesi, aynı zamanda bölgenin jeolojik yapısını da yansıtmaktadır. Tepenin oluşumu, bölgenin jeolojik tarihinde önemli bir rol oynamıştır. Tepenin etrafındaki dağlar ve vadiler, bölgenin coğrafi çeşitliliğini göstermektedir. Tahtegore Tepesi, bölgede yapılan coğrafi araştırmalarla da dikkat çekmektedir. Bu araştırmalar, tepenin ve çevresinin coğrafi özelliklerini ve jeolojik yapısını detaylı olarak incelemektedir.
+Tahtegore Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biridir. Tepenin konumu, Diyarbakır şehir merkezine yakınlığıyla dikkat çekmektedir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunar. Bölgenin iklimi, genellikle kura ve sıcak bir karaktere sahiptir, ancak tepenin yüksekliği, ziyaretçilere serin ve ferah bir ortam sunar. Tahtegore Tepesi, aynı zamanda bölgenin jeolojik yapısını da yansıtmaktadır. Tepenin oluşumu, bölgenin jeolojik tarihinde önemli bir rol oynamıştır. Tepenin etrafındaki dağlar ve vadiler, bölgenin coğrafi çeşitliliğini göstermektedir. Tahtegore Tepesi, bölgede yapılan coğrafi araştırmalarla da dikkat çekmektedir. Bu araştırmalar, tepenin ve çevresinin coğrafi özelliklerini ve jeolojik yapısını detaylı olarak incelemektedir.
 
 ## Flora ve Fauna
 

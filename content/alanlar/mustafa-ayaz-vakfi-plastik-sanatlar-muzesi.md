@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi"
 date: "2026-01-10T15:22:05.699Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q56479507"
 
 # Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi
 
-Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi, Ankara'nın Çankaya ilçesinde yer alan bir sanat müzesidir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezinde bulunmaktadır. Bu müze, plastik sanatların çeşitli yönlerini sergileyen bir kültür ve eğitim merkezidir. Müzenin koleksiyonunda, Türkiye'nin önde gelen sanatçılarının eserleri bulunmaktadır. Ayrıca, müze düzenli olarak sergi ve etkinlikler düzenlemektedir. Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi, sanatseverler ve eğitim amaçlı ziyaretler için ideal bir yerdir.
+Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi, Ankara'nın Çankaya ilçesinde yer alan bir sanat müzesidir. Bu müze, plastik sanatların çeşitli yönlerini sergileyen bir kültür ve eğitim merkezidir. Müzenin koleksiyonunda, Türkiye'nin önde gelen sanatçılarının eserleri bulunmaktadır. Ayrıca, müze düzenli olarak sergi ve etkinlikler düzenlemektedir. Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi, sanatseverler ve eğitim amaçlı ziyaretler için ideal bir yerdir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hayrettin Hoca Türbesi"
 date: "2026-01-10T05:24:02.365Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,11 +29,11 @@ wikidata_id: "Q131391726"
 
 # Hayrettin Hoca Türbesi
 
-Hayrettin Hoca Türbesi, Karesi ilçesi sınırları içinde, Balıkesir'in önemli tarihi ve turistik mekanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin güzelliklerini gözler önüne sermektedir. Bu türbe ve plaj alanı, hem dini hem de turistik açıdan ziyaretçilerini cezbeden bir yerdir. Ziyaretçiler, hem tarihi değerleri hem de doğal güzellikleri aynı anda deneyimleme fırsatını bulurlar.
+Hayrettin Hoca Türbesi, Karesi ilçesi sınırları içinde, Balıkesir'in önemli tarihi ve turistik mekanlarından biridir. Bu türbe ve plaj alanı, hem dini hem de turistik açıdan ziyaretçilerini cezbeden bir yerdir. Ziyaretçiler, hem tarihi değerleri hem de doğal güzellikleri aynı anda deneyimleme fırsatını bulurlar.
 
 ## Tarihçe
 
-Hayrettin Hoca Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu türbe, önemli bir dini figür olan Hayrettin Hoca'nın anısına inşa edilmiştir. Tarihi kaynaklara baktığımızda, bu bölgenin dini ve kültürel açıdan önemli bir merkez olduğu anlaşılabilir. Türbenin tam olarak ne zaman inşa edildiği bilinmemekle birlikte, bölgenin tarihi zenginlikleri ve kültürel mirası, ziyaretçilere derin bir história sunar. Ziyaretçiler, bu türbenin tarihi atmosferini soluyarak, dini ve kültürel açıdan önemli bir deneyim yaşayabilirler.
+Hayrettin Hoca Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu türbe, önemli bir dini figür olan Hayrettin Hoca'nın anısına inşa edilmiştir. Tarihi kaynaklara baktığımızda, bu bölgenin dini ve kültürel açıdan önemli bir merkez olduğu anlaşılabilir. Türbenin tam olarak ne zaman inşa edildiği bilinmemekle birlikte, bölgenin tarihi zenginlikleri ve kültürel mirası, ziyaretçilere derin bir tarihi sunar. Ziyaretçiler, bu türbenin tarihi atmosferini soluyarak, dini ve kültürel açıdan önemli bir deneyim yaşayabilirler.
 
 ## Coğrafya
 

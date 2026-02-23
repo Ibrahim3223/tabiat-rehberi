@@ -23,7 +23,7 @@ wikidata_id: "Q108228712"
 
 # AYANCIK
 
-Ayançık milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, ziyaretçilerini doğal güzellikleriyle karşılar. Parkın toplam alanı, geniş yapraklı ormanlarla kaplıdır ve çam ağaçları da bu bölgede sıkça bulunur. Ayançık milli parkı, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunar. Parkta, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+ Bu bölge, ziyaretçilerini doğal güzellikleriyle karşılar. Parkın toplam alanı, geniş yapraklı ormanlarla kaplıdır ve çam ağaçları da bu bölgede sıkça bulunur. Ayançık milli parkı, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunar. Parkta, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Ayançık milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Ayançık milli parkı, İç Anadolu Bölgesi'nin coğrafyasına uygun olarak, geniş ova ve dağlık alanlara sahiptir. Parkın toplam alanı, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunar. Parkta, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ayançık milli parkının coğrafyası, ziyaretçilerini doğal güzellikleriyle karşılar. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklimdir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasını etkiler ve ziyaretçilerine mevsimsel değişimleri keşfetme fırsatı sunar.
+Ayançık milli parkı, İç Anadolu Bölgesi'nin coğrafyasına uygun olarak, geniş ova ve dağlık alanlara sahiptir. Bu bölge, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunar. Parkta, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ayançık milli parkının coğrafyası, ziyaretçilerini doğal güzellikleriyle karşılar. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklimdir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasını etkiler ve ziyaretçilerine mevsimsel değişimleri keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Ayançık milli parkına ziyaretçiler, kolayca ulaşabilir. Parka, araçla veya
 
 ## İlginç Bilgiler
 
-- Ayançık milli parkı, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir.
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Ayançık milli parkının coğrafyası, ziyaretçilerini doğal güzellikleriyle karşılar.
 - Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklimdir.

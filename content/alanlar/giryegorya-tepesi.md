@@ -28,7 +28,7 @@ wikidata_id: "Q31546550"
 
 # Giryegorya Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan Giryegorya Tepesi, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, şehrin karmaşasından uzaklaşma ve doğanın huzurunu yaşamak isteyenler için ideal bir kaçış noktası. Giryegorya Tepesi, yaklaşık olarak 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu tepe, ziyaretçilerine hem şehir hayatından bir mola vermek hem de bölgenin tarihi ve kültürel zenginliklerini keşfetmek için bir fırsat sunuyor.
+Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan Giryegorya Tepesi, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, şehrin karmaşasından uzaklaşma ve doğanın huzurunu yaşamak isteyenler için ideal bir kaçış noktası. Bu tepe, ziyaretçilerine hem şehir hayatından bir mola vermek hem de bölgenin tarihi ve kültürel zenginliklerini keşfetmek için bir fırsat sunuyor.
 
 ## Tarihçe
 

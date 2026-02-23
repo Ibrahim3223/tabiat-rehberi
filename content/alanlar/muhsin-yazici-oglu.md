@@ -22,7 +22,7 @@ wikidata_id: "Q108228648"
 
 # MUHSIN YAZICI OGLU
 
-Muhsin Yazıcıoğlu Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş ve korunaklı bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parkın etrafında, çeşitli bitki türleri ve zengin fauna encontrülebilir. Muhsin Yazıcıoğlu Milli Parkı, ziyaretçilerine hem dinlenme hem de doğayı deneyimleme fırsatı sunuyor.
+ Bu geniş ve korunaklı bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parkın etrafında, çeşitli bitki türleri ve zengin fauna encontrülebilir. Muhsin Yazıcıoğlu Milli Parkı, ziyaretçilerine hem dinlenme hem de doğayı deneyimleme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Muhsin Yazıcıoğlu Milli Parkı, tarihi geçmişi ile dikkat çekiyor. Bu böl
 
 ## Coğrafya
 
-Muhsin Yazıcıoğlu Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuştur. Parkın coğrafyası, ziyaretçilerine çeşitli manzaralar sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş ve korunaklı bir doğa ortamına davet ediyor. Parkın etrafında, çeşitli bitki türleri ve zengin fauna encontrülebilir. Muhsin Yazıcıoğlu Milli Parkı, ziyaretçilerine hem dinlenme hem de doğayı deneyimleme fırsatı sunuyor. Parkın coğrafyası, ziyaretçilerini alıp geniş ve yeşil bir mondo'ya götürüyor. İklim, ziyaretçilerine uygun koşullar sunuyor ve parkı ziyaret etmek için her mevsim uygun.
+Muhsin Yazıcıoğlu Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuştur. Parkın coğrafyası, ziyaretçilerine çeşitli manzaralar sunuyor. Parkın etrafında, çeşitli bitki türleri ve zengin fauna encontrülebilir. Muhsin Yazıcıoğlu Milli Parkı, ziyaretçilerine hem dinlenme hem de doğayı deneyimleme fırsatı sunuyor. Parkın coğrafyası, ziyaretçilerini alıp geniş ve yeşil bir mondo'ya götürüyor. İklim, ziyaretçilerine uygun koşullar sunuyor ve parkı ziyaret etmek için her mevsim uygun.
 
 ## Flora ve Fauna
 

@@ -32,7 +32,7 @@ wikidata_id: "Q31534581"
 
 ## Tarihçe
 
-Şanlıurfa, Türkiye'nin en eski yerleşim yerlerinden biri olarak bilinir. Bu bölgede, tarihin sâu izleri görülebilir. Hitit, Asur, Pers ve Roma gibi uygarlıkların izlerini taşıyan Šanlıurfa, kültürel ve tarihi zenginliklerin bir araya geldiği bir bölge. Doğal güzellikleri ile de dikkat çeken bu bölge, Hayrat Tepe gibi önemli noktaları barındırır.
+Şanlıurfa, Türkiye'nin en eski yerleşim yerlerinden biri olarak bilinir. Bu bölgede, tarihin derin izleri görülebilir. Hitit, Asur, Pers ve Roma gibi uygarlıkların izlerini taşıyan Šanlıurfa, kültürel ve tarihi zenginliklerin bir araya geldiği bir bölge. Doğal güzellikleri ile de dikkat çeken bu bölge, Hayrat Tepe gibi önemli noktaları barındırır.
 
 Tarihi ticaret yollarının kesiştiği bir noktada bulunan Şanlıurfa, insan yerleşimlerinin yanı sıra doğal alanların da önemli olduğu bir bölge. Bu tür doğal alanlar, Türkiye'nin tarihi boyunca önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve diğer faaliyetler için kullanılan bu alanlar, insanların doğa ile ilişkisinin önemli bir parçasını oluşturur. Şanlıurfa'nın coğrafi konumu ve doğal güzellikleri, bu bölgenin tarih boyunca çeşitli uygarlıklar için önemli bir merkez haline gelmesini sağlamıştır. Hayrat Tepe, bu bölgenin doğal güzelliklerinin bir parçası olarak, Şanlıurfa'nın tarihini ve kültürünü anlamak için önemli bir nokta.
 
@@ -48,7 +48,7 @@ Bölgenin ekolojik dengesini sağlayan su kaynakları ve komşu alanlar, Hayrat 
 
 ## Flora ve Fauna
 
-Hayrat Tepe, Şanlıurfa'nın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hayrat Tepe, Şanlıurfa'nın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü: İlkbaharda, dağ yamacı çiçeklerle renkleniyor. Sonbaharda, otsu bitkiler sararıp kuruyor. Dağlık alanlar, alpin flora ile kaplı.
 

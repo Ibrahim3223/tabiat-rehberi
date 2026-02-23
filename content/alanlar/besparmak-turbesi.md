@@ -1,7 +1,7 @@
 ---
 title: "Beşparmak Türbesi"
 date: "2026-01-10T05:29:49.541Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391381"
 
 # Beşparmak Türbesi
 
-Beşparmak Türbesi, Kocasinan, Kayseri'de yer alan bir tarihi türbe ve plajdır. Bu bölge, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak tanımlanabilir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzellikleri bir arada sunar. Beşparmak Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarırken aynı zamanda doğanın güzelliği ile de büyüler. Bu türbe ve plaj, Kocasinan'ın önemli turistik noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir.
+Beşparmak Türbesi, Kocasinan, Kayseri'de yer alan bir tarihi türbe ve plajdır. Bu bölge, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak tanımlanabilir. Beşparmak Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarırken aynı zamanda doğanın güzelliği ile de büyüler. Bu türbe ve plaj, Kocasinan'ın önemli turistik noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Beşparmak Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Beşparmak Türbesi, Kocasinan, Kayseri'de yer alır ve coğrafi olarak önemli bir konuma sahiptir. Bu bölge, İç Anadolu Bölgesi'nin merkezi bir kısmında bulunur ve etrafı dağlar ve ovalarla çevrilidir. Türbe ve plaj, bir bütün olarak düşünüldüğünde, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, ziyaretçilere hem tarihi bir türbeyi gezme hem de doğal güzellikleri keşfetme fırsatı sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal iklim özellikleri gösterir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, Beşparmak Türbesi'nin ziyaretçileri için benzersiz bir deneyim sunar.
+Beşparmak Türbesi, Kocasinan, Kayseri'de yer alır ve coğrafi olarak önemli bir konuma sahiptir. Bu bölge, İç Anadolu Bölgesi'nin merkezi bir kısmında bulunur ve etrafı dağlar ve ovalarla çevrilidir. Bu geniş alan, ziyaretçilere hem tarihi bir türbeyi gezme hem de doğal güzellikleri keşfetme fırsatı sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal iklim özellikleri gösterir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikler, Beşparmak Türbesi'nin ziyaretçileri için benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Beşparmak Türbesi ve plajını ziyaret etmek, hem tarihi hem de doğal güzell
 - Bölge, 140 hektarlık bir alanı kaplar
 - Beşparmak Türbesi, Kocasinan'ın önemli turistik noktalarından biridir
 - Türbe ve plaj, doğal güzellikleri ve tarihi bir arada sunar
-- Ziyaretçiler, türbeyi ve plajı gezerken, históri ve doğal güzelliklerin bir arada sunulduğu bir deneyim yaşarlar
+- Ziyaretçiler, türbeyi ve plajı gezerken, tarihi ve doğal güzelliklerin bir arada sunulduğu bir deneyim yaşarlar

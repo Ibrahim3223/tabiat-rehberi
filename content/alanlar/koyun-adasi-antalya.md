@@ -52,7 +52,7 @@ Doğal güzelliği ile dikkat çeken Koyun Adası, coğrafi olarak bakıldığı
 
 Koyun Adası, Antalya'nın kıyı ekosisteminin güzelliklerini sunan bir ada. Ilıman iklimin hakim olduğu bu bölgede, maki bitki örtüsü ada yüzeyini kaplar. İlkbaharla birlikte, ada yüzeyi çeşitli çiçek türleriyle renklenir. Kuraklığa dayanıklı türler, ada koşullarına uyum sağlamış ve yıl boyunca yeşil kalan bir görünüm sunar.
 
-Ada, deniz kuşlarının önemli bir uğrak noktasıdır. Kıyı bitkileri, bu kuşların yaşam alanı olarak hizmet eder. Ada ekosisteminin izole olması, özel popülasyonların oluşmasına neden olmuştur. Sonbahar mevsiminde, göçmen kuşlar ada üzerinde konaklar. 
+Ada, deniz kuşlarının önemli bir uğrak noktasıdır. Kıyı bitkileri, bu kuşların yaşam alanı olarak hizmet eder. Ada ekosisteminin izole olması, özel popülasyonların oluşmasına neden olmuştur. Sonbahar mevsiminde, göçmen kuşlar ada üzerinde konaklar.
 
 Koyun Adası, ekolojik değerini korumak için önemli bir alandır. İzole bir ada ekosistemi olarak, burada yaşayan canlılar birbirleriyle ve çevreleriyle özel bir ilişki içinde yaşar. Bu ada, doğal yaşamın güzelliğini ve çeşitliliğini korumak için önemli bir bölgedir.
 

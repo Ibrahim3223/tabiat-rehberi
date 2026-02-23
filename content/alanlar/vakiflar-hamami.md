@@ -1,7 +1,7 @@
 ---
 title: "Vakıflar Hamamı"
 date: "2026-01-09T23:22:17.205Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739032"
 
 # Vakıflar Hamamı
 
-Vakıflar Hamamı, Menteşe, Muğla'da bulunan ve tarihi ile doğal güzelliklerinin birleştiği bir alandır. Bu alan, Ege Bölgesi'nin önemli turistik mekanlarından biri olarak bilinir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve burada yer alan tarihi hamam, bölgenin önemli kültür miraslarından biridir. Vakıflar Hamamı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan özel bir mekandır.
+Vakıflar Hamamı, Menteşe, Muğla'da bulunan ve tarihi ile doğal güzelliklerinin birleştiği bir alandır. Bu alan, Ege Bölgesi'nin önemli turistik mekanlarından biri olarak bilinir. Vakıflar Hamamı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan özel bir mekandır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Vakıflar Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Vakıflar Hamamı, Menteşe, Muğla'da yer alan bir alandır. Bu bölge, Ege Bölgesi'nin önemli coğrafi alanlarından biridir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve burada yer alan tarihi hamam, bölgenin önemli kültür miraslarından biridir. Alanın coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikler sunar. Ege Bölgesi'nin karakteristik iklimi, bu alanda da hüküm sürer ve ziyaretçilere güzel bir atmosfer sağlar. Çevre, tarihi ve doğal güzelliklerin birleştiği bir alandır.
+Vakıflar Hamamı, Menteşe, Muğla'da yer alan bir alandır. Bu bölge, Ege Bölgesi'nin önemli coğrafi alanlarından biridir. Alanın coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikler sunar. Ege Bölgesi'nin karakteristik iklimi, bu alanda da hüküm sürer ve ziyaretçilere güzel bir atmosfer sağlar. Çevre, tarihi ve doğal güzelliklerin birleştiği bir alandır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Vakıflar Hamamı, ziyaretçilerine güzel bir deneyim sunar. Buraya ulaşmak i�
 
 - Vakıflar Hamamı, Menteşe'nin önemli turistik mekanlarından biridir.
 - Tarihi hamam, bölgenin önemli kültür miraslarından biridir.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bölge, Ege Bölgesi'nin karakteristik iklimine sahiptir.
 - Vakıflar Hamamı, doğa ile iç içe bir deneyim sunar.

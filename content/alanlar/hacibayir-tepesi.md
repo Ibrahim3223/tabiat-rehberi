@@ -28,7 +28,7 @@ wikidata_id: "Q31390490"
 
 # Hacıbayır Tepesi
 
-Hacıbayır Tepesi, Konya'nın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Bu tepe, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbediyor. Konya'nın coğrafi yapısını ve tarihi değerlerini bir araya getiren Hacıbayır Tepesi, gezi rehberlerinin vazgeçilmez noktalarından biri.
+Hacıbayır Tepesi, Konya'nın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir noktadır. Bu tepe, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbediyor. Konya'nın coğrafi yapısını ve tarihi değerlerini bir araya getiren Hacıbayır Tepesi, gezi rehberlerinin vazgeçilmez noktalarından biri.
 
 ## Tarihçe
 

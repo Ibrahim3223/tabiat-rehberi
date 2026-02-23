@@ -1,7 +1,7 @@
 ---
 title: "Köprütaşı Tepesi"
 date: "2026-01-10T13:59:50.427Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Van"
@@ -28,7 +28,7 @@ wikidata_id: "Q32210270"
 
 # Köprütaşı Tepesi
 
-Köprütaşı Tepesi, Doğu Anadolu Bölgesi'nin Van ilinde yer alan ve bölgenin doğal güzelliklerini keşfetmek için ziyaretçilerini bekleyen bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Köprütaşı Tepesi, hem doğa severler hem de tarihi zenginliklere ilgi duyanlar için önemli bir gezi noktası. Bu bölge, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri ile birlikte bir bütün olarak sunuluyor.
+Köprütaşı Tepesi, Doğu Anadolu Bölgesi'nin Van ilinde yer alan ve bölgenin doğal güzelliklerini keşfetmek için ziyaretçilerini bekleyen bir tepe. Köprütaşı Tepesi, hem doğa severler hem de tarihi zenginliklere ilgi duyanlar için önemli bir gezi noktası. Bu bölge, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri ile birlikte bir bütün olarak sunuluyor.
 
 ## Tarihçe
 

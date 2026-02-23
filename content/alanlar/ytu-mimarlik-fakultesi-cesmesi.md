@@ -1,7 +1,7 @@
 ---
 title: "YTÜ Mimarlık Fakültesi Çeşmesi"
 date: "2026-01-10T04:35:44.452Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131368773"
 
 # YTÜ Mimarlık Fakültesi Çeşmesi
 
-140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbulluların yaz tatili için tercih ettiği bir plaj. Marmara Bölgesi'nin en güzel plajlarından biri olan YTÜ Mimarlık Fakültesi Çeşmesi, Beşiktaş ilçesinde yer alıyor. Bu plaj, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak. Burada, deniz suyu ve kumuyla birlikte, güneşin tadını çıkarabilirsiniz. 70'li yıllarda plaj olarak kullanılan bu alan, zamanla İstanbulluların gözde mekanlarından biri haline gelmiştir.
+ Marmara Bölgesi'nin en güzel plajlarından biri olan YTÜ Mimarlık Fakültesi Çeşmesi, Beşiktaş ilçesinde yer alıyor. Bu plaj, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak. Burada, deniz suyu ve kumuyla birlikte, güneşin tadını çıkarabilirsiniz. 70'li yıllarda plaj olarak kullanılan bu alan, zamanla İstanbulluların gözde mekanlarından biri haline gelmiştir.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ YTÜ Mimarlık Fakültesi Çeşmesi, İstanbulluların yaz tatili için tercih e
 
 ## Coğrafya
 
-YTÜ Mimarlık Fakültesi Çeşmesi, Beşiktaş ilçesinde, Marmara Bölgesi'nde yer alıyor. Plaj, 140 hektarlık bir alana yayılıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, İstanbulluların yaz tatili için tercih ettiği bir plaj. Marmara'nın incisi olarak biliniyor. Plajın etrafında, çeşitli tesisler kurulmuş ve bu bölge, İstanbulluların yaz tatili için tercih ettiği bir yer haline gelmiştir. İklimi, Marmara ikliminin özelliklerini taşıyor. Yaz aylarında, plajın etrafında, çeşitli etkinlikler düzenleniyor. Bu plaj, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak. Burada, deniz suyu ve kumuyla birlikte, güneşin tadını çıkarabilirsiniz. Plajın coğrafi konumu, İstanbulluların denizle buluşma noktası.
+YTÜ Mimarlık Fakültesi Çeşmesi, Beşiktaş ilçesinde, Marmara Bölgesi'nde yer alıyor. Bu geniş alan, İstanbulluların yaz tatili için tercih ettiği bir plaj. Marmara'nın incisi olarak biliniyor. Plajın etrafında, çeşitli tesisler kurulmuş ve bu bölge, İstanbulluların yaz tatili için tercih ettiği bir yer haline gelmiştir. İklimi, Marmara ikliminin özelliklerini taşıyor. Yaz aylarında, plajın etrafında, çeşitli etkinlikler düzenleniyor. Bu plaj, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak. Burada, deniz suyu ve kumuyla birlikte, güneşin tadını çıkarabilirsiniz. Plajın coğrafi konumu, İstanbulluların denizle buluşma noktası.
 
 ## Flora ve Fauna
 
-YTÜ Mimarlık Fakültesi Çeşmesi, Marmara Bölgesi'nin en güzel plajlarından biri. Bu plaj, çeşitli bitki türlerine ev sahipliği yapıyor. Plajın etrafında, çeşitli ağaçlar ve bitkiler bulunuyor. Bu bölge, İstanbulluların yaz tatili için tercih ettiği bir yer. Plajın fauna zenginliği, Marmara Bölgesi'nin özelliklerini taşıyor. Bu plajda, çeşitli hayvan türleri yaşuyor. Plajın suyunun berraklığı, bu régionun güzelliğini gösteriyor. Bu plaj, İstanbulluların denizle buluşma noktası.
+YTÜ Mimarlık Fakültesi Çeşmesi, Marmara Bölgesi'nin en güzel plajlarından biri. Bu plaj, çeşitli bitki türlerine ev sahipliği yapıyor. Plajın etrafında, çeşitli ağaçlar ve bitkiler bulunuyor. Bu bölge, İstanbulluların yaz tatili için tercih ettiği bir yer. Plajın fauna zenginliği, Marmara Bölgesi'nin özelliklerini taşıyor. Bu plajda, çeşitli hayvan türleri yaşuyor. Plajın suyunun berraklığı, bu bölgenin güzelliğini gösteriyor. Bu plaj, İstanbulluların denizle buluşma noktası.
 
 ## Ziyaret Bilgileri
 

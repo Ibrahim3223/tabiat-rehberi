@@ -1,7 +1,7 @@
 ---
 title: "Sahibler Sultan Türbesi"
 date: "2026-01-10T06:13:38.077Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390616"
 
 # Sahibler Sultan Türbesi
 
-Sahibler Sultan Türbesi, Ege Bölgesi'nin merkezi Afyonkarahisar'da yer alan tarihi bir türbe ve plaj olarak dikkat çekmektedir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Sahibler Sultan Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir noktada, ziyaretçilerini büyüleyen bir atmosfere sahiptir. Afyonkarahisar'ın merkezinde yer almasıyla kolay ulaşılabilirlik sunar.
+Sahibler Sultan Türbesi, Ege Bölgesi'nin merkezi Afyonkarahisar'da yer alan tarihi bir türbe ve plaj olarak dikkat çekmektedir. Sahibler Sultan Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir noktada, ziyaretçilerini büyüleyen bir atmosfere sahiptir. Afyonkarahisar'ın merkezinde yer almasıyla kolay ulaşılabilirlik sunar.
 
 ## Tarihçe
 

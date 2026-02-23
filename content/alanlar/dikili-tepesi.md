@@ -28,7 +28,7 @@ wikidata_id: "Q31389221"
 
 # Dikili Tepesi
 
-Dikili Tepesi, İstanbul'un Marmara Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir bölge olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunuyor. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri, bu bölgeyi bir doğa cenneti haline getiriyor. Dikili Tepesi, aynı zamanda tarihin izlerini taşıyor ve tarihi geçmişi, ziyaretçilere zengin bir kültürel deneyim sunuyor.
+Dikili Tepesi, İstanbul'un Marmara Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir bölge olarak dikkat çekiyor. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri, bu bölgeyi bir doğa cenneti haline getiriyor. Dikili Tepesi, aynı zamanda tarihin izlerini taşıyor ve tarihi geçmişi, ziyaretçilere zengin bir kültürel deneyim sunuyor.
 
 ## Tarihçe
 

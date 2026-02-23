@@ -1,7 +1,7 @@
 ---
 title: "Izmir-Akhisar-Kirkagac Kızılçam 1"
 date: "2026-01-09T18:33:10.055Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "İzmir"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227896"
 
 # Izmir-Akhisar-Kirkagac Kızılçam 1
 
-İzmir-Akhisar-Kirkagac Kızılçam 1 milli parkı, Ege Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini yeşilin her tonuna davet ediyor. Kızılçam ormanları ile çevrili bu milli park, doğa severler için bir cennet olarak tanımlanabilir. Ziyaretçiler, bu güzel parkta doğa yürüyüşü yapabilir, piknik alanlarında keyifli anlar geçirebilir veya sadece doğanın güzelliğini izleyebilir.
+İzmir-Akhisar-Kirkagac Kızılçam 1 milli parkı, Ege Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Kızılçam ormanları ile çevrili bu milli park, doğa severler için bir cennet olarak tanımlanabilir. Ziyaretçiler, bu güzel parkta doğa yürüyüşü yapabilir, piknik alanlarında keyifli anlar geçirebilir veya sadece doğanın güzelliğini izleyebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108227896"
 
 ## Coğrafya
 
-İzmir-Akhisar-Kirkagac Kızılçam 1 milli parkı, Ege Bölgesi'nin coğrafi yapısına uygun olarak kura ve ılıman bir iklime sahiptir. Park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, ziyaretçilere geniş yürüyüş yolları ve piknik alanları sunar. Parkın coğrafi yapısı, dağlık ve engebeli arazilerle çevrilidir. Bu durum, parkın doğal güzelliğini daha da artırmaktadır. Ayrıca, parkta çeşitli bitki türleri ve zengin fauna bulunur. Bu nedenle, park, doğa severler için ideal bir destinasyon olarak kabul edilebilir.
+İzmir-Akhisar-Kirkagac Kızılçam 1 milli parkı, Ege Bölgesi'nin coğrafi yapısına uygun olarak kura ve ılıman bir iklime sahiptir. Bu geniş alan, ziyaretçilere geniş yürüyüş yolları ve piknik alanları sunar. Parkın coğrafi yapısı, dağlık ve engebeli arazilerle çevrilidir. Bu durum, parkın doğal güzelliğini daha da artırmaktadır. Ayrıca, parkta çeşitli bitki türleri ve zengin fauna bulunur. Bu nedenle, park, doğa severler için ideal bir destinasyon olarak kabul edilebilir.
 
 ## Flora ve Fauna
 

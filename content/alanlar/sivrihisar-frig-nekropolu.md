@@ -1,7 +1,7 @@
 ---
 title: "Sivrihisar Frig Nekropolü"
 date: "2026-01-10T04:11:16.219Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728241"
 
 # Sivrihisar Frig Nekropolü
 
-Sivrihisar Frig Nekropolü, Eskişehir'in Sivrihisar ilçesinde yer alan ve 140 hektarlık geniş bir alana yayılan bir tarihi alandır. Bu nekropol, Frig uygarlığının önemli kalıntılarından biri olarak kabul edilir. Yaklaşık 200 futbol sahası büyüklüğündeki bu alan, ziyaretçilerini geçmişe götürür. Nekropolün tarihi geçmişi, ziyaretçilere eski uygarlıkların kültürel mirasını keşfetme fırsatı sunar. Sivrihisar Frig Nekropolü, İç Anadolu Bölgesi'nin önemli kültürel değerlerinden biri olarak kabul edilir.
+Sivrihisar Frig Nekropolü, Eskişehir'in Sivrihisar ilçesinde yer alan ve 140 hektarlık geniş bir alana yayılan bir tarihi alandır. Bu nekropol, Frig uygarlığının önemli kalıntılarından biri olarak kabul edilir. Nekropolün tarihi geçmişi, ziyaretçilere eski uygarlıkların kültürel mirasını keşfetme fırsatı sunar. Sivrihisar Frig Nekropolü, İç Anadolu Bölgesi'nin önemli kültürel değerlerinden biri olarak kabul edilir.
 
 ## Tarihçe
 

@@ -50,11 +50,11 @@ Bu tepe, çevresindeki diğer coğrafi oluşumlarla bağlantılı bir şekilde, 
 
 ## Flora ve Fauna
 
-Yılandağı Tepesi, yarı kurak iklimin hakim olduğu bir bölge olan Siirt'te, dağ ekosisteminin tüm güzelliğini sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yılandağı Tepesi, yarı kurak iklimin hakim olduğu bir bölge olan Siirt'te, dağ ekosisteminin tüm güzelliğini sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne baktığımızda, ilkbaharla birlikte dağ yamaçları rengarenk çiçeklerle donanır. Step ve ova ekolojisinin karakteristik türleri, burada yükseklik zonlarına bağlı olarak değişen bir dağılım gösterir. Alpin flora, dağların yüksek kesimlerinde hakimdir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri ve yaban kedileri, dağların kaya dik yamaçlarında yaşamlarını sürdürürken, kartallar ve şahinler gökyüzünde hükmeder. Sonbaharda, göçmen kuşlar bu dağları geçiş noktası olarak kullanır. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri ve yaban kedileri, dağların kaya dik yamaçlarında yaşamlarını sürdürürken, kartallar ve şahinler gökyüzünde hükmeder. Sonbaharda, göçmen kuşlar bu dağları geçiş noktası olarak kullanır.
 
 Bu dağ ekosisteminin ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasında yatmaktadır. Yılandağı Tepesi, bölgenin su kaynaklarının korunmasına da önemli katkılar sağlar. Bu nedenle, bu doğal alanın korunması ve sürdürülebilir kullanımı, gelecek nesiller için hayati önem taşır.
 

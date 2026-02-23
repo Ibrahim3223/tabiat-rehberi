@@ -29,7 +29,7 @@ wikidata_id: "Q31390623"
 
 # Tuz Tepe
 
-Kırşehir'in merkezinde yer alan Tuz Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle büyülemeye devam ediyor. Tuz Tepe, özellikle manzarasıyla dikkat çekiyor ve ziyaretçiler için keyifli bir gezi deneyimi sunuyor. Tuz Tepe'ye çıkanlar, eşsiz bir manzara izleme fırsatı buluyorlar.
+Kırşehir'in merkezinde yer alan Tuz Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tuz Tepe, özellikle manzarasıyla dikkat çekiyor ve ziyaretçiler için keyifli bir gezi deneyimi sunuyor. Tuz Tepe'ye çıkanlar, eşsiz bir manzara izleme fırsatı buluyorlar.
 
 ## Tarihçe
 

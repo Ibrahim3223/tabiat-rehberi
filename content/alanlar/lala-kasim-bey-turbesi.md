@@ -1,7 +1,7 @@
 ---
 title: "Lala Kasım Bey Türbesi"
 date: "2026-01-10T05:19:26.518Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391730"
 
 # Lala Kasım Bey Türbesi
 
-Lala Kasım Bey Türbesi, Diyarbakır'ın Sur ilçesinde yer alan, tarihi ve kültürel açıdan önemli bir yapıdır. 140 hektarlık bir alanı kaplayan bu mekân, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Lala Kasım Bey Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Bu tarihi mekân, Diyarbakır'ın zengin kültürel mirasının bir parçası olarak kabul ediliyor. Lala Kasım Bey Türbesi, ziyaretçilerine tarihin sayfalarında bir yolculuk sunuyor.
+Lala Kasım Bey Türbesi, Diyarbakır'ın Sur ilçesinde yer alan, tarihi ve kültürel açıdan önemli bir yapıdır. Lala Kasım Bey Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Bu tarihi mekân, Diyarbakır'ın zengin kültürel mirasının bir parçası olarak kabul ediliyor. Lala Kasım Bey Türbesi, ziyaretçilerine tarihin sayfalarında bir yolculuk sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Lala Kasım Bey Türbesi, tarihi geçmişi ile önemli bir yere sahip. Bu tarihs
 
 ## Coğrafya
 
-Lala Kasım Bey Türbesi, Diyarbakır'ın Sur ilçesinde yer alıyor. Bu mekân, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Lala Kasım Bey Türbesi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tarihi mekân, çevresi ile birlikte bir bütün olarak düşünülüyor. Lala Kasım Bey Türbesi, Diyarbakır'ın coğrafi özellikleri ile birlikte ele alınıyor. Bu mekân, bölgenin iklimi ve çevre koşulları ile birlikte değerlendiriliyor. Lala Kasım Bey Türbesi, ziyaretçilerine coğrafi açıdan önemli bir noktada bulunuyor. Bu tarihi yapı, bölgenin doğal güzelliklerini ziyaretçilerine sunuyor.
+Lala Kasım Bey Türbesi, Diyarbakır'ın Sur ilçesinde yer alıyor. Bu mekân, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Bu tarihi mekân, çevresi ile birlikte bir bütün olarak düşünülüyor. Lala Kasım Bey Türbesi, Diyarbakır'ın coğrafi özellikleri ile birlikte ele alınıyor. Bu mekân, bölgenin iklimi ve çevre koşulları ile birlikte değerlendiriliyor. Lala Kasım Bey Türbesi, ziyaretçilerine coğrafi açıdan önemli bir noktada bulunuyor. Bu tarihi yapı, bölgenin doğal güzelliklerini ziyaretçilerine sunuyor.
 
 ## Flora ve Fauna
 

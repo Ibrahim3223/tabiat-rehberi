@@ -28,7 +28,7 @@ wikidata_id: "Q61076498"
 
 # Çetekalevi Şelalesi
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Çetekalevi Şelalesi, yaklaşık 140 hektarlık bir alanda, doğanın tüm güzelliğini sergiler. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada doğa severler için birçok aktivite imkânı sunar. Şelalenin etrafı, zengin bitki türleri ve çeşitli hayvanlarla dolu bir ormanla çevrilidir. Buradaki şelale, yükseklikten düşen suyun sesi ve güzelliği ile ziyaretçilerini büyüler. Çetekalevi Şelalesi, hem doğal güzelliği hem de etrafındaki floranın çeşitliliği ile göz kamaştırır. Bu şelale, özellikle ilkbahar ve yaz aylarında ziyaretçilere daha da çekici gelir, çünkü bu mevsimlerde bitki örtüsü en yeşil haliyle bulunur.
+İç Anadolu Bölgesi'nin kalbinde yer alan Çetekalevi Şelalesi, yaklaşık 140 hektarlık bir alanda, doğanın tüm güzelliğini sergiler. Şelalenin etrafı, zengin bitki türleri ve çeşitli hayvanlarla dolu bir ormanla çevrilidir. Buradaki şelale, yükseklikten düşen suyun sesi ve güzelliği ile ziyaretçilerini büyüler. Çetekalevi Şelalesi, hem doğal güzelliği hem de etrafındaki floranın çeşitliliği ile göz kamaştırır. Bu şelale, özellikle ilkbahar ve yaz aylarında ziyaretçilere daha da çekici gelir, çünkü bu mevsimlerde bitki örtüsü en yeşil haliyle bulunur.
 
 ## Tarihçe
 

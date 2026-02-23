@@ -22,7 +22,7 @@ wikidata_id: "Q108228857"
 
 # Avlan Gölü Sulak Alanı
 
-Avlan Gölü Sulak Alanı, İç Anadolu Bölgesi'nin merkezi bir konumda yer alan, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, hem yaban hayatı hem de bitki örtüsü açısından oldukça zengin. Göl ve çevresindeki sulak alanlar, birçok canlı türünün yaşam alanı olarak hizmet vermekte. Avlan Gölü Sulak Alanı, doğa severler ve ornitologlar için bir cennet niteliğinde. Bu alanın güzelliği, sadece doğal güzelliklerinden değil, aynı zamanda burada yaşayan çeşitli canlıların uyum içinde yaşamasından da kaynaklanmaktadır.
+ Bu bölge, hem yaban hayatı hem de bitki örtüsü açısından oldukça zengin. Göl ve çevresindeki sulak alanlar, birçok canlı türünün yaşam alanı olarak hizmet vermekte. Avlan Gölü Sulak Alanı, doğa severler ve ornitologlar için bir cennet niteliğinde. Bu alanın güzelliği, sadece doğal güzelliklerinden değil, aynı zamanda burada yaşayan çeşitli canlıların uyum içinde yaşamasından da kaynaklanmaktadır.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Avlan Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat �
 
 ## Flora ve Fauna
 
-Avlan Gölü Sulak Alanı, flora ve fauna açısından oldukça zengin bir bölgedir. Bu bölgede, çeşitli bitkiler ve yaban hayvanları yaşamaktadır. Göl ve çevresindeki sulak alanlar, su kuşları ve diğer su canlıları için önemli bir yaşam alanı olarak hizmet vermektedir. Avlan Gölü Sulak Alanı, mevsimsel değişimlere göre, farklı canlı türlerine ev sahipliği yapmaktadır. Kış aylarında, burası bazı kuş türleri için önemli bir kışlama alanı olarak görev yapmaktadır. Bu bölgenin ekolojik önemi, sadece burada yaşayan canlılar değil, aynı zamanda bu canlıların diğer bölgelere olan etkilerinden de kaynaklanmaktadır.
+ Bu bölgede, çeşitli bitkiler ve yaban hayvanları yaşamaktadır. Göl ve çevresindeki sulak alanlar, su kuşları ve diğer su canlıları için önemli bir yaşam alanı olarak hizmet vermektedir. Avlan Gölü Sulak Alanı, mevsimsel değişimlere göre, farklı canlı türlerine ev sahipliği yapmaktadır. Kış aylarında, burası bazı kuş türleri için önemli bir kışlama alanı olarak görev yapmaktadır. Bu bölgenin ekolojik önemi, sadece burada yaşayan canlılar değil, aynı zamanda bu canlıların diğer bölgelere olan etkilerinden de kaynaklanmaktadır.
 
 ## Ziyaret Bilgileri
 

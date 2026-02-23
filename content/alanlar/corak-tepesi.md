@@ -28,7 +28,7 @@ wikidata_id: "Q34829540"
 
 # Çorak Tepesi
 
-Çorak Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Çorak Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin eteklerinde, tarihi geçmişi olan köyler ve kasabalar yer alır. Bu bölge, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çeker.
+Çorak Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe. Çorak Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin eteklerinde, tarihi geçmişi olan köyler ve kasabalar yer alır. Bu bölge, hem doğal güzellikleri hem de tarihi değerleriyle dikkat çeker.
 
 ## Tarihçe
 

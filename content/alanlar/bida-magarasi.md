@@ -52,7 +52,7 @@ Bölgenin ekosistemi, mağaranın varlığıyla birlikte zenginleşir. Mağara, 
 
 Bida Mağarası'nın çevresi, yarı kurak iklimin hüküm sürdüğü bir jeopark alanıdır. Bu bölge, step ve ova ekolojisinin bir bileşkesini oluşturur. İlkbaharın gelişiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar bu bölgeyi konaklama noktaları olarak kullanır.
 
-Orman ekosisteminin hakim olduğu bu alanda, çeşitli ağaç türleri bulunur. Bu ağaçlar, memeliler ve kuşlar için yaşam alanı oluşturur. Yaban hayatına baktığımızda, memelilerin yanı sıra, çeşitli kuş türleri ve sürüngenler de bu ekosistemin bir parçası olarak karşımıza çıkar. 
+Orman ekosisteminin hakim olduğu bu alanda, çeşitli ağaç türleri bulunur. Bu ağaçlar, memeliler ve kuşlar için yaşam alanı oluşturur. Yaban hayatına baktığımızda, memelilerin yanı sıra, çeşitli kuş türleri ve sürüngenler de bu ekosistemin bir parçası olarak karşımıza çıkar.
 
 Bu ekosistemin değeri, biyolojik çeşitliliğin korunması açısından oldukça önemlidir. Ancak, yarı kurak iklimin getirdiği zorlu koşullar, bu alanın korunması için özel önlemlerin alınmasını gerektirir. Bida Mağarası ve çevresinin korunması, Türkiye'nin doğal mirasının korunması için büyük bir önem taşır.
 
@@ -67,4 +67,4 @@ Bida Mağarası'na gitmeden önce, sabah erken gitmenizi öneririm, hem kalabal�
 - Bida Mağarası,Batman il merkezine yaklaşık 10 kilometre uzaklıktadır.
 - Mağaranın oluşumu, bölgenin jeolojik geçmişine kadar uzanır.
 - Bida Mağarası, Batman'ın doğal ve turistik açıdan önemli noktalarından biridir.
-- Mağara, bölgenin ekolojik dengesini korumak açısından önemlidir.
+

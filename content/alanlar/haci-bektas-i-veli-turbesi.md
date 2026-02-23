@@ -1,7 +1,7 @@
 ---
 title: "Hacı Bektaş-ı Veli Türbesi"
 date: "2026-01-10T04:46:16.617Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Nevşehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q20474091"
 
 # Hacı Bektaş-ı Veli Türbesi
 
-Hacı Bektaş-ı Veli Türbesi, İç Anadolu Bölgesi'nin kalbinde, Nevşehir ilinde yer alan bir dini ve tarihi yapıdır. 13. yüzyılda yaşamış büyük bir Türk mutasavvıfı olan Hacı Bektaş-ı Veli'nin hacet yerine dönüştürülmüş türbesi, geniş bir avlu ve çeşitli yapıları içeren bir komplekstir. Türbe, yaklaşık 140 hektarlık bir alanda kurulmuş olup, bu alan yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Hacı Bektaş-ı Veli Türbesi, Türk kültür ve tarihine önemli katkılar sağlamış bir mutasavvıfın anılarını yaşatmak amacıyla ziyaretçilerini ağırlar.
+Hacı Bektaş-ı Veli Türbesi, İç Anadolu Bölgesi'nin kalbinde, Nevşehir ilinde yer alan bir dini ve tarihi yapıdır. 13. yüzyılda yaşamış büyük bir Türk mutasavvıfı olan Hacı Bektaş-ı Veli'nin hacet yerine dönüştürülmüş türbesi, geniş bir avlu ve çeşitli yapıları içeren bir komplekstir. Hacı Bektaş-ı Veli Türbesi, Türk kültür ve tarihine önemli katkılar sağlamış bir mutasavvıfın anılarını yaşatmak amacıyla ziyaretçilerini ağırlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hacı Bektaş-ı Veli Türbesi, 13. yüzyılda yaşamış Hacı Bektaş-ı Veli'
 
 ## Coğrafya
 
-Hacı Bektaş-ı Veli Türbesi, İç Anadolu Bölgesi'nin merkezi olan Nevşehir ilinde yer alır. Türbe, yaklaşık 140 hektarlık bir alanda kurulmuş olup, bu alan yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır; yüksek bir plato üzerine kurulmuştur ve çevresinde çeşitli dağlar ve ovalar bulunur. İklim, İç Anadolu Bölgesi'nin tipik karasal iklimidir; kışları soğuk ve karlı, yazları sıcak ve kurudur. Türbe, Nevşehir'in merkezine uzun bir mesafe uzaklıktadır ve ulaşım, karayolu üzerinden sağlanmaktadır. Çevre, çeşitli tarım arazileri, ovalar ve dağlarla çevrilidir. Hacı Bektaş-ı Veli Türbesi, coğrafi konumu itibariyle, hem doğal güzellikleri hem de tarihi ve dini önemi bir arada sunan bir mekan olarak ziyaretçilerini ağırlar.
+Hacı Bektaş-ı Veli Türbesi, İç Anadolu Bölgesi'nin merkezi olan Nevşehir ilinde yer alır. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır; yüksek bir plato üzerine kurulmuştur ve çevresinde çeşitli dağlar ve ovalar bulunur. İklim, İç Anadolu Bölgesi'nin tipik karasal iklimidir; kışları soğuk ve karlı, yazları sıcak ve kurudur. Türbe, Nevşehir'in merkezine uzun bir mesafe uzaklıktadır ve ulaşım, karayolu üzerinden sağlanmaktadır. Çevre, çeşitli tarım arazileri, ovalar ve dağlarla çevrilidir. Hacı Bektaş-ı Veli Türbesi, coğrafi konumu itibariyle, hem doğal güzellikleri hem de tarihi ve dini önemi bir arada sunan bir mekan olarak ziyaretçilerini ağırlar.
 
 ## Flora ve Fauna
 

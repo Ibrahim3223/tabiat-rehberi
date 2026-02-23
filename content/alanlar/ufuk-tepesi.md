@@ -28,7 +28,7 @@ wikidata_id: "Q31388525"
 
 # Ufuk Tepesi
 
-Ufuk Tepesi, Doğu Anadolu Bölgesi'nin göğsünde yükselen bir tepe olarak, Erzurum'un önemli doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir yeşil alana sahiptir. Bu tepe, bölgenin coğrafi ve ekolojik zenginliklerini gözler önüne serer. Ufuk Tepesi, aynı zamanda bir hikaye anlatıcısı gibi, ziyaretçilerini tarihin derinliklerine götürür. Burada, doğanın güzelliği ile tarihi geçmiş bir araya gelir. Bu tepenin eteklerinde, ziyaretçiler hem doğanın huzurunu yaşayabilir, hem de tarihi kalıntıları keşfedebilir.
+Ufuk Tepesi, Doğu Anadolu Bölgesi'nin göğsünde yükselen bir tepe olarak, Erzurum'un önemli doğal güzelliklerinden biridir. Bu tepe, bölgenin coğrafi ve ekolojik zenginliklerini gözler önüne serer. Ufuk Tepesi, aynı zamanda bir hikaye anlatıcısı gibi, ziyaretçilerini tarihin derinliklerine götürür. Burada, doğanın güzelliği ile tarihi geçmiş bir araya gelir. Bu tepenin eteklerinde, ziyaretçiler hem doğanın huzurunu yaşayabilir, hem de tarihi kalıntıları keşfedebilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ufuk Tepesi, tarihin gizemli sayfalarında yer alan bir mekan olarak, yüzyılla
 
 ## Coğrafya
 
-Ufuk Tepesi, coğrafi konumu itibariyle Doğu Anadolu Bölgesi'nin önemli bir noktası olarak, Erzurum'un göbeğinde yer alır. Bu tepe, 140 hektarlık geniş bir alana sahip olup, yaklaşık 200 futbol sahası büyüklüğündedir. Ufuk Tepesi, Erzurum'un coğrafi yapısını oluşturan önemli bir parça olarak, bölgenin doğal güzelliklerini gözler önüne serer. Bu tepenin eteklerinde, ziyaretçiler hem coğrafi güzellikleri keşfedebilir, hem de doğanın huzurunu yaşayabilir. Ufuk Tepesi, aynı zamanda çevresindeki dağlar ve vadiler ile birlikte, bir doğa harikası olarak dikkat çeker. Bu tepe, Erzurum'un coğrafi zenginliklerini oluşturan önemli bir mekan olarak, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
+Ufuk Tepesi, coğrafi konumu itibariyle Doğu Anadolu Bölgesi'nin önemli bir noktası olarak, Erzurum'un göbeğinde yer alır. Ufuk Tepesi, Erzurum'un coğrafi yapısını oluşturan önemli bir parça olarak, bölgenin doğal güzelliklerini gözler önüne serer. Bu tepenin eteklerinde, ziyaretçiler hem coğrafi güzellikleri keşfedebilir, hem de doğanın huzurunu yaşayabilir. Ufuk Tepesi, aynı zamanda çevresindeki dağlar ve vadiler ile birlikte, bir doğa harikası olarak dikkat çeker. Bu tepe, Erzurum'un coğrafi zenginliklerini oluşturan önemli bir mekan olarak, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
 
 ## Flora ve Fauna
 

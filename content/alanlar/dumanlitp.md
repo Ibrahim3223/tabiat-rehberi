@@ -23,7 +23,7 @@ wikidata_id: "Q108228797"
 
 # DUMANLI_TP
 
-DUMANLI_TP, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna ile ziyaretçilerini büyülemektedir. Bu doğal cennet, hem doğa severler hem de macera arayanlar için ideal bir destinasyondur. DUMANLI_TP'nin güzellikleri, ziyaretçilerini doğanın kucağına davet ediyor.
+DUMANLI_TP, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu doğal cennet, hem doğa severler hem de macera arayanlar için ideal bir destinasyondur. DUMANLI_TP'nin güzellikleri, ziyaretçilerini doğanın kucağına davet ediyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Barbaros Hayreddin Paşa Türbesi"
 date: "2026-01-10T04:46:55.113Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q6021475"
 
 # Barbaros Hayreddin Paşa Türbesi
 
-Barbaros Hayreddin Paşa Türbesi, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir mekan olarak dikkat çekmektedir. Bu türbe, yaklaşık 16. yüzyılda inşa edilmiş ve Barbaros Hayreddin Paşa'nın anısına yapılmıştır. Türbenin etrafı, yeşillik alanlarla çevrilidir ve ziyaretçilere huzurlu bir ortam sunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçiler için geniş bir gezi alanı sunmaktadır.
+Barbaros Hayreddin Paşa Türbesi, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir mekan olarak dikkat çekmektedir. Bu türbe, yaklaşık 16. yüzyılda inşa edilmiş ve Barbaros Hayreddin Paşa'nın anısına yapılmıştır. Türbenin etrafı, yeşillik alanlarla çevrilidir ve ziyaretçilere huzurlu bir ortam sunmaktadır.
 
 ## Tarihçe
 

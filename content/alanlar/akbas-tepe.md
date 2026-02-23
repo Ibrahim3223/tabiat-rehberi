@@ -28,7 +28,7 @@ wikidata_id: "Q31390460"
 
 # Akbaş Tepe
 
-Konya'nın İç Anadolu Bölgesi'nde yer alan Akbaş Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Akbaş Tepe, tarih boyunca önemli bir yerleşim yeri olarak kabul edilmiş ve çeşitli uygarlıkların izlerini taşıyor. Tepe, aynı zamanda coğrafi konumuyla dikkat çekiyor ve ziyaretçilerine Konya'nın geniş ovasını panorama şeklinde izleme fırsatı sunuyor.
+Konya'nın İç Anadolu Bölgesi'nde yer alan Akbaş Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Akbaş Tepe, tarih boyunca önemli bir yerleşim yeri olarak kabul edilmiş ve çeşitli uygarlıkların izlerini taşıyor. Tepe, aynı zamanda coğrafi konumuyla dikkat çekiyor ve ziyaretçilerine Konya'nın geniş ovasını panorama şeklinde izleme fırsatı sunuyor.
 
 ## Tarihçe
 

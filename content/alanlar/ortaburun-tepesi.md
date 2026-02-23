@@ -28,7 +28,7 @@ wikidata_id: "Q31386990"
 
 # Ortaburun Tepesi
 
-Ortaburun Tepesi, Bolu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Ortaburun Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin muhteşem manzaralarıyla baş başa bırakıyor. Bu tepe, hem doğa severlerin hem de macera arayanların ilgisini çekiyor. Ortaburun Tepesi, geniş açıkları ve yemyeşil ormanlarıyla ziyaretçilerini büyülüyor.
+Ortaburun Tepesi, Bolu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunuyor. Ortaburun Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin muhteşem manzaralarıyla baş başa bırakıyor. Bu tepe, hem doğa severlerin hem de macera arayanların ilgisini çekiyor. Ortaburun Tepesi, geniş açıkları ve yemyeşil ormanlarıyla ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31552516"
 
 # Razialigaa Tepesi
 
-Razialigaa Tepesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Diyarbakır ilinin sınırları içerisinde yer alan bir tepe olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü coğrafi özelliklerle dolu. Razialigaa Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaşmaya ve doğanın güzelliğini keşfetmeye davet ediyor. Tepenin eteklerinde, tarihi geçmişi olan köyler ve kasabalar yer alıyor. Bu tepenin eteklerine kurulmuş olan yerleşim yerleri, bölgenin kültürel zenginliğini yansıtıyor. Razialigaa Tepesi, hem doğal güzelliği hem de tarihsel önemi ile ziyaretçilerini bekliyor.
+Razialigaa Tepesi, Güneydoğu Anadolu Bölgesi'nin kalbinde, Diyarbakır ilinin sınırları içerisinde yer alan bir tepe olarak dikkat çekiyor. Razialigaa Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaşmaya ve doğanın güzelliğini keşfetmeye davet ediyor. Tepenin eteklerinde, tarihi geçmişi olan köyler ve kasabalar yer alıyor. Bu tepenin eteklerine kurulmuş olan yerleşim yerleri, bölgenin kültürel zenginliğini yansıtıyor. Razialigaa Tepesi, hem doğal güzelliği hem de tarihsel önemi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Razialigaa Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristi
 
 ## Flora ve Fauna
 
-Razialigaa Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bitkiler, bölgenin iklimine ve toprağına uyum sağlamış durumda. Tepede, özellikle çam, meşe ve kestane ağaçları yaygın olarak bulunuyor. Bu ağaçlar, tepenin flora'sını oluşturan önemli parçalar. Razialigaa Tepesi'nin fauna'sı da oldukça zengin. Tepede, çeşitli hayvan türleri yaşamaktadır. Bunlar arasında, özellikle yaban domuzu, tavşan ve çeşitli kuş türleri dikkat çekiyor. Tepenin fauna'sı, bölgenin ekolojik dengesini korumada önemli bir rol oynuyor. Mevsimsel değişimler, tepenin flora ve fauna'sını etkiliyor. İlkbahar ve yaz aylarında, tepenin flora'sı daha da zenginleşiyor ve fauna'sı daha aktif hale geliyor.
+ Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bitkiler, bölgenin iklimine ve toprağına uyum sağlamış durumda. Tepede, özellikle çam, meşe ve kestane ağaçları yaygın olarak bulunuyor. Bu ağaçlar, tepenin flora'sını oluşturan önemli parçalar. Razialigaa Tepesi'nin fauna'sı da oldukça zengin. Tepede, çeşitli hayvan türleri yaşamaktadır. Bunlar arasında, özellikle yaban domuzu, tavşan ve çeşitli kuş türleri dikkat çekiyor. Tepenin fauna'sı, bölgenin ekolojik dengesini korumada önemli bir rol oynuyor. Mevsimsel değişimler, tepenin flora ve fauna'sını etkiliyor. İlkbahar ve yaz aylarında, tepenin flora'sı daha da zenginleşiyor ve fauna'sı daha aktif hale geliyor.
 
 ## Ziyaret Bilgileri
 

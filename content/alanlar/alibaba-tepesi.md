@@ -28,11 +28,11 @@ wikidata_id: "Q21694784"
 
 # Alibaba Tepesi
 
-Alibaba Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çekmektedir. Erzurum'un güzide mekanlarından biri olan bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini etkileyen bir güzelliğe sahiptir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerin doğayı yakından tanımalarına olanak tanır. Alibaba Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülemektedir.
+Alibaba Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çekmektedir. Erzurum'un güzide mekanlarından biri olan bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini etkileyen bir güzelliğe sahiptir. Alibaba Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 
-Alibaba Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak dikkat çekmektedir. Bu tepe, tarihi boyunca önemli olaylara sahne olmakla birlikte, ziyaretçilerine zengin bir kültürel miras sunmaktadır. Tarihi geçmişi v olan Alibaba Tepesi, ziyaretçilerini geçmişe yolculuk yapmaya davet etmektedir. Yüzyılların izlerini taşıyan bu tepe, ziyaretçilerine unutulmaz bir deneyim sunmaktadır. Alibaba Tepesi'nin tarihi hakkında detaylı bilgi bulunsa da, genel olarak tarihi geçmişi hakkında bilgi verilebilir.
+Alibaba Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak dikkat çekmektedir. Bu tepe, tarihi boyunca önemli olaylara sahne olmakla birlikte, ziyaretçilerine zengin bir kültürel miras sunmaktadır. Tarihi geçmişi v olan Alibaba Tepesi, ziyaretçilerini geçmişe yolculuk yapmaya davet etmektedir. Alibaba Tepesi'nin tarihi hakkında detaylı bilgi bulunsa da, genel olarak tarihi geçmişi hakkında bilgi verilebilir.
 
 ## Coğrafya
 

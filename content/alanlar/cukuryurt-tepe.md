@@ -28,11 +28,11 @@ wikidata_id: "Q34829591"
 
 # Çukuryurt Tepe
 
-Çukuryurt Tepe, Konya'nın merkezi bir konumunda yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli doğal ve tarihi noktalarından biri. Bu tepe, ziyaretçilerine Konya'nın tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Çukuryurt Tepe, aynı zamanda şehrin panoramik manzarasının keyfini çıkarabileceğiniz bir nokta.
+Çukuryurt Tepe, Konya'nın merkezi bir konumunda yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Bu tepe, ziyaretçilerine Konya'nın tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Çukuryurt Tepe, aynı zamanda şehrin panoramik manzarasının keyfini çıkarabileceğiniz bir nokta.
 
 ## Tarihçe
 
-Çukuryurt Tepe'nin tarihi geçmişi, yüzyıllar boyunca pek çok medeniyete ev sahipliği yapmış olan Konya'nın zengin historia mirasını yansıtıyor. Bu tepe, çeşitli uygarlıkların izlerini taşıyor ve ziyaretçileri tarihin sâu sayfalarına götürüyor. Tarihi belgelerde yer alan bilgiler, Çukuryurt Tepe'nin önemli bir yerleşim merkezi olarak kullanıldığını gösteriyor. Tarihin farklı dönemlerinde, bu tepeye yapılan ziyaretler ve burada gerçekleştirilen etkinlikler, tepeye ayrı bir önem katmıştır. Çukuryurt Tepe, Konya'nın tarihini öğrenmek isteyenler için önemli bir destinasyon.
+Çukuryurt Tepe'nin tarihi geçmişi, yüzyıllar boyunca pek çok medeniyete ev sahipliği yapmış olan Konya'nın zengin historia mirasını yansıtıyor. Bu tepe, çeşitli uygarlıkların izlerini taşıyor ve ziyaretçileri tarihin derin sayfalarına götürüyor. Tarihi belgelerde yer alan bilgiler, Çukuryurt Tepe'nin önemli bir yerleşim merkezi olarak kullanıldığını gösteriyor. Tarihin farklı dönemlerinde, bu tepeye yapılan ziyaretler ve burada gerçekleştirilen etkinlikler, tepeye ayrı bir önem katmıştır. Çukuryurt Tepe, Konya'nın tarihini öğrenmek isteyenler için önemli bir destinasyon.
 
 ## Coğrafya
 

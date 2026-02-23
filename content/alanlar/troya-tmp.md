@@ -22,7 +22,7 @@ wikidata_id: "Q108227194"
 
 # Troya TMP
 
-Troya TMP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu muazzam doğal alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Troya TMP, hem doğa severler hem de macera arayışındaki kişiler için ideal bir destinasyon. 140 hektarlık bu yeşil cennet, ziyaretçilerine huzur ve heyecan dolu anlar vaat ediyor.
+ Bu muazzam doğal alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Troya TMP, hem doğa severler hem de macera arayışındaki kişiler için ideal bir destinasyon. 140 hektarlık bu yeşil cennet, ziyaretçilerine huzur ve heyecan dolu anlar vaat ediyor.
 
 ## Tarihçe
 

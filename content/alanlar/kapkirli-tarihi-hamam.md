@@ -1,7 +1,7 @@
 ---
 title: "Kapkirli Tarihi Hamam"
 date: "2026-01-09T22:20:36.939Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,15 +29,15 @@ wikidata_id: "Q131738412"
 
 # Kapkirli Tarihi Hamam
 
-Kapkirli Tarihi Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Akçakoca'nın merkezine uzun bir mesafe uzaklıkta bulunan bu plaj, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Plajın yanı sıra, tarihi hamamın sunduğu imkanlar ve çeşitli aktiviteleri ile ziyaretçilerini bekliyor. Kapkirli Tarihi Hamam, özellikle yaz aylarında ziyaretçilerini ağırlamak için hazır bekliyor. Plajın sunduğu doğal güzellikler, tarihi hamamın tarihi geçmişi ve çeşitli aktiviteleri ile ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Kapkirli Tarihi Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Plajın yanı sıra, tarihi hamamın sunduğu imkanlar ve çeşitli aktiviteleri ile ziyaretçilerini bekliyor. Kapkirli Tarihi Hamam, özellikle yaz aylarında ziyaretçilerini ağırlamak için hazır bekliyor.
 
 ## Tarihçe
 
-Kapkirli Tarihi Hamam, tarihi geçmişi ile dikkat çeker. Tarihi hamamın tam kuruluş tarihi bilinmemekle birlikte, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yaptığı bilinir. Tarihi hamam, özellikle Osmanlı Dönemi'nde önemli bir merkez olarak bilinir. Tarihi hamamın sunduğu imkanlar ve çeşitli aktiviteleri ile ziyaretçilerini ağırlamaya devam ediyor. Kapkirli Tarihi Hamam, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Kapkirli Tarihi Hamam, tarihi geçmişi ile dikkat çeker. Tarihi hamamın tam kuruluş tarihi bilinmemekle birlikte, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yaptığı bilinir. Tarihi hamam, özellikle Osmanlı Dönemi'nde önemli bir merkez olarak bilinir. Tarihi hamamın sunduğu imkanlar ve çeşitli aktiviteleri ile ziyaretçilerini ağırlamaya devam ediyor.
 
 ## Coğrafya
 
-Kapkirli Tarihi Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Akçakoca'nın merkezine uzun bir mesafe uzaklıkta bulunan bu plaj, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Plajın sunduğu doğal güzellikler, tarihi hamamın tarihi geçmişi ve çeşitli aktiviteleri ile ziyaretçilerine unutulmaz bir deneyim sunuyor. Kapkirli Tarihi Hamam, Karadeniz Bölgesi'nin karakteristik özellikleri ile dikkat çeker. Bölgenin karakteristik özellikleri arasında, yeşilin ve mavinin tonları ile kaplı olan doğası ve iklimi bulunur. Kapkirli Tarihi Hamam, özellikle yaz aylarında ziyaretçilerini ağırlamak için hazır bekliyor. Plajın sunduğu doğal güzellikler, tarihi hamamın tarihi geçmişi ve çeşitli aktiviteleri ile ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Kapkirli Tarihi Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Kapkirli Tarihi Hamam, Karadeniz Bölgesi'nin karakteristik özellikleri ile dikkat çeker. Bölgenin karakteristik özellikleri arasında, yeşilin ve mavinin tonları ile kaplı olan doğası ve iklimi bulunur. Kapkirli Tarihi Hamam, özellikle yaz aylarında ziyaretçilerini ağırlamak için hazır bekliyor.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Kapkirli Tarihi Hamam, çeşitli flora ve fauna örnekleri ile dikkat çeker. Pl
 
 ## Ziyaret Bilgileri
 
-Kapkirli Tarihi Hamam, özellikle yaz aylarında ziyaretçilerini ağırlamak için hazır bekliyor. Plajın sunduğu doğal güzellikler, tarihi hamamın tarihi geçmişi ve çeşitli aktiviteleri ile ziyaretçilerine unutulmaz bir deneyim sunuyor. Kapkirli Tarihi Hamam'a ulaşım, özellikle Akçakoca'nın merkezinden uzun bir mesafe uzaklıkta bulunması nedeniyle kolaydır. Ziyaretçiler, çeşitli ulaşım araçları ile Kapkirli Tarihi Hamam'a ulaşabilir. Kapkirli Tarihi Hamam, özellikle yaz aylarında ziyaretçilerini ağırlamak için hazır bekliyor.
+Kapkirli Tarihi Hamam, özellikle yaz aylarında ziyaretçilerini ağırlamak için hazır bekliyor. Kapkirli Tarihi Hamam'a ulaşım, özellikle Akçakoca'nın merkezinden uzun bir mesafe uzaklıkta bulunması nedeniyle kolaydır. Ziyaretçiler, çeşitli ulaşım araçları ile Kapkirli Tarihi Hamam'a ulaşabilir. Kapkirli Tarihi Hamam, özellikle yaz aylarında ziyaretçilerini ağırlamak için hazır bekliyor.
 
 ## İlginç Bilgiler
 
 - Kapkirli Tarihi Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir.
 - Tarihi hamam, özellikle Osmanlı Dönemi'nde önemli bir merkez olarak bilinir.
-- Plajın sunduğu doğal güzellikler, tarihi hamamın tarihi geçmişi ve çeşitli aktiviteleri ile ziyaretçilerine unutulmaz bir deneyim sunuyor.
+
 - Kapkirli Tarihi Hamam, özellikle yaz aylarında ziyaretçilerini ağırlamak için hazır bekliyor.
 - Plajın çevresinde, çeşitli bitki türleri ve ağaçlar bulunur.

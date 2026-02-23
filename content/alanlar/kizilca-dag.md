@@ -50,11 +50,11 @@ Doğal güzellikleri arasında yer alan bu dağ, çevresindeki diğer coğrafi o
 
 ## Flora ve Fauna
 
-Kızılca Dağ, Antalya'nın kıyı ekosisteminin bir parçası olarak maki bitki örtüsüne ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kızılca Dağ, Antalya'nın kıyı ekosisteminin bir parçası olarak maki bitki örtüsüne ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, kuraklığa dayanıklı türler hakimdir. İlkbaharın gelmesiyle birlikte dağ eteklerinde çiçekler açar, sonbaharda ise yaprak döken ağaçlar sarı, turuncu ve kırmızı renklerle dağ manzarasına renk katar. 
+Bitki Örtüsü olarak, kuraklığa dayanıklı türler hakimdir. İlkbaharın gelmesiyle birlikte dağ eteklerinde çiçekler açar, sonbaharda ise yaprak döken ağaçlar sarı, turuncu ve kırmızı renklerle dağ manzarasına renk katar.
 
-Yaban Hayatı açısından, dağ ekosisteminde çeşitli memeliler, kuşlar ve sürüngenler yaşar. Kıyı ekosisteminin yakınlığı, göçmen kuşlar için önemli bir durak noktası oluşturur. Dağların yükseklik zonlarında, alpin flora ve dağ hayvanları bulunur. 
+Yaban Hayatı açısından, dağ ekosisteminde çeşitli memeliler, kuşlar ve sürüngenler yaşar. Kıyı ekosisteminin yakınlığı, göçmen kuşlar için önemli bir durak noktası oluşturur. Dağların yükseklik zonlarında, alpin flora ve dağ hayvanları bulunur.
 
 Ekolojik Değer olarak, Kızılca Dağ'ın korunması, bölgenin ekolojik dengesini korumak için önemlidir. Bu alan, birçok canlı için yaşam alanı ve göç rotası oluşturur.
 

@@ -1,7 +1,7 @@
 ---
 title: "Üsküplü Bostan Hamamı"
 date: "2026-01-09T23:12:19.251Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738945"
 
 # Üsküplü Bostan Hamamı
 
-Üsküplü Bostan Hamamı, İstanbul'un tarihi mekanlarından biridir. Fatih ilçesinde yer alan bu hamam, geçmişin izlerini taşıyan önemli bir kültürel mirastır. 140 hektarlık bir alana kurulan bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişiyle dikkat çeken Üsküplü Bostan Hamamı, ziyaretçilerini geçmişe götürmeyi amaçlayan bir mekandır. Hamamın mimarisinde kullanılan malzemeler ve teknikler, o dönemin özellikleri hakkında bilgi verir. Ziyaretçiler, hamamın tarihi atmosferini hissetmek için burayı ziyaret edebilirler.
+Üsküplü Bostan Hamamı, İstanbul'un tarihi mekanlarından biridir. Fatih ilçesinde yer alan bu hamam, geçmişin izlerini taşıyan önemli bir kültürel mirastır. Tarihi geçmişiyle dikkat çeken Üsküplü Bostan Hamamı, ziyaretçilerini geçmişe götürmeyi amaçlayan bir mekandır. Hamamın mimarisinde kullanılan malzemeler ve teknikler, o dönemin özellikleri hakkında bilgi verir. Ziyaretçiler, hamamın tarihi atmosferini hissetmek için burayı ziyaret edebilirler.
 
 ## Tarihçe
 

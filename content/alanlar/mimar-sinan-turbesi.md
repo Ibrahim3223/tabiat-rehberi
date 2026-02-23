@@ -1,7 +1,7 @@
 ---
 title: "Mimar Sinan Türbesi"
 date: "2026-01-10T04:51:26.208Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q85817770"
 
 # Mimar Sinan Türbesi
 
-Mimar Sinan Türbesi, İstanbul'un tarihi dokusunu keşfetmek isteyenler için önemli bir destinasyondur. Bu tarihi yapı, Mimar Sinan'ın son eserlerinden biri olarak kabul edilir ve yaklaşık 16. yüzyılda inşa edilmiştir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarih ve kültür deneyimi sunar. İstanbul'un merkezinde yer alan bu türbe, şehrin önemli tarihi noktalarından biridir.
+Mimar Sinan Türbesi, İstanbul'un tarihi dokusunu keşfetmek isteyenler için önemli bir destinasyondur. Bu tarihi yapı, Mimar Sinan'ın son eserlerinden biri olarak kabul edilir ve yaklaşık 16. yüzyılda inşa edilmiştir. İstanbul'un merkezinde yer alan bu türbe, şehrin önemli tarihi noktalarından biridir.
 
 ## Tarihçe
 

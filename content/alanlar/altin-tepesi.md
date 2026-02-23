@@ -28,7 +28,7 @@ wikidata_id: "Q31559424"
 
 # Altın Tepesi
 
-Altın Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Altın Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Ayrıca, bu tepe, tarihi geçmişi ile de dikkat çeker. Altın Tepesi, yüzyıllar boyunca önemli bir yerleşim yeri olarak kullanılmıştır.
+Altın Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Altın Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Ayrıca, bu tepe, tarihi geçmişi ile de dikkat çeker. Altın Tepesi, yüzyıllar boyunca önemli bir yerleşim yeri olarak kullanılmıştır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Altın Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu tepenin t
 
 ## Coğrafya
 
-Altın Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alır. Bu tepenin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize edilir. Altın Tepesi, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yüksektir. Altın Tepesi'nin iklimi, karasal iklimdir ve yazları sıcak, kışları soğuk geçer. Bu tepenin çevresi, çeşitli dağlar ve ovalar ile çevrilidir. Altın Tepesi, coğrafi konumu itibariyle, birçok önemli yerleşim yerine yakındır.
+Altın Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alır. Bu tepenin coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize edilir. Bu tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yüksektir. Altın Tepesi'nin iklimi, karasal iklimdir ve yazları sıcak, kışları soğuk geçer. Bu tepenin çevresi, çeşitli dağlar ve ovalar ile çevrilidir. Altın Tepesi, coğrafi konumu itibariyle, birçok önemli yerleşim yerine yakındır.
 
 ## Flora ve Fauna
 

@@ -46,7 +46,7 @@ Jeolojik açıdan bakıldığında, Abdurrezzak Dağı'nın fiziksel yapısı ha
 
 İklim açısından Abdurrezzak Dağı, Doğu Anadolu Bölgesi'nin soğu ve karasal ikliminin etkisindedir. Kış aylarında kar yağışları ve don olayları görülürken, yaz aylarında sıcaklık ve nem oranları değişkenlik gösterebilmektedir. Dağın yüksekliği, Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olabileceğine işaret etmektedir, bu dağın quanhavanın önemli bir bölümünü kaplayabileceğini göstermektedir.
 
-Çevresel açıdan bakıldığında, Abdurrezzak Dağı'nın komşu alanları ile önemli bir ilişkisi bulunmaktadır. Dağın eteklerinde, çeşitli su kaynakları ve ekosistemler yer almaktadır. Bu su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, dağ ve çevresindeki ekosistemler, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı oluşturmaktadır. Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağlık bölge, bölgenin ekolojik dengesini korumak açısından önemli bir rol oynamaktadır.
+Çevresel açıdan bakıldığında, Abdurrezzak Dağı'nın komşu alanları ile önemli bir ilişkisi bulunmaktadır. Dağın eteklerinde, çeşitli su kaynakları ve ekosistemler yer almaktadır. Bu su kaynakları, bölgenin sulama ve içme suyu ihtiyacını karşılamaktadır. Ayrıca, dağ ve çevresindeki ekosistemler, çeşitli bitki ve hayvan türleri için önemli bir yaşam alanı oluşturmaktadır.
 
 ## Flora ve Fauna
 

@@ -50,7 +50,7 @@ Yorak Dağı'nın iklim karakteri, mevsimsel olarak değişen bir yapıya sahipt
 
 Yorak Dağı, Bitlis'in yüksek dağ ekolojisinin bir parçası olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapmaktadır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, alpin çayırlar renklidir. Çiçekler açar ve dağ ekosistemi canlanır.
 
-Yaban hayatına baktığımızda, dağ keçileri ve yaban kedileri gibi memelilerin yanı sıra, çeşitli kuş türleri de bulunmaktadır. Sonbaharın gelmesiyle birlikte, göçmen kuşlar dağları ziyaret eder. Sürüngenler ve amfibiler de bu dağların ekosistemine katkıda bulunurlar. 
+Yaban hayatına baktığımızda, dağ keçileri ve yaban kedileri gibi memelilerin yanı sıra, çeşitli kuş türleri de bulunmaktadır. Sonbaharın gelmesiyle birlikte, göçmen kuşlar dağları ziyaret eder. Sürüngenler ve amfibiler de bu dağların ekosistemine katkıda bulunurlar.
 
 Bu dağ ekosisteminin korunması, bölgenin doğal dengesini korumak için çok önemlidir. Yorak Dağı, endemik türlerin yaşadığı nadir alanlardan biridir. Bu nedenle, bu bölgenin korunmasına özen gösterilmelidir.
 

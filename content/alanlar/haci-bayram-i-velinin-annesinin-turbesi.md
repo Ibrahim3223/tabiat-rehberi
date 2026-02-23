@@ -1,7 +1,7 @@
 ---
 title: "Hacı Bayram-ı Velinin Annesinin Türbesi"
 date: "2026-01-10T07:51:47.966Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582365"
 
 # Hacı Bayram-ı Velinin Annesinin Türbesi
 
-Hacı Bayram-ı Velinin Annesinin Türbesi, Ankara'nın Keçiören ilçesinde bulunan bir tarihi mekân. Bu türbe, ünlü mutasavvıf Hacı Bayram-ı Veli'nin annesinin hatırasına yapılmış bir anıt eser. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yeşilliklerle dolu. Tarihi ve doğal güzellikleri bir araya getiren bu mekan, ziyaretçiler için önemli bir çekim merkezi.
+Hacı Bayram-ı Velinin Annesinin Türbesi, Ankara'nın Keçiören ilçesinde bulunan bir tarihi mekân. Bu türbe, ünlü mutasavvıf Hacı Bayram-ı Veli'nin annesinin hatırasına yapılmış bir anıt eser. Tarihi ve doğal güzellikleri bir araya getiren bu mekan, ziyaretçiler için önemli bir çekim merkezi.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hacı Bayram-ı Velinin Annesinin Türbesi, tarihi geçmişi olan bir mekan. Hac
 
 ## Coğrafya
 
-Hacı Bayram-ı Velinin Annesinin Türbesi, Keçiören ilçesinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede dağınık bir şekilde görülüyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahip. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yeşilliklerle dolu. Mekânın coğrafi konumu, Ankara'nın merkezi bölgelerine yakınlığıyla dikkat çekiyor. Ziyaretçiler, türbeyi kolayca ulaşabilir ve çevresindeki doğal güzellikleri keşfedebilir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölgede, kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bahar ve sonbahar mevsimlerinde, ziyaretçiler daha rahat bir hava koşuluyla türbeyi ve çevresini gezebilir.
+Hacı Bayram-ı Velinin Annesinin Türbesi, Keçiören ilçesinde yer alıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede dağınık bir şekilde görülüyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahip. Mekânın coğrafi konumu, Ankara'nın merkezi bölgelerine yakınlığıyla dikkat çekiyor. Ziyaretçiler, türbeyi kolayca ulaşabilir ve çevresindeki doğal güzellikleri keşfedebilir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu bölgede, kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçer. Bahar ve sonbahar mevsimlerinde, ziyaretçiler daha rahat bir hava koşuluyla türbeyi ve çevresini gezebilir.
 
 ## Flora ve Fauna
 

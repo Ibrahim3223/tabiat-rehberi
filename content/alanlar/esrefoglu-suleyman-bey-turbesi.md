@@ -1,7 +1,7 @@
 ---
 title: "Eşrefoğlu Süleyman Bey Türbesi"
 date: "2026-01-10T05:50:30.476Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582390"
 
 # Eşrefoğlu Süleyman Bey Türbesi
 
-Konya'nın Beyşehir ilçesinde bulunan Eşrefoğlu Süleyman Bey Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor. Bu türbe, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Eşrefoğlu Süleyman Bey'in hayatını ve bölgenin lchesini anlatan bu türbe, aynı zamanda çevredeki doğal güzellikleri de gözler önüne seriyor. Türbenin bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Konya'nın Beyşehir ilçesinde bulunan Eşrefoğlu Süleyman Bey Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor. Eşrefoğlu Süleyman Bey'in hayatını ve bölgenin lchesini anlatan bu türbe, aynı zamanda çevredeki doğal güzellikleri de gözler önüne seriyor. Türbenin bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

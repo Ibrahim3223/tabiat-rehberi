@@ -1,7 +1,7 @@
 ---
 title: "Devlet Hatun Türbesi"
 date: "2026-01-10T06:04:30.967Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390473"
 
 # Devlet Hatun Türbesi
 
-Devlet Hatun Türbesi, Bursa'nın Yıldırım ilçesinde yer alan ve tarihi öneme sahip bir mekan. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Devlet Hatun Türbesi, tarihi geçmişi ve önemli kişiliklerle bağlantılı bir mekan olarak ziyaretçilerini bekliyor. Bursa'nın zengin tarihi dokusunu deneyimlemek isteyenler için ideal bir destinasyon.
+Devlet Hatun Türbesi, Bursa'nın Yıldırım ilçesinde yer alan ve tarihi öneme sahip bir mekan. Devlet Hatun Türbesi, tarihi geçmişi ve önemli kişiliklerle bağlantılı bir mekan olarak ziyaretçilerini bekliyor. Bursa'nın zengin tarihi dokusunu deneyimlemek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

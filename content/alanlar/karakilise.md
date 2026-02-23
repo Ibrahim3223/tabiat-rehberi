@@ -1,7 +1,7 @@
 ---
 title: "Karakilise"
 date: "2026-01-09T23:02:24.843Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Yalova"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738845"
 
 # Karakilise
 
-Karakilise, Çiftlikköy, Yalova'da bulunan ve Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir yer. Bu plaj, yaklaşık 140 hektarlık bir alana yayılmış ve 200 futbol sahası büyüklüğünde. Karakilise, denize girme ve güneşlenme imkanları sunan bir plaj olarak bilinir. Ayrıca, plajın etrafında çeşitli restoran ve kafe gibi tesisler bulunur. Bu plaj, özellikle yaz aylarında birçok insanın ziyaret ettiği bir yerdir. Karakilise'nin güzelliği ve temizliği, birçok insanın burayı tercih etmesine neden olur.
+Karakilise, Çiftlikköy, Yalova'da bulunan ve Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir yer. Karakilise, denize girme ve güneşlenme imkanları sunan bir plaj olarak bilinir. Ayrıca, plajın etrafında çeşitli restoran ve kafe gibi tesisler bulunur. Bu plaj, özellikle yaz aylarında birçok insanın ziyaret ettiği bir yerdir. Karakilise'nin güzelliği ve temizliği, birçok insanın burayı tercih etmesine neden olur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Karakilise'nin tarihi geçmişi hakkındalı bilgi bulunmamaktadır. Ancak, bu p
 
 ## Coğrafya
 
-Karakilise, Çiftlikköy, Yalova'da bulunan bir plajdır. Bu plaj, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Karakilise, denize girme ve güneşlenme imkanları sunan bir plaj olarak bilinir. Bu plajın etrafında, çeşitli restoran ve kafe gibi tesisler bulunur. Karakilise, yaklaşık 140 hektarlık bir alana yayılmış ve 200 futbol sahası büyüklüğünde. Bu plaj, özellikle yaz aylarında birçok insanın ziyaret ettiği bir yerdir. Karakilise'nin güzelliği ve temizliği, birçok insanın burayı tercih etmesine neden olur. Bu plaj, Çiftlikköy'ün en önemli turistik yerlerinden biri olarak bilinir. Karakilise'nin coğrafi konumu, bölgenin turizm potansiyelini artıran önemli bir faktördür. Bu plaj, birçok insanın ziyaret ettiği ve keyif aldığı bir yer olarak bilinir.
+Karakilise, Çiftlikköy, Yalova'da bulunan bir plajdır. Bu plaj, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Karakilise, denize girme ve güneşlenme imkanları sunan bir plaj olarak bilinir. Bu plajın etrafında, çeşitli restoran ve kafe gibi tesisler bulunur. Bu plaj, özellikle yaz aylarında birçok insanın ziyaret ettiği bir yerdir. Karakilise'nin güzelliği ve temizliği, birçok insanın burayı tercih etmesine neden olur. Bu plaj, Çiftlikköy'ün en önemli turistik yerlerinden biri olarak bilinir. Karakilise'nin coğrafi konumu, bölgenin turizm potansiyelini artıran önemli bir faktördür. Bu plaj, birçok insanın ziyaret ettiği ve keyif aldığı bir yer olarak bilinir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Karakilise, Çiftlikköy, Yalova'da bulunan bir plajdır. Bu plaj, Marmara Bölg
 ## İlginç Bilgiler
 
 - Karakilise, Çiftlikköy'ün en önemli turistik yerlerinden biri olarak bilinir.
-- Bu plaj, yaklaşık 140 hektarlık bir alana yayılmış ve 200 futbol sahası büyüklüğünde.
+
 - Karakilise, denize girme ve güneşlenme imkanları sunan bir plaj olarak bilinir.
 - Bu plajın etrafında, çeşitli restoran ve kafe gibi tesisler bulunur.
 - Karakilise, özellikle yaz aylarında birçok insanın ziyaret ettiği bir yerdir.

@@ -1,7 +1,7 @@
 ---
 title: "Germiyanoğlu Kasım Bey Türbesi"
 date: "2026-01-10T06:06:59.849Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390546"
 
 # Germiyanoğlu Kasım Bey Türbesi
 
-Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Nazilli ilçesinde yer alan Germiyanoğlu Kasım Bey Türbesi, tarihin derinliklerinden gelen bir hikaye anlatıyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip. Germiyanoğlu Kasım Bey Türbesi,Nazilli'nin merkezine oldukça yakın bir konumda bulunuyor ve ziyaretçiler için kolay ulaşılabilir bir nokta teşkil ediyor. Tarihi geçmişi ve kültürel önemi ile dikkat çeken bu türbe, Aydın'ın önemli turistik mekanlarından biri olarak kabul ediliyor.
+Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Nazilli ilçesinde yer alan Germiyanoğlu Kasım Bey Türbesi, tarihin derinliklerinden gelen bir hikaye anlatıyor. Germiyanoğlu Kasım Bey Türbesi,Nazilli'nin merkezine oldukça yakın bir konumda bulunuyor ve ziyaretçiler için kolay ulaşılabilir bir nokta teşkil ediyor. Tarihi geçmişi ve kültürel önemi ile dikkat çeken bu türbe, Aydın'ın önemli turistik mekanlarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Germiyanoğlu Kasım Bey Türbesi, tarihin sayfalarında önemli bir yer tutuyor
 
 ## Coğrafya
 
-Germiyanoğlu Kasım Bey Türbesi, Nazilli'nin merkezine yakın bir konumda bulunuyor ve Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın coğrafi güzelliklerini sergiliyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip. Türbenin etrafı, çeşitli bitki türleri ile çevrili ve ziyaretçiler için güzel bir manzara sunuyor. Germiyanoğlu Kasım Bey Türbesi, Ege Bölgesi'nin iklimine uygun olarak tasarlanmış ve ziyaretçiler için rahat bir atmosfer sunuyor. Bu türbe, Nazilli'nin coğrafi güzelliklerini ve tarihi değerlerini bir araya getiren önemli bir turistik mekan olarak kabul ediliyor.
+Germiyanoğlu Kasım Bey Türbesi, Nazilli'nin merkezine yakın bir konumda bulunuyor ve Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın coğrafi güzelliklerini sergiliyor. Türbenin etrafı, çeşitli bitki türleri ile çevrili ve ziyaretçiler için güzel bir manzara sunuyor. Germiyanoğlu Kasım Bey Türbesi, Ege Bölgesi'nin iklimine uygun olarak tasarlanmış ve ziyaretçiler için rahat bir atmosfer sunuyor. Bu türbe, Nazilli'nin coğrafi güzelliklerini ve tarihi değerlerini bir araya getiren önemli bir turistik mekan olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

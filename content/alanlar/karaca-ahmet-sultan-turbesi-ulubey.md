@@ -1,7 +1,7 @@
 ---
 title: "Karaca Ahmet Sultan Türbesi, Ulubey"
 date: "2026-01-10T05:43:33.546Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Uşak"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582175"
 
 # Karaca Ahmet Sultan Türbesi, Ulubey
 
-Karaca Ahmet Sultan Türbesi, Ulubey'de yer alan tarihi ve doğal güzelliği bir arada sunan özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere rahat bir gezi imkanı sunuyor. Bu türbeyi ziyaret edenler, hem tarihi hem de doğal güzelliği bir arada deneyimleyebiliyorlar. Karaca Ahmet Sultan Türbesi, özellikle tarih ve doğa severlerin ilgisini çekiyor. Ziyaretçilerin, bu türbeyi ziyaret ederken, aynı zamanda Ulubey'in diğer doğal güzelliklerini de keşfetmeleri öneriliyor.
+Karaca Ahmet Sultan Türbesi, Ulubey'de yer alan tarihi ve doğal güzelliği bir arada sunan özel bir mekan. Bu türbeyi ziyaret edenler, hem tarihi hem de doğal güzelliği bir arada deneyimleyebiliyorlar. Karaca Ahmet Sultan Türbesi, özellikle tarih ve doğa severlerin ilgisini çekiyor. Ziyaretçilerin, bu türbeyi ziyaret ederken, aynı zamanda Ulubey'in diğer doğal güzelliklerini de keşfetmeleri öneriliyor.
 
 ## Tarihçe
 

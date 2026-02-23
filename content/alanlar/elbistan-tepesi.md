@@ -28,7 +28,7 @@ wikidata_id: "Q31385853"
 
 # Elbistan Tepesi
 
-Elbistan Tepesi, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak Kayseri'de yer alıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğal güzelliği ve tarihi değerleriyle bekliyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Elbistan Tepesi, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak Kayseri'de yer alıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Elbistan Tepesi, zengin bir flora ve fauna çeşitliliğine sahip. Tepenin etraf
 
 ## Ziyaret Bilgileri
 
-Elbistan Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları. Bu dönemde hava koşulları ziyaretçilere uygun oluyor. Tepenin manzarası, özellikle gün batımında oldukça etkileyici. Ziyaretçilerin tepeye ulaşımı kolay ve ulaşım seçenekleri çeşitli. Ziyaret süresi, tepe ve çevresini gezmeye göre değişebiliyor. Tepede çeşitli aktiviteler yapılabiliyor, ancak ziyaretçilerin doğayı korumaya özen göstermesi necessário.
+Elbistan Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları. Bu dönemde hava koşulları ziyaretçilere uygun oluyor. Tepenin manzarası, özellikle gün batımında oldukça etkileyici. Ziyaretçilerin tepeye ulaşımı kolay ve ulaşım seçenekleri çeşitli. Ziyaret süresi, tepe ve çevresini gezmeye göre değişebiliyor. Tepede çeşitli aktiviteler yapılabiliyor, ancak ziyaretçilerin doğayı korumaya özen göstermesi gerekli.
 
 ## İlginç Bilgiler
 

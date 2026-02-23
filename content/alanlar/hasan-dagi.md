@@ -51,11 +51,11 @@ Bölgenin ekosistem bağlantıları açısından Hasan Dağı, önemli bir role 
 
 ## Flora ve Fauna
 
-Hasan Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hasan Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü olarak, alpin çayırların hakim olduğu bu bölgede, ilkbaharda çiçeklerin rengarenk görüntüsüyle karşılaşabilirsiniz. Dağın yükseklik zonlarına göre değişen flora, ziyaretçilerini etkileyen bir güzelliğe sahiptir. 
+Bitki örtüsü olarak, alpin çayırların hakim olduğu bu bölgede, ilkbaharda çiçeklerin rengarenk görüntüsüyle karşılaşabilirsiniz. Dağın yükseklik zonlarına göre değişen flora, ziyaretçilerini etkileyen bir güzelliğe sahiptir.
 
-Yaban hayatı açısından, dağ keçileri, kartallar ve çeşitli sürüngenler, bu dağ ekosisteminin birer parçasıdır. Sonbaharda, göç eden kuşların görüntüsü ise ayrı bir güzellik katıyor. 
+Yaban hayatı açısından, dağ keçileri, kartallar ve çeşitli sürüngenler, bu dağ ekosisteminin birer parçasıdır. Sonbaharda, göç eden kuşların görüntüsü ise ayrı bir güzellik katıyor.
 
 Ekolojik değer olarak, Hasan Dağı'nın koruma durumu oldukça önemlidir. Bu dağ ekosisteminin korunması, yalnızca yerel canlıların yaşam alanlarını güvence altına almakla kalmaz, aynı zamanda bölgenin ekolojik dengesini de korur.
 

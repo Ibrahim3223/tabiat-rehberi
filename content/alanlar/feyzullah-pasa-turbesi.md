@@ -1,7 +1,7 @@
 ---
 title: "Feyzullah Paşa Türbesi"
 date: "2026-01-10T06:39:30.826Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735172"
 
 # Feyzullah Paşa Türbesi
 
-Feyzullah Paşa Türbesi, Edirne'nin merkezinde yer alan ve tarih boyunca önemli bir role sahip olmuş bir türbedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda çeşitli bitki türleri değil, çeşitli bitki türleri ve ağaçlar yer almaktadır. Bu türbe, aynı zamanda şehrin önemli bir tarihi ve kültürel mirası olarak kabul edilir. Türbenin yakınında, Meriç Nehri'nin kıyısında bulunan bir plaj, şehre gelen ziyaretçilerin keyifli vakit geçirmesine olanak sağlar.
+Feyzullah Paşa Türbesi, Edirne'nin merkezinde yer alan ve tarih boyunca önemli bir role sahip olmuş bir türbedir. Bu türbe, aynı zamanda şehrin önemli bir tarihi ve kültürel mirası olarak kabul edilir. Türbenin yakınında, Meriç Nehri'nin kıyısında bulunan bir plaj, şehre gelen ziyaretçilerin keyifli vakit geçirmesine olanak sağlar.
 
 ## Tarihçe
 

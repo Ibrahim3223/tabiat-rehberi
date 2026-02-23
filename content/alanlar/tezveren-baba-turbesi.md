@@ -1,7 +1,7 @@
 ---
 title: "Tezveren Baba Türbesi"
 date: "2026-01-10T07:23:12.844Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,15 +29,15 @@ wikidata_id: "Q131391001"
 
 # Tezveren Baba Türbesi
 
-Tezveren Baba Türbesi, İstanbul'un Şişli ilçesinde yer alan bir türbedir. Bu tarihi mekan, Marmara Bölgesi'nin kalbinde, İstanbul'un merkezi bir noktasında bulunmaktadır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplamaktadır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer almaktadır. Tezveren Baba Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor. Bu özel mekan, İstanbul'un keşfedilmeyi bekleyen gizli köşelerinden biridir.
+Tezveren Baba Türbesi, İstanbul'un Şişli ilçesinde yer alan bir türbedir. Bu tarihi mekan, Marmara Bölgesi'nin kalbinde, İstanbul'un merkezi bir noktasında bulunmaktadır. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplamaktadır. Tezveren Baba Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor. Bu özel mekan, İstanbul'un keşfedilmeyi bekleyen gizli köşelerinden biridir.
 
 ## Tarihçe
 
-Tezveren Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu türbe, geçmişte önemli bir dini merkez olarak hizmet vermiştir. Tarihi kaynaklara göre, türbenin kuruluş tarihi hakkında net bir bilgi bulunmamaktadır. Ancak, bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır. Türbenin etrafındaki alan, zamanla bir doğal güzellik haline gelmiştir. Tezveren Baba Türbesi, bugün hem dini hem de turistik bir amaç için ziyaret edilmektedir. Türbenin tarihi ve doğal güzelliği, ziyaretçilerine unutulmaz bir deneyim sunmaktadır.
+Tezveren Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu türbe, geçmişte önemli bir dini merkez olarak hizmet vermiştir. Tarihi kaynaklara göre, türbenin kuruluş tarihi hakkında net bir bilgi bulunmamaktadır. Ancak, bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır. Türbenin etrafındaki alan, zamanla bir doğal güzellik haline gelmiştir. Tezveren Baba Türbesi, bugün hem dini hem de turistik bir amaç için ziyaret edilmektedir.
 
 ## Coğrafya
 
-Tezveren Baba Türbesi, Şişli ilçesinde yer alan bir bölgede bulunmaktadır. Bu bölge, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, genellikle yeşil alanlarla çevrilidir. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alanı kaplamaktadır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bölgenin coğrafi yapısı, genellikle engebeli ve tepelik bir yapıya sahiptir. Tezveren Baba Türbesi, bu coğrafi yapı içerisinde, ziyaretçilerine doğal güzellik sunmaktadır. Türbenin etrafındaki bölge, çeşitli bitki türleri ve canlılarla doludur. Bölgenin iklimi, Marmara Bölgesi'nin iklimine uygun olarak, genellikle ılımandır. Bu ılıman iklim, ziyaretçilere yılın her mevsiminde keyifli bir gezi imkanı sunar.
+Tezveren Baba Türbesi, Şişli ilçesinde yer alan bir bölgede bulunmaktadır. Bu bölge, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, genellikle yeşil alanlarla çevrilidir. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alanı kaplamaktadır. Bölgenin coğrafi yapısı, genellikle engebeli ve tepelik bir yapıya sahiptir. Tezveren Baba Türbesi, bu coğrafi yapı içerisinde, ziyaretçilerine doğal güzellik sunmaktadır. Türbenin etrafındaki bölge, çeşitli bitki türleri ve canlılarla doludur. Bölgenin iklimi, Marmara Bölgesi'nin iklimine uygun olarak, genellikle ılımandır. Bu ılıman iklim, ziyaretçilere yılın her mevsiminde keyifli bir gezi imkanı sunar.
 
 ## Flora ve Fauna
 

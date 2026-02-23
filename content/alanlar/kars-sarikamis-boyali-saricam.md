@@ -22,7 +22,7 @@ wikidata_id: "Q108227693"
 
 # Kars-Sarikamis-Boyali Saricam
 
-Kars-Sarikamis-Boyali Saricam milli parkı, Doğu Anadolu Bölgesi'nin Kars ilinde bulunmaktadır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini 자연 güzellikleriyle karşılamaktadır. Milli parkın bulunduğu bölge, tarihi ve kültürel açıdan da önemli bir yer almaktadır. Burada, tarihi yapılar ve anıtlar da bulunmaktadır. Milli parkın çevresi, çeşitli bitki türleriyle kaplıdır ve zengin fauna ile ziyaretçilerini eğlendirmektedir.
+Kars-Sarikamis-Boyali Saricam milli parkı, Doğu Anadolu Bölgesi'nin Kars ilinde bulunmaktadır. Milli parkın bulunduğu bölge, tarihi ve kültürel açıdan da önemli bir yer almaktadır. Burada, tarihi yapılar ve anıtlar da bulunmaktadır. Milli parkın çevresi, çeşitli bitki türleriyle kaplıdır ve zengin fauna ile ziyaretçilerini eğlendirmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kars-Sarikamis-Boyali Saricam milli parkının tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Kars-Sarikamis-Boyali Saricam milli parkı, Doğu Anadolu Bölgesi'nin Kars ilinde bulunmaktadır. Milli parkın çevresi, çeşitli bitki türleriyle kaplıdır ve zengin fauna ile ziyaretçilerini eğlendirmektedir. Burada, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir alan sunmaktadır. Milli parkın iklimi, bölgenin coğrafi konumuna göre şekillenmektedir. Burada, karasal iklim hakimdir ve kışlar soğuk, yazlar ise serin geçmektedir. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli güzellikler sunmaktadır. Burada, dağlar, ormanlar ve nehirler bulunmaktadır.
+Kars-Sarikamis-Boyali Saricam milli parkı, Doğu Anadolu Bölgesi'nin Kars ilinde bulunmaktadır. Milli parkın çevresi, çeşitli bitki türleriyle kaplıdır ve zengin fauna ile ziyaretçilerini eğlendirmektedir. Milli parkın iklimi, bölgenin coğrafi konumuna göre şekillenmektedir. Burada, karasal iklim hakimdir ve kışlar soğuk, yazlar ise serin geçmektedir. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli güzellikler sunmaktadır. Burada, dağlar, ormanlar ve nehirler bulunmaktadır.
 
 ## Flora ve Fauna
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228756"
 
 # YENİŞEHİR
 
-Yenişehir Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alanda, çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Yenişehir, tarihi geçmişi ve doğal güzellikleri ile dikkat çekici bir destinasyon. Burada, yaban hayatı ve flora, ziyaretçilere benzersiz bir deneyim sunuyor.
+ Bu geniş alanda, çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Yenişehir, tarihi geçmişi ve doğal güzellikleri ile dikkat çekici bir destinasyon. Burada, yaban hayatı ve flora, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

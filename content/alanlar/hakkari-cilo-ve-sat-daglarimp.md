@@ -22,7 +22,7 @@ wikidata_id: "Q108229018"
 
 # HAKKARİ CİLO VE SAT DAĞLARI_MP
 
-Hakkâri'nin doğusunda yer alan Cilo ve Sat Dağları Milli Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennettir. Bu bölge, coğrafi konumu itibarıyla hem Türkiye'nin hem de dünyanın önemli ekosistemlerinden birini oluşturur. Milli parkın kuruluş amacı, bu doğal alanın korunması ve gelecek nesillere aktarılmasıdır. Cilo ve Sat Dağları, yaban hayatının çeşitliliği ve zenginliği ile dikkat çeker. Bu bölge, birçok bitki ve hayvan türünün yaşadığı bir ekosistem olarak bilinir.
+ Bu bölge, coğrafi konumu itibarıyla hem Türkiye'nin hem de dünyanın önemli ekosistemlerinden birini oluşturur. Milli parkın kuruluş amacı, bu doğal alanın korunması ve gelecek nesillere aktarılmasıdır. Cilo ve Sat Dağları, yaban hayatının çeşitliliği ve zenginliği ile dikkat çeker. Bu bölge, birçok bitki ve hayvan türünün yaşadığı bir ekosistem olarak bilinir.
 
 ## Tarihçe
 

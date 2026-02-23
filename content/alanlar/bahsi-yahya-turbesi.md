@@ -1,7 +1,7 @@
 ---
 title: "Bahşi Yahya Türbesi"
 date: "2026-01-10T06:50:06.024Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ezine"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390753"
 
 # Bahşi Yahya Türbesi
 
-Bahşi Yahya Türbesi, Ezine'nin merkezinde yer alan bir tarihi mekândır. Bu turistik nokta, ziyaretçilerini história zenginliği ve doğal güzellikleriyle karşılar. 140 hektarlık bir alana yayılmış olan Bahşi Yahya Türbesi, yaklaşık 200 futbol sahası büyüklüğündedir. Tarihî ve kültürel önemine rağmen, doğal güzellikleri de dikkat çekmektedir. Bahşi Yahya Türbesi, ziyaretçilerine historian bir yolculuk sunar.
+Bahşi Yahya Türbesi, Ezine'nin merkezinde yer alan bir tarihi mekândır. Bu turistik nokta, ziyaretçilerini tarihi zenginliği ve doğal güzellikleriyle karşılar. Tarihî ve kültürel önemine rağmen, doğal güzellikleri de dikkat çekmektedir. Bahşi Yahya Türbesi, ziyaretçilerine historian bir yolculuk sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bahşi Yahya Türbesi, tarihi geçmişiyle dikkat çekmektedir. Bu tarihi mekan,
 
 ## Coğrafya
 
-Bahşi Yahya Türbesi, Ezine'nin merkezinde yer alan bir tarihi mekândır. Bu turistik nokta, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bahşi Yahya Türbesi, 140 hektarlık bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir. Bu mekan, doğal güzellikleriyle dikkat çekmektedir. Bahşi Yahya Türbesi'nin coğrafi konumu, ziyaretçilerine doğal bir ortam sunar. Bu mekan, Ezine'nin coğrafyasını ve doğal güzelliklerini keşfetme fırsatı verir.
+Bahşi Yahya Türbesi, Ezine'nin merkezinde yer alan bir tarihi mekândır. Bu turistik nokta, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bu mekan, doğal güzellikleriyle dikkat çekmektedir. Bahşi Yahya Türbesi'nin coğrafi konumu, ziyaretçilerine doğal bir ortam sunar. Bu mekan, Ezine'nin coğrafyasını ve doğal güzelliklerini keşfetme fırsatı verir.
 
 ## Flora ve Fauna
 

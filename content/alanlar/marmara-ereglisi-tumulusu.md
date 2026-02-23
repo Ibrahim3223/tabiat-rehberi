@@ -29,7 +29,7 @@ wikidata_id: "Q134728273"
 
 # Marmara Ereğlisi Tümülüsü
 
-Marmara Ereğlisi Tümülüsü, Marmara Bölgesi'nin Tekirdağ iline bağlı Marmaraereğlisi'nde bulunan bir tarihi tümülüs ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir sahil şeridine sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir alan sunar. Marmara Ereğlisi Tümülüsü, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Burada, denize girme imkanı sunan plajların yanı sıra, tarihi tümülüs ve çevresindeki doğal güzellikler ziyaretçileri beklemektedir.
+Marmara Ereğlisi Tümülüsü, Marmara Bölgesi'nin Tekirdağ iline bağlı Marmaraereğlisi'nde bulunan bir tarihi tümülüs ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir sahil şeridine sahiptir. Marmara Ereğlisi Tümülüsü, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Burada, denize girme imkanı sunan plajların yanı sıra, tarihi tümülüs ve çevresindeki doğal güzellikler ziyaretçileri beklemektedir.
 
 ## Tarihçe
 

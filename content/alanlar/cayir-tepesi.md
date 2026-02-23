@@ -28,7 +28,7 @@ wikidata_id: "Q34828758"
 
 # Çayır Tepesi
 
-Çayır Tepesi, Doğu Anadolu Bölgesi'nin Muş şehrinde yer alan ve doğal güzelliklere sahip bir tepe olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ziyaretçiler, buraya geldiğinde hem doğal güzellikleri keşfedebiliyor hem de bölge hakkında bilgiler edinebiliyor. Çayır Tepesi, özellikle manzarasıyla ziyaretçilerini büyülüyor ve doğa severler için ideal bir destinasyon olarak görülüyor.
+Çayır Tepesi, Doğu Anadolu Bölgesi'nin Muş şehrinde yer alan ve doğal güzelliklere sahip bir tepe olarak dikkat çekiyor. Ziyaretçiler, buraya geldiğinde hem doğal güzellikleri keşfedebiliyor hem de bölge hakkında bilgiler edinebiliyor. Çayır Tepesi, özellikle manzarasıyla ziyaretçilerini büyülüyor ve doğa severler için ideal bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Sasa Bey Hamamı"
 date: "2026-01-09T22:17:57.562Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q125934394"
 
 # Sasa Bey Hamamı
 
-Sasa Bey Hamamı, Manisa'nın en güzel plajlarından biri olarak kabul edilir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel kumsallarından birine sahiptir. Sasa Bey Hamamı'nın güzelliği, çevredeki dağların ve denizlerin birleşmesinden oluşur. Bu bölge, hem yerlilerin hem de turistlerin uğrak noktalarından biri olarak bilinir. Sasa Bey Hamamı, güneşin batışını izlemek için ideal bir yerdir ve ziyaretçiler, bu eşsiz manzarayı seyretmek için buraya gelirler.
+Sasa Bey Hamamı, Manisa'nın en güzel plajlarından biri olarak kabul edilir. Sasa Bey Hamamı'nın güzelliği, çevredeki dağların ve denizlerin birleşmesinden oluşur. Bu bölge, hem yerlilerin hem de turistlerin uğrak noktalarından biri olarak bilinir. Sasa Bey Hamamı, güneşin batışını izlemek için ideal bir yerdir ve ziyaretçiler, bu eşsiz manzarayı seyretmek için buraya gelirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sasa Bey Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Sasa Bey Hamamı, Manisa'nın Ege Bölgesi'nde bulunur ve çevredeki dağların ve denizlerin birleşmesinden oluşur. Bu bölge, 140 hektarlık bir alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğundadır. Sasa Bey Hamamı'nın kumsalı, Ege Bölgesi'nin en güzel kumsallarından biri olarak kabul edilir ve ziyaretçiler, bu güzel kumsalda güneşlenme ve denizde yüzmek için buraya gelirler. Bu bölgenin iklimi, genellikle ılımandır ve yaz aylarında sıcaklık artar. Sasa Bey Hamamı çevredeki dağların eteklerinde bulunduğu için, bu bölgeye ulaşım kolaydır ve birçok ziyaretçi, bu bölgenin güzelliğini keşfetmek için buraya gelir.
+Sasa Bey Hamamı, Manisa'nın Ege Bölgesi'nde bulunur ve çevredeki dağların ve denizlerin birleşmesinden oluşur. Sasa Bey Hamamı'nın kumsalı, Ege Bölgesi'nin en güzel kumsallarından biri olarak kabul edilir ve ziyaretçiler, bu güzel kumsalda güneşlenme ve denizde yüzmek için buraya gelirler. Bu bölgenin iklimi, genellikle ılımandır ve yaz aylarında sıcaklık artar. Sasa Bey Hamamı çevredeki dağların eteklerinde bulunduğu için, bu bölgeye ulaşım kolaydır ve birçok ziyaretçi, bu bölgenin güzelliğini keşfetmek için buraya gelir.
 
 ## Flora ve Fauna
 

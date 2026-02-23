@@ -32,7 +32,7 @@ Bitlis'in dağlık arazisinde yer alan Rezi Dağı, şehrin doğal güzellikleri
 
 ## Tarihçe
 
-Bitlis bölgesi, históriaya şahitlik etmiş bir coğrafyadır. Rezi Dağı da bu bölgenin önemli doğal unsurlarından biridir. Bu bölge, tarihin farklı dönemlerinde Urartular, Romalılar, Selçuklular ve Osmanlılar gibi çeşitli uygarlıkların hâkimiyetinde kalmıştır. Bu zengin tarihi miras, bölgenin kültürel ve doğal değerlerini şekillendirmiştir.
+Bitlis bölgesi, tarihi şahitlik etmiş bir coğrafyadır. Rezi Dağı da bu bölgenin önemli doğal unsurlarından biridir. Bu bölge, tarihin farklı dönemlerinde Urartular, Romalılar, Selçuklular ve Osmanlılar gibi çeşitli uygarlıkların hâkimiyetinde kalmıştır. Bu zengin tarihi miras, bölgenin kültürel ve doğal değerlerini şekillendirmiştir.
 
 Doğal güzellikleri ve stratejik konumuyla, Rezi Dağı ve benzeri alanlar, tarihte önemli ticaret yolları ve yaylaklar olarak kullanılmıştır. Bölgede yaşayan insanlar, hayvancılık ve tarım faaliyetleriyle geçimlerini sağlamış, bu doğal alanları mevsimsel olarak kullanmışlardır. Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde, bu tür doğal alanlar, toplumların yaşamını ve kültürünü önemli ölçüde etkilemiştir. Rezi Dağı gibi alanlar, sadece doğal güzellikleriyle değil, aynı zamanda tarihi ve kültürel değerleriyle de önemlidir. Bu bölge, tarihin izlerini taşıyan bir coğrafya olarak, ziyaretçilerini tarihi bir yolculuğa davet etmektedir.
 
@@ -52,7 +52,7 @@ Rezi Dağı, Bitlis'in yüksek dağ ekolojisini barındıran bir bölge olarak d
 
 Bitki örtüsünde, ilkbahar döneminde çiçeklenen yüksek dağ çayırları hakim oluyor. Bu çayırlar, sonbaharda göç eden kuşların önemli bir durak noktası olarak görev görüyor. Dağın yüksek kesimlerinde, alpin bitkiler ve endemik türler bulunuyor.
 
-Yaban hayatı açısından, dağ keçileri, Vaşaklar ve diğer yüksek dağ memelileri bu bölgede yaşamlarını sürdürüyor. Ayrıca, çeşitli kuş türleri ve sürüngenler de bu ekosistemin bir parçası olarak yer alıyor. Ekolojik değer açısından, Rezi Dağı'nın koruma durumu oldukça önemlidir. Bu bölge, yüksek dağ ekolojisini koruma ve gelecek nesiller için bảo tồn etmek açısından büyük bir önem taşıyor.
+Yaban hayatı açısından, dağ keçileri, Vaşaklar ve diğer yüksek dağ memelileri bu bölgede yaşamlarını sürdürüyor. Ayrıca, çeşitli kuş türleri ve sürüngenler de bu ekosistemin bir parçası olarak yer alıyor. Ekolojik değer açısından, Rezi Dağı'nın koruma durumu oldukça önemlidir. Bu bölge, yüksek dağ ekolojisini koruma ve gelecek nesiller için koruma tồn etmek açısından büyük bir önem taşıyor.
 
 ## Ziyaret Bilgileri
 

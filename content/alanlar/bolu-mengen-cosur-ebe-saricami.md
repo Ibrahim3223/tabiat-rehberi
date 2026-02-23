@@ -1,7 +1,7 @@
 ---
 title: "Bolu-Mengen-Cosur Ebe Saricami"
 date: "2026-01-09T18:40:15.168Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Bolu"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227968"
 
 # Bolu-Mengen-Cosur Ebe Saricami
 
-Bolu-Mengen-Cosur Ebe Saricami milli parkı, Karadeniz Bölgesi'nde yer alan ve zengin flora ile fauna çeşitliliğine sahip bir doğal alandır. Bu alan, 140 hektarlık büyüklüğüyle yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Milli park, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel değerlerini de gözler önüne serer. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu milli park, hem yerli hem de yabancı turistler için önemli bir gezi destinasyonu haline gelmiştir.
+Bolu-Mengen-Cosur Ebe Saricami milli parkı, Karadeniz Bölgesi'nde yer alan ve zengin flora ile fauna çeşitliliğine sahip bir doğal alandır. Milli park, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel değerlerini de gözler önüne serer. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu milli park, hem yerli hem de yabancı turistler için önemli bir gezi destinasyonu haline gelmiştir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Mengen-Cosur Ebe Saricami milli parkının tarihi geçmişi, yüzyıllar ö
 
 ## Coğrafya
 
-Bolu-Mengen-Cosur Ebe Saricami milli parkı, Karadeniz Bölgesi'nde yer alan bir doğal alandır. Milli park, 140 hektarlık bir alanı kaplayarak, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bölge, zengin flora ve fauna çeşitliliğine sahiptir. Milli park, ziyaretçilerine çeşitli yürüyüş parkurları, piknik alanları ve gözlem noktaları sunar. Bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliğini seyretme fırsatı verirken, aynı zamanda bölgenin ekolojik dengesini de koruma altına alır. Milli parkın coğrafi konumu, Karadeniz Bölgesi'nin genel iklim koşullarına uygun olarak, ılıman ve nemli bir iklimi sahiptir. Bu iklim, bölgenin flora ve fauna çeşitliliğinin zenginleşmesine katkıda bulunur. Milli parkın yer aldığı bölgede, çeşitli akarsular ve göller de bulunur. Bu su kaynakları, bölgenin ekolojik dengesini korurken, aynı zamanda ziyaretçilere doğal güzellikler sunar.
+Bolu-Mengen-Cosur Ebe Saricami milli parkı, Karadeniz Bölgesi'nde yer alan bir doğal alandır. Bölge, zengin flora ve fauna çeşitliliğine sahiptir. Milli park, ziyaretçilerine çeşitli yürüyüş parkurları, piknik alanları ve gözlem noktaları sunar. Bölgenin coğrafi yapısı, ziyaretçilere doğanın güzelliğini seyretme fırsatı verirken, aynı zamanda bölgenin ekolojik dengesini de koruma altına alır. Milli parkın coğrafi konumu, Karadeniz Bölgesi'nin genel iklim koşullarına uygun olarak, ılıman ve nemli bir iklimi sahiptir. Bu iklim, bölgenin flora ve fauna çeşitliliğinin zenginleşmesine katkıda bulunur. Milli parkın yer aldığı bölgede, çeşitli akarsular ve göller de bulunur. Bu su kaynakları, bölgenin ekolojik dengesini korurken, aynı zamanda ziyaretçilere doğal güzellikler sunar.
 
 ## Flora ve Fauna
 

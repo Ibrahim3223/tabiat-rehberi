@@ -22,7 +22,7 @@ wikidata_id: "Q108227269"
 
 # Sinop-Erfelek Kayin 2
 
-Sinop-Erfelek Kayin 2 milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olan Sinop'un Erfelek ilçesinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir kaçış noktası. Erfelek'in doğal güzellikleri ve tarihi geçmişi, bu bölgeyi ziyaret etmek için birçok neden sunuyor.
+Sinop-Erfelek Kayin 2 milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olan Sinop'un Erfelek ilçesinde yer alıyor. Bu milli park, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir kaçış noktası. Erfelek'in doğal güzellikleri ve tarihi geçmişi, bu bölgeyi ziyaret etmek için birçok neden sunuyor.
 
 ## Tarihçe
 

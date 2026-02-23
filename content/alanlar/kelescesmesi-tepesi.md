@@ -1,7 +1,7 @@
 ---
 title: "Keleşçeşmesi Tepesi"
 date: "2026-01-09T08:18:58.449Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Ankara"
@@ -34,7 +34,7 @@ Ankara'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal b
 
 Ankara'nın tarihi, Paleolitik Dönem'den başlayarak, Hitit, Frig, Pers, Roma ve Osmanlı gibi birçok uygarlığa ev sahipliği yapmış zengin bir geçmişe sahiptir. Keleşçeşmesi Tepesi de bu tarihi bölgenin içinde yer alır. Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarını şekillendiren önemli unsurlar olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal alanlarla iç içe geçmelerine neden olmuştur.
 
-Ankara bölgesinde, özellikle histórik ticaret yolları üzerinde kurulan yerleşim yerleri, bölgenin stratejik önemini vurgulamaktadır. İnsanların bu doğal alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal açıdan da önemlidir. Keleşçeşmesi Tepesi gibi doğal güzellikler, geçmişten günümüze insanların yaşamına renk katan önemli noktalar olarak görülebilir. Bu tür alanlar, insanların doğayla bağ kurmalarını sağlayan ve kültürel mirasın bir parçası olan önemli mekanlardır.
+Ankara bölgesinde, özellikle tarihi ticaret yolları üzerinde kurulan yerleşim yerleri, bölgenin stratejik önemini vurgulamaktadır. İnsanların bu doğal alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal açıdan da önemlidir. Keleşçeşmesi Tepesi gibi doğal güzellikler, geçmişten günümüze insanların yaşamına renk katan önemli noktalar olarak görülebilir. Bu tür alanlar, insanların doğayla bağ kurmalarını sağlayan ve kültürel mirasın bir parçası olan önemli mekanlardır.
 
 ## Coğrafya
 

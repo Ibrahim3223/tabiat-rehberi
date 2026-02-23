@@ -1,7 +1,7 @@
 ---
 title: "Durhasan Dede Türbesi"
 date: "2026-01-10T05:37:06.877Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391772"
 
 # Durhasan Dede Türbesi
 
-Durhasan Dede Türbesi, Adana'nın Ceyhan ilçesinde yer alan tarihi ve doğal güzellikleri bir arada sunan özel bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Bu mekan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Durhasan Dede Türbesi, özellikle plaj severler için önemli bir çekim merkezi.
+Durhasan Dede Türbesi, Adana'nın Ceyhan ilçesinde yer alan tarihi ve doğal güzellikleri bir arada sunan özel bir destinasyon. Bu mekan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Durhasan Dede Türbesi, özellikle plaj severler için önemli bir çekim merkezi.
 
 ## Tarihçe
 

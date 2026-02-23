@@ -28,7 +28,7 @@ wikidata_id: "Q31386723"
 
 # Topidiyarı Tepesi
 
-Topidiyarı Tepesi, Diyarbakır'ın tarihi ve doğal güzelliğinin birleştiği noktalardan biri. Bu bölge, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde. Topidiyarı Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası. Tepenin üstünden şehri izlemek, hem dinlendirici hem de büyüleyici. Topidiyarı Tepesi, aynı zamanda birçok tarihi esere ev sahipliği yapıyor. Bu tepede, insanlık tarihinin önemli bölümlerini keşfetme mümkün. Topidiyarı Tepesi, Diyarbakır'ın önemli bir parçası ve ziyaretçilere birçok olanak sunuyor.
+Topidiyarı Tepesi, Diyarbakır'ın tarihi ve doğal güzelliğinin birleştiği noktalardan biri. Topidiyarı Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası. Tepenin üstünden şehri izlemek, hem dinlendirici hem de büyüleyici. Topidiyarı Tepesi, aynı zamanda birçok tarihi esere ev sahipliği yapıyor. Bu tepede, insanlık tarihinin önemli bölümlerini keşfetme mümkün. Topidiyarı Tepesi, Diyarbakır'ın önemli bir parçası ve ziyaretçilere birçok olanak sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Topidiyarı Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmı�
 
 ## Coğrafya
 
-Topidiyarı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliğini yansıtıyor. Bu bölge, birçok doğal güzelliğe ev sahipliği yapıyor. Topidiyarı Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde. Bu tepenin çevresi, birçok bitki türüyle kaplı ve ziyaretçilere doğanın güzelliğini gösteriyor. Topidiyarı Tepesi, aynı zamanda birçok hayvanın yuvalandığı bir bölge. Bu tepede, birçok farklı hayvan türünü görme mümkün. Topidiyarı Tepesi, coğrafi konumu itibariyle, birçok mevsimsel değişime sahne oluyor. Bu tepede, dört mevsimi ayrı ayrı yaşama mümkün. Topidiyarı Tepesi, coğrafi güzelliği ve doğal zenginliğiyle, ziyaretçilere birçok olanak sunuyor.
+Topidiyarı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliğini yansıtıyor. Bu bölge, birçok doğal güzelliğe ev sahipliği yapıyor. Bu tepenin çevresi, birçok bitki türüyle kaplı ve ziyaretçilere doğanın güzelliğini gösteriyor. Topidiyarı Tepesi, aynı zamanda birçok hayvanın yuvalandığı bir bölge. Bu tepede, birçok farklı hayvan türünü görme mümkün. Topidiyarı Tepesi, coğrafi konumu itibariyle, birçok mevsimsel değişime sahne oluyor. Bu tepede, dört mevsimi ayrı ayrı yaşama mümkün. Topidiyarı Tepesi, coğrafi güzelliği ve doğal zenginliğiyle, ziyaretçilere birçok olanak sunuyor.
 
 ## Flora ve Fauna
 

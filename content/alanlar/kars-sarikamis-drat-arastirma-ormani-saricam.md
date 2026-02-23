@@ -22,7 +22,7 @@ wikidata_id: "Q108227694"
 
 # Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam
 
-Kars ilinin Sarikamis ilçesinde bulunan Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanı ile ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu muhteşem doğa alanı, doğa severlerin ve araştırma yapanların ilgi odağı oluyor. Ormanlık alanda bitki türleri ve zengin fauna ile karşılaşma mümkün. Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam, doğa tutkunları için gerçek bir cennet olarak görülüyor.
+Kars ilinin Sarikamis ilçesinde bulunan Kars-Sarikamis-Dr.A.T. Bu muhteşem doğa alanı, doğa severlerin ve araştırma yapanların ilgi odağı oluyor. Ormanlık alanda bitki türleri ve zengin fauna ile karşılaşma mümkün. Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam, doğa tutkunları için gerçek bir cennet olarak görülüyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam'ın tarihi geçmişi, bölgenin 
 
 ## Coğrafya
 
-Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam, Doğu Anadolu Bölgesi'nin Kars ilinde yer alıyor. Ormanlık alan, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kapsıyor. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahip. Ormanlık alanın iklimi, bölgenin coğrafi yapısına göre değişkenlik gösteriyor. Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam, doğu-batı yönünde uzanan dağ sıraları ile çevrilidir. Bu coğrafi yapı, ormanlık alanın iklimini ve bitki örtüsünü etkiliyor. Ormanlık alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ormanlık alanın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam, Doğu Anadolu Bölgesi'nin Kars ilinde yer alıyor. Bu bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahip. Ormanlık alanın iklimi, bölgenin coğrafi yapısına göre değişkenlik gösteriyor. Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam, doğu-batı yönünde uzanan dağ sıraları ile çevrilidir. Bu coğrafi yapı, ormanlık alanın iklimini ve bitki örtüsünü etkiliyor. Ormanlık alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ormanlık alanın coğrafi yapısı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam'ı ziyaret etmek, doğa severler
 ## İlginç Bilgiler
 
 - Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam, 140 hektarlık bir alanı kapsıyor.
-- Ormanlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölge, coğrafi olarak dağlık ve engebeli bir yapıya sahip.
 - Ormanlık alanın iklimi, bölgenin coğrafi yapısına göre değişkenlik gösteriyor.
 - Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor.

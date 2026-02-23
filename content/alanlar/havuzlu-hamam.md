@@ -1,7 +1,7 @@
 ---
 title: "Havuzlu Hamam"
 date: "2026-01-09T22:31:17.976Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738720"
 
 # Havuzlu Hamam
 
-Giresun'un merkezinde yer alan Havuzlu Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe olma ve şehrin gürültüsünden uzaklaşmak için ideal bir ortam sunar. Havuzlu Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Plajın kumlu ve çakıllı sahili, temiz ve berrak deniziyle birlikte, ziyaretçilerin güneşlenmek, denize girme ve çeşitli su sporları yapmak için mükemmel bir yerdir.
+ Bu geniş yeşil alan, ziyaretçilere doğayla iç içe olma ve şehrin gürültüsünden uzaklaşmak için ideal bir ortam sunar. Havuzlu Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Plajın kumlu ve çakıllı sahili, temiz ve berrak deniziyle birlikte, ziyaretçilerin güneşlenmek, denize girme ve çeşitli su sporları yapmak için mükemmel bir yerdir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Havuzlu Hamam'ın tarihi geçmişi, Giresun'un tarihi ile iç içe geçmiş duru
 
 ## Coğrafya
 
-Havuzlu Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen Giresun'da yer alır. Plaj, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe olma ve şehrin gürültüsünden uzaklaşmak için ideal bir ortam sunar. Havuzlu Hamam'ın kumlu ve çakıllı sahili, temiz ve berrak deniziyle birlikte, ziyaretçilerin güneşlenmek, denize girme ve çeşitli su sporları yapmak için mükemmel bir yerdir. Plajın çevresi, tarihi ve kültürel açıdan zengin bir bölge olup, ziyaretçilerin Giresun'un geçmişini keşfetmeleri için birçok fırsat sunar. Havuzlu Hamam, Karadeniz Bölgesi'nin iklimine uygun olarak, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir hava durumuna sahiptir.
+Havuzlu Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen Giresun'da yer alır. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe olma ve şehrin gürültüsünden uzaklaşmak için ideal bir ortam sunar. Havuzlu Hamam'ın kumlu ve çakıllı sahili, temiz ve berrak deniziyle birlikte, ziyaretçilerin güneşlenmek, denize girme ve çeşitli su sporları yapmak için mükemmel bir yerdir. Plajın çevresi, tarihi ve kültürel açıdan zengin bir bölge olup, ziyaretçilerin Giresun'un geçmişini keşfetmeleri için birçok fırsat sunar. Havuzlu Hamam, Karadeniz Bölgesi'nin iklimine uygun olarak, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir hava durumuna sahiptir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Havuzlu Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilini
 ## İlginç Bilgiler
 
 - Havuzlu Hamam, Giresun'un en önemli turizm merkezidir.
-- Plaj, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Havuzlu Hamam, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir.
 - Plajın çevresi, tarihi ve kültürel açıdan zengin bir bölge olup, ziyaretçilerin Giresun'un geçmişini keşfetmeleri için birçok fırsat sunar.
 - Havuzlu Hamam, özellikle yaz aylarında ziyaret edilmektedir.

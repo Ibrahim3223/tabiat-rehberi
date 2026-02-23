@@ -28,7 +28,7 @@ wikidata_id: "Q34828988"
 
 # Çeper Tepesi
 
-Van şehrinin güzide noktalarından biri olan Çeper Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Çeper Tepesi, Van'ın tarihini ve kültürünü yansıtan önemli bir nokta olarak kabul ediliyor. Tepenin eteklerinde yer alan yerleşim yerleri, bölgenin tarihi geçmişine ışık tutuyor. Çeper Tepesi, doğa severler ve tarih meraklıları için bir hazine niteliğinde.
+Van şehrinin güzide noktalarından biri olan Çeper Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Çeper Tepesi, Van'ın tarihini ve kültürünü yansıtan önemli bir nokta olarak kabul ediliyor. Tepenin eteklerinde yer alan yerleşim yerleri, bölgenin tarihi geçmişine ışık tutuyor. Çeper Tepesi, doğa severler ve tarih meraklıları için bir hazine niteliğinde.
 
 ## Tarihçe
 

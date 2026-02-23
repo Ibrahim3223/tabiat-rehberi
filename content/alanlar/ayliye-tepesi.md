@@ -28,7 +28,7 @@ wikidata_id: "Q31387961"
 
 # Ayliye Tepesi
 
-Ayliye Tepesi, Gümüşhane'nin Karadeniz Bölgesi'nde yer alan bir doğa harikası. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini cezbeden bir güzelliğe sahip. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepeye tırmandıkça manzara da değişiyor. Ayliye Tepesi, doğa severler için önemli bir destinasyon olarak kabul ediliyor. Ziyaretçiler, bu tepede hem doğanın güzelliğini keşfediyor hem de bölgenin tarihini öğrenme fırsatı buluyor.
+Ayliye Tepesi, Gümüşhane'nin Karadeniz Bölgesi'nde yer alan bir doğa harikası. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepeye tırmandıkça manzara da değişiyor. Ayliye Tepesi, doğa severler için önemli bir destinasyon olarak kabul ediliyor. Ziyaretçiler, bu tepede hem doğanın güzelliğini keşfediyor hem de bölgenin tarihini öğrenme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Ayliye Tepesi, Karadeniz Bölgesi'nin coğrafi olarak en dikkat çekici noktalar
 
 ## Flora ve Fauna
 
-Ayliye Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin eteklerinde, çeşitli bitki türleri bulunurken, tepenin yüksek kesimlerinde farklı türler hüküm sürüyor. Mevsimsel değişimler, bu bitki türlerinin renklerini ve çeşitlerini değiştirirken, aynı zamanda fauna da bu değişimden etkileniyor. Ayliye Tepesi, yaban hayatının zengin olduğu bir bölge. Tepede, çeşitli kuş türleri, memeliler ve sürüngenler yaşarken, ziyaretçiler bu canlıları gözlemleme fırsatı buluyor. Ayliye Tepesi'nin ekosistemi, doğa severler için önemli bir araştırma ve gözlem alanı olarak kabul ediliyor.
+ Tepenin eteklerinde, çeşitli bitki türleri bulunurken, tepenin yüksek kesimlerinde farklı türler hüküm sürüyor. Mevsimsel değişimler, bu bitki türlerinin renklerini ve çeşitlerini değiştirirken, aynı zamanda fauna da bu değişimden etkileniyor. Ayliye Tepesi, yaban hayatının zengin olduğu bir bölge. Tepede, çeşitli kuş türleri, memeliler ve sürüngenler yaşarken, ziyaretçiler bu canlıları gözlemleme fırsatı buluyor. Ayliye Tepesi'nin ekosistemi, doğa severler için önemli bir araştırma ve gözlem alanı olarak kabul ediliyor.
 
 ## Ziyaret Bilgileri
 

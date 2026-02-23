@@ -28,7 +28,7 @@ wikidata_id: "Q31386906"
 
 # Yatak Tepesi
 
-Yatak Tepesi, Marmara Bölgesi'nin kalbinde yer alan Balıkesir'de bulunan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli doğal güzelliklerinden biri. Yatak Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel köy yaşamının tadını çıkarma fırsatı sunuyor. Yatak Tepesi, özellikle bahar aylarında doğanın uyanışı ile birlikte renkli bir manzara sunuyor. Bu dönemde, tepeye çıkan ziyaretçiler, çeşitli çiçek türleri ile karşılaşıyor ve doğanın güzelliğini yakından gözlemleyebiliyor.
+Yatak Tepesi, Marmara Bölgesi'nin kalbinde yer alan Balıkesir'de bulunan bir tepe. Yatak Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel köy yaşamının tadını çıkarma fırsatı sunuyor. Yatak Tepesi, özellikle bahar aylarında doğanın uyanışı ile birlikte renkli bir manzara sunuyor. Bu dönemde, tepeye çıkan ziyaretçiler, çeşitli çiçek türleri ile karşılaşıyor ve doğanın güzelliğini yakından gözlemleyebiliyor.
 
 ## Tarihçe
 

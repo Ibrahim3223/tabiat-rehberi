@@ -1,7 +1,7 @@
 ---
 title: "Aspendos Küçük Hamam"
 date: "2026-01-09T23:30:17.273Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739047"
 
 # Aspendos Küçük Hamam
 
-Aspendos Küçük Hamam, Antalya'nın Serik ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Akdeniz'in mavilikleriyle çevrili bir cennettir. Aspendos Küçük Hamam, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan bir destinasyondur. Burada, denizin serinliklerinden ve güneşin sıcaklığından yararlanabilirsiniz. Ayrıca, Aspendos Antik Tiyatrosu gibi tarihi eserleri de ziyaret edebilirsiniz.
+Aspendos Küçük Hamam, Antalya'nın Serik ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir plajdır. Aspendos Küçük Hamam, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan bir destinasyondur. Burada, denizin serinliklerinden ve güneşin sıcaklığından yararlanabilirsiniz. Ayrıca, Aspendos Antik Tiyatrosu gibi tarihi eserleri de ziyaret edebilirsiniz.
 
 ## Tarihçe
 

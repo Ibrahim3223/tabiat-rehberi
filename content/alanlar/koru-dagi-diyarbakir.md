@@ -33,7 +33,7 @@ Diyarbakır'ın zengin tarihi ve kültürel mirasının yanı sıra, Koru Dağı
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, bu topraklarda Sümerler, Asurlar ve Urartular gibi uygarlıklar hüküm sürmüştür. Koru Dağı, bu zengin tarihsel mirasın içinde yer alan önemli bir doğal alan olarak dikkat çeker. Türkiye'nin çeşitli bölgelerinde bulunan koru ve ormanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sağlamıştır. 
+Diyarbakır bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, bu topraklarda Sümerler, Asurlar ve Urartular gibi uygarlıklar hüküm sürmüştür. Koru Dağı, bu zengin tarihsel mirasın içinde yer alan önemli bir doğal alan olarak dikkat çeker. Türkiye'nin çeşitli bölgelerinde bulunan koru ve ormanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sağlamıştır.
 
 Bu doğal alanlar, sadece ekolojik dengenin korunması açısından değil, aynı zamanda insanların geçim kaynakları açısından da büyük önem taşır. Yaylacılık, hayvancılık ve tarım gibi faaliyetler, bu bölgelerin ekonomik yaşamının temelini oluşturur. Ayrıca, tarihsel ticaret yollarının da bu coğrafyadan geçmesi, bölgenin stratejik önemini vurgular. Koru Dağı gibi alanlar, sadece doğal güzellikleriyle değil, aynı zamanda tarihsel ve kültürel önemiyle de dikkat çeker. Bu nedenle, bu tür doğal alanların korunması ve sürdürülebilir kullanımı, gelecek nesiller için büyük bir önem taşır.
 

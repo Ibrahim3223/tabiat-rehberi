@@ -51,8 +51,8 @@ Bölgenin hidrolojik açıdan incelenmesi, Haç Dağı'nın çevresel ilişkiler
 
 ## Flora ve Fauna
 
-Haç Dağı, Giresun'un nemli ikliminin hüküm sürdüğü bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki örtüsüne bakıldığında, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle kaplanır. Gür ormanlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliği gösterir. Dağın daha yüksek kesimlerinde, alpin flora hakimdir. 
+Haç Dağı, Giresun'un nemli ikliminin hüküm sürdüğü bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki örtüsüne bakıldığında, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle kaplanır. Gür ormanlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliği gösterir. Dağın daha yüksek kesimlerinde, alpin flora hakimdir.
 Yaban hayatı da aynı şekilde çeşitlilik gösterir. Memeliler, kuşlar ve sürüngenler bu dağda yaşamlarını sürdürür. Sonbaharda, göç eden kuşlar dağ üzerinden geçer. Ekolojik değer olarak, Haç Dağı'nın korunması önemlidir. Bu dağ ekosisteminin bozulması, birçok canlı türünün yaşamsal dengesini bozabilir.
 
 ## Ziyaret Bilgileri

@@ -51,9 +51,9 @@ Bulut Dağı'nın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik iklimini
 
 ## Flora ve Fauna
 
-Bulut Dağı, Rize'de yer alan nemli iklimli bir dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 
+Bulut Dağı, Rize'de yer alan nemli iklimli bir dağ ekosistemi, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar.
 
-Bitki örtüsünü oluşturan gür ormanlar, ilkbaharla birlikte rengarenk çiçeklerle donanır. Sonbaharda, yaprakların renk değiştirmesiyle birlikte, dağ manzarası bir sanat eserine dönüşür. 
+Bitki örtüsünü oluşturan gür ormanlar, ilkbaharla birlikte rengarenk çiçeklerle donanır. Sonbaharda, yaprakların renk değiştirmesiyle birlikte, dağ manzarası bir sanat eserine dönüşür.
 
 Dağın yaban hayatı, çeşitli memeli, kuş ve sürüngen türleriyle canlıdır. Dağ keçileri, yüksek zonlarda dolaşırken, kartallar gökyüzünde süzülür. Göç mevsimlerinde, birçok kuş türü dağların üzerinden geçer.
 

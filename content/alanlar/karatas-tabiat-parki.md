@@ -23,7 +23,7 @@ wikidata_id: "Q108228172"
 
 # Karataş Tabiat Parkı
 
-Karataş Tabiat Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal zenginliklerinden biri. Parkın içinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, parkın güzel manzaralarını ve doğal güzelliklerini keşfedebilirler. Parka gelenler, doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve bölgenin florası ve faunasını keşfedebilirler.
+Karataş Tabiat Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın içinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, parkın güzel manzaralarını ve doğal güzelliklerini keşfedebilirler. Parka gelenler, doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve bölgenin florası ve faunasını keşfedebilirler.
 
 ## Tarihçe
 

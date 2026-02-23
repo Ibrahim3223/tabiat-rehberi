@@ -23,7 +23,7 @@ wikidata_id: "Q108228631"
 
 # DALAMAN
 
-İç Anadolu Bölgesi'nin kalbinde yer alan DALAMAN, 140 hektarlık geniş bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğal güzellikleriyle büyülüyor. Bu bölge, coğrafi konumu itibariyle çeşitli bitki türleri ve fauna çeşitliliğiyle dikkat çekiyor. DALAMAN, doğa severler için bir cennet olarak tanımlanabilir. Ziyaretçiler, bu doğal güzelliği keşfetmek için heyecanla bekleyebilirler.
+ Bu bölge, coğrafi konumu itibariyle çeşitli bitki türleri ve fauna çeşitliliğiyle dikkat çekiyor. DALAMAN, doğa severler için bir cennet olarak tanımlanabilir. Ziyaretçiler, bu doğal güzelliği keşfetmek için heyecanla bekleyebilirler.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ DALAMAN'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, t
 
 ## Coğrafya
 
-DALAMAN, İç Anadolu Bölgesi'nde yer alan bir milli park olarak, coğrafi konumu itibariyle dikkat çekiyor. 140 hektarlık geniş bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi yapısı, çeşitli bitki türleri ve fauna çeşitliliğiyle karakterize ediliyor. DALAMAN, ziyaretçiler için bir doğa harikası sunuyor. Bu milli park, çevre güzelliği ve coğrafi yapısıyla dikkat çekiyor. İklim koşulları, mevsimsel değişimlere göre şekilleniyor ve bu değişimler, bölgeyi daha da güzelleştiriyor.
+DALAMAN, İç Anadolu Bölgesi'nde yer alan bir milli park olarak, coğrafi konumu itibariyle dikkat çekiyor. Coğrafi yapısı, çeşitli bitki türleri ve fauna çeşitliliğiyle karakterize ediliyor. DALAMAN, ziyaretçiler için bir doğa harikası sunuyor. Bu milli park, çevre güzelliği ve coğrafi yapısıyla dikkat çekiyor. İklim koşulları, mevsimsel değişimlere göre şekilleniyor ve bu değişimler, bölgeyi daha da güzelleştiriyor.
 
 ## Flora ve Fauna
 

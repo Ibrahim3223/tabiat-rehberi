@@ -29,7 +29,7 @@ wikidata_id: "Q134728206"
 
 # Kaya Mezarı 5 (Tikenlice Mahallesi) Gürgentepe
 
-Kaya Mezarı 5, Ordu'nun Gürgentepe ilçesinde, Tikenlice Mahallesi sınırları içerisinde yer alan bir plajdır. Bu plaj, Karadeniz Bölgesi'nin en güzel ve temiz plajlarından biri olarak bilinir. 140 hektarlık bir alana yayılan plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Kaya Mezarı 5, ziyaretçilerine doğanın güzelliğini ve tarihi değerlerini bir arada sunar. Plajın yakınında bulunan tarihi mezarlar ve kalıntılar, bu bölgenin zengin kültürel mirasını gözler önüne serer. Kaya Mezarı 5, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
+Kaya Mezarı 5, Ordu'nun Gürgentepe ilçesinde, Tikenlice Mahallesi sınırları içerisinde yer alan bir plajdır. Bu plaj, Karadeniz Bölgesi'nin en güzel ve temiz plajlarından biri olarak bilinir. Kaya Mezarı 5, ziyaretçilerine doğanın güzelliğini ve tarihi değerlerini bir arada sunar. Plajın yakınında bulunan tarihi mezarlar ve kalıntılar, bu bölgenin zengin kültürel mirasını gözler önüne serer. Kaya Mezarı 5, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaya Mezarı 5'in tarihi geçmişi, bölgenin zengin kültürel mirasını yans�
 
 ## Coğrafya
 
-Kaya Mezarı 5, Ordu'nun Gürgentepe ilçesinde, Karadeniz Bölgesi'nin en güzel ve temiz plajlarından biridir. Plaj, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Plajın yakınında bulunan dağlar ve ormanlar, bu bölgenin doğal güzelliğini tăngıtır. Kaya Mezarı 5, ziyaretçilerine doğanın güzelliğini ve tarihi değerlerini bir arada sunar. Plajın coğrafi konumu, ziyaretçiler için önemli bir çekim merkezi oluşturur. Kaya Mezarı 5, Gürgentepe ilçesinin en önemli turistik mekanlarından biri olarak kabul edilir.
+Kaya Mezarı 5, Ordu'nun Gürgentepe ilçesinde, Karadeniz Bölgesi'nin en güzel ve temiz plajlarından biridir. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Plajın yakınında bulunan dağlar ve ormanlar, bu bölgenin doğal güzelliğini tăngıtır. Kaya Mezarı 5, ziyaretçilerine doğanın güzelliğini ve tarihi değerlerini bir arada sunar. Plajın coğrafi konumu, ziyaretçiler için önemli bir çekim merkezi oluşturur. Kaya Mezarı 5, Gürgentepe ilçesinin en önemli turistik mekanlarından biri olarak kabul edilir.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Kaya Mezarı 5, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu bölge, 
 
 ## Ziyaret Bilgileri
 
-Kaya Mezarı 5, ziyaretçilere doğanın güzelliğini ve tarihi değerlerini bir arada sunar. Plaj, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Ziyaretçiler, plajın güzelliğini keşfedebilir ve tarihi mezarlar ile kalıntıları ziyaret edebilir. Kaya Mezarı 5, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Ziyaretçiler, plajın yakınında bulunan restoran ve kafelerde dinlenebilir ve yerel lezzetleri tadabilir. Kaya Mezarı 5, Gürgentepe ilçesinin en önemli turistik mekanlarından biri olarak kabul edilir.
+Kaya Mezarı 5, ziyaretçilere doğanın güzelliğini ve tarihi değerlerini bir arada sunar. Ziyaretçiler, plajın güzelliğini keşfedebilir ve tarihi mezarlar ile kalıntıları ziyaret edebilir. Kaya Mezarı 5, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Ziyaretçiler, plajın yakınında bulunan restoran ve kafelerde dinlenebilir ve yerel lezzetleri tadabilir. Kaya Mezarı 5, Gürgentepe ilçesinin en önemli turistik mekanlarından biri olarak kabul edilir.
 
 ## İlginç Bilgiler
 

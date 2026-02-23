@@ -54,7 +54,7 @@ Pasinler Ovası, Erzurum'un kalbinde yer alan 1200 hektarlık bir kanyon alanıd
 
 Ovanın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Step bitkileri, bu canlıların yaşam alanı ve besin kaynağıdır. Kuraklığa adapte türler, bu bölgenin zorlu koşullarına uyum sağlamışlardır.
 
-Pasinler Ovası, ekolojik açıdan önemli bir alandır. Bu bölge, çeşitli canlı türlerinin yaşam alanı ve göç güzergahıdır. Step bitkilerinin ve yaban hayatının korunması, bu bölgenin ekolojik dengesini sağlar. Ancak, bölgenin koruma durumu, insan faaliyetleri ve iklim değişikliği nedeniyle tehdit altındadır. Bu nedenle, Pasinler Ovası'nın korunması ve bảo tồn edilmesi, bölgenin doğal güzelliğini ve canlı çeşitliliğini korumak için önemlidir.
+Pasinler Ovası, ekolojik açıdan önemli bir alandır. Bu bölge, çeşitli canlı türlerinin yaşam alanı ve göç güzergahıdır. Step bitkilerinin ve yaban hayatının korunması, bu bölgenin ekolojik dengesini sağlar. Ancak, bölgenin koruma durumu, insan faaliyetleri ve iklim değişikliği nedeniyle tehdit altındadır. Bu nedenle, Pasinler Ovası'nın korunması ve koruma tồn edilmesi, bölgenin doğal güzelliğini ve canlı çeşitliliğini korumak için önemlidir.
 
 ## Ziyaret Bilgileri
 

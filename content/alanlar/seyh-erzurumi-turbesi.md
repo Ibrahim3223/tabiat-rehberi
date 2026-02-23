@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Erzurumi Türbesi"
 date: "2026-01-10T07:37:25.994Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391303"
 
 # Şeyh Erzurumi Türbesi
 
-Şeyh Erzurumi Türbesi, Sivas ilinin merkezinde yer alan ve hem tarihi hem de doğası ile dikkat çeken bir alan olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşıp doğayı keşfetmek isteyenler için ideal bir noktadır. Şeyh Erzurumi Türbesi, Sivas'ın önemli tarihi noktalarından biri olup, şehre gelen ziyaretçiler için mutlaka görülmesi gereken bir yerdir. Türbenin etrafı, çeşitli ağaç türleri ile süslenmiş ve piknik için uygun bir ortam sunmaktadır. Şeyh Erzurumi Türbesi, Sivas'ın güzelliklerini keşfetmek isteyenler için başlangıç noktası olabilir.
+Şeyh Erzurumi Türbesi, Sivas ilinin merkezinde yer alan ve hem tarihi hem de doğası ile dikkat çeken bir alan olarak bilinir. Şeyh Erzurumi Türbesi, Sivas'ın önemli tarihi noktalarından biri olup, şehre gelen ziyaretçiler için mutlaka görülmesi gereken bir yerdir. Türbenin etrafı, çeşitli ağaç türleri ile süslenmiş ve piknik için uygun bir ortam sunmaktadır. Şeyh Erzurumi Türbesi, Sivas'ın güzelliklerini keşfetmek isteyenler için başlangıç noktası olabilir.
 
 ## Tarihçe
 

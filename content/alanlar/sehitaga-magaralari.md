@@ -32,7 +32,7 @@ wikidata_id: "Q49319939"
 
 ## Tarihçe
 
-Şırnak bölgesi, tarihin derinliklerinde birçok uygarlığa ev sahipliği yapmış zengin bir coğrafyadır. Bölgenin tarihi, Paleolitik Çağ'a kadar uzanmaktadır. İnsanlık tarihinin önemli kavşak noktalarından biri olan Şırnak, Mezopotamya'nın kalbinde yer alır. Bu bölge, Sümerler, Asurlar ve Persler gibi eski uygarlıkların izlerini taşır. 
+Şırnak bölgesi, tarihin derinliklerinde birçok uygarlığa ev sahipliği yapmış zengin bir coğrafyadır. Bölgenin tarihi, Paleolitik Çağ'a kadar uzanmaktadır. İnsanlık tarihinin önemli kavşak noktalarından biri olan Şırnak, Mezopotamya'nın kalbinde yer alır. Bu bölge, Sümerler, Asurlar ve Persler gibi eski uygarlıkların izlerini taşır.
 
 Doğal güzellikleri ve stratejik konumuyla Şırnak, tarih boyunca insanların yerleşim ve geçiş noktaları arasında olmuştur. Yaylacılık ve hayvancılık, bölgenin ekonomi ve kültürel dokusunu şekillendiren önemli faaliyetlerdir. Ayrıca, tarihi İpek Yolu gibi önemli ticaret yollarının buradan geçmesi, bölgenin ticari ve kültürel zenginliğine katkıda bulunmuştur.
 

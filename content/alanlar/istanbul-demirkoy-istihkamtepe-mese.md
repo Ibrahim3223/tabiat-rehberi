@@ -22,7 +22,7 @@ wikidata_id: "Q108227763"
 
 # Istanbul-Demirkoy-Istihkamtepe Mese
 
-İstanbul-Demirkoy-Istihkamtepe Mese, Marmara Bölgesi'nin güzide yerlerinden biri olan İstanbul'da bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Burada doğa severler, zengin flora ve fauna ile karşılaşırken, aynı zamanda tarihi ve kültürel açıdan da önemli bir bölgeyi keşfetme fırsatı bulurlar. İstanbul-Demirkoy-Istihkamtepe Mese, ziyaretçilerine hem dinlenmek hem de öğrenmek için eşsiz bir ortam sunmaktadır.
+İstanbul-Demirkoy-Istihkamtepe Mese, Marmara Bölgesi'nin güzide yerlerinden biri olan İstanbul'da bulunmaktadır. Burada doğa severler, zengin flora ve fauna ile karşılaşırken, aynı zamanda tarihi ve kültürel açıdan da önemli bir bölgeyi keşfetme fırsatı bulurlar. İstanbul-Demirkoy-Istihkamtepe Mese, ziyaretçilerine hem dinlenmek hem de öğrenmek için eşsiz bir ortam sunmaktadır.
 
 ## Tarihçe
 

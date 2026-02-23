@@ -28,7 +28,7 @@ wikidata_id: "Q31387999"
 
 # Topuzbaba Tepesi
 
-Gümüşhane'nin en yüksek noktalarından biri olan Topuzbaba Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir görüş açısı sunuyor. Topuzbaba Tepesi, Gümüşhane'nin merkezi bir noktasında yer alıyor ve şehrin dört bir yanından ulaşım mogelijk. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Topuzbaba Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon.
+Gümüşhane'nin en yüksek noktalarından biri olan Topuzbaba Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Topuzbaba Tepesi, Gümüşhane'nin merkezi bir noktasında yer alıyor ve şehrin dört bir yanından ulaşım mogelijk. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Topuzbaba Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

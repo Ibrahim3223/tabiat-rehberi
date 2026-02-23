@@ -1,7 +1,7 @@
 ---
 title: "ASBÜ Hazine Müzesi"
 date: "2026-01-10T15:15:05.834Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132681833"
 
 # ASBÜ Hazine Müzesi
 
-ASBÜ Hazine Müzesi, Ankara'nın merkezinde, tarihi ve kültürel zenginlikleri keşfetmek isteyenler için bir hazine. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Bu müzenin hikayesi, Ankara'nın kalbinde, tarihin sayfalarında gizli. ASBÜ Hazine Müzesi, ziyaretçilerine hem eğitim hem de gezi fırsatı sunuyor. Müzenin koleksiyonu, Ankara'nın tarihi ve kültürel mirasını yansıtıyor. Ziyaretçiler, burada tarihin farklı dönemlerine ait eserleri görebiliyorlar.
+ASBÜ Hazine Müzesi, Ankara'nın merkezinde, tarihi ve kültürel zenginlikleri keşfetmek isteyenler için bir hazine. Bu müzenin hikayesi, Ankara'nın kalbinde, tarihin sayfalarında gizli. ASBÜ Hazine Müzesi, ziyaretçilerine hem eğitim hem de gezi fırsatı sunuyor. Müzenin koleksiyonu, Ankara'nın tarihi ve kültürel mirasını yansıtıyor. Ziyaretçiler, burada tarihin farklı dönemlerine ait eserleri görebiliyorlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ ASBÜ Hazine Müzesi'nin tarihi geçmişi, Ankara'nın tarihinde önemli bir yer
 
 ## Coğrafya
 
-ASBÜ Hazine Müzesi, Ankara'nın merkezinde, İç Anadolu Bölgesi'nin kalbinde yer alıyor. Müze, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Bu bölgenin coğrafyası, tarihi ve kültürel zenginlikleri ile dikkat çekiyor. ASBÜ Hazine Müzesi'nin bulunduğu alan, Ankara'nın tarihi ve kültürel mirasını yansıtıyor. Ziyaretçiler, burada tarihin farklı dönemlerine ait eserleri görebiliyorlar. Müzenin çevresi, tarihi binalar ve kültürel merkezlerle dolu. ASBÜ Hazine Müzesi, Ankara'nın kalbinde, tarihin ve kültürün buluştuğu bir nokta.
+ASBÜ Hazine Müzesi, Ankara'nın merkezinde, İç Anadolu Bölgesi'nin kalbinde yer alıyor. Bu bölgenin coğrafyası, tarihi ve kültürel zenginlikleri ile dikkat çekiyor. ASBÜ Hazine Müzesi'nin bulunduğu alan, Ankara'nın tarihi ve kültürel mirasını yansıtıyor. Ziyaretçiler, burada tarihin farklı dönemlerine ait eserleri görebiliyorlar. Müzenin çevresi, tarihi binalar ve kültürel merkezlerle dolu. ASBÜ Hazine Müzesi, Ankara'nın kalbinde, tarihin ve kültürün buluştuğu bir nokta.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ ASBÜ Hazine Müzesi'ni ziyaret etmek, Ankara'nın tarihi ve kültürel mirasın
 ## İlginç Bilgiler
 
 - ASBÜ Hazine Müzesi, Ankara'nın en büyük müzelerinden biri.
-- Müze, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - ASBÜ Hazine Müzesi, tarihin farklı dönemlerine ait eserleri barındırıyor.
 - Müze, yıl boyunca ziyaretçilerini bekliyor.
 - ASBÜ Hazine Müzesi, Ankara'nın kalbinde, tarihin ve kültürün buluştuğu bir nokta.

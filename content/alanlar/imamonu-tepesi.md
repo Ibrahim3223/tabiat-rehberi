@@ -28,7 +28,7 @@ wikidata_id: "Q34810497"
 
 # İmamönü Tepesi
 
-İmamönü Tepesi, Amasya'nın merkezinde yer alan ve şehrin tarihi geçmişine tanıklık eden önemli bir noktadır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerine şehrin panoramik manzarasını sunuyor. İmamönü Tepesi, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini büyülüyor. Tepenin eteklerinde yer alan tarihi yapılar ve yeşil alanlar, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor.
+İmamönü Tepesi, Amasya'nın merkezinde yer alan ve şehrin tarihi geçmişine tanıklık eden önemli bir noktadır. İmamönü Tepesi, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini büyülüyor. Tepenin eteklerinde yer alan tarihi yapılar ve yeşil alanlar, ziyaretçilerin keyifli bir gün geçirmesine olanak sağlıyor.
 
 ## Tarihçe
 

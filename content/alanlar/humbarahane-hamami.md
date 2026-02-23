@@ -1,7 +1,7 @@
 ---
 title: "Humbarahane Hamamı"
 date: "2026-01-09T23:36:14.439Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739130"
 
 # Humbarahane Hamamı
 
-Humbarahane Hamamı, İstanbul'un kalbinde, Beyoğlu'nda bulunan tarihi bir hamamdır. Bu hamam, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle dolu. Hamamın tarihi geçmişi, İstanbul'un zengin kültürel mirasının bir parçasını oluşturur. Ziyaretçiler, hamamın tarihi atmosferini ve çevresinin doğal güzelliğini deneyimleyebilirler. Humbarahane Hamamı, hem yerel halk hem de turistler için önemli bir cazibe merkezidir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olduğu için, ziyaretçiler geniş bir alanı keşfedebilirler.
+Humbarahane Hamamı, İstanbul'un kalbinde, Beyoğlu'nda bulunan tarihi bir hamamdır. Hamamın tarihi geçmişi, İstanbul'un zengin kültürel mirasının bir parçasını oluşturur. Ziyaretçiler, hamamın tarihi atmosferini ve çevresinin doğal güzelliğini deneyimleyebilirler. Humbarahane Hamamı, hem yerel halk hem de turistler için önemli bir cazibe merkezidir.
 
 ## Tarihçe
 

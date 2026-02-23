@@ -30,7 +30,7 @@ wikidata_id: "Q116260117"
 
 # Merzifon Taşhanı
 
-Merzifon Taşhanı, Merzifon'un merkezinde bulunan ve tarihi geçmişiyle ön plana çıkan bir yapıdır. İç Anadolu Bölgesi'nin önemli merkezlerinden biri olan Merzifon, bu tür yapıları ile dikkat çekiyor. Taşhanı, yaklaşık 140 hektarlık bir alanda yer alıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu yapı, Merzifon'un tarihi ve kültürel mirasını yansıtan önemli bir eser.
+Merzifon Taşhanı, Merzifon'un merkezinde bulunan ve tarihi geçmişiyle ön plana çıkan bir yapıdır. İç Anadolu Bölgesi'nin önemli merkezlerinden biri olan Merzifon, bu tür yapıları ile dikkat çekiyor. Bu yapı, Merzifon'un tarihi ve kültürel mirasını yansıtan önemli bir eser.
 
 ## Tarihçe
 

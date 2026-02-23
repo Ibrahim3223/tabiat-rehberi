@@ -29,7 +29,7 @@ wikidata_id: "Q134728252"
 
 # Ağaçköy Şehitliği II
 
-Ağaçköy Şehitliği II, Kütahya'nın Dumlupınar ilçesinde yer alan bir plaj ve tarihi mekan olarak dikkat çekiyor. Bu mekan, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin önemli noktalarından biri. Ağaçköy Şehitliği II, tarihi ve doğal güzelliklerin birleştiği bir yer olarak ziyaretçilerini bekliyor. Burada, hem tarihi önem taşıyan yapıları ziyaret edebilecek hem de güzel plajında dinlenebileceksiniz.
+Ağaçköy Şehitliği II, Kütahya'nın Dumlupınar ilçesinde yer alan bir plaj ve tarihi mekan olarak dikkat çekiyor. Ağaçköy Şehitliği II, tarihi ve doğal güzelliklerin birleştiği bir yer olarak ziyaretçilerini bekliyor. Burada, hem tarihi önem taşıyan yapıları ziyaret edebilecek hem de güzel plajında dinlenebileceksiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ağaçköy Şehitliği II'nin tarihi geçmişi, bu bölgenin önemli olaylara sa
 
 ## Coğrafya
 
-Ağaçköy Şehitliği II, Kütahya'nın Dumlupınar ilçesinde, Ege Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile hayvanlar yaşamını sürdürüyor. Ağaçköy Şehitliği II, yüksek bir konumda ve bu reasondan dolayı manzarası oldukça güzellerden biri. Bu mekan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerine güzel bir görünüm sunuyor. Ayrıca, buradaki iklim, Ege Bölgesi'nin tipik Akdeniz iklimi özellikleri gösteriyor ve genellikle ılıman ve yağışlı geçiyor.
+Ağaçköy Şehitliği II, Kütahya'nın Dumlupınar ilçesinde, Ege Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. Ağaçköy Şehitliği II, yüksek bir konumda ve bu reasondan dolayı manzarası oldukça güzellerden biri. Bu mekan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerine güzel bir görünüm sunuyor. Ayrıca, buradaki iklim, Ege Bölgesi'nin tipik Akdeniz iklimi özellikleri gösteriyor ve genellikle ılıman ve yağışlı geçiyor.
 
 ## Flora ve Fauna
 

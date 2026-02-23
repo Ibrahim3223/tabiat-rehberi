@@ -28,7 +28,7 @@ wikidata_id: "Q34867856"
 
 # Esirgölü Tepesi
 
-Esirgölü Tepesi, Erzurum'un şehir merkezine yakın bir konumda yer alan ve şehrin manzarasını izlemek için ideal bir nokta olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçiler için geniş bir açık alan sunuyor. Bu tepe, özellikle gün batımı saatlerinde ziyaret ediliyor ve şehrin ışıklarının eşliğinde manzarayı izleme mümkün. Esirgölü Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için bir çekim merkezi olarak dikkat çekiyor.
+Esirgölü Tepesi, Erzurum'un şehir merkezine yakın bir konumda yer alan ve şehrin manzarasını izlemek için ideal bir nokta olan bir tepe. Bu tepe, özellikle gün batımı saatlerinde ziyaret ediliyor ve şehrin ışıklarının eşliğinde manzarayı izleme mümkün. Esirgölü Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için bir çekim merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 

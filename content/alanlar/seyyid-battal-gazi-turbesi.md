@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Battal Gazi Türbesi"
 date: "2026-01-10T06:59:40.017Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390814"
 
 # Seyyid Battal Gazi Türbesi
 
-Seyitgazi'nin kalbinde yer alan Seyyid Battal Gazi Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tarihi mekân, ziyaretçilerini zengin tarihi geçmişi ve doğal güzellikleriyle karşılayacak bir yer. 8. yüzyılda yaşayan ve Anadolu'nun fethinde önemli rol oynayan Seyyid Battal Gazi'nin türbesi, ziyaretçilerin ilgisini çekiyor. Türbenin etrafında bulunan çeşitli ağaçlar ve çiçekler, ziyaretçilere huzurlu bir ortam sağlıyor.
+ Bu tarihi mekân, ziyaretçilerini zengin tarihi geçmişi ve doğal güzellikleriyle karşılayacak bir yer. 8. yüzyılda yaşayan ve Anadolu'nun fethinde önemli rol oynayan Seyyid Battal Gazi'nin türbesi, ziyaretçilerin ilgisini çekiyor. Türbenin etrafında bulunan çeşitli ağaçlar ve çiçekler, ziyaretçilere huzurlu bir ortam sağlıyor.
 
 ## Tarihçe
 
@@ -52,6 +52,6 @@ Seyyid Battal Gazi Türbesi, ziyaretçilere kolay ulaşılabilen bir yer. İlçe
 
 - Seyyid Battal Gazi, 8. yüzyılda yaşayan önemli bir figürdür.
 - Türbenin duvarlarında bulunan tarihi yazılar ve motifler, ziyaretçilere bu mekânın zengin tarihini anlatıyor.
-- Seyyid Battal Gazi Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Türbenin etrafında bulunan çeşitli ağaçlar ve çiçekler, ziyaretçilere huzurlu bir ortam sağlıyor.
 - Seyyid Battal Gazi Türbesi, İç Anadolu Bölgesi'nin kalbinde yer alan Eskişehir ilinin Seyitgazi ilçesinde bulunuyor.

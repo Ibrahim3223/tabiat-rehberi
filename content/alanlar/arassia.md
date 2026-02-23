@@ -45,9 +45,9 @@ Arassia dağının çevresinde, çeşitli su kaynakları ve ekosistemler bulunur
 
 ## Flora ve Fauna
 
-Arassia Dağı, yükseklik zonları ile zengin bir dağ ekosisteminin örneklerini sunar. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler yaygındır. İlbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. 
+Arassia Dağı, yükseklik zonları ile zengin bir dağ ekosisteminin örneklerini sunar. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler yaygındır. İlbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır.
 
-Yaban hayatında, dağ keçileri ve yaban sığırları gibi memeliler, dağların yüksek kesimlerinde yaşamaktadır. Kuşlar ise, özellikle sonbaharda göç ederken bu bölgeden geçer. Sürüngenler de, kuraklığa adapte olmuş türler olarak görülmektedir. 
+Yaban hayatında, dağ keçileri ve yaban sığırları gibi memeliler, dağların yüksek kesimlerinde yaşamaktadır. Kuşlar ise, özellikle sonbaharda göç ederken bu bölgeden geçer. Sürüngenler de, kuraklığa adapte olmuş türler olarak görülmektedir.
 
 Arassia Dağı'nın ekolojik değeri, bu farklı yükseklik zonları ve adapte türlerin bir arada yaşamasından gelir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak için önemlidir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Akbaş Baba Türbesi Sivas"
 date: "2026-01-10T07:38:48.763Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391306"
 
 # Akbaş Baba Türbesi Sivas
 
-Sivas ili, İç Anadolu Bölgesi'nin en önemli kültür ve tarih merkezlerinden biri olarak bilinir. Bu bölgede yer alan Akbaş Baba Türbesi, Sivas'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezinde yer alır. Bu türbe, Sivas'ın tarihi dokusunu korurken, aynı zamanda ziyaretçilere şehrin kültürel mirasını keşfetme fırsatı sunar. Akbaş Baba Türbesi, Sivas'ın merkezi bölgesinde yer alır ve ulaşımı oldukça kolaydır. Şehir merkezinden rahatça ulaşılabilen bu türbe, Sivas'ın önemli tarihi mekanlarından biri olarak kabul edilir.
+Sivas ili, İç Anadolu Bölgesi'nin en önemli kültür ve tarih merkezlerinden biri olarak bilinir. Bu bölgede yer alan Akbaş Baba Türbesi, Sivas'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu türbe, Sivas'ın tarihi dokusunu korurken, aynı zamanda ziyaretçilere şehrin kültürel mirasını keşfetme fırsatı sunar. Akbaş Baba Türbesi, Sivas'ın merkezi bölgesinde yer alır ve ulaşımı oldukça kolaydır. Şehir merkezinden rahatça ulaşılabilen bu türbe, Sivas'ın önemli tarihi mekanlarından biri olarak kabul edilir.
 
 ## Tarihçe
 

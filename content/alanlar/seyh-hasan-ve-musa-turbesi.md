@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Hasan ve Musa Türbesi"
 date: "2026-01-10T05:24:36.814Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391724"
 
 # Şeyh Hasan ve Musa Türbesi
 
-Şeyh Hasan ve Musa Türbesi, Akdeniz Bölgesi'nin Mersin ilinde yer alan bir turizm merkezi. Bu bölge, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Şeyh Hasan ve Musa Türbesi, Akdeniz'in güzelliğini ve tarihi zenginliğini bir araya getiren özel bir mekan. Turistler ve yerli halk, bu bölgeyi ziyaret ederek hem doğanın güzelliğini keşfediyor hem de tarihin izlerini takip ediyor. Şeyh Hasan ve Musa Türbesi, aynı zamanda bir plaj olarak da hizmet veriyor, ziyaretçiler buraya gelerek denize girme ve güneşlenme imkanı buluyor.
+Şeyh Hasan ve Musa Türbesi, Akdeniz Bölgesi'nin Mersin ilinde yer alan bir turizm merkezi. Şeyh Hasan ve Musa Türbesi, Akdeniz'in güzelliğini ve tarihi zenginliğini bir araya getiren özel bir mekan. Turistler ve yerli halk, bu bölgeyi ziyaret ederek hem doğanın güzelliğini keşfediyor hem de tarihin izlerini takip ediyor. Şeyh Hasan ve Musa Türbesi, aynı zamanda bir plaj olarak da hizmet veriyor, ziyaretçiler buraya gelerek denize girme ve güneşlenme imkanı buluyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391724"
 
 ## Coğrafya
 
-Şeyh Hasan ve Musa Türbesi, Akdeniz Bölgesi'nin Mersin ilinde yer alan bir coğrafi bölge. Bu bölge, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Şeyh Hasan ve Musa Türbesi, Akdeniz'in güzelliğini ve coğrafi zenginliğini bir araya getiren özel bir mekan. Bu bölge, denize sıfır bir konumda yer alıyor ve plaj olarak hizmet veriyor. Ziyaretçiler, buraya gelerek denize girme ve güneşlenme imkanı buluyor. Şeyh Hasan ve Musa Türbesi, aynı zamanda bir doğa harikası olarak da kabul ediliyor, ziyaretçiler buraya gelerek doğanın güzelliğini keşfediyor. Bu bölge, zengin flora ve faunaya sahip, ziyaretçiler buraya gelerek çeşitli bitki ve hayvan türlerini görebiliyor.
+Şeyh Hasan ve Musa Türbesi, Akdeniz Bölgesi'nin Mersin ilinde yer alan bir coğrafi bölge. Şeyh Hasan ve Musa Türbesi, Akdeniz'in güzelliğini ve coğrafi zenginliğini bir araya getiren özel bir mekan. Bu bölge, denize sıfır bir konumda yer alıyor ve plaj olarak hizmet veriyor. Ziyaretçiler, buraya gelerek denize girme ve güneşlenme imkanı buluyor. Şeyh Hasan ve Musa Türbesi, aynı zamanda bir doğa harikası olarak da kabul ediliyor, ziyaretçiler buraya gelerek doğanın güzelliğini keşfediyor. Bu bölge, zengin flora ve faunaya sahip, ziyaretçiler buraya gelerek çeşitli bitki ve hayvan türlerini görebiliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131391724"
 ## İlginç Bilgiler
 
 - Şeyh Hasan ve Musa Türbesi, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Şeyh Hasan ve Musa Türbesi, Akdeniz'in güzelliğini ve tarihinin zenginliğini bir araya getiren özel bir mekan.
 - Ziyaretçiler, buraya gelerek denize girme ve güneşlenme imkanı buluyor.
 - Şeyh Hasan ve Musa Türbesi, tarihinin her döneminde önemli bir merkez olarak kabul edilmiş ve ziyaret edilmiştir.

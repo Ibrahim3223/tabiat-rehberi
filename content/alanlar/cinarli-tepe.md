@@ -52,7 +52,7 @@ Mevsimsel değişimler açısından, Çinarlı Tepe'nin iklim karakteri Akdeniz 
 
 Bitki örtüsünün hakim türleri arasında kuraklığa dayanıklı türler yer alıyor. Dağ ekosisteminin yükseklik zonlarına bağlı olarak alpin flora da bu bölgede yer alıyor. Çam ve meşe ağaçları, bölgenin karakteristiktreesi arasında bulunuyor.
 
-Yaban hayatı da oldukça zengin. Memeliler arasında dağ keçileri ve yaban domuzları, dağların yüksek kesimlerinde yaşamlarını sürdürüyor. Kuşlar arasında ise kartallar ve doğanların yanında, göç mevsiminde birçok farklı tür bu bölgeden geçiş yapıyor. Sürüngenler de bu ekosistemin bir parçası olarak, kaya ve taşlık alanlarda yaşamlarını sürdürüyor. 
+Yaban hayatı da oldukça zengin. Memeliler arasında dağ keçileri ve yaban domuzları, dağların yüksek kesimlerinde yaşamlarını sürdürüyor. Kuşlar arasında ise kartallar ve doğanların yanında, göç mevsiminde birçok farklı tür bu bölgeden geçiş yapıyor. Sürüngenler de bu ekosistemin bir parçası olarak, kaya ve taşlık alanlarda yaşamlarını sürdürüyor.
 Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesinin devamı için büyük önem taşıyor.
 
 ## Ziyaret Bilgileri

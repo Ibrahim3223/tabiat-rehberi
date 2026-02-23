@@ -22,7 +22,7 @@ wikidata_id: "Q108228251"
 
 # Canakkale-Bayramic-Kazdagi-Karacam
 
-Çanakkale-Bayramic-Kazdagi-Karacam milli parkı, Marmara Bölgesi'nin en güzel köşelerinden biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu büyüleyici mekan, hem doğa severler hem de tarih meraklıları için gerçek bir hazine. Parkın zengin florası ve faunası, ziyaretçilere unutulmaz bir deneyim sunuyor. Çanakkale-Bayramic-Kazdagi-Karacam milli parkı, doğanın güzelliğini ve çeşitliliğini keşfetmek isteyen herkes için ideal bir destinasyon.
+Çanakkale-Bayramic-Kazdagi-Karacam milli parkı, Marmara Bölgesi'nin en güzel köşelerinden biri olarak dikkat çekiyor. Bu büyüleyici mekan, hem doğa severler hem de tarih meraklıları için gerçek bir hazine. Parkın zengin florası ve faunası, ziyaretçilere unutulmaz bir deneyim sunuyor. Çanakkale-Bayramic-Kazdagi-Karacam milli parkı, doğanın güzelliğini ve çeşitliliğini keşfetmek isteyen herkes için ideal bir destinasyon.
 
 ## Tarihçe
 

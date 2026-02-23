@@ -35,7 +35,7 @@ Mardin'in tarihi dokusu içinde yer alan Şahin Tepe, ziyaretçilerini büyüley
 
 Mardin bölgesinin tarihçesi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Şahin Tepe, bu bölgenin önemli bir parçasını oluşturan dağlık alanlardan biridir. Mardin, tarihin çeşitli dönemlerinde Sümerler, Asurlar, Persler ve Romalılar gibi uygarlıkların hakimiyetine girmiştir. Bu bölgede, farklı kültürlerin bir araya gelmesi, ticaret yollarının kesişmesi ve insan yerleşimlerinin oluşması, Şahin Tepe'nin de dahil olduğu doğal alanların önemini artırmıştır.
 
-Doğal güzellikleri ve stratejik konumlarıyla, bu alanlar históri boyunca yaylacılık, hayvancılık ve ticaret için önemli merkezler olarak kullanılmıştır. Türkiye'de, benzer doğal alanlar tarihsel olarak önemli yerleşim ve geçit noktaları olarak hizmet etmişlerdir. İnsanların bu alanlarla ilişkisi, yalnızca doğal kaynakların kullanımı ile sınırlı kalmamış, aynı zamanda kültürel ve ekonomik faaliyetlerin merkezi olarak da görev üstlenmiştir. Şahin Tepe, Mardin'in tarihî dokusuna dahil olarak, bölgenin doğal ve kültürel mirasının bir parçasını oluşturmaktadır.
+Doğal güzellikleri ve stratejik konumlarıyla, bu alanlar tarihi boyunca yaylacılık, hayvancılık ve ticaret için önemli merkezler olarak kullanılmıştır. Türkiye'de, benzer doğal alanlar tarihsel olarak önemli yerleşim ve geçit noktaları olarak hizmet etmişlerdir. İnsanların bu alanlarla ilişkisi, yalnızca doğal kaynakların kullanımı ile sınırlı kalmamış, aynı zamanda kültürel ve ekonomik faaliyetlerin merkezi olarak da görev üstlenmiştir. Şahin Tepe, Mardin'in tarihî dokusuna dahil olarak, bölgenin doğal ve kültürel mirasının bir parçasını oluşturmaktadır.
 
 ## Coğrafya
 

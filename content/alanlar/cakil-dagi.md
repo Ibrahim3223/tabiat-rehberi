@@ -65,6 +65,6 @@ Memeliler, ormanların derinliklerinde yaşarken, kuşlar ağaçların yüksek d
 - Çakıl Dağı, Giresun ilinin Dereli ilçesinde yer alan bir dağdır.
 - Dağın yüksekliği 2.919 metredir.
 - Çakıl Dağı, Karadeniz Bölgesi'nin en yüksek dağlarından biridir.
-- Dağın eteklerinde yer alan köyler, históriki ve kültürel zenginliklere sahiptir.
+- Dağın eteklerinde yer alan köyler, tarihi ve kültürel zenginliklere sahiptir.
 - Çakıl Dağı ve çevresinde çeşitli bitki türleri ve hayvanlar bulunur.
 - Giresun il merkezine yaklaşık 45 kilometre uzaklıktadır.

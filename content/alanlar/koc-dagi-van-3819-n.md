@@ -50,11 +50,11 @@ Jeolojik açıdan incelendiğinde, Koç Dağı'nın coğrafi yapısı tentang de
 
 ## Flora ve Fauna
 
-Koç Dağı, Van'ın yüksek dağ ekosistemine örnek olan bir bölgedir. 38.19 N enleminde yer alan bu dağ, alpin çayırlar ve endemik türlerle zengin bir flora sunar. 
+Koç Dağı, Van'ın yüksek dağ ekosistemine örnek olan bir bölgedir. 38.19 N enleminde yer alan bu dağ, alpin çayırlar ve endemik türlerle zengin bir flora sunar.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında renkli çiçekler açar. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünür. Bu mevsimsel değişim, dağın yükseklik zonlarına göre değişen bitki türlerini gözler önüne serer. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında renkli çiçekler açar. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünür. Bu mevsimsel değişim, dağın yükseklik zonlarına göre değişen bitki türlerini gözler önüne serer.
 
-Yaban Hayatı bölümünde, dağ keçileri, yaban keçileri ve ayılar gibi memelilerin yanı sıra, kartallar, şahinler ve diğer yırtıcı kuşlar da bu bölgede yaşar. Sürüngenler de dağın kayalık bölgelerinde bulunur. Bu canlılar, dağ ekosisteminin dengesini sağlar ve birbirleriyle etkileşim halindedir. 
+Yaban Hayatı bölümünde, dağ keçileri, yaban keçileri ve ayılar gibi memelilerin yanı sıra, kartallar, şahinler ve diğer yırtıcı kuşlar da bu bölgede yaşar. Sürüngenler de dağın kayalık bölgelerinde bulunur. Bu canlılar, dağ ekosisteminin dengesini sağlar ve birbirleriyle etkileşim halindedir.
 
 Ekolojik Değer bölümünde, Koç Dağı'nın neden önemli olduğu görülür. Bu bölge, yüksek dağ ekosisteminin korunmasına katkı sağlar ve endemik türlerin yaşamasına olanak tanır. Ancak, bu bölgenin korunması için daha fazla çaba göstermek gereklidir.
 

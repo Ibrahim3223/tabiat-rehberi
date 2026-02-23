@@ -29,7 +29,7 @@ wikidata_id: "Q31390050"
 
 # Saka Tepesi
 
-Saka Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepe, Ankara'nın merkezine yakın bir konumda yer alıyor ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Saka Tepesi, doğa severler ve yürüyüş tutkunları için harika bir destinasyon olarak öne çıkıyor.
+Saka Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, Ankara'nın merkezine yakın bir konumda yer alıyor ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Saka Tepesi, doğa severler ve yürüyüş tutkunları için harika bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386599"
 
 # Ortabağ Tepesi
 
-Ortabağ Tepesi, Şırnak ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ortabağ Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Tepenin etrafındaki manzara, bölgenin zengin florası ve faunası ile beraber, ziyaretçilere benzersiz bir deneyim sunmaktadır.
+Ortabağ Tepesi, Şırnak ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe olarak dikkat çekmektedir. Ortabağ Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Tepenin etrafındaki manzara, bölgenin zengin florası ve faunası ile beraber, ziyaretçilere benzersiz bir deneyim sunmaktadır.
 
 ## Tarihçe
 

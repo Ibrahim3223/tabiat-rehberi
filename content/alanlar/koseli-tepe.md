@@ -28,7 +28,7 @@ wikidata_id: "Q32210427"
 
 # Köşeli Tepe
 
-Köşeli Tepe, Rize ilinin Karadeniz Bölgesi'nde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. 140 hektarlık bir alanı kapsayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Köşeli Tepe, ziyaretçilerini etkileyici manzaralar ve zengin flora ile karşılıyor. Bu tepe, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası.
+Köşeli Tepe, Rize ilinin Karadeniz Bölgesi'nde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. Köşeli Tepe, ziyaretçilerini etkileyici manzaralar ve zengin flora ile karşılıyor. Bu tepe, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Köşeli Tepe'nin tarihi geçmişi, bölgenin kültürel ve doğal zenginlikleri
 
 ## Coğrafya
 
-Köşeli Tepe, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Köşeli Tepe'nin coğrafi yapısı, ziyaretçilerine etkileyici manzaralar sunuyor. Bu tepe, Karadeniz Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası. Köşeli Tepe, çevresi ile birlikte yaklaşık 400 futbol sahası büyüklüğünde bir alanı kapsıyor ve bu nedenle ziyaretçilerine geniş bir alan sunuyor.
+Köşeli Tepe, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Köşeli Tepe'nin coğrafi yapısı, ziyaretçilerine etkileyici manzaralar sunuyor. Bu tepe, Karadeniz Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir gezi noktası.
 
 ## Flora ve Fauna
 

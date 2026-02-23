@@ -28,7 +28,7 @@ wikidata_id: "Q31391127"
 
 # Yeldeğirmeni Tepesi
 
-Yeldeğirmeni Tepesi, Sivas ilinin coğrafi yapısının önemli bir parçasını oluşturan ve İç Anadolu Bölgesi'nin doğal güzelliklerini sunan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Yeldeğirmeni Tepesi, ziyaretçilerini doğal güzellikleriyle büyülemektedir. Sivas'ın tarihi ve coğrafi açıdan önemli bir noktası olan bu tepe, aynı zamanda bölgenin ekolojik dengesine katkıda bulunur.
+Yeldeğirmeni Tepesi, Sivas ilinin coğrafi yapısının önemli bir parçasını oluşturan ve İç Anadolu Bölgesi'nin doğal güzelliklerini sunan bir tepe. Yeldeğirmeni Tepesi, ziyaretçilerini doğal güzellikleriyle büyülemektedir. Sivas'ın tarihi ve coğrafi açıdan önemli bir noktası olan bu tepe, aynı zamanda bölgenin ekolojik dengesine katkıda bulunur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yeldeğirmeni Tepesi'nin tarihi geçmişi, Sivas ilinin tarihi ile iç içe geç
 
 ## Coğrafya
 
-Yeldeğirmeni Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve step bölgeleri ile çevrilidir. Tepenin kendisi, 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir coğrafi oluşumdur. Bu tepe, Sivas ilinin coğrafi açıdan önemli bir noktası olarak, bölgenin iklimine ve ekolojisine katkıda bulunur. Yeldeğirmeni Tepesi, çevresinde bulunan diğer doğal güzelliklerle birlikte, Sivas ilinin önemli bir turizm merkezini oluşturmaktadır. Tepenin coğrafi yapısı, ziyaretçilere geniş ve açık bir görünüm sunar.
+Yeldeğirmeni Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve step bölgeleri ile çevrilidir. Bu tepe, Sivas ilinin coğrafi açıdan önemli bir noktası olarak, bölgenin iklimine ve ekolojisine katkıda bulunur. Yeldeğirmeni Tepesi, çevresinde bulunan diğer doğal güzelliklerle birlikte, Sivas ilinin önemli bir turizm merkezini oluşturmaktadır. Tepenin coğrafi yapısı, ziyaretçilere geniş ve açık bir görünüm sunar.
 
 ## Flora ve Fauna
 

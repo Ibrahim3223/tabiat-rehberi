@@ -28,15 +28,15 @@ wikidata_id: "Q31388561"
 
 # Divane Tepesi
 
-Divane Tepesi, Erzurum'un doğusunda yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık geniş bir alanı kaplar. Bu tepe, şehrin merkezine yakın bir konumda bulunmakta ve ziyaretçilerine şehrin panoramik manzarasını sunmaktadır. Divane Tepesi, aynı zamanda şehrin tarihi ve kültürel açıdan önemli bir bölgesidir. Tepenin eteklerinde yer alan tarihi eserler ve kalıntılar, bölgenin zengin tarihini gözler önüne sermektedir. Ayrıca, tepe etrafındaki doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
+ Bu tepe, şehrin merkezine yakın bir konumda bulunmakta ve ziyaretçilerine şehrin panoramik manzarasını sunmaktadır. Divane Tepesi, aynı zamanda şehrin tarihi ve kültürel açıdan önemli bir bölgesidir. Tepenin eteklerinde yer alan tarihi eserler ve kalıntılar, bölgenin zengin tarihini gözler önüne sermektedir. Ayrıca, tepe etrafındaki doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
 
 ## Tarihçe
 
-Divane Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarihin çeşitli dönemlerinde farklı medeniyetlerin hüküm sürdüğü bir alan olmuştur. Tarihi kaynaklara göre, bu bölgeye ilk yerleşen topluluklar, bölgenin verimli toprakları ve stratejik konumu nedeniyle buraya yerleşmişlerdir. Zaman içinde, bu bölgeye různé topluluklar gelip gitmiştir ve her biri bu bölgenin tarihine katkıda bulunmuştur. Divane Tepesi, bugün bir turizm merkezi olarak ziyaret edilmektedir ve tarihi eserleri, doğal güzellikleri ve kültürel zenginliğiyle ziyaretçilerini çekmektedir. Tepenin tarihi geçmişi, ziyaretçilere bölgenin zengin tarihini ve kültürel mirasını keşfetme fırsatı sunmaktadır.
+Divane Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarihin çeşitli dönemlerinde farklı medeniyetlerin hüküm sürdüğü bir alan olmuştur. Tarihi kaynaklara göre, bu bölgeye ilk yerleşen topluluklar, bölgenin verimli toprakları ve stratejik konumu nedeniyle buraya yerleşmişlerdir. Zaman içinde, bu bölgeye různé topluluklar gelip gitmiştir ve her biri bu bölgenin tarihine katkıda bulunmuştur. Divane Tepesi, bugün bir turizm merkezi olarak ziyaret edilmektedir ve tarihi eserleri, doğal güzellikleri ve kültürel zenginliğiyle ziyaretçilerini çekmektedir.
 
 ## Coğrafya
 
-Divane Tepesi, Erzurum'un doğusunda yer alan bir tepe olup, 140 hektarlık geniş bir alanı kaplar. Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir ve şehrin merkezine yakın bir konumda bulunmaktadır. Tepenin eteklerinde yer alan vadiler ve ovalar, bölgenin coğrafi yapısını şekillendirmektedir. Ayrıca, tepe etrafındaki dağlar ve tepeler, bölgenin coğrafi çeşitliliğini artırmaktadır. Divane Tepesi, aynı zamanda bölgenin iklimini de etkileyen bir faktördür. Tepenin yüksekliği, bölgenin sıcaklık ve nem oranlarını etkilemektedir. Ayrıca, tepe etrafındaki bitki örtüsü, bölgenin ekolojisini desteklemektedir. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir fauna ve floraya sahiptir.
+Divane Tepesi, Erzurum'un doğusunda yer alan bir tepe olup, 140 hektarlık geniş bir alanı kaplar. Tepenin eteklerinde yer alan vadiler ve ovalar, bölgenin coğrafi yapısını şekillendirmektedir. Ayrıca, tepe etrafındaki dağlar ve tepeler, bölgenin coğrafi çeşitliliğini artırmaktadır. Divane Tepesi, aynı zamanda bölgenin iklimini de etkileyen bir faktördür. Tepenin yüksekliği, bölgenin sıcaklık ve nem oranlarını etkilemektedir. Ayrıca, tepe etrafındaki bitki örtüsü, bölgenin ekolojisini desteklemektedir. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir fauna ve floraya sahiptir.
 
 ## Flora ve Fauna
 

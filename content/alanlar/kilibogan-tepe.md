@@ -28,7 +28,7 @@ wikidata_id: "Q31387389"
 
 # Kılıboğan Tepe
 
-Kılıboğan Tepe, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve ziyaretçilerini doğanın güzelliği ile büyüleyen bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve çevresi çeşitli bitki türleriyle dolu. Kılıboğan Tepe'nin yüksekliği ve genişliği, burayı bir doğa severin ziyaret etmesi gereken bir yer haline getiriyor. Ayrıca, bu tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın bir parçası olmak için benzersiz bir fırsat sunuyor.
+Kılıboğan Tepe, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve ziyaretçilerini doğanın güzelliği ile büyüleyen bir tepe. Kılıboğan Tepe'nin yüksekliği ve genişliği, burayı bir doğa severin ziyaret etmesi gereken bir yer haline getiriyor. Ayrıca, bu tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın bir parçası olmak için benzersiz bir fırsat sunuyor.
 
 ## Tarihçe
 

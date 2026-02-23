@@ -1,7 +1,7 @@
 ---
 title: "Fatma Şerife Hanım Türbesi"
 date: "2026-01-10T05:01:25.183Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391517"
 
 # Fatma Şerife Hanım Türbesi
 
-Fatma Şerife Hanım Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan bir tarihi türbe ve plajdır. Bu alan, Marmara Bölgesi'nin güzelliklerini sunan bir destinasyondur. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Tarihi ve doğal güzellikleri bir araya getiren bu yer, ziyaretçilerine unutulmaz bir deneyim sunar. Fatma Şerife Hanım Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Fatma Şerife Hanım Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan bir tarihi türbe ve plajdır. Bu alan, Marmara Bölgesi'nin güzelliklerini sunan bir destinasyondur. Fatma Şerife Hanım Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Fatma Şerife Hanım Türbesi, tarihi geçmişine ışık tutan önemli bir yap�
 
 ## Coğrafya
 
-Fatma Şerife Hanım Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerine sahiptir. Bu bölge, yeşil alanların ve su kaynaklarının bol olduğu bir yerdir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. İstanbul'un merkezinde bulunan bu türbe, ziyaretçilerine şehrin gürültüsünden uzaklaşarak doğayla iç içe olmayı sağlar. Türbenin etrafındaki coğrafi yapı, ziyaretçilere geniş ve yeşil bir alan sunar. Bu bölge, Marmara Bölgesi'nin iklimini yansıtan bir coğrafi yapıya sahiptir. Fatma Şerife Hanım Türbesi, coğrafi güzellikleri ve tarihi yapılarıyla birlikte, ziyaretçilerine unutulmaz bir deneyim sunar.
+Fatma Şerife Hanım Türbesi, Marmara Bölgesi'nin coğrafi güzelliklerine sahiptir. Bu bölge, yeşil alanların ve su kaynaklarının bol olduğu bir yerdir. İstanbul'un merkezinde bulunan bu türbe, ziyaretçilerine şehrin gürültüsünden uzaklaşarak doğayla iç içe olmayı sağlar. Türbenin etrafındaki coğrafi yapı, ziyaretçilere geniş ve yeşil bir alan sunar. Bu bölge, Marmara Bölgesi'nin iklimini yansıtan bir coğrafi yapıya sahiptir.
 
 ## Flora ve Fauna
 

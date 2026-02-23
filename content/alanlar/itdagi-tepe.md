@@ -28,7 +28,7 @@ wikidata_id: "Q31386150"
 
 # İtdağı Tepe
 
-İtdağı Tepe, Gaziantep'in tarihi ve doğal güzelliklerinin birleştiği noktada yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. İtdağı Tepe, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılayarak, Gaziantep'in en önemli noktalarından biri haline geliyor. Tepe, şehrin merkezine yakın bir konumda bulunmasıyla da kolay ulaşılabilirlik sağlıyor.
+İtdağı Tepe, Gaziantep'in tarihi ve doğal güzelliklerinin birleştiği noktada yer alıyor. İtdağı Tepe, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılayarak, Gaziantep'in en önemli noktalarından biri haline geliyor. Tepe, şehrin merkezine yakın bir konumda bulunmasıyla da kolay ulaşılabilirlik sağlıyor.
 
 ## Tarihçe
 
@@ -52,4 +52,4 @@ wikidata_id: "Q31386150"
 - Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - İtdağı Tepe, çeşitli bitki türlerine ev sahipliği yapıyor.
 - Tepe, yaban hayatının korunması için önemli bir merkez.
-- İtdağı Tepe, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+

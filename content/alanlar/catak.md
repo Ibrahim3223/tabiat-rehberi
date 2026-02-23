@@ -23,7 +23,7 @@ wikidata_id: "Q108227052"
 
 # Çatak
 
-İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kaplayan Çatak Milli Parkı, ziyaretçilerini büyüleyici güzelliği ile karşılar. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Parkın sunduğu çeşitli yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır. Çatak, hem doğa severler hem de tarih meraklıları için bir hazine.
+İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kaplayan Çatak Milli Parkı, ziyaretçilerini büyüleyici güzelliği ile karşılar. Parkın sunduğu çeşitli yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanır. Çatak, hem doğa severler hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 

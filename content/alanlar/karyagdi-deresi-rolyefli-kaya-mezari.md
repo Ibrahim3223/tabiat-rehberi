@@ -29,7 +29,7 @@ wikidata_id: "Q134728183"
 
 # Karyağdı Deresi Rölyefli Kaya Mezarı
 
-Karyağdı Deresi Rölyefli Kaya Mezarı, Mersin'in Silifke ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir bölge. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Kaya mezarının rölyefli yapısı, ziyaretçilerin ilgisini çekiyor. Doğal güzellikleri ve tarihi önemi ile bu bölge, ziyaretçilere benzersiz bir deneyim sunuyor.
+Karyağdı Deresi Rölyefli Kaya Mezarı, Mersin'in Silifke ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir bölge. Kaya mezarının rölyefli yapısı, ziyaretçilerin ilgisini çekiyor. Doğal güzellikleri ve tarihi önemi ile bu bölge, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

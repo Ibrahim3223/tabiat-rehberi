@@ -28,7 +28,7 @@ wikidata_id: "Q32139250"
 
 # Gümüşlü Tepe
 
-Gümüşlü Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan 140 hektarlık bir yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğa severler için bir cennet olarak kabul ediliyor. Gümüşlü Tepe, ziyaretçilerini güneşin batışını izleyerek günün sonuna ulaştırmak için tasarlanmış bir rotaya sahip. Burada, yaklaşık 200 futbol sahası büyüklüğündeki yeşil alanın keyfini çıkarabilirsiniz. Gümüşlü Tepe, Çanakkale'nin merkezine yakınlığıyla da dikkat çekiyor ve ulaşımı oldukça kolay.
+ Bu bölge, doğa severler için bir cennet olarak kabul ediliyor. Gümüşlü Tepe, ziyaretçilerini güneşin batışını izleyerek günün sonuna ulaştırmak için tasarlanmış bir rotaya sahip. Gümüşlü Tepe, Çanakkale'nin merkezine yakınlığıyla da dikkat çekiyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gümüşlü Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Gümüşlü Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alıyor. Bu bölge, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Gümüşlü Tepe, Çanakkale'nin merkezine yakınlığıyla da dikkat çekiyor ve ulaşımı oldukça kolay. Bu bölge, güneşin batışını izleyerek günün sonuna ulaştırmak için tasarlanmış bir rotaya sahip. Gümüşlü Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, mevsimsel değişimler ve canlılar hakkında bilgi edinebilirsiniz. Gümüşlü Tepe, Çanakkale'nin coğrafyasını keşfetmek isteyenler için ideal bir destinasyon.
+Gümüşlü Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alıyor. Gümüşlü Tepe, Çanakkale'nin merkezine yakınlığıyla da dikkat çekiyor ve ulaşımı oldukça kolay. Bu bölge, güneşin batışını izleyerek günün sonuna ulaştırmak için tasarlanmış bir rotaya sahip. Gümüşlü Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, mevsimsel değişimler ve canlılar hakkında bilgi edinebilirsiniz. Gümüşlü Tepe, Çanakkale'nin coğrafyasını keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Gümüşlü Tepe, Çanakkale'nin merkezine yakınlığıyla da dikkat çekiyor v
 
 ## İlginç Bilgiler
 
-- Gümüşlü Tepe, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu bölge, Çanakkale'nin merkezine yakınlığıyla da dikkat çekiyor ve ulaşımı oldukça kolay.
 - Gümüşlü Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu bölge, mevsimsel değişimlere göre farklı canlılara ev sahipliği yapıyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q31388416"
 
 # Boztaşı Tepesi
 
-Boztaşı Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir yer. 140 hektarlık bir alanı kapsayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Burada doğa yürüyüşleri yapabilir, çevreyi keşfedebilirsiniz. Boztaşı Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası.
+Boztaşı Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir yer. Burada doğa yürüyüşleri yapabilir, çevreyi keşfedebilirsiniz. Boztaşı Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Boztaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca oluşmuş. Bu bölge,
 
 ## Coğrafya
 
-Boztaşı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir yer. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre. Bu yükseklik, bölgenin iklimini etkiliyor. Boztaşı Tepesi, karasal iklimin hüküm sürdüğü bir bölge. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak. Bu iklim, bölgenin flora ve faunasını şekillendirmiş. Tepenin etrafı, çeşitli bitki türleri ile çevrili. Bu bitkiler, bölgenin ekolojisini destekleyen önemli unsurlar.
+Boztaşı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir yer. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2000 metre. Bu yükseklik, bölgenin iklimini etkiliyor. Boztaşı Tepesi, karasal iklimin hüküm sürdüğü bir bölge. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurak. Bu iklim, bölgenin flora ve faunasını şekillendirmiş. Tepenin etrafı, çeşitli bitki türleri ile çevrili. Bu bitkiler, bölgenin ekolojisini destekleyen önemli unsurlar.
 
 ## Flora ve Fauna
 

@@ -32,7 +32,7 @@ Türkiye'nin farklı coğrafi bölgelerinde yer alan pek çok dağdan biri olan 
 
 ## Tarihçe
 
-Serinavi Dağı, tarihin sâu sayfalarında gizli kalan bir doğal hazine olarak karşımıza çıkıyor. Bu bölgenin tarihsel bağlamı, Türkiye'nin zengin kültürel mirasıyla iç içe geçmiş durumda. Doğu Anadolu Bölgesi, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış; Hitit, Urartu, Pers ve Roma İmparatorluğu gibi büyük medeniyetler burada iz bırakmış.
+Serinavi Dağı, tarihin derin sayfalarında gizli kalan bir doğal hazine olarak karşımıza çıkıyor. Bu bölgenin tarihsel bağlamı, Türkiye'nin zengin kültürel mirasıyla iç içe geçmiş durumda. Doğu Anadolu Bölgesi, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış; Hitit, Urartu, Pers ve Roma İmparatorluğu gibi büyük medeniyetler burada iz bırakmış.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasını oluşturuyor. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu doğal güzelliklerle olan ilişkilerini şekillendirmiş. Doğal kaynakların kullanımı ve korunması, toplumların sürdürülebilirliğiçin kritik bir rol oynamış.
 
@@ -50,9 +50,9 @@ Doğrudan fiziksel verileri olmasa da, Serinavi Dağı'nın coğrafi yapısı, b
 
 ## Flora ve Fauna
 
-Serinavi Dağı, yükseklik zonları ile çeşitlenen bir dağ ekosisteminin ev sahipliğini yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler ön plana çıkıyor. 
+Serinavi Dağı, yükseklik zonları ile çeşitlenen bir dağ ekosisteminin ev sahipliğini yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler ön plana çıkıyor.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri ve yaban kedileri, bu dağların yüksekliklerinde yaşamlarını sürdürüyorlar. Kuşlar ise göç ettikleri mevsimlerde, bu dağları önemli bir uğrak noktası olarak kullanıyorlar. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturuyor. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri ve yaban kedileri, bu dağların yüksekliklerinde yaşamlarını sürdürüyorlar. Kuşlar ise göç ettikleri mevsimlerde, bu dağları önemli bir uğrak noktası olarak kullanıyorlar. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturuyor.
 
 Serinavi Dağı, bu zengin flora ve faunanın korunması açısından büyük önem taşıyor. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin ekolojik dengesi için de kritik bir rol oynuyor.
 

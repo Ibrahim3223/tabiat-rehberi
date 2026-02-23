@@ -1,7 +1,7 @@
 ---
 title: "Türbe 1"
 date: "2026-01-10T05:09:15.872Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391590"
 
 # Türbe 1
 
-Türbe 1, Aydın'ın Germencik ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir mekan. 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde olan bu plaj, ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Türbe 1'in güzelliği, sadece geniş ve temiz plajı ile değil, aynı zamanda çevresi ile de dikkat çekiyor. Plajın etrafında yer alan ağaçlar ve doğal güzellikler, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak sağlıyor.
+Türbe 1, Aydın'ın Germencik ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir mekan. Türbe 1'in güzelliği, sadece geniş ve temiz plajı ile değil, aynı zamanda çevresi ile de dikkat çekiyor. Plajın etrafında yer alan ağaçlar ve doğal güzellikler, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak sağlıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Türbe 1'in tarihi geçmişi, Germencik ilçesinin tarihi ile iç içe geçmiş.
 
 ## Coğrafya
 
-Türbe 1, Ege Bölgesi'nin en güzel coğrafyasına sahip olan Germencik ilçesinde yer alıyor. Bu plaj, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Plajın etrafında yer alan ağaçlar ve doğal güzellikler, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak sağlıyor. Türbe 1'in coğrafyası, sadece plajı ile değil, aynı zamanda çevresindeki dağlar, ormanlar ve nehirler ile de dikkat çekiyor. Bu coğrafya, ziyaretçilerin çeşitli aktivitelere katılmasına ve doğanın güzelliğini keşfetmesine olanak sağlıyor. Türbe 1'in iklimi, Ege Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Bu bölgede, yaz ayları sıcak ve kuru, kış ayları ise ılık ve yağışlı geçiyor. Bu iklim, ziyaretçilerin yılın her döneminde Türbe 1'i ziyaret etmelerine olanak sağlıyor.
+Türbe 1, Ege Bölgesi'nin en güzel coğrafyasına sahip olan Germencik ilçesinde yer alıyor. Plajın etrafında yer alan ağaçlar ve doğal güzellikler, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak sağlıyor. Türbe 1'in coğrafyası, sadece plajı ile değil, aynı zamanda çevresindeki dağlar, ormanlar ve nehirler ile de dikkat çekiyor. Bu coğrafya, ziyaretçilerin çeşitli aktivitelere katılmasına ve doğanın güzelliğini keşfetmesine olanak sağlıyor. Türbe 1'in iklimi, Ege Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Bu bölgede, yaz ayları sıcak ve kuru, kış ayları ise ılık ve yağışlı geçiyor. Bu iklim, ziyaretçilerin yılın her döneminde Türbe 1'i ziyaret etmelerine olanak sağlıyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34827793"
 
 # Çakalbayır Tepesi
 
-Çakalbayır Tepesi, Tekirdağ'ın Marmara Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Çakalbayır Tepesi, doğa severlerin ve trekking yapanların favori yerlerinden biridir. Tepenin zirvesinden bakıldığında, Marmara Denizi'nin ve çevresindeki dağların muhteşem manzaraları izlenebilir. Çakalbayır Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir.
+Çakalbayır Tepesi, Tekirdağ'ın Marmara Bölgesi'nde yer alan bir doğa harikasıdır. Çakalbayır Tepesi, doğa severlerin ve trekking yapanların favori yerlerinden biridir. Tepenin zirvesinden bakıldığında, Marmara Denizi'nin ve çevresindeki dağların muhteşem manzaraları izlenebilir. Çakalbayır Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34827793"
 
 ## Coğrafya
 
-Çakalbayır Tepesi, Marmara Bölgesi'nde yer alan bir coğrafi oluşumdur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tepenin yüksekliği, deniz seviyesinden yaklaşık 300 metre yukarıdadır. Çakalbayır Tepesi, çevresindeki dağlarla birlikte, bir doğa koridoru oluşturur. Bu koridor, çeşitli bitki ve hayvan türleri için yaşam alanı sağlar. Çakalbayır Tepesi, Marmara Denizi'ne yakın bir konumda yer alır ve bu nedenle, bölgenin iklimi ılımandır. Tepenin eteklerinde, çeşitli akarsular ve dereler bulunur.
+Çakalbayır Tepesi, Marmara Bölgesi'nde yer alan bir coğrafi oluşumdur. Tepenin yüksekliği, deniz seviyesinden yaklaşık 300 metre yukarıdadır. Çakalbayır Tepesi, çevresindeki dağlarla birlikte, bir doğa koridoru oluşturur. Bu koridor, çeşitli bitki ve hayvan türleri için yaşam alanı sağlar. Çakalbayır Tepesi, Marmara Denizi'ne yakın bir konumda yer alır ve bu nedenle, bölgenin iklimi ılımandır. Tepenin eteklerinde, çeşitli akarsular ve dereler bulunur.
 
 ## Flora ve Fauna
 

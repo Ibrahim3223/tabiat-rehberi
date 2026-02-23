@@ -1,7 +1,7 @@
 ---
 title: "Andon’un Hamamı"
 date: "2026-01-09T23:37:16.880Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739193"
 
 # Andon’un Hamamı
 
-Andon’un Hamamı, Muğla'nın Menteşe ilçesinde yer alan, Ege Bölgesi'nin en güzel ve sakin plajlarından biri olarak biliniyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve misafirlerine geniş bir alan sunuyor. Bu plajda, masmavi deniz ve altın rengi kumsalın birleştiği noktada, güneşin ve denizin keyfini çıkarma mümkün. Andon’un Hamamı, doğa severlerin ve deniz aşığıların buluşma noktası olarak dikkat çekiyor. Burada, doğanın güzelliği ve denizin serinliği bir araya geliyor ve ziyaretçilere unutulmaz anlar yaşatıyor.
+Andon’un Hamamı, Muğla'nın Menteşe ilçesinde yer alan, Ege Bölgesi'nin en güzel ve sakin plajlarından biri olarak biliniyor. Bu plajda, masmavi deniz ve altın rengi kumsalın birleştiği noktada, güneşin ve denizin keyfini çıkarma mümkün. Andon’un Hamamı, doğa severlerin ve deniz aşığıların buluşma noktası olarak dikkat çekiyor. Burada, doğanın güzelliği ve denizin serinliği bir araya geliyor ve ziyaretçilere unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 

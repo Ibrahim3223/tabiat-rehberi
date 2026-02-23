@@ -1,7 +1,7 @@
 ---
 title: "İsimsiz Türbe"
 date: "2026-01-10T06:06:33.619Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390574"
 
 # İsimsiz Türbe
 
-Ayvalık'ın gizli kumsallarından biri olan İsimsiz Türbe, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Bu doğal alan, Marmara Bölgesi'nin en güzel noktalarından biri olarak biliniyor. İsimsiz Türbe'nin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklüğü ile dikkat çekiyor. İsimsiz Türbe, Ayvalık'ın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay.
+ Bu doğal alan, Marmara Bölgesi'nin en güzel noktalarından biri olarak biliniyor. İsimsiz Türbe'nin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. İsimsiz Türbe, Ayvalık'ın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ayvalık'ın gizli kumsallarından biri olan İsimsiz Türbe, yaklaşık 200 fut
 
 ## Coğrafya
 
-İsimsiz Türbe, Marmara Bölgesi'nin en güzel noktalarından biri olan Ayvalık'ta yer alıyor. Bu doğal alan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklüğü ile dikkat çekiyor. İsimsiz Türbe'nin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. İsimsiz Türbe, Ayvalık'ın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Bu doğal alan, Marmara Bölgesi'nin iklim koşullarına uygun olarak şekillenmiş ve bugün bir doğa harikası olarak karşımıza çıkıyor. İsimsiz Türbe'nin coğrafi konumu, ziyaretçilerin dàng ulaşabilmesi için ideal bir konumda yer alıyor.
+İsimsiz Türbe, Marmara Bölgesi'nin en güzel noktalarından biri olan Ayvalık'ta yer alıyor. İsimsiz Türbe'nin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. İsimsiz Türbe, Ayvalık'ın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Bu doğal alan, Marmara Bölgesi'nin iklim koşullarına uygun olarak şekillenmiş ve bugün bir doğa harikası olarak karşımıza çıkıyor. İsimsiz Türbe'nin coğrafi konumu, ziyaretçilerin dàng ulaşabilmesi için ideal bir konumda yer alıyor.
 
 ## Flora ve Fauna
 

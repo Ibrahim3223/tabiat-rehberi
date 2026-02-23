@@ -32,9 +32,9 @@ Hatay'ın zengin doğası, tarihi ve kültürel mirasıyla ziyaretçilerini büy
 
 ## Tarihçe
 
-Hatay bölgesinin zengin tarihi, Çehrelisuru Dağı'nın eteklerinde de hissedilir. Bu bölge, tarihin en eski uygarlıklarının izlerini taşır. Hitit, Roma ve Bizans gibi medeniyetler, bölgenin stratejik konumunu değerlendirmiş ve burada yerleşim yerleri kurmuşlardır. 
+Hatay bölgesinin zengin tarihi, Çehrelisuru Dağı'nın eteklerinde de hissedilir. Bu bölge, tarihin en eski uygarlıklarının izlerini taşır. Hitit, Roma ve Bizans gibi medeniyetler, bölgenin stratejik konumunu değerlendirmiş ve burada yerleşim yerleri kurmuşlardır.
 
-Doğal güzellikleri ve coğrafi konumuyla dikkat çeken bu bölge, Türkiye'nin önemli doğal alanlarından biridir. Türkiye'de, özellikle dağlık bölgelerde, yaylacılık ve hayvancılık gibi geleneksel faaliyetler, yüzyıllardır insanların yaşamının bir parçası olmuştur. Çehrelisuru Dağı ve çevresi de, bu geleneksel faaliyetlerin yürütüldüğü önemli bir bölgedir. 
+Doğal güzellikleri ve coğrafi konumuyla dikkat çeken bu bölge, Türkiye'nin önemli doğal alanlarından biridir. Türkiye'de, özellikle dağlık bölgelerde, yaylacılık ve hayvancılık gibi geleneksel faaliyetler, yüzyıllardır insanların yaşamının bir parçası olmuştur. Çehrelisuru Dağı ve çevresi de, bu geleneksel faaliyetlerin yürütüldüğü önemli bir bölgedir.
 
 Bölgenin tarihsel önemi, sadece uygarlıkların varlığıyla sınırlı değildir. Ticaret yollarının kesişme noktasında bulunan Hatay, tarih boyunca önemli bir geçiş noktası olarak hizmet vermiştir. Bu durum, bölgenin kültürel ve ekonomik zenginliğinin oluşmasına katkıda bulunmuştur. Çehrelisuru Dağı, bu zenginliğin bir parçası olarak, hem doğal güzelliği hem de tarihsel bağlamıyla dikkat çekmektedir.
 
@@ -50,7 +50,7 @@ Doğal güzelliği ile dikkat çeken Çehrelisuru Dağı, yaklaşık 1200 hektar
 
 ## Flora ve Fauna
 
-Çehrelisuru dağının flora ve fauna zenginliği, ziyaretçilere benzersiz bir deneyim sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, maki bitki örtüsü çiçeklerle donanır ve dağ eteklerinde kuraklığa dayanıklı türlerin renkli bir görseli ortaya çıkar. 
+Çehrelisuru dağının flora ve fauna zenginliği, ziyaretçilere benzersiz bir deneyim sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, maki bitki örtüsü çiçeklerle donanır ve dağ eteklerinde kuraklığa dayanıklı türlerin renkli bir görseli ortaya çıkar.
 
 Bitki örtüsünün hakimiyeti, kuraklığa dayanıklı türlerin baskınlığıyla dikkat çeker. Dağ yükseklik zonlarında, alpin flora çeşitliliği görülür. Yaban hayatı da zenginlik gösterir; memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin birer parçasıdır. Kış aylarında, göçmen kuşlar dağları bir konaklama alanı olarak kullanır. Ekolojik değerini koruma altına almak, bu doğal dengenin sürekliliğiçin önemlidir.
 

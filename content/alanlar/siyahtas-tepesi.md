@@ -28,7 +28,7 @@ wikidata_id: "Q31386566"
 
 # Siyahtaş Tepesi
 
-Siyahtaş Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepenin etrafı, çeşitli bitki türleriyle dolu. Siyahtaş Tepesi, ziyaretçilerine geniş bir manzara sunuyor. Tepenin etrafındaki köyler ve şehirler, tarihi ve coğrafi açıdan önemli.
+Siyahtaş Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu tepenin etrafı, çeşitli bitki türleriyle dolu. Siyahtaş Tepesi, ziyaretçilerine geniş bir manzara sunuyor. Tepenin etrafındaki köyler ve şehirler, tarihi ve coğrafi açıdan önemli.
 
 ## Tarihçe
 

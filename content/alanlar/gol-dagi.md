@@ -51,11 +51,11 @@ Göl Dağı, çevresindeki diğer doğal alanlarla bağlantılı bir şekilde, b
 
 ## Flora ve Fauna
 
-Göl Dağı, Bolu'nun nemli ikliminin hakim olduğu bir bölge, gür ormanlarla kaplı ve yüksek biyoçeşitlilik içeren bir dağ ekosistemi sunar. 
+Göl Dağı, Bolu'nun nemli ikliminin hakim olduğu bir bölge, gür ormanlarla kaplı ve yüksek biyoçeşitlilik içeren bir dağ ekosistemi sunar.
 
-Bitki örtüsünde, ilkbaharın gelmesiyle birlikte renkli çiçekler açar ve dağ eteklerinde yeşillenmeye başlar. Sonbaharda, yaprak döken ağaçlar sarı, kırmızıya dönüşür ve dağ manzarasını renklendirir. Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. 
+Bitki örtüsünde, ilkbaharın gelmesiyle birlikte renkli çiçekler açar ve dağ eteklerinde yeşillenmeye başlar. Sonbaharda, yaprak döken ağaçlar sarı, kırmızıya dönüşür ve dağ manzarasını renklendirir. Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağın ormanlarında, memeliler ve kuşlar yaşam alanlarını bulurken, sürüngenler kaya ve taşlık alanlarda yaşamlarını sürdürürler. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağın ormanlarında, memeliler ve kuşlar yaşam alanlarını bulurken, sürüngenler kaya ve taşlık alanlarda yaşamlarını sürdürürler.
 
 Göl Dağı'nın ekolojik değeri, yüksek biyoçeşitlili ve nemli iklimin bir arada olmasıyla ortaya çıkar. Bu dağ ekosisteminin korunması, bölgenin doğal dengesini korumak için önemlidir.
 

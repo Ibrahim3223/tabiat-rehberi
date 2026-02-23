@@ -28,7 +28,7 @@ wikidata_id: "Q21199611"
 
 # Büyükalamet Tepesi
 
-Büyükalamet Tepesi, Kars ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe olarak dikkat çekmektedir. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Tepenini, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Büyükalamet Tepesi, hem coğrafi konumu hem de doğal güzellikleri ile ziyaretçilerini çekmektedir. Tepenin eteklerinde ve çevresinde, tarihi ve kültürel açıdan önemli birçok nokta bulunmaktadır. Bu alan, hem doğa severler hem de tarih meraklıları için bir çekim merkezi oluşturmaktadır.
+Büyükalamet Tepesi, Kars ilinin sınırları içerisinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe olarak dikkat çekmektedir. Tepenini, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Büyükalamet Tepesi, hem coğrafi konumu hem de doğal güzellikleri ile ziyaretçilerini çekmektedir. Tepenin eteklerinde ve çevresinde, tarihi ve kültürel açıdan önemli birçok nokta bulunmaktadır. Bu alan, hem doğa severler hem de tarih meraklıları için bir çekim merkezi oluşturmaktadır.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Büyükalamet Tepesi, Kars ilinin coğrafi yapısı içerisinde önemli bir yer 
 
 ## Flora ve Fauna
 
-Büyükalamet Tepesi, flora ve fauna açısından oldukça zengindir. Tepenin ve çevresinin bitki örtüsü, çeşitli çayırlar ve ormanlık alanlardan oluşmaktadır. Mevsimsel değişimlere bağlı olarak, bu bölgede farklı bitki türleri yetişmektedir. Tepenin faunaında, çeşitli hayvan türleri bulunmaktadır. Bu bölgede, yaban hayatı oldukça zengin ve çeşitlidir. Büyükalamet Tepesi, ekolojik dengesi ve doğal güzellikleri ile birlikte, bir doğa koruma alanı olarak da önemli bir role sahiptir. Tepenin flora ve faunası, mevsimsel değişimlere bağlı olarak farklılık göstermektedir. İlkbahar ve yaz aylarında, bitki örtüsü en yoğun haliyle görülmektedir. Sonbahar ve kış aylarında ise, bazı bitki türleri ve hayvanlar, daha soğuk ve karlı bölgelere göç etmektedirler.
+ Tepenin ve çevresinin bitki örtüsü, çeşitli çayırlar ve ormanlık alanlardan oluşmaktadır. Mevsimsel değişimlere bağlı olarak, bu bölgede farklı bitki türleri yetişmektedir. Tepenin faunaında, çeşitli hayvan türleri bulunmaktadır. Bu bölgede, yaban hayatı oldukça zengin ve çeşitlidir. Büyükalamet Tepesi, ekolojik dengesi ve doğal güzellikleri ile birlikte, bir doğa koruma alanı olarak da önemli bir role sahiptir. Tepenin flora ve faunası, mevsimsel değişimlere bağlı olarak farklılık göstermektedir. İlkbahar ve yaz aylarında, bitki örtüsü en yoğun haliyle görülmektedir. Sonbahar ve kış aylarında ise, bazı bitki türleri ve hayvanlar, daha soğuk ve karlı bölgelere göç etmektedirler.
 
 ## Ziyaret Bilgileri
 

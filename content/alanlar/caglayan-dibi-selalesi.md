@@ -22,7 +22,7 @@ wikidata_id: "Q108228473"
 
 # Çağlayan Dibi Şelalesi
 
-Çağlayan Dibi Şelalesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu yeşil cennet, doğa severlerin ziyaret etmesi gereken bir destinasyon. Şelalenin güzelliği, çevresindeki flora ve fauna ile birlikte, ziyaretçilere unutulmaz bir deneyim sunuyor. Çağlayan Dibi Şelalesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
+Çağlayan Dibi Şelalesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Şelalenin güzelliği, çevresindeki flora ve fauna ile birlikte, ziyaretçilere unutulmaz bir deneyim sunuyor. Çağlayan Dibi Şelalesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 

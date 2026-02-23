@@ -28,7 +28,7 @@ wikidata_id: "Q31558324"
 
 # Nogay Tepesi
 
-Nogay Tepesi, Ankara'nın kalbinde, İç Anadolu Bölgesi'nin geniş ve verimli ovalarının arasında yükselen bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli bir doğal güzelliği. Nogay Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, sakin ve huzurlu bir atmosfere davet ediyor. Tepenin eteklerinde ve zirvesinde, Ankara'nın panoramik manzarasına tanık olma mümkün.
+Nogay Tepesi, Ankara'nın kalbinde, İç Anadolu Bölgesi'nin geniş ve verimli ovalarının arasında yükselen bir tepe. Nogay Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, sakin ve huzurlu bir atmosfere davet ediyor. Tepenin eteklerinde ve zirvesinde, Ankara'nın panoramik manzarasına tanık olma mümkün.
 
 ## Tarihçe
 

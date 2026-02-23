@@ -28,7 +28,7 @@ wikidata_id: "Q34867625"
 
 # Elleryükseği Tepesi
 
-Elleryükseği Tepesi, Çorum'un güzelliğini yansıtan önemli bir noktadır. Çorum ilinin Karadeniz Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu tepe, bölgenin coğrafi yapısını ve güzelliğini gösteren önemli bir noktadır. Elleryükseği Tepesi, doğa severler ve yürüyüşçüler için ideal bir yer olarak kabul ediliyor. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
+Elleryükseği Tepesi, Çorum'un güzelliğini yansıtan önemli bir noktadır. Bu tepe, bölgenin coğrafi yapısını ve güzelliğini gösteren önemli bir noktadır. Elleryükseği Tepesi, doğa severler ve yürüyüşçüler için ideal bir yer olarak kabul ediliyor. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Elleryükseği Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Elleryükseği Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi yapısını gösteren, engebeli ve dağlık bir araziye sahip. Elleryükseği Tepesi, bölgenin iklimini ve coğrafi yapısını etkileyen önemli bir faktör olarak kabul ediliyor. Bu tepeninaroundaki bölge, doğal güzelliği ve coğrafi çeşitliliği ile dikkat çekiyor.
+Elleryükseği Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi yapısını gösteren, engebeli ve dağlık bir araziye sahip. Elleryükseği Tepesi, bölgenin iklimini ve coğrafi yapısını etkileyen önemli bir faktör olarak kabul ediliyor. Bu tepeninaroundaki bölge, doğal güzelliği ve coğrafi çeşitliliği ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

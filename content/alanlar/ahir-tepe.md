@@ -28,7 +28,7 @@ wikidata_id: "Q31388812"
 
 # Ahır Tepe
 
-Ahır Tepe, Tekirdağ'ın Marmara Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği önemli bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türünü ve hayvanı barındırabiliyor. Bu tepe, yöre halkı ve ziyaretçiler için hem bir gezi noktası hem de doğayı gözlemlemek için ideal bir yer. Ahır Tepe'nin etrafı, yeşilin farklı tonlarını sunan ormanlarla çevrilidir ve bu ormanlar, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapıyor.
+Ahır Tepe, Tekirdağ'ın Marmara Bölgesi'nde yer alan ve tarihi ile doğal güzelliklerinin birleştiği önemli bir nokta. Bu tepe, yöre halkı ve ziyaretçiler için hem bir gezi noktası hem de doğayı gözlemlemek için ideal bir yer. Ahır Tepe'nin etrafı, yeşilin farklı tonlarını sunan ormanlarla çevrilidir ve bu ormanlar, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Ahır Tepe, Tekirdağ'ın Marmara Bölgesi'nde yer alıyor ve coğrafi olarak ol
 
 ## Flora ve Fauna
 
-Ahır Tepe, flora ve fauna açısından oldukça zengin bir yapıya sahip. Bu tepe, çeşitli bitki türlerini barındırıyor ve mevsimsel değişimler, bu bölgede farklı doğa güzelliklerini ortaya çıkarıyor. Bahar aylarında, çiçekler açıyor ve yaz aylarında, yeşilin farklı tonları ortaya çıkıyor. Ahır Tepe, aynı zamanda yaban hayvanlarına ev sahipliği yapıyor ve bu reason, doğa severler için ideal bir gezi noktası haline getiriyor. Bu bölgede, çeşitli kuş türleri ve memeliler yaşadığından, Ahır Tepe, doğa gözlemcileri için önemli bir nokta.
+ Bu tepe, çeşitli bitki türlerini barındırıyor ve mevsimsel değişimler, bu bölgede farklı doğa güzelliklerini ortaya çıkarıyor. Bahar aylarında, çiçekler açıyor ve yaz aylarında, yeşilin farklı tonları ortaya çıkıyor. Ahır Tepe, aynı zamanda yaban hayvanlarına ev sahipliği yapıyor ve bu reason, doğa severler için ideal bir gezi noktası haline getiriyor. Bu bölgede, çeşitli kuş türleri ve memeliler yaşadığından, Ahır Tepe, doğa gözlemcileri için önemli bir nokta.
 
 ## Ziyaret Bilgileri
 

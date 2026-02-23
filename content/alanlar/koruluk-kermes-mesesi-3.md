@@ -22,7 +22,7 @@ wikidata_id: "Q108228147"
 
 # Koruluk Kermes Mesesi 3
 
-Koruluk Kermes Mesesi 3, İç Anadolu Bölgesi'nin göbeğinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden biridir. Bu milli park, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Koruluk Kermes Mesesi 3, doğa severler ve turistik gezi sevenler için ideal bir destinasyondur.
+Koruluk Kermes Mesesi 3, İç Anadolu Bölgesi'nin göbeğinde yer alan bir milli parktır. Bu milli park, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Koruluk Kermes Mesesi 3, doğa severler ve turistik gezi sevenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

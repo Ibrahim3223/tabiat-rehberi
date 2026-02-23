@@ -1,7 +1,7 @@
 ---
 title: "Kaptan-ı Derya Saruca Paşa Türbesi"
 date: "2026-01-10T05:01:33.986Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391520"
 
 # Kaptan-ı Derya Saruca Paşa Türbesi
 
-Kaptan-ı Derya Saruca Paşa Türbesi, Marmara Bölgesi'nin güzel illerinden biri olan Çanakkale'nin Gelibolu ilçesinde bulunur. Bu tarihi türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde yer alır. Türbenin etrafı, yeşil alanlarla çevrilidir ve ziyaretçilere dinlenebilecek bir ortam sunar. Kaptan-ı Derya Saruca Paşa, tarihimizde önemli bir figürdür ve bu türbe, onun anısına yapılmıştır. Türbenin mimarisi, Osmanlı dönemi yapılarının özelliklerini taşır. Ziyaretçiler, türbeyi gezdikten sonra, çevredeki tarihi ve doğal güzellikleri keşfedebilirler.
+Kaptan-ı Derya Saruca Paşa Türbesi, Marmara Bölgesi'nin güzel illerinden biri olan Çanakkale'nin Gelibolu ilçesinde bulunur. Türbenin etrafı, yeşil alanlarla çevrilidir ve ziyaretçilere dinlenebilecek bir ortam sunar. Kaptan-ı Derya Saruca Paşa, tarihimizde önemli bir figürdür ve bu türbe, onun anısına yapılmıştır. Türbenin mimarisi, Osmanlı dönemi yapılarının özelliklerini taşır. Ziyaretçiler, türbeyi gezdikten sonra, çevredeki tarihi ve doğal güzellikleri keşfedebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaptan-ı Derya Saruca Paşa Türbesi, Osmanlı dönemi tarihinde önemli bir ye
 
 ## Coğrafya
 
-Kaptan-ı Derya Saruca Paşa Türbesi, Çanakkale'nin Gelibolu ilçesinde, Marmara Bölgesi'nin güzel coğrafyası içinde yer alır. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Çevre, tarihi öneme sahip diğer yapılara da ev sahipliği yapar. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve dört mevsim ziyaret edilebilir. Türbenin bulunduğu Gelibolu, tarihi ve doğal güzellikleriyle ziyaretçileri cezbeder. Ziyaretçiler, türbeyi gezdikten sonra, çevredeki tarihi alanları ve doğal güzellikleri keşfedebilirler. Gelibolu'nun coğrafyası, ziyaretçilere birçok keşif imkanı sunar.
+Kaptan-ı Derya Saruca Paşa Türbesi, Çanakkale'nin Gelibolu ilçesinde, Marmara Bölgesi'nin güzel coğrafyası içinde yer alır. Çevre, tarihi öneme sahip diğer yapılara da ev sahipliği yapar. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve dört mevsim ziyaret edilebilir. Türbenin bulunduğu Gelibolu, tarihi ve doğal güzellikleriyle ziyaretçileri cezbeder. Ziyaretçiler, türbeyi gezdikten sonra, çevredeki tarihi alanları ve doğal güzellikleri keşfedebilirler. Gelibolu'nun coğrafyası, ziyaretçilere birçok keşif imkanı sunar.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Kaptan-ı Derya Saruca Paşa Türbesi, çevresindeki yeşil alanlarıyla birlikt
 
 ## Ziyaret Bilgileri
 
-Kaptan-ı Derya Saruca Paşa Türbesi'ni ziyaret etmek, história ve doğa severler için önemli bir deneyimdir. Ziyaretçiler, türbeyi gezdikten sonra, çevredeki tarihi ve doğal güzellikleri keşfedebilirler. Türbeye ulaşım, Gelibolu'ya gelirken kullanılan yollardan sağlanabilir. Ziyaretçiler, türbeyi gezdikten sonra, çevredeki restoranlarda yemek yiyebilir ve yerel ürünlerden alışveriş yapabilirler. Türbenin bulunduğu alan, ziyaretçilere birçok aktivite imkanı sunar. Ziyaretçilerin, türbeyi gezmeden önce, tarihi ve coğrafi bilgiler hakkında araştırma yapmaları önerilir.
+Kaptan-ı Derya Saruca Paşa Türbesi'ni ziyaret etmek, tarihi ve doğa severler için önemli bir deneyimdir. Ziyaretçiler, türbeyi gezdikten sonra, çevredeki tarihi ve doğal güzellikleri keşfedebilirler. Türbeye ulaşım, Gelibolu'ya gelirken kullanılan yollardan sağlanabilir. Ziyaretçiler, türbeyi gezdikten sonra, çevredeki restoranlarda yemek yiyebilir ve yerel ürünlerden alışveriş yapabilirler. Türbenin bulunduğu alan, ziyaretçilere birçok aktivite imkanı sunar. Ziyaretçilerin, türbeyi gezmeden önce, tarihi ve coğrafi bilgiler hakkında araştırma yapmaları önerilir.
 
 ## İlginç Bilgiler
 

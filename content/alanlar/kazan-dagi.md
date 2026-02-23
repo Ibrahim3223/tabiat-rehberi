@@ -32,9 +32,9 @@ Balıkesir'in doğası, Kazan Dağı gibi önemli noktaları barındıran bir b�
 
 ## Tarihçe
 
-Kazan Dağı, Balıkesir'in doğal güzelliklerini barındıran önemli bir coğrafi oluşum. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yerleşim yeri olarak kullanılmış. Hitit, Frig, Lidya ve Roma gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada varlıklarını hissettirmişler. 
+Kazan Dağı, Balıkesir'in doğal güzelliklerini barındıran önemli bir coğrafi oluşum. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yerleşim yeri olarak kullanılmış. Hitit, Frig, Lidya ve Roma gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada varlıklarını hissettirmişler.
 
-Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için önemli kaynaklar olmuş. Bu alanlar, insanların hayvancılık, tarım ve avcılık faaliyetleri için elverişli ortamlar sağlamış. Ayrıca, ticaret yolları üzerinde bulunan bu bölgeler, farklı kültürlerin etkileşimine de sahne olmuş. 
+Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için önemli kaynaklar olmuş. Bu alanlar, insanların hayvancılık, tarım ve avcılık faaliyetleri için elverişli ortamlar sağlamış. Ayrıca, ticaret yolları üzerinde bulunan bu bölgeler, farklı kültürlerin etkileşimine de sahne olmuş.
 
 Kazan Dağı ve çevresinde, insanlar yüzyıllar boyunca yaylacılık ve hayvancılık faaliyetleri gerçekleştirmiş. Bölgenin coğrafi özellikleri, insanların bu faaliyetleri sürdürmeleri için uygun koşullar sunmuş. Doğal güzellikleri ve tarihi önemi ile Kazan Dağı, Türkiye'nin zengin kültürel mirasının önemli bir parçasını oluşturuyor.
 

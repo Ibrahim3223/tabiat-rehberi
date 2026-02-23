@@ -28,7 +28,7 @@ wikidata_id: "Q34873182"
 
 # Gümüşyuva Tepesi
 
-Gümüşyuva Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği önemli bir destinasyon. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Gümüşyuva Tepesi, ziyaretçiler için hem tarihi hem de doğal güzelliklerini keşfetmek için ideal bir yer. Tepenin etrafında çeşitli bitki türleri ve zengin fauna encontrabilir. Ziyaretçiler, bu tepeyi ziyaret ederek hem Mardin'in tarihini hem de doğal güzelliklerini keşfedebilirler.
+Gümüşyuva Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği önemli bir destinasyon. Gümüşyuva Tepesi, ziyaretçiler için hem tarihi hem de doğal güzelliklerini keşfetmek için ideal bir yer. Tepenin etrafında çeşitli bitki türleri ve zengin fauna encontrabilir. Ziyaretçiler, bu tepeyi ziyaret ederek hem Mardin'in tarihini hem de doğal güzelliklerini keşfedebilirler.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Gümüşyuva Tepesi, ziyaretçiler için önemli bir destinasyon. Ziyaretçiler,
 
 - Gümüşyuva Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği önemli bir destinasyon.
 - Tepenin etrafında çeşitli bitki türleri ve zengin fauna encontrabilir.
-- Gümüşyuva Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Tepenin konumu, ziyaretçiler için önemli bir avantaj sağlıyor.
 - Ziyaretçiler, bu tepeyi ziyaret ederek Mardin'in tarihi ve doğal güzelliklerini keşfedebilirler.

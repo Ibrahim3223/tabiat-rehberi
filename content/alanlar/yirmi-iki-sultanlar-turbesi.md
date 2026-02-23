@@ -1,7 +1,7 @@
 ---
 title: "Yirmi İki Sultanlar Türbesi"
 date: "2026-01-10T07:55:40.017Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391339"
 
 # Yirmi İki Sultanlar Türbesi
 
-Yirmi İki Sultanlar Türbesi, Manisa'nın Şehzadeler ilçesinde yer alıyor. Bu tarihi mekan, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Yirmi İki Sultanlar Türbesi, tarihin derinliklerinde gizlenen bir hazine gibi, ziyaretçilerini bekliyor. Bu özel yer, hem tarihe meraklı olanlar hem de doğayı sevenler için bir çekim merkezi. Yirmi İki Sultanlar Türbesi, ziyaretçilerini tarihin gizemli atmosferine ve doğanın eşsiz güzelliğine davet ediyor. Bu mekan, Ege Bölgesi'nin önemli tarihi noktalarından biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından keşfediliyor.
+Yirmi İki Sultanlar Türbesi, Manisa'nın Şehzadeler ilçesinde yer alıyor. Yirmi İki Sultanlar Türbesi, tarihin derinliklerinde gizlenen bir hazine gibi, ziyaretçilerini bekliyor. Bu özel yer, hem tarihe meraklı olanlar hem de doğayı sevenler için bir çekim merkezi. Yirmi İki Sultanlar Türbesi, ziyaretçilerini tarihin gizemli atmosferine ve doğanın eşsiz güzelliğine davet ediyor. Bu mekan, Ege Bölgesi'nin önemli tarihi noktalarından biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından keşfediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yirmi İki Sultanlar Türbesi, tarihin sayfalarında önemli bir yer tutuyor. Ta
 
 ## Coğrafya
 
-Yirmi İki Sultanlar Türbesi, Manisa'nın Şehzadeler ilçesinde yer alıyor. Bu tarihi mekan, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Yirmi İki Sultanlar Türbesi, Ege Bölgesi'nin önemli coğrafi noktalarından biri olarak biliniyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Yirmi İki Sultanlar Türbesi, ziyaretçilerini tarihin gizemli atmosferine ve doğanın eşsiz güzelliğine davet ediyor. Bu mekan, Ege Bölgesi'nin önemli tarihi noktalarından biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından keşfediliyor. Yirmi İki Sultanlar Türbesi, tarihin derinliklerinde gizlenen bir hazine gibi, ziyaretçilerini bekliyor. Bu özel yer, hem tarihe meraklı olanlar hem de doğayı sevenler için bir çekim merkezi.
+Yirmi İki Sultanlar Türbesi, Manisa'nın Şehzadeler ilçesinde yer alıyor. Yirmi İki Sultanlar Türbesi, Ege Bölgesi'nin önemli coğrafi noktalarından biri olarak biliniyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Yirmi İki Sultanlar Türbesi, ziyaretçilerini tarihin gizemli atmosferine ve doğanın eşsiz güzelliğine davet ediyor. Bu mekan, Ege Bölgesi'nin önemli tarihi noktalarından biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından keşfediliyor. Yirmi İki Sultanlar Türbesi, tarihin derinliklerinde gizlenen bir hazine gibi, ziyaretçilerini bekliyor. Bu özel yer, hem tarihe meraklı olanlar hem de doğayı sevenler için bir çekim merkezi.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Yirmi İki Sultanlar Türbesi, çeşitli bitki türleri ve zengin fauna ile çev
 
 ## Ziyaret Bilgileri
 
-Yirmi İki Sultanlar Türbesi'ni ziyaret etmek için, Manisa'nın Şehzadeler ilçesine gitmeniz gerekiyor. Bu tarihi mekan, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Yirmi İki Sultanlar Türbesi, tarihin gizemli atmosferine ve doğanın eşsiz güzelliğine davet ediyor. Bu mekan, Ege Bölgesi'nin önemli tarihi noktalarından biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından keşfediliyor. Yirmi İki Sultanlar Türbesi'ni ziyaret etmek için, en iyi mevsim ilkbahar veya sonbahar olarak biliniyor. Bu mevsimlerde, hava sıcaklığı ve nem oranı ziyaretçilerin konforu için ideal. Yirmi İki Sultanlar Türbesi'ni ziyaret etmek, kolay ve keyifli bir deneyim.
+Yirmi İki Sultanlar Türbesi'ni ziyaret etmek için, Manisa'nın Şehzadeler ilçesine gitmeniz gerekiyor. Yirmi İki Sultanlar Türbesi, tarihin gizemli atmosferine ve doğanın eşsiz güzelliğine davet ediyor. Bu mekan, Ege Bölgesi'nin önemli tarihi noktalarından biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından keşfediliyor. Yirmi İki Sultanlar Türbesi'ni ziyaret etmek için, en iyi mevsim ilkbahar veya sonbahar olarak biliniyor. Bu mevsimlerde, hava sıcaklığı ve nem oranı ziyaretçilerin konforu için ideal. Yirmi İki Sultanlar Türbesi'ni ziyaret etmek, kolay ve keyifli bir deneyim.
 
 ## İlginç Bilgiler
 
 - Yirmi İki Sultanlar Türbesi, tarihin derinliklerinde gizlenen bir hazine gibi, ziyaretçilerini bekliyor.
-- Bu tarihi mekan, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Yirmi İki Sultanlar Türbesi, Ege Bölgesi'nin önemli tarihi noktalarından biri olarak biliniyor.
 - Bu mekan, her yıl birçok ziyaretçi tarafından keşfediliyor.
 - Yirmi İki Sultanlar Türbesi, tarihin gizemli atmosferine ve doğanın eşsiz güzelliğine davet ediyor.

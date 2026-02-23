@@ -22,7 +22,7 @@ wikidata_id: "Q108227267"
 
 # Sinop-Ayancik-Yenice Kayin
 
-Sinop-Ayancik-Yenice Kayin milli parkı, Karadeniz Bölgesi'nin en güzel ve önemli doğal alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı ve approximately 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu milli park, Sinop ilinin Ayanci ve Yenice ilçeleri arasında yer alıyor ve ziyaretçilerine doğa yürüyüşü, pikni ve fotoğrafçılık gibi çeşitli etkinlikleri sunuyor. Ayrıca, bu bölgede çeşitli bitki türleri ve zengin fauna çeşitliliği de bulunuyor.
+Sinop-Ayancik-Yenice Kayin milli parkı, Karadeniz Bölgesi'nin en güzel ve önemli doğal alanlarından biri olarak karşımıza çıkıyor. Bu milli park, Sinop ilinin Ayanci ve Yenice ilçeleri arasında yer alıyor ve ziyaretçilerine doğa yürüyüşü, pikni ve fotoğrafçılık gibi çeşitli etkinlikleri sunuyor. Ayrıca, bu bölgede çeşitli bitki türleri ve zengin fauna çeşitliliği de bulunuyor.
 
 ## Tarihçe
 

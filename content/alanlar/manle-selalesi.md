@@ -28,7 +28,7 @@ wikidata_id: "Q61076486"
 
 # Manle Şelalesi
 
-Manle Şelalesi, Rize ilinin eşsiz doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere doğanın güzelliğini sunar. Şelalenin yüksekliği ve suyun hızı, ziyaretçileri büyüler. Manle Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Şelalenin etrafındaki orman, çeşitli bitki türleri ve hayvanlarla dolu ve bu, ziyaretçilere doğanın güzelliğini göstermektedir.
+Manle Şelalesi, Rize ilinin eşsiz doğal güzelliklerinden biridir. Şelalenin yüksekliği ve suyun hızı, ziyaretçileri büyüler. Manle Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Şelalenin etrafındaki orman, çeşitli bitki türleri ve hayvanlarla dolu ve bu, ziyaretçilere doğanın güzelliğini göstermektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Manle Şelalesi, yüzyıllar boyunca bölgenin önemli bir doğal güzelliği ol
 
 ## Coğrafya
 
-Manle Şelalesi, Rize ilinin Karadeniz Bölgesi'nde bulunmaktadır. Şelalenin etrafındaki orman, çeşitli bitki türleri ve hayvanlarla dolu ve bu, ziyaretçilere doğanın güzelliğini gösterir. Şelalenin yüksekliği ve suyun hızı, ziyaretçileri büyüler. Manle Şelalesi, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere doğanın güzelliğini sunar. Şelalenin etrafındaki köyler ve kasabalar, ziyaretçilere geleneksel Karadeniz mutfağı ve kültürünü sunar. Manle Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Şelalenin etrafındaki orman, aynı zamanda çeşitli bitki türleri ve hayvanlarla dolu ve bu, ziyaretçilere doğanın güzelliğini gösterir. Manle Şelalesi, Rize ilinin en önemli doğal güzelliklerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+Manle Şelalesi, Rize ilinin Karadeniz Bölgesi'nde bulunmaktadır. Şelalenin etrafındaki orman, çeşitli bitki türleri ve hayvanlarla dolu ve bu, ziyaretçilere doğanın güzelliğini gösterir. Şelalenin yüksekliği ve suyun hızı, ziyaretçileri büyüler. Şelalenin etrafındaki köyler ve kasabalar, ziyaretçilere geleneksel Karadeniz mutfağı ve kültürünü sunar. Manle Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Şelalenin etrafındaki orman, aynı zamanda çeşitli bitki türleri ve hayvanlarla dolu ve bu, ziyaretçilere doğanın güzelliğini gösterir. Manle Şelalesi, Rize ilinin en önemli doğal güzelliklerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Flora ve Fauna
 

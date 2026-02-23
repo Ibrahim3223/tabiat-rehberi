@@ -1,7 +1,7 @@
 ---
 title: "Hamam Kalıntısı 1"
 date: "2026-01-09T22:36:09.853Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738723"
 
 # Hamam Kalıntısı 1
 
-Hamam Kalıntısı 1, Gümüşhane ve Trabzon vilayetinin sınırında, İç Anadolu Bölgesi'nde yer alan bir tarihi plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. İnsanlar burayı ziyaret ettiğinde, hem tarihi kalıntıları hem de güzel doğayı görebilirler. Plajın etrafında çeşitli bitki türleri ve zengin fauna bulunur.
+Hamam Kalıntısı 1, Gümüşhane ve Trabzon vilayetinin sınırında, İç Anadolu Bölgesi'nde yer alan bir tarihi plajdır. İnsanlar burayı ziyaret ettiğinde, hem tarihi kalıntıları hem de güzel doğayı görebilirler. Plajın etrafında çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hamam Kalıntısı 1'in tarihi geçmişi oldukça eskidir. Bu bölge, yüzyılla
 
 ## Coğrafya
 
-Hamam Kalıntısı 1, Gümüşhane ve Trabzon vilayetinin sınırında, İç Anadolu Bölgesi'nde yer alır. Bu plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Ayrıca, plajın yakınında dağlar ve ormanlar vardır. Bu coğrafi yapı, plaja özel bir güzellik kazandırır. İklim, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Bu reasonla, plajın ziyaret edilmesi en uygun zaman, ilkbahar ve yaz aylarıdır.
+Hamam Kalıntısı 1, Gümüşhane ve Trabzon vilayetinin sınırında, İç Anadolu Bölgesi'nde yer alır. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Ayrıca, plajın yakınında dağlar ve ormanlar vardır. Bu coğrafi yapı, plaja özel bir güzellik kazandırır. İklim, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Bu reasonla, plajın ziyaret edilmesi en uygun zaman, ilkbahar ve yaz aylarıdır.
 
 ## Flora ve Fauna
 

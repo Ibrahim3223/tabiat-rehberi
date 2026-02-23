@@ -29,7 +29,7 @@ wikidata_id: "Q34824359"
 
 # Çatma Dağı
 
-Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan Çatma Dağı, country'nin farklı bir bölgesinde yer alıyor. Bu dağ, ziyaretçilerini doğal güzelliği ve tarihi önemi ile çekiyor. Çatma Dağı, Türkiye'nin coğrafi çeşitliliği hakkında fikir veren önemli bir nokta. Doğal güzellikleri ile dikkat çeken bu bölge, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan Çatma Dağı, country'nin farklı bir bölgesinde yer alıyor. Bu dağ, ziyaretçilerini doğal güzelliği ve tarihi önemi ile çekiyor. Çatma Dağı, Türkiye'nin coğrafi çeşitliliği hakkında fikir veren önemli bir nokta.
 
 ## Tarihçe
 

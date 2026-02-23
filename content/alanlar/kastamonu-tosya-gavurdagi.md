@@ -22,7 +22,7 @@ wikidata_id: "Q108227400"
 
 # Kastamonu-Tosya Gavurdagı
 
-Kastamonu-Tosya Gavurdagı Milli Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyük alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Parkın zengin flora ve fauna çeşitliliği, ziyaretçilerin doğayı yakından keşfetmesine olanak tanıyor. Kastamonu'nun tarihi geçmişi ve kültürel zenginliği, bu milli parkın etrafındaki köylerde ve kasabalarda da hissediliyor.
+Kastamonu-Tosya Gavurdagı Milli Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın zengin flora ve fauna çeşitliliği, ziyaretçilerin doğayı yakından keşfetmesine olanak tanıyor. Kastamonu'nun tarihi geçmişi ve kültürel zenginliği, bu milli parkın etrafındaki köylerde ve kasabalarda da hissediliyor.
 
 ## Tarihçe
 

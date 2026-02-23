@@ -30,7 +30,7 @@ wikidata_id: "Q1419157"
 
 # Sümela Manastırı
 
-Sümela Manastırı, Trabzon'un Maçka ilçesinde yer alan, Karadeniz Bölgesi'nin en önemli turisti ve tarihi mekanlarından biridir. 140 hektarlık bir alanı kaplayan bu kutsal mekan, 200 futbol sahası büyüklüğünde bir alanı kapsar. Sümela Manastırı, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini cezbeden bir yerdir. Manastırın tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Sümela Manastırı, özellikle Hristiyanlık dinine mensup individuals tarafından ziyaret edilen bir yerdir.
+Sümela Manastırı, Trabzon'un Maçka ilçesinde yer alan, Karadeniz Bölgesi'nin en önemli turisti ve tarihi mekanlarından biridir. Sümela Manastırı, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini cezbeden bir yerdir. Manastırın tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Sümela Manastırı, özellikle Hristiyanlık dinine mensup individuals tarafından ziyaret edilen bir yerdir.
 
 ## Tarihçe
 

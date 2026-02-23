@@ -28,7 +28,7 @@ wikidata_id: "Q97211591"
 
 # Gürcüdüzü Şelalesi
 
-Gürcüdüzü Şelalesi, Rize'nin doğal güzelliklerinin önemli bir parçasıdır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içinde bir macera bekliyor. Şelalenin güzelliği, çeşitli bitki türleri ve zengin fauna ile birleşerek, ziyaretçilere unutulmaz bir deneyim sunuyor. Şelaleye ulaşmak için, Rize'nin merkezinden itibaren uzun bir mesafelik bir yolculuk yapmak gerekiyor. Bu yolculuk, Karadeniz Bölgesi'nin güzelliklerini keşfetmek için ideal bir fırsat sunuyor.
+Gürcüdüzü Şelalesi, Rize'nin doğal güzelliklerinin önemli bir parçasıdır. Şelalenin güzelliği, çeşitli bitki türleri ve zengin fauna ile birleşerek, ziyaretçilere unutulmaz bir deneyim sunuyor. Şelaleye ulaşmak için, Rize'nin merkezinden itibaren uzun bir mesafelik bir yolculuk yapmak gerekiyor. Bu yolculuk, Karadeniz Bölgesi'nin güzelliklerini keşfetmek için ideal bir fırsat sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gürcüdüzü Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca bölgenin kül
 
 ## Coğrafya
 
-Gürcüdüzü Şelalesi, Rize'nin doğal güzelliklerini keşfetmek için ideal bir yer. Şelale, 140 hektarlık yeşil alan üzerinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Şelalenin yüksekliği, yaklaşık 10 metre ve suyun hızı, ziyaretçilere heyecan verici bir deneyim sunuyor. Şelaleye ulaşmak için, Rize'nin merkezinden itibaren uzun bir mesafelik bir yolculuk yapmak gerekiyor. Bu yolculuk, Karadeniz Bölgesi'nin güzelliklerini keşfetmek için ideal bir fırsat sunuyor. Şelalenin çevresinde, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği birçok alan bulunuyor.
+Gürcüdüzü Şelalesi, Rize'nin doğal güzelliklerini keşfetmek için ideal bir yer. Çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Şelalenin yüksekliği, yaklaşık 10 metre ve suyun hızı, ziyaretçilere heyecan verici bir deneyim sunuyor. Şelaleye ulaşmak için, Rize'nin merkezinden itibaren uzun bir mesafelik bir yolculuk yapmak gerekiyor. Bu yolculuk, Karadeniz Bölgesi'nin güzelliklerini keşfetmek için ideal bir fırsat sunuyor. Şelalenin çevresinde, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği birçok alan bulunuyor.
 
 ## Flora ve Fauna
 

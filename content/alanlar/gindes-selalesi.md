@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Gindeş Şelalesi
 
-Gindeş Şelalesi, Rize'nin eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en önemli turizm noktalarından biri. Şelalenin güzelliği, yalnızca doğal güzelliği ile değil, aynı zamanda zengin faunası ve florasıyla da dikkat çekiyor. Bu şelale, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir ve her yıl binlerce turisti ağırlar. Şelalenin çevresinde, çeşitli bitki türleri ve hayvanlar yaşar, bu da burayı doğa severler için bir cennet haline getirir.
+Gindeş Şelalesi, Rize'nin eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Şelalenin güzelliği, yalnızca doğal güzelliği ile değil, aynı zamanda zengin faunası ve florasıyla da dikkat çekiyor. Bu şelale, Karadeniz Bölgesi'nin gizli cenneti olarak bilinir ve her yıl binlerce turisti ağırlar. Şelalenin çevresinde, çeşitli bitki türleri ve hayvanlar yaşar, bu da burayı doğa severler için bir cennet haline getirir.
 
 ## Tarihçe
 

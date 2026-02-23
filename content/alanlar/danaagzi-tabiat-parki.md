@@ -23,7 +23,7 @@ wikidata_id: "Q108228474"
 
 # Danaağzı Tabiat Parkı
 
-Danaağzı Tabiat Parkı, Zonguldak ilinin sınırları içerisinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplıdır. Bu park, hem yerel halk hem de ziyaretçiler için keyifli bir gezi deneyimi sunar. Parkın etrafında bulunan dağlar ve ormanlar, ziyaretçilere büyüleyici bir manzara sunarken, aynı zamanda çeşitli bitkilerin ve hayvanların yaşadığı bir ekosistem olarak hizmet eder.
+Danaağzı Tabiat Parkı, Zonguldak ilinin sınırları içerisinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir alandır. Bu park, hem yerel halk hem de ziyaretçiler için keyifli bir gezi deneyimi sunar. Parkın etrafında bulunan dağlar ve ormanlar, ziyaretçilere büyüleyici bir manzara sunarken, aynı zamanda çeşitli bitkilerin ve hayvanların yaşadığı bir ekosistem olarak hizmet eder.
 
 ## Tarihçe
 

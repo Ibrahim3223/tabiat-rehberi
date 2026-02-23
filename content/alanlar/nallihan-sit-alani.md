@@ -1,7 +1,7 @@
 ---
 title: "Nallıhan Sit Alanı"
 date: "2026-01-09T18:53:36.758Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -23,7 +23,7 @@ wikidata_id: "Q108226115"
 
 # Nallıhan Sit Alanı
 
-Nallıhan Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu sit alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Alanın geniş çayırları ve ormanlık bölgeleri, yürüyüş yapmaktan, doğa fotoğrafçılığına kadar çeşitli etkinliklere imkân tanıyor. Nallıhan Sit Alanı, özellikle doğa severlerin ve fotoğraf sanatçılarının ilgisini çekiyor.
+Nallıhan Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Alanın geniş çayırları ve ormanlık bölgeleri, yürüyüş yapmaktan, doğa fotoğrafçılığına kadar çeşitli etkinliklere imkân tanıyor. Nallıhan Sit Alanı, özellikle doğa severlerin ve fotoğraf sanatçılarının ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Nallıhan Sit Alanı, ziyaretçilerine çeşitli etkinlik olanakları sunuyor. A
 
 ## İlginç Bilgiler
 
-- Nallıhan Sit Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Alanın flora çeşitliliği, çeşitli ağaç türleri, çalılar ve çiçeklerle temsil ediliyor.
 - Nallıhan Sit Alanı, çeşitli kuş türleri, memeliler ve sürüngenlerle dolu.
 - Alanın girişinde, ziyaretçilere gerekli bilgiler ve haritalar sağlanıyor.

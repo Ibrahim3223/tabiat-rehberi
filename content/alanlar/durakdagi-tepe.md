@@ -28,7 +28,7 @@ wikidata_id: "Q31391061"
 
 # Durakdağı Tepe
 
-Durakdağı Tepe, Adıyaman'ın merkezine uzun bir mesafe uzaklıkta yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri. Durakdağı Tepe, ziyaretçilerine geniş bir manzara sunuyor. Tepenin zirvesinden bakıldığında, Adıyaman'ın tarihi ve kültürel zenginliklerini keşfetme mümkün. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Durakdağı Tepe, doğa severlerin ve fotoğrafçıların ziyaret etmesi gereken bir yer.
+Durakdağı Tepe, Adıyaman'ın merkezine uzun bir mesafe uzaklıkta yer alan bir tepe. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri. Durakdağı Tepe, ziyaretçilerine geniş bir manzara sunuyor. Tepenin zirvesinden bakıldığında, Adıyaman'ın tarihi ve kültürel zenginliklerini keşfetme mümkün. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Durakdağı Tepe, doğa severlerin ve fotoğrafçıların ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

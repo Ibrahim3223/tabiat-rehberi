@@ -1,7 +1,7 @@
 ---
 title: "Torumtay Türbesi"
 date: "2026-01-10T04:50:07.595Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -30,7 +30,7 @@ wikidata_id: "Q118188334"
 
 # Torumtay Türbesi
 
-Torumtay Türbesi, Amasya'nın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Torumtay Türbesi, hem yerel halk hem de yabancı ziyaretçiler tarafından sıkça ziyaret edilen bir yer olarak biliniyor. Plajın etrafında bulunan tarihi yapılar ve doğa güzelliği, ziyaretçilere unutulmaz anlar yaşatıyor.
+Torumtay Türbesi, Amasya'nın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir plajdır. Torumtay Türbesi, hem yerel halk hem de yabancı ziyaretçiler tarafından sıkça ziyaret edilen bir yer olarak biliniyor. Plajın etrafında bulunan tarihi yapılar ve doğa güzelliği, ziyaretçilere unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 

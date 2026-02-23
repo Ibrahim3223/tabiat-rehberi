@@ -28,7 +28,7 @@ wikidata_id: "Q31387501"
 
 # Sivri Tepesi
 
-Sivri Tepesi, Van şehrinin önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Sivri Tepesi, Van'ın merkezine yakın bir konumda yer alır ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Sivri Tepesi, aynı zamanda bölgenin coğrafi yapısını ve iklimini anlamak için de önemli bir noktadır. Tepe, Van Gölü'nün manzarasını sunar ve bölgenin flora ve faunasını gözlemlemek için uygun bir yerdir.
+Sivri Tepesi, Van şehrinin önemli doğal güzelliklerinden biridir. Sivri Tepesi, Van'ın merkezine yakın bir konumda yer alır ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Sivri Tepesi, aynı zamanda bölgenin coğrafi yapısını ve iklimini anlamak için de önemli bir noktadır. Tepe, Van Gölü'nün manzarasını sunar ve bölgenin flora ve faunasını gözlemlemek için uygun bir yerdir.
 
 ## Tarihçe
 

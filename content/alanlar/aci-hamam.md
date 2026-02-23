@@ -1,7 +1,7 @@
 ---
 title: "Acı Hamam"
 date: "2026-01-09T22:45:00.827Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738571"
 
 # Acı Hamam
 
-Acı Hamam, Fatih/İstanbul'da Marmara Bölgesi'nin güzide bir noktasında yer alan özel bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Denizi'ne kıyısı olan bir doğal güzelliğimiz. Burada denizin güzelliği, plajın temizliği ve çevredeki peyzaj bir araya gelerek ziyaretçilere benzersiz bir gün geçirtmeyi vaat ediyor. Acı Hamam, İstanbul'un kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak da biliniyor.
+Acı Hamam, Fatih/İstanbul'da Marmara Bölgesi'nin güzide bir noktasında yer alan özel bir plajdır. Burada denizin güzelliği, plajın temizliği ve çevredeki peyzaj bir araya gelerek ziyaretçilere benzersiz bir gün geçirtmeyi vaat ediyor. Acı Hamam, İstanbul'un kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak da biliniyor.
 
 ## Tarihçe
 

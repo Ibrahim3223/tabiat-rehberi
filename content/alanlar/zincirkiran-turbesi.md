@@ -1,7 +1,7 @@
 ---
 title: "Zincirkıran Türbesi"
 date: "2026-01-10T04:56:45.599Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391493"
 
 # Zincirkıran Türbesi
 
-Zincirkıran Türbesi, Diyarbakır'ın Sur ilçesinde bulunan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve şehrin tarihi geçmişi hakkında önemli bilgiler sunar. Zincirkıran Türbesi, yöre halkı tarafından önemli bir dini merkez olarak kabul edilir ve tarihi açıdan büyük bir değer taşır. Bu türbe, Diyarbakır'ın zengin tarihi mirasının bir parçası olarak görülür ve ziyaretçiler tarafından sıkça ziyaret edilir.
+Zincirkıran Türbesi, Diyarbakır'ın Sur ilçesinde bulunan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Zincirkıran Türbesi, yöre halkı tarafından önemli bir dini merkez olarak kabul edilir ve tarihi açıdan büyük bir değer taşır. Bu türbe, Diyarbakır'ın zengin tarihi mirasının bir parçası olarak görülür ve ziyaretçiler tarafından sıkça ziyaret edilir.
 
 ## Tarihçe
 

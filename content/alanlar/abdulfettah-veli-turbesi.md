@@ -1,7 +1,7 @@
 ---
 title: "Abdülfettah Veli Türbesi"
 date: "2026-01-10T06:42:10.122Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582712"
 
 # Abdülfettah Veli Türbesi
 
-Abdülfettah Veli Türbesi, Kastamonu ilinin merkezinde yer alan bir plaj ve tarihi türbedir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güler yüzle karşılar. Bu bölge, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor. Yerel hal ve turistler tarafından sıklıkla ziyaret edilen bu mekan, hem dinlenmek hem de tarihi değerleri keşfetmek için ideal bir yer.
+Abdülfettah Veli Türbesi, Kastamonu ilinin merkezinde yer alan bir plaj ve tarihi türbedir. Bu bölge, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor. Yerel hal ve turistler tarafından sıklıkla ziyaret edilen bu mekan, hem dinlenmek hem de tarihi değerleri keşfetmek için ideal bir yer.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abdülfettah Veli Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyo
 
 ## Coğrafya
 
-Abdülfettah Veli Türbesi, Kastamonu ilinin merkezinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerini taşıyor. Bölge, 180 hektarlık bir yeşil alana yayılmış ve yaklaşık 300 futbol sahası büyüklüğünde. Coğrafi konumu itibariyle, Karadeniz'in temiz ve serin havasını taşıyor. Plajın etrafı, yüksek dağlar ve ormanlarla çevrili ve bu sayede, ziyaretçilere ferah ve huzurlu bir ortam sunuyor. Ayrıca, plajın yakınında birçok su kaynağı ve akarsu bulunuyor. Bu coğrafi özellikler, bölgenin ekolojik dengesini koruyor ve ziyaretçilere güzel bir manzara sunuyor.
+Abdülfettah Veli Türbesi, Kastamonu ilinin merkezinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi güzelliklerini taşıyor. Coğrafi konumu itibariyle, Karadeniz'in temiz ve serin havasını taşıyor. Plajın etrafı, yüksek dağlar ve ormanlarla çevrili ve bu sayede, ziyaretçilere ferah ve huzurlu bir ortam sunuyor. Ayrıca, plajın yakınında birçok su kaynağı ve akarsu bulunuyor. Bu coğrafi özellikler, bölgenin ekolojik dengesini koruyor ve ziyaretçilere güzel bir manzara sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Abdülfettah Veli Türbesi'ni ziyaret etmek, hem dinlenmek hem de tarihi ve doğ
 ## İlginç Bilgiler
 
 - Abdülfettah Veli Türbesi, Kastamonu ilinin en önemli tarihi ve turistik mekanlarından biridir.
-- Bölge, 140 hektarlık bir yeşil alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Türbe, Abdülfettah Veli'nin anısına yapılmıştır.
 - Bölge, Karadeniz Bölgesi'nin coğrafi güzelliklerini taşıyor.
 - Plajın etrafı, yüksek dağlar ve ormanlarla çevrili.

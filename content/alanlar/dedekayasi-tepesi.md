@@ -28,7 +28,7 @@ wikidata_id: "Q31390662"
 
 # Dedekayası Tepesi
 
-Dedekayası Tepesi, Amasya'nın eşsiz manzarasına ev sahipliği yapan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Dedekayası Tepesi, ziyaretçilerini etkileyici manzarasıyla karşılar. Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Dedekayası Tepesi, aynı zamanda zengin fauna ile dolu. Bu tepede, çeşitli hayvan türleri yaşar ve bu hayvanlar, tepeye canlılık kazandırır.
+Dedekayası Tepesi, Amasya'nın eşsiz manzarasına ev sahipliği yapan bir tepe. Dedekayası Tepesi, ziyaretçilerini etkileyici manzarasıyla karşılar. Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Dedekayası Tepesi, aynı zamanda zengin fauna ile dolu. Bu tepede, çeşitli hayvan türleri yaşar ve bu hayvanlar, tepeye canlılık kazandırır.
 
 ## Tarihçe
 

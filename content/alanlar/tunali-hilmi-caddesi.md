@@ -30,7 +30,7 @@ wikidata_id: "Q6018889"
 
 # Tunalı Hilmi Caddesi
 
-Tunalı Hilmi Caddesi, Ankara'nın Çankaya ilçesinde bulunan, tarihi ve modern yapıların bir arada bulunduğu bir cadde. Bu caddede, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Tunalı Hilmi Caddesi, Ankara'nın kalbinde, Kızılay Meydanı'na yakın bir konumda yer alıyor. Caddenin her iki tarafında, tarihi binalar ve modern mağazalar bulunuyor. Caddenin ortasında, geniş bir yürüyüş yolu ve yeşillik alanlar yer alıyor. Bu caddede, Ankara'nın tarihi ve kültürel zenginliğini görebilirsiniz.
+Tunalı Hilmi Caddesi, Ankara'nın Çankaya ilçesinde bulunan, tarihi ve modern yapıların bir arada bulunduğu bir cadde. Tunalı Hilmi Caddesi, Ankara'nın kalbinde, Kızılay Meydanı'na yakın bir konumda yer alıyor. Caddenin her iki tarafında, tarihi binalar ve modern mağazalar bulunuyor. Caddenin ortasında, geniş bir yürüyüş yolu ve yeşillik alanlar yer alıyor. Bu caddede, Ankara'nın tarihi ve kültürel zenginliğini görebilirsiniz.
 
 ## Tarihçe
 

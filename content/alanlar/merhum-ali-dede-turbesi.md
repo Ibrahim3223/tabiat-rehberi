@@ -1,7 +1,7 @@
 ---
 title: "Merhum Ali Dede Türbesi"
 date: "2026-01-10T06:31:27.928Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391784"
 
 # Merhum Ali Dede Türbesi
 
-Adana'nın Seyhan ilçesinde bulunan Merhum Ali Dede Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini büyülemektedir. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunmaktadır. Bu tarihi mekan, Akdeniz Bölgesi'nin zengin kültürel mirasının önemli bir parçasıdır. Merhum Ali Dede Türbesi, plajın güzelliği ve tarihi değerlerin birleştiği özel bir noktadır. Ziyaretçiler, burada hem dinlenip hem de kültür sanat faaliyetlerine katılabilirler.
+Adana'nın Seyhan ilçesinde bulunan Merhum Ali Dede Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini büyülemektedir. Bu tarihi mekan, Akdeniz Bölgesi'nin zengin kültürel mirasının önemli bir parçasıdır. Merhum Ali Dede Türbesi, plajın güzelliği ve tarihi değerlerin birleştiği özel bir noktadır. Ziyaretçiler, burada hem dinlenip hem de kültür sanat faaliyetlerine katılabilirler.
 
 ## Tarihçe
 

@@ -53,7 +53,7 @@ Bölgenin çevresel ilişkileri, Top Tepe'nin coğrafi önemini vurguluyor. Dağ
 
 Top Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, alpin flora ve dağ hayvanları ile zengin bir ekosistem sunuyor.
 
-Bitki Örtüsü olarak, ilkbahar aylarında çiçeklerin rengarenk görüntüsüyle karşılaşıyoruz. Bu renk cümbüşü, step ve ova ekolojisinin bir sonucu olarak ortaya çıkıyor. Sonbaharda ise kuraklık nedeniyle bitkiler daha az görülür hale geliyor. 
+Bitki Örtüsü olarak, ilkbahar aylarında çiçeklerin rengarenk görüntüsüyle karşılaşıyoruz. Bu renk cümbüşü, step ve ova ekolojisinin bir sonucu olarak ortaya çıkıyor. Sonbaharda ise kuraklık nedeniyle bitkiler daha az görülür hale geliyor.
 
 Yaban Hayatı bakımından, memeliler ve kuşlar bu dağ ekosisteminin önemli parçaları. Göç eden kuşlar, sonbahar aylarında bu bölgeyi ziyaret ediyor. Sürüngenler de bu ekosistemin bir parçası olarak bulunuyor.
 

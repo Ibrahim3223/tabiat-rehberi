@@ -29,7 +29,7 @@ wikidata_id: "Q31385457"
 
 # Seyircik Dağı
 
-Seyircik Dağı, İç Anadolu Bölgesi'nin merkezinde yer alan bir doğa harikası. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarıyla karşılar. Dağın eteklerinde established olan köyler, geleneksel mimari örnekleri sunarken, dağın zirvesine tırmanmak ise ziyaretçilere benzersiz bir deneyim sunar. Seyircik Dağı, doğa severler ve macera aşığılar için bir cennet olarak kabul edilebilir.
+Seyircik Dağı, İç Anadolu Bölgesi'nin merkezinde yer alan bir doğa harikası. Dağın eteklerinde established olan köyler, geleneksel mimari örnekleri sunarken, dağın zirvesine tırmanmak ise ziyaretçilere benzersiz bir deneyim sunar. Seyircik Dağı, doğa severler ve macera aşığılar için bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 

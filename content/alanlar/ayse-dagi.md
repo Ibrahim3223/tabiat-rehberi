@@ -48,7 +48,7 @@ Jeolojik açıdan bakıldığında, Ayşe Dağı'nın oluşumu ve yapısı hakk�
 
 ## Flora ve Fauna
 
-Ayşe Dağı, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanır. Çayırlar, yükseklik zonlarına göre değişen bitki türleriyle bezelidir. Dağın yüksek kesimlerinde, endemik türler bulunur. 
+Ayşe Dağı, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanır. Çayırlar, yükseklik zonlarına göre değişen bitki türleriyle bezelidir. Dağın yüksek kesimlerinde, endemik türler bulunur.
 
 Yaban hayatı da bir o kadar zengin. Dağ keçileri, kurtlar ve ayılar, bu dağların yerli halkıdır. Kuşlar, özellikle göç mevsiminde, dağların gökyüzünü süsler. Sürüngenler, kayaların arasına gizlenir. Ekolojik değer olarak, Ayşe Dağı, bölge için kritik bir su kaynağı ve habitat olarak önemlidir. Ancak, koruma durumu endişe vericidir. İnsan faaliyetleri, bu hassas ekosistemi tehdit etmektedir.
 

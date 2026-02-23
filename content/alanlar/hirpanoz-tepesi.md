@@ -28,11 +28,11 @@ wikidata_id: "Q31548068"
 
 # Hirpanoz Tepesi
 
-Hirpanoz Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile belangırları ve tarihi geçmişi ile dikkat çekiyor. Hirpanoz Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin yüksekliği ve konumu, bölgenin coğrafi yapısını şekillendirmiş. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Hirpanoz Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile belangırları ve tarihi geçmişi ile dikkat çekiyor. Tepenin yüksekliği ve konumu, bölgenin coğrafi yapısını şekillendirmiş. Bu tepe, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
-Hirpanoz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, histórik dönemlerde önemli bir yerleşim yeri olarak kullanılmış. Tepenin etrafında yer alan kalıntılar, bölgenin zengin tarihsel mirasını yansıtıyor. Hirpanoz Tepesi, tarih öncesi dönemlerden itibaren yerleşim alanı olarak kullanılmış. Tepenin tarihi önemi'ı, bölgenin kültürel ve tarihi değerlerini anlamak için önemli bir kaynak. Hirpanoz Tepesi'nin tarihi, bölgenin diğer tarihi mekanları ile sammenlik gösteriyor.
+Hirpanoz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe, tarihi dönemlerde önemli bir yerleşim yeri olarak kullanılmış. Tepenin etrafında yer alan kalıntılar, bölgenin zengin tarihsel mirasını yansıtıyor. Hirpanoz Tepesi, tarih öncesi dönemlerden itibaren yerleşim alanı olarak kullanılmış. Tepenin tarihi önemi'ı, bölgenin kültürel ve tarihi değerlerini anlamak için önemli bir kaynak. Hirpanoz Tepesi'nin tarihi, bölgenin diğer tarihi mekanları ile sammenlik gösteriyor.
 
 ## Coğrafya
 

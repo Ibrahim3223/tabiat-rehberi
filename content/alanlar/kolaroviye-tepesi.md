@@ -28,7 +28,7 @@ wikidata_id: "Q31541425"
 
 # Kolaroviye Tepesi
 
-Kolaroviye Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biri olarak Diyarbakır'da yer alır. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kapsar. Tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbeden Kolaroviye Tepesi, régionün en çok ziyaret edilen yerlerinden biridir. Tepenin eteklerinde bulunan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar. Kolaroviye Tepesi, doğa severler ve tarih meraklıları için ideal bir destinasyondur.
+Kolaroviye Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biri olarak Diyarbakır'da yer alır. Tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbeden Kolaroviye Tepesi, bölgeün en çok ziyaret edilen yerlerinden biridir. Tepenin eteklerinde bulunan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar. Kolaroviye Tepesi, doğa severler ve tarih meraklıları için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Kolaroviye Tepesi'nin tarihi geçmişi, bölgeye ilk yerleşimlerin başladığ�
 
 ## Coğrafya
 
-Kolaroviye Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak Diyarbakır'da yer alır. Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Kolaroviye Tepesi'nin eteklerinde, köyler ve tarım arazileri bulunur. Tepenin zirvesinden, bölgeye hakim bir manzara izlenerek, çevrenin güzelliği takdir edilebilir. Coğrafi konumu ve doğal güzellikleri ile Kolaroviye Tepesi, ziyaretçilere bölgeyi keşfetme fırsatı sunar. Tepenin coğrafi yapısı, bölgenin jeolojik geçmişini de yansıtan bir yapıya sahiptir.
+Kolaroviye Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak Diyarbakır'da yer alır. Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Kolaroviye Tepesi'nin eteklerinde, köyler ve tarım arazileri bulunur. Tepenin zirvesinden, bölgeye hakim bir manzara izlenerek, çevrenin güzelliği takdir edilebilir. Coğrafi konumu ve doğal güzellikleri ile Kolaroviye Tepesi, ziyaretçilere bölgeyi keşfetme fırsatı sunar. Tepenin coğrafi yapısı, bölgenin jeolojik geçmişini de yansıtan bir yapıya sahiptir.
 
 ## Flora ve Fauna
 
-Kolaroviye Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölge, mevsimsel değişimlere göre farklı bitki örtüsüne ev sahipliği yapar. Tepenin eteklerinde, tarım arazileri ve köyler bulunur. Bu tarım arazileri, bölgenin ekonomisine katkıda bulunur. Kolaroviye Tepesi'nin fauna yapısı, bölgenin ekolojik dengesini korur. Tepede, çeşitli hayvan türleri yaşar ve bu hayvanlar, bölgenin biyolojik çeşitliliğini sağlar. Mevsimsel değişimler, bölgenin flora ve faunasını etkiler ve her mevsim, farklı bir güzelliği ziyaretçilere sunar.
+ Bölge, mevsimsel değişimlere göre farklı bitki örtüsüne ev sahipliği yapar. Tepenin eteklerinde, tarım arazileri ve köyler bulunur. Bu tarım arazileri, bölgenin ekonomisine katkıda bulunur. Kolaroviye Tepesi'nin fauna yapısı, bölgenin ekolojik dengesini korur. Tepede, çeşitli hayvan türleri yaşar ve bu hayvanlar, bölgenin biyolojik çeşitliliğini sağlar. Mevsimsel değişimler, bölgenin flora ve faunasını etkiler ve her mevsim, farklı bir güzelliği ziyaretçilere sunar.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Kolaroviye Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için 
 
 - Kolaroviye Tepesi, Diyarbakır'ın en önemli tarihi ve doğal güzelliklerinden biridir.
 - Tepenin eteklerinde, tarım arazileri ve köyler bulunur.
-- Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Kolaroviye Tepesi, ziyaretçilere bölge hakkında derinlemesine bilgi edinme fırsatı sunar.
 - Tepenin tarihi geçmişi, bölgeye ilk yerleşimlerin başladığı dönemlere kadar uzanır.

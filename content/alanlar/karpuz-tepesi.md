@@ -28,7 +28,7 @@ wikidata_id: "Q31390086"
 
 # Karpuz Tepesi
 
-Karpuz Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kırıkkale şehrinde yer alan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Karpuz Tepesi, ziyaretçilerine geniş ve yeşillik bir alan sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Karpuz Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi.
+Karpuz Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kırıkkale şehrinde yer alan bir doğa harikası. Karpuz Tepesi, ziyaretçilerine geniş ve yeşillik bir alan sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Karpuz Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi.
 
 ## Tarihçe
 

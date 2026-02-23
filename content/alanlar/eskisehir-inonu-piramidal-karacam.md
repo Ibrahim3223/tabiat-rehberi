@@ -22,7 +22,7 @@ wikidata_id: "Q108227965"
 
 # Eskişehir-Inonu Piramidal Karacam
 
-Eskişehir-Inonu Piramidal Karacam milli parkı, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğanın tüm güzelliğini bir arada sunuyor. Burada, doğanın seslerini dinlerken, yaban hayatının çeşitliliğini keşfedebilir ve aynı zamanda bölgeye özgü bitki türlerini görebilirsiniz. İnönü Piramidal Karacam, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak dikkat çekiyor.
+Eskişehir-Inonu Piramidal Karacam milli parkı, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Burada, doğanın seslerini dinlerken, yaban hayatının çeşitliliğini keşfedebilir ve aynı zamanda bölgeye özgü bitki türlerini görebilirsiniz. İnönü Piramidal Karacam, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Eskişehir-Inonu Piramidal Karacam milli parkı, İç Anadolu Bölgesi'nin güzi
 ## İlginç Bilgiler
 
 - İnönü Piramidal Karacam, Eskişehir'in en önemli doğal alanlarından biri olarak biliniyor.
-- Park, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölgede, çeşitli bitki türleri ve yaban hayatı bulunmakta.
 - Parkın coğrafi konumu, doğal güzelliklerin yanı sıra, bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunuyor.
 - Ziyaretçiler, parkın doğal güzelliklerini keşfedebilir, yürüyüş yapabilir ve aynı zamanda bölgeye özgü bitki ve hayvan türleri hakkında bilgi edinebilirler.

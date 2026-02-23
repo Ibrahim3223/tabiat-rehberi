@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Ahmed Türbesi"
 date: "2026-01-10T05:09:51.899Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391600"
 
 # Şeyh Ahmed Türbesi
 
-Şeyh Ahmed Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Bu bölgede, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkıyor. Şeyh Ahmed Türbesi, ziyaretçilerini hem tarihi açıdan hem de doğal güzellikleri ile cezbediyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Şeyh Ahmed Türbesi, İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor.
+Şeyh Ahmed Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Şeyh Ahmed Türbesi, ziyaretçilerini hem tarihi açıdan hem de doğal güzellikleri ile cezbediyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Şeyh Ahmed Türbesi, İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülüyor.
 
 ## Tarihçe
 

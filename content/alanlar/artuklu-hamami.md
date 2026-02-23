@@ -1,7 +1,7 @@
 ---
 title: "Artuklu Hamamı"
 date: "2026-01-09T22:23:17.748Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Batman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738455"
 
 # Artuklu Hamamı
 
-Güneydoğu Anadolu Bölgesi'nin zengin tarihine ışık tutan Artuklu Hamamı, Hasankeyf'in merkezinde yer alır. Bu tarihi yapı, yaklaşık 140 hektarlık bir alanda, Hasankeyf'in yerleşim merkezine yakın bir konumda bulunmaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplar. Artuklu Hamamı, tarihi ve mimari özellikleri ile dikkat çekici bir yapıdır. Hasankeyf'in önemli turistik noktalarından biri olan bu hamam, ziyaretçilerini tarihin derinliklerine götürmektedir.
+Güneydoğu Anadolu Bölgesi'nin zengin tarihine ışık tutan Artuklu Hamamı, Hasankeyf'in merkezinde yer alır. Bu tarihi yapı, yaklaşık 140 hektarlık bir alanda, Hasankeyf'in yerleşim merkezine yakın bir konumda bulunmaktadır. Artuklu Hamamı, tarihi ve mimari özellikleri ile dikkat çekici bir yapıdır. Hasankeyf'in önemli turistik noktalarından biri olan bu hamam, ziyaretçilerini tarihin derinliklerine götürmektedir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Sakarya-Izmit-Kerpe-Sahilcami"
 date: "2026-01-09T20:14:29.744Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Sakarya"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228517"
 
 # Sakarya-Izmit-Kerpe-Sahilcami
 
-Sakarya-Izmit-Kerpe-Sahilcami milli parkı, Marmara Bölgesi'nin saklı cennetlerinden biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Park, Sakarya ilinin Izmit ilçesine bağlı Kerpe ve Sahilcami köyleri arasında yer alıyor. Bu milli park, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Yemyeşil ormanları, renkli çiçekleri, çeşitli bitki türleri ve zengin fauna yapısıyla bu alan, doğa severler için bir cennet olarak tanımlanıyor.
+Sakarya-Izmit-Kerpe-Sahilcami milli parkı, Marmara Bölgesi'nin saklı cennetlerinden biri olarak karşımıza çıkıyor. Park, Sakarya ilinin Izmit ilçesine bağlı Kerpe ve Sahilcami köyleri arasında yer alıyor. Bu milli park, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Yemyeşil ormanları, renkli çiçekleri, çeşitli bitki türleri ve zengin fauna yapısıyla bu alan, doğa severler için bir cennet olarak tanımlanıyor.
 
 ## Tarihçe
 

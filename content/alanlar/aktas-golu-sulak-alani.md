@@ -22,7 +22,7 @@ wikidata_id: "Q108228875"
 
 # Aktaş Gölü Sulak Alanı
 
-Aktaş Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, zengin fauna ve flora çeşitliliği ile bekannt. Bu sulak alan, aynı zamanda birçok kuş türünün yuvalanma ve beslenme alanı olarak hizmet ediyor. Gölün etrafında bulunan tarım arazileri ve doğal bitki örtüsü, bu bölgeyi daha da özel kılıyor. Aktaş Gölü Sulak Alanı, hem doğa severler hem de bilim insanları için önemli bir araştırma ve gözlem alanı olarak kabul ediliyor.
+Aktaş Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu sulak alan, aynı zamanda birçok kuş türünün yuvalanma ve beslenme alanı olarak hizmet ediyor. Gölün etrafında bulunan tarım arazileri ve doğal bitki örtüsü, bu bölgeyi daha da özel kılıyor. Aktaş Gölü Sulak Alanı, hem doğa severler hem de bilim insanları için önemli bir araştırma ve gözlem alanı olarak kabul ediliyor.
 
 ## Tarihçe
 

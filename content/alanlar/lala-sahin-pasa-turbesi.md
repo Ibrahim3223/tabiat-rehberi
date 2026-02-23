@@ -1,7 +1,7 @@
 ---
 title: "Lala Şahin Paşa Türbesi"
 date: "2026-01-10T07:40:25.735Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391269"
 
 # Lala Şahin Paşa Türbesi
 
-Lala Şahin Paşa Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel değerlerinden biri olarak Mustafakemalpaşa'da yer alıyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunuyor. Bu tarihi mekan, yüzyıllar boyunca farklı kültürlerin etkisi altında kalmış ve bu nedenle ziyaretçilerine zengin bir tarih sunuyor. Lala Şahin Paşa Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Lala Şahin Paşa Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel değerlerinden biri olarak Mustafakemalpaşa'da yer alıyor. Bu tarihi mekan, yüzyıllar boyunca farklı kültürlerin etkisi altında kalmış ve bu nedenle ziyaretçilerine zengin bir tarih sunuyor. Lala Şahin Paşa Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

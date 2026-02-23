@@ -1,7 +1,7 @@
 ---
 title: "Ebu Şeybe El-Hudri Türbesi"
 date: "2026-01-10T05:53:42.511Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

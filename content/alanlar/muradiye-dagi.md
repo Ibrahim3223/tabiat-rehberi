@@ -45,11 +45,11 @@ Jeolojik açıdan bakıldığında, Muradiye Dağı'nın oluşumu ve yapısı ha
 
 İklim açısından Muradiye Dağı, Van'ın karasal ikliminin etkilerini taşıyor. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve kar yağışlı passes. Bu mevsimsel değişiklikler, Muradiye Dağı'nın ekosistemini ve bitki örtüsünü şekillendiriyor. Dağın yüksek kesimlerinde, karların erimesi ve yağmurun etkisiyle formedilen akarsular, bölgenin su kaynaklarını besliyor.
 
-Çevresel açıdan bakıldığında, Muradiye Dağı, Van Gölü'nün kuzeydoğusunda yer alıyor ve bu önemli su kaynağına yakın mesafede bulunuyor. Dağın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşadığından, ekosistem bağlantıları oldukça önemli. Muradiye Dağı, Van'ın doğal güzelliklerini koruma altına alma ve bölgenin ekolojik dengesini korumak açısından kritik bir role sahip.
+Çevresel açıdan bakıldığında, Muradiye Dağı, Van Gölü'nün kuzeydoğusunda yer alıyor ve bu önemli su kaynağına yakın mesafede bulunuyor. Dağın eteklerinde ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşadığından, ekosistem bağlantıları oldukça önemli.
 
 ## Flora ve Fauna
 
-Muradiye Dağı, Van'ın yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Muradiye Dağı, Van'ın yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bakımından, ilkbaharda çiçek açan çeşitli türler görülebilir. Bu dönemde dağ yamaçları, rengarenk bir hal alır. Sonbaharda ise, yaprak döken ağaçlar sarı, turuncu ve kırmızı renklerle dağ manzarasına renk katar. Alpin flora, dağların yükseklik zonlarına uygun olarak değişir.
 

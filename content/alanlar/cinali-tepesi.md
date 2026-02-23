@@ -28,7 +28,7 @@ wikidata_id: "Q31390580"
 
 # Cinali Tepesi
 
-Cinali Tepesi, İç Anadolu Bölgesi'nin kalbinde, Nevşehir'in sınırları içinde yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Cinali Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Tepenin eteklerinde yeşillikler hüküm sürerken, tepenin zirvesinden ise çevreyi gören muhteşem bir manzara sunuyor. Bu alan, hem doğa severler hem de tarih meraklıları için bir hazine.
+Cinali Tepesi, İç Anadolu Bölgesi'nin kalbinde, Nevşehir'in sınırları içinde yer alıyor. Cinali Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Tepenin eteklerinde yeşillikler hüküm sürerken, tepenin zirvesinden ise çevreyi gören muhteşem bir manzara sunuyor. Bu alan, hem doğa severler hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 

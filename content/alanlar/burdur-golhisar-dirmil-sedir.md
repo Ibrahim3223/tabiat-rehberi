@@ -1,7 +1,7 @@
 ---
 title: "Burdur-Golhisar-Dirmil Sedir"
 date: "2026-01-09T19:44:09.131Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Burdur"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227212"
 
 # Burdur-Golhisar-Dirmil Sedir
 
-Burdur-Golhisar-Dirmil Sedir milli parkı, Akdeniz Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın kucağına davet ediyor. Sedir ağaçları ile çevrili bu milli park, hem doğa severler hem de tarih meraklıları için bir hazine niteliğinde. Burdur-Golhisar-Dirmil Sedir milli parkına gitmek, bu doğal güzelliği yakından tanıma ve tarihini keşfetmek için bir fırsat olacak.
+Burdur-Golhisar-Dirmil Sedir milli parkı, Akdeniz Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. Sedir ağaçları ile çevrili bu milli park, hem doğa severler hem de tarih meraklıları için bir hazine niteliğinde. Burdur-Golhisar-Dirmil Sedir milli parkına gitmek, bu doğal güzelliği yakından tanıma ve tarihini keşfetmek için bir fırsat olacak.
 
 ## Tarihçe
 

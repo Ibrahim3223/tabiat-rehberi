@@ -28,7 +28,7 @@ wikidata_id: "Q32138453"
 
 # Göldağı Tepe
 
-Göldağı Tepe, Bilecik ilinin sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çeker. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzellikleri arasında önemli bir yer tutar. Göldağı Tepe, ziyaretçilerini doğayla baş başa bırakarak dinlenme ve huzur bulmak isteyenler için ideal bir destinasyon olarak görülür. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak isteyenler için de önemli bir gözlem noktasıdır.
+Göldağı Tepe, Bilecik ilinin sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli coğrafi oluşumlarından biri olarak dikkat çeker. Göldağı Tepe, ziyaretçilerini doğayla baş başa bırakarak dinlenme ve huzur bulmak isteyenler için ideal bir destinasyon olarak görülür. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak isteyenler için de önemli bir gözlem noktasıdır.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Göldağı Tepe, Bilecik ilinin coğrafi yapısını temsil eden önemli bir nok
 
 ## Flora ve Fauna
 
-Göldağı Tepe, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu 140 hektarlık yeşil alan, çeşitli bitki türlerini barındırır. Mevsimsel değişimler, bu tepenin güzelliğini daha da artırır. İlkbahar ve yaz aylarında çiçeklerin açması, sonbaharda yaprakların renklenmesi, kışın karla kaplanması, her mevsim ziyaretçilere farklı bir güzellik sunar. Tepenin florası, bölgenin iklimine uygun olarak gelişmiştir ve ziyaretçilere doğanın renk paletini gösterir. Fauna açısından da zengin olan Göldağı Tepe, verschilli hayvan türlerine ev sahipliği yapar. Bu tepe, bölgenin ekolojik dengesini korumak açısından önemli bir role sahiptir.
+Göldağı Tepe, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu 140 hektarlık yeşil alan, çeşitli bitki türlerini barındırır. Mevsimsel değişimler, bu tepenin güzelliğini daha da artırır. İlkbahar ve yaz aylarında çiçeklerin açması, sonbaharda yaprakların renklenmesi, kışın karla kaplanması, her mevsim ziyaretçilere farklı bir güzellik sunar. Tepenin florası, bölgenin iklimine uygun olarak gelişmiştir ve ziyaretçilere doğanın renk paletini gösterir. Fauna açısından da zengin olan Göldağı Tepe, verschilli hayvan türlerine ev sahipliği yapar.
 
 ## Ziyaret Bilgileri
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228806"
 
 # Ankara Kara Akbaba YHGS
 
-Ankara Kara Akbaba YHGS, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu bölgede, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna çeşitliliği sunuyor. Ziyaretçiler, bu doğal güzellikleri keşfetmek için yılın her dönemi gelebilir, ancak en iyi deneyim için bahar ve yaz ayları öneriliyor. Bu dönemde, flora ve fauna en aktif hallerini gösteriyor.
+Ankara Kara Akbaba YHGS, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Ziyaretçiler, bu doğal güzellikleri keşfetmek için yılın her dönemi gelebilir, ancak en iyi deneyim için bahar ve yaz ayları öneriliyor. Bu dönemde, flora ve fauna en aktif hallerini gösteriyor.
 
 ## Tarihçe
 

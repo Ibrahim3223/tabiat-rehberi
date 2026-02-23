@@ -1,7 +1,7 @@
 ---
 title: "Rüstem Paşa Türbesi"
 date: "2026-01-10T07:49:43.268Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391100"
 
 # Rüstem Paşa Türbesi
 
-Rüstem Paşa Türbesi, İstanbul'un tarihi ilçesi Fatih'te bulunan bir türbedir. 140 hektarlık bir alanda yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Rüstem Paşa Türbesi, Osmanlı Dönemi'nde inşa edilmiş tarihi bir yapıdır. Türbenin mimarisi, o dönemdeki Osmanlı mimari tarzının özelliklerini taşır. Rüstem Paşa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Rüstem Paşa Türbesi, İstanbul'un tarihi ilçesi Fatih'te bulunan bir türbedir. Rüstem Paşa Türbesi, Osmanlı Dönemi'nde inşa edilmiş tarihi bir yapıdır. Türbenin mimarisi, o dönemdeki Osmanlı mimari tarzının özelliklerini taşır. Rüstem Paşa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Rüstem Paşa Türbesi, 16. yüzyılda inşa edilmiştir. Rüstem Paşa, Osmanl�
 
 ## Coğrafya
 
-Rüstem Paşa Türbesi, İstanbul'un tarihi ilçesi Fatih'te bulunan bir türbedir. Türbe, 140 hektarlık bir alanda yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Rüstem Paşa Türbesi, İstanbul'un merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Türbenin yakınında, çeşitli tarihi ve kültürel yapılar bulunmaktadır. Rüstem Paşa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Türbenin çevresi, tarihi ve kültürel yapılarla dolu bir bölgedir. Rüstem Paşa Türbesi, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle ılıman bir iklimi sahiptir. Rüstem Paşa Türbesi, İstanbul'un merkezi bir bölgesinde yer aldığı için, ulaşımı kolaydır. Türbenin yakınında, çeşitli ulaşım araçları bulunmaktadır.
+Rüstem Paşa Türbesi, İstanbul'un tarihi ilçesi Fatih'te bulunan bir türbedir. Rüstem Paşa Türbesi, İstanbul'un merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Türbenin yakınında, çeşitli tarihi ve kültürel yapılar bulunmaktadır. Rüstem Paşa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Türbenin çevresi, tarihi ve kültürel yapılarla dolu bir bölgedir. Rüstem Paşa Türbesi, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle ılıman bir iklimi sahiptir. Rüstem Paşa Türbesi, İstanbul'un merkezi bir bölgesinde yer aldığı için, ulaşımı kolaydır. Türbenin yakınında, çeşitli ulaşım araçları bulunmaktadır.
 
 ## Flora ve Fauna
 

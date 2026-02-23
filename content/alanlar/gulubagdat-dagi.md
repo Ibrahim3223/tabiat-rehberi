@@ -52,8 +52,8 @@ Jeolojik açıdan bakıldığında, Gülübağdat Dağı'nın fiziksel yapısı 
 
 Gülübağdat Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Yükseklik zonları, alpin flora ve dağ hayvanlarıyla birlikte, bu dağ ekosistemi benzersiz bir güzelliğe sahip.
 
-Bitki Örtüsü: İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanıyor. Yaz aylarında, yüksek yerlerde yetişen özel bitkiler, bu bölgenin endemik türlerine ev sahipliği yapıyor. 
-Yaban Hayatı: Dağ keçileri, yaban keçileri ve diğer memeliler, bu dağların yüksek kesimlerinde yaşamını sürdürüyor. Kuşlar, özellikle göç mevsimlerinde, bu bölgede önemli bir rol oynuyor. 
+Bitki Örtüsü: İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanıyor. Yaz aylarında, yüksek yerlerde yetişen özel bitkiler, bu bölgenin endemik türlerine ev sahipliği yapıyor.
+Yaban Hayatı: Dağ keçileri, yaban keçileri ve diğer memeliler, bu dağların yüksek kesimlerinde yaşamını sürdürüyor. Kuşlar, özellikle göç mevsimlerinde, bu bölgede önemli bir rol oynuyor.
 Ekolojik Değer: Bu yüksek dağ ekosistemi, bölgenin su döngüsünü ve hava kalitesini düzenliyor. Ayrıca, birçok endemik türe ev sahipliği yapıyor. Bu nedenle, koruma altına alınması ve doğal dengesinin korunması büyük önem taşıyor.
 
 ## Ziyaret Bilgileri

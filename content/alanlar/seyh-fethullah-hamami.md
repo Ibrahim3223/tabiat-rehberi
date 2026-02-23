@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Fethullah Hamamı"
 date: "2026-01-09T22:34:50.582Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738679"
 
 # Şeyh Fethullah Hamamı
 
-Şeyh Fethullah Hamamı, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklüğü ile yaklaşık 200 futbol sahası büyüklüğüne eşittir. Güneydoğu Anadolu Bölgesi'nin en güzel plajlarından biri olan bu mekan, Şahinbey/Gaziantep'te yer alır ve ziyaretçilerini güneşin, denizin ve kumsalın keyfini çıkarmaya davet eder. Burada, deniz suyu ile serinleyerek güneşin tadını çıkarabilir, çevredeki peyzajın güzelliğini keşfedebilirsiniz. Şeyh Fethullah Hamamı, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel zenginliği ile de dikkat çekmektedir.
+ Güneydoğu Anadolu Bölgesi'nin en güzel plajlarından biri olan bu mekan, Şahinbey/Gaziantep'te yer alır ve ziyaretçilerini güneşin, denizin ve kumsalın keyfini çıkarmaya davet eder. Burada, deniz suyu ile serinleyerek güneşin tadını çıkarabilir, çevredeki peyzajın güzelliğini keşfedebilirsiniz. Şeyh Fethullah Hamamı, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel zenginliği ile de dikkat çekmektedir.
 
 ## Tarihçe
 

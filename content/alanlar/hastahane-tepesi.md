@@ -28,7 +28,7 @@ wikidata_id: "Q31386459"
 
 # Hastahane Tepesi
 
-Hastahane Tepesi, Hatay ilinin coğrafi zenginliklerinden biri olarak dikkat çeker. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak karşımıza çıkar. Doğal güzelliği ve coğrafi konumuyla birlikte, bu tepe ziyaretçilerini etkileyen bir yerdir. İnsanlar buraya gelerek hem doğayı hem de tarihi geçmişi hakkında bilgi sahibi olabilirler. Hastahane Tepesi, Hatay'ın önemli turizm noktalarından biri olarak kabul edilir ve her yıl birçok ziyaretçi tarafından ziyaret edilir.
+Hastahane Tepesi, Hatay ilinin coğrafi zenginliklerinden biri olarak dikkat çeker. Doğal güzelliği ve coğrafi konumuyla birlikte, bu tepe ziyaretçilerini etkileyen bir yerdir. İnsanlar buraya gelerek hem doğayı hem de tarihi geçmişi hakkında bilgi sahibi olabilirler. Hastahane Tepesi, Hatay'ın önemli turizm noktalarından biri olarak kabul edilir ve her yıl birçok ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Hastahane Tepesi, Hatay ilinin coğrafi yapısını şekillendiren önemli bir o
 
 ## Flora ve Fauna
 
-Hastahane Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak karşımıza çıkar ve bu alan, çeşitli bitkilerin yetişmesine olanak tanır. Tepenin etrafında bulunan bitkiler, tepe'nin doğal güzelliğini artırır ve bu bitkiler, tepe'nin fauna'sını da etkiler. Hastahane Tepesi, Akdeniz Bölgesi'nin karakteristik iklimini taşır ve bu iklim, tepe'nin flora ve fauna'sını şekillendiren önemli bir faktördür. Bu tepe, ziyaretçilerine zengin bir doğa deneyimi sunar ve ziyaretçileri, bu tepe'nin doğal güzelliğini edebilir.
+ Tepenin etrafında bulunan bitkiler, tepe'nin doğal güzelliğini artırır ve bu bitkiler, tepe'nin fauna'sını da etkiler. Hastahane Tepesi, Akdeniz Bölgesi'nin karakteristik iklimini taşır ve bu iklim, tepe'nin flora ve fauna'sını şekillendiren önemli bir faktördür. Bu tepe, ziyaretçilerine zengin bir doğa deneyimi sunar ve ziyaretçileri, bu tepe'nin doğal güzelliğini edebilir.
 
 ## Ziyaret Bilgileri
 

@@ -50,11 +50,11 @@ Doğal kaynaklar ve ekosistem bağlantıları, Yarpuz Dağı'nın çevresel ili�
 
 ## Flora ve Fauna
 
-Yarpuz Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak maki bitki örtüsüne ev sahipliği yapar. 1200 hektarlık bu dağlık alan, kuraklığa dayanıklı türlerin yaşam alanıdır. İlkbaharın gelmesi ile birlikte, dağ yamaçları rengarenk çiçeklerle donanır. 
+Yarpuz Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak maki bitki örtüsüne ev sahipliği yapar. 1200 hektarlık bu dağlık alan, kuraklığa dayanıklı türlerin yaşam alanıdır. İlkbaharın gelmesi ile birlikte, dağ yamaçları rengarenk çiçeklerle donanır.
 
-Dağ ekosisteminin yükseklik zonları, alpin flora için uygun bir ortam sunar. Bu bölgede, çam ve sedir ağaçlarının yanı sıra, kuraklığa dayanıklı maki türleri de bulunur. 
+Dağ ekosisteminin yükseklik zonları, alpin flora için uygun bir ortam sunar. Bu bölgede, çam ve sedir ağaçlarının yanı sıra, kuraklığa dayanıklı maki türleri de bulunur.
 
-Yaban hayatı açısından zengin olan Yarpuz Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Kış aylarında, göçmen kuşlar bu dağlık alanı ziyaret eder. Sürüngenler ve diğer küçük hayvanlar da bu ekosistemin bir parçasıdır. 
+Yaban hayatı açısından zengin olan Yarpuz Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Kış aylarında, göçmen kuşlar bu dağlık alanı ziyaret eder. Sürüngenler ve diğer küçük hayvanlar da bu ekosistemin bir parçasıdır.
 
 Yarpuz Dağı, ekolojik değer açısından önemli bir alandır. Bu bölgenin korunması, bölgedeki canlıların yaşamını sürdürmesi için çok önemlidir.
 

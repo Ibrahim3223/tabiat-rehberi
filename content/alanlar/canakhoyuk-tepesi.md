@@ -28,7 +28,7 @@ wikidata_id: "Q34828280"
 
 # Çanakhöyük Tepesi
 
-Çanakhöyük Tepesi, Yozgat ilinin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Tepenin etrafı yaklaşık 140 hektarlık bir yeşil alanla çevrili ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Çanakhöyük Tepesi, hem tarihi hem de natural güzelliği ile ziyaretçilerini çekiyor. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilere geniş bir görüş açısı sunuyor. Ayrıca, tepeye çıkan yol boyunca çeşitli bitki türleri ve hayvanlarla karşılaşma mümkün.
+Çanakhöyük Tepesi, Yozgat ilinin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Çanakhöyük Tepesi, hem tarihi hem de natural güzelliği ile ziyaretçilerini çekiyor. Tepenin yüksekliği ve çevresindeki manzara, ziyaretçilere geniş bir görüş açısı sunuyor. Ayrıca, tepeye çıkan yol boyunca çeşitli bitki türleri ve hayvanlarla karşılaşma mümkün.
 
 ## Tarihçe
 

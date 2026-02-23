@@ -1,7 +1,7 @@
 ---
 title: "Ragıp Mehmet Paşa Türbesi"
 date: "2026-01-10T07:47:09.877Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391172"
 
 # Ragıp Mehmet Paşa Türbesi
 
-Ragıp Mehmet Paşa Türbesi, İstanbul'un tarihi mekanlarından biri olarak dikkat çekiyor. Fatih ilçesinde yer alan bu türbe, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak kabul ediliyor. 140 hektarlık bir alanda bulunan Ragıp Mehmet Paşa Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tarihi mekan, ziyaretçilerini İstanbul'un zengin tarihsel geçmişiyle baş başa bırakıyor.
+Ragıp Mehmet Paşa Türbesi, İstanbul'un tarihi mekanlarından biri olarak dikkat çekiyor. Fatih ilçesinde yer alan bu türbe, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak kabul ediliyor. Bu tarihi mekan, ziyaretçilerini İstanbul'un zengin tarihsel geçmişiyle baş başa bırakıyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227129"
 
 # Koca Katran
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Koca Katran, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu büyük yeşil alan, régionun en önemli doğal güzelliklerinden biridir. Koca Katran, ziyaretçilerini doğanın içerisinde bir yolculuğa çıkarır. Bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Koca Katran'ın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir. Bu doğal alan, hem doğa severler hem de bilim insanları için büyük bir ilgi odağıdır.
+ Bu büyük yeşil alan, bölgenin en önemli doğal güzelliklerinden biridir. Koca Katran, ziyaretçilerini doğanın içerisinde bir yolculuğa çıkarır. Bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Koca Katran'ın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir. Bu doğal alan, hem doğa severler hem de bilim insanları için büyük bir ilgi odağıdır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Koca Katran'ın tarihi geçmişi, bölgenin doğal güzelliğini koruma altına 
 
 ## Coğrafya
 
-Koca Katran, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve düz bir alana sahiptir. Bölge, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Koca Katran'ın coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Bölge, çeşitli bitki türleri ve ağaçlarla çevrilidir. Koca Katran'ın etrafı, yüksekli ve eğim açısından farklılıklar gösterir. Bölgenin coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine olanak sağlar. Koca Katran, coğrafi konumu itibariyle, çeşitli mevsimlerde farklı güzellikler sunar. İlkbahar ve sonbahar aylarında, bölgeye özgü bitki türleri ve ağaçlar, renkli bir manzara oluşturur.
+Koca Katran, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ve düz bir alana sahiptir. Koca Katran'ın coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Bölge, çeşitli bitki türleri ve ağaçlarla çevrilidir. Koca Katran'ın etrafı, yüksekli ve eğim açısından farklılıklar gösterir. Bölgenin coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine olanak sağlar. Koca Katran, coğrafi konumu itibariyle, çeşitli mevsimlerde farklı güzellikler sunar. İlkbahar ve sonbahar aylarında, bölgeye özgü bitki türleri ve ağaçlar, renkli bir manzara oluşturur.
 
 ## Flora ve Fauna
 

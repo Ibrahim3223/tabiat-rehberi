@@ -32,7 +32,7 @@ Tokat'ın dağlık bölgesinde yer alan Köroğlu Dağı, coğrafi zenginliklere
 
 ## Tarihçe
 
-Tokat bölgesinin tarihi, binlerce yıl öncesine uzanmaktadır. Bu bölge, tarihin çeşitli dönemlerinde Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmıştır. Köroğlu Dağı, bu zengin tarihsel mirasın bir parçasıdır. 
+Tokat bölgesinin tarihi, binlerce yıl öncesine uzanmaktadır. Bu bölge, tarihin çeşitli dönemlerinde Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmıştır. Köroğlu Dağı, bu zengin tarihsel mirasın bir parçasıdır.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bu bölgelerde yaygın olarak yapılan faaliyetlerdir. İnsanların bu doğal alanlarla kurdukları ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşır. Ticaret yolları ve yerleşim yerleri, souvent bu doğal güzelliklerin etrafında oluşmuştur.
 

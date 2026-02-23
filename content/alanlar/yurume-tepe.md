@@ -28,7 +28,7 @@ wikidata_id: "Q32196247"
 
 # Yürüme Tepe
 
-Yürüme Tepe, Adıyaman ilinin güneydoğu kısmında yer alan bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Yürüme Tepe, bulunduğu bölgenin coğrafi yapısını ve doğal güzelliklerini gözler önüne sermekte ve ziyaretçilerini etkileyici manzaralarıyla karşılamaktadır. Tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak ele alınabilir ve bu bölgenin jeolojik histórisi hakkında önemli bilgiler sunmaktadır. Yürüme Tepe, aynı zamanda flora ve fauna açısından zengin bir alana sahiptir ve çeşitli bitki türleri ile hayvanların yaşam alanı olarak görev yapmaktadır.
+Yürüme Tepe, Adıyaman ilinin güneydoğu kısmında yer alan bir tepe olarak dikkat çekmektedir. Yürüme Tepe, bulunduğu bölgenin coğrafi yapısını ve doğal güzelliklerini gözler önüne sermekte ve ziyaretçilerini etkileyici manzaralarıyla karşılamaktadır. Tepe, çevresindeki diğer tepelerle birlikte bir bütün olarak ele alınabilir ve bu bölgenin jeolojik tarihi hakkında önemli bilgiler sunmaktadır. Yürüme Tepe, aynı zamanda flora ve fauna açısından zengin bir alana sahiptir ve çeşitli bitki türleri ile hayvanların yaşam alanı olarak görev yapmaktadır.
 
 ## Tarihçe
 

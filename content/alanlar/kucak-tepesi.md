@@ -28,7 +28,7 @@ wikidata_id: "Q31390716"
 
 # Kucak Tepesi
 
-Kucak Tepesi, Yozgat ilinin İç Anadolu Bölgesi'nde bulunmakta ve yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup ziyaretçilerine geniş ve ferah bir ortam sunmaktadır. Tepenin eteklerinde birbirinden güzel bitkiler ve ağaçlar bulunmakta, ziyaretçilerin doğayla iç içe bir deneyim yaşamasını sağlamaktadır. Kucak Tepesi, aynı zamanda manzarasıyla da dikkat çekmekte ve ziyaretçilerine Yozgat'ın eşsiz güzelliklerini göstermektedir. Burada, güzel bir gün geçirme ve doğanın güzelliğini keşfetme mümkündür.
+Kucak Tepesi, Yozgat ilinin İç Anadolu Bölgesi'nde bulunmakta ve yaklaşık 140 hektarlık bir alanı kaplamaktadır. Tepenin eteklerinde birbirinden güzel bitkiler ve ağaçlar bulunmakta, ziyaretçilerin doğayla iç içe bir deneyim yaşamasını sağlamaktadır. Kucak Tepesi, aynı zamanda manzarasıyla da dikkat çekmekte ve ziyaretçilerine Yozgat'ın eşsiz güzelliklerini göstermektedir. Burada, güzel bir gün geçirme ve doğanın güzelliğini keşfetme mümkündür.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kucak Tepesi, zengin flora ve fauna çeşitliliği ile dikkat çekmekte ve ziyar
 
 ## Ziyaret Bilgileri
 
-Kucak Tepesi'ni ziyaret etmek, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmaktadır. Tepenin manzarası, ziyaretçilere Yozgat'ın eşsiz güzelliğini göstermekte ve buranın doğal güzelliğini artırmaktadır. Kucak Tepesi'ne ulaşım, Yozgat'ın merkezi ile uzun bir mesafe uzaklıkta bulunması nedeniyle kolay olup, ziyaretçilerin buraya rahatça ulaşabilmesini sağlamaktadır. Tepenin etrafında, çeşitli su kaynakları ve akarsular bulunmakta ve buranın ekolojik dengesini güçlendirmektedir. Kucak Tepesi'ni ziyaret etmek, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmakta ve buranın doğal güzelliğini artırmaktadır.
+ Tepenin manzarası, ziyaretçilere Yozgat'ın eşsiz güzelliğini göstermekte ve buranın doğal güzelliğini artırmaktadır. Kucak Tepesi'ne ulaşım, Yozgat'ın merkezi ile uzun bir mesafe uzaklıkta bulunması nedeniyle kolay olup, ziyaretçilerin buraya rahatça ulaşabilmesini sağlamaktadır. Tepenin etrafında, çeşitli su kaynakları ve akarsular bulunmakta ve buranın ekolojik dengesini güçlendirmektedir. Kucak Tepesi'ni ziyaret etmek, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmakta ve buranın doğal güzelliğini artırmaktadır.
 
 ## İlginç Bilgiler
 

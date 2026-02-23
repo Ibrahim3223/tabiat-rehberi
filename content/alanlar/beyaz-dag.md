@@ -41,7 +41,7 @@ Bu tür doğal alanlar, Türkiye'de tarihsel olarak büyük öneme sahiptir. Yay
 
 Doğunun gizli köşelerinden biri olan "Beyaz Dağ", 39.1340°K enlem ve 39.3143°D boylamda yer alıyor. Bu koordinatlar, Tunceli'nin dağlık arazisinde, bölgenin doğal güzelliklerinin arasında bir konumda bulunmasını sağlıyor. Etrafı, yeşilin farklı tonlarıyla kaplı ormanlarla çevrili bu dağ, coğrafi olarak oldukça ilgi çekici bir noktada bulunuyor.
 
-Jeolojik açıdan bakıldığında, "Beyaz Dağ"ın fiziksel yapısı hakkında detaylı bilgi olmasa da, Tunceli'nin genel jeolojik yapısını düşününce, bu bölgenin karmaşık bir jeolojik históriye sahip olduğu anlaşılabilir. Bu dağ, bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve çevresi, farklı jeolojik oluşumların bir araya geldiği bir bölge olarak dikkat çekiyor.
+Jeolojik açıdan bakıldığında, "Beyaz Dağ"ın fiziksel yapısı hakkında detaylı bilgi olmasa da, Tunceli'nin genel jeolojik yapısını düşününce, bu bölgenin karmaşık bir jeolojik tarihi sahip olduğu anlaşılabilir. Bu dağ, bir şehir bloğu büyüklüğünde bir alanı kaplıyor ve çevresi, farklı jeolojik oluşumların bir araya geldiği bir bölge olarak dikkat çekiyor.
 
 Mevsimsel özellikler bakımından, "Beyaz Dağ" ve çevresinin iklimi, karasal ve yüksek rakımlı bir bölgede olması nedeniyle değişkenlik gösteriyor. Kış mevsiminde karla kaplı olan bu dağ, ilkbahar ve yaz aylarında ise yeşilin farklı tonlarına bürünüyor. Hava durumu, mevsime göre değişkenlik gösterse de, genel olarak serin ve nemli bir iklim hakimdir.
 
@@ -49,7 +49,7 @@ Mevsimsel özellikler bakımından, "Beyaz Dağ" ve çevresinin iklimi, karasal 
 
 ## Flora ve Fauna
 
-Beyaz Dağ, Tunceli'nin yüksek dağ ekosistemini barındıran bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, alpin çayırlar renklendirilir ve endemik türlerin çiçekleri açar. 
+Beyaz Dağ, Tunceli'nin yüksek dağ ekosistemini barındıran bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, alpin çayırlar renklendirilir ve endemik türlerin çiçekleri açar.
 
 Bitki örtüsünde hakim türler, dağların yükseklik zonlarına göre çeşitlilik gösterir. Alpin flora, dağların yüksek kesimlerinde görülürken, daha alçak kesimlerde çeşitli otsu bitkiler ve çalı türleri bulunur. Sonbaharda, göç eden kuşlar dağların gökyüzünü süsler.
 

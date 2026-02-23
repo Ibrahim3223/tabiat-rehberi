@@ -23,7 +23,7 @@ wikidata_id: "Q108228782"
 
 # FRİG_VADİSİ_TP
 
-Fríg Vadisi, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir milli parktır. Bu alan, yaban hayatının zengin çeşitliliği ve doğal güzellikleri ile dikkat çekmektedir. Ziyaretçiler, bu muhteşem doğa harikasını keşfetmek için çeşitli etkinliklere katılabilirler. 140 hektarlık bu yeşil alan, hem doğa severler hem de macera arayanlar için ideal bir destinasyondur.
+ Bu alan, yaban hayatının zengin çeşitliliği ve doğal güzellikleri ile dikkat çekmektedir. Ziyaretçiler, bu muhteşem doğa harikasını keşfetmek için çeşitli etkinliklere katılabilirler. 140 hektarlık bu yeşil alan, hem doğa severler hem de macera arayanlar için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Fríg Vadisi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Fríg Vadisi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bu bölge, çeşitli bitki türleri ve hayvan çeşitliliği ile karakterizedir. İklim, mevsimsel değişimlere göre farklılık göstermektedir. Bahar aylarında, flora çeşitliliği en yüksek seviyededir ve ziyaretçilere renkli bir manzara sunar. Kış aylarında, bölge daha sakin ve soğuk olur. Coğrafi olarak, bu milli park, ziyaretçilere farklı mevsimlerde çeşitli deneyimler sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir keşif alanı sağlar.
+Fríg Vadisi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bu bölge, çeşitli bitki türleri ve hayvan çeşitliliği ile karakterizedir. İklim, mevsimsel değişimlere göre farklılık göstermektedir. Bahar aylarında, flora çeşitliliği en yüksek seviyededir ve ziyaretçilere renkli bir manzara sunar. Kış aylarında, bölge daha sakin ve soğuk olur. Coğrafi olarak, bu milli park, ziyaretçilere farklı mevsimlerde çeşitli deneyimler sunar.
 
 ## Flora ve Fauna
 

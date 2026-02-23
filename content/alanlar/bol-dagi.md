@@ -48,10 +48,10 @@ Bol Dağı, Van Gölü ve çevresindeki diğer dağlar ile birlikte bir ekosiste
 
 ## Flora ve Fauna
 
-Bol Dağı, Van'ın yüksek dağ ekolojisinin zenginliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Bol Dağı, Van'ın yüksek dağ ekolojisinin zenginliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki örtüsünde, ilkbaharın gelişiyle birlikte renkli çiçekler patla verirken, sonbaharda sararan yapraklar dağların eteklerini sarar. Yükseklik zonlarına bağlı olarak değişen flora, alpin çayırların karakterini taşır. Dağların yüksek kesimlerinde, çam ve köknar ağaçları hakimdir.
 
-Yaban hayatı, dağ keçileri ve yaban sığırı gibi memelileri, kartallar ve şahinler gibi kuşları, ve çeşitli sürüngenleri barındırır. Bu canlılar, dağların zorlu koşullarına adapte olmuş ve birbirleriyle ekolojik bir denge içinde yaşamaktadırlar. 
+Yaban hayatı, dağ keçileri ve yaban sığırı gibi memelileri, kartallar ve şahinler gibi kuşları, ve çeşitli sürüngenleri barındırır. Bu canlılar, dağların zorlu koşullarına adapte olmuş ve birbirleriyle ekolojik bir denge içinde yaşamaktadırlar.
 Bol Dağı, endemik türlerin varlığı ve yüksek dağ ekosisteminin korunması açısından büyük önem taşır. Bu nedenle, koruma altına alınması ve sürdürülebilir kullanımının sağlanması önemlidir.
 
 ## Ziyaret Bilgileri

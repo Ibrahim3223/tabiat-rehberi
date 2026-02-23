@@ -22,7 +22,7 @@ wikidata_id: "Q108225919"
 
 # Yeni Foça Sit Alanı
 
-Yeni Foça Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal sit alanlarından biridir. Yeni Foça Sit Alanı, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekiyor. 140 hektarlık bu yeşil alan, hem doğa yürüyüşleri hem de yaban hayatı gözlemi için ideal bir ortam sunuyor.
+Yeni Foça Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Yeni Foça Sit Alanı, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekiyor. 140 hektarlık bu yeşil alan, hem doğa yürüyüşleri hem de yaban hayatı gözlemi için ideal bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Yeni Foça Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca oluşmuş zengi
 
 ## Coğrafya
 
-Yeni Foça Sit Alanı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle step ve orman ekosistemlerinin bir karışımından oluşur. İklim, karasal iklim özellikleri gösterir ve dört mevsim belirgin olarak yaşanır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, ziyaret için en uygun dönemlerdir çünkü hava koşulları daha mutedildir. Sit alanının coğrafi yapısı, ziyaretçilere çeşitlilik gösteren bir manzara sunar. Burada, tepeler, vadiler ve ormanlık alanlar bir arada bulunur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin doğanın güzelliğini keşfetmeleri için yeterli alan sağlar.
+Yeni Foça Sit Alanı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle step ve orman ekosistemlerinin bir karışımından oluşur. İklim, karasal iklim özellikleri gösterir ve dört mevsim belirgin olarak yaşanır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bahar ve sonbahar mevsimleri, ziyaret için en uygun dönemlerdir çünkü hava koşulları daha mutedildir. Sit alanının coğrafi yapısı, ziyaretçilere çeşitlilik gösteren bir manzara sunar. Burada, tepeler, vadiler ve ormanlık alanlar bir arada bulunur.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Yeni Foça Sit Alanı'na ziyaret için en uygun zaman, bahar ve sonbahar mevsiml
 ## İlginç Bilgiler
 
 - Yeni Foça Sit Alanı, İç Anadolu Bölgesi'nin en önemli doğal sit alanlarından biridir.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğündedir.
-- Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Yeni Foça Sit Alanı, doğa severler ve yaban hayatı gözlemcileri için önemli bir destinasyondur.
 - Bahar ve sonbahar mevsimleri, ziyaret için en uygun zamanlardır.

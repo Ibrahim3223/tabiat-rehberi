@@ -49,11 +49,11 @@ Mardin Nehri ve diğer su kaynakları, Beyaz Tepe'nin çevresel ilişkilerini be
 
 ## Flora ve Fauna
 
-Mardin'in "Beyaz Tepe" dağ ekosisteminde, yarı kurak iklimin etkisiyle step ve ova ekolojisi hakim. 1200 metre yükseklikte, dağın farklı zonlarında çeşitlilik gösteren flora, ilkbaharda renkli çiçeklerle donanırken, sonbaharda göç eden kuşlarla canlanır. 
+Mardin'in "Beyaz Tepe" dağ ekosisteminde, yarı kurak iklimin etkisiyle step ve ova ekolojisi hakim. 1200 metre yükseklikte, dağın farklı zonlarında çeşitlilik gösteren flora, ilkbaharda renkli çiçeklerle donanırken, sonbaharda göç eden kuşlarla canlanır.
 
 Bitki örtüsünü oluşturan step bitkileri ve otsu türler, mevsimsel değişimlere uyum sağlar. Dağın yüksek kesimlerinde, alpin flora typesi görülmeye başlar. Bu bitkiler, dağların zorlu koşullarına adapte olmuş, özel türlerdir.
 
-Yaban hayatı da bu dağda çeşitlilik gösterir. Memeliler, kuşlar ve sürüngenler, dağın farklı yükseklik zonlarında yaşamını sürdürür. Bu canlılar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle ekolojik ilişkiler içinde yaşar. Göç eden kuşlar, bu dağda önemli bir rol oynar, çünkü buradaki bitkilerin tozlaşmasına ve yayılmasına yardımcı olurlar. 
+Yaban hayatı da bu dağda çeşitlilik gösterir. Memeliler, kuşlar ve sürüngenler, dağın farklı yükseklik zonlarında yaşamını sürdürür. Bu canlılar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle ekolojik ilişkiler içinde yaşar. Göç eden kuşlar, bu dağda önemli bir rol oynar, çünkü buradaki bitkilerin tozlaşmasına ve yayılmasına yardımcı olurlar.
 
 Beyaz Tepe, doğasının güzelliği ve biyolojik çeşitliliği nedeniyle önemli bir ekosistemdir. Bu dağın korunması, bölgenin ekolojik dengesini korumak için çok önemlidir.
 

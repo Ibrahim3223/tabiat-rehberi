@@ -23,7 +23,7 @@ wikidata_id: "Q108228142"
 
 # Şahinler
 
-Şahinler, İç Anadolu Bölgesi'nin güzide bir destinasyonudur. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil örtüye sahiptir. Şahinler, ziyaretçilerini doğal güzellikleri ve zengin fauna çeşitliliği ile büyüler. İnsanlar buraya gelerek kendilerini doğanın içinde hisseder ve streslerini atarlar. Şahinler, aynı zamanda yürüyüş ve doğa yürüyüşü için ideal bir yerdir. Ziyaretçiler, bu güzel alanın keyfini çıkarabilir ve doğanın güzelliğini keşfedebilir.
+Şahinler, İç Anadolu Bölgesi'nin güzide bir destinasyonudur. Şahinler, ziyaretçilerini doğal güzellikleri ve zengin fauna çeşitliliği ile büyüler. İnsanlar buraya gelerek kendilerini doğanın içinde hisseder ve streslerini atarlar. Şahinler, aynı zamanda yürüyüş ve doğa yürüyüşü için ideal bir yerdir. Ziyaretçiler, bu güzel alanın keyfini çıkarabilir ve doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 

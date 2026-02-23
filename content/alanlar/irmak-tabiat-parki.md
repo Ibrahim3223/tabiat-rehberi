@@ -29,7 +29,7 @@ wikidata_id: "Q30623345"
 
 # Irmak Tabiat Parkı
 
-Irmak Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor. Parkın etrafı, çeşitli ağaç türleriyle çevrili ve ziyaretçiler için rahat bir gezi alanı sunuyor. Irmak Tabiat Parkı, hem doğa severler hem de aileler için ideal bir destinasyon.
+ Bu bölge, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor. Parkın etrafı, çeşitli ağaç türleriyle çevrili ve ziyaretçiler için rahat bir gezi alanı sunuyor. Irmak Tabiat Parkı, hem doğa severler hem de aileler için ideal bir destinasyon.
 
 ## Tarihçe
 

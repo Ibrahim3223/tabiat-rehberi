@@ -28,7 +28,7 @@ wikidata_id: "Q34877671"
 
 # Kamçı Tepesi
 
-Kamçı Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Siirt'in önemli coğrafi noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Kamçı Tepesi, bölgenin doğal güzelliklerini ve zengin flora Faunasını keşfetmek isteyenler için ideal bir noktadır. Tepenin yüksekliği ve manzarası, ziyaretçilere bölgenin eşsiz güzelliğini sunar.
+Kamçı Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Siirt'in önemli coğrafi noktalarından biridir. Kamçı Tepesi, bölgenin doğal güzelliklerini ve zengin flora Faunasını keşfetmek isteyenler için ideal bir noktadır. Tepenin yüksekliği ve manzarası, ziyaretçilere bölgenin eşsiz güzelliğini sunar.
 
 ## Tarihçe
 

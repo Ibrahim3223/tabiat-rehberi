@@ -28,7 +28,7 @@ wikidata_id: "Q31534086"
 
 # Tuzlak Tepesi
 
-Tuzlak Tepesi, Gaziantep'in güneydoğusunda yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe olarak dikkat çekmektedir. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapladığından, ziyaretçiler için geniş bir açık alan sunmaktadır. Tuzlak Tepesi, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünüldüğünde, bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak görülebilir. Ayrıca, bu tepe, bölgede yaşayan çeşitli bitki ve hayvan türleri için de önemli bir yaşam alanı olarak görev yapmaktadır.
+Tuzlak Tepesi, Gaziantep'in güneydoğusunda yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe olarak dikkat çekmektedir. Tuzlak Tepesi, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünüldüğünde, bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak görülebilir. Ayrıca, bu tepe, bölgede yaşayan çeşitli bitki ve hayvan türleri için de önemli bir yaşam alanı olarak görev yapmaktadır.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31389263"
 
 # Avcıahır Tepesi
 
-Avcıahır Tepesi, İç Anadolu Bölgesi'nin sakin ve gizli güzelliği olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Avcıahır Tepesi, ziyaretçilerini doğanın güzelliği ve sakinliği ile karşılar. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunur. Tepenin zirvesine çıktığınızda, etraftaki köyleri ve ovaları izleyebilirsiniz.
+Avcıahır Tepesi, İç Anadolu Bölgesi'nin sakin ve gizli güzelliği olarak bilinir. Avcıahır Tepesi, ziyaretçilerini doğanın güzelliği ve sakinliği ile karşılar. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunur. Tepenin zirvesine çıktığınızda, etraftaki köyleri ve ovaları izleyebilirsiniz.
 
 ## Tarihçe
 

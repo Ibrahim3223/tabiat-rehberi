@@ -28,7 +28,7 @@ wikidata_id: "Q31386542"
 
 # Uzunok Tepesi
 
-Hatay ilinin güzide bir bölgesinde yer alan Uzunok Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Uzunok Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor.
+Hatay ilinin güzide bir bölgesinde yer alan Uzunok Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Uzunok Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor.
 
 ## Tarihçe
 

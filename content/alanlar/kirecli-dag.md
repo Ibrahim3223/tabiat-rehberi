@@ -50,13 +50,13 @@ Jeolojik açıdan incelendiğinde, Kireçli Dağ'ın coğrafi yapısı hakkında
 
 ## Flora ve Fauna
 
-Kireçli Dağ, Erzurum'un yüksek dağ ekosistemini barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kireçli Dağ, Erzurum'un yüksek dağ ekosistemini barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ eteklerinde çiçekler açmaya başlar. Alpin çayırların hakim olduğu bu bölgede, yükseklik zonlarına göre değişen flora çeşitliliği dikkat çekmektedir. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ eteklerinde çiçekler açmaya başlar. Alpin çayırların hakim olduğu bu bölgede, yükseklik zonlarına göre değişen flora çeşitliliği dikkat çekmektedir.
 
-Yaban Hayatı açısından, dağ keçileri, kartallar ve diğer yüksek dağ hayvanları bu bölgede yaşamlarını sürdürmektedir. Sonbaharda, göç eden kuşlar dağların üzerinde uçarken bir manzara oluşturur. 
+Yaban Hayatı açısından, dağ keçileri, kartallar ve diğer yüksek dağ hayvanları bu bölgede yaşamlarını sürdürmektedir. Sonbaharda, göç eden kuşlar dağların üzerinde uçarken bir manzara oluşturur.
 
-Ekolojik Değer olarak, Kireçli Dağ'ın yüksek dağ ekolojisi ve endemik türleri nedeniyle önemli bir koruma alanı olarak kabul edilmektedir. Bu bölge, yüksek dağ ekosisteminin korunması ve gelecekteki nesiller için bảo tồn edilmesi açısından büyük bir değer taşımaktadır.
+Ekolojik Değer olarak, Kireçli Dağ'ın yüksek dağ ekolojisi ve endemik türleri nedeniyle önemli bir koruma alanı olarak kabul edilmektedir. Bu bölge, yüksek dağ ekosisteminin korunması ve gelecekteki nesiller için koruma tồn edilmesi açısından büyük bir değer taşımaktadır.
 
 ## Ziyaret Bilgileri
 

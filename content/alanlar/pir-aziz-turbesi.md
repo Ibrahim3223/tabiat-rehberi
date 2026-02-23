@@ -1,7 +1,7 @@
 ---
 title: "Pir Aziz Türbesi"
 date: "2026-01-10T06:19:05.378Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391794"
 
 # Pir Aziz Türbesi
 
-Pir Aziz Türbesi, Giresun'un Piraziz ilçesinde yer alan bir din ve tarih merkezidir. Bu bölge, Karadeniz Bölgesi'nin güzide illerinden biri olan Giresun'un en önemli turizm noktalarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir faaliyet alanı sunar. Burada, hem doğal güzellikler hem de tarihi yapılar bir arada bulunmakta ve ziyaretçilere zengin bir deneyim sunmaktadır. Giresun'un coğrafi konumu ve iklimi, bu türbenin etrafındaki bitki örtüsünü ve faunayı etkileyen önemli faktörlerdir.
+Pir Aziz Türbesi, Giresun'un Piraziz ilçesinde yer alan bir din ve tarih merkezidir. Bu bölge, Karadeniz Bölgesi'nin güzide illerinden biri olan Giresun'un en önemli turizm noktalarından biridir. Burada, hem doğal güzellikler hem de tarihi yapılar bir arada bulunmakta ve ziyaretçilere zengin bir deneyim sunmaktadır. Giresun'un coğrafi konumu ve iklimi, bu türbenin etrafındaki bitki örtüsünü ve faunayı etkileyen önemli faktörlerdir.
 
 ## Tarihçe
 

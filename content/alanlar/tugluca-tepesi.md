@@ -28,7 +28,7 @@ wikidata_id: "Q31389904"
 
 # Tuğluca Tepesi
 
-Tuğluca Tepesi, Samsun'un önemli güzelliklerinden biridir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, şehrin panoramik manzarasına ev sahipliği yapar ve ziyaretçilere muhteşem bir görünüm sunar. Tuğluca Tepesi, Samsun'un en yüksek noktalarından biri olarak bilinir ve şehrin doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyondur. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bölgede zengin bir fauna vardır.
+Tuğluca Tepesi, Samsun'un önemli güzelliklerinden biridir. Bu tepe, şehrin panoramik manzarasına ev sahipliği yapar ve ziyaretçilere muhteşem bir görünüm sunar. Tuğluca Tepesi, Samsun'un en yüksek noktalarından biri olarak bilinir ve şehrin doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyondur. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bölgede zengin bir fauna vardır.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Tuğluca Tepesi, Samsun'un Karadeniz Bölgesi'nde bulunur. Bu tepe, deniz seviye
 
 ## Flora ve Fauna
 
-Tuğluca Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin etrafında bulunan ormanlar, ziyaretçilere doğal güzelliği keşfetme fırsatı sunar. Bu bölgede, mevsimsel değişimler sonucu farklı bitki türleri bulunur ve fauna da mevsimlere göre değişir. Tuğluca Tepesi, Samsun'un önemli bir ekolojik alanı olarak kabul edilir ve bölgenin doğal güzelliğini korumak için çeşitli çalışmalar yapılmaktadır. Tepenin flora ve faunası, ziyaretçilere doğal güzelliği keşfetme fırsatı sunar ve bölgenin ekolojik önemini vurgular.
+ Tepenin etrafında bulunan ormanlar, ziyaretçilere doğal güzelliği keşfetme fırsatı sunar. Bu bölgede, mevsimsel değişimler sonucu farklı bitki türleri bulunur ve fauna da mevsimlere göre değişir. Tuğluca Tepesi, Samsun'un önemli bir ekolojik alanı olarak kabul edilir ve bölgenin doğal güzelliğini korumak için çeşitli çalışmalar yapılmaktadır. Tepenin flora ve faunası, ziyaretçilere doğal güzelliği keşfetme fırsatı sunar ve bölgenin ekolojik önemini vurgular.
 
 ## Ziyaret Bilgileri
 

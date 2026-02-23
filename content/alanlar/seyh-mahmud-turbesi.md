@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Mahmud Türbesi"
 date: "2026-01-10T07:08:09.434Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390953"
 
 # Şeyh Mahmud Türbesi
 
-Şeyh Mahmud Türbesi, Pazar/Tokat'ta yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir noktada bulunmaktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan sunmakta ve 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Şeyh Mahmud Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada deneyimleme fırsatı sunmaktadır. Bu destinasyon, Karadeniz Bölgesi'nde bulunan birçok tarihi ve doğal güzelliğin birleştiği önemli bir noktadır.
+Şeyh Mahmud Türbesi, Pazar/Tokat'ta yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir noktada bulunmaktadır. Şeyh Mahmud Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada deneyimleme fırsatı sunmaktadır. Bu destinasyon, Karadeniz Bölgesi'nde bulunan birçok tarihi ve doğal güzelliğin birleştiği önemli bir noktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131390953"
 
 ## Coğrafya
 
-Şeyh Mahmud Türbesi, Pazar/Tokat'ta yer alan ve Karadeniz Bölgesi'nin önemli bir parçası olan bir alandır. Bu bölge, coğrafi olarak dağlar, ormanlar ve nehirler ile çevrili bir alanda bulunmaktadır. Alan, 140 hektarlık bir yeşil alanı kapsamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Şeyh Mahmud Türbesi'nin etrafı, çeşitli bitki türleri ile çevrili ve zengin bir fauna sunmaktadır. Bu destinasyon, ziyaretçilerine hem doğal güzellikleri hem de tarihi yapıları bir arada deneyimleme fırsatı sunmaktadır. Alanın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Şeyh Mahmud Türbesi, ziyaretçilerine birçok olanak sunan ve farklı deneyimler sunan bir destinasyondur.
+Şeyh Mahmud Türbesi, Pazar/Tokat'ta yer alan ve Karadeniz Bölgesi'nin önemli bir parçası olan bir alandır. Bu bölge, coğrafi olarak dağlar, ormanlar ve nehirler ile çevrili bir alanda bulunmaktadır. Şeyh Mahmud Türbesi'nin etrafı, çeşitli bitki türleri ile çevrili ve zengin bir fauna sunmaktadır. Bu destinasyon, ziyaretçilerine hem doğal güzellikleri hem de tarihi yapıları bir arada deneyimleme fırsatı sunmaktadır. Alanın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Şeyh Mahmud Türbesi, ziyaretçilerine birçok olanak sunan ve farklı deneyimler sunan bir destinasyondur.
 
 ## Flora ve Fauna
 

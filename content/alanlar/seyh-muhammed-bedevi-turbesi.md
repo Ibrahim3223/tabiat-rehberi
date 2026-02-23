@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Muhammed Bedevi Türbesi"
 date: "2026-01-10T07:02:52.453Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilis"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390871"
 
 # Şeyh Muhammed Bedevi Türbesi
 
-Şeyh Muhammed Bedevi Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli ve tarihi mekanlarından biridir. Kilis ilinin merkezinde yer alan bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Şeyh Muhammed Bedevi Türbesi, hem dini hem de kültürel olarak önemli bir merkez olarak kabul edilir. Türbe, ziyaretçiler için önemli bir çekim merkezi oluştururken, aynı zamanda bölgenin tarihini ve kültürünü de yansıtan bir yapı olarak dikkat çeker.
+Şeyh Muhammed Bedevi Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli ve tarihi mekanlarından biridir. Kilis ilinin merkezinde yer alan bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Şeyh Muhammed Bedevi Türbesi, hem dini hem de kültürel olarak önemli bir merkez olarak kabul edilir. Türbe, ziyaretçiler için önemli bir çekim merkezi oluştururken, aynı zamanda bölgenin tarihini ve kültürünü de yansıtan bir yapı olarak dikkat çeker.
 
 ## Tarihçe
 

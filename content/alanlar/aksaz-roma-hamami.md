@@ -1,7 +1,7 @@
 ---
 title: "Aksaz Roma Hamamı"
 date: "2026-01-09T23:56:08.351Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Uşak"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245765"
 
 # Aksaz Roma Hamamı
 
-Aksaz Roma Hamamı, Ulubey'in sakin ve tarihi bir bölgesinde yer alan, yaklaşık 140 hektarlık bir alanın içinde saklı bir hazine. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini genişçe bir yeşillik içinde ağırlıyor. Aksaz Roma Hamamı, Ege Bölgesi'nin gizli cevherlerinden biri olarak biliniyor ve tarihi geçmişi ile dikkat çekiyor. Bu özel mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.
+Aksaz Roma Hamamı, Ulubey'in sakin ve tarihi bir bölgesinde yer alan, yaklaşık 140 hektarlık bir alanın içinde saklı bir hazine. Aksaz Roma Hamamı, Ege Bölgesi'nin gizli cevherlerinden biri olarak biliniyor ve tarihi geçmişi ile dikkat çekiyor. Bu özel mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Aksaz Roma Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu h
 
 ## Coğrafya
 
-Aksaz Roma Hamamı, Ulubey'in merkezine yakın bir konumda yer alıyor ve Ege Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu bölgede, ziyaretçiler çeşitli bitki türleri ile karşılaşabiliyor ve zengin fauna ile tanışabiliyor. Aksaz Roma Hamamı'nın çevresinde, yeşillik alanlar ve tarihi yapılar bulunuyor ve bu mekan, ziyaretçilerini tarihin ve doğanın iç içe geçtiği bir dünya içine çekiyor. Ege Bölgesi'nin iklimi, bu bölgede ziyaretçilerin keyifli bir gezi deneyimi yaşamalarına olanak tanıyor. Aksaz Roma Hamamı, coğrafi konumu itibariyle, ziyaretçilerine história ve doğa ile iç içe bir  sunuyor.
+Aksaz Roma Hamamı, Ulubey'in merkezine yakın bir konumda yer alıyor ve Ege Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu bölgede, ziyaretçiler çeşitli bitki türleri ile karşılaşabiliyor ve zengin fauna ile tanışabiliyor. Aksaz Roma Hamamı'nın çevresinde, yeşillik alanlar ve tarihi yapılar bulunuyor ve bu mekan, ziyaretçilerini tarihin ve doğanın iç içe geçtiği bir dünya içine çekiyor. Ege Bölgesi'nin iklimi, bu bölgede ziyaretçilerin keyifli bir gezi deneyimi yaşamalarına olanak tanıyor. Aksaz Roma Hamamı, coğrafi konumu itibariyle, ziyaretçilerine tarihi ve doğa ile iç içe bir  sunuyor.
 
 ## Flora ve Fauna
 

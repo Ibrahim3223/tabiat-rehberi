@@ -22,7 +22,7 @@ wikidata_id: "Q108228928"
 
 # SİVRİHİSAR KAYALIKLARI
 
-Sivrihisar Kayalıkları, İç Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici bir manzara ile karşılar. Bu kayalık bölge, yüzyıllar boyunca oluşan jeolojik oluşumların bir sonucu olarak ortaya çıkmıştır. Sivrihisar Kayalıkları, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyondur. Bölge, zengin fauna ve flora ile çevrilidir ve ziyaretçilere benzersiz bir deneyim sunar.
+Sivrihisar Kayalıkları, İç Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. Bu kayalık bölge, yüzyıllar boyunca oluşan jeolojik oluşumların bir sonucu olarak ortaya çıkmıştır. Sivrihisar Kayalıkları, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyondur. Bölge, zengin fauna ve flora ile çevrilidir ve ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sivrihisar Kayalıkları'nın tarihi geçmişi, binlerce yıl öncesine dayanır
 
 ## Coğrafya
 
-Sivrihisar Kayalıkları, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biridir. Bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Sivrihisar Kayalıkları, yüksek kayalık oluşumları ile dikkat çeker ve ziyaretçilerine benzersiz bir manzara sunar. Bölge, çeşitli bitki türleri ile çevrilidir ve zengin fauna ile doludur. Sivrihisar Kayalıkları, ziyaretçilerine hem doğa hem de macera arayışında olanlar için ideal bir destinasyon sunar. Bölgenin coğrafi konumu, ziyaretçilerin bölgeyi kolayca keşfetmesine olanak tanır. Sivrihisar Kayalıkları, ziyaretçilerine benzersiz bir deneyim sunmak için ideal bir yerdir.
+Sivrihisar Kayalıkları, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biridir. Sivrihisar Kayalıkları, yüksek kayalık oluşumları ile dikkat çeker ve ziyaretçilerine benzersiz bir manzara sunar. Bölge, çeşitli bitki türleri ile çevrilidir ve zengin fauna ile doludur. Sivrihisar Kayalıkları, ziyaretçilerine hem doğa hem de macera arayışında olanlar için ideal bir destinasyon sunar. Bölgenin coğrafi konumu, ziyaretçilerin bölgeyi kolayca keşfetmesine olanak tanır. Sivrihisar Kayalıkları, ziyaretçilerine benzersiz bir deneyim sunmak için ideal bir yerdir.
 
 ## Flora ve Fauna
 

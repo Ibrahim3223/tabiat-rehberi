@@ -29,7 +29,7 @@ wikidata_id: "Q134728212"
 
 # Kaya Mezarı 2 (Delikkaya Mahallesi), Altınordu
 
-Kaya Mezarı 2, Delikkaya Mahallesi'nde yer alan ve Karadeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak kabul edilen bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Burada yer alan kaya mezarları, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini büyülüyor. Kaya Mezarı 2, hem tarih severlerin hem de doğaşığıların ilgi odağı oluyor.
+Kaya Mezarı 2, Delikkaya Mahallesi'nde yer alan ve Karadeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak kabul edilen bir alandır. Burada yer alan kaya mezarları, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini büyülüyor. Kaya Mezarı 2, hem tarih severlerin hem de doğaşığıların ilgi odağı oluyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Kaya Mezarı 2, zengin bir flora ve fauna çeşitliliğine sahip. Bu bölgede, �
 
 ## Ziyaret Bilgileri
 
-Kaya Mezarı 2'yi ziyaret etmek, hem tarihi hem de doğa severler için unutulmaz bir deneyim olacak. Bu bölgeye ulaşım, karayolu ile sağlanabilir. Altınordu merkezinden Delikkaya Mahallesi'ne gitmek oldukça kolay. Kaya Mezarı 2, yılın dört mevsimi ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları en uygun zamanlar. Ziyaretçilerin, bu bölgede tarih ve doğa ile iç içe olabilecekleri birçok aktivite bulunmakta. Kaya Mezarı 2, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Kaya Mezarı 2'yi ziyaret etmek, hem tarihi hem de doğa severler için unutulmaz bir deneyim olacak. Bu bölgeye ulaşım, karayolu ile sağlanabilir. Altınordu merkezinden Delikkaya Mahallesi'ne gitmek oldukça kolay. Kaya Mezarı 2, yılın dört mevsimi ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları en uygun zamanlar. Ziyaretçilerin, bu bölgede tarih ve doğa ile iç içe olabilecekleri birçok aktivite bulunmakta.
 
 ## İlginç Bilgiler
 

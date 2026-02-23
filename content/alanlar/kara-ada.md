@@ -51,7 +51,7 @@ Doğal güzelliği ile dikkat çeken Kara Ada, çevredeki su kaynakları ve kom�
 
 Kara Ada, İzmir'in kıyılarında yer alan bir ada ekosistemidir. İlkbahar aylarında, ada zeytinliklerin ve çam ormanlarının yeşilliği ile kaplanır. Bu mevsimde, ada çiçek açan bitki türleri ile renklenir. Sonbahar ise, göçmen deniz kuşlarının ada üzerinden geçtiği bir zaman dilimidir.
 
-Ada, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Deniz kenarında, kıyı bitkileri ve çam ağaçları, bu canlıların yaşam alanlarını oluşturur. Ada ekosisteminin izole yapısı, özel ve endemik türlerin gelişmesine olanak sağlar. 
+Ada, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Deniz kenarında, kıyı bitkileri ve çam ağaçları, bu canlıların yaşam alanlarını oluşturur. Ada ekosisteminin izole yapısı, özel ve endemik türlerin gelişmesine olanak sağlar.
 
 Kara Ada, Akdeniz ikliminin karakteristik özelliklerini taşır. Bu bölge, çam ormanları ve zeytinliklerin hakim olduğu bir ekosisteme sahiptir. Ada, deniz kuşları ve diğer canlılar için önemli bir yaşam alanıdır. Ekolojik değerini koruma altına almak, bu özel ekosistemin devamını sağlamak için önemlidir.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31558844"
 
 # Hazine Tepesi
 
-Hazine Tepesi, Ankara'nın kalbinde yer alan bir tepe ve yaklaşık 140 hektarlık bir alanı kaplar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve mevsimsel değişimlere göre farklı renkler ve kokularla ziyaretçilerini karşılar. Hazine Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini büyüler.
+Hazine Tepesi, Ankara'nın kalbinde yer alan bir tepe ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve mevsimsel değişimlere göre farklı renkler ve kokularla ziyaretçilerini karşılar. Hazine Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini büyüler.
 
 ## Tarihçe
 

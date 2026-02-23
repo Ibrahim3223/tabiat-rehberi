@@ -22,7 +22,7 @@ wikidata_id: "Q108227746"
 
 # Istanbul-Bahcekoy-Bentler Ihlamur
 
-İstanbul'un Bahçeköy bölgesinde bulunan Bentler Ihlamur milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlayan bir doğa harikası. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun alanları bulunuyor. Bentler Ihlamur milli parkı, hem doğa severler hem de aileler için keyifli bir gün geçirmek isteyenler için mükemmel bir seçim.
+İstanbul'un Bahçeköy bölgesinde bulunan Bentler Ihlamur milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlayan bir doğa harikası. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun alanları bulunuyor. Bentler Ihlamur milli parkı, hem doğa severler hem de aileler için keyifli bir gün geçirmek isteyenler için mükemmel bir seçim.
 
 ## Tarihçe
 

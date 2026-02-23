@@ -29,7 +29,7 @@ wikidata_id: "Q134728163"
 
 # Karaburun Tümülüsü
 
-Karaburun Tümülüsü, Antalya'nın Elmalı ilçesinde yer alıyor. Bu bölge, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Karaburun Tümülüsü, Akdeniz Bölgesi'nin önemli tarihi noktalarından biri olarak biliniyor.
+Karaburun Tümülüsü, Antalya'nın Elmalı ilçesinde yer alıyor. Bu bölge, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Karaburun Tümülüsü, Akdeniz Bölgesi'nin önemli tarihi noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 

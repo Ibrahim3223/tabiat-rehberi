@@ -29,7 +29,7 @@ wikidata_id: "Q135582835"
 
 # Şeyh Necmettin Kümbeti
 
-Şeyh Necmettin Kümbeti, Doğu Anadolu Bölgesi'nin güzide illerinden Bitlis'in Ahlat ilçesinde yer alan bir kümbettir. 140 hektarlık bir alana yayılan bu tarihi ve doğal güzellik, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu kümbet, tarihi geçmişinin yanı sıra doğal güzellikleri ile de dikkat çekmektedir. Şeyh Necmettin Kümbeti, ziyaretçilerini tarihi ve doğal güzelliklerinin bir arada olduğu bir ortamda ağırlamaktadır.
+Şeyh Necmettin Kümbeti, Doğu Anadolu Bölgesi'nin güzide illerinden Bitlis'in Ahlat ilçesinde yer alan bir kümbettir. Bu kümbet, tarihi geçmişinin yanı sıra doğal güzellikleri ile de dikkat çekmektedir. Şeyh Necmettin Kümbeti, ziyaretçilerini tarihi ve doğal güzelliklerinin bir arada olduğu bir ortamda ağırlamaktadır.
 
 ## Tarihçe
 

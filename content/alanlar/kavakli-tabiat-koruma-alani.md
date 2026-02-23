@@ -23,7 +23,7 @@ wikidata_id: "Q108227064"
 
 # Kavaklı Tabiat Koruma Alanı
 
-Kavaklı Tabiat Koruma Alanı, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerini sunan 140 hektarlık bir alan olarak ziyaretçilerini bekliyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal varlık olarak kabul ediliyor. Ziyaretçiler, bu güzel doğal ortamda yürüyüşler yapabilir, doğayı keşfedebilir ve bölgenin zengin faunasını gözlemleyebilirler. Kavaklı Tabiat Koruma Alanı, özellikle doğa severler ve çevre bilinçlileri için mükemmel bir destinasyon olarak öne çıkıyor.
+Kavaklı Tabiat Koruma Alanı, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerini sunan 140 hektarlık bir alan olarak ziyaretçilerini bekliyor. Ziyaretçiler, bu güzel doğal ortamda yürüyüşler yapabilir, doğayı keşfedebilir ve bölgenin zengin faunasını gözlemleyebilirler. Kavaklı Tabiat Koruma Alanı, özellikle doğa severler ve çevre bilinçlileri için mükemmel bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

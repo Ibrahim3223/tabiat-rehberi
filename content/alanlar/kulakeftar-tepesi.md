@@ -28,7 +28,7 @@ wikidata_id: "Q31544570"
 
 # Kulakeftar Tepesi
 
-Kulakeftar Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Kulakeftar Tepesi, ziyaretçilerine bölge hakkında bilgi edinme ve doğayı keşfetme fırsatı sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
+Kulakeftar Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Kulakeftar Tepesi, ziyaretçilerine bölge hakkında bilgi edinme ve doğayı keşfetme fırsatı sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Kulakeftar Tepesi'ni ziyaret etmek, bölge hakkında bilgi edinme ve doğayı ke
 
 ## İlginç Bilgiler
 
-- Kulakeftar Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Bölgenin coğrafi yapısı, ziyaretçilere farklı manzaralar sunuyor.
 - Tepenin eteklerinde, küçüköyler ve tarım arazileri bulunmakta.

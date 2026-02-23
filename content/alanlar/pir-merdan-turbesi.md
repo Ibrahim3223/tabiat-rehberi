@@ -1,7 +1,7 @@
 ---
 title: "Pirê Merdan Türbesi"
 date: "2026-01-10T06:46:00.859Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582865"
 
 # Pirê Merdan Türbesi
 
-Pirê Merdan Türbesi, Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini bir araya getiren önemli bir destinasyondur. Artuklu ilçesinde yer alan bu özel mekan, Mardin'in turistik açıdan dikkat çeken noktalarından biridir. 140 hektarlık bir alanda yer alan Pirê Merdan Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Tarihi geçmişi ve eşsiz mimarisi ile dikkat çeken Pirê Merdan Türbesi, ziyaretçilerini büyülemektedir.
+Pirê Merdan Türbesi, Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini bir araya getiren önemli bir destinasyondur. Artuklu ilçesinde yer alan bu özel mekan, Mardin'in turistik açıdan dikkat çeken noktalarından biridir. Bu alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Tarihi geçmişi ve eşsiz mimarisi ile dikkat çeken Pirê Merdan Türbesi, ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Pirê Merdan Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin b
 
 ## Flora ve Fauna
 
-Pirê Merdan Türbesi, flora ve fauna açısından zengin bir alana sahiptir. Bu bölge, çeşitli bitki türleri ile dikkat çekmektedir. Mevsimsel değişimler, bu bölgede farklı türlerin ortaya çıkmasına neden olmaktadır. İlkbahar ve yaz aylarında, bu bölge, renkli çiçekler ve yeşilliklerle kaplanmaktadır. Sonbahar ve kış aylarında ise, bölge, daha sakin ve sessiz bir atmosfere bürünmektedir. Fauna açısından, bu bölge, zengin bir çeşitlilik sunmaktadır. Ziyaretçiler, bu bölgede, çeşitli kuş türleri, memeliler ve diğer canlıları görebilmektedirler. 140 hektarlık bu alan, ziyaretçilere, doğanın güzelliklerini keşfetme fırsatı sunmaktadır.
+Pirê Merdan Türbesi, flora ve fauna açısından zengin bir alana sahiptir. Bu bölge, çeşitli bitki türleri ile dikkat çekmektedir. Mevsimsel değişimler, bu bölgede farklı türlerin ortaya çıkmasına neden olmaktadır. İlkbahar ve yaz aylarında, bu bölge, renkli çiçekler ve yeşilliklerle kaplanmaktadır. Sonbahar ve kış aylarında ise, bölge, daha sakin ve sessiz bir atmosfere bürünmektedir. Fauna açısından, bu bölge, zengin bir çeşitlilik sunmaktadır. Ziyaretçiler, bu bölgede, çeşitli kuş türleri, memeliler ve diğer canlıları görebilmektedirler.
 
 ## Ziyaret Bilgileri
 

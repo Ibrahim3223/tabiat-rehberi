@@ -22,7 +22,7 @@ wikidata_id: "Q108227367"
 
 # Kandildere Ardic Agaci
 
-Kandildere Ardic Agaci milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve 140 hektarlık bir alan kapsayan doğal bir güzelliktir. Bu park, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal alanlarından biridir. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunar. Parkın güzelliği, her mevsim farklı bir ren ve canlılık kazanan flora ve faunayla beraber, ziyaretçilere unutulmaz anlar yaşatır.
+Kandildere Ardic Agaci milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve 140 hektarlık bir alan kapsayan doğal bir güzelliktir. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunar. Parkın güzelliği, her mevsim farklı bir ren ve canlılık kazanan flora ve faunayla beraber, ziyaretçilere unutulmaz anlar yaşatır.
 
 ## Tarihçe
 

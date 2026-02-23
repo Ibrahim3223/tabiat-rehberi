@@ -50,11 +50,11 @@ Mevsimsel olarak bakıldığında, Değirmice Dağı'nın iklimi, Karadeniz Böl
 
 ## Flora ve Fauna
 
-Değirmice Dağı, Ordu'nun nemli ikliminin etkisi altında, gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Değirmice Dağı, Ordu'nun nemli ikliminin etkisi altında, gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharla birlikte dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda yaprakların sararması ile bir başka güzelliğe bürünür. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çeker. 
+Bitki Örtüsü olarak, ilkbaharla birlikte dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda yaprakların sararması ile bir başka güzelliğe bürünür. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çeker.
 
-Yaban Hayatı açısından, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminde yaşam bulur. Göç mevsimlerinde, çeşitli kuş türleri dağların üzerinden geçer. Bu canlılar, dağların sunduğu yaşam alanlarına uyum sağlamışlardır. 
+Yaban Hayatı açısından, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminde yaşam bulur. Göç mevsimlerinde, çeşitli kuş türleri dağların üzerinden geçer. Bu canlılar, dağların sunduğu yaşam alanlarına uyum sağlamışlardır.
 
 Ekolojik Değer olarak, bu dağ ekosisteminin yüksek biyoçeşitliliği ve nemli iklimi, birçok canlıyaşam alanı sağlar. Bu nedenle, koruma altına alınması büyük önem taşır.
 

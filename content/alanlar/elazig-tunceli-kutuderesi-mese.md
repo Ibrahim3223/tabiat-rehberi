@@ -22,7 +22,7 @@ wikidata_id: "Q108227761"
 
 # Elazig-Tunceli-Kutuderesi Mese
 
-Elazig-Tunceli-Kutuderesi Mese, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Yaklaşık 200 futbol sahası büyüklüğündeki bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor. Bölge, zengin flora ve faunası ile dikkat çekiyor. Her mevsim farklı bir güzelliğe bürünen bu doğa harikası, gezi severlerin kaçırmak istemeyeceği bir destinasyon. İnsanlar, bu güzel milli parkta doğanın sesini dinleyerek, stres ve yorgunluklarını unutmaya geliyor.
+Elazig-Tunceli-Kutuderesi Mese, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bölge, zengin flora ve faunası ile dikkat çekiyor. Her mevsim farklı bir güzelliğe bürünen bu doğa harikası, gezi severlerin kaçırmak istemeyeceği bir destinasyon. İnsanlar, bu güzel milli parkta doğanın sesini dinleyerek, stres ve yorgunluklarını unutmaya geliyor.
 
 ## Tarihçe
 

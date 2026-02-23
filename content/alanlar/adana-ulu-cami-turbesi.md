@@ -1,7 +1,7 @@
 ---
 title: "Adana Ulu Cami Türbesi"
 date: "2026-01-10T06:36:31.273Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582628"
 
 # Adana Ulu Cami Türbesi
 
-Adana Ulu Cami Türbesi, Akdeniz Bölgesi'nin önemli kültür merkezlerinden biri olan Adana'nın Seyhan ilçesinde yer alır. 140 hektarlık bir alanda kurulan bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Adana Ulu Cami Türbesi, hem tarihi hem de kültürel önemiyle dikkat çekmektedir. Bu mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.
+Adana Ulu Cami Türbesi, Akdeniz Bölgesi'nin önemli kültür merkezlerinden biri olan Adana'nın Seyhan ilçesinde yer alır. Adana Ulu Cami Türbesi, hem tarihi hem de kültürel önemiyle dikkat çekmektedir. Bu mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Adana Ulu Cami Türbesi, tarihsel geçmişi ile önemli bir yere sahiptir. Bu ta
 
 ## Coğrafya
 
-Adana Ulu Cami Türbesi, coğrafi konumu itibariyle de dikkat çekici bir yerdir. Akdeniz Bölgesi'nin önemli şehirlerinden biri olan Adana'da bulunan bu mekan, Seyhan Nehri'nin yakınında yer alır. Coğrafi olarak zengin bir çeşitliliğe sahip olan bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Adana Ulu Cami Türbesi'nin bulunduğu alan, 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Bu mekanın etrafı, tarihi ve kültürel yapılar ile çevrilidir ve ziyaretçilere geniş bir perspektif sunar. İklim olarak, Akdeniz ikliminin etkisi altında olan bu bölgede, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşanır. Bu coğrafi özellikler, Adana Ulu Cami Türbesi'nin etrafındaki doğayı şekillendirmiştir.
+Adana Ulu Cami Türbesi, coğrafi konumu itibariyle de dikkat çekici bir yerdir. Akdeniz Bölgesi'nin önemli şehirlerinden biri olan Adana'da bulunan bu mekan, Seyhan Nehri'nin yakınında yer alır. Coğrafi olarak zengin bir çeşitliliğe sahip olan bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu mekanın etrafı, tarihi ve kültürel yapılar ile çevrilidir ve ziyaretçilere geniş bir perspektif sunar. İklim olarak, Akdeniz ikliminin etkisi altında olan bu bölgede, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşanır. Bu coğrafi özellikler, Adana Ulu Cami Türbesi'nin etrafındaki doğayı şekillendirmiştir.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31566649"
 
 # Huri Tepesi
 
-Huri Tepesi, Ordu ilinin Karadeniz Bölgesi'ndeki eşsiz manzarasıyla dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin cenneti olarak biliniyor. Tepenin zirvesinden Karadeniz'in muhteşem manzarasını izleme mümkün. Huri Tepesi, hem yerel halk hem de ziyaretçiler için keyifli bir gezi yeri olarak tercih ediliyor. Tepenin eteklerinde bulunan köyler, geleneksel mimari örneklerini sunuyor ve ziyaretçilere Karadeniz'in kültürel zenginliğini tanıma fırsatı veriyor.
+Huri Tepesi, Ordu ilinin Karadeniz Bölgesi'ndeki eşsiz manzarasıyla dikkat çekiyor. Tepenin zirvesinden Karadeniz'in muhteşem manzarasını izleme mümkün. Huri Tepesi, hem yerel halk hem de ziyaretçiler için keyifli bir gezi yeri olarak tercih ediliyor. Tepenin eteklerinde bulunan köyler, geleneksel mimari örneklerini sunuyor ve ziyaretçilere Karadeniz'in kültürel zenginliğini tanıma fırsatı veriyor.
 
 ## Tarihçe
 

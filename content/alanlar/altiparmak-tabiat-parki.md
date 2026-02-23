@@ -24,7 +24,7 @@ wikidata_id: "Q6063417"
 
 # Altıparmak Tabiat Parkı
 
-Altıparmak Tabiat Parkı, Rize'nin Ardeşen ilçesinde yer alan 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın zengin flora ve fauna çeşitliliği, Karadeniz Bölgesi'nin doğal güzelliklerini ortaya koyuyor. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları görebiliyorlar. Parkın coğrafi konumu ve iklimi, bu çeşitliliği destekleyen önemli faktörler arasında.
+ Bu geniş alan, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın zengin flora ve fauna çeşitliliği, Karadeniz Bölgesi'nin doğal güzelliklerini ortaya koyuyor. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları görebiliyorlar. Parkın coğrafi konumu ve iklimi, bu çeşitliliği destekleyen önemli faktörler arasında.
 
 ## Tarihçe
 
@@ -44,7 +44,6 @@ Altıparmak Tabiat Parkı, ziyaretçilerine çeşitli imkanlar sunuyor. Parka gi
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Park, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor.
 - Parkın fauna çeşitliliği, Karadeniz Bölgesi'nin doğal güzelliklerini ortaya koyuyor.
 - Parkta, çeşitli bitki türleri ve hayvanlar yaşanıyor.

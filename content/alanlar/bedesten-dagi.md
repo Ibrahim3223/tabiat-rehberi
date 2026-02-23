@@ -1,7 +1,7 @@
 ---
 title: "Bedesten Dağı"
 date: "2026-01-09T04:57:40.762Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Çanakkale"
@@ -52,9 +52,9 @@ Jeolojik açıdan incelendiğinde, Bedesten Dağı'nın coğrafi yapısı hakkı
 
 Bedesten Dağı, Çanakkale'nin eşsiz doğa harikalarından biri. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Geçiş ikliminin etkisiyle karma ormanlarla kaplı olan bu dağ, flora ve fauna açısından zengin bir ekosistem sunuyor.
 
-Bitki örtüsünde, ilkbaharın gelmesiyle birlikte rengarenk çiçekler patlıyor. Sonbaharda ise yaprakların renk değiştirmesiyle birlikte bir tablo gibi görünüyor. Dağın yükseklik zonlarına çıktıkça, alpin flora çeşitliliği artıyor. 
+Bitki örtüsünde, ilkbaharın gelmesiyle birlikte rengarenk çiçekler patlıyor. Sonbaharda ise yaprakların renk değiştirmesiyle birlikte bir tablo gibi görünüyor. Dağın yükseklik zonlarına çıktıkça, alpin flora çeşitliliği artıyor.
 
-Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle dolu. Dağ, göçmen kuş rotası üzerinde yer alıyor ve her yıl binlerce kuşun göçüne tanıklık ediyor. Kış aylarında, dağ keçileri ve ayılar gibi memeliler, dağların yüksek kesimlerinde sốnglarını sürdürüyorlar. 
+Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle dolu. Dağ, göçmen kuş rotası üzerinde yer alıyor ve her yıl binlerce kuşun göçüne tanıklık ediyor. Kış aylarında, dağ keçileri ve ayılar gibi memeliler, dağların yüksek kesimlerinde sốnglarını sürdürüyorlar.
 
 Bedesten Dağı, ekolojik açıdan büyük bir değer taşıyor. Bu dağ, bölgenin su kaynaklarını koruyor ve yerel ekosistemi desteklıyor. Ancak, insan faaliyetleri nedeniyle tehdit altında olan bu dağ, korumaya ihtiyaç duyuyor.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q35731404"
 
 # Büyükkülek Tepesi
 
-Büyükkülek Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin güzelliklerini gözler önüne seren bir doğal alan olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Büyükkülek Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve Burada zaman geçirmek, doğanın içesinde kaybolma mümkün.
+Büyükkülek Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin güzelliklerini gözler önüne seren bir doğal alan olarak karşımıza çıkıyor. Büyükkülek Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve Burada zaman geçirmek, doğanın içesinde kaybolma mümkün.
 
 ## Tarihçe
 

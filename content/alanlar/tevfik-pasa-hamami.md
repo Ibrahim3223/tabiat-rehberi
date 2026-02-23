@@ -1,7 +1,7 @@
 ---
 title: "Tevfik Paşa Hamamı"
 date: "2026-01-09T23:00:55.173Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738842"
 
 # Tevfik Paşa Hamamı
 
-Tevfik Paşa Hamamı, İzmir'in Konak ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal alan. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tevfik Paşa Hamamı, denize girilebilen bir plaj olarak bilinir ve çevresinde çeşitli restoran ve kafelerin bulunduğu bir bölgede yer alır. Bu bölge, yıl boyunca birçok ziyaretçiyi ağırlar ve özellikle yaz aylarında popüler bir destinasyon haline gelir.
+Tevfik Paşa Hamamı, İzmir'in Konak ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal alan. Tevfik Paşa Hamamı, denize girilebilen bir plaj olarak bilinir ve çevresinde çeşitli restoran ve kafelerin bulunduğu bir bölgede yer alır. Bu bölge, yıl boyunca birçok ziyaretçiyi ağırlar ve özellikle yaz aylarında popüler bir destinasyon haline gelir.
 
 ## Tarihçe
 

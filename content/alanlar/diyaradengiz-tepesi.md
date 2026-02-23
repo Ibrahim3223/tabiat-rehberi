@@ -28,7 +28,7 @@ wikidata_id: "Q31544842"
 
 # Diyaradengız Tepesi
 
-Diyaradengız Tepesi, Güneydoğu Anadolu Bölgesi'nin en gizemli köşelerinden biri olan Batman'da yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Doğal güzelliği ve tarihi geçmişiyle Diyaradengız Tepesi, ziyaretçilerini büyülüyor. Tepenin eteklerinde akan dere, manzarayı daha da güzelleştiriyor. Bu bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve her biri bu topraklara özel bir iz bırakmış.
+Diyaradengız Tepesi, Güneydoğu Anadolu Bölgesi'nin en gizemli köşelerinden biri olan Batman'da yer alıyor. Doğal güzelliği ve tarihi geçmişiyle Diyaradengız Tepesi, ziyaretçilerini büyülüyor. Tepenin eteklerinde akan dere, manzarayı daha da güzelleştiriyor. Bu bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve her biri bu topraklara özel bir iz bırakmış.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Diyaradengız Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteri
 
 ## Flora ve Fauna
 
-Diyaradengız Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin etrafında, çeşitli bitki türleri yetişiyor. Mevsimsel değişimlerle birlikte, bu bitkiler farklı renkler ve kokularla surroundingsı süslüyor. Tepenin fauna zenginliği de dikkat çekiyor. Kuşlar, keçiler ve diğer hayvanlar, bu bölgenin doğal dengesini oluşturuyor. Ziyaretçiler, bu canlılarla karşılaşırken, doğanın güzelliğini deneyimleyebiliyorlar. Mevsimsel değişimlerle birlikte, flora ve fauna da değişiyor. İlkbaharda çiçeklerin açması, sonbaharda yaprakların dökülmesi, her mevsim bu bölgenin güzelliğini farklı bir şekilde gösteriyor.
+ Tepenin etrafında, çeşitli bitki türleri yetişiyor. Mevsimsel değişimlerle birlikte, bu bitkiler farklı renkler ve kokularla surroundingsı süslüyor. Tepenin fauna zenginliği de dikkat çekiyor. Kuşlar, keçiler ve diğer hayvanlar, bu bölgenin doğal dengesini oluşturuyor. Ziyaretçiler, bu canlılarla karşılaşırken, doğanın güzelliğini deneyimleyebiliyorlar. Mevsimsel değişimlerle birlikte, flora ve fauna da değişiyor. İlkbaharda çiçeklerin açması, sonbaharda yaprakların dökülmesi, her mevsim bu bölgenin güzelliğini farklı bir şekilde gösteriyor.
 
 ## Ziyaret Bilgileri
 

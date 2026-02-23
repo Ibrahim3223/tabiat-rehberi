@@ -53,7 +53,7 @@ Tahtali Dağı, çevresindeki ekosistem ile güçlü bir bağlantıyı sürdürm
 
 Tahtalı Dağı, Adana'nın doğal güzelliklerini barındıran bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapıyor ve kuraklığa dayanıklı türler burada yaşamını sürdürüyor.
 
-İlkbaharla birlikte, dağ eteklerinde çiçekler açmaya başlıyor ve renkli bir manzara oluşuyor. Kıyı ekosisteminin etkisiyle, dağın yükseklik zonlarında alpin flora çeşitliliği göze çarpıyor. 
+İlkbaharla birlikte, dağ eteklerinde çiçekler açmaya başlıyor ve renkli bir manzara oluşuyor. Kıyı ekosisteminin etkisiyle, dağın yükseklik zonlarında alpin flora çeşitliliği göze çarpıyor.
 
 Yaban hayatı da oldukça zengin; memeliler, kuşlar ve sürüngenler bu dağda yaşamlarını sürdürüyor. Sonbaharda, göç eden kuşlar dağ üzerinden geçiş yapıyor ve bu bölgeyi önemli bir ekolojik merkez haline getiriyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve doğal dengesini korumak açısından büyük önem taşıyor.
 

@@ -48,11 +48,11 @@ Göztepe Dağı'nın çevresel ilişkileri, bölgenin ekosistemini şekillendire
 
 ## Flora ve Fauna
 
-Göztepe Dağı, Muş'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Yükseklik zonlarına göre değişen flora ve fauna, bu bölgenin benzersiz özelliklerinden biri. 
+Göztepe Dağı, Muş'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Yükseklik zonlarına göre değişen flora ve fauna, bu bölgenin benzersiz özelliklerinden biri.
 
-Bitki örtüsüne baktığımızda, ilkbahar aylarında alpin çayırların renkli çiçeklerle donandığını görüyoruz. Bu çayırlar, endemik türlerin yaşam alanı olarak önemli bir role sahip. Sonbahar mevsiminde ise, dağların yüksekliklerine adapte olmuş bitkilerin dayanıklılığı ön plana çıkıyor. 
+Bitki örtüsüne baktığımızda, ilkbahar aylarında alpin çayırların renkli çiçeklerle donandığını görüyoruz. Bu çayırlar, endemik türlerin yaşam alanı olarak önemli bir role sahip. Sonbahar mevsiminde ise, dağların yüksekliklerine adapte olmuş bitkilerin dayanıklılığı ön plana çıkıyor.
 
-Yaban hayatı açısından da zengin bir bölge olan Göztepe Dağı, çeşitli memelilerin, kuşların ve sürüngenlerin yaşam alanı. Bu canlılar, bölgenin yüksek dağ ekolojisine bağlı olarak gelişmiş ekolojik ilişkiler içinde yaşıyor. Örneğin, bazı memeliler, alpin çayırlardaki bitkilerle beslenirken, bazı kuş türleri bu bölgede yuvalanıyor. 
+Yaban hayatı açısından da zengin bir bölge olan Göztepe Dağı, çeşitli memelilerin, kuşların ve sürüngenlerin yaşam alanı. Bu canlılar, bölgenin yüksek dağ ekolojisine bağlı olarak gelişmiş ekolojik ilişkiler içinde yaşıyor. Örneğin, bazı memeliler, alpin çayırlardaki bitkilerle beslenirken, bazı kuş türleri bu bölgede yuvalanıyor.
 
 Göztepe Dağı'nın ekolojik değeri, yüksek dağ ekolojisini koruma altına alması ve endemik türlerin yaşam alanını sunmasıyla öne çıkıyor. Bu bölge, doğa severler ve bilim insanları için önemli bir araştırma alanı olarak kabul ediliyor.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390433"
 
 # Devebeli Tepe
 
-Devebeli Tepe, Konya ilinin İç Anadolu Bölgesi'nde yer alan bir tepe ve aynı zamanda önemli bir tarihi ve coğrafi bölge olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğa alanı sunuyor. Devebeli Tepe, özellikle tarihi geçmişi ve coğrafi güzelliği ile dikkat çekiyor. Bu bölge, birçok medeniyete ev sahipliği yapmış ve bu nedenle tarihi kalıntıları ile zengin bir kültürel mirasa sahip. Doğal güzelliği ve tarihi önemi ile Devebeli Tepe, ziyaretçilerini bekliyor.
+Devebeli Tepe, Konya ilinin İç Anadolu Bölgesi'nde yer alan bir tepe ve aynı zamanda önemli bir tarihi ve coğrafi bölge olarak dikkat çekiyor. Devebeli Tepe, özellikle tarihi geçmişi ve coğrafi güzelliği ile dikkat çekiyor. Bu bölge, birçok medeniyete ev sahipliği yapmış ve bu nedenle tarihi kalıntıları ile zengin bir kültürel mirasa sahip. Doğal güzelliği ve tarihi önemi ile Devebeli Tepe, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

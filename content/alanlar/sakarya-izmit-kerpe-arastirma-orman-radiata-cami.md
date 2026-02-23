@@ -22,7 +22,7 @@ wikidata_id: "Q108228280"
 
 # Sakarya-İzmit-Kerpe Araştırma Orman Radiata Çamı
 
-Sakarya-İzmit-Kerpe Araştırma Orman Radiata Çamı, Marmara Bölgesi'nin Sakarya ilinde yer alan 140 hektarlık bir alanı kaplayan, yaklaşık 200 futbol sahası büyüklüğünde olan bir araştırma ormanıdır. Bu orman, Radiata Çamı'nın yetiştirilmesi ve araştırılması amacıyla kurulmuş olup, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir rol oynar. Orman, ziyaretçilere doğa yürüyüşü, pikni ve diğer outdoor aktiviteleri için uygun bir ortam sunmaktadır. Sakarya ilinin merkezine yakın konumuyla, ziyaretçiler için kolay ulaşılabilir bir noktada yer alır.
+ Bu orman, Radiata Çamı'nın yetiştirilmesi ve araştırılması amacıyla kurulmuş olup, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir rol oynar. Orman, ziyaretçilere doğa yürüyüşü, pikni ve diğer outdoor aktiviteleri için uygun bir ortam sunmaktadır. Sakarya ilinin merkezine yakın konumuyla, ziyaretçiler için kolay ulaşılabilir bir noktada yer alır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sakarya-İzmit-Kerpe Araştırma Orman Radiata Çamı'nın tarihi geçmişi, bö
 
 ## Coğrafya
 
-Sakarya-İzmit-Kerpe Araştırma Orman Radiata Çamı, Marmara Bölgesi'nin Sakarya ilinde, İznik Gölü'nün güneyinde yer alır. Orman, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, coğrafi olarak Karadeniz Bölgesi'nini altında kalır ve nemli bir iklimi vardır. Orman, Radiata Çamı'nın yetiştirilmesi için uygun bir bölgede yer alır, çünkü bu ağaç türleri nemli ve serin iklimleri tercih eder. Sakarya ilinin merkezine yakın konumu, ziyaretçiler için ulaşımı kolaylaştırır. Orman, doğu-batı yönünde uzanan bir vadi içinde yer alır ve etrafı diğer ormanlık alanlarla çevrilidir. Bu coğrafi konum, ormanın ekolojik dengesini korur ve çeşitli bitki ve hayvan türlerinin yaşamasına olanak sağlar.
+Sakarya-İzmit-Kerpe Araştırma Orman Radiata Çamı, Marmara Bölgesi'nin Sakarya ilinde, İznik Gölü'nün güneyinde yer alır. Bu bölge, coğrafi olarak Karadeniz Bölgesi'nini altında kalır ve nemli bir iklimi vardır. Orman, Radiata Çamı'nın yetiştirilmesi için uygun bir bölgede yer alır, çünkü bu ağaç türleri nemli ve serin iklimleri tercih eder. Sakarya ilinin merkezine yakın konumu, ziyaretçiler için ulaşımı kolaylaştırır. Orman, doğu-batı yönünde uzanan bir vadi içinde yer alır ve etrafı diğer ormanlık alanlarla çevrilidir. Bu coğrafi konum, ormanın ekolojik dengesini korur ve çeşitli bitki ve hayvan türlerinin yaşamasına olanak sağlar.
 
 ## Flora ve Fauna
 

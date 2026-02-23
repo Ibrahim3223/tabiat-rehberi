@@ -28,7 +28,7 @@ wikidata_id: "Q31388009"
 
 # Kocakır Tepesi
 
-Kocakır Tepesi, Uşak ilinin sınırları içinde yer alan ve Ege Bölgesi'nin coğrafi çeşitliliğini gösteren bir tepe olarak bilinir. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kapsar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Kocakır Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir noktadır. Tepenin etrafında yer alan köyler ve kasabalar, bu doğal güzelliğin bir parçası olarak görülür. Kocakır Tepesi, ziyaretçilerini doğal güzellikleriyle büyülemeye hazırdır.
+Kocakır Tepesi, Uşak ilinin sınırları içinde yer alan ve Ege Bölgesi'nin coğrafi çeşitliliğini gösteren bir tepe olarak bilinir. Kocakır Tepesi, bölgenin coğrafi yapısını şekillendiren önemli bir noktadır. Tepenin etrafında yer alan köyler ve kasabalar, bu doğal güzelliğin bir parçası olarak görülür. Kocakır Tepesi, ziyaretçilerini doğal güzellikleriyle büyülemeye hazırdır.
 
 ## Tarihçe
 

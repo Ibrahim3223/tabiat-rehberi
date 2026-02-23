@@ -51,7 +51,7 @@ Mazi İni, çevreye duyarlı bir bölge olarak, komşu alanlar ve su kaynakları
 
 ## Flora ve Fauna
 
-Mazi İni Jeoparkı, Mersin'in eşsiz bir doğal alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bölge, maki bitki örtüsü ve kuraklığa dayanıklı türlerle kaplıdır. İlkbaharın gelmesiyle birlikte, alan çiçeklerle renklendirilir ve mis gibi kokar. 
+Mazi İni Jeoparkı, Mersin'in eşsiz bir doğal alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bölge, maki bitki örtüsü ve kuraklığa dayanıklı türlerle kaplıdır. İlkbaharın gelmesiyle birlikte, alan çiçeklerle renklendirilir ve mis gibi kokar.
 
 Bu jeoparkta, orman ekosistemi çeşitlilik gösterir. Ağaç türleri arasında çam, meşe ve zeytin ağaçları bulunur. Bu ağaçlar, birçok orman memelisinin yaşam alanını oluşturur. Kış aylarında, göçmen kuşlar buraya gelir ve ilkbaharla birlikte yuvalarını inşa ederler. Bu ekosistemin bir parçası da sürüngenlerdir; yılanlar ve kertenkeleler, bu bölgede sıkça görülen canlılardır. Bu bölgenin ekolojik değerini koruma altına almak, gelecek nesiller için oldukça önemlidir.
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228664"
 
 # ARSLANBEY
 
-Arslanbey Milli Parkı, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık bir alanı kaplayan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası. Bu bölge, doğal güzellikleri ve zengin fauna ile dikkat çekiyor. 1961 yılında milli park olarak ilan edilen bu alan, aynı zamanda önemli bir yaban hayatı koruma alanı. Arslanbey Milli Parkı, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Parkın içinde çeşitli değil, çeşitli bitki türleri ve yaban hayvanları bulunmakta.
+ Bu bölge, doğal güzellikleri ve zengin fauna ile dikkat çekiyor. 1961 yılında milli park olarak ilan edilen bu alan, aynı zamanda önemli bir yaban hayatı koruma alanı. Arslanbey Milli Parkı, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Parkın içinde çeşitli değil, çeşitli bitki türleri ve yaban hayvanları bulunmakta.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Arslanbey Milli Parkı, ziyaretçilerini yılın her dönemi karşılayabilecek 
 ## İlginç Bilgiler
 
 - Arslanbey Milli Parkı, 1961 yılında milli park olarak ilan edilmiştir.
-- Parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Arslanbey Milli Parkı, önemli bir yaban hayatı koruma alanı.
 - Parkta, çeşitli bitki türleri ve yaban hayvanları bulunmakta.
 - Arslanbey Milli Parkı, aynı zamanda önemli bir su kaynağı.

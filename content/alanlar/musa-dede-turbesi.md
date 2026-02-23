@@ -1,7 +1,7 @@
 ---
 title: "Musa Dede Türbesi"
 date: "2026-01-10T06:05:32.520Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390497"
 
 # Musa Dede Türbesi
 
-Musa Dede Türbesi, Alanya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. Bu alan, 140 hektarlık bir yeşil alan içinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Musa Dede Türbesi, ziyaretçilerine hem tarihi hem de doğal güzelliğin birleştiği bir atmosfer sunuyor. Burada, Akdeniz Bölgesi'nin güneşli iklimini ve tarihi yapılarını yakından keşfetme fırsatı bulacaksınız. Bu mekan, hem yerli hem de yabancı turistler için önemli bir gezi noktası.
+Musa Dede Türbesi, Alanya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. Musa Dede Türbesi, ziyaretçilerine hem tarihi hem de doğal güzelliğin birleştiği bir atmosfer sunuyor. Burada, Akdeniz Bölgesi'nin güneşli iklimini ve tarihi yapılarını yakından keşfetme fırsatı bulacaksınız. Bu mekan, hem yerli hem de yabancı turistler için önemli bir gezi noktası.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Musa Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu me
 
 ## Coğrafya
 
-Musa Dede Türbesi, Alanya'nın merkezinde yer alıyor ve Akdeniz Bölgesi'nin güneşli iklimini taşıyor. Bu mekan, 140 hektarlık bir yeşil alan içinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Çevrede, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Musa Dede Türbesi'nin coğrafi konumu, ziyaretçilerine hem deniz hem de dağ manzaraları sunuyor. Burada, Akdeniz Bölgesi'nin güneşli iklimini ve tarihi yapılarını yakından keşfetme fırsatı bulacaksınız. Bu mekan, hem doğal güzelliği hem de tarihi atmosferi ile dikkat çekiyor. Musa Dede Türbesi, Alanya'nın önemli gezi noktalarından biri olarak biliniyor.
+Musa Dede Türbesi, Alanya'nın merkezinde yer alıyor ve Akdeniz Bölgesi'nin güneşli iklimini taşıyor. Çevrede, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Musa Dede Türbesi'nin coğrafi konumu, ziyaretçilerine hem deniz hem de dağ manzaraları sunuyor. Burada, Akdeniz Bölgesi'nin güneşli iklimini ve tarihi yapılarını yakından keşfetme fırsatı bulacaksınız. Bu mekan, hem doğal güzelliği hem de tarihi atmosferi ile dikkat çekiyor. Musa Dede Türbesi, Alanya'nın önemli gezi noktalarından biri olarak biliniyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388058"
 
 # Avar Tepesi
 
-Avar Tepesi, Muş ilinin doğal güzellikleri arasında yer alan bir tepe olarak dikkat çeker. Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, Avar Tepesi de bölgenin genel özellikleri taşıyan bir yapıya sahiptir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplar. Bu büyüklük, ziyaretçilerin geniş bir alanı keşfetmesine olanak tanır. Avar Tepesi'nin eteklerinde yer alan köyler, bölgenin tarihi ve kültürel zenginliğini yansıtır. Bu köylerin birçoğu, yüzyıllar boyunca aynı geleneği sürdüren ailelerce mesken olarak kullanılmıştır.
+Avar Tepesi, Muş ilinin doğal güzellikleri arasında yer alan bir tepe olarak dikkat çeker. Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, Avar Tepesi de bölgenin genel özellikleri taşıyan bir yapıya sahiptir. Bu büyüklük, ziyaretçilerin geniş bir alanı keşfetmesine olanak tanır. Avar Tepesi'nin eteklerinde yer alan köyler, bölgenin tarihi ve kültürel zenginliğini yansıtır. Bu köylerin birçoğu, yüzyıllar boyunca aynı geleneği sürdüren ailelerce mesken olarak kullanılmıştır.
 
 ## Tarihçe
 

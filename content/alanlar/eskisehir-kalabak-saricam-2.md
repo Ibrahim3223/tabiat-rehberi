@@ -22,7 +22,7 @@ wikidata_id: "Q108227980"
 
 # Eskişehir-Kalabak Saricam 2
 
-Eskişehir-Kalabak Saricam 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde, Eskişehir ilinin sınırları içerisinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekmektedir. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Milli parkın konumu, hem doğal güzellikleri hem de turizm potansiyeli açısından önemli bir yere sahiptir. Ziyaretçiler, bu yeşil cennette doğa ile baş başa kalabilir, temiz hava ve sakin bir ortamın keyfini çıkarabilirler. Eskişehir-Kalabak Saricam 2 milli parkı, özellikle hafta sonları ve tatil günlerinde hem yerli hem de yabancı turistlerin uğrak noktası haline gelmiştir.
+Eskişehir-Kalabak Saricam 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde, Eskişehir ilinin sınırları içerisinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekmektedir. Milli parkın konumu, hem doğal güzellikleri hem de turizm potansiyeli açısından önemli bir yere sahiptir. Ziyaretçiler, bu yeşil cennette doğa ile baş başa kalabilir, temiz hava ve sakin bir ortamın keyfini çıkarabilirler. Eskişehir-Kalabak Saricam 2 milli parkı, özellikle hafta sonları ve tatil günlerinde hem yerli hem de yabancı turistlerin uğrak noktası haline gelmiştir.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Eskişehir-Kalabak Saricam 2 milli parkını ziyaret etmek, doğa severler için
 ## İlginç Bilgiler
 
 - Eskişehir-Kalabak Saricam 2 milli parkı, 140 hektarlık bir yeşil alana sahiptir.
-- Milli park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Eskişehir-Kalabak Saricam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini sergiler.
 - Milli parkın flora ve fauna zenginliği, ziyaretçilerin ilgisini çekmektedir.
 - Eskişehir-Kalabak Saricam 2 milli parkı, turizm potansiyeli açısından önemli bir bölgedir.

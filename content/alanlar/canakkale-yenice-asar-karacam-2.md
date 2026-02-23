@@ -22,7 +22,7 @@ wikidata_id: "Q108227496"
 
 # Canakkale-Yenice-Asar Karacam 2
 
-Çanakkale-Yenice-Asar Karacam 2 Milli Parkı, Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan 140 hektarlık bir yeşil alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Parkın içinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, parkın güzel manzarasını seyretmek, doğayla iç içe olma ve streslerini atmaktan keyif alabilirler. Parka gelip, doğanın güzelliğini keşfetmek isteyenler, burada güzel anılar biriktirebilirler.
+Çanakkale-Yenice-Asar Karacam 2 Milli Parkı, Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan 140 hektarlık bir yeşil alana sahiptir. Parkın içinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, parkın güzel manzarasını seyretmek, doğayla iç içe olma ve streslerini atmaktan keyif alabilirler. Parka gelip, doğanın güzelliğini keşfetmek isteyenler, burada güzel anılar biriktirebilirler.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ wikidata_id: "Q108227496"
 
 ## Coğrafya
 
-Çanakkale-Yenice-Asar Karacam 2 Milli Parkı, Marmara Bölgesi'nin Çanakkale ilinde yer almaktadır. Parkın coğrafi yapısı, 140 hektarlık bir yeşil alanı kapsamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişmektedir. Parkın coğrafi konumu, ziyaretçilere çeşitli bitki türleri ve hayvanları etme fırsatı sunmaktadır. Parkın yakınında, çeşitli su kaynakları ve akarsular bulunmaktadır. Bu su kaynakları, parkın ekosistemini desteklemektedir. Parkın coğrafi yapısı, ziyaretçilere güzel manzaralar sunmaktadır.
+Çanakkale-Yenice-Asar Karacam 2 Milli Parkı, Marmara Bölgesi'nin Çanakkale ilinde yer almaktadır. Parkın coğrafi yapısı, 140 hektarlık bir yeşil alanı kapsamaktadır. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişmektedir. Parkın coğrafi konumu, ziyaretçilere çeşitli bitki türleri ve hayvanları etme fırsatı sunmaktadır. Parkın yakınında, çeşitli su kaynakları ve akarsular bulunmaktadır. Bu su kaynakları, parkın ekosistemini desteklemektedir. Parkın coğrafi yapısı, ziyaretçilere güzel manzaralar sunmaktadır.
 
 ## Flora ve Fauna
 
-Çanakkale-Yenice-Asar Karacam 2 Milli Parkı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır. Parkın flora ve fauna zenginliği, ziyaretçilere güzel bir deneyim sunmaktadır. Parkta, mevsimsel değişimler, canlıların yaşamını etkilemektedir. Parkın ekosistemi, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunmaktadır. Parkta, çeşitli kuş türleri, memeliler ve sürüngenler yaşamaktadır. Parkın flora ve fauna zenginliği, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilmektedir.
+Çanakkale-Yenice-Asar Karacam 2 Milli Parkı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır. Parkın flora ve fauna zenginliği, ziyaretçilere güzel bir deneyim sunmaktadır. Parkta, mevsimsel değişimler, canlıların yaşamını etkilemektedir. Parkta, çeşitli kuş türleri, memeliler ve sürüngenler yaşamaktadır. Parkın flora ve fauna zenginliği, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilmektedir.
 
 ## Ziyaret Bilgileri
 

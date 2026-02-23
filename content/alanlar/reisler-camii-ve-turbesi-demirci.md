@@ -1,7 +1,7 @@
 ---
 title: "Reisler Camii ve Türbesi, Demirci"
 date: "2026-01-10T06:34:46.610Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q132134538"
 
 # Reisler Camii ve Türbesi, Demirci
 
-Demirci'de yer alan Reisler Camii ve Türbesi, Manisa'nın önemli tarihi ve dini merkezlerinden biri olarak dikkat çekiyor. 140 hektarlık bir alanda konumlanan bu tarihi kompleks, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Reisler Camii ve Türbesi, Demirci'nin merkezinde yer alıyor ve ziyaretçiler tarafından sıklıkla ziyaret ediliyor. Bu tarihi mekan, Ege Bölgesi'nin zengin tarihsel mirasını yansıtıyor.
+Demirci'de yer alan Reisler Camii ve Türbesi, Manisa'nın önemli tarihi ve dini merkezlerinden biri olarak dikkat çekiyor. Reisler Camii ve Türbesi, Demirci'nin merkezinde yer alıyor ve ziyaretçiler tarafından sıklıkla ziyaret ediliyor. Bu tarihi mekan, Ege Bölgesi'nin zengin tarihsel mirasını yansıtıyor.
 
 ## Tarihçe
 

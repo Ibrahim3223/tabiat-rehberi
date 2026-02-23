@@ -1,7 +1,7 @@
 ---
 title: "Pazarbaşı Hamamı"
 date: "2026-01-09T23:34:21.402Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739170"
 
 # Pazarbaşı Hamamı
 
-Pazarbaşı Hamamı, Burhaniye'nin kalbinde yer alan 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş ve yeşillik dolu alan, ziyaretçilerini doğanın kucağına davet ediyor. Burada, doğanın güzelliği ve sakinliği bir araya geliyor. Ziyaretçiler, bu güzel ortamda doğayı keşfedebilir, dinlenebilir ve stresinden kurtulabilir. Yeşil alanın büyüklüğü, yaklaşık 200 futbol sahası büyüklüğünde olup, buraya gelenler geniş ve ferah bir mekanda zaman geçirebiliyor.
+ Bu geniş ve yeşillik dolu alan, ziyaretçilerini doğanın kucağına davet ediyor. Burada, doğanın güzelliği ve sakinliği bir araya geliyor. Ziyaretçiler, bu güzel ortamda doğayı keşfedebilir, dinlenebilir ve stresinden kurtulabilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Pazarbaşı Hamamı'nın tarihi geçmişi, Burhaniye'nin tarihi ile iç içe ge�
 
 ## Coğrafya
 
-Pazarbaşı Hamamı, Marmara Bölgesi'nin güzide ilçelerinden Burhaniye'de bulunuyor. Burhaniye, doğal güzellikleri, tarihi zenginlikleri ve misafirperver halkı ile ünlü bir ilçe. Hamam, ilçenin merkezinde yer alıyor ve etrafı yeşilliklerle çevrili. 140 hektarlık yeşil alanı, ziyaretçilere geniş bir alan sunuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Hamamın coğrafi konumu, ziyaretçilerin hem doğayı hem de tarihi bir arada keşfetmesine olanak tanıyor. İlçe, iklim olarak ılıman bir bölge ve yıl boyunca ziyaret edilebilir. Çevre, yeşilliklerle dolu ve ziyaretçilere huzurlu bir ortam sunuyor.
+Pazarbaşı Hamamı, Marmara Bölgesi'nin güzide ilçelerinden Burhaniye'de bulunuyor. Burhaniye, doğal güzellikleri, tarihi zenginlikleri ve misafirperver halkı ile ünlü bir ilçe. Hamam, ilçenin merkezinde yer alıyor ve etrafı yeşilliklerle çevrili. 140 hektarlık yeşil alanı, ziyaretçilere geniş bir alan sunuyor. Hamamın coğrafi konumu, ziyaretçilerin hem doğayı hem de tarihi bir arada keşfetmesine olanak tanıyor. İlçe, iklim olarak ılıman bir bölge ve yıl boyunca ziyaret edilebilir. Çevre, yeşilliklerle dolu ve ziyaretçilere huzurlu bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Pazarbaşı Hamamı'na ziyaretçiler, Burhaniye'ye geldiğinde kolayca ulaşabil
 
 - Pazarbaşı Hamamı, Burhaniye'nin en önemli turistik mekanlarından biri.
 - Hamamın etrafı, 140 hektarlık yeşil alana sahip.
-- Yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölge, çeşitli bitki türleri ile dolu.
 - Ziyaretçiler, hamamın tarihi ve kültürel önemini keşfedebilir.

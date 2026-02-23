@@ -34,8 +34,8 @@ Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan K
 
 ## Tarihçe
 
-Şanlıurfa bölgesi, tarihin en eski uygarlıklarının yaşamış olduğu bir coğrafyada yer alır. Binlerce yıl önce, Mezopotamya'nın verimli ovalarında kurulan ilk yerleşim yerleri, bölgenin stratejik önemini vurgular. Sümerler, Akadlar, Hititler ve daha birçok medeniyet, bu topraklarda iz bırakmışlardır. 
-Karkamış Baraj Gölü de, bu tarihsel coğrafyanın içerisinde yer alır. Türkiye'de benzer doğal alanlar, genellikle insan yerleşimlerinin ve ticaret yollarının kavşak noktalarında bulunur. Bu tür göller ve nehirler, tarih boyunca insanların su kaynağı, tarım alanı ve ulaşım yolu olarak kullanılmıştır. Şanlıurfa bölgesinde de, insanların bu doğal alanlarla ilişkisi yaylacılık, hayvancılık ve ticaret gibi faaliyetlerle şekillenmiştir. 
+Şanlıurfa bölgesi, tarihin en eski uygarlıklarının yaşamış olduğu bir coğrafyada yer alır. Binlerce yıl önce, Mezopotamya'nın verimli ovalarında kurulan ilk yerleşim yerleri, bölgenin stratejik önemini vurgular. Sümerler, Akadlar, Hititler ve daha birçok medeniyet, bu topraklarda iz bırakmışlardır.
+Karkamış Baraj Gölü de, bu tarihsel coğrafyanın içerisinde yer alır. Türkiye'de benzer doğal alanlar, genellikle insan yerleşimlerinin ve ticaret yollarının kavşak noktalarında bulunur. Bu tür göller ve nehirler, tarih boyunca insanların su kaynağı, tarım alanı ve ulaşım yolu olarak kullanılmıştır. Şanlıurfa bölgesinde de, insanların bu doğal alanlarla ilişkisi yaylacılık, hayvancılık ve ticaret gibi faaliyetlerle şekillenmiştir.
 Bölge, tarihin akışı içerisinde önemli ticaret yollarına da ev sahipliği yapmış, Fırat Nehri gibi önemli su kaynakları da insanların yerleşim ve ekonomik faaliyetlerini etkilemiştir. Karkamış Baraj Gölü, bu geniş tarihsel bağlamın bir parçası olarak, bölgenin doğal güzelliğini ve insan yerleşimlerinin tarihi izlerini taşıyan önemli bir alandır.
 
 ## Coğrafya

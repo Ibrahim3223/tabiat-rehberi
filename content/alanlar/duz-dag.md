@@ -33,9 +33,9 @@ Kastamonu'nun yeşilliklerle kaplı dağlık arazisinde gizlenen Düz Dağ, ziya
 
 ## Tarihçe
 
-Kastamonu bölgesi, zengin bir tarihsel mirasa sahip olan bir coğrafyada yer alır. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisine maruz kalmıştır. Hitit, Roma ve Bizans gibi medeniyetler, Kastamonu'nun topraklarında izler bırakmışlardır. 
+Kastamonu bölgesi, zengin bir tarihsel mirasa sahip olan bir coğrafyada yer alır. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisine maruz kalmıştır. Hitit, Roma ve Bizans gibi medeniyetler, Kastamonu'nun topraklarında izler bırakmışlardır.
 
-Düz Dağ gibi doğal alanlar, Türkiye'de önemli bir tarihsel öneme sahiptir. Bu alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve tarım faaliyetlerini gerçekleştirdikleri yerler olarak görev görmüşlerdir. Ayrıca, bölgedeki yaylacılık geleneği, bu doğal alanların insanlarla olan bağlantısını güçlendirmiştir. 
+Düz Dağ gibi doğal alanlar, Türkiye'de önemli bir tarihsel öneme sahiptir. Bu alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve tarım faaliyetlerini gerçekleştirdikleri yerler olarak görev görmüşlerdir. Ayrıca, bölgedeki yaylacılık geleneği, bu doğal alanların insanlarla olan bağlantısını güçlendirmiştir.
 
 İnsanlar, Düz Dağ gibi alanları sadece ekonomik faaliyetler için değil, aynı zamanda sosyal ve kültürel amaçlar için de kullanmışlardır. Ticaret yolları üzerinde yer alan bu bölge, farklı kültürlerin etkileşimine tanıklık etmiştir. Kastamonu'nun tarihsel zenginliği, Düz Dağ'ın da bir parçası olduğu bu geniş coğrafyada hissedilir. Bu doğal alan, bölgenin tarihini ve kültürünü anlamak için önemli bir noktadır.
 

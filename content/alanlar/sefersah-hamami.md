@@ -1,7 +1,7 @@
 ---
 title: "Seferşah Hamamı"
 date: "2026-01-09T22:36:45.201Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ezine"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738704"
 
 # Seferşah Hamamı
 
-Seferşah Hamamı, Ezine'nin güler yüzlü halkının misafirperverliği ve bölgenin doğal güzelliklerinin birleştiği özel bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunuyor. Seferşah Hamamı, hem yerel halk hem de dışarıdan gelen ziyaretçiler için keyifli anlar sunabilecek bir yer. Denizin serinliği ve güneşin sıcaklığı, bu özel destinasyonda bir araya geliyor.
+Seferşah Hamamı, Ezine'nin güler yüzlü halkının misafirperverliği ve bölgenin doğal güzelliklerinin birleştiği özel bir destinasyon. Seferşah Hamamı, hem yerel halk hem de dışarıdan gelen ziyaretçiler için keyifli anlar sunabilecek bir yer. Denizin serinliği ve güneşin sıcaklığı, bu özel destinasyonda bir araya geliyor.
 
 ## Tarihçe
 

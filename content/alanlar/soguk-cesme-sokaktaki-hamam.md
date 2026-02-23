@@ -1,7 +1,7 @@
 ---
 title: "Soğuk Çeşme Sokaktaki Hamam"
 date: "2026-01-09T23:08:18.855Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738905"
 
 # Soğuk Çeşme Sokaktaki Hamam
 
-Soğuk Çeşme Sokaktaki Hamam, İstanbul'un tarihi ilçesi Fatih'te yer alan, Marmara Bölgesi'nin önemli kültürel varlıklarından biri olarak dikkat çekiyor. Bu tarihi hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Soğuk Çeşme Sokaktaki Hamam, İstanbul'un tarihi dokusunu yansıtan önemli bir mekan olarak, ziyaretçilerini geçmişe götürmeyi başarıyor. Hamamın tarihi geçmişi, İstanbul'un zengin kültürel mirasını gözler önüne seriyor.
+Soğuk Çeşme Sokaktaki Hamam, İstanbul'un tarihi ilçesi Fatih'te yer alan, Marmara Bölgesi'nin önemli kültürel varlıklarından biri olarak dikkat çekiyor. Soğuk Çeşme Sokaktaki Hamam, İstanbul'un tarihi dokusunu yansıtan önemli bir mekan olarak, ziyaretçilerini geçmişe götürmeyi başarıyor. Hamamın tarihi geçmişi, İstanbul'un zengin kültürel mirasını gözler önüne seriyor.
 
 ## Tarihçe
 

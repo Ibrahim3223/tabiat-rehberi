@@ -28,7 +28,7 @@ wikidata_id: "Q31387438"
 
 # Havatarık Tepesi
 
-Havatarık Tepesi, Van şehrinin merkezine yakın bir konumda yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve oldukça geniş bir yeşil alanı kapsıyor. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Havatarık Tepesi'nin yüksekliği ve konumundan dolayı, Van şehrinin panoramik manzarasını izlemek için ideal bir nokta olarak kabul ediliyor.
+Havatarık Tepesi, Van şehrinin merkezine yakın bir konumda yer alıyor. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Havatarık Tepesi'nin yüksekliği ve konumundan dolayı, Van şehrinin panoramik manzarasını izlemek için ideal bir nokta olarak kabul ediliyor.
 
 ## Tarihçe
 

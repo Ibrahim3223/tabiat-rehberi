@@ -22,7 +22,7 @@ wikidata_id: "Q108227526"
 
 # Kutahya-Altintas Karacam
 
-Kutahya-Altintas Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Bu geniş arazi, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için gerçek bir cennet. Burada, yaban hayatının zenginliğini ve çeşitli bitki türlerini keşfetme mümkün. Milli park, ziyaretçilerini hem doğal güzellikleriyle hem de tarihi zenginlikleriyle büyülüyor.
+Kutahya-Altintas Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Burada, yaban hayatının zenginliğini ve çeşitli bitki türlerini keşfetme mümkün. Milli park, ziyaretçilerini hem doğal güzellikleriyle hem de tarihi zenginlikleriyle büyülüyor.
 
 ## Tarihçe
 

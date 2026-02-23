@@ -28,7 +28,7 @@ wikidata_id: "Q31386253"
 
 # Basık Tepe
 
-Basık Tepe, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Basık Tepe'nin yüksekliği ve konumu, ziyaretçilerine geniş bir panorama sunar ve çevredeki diğer coğrafi oluşumları gözlemlemek için ideal bir noktadır. Basık Tepe, aynı zamanda doğa severler için bir cazibe merkezi olarak kabul edilir ve ziyaretçilerine çeşitli doğa aktivitelerini deneyimleme fırsatı sunar.
+Basık Tepe, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri olarak bilinir. Basık Tepe'nin yüksekliği ve konumu, ziyaretçilerine geniş bir panorama sunar ve çevredeki diğer coğrafi oluşumları gözlemlemek için ideal bir noktadır. Basık Tepe, aynı zamanda doğa severler için bir cazibe merkezi olarak kabul edilir ve ziyaretçilerine çeşitli doğa aktivitelerini deneyimleme fırsatı sunar.
 
 ## Tarihçe
 

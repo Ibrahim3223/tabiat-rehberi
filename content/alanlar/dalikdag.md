@@ -32,7 +32,7 @@ Iğdır'ın dağlık bölgesinde yer alan Dalikdağ, Türkiye'nin doğu ucunda b
 
 ## Tarihçe
 
-Iğdır bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların geçiş noktası olmuştur. İskitler, Persler, Romalılar ve Selçuklular gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. Iğdır'ın coğrafi konumu, ticaret yollarının kesişme noktasında bulunması, bölgenin stratejik önemini artırmıştır.
+Iğdır bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların geçiş noktası olmuştur. İskitler, Persler, Romalılar ve Selçuklular gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. Iğdır'ın coğrafi konumu, ticaret yollarının kesişme noktasında bulunması, bölgenin stratejik önemini artırmıştır.
 
 Doğal güzellikleri ile olan Dalikdağ, bölgenin tarihine de tanıklık etmiştir. Türkiye'de doğal alanlar, tarihsel olarak önemli bir role sahiptir. Bu alanlar, insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlamıştır. Yaylacılık ve hayvancılık, bu bölgede yaşayan halkın temel geçim kaynakları arasında yer almıştır. Ayrıca, bölgedeki ticaret yolları, insanların ve malların hareketi için önemli bir arter olmuştur.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386465"
 
 # Gora Bozkyuyuk
 
-Gora Bozkyuyuk, İç Anadolu Bölgesi'nin merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde olan geniş ve yeşil bir alan olarak dikkat çekiyor. Gora Bozkyuyuk, ziyaretçilerini doğal güzelliği ve tarihi geçmişi ile çekiyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu tepe, bölgenin jeoloji ve ekolojik yapısını gözlemlemek için ideal bir nokta.
+Gora Bozkyuyuk, İç Anadolu Bölgesi'nin merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Gora Bozkyuyuk, ziyaretçilerini doğal güzelliği ve tarihi geçmişi ile çekiyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu tepe, bölgenin jeoloji ve ekolojik yapısını gözlemlemek için ideal bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gora Bozkyuyuk'un tarihi geçmişi, İç Anadolu Bölgesi'nin tarihçesi ile iç
 
 ## Coğrafya
 
-Gora Bozkyuyuk, İç Anadolu Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde, geniş ve yeşil bir tepe olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Gora Bozkyuyuk'un coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafi özelliklerini yansıtıyor. Bu tepe, bölgenin jeoloji ve ekolojik yapısını gözlemlemek için ideal bir nokta. Gora Bozkyuyuk'un etrafında, çeşitli bitki türleri ve zengin fauna mevcut. Bu bölge, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini gösteriyor ve ziyaretçilerine doğal güzelliği ile dolu bir deneyimi sunuyor. Gora Bozkyuyuk'un iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor ve bu bölge, karasal iklimin özellikleri ile karakterize ediliyor.
+Gora Bozkyuyuk, İç Anadolu Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde, geniş ve yeşil bir tepe olarak karşımıza çıkıyor. Gora Bozkyuyuk'un coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafi özelliklerini yansıtıyor. Bu tepe, bölgenin jeoloji ve ekolojik yapısını gözlemlemek için ideal bir nokta. Gora Bozkyuyuk'un etrafında, çeşitli bitki türleri ve zengin fauna mevcut. Bu bölge, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini gösteriyor ve ziyaretçilerine doğal güzelliği ile dolu bir deneyimi sunuyor. Gora Bozkyuyuk'un iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor ve bu bölge, karasal iklimin özellikleri ile karakterize ediliyor.
 
 ## Flora ve Fauna
 

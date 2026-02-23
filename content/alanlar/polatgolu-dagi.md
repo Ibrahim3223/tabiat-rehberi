@@ -48,11 +48,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir r
 
 ## Flora ve Fauna
 
-Polatgölü Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde renkli çiçekler açar, alpin çayırlar canlanır. 
+Polatgölü Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde renkli çiçekler açar, alpin çayırlar canlanır.
 
-Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Sonbaharda, dağların rengi sarı, turuncu ve kırmızının tonlarına dönüşür. Dağların yüksek kesimlerinde, endemik türler yer alır. 
+Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Sonbaharda, dağların rengi sarı, turuncu ve kırmızının tonlarına dönüşür. Dağların yüksek kesimlerinde, endemik türler yer alır.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağ fareleri ve çeşitli kuş türleri bu dağlarda yaşar. Göçmen kuşlar, özellikle sonbaharda, bu dağları geçiş noktası olarak kullanır. Sürüngenler de bu dağların taşlık kesimlerinde yaşar. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağ fareleri ve çeşitli kuş türleri bu dağlarda yaşar. Göçmen kuşlar, özellikle sonbaharda, bu dağları geçiş noktası olarak kullanır. Sürüngenler de bu dağların taşlık kesimlerinde yaşar.
 
 Polatgölü Dağı'nın ekolojik değeri, yüksek dağ ekosistemini korumasından gelir. Bu dağ, bölgenin su döngüsünü düzenlemede önemli bir rol oynar. Ancak, insan faaliyetleri ve iklim değişikliği, bu dağların ekosistemini tehdit etmektedir. Bu nedenle, koruma altına alınması ve sürdürülebilir kullanımının sağlanması büyük önem taşır.
 

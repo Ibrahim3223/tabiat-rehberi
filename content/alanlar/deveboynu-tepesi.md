@@ -28,7 +28,7 @@ wikidata_id: "Q31388202"
 
 # Deveboynu Tepesi
 
-Deveboynu Tepesi, Aydın ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Deveboynu Tepesi, ziyaretçilerini doğanın güzelliği ve zengin çeşitliliği ile karşılar. Bu tepenin eteklerinde ve çevresinde çeşitli bitki türleri yetişir ve yaban hayatı oldukça zengin. Deveboynu Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir gezi noktası.
+Deveboynu Tepesi, Aydın ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Deveboynu Tepesi, ziyaretçilerini doğanın güzelliği ve zengin çeşitliliği ile karşılar. Bu tepenin eteklerinde ve çevresinde çeşitli bitki türleri yetişir ve yaban hayatı oldukça zengin. Deveboynu Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir gezi noktası.
 
 ## Tarihçe
 

@@ -33,11 +33,11 @@ Ardahan'ın doğal güzelliklerinin arasında yer alan Kanlı Dağı, şehrin pa
 
 ## Tarihçe
 
-Ardahan bölgesi, tarihin sâu sayfalarında gizli bir hazinedir. Binlerce yıllık geçmişinde, çeşitli uygarlıkların izlerini taşır. Kanlı Dağı da, bu bölgenin zengin tarihi dokusunun bir parçasıdır. Eski ticaret yollarının kesişme noktasında bulunan Ardahan, tarih boyunca farklı kültürlerin buluşma noktası olmuştur.
+Ardahan bölgesi, tarihin derin sayfalarında gizli bir hazinedir. Binlerce yıllık geçmişinde, çeşitli uygarlıkların izlerini taşır. Kanlı Dağı da, bu bölgenin zengin tarihi dokusunun bir parçasıdır. Eski ticaret yollarının kesişme noktasında bulunan Ardahan, tarih boyunca farklı kültürlerin buluşma noktası olmuştur.
 
 Bu bölgede, insan yerleşimleri ve faaliyetleri, doğal kaynaklara bağlı olarak şekillenmiştir. Yaylacılık ve hayvancılık, bölge halkının geleneksel geçim kaynaklarından olmuştur. Kanlı Dağı ve çevresindeki doğal alanlar, bu faaliyetler için önemli bir kaynak teşkil etmiştir.
 
-Türkiye'de, tarihi ve kültürel önemi yüksek olan birçok doğal alan bulunmakla birlikte, Ardahan bölgesi, coğrafi konumu ve doğal güzellikleri ile dikkat çekmektedir. Bu tür alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda tarih ve kültür açısından da önemli birer miras olarak kabul edilmektedir. Kanlı Dağı da, bu mirasın bir parçası olarak, ziyaretçilerini tarihin sâu sayfalarına götürmeye hazırdır.
+Türkiye'de, tarihi ve kültürel önemi yüksek olan birçok doğal alan bulunmakla birlikte, Ardahan bölgesi, coğrafi konumu ve doğal güzellikleri ile dikkat çekmektedir. Bu tür alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda tarih ve kültür açısından da önemli birer miras olarak kabul edilmektedir. Kanlı Dağı da, bu mirasın bir parçası olarak, ziyaretçilerini tarihin derin sayfalarına götürmeye hazırdır.
 
 ## Coğrafya
 
@@ -51,8 +51,8 @@ Mevsimsel değişiklikler Kanlı Dağı'nda oldukça belirgindir. Kış ayların
 
 ## Flora ve Fauna
 
-Kanlı Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-1. **Bitki Örtüsü**: İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açmaya başlar. Alpin çayırlar, renkli bir hal alır ve dağ ekosisteminin güzelliğini sergiler. 
+Kanlı Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+1. **Bitki Örtüsü**: İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açmaya başlar. Alpin çayırlar, renkli bir hal alır ve dağ ekosisteminin güzelliğini sergiler.
 2. **Yaban Hayatı**: Kanlı Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gökyüzünde hüküm sürer.
 3. **Ekolojik Değer**: Kanlı Dağı, yüksek dağ ekolojisi ve alpin çayırların bir arada bulunduğu ender yerlerden biridir. Bu özelliği, bölgenin ekolojik değerini artırır ve koruma altına alınmasını gerektirir.
 

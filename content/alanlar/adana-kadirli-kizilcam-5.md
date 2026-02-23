@@ -22,7 +22,7 @@ wikidata_id: "Q108227827"
 
 # Adana-Kadirli Kızılçam 5
 
-Adana-Kadirli Kızılçam 5 milli parkı, Akdeniz Bölgesi'nin güzelliklerini keşfedeceğiniz bir destinasyon. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Park, ziyaretçilerine geniş açık alanlar, yürüyüş yolları ve doğal güzellikleri sunuyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Adana-Kadirli Kızılçam 5, doğa severler için bir cennet.
+Adana-Kadirli Kızılçam 5 milli parkı, Akdeniz Bölgesi'nin güzelliklerini keşfedeceğiniz bir destinasyon. Park, ziyaretçilerine geniş açık alanlar, yürüyüş yolları ve doğal güzellikleri sunuyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Adana-Kadirli Kızılçam 5, doğa severler için bir cennet.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32138684"
 
 # Gözlek Tepesi
 
-Gözlek Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. 140 hektarlık geniş arazisiyle yaklaşık 200 futbol sahası büyüklüğünde bir alan sunan bu bölge, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Gözlek Tepesi, etrafındaki diğer tepe ve dağlarla birlikte bir bütünü oluşturuyor ve bu yönüyle coğrafi olarak önemli bir konumda yer alıyor. Bu tepe, aynı zamanda bölgenin tarihi geçmişine de ışık tutuyor. Gözlek Tepesi'nin etrafında yer alan diğer tepe ve dağlar, bu bölgenin coğrafi ve tarihi önemini daha da artırıyor.
+Gözlek Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Gözlek Tepesi, etrafındaki diğer tepe ve dağlarla birlikte bir bütünü oluşturuyor ve bu yönüyle coğrafi olarak önemli bir konumda yer alıyor. Bu tepe, aynı zamanda bölgenin tarihi geçmişine de ışık tutuyor. Gözlek Tepesi'nin etrafında yer alan diğer tepe ve dağlar, bu bölgenin coğrafi ve tarihi önemini daha da artırıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gözlek Tepesi'nin tarihi geçmişi, bölgenin genel tarihçesi ile bağlantıl�
 
 ## Coğrafya
 
-Gözlek Tepesi, Akdeniz Bölgesi'nde yer alan bir tepe olarak coğrafi olarak önemli bir konumda yer alıyor. 140 hektarlık geniş arazisiyle yaklaşık 200 futbol sahası büyüklüğünde bir alan sunan bu bölge, coğrafi olarak zengin bir yapıya sahip. Gözlek Tepesi, etrafındaki diğer tepe ve dağlarla birlikte bir bütünü oluşturuyor. Bu tepe, aynı zamanda bölgenin iklimini de etkiliyor. Akdeniz ikliminin hüküm sürdüğü bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Bu iklim koşulları, Gözlek Tepesi'nin etrafındaki bitki örtüsünü de etkiliyor. Bu bölgede, çeşitli bitki türleri ve ağaçlar yer alıyor. Gözlek Tepesi'nin coğrafi konumu, bu bölgenin doğasını ve ekosistemini şekillendiriyor. Bu tepe, aynı zamanda bölgenin su kaynaklarını da etkiliyor. Bu bölgede, çeşitli nehir ve akarsular yer alıyor.
+Gözlek Tepesi, Akdeniz Bölgesi'nde yer alan bir tepe olarak coğrafi olarak önemli bir konumda yer alıyor. Gözlek Tepesi, etrafındaki diğer tepe ve dağlarla birlikte bir bütünü oluşturuyor. Bu tepe, aynı zamanda bölgenin iklimini de etkiliyor. Akdeniz ikliminin hüküm sürdüğü bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçiyor. Bu iklim koşulları, Gözlek Tepesi'nin etrafındaki bitki örtüsünü de etkiliyor. Bu bölgede, çeşitli bitki türleri ve ağaçlar yer alıyor. Gözlek Tepesi'nin coğrafi konumu, bu bölgenin doğasını ve ekosistemini şekillendiriyor. Bu tepe, aynı zamanda bölgenin su kaynaklarını da etkiliyor. Bu bölgede, çeşitli nehir ve akarsular yer alıyor.
 
 ## Flora ve Fauna
 

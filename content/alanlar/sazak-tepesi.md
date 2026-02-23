@@ -28,7 +28,7 @@ wikidata_id: "Q31387559"
 
 # Sazak Tepesi
 
-Sazak Tepesi, Çanakkale'nin göbeğinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip doğal bir güzelliğimiz. 140 hektarlık bu yeşil alan, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Sazak Tepesi, ziyaretçilerine eşsiz bir manzara sunarken, aynı zamanda bölgenin ekolojik dengesine de önemli katkılar sağlıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sazak Tepesi, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekliyor.
+ 140 hektarlık bu yeşil alan, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Sazak Tepesi, ziyaretçilerine eşsiz bir manzara sunarken, aynı zamanda bölgenin ekolojik dengesine de önemli katkılar sağlıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sazak Tepesi, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sazak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Sazak Tepesi, Çanakkale'nin coğrafi yapısında önemli bir yere sahip. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu yeşil alan, regionun ekolojik dengesine önemli katkılar sağlıyor. Sazak Tepesi, ziyaretçilerine eşsiz bir manzara sunarken, aynı zamanda bölgenin coğrafi yapısını da keşfetme imkanı sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sazak Tepesi, coğrafi konumu itibariyle, Marmara Bölgesi'nin en önemli doğal güzelliği olarak kabul ediliyor. Bölgenin iklimi, ziyaretçilerin yıl boyunca gelip keyifli zaman geçirmesine olanak tanıyor.
+Sazak Tepesi, Çanakkale'nin coğrafi yapısında önemli bir yere sahip. Sazak Tepesi, ziyaretçilerine eşsiz bir manzara sunarken, aynı zamanda bölgenin coğrafi yapısını da keşfetme imkanı sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sazak Tepesi, coğrafi konumu itibariyle, Marmara Bölgesi'nin en önemli doğal güzelliği olarak kabul ediliyor. Bölgenin iklimi, ziyaretçilerin yıl boyunca gelip keyifli zaman geçirmesine olanak tanıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Sazak Tepesi'ni ziyaret etmek, Çanakkale'ye gelenlerin yapması gereken bir faa
 ## İlginç Bilgiler
 
 - Sazak Tepesi, 140 hektarlık bir alana sahip.
-- Sazak Tepesi, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Sazak Tepesi, Çanakkale'nin doğal güzelliğine ev sahipliği yapıyor.
 - Sazak Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor.
 - Sazak Tepesi, yıl boyunca ziyaretçilerini ağırlıyor.

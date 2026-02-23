@@ -28,11 +28,11 @@ wikidata_id: "Q34914109"
 
 # Düğme Tepe
 
-Mardin'in histórik dokusu içinde yer alan Düğme Tepe, şehrin zengin kültürel mirasına tanıklık eden önemli bir nokta. Bu dağ, Mardin'in merkezi bir konumunda bulunuyor ve şehrin tarihi yapısını koruyor. Mardin'in farklı bölgelerine hakim bir konumda bulunan Düğme Tepe, ziyaretçilere şehri panoramik olarak izleme fırsatı sunuyor. Burada, Mardin'in tarihi ve kültürel zenginliklerini keşfetme mümkün.
+Mardin'in tarihi dokusu içinde yer alan Düğme Tepe, şehrin zengin kültürel mirasına tanıklık eden önemli bir nokta. Bu dağ, Mardin'in merkezi bir konumunda bulunuyor ve şehrin tarihi yapısını koruyor. Mardin'in farklı bölgelerine hakim bir konumda bulunan Düğme Tepe, ziyaretçilere şehri panoramik olarak izleme fırsatı sunuyor. Burada, Mardin'in tarihi ve kültürel zenginliklerini keşfetme mümkün.
 
 ## Tarihçe
 
-Mardin'in dağlık bölgesinde yer alan Düğme Tepe, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların geçiş noktalarından biri olmuş; Sümerler, Asurlar, Persler ve Roma İmparatorluğu gibi büyük güçler Mardin'i ve çevresini etkilemişlerdir. Düğme Tepe gibi doğal alanlar, bu tarihsel sürecin önemli bir parçasını oluşturur. Türkiye'de, özellikle güneydoğu bölgesinde, bu tür dağlık ve ormanlık alanlar, halkın yaşam tarzı için hayati öneme sahiptir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin ekonomi ve kültürel önemini vurgular. İnsanların bu doğal alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut taşır. Düğme Tepe, Mardin'in zengin tarihsel ve kültürel mirasının bir parçası olarak, ziyaretçilerini tarihin derinliklerine götürmeye davet ediyor. Bu bölgenin gizemli atmosferi ve doğal güzellikleri, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Mardin'in dağlık bölgesinde yer alan Düğme Tepe, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların geçiş noktalarından biri olmuş; Sümerler, Asurlar, Persler ve Roma İmparatorluğu gibi büyük güçler Mardin'i ve çevresini etkilemişlerdir. Düğme Tepe gibi doğal alanlar, bu tarihsel sürecin önemli bir parçasını oluşturur. Türkiye'de, özellikle güneydoğu bölgesinde, bu tür dağlık ve ormanlık alanlar, halkın yaşam tarzı için hayati öneme sahiptir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin ekonomi ve kültürel önemini vurgular. İnsanların bu doğal alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut taşır. Düğme Tepe, Mardin'in zengin tarihsel ve kültürel mirasının bir parçası olarak, ziyaretçilerini tarihin derinliklerine götürmeye davet ediyor. Bu bölgenin gizemli atmosferi ve doğal güzellikleri, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Coğrafya
 
@@ -46,9 +46,9 @@ Doğal bir oluşum olarak Düğme Tepe, çevresindeki diğer coğrafi ve ekoloji
 
 ## Flora ve Fauna
 
-Düğme Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine sahiptir. 1200 hektarlık bu dağ, yükseklik zonlarına göre değişen bitki örtüsüne ev sahipliği yapar. İlkbaharın gelişiyle birlikte, dağ yamaçları renkli çiçeklerle kaplanır ve dağ kekiği, adaçayı gibi aromatik bitkiler yetişir. 
+Düğme Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine sahiptir. 1200 hektarlık bu dağ, yükseklik zonlarına göre değişen bitki örtüsüne ev sahipliği yapar. İlkbaharın gelişiyle birlikte, dağ yamaçları renkli çiçeklerle kaplanır ve dağ kekiği, adaçayı gibi aromatik bitkiler yetişir.
 
-Yaban hayatı bakımından da zengin olan Düğme Tepe, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağların yüksek kesimlerinde, step ekolojisinin karakteristik hayvanları gibi, tilki, tavşan ve yaban keçileri görülebilir. Kuşlar ise, özellikle göç mevsimlerinde, dağların gökyüzünü renkli bir gösteriye dönüştürür. 
+Yaban hayatı bakımından da zengin olan Düğme Tepe, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağların yüksek kesimlerinde, step ekolojisinin karakteristik hayvanları gibi, tilki, tavşan ve yaban keçileri görülebilir. Kuşlar ise, özellikle göç mevsimlerinde, dağların gökyüzünü renkli bir gösteriye dönüştürür.
 
 Düğme Tepe'nin ekolojik değeri, bu dağ ekosisteminin bölgedeki su döngüsünü düzenleme ve toprak erozyonunu önleme gibi rollerinden kaynaklanır. Bu nedenle, bu alanın korunması ve sürdürülebilir kullanımı, bölgenin ekolojik dengesi için hayati önem taşır.
 

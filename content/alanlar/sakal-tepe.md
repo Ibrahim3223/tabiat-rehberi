@@ -29,7 +29,7 @@ wikidata_id: "Q31391070"
 
 # Sakal Tepe
 
-Sakal Tepe, Adıyaman'ın kalbinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli noktalarından biri. Sakal Tepe'nin eteklerinde, şehir hayatının telaşesi ve gürültüsünden uzaklaşarak, doğanın sakinliğinde vakit geçirebilirsiniz. Tepenin etrafında, şehrin tarihi ve kültürel zenginliklerini yansıtan çeşitli yapılar ve anıtlar yer alıyor.
+Sakal Tepe, Adıyaman'ın kalbinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Sakal Tepe'nin eteklerinde, şehir hayatının telaşesi ve gürültüsünden uzaklaşarak, doğanın sakinliğinde vakit geçirebilirsiniz. Tepenin etrafında, şehrin tarihi ve kültürel zenginliklerini yansıtan çeşitli yapılar ve anıtlar yer alıyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Türbe Çamı"
 date: "2026-01-09T19:14:46.946Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228083"
 
 # Türbe Çamı
 
-Türbe Çamı, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu muhteşem alan, ziyaretçilerine doğanın güzelliğini sunar. Gökyüzünün mavi tonlarına karşı, yeşil ormanların uzandığı bu coğrafya, aynı zamanda yaban hayatının zenginliğini de gözler önüne serer. Bu bölgede, çeşitli bitki türleri ve hayvanlar, ziyaretçilere eşsiz bir deneyim sunar.
+Türbe Çamı, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Gökyüzünün mavi tonlarına karşı, yeşil ormanların uzandığı bu coğrafya, aynı zamanda yaban hayatının zenginliğini de gözler önüne serer. Bu bölgede, çeşitli bitki türleri ve hayvanlar, ziyaretçilere eşsiz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Türbe Çamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Türbe Çamı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, geniş ovaları, dağları ve ormanlarıyla dikkat çeker. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, aynı zamanda çeşitli coğrafi özellikler de barındırır. Bu bölgede, ziyaretçilerin gezebileceği çeşitli yürüyüş parkurları ve piknik alanları bulunmaktadır. Ayrıca, bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapı gösterir. Bu nedenle, ziyaretçilerin bu bölgeyi ziyaret edebilmeleri için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, hava koşulları daha uygun olduğu için, ziyaretçiler daha rahat bir gezi deneyimi yaşayabilirler.
+Türbe Çamı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alır. Bu bölge, geniş ovaları, dağları ve ormanlarıyla dikkat çeker. Bu bölgede, ziyaretçilerin gezebileceği çeşitli yürüyüş parkurları ve piknik alanları bulunmaktadır. Ayrıca, bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal bir yapı gösterir. Bu nedenle, ziyaretçilerin bu bölgeyi ziyaret edebilmeleri için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, hava koşulları daha uygun olduğu için, ziyaretçiler daha rahat bir gezi deneyimi yaşayabilirler.
 
 ## Flora ve Fauna
 

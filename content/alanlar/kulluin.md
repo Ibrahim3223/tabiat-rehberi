@@ -32,7 +32,7 @@ Mersin'in zengin doğal mirasını keşfetmek isteyenler için Küllüin Jeopark
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu sayfalarında yer alan bir bölge olarak, birçok uygarlığın izlerini taşıyor. Hitit, Pers, Roma ve Bizans gibi medeniyetler, bu topraklarda yaşamış ve kendi kültürlerini bırakmışlar. Bu bölgede yer alan Küllüin Jeopark, Türkiye'nin doğal mirasının önemli bir parçası olarak dikkat çekiyor.
+Mersin bölgesi, tarihin derin sayfalarında yer alan bir bölge olarak, birçok uygarlığın izlerini taşıyor. Hitit, Pers, Roma ve Bizans gibi medeniyetler, bu topraklarda yaşamış ve kendi kültürlerini bırakmışlar. Bu bölgede yer alan Küllüin Jeopark, Türkiye'nin doğal mirasının önemli bir parçası olarak dikkat çekiyor.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir role sahip olmuşlar. İnsanlar, bu alanları yerleşim yeri, tarım alanı, hayvancılık ve avcılık için kullanmışlar. especially yaylacılık, bu bölgelerde önemli bir gelenek olarak devam etmiş. Ayrıca, tarihi ticaret yolları, bu doğal güzelliklerin arasında geçmiş. İnsanların bu alanlarla olan ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal olarak da önemli.
 

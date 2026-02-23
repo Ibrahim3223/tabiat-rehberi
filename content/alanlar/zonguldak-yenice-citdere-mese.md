@@ -22,7 +22,7 @@ wikidata_id: "Q108227768"
 
 # Zonguldak-Yenice-Citdere Mese
 
-Zonguldak-Yenice-Citdere Mese, Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Mese, zengin flora ve faunayla dolu bir doğa harikası olarak karşımıza çıkıyor. Doğal güzellikleri, yürüyüş parkurları ve çeşitli bitki türleriyle ziyaretçilerini çekiyor. Ayrıca, bu bölgede yapılan araştırmalar, buranın tarihi geçmişi hakkında önemli bilgiler sunuyor. Mese'nin konumu, ziyaretçilerin hem doğayı hem de tarihin zenginliklerini keşfetmesine olanak tanıyor.
+Zonguldak-Yenice-Citdere Mese, Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Mese, zengin flora ve faunayla dolu bir doğa harikası olarak karşımıza çıkıyor. Doğal güzellikleri, yürüyüş parkurları ve çeşitli bitki türleriyle ziyaretçilerini çekiyor. Ayrıca, bu bölgede yapılan araştırmalar, buranın tarihi geçmişi hakkında önemli bilgiler sunuyor. Mese'nin konumu, ziyaretçilerin hem doğayı hem de tarihin zenginliklerini keşfetmesine olanak tanıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Zonguldak-Yenice-Citdere Mese'nin tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Zonguldak-Yenice-Citdere Mese, Karadeniz Bölgesi'nde yer alan bir milli parktır. Bu bölgenin coğrafyası, dağlar, ormanlar ve akarsularla dolu bir manzara sunuyor. Mese'nin coğrafi konumu, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı tanıyor. Bölge, 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Coğrafi yapı, flora ve faunayı destekleyen bir ekosistemi oluşturuyor. Ayrıca, bölgenin iklimi, flora ve faunayı etkileyen önemli bir faktör olarak karşımıza çıkıyor. Mese'nin coğrafyası, ziyaretçilerin doğayı keşfetmesine olanak tanıyan bir yapıya sahip.
+Zonguldak-Yenice-Citdere Mese, Karadeniz Bölgesi'nde yer alan bir milli parktır. Bu bölgenin coğrafyası, dağlar, ormanlar ve akarsularla dolu bir manzara sunuyor. Mese'nin coğrafi konumu, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı tanıyor. Coğrafi yapı, flora ve faunayı destekleyen bir ekosistemi oluşturuyor. Ayrıca, bölgenin iklimi, flora ve faunayı etkileyen önemli bir faktör olarak karşımıza çıkıyor. Mese'nin coğrafyası, ziyaretçilerin doğayı keşfetmesine olanak tanıyan bir yapıya sahip.
 
 ## Flora ve Fauna
 

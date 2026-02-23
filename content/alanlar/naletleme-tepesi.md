@@ -41,7 +41,7 @@ Naletleme Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun ola
 
 ## Flora ve Fauna
 
-Naletleme Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin etrafında, geniş otlaklar ve ormanlık alanlar bulunur. Bu bölge, mevsimsel değişimlere göre farklı bitki türlerine ev sahipliği yapar. Naletleme Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Tepenin etrafında, kuş türleri, memeliler ve sürüngenler gibi çeşitli hayvanlar bulunur. Bu bölge, doğa severler için önemli bir destinasyon olarak görülür ve ziyaretçilere zengin bir ekolojik deneyim sunar.
+ Tepenin etrafında, geniş otlaklar ve ormanlık alanlar bulunur. Bu bölge, mevsimsel değişimlere göre farklı bitki türlerine ev sahipliği yapar. Naletleme Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Tepenin etrafında, kuş türleri, memeliler ve sürüngenler gibi çeşitli hayvanlar bulunur. Bu bölge, doğa severler için önemli bir destinasyon olarak görülür ve ziyaretçilere zengin bir ekolojik deneyim sunar.
 
 ## Ziyaret Bilgileri
 

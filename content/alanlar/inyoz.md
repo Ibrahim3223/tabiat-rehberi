@@ -34,7 +34,7 @@ Santorin ilçesinde bulunan İnyoz, Türkiye'nin en ilginç doğal oluşumların
 
 ## Tarihçe
 
-İnyoz adası, Santorin ilçesi sınırları içerisinde yer alıyor. Bu bölge, tarihin sâu izlerini taşıyan bir coğrafya. Santorin, antik Yunan uygarlıklarının izlerini taşıyor ve tarihi M.Ö. 3000'lere kadar uzanıyor. İnyoz adası ve çevresi, bu zengin tarihsel mirasın bir parçası olarak görülüyor.
+İnyoz adası, Santorin ilçesi sınırları içerisinde yer alıyor. Bu bölge, tarihin derin izlerini taşıyan bir coğrafya. Santorin, antik Yunan uygarlıklarının izlerini taşıyor ve tarihi M.Ö. 3000'lere kadar uzanıyor. İnyoz adası ve çevresi, bu zengin tarihsel mirasın bir parçası olarak görülüyor.
 
 Doğal güzellikleri ve stratejik konumuyla, İnyoz adası ve Santorin bölgesi, tarih boyunca çeşitli uygarlıkların ilgisini çekmiştir. Bu tür doğal alanlar, Türkiye'de tarih boyunca önemli rol oynamışlardır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin ekonomisi ve kültürü üzerinde etkili olmuştur.
 

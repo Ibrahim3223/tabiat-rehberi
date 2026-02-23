@@ -28,7 +28,7 @@ wikidata_id: "Q31390708"
 
 # Somun Tepesi
 
-Somun Tepesi, Tokat ilinin güzide noktalarından biri olarak karşımıza çıkıyor. Bu bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliklerle dolu bir dünyaya davet ediyor. Somun Tepesi, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekiyor. Ziyaretçilerin burayı keşfetmeleri, Tokat'ın tarihi ve kültürel zenginliklerini anlamak için önemli bir fırsat sunuyor.
+Somun Tepesi, Tokat ilinin güzide noktalarından biri olarak karşımıza çıkıyor. Somun Tepesi, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekiyor. Ziyaretçilerin burayı keşfetmeleri, Tokat'ın tarihi ve kültürel zenginliklerini anlamak için önemli bir fırsat sunuyor.
 
 ## Tarihçe
 

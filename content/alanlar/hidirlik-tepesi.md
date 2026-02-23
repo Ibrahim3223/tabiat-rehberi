@@ -29,7 +29,7 @@ wikidata_id: "Q31387136"
 
 # Hıdırlık Tepesi
 
-Hıdırlık Tepesi, Kastamonu'nun merkezinde yer alan ve şehrin tarihi ile doğal güzelliklerini bir araya getiren önemli bir nokta. Tepenin eteklerinde bulunan tarihi eserler ve çevredeki yeşillikler, bu alanı ziyaret edenler için unutulmaz bir deneyim sunuyor. Tepenin yüksekliği, Kastamonu'nun panoramik manzarasını izlemek için ideal bir konum sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Kastamonu'nun en önemli doğal ve tarihi alanlarından biri.
+Hıdırlık Tepesi, Kastamonu'nun merkezinde yer alan ve şehrin tarihi ile doğal güzelliklerini bir araya getiren önemli bir nokta. Tepenin eteklerinde bulunan tarihi eserler ve çevredeki yeşillikler, bu alanı ziyaret edenler için unutulmaz bir deneyim sunuyor. Tepenin yüksekliği, Kastamonu'nun panoramik manzarasını izlemek için ideal bir konum sunuyor.
 
 ## Tarihçe
 

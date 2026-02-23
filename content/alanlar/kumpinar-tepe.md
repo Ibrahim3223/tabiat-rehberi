@@ -32,7 +32,7 @@ Manisa'nın dağlık bölgelerinde yer alan Kumpınar Tepe, ziyaretçilerini bü
 
 ## Tarihçe
 
-Manisa bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölge, Lidya, Roma ve Bizans uygarlıklarının izlerini taşır. Kumpınar Tepe gibi doğal alanlar, bu tarihsel sürecin bir parçası olarak, insanların yaşamlarında önemli roller oynamıştır.
+Manisa bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, Lidya, Roma ve Bizans uygarlıklarının izlerini taşır. Kumpınar Tepe gibi doğal alanlar, bu tarihsel sürecin bir parçası olarak, insanların yaşamlarında önemli roller oynamıştır.
 
 Tarih boyunca, bu tür doğal alanlar, insanların yerleşim, tarım, hayvancılık ve ticaret faaliyetleri için kritik önem taşımıştır. Yaylacılık ve hayvancılık, bölgenin ekonomisinde önemli bir yer tutmuş, insanların bu doğal alanlarla ilişkisi, bölgenin kültürel ve sosyal yapısını şekillendirmiştir.
 
@@ -50,10 +50,10 @@ Doğal kaynaklar açısından, Kumpınar Tepe'nin çevresinde beberapa su kayna�
 
 ## Flora ve Fauna
 
-Kumpınar Tepe, Manisa'nın zeytinliklerle çevrili çam ormanlarına ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kumpınar Tepe, Manisa'nın zeytinliklerle çevrili çam ormanlarına ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 İlkbaharın gelmesi ile birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Çam ormanları, zeytinliklerle iç içe geçerek benzersiz bir manzara sunuyor. Sonbaharda ise, göçmen kuşlar bu dağları konaklama alanı olarak seçiyorlar.
 
-Yaban hayatı açısından zengin olan Kumpınar Tepe, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Dağ keçileri, çamların arasında dolaşırken, kartallar gökyüzünde süzülüyor. Sürüngenler de, bu dağların kayalık yamaçlarında yaşamlarını sürdürüyor. 
+Yaban hayatı açısından zengin olan Kumpınar Tepe, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Dağ keçileri, çamların arasında dolaşırken, kartallar gökyüzünde süzülüyor. Sürüngenler de, bu dağların kayalık yamaçlarında yaşamlarını sürdürüyor.
 
 Kumpınar Tepe'nin ekolojik değeri, burada yaşayan canlıların çeşitliliği ve dağ ekosisteminin bütünlüğü ile ölçülüyor. Bu alan, bölgenin su döngüsünü düzenlemede ve toprak erozyonunu önlemede önemli bir rol oynuyor. Ancak, insan faaliyetleri ve iklim değişikliği tehdidi altında olan bu dağ ekosisteminin korunması, gelecek nesiller için hayati önem taşıyor.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31537279"
 
 # Aydınburnu Tepesi
 
-Aydınburnu Tepesi, Güneydoğu Anadolu Bölgesi'nin Gaziantep şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir alan olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Aydınburnu Tepesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Ayrıca, bu bölgede zengin fauna da dikkat çeker. Aydınburnu Tepesi, ziyaretçilerine hem gezi hem de doğa yürüyüşü imkanı sunar.
+Aydınburnu Tepesi, Güneydoğu Anadolu Bölgesi'nin Gaziantep şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir alan olarak dikkat çekiyor. Aydınburnu Tepesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Ayrıca, bu bölgede zengin fauna da dikkat çeker. Aydınburnu Tepesi, ziyaretçilerine hem gezi hem de doğa yürüyüşü imkanı sunar.
 
 ## Tarihçe
 

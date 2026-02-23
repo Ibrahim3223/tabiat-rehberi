@@ -23,7 +23,7 @@ wikidata_id: "Q108228340"
 
 # Poyrazlar Gölü Tabiat Parkı
 
-Poyrazlar Gölü Tabiat Parkı, Sakarya ilinin sınırları içerisinde yer alan, khong 140 hektarlık bir alanı kapsayan doğal bir güzelliktir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli doğal kaynaklarından biridir. Park, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar. Doğa yürüyüşleri, piknik alanları ve çeşitli flora ve fauna türleriyle, her yaştan ziyaretçiçin keyifli bir deneyim sunar.
+Poyrazlar Gölü Tabiat Parkı, Sakarya ilinin sınırları içerisinde yer alan, khong 140 hektarlık bir alanı kapsayan doğal bir güzelliktir. Park, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar. Doğa yürüyüşleri, piknik alanları ve çeşitli flora ve fauna türleriyle, her yaştan ziyaretçiçin keyifli bir deneyim sunar.
 
 ## Tarihçe
 

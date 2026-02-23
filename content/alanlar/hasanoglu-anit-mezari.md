@@ -1,7 +1,7 @@
 ---
 title: "Hasanoğlu Anıt Mezarı"
 date: "2026-01-10T03:52:00.846Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728155"
 
 # Hasanoğlu Anıt Mezarı
 
-Güneydoğu Anadolu Bölgesi'nin tarihi ve coğrafi zenginliklerini bir araya getiren Hasanoğlu Anıt Mezarı, Araban/Gaziantep'te ziyaretçilerini bekliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgede önemli bir tarihi ve kültürel merkez olarak kabul ediliyor. Bu bölgenin tarihi ve kültürel önemi, sadece Gaziantep için değil, tüm Güneydoğu Anadolu Bölgesi için büyük bir değer taşıyor. Hasanoğlu Anıt Mezarı, sadece bir tarihi yapı değil, aynı zamanda bölge halkının kültürel mirasının önemli bir parçası olarak görülüyor.
+Güneydoğu Anadolu Bölgesi'nin tarihi ve coğrafi zenginliklerini bir araya getiren Hasanoğlu Anıt Mezarı, Araban/Gaziantep'te ziyaretçilerini bekliyor. Bu bölgenin tarihi ve kültürel önemi, sadece Gaziantep için değil, tüm Güneydoğu Anadolu Bölgesi için büyük bir değer taşıyor. Hasanoğlu Anıt Mezarı, sadece bir tarihi yapı değil, aynı zamanda bölge halkının kültürel mirasının önemli bir parçası olarak görülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hasanoğlu Anıt Mezarı'nın tarihi geçmişi, Güneydoğu Anadolu Bölgesi'nin
 
 ## Coğrafya
 
-Hasanoğlu Anıt Mezarı, Araban/Gaziantep'te yer alıyor ve Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri arasında önemli bir yer tutuyor. Bu bölgenin coğrafyası, genellikle geniş ovalar ve dağlık alanlardan oluşuyor. Hasanoğlu Anıt Mezarı da, bu coğrafi çeşitlilik içinde yer alıyor ve ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bölgenin iklimi, genellikle sıcak ve kuru olarak tanımlanıyor, ancak bölgenin coğrafi yapısı, farklı mevsimlerde ziyaretçilere çeşitli manzaralar sunabiliyor. Hasanoğlu Anıt Mezarı'nın bulunduğu alan, 140 hektarlık bir yeşil alan ve bu, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık geliyor. Bu geniş alan, ziyaretçilere doğayı keşfetme ve bölgenin coğrafi güzelliklerini görme fırsatı sunuyor. Bölgenin coğrafi güzellikleri, sadece Hasanoğlu Anıt Mezarı ile sınırlı değil, aynı zamanda civarındaki diğer doğal ve tarihi noktaları da ziyaretçiler için önemli bir çekim merkezi oluşturuyor.
+Hasanoğlu Anıt Mezarı, Araban/Gaziantep'te yer alıyor ve Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri arasında önemli bir yer tutuyor. Bu bölgenin coğrafyası, genellikle geniş ovalar ve dağlık alanlardan oluşuyor. Hasanoğlu Anıt Mezarı da, bu coğrafi çeşitlilik içinde yer alıyor ve ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bölgenin iklimi, genellikle sıcak ve kuru olarak tanımlanıyor, ancak bölgenin coğrafi yapısı, farklı mevsimlerde ziyaretçilere çeşitli manzaralar sunabiliyor. Bu geniş alan, ziyaretçilere doğayı keşfetme ve bölgenin coğrafi güzelliklerini görme fırsatı sunuyor. Bölgenin coğrafi güzellikleri, sadece Hasanoğlu Anıt Mezarı ile sınırlı değil, aynı zamanda civarındaki diğer doğal ve tarihi noktaları da ziyaretçiler için önemli bir çekim merkezi oluşturuyor.
 
 ## Flora ve Fauna
 

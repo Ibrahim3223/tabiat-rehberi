@@ -28,7 +28,7 @@ wikidata_id: "Q31581980"
 
 # Kayarkuzu Tepesi
 
-Kayarkuzu Tepesi, Çorum'un eşsiz güzelliğini ortaya koyan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğüne eşdeğer bir genişliğe sahip. Kayarkuzu Tepesi, ziyaretçilerini çamurlu zeminine ve dik yamaçlarına rağmen, büyüleyici manzarasıyla cezbediyor. Doğa severler için bir cennet olan bu tepe, Karadeniz Bölgesi'nin en önemli doğa noktalarından biri olarak kabul ediliyor. Kayarkuzu Tepesi, ziyaretçilerine büyüleyici bir deneyim sunuyor.
+Kayarkuzu Tepesi, Çorum'un eşsiz güzelliğini ortaya koyan bir doğa harikasıdır. Kayarkuzu Tepesi, ziyaretçilerini çamurlu zeminine ve dik yamaçlarına rağmen, büyüleyici manzarasıyla cezbediyor. Doğa severler için bir cennet olan bu tepe, Karadeniz Bölgesi'nin en önemli doğa noktalarından biri olarak kabul ediliyor. Kayarkuzu Tepesi, ziyaretçilerine büyüleyici bir deneyim sunuyor.
 
 ## Tarihçe
 

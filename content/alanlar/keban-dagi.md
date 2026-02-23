@@ -44,17 +44,17 @@ Doğu Anadolu Bölgesi'nin görkemli dağlarından biri olan Keban Dağı, 38.45
 
 Jeolojik açıdan incelendiğinde, Keban Dağı'nın fiziksel yapısı hakkında detaylı bilgiler olmasa da, koordinatlarından hareketle, bölgenin genel coğrafi yapısını anlama imkanı bulunur. Bu dağ, bölgenin karmaşık jeolojik yapısının bir parçası olarak görülebilir. Yükseklik bakımından, Eiffel Kulesi'nin yaklaşık 3 katı yükseklikte bir tepeye sahip olabilecek bir yapıya sahip olabilir, ancak net bir yüksekli verisi olmadan, bu sadece bir tahmindir.
 
-Mevsimsel olarak, Keban Dağı'nın bulunduğu région, karasal iklimin hakim olduğu bir bölgedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler ve dağların eteklerinde farklı türlerin yaşamalarına olanak tanır.
+Mevsimsel olarak, Keban Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir bölgedir. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkiler ve dağların eteklerinde farklı türlerin yaşamalarına olanak tanır.
 
 Çevresel açıdan, Keban Dağı, Fırat Nehri'nin bir kolu olan Keban Barajı'nın yakınında yer alır. Bu su kaynağı, bölgenin ekosistemini destekler ve yerel fauna için önemli bir yaşam alanı sağlar. Ayrıca, dağlarınKomşu alanlar, su kaynakları ve ekosistem bağlantıları, bölgeyi biyolojik çeşitlilik açısından zengin bir alana dönüştürür. Örneğin, Monaco'nun yarısı kadar bir alanı kaplayan bu dağlık bölge, bölgeyi coğrafi olarak önemli bir yere yerleştirir.
 
 ## Flora ve Fauna
 
-Keban Dağı'nın yükseklik zonlarında, alpin çayırların renk cümbüşü hakimdir. İlkbaharın gelmesiyle birlikte, dağ yamaçları çeşitli çiçek türleriyle donanır. Sonbaharda, göçmen kuşlar dağların üzerinden geçerken, havayı kanat sesleriyle doldurur. 
+Keban Dağı'nın yükseklik zonlarında, alpin çayırların renk cümbüşü hakimdir. İlkbaharın gelmesiyle birlikte, dağ yamaçları çeşitli çiçek türleriyle donanır. Sonbaharda, göçmen kuşlar dağların üzerinden geçerken, havayı kanat sesleriyle doldurur.
 
-Bitki örtüsünde, yüksekliklere göre değişen türler bulunur. Alpin bitkiler, dağların yüksek kesimlerinde görülürken, daha alçak bölgelerde çeşitli otsu bitkiler hakimdir. 
+Bitki örtüsünde, yüksekliklere göre değişen türler bulunur. Alpin bitkiler, dağların yüksek kesimlerinde görülürken, daha alçak bölgelerde çeşitli otsu bitkiler hakimdir.
 
-Yaban hayatı da bir o kadar çeşitlidir. Dağ keçileri ve yaban keçileri, dağların taşlık yamaçlarında görülürken, kartallar ve diğer yırtıcı kuşlar gökyüzünde hükmeder. Sürüngenler ve amfibiler de, dağların nemli bölgelerinde yaşamlarını sürdürür. 
+Yaban hayatı da bir o kadar çeşitlidir. Dağ keçileri ve yaban keçileri, dağların taşlık yamaçlarında görülürken, kartallar ve diğer yırtıcı kuşlar gökyüzünde hükmeder. Sürüngenler ve amfibiler de, dağların nemli bölgelerinde yaşamlarını sürdürür.
 
 Keban Dağı'nın ekolojik değeri, endemik türlerin varlığı ve yüksek dağ ekosisteminin korunmasıyla ilgilidir. Bu dağ, bölge için önemli bir ekosistemdir ve koruma altına alınması gerekmektedir.
 

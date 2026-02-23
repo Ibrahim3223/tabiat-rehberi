@@ -28,7 +28,7 @@ wikidata_id: "Q34823900"
 
 # Çanavaryığını Tepesi
 
-Konya'nın görkemli tepeleri arasında yer alan Çanavaryığını Tepesi, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu muhteşem tepe, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Çanavaryığını Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin flora ve fauna çeşitliliği ile karşılar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yöresel yemekler ve geleneksel el sanatları ile unutulmaz bir deneyim sunar.
+ Bu muhteşem tepe, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Çanavaryığını Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin flora ve fauna çeşitliliği ile karşılar. Tepenin eteklerinde yer alan köyler, ziyaretçilere yöresel yemekler ve geleneksel el sanatları ile unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

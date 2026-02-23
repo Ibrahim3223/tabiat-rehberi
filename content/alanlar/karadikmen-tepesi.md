@@ -28,7 +28,7 @@ wikidata_id: "Q31389603"
 
 # Karadikmen Tepesi
 
-Karadikmen Tepesi, Marmara Bölgesi'nin güzide illerinden Balıkesir'de yer alan bir doğa harikasıdır. Bu bölge, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğa severler için bir cennet olan Karadikmen Tepesi, yerlilerin ve ziyaretçilerin ortak buluşma noktası haline gelmiştir. Tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile birlikte, burası doğa tutkunları için gerçek bir keşif alanıdır. Karadikmen Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir.
+Karadikmen Tepesi, Marmara Bölgesi'nin güzide illerinden Balıkesir'de yer alan bir doğa harikasıdır. Doğa severler için bir cennet olan Karadikmen Tepesi, yerlilerin ve ziyaretçilerin ortak buluşma noktası haline gelmiştir. Tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile birlikte, burası doğa tutkunları için gerçek bir keşif alanıdır. Karadikmen Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karadikmen Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Karadikmen Tepesi, Marmara Bölgesi'nin coğrafi yapısı ile birlikte, özel bir konumda yer almaktadır. Tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleri ile birlikte, burayı bir doğa cenneti haline getirmektedir. Bölge, coğrafi olarak 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Karadikmen Tepesi, deniz seviyesinden yüksek bir konumda yer almakta ve bu nedenle, buradan çevredeki manzaralara bakılabilmektedir. Tepenin etrafındaki ormanlık alanlar, zengin fauna ile birlikte, burayı bir doğa severlerin keşif alanı haline getirmektedir.
+Karadikmen Tepesi, Marmara Bölgesi'nin coğrafi yapısı ile birlikte, özel bir konumda yer almaktadır. Tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleri ile birlikte, burayı bir doğa cenneti haline getirmektedir. Karadikmen Tepesi, deniz seviyesinden yüksek bir konumda yer almakta ve bu nedenle, buradan çevredeki manzaralara bakılabilmektedir. Tepenin etrafındaki ormanlık alanlar, zengin fauna ile birlikte, burayı bir doğa severlerin keşif alanı haline getirmektedir.
 
 ## Flora ve Fauna
 

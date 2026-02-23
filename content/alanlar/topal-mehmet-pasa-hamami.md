@@ -1,7 +1,7 @@
 ---
 title: "Topal Mehmet Paşa Hamamı"
 date: "2026-01-09T22:31:35.134Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738719"
 
 # Topal Mehmet Paşa Hamamı
 
-Topal Mehmet Paşa Hamamı, Giresun'un Şebinkarahisar ilçesinde bulunan bir tarihi hamam ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin doğal güzelliklerini sunmaktadır. Bu alan, hem tarihi hem de doğal güzellikleri bir araya getirmesiyle dikkat çekmektedir. Topal Mehmet Paşa Hamamı, Şebinkarahisar'ın merkezine yakın bir konumda yer almaktadır ve bölge halkı tarafından sıkça ziyaret edilmektedir.
+Topal Mehmet Paşa Hamamı, Giresun'un Şebinkarahisar ilçesinde bulunan bir tarihi hamam ve plaj alanıdır. Bu alan, hem tarihi hem de doğal güzellikleri bir araya getirmesiyle dikkat çekmektedir. Topal Mehmet Paşa Hamamı, Şebinkarahisar'ın merkezine yakın bir konumda yer almaktadır ve bölge halkı tarafından sıkça ziyaret edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Topal Mehmet Paşa Hamamı'nın tarihi geçmişi, Osmanlı Dönemi'ne kadar uzan
 
 ## Coğrafya
 
-Topal Mehmet Paşa Hamamı, Şebinkarahisar'ın merkezine yakın bir konumda yer almaktadır. Bu alan, Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri olan yeşilli ve su kaynaklarına sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin doğal güzelliklerini sunmaktadır. Hamam ve plaj alanı, bölgede yaşayan çeşitli bitki türleri ve zengin fauna ile çevrilidir. Topal Mehmet Paşa Hamamı'nın coğrafi konumu, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Bölgenin iklimi, Karadeniz iklimi özellikleri göstermektedir ve bu, bölgede yaşayan bitkiler ve hayvanlar üzerinde önemli bir etkiye sahiptir.
+Topal Mehmet Paşa Hamamı, Şebinkarahisar'ın merkezine yakın bir konumda yer almaktadır. Bu alan, Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri olan yeşilli ve su kaynaklarına sahiptir. Hamam ve plaj alanı, bölgede yaşayan çeşitli bitki türleri ve zengin fauna ile çevrilidir. Topal Mehmet Paşa Hamamı'nın coğrafi konumu, ziyaretçilerine doğayla iç içe bir deneyim sunmaktadır. Bölgenin iklimi, Karadeniz iklimi özellikleri göstermektedir ve bu, bölgede yaşayan bitkiler ve hayvanlar üzerinde önemli bir etkiye sahiptir.
 
 ## Flora ve Fauna
 

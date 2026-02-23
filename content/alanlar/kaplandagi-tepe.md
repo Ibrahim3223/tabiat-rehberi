@@ -32,7 +32,7 @@ Mardin'in tarihi dokusuyla çevrili coğrafyasında, Kaplandağı Tepe gibi gizl
 
 ## Tarihçe
 
-Mardin bölgesi, tarihin sâu sayfalarında önemli bir yer tutmaktadır. Kaplandağı Tepe, bu bölgenin coğrafi güzelliğinin bir parçasını oluşturmaktadır. Mardin, geçmişte birçok uygarlığa ev sahipliği yapmış bir şehirdir. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu bölge üzerinde hüküm sürmüşlerdir. Bu zengin tarihsel miras, bölgenin kültürel ve coğrafi kimliğini şekillendirmiştir.
+Mardin bölgesi, tarihin derin sayfalarında önemli bir yer tutmaktadır. Kaplandağı Tepe, bu bölgenin coğrafi güzelliğinin bir parçasını oluşturmaktadır. Mardin, geçmişte birçok uygarlığa ev sahipliği yapmış bir şehirdir. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu bölge üzerinde hüküm sürmüşlerdir. Bu zengin tarihsel miras, bölgenin kültürel ve coğrafi kimliğini şekillendirmiştir.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir rol oynamışlardır. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini belirleyen temel faaliyetler olmuştur. Mardin bölgesinde de, insanların doğal alanlarla ilişkisi, bu faaliyetler etrafında şekillenmiştir. Kaplandağı Tepe, bu bölgenin coğrafi güzelliğinin bir parçası olarak, insanların yaşamını ve kültürünü etkileyen önemli bir unsurdur. Bu doğal alanlar, aynı zamanda bölgenin ekolojik dengesini korumakta ve biyolojik çeşitliliğini desteklemektedir. Bu nedenle, Kaplandağı Tepe gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturmaktadır.
 
@@ -64,5 +64,5 @@ Kaplandağı Tepe, Mardin'in doğal güzelliklerini keşfetmek için ideal bir d
 - Mardin'in toplam yüzölçümünün %10'u gibi bir alanı kaplar.
 - Tepe, Mezopotamya Ovası'na hakim bir konumda bulunmaktadır.
 - Yaklaşık olarak deniz seviyesinden 1.200 metre yüksekliktedir.
-- Kaplandağı Tepe, Mardin'in históri ve kültürel açıdan önemli noktalarından biridir.
+- Kaplandağı Tepe, Mardin'in tarihi ve kültürel açıdan önemli noktalarından biridir.
 - Mardin'in diğer önemli noktalarına yakın mesafede yer alır.

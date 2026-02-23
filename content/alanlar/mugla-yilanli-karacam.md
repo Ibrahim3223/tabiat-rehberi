@@ -22,7 +22,7 @@ wikidata_id: "Q108227536"
 
 # Mugla-Yilanli Karacam
 
-Mugla-Yilanli Karacam milli parkı, Muğla'nın doğal güzellikleri arasında yer alan bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin önemli doğal sitelerinden biri olarak kabul ediliyor. Bu milli park, yaban hayatı ve çeşitli bitki türleri ile zengin bir ekosisteme sahip. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, yaban hayvanlarını gözlemleyebilir ve çevrenin güzelliğini keşfedebilir. Mugla-Yilanli Karacam, doğa severler ve çevre tutkunları için ideal bir destinasyon olarak karşımıza çıkıyor.
+Mugla-Yilanli Karacam milli parkı, Muğla'nın doğal güzellikleri arasında yer alan bir alan olarak dikkat çekiyor. Bu milli park, yaban hayatı ve çeşitli bitki türleri ile zengin bir ekosisteme sahip. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, yaban hayvanlarını gözlemleyebilir ve çevrenin güzelliğini keşfedebilir. Mugla-Yilanli Karacam, doğa severler ve çevre tutkunları için ideal bir destinasyon olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

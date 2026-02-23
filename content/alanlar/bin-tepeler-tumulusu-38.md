@@ -29,7 +29,7 @@ wikidata_id: "Q134728344"
 
 # Bin Tepeler Tümülüsü 38
 
-Bin Tepeler Tümülüsü 38, Ege Bölgesi'nin zengin tarihi ve kültürel mirasını keşfetmek isteyenler için önemli bir destinasyon. Salihli, Manisa'da bulunan bu tarihi alan, ziyaretçilerini geçmişe götürüyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunuyor. Tarihi geçmişi, coğrafi konumu ve natuur güzelliği ile birlikte, bu tümülüs, bölgeye gelenlerin ilgisini çekiyor.
+Bin Tepeler Tümülüsü 38, Ege Bölgesi'nin zengin tarihi ve kültürel mirasını keşfetmek isteyenler için önemli bir destinasyon. Salihli, Manisa'da bulunan bu tarihi alan, ziyaretçilerini geçmişe götürüyor. Tarihi geçmişi, coğrafi konumu ve natuur güzelliği ile birlikte, bu tümülüs, bölgeye gelenlerin ilgisini çekiyor.
 
 ## Tarihçe
 

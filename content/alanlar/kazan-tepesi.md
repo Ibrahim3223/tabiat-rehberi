@@ -29,7 +29,7 @@ wikidata_id: "Q31385653"
 
 # Kazan Tepesi
 
-İzmir'in Ege Bölgesi'nde yer alan Kazan Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu doğal güzellik, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve doğayla iç içe bir deneyime davet ediyor. Kazan Tepesi, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak düşünülerek, bölgenin ekolojik dengesini korumak amacıyla çeşitli çalışmalar yürütülmektedir. Ayrıca, bu bölgeye yapılan ziyaretler, yerel ekonomiye de katkıda bulunarak, bölgenin kalkınmasına hre sağlamaktadır.
+ Bu doğal güzellik, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve doğayla iç içe bir deneyime davet ediyor. Kazan Tepesi, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak düşünülerek, bölgenin ekolojik dengesini korumak amacıyla çeşitli çalışmalar yürütülmektedir. Ayrıca, bu bölgeye yapılan ziyaretler, yerel ekonomiye de katkıda bulunarak, bölgenin kalkınmasına hre sağlamaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kazan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Kazan Tepesi, İzmir'in Ege Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak zengin bir yapıya sahiptir. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre olarak ölçülmektedir. Ayrıca, bu bölge, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak düşünülerek, bölgenin ekolojik dengesini korumak amacıyla çeşitli çalışmalar yürütülmektedir. Kazan Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bir bütün olarak düşünülerek, bölgenin coğrafi yapısını tamamlamaktadır. Ayrıca, bu bölge, iklim olarak Akdeniz ikliminin etkilerini göstermekte ve yazları sıcak, kışları ılıman bir hava yapısına sahiptir.
+Kazan Tepesi, İzmir'in Ege Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak zengin bir yapıya sahiptir. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre olarak ölçülmektedir. Ayrıca, bu bölge, çevresindeki diğer doğal güzelliklerle birlikte bir bütün olarak düşünülerek, bölgenin ekolojik dengesini korumak amacıyla çeşitli çalışmalar yürütülmektedir. Kazan Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bir bütün olarak düşünülerek, bölgenin coğrafi yapısını tamamlamaktadır. Ayrıca, bu bölge, iklim olarak Akdeniz ikliminin etkilerini göstermekte ve yazları sıcak, kışları ılıman bir hava yapısına sahiptir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Kazan Tepesi'ne ziyaret, yılın her dönemi möglich olmakla birlikte, ilkbahar
 
 ## İlginç Bilgiler
 
-- Kazan Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, buraya özgü bir iz bırakmıştır.
 - Kazan Tepesi, flora ve fauna açısından zengin bir yapıya sahiptir.
 - Bu bölge, iklim olarak Akdeniz ikliminin etkilerini göstermekte ve yazları sıcak, kışları ılıman bir hava yapısına sahiptir.

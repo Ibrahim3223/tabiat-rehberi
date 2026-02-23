@@ -51,8 +51,8 @@ Boz Dağ'ın çevresel ilişkileri, bölgenin ekosistemini ve su kaynaklarını 
 
 ## Flora ve Fauna
 
-Boz Dağ, Denizli'nin görkemli dağ ekosistemini sunar. 
-1. Bitki Örtüsü: Dağın farklı yükseklik zonlarında, zeytinlikler ve çam ormanları hakimdir. İlkbaharın gelmesiyle, dağ yamaçları renkli çiçeklerle kaplanır. 
+Boz Dağ, Denizli'nin görkemli dağ ekosistemini sunar.
+1. Bitki Örtüsü: Dağın farklı yükseklik zonlarında, zeytinlikler ve çam ormanları hakimdir. İlkbaharın gelmesiyle, dağ yamaçları renkli çiçeklerle kaplanır.
 2. Yaban Hayatı: Bu dağlarda various memeliler, kuşlar ve sürüngenler yaşar. Göç mevsiminde, birçok kuş türü bu bölgeyi ziyaret eder.
 3. Ekolojik Değer: Bu dağ ekosistemi, bölge için önemli birsu kaynağı ve biyolojik çeşitlilik merkezidir.
 

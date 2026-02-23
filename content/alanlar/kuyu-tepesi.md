@@ -28,7 +28,7 @@ wikidata_id: "Q31511445"
 
 # Kuyu Tepesi
 
-Kuyu Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin kalabalığından uzaklaştırarak doğayla baş başa bırakıyor. Tepenin eteklerinde yer alan tarihi yapılar, bölgenin zengin tarihini gözler önüne sererken, tepe üzerindeki manzara ise Mardin'in eşsiz görkemini gösteriyor. Kuyu Tepesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Kuyu Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Tepenin eteklerinde yer alan tarihi yapılar, bölgenin zengin tarihini gözler önüne sererken, tepe üzerindeki manzara ise Mardin'in eşsiz görkemini gösteriyor. Kuyu Tepesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

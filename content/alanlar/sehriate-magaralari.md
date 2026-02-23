@@ -46,7 +46,7 @@ Doğal bir oluşum olan Şehriate Mağaraları, coğrafi olarak kalkerli bir bö
 
 Mardin'in iklimi, genel olarak kura ve sıcak bir karakterdedir. Şehriate Mağaraları da, bu iklimin etkilerini taşımaktadır. Yaz aylarında sıcaklık 40 dereceleri bulabilirken, kış aylarında ise 0 derecenin altına düşebilir. Bu mevsimsel değişimler, mağaraların iç kısmında dahail bir hava durumu yaratmaktadır. Mağaraların iç sıcaklığı, genellikle 15-20 derece arasında değişmektedir.
 
-Mardin'in güneydoğusunda yer alan Şehriate Mağaraları, bölgenin ekolojik dengesini korumak açısından önemli bir role sahiptir. Mağaraların bulunduğu vadi, çeşitli bitki ve hayvan türlerinin yaşam alanı olarak görev yapmaktadır. Ayrıca, mağaraların yakınında yer alan su kaynakları, bölgenin su dengesini korumak için önemli bir görev üstlenmektedir. Bu su kaynakları, mağaraların oluşumunda da önemli bir rol oynamıştır. Şehriate Mağaraları, Mardin'in doğal ve kültürel zenginliklerini bir araya getiren bir jeopark olarak, ziyaretçilere eşsiz bir deneyim sunmaktadır.
+ Mağaraların bulunduğu vadi, çeşitli bitki ve hayvan türlerinin yaşam alanı olarak görev yapmaktadır. Ayrıca, mağaraların yakınında yer alan su kaynakları, bölgenin su dengesini korumak için önemli bir görev üstlenmektedir. Bu su kaynakları, mağaraların oluşumunda da önemli bir rol oynamıştır. Şehriate Mağaraları, Mardin'in doğal ve kültürel zenginliklerini bir araya getiren bir jeopark olarak, ziyaretçilere eşsiz bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

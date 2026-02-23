@@ -1,7 +1,7 @@
 ---
 title: "Mahmud Vehbi Efendi Türbesi"
 date: "2026-01-10T07:00:23.356Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"

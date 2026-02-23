@@ -1,7 +1,7 @@
 ---
 title: "Karaca Ahmet Sultan Türbesi"
 date: "2026-01-10T06:16:18.952Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390604"
 
 # Karaca Ahmet Sultan Türbesi
 
-Karaca Ahmet Sultan Türbesi, Afyonkarahisar'ın İhsaniye ilçesinde yer alan bir tarihi türbe ve plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplar. Bu bölge, hem tarihi önemini korur hem de doğal güzelliği ile ziyaretçilerini cezbeder. Türbenin etrafındaki geniş yeşil alanlar, piknik için ideal bir ortam sunar. Ayrıca, plajın bulunduğu bölgede çeşitli su sporları ve aktiviteler gerçekleştirilebilir.
+Karaca Ahmet Sultan Türbesi, Afyonkarahisar'ın İhsaniye ilçesinde yer alan bir tarihi türbe ve plajdır. Bu bölge, hem tarihi önemini korur hem de doğal güzelliği ile ziyaretçilerini cezbeder. Türbenin etrafındaki geniş yeşil alanlar, piknik için ideal bir ortam sunar. Ayrıca, plajın bulunduğu bölgede çeşitli su sporları ve aktiviteler gerçekleştirilebilir.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Karaca Ahmet Sultan Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelli
 ## İlginç Bilgiler
 
 - Karaca Ahmet Sultan Türbesi, Afyonkarahisar'ın en önemli tarihi yapılarından biridir.
-- Türbenin çevresindeki yeşil alanlar, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 - Karaca Ahmet Sultan Türbesi, yüzyıllar boyunca birçok önemli kişi tarafından ziyaret edilmiştir.
 - Türbenin kuruluş tarihi tam olarak bilinmese de, Osmanlı dönemine kadar uzanır.

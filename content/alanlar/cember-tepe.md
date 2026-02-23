@@ -28,7 +28,7 @@ wikidata_id: "Q34828918"
 
 # Çember Tepe
 
-Çember Tepe, Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alan ve coğrafi olarak dikkat çekici bir tepe oluşumudur. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğal güzellikleri, flora ve fauna çeşitliliği ile dikkat çeken Çember Tepe, doğa severler ve coğrafya meraklıları için önemli bir gezi noktasıdır. Tarihi geçmişi ve kültürel önemi de dikkate alındığında, Çember Tepe sadece bir doğa harikası değil, aynı zamanda bir kültürel mirastır. Bölgenin coğrafi yapısı, iklimi ve bitki örtüsü, ziyaretçilerin ilgisini çekecek çeşitli özellikler sunar.
+Çember Tepe, Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alan ve coğrafi olarak dikkat çekici bir tepe oluşumudur. Doğal güzellikleri, flora ve fauna çeşitliliği ile dikkat çeken Çember Tepe, doğa severler ve coğrafya meraklıları için önemli bir gezi noktasıdır. Tarihi geçmişi ve kültürel önemi de dikkate alındığında, Çember Tepe sadece bir doğa harikası değil, aynı zamanda bir kültürel mirastır. Bölgenin coğrafi yapısı, iklimi ve bitki örtüsü, ziyaretçilerin ilgisini çekecek çeşitli özellikler sunar.
 
 ## Tarihçe
 

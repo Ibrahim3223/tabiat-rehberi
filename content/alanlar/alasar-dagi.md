@@ -28,7 +28,7 @@ wikidata_id: "Q31386065"
 
 # Alaşar Dağı
 
-Alaşar Dağı, İç Anadolu Bölgesi'nin kalbinde, Nevşehir ilinin sınırları içerisinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Alaşar Dağı, hem yerel halk hem de ziyaretçiler için keyifli bir gezi noktası. Dağ, eteklerinden zirvesine kadar çeşitli bitki türleriyle kaplı ve zengin fauna sunuyor. Bu özelliği, onu doğa severler ve botanikçiler için özel bir destinasyon haline getiriyor. Alaşar Dağı, sadece doğal güzelliği ile değil, aynı zamanda tarihi geçmişiyle de ön plana çıkıyor. Yüzyıllar boyunca farklı medeniyetlerin yaşam alanı olan bu bölge, ziyaretçilere tarihin sayfalarını açma fırsatı sunuyor.
+Alaşar Dağı, İç Anadolu Bölgesi'nin kalbinde, Nevşehir ilinin sınırları içerisinde yer alan bir tepe. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Alaşar Dağı, hem yerel halk hem de ziyaretçiler için keyifli bir gezi noktası. Dağ, eteklerinden zirvesine kadar çeşitli bitki türleriyle kaplı ve zengin fauna sunuyor. Bu özelliği, onu doğa severler ve botanikçiler için özel bir destinasyon haline getiriyor. Alaşar Dağı, sadece doğal güzelliği ile değil, aynı zamanda tarihi geçmişiyle de ön plana çıkıyor. Yüzyıllar boyunca farklı medeniyetlerin yaşam alanı olan bu bölge, ziyaretçilere tarihin sayfalarını açma fırsatı sunuyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32132500"
 
 # Bakraç Höyüğü
 
-Bakraç Höyüğü, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir höyüktür. Höyüğün bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bakraç Höyüğü, bölgeye gelen ziyaretçiler için önemli bir tarihi ve kültürel merkez konumundadır. Höyüğün etrafında yer alan doğal güzellikler ve tarihi yapılar, ziyaretçilerin ilgisini çekmektedir. Höyüğün tarihi geçmişi, bölgeyi ziyaret edenlerin ilgisini çekmektedir.
+Bakraç Höyüğü, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir höyüktür. Höyüğün bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Bakraç Höyüğü, bölgeye gelen ziyaretçiler için önemli bir tarihi ve kültürel merkez konumundadır. Höyüğün etrafında yer alan doğal güzellikler ve tarihi yapılar, ziyaretçilerin ilgisini çekmektedir. Höyüğün tarihi geçmişi, bölgeyi ziyaret edenlerin ilgisini çekmektedir.
 
 ## Tarihçe
 

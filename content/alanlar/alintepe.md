@@ -50,9 +50,9 @@ Bölgenin iklimi, mevsimsel olarak büyük farklılıklar göstermektedir. Kış
 
 ## Flora ve Fauna
 
-Alıntepe dağının yükseklik zonlarında, yüksek dağ ekolojisi hüküm sürer. İlkbaharın gelmesiyle birlikte, alpin çayırlar renklenir ve çeşitli çiçekler açar. Bu mevsimde, dağ yamaçları sarı, mavi ve pembe renkli çiçeklerle kaplanır. 
+Alıntepe dağının yükseklik zonlarında, yüksek dağ ekolojisi hüküm sürer. İlkbaharın gelmesiyle birlikte, alpin çayırlar renklenir ve çeşitli çiçekler açar. Bu mevsimde, dağ yamaçları sarı, mavi ve pembe renkli çiçeklerle kaplanır.
 
-Yaban hayatı da bu dağda çeşitlilik gösterir. Dağ keçileri ve yaban keçileri, kayalık alanlarda yaşar. Kuşlar ise, dağların yüksek kesimlerinde yuva yapar ve göç mevsiminde buradan geçer. 
+Yaban hayatı da bu dağda çeşitlilik gösterir. Dağ keçileri ve yaban keçileri, kayalık alanlarda yaşar. Kuşlar ise, dağların yüksek kesimlerinde yuva yapar ve göç mevsiminde buradan geçer.
 
 Alıntepe dağının ekolojik değeri, endemik türlerin varlığından kaynaklanır. Bu dağ, birçok bitki ve hayvan türüne ev sahipliği yapar. Koruma durumu ise, henüz yeterli düzeyde değildir. Bu nedenle, bu dağın doğal güzelliğini korumak için çabalar sarf edilmelidir.
 

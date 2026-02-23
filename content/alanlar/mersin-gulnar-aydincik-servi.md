@@ -22,7 +22,7 @@ wikidata_id: "Q108227736"
 
 # Mersin-Gulnar-Aydincik Servi
 
-Mersin-Gulnar-Aydincik Servi milli parkı, Mersin'in Gulnar ve Aydincik ilçeleri arasında yer alan, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir doğa harikasıdır. Bu alanı yaklaşık 200 futbol sahası büyüklüğünde olarak düşünebiliriz. Milli park, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişisunu keşfetme fırsatı sunuyor. Mersin'in Akdeniz Bölgesi'nde yer alan bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
+Mersin-Gulnar-Aydincik Servi milli parkı, Mersin'in Gulnar ve Aydincik ilçeleri arasında yer alan, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlayan bir doğa harikasıdır. Milli park, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişisunu keşfetme fırsatı sunuyor. Mersin'in Akdeniz Bölgesi'nde yer alan bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-Gulnar-Aydincik Servi milli parkının tarihi geçmişi, yüzyıllar önc
 
 ## Coğrafya
 
-Mersin-Gulnar-Aydincik Servi milli parkı, Mersin'in Gulnar ve Aydincik ilçeleri arasında yer alıyor. Milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olarak düşünebiliriz. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Akdeniz Bölgesi'nin karakteristik iklimine uygun olarak, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar şeklinde gerçekleşiyor. Milli park, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişisunu keşfetme fırsatı sunuyor. Milli parkın bulunduğu alan, deniz seviyesinden yaklaşık 100-yüksek bir konumdate yer alıyor. Bu yükseklik, ziyaretçilere milli parkın panoramik görünümünü sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli ativiteler sunuyor. Milli park, ziyaretçilerini bekliyor.
+Mersin-Gulnar-Aydincik Servi milli parkı, Mersin'in Gulnar ve Aydincik ilçeleri arasında yer alıyor. Milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Akdeniz Bölgesi'nin karakteristik iklimine uygun olarak, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar şeklinde gerçekleşiyor. Milli park, ziyaretçilerine hem doğanın güzelliğini hem de tarihi geçmişisunu keşfetme fırsatı sunuyor. Milli parkın bulunduğu alan, deniz seviyesinden yaklaşık 100-yüksek bir konumdate yer alıyor. Bu yükseklik, ziyaretçilere milli parkın panoramik görünümünü sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli ativiteler sunuyor. Milli park, ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108229012"
 
 # Efteni Gölü Sulak Alanı
 
-Efteni Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Yaklaşık 140 hektarlık bir alanı kapsayan bu sulak alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu bölge, çevresindeki doğal güzellikleri ve fauna çeşitliliği ile ziyaretçilerini cezbediyor. Gölün etrafındaki yürüyüş yolları, ziyaretçilerin doğayı yakından keşfetmesine olanak sağlıyor.
+Efteni Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu bölge, çevresindeki doğal güzellikleri ve fauna çeşitliliği ile ziyaretçilerini cezbediyor. Gölün etrafındaki yürüyüş yolları, ziyaretçilerin doğayı yakından keşfetmesine olanak sağlıyor.
 
 ## Tarihçe
 

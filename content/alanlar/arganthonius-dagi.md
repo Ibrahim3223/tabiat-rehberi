@@ -48,7 +48,7 @@ Marmara Bölgesi'nin karakteristik iklim özellikleri, Arganthonius Dağı'nın 
 
 ## Flora ve Fauna
 
-Arganthonius Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Arganthonius Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünden başlarsak, ilkbahar mevsiminde dağ yamaçları renkli çiçeklerle donanıyor. Kuraklığa adapte olmuş bitki türleri, yaz aylarında kuru otların hakim olduğu bir manzara sunuyor. Yükseklik zonlarına göre değişen alpin flora, bu dağda yaşayan canlılar için çeşitli yaşam alanları sunuyor.
 
@@ -64,7 +64,7 @@ Arganthonius Dağı'na gitmeden önce, sabah erken gitmenizi öneririm, hem kala
 
 - Arganthonius Dağı, antik dönemde önemli bir yerleşim yeri olarak bilinmektedir.
 - Dağın adı, Antik Yunan'da Arganthonius olarak geçmektedir.
-- Arganthonius Dağı, coğrafi konumu itibarıyla históriki önem taşımaktadır.
+- Arganthonius Dağı, coğrafi konumu itibarıyla tarihi önem taşımaktadır.
 - Dağın yüksekliği ve coğrafi özellikleri hakkında spesifik bilgiler bulunmamaktadır.
 - Arganthonius Dağı, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir.
 - Antik dönemdeki adı ve tarihi olaylarla bağlantılı olarak incelenmektedir.

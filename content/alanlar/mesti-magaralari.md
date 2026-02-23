@@ -28,7 +28,7 @@ wikidata_id: "Q49319553"
 
 # Meşti Mağaraları
 
-Batman'ın doğal zenginliklerinin arasında yer alan Meşti Mağaraları, jeolojik açıdan önemli bir jeopark alanı olarak dikkat çekiyor. Batman ilinin coğrafi çeşitliliği, bu mağaraların oluşumunda büyük rol oynamış. Bölgenin jeolojik história, mağaraların oluşumunu şekillendirmiş. Meşti Mağaraları, Batman'ın turizm potansiyelini artıran önemli bir doğal oluşum.
+Batman'ın doğal zenginliklerinin arasında yer alan Meşti Mağaraları, jeolojik açıdan önemli bir jeopark alanı olarak dikkat çekiyor. Batman ilinin coğrafi çeşitliliği, bu mağaraların oluşumunda büyük rol oynamış. Bölgenin jeolojik tarihi, mağaraların oluşumunu şekillendirmiş. Meşti Mağaraları, Batman'ın turizm potansiyelini artıran önemli bir doğal oluşum.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Meşti Mağaraları'nın 
 
 ## Flora ve Fauna
 
-Meşti Mağaraları Jeoparkı, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alır. Bu jeopark, step ve ova ekolojisinin yanı sıra bir orman ekosistemine de ev sahipliği yapar. Ilkbaharın gelmesiyle birlikte, bu 1200 hektarlık yeşil cennette çiçekler açar ve renkli bir manzara ortaya çıkar. 
+Meşti Mağaraları Jeoparkı, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alır. Bu jeopark, step ve ova ekolojisinin yanı sıra bir orman ekosistemine de ev sahipliği yapar. Ilkbaharın gelmesiyle birlikte, bu 1200 hektarlık yeşil cennette çiçekler açar ve renkli bir manzara ortaya çıkar.
 
 Bitki örtüsünü oluşturan çeşitli ağaç türleri, mevsimsel değişimlere uyum sağlar. Sonbaharda, bu ağaçların yaprakları sararıp dökülürken, göçmen kuşlar bu bölgeyi geçiş noktası olarak kullanır. Orman memelileri, bu ağaçların gölgesinde yaşamını sürdürürken, çeşitli kuş türleri de bu ağaçlarda yuvalanır.
 

@@ -29,7 +29,7 @@ wikidata_id: "Q769148"
 
 # Dim Mağarası
 
-Alanya'nın gizli bir hazine gibi sakladığı Dim Mağarası, jeolojik zenginliklerin ziyaretçilerini beklediği bir jeopark olarak dikkat çekiyor. Türkiye'nin bu önemli doğal oluşumu, Alanya'nın merkezine yakın bir konumda yer alıyor. Dim Mağarası, ziyaretçilerini büyüleyici bir dünya içerisine davet ediyor. 
+Alanya'nın gizli bir hazine gibi sakladığı Dim Mağarası, jeolojik zenginliklerin ziyaretçilerini beklediği bir jeopark olarak dikkat çekiyor. Türkiye'nin bu önemli doğal oluşumu, Alanya'nın merkezine yakın bir konumda yer alıyor. Dim Mağarası, ziyaretçilerini büyüleyici bir dünya içerisine davet ediyor.
 Alanya'nın doğal güzelliklerini keşfetmek isteyenler için Dim Mağarası önemli bir durak noktası olarak öne çıkıyor.
 
 ## Tarihçe
@@ -52,7 +52,7 @@ Dim Mağarası, Dim Çayı ve çevresindeki orman ekosistemi ile bağlantılıd�
 
 ## Flora ve Fauna
 
-Dim Mağarası'nın jeopark alanında, step bitki örtüsü ve bozkırın kuraklığa adapte olmuş türleri hakimdir. İlkbaharla birlikte, bu 1200 hektarlık yeşil cennette çiçekler renkli bir şölen sunar. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu alanı ziyaret eder. 
+Dim Mağarası'nın jeopark alanında, step bitki örtüsü ve bozkırın kuraklığa adapte olmuş türleri hakimdir. İlkbaharla birlikte, bu 1200 hektarlık yeşil cennette çiçekler renkli bir şölen sunar. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu alanı ziyaret eder.
 
 Yaban hayatı, orman memelileri ve çeşitli kuş türleriyleür. Bu ekosistemde, ağaç çeşitliliği ve orman memelileri, birbirleriyle olan ekolojik ilişkilerine bağlı olarak yaşamlarını sürdürürler. Sürüngenler ve diğer küçük canlılar da bu dengenin bir parçasını oluşturur.
 

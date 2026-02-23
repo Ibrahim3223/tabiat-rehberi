@@ -28,7 +28,7 @@ wikidata_id: "Q31542850"
 
 # Makşitirke Tepesi
 
-Makşitirke Tepesi, Diyarbakır'ın merkezinde yer alan bir tepe olarak, şehrin tarihi ve doğal güzelliklerini bir araya getirmesiyle dikkat çeker. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli bir bölümünü kapsar. Tepenin eteklerinde, tarihi evler ve camiler bulunurken, tepenin zirvesi ise şehrin panoramik manzarasına ev sahipliği yapar. Bu tepenin hikayesi, Diyarbakır'ın tarihiyle iç içe geçmiş ve yüzyıllar boyunca birçok önemli olaya şahitlik etmiştir.
+Makşitirke Tepesi, Diyarbakır'ın merkezinde yer alan bir tepe olarak, şehrin tarihi ve doğal güzelliklerini bir araya getirmesiyle dikkat çeker. Tepenin eteklerinde, tarihi evler ve camiler bulunurken, tepenin zirvesi ise şehrin panoramik manzarasına ev sahipliği yapar. Bu tepenin hikayesi, Diyarbakır'ın tarihiyle iç içe geçmiş ve yüzyıllar boyunca birçok önemli olaya şahitlik etmiştir.
 
 ## Tarihçe
 

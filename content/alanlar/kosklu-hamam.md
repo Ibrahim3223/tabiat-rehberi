@@ -1,7 +1,7 @@
 ---
 title: "Köşklü Hamam"
 date: "2026-01-09T23:13:53.794Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738916"
 
 # Köşklü Hamam
 
-Köşklü Hamam, İstanbul'un tarihi plajlarından biri olarak Marmara Bölgesi'nin kalbinde yer alır. Fatih ilçesinde bulunan bu doğal güzellik, yaklaşık 140 hektarlık bir alanda, denizle iç içe bir konumda bulunur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Köşklü Hamam, İstanbul'un en eski ve en önemli plajlarından biri olarak bilinir. Bu plaj, uzun yıllar boyunca İstanbulluların ve turistlerin tercih ettiği bir yer olarak kabul edilir. Köşklü Hamam'ın tarihi geçmişi, İstanbul'un tarihi ile iç içe geçmiş bir şekilde bulunur.
+Köşklü Hamam, İstanbul'un tarihi plajlarından biri olarak Marmara Bölgesi'nin kalbinde yer alır. Fatih ilçesinde bulunan bu doğal güzellik, yaklaşık 140 hektarlık bir alanda, denizle iç içe bir konumda bulunur. Köşklü Hamam, İstanbul'un en eski ve en önemli plajlarından biri olarak bilinir. Bu plaj, uzun yıllar boyunca İstanbulluların ve turistlerin tercih ettiği bir yer olarak kabul edilir. Köşklü Hamam'ın tarihi geçmişi, İstanbul'un tarihi ile iç içe geçmiş bir şekilde bulunur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Köşklü Hamam'ın tarihi geçmişi, İstanbul'un tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Köşklü Hamam, Marmara Bölgesi'nin kalbinde yer alan bir doğal güzellik olarak kabul edilir. Fatih ilçesinde bulunan bu plaj, denizle iç içe bir konumda bulunur. Köşklü Hamam'ın coğrafi yapısı, İstanbul'un coğrafi yapısına benzer bir şekilde bulunur. Plaj ve çevresinde çeşitli tepe ve vadiler bulunur. Bu tepe ve vadiler, Köşklü Hamam'ın coğrafi yapısını zenginleştiren önemli parçalar olarak kabul edilir. Köşklü Hamam, yaklaşık 140 hektarlık bir alanda, denizle iç içe bir konumda bulunur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Plajın uzunluğu uzun bir mesafe, genişliği ise 200 metre civarındadır. Köşklü Hamam'ın iklimi, İstanbul'un iklimine benzer bir şekilde bulunur. Plaj ve çevresinde çeşitli bitki türleri bulunur. Bu bitki türleri, Köşklü Hamam'ın coğrafi yapısını zenginleştiren önemli parçalar olarak kabul edilir.
+Köşklü Hamam, Marmara Bölgesi'nin kalbinde yer alan bir doğal güzellik olarak kabul edilir. Fatih ilçesinde bulunan bu plaj, denizle iç içe bir konumda bulunur. Köşklü Hamam'ın coğrafi yapısı, İstanbul'un coğrafi yapısına benzer bir şekilde bulunur. Plaj ve çevresinde çeşitli tepe ve vadiler bulunur. Bu tepe ve vadiler, Köşklü Hamam'ın coğrafi yapısını zenginleştiren önemli parçalar olarak kabul edilir. Köşklü Hamam, yaklaşık 140 hektarlık bir alanda, denizle iç içe bir konumda bulunur. Plajın uzunluğu uzun bir mesafe, genişliği ise 200 metre civarındadır. Köşklü Hamam'ın iklimi, İstanbul'un iklimine benzer bir şekilde bulunur. Plaj ve çevresinde çeşitli bitki türleri bulunur. Bu bitki türleri, Köşklü Hamam'ın coğrafi yapısını zenginleştiren önemli parçalar olarak kabul edilir.
 
 ## Flora ve Fauna
 

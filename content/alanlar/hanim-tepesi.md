@@ -28,11 +28,11 @@ wikidata_id: "Q31386568"
 
 # Hanım Tepesi
 
-Hanım Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan 140 hektarlık yeşil bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakmayı amaçlar. Hanım Tepesi, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu reasonla zengin bir kültürel mirasa sahiptir. Tepenin eteklerinde bulunan köyler, ziyaretçilere yerel yaşamı deneyimleme fırsatı sunar.
+Hanım Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan 140 hektarlık yeşil bir alana sahiptir. Hanım Tepesi, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu reasonla zengin bir kültürel mirasa sahiptir. Tepenin eteklerinde bulunan köyler, ziyaretçilere yerel yaşamı deneyimleme fırsatı sunar.
 
 ## Tarihçe
 
-Hanım Tepesi, tarihin sâu sayfalarında gizli bir hazine olarak beklemektedir. Tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. Bu tepenin eteklerinde kurulan ilk yerleşim yerleri, bölgenin tarihini anlatan önemli birer belge olarak görülebilir. Tepenin adı, efsanelere göre bir hanımefendinin burada yaşadığına dair rivayetlerden gelmektedir. Bu efsane, tepeye bir gizem ve çekicilik katmaktadır. Tarihi ve kültürel açıdan zengin bir geçmişe sahip olan Hanım Tepesi, ziyaretçilerini zamanda yolculuğa çıkarabilecek bir potansiyele sahiptir.
+Hanım Tepesi, tarihin derin sayfalarında gizli bir hazine olarak beklemektedir. Tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. Bu tepenin eteklerinde kurulan ilk yerleşim yerleri, bölgenin tarihini anlatan önemli birer belge olarak görülebilir. Tepenin adı, efsanelere göre bir hanımefendinin burada yaşadığına dair rivayetlerden gelmektedir. Bu efsane, tepeye bir gizem ve çekicilik katmaktadır. Tarihi ve kültürel açıdan zengin bir geçmişe sahip olan Hanım Tepesi, ziyaretçilerini zamanda yolculuğa çıkarabilecek bir potansiyele sahiptir.
 
 ## Coğrafya
 
@@ -51,5 +51,5 @@ Hanım Tepesi'ne ziyaretçiler, Siirt il merkezinden yaklaşık 1 saatlik bir yo
 - Hanım Tepesi, 140 hektarlık bir alana sahiptir.
 - Tepenin eteklerinde, çeşitli bitki türleri yaşamaktadır.
 - Tepede, farklı hayvan türleri yaşamaktadır.
-- Hanım Tepesi, tarihin sâu sayfalarında gizli bir hazine olarak beklemektedir.
+- Hanım Tepesi, tarihin derin sayfalarında gizli bir hazine olarak beklemektedir.
 - Tepenin adı, efsanelere göre bir hanımefendinin burada yaşadığına dair rivayetlerden gelmektedir.

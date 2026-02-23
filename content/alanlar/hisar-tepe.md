@@ -1,7 +1,7 @@
 ---
 title: "Hisar Tepe"
 date: "2026-01-10T10:59:04.446Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q31390441"
 
 # Hisar Tepe
 
-Konya'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Hisar Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir sunuyor. Hisar Tepe, Konya'nın merkezine yakın bir konumda bulunmasıyla kolay ulaşılabilirlik sağlıyor. Konya'nın tarihi geçmişine ışık tutan bu tepe, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Hisar Tepe'nin etrafında bulunan tarihi yapılar ve anıtlar, bu bölgenin zengin tarihini gözler önüne seriyor.
+Konya'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Hisar Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Hisar Tepe, Konya'nın merkezine yakın bir konumda bulunmasıyla kolay ulaşılabilirlik sağlıyor. Konya'nın tarihi geçmişine ışık tutan bu tepe, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Hisar Tepe'nin etrafında bulunan tarihi yapılar ve anıtlar, bu bölgenin zengin tarihini gözler önüne seriyor.
 
 ## Tarihçe
 

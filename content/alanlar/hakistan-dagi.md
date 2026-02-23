@@ -50,11 +50,11 @@ Bölgenin hidrolojisi açısından, Hakistan Dağı ve çevresindeki dağlar, ö
 
 ## Flora ve Fauna
 
-Hakistan Dağı, Bingöl'ün yüksek dağ ekolojisinin güzelliklerini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hakistan Dağı, Bingöl'ün yüksek dağ ekolojisinin güzelliklerini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü: Yükseklik zonlarına bağlı olarak değişen flora, ilkbaharda rengarenk çiçeklerle kaplanır. Alpin çayırlar, bölgenin karakteristik özelliklerinden biridir. 
+Bitki Örtüsü: Yükseklik zonlarına bağlı olarak değişen flora, ilkbaharda rengarenk çiçeklerle kaplanır. Alpin çayırlar, bölgenin karakteristik özelliklerinden biridir.
 
-Yaban Hayatı: Dağ keçileri ve yaban keçileri, bu dağların karakteristik hayvanlarıdır. Göç mevsiminde, çeşitli kuş türleri de bu bölgeyi ziyaret eder. 
+Yaban Hayatı: Dağ keçileri ve yaban keçileri, bu dağların karakteristik hayvanlarıdır. Göç mevsiminde, çeşitli kuş türleri de bu bölgeyi ziyaret eder.
 
 Ekolojik Değer: Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğinin muhafazası için çok önemlidir.
 

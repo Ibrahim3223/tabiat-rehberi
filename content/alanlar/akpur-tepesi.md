@@ -28,7 +28,7 @@ wikidata_id: "Q31556845"
 
 # Akpur Tepesi
 
-Ankara'nın doğal güzelliklerinden biri olan Akpur Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Akpur Tepesi, Ankara'nın merkezi sebuah konumunda yer alır ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin manzarası, özellikle gün batımında, oldukça etkileyicidir.
+Ankara'nın doğal güzelliklerinden biri olan Akpur Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Akpur Tepesi, Ankara'nın merkezi sebuah konumunda yer alır ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin manzarası, özellikle gün batımında, oldukça etkileyicidir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Akpur Tepesi, Ankara'nın merkezinde yer alır ve İç Anadolu Bölgesi'nin coğ
 
 ## Flora ve Fauna
 
-Akpur Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin etrafında, mevsimsel değişimler, canlıları ve ekolojiyi etkiler. Tepenin florası, Ankara'nın iklimine uygun olarak, karasal iklim özellikleri gösterir. Tepenin faunası, çeşitli hayvan türleri ile zenginleştirir. Tepenin etrafında, özellikle gün batımında, kuş türleri ve diğer canlılar bulunur. Tepenin ekolojisi, Ankara'nın doğal güzelliklerinin bir parçası olarak kabul edilir ve koruma altına alınmıştır.
+ Tepenin etrafında, mevsimsel değişimler, canlıları ve ekolojiyi etkiler. Tepenin florası, Ankara'nın iklimine uygun olarak, karasal iklim özellikleri gösterir. Tepenin faunası, çeşitli hayvan türleri ile zenginleştirir. Tepenin etrafında, özellikle gün batımında, kuş türleri ve diğer canlılar bulunur. Tepenin ekolojisi, Ankara'nın doğal güzelliklerinin bir parçası olarak kabul edilir ve koruma altına alınmıştır.
 
 ## Ziyaret Bilgileri
 

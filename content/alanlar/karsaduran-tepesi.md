@@ -28,7 +28,7 @@ wikidata_id: "Q31564977"
 
 # Karsaduran Tepesi
 
-Kastamonu'nun güzide bir bölgesi olan Karsaduran Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğanın kucağına davet ediyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve yeşilin her tonunu barındırıyor. Karsaduran Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor. Bu tepe, doğa severler için bir cennet olarak tanımlanabilir ve ziyaretçilerini büyüleyici manzaralarıyla karşılıyor.
+Kastamonu'nun güzide bir bölgesi olan Karsaduran Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğanın kucağına davet ediyor. Karsaduran Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor. Bu tepe, doğa severler için bir cennet olarak tanımlanabilir ve ziyaretçilerini büyüleyici manzaralarıyla karşılıyor.
 
 ## Tarihçe
 

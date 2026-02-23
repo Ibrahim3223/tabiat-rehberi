@@ -28,7 +28,7 @@ wikidata_id: "Q31385566"
 
 # Kurukavşak Tepe
 
-Van ilinde yer alan Kurukavşak Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Tarih boyunca çeşitli medeniyetlerin hüküm sürdüğü bu bölge, zengin bir kültürel mirasa sahiptir. Kurukavşak Tepe, Van'ın tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan olarak dikkat çeker. Tepe, ziyaretçilere Van Gölü'nün ve çevrenin panoramik manzarasını sunar. Bu bölgenin coğrafi özellikleri, flora ve fauna zenginliği, tarihi geçmişi ile önemli bir turizm merkezi olarak kabul edilir.
+ Bu tepe, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Tarih boyunca çeşitli medeniyetlerin hüküm sürdüğü bu bölge, zengin bir kültürel mirasa sahiptir. Kurukavşak Tepe, Van'ın tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan olarak dikkat çeker. Tepe, ziyaretçilere Van Gölü'nün ve çevrenin panoramik manzarasını sunar. Bu bölgenin coğrafi özellikleri, flora ve fauna zenginliği, tarihi geçmişi ile önemli bir turizm merkezi olarak kabul edilir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34828197"
 
 # Çamlıbel Tepe
 
-Çamlıbel Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile kaplı. Bu tepe, yaban hayatı ile zengin bir ekosisteme sahip ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Çamlıbel Tepe, hem doğa severlerin hem de macera arayanların ilgi odağı olmayı başarıyor. Doğal güzelliği, zengin flora ve fauna ile ziyaretçilerini cezbediyor.
+Çamlıbel Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. Bu tepe, yaban hayatı ile zengin bir ekosisteme sahip ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Çamlıbel Tepe, hem doğa severlerin hem de macera arayanların ilgi odağı olmayı başarıyor. Doğal güzelliği, zengin flora ve fauna ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

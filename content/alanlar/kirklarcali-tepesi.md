@@ -28,7 +28,7 @@ wikidata_id: "Q32211229"
 
 # Kırklarçalı Tepesi
 
-Kırklarçalı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir doğa harikası. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin cenneti olarak biliniyor. Tepenin eteklerinde yeşilin her tonunu görebileceğiniz bu bölge, aynı zamanda tarihin izlerini taşıyor. Kırklarçalı Tepesi, bir tarafında geniş otlaklar, diğer tarafında ise ormanlık alanlar bulunan bir bölge. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor.
+Kırklarçalı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir doğa harikası. Tepenin eteklerinde yeşilin her tonunu görebileceğiniz bu bölge, aynı zamanda tarihin izlerini taşıyor. Kırklarçalı Tepesi, bir tarafında geniş otlaklar, diğer tarafında ise ormanlık alanlar bulunan bir bölge. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunuyor.
 
 ## Tarihçe
 

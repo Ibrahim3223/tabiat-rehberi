@@ -29,7 +29,7 @@ wikidata_id: "Q134728335"
 
 # Bin Tepeler Tümülüsü 47
 
-Bin Tepeler Tümülüsü 47, Ege Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Salihli, Manisa'da bulunan bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip. Bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bin Tepeler Tümülüsü 47, hem tarih meraklıları hem de doğa severler için bir hazine olarak karşımıza çıkıyor. Bu alan, ziyaretçilerine hem tarihi bir yolculuk hem de doğanın güzelliğini deneyimleme fırsatı sunuyor. 47 tümülüs, ziyaretçilere geçmişin kapılarını aralayarak, binlerce yıllık bir tarihe yolculuk etmelerini sağlıyor.
+Bin Tepeler Tümülüsü 47, Ege Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Salihli, Manisa'da bulunan bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip. Bin Tepeler Tümülüsü 47, hem tarih meraklıları hem de doğa severler için bir hazine olarak karşımıza çıkıyor. Bu alan, ziyaretçilerine hem tarihi bir yolculuk hem de doğanın güzelliğini deneyimleme fırsatı sunuyor. 47 tümülüs, ziyaretçilere geçmişin kapılarını aralayarak, binlerce yıllık bir tarihe yolculuk etmelerini sağlıyor.
 
 ## Tarihçe
 

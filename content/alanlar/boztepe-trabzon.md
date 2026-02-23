@@ -30,7 +30,7 @@ wikidata_id: "Q4952904"
 
 # Boztepe, Trabzon
 
-Boztepe, Trabzon'un Ortahisar ilçesinde yer alan ve Karadeniz Bölgesi'nin en güzel manzaralarından birine sahip olan bir tepedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakındır. Boztepe, ziyaretçilerini şehrin ve Karadeniz'in muhteşem manzarasıyla karşılar. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı da oldukça zengin olup, birçok hayvan türüne ev sahipliği yapar. Boztepe, hem doğa severlerin hem de tarihi ve kültürel açıdan ilgi duyanların ziyaret edebileceği bir yerdir.
+Boztepe, Trabzon'un Ortahisar ilçesinde yer alan ve Karadeniz Bölgesi'nin en güzel manzaralarından birine sahip olan bir tepedir. Boztepe, ziyaretçilerini şehrin ve Karadeniz'in muhteşem manzarasıyla karşılar. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı da oldukça zengin olup, birçok hayvan türüne ev sahipliği yapar. Boztepe, hem doğa severlerin hem de tarihi ve kültürel açıdan ilgi duyanların ziyaret edebileceği bir yerdir.
 
 ## Tarihçe
 

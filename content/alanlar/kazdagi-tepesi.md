@@ -30,7 +30,7 @@ wikidata_id: "Q31516077"
 
 # Kazdağı Tepesi
 
-Kazdağı Tepesi, İç Anadolu Bölgesi'nin gizli köşesinde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, çevreye hakim bir konumda bulunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor. Bu bölge, hem doğa severlerin hem de macera arayışındaki gezginlerin ilgisini çekiyor. Kazdağı Tepesi, ziyaretçilerine doğanın güzelliğini ve sakinliğini sunuyor.
+Kazdağı Tepesi, İç Anadolu Bölgesi'nin gizli köşesinde yer alan bir doğa harikasıdır. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor. Bu bölge, hem doğa severlerin hem de macera arayışındaki gezginlerin ilgisini çekiyor. Kazdağı Tepesi, ziyaretçilerine doğanın güzelliğini ve sakinliğini sunuyor.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Kazdağı Tepesi'ni ziyaret etmek, doğa severler ve macera arayışındaki gezg
 
 ## İlginç Bilgiler
 
-- Kazdağı Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin etrafındaki ovalar ve vadiler, yaban hayatı açısından önemli bir bölge.
 - Kazdağı Tepesi, iklimwise olarak karasal iklimin etkilerini gösteriyor.
 - Tepenin yüksekliği, çevreye hakim bir konumda olmasını sağlıyor.

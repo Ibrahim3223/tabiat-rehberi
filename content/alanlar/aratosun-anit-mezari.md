@@ -1,7 +1,7 @@
 ---
 title: "Aratos’un Anıt Mezarı"
 date: "2026-01-09T23:57:44.672Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728086"
 
 # Aratos’un Anıt Mezarı
 
-Mersin'in Mezitli ilçesinde, Akdeniz'in masmavi sularına karşı kurulmuş olan Aratos’un Anıt Mezarı, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Aratos’un Anıt Mezarı, Mersin'in Mezitli ilçesinin en önemli turistik merkezlerinden biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Bu özel mekan, hem tarihi yönüyle hem de doğal güzelliği ile ziyaretçilerini etkileyerek, unutulmaz anlar yaşatır.
+Mersin'in Mezitli ilçesinde, Akdeniz'in masmavi sularına karşı kurulmuş olan Aratos’un Anıt Mezarı, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Aratos’un Anıt Mezarı, Mersin'in Mezitli ilçesinin en önemli turistik merkezlerinden biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Bu özel mekan, hem tarihi yönüyle hem de doğal güzelliği ile ziyaretçilerini etkileyerek, unutulmaz anlar yaşatır.
 
 ## Tarihçe
 

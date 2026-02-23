@@ -28,7 +28,7 @@ wikidata_id: "Q31385500"
 
 # Şabanbaba Tepesi
 
-Şabanbaba Tepesi, Doğu Anadolu Bölgesi'nin Elazığ şehrinde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şabanbaba Tepesi, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir kaçış noktasıdır. Tepenin etrafı, çeşitli bitki türleriyle çevrili olup, ziyaretçilere doğanın güzelliğini sunar. Şabanbaba Tepesi, Elazığ'ın önemli turizm noktalarından biri olarak kabul edilir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
+Şabanbaba Tepesi, Doğu Anadolu Bölgesi'nin Elazığ şehrinde yer alan bir doğa harikasıdır. Şabanbaba Tepesi, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir kaçış noktasıdır. Tepenin etrafı, çeşitli bitki türleriyle çevrili olup, ziyaretçilere doğanın güzelliğini sunar. Şabanbaba Tepesi, Elazığ'ın önemli turizm noktalarından biri olarak kabul edilir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34816132"
 
 # Tülce Tepesi
 
-Tülce Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. Bu bölge, hem doğa severler hem de tarihi merak edenler için bir hazine. Tülce Tepesi, eşsiz güzelliği ve zengin tarihi geçmişiyle, ziyaretçilerini etkileyen bir destinasyon.
+Tülce Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu bölge, hem doğa severler hem de tarihi merak edenler için bir hazine. Tülce Tepesi, eşsiz güzelliği ve zengin tarihi geçmişiyle, ziyaretçilerini etkileyen bir destinasyon.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Tülce Tepesi'ni ziyaret etmek, doğa severler ve tarihi merak edenler için bir
 ## İlginç Bilgiler
 
 - Tülce Tepesi, 140 hektarlık bir alana sahiptir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Tülce Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölgedir.
 - Bu bölge, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Tülce Tepesi, ziyaretçilerine farklı mevsimlerde değişen bir güzelliği sunar.

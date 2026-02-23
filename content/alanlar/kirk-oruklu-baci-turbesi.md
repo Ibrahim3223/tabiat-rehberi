@@ -1,7 +1,7 @@
 ---
 title: "Kırk Örüklü Bacı Türbesi"
 date: "2026-01-10T05:07:50.454Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391655"
 
 # Kırk Örüklü Bacı Türbesi
 
-İç Anadolu Bölgesi'nin zengin tarihi ve doğal güzellikleri arasında yer alan Kırk Örüklü Bacı Türbesi, Erzincan ve Erzurum vilayetlerinin sınırında bulunuyor. Bu özel bölge, yaklaşık 140 hektarlık alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Kırk Örüklü Bacı Türbesi, aynı zamanda yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor ve Türk kültürünün önemli bir parçası olarak kabul ediliyor. Bu tarihi ve doğal güzelliği ziyaret etmek, hem gezi severler hem de tarih meraklıları için ideal bir seçim.
+İç Anadolu Bölgesi'nin zengin tarihi ve doğal güzellikleri arasında yer alan Kırk Örüklü Bacı Türbesi, Erzincan ve Erzurum vilayetlerinin sınırında bulunuyor. Tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Kırk Örüklü Bacı Türbesi, aynı zamanda yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor ve Türk kültürünün önemli bir parçası olarak kabul ediliyor. Bu tarihi ve doğal güzelliği ziyaret etmek, hem gezi severler hem de tarih meraklıları için ideal bir seçim.
 
 ## Tarihçe
 

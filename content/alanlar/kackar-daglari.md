@@ -23,7 +23,7 @@ wikidata_id: "Q108228129"
 
 # Kackar Dagları
 
-Kackar Dagları, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Burada, yaban hayatının zenginliği ve çeşitli bitki türleri ile karşılaşabilirsiniz. Kackar Dagları, hem doğa severler hem de macera tutkunları için ideal bir destinasyondur.
+Kackar Dagları, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Burada, yaban hayatının zenginliği ve çeşitli bitki türleri ile karşılaşabilirsiniz. Kackar Dagları, hem doğa severler hem de macera tutkunları için ideal bir destinasyondur.
 
 ## Tarihçe
 

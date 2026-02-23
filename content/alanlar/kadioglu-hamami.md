@@ -1,7 +1,7 @@
 ---
 title: "Kadıoğlu Hamamı"
 date: "2026-01-09T23:24:50.474Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739002"
 
 # Kadıoğlu Hamamı
 
-Kadıoğlu Hamamı, İzmir'in Kemalpaşa ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsar. Doğal güzelliği ile dikkat çeken bu yer, ziyaretçilerini dinlendiren ve güneşin tadını çıkarmalarına olanak tanıyan bir plaj olarak hizmet vermektedir. Ayrıca, bu bölgeye gelen ziyaretçiler, deniz kumunun ve suyun tadını çıkarmakla birlikte, aynı zamanda çevreyi keşfetme fırsatı da bulabilirler.
+Kadıoğlu Hamamı, İzmir'in Kemalpaşa ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. Doğal güzelliği ile dikkat çeken bu yer, ziyaretçilerini dinlendiren ve güneşin tadını çıkarmalarına olanak tanıyan bir plaj olarak hizmet vermektedir. Ayrıca, bu bölgeye gelen ziyaretçiler, deniz kumunun ve suyun tadını çıkarmakla birlikte, aynı zamanda çevreyi keşfetme fırsatı da bulabilirler.
 
 ## Tarihçe
 

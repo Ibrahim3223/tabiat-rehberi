@@ -28,7 +28,7 @@ wikidata_id: "Q32197810"
 
 # Kocayüksek Tepesi
 
-Kocayüksek Tepesi, Çanakkale'nin yüksek noktalarından biri olarak dikkat çekiyor. Bu tepe, Marmara Bölgesi'nin güzelliklerini sunan bir doğa harikası. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere geniş bir görüş açısı sunuyor. Kocayüksek Tepesi, Çanakkale'nin önemli turizm noktalarından biri olarak kabul ediliyor. Tepenin yüksekliği, ziyaretçilere bölgenin panoramik manzarasını sunuyor. Bu manzara, özellikle gün batımında veya gün doğumunda daha da güzelleşiyor.
+Kocayüksek Tepesi, Çanakkale'nin yüksek noktalarından biri olarak dikkat çekiyor. Bu tepe, Marmara Bölgesi'nin güzelliklerini sunan bir doğa harikası. Kocayüksek Tepesi, Çanakkale'nin önemli turizm noktalarından biri olarak kabul ediliyor. Tepenin yüksekliği, ziyaretçilere bölgenin panoramik manzarasını sunuyor. Bu manzara, özellikle gün batımında veya gün doğumunda daha da güzelleşiyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Gelin Hamamı"
 date: "2026-01-09T23:32:21.295Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739071"
 
 # Gelin Hamamı
 
-Gelin Hamamı, Çarşamba, Samsun'da yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinen bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz'in güzel kumsallarından birini sunuyor. Bu bölge, hem yerli hem de yabancı turistler için bir çekim merkezi olarak kabul ediliyor. Gelin Hamamı, doğal güzelliği ve temizliği ile ziyaretçilerini cezbediyor.
+Gelin Hamamı, Çarşamba, Samsun'da yer alan ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinen bir plajdır. Bu bölge, hem yerli hem de yabancı turistler için bir çekim merkezi olarak kabul ediliyor. Gelin Hamamı, doğal güzelliği ve temizliği ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

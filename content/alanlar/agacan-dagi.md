@@ -32,7 +32,7 @@ Doğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Tunceli, doğal g�
 
 ## Tarihçe
 
-Tunceli bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, tarihi İpek Yolu'nun önemli bir kavşak noktası olarak, çeşitli uygarlıkların geçiş noktalarından biri olmuştur. Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorlukların izlerini taşıyan bu topraklar, kültürel ve coğrafi zenginliklerle dolu bir mirası barındırır.
+Tunceli bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, tarihi İpek Yolu'nun önemli bir kavşak noktası olarak, çeşitli uygarlıkların geçiş noktalarından biri olmuştur. Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorlukların izlerini taşıyan bu topraklar, kültürel ve coğrafi zenginliklerle dolu bir mirası barındırır.
 
 Doğal güzelliklerin bolca olduğu bu bölge, yüzyıllar boyunca insanların yaşamlarının merkezinde yer almıştır. Yaylacılık ve hayvancılık, bu bölgenin geleneksel faaliyetleri arasında yer alır. Tunceli'de bulunan Ağacan Dağı gibi doğal alanlar, insanların yaşamını sürdürmesi için gerekli olan kaynakların temini açısından kritik öneme sahiptir. Ayrıca, tarihi ticaret yollarının geçtiği bu bölge, ve kültürel alışverilerin önemli bir merkezi olarak görev yapmıştır.
 
@@ -50,7 +50,7 @@ Ağacan Dağı'nın çevresel ilişkileri, komşu alanlar ve su kaynakları ile 
 
 ## Flora ve Fauna
 
-Ağacan Dağı, Tunceli'nin yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, endemik türlerle dolu bir botanik bahçesi gibi görünür. 
+Ağacan Dağı, Tunceli'nin yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, endemik türlerle dolu bir botanik bahçesi gibi görünür.
 
 Yaban hayatı da bir o kadar zengin. Dağ keçileri, kartallar ve diğer yüksek dağ hayvanları, bu dağların eteklerine ve zirvelerine yuvalarını kurmuşlar. Sürüngenler ve diğer küçük hayvanlar, dağların kayalık yüzlerinde yaşamlarını sürdürüyorlar. Sonbaharda, göçmen kuşlar dağları bir geçiş noktası olarak kullanıyor.
 

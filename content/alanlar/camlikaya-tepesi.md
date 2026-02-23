@@ -28,7 +28,7 @@ wikidata_id: "Q34823877"
 
 # Çamlıkaya Tepesi
 
-Çamlıkaya Tepesi, Hatay ilinin sınırları içerisinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kapsıyor. Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin farklı tonlarıyla bezeli. Çamlıkaya Tepesi, ziyaretçilerini kendisine çekiyor ve eşsiz bir manzara sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Çamlıkaya Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+ Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin farklı tonlarıyla bezeli. Çamlıkaya Tepesi, ziyaretçilerini kendisine çekiyor ve eşsiz bir manzara sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Çamlıkaya Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34823877"
 
 ## Coğrafya
 
-Çamlıkaya Tepesi, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin farklı tonlarıyla bezeli. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Çamlıkaya Tepesi, ziyaretçilerini kendisine çekiyor ve eşsiz bir manzara sunuyor. Tepenin eteklerinde, yerleşim yerleri ve tarihi kalıntılar bulunuyor. Çamlıkaya Tepesi, coğrafi olarak zengin bir bölge ve ziyaretçilerine farklı deneyimler sunuyor. Bu tepe, hem doğal güzellikleri hem de tarihi değerleri ile dikkat çekiyor ve ziyaretçilerini büyülüyor.
+Çamlıkaya Tepesi, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilin farklı tonlarıyla bezeli. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found. Çamlıkaya Tepesi, ziyaretçilerini kendisine çekiyor ve eşsiz bir manzara sunuyor. Tepenin eteklerinde, yerleşim yerleri ve tarihi kalıntılar bulunuyor. Çamlıkaya Tepesi, coğrafi olarak zengin bir bölge ve ziyaretçilerine farklı deneyimler sunuyor. Bu tepe, hem doğal güzellikleri hem de tarihi değerleri ile dikkat çekiyor ve ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Şehir Hamamı"
 date: "2026-01-09T22:21:10.212Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırşehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738492"
 
 # Şehir Hamamı
 
-Kırşehir'in merkezinde yer alan Şehir Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan, şehrin önemli bir parçası olan bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin sakinlerinin keyifli vakit geçirebileceği bir yer. Şehir Hamamı, Kırşehir'in güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehrin kalabalığından uzaklaşmak isteyenler, Şehir Hamamı'nda huzurlu bir atmosfer bulabilirler. Şehir Hamamı, aynı zamanda şehrin tarihini ve kültürünü yansıtan önemli bir noktadır.
+Kırşehir'in merkezinde yer alan Şehir Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan, şehrin önemli bir parçası olan bir plajdır. Şehir Hamamı, Kırşehir'in güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehrin kalabalığından uzaklaşmak isteyenler, Şehir Hamamı'nda huzurlu bir atmosfer bulabilirler. Şehir Hamamı, aynı zamanda şehrin tarihini ve kültürünü yansıtan önemli bir noktadır.
 
 ## Tarihçe
 

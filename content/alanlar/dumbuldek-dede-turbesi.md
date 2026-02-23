@@ -1,7 +1,7 @@
 ---
 title: "Dümbüldek Dede Türbesi"
 date: "2026-01-10T06:19:32.043Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391827"
 
 # Dümbüldek Dede Türbesi
 
-Dümbüldek Dede Türbesi, Marmara Bölgesi'nin önemli turizm noktalarından biri olan Derince'de yer alan tarihi ve doğal güzelliklerden biridir. Derince, Kocaeli ilinin bir ilçesi olup, İstanbul'a yakınlığı ile dikkat çeker. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile ziyaretçilerini etkiler. Bölgenin tarihi ve kültürel değerleri, turizm faaliyetleri için önemli bir kaynak teşkil eder. Ziyaretçiler, hem tarihi mekanları gezebilmekte hem de doğal güzelliklerin keyfini çıkarabilmektedir.
+Dümbüldek Dede Türbesi, Marmara Bölgesi'nin önemli turizm noktalarından biri olan Derince'de yer alan tarihi ve doğal güzelliklerden biridir. Derince, Kocaeli ilinin bir ilçesi olup, İstanbul'a yakınlığı ile dikkat çeker. Bölgenin tarihi ve kültürel değerleri, turizm faaliyetleri için önemli bir kaynak teşkil eder. Ziyaretçiler, hem tarihi mekanları gezebilmekte hem de doğal güzelliklerin keyfini çıkarabilmektedir.
 
 ## Tarihçe
 

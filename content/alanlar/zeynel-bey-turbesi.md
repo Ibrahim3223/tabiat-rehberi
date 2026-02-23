@@ -1,7 +1,7 @@
 ---
 title: "Zeynel Bey Türbesi"
 date: "2026-01-10T04:49:34.476Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Batman"
@@ -29,7 +29,7 @@ wikidata_id: "Q31192398"
 
 # Zeynel Bey Türbesi
 
-Zeynel Bey Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi ve kültürel mekanlarından biridir. Batman'ın merkezinde yer alan bu türk türbesi, bölgenin zengin tarihi geçmişini yansıtan önemli bir ziyaret noktasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde yer alan türbe, çevresi ile birlikte önemli bir kültürel miras olarak kabul edilir. Zeynel Bey Türbesi, türk mimarisi örneklerinin güzel bir şekilde sergilendiği bir yapıdır ve tarihi değerinin yanı sıra mimari açıdan da önemli bir yapıttır. Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için Zeynel Bey Türbesi, wicht bir gezi noktası olarak ön plana çıkar.
+Zeynel Bey Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli tarihi ve kültürel mekanlarından biridir. Batman'ın merkezinde yer alan bu türk türbesi, bölgenin zengin tarihi geçmişini yansıtan önemli bir ziyaret noktasıdır. Zeynel Bey Türbesi, türk mimarisi örneklerinin güzel bir şekilde sergilendiği bir yapıdır ve tarihi değerinin yanı sıra mimari açıdan da önemli bir yapıttır. Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için Zeynel Bey Türbesi, wicht bir gezi noktası olarak ön plana çıkar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Zeynel Bey Türbesi'nin tam olarak ne zaman yapıldığına dair net bir bilgi b
 
 ## Coğrafya
 
-Zeynel Bey Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Batman'ın merkezinde yer alan türbe, çevresi ile birlikte önemli bir coğrafi ve kültürel miras olarak kabul edilir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde yer alan türbe, çevresi ile birlikte önemli bir kültürel miras olarak kabul edilir. Bölge, dağlık ve engebeli bir araziye sahiptir ve iklim olarak ılıman bir bölge olarak kabul edilir. Zeynel Bey Türbesi, coğrafi konumu itibari ile önemli bir ulaşım noktası olarak da hizmet vermektedir. Türbe, bölgenin doğal güzellikleri ile birlikte importante bir gezi noktası olarak ziyaret edilmektedir. Zeynel Bey Türbesi'nin çevresi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir ve bu yönü ile de önemli bir doğal güzellik olarak kabul edilir.
+Zeynel Bey Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Batman'ın merkezinde yer alan türbe, çevresi ile birlikte önemli bir coğrafi ve kültürel miras olarak kabul edilir. Bölge, dağlık ve engebeli bir araziye sahiptir ve iklim olarak ılıman bir bölge olarak kabul edilir. Zeynel Bey Türbesi, coğrafi konumu itibari ile önemli bir ulaşım noktası olarak da hizmet vermektedir. Türbe, bölgenin doğal güzellikleri ile birlikte importante bir gezi noktası olarak ziyaret edilmektedir. Zeynel Bey Türbesi'nin çevresi, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir ve bu yönü ile de önemli bir doğal güzellik olarak kabul edilir.
 
 ## Flora ve Fauna
 

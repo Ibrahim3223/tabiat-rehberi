@@ -32,7 +32,7 @@ Ardahan'ın doğusunda yükselen Ulgar Dağı, bölgenin önemli coğrafi oluşu
 
 ## Tarihçe
 
-Ardahan bölgesi, tarihin sâu sayfalarında önemli bir role sahip olmuştur. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisi altında kalmıştır. Örneğin, Urartular, Romalılar ve Selçuklular gibi medeniyetler, bu coğrafyada izlerini bırakmışlardır. Ulgar Dağı da, bu tarihsel süreci etkileyen coğrafi faktörlerden biridir.
+Ardahan bölgesi, tarihin derin sayfalarında önemli bir role sahip olmuştur. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisi altında kalmıştır. Örneğin, Urartular, Romalılar ve Selçuklular gibi medeniyetler, bu coğrafyada izlerini bırakmışlardır. Ulgar Dağı da, bu tarihsel süreci etkileyen coğrafi faktörlerden biridir.
 
 Türkiye'de doğal alanlar, tarihsel olarak önemli bir yer tutmaktadır. Bu alanlar, insanların yaşamlarını sürdürmeleri için gerekli kaynakların temin edilmesinde önemli bir role sahiptir. Özellikle yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların geleneksel uğraşlarından biridir. Ulgar Dağı gibi doğal alanlar, bu faaliyetlerin yürütülmesi için elverişli koşullar sunmaktadır.
 
@@ -50,9 +50,9 @@ Jeolojik açıdan bakıldığında, Ulgar Dağı'nın yapısı hakkında detayl�
 
 ## Flora ve Fauna
 
-Ulgar Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ yamacı renklendirerek çiçekler açar. Alpin flora, yükseklik zonlarına bağlı olarak değişen bir güzelliğe sahip. 
+Ulgar Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ yamacı renklendirerek çiçekler açar. Alpin flora, yükseklik zonlarına bağlı olarak değişen bir güzelliğe sahip.
 
-Bitki örtüsünün hakim türleri, yüksekli ve iklim koşullarına uyum sağlamış çayırlar ve otsu bitkilerdir. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar dağların boşluğunu doldurur. Dağ hayvanları, bu zorlu ortamda hayatta kalmak için özel adaptasyonlar geliştirmişlerdir. 
+Bitki örtüsünün hakim türleri, yüksekli ve iklim koşullarına uyum sağlamış çayırlar ve otsu bitkilerdir. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar dağların boşluğunu doldurur. Dağ hayvanları, bu zorlu ortamda hayatta kalmak için özel adaptasyonlar geliştirmişlerdir.
 
 Ulgar Dağı, yüksek dağ ekosisteminin tüm unsurlarını barındıran bir ekosistemdir. Canlılar, yaşam alanlarıyla birlikte düşünüldüğünde, ekolojik ilişkilerin önemi ortaya çıkar. Bu dağ, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunar. Ulgar Dağı'nın ekolojik değeri, endemik türlere ev sahipliği yapması ve yüksek dağ ekolojisini koruma altına almasıdır.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31540659"
 
 # Hiryan Tepesi
 
-Hiryan Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan ve bölgenin en yüksek noktalarından biri olan bir tepe olarak dikkat çekmektedir. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Hiryan Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu bölge, hem doğa severler hem de turistik açıdan önemli bir yer olarak bilinmektedir. Hiryan Tepesi'ne ulaşan ziyaretçiler, bu bölgenin güzelliği ve doğal zenginliği ile karşılaşmaktadır.
+Hiryan Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan ve bölgenin en yüksek noktalarından biri olan bir tepe olarak dikkat çekmektedir. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölge, hem doğa severler hem de turistik açıdan önemli bir yer olarak bilinmektedir. Hiryan Tepesi'ne ulaşan ziyaretçiler, bu bölgenin güzelliği ve doğal zenginliği ile karşılaşmaktadır.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Hiryan Tepesi, Şırnak ilinin coğrafi olarak en önemli noktalarından biri ol
 
 ## Flora ve Fauna
 
-Hiryan Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bu bölgede, farklı mevsimlerde çeşitli bitki türleri yetişmektedir. Hiryan Tepesi'nin fauna zenginliği, bölgenin ekolojik dengesini korumak açısından önemlidir. Bu bölgede, farklı hayvan türleri yaşamaktadır ve bu hayvanlar, Hiryan Tepesi'nin doğal güzelliğini ve zenginliğini korumak için önemli bir role sahiptir. Hiryan Tepesi'nin flora ve fauna zenginliği, bölgenin turistik açıdan önemli bir yer olmasını sağlamaktadır.
+Hiryan Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Bu bölgede, farklı mevsimlerde çeşitli bitki türleri yetişmektedir. Bu bölgede, farklı hayvan türleri yaşamaktadır ve bu hayvanlar, Hiryan Tepesi'nin doğal güzelliğini ve zenginliğini korumak için önemli bir role sahiptir. Hiryan Tepesi'nin flora ve fauna zenginliği, bölgenin turistik açıdan önemli bir yer olmasını sağlamaktadır.
 
 ## Ziyaret Bilgileri
 

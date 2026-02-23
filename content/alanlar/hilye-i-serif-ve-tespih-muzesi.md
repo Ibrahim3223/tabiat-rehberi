@@ -1,7 +1,7 @@
 ---
 title: "Hilye-i Şerif ve Tespih Müzesi"
 date: "2026-01-10T15:18:17.297Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949494"
 
 # Hilye-i Şerif ve Tespih Müzesi
 
-Hilye-i Şerif ve Tespih Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. 140 hektarlık yeşil alanıyla dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Müzenin tarihi geçmişi, sanatseverleri ve tarih meraklılarını cezbetmeye devam ediyor. Müze, ziyaretçilerini sanatın ve tarihin zenginliklerine davet ediyor.
+Hilye-i Şerif ve Tespih Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. 140 hektarlık yeşil alanıyla dikkat çekiyor. Müzenin tarihi geçmişi, sanatseverleri ve tarih meraklılarını cezbetmeye devam ediyor. Müze, ziyaretçilerini sanatın ve tarihin zenginliklerine davet ediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hilye-i Şerif ve Tespih Müzesi, tarihi geçmişiyle dikkat çekiyor. Müzenin 
 
 ## Coğrafya
 
-Hilye-i Şerif ve Tespih Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. Müze, 140 hektarlık yeşil alanıyla dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Müzenin etrafı, çeşitli bitki türleriyle dolu ve ziyaretçilere doğanın güzelliğini sunuyor. Müzenin konumu, ziyaretçilere geniş bir perspektif sunuyor ve şehrin panoramik manzarasını keşfetmeye olanak tanıyor. Müzenin coğrafyası, ziyaretçileri sanatın ve tarihin zenginliklerine davet ediyor.
+Hilye-i Şerif ve Tespih Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. Müze, 140 hektarlık yeşil alanıyla dikkat çekiyor. Müzenin etrafı, çeşitli bitki türleriyle dolu ve ziyaretçilere doğanın güzelliğini sunuyor. Müzenin konumu, ziyaretçilere geniş bir perspektif sunuyor ve şehrin panoramik manzarasını keşfetmeye olanak tanıyor. Müzenin coğrafyası, ziyaretçileri sanatın ve tarihin zenginliklerine davet ediyor.
 
 ## Flora ve Fauna
 

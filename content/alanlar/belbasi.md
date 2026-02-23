@@ -49,11 +49,11 @@ Bu doğal alan, çevresindeki ekosistem ile önemli bir bağlantıyı ediyor. Ko
 
 ## Flora ve Fauna
 
-Belbaşı Jeopark, Antalya'nın kurak step bölgesinde yer alan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Belbaşı Jeopark, Antalya'nın kurak step bölgesinde yer alan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü olarak step ve bozkır türleri hakimdir. İlkbaharın gelmesiyle birlikte, bu bölgede çiçekler açar ve renklendirir. Sonbaharda ise, göç eden kuşlar bölgeyi ziyaret eder. Orman ekosisteminde, çeşitli ağaç türleri ve orman memelileri bulunur. 
+Bitki örtüsü olarak step ve bozkır türleri hakimdir. İlkbaharın gelmesiyle birlikte, bu bölgede çiçekler açar ve renklendirir. Sonbaharda ise, göç eden kuşlar bölgeyi ziyaret eder. Orman ekosisteminde, çeşitli ağaç türleri ve orman memelileri bulunur.
 
-Yaban hayatı olarak memeliler, kuşlar ve sürüngenler bu bölgede yaşamaktadır. Orman memelileri, ağaçların arasında yaşar ve bu ağaçlara bağımlıdır. Kuşlar, ağaçlarda yuvalanır ve orman memelileriyle birlikte yaşar. Sürüngenler ise, orman zemininde yaşar ve avlanırlar. 
+Yaban hayatı olarak memeliler, kuşlar ve sürüngenler bu bölgede yaşamaktadır. Orman memelileri, ağaçların arasında yaşar ve bu ağaçlara bağımlıdır. Kuşlar, ağaçlarda yuvalanır ve orman memelileriyle birlikte yaşar. Sürüngenler ise, orman zemininde yaşar ve avlanırlar.
 
 Ekolojik olarak, bu bölge çok önemlidir. Çünkü, bu bölgedeki canlılar birbirlerine bağımlıdır ve birbiriyle etkileşim içindedir. Bu nedenle, bu bölgenin korunması çok önemlidir.
 

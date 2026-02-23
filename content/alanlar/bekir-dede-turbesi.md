@@ -1,7 +1,7 @@
 ---
 title: "Bekir Dede Türbesi"
 date: "2026-01-10T05:20:09.086Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391698"
 
 # Bekir Dede Türbesi
 
-Bekir Dede Türbesi, Bursa'nın Osmangazi ilçesinde bulunan bir tarihi mekan. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Bekir Dede Türbesi, ziyaretçilerini tarihi geçmişi ve mimari özellikleri ile cezbediyor. Türbe, çevredeki tarafından da ilgi görüyor. Burada, doğa ile iç içe bir gezi deneyimi yaşayabilirsiniz.
+Bekir Dede Türbesi, Bursa'nın Osmangazi ilçesinde bulunan bir tarihi mekan. Bekir Dede Türbesi, ziyaretçilerini tarihi geçmişi ve mimari özellikleri ile cezbediyor. Türbe, çevredeki tarafından da ilgi görüyor. Burada, doğa ile iç içe bir gezi deneyimi yaşayabilirsiniz.
 
 ## Tarihçe
 

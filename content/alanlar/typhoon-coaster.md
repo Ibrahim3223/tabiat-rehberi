@@ -23,7 +23,7 @@ wikidata_id: "Q113352165"
 
 # Typhoon Coaster
 
-Typhoon Coaster, İç Anadolu Bölgesi'nin en çekici noktalarından biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık geniş bir alana yayılmış durumda ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor ve burada keyifli anlar geçirmeye imkan tanıyor. Typhoon Coaster, sadece doğal güzelliği ile değil, aynı zamanda sunduğu çeşitli olanaklar ile de dikkat çekiyor. Ziyaretçiler, burada dinlenmek, eğlenme ve doğa ile iç içe olmak için birçok fırsat bulabiliyorlar.
+Typhoon Coaster, İç Anadolu Bölgesi'nin en çekici noktalarından biri olarak karşımıza çıkıyor. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor ve burada keyifli anlar geçirmeye imkan tanıyor. Typhoon Coaster, sadece doğal güzelliği ile değil, aynı zamanda sunduğu çeşitli olanaklar ile de dikkat çekiyor. Ziyaretçiler, burada dinlenmek, eğlenme ve doğa ile iç içe olmak için birçok fırsat bulabiliyorlar.
 
 ## Tarihçe
 

@@ -50,7 +50,7 @@ Jeolojik açıdan incelendiğinde, Tınaztepe Mağarası'nın fiziksel yapısı 
 
 ## Flora ve Fauna
 
-Tınaztepe Mağarası'nın jeopark alanında, step bitki örtüsünün hakim olduğu bir manzara karşımıza çıkıyor. İlkbaharın gelmesiyle birlikte, bozkırın kuraklığına adapte olmuş türler, renkli çiçeklerle donanıyor. 
+Tınaztepe Mağarası'nın jeopark alanında, step bitki örtüsünün hakim olduğu bir manzara karşımıza çıkıyor. İlkbaharın gelmesiyle birlikte, bozkırın kuraklığına adapte olmuş türler, renkli çiçeklerle donanıyor.
 
 Bu bölge, çeşitli ağaç türlerinin de ev sahipliğini yapıyor. Orman ekosisteminin zenginliği, ağaç çeşitliliği ve orman memelileri ile dikkat çekiyor. Kuşlar, özellikle sonbaharda göç ettikleri sırada, bu alanı önemli bir konaklama noktası olarak kullanıyor.
 

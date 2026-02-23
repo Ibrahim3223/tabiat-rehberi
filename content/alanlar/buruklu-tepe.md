@@ -28,7 +28,7 @@ wikidata_id: "Q31388194"
 
 # Buruklu Tepe
 
-Buruklu Tepe, Denizli'nin Ege Bölgesi'nde yer alan 140 hektarlık bir doğa harikası. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepe, ziyaretçilerine eşsiz manzaralar sunarken, aynı zamanda bölgenin zengin florasını ve faunasını keşfetme fırsatı sunuyor. Buruklu Tepe, doğa severler ve gezginler için önemli bir destinasyon olarak dikkat çekiyor.
+Buruklu Tepe, Denizli'nin Ege Bölgesi'nde yer alan 140 hektarlık bir doğa harikası. Tepe, ziyaretçilerine eşsiz manzaralar sunarken, aynı zamanda bölgenin zengin florasını ve faunasını keşfetme fırsatı sunuyor. Buruklu Tepe, doğa severler ve gezginler için önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

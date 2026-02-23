@@ -28,11 +28,11 @@ wikidata_id: "Q31389690"
 
 # Gevrelik Tepesi
 
-Gevrelik Tepesi, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğayla baş başa bırakıyor. Gevrelik Tepesi, Karadeniz Bölgesi'nin en önemli coğrafi noktalarından biri olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kastamonu'nun tarihçesi ve kültürel değerleri, Gevrelik Tepesi'nin etrafındaki yerleşim yerlerinde hala hissediliyor.
+Gevrelik Tepesi, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Gevrelik Tepesi, Karadeniz Bölgesi'nin en önemli coğrafi noktalarından biri olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kastamonu'nun tarihçesi ve kültürel değerleri, Gevrelik Tepesi'nin etrafındaki yerleşim yerlerinde hala hissediliyor.
 
 ## Tarihçe
 
-Gevrelik Tepesi'nin tarihi geçmişi, Kastamonu'nun tarihiyle iç içe geçmiş durumda. Yüzyıllar boyunca, bu bölgeye çeşitli medeniyetler hakim oldu ve her biri bu topraklara kendi kültürünü ve tarihini kazandırdı. Gevrelik Tepesi, bu süreçte önemli bir gözlem noktası olarak kullanıldı. Tepenin etrafındaki yerleşim yerleri, bu bölgenin stratejik önemini vurguluyor. Kastamonu'nun tarihini anlamak için, Gevrelik Tepesi'nin tarihi geçmişini bilmek necessário. Bu tepe, aynı zamanda bölgenin coğrafi özelliklerini de şekillendirdi. Burada, doğanın güzelliği ve tarihi değerler bir araya geliyor.
+Gevrelik Tepesi'nin tarihi geçmişi, Kastamonu'nun tarihiyle iç içe geçmiş durumda. Yüzyıllar boyunca, bu bölgeye çeşitli medeniyetler hakim oldu ve her biri bu topraklara kendi kültürünü ve tarihini kazandırdı. Gevrelik Tepesi, bu süreçte önemli bir gözlem noktası olarak kullanıldı. Tepenin etrafındaki yerleşim yerleri, bu bölgenin stratejik önemini vurguluyor. Kastamonu'nun tarihini anlamak için, Gevrelik Tepesi'nin tarihi geçmişini bilmek gerekli. Bu tepe, aynı zamanda bölgenin coğrafi özelliklerini de şekillendirdi. Burada, doğanın güzelliği ve tarihi değerler bir araya geliyor.
 
 ## Coğrafya
 

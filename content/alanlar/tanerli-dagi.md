@@ -50,9 +50,9 @@ Mevsimsel açıdan, Tanerli Dağı'nın iklimi, Erzincan'ın genel iklim karakte
 
 ## Flora ve Fauna
 
-Tanerli Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü olarak, ilkbahar aylarında, dağ yamaçlarında rengarenk çiçekler açar. Alpin çayırlar, bölgenin karakteristik özelliğini oluşturur. 
-Yaban Hayatı olarak, dağ keçileri, yaban keçileri ve ayılar gibi memeliler, kartallar ve şahinler gibi kuşlar, ve çeşitli sürüngenler bu dağda yaşar. 
+Tanerli Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü olarak, ilkbahar aylarında, dağ yamaçlarında rengarenk çiçekler açar. Alpin çayırlar, bölgenin karakteristik özelliğini oluşturur.
+Yaban Hayatı olarak, dağ keçileri, yaban keçileri ve ayılar gibi memeliler, kartallar ve şahinler gibi kuşlar, ve çeşitli sürüngenler bu dağda yaşar.
 Ekolojik Değer olarak, bu bölge, yüksek dağ ekosisteminin korunması açısından büyük önem taşır. Tanerli Dağı, endemik türlerin yaşadığı bir alandır ve bu türlerin korunması için büyük çaba sarf edilmektedir.
 
 ## Ziyaret Bilgileri

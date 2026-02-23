@@ -44,7 +44,7 @@ Son olarak, Adoreus dağı, etrafındaki diğer coğrafi oluşumlarla bağlantı
 
 Adoreus Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Step bitkileri, bozkırın kuraklığına adapte olmuş türler, dağların yükseklik zonlarında özel bir flora oluşturuyor.
 
-Yaban hayatı da bir o kadar zengin. Memeliler, kuşlar ve sürüngenler, dağların farklı yükseklik zonlarında yaşamını sürdürüyor. Göç eden kuşlar, sonbaharın gelmesiyle birlikte dağları ziyaret ediyor. Dağ keçileri, yükseklik zonlarında yaşamını sürdürüyor. Ekolojik ilişkilere baktığımızda, her canlı diğerine bağımlı. Step bitkileri, memelilerin beslenmesinde önemli bir rol oynuyor. 
+Yaban hayatı da bir o kadar zengin. Memeliler, kuşlar ve sürüngenler, dağların farklı yükseklik zonlarında yaşamını sürdürüyor. Göç eden kuşlar, sonbaharın gelmesiyle birlikte dağları ziyaret ediyor. Dağ keçileri, yükseklik zonlarında yaşamını sürdürüyor. Ekolojik ilişkilere baktığımızda, her canlı diğerine bağımlı. Step bitkileri, memelilerin beslenmesinde önemli bir rol oynuyor.
 
 Bu dağ ekosisteminin korunması büyük önem taşıyor. Doğal yaşam alanlarının korunması, ekosistemin dengesini sağlamak için gerekli. Adoreus Dağı, bu açıdan önemli bir bölgedir.
 

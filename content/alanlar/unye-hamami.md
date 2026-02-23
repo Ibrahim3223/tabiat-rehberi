@@ -1,7 +1,7 @@
 ---
 title: "Ünye Hamamı"
 date: "2026-01-09T23:42:48.980Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739190"
 
 # Ünye Hamamı
 
-Ünye Hamamı, Niksar ilçesinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Ünye Hamamı, özellikle yaz aylarında hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu bölge, doğal güzelliği ve temizliği ile dikkat çekiyor.
+Ünye Hamamı, Niksar ilçesinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir plajdır. Ünye Hamamı, özellikle yaz aylarında hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu bölge, doğal güzelliği ve temizliği ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ wikidata_id: "Q131739190"
 
 ## Ziyaret Bilgileri
 
-Ünye Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, bu plaj özellikle yaz aylarında daha çok ziyaretçi çekiyor. Ünye Hamamı'na ulaşım, Niksar ilçesinden kolayca sağlanabilir. Bu bölge, ziyaretçilerine çeşitli aktivite olanakları sunuyor. Ünye Hamamı, hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Ünye Hamamı, yılın her dönemi ziyaret edilebilir. Ancak, bu plaj özellikle yaz aylarında daha çok ziyaretçi çekiyor. Ünye Hamamı'na ulaşım, Niksar ilçesinden kolayca sağlanabilir. Bu bölge, ziyaretçilerine çeşitli aktivite olanakları sunuyor.
 
 ## İlginç Bilgiler
 
@@ -54,4 +54,4 @@ wikidata_id: "Q131739190"
 - Bu plaj, Karadeniz Bölgesi'nin en temiz ve serin sularına sahip.
 - Ünye Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu bölge, Karadeniz Bölgesi'nin coğrafi güzelliklerinin önemli bir parçasını oluşturuyor.
-- Ünye Hamamı, hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerine unutulmaz bir deneyim sunuyor.
+

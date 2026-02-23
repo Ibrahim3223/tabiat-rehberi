@@ -51,7 +51,7 @@ Doğal güzelliklerinin yanı sıra, Yeşil Dağ'ın fiziksel yapısı da dikkat
 
 ## Flora ve Fauna
 
-Yeşil Dağ, Bilecik'in doğal güzelliklerini sergileyen bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yeşil Dağ, Bilecik'in doğal güzelliklerini sergileyen bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünde karma ormanlar hakimdir. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçer. Dağın yükseklik zonlarına göre değişen alpin flora, çeşitli bitki türlerinin yaşamasına olanak tanır.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q61077823"
 
 # Karaahmetli Tabiat Parkı
 
-Karaahmetli Tabiat Parkı, İç Anadolu Bölgesi'nde yer alan Kırıkkale ilinin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunmaktadır. Parkın doğal güzelliği, ziyaretçilerin doğayla iç içe olmasını sağlar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Karaahmetli Tabiat Parkı, hem doğa severler hem de çevre bilincine önem verenler için önemli bir destinasyondur.
+Karaahmetli Tabiat Parkı, İç Anadolu Bölgesi'nde yer alan Kırıkkale ilinin önemli doğal güzelliklerinden biridir. Parkın doğal güzelliği, ziyaretçilerin doğayla iç içe olmasını sağlar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Karaahmetli Tabiat Parkı, hem doğa severler hem de çevre bilincine önem verenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

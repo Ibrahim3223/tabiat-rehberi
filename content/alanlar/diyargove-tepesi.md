@@ -28,7 +28,7 @@ wikidata_id: "Q31550915"
 
 # Diyargove Tepesi
 
-Diyargove Tepesi, Mardin'in güzide noktalarından biri olarak ziyaretçilerini ağırlıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Tepenin yüksekliği ve genişliği, bölgenin coğrafi özelliklerini gösteriyor. Ziyaretçiler, bu tepeye çıktıklarında, Mardin'in tarihi ve doğal güzelliklerini bir arada keşfedebilirler. Tepenin etrafı, çeşitli bitki türleri ile çevrili ve ziyaretçilere, bölgenin florasını keşfetme fırsatı sunuyor.
+Diyargove Tepesi, Mardin'in güzide noktalarından biri olarak ziyaretçilerini ağırlıyor. Tepenin yüksekliği ve genişliği, bölgenin coğrafi özelliklerini gösteriyor. Ziyaretçiler, bu tepeye çıktıklarında, Mardin'in tarihi ve doğal güzelliklerini bir arada keşfedebilirler. Tepenin etrafı, çeşitli bitki türleri ile çevrili ve ziyaretçilere, bölgenin florasını keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

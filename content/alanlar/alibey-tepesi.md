@@ -28,7 +28,7 @@ wikidata_id: "Q31386059"
 
 # Alibey Tepesi
 
-Alibey Tepesi, Şırnak ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak bilinen bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Alibey Tepesi, özellikle bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgenin panoramik manzarasını sunar. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel değerlerini de barındırmaktadır.
+Alibey Tepesi, Şırnak ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak bilinen bir tepedir. Alibey Tepesi, özellikle bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgenin panoramik manzarasını sunar. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel değerlerini de barındırmaktadır.
 
 ## Tarihçe
 

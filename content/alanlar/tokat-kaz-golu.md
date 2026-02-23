@@ -23,7 +23,7 @@ wikidata_id: "Q108228401"
 
 # Tokat-Kaz Golu
 
-Tokat-Kaz Gölü, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu göl, Tokat'ın doğal alanlarından biridir. Gölün etrafındaki yeşil alanlar, ziyaretçilere piknik yapma ve doğayı seyretme imkanı sunuyor. Tokat-Kaz Gölü, hem yerel halk hem de turistler için önemli bir gezi noktası olarak kabul ediliyor.
+Tokat-Kaz Gölü, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Gölün etrafındaki yeşil alanlar, ziyaretçilere piknik yapma ve doğayı seyretme imkanı sunuyor. Tokat-Kaz Gölü, hem yerel halk hem de turistler için önemli bir gezi noktası olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Tokat-Kaz Gölü'nün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. G�
 
 ## Coğrafya
 
-Tokat-Kaz Gölü, Karadeniz Bölgesi'nin coğrafi yapısı içinde önemli bir yer tutuyor. Göl, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gölün etrafındaki arazi, generally yeşil alanlardan oluşuyor ve bu alanlar ziyaretçilere geniş çaplı bir manzara sunuyor. Gölün coğrafi konumu, ziyaretçilere doğayı seyretme ve piknik yapma imkanı sunuyor. Tokat-Kaz Gölü'nün iklimi, Karadeniz Bölgesi'nin genel iklimi ile benzerlik gösteriyor ve bu da gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Gölün su seviyesi mevsimsel olarak değişebiliyor ve bu değişim, gölün ekosistemini etkileyebiliyor.
+Tokat-Kaz Gölü, Karadeniz Bölgesi'nin coğrafi yapısı içinde önemli bir yer tutuyor. Gölün etrafındaki arazi, generally yeşil alanlardan oluşuyor ve bu alanlar ziyaretçilere geniş çaplı bir manzara sunuyor. Gölün coğrafi konumu, ziyaretçilere doğayı seyretme ve piknik yapma imkanı sunuyor. Tokat-Kaz Gölü'nün iklimi, Karadeniz Bölgesi'nin genel iklimi ile benzerlik gösteriyor ve bu da gölün su seviyesini ve çevresindeki bitki örtüsünü etkiliyor. Gölün su seviyesi mevsimsel olarak değişebiliyor ve bu değişim, gölün ekosistemini etkileyebiliyor.
 
 ## Flora ve Fauna
 

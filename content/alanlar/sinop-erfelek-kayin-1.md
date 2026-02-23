@@ -22,7 +22,7 @@ wikidata_id: "Q108227270"
 
 # Sinop-Erfelek Kayin 1
 
-Sinop-Erfelek Kayin 1 milli parkı, Karadeniz Bölgesi'nin güzide illerinden Sinop'un Erfelek ilçesinde yer alır. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içinde yer alan kayın ağaçları, ziyaretçilere serin ve ferah bir ortam sunarken, aynı zamanda bölgenin florası ve faunası hakkında bilgi edinme imkanı sağlıyor. Sinop-Erfelek Kayin 1 milli parkı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Sinop-Erfelek Kayin 1 milli parkı, Karadeniz Bölgesi'nin güzide illerinden Sinop'un Erfelek ilçesinde yer alır. Parkın içinde yer alan kayın ağaçları, ziyaretçilere serin ve ferah bir ortam sunarken, aynı zamanda bölgenin florası ve faunası hakkında bilgi edinme imkanı sağlıyor. Sinop-Erfelek Kayin 1 milli parkı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 

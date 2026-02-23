@@ -29,7 +29,7 @@ wikidata_id: "Q31389034"
 
 # Şeytan Tepesi
 
-Şeytan Tepesi, Erzurum'un gözde mekanlarından biri olarak ziyaretçilerini ağırlamaktadır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir görüş açısı sunar. Şeytan Tepesi, doğa severlerin ve tarihe meraklı olanların ilgisini çekmektedir. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yemeklerin tadını çıkarma fırsatı sunmaktadır. Şeytan Tepesi, yıl boyunca çeşitli etkinliklere ev sahipliği yapmaktadır.
+Şeytan Tepesi, Erzurum'un gözde mekanlarından biri olarak ziyaretçilerini ağırlamaktadır. Şeytan Tepesi, doğa severlerin ve tarihe meraklı olanların ilgisini çekmektedir. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yemeklerin tadını çıkarma fırsatı sunmaktadır. Şeytan Tepesi, yıl boyunca çeşitli etkinliklere ev sahipliği yapmaktadır.
 
 ## Tarihçe
 

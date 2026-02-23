@@ -43,7 +43,7 @@ Bölgenin tarihsel önemi, sadece uygarlıkların varlığıyla değil, aynı za
 
 Güneybatı Anadolu'nun yeşilliklerle bezeli bölgesinde, 38.9075°K ve 27.3075°D koordinatlarında yer alan Yunt Dağları, İzmir'in doğal güzelliklerini barındıran önemli bir coğrafi oluşumdur. Bu dağlık alan, şehrin gürültüsünden uzak, sakin bir ortam sunar ve doğa severler için ideal bir destinasyon olarak öne çıkar.
 
-Doğal bir set gibi uzanan Yunt Dağları, çevresindeki ovaları ve vadileri kuşatır. Bu dağlık bölgenin genişliği, yaklaşık Taksim Meydanı'nın 100 katı büyüklüğünde bir alanı kaplar. Jeolojik açıdan bakıldığında, bu dağların oluşumu, bölgenin karmaşık tektonik histórisine bağlanır. Ancak, detaylı fiziksel verilerin bulunmaması, bu dağların tam olarak anlaşılmasını engellemektedir.
+Doğal bir set gibi uzanan Yunt Dağları, çevresindeki ovaları ve vadileri kuşatır. Bu dağlık bölgenin genişliği, yaklaşık Taksim Meydanı'nın 100 katı büyüklüğünde bir alanı kaplar. Jeolojik açıdan bakıldığında, bu dağların oluşumu, bölgenin karmaşık tektonik tarihi bağlanır. Ancak, detaylı fiziksel verilerin bulunmaması, bu dağların tam olarak anlaşılmasını engellemektedir.
 
 Mevsimsel değişim, Yunt Dağları'nda belirgin bir şekilde yaşanır. Kış aylarında, dağların zirveleri karla kaplanırken, yaz aylarında yeşilin tonlarıyla bezelidir. Bu mevsimsel farklılıklar, bölgenin iklim karakterini çeşitlendirmekte ve doğa severleri cezbeden bir güzelliğe sahip olmaktadır.
 

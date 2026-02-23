@@ -63,6 +63,6 @@ Cemalverdi Dağları, doğa severler için bir cennet. Sabah erken gitmenizi ön
 - Cemalverdi Dağları, İç Anadolu Bölgesi'nde yer alır.
 - Dağların yüksekliği ve coğrafi konumu hakkında spesifik bilgi bulunmamaktadır.
 - Cemalverdi Dağları, Türkiye'nin farklı ekosistemlere ev sahipliği yapan bölgelerinden biridir.
-- Bu dağların etrafındaki bölge, históriki ve kültürel açıdan zengindir.
+- Bu dağların etrafındaki bölge, tarihi ve kültürel açıdan zengindir.
 - Cemalverdi Dağları'nın flora ve fauna çeşitliliği hakkında detaylı araştırmalar yapılmıştır.
 - Dağların coğrafi konumu, farklı türlerin yaşam alanı olarak önemlidir.

@@ -1,7 +1,7 @@
 ---
 title: "Oltu Selçuklu Hamamı"
 date: "2026-01-09T23:38:43.411Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739182"
 
 # Oltu Selçuklu Hamamı
 
-Oltu Selçuklu Hamamı, Erzurum'un Oltu ilçesinde yer alan ve tarihin derinliklerinden gelen bir kültür mirasıdır. 140 hektarlık bir alan üzerine kurulmuş olan bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tarihi yapı, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyan bir bölge olan Doğu Anadolu Bölgesi'nde bulunur. Oltu Selçuklu Hamamı, ziyaretçilerini geçmişe yolculuğa çıkarırken aynı zamanda bölgenin zengin tarihini ve kültürel çeşitliliğini gözler önüne serer. Bu hamam, sadece bir tarihi yapı değil, aynı zamanda bölge halkının sosyal ve kültürel yaşamının önemli bir parçasıdır.
+Oltu Selçuklu Hamamı, Erzurum'un Oltu ilçesinde yer alan ve tarihin derinliklerinden gelen bir kültür mirasıdır. Bu tarihi yapı, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyan bir bölge olan Doğu Anadolu Bölgesi'nde bulunur. Oltu Selçuklu Hamamı, ziyaretçilerini geçmişe yolculuğa çıkarırken aynı zamanda bölgenin zengin tarihini ve kültürel çeşitliliğini gözler önüne serer. Bu hamam, sadece bir tarihi yapı değil, aynı zamanda bölge halkının sosyal ve kültürel yaşamının önemli bir parçasıdır.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Oltu Selçuklu Hamamı, ziyaretçilerini tarihin derinliklerine götürürken, a
 ## İlginç Bilgiler
 
 - Oltu Selçuklu Hamamı, Selçuklu döneminde inşa edilmiştir.
-- Hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Bölge, çeşitli bitki türleri ve hayvanlar ile zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Hamam, yıl boyunca ziyaretçilere açık olup, ziyaret saatleri ve günleri, mevsimsel olarak değişebilir.
 - Ziyaretçilerin, hamamın tarihi ve kültürel önemini dikkate alarak, saygılı ve dikkatli bir şekilde ziyaret etmeleri önerilir.

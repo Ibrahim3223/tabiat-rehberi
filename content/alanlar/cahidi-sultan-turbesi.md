@@ -1,7 +1,7 @@
 ---
 title: "Cahidi Sultan Türbesi"
 date: "2026-01-10T06:50:23.082Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eceabat ilçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390749"
 
 # Cahidi Sultan Türbesi
 
-Cahidi Sultan Türbesi, Çanakkale'nin Eceabat ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve oldukça geniş bir yeşil alana sahip. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu türbe, ziyaretçiler için önemli bir gezi noktası oluşturuyor. Türbenin etrafında yer alan çeşitli bitkiler ve ağaçlar, bu alanın güzelliğini daha da artırıyor.
+Cahidi Sultan Türbesi, Çanakkale'nin Eceabat ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu türbe, ziyaretçiler için önemli bir gezi noktası oluşturuyor. Türbenin etrafında yer alan çeşitli bitkiler ve ağaçlar, bu alanın güzelliğini daha da artırıyor.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Cahidi Sultan Türbesi, Çanakkale'nin Eceabat ilçesinde yer alıyor. Bu bölge
 
 ## Flora ve Fauna
 
-Cahidi Sultan Türbesi, flora ve fauna açısından oldukça zengin bir yapıya sahip. Bu bölgede, çeşitli bitkiler ve ağaçlar yer alıyor. Ayrıca, türbenin etrafında yer alan geniş yeşil alan, ziyaretçiler için önemli bir gezi noktası oluşturuyor. Bu bölgede, mevsimsel değişimlere göre farklı bitkiler ve hayvanlar yer alıyor. Bahar aylarında, bu bölgede çeşitli çiçekler açıyor ve ziyaretçilere renkli bir manzara sunuyor. Kış aylarında ise, bu bölgede çeşitli hayvanlar yer alıyor ve ziyaretçilere farklı bir güzellik sunuyor.
+ Bu bölgede, çeşitli bitkiler ve ağaçlar yer alıyor. Ayrıca, türbenin etrafında yer alan geniş yeşil alan, ziyaretçiler için önemli bir gezi noktası oluşturuyor. Bu bölgede, mevsimsel değişimlere göre farklı bitkiler ve hayvanlar yer alıyor. Bahar aylarında, bu bölgede çeşitli çiçekler açıyor ve ziyaretçilere renkli bir manzara sunuyor. Kış aylarında ise, bu bölgede çeşitli hayvanlar yer alıyor ve ziyaretçilere farklı bir güzellik sunuyor.
 
 ## Ziyaret Bilgileri
 

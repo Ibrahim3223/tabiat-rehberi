@@ -28,7 +28,7 @@ wikidata_id: "Q31386366"
 
 # Kuşkalesi Tepesi
 
-Kuşkalesi Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Kilis ilinin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en dikkat çekici noktalarından biri olarak kabul ediliyor. Tepenin eteklerinde yer alan köyler ve kasabalar, bu bölgeyi ziyaret edenler için önemli birer durak noktası oluyor. Kuşkalesi Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor. Tepenin zirvesinden bakıldığında, Kilis ilinin ve çevresinin panoramik manzarası izlenebiliyor.
+Kuşkalesi Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Kilis ilinin önemli doğal güzelliklerinden biridir. Tepenin eteklerinde yer alan köyler ve kasabalar, bu bölgeyi ziyaret edenler için önemli birer durak noktası oluyor. Kuşkalesi Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor. Tepenin zirvesinden bakıldığında, Kilis ilinin ve çevresinin panoramik manzarası izlenebiliyor.
 
 ## Tarihçe
 

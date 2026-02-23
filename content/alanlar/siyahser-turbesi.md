@@ -1,7 +1,7 @@
 ---
 title: "Siyahser Türbesi"
 date: "2026-01-10T05:58:47.918Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390490"
 
 # Siyahser Türbesi
 
-Siyahser Türbesi, Karaman'ın merkezinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir nokta. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Tarihi geçmişinin yanı sıra, doğa severlerin de ilgisini çeken bu mekan, aynı zamanda Karaman'ın önemli turistik noktalarından biri. Siyahser Türbesi, şehrin kalabalığından uzaklaşma ve hem tarihi hem de doğayı deneyimlemek isteyenler için ideal bir destinasyon.
+Siyahser Türbesi, Karaman'ın merkezinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir nokta. Tarihi geçmişinin yanı sıra, doğa severlerin de ilgisini çeken bu mekan, aynı zamanda Karaman'ın önemli turistik noktalarından biri. Siyahser Türbesi, şehrin kalabalığından uzaklaşma ve hem tarihi hem de doğayı deneyimlemek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

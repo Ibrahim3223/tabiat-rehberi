@@ -1,7 +1,7 @@
 ---
 title: "Ahmed-i Hani Türbesi"
 date: "2026-01-10T05:56:23.902Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390482"
 
 # Ahmed-i Hani Türbesi
 
-Ahmed-i Hani Türbesi, İç Anadolu Bölgesi'nin Erzurum Vilayeti'ndeki Doğubayazıt ilçesinde yer alan tarihi ve kültürel öneme sahip bir mekan olarak dikkat çekiyor. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ahmed-i Hani Türbesi, hem tarihi hem de mimari açıdan ziyaretçilerini cezbeden bir yer. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Ahmed-i Hani Türbesi, Doğubayazıt'ın önemli ziyaret noktalarından biri olarak kabul ediliyor.
+Ahmed-i Hani Türbesi, İç Anadolu Bölgesi'nin Erzurum Vilayeti'ndeki Doğubayazıt ilçesinde yer alan tarihi ve kültürel öneme sahip bir mekan olarak dikkat çekiyor. Ahmed-i Hani Türbesi, hem tarihi hem de mimari açıdan ziyaretçilerini cezbeden bir yer. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Ahmed-i Hani Türbesi, Doğubayazıt'ın önemli ziyaret noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

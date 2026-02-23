@@ -1,7 +1,7 @@
 ---
 title: "Denizli-Saraykoy Kestane"
 date: "2026-01-09T18:18:18.861Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Denizli"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227730"
 
 # Denizli-Saraykoy Kestane
 
-Denizli-Saraykoy Kestane milli parkı, Ege Bölgesi'nin güzide illerinden Denizli'de yer alıyor. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş alan, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor. Denizli ilinin Sarayköy ilçesinde bulunan milli park, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Yerlilerin ve turistlerin ziyaret ettiği bu park, hem doğa severler hem de dinlenmek isteyenler için bir cennet. Parkın içerisinde çeşitli değil, çeşitli ağaç türleri ve bitkiler bulunuyor. Ayrıca, ziyaretçiler için konaklama ve yemek seçenekleri de mevcut.
+Denizli-Saraykoy Kestane milli parkı, Ege Bölgesi'nin güzide illerinden Denizli'de yer alıyor. Bu geniş alan, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor. Denizli ilinin Sarayköy ilçesinde bulunan milli park, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Yerlilerin ve turistlerin ziyaret ettiği bu park, hem doğa severler hem de dinlenmek isteyenler için bir cennet. Parkın içerisinde çeşitli değil, çeşitli ağaç türleri ve bitkiler bulunuyor. Ayrıca, ziyaretçiler için konaklama ve yemek seçenekleri de mevcut.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Denizli-Saraykoy Kestane milli parkının tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Denizli-Saraykoy Kestane milli parkı, Ege Bölgesi'nin coğrafi yapısı içerisinde yer alıyor. Parkın coğrafi konumu, ziyaretçilerine çeşitli manzaralar sunuyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın coğrafi yapısı, genellikle engebeli ve dağlık bir araziye sahip. Bu coğrafi yapı, ziyaretçilere trekking ve doğa yürüyüşü gibi aktiviteler için ideal bir ortam sunuyor. Ayrıca, parkın içerisinde çeşitli değil, çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bitki türleri, parkın coğrafi yapısına uyum sağlamış ve burada yaşayan canlılara ev sahipliği yapıyor. Denizli ilinin iklimi, genellikle Akdeniz iklimi özellikleri gösteriyor ve bu iklim, parkın coğrafi yapısına da nh ediyor.
+Denizli-Saraykoy Kestane milli parkı, Ege Bölgesi'nin coğrafi yapısı içerisinde yer alıyor. Parkın coğrafi konumu, ziyaretçilerine çeşitli manzaralar sunuyor. Parkın coğrafi yapısı, genellikle engebeli ve dağlık bir araziye sahip. Bu coğrafi yapı, ziyaretçilere trekking ve doğa yürüyüşü gibi aktiviteler için ideal bir ortam sunuyor. Ayrıca, parkın içerisinde çeşitli değil, çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bitki türleri, parkın coğrafi yapısına uyum sağlamış ve burada yaşayan canlılara ev sahipliği yapıyor. Denizli ilinin iklimi, genellikle Akdeniz iklimi özellikleri gösteriyor ve bu iklim, parkın coğrafi yapısına da nh ediyor.
 
 ## Flora ve Fauna
 

@@ -51,9 +51,9 @@ Alacadağ, çevresindeki ekosistemle güçlü bir bağlantısı olan bir coğraf
 
 ## Flora ve Fauna
 
-Alacadağ, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosisteminin güzelliğini sergiler. İlkbaharın gelmesiyle birlikte, dağ yamaçları çeşitli çiçeklerle renklenir. Bu mevsimde, dağların yükseklik zonlarına özgü alpin flora, ziyaretçilerini kendine hayran bırakır. 
+Alacadağ, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosisteminin güzelliğini sergiler. İlkbaharın gelmesiyle birlikte, dağ yamaçları çeşitli çiçeklerle renklenir. Bu mevsimde, dağların yükseklik zonlarına özgü alpin flora, ziyaretçilerini kendine hayran bırakır.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağların yüksek kesimlerinde, kuraklığa adapte olmuş türler yaşamını sürdürür. Sonbaharda, göç eden kuşlar dağları ziyaret eder ve bu bölge, önemli bir göç güzergahı haline gelir. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağların yüksek kesimlerinde, kuraklığa adapte olmuş türler yaşamını sürdürür. Sonbaharda, göç eden kuşlar dağları ziyaret eder ve bu bölge, önemli bir göç güzergahı haline gelir.
 
 Alacadağ'ın ekolojik değeri, yükseklik zonları ve dağ ekosisteminin çeşitliliğiyledir. Bu bölge, birçok canlı türünün yaşamsal bağımlılığı olan bir habitat olup, koruma altına alınması büyük önem taşır. 1200 hektarlık bu dağlık alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar ve böylece ekosistem için önemli bir rol oynar.
 

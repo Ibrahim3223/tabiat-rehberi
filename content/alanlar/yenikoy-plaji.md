@@ -28,7 +28,7 @@ wikidata_id: "Q49325368"
 
 # Yeniköy Plajı
 
-Yeniköy Plajı, Bursa'nın kıyı şeridinde yer alan ve Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu anlamda büyük bir yeşil alan sunmaktadır. Deniz suyu tertemiz ve sakin olan bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Güneşin doğuşunu ve batışını izlemek için mükemmel bir nokta olan Yeniköy Plajı, aynı zamanda su sporları ve diğer aktiviteler için de idealdir.
+Yeniköy Plajı, Bursa'nın kıyı şeridinde yer alan ve Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. Deniz suyu tertemiz ve sakin olan bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Güneşin doğuşunu ve batışını izlemek için mükemmel bir nokta olan Yeniköy Plajı, aynı zamanda su sporları ve diğer aktiviteler için de idealdir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31541313"
 
 # Kurtkıracı Tepesi
 
-Kurtkıracı Tepesi, Diyarbakır'ın merkezine yakın bir konumda yer alıyor. Bu tepenin etrafında yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik sunuyor. Tepenin yüksekliği ve manzarası, ziyaretçilere şehrin panoramik görünümünü sunuyor. Kurtkıracı Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon.
+Kurtkıracı Tepesi, Diyarbakır'ın merkezine yakın bir konumda yer alıyor. Tepenin yüksekliği ve manzarası, ziyaretçilere şehrin panoramik görünümünü sunuyor. Kurtkıracı Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

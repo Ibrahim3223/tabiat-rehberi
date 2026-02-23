@@ -1,7 +1,7 @@
 ---
 title: "Yahyalı Yahya Gazi Türbesi"
 date: "2026-01-10T05:38:34.207Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582340"
 
 # Yahyalı Yahya Gazi Türbesi
 
-Yahyalı Yahya Gazi Türbesi, Kayseri'nin Yahyalı ilçesinde bulunan ve tarihi öneme sahip bir türbedir. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Yahyalı Yahya Gazi Türbesi, hem tarihi hem de doğal güzelliği ile dikkat çekmektedir. Bu bölgede, tarihi geçmişi ve doğal güzellikleri ile birlikte, ziyaretçiler için birçok güzellik sunar. Yahyalı Yahya Gazi Türbesi, Kayseri'nin Yahyalı ilçesine bağlı olarak bulunur ve bu bölgenin önemli turizm noktalarından biridir.
+Yahyalı Yahya Gazi Türbesi, Kayseri'nin Yahyalı ilçesinde bulunan ve tarihi öneme sahip bir türbedir. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Yahyalı Yahya Gazi Türbesi, hem tarihi hem de doğal güzelliği ile dikkat çekmektedir. Bu bölgede, tarihi geçmişi ve doğal güzellikleri ile birlikte, ziyaretçiler için birçok güzellik sunar. Yahyalı Yahya Gazi Türbesi, Kayseri'nin Yahyalı ilçesine bağlı olarak bulunur ve bu bölgenin önemli turizm noktalarından biridir.
 
 ## Tarihçe
 

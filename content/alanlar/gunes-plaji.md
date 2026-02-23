@@ -30,7 +30,7 @@ wikidata_id: "Q107357505"
 
 # Güneş Plajı
 
-Güneş Plajı, İstanbul'un Bakırköy ilçesinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Plajın uzunluğu uzun bir mesafe, genişliği ise 150 metredir. Güneş Plajı, deniz severlerin ve güneşin tadını çıkarmak isteyenlerin tercih ettiği bir yerdir. Plajda çeşitli etkinlikler düzenlenmektedir. Ancak, plajın güzelliği ve temizliği, ziyaretçilerin keyifli bir gün geçirmesini sağlar.
+Güneş Plajı, İstanbul'un Bakırköy ilçesinde yer alan bir plajdır. Plajın uzunluğu uzun bir mesafe, genişliği ise 150 metredir. Güneş Plajı, deniz severlerin ve güneşin tadını çıkarmak isteyenlerin tercih ettiği bir yerdir. Plajda çeşitli etkinlikler düzenlenmektedir. Ancak, plajın güzelliği ve temizliği, ziyaretçilerin keyifli bir gün geçirmesini sağlar.
 
 ## Tarihçe
 

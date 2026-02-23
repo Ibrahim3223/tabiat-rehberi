@@ -28,7 +28,7 @@ wikidata_id: "Q31546247"
 
 # Sakağ Tepesi
 
-Sakağ Tepesi, Batman ilinin doğal güzelliklerinin başında gelir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezi noktalarından biridir. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi. Sakağ Tepesi, şehrin gürültüsünden uzaklaşma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir yer.
+Sakağ Tepesi, Batman ilinin doğal güzelliklerinin başında gelir. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi. Sakağ Tepesi, şehrin gürültüsünden uzaklaşma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir yer.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Sakağ Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçinde ye
 
 ## Flora ve Fauna
 
-Sakağ Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin eteklerinde, bölgenin iklimine uygun olarak, farklı mevsimlerde verschillen bitki türleri bulunur. Bölgenin fauna zenginliği, birçok hayvan türünü barındırır. Sakağ Tepesi, doğa severler için bir cennet olarak görülebilir. Ziyaretçiler, tepenin doğal güzelliklerini keşfetmek için, mevsimsel değişimlere dikkat etmelidir. Bahar ve yaz ayları, bitki türlerinin en çok görüldüğü dönemlerdir, ancak diğer mevsimlerde de, farklı güzellikleri keşfetme mümkündür.
+ Tepenin eteklerinde, bölgenin iklimine uygun olarak, farklı mevsimlerde verschillen bitki türleri bulunur. Bölgenin fauna zenginliği, birçok hayvan türünü barındırır. Sakağ Tepesi, doğa severler için bir cennet olarak görülebilir. Ziyaretçiler, tepenin doğal güzelliklerini keşfetmek için, mevsimsel değişimlere dikkat etmelidir. Bahar ve yaz ayları, bitki türlerinin en çok görüldüğü dönemlerdir, ancak diğer mevsimlerde de, farklı güzellikleri keşfetme mümkündür.
 
 ## Ziyaret Bilgileri
 

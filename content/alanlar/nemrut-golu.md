@@ -33,7 +33,7 @@ Doğu Anadolu Bölgesi'nin en büyük illerinden biri olan Bitlis'te, doğanın 
 
 ## Tarihçe
 
-Nemrut Gölü, Türkiye'nin doğu ucunda, Bitlis ilinin sınırları içerisinde yer alan bir doğa harikası. Bu bölge, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bitlis ve çevresinde, Urartular, Persler, Romalılar, Selçuklular ve Osmanlılar gibi çeşitli uygarlıklar hüküm sürmüş, her biri bölgenin kültürel ve tarihi dokusuna katkıda bulunmuştur.
+Nemrut Gölü, Türkiye'nin doğu ucunda, Bitlis ilinin sınırları içerisinde yer alan bir doğa harikası. Bu bölge, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bitlis ve çevresinde, Urartular, Persler, Romalılar, Selçuklular ve Osmanlılar gibi çeşitli uygarlıklar hüküm sürmüş, her biri bölgenin kültürel ve tarihi dokusuna katkıda bulunmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla Nemrut Gölü, yüzyıllar boyunca insan yerleşimi ve faaliyetlerine ev sahipliği yapmış olmalıdır. Bu tür doğal alanlar, Türkiye'nin tarihsel geçmişinde önemli bir yer tutar. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu doğal güzelliklerle etkileşimini şekillendirmiş, bölgenin ekonomi ve sosyal yapısını etkilemiştir.
 

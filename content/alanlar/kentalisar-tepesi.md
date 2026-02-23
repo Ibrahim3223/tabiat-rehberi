@@ -28,7 +28,7 @@ wikidata_id: "Q31543152"
 
 # Kentalisar Tepesi
 
-Kentalisar Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak Diyarbakır'da yer almaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakındır. Kentalisar Tepesi, ziyaretçilerine şehrin tarihi ve doğal güzelliklerini bir arada sunan özel bir destinasyon olarak dikkat çekmektedir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu tepe, Diyarbakır'ın önemli bir turizm merkezi haline gelmiştir.
+Kentalisar Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak Diyarbakır'da yer almaktadır. Kentalisar Tepesi, ziyaretçilerine şehrin tarihi ve doğal güzelliklerini bir arada sunan özel bir destinasyon olarak dikkat çekmektedir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu tepe, Diyarbakır'ın önemli bir turizm merkezi haline gelmiştir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Tarihi Yalı Hamamı"
 date: "2026-01-09T23:46:12.099Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Anadolu eyaleti"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739236"
 
 # Tarihi Yalı Hamamı
 
-Tarihi Yalı Hamamı, İzmit'in kalbinde yer alan ve bölgenin tarihi ve doğal güzellikleri arasında önemli bir yere sahip olan bir alandır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu mekan, ziyaretçilerini doğayla baş başa bırakıyor. Historical Yalı Hamamı'nın çevresi, çeşitli bitkiler ve ağaçlarla dolu, bu da ziyaretçilere huzurlu ve sakin bir atmosfer sunuyor. Tarihi Yalı Hamamı, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbeden bir destinasyon
+Tarihi Yalı Hamamı, İzmit'in kalbinde yer alan ve bölgenin tarihi ve doğal güzellikleri arasında önemli bir yere sahip olan bir alandır. Historical Yalı Hamamı'nın çevresi, çeşitli bitkiler ve ağaçlarla dolu, bu da ziyaretçilere huzurlu ve sakin bir atmosfer sunuyor. Tarihi Yalı Hamamı, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbeden bir destinasyon
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tarihi Yalı Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitlilik gö
 
 ## Coğrafya
 
-Tarihi Yalı Hamamı, İzmit'in merkezinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık yeşil alanı, khong 200 futbol sahası büyüklüğünde ve çeşitli bitkiler ve ağaçlarla dolu. Tarihi Yalı Hamamı'nın çevresi, doğayla iç içe ve ziyaretçilere huzurlu bir atmosfer sunuyor. Bu alan, coğrafi konumu itibariyle hem karasal iklimin hem de Akdeniz ikliminin etkilerini taşıyor. Tarihi Yalı Hamamı, ziyaretçilerine zengin bir flora ve fauna sunuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunabiliyor. Tarihi Yalı Hamamı, coğrafi güzelliği ve doğal kaynakları ile ziyaretçilerini cezbeden bir destinasyon
+Tarihi Yalı Hamamı, İzmit'in merkezinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Tarihi Yalı Hamamı'nın çevresi, doğayla iç içe ve ziyaretçilere huzurlu bir atmosfer sunuyor. Bu alan, coğrafi konumu itibariyle hem karasal iklimin hem de Akdeniz ikliminin etkilerini taşıyor. Tarihi Yalı Hamamı, ziyaretçilerine zengin bir flora ve fauna sunuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunabiliyor. Tarihi Yalı Hamamı, coğrafi güzelliği ve doğal kaynakları ile ziyaretçilerini cezbeden bir destinasyon
 
 ## Flora ve Fauna
 

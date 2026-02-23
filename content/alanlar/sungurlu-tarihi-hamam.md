@@ -1,7 +1,7 @@
 ---
 title: "Sungurlu Tarihi Hamam"
 date: "2026-01-09T22:39:54.195Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çorum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738706"
 
 # Sungurlu Tarihi Hamam
 
-Sungurlu Tarihi Hamam, Çorum'un merkezinde yer alan bir tarihi yapıdır. Bu hamam, şehrin önemli bir parçası olarak kabul edilir ve histórik bir geçmişe sahiptir. 140 hektarlık bir alan üzerinde yer alan hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sungurlu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Sungurlu Tarihi Hamam, Çorum'un merkezinde yer alan bir tarihi yapıdır. Bu hamam, şehrin önemli bir parçası olarak kabul edilir ve tarihi bir geçmişe sahiptir. Sungurlu'nun tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sungurlu Tarihi Hamam'ın tarihi geçmişi, Çorum'un tarihi ile iç içe geçmi
 
 ## Coğrafya
 
-Sungurlu Tarihi Hamam, Çorum'un merkezinde yer alan bir tarihi yapıdır. Hamam, şehrin önemli bir parçası olarak kabul edilir ve histórik bir geçmişe sahiptir. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, şehrin tarihi merkezi olarak kabul edilir. Hamamın çevresi, tarihi yapılarla çevrilidir ve bu nedenle, hamamın konumu, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için idealdir. Hamamın iklimi, Karadeniz Bölgesi'nin iklimine benzer ve bu nedenle, hamamın ziyaret edilmesi, yılın her dönemi mümkündür. Ancak, hamamın ziyaret edilmesi, özellikle ilkbahar ve sonbahar aylarında daha idealdir, çünkü bu aylarda, hamamın çevresi, daha yeşil ve daha güzel bir görünüm kazanır.
+Sungurlu Tarihi Hamam, Çorum'un merkezinde yer alan bir tarihi yapıdır. Hamam, şehrin önemli bir parçası olarak kabul edilir ve tarihi bir geçmişe sahiptir. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, şehrin tarihi merkezi olarak kabul edilir. Hamamın çevresi, tarihi yapılarla çevrilidir ve bu nedenle, hamamın konumu, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için idealdir. Hamamın iklimi, Karadeniz Bölgesi'nin iklimine benzer ve bu nedenle, hamamın ziyaret edilmesi, yılın her dönemi mümkündür. Ancak, hamamın ziyaret edilmesi, özellikle ilkbahar ve sonbahar aylarında daha idealdir, çünkü bu aylarda, hamamın çevresi, daha yeşil ve daha güzel bir görünüm kazanır.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Sungurlu Tarihi Hamam'ın bulunduğu alan, çeşitli bitki türleri ile çevrili
 
 ## Ziyaret Bilgileri
 
-Sungurlu Tarihi Hamam, Çorum'un merkezinde yer alan bir tarihi yapıdır. Hamam, şehrin önemli bir parçası olarak kabul edilir ve histórik bir geçmişe sahiptir. Hamamın ziyaret edilmesi, yılın her dönemi mümkündür, ancak, hamamın ziyaret edilmesi, özellikle ilkbahar ve sonbahar aylarında daha idealdir. Hamamın ziyaret edilmesi, toplu taşıma araçları ile mümkündür ve hamamın çevresi, tarihi yapılarla çevrilidir. Hamamın ziyaret edilmesi, histórik bir geçmişe sahip olan bir yapıyı keşfetmek isteyenler için, önemli bir atraksiyon olarak kabul edilir.
+Sungurlu Tarihi Hamam, Çorum'un merkezinde yer alan bir tarihi yapıdır. Hamam, şehrin önemli bir parçası olarak kabul edilir ve tarihi bir geçmişe sahiptir. Hamamın ziyaret edilmesi, yılın her dönemi mümkündür, ancak, hamamın ziyaret edilmesi, özellikle ilkbahar ve sonbahar aylarında daha idealdir. Hamamın ziyaret edilmesi, toplu taşıma araçları ile mümkündür ve hamamın çevresi, tarihi yapılarla çevrilidir. Hamamın ziyaret edilmesi, tarihi bir geçmişe sahip olan bir yapıyı keşfetmek isteyenler için, önemli bir atraksiyon olarak kabul edilir.
 
 ## İlginç Bilgiler
 

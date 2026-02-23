@@ -28,7 +28,7 @@ wikidata_id: "Q34828959"
 
 # Çengelkelisi
 
-Hatay ilinde yer alan Çengelkelisi, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplayan bir tepe olarak dikkati çekiyor. Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekmekte ve hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Çengelkelisi, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve bu anlamda önemli bir turizm merkezi olarak kabul ediliyor.
+ Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekmekte ve hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Çengelkelisi, ziyaretçilerine doğayla iç içe bir deneyim sunuyor ve bu anlamda önemli bir turizm merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 

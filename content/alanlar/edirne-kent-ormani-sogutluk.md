@@ -22,7 +22,7 @@ wikidata_id: "Q108228901"
 
 # EDİRNE KENT ORMANI (SÖĞÜTLÜK)
 
-Edirne Kent Ormanı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğa severlerin keyifli vakit geçirebileceği bir ortam sunar. Orman, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı verir. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan Edirne Kent Ormanı, bölgenin ekolojik dengesine de katkı sağlar.
+Edirne Kent Ormanı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar. Orman, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı verir. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan Edirne Kent Ormanı, bölgenin ekolojik dengesine de katkı sağlar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Edirne Kent Ormanı'nın tarihi geçmişi, bölgenin coğrafi ve ekolojik önemi
 
 ## Coğrafya
 
-Edirne Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Orman, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ormanın coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikleri keşfetme fırsatı sunar. Çevresindeki dağlar, ovalar ve akarsular, ormanın coğrafi çeşitliliğini artırır. İklim, genel olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır; yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçer. Bu iklim koşulları, ormanın flora ve faunasını etkiler ve çeşitlendirir. Orman, çevresindeki yerleşim yerleri için önemli bir su kaynağı olmasının yanı sıra, bölgenin ekolojik dengesine de katkı sağlar.
+Edirne Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Ormanın coğrafi konumu, ziyaretçilerine çeşitli doğal güzellikleri keşfetme fırsatı sunar. Çevresindeki dağlar, ovalar ve akarsular, ormanın coğrafi çeşitliliğini artırır. İklim, genel olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır; yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçer. Bu iklim koşulları, ormanın flora ve faunasını etkiler ve çeşitlendirir. Orman, çevresindeki yerleşim yerleri için önemli bir su kaynağı olmasının yanı sıra, bölgenin ekolojik dengesine de katkı sağlar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Edirne Kent Ormanı, ziyaretçilerine keyifli bir gezi deneyimi sunar. Ormana ul
 ## İlginç Bilgiler
 
 - Edirne Kent Ormanı, bölgenin en büyük yeşil alanlarından biridir.
-- Orman, yaklaşık 200 futbol sahası büyüklüğüyle önemli bir doğa alanıdır.
+
 - İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan orman, aynı zamanda bölgenin ekolojik dengesine katkı sağlar.
 - Orman, çeşitli flora ve fauna türlerine ev sahipliği yapar.
 - Ziyaretçiler, ormanda doğa yürüyüşü, pikni ve fotoğrafçılık gibi aktiviteler yapabilir.

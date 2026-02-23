@@ -32,11 +32,11 @@ Küçüğün Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan Kırşehir ilin
 
 ## Tarihçe
 
-Küçüğün Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe, tarih öncesi dönemlerden beri çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında yer alması, burada birçok uygarlığın izlerini bırakmasına neden olmuştur. Tepenin okolí, histórik yapılar ve kalıntılarla doludur. Bu yapılar, bölgeyi ziyaret edenler için önemli bir tarih ve kültür birikimi sunmaktadır. Yüzyıllar boyunca, bu tepe, çeşitli medeniyetlerin izlerini taşımıştır ve günümüzde de bu izler görülebilmektedir.
+Küçüğün Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe, tarih öncesi dönemlerden beri çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında yer alması, burada birçok uygarlığın izlerini bırakmasına neden olmuştur. Tepenin okolí, tarihi yapılar ve kalıntılarla doludur. Bu yapılar, bölgeyi ziyaret edenler için önemli bir tarih ve kültür birikimi sunmaktadır. Yüzyıllar boyunca, bu tepe, çeşitli medeniyetlerin izlerini taşımıştır ve günümüzde de bu izler görülebilmektedir.
 
 ## Coğrafya
 
-Küçüğün Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiştir. Tepenin etrafında,historik yapılar ve kalıntılar bulunmaktadır. Bu yapılar, bölgenin coğrafi ve tarihi önemini vurgulamaktadır.
+Küçüğün Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve faunasını şekillendirmiştir. Tepenin etrafında,historik yapılar ve kalıntılar bulunmaktadır. Bu yapılar, bölgenin coğrafi ve tarihi önemini vurgulamaktadır.
 
 ## Flora ve Fauna
 

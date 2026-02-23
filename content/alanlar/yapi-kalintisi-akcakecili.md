@@ -29,7 +29,7 @@ wikidata_id: "Q133245685"
 
 # Yapı Kalıntısı, Akçakeçili
 
-Yapı Kalıntısı, Akçakeçili, İç Anadolu Bölgesi'nde yer alan Ezine ilçesinde bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile dikkat çekmektedir. Tarihi geçmişi ile birlikte coğrafi güzelliği de önemli bir cazibe merkezidir. Yapı kalıntıları, geçmişin izlerini taşıyan önemli bir kültürel mirastır. Yörenin tarihi ve kültürel zenginlikleri, ziyaretçilere benzersiz bir deneyim sunar.
+Yapı Kalıntısı, Akçakeçili, İç Anadolu Bölgesi'nde yer alan Ezine ilçesinde bulunmaktadır. Tarihi geçmişi ile birlikte coğrafi güzelliği de önemli bir cazibe merkezidir. Yapı kalıntıları, geçmişin izlerini taşıyan önemli bir kültürel mirastır. Yörenin tarihi ve kültürel zenginlikleri, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yapı Kalıntısı, Akçakeçili'nin tarihi geçmişi, yüzyıllar boyunca şeki
 
 ## Coğrafya
 
-Yapı Kalıntısı, Akçakeçili, coğrafi olarak Ezine ilçesinin merkezinde yer almaktadır. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, coğrafi açıdan önemli bir alandır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri göstermektedir. Yapı kalıntıları, coğrafi koşulların etkisi altında şekillenmiştir ve bu nedenle, coğrafi açıdan önemli bir cazibe merkezidir. Bölgenin coğrafi güzelliği, ziyaretçilerin ilgisini çekmekte ve önemli bir turizm kaynağı olarak değerlendirilmektedir.
+Yapı Kalıntısı, Akçakeçili, coğrafi olarak Ezine ilçesinin merkezinde yer almaktadır. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal iklim özellikleri göstermektedir. Yapı kalıntıları, coğrafi koşulların etkisi altında şekillenmiştir ve bu nedenle, coğrafi açıdan önemli bir cazibe merkezidir. Bölgenin coğrafi güzelliği, ziyaretçilerin ilgisini çekmekte ve önemli bir turizm kaynağı olarak değerlendirilmektedir.
 
 ## Flora ve Fauna
 

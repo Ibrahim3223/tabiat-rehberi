@@ -37,7 +37,7 @@ Giresun Dağı, tarihi boyunca çeşitli uygarlıkların izlerini taşıyan Burd
 
 Doğal güzelliği ve coğrafi konumuyla Giresun Dağı, bölgedeki insanların yaşamında önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bu bölgede yaşayan toplulukların geçim kaynaklarından biri olmuştur. Dağın eteklerinde ve civarında kurulan köyler, bu traditional yaşam biçimini devam ettirmişlerdir.
 
-Giresun Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Bu alanlar, sadece doğal güzellikleriyle değil, aynı zamanda históri ve kültürel önemleriyle de dikkat çekerler. İnsanların bu alanlarla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyuta sahiptir. Bu nedenle, Giresun Dağı ve benzeri doğal alanlar, Türkiye'nin zengin tarihsel ve kültürel mirasının korunmasına önemli katkılar sağlar.
+Giresun Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Bu alanlar, sadece doğal güzellikleriyle değil, aynı zamanda tarihi ve kültürel önemleriyle de dikkat çekerler. İnsanların bu alanlarla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyuta sahiptir. Bu nedenle, Giresun Dağı ve benzeri doğal alanlar, Türkiye'nin zengin tarihsel ve kültürel mirasının korunmasına önemli katkılar sağlar.
 
 ## Coğrafya
 

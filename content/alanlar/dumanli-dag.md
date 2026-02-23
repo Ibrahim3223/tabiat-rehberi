@@ -48,13 +48,13 @@ Jeolojik açıdan bakıldığında, Dumanlı Dağ'ın fiziksel yapısı hakkınd
 
 İklimsel açıdan, Dumanlı Dağ ve çevresi Akdeniz ikliminin karakteristik özelliklerini taşır. Bu bölgede, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Mevsimsel değişimler, bölgenin bitki örtüsü ve vahşi yaşamı üzerinde önemli etkilere sahiptir. Dumanlı Dağ, bu mevsimsel özelliklerin bir sonucu olarak, zengin bir bitki örtüsüne ve çeşitli bir vahşi yaşamına ev sahipliği yapar.
 
-Doğal bir koridor olarak işlev gören Dumanlı Dağ, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem oluşturur. Bu dağ, Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bir yeşil cennettir. Çevresindeki su kaynakları ve diğer coğrafi oluşumlar ile birlikte, Dumanlı Dağ, bölgenin ekolojik dengesini korur ve doğal güzelliklerini bảo tồn eder. Bu nedenle, Dumanlı Dağ ve çevresi, doğal güzellikleri ve biyolojik çeşitliliği koruma altına almak için önemli bir bölgedir.
+Doğal bir koridor olarak işlev gören Dumanlı Dağ, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem oluşturur. Bu dağ, Monaco'nun küçük bir bölümü kadar bir alanı kaplayan bir yeşil cennettir. Çevresindeki su kaynakları ve diğer coğrafi oluşumlar ile birlikte, Dumanlı Dağ, bölgenin ekolojik dengesini korur ve doğal güzelliklerini koruma tồn eder. Bu nedenle, Dumanlı Dağ ve çevresi, doğal güzellikleri ve biyolojik çeşitliliği koruma altına almak için önemli bir bölgedir.
 
 ## Flora ve Fauna
 
-Dumanlı Dağ, Kaş ilçesinde yer alan bir dağ ekosistemi olarak, benzersiz bir bitki örtüsü ve yaban hayatı sunar. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türler bulunur. 
+Dumanlı Dağ, Kaş ilçesinde yer alan bir dağ ekosistemi olarak, benzersiz bir bitki örtüsü ve yaban hayatı sunar. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türler bulunur.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Yükseklik zonlarına bağlı olarak, alpin flora çeşitlilik gösterir. Bu dağ ekosisteminde, memeliler, kuşlar ve sürüngenler yaşamlarını sürdürür. Memeliler arasında, dağların yüksekliklerine adapte olmuş türler bulunurken, kuşlar mevsimsel olarak göç ederler. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Yükseklik zonlarına bağlı olarak, alpin flora çeşitlilik gösterir. Bu dağ ekosisteminde, memeliler, kuşlar ve sürüngenler yaşamlarını sürdürür. Memeliler arasında, dağların yüksekliklerine adapte olmuş türler bulunurken, kuşlar mevsimsel olarak göç ederler.
 
 Dumanlı Dağ, ekolojik değer bakımından önemli bir bölge olarak, koruma altına alınmıştır. Bu dağ ekosisteminin korunması, yalnızca yerel türlerin yaşamlarını sürdürmesi değil, aynı zamanda bölge ekolojisini dengede tutması açısından da önemlidir.
 

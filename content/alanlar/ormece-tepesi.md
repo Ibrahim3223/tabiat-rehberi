@@ -28,11 +28,11 @@ wikidata_id: "Q34829821"
 
 # Örmece Tepesi
 
-Örmece Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekleyen Örmece Tepesi, Mersin'in önemli turizm noktalarından biri. Ziyaretçiler, tepeye tırmanarak muhteşem manzaraları izleyebilir ve doğanın güzelliğini keşfedebilir.
+Örmece Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. Doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekleyen Örmece Tepesi, Mersin'in önemli turizm noktalarından biri. Ziyaretçiler, tepeye tırmanarak muhteşem manzaraları izleyebilir ve doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 
-Örmece Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tarihi boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu bölgeye kendi kültürlerini ve izlerini bırakmış. Tarihi geçmişi ile dikkat çeken Örmece Tepesi, ziyaretçilerini tarihin sâu sayfalarına götürüyor. Ziyaretçiler, tepeye tırmanarak tarihi kalıntıları görebilir ve bu bölge hakkında daha fazla bilgi edinebilir. Örmece Tepesi'nin tarihi geçmişi, bölgeye gelen ziyaretçileri etkiliyor ve onları tarihin derinliklerine götürüyor.
+Örmece Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tarihi boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu bölgeye kendi kültürlerini ve izlerini bırakmış. Tarihi geçmişi ile dikkat çeken Örmece Tepesi, ziyaretçilerini tarihin derin sayfalarına götürüyor. Ziyaretçiler, tepeye tırmanarak tarihi kalıntıları görebilir ve bu bölge hakkında daha fazla bilgi edinebilir. Örmece Tepesi'nin tarihi geçmişi, bölgeye gelen ziyaretçileri etkiliyor ve onları tarihin derinliklerine götürüyor.
 
 ## Coğrafya
 

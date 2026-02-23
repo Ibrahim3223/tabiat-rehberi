@@ -22,7 +22,7 @@ wikidata_id: "Q108228301"
 
 # Küçükkargı
 
-Küçükkargı Milli Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği özel bir alan olarak dikkat çekiyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Parkın konumu, ziyaretçilerin doğayı yakından tanımalarına olanak sağlıyor. Küçükkargı Milli Parkı, hem doğa severlerin hem de tatil arayanların ilgi odağı oluyor.
+Küçükkargı Milli Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği özel bir alan olarak dikkat çekiyor. Parkın konumu, ziyaretçilerin doğayı yakından tanımalarına olanak sağlıyor. Küçükkargı Milli Parkı, hem doğa severlerin hem de tatil arayanların ilgi odağı oluyor.
 
 ## Tarihçe
 

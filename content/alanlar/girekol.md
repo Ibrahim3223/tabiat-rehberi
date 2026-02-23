@@ -50,7 +50,7 @@ Mevsimsel olarak, Girekol Dağı'nın iklimi oldukça değişkenlik gösterir. K
 
 ## Flora ve Fauna
 
-Girekol Dağı, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İlbahar mevsiminde, dağ yamaçları rengarenk çiçeklerle donanır. Bu dönemde, bozkırın karakteristik bitki türleri, kuraklığa adapte edilmiş otsu bitkiler ve çalılar, dağ ekosisteminin yükseklik zonlarına uyum sağlar. 
+Girekol Dağı, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İlbahar mevsiminde, dağ yamaçları rengarenk çiçeklerle donanır. Bu dönemde, bozkırın karakteristik bitki türleri, kuraklığa adapte edilmiş otsu bitkiler ve çalılar, dağ ekosisteminin yükseklik zonlarına uyum sağlar.
 
 Dağın yüksek kesimlerinde, alpin flora hüküm sürer. Bu bölgede, dağ hayvanları gibi, bitkiler de zorlu koşullara adapte olmuşlardır. Yaban hayatına baktığımızda, memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenleridir. Sonbahar mevsiminde, göçmen kuşlar, dağları geçerek daha sıcak bölgelere ulaşmaya çalışırlar.
 

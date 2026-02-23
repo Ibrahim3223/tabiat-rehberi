@@ -28,7 +28,7 @@ wikidata_id: "Q31582278"
 
 # Yasan Tepesi
 
-Yasan Tepesi, Çorum'un merkezinde bulunan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere geniş bir görüş açısı sunuyor. Yasan Tepesi, bölgenin jeolojik yapısını ve tarihi geçmişini yansıtan önemli bir nokta. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, doğa severler ve macera arayanlar için ideal bir destinasyon.
+Yasan Tepesi, Çorum'un merkezinde bulunan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Yasan Tepesi, bölgenin jeolojik yapısını ve tarihi geçmişini yansıtan önemli bir nokta. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, doğa severler ve macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390368"
 
 # Kızdoğdu Tepesi
 
-Kızdoğdu Tepesi, Afyonkarahisar ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Kızdoğdu Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bölgenin fauna zenginliği de dikkat çekicidir. Kızdoğdu Tepesi, hem doğal güzelliği hem de coğrafi konumuyla dikkat çekici bir noktada yer alır.
+Kızdoğdu Tepesi, Afyonkarahisar ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepedir. Kızdoğdu Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bölgenin fauna zenginliği de dikkat çekicidir. Kızdoğdu Tepesi, hem doğal güzelliği hem de coğrafi konumuyla dikkat çekici bir noktada yer alır.
 
 ## Tarihçe
 

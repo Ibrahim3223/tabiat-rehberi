@@ -1,7 +1,7 @@
 ---
 title: "Emir Hamamı"
 date: "2026-01-09T22:21:59.151Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738451"
 
 # Emir Hamamı
 
-Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Emir Hamamı, Mardin'in Artuklu ilçesinde yer alır. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Emir Hamamı, çevresindeki doğal güzellikleriyle ve zengin ekosistemiyle dikkat çeker. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Emir Hamamı, aynı zamanda tarihi ve kültürel değerleriyle de önemlidir. Bu alan, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmıştır.
+Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Emir Hamamı, Mardin'in Artuklu ilçesinde yer alır. Emir Hamamı, çevresindeki doğal güzellikleriyle ve zengin ekosistemiyle dikkat çeker. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Emir Hamamı, aynı zamanda tarihi ve kültürel değerleriyle de önemlidir. Bu alan, yüzyıllar boyunca insanların yaşam alanı olarak kullanılmıştır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Emir Hamamı'nın tarihi geçmişi oldukça eskidir. Bu bölge, yüzyıllar boyu
 
 ## Coğrafya
 
-Emir Hamamı, Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi bölgelerinden birinde yer alır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Emir Hamamı'nın coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sunar. Bu bölgede, dağlık araziler, vadiler ve ova alanları bulunur. Emir Hamamı, aynı zamanda, çevresindeki doğal güzellikleriyle de dikkat çeker. Burada, çeşitli bitki türleri, hayvanlar ve farklı ekosistemler bulunur. Emir Hamamı'nın iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine benzer. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Emir Hamamı, ziyaretçilerine, çeşitli coğrafi oluşumları ve doğal güzellikleri keşfetme fırsatı sunar.
+Emir Hamamı, Mardin'in Artuklu ilçesinde, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi bölgelerinden birinde yer alır. Emir Hamamı'nın coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sunar. Bu bölgede, dağlık araziler, vadiler ve ova alanları bulunur. Emir Hamamı, aynı zamanda, çevresindeki doğal güzellikleriyle de dikkat çeker. Burada, çeşitli bitki türleri, hayvanlar ve farklı ekosistemler bulunur. Emir Hamamı'nın iklimi, Güneydoğu Anadolu Bölgesi'nin genel iklimine benzer. Bu bölgede, yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçer. Emir Hamamı, ziyaretçilerine, çeşitli coğrafi oluşumları ve doğal güzellikleri keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

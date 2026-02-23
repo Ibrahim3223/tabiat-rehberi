@@ -1,7 +1,7 @@
 ---
 title: "Kınalıada Hamam Kalıntısı"
 date: "2026-01-09T23:36:32.105Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,11 +29,11 @@ wikidata_id: "Q131739151"
 
 # Kınalıada Hamam Kalıntısı
 
-Kınalıada Hamam Kalıntısı, İstanbul'un Adalar ilçesine bağlı Kınalıada'da yer alan tarihi bir yapıdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Kınalıada Hamam Kalıntısı, ada halkı ve ziyaretçiler için önemli bir tarihi ve kültürel değer olarak kabul edilmektedir. Ada'nın tarihi geçmişi, bu tür kalıntıların varlığıyla da zenginleştirilmektedir. Kınalıada Hamam Kalıntısı, ziyaretçilerin tarihi ve doğal güzellikleri keşfetmesine olanak tanır.
+Kınalıada Hamam Kalıntısı, İstanbul'un Adalar ilçesine bağlı Kınalıada'da yer alan tarihi bir yapıdır. Kınalıada Hamam Kalıntısı, ada halkı ve ziyaretçiler için önemli bir tarihi ve kültürel değer olarak kabul edilmektedir. Ada'nın tarihi geçmişi, bu tür kalıntıların varlığıyla da zenginleştirilmektedir. Kınalıada Hamam Kalıntısı, ziyaretçilerin tarihi ve doğal güzellikleri keşfetmesine olanak tanır.
 
 ## Tarihçe
 
-Kınalıada Hamam Kalıntısı'nın tam tarihi bilinmemekle birlikte, adanın tarihi geçmişi yüzyıllar öncesine dayanmaktadır. Ada, Byzantium döneminde önemli bir merkez olarak kabul edilmiştir. Tarihi boyunca çeşitli medeniyetlerin etkisi altında kalan ada, bu izleri günümüze kadar taşımıştır. Kınalıada Hamam Kalıntısı da bu tarihi süreci yansıtan önemli bir yapı olarak görülmektedir. Ada'nın tarihi değerleri, ziyaretçilere zengin bir kültürel expérience sunar. Kınalıada Hamam Kalıntısı, adanın tarihini ve kültürel önemini anlaşılmasında önemli bir rol oynamaktadır.
+Kınalıada Hamam Kalıntısı'nın tam tarihi bilinmemekle birlikte, adanın tarihi geçmişi yüzyıllar öncesine dayanmaktadır. Ada, Byzantium döneminde önemli bir merkez olarak kabul edilmiştir. Tarihi boyunca çeşitli medeniyetlerin etkisi altında kalan ada, bu izleri günümüze kadar taşımıştır. Kınalıada Hamam Kalıntısı da bu tarihi süreci yansıtan önemli bir yapı olarak görülmektedir. Ada'nın tarihi değerleri, ziyaretçilere zengin bir kültürel deneyim sunar. Kınalıada Hamam Kalıntısı, adanın tarihini ve kültürel önemini anlaşılmasında önemli bir rol oynamaktadır.
 
 ## Coğrafya
 

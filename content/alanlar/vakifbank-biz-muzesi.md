@@ -1,7 +1,7 @@
 ---
 title: "Vakıfbank B'iz Müzesi"
 date: "2026-01-10T15:17:42.211Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949633"
 
 # Vakıfbank B'iz Müzesi
 
-İstanbul'un kalbinde, teknoloji ve sanatın birleştiği Vakıfbank B'iz Müzesi, ziyaretçilerini bekliyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un merkezinde yer alıyor. Müzenin hikayesi, teknoloji ve sanatın birleştiği bir noktada başlıyor. Vakıfbank B'iz Müzesi, ziyaretçilerine teknoloji ve sanatın birleştiği bir dünya sunuyor. Müze, farklı yaş gruplarına hitap eden çeşitli etkinli ve sergiler ile ziyaretçilerini bekliyor.
+İstanbul'un kalbinde, teknoloji ve sanatın birleştiği Vakıfbank B'iz Müzesi, ziyaretçilerini bekliyor. Müzenin hikayesi, teknoloji ve sanatın birleştiği bir noktada başlıyor. Vakıfbank B'iz Müzesi, ziyaretçilerine teknoloji ve sanatın birleştiği bir dünya sunuyor. Müze, farklı yaş gruplarına hitap eden çeşitli etkinli ve sergiler ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Vakıfbank B'iz Müzesi'nin tarihi, teknoloji ve sanatın birleştiği bir nokta
 
 ## Coğrafya
 
-Vakıfbank B'iz Müzesi, İstanbul'un merkezinde yer alıyor. Müze, 140 hektarlık bir alanda kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. İstanbul'un coğrafi yapısı, müzenin konumunu etkileyen önemli bir faktör. Müze, şehrin merkezinde yer aldığı için ulaşımı kolay ve ziyaretçilere çeşitli ulaşım seçenekleri sunuyor. Vakıfbank B'iz Müzesi, teknoloji ve sanatın birleştiği bir dünya sunmak amacıyla tasarlandı. Müzenin yapısı, modern ve teknolojik bir görünüm sunuyor. Müze, ziyaretçilerine geniş ve ferah bir alan sunuyor.
+Vakıfbank B'iz Müzesi, İstanbul'un merkezinde yer alıyor. İstanbul'un coğrafi yapısı, müzenin konumunu etkileyen önemli bir faktör. Müze, şehrin merkezinde yer aldığı için ulaşımı kolay ve ziyaretçilere çeşitli ulaşım seçenekleri sunuyor. Vakıfbank B'iz Müzesi, teknoloji ve sanatın birleştiği bir dünya sunmak amacıyla tasarlandı. Müzenin yapısı, modern ve teknolojik bir görünüm sunuyor. Müze, ziyaretçilerine geniş ve ferah bir alan sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Vakıfbank B'iz Müzesi'ni ziyaret etmek için, çeşitli ulaşım seçenekleri 
 ## İlginç Bilgiler
 
 - Vakıfbank B'iz Müzesi, teknoloji ve sanatın birleştiği bir dünya sunuyor.
-- Müze, 140 hektarlık bir alanda kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Vakıfbank B'iz Müzesi, ziyaretçilerine teknoloji ve sanatın birleştiği bir noktada eğitim ve eğlence sunuyor.
 - Müze, farklı yaş gruplarına hitap eden çeşitli etkinli ve sergiler ile ziyaretçilerini bekliyor.
 - Vakıfbank B'iz Müzesi, İstanbul'un kültür ve sanat hayatına katkıda bulunan önemli bir kurum olarak şekilleniyor.

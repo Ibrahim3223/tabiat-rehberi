@@ -28,7 +28,7 @@ wikidata_id: "Q31569060"
 
 # Demirkapu Tepesi
 
-Demirkapu Tepesi, Marmara Bölgesi'nin en güzel doğal alanlarından biri olarak karşımıza çıkıyor. Kırklareli ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Demirkapu Tepesi, hem doğal güzelliği hem de tarihi önemiyle dikkat çekiyor. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu bölgeye kendi kültürünü kazandırmış.
+Demirkapu Tepesi, Marmara Bölgesi'nin en güzel doğal alanlarından biri olarak karşımıza çıkıyor. Kırklareli ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Demirkapu Tepesi, hem doğal güzelliği hem de tarihi önemiyle dikkat çekiyor. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu bölgeye kendi kültürünü kazandırmış.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32210350"
 
 # Körük Tepesi
 
-Körük Tepesi, Ordu ilinin doğal güzelliklerinin öne çıktığı bir bölge. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Körük Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Körük Tepesi, Ordu'nun önemli turizm noktalarından biri olarak biliniyor.
+Körük Tepesi, Ordu ilinin doğal güzelliklerinin öne çıktığı bir bölge. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Körük Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Körük Tepesi, Ordu'nun önemli turizm noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 

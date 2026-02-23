@@ -35,9 +35,9 @@ Ankara'nın kuzeybatısında, Beypazarı ilçesinde yer alan Keltepe, Türkiye'n
 
 Ankara bölgesi, tarihin derinliklerinden bu yana çeşitli uygarlıkların izlerini taşıyor. Hititlerden Roma İmparatorluğu'na, Selçuklular'dan Osmanlı Devleti'ne kadar birçok medeniyet bu topraklarda hüküm sürdü. Bu zengin tarihsel miras, bölgenin kültürel ve doğal zenginliklerini şekillendirdi.
 
-Doğal alanlar, Türkiye'nin tarihsel panoramasında önemli bir yer tutuyor. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insan yerleşimleri, ticaret yolları ve yaylacılık gibi faaliyetlerle de históriye tanıklık ediyor. Ankara bölgesindeki dağlar ve ormanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmelerine olanak tanıdı. Yayla hayatının önemli bir parçası olan bu doğal alanlar, aynı zamanda histórik ticaret yollarının da bir kısmını oluşturdu.
+Doğal alanlar, Türkiye'nin tarihsel panoramasında önemli bir yer tutuyor. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insan yerleşimleri, ticaret yolları ve yaylacılık gibi faaliyetlerle de tarihi tanıklık ediyor. Ankara bölgesindeki dağlar ve ormanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmelerine olanak tanıdı. Yayla hayatının önemli bir parçası olan bu doğal alanlar, aynı zamanda tarihi ticaret yollarının da bir kısmını oluşturdu.
 
-Keltepe, Beypazarı gibi doğal güzellikler, bu tarihsel bağlam içinde özel bir yere sahip. Bu tür alanlar, yalnızca doğal güzelliklerini korumakla kalmıyor, aynı zamanda insanlarla doğal çevre arasındaki histórik bağı da gözler önüne seriyor. Ankara bölgesinin tarihi ve kültürel zenginlikleri, bu doğal alanların önemini daha da artırıyor.
+Keltepe, Beypazarı gibi doğal güzellikler, bu tarihsel bağlam içinde özel bir yere sahip. Bu tür alanlar, yalnızca doğal güzelliklerini korumakla kalmıyor, aynı zamanda insanlarla doğal çevre arasındaki tarihi bağı da gözler önüne seriyor. Ankara bölgesinin tarihi ve kültürel zenginlikleri, bu doğal alanların önemini daha da artırıyor.
 
 ## Coğrafya
 
@@ -66,6 +66,6 @@ Keltepe, Beypazarı'nın bir dağıdır. Sabah erken gitmenizi öneririm, hem ka
 - Keltepe, Ankara'nın Beypazarı ilçesinde yer alır.
 - Keltepe'nin yüksekliği 1.806 metredir.
 - Beypazarı, Ankara'nın 99 kilometre kuzeybatısında bulunmaktadır.
-- Keltepe ve çevresinde çeşitli histórik yerleşim yerleri ve kaleler bulunur.
+- Keltepe ve çevresinde çeşitli tarihi yerleşim yerleri ve kaleler bulunur.
 - Bölge, çam ormanları ve doğal güzellikleriyle dikkat çeker.
 - Keltepe, Ankara'nın en önemli turizm noktalarından biridir.

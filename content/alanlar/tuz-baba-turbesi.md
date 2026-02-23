@@ -1,7 +1,7 @@
 ---
 title: "Tuz Baba Türbesi"
 date: "2026-01-10T07:30:25.954Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391002"
 
 # Tuz Baba Türbesi
 
-Tuz Baba Türbesi, İstanbul'un Beşiktaş ilçesinde yer alan önemli bir tarihi ve turistik mekândır. Bu mekân, Marmara Bölgesi'nin zengin tarihini ve kültürünü yansıtmaktadır. Tuz Baba Türbesi'nin tarihi geçmişi, İstanbul'un fethine kadar uzanmaktadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara kendi kültürünü bırakmıştır. Tuz Baba Türbesi, bu kültürel zenginliğin önemli bir parçasıdır. Mekânın etrafı, yeşilliklerle dolu geniş alanlar ve tarihi yapılarla çevrilidir. Tuz Baba Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Burada, ziyaretçiler hem tarihi bir mekânı gezebilmekte hem de doğanın güzelliğini tadabilmektedir.
+Tuz Baba Türbesi, İstanbul'un Beşiktaş ilçesinde yer alan önemli bir tarihi ve turistik mekândır. Bu mekân, Marmara Bölgesi'nin zengin tarihini ve kültürünü yansıtmaktadır. Tuz Baba Türbesi'nin tarihi geçmişi, İstanbul'un fethine kadar uzanmaktadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara kendi kültürünü bırakmıştır. Tuz Baba Türbesi, bu kültürel zenginliğin önemli bir parçasıdır. Mekânın etrafı, yeşilliklerle dolu geniş alanlar ve tarihi yapılarla çevrilidir. Burada, ziyaretçiler hem tarihi bir mekânı gezebilmekte hem de doğanın güzelliğini tadabilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tuz Baba Türbesi'nin tarihi geçmişi, İstanbul'un fethine kadar uzanmaktadır
 
 ## Coğrafya
 
-Tuz Baba Türbesi, İstanbul'un Beşiktaş ilçesinde yer almaktadır. Marmara Bölgesi'nin coğrafi özellikleri, Tuz Baba Türbesi'nin surroundingsını önemli ölçüde etkilemektedir. Mekânın etrafı, yeşilliklerle dolu geniş alanlar ve tarihi yapılarla çevrilidir. Tuz Baba Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Burada, ziyaretçiler hem tarihi bir mekânı gezebilmekte hem de doğanın güzelliğini tadabilmektedir. Tuz Baba Türbesi'nin coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlamaktadır. Mekân, İstanbul'un merkezine yakın bir konumda yer almaktadır. Tuz Baba Türbesi'nin iklimi, Marmara Bölgesi'nin iklimi ile benzerlik göstermektedir. Bu bölge, ılıman bir iklim sahiptir. Kışlar serin, yazlar ise sıcak ve nemlidir. Tuz Baba Türbesi, her mevsim ziyaret edilebilecek bir mekândır. Ancak, ilkbahar ve sonbahar ayları, ziyaret için en uygun zamanlardır.
+Tuz Baba Türbesi, İstanbul'un Beşiktaş ilçesinde yer almaktadır. Marmara Bölgesi'nin coğrafi özellikleri, Tuz Baba Türbesi'nin surroundingsını önemli ölçüde etkilemektedir. Mekânın etrafı, yeşilliklerle dolu geniş alanlar ve tarihi yapılarla çevrilidir. Burada, ziyaretçiler hem tarihi bir mekânı gezebilmekte hem de doğanın güzelliğini tadabilmektedir. Tuz Baba Türbesi'nin coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlamaktadır. Mekân, İstanbul'un merkezine yakın bir konumda yer almaktadır. Tuz Baba Türbesi'nin iklimi, Marmara Bölgesi'nin iklimi ile benzerlik göstermektedir. Bu bölge, ılıman bir iklim sahiptir. Kışlar serin, yazlar ise sıcak ve nemlidir. Tuz Baba Türbesi, her mevsim ziyaret edilebilecek bir mekândır. Ancak, ilkbahar ve sonbahar ayları, ziyaret için en uygun zamanlardır.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Tuz Baba Türbesi, çeşitli bitki türleri ile zengin bir floranın bulunduğu 
 
 ## Ziyaret Bilgileri
 
-Tuz Baba Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel zenginliğini keşfetmek isteyenler için önemli bir deneyimdir. Mekân, Beşiktaş ilçesinde yer almaktadır ve kolayca ulaşılabilir. Tuz Baba Türbesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, hava daha serin ve ziyaret için daha uygundur. Tuz Baba Türbesi, ziyaretçilere tarihi bir mekânı gezebilmeleri ve doğanın güzelliğini tadabilmeleri için olanak sağlamaktadır. Mekânın etrafı, yeşilliklerle dolu geniş alanlar ve tarihi yapılarla çevrilidir. Tuz Baba Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Burada, ziyaretçiler hem tarihi bir mekânı gezebilmekte hem de doğanın güzelliğini tadabilmektedir.
+Tuz Baba Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel zenginliğini keşfetmek isteyenler için önemli bir deneyimdir. Mekân, Beşiktaş ilçesinde yer almaktadır ve kolayca ulaşılabilir. Tuz Baba Türbesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, hava daha serin ve ziyaret için daha uygundur. Tuz Baba Türbesi, ziyaretçilere tarihi bir mekânı gezebilmeleri ve doğanın güzelliğini tadabilmeleri için olanak sağlamaktadır. Mekânın etrafı, yeşilliklerle dolu geniş alanlar ve tarihi yapılarla çevrilidir. Burada, ziyaretçiler hem tarihi bir mekânı gezebilmekte hem de doğanın güzelliğini tadabilmektedir.
 
 ## İlginç Bilgiler
 
 - Tuz Baba Türbesi, İstanbul'un en önemli tarihi ve turistik mekanlarından biridir.
 - Mekân, Beşiktaş ilçesinde yer almaktadır.
-- Tuz Baba Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır.
+
 - Mekânın etrafı, yeşilliklerle dolu geniş alanlar ve tarihi yapılarla çevrilidir.
 - Tuz Baba Türbesi, her mevsim ziyaret edilebilecek bir mekândır.

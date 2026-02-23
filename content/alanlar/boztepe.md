@@ -53,7 +53,7 @@ Mevsimsel olarak ele alındığında, Boztepe'nin iklim karakteri Ankara'nın ge
 
 Boztepe, Ankara'nın dağlık bölgesinde, step bitki örtüsünün hakim olduğu bir alandır. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Bozkırın kuraklığına adapte olmuş türler, burada yaşamını sürdürür. Yükseklik zonlarına göre değişen bitki örtüsü, alpin flora örneklerini sunar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Sonbaharda, göç eden kuşlar bu dağları konaklama alanı olarak kullanır. Memeliler, bozkırın kuraklığına adapte olmuş türlerdir. Sürüngenler, kayalık alanlarda yaşamını sürdürür. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Sonbaharda, göç eden kuşlar bu dağları konaklama alanı olarak kullanır. Memeliler, bozkırın kuraklığına adapte olmuş türlerdir. Sürüngenler, kayalık alanlarda yaşamını sürdürür.
 
 Boztepe'nin ekolojik değeri, bu dağ ekosisteminin korunmasına bağlıdır. Bu alan, bölgenin flora ve faunasının korunması açısından önemlidir. Koruma durumu, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemlidir.
 

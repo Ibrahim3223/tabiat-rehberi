@@ -28,7 +28,7 @@ wikidata_id: "Q31558690"
 
 # Mantardağı Tepesi
 
-Mantardağı Tepesi, Ankara'nın güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzarasıyla karşılıyor. Bu a harikası, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Mantardağı Tepesi, yılın her mevsiminde farklı güzelliğini sergileyen bir doğa harikası. İlkbaharda yeşeren çiçekler, yazın serinleyen havalar, sonbaharda renk değiştiren yapraklar ve kışın karla kaplanan manzaralar, her mevsim ziyaretçilerini farklı bir şekilde karşılayacak.
+Mantardağı Tepesi, Ankara'nın güzide noktalarından biri olarak karşımıza çıkıyor. Bu a harikası, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Mantardağı Tepesi, yılın her mevsiminde farklı güzelliğini sergileyen bir doğa harikası. İlkbaharda yeşeren çiçekler, yazın serinleyen havalar, sonbaharda renk değiştiren yapraklar ve kışın karla kaplanan manzaralar, her mevsim ziyaretçilerini farklı bir şekilde karşılayacak.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mantardağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve �
 
 ## Coğrafya
 
-Mantardağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Tepenin coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevredeki tepelerle birlikte bir doğa koridoru oluşturmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Yaz aylarında sıcak ve kuru, kış aylarında soğuk ve karlı bir hava hakimdir. Mantardağı Tepesi'nin coğrafi konumu, ziyaretçilerine yılın her mevsiminde farklı bir güzellik sunmaktadır. İlkbaharda yeşeren çiçekler, yazın serinleyen havalar, sonbaharda renk değiştiren yapraklar ve kışın karla kaplanan manzaralar, her mevsim ziyaretçilerini farklı bir şekilde karşılayacak.
+Mantardağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Tepenin coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunmaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Yaz aylarında sıcak ve kuru, kış aylarında soğuk ve karlı bir hava hakimdir. Mantardağı Tepesi'nin coğrafi konumu, ziyaretçilerine yılın her mevsiminde farklı bir güzellik sunmaktadır. İlkbaharda yeşeren çiçekler, yazın serinleyen havalar, sonbaharda renk değiştiren yapraklar ve kışın karla kaplanan manzaralar, her mevsim ziyaretçilerini farklı bir şekilde karşılayacak.
 
 ## Flora ve Fauna
 

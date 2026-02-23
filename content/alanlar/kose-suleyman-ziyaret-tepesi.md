@@ -29,7 +29,7 @@ wikidata_id: "Q131391765"
 
 # Köse Süleyman Ziyaret Tepesi
 
-Köse Süleyman Ziyaret Tepesi, Sivas'ın Suşehri ilçesinde yer alan ve doğa severlerin uğrak noktası olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Köse Süleyman Ziyaret Tepesi, hem doğa yürüyüşü hem de tarihi değerleri ile ziyaretçilerini cezbediyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın bir parçası olma fırsatı sunuyor.
+Köse Süleyman Ziyaret Tepesi, Sivas'ın Suşehri ilçesinde yer alan ve doğa severlerin uğrak noktası olan bir tepe. Köse Süleyman Ziyaret Tepesi, hem doğa yürüyüşü hem de tarihi değerleri ile ziyaretçilerini cezbediyor. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın bir parçası olma fırsatı sunuyor.
 
 ## Tarihçe
 

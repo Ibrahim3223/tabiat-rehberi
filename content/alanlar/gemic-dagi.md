@@ -48,9 +48,9 @@ Mevsimsel olarak Gemiç Dağı, Akdeniz ikliminin karakteristik özelliklerini t
 
 ## Flora ve Fauna
 
-Gemiç Dağı, Burdur'un yükseklik zonlarına ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, maki bitki örtüsünün hakim olduğu bu bölgede, kuraklığa dayanıklı türlerin renkli çiçekleri patlıyor. 
+Gemiç Dağı, Burdur'un yükseklik zonlarına ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, maki bitki örtüsünün hakim olduğu bu bölgede, kuraklığa dayanıklı türlerin renkli çiçekleri patlıyor.
 
-Bitki örtüsü, mevsimsel değişimlere göre farklılık gösteriyor. İlkbaharın renkli tonları, yazın kuraklığı ve sonbaharın sarı yapraklarıyla değişen bir manzara sunuyor. Bu değişim, dağın yükseklik zonlarına bağlı olarak değişen flora çeşitliliğini de ortaya koyuyor. 
+Bitki örtüsü, mevsimsel değişimlere göre farklılık gösteriyor. İlkbaharın renkli tonları, yazın kuraklığı ve sonbaharın sarı yapraklarıyla değişen bir manzara sunuyor. Bu değişim, dağın yükseklik zonlarına bağlı olarak değişen flora çeşitliliğini de ortaya koyuyor.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Kışın, göçmen kuşların ziyaret ettiği bu bölge, aynı zamanda dağ keçileri ve diğer memelilerin yaşam alanını oluşturuyor. Bu canlılar, dağ ekosisteminin önemli bileşenleri olarak, birbirleriyle ve çevreleriyle ekolojik ilişkiler içinde bulunuyorlar.
 

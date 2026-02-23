@@ -29,11 +29,11 @@ wikidata_id: "Q31386761"
 
 # Tahta Tepe
 
-Tahta Tepe, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren önemli bir nokta. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde. Tahta Tepe, ziyaretçilerine tarih, doğa ve kültür üçlüsünü sunuyor. Burada, tarihi yapılar, doğal güzellikler ve kültürel etkinlikler bir araya geliyor. Ziyaretçiler, bu alanda hem tarih hem de doğa ile iç içe olabilirler.
+Tahta Tepe, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren önemli bir nokta. Tahta Tepe, ziyaretçilerine tarih, doğa ve kültür üçlüsünü sunuyor. Burada, tarihi yapılar, doğal güzellikler ve kültürel etkinlikler bir araya geliyor. Ziyaretçiler, bu alanda hem tarih hem de doğa ile iç içe olabilirler.
 
 ## Tarihçe
 
-Tahta Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu alan, birçok medeniyete ev sahipliği yapmış ve her biri burada izler bırakmıştır. Tarihi yapılar, bu alanın zengin geçmişini yansıtıyor. Tahta Tepe, Diyarbakır'ın önemli tarihi noktalarından biri olarak kabul ediliyor. Burada, ziyaretçiler tarihi eserleri yakından inceleyebilir ve bu alanın histórik değerini öğrenebilirler. Tahta Tepe'nin tarihi, bölgenin kültürel mirasını anlamak için önemli bir başlangıç noktası.
+Tahta Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu alan, birçok medeniyete ev sahipliği yapmış ve her biri burada izler bırakmıştır. Tarihi yapılar, bu alanın zengin geçmişini yansıtıyor. Tahta Tepe, Diyarbakır'ın önemli tarihi noktalarından biri olarak kabul ediliyor. Burada, ziyaretçiler tarihi eserleri yakından inceleyebilir ve bu alanın tarihi değerini öğrenebilirler. Tahta Tepe'nin tarihi, bölgenin kültürel mirasını anlamak için önemli bir başlangıç noktası.
 
 ## Coğrafya
 

@@ -1,7 +1,7 @@
 ---
 title: "Zeytin Baba Türbesi"
 date: "2026-01-10T05:31:14.179Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391662"
 
 # Zeytin Baba Türbesi
 
-Zeytin Baba Türbesi, İstanbul'un Tuzla ilçesinde yer alan ve Marmara Bölgesi'nin önemli doğal ve tarihi noktalarından biri olan bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Zeytin Baba Türbesi, hem doğal güzelliği hem de tarihi önemi ile dikkat çekmekte ve ziyaretçilerini cezbedecek bir çok özelliği barındırmaktadır. Tuzla'nın merkeziunda yer alan bu türbe, aynı zamanda bölgenin önemli bir turizm merkezidir.
+Zeytin Baba Türbesi, İstanbul'un Tuzla ilçesinde yer alan ve Marmara Bölgesi'nin önemli doğal ve tarihi noktalarından biri olan bir alandır. Zeytin Baba Türbesi, hem doğal güzelliği hem de tarihi önemi ile dikkat çekmekte ve ziyaretçilerini cezbedecek bir çok özelliği barındırmaktadır. Tuzla'nın merkeziunda yer alan bu türbe, aynı zamanda bölgenin önemli bir turizm merkezidir.
 
 ## Tarihçe
 

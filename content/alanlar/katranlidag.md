@@ -34,7 +34,7 @@ Gaziantep'in zengin tarihi ve kültürel mirasının yanı sıra, Katranlıdağ 
 
 Gaziantep bölgesinin zengin tarihi, çeşitli uygarlıkların izlerini taşıyor. Hitit, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel mirasını şekillendirmişlerdir. Katranlıdağ, bu tarihsel zenginliğin içinde yer alan bir doğal alan olarak, insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde bulunmuştur.
 
-Türkiye'de doğal alanlar, tarihsel olarak insanların yaşamlarının merkezinde yer almıştır. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yürütülen geleneksel faaliyetlerdir. Ayrıca, histórik ticaret yolları da bu doğal alanlardan geçerek, bölgeler arasındaki ekonomi ve kültürel alışverişi sağlamıştır. Katranlıdağ, bu bağlamda, bölgenin ekonomisi ve kültürü için önemli bir role sahip olmuştur.
+Türkiye'de doğal alanlar, tarihsel olarak insanların yaşamlarının merkezinde yer almıştır. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yürütülen geleneksel faaliyetlerdir. Ayrıca, tarihi ticaret yolları da bu doğal alanlardan geçerek, bölgeler arasındaki ekonomi ve kültürel alışverişi sağlamıştır. Katranlıdağ, bu bağlamda, bölgenin ekonomisi ve kültürü için önemli bir role sahip olmuştur.
 
 İnsanların bu doğal alanlarla ilişkisi, sadece ekonomik faaliyetlerle sınırlı değildir. Bu alanlar, aynı zamanda insanların dinlenme, avlanma ve sosyal faaliyetlerde bulunabileceği mekanlar olarak da kullanılmıştır. Katranlıdağ, Gaziantep bölgesinin tarihsel ve kültürel mirasının bir parçası olarak, insan yaşamının çeşitli yönlerini etkileyen önemli bir doğal alandır.
 
@@ -50,7 +50,7 @@ Bölgenin ekosistem bağlantıları açısından bakıldığında, Katranlıdağ
 
 ## Flora ve Fauna
 
-Katranlıdağ, Gaziantep'in yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Katranlıdağ, Gaziantep'in yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Dağın yükseklik zonları, farklı mevsimlerde çeşitli bitki örtülerine ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçerken, gökyüzü bir renk cümbüşüne dönüşüyor.
 
 Dağın yaban hayatı, dağ keçileri, tilkiler ve çeşitli kuş türleriyle zengin. Sürüngenler de bu dağların yükseklik zonlarında yaşamını sürdürüyor. Dağın ekolojik değeri, bölgenin su kaynaklarını koruması ve yerel ekosistemi desteklemesiyle ölçülüyor. Ancak, bu önemli ekosistemin korunması için daha fazla çaba gerekiyor.

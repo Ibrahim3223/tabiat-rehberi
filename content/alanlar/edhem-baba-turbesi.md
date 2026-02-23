@@ -1,7 +1,7 @@
 ---
 title: "Edhem Baba Türbesi"
 date: "2026-01-10T07:28:08.502Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391051"
 
 # Edhem Baba Türbesi
 
-Edhem Baba Türbesi, İstanbul'un Eyüpsultan ilçesinde, tarihi ve kültürel zenginliklere sahip bir bölgede yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu mekan, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini çekmektedir. Edhem Baba Türbesi, İstanbul'un tarihi ve kültürel mirasının önemli bir parçasıdır.
+Edhem Baba Türbesi, İstanbul'un Eyüpsultan ilçesinde, tarihi ve kültürel zenginliklere sahip bir bölgede yer alır. Bu mekan, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini çekmektedir. Edhem Baba Türbesi, İstanbul'un tarihi ve kültürel mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Alara İç Kale Hamamı"
 date: "2026-01-10T04:28:59.324Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738765"
 
 # Alara İç Kale Hamamı
 
-Alanya'nın tarihi ve doğal güzellikleri ile ünlü Alara İç Kale Hamamı, ziyaretçilerini bekliyor. Bu özel mekan, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Alara İç Kale Hamamı, Akdeniz Bölgesi'nin en güzel ve tarihi yerlerinden biri olarak kabul ediliyor. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunmakta.
+Alanya'nın tarihi ve doğal güzellikleri ile ünlü Alara İç Kale Hamamı, ziyaretçilerini bekliyor. Alara İç Kale Hamamı, Akdeniz Bölgesi'nin en güzel ve tarihi yerlerinden biri olarak kabul ediliyor. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunmakta.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Alara İç Kale Hamamı, yüzyıllar boyunca birçok medeniyete ev sahipliği ya
 
 ## Coğrafya
 
-Alara İç Kale Hamamı, Antalya'nın Alanya ilçesinde bulunuyor ve Akdeniz Bölgesi'nin en güzel yerlerinden biri olarak kabul ediliyor. Bu mekan, 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Alara İç Kale Hamamı, deniz seviyesinden yüksek bir konumda yer alıyor ve etrafı tarihi duvarlar ile çevrili. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunmakta. Mekan, zengin bitki örtüsü ve çeşitli fauna ile dikkat çekiyor. Alara İç Kale Hamamı, ziyaretçilerine tarihi ve doğal güzelliklerin bir arada bulunduğu benzersiz bir deneyim sunuyor.
+Alara İç Kale Hamamı, Antalya'nın Alanya ilçesinde bulunuyor ve Akdeniz Bölgesi'nin en güzel yerlerinden biri olarak kabul ediliyor. Alara İç Kale Hamamı, deniz seviyesinden yüksek bir konumda yer alıyor ve etrafı tarihi duvarlar ile çevrili. Burada, tarihi kalıntılar ve doğal güzellikler bir arada bulunmakta. Mekan, zengin bitki örtüsü ve çeşitli fauna ile dikkat çekiyor. Alara İç Kale Hamamı, ziyaretçilerine tarihi ve doğal güzelliklerin bir arada bulunduğu benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

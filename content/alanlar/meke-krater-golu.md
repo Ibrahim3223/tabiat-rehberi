@@ -30,7 +30,7 @@ wikidata_id: "Q6065286"
 
 # Meke Krater Gölü
 
-Konya'nın Karapınar ilçesinde, Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan Meke Krater Gölü, ziyaretçilerini büyüleyici bir manzarayla karşılıyor. Bu doğal harika, Konya'nın geniş ve verimli ovalarının ortasında bir görsel şölen sunuyor. Karapınar'ın büyüleyici peyzajında yer alan Meke Krater Gölü, gezginlerin ilgisini çekiyor. Konya'nın merkezi ve histórik bölgelerine yakınlığıyla dikkat çekiyor.
+Konya'nın Karapınar ilçesinde, Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan Meke Krater Gölü, ziyaretçilerini büyüleyici bir manzarayla karşılıyor. Bu doğal harika, Konya'nın geniş ve verimli ovalarının ortasında bir görsel şölen sunuyor. Karapınar'ın büyüleyici peyzajında yer alan Meke Krater Gölü, gezginlerin ilgisini çekiyor. Konya'nın merkezi ve tarihi bölgelerine yakınlığıyla dikkat çekiyor.
 
 ## Tarihçe
 

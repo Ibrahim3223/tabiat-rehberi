@@ -29,7 +29,7 @@ wikidata_id: "Q134728295"
 
 # Bin Tepeler Tümülüsü 69
 
-Bin Tepeler Tümülüsü 69, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir. Ahmetli/Manisa'da bulunan bu mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. 69 numaralı tümülüs, bölgenin en dikkat çekici yapılarından biri olarak kabul ediliyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alanda yer alıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Ziyaretçiler, bu geniş alanda dolaşırken, tarihin ve doğanın güzelliklerini keşfedebilecekler.
+Bin Tepeler Tümülüsü 69, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir. Ahmetli/Manisa'da bulunan bu mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. 69 numaralı tümülüs, bölgenin en dikkat çekici yapılarından biri olarak kabul ediliyor. Ziyaretçiler, bu geniş alanda dolaşırken, tarihin ve doğanın güzelliklerini keşfedebilecekler.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Bin Tepeler Tümülüsü 69, Ege Bölgesi'nin coğrafi güzelliklerini de gözle
 
 ## Flora ve Fauna
 
-Bin Tepeler Tümülüsü 69'in bulunduğu bölge, flora ve fauna açısından oldukça zengin. Bu region, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Ziyaretçiler, buradaki doğal güzellikleri görerek, ekosistemin önemini daha iyi anlayabilecekler. Mevsimsel değişimler, bu bölgenin güzelliklerini farklı perspektiflerden gösteriyor. Bahar aylarında, bölgeye renk getiren çiçekler, ziyaretçileri bekliyor. Kış aylarında ise, tümülüslerin karla kaplı halleri, manzaraya farklı bir güzellik katıyor.
+ Bu region, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Ziyaretçiler, buradaki doğal güzellikleri görerek, ekosistemin önemini daha iyi anlayabilecekler. Mevsimsel değişimler, bu bölgenin güzelliklerini farklı perspektiflerden gösteriyor. Bahar aylarında, bölgeye renk getiren çiçekler, ziyaretçileri bekliyor. Kış aylarında ise, tümülüslerin karla kaplı halleri, manzaraya farklı bir güzellik katıyor.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Bin Tepeler Tümülüsü 69'i ziyaret etmek, tarihe ve doğaya meraklı olanlar 
 
 - Bin Tepeler Tümülüsü 69, Ege Bölgesi'nin en önemli tarihi sitelerinden biridir.
 - Tümülüslerin inşa edilme amacı ve tarihi, ziyaretçiler için oldukça ilgi çekici.
-- Bölge, flora ve fauna açısından oldukça zengin.
+
 - Ziyaretçiler, buradaki doğal güzellikleri görerek, ekosistemin önemini daha iyi anlayabilecekler.
 - Bin Tepeler Tümülüsü 69, tarihin ve doğanın güzelliklerini aynı anda keşfetme fırsatı sunuyor.

@@ -47,7 +47,7 @@ Jeolojik açıdan bakıldığında, Bardusçay Kanyonu'nun oluşumu milyonlarca 
 
 İklim açısından bakıldığında, Bardusçay Kanyonu'nun bulunduğu bölge, karasal iklimin etkisindedir. Yaz aylarında sıcaklığın 25 dereceye kadar çıktığı, kış aylarında ise -20 dereceye kadar düştüğü bilinmektedir. Bu mevsimsel değişiklikler, kanyonun ekosistemini şekillendirmiş ve bölgede yaşayan canlıların adaptasyonuna neden olmuştur. Eiffel Kulesi'nin 5 katı yükseklikte olan bazı noktalarda, hava koşulları daha sert ve soğuk olabilir.
 
-Bardusçay Kanyonu'nun bulunduğu bölge, su kaynakları açısından zengin bir alandır. Kanyonun yakınında, Aras Nehri'nin bir kolu olan Bardusçay bulunur. Bu su kaynağı, kanyonun oluşumunda önemli bir rol oynamış ve bölgenin ekosistemini şekillendirmiştir. Monaco'nun yarısı kadar bir alanı kaplayan bu bölge, çevresindeki diğer doğal alanlarla birlikte, bir bütün olarak ele alınmalıdır. Bu nedenle, Bardusçay Kanyonu'nun çevresel ilişkileri, bölgenin ekolojik dengesini korumak açısından önemlidir.
+Bardusçay Kanyonu'nun bulunduğu bölge, su kaynakları açısından zengin bir alandır. Kanyonun yakınında, Aras Nehri'nin bir kolu olan Bardusçay bulunur. Bu su kaynağı, kanyonun oluşumunda önemli bir rol oynamış ve bölgenin ekosistemini şekillendirmiştir. Monaco'nun yarısı kadar bir alanı kaplayan bu bölge, çevresindeki diğer doğal alanlarla birlikte, bir bütün olarak ele alınmalıdır.
 
 ## Flora ve Fauna
 

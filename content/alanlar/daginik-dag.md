@@ -32,7 +32,7 @@ Erzincan'ın dağlık arazisi, gizli bir hazine gibi "Dağınık Dağ"ı saklıy
 
 ## Tarihçe
 
-Erzincan bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada bulunuyor. Binlerce yıl önce, bu topraklarda Hitit, Roma ve Selçuklu uygarlıkları yaşamış, birbirinden farklı kültürleri bir araya getirmiş. "Dağınık Dağ" da bu tarihsel sürecin bir parçası olarak, bölgenin doğal güzelliklerine katkıda bulunan önemli bir bileşen.
+Erzincan bölgesi, tarihin derin izlerini taşıyan bir coğrafyada bulunuyor. Binlerce yıl önce, bu topraklarda Hitit, Roma ve Selçuklu uygarlıkları yaşamış, birbirinden farklı kültürleri bir araya getirmiş. "Dağınık Dağ" da bu tarihsel sürecin bir parçası olarak, bölgenin doğal güzelliklerine katkıda bulunan önemli bir bileşen.
 
 Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde, bu tür doğal alanlar binlerce yıldır insanların yaşamına eşlik etmiş. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve kültürel önemini artırmış. Ayrıca, tarihi ticaret yollarının da bu coğrafyadan geçmesi, bölgenin stratejik değerini tăngıtmış.
 

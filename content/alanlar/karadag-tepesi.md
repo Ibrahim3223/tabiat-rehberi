@@ -29,7 +29,7 @@ wikidata_id: "Q31386216"
 
 # Karadağ Tepesi
 
-Karadağ Tepesi, Şanlıurfa'nın eşsiz doğal güzelliklerini sunan bir coğrafi noktadır. Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli bir parçasıdır ve ziyaretçilere bölge hakkında detaylı bilgi edinme fırsatı sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin bölgeyi keşfetmelerine olanak tanır. Karadağ Tepesi, hem doğal güzellikleri hem de coğrafi konumuyla dikkat çekici bir destinasyondur.
+Karadağ Tepesi, Şanlıurfa'nın eşsiz doğal güzelliklerini sunan bir coğrafi noktadır. Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli bir parçasıdır ve ziyaretçilere bölge hakkında detaylı bilgi edinme fırsatı sunar. Karadağ Tepesi, hem doğal güzellikleri hem de coğrafi konumuyla dikkat çekici bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karadağ Tepesi, tarihi geçmişiyle dikkat çekicidir. Yüzyıllar boyunca çe�
 
 ## Coğrafya
 
-Karadağ Tepesi, Şanlıurfa'nın coğrafi yapısını oluşturan önemli bir parçadır. Bu tepe, bölgenin doğal güzelliklerini sunan bir noktadır ve coğrafi konumu, ziyaretçilere bölge hakkında bilgi edinme fırsatı sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin bölgeyi keşfetmelerine olanak tanır. Karadağ Tepesi, hem doğal güzellikleri hem de coğrafi konumuyla dikkat çekici bir destinasyondur. Bölgenin coğrafi yapısı, ziyaretçilerin Karadağ Tepesi'ni daha iyi anlamalarına yardımcı olur ve bu tepe, Şanlıurfa'nın önemli coğrafi noktalarından biridir.
+Karadağ Tepesi, Şanlıurfa'nın coğrafi yapısını oluşturan önemli bir parçadır. Bu tepe, bölgenin doğal güzelliklerini sunan bir noktadır ve coğrafi konumu, ziyaretçilere bölge hakkında bilgi edinme fırsatı sunar. Karadağ Tepesi, hem doğal güzellikleri hem de coğrafi konumuyla dikkat çekici bir destinasyondur. Bölgenin coğrafi yapısı, ziyaretçilerin Karadağ Tepesi'ni daha iyi anlamalarına yardımcı olur ve bu tepe, Şanlıurfa'nın önemli coğrafi noktalarından biridir.
 
 ## Flora ve Fauna
 

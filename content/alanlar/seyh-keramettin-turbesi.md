@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Keramettin Türbesi"
 date: "2026-01-10T07:53:51.639Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"

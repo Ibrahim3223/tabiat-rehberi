@@ -50,7 +50,7 @@ Mevsimsel olarak bakıldığında, Küçükkartal Tepesi, Ankara'nın genel ikli
 
 ## Flora ve Fauna
 
-Küçükkartal Tepesi, Ankara'nın step bitki örtüsü ve bozkır ekosisteminin karakteristik özelliklerini taşıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı bitki türleri ve hayvanlar yaşamını sürdürüyor. İlkbaharın gelmesiyle birlikte, tepeye renk getiren çiçekler açıyor ve dağ yamaçları yeşilleniyor. 
+Küçükkartal Tepesi, Ankara'nın step bitki örtüsü ve bozkır ekosisteminin karakteristik özelliklerini taşıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı bitki türleri ve hayvanlar yaşamını sürdürüyor. İlkbaharın gelmesiyle birlikte, tepeye renk getiren çiçekler açıyor ve dağ yamaçları yeşilleniyor.
 
 Bitki örtüsünü oluşturan step ve bozkır türleri, kuraklığa adapte olmuş ve bu bölgenin karakteristik özelliklerini taşıyor. Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağların yüksek kesimlerinde, göçmen kuşların geçiş yolları üzerinde yer alıyor ve bu nedenle sonbahar aylarında çeşitli kuş türleriyle karşılaşılabiliyor.
 

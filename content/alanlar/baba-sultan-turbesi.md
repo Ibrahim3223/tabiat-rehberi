@@ -1,7 +1,7 @@
 ---
 title: "Baba Sultan Türbesi"
 date: "2026-01-10T06:39:45.795Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Isparta"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582632"
 
 # Baba Sultan Türbesi
 
-Baba Sultan Türbesi, Isparta'nın Eğirdir ilçesinde yer alan tarihi bir türbe ve plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu özel mekan, hem tarihi hem de doğal güzellikleri bir arada sunar. Baba Sultan Türbesi, Eğirdir Gölü'nün kıyısında yer alır ve ziyaretçilere muhteşem bir göl manzarası sunar. Tarih ve doğa severler için ideal bir destinasyon olan Baba Sultan Türbesi, hem gezi hem de tatil için uygun bir seçenektir.
+Baba Sultan Türbesi, Isparta'nın Eğirdir ilçesinde yer alan tarihi bir türbe ve plajdır. Bu özel mekan, hem tarihi hem de doğal güzellikleri bir arada sunar. Baba Sultan Türbesi, Eğirdir Gölü'nün kıyısında yer alır ve ziyaretçilere muhteşem bir göl manzarası sunar. Tarih ve doğa severler için ideal bir destinasyon olan Baba Sultan Türbesi, hem gezi hem de tatil için uygun bir seçenektir.
 
 ## Tarihçe
 

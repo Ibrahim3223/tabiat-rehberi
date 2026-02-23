@@ -32,7 +32,7 @@ Antalya'nın büyüleyici manzaraları arasında gizli bir hazine olan Gidefi Da
 
 ## Tarihçe
 
-Gidefi Dağı, Antalya'nın histórik zenginliklerini barındıran bir bölgede yer alıyor. Bu bölge, binlerce yıl önce Likya, Pamfilya ve Roma uygarlıklarının yaşadığı bir toprak parçasıdır. Antalya'nın tarihsel geçmişi, Paleolitik Çağ'a kadar uzanır ve çeşitli medeniyetlerin izlerini taşır.
+Gidefi Dağı, Antalya'nın tarihi zenginliklerini barındıran bir bölgede yer alıyor. Bu bölge, binlerce yıl önce Likya, Pamfilya ve Roma uygarlıklarının yaşadığı bir toprak parçasıdır. Antalya'nın tarihsel geçmişi, Paleolitik Çağ'a kadar uzanır ve çeşitli medeniyetlerin izlerini taşır.
 
 Gidefi Dağı gibi doğal alanlar, Türkiye'nin kültürel ve ekonomik tarihinde önemli bir  oynamıştır. Bu bölgeler, yüzyıllar boyunca insanların yaşamlarını sürdürdüğü, yaylacılık ve hayvancılık yaptığı, ticaret yollarının kesiştiği yerler olarak hizmet vermiştir. İnsanların bu doğal alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir bağlamda da önemlidir.
 
@@ -50,9 +50,9 @@ Gidefi Dağı, çevresindeki ekosistem ile bağlantılıdır. Dağın eteklerind
 
 ## Flora ve Fauna
 
-Gidefi Dağı, Antalya'nın eşsiz doğa güzelliğini sunan bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu dağ ekosisteminde, maki bitki örtüsü ve kuraklığa dayanıklı türler hakimdir. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle dolu olur. 
+Gidefi Dağı, Antalya'nın eşsiz doğa güzelliğini sunan bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu dağ ekosisteminde, maki bitki örtüsü ve kuraklığa dayanıklı türler hakimdir. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle dolu olur.
 
-Bu bölgede, yükseklik zonlarına göre değişen alpin flora, ziyaretçilere benzersiz bir manzara sunar. Dağ hayvanları, bu ekosistemin önemli bir parçasıdır. Kıyı ekosisteminin yakınında olması, dağdaki canlıların çeşitliliğini artırır. 
+Bu bölgede, yükseklik zonlarına göre değişen alpin flora, ziyaretçilere benzersiz bir manzara sunar. Dağ hayvanları, bu ekosistemin önemli bir parçasıdır. Kıyı ekosisteminin yakınında olması, dağdaki canlıların çeşitliliğini artırır.
 
 Gidefi Dağı, özellikle sonbaharda göç eden kuşlar için önemli bir uğrak noktasıdır. Bu bölge, memeliler, kuşlar ve sürüngenler için yaşam alanı sunar. Ekolojik ilişkiler, bu dağ ekosisteminin dengesini sağlar. Bu nedenlerle, Gidefi Dağı'nın korunması büyük önem taşır.
 

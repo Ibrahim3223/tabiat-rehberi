@@ -29,7 +29,7 @@ wikidata_id: "Q31539458"
 
 # Erik Tepesi
 
-Erik Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Erik Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor. Bu tepelerin birleşmesiyle oluşan manzara, gerçekten görülmeye değer. Doğal güzellikleri ve tarihi önemi ile Erik Tepesi, ziyaretçilerini bekliyor.
+Erik Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Erik Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturuyor. Bu tepelerin birleşmesiyle oluşan manzara, gerçekten görülmeye değer. Doğal güzellikleri ve tarihi önemi ile Erik Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

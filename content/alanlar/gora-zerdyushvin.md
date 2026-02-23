@@ -48,7 +48,7 @@ Gora Zerdyushvin, çevresindeki alanlarla önemli bağlantılar içeriyor. Fıra
 
 ## Flora ve Fauna
 
-Gora Zerdyushvin dağının flora ve fauna dünyası, yarı kurak iklimin ve step ile ova ekolojisinin birleştiği bir bölgede yer alır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gora Zerdyushvin dağının flora ve fauna dünyası, yarı kurak iklimin ve step ile ova ekolojisinin birleştiği bir bölgede yer alır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü: Dağın yükseklik zonları, ilkbaharda renkli çiçeklerle kaplanırken, yaz aylarında kuraklığa adapte olmuş otsu bitkiler hakim olur. Özel bitkiler, dağlık alanların karakteristik featuresidir.
 

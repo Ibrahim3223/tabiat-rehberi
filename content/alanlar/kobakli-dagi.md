@@ -48,7 +48,7 @@ Doğal güzelliği ile dikkat çeken Kobaklı Dağı, coğrafi olarak bakıldı�
 
 ## Flora ve Fauna
 
-Kobaklı Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kobaklı Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, kuraklığa dayanıklı türler hakimdir. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçekler açarak renkli bir manzara sunar. Kış aylarında ise, maki bitki örtüsü yeşilliğini korur.
 

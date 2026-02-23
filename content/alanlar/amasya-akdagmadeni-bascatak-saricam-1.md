@@ -22,7 +22,7 @@ wikidata_id: "Q108227541"
 
 # Amasya-Akdagmadeni-Bascatak Saricam 1
 
-Amasya ilinin Akdagmadeni ilçesinde yer alan Bascatak Saricam 1 milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini korumak için önemli bir rol oynar. Saricam 1 milli parkı, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, onları şehrin gürültüsünden uzaklaştırır. Bu milli park, aynı zamanda bölgenin flora ve faunasını korumak için önemli bir alandır.
+Amasya ilinin Akdagmadeni ilçesinde yer alan Bascatak Saricam 1 milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Saricam 1 milli parkı, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, onları şehrin gürültüsünden uzaklaştırır. Bu milli park, aynı zamanda bölgenin flora ve faunasını korumak için önemli bir alandır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Amasya-Akdagmadeni-Bascatak Saricam 1 milli parkının tarihi geçmişi, yüzyı
 
 ## Coğrafya
 
-Amasya-Akdagmadeni-Bascatak Saricam 1 milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Bu milli park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Saricam 1 milli parkı, bölgenin en önemli doğal güzelliklerinden biridir. Bu milli park, Karadeniz Bölgesi'nin iklimini yansıtan bir coğrafi yapıya sahiptir. Saricam 1 milli parkı, bölgenin flora ve faunasını korumak için önemli bir alandır. Bu milli park, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir role sahiptir. Saricam 1 milli parkı, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda bölgenin tarihi ve kültürel değerlerini de korumaktadır.
+Amasya-Akdagmadeni-Bascatak Saricam 1 milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Saricam 1 milli parkı, bölgenin en önemli doğal güzelliklerinden biridir. Bu milli park, Karadeniz Bölgesi'nin iklimini yansıtan bir coğrafi yapıya sahiptir. Saricam 1 milli parkı, bölgenin flora ve faunasını korumak için önemli bir alandır. Bu milli park, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir role sahiptir. Saricam 1 milli parkı, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda bölgenin tarihi ve kültürel değerlerini de korumaktadır.
 
 ## Flora ve Fauna
 
@@ -46,4 +46,4 @@ Amasya-Akdagmadeni-Bascatak Saricam 1 milli parkını ziyaret etmek, doğanın g
 - Bu milli park, bölgenin flora ve faunasını korumak için önemli bir alandır.
 - Saricam 1 milli parkı, ziyaretçilerine doğanın güzelliğini sunarken, aynı zamanda bölgenin tarihi ve kültürel değerlerini de korumaktadır.
 - Bu milli park, Karadeniz Bölgesi'nin önemli bir turizm merkezi olarak kabul edilir.
-- Saricam 1 milli parkı, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir.
+

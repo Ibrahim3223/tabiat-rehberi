@@ -50,9 +50,9 @@ Jeolojik açıdan incelendiğinde, Keşlik Tepe'nin konumu ve yapısı, bölgeni
 
 Keşlik Tepe, Sivas'ın dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, step bitki örtüsü ve bozkırın karakteristik özelliklerini taşır. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarının yaşadığı bir alandır.
 
-Bitki örtüsüne bakıldığında, ilkbaharda çiçeklerin renk cümbüşü ile karşılaşıyoruz. Step bitkileri ve bozkır türleri, kuraklığa adapte olmuş şekilde büyür. Sonbaharda, dağların eteklerinde göç eden kuşların uğrak noktaları oluşur. 
+Bitki örtüsüne bakıldığında, ilkbaharda çiçeklerin renk cümbüşü ile karşılaşıyoruz. Step bitkileri ve bozkır türleri, kuraklığa adapte olmuş şekilde büyür. Sonbaharda, dağların eteklerinde göç eden kuşların uğrak noktaları oluşur.
 
-Yaban hayatı açısından zengin bir alandır. Memeliler, dağların yüksek kesimlerinde yaşamını sürdürürken, kuşlar göç yolları üzerinde önemli bir durak noktası oluşturur. Sürüngenler, step ve bozkırın karakteristik türleri olarak görülebilir. 
+Yaban hayatı açısından zengin bir alandır. Memeliler, dağların yüksek kesimlerinde yaşamını sürdürürken, kuşlar göç yolları üzerinde önemli bir durak noktası oluşturur. Sürüngenler, step ve bozkırın karakteristik türleri olarak görülebilir.
 
 Keşlik Tepe'nin ekolojik değeri, bölgedeki canlı çeşitliliğini desteklemesi ve doğal dengenin korunmasına katkıda bulunmasıdır. Bu alanın korunması, gelecek nesiller için önemli bir sorumluluk olarak görülmelidir.
 

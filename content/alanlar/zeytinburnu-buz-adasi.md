@@ -30,7 +30,7 @@ wikidata_id: "Q111987824"
 
 # Zeytinburnu Buz Adası
 
-Zeytinburnu Buz Adası, İstanbul'un Zeytinburnu ilçesinde bulunan ve Marmara Bölgesi'nin önemli doğal alanlarından biri olan bir plajdır. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Zeytinburnu Buz Adası, deniz ve kumsalın birleştiği noktada, ziyaretçilerine eşsiz bir deneyim sunar. Bu doğal alan, hem yerel halk hem de şehri ziyaret edenler için bir kaçış noktası olarak hizmet vermektedir.
+Zeytinburnu Buz Adası, İstanbul'un Zeytinburnu ilçesinde bulunan ve Marmara Bölgesi'nin önemli doğal alanlarından biri olan bir plajdır. Zeytinburnu Buz Adası, deniz ve kumsalın birleştiği noktada, ziyaretçilerine eşsiz bir deneyim sunar. Bu doğal alan, hem yerel halk hem de şehri ziyaret edenler için bir kaçış noktası olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Zeytinburnu Buz Adası'nın tarihi geçmişi, İstanbul'un tarihinde önemli bir
 
 ## Coğrafya
 
-Zeytinburnu Buz Adası, coğrafi olarak Marmara Bölgesi'nde yer alan bir plajdır. Bu bölge, deniz ve kumsalın birleştiği noktada, ziyaretçilerine eşsiz bir manzara sunar. Zeytinburnu Buz Adası, yaklaşık olarak 140 hektarlık bir alanı kaplar ve bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu doğal alan, deniz ve kumsalın yanı sıra, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Zeytinburnu Buz Adası, coğrafi konumu itibariyle, hem yerel halk hem de şehri ziyaret edenler için bir kaçış noktası olarak hizmet vermektedir.
+Zeytinburnu Buz Adası, coğrafi olarak Marmara Bölgesi'nde yer alan bir plajdır. Bu bölge, deniz ve kumsalın birleştiği noktada, ziyaretçilerine eşsiz bir manzara sunar. Bu doğal alan, deniz ve kumsalın yanı sıra, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Zeytinburnu Buz Adası, coğrafi konumu itibariyle, hem yerel halk hem de şehri ziyaret edenler için bir kaçış noktası olarak hizmet vermektedir.
 
 ## Flora ve Fauna
 

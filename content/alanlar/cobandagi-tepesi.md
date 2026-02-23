@@ -28,7 +28,7 @@ wikidata_id: "Q34829480"
 
 # Çobandağı Tepesi
 
-Çobandağı Tepesi, Muğla'nın güzel illerinden birinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Çobandağı Tepesi, ziyaretçilerini doğal güzelliği ve zengin flora ve fauna çeşitliliği ile çekiyor. Bu tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunuyor. Ayrıca, bu bölge, yürüyüş ve doğa yürüyüşü için ideal bir yer.
+Çobandağı Tepesi, Muğla'nın güzel illerinden birinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Çobandağı Tepesi, ziyaretçilerini doğal güzelliği ve zengin flora ve fauna çeşitliliği ile çekiyor. Bu tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunuyor. Ayrıca, bu bölge, yürüyüş ve doğa yürüyüşü için ideal bir yer.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390672"
 
 # Memici Tepesi
 
-Memici Tepesi, Amasya'nın görkemli manzarasına ev sahipliği yapan bir yerdir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini Karadeniz Bölgesi'nin eşsiz güzelliği ile karşılar. Tepenin yamacında bulunan köyler, geleneksel mimariyle bezenmiş ve bölgeye özgü bir atmosfer sunar. Memici Tepesi, hem yerel halk hem de ziyaretçiler için bir çekim merkezi olarak kabul edilir.
+Memici Tepesi, Amasya'nın görkemli manzarasına ev sahipliği yapan bir yerdir. Tepenin yamacında bulunan köyler, geleneksel mimariyle bezenmiş ve bölgeye özgü bir atmosfer sunar. Memici Tepesi, hem yerel halk hem de ziyaretçiler için bir çekim merkezi olarak kabul edilir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Fatih Camii Yangın Havuzu"
 date: "2026-01-09T09:51:07.088Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "gol"
 il: "İstanbul"
@@ -41,7 +41,7 @@ Fatih ilçesinin tarihi dokusu içerisinde yer alan Fatih Camii Yangın Havuzu, 
 
 Coğrafi olarak, Fatih Camii Yangın Havuzu, İstanbul'un kalbinde, 41.0202°K ve 28.9495°D koordinatlarında yer alıyor. Bu konum, tarihi yarımadanın merkezi bölgesinde, şehrin ana ulaşım arterlerinin yakınında bulunuyor. Havuz, yaklaşık olarak bir şehir bloğu büyüklüğünde bir alanı kaplıyor, bu da onu şehir içindeki diğer tarihi ve turistik noktalarla karşılaştırıldığında nispeten küçük bir alan olarak ortaya koyuyor.
 
-Jeoloji ve fiziksel açıdan bakıldığında, havuzun etrafı tarihi yapılarla çevrilidir. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, Fatih Camii Yangın Havuzu'nun İstanbul'un histórik dokusuna uyum içerisinde tasarlandığı söylenebilir. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir bölgeyi kaplar, ancak İstanbul'un genel coğrafyası içerisinde küçük bir bölümü temsil eder. Havuzun boyutları, şehrin diğer tarihi ve doğal alanlarıyla karşılaştırıldığında, bir odağın etrafındaki diğer tarihi yapıların uyumuna dikkat çekiyor.
+Jeoloji ve fiziksel açıdan bakıldığında, havuzun etrafı tarihi yapılarla çevrilidir. Ancak, detaylı fiziksel veriler bulunmamasına rağmen, Fatih Camii Yangın Havuzu'nun İstanbul'un tarihi dokusuna uyum içerisinde tasarlandığı söylenebilir. Bu alan, Taksim Meydanı'nın birkaç katı büyüklüğünde bir bölgeyi kaplar, ancak İstanbul'un genel coğrafyası içerisinde küçük bir bölümü temsil eder. Havuzun boyutları, şehrin diğer tarihi ve doğal alanlarıyla karşılaştırıldığında, bir odağın etrafındaki diğer tarihi yapıların uyumuna dikkat çekiyor.
 
 İklimsel olarak, Fatih Camii Yangın Havuzu, İstanbul'un genel iklim karakterini paylaşır. Bu, ılıman bir iklim anlamına gelir, yazlar sıcak ve nemli, kışlar ise soğuk ve yağışlı geçer. Mevsimsel değişiklikler, havuzun ve çevresinin güzelliğini etkiler, ilkbahar ve sonbahar ayları ise en çok ziyaret edilen zamanlardır. Bu mevsimlerde, sıcaklık genellikle 15-25°C arasında değişir, bu da ziyaretçilerin keyifle gezebilmeleri için ideal bir aralıktır.
 

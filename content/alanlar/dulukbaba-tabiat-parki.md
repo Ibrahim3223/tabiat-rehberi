@@ -24,7 +24,7 @@ wikidata_id: "Q108228200"
 
 # Dülükbaba Tabiat Parkı
 
-Dülükbaba Tabiat Parkı, Güneydoğu Anadolu Bölgesi'nde, Şehitkâmil/Gaziantep'te yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Park, ziyaretçilerine doğayla iç içe olabilecekleri bir ortam sağlıyor ve bölgenin doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor.
+Dülükbaba Tabiat Parkı, Güneydoğu Anadolu Bölgesi'nde, Şehitkâmil/Gaziantep'te yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Park, ziyaretçilerine doğayla iç içe olabilecekleri bir ortam sağlıyor ve bölgenin doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor.
 
 ## Tarihçe
 

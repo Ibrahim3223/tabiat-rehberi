@@ -22,7 +22,7 @@ wikidata_id: "Q108228670"
 
 # TURHAL ŞEHİR ORMANI
 
-Turhal Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan yaklaşık 140 hektarlık bir yeşil cennettir. Bu muhteşem orman, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın kucağına davet ediyor. Turhal Şehir Ormanı, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliğinde. Ormanın içinde yürüyüş yolları, piknik alanları ve çocuk oyun parkları gibi çeşitli olanaklar mevcut. Turhal Şehir Ormanı, hem doğa severler hem de aileler için keyifli bir gün geçirmek isteyenler için ideal bir destinasyon.
+Turhal Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan yaklaşık 140 hektarlık bir yeşil cennettir. Turhal Şehir Ormanı, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliğinde. Ormanın içinde yürüyüş yolları, piknik alanları ve çocuk oyun parkları gibi çeşitli olanaklar mevcut. Turhal Şehir Ormanı, hem doğa severler hem de aileler için keyifli bir gün geçirmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

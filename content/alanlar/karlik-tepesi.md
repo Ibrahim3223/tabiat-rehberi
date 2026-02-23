@@ -29,7 +29,7 @@ wikidata_id: "Q31390093"
 
 # Karlık Tepesi
 
-Kırıkkale'nin görkemli doğal alanı, Karlık Tepesi, ziyaretçilerini büyülüyor. İç Anadolu Bölgesi'nin en önemli çekim merkezlerinden biri olan bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş ve yeşil alan, doğa severlerin keyifli saatler geçirmesine olanak sağlıyor. Karlık Tepesi, Kırıkkale'nin merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay.
+Kırıkkale'nin görkemli doğal alanı, Karlık Tepesi, ziyaretçilerini büyülüyor. Bu geniş ve yeşil alan, doğa severlerin keyifli saatler geçirmesine olanak sağlıyor. Karlık Tepesi, Kırıkkale'nin merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 

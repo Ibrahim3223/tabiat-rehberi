@@ -32,8 +32,8 @@ Yozgat'ın dağlık bölgelerinde, ziyaretçilerini doğanın kucağına davet e
 
 ## Tarihçe
 
-Yozgat bölgesinin tarihi, binlerce yıl öncesine kadar uzanır. Bu bölge, çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği önemli bir merkezdi. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan Yozgat, tarihin zenginliklerini korur. 
-Sırıklı Dağ gibi doğal alanlar, Türkiye'nin coğrafi çeşitliliğine katkıda bulunur. Bu tür alanlar, ülkenin ekolojik dengesini korur ve biyolojik çeşitliliğin korunmasına yardımcı olur. Ayrıca, yaylacılık ve hayvancılık faaliyetleri için elverişli olan bu bölge, insanların doğayla iç içe yaşamasına olanak tanır. 
+Yozgat bölgesinin tarihi, binlerce yıl öncesine kadar uzanır. Bu bölge, çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği önemli bir merkezdi. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan Yozgat, tarihin zenginliklerini korur.
+Sırıklı Dağ gibi doğal alanlar, Türkiye'nin coğrafi çeşitliliğine katkıda bulunur. Bu tür alanlar, ülkenin ekolojik dengesini korur ve biyolojik çeşitliliğin korunmasına yardımcı olur. Ayrıca, yaylacılık ve hayvancılık faaliyetleri için elverişli olan bu bölge, insanların doğayla iç içe yaşamasına olanak tanır.
 Tarih boyunca, insanların bu doğal alanlarla ilişkisi ticaret, hayvancılık ve tarım faaliyetleri üzerinden kurulmuştur. Bu bölge, insanların yaşamını sürdürmesine olanak tanıyan bir kaynak olarak görülmüştür. Sırıklı Dağ ve benzeri doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır.
 
 ## Coğrafya

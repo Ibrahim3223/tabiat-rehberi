@@ -28,7 +28,7 @@ wikidata_id: "Q31389801"
 
 # Hodulca Tepesi
 
-Hodulca Tepesi, Karadeniz Bölgesi'nin gizli cenneti olan Bolu'nun yükselen tepelerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte bir alana yayılmıştır. Doğal güzelliği, yaban hayatı ve coğrafi konumuyla dikkat çeken Hodulca Tepesi, ziyaretçilerini büyülemektedir. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu bölgede, doğa yürüyüşleri ve trekking gibi faaliyetler yapılabilmektedir. Ayrıca, Hodulca Tepesi'nin manzarası, Karadeniz Bölgesi'nin diğer güzelliklerini de gözler önüne sermekte ve ziyaretçilere unutulmaz anlar yaşatmaktadır.
+Hodulca Tepesi, Karadeniz Bölgesi'nin gizli cenneti olan Bolu'nun yükselen tepelerinden biridir. Doğal güzelliği, yaban hayatı ve coğrafi konumuyla dikkat çeken Hodulca Tepesi, ziyaretçilerini büyülemektedir. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu bölgede, doğa yürüyüşleri ve trekking gibi faaliyetler yapılabilmektedir. Ayrıca, Hodulca Tepesi'nin manzarası, Karadeniz Bölgesi'nin diğer güzelliklerini de gözler önüne sermekte ve ziyaretçilere unutulmaz anlar yaşatmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hodulca Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bölg
 
 ## Coğrafya
 
-Hodulca Tepesi, Karadeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Tepenin yüksekliği, Karadeniz Bölgesi'nin diğer tepelerine göre dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte bir alana yayılmıştır. Hodulca Tepesi'nin coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin diğer güzelliklerini de gözler önüne sermekte ve bölgenin doğal güzelliğini göstermektedir. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu bölgede, doğa yürüyüşleri ve trekking gibi faaliyetler yapılabilmektedir. Ayrıca, Hodulca Tepesi'nin manzarası, Karadeniz Bölgesi'nin diğer güzelliklerini de gözler önüne sermekte ve ziyaretçilere unutulmaz anlar yaşatmaktadır. Tepenin çevresi, Karadeniz Bölgesi'nin diğer coğrafi özelliklerine de ev sahipliği yapmaktadır. Bu bölgede, dağlar, ormanlar, nehirler ve göller gibi doğal güzellikler bulunmaktadır.
+Hodulca Tepesi, Karadeniz Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Tepenin yüksekliği, Karadeniz Bölgesi'nin diğer tepelerine göre dikkat çekmektedir. Hodulca Tepesi'nin coğrafi konumu, ziyaretçilere Karadeniz Bölgesi'nin diğer güzelliklerini de gözler önüne sermekte ve bölgenin doğal güzelliğini göstermektedir. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu bölgede, doğa yürüyüşleri ve trekking gibi faaliyetler yapılabilmektedir. Ayrıca, Hodulca Tepesi'nin manzarası, Karadeniz Bölgesi'nin diğer güzelliklerini de gözler önüne sermekte ve ziyaretçilere unutulmaz anlar yaşatmaktadır. Tepenin çevresi, Karadeniz Bölgesi'nin diğer coğrafi özelliklerine de ev sahipliği yapmaktadır. Bu bölgede, dağlar, ormanlar, nehirler ve göller gibi doğal güzellikler bulunmaktadır.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228993"
 
 # HASSA LAV TÜPÜ MAĞARALARI TA
 
-Hassa Lav Tüpü Mağaraları TA, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet olarak kabul edilir. Mağaraların oluşumu, binlerce yıl önce volkanik faaliyetler sonucu lav tüpü oluşumlarından kaynaklanır. Bu oluşumlar, zamanla çeşitli jeolojik süreçlerle şekillenerek günümüzdeki mağara sistemini oluşturmuşlardır. Mağaraların içinde, birbirinden farklı oluşumlar ve jeolojik yapılar bulunur. Bunlar, hem doğa bilimcilerin hem de gezi severlerin ilgisini çeker.
+Hassa Lav Tüpü Mağaraları TA, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alana sahiptir. Mağaraların oluşumu, binlerce yıl önce volkanik faaliyetler sonucu lav tüpü oluşumlarından kaynaklanır. Bu oluşumlar, zamanla çeşitli jeolojik süreçlerle şekillenerek günümüzdeki mağara sistemini oluşturmuşlardır. Mağaraların içinde, birbirinden farklı oluşumlar ve jeolojik yapılar bulunur. Bunlar, hem doğa bilimcilerin hem de gezi severlerin ilgisini çeker.
 
 ## Tarihçe
 

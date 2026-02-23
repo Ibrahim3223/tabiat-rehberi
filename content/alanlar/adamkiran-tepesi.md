@@ -29,7 +29,7 @@ wikidata_id: "Q31389267"
 
 # Adamkıran Tepesi
 
-Adamkıran Tepesi, İç Anadolu Bölgesi'nin geniş ve verimli ovalarıyla çevrili, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgenin en önemli doğal ve tarihi mekanlarından biri olarak kabul ediliyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Ayrıca, tepeye çıkan yol boyunca, güzel manzaralar ve tarihi kalıntılar görülebiliyor.
+ Bu tepe, bölgenin en önemli doğal ve tarihi mekanlarından biri olarak kabul ediliyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Ayrıca, tepeye çıkan yol boyunca, güzel manzaralar ve tarihi kalıntılar görülebiliyor.
 
 ## Tarihçe
 

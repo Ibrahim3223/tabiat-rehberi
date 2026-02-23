@@ -54,7 +54,7 @@ Mevsimsel değişimler, "Balık Gölü"nde önemli bir etkiye sahiptir. Kış ay
 
 Balık Gölü, Ağrı'nın step bitki örtüsü ve bozkır bölgesinde yer alan bir göldür. Bu bölge, kuraklığa adapte türlerle karakterizedir. İlkbaharın yaklaşmasıyla birlikte, gölün etrafı çeşitli çiçek türleriyle renklendir. Bu mevsimde, sulak alan bitkileri de gölle birlikte canlanır.
 
-Gölün yaban hayatı, su kuşları ve balıklarla zenginleştirilmiştir. Su kuşları, göç ettikleri zamanlarda gölde konaklar ve beslenir. Bu ekosistemin bir parçası olan balıklar, su kuşları için önemli bir besin kaynağıdır. 
+Gölün yaban hayatı, su kuşları ve balıklarla zenginleştirilmiştir. Su kuşları, göç ettikleri zamanlarda gölde konaklar ve beslenir. Bu ekosistemin bir parçası olan balıklar, su kuşları için önemli bir besin kaynağıdır.
 
 Balık Gölü'nün ekolojik değeri, çeşitli canlı türlerinin yaşam alanını oluşturmasıdır. Bu alan, su kuşlarının göç rotalarında önemli bir durak noktasıdır. Gölün koruma durumu, bu ekosistemin sürdürülebilirliğini sağlamak için önemlidir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Külhancı Baba Türbesi"
 date: "2026-01-10T05:31:23.397Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391661"
 
 # Külhancı Baba Türbesi
 
-Erzurum'un Yakutiye ilçesinde yer alan Külhancı Baba Türbesi, hem tarihi hem de doğal güzellikleri ile dikkat çeken özel bir destinasyon. 140 hektarlık bir alan üzerinde bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip. Bu geniş alan, ziyaretçilere hem tarihi bir mekan hem de doğayla iç içe bir ortam sunuyor. Külhancı Baba Türbesi, Erzurum'un önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor ve ziyaretçilerini bekliyor.
+Erzurum'un Yakutiye ilçesinde yer alan Külhancı Baba Türbesi, hem tarihi hem de doğal güzellikleri ile dikkat çeken özel bir destinasyon. Bu geniş alan, ziyaretçilere hem tarihi bir mekan hem de doğayla iç içe bir ortam sunuyor. Külhancı Baba Türbesi, Erzurum'un önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

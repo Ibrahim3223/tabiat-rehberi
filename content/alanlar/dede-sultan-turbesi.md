@@ -1,7 +1,7 @@
 ---
 title: "Dede Sultan Türbesi"
 date: "2026-01-10T05:42:00.080Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391764"
 
 # Dede Sultan Türbesi
 
-Dede Sultan Türbesi, Kastamonu'nun merkezinde yer alan ve tarihî geçmişi ile dikkat çeken önemli bir turizm merkezidir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini şehrin kalabalığından uzaklaştırarak sakin bir atmosfere davet eder. Bu tarihi mekan, hem Kastamonu'nun hem de Karadeniz Bölgesi'nin önemli bir kültürel ve turistik noktası olarak kabul edilir. Dede Sultan Türbesi, şehrin tarihî dokusunu korumak amacıyla restore edilmiş ve günümüzde hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
+Dede Sultan Türbesi, Kastamonu'nun merkezinde yer alan ve tarihî geçmişi ile dikkat çeken önemli bir turizm merkezidir. Bu tarihi mekan, hem Kastamonu'nun hem de Karadeniz Bölgesi'nin önemli bir kültürel ve turistik noktası olarak kabul edilir. Dede Sultan Türbesi, şehrin tarihî dokusunu korumak amacıyla restore edilmiş ve günümüzde hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Dede Sultan Türbesi, Kastamonu şehir merkezinde yer alan ve Karadeniz Bölgesi
 
 ## Flora ve Fauna
 
-Dede Sultan Türbesi'nin bulunduğu bölge, Karadeniz Bölgesi'nin karakteristik flora ve faunasını yansıtan zengin bir doğal ortam sunar. Türbe çevresinde, çeşitli bitki türleri ve ağaçlar bulunur ve bu bölgenin ekolojik dengesini korumak açısından önemli bir rol oynar. Dede Sultan Türbesi'nin flora ve faunası, mevsimsel değişimlere bağlı olarak farklı güzellikler sunar ve ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Bu doğal ortam, Kastamonu'nun tarihî ve kültürel varlıklarının bir araya geldiği özel bir noktada bulunur ve ziyaretçilere geniş bir perspektif sunar.
+Dede Sultan Türbesi'nin bulunduğu bölge, Karadeniz Bölgesi'nin karakteristik flora ve faunasını yansıtan zengin bir doğal ortam sunar. Dede Sultan Türbesi'nin flora ve faunası, mevsimsel değişimlere bağlı olarak farklı güzellikler sunar ve ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Bu doğal ortam, Kastamonu'nun tarihî ve kültürel varlıklarının bir araya geldiği özel bir noktada bulunur ve ziyaretçilere geniş bir perspektif sunar.
 
 ## Ziyaret Bilgileri
 

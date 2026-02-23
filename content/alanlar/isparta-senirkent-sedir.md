@@ -22,7 +22,7 @@ wikidata_id: "Q108227609"
 
 # Isparta-Senirkent Sedir
 
-Isparta-Senirkent Sedir, Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal alanı kaplar. Bu muhteşem milli park, Sedir Ormanı'nın güzelliği ve tarihi ile ön plana çıkar. Isparta'nın Senirkent ilçesinde bulunan bu doğal alan, ziyaretçilerine doğanın güzelliğini ve tarihi geçmişi sunar. 70 hektarlık bir bölümü sedir ağaçlarından oluşan bu milli park, ziyaretçilerini doğanın içine çekmeyi başarır.
+ Bu muhteşem milli park, Sedir Ormanı'nın güzelliği ve tarihi ile ön plana çıkar. Isparta'nın Senirkent ilçesinde bulunan bu doğal alan, ziyaretçilerine doğanın güzelliğini ve tarihi geçmişi sunar. 70 hektarlık bir bölümü sedir ağaçlarından oluşan bu milli park, ziyaretçilerini doğanın içine çekmeyi başarır.
 
 ## Tarihçe
 

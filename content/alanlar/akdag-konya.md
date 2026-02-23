@@ -33,9 +33,9 @@ Konya'nın geniş steplerinin arasında yükselen Akdağ, şehrin doğal güzell
 
 ## Tarihçe
 
-Konya bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölge, farklı uygarlıkların izlerini taşımaktadır. Hitit, Roma ve Selçuklu gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuştur. 
+Konya bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölge, farklı uygarlıkların izlerini taşımaktadır. Hitit, Roma ve Selçuklu gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuştur.
 
-Akdağ gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Bu tür alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmelerine olanak tanıyan ekosistemleri barındırmıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu doğal alanların etrafında şekillenmiştir. 
+Akdağ gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Bu tür alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmelerine olanak tanıyan ekosistemleri barındırmıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu doğal alanların etrafında şekillenmiştir.
 
 İnsanların bu doğal alanlarla olan ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve ruhsal boyutları da içerir. Bu alanlar, insanların doğayla bağlarını güçlendirmelerine ve kültürel kimliklerini şekillendirmelerine yardımcı olmuştur. Konya bölgesinin tarihsel zenginliği, bu doğal alanların önemini daha da vurgulamaktadır. Bu bölge, Türkiye'nin tarihi ve kültürel mirasının önemli bir parçası olarak görülmelidir.
 
@@ -51,9 +51,9 @@ Doğal bir anıttan ziyade, bir coğrafi oluşum olarak Akdağ, Konya'nın jeolo
 
 ## Flora ve Fauna
 
-Akdağ, Konya'nın step bitki örtüsüne ve bozkır ekosistemine ev sahipliği yapan bir dağdır. 1200 hektarlık bu dağ, yükseklik zonlarına göre değişen bir flora ve fauna çeşitliliğine sahiptir. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanır, bozkırın kuraklığına adapte olmuş türler ise yaz aylarında yeşerir. 
+Akdağ, Konya'nın step bitki örtüsüne ve bozkır ekosistemine ev sahipliği yapan bir dağdır. 1200 hektarlık bu dağ, yükseklik zonlarına göre değişen bir flora ve fauna çeşitliliğine sahiptir. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle kaplanır, bozkırın kuraklığına adapte olmuş türler ise yaz aylarında yeşerir.
 
-Dağlık alanlarda, alpin flora türleri bulunur. Bu türler, yüksek rakımlara ve sert iklim koşullarına adapte olmuştur. Dağların yüksek kesimlerinde, yaban keçileri ve dağ keçileriyle karşılaşma mümkün. Bu memeliler, dağlık alanların dik yamaçlarına ve kayalık bölgelerine uyum sağlamışlardır. Ayrıca, göçmen kuşlar da bahar ve sonbahar aylarında bu alanı ziyaret eder. 
+Dağlık alanlarda, alpin flora türleri bulunur. Bu türler, yüksek rakımlara ve sert iklim koşullarına adapte olmuştur. Dağların yüksek kesimlerinde, yaban keçileri ve dağ keçileriyle karşılaşma mümkün. Bu memeliler, dağlık alanların dik yamaçlarına ve kayalık bölgelerine uyum sağlamışlardır. Ayrıca, göçmen kuşlar da bahar ve sonbahar aylarında bu alanı ziyaret eder.
 
 Akdağ, ekolojik açıdan önemli bir alandır. Dağ ekosistemi, yerel fauna ve florayı destekler ve su döngüsünü düzenler. Bu nedenle, koruma altına alınması ve doğal dengesinin korunması önemlidir.
 

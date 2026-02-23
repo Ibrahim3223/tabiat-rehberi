@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Mehi Efendi Türbesi"
 date: "2026-01-10T05:26:21.666Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391715"
 
 # Mustafa Mehi Efendi Türbesi
 
-Mustafa Mehi Efendi Türbesi, Erzurum'un Yakutiye ilçesinde bulunan tarihi bir yapıdır. Yakutiye'nin merkezi konumunda yer alan bu türbe, yaklaşık 140 hektarlık bir alanda bulunmaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yer kaplar. Bu tarihi türbe, ziyaretçiler için önemli bir kültürel ve tarihi merkez olarak hizmet vermektedir. Mustafa Mehi Efendi Türbesi, Erzurum'un zengin tarihi ve kültürel mirasının önemli bir parçasıdır.
+Mustafa Mehi Efendi Türbesi, Erzurum'un Yakutiye ilçesinde bulunan tarihi bir yapıdır. Yakutiye'nin merkezi konumunda yer alan bu türbe, yaklaşık 140 hektarlık bir alanda bulunmaktadır. Bu tarihi türbe, ziyaretçiler için önemli bir kültürel ve tarihi merkez olarak hizmet vermektedir. Mustafa Mehi Efendi Türbesi, Erzurum'un zengin tarihi ve kültürel mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mustafa Mehi Efendi Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu türb
 
 ## Coğrafya
 
-Mustafa Mehi Efendi Türbesi, Erzurum'un Yakutiye ilçesinde bulunmaktadır. Yakutiye, Erzurum'un merkezi bir ilçesidir ve bu türbe, ilçenin en önemli tarihi yapılarından biridir. Türbe, yaklaşık 140 hektarlık bir alanda yer almaktadır ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yer kaplar. Mustafa Mehi Efendi Türbesi, Erzurum'un coğrafi özelliklerine uygun olarak inşa edilmiştir. Türbenin çevresi, yeşilliklerle kaplıdır ve ziyaretçiler için güzel bir manzara sunmaktadır. Erzurum'un iklimi, karasal iklim özelliklerine sahiptir ve bu türbe, bu iklim koşullarına uygun olarak inşa edilmiştir. Mustafa Mehi Efendi Türbesi, ziyaretçiler için önemli bir kültürel ve tarihi merkez olarak hizmet vermektedir.
+Mustafa Mehi Efendi Türbesi, Erzurum'un Yakutiye ilçesinde bulunmaktadır. Yakutiye, Erzurum'un merkezi bir ilçesidir ve bu türbe, ilçenin en önemli tarihi yapılarından biridir. Mustafa Mehi Efendi Türbesi, Erzurum'un coğrafi özelliklerine uygun olarak inşa edilmiştir. Türbenin çevresi, yeşilliklerle kaplıdır ve ziyaretçiler için güzel bir manzara sunmaktadır. Erzurum'un iklimi, karasal iklim özelliklerine sahiptir ve bu türbe, bu iklim koşullarına uygun olarak inşa edilmiştir. Mustafa Mehi Efendi Türbesi, ziyaretçiler için önemli bir kültürel ve tarihi merkez olarak hizmet vermektedir.
 
 ## Flora ve Fauna
 

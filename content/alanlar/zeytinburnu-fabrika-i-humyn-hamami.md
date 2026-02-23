@@ -1,7 +1,7 @@
 ---
 title: "Zeytinburnu Fabrika-i Hümâyûn Hamamı"
 date: "2026-01-09T23:25:14.876Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739066"
 
 # Zeytinburnu Fabrika-i Hümâyûn Hamamı
 
-Zeytinburnu Fabrika-i Hümâyûn Hamamı, İstanbul'un Zeytinburnu ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı içerir. Zeytinburnu'nun merkezi bir konumunda bulunan bu alan, hem yerel halk hem de turistler için önemli bir çekim merkezidir. Alanda çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Zeytinburnu Fabrika-i Hümâyûn Hamamı, İstanbul'un Zeytinburnu ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir alandır. Zeytinburnu'nun merkezi bir konumunda bulunan bu alan, hem yerel halk hem de turistler için önemli bir çekim merkezidir. Alanda çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 

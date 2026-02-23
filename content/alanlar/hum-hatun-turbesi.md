@@ -1,7 +1,7 @@
 ---
 title: "Hümâ Hatun Türbesi"
 date: "2026-01-10T07:34:58.236Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -38,7 +38,7 @@ Hümâ Hatun Türbesi, tarihin derinliklerinden gelen bir geçmişe sahiptir. Ta
 
 ## Coğrafya
 
-Hümâ Hatun Türbesi, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin coğrafi güzelliğinin içinde yer almaktadır. Bu bölgenin coğrafyası, genellikle yeşilin farklı tonlarına sahip ormanlar ve geniş açık alanlardan oluşmaktadır. Türbenin bulunduğu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık mekan sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin tipik iklimi olarak karakterize edilir; yani ılıman ve nemlidir. Bu coğrafi konum ve iklim, Hümâ Hatun Türbesi'nin etrafındaki doğayı zenginleştirmekte ve ziyaretçilere çeşitli mevsimlerde farklı güzellikler sunmaktadır. Çevresindeki ormanlar ve açık alanlar, flora ve fauna açısından zengin bir çeşitlilik sunar ve bu nedenle doğa severler için ideal bir destinasyondur.
+Hümâ Hatun Türbesi, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin coğrafi güzelliğinin içinde yer almaktadır. Bu bölgenin coğrafyası, genellikle yeşilin farklı tonlarına sahip ormanlar ve geniş açık alanlardan oluşmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin tipik iklimi olarak karakterize edilir; yani ılıman ve nemlidir. Bu coğrafi konum ve iklim, Hümâ Hatun Türbesi'nin etrafındaki doğayı zenginleştirmekte ve ziyaretçilere çeşitli mevsimlerde farklı güzellikler sunmaktadır. Çevresindeki ormanlar ve açık alanlar, flora ve fauna açısından zengin bir çeşitlilik sunar ve bu nedenle doğa severler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 

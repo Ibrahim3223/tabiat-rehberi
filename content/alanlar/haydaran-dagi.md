@@ -51,11 +51,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından Haydaran Dağ
 
 ## Flora ve Fauna
 
-Haydaran Dağı, step bitki örtüsüne ve bozkır ekosistemine ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Haydaran Dağı, step bitki örtüsüne ve bozkır ekosistemine ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında renkli çiçekler açmaya başlıyor. Bu mevsimsel değişim, dağ ekosisteminin canlılığını gözler önüne seriyor. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler hüküm sürüyor. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında renkli çiçekler açmaya başlıyor. Bu mevsimsel değişim, dağ ekosisteminin canlılığını gözler önüne seriyor. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler hüküm sürüyor.
 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler gibi çeşitli canlılar Haydaran Dağı'nda yaşamını sürdürüyor. Bu dağ ekosisteminde, yükseklik zonları ve alpin flora, dağ hayvanlarının yaşam alanlarını oluşturuyor. Sonbaharın gelmesiyle birlikte, göç eden kuşlar bu dağları ziyaret ediyor. 
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler gibi çeşitli canlılar Haydaran Dağı'nda yaşamını sürdürüyor. Bu dağ ekosisteminde, yükseklik zonları ve alpin flora, dağ hayvanlarının yaşam alanlarını oluşturuyor. Sonbaharın gelmesiyle birlikte, göç eden kuşlar bu dağları ziyaret ediyor.
 
 Ekolojik Değer bölümünde, Haydaran Dağı'nın neden önemli olduğu ve koruma durumu ele alınıyor. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesinin korunması için büyük önem taşıyor.
 

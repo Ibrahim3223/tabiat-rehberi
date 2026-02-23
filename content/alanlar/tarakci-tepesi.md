@@ -28,7 +28,7 @@ wikidata_id: "Q34811566"
 
 # Tarakçı Tepesi
 
-Tarakçı Tepesi, Karabük'ün doğal güzelliklerinin önemli bir parçasını oluşturuyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak karşımıza çıkıyor. Tarakçı Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi olarak dikkat çekiyor. Bu tepenin etrafında yer alan diğer doğal güzellikler ve tarihi yapılar, ziyaretçilere geniş bir gezi alanı sunuyor. Tarakçı Tepesi'ni ziyaret ettiğinizde, Karadeniz Bölgesi'nin doğal güzelliğini ve tarihi zenginliğini yakından keşfetme fırsatını bulacaksınız.
+Tarakçı Tepesi, Karabük'ün doğal güzelliklerinin önemli bir parçasını oluşturuyor. Tarakçı Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi olarak dikkat çekiyor. Bu tepenin etrafında yer alan diğer doğal güzellikler ve tarihi yapılar, ziyaretçilere geniş bir gezi alanı sunuyor. Tarakçı Tepesi'ni ziyaret ettiğinizde, Karadeniz Bölgesi'nin doğal güzelliğini ve tarihi zenginliğini yakından keşfetme fırsatını bulacaksınız.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31558627"
 
 # Umuşer Tepesi
 
-Umuşer Tepesi, Ankara'nın kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan, İç Anadolu Bölgesi'nin doğal güzelliklerinden biridir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Umuşer Tepesi, ziyaretçilerine doğanın güzelliğini ve şehrin manzarasını bir arada sunar. Bu bölge, hem doğa severler hem de şehri keşfetmek isteyenler için harika bir destinasyon.
+Umuşer Tepesi, Ankara'nın kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan, İç Anadolu Bölgesi'nin doğal güzelliklerinden biridir. Umuşer Tepesi, ziyaretçilerine doğanın güzelliğini ve şehrin manzarasını bir arada sunar. Bu bölge, hem doğa severler hem de şehri keşfetmek isteyenler için harika bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Umuşer Tepesi'nin tarihi geçmişi, yüzyıllar boyunca insanların bu bölgeye
 
 ## Coğrafya
 
-Umuşer Tepesi, Ankara'nın coğrafi yapısının önemli bir parçasıdır. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bölge, genellikle step ve otlak alanlardan oluşur ve yer ağaçlık alanlara sahiptir. Umuşer Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, Ankara'nın şehir merkezine yakın bir konumda yer alır ve ulaşım açısından kolaylık sağlar. Umuşer Tepesi, ziyaretçilerine geniş bir manzara sunar ve Ankara'nın şehir silüetini görmek için ideal bir noktadır. Bu tepe, özellikle gün batımı saatlerinde ziyaret edildiğinde, ziyaretçilerine muhteşem bir doğa manzarası sunar.
+Umuşer Tepesi, Ankara'nın coğrafi yapısının önemli bir parçasıdır. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bölge, genellikle step ve otlak alanlardan oluşur ve yer ağaçlık alanlara sahiptir. Bu bölge, Ankara'nın şehir merkezine yakın bir konumda yer alır ve ulaşım açısından kolaylık sağlar. Umuşer Tepesi, ziyaretçilerine geniş bir manzara sunar ve Ankara'nın şehir silüetini görmek için ideal bir noktadır. Bu tepe, özellikle gün batımı saatlerinde ziyaret edildiğinde, ziyaretçilerine muhteşem bir doğa manzarası sunar.
 
 ## Flora ve Fauna
 

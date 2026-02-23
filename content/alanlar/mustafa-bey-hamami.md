@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Bey Hamamı"
 date: "2026-01-09T22:21:19.337Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738481"
 
 # Mustafa Bey Hamamı
 
-Mustafa Bey Hamamı, Amasya'nın tarihi ve doğal güzelliklerinin birleştiği özel bir noktadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Amasya'nın merkezinde yer alan bu plaj, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Mustafa Bey Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Mustafa Bey Hamamı, Amasya'nın tarihi ve doğal güzelliklerinin birleştiği özel bir noktadır. Amasya'nın merkezinde yer alan bu plaj, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Mustafa Bey Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

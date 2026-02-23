@@ -32,7 +32,7 @@ Kahramanmaraş'ın doğal güzellikleriyle çevrili coğrafyasında, Dut Dağı 
 
 ## Tarihçe
 
-Kahramanmaraş, tarihin sâu derinliklerine uzanan bir geçmişe sahip olan bir bölgedir. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, Dut Dağı gibi doğal alanların etrafında şekillenmiş yaşam biçimleriyle dikkat çeker. Türkiye'nin coğrafi çeşitliliği, tarihsel süreçte insanların yaşama ve üretim şekillerini belirlemiştir. 
+Kahramanmaraş, tarihin derin derinliklerine uzanan bir geçmişe sahip olan bir bölgedir. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, Dut Dağı gibi doğal alanların etrafında şekillenmiş yaşam biçimleriyle dikkat çeker. Türkiye'nin coğrafi çeşitliliği, tarihsel süreçte insanların yaşama ve üretim şekillerini belirlemiştir.
 
 Dut Dağı da, bu bağlamda önemli bir role sahip olan yaylacılık ve hayvancılık faaliyetlerinin yürütüldüğü bir bölge olarak öne çıkıyor. Bölgenin coğrafi yapısı, insanların doğa ile iç içe etmelerine olanak tanır. Ticaret yollarının kesiştiği noktalardan biri olan Kahramanmaraş, tarihi İpek Yolu gibi önemli güzergahların üzerinde yer alır. Bu durum, bölgenin kültürel zenginliğine katkıda bulunmuştur. Dut Dağı, bu tarihsel ve kültürel mirasın bir parçası olarak, ziyaretçilerini bölgeye özgü yaşam biçimleri ve doğal güzelliklerle buluşturur.
 
@@ -50,7 +50,7 @@ Bölgenin su kaynakları, Dut Dağı'nın çevresel ilişkilerini etkileyen öne
 
 Dut Dağı, Akdeniz Bölgesi'nin karakteristik maki bitki örtüsüne ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, 1200 metre yükseklikteki bu dağ, renkli çiçeklerle donanır. Kuraklığa dayanıklı türler, dağın güney yamaçlarında hakimdir. Kıyı ekosisteminini, dağın flora ve faunasında belirgin bir şekilde görülür.
 
-Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Bu bölgede, çeşitli çalı ve otsu bitkiler, dağ hayvanlarının yaşam alanlarını oluşturur. Yaban hayatında, memeliler, kuşlar ve sürüngenler bulunur. Sonbaharda, göç eden kuşlar, dağın gökyüzünü doldurur. 
+Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Bu bölgede, çeşitli çalı ve otsu bitkiler, dağ hayvanlarının yaşam alanlarını oluşturur. Yaban hayatında, memeliler, kuşlar ve sürüngenler bulunur. Sonbaharda, göç eden kuşlar, dağın gökyüzünü doldurur.
 
 Dut Dağı, ekolojik açıdan önemli bir alandır. Bu dağ, bölgenin su kaynaklarını korur ve yerel ekosistemin dengesini sağlar. Ancak, koruma durumu yeterli değildir. İnsan faaliyetleri, bu doğal alanın bütünlüğünü tehdit etmektedir.
 

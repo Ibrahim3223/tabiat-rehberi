@@ -1,7 +1,7 @@
 ---
 title: "Burdur-Golhisar-Dirmil Ardic"
 date: "2026-01-09T19:45:20.604Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Burdur"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227225"
 
 # Burdur-Golhisar-Dirmil Ardic
 
-Burdur-Golhisar-Dirmil Ardic milli parkı, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle zengin bir ekosisteme sahiptir. Bu milli park, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekleyen bu milli park, Burdur'un önemli turizm merkezlerinden biridir.
+Burdur-Golhisar-Dirmil Ardic milli parkı, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu milli park, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekleyen bu milli park, Burdur'un önemli turizm merkezlerinden biridir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Burdur-Golhisar-Dirmil Ardic milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Burdur-Golhisar-Dirmil Ardic milli parkı, Akdeniz Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bu bölgenin coğrafyası, dağlar, ovalar ve göller ile karakterizedir. Milli parkın konumu, çeşitli bitki türlerinin yetişmesine uygun iklim koşullarına sahiptir. Bu bölgenin iklimi, genellikle ılıman ve yağışlıdır. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli doğa güzellikleri sunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle zengin bir ekosisteme sahiptir. Bu milli park, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
+Burdur-Golhisar-Dirmil Ardic milli parkı, Akdeniz Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bu bölgenin coğrafyası, dağlar, ovalar ve göller ile karakterizedir. Milli parkın konumu, çeşitli bitki türlerinin yetişmesine uygun iklim koşullarına sahiptir. Bu bölgenin iklimi, genellikle ılıman ve yağışlıdır. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli doğa güzellikleri sunmaktadır. Bu milli park, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 
 ## Flora ve Fauna
 

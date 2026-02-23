@@ -37,7 +37,7 @@ Beydağları Sahil Millî Parkı, tarihi ve doğal güzellikleri bir arada sunar
 
 ## Coğrafya
 
-Beydağları Sahil Millî Parkı, Akdeniz Bölgesi'nin güneyinde, Toros Dağları'nın batı ucunda yer alır. Parkın yüksekliği, deniz seviyesinden 2.570 metreye kadar ulaşır. 31 bin hektarlık alanı, ormanlar, dağlar ve sahilleri içerir. Parkın uzunluğu 30 kilometreyi, genişliği ise 10 kilometreyi bulur. Bu geniş alan, yaklaşık 150 futbol sahası büyüklüğüne eşittir.
+Beydağları Sahil Millî Parkı, Akdeniz Bölgesi'nin güneyinde, Toros Dağları'nın batı ucunda yer alır. Parkın yüksekliği, deniz seviyesinden 2.570 metreye kadar ulaşır. 31 bin hektarlık alanı, ormanlar, dağlar ve sahilleri içerir. Parkın uzunluğu 30 kilometreyi, genişliği ise 10 kilometreyi bulur.
 
 ## Flora ve Fauna
 

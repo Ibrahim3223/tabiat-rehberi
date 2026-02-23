@@ -22,7 +22,7 @@ wikidata_id: "Q108228094"
 
 # Kütahya Bilecik Muratdere-Uludaggoknari
 
-Kütahya Bilecik Muratdere-Uludaggoknari, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerini sunan bir milli park. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna ile dikkat çekiyor. Bu alan, yüzyıllar boyunca insanların yaşadığı ve doğal kaynaklarını kullandığı bir bölge. Muratdere ve Uludaggoknari'nin birleştiği nokta, doğa severler için bulunmaz bir hazine. Burada, doğanın güzelliğini keşfedebilir, yerel ekosistemi inceleyebilir ve tarihi geçmişi hakkında bilgi edinebilirsiniz.
+Kütahya Bilecik Muratdere-Uludaggoknari, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerini sunan bir milli park. Bu alan, yüzyıllar boyunca insanların yaşadığı ve doğal kaynaklarını kullandığı bir bölge. Muratdere ve Uludaggoknari'nin birleştiği nokta, doğa severler için bulunmaz bir hazine. Burada, doğanın güzelliğini keşfedebilir, yerel ekosistemi inceleyebilir ve tarihi geçmişi hakkında bilgi edinebilirsiniz.
 
 ## Tarihçe
 

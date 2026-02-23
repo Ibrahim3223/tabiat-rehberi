@@ -1,7 +1,7 @@
 ---
 title: "Kral Kızı Hamamı"
 date: "2026-01-09T22:11:18.726Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Yozgat"
@@ -30,7 +30,7 @@ wikidata_id: "Q54811523"
 
 # Kral Kızı Hamamı
 
-Kral Kızı Hamamı, Yozgat ilinin merkezinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunar. Bu bölge, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekmektedir. Kral Kızı Hamamı, Yozgat'ın önemli turizm noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi çekmektedir. Bu mekan, hem yerli hem de yabancı turistler tarafından ilgi görüyor.
+Kral Kızı Hamamı, Yozgat ilinin merkezinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekmektedir. Kral Kızı Hamamı, Yozgat'ın önemli turizm noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi çekmektedir.
 
 ## Tarihçe
 

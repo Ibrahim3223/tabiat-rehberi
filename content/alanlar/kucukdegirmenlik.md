@@ -34,9 +34,9 @@ Commune of Milos/Değirmenlik belediyesi sınırları içerisinde yer alan Küç
 
 ## Tarihçe
 
-Değirmenlik belediyesi ve çevresindeki doğal güzellikler, tarih boyunca çeşitli uygarlıkların izlerini taşıyan bir bölge olarak öne çıkıyor. Bu bölgenin tarihi, Türkiye'nin genel tarihsel bağlamı içinde değerlendirildiğinde, antik dönemden başlayarak Roma, Bizans ve Osmanlı uygarlıklarının etkisi altında kaldığı görülüyor. 
+Değirmenlik belediyesi ve çevresindeki doğal güzellikler, tarih boyunca çeşitli uygarlıkların izlerini taşıyan bir bölge olarak öne çıkıyor. Bu bölgenin tarihi, Türkiye'nin genel tarihsel bağlamı içinde değerlendirildiğinde, antik dönemden başlayarak Roma, Bizans ve Osmanlı uygarlıklarının etkisi altında kaldığı görülüyor.
 
-İnsanların bu doğal alanlarla ilişkisi, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle şekillenmiştir. Türkiye'de bu tür doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri ve ekonomik faaliyetlerini gerçekleştirmeleri için önemli bir kaynak teşkil etmiştir. Değirmenlik belediyesi bölgesinde de benzer bir şekilde, insanların bölgenin doğal kaynaklarına bağlı olarak hayatlarını sürdürdükleri ve çeşitli ekonomik faaliyetlerde bulundukları söylenebilir. 
+İnsanların bu doğal alanlarla ilişkisi, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle şekillenmiştir. Türkiye'de bu tür doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri ve ekonomik faaliyetlerini gerçekleştirmeleri için önemli bir kaynak teşkil etmiştir. Değirmenlik belediyesi bölgesinde de benzer bir şekilde, insanların bölgenin doğal kaynaklarına bağlı olarak hayatlarını sürdürdükleri ve çeşitli ekonomik faaliyetlerde bulundukları söylenebilir.
 
 Bu bölgenin tarihsel önemi, sadece yerel değil, aynı zamanda ulusal düzeyde de dikkate değerdir. Türkiye'nin coğrafi çeşitliliği ve doğal güzellikleri, tarihi boyunca çeşitli uygarlıkların yerleşimlerine ve ticaret yollarına ev sahipliği yapmıştır. Değirmenlik belediyesi ve çevresindeki doğal alanlar da, bu geniş tarihsel bağlam içinde önemli bir yer tutar.
 

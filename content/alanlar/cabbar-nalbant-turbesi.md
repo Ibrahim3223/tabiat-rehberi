@@ -1,7 +1,7 @@
 ---
 title: "Cabbar Nalbant Türbesi"
 date: "2026-01-10T05:09:25.136Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391593"
 
 # Cabbar Nalbant Türbesi
 
-Düzce'nin merkezinde yer alan Cabbar Nalbant Türbesi, şehrin önemli tarihi ve kültürel mekanlarından biridir. 140 hektarlık bir alan üzerine kurulan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin etrafında bulunan yeşillik alanlar, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunar. Cabbar Nalbant Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunması nedeniyle, Düzce'nin en önemli turistik mekanlarından biri olarak kabul edilir. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerinin característicasını taşır ve ziyaretçilere bu dönemlerin kültürel zenginliğini yansıtması açısından önemlidir.
+Düzce'nin merkezinde yer alan Cabbar Nalbant Türbesi, şehrin önemli tarihi ve kültürel mekanlarından biridir. Türbenin etrafında bulunan yeşillik alanlar, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunar. Cabbar Nalbant Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunması nedeniyle, Düzce'nin en önemli turistik mekanlarından biri olarak kabul edilir. Türbenin mimarisi, Selçuklu ve Osmanlı dönemlerinin característicasını taşır ve ziyaretçilere bu dönemlerin kültürel zenginliğini yansıtması açısından önemlidir.
 
 ## Tarihçe
 

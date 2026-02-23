@@ -50,8 +50,8 @@ Doğal güzelliği ve jeolojik yapısıyla dikkat çeken "Olukdağı Tepe", geni
 
 Olukdağı Tepe, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor ve doğa severler için bir cennet gibi görünüyor.
 
-Bitki Örtüsü: Ilkbahar döneminde, Olukdağı Tepe'nin yükseklik zonlarında çeşitli çiçekler açar. Step bitki örtüsü ve bozkır türleri, kuraklığa adapte olmuş türlerle birlikte mevsimsel değişimlere uyum sağlar. 
-Yaban Hayatı: Dağ ekosisteminde, memeliler, kuşlar ve sürüngenler yaşamaktadır. Kış aylarında, bazı kuş türleri göç ederken, diğerleri burada kalır. 
+Bitki Örtüsü: Ilkbahar döneminde, Olukdağı Tepe'nin yükseklik zonlarında çeşitli çiçekler açar. Step bitki örtüsü ve bozkır türleri, kuraklığa adapte olmuş türlerle birlikte mevsimsel değişimlere uyum sağlar.
+Yaban Hayatı: Dağ ekosisteminde, memeliler, kuşlar ve sürüngenler yaşamaktadır. Kış aylarında, bazı kuş türleri göç ederken, diğerleri burada kalır.
 Ekolojik Değer: Olukdağı Tepe, doğal yaşam alanlarını koruma altına almak için önemli bir bölgedir. Bu dağ, farklı türlerin yaşam alanı olarak hizmet eder ve ekosistemin dengesini sağlar.
 
 ## Ziyaret Bilgileri
@@ -62,7 +62,7 @@ Olukdağı Tepe, Konya'da doğa severlerin keşfetmeye değer bir destinasyon. S
 
 - Konya ilinin güneydoğusunda yer alan Olukdağı Tepe, il merkezine yaklaşık 30 kilometre uzaklıktadır.
 - Bölge, volkanik kökenli arazilerle kaplıdır ve jeolojik açıdan önemli bir oluşumdur.
-- Olukdağı Tepe'nin çevresinde, histórik dönemlere ait çeşitli arkeolojik kalıntılar bulunmuştur.
+- Olukdağı Tepe'nin çevresinde, tarihi dönemlere ait çeşitli arkeolojik kalıntılar bulunmuştur.
 - Bu tepe, Konya Ovası'na hakim bir konumda olup, çevresindeki yerleşim yerlerine panoramik bir görünüm sunar.
 - Olukdağı Tepe ve çevresi, flora ve fauna çeşitliliği açısından zengindir ve bölgede birçok endemik tür bulunur.
 - Bölgenin coğrafi özellikleri, özellikle trekking ve doğa yürüyüşü gibi outdoor aktiviteleri için elverişlidir.

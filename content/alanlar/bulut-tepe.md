@@ -38,7 +38,7 @@ Doğal güzellikleri ve stratejik konumuyla, Mardin ve çevresindeki dağlar, ta
 
 ## Coğrafya
 
-Mardin'in coğrafi güzelliği, Bulut Tepe'nin bulunduğu régionda özellikle dikkat çekiyor. Burada, 37.5703°K, 41.0772°D koordinatlarında yer alan Bulut Tepe, Mardin şehir merkezine yaklaşık 20 kilometre uzaklıkta bulunuyor. Etrafındaki dağlar ve vadilerle birlikte, bir şehir bloğu büyüklüğünde bir alanı kaplıyor.
+Mardin'in coğrafi güzelliği, Bulut Tepe'nin bulunduğu bölgede özellikle dikkat çekiyor. Burada, 37.5703°K, 41.0772°D koordinatlarında yer alan Bulut Tepe, Mardin şehir merkezine yaklaşık 20 kilometre uzaklıkta bulunuyor. Etrafındaki dağlar ve vadilerle birlikte, bir şehir bloğu büyüklüğünde bir alanı kaplıyor.
 
 Doğal güzellikleri ve coğrafi çeşitliliğiyle dikkat çeken bu bölge, jeolojik olarak da oldukça ilginç bir yapıya sahip. Bulut Tepe, bölgenin diğer dağları gibi, çoğunlukla kireçtaşı ve şist gibi kayaçlardan oluşuyor. Ancak, detaylı fiziksel veri bulunmamasına rağmen, bölgenin genel coğrafi yapısı, Monaco'nun yarısı kadar bir alanı kaplayan Mardin ilinin coğrafi çeşitliliğini yansıtıyor.
 
@@ -50,7 +50,7 @@ Bulut Tepe'nin çevresinde, çeşitli su kaynakları ve ekosistemler bulunuyor. 
 
 Bulut Tepe, Mardin'in yarı kurak ikliminde, step ve ova ekolojisine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna zenginliği bulunur.
 
-İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle donanır. Yükseklik zonlarına bağlı olarak, farklı bitki türleri ortaya çıkar. Alpin flora, dağların yüksek kesimlerinde yer alır. 
+İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle donanır. Yükseklik zonlarına bağlı olarak, farklı bitki türleri ortaya çıkar. Alpin flora, dağların yüksek kesimlerinde yer alır.
 
 Bu dağ ekosisteminde, çeşitli yaban hayvanları yaşar. Memeliler, dağların kaya oyuklarında ve ormanlık alanlarda bulunur. Kuşlar, göç mevsimlerinde dağları geçiş noktası olarak kullanır. Sürüngenler, dağların güneşli kesimlerinde yaşamını sürdürür.
 

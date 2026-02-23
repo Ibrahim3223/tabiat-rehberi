@@ -51,9 +51,9 @@ Fiziksel olarak, Değirmen Tepe'nin tam boyutları hakkında detaylı bilgi olma
 
 ## Flora ve Fauna
 
-Değirmen Tepe, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki örtüsüne baktığımızda, ilkbahar aylarında çiçekler patlıyor, sonbaharda ise yapraklar sararıp kızarıyor. Yükseklik zonlarına göre değişen alpin flora, dağların karakterini belirliyor. 
-Yaban hayatı ise zengin ve çeşitli. Memeliler ve kuşlar, bu dağların yükseklerinde yaşamını sürdürüyor. Sürüngenler de bu ekosistemin bir parçası. 
+Değirmen Tepe, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki örtüsüne baktığımızda, ilkbahar aylarında çiçekler patlıyor, sonbaharda ise yapraklar sararıp kızarıyor. Yükseklik zonlarına göre değişen alpin flora, dağların karakterini belirliyor.
+Yaban hayatı ise zengin ve çeşitli. Memeliler ve kuşlar, bu dağların yükseklerinde yaşamını sürdürüyor. Sürüngenler de bu ekosistemin bir parçası.
 Ekolojik değer olarak, bu dağların korunması büyük önem taşıyor. Endemik türlerin yaşadığı bu alan, biyolojik çeşitlilik için kritik bir nokta.
 
 ## Ziyaret Bilgileri

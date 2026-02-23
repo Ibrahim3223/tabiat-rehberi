@@ -1,7 +1,7 @@
 ---
 title: "Mukaddem Dede Türbesi"
 date: "2026-01-10T06:01:17.459Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390499"
 
 # Mukaddem Dede Türbesi
 
-Mukaddem Dede Türbesi, Mersin'in Silifke ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir destinasyon. Bu özel alan, ziyaretçilerini både geçmişin izlerini taşıyan bir türbe ile çevreyi sarıp sarmalayan yeşilin dansı arasında bir yolculuğa çıkarıyor. Mukaddem Dede Türbesi, yaklaşık 140 hektarlık bir alanı kaplayarak, ziyaretçilerine geniş bir yeşil alan sunuyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğanın güzelliğini gözler önüne seriyor.
+Mukaddem Dede Türbesi, Mersin'in Silifke ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir destinasyon. Bu özel alan, ziyaretçilerini både geçmişin izlerini taşıyan bir türbe ile çevreyi sarıp sarmalayan yeşilin dansı arasında bir yolculuğa çıkarıyor. Mukaddem Dede Türbesi, yaklaşık 140 hektarlık bir alanı kaplayarak, ziyaretçilerine geniş bir yeşil alan sunuyor.
 
 ## Tarihçe
 

@@ -28,11 +28,11 @@ wikidata_id: "Q31530609"
 
 # Basrıkale Tepesi
 
-Basrıkale Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Basrıkale Tepesi, doğa severlerin ve trekking yapmayı sevenlerin tercih ettiği bir yer. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunuyor. Burada, Ankara'nın panoramik manzarasını izleyebilirsiniz. Basrıkale Tepesi, aynı zamanda tarihî ve kültürel açıdan da önemli bir yer.
+Basrıkale Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Basrıkale Tepesi, doğa severlerin ve trekking yapmayı sevenlerin tercih ettiği bir yer. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sunuyor. Burada, Ankara'nın panoramik manzarasını izleyebilirsiniz. Basrıkale Tepesi, aynı zamanda tarihî ve kültürel açıdan da önemli bir yer.
 
 ## Tarihçe
 
-Basrıkale Tepesi, tarihin sâu sayfalarında gizli bir geçmişe sahip. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış. Tarihi geçmişi, Basrıkale Tepesi'ni önemli bir kültür merkezi haline getirmiş. Burada, çeşitli uygarlıkların izleri hala görülebiliyor. Basrıkale Tepesi, aynı zamanda bir çok efsaneye de konu olmuş. Bu tepenin etrafında, bir çok rivayet ve hikaye anlatılmış. Basrıkale Tepesi, tarihin sâu sayfalarında gizli bir hazine gibi duruyor. Bu tepenin tarihi geçmişi, ziyaretçilere bir çok şey anlatıyor.
+Basrıkale Tepesi, tarihin derin sayfalarında gizli bir geçmişe sahip. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış. Tarihi geçmişi, Basrıkale Tepesi'ni önemli bir kültür merkezi haline getirmiş. Burada, çeşitli uygarlıkların izleri hala görülebiliyor. Basrıkale Tepesi, aynı zamanda bir çok efsaneye de konu olmuş. Bu tepenin etrafında, bir çok rivayet ve hikaye anlatılmış. Basrıkale Tepesi, tarihin derin sayfalarında gizli bir hazine gibi duruyor. Bu tepenin tarihi geçmişi, ziyaretçilere bir çok şey anlatıyor.
 
 ## Coğrafya
 
@@ -49,7 +49,7 @@ Basrıkale Tepesi, ziyaretçilerine bir çok farklı aktivite sunuyor. Burada, t
 ## İlginç Bilgiler
 
 - Basrıkale Tepesi, Ankara'nın en yüksek tepelerinden biridir.
-- Basrıkale Tepesi, tarihin sâu sayfalarında gizli bir geçmişe sahiptir.
+- Basrıkale Tepesi, tarihin derin sayfalarında gizli bir geçmişe sahiptir.
 - Basrıkale Tepesi, bir çok farklı bitki türüne ev sahipliği yapar.
 - Basrıkale Tepesi, bir çok farklı hayvan türüne ev sahipliği yapar.
 - Basrıkale Tepesi, ekolojik açıdan önemli bir yerdir.

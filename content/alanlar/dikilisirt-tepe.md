@@ -32,7 +32,7 @@ Ordu'nun yeşille maviyi buluşturan manzaraları arasında yer alan Dikilisırt
 
 ## Tarihçe
 
-Dikilisırt Tepe, Ordu'nun dağlık bölgesinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin sâu sayfalarında önemli uygarlıkların izlerini taşır. Hititler, Pontus Krallığı ve Roma İmparatorluğu gibi medeniyetler, Ordu ve çevresinde yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuşlardır.
+Dikilisırt Tepe, Ordu'nun dağlık bölgesinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin derin sayfalarında önemli uygarlıkların izlerini taşır. Hititler, Pontus Krallığı ve Roma İmparatorluğu gibi medeniyetler, Ordu ve çevresinde yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuşlardır.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. Bu alanlar, insanların yaşamlarını sürdürmeleri için necessary kaynaklar sunmuş, aynı zamanda ticaret yolları ve yaylacılık için stratejik noktalar olarak hizmet vermiştir. Dikilisırt Tepe de, bölgenin coğrafi konumu nedeniyle, tarihi ticaret yolları ve yaylacılık faaliyetleri için önemli bir nokta olabilir.
 

@@ -67,4 +67,4 @@ Danıma Tepe, Mardin'in doğal güzelliklerini keşfetmek isteyenler için ideal
 - Mardin Kalesi'ne benzer bir konumda bulunan Danıma Tepe, tarihi ve kültürel açıdan önemlidir.
 - Danıma Tepe ve çevresindeki arkeolojik sit alanları, bölgenin zengin tarihini gözler önüne serer.
 - Tepe, Mardin'in şehir merkezinden görülerek, bölgenin geniş bir panoramasını sunar.
-- Danıma Tepe, Mardin'in önemli turistik noktalarından biridir ve ziyaretçilere tarihi ve kültürel expérience sunar.
+- Danıma Tepe, Mardin'in önemli turistik noktalarından biridir ve ziyaretçilere tarihi ve kültürel deneyim sunar.

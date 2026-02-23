@@ -34,7 +34,7 @@ Kaş'ın sakin sularının üzerinde yer alan İç Ada, Antalya'nın turkuaz sah
 
 ## Tarihçe
 
-Antalya bölgesi, Türkiye'nin en eski ve en zengin kültürel miraslarına sahip bölgelerinden biri olarak bilinir. İç Ada, bu bölgenin doğal güzelliklerinin önemli bir parçasını oluşturur. Tarihin sâu sayfalarında, Antalya bölgesi, Likya, Pamfilya ve Roma uygarlıklarının izlerine tanıklık etmiştir. Bu uygarlıklar, bölgenin stratejik konumu nedeniyle önemli ticaret merkezleri olarak gelişmiştir.
+Antalya bölgesi, Türkiye'nin en eski ve en zengin kültürel miraslarına sahip bölgelerinden biri olarak bilinir. İç Ada, bu bölgenin doğal güzelliklerinin önemli bir parçasını oluşturur. Tarihin derin sayfalarında, Antalya bölgesi, Likya, Pamfilya ve Roma uygarlıklarının izlerine tanıklık etmiştir. Bu uygarlıklar, bölgenin stratejik konumu nedeniyle önemli ticaret merkezleri olarak gelişmiştir.
 
 Doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunun önemli bir parçası olarak kabul edilir. Bu alanlar, insanların yaşam tarzlarını, geleneklerini ve kültürlerini şekillendirmişlerdir. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yaşayan insanların temel faaliyetleri olmuştur. Ayrıca, tarihi ticaret yolları, bu doğal güzelliklerin arasında geçerek, bölgenin ekonomi ve kültürel gelişimine katkıda bulunmuştur.
 

@@ -32,9 +32,9 @@ Balıkesir'in kıyılarında, Ege Denizi'nin sakin sularında gizlenen Işık Ad
 
 ## Tarihçe
 
-Balıkesir bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölge, M.Ö. 7. yüzyılda Lidya Krallığı'nın egemenliği altına girmiş, ardından Perslerin hakimiyetine geçmiştir. Daha sonra Roma ve Bizans dönemlerini yaşayan bölge, 14. yüzyılda Osmanlıların kontrolüne girmiştir. Bu zengin tarihsel miras, bölgenin kültürel ve doğal varlıklarını şekillendirmiştir.
+Balıkesir bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölge, M.Ö. 7. yüzyılda Lidya Krallığı'nın egemenliği altına girmiş, ardından Perslerin hakimiyetine geçmiştir. Daha sonra Roma ve Bizans dönemlerini yaşayan bölge, 14. yüzyılda Osmanlıların kontrolüne girmiştir. Bu zengin tarihsel miras, bölgenin kültürel ve doğal varlıklarını şekillendirmiştir.
 
-Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. İnsanların bu alanlarla ilişkisi, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle şekillenmiştir. Bu doğal cennetler, sadece doğal güzellikleri ile değil, aynı zamanda kültürel ve ekonomik önemi ile de dikkat çekmektedir. "Işık Adası" da bu bağlamda, bölgenin tarihini ve kültürünü yansıtan önemli bir doğal alandır. Balıkesir'in coğrafi konumu ve doğal güzellikleri, bu bölgenin tarihsel önemini daha da artırır. Bu nedenle, "Işık Adası"nı ziyaret etmek, sadece doğal güzellikleri keşfetmek değil, aynı zamanda tarihin sâu sayfalarına bir yolculuk yapmak demektir.
+Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. İnsanların bu alanlarla ilişkisi, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle şekillenmiştir. Bu doğal cennetler, sadece doğal güzellikleri ile değil, aynı zamanda kültürel ve ekonomik önemi ile de dikkat çekmektedir. "Işık Adası" da bu bağlamda, bölgenin tarihini ve kültürünü yansıtan önemli bir doğal alandır. Balıkesir'in coğrafi konumu ve doğal güzellikleri, bu bölgenin tarihsel önemini daha da artırır. Bu nedenle, "Işık Adası"nı ziyaret etmek, sadece doğal güzellikleri keşfetmek değil, aynı zamanda tarihin derin sayfalarına bir yolculuk yapmak demektir.
 
 ## Coğrafya
 
@@ -48,11 +48,11 @@ Işık Adası, Marmara Denizi'nin bir parçası olarak, çevresindeki su kaynakl
 
 ## Flora ve Fauna
 
-Işık Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak, geçiş ikliminin etkilerini taşır. İlkbaharın gelmesiyle birlikte, ada çiçeklerle dolar ve renklenir. Kıyı bitkileri, özellikle tuzlu toprakları seven türler, adanın kıyı şeridini kaplar. 
+Işık Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak, geçiş ikliminin etkilerini taşır. İlkbaharın gelmesiyle birlikte, ada çiçeklerle dolar ve renklenir. Kıyı bitkileri, özellikle tuzlu toprakları seven türler, adanın kıyı şeridini kaplar.
 
-Yaban hayatı açısından zengin olan adada, deniz kuşları ve göçmen kuşlar önemli bir yer tutar. Sonbaharda, göçmen kuşların adayı ziyaret ettiği görülür. Ada, izole popülasyonlara ev sahipliği yapar ve bu nedenle ekolojik açıdan önemlidir. 
+Yaban hayatı açısından zengin olan adada, deniz kuşları ve göçmen kuşlar önemli bir yer tutar. Sonbaharda, göçmen kuşların adayı ziyaret ettiği görülür. Ada, izole popülasyonlara ev sahipliği yapar ve bu nedenle ekolojik açıdan önemlidir.
 
-Ada ekosisteminin korunması, sadece burada yaşayan türlerin değil, aynı zamanda göçmen kuşların ve diğer deniz canlılarının yaşamını da güvence altına alır. Işık Adası, 1200 hektarlık yeşil cenneti ile İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. Bu özel ekosistem, koruma altına alınarak gelecek nesiller için bảoştirilmelidir.
+Ada ekosisteminin korunması, sadece burada yaşayan türlerin değil, aynı zamanda göçmen kuşların ve diğer deniz canlılarının yaşamını da güvence altına alır. Işık Adası, 1200 hektarlık yeşil cenneti ile İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. Bu özel ekosistem, koruma altına alınarak gelecek nesiller için korumaştirilmelidir.
 
 ## Ziyaret Bilgileri
 

@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin gizli güzellerinden biri olan Kozdağ, Batman'
 
 ## Tarihçe
 
-Kozdağ, Batman bölgesinin zengin tarihi dokusunda önemli bir yere sahiptir. Bu bölge, tarihin sâu sayfalarında çeşitli uygarlıkların izlerini taşımaktadır. Hitit, Asur, Pers ve Roma gibi medeniyetler, zaman içinde bu topraklarda hüküm sürmüş ve bölgenin kültürel mirasını şekillendirmiştir. Doğal güzellikleri ve stratejik konumuyla, Kozdağ ve çevresindeki alanlar, tarihi ticaret yollarının önemli duraklarından biri olmuştur.
+Kozdağ, Batman bölgesinin zengin tarihi dokusunda önemli bir yere sahiptir. Bu bölge, tarihin derin sayfalarında çeşitli uygarlıkların izlerini taşımaktadır. Hitit, Asur, Pers ve Roma gibi medeniyetler, zaman içinde bu topraklarda hüküm sürmüş ve bölgenin kültürel mirasını şekillendirmiştir. Doğal güzellikleri ve stratejik konumuyla, Kozdağ ve çevresindeki alanlar, tarihi ticaret yollarının önemli duraklarından biri olmuştur.
 
 Bu tür doğal alanlar, Türkiye'de tarihsel olarak büyük öneme sahip olmuştur. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin insanlarla olan bağlantısını güçlendirmiştir. İnsanların bu doğal alanlarla kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Kozdağ, Batman bölgesinin doğal ve kültürel zenginliklerinin bir parçasıdır ve bu bölgenin tarihini anlamak için önemli bir bölgedir. Doğal güzelliği ve tarihsel önemi, Kozdağ'ı ziyaretçilerin keşfetmeye değer bir destinasyon haline getirmektedir.
 

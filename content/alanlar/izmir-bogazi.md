@@ -52,7 +52,7 @@ Doğal bir oluşum olan İzmir Boğazı, çevresindeki coğrafi yapılardan fark
 
 İzmir Boğazı, 1200 hektarlık bu yeşil cennet, İzmir'in toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu kanyon, zeytinlikler ve çam ormanlarının hakim olduğu bir bölgede yer alıyor. İklim, Akdeniz ikliminin karakteristik özelliklerini taşıyor.
 
-Bitki örtüsü, ilkbaharın gelmesiyle birlikte renkleniyor. Çiçekler açıyor ve bölgeye renk katıyor. Sonbaharda, yaprak döken ağaçlar sarı, kırmızı ve turuncu tonlara bürünüyor. Bu mevsimsel değişim, bölgenin canlılarına da yansıyor. 
+Bitki örtüsü, ilkbaharın gelmesiyle birlikte renkleniyor. Çiçekler açıyor ve bölgeye renk katıyor. Sonbaharda, yaprak döken ağaçlar sarı, kırmızı ve turuncu tonlara bürünüyor. Bu mevsimsel değişim, bölgenin canlılarına da yansıyor.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösteriyor. Bölge, göçmen kuşlar için önemli bir durak noktası. Çam ormanları ve zeytinlikler, birçok canlıyaşam alanı sunuyor. Ekolojik değer, bu çeşitlili ve bölgeye bağımlı olan canlılar nedeniyle oldukça yüksek.
 

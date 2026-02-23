@@ -28,7 +28,7 @@ wikidata_id: "Q34810065"
 
 # Ünlük Tepesi
 
-Ünlük Tepesi, Mersin ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Ünlük Tepesi, aynı zamanda bölgenin coğrafi yapısını şekillendiren önemli bir noktadır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı da oldukça zengin bir yapıya sahiptir. Ünlük Tepesi, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon olarak kabul edilir.
+Ünlük Tepesi, Mersin ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çeker. Ünlük Tepesi, aynı zamanda bölgenin coğrafi yapısını şekillendiren önemli bir noktadır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı da oldukça zengin bir yapıya sahiptir. Ünlük Tepesi, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 

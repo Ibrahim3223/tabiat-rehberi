@@ -1,7 +1,7 @@
 ---
 title: "İncirli Hamamı"
 date: "2026-01-09T22:54:01.948Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738650"
 
 # İncirli Hamamı
 
-İncirli Hamamı, Yıldırım/Bursa'da yer alan ve Marmara Bölgesi'nin en güzel plajlarından biri olan bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Plajın uzunluğu uzun bir mesafe ve bu uzunluk boyunca denize girebileceğiniz birçok nokta bulunuyor. İncirli Hamamı, aynı zamanda doğal güzelliği ve temizliği ile dikkat çekiyor. Burada geçireceğiniz zaman, hem dinlenmenize hem de doğanın güzelliğini keşfetmenize olanak tanıyor.
+İncirli Hamamı, Yıldırım/Bursa'da yer alan ve Marmara Bölgesi'nin en güzel plajlarından biri olan bir destinasyondur. Plajın uzunluğu uzun bir mesafe ve bu uzunluk boyunca denize girebileceğiniz birçok nokta bulunuyor. İncirli Hamamı, aynı zamanda doğal güzelliği ve temizliği ile dikkat çekiyor. Burada geçireceğiniz zaman, hem dinlenmenize hem de doğanın güzelliğini keşfetmenize olanak tanıyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q49741922"
 
 # Heybeliada Kaplıcaları
 
-Heybeliada Kaplıcaları, Afyonkarahisar'ın sakin ve doğal güzelliği ile tanınan bir bölgesinde yer alır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve misafirlerine geniş bir yeşil alan sunar. Heybeliada Kaplıcaları, hem sağlık hem de dinlenme amaçlı ziyaretçilerini ağırlar. Buradaki termal sular, zengin mineral içeriği ile bilinir ve çeşitli sağlık sorunlarına iyi gelir. Geleneksel Türk hamamları ve modern spa merkezleri, ziyaretçilere keyifli ve rahatlatıcı bir deneyim sunar. Kaplıca çevresinde, çeşitli restoran ve kafe seçenekleri bulunur, bunlar yerel lezzetleri ve uluslararası mutfakları sunar.
+Heybeliada Kaplıcaları, Afyonkarahisar'ın sakin ve doğal güzelliği ile tanınan bir bölgesinde yer alır. Heybeliada Kaplıcaları, hem sağlık hem de dinlenme amaçlı ziyaretçilerini ağırlar. Buradaki termal sular, zengin mineral içeriği ile bilinir ve çeşitli sağlık sorunlarına iyi gelir. Geleneksel Türk hamamları ve modern spa merkezleri, ziyaretçilere keyifli ve rahatlatıcı bir deneyim sunar. Kaplıca çevresinde, çeşitli restoran ve kafe seçenekleri bulunur, bunlar yerel lezzetleri ve uluslararası mutfakları sunar.
 
 ## Tarihçe
 

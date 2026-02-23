@@ -1,7 +1,7 @@
 ---
 title: "Tahan Tepesi"
 date: "2026-01-10T12:53:35.512Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Mardin"
@@ -28,7 +28,7 @@ wikidata_id: "Q31551286"
 
 # Tahan Tepesi
 
-Tahan Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği noktalardan biri. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Tahan Tepesi, şehrin merkezine yakın bir konumda yer alıyor ve Mardin'in tarihini ve kültürünü yansıtan önemli bir nokta. Burada, tarihi eserlerin yanı sıra, doğal güzellikler de bulunduğundan, Tahan Tepesi hem tarih severler hem de doğaşığılar için ideal bir gezi noktası.
+Tahan Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği noktalardan biri. Tahan Tepesi, şehrin merkezine yakın bir konumda yer alıyor ve Mardin'in tarihini ve kültürünü yansıtan önemli bir nokta. Burada, tarihi eserlerin yanı sıra, doğal güzellikler de bulunduğundan, Tahan Tepesi hem tarih severler hem de doğaşığılar için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tahan Tepesi'nin tarihi geçmişi, Mardin'in tarihine paralel olarak gelişmişt
 
 ## Coğrafya
 
-Tahan Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, şehrin merkezine yakın bir konumda yer alıyor ve çevresi, tarihi eserlerin yanı sıra, doğal güzelliklerle dolu. Tahan Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta. Tahan Tepesi'nin coğrafi yapısı, ziyaretçilerine, şehrin tarihini ve kültürünü yansıtan önemli bir manzara sunuyor. Bu tepe, Mardin'in coğrafi güzelliklerini ve tarihi eserlerini bir arada sunan önemli bir gezi noktası.
+Tahan Tepesi, Mardin'in coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, şehrin merkezine yakın bir konumda yer alıyor ve çevresi, tarihi eserlerin yanı sıra, doğal güzelliklerle dolu. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta. Tahan Tepesi'nin coğrafi yapısı, ziyaretçilerine, şehrin tarihini ve kültürünü yansıtan önemli bir manzara sunuyor. Bu tepe, Mardin'in coğrafi güzelliklerini ve tarihi eserlerini bir arada sunan önemli bir gezi noktası.
 
 ## Flora ve Fauna
 

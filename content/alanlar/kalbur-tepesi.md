@@ -28,7 +28,7 @@ wikidata_id: "Q31557426"
 
 # Kalbur Tepesi
 
-Ankara'nın İç Anadolu Bölgesi'nde yer alan Kalbur Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle karşılayacak bir destinasyon. Kalbur Tepesi, Ankara'nın merkezi bir noktasında yer alıyor ve ulaşımı oldukça kolay. Tepe, şehrin gürültüsünden uzaklaşma ve doğayla iç içe olmak isteyenler için ideal bir kaçış noktası.
+Ankara'nın İç Anadolu Bölgesi'nde yer alan Kalbur Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Kalbur Tepesi, Ankara'nın merkezi bir noktasında yer alıyor ve ulaşımı oldukça kolay. Tepe, şehrin gürültüsünden uzaklaşma ve doğayla iç içe olmak isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 

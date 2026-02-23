@@ -28,7 +28,7 @@ wikidata_id: "Q32223459"
 
 # Gökbaşlı Tepe
 
-Gökbaşlı Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Gökbaşlı Tepe, çevresindeki diğer tepelerden farklı olarak, daha fazla yeşilli vesu kaynağına sahip. Bu özelliği, tepeyi bir doğa harikası haline getiriyor. Gökbaşlı Tepe, aynı zamanda tarih boyunca önemli bir rol oynamış. Eski medeniyetlerin izlerini taşıyan bu tepe, ziyaretçilerini tarihin derinliklerine götürüyor. Gökbaşlı Tepe, Konya'nın doğal ve tarihi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Gökbaşlı Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Gökbaşlı Tepe, çevresindeki diğer tepelerden farklı olarak, daha fazla yeşilli vesu kaynağına sahip. Bu özelliği, tepeyi bir doğa harikası haline getiriyor. Gökbaşlı Tepe, aynı zamanda tarih boyunca önemli bir rol oynamış. Eski medeniyetlerin izlerini taşıyan bu tepe, ziyaretçilerini tarihin derinliklerine götürüyor. Gökbaşlı Tepe, Konya'nın doğal ve tarihi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Arpacılar Mescidi Türbesi"
 date: "2026-01-10T07:24:57.138Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390999"
 
 # Arpacılar Mescidi Türbesi
 
-Arpacılar Mescidi Türbesi, İstanbul'un Fatih ilçesinde bulunan bir tarihi mekan. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olarak düşünülse, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu mekan, Marmara Bölgesi'nin önemli tarihi noktalarından biri olarak kabul edilir. Arpacılar Mescidi Türbesi, ziyaretçilerini histórik bir yolculuğa çıkarırken, aynı zamanda çevrenin güzelliği ile de büyüler. Burada, geçmişin izlerini görme ve tarihi atmosferi hissetme mümkün.
+Arpacılar Mescidi Türbesi, İstanbul'un Fatih ilçesinde bulunan bir tarihi mekan. Bu mekan, Marmara Bölgesi'nin önemli tarihi noktalarından biri olarak kabul edilir. Arpacılar Mescidi Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarırken, aynı zamanda çevrenin güzelliği ile de büyüler. Burada, geçmişin izlerini görme ve tarihi atmosferi hissetme mümkün.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Arpacılar Mescidi Türbesi'nin bulunduğu, çeşitli bitki türleriyle çevrili
 
 ## Ziyaret Bilgileri
 
-Arpacılar Mescidi Türbesi'ni ziyaret etmek, tarihi ve kültürel bir deneyim sunar. Ziyaretçiler, mekanın histórik atmosferini hissetme ve geçmişin izlerini görmek için burayı ziyaret edebilirler. Giriş, genellikle ücretsiz veya küçük bir ücret karşılığında mümkündür. Ziyaretçiler, çevredeki tarihi mekanları da gezerek geniş bir kültür turu yapabilirler. En iyi ziyaret zamanı, ilkbahar ve sonbahar aylarıdır, çünkü bu dönemlerde hava ılımandır ve ziyaretçilere daha konforlu bir deneyim sunar.
+Arpacılar Mescidi Türbesi'ni ziyaret etmek, tarihi ve kültürel bir deneyim sunar. Ziyaretçiler, mekanın tarihi atmosferini hissetme ve geçmişin izlerini görmek için burayı ziyaret edebilirler. Giriş, genellikle ücretsiz veya küçük bir ücret karşılığında mümkündür. Ziyaretçiler, çevredeki tarihi mekanları da gezerek geniş bir kültür turu yapabilirler. En iyi ziyaret zamanı, ilkbahar ve sonbahar aylarıdır, çünkü bu dönemlerde hava ılımandır ve ziyaretçilere daha konforlu bir deneyim sunar.
 
 ## İlginç Bilgiler
 

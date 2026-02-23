@@ -22,7 +22,7 @@ wikidata_id: "Q108227223"
 
 # Denizli-Eskere-Yelkencidag Ardic
 
-Denizli-Eskere-Yelkencidag Ardic milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik dengelerinden biri olarak kabul edilir. Burada çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşma mümkün. Bu bölgenin güzelliği, sadece doğa severlerin değil, aynı zamanda tarih ve kültür meraklılarının da ilgisini çekiyor.
+Denizli-Eskere-Yelkencidag Ardic milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. Burada çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşma mümkün. Bu bölgenin güzelliği, sadece doğa severlerin değil, aynı zamanda tarih ve kültür meraklılarının da ilgisini çekiyor.
 
 ## Tarihçe
 

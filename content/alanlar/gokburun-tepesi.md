@@ -28,7 +28,7 @@ wikidata_id: "Q34872048"
 
 # Gökburun Tepesi
 
-Gökburun Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçiler için geniş bir açık alan sunuyor. Bu tepe, hem doğa severler hem de Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için bir cazibe merkezi.
+Gökburun Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. Bu tepe, hem doğa severler hem de Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için bir cazibe merkezi.
 
 ## Tarihçe
 

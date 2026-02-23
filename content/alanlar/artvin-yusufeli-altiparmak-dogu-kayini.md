@@ -22,7 +22,7 @@ wikidata_id: "Q108228591"
 
 # Artvin-Yusufeli-Altiparmak Dogu Kayini
 
-Artvin-Yusufeli-Altiparmak Dogu Kayini, Karadeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor. Güneş ışıklarıyla aydınlanan ormanlar, akan nehirler ve çeşitli bitki türleri, bu milli parkın güzelliğini artırıyor. Yaban hayatı da oldukça zengin. Bu bölge, birçok canlıya ev sahipliği yapıyor.
+Artvin-Yusufeli-Altiparmak Dogu Kayini, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor. Güneş ışıklarıyla aydınlanan ormanlar, akan nehirler ve çeşitli bitki türleri, bu milli parkın güzelliğini artırıyor. Yaban hayatı da oldukça zengin. Bu bölge, birçok canlıya ev sahipliği yapıyor.
 
 ## Tarihçe
 

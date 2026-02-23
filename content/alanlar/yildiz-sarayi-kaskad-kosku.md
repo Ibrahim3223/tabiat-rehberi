@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Kaskad Köşkü"
 date: "2026-01-10T04:00:18.151Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q135429076"
 
 # Yıldız Sarayı Kaskad Köşkü
 
-Yıldız Sarayı Kaskad Köşkü, İstanbul'un Beşiktaş ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir mekan. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olarak düşünülebilir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne karşılık geliyor. Kaskad Köşkü, Yıldız Sarayı'nın bir parçası olarak, ziyaretçilere hem tarihi bir atmosfer hem de doğanın güzelliğini sunuyor. Bu köşkün etrafındaki peyzaj, ziyaretçilere huzur verici bir ortam sağlıyor ve İstanbul'un kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak düşünülebilir.
+Yıldız Sarayı Kaskad Köşkü, İstanbul'un Beşiktaş ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir mekan. Kaskad Köşkü, Yıldız Sarayı'nın bir parçası olarak, ziyaretçilere hem tarihi bir atmosfer hem de doğanın güzelliğini sunuyor. Bu köşkün etrafındaki peyzaj, ziyaretçilere huzur verici bir ortam sağlıyor ve İstanbul'un kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak düşünülebilir.
 
 ## Tarihçe
 

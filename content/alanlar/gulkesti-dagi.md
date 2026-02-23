@@ -50,11 +50,11 @@ Doğal güzellikleri ve jeolojik yapısıyla dikkat çeken Gülkesti Dağı, çe
 
 ## Flora ve Fauna
 
-Gülkesti Dağı, Van'ın yüksek dağ ekolojisinin güzelliklerini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gülkesti Dağı, Van'ın yüksek dağ ekolojisinin güzelliklerini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte dağ yamaçlarını renkli çiçekler süslüyor. Alpin çayırların hakim olduğu bu bölgede, yükseklik zonlarına göre değişen flora çeşitliliği dikkat çekiyor. Dağın yüksek kesimlerinde, soğuğa dayanıklı bitkiler hüküm sürerken, daha alçak kesimlerde çeşitli otsu bitkiler ve çalılar görülüyor.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri ve yaban keçileri, dağların kayalık yamaçlarında yaşamlarını sürdürürken, kartallar ve diğer yırtıcı kuşlar yükseklerden avlarını izliyor. Sürüngenler de bu ekosistemin bir parçası, özellikle ilkbahar ve yaz aylarında aktivite gösteriyorlar. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri ve yaban keçileri, dağların kayalık yamaçlarında yaşamlarını sürdürürken, kartallar ve diğer yırtıcı kuşlar yükseklerden avlarını izliyor. Sürüngenler de bu ekosistemin bir parçası, özellikle ilkbahar ve yaz aylarında aktivite gösteriyorlar.
 
 Bu dağ ekosisteminin korunması büyük önem taşıyor, çünkü burada yaşayan birçok bitki ve hayvan türü, sadece bu bölgede bulunan endemik türler. Koruma çalışmaları, bu eşsiz ekosistemin geleceğini güvence altına almaya yönelik olarak yürütülüyor.
 

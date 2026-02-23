@@ -1,7 +1,7 @@
 ---
 title: "Izmir-Bergama-Kozak Fistikcami"
 date: "2026-01-09T13:11:00.401Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"

@@ -1,7 +1,7 @@
 ---
 title: "Adalızade Türbesi"
 date: "2026-01-10T04:57:29.923Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391540"
 
 # Adalızade Türbesi
 
-Adalızade Türbesi, Aydın'ın Kuşadası ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Kuşadası'nın en önemli turistik noktalarından biridir. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Adalızade Türbesi, Ege Bölgesi'nin zengin tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon.
+Adalızade Türbesi, Aydın'ın Kuşadası ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Adalızade Türbesi, Ege Bölgesi'nin zengin tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Adalızade Türbesi, zengin flora ve fauna çeşitliliğine sahiptir. Bu bölged
 
 ## Ziyaret Bilgileri
 
-Adalızade Türbesi'ni ziyaret etmek, Kuşadası'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir aktivitedir. Bu bölgeye, Kuşadası'nın merkezi tarafından kolayca ulaşılabilir. Ziyaretçiler, bu bölgede tarihi yapıları gezerek, doğayı keşfedere ve çeşitli etkinlikler yaparak zaman geçirebilirler. Adalızade Türbesi, ziyaretçilerine unutulmaz bir deneyim sunar.
+Adalızade Türbesi'ni ziyaret etmek, Kuşadası'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir aktivitedir. Bu bölgeye, Kuşadası'nın merkezi tarafından kolayca ulaşılabilir. Ziyaretçiler, bu bölgede tarihi yapıları gezerek, doğayı keşfedere ve çeşitli etkinlikler yaparak zaman geçirebilirler.
 
 ## İlginç Bilgiler
 
@@ -53,4 +53,4 @@ Adalızade Türbesi'ni ziyaret etmek, Kuşadası'nın tarihi ve doğal güzellik
 - Bu bölge, Ege Bölgesi'nin zengin tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyondur.
 - Adalızade Türbesi, 140 hektarlık bir alana sahiptir.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna sahiptir.
-- Adalızade Türbesi, ziyaretçilerine unutulmaz bir deneyim sunar.
+

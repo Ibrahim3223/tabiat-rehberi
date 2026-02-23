@@ -32,7 +32,7 @@ Elazığ'ın merkezinde yükselen bir doğa harikası olan Küp Dağı, şehrin 
 
 ## Tarihçe
 
-Elazığ bölgesi, tarihin sâu sayfalarında önemli bir yere sahip. Binlerce yıl önce, bu topraklarda Hitit, Urartu, Pers ve Roma uygarlıkları yaşamış, her biri bölgenin kültürel ve tarihi dokusuna katkıda bulunmuş. Elazığ'ın coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer almış, bu da bölgenin zengin bir geçmişe sahip olmasını sağlamıştır.
+Elazığ bölgesi, tarihin derin sayfalarında önemli bir yere sahip. Binlerce yıl önce, bu topraklarda Hitit, Urartu, Pers ve Roma uygarlıkları yaşamış, her biri bölgenin kültürel ve tarihi dokusuna katkıda bulunmuş. Elazığ'ın coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer almış, bu da bölgenin zengin bir geçmişe sahip olmasını sağlamıştır.
 
 Küp Dağı gibi doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasını oluşturur. Bu alanlar, yüzyıllar boyunca insanların yaşamlarının merkezi olmuş, yaylacılık, hayvancılık ve tarım gibi faaliyetlerle insanların geçim kaynaklarını sağlamıştır. Ayrıca, bu doğal güzellikler, ticaret yolları ve hac yolları için önemli durak noktaları olarak hizmet vermiş, insanların birbirleriyle etkileşimini ve kültürel alışverişi sağlamıştır.
 

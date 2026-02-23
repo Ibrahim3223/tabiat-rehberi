@@ -33,7 +33,7 @@ Kurudağ, Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için bir ha
 
 ## Tarihçe
 
-Kurudağ, Türkiye'nin zengin doğal mirasının bir parçasını oluşturan geniş ve verimli bir bölgedir. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşadığı ve ticaret yollarının kesiştiği önemli bir coğrafyada yer alır. İç Anadolu Bölgesi'nde bulunan Kurudağ, históriki ticaret yolları ve yaylacılık faaliyetleri açısından önemli bir rol oynamıştır.
+Kurudağ, Türkiye'nin zengin doğal mirasının bir parçasını oluşturan geniş ve verimli bir bölgedir. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşadığı ve ticaret yollarının kesiştiği önemli bir coğrafyada yer alır. İç Anadolu Bölgesi'nde bulunan Kurudağ, tarihi ticaret yolları ve yaylacılık faaliyetleri açısından önemli bir rol oynamıştır.
 
 Tarih boyunca, bölge insanları hayvancılıkla uğraşmış, mevsimsel olarak yaylalara çıkarak hayvanlarını otlatmışlardır. Bu gelenek, bölgenin ekolojik dengesini korurken, aynı zamanda yerel ekonomiye de katkı sağlamıştır. Ayrıca, bölgeden geçen tarihi ticaret yolları, farklı kültürlerin etkileşimine ve bölgenin zenginleşmesine yol açmıştır.
 

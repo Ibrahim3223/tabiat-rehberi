@@ -28,7 +28,7 @@ wikidata_id: "Q31388263"
 
 # Kumluk Tepesi
 
-Kumluk Tepesi, Kars ilinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kumluk Tepesi, ziyaretçilerine doğanın güzelliğini ve bölgenin coğrafi özelliklerini keşfetme fırsatı sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna found. Kumluk Tepesi, hem doğa severler hem de coğrafya meraklıları için bir çekim merkezi.
+Kumluk Tepesi, Kars ilinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Kumluk Tepesi, ziyaretçilerine doğanın güzelliğini ve bölgenin coğrafi özelliklerini keşfetme fırsatı sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna found. Kumluk Tepesi, hem doğa severler hem de coğrafya meraklıları için bir çekim merkezi.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kumluk Tepesi'ni ziyaret etmek, doğa severler ve coğrafya meraklıları için 
 ## İlginç Bilgiler
 
 - Kumluk Tepesi, Kars ilinin en yüksek noktalarından biri.
-- Tepenin eteklerinde, histórik kalıntılar bulunuyor.
+- Tepenin eteklerinde, tarihi kalıntılar bulunuyor.
 - Kumluk Tepesi, flora ve fauna açısından zengin bir destinasyon.
 - Tepenin zirvesinden, manzaraya bakıldığında, Kars ilinin geniş coğrafi alanı görülebiliyor.
 - Kumluk Tepesi, doğa severler ve coğrafya meraklıları için ideal bir destinasyon.

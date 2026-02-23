@@ -28,7 +28,7 @@ wikidata_id: "Q97320234"
 
 # Paslakum Şelalesi
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Paslakum Şelalesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu doğal güzellik, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet eder. Şelalenin surroundingsında çeşitli bitki türleri ve zengin fauna, bu alanı doğa severler için bir cennete çevirir. Paslakum Şelalesi, aynı zamanda bir hikaye anlatır; doğanın güzelliğini ve gücünü yansıtan bir yer. Bu şelale, ziyaretçilerine doğayla iç içe bir deneyim sunar.
+ Bu doğal güzellik, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet eder. Şelalenin surroundingsında çeşitli bitki türleri ve zengin fauna, bu alanı doğa severler için bir cennete çevirir. Paslakum Şelalesi, aynı zamanda bir hikaye anlatır; doğanın güzelliğini ve gücünü yansıtan bir yer. Bu şelale, ziyaretçilerine doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 

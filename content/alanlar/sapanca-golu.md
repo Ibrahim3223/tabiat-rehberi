@@ -34,7 +34,7 @@ Sapanca Gölü, Kocaeli'nin Sapanca ilçesinde yer alan bir göldür. Bu doğal 
 
 ## Tarihçe
 
-Sapanca Gölü, Kocaeli bölgesinin kalbinde yer alan bir doğal güzellik. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Kocaeli, binlerce yıl önce çeşitli uygarlıkların yaşadığı bir coğrafyadır. Antik Çağ'da Bithynia olarak bilinen bu topraklar, Roma ve Bizans dönemlerinde de önemli bir merkez olarak kabul edilmiştir.
+Sapanca Gölü, Kocaeli bölgesinin kalbinde yer alan bir doğal güzellik. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Kocaeli, binlerce yıl önce çeşitli uygarlıkların yaşadığı bir coğrafyadır. Antik Çağ'da Bithynia olarak bilinen bu topraklar, Roma ve Bizans dönemlerinde de önemli bir merkez olarak kabul edilmiştir.
 
 Doğal güzellikleri ve stratejik konumuyla, Sapanca Gölü de bu tarihsel sürecin bir parçasını oluşturur. Türkiye'de, özellikle İç ve Doğu Anadolu'da yaylacılık ve hayvancılık, binlerce yıldır insanların yaşamının bir parçası olmuştur. Bu doğal alanlar, yalnızca güzelliği ile değil, aynı zamanda ekonomi ve kültürel önemiyle de insan yaşamını etkilemiştir.
 

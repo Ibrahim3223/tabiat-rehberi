@@ -22,7 +22,7 @@ wikidata_id: "Q108227503"
 
 # Denizli-Usak-Catak Karacam 1
 
-Denizli-Usak-Catak Karacam 1 milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Milli parkın geniş açıkları, yürüyüş ve doğa gezileri için ideal bir ortam sağlıyor. Ziyaretçiler, bu eşsiz doğal güzelliğin tadını çıkarırken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı buluyorlar.
+Denizli-Usak-Catak Karacam 1 milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Milli parkın geniş açıkları, yürüyüş ve doğa gezileri için ideal bir ortam sağlıyor. Ziyaretçiler, bu eşsiz doğal güzelliğin tadını çıkarırken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı buluyorlar.
 
 ## Tarihçe
 

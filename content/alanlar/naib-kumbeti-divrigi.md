@@ -29,7 +29,7 @@ wikidata_id: "Q135582393"
 
 # Naib Kümbeti, Divriği
 
-Naib Kümbeti, Sivas'ın Divriği ilçesinde bulunan bir tarihi yapıdır. 140 hektarlık bir alan üzerinde kurulmuş olan bu kümbet, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu yapı, tarihi geçmişi ve kültürel önemi ile dikkat çeker. Divriği'nin merkezi konumunda bulunan Naib Kümbeti, ziyaretçilerin ilgisini çeken önemli bir gezi noktasıdır. Naib Kümbeti, tarihi ve kültürel zenginliklerin bir araya geldiği özel bir destinasyondur.
+Naib Kümbeti, Sivas'ın Divriği ilçesinde bulunan bir tarihi yapıdır. Bu yapı, tarihi geçmişi ve kültürel önemi ile dikkat çeker. Divriği'nin merkezi konumunda bulunan Naib Kümbeti, ziyaretçilerin ilgisini çeken önemli bir gezi noktasıdır. Naib Kümbeti, tarihi ve kültürel zenginliklerin bir araya geldiği özel bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Naib Kümbeti'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tarihi
 
 ## Coğrafya
 
-Naib Kümbeti, Sivas'ın Divriği ilçesinde bulunur. Bu yapı, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Naib Kümbeti, bölgenin coğrafi yapısı ile uyumlu bir şekilde inşa edilmiştir. Yapının çevresi, tarihi ve kültürel zenginliklerin bir araya geldiği bir bölgedir. Naib Kümbeti, Divriği'nin merkezi konumunda bulunur ve ziyaretçilerin ulaşımı kolaydır. Bu yapı, bölgenin coğrafi ve kültürel özellikleri ile birlikte değerlendirildiğinde, önemli bir gezi noktası olarak kabul edilir. Naib Kümbeti'nin coğrafi konumu, ziyaretçilerin ilgisini çeker ve gezi planlarını etkiler.
+Naib Kümbeti, Sivas'ın Divriği ilçesinde bulunur. Naib Kümbeti, bölgenin coğrafi yapısı ile uyumlu bir şekilde inşa edilmiştir. Yapının çevresi, tarihi ve kültürel zenginliklerin bir araya geldiği bir bölgedir. Naib Kümbeti, Divriği'nin merkezi konumunda bulunur ve ziyaretçilerin ulaşımı kolaydır. Bu yapı, bölgenin coğrafi ve kültürel özellikleri ile birlikte değerlendirildiğinde, önemli bir gezi noktası olarak kabul edilir. Naib Kümbeti'nin coğrafi konumu, ziyaretçilerin ilgisini çeker ve gezi planlarını etkiler.
 
 ## Flora ve Fauna
 

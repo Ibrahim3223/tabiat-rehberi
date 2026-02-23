@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Ali Semerkandî Türbesi"
 date: "2026-01-10T06:14:14.628Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,15 +29,15 @@ wikidata_id: "Q131390671"
 
 # Şeyh Ali Semerkandî Türbesi
 
-140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde, şehrin gürültüsünden uzakta, doğanın kucağında yer alıyor. Şeyh Ali Semerkandî Türbesi, Çamlıdere'nin merkezine uzun bir mesafe uzaklıkta, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede bulunuyor. Bu türbe, tarihi geçmişi ve doğal güzelliği ile ziyaretçiler için önemli bir çekim merkezi oluyor. Çevresinde çeşitli bitki türleri ve zengin fauna ile çevrili bu türbe, doğa severler için bir cennet niteliğinde.
+ Şeyh Ali Semerkandî Türbesi, Çamlıdere'nin merkezine uzun bir mesafe uzaklıkta, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede bulunuyor. Bu türbe, tarihi geçmişi ve doğal güzelliği ile ziyaretçiler için önemli bir çekim merkezi oluyor. Çevresinde çeşitli bitki türleri ve zengin fauna ile çevrili bu türbe, doğa severler için bir cennet niteliğinde.
 
 ## Tarihçe
 
-Tarihi geçmişi yüzyıllar öncesine dayanan Şeyh Ali Semerkandî Türbesi, bölgenin önemli dini ve kültürel merkezlerinden biri olarak kabul ediliyor. Bu türbenin etrafındaki köylerin tarihi de oldukça eskilere dayanıyor. Köylerin kuruluşu ve gelişimi, bölgenin coğrafi özelliklerine ve tarihi olaylara bağlı olarak şekillenmiştir. Şeyh Ali Semerkandî'nin yaşamı ve öğretileri tentang bölge halkı üzerinde derin bir etki bırakmış ve türbenin bir hac yeri haline gelmesini sağlamıştır. Türbenin tarihi ve kültürel önemi, ziyaretçilerin bölgeye gelmesini teşvik ediyor ve burayı önemli bir turistik destinasyon haline getiriyor.
+Tarihi geçmişi yüzyıllar öncesine dayanan Şeyh Ali Semerkandî Türbesi, bölgenin önemli dini ve kültürel merkezlerinden biri olarak kabul ediliyor. Bu türbenin etrafındaki köylerin tarihi de oldukça eskilere dayanıyor. Köylerin kuruluşu ve gelişimi, bölgenin coğrafi özelliklerine ve tarihi olaylara bağlı olarak şekillenmiştir. Şeyh Ali Semerkandî'nin yaşamı ve öğretileri tentang bölge halkı üzerinde derin bir etki bırakmış ve türbenin bir hac yeri haline gelmesini sağlamıştır.
 
 ## Coğrafya
 
-Şeyh Ali Semerkandî Türbesi, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip bir bölgede yer alıyor. Bölge, genellikle step ve ormanlık alanların birleştiği bir coğrafyaya sahip. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel özellikler, türbenin doğal güzelliğini ve ziyaretçilerin deneyimini zenginleştirmeye katkıda bulunuyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan ve bu, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+Şeyh Ali Semerkandî Türbesi, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip bir bölgede yer alıyor. Bölge, genellikle step ve ormanlık alanların birleştiği bir coğrafyaya sahip. Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu coğrafi ve iklimsel özellikler, türbenin doğal güzelliğini ve ziyaretçilerin deneyimini zenginleştirmeye katkıda bulunuyor.
 
 ## Flora ve Fauna
 

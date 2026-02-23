@@ -1,7 +1,7 @@
 ---
 title: "Orhan Hamamı"
 date: "2026-01-09T23:01:53.171Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738811"
 
 # Orhan Hamamı
 
-Orhan Hamamı, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Deniz kenarında yer alan Orhan Hamamı, bölge halkının ve ziyaretçilerin keyifli anlar geçirmesine olanak tanıyan bir doğal güzelliktir. Plajın çevresinde, çeşitli ağaçlar ve bitki türleri bulunur ve bu, ziyaretçilere doğayla iç içe bir atmosfer sunar.
+Orhan Hamamı, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plajdır. Deniz kenarında yer alan Orhan Hamamı, bölge halkının ve ziyaretçilerin keyifli anlar geçirmesine olanak tanıyan bir doğal güzelliktir. Plajın çevresinde, çeşitli ağaçlar ve bitki türleri bulunur ve bu, ziyaretçilere doğayla iç içe bir atmosfer sunar.
 
 ## Tarihçe
 

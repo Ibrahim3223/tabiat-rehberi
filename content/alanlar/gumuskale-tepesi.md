@@ -28,7 +28,7 @@ wikidata_id: "Q32139236"
 
 # Gümüşkale Tepesi
 
-Gümüşkale Tepesi, Doğu Anadolu Bölgesi'nin en doğal alanlarından biri olan Erzurum'da yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunar. Gümüşkale Tepesi, tarihi geçmişi ile birlikte doğal güzelliklerini de keşfetmenizi sağlar. Tepenin eteklerinde yer alan tarihi yapılar, ziyaretçilerin ilgisini çeker ve bölge hakkında bilgi edinmenizi sağlar.
+Gümüşkale Tepesi, Doğu Anadolu Bölgesi'nin en doğal alanlarından biri olan Erzurum'da yer alır. Gümüşkale Tepesi, tarihi geçmişi ile birlikte doğal güzelliklerini de keşfetmenizi sağlar. Tepenin eteklerinde yer alan tarihi yapılar, ziyaretçilerin ilgisini çeker ve bölge hakkında bilgi edinmenizi sağlar.
 
 ## Tarihçe
 

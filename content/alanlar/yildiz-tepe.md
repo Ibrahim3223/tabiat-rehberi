@@ -33,7 +33,7 @@ Batman'ın dağlık bölgelerinde yer alan Yıldız Tepe, bölgenin doğal güze
 
 ## Tarihçe
 
-Batman bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bölge, tarihin farklı dönemlerinde various uygarlıkların hakimiyetini görmüştür. Hititler, Asurlular, Persler ve Roma İmparatorluğu gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. Bu bölgedeki doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için önemli bir kaynak olmuştur. 
+Batman bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bölge, tarihin farklı dönemlerinde various uygarlıkların hakimiyetini görmüştür. Hititler, Asurlular, Persler ve Roma İmparatorluğu gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. Bu bölgedeki doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için önemli bir kaynak olmuştur.
 
 Yıldız Tepe gibi dağlık alanlar, özellikle yaylacılık ve hayvancılık faaliyetleri için elverişli bir ortam sunmaktadır. İnsanlar, bu bölgelerde hayvancılıkla uğraşırken, aynı zamanda ticaret yolları üzerinde stratejik noktalarda yerleşmişlerdir. Türkiye'de, bu tür doğal alanlar tarihsel olarak önemli bir rol oynamıştır. Bu alanlar, insanların geçim kaynakları olmuş, aynı zamanda çeşitli kültürel ve ticari faaliyetlerin merkezi olmuştur. Batman bölgesindeki Yıldız Tepe, bu bağlamda önemli bir yere sahiptir. Bu dağlık alan, bölgenin coğrafi yapısını şekillendirmiş ve insanların yaşamını etkilemiştir.
 

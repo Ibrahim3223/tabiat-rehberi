@@ -23,7 +23,7 @@ wikidata_id: "Q6039198"
 
 # Hamsilos
 
-Hamsilos, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. 140 hektarlık bir alanı kaplayan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde. Ziyaretçiler, bu yeşil cennette doğanın güzelliklerini keşfedebilir. Hamsilos, hem yerel hem de yabancı ziyaretçilerin ilgisini çekiyor. Bu özel mekan, turizm açısından önemli bir rol üstleniyor. Doğa severler için bulunmaz bir nimet olan Hamsilos, her mevsim ziyaret ediliyor.
+Hamsilos, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. Ziyaretçiler, bu yeşil cennette doğanın güzelliklerini keşfedebilir. Hamsilos, hem yerel hem de yabancı ziyaretçilerin ilgisini çekiyor. Bu özel mekan, turizm açısından önemli bir rol üstleniyor. Doğa severler için bulunmaz bir nimet olan Hamsilos, her mevsim ziyaret ediliyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Hamsilos'un tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, uzun 
 
 ## Coğrafya
 
-Hamsilos, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu milli park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Hamsilos'un coğrafyası, genellikle düz ve yeşil alanlardan oluşuyor. Bu bölge, yerel flora ve faunaya ev sahipliği yapıyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim koşullarını paylaşıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Hamsilos, çevresindeki doğal güzellikleriyle birlikte bir bütün olarak değerlendiriliyor. Bu bölge, ziyaretçilerine geniş ve yeşil alanlar sunuyor.
+Hamsilos, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Hamsilos'un coğrafyası, genellikle düz ve yeşil alanlardan oluşuyor. Bu bölge, yerel flora ve faunaya ev sahipliği yapıyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim koşullarını paylaşıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçiyor. Hamsilos, çevresindeki doğal güzellikleriyle birlikte bir bütün olarak değerlendiriliyor. Bu bölge, ziyaretçilerine geniş ve yeşil alanlar sunuyor.
 
 ## Flora ve Fauna
 
@@ -45,6 +45,6 @@ Hamsilos'u ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak. Ziy
 
 - Hamsilos, İç Anadolu Bölgesi'nin en büyük milli parklarından biri.
 - Bu bölge, 140 hektarlık bir alanı kaplıyor.
-- Hamsilos, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bu milli park, yerel flora ve faunaya ev sahipliği yapıyor.
 - Hamsilos, turizm açısından önemli bir rol üstleniyor.

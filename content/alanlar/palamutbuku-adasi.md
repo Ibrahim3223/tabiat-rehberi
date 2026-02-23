@@ -53,7 +53,7 @@ Doğal bir çevre içerisinde yer alan Palamutbükü Adası, komşu adalar ve an
 
 Palamutbükü Adası, Muğla'nın sıcaklığını taşıyan bir Akdeniz cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İklimi, zeytinliklere ve çam ormanlarına ev sahipliği yapıyor.
 
-**Bitki Örtüsü**: İlkbaharın başlangıcında, ada çiçeklerle donanıyor. Çam ağaçlarının altında, çeşitli otsu bitkiler ve yerli çiçekler açıyor. Bu mevsimsel güzellik, adanın izole ekosistemini destekleyen önemli bir faktör. 
+**Bitki Örtüsü**: İlkbaharın başlangıcında, ada çiçeklerle donanıyor. Çam ağaçlarının altında, çeşitli otsu bitkiler ve yerli çiçekler açıyor. Bu mevsimsel güzellik, adanın izole ekosistemini destekleyen önemli bir faktör.
 
 **Yaban Hayatı**: Ada, deniz kuşlarının önemli bir üreme ve göç alanı. Kıyı kesiminde, çeşitli sürüngenler ve memeliler de yaşamını sürdürüyor. Bu canlılar, adanın ekolojik dengesini koruyor.
 

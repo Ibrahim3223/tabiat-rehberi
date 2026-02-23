@@ -32,7 +32,7 @@ Antalya'nın büyüleyici doğal güzelliklerinden biri olan Özdemir Tepe, ziya
 
 ## Tarihçe
 
-Özdemir Tepe, Antalya'nın dağlık bölgesinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutmaktadır. Antalya, binlerce yıl önce Likya, Pamfilya ve Roma uygarlıklarının yerleşim yerlerinden biri olarak bilinmektedir. Bu uygarlıklar, bölgenin verimli toprakları ve stratejik konumu nedeniyle burada yaşamışlardır.
+Özdemir Tepe, Antalya'nın dağlık bölgesinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutmaktadır. Antalya, binlerce yıl önce Likya, Pamfilya ve Roma uygarlıklarının yerleşim yerlerinden biri olarak bilinmektedir. Bu uygarlıklar, bölgenin verimli toprakları ve stratejik konumu nedeniyle burada yaşamışlardır.
 
 Türkiye'de doğal alanlar, tarihsel olarak önemli bir role sahip olmuşlardır. Bu alanlar, insanların yaşam alanı, tarım arazileri ve ticaret yolları olarak kullanılmışlardır. Aynı zamanda, bu alanlar insanların doğayla iç içe yaşamasına olanak tanımış ve kültürel mirasın oluşmasına katkıda bulunmuştur.
 

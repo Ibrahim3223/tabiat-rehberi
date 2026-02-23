@@ -28,7 +28,7 @@ wikidata_id: "Q31557759"
 
 # Ahlatlıbayır Tepesi
 
-Ahlatlıbayır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğal alan olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeyi gezmek isteyenler için önemli bir destinasyon. Tepenin etrafındaki manzara, geniş çayırlar ve ormanlık alanlarla kaplı. Ahlatlıbayır Tepesi, özellikle doğa severler ve yürüyüş tutkunları arasında popüler bir yer. Tepenin zirvesine çıktığınızda, çevreyi kuşatan geniş bir manzara sizi bekliyor.
+Ahlatlıbayır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğal alan olarak dikkat çekiyor. Tepenin etrafındaki manzara, geniş çayırlar ve ormanlık alanlarla kaplı. Ahlatlıbayır Tepesi, özellikle doğa severler ve yürüyüş tutkunları arasında popüler bir yer. Tepenin zirvesine çıktığınızda, çevreyi kuşatan geniş bir manzara sizi bekliyor.
 
 ## Tarihçe
 

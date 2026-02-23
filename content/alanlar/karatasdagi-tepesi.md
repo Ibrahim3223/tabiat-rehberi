@@ -28,7 +28,7 @@ wikidata_id: "Q31387787"
 
 # Karataşdağı Tepesi
 
-Karataşdağı Tepesi, Kars ilinin eşsiz doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir noktadır. Ziyaretçiler, bu tepeye çıktıklarında, bölgenin tarihi ve coğrafi güzelliklerini bir arada görebilirler. Karataşdağı Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir. Bu tepe, Kars'ın önemli turistik noktalarından biri olarak bilinir ve ziyaretçilere benzersiz bir deneyim sunar.
+Karataşdağı Tepesi, Kars ilinin eşsiz doğal güzelliklerinden biridir. Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir noktadır. Ziyaretçiler, bu tepeye çıktıklarında, bölgenin tarihi ve coğrafi güzelliklerini bir arada görebilirler. Karataşdağı Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir. Bu tepe, Kars'ın önemli turistik noktalarından biri olarak bilinir ve ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karataşdağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Karataşdağı Tepesi, Kars ilinin coğrafi yapısını gözlemlemek için ideal bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu tepe, ziyaretçilerine bölge hakkında geniş bir perspektif sunar. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. İklim, bölgeye özgü karasal iklim özellikleri taşır ve mevsimsel değişimler, ziyaretçilere farklı deneyimler sunar. Karataşdağı Tepesi, Kars'ın coğrafi güzelliklerinin bir parçasıdır ve ziyaretçiler, buradaki doğal güzellikleri keşfederek bölge hakkında daha fazla bilgi edinebilirler. Bu tepe, doğa severler için bir cennet olarak hizmet vermekte ve ziyaretçilere bölge hakkında geniş bir perspektif sunmaktadır. Tepenin yüksekliği, ziyaretçilere bölgeyi panoramik olarak izleme imkanı tanır ve bu, ziyaretçilere benzersiz bir deneyim sunar.
+Karataşdağı Tepesi, Kars ilinin coğrafi yapısını gözlemlemek için ideal bir noktadır. Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu tepe, ziyaretçilerine bölge hakkında geniş bir perspektif sunar. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. İklim, bölgeye özgü karasal iklim özellikleri taşır ve mevsimsel değişimler, ziyaretçilere farklı deneyimler sunar. Karataşdağı Tepesi, Kars'ın coğrafi güzelliklerinin bir parçasıdır ve ziyaretçiler, buradaki doğal güzellikleri keşfederek bölge hakkında daha fazla bilgi edinebilirler. Bu tepe, doğa severler için bir cennet olarak hizmet vermekte ve ziyaretçilere bölge hakkında geniş bir perspektif sunmaktadır. Tepenin yüksekliği, ziyaretçilere bölgeyi panoramik olarak izleme imkanı tanır ve bu, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

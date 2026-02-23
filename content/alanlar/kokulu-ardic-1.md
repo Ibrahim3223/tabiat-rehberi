@@ -23,7 +23,7 @@ wikidata_id: "Q108228073"
 
 # Kokulu Ardic 1
 
-Kokulu Ardic 1 milli parkı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan önemli bir alandır. 140 hektarlık bir alan üzerinde kurulan bu park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu bölge, ziyaretçilerini doğanın güzelliği ve çeşitliliği ile baş başa bırakır. Milli parkın içinde bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğa hakkında derinlemesine bilgi edinme fırsatı sunar. Kokulu Ardic 1, özellikle doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul edilebilir.
+Kokulu Ardic 1 milli parkı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan önemli bir alandır. Bu bölge, ziyaretçilerini doğanın güzelliği ve çeşitliliği ile baş başa bırakır. Milli parkın içinde bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğa hakkında derinlemesine bilgi edinme fırsatı sunar. Kokulu Ardic 1, özellikle doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Kokulu Ardic 1 milli parkının tarihi geçmişi, bölgenin doğal güzellikleri
 
 ## Coğrafya
 
-Kokulu Ardic 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Parkın coğrafyası, çeşitli bitki türleri ve hayvanların yaşam alanı olan farklı ekosistemleri barındırır. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerine sahiptir. Parkın yer aldığı alan, 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliği ve çeşitliliği hakkında derinlemesine bilgi edinme fırsatı sunar. Parkın çevresi, doğal güzellikleri ve zengin fauna ile çevrilidir.
+Kokulu Ardic 1 milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Parkın coğrafyası, çeşitli bitki türleri ve hayvanların yaşam alanı olan farklı ekosistemleri barındırır. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerine sahiptir. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliği ve çeşitliliği hakkında derinlemesine bilgi edinme fırsatı sunar. Parkın çevresi, doğal güzellikleri ve zengin fauna ile çevrilidir.
 
 ## Flora ve Fauna
 

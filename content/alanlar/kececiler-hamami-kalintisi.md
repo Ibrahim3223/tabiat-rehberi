@@ -1,7 +1,7 @@
 ---
 title: "Keçeciler Hamamı Kalıntısı"
 date: "2026-01-09T23:17:07.882Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738961"
 
 # Keçeciler Hamamı Kalıntısı
 
-Keçeciler Hamamı Kalıntısı, İstanbul'un tarihi dokusunu taşıyan önemli bir noktadır. Fatih ilçesinde yer alan bu tarihi eser, Marmara Bölgesi'nin önemli kültürel varlıklarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilere geniş bir tarihi alan sunar. Bu hamam kalıntısı, İstanbul'un geçmişini keşfetmek isteyenler için önemli bir destinasyondur.
+Keçeciler Hamamı Kalıntısı, İstanbul'un tarihi dokusunu taşıyan önemli bir noktadır. Fatih ilçesinde yer alan bu tarihi eser, Marmara Bölgesi'nin önemli kültürel varlıklarından biridir. Bu hamam kalıntısı, İstanbul'un geçmişini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

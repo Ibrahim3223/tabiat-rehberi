@@ -32,7 +32,7 @@ Kahramanmaraş'ın doğal güzelliklerinin arasında yer alan Koç Dağı, şehr
 
 ## Tarihçe
 
-Kahramanmaraş, tarihin sâu sayfalarında önemli bir yere sahip olan bir bölgedir. Bu bölge, çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuşlardır. 
+Kahramanmaraş, tarihin derin sayfalarında önemli bir yere sahip olan bir bölgedir. Bu bölge, çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuşlardır.
 
 Koç Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu tür bölgeler, yalnızca doğal güzellikleriyle değil, aynı zamanda tarih boyunca insanların yaşamlarını sürdürdükleri, yaylacılık ve hayvancılık yaptıkları yerler olarak da dikkat çeker. Ticaret yolları ve göç rotaları üzerinde bulunan bu alanlar, insan hareketliliği ve kültürel alışverişin önemli merkezleri olarak görev yapmışlardır.
 
@@ -50,10 +50,10 @@ Bölgenin su kaynakları açısından da önemli bir role sahip olan Koç Dağı
 
 ## Flora ve Fauna
 
-Koç Dağı'nın (Kahramanmaraş) flora ve fauna zenginliği, ziyaretçilerini bir doğa cennetine davet ediyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Koç Dağı'nın (Kahramanmaraş) flora ve fauna zenginliği, ziyaretçilerini bir doğa cennetine davet ediyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü:
-Koç Dağı'nın bitki örtüsü, maki türleri ve kuraklığa dayanıklı bitkilerle karakterize edilir. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. 
+Koç Dağı'nın bitki örtüsü, maki türleri ve kuraklığa dayanıklı bitkilerle karakterize edilir. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır.
 
 Yaban Hayatı:
 Dağın yükseklik zonalarında, çeşitli memeli ve kuş türleri yaşar. Göç mevsiminde, dağ yolları göçmen kuşlarla dolup taşar. Sürüngenler de, dağların kayalık alanlarında yaşarlar.

@@ -22,7 +22,7 @@ wikidata_id: "Q108228052"
 
 # Artvin Goktas-Dogu Ladini
 
-Artvin Goktas-Dogu Ladini Milli Parkı, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu yeşil cennet, ziyaretçilerini farklı bitki türleri ve hayvanlarla baş başa bırakır. Milli parkın sunduğu doğal güzellikler, ziyaretçilerin doğayla iç içe olmasını sağlar. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Milli parkın coğrafi konumu, ziyaretçilere farklı manzaralar sunar. Milli park, hem doğa severler hem de tarih meraklıları için ideal bir destinasyondur.
+ Bu yeşil cennet, ziyaretçilerini farklı bitki türleri ve hayvanlarla baş başa bırakır. Milli parkın sunduğu doğal güzellikler, ziyaretçilerin doğayla iç içe olmasını sağlar. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Milli parkın coğrafi konumu, ziyaretçilere farklı manzaralar sunar. Milli park, hem doğa severler hem de tarih meraklıları için ideal bir destinasyondur.
 
 ## Tarihçe
 

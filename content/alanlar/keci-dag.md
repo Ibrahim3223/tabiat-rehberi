@@ -51,7 +51,7 @@ Mevsimsel özelliklere bakıldığında, Keçi Dağ'ın iklimi Ankara'nın genel
 
 ## Flora ve Fauna
 
-Keçi Dağ, Ankara'nın göbeğinde yükselen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Keçi Dağ, Ankara'nın göbeğinde yükselen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki Örtüsü olarak step bitki örtüsü ve bozkır hakimdir. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar dağları geçit olarak kullanır.
 
 Yaban Hayatı olarak, dağ keçileri, yaban domuzları ve tilkiler gibi memeliler yaşamaktadır. Ayrıca, various kuş türleri ve sürüngenler de bu dağ ekosisteminin bir parçasıdır.

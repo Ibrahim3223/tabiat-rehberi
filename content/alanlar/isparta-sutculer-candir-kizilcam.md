@@ -22,7 +22,7 @@ wikidata_id: "Q108227652"
 
 # Isparta-Sutculer-Candir Kızılçam
 
-Isparta-Sutculer-Candir Kızılçam milli parkı, İç Anadolu Bölgesi'nin yeşillendirilmiş bir köşesi olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliğini gözler önüne seriyor. Sutculer ve Candir gibi köylerin yakınında yer alan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Isparta'nın coğrafi konumu, bu bölgeyi hem yerlilerin hem de turistlerin ilgisini çeken bir nokta haline getiriyor. Doğal güzellikleri, zengin flora ve fauna çeşitliliği ile Isparta-Sutculer-Candir Kızılçam, doğa severlerin kaçırmaması gereken bir destinasyon olarak dikkat çekiyor.
+Isparta-Sutculer-Candir Kızılçam milli parkı, İç Anadolu Bölgesi'nin yeşillendirilmiş bir köşesi olarak karşımıza çıkıyor. Sutculer ve Candir gibi köylerin yakınında yer alan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Isparta'nın coğrafi konumu, bu bölgeyi hem yerlilerin hem de turistlerin ilgisini çeken bir nokta haline getiriyor. Doğal güzellikleri, zengin flora ve fauna çeşitliliği ile Isparta-Sutculer-Candir Kızılçam, doğa severlerin kaçırmaması gereken bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Isparta-Sutculer-Candir Kızılçam milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Isparta-Sutculer-Candir Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgedir. Parkın coğrafi yapısı, dağlık ve engebeli arazilerle çevrilidir. Bölgenin iklimi, karasal iklim özellikleri gösterir ve dört mevsim belirgin olarak yaşanır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Milli parkın etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta ve bölgenin yeşillendirilmesine katkıda bulunmaktadırlar. Isparta-Sutculer-Candir Kızılçam milli parkı, 140 hektarlık bir alan üzerinde kurulmuş olup, bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere doğayı keşfetmek için geniş bir olanak sunmaktadır.
+Isparta-Sutculer-Candir Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgedir. Parkın coğrafi yapısı, dağlık ve engebeli arazilerle çevrilidir. Bölgenin iklimi, karasal iklim özellikleri gösterir ve dört mevsim belirgin olarak yaşanır. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir. Milli parkın etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta ve bölgenin yeşillendirilmesine katkıda bulunmaktadırlar. Bu geniş alan, ziyaretçilere doğayı keşfetmek için geniş bir olanak sunmaktadır.
 
 ## Flora ve Fauna
 

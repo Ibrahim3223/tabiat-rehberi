@@ -28,7 +28,7 @@ wikidata_id: "Q31389300"
 
 # Hatunkaya Deresi
 
-Hatunkaya Deresi, Malatya'nın doğa harikalarından biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeyi kapsayan bu doğal güzellik, ziyaretçilerini büyüleyici bir atmosfere davet ediyor. Derenin kenarında bulunan ağaçlar ve yeşil alanlar, hem göz hem de ruh için bir şifa kaynağı oluyor. Bu bölge, hem doğa severler hem de fotoğraf çekmek isteyenler için ideal bir destinasyon.
+Hatunkaya Deresi, Malatya'nın doğa harikalarından biri olarak karşımıza çıkıyor. Derenin kenarında bulunan ağaçlar ve yeşil alanlar, hem göz hem de ruh için bir şifa kaynağı oluyor. Bu bölge, hem doğa severler hem de fotoğraf çekmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hatunkaya Deresi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Hatunkaya Deresi, Doğu Anadolu Bölgesi'nin Malatya şehrinde bulunuyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. Derenin etrafında bulunan dağlar, yeşil alanlar ve ormanlar, bu bölgenin doğal güzelliğini artırıyor. Derenin kenarında bulunan ağaçlar, mevsimsel olarak değişen renkleriyle ziyaretçilere renkli bir manzara sunuyor. Bu bölge, iklim olarak karasal iklim özellikleri gösteriyor. Kışları soğuk ve karlı, yazları ise sıcak ve kurak olan bu bölge, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor. Hatunkaya Deresi, yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeyi kapsıyor ve 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor.
+Hatunkaya Deresi, Doğu Anadolu Bölgesi'nin Malatya şehrinde bulunuyor. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahip. Derenin etrafında bulunan dağlar, yeşil alanlar ve ormanlar, bu bölgenin doğal güzelliğini artırıyor. Derenin kenarında bulunan ağaçlar, mevsimsel olarak değişen renkleriyle ziyaretçilere renkli bir manzara sunuyor. Bu bölge, iklim olarak karasal iklim özellikleri gösteriyor. Kışları soğuk ve karlı, yazları ise sıcak ve kurak olan bu bölge, ziyaretçilerine dört mevsim boyunca farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Hatunkaya Deresi'ni ziyaret etmek, doğa severler için büyüleyici bir deneyim
 
 ## İlginç Bilgiler
 
-- Hatunkaya Deresi, 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeyi kapsıyor.
 - Bu bölge, doğa severler ve fotoğraf çekmek isteyenler için ideal bir destinasyon.
 - Derenin kenarında bulunan ağaçlar, mevsimsel olarak değişen renkleriyle ziyaretçilere renkli bir manzara sunuyor.
 - Hatunkaya Deresi, yılın dört mevsimi boyunca ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları en uygun zamanlardır.

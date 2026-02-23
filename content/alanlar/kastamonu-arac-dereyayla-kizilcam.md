@@ -22,7 +22,7 @@ wikidata_id: "Q108227657"
 
 # Kastamonu-Arac-Dereyayla Kızılçam
 
-Kastamonu-Arac-Dereyayla Kızılçam Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir yeşillik cenneti. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu milli park, Kastamonu'nun Arac ilçesinde, Dereyayla mevkinde bulunuyor ve doğal güzelliği ile dikkat çekiyor. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Kastamonu-Arac-Dereyayla Kızılçam Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir yeşillik cenneti. Bu milli park, Kastamonu'nun Arac ilçesinde, Dereyayla mevkinde bulunuyor ve doğal güzelliği ile dikkat çekiyor. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kastamonu-Arac-Dereyayla Kızılçam Milli Parkı, tarihi geçmişi ile de dikka
 
 ## Coğrafya
 
-Kastamonu-Arac-Dereyayla Kızılçam Milli Parkı, coğrafi olarak İç Anadolu Bölgesi'nin kuzeyinde, Kastamonu'nun Arac ilçesinde yer alıyor. Parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşuyor. Bu coğrafi yapı, çeşitli bitki türlerinin yetişmesine ve zengin fauna oluşumuna olanak sağlıyor. Parkın iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Parkın çevre düzenlemesi, doğal güzelliği korumak için büyük önem taşıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilere geniş bir alan sunuyor.
+Kastamonu-Arac-Dereyayla Kızılçam Milli Parkı, coğrafi olarak İç Anadolu Bölgesi'nin kuzeyinde, Kastamonu'nun Arac ilçesinde yer alıyor. Parkın coğrafi yapısı, dağlık ve engebeli arazilerden oluşuyor. Bu coğrafi yapı, çeşitli bitki türlerinin yetişmesine ve zengin fauna oluşumuna olanak sağlıyor. Parkın iklimi, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler belirgin. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Parkın çevre düzenlemesi, doğal güzelliği korumak için büyük önem taşıyor.
 
 ## Flora ve Fauna
 

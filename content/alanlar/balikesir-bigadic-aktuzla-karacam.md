@@ -22,7 +22,7 @@ wikidata_id: "Q108228286"
 
 # Balıkesir-Bigadic-Aktuzla-Karacam
 
-Balıkesir-Bigadic-Aktuzla-Karacam milli parkı, Marmara Bölgesi'nin doğal güzelliklerini sunan bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Milli parkın konumu, ziyaretçilere doğanın içinde bir kaçış imkânı sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösterir.
+Balıkesir-Bigadic-Aktuzla-Karacam milli parkı, Marmara Bölgesi'nin doğal güzelliklerini sunan bir alandır. Milli parkın konumu, ziyaretçilere doğanın içinde bir kaçış imkânı sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösterir.
 
 ## Tarihçe
 

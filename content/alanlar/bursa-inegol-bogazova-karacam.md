@@ -22,7 +22,7 @@ wikidata_id: "Q108227491"
 
 # Bursa-Inegol-Bogazova Karacam
 
-Bursa-Inegol-Bogazova Karacam milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini koruyor. Milli parkın kuruluş amacı, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak. Ziyaretçiler, burada doğanın güzelliği ile iç içe olabilir ve yaban hayatını yakından tanıyabilirler.
+Bursa-Inegol-Bogazova Karacam milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Milli parkın kuruluş amacı, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak. Ziyaretçiler, burada doğanın güzelliği ile iç içe olabilir ve yaban hayatını yakından tanıyabilirler.
 
 ## Tarihçe
 

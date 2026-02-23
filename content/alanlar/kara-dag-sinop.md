@@ -49,11 +49,11 @@ Sinop'un diğer doğal güzelliklerine yakınlığı ile dikkat çeken Kara Dağ
 
 ## Flora ve Fauna
 
-Kara Dağ, Sinop'un nemli iklimi ve gür ormanlarıyla yüksek biyoçeşitliliğe sahip bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kara Dağ, Sinop'un nemli iklimi ve gür ormanlarıyla yüksek biyoçeşitliliğe sahip bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü olarak, ilkbaharın başlangıcında dağ yamaçları renkli çiçeklerle donanır. Sonbaharda, ormanlar sarı, turuncu ve kırmızı tonlara bürünür. Dağın yükseklik zonalarında, alpin flora hakimdir. 
+Bitki örtüsü olarak, ilkbaharın başlangıcında dağ yamaçları renkli çiçeklerle donanır. Sonbaharda, ormanlar sarı, turuncu ve kırmızı tonlara bürünür. Dağın yükseklik zonalarında, alpin flora hakimdir.
 
-Yaban hayatı açısından,	memeliler ve kuşlar dağın ekosisteminin önemli bileşenleridir. Göç mevsiminde, çeşitli kuş türleri bu dağları geçiş noktaları olarak kullanır. Sürüngenler de dağın kayalık alanlarında yaşamlarını sürdürür. 
+Yaban hayatı açısından,	memeliler ve kuşlar dağın ekosisteminin önemli bileşenleridir. Göç mevsiminde, çeşitli kuş türleri bu dağları geçiş noktaları olarak kullanır. Sürüngenler de dağın kayalık alanlarında yaşamlarını sürdürür.
 
 Ekolojik değer olarak, Kara Dağ, bölgenin su döngüsünü düzenlemede ve biyoçeşitliliğin korunmasında önemli bir rol oynar. Bu nedenle, dağın korunması ve sürdürülebilir kullanımı büyük önem taşır.
 

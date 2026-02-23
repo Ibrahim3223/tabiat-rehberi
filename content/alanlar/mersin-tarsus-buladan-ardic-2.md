@@ -22,7 +22,7 @@ wikidata_id: "Q108227230"
 
 # Mersin-Tarsus-Buladan Ardic 2
 
-Mersin-Tarsus-Buladan Ardic 2 milli parkı, Mersin'in Tarsus ilçesinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir yeşil alandır. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Mersin-Tarsus-Buladan Ardic 2 milli parkı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Bu milli park, Mersin'in turizm değerleri arasında önemli bir yer tutuyor.
+ Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Mersin-Tarsus-Buladan Ardic 2 milli parkı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Bu milli park, Mersin'in turizm değerleri arasında önemli bir yer tutuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-Tarsus-Buladan Ardic 2 milli parkının tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Mersin-Tarsus-Buladan Ardic 2 milli parkı, Mersin'in Tarsus ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi konumu itibariyle, ziyaretçilerine doğanın güzelliğini sunuyor. Milli parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, iklim koşulları ve çevre faktörleri, bu bölgede yaşayan canlıları ve bitkileri şekillendirmiştir. Mersin-Tarsus-Buladan Ardic 2 milli parkı, ziyaretçilerini bu doğal güzelliğin içine çekerek, doğa ile baş başa bırakıyor.
+Mersin-Tarsus-Buladan Ardic 2 milli parkı, Mersin'in Tarsus ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Milli parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, iklim koşulları ve çevre faktörleri, bu bölgede yaşayan canlıları ve bitkileri şekillendirmiştir. Mersin-Tarsus-Buladan Ardic 2 milli parkı, ziyaretçilerini bu doğal güzelliğin içine çekerek, doğa ile baş başa bırakıyor.
 
 ## Flora ve Fauna
 

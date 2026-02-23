@@ -28,7 +28,7 @@ wikidata_id: "Q31390720"
 
 # Ambarlık Tepesi
 
-Ambarlık Tepesi, Yozgat ilinin sınırları içinde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve zengin fauna yaşamına ev sahipliği yapıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla baş başa bırakıyor. Tepenin üzerinde, tarihi geçmişiyle dikkat çeken bazı kalıntılar bulunmakta. Bu kalıntılar, yüzyıllar boyunca bu bölgede yaşamış olan medeniyetlerin izlerini taşıyor.
+Ambarlık Tepesi, Yozgat ilinin sınırları içinde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve zengin fauna yaşamına ev sahipliği yapıyor. Tepenin üzerinde, tarihi geçmişiyle dikkat çeken bazı kalıntılar bulunmakta. Bu kalıntılar, yüzyıllar boyunca bu bölgede yaşamış olan medeniyetlerin izlerini taşıyor.
 
 ## Tarihçe
 

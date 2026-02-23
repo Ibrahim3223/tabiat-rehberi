@@ -32,7 +32,7 @@ Burdur'un kırsal manzarası arasında gizli bir hazine olan İlyasserancı Dağ
 
 ## Tarihçe
 
-İlyasserancı Dağı, Burdur'un tarihi zenginliklerine sahip bir bölgede yer alır. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yaşadığı önemli bir coğrafyadır. Antik Çağ'da Likya ve Pisidya uygarlıklarının izlerini taşıyan Burdur, daha sonra Roma ve Bizans dönemlerini yaşamıştır. 
+İlyasserancı Dağı, Burdur'un tarihi zenginliklerine sahip bir bölgede yer alır. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yaşadığı önemli bir coğrafyadır. Antik Çağ'da Likya ve Pisidya uygarlıklarının izlerini taşıyan Burdur, daha sonra Roma ve Bizans dönemlerini yaşamıştır.
 
 Tarih boyunca, İlyasserancı Dağı gibi doğal alanlar, Türkiye'de önemli bir role sahip olmuştur. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlamıştır. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan halkın geleneksel uğraşlarından olmuş, dağların yüksek çayırları ve ormanları, hayvanların beslenmesi için elverişli alanlar sunmuştur. Ayrıca, İlyasserancı Dağı, ticaret yolları üzerinde bulunması nedeniyle, tarihi ticaret rotalarının önemli bir parçası olmuştur. Bu doğal güzellikler, aynı zamanda insanları çekerek, bölgenin ekonomi ve sosyal gelişimine katkıda bulunmuştur.
 

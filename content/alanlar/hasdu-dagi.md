@@ -50,7 +50,7 @@ Mevsimsel değişimlerin belirgin olduğu bir bölgede yer alan Haşdu Dağı, k
 
 ## Flora ve Fauna
 
-Haşdu Dağı, Elazığ'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yüksek dağ ekolojisine özgü bitki türleriyle bezelidir. 
+Haşdu Dağı, Elazığ'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yüksek dağ ekolojisine özgü bitki türleriyle bezelidir.
 
 Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağların yüksek zirvelerinde dolaşırken, kartallar gökyüzünde süzülür. Sürüngenler ve amfibiler de bu dağ ekosisteminin bir parçasıdır. Sonbaharda, göçmen kuşlar dağları ziyaret eder, kışın ise dağlar karla kaplanır ve bir kış cenneti haline gelir.
 

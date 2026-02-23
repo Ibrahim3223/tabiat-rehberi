@@ -1,7 +1,7 @@
 ---
 title: "Tirit Baba Türbesi"
 date: "2026-01-10T06:21:42.842Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391824"
 
 # Tirit Baba Türbesi
 
-Tirit Baba Türbesi, Marmara Bölgesi'nin en güzel illerinden biri olan Edirne'de bulunmaktadır. Bu bölgenin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Tirit Baba Türbesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir yeşil alan sunmaktadır. Tirit Baba Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini beklemektedir. Burada, tarihi yapıları, doğal güzellikleri ve bol oksijeni bir arada keşfetme mümkündür.
+Tirit Baba Türbesi, Marmara Bölgesi'nin en güzel illerinden biri olan Edirne'de bulunmaktadır. Bu bölgenin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Tirit Baba Türbesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Tirit Baba Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini beklemektedir. Burada, tarihi yapıları, doğal güzellikleri ve bol oksijeni bir arada keşfetme mümkündür.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tirit Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. 
 
 ## Coğrafya
 
-Tirit Baba Türbesi, Marmara Bölgesi'nin en güzel illerinden biri olan Edirne'de bulunmaktadır. Bu bölgenin coğrafi özellikleri, ziyaretçilerine geniş bir yeşil alan sunmaktadır. Tirit Baba Türbesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir yeşil alan sunmaktadır. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunmaktadır. Ziyaretçiler, bu bölgenin doğal güzelliklerini keşfederek, bol oksijeni ve güneşin tadını çıkarabilirler. Tirit Baba Türbesi, hem doğal hem de tarihi güzellikleriyle ziyaretçilerini beklemektedir. Bu bölgede, ziyaretçiler, çeşitli yürüyüş parkurları ve bisiklet yolları bulabilirler.
+Tirit Baba Türbesi, Marmara Bölgesi'nin en güzel illerinden biri olan Edirne'de bulunmaktadır. Bu bölgenin coğrafi özellikleri, ziyaretçilerine geniş bir yeşil alan sunmaktadır. Tirit Baba Türbesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunmaktadır. Ziyaretçiler, bu bölgenin doğal güzelliklerini keşfederek, bol oksijeni ve güneşin tadını çıkarabilirler. Tirit Baba Türbesi, hem doğal hem de tarihi güzellikleriyle ziyaretçilerini beklemektedir. Bu bölgede, ziyaretçiler, çeşitli yürüyüş parkurları ve bisiklet yolları bulabilirler.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Tirit Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini k
 - Tirit Baba Türbesi, Marmara Bölgesi'nin en güzel illerinden biri olan Edirne'de bulunmaktadır.
 - Bu bölgenin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır.
 - Tirit Baba Türbesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir yeşil alan sunmaktadır.
+
 - Tirit Baba Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini beklemektedir.

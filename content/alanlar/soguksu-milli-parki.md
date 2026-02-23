@@ -29,7 +29,7 @@ schema_type: "TouristAttraction"
 
 # Soğuksu Milli Parkı
 
-Soğuksu Milli Parkı, Ankara'nın Kızılcahamam ilçesinde yer alan ve yaklaşık 200 futbol sahası büyüklüğündeki 140 hektarlık bir alanı kapsayan doğal bir güzellik. Bu park, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliğinde. Parkın içerisinde bulunan yürüyüş yolları, ziyaretçilerin doğayı yakından keşfetmelerine olanak tanır. Soğuksu Milli Parkı, hem doğa severlerin hem de şehir hayatından kaçmak isteyenlerin ziyaret edebileceği bir destinasyon.
+ Bu park, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliğinde. Parkın içerisinde bulunan yürüyüş yolları, ziyaretçilerin doğayı yakından keşfetmelerine olanak tanır. Soğuksu Milli Parkı, hem doğa severlerin hem de şehir hayatından kaçmak isteyenlerin ziyaret edebileceği bir destinasyon.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Soğuksu Milli Parkı, ziyaretçilerine yılın her döneminde gezi imkanı suna
 ## İlginç Bilgiler
 
 - Soğuksu Milli Parkı, 140 hektarlık bir alanı kapsar.
-- Park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Soğuksu Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır.
 - Park, çeşitli bitki türleriyle kaplıdır ve zengin fauna çeşitliliği sunar.
 - Soğuksu Milli Parkı, Ankara'nın doğal güzelliklerini korumak için önemli bir role sahiptir.

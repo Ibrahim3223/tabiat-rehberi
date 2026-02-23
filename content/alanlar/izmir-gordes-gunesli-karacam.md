@@ -22,7 +22,7 @@ wikidata_id: "Q108227515"
 
 # Izmir-Gordes-Gunesli Karacam
 
-İzmir'in Ege Bölgesi'nde yer alan Gordes-Gunesli Karacam milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu güzel park, ziyaretçilerine doğanın güzelliğini ve sakinliğini keşfetme fırsatı sunuyor. İzmir'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Gordes-Gunesli Karacam milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu milli park, ziyaretçilerine hem doğa ile iç içe olmayı hem de huzurlu bir atmosferi deneyimleme şansı veriyor.
+ Bu güzel park, ziyaretçilerine doğanın güzelliğini ve sakinliğini keşfetme fırsatı sunuyor. İzmir'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Gordes-Gunesli Karacam milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu milli park, ziyaretçilerine hem doğa ile iç içe olmayı hem de huzurlu bir atmosferi deneyimleme şansı veriyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Gordes-Gunesli Karacam milli parkı, tarihi geçmişi ile dikkat çekiyor. Bu b�
 
 ## Coğrafya
 
-Gordes-Gunesli Karacam milli parkı, İzmir'in Ege Bölgesi'nde yer alıyor. Bu milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Gordes-Gunesli Karacam milli parkı, ziyaretçilerine hem doğa ile iç içe olmayı hem de huzurlu bir atmosferi deneyimleme şansı veriyor. Parkın iklimi, Ege Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Bu bölgede, genellikle ılıman ve yağışlı bir iklim hakim oluyor. Gordes-Gunesli Karacam milli parkı, ziyaretçilerine dört mevsim boyunca farklı güzellikleri sunuyor. İlkbahar ve sonbahar aylarında, parkın bitki örtüsü ve flora zenginleşiyor. Yaz aylarında, parkın sıcaklığı ve güneş ışığı artıyor. Kış aylarında, parkın manzarası ve atmosferi daha sakin ve huzurlu oluyor.
+Gordes-Gunesli Karacam milli parkı, İzmir'in Ege Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Gordes-Gunesli Karacam milli parkı, ziyaretçilerine hem doğa ile iç içe olmayı hem de huzurlu bir atmosferi deneyimleme şansı veriyor. Parkın iklimi, Ege Bölgesi'nin karakteristik iklimi ile benzerlik gösteriyor. Bu bölgede, genellikle ılıman ve yağışlı bir iklim hakim oluyor. Gordes-Gunesli Karacam milli parkı, ziyaretçilerine dört mevsim boyunca farklı güzellikleri sunuyor. İlkbahar ve sonbahar aylarında, parkın bitki örtüsü ve flora zenginleşiyor. Yaz aylarında, parkın sıcaklığı ve güneş ışığı artıyor. Kış aylarında, parkın manzarası ve atmosferi daha sakin ve huzurlu oluyor.
 
 ## Flora ve Fauna
 

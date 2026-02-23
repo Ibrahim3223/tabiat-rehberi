@@ -28,7 +28,7 @@ wikidata_id: "Q31390211"
 
 # Kayarak Tepesi
 
-Kayarak Tepesi, Burdur'un eşsiz doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve etwa 200 futbol sahası büyüklüğündedir. Burdur'un merkezine yakınlığıyla dikkat çeken Kayarak Tepesi, ziyaretçilerini muhteşem bir manzarayla karşılar. Tepenin eteklerinde bulunan köyler, geleneksel mimariyle dikkat çekerken, tepe itself, doğaseverler için bir cennet niteliğindedir. Kayarak Tepesi, hem yerli hem de yabancı turistlerin ilgisini çeken bir destinasyondur.
+Kayarak Tepesi, Burdur'un eşsiz doğal güzelliklerinden biridir. Burdur'un merkezine yakınlığıyla dikkat çeken Kayarak Tepesi, ziyaretçilerini muhteşem bir manzarayla karşılar. Tepenin eteklerinde bulunan köyler, geleneksel mimariyle dikkat çekerken, tepe itself, doğaseverler için bir cennet niteliğindedir. Kayarak Tepesi, hem yerli hem de yabancı turistlerin ilgisini çeken bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Kayarak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Kayarak Tepesi, Akdeniz Bölgesi'nin Burdur ilinde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve etwa 200 futbol sahası büyüklüğündedir. Tepenin eteklerinde bulunan köyler, geleneksel mimariyle dikkat çekerken, tepe itself, doğaseverler için bir cennet niteliğindedir. Kayarak Tepesi, Burdur'un merkezine yakınlığıyla dikkat çeker ve ziyaretçilerini muhteşem bir manzarayla karşılar. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, yaban hayatının çeşitliliğiyle dikkat çeker ve birçok canlıya ev sahipliği yapar. Kayarak Tepesi, hem doğal güzelliği hem de coğrafi konumuyla dikkat çeken bir destinasyondur.
+Kayarak Tepesi, Akdeniz Bölgesi'nin Burdur ilinde yer alır. Tepenin eteklerinde bulunan köyler, geleneksel mimariyle dikkat çekerken, tepe itself, doğaseverler için bir cennet niteliğindedir. Kayarak Tepesi, Burdur'un merkezine yakınlığıyla dikkat çeker ve ziyaretçilerini muhteşem bir manzarayla karşılar. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, yaban hayatının çeşitliliğiyle dikkat çeker ve birçok canlıya ev sahipliği yapar. Kayarak Tepesi, hem doğal güzelliği hem de coğrafi konumuyla dikkat çeken bir destinasyondur.
 
 ## Flora ve Fauna
 
-Kayarak Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, yaban hayatının çeşitliliğiyle tanınır ve birçok canlıya ev sahipliği yapar. Tepenin etrafında, farklı mevsimlerde farklı renklere bürünen çiçekler ve ağaçlar bulunur. Bu bölge, doğaseverler için bir cennet niteliğindedir ve birçok farklı türün yaşadığı bir ekosistemi barındırır. Kayarak Tepesi, hem doğal güzelliği hem de biyolojik çeşitliliğiyle dikkat çeken bir destinasyondur.
+ Bu bölge, yaban hayatının çeşitliliğiyle tanınır ve birçok canlıya ev sahipliği yapar. Tepenin etrafında, farklı mevsimlerde farklı renklere bürünen çiçekler ve ağaçlar bulunur. Bu bölge, doğaseverler için bir cennet niteliğindedir ve birçok farklı türün yaşadığı bir ekosistemi barındırır. Kayarak Tepesi, hem doğal güzelliği hem de biyolojik çeşitliliğiyle dikkat çeken bir destinasyondur.
 
 ## Ziyaret Bilgileri
 

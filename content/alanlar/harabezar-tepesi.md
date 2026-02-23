@@ -28,7 +28,7 @@ wikidata_id: "Q31521215"
 
 # Harabezar Tepesi
 
-Harabezar Tepesi, Diyarbakır'ın zengin tarihi ve doğal güzelliklerinin birleştiği noktalarından biri. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan ve 200 futbol sahası büyüklüğünde olan bir doğal alan. Ziyaretçiler, bu tepeye çıktıklarında, Diyarbakır'ın panoramik manzarasını izleme fırsatı buluyorlar. Ayrıca, bu tepenin etrafında bulunan tarihi yapılar ve kalıntılar, ziyaretçilere bu bölgenin tarihini anlatıyor.
+Harabezar Tepesi, Diyarbakır'ın zengin tarihi ve doğal güzelliklerinin birleştiği noktalarından biri. Ziyaretçiler, bu tepeye çıktıklarında, Diyarbakır'ın panoramik manzarasını izleme fırsatı buluyorlar. Ayrıca, bu tepenin etrafında bulunan tarihi yapılar ve kalıntılar, ziyaretçilere bu bölgenin tarihini anlatıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Harabezar Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçm
 
 ## Coğrafya
 
-Harabezar Tepesi, Diyarbakır'ın coğrafi yapısını gösteren önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan ve 200 futbol sahası büyüklüğünde olan bir doğal alan. Tepenin etrafında bulunan dağlar ve vadiler, bu bölgenin coğrafi yapısını etkiliyor. Ayrıca, bu tepenin etrafında bulunan nehirler ve göller, bu bölgenin su kaynaklarını oluşturuyor. Ziyaretçiler, bu tepeye çıktıklarında, Diyarbakır'ın coğrafi güzelliklerini izleme fırsatı buluyorlar. Bu tepenin etrafında bulunan çeşitli bitki türleri ve canlılar, bu bölgenin ekolojisini oluşturuyor.
+Harabezar Tepesi, Diyarbakır'ın coğrafi yapısını gösteren önemli bir nokta. Tepenin etrafında bulunan dağlar ve vadiler, bu bölgenin coğrafi yapısını etkiliyor. Ayrıca, bu tepenin etrafında bulunan nehirler ve göller, bu bölgenin su kaynaklarını oluşturuyor. Ziyaretçiler, bu tepeye çıktıklarında, Diyarbakır'ın coğrafi güzelliklerini izleme fırsatı buluyorlar. Bu tepenin etrafında bulunan çeşitli bitki türleri ve canlılar, bu bölgenin ekolojisini oluşturuyor.
 
 ## Flora ve Fauna
 

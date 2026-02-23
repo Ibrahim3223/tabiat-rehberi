@@ -23,7 +23,7 @@ wikidata_id: "Q124363441"
 
 # Karagözoğlu Şelalesi
 
-Karagözoğlu Şelalesi, Artvin ilinin merkezine yakın bir konumda yer alır. Bu doğal güzellik, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Şelalenin etrafı, çeşitli ağaç türleri ve yeşilliklerle dolu, ziyaretçileri doğanın kucağına davet eder. Bu bölge, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul edilebilir.
+Karagözoğlu Şelalesi, Artvin ilinin merkezine yakın bir konumda yer alır. Şelalenin etrafı, çeşitli ağaç türleri ve yeşilliklerle dolu, ziyaretçileri doğanın kucağına davet eder. Bu bölge, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 

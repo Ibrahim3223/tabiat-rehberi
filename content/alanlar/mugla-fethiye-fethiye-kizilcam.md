@@ -22,7 +22,7 @@ wikidata_id: "Q108228429"
 
 # Mugla-Fethiye-Fethiye- Kızılçam
 
-Muğla'nın Fethiye ilçesinde yer alan Kızılçam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçiler için doğanın güzelliklerini keşfetme fırsatı sunuyor. Parka gelenler, doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilir. Kızılçam Milli Parkı, Muğla'nın doğal güzellikleri arasında önemli bir yer tutuyor.
+ Bu alan, ziyaretçiler için doğanın güzelliklerini keşfetme fırsatı sunuyor. Parka gelenler, doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilir. Kızılçam Milli Parkı, Muğla'nın doğal güzellikleri arasında önemli bir yer tutuyor.
 
 ## Tarihçe
 

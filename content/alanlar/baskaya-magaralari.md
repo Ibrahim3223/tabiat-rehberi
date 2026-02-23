@@ -32,9 +32,9 @@ Mardin'in tarihi dokusu içinde yer alan Baskaya Mağaraları, coğrafyanın bin
 
 ## Tarihçe
 
-Mardin'in tarihi zenginliği, Baskaya Mağaraları gibi doğal harikaların da bir parçası olduğu geniş bir coğrafyayı kapsar. Bu bölgede, tarihin depthsinden günümüze kadar çeşitli uygarlıkların izlerini görme mümkün. Hitit, Asur, Roma ve Osmanlı gibi medeniyetler, Mardin'i önemli bir kültür ve ticaret merkezi haline getirdiler. 
+Mardin'in tarihi zenginliği, Baskaya Mağaraları gibi doğal harikaların da bir parçası olduğu geniş bir coğrafyayı kapsar. Bu bölgede, tarihin depthsinden günümüze kadar çeşitli uygarlıkların izlerini görme mümkün. Hitit, Asur, Roma ve Osmanlı gibi medeniyetler, Mardin'i önemli bir kültür ve ticaret merkezi haline getirdiler.
 
-Baskaya Mağaraları, Türkiye'deki diğer jeoparklar gibi, ülkemizin doğal mirasının önemli bir parçasını oluşturur. Bu tür doğal alanlar, sadece güzellikleri ile değil, aynı zamanda ekolojik dengenin korunması ve bilimsel araştırmalar için de büyük önem taşırlar. 
+Baskaya Mağaraları, Türkiye'deki diğer jeoparklar gibi, ülkemizin doğal mirasının önemli bir parçasını oluşturur. Bu tür doğal alanlar, sadece güzellikleri ile değil, aynı zamanda ekolojik dengenin korunması ve bilimsel araştırmalar için de büyük önem taşırlar.
 
 Yerel halk için, Baskaya Mağaraları ve çevresindeki bölgenin significance'si, yaylacılık ve hayvancılık faaliyetleri ile de bağlantılıdır. Bu doğal güzellikler, sadece turizm için değil, aynı zamanda bölgenin ekonomi ve kültürel yaşamının da bir parçasını oluşturur. İnsanlar, bu doğal alanları ziyaret ederek, hem doğal güzelliği keşfetmiş, hem de yerel ekonomiye katkıda bulunmuş olurlar.
 

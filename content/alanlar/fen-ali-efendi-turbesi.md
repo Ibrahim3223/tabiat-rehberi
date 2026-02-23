@@ -1,7 +1,7 @@
 ---
 title: "Fenâî Ali Efendi Türbesi"
 date: "2026-01-10T05:14:34.410Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391627"
 
 # Fenâî Ali Efendi Türbesi
 
-Fenâî Ali Efendi Türbesi, İstanbul'un Üsküdar ilçesinde yer alan tarihi bir türbe ve plajdır. Bu alan, Marmara Bölgesi'nin önemli doğal ve tarihi değerlerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte önemli bir doğal koruma alanı olarak kabul edilir. Türbenin tarihi geçmişi ve coğrafi konumu, ziyaretçilerine zengin bir deneyim sunar. Fenâî Ali Efendi Türbesi, hem tarihi hem de doğal güzellikleri ile dikkat çekici bir destinasyondur.
+Fenâî Ali Efendi Türbesi, İstanbul'un Üsküdar ilçesinde yer alan tarihi bir türbe ve plajdır. Bu alan, Marmara Bölgesi'nin önemli doğal ve tarihi değerlerinden biridir. Türbenin tarihi geçmişi ve coğrafi konumu, ziyaretçilerine zengin bir deneyim sunar. Fenâî Ali Efendi Türbesi, hem tarihi hem de doğal güzellikleri ile dikkat çekici bir destinasyondur.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Çanakkale Kent Müzesi"
 date: "2026-01-10T15:15:14.035Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Çanakkale (ilçe)"
@@ -30,7 +30,7 @@ wikidata_id: "Q127386167"
 
 # Çanakkale Kent Müzesi
 
-Çanakkale Kent Müzesi, Çanakkale ilinin kalbinde yer alan bir kültür ve tarih merkezidir. Çanakkale'nin zengin tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyondur. Müze, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere Çanakkale'nin tarihi ve kültürel zenginliklerini detalılı bir şekilde keşfetme fırsatı sunar. Müzenin içerisinde, tarihi eserler, sergi alanları ve çeşitli etkinliklerin düzenlendiği mekânlar bulunur. Çanakkale Kent Müzesi, şehrin tarihini ve kültürünü öğrenmek isteyenler için önemli bir merkez olarak hizmet vermektedir.
+Çanakkale Kent Müzesi, Çanakkale ilinin kalbinde yer alan bir kültür ve tarih merkezidir. Çanakkale'nin zengin tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyondur. Bu geniş alan, ziyaretçilere Çanakkale'nin tarihi ve kültürel zenginliklerini detalılı bir şekilde keşfetme fırsatı sunar. Müzenin içerisinde, tarihi eserler, sergi alanları ve çeşitli etkinliklerin düzenlendiği mekânlar bulunur. Çanakkale Kent Müzesi, şehrin tarihini ve kültürünü öğrenmek isteyenler için önemli bir merkez olarak hizmet vermektedir.
 
 ## Tarihçe
 

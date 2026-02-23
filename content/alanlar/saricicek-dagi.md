@@ -32,7 +32,7 @@ Ağrı'nın dağlık bölgesinde, Türkiye'nin doğusundaki bu doğal cennet, zi
 
 ## Tarihçe
 
-Ağrı bölgesi, tarihin derinliklerinde çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Sarıçiçek Dağı da bu bölgenin bir parçasıdır ve insan yerleşimlerinin, ticaret yollarının geçtiği bir alanı kaplar. Bu bölge, Urartular, Medler, Persler ve daha sonra da Osmanlı İmparatorluğu gibi birçok medeniyetin etkisi altında kalmıştır. 
+Ağrı bölgesi, tarihin derinliklerinde çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Sarıçiçek Dağı da bu bölgenin bir parçasıdır ve insan yerleşimlerinin, ticaret yollarının geçtiği bir alanı kaplar. Bu bölge, Urartular, Medler, Persler ve daha sonra da Osmanlı İmparatorluğu gibi birçok medeniyetin etkisi altında kalmıştır.
 Ağrı ve çevresinde yer alan doğal alanlar, yalnızca yerel halkın değil, aynı zamanda ticaret kervanlarının ve göçerlerin de önemli durak noktaları olmuşlardır. Bu alanlar, insanların hayvancılık ve yaylacılık faaliyetlerini sürdürdükleri yerler olarak da tarihsel bir öneme sahiptir. Sarıçiçek Dağı ve benzeri doğal alanlar, Türkiye'nin kültürel ve coğrafi mirasının önemli bir parçasını oluşturur. Bu bölgeler, sadece doğal güzellikleriyle değil, aynı zamanda tarihsel ve kültürel zenginlikleriyle de dikkat çekmektedir.
 
 ## Coğrafya
@@ -47,11 +47,11 @@ Bölgenin çevresel ilişkileri açısından bakıldığında, Sarıçiçek Dağ
 
 ## Flora ve Fauna
 
-Sarıçiçek Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, alpin çayırlar çiçeklerle donanır ve dağ eteklerinde sarı, beyaz, pembe renkler hakim olur. 
+Sarıçiçek Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, alpin çayırlar çiçeklerle donanır ve dağ eteklerinde sarı, beyaz, pembe renkler hakim olur.
 
-Bitki örtüsünü oluşturan hakim türler, yükseklik zonlarına göre değişir. Alpin flora, dağların yüksek kesimlerinde bulunur ve bu bölgede endemik türler de görülür. Mevsimsel değişimlere uyum sağlayan bu bitkiler, dağ ekosisteminin temelini oluşturur. 
+Bitki örtüsünü oluşturan hakim türler, yükseklik zonlarına göre değişir. Alpin flora, dağların yüksek kesimlerinde bulunur ve bu bölgede endemik türler de görülür. Mevsimsel değişimlere uyum sağlayan bu bitkiler, dağ ekosisteminin temelini oluşturur.
 
-Yaban hayatı da oldukça zengin olan Sarıçiçek Dağı, çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapar. Dağ keçileri, yaban keçileri ve ayılar gibi memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar, özellikle göç mevsimlerinde dağları ziyaret eder ve burada konaklar. Sürüngenler de, özellikle güneşli günlerde dağların kayalık kesimlerinde görülür. 
+Yaban hayatı da oldukça zengin olan Sarıçiçek Dağı, çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapar. Dağ keçileri, yaban keçileri ve ayılar gibi memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar, özellikle göç mevsimlerinde dağları ziyaret eder ve burada konaklar. Sürüngenler de, özellikle güneşli günlerde dağların kayalık kesimlerinde görülür.
 
 Sarıçiçek Dağı, yüksek dağ ekolojisi ve alpin çayırlar nedeniyle ekolojik olarak çok önemlidir. Bu alanın korunması, bölgedeki canlıların yaşam alanlarını koruma ve doğanın dengesini korumak için çok önemlidir.
 

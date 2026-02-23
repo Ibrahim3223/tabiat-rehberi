@@ -1,7 +1,7 @@
 ---
 title: "Uzun Hamam"
 date: "2026-01-09T23:25:47.317Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739070"
 
 # Uzun Hamam
 
-Uzun Hamam, Trabzon'un Bafra ilçesinde yer alan ve yaklaşık 140 hektarlık bir yeşil alana sahip olan bir plajdır. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş ve ferah bir ortam sunar. Uzun Hamam, özellikle yaz aylarında deniz ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon olarak dikkat çeker. Bu bölge, aynı zamanda doğa yürüyüşleri ve piknik için de elverişli bir ortam sunar.
+Uzun Hamam, Trabzon'un Bafra ilçesinde yer alan ve yaklaşık 140 hektarlık bir yeşil alana sahip olan bir plajdır. Uzun Hamam, özellikle yaz aylarında deniz ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyon olarak dikkat çeker. Bu bölge, aynı zamanda doğa yürüyüşleri ve piknik için de elverişli bir ortam sunar.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Uzun Hamam'ın tarihi geçmişi, bölgenin coğrafi ve kültürel özellikleriyl
 
 ## Coğrafya
 
-Uzun Hamam, Trabzon'un Bafra ilçesinde yer alan bir plajdır ve yaklaşık 140 hektarlık bir yeşil alana sahiptir. Bu bölge, Karadeniz kıyısında yer alır ve deniz kenarında uzun bir sahil şeridine sahiptir. Uzun Hamam'ın coğrafi konumu, ziyaretçilere deniz, güneş ve yeşilin keyfini çıkarma imkanı sunar. Bölge, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Uzun Hamam'ın iklimi, Karadeniz ikliminin özellikleri taşır ve bu nedenle yaz ayları serin ve yağışlı, kış ayları ise soğuk ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, bölgeyi doğa severler ve turistler için ideal bir destinasyon haline getirir.
+Uzun Hamam, Trabzon'un Bafra ilçesinde yer alan bir plajdır ve yaklaşık 140 hektarlık bir yeşil alana sahiptir. Bu bölge, Karadeniz kıyısında yer alır ve deniz kenarında uzun bir sahil şeridine sahiptir. Uzun Hamam'ın coğrafi konumu, ziyaretçilere deniz, güneş ve yeşilin keyfini çıkarma imkanı sunar. Uzun Hamam'ın iklimi, Karadeniz ikliminin özellikleri taşır ve bu nedenle yaz ayları serin ve yağışlı, kış ayları ise soğuk ve yağışlı geçer. Bu coğrafi ve iklimsel özellikler, bölgeyi doğa severler ve turistler için ideal bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 
-Uzun Hamam, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölge, özellikle Karadeniz kıyısında yer alan diğer bölgelere benzer şekilde, yeşilin ve mavinin tonlarını bir araya getiren bir manzaraya sahiptir. Uzun Hamam'da, mevsimsel değişimlere bağlı olarak farklı türlerde bitkiler ve hayvanlar bulunur. Bu bölge, aynı zamanda çeşitli kuş türleri ve diğer yaban hayvanları için important bir yaşam alanı olarak dikkat çeker. Ziyaretçiler, Uzun Hamam'da doğa yürüyüşleri yaparak bu zengin flora ve faunayı yakından görebilirler.
+ Bölge, özellikle Karadeniz kıyısında yer alan diğer bölgelere benzer şekilde, yeşilin ve mavinin tonlarını bir araya getiren bir manzaraya sahiptir. Uzun Hamam'da, mevsimsel değişimlere bağlı olarak farklı türlerde bitkiler ve hayvanlar bulunur. Bu bölge, aynı zamanda çeşitli kuş türleri ve diğer yaban hayvanları için important bir yaşam alanı olarak dikkat çeker. Ziyaretçiler, Uzun Hamam'da doğa yürüyüşleri yaparak bu zengin flora ve faunayı yakından görebilirler.
 
 ## Ziyaret Bilgileri
 

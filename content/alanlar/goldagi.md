@@ -22,7 +22,7 @@ wikidata_id: "Q108228157"
 
 # Göldağı
 
-Göldağı Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzelliktir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, çevreye uyum sağlayan yapılarıyla dikkat çekmektedir. Göldağı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak olarak hizmet vermektedir. Doğal güzellikleri, yürüyüş parkurları ve zengin fauna çeşitliliği ile Göldağı, doğa severlerin uğrak noktası haline gelmiştir.
+Göldağı Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzelliktir. Göldağı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak olarak hizmet vermektedir. Doğal güzellikleri, yürüyüş parkurları ve zengin fauna çeşitliliği ile Göldağı, doğa severlerin uğrak noktası haline gelmiştir.
 
 ## Tarihçe
 

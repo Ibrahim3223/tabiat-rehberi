@@ -1,7 +1,7 @@
 ---
 title: "Kurt Şeyh Dede Türbesi"
 date: "2026-01-10T05:46:29.847Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -37,7 +37,7 @@ Kurt Şeyh Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca insanların d
 
 ## Coğrafya
 
-Kurt Şeyh Dede Türbesi, Kastamonu'nun Devrekani ilçesinde yer alır ve Karadeniz Bölgesi'nin önemli dini merkezlerinden biridir. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alır ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin bulunduğu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bölge, ormanlık alanlar, nehirler ve dağlar ile çevrilidir. İklim, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, nemli ve ılımandır. Bu türbe, ziyaretçilerine geniş bir alanda dini ve kültürel bir deneyim sunar ve Karadeniz Bölgesi'nin önemli dini merkezlerinden biridir.
+Kurt Şeyh Dede Türbesi, Kastamonu'nun Devrekani ilçesinde yer alır ve Karadeniz Bölgesi'nin önemli dini merkezlerinden biridir. Türbenin bulunduğu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bölge, ormanlık alanlar, nehirler ve dağlar ile çevrilidir. İklim, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, nemli ve ılımandır. Bu türbe, ziyaretçilerine geniş bir alanda dini ve kültürel bir deneyim sunar ve Karadeniz Bölgesi'nin önemli dini merkezlerinden biridir.
 
 ## Flora ve Fauna
 

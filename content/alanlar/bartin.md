@@ -23,7 +23,7 @@ wikidata_id: "Q108228689"
 
 # Bartın
 
-Bartın milli parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini karşılamaktadır. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğa severlerin keyifle dolaşabileceği bir ortam sunar. Parkın girişinde, ziyaretçileri Karadeniz Bölgesi'nin kendine özgü florası karşılar. Bu bölgede, çeşitli ağaç türleri ve bitki örtüsünün zenginliği, ziyaretçilerin dikkatini çeker. Bartın milli parkı, sadece doğa güzelliği ile değil, aynı zamanda tarihi geçmişi ile de dikkat çekmektedir. Bu bölgede, yüzyıllar boyunca farklı uygarlıkların izlerini görme mümkün.
+Bartın milli parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini karşılamaktadır. Parkın girişinde, ziyaretçileri Karadeniz Bölgesi'nin kendine özgü florası karşılar. Bu bölgede, çeşitli ağaç türleri ve bitki örtüsünün zenginliği, ziyaretçilerin dikkatini çeker. Bartın milli parkı, sadece doğa güzelliği ile değil, aynı zamanda tarihi geçmişi ile de dikkat çekmektedir. Bu bölgede, yüzyıllar boyunca farklı uygarlıkların izlerini görme mümkün.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31386834"
 
 # Kendal Tepesi
 
-Kendal Tepesi, Batman'ın yemyeşil doğasında yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alana sahiptir. Bu tepe, Güneydoğu Anadolu Bölgesi'nde yer alır ve ziyaretçilerini güzellikleri ile sürükleyen bir destinasyondur. Doğa severler için cennet gibi olan bu bölge, trekking ve doğa yürüyüşü gibi etkinliklere olanak tanıyan patikaları ile dikkat çeker. Ayrıca, bu tepeye çıkanlar, muhteşem manzaralara tanık olabilir ve bölgenin tarihi geçmişini keşfedebilir.
+ Bu tepe, Güneydoğu Anadolu Bölgesi'nde yer alır ve ziyaretçilerini güzellikleri ile sürükleyen bir destinasyondur. Doğa severler için cennet gibi olan bu bölge, trekking ve doğa yürüyüşü gibi etkinliklere olanak tanıyan patikaları ile dikkat çeker. Ayrıca, bu tepeye çıkanlar, muhteşem manzaralara tanık olabilir ve bölgenin tarihi geçmişini keşfedebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kendal Tepesi, tarihi geçmişi ile dikkat çeken bir bölgedir. Bu tepenin tari
 
 ## Coğrafya
 
-Kendal Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alır. Bu tepe, 140 hektarlık bir alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin eteklerinde ve civarında yer alan köyler ve yerleşim yerleri, bu bölgenin coğrafi yapısını etkiler. Ayrıca, tepenin yüksekliği ve çevresi, bölgenin iklimini etkileyen önemli faktörlerdir. Batman'ın iklimi, genel olarak kura ve sıcak bir iklime sahiptir, ancak Kendal Tepesi'nin yüksekliği nedeniyle, bu tepenin iklimi daha serin ve nemlidir. Tepenin coğrafi konumu, ziyaretçilere trekking ve doğa yürüyüşü gibi etkinliklere olanak tanıyan patikaları sunar.
+Kendal Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alır. Tepenin eteklerinde ve civarında yer alan köyler ve yerleşim yerleri, bu bölgenin coğrafi yapısını etkiler. Ayrıca, tepenin yüksekliği ve çevresi, bölgenin iklimini etkileyen önemli faktörlerdir. Batman'ın iklimi, genel olarak kura ve sıcak bir iklime sahiptir, ancak Kendal Tepesi'nin yüksekliği nedeniyle, bu tepenin iklimi daha serin ve nemlidir. Tepenin coğrafi konumu, ziyaretçilere trekking ve doğa yürüyüşü gibi etkinliklere olanak tanıyan patikaları sunar.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ wikidata_id: "Q116884391"
 
 # Duatepe
 
-Duatepe, Ankara'nın Polatlı ilçesinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan bir tepe alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, hem coğrafi açıdan hem de flora ve fauna çeşitliliği bakımından dikkat çekici bir bölgedir. Duatepe, ziyaretçilerine doğal güzelliği ve zengin ekosistemiyle birlikte, bir doğa belgeseli izler gibi hissettirecek bir deneyim sunar.
+Duatepe, Ankara'nın Polatlı ilçesinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan bir tepe alanıdır. Bu bölge, hem coğrafi açıdan hem de flora ve fauna çeşitliliği bakımından dikkat çekici bir bölgedir. Duatepe, ziyaretçilerine doğal güzelliği ve zengin ekosistemiyle birlikte, bir doğa belgeseli izler gibi hissettirecek bir deneyim sunar.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Duatepe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini 
 
 ## Flora ve Fauna
 
-Duatepe, flora ve fauna açısından oldukça zengin bir bölgedir. Bu bölgede, çeşitli bitki türleri yetişir ve yaban hayvanları yaşar. Duatepe'nin flora açısından zenginliği, bölgenin coğrafi yapısı ve iklim koşullarıyla ilgilidir. Bu bölge, mevsimsel değişimlere göre farklı bitki türlerinin yetişmesine elverişli bir ortam sunar. Duatepe'nin fauna açısından zenginliği, bölgenin coğrafi yapısı ve flora çeşitliliğiyle ilgilidir. Bu bölge, çeşitli yaban hayvanlarının yaşamasına uygun bir ortam sağlar. Duatepe, ekolojik dengesini korur ve flora ile fauna çeşitliliğini destekler.
+ Bu bölgede, çeşitli bitki türleri yetişir ve yaban hayvanları yaşar. Duatepe'nin flora açısından zenginliği, bölgenin coğrafi yapısı ve iklim koşullarıyla ilgilidir. Bu bölge, mevsimsel değişimlere göre farklı bitki türlerinin yetişmesine elverişli bir ortam sunar. Duatepe'nin fauna açısından zenginliği, bölgenin coğrafi yapısı ve flora çeşitliliğiyle ilgilidir. Bu bölge, çeşitli yaban hayvanlarının yaşamasına uygun bir ortam sağlar. Duatepe, ekolojik dengesini korur ve flora ile fauna çeşitliliğini destekler.
 
 ## Ziyaret Bilgileri
 
@@ -51,7 +51,7 @@ Duatepe'yi ziyaret etmek, doğa severler için unutulmaz bir deneyim olabilir. B
 ## İlginç Bilgiler
 
 - Duatepe, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir.
-- Bu bölge, flora ve fauna açısından oldukça zengin bir bölgedir.
+
 - Duatepe, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır.
 - Bu bölge, yüksek bir tepe olduğu için etrafındaki manzarayı net bir şekilde görebilme imkanı sunar.
 - Duatepe, yaban hayvanlarının yaşamasına uygun bir ortam sağlar.

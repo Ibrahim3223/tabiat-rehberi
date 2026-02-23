@@ -23,7 +23,7 @@ wikidata_id: "Q108228171"
 
 # Göktürk Göleti
 
-Göktürk Göleti, İç Anadolu Bölgesi'nin merkezinde yer alan bir milli par ve gölettir. 140 hektarlık geniş alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin ve turistlerin ilgisini çekmektedir. Göktürk Göleti, ziyaretçilerini büyüleyen bir doğal güzelliğe sahiptir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Göktürk Göleti, hem doğa hem de turizm açısından önemli bir destinasyondur.
+Göktürk Göleti, İç Anadolu Bölgesi'nin merkezinde yer alan bir milli par ve gölettir. Göktürk Göleti, ziyaretçilerini büyüleyen bir doğal güzelliğe sahiptir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Göktürk Göleti, hem doğa hem de turizm açısından önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Göktürk Göleti'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Göktürk Göleti, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. 140 hektarlık geniş alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu gölet, ziyaretçilerini doğanın güzelliği ile büyülüyor. Göktürk Göleti, çevresindeki dağlar ve ovalar ile birlikte bir bütün olarak düşünülmelidir. Bu bölge, iklimi ve coğrafi yapısı ile birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor. Göktürk Göleti'nin coğrafi konumu, İç Anadolu Bölgesi'nin merkezinde yer alması, bu alanın ulaşım açısından da önemli olmasını sağlıyor. Göktürk Göleti, çevresindeki diğer doğal güzelliklerle birlikte, bir bütün olarak düşünülmesi gereken bir alandır.
+Göktürk Göleti, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Göktürk Göleti, çevresindeki dağlar ve ovalar ile birlikte bir bütün olarak düşünülmelidir. Bu bölge, iklimi ve coğrafi yapısı ile birlikte, ziyaretçilerine benzersiz bir deneyim sunuyor. Göktürk Göleti'nin coğrafi konumu, İç Anadolu Bölgesi'nin merkezinde yer alması, bu alanın ulaşım açısından da önemli olmasını sağlıyor. Göktürk Göleti, çevresindeki diğer doğal güzelliklerle birlikte, bir bütün olarak düşünülmesi gereken bir alandır.
 
 ## Flora ve Fauna
 

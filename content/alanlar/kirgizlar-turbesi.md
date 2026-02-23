@@ -1,7 +1,7 @@
 ---
 title: "Kırgızlar Türbesi"
 date: "2026-01-10T05:54:30.209Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q122987161"
 
 # Kırgızlar Türbesi
 
-Kırgızlar Türbesi, İznik'in tarihi ve doğal güzelliklerini bir arada sunan bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İznik Gölü'nün kıyısında yer almaktadır. Bu bölgede, tarihi türbeler ve.camiler ile doğal güzelliklerin bir arada olduğu bir atmosfer sizi bekliyor. İznik'in tarihi geçmişi ve doğal güzellikleri, ziyaretçilere benzersiz bir deneyim sunuyor.
+Kırgızlar Türbesi, İznik'in tarihi ve doğal güzelliklerini bir arada sunan bir plajdır. Bu bölgede, tarihi türbeler ve.camiler ile doğal güzelliklerin bir arada olduğu bir atmosfer sizi bekliyor. İznik'in tarihi geçmişi ve doğal güzellikleri, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

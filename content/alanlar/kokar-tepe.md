@@ -28,7 +28,7 @@ wikidata_id: "Q31386113"
 
 # Kokar Tepe
 
-Kokar Tepe, İzmir'in Ege Bölgesi'nde yer alan ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu bölge, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Kokar Tepe, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kokar Tepe, doğa severlerin ve tarih meraklılarının buluşma noktası olarak dikkat çekiyor.
+ Bu bölge, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Kokar Tepe, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kokar Tepe, doğa severlerin ve tarih meraklılarının buluşma noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kokar Tepe'nin tarihi geçmişi, yüzyıllar boyunca farklı uygarlıkların etk
 
 ## Coğrafya
 
-Kokar Tepe, İzmir'in Ege Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Kokar Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı hava koşulları görülüyor. Kış aylarında yağmur ve serin hava, yaz aylarında ise sıcak ve güneşli bir iklim hakim. Kokar Tepe, coğrafi konumu itibariyle ziyaretçilerine zengin bir deneyim sunuyor. Bu bölgede, trekking ve doğa yürüyüşleri yapma mümkün.
+Kokar Tepe, İzmir'in Ege Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Kokar Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı hava koşulları görülüyor. Kış aylarında yağmur ve serin hava, yaz aylarında ise sıcak ve güneşli bir iklim hakim. Kokar Tepe, coğrafi konumu itibariyle ziyaretçilerine zengin bir deneyim sunuyor. Bu bölgede, trekking ve doğa yürüyüşleri yapma mümkün.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kokar Tepe'yi ziyaret etmek, doğa severler ve tarih meraklıları için unutulm
 
 ## İlginç Bilgiler
 
-- Kokar Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Kokar Tepe, yılın her dönemi ziyaret edilebilir.
 - Bahar ve yaz ayları, trekking ve doğa yürüyüşleri için en uygun zamanlar.

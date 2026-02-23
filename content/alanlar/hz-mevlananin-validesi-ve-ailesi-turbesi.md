@@ -1,7 +1,7 @@
 ---
 title: "Hz. Mevlana’nın Validesi ve Ailesi Türbesi"
 date: "2026-01-10T07:03:44.958Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390850"
 
 # Hz. Mevlana’nın Validesi ve Ailesi Türbesi
 
-Hz. Mevlana’nın Validesi ve Ailesi Türbesi, Karaman ilinin merkezinde yer alan bir türbe ve dini merkez olarak kabul edilir. Bu türbe, Mevlana'nın annesi ve ailesinin mezarlarını barındırmaktadır. Türbenin tarihi geçmişi, Mevlana'nın yaşamı ve ailesi ile yakından ilgilidir. Ziyaretçiler, bu türbeyi ziyaret ederek Mevlana'nın ailesinin hayatını ve yaşamını daha yakından öğrenebilirler. 140 hektarlık bir alana kurulan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+Hz. Mevlana’nın Validesi ve Ailesi Türbesi, Karaman ilinin merkezinde yer alan bir türbe ve dini merkez olarak kabul edilir. Bu türbe, Mevlana'nın annesi ve ailesinin mezarlarını barındırmaktadır. Türbenin tarihi geçmişi, Mevlana'nın yaşamı ve ailesi ile yakından ilgilidir. Ziyaretçiler, bu türbeyi ziyaret ederek Mevlana'nın ailesinin hayatını ve yaşamını daha yakından öğrenebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hz. Mevlana’nın Validesi ve Ailesi Türbesi'nin tarihi geçmişi, Mevlana'nı
 
 ## Coğrafya
 
-Hz. Mevlana’nın Validesi ve Ailesi Türbesi, Karaman ilinin merkezinde yer alan bir bölgede bulunmaktadır. Türbe, 140 hektarlık bir alana kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin çevresi, tarihi ve kültürel değerlere sahip önemli yapılardan oluşmaktadır. Karaman ilinin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Bölge, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklime sahiptir. Türbe, ziyaretçiler tarafından yılın her döneminde ziyaret edilebilir, ancak en uygun ziyaret zamanı ilkbahar ve sonbahar aylarıdır.
+Hz. Mevlana’nın Validesi ve Ailesi Türbesi, Karaman ilinin merkezinde yer alan bir bölgede bulunmaktadır. Türbenin çevresi, tarihi ve kültürel değerlere sahip önemli yapılardan oluşmaktadır. Karaman ilinin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik göstermektedir. Bölge, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklime sahiptir. Türbe, ziyaretçiler tarafından yılın her döneminde ziyaret edilebilir, ancak en uygun ziyaret zamanı ilkbahar ve sonbahar aylarıdır.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Hz. Mevlana’nın Validesi ve Ailesi Türbesi'ni ziyaret etmek, Mevlana'nın ai
 - Mevlana'nın annesi ve ailesi, Karaman bölgesinde önemli bir role sahip olmuştur.
 - Türbe, yüzyıllar boyunca ziyaretçiler tarafından ziyaret edilmiş ve önemli bir dini merkez olarak kabul edilmiştir.
 - Bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir.
-- Türbe, 140 hektarlık bir alana kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+

@@ -22,11 +22,11 @@ wikidata_id: "Q108228585"
 
 # Balikesir-Korucu Kestane
 
-Balikesir-Korucu Kestane milli parkı, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle zengin fauna barındırıyor. Bu doğal güzelliği keşfetmek isteyenler, Burada hem doğayı huzurla iç içe yaşayabiliyor hem de birçok aktiviteye katılma fırsatı bulabiliyor. Konum itibariyle de ulaşımı oldukça rahat olan bu milli park, ziyaretçilerini bekliyor.
+Balikesir-Korucu Kestane milli parkı, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu doğal güzelliği keşfetmek isteyenler, Burada hem doğayı huzurla iç içe yaşayabiliyor hem de birçok aktiviteye katılma fırsatı bulabiliyor. Konum itibariyle de ulaşımı oldukça rahat olan bu milli park, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
-Balikesir-Korucu Kestane milli parkının tarihi geçmişi, yüzyıllar boyunca süregelen bir doğal miras olarak karşımıza çıkıyor. Bu bölgenin tarihi önemi, birçok medeniyetin burada yaşamış olması ve doğal güzelliğinin korunmasıyla da yakından ilgili. Tarihi dokusuyla birlikte, ziyaretçilerini zamanda yolculuğa çıkaran bu milli park, hem doğal güzelliği hem de tarihi önemiyle önemli bir kültür varlığı olarak göze çarpıyor. Yüzyıllar boyu birçok medeniyetin izlerini taşıyan bu park, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Balikesir-Korucu Kestane milli parkının tarihi geçmişi, yüzyıllar boyunca süregelen bir doğal miras olarak karşımıza çıkıyor. Bu bölgenin tarihi önemi, birçok medeniyetin burada yaşamış olması ve doğal güzelliğinin korunmasıyla da yakından ilgili. Tarihi dokusuyla birlikte, ziyaretçilerini zamanda yolculuğa çıkaran bu milli park, hem doğal güzelliği hem de tarihi önemiyle önemli bir kültür varlığı olarak göze çarpıyor.
 
 ## Coğrafya
 
@@ -34,7 +34,7 @@ Balikesir-Korucu Kestane milli parkı, coğrafi konumu itibariyle oldukça özel
 
 ## Flora ve Fauna
 
-Balikesir-Korucu Kestane milli parkı, flora ve fauna açısından oldukça zengin bir bölge olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna bir arada bulunuyor. Mevsimsel değişimlerle birlikte, parkın bitki örtüsü değişkenlik gösteriyor. Bahar aylarında çiçeklerin açmasıyla birlikte, park bir renk cümbüşüne dönüşüyor. Kış aylarında ise, karla kaplanan manzaralar ziyaretçilere farklı bir güzellik sunuyor. Fauna açısından da zengin olan parkta, birçok hayvan türüne rastlama mümkün. Bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor ve doğanın güzelliğini gözler önüne seriyor.
+ Burada, çeşitli bitki türleri ve zengin fauna bir arada bulunuyor. Mevsimsel değişimlerle birlikte, parkın bitki örtüsü değişkenlik gösteriyor. Bahar aylarında çiçeklerin açmasıyla birlikte, park bir renk cümbüşüne dönüşüyor. Kış aylarında ise, karla kaplanan manzaralar ziyaretçilere farklı bir güzellik sunuyor. Fauna açısından da zengin olan parkta, birçok hayvan türüne rastlama mümkün. Bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor ve doğanın güzelliğini gözler önüne seriyor.
 
 ## Ziyaret Bilgileri
 

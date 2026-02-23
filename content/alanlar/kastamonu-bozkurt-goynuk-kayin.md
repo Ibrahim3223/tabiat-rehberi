@@ -22,7 +22,7 @@ wikidata_id: "Q108227260"
 
 # Kastamonu-Bozkurt-Goynuk Kayin
 
-Kastamonu-Bozkurt-Goynuk Kayin milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu milli park, Kastamonu ilinin Bozkurt ve Göynük ilçelerinde yer alıyor. Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bu park, kayın ormanları ile ünlü. Kayın ormanları, Kastamonu'nun ekonomisi için önemli bir kaynak olması yanında, aynı zamanda bölgenin ekolojik dengesi için de kritik bir rol oynuyor. Milli parkın güzelliği, sadece kayın ormanları ile sınırlı değil, aynı zamanda burada yaşayan çeşitli canlılar ve bitki türleri ile de dikkat çekiyor.
+Kastamonu-Bozkurt-Goynuk Kayin milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu milli park, Kastamonu ilinin Bozkurt ve Göynük ilçelerinde yer alıyor. Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bu park, kayın ormanları ile ünlü. Kayın ormanları, Kastamonu'nun ekonomisi için önemli bir kaynak olması yanında, aynı zamanda bölgenin ekolojik dengesi için de kritik bir rol oynuyor. Milli parkın güzelliği, sadece kayın ormanları ile sınırlı değil, aynı zamanda burada yaşayan çeşitli canlılar ve bitki türleri ile de dikkat çekiyor.
 
 ## Tarihçe
 

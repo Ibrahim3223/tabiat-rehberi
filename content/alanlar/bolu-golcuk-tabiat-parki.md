@@ -23,7 +23,7 @@ wikidata_id: "Q108228158"
 
 # Bolu Gölcük Tabiat Parkı
 
-Bolu Gölcük Tabiat Parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu park, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için bir cennet olarak görülebiliyor. Gölcük Tabiat Parkı, aynı zamanda Bolu'nun doğal güzelliklerinin bir temsilcisi olarak karşımıza çıkıyor.
+Bolu Gölcük Tabiat Parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu park, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için bir cennet olarak görülebiliyor. Gölcük Tabiat Parkı, aynı zamanda Bolu'nun doğal güzelliklerinin bir temsilcisi olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

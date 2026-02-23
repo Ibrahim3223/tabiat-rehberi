@@ -29,11 +29,11 @@ wikidata_id: "Q123925327"
 
 # Kallikolone
 
-İç Anadolu Bölgesi'nin merkezinde yer alan Kallikolone, yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Kallikolone, ziyaretçilerini büyüleyen bir manzaraya sahip ve burada yapılan yürüyüşler, ziyaretçilere unutulmaz anlar yaşatıyor. Kallikolone, aynı zamanda bölgenin flora ve faunasını keşfetmek için ideal bir yer.
+İç Anadolu Bölgesi'nin merkezinde yer alan Kallikolone, yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Kallikolone, ziyaretçilerini büyüleyen bir manzaraya sahip ve burada yapılan yürüyüşler, ziyaretçilere unutulmaz anlar yaşatıyor. Kallikolone, aynı zamanda bölgenin flora ve faunasını keşfetmek için ideal bir yer.
 
 ## Tarihçe
 
-Kallikolone'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin kültürel mirasının önemli bir parçası haline gelmiştir. Bu tepe, bölgede yaşayan halkın dini ve kültürel törenlerinde önemli bir  oynamış ve hala bugün de önemli bir yer tutuyor. Kallikolone, aynı zamanda bölgenin históri ve arkeolojik açıdan zengin bir alanı ve buradaki kazılar, bölgenin tarihini aydınlatmaya yardımcı oluyor. Kallikolone, ziyaretçilerine hem doğal güzellikleri hem de tarihi ve kültürel mirası sunuyor.
+Kallikolone'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin kültürel mirasının önemli bir parçası haline gelmiştir. Bu tepe, bölgede yaşayan halkın dini ve kültürel törenlerinde önemli bir  oynamış ve hala bugün de önemli bir yer tutuyor. Kallikolone, aynı zamanda bölgenin tarihi ve arkeolojik açıdan zengin bir alanı ve buradaki kazılar, bölgenin tarihini aydınlatmaya yardımcı oluyor. Kallikolone, ziyaretçilerine hem doğal güzellikleri hem de tarihi ve kültürel mirası sunuyor.
 
 ## Coğrafya
 

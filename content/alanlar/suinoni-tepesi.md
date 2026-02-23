@@ -28,7 +28,7 @@ wikidata_id: "Q31546888"
 
 # Şuınonı Tepesi
 
-Şuınonı Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Bu bölge, 140 hektarlık geniş yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Siirt'in merkezine yakın konumuyla dikkat çeker. Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile ziyaretçileri bekliyor. Doğal güzellikleri, tarihi yapıları ve zengin fauna çeşitliliğiyle Şuınonı Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
+Şuınonı Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Siirt'in merkezine yakın konumuyla dikkat çeker. Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile ziyaretçileri bekliyor. Doğal güzellikleri, tarihi yapıları ve zengin fauna çeşitliliğiyle Şuınonı Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
 
 ## Tarihçe
 

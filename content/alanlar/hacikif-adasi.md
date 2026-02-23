@@ -54,7 +54,7 @@ Hacıâkif Adası, Konya'nın step bitki örtüsüne ve bozkırına ev sahipliğ
 
 Adanın yaban hayatı, deniz kuşları ve kıyı bitkileriyle birlikte, ekolojik bir bütünlük gösterir. Kış aylarında, göçmen kuşlar adayı ziyaret eder ve buradaki kaynaklara bağımlıdır. Ada, bu canlılar için önemli bir durak noktasıdır.
 
-Hacıâkif Adası, ekolojik değerinin yanı sıra, koruma altına alınması gereken bir alandır. İzole popülasyonlar ve deniz kuşları, adanın benzersiz karakterini oluşturur. Bu nedenle, adanın korunması ve gelecek nesiller için bảolanması önemlidir.
+Hacıâkif Adası, ekolojik değerinin yanı sıra, koruma altına alınması gereken bir alandır. İzole popülasyonlar ve deniz kuşları, adanın benzersiz karakterini oluşturur. Bu nedenle, adanın korunması ve gelecek nesiller için korunması önemlidir.
 
 ## Ziyaret Bilgileri
 

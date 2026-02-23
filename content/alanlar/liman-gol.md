@@ -33,7 +33,7 @@ Türkiye'nin çeşitli bölgelerinde bulunabilecek Liman Göl, özellikle ilimiz
 
 ## Tarihçe
 
-Liman Göl'ün bulunduğu bölge, tarihin sâu sayfalarında gizlidir. Bu topraklar, binlerce yıl önce, Hitit, Frig, Lidya ve Roma gibi uygarlıkların yaşadığı bir coğrafyada yer alır. Türkiye'nin doğal zenginliklerinin arasında önemli bir yer tutan göller, insanlık tarihinin en eski dönemlerinden beri insanların yaşamına ev sahipliği yapmışlardır.
+Liman Göl'ün bulunduğu bölge, tarihin derin sayfalarında gizlidir. Bu topraklar, binlerce yıl önce, Hitit, Frig, Lidya ve Roma gibi uygarlıkların yaşadığı bir coğrafyada yer alır. Türkiye'nin doğal zenginliklerinin arasında önemli bir yer tutan göller, insanlık tarihinin en eski dönemlerinden beri insanların yaşamına ev sahipliği yapmışlardır.
 
 Bu tür doğal alanlar, Türkiye'de tarih boyunca insanların yerleşim, tarım ve hayvancılık faaliyetleri için önemli merkezler olarak görev görmüşlerdir. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve sosyal yapısını şekillendirmiştir. Ayrıca, tarihi ticaret yolları üzerinde bulunan bu bölgeler, kültürel alışveriş ve etkileşimlerin de merkezi olmuştur.
 

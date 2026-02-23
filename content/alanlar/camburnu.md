@@ -23,7 +23,7 @@ wikidata_id: "Q108228028"
 
 # Çamburnu
 
-İç Anadolu Bölgesi'nin merkezinde yer alan Çamburnu milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Çamburnu milli parkı, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar bulunuyor. Parkın içinde, yürüyüş parkurları ve piknik alanları gibi imkanlar da mevcut.
+İç Anadolu Bölgesi'nin merkezinde yer alan Çamburnu milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Çamburnu milli parkı, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar bulunuyor. Parkın içinde, yürüyüş parkurları ve piknik alanları gibi imkanlar da mevcut.
 
 ## Tarihçe
 

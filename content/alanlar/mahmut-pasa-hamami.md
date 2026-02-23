@@ -1,7 +1,7 @@
 ---
 title: "Mahmut Paşa Hamamı"
 date: "2026-01-09T23:38:24.633Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739207"
 
 # Mahmut Paşa Hamamı
 
-Mahmut Paşa Hamamı, Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Şanlıurfa'nın Birecik ilçesinde yer alan bir tarihi hamam ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Mahmut Paşa Hamamı, tarihi geçmişi ve eşsiz doğasıyla turistlerin ilgisini çekmektedir. Bu alan, hem tarihi hem de doğal güzelliklerinin bir arada bulunmasıyla ziyaretçilerine benzersiz bir  sunar.
+Mahmut Paşa Hamamı, Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Şanlıurfa'nın Birecik ilçesinde yer alan bir tarihi hamam ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir. Mahmut Paşa Hamamı, tarihi geçmişi ve eşsiz doğasıyla turistlerin ilgisini çekmektedir. Bu alan, hem tarihi hem de doğal güzelliklerinin bir arada bulunmasıyla ziyaretçilerine benzersiz bir  sunar.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Mahmut Paşa Hamamı ve çevresinde, çeşitli bitki türleri ve zengin fauna bu
 
 ## Ziyaret Bilgileri
 
-Mahmut Paşa Hamamı, ziyaretçilerine birçok farklı aktivite seçeneği sunmaktadır. Bu bölgede, tarihi hamamın yanı sıra, plaj ve doğal güzellikler de bulunmaktadır. Ziyaretçiler, bu bölgede dinlenebilir, históriki yapıları gezebilir ve doğal güzelliği keşfedebilir. Mahmut Paşa Hamamı, ziyaretçilerine ayrıca birçok farklı türde yeme ve içecek seçeneği de sunmaktadır. Bu bölgede, özellikle yöresel lezzetler dikkat çekmektedir. Mahmut Paşa Hamamı, ziyaretçilerine konaklama imkanı da sunmaktadır. Bu bölgede, birçok farklı türde otel ve konaklama tesisi bulunmaktadır. Ziyaretçiler, bu bölgede konaklayarak, Mahmut Paşa Hamamı'nın güzelliğini ve tarihi atmosferini daha iyi keşfedebilir.
+Mahmut Paşa Hamamı, ziyaretçilerine birçok farklı aktivite seçeneği sunmaktadır. Bu bölgede, tarihi hamamın yanı sıra, plaj ve doğal güzellikler de bulunmaktadır. Ziyaretçiler, bu bölgede dinlenebilir, tarihi yapıları gezebilir ve doğal güzelliği keşfedebilir. Mahmut Paşa Hamamı, ziyaretçilerine ayrıca birçok farklı türde yeme ve içecek seçeneği de sunmaktadır. Bu bölgede, özellikle yöresel lezzetler dikkat çekmektedir. Mahmut Paşa Hamamı, ziyaretçilerine konaklama imkanı da sunmaktadır. Bu bölgede, birçok farklı türde otel ve konaklama tesisi bulunmaktadır. Ziyaretçiler, bu bölgede konaklayarak, Mahmut Paşa Hamamı'nın güzelliğini ve tarihi atmosferini daha iyi keşfedebilir.
 
 ## İlginç Bilgiler
 

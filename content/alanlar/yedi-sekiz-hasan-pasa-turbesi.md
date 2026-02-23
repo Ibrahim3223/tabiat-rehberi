@@ -1,7 +1,7 @@
 ---
 title: "Yedi Sekiz Hasan Paşa Türbesi"
 date: "2026-01-10T05:42:25.540Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q135410131"
 
 # Yedi Sekiz Hasan Paşa Türbesi
 
-Yedi Sekiz Hasan Paşa Türbesi, İstanbul'un Beşiktaş ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Yedi Sekiz Hasan Paşa Türbesi, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbeden bir yerdir. Burada, tarihi yapılar, yeşillikler ve çeşitli bitki türleri bulunmaktadır. Yedi Sekiz Hasan Paşa Türbesi, hem tarih severlerin hem de doğa severlerin ziyaret edebileceği bir mekan olarak dikkat çekmektedir.
+Yedi Sekiz Hasan Paşa Türbesi, İstanbul'un Beşiktaş ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Yedi Sekiz Hasan Paşa Türbesi, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbeden bir yerdir. Burada, tarihi yapılar, yeşillikler ve çeşitli bitki türleri bulunmaktadır. Yedi Sekiz Hasan Paşa Türbesi, hem tarih severlerin hem de doğa severlerin ziyaret edebileceği bir mekan olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Yedi Sekiz Hasan Paşa Türbesi, ziyaretçilerine çeşitli olanaklar sunmaktad�
 ## İlginç Bilgiler
 
 - Yedi Sekiz Hasan Paşa Türbesi, İstanbul'un en büyük parklarından biridir.
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Yedi Sekiz Hasan Paşa Türbesi, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir.
 - Bu mekan, hem tarih severlerin hem de doğa severlerin ziyaret edebileceği bir yerdir.
 - Yedi Sekiz Hasan Paşa Türbesi, İstanbul'un merkezi bir bölgesinde yer almaktadır.

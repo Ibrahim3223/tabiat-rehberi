@@ -28,7 +28,7 @@ wikidata_id: "Q31386574"
 
 # Hıdırınharman Tepesi
 
-Hıdırınharman Tepesi, Van'ın doğal güzelliklerini keşfetmek isteyen ziyaretçilerin ilk durağıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Hıdırınharman Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine.
+Hıdırınharman Tepesi, Van'ın doğal güzelliklerini keşfetmek isteyen ziyaretçilerin ilk durağıdır. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Hıdırınharman Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Hıdırınharman Tepesi, çeşitli bitki türleri ve zengin fauna ile kaplıdır
 
 ## Ziyaret Bilgileri
 
-Hıdırınharman Tepesi'ni ziyaret etmek, Van'ın doğal güzelliklerini keşfetmek isteyenler için bir zorunluluktur. Tepenin yüksekliği, ziyaretçilere Van'ın panoramik manzarasını sunuyor. Tepenin eteklerinde, akan derenin suyu, ziyaretçilere doğanın güzelliğini hatırlatıyor. Hıdırınharman Tepesi'ne nasıl gidilir? Van merkezinden, Hıdırınharman Tepesi'ne giden yol, ziyaretçilere kolaylık sağlıyor. Tepenin girişinde, ziyaretçilere bilgi veren bir tabela bulunuyor. Hıdırınharman Tepesi, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Hıdırınharman Tepesi'ni ziyaret etmek, Van'ın doğal güzelliklerini keşfetmek isteyenler için bir zorunluluktur. Tepenin yüksekliği, ziyaretçilere Van'ın panoramik manzarasını sunuyor. Tepenin eteklerinde, akan derenin suyu, ziyaretçilere doğanın güzelliğini hatırlatıyor. Hıdırınharman Tepesi'ne nasıl gidilir? Van merkezinden, Hıdırınharman Tepesi'ne giden yol, ziyaretçilere kolaylık sağlıyor. Tepenin girişinde, ziyaretçilere bilgi veren bir tabela bulunuyor.
 
 ## İlginç Bilgiler
 

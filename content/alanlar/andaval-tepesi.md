@@ -28,7 +28,7 @@ wikidata_id: "Q31390542"
 
 # Andaval Tepesi
 
-Andaval Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda bulunan Niğde ilinde yer alan bir tepe olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Andaval Tepesi, hem coğrafi özellikleri hem de tarihi geçmişi ile ziyaretçilerini etkileyen bir destinasyon. Bu tepe, bölgenin flora ve fauna çeşitliliği açısından da önemli bir merkez olarak biliniyor. Andaval Tepesi'ne çıkıldığında, geniş bir manzara açısı sunuyor ve ziyaretçilere bölgeyi keşfetme fırsatı veriyor.
+Andaval Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda bulunan Niğde ilinde yer alan bir tepe olarak dikkat çekiyor. Andaval Tepesi, hem coğrafi özellikleri hem de tarihi geçmişi ile ziyaretçilerini etkileyen bir destinasyon. Bu tepe, bölgenin flora ve fauna çeşitliliği açısından da önemli bir merkez olarak biliniyor. Andaval Tepesi'ne çıkıldığında, geniş bir manzara açısı sunuyor ve ziyaretçilere bölgeyi keşfetme fırsatı veriyor.
 
 ## Tarihçe
 

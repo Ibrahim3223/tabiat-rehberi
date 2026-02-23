@@ -28,7 +28,7 @@ wikidata_id: "Q31386735"
 
 # Kolemez Tepe
 
-Diyarbakır'ın merkezinde yer alan Kolemez Tepe, yaklaşık 140 hektarlık bir alanı kaplayan, şehrin tarih kokan tepe noktasıdır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Kolemez Tepe, Diyarbakır'ın önemli bir kültür ve tarih merkezidir. Tepenin eteklerinde yer alan tarihi yapılar ve kalıntılar, ziyaretçilere şehrin zengin tarihini anlatmaktadır. Kolemez Tepe, aynı zamanda şehrin panoramik manzarasını sunan bir noktadır.
+Diyarbakır'ın merkezinde yer alan Kolemez Tepe, yaklaşık 140 hektarlık bir alanı kaplayan, şehrin tarih kokan tepe noktasıdır. Kolemez Tepe, Diyarbakır'ın önemli bir kültür ve tarih merkezidir. Tepenin eteklerinde yer alan tarihi yapılar ve kalıntılar, ziyaretçilere şehrin zengin tarihini anlatmaktadır. Kolemez Tepe, aynı zamanda şehrin panoramik manzarasını sunan bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kolemez Tepe, Diyarbakır'ın tarih boyunca önemli bir yerleşim merkezi olmuş
 
 ## Coğrafya
 
-Kolemez Tepe, Diyarbakır'ın merkezinde yer alan bir tepe noktasıdır. Tepenin coğrafi konumu, şehrin panoramik manzarasını sunmaktadır. Kolemez Tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tepenin eteklerinde yer alan tarihi yapılar ve kalıntılar, ziyaretçilere şehrin zengin tarihini anlatmaktadır. Kolemez Tepe, aynı zamanda şehrin iklimini etkileyen bir faktördür. Tepenin yüksekliği, şehrin hava sirkülasyonunu etkilemektedir. Kolemez Tepe, Diyarbakır'ın coğrafi yapısını etkileyen önemli bir noktadır.
+Kolemez Tepe, Diyarbakır'ın merkezinde yer alan bir tepe noktasıdır. Tepenin coğrafi konumu, şehrin panoramik manzarasını sunmaktadır. Kolemez Tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Tepenin eteklerinde yer alan tarihi yapılar ve kalıntılar, ziyaretçilere şehrin zengin tarihini anlatmaktadır. Kolemez Tepe, aynı zamanda şehrin iklimini etkileyen bir faktördür. Tepenin yüksekliği, şehrin hava sirkülasyonunu etkilemektedir. Kolemez Tepe, Diyarbakır'ın coğrafi yapısını etkileyen önemli bir noktadır.
 
 ## Flora ve Fauna
 

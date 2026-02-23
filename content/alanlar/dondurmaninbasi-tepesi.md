@@ -28,7 +28,7 @@ wikidata_id: "Q31390718"
 
 # Dondurmanınbaşı Tepesi
 
-Dondurmanınbaşı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir bölgedir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Dondurmanınbaşı Tepesi, aynı zamanda bölgenin önemli bir turizm merkezlerinden biri olarak dikkat çekiyor. Burada, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi çeşitli etkinlikler yapılabiliyor.
+Dondurmanınbaşı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir bölgedir. Dondurmanınbaşı Tepesi, aynı zamanda bölgenin önemli bir turizm merkezlerinden biri olarak dikkat çekiyor. Burada, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi çeşitli etkinlikler yapılabiliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Dondurmanınbaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca bölgede ya�
 
 ## Coğrafya
 
-Dondurmanınbaşı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak önemli bir konuma sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir bölgedir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Dondurmanınbaşı Tepesi, aynı zamanda bölgenin iklimi açısından da önemli bir yere sahiptir. Burada, karasal iklim hüküm sürüyor ve ziyaretçiler, dört mevsimi farklı güzelliği ile deneyimleyebilirler. Tepe, aynı zamanda çevresindeki diğer doğal güzelliklerle birlikte, bir bütün olarak düşünülüyor. Burada, ziyaretçiler, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi çeşitli etkinlikler yapabilirler.
+Dondurmanınbaşı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak önemli bir konuma sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir bölgedir. Dondurmanınbaşı Tepesi, aynı zamanda bölgenin iklimi açısından da önemli bir yere sahiptir. Burada, karasal iklim hüküm sürüyor ve ziyaretçiler, dört mevsimi farklı güzelliği ile deneyimleyebilirler. Tepe, aynı zamanda çevresindeki diğer doğal güzelliklerle birlikte, bir bütün olarak düşünülüyor. Burada, ziyaretçiler, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi çeşitli etkinlikler yapabilirler.
 
 ## Flora ve Fauna
 

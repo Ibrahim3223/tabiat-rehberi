@@ -22,7 +22,7 @@ wikidata_id: "Q108228478"
 
 # Giresun-Kemerkopru-Gurgen
 
-Giresun-Kemerkopru-Gurgen milli parkı, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu geniş alan, ziyaretçilere hem doğanın güzelliğini keşfetme hem de çeşitli etkinlikler yapma imkanı sunuyor. Milli parkın konumu, Giresun ilinin merkezine yakın olmasıyla da dikkat çekiyor, böylece ziyaretçiler diğer turistik noktalara kolayca ulaşabiliyorlar.
+Giresun-Kemerkopru-Gurgen milli parkı, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Bu geniş alan, ziyaretçilere hem doğanın güzelliğini keşfetme hem de çeşitli etkinlikler yapma imkanı sunuyor. Milli parkın konumu, Giresun ilinin merkezine yakın olmasıyla da dikkat çekiyor, böylece ziyaretçiler diğer turistik noktalara kolayca ulaşabiliyorlar.
 
 ## Tarihçe
 

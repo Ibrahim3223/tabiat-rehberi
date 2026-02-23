@@ -50,9 +50,9 @@ Mevsimsel değişikliklere uyum gösteren Yılanlı Tepe, iklim açısından da 
 
 ## Flora ve Fauna
 
-Yılanlı Tepe, İzmir'in dağlık bölgesinde yer alan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yılanlı Tepe, İzmir'in dağlık bölgesinde yer alan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, zeytinlikler ve çam ormanları hakimdir. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır. Sonbaharda ise, Akdeniz ikliminin etkisiyle, yaprak döken ağaçlar sarı, turuncu ve kırmızı renklerle renklenir. 
+Bitki Örtüsü olarak, zeytinlikler ve çam ormanları hakimdir. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır. Sonbaharda ise, Akdeniz ikliminin etkisiyle, yaprak döken ağaçlar sarı, turuncu ve kırmızı renklerle renklenir.
 
 Yaban Hayatı olarak, dağ ekosisteminin karakteristik hayvanları bulunur. Memeliler, kuşlar ve sürüngenler, bu dağlık bölgede yaşamlarını sürdürür. Göç eden kuşlar, sonbaharda buradan geçer. Dağların yükseklik zonları, alpin flora ve fauna için uygun bir ortam sağlar.
 

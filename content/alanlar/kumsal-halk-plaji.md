@@ -28,7 +28,7 @@ wikidata_id: "Q49321668"
 
 # Kumsal Halk Plajı
 
-Kumsal Halk Plajı, Antalya'nın en çok ziyaret edilen plajlarından biri olarak, 140 hektarlık geniş bir alana yayılıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine bolca hareket alanı sunuyor. Plajın etrafında, denizin maviliği ve güneşin ılık ışıkları, ziyaretçilere huzurlu bir atmosfer sunuyor. Kumsal Halk Plajı, özellikle yaz aylarında, deniz severlerin ve plaj tutkunlarının favori destinasyonlarından biri haline geliyor.
+Kumsal Halk Plajı, Antalya'nın en çok ziyaret edilen plajlarından biri olarak, 140 hektarlık geniş bir alana yayılıyor. Plajın etrafında, denizin maviliği ve güneşin ılık ışıkları, ziyaretçilere huzurlu bir atmosfer sunuyor. Kumsal Halk Plajı, özellikle yaz aylarında, deniz severlerin ve plaj tutkunlarının favori destinasyonlarından biri haline geliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kumsal Halk Plajı'nın tarihi geçmişi, Antalya'nın zengin kültürel mirası
 
 ## Coğrafya
 
-Kumsal Halk Plajı, Akdeniz Bölgesi'nin en güzel kıyılarından birinde bulunuyor. Plaj, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Plajın etrafında, denizin maviliği ve güneşin ılık ışıkları, ziyaretçilere huzurlu bir atmosfer sunuyor. Kumsal, ince kumla kaplı ve suyun derinliği, hem yetişkinler hem de çocuklar için uygun. Plajın yakınında, çeşitli restoranlar ve kafeler bulunmakta ve ziyaretçilere, deniz kenarında lezzetli yemekler sunuyor. Antalya'nın iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor ve plaj, yılın büyük portionunda güneşli ve ılık bir hava sunuyor.
+Kumsal Halk Plajı, Akdeniz Bölgesi'nin en güzel kıyılarından birinde bulunuyor. Plajın etrafında, denizin maviliği ve güneşin ılık ışıkları, ziyaretçilere huzurlu bir atmosfer sunuyor. Kumsal, ince kumla kaplı ve suyun derinliği, hem yetişkinler hem de çocuklar için uygun. Plajın yakınında, çeşitli restoranlar ve kafeler bulunmakta ve ziyaretçilere, deniz kenarında lezzetli yemekler sunuyor. Antalya'nın iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor ve plaj, yılın büyük portionunda güneşli ve ılık bir hava sunuyor.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108229007"
 
 # HIZIRİLYAS_TEPESİ_TP
 
-HIZIRİLYAS_TEPESİ_TP, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini karşılayan bir milli parktır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir doğa deneyimi sunar. Parkın konumu, coğrafi özellikleriyle birlikte, çeşitli bitki türleri ve zengin fauna çeşitliliğine ev sahipliği yapmaktadır. HIZIRİLYAS_TEPESİ_TP, doğa severler için bir cennet olarak görülebilir.
+HIZIRİLYAS_TEPESİ_TP, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini karşılayan bir milli parktır. Parkın konumu, coğrafi özellikleriyle birlikte, çeşitli bitki türleri ve zengin fauna çeşitliliğine ev sahipliği yapmaktadır. HIZIRİLYAS_TEPESİ_TP, doğa severler için bir cennet olarak görülebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ HIZIRİLYAS_TEPESİ_TP'nin tarihi geçmişi, bölgenin coğrafi ve ekolojik öze
 
 ## Coğrafya
 
-HIZIRİLYAS_TEPESİ_TP, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Parkın coğrafi konumu, çeşitli bitki türleri ve zengin fauna çeşitliliğine ev sahipliği yapmaktadır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir doğa deneyimi sunar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Parkın çevresi, doğal güzellikleri ile birlikte, ziyaretçilere benzersiz bir deneyim sunar. HIZIRİLYAS_TEPESİ_TP, coğrafi özellikleriyle birlikte, ziyaretçilere doğa ile iç içe bir deneyim sunar.
+HIZIRİLYAS_TEPESİ_TP, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Parkın coğrafi konumu, çeşitli bitki türleri ve zengin fauna çeşitliliğine ev sahipliği yapmaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Parkın çevresi, doğal güzellikleri ile birlikte, ziyaretçilere benzersiz bir deneyim sunar. HIZIRİLYAS_TEPESİ_TP, coğrafi özellikleriyle birlikte, ziyaretçilere doğa ile iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 

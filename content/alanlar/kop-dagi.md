@@ -33,7 +33,7 @@ Erzurum'un dağlık coğrafyası, Türkiye'nin en önemli kış sporları merkez
 
 ## Tarihçe
 
-Erzurum'un doğusunda yükselen Kop Dağı, bölgenin zengin tarihsel dokusuna sahne olmuş bir doğal güzellik. Bu bölge, tarihin çeşitli dönemlerinde birçok uygarlığa ev sahipliği yapmış; Hitit, Roma, Bizans ve Selçuklu gibi medeniyetlerin izlerini taşıyor. 
+Erzurum'un doğusunda yükselen Kop Dağı, bölgenin zengin tarihsel dokusuna sahne olmuş bir doğal güzellik. Bu bölge, tarihin çeşitli dönemlerinde birçok uygarlığa ev sahipliği yapmış; Hitit, Roma, Bizans ve Selçuklu gibi medeniyetlerin izlerini taşıyor.
 
 Kop Dağı gibi doğal alanlar, Türkiye'nin tarihsel geçmişinde önemli bir yer tutuyor. Bunlar, yalnızca güzelliği ve biyolojik çeşitliliği ile değil, aynı zamanda ticaret yolları, yaylacılık ve hayvancılık için vazgeçilmez alanlar olarak da değer taşıyor. İnsanlar bu bölgeleri, yaşamın idamesi için gerekli kaynaklara ulaşmak, ticareti geliştirme ve kültürel alışverişi yapmak amacıyla kullanmışlar.
 

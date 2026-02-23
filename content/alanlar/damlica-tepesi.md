@@ -28,7 +28,7 @@ wikidata_id: "Q31388801"
 
 # Damlıca Tepesi
 
-Damlıca Tepesi, Edirne'nin tarihi ve doğal güzelliklerini bir araya getiren önemli bir nokta. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Burası, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbediyor. Damlıca Tepesi, Edirne'nin merkezine yakın bir konumda yer alıyor ve şehrin panoramik manzarasını sunuyor. Bu tepe, hem doğa severler hem de tarih meraklıları için unutulmaz bir deneyim sunuyor.
+Damlıca Tepesi, Edirne'nin tarihi ve doğal güzelliklerini bir araya getiren önemli bir nokta. Burası, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbediyor. Damlıca Tepesi, Edirne'nin merkezine yakın bir konumda yer alıyor ve şehrin panoramik manzarasını sunuyor. Bu tepe, hem doğa severler hem de tarih meraklıları için unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Benliler Türbesi"
 date: "2026-01-10T05:24:28.740Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391686"
 
 # Benliler Türbesi
 
-Benliler Türbesi, Köyceğiz'in tarihi ve doğal güzelliklerini bir araya getiren özel bir yer. Köyceğiz'in merkezine uzun bir mesafe uzaklıkta bulunan bu alan, 140 hektarlık bir yeşil alan üzerinde kurulmuş. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu türbe, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbediyor. Burada, yüzyıllar boyunca şekillenen bir kültür mirası bulunuyor. Benliler Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Benliler Türbesi, Köyceğiz'in tarihi ve doğal güzelliklerini bir araya getiren özel bir yer. Bu türbe, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbediyor. Burada, yüzyıllar boyunca şekillenen bir kültür mirası bulunuyor. Benliler Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Benliler Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbenin genau tari
 
 ## Coğrafya
 
-Benliler Türbesi, Köyceğiz'in merkezine uzun bir mesafe uzaklıkta bulunuyor. Bu alan, 140 hektarlık bir yeşil alan üzerinde kurulmuş. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu türbe, Ege Bölgesi'nin doğal güzelliklerini bir araya getiren özel bir yer. Burada, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösteriyor. Benliler Türbesi, doğal güzellikleri ile ziyaretçilerini cezbediyor. Bu alan, hem doğa severler hem de tarih meraklıları için ideal bir yer. Benliler Türbesi, ziyaretçilerine doğanın güzelliklerini sunuyor.
+Benliler Türbesi, Köyceğiz'in merkezine uzun bir mesafe uzaklıkta bulunuyor. Bu türbe, Ege Bölgesi'nin doğal güzelliklerini bir araya getiren özel bir yer. Burada, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bitki türleri, mevsimsel değişimlere göre farklılık gösteriyor. Benliler Türbesi, doğal güzellikleri ile ziyaretçilerini cezbediyor. Bu alan, hem doğa severler hem de tarih meraklıları için ideal bir yer. Benliler Türbesi, ziyaretçilerine doğanın güzelliklerini sunuyor.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228432"
 
 # Eskişehir-Eskişehir-Kırka-Sedir
 
-Eskişehir'in doğal güzellikleri arasında yer alan milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Milli parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Doğa severlerin ziyaret etmesi gereken bir yer olan milli park, aynı zamanda yürüyüş ve piknik için uygun bir ortam sunuyor.
+ Bu yeşil alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Milli parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Doğa severlerin ziyaret etmesi gereken bir yer olan milli park, aynı zamanda yürüyüş ve piknik için uygun bir ortam sunuyor.
 
 ## Tarihçe
 

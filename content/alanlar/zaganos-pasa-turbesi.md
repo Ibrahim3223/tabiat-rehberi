@@ -1,7 +1,7 @@
 ---
 title: "Zağanos Paşa Türbesi"
 date: "2026-01-10T07:33:24.329Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391266"
 
 # Zağanos Paşa Türbesi
 
-Zağanos Paşa Türbesi, Marmara Bölgesi'nin güzide şehirlerinden biri olan Balıkesir'in Karesi ilçesinde yer alıyor. Bu tarihi ve doğal güzelliklerin bir araya geldiği özel mekan, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Zaganos Paşa Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. Özellikle tarih ve doğa severler için ideal bir gezi noktası olan bu mekan, Marmara Bölgesi'nin önemli noktalarından biri.
+Zağanos Paşa Türbesi, Marmara Bölgesi'nin güzide şehirlerinden biri olan Balıkesir'in Karesi ilçesinde yer alıyor. Bu tarihi ve doğal güzelliklerin bir araya geldiği özel mekan, yaklaşık 140 hektarlık bir alanı kapsıyor. Zaganos Paşa Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. Özellikle tarih ve doğa severler için ideal bir gezi noktası olan bu mekan, Marmara Bölgesi'nin önemli noktalarından biri.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Süleyman Çelebi Anıt Mezarı"
 date: "2026-01-10T04:38:36.268Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q134728428"
 
 # Süleyman Çelebi Anıt Mezarı
 
-Süleyman Çelebi Anıt Mezarı, Bursa'nın Osmangazi ilçesinde yer alan ve hem tarihi hem de doğal güzellikleriyle dikkat çeken bir mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Burası, Süleyman Çelebi'nin anıldığı ve ziyaretçilerin hem tarihi bir figürü anlamak hem de natuurun güzelliğine şahitlik etmek için geldiği bir nokta. Süleyman Çelebi Anıt Mezarı, Marmara Bölgesi'nin önemli tarihi ve kültürel noktalarından biri olarak kabul ediliyor.
+Süleyman Çelebi Anıt Mezarı, Bursa'nın Osmangazi ilçesinde yer alan ve hem tarihi hem de doğal güzellikleriyle dikkat çeken bir mekan. Burası, Süleyman Çelebi'nin anıldığı ve ziyaretçilerin hem tarihi bir figürü anlamak hem de natuurun güzelliğine şahitlik etmek için geldiği bir nokta. Süleyman Çelebi Anıt Mezarı, Marmara Bölgesi'nin önemli tarihi ve kültürel noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -53,5 +53,5 @@ Süleyman Çelebi Anıt Mezarı, ziyaretçilere zengin bir deneyim sunuyor. Bura
 - Süleyman Çelebi, Mevlid-i Nebi'nin yazarı olarak biliniyor.
 - Anıt mezar, Süleyman Çelebi'nin hatırasını yaşatmak içinşa edilmiş.
 - Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin coğrafi güzelliklerinin ortasında yer alıyor.
-- 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer.
+
 - Anıt mezarın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili.

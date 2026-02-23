@@ -28,7 +28,7 @@ wikidata_id: "Q31386452"
 
 # Kesmeli Tepe
 
-Kesmeli Tepe, Hatay ilinin Akdeniz Bölgesi'nde yer alan ve doğal güzellikleriyle dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda çeşitli bitki türleri bulunur. Bu tepe, ziyaretçilerini güneşin batışının güzelliği ile büyüler ve manzarasıyla insanları etkiler. Kesimli Tepe'nin etrafında çeşitli köyler ve kasabalar yer alır ve bu bölge, tarihi geçmişi ile de dikkat çeker.
+Kesmeli Tepe, Hatay ilinin Akdeniz Bölgesi'nde yer alan ve doğal güzellikleriyle dikkat çeken bir tepe. Bu tepe, ziyaretçilerini güneşin batışının güzelliği ile büyüler ve manzarasıyla insanları etkiler. Kesimli Tepe'nin etrafında çeşitli köyler ve kasabalar yer alır ve bu bölge, tarihi geçmişi ile de dikkat çeker.
 
 ## Tarihçe
 

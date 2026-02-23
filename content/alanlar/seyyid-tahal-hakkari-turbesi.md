@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Taha’l Hakkari Türbesi"
 date: "2026-01-10T07:05:12.776Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hakkari"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390826"
 
 # Seyyid Taha’l Hakkari Türbesi
 
-Şemdinli ilçesinde yer alan Seyyid Taha’l Hakkari Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafi özelliklerini yansıtan bir yapıya sahip. Burada, tarihi yapıların yanı sıra bölgeye özgü flora ve fauna çeşitliliği de görebilirsiniz. Seyyid Taha’l Hakkari Türbesi, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini bekliyor.
+Şemdinli ilçesinde yer alan Seyyid Taha’l Hakkari Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Burada, tarihi yapıların yanı sıra bölgeye özgü flora ve fauna çeşitliliği de görebilirsiniz. Seyyid Taha’l Hakkari Türbesi, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Patara Nero Hamamı"
 date: "2026-01-09T23:07:16.221Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kaş ilçesi"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738913"
 
 # Patara Nero Hamamı
 
-Patara Nero Hamamı, Kaş ilçesinde yer alan ve antik Patara kentinde bulunan bir tarihi yapıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir araziyi kapsar. Nero Hamamı, Patara'nın zengin tarihi ve kültürel mirasının önemli bir parçasıdır. Bu tarihi yapı, ziyaretçiler için hem bir gezi noktası hem de bir öğrenme deneyimi sunar. Patara'nın tarihi geçmişi, bu bölgede yapılan arkeolojik kazılar ve keşiflerle aydınlatılmıştır. Nero Hamamı, Patara'nın önemli yapılarından biri olarak, bu antik kentin ihtişamını gözler önüne serer.
+Patara Nero Hamamı, Kaş ilçesinde yer alan ve antik Patara kentinde bulunan bir tarihi yapıdır. Nero Hamamı, Patara'nın zengin tarihi ve kültürel mirasının önemli bir parçasıdır. Bu tarihi yapı, ziyaretçiler için hem bir gezi noktası hem de bir öğrenme deneyimi sunar. Patara'nın tarihi geçmişi, bu bölgede yapılan arkeolojik kazılar ve keşiflerle aydınlatılmıştır. Nero Hamamı, Patara'nın önemli yapılarından biri olarak, bu antik kentin ihtişamını gözler önüne serer.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Patara Nero Hamamı, tarihi geçmişi ile dikkat çeker. Bu antik yapı, Patara 
 
 ## Coğrafya
 
-Patara Nero Hamamı, Kaş ilçesinde yer alan bir bölgede bulunur. Bu bölge, Akdeniz kıyısında yer alır ve Patara Plajı ile birlikte bir bütünü oluşturur. 140 hektarlık bir alanı kapsayan Patara, yaklaşık 200 futbol sahası büyüklüğünde bir arazidir. Bu bölge, Likya Yöresi'nin önemli coğrafi özelliklerini taşır ve Patara Plajı, bu bölgenin önemli bir parçasıdır. Patara'nın coğrafyası, tarihini de şekillendirmiş ve bu bölge, tarihi boyunca birçok medeniyete ev sahipliği yapmıştır. Nero Hamamı, Patara'nın coğrafi konumu nedeniyle, önemli bir liman kenti olan Patara'nın ticaret ve kültür merkezi olarak hizmet vermiştir. Bu bölge, Likya Yöresi'nin karakteristik coğrafi özelliklerini taşır ve Patara Plajı, bu bölgenin güzelliğini yansıtması açısından önemlidir.
+Patara Nero Hamamı, Kaş ilçesinde yer alan bir bölgede bulunur. Bu bölge, Akdeniz kıyısında yer alır ve Patara Plajı ile birlikte bir bütünü oluşturur. Bu bölge, Likya Yöresi'nin önemli coğrafi özelliklerini taşır ve Patara Plajı, bu bölgenin önemli bir parçasıdır. Patara'nın coğrafyası, tarihini de şekillendirmiş ve bu bölge, tarihi boyunca birçok medeniyete ev sahipliği yapmıştır. Nero Hamamı, Patara'nın coğrafi konumu nedeniyle, önemli bir liman kenti olan Patara'nın ticaret ve kültür merkezi olarak hizmet vermiştir. Bu bölge, Likya Yöresi'nin karakteristik coğrafi özelliklerini taşır ve Patara Plajı, bu bölgenin güzelliğini yansıtması açısından önemlidir.
 
 ## Flora ve Fauna
 

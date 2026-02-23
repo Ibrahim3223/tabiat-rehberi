@@ -28,7 +28,7 @@ wikidata_id: "Q49041973"
 
 # Kızıl Tepe (Çorum)
 
-Çorum'un tarihi ve doğal güzellikleriyle dolu coğrafyasında yer alan Kızıl Tepe, ilin önemli doğal oluşumlarından biri. Bu tepe, Çorum'un merkezi ve çevresindeki yerleşim yerlerine hakim bir konumda bulunuyor. Çorum'un doğal alanları arasındaki yerini alan Kızıl Tepe, bölgenin jeolojik yapısını ve histórik geçmişini yansıtan bir oluşum olarak ilgi görüyor. Çorum'un zengin kültürel mirasının bir parçası olan bu tepe, ziyaretçiler için keşfedilmeyi bekleyen bir doğal alan olarak duruyor.
+Çorum'un tarihi ve doğal güzellikleriyle dolu coğrafyasında yer alan Kızıl Tepe, ilin önemli doğal oluşumlarından biri. Bu tepe, Çorum'un merkezi ve çevresindeki yerleşim yerlerine hakim bir konumda bulunuyor. Çorum'un doğal alanları arasındaki yerini alan Kızıl Tepe, bölgenin jeolojik yapısını ve tarihi geçmişini yansıtan bir oluşum olarak ilgi görüyor. Çorum'un zengin kültürel mirasının bir parçası olan bu tepe, ziyaretçiler için keşfedilmeyi bekleyen bir doğal alan olarak duruyor.
 
 ## Tarihçe
 

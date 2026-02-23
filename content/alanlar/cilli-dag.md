@@ -50,9 +50,9 @@ Bölgenin çevresel ilişkileri ise, Van Gölü ve çevresindeki diğer su kayna
 
 ## Flora ve Fauna
 
-Çilli Dağ, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çilli Dağ, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle kaplanıyor. Alpin çayırlar, endemik türlerle dolu bu dağda, mevsimsel değişimlere göre değişen bir flora var.
-Yaban hayatı açısından da zengin olan Çilli Dağ, memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşarken, kartallar ve doğanların yuvaları da bu dağlarda bulunuyor. 
+Yaban hayatı açısından da zengin olan Çilli Dağ, memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşarken, kartallar ve doğanların yuvaları da bu dağlarda bulunuyor.
 Ekolojik değer açısından da önemli olan Çilli Dağ, yüksek dağ ekosisteminin korunması için kritik bir alan. Bu dağ, birçok endemik türün yaşadığı ve göçmen kuşların konakladığı bir bölge.
 
 ## Ziyaret Bilgileri

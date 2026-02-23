@@ -28,7 +28,7 @@ wikidata_id: "Q31388871"
 
 # Kocabayır Tepesi
 
-Kocabayır Tepesi, Kırklareli ilinin sınırları içerisinde yer alan ve ziyaretçilerini büyüleyici manzaralarıyla karşılayan bir doğa harikasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi konumu itibariyle Marmara Bölgesi'nin önemli noktalarından biridir. Kocabayır Tepesi'nin etrafında yer alan köyler ve kasabalar, bu bölgenin tarihi ve kültürel zenginliğini yansıtmasında önemli bir role sahiptir. Tepenin eteklerinde yer alan ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede yapılan yürüyüşler ve tırmanışlar, ziyaretçilere hem fiziksel aktivite hem de doğayı keşfetme fırsatı sunar.
+Kocabayır Tepesi, Kırklareli ilinin sınırları içerisinde yer alan ve ziyaretçilerini büyüleyici manzaralarıyla karşılayan bir doğa harikasıdır. Kocabayır Tepesi'nin etrafında yer alan köyler ve kasabalar, bu bölgenin tarihi ve kültürel zenginliğini yansıtmasında önemli bir role sahiptir. Bu bölgede yapılan yürüyüşler ve tırmanışlar, ziyaretçilere hem fiziksel aktivite hem de doğayı keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kocabayır Tepesi'nin tarihi geçmişi, bölgenin coğrafi konumundan dolayı ö
 
 ## Coğrafya
 
-Kocabayır Tepesi, Marmara Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin yüksekliği ve etrafındaki ormanlık alanlar, bu bölgenin coğrafi özelliklerini belirlemede önemli bir role sahiptir. Kocabayır Tepesi'nin etrafında yer alan köyler ve kasabalar, bu bölgenin coğrafi konumundan dolayı tarımın ve hayvancılığın gelişmesine katkıda bulunmuştur. Tepenin eteklerinde yer alan ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede yapılan yürüyüşler ve tırmanışlar, ziyaretçilere hem fiziksel aktivite hem de doğayı keşfetme fırsatı sunar. Kocabayır Tepesi'nin coğrafi konumu, bu bölgenin iklimini ve çevre koşullarını etkilemede önemli bir role sahiptir. Tepenin yüksekliği ve etrafındaki ormanlık alanlar, bu bölgenin mikro iklimini belirlemede önemli bir role sahiptir.
+Kocabayır Tepesi, Marmara Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Tepenin yüksekliği ve etrafındaki ormanlık alanlar, bu bölgenin coğrafi özelliklerini belirlemede önemli bir role sahiptir. Kocabayır Tepesi'nin etrafında yer alan köyler ve kasabalar, bu bölgenin coğrafi konumundan dolayı tarımın ve hayvancılığın gelişmesine katkıda bulunmuştur. Bu bölgede yapılan yürüyüşler ve tırmanışlar, ziyaretçilere hem fiziksel aktivite hem de doğayı keşfetme fırsatı sunar. Kocabayır Tepesi'nin coğrafi konumu, bu bölgenin iklimini ve çevre koşullarını etkilemede önemli bir role sahiptir. Tepenin yüksekliği ve etrafındaki ormanlık alanlar, bu bölgenin mikro iklimini belirlemede önemli bir role sahiptir.
 
 ## Flora ve Fauna
 
@@ -44,12 +44,12 @@ Kocabayır Tepesi, zengin flora ve fauna ile dikkat çeker. Tepenin etrafında y
 
 ## Ziyaret Bilgileri
 
-Kocabayır Tepesi'ni ziyaret etmek, ziyaretçilere hem fiziksel aktivite hem de doğayı keşfetme fırsatı sunar. Tepenin etrafında yer alan köyler ve kasabalar, bu bölgenin tarihi ve kültürel zenginliğini yansıtmasında önemli bir role sahiptir. Kocabayır Tepesi'ne ulaşım, Kırklareli il merkezinden yapılan yolculukla möglich. Tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Ziyaretçilerin, Kocabayır Tepesi'ni ziyaret etmeden önce, gerekli malzemeleri ve ekipmanı temin etmeleri önerilir. Kocabayır Tepesi, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve yaz ayları, bu bölgenin güzelliğini en iyi şekilde yansıtmasında önemli bir role sahiptir.
+Kocabayır Tepesi'ni ziyaret etmek, ziyaretçilere hem fiziksel aktivite hem de doğayı keşfetme fırsatı sunar. Tepenin etrafında yer alan köyler ve kasabalar, bu bölgenin tarihi ve kültürel zenginliğini yansıtmasında önemli bir role sahiptir. Kocabayır Tepesi'ne ulaşım, Kırklareli il merkezinden yapılan yolculukla möglich. Ziyaretçilerin, Kocabayır Tepesi'ni ziyaret etmeden önce, gerekli malzemeleri ve ekipmanı temin etmeleri önerilir. Kocabayır Tepesi, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve yaz ayları, bu bölgenin güzelliğini en iyi şekilde yansıtmasında önemli bir role sahiptir.
 
 ## İlginç Bilgiler
 
 - Kocabayır Tepesi, Kırklareli ilinin en yüksek noktalarından biridir.
-- Tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Kocabayır Tepesi, yılın her dönemi ziyaret edilebilir.
 - Tepenin yüksekliği, bu bölgenin mikro iklimini belirlemede önemli bir role sahiptir.
 - Kocabayır Tepesi'ne ulaşım, Kırklareli il merkezinden yapılan yolculukla möglich.

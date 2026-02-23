@@ -1,7 +1,7 @@
 ---
 title: "Sakıp Sabancı Müzesi"
 date: "2026-01-10T15:10:14.546Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q3395851"
 
 # Sakıp Sabancı Müzesi
 
-Sakıp Sabancı Müzesi, İstanbul'un Sarıyer ilçesinde yer alan ve Marmara Bölgesi'nin önemli kültür merkezlerinden biri olan bir müzedir. 4200 metrekarelik bir alanda hizmet veren müze, yaklaşık 60 futbol sahası büyüklüğünde bir alanı kaplar. Müzenin koleksiyonunda, Osmanlı dönemi sanat eserleri, antika eserler ve modern sanat eserleri gibi çeşitli eserler bulunmaktadır. Müze, aynı zamanda konserler, sergiler ve diğer kültür etkinliklerine de ev sahipliği yapmaktadır. Sakıp Sabancı Müzesi, her yıl binlerce ziyaretçiyi ağırlayan ve İstanbul'un önemli turistik noktalarından biri haline gelen bir kültürel destinasyondur.
+Sakıp Sabancı Müzesi, İstanbul'un Sarıyer ilçesinde yer alan ve Marmara Bölgesi'nin önemli kültür merkezlerinden biri olan bir müzedir. Müzenin koleksiyonunda, Osmanlı dönemi sanat eserleri, antika eserler ve modern sanat eserleri gibi çeşitli eserler bulunmaktadır. Müze, aynı zamanda konserler, sergiler ve diğer kültür etkinliklerine de ev sahipliği yapmaktadır. Sakıp Sabancı Müzesi, her yıl binlerce ziyaretçiyi ağırlayan ve İstanbul'un önemli turistik noktalarından biri haline gelen bir kültürel destinasyondur.
 
 ## Tarihçe
 

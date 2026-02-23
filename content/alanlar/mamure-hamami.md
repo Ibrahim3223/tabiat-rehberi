@@ -1,7 +1,7 @@
 ---
 title: "Mamure Hamamı"
 date: "2026-01-09T22:59:33.448Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738831"
 
 # Mamure Hamamı
 
-Mamure Hamamı, Mersin'in Anamur ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Mamure Hamamı, ziyaretçilerine hem tarihi bir atmosfer sunuyor hem de doğal güzelliklerin keyfini çıkarmalarına olanak tanıyor. Bu bölge, Akdeniz Bölgesi'nin güzelliklerini ve tarihi değerlerini bir araya topluyor.
+Mamure Hamamı, Mersin'in Anamur ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir alandır. Mamure Hamamı, ziyaretçilerine hem tarihi bir atmosfer sunuyor hem de doğal güzelliklerin keyfini çıkarmalarına olanak tanıyor. Bu bölge, Akdeniz Bölgesi'nin güzelliklerini ve tarihi değerlerini bir araya topluyor.
 
 ## Tarihçe
 

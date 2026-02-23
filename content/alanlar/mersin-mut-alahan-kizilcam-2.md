@@ -22,7 +22,7 @@ wikidata_id: "Q108227909"
 
 # Mersin-Mut-Alahan-Kızılçam 2
 
-Mersin-Mut-Alahan-Kızılçam 2 milli parkı, Mersin ilinin Mut ilçesinde yer alan, 140 hektarlık geniş bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğal ortam sunuyor. Milli parkın konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin tarihi zenginliklerini öğrenmesine olanak tanıyor. 140 hektarlık bu yeşil alan, ziyaretçilere hem dinlenme hem de keşif imkanı sunuyor.
+Mersin-Mut-Alahan-Kızılçam 2 milli parkı, Mersin ilinin Mut ilçesinde yer alan, 140 hektarlık geniş bir alanı kapsıyor. Milli parkın konumu, ziyaretçilerin hem doğayı keşfetmesine hem de bölgenin tarihi zenginliklerini öğrenmesine olanak tanıyor. 140 hektarlık bu yeşil alan, ziyaretçilere hem dinlenme hem de keşif imkanı sunuyor.
 
 ## Tarihçe
 

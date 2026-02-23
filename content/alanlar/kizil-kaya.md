@@ -29,7 +29,7 @@ wikidata_id: "Q31386483"
 
 # Kızıl Kaya
 
-Kızıl Kaya, Hatay'ın etkileyici coğrafyasında yer alan bir tepe. Bu doğal güzellik, çevreyi keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Kaya, Hatay'ın zengin coğrafyasının bir parçası ve bölgenin histórik geçmişi hakkında bilgi sahibi olmak isteyenler için önemli bir nokta. Kaya, aynı zamanda çevreyi keşfetmek isteyenler için ideal bir başlangıç noktası.
+Kızıl Kaya, Hatay'ın etkileyici coğrafyasında yer alan bir tepe. Bu doğal güzellik, çevreyi keşfetmek isteyenler için ideal bir destinasyon. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Kaya, Hatay'ın zengin coğrafyasının bir parçası ve bölgenin tarihi geçmişi hakkında bilgi sahibi olmak isteyenler için önemli bir nokta. Kaya, aynı zamanda çevreyi keşfetmek isteyenler için ideal bir başlangıç noktası.
 
 ## Tarihçe
 

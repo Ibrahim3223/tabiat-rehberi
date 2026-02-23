@@ -1,7 +1,7 @@
 ---
 title: "Anonim Türbe (2)"
 date: "2026-01-10T05:32:24.480Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391389"
 
 # Anonim Türbe (2)
 
-Anonim Türbe (2) plajı, İzmir'in Selçuk ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliktir. Bu plaj, yaklaşık 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Selçuk'un tarihi ve turistik yerlerine yakınlığıyla dikkat çeken bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Plajın güzelliği, çevredeki dağların ve denizin birleştiği noktada, ziyaretçilere benzersiz bir manzara sunuyor.
+Anonim Türbe (2) plajı, İzmir'in Selçuk ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliktir. Selçuk'un tarihi ve turistik yerlerine yakınlığıyla dikkat çeken bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Plajın güzelliği, çevredeki dağların ve denizin birleştiği noktada, ziyaretçilere benzersiz bir manzara sunuyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Anonim Türbe (2) plajı, çeşitli flora ve fauna türlerine ev sahipliği yap�
 
 ## Ziyaret Bilgileri
 
-Anonim Türbe (2) plajını ziyaret etmek, hem doğa severler hem de tarih meraklıları için, unutulmaz bir deneyim olabilir. Plaja ulaşım, Selçuk'tan fácil olarak sağlanabilir ve plajın yakınında, çeşitli restoran ve kafeler bulunmakta. Ziyaretçiler, plajda, güneşlenmek, denizde yüzmek, çevredeki dağları keşfetmek gibi çeşitli aktiviteleri gerçekleştirebilirler. Plajın güzelliği, çevredeki dağların ve denizin birleştiği noktada, ziyaretçilere benzersiz bir manzara sunuyor.
+Anonim Türbe (2) plajını ziyaret etmek, hem doğa severler hem de tarih meraklıları için, unutulmaz bir deneyim olabilir. Plaja ulaşım, Selçuk'tan kolay olarak sağlanabilir ve plajın yakınında, çeşitli restoran ve kafeler bulunmakta. Ziyaretçiler, plajda, güneşlenmek, denizde yüzmek, çevredeki dağları keşfetmek gibi çeşitli aktiviteleri gerçekleştirebilirler. Plajın güzelliği, çevredeki dağların ve denizin birleştiği noktada, ziyaretçilere benzersiz bir manzara sunuyor.
 
 ## İlginç Bilgiler
 

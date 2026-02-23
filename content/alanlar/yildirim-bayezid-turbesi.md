@@ -1,7 +1,7 @@
 ---
 title: "Yıldırım Bayezid Türbesi"
 date: "2026-01-10T06:49:58.208Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390744"
 
 # Yıldırım Bayezid Türbesi
 
-Yıldırım Bayezid Türbesi, Bursa'nın Yıldırım ilçesinde yer alan ve Osmanlı Devleti'nin önemli tarihi figürlerinden biri olan Yıldırım Bayezid'in mezarının bulunduğu bir türbedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki yeşillikler ile birlikte ziyaretçilerini karşılar. Türbenin tarihi geçmişi, Osmanlı İmparatorluğu'nun altın çağlarına uzanır ve bu nedenle büyük bir tarihi öneme sahiptir. Yıldırım Bayezid Türbesi, Marmara Bölgesi'nde bulunan önemli tarihi mekanlardan biridir ve ziyaretçilerini tarihin derinliklerine götürür.
+Yıldırım Bayezid Türbesi, Bursa'nın Yıldırım ilçesinde yer alan ve Osmanlı Devleti'nin önemli tarihi figürlerinden biri olan Yıldırım Bayezid'in mezarının bulunduğu bir türbedir. Türbenin tarihi geçmişi, Osmanlı İmparatorluğu'nun altın çağlarına uzanır ve bu nedenle büyük bir tarihi öneme sahiptir. Yıldırım Bayezid Türbesi, Marmara Bölgesi'nde bulunan önemli tarihi mekanlardan biridir ve ziyaretçilerini tarihin derinliklerine götürür.
 
 ## Tarihçe
 

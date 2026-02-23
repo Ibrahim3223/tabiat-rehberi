@@ -1,7 +1,7 @@
 ---
 title: "Alhan Hamamı"
 date: "2026-01-09T23:07:24.328Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738932"
 
 # Alhan Hamamı
 
-Alhan Hamamı, Ege Bölgesi'nin güzide ilçelerinden biri olan Yenipazar'da yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Alhan Hamamı, özellikle yaz aylarında serinli ve huzur arayanların sıklıkla ziyaret ettiği bir destinasyon. Bu doğal güzelliğin yanı sıra, bölgenin tarihi ve kültürel zenginliklerini de keşfetme mümkün. Alhan Hamamı, doğa severler ve macera arayanlar için ideal bir seçim.
+Alhan Hamamı, Ege Bölgesi'nin güzide ilçelerinden biri olan Yenipazar'da yer alıyor. Alhan Hamamı, özellikle yaz aylarında serinli ve huzur arayanların sıklıkla ziyaret ettiği bir destinasyon. Bu doğal güzelliğin yanı sıra, bölgenin tarihi ve kültürel zenginliklerini de keşfetme mümkün. Alhan Hamamı, doğa severler ve macera arayanlar için ideal bir seçim.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Alhan Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve çeşi
 
 ## Coğrafya
 
-Alhan Hamamı, Ege Bölgesi'nin coğrafi yapısına uygun olarak, yeşil alanların ve ormanların hakim olduğu bir bölge. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Alhan Hamamı'nın coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunuyor. Bu bölgede, doğa yürüyüşleri, piknik alanları ve diğer açık hava etkinlikleri yapma mümkün. Alhan Hamamı, özellikle yaz aylarında serinli ve huzur arayanların sıklıkla ziyaret ettiği bir destinasyon. Bu doğal güzelliğin yanı sıra, bölgenin coğrafi yapısı da ziyaretçilere benzersiz bir deneyim sunmaya devam ediyor. Alhan Hamamı, Ege Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir seçim.
+Alhan Hamamı, Ege Bölgesi'nin coğrafi yapısına uygun olarak, yeşil alanların ve ormanların hakim olduğu bir bölge. Alhan Hamamı'nın coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunuyor. Bu bölgede, doğa yürüyüşleri, piknik alanları ve diğer açık hava etkinlikleri yapma mümkün. Alhan Hamamı, özellikle yaz aylarında serinli ve huzur arayanların sıklıkla ziyaret ettiği bir destinasyon. Bu doğal güzelliğin yanı sıra, bölgenin coğrafi yapısı da ziyaretçilere benzersiz bir deneyim sunmaya devam ediyor. Alhan Hamamı, Ege Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için ideal bir seçim.
 
 ## Flora ve Fauna
 

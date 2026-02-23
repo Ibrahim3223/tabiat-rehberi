@@ -28,7 +28,7 @@ wikidata_id: "Q31389988"
 
 # Deveoturağı Tepesi
 
-Deveoturağı Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Yaklaşık 140 hektarlık bir alanı kapsayan Deveoturağı Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
+Deveoturağı Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

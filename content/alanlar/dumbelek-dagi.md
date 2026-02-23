@@ -66,5 +66,5 @@ Dümbelek Dağı, İzmir'in gizli bir hazine gibi bekleyen bir doğa harikası. 
 - İzmir'in en yüksek noktalarından biridir.
 - Dağın yüksekliği 435 metre civarındadır.
 - Dümbelek Dağı, Karaburun Yarımadası'nın en önemli doğal oluşumlarından biridir.
-- Dağ, bölgenin ekolojik dengesini korumak açısından önemlidir.
+
 - Dümbelek Dağı, trekking ve doğa yürüyüşü için popüler bir destinasyondur.

@@ -32,7 +32,7 @@ Sivas'ın büyüleyici doğasında yer alan Karagöz Dağı, ziyaretçilerini ta
 
 ## Tarihçe
 
-Sivas bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hitit, Roma ve Selçuklu gibi uygarlıkların izlerini taşır. Bu bölge, tarihi İpek Yolu'nun üzerinde yer alır ve ticaretin canlı olduğu bir merkez olmuştur. Karagöz Dağı da, bu tarihsel sürecin içinde yer alan doğal güzelliklerimizden biridir.
+Sivas bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hitit, Roma ve Selçuklu gibi uygarlıkların izlerini taşır. Bu bölge, tarihi İpek Yolu'nun üzerinde yer alır ve ticaretin canlı olduğu bir merkez olmuştur. Karagöz Dağı da, bu tarihsel sürecin içinde yer alan doğal güzelliklerimizden biridir.
 
 Türkiye'de doğal alanlar, insan yaşamının önemli bir parçasını oluşturur. Tarih boyunca, insanlar bu alanları tarım, hayvancılık ve yaylacılık için kullanmışlardır. Sivas gibi bölgeler, yüksek dağlarla çevrili olmasından dolayı, doğal güzellikleri ve verimli topraklarıyla ön plana çıkar. Bu tür alanlar, insanların yaşamını sürdürmesi için elverişli koşullar sunar ve kültürel mirasın önemli bir parçasını oluşturur.
 
@@ -52,7 +52,7 @@ Mevsimsel değişimlerin etkisini hissetmek için, Karagöz Dağı'nın iklim ka
 
 Karagöz Dağı, Sivas'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker. İlkbahar aylarında, dağ yamaçları çeşitli çiçek türleriyle renklenirken, sonbaharda göç eden kuşlar bu alanı önemli bir konaklama noktası olarak kullanır.
 
-Bitki örtüsü, kuraklığa adapte olmuş türlerle karakterizedir. Dağın yüksek kesimlerinde, alpin flora türlerine rastlanır. Bu bitkiler, zorlu iklim koşullarına rağmen, hayatta kalmayı başarır. 
+Bitki örtüsü, kuraklığa adapte olmuş türlerle karakterizedir. Dağın yüksek kesimlerinde, alpin flora türlerine rastlanır. Bu bitkiler, zorlu iklim koşullarına rağmen, hayatta kalmayı başarır.
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle temsil edilir. Bu canlılar, dağın çeşitli yaşam alanlarında, ekolojik dengenin korunmasına katkıda bulunurlar. Örneğin, bazı memeliler, bitkilerin yayılmasını sağlayan tohum dağıtıcıları olarak işlev görürken, kuşlar ve sürüngenler, ekosistemin dengesini sağlayan avcılar ve avlar olarak rollerini üstlenirler.
 

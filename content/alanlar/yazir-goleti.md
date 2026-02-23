@@ -22,7 +22,7 @@ wikidata_id: "Q108228760"
 
 # YAZIR GÖLETİ
 
-Yazır Göleti, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunan bu bölge, doğa severler için bir çekim merkezi olarak dikkat çekiyor. Göletin etrafında bulunan yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için uygun bir ortam sağlıyor. Yazır Göleti, hem doğal güzelliği hem de ziyaretçilere sunduğu olanaklarla, bölgenin önemli bir turizm merkezi olarak kabul ediliyor.
+Yazır Göleti, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak karşımıza çıkıyor. Göletin etrafında bulunan yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için uygun bir ortam sağlıyor. Yazır Göleti, hem doğal güzelliği hem de ziyaretçilere sunduğu olanaklarla, bölgenin önemli bir turizm merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Yazır Göleti'ni ziyaret etmek, doğa severler için bir fırsat olarak kabul e
 
 ## İlginç Bilgiler
 
-- Yazır Göleti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor.
 - Göletin etrafında, çeşitli bitki türleri ve zengin fauna bulunması, bölgenin ekolojik dengesini korumasına yardımcı oluyor.
 - Göletin su seviyesi, mevsimsel olarak değişkenlik gösteriyor.
 - Yazır Göleti, coğrafi konumu ve iklim koşullarıyla, doğa severler için bir cennet olarak kabul ediliyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q31582027"
 
 # Sağcıyolu Tepesi
 
-Sağcıyolu Tepesi, Çorum'un merkezi bir konumunda yer alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan bir tepe. Bu tepe, şehrin tarihi ve doğal güzellikleriyle dolu bir bölgesinde bulunuyor. Çorum'un merkezine yakın konumuyla, ziyaretçiler için ulaşımı oldukça kolay. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu nedenle, doğa severler için ideal bir gezi noktası olarak dikkat çekiyor. Ayrıca, tepe hakkında detaylı bilgiler edinmek için, ziyaretçilerin tepeyi gezerken, tarihi ve kültürel yönlerini de keşfetmeleri öneriliyor.
+ Bu tepe, şehrin tarihi ve doğal güzellikleriyle dolu bir bölgesinde bulunuyor. Çorum'un merkezine yakın konumuyla, ziyaretçiler için ulaşımı oldukça kolay. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu nedenle, doğa severler için ideal bir gezi noktası olarak dikkat çekiyor. Ayrıca, tepe hakkında detaylı bilgiler edinmek için, ziyaretçilerin tepeyi gezerken, tarihi ve kültürel yönlerini de keşfetmeleri öneriliyor.
 
 ## Tarihçe
 

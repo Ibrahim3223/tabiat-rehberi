@@ -1,7 +1,7 @@
 ---
 title: "Serçe Hamamı"
 date: "2026-01-09T23:41:10.865Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739180"
 
 # Serçe Hamamı
 
-Serçe Hamamı, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Şanlıurfa'nın Eyyübiye ilçesinde bulunmaktadır. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Serçe Hamamı, geniş çayırları, zengin flora ve fauna çeşitliliği ile ziyaretçilerini büyülemektedir. Bölge, hem yerel halk hem de turistler için önemli bir dinlenme ve eğlenme merkezidir. Şanlıurfa'nın tarihi ve kültürel zenginliklerinin yanı sıra, Serçe Hamamı da şehrin önemli bir parçasıdır.
+Serçe Hamamı, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan Şanlıurfa'nın Eyyübiye ilçesinde bulunmaktadır. Serçe Hamamı, geniş çayırları, zengin flora ve fauna çeşitliliği ile ziyaretçilerini büyülemektedir. Bölge, hem yerel halk hem de turistler için önemli bir dinlenme ve eğlenme merkezidir. Şanlıurfa'nın tarihi ve kültürel zenginliklerinin yanı sıra, Serçe Hamamı da şehrin önemli bir parçasıdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Serçe Hamamı'nın tarihi geçmişi, Şanlıurfa'nın tarihi ile iç içedir. B
 
 ## Coğrafya
 
-Serçe Hamamı, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en ilginç noktalarından birisidir. Bu bölge, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Coğrafi açıdan, Serçe Hamamı geniş çayırları, zengin flora ve fauna çeşitliliği ile ziyaretçilerini büyülemektedir. Bölge, hem yerel halk hem de turistler için önemli bir dinlenme ve eğlenme merkezidir. Şanlıurfa'nın iklimi, Serçe Hamamı'nın coğrafi yapısını da etkilemiştir. Bölgede, genellikle yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir iklim hüküm sürer. Bu iklim, bölgenin flora ve fauna çeşitliliğini de etkilemiştir. Serçe Hamamı, coğrafi konumu itibariyle, birçok farklı türün yaşamasına imkân tanıyan bir doğa cennetidir.
+Serçe Hamamı, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en ilginç noktalarından birisidir. Coğrafi açıdan, Serçe Hamamı geniş çayırları, zengin flora ve fauna çeşitliliği ile ziyaretçilerini büyülemektedir. Bölge, hem yerel halk hem de turistler için önemli bir dinlenme ve eğlenme merkezidir. Şanlıurfa'nın iklimi, Serçe Hamamı'nın coğrafi yapısını da etkilemiştir. Bölgede, genellikle yazları sıcak ve kurak, kışları ise soğuk ve yağışlı bir iklim hüküm sürer. Bu iklim, bölgenin flora ve fauna çeşitliliğini de etkilemiştir. Serçe Hamamı, coğrafi konumu itibariyle, birçok farklı türün yaşamasına imkân tanıyan bir doğa cennetidir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Serçe Hamamı, ziyaretçilerine birçok farklı aktivite sunmaktadır. Ziyaret�
 
 ## İlginç Bilgiler
 
-- Serçe Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
 - Bölge, zengin flora ve fauna çeşitliliğine sahiptir.
 - Serçe Hamamı, coğrafi konumu itibariyle, birçok farklı türün yaşamasına imkân tanıyan bir doğa cennetidir.
 - Bölge, hem yerel halk hem de turistler için önemli bir dinlenme ve eğlenme merkezidir.

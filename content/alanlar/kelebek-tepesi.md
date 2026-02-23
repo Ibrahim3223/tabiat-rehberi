@@ -28,7 +28,7 @@ wikidata_id: "Q31385649"
 
 # Kelebek Tepesi
 
-Kelebek Tepesi, Adıyaman'ın güneydoğu kesiminde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye hakim bir konumda bulunuyor. Tepenin adını aldığı kelebekler, bölgede yaşayan çeşitli türlerle birlikte bir doğal güzellik sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı ve kültürü tanıma fırsatı sunuyor.
+Kelebek Tepesi, Adıyaman'ın güneydoğu kesiminde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. Tepenin adını aldığı kelebekler, bölgede yaşayan çeşitli türlerle birlikte bir doğal güzellik sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı ve kültürü tanıma fırsatı sunuyor.
 
 ## Tarihçe
 

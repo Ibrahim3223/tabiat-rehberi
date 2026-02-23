@@ -28,7 +28,7 @@ wikidata_id: "Q31388197"
 
 # Ortaca Tepesi
 
-Ortaca Tepesi, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Denizli ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Ortaca Tepesi, hem doğa severler hem de tarih meraklıları tarafından sıkça ziyaret edilen bir yer olarak biliniyor. Tepenin eteklerinde yer alan köyler, misafirlerine geleneksel yemekler veospitalite sunuyor.
+Ortaca Tepesi, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Denizli ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Ortaca Tepesi, hem doğa severler hem de tarih meraklıları tarafından sıkça ziyaret edilen bir yer olarak biliniyor. Tepenin eteklerinde yer alan köyler, misafirlerine geleneksel yemekler veospitalite sunuyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Ortaca Tepesi, coğrafi olarak oldukça zengin bir bölgede yer alıyor. Tepenin
 
 ## Flora ve Fauna
 
-Ortaca Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bölge, aynı zamanda önemli bir hayvan çeşitliliğine sahip ve çeşitli kuş türleri, memeliler ve sürüngenler burada yaşıyor. Ortaca Tepesi, mevsimsel değişimlere göre farklı bir güzelliğe sahip. İlkbahar ve yaz aylarında, tepenin etrafı yeşilleniyor ve çeşitli çiçekler açıyor. Sonbahar ve kış aylarında ise, tepenin zirvesi karla kaplanıyor ve bir kış masalı gibi görünüyor.
+ Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bölge, aynı zamanda önemli bir hayvan çeşitliliğine sahip ve çeşitli kuş türleri, memeliler ve sürüngenler burada yaşıyor. Ortaca Tepesi, mevsimsel değişimlere göre farklı bir güzelliğe sahip. İlkbahar ve yaz aylarında, tepenin etrafı yeşilleniyor ve çeşitli çiçekler açıyor. Sonbahar ve kış aylarında ise, tepenin zirvesi karla kaplanıyor ve bir kış masalı gibi görünüyor.
 
 ## Ziyaret Bilgileri
 
@@ -52,4 +52,4 @@ Ortaca Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olaca
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor.
 - Ortaca Tepesi, önemli bir stratejik konumda yer alıyor.
 - Tepenin zirvesinden, Ege Bölgesi'nin geniş bir bölümü görülebiliyor.
-- Ortaca Tepesi, flora ve fauna açısından oldukça zengin bir bölge.
+

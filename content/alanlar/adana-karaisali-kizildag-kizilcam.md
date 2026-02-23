@@ -22,15 +22,15 @@ wikidata_id: "Q108228544"
 
 # Adana-Karaisali-Kizildag-Kizilcam
 
-Adana-Karaisali-Kizildag-Kizilcam, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bir alanı kapsayan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde ve Adana'nın Karaisali ilçesinde bulunur. Bu bölge, hem yerli hem de yabancı turistler için bir çekim merkezi oluşturur. Zengin flora ve fauna çeşitliliği, ziyaretçilere benzersiz bir deneyim sunar. Milli parkın içerisinde, çeşitli bitki türleri ve hayvanlar bulunur. Ayrıca, parkın coğrafi konumu, ziyaretçilere Akdeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sağlar.
+Adana-Karaisali-Kizildag-Kizilcam, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu bölge, hem yerli hem de yabancı turistler için bir çekim merkezi oluşturur. Zengin flora ve fauna çeşitliliği, ziyaretçilere benzersiz bir deneyim sunar. Milli parkın içerisinde, çeşitli bitki türleri ve hayvanlar bulunur. Ayrıca, parkın coğrafi konumu, ziyaretçilere Akdeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sağlar.
 
 ## Tarihçe
 
-Adana-Karaisali-Kizildag-Kizilcam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bölgeye kendi kültürel ve histórik izini bırakmıştır. Milli parkın kuruluşu, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak amacıyla olmuştur. Bugün, Adana-Karaisali-Kizildag-Kizilcam, Türkiye'nin en önemli milli parklarından biridir ve ziyaretçilere, doğal güzellikleri ve tarihi geçmişi ile birlikte, benzersiz bir deneyim sunar.
+Adana-Karaisali-Kizildag-Kizilcam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bölgeye kendi kültürel ve tarihi izini bırakmıştır. Milli parkın kuruluşu, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak amacıyla olmuştur. Bugün, Adana-Karaisali-Kizildag-Kizilcam, Türkiye'nin en önemli milli parklarından biridir ve ziyaretçilere, doğal güzellikleri ve tarihi geçmişi ile birlikte, benzersiz bir deneyim sunar.
 
 ## Coğrafya
 
-Adana-Karaisali-Kizildag-Kizilcam, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Milli park, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi konumu, ziyaretçilere Akdeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sağlar. Milli parkın içerisinde, çeşitli bitki türleri ve hayvanlar bulunur. Ayrıca, parkın iklimi, Akdeniz ikliminin característicasını taşır ve ziyaretçilere, benzersiz bir deneyim sunar. Bölgenin coğrafi yapısı, ziyaretçilere trekking, kamp ve diğer doğa aktivitelerine katılma fırsatı sağlar.
+Adana-Karaisali-Kizildag-Kizilcam, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bölgenin coğrafi konumu, ziyaretçilere Akdeniz Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sağlar. Milli parkın içerisinde, çeşitli bitki türleri ve hayvanlar bulunur. Ayrıca, parkın iklimi, Akdeniz ikliminin característicasını taşır ve ziyaretçilere, benzersiz bir deneyim sunar. Bölgenin coğrafi yapısı, ziyaretçilere trekking, kamp ve diğer doğa aktivitelerine katılma fırsatı sağlar.
 
 ## Flora ve Fauna
 

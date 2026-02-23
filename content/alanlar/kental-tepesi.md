@@ -28,7 +28,7 @@ wikidata_id: "Q31543817"
 
 # Kental Tepesi
 
-Kental Tepesi, Diyarbakır'ın eşsiz doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli coğrafi oluşumlarından birini oluşturur. Bu tepe, bölgede yer alan diğer doğal alanlarla birlikte, Güneydoğu Anadolu Bölgesi'nin zengin flora ve faunasına ev sahipliği yapar. Kental Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir ve bölgenin tarihi geçmişi hakkında bilgi edinmek için ideal bir noktadır.
+Kental Tepesi, Diyarbakır'ın eşsiz doğal güzelliklerinden biridir. Bu tepe, bölgede yer alan diğer doğal alanlarla birlikte, Güneydoğu Anadolu Bölgesi'nin zengin flora ve faunasına ev sahipliği yapar. Kental Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir ve bölgenin tarihi geçmişi hakkında bilgi edinmek için ideal bir noktadır.
 
 ## Tarihçe
 

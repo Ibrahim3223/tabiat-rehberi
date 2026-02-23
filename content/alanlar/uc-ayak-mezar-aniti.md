@@ -29,7 +29,7 @@ wikidata_id: "Q134728082"
 
 # Üç Ayak Mezar Anıtı
 
-Üç Ayak Mezar Anıtı, Mersin'in Erdemli ilçesinde yer alan bir doğal ve tarihi alan olarak dikkat çeker. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Üç Ayak Mezar Anıtı, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbeder. Bu anıt, Akdeniz Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçasıdır. Üç Ayak Mezar Anıtı, ziyaretçilerine hem doğa hem de tarih hakkında bilgiler sunar.
+Üç Ayak Mezar Anıtı, Mersin'in Erdemli ilçesinde yer alan bir doğal ve tarihi alan olarak dikkat çeker. Üç Ayak Mezar Anıtı, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini cezbeder. Bu anıt, Akdeniz Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçasıdır. Üç Ayak Mezar Anıtı, ziyaretçilerine hem doğa hem de tarih hakkında bilgiler sunar.
 
 ## Tarihçe
 

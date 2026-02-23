@@ -50,7 +50,7 @@ Mevsimsel değişikliklerle birlikte, Adras Dağı'nın iklim karakteri değişm
 
 ## Flora ve Fauna
 
-Adras Dağı, Karaman'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bitki örtüsü ve hayvan çeşitliliği göze çarpar. 
+Adras Dağı, Karaman'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bitki örtüsü ve hayvan çeşitliliği göze çarpar.
 
 İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Step bitkileri ve bozkır türleri, kuraklığa adapte olmuş şekilde, dağın farklı yükseklik zonlarında yaşamını sürdürür. Bu bitkiler, aynı zamanda dağ hayvanları için önemli bir besin kaynağıdır.
 

@@ -1,7 +1,7 @@
 ---
 title: "Tekkeyaylası Tepesi"
 date: "2026-01-10T10:24:41.306Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Mersin"
@@ -28,7 +28,7 @@ wikidata_id: "Q31389332"
 
 # Tekkeyaylası Tepesi
 
-Mersin'in Akdeniz Bölgesi'nde yer alan Tekkeyaylası Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, huzurlu ve sakin bir atmosfer sunuyor. Tekkeyaylası Tepesi, Mersin'in önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğa severler için ideal bir destinasyon olan bu tepe, aynı zamanda bölgeye özgü floranın ve faunanın zenginliğini gözler önüne seriyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açıyla manzarayı seyretme imkanı sunuyor.
+ Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, huzurlu ve sakin bir atmosfer sunuyor. Tekkeyaylası Tepesi, Mersin'in önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğa severler için ideal bir destinasyon olan bu tepe, aynı zamanda bölgeye özgü floranın ve faunanın zenginliğini gözler önüne seriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tekkeyaylası Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenerek gü
 
 ## Coğrafya
 
-Tekkeyaylası Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli özellikler sergiliyor. Tekkeyaylası Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bölge, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu yükseklik, ziyaretçilere geniş bir açıyla manzarayı seyretme imkanı sunuyor. Coğrafi yapısı itibariyle, Tekkeyaylası Tepesi'nin iklimi, Akdeniz Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Bu bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklimi experiencia ediyor. Tekkeyaylası Tepesi, aynı zamanda flora ve fauna açısından zengin bir bölge. Bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu tepe, Mersin'in önemli doğal güzelliklerinden biri olarak kabul ediliyor ve doğal güzelliği ile ziyaretçilerini cezbediyor.
+Tekkeyaylası Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli özellikler sergiliyor. Bölge, deniz seviyesinden belirli bir yükseklikte yer alıyor ve bu yükseklik, ziyaretçilere geniş bir açıyla manzarayı seyretme imkanı sunuyor. Coğrafi yapısı itibariyle, Tekkeyaylası Tepesi'nin iklimi, Akdeniz Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Bu bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklimi experiencia ediyor. Tekkeyaylası Tepesi, aynı zamanda flora ve fauna açısından zengin bir bölge. Bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu tepe, Mersin'in önemli doğal güzelliklerinden biri olarak kabul ediliyor ve doğal güzelliği ile ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

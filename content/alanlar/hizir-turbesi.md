@@ -1,7 +1,7 @@
 ---
 title: "Hızır Türbesi"
 date: "2026-01-10T05:54:06.894Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -30,7 +30,7 @@ wikidata_id: "Q126954153"
 
 # Hızır Türbesi
 
-Hızır Türbesi, Samandağ ilçesinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plaj ve tarihi mekân. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en çok ziyaret edilen yerlerinden. Hızır Türbesi, tarihi ve doğası ile ziyaretçilerini büyülüyor. Bu alanda, denizin ve güneşin keyfini çıkarırken, aynı zamanda tarihi bir türkübenin huzurunu da hissedebiliyorsunuz. Hızır Türbesi, Samandağ'ın en önemli turizm noktalarından biri.
+Hızır Türbesi, Samandağ ilçesinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plaj ve tarihi mekân. Hızır Türbesi, tarihi ve doğası ile ziyaretçilerini büyülüyor. Bu alanda, denizin ve güneşin keyfini çıkarırken, aynı zamanda tarihi bir türkübenin huzurunu da hissedebiliyorsunuz. Hızır Türbesi, Samandağ'ın en önemli turizm noktalarından biri.
 
 ## Tarihçe
 

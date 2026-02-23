@@ -1,7 +1,7 @@
 ---
 title: "Süphan Gölü"
 date: "2026-01-09T09:49:53.159Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "gol"
 il: "Van"
@@ -49,9 +49,9 @@ Gölün çevresel ilişkileri, Van Gölü gibi önemli su kaynaklarına yakınl�
 
 ## Flora ve Fauna
 
-Süphan Gölü, Van'ın yüksek dağ ekolojisinde, alpin çayırlarla çevrili bir cennet. İlkbaharın gelmesiyle, gölün çevresindeki çayırlar renkli çiçeklerle donanır. Su kenarında, sulak alan bitkileri göze çarpar. 
+Süphan Gölü, Van'ın yüksek dağ ekolojisinde, alpin çayırlarla çevrili bir cennet. İlkbaharın gelmesiyle, gölün çevresindeki çayırlar renkli çiçeklerle donanır. Su kenarında, sulak alan bitkileri göze çarpar.
 
-Bitki örtüsünün hakim türleri, bölgenin yüksek rakımına uyum sağlamış, dayanıklı bitkilerdir. Gölün çevresinde, çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlerle, gölün görünümü değişir. Sonbaharda, göç eden su kuşları gölde konaklar. 
+Bitki örtüsünün hakim türleri, bölgenin yüksek rakımına uyum sağlamış, dayanıklı bitkilerdir. Gölün çevresinde, çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlerle, gölün görünümü değişir. Sonbaharda, göç eden su kuşları gölde konaklar.
 
 Yaban hayatı, gölün ekosisteminin önemli bir parçasıdır. Su kuşları, balıklar ve diğer su canlıları, gölün zengin faunasını oluşturur. Memeliler ve sürüngenler de, gölün çevresindeki çayırlarda yaşamlarını sürdürür. Ekolojik değerini koruma altına almak, bu zenginliğin devamını sağlamak için önemlidir.
 

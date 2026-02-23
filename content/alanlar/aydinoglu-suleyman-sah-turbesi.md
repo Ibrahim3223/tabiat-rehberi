@@ -1,7 +1,7 @@
 ---
 title: "Aydınoğlu Süleyman Şah Türbesi"
 date: "2026-01-10T06:10:10.011Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390550"
 
 # Aydınoğlu Süleyman Şah Türbesi
 
-Aydınoğlu Süleyman Şah Türbesi, İzmir'in Tire ilçesinde yer alan bir tarihi türbedir. Bu türbe, Ege Bölgesi'nin önemli tarihi mekanlarından biridir. Tire'nin merkezinde bulunan bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Aydınoğlu Süleyman Şah Türbesi, tarihi geçmişi ve kültürel önemi ile dikkat çeker. Bu türbe, yüzyıllar boyunca çeşitli dönemlerden geçmiş ve her dönemde önemli bir role sahip olmuştur.
+Aydınoğlu Süleyman Şah Türbesi, İzmir'in Tire ilçesinde yer alan bir tarihi türbedir. Bu türbe, Ege Bölgesi'nin önemli tarihi mekanlarından biridir. Tire'nin merkezinde bulunan bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Aydınoğlu Süleyman Şah Türbesi, tarihi geçmişi ve kültürel önemi ile dikkat çeker. Bu türbe, yüzyıllar boyunca çeşitli dönemlerden geçmiş ve her dönemde önemli bir role sahip olmuştur.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728337"
 
 # Bin Tepeler Tümülüsü 49
 
-Bin Tepeler Tümülüsü 49, Ege Bölgesi'nin en önemli tarihi ve kültürel merkezlerinden biri olan Manisa'nın Salihli ilçesinde yer alıyor. Bu alan, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bin Tepeler Tümülüsü 49, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Burada, geçmişin izlerini takip etme ve tarihi yapıları görme mümkün.
+Bin Tepeler Tümülüsü 49, Ege Bölgesi'nin en önemli tarihi ve kültürel merkezlerinden biri olan Manisa'nın Salihli ilçesinde yer alıyor. Bin Tepeler Tümülüsü 49, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Burada, geçmişin izlerini takip etme ve tarihi yapıları görme mümkün.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q131390949"
 
 # Hz. Nuh Makamı
 
-Hz. Nuh Makamı, Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Cizre'de yer alır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Burada, histórieki ve kültürel açıdan önemli bir geçmişe sahip olan bu mekan, aynı zamanda doğal güzelliği ile de dikkat çeker. Hz. Nuh Makamı, bölgeye gelenlerin mutlaka ziyaret etmesi gereken bir yerdir. Bu özel mekan, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle karşılar.
+Hz. Nuh Makamı, Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Cizre'de yer alır. Burada, tarihi ve kültürel açıdan önemli bir geçmişe sahip olan bu mekan, aynı zamanda doğal güzelliği ile de dikkat çeker. Hz. Nuh Makamı, bölgeye gelenlerin mutlaka ziyaret etmesi gereken bir yerdir. Bu özel mekan, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle karşılar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hz. Nuh Makamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Hz. Nuh Makamı, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan en önemli noktalarından biridir. Bu özel yer, Cizre'de yer alır ve bölgenin en güzel doğal güzelliklerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Bu mekan, aynı zamanda iklim açısından da dikkat çeker. Bölgenin iklimi, genellikle sıcak ve kuru olarak tanımlanır, ancak Hz. Nuh Makamı'nın bulunduğu yer, daha serin ve nemli bir iklime sahiptir. Bu özel yer, doğal güzelliği ve coğrafi konumuyla bölgeye gelen ziyaretçilerin mutlaka ziyaret etmesi gereken bir yerdir.
+Hz. Nuh Makamı, Güneydoğu Anadolu Bölgesi'nin coğrafi açıdan en önemli noktalarından biridir. Bu özel yer, Cizre'de yer alır ve bölgenin en güzel doğal güzelliklerinden biridir. Bu mekan, aynı zamanda iklim açısından da dikkat çeker. Bölgenin iklimi, genellikle sıcak ve kuru olarak tanımlanır, ancak Hz. Nuh Makamı'nın bulunduğu yer, daha serin ve nemli bir iklime sahiptir. Bu özel yer, doğal güzelliği ve coğrafi konumuyla bölgeye gelen ziyaretçilerin mutlaka ziyaret etmesi gereken bir yerdir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Hz. Nuh Makamı, bölgeye gelen ziyaretçilerin mutlaka ziyaret etmesi gereken b
 
 ## İlginç Bilgiler
 
-- Hz. Nuh Makamı, histórieki ve kültürel açıdan önemli bir geçmişe sahiptir.
+- Hz. Nuh Makamı, tarihi ve kültürel açıdan önemli bir geçmişe sahiptir.
 - Bu özel yer, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır.
 - Hz. Nuh Makamı, flora ve fauna açısından da dikkat çeker.
 - Bu özel yer, ekolojik açıdan da önemli bir yerdir.

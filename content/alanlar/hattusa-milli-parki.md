@@ -28,7 +28,7 @@ schema_type: "TouristAttraction"
 
 # Hattuşa Milli Parkı
 
-Boğazkale'de yer alan Hattuşa Milli Parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılıyor. Park, Çorum'un Boğazkale ilçesinde yer alıyor ve Karadeniz Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul ediliyor. Hattuşa Milli Parkı, aynı zamanda Hitit İmparatorluğu'nun başkenti olarak bilinen Hattuşa'nın kalıntılarına ev sahipliği yapıyor.
+Boğazkale'de yer alan Hattuşa Milli Parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Park, Çorum'un Boğazkale ilçesinde yer alıyor ve Karadeniz Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul ediliyor. Hattuşa Milli Parkı, aynı zamanda Hitit İmparatorluğu'nun başkenti olarak bilinen Hattuşa'nın kalıntılarına ev sahipliği yapıyor.
 
 ## Tarihçe
 

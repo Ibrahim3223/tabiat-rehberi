@@ -32,7 +32,7 @@ Muğla'nın dağlık régionunda yer alan Kösten Dağı, coğrafi güzelliği v
 
 ## Tarihçe
 
-Muğla bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Binlerce yıl önce, Likya ve Karya uygarlıkları bu topraklarda yaşamıştır. Bu bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında olmasını sağlamıştır. Kösten Dağı, bu tarihi geçmişiçinde yer alan doğal bir hazinedir.
+Muğla bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Binlerce yıl önce, Likya ve Karya uygarlıkları bu topraklarda yaşamıştır. Bu bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında olmasını sağlamıştır. Kösten Dağı, bu tarihi geçmişiçinde yer alan doğal bir hazinedir.
 
 İnsanların bu dağla ilişkisi, yüzyıllar boyunca devam etmiştir. Yaylacılık ve hayvancılık, bölgenin ekonomisinde önemli bir rol oynamıştır. Dağların eteklerinde kurulan köyler, bu faaliyetlerin merkezini oluşturmuştur. Ayrıca, bölgenin stratejik konumu, tarihi ticaret yollarının güzergahında yer almasına neden olmuştur.
 

@@ -1,7 +1,7 @@
 ---
 title: "Saraycık Ilıcası"
 date: "2026-01-10T15:09:29.731Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "termal-kaynak"
 il: "Manisa"
@@ -28,7 +28,7 @@ wikidata_id: "Q49741974"
 
 # Saraycık Ilıcası
 
-Saraycık Ilıcası, Manisa'nın sakin ve doğal bir bölgesinde yer alan bir termal kaynağıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Saraycık Ilıcası, özellikle termal suyu ile ünlü olup, sağlık ve rahatlık arayanlar için ideal bir destinasyondur. Bu bölge, hem doğa severler hem de sağlık turizmi ile ilgilenenler için bir cennet olarak kabul edilebilir.
+Saraycık Ilıcası, Manisa'nın sakin ve doğal bir bölgesinde yer alan bir termal kaynağıdır. Saraycık Ilıcası, özellikle termal suyu ile ünlü olup, sağlık ve rahatlık arayanlar için ideal bir destinasyondur. Bu bölge, hem doğa severler hem de sağlık turizmi ile ilgilenenler için bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Saraycık Ilıcası'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Saraycık Ilıcası, Manisa'nın merkezi bölgesinde yer alır ve Ege Bölgesi'nin önemli termal kaynaklarından biridir. Bu bölge, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, Saraycık Ilıcası'nın çevresi ormanlık ve dağlık bir araziye sahiptir. İklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılımandır. Bu bölge, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlar. Saraycık Ilıcası'nın termal suyu, bölgenin jeolojik yapısı nedeniyle oluşur ve sağlık açısından önemli faydaları vardır. Bu su, özellikle cilt hastalıkları ve romatizmal rahatsızlıklar için faydaları bilinir.
+Saraycık Ilıcası, Manisa'nın merkezi bölgesinde yer alır ve Ege Bölgesi'nin önemli termal kaynaklarından biridir. Coğrafi olarak, Saraycık Ilıcası'nın çevresi ormanlık ve dağlık bir araziye sahiptir. İklimi, Ege Bölgesi'nin genel iklimine uygun olarak ılımandır. Bu bölge, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlar. Saraycık Ilıcası'nın termal suyu, bölgenin jeolojik yapısı nedeniyle oluşur ve sağlık açısından önemli faydaları vardır. Bu su, özellikle cilt hastalıkları ve romatizmal rahatsızlıklar için faydaları bilinir.
 
 ## Flora ve Fauna
 
-Saraycık Ilıcası'nın bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, özellikle ormanlık alanlarda, çam, meşe ve kayın gibi ağaç türleri bulunur. Flora açısından, bu bölge, Türkiye'nin diğer bölgelerine göre daha zengin bir bitki çeşitliliğine sahiptir. Saraycık Ilıcası'nın fauna açısından zengin olması, özellikle kuş türleri ile dikkat çeker. Bu bölgede, çeşitli kuş türleri gibi, yaban domuzu, tilki ve tavşan gibi hayvanlar da bulunur. Mevsimsel değişimler, bu bölgede önemli bir rol oynar ve her mevsim, farklı bir güzelliği ziyaretçilere sunar.
+ Bu bölgede, özellikle ormanlık alanlarda, çam, meşe ve kayın gibi ağaç türleri bulunur. Flora açısından, bu bölge, Türkiye'nin diğer bölgelerine göre daha zengin bir bitki çeşitliliğine sahiptir. Saraycık Ilıcası'nın fauna açısından zengin olması, özellikle kuş türleri ile dikkat çeker. Bu bölgede, çeşitli kuş türleri gibi, yaban domuzu, tilki ve tavşan gibi hayvanlar da bulunur. Mevsimsel değişimler, bu bölgede önemli bir rol oynar ve her mevsim, farklı bir güzelliği ziyaretçilere sunar.
 
 ## Ziyaret Bilgileri
 

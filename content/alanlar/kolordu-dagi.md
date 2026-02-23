@@ -32,11 +32,11 @@ Erzurum'un doğal güzellikteki dağları arasında yer alan Kolordu Dağı, bö
 
 ## Tarihçe
 
-Erzurum'un doğusunda yer alan Kolordu Dağı, ülkenin en önemli doğal güzelliklerinden biridir. Bu bölge, tarihin sâu sayfalarında önemli bir rol oynamıştır. Erzurum, çeşitli uygarlıkların hüküm sürdüğü bir bölge olarak bilinir. Hitit, Roma, Bizans ve Selçuklu gibi medeniyetler, bu topraklarda yaşamış ve izler bırakmıştır.
+Erzurum'un doğusunda yer alan Kolordu Dağı, ülkenin en önemli doğal güzelliklerinden biridir. Bu bölge, tarihin derin sayfalarında önemli bir rol oynamıştır. Erzurum, çeşitli uygarlıkların hüküm sürdüğü bir bölge olarak bilinir. Hitit, Roma, Bizans ve Selçuklu gibi medeniyetler, bu topraklarda yaşamış ve izler bırakmıştır.
 
 Kolordu Dağı gibi doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasıdır. Bu bölgeler, yüzyıllar boyunca insanların yaşamlarını sürdürdüğü, hayvancılık ve yaylacılık yaptığı yerlerdir. Ayrıca, tarihi ticaret yolları üzerinde bulunan bu bölgede, çeşitli medeniyetler arasında ticaret ve kültür alışverişi gerçekleşmiştir.
 
-İnsanların Kolordu Dağı ile ilişkisi, sadece doğal güzelliğinin tadını çıkarmak değil, aynı zamanda bu bölgenin sunduğu imkânları değerlendirmektir. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geleneksel faaliyetleridir. Kolordu Dağı, Türkiye'nin zengin tarihsel mirasının bir parçası olarak, ziyaretçilerini tarihin sâu sayfalarına götürmeyi vaat ediyor. Bu doğal cennet, ziyaretçilerine hem doğal güzelliğini hem de tarihsel önemini göstermeyi bekliyor.
+İnsanların Kolordu Dağı ile ilişkisi, sadece doğal güzelliğinin tadını çıkarmak değil, aynı zamanda bu bölgenin sunduğu imkânları değerlendirmektir. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geleneksel faaliyetleridir. Kolordu Dağı, Türkiye'nin zengin tarihsel mirasının bir parçası olarak, ziyaretçilerini tarihin derin sayfalarına götürmeyi vaat ediyor. Bu doğal cennet, ziyaretçilerine hem doğal güzelliğini hem de tarihsel önemini göstermeyi bekliyor.
 
 ## Coğrafya
 
@@ -50,7 +50,7 @@ Bölgenin ekosistemini düşünüldüğünde, Kolordu Dağı, çevresindeki diğ
 
 ## Flora ve Fauna
 
-Kolordu Dağı, Erzurum'un yüksek dağ ekosisteminin güzelliklerini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kolordu Dağı, Erzurum'un yüksek dağ ekosisteminin güzelliklerini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü açısından, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Alpine çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliği sunar. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı renklerle dağ manzarasına renk katar.
 

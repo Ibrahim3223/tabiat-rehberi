@@ -28,7 +28,7 @@ wikidata_id: "Q31386548"
 
 # Siyahkale Tepesi
 
-Siyahkale Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde bulunan ve bölgeye has coğrafi özellikleriyle dikkat çeken bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alanın üzerinde yükseliyor. Bu tepenin etrafında yer alan köyler ve kasabalar, bölgeye özgü mimari tarzlarda inşa edilmiş ve burada yaşayan halk, geleneksel yaşam tarzlarını sürdürmeye devam ediyor. Siyahkale Tepesi, doğa severlerin ve coğrafya meraklılarının ilgisini çeken bir nokta olarak biliniyor.
+Siyahkale Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde bulunan ve bölgeye has coğrafi özellikleriyle dikkat çeken bir tepe. Bu tepenin etrafında yer alan köyler ve kasabalar, bölgeye özgü mimari tarzlarda inşa edilmiş ve burada yaşayan halk, geleneksel yaşam tarzlarını sürdürmeye devam ediyor. Siyahkale Tepesi, doğa severlerin ve coğrafya meraklılarının ilgisini çeken bir nokta olarak biliniyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Kangırlı Köyü Hamamı"
 date: "2026-01-09T23:52:37.924Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245758"
 
 # Kangırlı Köyü Hamamı
 
-Kangırlı Köyü Hamamı, Çanakkale'nin Lapseki ilçesinde, Marmara Bölgesi'nin sakin ve güzel bir köşesinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu størreligi yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu büyüklük, ziyaretçilere geniş ve ferah bir alan sunuyor. Kangırlı Köyü Hamamı, doğa severler ve huzur arayanlar için ideal bir destinasyon. Burada, denizin ve güneşin tadını çıkarabilir, aynı zamanda çevredeki doğal güzellikleri keşfedebilirsiniz.
+Kangırlı Köyü Hamamı, Çanakkale'nin Lapseki ilçesinde, Marmara Bölgesi'nin sakin ve güzel bir köşesinde yer alıyor. Bu büyüklük, ziyaretçilere geniş ve ferah bir alan sunuyor. Kangırlı Köyü Hamamı, doğa severler ve huzur arayanlar için ideal bir destinasyon. Burada, denizin ve güneşin tadını çıkarabilir, aynı zamanda çevredeki doğal güzellikleri keşfedebilirsiniz.
 
 ## Tarihçe
 

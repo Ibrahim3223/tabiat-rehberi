@@ -1,7 +1,7 @@
 ---
 title: "Yağlıoğlu Türbesi"
 date: "2026-01-10T04:58:04.451Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391525"
 
 # Yağlıoğlu Türbesi
 
-Yağlıoğlu Türbesi, İzmir'in Tire ilçesinde, Ege Bölgesi'nin güzelliklerini sunan bir tarihi ve doğal alan olarak dikkat çekiyor. 140 hektarlık bir alana yayılmış olan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde geniş bir alanı kaplıyor. Burada, hem tarihi türbeyi ziyaret edebiliyor hem de plajın keyfini çıkarabiliyorsunuz. Tarihi ve doğal güzelliklerin bir arada bulunduğu bu yer, ziyaretçiler için önemli bir çekim merkezi oluşturuyor.
+Yağlıoğlu Türbesi, İzmir'in Tire ilçesinde, Ege Bölgesi'nin güzelliklerini sunan bir tarihi ve doğal alan olarak dikkat çekiyor. Burada, hem tarihi türbeyi ziyaret edebiliyor hem de plajın keyfini çıkarabiliyorsunuz. Tarihi ve doğal güzelliklerin bir arada bulunduğu bu yer, ziyaretçiler için önemli bir çekim merkezi oluşturuyor.
 
 ## Tarihçe
 

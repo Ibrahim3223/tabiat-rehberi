@@ -32,9 +32,9 @@ Muğla'nın görkemli dağ siluetleri arasında yer alan Sandık Dağı, doğa s
 
 ## Tarihçe
 
-Muğla bölgesi, tarih boyunca çeşitli uygarlıkların yaşadığı bir coğrafyadır. Likya, Karya ve Roma uygarlıkları, bölgenin zengin tarihi geçmişine katkıda bulunmuşlardır. Bu bölgede yer alan Sandık Dağı, Türkiye'nin doğal güzelliklerine örnek teşkil eden bir alandır. 
+Muğla bölgesi, tarih boyunca çeşitli uygarlıkların yaşadığı bir coğrafyadır. Likya, Karya ve Roma uygarlıkları, bölgenin zengin tarihi geçmişine katkıda bulunmuşlardır. Bu bölgede yer alan Sandık Dağı, Türkiye'nin doğal güzelliklerine örnek teşkil eden bir alandır.
 
-Türkiye'de doğal alanlar, tarihsel olarak önemli bir rol oynamıştır. İnsanlar, bu bölgelerde yaylacılık, hayvancılık ve ticaret faaliyetleri gerçekleştirmişlerdir. Özellikle dağlık ve ormanlık alanlar, insanların geçim kaynaklarına katkıda bulunmuştur. 
+Türkiye'de doğal alanlar, tarihsel olarak önemli bir rol oynamıştır. İnsanlar, bu bölgelerde yaylacılık, hayvancılık ve ticaret faaliyetleri gerçekleştirmişlerdir. Özellikle dağlık ve ormanlık alanlar, insanların geçim kaynaklarına katkıda bulunmuştur.
 
 Muğla bölgesinde de benzer bir durum söz konusudur. Bölge, tarih boyunca insanların yaşamlarını sürdürdükleri ve doğal kaynaklardan yararlandıkları bir coğrafya olarak görülmüştür. Sandık Dağı da, bu bağlamda önemli bir yere sahiptir. Doğal güzelliği ve coğrafi konumuyla, insanların dikkatini çekmiş ve çeşitli faaliyetlere ev sahipliği yapmıştır.
 
@@ -50,11 +50,11 @@ Bölgenin ekolojik dengesini koruma altına alan çevresel ilişkiler, Sandık D
 
 ## Flora ve Fauna
 
-Sandık Dağı, Muğla'nın zeytinliklere ve çam ormanlarına ev sahipliği yapan Akdeniz ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sandık Dağı, Muğla'nın zeytinliklere ve çam ormanlarına ev sahipliği yapan Akdeniz ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında çam ağaçları serin bir gölge sağlıyor. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızının tonlarını sergiliyor. Dağın yükseklik zonlarına uygun olarak, alpin flora çeşitliliği de görülebiliyor.
 
-Yaban Hayatı açısından, dağda memeliler, kuşlar ve sürüngenler barınıyor. Göç mevsiminde, çeşitli kuş türleri bu bölgeyi ziyaret ediyor. Sürüngenler ve memeliler ise dağın kayalık ve ormanlık alanlarında yaşamını sürdürüyor. 
+Yaban Hayatı açısından, dağda memeliler, kuşlar ve sürüngenler barınıyor. Göç mevsiminde, çeşitli kuş türleri bu bölgeyi ziyaret ediyor. Sürüngenler ve memeliler ise dağın kayalık ve ormanlık alanlarında yaşamını sürdürüyor.
 
 Ekolojik Değer olarak, Sandık Dağı'nın bu dağ ekosistemi, bölgenin ekolojik dengesini koruması açısından önemli bir rol oynuyor. Bu nedenle, koruma altına alınması ve doğal kaynaklarının sürdürülebilir kullanımı büyük önem taşıyor.
 

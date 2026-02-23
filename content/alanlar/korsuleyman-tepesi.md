@@ -36,7 +36,7 @@ Körsüleyman Tepesi, tarihi geçmişi ile dikkat çeker. Bu tepe, yüzyıllar b
 
 ## Coğrafya
 
-Körsüleyman Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Körsüleyman Tepesi, çevresi ile birlikte doğal güzellikler sunar. Bu tepe, Kayseri'nin iklimini ve coğrafi özelliklerini yansıtan önemli bir noktadır. Körsüleyman Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar ve bölgenin coğrafi yapısını keşfetme fırsatı sunar. Bu tepe, doğa severler için ideal bir gezi noktasıdır ve ziyaretçilerini güzel manzaralarla karşılar.
+Körsüleyman Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Körsüleyman Tepesi, çevresi ile birlikte doğal güzellikler sunar. Bu tepe, Kayseri'nin iklimini ve coğrafi özelliklerini yansıtan önemli bir noktadır. Körsüleyman Tepesi, ziyaretçilerini doğal güzellikleriyle karşılar ve bölgenin coğrafi yapısını keşfetme fırsatı sunar. Bu tepe, doğa severler için ideal bir gezi noktasıdır ve ziyaretçilerini güzel manzaralarla karşılar.
 
 ## Flora ve Fauna
 

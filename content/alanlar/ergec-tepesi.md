@@ -28,7 +28,7 @@ wikidata_id: "Q34867830"
 
 # Ergeç Tepesi
 
-Ergeç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan geniş bir yeşil alan olarak dikkat çekiyor. Yaklaşık 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş yeşil alan, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet veriyor. Ergeç Tepesi, aynı zamanda doğa severler ve fotoğraf meraklıları için de bir cennet olarak kabul ediliyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Ergeç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan geniş bir yeşil alan olarak dikkat çekiyor. Bu geniş yeşil alan, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet veriyor. Ergeç Tepesi, aynı zamanda doğa severler ve fotoğraf meraklıları için de bir cennet olarak kabul ediliyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Ergeç Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf meraklıları için 
 ## İlginç Bilgiler
 
 - Ergeç Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Ergeç Tepesi, Ankara'nın şehir merkezine yakın bir konumda yer alıyor.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 - Ergeç Tepesi, önemli bir ekosistem olarak kabul ediliyor.

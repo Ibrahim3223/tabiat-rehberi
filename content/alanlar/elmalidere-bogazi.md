@@ -22,7 +22,7 @@ wikidata_id: "Q108227880"
 
 # Elmalidere Bogazı
 
-Elmalidere Bogazı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal varlık kaynaklarından biridir. Bu alan, yerel yaşam için önemli bir ekosistem oluştururken, aynı zamanda ziyaretçiler için de doğal güzellikleri keşfetme fırsatı sunar. Elmalidere Bogazı, bölgenin coğrafi ve ekolojik çeşitliliğini yansıtması bakımından önemli bir turizm merkezidir.
+Elmalidere Bogazı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. Bu alan, yerel yaşam için önemli bir ekosistem oluştururken, aynı zamanda ziyaretçiler için de doğal güzellikleri keşfetme fırsatı sunar. Elmalidere Bogazı, bölgenin coğrafi ve ekolojik çeşitliliğini yansıtması bakımından önemli bir turizm merkezidir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Elmalidere Bogazı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Elmalidere Bogazı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir milli parktır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal özellikler gösterir. Elmalidere Bogazı, yerel yaşam için önemli bir su kaynağı olan akarsular ve göllerle çevrilidir. Bu milli park, bölgenin doğal güzelliklerini koruma altına almak amacıyla oluşturulmuş ve ziyaretçiler için çeşitli gezi ve gözlem olanakları sunar.
+Elmalidere Bogazı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir milli parktır. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim koşullarına uygun olarak karasal özellikler gösterir. Elmalidere Bogazı, yerel yaşam için önemli bir su kaynağı olan akarsular ve göllerle çevrilidir. Bu milli park, bölgenin doğal güzelliklerini koruma altına almak amacıyla oluşturulmuş ve ziyaretçiler için çeşitli gezi ve gözlem olanakları sunar.
 
 ## Flora ve Fauna
 

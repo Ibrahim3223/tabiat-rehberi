@@ -22,7 +22,7 @@ wikidata_id: "Q108228610"
 
 # KIRŞEHİR KENT ORMANI
 
-Kırşehir Kent Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Orman, şehir merkezine yakın konumda bulunduğundan ulaşımı oldukça kolay. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu orman, aynı zamanda bölgenin ekolojik dengesine de büyük katkı sağlıyor.
+Kırşehir Kent Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Orman, şehir merkezine yakın konumda bulunduğundan ulaşımı oldukça kolay. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu orman, aynı zamanda bölgenin ekolojik dengesine de büyük katkı sağlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kırşehir Kent Ormanı'nın tarihi geçmişi, şehrin kurulduğu dönemlere kad
 
 ## Coğrafya
 
-Kırşehir Kent Ormanı, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Orman, bozkır ve step alanlarının birleştiği bir bölgede yer alıyor ve bu nedenle oldukça zengin bir flora ve fauna çeşitliliğine sahip. Orman alanı, 140 hektarlık geniş bir alana yayılıyor ve bu alan, yaklaşık olarak 200 futbol sahası büyüklüğünde. Ormanın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve piknik alanları sunuyor. Ayrıca, ormanın bulunduğu bölge, İç Anadolu Bölgesi'nin iklimini yansıtıyor; yani karasal iklim hüküm sürüyor ve bu nedenle kışlar soğuk, yazlar ise sıcakk geçiyor. Bu coğrafi ve iklimsel özellikler, ormanın ekosistemini şekillendiriyor ve burada yaşayan canlıların çeşitliliğini artırıyor.
+Kırşehir Kent Ormanı, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Orman, bozkır ve step alanlarının birleştiği bir bölgede yer alıyor ve bu nedenle oldukça zengin bir flora ve fauna çeşitliliğine sahip. Ormanın coğrafi yapısı, ziyaretçilere çeşitli yürüyüş parkurları ve piknik alanları sunuyor. Ayrıca, ormanın bulunduğu bölge, İç Anadolu Bölgesi'nin iklimini yansıtıyor; yani karasal iklim hüküm sürüyor ve bu nedenle kışlar soğuk, yazlar ise sıcakk geçiyor. Bu coğrafi ve iklimsel özellikler, ormanın ekosistemini şekillendiriyor ve burada yaşayan canlıların çeşitliliğini artırıyor.
 
 ## Flora ve Fauna
 

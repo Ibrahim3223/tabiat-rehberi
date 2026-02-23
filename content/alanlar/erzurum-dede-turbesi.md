@@ -1,7 +1,7 @@
 ---
 title: "Erzurum Dede Türbesi"
 date: "2026-01-10T06:37:30.582Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çorum"
@@ -28,7 +28,7 @@ wikidata_id: "Q135582714"
 
 # Erzurum Dede Türbesi
 
-Erzurum Dede Türbesi, Çorum'un güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Türbenin etrafında çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Erzurum Dede Türbesi, hem tarihi değerleriyle hem de doğal güzellikleriyle dikkat çekiyor.
+Erzurum Dede Türbesi, Çorum'un güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi türbe, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Türbenin etrafında çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Erzurum Dede Türbesi, hem tarihi değerleriyle hem de doğal güzellikleriyle dikkat çekiyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Erzurum Dede Türbesi, Çorum'un coğrafi olarak zengin bir bölgesinde yer alı
 
 ## Flora ve Fauna
 
-Erzurum Dede Türbesi'nin etrafı, çeşitli bitki türleriyle dolu. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri found. Bahar aylarında, çiçeklerin rengarenk bir hal alması, ziyaretçilerin ilgisini çekiyor. Kış aylarında ise, karla kaplı bir manzara, ziyaretçilere farklı bir güzellik sunuyor. Bölgede, zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Erzurum Dede Türbesi, flora ve fauna açısından oldukça zengin bir bölge olarak karşımıza çıkıyor.
+Erzurum Dede Türbesi'nin etrafı, çeşitli bitki türleriyle dolu. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri found. Bahar aylarında, çiçeklerin rengarenk bir hal alması, ziyaretçilerin ilgisini çekiyor. Kış aylarında ise, karla kaplı bir manzara, ziyaretçilere farklı bir güzellik sunuyor. Bölgede, zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
 
 ## Ziyaret Bilgileri
 

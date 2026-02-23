@@ -22,7 +22,7 @@ wikidata_id: "Q108226422"
 
 # Gökova Davut Sit Alanı
 
-Gökova Davut Sit Alanı, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık geniş bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir doğal cennet olarak karşımıza çıkıyor. Bu alan, bölgenin ekolojik dengesini korumak amacıyla korunan bir sit alanı olarak belirlenmiştir. Gökova Davut Sit Alanı, ziyaretçilerini doğanın güzelliği ve çeşitliliği ile büyülemektedir. Burada, çeşitli bitki türleri ve hayvanlar, doğanın uyum içinde yaşamasının bir kanıtı olarak görülebilir. Bu doğal güzellikler, ziyaretçilere huzur ve dinlenme fırsatı sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme imkanı da sunar.
+ Bu alan, bölgenin ekolojik dengesini korumak amacıyla korunan bir sit alanı olarak belirlenmiştir. Gökova Davut Sit Alanı, ziyaretçilerini doğanın güzelliği ve çeşitliliği ile büyülemektedir. Burada, çeşitli bitki türleri ve hayvanlar, doğanın uyum içinde yaşamasının bir kanıtı olarak görülebilir. Bu doğal güzellikler, ziyaretçilere huzur ve dinlenme fırsatı sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme imkanı da sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Gökova Davut Sit Alanı, tarihi geçmişi ile dikkat çekmektedir. Bu bölge, y
 
 ## Coğrafya
 
-Gökova Davut Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. 140 hektarlık geniş bir alanda yer alan bu sit alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna ve flora çeşitliliğine sahiptir. Gökova Davut Sit Alanı, ziyaretçilerine doğanın güzelliği ile büyüleme imkanı sunarken, aynı zamanda bölgenin coğrafi yapısını da keşfetme fırsatı sunar. Bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilerine bölgenin coğrafi güzelliğini keşfetme imkanı sunar. Gökova Davut Sit Alanı, coğrafi konumu itibarıyla, ziyaretçilerine bölgenin iklimini, yapılarını ve doğal kaynaklarını keşfetme fırsatı sunar.
+Gökova Davut Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna ve flora çeşitliliğine sahiptir. Gökova Davut Sit Alanı, ziyaretçilerine doğanın güzelliği ile büyüleme imkanı sunarken, aynı zamanda bölgenin coğrafi yapısını da keşfetme fırsatı sunar. Bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilerine bölgenin coğrafi güzelliğini keşfetme imkanı sunar. Gökova Davut Sit Alanı, coğrafi konumu itibarıyla, ziyaretçilerine bölgenin iklimini, yapılarını ve doğal kaynaklarını keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Gökova Davut Sit Alanı, ziyaretçilerine doğanın güzelliği ile büyüleme 
 ## İlginç Bilgiler
 
 - Gökova Davut Sit Alanı, İç Anadolu Bölgesi'nin en önemli doğal sit alanlarından birisidir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Gökova Davut Sit Alanı, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna ve flora çeşitliliğine sahiptir.
 - Bu bölge, bölgenin ekolojik dengesini koruma altına alma fırsatı sunar.
 - Gökova Davut Sit Alanı, ziyaretçilerine bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar.

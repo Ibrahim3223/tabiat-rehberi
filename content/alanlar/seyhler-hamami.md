@@ -1,7 +1,7 @@
 ---
 title: "Şeyhler Hamamı"
 date: "2026-01-09T22:20:19.272Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738421"
 
 # Şeyhler Hamamı
 
-Şeyhler Hamamı, Erzurum'un Yakutiye ilçesinde yer alan bir plajdır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere rahat ve konforlu bir ortam sağlar. Yeşil alanın içinde yer alan çeşitli bitkiler ve ağaçlar, ziyaretçilere doğanın güzelliğini sunar. Şeyhler Hamamı, hem yerli hem de yabancı turistlerin ilgi odağıdır. Ziyaretçiler, bu güzel plajda güneş banyosu yapabilir, denizde yüzebilir veya yeşil alanın keyfini çıkarabilir.
+Şeyhler Hamamı, Erzurum'un Yakutiye ilçesinde yer alan bir plajdır. Bu geniş alan, ziyaretçilere rahat ve konforlu bir ortam sağlar. Yeşil alanın içinde yer alan çeşitli bitkiler ve ağaçlar, ziyaretçilere doğanın güzelliğini sunar. Şeyhler Hamamı, hem yerli hem de yabancı turistlerin ilgi odağıdır. Ziyaretçiler, bu güzel plajda güneş banyosu yapabilir, denizde yüzebilir veya yeşil alanın keyfini çıkarabilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738421"
 
 ## Coğrafya
 
-Şeyhler Hamamı, Doğu Anadolu Bölgesi'nde yer alan Erzurum'un Yakutiye ilçesinde bulunmaktadır. Bu plaj, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Yeşil alanın içinde yer alan çeşitli bitkiler ve ağaçlar, ziyaretçilere doğanın güzelliğini sunar. Plajın coğrafi konumu, ziyaretçilere hem deniz hem de dağ manzarasının keyfini çıkarma fırsatı sunar. Şeyhler Hamamı, ziyaretçilere konforlu ve rahat bir ortam sağlayan geniş bir alana sahiptir. Plajın coğrafi konumu, ziyaretçilerin ilgisini çekmekte ve onlara farklı bir deneyim sunmaktadır. Şeyhler Hamamı, ziyaretçilerin doğal güzelliğini keşfetme ve coğrafi konumunu öğrenmek için ideal bir yerdir.
+Şeyhler Hamamı, Doğu Anadolu Bölgesi'nde yer alan Erzurum'un Yakutiye ilçesinde bulunmaktadır. Yeşil alanın içinde yer alan çeşitli bitkiler ve ağaçlar, ziyaretçilere doğanın güzelliğini sunar. Plajın coğrafi konumu, ziyaretçilere hem deniz hem de dağ manzarasının keyfini çıkarma fırsatı sunar. Şeyhler Hamamı, ziyaretçilere konforlu ve rahat bir ortam sağlayan geniş bir alana sahiptir. Plajın coğrafi konumu, ziyaretçilerin ilgisini çekmekte ve onlara farklı bir deneyim sunmaktadır. Şeyhler Hamamı, ziyaretçilerin doğal güzelliğini keşfetme ve coğrafi konumunu öğrenmek için ideal bir yerdir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ wikidata_id: "Q131738421"
 
 ## İlginç Bilgiler
 
-- Şeyhler Hamamı, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
 - Plaj, çeşitli bitkiler ve ağaçlar ile ziyaretçilere doğanın güzelliğini sunar.
 - Şeyhler Hamamı, tarihsel geçmişi ile dikkat çeker.
 - Plaj, ziyaretçilere hem doğal güzelliği hem de tarihsel önemi sunar.

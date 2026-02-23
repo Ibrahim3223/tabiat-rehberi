@@ -28,7 +28,7 @@ wikidata_id: "Q31386637"
 
 # Sıracakaya Tepesi
 
-Sıracakaya Tepesi, Şanlıurfa'nın merkezine yakın bir konumda yer alan ve bölgenin önemli tarihi ve doğal güzelliklerini sunan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir manzara sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found, bu bölgenin ekolojik önemini vurguluyor. Tarihi geçmişi ile de dikkat çeken Sıracakaya Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.
+Sıracakaya Tepesi, Şanlıurfa'nın merkezine yakın bir konumda yer alan ve bölgenin önemli tarihi ve doğal güzelliklerini sunan bir tepe. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found, bu bölgenin ekolojik önemini vurguluyor. Tarihi geçmişi ile de dikkat çeken Sıracakaya Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış.
 
 ## Tarihçe
 

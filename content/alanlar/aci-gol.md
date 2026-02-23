@@ -49,7 +49,7 @@ Doğal bir su kaynağı olan Acı Göl, yaklaşık bir şehir bloğu büyüklü�
 
 ## Flora ve Fauna
 
-Acı Göl, Konya'nın kurak bozkırında bir vaha gibi duran bir sulak alan. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Acı Göl, Konya'nın kurak bozkırında bir vaha gibi duran bir sulak alan. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 **Bitki Örtüsü**: Step bitki örtüsünün hakim olduğu bu bölgede, ilkbaharın gelmesiyle birlikte renkli çiçekler açarak gölü bir çiçek denizi haline getirir. Bu mevsimsel değişim, su kuşları ve diğer canlılar için önemli bir besin kaynağı sağlar.
 

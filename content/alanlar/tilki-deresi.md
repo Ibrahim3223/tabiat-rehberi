@@ -33,7 +33,7 @@ Kars'ın doğal güzelliklerini keşfetmek isteyenler için Tilki Deresi, bir ka
 
 ## Tarihçe
 
-Kars bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Binlerce yıl önce, bu topraklarda çeşitli uygarlıklar yaşamıştır. İskitler, Persler, Romalılar ve Selçuklular gibi medeniyetler, bu bölgeyi kontrol etmek için mücadele etmişlerdir. Tilki Deresi kanyonu, bu tarihi sürecin bir parçası olarak, bölgenin doğal güzelliklerini ve stratejik önemini vurgular.
+Kars bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Binlerce yıl önce, bu topraklarda çeşitli uygarlıklar yaşamıştır. İskitler, Persler, Romalılar ve Selçuklular gibi medeniyetler, bu bölgeyi kontrol etmek için mücadele etmişlerdir. Tilki Deresi kanyonu, bu tarihi sürecin bir parçası olarak, bölgenin doğal güzelliklerini ve stratejik önemini vurgular.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir rol oynamıştır. Özellikle yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların yaşam biçiminin temelini oluşturmuştur. Tilki Deresi kanyonu, bu tür doğal alanların bir örneğini sunar. Bölgedeki insan yerleşimleri, bu doğal güzelliklerin etrafında şekillenmiştir.
 
@@ -51,11 +51,11 @@ Mevsimsel olarak Tilki Deresi, Kars'ın karasal ikliminin etkilerini taşıyor. 
 
 ## Flora ve Fauna
 
-Tilki Deresi kanyonu, yüksek dağ ekolojisinin hüküm sürdüğü bir bölgede yer alır. Bu alan, alpin çayırların çeşitliliği ve endemik türlerle dolu bir cennettir. 
+Tilki Deresi kanyonu, yüksek dağ ekolojisinin hüküm sürdüğü bir bölgede yer alır. Bu alan, alpin çayırların çeşitliliği ve endemik türlerle dolu bir cennettir.
 
-Bitki örtüsünü oluşturan çeşitli yüksek dağ çayırları, ilkbaharın gelmesiyle birlikte renkli bir hal alır. Çiçekler açmaya başlar ve bu manzara, sonbahara kadar sürer. Bu dönemde, çayırların rengi sarı, turuncu ve kırmızı tonlara dönüşür. 
+Bitki örtüsünü oluşturan çeşitli yüksek dağ çayırları, ilkbaharın gelmesiyle birlikte renkli bir hal alır. Çiçekler açmaya başlar ve bu manzara, sonbahara kadar sürer. Bu dönemde, çayırların rengi sarı, turuncu ve kırmızı tonlara dönüşür.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Kanyonun yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşam alanlarını bulur. Kuşlar ise, göç mevsiminde bu bölgeyi ziyaret eder. Sürüngenler de, kanyonun kayalık alanlarında yaşamlarını sürdürür. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Kanyonun yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşam alanlarını bulur. Kuşlar ise, göç mevsiminde bu bölgeyi ziyaret eder. Sürüngenler de, kanyonun kayalık alanlarında yaşamlarını sürdürür.
 
 Ekolojik değeri yüksek olan bu bölge, endemik türlerin korunması açısından önemlidir. Bu nedenle, koruma altına alınmıştır. Doğal dengenin korunması, bu bölgenin geleceğiçin çok önemlidir. Bu sayede, Tilki Deresi kanyonu, gelecekte de canlı çeşitliliğini koruyabilecektir.
 

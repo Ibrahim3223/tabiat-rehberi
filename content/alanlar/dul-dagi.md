@@ -50,7 +50,7 @@ Mevsimsel değişikliklere bakıldığında, Dul Dağı, bölgenin iklim karakte
 
 ## Flora ve Fauna
 
-Dul Dağı, Balıkesir'in doğal güzelliklerinin korunduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Dul Dağı, Balıkesir'in doğal güzelliklerinin korunduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü: Dağın yükseklik zonlarına göre değişen flora, ilkbaharda çiçeklerle renklendirilirken, sonbaharda sarı ve kahverengi tonlara bürünüyor. Karma ormanlar, dağların eteklerinde yer alıyor.
 

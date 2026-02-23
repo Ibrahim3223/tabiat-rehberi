@@ -28,7 +28,7 @@ wikidata_id: "Q31391236"
 
 # Gıldızırı Tepesi
 
-Gıldızırı Tepesi, İç Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepe, ziyaretçilerini hem doğanın güzelliği ile hem de tarihi geçmişiyle büyülüyor. Gıldızırı Tepesi, bölgenin önemli bir turizm merkezi olarak dikkat çekiyor ve her yıl birçok ziyaretçi tarafından tercih ediliyor. Tepenin etrafında bulunan köyler ve kasabalar, ziyaretçilere konaklama ve yemek hizmeti sunuyor.
+Gıldızırı Tepesi, İç Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, ziyaretçilerini hem doğanın güzelliği ile hem de tarihi geçmişiyle büyülüyor. Gıldızırı Tepesi, bölgenin önemli bir turizm merkezi olarak dikkat çekiyor ve her yıl birçok ziyaretçi tarafından tercih ediliyor. Tepenin etrafında bulunan köyler ve kasabalar, ziyaretçilere konaklama ve yemek hizmeti sunuyor.
 
 ## Tarihçe
 

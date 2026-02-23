@@ -23,7 +23,7 @@ wikidata_id: "Q108228601"
 
 # AYDOS
 
-AYDOS, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülürse, buranın ne kadar geniş ve ferah bir mekan olduğu anlaşılabilir. Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırıp, doğanın sakin ve huzurlu atmosferine davet ediyor. AYDOS'un sunduğu bu geniş alan, hem doğa severler hem de dinlenmek isteyenler için ideal bir destinasyon.
+AYDOS, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırıp, doğanın sakin ve huzurlu atmosferine davet ediyor. AYDOS'un sunduğu bu geniş alan, hem doğa severler hem de dinlenmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

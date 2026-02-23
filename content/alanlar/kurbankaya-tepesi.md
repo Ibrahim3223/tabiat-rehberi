@@ -28,7 +28,7 @@ wikidata_id: "Q31389739"
 
 # Kurbankaya Tepesi
 
-Kurbankaya Tepesi, Kastamonu'nun güzel manzaralarına ev sahipliği yapan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, hem doğa severler hem de tarihe meraklı olanlar için önemli bir nokta. Kurbankaya Tepesi, Kastamonu'nun tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon.
+Kurbankaya Tepesi, Kastamonu'nun güzel manzaralarına ev sahipliği yapan bir tepe. Bu tepe, hem doğa severler hem de tarihe meraklı olanlar için önemli bir nokta. Kurbankaya Tepesi, Kastamonu'nun tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

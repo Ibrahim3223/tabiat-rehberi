@@ -29,7 +29,7 @@ wikidata_id: "Q134728399"
 
 # Baruthane Tümülüsleri İlkadım
 
-Baruthane Tümülüsleri İlkadım, Karadeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Samsun'un İlkadım ilçesinde yer alıyor. Bu bölge, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, hem tarihi hem de doğal güzelliği bir arada deneyimleyebilecekleri bu mekan, turizm açısından önemli bir yere sahip.
+Baruthane Tümülüsleri İlkadım, Karadeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Bu bölge, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, hem tarihi hem de doğal güzelliği bir arada deneyimleyebilecekleri bu mekan, turizm açısından önemli bir yere sahip.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Baruthane Tümülüsleri İlkadım'ın tarihi geçmişi, yüzyıllar boyunca çe
 
 ## Coğrafya
 
-Baruthane Tümülüsleri İlkadım, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilliklerle çevrili bir alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Samsun'un İlkadım ilçesinde yer alıyor. Bu bölge, deniz seviyesine yakın bir yükseklikte yer almaktadır. Coğrafi yapı, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak tanır. Ayrıca, bölgenin iklimi, Karadeniz Bölgesi'ne özgü ılıman iklimdir. Bu iklim, ziyaretçilerin yılın herhangi bir döneminde bölgeyi ziyaret etmelerine olanak tanır.
+Baruthane Tümülüsleri İlkadım, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşilliklerle çevrili bir alandır. Bu bölge, deniz seviyesine yakın bir yükseklikte yer almaktadır. Coğrafi yapı, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak tanır. Ayrıca, bölgenin iklimi, Karadeniz Bölgesi'ne özgü ılıman iklimdir. Bu iklim, ziyaretçilerin yılın herhangi bir döneminde bölgeyi ziyaret etmelerine olanak tanır.
 
 ## Flora ve Fauna
 

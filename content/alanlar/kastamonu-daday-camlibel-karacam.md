@@ -22,7 +22,7 @@ wikidata_id: "Q108227681"
 
 # Kastamonu-Daday-Camlibel-Karacam
 
-Kastamonu-Daday-Camlibel-Karacam milli parkı, Karadeniz Bölgesi'nde yer alan Kastamonu'nun en önemli doğal güzelliklerinden biridir. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın derinliklerine çekmeyi başarıyor. Burada, yaban hayatının zenginliği ve çeşitli bitki türleri, ziyaretçilere unutulmaz bir deneyim sunuyor. Kastamonu'nun tarihi geçmişi ve kültürel zenginliği de bu parkın önemini artırıyor. Doğa severlerin ve macera arayanların uğrak noktası olan Kastamonu-Daday-Camlibel-Karacam milli parkı, her mevsim farklı güzelliği ile ziyaretçilerini bekliyor.
+Kastamonu-Daday-Camlibel-Karacam milli parkı, Karadeniz Bölgesi'nde yer alan Kastamonu'nun en önemli doğal güzelliklerinden biridir. Burada, yaban hayatının zenginliği ve çeşitli bitki türleri, ziyaretçilere unutulmaz bir deneyim sunuyor. Kastamonu'nun tarihi geçmişi ve kültürel zenginliği de bu parkın önemini artırıyor. Doğa severlerin ve macera arayanların uğrak noktası olan Kastamonu-Daday-Camlibel-Karacam milli parkı, her mevsim farklı güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Kastamonu-Daday-Camlibel-Karacam milli parkını ziyaret etmek, doğa severler v
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkın flora ve fauna çeşitliliği, ziyaretçilere doğanın güzelliğini gösteriyor.
 - Kastamonu'nun tarihi geçmişi, milli parkın değerini ve çekiciliğini artırıyor.
 - Parkın coğrafi konumu, ziyaretçilere farklı bir deneyim sunuyor.

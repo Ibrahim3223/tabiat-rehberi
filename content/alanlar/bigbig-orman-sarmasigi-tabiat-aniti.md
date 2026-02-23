@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Bığbığ Orman Sarmaşığı Tabiat Anıtı
 
-Bığbığ Orman Sarmaşığı Tabiat Anıtı, Adana ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir alandır. Bu tabiat anıtı, 140 hektarlık bir alan kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu alan, aynı zamanda ekolojik dengenin korunması için önemli bir rol oynar. Bığbığ Orman Sarmaşığı Tabiat Anıtı, ziyaretçilerini doğanın güzelliği ve zenginliği ile baş başa bırakmak için ideal bir destinasyon olarak görülüyor.
+Bığbığ Orman Sarmaşığı Tabiat Anıtı, Adana ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir alandır. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu alan, aynı zamanda ekolojik dengenin korunması için önemli bir rol oynar. Bığbığ Orman Sarmaşığı Tabiat Anıtı, ziyaretçilerini doğanın güzelliği ve zenginliği ile baş başa bırakmak için ideal bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 

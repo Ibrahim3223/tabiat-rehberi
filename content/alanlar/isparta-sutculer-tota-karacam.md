@@ -22,7 +22,7 @@ wikidata_id: "Q108227508"
 
 # Isparta-Sutculer-Tota Karacam
 
-Isparta-Sutculer-Tota Karacam milli parkı, Akdeniz Bölgesi'nin güzide şehirlerinden Isparta'da yer alıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş alan, çeşitli bitki türleri ve zengin fauna çeşitliliğiyle dikkat çekiyor. Parkın konumu, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor. Isparta-Sutculer-Tota Karacam milli parkı, doğa severler ve tarih meraklıları için ideal bir destinasyon olarak öne çıkıyor.
+Isparta-Sutculer-Tota Karacam milli parkı, Akdeniz Bölgesi'nin güzide şehirlerinden Isparta'da yer alıyor. Bu geniş alan, çeşitli bitki türleri ve zengin fauna çeşitliliğiyle dikkat çekiyor. Parkın konumu, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor. Isparta-Sutculer-Tota Karacam milli parkı, doğa severler ve tarih meraklıları için ideal bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Isparta-Sutculer-Tota Karacam milli parkının tarihi geçmişi, yüzyıllar boy
 
 ## Coğrafya
 
-Isparta-Sutculer-Tota Karacam milli parkı, Isparta ilinin Sutculer ve Tota Karacam bölgelerinde yer alıyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna çeşitliliğiyle dikkat çekiyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Parkın iklimi, Akdeniz ikliminin característicasını taşıyor ve ziyaretçiler, mevsimsel değişimlerin güzelliğini gözlemleyebilir. Isparta-Sutculer-Tota Karacam milli parkı, ziyaretçilere hem doğal güzellikleri hem de bölgenin coğrafi özellikleri hakkında bilgi edinme fırsatı sunuyor. Parkın çevresi, çeşitli bitki türleri ve fauna çeşitliliğiyle zengin bir ekosistemi oluşturuyor. Isparta-Sutculer-Tota Karacam milli parkı, doğa severler ve çevre meraklıları için ideal bir destinasyon olarak öne çıkıyor.
+Isparta-Sutculer-Tota Karacam milli parkı, Isparta ilinin Sutculer ve Tota Karacam bölgelerinde yer alıyor. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna çeşitliliğiyle dikkat çekiyor. Parkın iklimi, Akdeniz ikliminin característicasını taşıyor ve ziyaretçiler, mevsimsel değişimlerin güzelliğini gözlemleyebilir. Isparta-Sutculer-Tota Karacam milli parkı, ziyaretçilere hem doğal güzellikleri hem de bölgenin coğrafi özellikleri hakkında bilgi edinme fırsatı sunuyor. Parkın çevresi, çeşitli bitki türleri ve fauna çeşitliliğiyle zengin bir ekosistemi oluşturuyor. Isparta-Sutculer-Tota Karacam milli parkı, doğa severler ve çevre meraklıları için ideal bir destinasyon olarak öne çıkıyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32200898"
 
 # Koçululdağı Tepe
 
-Konya, İç Anadolu Bölgesi'nin önemli noktalarından biri olan Koçululdağı Tepe, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle karşılar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Koçululdağı Tepe, Konya'nın doğal güzelliklerini ve tarihi geçmişini bir araya getiren önemli bir noktadır. Burada, doğa severler ve tarih meraklıları için birçok ilgi çekici nokta bulunur. Koçululdağı Tepe, Konya'nın turizm potansiyelini gösteren bir alandır.
+Konya, İç Anadolu Bölgesi'nin önemli noktalarından biri olan Koçululdağı Tepe, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle karşılar. Koçululdağı Tepe, Konya'nın doğal güzelliklerini ve tarihi geçmişini bir araya getiren önemli bir noktadır. Burada, doğa severler ve tarih meraklıları için birçok ilgi çekici nokta bulunur. Koçululdağı Tepe, Konya'nın turizm potansiyelini gösteren bir alandır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Koçululdağı Tepe, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altınd
 
 ## Coğrafya
 
-Koçululdağı Tepe, Konya'nın coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterizedir. Koçululdağı Tepe, bu coğrafi yapıların bir parçası olarak, bölgenin iklim ve bitki örtüsünü etkiler. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Bu alan, Konya'nın doğal güzelliklerini ve coğrafi çeşitliliğini göstermektedir. Koçululdağı Tepe, Konya'nın coğrafi zenginliklerini keşfetmek için ideal bir noktadır. Burada, doğa severler ve coğrafya meraklıları için birçok ilgi çekici nokta bulunur.
+Koçululdağı Tepe, Konya'nın coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterizedir. Koçululdağı Tepe, bu coğrafi yapıların bir parçası olarak, bölgenin iklim ve bitki örtüsünü etkiler. Bu alan, Konya'nın doğal güzelliklerini ve coğrafi çeşitliliğini göstermektedir. Koçululdağı Tepe, Konya'nın coğrafi zenginliklerini keşfetmek için ideal bir noktadır. Burada, doğa severler ve coğrafya meraklıları için birçok ilgi çekici nokta bulunur.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Karamanoğlu Mehmet Bey Türbesi"
 date: "2026-01-10T05:33:07.250Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391371"
 
 # Karamanoğlu Mehmet Bey Türbesi
 
-Karamanoğlu Mehmet Bey Türbesi, Karaman ilinin Ermenek ilçesinde yer alan bir türbe ve plaj alanıdır. Bu bölge, tarihi ve doğal güzellikleri bir arada sunmasıyla dikkat çeker. Türbe, Karamanoğlu Mehmet Bey'in mezarının bulunduğu yer olarak bilinir ve tarihi öneme sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli bitki türleri bulunur. Tarihi geçmişiyle birlikte, bu bölge hem yerel halk hem de turistler için önemli bir çekim merkezi haline gelmiştir.
+Karamanoğlu Mehmet Bey Türbesi, Karaman ilinin Ermenek ilçesinde yer alan bir türbe ve plaj alanıdır. Bu bölge, tarihi ve doğal güzellikleri bir arada sunmasıyla dikkat çeker. Türbe, Karamanoğlu Mehmet Bey'in mezarının bulunduğu yer olarak bilinir ve tarihi öneme sahiptir. Tarihi geçmişiyle birlikte, bu bölge hem yerel halk hem de turistler için önemli bir çekim merkezi haline gelmiştir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karamanoğlu Mehmet Bey Türbesi, tarihsel olarak önemli bir figür olan Karama
 
 ## Coğrafya
 
-Karamanoğlu Mehmet Bey Türbesi, İç Anadolu Bölgesi'nde yer alan Karaman ilinin Ermenek ilçesinde bulunur. Bu bölge, coğrafi olarak zengin bir yapıya sahiptir. Türbe ve plaj alanı, çevredeki dağlar ve vadilerle çevrilidir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Çevre, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosistemi barındırır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilerin geniş bir alanda gezebilmelerine olanak tanır. Coğrafi konumu itibariyle, Karamanoğlu Mehmet Bey Türbesi ve plaj alanı, hem doğal güzellikleri hem de tarihi önemi ile dikkat çeker.
+Karamanoğlu Mehmet Bey Türbesi, İç Anadolu Bölgesi'nde yer alan Karaman ilinin Ermenek ilçesinde bulunur. Bu bölge, coğrafi olarak zengin bir yapıya sahiptir. Türbe ve plaj alanı, çevredeki dağlar ve vadilerle çevrilidir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Çevre, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosistemi barındırır. Coğrafi konumu itibariyle, Karamanoğlu Mehmet Bey Türbesi ve plaj alanı, hem doğal güzellikleri hem de tarihi önemi ile dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Karamanoğlu Mehmet Bey Türbesi ve plaj alanını ziyaret etmek, hem tarihi hem
 - Türbe, Karamanoğlu Mehmet Bey'in mezarının bulunduğu yerdir.
 - Bölge, 140 hektarlık bir yeşil alan üzerine kuruludur.
 - Plaj alanı, çeşitli bitki türleri ve yaban hayatı ile çevrilidir.
-- Karamanoğlu Mehmet Bey Türbesi, tarihi önemiyle birlikte önemli bir turistik destinasyondur.
+

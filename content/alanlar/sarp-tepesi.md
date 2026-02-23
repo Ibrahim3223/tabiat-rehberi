@@ -28,7 +28,7 @@ wikidata_id: "Q31388962"
 
 # Şarp Tepesi
 
-Şarp Tepesi, Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Şarp Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul edilir. Bu tepe, aynı zamanda kış sporları ve dağcılık için uygun bir alan olarak bilinir. Şarp Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir noktadır.
+Şarp Tepesi, Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olarak bilinir. Şarp Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul edilir. Bu tepe, aynı zamanda kış sporları ve dağcılık için uygun bir alan olarak bilinir. Şarp Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q31388962"
 
 ## Coğrafya
 
-Şarp Tepesi, Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Şarp Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu tepe, aynı zamanda kış sporları ve dağcılık için uygun bir alan olarak bilinir. Şarp Tepesi'nin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Bu tepe, aynı zamanda bölgenin su kaynaklarını şekillendiren önemli bir faktör olarak kabul edilir. Şarp Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul edilir. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir noktadır.
+Şarp Tepesi, Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olarak bilinir. Şarp Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu tepe, aynı zamanda kış sporları ve dağcılık için uygun bir alan olarak bilinir. Şarp Tepesi'nin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Bu tepe, aynı zamanda bölgenin su kaynaklarını şekillendiren önemli bir faktör olarak kabul edilir. Şarp Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul edilir. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir noktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ wikidata_id: "Q31388962"
 ## İlginç Bilgiler
 
 - Şarp Tepesi, Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olarak bilinir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Şarp Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Bu tepe, aynı zamanda kış sporları ve dağcılık için uygun bir alan olarak bilinir.
 - Şarp Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak kabul edilir.

@@ -28,7 +28,7 @@ wikidata_id: "Q32196079"
 
 # Yücebel Tepesi
 
-Yozgat'ın İç Anadolu Bölgesi'nde bulunan Yücebel Tepesi, bölgenin en dikkat çekici doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini etkileyen bir manzaraya sahiptir. Bu tepe, çevredeki diğer tepe ve dağlarla birlikte, bölgeye özel bir karakter kazandırır. Yücebel Tepesi, aynı zamanda bölgenin tarihi ve kültürel önemini de taşır. Ziyaretçiler, bu tepeye çıkarak hem doğal güzelliği hem de tarihi değerlerini keşfedebilir.
+Yozgat'ın İç Anadolu Bölgesi'nde bulunan Yücebel Tepesi, bölgenin en dikkat çekici doğal güzelliklerinden biridir. Bu tepe, çevredeki diğer tepe ve dağlarla birlikte, bölgeye özel bir karakter kazandırır. Yücebel Tepesi, aynı zamanda bölgenin tarihi ve kültürel önemini de taşır. Ziyaretçiler, bu tepeye çıkarak hem doğal güzelliği hem de tarihi değerlerini keşfedebilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yücebel Tepesi'nin tarihi geçmişi, bölgenin genel tarihine paralel olarak ge
 
 ## Coğrafya
 
-Yücebel Tepesi, Yozgat'ın coğrafi yapısını karakterize eden bir özelliktir. Bu tepe, İç Anadolu Bölgesi'nin genel coğrafiini taşır ve çevresindeki diğer tepe ve dağlarla birlikte, bölgeye özel bir coğrafi yapı kazandırır. Tepe, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu büyüklük, ziyaretçilerin tepeye çıkarak geniş bir manzara izlemesine olanak sağlar. Ayrıca, tepe çevresindeki diğer coğrafi oluşumlar, bölgenin ekolojik dengesini korumaya yardımcı olur. Yücebel Tepesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkiler. İç Anadolu Bölgesi'nin karasal iklimi, tepe ve çevresindeki diğer coğrafi oluşumlar tarafından şekillenir.
+Yücebel Tepesi, Yozgat'ın coğrafi yapısını karakterize eden bir özelliktir. Bu tepe, İç Anadolu Bölgesi'nin genel coğrafiini taşır ve çevresindeki diğer tepe ve dağlarla birlikte, bölgeye özel bir coğrafi yapı kazandırır. Bu büyüklük, ziyaretçilerin tepeye çıkarak geniş bir manzara izlemesine olanak sağlar. Ayrıca, tepe çevresindeki diğer coğrafi oluşumlar, bölgenin ekolojik dengesini korumaya yardımcı olur. Yücebel Tepesi'nin coğrafi konumu, aynı zamanda bölgenin iklimini de etkiler. İç Anadolu Bölgesi'nin karasal iklimi, tepe ve çevresindeki diğer coğrafi oluşumlar tarafından şekillenir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Yücebel Tepesi'ni ziyaret etmek, bölgeye gelen ziyaretçiler için bir fırsat
 ## İlginç Bilgiler
 
 - Yücebel Tepesi, Yozgat'ın en yüksek noktalarından biridir.
-- Tepe, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Yücebel Tepesi, çeşitli bitki türlerine ev sahipliği yapar.
 - Tepe, aynı zamanda çeşitli hayvan türlerinin yaşamasına olanak sağlar.
 - Yücebel Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını karakterize eden bir özelliktir.

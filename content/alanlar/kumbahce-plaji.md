@@ -29,7 +29,7 @@ wikidata_id: "Q49321664"
 
 # Kumbahçe Plajı
 
-Kumbahçe Plajı, Muğla'nın en çok ziyaret edilen yerlerinden biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, plajın birçok ziyaretçiye aynı anda hizmet vermesini sağlar. Kumbahçe Plajı, Ege Bölgesi'nin en güzel noktalarından birini oluşturur ve ziyaretçilerine unutulmaz bir tatil deneyimi sunar. Plajın genişliği ve güzelliği, birçok turisti buraya çekmektedir. Kumbahçe Plajı, Muğla'nın turizm açısından önemli bir noktasıdır ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir.
+Kumbahçe Plajı, Muğla'nın en çok ziyaret edilen yerlerinden biri olarak bilinir. Plajın genişliği ve güzelliği, birçok turisti buraya çekmektedir. Kumbahçe Plajı, Muğla'nın turizm açısından önemli bir noktasıdır ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 

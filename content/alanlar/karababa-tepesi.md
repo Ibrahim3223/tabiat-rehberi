@@ -29,7 +29,7 @@ wikidata_id: "Q31385725"
 
 # Karababa Tepesi
 
-Karababa Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan geniş bir doğal alanı temsil eder. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar, ki bu da yaklaşık 200 futbol sahası büyüklüğünde bir alanı ifade eder. Bu tepe, ziyaretçilerine geniş bir manzara sunar ve farklı mevsimlerde çeşitli renklerle donanır. İlkbaharda yeşilin tonlarıyla, yazın kurak ama güneşli günleriyle, sonbaharda renk cümbüşü ile, kışın karla kaplı bir örtüye bürünür. Bu çeşitlilik, Karababa Tepesi'ni her mevsim ziyaret edilebilir kılar.
+Karababa Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan geniş bir doğal alanı temsil eder. Bu tepe, ziyaretçilerine geniş bir manzara sunar ve farklı mevsimlerde çeşitli renklerle donanır. İlkbaharda yeşilin tonlarıyla, yazın kurak ama güneşli günleriyle, sonbaharda renk cümbüşü ile, kışın karla kaplı bir örtüye bürünür. Bu çeşitlilik, Karababa Tepesi'ni her mevsim ziyaret edilebilir kılar.
 
 ## Tarihçe
 

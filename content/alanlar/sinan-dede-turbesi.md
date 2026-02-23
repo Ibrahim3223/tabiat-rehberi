@@ -1,7 +1,7 @@
 ---
 title: "Sinan Dede Türbesi"
 date: "2026-01-10T04:54:27.898Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391512"
 
 # Sinan Dede Türbesi
 
-Sinan Dede Türbesi, Aydın'ın Nazilli ilçesinde yer alan bir türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin önemli turizm noktalarından biridir. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, hem tarih severlerin hem de doğa tutkunlarının ilgisini çekmektedir. Türbenin etrafı, çeşitli bitki türleri ile kaplı ve ziyaretçiler için güzel bir manzara sunmaktadır.
+Sinan Dede Türbesi, Aydın'ın Nazilli ilçesinde yer alan bir türbe ve plaj alanıdır. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, hem tarih severlerin hem de doğa tutkunlarının ilgisini çekmektedir. Türbenin etrafı, çeşitli bitki türleri ile kaplı ve ziyaretçiler için güzel bir manzara sunmaktadır.
 
 ## Tarihçe
 

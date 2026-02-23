@@ -1,7 +1,7 @@
 ---
 title: "Silivri Belediye Hamamı"
 date: "2026-01-09T23:39:22.283Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739140"
 
 # Silivri Belediye Hamamı
 
-Silivri Belediyesi Hamamı, İstanbul'un Silivri ilçesinde yer alan bir plajdır. Marmara Denizi'nin güzelliğini sunan bu plaj, yaklaşık 140 hektarlık bir alan üzerinde kuruludur. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş kumsalları ve temiz suyuyla dikkat çekmektedir. Silivri Belediyesi Hamamı, hem yerli hem de yabancı turistler için çekici bir destinasyon olarak bilinir. Bu plajda, güneşin tadını çıkarmak, denizde serinleme ve çeşitli su sporları yapma mümkündür. Ayrıca, plajın çevresinde çeşitli restoran ve kafeler bulunmakta olup, ziyaretçiler Burada lezzetli yemeklerin ve içeceklerin tadını çıkarabilirler.
+Silivri Belediyesi Hamamı, İstanbul'un Silivri ilçesinde yer alan bir plajdır. Marmara Denizi'nin güzelliğini sunan bu plaj, yaklaşık 140 hektarlık bir alan üzerinde kuruludur. Silivri Belediyesi Hamamı, hem yerli hem de yabancı turistler için çekici bir destinasyon olarak bilinir. Bu plajda, güneşin tadını çıkarmak, denizde serinleme ve çeşitli su sporları yapma mümkündür. Ayrıca, plajın çevresinde çeşitli restoran ve kafeler bulunmakta olup, ziyaretçiler Burada lezzetli yemeklerin ve içeceklerin tadını çıkarabilirler.
 
 ## Tarihçe
 

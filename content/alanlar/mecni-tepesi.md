@@ -32,7 +32,7 @@ Mecni Tepesi, Şanlıurfa'nın zengin tarihi ve doğal güzelliklerini bir araya
 
 ## Tarihçe
 
-Mecni Tepesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu bölgede, çeşitli uygarlıkların izleri bulunmakta ve tarihi kalıntılar, tepe çevresinde yoğunlaşmıştır. Şanlıurfa'nın tarihi geçmişi, Mezopotamya'nın kalbinde yer alması nedeniyle, birçok medeniyetin etkisi altında kalmıştır. Mecni Tepesi, bu medeniyetlerin birçoğunun ayak izlerini taşıyan önemli bir noktadır. Şanlıurfa, yüzyıllar boyunca, çeşitli imparatorluklar ve medeniyetler tarafından yönetilmiş ve bu bölge, her birinden izler taşımaktadır. Mecni Tepesi, bu tarihi zenginliklerin bir parçası olarak, ziyaretçilere Şanlıurfa'nın derin geçmişini keşfetme fırsatı sunmaktadır. Tepenin tarihi önemiı, şehrin kültürel mirasının bir parçası olarak kabul edilmektedir ve ziyaretçiler, bu tepeyi ziyaret ederek, Şanlıurfa'nın zengin tarihsel geçmişi hakkında bilgi edinebilirler.
+Mecni Tepesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu bölgede, çeşitli uygarlıkların izleri bulunmakta ve tarihi kalıntılar, tepe çevresinde yoğunlaşmıştır. Şanlıurfa'nın tarihi geçmişi, Mezopotamya'nın kalbinde yer alması nedeniyle, birçok medeniyetin etkisi altında kalmıştır. Mecni Tepesi, bu medeniyetlerin birçoğunun ayak izlerini taşıyan önemli bir noktadır. Şanlıurfa, yüzyıllar boyunca, çeşitli imparatorluklar ve medeniyetler tarafından yönetilmiş ve bu bölge, her birinden izler taşımaktadır. Tepenin tarihi önemiı, şehrin kültürel mirasının bir parçası olarak kabul edilmektedir ve ziyaretçiler, bu tepeyi ziyaret ederek, Şanlıurfa'nın zengin tarihsel geçmişi hakkında bilgi edinebilirler.
 
 ## Coğrafya
 

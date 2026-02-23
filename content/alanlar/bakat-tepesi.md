@@ -28,7 +28,7 @@ wikidata_id: "Q31388611"
 
 # Bakat Tepesi
 
-Bakat Tepesi, Artvin'in yemyeşil doğasında bulunan bir tepe olarak ziyaretçilerini ağırlayan bir doğa harikası. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, doğaseverler için bir cennet. Tepenin yüksekliği ve geniş alanı, ziyaretçilere geniş bir görüş açısı sunuyor. Bu alan, çeşitli bitki türleriyle kaplı ve zengin fauna sahip. Doğanın güzelliğini ve canlılığını deneyimlemek isteyenler için ideal bir gezi noktası olan Bakat Tepesi, ziyaretçilerini bekliyor.
+Bakat Tepesi, Artvin'in yemyeşil doğasında bulunan bir tepe olarak ziyaretçilerini ağırlayan bir doğa harikası. Tepenin yüksekliği ve geniş alanı, ziyaretçilere geniş bir görüş açısı sunuyor. Bu alan, çeşitli bitki türleriyle kaplı ve zengin fauna sahip. Doğanın güzelliğini ve canlılığını deneyimlemek isteyenler için ideal bir gezi noktası olan Bakat Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

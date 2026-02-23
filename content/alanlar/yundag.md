@@ -48,11 +48,11 @@ Doğal bir koridor olarak işlev gören Yundağ, çevresindeki ekosistemle güç
 
 ## Flora ve Fauna
 
-Yundağ, Samsun'un nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yundağ, Samsun'un nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharda dağ yamaçlarında açan çiçekler ve sonbaharda sararan ağaçlar dikkat çeker. Gür ormanlar, dağ ekosisteminin temel bileşenini oluşturur. 
+Bitki Örtüsü bölümünde, ilkbaharda dağ yamaçlarında açan çiçekler ve sonbaharda sararan ağaçlar dikkat çeker. Gür ormanlar, dağ ekosisteminin temel bileşenini oluşturur.
 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler yaşam alanları ile birlikte betimlenir. Dağların yükseklik zonlarında, alpin flora ve fauna çeşitliliği ortaya çıkar. 
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler yaşam alanları ile birlikte betimlenir. Dağların yükseklik zonlarında, alpin flora ve fauna çeşitliliği ortaya çıkar.
 
 Ekolojik Değer bölümünde, Yundağ'ın neden önemli olduğu ve koruma durumu vurgulanır. Yüksek biyoçeşitlilik, nemli iklim ve gür ormanlar, bu alanı korumak için neden önemli olduğunu açıklar.
 

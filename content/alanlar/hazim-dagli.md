@@ -23,7 +23,7 @@ wikidata_id: "Q108228138"
 
 # Hazım Dagli
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Hazım Dagli, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanı ile ziyaretçilerini doğal güzelliklerle karşılar. Bu alan, İç Anadolu Bölgesi'nin coğrafi yapısını ve doğal zenginliklerini gözler önüne serer. Hazım Dagli, ziyaretçilerine hem doğa ile iç içe bir deneyim hem de bölgenin coğrafi ve tarihi zenginliklerini keşfetme fırsatı sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir.
+ Bu alan, İç Anadolu Bölgesi'nin coğrafi yapısını ve doğal zenginliklerini gözler önüne serer. Hazım Dagli, ziyaretçilerine hem doğa ile iç içe bir deneyim hem de bölgenin coğrafi ve tarihi zenginliklerini keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Hazım Dagli'yi ziyaret etmek, İç Anadolu Bölgesi'nin doğal güzelliklerini 
 ## İlginç Bilgiler
 
 - Hazım Dagli, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Bu milli park, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kaplar.
+
 - Hazım Dagli, çeşitli flora ve fauna türlerine ev sahipliği yapar.
 - Bu bölge, mevsimsel değişimlere göre farklı flora ve fauna türlerine ev sahipliği yapar.
 - Hazım Dagli, bölgenin ekolojik dengesini korumak için önemli bir rol oynar.

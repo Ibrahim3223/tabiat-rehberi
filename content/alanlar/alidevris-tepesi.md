@@ -28,7 +28,7 @@ wikidata_id: "Q31538795"
 
 # Alidevris Tepesi
 
-Alidevris Tepesi, Hatay ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Tepenin etrafı çeşitli ağaç türleriyle çevrili ve bu sayede ziyaretçilere doğayla iç içe bir ortam sunuyor. Alidevris Tepesi, özellikle gün batımında muhteşem bir manzara sunuyor ve bu nedenle birçok ziyaretçi tarafından tercih ediliyor.
+Alidevris Tepesi, Hatay ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Tepenin etrafı çeşitli ağaç türleriyle çevrili ve bu sayede ziyaretçilere doğayla iç içe bir ortam sunuyor. Alidevris Tepesi, özellikle gün batımında muhteşem bir manzara sunuyor ve bu nedenle birçok ziyaretçi tarafından tercih ediliyor.
 
 ## Tarihçe
 

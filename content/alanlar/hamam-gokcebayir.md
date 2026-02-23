@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Gökçebayır"
 date: "2026-01-09T23:45:01.828Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ezine"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245755"
 
 # Hamam, Gökçebayır
 
-Hamam, Gökçebayır, Ezine ilçesinde yer alan ve doğal güzelliği ile dikkat çeken bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Plajın etrafında yer alan yeşil alanlar, ziyaretçilerin piknik yapmasına ve doğayı seyretmesine olanak tanır. Güneşin batışını izlemek için ideal bir nokta olan Hamam, Gökçebayır, aynı zamanda yerel halkın da tercih ettiği bir yerdir. Plajda, ziyaretçilerinneedsini karşılayacak temel tesisler bulunur.
+Hamam, Gökçebayır, Ezine ilçesinde yer alan ve doğal güzelliği ile dikkat çeken bir plajdır. Plajın etrafında yer alan yeşil alanlar, ziyaretçilerin piknik yapmasına ve doğayı seyretmesine olanak tanır. Güneşin batışını izlemek için ideal bir nokta olan Hamam, Gökçebayır, aynı zamanda yerel halkın da tercih ettiği bir yerdir. Plajda, ziyaretçilerinneedsini karşılayacak temel tesisler bulunur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hamam, Gökçebayır plajının tarihi geçmişi, Ezine ilçesinin tarihine para
 
 ## Coğrafya
 
-Hamam, Gökçebayır plajı, Ezine ilçesinin coğrafi yapısının önemli bir parçasını oluşturur. Plaj, 140 hektarlık bir alanda yer alır ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Plajın etrafında yer alan yeşil alanlar, ziyaretçilerin doğayı seyretmesine ve piknik yapmasına olanak tanır. Plajın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar ve güneşin batışını izlemek için ideal bir noktadır. Plajın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklime sahiptir. Yaz aylarında sıcaklık artarken, kış aylarında soğuk olmaktadır. Plajın coğrafi yapısı, yerel flora ve faunayı destekler ve ziyaretçilere zengin bir doğa deneyimi sunar. Plajın deniz suyu, temiz ve berra olup, ziyaretçilerin yüzmesi ve su sporları yapması için idealdir.
+Hamam, Gökçebayır plajı, Ezine ilçesinin coğrafi yapısının önemli bir parçasını oluşturur. Plajın etrafında yer alan yeşil alanlar, ziyaretçilerin doğayı seyretmesine ve piknik yapmasına olanak tanır. Plajın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar ve güneşin batışını izlemek için ideal bir noktadır. Plajın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklime sahiptir. Yaz aylarında sıcaklık artarken, kış aylarında soğuk olmaktadır. Plajın coğrafi yapısı, yerel flora ve faunayı destekler ve ziyaretçilere zengin bir doğa deneyimi sunar. Plajın deniz suyu, temiz ve berra olup, ziyaretçilerin yüzmesi ve su sporları yapması için idealdir.
 
 ## Flora ve Fauna
 

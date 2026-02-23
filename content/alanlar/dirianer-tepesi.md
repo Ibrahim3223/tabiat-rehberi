@@ -28,7 +28,7 @@ wikidata_id: "Q31547745"
 
 # Dirianer Tepesi
 
-Dirianer Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve bölgeye özgü doğal güzelliklerin başında gelen bir tepe. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, çevresindeki doğal güzellikleriyle birlikte bir gezi alanı olarak ziyaretçilerini bekliyor. Tepenin etrafında bulunan ormanlık alanlar ve nehirler, bu bölgeyi doğa severler için bir cennete dönüştürüyor. Dirianer Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini etkiliyor.
+Dirianer Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve bölgeye özgü doğal güzelliklerin başında gelen bir tepe. Tepenin etrafında bulunan ormanlık alanlar ve nehirler, bu bölgeyi doğa severler için bir cennete dönüştürüyor. Dirianer Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini etkiliyor.
 
 ## Tarihçe
 

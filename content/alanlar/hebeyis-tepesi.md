@@ -28,7 +28,7 @@ wikidata_id: "Q31549554"
 
 # Hebeyis Tepesi
 
-Hebeyis Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğal güzellikleri ve tarihi önemi ile dikkat çeker. Tepenin eteklerinde çeşitli bitki türleri bulunur ve fauna açısından da zengin bir yapıya sahiptir. Hepsi bir arada, hem doğayı hem de tarihi keşfetmek isteyenler için ideal bir destinasyon olan Hebeyis Tepesi, ziyaretçilerini bekliyor.
+Hebeyis Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve fauna açısından da zengin bir yapıya sahiptir. Hepsi bir arada, hem doğayı hem de tarihi keşfetmek isteyenler için ideal bir destinasyon olan Hebeyis Tepesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

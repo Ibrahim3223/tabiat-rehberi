@@ -53,9 +53,9 @@ Jeolojik açıdan incelendiğinde, Erzincan Dumanlı Dağ'nın coğrafi yapısı
 
 Erzincan Dumanlı Dağ, yüksek dağ ekolojisinin göz alıcı bir örneğini sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen alpin flora ve fauna çeşitliliği dikkat çeker.
 
-Bitki örtüsünü oluşturan alpin çayırlar, ilkbahar aylarında renkli çiçeklerle donanır. Sonbaharda, göç eden kuş sürüleri bu dağları ziyaret eder. Dağların yüksek kesimlerinde, endemik türler bulunur. 
+Bitki örtüsünü oluşturan alpin çayırlar, ilkbahar aylarında renkli çiçeklerle donanır. Sonbaharda, göç eden kuş sürüleri bu dağları ziyaret eder. Dağların yüksek kesimlerinde, endemik türler bulunur.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, ayılar ve kurtlar gibi memeliler, dağların zorlu koşullarına uyum sağlamışlardır. Kuşlar, göç rotalarında bu dağları kullanır. Sürüngenler, kayalık alanlarda yaşamlarını sürdürür. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, ayılar ve kurtlar gibi memeliler, dağların zorlu koşullarına uyum sağlamışlardır. Kuşlar, göç rotalarında bu dağları kullanır. Sürüngenler, kayalık alanlarda yaşamlarını sürdürür.
 
 Erzincan Dumanlı Dağ, ekolojik değerinin yanı sıra, biyolojik çeşitlilik açısından da önemlidir. Bu alanın korunması, yüksek dağ ekosistemlerinin devamlılığı için kritik öneme sahiptir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Sen Timur Türbesi"
 date: "2026-01-10T04:51:57.770Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q116051145"
 
 # Sen Timur Türbesi
 
-Tokat'ta, Karadeniz Bölgesi'nin kalbinde yer alan Sen Timur Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini büyülüyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle çevrili. Bu bölgede, yüzyıllar boyunca çeşitli uygarlıkların izlerini görme mümkün. Sen Timur Türbesi, Tokat'ın en önemli tarihi ve kültürel mekanlarından biri olarak kabul ediliyor. Burası, hem doğa severler hem de tarih meraklıları için bir hazine.
+Tokat'ta, Karadeniz Bölgesi'nin kalbinde yer alan Sen Timur Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini büyülüyor. Bu bölgede, yüzyıllar boyunca çeşitli uygarlıkların izlerini görme mümkün. Sen Timur Türbesi, Tokat'ın en önemli tarihi ve kültürel mekanlarından biri olarak kabul ediliyor. Burası, hem doğa severler hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 

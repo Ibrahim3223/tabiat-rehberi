@@ -1,7 +1,7 @@
 ---
 title: "Evranos Dede Türbesi"
 date: "2026-01-10T07:49:07.827Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391166"
 
 # Evranos Dede Türbesi
 
-Evranos Dede Türbesi, İstanbul'un Fatih ilçesinde yer alan tarihi ve kültürel bir mekân olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin rahatça gezebileceği bir ortam sunuyor. İstanbul'un kalbinde yer alan bu türbe, hem tarih hem de doğa severler için önemli bir destinasyon olarak görülüyor. Evranos Dede Türbesi, İstanbul'un zengin kültürel mirasının bir parçası olarak ziyaretçilerini bekliyor.
+Evranos Dede Türbesi, İstanbul'un Fatih ilçesinde yer alan tarihi ve kültürel bir mekân olarak dikkat çekiyor. İstanbul'un kalbinde yer alan bu türbe, hem tarih hem de doğa severler için önemli bir destinasyon olarak görülüyor. Evranos Dede Türbesi, İstanbul'un zengin kültürel mirasının bir parçası olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

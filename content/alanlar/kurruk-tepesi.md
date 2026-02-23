@@ -28,7 +28,7 @@ wikidata_id: "Q31536642"
 
 # Kurruk Tepesi
 
-Kurruk Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde bulunan bir tepe olarak dikkat çekiyor. 140 hektarlık bir alana yayılan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Kurruk Tepesi, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Burada, yüzyılların izlerini taşıyan tarihi kalıntılar ve eşsiz doğa manzaraları bulunuyor. Bu tepe, bölgenin önemli bir turizm merkezi olarak kabul ediliyor.
+Kurruk Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde bulunan bir tepe olarak dikkat çekiyor. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Kurruk Tepesi, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Burada, yüzyılların izlerini taşıyan tarihi kalıntılar ve eşsiz doğa manzaraları bulunuyor. Bu tepe, bölgenin önemli bir turizm merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 

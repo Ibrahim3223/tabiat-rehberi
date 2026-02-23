@@ -32,7 +32,7 @@ Doğal güzellikleri ile tanınan Türkiye'nin çeşitli regionsında bulunan Ba
 
 ## Tarihçe
 
-Bahri Gölü, Türkiye'nin doğa harikalarından biri olarak karşımıza çıkıyor. Bu bölgenin tarihi, binlerce yıl öncesine dayanıyor. İç Anadolu Bölgesi'nde yer alan Bahri Gölü, histórik olarak önemli ticaret yollarının kavşak noktasında bulunuyor. Hitit, Roma ve Osmanlı gibi uygarlıkların hüküm sürdüğü bu topraklar, zengin bir kültürel mirası barındırıyor.
+Bahri Gölü, Türkiye'nin doğa harikalarından biri olarak karşımıza çıkıyor. Bu bölgenin tarihi, binlerce yıl öncesine dayanıyor. İç Anadolu Bölgesi'nde yer alan Bahri Gölü, tarihi olarak önemli ticaret yollarının kavşak noktasında bulunuyor. Hitit, Roma ve Osmanlı gibi uygarlıkların hüküm sürdüğü bu topraklar, zengin bir kültürel mirası barındırıyor.
 
 Doğal güzellikleri ve verimli topraklarıyla, Bahri Gölü ve çevresi, insan yerleşimlerine ve ekonomik faaliyetlere ev sahipliği yapmış. Yaylacılık ve hayvancılık, bölgenin geleneksel uğraşları arasında yer alıyor. Ayrıca, tarihi İpek Yolu gibi önemli ticaret yollarının yakınında bulunması, bu bölgeyi stratejik olarak önemli hale getiriyor.
 

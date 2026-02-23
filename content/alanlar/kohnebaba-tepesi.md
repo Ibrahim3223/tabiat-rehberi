@@ -28,7 +28,7 @@ wikidata_id: "Q32210145"
 
 # Köhnebaba Tepesi
 
-Köhnebaba Tepesi, Afyonkarahisar'ın Ege Bölgesi'nde yer alan bir tepe olarak bilinmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu tepe, ziyaretçilerini i bir yolculuğa çıkarıyor ve coğrafyası ile dikkat çekiyor. Köhnebaba Tepesi, bölge halkı tarafından da önemli bir yer olarak kabul edilmektedir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu da burayı doğa severler için bir cennet haline getirmektedir.
+Köhnebaba Tepesi, Afyonkarahisar'ın Ege Bölgesi'nde yer alan bir tepe olarak bilinmektedir. Bu tepe, ziyaretçilerini i bir yolculuğa çıkarıyor ve coğrafyası ile dikkat çekiyor. Köhnebaba Tepesi, bölge halkı tarafından da önemli bir yer olarak kabul edilmektedir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu da burayı doğa severler için bir cennet haline getirmektedir.
 
 ## Tarihçe
 

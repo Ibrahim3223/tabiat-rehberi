@@ -28,7 +28,7 @@ wikidata_id: "Q31388480"
 
 # Karadere Tepesi
 
-Karadere Tepesi, Rize'nin önemli güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde yeşilin çeşitli tonlarını görebilir, tepeye çıkarak ise Karadeniz Bölgesi'nin eşsiz manzarasını izleyebilirsiniz. Bu doğal alan, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul ediliyor.
+Karadere Tepesi, Rize'nin önemli güzelliklerinden biri olarak dikkat çekiyor. Tepenin eteklerinde yeşilin çeşitli tonlarını görebilir, tepeye çıkarak ise Karadeniz Bölgesi'nin eşsiz manzarasını izleyebilirsiniz. Bu doğal alan, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul ediliyor.
 
 ## Tarihçe
 

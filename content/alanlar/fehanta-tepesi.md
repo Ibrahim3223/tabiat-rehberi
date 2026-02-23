@@ -28,7 +28,7 @@ wikidata_id: "Q31386631"
 
 # Fehanta Tepesi
 
-Fehanta Tepesi, Şanlıurfa'nın eşsiz doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak düşünülebilir. Şanlıurfa'nın tarihini ve kültürünü keşfetmek isteyenler için önemli bir nokta olan Fehanta Tepesi, aynı zamanda doğa severler için de bir cennet. Tepenin etrafında yer alan çeşitli bitkiler ve ağaçlar, ziyaretçilere ferah bir atmosfer sunuyor. Ayrıca, tepeye tırmanan ziyaretçiler, Şanlıurfa'nın muhteşem manzarasını da seyretme fırsatı buluyor.
+Fehanta Tepesi, Şanlıurfa'nın eşsiz doğal güzelliklerinden biri olarak dikkat çekiyor. Şanlıurfa'nın tarihini ve kültürünü keşfetmek isteyenler için önemli bir nokta olan Fehanta Tepesi, aynı zamanda doğa severler için de bir cennet. Tepenin etrafında yer alan çeşitli bitkiler ve ağaçlar, ziyaretçilere ferah bir atmosfer sunuyor. Ayrıca, tepeye tırmanan ziyaretçiler, Şanlıurfa'nın muhteşem manzarasını da seyretme fırsatı buluyor.
 
 ## Tarihçe
 

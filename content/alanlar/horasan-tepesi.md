@@ -28,11 +28,11 @@ wikidata_id: "Q31566747"
 
 # Horasan Tepesi
 
-Horasan Tepesi, Artvin'in güzide tepelerinden biri olarak bilinir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu büyüklük, ziyaretçilere geniş ve ferah bir atmosfer sunar. Horasan Tepesi, özellikle doğa severlerin ilgisini çekmektedir. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunur. Ziyaretçiler, bu güzel manzarayı izlerken aynı zamanda temiz hava ve sakin bir ortamın keyfini çıkarabilirler. Horasan Tepesi, hem doğa tutkunları hem de dinlenme arzusu olanların ziyaret edebileceği bir destinasyon olarak dikkat çeker.
+Horasan Tepesi, Artvin'in güzide tepelerinden biri olarak bilinir. Bu büyüklük, ziyaretçilere geniş ve ferah bir atmosfer sunar. Horasan Tepesi, özellikle doğa severlerin ilgisini çekmektedir. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunur. Ziyaretçiler, bu güzel manzarayı izlerken aynı zamanda temiz hava ve sakin bir ortamın keyfini çıkarabilirler. Horasan Tepesi, hem doğa tutkunları hem de dinlenme arzusu olanların ziyaret edebileceği bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 
-Horasan Tepesi'nin tarihi geçmişi, bölgeye yerleşen ilk insanların yaşamlarıyla başlar. Bu tepenin etrafındaki yerleşim yerleri, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımıştır. Tepenin kendisi, bir gözlem noktası olarak kullanılmış ve stratejik öneme sahip olmuştur. Horasan Tepesi'nin históriki değerinin yanı sıra, coğrafi konumu da dikkat çekicidir. Tepenin zirvesinden bakıldığında, etraftaki köylerin ve dağların manzarası gözleri doldurur. Horasan Tepesi, bu tarihi ve coğrafi özellikleriyle birlikte, ziyaretçilere hem eğitim hem de eğlence sunar.
+Horasan Tepesi'nin tarihi geçmişi, bölgeye yerleşen ilk insanların yaşamlarıyla başlar. Bu tepenin etrafındaki yerleşim yerleri, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımıştır. Tepenin kendisi, bir gözlem noktası olarak kullanılmış ve stratejik öneme sahip olmuştur. Horasan Tepesi'nin tarihi değerinin yanı sıra, coğrafi konumu da dikkat çekicidir. Tepenin zirvesinden bakıldığında, etraftaki köylerin ve dağların manzarası gözleri doldurur. Horasan Tepesi, bu tarihi ve coğrafi özellikleriyle birlikte, ziyaretçilere hem eğitim hem de eğlence sunar.
 
 ## Coğrafya
 

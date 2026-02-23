@@ -29,7 +29,7 @@ wikidata_id: "Q32211195"
 
 # Kıraç
 
-Kıraç, Ege Bölgesi'nin Afyonkarahisar şehrinde yer alan bir tepe olarak bilinir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir doğal alanı kapsar. Bu bölge, yüzyıllar boyunca insanların interestini çekmiş ve doğa severlerin uğrak noktalarından biri haline gelmiştir. Kıraç, hem coğrafi konumu hem de doğal güzelliği ile dikkat çekicidir. Bu tepe, Afyonkarahisar'ın önemli bir parçası olarak kabul edilir.
+Kıraç, Ege Bölgesi'nin Afyonkarahisar şehrinde yer alan bir tepe olarak bilinir. Bu bölge, yüzyıllar boyunca insanların interestini çekmiş ve doğa severlerin uğrak noktalarından biri haline gelmiştir. Kıraç, hem coğrafi konumu hem de doğal güzelliği ile dikkat çekicidir. Bu tepe, Afyonkarahisar'ın önemli bir parçası olarak kabul edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kıraç'ın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, çeşit
 
 ## Coğrafya
 
-Kıraç, coğrafi olarak Ege Bölgesi'nin önemli bir parçası olarak bulunur. Bu tepe, Afyonkarahisar şehir merkezi yakınlarında yer alır ve ulaşımı kolaydır. Kıraç'ın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, mevsimsel değişimlere göre farklılık gösteren bir iklime sahiptir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurudur. Bu coğrafi özellikler, Kıraç'ı ziyaret edenler için ilgi çekici bir  sunar. Bu tepe, etrafındaki diğer coğrafi oluşumlarla birlikte, Ege Bölgesi'nin doğal güzelliğini oluşturan önemli bir parçadır.
+Kıraç, coğrafi olarak Ege Bölgesi'nin önemli bir parçası olarak bulunur. Bu tepe, Afyonkarahisar şehir merkezi yakınlarında yer alır ve ulaşımı kolaydır. Bu bölge, mevsimsel değişimlere göre farklılık gösteren bir iklime sahiptir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurudur. Bu coğrafi özellikler, Kıraç'ı ziyaret edenler için ilgi çekici bir  sunar. Bu tepe, etrafındaki diğer coğrafi oluşumlarla birlikte, Ege Bölgesi'nin doğal güzelliğini oluşturan önemli bir parçadır.
 
 ## Flora ve Fauna
 

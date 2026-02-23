@@ -28,7 +28,7 @@ wikidata_id: "Q65934613"
 
 # Gürleyik Çağlayanı
 
-Gürleyik Çağlayanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Gürleyik Çağlayanı, doğaseverlerin ve fotoğraf meraklılarının gözdesi haline gelmeyi başarmış bir destinasyon olarak ön plana çıkıyor. Bu doğal güzellik, hem yerel halk hem de yabancı ziyaretçiler için bir çekim merkezi olarak görev yapıyor.
+Gürleyik Çağlayanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Gürleyik Çağlayanı, doğaseverlerin ve fotoğraf meraklılarının gözdesi haline gelmeyi başarmış bir destinasyon olarak ön plana çıkıyor. Bu doğal güzellik, hem yerel halk hem de yabancı ziyaretçiler için bir çekim merkezi olarak görev yapıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gürleyik Çağlayanı'nın tarihi geçmişi, yüzyıllar boyunca süregelen bir
 
 ## Coğrafya
 
-Gürleyik Çağlayanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide bulunuyor. Bu alan, 140 hektarlık bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Gürleyik Çağlayanı'nın coğrafi konumu, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşıyor. Gürleyik Çağlayanı, özellikle ilkbahar ve yaz aylarında, yeşilin ve çiçeklerin renk cümbüşü ile ziyaretçilerini karşılıyor. Bu doğal güzellik, aynı zamanda bir doğa koruma alanı olarak da görev yapıyor.
+Gürleyik Çağlayanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazide bulunuyor. Gürleyik Çağlayanı'nın coğrafi konumu, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşıyor. Gürleyik Çağlayanı, özellikle ilkbahar ve yaz aylarında, yeşilin ve çiçeklerin renk cümbüşü ile ziyaretçilerini karşılıyor. Bu doğal güzellik, aynı zamanda bir doğa koruma alanı olarak da görev yapıyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Gürleyik Çağlayanı, ziyaretçilerine doğanın güzelliğini ve çeşitlili�
 
 ## İlginç Bilgiler
 
-- Gürleyik Çağlayanı, 140 hektarlık bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
 - Bu doğal güzellik, özellikle ilkbahar ve yaz aylarında, yeşilin ve çiçeklerin renk cümbüşü ile ziyaretçilerini karşılıyor.
 - Gürleyik Çağlayanı, zengin bir flora ve fauna çeşitliliğine sahip bir doğal alan olarak dikkat çekiyor.
 - Bu bölgede, özellikle kuş türleri ve kelebekler dikkat çekiyor.

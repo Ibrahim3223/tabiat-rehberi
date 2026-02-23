@@ -22,7 +22,7 @@ wikidata_id: "Q108225594"
 
 # Sarıyer Sit Alanı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Sarıyer Sit Alanı, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet olarak kabul ediliyor. Sarıyer Sit Alanı, ziyaretçilerine doğayı yakından tanımak, çeşitli bitki türlerini keşfetme ve zengin fauna ile karşılaşmak için eşsiz bir fırsat sunuyor. Doğal güzelliği, tarihi geçmişi ve coğrafi özellikleri ile Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olarak öne çıkıyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan Sarıyer Sit Alanı, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor. Sarıyer Sit Alanı, ziyaretçilerine doğayı yakından tanımak, çeşitli bitki türlerini keşfetme ve zengin fauna ile karşılaşmak için eşsiz bir fırsat sunuyor. Doğal güzelliği, tarihi geçmişi ve coğrafi özellikleri ile Sarıyer Sit Alanı, İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olarak öne çıkıyor.
 
 ## Tarihçe
 

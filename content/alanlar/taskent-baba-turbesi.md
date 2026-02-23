@@ -1,7 +1,7 @@
 ---
 title: "Taşkent Baba Türbesi"
 date: "2026-01-10T07:05:30.219Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390786"
 
 # Taşkent Baba Türbesi
 
-Taşkent Baba Türbesi, Edirne'nin merkezinde yer alan ve Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak kabul edilen bir alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunmaktadır. Tarihi geçmişi ve doğal güzellikleri ile Taşkent Baba Türbesi, Edirne'nin önemli gezi noktalarından biri olarak dikkat çekmektedir.
+Taşkent Baba Türbesi, Edirne'nin merkezinde yer alan ve Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak kabul edilen bir alandır. Tarihi geçmişi ve doğal güzellikleri ile Taşkent Baba Türbesi, Edirne'nin önemli gezi noktalarından biri olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Taşkent Baba Türbesi'ni ziyaret etmek, Edirne'nin tarihî ve doğal güzellikl
 ## İlginç Bilgiler
 
 - Taşkent Baba Türbesi, Edirne'nin en önemli gezi noktalarından biridir.
-- Bu alan, 140 hektarlık bir açık alanı kapsamaktadır.
+
 - Türbe, Marmara Bölgesi'nin karakteristik özelliklerini taşır.
 - Ziyaretçiler, buraya ulaşmak için Edirne'nin merkezinden hareket eden toplu taşıma araçlarını kullanabilirler.
 - Taşkent Baba Türbesi, zengin bir flora ve fauna çeşitliliğine sahiptir.

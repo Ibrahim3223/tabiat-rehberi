@@ -1,7 +1,7 @@
 ---
 title: "Gizlice Evliya Şehit Mehmet Efendi Türbesi"
 date: "2026-01-10T05:05:22.069Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391603"
 
 # Gizlice Evliya Şehit Mehmet Efendi Türbesi
 
-Gizlice Evliya Şehit Mehmet Efendi Türbesi, İstanbul'unFatih ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Tarihi geçmişi ve doğal güzellikleri bir arada sunan bu mekân, ziyaretçilerini bekliyor.
+Gizlice Evliya Şehit Mehmet Efendi Türbesi, İstanbul'unFatih ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Tarihi geçmişi ve doğal güzellikleri bir arada sunan bu mekân, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

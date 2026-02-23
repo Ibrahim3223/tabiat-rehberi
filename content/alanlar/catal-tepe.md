@@ -51,11 +51,11 @@ Mevsimsel değişimler açısından, Çatal Tepe'nin iklim karakteri İstanbul'u
 
 ## Flora ve Fauna
 
-Çatal Tepe, İstanbul'un dağlık bölgesinde yer alan bir ekosistemdir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çatal Tepe, İstanbul'un dağlık bölgesinde yer alan bir ekosistemdir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharda çiçeklerin açtığı, sonbaharda yaprakların renk değiştirdiği bir manzara sunar. Yükseklik zonlarına bağlı olarak değişen flora, alpin bitkilerin yer aldığı bir ortamı barındırır. 
+Bitki Örtüsü olarak, ilkbaharda çiçeklerin açtığı, sonbaharda yaprakların renk değiştirdiği bir manzara sunar. Yükseklik zonlarına bağlı olarak değişen flora, alpin bitkilerin yer aldığı bir ortamı barındırır.
 
-Yaban Hayatı olarak, memeliler ve kuşlar bu bölgede yaşamaktadır. Göçmen kuş rotası üzerinde olan Çatal Tepe, sonbaharda göç eden kuşları ağırlar. Sürüngenler de bu dağlık bölgede yer alır. 
+Yaban Hayatı olarak, memeliler ve kuşlar bu bölgede yaşamaktadır. Göçmen kuş rotası üzerinde olan Çatal Tepe, sonbaharda göç eden kuşları ağırlar. Sürüngenler de bu dağlık bölgede yer alır.
 
 Ekolojik Değer olarak, bu dağ ekosistemi, yükseklik zonları ve alpin flora ile önemlidir. Karma ormanların yer aldığı bu bölge, geçiş ikliminin özelliklerini taşır. Bu nedenle, koruma altına alınması gereken bir alandır.
 

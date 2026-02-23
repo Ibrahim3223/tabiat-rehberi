@@ -34,7 +34,7 @@ Nohutluk Dağı, Kayseri'nin doğal güzelliklerini barındıran önemli bir nok
 
 Nohutluk Dağı, tarihi İpek Yolu'nun geçtiği ve çeşitli uygarlıkların izlerini taşıyan Kayseri bölgesinde yer alır. Bu bölge, Hitit, Roma ve Bizans gibi medeniyetlerin hüküm sürdüğü önemli bir coğrafyadır. Kayseri, tarihin farklı dönemlerinde ticaret, tarım ve hayvancılık faaliyetlerine ev sahipliği yapmış, stratejik konumu nedeniyle de önemli bir kavşak noktası olmuştur.
 
-Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Bu tür bölgeler, yalnızca doğal güzellikleri ile değil, aynı zamanda insan yerleşimleri, yaylacılık ve hayvancılık faaliyetleri için de önemli olmuştur. İnsanların bu alanlarla kurdukları ilişki, bölgenin ekolojik dengesinin korunmasına da katkıda bulunmuştur. Nohutluk Dağı da, bu bağlamda, bölgedeki diğer doğal alanlar gibi, insan faaliyetleri ve doğal yaşamın bir arada var olduğu kritik bir bölgedir. Bu dağ, bölgenin tarihi ve kültürel zenginliğinin bir parçası olarak, ziyaretçilerini tarihin sâuına davet eder.
+Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Bu tür bölgeler, yalnızca doğal güzellikleri ile değil, aynı zamanda insan yerleşimleri, yaylacılık ve hayvancılık faaliyetleri için de önemli olmuştur. İnsanların bu alanlarla kurdukları ilişki, bölgenin ekolojik dengesinin korunmasına da katkıda bulunmuştur. Nohutluk Dağı da, bu bağlamda, bölgedeki diğer doğal alanlar gibi, insan faaliyetleri ve doğal yaşamın bir arada var olduğu kritik bir bölgedir. Bu dağ, bölgenin tarihi ve kültürel zenginliğinin bir parçası olarak, ziyaretçilerini tarihin derinına davet eder.
 
 ## Coğrafya
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31558340"
 
 # Kurtgedik Tepesi
 
-Kurtgedik Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık alanıyla dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir manzara sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Kurtgedik Tepesi, Ankara'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Kurtgedik Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık alanıyla dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Kurtgedik Tepesi, Ankara'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

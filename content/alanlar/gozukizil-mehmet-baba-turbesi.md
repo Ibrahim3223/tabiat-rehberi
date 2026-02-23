@@ -1,7 +1,7 @@
 ---
 title: "Gözükızıl Mehmet Baba Türbesi"
 date: "2026-01-10T07:02:08.219Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -37,7 +37,7 @@ Gözükızıl Mehmet Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine k
 
 ## Coğrafya
 
-Gözükızıl Mehmet Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Türbe, 140 hektarlık bir alanda, çeşitli bitki türleriyle çevrili olarak ziyaretçilerini karşılar. Bu bölge, aynı zamanda zengin fauna sahip bir alandır. Türbenin bulunduğu yer, Gaziantep'in Şahinbey ilçesinde, şehrin merkezine yakın bir konumda yer alır. Gözükızıl Mehmet Baba Türbesi, coğrafi olarak önemli bir konuma sahiptir. Türbe, çevresi ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem tarihi bir türbe hem de doğal güzellik sunar. Gözükızıl Mehmet Baba Türbesi, coğrafi konumu itibariyle ziyaretçilerine birçok olanak sunar.
+Gözükızıl Mehmet Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Türbe, 140 hektarlık bir alanda, çeşitli bitki türleriyle çevrili olarak ziyaretçilerini karşılar. Bu bölge, aynı zamanda zengin fauna sahip bir alandır. Türbenin bulunduğu yer, Gaziantep'in Şahinbey ilçesinde, şehrin merkezine yakın bir konumda yer alır. Gözükızıl Mehmet Baba Türbesi, coğrafi olarak önemli bir konuma sahiptir. Bu geniş alan, ziyaretçilere hem tarihi bir türbe hem de doğal güzellik sunar. Gözükızıl Mehmet Baba Türbesi, coğrafi konumu itibariyle ziyaretçilerine birçok olanak sunar.
 
 ## Flora ve Fauna
 

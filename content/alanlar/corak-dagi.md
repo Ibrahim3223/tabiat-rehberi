@@ -57,7 +57,7 @@ Dağın bitki örtüsü, mevsimsel değişimlere bağlı olarak farklılık gös
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri ve yaban keçileri gibi türler, dağların dik yamaçlarında yaşamlarını sürdürürken, kartallar ve doğan gibi kuşlar gökyüzünü hükmeder. Sürüngenler ise, kayalık bölgelerde ve step alanlarında yaşar.
 
-Çorak Dağı, ekolojik açıdan önemli bir bölge olarak kabul edilir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini korumak açısından önemlidir.
+Çorak Dağı, ekolojik açıdan önemli bir bölge olarak kabul edilir.
 
 ## Ziyaret Bilgileri
 

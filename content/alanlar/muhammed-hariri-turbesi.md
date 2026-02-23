@@ -1,7 +1,7 @@
 ---
 title: "Muhammed Hariri Türbesi"
 date: "2026-01-10T07:08:27.482Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390981"
 
 # Muhammed Hariri Türbesi
 
-Muhammed Hariri Türbesi, Fatih, İstanbul'da yer alan tarihi bir dinî yapıdır. Bu türbe, Marmara Bölgesi'nin önemli kültürel miraslarından biridir. 140 hektarlık bir alanın içinde yer alan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir çevreye sahiptir. Türbenin bulunduğu bölge, tarihi ve dinî açıdan önemli bir konumda yer almaktadır. Muhammed Hariri Türbesi, İstanbul'un turistik yerleri arasında önemli bir yere sahiptir.
+Muhammed Hariri Türbesi, Fatih, İstanbul'da yer alan tarihi bir dinî yapıdır. Bu türbe, Marmara Bölgesi'nin önemli kültürel miraslarından biridir. Türbenin bulunduğu bölge, tarihi ve dinî açıdan önemli bir konumda yer almaktadır. Muhammed Hariri Türbesi, İstanbul'un turistik yerleri arasında önemli bir yere sahiptir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Muhammed Hariri Türbesi, tarihi geçmişi ile dikkat çeken bir yapıdır. Tür
 
 ## Coğrafya
 
-Muhammed Hariri Türbesi, Fatih, İstanbul'da yer alan bir dinî yapıdır. Türbe, Marmara Bölgesi'nin coğrafi açıdan önemli bir konumda yer almaktadır. 140 hektarlık bir alanın içinde yer alan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir çevreye sahiptir. Türbenin bulunduğu bölge, tarihi ve dinî açıdan önemli bir konumda yer almaktadır. Çevre, çeşitli bitki türleri ile zengin bir flora sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Türbenin bulunduğu alan, ziyaretçiler için önemli bir gezi noktası olarak hizmet vermektedir.
+Muhammed Hariri Türbesi, Fatih, İstanbul'da yer alan bir dinî yapıdır. Türbe, Marmara Bölgesi'nin coğrafi açıdan önemli bir konumda yer almaktadır. Türbenin bulunduğu bölge, tarihi ve dinî açıdan önemli bir konumda yer almaktadır. Çevre, çeşitli bitki türleri ile zengin bir flora sunmaktadır. Bölgenin iklimi, Marmara Bölgesi'nin genel iklim özellikleri ile benzerlik göstermektedir. Türbenin bulunduğu alan, ziyaretçiler için önemli bir gezi noktası olarak hizmet vermektedir.
 
 ## Flora ve Fauna
 

@@ -28,11 +28,11 @@ wikidata_id: "Q31581778"
 
 # Ortadağı Tepesi
 
-Ortadağı Tepesi, Çorum'un kalbinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi konumu itibariyle bölgenin en önemli noktalarından biri. Tepenin eteklerinde yer alan yerleşim yerleri, tarihi yapılar ve doğal güzellikler, bu alanı ziyaretçilerin ilgisini çekiyor. Doğal güzellikleri, tarihi değerleri ve coğrafi konumuyla Ortadağı Tepesi, Çorum'un önemli bir turizm merkezlerinden biri olma potansiyelini taşıyor.
+Ortadağı Tepesi, Çorum'un kalbinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Tepenin eteklerinde yer alan yerleşim yerleri, tarihi yapılar ve doğal güzellikler, bu alanı ziyaretçilerin ilgisini çekiyor. Doğal güzellikleri, tarihi değerleri ve coğrafi konumuyla Ortadağı Tepesi, Çorum'un önemli bir turizm merkezlerinden biri olma potansiyelini taşıyor.
 
 ## Tarihçe
 
-Ortadağı Tepesi, tarihin sâu sayfalarına ışık tutan bir bölge. Tarihi geçmişi, Hititlere kadar uzanan bir geçmişe sahip. Tepenin eteklerinde yer alan tarihi yapılar, bu bölgenin tarihte önemli bir rol oynadığını gösteriyor. Tarihi kalıntılar, antik kentler ve kültürel miras, bu bölgenin zengin tarihini yansıtıyor. Tarihin her döneminde önemli bir yerleşim yeri olan Ortadağı Tepesi, günümüzde de tarihi değerlerini korumaya devam ediyor. Bu tepenin tarihi geçmişi, ziyaretçilere bölge hakkında derin bilgiler sunuyor.
+Ortadağı Tepesi, tarihin derin sayfalarına ışık tutan bir bölge. Tarihi geçmişi, Hititlere kadar uzanan bir geçmişe sahip. Tepenin eteklerinde yer alan tarihi yapılar, bu bölgenin tarihte önemli bir rol oynadığını gösteriyor. Tarihi kalıntılar, antik kentler ve kültürel miras, bu bölgenin zengin tarihini yansıtıyor. Tarihin her döneminde önemli bir yerleşim yeri olan Ortadağı Tepesi, günümüzde de tarihi değerlerini korumaya devam ediyor. Bu tepenin tarihi geçmişi, ziyaretçilere bölge hakkında derin bilgiler sunuyor.
 
 ## Coğrafya
 

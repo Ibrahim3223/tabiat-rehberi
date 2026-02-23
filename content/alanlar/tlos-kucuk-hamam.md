@@ -1,7 +1,7 @@
 ---
 title: "Tlos Küçük Hamam"
 date: "2026-01-09T23:40:35.490Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739135"
 
 # Tlos Küçük Hamam
 
-Tlos Küçük Hamam, Muğla'nın Seydikemer ilçesinde yer alan 140 hektarlık yeşil bir cennet. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve yeşilin her tonunu barındıran bir doğa harikası. Tlos Küçük Hamam, ziyaretçilerini Ege Bölgesi'nin güzelliği ile baş başa bırakarak, doğayla iç içe bir deneyime davet ediyor. Burada, doğanın seslerini dinleyerek, stresinizden arınabilir ve ruhunuzu dinlendirebilirsiniz. Tlos Küçük Hamam, aynı zamanda bir plaj olarak da hizmet vermekte ve denize girerek serinleyebilmenize olanak tanıyor.
+Tlos Küçük Hamam, Muğla'nın Seydikemer ilçesinde yer alan 140 hektarlık yeşil bir cennet. Tlos Küçük Hamam, ziyaretçilerini Ege Bölgesi'nin güzelliği ile baş başa bırakarak, doğayla iç içe bir deneyime davet ediyor. Burada, doğanın seslerini dinleyerek, stresinizden arınabilir ve ruhunuzu dinlendirebilirsiniz. Tlos Küçük Hamam, aynı zamanda bir plaj olarak da hizmet vermekte ve denize girerek serinleyebilmenize olanak tanıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Tlos Küçük Hamam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Tlos Küçük Hamam, Seydikemer'in gözde mekanlarından birisi olarak, Muğla'nın Ege Bölgesi'nde yer alıyor. Bu 140 hektarlık alan, yeşilin her tonunu barındıran bir doğa harikası ve yaklaşık 200 futbol sahası büyüklüğünde. Tlos Küçük Hamam'ın coğrafi konumu, ziyaretçilerine Ege Bölgesi'nin güzelliğini sunuyor. Burada, denize girerek serinleyebilir, yeşilin içinde doğa yürüyüşleri yapabilir veya sadece doğanın seslerini dinleyerek rahatlayabilirsiniz. Tlos Küçük Hamam, aynı zamanda bir plaj olarak hizmet vermekte ve ziyaretçilerine, deniz, kum ve güneş üçlüsünü sunuyor. Bu bölgenin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemli. Tlos Küçük Hamam, çevresi zengin bitki örtüsüyle kaplı ve bu bitki örtüsü, burayı bir doğa cennetine çeviriyor.
+Tlos Küçük Hamam, Seydikemer'in gözde mekanlarından birisi olarak, Muğla'nın Ege Bölgesi'nde yer alıyor. Tlos Küçük Hamam'ın coğrafi konumu, ziyaretçilerine Ege Bölgesi'nin güzelliğini sunuyor. Burada, denize girerek serinleyebilir, yeşilin içinde doğa yürüyüşleri yapabilir veya sadece doğanın seslerini dinleyerek rahatlayabilirsiniz. Tlos Küçük Hamam, aynı zamanda bir plaj olarak hizmet vermekte ve ziyaretçilerine, deniz, kum ve güneş üçlüsünü sunuyor. Bu bölgenin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemli. Tlos Küçük Hamam, çevresi zengin bitki örtüsüyle kaplı ve bu bitki örtüsü, burayı bir doğa cennetine çeviriyor.
 
 ## Flora ve Fauna
 

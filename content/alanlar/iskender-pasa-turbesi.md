@@ -1,7 +1,7 @@
 ---
 title: "İskender Paşa Türbesi"
 date: "2026-01-10T07:34:01.700Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391277"
 
 # İskender Paşa Türbesi
 
-İskender Paşa Türbesi, İstanbul'un Beykoz ilçesinde, Boğaz'ın güzelliğine tanıklık eden bir noktada yer alır. Bu tarihi yapı, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. İskender Paşa Türbesi, İstanbul'un tarihi geçmişi ve kültürel zenginliği hakkında fikir veren önemli bir yapıttır. İstanbul Boğazı'nın muhteşem manzarasının keyfini çıkarırken, aynı zamanda tarihin derinliklerine de dalma fırsatı sunar.
+İskender Paşa Türbesi, İstanbul'un Beykoz ilçesinde, Boğaz'ın güzelliğine tanıklık eden bir noktada yer alır. İskender Paşa Türbesi, İstanbul'un tarihi geçmişi ve kültürel zenginliği hakkında fikir veren önemli bir yapıttır. İstanbul Boğazı'nın muhteşem manzarasının keyfini çıkarırken, aynı zamanda tarihin derinliklerine de dalma fırsatı sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391277"
 
 ## Coğrafya
 
-İskender Paşa Türbesi, İstanbul'un Beykoz ilçesinde, Boğaz'ın güzelliğine tanıklık eden bir noktada yer alır. Bu bölge, doğal güzelliği ve tarihi yapılarıyla ziyaretçileri cezbeder. İskender Paşa Türbesi, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. İstanbul Boğazı'nın muhteşem manzarası, bu bölgenin güzelliğini daha da artırır. İskender Paşa Türbesi, ziyaretçilere hem tarihi bir deneyim hem de doğal güzelliğin keyfini çıkarma fırsatı sunar. Bu bölge, yılın her döneminde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. İlkbahar ve sonbahar ayları, İstanbul Boğazı'nın güzelliğini keşfetmek için en uygun zamanlardır.
+İskender Paşa Türbesi, İstanbul'un Beykoz ilçesinde, Boğaz'ın güzelliğine tanıklık eden bir noktada yer alır. Bu bölge, doğal güzelliği ve tarihi yapılarıyla ziyaretçileri cezbeder. İstanbul Boğazı'nın muhteşem manzarası, bu bölgenin güzelliğini daha da artırır. İskender Paşa Türbesi, ziyaretçilere hem tarihi bir deneyim hem de doğal güzelliğin keyfini çıkarma fırsatı sunar. Bu bölge, yılın her döneminde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. İlkbahar ve sonbahar ayları, İstanbul Boğazı'nın güzelliğini keşfetmek için en uygun zamanlardır.
 
 ## Flora ve Fauna
 

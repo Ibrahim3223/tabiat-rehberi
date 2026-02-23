@@ -29,7 +29,7 @@ wikidata_id: "Q134728390"
 
 # Dübekli Tümülüsü
 
-Dübekli Tümülüsü, Bilecik'in Bozüyük ilçesinde yer alan ve tarihi açıdan önemli bir mekan olarak bilinen bir tümülüstür. Bu tümülüs, yaklaşık olarak 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Dübekli Tümülüsü, Marmara Bölgesi'nin önemli tarihi noktalarından biridir ve ziyaretçilerini tarihin sâu sayfalarına götürmeyi vaat eder. Bu tümülüs, bölgenin tarihi ve kültürel zenginliğinin önemli bir parçasıdır ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
+Dübekli Tümülüsü, Bilecik'in Bozüyük ilçesinde yer alan ve tarihi açıdan önemli bir mekan olarak bilinen bir tümülüstür. Dübekli Tümülüsü, Marmara Bölgesi'nin önemli tarihi noktalarından biridir ve ziyaretçilerini tarihin derin sayfalarına götürmeyi vaat eder. Bu tümülüs, bölgenin tarihi ve kültürel zenginliğinin önemli bir parçasıdır ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dübekli Tümülüsü'nün tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Dübekli Tümülüsü, Bozüyük ilçesinin doğusunda, Marmara Bölgesi'nin merkezi bir noktasında yer alır. Tümülüs, 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Dübekli Tümülüsü'nün coğrafi konumu, Marmara Bölgesi'nin diğer önemli tarihi mekanlarına yakın bir mesafededir. Bu tümülüs, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Dübekli Tümülüsü'nün etrafı, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, tümülüsün coğrafi konumunu ve iklimini anlamak için önemli bir kaynak teşkil etmektedir. Tümülüsün coğrafi konumu, aynı zamanda bölgenin iklimini de etkilemektedir. Dübekli Tümülüsü, Marmara Bölgesi'nin ılıman ikliminin etkisi altında kalır ve bu iklim, tümülüsün coğrafi konumunu ve bitki örtüsünü etkilemektedir.
+Dübekli Tümülüsü, Bozüyük ilçesinin doğusunda, Marmara Bölgesi'nin merkezi bir noktasında yer alır. Dübekli Tümülüsü'nün coğrafi konumu, Marmara Bölgesi'nin diğer önemli tarihi mekanlarına yakın bir mesafededir. Bu tümülüs, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Dübekli Tümülüsü'nün etrafı, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, tümülüsün coğrafi konumunu ve iklimini anlamak için önemli bir kaynak teşkil etmektedir. Tümülüsün coğrafi konumu, aynı zamanda bölgenin iklimini de etkilemektedir. Dübekli Tümülüsü, Marmara Bölgesi'nin ılıman ikliminin etkisi altında kalır ve bu iklim, tümülüsün coğrafi konumunu ve bitki örtüsünü etkilemektedir.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Dübekli Tümülüsü, çeşitli bitki türleri ile kaplıdır. Bu bitkiler, tü
 
 ## Ziyaret Bilgileri
 
-Dübekli Tümülüsü'ne ziyaretçiler, yılın her dönemi gelebilir. Tümülüs, Marmara Bölgesi'nin merkezi bir noktasında yer aldığı için, ulaşımı kolaydır. Ziyaretçiler, tümülüsün tarihi ve coğrafi önemini anlamak için, rehber eşliğinde turlara katılabilir. Dübekli Tümülüsü, ziyaretçilerine, tarihin sâu sayfalarına götürmeyi vaat eder ve bu tümülüs, Marmara Bölgesi'nin önemli tarihi noktalarından biridir.
+Dübekli Tümülüsü'ne ziyaretçiler, yılın her dönemi gelebilir. Tümülüs, Marmara Bölgesi'nin merkezi bir noktasında yer aldığı için, ulaşımı kolaydır. Ziyaretçiler, tümülüsün tarihi ve coğrafi önemini anlamak için, rehber eşliğinde turlara katılabilir. Dübekli Tümülüsü, ziyaretçilerine, tarihin derin sayfalarına götürmeyi vaat eder ve bu tümülüs, Marmara Bölgesi'nin önemli tarihi noktalarından biridir.
 
 ## İlginç Bilgiler
 

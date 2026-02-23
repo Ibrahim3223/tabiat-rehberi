@@ -1,7 +1,7 @@
 ---
 title: "Şeyhülislam Sunullah Efendi Türbesi"
 date: "2026-01-10T07:47:37.720Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391161"
 
 # Şeyhülislam Sunullah Efendi Türbesi
 
-Şeyhülislam Sunullah Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir dinî yapıdır. Fatih ilçesinde bulunan bu türbe, İstanbul'un Marmara Bölgesi'ndeki konumuyla dikkat çekiyor. 140 hektarlık bir alanın parçası olan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsıyor. Şeyhülislam Sunullah Efendi Türbesi, hem dinî hem de kültürel bir merkez olarak ziyaretçilerini ağırlıyor. Türbenin etrafındaki tarihi yapılar ve yeşillikler, ziyaretçilere huzurlu bir atmosfer sunuyor.
+Şeyhülislam Sunullah Efendi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir dinî yapıdır. Fatih ilçesinde bulunan bu türbe, İstanbul'un Marmara Bölgesi'ndeki konumuyla dikkat çekiyor. Şeyhülislam Sunullah Efendi Türbesi, hem dinî hem de kültürel bir merkez olarak ziyaretçilerini ağırlıyor. Türbenin etrafındaki tarihi yapılar ve yeşillikler, ziyaretçilere huzurlu bir atmosfer sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391161"
 
 ## Coğrafya
 
-Şeyhülislam Sunullah Efendi Türbesi, İstanbul'un Fatih ilçesinde bulunuyor. Bu bölge, Marmara Bölgesi'nin önemli bir parçası olarak kabul ediliyor. Türbe, 140 hektarlık bir yeşil alanın içinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Çevre, tarihi yapılarla dolu ve yeşillikler ziyaretçilere huzurlu bir atmosfer sunuyor. İstanbul'un iklimi, türbenin bulunduğu bölgede de hissediliyor. kışın soğukk, yazın sıcakk bir iklim hüküm sürüyor. Türbenin konumu, ziyaretçilerin आसaniyla ulaşabilmesini sağlıyor. Fatih ilçesi, İstanbul'un merkezi bir bölgesi olarak kabul edildiğiçin, türbeye ulaşım oldukça kolay
+Şeyhülislam Sunullah Efendi Türbesi, İstanbul'un Fatih ilçesinde bulunuyor. Bu bölge, Marmara Bölgesi'nin önemli bir parçası olarak kabul ediliyor. Çevre, tarihi yapılarla dolu ve yeşillikler ziyaretçilere huzurlu bir atmosfer sunuyor. İstanbul'un iklimi, türbenin bulunduğu bölgede de hissediliyor. kışın soğukk, yazın sıcakk bir iklim hüküm sürüyor. Türbenin konumu, ziyaretçilerin आसaniyla ulaşabilmesini sağlıyor. Fatih ilçesi, İstanbul'un merkezi bir bölgesi olarak kabul edildiğiçin, türbeye ulaşım oldukça kolay
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ wikidata_id: "Q131391161"
 
 ## Ziyaret Bilgileri
 
-Şeyhülislam Sunullah Efendi Türbesi'ni ziyaret etmek, hem dinî hem de kültürel bir deneyim sunuyor. Ziyaretçiler, türbeye kolayca ulaşabilirler. Fatih ilçesi, İstanbul'un merkezi bir bölgesi olduğu için, toplu taşıma seçenekleri oldukça yaygın. Türbeyi ziyaret etmek için en iyi zaman, ilkbahar ve yaz aylarıdır. Bu dönemde, türbenin etrafındaki yeşillikler ve flora, ziyaretçilere güzel bir manzara sunuyor. Ziyaret sırasında, türbenin históriki ve kültürel önemini öğrenme ve çevredeki bölgenin güzelliğini keşfetmek önemli
+Şeyhülislam Sunullah Efendi Türbesi'ni ziyaret etmek, hem dinî hem de kültürel bir deneyim sunuyor. Ziyaretçiler, türbeye kolayca ulaşabilirler. Fatih ilçesi, İstanbul'un merkezi bir bölgesi olduğu için, toplu taşıma seçenekleri oldukça yaygın. Türbeyi ziyaret etmek için en iyi zaman, ilkbahar ve yaz aylarıdır. Bu dönemde, türbenin etrafındaki yeşillikler ve flora, ziyaretçilere güzel bir manzara sunuyor. Ziyaret sırasında, türbenin tarihi ve kültürel önemini öğrenme ve çevredeki bölgenin güzelliğini keşfetmek önemli
 
 ## İlginç Bilgiler
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32138365"
 
 # Gökçe Tepesi
 
-Kayseri'nin İç Anadolu Bölgesi'nde bulunan Gökçe Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Gökçe Tepesi, şehrin gürültüsünden uzak, sakin bir atmosfere sahip. Burada, doğanın seslerini dinleyerek, stresten uzaklaşabilirsiniz. Gökçe Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yer.
+ Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Gökçe Tepesi, şehrin gürültüsünden uzak, sakin bir atmosfere sahip. Burada, doğanın seslerini dinleyerek, stresten uzaklaşabilirsiniz. Gökçe Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yer.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Gökçe Tepesi'ni ziyaret etmek, doğa severler için ideal bir aktivite. Burada
 
 ## İlginç Bilgiler
 
-- Gökçe Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Gökçe Tepesi, İç Anadolu Bölgesi'nde bulunuyor.
 - Gökçe Tepesi, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 - Gökçe Tepesi, trekking ve doğa yürüyüşü için ideal bir yer.

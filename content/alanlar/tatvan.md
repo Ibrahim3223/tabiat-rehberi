@@ -23,7 +23,7 @@ wikidata_id: "Q108227814"
 
 # Tatvan
 
-Tatvan, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu alanda, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tatvan, doğa severler ve tarihi geçmişi keşfetmek isteyenler için ideal bir destinasyondur. Milli park, ziyaretçilerine geniş açıklıkları ve yaban hayatınılemek için uygun bir ortam sunar.
+Tatvan, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir milli parktır. Bu alanda, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Tatvan, doğa severler ve tarihi geçmişi keşfetmek isteyenler için ideal bir destinasyondur. Milli park, ziyaretçilerine geniş açıklıkları ve yaban hayatınılemek için uygun bir ortam sunar.
 
 ## Tarihçe
 

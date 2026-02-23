@@ -32,9 +32,9 @@ wikidata_id: "Q49343185"
 
 ## Tarihçe
 
-Refanka Boğazı, Şırnak'ın doğal güzelliklerine ev sahipliği yapan bir bölge olarak, tarihin derinliklerinde gizli bir hazine gibi saklı duruyor. Bu bölgenin tarihi, binlerce yıl öncesine uzanan bir geçmişe sahip. Şırnak, tarihte various medeniyetlere ev sahipliği yapmış bir coğrafya olarak, Sümerler, Asurlular ve Persler gibi uygarlıkların izlerini taşıyor. 
+Refanka Boğazı, Şırnak'ın doğal güzelliklerine ev sahipliği yapan bir bölge olarak, tarihin derinliklerinde gizli bir hazine gibi saklı duruyor. Bu bölgenin tarihi, binlerce yıl öncesine uzanan bir geçmişe sahip. Şırnak, tarihte various medeniyetlere ev sahipliği yapmış bir coğrafya olarak, Sümerler, Asurlular ve Persler gibi uygarlıkların izlerini taşıyor.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturuyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal güzelliklerle iç içe yaşamasına olanak sağlamış. Refanka Boğazı da, bu bağlamda, insanların doğal güzelliklere duyduğu saygıyı ve bağını yansıtan bir örnek olarak karşımıza çıkıyor. 
+Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturuyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal güzelliklerle iç içe yaşamasına olanak sağlamış. Refanka Boğazı da, bu bağlamda, insanların doğal güzelliklere duyduğu saygıyı ve bağını yansıtan bir örnek olarak karşımıza çıkıyor.
 İnsanların bu alanla ilişkisi, yalnızca coğrafi bir gerçeklikten öte, kültürel ve tarihsel bir zenginliği de beraberinde getiriyor. Bu tür bölgelerin korunması ve gelecek nesillere aktarılması, Türkiye'nin tarihsel ve doğal mirasının korunması için büyük önem taşıyor.
 
 ## Coğrafya

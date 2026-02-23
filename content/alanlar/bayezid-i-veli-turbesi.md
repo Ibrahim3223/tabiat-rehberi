@@ -1,7 +1,7 @@
 ---
 title: "Bayezid-i Veli Türbesi"
 date: "2026-01-10T07:25:05.917Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

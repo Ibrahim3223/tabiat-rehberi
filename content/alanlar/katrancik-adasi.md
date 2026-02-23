@@ -52,7 +52,7 @@ Doğal güzellikleri ile ön plana çıkan Katrancık Adası, yaklaşık olarak 
 
 Katrancık Adası, Muğla'nın kıyılarında yer alan bir ada ekosistemi olarak, zeytinlikler ve çam ormanlarıyla çevrili bir doğa cenneti sunuyor. Ada, Akdeniz ikliminin karakteristik özelliklerini taşıyor ve bu iklim, adafloraya özel bir çeşitlilik kazandırıyor.
 
-İlkbaharın gelmesiyle birlikte, ada çiçeklerle donanıyor ve çam ormanları yeşilleniyor. Kıyı bitkileri, ada kıyılarının güzelliğine katkıda bulunuyor. Ada, deniz kuşları için önemli bir üreme ve göç alanı olarak da dikkat çekiyor. 
+İlkbaharın gelmesiyle birlikte, ada çiçeklerle donanıyor ve çam ormanları yeşilleniyor. Kıyı bitkileri, ada kıyılarının güzelliğine katkıda bulunuyor. Ada, deniz kuşları için önemli bir üreme ve göç alanı olarak da dikkat çekiyor.
 
 Ada ekosisteminin izole yapısı, özel türlerin gelişmesine olanak sağlıyor. Memeliler ve sürüngenler, adafloraya uyumlu bir şekilde yaşıyor. Ada, ekolojik değerini koruma altına almak için önemli bir bölge olarak kabul ediliyor. Adaflora ve faunasının korunması, bölgenin doğal dengesini korumak için hayati önem taşıyor.
 

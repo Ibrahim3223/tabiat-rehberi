@@ -33,7 +33,7 @@ Mencilis Mağarası, Türkiye'nin doğal güzelliklerinin bir başka önemli tem
 
 ## Tarihçe
 
-Mencilis Mağarası, Türkiye'nin zengin jeolojik mirasının önemli bir parçasını oluşturan bir jeopark olarak dikkat çekiyor. Bu bölgenin tarihi, binlerce yıl öncesine dayanan uygarlıkların izlerini taşıyor. Hitit, Roma ve Bizans gibi medeniyetler, zaman içinde bu topraklarda yaşamış ve burada önemli ticaret yolları oluşturmuşlardır. 
+Mencilis Mağarası, Türkiye'nin zengin jeolojik mirasının önemli bir parçasını oluşturan bir jeopark olarak dikkat çekiyor. Bu bölgenin tarihi, binlerce yıl öncesine dayanan uygarlıkların izlerini taşıyor. Hitit, Roma ve Bizans gibi medeniyetler, zaman içinde bu topraklarda yaşamış ve burada önemli ticaret yolları oluşturmuşlardır.
 
 Bu doğal alanlar, sadece jeolojik oluşumlar olarak değil, aynı zamanda insan yerleşimlerinin ve ekonomik faaliyetlerin merkezleri olarak dahistorik bir öneme sahiptir. Türkiye'de, özellikle İç ve Doğu Anadolu bölgelerinde, yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu doğal alanların bir parçası olarak görülür. İnsanlar, bu bölgelerde yaşamını sürdürürken, aynı zamanda bu doğal güzellikleri de korumuş ve yaşatmıştır.
 

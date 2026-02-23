@@ -28,7 +28,7 @@ wikidata_id: "Q31390732"
 
 # Tiraz Tepesi
 
-Tiraz Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan yaklaşık 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğayla baş başa bırakmak için ideal bir yerdir. Tiraz Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta olup, doğa severler için gerçek bir cennet olarak kabul edilebilir. Tiraz Tepesi, Yozgat'ın önemli turizm merkezlerinden biri olarak görülmektedir.
+Tiraz Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan yaklaşık 140 hektarlık bir yeşil alandır. Tiraz Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta olup, doğa severler için gerçek bir cennet olarak kabul edilebilir. Tiraz Tepesi, Yozgat'ın önemli turizm merkezlerinden biri olarak görülmektedir.
 
 ## Tarihçe
 

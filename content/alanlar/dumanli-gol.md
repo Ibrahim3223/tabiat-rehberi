@@ -32,9 +32,9 @@ Samsun'un doğal güzelliklerini keşfetmek isteyenler için Dumanlı Göl, ilin
 
 ## Tarihçe
 
-Samsun bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir yerleşim merkezi olmuştur. Hitit, Pers, Roma ve Osmanlı gibi büyük medeniyetler, Samsun'un stratejik konumu nedeniyle burada varlık göstermişlerdir. 
+Samsun bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir yerleşim merkezi olmuştur. Hitit, Pers, Roma ve Osmanlı gibi büyük medeniyetler, Samsun'un stratejik konumu nedeniyle burada varlık göstermişlerdir.
 
-Dumanlı Göl gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bir yer tutar. Bu tür alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde yer almaları nedeniyle de önemlidir. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve sosyal hayatının temelini oluşturur. 
+Dumanlı Göl gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bir yer tutar. Bu tür alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde yer almaları nedeniyle de önemlidir. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve sosyal hayatının temelini oluşturur.
 
 İnsanların Dumanlı Göl ile ilişkisi, bölgenin coğrafi özellikleri ve doğal kaynakları ile şekillenmiştir. Bölgede yaşayan topluluklar, gölün sunduğu kaynakları kullanarak hayatlarını sürdürmüşlerdir. Gölün çevresindeki verimli topraklar, tarım için elverişli bir ortam sunarken, gölün kendisi balıkçılık ve su kaynakları açısından önemlidir. Bu tür doğal alanlar, sadece yerel halkın değil, aynı zamanda bölgeyi ziyaret edenlerin de yaşamını etkileyen önemli bir bileşendir.
 
@@ -50,11 +50,11 @@ Mevsimsel olarak bakıldığında, Dumanlı Göl'ün iklim karakteri, Karadeniz 
 
 ## Flora ve Fauna
 
-Dumanlı Göl, Samsun'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Dumanlı Göl, Samsun'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharla birlikte göl çevresinde çiçeklerin açtığını görürüz. Gür ormanlar ve yüksek biyoçeşitlilik, bu bölgenin doğal güzelliğini artırır. Dumanlı Göl'ün su kuşları ve balıkları, sulak alan bitkileri arasında yaşar. 
+Bitki Örtüsü bölümünde, ilkbaharla birlikte göl çevresinde çiçeklerin açtığını görürüz. Gür ormanlar ve yüksek biyoçeşitlilik, bu bölgenin doğal güzelliğini artırır. Dumanlı Göl'ün su kuşları ve balıkları, sulak alan bitkileri arasında yaşar.
 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler arasında görülen çeşitlilik dikkat çeker. Göç eden kuşlar, sonbaharla birlikte göle gelir ve bu bölgeyi yaşam alanı olarak seçer. 
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler arasında görülen çeşitlilik dikkat çeker. Göç eden kuşlar, sonbaharla birlikte göle gelir ve bu bölgeyi yaşam alanı olarak seçer.
 
 Ekolojik Değer bölümünde, bu bölgenin neden önemli olduğu ve koruma durumu ele alınır. Dumanlı Göl'ün yüksek biyoçeşitlili ve nemli iklimi, birçok canlıyaşam alanı sağlar. Bu nedenle, bu bölgenin korunması büyük önem taşır.
 

@@ -1,7 +1,7 @@
 ---
 title: "Güdül Belediyesi Kent Müzesi"
 date: "2026-01-10T15:12:55.366Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950299"
 
 # Güdül Belediyesi Kent Müzesi
 
-Güdül Belediyesi Kent Müzesi, Ankara'nın Güdül ilçesinde yer alan ve 140 hektarlık yeşil alanıyla dikkat çeken bir müzedir. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir açık alan sunar. Müzenin içerisinde, Güdül'ün tarihçesi, coğrafyası ve kültürel özellikleri hakkında detaylı bilgiler bulunur. Ziyaretçiler, bu bilgiler ışığında Güdül'ün geçmişini ve günümüzdeki durumunu daha iyi anlayabilirler.
+Güdül Belediyesi Kent Müzesi, Ankara'nın Güdül ilçesinde yer alan ve 140 hektarlık yeşil alanıyla dikkat çeken bir müzedir. Müzenin içerisinde, Güdül'ün tarihçesi, coğrafyası ve kültürel özellikleri hakkında detaylı bilgiler bulunur. Ziyaretçiler, bu bilgiler ışığında Güdül'ün geçmişini ve günümüzdeki durumunu daha iyi anlayabilirler.
 
 ## Tarihçe
 

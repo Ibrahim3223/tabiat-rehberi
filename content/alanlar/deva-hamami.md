@@ -1,7 +1,7 @@
 ---
 title: "Deva Hamamı"
 date: "2026-01-09T22:11:58.972Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q87761549"
 
 # Deva Hamamı
 
-Deva Hamamı, Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak bilinir. Diyarbakır'ın Sur ilçesinde yer alan bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok bitki türüne ev sahipliği yapmaktadır. Deva Hamamı, doğal güzelliği ve tarihi değerleriyle birlikte, ziyaretçilerini büyüleyen bir mekândır. Bu bölge, hem yerli hem de yabancı turistler tarafından sıklıkla ziyaret edilmektedir.
+Deva Hamamı, Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak bilinir. Deva Hamamı, doğal güzelliği ve tarihi değerleriyle birlikte, ziyaretçilerini büyüleyen bir mekândır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Deva Hamamı'nın tarihi geçmişi, vùngün tarihine bağlı olarak yüzyıllar
 
 ## Coğrafya
 
-Deva Hamamı, Diyarbakır'ın Sur ilçesinde yer alır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak bilinir. Deva Hamamı, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok bitki türüne ev sahipliği yapmaktadır. Bu bölge, yüksek bir konumda yer almaktadır. Deva Hamamı, çevresindeki dağlar ve vadilerle birlikte, birçok farklı coğrafi yapıya ev sahipliği yapmaktadır. Bu bölge, birçok nehir ve derenin birleştiği bir noktada yer almaktadır. Deva Hamamı, ziyaretçilerine, doğal güzelliği ile birlikte, birçok farklı coğrafi yapıyı sunmaktadır.
+Deva Hamamı, Diyarbakır'ın Sur ilçesinde yer alır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak bilinir. Deva Hamamı, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Bu bölge, yüksek bir konumda yer almaktadır. Deva Hamamı, çevresindeki dağlar ve vadilerle birlikte, birçok farklı coğrafi yapıya ev sahipliği yapmaktadır. Bu bölge, birçok nehir ve derenin birleştiği bir noktada yer almaktadır. Deva Hamamı, ziyaretçilerine, doğal güzelliği ile birlikte, birçok farklı coğrafi yapıyı sunmaktadır.
 
 ## Flora ve Fauna
 

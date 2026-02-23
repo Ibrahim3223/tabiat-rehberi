@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 50, tarihin derinliklerinden gelen bir geçmişe sahip.
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 50, Ege Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir bölgedir. Bu bölge, Salihli ilçe merkezine yakın bir konumda yer alıyor ve Manisa'nın önemli coğrafi noktalarından biri olarak biliniyor. Bin Tepeler Tümülüsü 50, 140 hektarlık bir alanı kaplayan bir arkeolojik sit alanıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olan bir bölgeye yayılmış durumda. Coğrafi olarak, bu bölge Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak yazlarla birlikte ılıman ve yağışlı kışlara sahip bir iklimi bulunuyor.
+Bin Tepeler Tümülüsü 50, Ege Bölgesi'nin coğrafi özellikleri ile şekillenmiş bir bölgedir. Bu bölge, Salihli ilçe merkezine yakın bir konumda yer alıyor ve Manisa'nın önemli coğrafi noktalarından biri olarak biliniyor. Bin Tepeler Tümülüsü 50, 140 hektarlık bir alanı kaplayan bir arkeolojik sit alanıdır. Coğrafi olarak, bu bölge Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak yazlarla birlikte ılıman ve yağışlı kışlara sahip bir iklimi bulunuyor.
 
 ## Flora ve Fauna
 

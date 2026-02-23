@@ -28,11 +28,11 @@ wikidata_id: "Q31386012"
 
 # Bazıdağı Tepesi
 
-Bazıdağı Tepesi, Doğu Anadolu Bölgesi'nin Van ilinde yer alan ve bölgenin doğal güzelliklerini sunan bir tepe olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemini sunar. Bazıdağı Tepesi'nin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna yapısı ile dikkat çeker. Tepenin yüksekliği, ziyaretçilere bölgeyi panoramik olarak izleme imkanı tanır.
+Bazıdağı Tepesi, Doğu Anadolu Bölgesi'nin Van ilinde yer alan ve bölgenin doğal güzelliklerini sunan bir tepe olarak bilinir. Bu bölge, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemini sunar. Bazıdağı Tepesi'nin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna yapısı ile dikkat çeker. Tepenin yüksekliği, ziyaretçilere bölgeyi panoramik olarak izleme imkanı tanır.
 
 ## Tarihçe
 
-Bazıdağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tarihi kaynaklara göre, bu bölge, farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımıştır. Ancak,_exact tarih bilgisine ulaşılamamıştır. Bazıdağı Tepesi, tarihi önemini korurken, aynı zamanda doğal güzellikleri ile de dikkat çeker. Tepenin etrafında, çeşitli histórik yapılar ve kalıntılar bulunur. Bu yapılardan, bazıları hala ayaktadır ve ziyaretçilere tarihi hakkında bilgi verir. Bazıdağı Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar.
+Bazıdağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tarihi kaynaklara göre, bu bölge, farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımıştır. Ancak,_exact tarih bilgisine ulaşılamamıştır. Bazıdağı Tepesi, tarihi önemini korurken, aynı zamanda doğal güzellikleri ile de dikkat çeker. Tepenin etrafında, çeşitli tarihi yapılar ve kalıntılar bulunur. Bu yapılardan, bazıları hala ayaktadır ve ziyaretçilere tarihi hakkında bilgi verir. Bazıdağı Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar.
 
 ## Coğrafya
 

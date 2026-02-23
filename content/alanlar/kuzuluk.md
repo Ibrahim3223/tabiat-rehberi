@@ -23,7 +23,7 @@ wikidata_id: "Q108228361"
 
 # Kuzuluk
 
-Kuzuluk milli parkı, İç Anadolu Bölgesi'nin güzide bir köşesinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik dengesini korur. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu milli park, ziyaretçilerini doğanın kucağına davet eder. Kuzuluk'un sunduğu manzaralar, ziyaretçilerini etkileyici bir doğa deneyimi sunar.
+Kuzuluk milli parkı, İç Anadolu Bölgesi'nin güzide bir köşesinde yer alır. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu milli park, ziyaretçilerini doğanın kucağına davet eder. Kuzuluk'un sunduğu manzaralar, ziyaretçilerini etkileyici bir doğa deneyimi sunar.
 
 ## Tarihçe
 

@@ -48,7 +48,7 @@ Denizle iç içe olan Uçburun Siğlıkları, çevresindeki su kaynakları ve ek
 
 ## Flora ve Fauna
 
-İzmir'in gözde ada bölgesinde yer alan Uçburun Siğlıkları, benzersiz bir ekosisteme ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+İzmir'in gözde ada bölgesinde yer alan Uçburun Siğlıkları, benzersiz bir ekosisteme ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünden başlarsak, ilkbahar aylarında ada, çiçeklerle süsleniyor. Çam ormanları ve zeytinlikler, ada ekosistemini oluşturan temel bileşenler. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler, ada'nın doğal güzelliğini tamamlıyor.
 

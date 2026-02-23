@@ -28,7 +28,7 @@ wikidata_id: "Q31390408"
 
 # Sekikale Tepe
 
-Sekikale Tepe, Konya'nın merkezinde yer alan ve şehrin tarihi geçmişini gözler önüne seren önemli bir nokta. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezi konumunda. Sekikale Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan bir destinasyon. Bu tepe, Konya'nın coğrafi ve kültürel zenginliklerini keşfetmek için ideal bir başlangıç noktası.
+Sekikale Tepe, Konya'nın merkezinde yer alan ve şehrin tarihi geçmişini gözler önüne seren önemli bir nokta. Sekikale Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan bir destinasyon. Bu tepe, Konya'nın coğrafi ve kültürel zenginliklerini keşfetmek için ideal bir başlangıç noktası.
 
 ## Tarihçe
 

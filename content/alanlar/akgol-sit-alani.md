@@ -22,7 +22,7 @@ wikidata_id: "Q108226222"
 
 # Akgöl Sit Alanı
 
-Akgöl Sit Alanı, İç Anadolu Bölgesi'nin güzide bir bölgesinde yer alır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahiptir. Akgöl Sit Alanı, doğal güzellikleri ve tarihi geçmişi ile ziyaretçilerini çekmektedir. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmektedir. Akgöl Sit Alanı, ziyaretçilerine geniş yeşil alanlar, göller ve tarihi yapılar sunmaktadır.
+Akgöl Sit Alanı, İç Anadolu Bölgesi'nin güzide bir bölgesinde yer alır. Akgöl Sit Alanı, doğal güzellikleri ve tarihi geçmişi ile ziyaretçilerini çekmektedir. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmektedir. Akgöl Sit Alanı, ziyaretçilerine geniş yeşil alanlar, göller ve tarihi yapılar sunmaktadır.
 
 ## Tarihçe
 

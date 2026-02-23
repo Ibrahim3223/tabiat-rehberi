@@ -21,15 +21,15 @@ aktiviteler: ["tarihçi rehberli turlar","doğa yürüyüşleri","fotografcılı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Antik Mezar Kalıntısı, Akçakeçili","caption":"Antik Mezar Kalıntısı, Akçakeçili","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antik%20Mezar%20Kal%C4%B1nt%C4%B1s%C4%B1%2C%20Ak%C3%A7ake%C3%A7ili","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728083","tip":"genel"}]
-description: "Ezine'nin históri ve doğal güzelliklerini keşfedin. Antik Mezar Kalıntısı, Akçakeçili'de geçmişin izlerini takip edin."
-keywords: ["Antik Mezar Kalıntısı","Akçakeçili","Ezine","İç Anadolu Bölgesi","tarihi yerler","doğa güzellikleri","gezi rehberi","kültür turizmi"," histórik mekanlar"]
+description: "Ezine'nin tarihi ve doğal güzelliklerini keşfedin. Antik Mezar Kalıntısı, Akçakeçili'de geçmişin izlerini takip edin."
+keywords: ["Antik Mezar Kalıntısı","Akçakeçili","Ezine","İç Anadolu Bölgesi","tarihi yerler","doğa güzellikleri","gezi rehberi","kültür turizmi"," tarihi mekanlar"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728083"
 ---
 
 # Antik Mezar Kalıntısı, Akçakeçili
 
-Ezine'nin históri ve doğal güzelliklerini keşfedin. Antik Mezar Kalıntısı, Akçakeçili, İç Anadolu Bölgesi'nin kalbinde yer alan Ezine ilçesinde bulunmaktadır. Bu antik mezar kalıntısı, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış olup, ziyaretçiler için bir tarihi yolculuğa davet etmektedir. 200 futbol sahası büyüklüğünde olan bu alan, geçmişin izlerini günümüze taşımaktadır. Antik Mezar Kalıntısı, Akçakeçili, ziyaretçiler için bir zaman tüneli gibi hissettirece ve onları Ezine'nin zengin tarihine götürecek.
+Ezine'nin tarihi ve doğal güzelliklerini keşfedin. Antik Mezar Kalıntısı, Akçakeçili, İç Anadolu Bölgesi'nin kalbinde yer alan Ezine ilçesinde bulunmaktadır. Bu antik mezar kalıntısı, yaklaşık 140 hektarlık bir alan üzerinde konumlanmış olup, ziyaretçiler için bir tarihi yolculuğa davet etmektedir. 200 futbol sahası büyüklüğünde olan bu alan, geçmişin izlerini günümüze taşımaktadır. Antik Mezar Kalıntısı, Akçakeçili, ziyaretçiler için bir zaman tüneli gibi hissettirece ve onları Ezine'nin zengin tarihine götürecek.
 
 ## Tarihçe
 

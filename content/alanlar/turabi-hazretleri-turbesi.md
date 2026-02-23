@@ -1,7 +1,7 @@
 ---
 title: "Turabi Hazretleri Türbesi"
 date: "2026-01-10T05:14:08.890Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391617"
 
 # Turabi Hazretleri Türbesi
 
-Turabi Hazretleri Türbesi, Düzce ilinin merkezinde yer alan önemli bir tarihi ve kültürel mekândır. Bu bölge, 140 hektarlık geniş yeşil alanıyla birlikte yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yer almaktadır. Turabi Hazretleri Türbesi, hem dini hem de turistik açıdan ziyaretçilerini cezbeden bir noktada bulunmaktadır. Bu alan, hem yerel halk hem de şehri ziyaret edenler için önemli bir çekim merkezi olarak öne çıkmaktadır.
+Turabi Hazretleri Türbesi, Düzce ilinin merkezinde yer alan önemli bir tarihi ve kültürel mekândır. Turabi Hazretleri Türbesi, hem dini hem de turistik açıdan ziyaretçilerini cezbeden bir noktada bulunmaktadır. Bu alan, hem yerel halk hem de şehri ziyaret edenler için önemli bir çekim merkezi olarak öne çıkmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Turabi Hazretleri Türbesi, tarihi geçmişiyle birlikte önemli bir kültürel 
 
 ## Coğrafya
 
-Turabi Hazretleri Türbesi, Düzce ilinin merkezinde yer alan bir bölgede bulunmaktadır. Bu bölge, 140 hektarlık geniş yeşil alanıyla birlikte yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yer almaktadır. Türbe, Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri arasında yer alan ormanlık alanlara yakınlığıyla dikkat çekmektedir. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır ve yıl boyunca yağış görülmesi, bölgenin yeşilliklerinin sürekli olarak canlı kalmasına olanak sağlar. Turabi Hazretleri Türbesi, ziyaretçilerine hem tarihi bir mekan olarak hem de doğal güzellikleri sunan bir alan olarak hizmet vermektedir. Bu bölge, hem yerel halk hem de şehri ziyaret edenler için önemli bir çekim merkezi olarak öne çıkmaktadır. Bölgenin coğrafi konumu, ziyaretçilerin hem tarihsel açıdan önemli bir mekânı keşfetmelerine hem de doğal güzellikleri yakından görmelerine olanak sağlamaktadır.
+Turabi Hazretleri Türbesi, Düzce ilinin merkezinde yer alan bir bölgede bulunmaktadır. Türbe, Karadeniz Bölgesi'nin karakteristik coğrafi özellikleri arasında yer alan ormanlık alanlara yakınlığıyla dikkat çekmektedir. Bölgenin iklimi, Karadeniz ikliminin özelliklerini taşır ve yıl boyunca yağış görülmesi, bölgenin yeşilliklerinin sürekli olarak canlı kalmasına olanak sağlar. Turabi Hazretleri Türbesi, ziyaretçilerine hem tarihi bir mekan olarak hem de doğal güzellikleri sunan bir alan olarak hizmet vermektedir. Bu bölge, hem yerel halk hem de şehri ziyaret edenler için önemli bir çekim merkezi olarak öne çıkmaktadır. Bölgenin coğrafi konumu, ziyaretçilerin hem tarihsel açıdan önemli bir mekânı keşfetmelerine hem de doğal güzellikleri yakından görmelerine olanak sağlamaktadır.
 
 ## Flora ve Fauna
 

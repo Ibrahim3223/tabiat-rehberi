@@ -1,7 +1,7 @@
 ---
 title: "Kaygusuz Abdal Türbesi"
 date: "2026-01-10T05:13:05.379Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391614"
 
 # Kaygusuz Abdal Türbesi
 
-Kaygusuz Abdal Türbesi, Ankara'nın Beypazarı ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bölgede bulunan diğer tarihi ve doğal güzelliklere benzerlik göstermektedir. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresi zengin bir bitki örtüsüne sahiptir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş bir açık mekan sunmaktadır. Ayrıca, çevredeki tepeler ve vadiler, bölgeye özel bir güzellik katmaktadır. Bu mekan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini çekmektedir.
+Kaygusuz Abdal Türbesi, Ankara'nın Beypazarı ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bölgede bulunan diğer tarihi ve doğal güzelliklere benzerlik göstermektedir. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresi zengin bir bitki örtüsüne sahiptir. Ayrıca, çevredeki tepeler ve vadiler, bölgeye özel bir güzellik katmaktadır. Bu mekan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini çekmektedir.
 
 ## Tarihçe
 

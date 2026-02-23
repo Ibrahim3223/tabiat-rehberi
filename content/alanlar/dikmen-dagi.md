@@ -33,7 +33,7 @@ Kastamonu'nun kuzeyinde yer alan Dikmen Dağı, Türkiye'nin wichtig doğal güz
 
 ## Tarihçe
 
-Kastamonu bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, çeşitli uygarlıkların etkilerini taşımıştır. Hitit, Pers, Roma ve Bizans gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. Dikmen Dağı, bu tarihsel zenginlik içinde yer alan bir doğal güzelliğidir.
+Kastamonu bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, çeşitli uygarlıkların etkilerini taşımıştır. Hitit, Pers, Roma ve Bizans gibi medeniyetler, bu topraklarda izlerini bırakmışlardır. Dikmen Dağı, bu tarihsel zenginlik içinde yer alan bir doğal güzelliğidir.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. İnsanlar, bu alanları yalnızca güzelliğiçin değil, aynı zamanda yaşamlarını sürdürebilmek için de kullanmışlardır. Yaylacılık, hayvancılık ve ticaret yolları, bu doğal alanların insan yaşamı ile bağlantılı olduğunu gösterir. Kastamonu bölgesinde de, Dikmen Dağı'nın eteklerinde ve çevresinde, insanların yaşamlarını sürdürdükleri ve doğal kaynaklardan faydalandıkları görülür.
 

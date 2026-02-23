@@ -36,13 +36,13 @@ Mersin bölgesi, tarihin en eski dönemlerinden bu yana çeşitli uygarlıklara 
 
 Türkiye'de, özellikle Toros Dağları gibi dağlık alanlarda yer alan bu tür jeolojik oluşumlar, binlerce yıl boyunca insanların yaşamlarını sürdürdüğü önemli merkezler olmuşlardır. Yaylacılık ve hayvancılık gibi yonel faaliyetler, bu bölgelerde halkın geçim kaynaklarını oluşturmuştur. Ayrıca, tarihi ticaret yollarının da bu bölgelerden geçmesi, bu doğal güzelliklerin insan yaşamı ile olan bağlantısını da göstermektedir.
 
-Borunkaya İni gibi doğal alanlar, sadece jeolojik açıdan değil, aynı zamanda kültürel ve tarihi açıdan da büyük önem taşımaktadır. Bu alanlar, geçmişte insanların yaşamlarını sürdürdükleri, birbirleriyle iletişim kurdukları ve ticaret yaptıkları önemli merkezler olarak görülebilir. Borunkaya İni, Mersin bölgesinin zengin tarihsel mirasını yansıtan bir doğal güzellik olarak, ziyaretçilere bu bölgenin tarihi ve kültürel değerlerini keşfetme fırsatı sunmaktadır.
+Borunkaya İni gibi doğal alanlar, sadece jeolojik açıdan değil, aynı zamanda kültürel ve tarihi açıdan da büyük önem taşımaktadır. Bu alanlar, geçmişte insanların yaşamlarını sürdürdükleri, birbirleriyle iletişim kurdukları ve ticaret yaptıkları önemli merkezler olarak görülebilir.
 
 ## Coğrafya
 
 Mersin'in coğrafi zenginliklerini keşfederken, Borunkaya İni gibi gizli kaya oluşumları karşımıza çıkıyor. 36.7847°K, 33.3075°D koordinatlarında yer alan bu jeopark, Mersin'in dağlık arazisinin bir parçası olarak karşımıza çıkıyor. Yaklaşık olarak bir şehir bloğu büyüklüğünde olan bu alan, Mersin'in dağlık bölgelerine özgü flora ve fauna çeşitliliğini barındırıyor.
 
-Doğal bir anıt olan Borunkaya İni, jeolojik olarak ilginç bir yapıya sahip. Yeraltı su kaynaklarının uzun yıllar boyunca kaya katmanlarını aşındırmasıyla oluşan bu ini, etrafındaki dağlarla birlikte bir bütünü oluşturuyor. Monaco'nun yarısı kadar büyük bir alanda yer alan Mersin'in dağlık bölgesi, Borunkaya İni gibi birçok doğal oluşumu barındırıyor. Bu régionun jeolojik yapısı, Eiffel Kulesi'nin 2 katı yükseklikte olan dağlarla karakterize ediliyor.
+Doğal bir anıt olan Borunkaya İni, jeolojik olarak ilginç bir yapıya sahip. Yeraltı su kaynaklarının uzun yıllar boyunca kaya katmanlarını aşındırmasıyla oluşan bu ini, etrafındaki dağlarla birlikte bir bütünü oluşturuyor. Monaco'nun yarısı kadar büyük bir alanda yer alan Mersin'in dağlık bölgesi, Borunkaya İni gibi birçok doğal oluşumu barındırıyor. Bu bölgenin jeolojik yapısı, Eiffel Kulesi'nin 2 katı yükseklikte olan dağlarla karakterize ediliyor.
 
 Borunkaya İni'nin bulunduğu bölgenin iklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Yaz aylarında sıcaklık 30°C'nin üzerine çıkarken, kış aylarında 10°C'nin altına iniyor. Bu mevsimsel değişimler, bölgenin flora ve fauna çeşitliliğini etkiliyor. Borunkaya İni'nin etrafındaki dağlar, bölgenin iklimini şekillendiren önemli faktörlerden biri olarak karşımıza çıkıyor.
 
@@ -50,9 +50,9 @@ Borunkaya İni, Mersin'in dağlık bölgesinin bir parçası olarak, etrafındak
 
 ## Flora ve Fauna
 
-Borunkaya İni, Mersin'in güneşli kıyılarında yer alan bir jeoparktır. Bu alanda hakim olan maki bitki örtüsü, kuraklığa dayanıklı türlerle zenginleşir. İlkbaharın gelmesiyle birlikte, bölgenin bitki örtüsü rengarenk çiçeklerle süslenir. 
+Borunkaya İni, Mersin'in güneşli kıyılarında yer alan bir jeoparktır. Bu alanda hakim olan maki bitki örtüsü, kuraklığa dayanıklı türlerle zenginleşir. İlkbaharın gelmesiyle birlikte, bölgenin bitki örtüsü rengarenk çiçeklerle süslenir.
 
-Bu jeopark, çeşitli orman ekosistemlerine ev sahipliği yapar. Orman memelileri, ağaçların gölgesinde yaşamlarını sürdürürken, çeşitli kuş türleri de bu ağaçlarda yuvalarını kurar. Kış aylarında, göçmen kuşların gelmesiyle birlikte, bu alan bir kuş cennetine dönüşür. 
+Bu jeopark, çeşitli orman ekosistemlerine ev sahipliği yapar. Orman memelileri, ağaçların gölgesinde yaşamlarını sürdürürken, çeşitli kuş türleri de bu ağaçlarda yuvalarını kurar. Kış aylarında, göçmen kuşların gelmesiyle birlikte, bu alan bir kuş cennetine dönüşür.
 
 Borunkaya İni'nin ekolojik değeri, bu diverse yaşam alanının korunmasına bağlıdır. Bu jeopark, bölgenin doğal dengesini korumak için büyük önem taşır. Bu nedenle, koruma çalışmaları bu alanda büyük bir öneme sahiptir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Ankara-Nallihan Sacak"
 date: "2026-01-09T19:30:09.031Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Ankara"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227092"
 
 # Ankara-Nallihan Sacak
 
-Ankara-Nallihan Sacak milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Burada, doğanın güzelliği ve zenginliği bir araya geliyor. İnsanın doğayla iç içe olabileceği ender mekanlardan biri olan Ankara-Nallihan Sacak, hem doğa severler hem de turistler için bir cazibe merkezi. Bu milli park, Ankara'nın Nallihan ilçesinde bulunuyor ve şehrin gürültüsünden uzak, sakin bir ortam sunuyor.
+Ankara-Nallihan Sacak milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Burada, doğanın güzelliği ve zenginliği bir araya geliyor. İnsanın doğayla iç içe olabileceği ender mekanlardan biri olan Ankara-Nallihan Sacak, hem doğa severler hem de turistler için bir cazibe merkezi. Bu milli park, Ankara'nın Nallihan ilçesinde bulunuyor ve şehrin gürültüsünden uzak, sakin bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Ankara-Nallihan Sacak milli parkı, coğrafi olarak Internal Anadolu Bölgesi'ni
 
 ## Flora ve Fauna
 
-Ankara-Nallihan Sacak milli parkı, flora ve fauna açısından oldukça zengin bir alandır. Burada, çeşitli bitki türleri ve hayvan türleri yaşamlarını sürdürüyor. Milli parkın flora açısından zengin oluşu, mevsimsel değişimlere de neden oluyor. İlkbahar ve yaz aylarında, bitki örtüsü yeşil ve çok çeşitli iken, sonbahar ve kış aylarında bu bitki örtüsü değişiyor. Fauna açısından da zengin olan Ankara-Nallihan Sacak, çeşitli hayvan türlerine ev sahipliği yapıyor. Bu hayvan türleri, milli parkın ekosistemini oluşturan önemli bir bileşen. Ankara-Nallihan Sacak milli parkı, aynı zamanda göçmen kuşların uğrak noktalarından biri. Burada, çeşitli kuş türleri, göç yolları üzerinde konaklıyor ve besleniyor.
+ Burada, çeşitli bitki türleri ve hayvan türleri yaşamlarını sürdürüyor. Milli parkın flora açısından zengin oluşu, mevsimsel değişimlere de neden oluyor. İlkbahar ve yaz aylarında, bitki örtüsü yeşil ve çok çeşitli iken, sonbahar ve kış aylarında bu bitki örtüsü değişiyor. Fauna açısından da zengin olan Ankara-Nallihan Sacak, çeşitli hayvan türlerine ev sahipliği yapıyor. Bu hayvan türleri, milli parkın ekosistemini oluşturan önemli bir bileşen. Ankara-Nallihan Sacak milli parkı, aynı zamanda göçmen kuşların uğrak noktalarından biri. Burada, çeşitli kuş türleri, göç yolları üzerinde konaklıyor ve besleniyor.
 
 ## Ziyaret Bilgileri
 

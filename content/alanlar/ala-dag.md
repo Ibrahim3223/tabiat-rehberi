@@ -64,6 +64,6 @@ Ala Dağ, Kars'ın doğal güzelliklerinden biri. Sabah erken gitmenizi öneriri
 - Ala Dağ, Kars ilinin en önemli dağlarından biridir.
 - Dağ, Türkiye'nin kuzeydoğu kesiminde yer alır.
 - Kars ilinin coğrafi yapısını şekillendiren önemli bir unsurdur.
-- Dağın etrafındaki köyler, históri ve kültürel zenginliklere sahiptir.
+- Dağın etrafındaki köyler, tarihi ve kültürel zenginliklere sahiptir.
 - Ala Dağ, bölgenin ekolojik dengesini korumada önemli bir rol oynar.
 - Dağın yüksekliği ve coğrafi konumu, bölgenin iklimini etkiler.

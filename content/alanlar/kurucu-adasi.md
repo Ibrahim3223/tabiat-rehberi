@@ -52,7 +52,7 @@ Mevsimsel özellikler açısından, Kurucu Adası Ege Denizi'nin genel iklim kar
 
 Kurucu Adası, Muğla'nın güneşli kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ada, zeytinlikler ve çam ormanlarıyla kaplı bir Akdeniz iklimine sahip. İlkbaharın gelmesiyle birlikte, adanın bitkileri renklenmeye başlar. Çiçekler açar ve adayı bir renk cümbüşüne çevirir. Sonbaharda ise, göçmen kuşlar adayı ziyaret eder ve adanın kıyılarında dinlenerek, beslenirler.
 
-Adanın yaban hayatı, deniz kuşları ve kıyı bitkileriyle zengin bir çeşitlilik sunar. Ada, izole bir popülasyon olarak, kendi ekosistemini oluşturmuş ve burada yaşayan canlılar, birbirleriyle sıkı bir ilişkiye sahiptir. Memeliler, kuşlar ve sürüngenler, adanın farklı bölgelerinde yaşamını sürdürür. 
+Adanın yaban hayatı, deniz kuşları ve kıyı bitkileriyle zengin bir çeşitlilik sunar. Ada, izole bir popülasyon olarak, kendi ekosistemini oluşturmuş ve burada yaşayan canlılar, birbirleriyle sıkı bir ilişkiye sahiptir. Memeliler, kuşlar ve sürüngenler, adanın farklı bölgelerinde yaşamını sürdürür.
 
 Kurucu Adası, ekolojik açıdan önemli bir bölgedir. Ada, göçmen kuşlar için önemli bir durak noktasıdır ve burada yaşayan canlılar, adanın ekosistemini korur. Ada, doğal güzelliği ve biyolojik çeşitliliği nedeniyle koruma altına alınmıştır.
 

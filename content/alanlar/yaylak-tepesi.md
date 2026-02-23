@@ -28,7 +28,7 @@ wikidata_id: "Q31390652"
 
 # Yaylak Tepesi
 
-Yaylak Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri olan Kırşehir'de yer alır. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Yaylak Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir doğal huzur alanı sunar. Burada, şehrin stresinden kaçma ve doğanın güzelliğini keşfetme mümkündür. Yaylak Tepesi, özellikle doğa severler için bir cennet olarak kabul edilir.
+Yaylak Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri olan Kırşehir'de yer alır. Yaylak Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir doğal huzur alanı sunar. Burada, şehrin stresinden kaçma ve doğanın güzelliğini keşfetme mümkündür. Yaylak Tepesi, özellikle doğa severler için bir cennet olarak kabul edilir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Yaylak Tepesi'ni ziyaret etmek, doğa severler için bir hayal gibi gelebilir. B
 ## İlginç Bilgiler
 
 - Yaylak Tepesi, Kırşehir'in en yüksek noktalarından biridir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Yaylak Tepesi, doğa severler için bir cennet olarak kabul edilir.
 - Bu bölge, yılın her mevsiminde ziyaret edilebilir.
 - Yaylak Tepesi, coğrafi olarak zengin bir çeşitlilik sunar.

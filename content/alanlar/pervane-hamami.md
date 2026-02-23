@@ -1,7 +1,7 @@
 ---
 title: "Pervane Hamamı"
 date: "2026-01-09T22:23:34.106Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738444"
 
 # Pervane Hamamı
 
-Tokat ilinin merkezinde yer alan Pervane Hamamı, tarihi ve doğal güzelliklerinin birleştiği özel bir noktada bulunmaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Pervane Hamamı, Tokat'ın tarihi geçmişi ile birlikte doğal güzelliğini de sunan bir destinasyondur. Burası, hem şehir içi gezileri hem de doğa yürüyüşleri için tercih edilebilir. Tokat'ın merkezinde yer alması, ulaşım açısından kolaylıklar sağlamaktadır.
+Tokat ilinin merkezinde yer alan Pervane Hamamı, tarihi ve doğal güzelliklerinin birleştiği özel bir noktada bulunmaktadır. Pervane Hamamı, Tokat'ın tarihi geçmişi ile birlikte doğal güzelliğini de sunan bir destinasyondur. Burası, hem şehir içi gezileri hem de doğa yürüyüşleri için tercih edilebilir. Tokat'ın merkezinde yer alması, ulaşım açısından kolaylıklar sağlamaktadır.
 
 ## Tarihçe
 

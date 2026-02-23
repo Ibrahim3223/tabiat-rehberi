@@ -1,7 +1,7 @@
 ---
 title: "Selçuklu Hamamı"
 date: "2026-01-09T22:52:51.922Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738662"
 
 # Selçuklu Hamamı
 
-Selçuklu Hamamı, Eskişehir'in Seyitgazi ilçesinde yer alan ve tarihin derinliklerine uzanan bir tarihi yapı. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin sayfalarında bir yolculuğa çıkarıyor. Selçuklu Hamamı, Eskişehir'in zengin tarihi ve kültürel mirasının önemli bir parçası olarak karşımıza çıkıyor. Bu tarihi hamam, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor.
+Selçuklu Hamamı, Eskişehir'in Seyitgazi ilçesinde yer alan ve tarihin derinliklerine uzanan bir tarihi yapı. Selçuklu Hamamı, Eskişehir'in zengin tarihi ve kültürel mirasının önemli bir parçası olarak karşımıza çıkıyor. Bu tarihi hamam, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Umur Bey Hamamı"
 date: "2026-01-09T22:59:07.848Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738813"
 
 # Umur Bey Hamamı
 
-Afyonkarahisar'ın merkezinde yer alan Umur Bey Hamamı, şehrin en önemli tarihi ve kültürel yapılarından biridir. 140 hektarlık bir alanda kurulan hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Umur Bey Hamamı, şehrin merkezinde yer alması nedeniyle kolayca ulaşılabilen bir konumdadır. Hamamın tarihi geçmişi, şehrin kültürel zenginliğini ortaya koyar. Umur Bey Hamamı, Afyonkarahisar'ın önemli bir turizm merkezi olarak kabul edilir.
+Afyonkarahisar'ın merkezinde yer alan Umur Bey Hamamı, şehrin en önemli tarihi ve kültürel yapılarından biridir. Umur Bey Hamamı, şehrin merkezinde yer alması nedeniyle kolayca ulaşılabilen bir konumdadır. Hamamın tarihi geçmişi, şehrin kültürel zenginliğini ortaya koyar. Umur Bey Hamamı, Afyonkarahisar'ın önemli bir turizm merkezi olarak kabul edilir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Umur Bey Hamamı, ziyaretçilerin ilgisini çeker. Hamam, şehrin merkezinde yer
 ## İlginç Bilgiler
 
 - Umur Bey Hamamı, Afyonkarahisar'ın en önemli tarihi ve kültürel yapılarından biridir.
-- Hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Hamamın tarihi geçmişi, şehrin kültürel zenginliğini ortaya koyar.
 - Hamam, yılın her döneminde ziyaret edilebilir.
 - Hamamın çevresinde, çeşitli aktiviteleri yapma mümkündür.

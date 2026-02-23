@@ -22,7 +22,7 @@ wikidata_id: "Q108226686"
 
 # Eğirdir Gölü Sit Alanı
 
-Eğirdir Gölü Sit Alanı, İç Anadolu Bölgesi'nin natuur güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir alan sunuyor. Gölün etrafındaki yeşil alanlar, yürüyüş ve piknik için uygun ortamlar sağlıyor. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir cazibe merkezi.
+Eğirdir Gölü Sit Alanı, İç Anadolu Bölgesi'nin natuur güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Gölün etrafındaki yeşil alanlar, yürüyüş ve piknik için uygun ortamlar sağlıyor. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir cazibe merkezi.
 
 ## Tarihçe
 

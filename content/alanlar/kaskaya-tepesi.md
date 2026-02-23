@@ -28,7 +28,7 @@ wikidata_id: "Q31564865"
 
 # Kaşkaya Tepesi
 
-Sivas'ın eşsiz doğal güzelliklerinden biri olan Kaşkaya Tepesi, yaklaşık 140 hektarlık bir alan kaplar. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Kaşkaya Tepesi, Sivas'ın merkezine uzun bir mesafe uzaklıkta yer alır ve şehrin panoramik manzarasını sunar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölge, doğa severler için bir cennet niteliğindedir. Kaşkaya Tepesi, aynı zamanda tarihsel öneme sahip bir bölgedir. Tepenin yakınında, tarihi yapılar ve anıtlar bulunur.
+Sivas'ın eşsiz doğal güzelliklerinden biri olan Kaşkaya Tepesi, yaklaşık 140 hektarlık bir alan kaplar. Kaşkaya Tepesi, Sivas'ın merkezine uzun bir mesafe uzaklıkta yer alır ve şehrin panoramik manzarasını sunar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölge, doğa severler için bir cennet niteliğindedir. Kaşkaya Tepesi, aynı zamanda tarihsel öneme sahip bir bölgedir. Tepenin yakınında, tarihi yapılar ve anıtlar bulunur.
 
 ## Tarihçe
 

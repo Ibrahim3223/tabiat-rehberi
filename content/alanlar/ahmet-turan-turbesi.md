@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Turan Türbesi"
 date: "2026-01-10T07:12:27.890Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Malatya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390902"
 
 # Ahmet Turan Türbesi
 
-Ahmet Turan Türbesi, Doğu Anadolu Bölgesi'nin merkezi olan Malatya'nın Battalgazi ilçesinde yer alan tarihi ve kültürel bir mekandır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem tarihi hem de kültürel açıdan zengin bir deneyim sunar. Ahmet Turan Türbesi, bölgenin önemli dinî ve turistik merkezlerinden biridir. Ziyaretçiler, bu mekanın tarihi ve kültürel önemini öğrenmek için gelenler arasında yer alır.
+Ahmet Turan Türbesi, Doğu Anadolu Bölgesi'nin merkezi olan Malatya'nın Battalgazi ilçesinde yer alan tarihi ve kültürel bir mekandır. Bu geniş alan, ziyaretçilere hem tarihi hem de kültürel açıdan zengin bir deneyim sunar. Ahmet Turan Türbesi, bölgenin önemli dinî ve turistik merkezlerinden biridir. Ziyaretçiler, bu mekanın tarihi ve kültürel önemini öğrenmek için gelenler arasında yer alır.
 
 ## Tarihçe
 

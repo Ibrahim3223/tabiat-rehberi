@@ -28,7 +28,7 @@ wikidata_id: "Q31506490"
 
 # Sinidağı Tepesi
 
-Sinidağı Tepesi, Şırnak ilinin güzide bir noktası olarak, doğal güzellikleri ve tarihi zenginlikleri ile dikkat çekiyor. 140 hektarlık bir alana yayılmış olan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçiler için eşsiz bir deneyim sunuyor. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ile zengin fauna found, ziyaretçilere doğanın güzelliğini sunuyor.
+Sinidağı Tepesi, Şırnak ilinin güzide bir noktası olarak, doğal güzellikleri ve tarihi zenginlikleri ile dikkat çekiyor. Tepenin eteklerinde ve zirvesinde, çeşitli bitki türleri ile zengin fauna found, ziyaretçilere doğanın güzelliğini sunuyor.
 
 ## Tarihçe
 

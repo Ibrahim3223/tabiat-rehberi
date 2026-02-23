@@ -41,7 +41,7 @@ Hasan Tepe gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının 
 
 ## Coğrafya
 
-Doğu Anadolu Bölgesi'nin kalbinde yer alan Hasan Tepe, 38.6103°K ve 38.8733°D koordinatlarında bulunmaktadır. Bu dağ, Elazığ'ın doğal güzelliklerine ev sahipliği yapan bir bölgede yer alır. Yaklaşık olarak 1200 hektarlık bir alanı kaplayan bu bölge, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Doğu Anadolu Bölgesi'nin kalbinde yer alan Hasan Tepe, 38.6103°K ve 38.8733°D koordinatlarında bulunmaktadır. Bu dağ, Elazığ'ın doğal güzelliklerine ev sahipliği yapan bir bölgede yer alır. Yaklaşık olarak 1200 hektarlık bir alanı kaplayan bu bölge, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Jeolojik açıdan bakıldığında, Hasan Tepe'nin fiziksel yapısı hakkında ayrıntılı bilgi bulunmuyor. Ancak, bu dağların yükseklikleri Eiffel Kulesi'nin birkaç katı yükseklikte olabilir. Bu yükseklik, ziyaretçilere muhteşem manzaralar sunmakla birlikte, coğrafi olarak önemli bir konumda yer alıyor.
 

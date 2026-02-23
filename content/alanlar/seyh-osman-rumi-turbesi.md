@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Osman Rumi Türbesi"
 date: "2026-01-10T05:52:03.555Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582378"
 
 # Şeyh Osman Rumi Türbesi
 
-Konya'nın Meram ilçesinde yer alan Şeyh Osman Rumi Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunan özel bir mekan. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alanda, ziyaretçiler hem tarihi türbeyi ziyaret edebiliyor hem de plajın keyfini çıkarabiliyor. Şeyh Osman Rumi Türbesi, Konya'nın önemli turist çekim merkezlerinden biri olarak dikkat çekiyor.
+Konya'nın Meram ilçesinde yer alan Şeyh Osman Rumi Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunan özel bir mekan. Bu geniş alanda, ziyaretçiler hem tarihi türbeyi ziyaret edebiliyor hem de plajın keyfini çıkarabiliyor. Şeyh Osman Rumi Türbesi, Konya'nın önemli turist çekim merkezlerinden biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

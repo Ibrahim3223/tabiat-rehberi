@@ -50,11 +50,11 @@ Bölgenin su kaynakları açısından, Derihastiva Tepe ve çevresinde, çeşitl
 
 ## Flora ve Fauna
 
-Derihastiva Tepe, Şırnak'ta yer alan bir dağ ekosistemi olarak yarı kurak iklimin hakim olduğu bir bölgede bulunmaktadır. Bu dağ, yükseklik zonları ve alpin flora ile karakterizedir. 
+Derihastiva Tepe, Şırnak'ta yer alan bir dağ ekosistemi olarak yarı kurak iklimin hakim olduğu bir bölgede bulunmaktadır. Bu dağ, yükseklik zonları ve alpin flora ile karakterizedir.
 
-Bitki örtüsüne baktığımızda, ilkbaharda dağ yamaçlarında çeşitli çiçekler açar ve bu bölgeyi renkli bir hal alır. Step ve ova ekolojisinini altında kalan bu dağ, mevsimsel değişimlere göre farklı bir görünüm sergiler. 
+Bitki örtüsüne baktığımızda, ilkbaharda dağ yamaçlarında çeşitli çiçekler açar ve bu bölgeyi renkli bir hal alır. Step ve ova ekolojisinini altında kalan bu dağ, mevsimsel değişimlere göre farklı bir görünüm sergiler.
 
-Yaban hayatı açısından zengin olan bu bölge, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Özellikle sonbaharda, göç eden kuşlar bu dağları ziyaret eder ve ekosistemi canlandırır. Sürüngenler de bu dağların yükseklik zonlarında yaşamlarını sürdürür. 
+Yaban hayatı açısından zengin olan bu bölge, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Özellikle sonbaharda, göç eden kuşlar bu dağları ziyaret eder ve ekosistemi canlandırır. Sürüngenler de bu dağların yükseklik zonlarında yaşamlarını sürdürür.
 
 Derihastiva Tepe'nin ekolojik değeri, dağ ekosisteminin korunmasına bağlıdır. Bu dağ, bölgenin su döngüsünü düzenlemede önemli bir role sahiptir ve çeşitli canlı türleri için yaşam alanı sağlar. Koruma durumu açısından, bu bölgenin doğal güzelliğinin korunması için çaba sarf edilmelidir.
 

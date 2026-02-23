@@ -1,7 +1,7 @@
 ---
 title: "Yeni Hamam, İzmit"
 date: "2026-01-09T23:47:46.780Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -30,7 +30,7 @@ wikidata_id: "Q133245819"
 
 # Yeni Hamam, İzmit
 
-Yeni Hamam, İzmit, Kocaeli'nin güzel bir sahil şerididir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunar. İzmit'in merkezine yakın konumuyla, hem yerlilerin hem de ziyaretçilerin tercih ettiği bir noktadır. Sahil boyunca yürüyüş yapmak, denizde yüzmenin keyfini çıkarma veya sadece güneşin tadını çıkarmak için ideal bir yer. Yeni Hamam, doğa severlerin ve deniz aşığıların buluşma noktası olarak bilinir.
+Yeni Hamam, İzmit, Kocaeli'nin güzel bir sahil şerididir. İzmit'in merkezine yakın konumuyla, hem yerlilerin hem de ziyaretçilerin tercih ettiği bir noktadır. Sahil boyunca yürüyüş yapmak, denizde yüzmenin keyfini çıkarma veya sadece güneşin tadını çıkarmak için ideal bir yer. Yeni Hamam, doğa severlerin ve deniz aşığıların buluşma noktası olarak bilinir.
 
 ## Tarihçe
 

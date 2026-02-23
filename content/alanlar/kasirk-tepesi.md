@@ -28,7 +28,7 @@ wikidata_id: "Q31546534"
 
 # Kasirk Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan Kasirk Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Tepenin eteklerinde yer alan köyler, geleneksel mimari örneklerini görmek isteyenler için önemli bir çekim noktası. Kasirk Tepesi, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+ Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Tepenin eteklerinde yer alan köyler, geleneksel mimari örneklerini görmek isteyenler için önemli bir çekim noktası. Kasirk Tepesi, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31566808"
 
 # Hızır Tepesi
 
-Hızır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Bu tepe, Ankara'nın merkezine oldukça yakın olsa da, şehrin gürültüsünden uzakta, sakin ve huzurlu bir atmosfer sunuyor. Doğal güzellikleri, yürüyüş parkurları ve manzarasıyla ziyaretçilerini cezbeden Hızır Tepesi, aynı zamanda bölgenin ekolojik dengesini korumak adına önemli bir rol oynuyor.
+Hızır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, Ankara'nın merkezine oldukça yakın olsa da, şehrin gürültüsünden uzakta, sakin ve huzurlu bir atmosfer sunuyor. Doğal güzellikleri, yürüyüş parkurları ve manzarasıyla ziyaretçilerini cezbeden Hızır Tepesi, aynı zamanda bölgenin ekolojik dengesini korumak adına önemli bir rol oynuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hızır Tepesi'nin tarihi geçmişi, Ankara'nın tarihine paralel olarak şekill
 
 ## Coğrafya
 
-Hızır Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Bu tepe, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer alıyor ve şehrin kuzeybatı yönünde bulunuyor. Coğrafi olarak, Hızır Tepesi'nin etrafı, çeşitli bitki türleri ve ağaçlarla kaplı geniş bir alanla çevrili. Bu bölge, özellikle ilkbahar ve yaz aylarında, yeşilin tüm tonlarını sunuyor. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimine uygun olarak, kışları soğuk ve karlı, yazları ise sıcak ve kurak geçiyor. Hızır Tepesi, Ankara'nın coğrafi olarak önemli bir noktası olmasının yanı sıra, şehrin su kaynaklarının korunmasına da katkıda bulunuyor. Bu tepe, aynı zamanda, bölgedeki ekosistemi korumak için önemli bir rol oynuyor ve doğal yaşamın çeşitliliğini desteklemektedir. Toplamda, 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor.
+Hızır Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından biri. Bu tepe, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer alıyor ve şehrin kuzeybatı yönünde bulunuyor. Coğrafi olarak, Hızır Tepesi'nin etrafı, çeşitli bitki türleri ve ağaçlarla kaplı geniş bir alanla çevrili. Bu bölge, özellikle ilkbahar ve yaz aylarında, yeşilin tüm tonlarını sunuyor. İklim olarak, İç Anadolu Bölgesi'nin karasal iklimine uygun olarak, kışları soğuk ve karlı, yazları ise sıcak ve kurak geçiyor. Hızır Tepesi, Ankara'nın coğrafi olarak önemli bir noktası olmasının yanı sıra, şehrin su kaynaklarının korunmasına da katkıda bulunuyor. Bu tepe, aynı zamanda, bölgedeki ekosistemi korumak için önemli bir rol oynuyor ve doğal yaşamın çeşitliliğini desteklemektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Hızır Tepesi'ni ziyaret etmek, Ankara'nın doğal güzelliklerini keşfetmek i
 ## İlginç Bilgiler
 
 - Hızır Tepesi, Ankara'nın en önemli doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Hızır Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor.
 - Bu bölge, özellikle ilkbahar ve yaz aylarında, çeşitli bitki türleri ve çiçeklerle kaplı.
 - Hızır Tepesi, Ankara'nın ekolojik dengesini korumak için önemli bir rol oynuyor.

@@ -29,7 +29,7 @@ wikidata_id: "Q134728308"
 
 # Tepecik Tümülüsü
 
-Bandırma/Balıkesir ilçesinde yer alan Tepecik Tümülüsü, Marmara Bölgesi'nin önemli doğal ve tarihi güzelliklerinden biridir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepecik Tümülüsü, ziyaretçilerini tarihin derinliklerine götürmeye ve Marmara Bölgesi'nin eşsiz doğal güzelliğini keşfetmeye davet eder.
+Bandırma/Balıkesir ilçesinde yer alan Tepecik Tümülüsü, Marmara Bölgesi'nin önemli doğal ve tarihi güzelliklerinden biridir. Tepecik Tümülüsü, ziyaretçilerini tarihin derinliklerine götürmeye ve Marmara Bölgesi'nin eşsiz doğal güzelliğini keşfetmeye davet eder.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tepecik Tümülüsü, tarihin derinliklerinde gizli bir hazine gibidir. Bu tarih
 
 ## Coğrafya
 
-Tepecik Tümülüsü, Marmara Bölgesi'nin Bandırma/Balıkesir ilçesinde yer alıyor. Bu alan, coğrafi olarak 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepecik Tümülüsü, Marmara Denizi'nin kıyılarında yer alıyor ve bu bölgenin eşsiz doğal güzelliğini sunuyor. Coğrafi konumu, ziyaretçilerine Marmara Bölgesi'nin çeşitli manzaralarını keşfetme fırsatı sunuyor. Bu alan, Marmara Bölgesi'nin coğrafi güzelliğini yansıtıyor ve ziyaretçilerini bu bölgenin eşsiz doğası ile baş başa bırakıyor. Tepecik Tümülüsü, coğrafi olarak zengin bir bölgede yer alıyor ve ziyaretçilerine Marmara Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunuyor.
+Tepecik Tümülüsü, Marmara Bölgesi'nin Bandırma/Balıkesir ilçesinde yer alıyor. Tepecik Tümülüsü, Marmara Denizi'nin kıyılarında yer alıyor ve bu bölgenin eşsiz doğal güzelliğini sunuyor. Coğrafi konumu, ziyaretçilerine Marmara Bölgesi'nin çeşitli manzaralarını keşfetme fırsatı sunuyor. Bu alan, Marmara Bölgesi'nin coğrafi güzelliğini yansıtıyor ve ziyaretçilerini bu bölgenin eşsiz doğası ile baş başa bırakıyor. Tepecik Tümülüsü, coğrafi olarak zengin bir bölgede yer alıyor ve ziyaretçilerine Marmara Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Tepecik Tümülüsü'ne ziyaretçiler, Marmara Bölgesi'nin Bandırma/Balıkesir
 ## İlginç Bilgiler
 
 - Tepecik Tümülüsü, Marmara Bölgesi'nin önemli tarihi güzelliklerinden biridir.
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Tepecik Tümülüsü, Marmara Denizi'nin kıyılarında yer alıyor.
 - Bu bölgede, çeşitli flora ve fauna yaşamaktadır.
 - Tepecik Tümülüsü, ziyaretçilerine tarihin gizemli sayfalarını açmaya davet ediyor.

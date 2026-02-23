@@ -28,7 +28,7 @@ wikidata_id: "Q32195054"
 
 # Yaruçan Tepe
 
-Yaruçan Tepe, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi yerleşim yeridir. Bu alan, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir genişliğe sahip. Yaruçan Tepe, tarihi ve doğal güzellikleri ile birlikte bir gezi ve turizm merkezine dönüşüyor. Burada, tarihi kalıntılar, doğal güzellikler ve eşsiz manzaralar bir araya geliyor. Yaruçan Tepe, Sivas'ın önemli turizm noktalarından biri olarak karşımıza çıkıyor ve ziyaretçilerini tarihi ve doğal güzelliklere davet ediyor.
+Yaruçan Tepe, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi yerleşim yeridir. Yaruçan Tepe, tarihi ve doğal güzellikleri ile birlikte bir gezi ve turizm merkezine dönüşüyor. Burada, tarihi kalıntılar, doğal güzellikler ve eşsiz manzaralar bir araya geliyor. Yaruçan Tepe, Sivas'ın önemli turizm noktalarından biri olarak karşımıza çıkıyor ve ziyaretçilerini tarihi ve doğal güzelliklere davet ediyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yaruçan Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin
 
 ## Coğrafya
 
-Yaruçan Tepe, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe ve bu bölgenin coğrafi yapısını yansıtıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir genişliğe sahip. Yaruçan Tepe'nin coğrafi konumu, İç Anadolu Bölgesi'nin genel coğrafi yapısını yansıtıyor. Bu bölge, genellikle step ve bozkır gibi i oluşumlarla karakterize ediliyor. Yaruçan Tepe, Sivas'ın coğrafi yapısını ve doğal güzelliklerini yansıtan bir noktaya sahip. Burada, ziyaretçiler, İç Anadolu Bölgesi'nin eşsiz coğrafi güzelliklerini ve doğal oluşumlarını görebiliyorlar. Yaruçan Tepe, Sivas'ın coğrafi zenginliklerini ve doğal güzelliklerini ziyaretçilerine sunuyor.
+Yaruçan Tepe, Sivas'ın İç Anadolu Bölgesi'nde yer alan bir tepe ve bu bölgenin coğrafi yapısını yansıtıyor. Yaruçan Tepe'nin coğrafi konumu, İç Anadolu Bölgesi'nin genel coğrafi yapısını yansıtıyor. Bu bölge, genellikle step ve bozkır gibi i oluşumlarla karakterize ediliyor. Yaruçan Tepe, Sivas'ın coğrafi yapısını ve doğal güzelliklerini yansıtan bir noktaya sahip. Burada, ziyaretçiler, İç Anadolu Bölgesi'nin eşsiz coğrafi güzelliklerini ve doğal oluşumlarını görebiliyorlar. Yaruçan Tepe, Sivas'ın coğrafi zenginliklerini ve doğal güzelliklerini ziyaretçilerine sunuyor.
 
 ## Flora ve Fauna
 

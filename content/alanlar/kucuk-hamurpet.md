@@ -33,7 +33,7 @@ Türkiye'nin doğal güzellikleri arasında yer alan Küçük Hamurpet, ülkemiz
 
 ## Tarihçe
 
-Küçük Hamurpet, Türkiye'nin doğa harikalarından biri olan bir gol. Bu bölge, tarihin sâu sayfalarında gizli bir hazine gibi duruyor. İnsanlık tarihinin önemli uygarlıklarından biri olan Hititlerin ve daha sonra da Roma ve Bizans'ın hükümran olduğu bir coğrafyada yer alıyor. Bu bölgede, insanlık tarihi boyunca, yaylacılık, hayvancılık ve ticaret yolları önemli bir rol oynamış.
+Küçük Hamurpet, Türkiye'nin doğa harikalarından biri olan bir gol. Bu bölge, tarihin derin sayfalarında gizli bir hazine gibi duruyor. İnsanlık tarihinin önemli uygarlıklarından biri olan Hititlerin ve daha sonra da Roma ve Bizans'ın hükümran olduğu bir coğrafyada yer alıyor. Bu bölgede, insanlık tarihi boyunca, yaylacılık, hayvancılık ve ticaret yolları önemli bir rol oynamış.
 
 Doğal güzellikleri ve stratejik konumuyla, bu tür alanlar Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçasını oluşturuyor. İnsanların bu doğal alanlarla kurdukları ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut taşıyor. Yaylacılık ve hayvancılık faaliyetleri, bu bölgede yaşayan insanların yaşam tarzını ve geleneklerini şekillendirmiş.
 

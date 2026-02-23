@@ -32,9 +32,9 @@ Balıkesir'in yeşil örtüsünün içinde saklı bir hazine olan Kapı Dağı, 
 
 ## Tarihçe
 
-Balıkesir'in yemyeşil dağlarından biri olan Kapı Dağı, binlerce yıllık bir tarihinsilentisi içinde uyuyor. Bu bölge, tarihin sâu sayfalarında önemli uygarlıkların izlerini taşıyor. M.Ö. 8. yüzyılda Lidya Krallığı'nın, ardından da Roma ve Bizans İmparatorluğu'nun hakimiyetine giren Balıkesir, her dönemde stratejik bir öneme sahip olmuş. 
+Balıkesir'in yemyeşil dağlarından biri olan Kapı Dağı, binlerce yıllık bir tarihinsilentisi içinde uyuyor. Bu bölge, tarihin derin sayfalarında önemli uygarlıkların izlerini taşıyor. M.Ö. 8. yüzyılda Lidya Krallığı'nın, ardından da Roma ve Bizans İmparatorluğu'nun hakimiyetine giren Balıkesir, her dönemde stratejik bir öneme sahip olmuş.
 
-Kapı Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Bu alanlar, sadece doğal güzellikleri ile değil, aynı zamanda insanların yaşamlarını sürdürdükleri, yaylacılık ve hayvancılık yaptıkları, ticaret yolları üzerinde bulundukları için dehistorik bir önem taşıyor. İnsanlar bu dağları, yalnızca doğal kaynaklarını kullanmak için değil, aynı zamanda dini ve kültürel amaçlar için de ziyaret etmişler. 
+Kapı Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Bu alanlar, sadece doğal güzellikleri ile değil, aynı zamanda insanların yaşamlarını sürdürdükleri, yaylacılık ve hayvancılık yaptıkları, ticaret yolları üzerinde bulundukları için dehistorik bir önem taşıyor. İnsanlar bu dağları, yalnızca doğal kaynaklarını kullanmak için değil, aynı zamanda dini ve kültürel amaçlar için de ziyaret etmişler.
 
 Bu bölgenin tarihsel zenginliği, Kapı Dağı'nın çevresindeki kaleler, antik şehirler ve tarihi yol güzergahlarından anlaşılabilir. İnsanların bu doğa harikası ile kurdukları bağ, sadece günümüze değil, geçmişin derinliklerine de uzanıyor. Her yıl Kapı Dağı'nı ziyaret edenler, tarihin depthsında gizlenen sırları keşfetme fırsatı buluyorlar.
 

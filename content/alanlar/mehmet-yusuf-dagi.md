@@ -48,7 +48,7 @@ Mehmet Yusuf Dağı, çevresindeki komşu alanlar ve su kaynakları ile önemli 
 
 ## Flora ve Fauna
 
-Mehmet Yusuf Dağı, Şırnak'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosistemi, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna zenginliğine sahiptir. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır, step ve ova ekolojisi karakterini gösterir. 
+Mehmet Yusuf Dağı, Şırnak'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosistemi, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna zenginliğine sahiptir. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır, step ve ova ekolojisi karakterini gösterir.
 
 Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlerle birlikte, bu bitkiler farklı renkler ve görünümler sergiler. Dağın yüksek kesimlerinde, alpin flora hakimdir ve bu bölgede özel bitkiler yetişir.
 

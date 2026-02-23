@@ -23,7 +23,7 @@ wikidata_id: "Q108228400"
 
 # Sanlıurfa-Birecik Fırat
 
-Sanlıurfa-Birecik Fırat milli parkı, Güneydoğu Anadolu Bölgesi'nde yer alan bir doğal güzelliktir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik bölgelerinden biridir. Bu milli park, zengin flora ve faunaya ev sahipliği yapmaktadır. Bölge, ziyaretçilerini doğanın güzelliği ve çeşitliliği ile karşılar. Doğal güzellikleri ve biyolojik çeşitliliği ile dikkat çeken bu park, aynı zamanda turizm açısından da önemli bir destinasyondur.
+Sanlıurfa-Birecik Fırat milli parkı, Güneydoğu Anadolu Bölgesi'nde yer alan bir doğal güzelliktir. Bu milli park, zengin flora ve faunaya ev sahipliği yapmaktadır. Bölge, ziyaretçilerini doğanın güzelliği ve çeşitliliği ile karşılar. Doğal güzellikleri ve biyolojik çeşitliliği ile dikkat çeken bu park, aynı zamanda turizm açısından da önemli bir destinasyondur.
 
 ## Tarihçe
 

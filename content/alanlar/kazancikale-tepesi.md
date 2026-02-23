@@ -28,7 +28,7 @@ wikidata_id: "Q31388373"
 
 # Kazancıkale Tepesi
 
-Kazancıkale Tepesi, Erzurum'un tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerini doğanın kucağına davet ediyor. Erzurum'un coğrafi yapısını ve tarihi geçmişi anlamak için ideal bir gözlem noktası olan Kazancıkale Tepesi, aynı zamanda doğa severlerin keyif alacağı bir bölge.
+Kazancıkale Tepesi, Erzurum'un tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Erzurum'un coğrafi yapısını ve tarihi geçmişi anlamak için ideal bir gözlem noktası olan Kazancıkale Tepesi, aynı zamanda doğa severlerin keyif alacağı bir bölge.
 
 ## Tarihçe
 

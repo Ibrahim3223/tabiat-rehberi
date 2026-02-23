@@ -28,7 +28,7 @@ wikidata_id: "Q31387921"
 
 # Oyrak Tepesi
 
-Karadeniz Bölgesi'nin güzide illerinden Giresun'da yer alan Oyrak Tepesi, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplıyor. Bu bölge, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Oyrak Tepesi, ziyaretçilerini yeşilin her tonunu sunan ormanları, çeşitli bitki türleri ve zengin fauna ile karşılıyor. Bölge, aynı zamanda tarihi geçmişiyle de ilgi çekiyor. Oyrak Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve bu nedenle önemli bir kültürel mirasa sahip.
+ Bu bölge, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Oyrak Tepesi, ziyaretçilerini yeşilin her tonunu sunan ormanları, çeşitli bitki türleri ve zengin fauna ile karşılıyor. Bölge, aynı zamanda tarihi geçmişiyle de ilgi çekiyor. Oyrak Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve bu nedenle önemli bir kültürel mirasa sahip.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Oyrak Tepesi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve b
 
 ## Coğrafya
 
-Oyrak Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Bölge, yeşilin her tonunu sunan ormanları, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor. Oyrak Tepesi, 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bölge, coğrafi olarak zengin bir yapıya sahip ve bu nedenle birçok farklı ekosistemi barındırıyor. Oyrak Tepesi, aynı zamanda Karadeniz Bölgesi'nin iklimini yansıtan bir bölge. Bölge, nemli ve ılıman bir iklimi sahip ve bu nedenle ziyaretçileri, yılın her döneminde ziyaret edilebilir.
+Oyrak Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölge. Bölge, yeşilin her tonunu sunan ormanları, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor. Bölge, coğrafi olarak zengin bir yapıya sahip ve bu nedenle birçok farklı ekosistemi barındırıyor. Oyrak Tepesi, aynı zamanda Karadeniz Bölgesi'nin iklimini yansıtan bir bölge. Bölge, nemli ve ılıman bir iklimi sahip ve bu nedenle ziyaretçileri, yılın her döneminde ziyaret edilebilir.
 
 ## Flora ve Fauna
 

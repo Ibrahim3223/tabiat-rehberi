@@ -46,10 +46,10 @@ Jeolojik yapı itibariyle incelendiğinde, Ademkuran Dağı'nın coğrafi özell
 
 ## Flora ve Fauna
 
-Ademkuran Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlkbaharın gelmesiyle birlikte, dağ eteklerinde çeşitli çiçekler açar ve alpin çayırlar renklenir. Sonbaharda ise, göçmen kuşlar dağları bir geçiş noktası olarak kullanır ve gökyüzü renkli bir şölene dönüşür. 
+Ademkuran Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlkbaharın gelmesiyle birlikte, dağ eteklerinde çeşitli çiçekler açar ve alpin çayırlar renklenir. Sonbaharda ise, göçmen kuşlar dağları bir geçiş noktası olarak kullanır ve gökyüzü renkli bir şölene dönüşür.
 
-Dağın yükseklik zonlarına göre değişen bitki örtüsü, alpin flora örneklerini sunar. Dağ keçileri ve yaban keçileri, bu zorlu coğrafyada yaşamını sürdüren memelilerdir. Kuşlar ise, dağların yüksekliklerinde yuvalarını kurar ve göç yolu üzerinde önemli bir durak noktası oluşturur. 
+Dağın yükseklik zonlarına göre değişen bitki örtüsü, alpin flora örneklerini sunar. Dağ keçileri ve yaban keçileri, bu zorlu coğrafyada yaşamını sürdüren memelilerdir. Kuşlar ise, dağların yüksekliklerinde yuvalarını kurar ve göç yolu üzerinde önemli bir durak noktası oluşturur.
 
 Ademkuran Dağı, endemik türler ve alpin flora nedeniyle ekolojik olarak önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak açısından büyük önem taşır.
 

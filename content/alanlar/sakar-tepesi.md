@@ -28,7 +28,7 @@ wikidata_id: "Q31507968"
 
 # Sakar Tepesi
 
-Sakar Tepesi, Marmara Bölgesi'nin en yüksek noktası olarak bilinir ve 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, aynı zamanda Balıkesir'in en önemli doğal güzelliklerinden biridir. Sakar Tepesi, ziyaretçilerini doğanın güzelliği ve serinliği ile karşılar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Sakar Tepesi, hem doğa severler hem de turistler için önemli bir destinasyondur. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumu ile Sakar Tepesi, ziyaretçilerini bekleyen bir hazine gibidir.
+ Bu tepe, aynı zamanda Balıkesir'in en önemli doğal güzelliklerinden biridir. Sakar Tepesi, ziyaretçilerini doğanın güzelliği ve serinliği ile karşılar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Sakar Tepesi, hem doğa severler hem de turistler için önemli bir destinasyondur. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumu ile Sakar Tepesi, ziyaretçilerini bekleyen bir hazine gibidir.
 
 ## Tarihçe
 

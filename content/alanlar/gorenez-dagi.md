@@ -50,9 +50,9 @@ Mevsimsel açıdan bakıldığında, Görenez Dağı, Ege Bölgesi'nin karakteri
 
 ## Flora ve Fauna
 
-Görenez Dağı, Manisa'nın zeytinliklerle çevrili çam ormanlarının arasında yükselen bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Görenez Dağı, Manisa'nın zeytinliklerle çevrili çam ormanlarının arasında yükselen bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümüne baktığımızda, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Çam ağaçlarının arasında zeytinliklerle iç içe geçmiş bir manzara ortaya çıkıyor. Mevsimsel değişimlerle birlikte, sonbaharın gelmesiyle birlikte dağlar göçmen kuşlarla dolu oluyor. 
+Bitki Örtüsü bölümüne baktığımızda, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Çam ağaçlarının arasında zeytinliklerle iç içe geçmiş bir manzara ortaya çıkıyor. Mevsimsel değişimlerle birlikte, sonbaharın gelmesiyle birlikte dağlar göçmen kuşlarla dolu oluyor.
 
 Yaban Hayatı bölümünde ise, dağların yükseklik zonlarına göre değişen bir fauna çeşitliliği göze çarpıyor. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin bir parçası olarak yaşamını sürdürüyor. Çam ormanları ve zeytinliklerle beslenen birçok canlı, bu dağların yaşam kaynağı olarak görev yapıyor.
 

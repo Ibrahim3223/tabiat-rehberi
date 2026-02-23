@@ -28,11 +28,11 @@ wikidata_id: "Q31389654"
 
 # Sivrice Tepesi
 
-Sivrice Tepesi, Kastamonu'nun en yüksek noktalarından biri olarak bilinir. Bu tepe, yüksek bir konumda yer alır ve şehrin panoramik manzarasını seyretmek için ideal bir noktadır. Sivrice Tepesi, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Bu tepe, Kastamonu'nun doğal güzellikleri arasında önemli bir yer tutar ve birçok ziyaretçi tarafından tercih edilir.
+Sivrice Tepesi, Kastamonu'nun en yüksek noktalarından biri olarak bilinir. Bu tepe, yüksek bir konumda yer alır ve şehrin panoramik manzarasını seyretmek için ideal bir noktadır. Bu tepe, Kastamonu'nun doğal güzellikleri arasında önemli bir yer tutar ve birçok ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
-Sivrice Tepesi'nin tarihi geçmişi hakkında net bilgiler bulunmamaktadır. Ancak, bu bölge yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara farklı izler bırakmıştır. Sivrice Tepesi, Kastamonu'nun históri ve kültürel zenginliklerini yansıtması bakımından önemli bir noktadır. Bu tepe, birçok efsaneye ve rivayete konu olmuştur ve ziyaretçileri tarafından merakla karşılanır.
+Sivrice Tepesi'nin tarihi geçmişi hakkında net bilgiler bulunmamaktadır. Ancak, bu bölge yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara farklı izler bırakmıştır. Sivrice Tepesi, Kastamonu'nun tarihi ve kültürel zenginliklerini yansıtması bakımından önemli bir noktadır. Bu tepe, birçok efsaneye ve rivayete konu olmuştur ve ziyaretçileri tarafından merakla karşılanır.
 
 ## Coğrafya
 
@@ -50,6 +50,6 @@ Sivrice Tepesi'ne ziyaretçiler, Kastamonu merkezinden uzun bir mesafelik bir me
 
 - Sivrice Tepesi, Kastamonu'nun en yüksek noktalarından biri olarak bilinir.
 - Bu tepe, yüksek bir konumda yer alır.
-- Sivrice Tepesi, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir.
+
 - Bu tepe, Kastamonu'nun doğal güzellikleri arasında önemli bir yer tutar.
 - Sivrice Tepesi, birçok ziyaretçi tarafından tercih edilir ve ziyaretçileri tarafından beğeni toplar.

@@ -1,7 +1,7 @@
 ---
 title: "Ahi İzzettin Türbesi"
 date: "2026-01-10T07:41:01.505Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391226"
 
 # Ahi İzzettin Türbesi
 
-Ahi İzzettin Türbesi, Kütahya'nın merkezinde yer alan ve tarihin derin izlerini taşıyan bir kültürel miras. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde tarihi bir atmosfer sunuyor. Bu önemli nokta, ziyaretçilere hem tarihin gizemini hem de bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Ahi İzzettin Türbesi, Kütahya'nın tarihini ve kültürünü anlamak için önemli bir durak.
+Ahi İzzettin Türbesi, Kütahya'nın merkezinde yer alan ve tarihin derin izlerini taşıyan bir kültürel miras. Bu önemli nokta, ziyaretçilere hem tarihin gizemini hem de bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Ahi İzzettin Türbesi, Kütahya'nın tarihini ve kültürünü anlamak için önemli bir durak.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ahi İzzettin Türbesi, yüzyıllar boyunca Kütahya'nın önemli dini ve kült�
 
 ## Coğrafya
 
-Ahi İzzettin Türbesi, Kütahya'nın coğrafi olarak önemli bir bölgesinde yer alıyor. Türbe, şehrin merkezine yakın bir konumda ve çevresi tarihi yapılar ve doğal güzelliklerle dolu. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde tarihi bir atmosfer sunuyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim ayrı bir güzellik sunuyor. Kütahya'nın coğrafyası, türbenin surroundingsını zenginleştiren çeşitli bitki türleri ve fauna ile dolu. Ahi İzzettin Türbesi, Kütahya'nın coğrafi güzelliklerini ve tarihi mirasını bir araya getiren önemli bir nokta.
+Ahi İzzettin Türbesi, Kütahya'nın coğrafi olarak önemli bir bölgesinde yer alıyor. Türbe, şehrin merkezine yakın bir konumda ve çevresi tarihi yapılar ve doğal güzelliklerle dolu. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim ayrı bir güzellik sunuyor. Kütahya'nın coğrafyası, türbenin surroundingsını zenginleştiren çeşitli bitki türleri ve fauna ile dolu. Ahi İzzettin Türbesi, Kütahya'nın coğrafi güzelliklerini ve tarihi mirasını bir araya getiren önemli bir nokta.
 
 ## Flora ve Fauna
 

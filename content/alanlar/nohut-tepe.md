@@ -28,7 +28,7 @@ wikidata_id: "Q31558612"
 
 # Nohut Tepe
 
-Ankara'nın kalbinde, İç Anadolu Bölgesi'nin geniş düzlükleri arasında yer alan Nohut Tepe, yaklaşık 140 hektarlık bir alanı kaplayan, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Nohut Tepe, hem Ankara'nın tarihi geçmişini hem de bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Ankara'nın kalbinde, İç Anadolu Bölgesi'nin geniş düzlükleri arasında yer alan Nohut Tepe, yaklaşık 140 hektarlık bir alanı kaplayan, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Nohut Tepe, hem Ankara'nın tarihi geçmişini hem de bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

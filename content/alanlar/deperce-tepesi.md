@@ -28,7 +28,7 @@ wikidata_id: "Q31390488"
 
 # Deperce Tepesi
 
-Deperce Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan bir yeşil alan olarak düşünülebilir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Deperce Tepesi, Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için bir sığınak olarak hizmet vermektedir. Deperce Tepesi, Konya'nın turizm potansiyelini artırmaya yardımcı olan önemli bir doğal güzelliktir.
+Deperce Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan bir yeşil alan olarak düşünülebilir. Deperce Tepesi, Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için bir sığınak olarak hizmet vermektedir. Deperce Tepesi, Konya'nın turizm potansiyelini artırmaya yardımcı olan önemli bir doğal güzelliktir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Mehmet Alibey Hamamı"
 date: "2026-01-09T22:25:48.835Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"

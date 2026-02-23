@@ -28,7 +28,7 @@ wikidata_id: "Q31391255"
 
 # Pistehale Tepesi
 
-Pistehale Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Pistehale Tepesi'nin eteklerinde kurulan köyler, bu bölgeye gelen ziyaretçilere sıcak bir misafirperverlik sunuyor. Tepenin zirvesine tırmanırken, manzaranın güzelliği ve temiz hava, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Pistehale Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. Pistehale Tepesi'nin eteklerinde kurulan köyler, bu bölgeye gelen ziyaretçilere sıcak bir misafirperverlik sunuyor. Tepenin zirvesine tırmanırken, manzaranın güzelliği ve temiz hava, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

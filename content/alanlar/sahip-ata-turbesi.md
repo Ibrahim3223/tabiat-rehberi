@@ -1,7 +1,7 @@
 ---
 title: "Sahip Ata Türbesi"
 date: "2026-01-10T06:22:49.805Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391828"
 
 # Sahip Ata Türbesi
 
-Meram'da yer alan Sahip Ata Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil eder. Bu geniş arazi, hem tarihi hem de doğal güzellikleriyle dikkat çeker. Sahip Ata Türbesi, Meram'ın kalbinde yer alır ve bölgenin önemli tarihi ve kültürel noktalarından biridir. Türbe, çevresindeki yeşillikler ve tarihi yapılarıyla birlikte, ziyaretçilere huzurlu bir atmosfer sunar.
+Meram'da yer alan Sahip Ata Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu geniş arazi, hem tarihi hem de doğal güzellikleriyle dikkat çeker. Sahip Ata Türbesi, Meram'ın kalbinde yer alır ve bölgenin önemli tarihi ve kültürel noktalarından biridir. Türbe, çevresindeki yeşillikler ve tarihi yapılarıyla birlikte, ziyaretçilere huzurlu bir atmosfer sunar.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Sahip Ata Türbesi'ni ziyaret etmek, Meram'ın tarihi ve doğal güzelliklerini 
 ## İlginç Bilgiler
 
 - Sahip Ata Türbesi, Meram'ın en önemli tarihi noktalarından biridir.
-- Türbenin etrafındaki yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir arazidir.
+
 - Sahip Ata, Meram'ın kültürel mirasının önemli bir parçasıdır.
 - Türbe, çeşitli zaman dilimlerinde restore edilmiştir.
 - Sahip Ata Türbesi, yılın her dönemi ziyaret edilebilir.

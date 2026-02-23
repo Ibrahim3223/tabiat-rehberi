@@ -28,7 +28,7 @@ wikidata_id: "Q31385386"
 
 # Ulusivri Tepe
 
-Ulusivri Tepe, Konya'nın merkezi bir noktasında yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir tepe. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayacak bir konumda. Konya'nın coğrafi yapısı düşünüldüğünde, Ulusivri Tepe'nin bu konumu oldukça önemli. Ziyaretçiler, tepeye çıktıklarında Konya'nın geniş ve verimli ovalarını gözler önüne seren bir manzara ile karşılaşacaklar. Bu tepe, aynı zamanda Konya'nın tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir merkez.
+Ulusivri Tepe, Konya'nın merkezi bir noktasında yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir tepe. Konya'nın coğrafi yapısı düşünüldüğünde, Ulusivri Tepe'nin bu konumu oldukça önemli. Ziyaretçiler, tepeye çıktıklarında Konya'nın geniş ve verimli ovalarını gözler önüne seren bir manzara ile karşılaşacaklar. Bu tepe, aynı zamanda Konya'nın tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir merkez.
 
 ## Tarihçe
 

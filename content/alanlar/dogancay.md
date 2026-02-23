@@ -23,7 +23,7 @@ wikidata_id: "Q108228413"
 
 # Doğançay
 
-Doğançay Milli Parkı, İç Anadolu Bölgesi'nin güzide noktalarından biridir. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu muhteşem doğa alanını ziyaret ettiğinizde, kendinizi yaban hayatının içinde bulacaksınız. Doğançay'ın sunduğu güzel manzaralar, ziyaretçilere doğanın güzelliğini göstermektedir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin dikkatini çekmektedir. Doğançay Milli Parkı, hem doğa severler hem de turistler için önemli bir destinasyondur.
+Doğançay Milli Parkı, İç Anadolu Bölgesi'nin güzide noktalarından biridir. Bu muhteşem doğa alanını ziyaret ettiğinizde, kendinizi yaban hayatının içinde bulacaksınız. Doğançay'ın sunduğu güzel manzaralar, ziyaretçilere doğanın güzelliğini göstermektedir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin dikkatini çekmektedir. Doğançay Milli Parkı, hem doğa severler hem de turistler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Doğançay Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Doğançay Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. Burada, dağlar, ovalar ve akarsular, doğal güzellikleri oluşturur. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını şekillendirmiştir. Doğançay Milli Parkı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösterir. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlar.
+Doğançay Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. Burada, dağlar, ovalar ve akarsular, doğal güzellikleri oluşturur. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını şekillendirmiştir. Doğançay Milli Parkı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini gösterir. Parkın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlar.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728277"
 
 # Ankara Frig Tümülüsü 13, Beştepe
 
-Ankara Frig Tümülüsü 13, Beştepe, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Yenimahalle ilçesinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu tarihi ve doğal güzelliklerin birleştiği nokta, Ankara'nın önemli turizm merkezlerinden biri olarak dikkat çekiyor. Ankara Frig Tümülüsü 13, Beştepe, ziyaretçilerine hem tarihin sâu sayfalarını keşfetme fırsatı sunuyor hem de doğal güzelliklerin keyfini çıkarmaya imkân tanıyor.
+Ankara Frig Tümülüsü 13, Beştepe, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Yenimahalle ilçesinde yer alıyor. Bu tarihi ve doğal güzelliklerin birleştiği nokta, Ankara'nın önemli turizm merkezlerinden biri olarak dikkat çekiyor. Ankara Frig Tümülüsü 13, Beştepe, ziyaretçilerine hem tarihin derin sayfalarını keşfetme fırsatı sunuyor hem de doğal güzelliklerin keyfini çıkarmaya imkân tanıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 13, Beştepe, tarihi geçmişi ile dikkat çekiyor. Bu 
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 13, Beştepe, coğrafi konumu itibariyle oldukça önemli bir noktada yer alıyor. İç Anadolu Bölgesi'nin merkezi olan Ankara'nın Yenimahalle ilçesinde bulunan bu bölge, 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bölgenin coğrafi yapısı, ziyaretçilere hem tarihi eserleri keşfetme fırsatı sunuyor hem de doğal güzelliklerin keyfini çıkarmaya imkân tanıyor. Ankara Frig Tümülüsü 13, Beştepe, aynı zamanda çevresindeki diğer tarihi ve doğal güzelliklere de yakın mesafede bulunuyor. Bu nedenle, Ankara'yı keşfetmek isteyenler için, bu bölge önemli bir başlangıç noktası olarak görülüyor.
+Ankara Frig Tümülüsü 13, Beştepe, coğrafi konumu itibariyle oldukça önemli bir noktada yer alıyor. İç Anadolu Bölgesi'nin merkezi olan Ankara'nın Yenimahalle ilçesinde bulunan bu bölge, 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bölgenin coğrafi yapısı, ziyaretçilere hem tarihi eserleri keşfetme fırsatı sunuyor hem de doğal güzelliklerin keyfini çıkarmaya imkân tanıyor. Ankara Frig Tümülüsü 13, Beştepe, aynı zamanda çevresindeki diğer tarihi ve doğal güzelliklere de yakın mesafede bulunuyor. Bu nedenle, Ankara'yı keşfetmek isteyenler için, bu bölge önemli bir başlangıç noktası olarak görülüyor.
 
 ## Flora ve Fauna
 

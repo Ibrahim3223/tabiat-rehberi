@@ -1,7 +1,7 @@
 ---
 title: "Eski Yeni Hamam"
 date: "2026-01-09T22:48:39.804Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738613"
 
 # Eski Yeni Hamam
 
-Eski Yeni Hamam, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plajdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Eski Yeni Hamam, doğal güzelliği ve tarihi geçmişiyle dikkat çeker. Konumu itibariyle, şehrin gürültüsünden uzak, sakin bir atmosfer sunar. Eski Yeni Hamam, deniz severlerin ve doğaşığıların buluşma noktasıdır. Burada, kumsalın keyfini çıkarabilir, denizde serinleyebilir veya çevreyi keşfe çıkabilirsiniz. Eski Yeni Hamam, ziyaretçilerine hem dinlenme hem de keşif imkanı sunar.
+Eski Yeni Hamam, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plajdır. Eski Yeni Hamam, doğal güzelliği ve tarihi geçmişiyle dikkat çeker. Konumu itibariyle, şehrin gürültüsünden uzak, sakin bir atmosfer sunar. Eski Yeni Hamam, deniz severlerin ve doğaşığıların buluşma noktasıdır. Burada, kumsalın keyfini çıkarabilir, denizde serinleyebilir veya çevreyi keşfe çıkabilirsiniz. Eski Yeni Hamam, ziyaretçilerine hem dinlenme hem de keşif imkanı sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Eski Yeni Hamam'ın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge,
 
 ## Coğrafya
 
-Eski Yeni Hamam, coğrafi konumu itibariyle, Marmara Bölgesi'nin en güzel noktalarından biridir. Bu bölge, deniz kenarında yer alır ve çevresi yeşilliklerle kaplıdır. Eski Yeni Hamam, yaklaşık 140 hektarlık bir alanı kaplar ve bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Eski Yeni Hamam'ın coğrafyası, ziyaretçilerine geniş alanlar sunar. Burada, kumsalın keyfini çıkarabilir, denizde serinleyebilir veya çevreyi keşfe çıkabilirsiniz. Eski Yeni Hamam'ın iklimi, Marmara Bölgesi'nin tipik iklimine benzer. Yaz ayları sıcak ve güneşli, kış ayları ise serin ve yağışlı geçer. Eski Yeni Hamam, yılın dört mevsimi ziyaret edilebilir, ancak en çok tercih edilen zaman, yaz aylarıdır. Eski Yeni Hamam, doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla ziyaretçilerini bekliyor.
+Eski Yeni Hamam, coğrafi konumu itibariyle, Marmara Bölgesi'nin en güzel noktalarından biridir. Bu bölge, deniz kenarında yer alır ve çevresi yeşilliklerle kaplıdır. Eski Yeni Hamam'ın coğrafyası, ziyaretçilerine geniş alanlar sunar. Burada, kumsalın keyfini çıkarabilir, denizde serinleyebilir veya çevreyi keşfe çıkabilirsiniz. Eski Yeni Hamam'ın iklimi, Marmara Bölgesi'nin tipik iklimine benzer. Yaz ayları sıcak ve güneşli, kış ayları ise serin ve yağışlı geçer. Eski Yeni Hamam, yılın dört mevsimi ziyaret edilebilir, ancak en çok tercih edilen zaman, yaz aylarıdır. Eski Yeni Hamam, doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

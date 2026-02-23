@@ -29,7 +29,7 @@ wikidata_id: "Q131738532"
 
 # Keramet Ilıcası
 
-Keramet Ilıcası, Orhangazi, Bursa'da yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle zenginleştirilmiştir. Keramet Ilıcası, hem yerel halk hem de turistler için bir çekim noktasıdır ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. İlçe merkezine uzun bir mesafe uzaklıkta olan Keramet Ilıcası, ulaşım açısından da rahat bir konumdadır.
+Keramet Ilıcası, Orhangazi, Bursa'da yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir. Keramet Ilıcası, hem yerel halk hem de turistler için bir çekim noktasıdır ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. İlçe merkezine uzun bir mesafe uzaklıkta olan Keramet Ilıcası, ulaşım açısından da rahat bir konumdadır.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Keramet Ilıcası'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Keramet Ilıcası, Orhangazi, Bursa'da yer alan ve Marmara Bölgesi'nin önemli coğrafi özelliklerinden biridir. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Keramet Ilıcası, 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup çeşitli bitki türleri ile zenginleştirilmiştir. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve bu iklim, Keramet Ilıcası'nın coğrafi yapısını etkiler. Keramet Ilıcası, ilçe merkezine uzun bir mesafe uzaklıkta olup ulaşım açısından rahat bir konumdadır. Bu bölge, hem yerel halk hem de turistler için bir çekim noktasıdır ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
+Keramet Ilıcası, Orhangazi, Bursa'da yer alan ve Marmara Bölgesi'nin önemli coğrafi özelliklerinden biridir. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve bu iklim, Keramet Ilıcası'nın coğrafi yapısını etkiler. Keramet Ilıcası, ilçe merkezine uzun bir mesafe uzaklıkta olup ulaşım açısından rahat bir konumdadır. Bu bölge, hem yerel halk hem de turistler için bir çekim noktasıdır ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
 
 ## Flora ve Fauna
 
-Keramet Ilıcası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu bölgenin flora ve fauna yapısı, Marmara Bölgesi'nin genel flora ve fauna yapısına benzer. Keramet Ilıcası, 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup çeşitli bitki türleri ile zenginleştirilmiştir. Bu bölgede, mevsimsel değişimler, canlılar ve ekoloji hakkında bilgi verme mümkündür. Keramet Ilıcası, yüzyıllar boyunca çeşitli bitki ve hayvan türlerine ev sahipliği yapmıştır ve bu bölge, doğa severler için bir cennet olarak kabul edilir.
+Keramet Ilıcası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu bölgenin flora ve fauna yapısı, Marmara Bölgesi'nin genel flora ve fauna yapısına benzer. Bu bölgede, mevsimsel değişimler, canlılar ve ekoloji hakkında bilgi verme mümkündür. Keramet Ilıcası, yüzyıllar boyunca çeşitli bitki ve hayvan türlerine ev sahipliği yapmıştır ve bu bölge, doğa severler için bir cennet olarak kabul edilir.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Keramet Ilıcası, hem yerel halk hem de turistler için bir çekim noktasıdır
 ## İlginç Bilgiler
 
 - Keramet Ilıcası, 140 hektarlık bir alanı kaplar.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde olup çeşitli bitki türleri ile zenginleştirilmiştir.
+
 - Keramet Ilıcası, ilçe merkezine uzun bir mesafe uzaklıkta olup ulaşım açısından rahat bir konumdadır.
 - Bu bölge, hem yerel halk hem de turistler için bir çekim noktasıdır ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
 - Keramet Ilıcası, yılın her dönemi ziyaret edilebilir.

@@ -50,9 +50,9 @@ Jeolojik açıdan bakıldığında, Huri Burnu'nun fiziksel yapısı oldukça il
 
 ## Flora ve Fauna
 
-Huri Burnu, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir kuş cenneti. İlbahar aylarında, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Alpin çayırlar, çeşitli yüksek dağ bitkilerine ev sahipliği yapar. Sonbaharda, bu bölgeyi göçmen kuşlar mesken tutar. 
+Huri Burnu, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir kuş cenneti. İlbahar aylarında, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Alpin çayırlar, çeşitli yüksek dağ bitkilerine ev sahipliği yapar. Sonbaharda, bu bölgeyi göçmen kuşlar mesken tutar.
 
-Yaban hayatı da bir o kadar zengin. Memeliler, çayırlarda ve dağlık alanlarda yaşar. Kuşlar, çoğunlukla göçmen türlerden oluşur ve bölgenin yüksek dağ ekolojisine adapte olmuştur. Sürüngenler de bu ekosistemin bir parçasıdır. 
+Yaban hayatı da bir o kadar zengin. Memeliler, çayırlarda ve dağlık alanlarda yaşar. Kuşlar, çoğunlukla göçmen türlerden oluşur ve bölgenin yüksek dağ ekolojisine adapte olmuştur. Sürüngenler de bu ekosistemin bir parçasıdır.
 
 Huri Burnu'nun ekolojik değeri, yüksek dağ ekolojisindeki endemik türlerin varlığından kaynaklanır. Bu bölge, birçok canlı türünün yaşam alanı ve göç yolu olarak önemlidir. Koruma durumu, bu özel ekosistemin gelecek nesiller için korunmasını sağlamak için büyük önem taşır.
 

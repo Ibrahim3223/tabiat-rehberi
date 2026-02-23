@@ -52,7 +52,7 @@ Karbasan Dağı, Ankara'nın step bitki örtüsü ve bozkır ekosistemine ev sah
 
 Yaban hayatı açısından zengin olan Karbasan Dağı, çeşitli memeliler, kuşlar ve sürüngenlerin yaşam alanını oluşturur. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri gibi türler bulunurken, eteklerinde ve vadilerinde çeşitli küçük memeliler ve sürüngenler yaşamaktadır. Sonbaharın gelmesiyle birlikte, göçmen kuşlar dağ üzerinden geçer ve bu bölgede konaklar.
 
-Karbasan Dağı, ekolojik olarak önemli bir bölgedir. Bu dağ, çeşitli canlıların yaşam alanını oluşturur ve ekosistemin dengesini sağlar. Ancak, insan faaliyetleri ve iklim değişikliği gibi faktörler, bu bölgenin ekolojik dengesini tehdit etmektedir. Bu nedenle, Karbasan Dağı'nın korunması ve bảo tồn edilmesi büyük önem taşımaktadır.
+Karbasan Dağı, ekolojik olarak önemli bir bölgedir. Bu dağ, çeşitli canlıların yaşam alanını oluşturur ve ekosistemin dengesini sağlar. Ancak, insan faaliyetleri ve iklim değişikliği gibi faktörler, bu bölgenin ekolojik dengesini tehdit etmektedir. Bu nedenle, Karbasan Dağı'nın korunması ve koruma tồn edilmesi büyük önem taşımaktadır.
 
 ## Ziyaret Bilgileri
 

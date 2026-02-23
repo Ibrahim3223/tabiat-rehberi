@@ -22,7 +22,7 @@ wikidata_id: "Q108228222"
 
 # Konya-Alanya-Söğüt-Karacam
 
-Konya-Alanya-Söğüt-Karacam milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu geniş alanda çeşitli bitki türleri ve zengin fauna encontruluyor. Milli parkın konumu, Konya'nın merkeziunda yer alıyor ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet veriyor. Parkın etrafında yer alan tarihi yapılar ve doğal güzellikler, ziyaretçilere hem gezi hem de tarih hakkında bilgi edinme fırsatı sunuyor.
+ Bu geniş alanda çeşitli bitki türleri ve zengin fauna encontruluyor. Milli parkın konumu, Konya'nın merkeziunda yer alıyor ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet veriyor. Parkın etrafında yer alan tarihi yapılar ve doğal güzellikler, ziyaretçilere hem gezi hem de tarih hakkında bilgi edinme fırsatı sunuyor.
 
 ## Tarihçe
 

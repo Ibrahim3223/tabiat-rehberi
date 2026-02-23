@@ -1,7 +1,7 @@
 ---
 title: "Üç Kızlar Türbesi"
 date: "2026-01-10T07:50:07.901Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çankırı"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391219"
 
 # Üç Kızlar Türbesi
 
-Üç Kızlar Türbesi, Çankırı ilinin merkezinde yer alan bir tarihi ve doğal güzellik noktasıdır. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve Çankırı'nın önemli turizm merkezlerinden biridir. Burada, hem tarihi hem de doğal güzellikleri bir arada deneyimleme mümkündür. Ülkemizin zengin tarihi geçmişi ve doğal güzelliği, bu türbeyi özel kılar.
+Üç Kızlar Türbesi, Çankırı ilinin merkezinde yer alan bir tarihi ve doğal güzellik noktasıdır. Burada, hem tarihi hem de doğal güzellikleri bir arada deneyimleme mümkündür. Ülkemizin zengin tarihi geçmişi ve doğal güzelliği, bu türbeyi özel kılar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391219"
 
 ## Coğrafya
 
-Üç Kızlar Türbesi, Çankırı ilinin merkezinde yer alır ve coğrafi olarak önemli bir konuma sahiptir. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Burada, bozkır iklimi hüküm sürer ve yağışlar genellikle kış ve ilkbahar aylarında görülür. Türbenin etrafı, çeşitli bitki türleri ile çevrilidir ve zengin bir flora sahiptir. Ayrıca, türbenin yakınında, çeşitli su kaynakları bulunmaktadır. Bu coğrafi konumu,Üç Kızlar Türbesi'ni önemli bir doğal güzellik noktası haline getirmiştir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgenin güzelliğini gözler önüne serer.
+Üç Kızlar Türbesi, Çankırı ilinin merkezinde yer alır ve coğrafi olarak önemli bir konuma sahiptir. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Burada, bozkır iklimi hüküm sürer ve yağışlar genellikle kış ve ilkbahar aylarında görülür. Türbenin etrafı, çeşitli bitki türleri ile çevrilidir ve zengin bir flora sahiptir. Ayrıca, türbenin yakınında, çeşitli su kaynakları bulunmaktadır. Bu coğrafi konumu,Üç Kızlar Türbesi'ni önemli bir doğal güzellik noktası haline getirmiştir.
 
 ## Flora ve Fauna
 

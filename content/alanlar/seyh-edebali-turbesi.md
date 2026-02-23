@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Edebali Türbesi"
 date: "2026-01-10T04:48:07.018Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -30,7 +30,7 @@ wikidata_id: "Q6027628"
 
 # Şeyh Edebali Türbesi
 
-Şeyh Edebali Türbesi, Bilecik ilinin merkezinde yer alan ve tarihsel öneme sahip bir yapıdır. 140 hektarlık bir alan üzerine kurulu olan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şeyh Edebali, Osmanlı Devleti'nin kurucusu Osman Bey'in kayınpederi ve manevi lideridir. Türbenin etrafında, históriki ve doğal güzelliklerin birleştiği bir atmosfer bulunur. Bu bölgede, ziyaretçiler hem tarihin izlerini takip edebilir hem de doğanın güzelliğini deneyimleyebilir.
+Şeyh Edebali Türbesi, Bilecik ilinin merkezinde yer alan ve tarihsel öneme sahip bir yapıdır. Şeyh Edebali, Osmanlı Devleti'nin kurucusu Osman Bey'in kayınpederi ve manevi lideridir. Türbenin etrafında, tarihi ve doğal güzelliklerin birleştiği bir atmosfer bulunur. Bu bölgede, ziyaretçiler hem tarihin izlerini takip edebilir hem de doğanın güzelliğini deneyimleyebilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q6027628"
 
 ## Coğrafya
 
-Şeyh Edebali Türbesi, Marmara Bölgesi'nde yer alan Bilecik ilinin merkezinde bulunur. Bölge, coğrafi olarak dağlık ve ormanlık alanlarla çevrilidir. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerine kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Türbenin yakınlarında, tarihi ve doğal güzelliklerin birleştiği birçok nokta bulunur.
+Şeyh Edebali Türbesi, Marmara Bölgesi'nde yer alan Bilecik ilinin merkezinde bulunur. Bölge, coğrafi olarak dağlık ve ormanlık alanlarla çevrilidir. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Türbenin yakınlarında, tarihi ve doğal güzelliklerin birleştiği birçok nokta bulunur.
 
 ## Flora ve Fauna
 

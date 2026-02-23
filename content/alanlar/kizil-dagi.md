@@ -29,7 +29,7 @@ wikidata_id: "Q31385620"
 
 # Kızıl Dağı
 
-Kızıl Dağı, Yozgat ilinin içinde yer alan, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içinde bir macera bekliyor. Doğal güzelliği, coğrafi konumu ve tarihi geçmişi ile dikkat çeken bu tepe, hem gezi severlerin hem de doğaşığıların ilgisini çekiyor. Yozgat'ın merkezine yakın konumuyla, ulaşımı da oldukça rahat.
+Kızıl Dağı, Yozgat ilinin içinde yer alan, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Doğal güzelliği, coğrafi konumu ve tarihi geçmişi ile dikkat çeken bu tepe, hem gezi severlerin hem de doğaşığıların ilgisini çekiyor. Yozgat'ın merkezine yakın konumuyla, ulaşımı da oldukça rahat.
 
 ## Tarihçe
 

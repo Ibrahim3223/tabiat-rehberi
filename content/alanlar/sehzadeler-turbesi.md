@@ -1,7 +1,7 @@
 ---
 title: "Şehzadeler Türbesi"
 date: "2026-01-10T07:30:51.795Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391244"
 
 # Şehzadeler Türbesi
 
-Şehzadeler Türbesi, İstanbul'un tarihi ilçesi Fatih'te yer alan bir türbe ve çevresindeki yeşil alandan oluşan bir kompleks. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olarak düşünülürse, 200 futbol sahası büyüklüğünde bir alanı kaplar. Şehzadeler Türbesi, özellikle İstanbul'un tarihi geçmişine ışık tutan önemli bir noktadır. Bu türbe, geçmişte önemli olaylara sahne olmuş ve şehrin kültürel mirasının bir parçasıdır. Şehzadeler Türbesi ve çevresindeki yeşil alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor.
+Şehzadeler Türbesi, İstanbul'un tarihi ilçesi Fatih'te yer alan bir türbe ve çevresindeki yeşil alandan oluşan bir kompleks. Şehzadeler Türbesi, özellikle İstanbul'un tarihi geçmişine ışık tutan önemli bir noktadır. Bu türbe, geçmişte önemli olaylara sahne olmuş ve şehrin kültürel mirasının bir parçasıdır. Şehzadeler Türbesi ve çevresindeki yeşil alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

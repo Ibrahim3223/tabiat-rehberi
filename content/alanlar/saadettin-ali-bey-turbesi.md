@@ -1,7 +1,7 @@
 ---
 title: "Saadettin Ali Bey Türbesi"
 date: "2026-01-10T05:58:03.450Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390493"
 
 # Saadettin Ali Bey Türbesi
 
-Saadettin Ali Bey Türbesi, Karaman ilinin merkezinde yer alan önemli bir tarihi ve kültürel mekân. Bu türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Türbenin etrafında, yeşilin çeşitli tonlarını sunan ağaçlar ve çiçekler bulunur. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmeyi başarmaktadır. Karaman'ın merkezinde bulunan bu türbe, şehrin önemli turistik noktalarından biridir. Tarihi ve kültürel değerleri ile ön plana çıkan Saadettin Ali Bey Türbesi, ziyaretçilerine eşsiz bir deneyim sunar.
+Saadettin Ali Bey Türbesi, Karaman ilinin merkezinde yer alan önemli bir tarihi ve kültürel mekân. Bu türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Türbenin etrafında, yeşilin çeşitli tonlarını sunan ağaçlar ve çiçekler bulunur. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmeyi başarmaktadır. Karaman'ın merkezinde bulunan bu türbe, şehrin önemli turistik noktalarından biridir. Tarihi ve kültürel değerleri ile ön plana çıkan Saadettin Ali Bey Türbesi, ziyaretçilerine eşsiz bir deneyim sunar.
 
 ## Tarihçe
 

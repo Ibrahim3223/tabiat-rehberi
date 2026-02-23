@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Muhammed Esad Erbili Türbesi"
 date: "2026-01-10T05:04:54.783Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Menemen (ilçe)"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391570"
 
 # Şeyh Muhammed Esad Erbili Türbesi
 
-Şeyh Muhammed Esad Erbili Türbesi, Menemen ilçesinde bulunan tarihi ve doğal güzelliklerin bir arada bulunduğu özel bir mekan. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Türbe, çevresi ile birlikte bir bütün olarak düşünülerek, ziyaretçilere hem tarihi hem de doğayı aynı anda keşfetme fırsatı sunuyor.
+Şeyh Muhammed Esad Erbili Türbesi, Menemen ilçesinde bulunan tarihi ve doğal güzelliklerin bir arada bulunduğu özel bir mekan. Burada, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Türbe, çevresi ile birlikte bir bütün olarak düşünülerek, ziyaretçilere hem tarihi hem de doğayı aynı anda keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

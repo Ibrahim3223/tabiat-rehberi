@@ -22,7 +22,7 @@ wikidata_id: "Q108227819"
 
 # Sucullu
 
-Sucullu, İç Anadolu Bölgesi'nde yer alan bir milli parktır. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu muhteşem yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Sucullu'nun tarihi geçmişi, ziyaretçilerine farklı bir deneyim sunuyor. İnsanlık tarihinin farklı dönemlerine ait izleri taşıyan bu bölge, gerçek bir açık hava müzesi olarak görülüyor.
+Sucullu, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu muhteşem yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Sucullu'nun tarihi geçmişi, ziyaretçilerine farklı bir deneyim sunuyor. İnsanlık tarihinin farklı dönemlerine ait izleri taşıyan bu bölge, gerçek bir açık hava müzesi olarak görülüyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sucullu'nun tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. İnsanlık t
 
 ## Coğrafya
 
-Sucullu, İç Anadolu Bölgesi'nde yer alan bir milli parktır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu yeşil alan, çeşitli bitki türleri ile birlikte zengin bir fauna sunuyor. Sucullu'nun coğrafi yapısı, ziyaretçilerine farklı bir deneyim sunuyor. Milli parkın içerisinde, yürüyüş parkurları, piknik alanları ve göletler bulunuyor. Sucullu'nun iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Kışları soğuk, yazları sıcak ve kurak bir iklim hakim. Milli parkın coğrafi konumu, ziyaretçilerine birçok farklı güzelliği bir arada sunuyor.
+Sucullu, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu yeşil alan, çeşitli bitki türleri ile birlikte zengin bir fauna sunuyor. Sucullu'nun coğrafi yapısı, ziyaretçilerine farklı bir deneyim sunuyor. Milli parkın içerisinde, yürüyüş parkurları, piknik alanları ve göletler bulunuyor. Sucullu'nun iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Kışları soğuk, yazları sıcak ve kurak bir iklim hakim. Milli parkın coğrafi konumu, ziyaretçilerine birçok farklı güzelliği bir arada sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Sucullu'yu ziyaret etmek için, en uygun zaman ilkbahar ve yaz aylarıdır. Bu d
 
 ## İlginç Bilgiler
 
-- Sucullu, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
 - Milli parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Sucullu, aynı zamanda birçok kuş türünün yaşam alanı olarak da biliniyor.
 - Milli parkın içerisinde, yürüyüş parkurları, piknik alanları ve göletler bulunuyor.

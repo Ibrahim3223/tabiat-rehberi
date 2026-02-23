@@ -1,7 +1,7 @@
 ---
 title: "Muhammed Kattali Türbesi"
 date: "2026-01-10T07:01:16.063Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390798"
 
 # Muhammed Kattali Türbesi
 
-Muhammed Kattali Türbesi, Doğu Anadolu Bölgesi'nin Elazığ ilinin Maden ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir noktada bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak dikkat çekmektedir. Bu alan, ziyaretçilerine hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunmaktadır. Muhammed Kattali Türbesi, bölgenin tarihi ve kültürel mirasının önemli bir parçasıdır.
+Muhammed Kattali Türbesi, Doğu Anadolu Bölgesi'nin Elazığ ilinin Maden ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir noktada bulunmaktadır. Bu alan, ziyaretçilerine hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunmaktadır. Muhammed Kattali Türbesi, bölgenin tarihi ve kültürel mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227424"
 
 # Izmir-Bergama-Kozak Kızılçam
 
-İzmir-Bergama-Kozak Kızılçam milli parkı, Ege Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa deneyimi sunar. Bu alan, Bergama ilçesinin yakınlarında yer alır ve bölgenin coğrafi özellikleri ile birlikte, ziyaretçilerini bir doğa harikasına davet eder. Milli park, kızılçam ağaçları ile kaplı olup, bu ağacın türüne ev sahipliği yapar. Ayrıca, bu bölgeye özel bitki türleri ve hayvan çeşitliliği de dikkat çekicidir. İzmir-Bergama-Kozak Kızılçam milli parkı, hem doğa severler hem de turistik gezi sevenler için ideal bir destinasyondur.
+İzmir-Bergama-Kozak Kızılçam milli parkı, Ege Bölgesi'nin önemli doğal alanlarından biridir. Bu alan, Bergama ilçesinin yakınlarında yer alır ve bölgenin coğrafi özellikleri ile birlikte, ziyaretçilerini bir doğa harikasına davet eder. Milli park, kızılçam ağaçları ile kaplı olup, bu ağacın türüne ev sahipliği yapar. Ayrıca, bu bölgeye özel bitki türleri ve hayvan çeşitliliği de dikkat çekicidir. İzmir-Bergama-Kozak Kızılçam milli parkı, hem doğa severler hem de turistik gezi sevenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

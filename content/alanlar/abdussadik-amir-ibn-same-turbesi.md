@@ -1,7 +1,7 @@
 ---
 title: "Abdüssadık Amir İbn Same Türbesi"
 date: "2026-01-10T07:28:00.467Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391034"
 
 # Abdüssadık Amir İbn Same Türbesi
 
-Abdüssadık Amir İbn Same Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan tarihi bir mekan olarak dikkat çeker. Bu alan, yaklaşık 140 hektarlık bir yeşil alanda yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir. İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olan Abdüssadık Amir İbn Same Türbesi, ziyaretçilerini bekliyor.
+Abdüssadık Amir İbn Same Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan tarihi bir mekan olarak dikkat çeker. İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olan Abdüssadık Amir İbn Same Türbesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

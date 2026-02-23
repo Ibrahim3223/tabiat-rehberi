@@ -22,7 +22,7 @@ wikidata_id: "Q108227184"
 
 # Örümcek Ormani Ladini 2
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Örümcek Ormani Ladini 2, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu muhteşem milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. 140 hektarlık bu yeşil alan, hem doğa severler hem de macera tutkunları için bir cennet. Ziyaretçiler, burada doğanın seslerini dinleyebilir, ağaçların altında yürüyüş yapabilir, çeşitli bitkileri ve hayvanları gözlemleyebilir.
+ Bu muhteşem milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. 140 hektarlık bu yeşil alan, hem doğa severler hem de macera tutkunları için bir cennet. Ziyaretçiler, burada doğanın seslerini dinleyebilir, ağaçların altında yürüyüş yapabilir, çeşitli bitkileri ve hayvanları gözlemleyebilir.
 
 ## Tarihçe
 

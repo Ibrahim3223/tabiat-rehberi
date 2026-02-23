@@ -55,7 +55,7 @@ Antalya'daki "Kara İn" jeoparkı, maki bitki örtüsünün hâkim olduğu bir b
 
 Orman ekosisteminde, farklı ağaç türleri bulunur. Bu ağaçlar, orman memelileri için yaşam alanı oluşturur. Kuşlar, bu ormanlarda yuvalarını kurar ve göç ederken de burayı önemli bir durak olarak kullanır. Sonbaharın gelmesiyle birlikte, göç eden kuşlar bu bölgeyi ziyaret eder.
 
-Bu jeopark, ekolojik açıdan önemli bir bölgedir. Korunması Necessary olan bu alan, çeşitli canlı türlerinin yaşamsal döngülerini sürdürmesi için elverişli bir ortam sağlar. Bu nedenle, bu bölgeyi koruma ve gelecek nesiller için bảo tồn etmek önemlidir.
+Bu jeopark, ekolojik açıdan önemli bir bölgedir. Korunması Necessary olan bu alan, çeşitli canlı türlerinin yaşamsal döngülerini sürdürmesi için elverişli bir ortam sağlar. Bu nedenle, bu bölgeyi koruma ve gelecek nesiller için koruma tồn etmek önemlidir.
 
 ## Ziyaret Bilgileri
 

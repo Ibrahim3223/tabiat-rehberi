@@ -23,7 +23,7 @@ wikidata_id: "Q108228630"
 
 # ADNAN MENDERES
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Adnan Menderes Milli Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennettir. Bu doğal alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir destinasyondur. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve gözlem noktaları bulunmaktadır. Ziyaretçiler, parkın sunduğu olanaklardan yararlanarak doğayla iç içe bir gün geçirebilirler. Adnan Menderes Milli Parkı, doğa severler ve aileler için ideal bir kaçış noktasıdır.
+ Bu doğal alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir destinasyondur. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve gözlem noktaları bulunmaktadır. Ziyaretçiler, parkın sunduğu olanaklardan yararlanarak doğayla iç içe bir gün geçirebilirler. Adnan Menderes Milli Parkı, doğa severler ve aileler için ideal bir kaçış noktasıdır.
 
 ## Tarihçe
 

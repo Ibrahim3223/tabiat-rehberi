@@ -32,9 +32,9 @@ Diyarbakır'ın tarihi zenginliklerinin arasında yer alan Sirim Tepe, bölgenin
 
 ## Tarihçe
 
-Diyarbakır bölgesinin zengin tarihi, Sirim Tepe'nin eteklerine kadar uzanır. Bu bölge, tarihin en eski uygarlıklarından bazılarının yaşadığı bir coğrafyadır. Hitit, Asur ve Pers gibi medeniyetler, bu topraklarda hüküm sürmüş ve bölgenin kültürel mirasını şekillendirmiştir. 
+Diyarbakır bölgesinin zengin tarihi, Sirim Tepe'nin eteklerine kadar uzanır. Bu bölge, tarihin en eski uygarlıklarından bazılarının yaşadığı bir coğrafyadır. Hitit, Asur ve Pers gibi medeniyetler, bu topraklarda hüküm sürmüş ve bölgenin kültürel mirasını şekillendirmiştir.
 
-Sirim Tepe gibi doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahiptir. Bu alanlar, yüzyıllar boyunca insanların yaşamını sürdürdüğü, hayvancılık ve yaylacılık yaptığı yerler olarak görev görmüştür. Ayrıca, tarihi ticaret yollarının da bu bölgelerden geçtiği bilinmektedir. İnsanların bu doğal alanlarla olan ilişkisi, yalnızca ekonomi ve ticaret ile sınırlı değildir; aynı zamanda kültürel ve sosyal hayatın da önemli bir parçasını oluşturur. 
+Sirim Tepe gibi doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahiptir. Bu alanlar, yüzyıllar boyunca insanların yaşamını sürdürdüğü, hayvancılık ve yaylacılık yaptığı yerler olarak görev görmüştür. Ayrıca, tarihi ticaret yollarının da bu bölgelerden geçtiği bilinmektedir. İnsanların bu doğal alanlarla olan ilişkisi, yalnızca ekonomi ve ticaret ile sınırlı değildir; aynı zamanda kültürel ve sosyal hayatın da önemli bir parçasını oluşturur.
 
 Sirim Tepe'nin eteklerinde, insan yerleşimlerinin ve ekonomik faaliyetlerin izleri bulunabilir. Bu bölgenin tarihsel önemi, yalnızca doğal güzelliği ile değil, aynı zamanda insanlık tarihinin bir parçası olmasıyla da ölçülür. Sirim Tepe, Diyarbakır bölgesinin zengin tarihsel mirasını yansıtan önemli bir doğal ve kültürel varlıktır.
 
@@ -65,6 +65,6 @@ Diyarbakır'ın doğal güzelliklerinden biri olan Sirim Tepe, macera severlerin
 - Sirim Tepe, Diyarbakır ilinin güneydoğusunda yer alır.
 - Sirim Tepe, Diyarbakır'ın en yüksek noktalarından biridir.
 - Bu dağ, Güneydoğu Toroslar dağ sırasının bir parçasıdır.
-- Sirim Tepe etrafındaki bölge, históri ve kültürel açıdan önemlidir.
+- Sirim Tepe etrafındaki bölge, tarihi ve kültürel açıdan önemlidir.
 - Diyarbakır ili, 38° 8’ kuzey enlemi ve 40° 12’ doğu boylamında yer alır.
 - Sirim Tepe'nin yüksekliği hakkında spesifi veri bulunmamaktadır.

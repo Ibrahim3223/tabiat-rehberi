@@ -52,7 +52,7 @@ Bölgenin çevresel ilişkileri, su kaynakları ve ekosistem bağlantıları aç
 
 Çarıkbuz Dağı, Manisa'nın zeytinlikler ve çam ormanlarıyla çevrili bir bölgesinde yer alıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunuyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Çam ormanları, zeytinliklere nazaran daha yüksek rakımlarda hakimiyet kuruyor.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağların yüksek kesimlerinde yaşamlarını sürdürürken, kartallar ve başka yırtıcı kuşlar gökyüzünde gözlenebiliyor. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturuyor. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağların yüksek kesimlerinde yaşamlarını sürdürürken, kartallar ve başka yırtıcı kuşlar gökyüzünde gözlenebiliyor. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturuyor.
 
 Çarıkbuz Dağı'nın ekolojik değeri, bölge için hayati önem taşıyor. Bu dağ, birçok canlı türünün yaşam alanı olarak işlev görüyor ve bölgenin iklim dengesini koruyor. Ancak, insan faaliyetleri nedeniyle bu dengenin bozulma tehlikesi bulunuyor. Bu nedenle, Çarıkbuz Dağı'nın korunması ve bölgenin doğal güzelliğinin gelecek nesillere aktarılması için çaba gösterilmesi gerekiyor.
 

@@ -1,7 +1,7 @@
 ---
 title: "Kırklar Makamı Türbesi"
 date: "2026-01-10T06:16:02.313Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390620"
 
 # Kırklar Makamı Türbesi
 
-Kırklar Makamı Türbesi, Afyonkarahisar il merkezinde yer alan ve tarihi öneme sahip bir dini mekan olarak bilinir. Bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve etrafındaki yeşilliklerle birlikte dikkat çekici bir görünüm sunar. Türbenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplar ve ziyaretçilere huzurlu bir ortam sunar. Tarihi geçmişi ile birlikte, bu mekan aynı zamanda kültürel zenginliği ile de dikkat çeker.
+Kırklar Makamı Türbesi, Afyonkarahisar il merkezinde yer alan ve tarihi öneme sahip bir dini mekan olarak bilinir. Bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve etrafındaki yeşilliklerle birlikte dikkat çekici bir görünüm sunar. Tarihi geçmişi ile birlikte, bu mekan aynı zamanda kültürel zenginliği ile de dikkat çeker.
 
 ## Tarihçe
 

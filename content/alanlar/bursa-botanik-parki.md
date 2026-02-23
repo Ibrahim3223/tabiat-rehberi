@@ -34,7 +34,7 @@ Bursa'nın Osmangazi ilçesinde yer alan Bursa Botanik Parkı, şehrin doğal g�
 
 ## Tarihçe
 
-Bursa Botanik Parkı, tarihin sâu izlerini taşıyan bir bölgede yer alıyor. Bursa, binlerce yıllık geçmişiyle, various uygarlıkların izlerini taşıyan bir şehir. Antik Çağ'da Roma ve Bizans'ın etkisi altına giren bölge, daha sonra Osmanlı İmparatorluğu'nun önemli merkezlerinden biri haline geldi. Bu zengin tarihsel miras, Bursa'nın doğal güzellikleriyle birleşerek, botanik parkının kurulmasına zemin hazırladı.
+Bursa Botanik Parkı, tarihin derin izlerini taşıyan bir bölgede yer alıyor. Bursa, binlerce yıllık geçmişiyle, various uygarlıkların izlerini taşıyan bir şehir. Antik Çağ'da Roma ve Bizans'ın etkisi altına giren bölge, daha sonra Osmanlı İmparatorluğu'nun önemli merkezlerinden biri haline geldi. Bu zengin tarihsel miras, Bursa'nın doğal güzellikleriyle birleşerek, botanik parkının kurulmasına zemin hazırladı.
 
 Türkiye'de botanik bahçeleri, özellikle 20. yüzyıldan itibaren önem kazanmaya başladı. Bu tür doğal alanlar, halkın yeşil alanlara ulaşımını sağlamak, bitki çeşitliliğini koruma ve eğitim-araştırma faaliyetlerine katkıda bulunmak amacıyla kuruldu. Bursa Botanik Parkı da, bu amaçları taşıyan önemli bir mekân olarak, şehrin doğal ve kültürel zenginliklerine katkıda bulunuyor. Bölgede, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların doğayla ilişkisini şekillendirdi. Bu etkileşim, Bursa Botanik Parkı'nın kurulmasına ve gelişmesine de etti.
 

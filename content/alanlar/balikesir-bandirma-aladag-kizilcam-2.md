@@ -22,7 +22,7 @@ wikidata_id: "Q108228427"
 
 # Balikesir-Bandırma-Aladag-Kızılçam 2
 
-Balikesir-Bandırma-Aladag-Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin yaban hayatı ve ekosistemini korumak amacıyla kurulmuştur. Milli parkın kurulması, bölgenin doğal kaynaklarını koruma ve gelecek nesiller için sürdürülebilir bir çevre sağlamak amacıyla gerçekleştirilmiştir. Ziyaretçiler, milli parkın doğal güzelliklerini keşfetmek için çeşitli etkinlikler düzenlenebilir.
+Balikesir-Bandırma-Aladag-Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Milli parkın kurulması, bölgenin doğal kaynaklarını koruma ve gelecek nesiller için sürdürülebilir bir çevre sağlamak amacıyla gerçekleştirilmiştir. Ziyaretçiler, milli parkın doğal güzelliklerini keşfetmek için çeşitli etkinlikler düzenlenebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Balikesir-Bandırma-Aladag-Kızılçam 2 milli parkının tarihi geçmişi, böl
 
 ## Coğrafya
 
-Balikesir-Bandırma-Aladag-Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafyası bakımından zengin bir bölgedir. Milli park, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bölge, yaban hayatı ve ekosistem bakımından zengin bir bölgedir. Milli parkın coğrafyası, ziyaretçilerin doğal güzellikleri keşfetmesi için ideal bir ortam sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin iklimine benzer ve ziyaretçilerin yıl boyunca milli parkı ziyaret etmelerine olanak tanır. Milli parkın çevresi, doğal güzellikleriyle dikkat çeker ve ziyaretçilerin doğal ortamı keşfetmeleri için çeşitli olanaklar sunar.
+Balikesir-Bandırma-Aladag-Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafyası bakımından zengin bir bölgedir. Bölge, yaban hayatı ve ekosistem bakımından zengin bir bölgedir. Milli parkın coğrafyası, ziyaretçilerin doğal güzellikleri keşfetmesi için ideal bir ortam sunar. Bölgenin iklimi, İç Anadolu Bölgesi'nin iklimine benzer ve ziyaretçilerin yıl boyunca milli parkı ziyaret etmelerine olanak tanır. Milli parkın çevresi, doğal güzellikleriyle dikkat çeker ve ziyaretçilerin doğal ortamı keşfetmeleri için çeşitli olanaklar sunar.
 
 ## Flora ve Fauna
 

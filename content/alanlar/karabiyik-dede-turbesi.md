@@ -1,7 +1,7 @@
 ---
 title: "Karabıyık Dede Türbesi"
 date: "2026-01-10T05:56:32.523Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390501"
 
 # Karabıyık Dede Türbesi
 
-Karabıyık Dede Türbesi, Dörtyol/Hatay'da konumlanmış, tarihin izlerini taşıyan önemli bir dini mekân olarak dikkat çekiyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Karabıyık Dede Türbesi, hem dini açıdan hem de doğal güzellikleri ile dikkat çekiyor. Ziyaretçiler, bu özel mekânı keşfederek hem tarihi hem de doğayı bir arada deneyimleyebiliyorlar.
+Karabıyık Dede Türbesi, Dörtyol/Hatay'da konumlanmış, tarihin izlerini taşıyan önemli bir dini mekân olarak dikkat çekiyor. Karabıyık Dede Türbesi, hem dini açıdan hem de doğal güzellikleri ile dikkat çekiyor. Ziyaretçiler, bu özel mekânı keşfederek hem tarihi hem de doğayı bir arada deneyimleyebiliyorlar.
 
 ## Tarihçe
 

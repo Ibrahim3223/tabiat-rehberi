@@ -28,7 +28,7 @@ wikidata_id: "Q31557586"
 
 # Kırkbayır Tepesi
 
-Kırkbayır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık bir alanı kapsayan bir doğal güzelliktir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve oldukça geniş bir görüş açısına sahip. Kırkbayır Tepesi, ziyaretçiler için hem doğanın güzelliğini gözlemlemek hem de bölge hakkında bilgi edinmek için ideal bir destinasyon. Tepenin etrafında yer alan çeşitli bitkiler ve ağaçlar, ziyaretçilere zengin bir flora sunarken, bölgenin fauna çeşitliliği de oldukça dikkat çekici.
+Kırkbayır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık bir alanı kapsayan bir doğal güzelliktir. Kırkbayır Tepesi, ziyaretçiler için hem doğanın güzelliğini gözlemlemek hem de bölge hakkında bilgi edinmek için ideal bir destinasyon. Tepenin etrafında yer alan çeşitli bitkiler ve ağaçlar, ziyaretçilere zengin bir flora sunarken, bölgenin fauna çeşitliliği de oldukça dikkat çekici.
 
 ## Tarihçe
 

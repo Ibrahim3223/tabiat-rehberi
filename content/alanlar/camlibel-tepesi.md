@@ -28,7 +28,7 @@ wikidata_id: "Q34823844"
 
 # Çamlıbel Tepesi
 
-Çamlıbel Tepesi, Tokat'ın en yüksek noktası olarak bilinir ve yaklaşık 140 hektarlık yeşil alanı ile Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş açıkları ve manzaraları ile büyüler. Çamlıbel Tepesi, aynı zamanda Tokat'ın coğrafi yapısını ve tarihini anlamak için önemli bir noktadır. Tepenin etrafındaki köyler ve kasabalar, ziyaretçilere yerel kültürü ve gelenekleri hakkında bilgi vermekte ve bu bölgenin zengin tarihini keşfetme fırsatı sunmaktadır.
+Çamlıbel Tepesi, Tokat'ın en yüksek noktası olarak bilinir ve yaklaşık 140 hektarlık yeşil alanı ile Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Çamlıbel Tepesi, aynı zamanda Tokat'ın coğrafi yapısını ve tarihini anlamak için önemli bir noktadır. Tepenin etrafındaki köyler ve kasabalar, ziyaretçilere yerel kültürü ve gelenekleri hakkında bilgi vermekte ve bu bölgenin zengin tarihini keşfetme fırsatı sunmaktadır.
 
 ## Tarihçe
 

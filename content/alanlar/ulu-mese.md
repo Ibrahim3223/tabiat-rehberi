@@ -22,7 +22,7 @@ wikidata_id: "Q108227162"
 
 # Ulu Mese
 
-Ulu Mese, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerini doğanın güzelliklerine davet ediyor. Ulu Mese, bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. 70'li yıllarda keşfedilen bu alan, bugün turizm açısından önemli bir merkez olarak kabul ediliyor.
+ Bu geniş alan, ziyaretçilerini doğanın güzelliklerine davet ediyor. Ulu Mese, bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. 70'li yıllarda keşfedilen bu alan, bugün turizm açısından önemli bir merkez olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Ulu Mese'nin tarihi geçmişi, yüzyıllar boyunca bölgenin doğal güzellikler
 
 ## Coğrafya
 
-Ulu Mese, İç Anadolu Bölgesi'nin coğrafyası açısından önemli bir konumda yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Ulu Mese'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dolu. Burada, ziyaretçiler, doğanın güzelliğini keşfetmenin yanı sıra, bölgenin coğrafi özelliklerini de öğreniyorlar. Ulu Mese, bölgenin iklimi açısından da önemli bir role sahip. Bu alan, bölgenin ikliminin oluşumunda önemli bir faktör olarak kabul ediliyor. Ulu Mese'nin coğrafyası, ziyaretçilere, bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor.
+Ulu Mese, İç Anadolu Bölgesi'nin coğrafyası açısından önemli bir konumda yer alıyor. Ulu Mese'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dolu. Burada, ziyaretçiler, doğanın güzelliğini keşfetmenin yanı sıra, bölgenin coğrafi özelliklerini de öğreniyorlar. Ulu Mese, bölgenin iklimi açısından da önemli bir role sahip. Bu alan, bölgenin ikliminin oluşumunda önemli bir faktör olarak kabul ediliyor. Ulu Mese'nin coğrafyası, ziyaretçilere, bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

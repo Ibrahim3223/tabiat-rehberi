@@ -50,7 +50,7 @@ Alakavaktepe, çevresindeki doğal kaynaklar ve ekosistemlerle birlikte, bölgen
 
 ## Flora ve Fauna
 
-Alakavaktepe, Adana'nın dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapmakta ve kuraklığa dayanıklı türlerle dolu bir ekosistem sunmaktadır. 
+Alakavaktepe, Adana'nın dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapmakta ve kuraklığa dayanıklı türlerle dolu bir ekosistem sunmaktadır.
 
 Bitki örtüsü açısından, ilkbahar aylarında dağ yamaçları çiçeklerle renklenirken, yaz aylarında kurak koşullara uyum sağlayan bitkiler hakimiyet kurar. Kıyı ekosisteminin de etkisiyle, bu bölgede çeşitli ağaç türleri ve çalılar bulunur.
 

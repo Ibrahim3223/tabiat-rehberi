@@ -49,9 +49,9 @@ Bölgenin ekosistem bağlantıları açısından bakıldığında, Geçmiş Dağ
 
 ## Flora ve Fauna
 
-Geçmiş Dağı, nemli iklimin hüküm sürdüğü bir bölge olarak, gür ormanlar ve yüksek biyoçeşitlilikle dikkat çekiyor. Dağın farklı yükseklik zonlarında, ilkbaharda çiçek açan bitkiler ve sonbaharda renk değiştiren yapraklar, mevsimsel değişimlerin canlı bir şekilde gözlemlenebilmesini sağlıyor. 
+Geçmiş Dağı, nemli iklimin hüküm sürdüğü bir bölge olarak, gür ormanlar ve yüksek biyoçeşitlilikle dikkat çekiyor. Dağın farklı yükseklik zonlarında, ilkbaharda çiçek açan bitkiler ve sonbaharda renk değiştiren yapraklar, mevsimsel değişimlerin canlı bir şekilde gözlemlenebilmesini sağlıyor.
 
-Bitki örtüsünü oluşturan ağaç türleri, dağ ekosisteminin temelini oluştururken, alpin flora da bu bölgenin özgün özelliklerinden biri olarak karşımıza çıkıyor. Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Göç eden kuşlar, sonbaharda dağların üzerinden geçerken, memeliler ve sürüngenler ise ormanlık alanlarda ve kayalık bölgelerde yaşamlarını sürdürüyorlar. 
+Bitki örtüsünü oluşturan ağaç türleri, dağ ekosisteminin temelini oluştururken, alpin flora da bu bölgenin özgün özelliklerinden biri olarak karşımıza çıkıyor. Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Göç eden kuşlar, sonbaharda dağların üzerinden geçerken, memeliler ve sürüngenler ise ormanlık alanlarda ve kayalık bölgelerde yaşamlarını sürdürüyorlar.
 
 Bu dağ ekosisteminin korunması, bölgenin biyoçeşitliliğini ve ekolojik dengesini sürdürmek açısından büyük önem taşıyor. Geçmiş Dağı, yüksek biyoçeşitliliğini koruduğu sürece, bölge için önemli bir ekolojik değer olarak kalaca ve gelecek nesiller için de korunmaya devam edecektir.
 

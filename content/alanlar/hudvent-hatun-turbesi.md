@@ -1,7 +1,7 @@
 ---
 title: "Hüdâvent Hatun Türbesi"
 date: "2026-01-10T05:53:00.504Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Niğde"
@@ -30,7 +30,7 @@ wikidata_id: "Q16845329"
 
 # Hüdâvent Hatun Türbesi
 
-Hüdâvent Hatun Türbesi, Niğde'nin merkezinde bulunan tarihi bir türbedir. Bu türbe, Selçuklu Dönemi'nde yaşamış olan Hüdâvent Hatun'un mezarı olarak bilinir. Türbenin etrafı, tarihi yapılarla çevrili olan bir bölgede bulunur. 140 hektarlık bir alanda yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğündedir. Tarihi geçmişi ve mimarisi ile dikkat çeken Hüdâvent Hatun Türbesi, ziyaretçilerini geçmişe götürmeyi başarır.
+Hüdâvent Hatun Türbesi, Niğde'nin merkezinde bulunan tarihi bir türbedir. Bu türbe, Selçuklu Dönemi'nde yaşamış olan Hüdâvent Hatun'un mezarı olarak bilinir. Türbenin etrafı, tarihi yapılarla çevrili olan bir bölgede bulunur. Tarihi geçmişi ve mimarisi ile dikkat çeken Hüdâvent Hatun Türbesi, ziyaretçilerini geçmişe götürmeyi başarır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hüdâvent Hatun Türbesi, Selçuklu Dönemi'nde inşa edilmiştir. Bu dönemde,
 
 ## Coğrafya
 
-Hüdâvent Hatun Türbesi, Niğde'nin merkezinde yer alır. Türbenin etrafı, tarihi yapılarla çevrili olan bir bölgede bulunur. 140 hektarlık bir alanda yer alan türbe, yaklaşık 200 futbol sahası büyüklüğündedir. Türbenin mimarisi, Selçuklu Dönemi'nin característicasını taşır. Türbenin etrafındaki bölge, tarihi yapılarla dolu olan bir alandır. Bölge, ziyaretçilerin tarihi bir atmosferde dolaşmasına olanak tanır. Hüdâvent Hatun Türbesi, Niğde'nin coğrafi konumu itibariyle, önemli bir turistik destinasyondur. Türbe, İç Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini yansıtması açısından önemlidir.
+Hüdâvent Hatun Türbesi, Niğde'nin merkezinde yer alır. Türbenin etrafı, tarihi yapılarla çevrili olan bir bölgede bulunur. Türbenin mimarisi, Selçuklu Dönemi'nin característicasını taşır. Türbenin etrafındaki bölge, tarihi yapılarla dolu olan bir alandır. Bölge, ziyaretçilerin tarihi bir atmosferde dolaşmasına olanak tanır. Türbe, İç Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini yansıtması açısından önemlidir.
 
 ## Flora ve Fauna
 

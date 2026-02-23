@@ -28,7 +28,7 @@ wikidata_id: "Q31386768"
 
 # Hibe Tepe
 
-Hibe Tepe, Diyarbakır'ın eşsiz bir noktası olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Hibe Tepe, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepe, aynı zamanda bölgeye gelen ziyaretçiler için önemli bir gezi noktası.
+Hibe Tepe, Diyarbakır'ın eşsiz bir noktası olarak karşımıza çıkıyor. Hibe Tepe, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu tepe, aynı zamanda bölgeye gelen ziyaretçiler için önemli bir gezi noktası.
 
 ## Tarihçe
 

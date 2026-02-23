@@ -28,7 +28,7 @@ wikidata_id: "Q31386692"
 
 # Kazancı Tepesi
 
-Kazancı Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şehrin panoramik manzarasını sunan Kazancı Tepesi, ziyaretçilerini doğanın ve tarihin iç içe geçtiği bir dünyaya davet ediyor. Burada, hem tarihi yapıları hem de doğal güzellikleri keşfetme fırsatı bulacaksınız.
+Kazancı Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Şehrin panoramik manzarasını sunan Kazancı Tepesi, ziyaretçilerini doğanın ve tarihin iç içe geçtiği bir dünyaya davet ediyor. Burada, hem tarihi yapıları hem de doğal güzellikleri keşfetme fırsatı bulacaksınız.
 
 ## Tarihçe
 

@@ -53,13 +53,13 @@ Doğal bir koridor olarak düşünüldüğünde, Bozburun Tepe ve çevresindeki 
 Bozburun Tepe, Antalya'nın dağlık bölgesinde yer alan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekmektedir.
 
 **Bitki Örtüsü**
-Maki bitki örtüsünün hakim olduğu bu bölgede, kuraklığa dayanıklı türler bulunmaktadır. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda da yaprak dökümüyle renkli bir manzara sunar. 
+Maki bitki örtüsünün hakim olduğu bu bölgede, kuraklığa dayanıklı türler bulunmaktadır. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda da yaprak dökümüyle renkli bir manzara sunar.
 
 **Yaban Hayatı**
 Memeliler, kuşlar ve sürüngenler bu dağların yaşam alanını paylaşmaktadır. Kış aylarında, bazı kuş türleri buraya göç ederken, diğerleri ise buranın sabit sakinleridir.
 
 **Ekolojik Değer**
-Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak açısından çok önemlidir. Bozburun Tepe, bölgenin su kaynaklarının korunması ve toprak erozyonunun önlenmesi açısından kritik bir role sahiptir. Bu nedenle, bu doğal alanın korunmasına özen gösterilmeli ve gelecek nesiller için bảo tồn edilmelidir.
+ Bozburun Tepe, bölgenin su kaynaklarının korunması ve toprak erozyonunun önlenmesi açısından kritik bir role sahiptir. Bu nedenle, bu doğal alanın korunmasına özen gösterilmeli ve gelecek nesiller için koruma tồn edilmelidir.
 
 ## Ziyaret Bilgileri
 
@@ -71,5 +71,5 @@ Bozburun Tepe, Antalya'da bulunan muhteşem bir doğa alanıdır. Sabah erken gi
 - Antalya'nın en yüksek noktası olan Bozburun Tepe, 2.571 metre yüksekliğe sahiptir.
 - Bozburun Tepe'nin zirvesinden Akdeniz'in birçok adasını görebilme mümkündür.
 - Bozburun Tepe, Toros Dağları'nın bir parçasıdır ve zengin bir flora ve fauna çeşitliliğine sahiptir.
-- Bozburun Tepe'nin eteklerinde birçok köy ve kasaba bulunur, bu régionda yaşayan halk genellikle tarım ve hayvancılıkla uğraşır.
+- Bozburun Tepe'nin eteklerinde birçok köy ve kasaba bulunur, bu bölgede yaşayan halk genellikle tarım ve hayvancılıkla uğraşır.
 - Bozburun Tepe ve çevresinde yapılan araştırmalar, bölgenin M.Ö. 5. yüzyılda yerleşim yeri olarak kullanıldığını göstermektedir.

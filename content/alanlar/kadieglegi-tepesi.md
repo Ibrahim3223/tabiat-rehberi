@@ -28,7 +28,7 @@ wikidata_id: "Q31387812"
 
 # Kadıeğleği Tepesi
 
-Kadıeğleği Tepesi, Artvin'in eşsiz güzellikteki noktalarından biri olarak karşımıza çıkıyor. Bu tepe, 1400 metrelik yüksekliğiyle bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Kadıeğleği Tepesi, geniş ve yeşillik bir alana sahip olmasıyla birlikte, ziyaretçilerini doğanın kucağına davet ediyor. 1400 metrelik yükseklik, yaklaşık 450 futbol sahası büyüklüğüne eşdeğer bir alanı kapsıyor. Bu tepe, özellikle doğa severler ve trekking tutkunları için bir çekim merkezi olarak kabul ediliyor.
+Kadıeğleği Tepesi, Artvin'in eşsiz güzellikteki noktalarından biri olarak karşımıza çıkıyor. Bu tepe, 1400 metrelik yüksekliğiyle bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Kadıeğleği Tepesi, geniş ve yeşillik bir alana sahip olmasıyla birlikte, ziyaretçilerini doğanın kucağına davet ediyor. Bu tepe, özellikle doğa severler ve trekking tutkunları için bir çekim merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 

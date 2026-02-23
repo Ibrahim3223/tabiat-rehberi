@@ -32,7 +32,7 @@ Doğu Anadolu Bölgesi'nin yüksek dağlarıyla çevrili olan "Gora Chiyareshk" 
 
 ## Tarihçe
 
-Gora Chiyareshk dağının bulunduğu bölge, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu coğrafya, çeşitli uygarlıkların yaşamına ev sahipliği yapmış ve ticaret yollarının kesişme noktası olmuştur. Bölgenin tarihsel önemi, sadece doğal güzelliklerinin ötesine geçer ve binlerce yıllık bir geçmişe uzanır.
+Gora Chiyareshk dağının bulunduğu bölge, tarihin derin sayfalarında önemli bir yere sahiptir. Bu coğrafya, çeşitli uygarlıkların yaşamına ev sahipliği yapmış ve ticaret yollarının kesişme noktası olmuştur. Bölgenin tarihsel önemi, sadece doğal güzelliklerinin ötesine geçer ve binlerce yıllık bir geçmişe uzanır.
 
 Türkiye'nin doğusunda yer alan bu dağ, tarihi İpek Yolu'nun güzergahında bulunması nedeniyle, geçmişte önemli bir ticaret merkezi olarak kabul edilmiştir. Ayrıca, yaylacılık ve hayvancılık aktivitelerinin yoğun olarak gerçekleştirildiği bir bölge olarak da bilinir. Bölgede yaşayan halk, yüzyıllar boyu bu doğal alanları kullanarak geçimini sağlamış ve kültürel kimliğini şekillendirmiştir.
 

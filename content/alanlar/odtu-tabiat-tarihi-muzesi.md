@@ -1,7 +1,7 @@
 ---
 title: "ODTÜ Tabiat Tarihi Müzesi"
 date: "2026-01-10T15:15:55.637Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -23,7 +23,7 @@ wikidata_id: "Q132949888"
 
 # ODTÜ Tabiat Tarihi Müzesi
 
-ODTÜ Tabiat Tarihi Müzesi, Ankara'nın kalbinde yer alan 140 hektarlık yeşil alanı ile ziyaretçilerini doğanın güzelliğine davet ediyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Müzenin içerisinde bulunan çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğa hakkında derinlemesine bilgi edinme fırsatı sunuyor. Ayrıca, müzenin tarihi geçmişi ve kurulma hikayesi de ziyaretçilerin ilgisini çekmeyi başarıyor.
+ODTÜ Tabiat Tarihi Müzesi, Ankara'nın kalbinde yer alan 140 hektarlık yeşil alanı ile ziyaretçilerini doğanın güzelliğine davet ediyor. Müzenin içerisinde bulunan çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğa hakkında derinlemesine bilgi edinme fırsatı sunuyor. Ayrıca, müzenin tarihi geçmişi ve kurulma hikayesi de ziyaretçilerin ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 

@@ -28,15 +28,15 @@ wikidata_id: "Q31543105"
 
 # Raşik Tepesi
 
-Raşik Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin önemli tarihi ve doğal güzelliklerinden biri olan bir tepe. Bu tepe, şehrin etrafındaki ovaları ve dağları gören bir konumda bulunuyor. Raşik Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Raşik Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin önemli tarihi ve doğal güzelliklerinden biri olan bir tepe. Bu tepe, şehrin etrafındaki ovaları ve dağları gören bir konumda bulunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 
-Raşik Tepesi, Diyarbakır'ın tarihi geçmişi ile sâu sâu bağlantılı. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımakta. Tepenin etrafında, tarihi kalıntılar ve eserler bulunmakta. Bu eserler, bölgenin zengin tarihi geçmişi hakkında bilgi vermektedir. Raşik Tepesi, aynı zamanda bir gözlem noktası olarak kullanılmış ve stratejik öneme sahip. Tepenin tarihi geçmişi, ziyaretçilere bu bölgenin önemini göstermekte.
+Raşik Tepesi, Diyarbakır'ın tarihi geçmişi ile derin derin bağlantılı. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımakta. Tepenin etrafında, tarihi kalıntılar ve eserler bulunmakta. Bu eserler, bölgenin zengin tarihi geçmişi hakkında bilgi vermektedir. Raşik Tepesi, aynı zamanda bir gözlem noktası olarak kullanılmış ve stratejik öneme sahip. Tepenin tarihi geçmişi, ziyaretçilere bu bölgenin önemini göstermekte.
 
 ## Coğrafya
 
-Raşik Tepesi, Diyarbakır'ın merkezinde yer alan bir tepe. Bu tepe, şehrin etrafındaki ovaları ve dağları gören bir konumda bulunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Raşik Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin coğrafi konumu, ziyaretçilere şehrin etrafındaki doğal güzellikleri etme fırsatı sunmakta. Bu bölge, hem yaz hem de kış mevsiminde ziyaret edilebilir ve her mevsim, ziyaretçilere farklı bir deneyimi sunar. Raşik Tepesi, aynı zamanda bir gözlem noktası olarak kullanılmış ve stratejik öneme sahip.
+Raşik Tepesi, Diyarbakır'ın merkezinde yer alan bir tepe. Bu tepe, şehrin etrafındaki ovaları ve dağları gören bir konumda bulunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Tepenin coğrafi konumu, ziyaretçilere şehrin etrafındaki doğal güzellikleri etme fırsatı sunmakta. Bu bölge, hem yaz hem de kış mevsiminde ziyaret edilebilir ve her mevsim, ziyaretçilere farklı bir deneyimi sunar. Raşik Tepesi, aynı zamanda bir gözlem noktası olarak kullanılmış ve stratejik öneme sahip.
 
 ## Flora ve Fauna
 

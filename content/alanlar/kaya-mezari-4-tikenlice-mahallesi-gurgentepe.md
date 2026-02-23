@@ -29,7 +29,7 @@ wikidata_id: "Q134728205"
 
 # Kaya Mezarı 4 (Tikenlice Mahallesi) Gürgentepe
 
-Kaya Mezarı 4, Tikenlice Mahallesi'nde, Gürgentepe ilçesinin sakin ve doğal güzelliği ile dikkat çeken bir bölgede yer alır. Bu bölge, Karadeniz Bölgesi'nin zengin tarihi ve kültürel mirasının bir parçasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Kaya Mezarı 4, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir. Bölgenin eşsiz manzaraları, misafirlerini büyülemektedir.
+Kaya Mezarı 4, Tikenlice Mahallesi'nde, Gürgentepe ilçesinin sakin ve doğal güzelliği ile dikkat çeken bir bölgede yer alır. Bu bölge, Karadeniz Bölgesi'nin zengin tarihi ve kültürel mirasının bir parçasıdır. Kaya Mezarı 4, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir. Bölgenin eşsiz manzaraları, misafirlerini büyülemektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaya Mezarı 4'ün tarihi geçmişi, bölgenin zengin kültürel mirasını yans
 
 ## Coğrafya
 
-Kaya Mezarı 4, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yeşilin ve mavinin bir araya geldiği, doğanın tüm güzelliğini sergilediği bir noktada bulunur. 180 hektarlık bir alana yayılan bu bölge, yaklaşık 250 futbol sahası büyüklüğündedir. Kaya Mezarı 4'ün coğrafyası, Karadeniz Bölgesi'nin genel coğrafi yapısını yansıtır. Bölge, yüksek bir konumda yer alır ve çevresi ormanlarla kaplıdır. İklim, Karadeniz ikliminin özelliklerini taşır ve bölgede mevsim ayrı ayrı yaşanır. Kaya Mezarı 4'ün coğrafi konumu, ziyaretçilere doğanın güzelliğini sunarken, aynı zamanda bölgenin tarihi ve kültürel mirasını keşfetme fırsatı sunar.
+Kaya Mezarı 4, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bölge, yeşilin ve mavinin bir araya geldiği, doğanın tüm güzelliğini sergilediği bir noktada bulunur. Kaya Mezarı 4'ün coğrafyası, Karadeniz Bölgesi'nin genel coğrafi yapısını yansıtır. Bölge, yüksek bir konumda yer alır ve çevresi ormanlarla kaplıdır. İklim, Karadeniz ikliminin özelliklerini taşır ve bölgede mevsim ayrı ayrı yaşanır. Kaya Mezarı 4'ün coğrafi konumu, ziyaretçilere doğanın güzelliğini sunarken, aynı zamanda bölgenin tarihi ve kültürel mirasını keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

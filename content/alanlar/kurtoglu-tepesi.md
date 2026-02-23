@@ -28,7 +28,7 @@ wikidata_id: "Q31390593"
 
 # Kurtoğlu Tepesi
 
-Kurtoğlu Tepesi, Nevşehir'in İç Anadolu Bölgesi'nde yer alan ve coğrafyası ile tarihi geçmişiyle dikkat çekici bir bölgedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, bölgenin doğal güzelliğini ve tarihi önemini bir arada sunar. Konum itibariyle, İç Anadolu Bölgesi'nin coğrafi özelliklerini gözlemlemek için ideal bir noktadır. Kurtoğlu Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak dikkat çekmektedir.
+Kurtoğlu Tepesi, Nevşehir'in İç Anadolu Bölgesi'nde yer alan ve coğrafyası ile tarihi geçmişiyle dikkat çekici bir bölgedir. Bu tepe, bölgenin doğal güzelliğini ve tarihi önemini bir arada sunar. Konum itibariyle, İç Anadolu Bölgesi'nin coğrafi özelliklerini gözlemlemek için ideal bir noktadır. Kurtoğlu Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak dikkat çekmektedir.
 
 ## Tarihçe
 

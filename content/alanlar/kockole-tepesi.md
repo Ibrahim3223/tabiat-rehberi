@@ -50,7 +50,7 @@ Bölgenin coğrafi ve ekolojik dengesini göz önünde bulundurunca, Koçköle T
 
 ## Flora ve Fauna
 
-Koçköle Tepesi, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede, step ve ova ekolojisinin içinde yükselen bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. 
+Koçköle Tepesi, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede, step ve ova ekolojisinin içinde yükselen bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte Koçköle Tepesi, renkli çiçeklere bürünür. Step ve ova ekolojisinin hakim olduğu bu bölgede, çeşitli otsu bitkiler ve çalılar hakimdir. Sonbaharda, flora daha sakin bir hava kazanır.
 

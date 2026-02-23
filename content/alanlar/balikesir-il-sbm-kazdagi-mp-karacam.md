@@ -22,7 +22,7 @@ wikidata_id: "Q108228561"
 
 # Balikesir-İl Şb.M.-Kazdagi M.P.-Karacam
 
-Balikesir-İl Şb.M.-Kazdagi M.P.-Karacam, İç Anadolu Bölgesi'nin en önemli alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki dağlarla birlikte bir bütün olarak düşünüldüğünde, doğa severler için gerçek bir cennettir. Milli parkın içinde yer alan Karacam bölgesi, özellikle trekking ve kamp yapmak isteyenler için ideal bir destinasyondur. Bu bölge, aynı zamanda tarihi geçmişi ile dikkat çeker ve ziyaretçilerini zamanda yolculuğa çıkarır.
+Balikesir-İl Şb.M.-Kazdagi M.P.-Karacam, İç Anadolu Bölgesi'nin en önemli alanlarından biridir. Milli parkın içinde yer alan Karacam bölgesi, özellikle trekking ve kamp yapmak isteyenler için ideal bir destinasyondur. Bu bölge, aynı zamanda tarihi geçmişi ile dikkat çeker ve ziyaretçilerini zamanda yolculuğa çıkarır.
 
 ## Tarihçe
 

@@ -42,7 +42,7 @@ Güney Türkiye'nin coğrafi çeşitliliği, Hatay ilinin dağlık bölgelerinde
 
 Doğuya bakan yamaçlarıyla dikkat çeken Susuz Tepe, coğrafi olarak bakıldığında, bir şehir bloğu büyüklüğünde alan kaplar. Bu küçük ama önemli coğrafi oluşum, bölgenin jeolojik yapısını şekillendiren tektonik hareketlerin bir sonucu olarak ortaya çıkmıştır. Susuz Tepe'nin yüksekliği, Eiffel Kulesi'nin yaklaşık 1/5'i kadardır, bu da bölgenin genel yükseklik profiline uygun bir değerdir.
 
-Mevsimsel değişikliklere bağlı olarak, Susuz Tepe'nin iklimi karakteristik Akdeniz iklimini yansıtır. Kışlar ılıman, yazlar ise sıcak ve kurak geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Susuz Tepe'nin çevresindeki ekosistemin dinamik yapısını korur. 
+Mevsimsel değişikliklere bağlı olarak, Susuz Tepe'nin iklimi karakteristik Akdeniz iklimini yansıtır. Kışlar ılıman, yazlar ise sıcak ve kurak geçer. Bu mevsimsel özellikler, bölgenin flora ve fauna çeşitliliğini etkiler ve Susuz Tepe'nin çevresindeki ekosistemin dinamik yapısını korur.
 
 Bölgenin su kaynakları ve komşu alanlar, Susuz Tepe'nin çevresel ilişkilerini belirler. Dağın eteklerinde yer alan ovalar ve Vadiler, yeraltı su kaynaklarının beslendiği önemli alanlardır. Bu su kaynakları, bölgenin tarım ve sulama faaliyetleri için hayati önem taşır. Susuz Tepe, komşu dağlarla birlikte, bölgenin ekolojik dengesini korur ve biyolojik çeşitliliğin sürdürülmesine katkı sağlar.
 

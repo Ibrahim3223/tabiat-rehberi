@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Kameriye Köşkü"
 date: "2026-01-10T04:37:59.977Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133685512"
 
 # Yıldız Sarayı Kameriye Köşkü
 
-Yıldız Sarayı Kameriye Köşkü, Marmara Bölgesi'nin kalbinde, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir yapıdır. Bu yapı, 140 hektarlık alan içinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içerisinde bulunmaktadır. Kameriye Köşkü, Yıldız Sarayı'nın bir parçası olarak inşa edilmiş ve tarihi geçmişiyle dikkat çekmektedir. Sarayın etrafındaki yeşil alan, çeşitli bitki türleriyle zenginleştirilmiş ve ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
+Yıldız Sarayı Kameriye Köşkü, Marmara Bölgesi'nin kalbinde, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir yapıdır. Kameriye Köşkü, Yıldız Sarayı'nın bir parçası olarak inşa edilmiş ve tarihi geçmişiyle dikkat çekmektedir. Sarayın etrafındaki yeşil alan, çeşitli bitki türleriyle zenginleştirilmiş ve ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
 
 ## Tarihçe
 

@@ -33,7 +33,7 @@ Türkiye'nin gizli köşelerinden biri olan Saplı Adası, ülkenin doğal güze
 
 ## Tarihçe
 
-Saplı Adası, Türkiye'nin zengin tarihsel mirasının bir parçası olan bir bölgede yer alıyor. Bu bölge, tarih boyunca çeşitli uygarlıkların ảnhsına tanık olmuş; Hititler, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, bu topraklarda hüküm sürmüşlerdir. 
+Saplı Adası, Türkiye'nin zengin tarihsel mirasının bir parçası olan bir bölgede yer alıyor. Bu bölge, tarih boyunca çeşitli uygarlıkların ảnhsına tanık olmuş; Hititler, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, bu topraklarda hüküm sürmüşlerdir.
 
 Bu tür doğal alanlar, Türkiye'de tarih boyunca önemli bir role sahip olmuşlardır. Özellikle yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisine katkıda bulunmuş ve insanların bu doğal güzelliklerle bağını güçlendirmiştir. Ayrıca, ticaret yolları ve ulaşım güzergahları üzerinde bulunan bu alanlar, kültürel alışveriş ve etkileşimin önemli merkezleri olarak görev yapmıştır.
 

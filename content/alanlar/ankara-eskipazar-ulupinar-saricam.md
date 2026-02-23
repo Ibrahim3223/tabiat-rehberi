@@ -22,7 +22,7 @@ wikidata_id: "Q108227550"
 
 # Ankara-Eskipazar-Ulupinar Saricam
 
-Ankara-Eskipazar-Ulupinar Saricam, İç Anadolu Bölgesi'nin göbeğinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Parkın etrafı, yemyeşil ağaçlarla çevrili ve çeşitli bitki türleri ile süslüdür. Bu doğa harikası, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yerdir. Saricam, doğanın tüm güzelliğini bir araya getiren bir cennettir.
+Ankara-Eskipazar-Ulupinar Saricam, İç Anadolu Bölgesi'nin göbeğinde yer alan bir milli parktır. Parkın etrafı, yemyeşil ağaçlarla çevrili ve çeşitli bitki türleri ile süslüdür. Bu doğa harikası, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yerdir. Saricam, doğanın tüm güzelliğini bir araya getiren bir cennettir.
 
 ## Tarihçe
 

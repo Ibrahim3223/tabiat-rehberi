@@ -28,7 +28,7 @@ wikidata_id: "Q31386921"
 
 # Ulucak Tepesi
 
-Ulucak Tepesi, Amasya'nın güzelliklerini bir arada sunan önemli bir nokta olarak karşımıza çıkıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle büyülüyor. Tepenin eteklerinde yeşilin çeşitli tonlarını görebilir, manzarayı izlerken doğanın seslerini dinleyebilirsiniz. Ulucak Tepesi, hem doğal güzelliği hem de tarihi önemiyle dikkat çekiyor.
+Ulucak Tepesi, Amasya'nın güzelliklerini bir arada sunan önemli bir nokta olarak karşımıza çıkıyor. Tepenin eteklerinde yeşilin çeşitli tonlarını görebilir, manzarayı izlerken doğanın seslerini dinleyebilirsiniz. Ulucak Tepesi, hem doğal güzelliği hem de tarihi önemiyle dikkat çekiyor.
 
 ## Tarihçe
 

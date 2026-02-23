@@ -28,7 +28,7 @@ wikidata_id: "Q31388462"
 
 # Beyaztaş Tepesi
 
-Erzurum'un doğal güzelliklerinden biri olan Beyaztaş Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğa severlerin ve macera arayışında olanların keyifle zaman geçirebileceği bir yer. Beyaztaş Tepesi, Erzurum'un merkezine yakın bir konumda yer alıyor ve buraya ulaşım oldukça kolay. Tepenin etrafındaki manzaralar, ziyaretçilere unutulmaz anlar yaşatıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
+ Bu bölge, doğa severlerin ve macera arayışında olanların keyifle zaman geçirebileceği bir yer. Beyaztaş Tepesi, Erzurum'un merkezine yakın bir konumda yer alıyor ve buraya ulaşım oldukça kolay. Tepenin etrafındaki manzaralar, ziyaretçilere unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Beyaztaş Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bö
 
 ## Coğrafya
 
-Beyaztaş Tepesi, Erzurum'un coğrafi olarak önemli bir bölgesinde yer alıyor. Tepenin etrafı, zengin flora ve fauna ile kaplı ve bu reason, burayı doğa severlerin cenneti haline getiriyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Tepenin yüksekliği, ziyaretçilere şehrin ve çevresinin panoramik manzarasını sunuyor. Beyaztaş Tepesi, Erzurum'un merkezine yakın bir konumda yer alıyor ve buraya ulaşım oldukça kolay. Tepenin etrafındaki manzaralar, ziyaretçilere unutulmaz anlar yaşatıyor. Bölge, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor ve bu reason, burayı coğrafi olarak önemli bir yer haline getiriyor.
+Beyaztaş Tepesi, Erzurum'un coğrafi olarak önemli bir bölgesinde yer alıyor. Tepenin etrafı, zengin flora ve fauna ile kaplı ve bu reason, burayı doğa severlerin cenneti haline getiriyor. Tepenin yüksekliği, ziyaretçilere şehrin ve çevresinin panoramik manzarasını sunuyor. Beyaztaş Tepesi, Erzurum'un merkezine yakın bir konumda yer alıyor ve buraya ulaşım oldukça kolay. Tepenin etrafındaki manzaralar, ziyaretçilere unutulmaz anlar yaşatıyor. Bölge, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor ve bu reason, burayı coğrafi olarak önemli bir yer haline getiriyor.
 
 ## Flora ve Fauna
 

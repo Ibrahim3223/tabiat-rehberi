@@ -1,7 +1,7 @@
 ---
 title: "Çavuş Hamamı"
 date: "2026-01-09T23:43:15.291Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739189"
 
 # Çavuş Hamamı
 
-Tokat'ın Niksar ilçesinde yer alan Çavuş Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Çavuş Hamamı, özellikle yaz aylarında yerli ve yabancı turistlerin ilgisini çeker. Bu bölge, hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerini kendisine hayran bırakır. Çavuş Hamamı'nın çevresi, yeşilin her tonunu sunan ormanlarla kaplıdır ve bu doğal güzellik, ziyaretçilere unutulmaz anlar yaşatır.
+Tokat'ın Niksar ilçesinde yer alan Çavuş Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Çavuş Hamamı, özellikle yaz aylarında yerli ve yabancı turistlerin ilgisini çeker. Bu bölge, hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerini kendisine hayran bırakır. Çavuş Hamamı'nın çevresi, yeşilin her tonunu sunan ormanlarla kaplıdır ve bu doğal güzellik, ziyaretçilere unutulmaz anlar yaşatır.
 
 ## Tarihçe
 

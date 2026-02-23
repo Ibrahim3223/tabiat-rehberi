@@ -28,7 +28,7 @@ wikidata_id: "Q31389898"
 
 # Soğanlık Tepesi
 
-Soğanlık Tepesi, Sinop'un güzide noktalarından biri olarak Karadeniz Bölgesi'nin doğal güzelliklerini sunar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğanın kucağına davet eder. Soğanlık Tepesi, hem yerel halk için hem de ziyaretçiler için keyifli bir kaçış noktası olarak hizmet verir. Burada, şehrin stresinden uzaklaşabilir ve doğanın sesine kula verebilirsiniz. Soğanlık Tepesi, Sinop'un tarihi ve kültürel zenginliklerinin bir parçası olarak, ziyaretçilerine unutulmaz bir deneyim sunar.
+Soğanlık Tepesi, Sinop'un güzide noktalarından biri olarak Karadeniz Bölgesi'nin doğal güzelliklerini sunar. Soğanlık Tepesi, hem yerel halk için hem de ziyaretçiler için keyifli bir kaçış noktası olarak hizmet verir. Burada, şehrin stresinden uzaklaşabilir ve doğanın sesine kula verebilirsiniz.
 
 ## Tarihçe
 

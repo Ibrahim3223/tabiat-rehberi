@@ -50,11 +50,11 @@ Mevsimsel olarak bakıldığında, Eskişehir'in genel iklim karakteri, Kocagün
 
 ## Flora ve Fauna
 
-Kocagüney Dağı, Eskişehir'in step bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kocagüney Dağı, Eskişehir'in step bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, step bitki örtüsünün hakim olduğu bu bölgede, ilkbahar aylarında çiçeklerin renkli bir şölenine tanık olabilirsiniz. Mevsimsel değişimlerle birlikte, bozkırın kuraklığa adapte türleri ön plana çıkıyor. 
+Bitki Örtüsü olarak, step bitki örtüsünün hakim olduğu bu bölgede, ilkbahar aylarında çiçeklerin renkli bir şölenine tanık olabilirsiniz. Mevsimsel değişimlerle birlikte, bozkırın kuraklığa adapte türleri ön plana çıkıyor.
 
-Yaban Hayatı açısından, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminde yaşamını sürdürüyor. Göçmen kuşların sonbaharda göç edişini izleme mümkün. 
+Yaban Hayatı açısından, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminde yaşamını sürdürüyor. Göçmen kuşların sonbaharda göç edişini izleme mümkün.
 
 Ekolojik Değer olarak, bu dağ ekosisteminin korunması büyük önem taşıyor. Yükseklik zonları, alpin flora ve dağ hayvanlarının yaşam alanlarını koruma altına almak, bu bölgeyi geleceğe taşımak için gerekli.
 
@@ -68,5 +68,5 @@ Eskişehir'in güzide dağlarından biri olan Kocagüney Dağı, doğa severler 
 - Dağın yüksekliği ve diğer özellikleri về specific veriler bulunmamaktadır, ancak Eskişehir'in coğrafi yapısını anlamak için önemli bir noktadır.
 - Eskişehir'in toplam yüzölçümü 13.904 km²'dir ve Kocagüney Dağı bu bölgenin bir parçasını oluşturur.
 - Eskişehir, tarih öncesi dönemlerden beri yerleşim alanı olarak kullanılmıştır, ancak Kocagüney Dağı hakkında spesifik tarihî bilgiler bulunmamaktadır.
-- Kocagüney Dağı'nın coğrafi özellikleri ve çevresindeki ekosistem hakkında daha fazla bilgi edinmek içinDetailed araştırmalar necessário
+- Kocagüney Dağı'nın coğrafi özellikleri ve çevresindeki ekosistem hakkında daha fazla bilgi edinmek içinDetailed araştırmalar gerekli
 - Eskişehir ilinin nüfusu yaklaşık 887.000 kişidir ve Kocagüney Dağı gibi doğal alanlar bu nüfusun yaşam kalitesine katkıda bulunur.

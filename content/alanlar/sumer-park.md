@@ -38,7 +38,7 @@ Diyarbakır, binlerce yıllık tarihiyle Türkiye'nin en önemli kültür merkez
 
 Türkiye'de botanik bahçeleri ve doğal alanlar, insan yaşamının önemli bir parçası olarak görülür. Bu tür alanlar, sadece doğal güzellikleri korumakla kalmaz, aynı zamanda insanların doğayla bağ kurmasına da olanak sağlar. Yaylacılık, hayvancılık ve ticaret yolları, Diyarbakır bölgesinde insanların doğal alanlarla ilişkisini şekillendiren önemli faaliyetlerdir. Bu faaliyetler, bölgenin ekonomi ve sosyal yapısını etkileyerek, doğal alanların korunmasına ve değerlendirilmesine katkıda bulunmuştur.
 
-Sümer Park, Diyarbakır'ın zengin tarihi ve kültürel mirasının bir parçasıdır. Bu park, doğa severlerin ve yerel halkın buluşma noktası olarak hizmet vermekte, aynı zamanda bölgenin doğal güzelliklerini korumak için önemli bir rol oynamaktadır. Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren Sümer Park, ziyaretçilerine unutulmaz bir deneyim sunmaktadır.
+Sümer Park, Diyarbakır'ın zengin tarihi ve kültürel mirasının bir parçasıdır. Bu park, doğa severlerin ve yerel halkın buluşma noktası olarak hizmet vermekte, aynı zamanda bölgenin doğal güzelliklerini korumak için önemli bir rol oynamaktadır.
 
 ## Coğrafya
 

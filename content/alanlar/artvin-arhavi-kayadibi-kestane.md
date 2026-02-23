@@ -22,7 +22,7 @@ wikidata_id: "Q108228551"
 
 # Artvin-Arhavi-Kayadibi-Kestane
 
-Artvin-Arhavi-Kayadibi-Kestane milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini gözler önüne seriyor. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna found. Bu doğal cennet, yürüyüş severlerin ve doğaşığıların vazgeçilmez bir durağı. Milli parkın güzelliği, özellikle ilkbahar ve sonbahar aylarında daha da belirginleşiyor.
+Artvin-Arhavi-Kayadibi-Kestane milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna found. Bu doğal cennet, yürüyüş severlerin ve doğaşığıların vazgeçilmez bir durağı. Milli parkın güzelliği, özellikle ilkbahar ve sonbahar aylarında daha da belirginleşiyor.
 
 ## Tarihçe
 

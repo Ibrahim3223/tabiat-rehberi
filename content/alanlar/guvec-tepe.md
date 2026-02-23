@@ -50,11 +50,11 @@ Mevsimler açısından, Güveç Tepe ve çevresinin iklimi oldukça sert ve kara
 
 ## Flora ve Fauna
 
-Güveç Tepe, Hakkari'de yer alan bir dağ ekosistemi, yükseklik zonları ve alpin çayırlarıyla dikkat çeker. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Alpin flora, bölgenin karakteristik bir özelliğini oluşturur. 
+Güveç Tepe, Hakkari'de yer alan bir dağ ekosistemi, yükseklik zonları ve alpin çayırlarıyla dikkat çeker. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Alpin flora, bölgenin karakteristik bir özelliğini oluşturur.
 
-Bitki örtüsünün hakim türleri, yüksek rakımlı alanlarda görülen çayır otları ve alpin bitkilerdir. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar, bu dağları geçiş noktası olarak kullanır. 
+Bitki örtüsünün hakim türleri, yüksek rakımlı alanlarda görülen çayır otları ve alpin bitkilerdir. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar, bu dağları geçiş noktası olarak kullanır.
 
-Yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle zenginleştirir. Dağ keçileri, tilkiler ve ayılar, bu dağların sakinleridir. Kuşlar, özellikle kartallar ve şahinler, havada süzülerek avlanırlar. 
+Yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle zenginleştirir. Dağ keçileri, tilkiler ve ayılar, bu dağların sakinleridir. Kuşlar, özellikle kartallar ve şahinler, havada süzülerek avlanırlar.
 Güveç Tepe, yüksek dağ ekosisteminin korunması açısından önemlidir ve bu alanı korumak, doğanın dengesini korumak için gereklidir.
 
 ## Ziyaret Bilgileri

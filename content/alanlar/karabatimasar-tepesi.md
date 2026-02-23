@@ -28,7 +28,7 @@ wikidata_id: "Q31554756"
 
 # Karabatımasar Tepesi
 
-Karabatımasar Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir doğa harikası. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini güler yüzlü bir şekilde karşılar. Batman şehrinin merkezine uzun bir mesafe uzaklıkta bulunan Karabatımasar Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise şehir manzarası izlenebilir. Karabatımasar Tepesi, doğa severlerin ve şehirden kaçmak isteyenlerin ziyaret etmesi gereken bir yer.
+Karabatımasar Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir doğa harikası. Batman şehrinin merkezine uzun bir mesafe uzaklıkta bulunan Karabatımasar Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise şehir manzarası izlenebilir. Karabatımasar Tepesi, doğa severlerin ve şehirden kaçmak isteyenlerin ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Karabatımasar Tepesi'ni ziyaret etmek isteyenler, Batman şehrinin merkezinden 
 
 ## İlginç Bilgiler
 
-- Karabatımasar Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin etekleri ve zirvesi, mevsimsel değişimlere bağlı olarak farklı bitki türleriyle kaplıdır.
 - Karabatımasar Tepesi, çeşitli hayvan türlerine de ev sahipliği yapar.
 - Tepenin coğrafi konumu ve iklim özellikleri, bölgenin yaban hayatı için uygun koşullar sağlar.

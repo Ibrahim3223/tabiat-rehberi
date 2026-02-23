@@ -1,7 +1,7 @@
 ---
 title: "Gülbahar Hatun Camii"
 date: "2026-01-10T04:43:48.311Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon"
@@ -30,7 +30,7 @@ wikidata_id: "Q6066259"
 
 # Gülbahar Hatun Camii
 
-Gülbahar Hatun Camii, Trabzon'un merkezinde yer alan ve şehrin tarihi zenginliklerini yansıtan önemli bir dini yapıdır. Bu cami, yaklaşık 15. yüzyılda inşa edilmiş ve şehrin en eski ve en önemli dini merkezlerinden biri olarak kabul edilmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezi konumuyla ziyaretçilerin kolayca ulaşabileceği bir yerdedir. Caminin mimarisi, Osmanlı dönemi özellikleri taşımaktadır ve şehirdeki diğer tarihi yapılarla birlikte Trabzon'un kültürel mirasını oluşturmaktadır.
+Gülbahar Hatun Camii, Trabzon'un merkezinde yer alan ve şehrin tarihi zenginliklerini yansıtan önemli bir dini yapıdır. Bu cami, yaklaşık 15. yüzyılda inşa edilmiş ve şehrin en eski ve en önemli dini merkezlerinden biri olarak kabul edilmektedir. Caminin mimarisi, Osmanlı dönemi özellikleri taşımaktadır ve şehirdeki diğer tarihi yapılarla birlikte Trabzon'un kültürel mirasını oluşturmaktadır.
 
 ## Tarihçe
 

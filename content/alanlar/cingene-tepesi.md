@@ -40,7 +40,7 @@ Sinop'un güzide noktalarından biri olan Çingene Tepesi, Karadeniz Bölgesi'ni
 
 ## Flora ve Fauna
 
-Çingene Tepesi, zengin bir flora ve fauna ile ziyaretçilerini karşılıyor. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri görülebiliyor. İlkbahar ve yaz aylarında, tepenin etrafı rengarenk çiçeklerle doluyor. Kış aylarında ise, karların örttüğü manzara, bir winter wonderland gibi görünüyor. Tepede yaşayan hayvanlar, bu doğal ortamın bir parçası olarak kabul ediliyor. Vahşi yaşamın korunması, bu bölgenin ekolojik dengesini korumak açısından çok önemli.
+Çingene Tepesi, zengin bir flora ve fauna ile ziyaretçilerini karşılıyor. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri görülebiliyor. İlkbahar ve yaz aylarında, tepenin etrafı rengarenk çiçeklerle doluyor. Kış aylarında ise, karların örttüğü manzara, bir winter wonderland gibi görünüyor. Tepede yaşayan hayvanlar, bu doğal ortamın bir parçası olarak kabul ediliyor.
 
 ## Ziyaret Bilgileri
 

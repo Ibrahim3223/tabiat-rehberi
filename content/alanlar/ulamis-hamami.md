@@ -1,7 +1,7 @@
 ---
 title: "Ulamış Hamamı"
 date: "2026-01-09T23:23:01.849Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738983"
 
 # Ulamış Hamamı
 
-Ulamış Hamamı, İzmir'in Seferihisar ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ulamış Hamamı, denizi ve güneşinin yanı sıra, çevre düzenlemesiyle de dikkat çeker. Ziyaretçiler, plajda güneşin tadını çıkarabilir, denize girebilir ve çevre düzenlemesinin güzelliğini keşfedebilir. Ulamış Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlar ve tatilcilerin keyifli anlar geçirmesine olanak tanır.
+Ulamış Hamamı, İzmir'in Seferihisar ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. Ulamış Hamamı, denizi ve güneşinin yanı sıra, çevre düzenlemesiyle de dikkat çeker. Ziyaretçiler, plajda güneşin tadını çıkarabilir, denize girebilir ve çevre düzenlemesinin güzelliğini keşfedebilir. Ulamış Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlar ve tatilcilerin keyifli anlar geçirmesine olanak tanır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ulamış Hamamı'nın tarihi geçmişi, Seferihisar'ın tarihi ile iç içe geç
 
 ## Coğrafya
 
-Ulamış Hamamı, Seferihisar'ın merkezine yaklaşık olarak 5 kilometre uzaklıkta yer alır ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Plaj, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ulamış Hamamı, denizi ve güneşinin yanı sıra, çevre düzenlemesiyle de dikkat çeker. Plajın çevresi, çeşitli bitki türleri ile dolu ve bu reasonla, ziyaretçilerine doğal bir güzellik sunar. Ulamış Hamamı, Ege Bölgesi'nin iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklimi sahiptir. Ziyaretçiler, plajda güneşin tadını çıkarabilir, denize girebilir ve çevre düzenlemesinin güzelliğini keşfedebilir. Ulamış Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlar ve tatilcilerin keyifli anlar geçirmesine olanak tanır. Plajın yakınlarında, çeşitli restoranlar ve kafeler bulunmaktadır ve ziyaretçiler, bu mekanlarda yemek yiyebilir veya içecekler satın alabilir.
+Ulamış Hamamı, Seferihisar'ın merkezine yaklaşık olarak 5 kilometre uzaklıkta yer alır ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Ulamış Hamamı, denizi ve güneşinin yanı sıra, çevre düzenlemesiyle de dikkat çeker. Plajın çevresi, çeşitli bitki türleri ile dolu ve bu reasonla, ziyaretçilerine doğal bir güzellik sunar. Ulamış Hamamı, Ege Bölgesi'nin iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklimi sahiptir. Ziyaretçiler, plajda güneşin tadını çıkarabilir, denize girebilir ve çevre düzenlemesinin güzelliğini keşfedebilir. Ulamış Hamamı, özellikle yaz aylarında ziyaretçilerini ağırlar ve tatilcilerin keyifli anlar geçirmesine olanak tanır. Plajın yakınlarında, çeşitli restoranlar ve kafeler bulunmaktadır ve ziyaretçiler, bu mekanlarda yemek yiyebilir veya içecekler satın alabilir.
 
 ## Flora ve Fauna
 

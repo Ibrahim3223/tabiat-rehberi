@@ -1,7 +1,7 @@
 ---
 title: "Feridun Ahmet Paşa Türbesi"
 date: "2026-01-10T07:20:06.048Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391054"
 
 # Feridun Ahmet Paşa Türbesi
 
-Feridun Ahmet Paşa Türbesi, Eyüpsultan ilçesinde yer alan tarihi bir mekan olarak dikkat çeker. Bu mekan, Marmara Bölgesi'nin güzelliklerini ve tarihini bir arada sunar. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplar. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. Feridun Ahmet Paşa Türbesi, İstanbul'un tarihi açıdan önemli noktalarından biri olarak bilinir. Burada, geçmişin izlerini ve bugünün güzelliklerini bir arada keşfetme mümkündür.
+Feridun Ahmet Paşa Türbesi, Eyüpsultan ilçesinde yer alan tarihi bir mekan olarak dikkat çeker. Bu mekan, Marmara Bölgesi'nin güzelliklerini ve tarihini bir arada sunar. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunar. Feridun Ahmet Paşa Türbesi, İstanbul'un tarihi açıdan önemli noktalarından biri olarak bilinir. Burada, geçmişin izlerini ve bugünün güzelliklerini bir arada keşfetme mümkündür.
 
 ## Tarihçe
 

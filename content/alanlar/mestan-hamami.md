@@ -1,7 +1,7 @@
 ---
 title: "Mestan Hamamı"
 date: "2026-01-09T22:20:28.303Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738475"
 
 # Mestan Hamamı
 
-Mestan Hamamı, Seyhan/Adana'da yer alan ve Akdeniz Bölgesi'nin en güzel plajlarından biri olan bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir kumsal sunar. Mestan Hamamı, güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir yerdir. Plajın uzunluğu, genişliği ve derinliği, ziyaretçilerin rahatça güneşlenmelerine, yüzmelerine ve su sporları yapmalarına olanak tanır. Ayrıca, plajın etrafındaki restoranlar ve kafeler, ziyaretçilere yeme ve içecek seçeneği sunar.
+Mestan Hamamı, Seyhan/Adana'da yer alan ve Akdeniz Bölgesi'nin en güzel plajlarından biri olan bir destinasyondur. Mestan Hamamı, güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir yerdir. Plajın uzunluğu, genişliği ve derinliği, ziyaretçilerin rahatça güneşlenmelerine, yüzmelerine ve su sporları yapmalarına olanak tanır. Ayrıca, plajın etrafındaki restoranlar ve kafeler, ziyaretçilere yeme ve içecek seçeneği sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mestan Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Mestan Hamamı, Akdeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Plaj, Seyhan/Adana'da yer alır ve 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir kumsala sahiptir. Plajın etrafı, yeşilliklerle çevrili ve ziyaretçilere doğal bir güzelliği sunar. Mestan Hamamı, deniz suyu sıcaklığı ve temizliğiyle birlikte, ziyaretçilerin yüzme ve su sporları yapmasına olanak tanır. Plajın iklimi, Akdeniz iklimi özellikleri taşır ve ziyaretçilere sıcak ve güneşli bir hava sunar. Mestan Hamamı, çevresi ve doğası ile birlikte, ziyaretçilere güzel bir destinasyon sunar.
+Mestan Hamamı, Akdeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Plajın etrafı, yeşilliklerle çevrili ve ziyaretçilere doğal bir güzelliği sunar. Mestan Hamamı, deniz suyu sıcaklığı ve temizliğiyle birlikte, ziyaretçilerin yüzme ve su sporları yapmasına olanak tanır. Plajın iklimi, Akdeniz iklimi özellikleri taşır ve ziyaretçilere sıcak ve güneşli bir hava sunar. Mestan Hamamı, çevresi ve doğası ile birlikte, ziyaretçilere güzel bir destinasyon sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Mestan Hamamı, ziyaretçilere birçok olanak sunar. Plaj, geniş kumsalı, temi
 
 ## İlginç Bilgiler
 
-- Mestan Hamamı, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
 - Plajın etrafı, yeşilliklerle çevrili ve ziyaretçilere doğal bir güzelliği sunar.
 - Mestan Hamamı, deniz suyu sıcaklığı ve temizliğiyle birlikte, ziyaretçilerin yüzme ve su sporları yapmasına olanak tanır.
 - Plajın iklimi, Akdeniz iklimi özellikleri taşır ve ziyaretçilere sıcak ve güneşli bir hava sunar.

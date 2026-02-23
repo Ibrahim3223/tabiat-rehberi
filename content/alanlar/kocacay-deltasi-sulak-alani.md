@@ -22,7 +22,7 @@ wikidata_id: "Q108229013"
 
 # Kocaçay Deltası Sulak Alanı
 
-Kocaçay Deltası Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran bir cennet. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu sulak alan, yaban hayata ev sahipliği yapmasının yanı sıra, doğa severler için de önemli bir ziyaret noktası olarak dikkat çekiyor. Kocaçay Deltası Sulak Alanı, aynı zamanda bölgenin ekolojik dengesini koruma altına alan önemli bir doğal kaynak.
+Kocaçay Deltası Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran bir cennet. Bu sulak alan, yaban hayata ev sahipliği yapmasının yanı sıra, doğa severler için de önemli bir ziyaret noktası olarak dikkat çekiyor. Kocaçay Deltası Sulak Alanı, aynı zamanda bölgenin ekolojik dengesini koruma altına alan önemli bir doğal kaynak.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kocaçay Deltası Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca devam 
 
 ## Coğrafya
 
-Kocaçay Deltası Sulak Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bu sulak alan, coğrafi olarak 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi yapısı, sulak alanın oluşumuna ve ekosisteminin zenginleşmesine katkıda bulunmuştur. Kocaçay Deltası Sulak Alanı, çevreleyen toprakların verimliliği ve su kaynaklarının bolluğu ile dikkat çekiyor. Coğrafi konumu itibarıyla, sulak alanın iklimi, mevsimsel değişimlere tabi ve bu değişimler, bölgenin fauna ve florasını etkiliyor. Sulak alan, çevresi ile birlikte, bir bütün olarak düşünüldüğünde, ekosisteminin çeşitliliği ve zenginliği ortaya çıkıyor.
+Kocaçay Deltası Sulak Alanı, İç Anadolu Bölgesi'nde yer alıyor. Bölgenin coğrafi yapısı, sulak alanın oluşumuna ve ekosisteminin zenginleşmesine katkıda bulunmuştur. Kocaçay Deltası Sulak Alanı, çevreleyen toprakların verimliliği ve su kaynaklarının bolluğu ile dikkat çekiyor. Coğrafi konumu itibarıyla, sulak alanın iklimi, mevsimsel değişimlere tabi ve bu değişimler, bölgenin fauna ve florasını etkiliyor. Sulak alan, çevresi ile birlikte, bir bütün olarak düşünüldüğünde, ekosisteminin çeşitliliği ve zenginliği ortaya çıkıyor.
 
 ## Flora ve Fauna
 

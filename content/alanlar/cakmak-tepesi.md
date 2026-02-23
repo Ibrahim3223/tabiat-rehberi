@@ -29,7 +29,7 @@ wikidata_id: "Q34823203"
 
 # Çakmak Tepesi
 
-İç Anadolu Bölgesi'nin geniş ve verimli ovalarıyla çevrili Çakmak Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölge için önemli bir doğal merkez. Çakmak Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden muhteşem manzaralar izlenebiliyor. Çakmak Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine.
+İç Anadolu Bölgesi'nin geniş ve verimli ovalarıyla çevrili Çakmak Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor. Çakmak Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden muhteşem manzaralar izlenebiliyor. Çakmak Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 

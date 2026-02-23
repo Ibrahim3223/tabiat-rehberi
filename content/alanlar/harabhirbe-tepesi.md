@@ -28,7 +28,7 @@ wikidata_id: "Q31551184"
 
 # Harabhırbe Tepesi
 
-Mardin'in tarihi ve doğal güzelliklerini bir araya getiren Harabhırbe Tepesi, ziyaretçilerini bekliyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Mardin'in merkezine yakın konumuyla, ziyaretçiler için ulaşımı kolay bir nokta. Harabhırbe Tepesi, Mardin'in tarihi ve kültürel mirasının önemli bir parçasıdır. Tepenin eteklerinde ve çevresinde, tarihi yapılar ve kalıntılar bulunuyor. Bu tepenin etrafındaki manzara, Mardin'in coğrafi güzelliklerini gözler önüne seriyor.
+Mardin'in tarihi ve doğal güzelliklerini bir araya getiren Harabhırbe Tepesi, ziyaretçilerini bekliyor. Mardin'in merkezine yakın konumuyla, ziyaretçiler için ulaşımı kolay bir nokta. Harabhırbe Tepesi, Mardin'in tarihi ve kültürel mirasının önemli bir parçasıdır. Tepenin eteklerinde ve çevresinde, tarihi yapılar ve kalıntılar bulunuyor. Bu tepenin etrafındaki manzara, Mardin'in coğrafi güzelliklerini gözler önüne seriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Harabhırbe Tepesi, Mardin'in tarihi geçmişinin önemli bir parçası. Tepenin
 
 ## Coğrafya
 
-Harabhırbe Tepesi, Mardin'in coğrafi güzelliklerini gözler önüne seren bir nokta. Tepenin etrafındaki manzara, Mardin'in coğrafi özelliklerini yansıtıyor. Bu tepe, Mardin'in merkezine yakın bir konumda bulunuyor ve ziyaretçiler için ulaşımı kolay bir nokta. Harabhırbe Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin yüksekliği, Mardin'in coğrafi yapısını oluşturan dağlık ve engebeli arazinin bir parçasıdır. Bu bölgede, çeşitli bitkiler ve ağaçlar yetişiyor ve tepenin etrafındaki manzara, Mardin'in coğrafi güzelliklerini gözler önüne seriyor. Tepenin iklimi, Mardin'in genel iklimine benzer ve ziyaretçiler, bu bölgede, dört mevsimi yaşayabiliyor. Harabhırbe Tepesi, Mardin'in coğrafi güzelliklerini ve tarihi önemini bir araya getiren bir nokta.
+Harabhırbe Tepesi, Mardin'in coğrafi güzelliklerini gözler önüne seren bir nokta. Tepenin etrafındaki manzara, Mardin'in coğrafi özelliklerini yansıtıyor. Bu tepe, Mardin'in merkezine yakın bir konumda bulunuyor ve ziyaretçiler için ulaşımı kolay bir nokta. Tepenin yüksekliği, Mardin'in coğrafi yapısını oluşturan dağlık ve engebeli arazinin bir parçasıdır. Bu bölgede, çeşitli bitkiler ve ağaçlar yetişiyor ve tepenin etrafındaki manzara, Mardin'in coğrafi güzelliklerini gözler önüne seriyor. Tepenin iklimi, Mardin'in genel iklimine benzer ve ziyaretçiler, bu bölgede, dört mevsimi yaşayabiliyor. Harabhırbe Tepesi, Mardin'in coğrafi güzelliklerini ve tarihi önemini bir araya getiren bir nokta.
 
 ## Flora ve Fauna
 

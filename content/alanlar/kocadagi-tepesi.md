@@ -28,7 +28,7 @@ wikidata_id: "Q31388698"
 
 # Kocadağı Tepesi
 
-Kocadağı Tepesi, Muğla ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Kocadağı Tepesi, özellikle doğa severler ve trekking yapanlar için önemli bir destinasyondur. Tepenin etrafında yer alan ormanlar ve doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar.
+Kocadağı Tepesi, Muğla ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepedir. Kocadağı Tepesi, özellikle doğa severler ve trekking yapanlar için önemli bir destinasyondur. Tepenin etrafında yer alan ormanlar ve doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

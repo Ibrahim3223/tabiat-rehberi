@@ -1,7 +1,7 @@
 ---
 title: "Musiki Muallim Mektebi Müzik Müzesi"
 date: "2026-01-10T15:13:49.048Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q133825478"
 
 # Musiki Muallim Mektebi Müzik Müzesi
 
-Musiki Muallim Mektebi Müzik Müzesi, Ankara'nın Mamak ilçesinde yer alan bir müzik müzesidir. İç Anadolu Bölgesi'nin müzik kültürünü yansıtan bu müze, müzikseverler için önemli bir merkezdir. 140 hektarlık bir alanı kaplayan müze, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde kurulmuştur. Müzenin koleksiyonunda, müzik aletleri, müzik notaları, müzik tarihi ile ilgili belgeler ve eşyalar bulunmaktadır. Müze, müzik eğitimi ve müzik tarihi hakkında bilgi edinmek isteyenler için bir kaynak merkezi olarak hizmet vermektedir.
+Musiki Muallim Mektebi Müzik Müzesi, Ankara'nın Mamak ilçesinde yer alan bir müzik müzesidir. İç Anadolu Bölgesi'nin müzik kültürünü yansıtan bu müze, müzikseverler için önemli bir merkezdir. Müzenin koleksiyonunda, müzik aletleri, müzik notaları, müzik tarihi ile ilgili belgeler ve eşyalar bulunmaktadır. Müze, müzik eğitimi ve müzik tarihi hakkında bilgi edinmek isteyenler için bir kaynak merkezi olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Musiki Muallim Mektebi Müzik Müzesi, müzik eğitimi ve müzik tarihi açısı
 
 ## Coğrafya
 
-Musiki Muallim Mektebi Müzik Müzesi, Ankara'nın Mamak ilçesinde yer alan bir müzik müzesidir. Müze, İç Anadolu Bölgesi'nin müzik kültürünü yansıtan bir merkez olarak hizmet vermektedir. Müzenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Müze, müzik aletleri, müzik notaları, müzik tarihi ile ilgili belgeler ve eşyalar olmak üzere zengin bir koleksiyona sahiptir. Müzenin bulunduğu bölge, müzik eğitimi ve müzik tarihi açısından önemli bir geçmişe sahiptir. Müze, müzikseverler için bir eğitim ve kültür merkezi olarak hizmet vermekte ve müzikseverlere müzik tarihi hakkında bilgi edinme fırsatı sunmaktadır. Müzenin çevresinde, çeşitli müzik aletleri satan dükkanlar ve müzik eğitimi veren kurumlar bulunmaktadır. Müze, müzikseverler için önemli bir merkez olarak kabul edilmektedir.
+Musiki Muallim Mektebi Müzik Müzesi, Ankara'nın Mamak ilçesinde yer alan bir müzik müzesidir. Müze, İç Anadolu Bölgesi'nin müzik kültürünü yansıtan bir merkez olarak hizmet vermektedir. Müze, müzik aletleri, müzik notaları, müzik tarihi ile ilgili belgeler ve eşyalar olmak üzere zengin bir koleksiyona sahiptir. Müzenin bulunduğu bölge, müzik eğitimi ve müzik tarihi açısından önemli bir geçmişe sahiptir. Müze, müzikseverler için bir eğitim ve kültür merkezi olarak hizmet vermekte ve müzikseverlere müzik tarihi hakkında bilgi edinme fırsatı sunmaktadır. Müzenin çevresinde, çeşitli müzik aletleri satan dükkanlar ve müzik eğitimi veren kurumlar bulunmaktadır. Müze, müzikseverler için önemli bir merkez olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 

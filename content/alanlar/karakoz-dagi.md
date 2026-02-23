@@ -32,9 +32,9 @@ Antalya'nın büyüleyici manzaralarına ev sahipliği yapan Karakoz Dağı, Tü
 
 ## Tarihçe
 
-Karakoz Dağı, Antalya bölgesinin zengin tarihsel dokusuna sahip bir doğal alan olarak karşımıza çıkıyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış; Likya, Roma ve Selçuklu gibi medeniyetler, Antalya'nın coğrafi konumundan yararlanarak ticaret ve kültür merkezleri kurmuşlardır. 
+Karakoz Dağı, Antalya bölgesinin zengin tarihsel dokusuna sahip bir doğal alan olarak karşımıza çıkıyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış; Likya, Roma ve Selçuklu gibi medeniyetler, Antalya'nın coğrafi konumundan yararlanarak ticaret ve kültür merkezleri kurmuşlardır.
 
-Doğal güzellikleri ve stratejik konumuyla dikkat çeken Karakoz Dağı, insan yerleşimlerinin ve faaliyetlerinin önemli bir parçası olmuştur. Yaylacılık ve hayvancılık, bu bölgede uzun yıllardır sürdürülen geleneksel faaliyetler arasında yer alır. Ayrıca, tarihi ticaret yollarının da bu bölge üzerinden geçtiği bilinmektedir. 
+Doğal güzellikleri ve stratejik konumuyla dikkat çeken Karakoz Dağı, insan yerleşimlerinin ve faaliyetlerinin önemli bir parçası olmuştur. Yaylacılık ve hayvancılık, bu bölgede uzun yıllardır sürdürülen geleneksel faaliyetler arasında yer alır. Ayrıca, tarihi ticaret yollarının da bu bölge üzerinden geçtiği bilinmektedir.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturur. İnsanların doğayla olan ilişkisi, bu alanların korunmasına ve gelecek nesiller için saklanmasına büyük önem verir. Karakoz Dağı, Antalya'nın doğal ve tarihsel zenginliklerinin bir temsilcisi olarak, ziyaretçilerini bu bölgenin derin tarihine ve kültürel çeşitliliğine davet ediyor.
 
@@ -50,7 +50,7 @@ Karakoz Dağı, çevresindeki alanlar ile güçlü bir ekosistem bağı kurmakta
 
 ## Flora ve Fauna
 
-Karakoz Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açıyor ve dağ yamaçlarında alpin flora ortaya çıkıyor. 
+Karakoz Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açıyor ve dağ yamaçlarında alpin flora ortaya çıkıyor.
 
 Bitki örtüsünün hakim türü, kuraklığa dayanıklı maki türleridir. Bu bitkiler, dağ ekosisteminin yükseklik zonlarına uyum sağlamıştır. Dağ hayvanları da bu bitki örtüsüne bağımlıdır. Kaya yamaçlarında yaşayan memeliler, bitki örtüsünden beslenirken, kuşlar da göç ettikleri zaman dağların yükseklik zonlarını kullanıyor.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31555841"
 
 # Diyarekurik Tepesi
 
-Diyarekurik Tepesi, Mardin'in históri ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Tarihi geçmişi, zengin flora ve fauna çeşitliliği ile ziyaretçilere benzersiz bir deneyim sunuyor. Tepenin eteklerinde yer alan yerleşim yerleri, bölgeye özgü mimari örnekleri ile dikkat çekiyor.
+Diyarekurik Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Tarihi geçmişi, zengin flora ve fauna çeşitliliği ile ziyaretçilere benzersiz bir deneyim sunuyor. Tepenin eteklerinde yer alan yerleşim yerleri, bölgeye özgü mimari örnekleri ile dikkat çekiyor.
 
 ## Tarihçe
 

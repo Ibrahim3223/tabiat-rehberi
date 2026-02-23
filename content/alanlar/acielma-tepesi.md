@@ -28,7 +28,7 @@ wikidata_id: "Q31533886"
 
 # Acıelma Tepesi
 
-Acıelma Tepesi, Tunceli ilinin doğal güzellikleriyle ünlü bir bölgesinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alanda doğayla iç içe olma fırsatı sunuyor. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna foundan oluşmuş bir ekosistem mevcut. Acıelma Tepesi, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmış ve bu nedenle tarihi öneme sahip.
+Acıelma Tepesi, Tunceli ilinin doğal güzellikleriyle ünlü bir bölgesinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alan olarak dikkat çekiyor. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna foundan oluşmuş bir ekosistem mevcut. Acıelma Tepesi, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmış ve bu nedenle tarihi öneme sahip.
 
 ## Tarihçe
 

@@ -65,4 +65,4 @@ Cimil Dağı, Erzurum'un doğal güzelliklerinin başında geliyor. Sabah erken 
 - Cimil Dağı, Palandöken dağından sonra Erzurum'un en yüksek ikinci dağıdır.
 - Dağ, kaya ve trekking için popüler bir destinasyondur.
 - Cimil Dağı, Türkiye'nin Doğu Anadolu Bölgesi'nde bulunur.
-- Dağın eteklerinde, histórik significance sahip Oltu ilçesi yer alır.
+- Dağın eteklerinde, tarihi significance sahip Oltu ilçesi yer alır.

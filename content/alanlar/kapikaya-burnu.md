@@ -50,7 +50,7 @@ Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Kapıkaya Burnu, bir ş
 
 Kapıkaya Burnu, Çanakkale'nin eşsiz bir doğa harikasıdır. Bu 1200 hektarlık kuş cenneti, geçiş ikliminin etkisi altında karma ormanlarla kaplıdır. İlkbaharda, çiçeklerin rengarenk açtığı bu alan, sonbaharda ise göçmen kuşların konakladığı önemli bir rota haline gelir.
 
-Bitki örtüsünü oluşturan geniş yapraklı ağaçlar ve çalılıklar, yaban hayatının yaşamsal kaynaklarını sağlar. Mevsimsel değişimlerle birlikte, bu bitkiler farklı türlerin beslenme ve barınma ihtiyaçlarını karşılar. 
+Bitki örtüsünü oluşturan geniş yapraklı ağaçlar ve çalılıklar, yaban hayatının yaşamsal kaynaklarını sağlar. Mevsimsel değişimlerle birlikte, bu bitkiler farklı türlerin beslenme ve barınma ihtiyaçlarını karşılar.
 
 Kuşlar, memeliler ve sürüngenler bu ekosistemin temel bileşenleridir. Göçmen kuşlar, ilkbahar ve sonbahar aylarında Kapıkaya Burnu'nu ziyaret ederken, yerli türler yıl boyunca bu alanlarda yaşamlarını sürdürür. Ekolojik değerini koruma altına almak, bu hassas dengenin devamını sağlar.
 

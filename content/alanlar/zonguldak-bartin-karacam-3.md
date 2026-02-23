@@ -22,7 +22,7 @@ wikidata_id: "Q108227963"
 
 # Zonguldak-Bartin Karacam 3
 
-Karadeniz Bölgesi'nin zengin doğal güzelliklerini barındıran Zonguldak-Bartin Karacam 3 milli parkı, yaklaşık 140 hektarlık bir alanı kaplar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık hava deneyimi sunar. Doğa severler için bir cennet olan bu milli park, çeşitli bitki türleri ve fauna ile dolu. Burada, yaban hayatının çeşitliliği ve doğal güzellikler, ziyaretçileri büyüler. Zonguldak ilinin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Karacam 3, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de sunar.
+Karadeniz Bölgesi'nin zengin doğal güzelliklerini barındıran Zonguldak-Bartin Karacam 3 milli parkı, yaklaşık 140 hektarlık bir alanı kaplar. Doğa severler için bir cennet olan bu milli park, çeşitli bitki türleri ve fauna ile dolu. Burada, yaban hayatının çeşitliliği ve doğal güzellikler, ziyaretçileri büyüler. Zonguldak ilinin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Karacam 3, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de sunar.
 
 ## Tarihçe
 

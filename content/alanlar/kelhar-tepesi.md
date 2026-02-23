@@ -28,7 +28,7 @@ wikidata_id: "Q31515814"
 
 # Kelhar Tepesi
 
-Kelhar Tepesi, Bitlis ilinin gözde doğal güzelliklerinden biri olarak bilinir. Yaklaşık 140 hektarlık alanı ile geniş bir yeşil alan sunar. Bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bölge, hem doğa severler hem de tarihi mekanları keşfetmek isteyenler için ideal bir destinasyondur. Kelhar Tepesi, ziyaretçilerini doğanın güzelliği ve tarihi ile büyüler.
+Kelhar Tepesi, Bitlis ilinin gözde doğal güzelliklerinden biri olarak bilinir. Yaklaşık 140 hektarlık alanı ile geniş bir yeşil alan sunar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bölge, hem doğa severler hem de tarihi mekanları keşfetmek isteyenler için ideal bir destinasyondur. Kelhar Tepesi, ziyaretçilerini doğanın güzelliği ve tarihi ile büyüler.
 
 ## Tarihçe
 

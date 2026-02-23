@@ -29,7 +29,7 @@ wikidata_id: "Q31388710"
 
 # Şahin Tepesi
 
-Şahin Tepesi, Muğla'nın görkemli bir noktası olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi geçmişi ve zengin doğası ile bekliyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin üstünden ise Muğla'nın güzel manzarasını izleme mümkün. Şahin Tepesi, doğa severlerin ve tarih meraklılarının ziyaret etmesi gereken bir yer olarak görünüyor.
+Şahin Tepesi, Muğla'nın görkemli bir noktası olarak karşımıza çıkıyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin üstünden ise Muğla'nın güzel manzarasını izleme mümkün. Şahin Tepesi, doğa severlerin ve tarih meraklılarının ziyaret etmesi gereken bir yer olarak görünüyor.
 
 ## Tarihçe
 

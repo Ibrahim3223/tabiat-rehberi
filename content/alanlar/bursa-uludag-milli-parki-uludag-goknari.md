@@ -22,7 +22,7 @@ wikidata_id: "Q108227290"
 
 # Bursa-Uludag Milli Parki Uludag Goknari
 
-Bursa-Uludag Milli Parki Uludag Goknari, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bir alanı kaplayan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Parkın konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi zenginlikleri keşfetme fırsatı sunuyor. Ziyaretçiler, bu milli parkta çeşitli bitki türleri ve zengin fauna ile karşılaşabiliyorlar. Parkın hikayesi, yüzyıllar boyunca şekillenmiş ve bugün ziyaretçilere eşsiz bir deneyim sunuyor.
+Bursa-Uludag Milli Parki Uludag Goknari, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Parkın konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi zenginlikleri keşfetme fırsatı sunuyor. Ziyaretçiler, bu milli parkta çeşitli bitki türleri ve zengin fauna ile karşılaşabiliyorlar. Parkın hikayesi, yüzyıllar boyunca şekillenmiş ve bugün ziyaretçilere eşsiz bir deneyim sunuyor.
 
 ## Tarihçe
 

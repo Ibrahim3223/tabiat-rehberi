@@ -22,7 +22,7 @@ wikidata_id: "Q108227793"
 
 # Kastamonu-Cide-Kizilcasu Dogu Kayini
 
-Kastamonu-Cide-Kizilcasu Dogu Kayini milli parkı, Karadeniz Bölgesi'nin doğal güzellikleriyle dolu bir alan olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal kaynaklarından biri. Bu milli park, ziyaretçilerini doğanın güzellikleriyle baş başa bırakmayı hedefliyor. Doğal güzellikleri, flora ve faunası ile birlikte bu milli park, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Kastamonu-Cide-Kizilcasu Dogu Kayini milli parkı, Karadeniz Bölgesi'nin doğal güzellikleriyle dolu bir alan olarak karşımıza çıkıyor. Bu milli park, ziyaretçilerini doğanın güzellikleriyle baş başa bırakmayı hedefliyor.
 
 ## Tarihçe
 

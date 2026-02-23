@@ -1,7 +1,7 @@
 ---
 title: "Ara Güler Müzesi"
 date: "2026-01-10T15:21:56.589Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -23,7 +23,7 @@ wikidata_id: "Q56242714"
 
 # Ara Güler Müzesi
 
-Ara Güler Müzesi, İstanbul'un merkezinde, yaklaşık 140 hektarlık bir alanda, ziyaretçilerini bekleyen bir kültür ve sanat merkezidir. Bu müzenin içerisinde, Ara Güler'in hayatını ve eserlerini yakından tanıyabilirsiniz. Ara Güler, Türk fotoğraf sanatının önemli isimlerinden biri olarak bilinir ve eserleri, Türkiye'nin eşsiz güzelliğini gözler önüne serer. Ara Güler Müzesi, yaklaşık 200 futbol sahası büyüklüğünde bir alana kurulmuş ve içerisinde çeşitli sergi alanları, kütüphane ve eğitim odaları bulunmaktadır.
+Ara Güler Müzesi, İstanbul'un merkezinde, yaklaşık 140 hektarlık bir alanda, ziyaretçilerini bekleyen bir kültür ve sanat merkezidir. Bu müzenin içerisinde, Ara Güler'in hayatını ve eserlerini yakından tanıyabilirsiniz. Ara Güler, Türk fotoğraf sanatının önemli isimlerinden biri olarak bilinir ve eserleri, Türkiye'nin eşsiz güzelliğini gözler önüne serer.
 
 ## Tarihçe
 

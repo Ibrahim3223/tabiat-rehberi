@@ -28,7 +28,7 @@ wikidata_id: "Q34828268"
 
 # Çamurluyurt Tepesi
 
-Erzurum'un doğusunda yer alan Çamurluyurt Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Çamurluyurt Tepesi, zengin tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor.
+Erzurum'un doğusunda yer alan Çamurluyurt Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Çamurluyurt Tepesi, zengin tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386808"
 
 # Girikulu Tepesi
 
-Girikulu Tepesi, Siirt ilinin Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Girikulu Tepesi, tarihi geçmişi ve zengin florası ile dikkat çekiyor. Bu tepe, doğa severler ve tarih meraklıları için önemli bir destinasyon.
+Girikulu Tepesi, Siirt ilinin Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Girikulu Tepesi, tarihi geçmişi ve zengin florası ile dikkat çekiyor. Bu tepe, doğa severler ve tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Girikulu Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar boyu
 
 ## Coğrafya
 
-Girikulu Tepesi, Siirt ilinin Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Girikulu Tepesi, coğrafi konumu itibari ile dikkat çekiyor. Bu tepe, çevre ile uyumlu bir yapıya sahip. Girikulu Tepesi, coğrafi konumu ve yapısı ile önemli bir destinasyon. Bu tepe, iklimi ve çevresi ile ilgili birçok bilgi içeriyor.
+Girikulu Tepesi, Siirt ilinin Güneydoğu Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Girikulu Tepesi, coğrafi konumu itibari ile dikkat çekiyor. Bu tepe, çevre ile uyumlu bir yapıya sahip. Girikulu Tepesi, coğrafi konumu ve yapısı ile önemli bir destinasyon. Bu tepe, iklimi ve çevresi ile ilgili birçok bilgi içeriyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Girikulu Tepesi, doğa severler ve tarih meraklıları için önemli bir destina
 ## İlginç Bilgiler
 
 - Girikulu Tepesi, 140 hektarlık bir alanı kaplıyor.
-- Girikulu Tepesi, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Girikulu Tepesi, tarihi geçmişi ile dikkat çekiyor.
 - Girikulu Tepesi, zengin florası ile dikkat çekiyor.
 - Girikulu Tepesi, fauna çeşitliliği ile dikkat çekiyor.

@@ -29,7 +29,7 @@ wikidata_id: "Q49342959"
 
 # Kasrık Boğazı
 
-Şırnak'ın uzak köşesinde, doğanın sessiz bir şekilde yarattığı bir harika var: Kasrık Boğazı. Bu kanyon, Türkiye'nin en uzak bölgelerinden birinde, Şırnak ilinin sınırları içinde yer alıyor. Kasrık Boğazı, coğrafi olarak ilin güneydoğusunda bulunan bir bölgede bulunuyor. 
+Şırnak'ın uzak köşesinde, doğanın sessiz bir şekilde yarattığı bir harika var: Kasrık Boğazı. Bu kanyon, Türkiye'nin en uzak bölgelerinden birinde, Şırnak ilinin sınırları içinde yer alıyor. Kasrık Boğazı, coğrafi olarak ilin güneydoğusunda bulunan bir bölgede bulunuyor.
 Doğal güzellikleri keşfetmek isteyenler için bir hazine olan bu bölge, ziyaretçilerini kendine has bir atmosferle karşılıyor.
 
 ## Tarihçe
@@ -54,7 +54,7 @@ Kasrık Boğazı, Şırnak'ta yer alan bir kanyon olarak, yarı kurak iklimin ha
 
 Bitki örtüsünde, ilkbahar aylarında çiçeklenen çok yıllık otsu bitkiler ve dikenli çalılar hakim. Step ekolojisinin tipik bitkileri, kurak koşullara adapte olmuş ve suyun az olduğu dönemlerde hayatta kalmayı başarmış türler. Mevsimsel değişimlerle birlikte, sonbaharda bu bölgede göç eden kuş türleri de görülebiliyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Kanyonun sarp duvarlarında ve çevresindeki step alanlarında, çeşitli yaban hayvanları yaşamını sürdürüyor. Bu ekosistemde, av-avcı ilişkileri ve besin zinciri önemli bir rol oynuyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Kanyonun sarp duvarlarında ve çevresindeki step alanlarında, çeşitli yaban hayvanları yaşamını sürdürüyor. Bu ekosistemde, av-avcı ilişkileri ve besin zinciri önemli bir rol oynuyor.
 Kasrık Boğazı'nın ekolojik değeri, bu tür yarı kurak bölgelerde bulunan endemik türlerin korunması açısından büyük önem taşıyor.
 
 ## Ziyaret Bilgileri

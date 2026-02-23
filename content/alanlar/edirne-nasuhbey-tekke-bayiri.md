@@ -1,7 +1,7 @@
 ---
 title: "EDİRNE NASUHBEY TEKKE BAYIRI"
 date: "2026-01-09T21:50:25.048Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228902"
 
 # EDİRNE NASUHBEY TEKKE BAYIRI
 
-Edirne Nasuhbey Tekke Bayırı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bölgenin coğrafi yapısı, ziyaretçilere hem gezi hem de doğa severler için birçok olanak sunuyor. Edirne Nasuhbey Tekke Bayırı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+Edirne Nasuhbey Tekke Bayırı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. Bölgenin coğrafi yapısı, ziyaretçilere hem gezi hem de doğa severler için birçok olanak sunuyor. Edirne Nasuhbey Tekke Bayırı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

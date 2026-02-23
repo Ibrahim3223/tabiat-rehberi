@@ -32,7 +32,7 @@ Hakkari'nin dağlık arazisinde yer alan İzme Dağı, coğrafi güzelliği ve z
 
 ## Tarihçe
 
-İzme Dağı, Hakkari'nin büyüleyici coğrafyasında yer alan bir doğal güzellik. Bu bölge, tarihin sâu sayfalarında kaybolmuş uygarlıkların izlerini taşır. Medler, Persler, Romalılar ve Osmanlılar gibi birçok medeniyet, Hakkari'nin stratejik konumundan yararlanarak burada yaşamıştır. Bu topraklar, tarihin akışını şekillendiren önemli ticaret yollarının kesişme noktasında bulunmaktaydı.
+İzme Dağı, Hakkari'nin büyüleyici coğrafyasında yer alan bir doğal güzellik. Bu bölge, tarihin derin sayfalarında kaybolmuş uygarlıkların izlerini taşır. Medler, Persler, Romalılar ve Osmanlılar gibi birçok medeniyet, Hakkari'nin stratejik konumundan yararlanarak burada yaşamıştır. Bu topraklar, tarihin akışını şekillendiren önemli ticaret yollarının kesişme noktasında bulunmaktaydı.
 
 Türkiye'de bulunan doğal alanlar, yalnızca güzellikleriyle değil, aynı zamanda tarihsel önemiyle de dikkat çeker. Bu alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmelerine olanak tanıyan ekosistemleri barındırır. İnsanların bu doğal güzelliklerle kurdukları ilişki, yaylacılık, hayvancılık ve ticaret gibi faaliyetlerle şekillenmiştir. İzme Dağı da, bölgede yaşayan halkın yaşantısını etkileyen önemli bir coğrafi oluşumdur. Bu dağ, yalnızca doğal güzelliği ile değil, aynı zamanda tarihsel ve kültürel önemini korur.
 

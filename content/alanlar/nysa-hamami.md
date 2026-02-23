@@ -1,7 +1,7 @@
 ---
 title: "Nysa Hamamı"
 date: "2026-01-09T23:19:12.454Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739024"
 
 # Nysa Hamamı
 
-Nysa Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak kabul edilmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet gibidir. Aydın'ın Sultanhisar ilçesinde bulunan Nysa Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini çekmektedir. Bu bölge, hem tatil hem de doğa yürüyüşü için ideal bir yer olarak görünmektedir.
+Nysa Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak kabul edilmektedir. Aydın'ın Sultanhisar ilçesinde bulunan Nysa Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini çekmektedir. Bu bölge, hem tatil hem de doğa yürüyüşü için ideal bir yer olarak görünmektedir.
 
 ## Tarihçe
 

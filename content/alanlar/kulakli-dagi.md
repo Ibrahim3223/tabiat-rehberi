@@ -47,7 +47,7 @@ Fiziksel olarak bakıldığında, Kulaklı Dağı'nın boyutları ve şekli, det
 
 Mevsimsel özellikler açısından, Doğu Anadolu Bölgesi'nin genel iklim karakteri, Kulaklı Dağı'nın çevresinde de hissedilmektedir. Soğuk kışlar ve serin yazlar, bölgenin iklimini şekillendirmektedir. Hava durumu, mevsimlere göre değişkenlik göstermektedir. Örneğin, kış aylarında kar yağışı, dağların yüksekliklerinde önemli bir etkiye sahiptir.
 
-Bölgenin ekosistem bağlantıları ve su kaynakları, Kulaklı Dağı'nın çevresel ilişkilerini belirlemektedir. Komşu alanlar, doğal kaynaklar ve ekosistemlerin birbiriyle olan bağlantıları, bu dağın çevresinde önemli bir role sahiptir. Örneğin, Monaco'nun yarısı kadar bir alanı kaplayan geniş ovalar, su kaynaklarının dağılımını etkilemektedir. Bu bağlantılar, bölgenin ekolojik dengesini korumak açısından önemlidir.
+Bölgenin ekosistem bağlantıları ve su kaynakları, Kulaklı Dağı'nın çevresel ilişkilerini belirlemektedir. Komşu alanlar, doğal kaynaklar ve ekosistemlerin birbiriyle olan bağlantıları, bu dağın çevresinde önemli bir role sahiptir. Örneğin, Monaco'nun yarısı kadar bir alanı kaplayan geniş ovalar, su kaynaklarının dağılımını etkilemektedir.
 
 ## Flora ve Fauna
 

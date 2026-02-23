@@ -28,7 +28,7 @@ wikidata_id: "Q31387416"
 
 # Tırtım Tepesi
 
-Tırtım Tepesi, Şanlıurfa'nın güneyinde yer alan ve bölgeye hakim bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevredeki diğer tepelerden yüksekliğiyle dikkat çekiyor. Bu doğal güzellik, ziyaretçilerine geniş bir manzara sunuyor ve bölgenin tarihi geçmişi hakkında fikir veriyor. Tırtım Tepesi, bölgede yaşayan halk için önemli bir nokta ve çevresindeki yerleşim yerleri, bu tepeye olan yakınlıklarıyla biliniyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel yemeklerin tadını çıkarma ve bölge kültürünü öğrenme fırsatı sunuyor.
+Tırtım Tepesi, Şanlıurfa'nın güneyinde yer alan ve bölgeye hakim bir tepe. Bu doğal güzellik, ziyaretçilerine geniş bir manzara sunuyor ve bölgenin tarihi geçmişi hakkında fikir veriyor. Tırtım Tepesi, bölgede yaşayan halk için önemli bir nokta ve çevresindeki yerleşim yerleri, bu tepeye olan yakınlıklarıyla biliniyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel yemeklerin tadını çıkarma ve bölge kültürünü öğrenme fırsatı sunuyor.
 
 ## Tarihçe
 

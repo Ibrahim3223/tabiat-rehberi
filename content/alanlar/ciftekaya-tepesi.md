@@ -29,7 +29,7 @@ wikidata_id: "Q34829097"
 
 # Çiftekaya Tepesi
 
-Bursa'nın Marmara Bölgesi'nde yer alan Çiftekaya Tepesi, yeşillikler arasında gizlenen bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte bir alan, ziyaretçilere geniş bir açık alan sunuyor. Çiftekaya Tepesi, doğa severlerin ve yürüyüş tutkunlarının ziyaret ettiği bir yer olarak biliniyor. Bu tepe, Bursa'nın en yüksek noktalarından biri olarak dikkat çekiyor ve ziyaretçilere muhteşem manzaralar sunuyor.
+Bursa'nın Marmara Bölgesi'nde yer alan Çiftekaya Tepesi, yeşillikler arasında gizlenen bir doğa harikasıdır. Çiftekaya Tepesi, doğa severlerin ve yürüyüş tutkunlarının ziyaret ettiği bir yer olarak biliniyor. Bu tepe, Bursa'nın en yüksek noktalarından biri olarak dikkat çekiyor ve ziyaretçilere muhteşem manzaralar sunuyor.
 
 ## Tarihçe
 

@@ -33,7 +33,7 @@ Kahramanmaraş'ın dağlık bölgesinde yer alan Berit Dağı, şehrin doğal g�
 
 ## Tarihçe
 
-Berit Dağı, Kahramanmaraş'ın doğal güzelliklerini barındıran önemli bir bölgedir. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların yaşadığı bir coğrafyada yer alır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu topraklarda iz bırakmışlardır. 
+Berit Dağı, Kahramanmaraş'ın doğal güzelliklerini barındıran önemli bir bölgedir. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların yaşadığı bir coğrafyada yer alır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu topraklarda iz bırakmışlardır.
 
 Türkiye'de doğal alanlar, tarihsel olarak önemli bir role sahiptir. Bu bölgeler, sadece doğal güzellikleriyle değil, aynı zamanda insanların yaşamlarını sürdürdükleri, hayvancılık ve yaylacılık gibi faaliyetlerle geçimlerini sağladıkları yerler olarak bilinir. Berit Dağı da bu bağlamda, bölgenin kültürel ve ekonomik yapısına katkıda bulunan bir alandır.
 

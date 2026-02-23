@@ -28,7 +28,7 @@ wikidata_id: "Q31562697"
 
 # Mahiye Tepesi
 
-Mahiye Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini bekleyen bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşarak doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Mahiye Tepesi, ziyaretçilerinehem dinlenmek hem de doğayı keşfetmek için olanaklar sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor.
+Mahiye Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini bekleyen bir doğa harikasıdır. Mahiye Tepesi, ziyaretçilerinehem dinlenmek hem de doğayı keşfetmek için olanaklar sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mahiye Tepesi, tarihi geçmişiyle dikkat çekiyor. Yüzyıllar boyunca farklı 
 
 ## Coğrafya
 
-Mahiye Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle oldukça dikkat çekici. Tepenin etrafında geniş otlaklar ve ormanlık alanlar bulunması, burayı doğa severler için bir cennet haline getiriyor. Mahiye Tepesi, yaklaşık 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve çevresindeki coğrafi yapı, burayı manzara açısından oldukça zengin bir noktaya dönüştürüyor. Ziyaretçiler, tepeye çıkarak Ankara'nın ve çevresinin muhteşem manzarasını izleme fırsatı buluyor. Mahiye Tepesi, coğrafi olarak da önemli bir nokta olarak karşımıza çıkıyor.
+Mahiye Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle oldukça dikkat çekici. Tepenin etrafında geniş otlaklar ve ormanlık alanlar bulunması, burayı doğa severler için bir cennet haline getiriyor. Tepenin yüksekliği ve çevresindeki coğrafi yapı, burayı manzara açısından oldukça zengin bir noktaya dönüştürüyor. Ziyaretçiler, tepeye çıkarak Ankara'nın ve çevresinin muhteşem manzarasını izleme fırsatı buluyor. Mahiye Tepesi, coğrafi olarak da önemli bir nokta olarak karşımıza çıkıyor.
 
 ## Flora ve Fauna
 

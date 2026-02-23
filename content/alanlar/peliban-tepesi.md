@@ -28,7 +28,7 @@ wikidata_id: "Q31386803"
 
 # Peliban Tepesi
 
-Peliban Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak Siirt ilinin önemli bir turizm merkezi konumundadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türünü barındırmaktadır. Peliban Tepesi, ziyaretçilerine hem doğal güzellikleri hem de zengin tarihi geçmişi ile unutulmaz bir deneyim sunmaktadır. Bu tepenin eteklerinde kurulan köyler, yüzyıllar boyunca burada yaşayan insanların geleneksel yaşam tarzını yansıtmaktadır. Peliban Tepesi, doğa severlerin ve tarih meraklılarının ziyaret etmesi gereken önemli bir destinasyon olarak dikkat çekmektedir.
+Peliban Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri olarak Siirt ilinin önemli bir turizm merkezi konumundadır. Peliban Tepesi, ziyaretçilerine hem doğal güzellikleri hem de zengin tarihi geçmişi ile unutulmaz bir deneyim sunmaktadır. Bu tepenin eteklerinde kurulan köyler, yüzyıllar boyunca burada yaşayan insanların geleneksel yaşam tarzını yansıtmaktadır. Peliban Tepesi, doğa severlerin ve tarih meraklılarının ziyaret etmesi gereken önemli bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 

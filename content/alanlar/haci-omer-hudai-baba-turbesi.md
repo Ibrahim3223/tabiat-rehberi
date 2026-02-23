@@ -1,7 +1,7 @@
 ---
 title: "Hacı Ömer Hüdai Baba Türbesi"
 date: "2026-01-10T07:54:39.015Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391334"
 
 # Hacı Ömer Hüdai Baba Türbesi
 
-Elazığ'ın merkezinde yer alan Hacı Ömer Hüdai Baba Türbesi, şehrin en önemli tarihi ve dini yapılarından biri olarak kabul ediliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleri ile kendisine çekiyor. Türbe, Hacı Ömer Hüdai Baba'nın mezarının bulunduğu yer olarak biliniyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Elazığ'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için Hacı Ömer Hüdai Baba Türbesi, önemli bir durak olarak görülüyor.
+Elazığ'ın merkezinde yer alan Hacı Ömer Hüdai Baba Türbesi, şehrin en önemli tarihi ve dini yapılarından biri olarak kabul ediliyor. Türbe, Hacı Ömer Hüdai Baba'nın mezarının bulunduğu yer olarak biliniyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Elazığ'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için Hacı Ömer Hüdai Baba Türbesi, önemli bir durak olarak görülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hacı Ömer Hüdai Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine day
 
 ## Coğrafya
 
-Hacı Ömer Hüdai Baba Türbesi, Elazığ'ın merkezinde yer alıyor ve şehrin önemli bir bölümünü kaplıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş yeşil alanları ile kendisine çekiyor. Türbe, Elazığ'ın şehir merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Türbenin çevresinde, birçok tarihi ve kültürel yapı bulunmakta ve ziyaretçilerin Elazığ'ın tarihi ve kültürel zenginliklerini keşfetmesine olanak tanıyor. Elazığ, Doğu Anadolu Bölgesi'nin en önemli şehirlerinden biri olarak kabul ediliyor ve Hacı Ömer Hüdai Baba Türbesi, şehrin en önemli tarihi ve dini yapılarından biri olarak görülüyor.
+Hacı Ömer Hüdai Baba Türbesi, Elazığ'ın merkezinde yer alıyor ve şehrin önemli bir bölümünü kaplıyor. Türbe, Elazığ'ın şehir merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Türbenin çevresinde, birçok tarihi ve kültürel yapı bulunmakta ve ziyaretçilerin Elazığ'ın tarihi ve kültürel zenginliklerini keşfetmesine olanak tanıyor. Elazığ, Doğu Anadolu Bölgesi'nin en önemli şehirlerinden biri olarak kabul ediliyor ve Hacı Ömer Hüdai Baba Türbesi, şehrin en önemli tarihi ve dini yapılarından biri olarak görülüyor.
 
 ## Flora ve Fauna
 

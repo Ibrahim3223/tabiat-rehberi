@@ -33,7 +33,7 @@ Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için Uludoruk Dağı,
 
 ## Tarihçe
 
-Uludoruk Dağı, Türkiye'nin doğusunda yer alan bir doğa harikasıdır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. İnsanlık tarihinin en eski uygarlıklarından bazıları, bu coğrafyada yaşamıştır. Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüştür.
+Uludoruk Dağı, Türkiye'nin doğusunda yer alan bir doğa harikasıdır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. İnsanlık tarihinin en eski uygarlıklarından bazıları, bu coğrafyada yaşamıştır. Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüştür.
 
 Türkiye'de doğal alanlar, tarihsel olarak büyük önem taşımıştır. Bu alanlar, insanların yaşamlarını sürdürmeleri için gerekli olan kaynakların sağlandığı yerler olmuştur. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yapılan geleneksel faaliyetlerdir. Ayrıca, tarihi ticaret yolları da bu doğal güzelliklerin arasında geçmektedir.
 
@@ -53,7 +53,7 @@ Jeolojik açıdan bakıldığında, Uludoruk'un fiziksel yapısı hakkında deta
 
 Uludoruk dağının flora ve fauna zenginliği, ziyaretçilerini büyüleyici bir doğa deneyimi sunar. 1200 hektarlık bu yeşil cennet, step bitki örtüsü ve bozkırın hakim olduğu bir bölge olarak, kuraklığa adapte türlerle dolu bir ekosistem barındırır.
 
-İlkbaharın gelmesiyle, dağ yamaçları rengarenk çiçeklerle kaplanır. Step bitkileri, yükseklik zonlarına göre değişen bir çeşitlilik gösterir. Alpin flora, dağların yüksek kesimlerinde yer alır. 
+İlkbaharın gelmesiyle, dağ yamaçları rengarenk çiçeklerle kaplanır. Step bitkileri, yükseklik zonlarına göre değişen bir çeşitlilik gösterir. Alpin flora, dağların yüksek kesimlerinde yer alır.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu bir çeşitlilik sunar. Dağ keçileri, yaban kedileri ve tilkiler gibi memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar, özellikle göç mevsimlerinde, dağların gökyüzünü doldurur. Sürüngenler, kayalık alanlarda ve step bitkileri arasında yaşar.
 

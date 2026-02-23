@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Hünkar Hamamı"
 date: "2026-01-09T23:53:51.591Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245741"
 
 # Yıldız Sarayı Hünkar Hamamı
 
-Yıldız Sarayı Hünkar Hamamı, İstanbul'un Beşiktaş ilçesinde yer alan ve Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan tarihi ve doğal bir güzelliği bir arada sunan özel bir mekan. Bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan üzerine kurulmuş ve tarihi geçmişi ile dikkat çekiyor. Yıldız Sarayı Hünkar Hamamı, ziyaretçilerini hem tarihi hem de doğal güzellikleri ile büyülüyor.
+Yıldız Sarayı Hünkar Hamamı, İstanbul'un Beşiktaş ilçesinde yer alan ve Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan tarihi ve doğal bir güzelliği bir arada sunan özel bir mekan. Yıldız Sarayı Hünkar Hamamı, ziyaretçilerini hem tarihi hem de doğal güzellikleri ile büyülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yıldız Sarayı Hünkar Hamamı, yüzyıllar boyunca önemli bir tarihi merkez 
 
 ## Coğrafya
 
-Yıldız Sarayı Hünkar Hamamı, Marmara Bölgesi'nin en güzel ve tarihi mekanlarından biri olarak kabul ediliyor. Bu bölge, İstanbul Boğazı'nın güneyinde yer alan Beşiktaş ilçesinde bulunuyor. Mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan üzerine kurulmuş ve çevresi tarihi binalar ve doğal güzelliklerle dolu. Yıldız Sarayı Hünkar Hamamı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan bir mekan olarak dikkat çekiyor. Mekan, İstanbul'un kalabalık ve hareketli yaşamından uzaklaşmak isteyenler için de ideal bir kaçış noktası olarak görülüyor.
+Yıldız Sarayı Hünkar Hamamı, Marmara Bölgesi'nin en güzel ve tarihi mekanlarından biri olarak kabul ediliyor. Bu bölge, İstanbul Boğazı'nın güneyinde yer alan Beşiktaş ilçesinde bulunuyor. Yıldız Sarayı Hünkar Hamamı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan bir mekan olarak dikkat çekiyor. Mekan, İstanbul'un kalabalık ve hareketli yaşamından uzaklaşmak isteyenler için de ideal bir kaçış noktası olarak görülüyor.
 
 ## Flora ve Fauna
 

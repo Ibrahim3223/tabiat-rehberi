@@ -22,7 +22,7 @@ wikidata_id: "Q108227934"
 
 # Bursa-Mustafakemalpaşa-Yenikoy Karacam
 
-Bursa-Mustafakemalpaşa-Yenikoy Karacam milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık geniş yeşil alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile zengin fauna encontrabilir. Parkın giriş kısmında, ziyaretçilerin bilgi alabileceği bir merkezde, milli parkın tarihçesi, coğrafyası ve ekosistemi hakkında detaylı bilgiler veriliyor. Ayrıca, rehberli turlar düzenlenerek ziyaretçilerin parkı daha iyi keşfedebilmesi sağlanıyor.
+Bursa-Mustafakemalpaşa-Yenikoy Karacam milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık geniş yeşil alanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Parkın giriş kısmında, ziyaretçilerin bilgi alabileceği bir merkezde, milli parkın tarihçesi, coğrafyası ve ekosistemi hakkında detaylı bilgiler veriliyor. Ayrıca, rehberli turlar düzenlenerek ziyaretçilerin parkı daha iyi keşfedebilmesi sağlanıyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Bursa-Mustafakemalpaşa-Yenikoy Karacam milli parkını ziyaret etmek, doğayla 
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkta, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Parkın iklimi, karasal iklim özellikleri gösterir.
 - Parkta, mevsimsel olarak flora ve fauna zenginliği değişir.

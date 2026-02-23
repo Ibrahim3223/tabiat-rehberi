@@ -1,7 +1,7 @@
 ---
 title: "Menteşeoğlu Ahmet Gazi Türbesi"
 date: "2026-01-10T05:28:40.142Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391359"
 
 # Menteşeoğlu Ahmet Gazi Türbesi
 
-Menteşeoğlu Ahmet Gazi Türbesi, Muğla'nın Milas ilçesinde yer alan tarihi bir türbe ve plajdır. Bu bölge, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Tarihi geçmişiyle dikkat çeken bu türbe, Menteşeoğlu Ahmet Gazi'nin anısına inşa edilmiştir. Ahmet Gazi, 13. yüzyılda yaşamış bir Türk beyidir ve bu bölgeye adını vermiştir. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Burada, denizin ve doğanın güzelliğini bir arada görme mümkündür.
+Menteşeoğlu Ahmet Gazi Türbesi, Muğla'nın Milas ilçesinde yer alan tarihi bir türbe ve plajdır. Tarihi geçmişiyle dikkat çeken bu türbe, Menteşeoğlu Ahmet Gazi'nin anısına inşa edilmiştir. Ahmet Gazi, 13. yüzyılda yaşamış bir Türk beyidir ve bu bölgeye adını vermiştir. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Burada, denizin ve doğanın güzelliğini bir arada görme mümkündür.
 
 ## Tarihçe
 

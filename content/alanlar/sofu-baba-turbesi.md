@@ -1,7 +1,7 @@
 ---
 title: "Sofu Baba Türbesi"
 date: "2026-01-10T07:27:27.316Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391025"
 
 # Sofu Baba Türbesi
 
-Sofu Baba Türbesi, İstanbul'un kalbi olan Beyoğlu'nda, Marmara Bölgesi'nin önemli noktalarından birini oluşturur. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini geniş ve ferah bir ortamla karşılar. Sofu Baba Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunan ender yerlerden biri olarak dikkat çeker. Ziyaretçiler, bu mekanın sunduğu sakin ve huzurlu atmosferi deneyimleyerek, hem tarihin sâuuklarına inebilir hem de doğanın güzelliğini keşfedebilir.
+Sofu Baba Türbesi, İstanbul'un kalbi olan Beyoğlu'nda, Marmara Bölgesi'nin önemli noktalarından birini oluşturur. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Sofu Baba Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunan ender yerlerden biri olarak dikkat çeker. Ziyaretçiler, bu mekanın sunduğu sakin ve huzurlu atmosferi deneyimleyerek, hem tarihin sâuuklarına inebilir hem de doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Ağrı'nın yüksek dağları arasında yer alan Toklu Dağı, Türkiye'nin doğ
 
 ## Tarihçe
 
-Ağrı bölgesi, tarihin sâu sayfalarında gizli bir hazine gibi saklıdır. Bu topraklar, yüzyıllar boyunca çeşitli uygarlıkların geçiş noktası olmuştur. Urartular, Medler, Persler ve Osmanlılar gibi büyük imparatorluklar, bu bölgede izlerini bırakmışlardır. Toklu Dağı da, bu tarihsel zenginliğin bir parçasıdır.
+Ağrı bölgesi, tarihin derin sayfalarında gizli bir hazine gibi saklıdır. Bu topraklar, yüzyıllar boyunca çeşitli uygarlıkların geçiş noktası olmuştur. Urartular, Medler, Persler ve Osmanlılar gibi büyük imparatorluklar, bu bölgede izlerini bırakmışlardır. Toklu Dağı da, bu tarihsel zenginliğin bir parçasıdır.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. İnsanlar, bu alanları yaylacılık, hayvancılık ve ticaret için kullanmışlardır. Ağrı bölgesinde de, benzer bir şekilde, insanlar doğayı kullanarak yaşamışlardır. Dağların eteklerinde kurulan köyler, ticaret yollarının kenarlarında oluşmuş ve insanlarla doğa arasında güçlü bir bağ kurulmuştur.
 
@@ -50,7 +50,7 @@ Mevsimsel olarak, Toklu Dağı'nın iklim karakteri Doğu Anadolu Bölgesi'nin g
 
 ## Flora ve Fauna
 
-Toklu Dağı, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Toklu Dağı, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki örtüsü, ilkbaharın gelmesiyle birlikte renklenir. Alpin çayırların hakim olduğu bu bölgede, çeşitli endemik türler bulunur. Sonbaharda, dağların rengi değişir ve göç eden kuşlar gökyüzünü süsler.
 
 Yaban hayatı da bir o kadar zengin. Dağ keçileri, yaban keçileri ve çeşitli memeliler bu bölgede yaşar. Kuşlar, özellikle göç mevsiminde, bu bölgenin önemli bir parçası haline gelir. Sürüngenler de dağların kayalık bölümlerinde yaşamını sürdürür.

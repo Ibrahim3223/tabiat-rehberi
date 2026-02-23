@@ -22,7 +22,7 @@ wikidata_id: "Q108227003"
 
 # Zamanti Irmagi Kaynagi Dogal Sir Alani
 
-Zamanti Irmagi Kaynagi Dogal Sir Alani, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden biri. Zamanti Irmagi'nin kaynağı olan bu doğal sığınak, birçok canlıya ev sahipliği yapıyor. Doğal güzellikleri, zengin fauna ve flora ile ziyaretçilerini bekliyor. Zamanti Irmagi Kaynagi Dogal Sir Alani, İç Anadolu Bölgesi'nin en önemli turizm noktalarından biri olarak dikkat çekiyor.
+Zamanti Irmagi Kaynagi Dogal Sir Alani, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Zamanti Irmagi'nin kaynağı olan bu doğal sığınak, birçok canlıya ev sahipliği yapıyor. Doğal güzellikleri, zengin fauna ve flora ile ziyaretçilerini bekliyor. Zamanti Irmagi Kaynagi Dogal Sir Alani, İç Anadolu Bölgesi'nin en önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

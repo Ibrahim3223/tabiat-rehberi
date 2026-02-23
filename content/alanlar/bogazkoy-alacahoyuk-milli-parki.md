@@ -29,7 +29,7 @@ schema_type: "TouristAttraction"
 
 # Boğazköy-Alacahöyük Milli Parkı
 
-Boğazköy-Alacahöyük Milli Parkı, Çorum'un Boğazkale ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir milli parktır. Bu park, yaklaşık 140 hektarlık alanı ile ziyaretçilerine geniş bir yeşil alan sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğa ile iç içe bir deneyim sunuyor. Parkın içinde yer alan tarihi kalıntılar ve çevresindeki doğal güzellikler, ziyaretçilerin ilgisini çekmeyi başarıyor. Boğazköy-Alacahöyük Milli Parkı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Boğazköy-Alacahöyük Milli Parkı, Çorum'un Boğazkale ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir milli parktır. Bu park, yaklaşık 140 hektarlık alanı ile ziyaretçilerine geniş bir yeşil alan sunuyor. Parkın içinde yer alan tarihi kalıntılar ve çevresindeki doğal güzellikler, ziyaretçilerin ilgisini çekmeyi başarıyor. Boğazköy-Alacahöyük Milli Parkı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

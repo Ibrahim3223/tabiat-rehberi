@@ -28,7 +28,7 @@ wikidata_id: "Q31389422"
 
 # Yalaktaş Tepe
 
-Yalaktaş Tepe, Mersin'in güzide noktalarından biri olarak dikkat çekiyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Yalaktaş Tepe'nin etrafı, çeşitli bitki türleriyle dolu ve zengin fauna sunuyor. Burada, doğa severler için birçok gezi güzergahı bulunuyor. Yalaktaş Tepe, Akdeniz Bölgesi'nin coğrafyasını anlamak için önemli bir nokta.
+Yalaktaş Tepe, Mersin'in güzide noktalarından biri olarak dikkat çekiyor. Yalaktaş Tepe'nin etrafı, çeşitli bitki türleriyle dolu ve zengin fauna sunuyor. Burada, doğa severler için birçok gezi güzergahı bulunuyor. Yalaktaş Tepe, Akdeniz Bölgesi'nin coğrafyasını anlamak için önemli bir nokta.
 
 ## Tarihçe
 

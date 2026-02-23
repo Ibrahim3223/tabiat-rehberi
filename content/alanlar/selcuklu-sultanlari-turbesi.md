@@ -1,7 +1,7 @@
 ---
 title: "Selçuklu Sultanları Türbesi"
 date: "2026-01-10T06:37:48.942Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582406"
 
 # Selçuklu Sultanları Türbesi
 
-Selçuklu Sultanları Türbesi, Konya'nın merkezinde yer alan ve tarihe tanıklık eden önemli bir mekan. 140 hektarlık bir alan üzerinde kurulu olan bu tarihsel yer, yaklaşık 200 futbol sahası büyüklüğünde. Selçuklu Sultanları'nın mezarlarının bulunduğu bu türbe, ziyaretçilerini tarihin sâuuna davet ediyor. Mimari açıdan da önemli bir yapı olan Selçuklu Sultanları Türbesi, ziyaretçilerine tarihin sayfalarını karıştırmak için eşsiz bir fırsat sunuyor.
+Selçuklu Sultanları Türbesi, Konya'nın merkezinde yer alan ve tarihe tanıklık eden önemli bir mekan. Selçuklu Sultanları'nın mezarlarının bulunduğu bu türbe, ziyaretçilerini tarihin sâuuna davet ediyor. Mimari açıdan da önemli bir yapı olan Selçuklu Sultanları Türbesi, ziyaretçilerine tarihin sayfalarını karıştırmak için eşsiz bir fırsat sunuyor.
 
 ## Tarihçe
 

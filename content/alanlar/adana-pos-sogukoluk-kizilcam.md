@@ -22,7 +22,7 @@ wikidata_id: "Q108227409"
 
 # Adana-Pos-Sogukoluk Kızılçam
 
-Adana-Pos-Sogukoluk Kızılçam milli parkı, Akdeniz Bölgesi'nin güzide mekanlarından biri olarak ziyaretçilerini ağırlıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severler için gerçek bir cennet. Burada, kızılçam ağaçlarının arasında doğanın güzelliğini keşfetme mümkün. Milli parkın konumu, şehrin gürültüsünden uzakta, sakin ve huzurlu bir atmosfer sunuyor.
+Adana-Pos-Sogukoluk Kızılçam milli parkı, Akdeniz Bölgesi'nin güzide mekanlarından biri olarak ziyaretçilerini ağırlıyor. Burada, kızılçam ağaçlarının arasında doğanın güzelliğini keşfetme mümkün. Milli parkın konumu, şehrin gürültüsünden uzakta, sakin ve huzurlu bir atmosfer sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Adana-Pos-Sogukoluk Kızılçam milli parkını ziyaret etmek, doğa severler i�
 
 ## İlginç Bilgiler
 
-- Milli parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli parkta, çeşitli bitki türleri bulunmakta.
 - Milli parkın coğrafi konumu, dağlık ve engebeli bir araziye sahip.
 - Milli parkta, çeşitli hayvan türleri yaşıyor.

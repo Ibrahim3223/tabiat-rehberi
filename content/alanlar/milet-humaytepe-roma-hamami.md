@@ -1,7 +1,7 @@
 ---
 title: "Milet Humaytepe Roma Hamamı"
 date: "2026-01-09T23:26:56.673Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739083"
 
 # Milet Humaytepe Roma Hamamı
 
-Milet Humaytepe Roma Hamamı, Aydın'ın Didim ilçesinde bulunan ve Ege Bölgesi'nin önemli tarihî alanlarından biri olarak dikkat çeker. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, yaklaşık 200 futbol sahası büyüklüğünde geniş bir araziyi kaplar. Didim'in merkezine kısa bir mesafede bulunan Milet Humaytepe Roma Hamamı, hem tarihî hem de coğrafi olarak ziyaretçilerini cezbeder. Bu bölgede yapılan kazılar ve araştırmalar, bölgenin zengin tarihini ve kültürel önemini ortaya koymuştur. Milet Humaytepe Roma Hamamı, özellikle Roma Dönemi'nde inşa edilen hamamlarıyla ünlü olup, bu hamamların kalıntıları bugün ziyaretçilerin ilgisini çekmektedir.
+Milet Humaytepe Roma Hamamı, Aydın'ın Didim ilçesinde bulunan ve Ege Bölgesi'nin önemli tarihî alanlarından biri olarak dikkat çeker. Didim'in merkezine kısa bir mesafede bulunan Milet Humaytepe Roma Hamamı, hem tarihî hem de coğrafi olarak ziyaretçilerini cezbeder. Bu bölgede yapılan kazılar ve araştırmalar, bölgenin zengin tarihini ve kültürel önemini ortaya koymuştur. Milet Humaytepe Roma Hamamı, özellikle Roma Dönemi'nde inşa edilen hamamlarıyla ünlü olup, bu hamamların kalıntıları bugün ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 

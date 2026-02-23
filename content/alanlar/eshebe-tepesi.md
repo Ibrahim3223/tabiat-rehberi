@@ -28,7 +28,7 @@ wikidata_id: "Q31545189"
 
 # Eshebe Tepesi
 
-Eshebe Tepesi, Diyarbakır'ın coğrafi güzelliğinin önemli bir parçası olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Eshebe Tepesi, ziyaretçilerini şehrin tarihi ve doğal güzelliği ile baş başa bırakmak için bekliyor. Diyarbakır'ın merkezi bölgesinde yer alan bu tepe, şehrin önemli noktalarından birini oluşturuyor.
+Eshebe Tepesi, Diyarbakır'ın coğrafi güzelliğinin önemli bir parçası olarak karşımıza çıkıyor. Eshebe Tepesi, ziyaretçilerini şehrin tarihi ve doğal güzelliği ile baş başa bırakmak için bekliyor. Diyarbakır'ın merkezi bölgesinde yer alan bu tepe, şehrin önemli noktalarından birini oluşturuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Eshebe Tepesi'nin tarihi geçmişi, Diyarbakır'ın zengin tarihini yansıtıyor
 
 ## Coğrafya
 
-Eshebe Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak yer alıyor. Bu tepe, Diyarbakır şehrinin merkezi bölgesinde bulunuyor ve şehrin coğrafi güzelliğinin önemli bir parçasını oluşturuyor. Eshebe Tepesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölgenin iklimi, genel olarak bölgenin iklimine uygun olarak değişiyor ve ziyaretçilere, şehrin coğrafi güzelliğini keşfetme fırsatı sunuyor. Eshebe Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer.
+Eshebe Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak yer alıyor. Bu tepe, Diyarbakır şehrinin merkezi bölgesinde bulunuyor ve şehrin coğrafi güzelliğinin önemli bir parçasını oluşturuyor. Eshebe Tepesi'nin çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölgenin iklimi, genel olarak bölgenin iklimine uygun olarak değişiyor ve ziyaretçilere, şehrin coğrafi güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

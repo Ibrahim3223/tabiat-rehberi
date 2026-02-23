@@ -23,7 +23,7 @@ wikidata_id: "Q108227579"
 
 # Kastamonu-Daday-Saricam
 
-Kastamonu-Daday-Saricam milli parkı, Karadeniz Bölgesi'nin en önemli doğal ve tarihi güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, Kastamonu'nun zengin tarihi ve kültürel mirasının yanı sıra, doğal güzellikleriyle de dikkat çekiyor. Burada, tarihi geçmişi ve doğal güzellikleri bir arada keşfetme mümkün.
+Kastamonu-Daday-Saricam milli parkı, Karadeniz Bölgesi'nin en önemli doğal ve tarihi güzelliklerinden biridir. Bu milli park, Kastamonu'nun zengin tarihi ve kültürel mirasının yanı sıra, doğal güzellikleriyle de dikkat çekiyor. Burada, tarihi geçmişi ve doğal güzellikleri bir arada keşfetme mümkün.
 
 ## Tarihçe
 

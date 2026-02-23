@@ -28,7 +28,7 @@ wikidata_id: "Q32211076"
 
 # Küçükyayla Tepesi
 
-Küçükyayla Tepesi, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Ziyaretçiler, tepeye tırmanırken, bölgenin zengin flora ve faunasını gözlemleme fırsatı bulurlar. Ayrıca, tepe üzerinden bölgenin geniş panoramasını izlemek de mümkündür. Küçükyayla Tepesi, özellikle doğa severler ve fotoğraf sanatçıları için bir cennet olarak kabul edilebilir.
+Küçükyayla Tepesi, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Ziyaretçiler, tepeye tırmanırken, bölgenin zengin flora ve faunasını gözlemleme fırsatı bulurlar. Ayrıca, tepe üzerinden bölgenin geniş panoramasını izlemek de mümkündür. Küçükyayla Tepesi, özellikle doğa severler ve fotoğraf sanatçıları için bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 

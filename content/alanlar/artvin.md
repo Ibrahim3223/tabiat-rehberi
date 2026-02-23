@@ -23,7 +23,7 @@ wikidata_id: "Q108228701"
 
 # ARTVİN
 
-Artvin, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle büyülüyor. Burada, yaban hayatı ve ekoloji hakkında detaylı bilgi edinebilir, aynı zamanda bölgenin tarihi zenginliklerini keşfedebilirsiniz. Artvin, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
+Artvin, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan bir milli parktır. Burada, yaban hayatı ve ekoloji hakkında detaylı bilgi edinebilir, aynı zamanda bölgenin tarihi zenginliklerini keşfedebilirsiniz. Artvin, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Artvin'i ziyaret etmek için en iyi zaman, bahar ve yaz aylarıdır. Bu dönemde
 ## İlginç Bilgiler
 
 - Artvin, 140 hektarlık bir alana sahiptir.
-- Bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Artvin, yaban hayatı ve ekoloji açısından oldukça önemlidir.
 - Bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapar.
 - Artvin, tarihî yapılar ve anıtlarla dolu bir bölgedir.

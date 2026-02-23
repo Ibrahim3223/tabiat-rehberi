@@ -28,7 +28,7 @@ wikidata_id: "Q32138066"
 
 # Mühendis Tepesi
 
-Mühendis Tepesi, Ağrı'nın büyüleyici doğasıyla ziyaretçilerini karşılayan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğaseverler için bir cennet. Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Mühendis Tepesi, hem yerel halk hem de turistler tarafından sıkça ziyaret edilen bir yer. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri ve zengin fauna, bu bölgenin doğal güzelliğini arttırıyor. Mühendis Tepesi'ne tırmanmak, ziyaretçilere hem fiziksel aktivite hem de muhteşem manzaralar sunuyor.
+Mühendis Tepesi, Ağrı'nın büyüleyici doğasıyla ziyaretçilerini karşılayan bir tepe. Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Mühendis Tepesi, hem yerel halk hem de turistler tarafından sıkça ziyaret edilen bir yer. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri ve zengin fauna, bu bölgenin doğal güzelliğini arttırıyor. Mühendis Tepesi'ne tırmanmak, ziyaretçilere hem fiziksel aktivite hem de muhteşem manzaralar sunuyor.
 
 ## Tarihçe
 

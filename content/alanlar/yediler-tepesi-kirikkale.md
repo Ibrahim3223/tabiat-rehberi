@@ -28,7 +28,7 @@ wikidata_id: "Q31502854"
 
 # Yediler Tepesi (Kırıkkale)
 
-Yediler Tepesi, Kırıkkale'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Şehrin merkezine yakın konumu ve doğal güzellikleri ile Yediler Tepesi, hem yerel halk hem de ziyaretçiler için popüler bir gezi noktasıdır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunur, bu da bu alanı doğa severler için bir çekim merkezi haline getirir.
+Yediler Tepesi, Kırıkkale'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Şehrin merkezine yakın konumu ve doğal güzellikleri ile Yediler Tepesi, hem yerel halk hem de ziyaretçiler için popüler bir gezi noktasıdır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunur, bu da bu alanı doğa severler için bir çekim merkezi haline getirir.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Yediler Tepesi'ni ziyaret etmek, Kırıkkale'nin doğal güzelliklerini keşfetm
 
 - Yediler Tepesi, Kırıkkale'nin en yüksek noktalarından biridir.
 - Tepenin zirvesinden, geniş bir alanda manzara izlenebilir.
-- Yediler Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Tepenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 - Yediler Tepesi, doğa severler ve tarih tutkunları için bir çekim merkezi olarak kabul edilir.

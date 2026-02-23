@@ -1,7 +1,7 @@
 ---
 title: "Eskici Dede Türbesi"
 date: "2026-01-10T05:13:50.117Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391564"
 
 # Eskici Dede Türbesi
 
-Eskici Dede Türbesi, İzmir'in Bayındır ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir noktada bulunan bir plaj ve tarihi mekan. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alana sahip. Bu mekan, hem denize girerek hem de tarihi türbeyi ziyaret ederek keyifli anlar geçirmenizi sağlıyor. Tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini etkileyen Eskici Dede Türbesi, İzmir'in önemli turizm noktalarından biri.
+Eskici Dede Türbesi, İzmir'in Bayındır ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir noktada bulunan bir plaj ve tarihi mekan. Bu mekan, hem denize girerek hem de tarihi türbeyi ziyaret ederek keyifli anlar geçirmenizi sağlıyor. Tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini etkileyen Eskici Dede Türbesi, İzmir'in önemli turizm noktalarından biri.
 
 ## Tarihçe
 

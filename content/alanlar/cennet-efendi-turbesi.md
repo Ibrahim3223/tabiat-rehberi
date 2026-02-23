@@ -1,7 +1,7 @@
 ---
 title: "Cennet Efendi Türbesi"
 date: "2026-01-10T07:10:20.541Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390967"
 
 # Cennet Efendi Türbesi
 
-Cennet Efendi Türbesi, İstanbul'un Üsküdar ilçesinde yer alan tarihi bir türbe ve plajdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer almakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu bölge, hem İstanbul'un hem de Marmara Bölgesi'nin önemli turistik noktalarından biridir. Cennet Efendi Türbesi, Üsküdar'ın merkezine yakın bir konumda bulunmakta ve kolay ulaşılabilirlik açısından önemli bir avantaj sunmaktadır. Bu nedenle, hem yerli hem de yabancı turistler tarafından sık sık ziyaret edilmektedir.
+Cennet Efendi Türbesi, İstanbul'un Üsküdar ilçesinde yer alan tarihi bir türbe ve plajdır. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu bölge, hem İstanbul'un hem de Marmara Bölgesi'nin önemli turistik noktalarından biridir. Cennet Efendi Türbesi, Üsküdar'ın merkezine yakın bir konumda bulunmakta ve kolay ulaşılabilirlik açısından önemli bir avantaj sunmaktadır.
 
 ## Tarihçe
 

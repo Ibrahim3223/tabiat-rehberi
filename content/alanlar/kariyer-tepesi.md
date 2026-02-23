@@ -28,7 +28,7 @@ wikidata_id: "Q31387719"
 
 # Kariyer Tepesi
 
-Kariyer Tepesi, Artvin'in eşsiz doğal güzelliklerine ev sahipliği yapan bir tepe olarak ziyaretçilerini bekliyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzellikleri ile dikkat çekiyor. Kariyer Tepesi, ziyaretçilerine hem dinlenme hem de discovery fırsatı sunan bir destinasyon olarak ön plana çıkıyor. Doğal güzellikleri, temiz havası ve misafirperverliği ile Kariyer Tepesi, ziyaretçilerini büyüleyici bir deneyime davet ediyor.
+Kariyer Tepesi, Artvin'in eşsiz doğal güzelliklerine ev sahipliği yapan bir tepe olarak ziyaretçilerini bekliyor. Kariyer Tepesi, ziyaretçilerine hem dinlenme hem de discovery fırsatı sunan bir destinasyon olarak ön plana çıkıyor. Doğal güzellikleri, temiz havası ve misafirperverliği ile Kariyer Tepesi, ziyaretçilerini büyüleyici bir deneyime davet ediyor.
 
 ## Tarihçe
 

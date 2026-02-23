@@ -29,7 +29,7 @@ wikidata_id: "Q31391206"
 
 # Murat Tepesi
 
-Murat Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliğini ve tarihi geçmişiyle dikkat çeken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplı. Bu tepe, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbediyor. Murat Tepesi, doğa severler ve tarih meraklıları için ideal bir gezi noktası.
+Murat Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliğini ve tarihi geçmişiyle dikkat çeken bir destinasyon. Bu tepe, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbediyor. Murat Tepesi, doğa severler ve tarih meraklıları için ideal bir gezi noktası.
 
 ## Tarihçe
 

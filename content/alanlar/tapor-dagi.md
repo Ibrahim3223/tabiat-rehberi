@@ -32,9 +32,9 @@ Niğde'nin eşsiz coğrafyasında yer alan Tapor Dağı, ziyaretçilerini büyü
 
 ## Tarihçe
 
-Niğde'nin tarihi zenginliği, Tapor Dağı'nın eteklerine kadar uzanır. Bu bölge, binlerce yıldır çeşitli uygarlıkların yerleşim ve geçiş noktalarından biri olmuştur. Hitit, Roma ve Bizans dönemlerinde önemli bir ticaret ve kültür merkezi olan Niğde, tarihin her döneminde stratejik bir konumda bulunmuştur. 
+Niğde'nin tarihi zenginliği, Tapor Dağı'nın eteklerine kadar uzanır. Bu bölge, binlerce yıldır çeşitli uygarlıkların yerleşim ve geçiş noktalarından biri olmuştur. Hitit, Roma ve Bizans dönemlerinde önemli bir ticaret ve kültür merkezi olan Niğde, tarihin her döneminde stratejik bir konumda bulunmuştur.
 
-Tapor Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda tarihi ticaret yolları, yaylacılık ve hayvancılık faaliyetleri ile de dikkat çeker. İnsanların bu doğal alanlarla ilişkisi, genellikle hayvancılık ve tarım faaliyetleri ile sınırlı değildir. Aynı zamanda, bu bölgeler through tarih boyunca önemli ticaret yollarının da geçiş noktaları olmuştur. 
+Tapor Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda tarihi ticaret yolları, yaylacılık ve hayvancılık faaliyetleri ile de dikkat çeker. İnsanların bu doğal alanlarla ilişkisi, genellikle hayvancılık ve tarım faaliyetleri ile sınırlı değildir. Aynı zamanda, bu bölgeler through tarih boyunca önemli ticaret yollarının da geçiş noktaları olmuştur.
 
 Tapor Dağı'nın bulunduğu bölgede, insanların bu doğal alanlarla kurduğu ilişki de benzer bir geçmişe sahiptir. Yaylacılık ve hayvancılık faaliyetleri, bu bölgenin ekonomisinin önemli bir parçasını oluşturur. Ayrıca, tarihi ticaret yollarının bu bölgeden geçmesi, Tapor Dağı'nın ve çevresinin tarihsel önemini daha da artırmaktadır.
 
@@ -50,9 +50,9 @@ Bölgenin ekosistemine bakıldığında, Tapor Dağı'nın komşu alanlar ve su 
 
 ## Flora ve Fauna
 
-Tapor Dağı, Niğde'nin kalbinde yer alan bir dağ ekosistemi olup, step bitki örtüsü ve bozkırın hakim olduğu bir bölge. Bu alan, kuraklığa adapte olmuş türlerle dolu bir cennet. İlbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Step bitkileri, yükseklik zonlarına bağlı olarak değişkenlik gösterir. 
+Tapor Dağı, Niğde'nin kalbinde yer alan bir dağ ekosistemi olup, step bitki örtüsü ve bozkırın hakim olduğu bir bölge. Bu alan, kuraklığa adapte olmuş türlerle dolu bir cennet. İlbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Step bitkileri, yükseklik zonlarına bağlı olarak değişkenlik gösterir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri, yaban keçileri ve tilkiler, bu bölgenin memeli temsilcileridir. Kuşlar, özellikle sonbaharda göç eden türlerle renk katar. Sürüngenler, kuraklığa adapte olmuş türlerle temsil edilir. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ keçileri, yaban keçileri ve tilkiler, bu bölgenin memeli temsilcileridir. Kuşlar, özellikle sonbaharda göç eden türlerle renk katar. Sürüngenler, kuraklığa adapte olmuş türlerle temsil edilir.
 
 Ekolojik değer, bu dağ ekosisteminin korunmasının önemini vurgular. Bu alan, birçok tür için yaşam alanı ve göç güzergahı olarak hizmet eder. Koruma durumu, bu türlerin gelecek nesiller için korunmasını sağlamak için büyük önem taşır. Tapor Dağı, zengin flora ve faunasıyla, doğal bir hazine olarak değerlendirilmelidir.
 
@@ -66,5 +66,5 @@ Niğde'nin doğal güzelliklerinden biri olan Tapor Dağı, hem doğa severler h
 - Bu dağ, Niğde ilinin merkezine yaklaşık 30 kilometre uzaklıktadır.
 - Tapor Dağı, Aladağlar milli parkı içinde yer alır.
 - Dağın zirvesi, 2290 metre yüksekliktedir.
-- Dağın etrafında, históriki ve turistik öneme sahip birçok köy ve kasaba bulunur.
+- Dağın etrafında, tarihi ve turistik öneme sahip birçok köy ve kasaba bulunur.
 - Tapor Dağı, trekking ve dağcılık için popüler bir destinasyondur.

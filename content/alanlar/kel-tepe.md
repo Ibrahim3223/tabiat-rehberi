@@ -48,11 +48,11 @@ Doğal güzelliğini koruyan Kel Tepe, çevresindeki coğrafi yapıyla uyumlu bi
 
 ## Flora ve Fauna
 
-Kel Tepe, Karabük'ün nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet,İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kel Tepe, Karabük'ün nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet,İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünüyor. Dağın yükseklik zonlarına göre değişen flora, alpin çayırlar ve gür ormanları barındırıyor. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünüyor. Dağın yükseklik zonlarına göre değişen flora, alpin çayırlar ve gür ormanları barındırıyor.
 
-Yaban Hayatı açısından, dağda yaşayan memeliler, kuşlar ve sürüngenler, bu ekosistemin önemli bileşenleri. Göçmen kuşlar, sonbaharda dağları geçerek güneye göç ediyor. Dağ keçileri ve ayılar, bu bölgenin önemli memeli hayvanları. 
+Yaban Hayatı açısından, dağda yaşayan memeliler, kuşlar ve sürüngenler, bu ekosistemin önemli bileşenleri. Göçmen kuşlar, sonbaharda dağları geçerek güneye göç ediyor. Dağ keçileri ve ayılar, bu bölgenin önemli memeli hayvanları.
 
 Ekolojik Değer olarak, Kel Tepe'nin yüksek biyoçeşitliliği, nemli iklimi ve gür ormanları, bu alanı önemli kılıyor. Bu dağ ekosisteminin korunması, sadece bölgesel değil, ulusal düzeyde de önemli.
 

@@ -51,7 +51,7 @@ Doğal bir oluşum olan Küçük Dağ, çevresindeki diğer coğrafi oluşumlarl
 
 Küçük Dağ, Muğla'nın zeytinlikler ve çam ormanlarıyla çevrili bir dağ ekosistemi sunar. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle kaplanır. Yükseklik zonlarına göre değişen bitki örtüsü, alpin flora örneklerini barındırır. Çam ağaçlarının gölgesinde, various otsu bitkiler ve yer zeytinlik alanlar bulunur.
 
-Bu dağ ekosisteminde, çeşitli yaban hayvanları yaşamını sürdürür. Memeliler, çam ormanlarının sunduğu korunan alanlarda yaşarken, kuşlar göç yolları üzerinde önemli bir durak olarak Küçük Dağ'ı kullanır. Sürüngenler ise, sıcak ve kurak bölgelerde aktif olarak görülür. 
+Bu dağ ekosisteminde, çeşitli yaban hayvanları yaşamını sürdürür. Memeliler, çam ormanlarının sunduğu korunan alanlarda yaşarken, kuşlar göç yolları üzerinde önemli bir durak olarak Küçük Dağ'ı kullanır. Sürüngenler ise, sıcak ve kurak bölgelerde aktif olarak görülür.
 
 Küçük Dağ'ın ekolojik değeri, çeşitlilik gösteren flora ve faunasından gelir. Bu dağ ekosisteminin korunması, bölgenin doğal dengesinin korunmasına katkı sağlar.
 

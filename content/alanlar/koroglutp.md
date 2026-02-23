@@ -22,7 +22,7 @@ wikidata_id: "Q108228785"
 
 # KÖROĞLU_TP
 
-KÖROĞLU_TP, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık geniş yeşil alanıyla, ziyaretçilerini doğanın kucağına davet ediyor. Bu muhteşem doğal alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle kaplıdır. KÖROĞLU_TP, hem doğa severlerin hem de tarihi geçmişi merak edenlerin ilgisini çeken bir destinasyon olarak dikkat çekiyor. Ziyaretçiler, bu güzel parkta keyifli bir gün geçirebilir ve doğanın güzelliğini yakından keşfedebilir.
+KÖROĞLU_TP, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık geniş yeşil alanıyla, ziyaretçilerini doğanın kucağına davet ediyor. KÖROĞLU_TP, hem doğa severlerin hem de tarihi geçmişi merak edenlerin ilgisini çeken bir destinasyon olarak dikkat çekiyor. Ziyaretçiler, bu güzel parkta keyifli bir gün geçirebilir ve doğanın güzelliğini yakından keşfedebilir.
 
 ## Tarihçe
 

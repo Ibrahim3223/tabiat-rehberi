@@ -28,7 +28,7 @@ wikidata_id: "Q34923251"
 
 # Latahüseyin Tepesi
 
-Latahüseyin Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Batman ilinin önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alana eşdeğer. Latahüseyin Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın güzelliğini keşfetme fırsatı sunan bir destinasyon. Tepenin etrafında yer alan köyler ve kasabalar, bölgeyi keşfetmek isteyenler için önemli birer merkezdir. Latahüseyin Tepesi, Batman'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de ideal bir başlangıç noktası.
+Latahüseyin Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Batman ilinin önemli doğal güzelliklerinden biridir. Latahüseyin Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın güzelliğini keşfetme fırsatı sunan bir destinasyon. Tepenin etrafında yer alan köyler ve kasabalar, bölgeyi keşfetmek isteyenler için önemli birer merkezdir. Latahüseyin Tepesi, Batman'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de ideal bir başlangıç noktası.
 
 ## Tarihçe
 

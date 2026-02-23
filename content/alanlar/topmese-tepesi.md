@@ -28,7 +28,7 @@ wikidata_id: "Q31386937"
 
 # Topmeşe Tepesi
 
-Topmeşe Tepesi, Tekirdağ'ın sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsayan 140 hektarlık bir yeşil alan. Topmeşe Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Burada, yaban hayatının zenginliği ve çeşitliliği ile karşılaşma mümkün. Topmeşe Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin eteklerinde ve çevresinde, tarihi geçmişe ışık tutan çeşitli kalıntılar ve eserler bulunuyor.
+Topmeşe Tepesi, Tekirdağ'ın sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Topmeşe Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Burada, yaban hayatının zenginliği ve çeşitliliği ile karşılaşma mümkün. Topmeşe Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Tepenin eteklerinde ve çevresinde, tarihi geçmişe ışık tutan çeşitli kalıntılar ve eserler bulunuyor.
 
 ## Tarihçe
 

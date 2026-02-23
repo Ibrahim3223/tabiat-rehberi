@@ -29,7 +29,7 @@ wikidata_id: "Q134728301"
 
 # Bin Tepeler Tümülüsü 63
 
-Bin Tepeler Tümülüsü 63, Ege Bölgesi'nin Ahmetli-Manisa ilçesinde bulunan bir tarihi ve coğrafi alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine zengin bir tarih ve doğa deneyimi sunuyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor ve ziyaretçilerini tarihin derinliklerine götürüyor. Bin Tepeler Tümülüsü 63, aynı zamanda çevresindeki doğal güzellikleriyle de ön plana çıkıyor. uzun bir mesafelik bir yürüyüş parkuruyla ziyaretçilerini doğayla baş başa bırakıyor.
+Bin Tepeler Tümülüsü 63, Ege Bölgesi'nin Ahmetli-Manisa ilçesinde bulunan bir tarihi ve coğrafi alan olarak dikkat çekiyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor ve ziyaretçilerini tarihin derinliklerine götürüyor. Bin Tepeler Tümülüsü 63, aynı zamanda çevresindeki doğal güzellikleriyle de ön plana çıkıyor. uzun bir mesafelik bir yürüyüş parkuruyla ziyaretçilerini doğayla baş başa bırakıyor.
 
 ## Tarihçe
 

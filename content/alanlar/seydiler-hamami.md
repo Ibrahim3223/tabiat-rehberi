@@ -1,7 +1,7 @@
 ---
 title: "Seydiler Hamamı"
 date: "2026-01-09T22:53:15.756Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738666"
 
 # Seydiler Hamamı
 
-Seydiler Hamamı, Eskişehir'in Sivrihisar ilçesinde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir doğal alandır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Doğal güzelliği, geniş yeşil alanları ve ziyaretçilerine sunduğu huzurlu atmosferiyle dikkat çeker.
+ Doğal güzelliği, geniş yeşil alanları ve ziyaretçilerine sunduğu huzurlu atmosferiyle dikkat çeker.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Seydiler Hamamı'nın tarihi geçmişi, yüzyıllar boyunca insanların doğayla
 
 ## Coğrafya
 
-Seydiler Hamamı, Eskişehir'in Sivrihisar ilçesinde yer alan bir doğal alandır. Bu bölge, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. İklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Bölge, geniş yeşil alanları, doğal güzelliği ve ziyaretçilerine sunduğu huzurlu atmosferiyle dikkat çeker. Coğrafi konumu, ziyaretçilerin doğayı keşfetmesine olanak tanır ve doğal güzelliği ile ön plana çıkar.
+Seydiler Hamamı, Eskişehir'in Sivrihisar ilçesinde yer alan bir doğal alandır. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. İklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösterir. Bölge, geniş yeşil alanları, doğal güzelliği ve ziyaretçilerine sunduğu huzurlu atmosferiyle dikkat çeker. Coğrafi konumu, ziyaretçilerin doğayı keşfetmesine olanak tanır ve doğal güzelliği ile ön plana çıkar.
 
 ## Flora ve Fauna
 

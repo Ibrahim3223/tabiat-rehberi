@@ -28,7 +28,7 @@ wikidata_id: "Q31540310"
 
 # Sivi Tepesi
 
-Sivi Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan önemli bir coğrafi oluşum olarak bilinir. Bu tepe, bölgenin doğal güzelliklerini ve coğrafi çeşitliliğini gözler önüne serer. Sivi Tepesi, yaklaşık olarak 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu tepe, Şırnak ilinin önemli bir parçası olarak kabul edilir ve bölgenin coğrafi yapısını şekillendiren temel unsurlardan biri olarak görülür.
+Sivi Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan önemli bir coğrafi oluşum olarak bilinir. Bu tepe, bölgenin doğal güzelliklerini ve coğrafi çeşitliliğini gözler önüne serer. Bu tepe, Şırnak ilinin önemli bir parçası olarak kabul edilir ve bölgenin coğrafi yapısını şekillendiren temel unsurlardan biri olarak görülür.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sivi Tepesi'nin tarihi geçmişi, bölgenin coğrafi ve kültürel gelişimine b
 
 ## Coğrafya
 
-Sivi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir unsurdur. Bu tepe, Şırnak ilinin orta kesiminde yer alır ve bölgenin coğrafi çeşitliliğini gözler önüne serer. Sivi Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu tepe, bölgenin coğrafi yapısını şekillendiren temel unsurlardan biri olarak görülür. Sivi Tepesi'nin coğrafi konumu, bölgenin iklimini ve doğal yaşamını etkileyen önemli bir faktördür. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak kabul edilir ve Şırnak ilinin doğal güzelliklerini gözler önüne serer.
+Sivi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını şekillendiren önemli bir unsurdur. Bu tepe, Şırnak ilinin orta kesiminde yer alır ve bölgenin coğrafi çeşitliliğini gözler önüne serer. Bu tepe, bölgenin coğrafi yapısını şekillendiren temel unsurlardan biri olarak görülür. Sivi Tepesi'nin coğrafi konumu, bölgenin iklimini ve doğal yaşamını etkileyen önemli bir faktördür. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir unsur olarak kabul edilir ve Şırnak ilinin doğal güzelliklerini gözler önüne serer.
 
 ## Flora ve Fauna
 

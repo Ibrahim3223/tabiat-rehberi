@@ -28,7 +28,7 @@ wikidata_id: "Q34903621"
 
 # Sarıyüce Tepesi
 
-Sarıyüce Tepesi, Karadeniz Bölgesi'nin Çorum şehrinde yer alan ve bölgeye özel doğal güzellikleriyle dikkat çeken bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakındır. Sarıyüce Tepesi, Çorum'un önemli gezi noktalarından biri olarak bilinir ve ziyaretçiler için çeşitli olanaklar sunar. Tepenin etrafındaki manzara, Karadeniz Bölgesi'nin yeşilliği ve doğallığıyla bezelidir. Bu tepede, hem doğayı keşfetmek hem de şehrin panoramik manzarasını izleme mümkündür.
+Sarıyüce Tepesi, Karadeniz Bölgesi'nin Çorum şehrinde yer alan ve bölgeye özel doğal güzellikleriyle dikkat çeken bir tepe. Sarıyüce Tepesi, Çorum'un önemli gezi noktalarından biri olarak bilinir ve ziyaretçiler için çeşitli olanaklar sunar. Tepenin etrafındaki manzara, Karadeniz Bölgesi'nin yeşilliği ve doğallığıyla bezelidir. Bu tepede, hem doğayı keşfetmek hem de şehrin panoramik manzarasını izleme mümkündür.
 
 ## Tarihçe
 

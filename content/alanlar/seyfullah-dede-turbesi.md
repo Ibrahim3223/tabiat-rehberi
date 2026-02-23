@@ -1,7 +1,7 @@
 ---
 title: "Seyfullah Dede Türbesi"
 date: "2026-01-10T06:37:57.660Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Isparta"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582627"
 
 # Seyfullah Dede Türbesi
 
-Seyfullah Dede Türbesi, Isparta'nın Eğirdir ilçesinde bulunan bir tarihi ve turistik mekan. Bu alan, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekiyor. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Seyfullah Dede Türbesi, özellikle plajı ve tarihi önemi ile ziyaretçilerini cezbediyor. Bu bölge, aynı zamanda güzellikleri ile de bilinir.
+Seyfullah Dede Türbesi, Isparta'nın Eğirdir ilçesinde bulunan bir tarihi ve turistik mekan. Bu alan, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekiyor. Seyfullah Dede Türbesi, özellikle plajı ve tarihi önemi ile ziyaretçilerini cezbediyor. Bu bölge, aynı zamanda güzellikleri ile de bilinir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Seyfullah Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. 
 
 ## Coğrafya
 
-Seyfullah Dede Türbesi, Isparta'nın Eğirdir ilçesinde, Akdeniz Bölgesi'nde bulunuyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Plaj, denizi ve çevresindeki dağlar, bu bölgenin doğal güzelliklerini oluşturuyor. 180 hektarlık bir alanı kapsayan bu bölge, yaklaşık 250 futbol sahası büyüklüğünde. Bu alan, ziyaretçilere geniş bir açık alan sunuyor. İklim, Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılıman geçiyor. Çevre, çeşitli bitki türleri ve yaban hayatı ile zengin.
+Seyfullah Dede Türbesi, Isparta'nın Eğirdir ilçesinde, Akdeniz Bölgesi'nde bulunuyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Plaj, denizi ve çevresindeki dağlar, bu bölgenin doğal güzelliklerini oluşturuyor. Bu alan, ziyaretçilere geniş bir açık alan sunuyor. İklim, Akdeniz iklimi özellikleri gösteriyor ve yazları sıcak, kışları ılıman geçiyor. Çevre, çeşitli bitki türleri ve yaban hayatı ile zengin.
 
 ## Flora ve Fauna
 

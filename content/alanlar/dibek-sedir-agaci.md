@@ -23,7 +23,7 @@ wikidata_id: "Q108227350"
 
 # Dibek Sedir Ağaci
 
-Dibek Sedir Ağacı, İç Anadolu Bölgesi'nin eşsiz güzelliklerine ev sahipliği yapan bir doğa harikasıdır. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Dibek Sedir Ağacı, ziyaretçilerini büyüleyici bir doğa deneyimiyle karşılar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğayla iç içe bir gün geçirmesine olanak tanır. Dibek Sedir Ağacı, hem doğa severler hem de fotoğraf tutkunları için mükemmel bir destinasyondur.
+Dibek Sedir Ağacı, İç Anadolu Bölgesi'nin eşsiz güzelliklerine ev sahipliği yapan bir doğa harikasıdır. Dibek Sedir Ağacı, ziyaretçilerini büyüleyici bir doğa deneyimiyle karşılar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğayla iç içe bir gün geçirmesine olanak tanır. Dibek Sedir Ağacı, hem doğa severler hem de fotoğraf tutkunları için mükemmel bir destinasyondur.
 
 ## Tarihçe
 
@@ -31,11 +31,11 @@ Dibek Sedir Ağacı'nın tarihi geçmişi, yüzyıllar boyunca süregelen bir do
 
 ## Coğrafya
 
-Dibek Sedir Ağacı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer alır. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine geniş bir doğa deneyimi sunar. Dibek Sedir Ağacı'nın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu alan, Türkiye'nin doğal güzelliklerinin önemli bir parçası olarak kabul edilir. Dibek Sedir Ağacı, ziyaretçilerine doğanın güzelliğini ve biyolojik çeşitliliği deneyimleme fırsatı sunar. Bu doğa harikasının coğrafi konumu, ziyaretçilerin doğayla iç içe bir gün geçirmesine olanak tanır. Dibek Sedir Ağacı, Türkiye'nin doğal mirasının önemli bir parçasıdır ve coğrafi olarak önemli bir konuma sahiptir.
+Dibek Sedir Ağacı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer alır. Dibek Sedir Ağacı'nın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu alan, Türkiye'nin doğal güzelliklerinin önemli bir parçası olarak kabul edilir. Dibek Sedir Ağacı, ziyaretçilerine doğanın güzelliğini ve biyolojik çeşitliliği deneyimleme fırsatı sunar. Bu doğa harikasının coğrafi konumu, ziyaretçilerin doğayla iç içe bir gün geçirmesine olanak tanır. Dibek Sedir Ağacı, Türkiye'nin doğal mirasının önemli bir parçasıdır ve coğrafi olarak önemli bir konuma sahiptir.
 
 ## Flora ve Fauna
 
-Dibek Sedir Ağacı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine geniş bir doğa deneyimi sunar. Dibek Sedir Ağacı'nın flora ve faunası, Türkiye'nin doğal güzelliklerinin önemli bir parçası olarak kabul edilir. Bu alan, birçok bitki ve hayvan türüne ev sahipliği yapar ve ziyaretçilerine doğanın güzelliğini deneyimleme fırsatı sunar. Dibek Sedir Ağacı, mevsimsel değişimlere göre farklı bir güzellik sunar. İlkbahar ve yaz aylarında, flora daha yeşil ve canlıdır, mientras ki sonbahar ve kış aylarında, fauna daha aktif ve çeşitlidür. Dibek Sedir Ağacı, ziyaretçilerine doğanın güzelliğini ve biyolojik çeşitliliği deneyimleme fırsatı sunar.
+Dibek Sedir Ağacı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Dibek Sedir Ağacı'nın flora ve faunası, Türkiye'nin doğal güzelliklerinin önemli bir parçası olarak kabul edilir. Bu alan, birçok bitki ve hayvan türüne ev sahipliği yapar ve ziyaretçilerine doğanın güzelliğini deneyimleme fırsatı sunar. Dibek Sedir Ağacı, mevsimsel değişimlere göre farklı bir güzellik sunar. İlkbahar ve yaz aylarında, flora daha yeşil ve canlıdır, mientras ki sonbahar ve kış aylarında, fauna daha aktif ve çeşitlidür. Dibek Sedir Ağacı, ziyaretçilerine doğanın güzelliğini ve biyolojik çeşitliliği deneyimleme fırsatı sunar.
 
 ## Ziyaret Bilgileri
 

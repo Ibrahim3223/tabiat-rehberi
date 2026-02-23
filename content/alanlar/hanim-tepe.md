@@ -28,7 +28,7 @@ wikidata_id: "Q31387359"
 
 # Hanım Tepe
 
-Hanım Tepe, Samsun'un doğal güzelliklerini keşfetmek isteyenler için bir hazine. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Hanım Tepe, Samsun'un merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim merkezi.
+Hanım Tepe, Samsun'un doğal güzelliklerini keşfetmek isteyenler için bir hazine. Hanım Tepe, Samsun'un merkezine yakın bir konumda bulunuyor ve ulaşımı oldukça kolay. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim merkezi.
 
 ## Tarihçe
 
@@ -36,11 +36,11 @@ Hanım Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin y
 
 ## Coğrafya
 
-Hanım Tepe, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu tepe, yeşil ormanlarla kaplı ve çeşitli bitki türlerine ev sahipliği yapıyor. Coğrafi konumu itibariyle, Hanım Tepe ziyaretçilerine Samsun'un panoramik manzarasını sunuyor. İklimi ılıman ve nemli olan bu bölge, flora ve fauna açısından oldukça zengin. Hanım Tepe, Samsun'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Hanım Tepe, Karadeniz Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu tepe, yeşil ormanlarla kaplı ve çeşitli bitki türlerine ev sahipliği yapıyor. Coğrafi konumu itibariyle, Hanım Tepe ziyaretçilerine Samsun'un panoramik manzarasını sunuyor. Hanım Tepe, Samsun'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
-Hanım Tepe, flora ve fauna açısından oldukça zengin bir bölge. Bu tepe, çeşitli bitki türlerine ev sahipliği yapıyor ve mevsimsel değişimlerle birlikte farklı renkler ve güzellikler sunuyor. Ayrıca, bu bölge, birçok hayvan türünün yaşadığı bir habitat ve ziyaretçilerine doğanın güzelliğini gösteriyor. Mevsimsel değişimlerle birlikte, Hanım Tepe ziyaretçilerine farklı bir deneyim sunuyor ve doğa severleri cezbediyor.
+ Bu tepe, çeşitli bitki türlerine ev sahipliği yapıyor ve mevsimsel değişimlerle birlikte farklı renkler ve güzellikler sunuyor. Ayrıca, bu bölge, birçok hayvan türünün yaşadığı bir habitat ve ziyaretçilerine doğanın güzelliğini gösteriyor. Mevsimsel değişimlerle birlikte, Hanım Tepe ziyaretçilerine farklı bir deneyim sunuyor ve doğa severleri cezbediyor.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,6 @@ Hanım Tepe'yi ziyaret etmek, Samsun'un doğal güzelliklerini keşfetmek isteye
 ## İlginç Bilgiler
 
 - Hanım Tepe, Samsun'un merkezine yakın bir konumda bulunuyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
-- Hanım Tepe, flora ve fauna açısından oldukça zengin.
+
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge.
 - Hanım Tepe, Samsun'un tarihi ve kültürel mirasının önemli bir parçası.

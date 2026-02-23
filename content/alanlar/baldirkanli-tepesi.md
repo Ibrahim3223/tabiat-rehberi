@@ -28,7 +28,7 @@ wikidata_id: "Q31387291"
 
 # Baldırkanlı Tepesi
 
-Erzurum'un eşsiz manzarasını sunan Baldırkanlı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte doğanın tüm güzelliğini gözler önüne seriyor. Bu tepenin eteklerinde yer alan köyler, ziyaretçilere yerel lezzetleri ve kültürel deneyimleri sunuyor. Her mevsim farklı bir güzelliğe sahip olan Baldırkanlı Tepesi, doğa severlerin ve fotoğrafçıların gözdesi haline geliyor.
+Erzurum'un eşsiz manzarasını sunan Baldırkanlı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu tepenin eteklerinde yer alan köyler, ziyaretçilere yerel lezzetleri ve kültürel deneyimleri sunuyor. Her mevsim farklı bir güzelliğe sahip olan Baldırkanlı Tepesi, doğa severlerin ve fotoğrafçıların gözdesi haline geliyor.
 
 ## Tarihçe
 

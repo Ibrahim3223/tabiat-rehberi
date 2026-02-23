@@ -49,9 +49,9 @@ Mevsimsel değişiklikler açısından bakıldığında, Uzunbocak Jeopark'ın i
 
 ## Flora ve Fauna
 
-Uzunbocak Jeopark, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Step bitkileri, kuraklığa adapte olmuş türler, bozkırın karakteristik özellikleridir. 
+Uzunbocak Jeopark, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Step bitkileri, kuraklığa adapte olmuş türler, bozkırın karakteristik özellikleridir.
 
-Orman ekosisteminin varlığı, bu bölgenin biyolojik çeşitliliğini artırır. Ağaç çeşitliliği, orman memelilerini ve kuşları çeker. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bölgeden geçer. 
+Orman ekosisteminin varlığı, bu bölgenin biyolojik çeşitliliğini artırır. Ağaç çeşitliliği, orman memelilerini ve kuşları çeker. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bölgeden geçer.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirilir. Bu canlılar, yaşam alanlarıyla birlikte, ekolojik ilişkiler ağını oluşturur. Örneğin, bazı memeliler, ağaçların gölgesinde barınırken, kuşlar ağaçlarda yuvalanır. Bu bölgenin ekolojik değeri, biyolojik çeşitliliğinin korunması açısından önemlidir.
 

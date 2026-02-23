@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Şehabettin Türbesi"
 date: "2026-01-10T04:46:40.956Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,11 +29,11 @@ wikidata_id: "Q12813068"
 
 # Şeyh Şehabettin Türbesi
 
-Şeyh Şehabettin Türbesi, Eskişehir'in Odunpazarı ilçesinde yer alan tarihi bir mekan. Bu türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Türbenin xungularında çeşitli bitki türleri ve zengin fauna ile karşılaşıyoruz. Şeyh Şehabettin Türbesi, yüzyıllar boyunca önemli bir kültür merkezi olarak hizmet vermiş. Bu mekan, ziyaretçilerini tarihin derinliklerine götürerek, eşsiz bir deneyim sunuyor.
+Şeyh Şehabettin Türbesi, Eskişehir'in Odunpazarı ilçesinde yer alan tarihi bir mekan. Türbenin xungularında çeşitli bitki türleri ve zengin fauna ile karşılaşıyoruz. Şeyh Şehabettin Türbesi, yüzyıllar boyunca önemli bir kültür merkezi olarak hizmet vermiş. Bu mekan, ziyaretçilerini tarihin derinliklerine götürerek, eşsiz bir deneyim sunuyor.
 
 ## Tarihçe
 
-Şeyh Şehabettin Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu mekan, Eskişehir'in önemli dinî ve kültürel merkezlerinden biri olarak kabul ediliyor. Türbenin inşaatı, tarihi kaynaklara göre, uzun bir süre önce gerçekleşmiş. Şeyh Şehabettin Türbesi, yüzyıllar boyunca birçok önemli olaya şahitlik etmiş. Bu mekan, zaman içinde restore edilmiş ve günümüzde ziyaretçilere açık bir şekilde hizmet vermeye devam ediyor. Şeyh Şehabettin Türbesi, ziyaretçilerine tarihin zenginliklerini sunarken, aynı zamanda dinî ve kültürel bir expérience sunuyor.
+Şeyh Şehabettin Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu mekan, Eskişehir'in önemli dinî ve kültürel merkezlerinden biri olarak kabul ediliyor. Türbenin inşaatı, tarihi kaynaklara göre, uzun bir süre önce gerçekleşmiş. Şeyh Şehabettin Türbesi, yüzyıllar boyunca birçok önemli olaya şahitlik etmiş. Bu mekan, zaman içinde restore edilmiş ve günümüzde ziyaretçilere açık bir şekilde hizmet vermeye devam ediyor. Şeyh Şehabettin Türbesi, ziyaretçilerine tarihin zenginliklerini sunarken, aynı zamanda dinî ve kültürel bir deneyim sunuyor.
 
 ## Coğrafya
 

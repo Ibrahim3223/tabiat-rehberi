@@ -28,7 +28,7 @@ wikidata_id: "Q31391166"
 
 # Zortaş Tepesi
 
-Sivas ilinin İç Anadolu Bölgesi'nde yer alan Zortaş Tepesi, yaklaşık 140 hektarlık alanı ile dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Sivas'ın doğal güzellikleri arasında önemli bir yer tutuyor. Zortaş Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir mekan olarak biliniyor. Burada, doğanın seslerini dinleyerek huzurlu anlar geçirebilirsiniz. Zortaş Tepesi, Sivas'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de ideal bir nokta.
+Sivas ilinin İç Anadolu Bölgesi'nde yer alan Zortaş Tepesi, yaklaşık 140 hektarlık alanı ile dikkat çekiyor. Zortaş Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir mekan olarak biliniyor. Burada, doğanın seslerini dinleyerek huzurlu anlar geçirebilirsiniz. Zortaş Tepesi, Sivas'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de ideal bir nokta.
 
 ## Tarihçe
 

@@ -50,7 +50,7 @@ Kuyruk Adası, Marmaris'in doğal güzelliklerine ve su kaynaklarına yakınlı�
 
 ## Flora ve Fauna
 
-Kuyruk Adası, zeytinliklerle çevrili ve çam ormanlarının hakim olduğu bir Akdeniz cenneti. İklimin ılıman olması, ada ekosisteminin zenginleşmesine katkıda bulunuyor. 
+Kuyruk Adası, zeytinliklerle çevrili ve çam ormanlarının hakim olduğu bir Akdeniz cenneti. İklimin ılıman olması, ada ekosisteminin zenginleşmesine katkıda bulunuyor.
 
 Bitki örtüsünde, ilkbaharın renkli çiçekleri ada yüzeyini süslüyor. Çam ağaçlarının yeşilliği, zeytinliklerin gürleşmesiyle birlikte, adanın mevsimsel görünümü değişiyor. Kıyı bölgesinde, tuzlu suya dayanıklı bitkiler, ada kıyılarını süsleniyor.
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228715"
 
 # ANTALYA
 
-Antalya milli parkı, İç Anadolu Bölgesi'nin göbeğinde yer alan, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölge, coğrafyası ve tarihi geçmişiyle ziyaretçilerini etkisi altına alan bir yer. Antalya'nın doğal güzellikleri, ziyaretçilere unutulmaz bir deneyim sunar. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile dolu bir ekosistemdir.
+ Bu bölge, coğrafyası ve tarihi geçmişiyle ziyaretçilerini etkisi altına alan bir yer. Antalya'nın doğal güzellikleri, ziyaretçilere unutulmaz bir deneyim sunar. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile dolu bir ekosistemdir.
 
 ## Tarihçe
 

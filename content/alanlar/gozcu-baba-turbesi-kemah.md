@@ -1,7 +1,7 @@
 ---
 title: "Gözcü Baba Türbesi, Kemah"
 date: "2026-01-10T06:47:37.535Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzincan"
@@ -29,11 +29,11 @@ wikidata_id: "Q135582810"
 
 # Gözcü Baba Türbesi, Kemah
 
-Gözcü Baba Türbesi, Kemah'ın históri ve kültürel zenginliklerini yansıtan önemli bir noktadır. 140 hektarlık bir alana yayılan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Gözcü Baba Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu özel mekan, misafirlerine hem dinlenme hem de kültürel keşif imkanı sunuyor. Gözcü Baba Türbesi'nin tarihi ve kültürel önemi, ziyaretçilerini bu bölgeyi keşfetmeye davet ediyor.
+Gözcü Baba Türbesi, Kemah'ın tarihi ve kültürel zenginliklerini yansıtan önemli bir noktadır. Gözcü Baba Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu özel mekan, misafirlerine hem dinlenme hem de kültürel keşif imkanı sunuyor. Gözcü Baba Türbesi'nin tarihi ve kültürel önemi, ziyaretçilerini bu bölgeyi keşfetmeye davet ediyor.
 
 ## Tarihçe
 
-Gözcü Baba Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir yer. Gözcü Baba Türbesi'nin tarihi, Kemah'ın tarihi ile iç içe geçmiş durumda. Bu mekan, Kemah'ın kültürel mirasını yansıtan önemli bir nokta. Gözcü Baba Türbesi, ziyaretçilerine tarihi hakkında bilgi veren çeşitli kaynaklara sahip. Bu kaynaklar, ziyaretçilerin bu mekanın histórik önemini daha iyi anlamalarına yardımcı oluyor. Gözcü Baba Türbesi'nin tarihi, çeşitli rivayetlere göre şekillenmiş bir geçmişe sahip. Bu rivayetler, bu mekanın kültürel ve tarihi zenginliklerini gözler önüne seriyor.
+Gözcü Baba Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir yer. Gözcü Baba Türbesi'nin tarihi, Kemah'ın tarihi ile iç içe geçmiş durumda. Bu mekan, Kemah'ın kültürel mirasını yansıtan önemli bir nokta. Gözcü Baba Türbesi, ziyaretçilerine tarihi hakkında bilgi veren çeşitli kaynaklara sahip. Bu kaynaklar, ziyaretçilerin bu mekanın tarihi önemini daha iyi anlamalarına yardımcı oluyor. Gözcü Baba Türbesi'nin tarihi, çeşitli rivayetlere göre şekillenmiş bir geçmişe sahip. Bu rivayetler, bu mekanın kültürel ve tarihi zenginliklerini gözler önüne seriyor.
 
 ## Coğrafya
 

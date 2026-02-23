@@ -28,7 +28,7 @@ wikidata_id: "Q32223526"
 
 # Göksu Tepesi
 
-Göksu Tepesi, Erzurum'un şehrin merkezine yakın bir konumda bulunan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Göksu Tepesi, şehrin gürültüsünden uzaklaşma ve doğayla iç içe olmak isteyenler için ideal bir destinasyon. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
+Göksu Tepesi, Erzurum'un şehrin merkezine yakın bir konumda bulunan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Göksu Tepesi, şehrin gürültüsünden uzaklaşma ve doğayla iç içe olmak isteyenler için ideal bir destinasyon. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

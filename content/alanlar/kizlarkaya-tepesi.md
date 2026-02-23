@@ -28,7 +28,7 @@ wikidata_id: "Q31390990"
 
 # Kızlarkaya Tepesi
 
-Kızlarkaya Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alan Kayseri'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini kendisine hayran bırakmaya hazırdır. Kızlarkaya Tepesi, özellikle doğa severler ve fotoğraf meraklıları tarafından sıkça ziyaret edilen bir noktadır. Bu tepe, Kayseri'nin şehir merkezine yakın konumuyla da dikkat çekmekte ve şehirden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülmektedir.
+Kızlarkaya Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alan Kayseri'nin önemli doğal güzelliklerinden biridir. Kızlarkaya Tepesi, özellikle doğa severler ve fotoğraf meraklıları tarafından sıkça ziyaret edilen bir noktadır. Bu tepe, Kayseri'nin şehir merkezine yakın konumuyla da dikkat çekmekte ve şehirden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görülmektedir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390380"
 
 # Seyrangah Tepesi
 
-Afyonkarahisar'ın Ege Bölgesi'nde bulunan Seyrangah Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için bir cazibe merkezi. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehir merkezine uzun bir mesafe uzaklıkta yer alıyor. Tepenin zirvesinden şehrin panoramik manzarasını izleyebilirsiniz. Seyrangah Tepesi, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini bekliyor.
+Afyonkarahisar'ın Ege Bölgesi'nde bulunan Seyrangah Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için bir cazibe merkezi. Tepenin zirvesinden şehrin panoramik manzarasını izleyebilirsiniz. Seyrangah Tepesi, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

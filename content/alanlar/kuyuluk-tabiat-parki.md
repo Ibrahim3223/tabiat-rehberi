@@ -29,7 +29,7 @@ wikidata_id: "Q48740720"
 
 # Kuyuluk Tabiat Parkı
 
-Kuyuluk Tabiat Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. 140 hektarlık geniş bir alanı kapsayan bu tabiat parkı, yaklaşık 200 futbol sahası büyüklüğünde. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Park, doğa severler için bir buluşma noktası olarak hizmet veriyor ve ziyaretçilere, doğayla iç içe bir deneyim sunuyor. Kuyuluk Tabiat Parkı, ziyaretçilerini, şehrin gürültüsünden uzak, sakin ve huzurlu bir ortamda ağırlıyor. Bu doğal alan, hem doğaşkını hem de macera tutkunlarını cezbedecek unsurları barındırıyor.
+Kuyuluk Tabiat Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Park, doğa severler için bir buluşma noktası olarak hizmet veriyor ve ziyaretçilere, doğayla iç içe bir deneyim sunuyor. Kuyuluk Tabiat Parkı, ziyaretçilerini, şehrin gürültüsünden uzak, sakin ve huzurlu bir ortamda ağırlıyor. Bu doğal alan, hem doğaşkını hem de macera tutkunlarını cezbedecek unsurları barındırıyor.
 
 ## Tarihçe
 

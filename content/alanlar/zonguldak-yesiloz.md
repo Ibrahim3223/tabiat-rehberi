@@ -23,7 +23,7 @@ wikidata_id: "Q108228045"
 
 # Zonguldak-Yesiloz
 
-Zonguldak-Yesiloz milli parkı, Karadeniz Bölgesi'nin doğal güzelliklerini barındıran bir alan olarak dikkat çekiyor. Yaklaşık 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, bölgenin ekolojik dengesine katkıda bulunan önemli bir doğal kaynak olarak kabul ediliyor. Zonguldak-Yesiloz milli parkı, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor.
+Zonguldak-Yesiloz milli parkı, Karadeniz Bölgesi'nin doğal güzelliklerini barındıran bir alan olarak dikkat çekiyor. Bu milli park, bölgenin ekolojik dengesine katkıda bulunan önemli bir doğal kaynak olarak kabul ediliyor. Zonguldak-Yesiloz milli parkı, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor.
 
 ## Tarihçe
 

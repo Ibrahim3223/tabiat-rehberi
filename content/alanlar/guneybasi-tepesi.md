@@ -28,7 +28,7 @@ wikidata_id: "Q32139385"
 
 # Güneybaşı Tepesi
 
-Güneybaşı Tepesi, Erzurum'un kalbinde yer alan bir doğa harikasıdır. yüksek bir konumdate bulunan bu tepe, ziyaretçilerine şehrin ve çevresinin muhteşem manzarasını sunar. Güneybaşı Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu özelliği ile Erzurum'un en büyük tepelerinden biridir. Tepenin çevresinde çeşitli bitki türleri ve zengin fauna bulunur. Güneybaşı Tepesi, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir.
+Güneybaşı Tepesi, Erzurum'un kalbinde yer alan bir doğa harikasıdır. yüksek bir konumdate bulunan bu tepe, ziyaretçilerine şehrin ve çevresinin muhteşem manzarasını sunar. Tepenin çevresinde çeşitli bitki türleri ve zengin fauna bulunur. Güneybaşı Tepesi, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir.
 
 ## Tarihçe
 

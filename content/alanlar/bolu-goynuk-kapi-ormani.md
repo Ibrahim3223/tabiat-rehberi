@@ -22,7 +22,7 @@ wikidata_id: "Q108227077"
 
 # Bolu-Goynuk Kapi Ormani
 
-Bolu-Goynuk Kapi Ormani, Karadeniz Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu orman, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Ormanın içinde bulunan çeşitli yürüyüş parkurları, ziyaretçilerin doğayı yakından keşfetmesine olanak sağlıyor. Bolu-Goynuk Kapi Ormani'nin güzelliği, sadece geniş alanıyla değil, aynı zamanda içerisinde barındırdığı çeşitli bitki ve hayvan türleriyle de dikkat çekiyor. Bu milli park, doğa severlerin mutlaka ziyaret etmesi gereken bir destinasyon olarak öne çıkıyor.
+Bolu-Goynuk Kapi Ormani, Karadeniz Bölgesi'nin kalbinde yer alan bir milli parktır. Ormanın içinde bulunan çeşitli yürüyüş parkurları, ziyaretçilerin doğayı yakından keşfetmesine olanak sağlıyor. Bolu-Goynuk Kapi Ormani'nin güzelliği, sadece geniş alanıyla değil, aynı zamanda içerisinde barındırdığı çeşitli bitki ve hayvan türleriyle de dikkat çekiyor. Bu milli park, doğa severlerin mutlaka ziyaret etmesi gereken bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

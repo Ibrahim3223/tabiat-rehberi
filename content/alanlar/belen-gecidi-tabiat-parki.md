@@ -29,7 +29,7 @@ wikidata_id: "Q108228468"
 
 # Belen Geçidi Tabiat Parkı
 
-Belen Geçidi Tabiat Parkı, Akdeniz Bölgesi'nde yer alan Hatay ilinin bir parçasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu park, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sağlar. Parkın sunduğu manzaralar, ziyaretçilerin doğanın güzelliğini ve çeşitliliğini gözlemlemelerine olanak tanır.
+Belen Geçidi Tabiat Parkı, Akdeniz Bölgesi'nde yer alan Hatay ilinin bir parçasıdır. Bu park, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sağlar. Parkın sunduğu manzaralar, ziyaretçilerin doğanın güzelliğini ve çeşitliliğini gözlemlemelerine olanak tanır.
 
 ## Tarihçe
 

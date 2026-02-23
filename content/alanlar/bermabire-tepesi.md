@@ -28,7 +28,7 @@ wikidata_id: "Q31552313"
 
 # Bermabıre Tepesi
 
-Bermabıre Tepesi, Mardin'in gözde mekanlarından biri olarak ziyaretçilerini ağırlayan bir doğa harikası. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yeşillikler içinde uzanan vadiler, manzarayı daha da güzelleştiriyor. Bu eşsiz mekan, hem doğa severler hem de tarihe meraklı olanlar için bir hazine.
+Bermabıre Tepesi, Mardin'in gözde mekanlarından biri olarak ziyaretçilerini ağırlayan bir doğa harikası. Tepenin eteklerinde yeşillikler içinde uzanan vadiler, manzarayı daha da güzelleştiriyor. Bu eşsiz mekan, hem doğa severler hem de tarihe meraklı olanlar için bir hazine.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Doğu Karadeniz'in yeşillik örtüsünü taçlandıran dağlardan biri olan Par
 
 ## Tarihçe
 
-Parmak Dağı, tarihi boyunca çeşitli uygarlıkların izlerini taşıyan Artvin bölgesinde yer alır. Bu bölge, antik dönemlerde Kolhislere ev sahipliği yapmış, daha sonra Roma ve Bizans egemenliğine girmiştir. İslam fetihleri sonrasında da önemli bir ticaret merkezi haline gelmiştir. 
+Parmak Dağı, tarihi boyunca çeşitli uygarlıkların izlerini taşıyan Artvin bölgesinde yer alır. Bu bölge, antik dönemlerde Kolhislere ev sahipliği yapmış, daha sonra Roma ve Bizans egemenliğine girmiştir. İslam fetihleri sonrasında da önemli bir ticaret merkezi haline gelmiştir.
 
 Doğal güzellikleri ve stratejik konumuyla, Parmak Dağı ve çevresi, yüzyıllar boyunca insanların yaşam alanlarını ve geçim kaynaklarını etkilemiştir. Yaylacılık ve hayvancılık, bölgenin coğrafi yapısına uygun geleneksel faaliyetler olmuştur. İnsanlar, mevsimsel olarak yüksek dağlara çıkmış, hayvanlarını otlatmış ve bu doğal zenginlikten faydalanmıştır.
 

@@ -30,7 +30,7 @@ wikidata_id: "Q31389940"
 
 # Balkan Tepe
 
-Balkan Tepe, İç Anadolu Bölgesi'nin eşsiz güzelliklerini sunan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir açıdan bölgenin güzelliğini keşfetme fırsatı sunar. Balkan Tepe'nin yüksekliği, bölgenin diğer yerlerine göre daha yüksektir ve bu nedenle, tepeye çıkanlar, muhteşem manzaralara tanık olabilirler. Tepe, aynı zamanda, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir.
+Balkan Tepe, İç Anadolu Bölgesi'nin eşsiz güzelliklerini sunan bir doğa harikasıdır. Balkan Tepe'nin yüksekliği, bölgenin diğer yerlerine göre daha yüksektir ve bu nedenle, tepeye çıkanlar, muhteşem manzaralara tanık olabilirler. Tepe, aynı zamanda, çeşitli bitki türleri ve hayvanlarla dolu zengin bir ekosisteme sahiptir.
 
 ## Tarihçe
 

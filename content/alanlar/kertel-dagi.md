@@ -32,9 +32,9 @@ Muğla'nın eşsiz doğası içinde yer alan Kertel Dağı, ziyaretçilerini nat
 
 ## Tarihçe
 
-Muğla bölgesinin zengin tarihi, Kertel Dağı'nın eteklerinde de hissedilir. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Likya, Karya ve Roma dönemlerini görmüş. Bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında olmasını sağlamıştır. 
+Muğla bölgesinin zengin tarihi, Kertel Dağı'nın eteklerinde de hissedilir. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Likya, Karya ve Roma dönemlerini görmüş. Bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında olmasını sağlamıştır.
 
-Kertel Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisine katkı sağlarken, aynı zamanda kültürel mirasın korunmasına yardımcı olmuştur. Ticaret yolları üzerinde bulunmaları, bu alanların stratejik önemini artırmıştır. 
+Kertel Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisine katkı sağlarken, aynı zamanda kültürel mirasın korunmasına yardımcı olmuştur. Ticaret yolları üzerinde bulunmaları, bu alanların stratejik önemini artırmıştır.
 
 İnsanların bu doğal alanlarla ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı değildir. Bu bölgeler, aynı zamanda kültürel ve sosyal aktivitelerin merkezini oluşturur. Yöre halkının geleneksel yaşam tarzı, bu doğal güzelliklerle iç içe geçmiş durumdadır. Kertel Dağı, Muğla'nın tarih ve doğanın birleştiği noktalarından biri olarak, ziyaretçilerini bölgeye özgü bir deneyime davet eder.
 

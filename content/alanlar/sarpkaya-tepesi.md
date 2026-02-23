@@ -28,7 +28,7 @@ wikidata_id: "Q31387684"
 
 # Sarpkaya Tepesi
 
-Sarpkaya Tepesi, Karadeniz Bölgesi'nin Artvin ilinde yer alan yüksek bir konumdate bir tepe. Bu bölge, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Sarpkaya Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve bu alanda çeşitli bitki türleri bulunur. Tepenin eteklerinde, tarihi geçmişe sahip köyler ve yerleşim yerleri yer alıyor. Sarpkaya Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor.
+Sarpkaya Tepesi, Karadeniz Bölgesi'nin Artvin ilinde yer alan yüksek bir konumdate bir tepe. Bu bölge, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Tepenin eteklerinde, tarihi geçmişe sahip köyler ve yerleşim yerleri yer alıyor. Sarpkaya Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sarpkaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Sarpkaya Tepesi, Karadeniz Bölgesi'nin Artvin ilinde yer alan bir tepe. Bu bölge, 1400 metre yüksekliğiyle dikkat çekiyor ve eteklerinde çeşitli bitki türleri bulunur. Sarpkaya Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve bu alan, ziyaretçilerine doğal güzellikleri sunuyor. Tepenin eteklerinde, tarihi geçmişe sahip köyler ve yerleşim yerleri yer alıyor. Sarpkaya Tepesi'nin coğrafyası, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerine benzersiz bir deneyim sunuyor.
+Sarpkaya Tepesi, Karadeniz Bölgesi'nin Artvin ilinde yer alan bir tepe. Bu bölge, 1400 metre yüksekliğiyle dikkat çekiyor ve eteklerinde çeşitli bitki türleri bulunur. Tepenin eteklerinde, tarihi geçmişe sahip köyler ve yerleşim yerleri yer alıyor. Sarpkaya Tepesi'nin coğrafyası, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Sarpkaya Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginl
 
 - Sarpkaya Tepesi, 1400 metre yüksekliğiyle dikkat çekiyor.
 - Bu bölge, tarihi geçmişiyle dikkat çekiyor.
-- Sarpkaya Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Bu bölgede, çeşitli bitki türleri bulunur.
 - Sarpkaya Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.

@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarihçe araştırması
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Dişibilmez Tepe","caption":"Dişibilmez Tepe","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Di%C5%9Fibilmez%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388766","tip":"genel"}]
-description: "Muğla'da yer alan históri ve coğrafi öneme sahip bir tepe"
+description: "Muğla'da yer alan tarihi ve coğrafi öneme sahip bir tepe"
 keywords: ["Dişibilmez Tepe","Muğla","Ege Bölgesi","tepe","coğrafya","tarihçe","doğal güzellikler","gezi rehberi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388766"
@@ -28,11 +28,11 @@ wikidata_id: "Q31388766"
 
 # Dişibilmez Tepe
 
-Dişibilmez Tepe, Muğla'nın eşsiz doğal güzelliklerine ev sahipliği yapan bir bölge. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Dişibilmez Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyor. Bu tepe, aynı zamanda coğrafi açıdan da önemli bir konumda yer alıyor. Ziyaretçiler, buraya gelerek hem tarihi hem de doğal güzellikleri bir arada keşfedebiliyorlar. Dişibilmez Tepe, Muğla'nın önemli bir turizm merkezi olarak dikkat çekiyor.
+Dişibilmez Tepe, Muğla'nın eşsiz doğal güzelliklerine ev sahipliği yapan bir bölge. Dişibilmez Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyor. Bu tepe, aynı zamanda coğrafi açıdan da önemli bir konumda yer alıyor. Ziyaretçiler, buraya gelerek hem tarihi hem de doğal güzellikleri bir arada keşfedebiliyorlar. Dişibilmez Tepe, Muğla'nın önemli bir turizm merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 
-Dişibilmez Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyor. Bu bölge, tarihin farklı dönemlerinde önemli bir rol oynamış ve birçok medeniyete ev sahipliği yapmış. Dişibilmez Tepe, histórik açıdan zengin bir mirasa sahip ve ziyaretçiler, bu tepeye gelerek tarihin sayfalarını karıştırmaya davet ediliyor. Tarihi kalıntılar, ziyaretçileri geçmişe götürüyor ve Dişibilmez Tepe'nin önemini gözler önüne seriyor. Bu tepe, aynı zamanda kültürel açıdan da önemli bir konumda yer alıyor. Ziyaretçiler, buraya gelerek hem histórik hem de kültürel zenginlikleri keşfedebiliyorlar.
+Dişibilmez Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyor. Bu bölge, tarihin farklı dönemlerinde önemli bir rol oynamış ve birçok medeniyete ev sahipliği yapmış. Dişibilmez Tepe, tarihi açıdan zengin bir mirasa sahip ve ziyaretçiler, bu tepeye gelerek tarihin sayfalarını karıştırmaya davet ediliyor. Tarihi kalıntılar, ziyaretçileri geçmişe götürüyor ve Dişibilmez Tepe'nin önemini gözler önüne seriyor. Bu tepe, aynı zamanda kültürel açıdan da önemli bir konumda yer alıyor. Ziyaretçiler, buraya gelerek hem tarihi hem de kültürel zenginlikleri keşfedebiliyorlar.
 
 ## Coğrafya
 
@@ -44,12 +44,12 @@ Dişibilmez Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. 
 
 ## Ziyaret Bilgileri
 
-Dişibilmez Tepe, ziyaretçilerini doğanın kucağına davet ediyor. Bu tepe, históri ve coğrafi açıdan önemli bir konumda yer alıyor ve ziyaretçilerine geniş bir bilgi sunuyor. Ziyaretçiler, buraya gelerek hem histórik hem de doğal güzellikleri keşfedebiliyorlar. Dişibilmez Tepe'ye nasıl gidilir, ne zaman gidilir ve ne yapılır gibi soruların cevapları, ziyaretçilerin bu bölgeyi keşfetmelerine yardımcı olacak. Dişibilmez Tepe, Muğla'nın önemli bir turizm merkezi olarak dikkat çekiyor ve ziyaretçilerini bekliyor.
+Dişibilmez Tepe, ziyaretçilerini doğanın kucağına davet ediyor. Bu tepe, tarihi ve coğrafi açıdan önemli bir konumda yer alıyor ve ziyaretçilerine geniş bir bilgi sunuyor. Ziyaretçiler, buraya gelerek hem tarihi hem de doğal güzellikleri keşfedebiliyorlar. Dişibilmez Tepe'ye nasıl gidilir, ne zaman gidilir ve ne yapılır gibi soruların cevapları, ziyaretçilerin bu bölgeyi keşfetmelerine yardımcı olacak. Dişibilmez Tepe, Muğla'nın önemli bir turizm merkezi olarak dikkat çekiyor ve ziyaretçilerini bekliyor.
 
 ## İlginç Bilgiler
 
 - Dişibilmez Tepe, Muğla'nın en yüksek noktalarından biri
-- Bu tepe, histórik açıdan zengin bir mirasa sahip
+- Bu tepe, tarihi açıdan zengin bir mirasa sahip
 - Dişibilmez Tepe, coğrafi açıdan önemli bir konumda yer alıyor
 - Bu tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 - Dişibilmez Tepe, Muğla'nın önemli bir turizm merkezi olarak dikkat çekiyor

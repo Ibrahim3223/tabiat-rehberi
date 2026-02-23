@@ -52,7 +52,7 @@ Işıklı Dağı, çevresindeki coğrafya ile de önemli bir bağlantıya sahip.
 
 Işıklı Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renklendirilir ve dağ çiçekleriyle süslenir. Sonbaharda ise, göç eden kuşlar dağların üzerinden geçer ve bu muhteşem manzarayı izleme fırsatı sunar.
 
-Bitki örtüsünde, yükseklik zonlarına bağlı olarak değişen hakim türler bulunur. Dağın yüksek kesimlerinde, alpin flora hüküm sürer ve özel bitkiler yetişir. Yaban hayatı da aynı şekilde çeşitlilik gösterir. Memeliler, dağ keçileri ve ayılar gibi, dağların zorlu koşullarına adapte olmuş canlılardır. Kuşlar, kartallar ve doğanların yuvalandığı bir bölge olan Işıklı Dağı, aynı zamanda sürüngenlerin de yaşam alanıdır. 
+Bitki örtüsünde, yükseklik zonlarına bağlı olarak değişen hakim türler bulunur. Dağın yüksek kesimlerinde, alpin flora hüküm sürer ve özel bitkiler yetişir. Yaban hayatı da aynı şekilde çeşitlilik gösterir. Memeliler, dağ keçileri ve ayılar gibi, dağların zorlu koşullarına adapte olmuş canlılardır. Kuşlar, kartallar ve doğanların yuvalandığı bir bölge olan Işıklı Dağı, aynı zamanda sürüngenlerin de yaşam alanıdır.
 
 Ekolojik değerini dikkate aldığımızda, Işıklı Dağı'nın korunmasının önemi ortaya çıkar. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlıları değil, aynı zamanda bölge ekolojisini de korumayı sağlar. Işıklı Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır ve koruma altına alınması gerekir.
 

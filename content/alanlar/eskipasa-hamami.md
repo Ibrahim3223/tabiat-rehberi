@@ -1,7 +1,7 @@
 ---
 title: "Eskipaşa Hamamı"
 date: "2026-01-09T22:21:35.536Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -37,7 +37,7 @@ Eskipaşa Hamamı'nın tarihi geçmişi, Sivas'ın tarihine paralel olarak geli�
 
 ## Coğrafya
 
-Eskipaşa Hamamı, Sivas ilinin merkezinde yer alan bir doğal güzelliktir. Bu alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve İç Anadolu Bölgesi'nin en önemli doğal sitelerinden biri olarak biliniyor. Eskipaşa Hamamı, Sivas'ın coğrafi yapısına uygun olarak, geniş otlak alanları ve ormanlık bölgelerden oluşuyor. Bu doğal güzellik, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Eskipaşa Hamamı, Sivas'ın iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava hüküm sürüyor. Bu doğal güzellik, Sivas'ın coğrafi yapısına uygun olarak, çeşitli bitki ve hayvan türleri barındırıyor.
+Eskipaşa Hamamı, Sivas ilinin merkezinde yer alan bir doğal güzelliktir. Eskipaşa Hamamı, Sivas'ın coğrafi yapısına uygun olarak, geniş otlak alanları ve ormanlık bölgelerden oluşuyor. Bu doğal güzellik, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Eskipaşa Hamamı, Sivas'ın iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava hüküm sürüyor. Bu doğal güzellik, Sivas'ın coğrafi yapısına uygun olarak, çeşitli bitki ve hayvan türleri barındırıyor.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Eskipaşa Hamamı, İç Anadolu Bölgesi'nin en önemli doğal sitelerinden biri
 
 ## Ziyaret Bilgileri
 
-Eskipaşa Hamamı, Sivas ilinin merkezinde yer alan bir doğal güzelliktir. Bu alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve İç Anadolu Bölgesi'nin en önemli doğal sitelerinden biri olarak biliniyor. Eskipaşa Hamamı, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Bu doğal güzellik, Sivas'ın iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava hüküm sürüyor. Eskipaşa Hamamı, Sivas'ın coğrafi yapısına uygun olarak, geniş otlak alanları ve ormanlık bölgelerden oluşuyor. Bu doğal güzellik, çeşitli yaban hayvanları ve bitkileri barındırıyor. Eskipaşa Hamamı, Sivas'ın turizm potansiyeline önemli katkılar sağlıyor.
+Eskipaşa Hamamı, Sivas ilinin merkezinde yer alan bir doğal güzelliktir. Eskipaşa Hamamı, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunuyor. Bu doğal güzellik, Sivas'ın iklimine uygun olarak, yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava hüküm sürüyor. Eskipaşa Hamamı, Sivas'ın coğrafi yapısına uygun olarak, geniş otlak alanları ve ormanlık bölgelerden oluşuyor. Bu doğal güzellik, çeşitli yaban hayvanları ve bitkileri barındırıyor. Eskipaşa Hamamı, Sivas'ın turizm potansiyeline önemli katkılar sağlıyor.
 
 ## İlginç Bilgiler
 
 - Eskipaşa Hamamı, Sivas ilinin merkezinde yer alan bir doğal güzelliktir.
-- Bu alan, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Eskipaşa Hamamı, İç Anadolu Bölgesi'nin en önemli doğal sitelerinden biri olarak biliniyor.
 - Bu doğal güzellik, Sivas'ın turizm potansiyeline önemli katkılar sağlıyor.
 - Eskipaşa Hamamı, çeşitli yaban hayvanları ve bitkileri barındırıyor.

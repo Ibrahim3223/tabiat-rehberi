@@ -1,7 +1,7 @@
 ---
 title: "Murat Baba Türbesi"
 date: "2026-01-10T06:08:58.709Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390565"
 
 # Murat Baba Türbesi
 
-Murat Baba Türbesi, Ayvalık'ın en çok ziyaret edilen plajlarından biri olarak bilinir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş kumsallarıyla karşılar. Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilen Murat Baba Türbesi, hem yerli hem de yabancı turistlerin ilgisini çeker. Plajın sunduğu hizmetler ve aktivitelerıyla, návštěvniklere keyifli bir gün geçirmeleri için her şey mevcuttur.
+Murat Baba Türbesi, Ayvalık'ın en çok ziyaret edilen plajlarından biri olarak bilinir. Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilen Murat Baba Türbesi, hem yerli hem de yabancı turistlerin ilgisini çeker. Plajın sunduğu hizmetler ve aktivitelerıyla, návštěvniklere keyifli bir gün geçirmeleri için her şey mevcuttur.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Murat Baba Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fa
 
 ## Ziyaret Bilgileri
 
-Murat Baba Türbesi'ni ziyaret etmek, özellikle yaz aylarında keyifli bir deneyim olabilir. Ziyaretçiler, plajın sunduğu hizmetlerden yararlanabilir ve denizden, güneşten keyif alabilirler. Plaja ulaşım, kolaydır ve ziyaretçiler, çeşitli ulaşım araçlarını kullanabilirler. Murat Baba Türbesi, hem günübirlik ziyaretler hem de daha uzun süreli konaklamalar için uygun bir yerdir. Ziyaretçiler, plajın etrafındaki restoran ve kafelerde, çeşitli yeme ve içecek seçeneklerine ulaşabilirler. Murat Baba Türbesi, güzellikleri ve tarihi önemini koruyarak, ziyaretçilerine unutulmaz bir deneyim sunar.
+Murat Baba Türbesi'ni ziyaret etmek, özellikle yaz aylarında keyifli bir deneyim olabilir. Ziyaretçiler, plajın sunduğu hizmetlerden yararlanabilir ve denizden, güneşten keyif alabilirler. Plaja ulaşım, kolaydır ve ziyaretçiler, çeşitli ulaşım araçlarını kullanabilirler. Murat Baba Türbesi, hem günübirlik ziyaretler hem de daha uzun süreli konaklamalar için uygun bir yerdir. Ziyaretçiler, plajın etrafındaki restoran ve kafelerde, çeşitli yeme ve içecek seçeneklerine ulaşabilirler.
 
 ## İlginç Bilgiler
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388736"
 
 # Buğluce Tepesi
 
-Buğluce Tepesi, Muğla'nın doğal güzelliklerinden biri olarak Ege Bölgesi'nde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölge, yaban hayatı için önemli bir yaşam alanı sağlar. Buğluce Tepesi, hem doğa severlerin hem de macera arayışında olanların ilgisini çeker. Tepenin yüksekliği, çevreyi keşfetmek için ideal bir nokta sunar ve ziyaretçilere geniş bir görüş alanı sağlar.
+Buğluce Tepesi, Muğla'nın doğal güzelliklerinden biri olarak Ege Bölgesi'nde yer alır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölge, yaban hayatı için önemli bir yaşam alanı sağlar. Buğluce Tepesi, hem doğa severlerin hem de macera arayışında olanların ilgisini çeker. Tepenin yüksekliği, çevreyi keşfetmek için ideal bir nokta sunar ve ziyaretçilere geniş bir görüş alanı sağlar.
 
 ## Tarihçe
 

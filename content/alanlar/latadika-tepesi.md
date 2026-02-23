@@ -28,7 +28,7 @@ wikidata_id: "Q31555091"
 
 # Latadika Tepesi
 
-Latadika Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Ziyaretçiler,Latadika Tepesi'nin sunduğu doğal güzellikleri keşfetmek için burayı tercih ediyorlar. Tepe, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında bilgiler sunuyor. Doğa severlerin keyif alacağı bir ortam sunan Latadika Tepesi, Batman'da görülebilecek önemli noktalar arasında yer alıyor.
+Latadika Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir doğa harikası. Ziyaretçiler,Latadika Tepesi'nin sunduğu doğal güzellikleri keşfetmek için burayı tercih ediyorlar. Tepe, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında bilgiler sunuyor. Doğa severlerin keyif alacağı bir ortam sunan Latadika Tepesi, Batman'da görülebilecek önemli noktalar arasında yer alıyor.
 
 ## Tarihçe
 

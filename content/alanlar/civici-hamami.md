@@ -1,7 +1,7 @@
 ---
 title: "Çivici Hamamı"
 date: "2026-01-09T23:16:58.094Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738962"
 
 # Çivici Hamamı
 
-İzmir'in Konak ilçesinde yer alan Çivici Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Bu alan, şehrin merkezinde bulunmasına rağmen, sakin ve huzurlu bir atmosfere sahiptir. Çivici Hamamı, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak dikkat çekmektedir.
+ Bu alan, şehrin merkezinde bulunmasına rağmen, sakin ve huzurlu bir atmosfere sahiptir. Çivici Hamamı, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738962"
 
 ## Coğrafya
 
-Çivici Hamamı, Konak ilçesinin merkezinde yer almaktadır. Bu bölge, Ege Bölgesi'nin önemli şehirlerinden biri olan İzmir'in kalbinde bulunmakta olup, ulaşım bakımından oldukça elverişlidir. Çivici Hamamı, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Bu alan, şehrin merkezinde bulunmasına rağmen, sakin ve huzurlu bir atmosfere sahiptir. Çivici Hamamı, plaj tutkunları için de ideal bir destinasyon olarak dikkat çekmekte olup, deniz ve kumun bir araya geldiği bu doğal güzellik, ziyaretçilerine unutulmaz anlar sunmaktadır.
+Çivici Hamamı, Konak ilçesinin merkezinde yer almaktadır. Bu bölge, Ege Bölgesi'nin önemli şehirlerinden biri olan İzmir'in kalbinde bulunmakta olup, ulaşım bakımından oldukça elverişlidir. Bu alan, şehrin merkezinde bulunmasına rağmen, sakin ve huzurlu bir atmosfere sahiptir.
 
 ## Flora ve Fauna
 

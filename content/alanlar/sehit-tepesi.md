@@ -29,7 +29,7 @@ wikidata_id: "Q31388211"
 
 # Şehit Tepesi
 
-Kars ilinin coğrafi ve tarihi açıdan önemli bir noktası olan Şehit Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Şehit Tepesi, Kars'ın merkezine yakın bir konumda yer alıyor ve ilin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehit Tepesi, aynı zamanda tarihsel bir öneme sahip ve ziyaretçilerini bölge hakkında bilgi sahibi olmaya davet ediyor.
+Kars ilinin coğrafi ve tarihi açıdan önemli bir noktası olan Şehit Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Şehit Tepesi, Kars'ın merkezine yakın bir konumda yer alıyor ve ilin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şehit Tepesi, aynı zamanda tarihsel bir öneme sahip ve ziyaretçilerini bölge hakkında bilgi sahibi olmaya davet ediyor.
 
 ## Tarihçe
 

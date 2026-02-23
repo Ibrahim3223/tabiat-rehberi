@@ -22,7 +22,7 @@ wikidata_id: "Q108227982"
 
 # Giresun-Ordu-Golkoy Saricam
 
-Giresun ve Ordu illerinin birleştiği noktada, Karadeniz Bölgesi'nin güzide millet parklarından biri olarak bilinen Giresun-Ordu-Golkoy Saricam, 140 hektarlık geniş alanıyla ziyaretçilerini doğanın kucağına davet ediyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşillik sunuyor. Millet parkının içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Giresun-Ordu-Golkoy Saricam, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor.
+Giresun ve Ordu illerinin birleştiği noktada, Karadeniz Bölgesi'nin güzide millet parklarından biri olarak bilinen Giresun-Ordu-Golkoy Saricam, 140 hektarlık geniş alanıyla ziyaretçilerini doğanın kucağına davet ediyor. Millet parkının içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Giresun-Ordu-Golkoy Saricam, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Giresun-Ordu-Golkoy Saricam millet parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Giresun-Ordu-Golkoy Saricam millet parkı, Karadeniz Bölgesi'nin kuzeydoğu kesiminde, Giresun ve Ordu illerinin sınırında yer alıyor. Parkın coğrafi yapısı, dağlık ve engebeli bir arazi üzerine kurulmuştur. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere geniş bir yeşillik sunuyor. Parkın iklimi, Karadeniz ikliminin característicasını taşır ve bol yağış alır. Bu bol yağış, parkın bitkilerinin ve ağaçlarının büyümesine katkıda bulunur. Saricam, çevresindeki dağlar ve ormanlarla birlikte, bir doğa harikası olarak kabul ediliyor. Parkın coğrafi konumu, ziyaretçilere çeşitli manzaralar sunuyor ve doğal güzelliği, ziyaretçileri büyülüyor.
+Giresun-Ordu-Golkoy Saricam millet parkı, Karadeniz Bölgesi'nin kuzeydoğu kesiminde, Giresun ve Ordu illerinin sınırında yer alıyor. Parkın coğrafi yapısı, dağlık ve engebeli bir arazi üzerine kurulmuştur. Parkın iklimi, Karadeniz ikliminin característicasını taşır ve bol yağış alır. Bu bol yağış, parkın bitkilerinin ve ağaçlarının büyümesine katkıda bulunur. Saricam, çevresindeki dağlar ve ormanlarla birlikte, bir doğa harikası olarak kabul ediliyor. Parkın coğrafi konumu, ziyaretçilere çeşitli manzaralar sunuyor ve doğal güzelliği, ziyaretçileri büyülüyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Giresun-Ordu-Golkoy Saricam millet parkını ziyaret etmek, doğayı sevenler i�
 ## İlginç Bilgiler
 
 - Giresun-Ordu-Golkoy Saricam, 140 hektarlık geniş alanı ile Karadeniz Bölgesi'nin en büyük millet parklarından biridir.
-- Park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
-- Saricam, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Park, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini gösteren özel bir destinasyon olarak bilinmektedir.
 - Giresun-Ordu-Golkoy Saricam, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biridir.

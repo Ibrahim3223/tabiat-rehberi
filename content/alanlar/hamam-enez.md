@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Enez"
 date: "2026-01-10T00:00:08.639Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245871"
 
 # Hamam, Enez
 
-Hamam Plajı, Enez'in en çok ziyaret edilen yerlerinden biri olarak biliniyor. Bu plaj, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip. Enez'in merkezine yakın bir konumda bulunan Hamam Plajı, sakin ve huzurlu bir atmosfer sunuyor. Deniz suyu, temiz ve berrak bir görünümde. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu sayede, ziyaretçiler hem deniz hem de doğanın güzelliğini aynı anda deneyimleyebiliyorlar. Hamam Plajı, özellikle yaz aylarında, Edirne'nin en çok ziyaret edilen yerlerinden biri haline geliyor.
+Hamam Plajı, Enez'in en çok ziyaret edilen yerlerinden biri olarak biliniyor. Enez'in merkezine yakın bir konumda bulunan Hamam Plajı, sakin ve huzurlu bir atmosfer sunuyor. Deniz suyu, temiz ve berrak bir görünümde. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu sayede, ziyaretçiler hem deniz hem de doğanın güzelliğini aynı anda deneyimleyebiliyorlar. Hamam Plajı, özellikle yaz aylarında, Edirne'nin en çok ziyaret edilen yerlerinden biri haline geliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hamam Plajı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölged
 
 ## Coğrafya
 
-Hamam Plajı, Marmara Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Bu plaj, Enez'in merkezine yakın bir konumda bulunmakta. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu sayede, ziyaretçiler hem deniz hem de doğanın güzelliğini aynı anda deneyimleyebiliyorlar. Hamam Plajı, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip. Plajın deniz suyu, temiz ve berrak bir görünümde. Bu sayede, ziyaretçiler, plajın güzelliğini ve temizliğini deneyimleyebiliyorlar. Hamam Plajı, Enez'in en çok ziyaret edilen yerlerinden biri olarak biliniyor. Bu plaj, özellikle yaz aylarında, Edirne'nin en çok ziyaret edilen yerlerinden biri haline geliyor. Plajın etrafında, birçok restoran ve kafe bulunmakta. Bu sayede, ziyaretçiler, plajın güzelliğini deneyimleyebildikleri gibi, aynı zamanda lezzetli yemekler ve içecekler de tadabiliyorlar.
+Hamam Plajı, Marmara Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Bu plaj, Enez'in merkezine yakın bir konumda bulunmakta. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu sayede, ziyaretçiler hem deniz hem de doğanın güzelliğini aynı anda deneyimleyebiliyorlar. Plajın deniz suyu, temiz ve berrak bir görünümde. Bu sayede, ziyaretçiler, plajın güzelliğini ve temizliğini deneyimleyebiliyorlar. Hamam Plajı, Enez'in en çok ziyaret edilen yerlerinden biri olarak biliniyor. Bu plaj, özellikle yaz aylarında, Edirne'nin en çok ziyaret edilen yerlerinden biri haline geliyor. Plajın etrafında, birçok restoran ve kafe bulunmakta. Bu sayede, ziyaretçiler, plajın güzelliğini deneyimleyebildikleri gibi, aynı zamanda lezzetli yemekler ve içecekler de tadabiliyorlar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Hamam Plajı, Enez'in en çok ziyaret edilen yerlerinden biri olarak biliniyor. 
 
 ## İlginç Bilgiler
 
-- Hamam Plajı, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip.
 - Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunmakta.
 - Hamam Plajı, Enez'in en çok ziyaret edilen yerlerinden biri olarak biliniyor.
 - Plajın deniz suyu, temiz ve berrak bir görünümde.

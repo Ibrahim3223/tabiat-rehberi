@@ -50,7 +50,7 @@ Bölgenin ekosistem bağlantıları, Balıklıgöl'ün çevresel ilişkilerini k
 
 ## Flora ve Fauna
 
-Balıklıgöl, Adana'nın step bitki örtüsüne sahip bozkır bölgesinde yer alan bir gol ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor ve su kuşları, balıklar, sulak alan bitkileri için önemli bir yaşam alanı sunuyor. 
+Balıklıgöl, Adana'nın step bitki örtüsüne sahip bozkır bölgesinde yer alan bir gol ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor ve su kuşları, balıklar, sulak alan bitkileri için önemli bir yaşam alanı sunuyor.
 
 Bitki Örtüsü bölümünde, ilkbahar aylarında golün etrafını süsleyen renkli çiçekler ve otlar göze çarpıyor. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler ön plana çıkıyor. Sonbaharda ise göç eden kuşlar, gökyüzünü süsleyen bir manzara oluşturuyor.
 

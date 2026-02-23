@@ -32,7 +32,7 @@ wikidata_id: "Q31540391"
 
 ## Tarihçe
 
-Kelmehmet Dağı, Şırnak'ın göz alıcı bir parçasıdır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Şırnak, binlerce yıllık bir geçmişe sahiptir ve birçok uygarlığa ev sahipliği yapmıştır. Bölge, Mezopotamya'nın bereketli ovalarına yakın konumuyla, tarih boyunca ticaret ve kültür alışverişinin önemli merkezlerinden biri olmuştur.
+Kelmehmet Dağı, Şırnak'ın göz alıcı bir parçasıdır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Şırnak, binlerce yıllık bir geçmişe sahiptir ve birçok uygarlığa ev sahipliği yapmıştır. Bölge, Mezopotamya'nın bereketli ovalarına yakın konumuyla, tarih boyunca ticaret ve kültür alışverişinin önemli merkezlerinden biri olmuştur.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir role sahiptir. Tarih boyunca, insanlar bu doğal alanlara bağlı olarak hayvancılık, yaylacılık ve tarım gibi faaliyetlerle uğraşmışlardır. Ayrıca, bu bölgeler ticaret yolları için de önemli geçiş noktaları olmuştur. İnsanların bu alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal açıdan da büyük önem taşır.
 
@@ -50,11 +50,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Kelmehmet Da
 
 ## Flora ve Fauna
 
-Kelmehmet Dağı, Şırnak'ta bulunan bir dağ ekosistemi olarak, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alır. Bu dağ, yükseklik zonları ile birlikte alpin flora ve dağ hayvanlarına ev sahipliği yapar. 
+Kelmehmet Dağı, Şırnak'ta bulunan bir dağ ekosistemi olarak, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alır. Bu dağ, yükseklik zonları ile birlikte alpin flora ve dağ hayvanlarına ev sahipliği yapar.
 
-Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçları renkli çiçeklerle kaplanır. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına bağlı olarak bitki türleri değişkenlik gösterir. 
+Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçları renkli çiçeklerle kaplanır. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına bağlı olarak bitki türleri değişkenlik gösterir.
 
-Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağların yüksek kesimlerinde yaşayan dağ keçileri ve yaban keçileri, bu bölgenin karakteristik hayvanlarıdır. Sonbahar aylarında, göçmen kuşlar bu dağları geçiş noktaları olarak kullanır. 
+Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağların yüksek kesimlerinde yaşayan dağ keçileri ve yaban keçileri, bu bölgenin karakteristik hayvanlarıdır. Sonbahar aylarında, göçmen kuşlar bu dağları geçiş noktaları olarak kullanır.
 
 Kelmehmet Dağı, ekolojik değer açısından önemli bir bölgedir. Bu dağ ekosisteminin korunması, yerel flora ve faunayı korumak açısından kritik öneme sahiptir. Doğal yaşam alanlarının korunmasına dikkat etmek, bu bölgenin geleceğiçin çok önemlidir.
 

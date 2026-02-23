@@ -29,7 +29,7 @@ wikidata_id: "Q31521543"
 
 # Hacılar Tepesi
 
-Hacılar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepenin etrafında yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir yer. Hacılar Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini bekliyor. Tepenin eteklerinde kurulan köyler, bölgenin tarihi geçmişini yansıtıyor. Bu köylerde, geleneksel mimari örnekleri ve tarihi yapılar ziyaretçilerin ilgisini çekiyor.
+Hacılar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu bölge, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir yer. Hacılar Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini bekliyor. Tepenin eteklerinde kurulan köyler, bölgenin tarihi geçmişini yansıtıyor. Bu köylerde, geleneksel mimari örnekleri ve tarihi yapılar ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 

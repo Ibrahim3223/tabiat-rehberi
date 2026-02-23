@@ -1,7 +1,7 @@
 ---
 title: "Üç Kuzular Türbesi"
 date: "2026-01-10T06:28:33.178Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390732"
 
 # Üç Kuzular Türbesi
 
-Üç Kuzular Türbesi, Osmangazi, Bursa'da yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güneşin sıcaklığı ve deniz suyunun serinliğiyle karşılar. Bu doğal güzelliğin etrafını çeviren tepeler, ziyaretçilere eşsiz bir manzara sunar. Üç Kuzular Türbesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak kabul edilebilir.
+Üç Kuzular Türbesi, Osmangazi, Bursa'da yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. Bu doğal güzelliğin etrafını çeviren tepeler, ziyaretçilere eşsiz bir manzara sunar. Üç Kuzular Türbesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak kabul edilebilir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ wikidata_id: "Q131390732"
 
 ## Coğrafya
 
-Üç Kuzular Türbesi, Osmangazi, Bursa'da yer alan bir plajdır ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Bu bölge, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Plajın etrafını çeviren tepeler, ziyaretçilere eşsiz bir manzara sunar ve bu doğal güzelliğin keyfini çıkarırken, aynı zamanda çevredeki flora ve faunayı da gözlemleme imkanı sunar. İklim, tipik Akdeniz iklimi özellikleri gösterir ve yaz aylarında sıcak ve kurudur. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Üç Kuzular Türbesi, Osmangazi, Bursa'da yer alan bir plajdır ve Marmara Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Plajın etrafını çeviren tepeler, ziyaretçilere eşsiz bir manzara sunar ve bu doğal güzelliğin keyfini çıkarırken, aynı zamanda çevredeki flora ve faunayı da gözlemleme imkanı sunar. İklim, tipik Akdeniz iklimi özellikleri gösterir ve yaz aylarında sıcak ve kurudur. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Flora ve Fauna
 
-Üç Kuzular Türbesi, zengin bir flora ve faunaya ev sahipliği yapar. Bu bölgede, çeşitli bitki türleri bulunur ve mevsimsel değişimlerle birlikte, farklı türler ortaya çıkar. Bahar aylarında, bölgede çiçek açan bitkiler bulunurken, yaz aylarında sıcak hava, bazı bitkilerin kurumasına neden olur. Kış aylarında ise, régionun flora ve faunası daha sakin bir hal alır. Bu bölgede, ayrıca çeşitli hayvan türleri de bulunur ve ziyaretçiler, bu hayvanları doğal ortamlarında gözlemleme imkanı bulabilir.
+Üç Kuzular Türbesi, zengin bir flora ve faunaya ev sahipliği yapar. Bu bölgede, çeşitli bitki türleri bulunur ve mevsimsel değişimlerle birlikte, farklı türler ortaya çıkar. Bahar aylarında, bölgede çiçek açan bitkiler bulunurken, yaz aylarında sıcak hava, bazı bitkilerin kurumasına neden olur. Kış aylarında ise, bölgenin flora ve faunası daha sakin bir hal alır. Bu bölgede, ayrıca çeşitli hayvan türleri de bulunur ve ziyaretçiler, bu hayvanları doğal ortamlarında gözlemleme imkanı bulabilir.
 
 ## Ziyaret Bilgileri
 

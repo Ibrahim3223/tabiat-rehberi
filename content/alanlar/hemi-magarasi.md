@@ -48,9 +48,9 @@ Hemi Mağarası, Mardin'in dağlık arazisi içerisinde yer alan bir doğal olu�
 
 ## Flora ve Fauna
 
-Hemi Mağarası, Mardin'in yarı kurak ikliminin içinde, step ve ova ekolojisinin hakim olduğu bir jeopark olarak dikkat çekiyor. Bu özel alan, 1200 hektarlık büyüklüğüyle İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hemi Mağarası, Mardin'in yarı kurak ikliminin içinde, step ve ova ekolojisinin hakim olduğu bir jeopark olarak dikkat çekiyor. Bu özel alan, 1200 hektarlık büyüklüğüyle İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar mevsiminde çiçeklerin renk cümbüşü ile donanırken, sonbaharda da yaprak dökümü ile farklı bir güzelliğe bürünüyor. Bölgede hakim türler, genellikle kuraklığa dayanıklı bitkiler ve maki türleri olarak karşımıza çıkıyor. 
+Bitki Örtüsü olarak, ilkbahar mevsiminde çiçeklerin renk cümbüşü ile donanırken, sonbaharda da yaprak dökümü ile farklı bir güzelliğe bürünüyor. Bölgede hakim türler, genellikle kuraklığa dayanıklı bitkiler ve maki türleri olarak karşımıza çıkıyor.
 
 Yaban Hayatı açısından, orman memelileri ve çeşitli kuş türleri bu bölgede yaşamını sürdürüyor. Göç mevsiminde, özellikle sonbaharda, çeşitli kuş türlerinin geçiş güzergahı olarak hizmet ediyor. Sürüngenler de bu ekosistemin bir parçası olarak, bölgenin özel koşullarına adapte olmuş türler olarak bulunuyor.
 

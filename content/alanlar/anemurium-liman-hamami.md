@@ -1,7 +1,7 @@
 ---
 title: "Anemurium Liman Hamamı"
 date: "2026-01-09T23:31:47.793Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739106"
 
 # Anemurium Liman Hamamı
 
-Anamur'un tarihi zenginliklerini barındıran Anemurium Liman Hamamı, Mersin'in önemli turistik mekanlarından biridir. Bu tarihi hamam, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. 140 hektarlık bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Anemurium Liman Hamamı, Antik Dönem'den kalan önemli tarihi yapılardan biridir ve ziyaretçiler tarafından büyük ilgi görür. Hamamın tarihi ve kültürel önemi, ziyaretçileri bu önemli yapıyı görmek için çekmektedir.
+Anamur'un tarihi zenginliklerini barındıran Anemurium Liman Hamamı, Mersin'in önemli turistik mekanlarından biridir. Bu tarihi hamam, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Anemurium Liman Hamamı, Antik Dönem'den kalan önemli tarihi yapılardan biridir ve ziyaretçiler tarafından büyük ilgi görür. Hamamın tarihi ve kültürel önemi, ziyaretçileri bu önemli yapıyı görmek için çekmektedir.
 
 ## Tarihçe
 

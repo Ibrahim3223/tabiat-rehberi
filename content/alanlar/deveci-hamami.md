@@ -1,7 +1,7 @@
 ---
 title: "Deveci Hamamı"
 date: "2026-01-09T23:14:22.842Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738880"
 
 # Deveci Hamamı
 
-Deveci Hamamı, İç Anadolu Bölgesi'nin kalbinde, Kayseri'nin Melikgazi ilçesinde yer alan bir doğal plaj alanıdır. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli ağaç türleriyle kaplıdır. Deveci Hamamı, hem Kayseri halkının hem de bölgeden geçen ziyaretçilerin sıklıkla tercih ettiği bir destinasyon olarak bilinir. Geleneksel bir plaj deneyimi sunan bu alan, aynı zamanda doğa severler için de önemli bir çekim merkezidir. Deveci Hamamı, özellikle yaz aylarında serinleme ve doğanın güzelliğini keşfetmek isteyenler için ideal bir seçimdir.
+Deveci Hamamı, İç Anadolu Bölgesi'nin kalbinde, Kayseri'nin Melikgazi ilçesinde yer alan bir doğal plaj alanıdır. Deveci Hamamı, hem Kayseri halkının hem de bölgeden geçen ziyaretçilerin sıklıkla tercih ettiği bir destinasyon olarak bilinir. Geleneksel bir plaj deneyimi sunan bu alan, aynı zamanda doğa severler için de önemli bir çekim merkezidir. Deveci Hamamı, özellikle yaz aylarında serinleme ve doğanın güzelliğini keşfetmek isteyenler için ideal bir seçimdir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34900461"
 
 # Ramogolü Tepesi
 
-Ramogolü Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde bulunan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Ramogolü Tepesi, bölgenin coğrafi yapısını oluşturan önemli bir noktadır. Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem bir manzara sunmaktadır. Ramogolü Tepesi, aynı zamanda bölgenin flora ve faunasını korumak için önemli bir alandır. Burada çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+Ramogolü Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde bulunan bir doğa harikasıdır. Ramogolü Tepesi, bölgenin coğrafi yapısını oluşturan önemli bir noktadır. Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem bir manzara sunmaktadır. Ramogolü Tepesi, aynı zamanda bölgenin flora ve faunasını korumak için önemli bir alandır. Burada çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ramogolü Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Ramogolü Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Ramogolü Tepesi, bölgenin coğrafi özelliklerini yansıtan bir alandır. Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem bir manzara sunmaktadır. Ramogolü Tepesi, aynı zamanda bölgenin flora ve faunasını korumak için önemli bir alandır. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ramogolü Tepesi'nin coğrafi konumu, bölgenin iklimini ve çevre koşullarını etkilemektedir. Bu tepe, bölgenin coğrafi ve ekolojik dengesini korumak için önemli bir role sahiptir.
+Ramogolü Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir noktadır. Ramogolü Tepesi, bölgenin coğrafi özelliklerini yansıtan bir alandır. Tepenin yüksekliği ve konumu, ziyaretçilere muhteşem bir manzara sunmaktadır. Ramogolü Tepesi, aynı zamanda bölgenin flora ve faunasını korumak için önemli bir alandır. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ramogolü Tepesi'nin coğrafi konumu, bölgenin iklimini ve çevre koşullarını etkilemektedir. Bu tepe, bölgenin coğrafi ve ekolojik dengesini korumak için önemli bir role sahiptir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Ramogolü Tepesi, ziyaretçilere muhteşem bir manzara sunmaktadır. Bu tepe, b�
 ## İlginç Bilgiler
 
 - Ramogolü Tepesi, bölgenin coğrafi yapısını oluşturan önemli bir noktadır.
-- Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Ramogolü Tepesi, bölgenin flora ve faunasını korumak için önemli bir alandır.
 - Bu tepe, mevsimsel değişimlere göre farklı bir görünüm sunmaktadır.
 - Ramogolü Tepesi, yılın her döneminde ziyaret edilebilir.

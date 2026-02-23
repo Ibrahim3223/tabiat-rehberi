@@ -29,7 +29,7 @@ wikidata_id: "Q134728410"
 
 # Hantepesi Tümülüsü, Sivas
 
-Sivas'ın merkezinde yer alan Hantepesi Tümülüsü, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan tarihi bir bölgedir. Bu alan, Sivas'ın zengin tarihi geçmişi hakkında ziyaretçilerine bilgiler sunmaktadır. Hantepesi Tümülüsü, Sivas'ta gezilebilecek önemli tarihi mekanlardan biridir. Sivas'ın coğrafi konumu nedeniyle, bu bölgede yer alan tümülüsler, tarihi açıdan büyük önem taşımaktadır. Hantepesi Tümülüsü, Sivas'ta yapılan arkeolojik kazılar sonucunda ortaya çıkarılmıştır.
+ Bu alan, Sivas'ın zengin tarihi geçmişi hakkında ziyaretçilerine bilgiler sunmaktadır. Hantepesi Tümülüsü, Sivas'ta gezilebilecek önemli tarihi mekanlardan biridir. Sivas'ın coğrafi konumu nedeniyle, bu bölgede yer alan tümülüsler, tarihi açıdan büyük önem taşımaktadır. Hantepesi Tümülüsü, Sivas'ta yapılan arkeolojik kazılar sonucunda ortaya çıkarılmıştır.
 
 ## Tarihçe
 

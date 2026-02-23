@@ -28,7 +28,7 @@ wikidata_id: "Q31386556"
 
 # Gora Sinek
 
-Türkiye'nin doğa harikaları arasında bulunan Gora Sinek Dağı, ziyaretçilerini büyüleyici manzaralarıyla selamlıyor. Bu dağ, Türkiye'nin farklı bir bölgesinde yer alıyor. Türkiye'nin çeşitli coğrafi bölgelerinde bulunan dağlar gibi Gora Sinek Dağı da kendine özgü özellikleri taşıyor. Doğa severler ve macera tutkunları için ideal bir destinasyon olan bu dağ, ziyaretçilerine unutulmaz deneyimler vaat ediyor.
+Türkiye'nin doğa harikaları arasında bulunan Gora Sinek Dağı, ziyaretçilerini büyüleyici manzaralarıyla selamlıyor. Bu dağ, Türkiye'nin farklı bir bölgesinde yer alıyor. Türkiye'nin çeşitli coğrafi bölgelerinde bulunan dağlar gibi Gora Sinek Dağı da kendine özgü özellikleri taşıyor.
 
 ## Tarihçe
 

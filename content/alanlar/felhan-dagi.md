@@ -1,7 +1,7 @@
 ---
 title: "Felhan Dağı"
 date: "2026-01-09T04:04:05.866Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Sivas"

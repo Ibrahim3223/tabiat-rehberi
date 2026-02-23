@@ -28,7 +28,7 @@ wikidata_id: "Q34829003"
 
 # Çeril Tepesi
 
-Yozgat'ın İç Anadolu Bölgesi'nde yer alan Çeril Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte oldukça geniş bir doğal bölgeyi oluşturuyor. Çeril Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor ve bir çok farklı bitki türüne ev sahipliği yapıyor. Tepenin zirvesinden manzara, ziyaretçilere geniş ve engin bir görünüm sunuyor.
+Yozgat'ın İç Anadolu Bölgesi'nde yer alan Çeril Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Çeril Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor ve bir çok farklı bitki türüne ev sahipliği yapıyor. Tepenin zirvesinden manzara, ziyaretçilere geniş ve engin bir görünüm sunuyor.
 
 ## Tarihçe
 

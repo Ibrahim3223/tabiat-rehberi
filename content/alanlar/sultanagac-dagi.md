@@ -32,9 +32,9 @@ Sinop'un doğal güzelliklerini keşfetmek isteyenler için Sultanağaç Dağı,
 
 ## Tarihçe
 
-Sinop bölgesinin zengin tarihi, çeşitli uygarlıkların izlerini taşır. Bu bölge, tarih boyunca Hitit, Pers, Roma ve Osmanlı gibi medeniyetlerin etkisi altında kalmıştır. Sultanağaç Dağı da bu tarihsel coğrafyanın içinde yer alır. 
+Sinop bölgesinin zengin tarihi, çeşitli uygarlıkların izlerini taşır. Bu bölge, tarih boyunca Hitit, Pers, Roma ve Osmanlı gibi medeniyetlerin etkisi altında kalmıştır. Sultanağaç Dağı da bu tarihsel coğrafyanın içinde yer alır.
 
-Türkiye'de doğal alanlar, insan yerleşimlerinin ve ticari faaliyetlerin önemli bir parçası olarak görülmüştür. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin ekonomisinde ve kültüründe önemli bir rol oynamıştır. Sultanağaç Dağı'nın çevresi de, tarih boyunca insan faaliyetlerine ev sahipliği yapmış olmalıdır. 
+Türkiye'de doğal alanlar, insan yerleşimlerinin ve ticari faaliyetlerin önemli bir parçası olarak görülmüştür. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin ekonomisinde ve kültüründe önemli bir rol oynamıştır. Sultanağaç Dağı'nın çevresi de, tarih boyunca insan faaliyetlerine ev sahipliği yapmış olmalıdır.
 
 Ticaret yolları ve göç rotaları, bu gibi dağlık bölgelerin etrafından geçer ve insanları birbirine bağlardı. Sultanağaç Dağı, coğrafi konumu itibariyle, bölgedeki insan faaliyetlerine tanıklık etmiş ve bölgenin doğal güzelliğini korumuştur. Bu doğal alanlar, sadece ekonomik değil, aynı zamanda kültürel ve tarihi değerler olarak da önemlidir.
 
@@ -50,11 +50,11 @@ Sultanağaç Dağı'nın çevresinde, çeşitli su kaynakları ve ekosistemler b
 
 ## Flora ve Fauna
 
-Sultanağaç Dağı, Sinop'un nemli iklimi ve gür ormanlarıyla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sultanağaç Dağı, Sinop'un nemli iklimi ve gür ormanlarıyla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamacında çiçekler açar ve renkli bir manzara ortaya çıkar. Sonbaharda ise yaprakların dökülmesiyle birlikte dağ, altın sarısı bir görünüm kazanır. Bu yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamacında çiçekler açar ve renkli bir manzara ortaya çıkar. Sonbaharda ise yaprakların dökülmesiyle birlikte dağ, altın sarısı bir görünüm kazanır. Bu yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker.
 
-Yaban Hayatı olarak, dağda çeşitli memeliler, kuşlar ve sürüngenler bulunur. Dağ, özellikle göçmen kuşlar için önemli bir durak noktasıdır. Sürüngenler, kayalık alanlarda yaşamayı tercih ederken, memeliler ise ormanlık bölgelerde bulunur. 
+Yaban Hayatı olarak, dağda çeşitli memeliler, kuşlar ve sürüngenler bulunur. Dağ, özellikle göçmen kuşlar için önemli bir durak noktasıdır. Sürüngenler, kayalık alanlarda yaşamayı tercih ederken, memeliler ise ormanlık bölgelerde bulunur.
 
 Ekolojik Değer olarak, Sultanağaç Dağı'nın yüksek biyoçeşitliliği ve dağ ekosisteminin korunması büyük önem taşır. Bu alan, birçok canlıyaşam alanı sağlar ve ekosistemin dengesini korumada önemli bir rol oynar.
 

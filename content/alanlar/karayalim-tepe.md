@@ -28,7 +28,7 @@ wikidata_id: "Q31390404"
 
 # Karayalım Tepe
 
-Karayalım Tepe, Konya'nın tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini keşfetmek isteyenler için ideal bir destinasyon. Karayalım Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Bu bölge, hem doğa severler hem de tarih meraklıları için unutulmaz bir deneyim sunuyor.
+Karayalım Tepe, Konya'nın tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Bu tepe, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini keşfetmek isteyenler için ideal bir destinasyon. Karayalım Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Bu bölge, hem doğa severler hem de tarih meraklıları için unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

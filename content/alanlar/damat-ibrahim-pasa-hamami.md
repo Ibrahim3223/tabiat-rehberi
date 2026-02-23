@@ -1,7 +1,7 @@
 ---
 title: "Damat İbrahim Paşa Hamamı"
 date: "2026-01-09T22:25:57.418Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Nevşehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738431"
 
 # Damat İbrahim Paşa Hamamı
 
-Nevşehir'in tarihi dokusunu keşfetmek isteyenler için Damat İbrahim Paşa Hamamı önemli bir duraktır. 140 hektarlık bir alanda yer alan bu tarihi yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Şehir merkezinde yer alan hamam, Nevşehir'in önemli kültürel miraslarından biridir. Damat İbrahim Paşa Hamamı, şehrin tarihini ve kültürünü öğrenmek isteyenlerin ziyaret etmesi gereken bir yerdir. Bu tarihi hamam, Nevşehir'in geçmişini ve günümüzdeki önemini anlamak için ziyaretçilere önemli bir fırsat sunar.
+Nevşehir'in tarihi dokusunu keşfetmek isteyenler için Damat İbrahim Paşa Hamamı önemli bir duraktır. Şehir merkezinde yer alan hamam, Nevşehir'in önemli kültürel miraslarından biridir. Damat İbrahim Paşa Hamamı, şehrin tarihini ve kültürünü öğrenmek isteyenlerin ziyaret etmesi gereken bir yerdir. Bu tarihi hamam, Nevşehir'in geçmişini ve günümüzdeki önemini anlamak için ziyaretçilere önemli bir fırsat sunar.
 
 ## Tarihçe
 

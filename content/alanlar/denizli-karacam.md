@@ -23,7 +23,7 @@ wikidata_id: "Q108227500"
 
 # Denizli Karacam
 
-Denizli Karacam, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla baş başa bırakmak için tasarlanmış bir cennettir. Denizli Karacam, doğa severlerin ve çevrecilerin merakla beklediği bir destinasyondur. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunmaktadır.
+Denizli Karacam, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandır. Denizli Karacam, doğa severlerin ve çevrecilerin merakla beklediği bir destinasyondur. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunmaktadır.
 
 ## Tarihçe
 

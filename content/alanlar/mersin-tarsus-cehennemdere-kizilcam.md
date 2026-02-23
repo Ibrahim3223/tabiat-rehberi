@@ -22,7 +22,7 @@ wikidata_id: "Q108227662"
 
 # Mersin-Tarsus-Cehennemdere Kızılçam
 
-Mersin-Tarsus-Cehennemdere Kızılçam Milli Parkı, Mersin'in Tarsus ilçesinde yer alır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Parkın ismi, burada bulunan kızılçam ağaçlarından ve Cehennemdere adlı derenin varlığından gelmektedir. Bu milli park, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak bilinir.
+Mersin-Tarsus-Cehennemdere Kızılçam Milli Parkı, Mersin'in Tarsus ilçesinde yer alır. Parkın ismi, burada bulunan kızılçam ağaçlarından ve Cehennemdere adlı derenin varlığından gelmektedir. Bu milli park, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon olarak bilinir.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Mersin-Tarsus-Cehennemdere Kızılçam Milli Parkı, Akdeniz Bölgesi'nde yer al
 
 ## Flora ve Fauna
 
-Mersin-Tarsus-Cehennemdere Kızılçam Milli Parkı, zengin bir flora ve fauna çeşitliliğine sahiptir. Parkın flora açısından en önemli özelliği, burada bulunan geniş kızılçam ormanlarıdır. Bu ormanlar, bölgenin ekosistemini destekler ve çeşitli hayvan türleri için yaşam alanı sağlar. Fauna açısından da zengin olan parkta, çeşitli kuş türleri, memeliler ve sürüngenler bulunur. Mevsimsel değişimler, parkın flora ve faunasını etkiler; özellikle ilkbahar ve sonbahar aylarında, parkın ren ve canlılık açısından en aktif olduğu dönemlerdir. Bu doğal güzellikler, parkın ziyaretçilerine unutulmaz bir deneyim sunar.
+Mersin-Tarsus-Cehennemdere Kızılçam Milli Parkı, zengin bir flora ve fauna çeşitliliğine sahiptir. Parkın flora açısından en önemli özelliği, burada bulunan geniş kızılçam ormanlarıdır. Bu ormanlar, bölgenin ekosistemini destekler ve çeşitli hayvan türleri için yaşam alanı sağlar. Fauna açısından da zengin olan parkta, çeşitli kuş türleri, memeliler ve sürüngenler bulunur. Mevsimsel değişimler, parkın flora ve faunasını etkiler; özellikle ilkbahar ve sonbahar aylarında, parkın ren ve canlılık açısından en aktif olduğu dönemlerdir.
 
 ## Ziyaret Bilgileri
 

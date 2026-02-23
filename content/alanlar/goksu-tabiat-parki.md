@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Göksu Tabiat Parkı
 
-Göksu Tabiat Parkı, Bolu'nun en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Bu büyüklükte bir alan, ziyaretçilere geniş bir doğa alanı sunuyor. Park, Karadeniz Bölgesi'nin karakteristik yapısını taşıyan ormanları ve çayırı ile birlikte, ziyaretçilere doğanın güzelliğini sunuyor. Göksu Tabiat Parkı, hem doğa severler hem de bol vakit geçirmek isteyenler için ideal bir destinasyon olarak görülüyor.
+Göksu Tabiat Parkı, Bolu'nun en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu büyüklükte bir alan, ziyaretçilere geniş bir doğa alanı sunuyor. Park, Karadeniz Bölgesi'nin karakteristik yapısını taşıyan ormanları ve çayırı ile birlikte, ziyaretçilere doğanın güzelliğini sunuyor. Göksu Tabiat Parkı, hem doğa severler hem de bol vakit geçirmek isteyenler için ideal bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Göksu Tabiat Parkı, ziyaretçilere geniş bir doğa alanı sunuyor. Parka, Kar
 ## İlginç Bilgiler
 
 - Göksu Tabiat Parkı, 140 hektarlık bir yeşil alanı kapsıyor.
-- Park, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir.
+
 - Göksu Tabiat Parkı, Karadeniz Bölgesi'nin karakteristik coğrafi yapısını taşıyor.
 - Park, çeşitli flora ve fauna türlerine ev sahipliği yapıyor.
 - Göksu Tabiat Parkı, doğa severler için ideal bir destinasyon olarak görülüyor.

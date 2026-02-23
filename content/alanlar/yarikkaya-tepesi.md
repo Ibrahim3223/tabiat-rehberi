@@ -28,7 +28,7 @@ wikidata_id: "Q31389980"
 
 # Yarıkkaya Tepesi
 
-Eskişehir'in İç Anadolu Bölgesi'nde yer alan Yarıkkaya Tepesi, bölgeye özgü doğal güzellikleri sunan bir destinasyon olarak dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkar. Yarıkkaya Tepesi, ziyaretçilerine hem doğa güzelliklerini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yarıkkaya Tepesi, aynı zamanda bölgenin coğrafi yapısını gözlemlemek isteyenler için ideal bir nokta.
+Eskişehir'in İç Anadolu Bölgesi'nde yer alan Yarıkkaya Tepesi, bölgeye özgü doğal güzellikleri sunan bir destinasyon olarak dikkat çeker. Yarıkkaya Tepesi, ziyaretçilerine hem doğa güzelliklerini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yarıkkaya Tepesi, aynı zamanda bölgenin coğrafi yapısını gözlemlemek isteyenler için ideal bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yarıkkaya Tepesi'nin tarihi geçmişi, Eskişehir'in tarihine paralel olarak ş
 
 ## Coğrafya
 
-Yarıkkaya Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alır ve bölgenin coğrafi yapısını gözlemlemek için ideal bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkar. Yarıkkaya Tepesi, bölgenin coğrafi özelliklerini yansıtan bir tepe olarak dikkat çeker. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklimdir. Yarıkkaya Tepesi, ziyaretçilerine bölgenin coğrafi güzelliklerini sunar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yarıkkaya Tepesi, aynı zamanda bölgenin coğrafi yapısını gözlemlemek isteyenler için ideal bir nokta. Bölgenin çevresi, doğal güzellikleriyle dikkat çeker ve ziyaretçilere doğayla iç içe bir deneyim sunar.
+Yarıkkaya Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alır ve bölgenin coğrafi yapısını gözlemlemek için ideal bir noktadır. Yarıkkaya Tepesi, bölgenin coğrafi özelliklerini yansıtan bir tepe olarak dikkat çeker. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir iklimdir. Yarıkkaya Tepesi, ziyaretçilerine bölgenin coğrafi güzelliklerini sunar. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yarıkkaya Tepesi, aynı zamanda bölgenin coğrafi yapısını gözlemlemek isteyenler için ideal bir nokta. Bölgenin çevresi, doğal güzellikleriyle dikkat çeker ve ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 

@@ -28,12 +28,12 @@ wikidata_id: "Q31556796"
 
 # Etlik Dağı
 
-Ankara'nın göbeğinde, şehrin kalabalığından uzaklaşmak isteyenlerin sığınağı olan Etlik Dağı, ziyaretçilerini bekliyor. Ankara'nın merkezinde yer alan bu dağ, şehrin doğal güzelliğini korumayı başarmış ender yerlerden biri. Etlik Dağı, Ankara'nın şehir hayatının arasında yeşilin huzurunu sunuyor. 
+Ankara'nın göbeğinde, şehrin kalabalığından uzaklaşmak isteyenlerin sığınağı olan Etlik Dağı, ziyaretçilerini bekliyor. Ankara'nın merkezinde yer alan bu dağ, şehrin doğal güzelliğini korumayı başarmış ender yerlerden biri. Etlik Dağı, Ankara'nın şehir hayatının arasında yeşilin huzurunu sunuyor.
 Doğal güzelliği ile dikkat çeken Etlik Dağı, Ankara'nın önemli noktalarından biri.
 
 ## Tarihçe
 
-Ankara bölgesinin zengin tarihi, Etlik Dağı'nın eteklerinde de hissedilir. Bu bölge, históri boyunca çeşitli uygarlıkların yerleşim ve ticaret merkezi olarak hizmet vermiştir. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, Ankara'nın stratejik konumundan yararlanarak burada yaşamış ve ticaret yapmışlardır.
+Ankara bölgesinin zengin tarihi, Etlik Dağı'nın eteklerinde de hissedilir. Bu bölge, tarihi boyunca çeşitli uygarlıkların yerleşim ve ticaret merkezi olarak hizmet vermiştir. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, Ankara'nın stratejik konumundan yararlanarak burada yaşamış ve ticaret yapmışlardır.
 
 Doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bir yer tutar. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yaşayan halkların temel geçim kaynakları olmuştur. Ayrıca, tarihi ticaret yolları da thườnga bu doğal güzelliğin içinden geçer. İnsanların bu alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir.
 

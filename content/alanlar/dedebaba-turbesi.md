@@ -1,7 +1,7 @@
 ---
 title: "Dedebaba Türbesi"
 date: "2026-01-10T04:53:54.495Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kahramanmaraş"
@@ -29,7 +29,7 @@ wikidata_id: "Q125604605"
 
 # Dedebaba Türbesi
 
-Dedebaba Türbesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan tarihi ve doğal bir güzelliktir. Bu alan, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor. Dedebaba Türbesi, ziyaretçiler için bir çekim merkezi oluşturuyor ve tarihi mekanlarla ilgilenenler için önemli bir destinasyon olarak görülüyor. Kahramanmaraş'ın zengin tarihi ve kültürel mirasının bir parçası olarak kabul ediliyor.
+Dedebaba Türbesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan tarihi ve doğal bir güzelliktir. Tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor. Dedebaba Türbesi, ziyaretçiler için bir çekim merkezi oluşturuyor ve tarihi mekanlarla ilgilenenler için önemli bir destinasyon olarak görülüyor. Kahramanmaraş'ın zengin tarihi ve kültürel mirasının bir parçası olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dedebaba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Dedebaba Türbesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Akdeniz iklimi, bölgenin karakteristik özelliğini oluşturuyor ve ziyaretçiler için bir çekim merkezi oluşturuyor. Dedebaba Türbesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu alan, ziyaretçiler için bir dinlenme ve gezi imkânı sunuyor. Coğrafi olarak, Dedebaba Türbesi, Kahramanmaraş'ın doğal güzelliklerini ziyaretçilerle buluşturuyor ve önemli bir destinasyon olarak görülüyor.
+Dedebaba Türbesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Akdeniz iklimi, bölgenin karakteristik özelliğini oluşturuyor ve ziyaretçiler için bir çekim merkezi oluşturuyor. Bu alan, ziyaretçiler için bir dinlenme ve gezi imkânı sunuyor. Coğrafi olarak, Dedebaba Türbesi, Kahramanmaraş'ın doğal güzelliklerini ziyaretçilerle buluşturuyor ve önemli bir destinasyon olarak görülüyor.
 
 ## Flora ve Fauna
 

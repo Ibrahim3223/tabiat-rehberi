@@ -23,7 +23,7 @@ wikidata_id: "Q108228757"
 
 # ÜMRANİYE
 
-Ümraniye, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarıyla karşılar. Bu doğal alan, hem doğa severler hem de tarih meraklıları için bir hazine. Ümraniye, ziyaretçilerine zengin bir flora ve fauna sunar ve burada geçirilen her an, unutulmaz bir deneyime dönüşür. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla Ümraniye, her yıl binlerce ziyaretçiyi ağırlayan önemli bir turizm merkezidir.
+Ümraniye, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu doğal alan, hem doğa severler hem de tarih meraklıları için bir hazine. Ümraniye, ziyaretçilerine zengin bir flora ve fauna sunar ve burada geçirilen her an, unutulmaz bir deneyime dönüşür. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla Ümraniye, her yıl binlerce ziyaretçiyi ağırlayan önemli bir turizm merkezidir.
 
 ## Tarihçe
 
@@ -39,12 +39,12 @@ wikidata_id: "Q108228757"
 
 ## Ziyaret Bilgileri
 
-Ümraniye'yi ziyaret etmek için en iyi zaman, bahar ve yaz aylarıdır. Bu dönemlerde bölge, en güzel haliyle ziyaretçilerini karşılar. Ümraniye'ye ulaşım, çeşitli ulaşım araçlarıyla sağlanabilir. Ziyaretçiler, burada doğa yürüyüşleri, fotoğrafçılık ve doğa gibi aktiviteler yapabilir. Ümraniye, ziyaretçilerine unutulmaz bir deneyimi sunar ve her yıl binlerce ziyaretçiyi ağırlayan önemli bir turizm merkezidir.
+Ümraniye'yi ziyaret etmek için en iyi zaman, bahar ve yaz aylarıdır. Bu dönemlerde bölge, en güzel haliyle ziyaretçilerini karşılar. Ümraniye'ye ulaşım, çeşitli ulaşım araçlarıyla sağlanabilir. Ziyaretçiler, burada doğa yürüyüşleri, fotoğrafçılık ve doğa gibi aktiviteler yapabilir.
 
 ## İlginç Bilgiler
 
 - Ümraniye, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
-- Bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Ümraniye, ziyaretçilerine çeşitli bitki türleri ve zengin fauna sunar.
 - Bölge, iklim olarak İç Anadolu Bölgesi'nin genel characteristicsini taşır.
 - Ümraniye, her yıl binlerce ziyaretçiyi ağırlayan önemli bir turizm merkezidir.

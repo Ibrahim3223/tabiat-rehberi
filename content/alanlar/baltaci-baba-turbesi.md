@@ -1,7 +1,7 @@
 ---
 title: "Baltacı Baba Türbesi"
 date: "2026-01-10T07:09:35.285Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390945"
 
 # Baltacı Baba Türbesi
 
-Baltacı Baba Türbesi, Şanlıurfa'nın Haliliye ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir mekan olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Baltacı Baba Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği bir noktada yer alıyor ve bu nedenle ziyaretçilerini cezbediyor.
+Baltacı Baba Türbesi, Şanlıurfa'nın Haliliye ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir mekan olarak dikkat çekiyor. Baltacı Baba Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği bir noktada yer alıyor ve bu nedenle ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Baltacı Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri 
 ## İlginç Bilgiler
 
 - Baltacı Baba Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir mekan.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor.
 - Çevre, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahip.
 - Ziyaretçiler, bu bölgede çeşitli etkinlikler gerçekleştirebiliyor.

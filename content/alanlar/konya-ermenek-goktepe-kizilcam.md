@@ -22,7 +22,7 @@ wikidata_id: "Q108228537"
 
 # Konya-Ermenek-Goktepe-Kizilcam
 
-Konya ilinin Ermenek ilçesinde bulunan Konya-Ermenek-Goktepe-Kizilcam milli parkı, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsıyor. Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Milli parkın konumu, İç Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Burada, yaban hayatının zenginliği ve çeşitli bitki türleri, ziyaretçileri doğanın güzelliği ile baş başa bırakıyor.
+ Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Milli parkın konumu, İç Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Burada, yaban hayatının zenginliği ve çeşitli bitki türleri, ziyaretçileri doğanın güzelliği ile baş başa bırakıyor.
 
 ## Tarihçe
 

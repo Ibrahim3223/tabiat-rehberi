@@ -32,7 +32,7 @@ Mardin'in tarihi dokusu içinde yer alan Garza Tepe, bölgenin coğrafi çeşitl
 
 ## Tarihçe
 
-Mardin bölgesinin zengin tarihi, binlerce yıl öncesine uzanır. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşamına ev sahipliği yaptı. Hitit, Asur, Roma ve Osmanlı gibi medeniyetlerin izlerini taşıyan Mardin, kültürel ve tarihi açıdan büyük bir önem taşır. 
+Mardin bölgesinin zengin tarihi, binlerce yıl öncesine uzanır. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşamına ev sahipliği yaptı. Hitit, Asur, Roma ve Osmanlı gibi medeniyetlerin izlerini taşıyan Mardin, kültürel ve tarihi açıdan büyük bir önem taşır.
 
 Garza Tepe gibi doğal alanlar, Türkiye'nin coğrafi çeşitliliğini ve tarihi öneminin bir parçasını oluşturur. Bu tür bölgeler, yüzyıllar boyunca insanların yaşamlarına yön vermiştir. Yaylacılık ve hayvancılık faaliyetleri, bu doğal alanların önemini vurgular. Ayrıca, ticaret yollarının uğrak noktaları olarak da kullanılan bu bölgeler, kültürlerin ve uygarlıkların birbiriyle etkileşimine sahne olmuştur.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31385823"
 
 # Gerger Tepe
 
-Gerger Tepe, Van ilinin doğal güzelliklerini keşfetmek isteyenler için bir hazine. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafi yapısını anlamak için mükemmel bir gözlem noktası sunuyor. Bu tepe, doğa severler ve macera arayanlar için ideal bir destinasyon. Gerger Tepe'nin sunduğu manzara, Van Gölü'nün ve çevredeki dağların büyüleyici görüntüsünü içeriyor. Burada, doğanın güzelliği ve bölgenin kültürel zenginliği bir araya geliyor.
+Gerger Tepe, Van ilinin doğal güzelliklerini keşfetmek isteyenler için bir hazine. Bu tepe, doğa severler ve macera arayanlar için ideal bir destinasyon. Gerger Tepe'nin sunduğu manzara, Van Gölü'nün ve çevredeki dağların büyüleyici görüntüsünü içeriyor. Burada, doğanın güzelliği ve bölgenin kültürel zenginliği bir araya geliyor.
 
 ## Tarihçe
 

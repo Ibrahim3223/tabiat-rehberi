@@ -1,7 +1,7 @@
 ---
 title: "Hacı Kemal Dede Türbesi"
 date: "2026-01-10T05:02:35.502Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Uşak"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391559"
 
 # Hacı Kemal Dede Türbesi
 
-Hacı Kemal Dede Türbesi, Uşak'ın merkezinde yer alan tarihi bir türbe ve plaj olarak dikkat çeker. 140 hektarlık bir alanda bulunan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin etrafında yer alan yeşil alanlar, ziyaretçilerin dinlenmeleri için uygun bir ortam sağlar. Hacı Kemal Dede Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeder. Uşak'ın merkezinde yer alması nedeniyle ulaşımı da oldukça kolaydır.
+Hacı Kemal Dede Türbesi, Uşak'ın merkezinde yer alan tarihi bir türbe ve plaj olarak dikkat çeker. Türbenin etrafında yer alan yeşil alanlar, ziyaretçilerin dinlenmeleri için uygun bir ortam sağlar. Hacı Kemal Dede Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeder. Uşak'ın merkezinde yer alması nedeniyle ulaşımı da oldukça kolaydır.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Hacı Kemal Dede Türbesi, Uşak'ın merkezinde yer alır ve Ege Bölgesi'nin co
 
 ## Flora ve Fauna
 
-Hacı Kemal Dede Türbesi ve çevresindeki yeşil alanlar, çeşitli bitki türleri ile ziyaretçilerini karşılar. Mevsimsel değişimlere bağlı olarak, bu bölgede farklı bitki türleri görülür. Bahar aylarında, çiçek açan bitkiler ile birlikte, yeşillikler ön plana çıkar. Kış aylarında ise, bazı bitkilerin yapraklarını döktüğü görülür. Bu bölge, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Kuş türleri, özellikle ilkbahar ve sonbahar aylarında bu bölgede görülür. Hacı Kemal Dede Türbesi ve plajı, Uşak'ın ekolojik dengesini korumak açısından önemli bir role sahiptir. Bu bölge, doğa severlerin ilgisini çeker ve ziyaretçilere doğayı korumak açısından önemli bir sorumlulu verir.
+Hacı Kemal Dede Türbesi ve çevresindeki yeşil alanlar, çeşitli bitki türleri ile ziyaretçilerini karşılar. Mevsimsel değişimlere bağlı olarak, bu bölgede farklı bitki türleri görülür. Bahar aylarında, çiçek açan bitkiler ile birlikte, yeşillikler ön plana çıkar. Kış aylarında ise, bazı bitkilerin yapraklarını döktüğü görülür. Bu bölge, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Kuş türleri, özellikle ilkbahar ve sonbahar aylarında bu bölgede görülür. Bu bölge, doğa severlerin ilgisini çeker ve ziyaretçilere doğayı korumak açısından önemli bir sorumlulu verir.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Hacı Kemal Dede Türbesi ve plajını ziyaret etmek, Uşak'ın merkezinde yer a
 ## İlginç Bilgiler
 
 - Hacı Kemal Dede Türbesi, Uşak'ın en önemli turizm merkezlerinden biridir.
-- Türbenin etrafındaki yeşil alanlar, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Hacı Kemal Dede Türbesi, yüzyıllar boyunca Uşak'ın önemli dini ve kültürel merkezlerinden biri olarak kabul edilmiştir.
 - Plaj, ilkbahar ve yaz aylarında en çok ziyaret edilen yerlerden biridir.
 - Türbe ve çevresindeki yeşil alanlar, doğa severlerin ilgisini çeker.

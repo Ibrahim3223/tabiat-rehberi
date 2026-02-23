@@ -28,7 +28,7 @@ wikidata_id: "Q60178807"
 
 # Menaberd
 
-Kars'ın dağlık arazisinde, históriki bir geçmişe sahip olan Menaberd Dağı, ziyaretçilerini doğal güzellikleriyle karşılar. Bu dağ, Kars ilinin coğrafi yapısını şekillendiren önemli bir noktadır. Kars'ın dağlık bölgesinde yer alan Menaberd, yerel hal ve ziyaretçiler için önemli bir destinasyondur. Doğal güzelliği ve tarihi önemi ile dikkat çeker.
+Kars'ın dağlık arazisinde, tarihi bir geçmişe sahip olan Menaberd Dağı, ziyaretçilerini doğal güzellikleriyle karşılar. Bu dağ, Kars ilinin coğrafi yapısını şekillendiren önemli bir noktadır. Kars'ın dağlık bölgesinde yer alan Menaberd, yerel hal ve ziyaretçiler için önemli bir destinasyondur. Doğal güzelliği ve tarihi önemi ile dikkat çeker.
 
 ## Tarihçe
 
@@ -50,9 +50,9 @@ Mevsimsel değişikliklere bakıldığında, Menaberd dağının iklim karakteri
 
 ## Flora ve Fauna
 
-Menaberd dağının yükseklik zonları, çeşitli bitki türlerine ev sahipliği yapıyor. İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle donanıyor. Sonbaharda ise, göçmen kuşlar bu bölgeden geçerken, dağların eteklerinde konaklıyorlar. 
+Menaberd dağının yükseklik zonları, çeşitli bitki türlerine ev sahipliği yapıyor. İlkbaharla birlikte, alpin çayırlar renkli çiçeklerle donanıyor. Sonbaharda ise, göçmen kuşlar bu bölgeden geçerken, dağların eteklerinde konaklıyorlar.
 
-Bu dağ ekosisteminde, memeliler ve kuşlar birlikte yaşıyor. Dağ keçileri ve yaban keçileri, yüksek kesimlerdeki çayırlarda beslenirken, kartallar ve şahinler ise gökyüzünden avlarını izliyorlar. 
+Bu dağ ekosisteminde, memeliler ve kuşlar birlikte yaşıyor. Dağ keçileri ve yaban keçileri, yüksek kesimlerdeki çayırlarda beslenirken, kartallar ve şahinler ise gökyüzünden avlarını izliyorlar.
 
 Menaberd'in ekolojik değeri, endemik türlerin varlığından kaynaklanıyor. Bu bölgenin yüksek dağ ekolojisi, benzersiz bir habitat sunuyor. Ancak, bu bölgeyi korumak için daha fazla çaba göstermek gerekiyor.
 

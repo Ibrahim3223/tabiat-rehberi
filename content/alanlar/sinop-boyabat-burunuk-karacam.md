@@ -22,7 +22,7 @@ wikidata_id: "Q108227954"
 
 # Sinop-Boyabat-Burunuk Karacam
 
-Sinop-Boyabat-Burunuk Karacam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Parkın içerisinde çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sinop'un tarihi geçmişi ve kültürel zenginliği, bu milli parkı ziyaret etmek için bir başka neden. Doğa yürüyüşleri, piknik alanları ve gözlem noktaları ile ziyaretçilere keyifli anlar yaşatıyor.
+Sinop-Boyabat-Burunuk Karacam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak karşımıza çıkıyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Sinop'un tarihi geçmişi ve kültürel zenginliği, bu milli parkı ziyaret etmek için bir başka neden. Doğa yürüyüşleri, piknik alanları ve gözlem noktaları ile ziyaretçilere keyifli anlar yaşatıyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Sinop-Boyabat-Burunuk Karacam milli parkı, ziyaretçilere keyifli anlar yaşatm
 ## İlginç Bilgiler
 
 - Sinop-Boyabat-Burunuk Karacam milli parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin.
-- Parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Parkta, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Parkın tarihi geçmişi, bölgenin kültürel zenginliğini gösteriyor.
 - Park, doğa severler için bir cennet.

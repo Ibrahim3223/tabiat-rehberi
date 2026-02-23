@@ -1,7 +1,7 @@
 ---
 title: "Saray Hamamı, Edirne"
 date: "2026-01-10T03:39:57.499Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q133245854"
 
 # Saray Hamamı, Edirne
 
-Edirne, Marmara Bölgesi'nin önemli kültür ve tarih merkezlerinden biri olarak bilinir. Saray Hamamı, bu bölgenin en dikkat çekici tarihi yapılarından biridir. Kentin merkezi bölgesinde yer alan Saray Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Saray Hamamı, geçmişte önemli bir tarihi ve kültürel merkez olarak görev yapmıştır. Günümüzde ise, bu yapı, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir gezi noktası olarak dikkat çeker.
+Edirne, Marmara Bölgesi'nin önemli kültür ve tarih merkezlerinden biri olarak bilinir. Saray Hamamı, bu bölgenin en dikkat çekici tarihi yapılarından biridir. Kentin merkezi bölgesinde yer alan Saray Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Saray Hamamı, geçmişte önemli bir tarihi ve kültürel merkez olarak görev yapmıştır. Günümüzde ise, bu yapı, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir gezi noktası olarak dikkat çeker.
 
 ## Tarihçe
 

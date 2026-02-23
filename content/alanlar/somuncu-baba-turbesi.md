@@ -1,7 +1,7 @@
 ---
 title: "Somuncu Baba Türbesi"
 date: "2026-01-10T06:01:33.363Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390526"
 
 # Somuncu Baba Türbesi
 
-Somuncu Baba Türbesi, Aksaray'ın zengin tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. Bu özel mekan, ziyaretçilerini hem tarihin derinliklerine hem de doğanın güzelliğine davet eder. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunar. Somuncu Baba Türbesi, tarihi ve doğal değerleri ile dikkat çekici bir destinasyon olarak karşımıza çıkar.
+Somuncu Baba Türbesi, Aksaray'ın zengin tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. Bu özel mekan, ziyaretçilerini hem tarihin derinliklerine hem de doğanın güzelliğine davet eder. Somuncu Baba Türbesi, tarihi ve doğal değerleri ile dikkat çekici bir destinasyon olarak karşımıza çıkar.
 
 ## Tarihçe
 

@@ -48,11 +48,11 @@ Jeolojik açıdan bakıldığında, Gavur Tepe'nin fiziksel yapısı hakkında d
 
 ## Flora ve Fauna
 
-Gavur Tepe, Batman'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
+Gavur Tepe, Batman'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
 
-Bitki Örtüsü olarak, ilkbahar aylarında çiçeklenen çok yıllık otlar ve thấp büyüyen çalı türleri hakim. Dağın yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artıyor. 
+Bitki Örtüsü olarak, ilkbahar aylarında çiçeklenen çok yıllık otlar ve thấp büyüyen çalı türleri hakim. Dağın yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artıyor.
 
-Yaban Hayatı açısından, dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların kayalık bölgelerinde yaşamlarını sürdürüyor. Kuşlar olarak, kartallar ve doğanların yanı sıra, göçmen kuşlar sonbahar aylarında bu bölgeyi ziyaret ediyor. 
+Yaban Hayatı açısından, dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların kayalık bölgelerinde yaşamlarını sürdürüyor. Kuşlar olarak, kartallar ve doğanların yanı sıra, göçmen kuşlar sonbahar aylarında bu bölgeyi ziyaret ediyor.
 
 Ekolojik Değer olarak, Gavur Tepe'nin korunması, bölgenin ekosistem dengesinin korunması için çok önemli. Bu dağ ekosisteminin bozulması, yerel fauna ve flora türlerinin yok olmasına neden olabilir.
 

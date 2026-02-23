@@ -22,7 +22,7 @@ wikidata_id: "Q108227718"
 
 # Sinop-Ayancik-Yenice Cinar
 
-Sinop-Ayancik-Yenice Cinar milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunar. Bu bölge, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çeker. Ziyaretçiler, buraya gelerek hem doğa ile baş başa kalabilirler hem de tarihî eserleri görebilirler. Sinop-Ayancik-Yenice Cinar, Karadeniz'in en önemli turizm merkezlerinden biri olarak bilinir.
+Sinop-Ayancik-Yenice Cinar milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. Bu bölge, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çeker. Ziyaretçiler, buraya gelerek hem doğa ile baş başa kalabilirler hem de tarihî eserleri görebilirler. Sinop-Ayancik-Yenice Cinar, Karadeniz'in en önemli turizm merkezlerinden biri olarak bilinir.
 
 ## Tarihçe
 

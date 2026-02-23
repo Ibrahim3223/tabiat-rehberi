@@ -52,7 +52,7 @@ Aşk Vadisi, çevresindeki doğal ve kültürel zenginliklerle bağlantılı ola
 
 ## Flora ve Fauna
 
-Aşk Vadisi, Kapadokya'nın kalbinde yer alan bir kanyon alanıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Aşk Vadisi, Kapadokya'nın kalbinde yer alan bir kanyon alanıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 1. Bitki Örtüsü: Step bitki örtüsü hakimdir. İlkbaharda, bozkırın rengarenk çiçeklerle süslendiğini görebilirsiniz. Kuraklığa adapte türler, bölgenin zorlu koşullarına uyum sağlamışlardır.
 2. Yaban Hayatı: Memeliler ve sürüngenler, bu kanyonun yaşamını sürdürür. Göç mevsimlerinde, çeşitli kuş türleri Aşk Vadisi'ni konaklama alanı olarak kullanır.
 3. Ekolojik Değer: Bu bölge, kuraklığa adapte türlerin yaşamlarını sürdürdüğü önemli bir ekosistemdir. Bu nedenle, koruma altına alınması büyük önem taşır.

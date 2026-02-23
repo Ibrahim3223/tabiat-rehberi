@@ -51,8 +51,8 @@ Mevsimsel değişimler, Kula Dağı'nın iklimini şekillendiren önemli bir fak
 
 ## Flora ve Fauna
 
-Kula Dağı, step bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu bölgede, kuraklığa adapte olmuş bitkiler hakimdir. İlkbaharla birlikte, dağ yamaçlarında çeşitli çiçekler açarak renkli bir manzara sunar. 
-Yaban hayatı da zenginlik gösterir; dağ keçileri, tilkiler ve çeşitli kuş türleri bu bölgede yaşar. 
+Kula Dağı, step bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu bölgede, kuraklığa adapte olmuş bitkiler hakimdir. İlkbaharla birlikte, dağ yamaçlarında çeşitli çiçekler açarak renkli bir manzara sunar.
+Yaban hayatı da zenginlik gösterir; dağ keçileri, tilkiler ve çeşitli kuş türleri bu bölgede yaşar.
 Kula Dağı, ekolojik açıdan önemli bir alandır. Bu bölgenin korunması, step ekosisteminin devamı için büyük önem taşır.
 
 ## Ziyaret Bilgileri

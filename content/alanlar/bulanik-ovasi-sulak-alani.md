@@ -22,7 +22,7 @@ wikidata_id: "Q108228854"
 
 # Bulanık Ovası Sulak Alanı
 
-Bulanık Ovası Sulak Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, sulak alanların çeşitliliğini ve doğanın güzelliğini gözler önüne seren bir cennet. Burada, doğa severler için birçok olanak sunan, aynı zamanda korunan bir bölge olarak ön plana çıkıyor. Sulak alanların zengin faunası ve florası, bu bölgenin öneminin anlaşılmasında büyük bir rol oynuyor.
+ Bu bölge, sulak alanların çeşitliliğini ve doğanın güzelliğini gözler önüne seren bir cennet. Burada, doğa severler için birçok olanak sunan, aynı zamanda korunan bir bölge olarak ön plana çıkıyor. Sulak alanların zengin faunası ve florası, bu bölgenin öneminin anlaşılmasında büyük bir rol oynuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bulanık Ovası Sulak Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Bulanık Ovası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alan, sulak alanların çeşitliliğini gösteren bir bölgedir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, sulak alanların çeşitliliğini ve doğanın güzelliğini gözler önüne seren bir cennet. Bu bölgenin coğrafi yapısı, sulak alanların oluşmasına elverişli bir ortam sunuyor. İklimi, sulak alanların gelişimine uygun olan bu bölge, birçok canlıya ev sahipliği yapıyor. Çevre, sulak alanların korunmasına büyük bir önem veriyor ve bu bölge, doğa severler için bir çekim merkezi olarak ön plana çıkıyor.
+Bulanık Ovası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alan, sulak alanların çeşitliliğini gösteren bir bölgedir. Bu bölgenin coğrafi yapısı, sulak alanların oluşmasına elverişli bir ortam sunuyor. İklimi, sulak alanların gelişimine uygun olan bu bölge, birçok canlıya ev sahipliği yapıyor. Çevre, sulak alanların korunmasına büyük bir önem veriyor ve bu bölge, doğa severler için bir çekim merkezi olarak ön plana çıkıyor.
 
 ## Flora ve Fauna
 

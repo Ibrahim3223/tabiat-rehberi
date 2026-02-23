@@ -28,7 +28,7 @@ wikidata_id: "Q31386385"
 
 # Kovalık Dağı
 
-Kovalık Dağı, Gaziantep'in güneydoğu kesiminde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kovalık Dağı, ziyaretçilerine hem historyel hem de coğrafi açıdan zengin bir deneyim sunuyor. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla Kovalık Dağı, bölgede önemli bir turizm merkezi haline geliyor.
+Kovalık Dağı, Gaziantep'in güneydoğu kesiminde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Kovalık Dağı, ziyaretçilerine hem historyel hem de coğrafi açıdan zengin bir deneyim sunuyor. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla Kovalık Dağı, bölgede önemli bir turizm merkezi haline geliyor.
 
 ## Tarihçe
 

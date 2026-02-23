@@ -1,7 +1,7 @@
 ---
 title: "Çemberlitaş Hamamı"
 date: "2026-01-09T22:12:06.230Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q8077658"
 
 # Çemberlitaş Hamamı
 
-Çemberlitaş Hamamı, İstanbul'un kalbinde, Fatih ilçesinde bulunmaktadır. Bu tarihi hamam, 140 hektarlık bir alanı kaplayan geniş bir kompleksin içerisinde yer alır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini tarihi bir atmosfere davet etmektedir. Çemberlitaş Hamamı, yıllarca boyunca İstanbul'un önemli turistik merkezlerinden biri olarak kabul görmüştür. Burada, hem yerel halk hem de yabancı ziyaretçiler, hamamın tarihi değerini ve kültürel önemini keşfetme fırsatı bulurlar.
+Çemberlitaş Hamamı, İstanbul'un kalbinde, Fatih ilçesinde bulunmaktadır. Bu tarihi hamam, 140 hektarlık bir alanı kaplayan geniş bir kompleksin içerisinde yer alır. Çemberlitaş Hamamı, yıllarca boyunca İstanbul'un önemli turistik merkezlerinden biri olarak kabul görmüştür. Burada, hem yerel halk hem de yabancı ziyaretçiler, hamamın tarihi değerini ve kültürel önemini keşfetme fırsatı bulurlar.
 
 ## Tarihçe
 

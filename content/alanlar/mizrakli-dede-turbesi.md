@@ -1,7 +1,7 @@
 ---
 title: "Mızraklı Dede Türbesi"
 date: "2026-01-10T06:25:24.289Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391805"
 
 # Mızraklı Dede Türbesi
 
-Mızraklı Dede Türbesi, Karabağlar, İzmir'de yer alan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Bu alan, 140 hektarlık geniş bir yeşil alan sunar, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Mızraklı Dede Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Burada, tarihi geçmişi ve doğal güzelliği bir arada deneyimleme mümkündür. İzmir'in Ege Bölgesi'ndeki bu önemli noktası, ziyaretçilere zengin bir deneyim sunar.
+Mızraklı Dede Türbesi, Karabağlar, İzmir'de yer alan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Mızraklı Dede Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Burada, tarihi geçmişi ve doğal güzelliği bir arada deneyimleme mümkündür. İzmir'in Ege Bölgesi'ndeki bu önemli noktası, ziyaretçilere zengin bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mızraklı Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Mızraklı Dede Türbesi, Karabağlar, İzmir'de yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini sunar. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Mızraklı Dede Türbesi'nin coğrafi konumu, ziyaretçilerine doğal güzellikler sunar. Burada, yeşilin farklı tonlarını görme ve doğal yaşamı gözlemleme mümkündür. Mızraklı Dede Türbesi, coğrafi olarak çeşitlilik gösteren bir bölgede yer alır. İzmir'in bu önemli noktası, ziyaretçilerine coğrafi güzelliklerin yanı sıra tarihi bir deneyim de sunar. Mızraklı Dede Türbesi, Ege Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyen ziyaretçilere ideal bir destinasyon olarak kabul edilir.
+Mızraklı Dede Türbesi, Karabağlar, İzmir'de yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini sunar. Mızraklı Dede Türbesi'nin coğrafi konumu, ziyaretçilerine doğal güzellikler sunar. Burada, yeşilin farklı tonlarını görme ve doğal yaşamı gözlemleme mümkündür. Mızraklı Dede Türbesi, coğrafi olarak çeşitlilik gösteren bir bölgede yer alır. İzmir'in bu önemli noktası, ziyaretçilerine coğrafi güzelliklerin yanı sıra tarihi bir deneyim de sunar. Mızraklı Dede Türbesi, Ege Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyen ziyaretçilere ideal bir destinasyon olarak kabul edilir.
 
 ## Flora ve Fauna
 

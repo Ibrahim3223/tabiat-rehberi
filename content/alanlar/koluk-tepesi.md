@@ -28,7 +28,7 @@ wikidata_id: "Q32210187"
 
 # Kölük Tepesi
 
-Kölük Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Kölük Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktasıdır. Tepenin üzerine çıkıldığında, Ankara'nın panoramik manzarasını izleme şansı bulunur.
+ Bu tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Kölük Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktasıdır. Tepenin üzerine çıkıldığında, Ankara'nın panoramik manzarasını izleme şansı bulunur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kölük Tepesi, tarihsel geçmişi ile dikkat çeker. Bu tepenin tarihi hakkınd
 
 ## Coğrafya
 
-Kölük Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Kölük Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktasıdır. Tepenin üzerine çıkıldığında, Ankara'nın panoramik manzarasını izleme şansı bulunur. Tepenin coğrafi konumu, ziyaretçilerin Ankara'nın doğal güzelliklerini keşfetmeleri için ideal bir fırsat sunar. Kölük Tepesi, aynı zamanda Ankara'nın iklimini etkileyen önemli bir faktördür. Tepenin yüksekliği, Ankara'nın hava koşullarını belirlemede önemli bir rol oynar. Kölük Tepesi, Ankara'nın turizm potansiyelini artıran önemli bir noktadır ve ziyaretçilerin doğa ile iç içe olmak için birçok fırsat sunar.
+Kölük Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Kölük Tepesi, Ankara'nın merkezine yakın bir konumda yer alır ve şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktasıdır. Tepenin üzerine çıkıldığında, Ankara'nın panoramik manzarasını izleme şansı bulunur. Tepenin coğrafi konumu, ziyaretçilerin Ankara'nın doğal güzelliklerini keşfetmeleri için ideal bir fırsat sunar. Kölük Tepesi, aynı zamanda Ankara'nın iklimini etkileyen önemli bir faktördür. Tepenin yüksekliği, Ankara'nın hava koşullarını belirlemede önemli bir rol oynar. Kölük Tepesi, Ankara'nın turizm potansiyelini artıran önemli bir noktadır ve ziyaretçilerin doğa ile iç içe olmak için birçok fırsat sunar.
 
 ## Flora ve Fauna
 

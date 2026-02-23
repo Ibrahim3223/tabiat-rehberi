@@ -30,7 +30,7 @@ wikidata_id: "Q134728168"
 
 # Termessos Heroon
 
-Termessos Heroon, Döşemealtı/Antalya'da bulunan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Termessos Heroon'un etkileyici doğal güzelliği, tarihi ve coğrafi konumu ile birlikte, ziyaretçilerine benzersiz bir deneyim sunmaktadır. Bu plaj, hem doğal güzelliği hem de tarihi önemi ile dikkat çekmekte ve ziyaretçilerini etkilemektedir.
+Termessos Heroon, Döşemealtı/Antalya'da bulunan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. Termessos Heroon'un etkileyici doğal güzelliği, tarihi ve coğrafi konumu ile birlikte, ziyaretçilerine benzersiz bir deneyim sunmaktadır. Bu plaj, hem doğal güzelliği hem de tarihi önemi ile dikkat çekmekte ve ziyaretçilerini etkilemektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Termessos Heroon'un tarihi geçmişi, tarihi kaynaklara göre oldukça eskidir. 
 
 ## Coğrafya
 
-Termessos Heroon, Döşemealtı/Antalya'da yer alan bir plajdır. Bu plaj, Akdeniz Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Termessos Heroon'un coğrafi konumu, ziyaretçilerine benzersiz bir doğal güzellik sunmaktadır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplamaktadır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Termessos Heroon'un coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla birlikte, ziyaretçilerine zengin bir ekosistem sunmaktadır. Bu plaj, ayrıca, çeşitli mevsimlerde ziyaret edilebilmekte ve her mevsim farklı bir güzelliğe sahip olmaktadır. Termessos Heroon'un coğrafi konumu, ziyaretçilerine bu bölgenin doğal güzelliğini ve tarihi önemi hakkında bilgi sahibi olma fırsatı sunmaktadır. Bu plaj, ayrıca, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır.
+Termessos Heroon, Döşemealtı/Antalya'da yer alan bir plajdır. Bu plaj, Akdeniz Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Termessos Heroon'un coğrafi konumu, ziyaretçilerine benzersiz bir doğal güzellik sunmaktadır. Termessos Heroon'un coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla birlikte, ziyaretçilerine zengin bir ekosistem sunmaktadır. Bu plaj, ayrıca, çeşitli mevsimlerde ziyaret edilebilmekte ve her mevsim farklı bir güzelliğe sahip olmaktadır. Termessos Heroon'un coğrafi konumu, ziyaretçilerine bu bölgenin doğal güzelliğini ve tarihi önemi hakkında bilgi sahibi olma fırsatı sunmaktadır. Bu plaj, ayrıca, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır.
 
 ## Flora ve Fauna
 

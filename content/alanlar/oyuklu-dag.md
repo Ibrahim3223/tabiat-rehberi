@@ -32,7 +32,7 @@ Iğdır ilinin gizli bir hazine olan Oyuklu Dağ, ziyaretçilerini şehrin kalab
 
 ## Tarihçe
 
-Iğdır bölgesi, tarihin sâu sayfalarında gizli bir hazine gibi duruyor. Bu bölge, tarih boyunca çeşitli uygarlıkların izlerini taşıyor. Eski çağlardan başlayarak, Iğdır ve çevresinde Urartular, Medler, Persler, Romalılar ve Selçuklular gibi güçlü uygarlıklar hüküm sürmüş. Bu bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında bulunması, tarihi süreçte önemli bir rol oynamasına neden olmuş.
+Iğdır bölgesi, tarihin derin sayfalarında gizli bir hazine gibi duruyor. Bu bölge, tarih boyunca çeşitli uygarlıkların izlerini taşıyor. Eski çağlardan başlayarak, Iğdır ve çevresinde Urartular, Medler, Persler, Romalılar ve Selçuklular gibi güçlü uygarlıklar hüküm sürmüş. Bu bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında bulunması, tarihi süreçte önemli bir rol oynamasına neden olmuş.
 
 Doğal alanlar, Türkiye'nin kültürel ve ekonomik dokusunda önemli bir yer tutuyor. Bu tür alanlar, insanların yaşamını sürdürmesi, hayvancılık ve yaylacılık faaliyetleri için her zaman önemli olmuş. Iğdır bölgesindeki Oyuklu Dağ gibi doğal güzellikler, insanların yaşamlarına renk katan ve bölge ekonomisine katkı sağlayan önemli kaynaklar. Bu alanlar, aynı zamanda ticaret yolları üzerinde bulunması nedeniyle, tarihin çeşitli dönemlerinde önemli birer durak noktası olarak görev yapmış. İnsanların bu doğal alanlarla ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşıyor. Bu relationship, bölgenin tarihi ve kültürel kimliğini şekillendiren önemli bir faktör.
 
@@ -48,10 +48,10 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Oyuklu Dağ'ın çevresel
 
 ## Flora ve Fauna
 
-Oyuklu Dağ, Iğdır'da yer alan yüksek dağ ekosisteminin güzelliğini gözler önüne serer. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Oyuklu Dağ, Iğdır'da yer alan yüksek dağ ekosisteminin güzelliğini gözler önüne serer. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ eteklerinde çiçeklerin açtığını görürüz. Alpin flora, dağların yüksek kesimlerinde hakimdir ve mevsimsel değişimlere uyum sağlar. 
-Yaban Hayatı bölümünde, memeliler ve kuşlar gibi çeşitli canlıların dağ ekosisteminde yaşamlarını sürdürdükleri görülebilir. Göç eden kuşlar, sonbaharın habercisidir. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ eteklerinde çiçeklerin açtığını görürüz. Alpin flora, dağların yüksek kesimlerinde hakimdir ve mevsimsel değişimlere uyum sağlar.
+Yaban Hayatı bölümünde, memeliler ve kuşlar gibi çeşitli canlıların dağ ekosisteminde yaşamlarını sürdürdükleri görülebilir. Göç eden kuşlar, sonbaharın habercisidir.
 Ekolojik Değer bölümünde, bu dağ ekosisteminin neden önemli olduğu ve koruma durumu hakkında bilgi verilebilir. Yüksek dağ ekolojisi, alpin çayırlar ve endemik türler, bu bölgenin ekolojik değerini artırır.
 
 ## Ziyaret Bilgileri

@@ -1,7 +1,7 @@
 ---
 title: "Ubeydullah ve Abdullah Kaşgari Türbesi"
 date: "2026-01-10T05:04:05.495Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391583"
 
 # Ubeydullah ve Abdullah Kaşgari Türbesi
 
-Ubeydullah ve Abdullah Kaşgari Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi ve kültürel bir değerdir. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde kurulmuştur. İstanbul'un tarihi dokusu içinde önemli bir yere sahip olan Ubeydullah ve Abdullah Kaşgari Türbesi, ziyaretçiler için eşsiz bir deneyim sunar. Türbenin mimarisi ve tarihi geçmişi, İstanbul'un zengin kültürel mirasını yansıtan önemli unsurlardır. İstanbul'un kalabalık streetsinden uzak, sakin bir atmosferde yer alan Ubeydullah ve Abdullah Kaşgari Türbesi, ziyaretçilere huzur ve tarihle iç içe bir deneyim sunar.
+Ubeydullah ve Abdullah Kaşgari Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi ve kültürel bir değerdir. İstanbul'un tarihi dokusu içinde önemli bir yere sahip olan Ubeydullah ve Abdullah Kaşgari Türbesi, ziyaretçiler için eşsiz bir deneyim sunar. Türbenin mimarisi ve tarihi geçmişi, İstanbul'un zengin kültürel mirasını yansıtan önemli unsurlardır. İstanbul'un kalabalık streetsinden uzak, sakin bir atmosferde yer alan Ubeydullah ve Abdullah Kaşgari Türbesi, ziyaretçilere huzur ve tarihle iç içe bir deneyim sunar.
 
 ## Tarihçe
 

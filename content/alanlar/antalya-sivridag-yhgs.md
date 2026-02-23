@@ -23,7 +23,7 @@ wikidata_id: "Q108227380"
 
 # Antalya Sivridağ YHGS
 
-Antalya Sivridağ YHGS, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile ziyaretçilerini büyülüyor. Bu doğal alanın içerisinde, çeşitli bitki türleri ve zengin fauna found. Sivridağ YHGS, ziyaretçilerine hem doğanın güzelliklerini keşfetme hem de dinlenme fırsatı sunuyor. YHGS'nin etrafı, yüksek dağlarla çevrilidir ve bu da burayı bir vaha haline getiriyor.
+Antalya Sivridağ YHGS, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu doğal alanın içerisinde, çeşitli bitki türleri ve zengin fauna found. Sivridağ YHGS, ziyaretçilerine hem doğanın güzelliklerini keşfetme hem de dinlenme fırsatı sunuyor. YHGS'nin etrafı, yüksek dağlarla çevrilidir ve bu da burayı bir vaha haline getiriyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Antalya Sivridağ YHGS'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Antalya Sivridağ YHGS, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle dikkat çekici bir doğa alanı. Bu YHGS, 140 hektarlık bir yeşil alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. YHGS'nin coğrafyası, yüksek dağlarla çevrilidir ve bu da burayı bir vaha haline getiriyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve bn mevsim ayrımları bulunuyor. Bahar aylarında, flora çeşitliliği ile dikkat çekerken, yaz aylarında sıcak ve kurak bir hava hakim. Kış aylarında ise soğuk ve kar yağışlı bir iklim söz konusu. Bu coğrafi özellikler, YHGS'nin flora ve faunasını da etkiliyor ve burayı çeşitli canlıların yaşama alanı haline getiriyor.
+Antalya Sivridağ YHGS, İç Anadolu Bölgesi'nde yer alıyor ve coğrafi konumu itibariyle dikkat çekici bir doğa alanı. YHGS'nin coğrafyası, yüksek dağlarla çevrilidir ve bu da burayı bir vaha haline getiriyor. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve bn mevsim ayrımları bulunuyor. Bahar aylarında, flora çeşitliliği ile dikkat çekerken, yaz aylarında sıcak ve kurak bir hava hakim. Kış aylarında ise soğuk ve kar yağışlı bir iklim söz konusu. Bu coğrafi özellikler, YHGS'nin flora ve faunasını da etkiliyor ve burayı çeşitli canlıların yaşama alanı haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Antalya Sivridağ YHGS'yi ziyaret etmek, doğa severler için bir rüya harika b
 ## İlginç Bilgiler
 
 - Antalya Sivridağ YHGS, 140 hektarlık bir yeşil alanı kapsıyor.
-- YHGS, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - YHGS'nin coğrafyası, yüksek dağlarla çevrilidir.
 - YHGS, flora ve fauna çeşitliliği ile dikkat çekiyor.
 - YHGS, ziyaretçilerine hem doğanın güzelliklerini keşfetme hem de dinlenme fırsatı sunuyor.

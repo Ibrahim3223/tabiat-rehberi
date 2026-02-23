@@ -22,7 +22,7 @@ wikidata_id: "Q108228815"
 
 # Seyfe Gölü Sulak Alanı
 
-Seyfe Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu sulak alan, önemli bir ekosistem olarak korunan bir bölge. Bu alan, çeşitli bitki türleri ve zengin fauna ile birlikte, yaban hayatının canlı bir şekilde yaşadığı bir ortam sunuyor. Gölün etrafında yer alan doğal yürüyüş yolları ve gözlem noktaları, ziyaretçilere doğayı yakından tanıma fırsatı sunuyor.
+Seyfe Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile birlikte, yaban hayatının canlı bir şekilde yaşadığı bir ortam sunuyor. Gölün etrafında yer alan doğal yürüyüş yolları ve gözlem noktaları, ziyaretçilere doğayı yakından tanıma fırsatı sunuyor.
 
 ## Tarihçe
 

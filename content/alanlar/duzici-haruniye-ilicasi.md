@@ -28,7 +28,7 @@ wikidata_id: "Q49741906"
 
 # Düziçi Haruniye Ilıcası
 
-Düziçi Haruniye Ilıcası, Osmaniye'nin güzide ilçelerinden biri olan Düziçi'de yer alıyor. 140 hektarlık yeşil alanı ve zengin fauna ile ziyaretçilerini bekliyor. Bu termal kaynak, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. İlçe merkezine yakın konumu ve ulaşım kolaylığı ile ziyaretçilerin dikkatini çekiyor. Doğal güzelliği ve sağlık açısından sunduğu imkanlar ile dikkat çekici bir destinasyon olarak ortaya çıkıyor.
+Düziçi Haruniye Ilıcası, Osmaniye'nin güzide ilçelerinden biri olan Düziçi'de yer alıyor. 140 hektarlık yeşil alanı ve zengin fauna ile ziyaretçilerini bekliyor. İlçe merkezine yakın konumu ve ulaşım kolaylığı ile ziyaretçilerin dikkatini çekiyor. Doğal güzelliği ve sağlık açısından sunduğu imkanlar ile dikkat çekici bir destinasyon olarak ortaya çıkıyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388101"
 
 # Lalelik Tepesi
 
-Lalelik Tepesi, Denizli ilinin güzide noktalarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile şehrin önemli bir nefes alma noktası. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunması, bölgenin ekolojik zenginliğini gösteriyor. Lalelik Tepesi, aynı zamanda ziyaretçilerine şehri panoramik olarak izleme imkanı sunuyor. Burada, Denizli'nin tarihi ve kültürel dokusunu gözlemleme mümkün. Tepenin manzarası, özellikle gün batımı saatlerinde ziyaretçilere büyüleyici anlar yaşatıyor.
+Lalelik Tepesi, Denizli ilinin güzide noktalarından biri olarak dikkat çekiyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunması, bölgenin ekolojik zenginliğini gösteriyor. Lalelik Tepesi, aynı zamanda ziyaretçilerine şehri panoramik olarak izleme imkanı sunuyor. Burada, Denizli'nin tarihi ve kültürel dokusunu gözlemleme mümkün. Tepenin manzarası, özellikle gün batımı saatlerinde ziyaretçilere büyüleyici anlar yaşatıyor.
 
 ## Tarihçe
 

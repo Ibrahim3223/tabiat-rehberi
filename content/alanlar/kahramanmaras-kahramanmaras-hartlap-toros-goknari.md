@@ -22,7 +22,7 @@ wikidata_id: "Q108228493"
 
 # Kahramanmaras-Kahramanmaras-Hartlap Toros Göknari
 
-Kahramanmaras'ta yer alan Hartlap Toros Göknarı milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla baş başa bırakıyor. Parkın büyüklüğü, yaklaşık 200 futbol sahası büyüklüğünde olduğunu gösteriyor. Hartlap Toros Göknarı milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+ Bu geniş yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla baş başa bırakıyor. Hartlap Toros Göknarı milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Hartlap Toros Göknarı milli parkı, tarihi geçmişiyle dikkat çekiyor. Bu b�
 
 ## Coğrafya
 
-Hartlap Toros Göknarı milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, geniş yeşil alanlarıyla dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Parkın konumu, ziyaretçilerine doğayla baş başa kalmak için ideal bir ortam sunuyor. Hartlap Toros Göknarı milli parkı, ziyaretçilerine geniş yeşil alanlarında doğayla baş başa kalmak için olanak sağlıyor. Parkın coğrafi yapısı, ziyaretçilerine bölge hakkında geniş bilgi sunuyor.
+Hartlap Toros Göknarı milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, geniş yeşil alanlarıyla dikkat çekiyor. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Parkın konumu, ziyaretçilerine doğayla baş başa kalmak için ideal bir ortam sunuyor. Hartlap Toros Göknarı milli parkı, ziyaretçilerine geniş yeşil alanlarında doğayla baş başa kalmak için olanak sağlıyor. Parkın coğrafi yapısı, ziyaretçilerine bölge hakkında geniş bilgi sunuyor.
 
 ## Flora ve Fauna
 

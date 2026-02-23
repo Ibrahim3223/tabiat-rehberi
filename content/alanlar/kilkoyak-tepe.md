@@ -32,7 +32,7 @@ Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için Kilkoyak Tepe, bi
 
 ## Tarihçe
 
-Kilkoyak Tepe, Kayseri'nin zengin tarihi coğrafyasında yer alan bir doğal alan. Bu bölge, tarihin sâu sayfalarında gizli olan birçok uygarlığa ev sahipliği yapmış. Hitit, Roma ve Bizans gibi medeniyetlerin izlerini taşıyan Kayseri, aynı zamanda Selçuklu ve Osmanlı dönemlerinde de önemli bir ticaret ve kültür merkezi olarak varlık göstermiş.
+Kilkoyak Tepe, Kayseri'nin zengin tarihi coğrafyasında yer alan bir doğal alan. Bu bölge, tarihin derin sayfalarında gizli olan birçok uygarlığa ev sahipliği yapmış. Hitit, Roma ve Bizans gibi medeniyetlerin izlerini taşıyan Kayseri, aynı zamanda Selçuklu ve Osmanlı dönemlerinde de önemli bir ticaret ve kültür merkezi olarak varlık göstermiş.
 
 Türkiye'nin doğal alanları, tarihin her döneminde insanların yaşamlarını sürdürmeleri için önemli kaynaklar olmuş. Bu alanlar, yaylacılık ve hayvancılık faaliyetleri için elverişli conditions sunarken, aynı zamanda ticaret yolları ve göç rotaları olarak da kullanılmış. Kilkoyak Tepe de, bölgedeki diğer doğal alanlar gibi, insanların yaşamlarını sürdürmeleri ve geçimlerini sağlamaları için önemli bir role sahip olmuş.
 
@@ -50,7 +50,7 @@ Mevsimsel özellikler açısından bakıldığında, Kilkoyak Tepe'nin iklim kar
 
 ## Flora ve Fauna
 
-Kilkoyak Tepe, Kayseri'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ bölgesidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kilkoyak Tepe, Kayseri'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ bölgesidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ eteklerinde ve yükseklik zonlarında çeşitli çiçekler açar. Step bitkileri ve bozkır türleri, kuraklığa adapte olmuşlardır. Yaban Hayatı olarak, bu dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Sonbaharın gelmesiyle birlikte, göç eden kuşlar bu bölgeyi ziyaret eder. Dağların yükseklik zonlarında, alpin flora ve dağ hayvanları bulunur.
 

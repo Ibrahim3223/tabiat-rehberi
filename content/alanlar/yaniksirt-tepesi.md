@@ -28,7 +28,7 @@ wikidata_id: "Q31556941"
 
 # Yanıksırt Tepesi
 
-Yanıksırt Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ile ziyaretçilerini karşılayan bir doğa harikasıdır. Bu tepe, zengin fauna çeşitliliği ve çeşitli bitki türleri ile dikkat çekiyor. Yanıksırt Tepesi, özellikle doğa severler ve fotoğraf tutkunları için ideal bir destinasyon olarak ortaya çıkıyor. Ziyaretçiler, tepeye tırmanırken Ankara'nın panoramik manzarasını keşfedebilir ve bölgenin tarihi geçmişi hakkında bilgi edinebilir.
+ Bu tepe, zengin fauna çeşitliliği ve çeşitli bitki türleri ile dikkat çekiyor. Yanıksırt Tepesi, özellikle doğa severler ve fotoğraf tutkunları için ideal bir destinasyon olarak ortaya çıkıyor. Ziyaretçiler, tepeye tırmanırken Ankara'nın panoramik manzarasını keşfedebilir ve bölgenin tarihi geçmişi hakkında bilgi edinebilir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386093"
 
 # Akdağ Tepesi
 
-Akdağ Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir doğa harikasıdır. Bu tepe, 140 hektarlık geniş bir yeşil alan sunar ve yaklaşık 200 futbol sahası büyüklüğündedir. Siirt'in en önemli doğal alanlarından biri olan Akdağ Tepesi, ziyaretçilerini büyüleyen bir güzelliğe sahiptir. Tepenin etrafı, çeşitli bitki türleri ile çevrilidir ve zengin fauna ile dikkat çeker. Bu bölge, hem doğa severlerin hem de macera arayışındaki kişilerin ziyaret edebileceği ideal bir noktadır.
+Akdağ Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir doğa harikasıdır. Siirt'in en önemli doğal alanlarından biri olan Akdağ Tepesi, ziyaretçilerini büyüleyen bir güzelliğe sahiptir. Tepenin etrafı, çeşitli bitki türleri ile çevrilidir ve zengin fauna ile dikkat çeker. Bu bölge, hem doğa severlerin hem de macera arayışındaki kişilerin ziyaret edebileceği ideal bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Akdağ Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Akdağ Tepesi, Siirt'in coğrafi yapısını oluşturan önemli bir parçadır. Bu tepe, 140 hektarlık bir yeşil alan sunar ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin etrafı, çeşitli bitki türleri ile çevrilidir ve zengin fauna ile dikkat çeker. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi yapısını yansıtan bir örnektir. Akdağ Tepesi, ziyaretçilerine, bölgenin coğrafi güzelliklerini keşfetme fırsatı sunar. Tepenin yüksekliği, çevreyi panoramik olarak görmeye olanak tanır ve ziyaretçilere, bölgenin coğrafi haritasını göz önüne serer.
+Akdağ Tepesi, Siirt'in coğrafi yapısını oluşturan önemli bir parçadır. Tepenin etrafı, çeşitli bitki türleri ile çevrilidir ve zengin fauna ile dikkat çeker. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi yapısını yansıtan bir örnektir. Akdağ Tepesi, ziyaretçilerine, bölgenin coğrafi güzelliklerini keşfetme fırsatı sunar. Tepenin yüksekliği, çevreyi panoramik olarak görmeye olanak tanır ve ziyaretçilere, bölgenin coğrafi haritasını göz önüne serer.
 
 ## Flora ve Fauna
 

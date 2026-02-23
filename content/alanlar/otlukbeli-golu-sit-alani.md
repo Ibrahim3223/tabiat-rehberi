@@ -22,7 +22,7 @@ wikidata_id: "Q108226269"
 
 # Otlukbeli Gölü Sit Alanı
 
-Otlukbeli Gölü Sit Alanı, İç Anadolu Bölgesi'nin sakin ve doğal güzelliklerle dolu bir bölgesinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik değerlerini barındırıyor. Bu alan, hem doğa severler hem de bölgeye ilgi duyanların ilgisini çekmeyi başarmış durumda. Otlukbeli Gölü Sit Alanı'nın etrafı, çeşitli bitki türleri ve zengin fauna ile dolu. Bu sit alanı, aynı zamanda bölgede yaşayan canlıların yaşam alanlarını korumak amacıyla kurulmuş önemli bir doğal koruma alanı.
+Otlukbeli Gölü Sit Alanı, İç Anadolu Bölgesi'nin sakin ve doğal güzelliklerle dolu bir bölgesinde yer alıyor. Bu alan, hem doğa severler hem de bölgeye ilgi duyanların ilgisini çekmeyi başarmış durumda. Otlukbeli Gölü Sit Alanı'nın etrafı, çeşitli bitki türleri ve zengin fauna ile dolu. Bu sit alanı, aynı zamanda bölgede yaşayan canlıların yaşam alanlarını korumak amacıyla kurulmuş önemli bir doğal koruma alanı.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Otlukbeli Gölü Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Otlukbeli Gölü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve sulak alanlarla çevrili. Bu sit alanı, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi yapısı, çeşitli bitki türlerinin ve hayvanların yaşamasına elverişli. Otlukbeli Gölü Sit Alanı, bölgenin iklim koşullarına uygun olarak, mevsimsel değişimlere göre farklılıklar gösteriyor. Kış aylarında karla kaplı olan bu bölge, ilkbahar ve yaz aylarında yeşillenerek doğa severlerin ilgisini çekiyor. Bu sit alanı, aynı zamanda bölgenin su kaynaklarını koruma altına almak amacıyla önemli bir role sahip.
+Otlukbeli Gölü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve sulak alanlarla çevrili. Bölgenin coğrafi yapısı, çeşitli bitki türlerinin ve hayvanların yaşamasına elverişli. Otlukbeli Gölü Sit Alanı, bölgenin iklim koşullarına uygun olarak, mevsimsel değişimlere göre farklılıklar gösteriyor. Kış aylarında karla kaplı olan bu bölge, ilkbahar ve yaz aylarında yeşillenerek doğa severlerin ilgisini çekiyor. Bu sit alanı, aynı zamanda bölgenin su kaynaklarını koruma altına almak amacıyla önemli bir role sahip.
 
 ## Flora ve Fauna
 

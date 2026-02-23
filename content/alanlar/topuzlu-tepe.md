@@ -28,7 +28,7 @@ wikidata_id: "Q31390061"
 
 # Topuzlu Tepe
 
-Topuzlu Tepe, Ankara'nın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve böylece yaklaşık 200 futbol sahası büyüklüğünde bir alan sunuyor. Topuzlu Tepe, Ankara'nın coğrafi yapısını anlamak için ideal bir noktası. Aynı zamanda, bu tepe üzerinde bulunan tarihi eserler ve kalıntılar, ziyaretçilere şehrin zengin geçmişini keşfetme fırsatı sunuyor. Topuzlu Tepe, Ankara'nın kalbinde yer alan ve şehrin tarihini, doğasını ve kültürünü bir araya getiren özel bir yer.
+Topuzlu Tepe, Ankara'nın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir nokta. Topuzlu Tepe, Ankara'nın coğrafi yapısını anlamak için ideal bir noktası. Aynı zamanda, bu tepe üzerinde bulunan tarihi eserler ve kalıntılar, ziyaretçilere şehrin zengin geçmişini keşfetme fırsatı sunuyor. Topuzlu Tepe, Ankara'nın kalbinde yer alan ve şehrin tarihini, doğasını ve kültürünü bir araya getiren özel bir yer.
 
 ## Tarihçe
 

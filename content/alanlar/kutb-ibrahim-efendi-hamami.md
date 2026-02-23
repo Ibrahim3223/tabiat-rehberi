@@ -1,7 +1,7 @@
 ---
 title: "Kutb İbrahim Efendi Hamamı"
 date: "2026-01-09T22:58:18.494Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738616"
 
 # Kutb İbrahim Efendi Hamamı
 
-Kutb İbrahim Efendi Hamamı, İstanbul'un kalbi olan Beyoğlu'nda yer alan tarihi bir hamamdır. Bu önemli kültürel miras, Marmara Bölgesi'nin en çok ziyaret edilen noktalarından biridir. 140 hektarlık bir alanda bulunan hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Hamamın çevresinde çeşitli dükkanlar ve restoranlar bulunur. Geçmişte önemli bir sosyal merkez olan bu hamam, günümüzde de tarihi değerini korur.
+Kutb İbrahim Efendi Hamamı, İstanbul'un kalbi olan Beyoğlu'nda yer alan tarihi bir hamamdır. Bu önemli kültürel miras, Marmara Bölgesi'nin en çok ziyaret edilen noktalarından biridir. Hamamın çevresinde çeşitli dükkanlar ve restoranlar bulunur. Geçmişte önemli bir sosyal merkez olan bu hamam, günümüzde de tarihi değerini korur.
 
 ## Tarihçe
 

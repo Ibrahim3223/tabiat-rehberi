@@ -29,7 +29,7 @@ schema_type: "TouristAttraction"
 
 # Honaz Dağı Milli Parkı
 
-Honaz Dağı Milli Parkı, Ege Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilir. Denizli ilinin Honaz ilçesinde bulunan bu milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğayla iç içe bir  sunar. Honaz Dağı Milli Parkı, zengin flora ve fauna çeşitliliğiyle dikkat çeker. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Parkın içerisinde, yürüyüş yolları ve piknik alanları gibi olanaklar da mevcuttur. Doğa severlerin ve turistlerin ilgi odağı olan Honaz Dağı Milli Parkı, yıl boyunca ziyaret edilebilir.
+Honaz Dağı Milli Parkı, Ege Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilir. Bu geniş alan, ziyaretçilere doğayla iç içe bir  sunar. Honaz Dağı Milli Parkı, zengin flora ve fauna çeşitliliğiyle dikkat çeker. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Parkın içerisinde, yürüyüş yolları ve piknik alanları gibi olanaklar da mevcuttur. Doğa severlerin ve turistlerin ilgi odağı olan Honaz Dağı Milli Parkı, yıl boyunca ziyaret edilebilir.
 
 ## Tarihçe
 

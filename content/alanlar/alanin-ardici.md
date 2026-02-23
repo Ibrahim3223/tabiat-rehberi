@@ -22,7 +22,7 @@ wikidata_id: "Q108227374"
 
 # Alanın Ardici
 
-İç Anadolu Bölgesi'nin kalbinde yer alanın Ardici, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir yeşil alandır. Bu bölge, doğa severlerin ve macera arayanların ziyaret etmek isteyebileceği bir destinasyon olarak dikkat çekmektedir. Geniş ve bereketli ovaları, zengin flora ve fauna çeşitliliği ile ziyaretçilerini büyülemektedir. 70-80 kilometrelik bir yarıçap içinde yer alan bu bölge, hem doğa güzelliği hem de tarihi zenginliği ile ön plana çıkmaktadır.
+ Bu bölge, doğa severlerin ve macera arayanların ziyaret etmek isteyebileceği bir destinasyon olarak dikkat çekmektedir. Geniş ve bereketli ovaları, zengin flora ve fauna çeşitliliği ile ziyaretçilerini büyülemektedir. 70-80 kilometrelik bir yarıçap içinde yer alan bu bölge, hem doğa güzelliği hem de tarihi zenginliği ile ön plana çıkmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Alanın Ardici'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıklar�
 
 ## Coğrafya
 
-Alanın Ardici, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bu bölge, geniş ovalar, dağlar ve platolar ile çevrilidir. İklimi, karasal ve step iklimi arasında değişen bir yapıya sahiptir. Bahar aylarında yeşeren flora, sonbahar aylarında renk değiştiren ağaçlar ve kış aylarında karla kaplanan dağlar, bu bölgenin coğrafi güzelliğini oluşturmaktadır. Bölge, çeşitli nehirler ve akarsular ile sulanmaktadır. Coğrafi olarak, 140 hektarlık bir alan üzerinde kurulmuş olan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsamaktadır. Bu bölge, coğrafi konumu itibariyle, doğa severlerin ve macera arayanların ilgisini çekmektedir.
+Alanın Ardici, İç Anadolu Bölgesi'nin coğrafi yapısı ile şekillenmiştir. Bu bölge, geniş ovalar, dağlar ve platolar ile çevrilidir. İklimi, karasal ve step iklimi arasında değişen bir yapıya sahiptir. Bahar aylarında yeşeren flora, sonbahar aylarında renk değiştiren ağaçlar ve kış aylarında karla kaplanan dağlar, bu bölgenin coğrafi güzelliğini oluşturmaktadır. Bölge, çeşitli nehirler ve akarsular ile sulanmaktadır. Bu bölge, coğrafi konumu itibariyle, doğa severlerin ve macera arayanların ilgisini çekmektedir.
 
 ## Flora ve Fauna
 

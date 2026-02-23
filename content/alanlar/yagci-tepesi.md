@@ -28,7 +28,7 @@ wikidata_id: "Q31387552"
 
 # Yağcı Tepesi
 
-Marmara Bölgesi'nin güzide şehirlerinden biri olan Çanakkale'de yer alan Yağcı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor. Yağcı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir bölge. Tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, hem doğa yürüyüşleri hem de tarihi ziyaretler için uygun bir seçenek.
+ Bu tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor. Yağcı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir bölge. Tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, hem doğa yürüyüşleri hem de tarihi ziyaretler için uygun bir seçenek.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tarihi geçmişi yüzyıllar öncesine dayanan Yağcı Tepesi, birçok uygarlı�
 
 ## Coğrafya
 
-Marmara Bölgesi'nin coğrafi yapısına uygun olarak, Yağcı Tepesi de bu bölgenin  özelliklerini taşıyor. Bu tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Yağcı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklüğü ile dikkat çekiyor. Bu bölge, coğrafi açıdan önemli bir konumda yer alıyor ve ziyaretçilere birçok farklı manzara sunuyor. Yağcı Tepesi'nin etrafında yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor. Bu bölge, coğrafi ve kültürel zenginliği ile ziyaretçilerini büyülüyor.
+Marmara Bölgesi'nin coğrafi yapısına uygun olarak, Yağcı Tepesi de bu bölgenin  özelliklerini taşıyor. Bu tepenin etrafında yer alan ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, coğrafi açıdan önemli bir konumda yer alıyor ve ziyaretçilere birçok farklı manzara sunuyor. Yağcı Tepesi'nin etrafında yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor. Bu bölge, coğrafi ve kültürel zenginliği ile ziyaretçilerini büyülüyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Yağcı Tepesi'ni ziyaret etmek için, en uygun zaman ilkbahar ve yaz ayları. B
 
 ## İlginç Bilgiler
 
-- Yağcı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu bölge, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor.
 - Yağcı Tepesi'nin etrafında yer alan ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bu bölge, mevsimsel değişimlere göre farklı bir görünüm kazanıyor.

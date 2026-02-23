@@ -29,7 +29,7 @@ wikidata_id: "Q31386347"
 
 # Bağları Tepe
 
-Bağları Tepe, Güneydoğu Anadolu Bölgesi'nin en önemli doğal ve tarihi merkezlerinden biri olarak kabul ediliyor. Gaziantep'in kalbinde yer alan bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en önemli yeşil alanlarından biri. Bağları Tepe, hem doğal güzellikleri hem de tarihi önemleriyle ziyaretçilerini cezbediyor. Burada, tarihi eserlerin yanı sıra, çeşitli bitki türlerini ve zengin faunayı keşfetme mümkün.
+Bağları Tepe, Güneydoğu Anadolu Bölgesi'nin en önemli doğal ve tarihi merkezlerinden biri olarak kabul ediliyor. Bağları Tepe, hem doğal güzellikleri hem de tarihi önemleriyle ziyaretçilerini cezbediyor. Burada, tarihi eserlerin yanı sıra, çeşitli bitki türlerini ve zengin faunayı keşfetme mümkün.
 
 ## Tarihçe
 

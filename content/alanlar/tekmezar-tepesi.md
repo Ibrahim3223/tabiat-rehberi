@@ -28,7 +28,7 @@ wikidata_id: "Q31390576"
 
 # Tekmezar Tepesi
 
-Tekmezar Tepesi, Aksaray ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayarak, 200 futbol sahası büyüklüğünde bir alan sunar. Tekmezar Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir ve İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir noktadır.
+Tekmezar Tepesi, Aksaray ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Tekmezar Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir ve İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tekmezar Tepesi'nin tarihi geçmişi, bölgenin kadim uygarlıklarına kadar uza
 
 ## Coğrafya
 
-Tekmezar Tepesi, Aksaray ilinin coğrafi yapısını yansıtan önemli bir noktadır. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, bölgenin genel coğrafi yapısını etkileyen faktörlerin bir sonucu olarak oluşmuştur. Tepenin çevresi, çeşitli bitki türleri ile kaplıdır ve bu bitki türleri, bölgenin iklimini ve toprak yapısını yansıtan önemli bir özelliktir. Tekmezar Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, 200 futbol sahası büyüklüğünde bir alanı temsil eder. Tepenin yüksekliği ve eğimleri, bölgenin coğrafi yapısını etkileyen önemli faktörlerdir.
+Tekmezar Tepesi, Aksaray ilinin coğrafi yapısını yansıtan önemli bir noktadır. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, bölgenin genel coğrafi yapısını etkileyen faktörlerin bir sonucu olarak oluşmuştur. Tepenin çevresi, çeşitli bitki türleri ile kaplıdır ve bu bitki türleri, bölgenin iklimini ve toprak yapısını yansıtan önemli bir özelliktir. Tepenin yüksekliği ve eğimleri, bölgenin coğrafi yapısını etkileyen önemli faktörlerdir.
 
 ## Flora ve Fauna
 

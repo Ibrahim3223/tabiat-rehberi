@@ -33,7 +33,7 @@ Balıkesir'in doğallığını keşfetmek isteyenler için ideal bir destinasyon
 
 ## Tarihçe
 
-Balıkesir bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu topraklar, MÖ 12. yüzyılda Frigler, ardından Lidyalılar ve Perslerin hakimiyetine girmiştir. Roma ve Bizans dönemlerinde de önemli bir merkez olarak varlığını sürdürmüştür. Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, burada yaşayan topluluklar için hayvancılık, tarım ve ticaretin gelişmesine zemin hazırlamıştır.
+Balıkesir bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu topraklar, MÖ 12. yüzyılda Frigler, ardından Lidyalılar ve Perslerin hakimiyetine girmiştir. Roma ve Bizans dönemlerinde de önemli bir merkez olarak varlığını sürdürmüştür. Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, burada yaşayan topluluklar için hayvancılık, tarım ve ticaretin gelişmesine zemin hazırlamıştır.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bu topraklarda binlerce yıl boyunca sürdürülen geleneksel faaliyetlerdir. İnsanlar, mevsimlik göçlerle birlikte bu doğal alanları kullanmış, burada yaşamış ve bu bölgelerin korunmasına katkıda bulunmuşlardır. Martı Adası gibi doğal güzellikler, bu tarihsel bağlamda önemli bir yere sahiptir. İnsanların doğayla uyum içinde yaşadığı, doğayı korurken aynı zamanda ondan yararlandığı bir geçmişe tanıklık eder. Bu doğal alanlar, sadece güzellikleriyle değil, aynı zamanda kültürel ve tarihi önemleriyle değerlidir.
 

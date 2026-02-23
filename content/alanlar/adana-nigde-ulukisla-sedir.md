@@ -22,7 +22,7 @@ wikidata_id: "Q108227204"
 
 # Adana-Nigde-Ulukisla Sedir
 
-Adana-Nigde-Ulukisla Sedir, Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana karşılık gelir. Sedir ağacı ile ünlü olan bu bölge, ziyaretçilerine doğanın güzelliğini ve huzurunu sunar. Ziyaretçiler, bu milli parkta doğa yürüyüşleri yapabilir, Sedir ağacı ile çevrili patikaları keşfedebilir ve bölgenin eşsiz florası ve faunası hakkında bilgi edinebilirler.
+Adana-Nigde-Ulukisla Sedir, Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Sedir ağacı ile ünlü olan bu bölge, ziyaretçilerine doğanın güzelliğini ve huzurunu sunar. Ziyaretçiler, bu milli parkta doğa yürüyüşleri yapabilir, Sedir ağacı ile çevrili patikaları keşfedebilir ve bölgenin eşsiz florası ve faunası hakkında bilgi edinebilirler.
 
 ## Tarihçe
 

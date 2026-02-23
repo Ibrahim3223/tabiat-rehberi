@@ -28,7 +28,7 @@ wikidata_id: "Q31390276"
 
 # Yılanlı Tepesi
 
-Yılanlı Tepesi, Adana ilinin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan olarak dikkat çekiyor. Doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini bekleyen Yılanlı Tepesi, keyifli bir gezi için ideal bir nokta. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel lezzetler sunarken, tepe üzerindeki manzaralar ise büyüleyici bir atmosfer yaratıyor. Yılanlı Tepesi, doğa severler ve tarih meraklıları için bir hazine olarak görülüyor.
+Yılanlı Tepesi, Adana ilinin güzide noktalarından biri olarak karşımıza çıkıyor. Doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini bekleyen Yılanlı Tepesi, keyifli bir gezi için ideal bir nokta. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel lezzetler sunarken, tepe üzerindeki manzaralar ise büyüleyici bir atmosfer yaratıyor. Yılanlı Tepesi, doğa severler ve tarih meraklıları için bir hazine olarak görülüyor.
 
 ## Tarihçe
 

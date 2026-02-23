@@ -28,7 +28,7 @@ wikidata_id: "Q31509244"
 
 # Ovacık Tepesi
 
-Ovacık Tepesi, Erzincan'ın doğal güzellikleri arasında yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Ovacık Tepesi, ziyaretçilerini etkileyen bir yer. Ovacık Tepesi, Erzincan'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Bu tepe, doğa severler ve macera arayanlar için ideal bir destinasyon.
+Ovacık Tepesi, Erzincan'ın doğal güzellikleri arasında yer alan bir tepe. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Ovacık Tepesi, ziyaretçilerini etkileyen bir yer. Ovacık Tepesi, Erzincan'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Bu tepe, doğa severler ve macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Ovacık Tepesi, coğrafi konumu itibariyle oldukça dikkat çekici. Bu tepe, Do�
 
 ## Flora ve Fauna
 
-Ovacık Tepesi, flora ve fauna açısından oldukça zengin. Bu tepe, çeşitli bitki türleri ve hayvanları barındırıyor. Ovacık Tepesi, ziyaretçilerine doğal güzelliği sunuyor ve flora ve fauna hakkında bilgi edinme fırsatı tanıyor. Bu tepe, mevsimsel değişimlere göre farklı bir güzelliğe sahip. Ovacık Tepesi, doğa severler ve flora ve fauna meraklıları için önemli bir destinasyon. Bu tepe, ziyaretçilerine doğal güzelliği ve flora ve fauna hakkında bilgi sunuyor.
+ Bu tepe, çeşitli bitki türleri ve hayvanları barındırıyor. Ovacık Tepesi, ziyaretçilerine doğal güzelliği sunuyor ve flora ve fauna hakkında bilgi edinme fırsatı tanıyor. Bu tepe, mevsimsel değişimlere göre farklı bir güzelliğe sahip. Ovacık Tepesi, doğa severler ve flora ve fauna meraklıları için önemli bir destinasyon. Bu tepe, ziyaretçilerine doğal güzelliği ve flora ve fauna hakkında bilgi sunuyor.
 
 ## Ziyaret Bilgileri
 

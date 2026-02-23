@@ -28,7 +28,7 @@ wikidata_id: "Q31529073"
 
 # Burnueğri Tepesi
 
-Burnueğri Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişi ile doğal güzellikleri ile dikkat çeken bir tepedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleri ile sürükleyen bir yer. Tepenin yüksekliği ve genişliği, burayı ziyaret edenlerin gözlerini genişletece ve doğa ile iç içe olabilecekleri bir ortam sunuyor. Burnueğri Tepesi, aynı zamanda coğrafi konumu itibari ile önemli bir nokta ve burada ziyaretçiler, doğa ile iç içe olabilecekleri bir ortamı deneyimleyebilirler.
+Burnueğri Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişi ile doğal güzellikleri ile dikkat çeken bir tepedir. Tepenin yüksekliği ve genişliği, burayı ziyaret edenlerin gözlerini genişletece ve doğa ile iç içe olabilecekleri bir ortam sunuyor. Burnueğri Tepesi, aynı zamanda coğrafi konumu itibari ile önemli bir nokta ve burada ziyaretçiler, doğa ile iç içe olabilecekleri bir ortamı deneyimleyebilirler.
 
 ## Tarihçe
 

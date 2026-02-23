@@ -29,7 +29,7 @@ wikidata_id: "Q31388129"
 
 # Delik Tepesi
 
-Delik Tepesi, Denizli'nin Ege Bölgesi'nde bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Delik Tepesi, ziyaretçilerini mình güzelliği ve doğal ortamı ile çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrarabilirsiniz. Delik Tepesi, aynı zamanda tarihsel bir geçmişe sahip.
+Delik Tepesi, Denizli'nin Ege Bölgesi'nde bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir. Delik Tepesi, ziyaretçilerini mình güzelliği ve doğal ortamı ile çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrarabilirsiniz. Delik Tepesi, aynı zamanda tarihsel bir geçmişe sahip.
 
 ## Tarihçe
 

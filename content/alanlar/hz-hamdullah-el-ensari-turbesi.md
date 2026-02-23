@@ -1,7 +1,7 @@
 ---
 title: "Hz. Hamdullah El-Ensari Türbesi"
 date: "2026-01-10T05:13:59.601Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

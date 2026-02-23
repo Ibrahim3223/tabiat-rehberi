@@ -1,7 +1,7 @@
 ---
 title: "Hamam Kalıntısı, Sarıyer"
 date: "2026-01-09T23:29:42.791Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739063"
 
 # Hamam Kalıntısı, Sarıyer
 
-Hamam Kalıntısı, Sarıyer, İstanbul'un kuzeyinde, Marmara Bölgesi'nin kıyı şeridinde yer alan bir plajdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı içerisinde, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sarıyer ilçesinin sakin ve doğal güzellikleri bir noktası olarak, ziyaretçilerini deniz ve doğanın harmanladığı bir atmosfere davet eder. Bu plaj, özellikle yaz aylarında, İstanbul'un kalabalık ve gürültüsünden kaçmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Hamam Kalıntısı, Sarıyer'in tarihi ve doğal güzelliklerinin bir araya geldiği özel bir destinasyon olarak, ziyaretçilerini beklemektedir.
+Hamam Kalıntısı, Sarıyer, İstanbul'un kuzeyinde, Marmara Bölgesi'nin kıyı şeridinde yer alan bir plajdır. Sarıyer ilçesinin sakin ve doğal güzellikleri bir noktası olarak, ziyaretçilerini deniz ve doğanın harmanladığı bir atmosfere davet eder. Bu plaj, özellikle yaz aylarında, İstanbul'un kalabalık ve gürültüsünden kaçmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Hamam Kalıntısı, Sarıyer'in tarihi ve doğal güzelliklerinin bir araya geldiği özel bir destinasyon olarak, ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hamam Kalıntısı, Sarıyer'in tarihi geçmişi, yüzyıllar boyunca çeşitli 
 
 ## Coğrafya
 
-Hamam Kalıntısı, Sarıyer, Marmara Bölgesi'nin kıyı şeridinde yer alan bir plajdır. Bu bölgenin coğrafyası, Karadeniz'in etkileri altında kalmaktadır. Hamam Kalıntısı, Sarıyer'in kuzeyinde, Boğaziçi'nin kıyı şeridinde yer almaktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı içerisinde, denize nazır bir konumdadır. Plajın, çeşitli bitkiler ve ağaçlar bulunmaktadır. Bu bölgenin iklimi, Karadeniz ikliminin etkileri altında kalmaktadır. Kış aylarında, bölgenin havası genellikle soğuk ve yağışlı, yaz aylarında ise sıcak ve nemlidir. Hamam Kalıntısı, Sarıyer'in coğrafi özellikleri, ziyaretçilerine deniz, doğa ve tarihi bir atmosferi bir araya getirmektedir. Bu bölge, aynı zamanda, çeşitli su sporları ve etkinliklerine de ev sahipliği yapmaktadır.
+Hamam Kalıntısı, Sarıyer, Marmara Bölgesi'nin kıyı şeridinde yer alan bir plajdır. Bu bölgenin coğrafyası, Karadeniz'in etkileri altında kalmaktadır. Hamam Kalıntısı, Sarıyer'in kuzeyinde, Boğaziçi'nin kıyı şeridinde yer almaktadır. Plajın, çeşitli bitkiler ve ağaçlar bulunmaktadır. Bu bölgenin iklimi, Karadeniz ikliminin etkileri altında kalmaktadır. Kış aylarında, bölgenin havası genellikle soğuk ve yağışlı, yaz aylarında ise sıcak ve nemlidir. Hamam Kalıntısı, Sarıyer'in coğrafi özellikleri, ziyaretçilerine deniz, doğa ve tarihi bir atmosferi bir araya getirmektedir. Bu bölge, aynı zamanda, çeşitli su sporları ve etkinliklerine de ev sahipliği yapmaktadır.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34872162"
 
 # Göktaş Dağı
 
-Artvin'in doğa harikaları arasında yer alan Göktaş Dağı, ilin güzide noktalarından biri. Bu dağ, ilin doğal güzelliğini korumak için önemli bir rol oynuyor. Artvin'in coğrafi yapısını şekillendiren Göktaş Dağı, bölgenin turistik zenginliklerine katkıda bulunuyor. Doğa severler için bir çekim merkezi olan bu dağ, ziyaretçilerine unutulmaz anlar yaşatıyor.
+Artvin'in doğa harikaları arasında yer alan Göktaş Dağı, ilin güzide noktalarından biri. Bu dağ, ilin doğal güzelliğini korumak için önemli bir rol oynuyor. Artvin'in coğrafi yapısını şekillendiren Göktaş Dağı, bölgenin turistik zenginliklerine katkıda bulunuyor.
 
 ## Tarihçe
 
@@ -50,11 +50,11 @@ Jeolojik açıdan incelendiğinde, Göktaş Dağı'nın precisa boyutları hakk�
 
 ## Flora ve Fauna
 
-Göktaş Dağı, nemli iklimin hakim olduğu bir bölge olarak, gür ormanlarla kaplı ve yüksek biyoçeşitlilik gösteren bir dağ ekosistemi sunar. 
+Göktaş Dağı, nemli iklimin hakim olduğu bir bölge olarak, gür ormanlarla kaplı ve yüksek biyoçeşitlilik gösteren bir dağ ekosistemi sunar.
 
 Bitki örtüsü olarak, ilkbaharda çiçeklenen ağaç ve çalı türleri ile birlikte, sonbaharda sararan yapraklarla renklenen bir manzara ortaya çıkar. Dağın yükseklik zonlarına göre değişen alpin flora, bu bölgenin benzersiz özelliklerinden biridir.
 
-Yaban hayatıında, dağların yüksekliklerine adapte olmuş memeliler, çeşitli kuş türleri ve sürüngenler yaşamaktadır. Bu canlılar, dağların ekosistemine bağlı olarak, mevsimsel göçler ve beslenme alışkanlıkları sergilerler. 
+Yaban hayatıında, dağların yüksekliklerine adapte olmuş memeliler, çeşitli kuş türleri ve sürüngenler yaşamaktadır. Bu canlılar, dağların ekosistemine bağlı olarak, mevsimsel göçler ve beslenme alışkanlıkları sergilerler.
 
 Göktaş Dağı'nın ekolojik değeri, yüksek biyoçeşitliliği ve nemli iklimin sağladığı yaşam alanı çeşitliliği ile ortaya çıkar. Bu bölgenin korunması, hem yerel hem de ulusal düzeyde önemlidir.
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728112"
 
 # Piramit Mezar-Turgut, Marmaris
 
-Marmaris'in Turgut mevkiinde bulunan Piramit Mezar, Ege Bölgesi'nin en özel noktalarından biri. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmaris'in doğal güzelliklerini gözler önüne seriyor. Tarihi ve doğal güzellikleri bir arada sunan Piramit Mezar, ziyaretçilerini bekliyor. Doğal bir plaj olarak bilinen bu bölge, deniz ve doğa severlerin gözdesi.
+Marmaris'in Turgut mevkiinde bulunan Piramit Mezar, Ege Bölgesi'nin en özel noktalarından biri. Tarihi ve doğal güzellikleri bir arada sunan Piramit Mezar, ziyaretçilerini bekliyor. Doğal bir plaj olarak bilinen bu bölge, deniz ve doğa severlerin gözdesi.
 
 ## Tarihçe
 

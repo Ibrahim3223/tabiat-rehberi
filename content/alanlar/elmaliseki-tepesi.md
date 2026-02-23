@@ -28,7 +28,7 @@ wikidata_id: "Q31538420"
 
 # Elmalıseki Tepesi
 
-Elmalıseki Tepesi, Hatay'ın güzide bir noktasında yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Elmalıseki Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepenin etrafındaki manzara, ziyaretçilerin gözlerini doyuracak güzellikte.
+Elmalıseki Tepesi, Hatay'ın güzide bir noktasında yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Elmalıseki Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepenin etrafındaki manzara, ziyaretçilerin gözlerini doyuracak güzellikte.
 
 ## Tarihçe
 

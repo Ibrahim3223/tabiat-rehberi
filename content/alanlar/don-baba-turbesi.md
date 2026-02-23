@@ -1,7 +1,7 @@
 ---
 title: "Don Baba Türbesi"
 date: "2026-01-10T05:47:12.312Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582180"
 
 # Don Baba Türbesi
 
-Don Baba Türbesi, Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Acıpayam ilçesinde yer alan bu özel alan, 140 hektarlık büyüklüğüyle yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Don Baba Türbesi, Denizli'nin önemli turizm noktalarından biri olarak biliniyor. Burada, tarihi yapılar, doğal güzellikler ve eşsiz manzaralar bir arada bulunuyor.
+Don Baba Türbesi, Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Don Baba Türbesi, Denizli'nin önemli turizm noktalarından biri olarak biliniyor. Burada, tarihi yapılar, doğal güzellikler ve eşsiz manzaralar bir arada bulunuyor.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Don Baba Türbesi, coğrafi açıdan oldukça zengin bir bölge. 140 hektarlık 
 
 ## Flora ve Fauna
 
-Don Baba Türbesi, flora ve fauna açısından oldukça zengin bir bölge. Burada, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Bu bölgenin flora ve faunası, mevsimsel değişimlere bağlı olarak değişkenlik gösteriyor. İlkbahar ve yaz aylarında, bölgeye özgü bitkiler ve çiçekler açıyor. Kış aylarında ise, bölgenin fauna zenginliği daha belirgin hale geliyor. Don Baba Türbesi, doğa severlerin ve biyologların ilgi odağı oluyor.
+ Burada, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Bu bölgenin flora ve faunası, mevsimsel değişimlere bağlı olarak değişkenlik gösteriyor. İlkbahar ve yaz aylarında, bölgeye özgü bitkiler ve çiçekler açıyor. Kış aylarında ise, bölgenin fauna zenginliği daha belirgin hale geliyor. Don Baba Türbesi, doğa severlerin ve biyologların ilgi odağı oluyor.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31549953"
 
 # Daroğlu Tepesi
 
-Daroğlu Tepesi, Diyarbakır'ın önemli bir doğal güzelliği olarak dikkat çekiyor. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede bulunan tepe, ziyaretçilerini doğal güzellikleriyle büyülüyor. Daroğlu Tepesi, bölgenin tarihi ve kültürel değerlerini öğrenmek için ideal bir destinasyon.
+Daroğlu Tepesi, Diyarbakır'ın önemli bir doğal güzelliği olarak dikkat çekiyor. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Daroğlu Tepesi, bölgenin tarihi ve kültürel değerlerini öğrenmek için ideal bir destinasyon.
 
 ## Tarihçe
 

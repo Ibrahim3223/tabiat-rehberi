@@ -1,7 +1,7 @@
 ---
 title: "Örcün Hamamı"
 date: "2026-01-09T23:29:18.397Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739058"
 
 # Örcün Hamamı
 
-Örcün Hamamı, Marmara Bölgesi'nin Kocaeli ilinin Gölcük ilçesinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu 140 hektarlık alan, ziyaretçilerini çamur banyosu, temiz plajları ve doğanın güzelliği ile karşılar. Örcün Hamamı, her yıl binlerce ziyaretçiyi ağırlayan ve doğa severlerin keyif aldığı bir yerdir. Doğal güzellikleri, temiz havası ve sakin atmosferi ile Örcün Hamamı, Marmara Bölgesi'nin gizli cennetlerinden biridir.
+ Bu 140 hektarlık alan, ziyaretçilerini çamur banyosu, temiz plajları ve doğanın güzelliği ile karşılar. Örcün Hamamı, her yıl binlerce ziyaretçiyi ağırlayan ve doğa severlerin keyif aldığı bir yerdir. Doğal güzellikleri, temiz havası ve sakin atmosferi ile Örcün Hamamı, Marmara Bölgesi'nin gizli cennetlerinden biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131739058"
 
 ## Coğrafya
 
-Örcün Hamamı, Marmara Bölgesi'nin Kocaeli ilinin Gölcük ilçesinde yer alan, 140 hektarlık bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini çamur banyosu, temiz plajları ve doğanın güzelliği ile karşılar. Örcün Hamamı'nın coğrafi konumu, ziyaretçilere Marmara Denizi'nin güzelliğini sunar. Bölgenin iklimi, ılıman ve ziyaretçilerin keyif alması için idealdir. Örcün Hamamı, Kocaeli'nin önemli turizm merkezlerinden biri olarak, her yıl binlerce ziyaretçiyi ağırlar. Bu güzel yer, Marmara Bölgesi'nin gizli cennetlerinden biridir. Örcün Hamamı'nın çevresi, yeşilliklerle kaplı ve temiz bir ortamdır. Ziyaretçiler, bu güzel doğa harikasını keşfetmek için Örcün Hamamı'nı ziyaret edebilirler.
+Örcün Hamamı, Marmara Bölgesi'nin Kocaeli ilinin Gölcük ilçesinde yer alan, 140 hektarlık bir doğa harikasıdır. Örcün Hamamı'nın coğrafi konumu, ziyaretçilere Marmara Denizi'nin güzelliğini sunar. Bölgenin iklimi, ılıman ve ziyaretçilerin keyif alması için idealdir. Örcün Hamamı, Kocaeli'nin önemli turizm merkezlerinden biri olarak, her yıl binlerce ziyaretçiyi ağırlar. Bu güzel yer, Marmara Bölgesi'nin gizli cennetlerinden biridir. Örcün Hamamı'nın çevresi, yeşilliklerle kaplı ve temiz bir ortamdır. Ziyaretçiler, bu güzel doğa harikasını keşfetmek için Örcün Hamamı'nı ziyaret edebilirler.
 
 ## Flora ve Fauna
 

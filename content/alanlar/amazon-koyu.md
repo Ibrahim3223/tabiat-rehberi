@@ -23,7 +23,7 @@ wikidata_id: "Q19610507"
 
 # Amazon Köyü
 
-Amazon Köyü, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş ve güzel alan, yaklaşık 1.500 metre uzunluğundaki yürüyüş parkurları, 500 metrelik bisiklet yolları ve çok çeşitli bitki türleriyle doğa severlerin yeni adresi haline geldi. Amazon Köyü'nün en önemli özelliklerinden biri, burada bulunan çeşitli ağaç türleri ve çiçeklerin oluşturduğu renk cümbüşü. Burada, yaban hayatının zenginliğini gözlemleyebilir ve doğanın güzelliğini keşfedebilirsiniz.
+ Bu geniş ve güzel alan, yaklaşık 1.500 metre uzunluğundaki yürüyüş parkurları, 500 metrelik bisiklet yolları ve çok çeşitli bitki türleriyle doğa severlerin yeni adresi haline geldi. Amazon Köyü'nün en önemli özelliklerinden biri, burada bulunan çeşitli ağaç türleri ve çiçeklerin oluşturduğu renk cümbüşü. Burada, yaban hayatının zenginliğini gözlemleyebilir ve doğanın güzelliğini keşfedebilirsiniz.
 
 ## Tarihçe
 

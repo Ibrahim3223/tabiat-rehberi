@@ -29,7 +29,7 @@ wikidata_id: "Q134728114"
 
 # Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı
 
-Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı, Eşme'nin tarihi ve doğal güzelliklerinin birleştiği nokta olarak dikkat çekiyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Eşme'nin merkezine yakın bir konumda bulunan anıt, ziyaretçilerini tarihi ve doğal güzelliklerini keşfetmeye davet ediyor. Anıtın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna encontruluyor.
+Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı, Eşme'nin tarihi ve doğal güzelliklerinin birleştiği nokta olarak dikkat çekiyor. Eşme'nin merkezine yakın bir konumda bulunan anıt, ziyaretçilerini tarihi ve doğal güzelliklerini keşfetmeye davet ediyor. Anıtın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna encontruluyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q134728114"
 
 ## Coğrafya
 
-Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı, Eşme'nin merkezi bir bölgesinde yer alıyor. Anıtın bulunduğu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak bir iklime sahip olup, yaz aylarında sıcaklık derecesi yüksek oluyor. Anıtıni, çeşitli bitki türleri ve ağaçlarla çevrili olup, ziyaretçilere doğal bir ortam sunuyor. Anıtın bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Anıtın yakınında, çeşitli su kaynakları ve akarsular encontruluyor.
+Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı, Eşme'nin merkezi bir bölgesinde yer alıyor. Anıtın bulunduğu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bölge, genellikle sıcak ve kurak bir iklime sahip olup, yaz aylarında sıcaklık derecesi yüksek oluyor. Anıtıni, çeşitli bitki türleri ve ağaçlarla çevrili olup, ziyaretçilere doğal bir ortam sunuyor. Anıtın yakınında, çeşitli su kaynakları ve akarsular encontruluyor.
 
 ## Flora ve Fauna
 

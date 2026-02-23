@@ -1,7 +1,7 @@
 ---
 title: "Polat Dede Türbesi"
 date: "2026-01-10T06:58:47.741Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390822"
 
 # Polat Dede Türbesi
 
-Polat Dede Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dinî ve turistik merkezlerinden biridir. Şahinbey/Gaziantep'te yer alan bu türbe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir hareket alanı sunmaktadır. Türbenin çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu da ziyaretçilerin doğayı ve dinî hayatın birleşimini deneyimlemesine olanak sağlamaktadır. Polat Dede Türbesi, yüzyıllar boyunca önemli bir dinî merkez olarak kabul edilmiş ve birçok kişi tarafından ziyaret edilmiştir. Türbenin tarihi geçmişi, birçok kişinin ilgisini çekmekte ve ziyaretçilere önemli bir deneyim sunmaktadır.
+Polat Dede Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dinî ve turistik merkezlerinden biridir. Şahinbey/Gaziantep'te yer alan bu türbe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Türbenin çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu da ziyaretçilerin doğayı ve dinî hayatın birleşimini deneyimlemesine olanak sağlamaktadır. Polat Dede Türbesi, yüzyıllar boyunca önemli bir dinî merkez olarak kabul edilmiş ve birçok kişi tarafından ziyaret edilmiştir. Türbenin tarihi geçmişi, birçok kişinin ilgisini çekmekte ve ziyaretçilere önemli bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Polat Dede Türbesi'nin tarihi geçmişi, birçok kişinin ilgisini çekmektedir
 
 ## Coğrafya
 
-Polat Dede Türbesi, Şahinbey/Gaziantep'te yer almaktadır. Türbenin konumu, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir hareket alanı sunmaktadır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu da ziyaretçilerin doğayı ve dinî hayatın birleşimini deneyimlemesine olanak sağlamaktadır. Bölgenin iklimi, genel olarak sıcak ve kurudur. Yaz aylarında sıcaklık oldukça yüksek olabilirken, kış aylarında soğuk olabilir. Türbenin coğrafi konumu, birçok kişinin ilgisini çekmekte ve ziyaretçilere önemli bir deneyim sunmaktadır. Türbenin etrafındaki yerleşim yerleri ve tarihi yapılardan da anlaşılacağı gibi, bu bölge uzun yıllardır önemli bir dinî ve kültürel merkez olarak kabul edilmiştir.
+Polat Dede Türbesi, Şahinbey/Gaziantep'te yer almaktadır. Türbenin konumu, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu da ziyaretçilerin doğayı ve dinî hayatın birleşimini deneyimlemesine olanak sağlamaktadır. Bölgenin iklimi, genel olarak sıcak ve kurudur. Yaz aylarında sıcaklık oldukça yüksek olabilirken, kış aylarında soğuk olabilir. Türbenin coğrafi konumu, birçok kişinin ilgisini çekmekte ve ziyaretçilere önemli bir deneyim sunmaktadır. Türbenin etrafındaki yerleşim yerleri ve tarihi yapılardan da anlaşılacağı gibi, bu bölge uzun yıllardır önemli bir dinî ve kültürel merkez olarak kabul edilmiştir.
 
 ## Flora ve Fauna
 

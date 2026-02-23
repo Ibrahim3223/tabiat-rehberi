@@ -51,11 +51,11 @@ Doğudan batıya uzanan Tutak Dağı'nın fiziksel yapısı, bölgenin jeolojik 
 
 ## Flora ve Fauna
 
-Tutak Dağı, Giresun'un nemli ikliminin hakim olduğu bir bölge olup, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çekiyor. Bu dağ ekosisteminde, yükseklik zonlarına göre farklı flora ve fauna çeşitliliği gözlemleniyor. 
+Tutak Dağı, Giresun'un nemli ikliminin hakim olduğu bir bölge olup, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çekiyor. Bu dağ ekosisteminde, yükseklik zonlarına göre farklı flora ve fauna çeşitliliği gözlemleniyor.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Ormanlar, mevsimsel değişimlere göre farklı bir görünüm kazanıyor. Sonbaharda, göç eden kuşlar bu dağları ziyaret ediyor. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Ormanlar, mevsimsel değişimlere göre farklı bir görünüm kazanıyor. Sonbaharda, göç eden kuşlar bu dağları ziyaret ediyor.
 
-Dağların yüksek kesimlerinde, alpin flora hakim oluyor. Bu bölgede yaşayan hayvanlar, genellikle dağlık alanlara adapte olmuş türlerden oluşuyor. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenlerini oluşturuyor. 
+Dağların yüksek kesimlerinde, alpin flora hakim oluyor. Bu bölgede yaşayan hayvanlar, genellikle dağlık alanlara adapte olmuş türlerden oluşuyor. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenlerini oluşturuyor.
 
 Tutak Dağı, yüksek biyoçeşitlili ve ekolojik değerler nedeniyle önemli bir bölge. Bu alanın korunması, bölgede yaşayan canlıların yaşam alanlarını korumak için büyük önem taşıyor.
 

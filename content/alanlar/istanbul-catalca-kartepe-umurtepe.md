@@ -22,7 +22,7 @@ wikidata_id: "Q108228910"
 
 # İSTANBUL ÇATALCA KARTEPE (UMURTEPE
 
-İç Anadolu Bölgesi'nde yer alan İstanbul Çatalca Kartaltepe (Umurtepe), yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar. Bu büyük yeşil alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Kartaltepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak öne çıkıyor. 140 hektarlık bu büyük yeşil alan, ziyaretçilere doğayı keşfetme ve tarihi geçmişi öğrenme fırsatı sunuyor.
+ Bu büyük yeşil alan, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Kartaltepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak öne çıkıyor. 140 hektarlık bu büyük yeşil alan, ziyaretçilere doğayı keşfetme ve tarihi geçmişi öğrenme fırsatı sunuyor.
 
 ## Tarihçe
 

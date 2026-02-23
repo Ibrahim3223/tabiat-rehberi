@@ -51,9 +51,9 @@ Dağın çevresel ilişkileri açısından bakıldığında, Boz Dağ'ın komşu
 
 ## Flora ve Fauna
 
-Boz Dağ, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlkbaharın gelmesi ile birlikte, dağ yamaçlarında çeşitli çiçekler açar ve renkli bir manzara oluşur. Çam ormanları, zeytinliklerin arasında yer alır ve dağın yükseklik zonlarına göre değişen bitki örtüsüne ev sahipliği yapar. 
-Dağın yüksek kesimlerinde, alpin flora hakimdir. Bu bölgede, çeşitli yaban hayvanları yaşamaktadır. Memeliler, kuşlar ve sürüngenler, dağın ekosisteminin önemli parçalarıdır. 
+Boz Dağ, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlkbaharın gelmesi ile birlikte, dağ yamaçlarında çeşitli çiçekler açar ve renkli bir manzara oluşur. Çam ormanları, zeytinliklerin arasında yer alır ve dağın yükseklik zonlarına göre değişen bitki örtüsüne ev sahipliği yapar.
+Dağın yüksek kesimlerinde, alpin flora hakimdir. Bu bölgede, çeşitli yaban hayvanları yaşamaktadır. Memeliler, kuşlar ve sürüngenler, dağın ekosisteminin önemli parçalarıdır.
 Boz Dağ'ın ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasından gelir. Bu dağ, birçok canlıyaşam alanı sağlar ve bölgenin iklim dengesini korur.
 
 ## Ziyaret Bilgileri

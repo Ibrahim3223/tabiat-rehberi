@@ -1,7 +1,7 @@
 ---
 title: "Baykoca Bey Türbesi"
 date: "2026-01-10T05:30:40.755Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391363"
 
 # Baykoca Bey Türbesi
 
-Baykoca Bey Türbesi, İnegöl'ün merkezinde yer alan ve tarihi geçmişi ile ön plana çıkan bir türbedir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İnegöl'ün en önemli tarihi yapılarından biridir. Türbe, Baykoca Bey'in mezarının bulunduğu yer olarak bilinir ve İnegöl'ün tarihinde önemli bir yer tutar. İnegöl'ün merkezinde yer alan bu türbe, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmektedir. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Baykoca Bey Türbesi, İnegöl'ün merkezinde yer alan ve tarihi geçmişi ile ön plana çıkan bir türbedir. Türbe, Baykoca Bey'in mezarının bulunduğu yer olarak bilinir ve İnegöl'ün tarihinde önemli bir yer tutar. İnegöl'ün merkezinde yer alan bu türbe, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmektedir. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 

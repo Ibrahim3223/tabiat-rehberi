@@ -28,7 +28,7 @@ wikidata_id: "Q31551778"
 
 # Geredelki Tepesi
 
-Geredelki Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta olarak ziyaretçilerini bekliyor. Bu tepe, Mardin şehir merkezine yakınlığıyla dikkat çekiyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok farklı bitki türünü barındırıyor. Geredelki Tepesi, aynı zamanda Mardin'in tarihi geçmişi hakkında da bilgi veren önemli bir kültürel miras olarak kabul ediliyor.
+Geredelki Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta olarak ziyaretçilerini bekliyor. Bu tepe, Mardin şehir merkezine yakınlığıyla dikkat çekiyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Geredelki Tepesi, aynı zamanda Mardin'in tarihi geçmişi hakkında da bilgi veren önemli bir kültürel miras olarak kabul ediliyor.
 
 ## Tarihçe
 

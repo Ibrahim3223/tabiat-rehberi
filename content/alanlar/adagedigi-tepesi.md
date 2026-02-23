@@ -28,7 +28,7 @@ wikidata_id: "Q31386131"
 
 # Adagediği Tepesi
 
-Gaziantep'in eşsiz manzaralarına ev sahipliği yapan Adagediği Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found, bu alanı doğa severler için bir cennet haline getiriyor. Adagediği Tepesi, Gaziantep'in tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Gaziantep'in eşsiz manzaralarına ev sahipliği yapan Adagediği Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found, bu alanı doğa severler için bir cennet haline getiriyor. Adagediği Tepesi, Gaziantep'in tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

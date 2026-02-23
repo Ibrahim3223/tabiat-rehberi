@@ -28,7 +28,7 @@ wikidata_id: "Q31554404"
 
 # Zorova Tepesi
 
-Mardin'in doğal güzelliği ve tarihsel önemiyle dikkat çeken Zorova Tepesi, ziyaretçiler için keyifli bir gezi deneyimi sunuyor. Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak bilinir. Zorova Tepesi, yaklaşık olarak 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Tepenin yüksekliği ve konumu, ziyaretçilere bölgenin panoramik manzarasını sunar. Zorova Tepesi, Mardin'in tarihi ve kültürel mirasının önemli bir parçasıdır ve ziyaretçiler, bu tepeyi ziyaret ederek bölge hakkında daha fazla bilgi edinebilirler.
+Mardin'in doğal güzelliği ve tarihsel önemiyle dikkat çeken Zorova Tepesi, ziyaretçiler için keyifli bir gezi deneyimi sunuyor. Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak bilinir. Tepenin yüksekliği ve konumu, ziyaretçilere bölgenin panoramik manzarasını sunar. Zorova Tepesi, Mardin'in tarihi ve kültürel mirasının önemli bir parçasıdır ve ziyaretçiler, bu tepeyi ziyaret ederek bölge hakkında daha fazla bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Zorova Tepesi'nin tarihi geçmişi, bölgenin genel tarihinden ayrılmaz. Mardin
 
 ## Coğrafya
 
-Zorova Tepesi, Mardin'in coğrafi yapısını oluşturan önemli bir noktadır. Tepenin konumu, bölgenin panoramik manzarasını sunar ve ziyaretçiler, tepeyi ziyaret ederek bölgenin coğrafi yapısını daha iyi anlayabilirler. Zorova Tepesi, yaklaşık olarak 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Tepenin yüksekliği, ziyaretçilere bölgenin genel görünümünü sunar ve tepe, Mardin'in coğrafi yapısını oluşturan önemli bir parçadır. Zorova Tepesi'nin coğrafi konumu, ziyaretçiler için önemli bir avantajdır ve tepe, Mardin'in doğal güzelliğini deneyimlemek isteyenler için ideal bir destinasyondur. Zorova Tepesi, Mardin'in coğrafi yapısını oluşturan önemli bir noktadır ve tepe, ziyaretçiler için bölgenin genel görünümünü sunar.
+Zorova Tepesi, Mardin'in coğrafi yapısını oluşturan önemli bir noktadır. Tepenin konumu, bölgenin panoramik manzarasını sunar ve ziyaretçiler, tepeyi ziyaret ederek bölgenin coğrafi yapısını daha iyi anlayabilirler. Tepenin yüksekliği, ziyaretçilere bölgenin genel görünümünü sunar ve tepe, Mardin'in coğrafi yapısını oluşturan önemli bir parçadır. Zorova Tepesi'nin coğrafi konumu, ziyaretçiler için önemli bir avantajdır ve tepe, Mardin'in doğal güzelliğini deneyimlemek isteyenler için ideal bir destinasyondur. Zorova Tepesi, Mardin'in coğrafi yapısını oluşturan önemli bir noktadır ve tepe, ziyaretçiler için bölgenin genel görünümünü sunar.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34810550"
 
 # Şeyhömer Tepesi
 
-Şeyhömer Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olarak, yaklaşık 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepe, özellikle doğal güzellikleriyle dikkat çekiyor. Şeyhömer Tepesi, ziyaretçilerine aynı zamanda tarihsel bir geçmiş sunuyor. Tepenin eteklerinde ve çevresinde, tarihi kalıntılar ve yapılar bulunmakta. Bu yapılar, tepenin zengin tarihsel geçmişini gözler önüne seriyor. Şeyhömer Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak dikkat çekiyor.
+ Bu tepe, özellikle doğal güzellikleriyle dikkat çekiyor. Şeyhömer Tepesi, ziyaretçilerine aynı zamanda tarihsel bir geçmiş sunuyor. Tepenin eteklerinde ve çevresinde, tarihi kalıntılar ve yapılar bulunmakta. Bu yapılar, tepenin zengin tarihsel geçmişini gözler önüne seriyor. Şeyhömer Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

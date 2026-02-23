@@ -22,7 +22,7 @@ wikidata_id: "Q108226224"
 
 # Turnapınar Gölü Sit Alanı
 
-Turnapınar Gölü Sit Alanı, İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık bir alanı kapsayan bir doğal alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, bölgenin en önemli doğal güzelliklerinden biridir. Gölün çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, bölgenin florasını zenginleştirmektedir. Ayrıca, gölde ve çevresinde yaşayan hayvanlar, fauna çeşitliliğini artırmaktadır. Turnapınar Gölü Sit Alanı, doğal güzelliği ve biyolojik çeşitliliği nedeniyle önemli bir turizm merkezidir.
+Turnapınar Gölü Sit Alanı, İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık bir alanı kapsayan bir doğal alandır. Gölün çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, bölgenin florasını zenginleştirmektedir. Ayrıca, gölde ve çevresinde yaşayan hayvanlar, fauna çeşitliliğini artırmaktadır. Turnapınar Gölü Sit Alanı, doğal güzelliği ve biyolojik çeşitliliği nedeniyle önemli bir turizm merkezidir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Turnapınar Gölü Sit Alanı'nın tarihi geçmişi, yüzyıllar öncesine dayan
 
 ## Coğrafya
 
-Turnapınar Gölü Sit Alanı, İç Anadolu Bölgesi'nde yer alan bir doğal alandır. Bu alan, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Gölün çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, bölgenin florasını zenginleştirmektedir. Ayrıca, gölde ve çevresinde yaşayan hayvanlar, fauna çeşitliliğini artırmaktadır. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. İklim, karasal iklim özellikleri gösterir ve yazlar sıcak, kışlar soğuk geçer. Bu coğrafi özellikler, bölgenin florası ve faunasını etkilemektedir. Turnapınar Gölü Sit Alanı, doğal güzelliği ve biyolojik çeşitliliği nedeniyle önemli bir turizm merkezidir.
+Turnapınar Gölü Sit Alanı, İç Anadolu Bölgesi'nde yer alan bir doğal alandır. Gölün çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitkiler, bölgenin florasını zenginleştirmektedir. Ayrıca, gölde ve çevresinde yaşayan hayvanlar, fauna çeşitliliğini artırmaktadır. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. İklim, karasal iklim özellikleri gösterir ve yazlar sıcak, kışlar soğuk geçer. Bu coğrafi özellikler, bölgenin florası ve faunasını etkilemektedir. Turnapınar Gölü Sit Alanı, doğal güzelliği ve biyolojik çeşitliliği nedeniyle önemli bir turizm merkezidir.
 
 ## Flora ve Fauna
 

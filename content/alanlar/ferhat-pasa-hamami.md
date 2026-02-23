@@ -1,7 +1,7 @@
 ---
 title: "Ferhat Paşa Hamamı"
 date: "2026-01-09T23:01:11.926Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738817"
 
 # Ferhat Paşa Hamamı
 
-Kastamonu'nun merkezinde yer alan Ferhat Paşa Hamamı, 1400'lü yıllardan kalma bir tarihi eserdir. Bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanda kurulmuştur. Kastamonu'nun tarihi ve doğal güzelliklerini bir araya getiren bu mekan, ziyaretçiler için önemli bir kültürel ve tarihi deneyimi sunar. Kastamonu'nun merkezinde yer alan bu hamam, şehrin en önemli tarihi yapılarından biridir.
+Kastamonu'nun merkezinde yer alan Ferhat Paşa Hamamı, 1400'lü yıllardan kalma bir tarihi eserdir. Kastamonu'nun tarihi ve doğal güzelliklerini bir araya getiren bu mekan, ziyaretçiler için önemli bir kültürel ve tarihi deneyimi sunar. Kastamonu'nun merkezinde yer alan bu hamam, şehrin en önemli tarihi yapılarından biridir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Ferhat Paşa Hamamı, Kastamonu'nun merkezinde yer alır. Bu nedenle, ulaşımı
 ## İlginç Bilgiler
 
 - Ferhat Paşa Hamamı, Kastamonu'nun en önemli tarihi yapılarından biridir.
-- Hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanda kurulmuştur.
+
 - Kastamonu'nun coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Hamamın etrafı, tarihi evler ve diğer önemli yapılarla çevrilidir.
 - Ferhat Paşa Hamamı, Kastamonu'nun tarihsel geçmişi hakkında önemli bilgiler sunar.

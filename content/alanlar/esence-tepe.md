@@ -33,7 +33,7 @@ Erzincan'ın dağlık bölgesinde, ziyaretçilerini büyüleyen bir güzelliğe 
 
 ## Tarihçe
 
-Erzincan bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Esence Tepe gibi doğal güzellikler, bu bölgenin zengin tarihini anlamak için önemli birer parçadır. Erzincan, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir bölgedir. Bu uygarlıkların her biri, bölgenin jeopolitik konumundan yararlanarak ticaret yollarını ve yerleşim merkezlerini oluşturmuşlardır.
+Erzincan bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Esence Tepe gibi doğal güzellikler, bu bölgenin zengin tarihini anlamak için önemli birer parçadır. Erzincan, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir bölgedir. Bu uygarlıkların her biri, bölgenin jeopolitik konumundan yararlanarak ticaret yollarını ve yerleşim merkezlerini oluşturmuşlardır.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunun önemli bir parçasıdır. Bu tür alanlar, insanların yaşamlarını sürdürmeleri için gerekli kaynakları sunmuş, aynı zamanda kültürel ve ekonomik aktivitelerin merkezinde yer almıştır. Yaylacılık ve hayvancılık, bu bölgede insanların geçimini sağlayan geleneksel faaliyetlerdir. Esence Tepe gibi yüksek rakımlı alanlar, yaylacılık için elverişli koşullar sunar ve bölgenin ekonomik faaliyetlerine katkıda bulunur.
 
@@ -51,7 +51,7 @@ Jeolojik açıdan bakıldığında, Esence Tepe'nin fiziksel yapısı hakkında 
 
 ## Flora ve Fauna
 
-Esence Tepe, Erzincan'da bulunan yüksek dağ ekosistemi, zengin bir flora ve faunaya ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Esence Tepe, Erzincan'da bulunan yüksek dağ ekosistemi, zengin bir flora ve faunaya ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, alpin çayırlar ve endemik türler hakim. İlkbaharın gelmesiyle birlikte, çayırlar rengarenk çiçeklerle kaplanıyor. Sonbaharda ise, yaprak döken ağaçların sarı, turuncu ve kırmızı tonlarına şahit olunuyor.
 

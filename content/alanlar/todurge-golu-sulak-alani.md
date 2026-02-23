@@ -22,7 +22,7 @@ wikidata_id: "Q108228840"
 
 # Tödürge Gölü Sulak Alanı
 
-Tödürge Gölü Sulak Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli sulak alanlarından biridir. Bu eşsiz doğa alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkiliyor. Gölün suları, çevredeki tarım arazileri için de hayati önem taşıyor. Tödürge Gölü Sulak Alanı, doğa severler ve bilim insanları için bir cennet olarak kabul ediliyor.
+Tödürge Gölü Sulak Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu eşsiz doğa alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkiliyor. Gölün suları, çevredeki tarım arazileri için de hayati önem taşıyor. Tödürge Gölü Sulak Alanı, doğa severler ve bilim insanları için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 

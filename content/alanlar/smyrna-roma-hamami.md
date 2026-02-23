@@ -1,7 +1,7 @@
 ---
 title: "Smyrna Roma Hamamı"
 date: "2026-01-09T23:22:35.801Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739022"
 
 # Smyrna Roma Hamamı
 
-Smyrna Roma Hamamı, İzmir'in Konak ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir turistik noktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok tarihi yapıyı barındırır. Smyrna Roma Hamamı, İzmir'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Bu bölgede, ziyaretçiler Roma döneminden kalan tarihi kalıntıları görebilir ve Ege Bölgesi'nin doğal güzelliğini keşfedebilirler.
+Smyrna Roma Hamamı, İzmir'in Konak ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir turistik noktadır. Smyrna Roma Hamamı, İzmir'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur. Bu bölgede, ziyaretçiler Roma döneminden kalan tarihi kalıntıları görebilir ve Ege Bölgesi'nin doğal güzelliğini keşfedebilirler.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Smyrna Roma Hamamı, İzmir'in Konak ilçesinde yer alır ve Ege Bölgesi'nin co
 
 ## Flora ve Fauna
 
-Smyrna Roma Hamamı ve çevresindeki bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, ziyaretçiler birçok farklı bitki türünü görebilir ve Ege Bölgesi'nin doğal güzelliğini keşfedebilirler. Smyrna Roma Hamamının etrafındaki yeşillik alanlar, birçok hayvanın yaşadığı bir ortamdır. Ziyaretçiler, bu bölgede birçok farklı hayvan türünü görebilir ve Ege Bölgesi'nin fauna çeşitliliğini keşfedebilirler. Smyrna Roma Hamamı ve çevresindeki bölge, mevsimsel değişimlere göre farklı bir güzellik sunar. İlkbahar ve yaz aylarında, bu bölge daha yeşil ve canlıdır, sonbahar ve kış aylarında ise daha sakin ve huzurludur.
+ Bu bölgede, ziyaretçiler birçok farklı bitki türünü görebilir ve Ege Bölgesi'nin doğal güzelliğini keşfedebilirler. Smyrna Roma Hamamının etrafındaki yeşillik alanlar, birçok hayvanın yaşadığı bir ortamdır. Ziyaretçiler, bu bölgede birçok farklı hayvan türünü görebilir ve Ege Bölgesi'nin fauna çeşitliliğini keşfedebilirler. Smyrna Roma Hamamı ve çevresindeki bölge, mevsimsel değişimlere göre farklı bir güzellik sunar. İlkbahar ve yaz aylarında, bu bölge daha yeşil ve canlıdır, sonbahar ve kış aylarında ise daha sakin ve huzurludur.
 
 ## Ziyaret Bilgileri
 

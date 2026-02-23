@@ -1,7 +1,7 @@
 ---
 title: "Beypazarı Tarih ve Kültür Müzesi"
 date: "2026-01-10T15:22:30.062Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Türkiye"
@@ -28,7 +28,7 @@ wikidata_id: "Q85968852"
 
 # Beypazarı Tarih ve Kültür Müzesi
 
-Beypazarı Tarih ve Kültür Müzesi, Ankara'nın Beypazarı ilçesinde yer alan ve bölgenin zengin tarihini ve kültürünü yansıtan önemli bir kültür merkezi. Müze, 140 hektarlık bir alanda kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplıyor. Bu geniş alan, ziyaretçilerin rahatça dolaşmasına olanak tanır. Müzenin içinde, Beypazarı'nın tarihi geçmişine ait birçok önemli eser ve belge sergileniyor. Ziyaretçiler, bu eserleri görerek Beypazarı'nın geçmişini keşfedebilirler.
+Beypazarı Tarih ve Kültür Müzesi, Ankara'nın Beypazarı ilçesinde yer alan ve bölgenin zengin tarihini ve kültürünü yansıtan önemli bir kültür merkezi. Bu geniş alan, ziyaretçilerin rahatça dolaşmasına olanak tanır. Müzenin içinde, Beypazarı'nın tarihi geçmişine ait birçok önemli eser ve belge sergileniyor. Ziyaretçiler, bu eserleri görerek Beypazarı'nın geçmişini keşfedebilirler.
 
 ## Tarihçe
 

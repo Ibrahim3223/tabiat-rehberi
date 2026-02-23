@@ -28,7 +28,7 @@ wikidata_id: "Q31509105"
 
 # Ozangediği Tepe
 
-Sivas'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan Ozangediği Tepe, şehrin merkezi konumuna yakın bir bölgede yer alıyor. Sivas ilinin eşsiz manzarasını sunan bu tepe, ziyaretçilerini tarihi ve kültürel zenginliklerle buluşturuyor. Ozangediği Tepe, Sivas'ın tarihi dokusunu keşfetmek isteyenler için önemli bir durak niteliğinde. Sivas'ın doğal ve kültürel zenginliklerini bir araya getiren bu tepe, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Sivas'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan Ozangediği Tepe, şehrin merkezi konumuna yakın bir bölgede yer alıyor. Sivas ilinin eşsiz manzarasını sunan bu tepe, ziyaretçilerini tarihi ve kültürel zenginliklerle buluşturuyor. Ozangediği Tepe, Sivas'ın tarihi dokusunu keşfetmek isteyenler için önemli bir durak niteliğinde.
 
 ## Tarihçe
 

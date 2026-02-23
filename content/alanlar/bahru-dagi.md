@@ -50,9 +50,9 @@ Fiziksel olarak bakıldığında, Bahru Dağı'nın boyutları hakkında detayl�
 
 Bahru Dağı, Elazığ'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse %0.02'sine denk geliyor. Burada, ilkbaharla birlikte renkli çiçekler açarken, sonbaharda göç eden kuşlar dağların üzerinde uçuşuyor.
 
-Bitki örtüsünde, alpin çayırlar hakim. Bu çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliğine sahne oluyor. Mevsimsel değişimlerle birlikte, dağın eteklerinde yetişen bitkiler, yükseklerdeki alpin bitkilerle yerini değiştiriyor. 
+Bitki örtüsünde, alpin çayırlar hakim. Bu çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliğine sahne oluyor. Mevsimsel değişimlerle birlikte, dağın eteklerinde yetişen bitkiler, yükseklerdeki alpin bitkilerle yerini değiştiriyor.
 
-Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri, çayırlarda dolaşırken, kartallar ve şahinler gökyüzünde uçuşuyor. Sürüngenler ise, kayalıklarda ve çayırlarda yaşamlarını sürdürüyor. 
+Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri, çayırlarda dolaşırken, kartallar ve şahinler gökyüzünde uçuşuyor. Sürüngenler ise, kayalıklarda ve çayırlarda yaşamlarını sürdürüyor.
 
 Bu dağ ekosistemi, yükseklik zonları, alpin flora ve dağ hayvanlarıyla birlikte, endemik türlerin yaşam alanı. Bu nedenle, koruma altına alınması büyük önem taşıyor. Bahru Dağı, yüksek dağ ekolojisini experiencesi için ziyaretçilerini bekliyor.
 

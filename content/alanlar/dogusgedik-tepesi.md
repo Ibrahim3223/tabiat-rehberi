@@ -28,7 +28,7 @@ wikidata_id: "Q31535883"
 
 # Doguşgedik Tepesi
 
-Doğuşgedik Tepesi, Hatay'ın eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Doğuşgedik Tepesi, ziyaretçilerini Akdeniz Bölgesi'nin muhteşem manzarasıyla karşılar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennete dönüştürüyor. Doğuşgedik Tepesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor.
+Doğuşgedik Tepesi, Hatay'ın eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Doğuşgedik Tepesi, ziyaretçilerini Akdeniz Bölgesi'nin muhteşem manzarasıyla karşılar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennete dönüştürüyor. Doğuşgedik Tepesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

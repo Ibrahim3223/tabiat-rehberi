@@ -23,7 +23,7 @@ wikidata_id: "Q108227345"
 
 # Bayır Çınarı
 
-Bayır Çınarı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli park alanıdır. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Doğal güzellikleri ve zengin ekosistemiyle ziyaretçilerini cezbeden Bayır Çınarı, aynı zamanda bölgenin önemli bir turizm merkezidir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir experiencia sunar. Bayır Çınarı'nın tarihi geçmişi, yüzyıllar boyunca süregelen bir natuur koruma çabasını yansıtır. Bu milli park, aynı zamanda yerel halk için önemli bir gelir kaynağıdır.
+Bayır Çınarı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli park alanıdır. Doğal güzellikleri ve zengin ekosistemiyle ziyaretçilerini cezbeden Bayır Çınarı, aynı zamanda bölgenin önemli bir turizm merkezidir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir experiencia sunar. Bayır Çınarı'nın tarihi geçmişi, yüzyıllar boyunca süregelen bir natuur koruma çabasını yansıtır. Bu milli park, aynı zamanda yerel halk için önemli bir gelir kaynağıdır.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Bayır Çınarı'nın tarihi geçmişi, yüzyıllar boyunca süregelen bir doğa
 
 ## Coğrafya
 
-Bayır Çınarı, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Bu milli park, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölgenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin faunanın barınmasına elverişlidir. Bayır Çınarı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Milli parkın çevresi, doğal güzellikleriyle ziyaretçileri etkileyen bir manzaraya sahiptir. Burada, ziyaretçiler, doğanın içinde huzur bulabilir ve příroda ile baş başa olabilirler.
+Bayır Çınarı, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alır. Bölgenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin faunanın barınmasına elverişlidir. Bayır Çınarı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Milli parkın çevresi, doğal güzellikleriyle ziyaretçileri etkileyen bir manzaraya sahiptir. Burada, ziyaretçiler, doğanın içinde huzur bulabilir ve příroda ile baş başa olabilirler.
 
 ## Flora ve Fauna
 

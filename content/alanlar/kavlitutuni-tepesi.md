@@ -28,7 +28,7 @@ wikidata_id: "Q34878361"
 
 # Kavlitütüni Tepesi
 
-Kavlitütüni Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak karşımıza çıkıyor. Batman ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir görüş açısı sunuyor. Kavlitütüni Tepesi'nin eteklerinde yer alan köylerin tarihi geçmişi, bu bölgeyi sadece doğal güzelliği ile değil, aynı zamanda kültürel zenginliğiyle de önemli kılıyor. Tepenin zirvesine çıktığınızda, sizi bekleyen manzara, tüm yorgunluğunuzu unutturacak cinsten. Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Kavlitütüni Tepesi, doğa severlerin ve macera arayanların mutlaka ziyaret etmesi gereken bir destinasyon.
+Kavlitütüni Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak karşımıza çıkıyor. Batman ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Kavlitütüni Tepesi'nin eteklerinde yer alan köylerin tarihi geçmişi, bu bölgeyi sadece doğal güzelliği ile değil, aynı zamanda kültürel zenginliğiyle de önemli kılıyor. Tepenin zirvesine çıktığınızda, sizi bekleyen manzara, tüm yorgunluğunuzu unutturacak cinsten. Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Kavlitütüni Tepesi, doğa severlerin ve macera arayanların mutlaka ziyaret etmesi gereken bir destinasyon.
 
 ## Tarihçe
 

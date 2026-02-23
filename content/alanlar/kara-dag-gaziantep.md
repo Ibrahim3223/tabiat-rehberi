@@ -33,11 +33,11 @@ Gaziantep'in tarihi ve kültürel zenginliklerinin yanı sıra, coğrafi olarak 
 
 ## Tarihçe
 
-Gaziantep, tarihin sâu izlerini taşıyan bir bölgedir. İnsanlık tarihinin önemli uygarlıkları, bu topraklarda yaşamış ve izler bırakmıştır. Hititler, Roma İmparatorluğu ve Osmanlı Devleti gibi büyük devletler, Gaziantep bölgesini önemli bir merkez olarak görmüşlerdir. 
+Gaziantep, tarihin derin izlerini taşıyan bir bölgedir. İnsanlık tarihinin önemli uygarlıkları, bu topraklarda yaşamış ve izler bırakmıştır. Hititler, Roma İmparatorluğu ve Osmanlı Devleti gibi büyük devletler, Gaziantep bölgesini önemli bir merkez olarak görmüşlerdir.
 
-Kara Dağ, bu tarihsel zenginliğin bir parçasıdır. Türkiye'de doğal alanlar, tarihin her döneminde önemli bir role sahip olmuştur. İnsanlar, bu alanları yaylacılık, hayvancılık ve avcılık için kullanmışlardır. Ayrıca, ticaret yolları ve askeri geçitler, bu doğal alanlardan geçmiştir. 
+Kara Dağ, bu tarihsel zenginliğin bir parçasıdır. Türkiye'de doğal alanlar, tarihin her döneminde önemli bir role sahip olmuştur. İnsanlar, bu alanları yaylacılık, hayvancılık ve avcılık için kullanmışlardır. Ayrıca, ticaret yolları ve askeri geçitler, bu doğal alanlardan geçmiştir.
 
-Gaziantep bölgesinde de, benzer bir durum gözlemlenir. İnsanların Kara Dağ ile ilişkisi, yüzyıllar boyunca devam etmiştir. Bu doğal alan, bölgenin ekonomisi ve kültürü için önemli bir kaynak olmuştur. Kara Dağ, Türkiye'nin doğal zenginliğinin bir parçası olarak, tarihin sâu izlerini taşıyan bir bölge olarak dikkat çeker.
+Gaziantep bölgesinde de, benzer bir durum gözlemlenir. İnsanların Kara Dağ ile ilişkisi, yüzyıllar boyunca devam etmiştir. Bu doğal alan, bölgenin ekonomisi ve kültürü için önemli bir kaynak olmuştur. Kara Dağ, Türkiye'nin doğal zenginliğinin bir parçası olarak, tarihin derin izlerini taşıyan bir bölge olarak dikkat çeker.
 
 ## Coğrafya
 

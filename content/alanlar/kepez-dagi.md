@@ -33,7 +33,7 @@ Muğla'nın büyüleyici coğrafyasında yer alan Kepez Dağı, bölgenin doğal
 
 ## Tarihçe
 
-Muğla bölgesi, tarihin sâu sayfalarına kadar uzanan bir geçmişe sahip. Bu bölge, antik çağlardan beri çeşitli uygarlıkların yaşadığı bir coğrafya olmuş; Likya, Karya ve Roma uygarlıkları burada izlerini bırakmışlar. Kepez Dağı da, bu tarihsel coğrafyanın bir parçası olarak, yüzyıllar boyunca insanların yaşam alanlarını, ticaret yollarını ve doğal kaynaklarını barındırmış.
+Muğla bölgesi, tarihin derin sayfalarına kadar uzanan bir geçmişe sahip. Bu bölge, antik çağlardan beri çeşitli uygarlıkların yaşadığı bir coğrafya olmuş; Likya, Karya ve Roma uygarlıkları burada izlerini bırakmışlar. Kepez Dağı da, bu tarihsel coğrafyanın bir parçası olarak, yüzyıllar boyunca insanların yaşam alanlarını, ticaret yollarını ve doğal kaynaklarını barındırmış.
 
 Türkiye'de doğal alanlar, tarihin her döneminde insan yaşamı için kritik öneme sahip olmuşlar. Bu alanlar, sadece ekolojik dengenin korunması açısından değil, aynı zamanda insanların geçim kaynakları, yaylacılık ve hayvancılık faaliyetleri için de önemli olmuşlar. İnsanların bu doğal alanlarla kurdukları ilişki, bölgenin kültürel ve ekonomik yapısını şekillendirmiş.
 

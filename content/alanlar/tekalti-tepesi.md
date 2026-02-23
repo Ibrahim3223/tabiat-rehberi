@@ -28,7 +28,7 @@ wikidata_id: "Q31387886"
 
 # Tekaltı Tepesi
 
-Tekaltı Tepesi, Iğdır ilinin sınırları içerisinde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Iğdır ilinin coğrafi yapısı ve doğal güzellikleri dikkate alındığında, Tekaltı Tepesi önemli bir noktayı temsil eder. Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu tepe, aynı zamanda bölgenin tarihçesi ve kültürel yapısına da ışık tutabilir.
+Tekaltı Tepesi, Iğdır ilinin sınırları içerisinde yer alan bir tepe olarak bilinir. Iğdır ilinin coğrafi yapısı ve doğal güzellikleri dikkate alındığında, Tekaltı Tepesi önemli bir noktayı temsil eder. Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu tepe, aynı zamanda bölgenin tarihçesi ve kültürel yapısına da ışık tutabilir.
 
 ## Tarihçe
 

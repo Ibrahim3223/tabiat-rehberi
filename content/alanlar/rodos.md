@@ -34,7 +34,7 @@ Güney Ege'nin en çok ziyaret edilen noktalarından biri olan Rodos, Türkiye'n
 
 ## Tarihçe
 
-Güney Ege bölgesi, tarihin sâu sayfalarına ışık tutan bir coğrafyadır. Rhodos adası da bu bölgenin önemli bir parçasını oluşturur. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisinde kalmıştır. Antik Çağ'da Dorlar, İyonlar ve Romalılar, daha sonra da Bizans ve Osmanlı gibi medeniyetler bu coğrafyayı şekillendirmişlerdir.
+Güney Ege bölgesi, tarihin derin sayfalarına ışık tutan bir coğrafyadır. Rhodos adası da bu bölgenin önemli bir parçasını oluşturur. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisinde kalmıştır. Antik Çağ'da Dorlar, İyonlar ve Romalılar, daha sonra da Bizans ve Osmanlı gibi medeniyetler bu coğrafyayı şekillendirmişlerdir.
 
 Doğal güzellikleri ve stratejik konumuyla, Rhodos adası ve çevresindeki topraklar, insan yerleşimlerinin ve ticaret yollarının önemli bir merkezi olmuştur. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geleneksel uğraşlarından biri olarak karşımıza çıkar. Ayrıca, bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer almasını sağlamıştır.
 
@@ -54,7 +54,7 @@ Rodos, çevresel açıdan da oldukça önemli bir konumda bulunuyor. Ada, Ege De
 
 Rodos Adası, Güney Ege'de bir doğa harikası olarak karşımıza çıkıyor. 1200 hektarlık bu yeşil cennet, step bitki örtüsü ve bozkırın hakim olduğu bir bölge. İlkbaharda, çiçeklerin renkli bir şöleni  oluyor; sarı, mavi, kırmızı ve beyazın tonları ada yüzünü süslüyor. Sonbaharda ise göç eden deniz kuşları, adayı konaklama noktalarına çeviriyor.
 
-Ada ekosisteminde, izole popülasyonlar ve deniz kuşları önemli bir rol oynuyor. Kıyı bitkileri, tuzlu suyun etkilerine adapte olmuş türler. Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin. Bu canlılar, yaşam alanlarıyla birlikte, adanın ekolojik dengesini koruyor. Ada, aynı zamanda önemli bir ekolojik değer taşıyor; deniz kuşlarının göç yolları üzerinde yer alıyor ve bu nedenle koruma altına alınması necessário.
+Ada ekosisteminde, izole popülasyonlar ve deniz kuşları önemli bir rol oynuyor. Kıyı bitkileri, tuzlu suyun etkilerine adapte olmuş türler. Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin. Bu canlılar, yaşam alanlarıyla birlikte, adanın ekolojik dengesini koruyor. Ada, aynı zamanda önemli bir ekolojik değer taşıyor; deniz kuşlarının göç yolları üzerinde yer alıyor ve bu nedenle koruma altına alınması gerekli.
 
 ## Ziyaret Bilgileri
 

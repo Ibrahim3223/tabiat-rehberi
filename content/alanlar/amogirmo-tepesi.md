@@ -28,7 +28,7 @@ wikidata_id: "Q31542236"
 
 # Amogirmo Tepesi
 
-Amogirmo Tepesi, Diyarbakır'ın eşsiz coğrafi güzelliklerinden biri olarak dikkat çekmektedir. Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından birini oluşturur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir alanı kaplar. Bölgenin coğrafi yapısını şekillendiren bu tepe, aynı zamanda doğal güzellikleri ile de ziyaretçilerini etkilemektedir. Diyarbakır'ın tarihi ve kültürel zenginliklerinin yanı sıra, Amogirmo Tepesi de bölgenin önemli bir parçasını oluşturmaktadır.
+Amogirmo Tepesi, Diyarbakır'ın eşsiz coğrafi güzelliklerinden biri olarak dikkat çekmektedir. Bu tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından birini oluşturur. Bölgenin coğrafi yapısını şekillendiren bu tepe, aynı zamanda doğal güzellikleri ile de ziyaretçilerini etkilemektedir. Diyarbakır'ın tarihi ve kültürel zenginliklerinin yanı sıra, Amogirmo Tepesi de bölgenin önemli bir parçasını oluşturmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Amogirmo Tepesi'nin tarihi geçmişi, bölgenin genel tarihini yansıtmaktadır.
 
 ## Coğrafya
 
-Amogirmo Tepesi, coğrafi olarak Diyarbakır ilinin önemli bir noktasını oluşturur. Güneydoğu Anadolu Bölgesi'nin genel coğrafi yapısını yansıtan bu tepe, bölgenin yüksekli ve eğim özellikleri ile dikkat çekmektedir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde geniş bir alanı kaplar. Bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzerlik gösterir. Yaz aylarında sıcaklık yüksektir, kış aylarında ise soğuk havaconditions hakimdir. Amogirmo Tepesi, etrafındaki coğrafi oluşumlar ile birlikte, bölgenin doğal güzelliklerini oluşturmaktadır. Tepenin coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da etkilemektedir. Çeşitli bitki türleri ve hayvanlar, bu coğrafi oluşumun bir parçası olarak yer almaktadırlar.
+Amogirmo Tepesi, coğrafi olarak Diyarbakır ilinin önemli bir noktasını oluşturur. Güneydoğu Anadolu Bölgesi'nin genel coğrafi yapısını yansıtan bu tepe, bölgenin yüksekli ve eğim özellikleri ile dikkat çekmektedir. Bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzerlik gösterir. Yaz aylarında sıcaklık yüksektir, kış aylarında ise soğuk havaconditions hakimdir. Amogirmo Tepesi, etrafındaki coğrafi oluşumlar ile birlikte, bölgenin doğal güzelliklerini oluşturmaktadır. Tepenin coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da etkilemektedir. Çeşitli bitki türleri ve hayvanlar, bu coğrafi oluşumun bir parçası olarak yer almaktadırlar.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31390619"
 
 # Kapapur Tepesi
 
-Kapapur Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilere geniş bir yeşil alan sunmaktadır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bitkiler, mevsimsel değişimlere göre ren ve çeşitlilik kazanırlar. Kapapur Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülemektedir.
+Kapapur Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bitkiler, mevsimsel değişimlere göre ren ve çeşitlilik kazanırlar. Kapapur Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 

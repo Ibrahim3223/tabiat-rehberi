@@ -32,7 +32,7 @@ Nevşehir'in büyüleyici coğrafyasında yer alan Avla Dağı, Türkiye'nin tar
 
 ## Tarihçe
 
-Nevşehir bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Hitit, Roma ve Bizans uygarlıkları gibi pek çok medeniyet bu topraklarda yaşamıştır. Avla Dağı, bu zengin tarihsel mirasın bir parçasını oluşturan doğal güzelliklerden biridir. Türkiye'de, özellikle İç Anadolu Bölgesi'nde bulunan dağlar ve doğal alanlar, tarih boyunca insanların yaşamını ve kültürünü şekillendiren önemli faktörler olmuştur.
+Nevşehir bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Hitit, Roma ve Bizans uygarlıkları gibi pek çok medeniyet bu topraklarda yaşamıştır. Avla Dağı, bu zengin tarihsel mirasın bir parçasını oluşturan doğal güzelliklerden biridir. Türkiye'de, özellikle İç Anadolu Bölgesi'nde bulunan dağlar ve doğal alanlar, tarih boyunca insanların yaşamını ve kültürünü şekillendiren önemli faktörler olmuştur.
 
 Bu tür doğal alanlar, yaylacılık ve hayvancılık için elverişli ortamlar sunmuştur. Ayrıca, ticaret yolları ve göçlerin geçiş noktaları olarak da önemli roller oynamışlardır. İnsanların bu alanlarla ilişkisi, yalnızca ekonomi ve ticari değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Avla Dağı, Nevşehir bölgesinin bu zengin tarihsel ve kültürel dokusunun bir parçası olarak, ziyaretçilerini geçmişin gizemli sayfalarına davet etmektedir.
 
@@ -64,5 +64,5 @@ Avla Dağı, Nevşehir'in güzide noktalarından biri. Sabah erken gitmenizi ön
 - Nevşehir ilinin Gülağaç ilçesi sınırları içerisinde bulunmaktadır.
 - Dağın yüksekliği hakkında kesin bir veri bulunmamaktadır.
 - Kapadokya'nın jeolojik oluşumu M.Ö. 60 milyon yıl öncesine dayanmaktadır.
-- Avla Dağı ve çevresinde histórik settlements ve kiliseler bulunmaktadır.
+- Avla Dağı ve çevresinde tarihi settlements ve kiliseler bulunmaktadır.
 - Kapadokya 1985 yılında UNESCO Dünya Mirası Listesi'ne girmiştir.

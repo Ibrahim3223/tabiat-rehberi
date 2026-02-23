@@ -1,7 +1,7 @@
 ---
 title: "Çinili Hamamı"
 date: "2026-01-09T22:58:02.556Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738607"
 
 # Çinili Hamamı
 
-Çinili Hamamı, Üsküdar'ın en güzel plajlarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu bölge, hem yerli hem de yabancı turistlerin ilgi odağı olan bir noktadır. Deniz suyu ve kumsalın güzelliği, ziyaretçilere unutulmaz anlar yaşatır. Çinili Hamamı, doğa severler ve deniz aşığı olanlar için bir cennet olarak tanımlanabilir.
+Çinili Hamamı, Üsküdar'ın en güzel plajlarından biri olarak bilinir. Bu bölge, hem yerli hem de yabancı turistlerin ilgi odağı olan bir noktadır. Deniz suyu ve kumsalın güzelliği, ziyaretçilere unutulmaz anlar yaşatır. Çinili Hamamı, doğa severler ve deniz aşığı olanlar için bir cennet olarak tanımlanabilir.
 
 ## Tarihçe
 

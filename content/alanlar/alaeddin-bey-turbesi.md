@@ -1,7 +1,7 @@
 ---
 title: "Alaeddin Bey Türbesi"
 date: "2026-01-10T05:54:21.892Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -30,7 +30,7 @@ wikidata_id: "Q121074395"
 
 # Alaeddin Bey Türbesi
 
-Alaeddin Bey Türbesi, Karaman'ın merkezinde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini karşılayan bir mekan. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak. Türbenin etrafında yürüyüş yapmak, doğayı seyretme ve tarihle iç içe olma mümkün. 13. yüzyılda inşa edilen bu tarihi mekan, Karaman'ın geçmişini yansıtan önemli bir yapı.
+Alaeddin Bey Türbesi, Karaman'ın merkezinde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini karşılayan bir mekan. Türbenin etrafında yürüyüş yapmak, doğayı seyretme ve tarihle iç içe olma mümkün. 13. yüzyılda inşa edilen bu tarihi mekan, Karaman'ın geçmişini yansıtan önemli bir yapı.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Alaeddin Bey Türbesi, Karaman'ın tarihsel geçmişinin önemli bir parçası. 
 
 ## Coğrafya
 
-Alaeddin Bey Türbesi, Karaman'ın merkezinde yer alan bir yeşil alan içinde bulunuyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve şehrin en büyük yeşil alanlarından biri. Türbenin etrafında, çeşitli ağaçlar ve bitkiler bulunmakta ve ziyaretçilerin doğayı seyretmeleri mümkün. Mekan, Karaman'ın coğrafi yapısını yansıtan bir şekilde, şehrin merkezinde yer alıyor. İç Anadolu Bölgesi'nde yer alan Karaman, genellikle kuru ve step iklimine sahip. Ancak, bu türbenin bulunduğu yeşil alan, şehrin iklimini olumlu yönde etkileyen bir faktör. Türbenin coğrafi konumu, Karaman'ın tarihini ve kültürünü anlamak için önemli bir ipucu sunuyor.
+Alaeddin Bey Türbesi, Karaman'ın merkezinde yer alan bir yeşil alan içinde bulunuyor. Türbenin etrafında, çeşitli ağaçlar ve bitkiler bulunmakta ve ziyaretçilerin doğayı seyretmeleri mümkün. Mekan, Karaman'ın coğrafi yapısını yansıtan bir şekilde, şehrin merkezinde yer alıyor. İç Anadolu Bölgesi'nde yer alan Karaman, genellikle kuru ve step iklimine sahip. Ancak, bu türbenin bulunduğu yeşil alan, şehrin iklimini olumlu yönde etkileyen bir faktör. Türbenin coğrafi konumu, Karaman'ın tarihini ve kültürünü anlamak için önemli bir ipucu sunuyor.
 
 ## Flora ve Fauna
 

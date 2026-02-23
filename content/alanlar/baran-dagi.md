@@ -29,7 +29,7 @@ wikidata_id: "Q31386022"
 
 # Baran Dağı
 
-Kırşehir'in doğal güzelliklerinden biri olan Baran Dağı, 1400 metrelik yüksekliğiyle bölgenin önemli noktalarından biri. Bu dağ, yaklaşık 140 hektarlık bir alanı kaplıyor, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Baran Dağı, ziyaretçilerini doğal güzelliği ve zengin flora ve fauna çeşitliliğiyle karşılıyor. Dağın eteklerinde çeşitli bitki türleri bulunuyor ve bu bölgede yaban hayatı da oldukça zengin.
+Kırşehir'in doğal güzelliklerinden biri olan Baran Dağı, 1400 metrelik yüksekliğiyle bölgenin önemli noktalarından biri. Baran Dağı, ziyaretçilerini doğal güzelliği ve zengin flora ve fauna çeşitliliğiyle karşılıyor. Dağın eteklerinde çeşitli bitki türleri bulunuyor ve bu bölgede yaban hayatı da oldukça zengin.
 
 ## Tarihçe
 

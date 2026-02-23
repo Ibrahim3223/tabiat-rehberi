@@ -50,7 +50,7 @@ Doğal güzelliği ve coğrafi konumuyla dikkat çeken Karayelek Dağı, Akdeniz
 
 ## Flora ve Fauna
 
-Karayelek Dağı, Mersin'in güneşli kıyı şeridinin hemen arkasında yükselen bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 
+Karayelek Dağı, Mersin'in güneşli kıyı şeridinin hemen arkasında yükselen bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar.
 
 Bitki Örtüsü olarak, bu dağda hakim olan maki bitki örtüsü, kuraklığa dayanıklı türlerin çeşitliliğini sunar. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanır. Kış aylarında ise, yeşilin tonlarına bürünen dağ, sonbaharda ise göç eden kuşların konakladığı bir durak olur.
 

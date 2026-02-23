@@ -22,7 +22,7 @@ wikidata_id: "Q108227997"
 
 # Elazig-Mardin-Mardin Fidanligi Toros Sediri
 
-Elazig-Mardin-Mardin Fidanligi Toros Sediri milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Burada, doğanın seslerini dinleyerek stresinizi atabilir ve doğanın güzelliğini keşfedebilirsiniz.
+Elazig-Mardin-Mardin Fidanligi Toros Sediri milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın içinde yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Burada, doğanın seslerini dinleyerek stresinizi atabilir ve doğanın güzelliğini keşfedebilirsiniz.
 
 ## Tarihçe
 

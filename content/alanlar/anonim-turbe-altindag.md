@@ -1,7 +1,7 @@
 ---
 title: "Anonim Türbe, Altındağ"
 date: "2026-01-10T07:52:05.966Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582364"
 
 # Anonim Türbe, Altındağ
 
-Ankara'nın kalbinde, Altındağ ilçesinde bulunan Anonim Türbe, şehrin tarihi ve kültürel mirasını keşfetmek isteyenler için önemli bir destinasyondur. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilerini tarihi ve doğal güzelliklerle dolu bir yolculuğa davet ediyor. Bu özel mekan, Ankara'nın zengin tarihini ve kültürel çeşitliliğini yansıtan önemli bir noktadır. Anonim Türbe, ziyaretçilerine şehrin geçmişini ve günümüzdeki önemini anlamak için eşsiz bir fırsat sunar.
+Ankara'nın kalbinde, Altındağ ilçesinde bulunan Anonim Türbe, şehrin tarihi ve kültürel mirasını keşfetmek isteyenler için önemli bir destinasyondur. Bu özel mekan, Ankara'nın zengin tarihini ve kültürel çeşitliliğini yansıtan önemli bir noktadır. Anonim Türbe, ziyaretçilerine şehrin geçmişini ve günümüzdeki önemini anlamak için eşsiz bir fırsat sunar.
 
 ## Tarihçe
 

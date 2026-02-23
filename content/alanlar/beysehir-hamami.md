@@ -1,7 +1,7 @@
 ---
 title: "Beyşehir Hamamı"
 date: "2026-01-09T22:33:26.618Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738752"
 
 # Beyşehir Hamamı
 
-Beyşehir Hamamı, Konya'nın Beyşehir ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan doğal bir güzellik. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri. Beyşehir Hamamı, suyun ve doğanın bir arada olduğu bir mekan ve burada ziyaretçiler, doğanın güzelliğini ve sakinliğini deneyimleyebilir. Bu doğal güzellik, özellikle sıcak yaz günlerinde serinleme ve doğayı keşfetmek isteyenler için ideal bir destinasyon.
+Beyşehir Hamamı, Konya'nın Beyşehir ilçesinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan doğal bir güzellik. Beyşehir Hamamı, suyun ve doğanın bir arada olduğu bir mekan ve burada ziyaretçiler, doğanın güzelliğini ve sakinliğini deneyimleyebilir. Bu doğal güzellik, özellikle sıcak yaz günlerinde serinleme ve doğayı keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

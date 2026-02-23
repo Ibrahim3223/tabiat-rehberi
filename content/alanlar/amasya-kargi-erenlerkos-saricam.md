@@ -22,7 +22,7 @@ wikidata_id: "Q108227543"
 
 # Amasya-Kargi-Erenlerkos Saricam
 
-Amasya ilinin merkezine uzun bir mesafe uzaklıkta bulunan Amasya-Kargi-Erenlerkos Saricam milli parkı, 140 hektarlık geniş bir yeşil alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle çekiyor. Milli parka ulaşım oldukça kolaydır ve ziyaretçilerin keyifli bir gün geçirmesini sağlar. Doğal güzellikleri, tarihi geçmişi ve geniş yeşil alanıyla Amasya-Kargi-Erenlerkos Saricam milli parkı, ziyaretçilerine unutulmaz bir deneyim sunar.
+Amasya ilinin merkezine uzun bir mesafe uzaklıkta bulunan Amasya-Kargi-Erenlerkos Saricam milli parkı, 140 hektarlık geniş bir yeşil alana sahiptir. Milli parka ulaşım oldukça kolaydır ve ziyaretçilerin keyifli bir gün geçirmesini sağlar.
 
 ## Tarihçe
 

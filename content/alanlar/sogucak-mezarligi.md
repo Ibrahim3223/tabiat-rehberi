@@ -29,7 +29,7 @@ wikidata_id: "Q131391542"
 
 # Soğucak Mezarlığı
 
-Soğucak Mezarlığı, Aydın'ın Kuşadası ilçesinde yer alan bir plaj ve mezarlık alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel doğal güzelliklerinden biridir. Bu alanda çeşitli bitki türleri ve zengin fauna bulunmakta olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Soğucak Mezarlığı, hem tarihi hem de doğal güzelliği ile dikkat çekici bir yerdir.
+Soğucak Mezarlığı, Aydın'ın Kuşadası ilçesinde yer alan bir plaj ve mezarlık alanıdır. Bu alanda çeşitli bitki türleri ve zengin fauna bulunmakta olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Soğucak Mezarlığı, hem tarihi hem de doğal güzelliği ile dikkat çekici bir yerdir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Soğucak Mezarlığı'nın tarihi geçmişi zengin ve çeşitli kültürleri bar
 
 ## Coğrafya
 
-Soğucak Mezarlığı, Ege Bölgesi'nin en güzel doğal güzelliklerinden biridir. Bu alan, 140 hektarlık bir yeşil alan üzerine kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Plajın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine sahiptir. Soğucak Mezarlığı, Kuşadası'nın merkezi bölgesine yakın bir konumda yer almakta ve ulaşımı kolaydır. Bu mezarlık ve plaj, ziyaretçilerine hem doğal güzelliği hem de tarihi önemiyle dikkat çekici bir yer sunmaktadır.
+Soğucak Mezarlığı, Ege Bölgesi'nin en güzel doğal güzelliklerinden biridir. Plajın etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine sahiptir. Soğucak Mezarlığı, Kuşadası'nın merkezi bölgesine yakın bir konumda yer almakta ve ulaşımı kolaydır. Bu mezarlık ve plaj, ziyaretçilerine hem doğal güzelliği hem de tarihi önemiyle dikkat çekici bir yer sunmaktadır.
 
 ## Flora ve Fauna
 

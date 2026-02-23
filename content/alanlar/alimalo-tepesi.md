@@ -28,7 +28,7 @@ wikidata_id: "Q31555154"
 
 # Alimalo Tepesi
 
-Alimalo Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak bilinir. Batman şehrinde yer alan bu tepe, hem tarihi hem de doğal güzellikleriyle dikkat çekmektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğayla baş başa bırakır. Tarihi geçmişiyle de önemli olan Alimalo Tepesi, farklı zaman dilimlerinde çeşitli uygarlıklara ev sahipliği yapmış ve bu reasonla zengin bir kültürel mirasa sahiptir.
+Alimalo Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak bilinir. Batman şehrinde yer alan bu tepe, hem tarihi hem de doğal güzellikleriyle dikkat çekmektedir. Tarihi geçmişiyle de önemli olan Alimalo Tepesi, farklı zaman dilimlerinde çeşitli uygarlıklara ev sahipliği yapmış ve bu reasonla zengin bir kültürel mirasa sahiptir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Alimalo Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik �
 
 ## Flora ve Fauna
 
-Alimalo Tepesi ve çevresinin flora ve faunası, coğrafi ve iklimsel koşulların bir sonucu olarak zengin ve çeşitli bir yapıya sahiptir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri yetişir. Mevsimsel değişimlere bağlı olarak, bu bitkilerin bazıları yılın belirli dönemlerinde daha çok görülür. Hayvanlar açısından da, Alimalo Tepesi ve çevresi, çeşitli türlerin yaşam alanıdır. Bu bölgede, özellikle kuş türleri dikkat çekmektedir. Ayrıca, küçük ve büyük baş hayvanlar da bu bölgede yaşar. Alimalo Tepesi'nin flora ve faunası, bu bölgenin ekolojik dengesini korumak açısından önemlidir.
+Alimalo Tepesi ve çevresinin flora ve faunası, coğrafi ve iklimsel koşulların bir sonucu olarak zengin ve çeşitli bir yapıya sahiptir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri yetişir. Mevsimsel değişimlere bağlı olarak, bu bitkilerin bazıları yılın belirli dönemlerinde daha çok görülür. Hayvanlar açısından da, Alimalo Tepesi ve çevresi, çeşitli türlerin yaşam alanıdır. Bu bölgede, özellikle kuş türleri dikkat çekmektedir. Ayrıca, küçük ve büyük baş hayvanlar da bu bölgede yaşar.
 
 ## Ziyaret Bilgileri
 

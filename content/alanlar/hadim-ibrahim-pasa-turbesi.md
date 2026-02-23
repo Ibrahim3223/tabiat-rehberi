@@ -1,7 +1,7 @@
 ---
 title: "Hadım İbrahim Paşa Türbesi"
 date: "2026-01-10T07:35:48.416Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391294"
 
 # Hadım İbrahim Paşa Türbesi
 
-Hadım İbrahim Paşa Türbesi, İstanbul'un tarihi mekanlarından biri olarak Marmara Bölgesi'nde yer alır. Bu mekan, Osmanlı Dönemi'nden kalma önemli bir tarihi eserdir. Hadım İbrahim Paşa, Osmanlı İmparatorluğu'nun önemli isimlerinden biridir ve türbesi de bu önemini yansıtan bir yapıdır. Türbe, İstanbul'un kalbinde, Fatih ilçesinde bulunur ve tarihi dokusuyla dikkat çeker. 16. yüzyılda inşa edilen bu türbe, o dönemin mimari özellikleri taşıyor. Hadım İbrahim Paşa Türbesi, yaklaşık 140 hektarlık bir alanda yer alır, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferde dolaşma hem de geniş bir yeşil alanın keyfini çıkarma imkanı sunar.
+Hadım İbrahim Paşa Türbesi, İstanbul'un tarihi mekanlarından biri olarak Marmara Bölgesi'nde yer alır. Bu mekan, Osmanlı Dönemi'nden kalma önemli bir tarihi eserdir. Hadım İbrahim Paşa, Osmanlı İmparatorluğu'nun önemli isimlerinden biridir ve türbesi de bu önemini yansıtan bir yapıdır. Türbe, İstanbul'un kalbinde, Fatih ilçesinde bulunur ve tarihi dokusuyla dikkat çeker. 16. yüzyılda inşa edilen bu türbe, o dönemin mimari özellikleri taşıyor. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferde dolaşma hem de geniş bir yeşil alanın keyfini çıkarma imkanı sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hadım İbrahim Paşa Türbesi'nin tarihi, 16. yüzyıla kadar uzanır. Hadım �
 
 ## Coğrafya
 
-Hadım İbrahim Paşa Türbesi, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunur. Bu bölge, históri ve kültürel açıdan zengin bir alandır. Türbe, yaklaşık 140 hektarlık bir alanda yer alır, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferde dolaşma hem de geniş bir yeşil alanın keyfini çıkarma imkanı sunar. İstanbul'un coğrafi konumunun avantajını kullanarak, Hadım İbrahim Paşa Türbesi'ni ziyaret edenler, aynı zamanda şehrin diğer önemli tarihi mekanlarına da fácil bir şekilde ulaşabilirler. Fatih ilçesi, İstanbul'un en eski ve tarihi ilçelerinden biridir. Burada bulunan Hadım İbrahim Paşa Türbesi, bu ilçenin tarihi değerini daha da artıran bir yapıdır. İstanbul'un iklimi, karasal iklim ve Akdeniz iklimi arasında bir geçiş iklimidir. Bu nedenle, Hadım İbrahim Paşa Türbesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, ziyaretçiler, türbenin çevresindeki yeşil alanların güzelliğini de keyifle izleyebilirler.
+Hadım İbrahim Paşa Türbesi, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunur. Bu bölge, tarihi ve kültürel açıdan zengin bir alandır. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferde dolaşma hem de geniş bir yeşil alanın keyfini çıkarma imkanı sunar. İstanbul'un coğrafi konumunun avantajını kullanarak, Hadım İbrahim Paşa Türbesi'ni ziyaret edenler, aynı zamanda şehrin diğer önemli tarihi mekanlarına da kolay bir şekilde ulaşabilirler. Fatih ilçesi, İstanbul'un en eski ve tarihi ilçelerinden biridir. Burada bulunan Hadım İbrahim Paşa Türbesi, bu ilçenin tarihi değerini daha da artıran bir yapıdır. İstanbul'un iklimi, karasal iklim ve Akdeniz iklimi arasında bir geçiş iklimidir. Bu nedenle, Hadım İbrahim Paşa Türbesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar aylarıdır. Bu aylarda, ziyaretçiler, türbenin çevresindeki yeşil alanların güzelliğini de keyifle izleyebilirler.
 
 ## Flora ve Fauna
 

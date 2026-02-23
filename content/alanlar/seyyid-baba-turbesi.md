@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Baba Türbesi"
 date: "2026-01-10T06:35:31.446Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q134735080"
 
 # Seyyid Baba Türbesi
 
-Seyyid Baba Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini bir araya getiren özel bir yer. Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bu türbe, ziyaretçilerini tarihi ve doğal güzelliklerle buluşturuyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunuyor. Seyyid Baba Türbesi, İstanbul'un önemli dini ve tarihi mekanlarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından ilgi görür.
+Seyyid Baba Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini bir araya getiren özel bir yer. Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bu türbe, ziyaretçilerini tarihi ve doğal güzelliklerle buluşturuyor. Seyyid Baba Türbesi, İstanbul'un önemli dini ve tarihi mekanlarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından ilgi görür.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Seyyid Baba Türbesi, tarihi geçmişi ile dikkat çeker. İstanbul'un fethi sı
 
 ## Coğrafya
 
-Seyyid Baba Türbesi, Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. İstanbul'un merkezi bir bölgesinde bulunan türbe, ziyaretçilere kolay ulaşım imkanı sunar. Türbenin çevresinde, çeşitli tarihi ve dini yapılar bulunur ve bu yapılar, ziyaretçilere İstanbul'un zengin históri ve kültürel mirasını tanıtmak için önemli bir fırsat sunar. İstanbul'un iklimi, karasal ve denizel iklimlerin birleşmesiyle oluşur ve bu iklim, Seyyid Baba Türbesi'nin bulunduğu bölgede de hissedilir. İlkbahar ve sonbahar mevsimlerinde, türbe ve çevresi, yeşilin çeşitli tonlarına bürünür ve bu manzara, ziyaretçilere doğanın güzelliğini gösterir. Kış mevsiminde, hafif yağmurlar ve serin bir hava, türbenin atmosferini daha da güzelleştirir. Seyyid Baba Türbesi, İstanbul'un coğrafi ve histórik zenginliklerini bir araya getiren özel bir yerdir.
+Seyyid Baba Türbesi, Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. İstanbul'un merkezi bir bölgesinde bulunan türbe, ziyaretçilere kolay ulaşım imkanı sunar. Türbenin çevresinde, çeşitli tarihi ve dini yapılar bulunur ve bu yapılar, ziyaretçilere İstanbul'un zengin tarihi ve kültürel mirasını tanıtmak için önemli bir fırsat sunar. İstanbul'un iklimi, karasal ve denizel iklimlerin birleşmesiyle oluşur ve bu iklim, Seyyid Baba Türbesi'nin bulunduğu bölgede de hissedilir. İlkbahar ve sonbahar mevsimlerinde, türbe ve çevresi, yeşilin çeşitli tonlarına bürünür ve bu manzara, ziyaretçilere doğanın güzelliğini gösterir. Kış mevsiminde, hafif yağmurlar ve serin bir hava, türbenin atmosferini daha da güzelleştirir. Seyyid Baba Türbesi, İstanbul'un coğrafi ve tarihi zenginliklerini bir araya getiren özel bir yerdir.
 
 ## Flora ve Fauna
 
@@ -46,7 +46,7 @@ Seyyid Baba Türbesi, çeşitli bitki türlerine ev sahipliği yapar. İlkbahar 
 
 ## Ziyaret Bilgileri
 
-Seyyid Baba Türbesi'ni ziyaret etmek, İstanbul'un históri ve kültürel mirasını tanımak için önemli bir fırsat sunar. Türbeye ulaşım, çeşitli toplu taşıma araçları ile kolayca sağlanabilir. Ziyaretçiler, türbenin tarihi ve dini önemini öğrenmek için, rehberli turlara katılabilirler. Seyyid Baba Türbesi, her mevsim ziyaret edilebilir, ancak ilkbahar ve sonbahar mevsimlerinde, türbe ve çevresi daha güzeldir. Ziyaretçiler, türbenin atmosferini daha iyi hissetmek için, sabah veya akşam saatlerinde ziyaret etmeyi tercih edebilirler.
+Seyyid Baba Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel mirasını tanımak için önemli bir fırsat sunar. Türbeye ulaşım, çeşitli toplu taşıma araçları ile kolayca sağlanabilir. Ziyaretçiler, türbenin tarihi ve dini önemini öğrenmek için, rehberli turlara katılabilirler. Seyyid Baba Türbesi, her mevsim ziyaret edilebilir, ancak ilkbahar ve sonbahar mevsimlerinde, türbe ve çevresi daha güzeldir. Ziyaretçiler, türbenin atmosferini daha iyi hissetmek için, sabah veya akşam saatlerinde ziyaret etmeyi tercih edebilirler.
 
 ## İlginç Bilgiler
 

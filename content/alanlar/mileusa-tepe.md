@@ -28,7 +28,7 @@ wikidata_id: "Q31386869"
 
 # Mileusa Tepe
 
-Mileusa Tepe, Şırnak ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde önemli bir konumda bulunan bir tepe. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Mileusa Tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir nokta. Bu tepe, ziyaretçilere geniş bir manzara sunuyor ve bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sağlıyor.
+Mileusa Tepe, Şırnak ilinin sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde önemli bir konumda bulunan bir tepe. Mileusa Tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini yansıtan önemli bir nokta. Bu tepe, ziyaretçilere geniş bir manzara sunuyor ve bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sağlıyor.
 
 ## Tarihçe
 

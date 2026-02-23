@@ -29,7 +29,7 @@ wikidata_id: "Q31387880"
 
 # Karakuz Tepesi
 
-Karakuz Tepesi, Kars ilinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Doğa severler için bir cennet olan Karakuz Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Karakuz Tepesi, Kars ilinin turizm potansiyelini artıran önemli bir nokta.
+Karakuz Tepesi, Kars ilinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Doğa severler için bir cennet olan Karakuz Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Karakuz Tepesi, Kars ilinin turizm potansiyelini artıran önemli bir nokta.
 
 ## Tarihçe
 

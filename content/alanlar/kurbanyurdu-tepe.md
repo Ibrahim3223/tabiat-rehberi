@@ -28,7 +28,7 @@ wikidata_id: "Q31389505"
 
 # Kurbanyurdu Tepe
 
-Gaziantep'in zengin tarihi ve doğal güzelliklerini keşfetmek isteyenler için Kurbanyurdu Tepe önemli bir destinasyon. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana spread. Kurbanyurdu Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Tepenin eteklerinde bulunan tarihi kalıntılar, bu bölgenin geçmişinin derinliklerini keşfetmeye davet ediyor. Doğal güzellikleri ile de ön plana çıkan bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
+Gaziantep'in zengin tarihi ve doğal güzelliklerini keşfetmek isteyenler için Kurbanyurdu Tepe önemli bir destinasyon. Kurbanyurdu Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Tepenin eteklerinde bulunan tarihi kalıntılar, bu bölgenin geçmişinin derinliklerini keşfetmeye davet ediyor. Doğal güzellikleri ile de ön plana çıkan bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
 
 ## Tarihçe
 

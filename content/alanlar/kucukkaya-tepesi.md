@@ -28,7 +28,7 @@ wikidata_id: "Q32211011"
 
 # Küçükkaya Tepesi
 
-Küçükkaya Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir tepe olarak dikkat çeker. 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Tepenin yüksekliği ve konumu, çevreyi panoramik olarak görmeye olanak tanır. Doğal güzellikleri ve tarihi geçmişiyle birlikte, Küçükkaya Tepesi ziyaretçilerini bekliyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunurken, fauna açısından da zengin bir çeşitlilik sunar. Bu tepenin hikayesi, binlerce yıl öncesine dayanan bir geçmişe sahip. İnsanların bu bölgeye gelip yerleşmeleri, tepeye olan ilgiyi artırmış ve burada yaşamış olanların izlerini günümüze taşımıştır.
+Küçükkaya Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir tepe olarak dikkat çeker. Tepenin yüksekliği ve konumu, çevreyi panoramik olarak görmeye olanak tanır. Doğal güzellikleri ve tarihi geçmişiyle birlikte, Küçükkaya Tepesi ziyaretçilerini bekliyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunurken, fauna açısından da zengin bir çeşitlilik sunar. Bu tepenin hikayesi, binlerce yıl öncesine dayanan bir geçmişe sahip. İnsanların bu bölgeye gelip yerleşmeleri, tepeye olan ilgiyi artırmış ve burada yaşamış olanların izlerini günümüze taşımıştır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Küçükkaya Tepesi, tarihi geçmişiyle birlikte anılmaya değer bir yer. Tepe
 
 ## Coğrafya
 
-Küçükkaya Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir tepe olarak dikkat çeker. Bu tepe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Tepenin yüksekliği ve konumu, çevreyi panoramik olarak görmeye olanak tanır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunurken, fauna açısından da zengin bir çeşitlilik sunar. Bu bölgenin coğrafyası, dağlık ve engebeli bir yapıya sahiptir. Tepenin konumu, iklim koşullarını etkiler ve burada yaşayan canlılara uygun bir ortam sağlar. Tepenin etrafında akan akarsular ve dereler, bölgenin su kaynaklarını zenginleştirmekte ve burada yaşayan canlılara yaşam alanı sağlamaktadır. Tepenin coğrafyası, burada yaşayan insanların yaşam koşullarını etkiler ve onların yaşamlarını şekillendirir.
+Küçükkaya Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir tepe olarak dikkat çeker. Tepenin yüksekliği ve konumu, çevreyi panoramik olarak görmeye olanak tanır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunurken, fauna açısından da zengin bir çeşitlilik sunar. Bu bölgenin coğrafyası, dağlık ve engebeli bir yapıya sahiptir. Tepenin konumu, iklim koşullarını etkiler ve burada yaşayan canlılara uygun bir ortam sağlar. Tepenin etrafında akan akarsular ve dereler, bölgenin su kaynaklarını zenginleştirmekte ve burada yaşayan canlılara yaşam alanı sağlamaktadır. Tepenin coğrafyası, burada yaşayan insanların yaşam koşullarını etkiler ve onların yaşamlarını şekillendirir.
 
 ## Flora ve Fauna
 

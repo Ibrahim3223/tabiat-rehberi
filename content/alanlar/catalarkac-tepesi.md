@@ -54,7 +54,7 @@ Catalarkaç Tepesi, Ankara'nın step bitki örtüsüne ev sahipliği yapan dağl
 
 Yaban hayatı açısından zengin olan bu bölge, çeşitli memeliler, kuşlar ve sürüngenlerin yaşam alanıdır. Göç mevsiminde, tepenin üzeriden geçen kuş sürüleri ile karşılaşma mümkün. Bu ekosistemin devamı için, bitki örtüsünün ve yaban hayatının birbirine bağımlı olduğu unutulmamalıdır.
 
-Catalarkaç Tepesi, bölgenin ekolojik dengesini korumak açısından önemli bir alandır. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin su döngüsü ve toprağın verimliliğiçin de hayati önem taşır.
+ Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin su döngüsü ve toprağın verimliliğiçin de hayati önem taşır.
 
 ## Ziyaret Bilgileri
 

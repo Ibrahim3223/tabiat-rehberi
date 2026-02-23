@@ -29,7 +29,7 @@ wikidata_id: "Q108228159"
 
 # Efeoğlu Tabiat Parkı
 
-Efeoğlu Tabiat Parkı, İzmir'in Torbalı ilçesinde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini karşılar. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğal güzellikleri ve zengin florasıyla dikkat çeker. Parkın içerisinde çeşitli bitki türleri ve ağaçlar bulunur. Ziyaretçiler, doğayla iç içe olmanın keyfini çıkarabilirler. Efeoğlu Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
+Efeoğlu Tabiat Parkı, İzmir'in Torbalı ilçesinde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini karşılar. Parkın içerisinde çeşitli bitki türleri ve ağaçlar bulunur. Ziyaretçiler, doğayla iç içe olmanın keyfini çıkarabilirler. Efeoğlu Tabiat Parkı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Efeoğlu Tabiat Parkı'nın tarihi geçmişi, bölgenin oluşumuna kadar uzanır
 
 ## Coğrafya
 
-Efeoğlu Tabiat Parkı, İzmir'in Torbalı ilçesinde, Ege Bölgesi'nin kalbinde yer alır. Park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, çeşitli bitki türleri ve ağaçlarla kaplıdır. Parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Ege Bölgesi'nin karakteristik özellikleri, parkın flora ve faunasını şekillendirmiştir. Parkın iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak, sıcak yazlar ve ılıman kışlar ile karakterizedir. Bu coğrafi özellikler, parkın zengin biyolojik çeşitliliğine katkıda bulunur.
+Efeoğlu Tabiat Parkı, İzmir'in Torbalı ilçesinde, Ege Bölgesi'nin kalbinde yer alır. Bölge, çeşitli bitki türleri ve ağaçlarla kaplıdır. Parkın coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Ege Bölgesi'nin karakteristik özellikleri, parkın flora ve faunasını şekillendirmiştir. Parkın iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak, sıcak yazlar ve ılıman kışlar ile karakterizedir. Bu coğrafi özellikler, parkın zengin biyolojik çeşitliliğine katkıda bulunur.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Efeoğlu Tabiat Parkı, ziyaretçilerine keyifli bir deneyim sunar. Parka ulaş�
 ## İlginç Bilgiler
 
 - Efeoğlu Tabiat Parkı, 140 hektarlık bir yeşil alan olarak ziyaretçilerini karşılar.
-- Park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Parkta, çeşitli bitki türleri ve ağaçlar bulunur.
 - Efeoğlu Tabiat Parkı, biyolojik çeşitlilik açısından önemli bir alandır.
 - Parkın iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak, sıcak yazlar ve ılıman kışlar ile karakterizedir.

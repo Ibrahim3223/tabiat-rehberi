@@ -28,7 +28,7 @@ wikidata_id: "Q31388974"
 
 # Bozca Tepe
 
-Bozca Tepe, Doğu Anadolu Bölgesi'nin Muş ilinde yer alan ve ziyaretçilerini güzellikleriyle cezbeden bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Bozca Tepe, ziyaretçilerini geniş ve yeşil alanlarıyla karşılar. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla dikkat çeker. Bu tepe, Muş'un önemli turistik noktalarından biri olarak kabul edilir.
+Bozca Tepe, Doğu Anadolu Bölgesi'nin Muş ilinde yer alan ve ziyaretçilerini güzellikleriyle cezbeden bir tepe. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Bozca Tepe, ziyaretçilerini geniş ve yeşil alanlarıyla karşılar. Doğal güzelliği, tarihi geçmişi ve coğrafi konumuyla dikkat çeker. Bu tepe, Muş'un önemli turistik noktalarından biri olarak kabul edilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bozca Tepe, tarihi geçmişiyle dikkat çeker. Bu tepe, yüzyıllar boyunca çe�
 
 ## Coğrafya
 
-Bozca Tepe, coğrafi konumu itibariyle dikkat çeker. Doğu Anadolu Bölgesi'nin Muş ilinde yer alır. Bu tepe, doğal güzelliği ile ziyaretçilerini etkileyen bir destinasyon. Coğrafi konumu, ziyaretçilerine geniş ve yeşil alanlar sunar. Bozca Tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, ziyaretçilerini doğal güzelliği ile karşılar. Coğrafi konumu, ziyaretçilerine taze hava ve yeşil alanlar sunar. Bozca Tepe, Muş'un önemli coğrafi noktalarından biri olarak kabul edilir. Bu tepe, ziyaretçilerine doğal güzelliği ile yolculuk yapma fırsatı sunar.
+Bozca Tepe, coğrafi konumu itibariyle dikkat çeker. Doğu Anadolu Bölgesi'nin Muş ilinde yer alır. Bu tepe, doğal güzelliği ile ziyaretçilerini etkileyen bir destinasyon. Coğrafi konumu, ziyaretçilerine geniş ve yeşil alanlar sunar. Bu tepe, ziyaretçilerini doğal güzelliği ile karşılar. Coğrafi konumu, ziyaretçilerine taze hava ve yeşil alanlar sunar. Bozca Tepe, Muş'un önemli coğrafi noktalarından biri olarak kabul edilir. Bu tepe, ziyaretçilerine doğal güzelliği ile yolculuk yapma fırsatı sunar.
 
 ## Flora ve Fauna
 

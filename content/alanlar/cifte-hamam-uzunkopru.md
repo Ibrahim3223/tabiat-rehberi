@@ -1,7 +1,7 @@
 ---
 title: "Çifte Hamam, Uzunköprü"
 date: "2026-01-09T23:21:00.531Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739036"
 
 # Çifte Hamam, Uzunköprü
 
-Uzunköprü'nün güzide noktalarından biri olan Çifte Hamam, Marmara Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezidir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu güzel plaj, Edirne'nin Uzunköprü ilçesinde yer alır ve ziyaretçilerini bekler. Çifte Hamam'ın sunduğu bu geniş ve güzel alan, ziyaretçilere doğayla iç içe bir deneyim sunar.
+Uzunköprü'nün güzide noktalarından biri olan Çifte Hamam, Marmara Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezidir. Bu güzel plaj, Edirne'nin Uzunköprü ilçesinde yer alır ve ziyaretçilerini bekler. Çifte Hamam'ın sunduğu bu geniş ve güzel alan, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tarihi geçmişi zengin olan Uzunköprü, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Marmara Bölgesi'nin güzide noktalarından biri olan Çifte Hamam, coğrafi olarak oldukça özel bir konuma sahiptir. Bu bölge, Edirne'nin Uzunköprü ilçesinde yer alır ve Marmara Denizi'ne yakındır. Çifte Hamam, 140 hektarlık bir yeşil alan sunar ve bu geniş alan, yaklaşık 200 futbol sahası büyüklüğündedir. Bu güzel plaj, ziyaretçilerine geniş ve güzel bir alan sunar. Çifte Hamam'ın coğrafi konumu, Marmara Bölgesi'nin güzide noktalarından biri olarak bilinir ve ziyaretçilerini bekler. Bu bölge, coğrafi olarak özel bir konumda yer alır ve doğal güzellikleriyle ziyaretçilerini çekmektedir.
+Marmara Bölgesi'nin güzide noktalarından biri olan Çifte Hamam, coğrafi olarak oldukça özel bir konuma sahiptir. Bu bölge, Edirne'nin Uzunköprü ilçesinde yer alır ve Marmara Denizi'ne yakındır. Bu güzel plaj, ziyaretçilerine geniş ve güzel bir alan sunar. Çifte Hamam'ın coğrafi konumu, Marmara Bölgesi'nin güzide noktalarından biri olarak bilinir ve ziyaretçilerini bekler. Bu bölge, coğrafi olarak özel bir konumda yer alır ve doğal güzellikleriyle ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 

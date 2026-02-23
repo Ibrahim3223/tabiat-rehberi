@@ -1,7 +1,7 @@
 ---
 title: "Phaselis Küçük Hamam"
 date: "2026-01-09T23:43:43.365Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739211"
 
 # Phaselis Küçük Hamam
 
-Phaselis Küçük Hamam, Antalya'nın Kemer ilçesinde yer alan ve tarihi değerleri ile doğal güzellikleri bir araya getiren özel bir plajdır. Bu bölge, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Phaselis Küçük Hamam, ziyaretçilerini geçmişin izlerine ve doğanın muhteşem manzaralarına davet ediyor. Histori ve coğrafi açıdan zengin bir bölgede bulunması, burayı ziyaret etmek için güçlü bir neden oluşturuyor.
+Phaselis Küçük Hamam, Antalya'nın Kemer ilçesinde yer alan ve tarihi değerleri ile doğal güzellikleri bir araya getiren özel bir plajdır. Phaselis Küçük Hamam, ziyaretçilerini geçmişin izlerine ve doğanın muhteşem manzaralarına davet ediyor. Histori ve coğrafi açıdan zengin bir bölgede bulunması, burayı ziyaret etmek için güçlü bir neden oluşturuyor.
 
 ## Tarihçe
 

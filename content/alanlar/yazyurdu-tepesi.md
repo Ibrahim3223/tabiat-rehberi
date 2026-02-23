@@ -28,7 +28,7 @@ wikidata_id: "Q31560123"
 
 # Yazyurdu Tepesi
 
-Erzurum'un doğusunda yer alan Yazyurdu Tepesi, yüksek bir konumda ve 140 hektarlık bir alanı kapsar. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğündedir. Yazyurdu Tepesi, Erzurum'un önemli doğal güzelliklerinden biridir ve doğa severler için ideal bir gezi noktasıdır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Yazyurdu Tepesi, aynı zamanda tarihsel açıdan önemli bir bölgedir ve yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olmuştur.
+Erzurum'un doğusunda yer alan Yazyurdu Tepesi, yüksek bir konumda ve 140 hektarlık bir alanı kapsar. Yazyurdu Tepesi, Erzurum'un önemli doğal güzelliklerinden biridir ve doğa severler için ideal bir gezi noktasıdır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Yazyurdu Tepesi, aynı zamanda tarihsel açıdan önemli bir bölgedir ve yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olmuştur.
 
 ## Tarihçe
 

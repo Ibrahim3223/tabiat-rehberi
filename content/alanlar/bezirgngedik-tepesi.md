@@ -29,7 +29,7 @@ wikidata_id: "Q32139576"
 
 # Bezirgângedik Tepesi
 
-Bezirgângedik Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Bezirgângedik Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin flora ile karşılar. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunar. Bezirgângedik Tepesi'ni ziyaret etmek, hem doğayı hem de tarihin izlerini keşfetmek anlamına gelir.
+Bezirgângedik Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bezirgângedik Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin flora ile karşılar. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunar. Bezirgângedik Tepesi'ni ziyaret etmek, hem doğayı hem de tarihin izlerini keşfetmek anlamına gelir.
 
 ## Tarihçe
 

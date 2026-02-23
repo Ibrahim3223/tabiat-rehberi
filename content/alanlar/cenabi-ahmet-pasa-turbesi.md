@@ -1,7 +1,7 @@
 ---
 title: "Cenabi Ahmet Paşa Türbesi"
 date: "2026-01-10T07:31:52.564Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391297"
 
 # Cenabi Ahmet Paşa Türbesi
 
-Cenabi Ahmet Paşa Türbesi, Ankara'nın Altındağ ilçesinde yer alan tarihi bir mekan. Bu mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulu ve 200 futbol sahası büyüklüğünde. Cenabi Ahmet Paşa Türbesi, tarihin izlerini taşıyan bir yapı ve mimarisi ile dikkat çekiyor. Türbenin çevresi, yeşilin farklı tonlarını barındıran ağaçlarla dolu ve ziyaretçilere sakin bir ortam sunuyor. Cenabi Ahmet Paşa Türbesi, Ankara'nın önemli kültürel miraslarından biri olarak kabul ediliyor.
+Cenabi Ahmet Paşa Türbesi, Ankara'nın Altındağ ilçesinde yer alan tarihi bir mekan. Cenabi Ahmet Paşa Türbesi, tarihin izlerini taşıyan bir yapı ve mimarisi ile dikkat çekiyor. Türbenin çevresi, yeşilin farklı tonlarını barındıran ağaçlarla dolu ve ziyaretçilere sakin bir ortam sunuyor. Cenabi Ahmet Paşa Türbesi, Ankara'nın önemli kültürel miraslarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

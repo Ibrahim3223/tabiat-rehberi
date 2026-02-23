@@ -28,7 +28,7 @@ wikidata_id: "Q61076488"
 
 # Mulona Şelalesi
 
-İç Anadolu Bölgesi'nin gizli cenneti olan Mulona Şelalesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu büyüleyici şelale, çevredeki dağların eteklerinde, yemyeşil ormanların arasında gizli bir mücevher gibi bekliyor. Doğa severler, fotoğrafçılar ve macera arayanlar için Mulona Şelalesi, bir keşif ve keşfedilme duygusuyla dolu bir destinasyon. Şelalenin çevresinde, çeşitli yürüyüş parkurları ve piknik alanları da ziyaretçilere keyifli anlar sunuyor.
+ Bu büyüleyici şelale, çevredeki dağların eteklerinde, yemyeşil ormanların arasında gizli bir mücevher gibi bekliyor. Doğa severler, fotoğrafçılar ve macera arayanlar için Mulona Şelalesi, bir keşif ve keşfedilme duygusuyla dolu bir destinasyon. Şelalenin çevresinde, çeşitli yürüyüş parkurları ve piknik alanları da ziyaretçilere keyifli anlar sunuyor.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Mulona Şelalesi'ni ziyaret etmek için, en iyi zaman, ilkbahar ve yaz aylarıd�
 
 - Mulona Şelalesi, yaklaşık 140 hektarlık bir alanı kapsıyor
 - Şelalenin yakınındaki ormanlar, birçok farklı hayvan türüne ev sahipliği yapıyor
-- Bölgede, histórik kalıntılar ve arkeolojik siteler de bulunmakta
+- Bölgede, tarihi kalıntılar ve arkeolojik siteler de bulunmakta
 - Mulona Şelalesi, bir turizm noktası olarak gelişmiştir
 - Şelalenin çevresi, çeşitli yürüyüş parkurları ve piknik alanları sunuyor

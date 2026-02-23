@@ -28,7 +28,7 @@ wikidata_id: "Q34888078"
 
 # Otrük Tepesi
 
-Otrük Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak bilinen bir tepe alanıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Otrük Tepesi, bölgeye özgü flora ve faunanın yaşadığı önemli bir doğal habitat olarak dikkat çeker. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu doğal alan, aynı zamanda bölgede yaşayan hayvanlar için önemli bir yaşam alanı sağlar.
+Otrük Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak bilinen bir tepe alanıdır. Otrük Tepesi, bölgeye özgü flora ve faunanın yaşadığı önemli bir doğal habitat olarak dikkat çeker. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu doğal alan, aynı zamanda bölgede yaşayan hayvanlar için önemli bir yaşam alanı sağlar.
 
 ## Tarihçe
 

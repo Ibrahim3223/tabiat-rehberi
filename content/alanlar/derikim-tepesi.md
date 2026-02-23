@@ -28,7 +28,7 @@ wikidata_id: "Q31540575"
 
 # Derikim Tepesi
 
-Derikim Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan bir tepe olup, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Derikim Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yerdir. Tepenin etrafındaki manzara, ziyaretçilerin gün batımını izleyebilecekleri bir noktaya sahiptir. Ayrıca, bu bölgeyi ziyaret edenler, bölgenin tarihi geçmişi hakkında bilgi edinebilirler.
+ Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Derikim Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yerdir. Tepenin etrafındaki manzara, ziyaretçilerin gün batımını izleyebilecekleri bir noktaya sahiptir. Ayrıca, bu bölgeyi ziyaret edenler, bölgenin tarihi geçmişi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Derikim Tepesi'ni ziyaret etmek, ziyaretçilere doğanın güzelliği ile baş b
 
 ## İlginç Bilgiler
 
-- Derikim Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir.
 - Tepenin etrafındaki arazi, çeşitli bitki türleri ve hayvanların yaşadığı bir ekosistemi unterstütlemektedir.
 - Derikim Tepesi, ziyaretçilerine bir zaman yolculuğu fırsatı sunmaktadır.
 - Tepenin etrafındaki arkeolojik kalıntılar, bu bölgenin zengin tarihini gözler önüne sermektedir.

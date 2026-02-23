@@ -1,7 +1,7 @@
 ---
 title: "Hürriyet Hamamı"
 date: "2026-01-09T22:55:36.738Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738614"
 
 # Hürriyet Hamamı
 
-Hürriyet Hamamı, İstanbul'un Beyoğlu ilçesinde yer alan bir plajdır. Marmara Bölgesi'nin en güzel kıyılarında bulunan bu plaj, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktasıdır. Hürriyet Hamamı'nın tarihi geçmişi, İstanbul'un en eski plajlarından biri olmasını sağlar. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere rahatlama ve güneşlenmek için geniş bir olanak sunar.
+Hürriyet Hamamı, İstanbul'un Beyoğlu ilçesinde yer alan bir plajdır. Marmara Bölgesi'nin en güzel kıyılarında bulunan bu plaj, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktasıdır. Hürriyet Hamamı'nın tarihi geçmişi, İstanbul'un en eski plajlarından biri olmasını sağlar. Bu geniş alan, ziyaretçilere rahatlama ve güneşlenmek için geniş bir olanak sunar.
 
 ## Tarihçe
 

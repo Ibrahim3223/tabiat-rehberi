@@ -28,7 +28,7 @@ wikidata_id: "Q31389806"
 
 # Holduca Tepesi
 
-Holduca Tepesi, Çankırı'nın eşsiz coğrafyası içinde yer alan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Bu tepe, ziyaretçilerini İç Anadolu Bölgesi'nin zengin tarihine ve kültürüne götürmeyi vaat ediyor. Holduca Tepesi'ne çıkanlar, bölgeye hakim olan geniş stepleri ve dağları keşfetme fırsatı bulacaklar. Bu doğal alan, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
+Holduca Tepesi, Çankırı'nın eşsiz coğrafyası içinde yer alan bir tepe. Bu tepe, ziyaretçilerini İç Anadolu Bölgesi'nin zengin tarihine ve kültürüne götürmeyi vaat ediyor. Holduca Tepesi'ne çıkanlar, bölgeye hakim olan geniş stepleri ve dağları keşfetme fırsatı bulacaklar. Bu doğal alan, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
 
 ## Tarihçe
 

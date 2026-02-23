@@ -28,7 +28,7 @@ wikidata_id: "Q31390109"
 
 # İlikaya Tepe
 
-İlikaya Tepe, Antalya'nın güzide noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğündedir. İlikaya Tepe, doğa severlerin ve gezi düşkünlerinin ziyaret ettiği bir yerdir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İlikaya Tepe, Antalya'nın tarihi ve kültürel zenginliklerini de içinde barındıran bir bölgedir.
+İlikaya Tepe, Antalya'nın güzide noktalarından biridir. İlikaya Tepe, doğa severlerin ve gezi düşkünlerinin ziyaret ettiği bir yerdir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. İlikaya Tepe, Antalya'nın tarihi ve kültürel zenginliklerini de içinde barındıran bir bölgedir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ wikidata_id: "Q31390109"
 ## İlginç Bilgiler
 
 - İlikaya Tepe, Antalya'nın en önemli doğal alanlarından biridir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - İlikaya Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Bu tepe, tarihin ve kültürün önemli bir parçasıdır.
 - İlikaya Tepe, gezi severlerin ziyaret ettiği bir yerdir.

@@ -22,11 +22,11 @@ wikidata_id: "Q108227218"
 
 # Mersin-Mut-Dagpazarı Sedir
 
-Mersin-Mut-Dagpazarı Sedir milli parkı, Akdeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık bu geniş alan, ziyaretçilerine doğanın tüm güzelliğini sunuyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu park, çeşitli bitki türleri ve zengin fauna ile dolu. Burada, doğanın seslerini dinlerken, güneşin mışını hissetme mümkün. Bu milli park, ziyaretçilerine hem doğa ile iç içe olmanın keyfini hem de tarihi ve kültürel zenginlikleri keşfetmenin heyecanını sunuyor.
+Mersin-Mut-Dagpazarı Sedir milli parkı, Akdeniz Bölgesi'nin en güzel köşelerinden biri. 140 hektarlık bu geniş alan, ziyaretçilerine doğanın tüm güzelliğini sunuyor. Burada, doğanın seslerini dinlerken, güneşin mışını hissetme mümkün. Bu milli park, ziyaretçilerine hem doğa ile iç içe olmanın keyfini hem de tarihi ve kültürel zenginlikleri keşfetmenin heyecanını sunuyor.
 
 ## Tarihçe
 
-Mersin-Mut-Dagpazarı Sedir milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, farklı medeniyetlerin izlerini taşıyor ve ziyaretçilere tarihin sayfalarını karıştırmak için eşsiz bir fırsat sunuyor. Tarihi kalıntılar, antik yerleşim yerleri ve doğa harikaları, bu milli parkın zengin kültürel mirasını oluşturuyor. Ziyaretçiler, bu milli parkı gezerken, hem doğanın güzelliğini hem de tarihin derinliklerini keşfedebilirler. Mersin-Mut-Dagpazarı Sedir, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Mersin-Mut-Dagpazarı Sedir milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, farklı medeniyetlerin izlerini taşıyor ve ziyaretçilere tarihin sayfalarını karıştırmak için eşsiz bir fırsat sunuyor. Tarihi kalıntılar, antik yerleşim yerleri ve doğa harikaları, bu milli parkın zengin kültürel mirasını oluşturuyor. Ziyaretçiler, bu milli parkı gezerken, hem doğanın güzelliğini hem de tarihin derinliklerini keşfedebilirler.
 
 ## Coğrafya
 

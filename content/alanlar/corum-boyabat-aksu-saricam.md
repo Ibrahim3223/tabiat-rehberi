@@ -22,7 +22,7 @@ wikidata_id: "Q108228260"
 
 # Corum-Boyabat-Aksu-Saricam
 
-Corum-Boyabat-Aksu-Saricam milli parkı, Çorum'un görkemli doğal güzelliklerini sunan bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşillik içerisinde huzurlu bir ortam sunuyor. Çorum'un merkezine yakın konumuyla da kolay ulaşılabilirlik avantajını sağlıyor. Bu milli park, özellikle doğa severler ve fotoğraf meraklıları için bir cennet olarak kabul ediliyor. Çorum'un tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleri de keşfetmek isteyenler için ideal bir destinasyon.
+Corum-Boyabat-Aksu-Saricam milli parkı, Çorum'un görkemli doğal güzelliklerini sunan bir alan olarak dikkat çekiyor. Çorum'un merkezine yakın konumuyla da kolay ulaşılabilirlik avantajını sağlıyor. Bu milli park, özellikle doğa severler ve fotoğraf meraklıları için bir cennet olarak kabul ediliyor. Çorum'un tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleri de keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

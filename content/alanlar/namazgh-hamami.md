@@ -1,7 +1,7 @@
 ---
 title: "Namazgâh Hamamı"
 date: "2026-01-09T22:14:09.360Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q5994617"
 
 # Namazgâh Hamamı
 
-İzmir'in Konak ilçesinde bulunan Namazgâh Hamamı, Ege Bölgesi'nin önemli turizm merkezlerinden biridir. 140 hektarlık bir alana yayılan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Namazgâh Hamamı, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeder. Bu alan, denize girme imkanı sunmasının yanı sıra, tarihi yapılarıyla da dikkat çeker. İzmir'in turizm değerlerini keşfetmek isteyenler için Namazgâh Hamamı, kesinlikle ziyaret edilmesi gereken bir yerdir.
+İzmir'in Konak ilçesinde bulunan Namazgâh Hamamı, Ege Bölgesi'nin önemli turizm merkezlerinden biridir. Namazgâh Hamamı, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeder. Bu alan, denize girme imkanı sunmasının yanı sıra, tarihi yapılarıyla da dikkat çeker. İzmir'in turizm değerlerini keşfetmek isteyenler için Namazgâh Hamamı, kesinlikle ziyaret edilmesi gereken bir yerdir.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Namazgâh Hamamı, Konak ilçesinin sahil şeridinde yer alır ve Ege Denizi'ne 
 
 ## Flora ve Fauna
 
-Namazgâh Hamamı ve çevresi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, özellikle deniz canlıları açısından zengin bir ekosisteme sahiptir. Mevsimsel değişimlerle birlikte, farklı türlerin yaşadığı bir ortam sunar. Deniz suyu, temiz ve berra olup, sualtı faaliyetleri için idealdir. Bu bölgede, özellikle yaz aylarında, deniz kaplumbağalarına rastlama mümkündür. Çeşitli kuş türleri de bu bölgede yaşar ve ziyaretçilere doğa güzelliğini gösterme imkanı sunar. Namazgâh Hamamı, doğal güzelliği ve zengin fauna ile ziyaretçilerini cezbeder.
+ Bu bölge, özellikle deniz canlıları açısından zengin bir ekosisteme sahiptir. Mevsimsel değişimlerle birlikte, farklı türlerin yaşadığı bir ortam sunar. Deniz suyu, temiz ve berra olup, sualtı faaliyetleri için idealdir. Bu bölgede, özellikle yaz aylarında, deniz kaplumbağalarına rastlama mümkündür. Çeşitli kuş türleri de bu bölgede yaşar ve ziyaretçilere doğa güzelliğini gösterme imkanı sunar. Namazgâh Hamamı, doğal güzelliği ve zengin fauna ile ziyaretçilerini cezbeder.
 
 ## Ziyaret Bilgileri
 

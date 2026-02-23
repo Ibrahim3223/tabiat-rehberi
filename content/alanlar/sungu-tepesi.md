@@ -28,7 +28,7 @@ wikidata_id: "Q34811309"
 
 # Süngü Tepesi
 
-Süngü Tepesi, Hakkari ilinin güzide noktalarından biri olarak, doğa severlerin ve macera arayışında olanların ilgi odağı haline gelmiştir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte birçok farklı bitki türünü ve hayvanı barındırır. Süngü Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu bölge, özellikle bahar aylarında ziyaret edildiğinde, rengarenk çiçeklerle dolu bir manzara sunar.
+Süngü Tepesi, Hakkari ilinin güzide noktalarından biri olarak, doğa severlerin ve macera arayışında olanların ilgi odağı haline gelmiştir. Süngü Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu bölge, özellikle bahar aylarında ziyaret edildiğinde, rengarenk çiçeklerle dolu bir manzara sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Süngü Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Süngü Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olarak, Hakkari ilinin sınırları içerisinde yer alır. Bu bölge, coğrafi olarak, dağlık ve engebeli bir yapıya sahiptir. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2500 metre yukarıda olup, bu yükseklik nedeniyle, ziyaretçilere, régionun diğer noktalarına nazaran daha soğuk bir iklim sunar. Süngü Tepesi, çevresindeki diğer dağlarla birlikte, bir whole dağ silsilesini oluşturur ve bu silsile, birçok farklı bitki ve hayvan türüne ev sahipliği yapar. Tepenin eteklerinde, çeşitli akarsular ve göller bulunur ve bu su kaynakları, Bölgenin fauna ve flora zenginliğini destekler.
+Süngü Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olarak, Hakkari ilinin sınırları içerisinde yer alır. Bu bölge, coğrafi olarak, dağlık ve engebeli bir yapıya sahiptir. Tepenin yüksekliği, deniz seviyesinden yaklaşık 2500 metre yukarıda olup, bu yükseklik nedeniyle, ziyaretçilere, bölgenin diğer noktalarına nazaran daha soğuk bir iklim sunar. Süngü Tepesi, çevresindeki diğer dağlarla birlikte, bir whole dağ silsilesini oluşturur ve bu silsile, birçok farklı bitki ve hayvan türüne ev sahipliği yapar. Tepenin eteklerinde, çeşitli akarsular ve göller bulunur ve bu su kaynakları, Bölgenin fauna ve flora zenginliğini destekler.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Süngü Tepesi, flora ve fauna açısından zengin bir bölge olarak, birçok fa
 
 ## Ziyaret Bilgileri
 
-Süngü Tepesi'ni ziyaret etmek, doğa severler ve macera arayışında olanlar için harika bir fırsat sunar. Tepenin etrafında, birçok farklı yürüyüş parkuru bulunur ve bu parkurlar, ziyaretçilere, régionun güzelliğini keşfetme fırsatı sunar. Süngü Tepesi'ne, özellikle bahar aylarında ziyaret edildiğinde, rengarenk çiçeklerle dolu bir manzara sunar. Tepenin zirvesine ulaşmak, yaklaşık 3-4 saatlik bir yürüyüş süresini gerektirir ve bu yürüyüş, ziyaretçilere, bölgeyi keşfetme fırsatı sunar.
+Süngü Tepesi'ni ziyaret etmek, doğa severler ve macera arayışında olanlar için harika bir fırsat sunar. Tepenin etrafında, birçok farklı yürüyüş parkuru bulunur ve bu parkurlar, ziyaretçilere, bölgenin güzelliğini keşfetme fırsatı sunar. Süngü Tepesi'ne, özellikle bahar aylarında ziyaret edildiğinde, rengarenk çiçeklerle dolu bir manzara sunar. Tepenin zirvesine ulaşmak, yaklaşık 3-4 saatlik bir yürüyüş süresini gerektirir ve bu yürüyüş, ziyaretçilere, bölgeyi keşfetme fırsatı sunar.
 
 ## İlginç Bilgiler
 

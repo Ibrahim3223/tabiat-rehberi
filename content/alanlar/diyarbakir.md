@@ -23,7 +23,7 @@ wikidata_id: "Q108228708"
 
 # DİYARBAKIR
 
-Diyarbakır milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, parkın içinde yürüyüş yapabilir, piknik alanlarında dinlenebilir veya doğa izleme etkinliklerine katılabilir. Parkın konumu, ziyaretçilerin आसani ile ulaşabileceği bir noktada.
+Diyarbakır milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri. Park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, parkın içinde yürüyüş yapabilir, piknik alanlarında dinlenebilir veya doğa izleme etkinliklerine katılabilir. Parkın konumu, ziyaretçilerin आसani ile ulaşabileceği bir noktada.
 
 ## Tarihçe
 

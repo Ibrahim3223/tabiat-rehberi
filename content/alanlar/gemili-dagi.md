@@ -32,7 +32,7 @@ Erzurum'un doğal güzelliklerini keşfederken, Gemili Dağı ile karşılaşıy
 
 ## Tarihçe
 
-Erzurum'un dağlık bölgeleri, tarihin sâu izlerini taşıyan bir coğrafyadır. Bölge, tarih boyunca çeşitli uygarlıkların hakimiyetine girmiş ve önemli ticaret yollarının kesişme noktası olmuştur. Doğu Anadolu'nun bu stratejik bölgesinde, Hitit, Urartu, Pers ve Roma gibi medeniyetler iz bırakmıştır. 
+Erzurum'un dağlık bölgeleri, tarihin derin izlerini taşıyan bir coğrafyadır. Bölge, tarih boyunca çeşitli uygarlıkların hakimiyetine girmiş ve önemli ticaret yollarının kesişme noktası olmuştur. Doğu Anadolu'nun bu stratejik bölgesinde, Hitit, Urartu, Pers ve Roma gibi medeniyetler iz bırakmıştır.
 
 Gemili Dağı gibi doğal alanlar, bu bölgenin tarihsel önemini daha da artırmaktadır. Türkiye'de, özellikle Doğu Anadolu'da bulunan bu tür dağlık ve ormanlık alanlar, binlerce yıllık bir geçmişe sahiptir. Bu bölgeler, sadece doğal güzellikleri ile değil, aynı zamanda insan yerleşimlerinin ve ekonomik faaliyetlerin merkezi olarak da görev görmüştür. Yaylacılık, hayvancılık ve ticaret, bu bölgelerde yaşayan halkların temel faaliyetleri arasında yer almıştır.
 
@@ -50,11 +50,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Gemili Dağı'nın çevre
 
 ## Flora ve Fauna
 
-Gemili Dağı, Erzurum'un yüksek dağ ekolojisinin canlı bir örneği. 1200 hektarlık bu dağlık alan, yükseklik zonlarına bağlı olarak değişen bitki örtüsü ve yaban hayatı ile dikkat çekiyor. 
+Gemili Dağı, Erzurum'un yüksek dağ ekolojisinin canlı bir örneği. 1200 hektarlık bu dağlık alan, yükseklik zonlarına bağlı olarak değişen bitki örtüsü ve yaban hayatı ile dikkat çekiyor.
 
-Bitki örtüsüne bakıldığında, ilkbaharın gelmesi ile birlikte dağ yamaçları renkli bir hal alıyor. Alpin çayırlar, çeşitli çiçek türleri ile süsleniyor. Sonbaharda ise, yaprak döken ağaçların sararması ile birlikte dağ manzarası değişiyor. 
+Bitki örtüsüne bakıldığında, ilkbaharın gelmesi ile birlikte dağ yamaçları renkli bir hal alıyor. Alpin çayırlar, çeşitli çiçek türleri ile süsleniyor. Sonbaharda ise, yaprak döken ağaçların sararması ile birlikte dağ manzarası değişiyor.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağların yüksek kesimlerinde yaşamlarını sürdürürken, kartallar ve diğer yırtıcı kuşlar gökyüzünde hükmediyorlar. Sürüngenler de, kayalık alanlarda yaşamını sürdürüyor. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağların yüksek kesimlerinde yaşamlarını sürdürürken, kartallar ve diğer yırtıcı kuşlar gökyüzünde hükmediyorlar. Sürüngenler de, kayalık alanlarda yaşamını sürdürüyor.
 
 Gemili Dağı, yüksek dağ ekosisteminin korunması açısından büyük önem taşıyor. Bu alanın korunması, birçok endemik türün yaşamsal alanı olması nedeniyle son derece önemli.
 

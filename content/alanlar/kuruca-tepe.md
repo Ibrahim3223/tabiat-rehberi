@@ -28,7 +28,7 @@ wikidata_id: "Q31390180"
 
 # Kuruca Tepe
 
-Kuruca Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe olarak, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Kuruca Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Ayrıca, tepeye tırmanırken, manzaranın güzelliği ve bölgenin tarihi geçmişi hakkında bilgi edinme mümkün.
+ Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Kuruca Tepe'nin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Ayrıca, tepeye tırmanırken, manzaranın güzelliği ve bölgenin tarihi geçmişi hakkında bilgi edinme mümkün.
 
 ## Tarihçe
 

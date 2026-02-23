@@ -32,7 +32,7 @@ Kütahya'nın doğal güzelliklerinden biri olan Şaphane Dağı, şehrin merkez
 
 ## Tarihçe
 
-Kütahya bölgesi, tarihin-depth izlerini taşıyan bir coğrafyadır. Şaphane Dağı, bu zengin tarihsel mirasın bir parçasıdır. Bölge, históriki süreçte Frigler, Lidyalılar, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisi altında kalmıştır. Bu uygarlıklar, bölgenin stratejik konumu nedeniyle ticaret yolları ve kültür alışverişinde önemli rol oynamıştır.
+Kütahya bölgesi, tarihin-depth izlerini taşıyan bir coğrafyadır. Şaphane Dağı, bu zengin tarihsel mirasın bir parçasıdır. Bölge, tarihi süreçte Frigler, Lidyalılar, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisi altında kalmıştır. Bu uygarlıklar, bölgenin stratejik konumu nedeniyle ticaret yolları ve kültür alışverişinde önemli rol oynamıştır.
 
 Doğal güzellikleri ve verimli toprakları ile Kütahya, insan yerleşimine ve ekonomik faaliyetlere uygun bir ortam sunmuştur. Yaylacılık ve hayvancılık, bölgenin ekonomisinde önemli bir yer tutmuş, halkın geçim kaynaklarını sağlamıştır. Şaphane Dağı ve çevresindeki alanlar, bu faaliyetler için elverişli bir zemin oluşturur. Ayrıca, bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alması, bölgenin tarihsel önemini artırmıştır. Bu doğal alanlar, sadece yerel halkın değil, aynı zamanda çeşitli uygarlıkların yaşamına ve kültürüne şekil vermiştir.
 
@@ -48,10 +48,10 @@ Bölgenin ekosistem bağlantıları da oldukça önemlidir. Şaphane Dağı, kom
 
 ## Flora ve Fauna
 
-Şaphane Dağı, Kütahya'nın yeşilliklerle kaplı bir köşesi, 1200 hektarlık bir alan. Bu dağ ekosisteminde, zeytinlikler ve çam ormanları bir arada yaşar. İklim, Akdeniz'in ılıman havasını taşır. 
+Şaphane Dağı, Kütahya'nın yeşilliklerle kaplı bir köşesi, 1200 hektarlık bir alan. Bu dağ ekosisteminde, zeytinlikler ve çam ormanları bir arada yaşar. İklim, Akdeniz'in ılıman havasını taşır.
 
-Bitki Örtüsü olarak, ilkbaharda dağ yamaçları renklenir, çiçekler açar. 
-Yaban Hayatı olarak, memeliler ve çeşitli kuş türleri bu dağda yaşar. 
+Bitki Örtüsü olarak, ilkbaharda dağ yamaçları renklenir, çiçekler açar.
+Yaban Hayatı olarak, memeliler ve çeşitli kuş türleri bu dağda yaşar.
 Ekolojik Değer olarak, bu dağ ekosisteminin korunması önemlidir, çünkü birçok canlıyaşam alanı sağlar.
 
 ## Ziyaret Bilgileri

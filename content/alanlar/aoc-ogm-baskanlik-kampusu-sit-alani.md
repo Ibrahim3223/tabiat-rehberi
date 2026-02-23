@@ -22,7 +22,7 @@ wikidata_id: "Q108226609"
 
 # AOÇ OGM Başkanlık Kampüsü Sit Alanı
 
-AOÇ OGM Başkanlık Kampüsü Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal ve tarihi güzellik alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Burada, tarihi yapılar, yemyeşil doğa ve çeşitli bitki türleri bir arada bulunuyor. Ziyaretçiler, bu güzel ortamda hem doğayı keşfediyor hem de tarihin zenginliklerini deneyimleme fırsatı buluyor.
+AOÇ OGM Başkanlık Kampüsü Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal ve tarihi güzellik alanıdır. Burada, tarihi yapılar, yemyeşil doğa ve çeşitli bitki türleri bir arada bulunuyor. Ziyaretçiler, bu güzel ortamda hem doğayı keşfediyor hem de tarihin zenginliklerini deneyimleme fırsatı buluyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Yörükler Hamamı"
 date: "2026-01-09T22:36:27.028Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738729"
 
 # Yörükler Hamamı
 
-Yörükler Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak dikkat çekmektedir. 19 Mayıs/Samsun'da bulunan bu plaj, khong 140 hektarlık bir alanda yer almaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Yörükler Hamamı, doğal güzelliği ve temizliği ile ziyaretçilerini çekmektedir. Plajın kumsalı, ince kumdan oluşmaktadır ve deniz suyu, berra ve serin bir yapıya sahiptir. Bu özellikler, Yörükler Hamamı'nı hem yerli hem de yabancı turistler için आकरıcı bir destinasyon haline getirmektedir.
+Yörükler Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak dikkat çekmektedir. 19 Mayıs/Samsun'da bulunan bu plaj, khong 140 hektarlık bir alanda yer almaktadır. Yörükler Hamamı, doğal güzelliği ve temizliği ile ziyaretçilerini çekmektedir. Plajın kumsalı, ince kumdan oluşmaktadır ve deniz suyu, berra ve serin bir yapıya sahiptir. Bu özellikler, Yörükler Hamamı'nı hem yerli hem de yabancı turistler için आकरıcı bir destinasyon haline getirmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yörükler Hamamı'nın tarihi geçmişi, yüzyıllar boyunca devam etmektedir. 
 
 ## Coğrafya
 
-Yörükler Hamamı, Karadeniz Bölgesi'nin 19 Mayıs/Samsun ilçesinde bulunmaktadır. Bu plaj, yaklaşık 140 hektarlık bir alanda yer almakta ve khong 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Plajın kumsalı, ince kumdan oluşmaktadır ve deniz suyu, berra ve serin bir yapıya sahiptir. Yörükler Hamamı'nın etrafı, yeşilliklerle çevrili olup, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği bir ortam sunmaktadır. Plajın iklimi, Karadeniz ikliminin özellikleri taşımakta olup, yaz aylarında sıcaklık ve nem oranı yüksek, kış aylarında ise soğuktur. Bu özellikler, Yörükler Hamamı'nı hem yaz hem de kış aylarında ziyaret edilebilecek bir destinasyon haline getirmektedir.
+Yörükler Hamamı, Karadeniz Bölgesi'nin 19 Mayıs/Samsun ilçesinde bulunmaktadır. Plajın kumsalı, ince kumdan oluşmaktadır ve deniz suyu, berra ve serin bir yapıya sahiptir. Yörükler Hamamı'nın etrafı, yeşilliklerle çevrili olup, ziyaretçilerin dinlenebileceği ve doğayı keşfedebileceği bir ortam sunmaktadır. Plajın iklimi, Karadeniz ikliminin özellikleri taşımakta olup, yaz aylarında sıcaklık ve nem oranı yüksek, kış aylarında ise soğuktur. Bu özellikler, Yörükler Hamamı'nı hem yaz hem de kış aylarında ziyaret edilebilecek bir destinasyon haline getirmektedir.
 
 ## Flora ve Fauna
 

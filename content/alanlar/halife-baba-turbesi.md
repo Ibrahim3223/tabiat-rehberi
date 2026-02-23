@@ -1,7 +1,7 @@
 ---
 title: "Halife Baba Türbesi"
 date: "2026-01-10T05:04:14.986Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,11 +30,11 @@ wikidata_id: "Q131391588"
 
 # Halife Baba Türbesi
 
-Halife Baba Türbesi, Çine ilçesi sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli dinî ve turistik mekanlarından biri olan bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir dinlenme ve doğa ile iç içe olma imkânı sunuyor. Plajın güzergâhı, çam ağaçları ile süslü ve denizinin berraklığıyla dikkat çekiyor. Bu güzergâhta, doğa yürüyüşleri yapmak, denize girme ve güneşlenmek gibi çeşitli olanaklar bulunuyor. Halife Baba Türbesi, hem dinî bir merkez hem de doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerini bekliyor.
+Halife Baba Türbesi, Çine ilçesi sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli dinî ve turistik mekanlarından biri olan bir plajdır. Plajın güzergâhı, çam ağaçları ile süslü ve denizinin berraklığıyla dikkat çekiyor. Bu güzergâhta, doğa yürüyüşleri yapmak, denize girme ve güneşlenmek gibi çeşitli olanaklar bulunuyor. Halife Baba Türbesi, hem dinî bir merkez hem de doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
-Halife Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tarihin farklı dönemlerinde çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara kendi kültürlerini ve inançlarını bırakmışlar. Halife Baba Türbesi de bu dönemlerden kalan önemli bir dinî merkez olarak kabul ediliyor. Tarihi belgelerde, bu bölgenin önemli bir dinî merkez olarak kabul edildiği ve ziyaretçilerin buraya gelerek ibadet ettikleri belirtiliyor. Halife Baba Türbesi, günümüzde de önemli bir dinî ve turistik mekan olarak kabul ediliyor ve ziyaretçilerini ağırlıyor. Bu tarihsel mekan, ziyaretçilere hem dinî bir expérience hem de tarihin zenginliğini keşfetme fırsatı sunuyor.
+Halife Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tarihin farklı dönemlerinde çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara kendi kültürlerini ve inançlarını bırakmışlar. Halife Baba Türbesi de bu dönemlerden kalan önemli bir dinî merkez olarak kabul ediliyor. Tarihi belgelerde, bu bölgenin önemli bir dinî merkez olarak kabul edildiği ve ziyaretçilerin buraya gelerek ibadet ettikleri belirtiliyor. Halife Baba Türbesi, günümüzde de önemli bir dinî ve turistik mekan olarak kabul ediliyor ve ziyaretçilerini ağırlıyor. Bu tarihsel mekan, ziyaretçilere hem dinî bir deneyim hem de tarihin zenginliğini keşfetme fırsatı sunuyor.
 
 ## Coğrafya
 

@@ -32,7 +32,7 @@ Diyarbakır'nın tarihi dokusu içinde yer alan "Çıplak Dağ", bölgenin coğr
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu sayfalarına ışık tutan bir coğrafyada yer alır. Çıplak Dağ, bu bölgenin zengin tarihi dokusunun bir parçasını oluşturur. Diyarbakır, tarih boyunca various uygarlıkların yaşadığı bir merkez olarak bilinir. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda izlerini bırakmışlardır.
+Diyarbakır bölgesi, tarihin derin sayfalarına ışık tutan bir coğrafyada yer alır. Çıplak Dağ, bu bölgenin zengin tarihi dokusunun bir parçasını oluşturur. Diyarbakır, tarih boyunca various uygarlıkların yaşadığı bir merkez olarak bilinir. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda izlerini bırakmışlardır.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel zenginliğinin önemli bir kısmını oluşturur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendiren temel faktörler olmuştur. Çıplak Dağ, bölgenin coğrafi yapısını ve ekosistemini koruma altına alan önemli bir doğal varlıktır. İnsanların bu dağla ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı değildir; aynı zamanda kültürel ve sosyal yönleri de içeren geniş bir yelpazeyi kapsar.
 

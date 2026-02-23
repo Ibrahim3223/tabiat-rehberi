@@ -32,9 +32,9 @@ Balıkesir'in doğal güzelliklerini keşfetmek isteyenler için Yumaklı Dağı
 
 ## Tarihçe
 
-Yumaklı Dağı, Balıkesir'in zengin tarihine ev sahipliği yapan bir bölgede yer alır. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşadığı önemli bir merkezdir. Hitit, Frig, Lidya, Pers, Roma ve Bizans gibi medeniyetler, bu topraklarda iz bırakmışlardır. 
+Yumaklı Dağı, Balıkesir'in zengin tarihine ev sahipliği yapan bir bölgede yer alır. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların yaşadığı önemli bir merkezdir. Hitit, Frig, Lidya, Pers, Roma ve Bizans gibi medeniyetler, bu topraklarda iz bırakmışlardır.
 
-Doğal güzellikleri ve stratejik konumuyla, Yumaklı Dağı gibi alanlar, tarihte insanların yaşamlarını sürdürdükleri, hayvancılık ve tarım yaptıkları önemli merkezler olmuştur. Türkiye'de, bu tür doğal alanlar, sadece ekolojik çeşitlilik açısından değil, aynı zamanda kültürel mirasın korunması açısından da büyük önem taşırlar. İnsanların bu doğal alanlarla olan ilişkisi, yalnızca yaşamsal faaliyetlerle sınırlı değildir; aynı zamanda bu bölgeler, ticaret yolları, yaylacılık ve diğer kültürel aktivitelerle de bağlantılıdır. 
+Doğal güzellikleri ve stratejik konumuyla, Yumaklı Dağı gibi alanlar, tarihte insanların yaşamlarını sürdürdükleri, hayvancılık ve tarım yaptıkları önemli merkezler olmuştur. Türkiye'de, bu tür doğal alanlar, sadece ekolojik çeşitlilik açısından değil, aynı zamanda kültürel mirasın korunması açısından da büyük önem taşırlar. İnsanların bu doğal alanlarla olan ilişkisi, yalnızca yaşamsal faaliyetlerle sınırlı değildir; aynı zamanda bu bölgeler, ticaret yolları, yaylacılık ve diğer kültürel aktivitelerle de bağlantılıdır.
 
 Bölgenin tarihsel önemi, sadece burada yaşayan uygarlıkların kalıntılarından değil, aynı zamanda insanların doğayla olan etkileşiminden de anlaşılabilir. Yumaklı Dağı, bu geniş tarihsel bağlam içinde, hem bölge hem de ülkenin doğal ve kültürel zenginliğinin bir parçasıdır.
 

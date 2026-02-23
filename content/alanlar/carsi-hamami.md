@@ -1,7 +1,7 @@
 ---
 title: "Çarşı Hamamı"
 date: "2026-01-09T22:23:08.932Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çankırı"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738493"
 
 # Çarşı Hamamı
 
-Çankırı'nın merkezinde yer alan Çarşı Hamamı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık geniş bir alana yayılmış olan bir plajdır. Bu bölge, hem yerel halk hem de turistler için keyifli bir gezi noktası olarak öne çıkıyor. Çarşı Hamamı, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini deneyimlemek isteyenler için ideal bir destinasyon. Çankırı'nın tarihi geçmişi ve kültürel zenginliği, bu plajın etrafındaki çevreyle birlikte ziyaretçilere benzersiz bir deneyim sunuyor.
+ Bu bölge, hem yerel halk hem de turistler için keyifli bir gezi noktası olarak öne çıkıyor. Çarşı Hamamı, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini deneyimlemek isteyenler için ideal bir destinasyon. Çankırı'nın tarihi geçmişi ve kültürel zenginliği, bu plajın etrafındaki çevreyle birlikte ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131738493"
 ## İlginç Bilgiler
 
 - Çarşı Hamamı, 140 hektarlık bir alana yayılmış olan bir plajdır.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Çankırı'nın merkezinde yer alıyor.
 - İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal.
 - Çevre, tarihi ve kültürel zenginliklerle dolu.

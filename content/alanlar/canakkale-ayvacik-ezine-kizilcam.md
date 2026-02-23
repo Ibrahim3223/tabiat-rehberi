@@ -22,7 +22,7 @@ wikidata_id: "Q108227641"
 
 # Canakkale-Ayvacik-Ezine Kızılçam
 
-Çanakkale'nin Ayvacık ve Ezine ilçeleri arasında yer alan milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor. Milli parkın konumu, İç Anadolu Bölgesi'nin güzelliklerini gözler önüne seriyor.
+ Bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor. Milli parkın konumu, İç Anadolu Bölgesi'nin güzelliklerini gözler önüne seriyor.
 
 ## Tarihçe
 

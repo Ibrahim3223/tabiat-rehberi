@@ -28,7 +28,7 @@ wikidata_id: "Q31547284"
 
 # Kunerovi Tepesi
 
-Kunerovi Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde bulunan bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tepenin yüksekliği ve genişliği, bölgenin coğrafi özelliklerini yansıtması açısından önemlidir. Tepenin eteklerinde ve çevresinde yerleşim yerleri bulunur ve bu yerleşim yerleri, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir. Tepenin üzerinde ve çevresinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu nedenle, Kunerovi Tepesi, doğa severler ve tarih meraklıları için bir çekim merkezi olarak kabul edilebilir.
+Kunerovi Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde bulunan bir tepe olarak dikkat çekmektedir. Tepenin yüksekliği ve genişliği, bölgenin coğrafi özelliklerini yansıtması açısından önemlidir. Tepenin eteklerinde ve çevresinde yerleşim yerleri bulunur ve bu yerleşim yerleri, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir. Tepenin üzerinde ve çevresinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu nedenle, Kunerovi Tepesi, doğa severler ve tarih meraklıları için bir çekim merkezi olarak kabul edilebilir.
 
 ## Tarihçe
 

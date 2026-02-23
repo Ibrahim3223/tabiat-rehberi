@@ -22,7 +22,7 @@ wikidata_id: "Q108227006"
 
 # izmirgrup28
 
-İç Anadolu Bölgesi'nin kalbinde yer alan izmirgrup28, yaklaşık 140 hektarlık geniş yeşil alanı ile ziyaretçilerini doğal güzelliklere davet ediyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için gerçek bir cennet. izmirgrup28, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve kendinizi yenileyebilirsiniz. izmirgrup28, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan izmirgrup28, yaklaşık 140 hektarlık geniş yeşil alanı ile ziyaretçilerini doğal güzelliklere davet ediyor. izmirgrup28, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve kendinizi yenileyebilirsiniz. izmirgrup28, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

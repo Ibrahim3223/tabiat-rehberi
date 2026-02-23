@@ -22,7 +22,7 @@ wikidata_id: "Q108227735"
 
 # Mugla-Yatagan-Turgut Fistikçami
 
-Mugla-Yatagan-Turgut Fistikçami milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak, geniş yeşillik alanları ve çeşitli flora çeşitliliğiyle ziyaretçilerini karşılıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve yörenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu milli park, aynı zamanda zengin fauna çeşitliliğine ev sahipliği yapıyor ve ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+Mugla-Yatagan-Turgut Fistikçami milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak, geniş yeşillik alanları ve çeşitli flora çeşitliliğiyle ziyaretçilerini karşılıyor. Bu milli park, aynı zamanda zengin fauna çeşitliliğine ev sahipliği yapıyor ve ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

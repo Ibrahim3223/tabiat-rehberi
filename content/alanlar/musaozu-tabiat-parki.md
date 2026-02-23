@@ -29,7 +29,7 @@ wikidata_id: "Q108228336"
 
 # Musaözü Tabiat Parkı
 
-Musaözü Tabiat Parkı, Eskişehir'in doğal güzelliğini gözler önüne seren bir alan olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun parkları bulunur. Musaözü Tabiat Parkı, doğa severlerin ve ailelerin keyifli vakit geçirebileceği bir yer olarak dikkat çeker.
+Musaözü Tabiat Parkı, Eskişehir'in doğal güzelliğini gözler önüne seren bir alan olarak bilinir. Parkın içinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun parkları bulunur. Musaözü Tabiat Parkı, doğa severlerin ve ailelerin keyifli vakit geçirebileceği bir yer olarak dikkat çeker.
 
 ## Tarihçe
 

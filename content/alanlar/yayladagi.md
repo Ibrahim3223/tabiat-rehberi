@@ -23,7 +23,7 @@ wikidata_id: "Q108228751"
 
 # YAYLADAĞI
 
-Yayladağı Milli Parkı, İç Anadolu Bölgesi'nde yer alan bir doğal güzelliktir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkar. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Yayladağı Milli Parkı, doğa severlerin ve macera arayanların ziyaret ettiği önemli bir destinasyondur. Parkın içinde yürüyüş parkurları, piknik alanları ve gözlem noktaları gibi çeşitli olanaklar bulunur. Doğal güzelliği ve zengin fauna ile Yayladağı Milli Parkı, ziyaretçilerine unutulmaz bir deneyim sunar.
+Yayladağı Milli Parkı, İç Anadolu Bölgesi'nde yer alan bir doğal güzelliktir. Yayladağı Milli Parkı, doğa severlerin ve macera arayanların ziyaret ettiği önemli bir destinasyondur. Parkın içinde yürüyüş parkurları, piknik alanları ve gözlem noktaları gibi çeşitli olanaklar bulunur.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Yayladağı Milli Parkı, İç Anadolu Bölgesi'nde yer alır. Parkın coğrafi 
 
 ## Flora ve Fauna
 
-Yayladağı Milli Parkı, zengin bir flora ve fauna çeşitliliğine sahiptir. Parkta, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitki türleri, parkın coğrafi çeşitliliği ve iklim koşullarına adapte olmuşlardır. Yayladağı Milli Parkı, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapar. Parkta, kuşlar, memeliler ve sürüngenler gibi farklı fauna türleri bulunur. Bu fauna çeşitliliği, parkın doğal güzelliği ve ekolojik dengesini sağlar. Yayladağı Milli Parkı, flora ve fauna çeşitliliği ile dikkat çeker ve ziyaretçilerine unutulmaz bir doğa deneyimi sunar.
+Yayladağı Milli Parkı, zengin bir flora ve fauna çeşitliliğine sahiptir. Parkta, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitki türleri, parkın coğrafi çeşitliliği ve iklim koşullarına adapte olmuşlardır. Yayladağı Milli Parkı, aynı zamanda çeşitli hayvan türlerine ev sahipliği yapar. Parkta, kuşlar, memeliler ve sürüngenler gibi farklı fauna türleri bulunur. Bu fauna çeşitliliği, parkın doğal güzelliği ve ekolojik dengesini sağlar.
 
 ## Ziyaret Bilgileri
 

@@ -1,7 +1,7 @@
 ---
 title: "Sütçü İmam Türbesi"
 date: "2026-01-10T05:26:48.136Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kahramanmaraş"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391727"
 
 # Sütçü İmam Türbesi
 
-Sütçü İmam Türbesi, Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alan tarihi ve kültürel bir mekan olarak ziyaretçilerini bekliyor. Bu önemli tarihî eser, yaklaşık 140 hektarlık bir alanda, 200 futbol sahası büyüklüğünde bir bölgeyi kaplıyor. Sütçü İmam Türbesi, hem tarihi geçmişi hem de mimari özellikleri ile büyük ilgi görüyor. Ziyaretçiler, buraya gelerek hem dinî bir görevi yerine getiriyor hem de tarihin derinliklerine dalma fırsatı buluyor. Sütçü İmam Türbesi, ziyaretçilerine hem maneviyatı hem de kültürel zenginliği bir arada sunuyor.
+Sütçü İmam Türbesi, Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alan tarihi ve kültürel bir mekan olarak ziyaretçilerini bekliyor. Sütçü İmam Türbesi, hem tarihi geçmişi hem de mimari özellikleri ile büyük ilgi görüyor. Ziyaretçiler, buraya gelerek hem dinî bir görevi yerine getiriyor hem de tarihin derinliklerine dalma fırsatı buluyor. Sütçü İmam Türbesi, ziyaretçilerine hem maneviyatı hem de kültürel zenginliği bir arada sunuyor.
 
 ## Tarihçe
 

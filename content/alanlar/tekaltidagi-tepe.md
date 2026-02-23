@@ -52,9 +52,9 @@ Mevsimsel özellikler bakımından, Tekaltıdağı Tepe ve çevresi, karasal ikl
 
 Tekaltıdağı Tepe, Iğdır'ın yüksek dağ ekosistemini barındıran bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Yüksek dağ ekolojisi ve alpin çayırlar, endemik türlerin yaşamasına elverişli bir ortam sunuyor.
 
-Bitki Örtüsü açısından, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda yaprak döken ağaçlar sarı, turuncu ve kırmızı renklerle dağ manzarasını süsler. Alpin flora, dağların yüksek zonlarında hakimdir. 
+Bitki Örtüsü açısından, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda yaprak döken ağaçlar sarı, turuncu ve kırmızı renklerle dağ manzarasını süsler. Alpin flora, dağların yüksek zonlarında hakimdir.
 
-Yaban Hayatı açısından, dağ keçileri ve yaban keçileri gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu dağlarda yaşamlarını sürdürür. Bu canlılar, dağların yükseklik zonlarına göre dağılım gösterir ve birbirleriyle ekolojik ilişkiler içinde yaşar. 
+Yaban Hayatı açısından, dağ keçileri ve yaban keçileri gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu dağlarda yaşamlarını sürdürür. Bu canlılar, dağların yükseklik zonlarına göre dağılım gösterir ve birbirleriyle ekolojik ilişkiler içinde yaşar.
 
 Ekolojik Değer olarak, Tekaltıdağı Tepe'nin yüksek dağ ekosistemi ve endemik türleri, bu alanı önemli ve korunması gereken bir bölge haline getirir. Bu bölgenin korunması, sadece burada yaşayan canlıların değil, aynı zamanda tüm ekosistemin sürekliliğini sağlar.
 

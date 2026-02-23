@@ -28,7 +28,7 @@ wikidata_id: "Q31386478"
 
 # Gora Byuyuk
 
-Gora Byuyuk, İç Anadolu Bölgesi'nin kalbinde yer alan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplı. Gora Byuyuk, yüzyıllar boyunca insanların merakını çekmiş ve birçok hikayeye konu olmuştur. Tepe, bölgenin coğrafi yapısını şekillendiren önemli bir nokta ve aynı zamanda zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Gora Byuyuk'u ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak.
+Gora Byuyuk, İç Anadolu Bölgesi'nin kalbinde yer alan bir tepe. Gora Byuyuk, yüzyıllar boyunca insanların merakını çekmiş ve birçok hikayeye konu olmuştur. Tepe, bölgenin coğrafi yapısını şekillendiren önemli bir nokta ve aynı zamanda zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Gora Byuyuk'u ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak.
 
 ## Tarihçe
 

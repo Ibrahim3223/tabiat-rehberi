@@ -28,7 +28,7 @@ wikidata_id: "Q31546196"
 
 # Birakasuno Tepesi
 
-Birakasuno Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır. 140 hektarlık bu yeşil alan, bölgeye gelen ziyaretçilere doğanın güzelliğini ve sakinliğini sunar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu doğal güzellik, ziyaretçilerini doğayla baş başa bırakır ve onlara unutulmaz anlar yaşatır.
+ 140 hektarlık bu yeşil alan, bölgeye gelen ziyaretçilere doğanın güzelliğini ve sakinliğini sunar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu doğal güzellik, ziyaretçilerini doğayla baş başa bırakır ve onlara unutulmaz anlar yaşatır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Birakasuno Tepesi, tarihi geçmişi ile dikkat çeker. Yüzyıllar boyunca çeş
 
 ## Coğrafya
 
-Birakasuno Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısının önemli bir parçasıdır. Tepenin etrafında yer alan çeşitli bitki türleri, zengin fauna ve doğal güzellikler, bu bölgenin coğrafyasının ne kadar zengin olduğunu gösterir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu büyük alan, ziyaretçilere doğanın tüm güzelliğini sunar. Tepenin coğrafi konumu, ziyaretçilere bölgenin iklimini, çevresini ve doğal güzelliklerini keşfetme fırsatı sunar. Birakasuno Tepesi, coğrafi açıdan zengin bir bölge olarak dikkat çeker ve ziyaretçilerini doğayla baş başa bırakır.
+Birakasuno Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısının önemli bir parçasıdır. Tepenin etrafında yer alan çeşitli bitki türleri, zengin fauna ve doğal güzellikler, bu bölgenin coğrafyasının ne kadar zengin olduğunu gösterir. Bu büyük alan, ziyaretçilere doğanın tüm güzelliğini sunar. Tepenin coğrafi konumu, ziyaretçilere bölgenin iklimini, çevresini ve doğal güzelliklerini keşfetme fırsatı sunar. Birakasuno Tepesi, coğrafi açıdan zengin bir bölge olarak dikkat çeker ve ziyaretçilerini doğayla baş başa bırakır.
 
 ## Flora ve Fauna
 

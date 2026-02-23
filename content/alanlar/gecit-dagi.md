@@ -50,7 +50,7 @@ Mevsimsel özellikler açısından bakıldığında, Geçit Dağı'nın iklimi K
 
 Geçit Dağı, Artvin'in nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ, gür ormanlarla kaplıdır ve yüksek biyoçeşitlilik sunar. Dağ ekosistemi, yükseklik zonlarına göre farklılaşır ve alpin flora ile dağ hayvanlarını barındırır.
 
-Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, ilkbahar mevsiminde renkli çiçeklerle donanır. Sonbaharda, yaprakların sararması ve dökülmesiyle birlikte, dağ manzarası değişir. Bu mevsimsel değişimler, dağın doğal güzelliğini vurgular. 
+Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, ilkbahar mevsiminde renkli çiçeklerle donanır. Sonbaharda, yaprakların sararması ve dökülmesiyle birlikte, dağ manzarası değişir. Bu mevsimsel değişimler, dağın doğal güzelliğini vurgular.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirilir. Dağda yaşayan hayvanlar, ormanların ve yüksek alanların sunduğu yaşam olanaklarına bağımlıdır. Ekolojik değerini korumak, bu dağ ekosisteminin sürekliliğini sağlamak için önemlidir. Geçit Dağı, biyoçeşitliliğin korunması açısından önemli bir noktada bulunur.
 

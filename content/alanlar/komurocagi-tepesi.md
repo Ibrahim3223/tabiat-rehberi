@@ -28,7 +28,7 @@ wikidata_id: "Q32210237"
 
 # Kömürocağı Tepesi
 
-Kömürocağı Tepesi, Kastamonu'nun eşsiz doğal güzelliklerini sunan bir bölge. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Kömürocağı Tepesi, Karadeniz Bölgesi'nin en yüksek noktalarından biri olarak bilinir ve buradan manzara gerçekten büyüleyici. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+Kömürocağı Tepesi, Kastamonu'nun eşsiz doğal güzelliklerini sunan bir bölge. Kömürocağı Tepesi, Karadeniz Bölgesi'nin en yüksek noktalarından biri olarak bilinir ve buradan manzara gerçekten büyüleyici. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

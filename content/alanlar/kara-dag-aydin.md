@@ -33,9 +33,9 @@ Aydın'ın yeşilin her tonunu sunan doğası, birçok doğal güzelliğe ev sah
 
 ## Tarihçe
 
-Aydın bölgesi, tarihin en eski uygarlıklarına ev sahipliği yapmış bir coğrafyadır. Historical kayıtlara göre, bu bölge M.Ö. 2000'li yıllarda Hititlerin, daha sonra da Lidya ve Perslerin hakimiyeti altına girmiştir. Roma ve Bizans dönemlerinde de önemli bir merkez olarak varlığını sürdürmüştür. 
+Aydın bölgesi, tarihin en eski uygarlıklarına ev sahipliği yapmış bir coğrafyadır. Historical kayıtlara göre, bu bölge M.Ö. 2000'li yıllarda Hititlerin, daha sonra da Lidya ve Perslerin hakimiyeti altına girmiştir. Roma ve Bizans dönemlerinde de önemli bir merkez olarak varlığını sürdürmüştür.
 
-Kara Dağ gibi doğal alanlar, Türkiye'nin tarihsel zenginliğinin önemli bir parçasıdır. Bu tür alanlar, insan yerleşimlerinin, ticaret yollarının ve kültürel etkileşimlerin merkezinde yer almıştır. Özellikle yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisine ve kültürüne önemli katkılar sağlamıştır. 
+Kara Dağ gibi doğal alanlar, Türkiye'nin tarihsel zenginliğinin önemli bir parçasıdır. Bu tür alanlar, insan yerleşimlerinin, ticaret yollarının ve kültürel etkileşimlerin merkezinde yer almıştır. Özellikle yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomisine ve kültürüne önemli katkılar sağlamıştır.
 
 Aydın bölgesindeki doğal güzellikler, tarih boyunca insanların yaşamını etkileyen önemli faktörlerden biri olmuştur. Bölgenin coğrafi özellikleri, insanları çeşitli faaliyetlere yöneltmiş ve bu da bölgenin kültürel kimliğine katkıda bulunmuştur. Kara Dağ da, bu doğal güzelliklerin önemli bir parçası olarak, bölgenin tarihsel ve kültürel bağlamında önemli bir yere sahiptir.
 
@@ -51,9 +51,9 @@ Jeolojik yapısı ve coğrafi konumu itibariyle Kara Dağ, çevresindeki su kayn
 
 ## Flora ve Fauna
 
-Kara Dağ, Aydın'ın zeytinlikler ve çam ormanlarıyla çevrili bir dağ ekosistemi sunar. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Yükseklik zonlarına bağlı olarak değişen bitki örtüsü, çam ormanlarından alpin flora'ya kadar çeşitlilik gösterir. 
+Kara Dağ, Aydın'ın zeytinlikler ve çam ormanlarıyla çevrili bir dağ ekosistemi sunar. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Yükseklik zonlarına bağlı olarak değişen bitki örtüsü, çam ormanlarından alpin flora'ya kadar çeşitlilik gösterir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağların yüksek kesimlerinde, yırtıcı kuşlar gibi bazı türler yuvalarını kurar. Sonbaharda, göçmen kuşlar bu alanı ziyaret eder, beslenir ve konaklar. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağların yüksek kesimlerinde, yırtıcı kuşlar gibi bazı türler yuvalarını kurar. Sonbaharda, göçmen kuşlar bu alanı ziyaret eder, beslenir ve konaklar.
 
 Kara Dağ, bölgenin ekolojik dengesi için önemli bir rol oynar. Bu dağ ekosisteminin korunması, zeytinlikler ve çam ormanlarının sürekliliğiçin hayati öneme sahiptir. Doğal yaşam alanlarının korunması, bu bölgenin biyolojik çeşitliliğini korumak için son derece önemlidir.
 

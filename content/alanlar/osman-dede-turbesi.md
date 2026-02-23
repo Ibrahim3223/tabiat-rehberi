@@ -1,7 +1,7 @@
 ---
 title: "Osman Dede Türbesi"
 date: "2026-01-10T05:26:13.346Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391739"
 
 # Osman Dede Türbesi
 
-Osman Dede Türbesi, Fatih ilçesinde, İstanbul'un kalbinde yer alan bir tarihi ve doğal güzelliğin birleşimidir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilere geniş bir yeşil alan sunar. Bu tarihi mekan, İstanbul'un zengin tarihini ve kültürel mirasını yansıtır. Osman Dede Türbesi, İstanbul'un en önemli tarihi mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ilgi görür.
+Osman Dede Türbesi, Fatih ilçesinde, İstanbul'un kalbinde yer alan bir tarihi ve doğal güzelliğin birleşimidir. Bu tarihi mekan, İstanbul'un zengin tarihini ve kültürel mirasını yansıtır. Osman Dede Türbesi, İstanbul'un en önemli tarihi mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ilgi görür.
 
 ## Tarihçe
 

@@ -28,12 +28,12 @@ wikidata_id: "Q31568601"
 
 # Doruklar Tepesi
 
-Türkiye'nin en güzel doğal güzelliklerinden biri olan Doruklar Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor. Bu güzel tepe, Türkiye'nin farklı bir bölgesinde yer alıyor. Doğal güzelliği ve temiz havasıyla dikkat çekiyor. 
+Türkiye'nin en güzel doğal güzelliklerinden biri olan Doruklar Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılıyor. Bu güzel tepe, Türkiye'nin farklı bir bölgesinde yer alıyor. Doğal güzelliği ve temiz havasıyla dikkat çekiyor.
 Ziyaretçilerini doğayla baş başa bırakıyor.
 
 ## Tarihçe
 
-Doruklar Tepesi, Türkiye'nin zengin doğal mirasının önemli bir parçasını oluşturan bir bölgedir. Bu bölge, tarihin sâu sayfalarında yer alan çeşitli uygarlıkların izlerini taşır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada yaşamış ve bölgenin kültürel dokusuna katkıda bulunmuşlardır.
+Doruklar Tepesi, Türkiye'nin zengin doğal mirasının önemli bir parçasını oluşturan bir bölgedir. Bu bölge, tarihin derin sayfalarında yer alan çeşitli uygarlıkların izlerini taşır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada yaşamış ve bölgenin kültürel dokusuna katkıda bulunmuşlardır.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve sosyal hayatının temelini oluşturmuştur. İnsanlar, bu doğal alanları sadece ekonomik faaliyetler için değil, aynı zamanda dinlenme ve ibadet amaçları için de kullanmışlardır.
 

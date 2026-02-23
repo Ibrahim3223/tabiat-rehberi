@@ -1,7 +1,7 @@
 ---
 title: "Mehmet Vusuli Efendi Türbesi"
 date: "2026-01-10T07:19:16.545Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391055"
 
 # Mehmet Vusuli Efendi Türbesi
 
-Mehmet Vusuli Efendi Türbesi, İstanbul'un tarihi ve kültürel mirasının önemli bir parçasıdır. Eyüpsultan ilçesinde bulunan bu türbe, Marmara Bölgesi'nin coğrafi güzelliklerini de bünyesinde barındırır. Türbenin bulunduğu alan, yaklaşık olarak 140 hektarlık bir yeşil alanın içinde yer alır, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu büyük yeşil alan, hem tarihi hem de doğal güzelliklerin bir araya geldiği ender noktalardan biridir. Mehmet Vusuli Efendi Türbesi, ziyaretçilerini tarihi ve doğal bir maceraya davet eder.
+Mehmet Vusuli Efendi Türbesi, İstanbul'un tarihi ve kültürel mirasının önemli bir parçasıdır. Eyüpsultan ilçesinde bulunan bu türbe, Marmara Bölgesi'nin coğrafi güzelliklerini de bünyesinde barındırır. Bu büyük yeşil alan, hem tarihi hem de doğal güzelliklerin bir araya geldiği ender noktalardan biridir. Mehmet Vusuli Efendi Türbesi, ziyaretçilerini tarihi ve doğal bir maceraya davet eder.
 
 ## Tarihçe
 

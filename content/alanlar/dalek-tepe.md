@@ -28,7 +28,7 @@ wikidata_id: "Q31573047"
 
 # Dalek Tepe
 
-Diyarbakır'ın histórik dokusu içinde yükselen Dalek Tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Bu dağ, Diyarbakır'ın coğrafi yapısını şekillendiren önemli bir oluşum. Dalek Tepe, Diyarbakır'ın şehir merkezine yakın konumda bulunuyor ve bölgeye hakim bir konumda yer alıyor. Bu tepe, şehrin tarihi ve doğal güzelliklerini bir araya getiren özel bir địa punto olarak dikkat çekiyor.
+Diyarbakır'ın tarihi dokusu içinde yükselen Dalek Tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Bu dağ, Diyarbakır'ın coğrafi yapısını şekillendiren önemli bir oluşum. Dalek Tepe, Diyarbakır'ın şehir merkezine yakın konumda bulunuyor ve bölgeye hakim bir konumda yer alıyor. Bu tepe, şehrin tarihi ve doğal güzelliklerini bir araya getiren özel bir địa punto olarak dikkat çekiyor.
 
 ## Tarihçe
 

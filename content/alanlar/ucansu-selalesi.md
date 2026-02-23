@@ -30,7 +30,7 @@ wikidata_id: "Q20474440"
 
 # Uçansu Şelalesi
 
-Uçansu Şelalesi, Antalya'nın görkemli doğası içinde saklı bir hazine olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve yemyeşil bir atmosfer sunuyor. Şelalenin sesi, ziyaretçilerini bir doğa müziği ile karşılıyor. Uçansu Şelalesi, hem yerli hem de yabancı turistlerin ilgi odağı oluyor. Şelalenin etrafındaki yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için ideal bir ortam sunuyor.
+Uçansu Şelalesi, Antalya'nın görkemli doğası içinde saklı bir hazine olarak karşımıza çıkıyor. Şelalenin sesi, ziyaretçilerini bir doğa müziği ile karşılıyor. Uçansu Şelalesi, hem yerli hem de yabancı turistlerin ilgi odağı oluyor. Şelalenin etrafındaki yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için ideal bir ortam sunuyor.
 
 ## Tarihçe
 

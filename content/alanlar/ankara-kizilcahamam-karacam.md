@@ -1,7 +1,7 @@
 ---
 title: "Ankara-Kizilcahamam Karacam"
 date: "2026-01-09T20:42:46.937Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Ankara"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227477"
 
 # Ankara-Kizilcahamam Karacam
 
-Ankara-Kizilcahamam Karacam Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte çeşitli bitki türleri ve hayvanlar barındırıyor. Park, Ankara'nın kuzeydoğusunda, Kizilcahamam ilçesine bağlı Karacam köyü yakınlarında bulunuyor. Burada, yaban hayatı ve doğanın güzelliğini keşfetme mümkün. Parka gelenlerin, doğayla iç içe bir gün geçirmesi ve bu eşsiz güzelliği deneyimlemesi bekleniyor.
+Ankara-Kizilcahamam Karacam Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik. Park, Ankara'nın kuzeydoğusunda, Kizilcahamam ilçesine bağlı Karacam köyü yakınlarında bulunuyor. Burada, yaban hayatı ve doğanın güzelliğini keşfetme mümkün. Parka gelenlerin, doğayla iç içe bir gün geçirmesi ve bu eşsiz güzelliği deneyimlemesi bekleniyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Ankara-Kizilcahamam Karacam Milli Parkı'nın tarihi geçmişi, yüzyıllar önc
 
 ## Coğrafya
 
-Ankara-Kizilcahamam Karacam Milli Parkı, coğrafi olarak oldukça zengin bir yapıya sahip. Park, 140 hektarlık bir alan kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Burada, ormanlar, çayır ve meralar gibi farklı ekosistemler bulunmakta. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, karasal bir iklime sahip. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkiliyor. Parka gelenler, bu doğal güzelliği ve coğrafi çeşitliliği keşfetme fırsatı buluyor.
+Ankara-Kizilcahamam Karacam Milli Parkı, coğrafi olarak oldukça zengin bir yapıya sahip. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Burada, ormanlar, çayır ve meralar gibi farklı ekosistemler bulunmakta. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer, karasal bir iklime sahip. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, parkın flora ve faunasının çeşitliliğini etkiliyor. Parka gelenler, bu doğal güzelliği ve coğrafi çeşitliliği keşfetme fırsatı buluyor.
 
 ## Flora ve Fauna
 

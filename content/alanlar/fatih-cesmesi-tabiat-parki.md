@@ -1,7 +1,7 @@
 ---
 title: "Fatih Çeşmesi Tabiat Parkı"
 date: "2026-01-09T21:48:50.401Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q30623268"
 
 # Fatih Çeşmesi Tabiat Parkı
 
-Fatih Çeşmesi Tabiat Parkı, İstanbul'un Eyüpsultan ilçesinde yer alan 140 hektarlık geniş bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile karşılar. Parkın içerisinde çeşitli bitki türleri ve hayvanlar bulunur. Ziyaretçiler, parkın içerisinde yürüyüş yapabilir, piknik alanlarını kullanabilir ve doğayı keşfedebilir. Fatih Çeşmesi Tabiat Parkı, özellikle hafta sonları ve tatil günlerinde ziyaretçilerin tercih ettiği bir yerdir.
+Fatih Çeşmesi Tabiat Parkı, İstanbul'un Eyüpsultan ilçesinde yer alan 140 hektarlık geniş bir alana sahiptir. Parkın içerisinde çeşitli bitki türleri ve hayvanlar bulunur. Ziyaretçiler, parkın içerisinde yürüyüş yapabilir, piknik alanlarını kullanabilir ve doğayı keşfedebilir. Fatih Çeşmesi Tabiat Parkı, özellikle hafta sonları ve tatil günlerinde ziyaretçilerin tercih ettiği bir yerdir.
 
 ## Tarihçe
 

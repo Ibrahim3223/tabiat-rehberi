@@ -1,7 +1,7 @@
 ---
 title: "Tavşancıl Tarihi Hamamı"
 date: "2026-01-09T23:52:46.664Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739235"
 
 # Tavşancıl Tarihi Hamamı
 
-Tavşancıl Tarihi Hamamı, Kocaeli'nin Dilovası ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile dikkat çekici bir mekan. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki doğal güzelliklerle birlikte ziyaretçilerini etkiliyor. Tavşancıl Tarihi Hamamı, tarihi geçmişi ve doğal güzellikleriyle birlikte hem yerel halkın hem de ziyaretçilerin ilgisini çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki doğal güzelliklerle birlikte ziyaretçilerini etkiliyor.
+Tavşancıl Tarihi Hamamı, Kocaeli'nin Dilovası ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile dikkat çekici bir mekan. Tavşancıl Tarihi Hamamı, tarihi geçmişi ve doğal güzellikleriyle birlikte hem yerel halkın hem de ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 

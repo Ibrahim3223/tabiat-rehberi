@@ -28,7 +28,7 @@ wikidata_id: "Q31389982"
 
 # Akbayır Tepesi
 
-Akbayır Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Akbayır Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bitki türleri, mevsimsel değişimlere göre farklı renkler ve kokular sunuyor.
+Akbayır Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Akbayır Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Tepenin etrafı, çeşitli bitki türleri ile kaplı ve bu bitki türleri, mevsimsel değişimlere göre farklı renkler ve kokular sunuyor.
 
 ## Tarihçe
 

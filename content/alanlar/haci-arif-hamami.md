@@ -1,7 +1,7 @@
 ---
 title: "Hacı Arif Hamamı"
 date: "2026-01-09T23:16:42.281Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739009"
 
 # Hacı Arif Hamamı
 
-Karadeniz Bölgesi'nin en güzel illerinden biri olan Trabzon'un Ortahisar ilçesinde yer alan Hacı Arif Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir hareket alanı sunuyor. Hacı Arif Hamamı, karayolu ile kolayca ulaşılabilen bir konumda olmasıyla da dikkat çekiyor. Ziyaretçiler, bu güzel plajda denize girerek serinleyebilir, güneşin tadını çıkarabilir veya doğa yürüyüşü yapabilir.
+Karadeniz Bölgesi'nin en güzel illerinden biri olan Trabzon'un Ortahisar ilçesinde yer alan Hacı Arif Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor. Hacı Arif Hamamı, karayolu ile kolayca ulaşılabilen bir konumda olmasıyla da dikkat çekiyor. Ziyaretçiler, bu güzel plajda denize girerek serinleyebilir, güneşin tadını çıkarabilir veya doğa yürüyüşü yapabilir.
 
 ## Tarihçe
 

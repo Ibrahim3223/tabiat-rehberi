@@ -1,7 +1,7 @@
 ---
 title: "Yunus Dede Türbesi"
 date: "2026-01-10T07:29:04.101Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391026"
 
 # Yunus Dede Türbesi
 
-Yunus Dede Türbesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak görevi görür. Türbenin tarihi geçmişi ve çevresindeki doğal güzellikler, ziyaretçilere benzersiz bir deneyim sunar. Konum olarak Marmara Bölgesi'nde bulunan bu mekan, coğrafi konumu itibarıyla da dikkat çekicidir.
+Yunus Dede Türbesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Türbenin tarihi geçmişi ve çevresindeki doğal güzellikler, ziyaretçilere benzersiz bir deneyim sunar. Konum olarak Marmara Bölgesi'nde bulunan bu mekan, coğrafi konumu itibarıyla da dikkat çekicidir.
 
 ## Tarihçe
 

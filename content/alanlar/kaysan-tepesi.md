@@ -28,7 +28,7 @@ wikidata_id: "Q31505257"
 
 # Kaysan Tepesi
 
-Kaysan Tepesi, Manisa'nın Ege Bölgesi'nde yer alan bir tepe ve doğa harikası. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplıyor. Bu güzel tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Kaysan Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir bölge. Tepenin zirvesinden Manisa'nın panoramik manzarasını izleme mümkün.
+Kaysan Tepesi, Manisa'nın Ege Bölgesi'nde yer alan bir tepe ve doğa harikası. Bu güzel tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Kaysan Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir bölge. Tepenin zirvesinden Manisa'nın panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 

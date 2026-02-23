@@ -28,7 +28,7 @@ wikidata_id: "Q31551728"
 
 # Kelka Tepesi
 
-Kelka Tepesi, Mardin'in güneydoğu kısmında yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile büyülüyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Kelka Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yer.
+Kelka Tepesi, Mardin'in güneydoğu kısmında yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Kelka Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yer.
 
 ## Tarihçe
 

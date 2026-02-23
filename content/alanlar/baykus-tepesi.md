@@ -28,7 +28,7 @@ wikidata_id: "Q31390827"
 
 # Baykuş Tepesi
 
-Yozgat'ın İç Anadolu Bölgesi'nde bulunan Baykuş Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan ve 200 futbol sahası büyüklüğünde olan bir tepe. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak bilinir. Baykuş Tepesi, ziyaretçilerini doğanın içinde huzurlu bir atmosfere davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrabilir. Baykuş Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+ Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak bilinir. Baykuş Tepesi, ziyaretçilerini doğanın içinde huzurlu bir atmosfere davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrabilir. Baykuş Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 

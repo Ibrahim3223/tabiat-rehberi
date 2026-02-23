@@ -33,7 +33,7 @@ wikidata_id: "Q49645707"
 
 ## Tarihçe
 
-İzmir régionu, binlerce yıllık bir geçmişe sahip zengin bir tarihî mirasa ev sahipliği yapar. Bu bölge, antik Çağdan itibaren various uygarlıkların yerleşim yeri olmuştur. Hititler, Lidyalılar, Persler ve Roma İmparatorluğu gibi medeniyetler, İzmir'i ve çevresini önemli bir ticaret ve kültür merkezi olarak değerlendirmişlerdir.
+İzmir bölgeyi, binlerce yıllık bir geçmişe sahip zengin bir tarihî mirasa ev sahipliği yapar. Bu bölge, antik Çağdan itibaren various uygarlıkların yerleşim yeri olmuştur. Hititler, Lidyalılar, Persler ve Roma İmparatorluğu gibi medeniyetler, İzmir'i ve çevresini önemli bir ticaret ve kültür merkezi olarak değerlendirmişlerdir.
 
 Kel Adası da, bu tarihsel zenginliğin bir parçasıdır. Türkiye'de, özellikle Ege ve Akdeniz bölgelerinde bulunan doğal alanlar, insan yerleşimlerinin ve faaliyetlerinin önemli bir parçası olmuştur. Yaylacılık, hayvancılık ve tarım, bu bölgelerin ekonomisinde önemli rol oynamıştır. Ayrıca, tarihi ticaret yolları, bu doğal alanlardan geçerek, bölgenin ekonomi ve kültürel gelişimine katkıda bulunmuştur.
 

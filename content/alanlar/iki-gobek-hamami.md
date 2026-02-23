@@ -1,7 +1,7 @@
 ---
 title: "İki Göbek Hamamı"
 date: "2026-01-09T22:28:02.545Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738426"
 
 # İki Göbek Hamamı
 
-İki Göbek Hamamı, Erzurum'un Yakutiye ilçesinde, Doğu Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yüksek dağlarla çevrili bir vadi içinde bulunmaktadır. Bu doğal güzellik, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. İnsanlar, bu muhteşem manzarayı görme ve doğanın tadını çıkarmak için buraya akın etmektedirler. İki Göbek Hamamı, ziyaretçilerine unutulmaz bir deneyim sunmaktadır.
+İki Göbek Hamamı, Erzurum'un Yakutiye ilçesinde, Doğu Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu doğal güzellik, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. İnsanlar, bu muhteşem manzarayı görme ve doğanın tadını çıkarmak için buraya akın etmektedirler.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ wikidata_id: "Q131738426"
 
 ## Ziyaret Bilgileri
 
-İki Göbek Hamamı'na ziyaretçiler, kolay bir şekilde ulaşabilmektedir. Bu bölge, Erzurum'un Yakutiye ilçesinde yer almaktadır. İnsanlar, buraya gelerek, doğanın tadını çıkarmakta ve İki Göbek Hamamı'nın doğal güzelliğini görmektedir. Ziyaretçilerin, buraya gelmeden önce, mevsimsel koşulları göz önünde bulundurmaları önerilmektedir. İki Göbek Hamamı, ziyaretçilerine unutulmaz bir deneyim sunmaktadır.
+İki Göbek Hamamı'na ziyaretçiler, kolay bir şekilde ulaşabilmektedir. Bu bölge, Erzurum'un Yakutiye ilçesinde yer almaktadır. İnsanlar, buraya gelerek, doğanın tadını çıkarmakta ve İki Göbek Hamamı'nın doğal güzelliğini görmektedir. Ziyaretçilerin, buraya gelmeden önce, mevsimsel koşulları göz önünde bulundurmaları önerilmektedir.
 
 ## İlginç Bilgiler
 

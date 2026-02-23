@@ -1,7 +1,7 @@
 ---
 title: "Şirinoğlu Hamamı"
 date: "2026-01-09T23:42:33.195Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739161"
 
 # Şirinoğlu Hamamı
 
-Sivas ilinin merkezinde yer alan Şirinoğlu Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan tarihi ve doğal bir güzelliğe sahip. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Şirinoğlu Hamamı, Sivas'ın önemli tarihi mekanlarından biri olarak kabul ediliyor ve şehre gelenlerin mutlaka ziyaret etmesi gereken bir yer.
+Sivas ilinin merkezinde yer alan Şirinoğlu Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan tarihi ve doğal bir güzelliğe sahip. Şirinoğlu Hamamı, Sivas'ın önemli tarihi mekanlarından biri olarak kabul ediliyor ve şehre gelenlerin mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sivas ilinin merkezinde yer alan Şirinoğlu Hamamı, yaklaşık 140 hektarlık 
 
 ## Coğrafya
 
-Şirinoğlu Hamamı, Sivas ilinin merkezinde yer alıyor ve şehrin coğrafi yapısına uygun olarak tasarlanmış. Bu alan, yaklaşık 140 hektarlık bir bölgeyi kapsıyor ve şehrin natural güzelliğini yansıtan önemli bir nokta. Şirinoğlu Hamamı'nın coğrafi konumu, şehre gelen ziyaretçilerin rahatça ulaşabileceği bir konumda. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna encontrable. Bu coğrafi bölge, Sivas'ın doğal güzelliklerini yansıtan önemli bir alan olarak kabul ediliyor.
+Şirinoğlu Hamamı, Sivas ilinin merkezinde yer alıyor ve şehrin coğrafi yapısına uygun olarak tasarlanmış. Şirinoğlu Hamamı'nın coğrafi konumu, şehre gelen ziyaretçilerin rahatça ulaşabileceği bir konumda. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna encontrable. Bu coğrafi bölge, Sivas'ın doğal güzelliklerini yansıtan önemli bir alan olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

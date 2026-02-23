@@ -33,9 +33,9 @@ Muğla'nın eşsiz doğal güzelliklerini barındıran topraklarında, Orak Adas
 
 ## Tarihçe
 
-Muğla bölgesinin zengin tarihi, Orak Adası'nın da bir parçası olduğu geniş coğrafyanın önemli bir bölümünü oluşturur. Bu bölge, tarih boyunca birçok uygarlığın yaşam alanı olarak hizmet vermiştir. Antik Çağ'da Karya ve Likya uygarlıklarının izlerini taşıyan Muğla, daha sonra Roma ve Bizans dönemlerini yaşamıştır. 
+Muğla bölgesinin zengin tarihi, Orak Adası'nın da bir parçası olduğu geniş coğrafyanın önemli bir bölümünü oluşturur. Bu bölge, tarih boyunca birçok uygarlığın yaşam alanı olarak hizmet vermiştir. Antik Çağ'da Karya ve Likya uygarlıklarının izlerini taşıyan Muğla, daha sonra Roma ve Bizans dönemlerini yaşamıştır.
 
-Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Ülkemiz, coğrafi konumu itibarıyla tarihi ticaret yollarının kesişme noktasında yer alır. Muğla bölgesindeki doğal güzellikler, yaylacılık, hayvancılık ve tarım faaliyetleri için her zaman çekim merkezi olmuştur. İnsanlar, bu alanları sadece doğal güzelliğiçin değil, aynı zamanda ekonomik faaliyetleri için de kullanmışlardır. 
+Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Ülkemiz, coğrafi konumu itibarıyla tarihi ticaret yollarının kesişme noktasında yer alır. Muğla bölgesindeki doğal güzellikler, yaylacılık, hayvancılık ve tarım faaliyetleri için her zaman çekim merkezi olmuştur. İnsanlar, bu alanları sadece doğal güzelliğiçin değil, aynı zamanda ekonomik faaliyetleri için de kullanmışlardır.
 
 Orak Adası da, bu bölgenin bir parçası olarak, insanların yaşamına ve ekonomik faaliyetlerine katkıda bulunmuştur. Adanın konumu ve doğal özellikleri, insanların burada çeşitli faaliyetlerde bulunmalarına olanak tanımıştır. Bu tür doğal alanlar, Türkiye'nin kültürel ve tarihsel zenginliğinin önemli bir bölümünü oluşturur ve korumak için büyük önem taşırlar.
 
@@ -51,11 +51,11 @@ Mevsimsel özelliklere bakıldığında, Orak Adası, Ege Denizi'nin karakterist
 
 ## Flora ve Fauna
 
-Orak Adası, Muğla'nın çam ormanları ve zeytinlikleriyle çevrili bir cennet. İklimi, Akdeniz'in karakteristik özellikleri taşır. Ada ekosistemi, izole popülasyonlar ve deniz kuşlarıyla dikkat çeker. 
+Orak Adası, Muğla'nın çam ormanları ve zeytinlikleriyle çevrili bir cennet. İklimi, Akdeniz'in karakteristik özellikleri taşır. Ada ekosistemi, izole popülasyonlar ve deniz kuşlarıyla dikkat çeker.
 
-Bitki örtüsünde, çam ağaçları ve zeytinlikler hakimdir. İlkbaharda, ada renklenir ve çeşitli çiçekler açar. Sonbaharda ise, göçmen kuşlar adayı ziyaret eder ve ekosisteme renk katar. 
+Bitki örtüsünde, çam ağaçları ve zeytinlikler hakimdir. İlkbaharda, ada renklenir ve çeşitli çiçekler açar. Sonbaharda ise, göçmen kuşlar adayı ziyaret eder ve ekosisteme renk katar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Deniz kuşları, ada kıyılarını mesken tutar. Sürüngenler, ada ekosisteminin önemli bir parçasını oluşturur. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Deniz kuşları, ada kıyılarını mesken tutar. Sürüngenler, ada ekosisteminin önemli bir parçasını oluşturur.
 
 Ekolojik değeri, ada ekosisteminin izole olması ve çeşitli türlerin barınmasına olanak sağlamasıdır. Bu nedenle, koruma altına alınması önemlidir.
 

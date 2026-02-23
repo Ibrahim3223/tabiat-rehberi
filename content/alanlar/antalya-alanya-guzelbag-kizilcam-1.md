@@ -22,7 +22,7 @@ wikidata_id: "Q108227298"
 
 # Antalya-Alanya-Guzelbag Kızılçam 1
 
-Antalya-Alanya-Guzelbag Kızılçam 1, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içine davet ediyor. Burada, kızılçam ağaçları ile birlikte çeşitli bitki türleri ve zengin fauna found. Bu milli park, hem doğa severlerin hem de macera arayışındaki kişilerin ziyaret etmesi gereken bir yer.
+Antalya-Alanya-Guzelbag Kızılçam 1, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Burada, kızılçam ağaçları ile birlikte çeşitli bitki türleri ve zengin fauna found. Bu milli park, hem doğa severlerin hem de macera arayışındaki kişilerin ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Alanya-Guzelbag Kızılçam 1'in tarihi geçmişi, yüzyıllar boyunca �
 
 ## Coğrafya
 
-Antalya-Alanya-Guzelbag Kızılçam 1, Akdeniz Bölgesi'nin coğrafi olarak en önemli bölgelerinden biridir. Bu milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, bu bölge kızılçam ağaçları ile birlikte çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. İklimi, Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Çevre, doğal güzelliği koruma altına alınmış ve ziyaretçilerin bu güzelliği korurken deneyimlemesi amaçlanıyor. Bu bölge, aynı zamanda doğal yürüyüş parkurları ve gözlem noktaları ile ziyaretçilere doğayı keşfetme imkanı sunuyor.
+Antalya-Alanya-Guzelbag Kızılçam 1, Akdeniz Bölgesi'nin coğrafi olarak en önemli bölgelerinden biridir. Coğrafi olarak, bu bölge kızılçam ağaçları ile birlikte çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. İklimi, Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Çevre, doğal güzelliği koruma altına alınmış ve ziyaretçilerin bu güzelliği korurken deneyimlemesi amaçlanıyor. Bu bölge, aynı zamanda doğal yürüyüş parkurları ve gözlem noktaları ile ziyaretçilere doğayı keşfetme imkanı sunuyor.
 
 ## Flora ve Fauna
 

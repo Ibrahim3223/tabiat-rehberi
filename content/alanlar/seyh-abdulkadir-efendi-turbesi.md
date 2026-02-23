@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Abdülkadir Efendi Türbesi"
 date: "2026-01-10T07:42:25.216Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391133"
 
 # Şeyh Abdülkadir Efendi Türbesi
 
-Şeyh Abdülkadir Efendi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir tarihi türbedir. Bu bölge, 140 hektarlık geniş bir alana yayılmıştır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, hem tarihi hem de doğal güzellikleri bir arada sunar. Şeyh Abdülkadir Efendi Türbesi, özellikle İstanbul'un tarihine meraklı olanların ziyaret edebileceği bir yerdir. Ayrıca, türbenin yakınında bulunan plaj, ziyaretçilere dinlenme ve güneşlenme imkanı sunar. Bu bölgede, çeşitli etkinlikler ve faaliyetler düzenlenmektedir.
+Şeyh Abdülkadir Efendi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir tarihi türbedir. Bu bölge, 140 hektarlık geniş bir alana yayılmıştır. Şeyh Abdülkadir Efendi Türbesi, özellikle İstanbul'un tarihine meraklı olanların ziyaret edebileceği bir yerdir. Ayrıca, türbenin yakınında bulunan plaj, ziyaretçilere dinlenme ve güneşlenme imkanı sunar. Bu bölgede, çeşitli etkinlikler ve faaliyetler düzenlenmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391133"
 
 ## Coğrafya
 
-Şeyh Abdülkadir Efendi Türbesi, Eyüpsultan ilçesinde yer alan bir bölgedir. Bu bölge, Marmara Bölgesi'nde bulunmaktadır. Türbenin bulunduğu alan, 140 hektarlık geniş bir araziye sahiptir. Bu arazi, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir alanı sunar. Bölge, deniz seviyesinden yüksek değildir ve deniz kenarına yakındır. Ayrıca, türbenin yakınında bulunan plaj, ziyaretçilere dinlenme ve güneşlenme imkanı sunar. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzerdir. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve güneşlidir.
+Şeyh Abdülkadir Efendi Türbesi, Eyüpsultan ilçesinde yer alan bir bölgedir. Bu bölge, Marmara Bölgesi'nde bulunmaktadır. Türbenin bulunduğu alan, 140 hektarlık geniş bir araziye sahiptir. Bölge, deniz seviyesinden yüksek değildir ve deniz kenarına yakındır. Ayrıca, türbenin yakınında bulunan plaj, ziyaretçilere dinlenme ve güneşlenme imkanı sunar. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzerdir. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve güneşlidir.
 
 ## Flora ve Fauna
 

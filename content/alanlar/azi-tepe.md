@@ -28,7 +28,7 @@ wikidata_id: "Q31389539"
 
 # Azı Tepe
 
-Azı Tepe, Karaman'ın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Bu tepe, aynı zamanda Karaman'ın önemli tarihi ve kültürel değerlerini barındırıyor. Azı Tepe, şehrin merkezinde yer alması nedeniyle kolayca ulaşılabilir ve ziyaretçilerini bekliyor.
+Azı Tepe, Karaman'ın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Bu tepe, aynı zamanda Karaman'ın önemli tarihi ve kültürel değerlerini barındırıyor. Azı Tepe, şehrin merkezinde yer alması nedeniyle kolayca ulaşılabilir ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Azı Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe, t
 
 ## Coğrafya
 
-Azı Tepe, Karaman'ın merkezinde yer alan bir tepe. Bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Azı Tepe'nin coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. Azı Tepe, aynı zamanda Karaman'ın iklimini yansıtan bir bölge. Bu tepe, ziyaretçilerine şehrin doğal güzelliklerini sunuyor. Azı Tepe'nin coğrafi yapısı, ziyaretçilerine geniş bir alan sunuyor ve şehrin merkezinde yer alması nedeniyle kolayca ulaşılabilir.
+Azı Tepe, Karaman'ın merkezinde yer alan bir tepe. Azı Tepe'nin coğrafi konumu, ziyaretçilerine geniş bir görüş açısı sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. Azı Tepe, aynı zamanda Karaman'ın iklimini yansıtan bir bölge. Bu tepe, ziyaretçilerine şehrin doğal güzelliklerini sunuyor. Azı Tepe'nin coğrafi yapısı, ziyaretçilerine geniş bir alan sunuyor ve şehrin merkezinde yer alması nedeniyle kolayca ulaşılabilir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Azı Tepe, ziyaretçilerine kolayca ulaşılabilir bir destinasyon sunuyor. Bu t
 ## İlginç Bilgiler
 
 - Azı Tepe, Karaman'ın tarihi ve doğal güzellikleri arasında yer alıyor.
-- Bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Azı Tepe, ziyaretçilerine geniş bir görüş açısı sunuyor.
 - Bu tepe, Karaman'ın iklimini yansıtan bir bölge.
 - Azı Tepe, çeşitliliği ile dikkat çeken bir bölge.

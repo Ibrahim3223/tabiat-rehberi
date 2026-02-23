@@ -28,7 +28,7 @@ wikidata_id: "Q34810520"
 
 # İnüstü Tepesi
 
-İnüstü Tepesi, İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. İnüstü Tepesi, Kayseri ilinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir ortam sunuyor. İnüstü Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
+İnüstü Tepesi, İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. İnüstü Tepesi, Kayseri ilinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir ortam sunuyor. İnüstü Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Tarihçe
 

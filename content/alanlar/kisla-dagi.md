@@ -50,9 +50,9 @@ Kışla Dağı, çevresindeki diğer coğrafi oluşumlarla da bağlantılıdır.
 
 ## Flora ve Fauna
 
-Kışla Dağı, Antalya'nın kıyı ekosisteminin içinde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, maki bitki örtüsünün hakim olduğu bir alan olarak, kuraklığa dayanıklı türlerin yaşam alanıdır. 
+Kışla Dağı, Antalya'nın kıyı ekosisteminin içinde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, maki bitki örtüsünün hakim olduğu bir alan olarak, kuraklığa dayanıklı türlerin yaşam alanıdır.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Bu mevsimsel değişim, dağ ekosisteminin yükseklik zonlarına bağlı olarak değişen alpin florayı da ortaya çıkarır. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Bu mevsimsel değişim, dağ ekosisteminin yükseklik zonlarına bağlı olarak değişen alpin florayı da ortaya çıkarır.
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitli gruplardan oluşur. Kış mevsiminde, göçmen kuşlar dağların yüksek kesimlerinde konaklar. Bu ekosistemin korunması, bu canlıların yaşam alanlarının korunması anlamına gelir.
 

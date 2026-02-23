@@ -1,7 +1,7 @@
 ---
 title: "Saya Baba Türbesi"
 date: "2026-01-10T05:34:02.508Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391378"
 
 # Saya Baba Türbesi
 
-Saya Baba Türbesi, İhsaniye ilçesi sınırları içerisinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir nokta. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor, bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Saya Baba Türbesi, ziyaretçilerini hem tarihi geçmişiyle hem de doğal güzelliği ile büyülüyor. Tarihi ve coğrafi özellikleriyle dikkat çeken bu türbe, doğa severler ve tarih meraklıları için önemli bir destinasyon.
+Saya Baba Türbesi, İhsaniye ilçesi sınırları içerisinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir nokta. Saya Baba Türbesi, ziyaretçilerini hem tarihi geçmişiyle hem de doğal güzelliği ile büyülüyor. Tarihi ve coğrafi özellikleriyle dikkat çeken bu türbe, doğa severler ve tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 

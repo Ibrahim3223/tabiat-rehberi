@@ -50,13 +50,13 @@ Son olarak, Rupin Dağı'nın çevresel ilişkileri, bölgenin su kaynakları ve
 
 ## Flora ve Fauna
 
-Rupin Dağı, yüksek dağ ekolojisinin zenginliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlk baharda, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, çeşitli bitki türleriyle kaplıdır. 
-Yaz aylarında, dağ keçileri ve yaban keçileri, yüksek zonların taşlı ve kayalık arazilerinde yaşamlarını sürdürürler. 
-Sonbaharda, göçmen kuşlar, dağların üzerinden geçer, bu bölgeyi önemli bir göç güzergahı haline getirir. 
-Rupin Dağı, endemik türlerle dolu bir ekosistemdir. Bu dağ, yüksek dağ ekolojisi ve alpin çayırların karakteristik özelliklerini taşır. 
-Dağ keçileri, yaban keçileri ve çeşitli kuş türleri, bu dağların zengin yaban hayatı adına önemli katkılar sağlar. 
-Rupin Dağı, yüksek dağ ekosisteminin bir parçası olarak, biyolojik çeşitlilik açısından önemli bir bölgedir. 
+Rupin Dağı, yüksek dağ ekolojisinin zenginliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlk baharda, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, çeşitli bitki türleriyle kaplıdır.
+Yaz aylarında, dağ keçileri ve yaban keçileri, yüksek zonların taşlı ve kayalık arazilerinde yaşamlarını sürdürürler.
+Sonbaharda, göçmen kuşlar, dağların üzerinden geçer, bu bölgeyi önemli bir göç güzergahı haline getirir.
+Rupin Dağı, endemik türlerle dolu bir ekosistemdir. Bu dağ, yüksek dağ ekolojisi ve alpin çayırların karakteristik özelliklerini taşır.
+Dağ keçileri, yaban keçileri ve çeşitli kuş türleri, bu dağların zengin yaban hayatı adına önemli katkılar sağlar.
+Rupin Dağı, yüksek dağ ekosisteminin bir parçası olarak, biyolojik çeşitlilik açısından önemli bir bölgedir.
 Doğal güzelliği ve biyolojik çeşitliliği korumak için, bu alanın korunması büyük önem taşır.
 
 ## Ziyaret Bilgileri

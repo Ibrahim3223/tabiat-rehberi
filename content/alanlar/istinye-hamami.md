@@ -1,7 +1,7 @@
 ---
 title: "İstinye Hamamı"
 date: "2026-01-09T22:57:00.670Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738595"
 
 # İstinye Hamamı
 
-İstinye Hamamı, Sarıyer'de bulunan ve İstanbul'un en önemli plaj ve tarihi hamam komplekslerinden biri olarak bilinen bir yer. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve deniz kenarında yer alıyor. Bu büyük alan, ziyaretçilere geniş bir plaj ve tarihi bir hamam kompleksi sunuyor. İnsanlar burada hem denizde yüzme hem de tarihi hamamın atmosferini deneyimleme fırsatı buluyor. İstanbulluların ve turistlerin tercih ettiği bu yer, özellikle yaz aylarında çok fazla ziyaretçi alıyor.
+İstinye Hamamı, Sarıyer'de bulunan ve İstanbul'un en önemli plaj ve tarihi hamam komplekslerinden biri olarak bilinen bir yer. Bu büyük alan, ziyaretçilere geniş bir plaj ve tarihi bir hamam kompleksi sunuyor. İnsanlar burada hem denizde yüzme hem de tarihi hamamın atmosferini deneyimleme fırsatı buluyor. İstanbulluların ve turistlerin tercih ettiği bu yer, özellikle yaz aylarında çok fazla ziyaretçi alıyor.
 
 ## Tarihçe
 

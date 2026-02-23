@@ -23,7 +23,7 @@ wikidata_id: "Q108228690"
 
 # KARABÜK
 
-KARABÜK milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın kucağına davet ediyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve tarihi geçmişiyle dikkat çekiyor. Doğal güzellikleri, tarihi yapıları ve zengin faunasıyla KARABÜK, ziyaretçilerin ilgisini çekmeyi başarmaktadır.
+KARABÜK milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve tarihi geçmişiyle dikkat çekiyor. Doğal güzellikleri, tarihi yapıları ve zengin faunasıyla KARABÜK, ziyaretçilerin ilgisini çekmeyi başarmaktadır.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ KARABÜK milli parkı, tarihi geçmişiyle dikkat çekiyor. Bu bölge, yüzyıll
 
 ## Coğrafya
 
-KARABÜK milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın kucağına davet ediyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve birçok doğal güzelliğe ev sahipliği yapıyor. Doğal güzellikleri, tarihi yapıları ve zengin faunasıyla KARABÜK, ziyaretçilerin ilgisini çekmeyi başarmaktadır. Bu bölgenin coğrafi özellikleri, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Coğrafi özelliklerle birlikte, ziyaretçilerin KARABÜK'ü ziyaret etmeleri önerilir.
+KARABÜK milli parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve birçok doğal güzelliğe ev sahipliği yapıyor. Doğal güzellikleri, tarihi yapıları ve zengin faunasıyla KARABÜK, ziyaretçilerin ilgisini çekmeyi başarmaktadır. Bu bölgenin coğrafi özellikleri, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Coğrafi özelliklerle birlikte, ziyaretçilerin KARABÜK'ü ziyaret etmeleri önerilir.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31388599"
 
 # Dadaş Tepesi
 
-Dadaş Tepesi, Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak Erzurum'un merkezinde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ve fauna ile kaplıdır. Bu tepe, bölgenin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Dadaş Tepesi'nin eşsiz manzarası, ziyaretçilerini büyüler ve doğanın güzelliğini gözler önüne serer. Tepenin yüksekliği, ziyaretçilerin Erzurum'un panoramik manzarasını izlemesine olanak tanır ve bu reason, Dadaş Tepesi'ni ziyaret etmenin en önemli nedenlerinden biridir.
+Dadaş Tepesi, Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak Erzurum'un merkezinde yer alır. Bu tepe, bölgenin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Dadaş Tepesi'nin eşsiz manzarası, ziyaretçilerini büyüler ve doğanın güzelliğini gözler önüne serer. Tepenin yüksekliği, ziyaretçilerin Erzurum'un panoramik manzarasını izlemesine olanak tanır ve bu reason, Dadaş Tepesi'ni ziyaret etmenin en önemli nedenlerinden biridir.
 
 ## Tarihçe
 

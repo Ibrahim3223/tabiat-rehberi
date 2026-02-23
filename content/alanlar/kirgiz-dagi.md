@@ -32,11 +32,11 @@ Eskişehir'in doğal güzellikleri arasında dikkat çeken Kırgız Dağı, böl
 
 ## Tarihçe
 
-Eskişehir bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Binlerce yıl önce, Frigler ve Lidyalılar gibi antik uygarlıkların izlerini taşıyan bu topraklar, daha sonra Roma ve Bizans İmparatorluklarının egemenliğine girmiştir. Kırgız Dağı, bu zengin tarihsel mirasın bir parçası olarak, yüzyıllar boyunca çeşitli kültürlerin etkilerini taşımıştır.
+Eskişehir bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Binlerce yıl önce, Frigler ve Lidyalılar gibi antik uygarlıkların izlerini taşıyan bu topraklar, daha sonra Roma ve Bizans İmparatorluklarının egemenliğine girmiştir. Kırgız Dağı, bu zengin tarihsel mirasın bir parçası olarak, yüzyıllar boyunca çeşitli kültürlerin etkilerini taşımıştır.
 
 Türkiye'de doğal alanlar, tarihsel olarak hep önemli bir rol oynamıştır. İnsanların bu alanlarla ilişkisi, yalnızca doğal güzelliklerin takdir edilmesi değil, aynı zamanda hayvancılık, yaylacılık ve ticaret yolları gibi ekonomik faaliyetlerle de bağlantılıdır. Eskişehir bölgesinde de, Kırgız Dağı gibi doğal alanlar, insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlamıştır.
 
-Bu bölge, tarihin akışında önemli ticaret yollarının kesişme noktası olarak da dikkat çekmektedir. İnsanlar, bu doğal güzellikleri yalnızca takdir etmekle kalmamış, aynı zamanda burada yaşamlarını sürdürmeye çalışmışlardır. Kırgız Dağı, Eskişehir'in zengin tarihsel ve kültürel mirasının bir parçası olarak, ziyaretçilerini tarihin sâu sayfalarına davet etmektedir.
+Bu bölge, tarihin akışında önemli ticaret yollarının kesişme noktası olarak da dikkat çekmektedir. İnsanlar, bu doğal güzellikleri yalnızca takdir etmekle kalmamış, aynı zamanda burada yaşamlarını sürdürmeye çalışmışlardır. Kırgız Dağı, Eskişehir'in zengin tarihsel ve kültürel mirasının bir parçası olarak, ziyaretçilerini tarihin derin sayfalarına davet etmektedir.
 
 ## Coğrafya
 
@@ -50,7 +50,7 @@ Doğal güzellikleri ile ön plana çıkan Kırgız Dağı, çevresindeki düzl�
 
 ## Flora ve Fauna
 
-Kırgız Dağı, Eskişehir'in bozkır step bölgesinde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kırgız Dağı, Eskişehir'in bozkır step bölgesinde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte türler ön plana çıkar. Yükseklik zonlarına bağlı olarak değişen alpin flora, ziyaretçilere benzersiz bir manzara sunar.
 

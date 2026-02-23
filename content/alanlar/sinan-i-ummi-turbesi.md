@@ -1,7 +1,7 @@
 ---
 title: "Sinan-ı Ümmi Türbesi"
 date: "2026-01-10T06:15:25.862Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390682"
 
 # Sinan-ı Ümmi Türbesi
 
-Sinan-ı Ümmi Türbesi, Elmalı ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken önemli bir kültürel mekândır. Bu mekân, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide kurulmuştur. Türbe, tarihi ve mimari özellikleri ile ziyaretçilerini etkilemektedir. Sinan-ı Ümmi Türbesi, ziyaretçilerine hem tarihsel hem de kültürel bir experiencia sunmaktadır. Mekânın etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere huzurlu bir ortam sunar.
+Sinan-ı Ümmi Türbesi, Elmalı ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken önemli bir kültürel mekândır. Türbe, tarihi ve mimari özellikleri ile ziyaretçilerini etkilemektedir. Sinan-ı Ümmi Türbesi, ziyaretçilerine hem tarihsel hem de kültürel bir experiencia sunmaktadır. Mekânın etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere huzurlu bir ortam sunar.
 
 ## Tarihçe
 

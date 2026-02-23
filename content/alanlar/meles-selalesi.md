@@ -22,7 +22,7 @@ wikidata_id: "Q130366835"
 
 # Meles Şelalesi
 
-Meles Şelalesi, İç Anadolu Bölgesi'nde yer alan ve doğa severlerin ziyaret ettiği bir noktadır. Bu şelale, yaklaşık 140 hektarlık bir alanda, 200 futbol sahası büyüklüğünde bir yeşil alan içinde yer almaktadır. Meles Şelalesi, bölgede yer alan diğer doğal güzelliklere benzer şekilde, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunmaktadır. Şelalenin etrafında yer alan ağaçlar ve bitki türleri, bu alanı bir doğa cenneti haline getirmektedir. Meles Şelalesi, aynı zamanda bölgede yer alan diğer turistik noktalarla birlikte, ziyaretçilere unutulmaz bir gezi deneyimi sunmaktadır.
+Meles Şelalesi, İç Anadolu Bölgesi'nde yer alan ve doğa severlerin ziyaret ettiği bir noktadır. Meles Şelalesi, bölgede yer alan diğer doğal güzelliklere benzer şekilde, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunmaktadır. Şelalenin etrafında yer alan ağaçlar ve bitki türleri, bu alanı bir doğa cenneti haline getirmektedir. Meles Şelalesi, aynı zamanda bölgede yer alan diğer turistik noktalarla birlikte, ziyaretçilere unutulmaz bir gezi deneyimi sunmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Meles Şelalesi'nin tarihi geçmişi, bölgenin genel tarihine benzer şekilde, 
 
 ## Coğrafya
 
-Meles Şelalesi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu şelale, 140 hektarlık bir alanda, 200 futbol sahası büyüklüğünde bir yeşil alan içinde yer almaktadır. Meles Şelalesi, bölgede yer alan diğer doğal güzelliklere benzer şekilde, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunmaktadır. Şelalenin etrafında yer alan ağaçlar ve bitki türleri, bu alanı bir doğa cenneti haline getirmektedir. Meles Şelalesi, aynı zamanda bölgede yer alan diğer turistik noktalarla birlikte, ziyaretçilere unutulmaz bir gezi deneyimi sunmaktadır. Şelalenin yer aldığı bölge, dağlar ve ovalarla çevrili bir coğrafi yapıya sahiptir. Bu coğrafi yapı, Meles Şelalesi'ni ve çevresini, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunmaktadır.
+Meles Şelalesi, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Meles Şelalesi, bölgede yer alan diğer doğal güzelliklere benzer şekilde, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunmaktadır. Şelalenin etrafında yer alan ağaçlar ve bitki türleri, bu alanı bir doğa cenneti haline getirmektedir. Meles Şelalesi, aynı zamanda bölgede yer alan diğer turistik noktalarla birlikte, ziyaretçilere unutulmaz bir gezi deneyimi sunmaktadır. Şelalenin yer aldığı bölge, dağlar ve ovalarla çevrili bir coğrafi yapıya sahiptir. Bu coğrafi yapı, Meles Şelalesi'ni ve çevresini, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunmaktadır.
 
 ## Flora ve Fauna
 

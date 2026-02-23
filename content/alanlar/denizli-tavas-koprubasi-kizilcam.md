@@ -22,7 +22,7 @@ wikidata_id: "Q108227647"
 
 # Denizli-Tavas-Koprubasi Kızılçam
 
-İç Anadolu Bölgesi'nin kalbinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkan Denizli-Tavas-Koprubasi Kızılçam milli parkı, doğa severlerin yeni keşif noktası. Bu 140 hektarlık alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sakinliği ile baş başa bırakıyor.
+ Bu 140 hektarlık alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın sakinliği ile baş başa bırakıyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Kastamonu-Sinop-İnceburun-Sahilcami"
 date: "2026-01-09T20:11:34.448Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Kastamonu"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228496"
 
 # Kastamonu-Sinop-İnceburun-Sahilcami
 
-Kastamonu ve Sinop arasındaki İnceburun ve Sahilcami milli parkı, Karadeniz'in en güzel sahillerini sunar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin önemli doğal alanlarından biridir. Parkın sahili, denizin güzelliği ve çevredeki ormanlar ile birlikte, ziyaretçilere unutulmaz bir deneyim sunar. Kastamonu-Sinop-İnceburun-Sahilcami milli parkı, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve hayvanlar ile zengin bir ekosisteme sahiptir.
+Kastamonu ve Sinop arasındaki İnceburun ve Sahilcami milli parkı, Karadeniz'in en güzel sahillerini sunar. Parkın sahili, denizin güzelliği ve çevredeki ormanlar ile birlikte, ziyaretçilere unutulmaz bir deneyim sunar. Kastamonu-Sinop-İnceburun-Sahilcami milli parkı, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve hayvanlar ile zengin bir ekosisteme sahiptir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kastamonu-Sinop-İnceburun-Sahilcami milli parkının tarihi geçmişi, yüzyıl
 
 ## Coğrafya
 
-Kastamonu-Sinop-İnceburun-Sahilcami milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde bulunur. Parkın coğrafi konumu, denize kıyısı olan bir sahil şerididir. İnceburun ve Sahilcami arasındaki bu bölge, Karadeniz'in en güzel sahillerinden biridir. Parkın yüzölçümü, 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin önemli doğal alanlarından biridir. Parkın iklimi, Karadeniz iklimi özellikleri taşır. Bölge, yazları serin ve yağışlı, kışları ise soğuk ve yağışlı bir iklimi sahiptir. Parkın çevresi, ormanlar ve dağlar ile çevrilidir. Bu coğrafi konum, parkın doğal güzelliklerini ve ekosistemini korur.
+Kastamonu-Sinop-İnceburun-Sahilcami milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde bulunur. Parkın coğrafi konumu, denize kıyısı olan bir sahil şerididir. İnceburun ve Sahilcami arasındaki bu bölge, Karadeniz'in en güzel sahillerinden biridir. Parkın yüzölçümü, 140 hektarlık bir alanı kapsar. Parkın iklimi, Karadeniz iklimi özellikleri taşır. Bölge, yazları serin ve yağışlı, kışları ise soğuk ve yağışlı bir iklimi sahiptir. Parkın çevresi, ormanlar ve dağlar ile çevrilidir. Bu coğrafi konum, parkın doğal güzelliklerini ve ekosistemini korur.
 
 ## Flora ve Fauna
 

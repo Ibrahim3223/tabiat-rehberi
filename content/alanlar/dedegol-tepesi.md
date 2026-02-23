@@ -53,9 +53,9 @@ Doğal kaynaklar ve ekosistem bağlantıları açısından bakıldığında, Ded
 
 Dedegöl Tepesi, 1200 hektarlık bir dağ ekosistemi olarak, step bitki örtüsü ve bozkırın karakteristik özelliklerini taşır. Bu bölgede, kuraklığa adapte olmuş türler hakimdir. Dağın yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çeker.
 
-İlkbaharın gelmesiyle birlikte, tepenin yamaçlarında renkli çiçekler açar. Bu mevsimde, bozkırın tipik bitkileri zoals çayırlar ve otlar yeşerir. Sonbaharda ise, göç eden kuşlar bölgeyi ziyaret eder ve tepenin yükseklik zonlarında konaklarlar. 
+İlkbaharın gelmesiyle birlikte, tepenin yamaçlarında renkli çiçekler açar. Bu mevsimde, bozkırın tipik bitkileri zoals çayırlar ve otlar yeşerir. Sonbaharda ise, göç eden kuşlar bölgeyi ziyaret eder ve tepenin yükseklik zonlarında konaklarlar.
 
-Yaban hayatı açısından, memeliler ve kuşlar önemli bir yer tutar. Dağ keçileri ve yaban domuzları gibi memeliler, tepenin dik yamaçlarında yaşar. Kuşlar ise, tepenin yükseklik zonlarında yuva yapar ve avlanır. Sürüngenler de, bölgenin kura ve sıcak iklimine adapte olarak, kayaların arasında yaşamlarını sürdürür. 
+Yaban hayatı açısından, memeliler ve kuşlar önemli bir yer tutar. Dağ keçileri ve yaban domuzları gibi memeliler, tepenin dik yamaçlarında yaşar. Kuşlar ise, tepenin yükseklik zonlarında yuva yapar ve avlanır. Sürüngenler de, bölgenin kura ve sıcak iklimine adapte olarak, kayaların arasında yaşamlarını sürdürür.
 
 Dedegöl Tepesi, ekolojik açıdan önemli bir bölge olarak, koruma altına alınmıştır. Bu bölgenin korunması, sadece burada yaşayan türlerin değil, aynı zamanda entire ekosistemin devamlılığı için önemlidir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Hamdullah Dede Türbesi"
 date: "2026-01-10T06:28:00.211Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391799"
 
 # Hamdullah Dede Türbesi
 
-Amasya'nın merkezinde yer alan Hamdullah Dede Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçiler için geniş bir açık alan sunmaktadır. Hamdullah Dede Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak, ziyaretçilerini bekliyor. Bu mekan, hem Amasya'nın tarihi geçmişini hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkıyor.
+Amasya'nın merkezinde yer alan Hamdullah Dede Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur. Hamdullah Dede Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak, ziyaretçilerini bekliyor. Bu mekan, hem Amasya'nın tarihi geçmişini hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

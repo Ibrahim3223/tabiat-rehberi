@@ -1,7 +1,7 @@
 ---
 title: "Ziyaret (Ardahan Dağı)"
 date: "2026-01-08T23:44:21.709Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Kars"
@@ -49,7 +49,7 @@ Mevsimler değiştiğinde, Ziyaret Dağı'nın iklim karakteri değişiyor. Kı�
 
 ## Flora ve Fauna
 
-Ziyaret Dağı, Kars'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde ve alpin çayırlarda çeşitli çiçekler açarak renkli bir manzara oluşturur. Bu mevsimde, dağların yükseklik zonlarında farklı bitki türleri görülebilir. 
+Ziyaret Dağı, Kars'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde ve alpin çayırlarda çeşitli çiçekler açarak renkli bir manzara oluşturur. Bu mevsimde, dağların yükseklik zonlarında farklı bitki türleri görülebilir.
 
 Yaban hayatı da oldukça zengin. Dağ keçileri, yaban keçileri ve ayılar gibi memeliler, kartallar, doğanları ve diğer yırtıcı kuşlar, dağların yükseklik zonlarında yaşamlarını sürdürürler. Sürüngenler ve amfibiler de bu ekosistemin önemli bir parçasını oluşturur. Ekolojik değer olarak, Ziyaret Dağı, birçok endemik türe ev sahipliği yapar ve bölgenin biyolojik çeşitliliğini korur. Bu nedenle, doğa severler ve bilim insanları için önemli bir araştırma ve gözlem alanıdır.
 

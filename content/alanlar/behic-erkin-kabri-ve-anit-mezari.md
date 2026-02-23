@@ -1,7 +1,7 @@
 ---
 title: "Behiç Erkin Kabri ve Anıt Mezarı"
 date: "2026-01-10T03:42:18.972Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728164"
 
 # Behiç Erkin Kabri ve Anıt Mezarı
 
-Behiç Erkin Kabri ve Anıt Mezarı, Eskişehir'in Tepebaşı ilçesinde yer alan bir anıt mezar ve kabir alanıdır. Bu alan, Türk Silahlı Kuvvetlerinin kuruluşunda önemli bir rol oynayan Behiç Erkin'in anısına inşa edilmiştir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki doğal güzelliklerle beraber ziyaretçilere huzurlu bir ortam sunar. Behiç Erkin Kabri ve Anıt Mezarı, sadece bir historical mekân değil, aynı zamanda Türk milletinin bağımsızlık mücadelesinin sembollerinden biridir.
+Behiç Erkin Kabri ve Anıt Mezarı, Eskişehir'in Tepebaşı ilçesinde yer alan bir anıt mezar ve kabir alanıdır. Bu alan, Türk Silahlı Kuvvetlerinin kuruluşunda önemli bir rol oynayan Behiç Erkin'in anısına inşa edilmiştir. Behiç Erkin Kabri ve Anıt Mezarı, sadece bir historical mekân değil, aynı zamanda Türk milletinin bağımsızlık mücadelesinin sembollerinden biridir.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Behiç Erkin Kabri ve Anıt Mezarı, yılın her dönemi ziyaret edilebilir. Anc
 
 - Behiç Erkin, Türk Silahlı Kuvvetlerinin kuruluşunda önemli bir rol oynayan bir askeri liderdir.
 - Behiç Erkin Kabri ve Anıt Mezarı, 140 hektarlık bir yeşil alan üzerine kurulmuştur.
-- Alan, yaklaşık 200 futbol sahası büyüklüğünde bir açık alana sahiptir.
+
 - Behiç Erkin'in yaşamı ve hizmetleri, Türk milletinin bağımsızlık mücadelesinin önemli bir parçası olarak görülmektedir.
 - Behiç Erkin Kabri ve Anıt Mezarı, sadece bir historical mekân değil, aynı zamanda bir doğal güzellik alanıdır.

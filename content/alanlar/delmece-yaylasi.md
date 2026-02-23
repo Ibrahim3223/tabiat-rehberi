@@ -23,7 +23,7 @@ wikidata_id: "Q108228227"
 
 # Delmece Yaylası
 
-Delmece Yaylası, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini geniş ve ferah bir ortamda ağırlar. Yayla, doğal güzellikleri ve zengin flora ile fauna çeşitliliği ile dikkat çekmektedir. Ziyaretçiler, burada hem doğanın güzelliğini keşfedebilir hem de çeşitli etkinliklerle keyifli bir gün geçirebilirler.
+Delmece Yaylası, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Yayla, doğal güzellikleri ve zengin flora ile fauna çeşitliliği ile dikkat çekmektedir. Ziyaretçiler, burada hem doğanın güzelliğini keşfedebilir hem de çeşitli etkinliklerle keyifli bir gün geçirebilirler.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Delmece Yaylası, ziyaretçilerine, çeşitli etkinliklerle keyifli bir gün ge�
 ## İlginç Bilgiler
 
 - Delmece Yaylası, 140 hektarlık bir alanı kapsar.
-- Yayla, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Delmece Yaylası, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden birisidir.
 - Yayla, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Ziyaretçiler, yaylaya, özel araçlarıyla veya toplu taşıma araçlarıyla ulaşabilirler.

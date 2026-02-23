@@ -28,7 +28,7 @@ wikidata_id: "Q32138465"
 
 # Göleç Tepesi
 
-Göleç Tepesi, Konya'nın göbeğinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan sunar. Bu 140 hektarlık yeşil cennet, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Göleç Tepesi'nin etrafında yer alan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunar. Tepenin eteklerinde yer alan küçük çayırlar ve ormanlık alanlar, doğa severler için keşfedilecek birçok güzelliği barındırır.
+ Bu 140 hektarlık yeşil cennet, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Göleç Tepesi'nin etrafında yer alan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü deneyimleme fırsatı sunar. Tepenin eteklerinde yer alan küçük çayırlar ve ormanlık alanlar, doğa severler için keşfedilecek birçok güzelliği barındırır.
 
 ## Tarihçe
 

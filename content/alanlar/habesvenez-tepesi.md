@@ -28,7 +28,7 @@ wikidata_id: "Q31551410"
 
 # Habesvenez Tepesi
 
-Habesvenez Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Habesvenez Tepesi, Mardin'in tarihi merkezi ile birlikte ziyaret edilebiliyor ve bu sayede hem tarihi hem de doğal güzellikleri aynı anda keşfetme mümkün oluyor.
+Habesvenez Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Habesvenez Tepesi, Mardin'in tarihi merkezi ile birlikte ziyaret edilebiliyor ve bu sayede hem tarihi hem de doğal güzellikleri aynı anda keşfetme mümkün oluyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Habesvenez Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer alıyor.
 
 ## Flora ve Fauna
 
-Habesvenez Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin etrafında, çeşitli bitki türleri grown ve bu bitkiler, mevsimsel olarak değişim gösteriyor. İlkbahar ve yaz aylarında, tepenin etrafı yeşilleniyor ve ziyaretçilere güzel bir manzara sunuyor. Kış aylarında ise, bazı bitkiler soğuyunca, tepe ve çevresindeki manzara değişiyor. Habesvenez Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Bu hayvanlar, tepe ve çevresindeki ekosistemi oluşturuyor ve ziyaretçilere doğal bir ortam sunuyor.
+ Tepenin etrafında, çeşitli bitki türleri grown ve bu bitkiler, mevsimsel olarak değişim gösteriyor. İlkbahar ve yaz aylarında, tepenin etrafı yeşilleniyor ve ziyaretçilere güzel bir manzara sunuyor. Kış aylarında ise, bazı bitkiler soğuyunca, tepe ve çevresindeki manzara değişiyor. Habesvenez Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Bu hayvanlar, tepe ve çevresindeki ekosistemi oluşturuyor ve ziyaretçilere doğal bir ortam sunuyor.
 
 ## Ziyaret Bilgileri
 

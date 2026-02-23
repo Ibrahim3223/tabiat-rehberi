@@ -52,11 +52,11 @@ Mevsimsel açıdan bakıldığında, Karakuş Dağları'nın iklim karakteri old
 
 ## Flora ve Fauna
 
-Karakuş Dağları, step bitki örtüsüne ve bozkıra ev sahipliği yapan bir dağ ekosistemi olarak, çeşitli yükseklik zonlarına ve alpin flora türlerine sahiptir. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle kaplanır ve kuraklığa adapte olan türler hayat bulur. 
+Karakuş Dağları, step bitki örtüsüne ve bozkıra ev sahipliği yapan bir dağ ekosistemi olarak, çeşitli yükseklik zonlarına ve alpin flora türlerine sahiptir. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle kaplanır ve kuraklığa adapte olan türler hayat bulur.
 
-Bitki örtüsünü oluşturan türler, mevsimsel değişimlere uyum sağlamak için özel özelliklere sahiptir. Yükseklik zonlarına göre değişen flora, dağların farklı bölgelerinde farklı türlerin hakim olmasına neden olur. Dağ hayvanları da bu ekosisteme uyum sağlayarak, yaşam alanlarını oluşturur. 
+Bitki örtüsünü oluşturan türler, mevsimsel değişimlere uyum sağlamak için özel özelliklere sahiptir. Yükseklik zonlarına göre değişen flora, dağların farklı bölgelerinde farklı türlerin hakim olmasına neden olur. Dağ hayvanları da bu ekosisteme uyum sağlayarak, yaşam alanlarını oluşturur.
 
-Karakuş Dağları'nın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağların yüksek kesimlerinde yaşayan memeliler, yiyece ve su kaynaklarına bağlı olarak mevsimsel göçler gerçekleştirir. Kuşlar, özellikle sonbaharda görülen göç yoluyla bu dağları ziyaret eder. Sürüngenler ve diğer küçük hayvanlar, dağların kaya oyuklarında ve bitki örtüsünün altında yaşamlarını sürdürür. 
+Karakuş Dağları'nın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağların yüksek kesimlerinde yaşayan memeliler, yiyece ve su kaynaklarına bağlı olarak mevsimsel göçler gerçekleştirir. Kuşlar, özellikle sonbaharda görülen göç yoluyla bu dağları ziyaret eder. Sürüngenler ve diğer küçük hayvanlar, dağların kaya oyuklarında ve bitki örtüsünün altında yaşamlarını sürdürür.
 
 Bu dağ ekosisteminin ekolojik değeri, bölgenin biyolojik çeşitliliğini koruması ve doğal yaşam döngüsünü desteklemesinde yatmaktadır. Koruma durumu, bu alanın gelecekteki nesiller için bảolenmesi açısından önemlidir.
 

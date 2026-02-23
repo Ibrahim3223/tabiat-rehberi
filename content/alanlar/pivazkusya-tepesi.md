@@ -28,7 +28,7 @@ wikidata_id: "Q31386674"
 
 # Pivazkusya Tepesi
 
-Pivazkusya Tepesi, Diyarbakır'ın 중심inde yer alan ve şehre hakim bir konumda bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Pivazkusya Tepesi, şehir merkezine yakın olmasına rağmen, ziyaretçilerini doğanın kalbinde hissettiriyor. Tepenin eteklerinde çeşitli bitki türleri ve çiçekler yetişiyor. Pivazkusya Tepesi, aynı zamanda şehrin panoramik manzarasını izlemek için ideal bir nokta.
+Pivazkusya Tepesi, Diyarbakır'ın 중심inde yer alan ve şehre hakim bir konumda bulunan bir tepe. Pivazkusya Tepesi, şehir merkezine yakın olmasına rağmen, ziyaretçilerini doğanın kalbinde hissettiriyor. Tepenin eteklerinde çeşitli bitki türleri ve çiçekler yetişiyor. Pivazkusya Tepesi, aynı zamanda şehrin panoramik manzarasını izlemek için ideal bir nokta.
 
 ## Tarihçe
 

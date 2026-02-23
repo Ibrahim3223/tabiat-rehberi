@@ -28,7 +28,7 @@ wikidata_id: "Q34877695"
 
 # Kanlıgöl Tepesi
 
-Kanlıgöl Tepesi, Çorum'un doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu büyüklükte bir alan, ziyaretçilere geniş bir manzara sunuyor. Kanlıgöl Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğayı keşfediyor hem de bölgenin tarihi hakkında bilgi sahibi oluyor.
+Kanlıgöl Tepesi, Çorum'un doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alıyor. Bu büyüklükte bir alan, ziyaretçilere geniş bir manzara sunuyor. Kanlıgöl Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Ziyaretçiler, bu tepeyi ziyaret ederek hem doğayı keşfediyor hem de bölgenin tarihi hakkında bilgi sahibi oluyor.
 
 ## Tarihçe
 

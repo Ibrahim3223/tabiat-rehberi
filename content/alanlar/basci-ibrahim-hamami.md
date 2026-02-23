@@ -1,7 +1,7 @@
 ---
 title: "Başçı İbrahim Hamamı"
 date: "2026-01-09T22:54:53.108Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738645"
 
 # Başçı İbrahim Hamamı
 
-Bursa'nın Osmangazi ilçesinde yer alan Başçı İbrahim Hamamı, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu büyük alan, ziyaretçiler için geniş bir hareket alanı sunuyor. Başçı İbrahim Hamamı, Marmara Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biri olarak biliniyor. Tarihi geçmişi ve doğal güzelliği ile birlikte, bu bölge her yıl binlerce ziyaretçi çekiyor. 14. yüzyılda inşa edilen hamam, Osmanlı mimarisinin önemli örneklerinden biri olarak gösteriliyor. Hamamın etrafındaki yeşil alanlar ve tarihi yapılar, ziyaretçilere geniş bir gezi alanı sunuyor.
+ Bu büyük alan, ziyaretçiler için geniş bir hareket alanı sunuyor. Başçı İbrahim Hamamı, Marmara Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biri olarak biliniyor. Tarihi geçmişi ve doğal güzelliği ile birlikte, bu bölge her yıl binlerce ziyaretçi çekiyor. 14. yüzyılda inşa edilen hamam, Osmanlı mimarisinin önemli örneklerinden biri olarak gösteriliyor. Hamamın etrafındaki yeşil alanlar ve tarihi yapılar, ziyaretçilere geniş bir gezi alanı sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Başçı İbrahim Hamamı, 14. yüzyılda inşa edilmiş ve o günden beri önem
 
 ## Coğrafya
 
-Başçı İbrahim Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor ve Marmara Bölgesi'nin en önemli coğrafi merkezlerinden biri olarak biliniyor. Hamamın bulunduğu alan, 140 hektarlık bir yeşil alan üzerine kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Hamamın etrafındaki coğrafi yapı, ziyaretçiler için geniş bir gezi alanı sunuyor. Bölge, Uludağ'ın eteklerine kurulmuş ve hamamın bulunduğu alan, dağların eteklerinde yer alıyor. Bu coğrafi konum, hamamın bulunduğu alanı, ziyaretçiler için geniş bir hareket alanı sunuyor. Hamamın etrafındaki yeşil alanlar, ziyaretçilere geniş bir gezi alanı sunuyor ve bu alanlar, hamamın tarihi ve doğal güzelliğini daha da artırıyor. Hamamın coğrafi konumu, Marmara Bölgesi'nin en önemli coğrafi merkezlerinden biri olarak biliniyor.
+Başçı İbrahim Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor ve Marmara Bölgesi'nin en önemli coğrafi merkezlerinden biri olarak biliniyor. Hamamın etrafındaki coğrafi yapı, ziyaretçiler için geniş bir gezi alanı sunuyor. Bölge, Uludağ'ın eteklerine kurulmuş ve hamamın bulunduğu alan, dağların eteklerinde yer alıyor. Bu coğrafi konum, hamamın bulunduğu alanı, ziyaretçiler için geniş bir hareket alanı sunuyor. Hamamın etrafındaki yeşil alanlar, ziyaretçilere geniş bir gezi alanı sunuyor ve bu alanlar, hamamın tarihi ve doğal güzelliğini daha da artırıyor. Hamamın coğrafi konumu, Marmara Bölgesi'nin en önemli coğrafi merkezlerinden biri olarak biliniyor.
 
 ## Flora ve Fauna
 

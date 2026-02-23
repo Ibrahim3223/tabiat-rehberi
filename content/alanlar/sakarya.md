@@ -23,7 +23,7 @@ wikidata_id: "Q108228635"
 
 # SAKARYA
 
-Sakarya Milli Parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından birini oluşturur. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Sakarya Milli Parkı, hem doğa severler hem de turizm açısından önemli bir destinasyondur.
+Sakarya Milli Parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Sakarya Milli Parkı, hem doğa severler hem de turizm açısından önemli bir destinasyondur.
 
 ## Tarihçe
 

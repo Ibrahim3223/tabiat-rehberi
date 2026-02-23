@@ -30,15 +30,15 @@ wikidata_id: "Q134728225"
 
 # Asarkale Kaya Mezarı -2
 
-Asarkale Kaya Mezarı -2, Trabzon'un Bafra ilçesinde yer alan ve coğrafyası ile tarihi geçmişiyle dikkat çeken bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Asarkale Kaya Mezarı -2, ziyaretçilerini tarih ve doğa ile baş başa bırakıyor. Burada, yerli halkın yaşantısını ve kültürünü yakından tanıma fırsatı bulabilirsiniz. Ayrıca, bu bölgede yapılan kazılar ve araştırmalar, tarihi geçmişi hakkında önemli bilgiler sunuyor.
+Asarkale Kaya Mezarı -2, Trabzon'un Bafra ilçesinde yer alan ve coğrafyası ile tarihi geçmişiyle dikkat çeken bir alandır. Asarkale Kaya Mezarı -2, ziyaretçilerini tarih ve doğa ile baş başa bırakıyor. Burada, yerli halkın yaşantısını ve kültürünü yakından tanıma fırsatı bulabilirsiniz. Ayrıca, bu bölgede yapılan kazılar ve araştırmalar, tarihi geçmişi hakkında önemli bilgiler sunuyor.
 
 ## Tarihçe
 
-Asarkale Kaya Mezarı -2'nin tarihi geçmişi, yüzyıllar boyunca farklı uygarlıkların yaşadığı bir bölge olarak dikkat çekiyor. Bu bölgede, çeşitli uygarlıkların izleri encontrado ve tarihi eserler keşfedilmiştir. Tarihi araştırmalar ve kazılar, bu bölgenin zengin bir tarihi geçmişine sahip olduğunu gösteriyor. Asarkale Kaya Mezarı -2, ziyaretçilerine tarihin sâu sayfalarına doğru bir yolculuk sunuyor. Burada, farklı uygarlıkların kültürlerini ve yaşantılarını yakından tanıma fırsatı bulacaksınız. Ayrıca, bu bölgede yapılan araştırmalar, tarihi geçmişi hakkında önemli bilgiler sunuyor ve ziyaretçilerin daha fazla bilgi edinmesine yardımcı oluyor.
+Asarkale Kaya Mezarı -2'nin tarihi geçmişi, yüzyıllar boyunca farklı uygarlıkların yaşadığı bir bölge olarak dikkat çekiyor. Bu bölgede, çeşitli uygarlıkların izleri encontrado ve tarihi eserler keşfedilmiştir. Tarihi araştırmalar ve kazılar, bu bölgenin zengin bir tarihi geçmişine sahip olduğunu gösteriyor. Asarkale Kaya Mezarı -2, ziyaretçilerine tarihin derin sayfalarına doğru bir yolculuk sunuyor. Burada, farklı uygarlıkların kültürlerini ve yaşantılarını yakından tanıma fırsatı bulacaksınız. Ayrıca, bu bölgede yapılan araştırmalar, tarihi geçmişi hakkında önemli bilgiler sunuyor ve ziyaretçilerin daha fazla bilgi edinmesine yardımcı oluyor.
 
 ## Coğrafya
 
-Asarkale Kaya Mezarı -2, coğrafyası ile de dikkat çekiyor. Bu alan, Trabzon'un Bafra ilçesinde yer alıyor ve 140 hektarlık bir büyüklüğe sahip. Bu bölge, dağlık ve engebeli bir araziye sahip ve yükseklik farkları oldukça fazla. Asarkale Kaya Mezarı -2, ziyaretçilerine doğa ile baş başa bırakıyor ve çeşitli flora ve fauna türlerine ev sahipliği yapıyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar encontrado ve ziyaretçiler, doğanın güzelliğini yakından tanıma fırsatı buluyor. Ayrıca, bu bölgede yapılan coğrafi araştırmalar, coğrafyası hakkında önemli bilgiler sunuyor ve ziyaretçilerin daha fazla bilgi edinmesine yardımcı oluyor.
+Asarkale Kaya Mezarı -2, coğrafyası ile de dikkat çekiyor. Bu bölge, dağlık ve engebeli bir araziye sahip ve yükseklik farkları oldukça fazla. Asarkale Kaya Mezarı -2, ziyaretçilerine doğa ile baş başa bırakıyor ve çeşitli flora ve fauna türlerine ev sahipliği yapıyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar encontrado ve ziyaretçiler, doğanın güzelliğini yakından tanıma fırsatı buluyor. Ayrıca, bu bölgede yapılan coğrafi araştırmalar, coğrafyası hakkında önemli bilgiler sunuyor ve ziyaretçilerin daha fazla bilgi edinmesine yardımcı oluyor.
 
 ## Flora ve Fauna
 

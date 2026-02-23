@@ -23,7 +23,7 @@ wikidata_id: "Q108228374"
 
 # Duzce-Golyaka Efteni Golu
 
-Duzce-Golyaka Efteni Golu, Karadeniz Bölgesi'nde bulunan Duzce iline bağlı Golyaka ilçesinde yer alan 140 hektarlık bir milli parktır. Bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve doğal güzellikleri ile dikkat çeker. Efteni Golu, Duzce'nin önemli turizm merkezlerinden biridir ve doğa severlerin ziyaret ettiği bir yerdir. Milli park, yaban hayatı ve çeşitli bitki türleri ile zengin bir ekosisteme sahiptir.
+Duzce-Golyaka Efteni Golu, Karadeniz Bölgesi'nde bulunan Duzce iline bağlı Golyaka ilçesinde yer alan 140 hektarlık bir milli parktır. Efteni Golu, Duzce'nin önemli turizm merkezlerinden biridir ve doğa severlerin ziyaret ettiği bir yerdir. Milli park, yaban hayatı ve çeşitli bitki türleri ile zengin bir ekosisteme sahiptir.
 
 ## Tarihçe
 

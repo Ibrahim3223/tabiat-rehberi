@@ -23,7 +23,7 @@ wikidata_id: "Q108226685"
 
 # Salda Gölü Sit Alanı
 
-Salda Gölü Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği benzersiz bir nokta olarak karşımıza çıkıyor. 140 hektarlık geniş alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu sit alanı, ziyaretçilerini doğanın kucağına davet ediyor. Gölün suyu, temiz ve berrak bir görünüm sunarken, çevredeki flora ve fauna da bu güzelliği tamamlıyor. Her mevsim farklı bir güzelliğe sahip olan Salda Gölü, doğa severlerin mutlaka ziyaret etmesi gereken bir yer.
+Salda Gölü Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği benzersiz bir nokta olarak karşımıza çıkıyor. Gölün suyu, temiz ve berrak bir görünüm sunarken, çevredeki flora ve fauna da bu güzelliği tamamlıyor. Her mevsim farklı bir güzelliğe sahip olan Salda Gölü, doğa severlerin mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Salda Gölü Sit Alanı, yüzyıllar boyunca çeşitli medeniyetlerin etkisi alt
 
 ## Coğrafya
 
-Salda Gölü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Göl, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Çevresinde yer alan dağlar ve ovalar, bu bölgenin coğrafi çeşitliliğini gösteriyor. İklim, karasal iklim özellikleri gösteriyor ve mevsimsel değişiklikler, flora ve faunayı etkiliyor. Gölün suyu, temiz ve berrak bir görünüm sunuyor ve çevredeki bitki örtüsü, bu güzelliği tamamlıyor. Salda Gölü Sit Alanı, coğrafi konumu itibariyle, çeşitli doğa etkinliklerine ve turizm faaliyetlerine elverişli bir bölge olarak dikkat çekiyor. Bu bölgenin coğrafi yapısı, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak sağlıyor.
+Salda Gölü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Çevresinde yer alan dağlar ve ovalar, bu bölgenin coğrafi çeşitliliğini gösteriyor. İklim, karasal iklim özellikleri gösteriyor ve mevsimsel değişiklikler, flora ve faunayı etkiliyor. Gölün suyu, temiz ve berrak bir görünüm sunuyor ve çevredeki bitki örtüsü, bu güzelliği tamamlıyor. Salda Gölü Sit Alanı, coğrafi konumu itibariyle, çeşitli doğa etkinliklerine ve turizm faaliyetlerine elverişli bir bölge olarak dikkat çekiyor. Bu bölgenin coğrafi yapısı, ziyaretçilerin doğa ile iç içe bir deneyim yaşamalarına olanak sağlıyor.
 
 ## Flora ve Fauna
 

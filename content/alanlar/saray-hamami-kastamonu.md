@@ -1,7 +1,7 @@
 ---
 title: "Saray Hamamı, Kastamonu"
 date: "2026-01-10T03:37:31.717Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245850"
 
 # Saray Hamamı, Kastamonu
 
-Kastamonu'nun merkezinde bulunan Saray Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin en büyük ve en özel mekanlarından biridir. Saray Hamamı, Kastamonu'nun tarihi ve kültürel zenginliklerini yansıtan önemli bir mekandır. Bu mekan, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve Kastamonu'nun en önemli gezi noktalarından biridir.
+Kastamonu'nun merkezinde bulunan Saray Hamamı, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Saray Hamamı, Kastamonu'nun tarihi ve kültürel zenginliklerini yansıtan önemli bir mekandır. Bu mekan, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve Kastamonu'nun en önemli gezi noktalarından biridir.
 
 ## Tarihçe
 

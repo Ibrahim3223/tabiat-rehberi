@@ -28,7 +28,7 @@ wikidata_id: "Q34829629"
 
 # Çölünbel Tepesi
 
-Çölünbel Tepesi, İç Anadolu Bölgesi'nin ortasında yer alan Kırşehir ilinin sınırları içerisinde bulunmaktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Çölünbel Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte bir gezi deneyimi sunmaktadır. Bu tepe, yıl boyunca farklı mevsimlerde ziyaret edilebilir ve her mevsim farklı bir güzelliği sunar. İlkbahar ve sonbahar aylarında, tepeye çıkan ziyaretçiler, çevredeki bitki örtüsünün güzelliğini ve rengarenk çiçeklerin açmasını izleme fırsatı bulabilirler.
+Çölünbel Tepesi, İç Anadolu Bölgesi'nin ortasında yer alan Kırşehir ilinin sınırları içerisinde bulunmaktadır. Çölünbel Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte bir gezi deneyimi sunmaktadır. Bu tepe, yıl boyunca farklı mevsimlerde ziyaret edilebilir ve her mevsim farklı bir güzelliği sunar. İlkbahar ve sonbahar aylarında, tepeye çıkan ziyaretçiler, çevredeki bitki örtüsünün güzelliğini ve rengarenk çiçeklerin açmasını izleme fırsatı bulabilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34829629"
 
 ## Coğrafya
 
-Çölünbel Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Çölünbel Tepesi, çevredeki dağlar ve ovalarla çevrilidir ve bu nedenle ziyaretçilerine geniş bir manzara sunar. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de coğrafi konumu hakkında bilgi vererek, bir gezi ve öğrenme deneyimi sunmaktadır. Çölünbel Tepesi, yıl boyunca farklı iklim koşullarına sahiptir ve bu nedenle ziyaretçilerine her mevsim farklı bir deneyim sunar. Kış aylarında, tepeye çıkan ziyaretçiler, karla kaplı dağların güzelliğini ve soğuk havayı deneyimleyebilirler. İlkbahar ve sonbahar aylarında, tepeye çıkan ziyaretçiler, çevredeki bitki örtüsünün güzelliğini ve rengarenk çiçeklerin açmasını izleme fırsatı bulabilirler. Yaz aylarında, tepeye çıkan ziyaretçiler, sıcak havayı ve güneşin güzelliğini deneyimleyebilirler.
+Çölünbel Tepesi, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir tepe olarak dikkat çekmektedir. Çölünbel Tepesi, çevredeki dağlar ve ovalarla çevrilidir ve bu nedenle ziyaretçilerine geniş bir manzara sunar. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de coğrafi konumu hakkında bilgi vererek, bir gezi ve öğrenme deneyimi sunmaktadır. Çölünbel Tepesi, yıl boyunca farklı iklim koşullarına sahiptir ve bu nedenle ziyaretçilerine her mevsim farklı bir deneyim sunar. Kış aylarında, tepeye çıkan ziyaretçiler, karla kaplı dağların güzelliğini ve soğuk havayı deneyimleyebilirler. İlkbahar ve sonbahar aylarında, tepeye çıkan ziyaretçiler, çevredeki bitki örtüsünün güzelliğini ve rengarenk çiçeklerin açmasını izleme fırsatı bulabilirler. Yaz aylarında, tepeye çıkan ziyaretçiler, sıcak havayı ve güneşin güzelliğini deneyimleyebilirler.
 
 ## Flora ve Fauna
 

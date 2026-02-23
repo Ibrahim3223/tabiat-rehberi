@@ -30,7 +30,7 @@ wikidata_id: "Q108228723"
 
 # AĞRI
 
-Ağrı milli parkı, Afyonkarahisar'ın merkezinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliğine davet ediyor. Ağrı milli parkı, Ege Bölgesi'nin önemli doğal alanlarından biri olarak bilinir. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, parkın içerisinde yürüyüş yapabilir, doğayı keşfedebilir ve dinlenebilir.
+Ağrı milli parkı, Afyonkarahisar'ın merkezinde yer alan 140 hektarlık bir yeşil alandır. Ağrı milli parkı, Ege Bölgesi'nin önemli doğal alanlarından biri olarak bilinir. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, parkın içerisinde yürüyüş yapabilir, doğayı keşfedebilir ve dinlenebilir.
 
 ## Tarihçe
 

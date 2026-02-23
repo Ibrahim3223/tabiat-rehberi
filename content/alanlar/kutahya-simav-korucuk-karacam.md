@@ -22,7 +22,7 @@ wikidata_id: "Q108227685"
 
 # Kutahya-Simav-Korucuk Karacam
 
-Kutahya-Simav-Korucuk Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal sitelerinden biridir. Burada, zengin bir flora ve fauna çeşitliliği bulunur. Park, ziyaretçilere doğayla iç içe bir deneyim sunar. Her mevsim, farklı bir güzelliğe sahip olan park, ziyaretçilerini büyüler.
+Kutahya-Simav-Korucuk Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. Burada, zengin bir flora ve fauna çeşitliliği bulunur. Park, ziyaretçilere doğayla iç içe bir deneyim sunar. Her mevsim, farklı bir güzelliğe sahip olan park, ziyaretçilerini büyüler.
 
 ## Tarihçe
 

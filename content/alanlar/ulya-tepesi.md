@@ -28,7 +28,7 @@ wikidata_id: "Q31503698"
 
 # Ulya Tepesi
 
-Erzurum'un doğal güzelliklerinin bir kısmını oluşturan Ulya Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılamaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunmaktadır. Ulya Tepesi'ne çıkanlar, hem Erzurum'un tarihi geçmişi hakkında bilgi sahibi olmak hem de şehrin görsel güzelliklerini keşfetmek için buraya gelmektedir. Bu tepe, aynı zamanda doğa severler için de önemli bir çekim merkezi olarak dikkat çekmektedir. Ziyaretçiler, Ulya Tepesi'ne tırmanırken, etrafındaki doğal güzellikleri keşfetmenin keyfini çıkarmaktadırlar.
+Erzurum'un doğal güzelliklerinin bir kısmını oluşturan Ulya Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılamaktadır. Ulya Tepesi'ne çıkanlar, hem Erzurum'un tarihi geçmişi hakkında bilgi sahibi olmak hem de şehrin görsel güzelliklerini keşfetmek için buraya gelmektedir. Bu tepe, aynı zamanda doğa severler için de önemli bir çekim merkezi olarak dikkat çekmektedir. Ziyaretçiler, Ulya Tepesi'ne tırmanırken, etrafındaki doğal güzellikleri keşfetmenin keyfini çıkarmaktadırlar.
 
 ## Tarihçe
 

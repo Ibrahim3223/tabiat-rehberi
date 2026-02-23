@@ -28,7 +28,7 @@ wikidata_id: "Q34829552"
 
 # Çukurağıl Tepesi
 
-Karaman ilinin eşsiz doğal güzelliklerinden biri olan Çukurağıl Tepesi, ziyaretçilerini tarihi ve doğal zenginlikleriyle büyülüyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Çukurağıl Tepesi, Karaman'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Bu tepe, aynı zamanda trekking ve doğa yürüyüşü severlerin de gözdesi oluyor.
+Karaman ilinin eşsiz doğal güzelliklerinden biri olan Çukurağıl Tepesi, ziyaretçilerini tarihi ve doğal zenginlikleriyle büyülüyor. Çukurağıl Tepesi, Karaman'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Bu tepe, aynı zamanda trekking ve doğa yürüyüşü severlerin de gözdesi oluyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Saracın Türbesi"
 date: "2026-01-10T05:32:41.861Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391659"
 
 # Saracın Türbesi
 
-Sivas'ın Divriği ilçesinde bulunan Saracın Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerin birleştiği bir noktaya davet ediyor. Bu özel mekan, yaklaşık 140 hektarlık bir alanda yer alıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Saracın Türbesi, sadece tarihi değerleriyle değil, aynı zamanda çevresi ile de dikkat çekiyor. Burada, ziyaretçiler hem tarihin izlerini takip edebiliyor hem de doğanın güzelliğini deneyimleyebiliyor.
+Sivas'ın Divriği ilçesinde bulunan Saracın Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerin birleştiği bir noktaya davet ediyor. Saracın Türbesi, sadece tarihi değerleriyle değil, aynı zamanda çevresi ile de dikkat çekiyor. Burada, ziyaretçiler hem tarihin izlerini takip edebiliyor hem de doğanın güzelliğini deneyimleyebiliyor.
 
 ## Tarihçe
 

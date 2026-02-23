@@ -22,7 +22,7 @@ wikidata_id: "Q108227048"
 
 # Afyon Sandıklı Akdağ YHGS
 
-Afyon Sandıklı Akdağ YHGS, İç Anadolu Bölgesi'nin güzide mekanlarından biridir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu mekan, doğaseverler için gerçek bir cennettir. Bölgenin coğrafi özellikleri ve tarihi geçmişi, burayı ziyaret edenler için büyük bir ilgi odağı oluşturmaktadır. Zengin flora ve fauna çeşitliliği, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Afyon Sandıklı Akdağ YHGS, hem yerel halk hem de yabancı ziyaretçiler için önemli bir turizm merkezi haline gelmiştir.
+Afyon Sandıklı Akdağ YHGS, İç Anadolu Bölgesi'nin güzide mekanlarından biridir. Bölgenin coğrafi özellikleri ve tarihi geçmişi, burayı ziyaret edenler için büyük bir ilgi odağı oluşturmaktadır. Zengin flora ve fauna çeşitliliği, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Afyon Sandıklı Akdağ YHGS, hem yerel halk hem de yabancı ziyaretçiler için önemli bir turizm merkezi haline gelmiştir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Afyon Sandıklı Akdağ YHGS'nin tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Afyon Sandıklı Akdağ YHGS, İç Anadolu Bölgesi'nin coğrafi özelliklerine göre şekillenmiştir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu mekan, bölgenin iklimine uygun olarak tasarlanmıştır. Bölgenin coğrafi yapısı, flora ve fauna çeşitliliğini desteklemektedir. Zengin bitki örtüsü ve hayvan çeşitliliği, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Afyon Sandıklı Akdağ YHGS, bölgenin coğrafi özellikleri ile ziyaretçilere benzersiz bir deneyim sunmaktadır. Bölgenin iklimi, ziyaretçilerin yılın her dönemi rahatça gezebileceği şekilde oluşmuştur.
+Afyon Sandıklı Akdağ YHGS, İç Anadolu Bölgesi'nin coğrafi özelliklerine göre şekillenmiştir. Bölgenin coğrafi yapısı, flora ve fauna çeşitliliğini desteklemektedir. Zengin bitki örtüsü ve hayvan çeşitliliği, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar. Afyon Sandıklı Akdağ YHGS, bölgenin coğrafi özellikleri ile ziyaretçilere benzersiz bir deneyim sunmaktadır. Bölgenin iklimi, ziyaretçilerin yılın her dönemi rahatça gezebileceği şekilde oluşmuştur.
 
 ## Flora ve Fauna
 

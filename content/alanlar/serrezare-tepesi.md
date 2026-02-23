@@ -28,7 +28,7 @@ wikidata_id: "Q31552215"
 
 # Serrezare Tepesi
 
-Mardin'in tarihi ve doğal güzelliklerinin birleştiği Serrezare Tepesi, yaklaşık 140 hektarlık bir alana yayılmış ve ziyaretçiler için önemli bir destinasyon. Bu tepe, Mardin'in merkezine uzun bir mesafe uzaklıkta ve şehrin tarihi dokusunu korumak için önemli bir rol oynamaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Mardin'in şehir hayatının yoğunluğundan uzaklaşmak isteyenler için ideal bir kaçış noktası.
+Mardin'in tarihi ve doğal güzelliklerinin birleştiği Serrezare Tepesi, yaklaşık 140 hektarlık bir alana yayılmış ve ziyaretçiler için önemli bir destinasyon. Bu tepe, Mardin'in merkezine uzun bir mesafe uzaklıkta ve şehrin tarihi dokusunu korumak için önemli bir rol oynamaktadır.
 
 ## Tarihçe
 

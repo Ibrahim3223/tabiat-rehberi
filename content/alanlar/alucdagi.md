@@ -23,7 +23,7 @@ wikidata_id: "Q108228206"
 
 # Alucdagi
 
-Alucdagi milli parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet olarak kabul ediliyor. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Milli parkın konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve burada geçirdiğiniz zaman, doğanın güzelliği ile iç içe geçmenizi sağlıyor.
+Alucdagi milli parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biri olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Milli parkın konumu, ziyaretçilere geniş bir görüş açısı sunuyor ve burada geçirdiğiniz zaman, doğanın güzelliği ile iç içe geçmenizi sağlıyor.
 
 ## Tarihçe
 

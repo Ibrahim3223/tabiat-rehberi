@@ -22,11 +22,11 @@ wikidata_id: "Q108227874"
 
 # Kocamurtluk
 
-Kocamurtluk milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan sunar. Bu geniş alan, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar. Kocamurtluk, doğa severler ve gezi tutkunları için ideal bir destinasyondur. Burada, doğanın sesini dinleyerek, stresten uzaklaşabilirsiniz. Milli parkın güzelliği, ziyaretçilerini büyüler ve unutulmaz anlar yaratır.
+Kocamurtluk milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu geniş alan, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunar. Kocamurtluk, doğa severler ve gezi tutkunları için ideal bir destinasyondur. Burada, doğanın sesini dinleyerek, stresten uzaklaşabilirsiniz. Milli parkın güzelliği, ziyaretçilerini büyüler ve unutulmaz anlar yaratır.
 
 ## Tarihçe
 
-Kocamurtluk milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, uzun yıllardır insan yerleşimlerine ev sahipliği yapmış ve çeşitli kültürlerin etkilerini taşımıştır. Tarihi geçmişi, parkın mimarisinde, flora ve faunasında görülebilir. Kocamurtluk, zaman içinde çeşitli değişimlere uğramış, ancak doğal güzelliğini korumuştur. Milli parkın kuruluş hikayesi, uzun yılların emeği ve çabasının sonucudur. Bu emek, günümüzde ziyaretçilerin keyifli bir gezi deneyimi yaşamasına katkıda bulunur. Kocamurtluk'un tarihi ve kültürel önemi, ziyaretçilerine unutulmaz bir deneyim sunar.
+Kocamurtluk milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, uzun yıllardır insan yerleşimlerine ev sahipliği yapmış ve çeşitli kültürlerin etkilerini taşımıştır. Tarihi geçmişi, parkın mimarisinde, flora ve faunasında görülebilir. Kocamurtluk, zaman içinde çeşitli değişimlere uğramış, ancak doğal güzelliğini korumuştur. Milli parkın kuruluş hikayesi, uzun yılların emeği ve çabasının sonucudur. Bu emek, günümüzde ziyaretçilerin keyifli bir gezi deneyimi yaşamasına katkıda bulunur.
 
 ## Coğrafya
 

@@ -50,7 +50,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir r
 
 ## Flora ve Fauna
 
-Karlık Dağı, Adıyaman'ın yarı kurak ikliminin hakim olduğu bir bölgede bulunmaktadır. Bu dağ ekosisteminde yükseklik zonları farklı flora ve fauna türlerini destekler. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanır, step ve ova ekolojisi karakterini gösterir. 
+Karlık Dağı, Adıyaman'ın yarı kurak ikliminin hakim olduğu bir bölgede bulunmaktadır. Bu dağ ekosisteminde yükseklik zonları farklı flora ve fauna türlerini destekler. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanır, step ve ova ekolojisi karakterini gösterir.
 
 Bitki örtüsü olarak step bitkileri ve otsu türler hakimdir. Mevsimsel değişimlerle birlikte, sonbahar aylarında göçmen kuşlar dağları ziyaret eder. Yaban hayatı, dağ keçileri, tilkiler ve çeşitli kuş türleri ile zenginleştirilmiştir. Sürüngenler de dağlık alanlarda yaşamlarını sürdürür.
 

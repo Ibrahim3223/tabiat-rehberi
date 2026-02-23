@@ -30,7 +30,7 @@ wikidata_id: "Q32210216"
 
 # Kömürcü Tepe
 
-Kömürcü Tepe, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, coğrafi konumu itibariyle ziyaretçilerini cezbediyor. Kömürcü Tepe'nin fiziksel verileri, coğrafi yapısı ve hikayesi bir bütün olarak düşünüldüğünde, ziyaretçilerin bu bölgeye olan ilgisini artırıyor. Kömürcü Tepe, doğa severlerin ve tarihi merak edenlerin bir araya gelebileceği ender mekanlardan biri olarak ön plana çıkıyor.
+Kömürcü Tepe, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. Kömürcü Tepe'nin fiziksel verileri, coğrafi yapısı ve hikayesi bir bütün olarak düşünüldüğünde, ziyaretçilerin bu bölgeye olan ilgisini artırıyor. Kömürcü Tepe, doğa severlerin ve tarihi merak edenlerin bir araya gelebileceği ender mekanlardan biri olarak ön plana çıkıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kömürcü Tepe'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tarihsel zenginl
 
 ## Coğrafya
 
-Kömürcü Tepe, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir mekan olarak dikkat çekiyor. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi konumu itibariyle ziyaretçilerini etkiliyor. Kömürcü Tepe'nin coğrafi yapısı, bölgenin iklimini ve doğasını da etkiliyor. İç Anadolu Bölgesi'nin genel iklim özellikleri, Kömürcü Tepe'de görülüyor. Bu tepe, çevresindeki diğer coğrafi oluşumlar ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilerin coğrafi açıdan zengin bir deneyim yaşayacağı anlaşılıyor. Kömürcü Tepe, coğrafi konumu, iklimi ve doğası ile birlikte ziyaretçilerini bekliyor.
+Kömürcü Tepe, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir mekan olarak dikkat çekiyor. Kömürcü Tepe'nin coğrafi yapısı, bölgenin iklimini ve doğasını da etkiliyor. İç Anadolu Bölgesi'nin genel iklim özellikleri, Kömürcü Tepe'de görülüyor. Bu tepe, çevresindeki diğer coğrafi oluşumlar ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilerin coğrafi açıdan zengin bir deneyim yaşayacağı anlaşılıyor. Kömürcü Tepe, coğrafi konumu, iklimi ve doğası ile birlikte ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

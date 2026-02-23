@@ -28,7 +28,7 @@ wikidata_id: "Q31571239"
 
 # Aydoğmuş Tepesi
 
-Aydoğmuş Tepesi, Tokat ilinin görkemli doğasını yansıtan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir bölgeyi kapsıyor. Tokat'ın merkezinden uzaklaşarak, bu tepeye ulaştığınızda, Karadeniz Bölgesi'nin yeşilliklerinin arasında kaybolacaksınız. Aydoğmuş Tepesi, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirdiğiniz her dakika, size huzur ve mutluluk getiriyor. Bu tepe, Tokat'ın gizli cenneti olarak biliniyor ve buraya geldiğinizde, nedenini anlayacaksınız.
+Aydoğmuş Tepesi, Tokat ilinin görkemli doğasını yansıtan bir tepe. Tokat'ın merkezinden uzaklaşarak, bu tepeye ulaştığınızda, Karadeniz Bölgesi'nin yeşilliklerinin arasında kaybolacaksınız. Aydoğmuş Tepesi, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirdiğiniz her dakika, size huzur ve mutluluk getiriyor. Bu tepe, Tokat'ın gizli cenneti olarak biliniyor ve buraya geldiğinizde, nedenini anlayacaksınız.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Aydoğmuş Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu te
 
 ## Coğrafya
 
-Aydoğmuş Tepesi, Karadeniz Bölgesi'nin coğrafi olarak en güzel noktalarından biri. Bu tepe, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda ve bu yükseklik, ziyaretçilere, çevreyi izleme fırsatı sunuyor. Aydoğmuş Tepesi, yeşilliklerin arasında yer alıyor ve buraya geldiğinizde, çeşitli bitki türleriyle karşılaşacaksınız. Tepenin eteklerinde, küçük dereler ve nehirler akıyor ve bu su kaynakları, tepeyi daha da güzelleştiriyor. Aydoğmuş Tepesi, coğrafi olarak, bir çok önemli noktaya yakın ve buradan, diğer turistik bölgelere kolayca ulaşabilirsiniz. Tepenin etrafı, ormanlık alanlarla çevrili ve bu ormanlar, bir çok hayvan türünün yaşam alanı olarak biliniyor.
+Aydoğmuş Tepesi, Karadeniz Bölgesi'nin coğrafi olarak en güzel noktalarından biri. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda ve bu yükseklik, ziyaretçilere, çevreyi izleme fırsatı sunuyor. Aydoğmuş Tepesi, yeşilliklerin arasında yer alıyor ve buraya geldiğinizde, çeşitli bitki türleriyle karşılaşacaksınız. Tepenin eteklerinde, küçük dereler ve nehirler akıyor ve bu su kaynakları, tepeyi daha da güzelleştiriyor. Aydoğmuş Tepesi, coğrafi olarak, bir çok önemli noktaya yakın ve buradan, diğer turistik bölgelere kolayca ulaşabilirsiniz. Tepenin etrafı, ormanlık alanlarla çevrili ve bu ormanlar, bir çok hayvan türünün yaşam alanı olarak biliniyor.
 
 ## Flora ve Fauna
 

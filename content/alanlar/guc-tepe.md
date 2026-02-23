@@ -29,7 +29,7 @@ wikidata_id: "Q32222082"
 
 # Guç Tepe
 
-Guç Tepe, Diyarbakır'ın zengin tarihi ve doğal güzelliklerinin birleştiği bir nokta. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Guç Tepe'nin konumu, şehrin merkezi ilein doğal güzellikleri arasında bir köprü görevi görüyor. Tarihi geçmişi, ziyaretçilerini geçmişin derinliklerine götürüyor. Bu alan, hem doğa severler hem de tarih meraklıları için bir hazine.
+Guç Tepe, Diyarbakır'ın zengin tarihi ve doğal güzelliklerinin birleştiği bir nokta. Guç Tepe'nin konumu, şehrin merkezi ilein doğal güzellikleri arasında bir köprü görevi görüyor. Tarihi geçmişi, ziyaretçilerini geçmişin derinliklerine götürüyor. Bu alan, hem doğa severler hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Guç Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe, �
 
 ## Coğrafya
 
-Guç Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, Diyarbakır şehrinin doğal güzelliklerini ve tarihi alanlarını bir araya getiriyor. Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Coğrafi konumu, ziyaretçilere şehrin merkezi ilein doğal güzelliklerine ulaşma imkanı sağlıyor. Guç Tepe, şehrin iklimini ve çevresini şekillendiren faktörlerden biri. Bu tepe, Diyarbakır'ın coğrafi çeşitliliğini ve zenginliğini gösteriyor.
+Guç Tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, Diyarbakır şehrinin doğal güzelliklerini ve tarihi alanlarını bir araya getiriyor. Coğrafi konumu, ziyaretçilere şehrin merkezi ilein doğal güzelliklerine ulaşma imkanı sağlıyor. Guç Tepe, şehrin iklimini ve çevresini şekillendiren faktörlerden biri. Bu tepe, Diyarbakır'ın coğrafi çeşitliliğini ve zenginliğini gösteriyor.
 
 ## Flora ve Fauna
 

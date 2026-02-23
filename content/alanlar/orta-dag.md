@@ -33,7 +33,7 @@ wikidata_id: "Q34887831"
 
 ## Tarihçe
 
-Orta Dağ, Çorum'un zengin tarihi dokusu içinde yer alan bir doğal alan olarak dikkat çekiyor. Çorum bölgesi, tarihin çeşitli dönemlerinde Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların etkilerini taşımış bir région. Bu bölgede yaşayan topluluklar, doğal kaynakları kullanarak hayvancılık, tarım ve ticaret gibi faaliyetlerle geçimlerini sağlamışlar.
+Orta Dağ, Çorum'un zengin tarihi dokusu içinde yer alan bir doğal alan olarak dikkat çekiyor. Çorum bölgesi, tarihin çeşitli dönemlerinde Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların etkilerini taşımış bir bölge. Bu bölgede yaşayan topluluklar, doğal kaynakları kullanarak hayvancılık, tarım ve ticaret gibi faaliyetlerle geçimlerini sağlamışlar.
 
 Doğal alanların Türkiye'deki tarihsel önemi, ülkenin coğrafi çeşitliliği ve kültürel zenginliği açısından büyük önem taşıyor. Bu tür alanlar, yalnızca ekolojik dengenin korunması açısından değil, aynı zamanda insanların yaşam tarzları ve geleneksel uygulamalarının korunması için de kritik rol oynuyor. Yaylacılık ve hayvancılık gibi faaliyetler, bu bölgelerde yaşayan insanların geleneksel yaşam şekillerinin önemli bir parçasını oluşturuyor.
 
@@ -51,11 +51,11 @@ Orta Dağ'ın fiziksel yapısı, bölgenin jeolojik tarihini yansıtan bir yapı
 
 ## Flora ve Fauna
 
-Orta Dağ, Çorum'un nemli iklimine ev sahipliği yapan bir dağ ekosistemi olarak, yüksek biyoçeşitlili ve gür ormanlarla dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Orta Dağ, Çorum'un nemli iklimine ev sahipliği yapan bir dağ ekosistemi olarak, yüksek biyoçeşitlili ve gür ormanlarla dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, ilkbaharın gelişiyle birlikte renkli çiçekler açarken, sonbaharda da yaprak döken ağaçların sarı, turuncu ve kırmızı tonları manzaraya renk katıyor. Dağın yükseklik zonlarına çıkıldıkça, alpin flora hakim oluyor. 
+Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, ilkbaharın gelişiyle birlikte renkli çiçekler açarken, sonbaharda da yaprak döken ağaçların sarı, turuncu ve kırmızı tonları manzaraya renk katıyor. Dağın yükseklik zonlarına çıkıldıkça, alpin flora hakim oluyor.
 
-Yaban hayatına baktığımızda, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin bir parçası olarak yaşamlarını sürdürüyorlar. Göçmen kuşlar sonbaharda dağları terk ederken, yerli türler mevsimsel değişimlere adapte olarak yaşamını sürdürüyor. 
+Yaban hayatına baktığımızda, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin bir parçası olarak yaşamlarını sürdürüyorlar. Göçmen kuşlar sonbaharda dağları terk ederken, yerli türler mevsimsel değişimlere adapte olarak yaşamını sürdürüyor.
 
 Bu dağ ekosisteminin ekolojik değeri, yüksek biyoçeşitlili ve habitat çeşitliliği nedeniyle oldukça önemli. Bu nedenle, koruma altına alınması ve sürdürülebilir kullanımının sağlanması büyük önem taşıyor.
 

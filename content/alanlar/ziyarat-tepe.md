@@ -28,7 +28,7 @@ wikidata_id: "Q31386743"
 
 # Ziyarat Tepe
 
-Ziyarat Tepe, Diyarbakır'ın zengin tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Burada, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini etkileyen bir manzaraya sahip. Bu tepe, şehrin merkezine yakınlığıyla dikkat çekiyor ve ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Ziyarat Tepe, Diyarbakır'ın önemli bir turizm merkezi olarak dikkat çekiyor.
+Ziyarat Tepe, Diyarbakır'ın zengin tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Bu tepe, şehrin merkezine yakınlığıyla dikkat çekiyor ve ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Ziyarat Tepe, Diyarbakır'ın önemli bir turizm merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 

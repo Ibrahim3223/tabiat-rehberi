@@ -1,7 +1,7 @@
 ---
 title: "Terziler Hamamı"
 date: "2026-01-09T23:06:12.375Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738918"
 
 # Terziler Hamamı
 
-Terziler Hamamı, İzmir'in Tire ilçesinde bulunan, 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir plajdır. Bu plaj, Ege Bölgesi'nin en güzel ve sakin yerlerinden biri olarak bilinir. Tire'nin merkezine yakın konumuyla, ziyaretçilerin kolayca ulaşabileceği bir noktadadır. Plajın çevresi, yeşilliklerle dolu ve doğal güzelliği ile ziyaretçilerini etkilemektedir. Terziler Hamamı, denizin ve güneşin keyfini çıkarabileceğiniz, aynı zamanda doğayla iç içe olabileceğiniz bir mekan olarak dikkat çekmektedir.
+ Bu plaj, Ege Bölgesi'nin en güzel ve sakin yerlerinden biri olarak bilinir. Tire'nin merkezine yakın konumuyla, ziyaretçilerin kolayca ulaşabileceği bir noktadadır. Plajın çevresi, yeşilliklerle dolu ve doğal güzelliği ile ziyaretçilerini etkilemektedir. Terziler Hamamı, denizin ve güneşin keyfini çıkarabileceğiniz, aynı zamanda doğayla iç içe olabileceğiniz bir mekan olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Terziler Hamamı'nın tarihi geçmişi, Tire'nin tarihi ile iç içedir. Tire, E
 
 ## Coğrafya
 
-Terziler Hamamı, İzmir'in Tire ilçesinde, Ege Bölgesi'nin batı kıyısında yer alır. Plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, geniş ve uzun bir kumsala sahiptir ve denizin suyu, genellikle sakin ve berraktır. Plajın çevresi, yeşilliklerle dolu ve çeşitli ağaçlar, çalılar ve bitkilerle kaplıdır. Terziler Hamamı, deniz seviyesinde yer alır ve etrafı, tepelerle ve dağlarla çevrilidir. Bu coğrafi konum, plajı, diğer bölgelerden ayırır ve bir atmosfer yaratır. Plajın iklimi, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıcak ve güneşli, kış aylarında ise ılık ve yağmurludur. Bu iklim, plajı, yıl boyunca ziyaret edilebilecek bir yer haline getirir.
+Terziler Hamamı, İzmir'in Tire ilçesinde, Ege Bölgesi'nin batı kıyısında yer alır. Bu alan, geniş ve uzun bir kumsala sahiptir ve denizin suyu, genellikle sakin ve berraktır. Plajın çevresi, yeşilliklerle dolu ve çeşitli ağaçlar, çalılar ve bitkilerle kaplıdır. Terziler Hamamı, deniz seviyesinde yer alır ve etrafı, tepelerle ve dağlarla çevrilidir. Bu coğrafi konum, plajı, diğer bölgelerden ayırır ve bir atmosfer yaratır. Plajın iklimi, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıcak ve güneşli, kış aylarında ise ılık ve yağmurludur. Bu iklim, plajı, yıl boyunca ziyaret edilebilecek bir yer haline getirir.
 
 ## Flora ve Fauna
 

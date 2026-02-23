@@ -28,7 +28,7 @@ wikidata_id: "Q31386124"
 
 # Dikek Tepe
 
-Gaziantep'in kalbinde yer alan Dikek Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık geniş bir yeşil alan sunuyor. Bu tepe, şehrin tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta olarak biliniyor. Dikek Tepe, ziyaretçilerine hem tarihi bir perspektif hem de şehrin panoramik manzarasını sunuyor. Tepenin eteklerinde yer alan tarihi yapılar ve çevredeki yeşillik, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+ Bu tepe, şehrin tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta olarak biliniyor. Dikek Tepe, ziyaretçilerine hem tarihi bir perspektif hem de şehrin panoramik manzarasını sunuyor. Tepenin eteklerinde yer alan tarihi yapılar ve çevredeki yeşillik, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -51,9 +51,9 @@ Ada, çevresindeki diğer adalar ve anakara ile ekosistem bağlantısı açısı
 
 ## Flora ve Fauna
 
-Gelibolu Adası, Muğla'nın güzide noktalarından biri, 1200 hektarlık bir yeşil cennet. İlkbaharın gelmesiyle birlikte, ada çam ormanları ve zeytinlikler çiçeklerle donanır. Çam ağaçlarının yüksekliklerine tırmanan çiçek açan sarmaşıklar, adayı bir renk cümbüşüne çevirir. 
+Gelibolu Adası, Muğla'nın güzide noktalarından biri, 1200 hektarlık bir yeşil cennet. İlkbaharın gelmesiyle birlikte, ada çam ormanları ve zeytinlikler çiçeklerle donanır. Çam ağaçlarının yüksekliklerine tırmanan çiçek açan sarmaşıklar, adayı bir renk cümbüşüne çevirir.
 
-Yaban hayatına bakıldığında, ada özellikle deniz kuşları için önemli bir üs görevi görür. Kıyı bitkileri arasında yuvalanan kuşlar, adanın ekolojik dengesini sağlar. Ada ekosisteminin izole popülasyonları, bu canlıların yaşam alanlarını korur. Sonbaharda, göç eden kuşlar adayı ziyaret eder, bu da adanın biyolojik çeşitliliğini gösterir. 
+Yaban hayatına bakıldığında, ada özellikle deniz kuşları için önemli bir üs görevi görür. Kıyı bitkileri arasında yuvalanan kuşlar, adanın ekolojik dengesini sağlar. Ada ekosisteminin izole popülasyonları, bu canlıların yaşam alanlarını korur. Sonbaharda, göç eden kuşlar adayı ziyaret eder, bu da adanın biyolojik çeşitliliğini gösterir.
 
 Gelibolu Adası, ekolojik değerini korumak için önemli bir nokta. Ada, zeytinlikler ve çam ormanları ile birlikte, Akdeniz ikliminin karakteristik özelliklerini taşır. Bu ekosistem, canlıların birbirine bağımlı olduğu bir sistemdir. Ada, doğa severler için bir cennet, bilim insanları için ise bir araştırma alanıdır.
 

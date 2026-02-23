@@ -28,7 +28,7 @@ wikidata_id: "Q31391088"
 
 # Kadir Tepesi
 
-Kadir Tepesi, Şanlıurfa'nın Güneydoğu Anadolu Bölgesi'nde yer alan önemli bir coğrafi ve tarihi nokta olarak biliniyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Kadir Tepesi, bölgenin coğrafi yapısını anlama ve tarihi geçmişi hakkında bilgi edinmek için önemli bir destinasyon olarak kabul ediliyor. Tepenin eteklerinde yer alan yerleşim yerleri ve tarihi kalıntılar, buranın zengin kültürel mirasını gözler önüne seriyor. Kadir Tepesi, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve hayvanları gözlemlemek için de ideal bir yer olarak dikkat çekiyor.
+Kadir Tepesi, Şanlıurfa'nın Güneydoğu Anadolu Bölgesi'nde yer alan önemli bir coğrafi ve tarihi nokta olarak biliniyor. Kadir Tepesi, bölgenin coğrafi yapısını anlama ve tarihi geçmişi hakkında bilgi edinmek için önemli bir destinasyon olarak kabul ediliyor. Tepenin eteklerinde yer alan yerleşim yerleri ve tarihi kalıntılar, buranın zengin kültürel mirasını gözler önüne seriyor. Kadir Tepesi, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve hayvanları gözlemlemek için de ideal bir yer olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Kadir Tepesi, coğrafi açıdan oldukça zengin bir yapıya sahip. Tepenin bulun
 
 ## Flora ve Fauna
 
-Kadir Tepesi, flora ve fauna açısından oldukça zengin bir yapıya sahip. Tepenin bulunduğu région, çeşitli bitki türlerine ev sahipliği yapıyor. Bu bitki türleri, genellikle bölgenin coğrafi yapısına ve iklimine uyum sağlamış türler olarak dikkat çekiyor. Kadir Tepesi'nin eteklerinde ve tepesinde, çeşitli ağaçlar, otlar ve çiçekler bulunmakta. Tepenin fauna zenginliği de, önemli bir unsur olarak dikkat çekiyor. Bu bölgede, çeşitli hayvan türleri yaşamaktadır. Kadir Tepesi, aynı zamanda göçmen kuşların konaklama alanı olarak da biliniyor. Tepenin flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, bölgede daha çok bitki türü görülürken, sonbahar ve kış aylarında daha çok hayvan türü gözlemleniyor.
+ Tepenin bulunduğu bölge, çeşitli bitki türlerine ev sahipliği yapıyor. Bu bitki türleri, genellikle bölgenin coğrafi yapısına ve iklimine uyum sağlamış türler olarak dikkat çekiyor. Kadir Tepesi'nin eteklerinde ve tepesinde, çeşitli ağaçlar, otlar ve çiçekler bulunmakta. Tepenin fauna zenginliği de, önemli bir unsur olarak dikkat çekiyor. Bu bölgede, çeşitli hayvan türleri yaşamaktadır. Kadir Tepesi, aynı zamanda göçmen kuşların konaklama alanı olarak da biliniyor. Tepenin flora ve faunası, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, bölgede daha çok bitki türü görülürken, sonbahar ve kış aylarında daha çok hayvan türü gözlemleniyor.
 
 ## Ziyaret Bilgileri
 

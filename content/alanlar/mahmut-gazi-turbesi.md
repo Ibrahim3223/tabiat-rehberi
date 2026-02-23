@@ -1,7 +1,7 @@
 ---
 title: "Mahmut Gazi Türbesi"
 date: "2026-01-10T04:57:12.619Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391461"
 
 # Mahmut Gazi Türbesi
 
-Mahmut Gazi Türbesi, Ege Bölgesi'nin çekim merkezlerinden biri olarak bilinir. Çal/Denizli'de yer alan bu bölge, yaklaşık 140 hektarlık bir alanı kaplar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilere geniş bir alan sunar. Mahmut Gazi Türbesi, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekmektedir. Ziyaretçiler, bu bölgeyi keşfederek hem tarihle hem de doğayla iç içe olmanın keyfini çıkarabilirler.
+Mahmut Gazi Türbesi, Ege Bölgesi'nin çekim merkezlerinden biri olarak bilinir. Çal/Denizli'de yer alan bu bölge, yaklaşık 140 hektarlık bir alanı kaplar. Mahmut Gazi Türbesi, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekmektedir. Ziyaretçiler, bu bölgeyi keşfederek hem tarihle hem de doğayla iç içe olmanın keyfini çıkarabilirler.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q124363439"
 
 # Bardnala Şelalesi
 
-Bardnala Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olan Artvin ilinde yer alır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çeken bir doğal güzelliktir. Bardnala Şelalesi, Karadeniz Bölgesi'nin en önemli su kaynaklarından biridir ve bölgenin ekosistemine önemli katkılar sağlar. Şelalenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
+Bardnala Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olan Artvin ilinde yer alır. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çeken bir doğal güzelliktir. Bardnala Şelalesi, Karadeniz Bölgesi'nin en önemli su kaynaklarından biridir ve bölgenin ekosistemine önemli katkılar sağlar. Şelalenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bardnala Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Bardnala Şelalesi, Karadeniz Bölgesi'nin coğrafi yapısı içerisinde, dağların ve ormanların arasında yer alır. Bu bölge, 140 hektarlık bir yeşil alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şelalenin yüksekliği, yüksek bir konumdadir. Bardnala Şelalesi, Karadeniz Bölgesi'nin iklim koşullarına uygun olarak, yıl boyunca ziyaretçilerini ağırlar. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin faunayı destekler. Şelalenin çevresinde, yüksek dağlar ve derin vadiler bulunur ve bu bölge, trekking ve doğa yürüyüşü için ideal bir yerdir.
+Bardnala Şelalesi, Karadeniz Bölgesi'nin coğrafi yapısı içerisinde, dağların ve ormanların arasında yer alır. Şelalenin yüksekliği, yüksek bir konumdadir. Bardnala Şelalesi, Karadeniz Bölgesi'nin iklim koşullarına uygun olarak, yıl boyunca ziyaretçilerini ağırlar. Bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin faunayı destekler. Şelalenin çevresinde, yüksek dağlar ve derin vadiler bulunur ve bu bölge, trekking ve doğa yürüyüşü için ideal bir yerdir.
 
 ## Flora ve Fauna
 

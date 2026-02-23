@@ -1,7 +1,7 @@
 ---
 title: "Eyüp Sultan Türbesi"
 date: "2026-01-10T04:49:13.137Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q61072574"
 
 # Eyüp Sultan Türbesi
 
-Eyüp Sultan Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan, tarihi ve kültürel açıdan büyük önem taşıyan bir turizm merkezi. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve İstanbul'un en önemli tarihi mekanlarından biri olarak kabul ediliyor. Eyüp Sultan Türbesi, İstanbul'un fethinin sembolü olarak görülüyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. 140 hektarlık bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor.
+Eyüp Sultan Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan, tarihi ve kültürel açıdan büyük önem taşıyan bir turizm merkezi. Eyüp Sultan Türbesi, İstanbul'un fethinin sembolü olarak görülüyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 

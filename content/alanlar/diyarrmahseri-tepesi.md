@@ -29,7 +29,7 @@ wikidata_id: "Q31553586"
 
 # Diyarrmahseri Tepesi
 
-Diyarrmahseri Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Tepenin etrafında kurulan köyler, ziyaretçilere yerel lezzetler sunarken, tepe itself de yürüyüş ve doğa severler için bir cennet olarak görev yapmaktadır.
+Diyarrmahseri Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Tepenin etrafında kurulan köyler, ziyaretçilere yerel lezzetler sunarken, tepe itself de yürüyüş ve doğa severler için bir cennet olarak görev yapmaktadır.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Diyarrmahseri Tepesi'ni ziyaret etmek, doğa severler için bir cennet olabilir.
 
 ## İlginç Bilgiler
 
-- Diyarrmahseri Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin etrafında, birçok yürüyüş ve trekking rotası bulunmaktadır.
 - Tepenin fauna zenginliği, birçok kuş türünün yuvalanma alanı olarak bilinmektedir.
 - Tepenin eteklerinde kurulan köyler, ziyaretçilere yerel lezzetler sunarken, tepe itself de, birçok tarihi eser ve kalıntıya ev sahipliği yapmaktadır.

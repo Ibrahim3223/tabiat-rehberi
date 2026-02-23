@@ -28,7 +28,7 @@ wikidata_id: "Q31558306"
 
 # Boruklu Tepesi
 
-Boruklu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan önemli bir doğal alandır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak için ideal bir yer. Boruklu Tepesi, Ankara'nın merkezine yakınlığı ve ulaşılabilir olmasıyla da dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna encontrarabilirsiniz. Tepenin eteklerinde ve çevresinde, Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek de mümkündür. Boruklu Tepesi, hem doğal güzellikleri hem de tarihi ve kültürel önemiyle ziyaretçilerini bekliyor.
+Boruklu Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan önemli bir doğal alandır. Boruklu Tepesi, Ankara'nın merkezine yakınlığı ve ulaşılabilir olmasıyla da dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna encontrarabilirsiniz. Tepenin eteklerinde ve çevresinde, Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek de mümkündür. Boruklu Tepesi, hem doğal güzellikleri hem de tarihi ve kültürel önemiyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

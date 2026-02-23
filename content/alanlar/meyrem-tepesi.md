@@ -28,7 +28,7 @@ wikidata_id: "Q31510446"
 
 # Meyrem Tepesi
 
-Meyrem Tepesi, Doğu Anadolu Bölgesi'nin Elazığ şehrinde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Meyrem Tepesi, şehrin kalabalığından uzaklaşma ve doğanın güzelliği ile baş başa kalmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini sunarken, tepe itself, manzarasıyla büyülüyor.
+Meyrem Tepesi, Doğu Anadolu Bölgesi'nin Elazığ şehrinde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. Meyrem Tepesi, şehrin kalabalığından uzaklaşma ve doğanın güzelliği ile baş başa kalmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini sunarken, tepe itself, manzarasıyla büyülüyor.
 
 ## Tarihçe
 

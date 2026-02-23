@@ -29,7 +29,7 @@ wikidata_id: "Q134728131"
 
 # Ozan Anıtı
 
-Ozan Anıtı, Malatya'nın Darende ilçesinde bulunan bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölge, tarihi geçmişi ve doğal güzellikleriyle dikkat çeker. Özgün bir şekilde tasarlanan anıt, ziyaretçilere både dinlenme ve gezi imkanı sunar. Ayrıca, çevresindeki doğal güzellikler, ziyaretçileri büyüler.
+Ozan Anıtı, Malatya'nın Darende ilçesinde bulunan bir plajdır. Bu bölge, tarihi geçmişi ve doğal güzellikleriyle dikkat çeker. Özgün bir şekilde tasarlanan anıt, ziyaretçilere både dinlenme ve gezi imkanı sunar. Ayrıca, çevresindeki doğal güzellikler, ziyaretçileri büyüler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ozan Anıtı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Ozan Anıtı, Malatya'nın Darende ilçesinde, Doğu Anadolu Bölgesi'nde bulunur. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Anıtın bulunduğu alan, 140 hektarlık bir yeşil alanı kapsar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliği sunar. Ayrıca, anıtın çevresi, çeşitli bitki türleri ve fauna ile dolu bir doğa harikasıdır. Bu bölge, coğrafi olarak, hem dağlık hem de ovalık alanları içerir. İklimi, karasal iklim özellikleri gösterir ve mevsimsel değişimler, bu bölgenin güzelliğini daha da arttırır.
+Ozan Anıtı, Malatya'nın Darende ilçesinde, Doğu Anadolu Bölgesi'nde bulunur. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Anıtın bulunduğu alan, 140 hektarlık bir yeşil alanı kapsar. Ayrıca, anıtın çevresi, çeşitli bitki türleri ve fauna ile dolu bir doğa harikasıdır. Bu bölge, coğrafi olarak, hem dağlık hem de ovalık alanları içerir. İklimi, karasal iklim özellikleri gösterir ve mevsimsel değişimler, bu bölgenin güzelliğini daha da arttırır.
 
 ## Flora ve Fauna
 

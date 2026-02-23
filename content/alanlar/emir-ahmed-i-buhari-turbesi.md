@@ -1,7 +1,7 @@
 ---
 title: "Emir Ahmed-i Buhari Türbesi"
 date: "2026-01-10T07:18:05.275Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390969"
 
 # Emir Ahmed-i Buhari Türbesi
 
-Emir Ahmed-i Buhari Türbesi, İstanbul'un tarihi ve turistik mekanlarından biri olan Fatih ilçesinde yer alıyor. Bu alan, yaklaşık 140 hektarlık geniş bir yeşil alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Türbenin çevresinde, ziyaretçilerin dinlenebileceği ve manzarayı seyredebileceği geniş alanlar mevcut. Türbenin tarihi geçmişi, İstanbul'un önemli kültür mirasının bir parçası olarak dikkat çekiyor.
+Emir Ahmed-i Buhari Türbesi, İstanbul'un tarihi ve turistik mekanlarından biri olan Fatih ilçesinde yer alıyor. Türbenin çevresinde, ziyaretçilerin dinlenebileceği ve manzarayı seyredebileceği geniş alanlar mevcut. Türbenin tarihi geçmişi, İstanbul'un önemli kültür mirasının bir parçası olarak dikkat çekiyor.
 
 ## Tarihçe
 

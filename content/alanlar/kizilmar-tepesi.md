@@ -28,7 +28,7 @@ wikidata_id: "Q31558964"
 
 # Kızılmar Tepesi
 
-Kızılmar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanıyla dikkat çeken bir tepe. Bu bölge, Ankara'nın şehir merkezi yakınlarında bulunmasıyla birlikte, doğa severler için önemli bir gezi noktası. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Kış aylarında karla kaplanan tepede, yaz aylarında ise yeşilin tüm tonlarını görme mümkün. Bu tepe, hem Ankara'nın tarihi geçmişi hem de doğal güzelliği konusunda önemli bir yer tutuyor.
+ Bu bölge, Ankara'nın şehir merkezi yakınlarında bulunmasıyla birlikte, doğa severler için önemli bir gezi noktası. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Kış aylarında karla kaplanan tepede, yaz aylarında ise yeşilin tüm tonlarını görme mümkün. Bu tepe, hem Ankara'nın tarihi geçmişi hem de doğal güzelliği konusunda önemli bir yer tutuyor.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728196"
 
 # Cevizli Mahallesi Kaya Mezarı Salıpazarı
 
-Cevizli Mahallesi Kaya Mezarı Salıpazarı, Karadeniz Bölgesi'nin Samsun ilinin Salıpazarı ilçesinde yer alan bir doğal ve tarihi güzelliktir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede yer alan kaya mezarları, tarihi geçmişi hakkında bilgi verir. Bu mezarlar, bölgenin tarihsel önemini vurgular ve ziyaretçilere farklı bir deneyim sunar. Cevizli Mahallesi Kaya Mezarı Salıpazarı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekebilecek bir destinasyon olarak karşımıza çıkar.
+Cevizli Mahallesi Kaya Mezarı Salıpazarı, Karadeniz Bölgesi'nin Samsun ilinin Salıpazarı ilçesinde yer alan bir doğal ve tarihi güzelliktir. Bu mezarlar, bölgenin tarihsel önemini vurgular ve ziyaretçilere farklı bir deneyim sunar. Cevizli Mahallesi Kaya Mezarı Salıpazarı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekebilecek bir destinasyon olarak karşımıza çıkar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Cevizli Mahallesi Kaya Mezarı Salıpazarı'nın tarihi geçmişi, bölgenin yü
 
 ## Coğrafya
 
-Cevizli Mahallesi Kaya Mezarı Salıpazarı, Karadeniz Bölgesi'nin Samsun ilinin Salıpazarı ilçesinde yer alır. Bu bölge, coğrafi olarak 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölgenin coğrafyası, kaya mezarlarının yer aldığı dağlık ve engebeli bir araziye sahiptir. İklim, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli iklimine uygun olarak şekillenir. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu coğrafi özellikler, Cevizli Mahallesi Kaya Mezarı Salıpazarı'nı ziyaret edenler için benzersiz bir deneyim sunar. Bölgenin coğrafi yapısı, tarih ve doğanın bir arada bulunmasını sağlar ve ziyaretçilere bu açıdan önemli bir gezi deneyimi sunar.
+Cevizli Mahallesi Kaya Mezarı Salıpazarı, Karadeniz Bölgesi'nin Samsun ilinin Salıpazarı ilçesinde yer alır. Bölgenin coğrafyası, kaya mezarlarının yer aldığı dağlık ve engebeli bir araziye sahiptir. İklim, Karadeniz Bölgesi'nin karakteristik yağışlı ve nemli iklimine uygun olarak şekillenir. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bu coğrafi özellikler, Cevizli Mahallesi Kaya Mezarı Salıpazarı'nı ziyaret edenler için benzersiz bir deneyim sunar. Bölgenin coğrafi yapısı, tarih ve doğanın bir arada bulunmasını sağlar ve ziyaretçilere bu açıdan önemli bir gezi deneyimi sunar.
 
 ## Flora ve Fauna
 

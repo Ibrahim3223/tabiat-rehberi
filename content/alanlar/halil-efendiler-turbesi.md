@@ -1,7 +1,7 @@
 ---
 title: "Halil Efendiler Türbesi"
 date: "2026-01-10T07:44:57.324Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391176"
 
 # Halil Efendiler Türbesi
 
-Halil Efendiler Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan. Fatih ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık bir alanda yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezme alanı sunuyor. Türbenin çevresi, tarihi yapılar ve yeşillik alanlarla dolu. Halil Efendiler Türbesi, İstanbul'un önemli dini ziyaret noktaları arasında yer alıyor ve her yıl birçok ziyaretçi tarafından ziyaret ediliyor. Ziyaretçiler, türbenin tarihi ve kültürel önemini öğrenmek için gelirler. Ayrıca, türbenin çevresinde çeşitli tarihi yapılar ve anıtlar da bulunmakta.
+Halil Efendiler Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan. Fatih ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık bir alanda yer alıyor. Türbenin çevresi, tarihi yapılar ve yeşillik alanlarla dolu. Halil Efendiler Türbesi, İstanbul'un önemli dini ziyaret noktaları arasında yer alıyor ve her yıl birçok ziyaretçi tarafından ziyaret ediliyor. Ziyaretçiler, türbenin tarihi ve kültürel önemini öğrenmek için gelirler. Ayrıca, türbenin çevresinde çeşitli tarihi yapılar ve anıtlar da bulunmakta.
 
 ## Tarihçe
 

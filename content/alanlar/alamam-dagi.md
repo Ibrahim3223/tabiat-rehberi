@@ -50,11 +50,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Alamam Dağı'nın çevre
 
 ## Flora ve Fauna
 
-Alamam Dağı, Karabük'ün nemli iklimine-ev sahipliği yapan gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Alamam Dağı, Karabük'ün nemli iklimine-ev sahipliği yapan gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çiçekler açar, sonbaharda ise yaprakların renk değiştirmesiyle birlikte bir renk cümbüşü oluşur. Dağın yükseklik zonlarına göre değişen flora, alpin çayırlar ve ormanları barındırır. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çiçekler açar, sonbaharda ise yaprakların renk değiştirmesiyle birlikte bir renk cümbüşü oluşur. Dağın yükseklik zonlarına göre değişen flora, alpin çayırlar ve ormanları barındırır.
 
-Yaban Hayatı bakımından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Dağ keçileri, ayılar ve tilkiler gibi büyük memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri göç sırasında bu bölgeyi kullanır. Sürüngenler ise, kayalık alanlarda ve çayırlarda bulunur. 
+Yaban Hayatı bakımından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Dağ keçileri, ayılar ve tilkiler gibi büyük memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri göç sırasında bu bölgeyi kullanır. Sürüngenler ise, kayalık alanlarda ve çayırlarda bulunur.
 
 Ekolojik Değer olarak, Alamam Dağı yüksek biyoçeşitlilik nedeniyle önemli bir ekosistemdir. Bu dağ, birçok canlıyaşam alanı sağlar ve ekolojik dengenin korunması için önemlidir.
 

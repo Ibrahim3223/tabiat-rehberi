@@ -22,7 +22,7 @@ wikidata_id: "Q108227492"
 
 # Bursa-Keles-Sorgun Karacam
 
-Bursa-Keles-Sorgun Karacam milli parkı, Marmara Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içinde çeşitli bitki türleri ve zengin fauna, doğa severleri bekliyor. Milli parkın konumu, Bursa ilinin Keles ve Sorgun ilçelerine yakın bir konumda yer alıyor.
+Bursa-Keles-Sorgun Karacam milli parkı, Marmara Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın içinde çeşitli bitki türleri ve zengin fauna, doğa severleri bekliyor. Milli parkın konumu, Bursa ilinin Keles ve Sorgun ilçelerine yakın bir konumda yer alıyor.
 
 ## Tarihçe
 

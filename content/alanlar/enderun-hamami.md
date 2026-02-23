@@ -1,7 +1,7 @@
 ---
 title: "Enderun Hamamı"
 date: "2026-01-09T23:36:49.763Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739150"
 
 # Enderun Hamamı
 
-Enderun Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi plaj, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Enderun Hamamı'nın tarihi geçmişi, ziyaretçilerini cezbeden bir diğer önemli unsur. Bu plaj, yüzyıllar boyunca insanların çekildiği, dinlendiği ve doğayı seyrettiği bir nokta olarak biliniyor. Enderun Hamamı, hem tarihi zenginliği hem de doğal güzelliği ile ziyaretçilerini bekliyor.
+Enderun Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi plaj, yaklaşık 140 hektarlık bir alanı kaplıyor. Enderun Hamamı'nın tarihi geçmişi, ziyaretçilerini cezbeden bir diğer önemli unsur. Bu plaj, yüzyıllar boyunca insanların çekildiği, dinlendiği ve doğayı seyrettiği bir nokta olarak biliniyor. Enderun Hamamı, hem tarihi zenginliği hem de doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Enderun Hamamı'nın tarihi geçmişi, oldukça zengin ve çeşitli. Bu plaj, y�
 
 ## Coğrafya
 
-Enderun Hamamı, coğrafi konumu itibariyle oldukça özel bir noktada bulunuyor. Marmara Bölgesi'nin güzide noktalarından biri olan bu plaj, İstanbul'un Fatih ilçesinde yer alıyor. Plajın coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikler sunuyor. Enderun Hamamı, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Plajın çevresinde, çeşitli bitki türleri ve zengin bir fauna bulunmakta. Enderun Hamamı, ziyaretçilerine hem doğal güzelliği hem de tarihi zenginliğiyle birlikte, benzersiz bir deneyim sunuyor. Plajın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, ılıman ve bir yapıya sahip. Bu iklim, ziyaretçilere yıl boyunca çeşitli aktiviteler ve deneyimler sunuyor.
+Enderun Hamamı, coğrafi konumu itibariyle oldukça özel bir noktada bulunuyor. Marmara Bölgesi'nin güzide noktalarından biri olan bu plaj, İstanbul'un Fatih ilçesinde yer alıyor. Plajın coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikler sunuyor. Plajın çevresinde, çeşitli bitki türleri ve zengin bir fauna bulunmakta. Enderun Hamamı, ziyaretçilerine hem doğal güzelliği hem de tarihi zenginliğiyle birlikte, benzersiz bir deneyim sunuyor. Plajın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, ılıman ve bir yapıya sahip. Bu iklim, ziyaretçilere yıl boyunca çeşitli aktiviteler ve deneyimler sunuyor.
 
 ## Flora ve Fauna
 

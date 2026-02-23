@@ -1,7 +1,7 @@
 ---
 title: "Bilal Dede Türbesi"
 date: "2026-01-10T05:10:32.358Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391626"
 
 # Bilal Dede Türbesi
 
-Bilal Dede Türbesi, Ege Bölgesi'nin en güzel yerlerinden biri olan Aydın'ın Koçarlı ilçesinde bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet etmektedir. Bu özel alan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini beklemektedir. Bilal Dede Türbesi, plajın güzelliği ve tarihi önemi ile gelenleri büyülemektedir.
+Bilal Dede Türbesi, Ege Bölgesi'nin en güzel yerlerinden biri olan Aydın'ın Koçarlı ilçesinde bulunmaktadır. Bu özel alan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini beklemektedir. Bilal Dede Türbesi, plajın güzelliği ve tarihi önemi ile gelenleri büyülemektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bilal Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniye
 
 ## Coğrafya
 
-Bilal Dede Türbesi, Ege Bölgesi'nin güzide yerlerinden biri olan Aydın'ın Koçarlı ilçesinde bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet etmektedir. Bu özel alan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini beklemektedir. Bilal Dede Türbesi, plajın güzelliği ve tarihi önemi ile gelenleri büyülemektedir. Çevresinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu özel yer, ziyaretçilerine doğanın güzelliğini ve tarihi öneminin birleşimini sunmaktadır.
+Bilal Dede Türbesi, Ege Bölgesi'nin güzide yerlerinden biri olan Aydın'ın Koçarlı ilçesinde bulunmaktadır. Bu özel alan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini beklemektedir. Bilal Dede Türbesi, plajın güzelliği ve tarihi önemi ile gelenleri büyülemektedir. Çevresinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu özel yer, ziyaretçilerine doğanın güzelliğini ve tarihi öneminin birleşimini sunmaktadır.
 
 ## Flora ve Fauna
 

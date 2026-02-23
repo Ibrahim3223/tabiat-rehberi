@@ -28,7 +28,7 @@ wikidata_id: "Q31552825"
 
 # Hanıkenaske Tepe
 
-Mardin'in tarihi dokusu içinde saklı bir hazine olarak bekan Hanike Tepe, ziyaretçilerini tarihin sâu sayfalarına davet ediyor. Mardin'in merkezi ve çevresinde yer alan bu tepe, bölgenin coğrafi ve kültürel zenginliklerini bir araya getiriyor. Tarihi yapılar ve doğal güzelliklerin bir arada bulunduğu bu bölge, Mardin'in turizm potansiyelini ortaya koyuyor. Mardin'in il sınırları içinde yer alan Hanike Tepe, keşfedilmeyi bekliyor.
+Mardin'in tarihi dokusu içinde saklı bir hazine olarak bekan Hanike Tepe, ziyaretçilerini tarihin derin sayfalarına davet ediyor. Mardin'in merkezi ve çevresinde yer alan bu tepe, bölgenin coğrafi ve kültürel zenginliklerini bir araya getiriyor. Tarihi yapılar ve doğal güzelliklerin bir arada bulunduğu bu bölge, Mardin'in turizm potansiyelini ortaya koyuyor. Mardin'in il sınırları içinde yer alan Hanike Tepe, keşfedilmeyi bekliyor.
 
 ## Tarihçe
 
@@ -48,7 +48,7 @@ Yaz mevsiminde sıcaklığın 35 dereceleri bulduğu Mardin'de, Hanikenaske Tepe
 
 ## Flora ve Fauna
 
-Hanikenaske Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu dağlık alan, yükseklik zonlarına göre değişen bitki örtüsüne sahip. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanıyor ve bir çiçek denizine dönüşüyor. 
+Hanikenaske Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu dağlık alan, yükseklik zonlarına göre değişen bitki örtüsüne sahip. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanıyor ve bir çiçek denizine dönüşüyor.
 
 Bu dağlık alanda, step ve ova ekolojisinin etkisiyle, çoğunlukla kuraklığa adapte olmuş bitkiler hakim. Dağların yüksek kesimlerinde, alpin flora typesi bitkiler görülüyor. Bu bitkiler, zorlu doğa koşullarına karşı dayanıklı ve uyumlu bir şekilde yaşamlarını sürdürüyorlar.
 

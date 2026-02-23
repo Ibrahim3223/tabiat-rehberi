@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Taceddin Ahmet Türbesi"
 date: "2026-01-10T05:27:34.447Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391745"
 
 # Seyyid Taceddin Ahmet Türbesi
 
-Seyyid Taceddin Ahmet Türbesi, Konya'nın Akşehir ilçesinde yer alan tarihi bir mekan ve plajdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, hem tarihi hem de doğal güzelliklerin bir araya geldiği özel bir noktayı temsil etmektedir. Türbenin çevresinde, ziyaretçilerin dinlenebileceği ve doğayı seyrettiği çeşitli alanlar bulunmaktadır. Bu mekan, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmektedir.
+Seyyid Taceddin Ahmet Türbesi, Konya'nın Akşehir ilçesinde yer alan tarihi bir mekan ve plajdır. Bu geniş alan, hem tarihi hem de doğal güzelliklerin bir araya geldiği özel bir noktayı temsil etmektedir. Türbenin çevresinde, ziyaretçilerin dinlenebileceği ve doğayı seyrettiği çeşitli alanlar bulunmaktadır. Bu mekan, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmektedir.
 
 ## Tarihçe
 

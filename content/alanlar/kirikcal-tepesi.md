@@ -28,7 +28,7 @@ wikidata_id: "Q32211250"
 
 # Kırıkçal Tepesi
 
-Kırıkçal Tepesi, Amasya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplı. Bu tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir örnektir. Ziyaretçiler, buranın zengin flora ve fauna çeşitliliğini keşfedebilir. Kırıkçal Tepesi, hem doğa severler hem de tarihi geçmişe ilgi duyanlar için bir cazibe merkezi.
+Kırıkçal Tepesi, Amasya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir örnektir. Ziyaretçiler, buranın zengin flora ve fauna çeşitliliğini keşfedebilir. Kırıkçal Tepesi, hem doğa severler hem de tarihi geçmişe ilgi duyanlar için bir cazibe merkezi.
 
 ## Tarihçe
 

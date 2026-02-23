@@ -23,7 +23,7 @@ wikidata_id: "Q6006166"
 
 # Büyük Çakıl Plajı
 
-Büyük Çakıl Plajı, Kaş'ta yer alan ve 140 hektarlık geniş yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu plaj, zengin flora ve fauna çeşitliliğiyle dikkat çeker. Yeşil alanın büyüklüğü, ziyaretçilere geniş bir açık alan sunar. Plajın genişliği ve uzunluğu, ziyaretçilerin rahatça güneşlenmesine ve denize girmesine olanak tanır. Büyük Çakıl Plajı, doğa severler için ideal bir destinasyondur.
+ Bu plaj, zengin flora ve fauna çeşitliliğiyle dikkat çeker. Yeşil alanın büyüklüğü, ziyaretçilere geniş bir açık alan sunar. Plajın genişliği ve uzunluğu, ziyaretçilerin rahatça güneşlenmesine ve denize girmesine olanak tanır. Büyük Çakıl Plajı, doğa severler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Büyük Çakıl Plajı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Büyük Çakıl Plajı, Kaş ilçesinde yer alır ve İç Anadolu Bölgesi'nde bulunmaktadır. Plajın coğrafi konumu, ziyaretçilere geniş bir manzara sunar. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Plajın etrafı, zengin flora ve fauna çeşitliliğiyle çevrilidir. Büyük Çakıl Plajı, deniz seviyesinde yer alır ve deniz suyu sıcaklığı, ziyaretçilerin rahatça denize girmesine olanak tanır. Plajın iklimi, Akdeniz iklimi característicasini taşır ve yaz aylarında sıcak, kış aylarında ılımandır. Büyük Çakıl Plajı, ziyaretçilere geniş bir açık alan sunar ve doğa severler için ideal bir destinasyondur.
+Büyük Çakıl Plajı, Kaş ilçesinde yer alır ve İç Anadolu Bölgesi'nde bulunmaktadır. Plajın coğrafi konumu, ziyaretçilere geniş bir manzara sunar. Plajın etrafı, zengin flora ve fauna çeşitliliğiyle çevrilidir. Büyük Çakıl Plajı, deniz seviyesinde yer alır ve deniz suyu sıcaklığı, ziyaretçilerin rahatça denize girmesine olanak tanır. Plajın iklimi, Akdeniz iklimi característicasini taşır ve yaz aylarında sıcak, kış aylarında ılımandır. Büyük Çakıl Plajı, ziyaretçilere geniş bir açık alan sunar ve doğa severler için ideal bir destinasyondur.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Büyük Çakıl Plajı, ziyaretçilere geniş bir açık alan sunar ve doğa sev
 ## İlginç Bilgiler
 
 - Büyük Çakıl Plajı, 140 hektarlık yeşil alanına sahiptir.
-- Plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Büyük Çakıl Plajı, zengin flora ve fauna çeşitliliğiyle dikkat çeker.
 - Plajın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir.
 - Büyük Çakıl Plajı, doğa severler için ideal bir destinasyondur.

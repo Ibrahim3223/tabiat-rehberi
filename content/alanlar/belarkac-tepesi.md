@@ -28,7 +28,7 @@ wikidata_id: "Q32133641"
 
 # Belarkaç Tepesi
 
-Belarkaç Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kırşehir'de yer alan bir tepe. Bu tepenin etrafındaki 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini sunuyor. Belarkaç Tepesi, ziyaretçilerini tarihi ve doğal zenginlikleriyle karşılar. Tepenin eteklerinde yer alan köyler, misafirlerine sıcak bir şekilde ev sahipliği yapar. Bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini etkileyen bir destinasyon.
+Belarkaç Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kırşehir'de yer alan bir tepe. Belarkaç Tepesi, ziyaretçilerini tarihi ve doğal zenginlikleriyle karşılar. Tepenin eteklerinde yer alan köyler, misafirlerine sıcak bir şekilde ev sahipliği yapar. Bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini etkileyen bir destinasyon.
 
 ## Tarihçe
 

@@ -46,9 +46,9 @@ Doğal kaynaklar açısından zengin bir bölge olan Köşmür Dağı, komşu al
 
 ## Flora ve Fauna
 
-Köşmür Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın zirvesinde, alpin çayırların hakimiyeti dikkat çekiyor. İlkbaharın gelişiyle birlikte, çayırlar rengarenk çiçeklerle donanıyor. 
+Köşmür Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın zirvesinde, alpin çayırların hakimiyeti dikkat çekiyor. İlkbaharın gelişiyle birlikte, çayırlar rengarenk çiçeklerle donanıyor.
 
-Yaban hayatı da bir o kadar zengin. Dağın yükseklik zonlarında, çeşitli memeli türleri yaşamlarını sürdürüyor. Kuşlar ise, mevsimsel göç yolları üzerinde önemli bir durak olan bu dağda, sonbaharda büyük sürüler halinde göç ediyorlar. Sürüngenler de, kayalık alanlarda ve çayırlarda yaşam buluyor. 
+Yaban hayatı da bir o kadar zengin. Dağın yükseklik zonlarında, çeşitli memeli türleri yaşamlarını sürdürüyor. Kuşlar ise, mevsimsel göç yolları üzerinde önemli bir durak olan bu dağda, sonbaharda büyük sürüler halinde göç ediyorlar. Sürüngenler de, kayalık alanlarda ve çayırlarda yaşam buluyor.
 
 Köşmür Dağı, ekolojik değerleri nedeniyle önemli bir koruma alanı. Bu yüksek dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin ekolojik dengesi için de büyük önem taşıyor.
 

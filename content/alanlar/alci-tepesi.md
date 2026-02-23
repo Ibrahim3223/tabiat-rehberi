@@ -28,7 +28,7 @@ wikidata_id: "Q32127900"
 
 # Alçı Tepesi
 
-Alçı Tepesi, Erzurum'un doğal güzellikleri arasında önemli bir yer tutuyor. 140 hektarlık geniş alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Alçı Tepesi, çevresindeki diğer tepe ve dağların arasında farklı bir güzelliğe sahip. Burada, temiz hava ve doğal güzellikler bir arada bulunuyor.
+Alçı Tepesi, Erzurum'un doğal güzellikleri arasında önemli bir yer tutuyor. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Alçı Tepesi, çevresindeki diğer tepe ve dağların arasında farklı bir güzelliğe sahip. Burada, temiz hava ve doğal güzellikler bir arada bulunuyor.
 
 ## Tarihçe
 

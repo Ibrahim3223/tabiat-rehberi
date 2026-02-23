@@ -1,7 +1,7 @@
 ---
 title: "Hacı Ahmed Paşa Türbesi"
 date: "2026-01-10T07:28:45.065Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391061"
 
 # Hacı Ahmed Paşa Türbesi
 
-Hacı Ahmed Paşa Türbesi, Üsküdar'da bulunan ve tarihi öneme sahip bir mekan olarak dikkat çekiyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yeşil alanlarla kaplı. Bu tarihi mekan, Marmara Bölgesi'nin en önemli ziyaret noktalarından biri olarak kabul ediliyor. Hacı Ahmed Paşa Türbesi, İstanbul'un güzide ilçelerinden Üsküdar'da yer alıyor ve tarihi geçmişiyle ziyaretçilerini büyülüyor. Mekan, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilere benzersiz bir deneyim sunuyor. Üsküdar'ın merkezinde yer alan Hacı Ahmed Paşa Türbesi, ulaşım açısından da kolaylık sağlıyor.
+Hacı Ahmed Paşa Türbesi, Üsküdar'da bulunan ve tarihi öneme sahip bir mekan olarak dikkat çekiyor. Bu tarihi mekan, Marmara Bölgesi'nin en önemli ziyaret noktalarından biri olarak kabul ediliyor. Hacı Ahmed Paşa Türbesi, İstanbul'un güzide ilçelerinden Üsküdar'da yer alıyor ve tarihi geçmişiyle ziyaretçilerini büyülüyor. Mekan, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilere benzersiz bir deneyim sunuyor. Üsküdar'ın merkezinde yer alan Hacı Ahmed Paşa Türbesi, ulaşım açısından da kolaylık sağlıyor.
 
 ## Tarihçe
 

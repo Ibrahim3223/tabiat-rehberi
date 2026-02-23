@@ -22,7 +22,7 @@ wikidata_id: "Q108227438"
 
 # Mersin-F.Pinari Kızılçam 2
 
-Mersin-F.Pinari Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Mersin'in doğal güzellikleri arasında önemli bir yer tutuyor. Milli parkın zengin flora ve fauna çeşitliliği, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu milli park, aynı zamanda önemli bir ekosistem olarak koruma altına alınmıştır.
+Mersin-F.Pinari Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak dikkat çekiyor. Milli parkın zengin flora ve fauna çeşitliliği, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu milli park, aynı zamanda önemli bir ekosistem olarak koruma altına alınmıştır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin-F.Pinari Kızılçam 2 milli parkının tarihi geçmişi, bölgeye özgü
 
 ## Coğrafya
 
-Mersin-F.Pinari Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve ormanlık bir bölgede yer alıyor. Milli parkın coğrafi konumu, ziyaretçilerine çeşitli flora ve fauna türlerini gözlemleme fırsatı sunuyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Mersin'in doğal güzellikleri arasında önemli bir yer tutuyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliği ile baş başa kalma fırsatı sunuyor. Dağlık ve ormanlık bölgede yer alan milli park, aynı zamanda önemli bir ekosistem olarak koruma altına alınmıştır. Milli parkın iklimi, Akdeniz iklimine uygun olarak, sıcak ve kuru yazlar ile ılık ve yağışlı kışlar ile karakterizedir.
+Mersin-F.Pinari Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve ormanlık bir bölgede yer alıyor. Milli parkın coğrafi konumu, ziyaretçilerine çeşitli flora ve fauna türlerini gözlemleme fırsatı sunuyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliği ile baş başa kalma fırsatı sunuyor. Dağlık ve ormanlık bölgede yer alan milli park, aynı zamanda önemli bir ekosistem olarak koruma altına alınmıştır. Milli parkın iklimi, Akdeniz iklimine uygun olarak, sıcak ve kuru yazlar ile ılık ve yağışlı kışlar ile karakterizedir.
 
 ## Flora ve Fauna
 

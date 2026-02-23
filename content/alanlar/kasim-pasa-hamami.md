@@ -1,7 +1,7 @@
 ---
 title: "Kasım Paşa Hamamı"
 date: "2026-01-10T04:27:48.309Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738786"
 
 # Kasım Paşa Hamamı
 
-Kasım Paşa Hamamı, Marmara Bölgesi'nin kalbinde, Bozüyük'te yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini yeşilin her tonuna sürükleyen bir doğa cenneti. Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine. Kasım Paşa Hamamı, ismini bölgede bulunan tarihi hamamdan alıyor ve bu hamam, bölgenin tarihi geçmişinin önemli bir parçasını oluşturuyor. Ziyaretçiler, hem bu tarihi yapıları gezebiliyor hem dein doğal güzelliklerini keşfedebiliyor.
+Kasım Paşa Hamamı, Marmara Bölgesi'nin kalbinde, Bozüyük'te yer alan bir doğa harikasıdır. Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine. Kasım Paşa Hamamı, ismini bölgede bulunan tarihi hamamdan alıyor ve bu hamam, bölgenin tarihi geçmişinin önemli bir parçasını oluşturuyor. Ziyaretçiler, hem bu tarihi yapıları gezebiliyor hem dein doğal güzelliklerini keşfedebiliyor.
 
 ## Tarihçe
 

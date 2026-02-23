@@ -28,7 +28,7 @@ wikidata_id: "Q31389890"
 
 # Mantalık Tepesi
 
-Mantalık Tepesi, Sinop'un Karadeniz Bölgesi'nde yer alan ve yeşilin her tonunu görebileceğiniz bir doğa harikası. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi geçmişi ve coğrafyası ile büyülemektedir. Bu tepede, doğanın güzelliği ve tarihi ile iç içe geçerek, unutulmaz bir deneyim yaşayabilirsiniz. Mantalık Tepesi, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir destinasyon.
+Mantalık Tepesi, Sinop'un Karadeniz Bölgesi'nde yer alan ve yeşilin her tonunu görebileceğiniz bir doğa harikası. Bu tepede, doğanın güzelliği ve tarihi ile iç içe geçerek, unutulmaz bir deneyim yaşayabilirsiniz. Mantalık Tepesi, şehrin gürültüsünden uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386597"
 
 # İhtiyarbaşı Tepesi
 
-İhtiyarbaşı Tepesi, Şırnak ilinin doğal güzelliklerinin başında gelir. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir formationdur.  İhtiyarbaşı Tepesi, yaklaşık olarak 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu tepenin yüksekliği ve genişliği, ziyaretçilerine geniş bir manzara sunar. İhtiyarbaşı Tepesi, doğa severler ve trekking yapanlar için ideal bir destinasyondur.
+İhtiyarbaşı Tepesi, Şırnak ilinin doğal güzelliklerinin başında gelir. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir formationdur. Bu tepenin yüksekliği ve genişliği, ziyaretçilerine geniş bir manzara sunar. İhtiyarbaşı Tepesi, doğa severler ve trekking yapanlar için ideal bir destinasyondur.
 
 ## Tarihçe
 

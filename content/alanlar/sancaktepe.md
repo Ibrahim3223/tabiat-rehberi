@@ -23,7 +23,7 @@ wikidata_id: "Q108228649"
 
 # SANCAKTEPE
 
-Sancaktepe milli parkı, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Sancaktepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Burada, doğa severler için birçok gezi ve gözlem alanı bulunur. Sancaktepe'nin hikayesi, yüzyıllar boyunca şekillenmiş ve günümüzde bir milli park olarak koruma altına alınmıştır. Bu güzel köşe, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunar.
+Sancaktepe milli parkı, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır. Burada, doğa severler için birçok gezi ve gözlem alanı bulunur. Sancaktepe'nin hikayesi, yüzyıllar boyunca şekillenmiş ve günümüzde bir milli park olarak koruma altına alınmıştır. Bu güzel köşe, ziyaretçilerine doğanın güzelliğini ve zenginliğini sunar.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Sancaktepe, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş
 
 ## Flora ve Fauna
 
-Sancaktepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Burada, mevsimsel değişimlere uygun olarak farklı bitki türleri bulunur. Sancaktepe'nin fauna zenginliği, birçok hayvan türünü içerir. Bu hayvanlar, Sancaktepe'nin ekosistemini oluşturur ve doğa dengesini sağlar. Sancaktepe, doğa severler için bir cennet olarak kabul edilebilir. Burada, ziyaretçilerin doğayı gözlemlemesi ve öğrenmesi możli olabilir.
+ Burada, mevsimsel değişimlere uygun olarak farklı bitki türleri bulunur. Sancaktepe'nin fauna zenginliği, birçok hayvan türünü içerir. Bu hayvanlar, Sancaktepe'nin ekosistemini oluşturur ve doğa dengesini sağlar. Sancaktepe, doğa severler için bir cennet olarak kabul edilebilir. Burada, ziyaretçilerin doğayı gözlemlemesi ve öğrenmesi możli olabilir.
 
 ## Ziyaret Bilgileri
 
@@ -45,6 +45,6 @@ Sancaktepe'yi ziyaret etmek, doğa severler için bir hayal olabilir. Sancaktepe
 
 - Sancaktepe, 140 hektarlık bir alanı kapsar.
 - Sancaktepe, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır.
-- Sancaktepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Sancaktepe, yüzyıllar öncesine dayanan bir tarihi geçmişi sahiptir.
 - Sancaktepe, milli park olarak koruma altına alınmıştır.

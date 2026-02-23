@@ -29,7 +29,7 @@ wikidata_id: "Q108228347"
 
 # Tanay Tabiat Parkı
 
-Tanay Tabiat Parkı, İzmir'in Çeşme ilçesinde yer alan 140 hektarlık bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin bir doğaya ev sahipliği yapmaktadır. Park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir ortam sunuyor. Ziyaretçiler, parkın sunduğu olanaklar ve hizmetlerle birlikte, doğanın içinde huzurlu bir gün geçirebiliyorlar. Tanay Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çekmektedir.
+Tanay Tabiat Parkı, İzmir'in Çeşme ilçesinde yer alan 140 hektarlık bir alana sahiptir. Park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir ortam sunuyor. Ziyaretçiler, parkın sunduğu olanaklar ve hizmetlerle birlikte, doğanın içinde huzurlu bir gün geçirebiliyorlar. Tanay Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tanay Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca devam eden bir s�
 
 ## Coğrafya
 
-Tanay Tabiat Parkı, İzmir'in Çeşme ilçesinde yer alan 140 hektarlık bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin bir doğaya ev sahipliği yapmaktadır. Park, Akdeniz ikliminin hüküm sürdüğü bir bölgede yer almaktadır. Bu iklim, parkın flora ve fauna çeşitliliği açısından zengin bir yapıya sahip olmasını sağlamıştır. Parkın coğrafi konumu, ziyaretçilerine çeşitli olanaklar sunmaktadır. Ziyaretçiler, parkın sunduğu hizmetlerle birlikte, doğanın güzelliğini ve zenginliğini keşfedebilirler. Tanay Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çekmektedir. Parkın coğrafi konumu, yüzyıllar boyunca devam eden bir süreçtir ve doğal güzelliği ve zengin fauna çeşitliliği nedeniyle her zaman önemli bir konumda bulunmuştur. Park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir ortam sunuyor. Tanay Tabiat Parkı, İzmir'in Çeşme ilçesinde yer alan bir Tabiat Parkıdır ve 140 hektarlık bir alana sahiptir.
+Tanay Tabiat Parkı, İzmir'in Çeşme ilçesinde yer alan 140 hektarlık bir alana sahiptir. Park, Akdeniz ikliminin hüküm sürdüğü bir bölgede yer almaktadır. Bu iklim, parkın flora ve fauna çeşitliliği açısından zengin bir yapıya sahip olmasını sağlamıştır. Parkın coğrafi konumu, ziyaretçilerine çeşitli olanaklar sunmaktadır. Ziyaretçiler, parkın sunduğu hizmetlerle birlikte, doğanın güzelliğini ve zenginliğini keşfedebilirler. Tanay Tabiat Parkı, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgisini çekmektedir. Parkın coğrafi konumu, yüzyıllar boyunca devam eden bir süreçtir ve doğal güzelliği ve zengin fauna çeşitliliği nedeniyle her zaman önemli bir konumda bulunmuştur. Park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir ortam sunuyor. Tanay Tabiat Parkı, İzmir'in Çeşme ilçesinde yer alan bir Tabiat Parkıdır ve 140 hektarlık bir alana sahiptir.
 
 ## Flora ve Fauna
 

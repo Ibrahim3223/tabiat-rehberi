@@ -30,7 +30,7 @@ wikidata_id: "Q134728169"
 
 # Gerdek Kaya Mezarı
 
-Gerdek Kaya Mezarı, Karadeniz Bölgesi'nin Alaca ilçesinde, Çorum'un zengin tarihi ve doğal güzelliklerinin bir araya geldiği bir noktada yer alıyor. Bu eşsiz mekan, yaklaşık 140 hektarlık bir alanda, tarihi geçmişin sâu izlerini taşıyan kaya mezarları ile ziyaretçilerini karşılayacak. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu kaya mezarları, bölgenin tarihi ve kültürel değerlerini yansıtan önemli bir turizm noktası olarak dikkat çekiyor. Gerdek Kaya Mezarı, ziyaretçilerine hem tarihi bir yolculuk hem de doğanın güzelliğini sunuyor.
+Gerdek Kaya Mezarı, Karadeniz Bölgesi'nin Alaca ilçesinde, Çorum'un zengin tarihi ve doğal güzelliklerinin bir araya geldiği bir noktada yer alıyor. Bu eşsiz mekan, yaklaşık 140 hektarlık bir alanda, tarihi geçmişin derin izlerini taşıyan kaya mezarları ile ziyaretçilerini karşılayacak. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu kaya mezarları, bölgenin tarihi ve kültürel değerlerini yansıtan önemli bir turizm noktası olarak dikkat çekiyor. Gerdek Kaya Mezarı, ziyaretçilerine hem tarihi bir yolculuk hem de doğanın güzelliğini sunuyor.
 
 ## Tarihçe
 

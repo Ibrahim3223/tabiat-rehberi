@@ -1,7 +1,7 @@
 ---
 title: "Izmir-Bergama-Dikili Fistikcami"
 date: "2026-01-09T13:02:44.213Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"

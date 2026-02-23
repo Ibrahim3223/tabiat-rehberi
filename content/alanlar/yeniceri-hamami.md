@@ -1,7 +1,7 @@
 ---
 title: "Yeniçeri Hamamı"
 date: "2026-01-09T23:05:10.840Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738827"
 
 # Yeniçeri Hamamı
 
-Yeniçeri Hamamı, Edirne'nin tarih kokan sokaklarında, Marmara Bölgesi'nin en güzel plajlarından biri olarak dikkat çeker. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini yaban hayatının zenginlikleriyle karşılar. Bu plaj, Edirne'nin merkezi bölgesinde yer alır ve şehrin tarihi dokusunu yansıtan bir güzelliğe sahiptir. Yeniçeri Hamamı, Marmara Bölgesi'nin en güzel doğal güzelliklerinden biri olarak bilinir ve her yıl binlerce ziyaretçiyi ağırlar.
+Yeniçeri Hamamı, Edirne'nin tarih kokan sokaklarında, Marmara Bölgesi'nin en güzel plajlarından biri olarak dikkat çeker. Bu plaj, Edirne'nin merkezi bölgesinde yer alır ve şehrin tarihi dokusunu yansıtan bir güzelliğe sahiptir. Yeniçeri Hamamı, Marmara Bölgesi'nin en güzel doğal güzelliklerinden biri olarak bilinir ve her yıl binlerce ziyaretçiyi ağırlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yeniçeri Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu böl
 
 ## Coğrafya
 
-Yeniçeri Hamamı, Edirne'nin merkezi bölgesinde yer alan bir plajdır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır ve deniz seviyesinde yer alır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve yaban hayatının zenginlikleriyle dolu bir doğaya sahiptir. Yeniçeri Hamamı'nın coğrafi konumu, ziyaretçilerin hem denize hem de şehrin tarihi merkezi olan Edirne'ye kolayca ulaşabilmesini sağlar. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur ve ekolojik bir denge içerisindedir. Yeniçeri Hamamı, Marmara Bölgesi'nin en güzel doğal güzelliklerinden biri olarak bilinir ve coğrafi konumu itibariyle önemli bir turizm merkezidir.
+Yeniçeri Hamamı, Edirne'nin merkezi bölgesinde yer alan bir plajdır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır ve deniz seviyesinde yer alır. Yeniçeri Hamamı'nın coğrafi konumu, ziyaretçilerin hem denize hem de şehrin tarihi merkezi olan Edirne'ye kolayca ulaşabilmesini sağlar. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur ve ekolojik bir denge içerisindedir. Yeniçeri Hamamı, Marmara Bölgesi'nin en güzel doğal güzelliklerinden biri olarak bilinir ve coğrafi konumu itibariyle önemli bir turizm merkezidir.
 
 ## Flora ve Fauna
 

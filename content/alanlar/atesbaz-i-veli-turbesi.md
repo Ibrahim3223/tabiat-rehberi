@@ -1,7 +1,7 @@
 ---
 title: "Ateşbaz-ı Veli Türbesi"
 date: "2026-01-10T05:35:50.273Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391383"
 
 # Ateşbaz-ı Veli Türbesi
 
-Ateşbaz-ı Veli Türbesi, Konya'nın Meram ilçesinde bulunan tarihi bir türbe ve plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alana sahiptir. Bu bölge, hem tarihi açıdan hem de doğal güzellikleri nedeniyle ziyaretçilerin ilgisini çekmektedir. Ateşbaz-ı Veli Türbesi, tarihsel açıdan önemli bir figura adanmıştır ve türbe, ziyaretçilere tarihi bir atmosfer sunmaktadır. Ayrıca, plajın bulunduğu geniş yeşil alan, ziyaretçiler için dinlenme ve eğlenme imkanı sunmaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir yeşil alana sahip olup, ziyaretçilerin keyifli bir gün geçirmesine olanak tanır.
+Ateşbaz-ı Veli Türbesi, Konya'nın Meram ilçesinde bulunan tarihi bir türbe ve plajdır. Bu bölge, hem tarihi açıdan hem de doğal güzellikleri nedeniyle ziyaretçilerin ilgisini çekmektedir. Ateşbaz-ı Veli Türbesi, tarihsel açıdan önemli bir figura adanmıştır ve türbe, ziyaretçilere tarihi bir atmosfer sunmaktadır. Ayrıca, plajın bulunduğu geniş yeşil alan, ziyaretçiler için dinlenme ve eğlenme imkanı sunmaktadır.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Ateşbaz-ı Veli Türbesi, zengin bir flora ve fauna yapısına sahiptir. Bölge
 
 ## Ziyaret Bilgileri
 
-Ateşbaz-ı Veli Türbesi, ziyaretçilere geniş bir kültürel ve doğal deneyim sunmaktadır. Ziyaretçiler, türbeyi ziyaret edebilecekleri gibi, plajın bulunduğu geniş yeşil alanda da dinlenebilirler. Türbeye ulaşım, Meram ilçesinden fácil bir şekilde sağlanabilir. Ziyaretçiler, türbeyi ziyaret etmek için en uygun zamanı, mevsimsel değişimlere göre ayarlayabilirler. Ateşbaz-ı Veli Türbesi, ziyaretçilere geniş bir kültürel ve doğal deneyim sunmakta ve önemli bir turistik mekan olarak görülmektedir. Ziyaretçiler, türbeyi ziyaret etmek için, Meram ilçesinden kolayca ulaşabilirler.
+Ateşbaz-ı Veli Türbesi, ziyaretçilere geniş bir kültürel ve doğal deneyim sunmaktadır. Ziyaretçiler, türbeyi ziyaret edebilecekleri gibi, plajın bulunduğu geniş yeşil alanda da dinlenebilirler. Türbeye ulaşım, Meram ilçesinden kolay bir şekilde sağlanabilir. Ziyaretçiler, türbeyi ziyaret etmek için en uygun zamanı, mevsimsel değişimlere göre ayarlayabilirler. Ateşbaz-ı Veli Türbesi, ziyaretçilere geniş bir kültürel ve doğal deneyim sunmakta ve önemli bir turistik mekan olarak görülmektedir. Ziyaretçiler, türbeyi ziyaret etmek için, Meram ilçesinden kolayca ulaşabilirler.
 
 ## İlginç Bilgiler
 

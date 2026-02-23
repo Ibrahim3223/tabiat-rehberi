@@ -1,7 +1,7 @@
 ---
 title: "Sebahattin Yıldız Müzesi"
 date: "2026-01-10T15:22:55.808Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -45,7 +45,7 @@ Sebahattin Yıldız Müzesi, zengin bir flora ve fauna çeşitliliğine sahiptir
 
 ## Ziyaret Bilgileri
 
-Sebahattin Yıldız Müzesi'ni ziyaret etmek, Ankara'nın kültür ve doğa güzelliğini keşfetmek isteyenler için ideal bir deneyimdir. Müze, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları, ziyaretçiler için en uygun zamanlardır. Müzenin etrafında, doğa yürüyüşleri için uygun parkurlar bulunmaktadır ve bu parkurlar, ziyaretçilere, müzenin doğal güzelliğini keşfetme fırsatı sunmaktadır. Sebahattin Yıldız Müzesi'ne ulaşım, Ankara'nın şehir merkezinden kolayca sağlanabilmektedir.
+Sebahattin Yıldız Müzesi'ni ziyaret etmek, Ankara'nın kültür ve doğa güzelliğini keşfetmek isteyenler için ideal bir deneyimdir. Müze, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları, ziyaretçiler için en uygun zamanlardır. Sebahattin Yıldız Müzesi'ne ulaşım, Ankara'nın şehir merkezinden kolayca sağlanabilmektedir.
 
 ## İlginç Bilgiler
 

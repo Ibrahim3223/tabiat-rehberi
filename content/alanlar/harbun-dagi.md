@@ -28,7 +28,7 @@ wikidata_id: "Q31386162"
 
 # Harbun Dağı
 
-Harbun Dağı, Gaziantep'in güneydoğusunda yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Harbun Dağı, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta. Dağın etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler ve yürüyüş tutkunları için ideal bir yer.
+Harbun Dağı, Gaziantep'in güneydoğusunda yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. Harbun Dağı, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta. Dağın etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler ve yürüyüş tutkunları için ideal bir yer.
 
 ## Tarihçe
 

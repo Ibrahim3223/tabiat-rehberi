@@ -1,7 +1,7 @@
 ---
 title: "AKSAZ HAMAMI"
 date: "2026-01-09T20:22:57.663Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228991"
 
 # AKSAZ HAMAMI
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Aksaz Hamamı, 140 hektarlık geniş bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliği sunuyor. Bu bölge, doğa severlerin ve tarihe meraklı olanların ilgisini çeken bir destinasyon olarak dikkat çekiyor. Aksaz Hamamı, ziyaretçilerini tarihi ve doğal güzelliklerin birleştiği bir ortamda ağırlıyor.
+ Bu bölge, doğa severlerin ve tarihe meraklı olanların ilgisini çeken bir destinasyon olarak dikkat çekiyor. Aksaz Hamamı, ziyaretçilerini tarihi ve doğal güzelliklerin birleştiği bir ortamda ağırlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Aksaz Hamamı'nın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev s
 
 ## Coğrafya
 
-Aksaz Hamamı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları ve doğal güzellikleriyle dikkat çekiyor. Bu bölge, 140 hektarlık geniş bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliği sunuyor. Coğrafi konumu itibariyle, Aksaz Hamamı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava hakim. Bu coğrafi yapı, çeşitli bitki türlerinin ve yaban hayatının gelişmesine uygun bir ortam sunuyor.
+Aksaz Hamamı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlakları ve doğal güzellikleriyle dikkat çekiyor. Coğrafi konumu itibariyle, Aksaz Hamamı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir yapıya sahip. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava hakim. Bu coğrafi yapı, çeşitli bitki türlerinin ve yaban hayatının gelişmesine uygun bir ortam sunuyor.
 
 ## Flora ve Fauna
 

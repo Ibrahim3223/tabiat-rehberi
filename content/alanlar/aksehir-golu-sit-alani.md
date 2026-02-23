@@ -22,7 +22,7 @@ wikidata_id: "Q108226398"
 
 # Akşehir Gölü Sit Alanı
 
-İç Anadolu Bölgesi'nin doğal güzelliklerinin başında gelen Akşehir Gölü Sit Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplıyor. Bu bölge, hem a severlerin hem de doğa ile iç içe olmak isteyenlerin ziyaret etmekten keyif alacağı bir destinasyon. Gölün çevresi, çeşitli bitki türleri ile kaplı ve bu bölgede birçok canlıya ev sahipliği yapıyor. Gölün su yüzeyi, özellikle kuş gözlemcileri için önemli bir nokta olarak dikkat çekiyor.
+ Bu bölge, hem a severlerin hem de doğa ile iç içe olmak isteyenlerin ziyaret etmekten keyif alacağı bir destinasyon. Gölün çevresi, çeşitli bitki türleri ile kaplı ve bu bölgede birçok canlıya ev sahipliği yapıyor. Gölün su yüzeyi, özellikle kuş gözlemcileri için önemli bir nokta olarak dikkat çekiyor.
 
 ## Tarihçe
 

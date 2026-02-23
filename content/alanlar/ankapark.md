@@ -30,7 +30,7 @@ wikidata_id: "Q20477030"
 
 # Ankapark
 
-Ankapark, Ankara'nın kalbinde yer alan 140 hektarlık devasa bir yeşil alan olarak ziyaretçilerini bekliyor. Bu devasa yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından kaçmak isteyenler için bir sığınak harika bir deneyim. Ankapark'ta çeşitli etkinlikler ve aktiviteleri bulunduran bir mekan olarak, hem çocuklar hem de yetişkinler için keyifli anlar vaat ediyor. Parkın içinde bulunan yürüyüş yolları, bisiklet parkurları ve oyun alanları, ziyaretçilerin doğayı keşfetmelerine olanak tanır.
+Ankapark, Ankara'nın kalbinde yer alan 140 hektarlık devasa bir yeşil alan olarak ziyaretçilerini bekliyor. Ankapark'ta çeşitli etkinlikler ve aktiviteleri bulunduran bir mekan olarak, hem çocuklar hem de yetişkinler için keyifli anlar vaat ediyor. Parkın içinde bulunan yürüyüş yolları, bisiklet parkurları ve oyun alanları, ziyaretçilerin doğayı keşfetmelerine olanak tanır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ankapark'ın tarihi geçmişi, Ankara'nın büyüme ve gelişme sürecine parale
 
 ## Coğrafya
 
-Ankapark, Ankara'nın merkezinde, şehrin kalabalığından uzakta bir konumda bulunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ankara'nın en büyük parklarından biri. Ankapark'ın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak tanıyor. Parkın içerisinde, çeşitli bitki türleri ve ağaçlar bulunmakta. Ankapark, Ankara'nın iklimine uygun olarak tasarlanmış ve ziyaretçilerin her mevsim keyif alabilecekleri bir ortam sunuyor. Çevre dostu bir anlayışla-designed, Ankapark, Ankara'nın yeşillendirilmesi ve çevre koruma çabalarına önemli bir katkı sağlıyor.
+Ankapark, Ankara'nın merkezinde, şehrin kalabalığından uzakta bir konumda bulunuyor. Ankapark'ın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak tanıyor. Parkın içerisinde, çeşitli bitki türleri ve ağaçlar bulunmakta. Ankapark, Ankara'nın iklimine uygun olarak tasarlanmış ve ziyaretçilerin her mevsim keyif alabilecekleri bir ortam sunuyor. Çevre dostu bir anlayışla-designed, Ankapark, Ankara'nın yeşillendirilmesi ve çevre koruma çabalarına önemli bir katkı sağlıyor.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q32131408"
 
 # Açık Tepe
 
-Açık Tepe, Erzurum'un muhteşem doğal güzelliklerinin arasında yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunar. Açık Tepe, ziyaretçilerini etkileyen bir manzaraya sahip olup, özellikle gün batımı saatlerinde ziyaretçilerini büyüler. Bu tepe, Erzurum'un coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir yer.
+Açık Tepe, Erzurum'un muhteşem doğal güzelliklerinin arasında yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Açık Tepe, ziyaretçilerini etkileyen bir manzaraya sahip olup, özellikle gün batımı saatlerinde ziyaretçilerini büyüler. Bu tepe, Erzurum'un coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir yer.
 
 ## Tarihçe
 

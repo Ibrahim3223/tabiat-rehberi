@@ -1,7 +1,7 @@
 ---
 title: "Hersekzade Ahmet Paşa Hamamı"
 date: "2026-01-09T22:52:17.612Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738627"
 
 # Hersekzade Ahmet Paşa Hamamı
 
-Hersekzade Ahmet Paşa Hamamı, İzmir'in Urla ilçesinde bulunan bir tarihi hamam ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan içerisinde yer alır, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hamam, tarihi geçmişinin yanı sıra, Urla'nın önemli turistik noktalarından biridir. Tarihi dokusu ve doğal güzellikleri ile ziyaretçilerini cezbeden Hersekzade Ahmet Paşa Hamamı, hem tarih severlerin hem de doğa tutkunlarının ilgisini çekmektedir.
+Hersekzade Ahmet Paşa Hamamı, İzmir'in Urla ilçesinde bulunan bir tarihi hamam ve plaj alanıdır. Hamam, tarihi geçmişinin yanı sıra, Urla'nın önemli turistik noktalarından biridir. Tarihi dokusu ve doğal güzellikleri ile ziyaretçilerini cezbeden Hersekzade Ahmet Paşa Hamamı, hem tarih severlerin hem de doğa tutkunlarının ilgisini çekmektedir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Yeşil Türbe, Aydın"
 date: "2026-01-10T05:39:00.407Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582187"
 
 # Yeşil Türbe, Aydın
 
-Aydın'ın Nazilli ilçesinde yer alan Yeşil Türbe, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunmaktadır. Yeşil Türbe, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir mekândır. Bu bölgede, ziyaretçiler hem tarihi yapılara hem de doğal güzelliklere tanık olabilmektedir. Yeşil Türbe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
+Aydın'ın Nazilli ilçesinde yer alan Yeşil Türbe, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak dikkat çekmektedir. Yeşil Türbe, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir mekândır. Bu bölgede, ziyaretçiler hem tarihi yapılara hem de doğal güzelliklere tanık olabilmektedir. Yeşil Türbe'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 
 ## Tarihçe
 

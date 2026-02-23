@@ -61,7 +61,7 @@ Gelyedücemi Tepe, Mardin'in gizli bir hazine gibi duruyor. Sabah erken gitmeniz
 ## İlginç Bilgiler
 
 - Gelyedücemi Tepe, Mardin ilinin merkezi ile aynı enlem üzerinde yer alır.
-- Mardin'in coğrafi yapısı içinde yer alan Gelyedücemi Tepe, ilin históri ve kültürel zenginliklerini yansıtan önemli bir noktadır.
+- Mardin'in coğrafi yapısı içinde yer alan Gelyedücemi Tepe, ilin tarihi ve kültürel zenginliklerini yansıtan önemli bir noktadır.
 - Tepe, etrafındaki diğer coğrafi oluşumlarla birlikte Mardin'in farklı jeolojik yapılarını sergiler.
 - Mardin'in tarihi ve turistik alanlarına yakınlığıyla dikkat çeker.
 - Gelyedücemi Tepe, Mardin'in doğal güzelliklerini keşfetmek isteyen ziyaretçiler için bir gözlem noktası olarak kullanılabilir.

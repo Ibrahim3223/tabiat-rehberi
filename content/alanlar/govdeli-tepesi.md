@@ -28,7 +28,7 @@ wikidata_id: "Q32138574"
 
 # Gövdeli Tepesi
 
-Gövdeli Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kayseri'nin sınırları içerisinde yer alan bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Gövdeli Tepesi, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, şehrin gürültüsünden uzaklaşabilir ve doğanın huzurunu tadabilirsiniz. Gövdeli Tepesi, aynı zamanda çevredeki diğer doğal güzelliklere de yakın mesafede yer alıyor.
+Gövdeli Tepesi, İç Anadolu Bölgesi'nin kalbinde, Kayseri'nin sınırları içerisinde yer alan bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor. Gövdeli Tepesi, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, şehrin gürültüsünden uzaklaşabilir ve doğanın huzurunu tadabilirsiniz. Gövdeli Tepesi, aynı zamanda çevredeki diğer doğal güzelliklere de yakın mesafede yer alıyor.
 
 ## Tarihçe
 

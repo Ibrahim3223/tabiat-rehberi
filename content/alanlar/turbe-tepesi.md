@@ -29,7 +29,7 @@ wikidata_id: "Q31559010"
 
 # Turbe Tepesi
 
-Turbe Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük yeşil alan, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için bir kaçış noktası. Turbe Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin flora ile karşılar. 140 hektarlık bu yeşil alan, aynı zamanda zengin fauna ile birlikte doğa severler için bir cennet.
+ Bu büyük yeşil alan, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için bir kaçış noktası. Turbe Tepesi, ziyaretçilerini büyüleyici manzaraları ve zengin flora ile karşılar. 140 hektarlık bu yeşil alan, aynı zamanda zengin fauna ile birlikte doğa severler için bir cennet.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Turbe Tepesi'nin tarihi geçmişi, yüzyıllar boyunca insanların bu bölgeyi z
 
 ## Coğrafya
 
-Turbe Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Turbe Tepesi, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için bir kaçış noktası. Bu büyük yeşil alan, ziyaretçilerini büyüleyici manzaraları ve zengin flora ile karşılar. Turbe Tepesi, aynı zamanda zengin fauna ile birlikte doğa severler için bir cennet. İklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kuru geçer. Turbe Tepesi, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünülür. Bu tepeler, beraberinde zengin bir coğrafya ve doğa manzarası sunar.
+Turbe Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Turbe Tepesi, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için bir kaçış noktası. Bu büyük yeşil alan, ziyaretçilerini büyüleyici manzaraları ve zengin flora ile karşılar. Turbe Tepesi, aynı zamanda zengin fauna ile birlikte doğa severler için bir cennet. İklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kuru geçer. Turbe Tepesi, çevresindeki diğer tepelerle birlikte bir bütün olarak düşünülür. Bu tepeler, beraberinde zengin bir coğrafya ve doğa manzarası sunar.
 
 ## Flora ve Fauna
 

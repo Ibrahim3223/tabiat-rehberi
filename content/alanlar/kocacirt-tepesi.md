@@ -28,7 +28,7 @@ wikidata_id: "Q31549603"
 
 # Kocacirt Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Kocacirt Tepesi, Batman ilinin sınırları içerisinde yer alır. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir oluşumdur. Kocacirt Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu bölgenin coğrafi özellikleri, flora ve fauna açısından zengin bir çeşitliliğe sahiptir. Kocacirt Tepesi, bölgede yaşayan halk için önemli bir doğal kayna ve gezi alanı olarak bilinir.
+Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Kocacirt Tepesi, Batman ilinin sınırları içerisinde yer alır. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir oluşumdur. Bu bölgenin coğrafi özellikleri, flora ve fauna açısından zengin bir çeşitliliğe sahiptir. Kocacirt Tepesi, bölgede yaşayan halk için önemli bir doğal kayna ve gezi alanı olarak bilinir.
 
 ## Tarihçe
 

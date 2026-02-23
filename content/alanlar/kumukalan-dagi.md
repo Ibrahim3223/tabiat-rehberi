@@ -32,7 +32,7 @@ Burdur'un doğal güzelliklerine ev sahipliği yapan Kumukalan Dağı, Türkiye'
 
 ## Tarihçe
 
-Burdur bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölge, tarihi İpek Yolu'nun bir parçası olarak, çeşitli uygarlıkların geçiş noktası olmuştur. Hitit, Frig, Lidya ve Roma gibi uygarlıkların izleri, bu topraklarda masih bulunmaktadır. Kumukalan Dağı, bu zengin tarihsel mirasın bir parçası olarak, doğal güzelliği ve stratejik konumuyla dikkat çekmektedir.
+Burdur bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölge, tarihi İpek Yolu'nun bir parçası olarak, çeşitli uygarlıkların geçiş noktası olmuştur. Hitit, Frig, Lidya ve Roma gibi uygarlıkların izleri, bu topraklarda masih bulunmaktadır. Kumukalan Dağı, bu zengin tarihsel mirasın bir parçası olarak, doğal güzelliği ve stratejik konumuyla dikkat çekmektedir.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. Yayla ve dağlık bölgeler, yaylacılık ve hayvancılık için elverişli alanlar sunarken, aynı zamanda ticaret yolları ve askeri geçiş noktaları olarak da kullanılmıştır. Bu doğal alanlar, insan yerleşimlerinin ve ekonomik faaliyetlerin şekillenmesinde önemli bir etken olmuştur. Kumukalan Dağı, bu bağlamda, bölgenin ekonomisi ve kültürü açısından önemli bir yere sahiptir. İnsanların bu dağla ilişkisi, yüzyıllar boyunca devam etmiş ve bölgenin sosyal ve ekonomik yapısını şekillendirmiştir.
 
@@ -48,11 +48,11 @@ Jeolojik açıdan bakıldığında, Kumukalan Dağı'nın fiziksel yapısı hakk
 
 ## Flora ve Fauna
 
-Kumukalan Dağı, Burdur'un maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemidir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, yaz aylarında kuraklığa dayanıklı türler hakim olur. 
+Kumukalan Dağı, Burdur'un maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemidir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, yaz aylarında kuraklığa dayanıklı türler hakim olur.
 
-Bitki örtüsünün hakim türleri arasında maki bitkileri, defne ve keçiboynuzu bulunur. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, yaz aylarında kuraklığa dayanıklı türler hakim olur. Sonbaharda, dağlar göçmen kuşların geçiş noktası haline gelir. 
+Bitki örtüsünün hakim türleri arasında maki bitkileri, defne ve keçiboynuzu bulunur. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanırken, yaz aylarında kuraklığa dayanıklı türler hakim olur. Sonbaharda, dağlar göçmen kuşların geçiş noktası haline gelir.
 
-Dağda yaşayan memeliler, kuşlar ve sürüngenler, dağ ekosisteminin önemli bir parçasını oluşturur. Dağ keçileri ve yaban domuzları, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler dağların havalarında süzülür. 
+Dağda yaşayan memeliler, kuşlar ve sürüngenler, dağ ekosisteminin önemli bir parçasını oluşturur. Dağ keçileri ve yaban domuzları, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler dağların havalarında süzülür.
 Kumukalan Dağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgeye özgü türlerin ve ekosistemin devamını sağlar.
 
 ## Ziyaret Bilgileri

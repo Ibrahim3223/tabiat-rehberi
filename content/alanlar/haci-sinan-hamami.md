@@ -1,7 +1,7 @@
 ---
 title: "Hacı Sinan Hamamı"
 date: "2026-01-09T23:09:50.980Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738851"
 
 # Hacı Sinan Hamamı
 
-Hacı Sinan Hamamı, İzmir'in Bayındır ilçesinde yer alan ve tarihi geçmişi ile birlikte doğal güzelliklerini bir araya getiren özel bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçiler için geniş bir gezi alanı sunuyor. Bu özel mekan, hem tarihi hem de doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Hacı Sinan Hamamı, Ege Bölgesi'nin turizm değerleri arasında önemli bir yere sahip ve her yıl birçok ziyaretçiyi ağırlıyor.
+Hacı Sinan Hamamı, İzmir'in Bayındır ilçesinde yer alan ve tarihi geçmişi ile birlikte doğal güzelliklerini bir araya getiren özel bir alan olarak dikkat çekiyor. Bu özel mekan, hem tarihi hem de doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Hacı Sinan Hamamı, Ege Bölgesi'nin turizm değerleri arasında önemli bir yere sahip ve her yıl birçok ziyaretçiyi ağırlıyor.
 
 ## Tarihçe
 

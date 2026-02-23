@@ -1,7 +1,7 @@
 ---
 title: "Abdülfettah Enisi Türbesi"
 date: "2026-01-10T05:18:54.617Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391714"
 
 # Abdülfettah Enisi Türbesi
 
-Abdülfettah Enisi Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için perfect bir destinasyon. Yakutiye ilçesinde bulunan bu özel mekan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Burada, tarihin izlerini takip edebilir, doğanın güzelliklerini keşfedebilir ve yerel kültürle tanışabilirsiniz. Abdülfettah Enisi Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren bir destinasyon olarak dikkat çekiyor. Bu özel mekan, ziyaretçilerine zengin bir deneyim sunuyor.
+Abdülfettah Enisi Türbesi, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için perfect bir destinasyon. Burada, tarihin izlerini takip edebilir, doğanın güzelliklerini keşfedebilir ve yerel kültürle tanışabilirsiniz. Abdülfettah Enisi Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren bir destinasyon olarak dikkat çekiyor. Bu özel mekan, ziyaretçilerine zengin bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abdülfettah Enisi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden
 
 ## Coğrafya
 
-Abdülfettah Enisi Türbesi, Yakutiye ilçesinde bulunuyor ve Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunuyor. Burada, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Coğrafi konum itibariyle, ziyaretçiler buraya kolayca ulaşabiliyor. Abdülfettah Enisi Türbesi, coğrafi güzelliklerinin yanı sıra, tarihi ve kültürel zenginliklerini de ziyaretçilerine sunuyor. Bu reason, ziyaretçilerin ilgisini çekiyor ve onları bu özel destinasyona çekiyor. Abdülfettah Enisi Türbesi, coğrafi güzelliklerinin yanı sıra, tarihi ve kültürel zenginliklerini de ziyaretçilerine sunuyor.
+Abdülfettah Enisi Türbesi, Yakutiye ilçesinde bulunuyor ve Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Coğrafi konum itibariyle, ziyaretçiler buraya kolayca ulaşabiliyor. Abdülfettah Enisi Türbesi, coğrafi güzelliklerinin yanı sıra, tarihi ve kültürel zenginliklerini de ziyaretçilerine sunuyor. Bu reason, ziyaretçilerin ilgisini çekiyor ve onları bu özel destinasyona çekiyor. Abdülfettah Enisi Türbesi, coğrafi güzelliklerinin yanı sıra, tarihi ve kültürel zenginliklerini de ziyaretçilerine sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Abdülfettah Enisi Türbesi'ni ziyaret etmek isteyenler, kolayca ulaşabilir. Ya
 ## İlginç Bilgiler
 
 - Abdülfettah Enisi Türbesi, tarihi ve doğal güzelliklerini bir araya getiren bir destinasyon.
-- 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Mevsimsel değişimlerin izlerini takip edebilir.
 - Yakutiye ilçesinde bulunuyor ve coğrafi konumu itibariyle ulaşımı kolaylaştırıyor.

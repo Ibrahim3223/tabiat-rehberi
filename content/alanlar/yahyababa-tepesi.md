@@ -28,11 +28,11 @@ wikidata_id: "Q31390803"
 
 # Yahyababa Tepesi
 
-Yahyababa Tepesi, Yozgat ilinin merkezine uzun bir mesafe uzaklıkta, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğal güzellikleri ve histórik önemi ile dikkat çeker. Tepenin eteklerinde ve çevresinde çeşitli değil, çeşitli bitki türleri ve yaban hayatı bulunur. Ziyaretçiler, burada güzel manzaralar ve tarihi kalıntılar ile karşılaşabilirler.
+Yahyababa Tepesi, Yozgat ilinin merkezine uzun bir mesafe uzaklıkta, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alır. Doğal güzellikleri ve tarihi önemi ile dikkat çeker. Tepenin eteklerinde ve çevresinde çeşitli değil, çeşitli bitki türleri ve yaban hayatı bulunur. Ziyaretçiler, burada güzel manzaralar ve tarihi kalıntılar ile karşılaşabilirler.
 
 ## Tarihçe
 
-Yahyababa Tepesi'nin tarihi geçmişi, yüzyıllar boyunca sürekli olarak şekillenmiştir. Bu bölge, geçmişte différentes değil, çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Tepenin üzerinde ve çevresinde bulunan histórik kalıntılar, bu bölge hakkında önemli bilgiler verir. Ayrıca, tepe ve çevresi, önemli bir ticaret ve kültür merkezi olarak da görev yapmıştır. Bu nedenle, Yahyababa Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
+Yahyababa Tepesi'nin tarihi geçmişi, yüzyıllar boyunca sürekli olarak şekillenmiştir. Bu bölge, geçmişte différentes değil, çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Tepenin üzerinde ve çevresinde bulunan tarihi kalıntılar, bu bölge hakkında önemli bilgiler verir. Ayrıca, tepe ve çevresi, önemli bir ticaret ve kültür merkezi olarak da görev yapmıştır. Bu nedenle, Yahyababa Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 
 ## Coğrafya
 
@@ -44,7 +44,7 @@ Yahyababa Tepesi ve çevresinde, çeşitli bitki türleri ve yaban hayatı bulun
 
 ## Ziyaret Bilgileri
 
-Yahyababa Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için harika bir deneyimdir. Tepenin yüksekliği ve konumu, ziyaretçilere, geniş bir alanı kapsayan güzel bir manzara sunar. Ayrıca, tepe ve çevresi, çeşitli bitki türleri ve yaban hayatı ile kaplıdır. Ziyaretçiler, burada, güzel manzaralar, histórik kalıntılar ve doğal güzellikler ile karşılaşabilirler. Tepenin eteklerinde ve çevresinde, çeşitli yürüyüş parkurları ve piknik alanları bulunur. Bu nedenle, Yahyababa Tepesi, hem günboyu hem de birkaç günlüğüne ziyaret edilebilecek bir destinasyondur.
+Yahyababa Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları için harika bir deneyimdir. Tepenin yüksekliği ve konumu, ziyaretçilere, geniş bir alanı kapsayan güzel bir manzara sunar. Ayrıca, tepe ve çevresi, çeşitli bitki türleri ve yaban hayatı ile kaplıdır. Ziyaretçiler, burada, güzel manzaralar, tarihi kalıntılar ve doğal güzellikler ile karşılaşabilirler. Tepenin eteklerinde ve çevresinde, çeşitli yürüyüş parkurları ve piknik alanları bulunur. Bu nedenle, Yahyababa Tepesi, hem günboyu hem de birkaç günlüğüne ziyaret edilebilecek bir destinasyondur.
 
 ## İlginç Bilgiler
 

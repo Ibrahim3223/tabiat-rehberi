@@ -29,7 +29,7 @@ wikidata_id: "Q31386873"
 
 # Amudehüyüğü
 
-Amudehüyüğü, Mardin'in Artuklu ilçesinde bulunan ve Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir höyüktür. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafi yapısını gösteren önemli bir noktadır. Bu höyük, ziyaretçilerine bölgenin tarihi geçmişini ve kültürel değerlerini sunmak için önemli bir fırsat sunar. Höyüğün etrafındaki manzaralar, ziyaretçilere bölgenin doğal güzelliğini göstermektedir.
+Amudehüyüğü, Mardin'in Artuklu ilçesinde bulunan ve Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir höyüktür. Bu höyük, ziyaretçilerine bölgenin tarihi geçmişini ve kültürel değerlerini sunmak için önemli bir fırsat sunar. Höyüğün etrafındaki manzaralar, ziyaretçilere bölgenin doğal güzelliğini göstermektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Amudehüyüğü, tarihi geçmişi ile dikkat çeken bir bölgedir. Höyüğün t
 
 ## Coğrafya
 
-Amudehüyüğü, Mardin'in Artuklu ilçesinde bulunan bir höyüktür. Höyük, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Höyüğün etrafındaki manzaralar, ziyaretçilere bölgenin doğal güzelliğini göstermektedir. Höyük, yaklaşık 200 futbol sahası büyüklüğünde ve 140 hektarlık alan üzerine kurulmuştur. Höyüğün coğrafi konumu, bölgenin iklimini ve doğal yapısını etkilemektedir. Höyük, bölgenin coğrafi yapısını korumak için önemli bir çalışmaya sahiptir. Höyüğün etrafındaki doğal güzellikler, ziyaretçilere bölgenin doğal değerlerini göstermektedir.
+Amudehüyüğü, Mardin'in Artuklu ilçesinde bulunan bir höyüktür. Höyük, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını gösteren önemli bir noktadır. Höyüğün etrafındaki manzaralar, ziyaretçilere bölgenin doğal güzelliğini göstermektedir. Höyüğün coğrafi konumu, bölgenin iklimini ve doğal yapısını etkilemektedir. Höyük, bölgenin coğrafi yapısını korumak için önemli bir çalışmaya sahiptir. Höyüğün etrafındaki doğal güzellikler, ziyaretçilere bölgenin doğal değerlerini göstermektedir.
 
 ## Flora ve Fauna
 

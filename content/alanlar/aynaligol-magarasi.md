@@ -52,7 +52,7 @@ Mevsimsel değişikliklere bakıldığında, Aynalıgöl Mağarası'nın bulundu
 
 ## Flora ve Fauna
 
-Aynalıgöl Mağarası'nın girişinde, step bitki örtüsünün hakimiyeti göze çarpar. İlkbaharla birlikte, bozkırın rengarenk çiçeklerle süslendiğini görme mümkün. Bu mevsimde, kuraklığa adapte olan türler, mağaranın yakınındaki kuru topraklarda bile yaşam bulur. 
+Aynalıgöl Mağarası'nın girişinde, step bitki örtüsünün hakimiyeti göze çarpar. İlkbaharla birlikte, bozkırın rengarenk çiçeklerle süslendiğini görme mümkün. Bu mevsimde, kuraklığa adapte olan türler, mağaranın yakınındaki kuru topraklarda bile yaşam bulur.
 
 Yaban hayatı da bu bölgede oldukça zengin. Memeliler, mağaranın karanlıköşelerinde saklanırken, kuşlar mağara girişinde yuvalanır. Sürüngenler, mağaranın sıcak ve kuru duvarlarında güneşlenir. Bu canlılar, mağaranın ekosisteminin önemli bir parçasını oluşturur.
 

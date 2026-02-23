@@ -32,11 +32,11 @@ Van'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon
 
 ## Tarihçe
 
-Van bölgesinin tarihi, binlerce yıllık bir geçmişe uzanır. Bu bölge, Urartular, Medler, Persler, Romalılar ve Selçuklular gibi çeşitli uygarlıkların etkisi altına girmiştir. Van Gölü'nün çevresindeki dağlık alanlar, tarihi ticaret yollarının kavşak noktası olarak önemli bir rol oynamıştır. 
+Van bölgesinin tarihi, binlerce yıllık bir geçmişe uzanır. Bu bölge, Urartular, Medler, Persler, Romalılar ve Selçuklular gibi çeşitli uygarlıkların etkisi altına girmiştir. Van Gölü'nün çevresindeki dağlık alanlar, tarihi ticaret yollarının kavşak noktası olarak önemli bir rol oynamıştır.
 
-Yaya Dağı gibi doğal alanlar, Türkiye'nin coğrafi çeşitliliğini göstermektedir. Bu tür alanlar, ülkenin ekolojik dengesini koruma altına almakta ve biyolojik çeşitliliğin korunmasına katkıda bulunmaktadır. Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde, yaylacılık ve hayvancılık önemli ekonomik faaliyetler olarak görülmektedir. Bu faaliyetler, bölgenin ekonomisine ve kültürüne önemli katkılar sağlamaktadır. 
+Yaya Dağı gibi doğal alanlar, Türkiye'nin coğrafi çeşitliliğini göstermektedir. Bu tür alanlar, ülkenin ekolojik dengesini koruma altına almakta ve biyolojik çeşitliliğin korunmasına katkıda bulunmaktadır. Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde, yaylacılık ve hayvancılık önemli ekonomik faaliyetler olarak görülmektedir. Bu faaliyetler, bölgenin ekonomisine ve kültürüne önemli katkılar sağlamaktadır.
 
-İnsanların Yaya Dağı ile ilişkisi, bölgenin coğrafi özellikleri ile yakından ilgilidir. Dağın eteklerinde ve çevresindeki ovalarda, insanların yaşamlarını sürdürdükleri ve hayvancılık ile uğraştıkları bilinmektedir. Ayrıca, tarihi ticaret yollarının bu régiondan geçmesi, bölgenin stratejik önemini artırmıştır.
+İnsanların Yaya Dağı ile ilişkisi, bölgenin coğrafi özellikleri ile yakından ilgilidir. Dağın eteklerinde ve çevresindeki ovalarda, insanların yaşamlarını sürdürdükleri ve hayvancılık ile uğraştıkları bilinmektedir. Ayrıca, tarihi ticaret yollarının bu bölgeden geçmesi, bölgenin stratejik önemini artırmıştır.
 
 ## Coğrafya
 
@@ -52,7 +52,7 @@ Yaya Dağı'nın fiziksel yapısı, bölgenin jeolojik geçmişini yansıtmaktad
 
 Yaya Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Burada, alpin çayırlar ve endemik türler, ziyaretçilerini bekliyor.
 
-Bitki örtüsüne baktığımızda, ilkbaharın gelişiyle birlikte dağ yamaçları renkli çiçeklerle donanıyor. Yaz aylarında, dağların yüksek zonlarında, alpin bitkiler ve otsu türler hakim oluyor. Sonbaharda ise, gökyüzü göçmen kuşlarla doluyor. 
+Bitki örtüsüne baktığımızda, ilkbaharın gelişiyle birlikte dağ yamaçları renkli çiçeklerle donanıyor. Yaz aylarında, dağların yüksek zonlarında, alpin bitkiler ve otsu türler hakim oluyor. Sonbaharda ise, gökyüzü göçmen kuşlarla doluyor.
 
 Yaban hayatı da bir o kadar zengin. Dağ keçileri, yüksek dağların kayalık yamaçlarında yaşamını sürdürürken, kartallar ve diğer yırtıcı kuşlar, gökyüzünde hüküm sürüyor. Sürüngenler de, dağların sıca ve kayalık alanlarında yaşamlarını devam ettiriyor.
 

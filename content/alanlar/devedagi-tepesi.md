@@ -28,7 +28,7 @@ wikidata_id: "Q31387204"
 
 # Devedağı Tepesi
 
-Devedığı Tepesi, Erzurum'un doğusunda yer alan ve yaklaşık 3.200 metre yüksekliğe sahip bir tepe. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte oldukça geniş bir alanı kapsıyor. Devedağı Tepesi, özellikle doğa severler ve trekking yapmak isteyenler için bir cennet. Burada, yaban hayatını gözlemleme ve doğal güzellikleri keşfetme mümkün.
+Devedığı Tepesi, Erzurum'un doğusunda yer alan ve yaklaşık 3.200 metre yüksekliğe sahip bir tepe. Bu tepenin etrafında, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Devedağı Tepesi, özellikle doğa severler ve trekking yapmak isteyenler için bir cennet. Burada, yaban hayatını gözlemleme ve doğal güzellikleri keşfetme mümkün.
 
 ## Tarihçe
 

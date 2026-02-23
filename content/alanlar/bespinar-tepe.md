@@ -28,7 +28,7 @@ wikidata_id: "Q31387272"
 
 # Beşpınar Tepe
 
-Beşpınar Tepe, Bursa'nın merkezi bir konumda yer alan ve Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden biri. Tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Doğal güzelliği, zengin flora ve fauna çeşitliliği ile Beşpınar Tepe, Bursa'nın en önemli turizm merkezlerinden biri olarak kabul ediliyor.
+Beşpınar Tepe, Bursa'nın merkezi bir konumda yer alan ve Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Doğal güzelliği, zengin flora ve fauna çeşitliliği ile Beşpınar Tepe, Bursa'nın en önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

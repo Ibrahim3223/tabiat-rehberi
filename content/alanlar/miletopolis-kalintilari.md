@@ -29,7 +29,7 @@ wikidata_id: "Q131738879"
 
 # Miletopolis Kalıntıları
 
-Miletopolis Kalıntıları, Marmara Bölgesi'nin zengin tarihi mirasının önemli bir parçasını oluşturur. Mustafakemalpaşa'da bulunan bu tarihi alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu devasa alan, ziyaretçilere hem tarihi açıdan hem de doğal güzellikleri açısından zengin bir deneyim sunar. Miletopolis, antik dönemden kalan kalıntıları ve çevredeki doğal güzellikleriyle, ziyaretçilerini tarihin-depth bir yolculuğa çıkarır.
+Miletopolis Kalıntıları, Marmara Bölgesi'nin zengin tarihi mirasının önemli bir parçasını oluşturur. Bu devasa alan, ziyaretçilere hem tarihi açıdan hem de doğal güzellikleri açısından zengin bir deneyim sunar. Miletopolis, antik dönemden kalan kalıntıları ve çevredeki doğal güzellikleriyle, ziyaretçilerini tarihin-depth bir yolculuğa çıkarır.
 
 ## Tarihçe
 

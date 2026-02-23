@@ -1,7 +1,7 @@
 ---
 title: "Şeker Hoca Türbesi"
 date: "2026-01-10T05:24:45.007Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391704"
 
 # Şeker Hoca Türbesi
 
-Şeker Hoca Türbesi, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin kalbinde yer alan önemli bir dini mekan olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir manzara sunar. Şeker Hoca Türbesi, tarihi geçmişi ve dini önemiyle dikkat çekici bir noktadır. Ziyaretçiler, bu türbeyi ziyaret ederek hem tarihi hem de dini bir deneyim yaşayabilirler. Şeker Hoca Türbesi, özellikle dini törenler ve özel günlerde ziyaretçilerini ağırlar.
+Şeker Hoca Türbesi, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin kalbinde yer alan önemli bir dini mekan olarak bilinir. Şeker Hoca Türbesi, tarihi geçmişi ve dini önemiyle dikkat çekici bir noktadır. Ziyaretçiler, bu türbeyi ziyaret ederek hem tarihi hem de dini bir deneyim yaşayabilirler. Şeker Hoca Türbesi, özellikle dini törenler ve özel günlerde ziyaretçilerini ağırlar.
 
 ## Tarihçe
 

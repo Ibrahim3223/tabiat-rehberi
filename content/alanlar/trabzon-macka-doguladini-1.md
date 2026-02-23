@@ -22,7 +22,7 @@ wikidata_id: "Q108228061"
 
 # Trabzon Macka-Doguladini 1
 
-Trabzon'un güzide milli parklarından biri olan Trabzon Macka-Doguladini 1, 140 hektarlık geniş alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, birçok bitki ve hayvan türüne ev sahipliği yapıyor. İç Anadolu Bölgesi'nde yer alan bu milli park, coğrafi konum itibarıyla da önemli bir yere sahip. Doğal güzelliği ile ziyaretçilerini büyüleyen Trabzon Macka-Doguladini 1, aynı zamanda yaban hayatı açısından da zengin bir çeşitliliğe sahip. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarında özgürce yaşıyor.
+ Bu büyük alan, birçok bitki ve hayvan türüne ev sahipliği yapıyor. İç Anadolu Bölgesi'nde yer alan bu milli park, coğrafi konum itibarıyla da önemli bir yere sahip. Doğal güzelliği ile ziyaretçilerini büyüleyen Trabzon Macka-Doguladini 1, aynı zamanda yaban hayatı açısından da zengin bir çeşitliliğe sahip. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarında özgürce yaşıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Trabzon Macka-Doguladini 1 milli parkının tarihi geçmişi, bölgenin coğrafi
 
 ## Coğrafya
 
-Trabzon Macka-Doguladini 1 milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Coğrafi konumu itibarıyla, bu bölge, doğu-batı yönünde uzanan dağ sıralarının arasında kalıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, birçok bitki ve hayvan türüne ev sahipliği yapıyor. Parkın coğrafi yapısı, dağlar, vadiler ve ovalardan oluşuyor. Bu coğrafi çeşitlilik, farklı iklim koşullarına da neden oluyor. Parkın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar sıcak ve kurak geçiyor. Bu iklim koşulları, burada yaşayan bitki ve hayvan türleri için uygun bir ortam yaratıyor.
+Trabzon Macka-Doguladini 1 milli parkı, İç Anadolu Bölgesi'nde yer alıyor. Coğrafi konumu itibarıyla, bu bölge, doğu-batı yönünde uzanan dağ sıralarının arasında kalıyor. Bu büyük alan, birçok bitki ve hayvan türüne ev sahipliği yapıyor. Parkın coğrafi yapısı, dağlar, vadiler ve ovalardan oluşuyor. Bu coğrafi çeşitlilik, farklı iklim koşullarına da neden oluyor. Parkın iklimi, karasal iklim özellikleri gösteriyor. Kışlar soğuk ve karlı, yazlar sıcak ve kurak geçiyor. Bu iklim koşulları, burada yaşayan bitki ve hayvan türleri için uygun bir ortam yaratıyor.
 
 ## Flora ve Fauna
 

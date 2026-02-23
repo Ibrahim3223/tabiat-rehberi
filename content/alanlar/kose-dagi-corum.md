@@ -52,7 +52,7 @@ Jeolojik olarak incelendiğinde, Köse Dağı'nın coğrafyası oldukça çeşit
 
 Köse Dağı, Çorum'un nemli ikliminde gür ormanlar ve yüksek biyoçeşitlilikle dolu bir dağ ekosistemi sunuyor. Ilkbaharın gelmesiyle birlikte, dağ yamacında çiçekler açarak renkli bir manzara oluşturuyor. Yaz aylarında, ormanlar yeşillendirerek dağın eteklerini kaplıyor. Sonbaharda ise, göç eden kuşlar dağların üzerinde uçarken, yaprakların dökülmesi ile birlikte dağ manzarası değişiyor.
 
-Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çekici. Dağ keçileri ve yaban keçileri dağların yüksek kesimlerinde yaşarken, ormanlarda geyikler ve ayılar bulunuyor. Kuşlar ise, dağların her köşesinde yuvalarını kurmuş durumdalar. 
+Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çekici. Dağ keçileri ve yaban keçileri dağların yüksek kesimlerinde yaşarken, ormanlarda geyikler ve ayılar bulunuyor. Kuşlar ise, dağların her köşesinde yuvalarını kurmuş durumdalar.
 
 Köse Dağı, ekolojik değerini koruma altına almak için önemli bir alan. Bu dağ ekosisteminin korunması, bölgenin biyoçeşitliliğini ve doğal dengesini korumak için büyük önem taşıyor.
 

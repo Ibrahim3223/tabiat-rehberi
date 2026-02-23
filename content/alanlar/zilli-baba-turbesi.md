@@ -1,7 +1,7 @@
 ---
 title: "Zilli Baba Türbesi"
 date: "2026-01-10T06:25:15.828Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -29,11 +29,11 @@ wikidata_id: "Q131391823"
 
 # Zilli Baba Türbesi
 
-Zilli Baba Türbesi, Adana'nın Seyhan ilçesinde, Akdeniz Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi türbe ve plaj, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Zilli Baba Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Tarihi geçmişi ile önemli bir kültürel miras olan bu türbe, aynı zamanda çevresi ile birlikte güzel bir doğa manzarası sunuyor.
+Zilli Baba Türbesi, Adana'nın Seyhan ilçesinde, Akdeniz Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tarihi türbe ve plaj, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Zilli Baba Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Tarihi geçmişi ile önemli bir kültürel miras olan bu türbe, aynı zamanda çevresi ile birlikte güzel bir doğa manzarası sunuyor.
 
 ## Tarihçe
 
-Zilli Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir hikayeye sahip. Bu türbenin kuruluş tarihi tam olarak bilinmese de, tarihi belgelerde adı geçen bir figura adanmış olduğu biliniyor. Zilli Baba, yöre halkı tarafından saygın bir figür olarak biliniyor ve türbesi, ziyaretçilerin saygısını çekmeyi başarıyor. Türbenin etrafındaki tarihi yapılar ve kalıntılar, bu bölgenin zengin histórik geçmişine işaret ediyor. Zilli Baba Türbesi, sadece dini bir merkez olarak değil, aynı zamanda bir kültürel ve tarihi miras olarak da önemli bir yer tutuyor.
+Zilli Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir hikayeye sahip. Bu türbenin kuruluş tarihi tam olarak bilinmese de, tarihi belgelerde adı geçen bir figura adanmış olduğu biliniyor. Zilli Baba, yöre halkı tarafından saygın bir figür olarak biliniyor ve türbesi, ziyaretçilerin saygısını çekmeyi başarıyor. Türbenin etrafındaki tarihi yapılar ve kalıntılar, bu bölgenin zengin tarihi geçmişine işaret ediyor. Zilli Baba Türbesi, sadece dini bir merkez olarak değil, aynı zamanda bir kültürel ve tarihi miras olarak da önemli bir yer tutuyor.
 
 ## Coğrafya
 

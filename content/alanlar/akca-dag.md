@@ -48,7 +48,7 @@ Mevsimsel değişikliklere göre farklı bir görünüm kazanan Akça Dağ, ikli
 
 ## Flora ve Fauna
 
-Akça Dağ, Gaziantep'in yarı kurak ikliminin hakim olduğu bölgesinde yer alan bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın farklı yükseklik zonlarında, ilkbaharda çiçekler açarken, sonbaharda göç eden kuşlar bölgeyi ziyaret eder. 
+Akça Dağ, Gaziantep'in yarı kurak ikliminin hakim olduğu bölgesinde yer alan bir dağ ekosistemi olarak dikkat çeker. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın farklı yükseklik zonlarında, ilkbaharda çiçekler açarken, sonbaharda göç eden kuşlar bölgeyi ziyaret eder.
 
 Bitki örtüsünde step ve ova ekolojisinin özellikleri görülür. Mevsimsel değişimlerle birlikte, dağın yükseklik zonlarında alpin flora çeşitliliği dikkat çeker. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağ ekosisteminin korunması, bu canlıların yaşam alanlarının korunması anlamına gelir. Akça Dağ, bölgenin ekolojik dengesini sağlayan önemli bir alandır.
 

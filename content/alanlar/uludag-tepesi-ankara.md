@@ -28,7 +28,7 @@ wikidata_id: "Q31558674"
 
 # Uludağ Tepesi (Ankara)
 
-Uludağ Tepesi, Ankara'nın merkezi bir bölgesinde yer alan ve şehrin doğal güzelliklerini ön plana çıkaran bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin karmaşasından uzaklaşmak isteyenler için mükemmel bir kaçış noktası. Uludağ Tepesi, özellikle şehir hayatının stresinden uzaklaşmak isteyenler için sakin ve huzurlu bir atmosfer sunuyor. Bu tepe, aynı zamanda Ankara'nın tarihi ve kültürel zenginliklerini keşfetmenin de önemli bir merkezi.
+Uludağ Tepesi, Ankara'nın merkezi bir bölgesinde yer alan ve şehrin doğal güzelliklerini ön plana çıkaran bir tepe. Uludağ Tepesi, özellikle şehir hayatının stresinden uzaklaşmak isteyenler için sakin ve huzurlu bir atmosfer sunuyor. Bu tepe, aynı zamanda Ankara'nın tarihi ve kültürel zenginliklerini keşfetmenin de önemli bir merkezi.
 
 ## Tarihçe
 

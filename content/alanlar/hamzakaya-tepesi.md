@@ -28,7 +28,7 @@ wikidata_id: "Q31535369"
 
 # Hamzakaya Tepesi
 
-Hamzakaya Tepesi, Hatay ilinin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. 140 hektarlık bir alanı kapsayan Hamzakaya Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Bu bölge, ziyaretçilerine doğal güzellikleri ve tarihi geçmişi ile birliktesunuyor. Hamzakaya Tepesi, Hatay'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Hamzakaya Tepesi, Hatay ilinin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Bu bölge, ziyaretçilerine doğal güzellikleri ve tarihi geçmişi ile birliktesunuyor. Hamzakaya Tepesi, Hatay'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

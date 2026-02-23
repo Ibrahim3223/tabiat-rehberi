@@ -1,7 +1,7 @@
 ---
 title: "Halil Paşa Türbesi"
 date: "2026-01-10T07:20:59.232Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391065"
 
 # Halil Paşa Türbesi
 
-Halil Paşa Türbesi, İstanbul'un Üsküdar ilçesinde, Marmara Denizi'nin kıyısında bulunan bir plaj ve tarihi mekan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından kaçmak isteyenler için bir sığınak harika bir deneyim. Halil Paşa Türbesi'nin tarihi geçmişi, Üsküdar'ın önemli noktalarından biri olarak kabul ediliyor. Ayrıca, çevredeki tarihi yapılar ve doğal güzellikler, bu bölgeyi ziyaretçiler için çekici kılıyor.
+Halil Paşa Türbesi, İstanbul'un Üsküdar ilçesinde, Marmara Denizi'nin kıyısında bulunan bir plaj ve tarihi mekan olarak dikkat çekiyor. Halil Paşa Türbesi'nin tarihi geçmişi, Üsküdar'ın önemli noktalarından biri olarak kabul ediliyor. Ayrıca, çevredeki tarihi yapılar ve doğal güzellikler, bu bölgeyi ziyaretçiler için çekici kılıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Halil Paşa Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanıyor. B
 
 ## Coğrafya
 
-Halil Paşa Türbesi, Üsküdar ilçesinin sahil şeridinde, Marmara Denizi'nin kıyısında yer alıyor. Bu bölge, İstanbul'un en güzel ve en yeşil alanlarından biri olarak kabul ediliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından kaçmak isteyenler için bir sığınak harika bir deneyim. Çevredeki diğer tarihi yapılar ve doğal güzellikler, bu bölgeyi ziyaretçiler için çekici kılıyor. Marmara Denizi'nin suyu, bu bölgede genellikle sakin ve berrak olarak dikkat çekiyor. Ayrıca, çevredeki tepeler ve ağaçlıklar, bu bölgeyi doğal bir güzellik haline getiriyor. Halil Paşa Türbesi'nin coğrafi konumu, ziyaretçiler için bir gezi ve keşif alanı olarak kabul ediliyor.
+Halil Paşa Türbesi, Üsküdar ilçesinin sahil şeridinde, Marmara Denizi'nin kıyısında yer alıyor. Bu bölge, İstanbul'un en güzel ve en yeşil alanlarından biri olarak kabul ediliyor. Çevredeki diğer tarihi yapılar ve doğal güzellikler, bu bölgeyi ziyaretçiler için çekici kılıyor. Marmara Denizi'nin suyu, bu bölgede genellikle sakin ve berrak olarak dikkat çekiyor. Ayrıca, çevredeki tepeler ve ağaçlıklar, bu bölgeyi doğal bir güzellik haline getiriyor. Halil Paşa Türbesi'nin coğrafi konumu, ziyaretçiler için bir gezi ve keşif alanı olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

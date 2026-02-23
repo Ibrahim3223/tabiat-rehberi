@@ -30,7 +30,7 @@ wikidata_id: "Q24896928"
 
 # Çilingoz Tabiat Parkı
 
-Çilingoz Tabiat Parkı, İstanbul'un Çatalca ilçesinde yer alan 140 hektarlık bir doğal alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, Marmara Bölgesi'nin önemli ekosistemlerinden biri olup, zengin fauna ve flora çeşitliliğine ev sahipliği yapar. Parkın içinde çeşitli bitki türleri ve hayvanlar bulunur. Çilingoz Tabiat Parkı, hem doğa severlerin hem de bilim insanlarının ilgisini çeken bir bölge olarak karşımıza çıkar. Parkın içerisinde trekking doingilleri, piknik alanları ve gözlem noktaları gibi çeşitli imkânlar bulunur. Bu sayede ziyaretçiler, doğayı yakından tanıma ve doğayla baş başa kalmak için uygun bir ortama sahip olurlar.
+ Bu bölge, Marmara Bölgesi'nin önemli ekosistemlerinden biri olup, zengin fauna ve flora çeşitliliğine ev sahipliği yapar. Parkın içinde çeşitli bitki türleri ve hayvanlar bulunur. Çilingoz Tabiat Parkı, hem doğa severlerin hem de bilim insanlarının ilgisini çeken bir bölge olarak karşımıza çıkar. Parkın içerisinde trekking doingilleri, piknik alanları ve gözlem noktaları gibi çeşitli imkânlar bulunur. Bu sayede ziyaretçiler, doğayı yakından tanıma ve doğayla baş başa kalmak için uygun bir ortama sahip olurlar.
 
 ## Tarihçe
 

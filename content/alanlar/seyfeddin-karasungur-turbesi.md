@@ -1,7 +1,7 @@
 ---
 title: "Seyfeddin Karasungur Türbesi"
 date: "2026-01-10T05:51:22.185Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582387"
 
 # Seyfeddin Karasungur Türbesi
 
-Seyfeddin Karasungur Türbesi, İç Anadolu Bölgesi'nin kalbinde, Konya'nın Karatay ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin depthsine götürmeyi vaat ediyor. Bu tarihi türbe ve plaj alanının etrafı, çeşitli bitki türleriyle çevrilidir ve ziyaretçilere doğayla iç içe bir deneyim sunar.
+Seyfeddin Karasungur Türbesi, İç Anadolu Bölgesi'nin kalbinde, Konya'nın Karatay ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu tarihi türbe ve plaj alanının etrafı, çeşitli bitki türleriyle çevrilidir ve ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 

@@ -50,9 +50,9 @@ Doğal güzellikleri ile dikkat çeken Kocagünerovi Tepesi, boyutları hakkınd
 
 ## Flora ve Fauna
 
-Kocagünerovi Tepesi, Siirt'in yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle, tepelerin yamaçlarında çeşitli çiçekler açar ve dağların yükseklik zonları, alpin flora ile kaplanır. 
+Kocagünerovi Tepesi, Siirt'in yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle, tepelerin yamaçlarında çeşitli çiçekler açar ve dağların yükseklik zonları, alpin flora ile kaplanır.
 
-Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılıklar bulunur. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu bölgeyi ziyaret eder. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri, tilkiler ve çeşitli kuş türleri, bu dağ ekosisteminin önemli bileşenleridir. 
+Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılıklar bulunur. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu bölgeyi ziyaret eder. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri, tilkiler ve çeşitli kuş türleri, bu dağ ekosisteminin önemli bileşenleridir.
 
 Ekolojik değerini koruma altına almak, bu bölge için önemlidir. Kocagünerovi Tepesi, bölgenin ekolojik dengesini koruyan önemli bir yaşam alanıdır. Bu nedenle, bu doğal alanın korunması ve sürdürülebilirliğinin sağlanması, gelecek nesiller için büyük bir önem taşır.
 

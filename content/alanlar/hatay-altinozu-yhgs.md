@@ -23,7 +23,7 @@ wikidata_id: "Q108228041"
 
 # Hatay Altınözü YHGS
 
-Hatay Altınözü YHGS, İç Anadolu Bölgesi'nin doğal güzelliklerini ve tarihi geçmişiyle dikkat çeken özel bir koruma alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu bölge, zengin fauna ve flora çeşitliliğiyle tanınır ve doğa severlerin ilgisini çekmektedir. Hatay Altınözü YHGS'nin ziyaretçileri, hem doğal güzelliklerini keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilir.
+Hatay Altınözü YHGS, İç Anadolu Bölgesi'nin doğal güzelliklerini ve tarihi geçmişiyle dikkat çeken özel bir koruma alanıdır. Bu bölge, zengin fauna ve flora çeşitliliğiyle tanınır ve doğa severlerin ilgisini çekmektedir. Hatay Altınözü YHGS'nin ziyaretçileri, hem doğal güzelliklerini keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Hatay Altınözü YHGS'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Hatay Altınözü YHGS, İç Anadolu Bölgesi'nde yer alan bir koruma alanıdır. Bu bölge, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, Hatay Altınözü YHGS, zengin fauna ve flora çeşitliliğiyle tanınır. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. İklim olarak, İç Anadolu Bölgesi'nin genel iklim koşullarını paylaşır ve ziyaretçilerin bölgenin güzelliğini keşfetmeleri için uygun bir ortam sunar. Hatay Altınözü YHGS'nin coğrafi konumu, ziyaretçilerin hem doğal güzelliklerini keşfetmelerine hem de tarihi geçmişi hakkında bilgi edinmelerine olanak tanır.
+Hatay Altınözü YHGS, İç Anadolu Bölgesi'nde yer alan bir koruma alanıdır. Coğrafi olarak, Hatay Altınözü YHGS, zengin fauna ve flora çeşitliliğiyle tanınır. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur ve ziyaretçilerini doğanın güzelliği ile baş başa bırakır. İklim olarak, İç Anadolu Bölgesi'nin genel iklim koşullarını paylaşır ve ziyaretçilerin bölgenin güzelliğini keşfetmeleri için uygun bir ortam sunar. Hatay Altınözü YHGS'nin coğrafi konumu, ziyaretçilerin hem doğal güzelliklerini keşfetmelerine hem de tarihi geçmişi hakkında bilgi edinmelerine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Hatay Altınözü YHGS'yi ziyaret etmek, doğa severler ve tarihi geçmişi keş
 ## İlginç Bilgiler
 
 - Hatay Altınözü YHGS, 140 hektarlık bir alanı kapsar.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Hatay Altınözü YHGS, zengin flora ve fauna çeşitliliğiyle tanınır.
 - Bu bölge, İç Anadolu Bölgesi'nde yer alan bir koruma alanıdır.
 - Ziyaretçiler, bu bölgeyi keşfederek hem doğa güzelliklerini deneyimleyebilir hem de tarihi geçmişi hakkında bilgi edinebilir.

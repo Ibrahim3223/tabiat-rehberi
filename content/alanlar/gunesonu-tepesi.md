@@ -28,7 +28,7 @@ wikidata_id: "Q32139503"
 
 # Güneşönü Tepesi
 
-Güneşönü Tepesi, Sivas ilinin muhteşem bir doğal güzelliği olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin önemli tepe noktalarından biri. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Ayrıca, tepeye tırmanırken Sivas'ın panoramik manzarasını izleme fırsatı bulunmakta. Bu güzide mekan, doğa severlerin ve gezginlerin ilgisini çekiyor.
+Güneşönü Tepesi, Sivas ilinin muhteşem bir doğal güzelliği olarak karşımıza çıkıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Ayrıca, tepeye tırmanırken Sivas'ın panoramik manzarasını izleme fırsatı bulunmakta. Bu güzide mekan, doğa severlerin ve gezginlerin ilgisini çekiyor.
 
 ## Tarihçe
 

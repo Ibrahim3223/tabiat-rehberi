@@ -28,7 +28,7 @@ wikidata_id: "Q31391112"
 
 # Elmalıpur Tepe
 
-Elmalıpur Tepe, Sivas ilinin İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişi ile dikkat çekici bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, Sivas'ın coğrafi yapısını ve tarihi zenginliğini yansıtması açısından önemli bir nokta. Elmalıpur Tepe, ziyaretçilerini tarihi ve doğal güzellikleri ile karşılayacak bir destinasyon.
+Elmalıpur Tepe, Sivas ilinin İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişi ile dikkat çekici bir tepe. Bu tepe, Sivas'ın coğrafi yapısını ve tarihi zenginliğini yansıtması açısından önemli bir nokta. Elmalıpur Tepe, ziyaretçilerini tarihi ve doğal güzellikleri ile karşılayacak bir destinasyon.
 
 ## Tarihçe
 

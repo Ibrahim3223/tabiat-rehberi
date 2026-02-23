@@ -29,7 +29,7 @@ wikidata_id: "Q134728420"
 
 # Yeniköy Tümülüsü, Gemerek
 
-Gemerek'in tarihi zenginliklerini keşfetmek isteyenler için Yeniköy Tümülüsü önemli bir destinasyon. Bu tümülüs, Sivas'ın kültür mirasının önemli bir parçası olarak kabul ediliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi olarak İç Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Bu bölge, tarihi ve coğrafi açıdan zengin bir geçmişe sahip.
+Gemerek'in tarihi zenginliklerini keşfetmek isteyenler için Yeniköy Tümülüsü önemli bir destinasyon. Bu tümülüs, Sivas'ın kültür mirasının önemli bir parçası olarak kabul ediliyor. Bu bölge, tarihi ve coğrafi açıdan zengin bir geçmişe sahip.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yeniköy Tümülüsü, tarihi geçmişi ile dikkat çekiyor. Bu tümülüsün ta
 
 ## Coğrafya
 
-Yeniköy Tümülüsü, Sivas'ın Gemerek ilçesinde yer alıyor. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Tümülüs, 140 hektarlık alan üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, bölgenin iklimi karasal iklim özellikleri gösteriyor. Bölge, yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını etkiliyor. Bölgenin coğrafi konumu, tarihi ve kültürel zenginliğini de şekillendiriyor.
+Yeniköy Tümülüsü, Sivas'ın Gemerek ilçesinde yer alıyor. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nin merkezi konumunda yer alıyor. Coğrafi olarak, bölgenin iklimi karasal iklim özellikleri gösteriyor. Bölge, yazları sıcak ve kurak, kışları ise soğuk ve kar yağışlı geçiyor. Bu coğrafi özellikler, bölgenin flora ve faunasını etkiliyor. Bölgenin coğrafi konumu, tarihi ve kültürel zenginliğini de şekillendiriyor.
 
 ## Flora ve Fauna
 

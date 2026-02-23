@@ -28,7 +28,7 @@ wikidata_id: "Q31387707"
 
 # Terzi Tepesi
 
-Terzi Tepesi, Artvin'in muhteşem doğasını keşfetmek isteyenler için ideal bir destinasyon. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini etkileyen bir manzaraya sahip. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Terzi Tepesi, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer.
+Terzi Tepesi, Artvin'in muhteşem doğasını keşfetmek isteyenler için ideal bir destinasyon. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Terzi Tepesi, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

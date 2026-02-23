@@ -51,7 +51,7 @@ Mevsimsel değişimlere baktığımızda, Uyku Dağı'nın iklim karakteri Ankar
 
 ## Flora ve Fauna
 
-Uyku Dağı'nın flora ve fauna bölümü, Ankara'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ ekosisteminin çeşitliliğini sunuyor. 
+Uyku Dağı'nın flora ve fauna bölümü, Ankara'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ ekosisteminin çeşitliliğini sunuyor.
 
 Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanırken, yaz aylarında kuraklığa adapte olan bitkiler hakim oluyor. Dağın yükseklik zonlarına göre değişen alpin flora, ziyaretçilere benzersiz bir manzara sunuyor.
 

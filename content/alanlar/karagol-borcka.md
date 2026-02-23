@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Karagöl (Borçka)
 
-Artvin'in Borçka ilçesinde yer alan Karagöl, 140 hektarlık büyüklüğüyle yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal göl, çevresi boyunca yer alan ormanlarla birlikte 140 hektarlık bir alanı kapsıyor. Gölüninde yer alan ormanlar, ziyaretçilere doğayla iç içe bir ortam sunuyor. Karagöl'ün etrafında yer alan walking yolları, ziyaretçilerin gölün güzelliğini keşfetmeleri için ideal bir ortam sunuyor.
+ Bu doğal göl, çevresi boyunca yer alan ormanlarla birlikte 140 hektarlık bir alanı kapsıyor. Gölüninde yer alan ormanlar, ziyaretçilere doğayla iç içe bir ortam sunuyor. Karagöl'ün etrafında yer alan walking yolları, ziyaretçilerin gölün güzelliğini keşfetmeleri için ideal bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Karagöl'ün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Gölün olu
 
 ## Coğrafya
 
-Karagöl, Artvin'in Borçka ilçesinde yer alıyor. Göl, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gölün etrafında yer alan ormanlar, ziyaretçilere doğayla iç içe bir ortam sunuyor. Karagöl'ün coğrafi konumu, ziyaretçilerin gölün güzelliğini keşfetmeleri için ideal bir ortam sunuyor. Gölüninde yer alan walking yolları, ziyaretçilerin gölün güzelliğini keşfetmeleri için ideal bir ortam sunuyor. Karagöl'ün iklimi, Karadeniz Bölgesi'nin iklimine benzer. Gölün etrafında yer alan ormanlar, ziyaretçilere serin ve ferah bir ortam sunuyor.
+Karagöl, Artvin'in Borçka ilçesinde yer alıyor. Gölün etrafında yer alan ormanlar, ziyaretçilere doğayla iç içe bir ortam sunuyor. Karagöl'ün coğrafi konumu, ziyaretçilerin gölün güzelliğini keşfetmeleri için ideal bir ortam sunuyor. Gölüninde yer alan walking yolları, ziyaretçilerin gölün güzelliğini keşfetmeleri için ideal bir ortam sunuyor. Karagöl'ün iklimi, Karadeniz Bölgesi'nin iklimine benzer. Gölün etrafında yer alan ormanlar, ziyaretçilere serin ve ferah bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Karagöl'ü ziyaret etmek, ziyaretçilere bu doğal güzelliğin güzelliğini k
 
 ## İlginç Bilgiler
 
-- Karagöl, 140 hektarlık büyüklüğüyle yaklaşık 200 futbol sahası büyüklüğünde.
 - Gölün etrafında yer alan ormanlar, ziyaretçilere doğayla iç içe bir ortam sunuyor.
 - Karagöl'ün coğrafi konumu, ziyaretçilerin gölün güzelliğini keşfetmeleri için ideal bir ortam sunuyor.
 - Gölün etrafında yer alan ormanlar, birçok canlı türünün yaşam alanı olarak hizmet ediyor.

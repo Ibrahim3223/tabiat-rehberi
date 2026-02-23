@@ -28,7 +28,7 @@ wikidata_id: "Q31389200"
 
 # Kokarca Tepesi
 
-Kokarca Tepesi, Çanakkale'nin sınırları içerisinde yer alan ve ziyaretçilerini etkileyici manzaralarıyla karşılayan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Kokarca Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler, bu tepeye tırmanarak çevreyi keşfedebilir ve eşsiz manzaraların keyfini çıkarabilirler.
+Kokarca Tepesi, Çanakkale'nin sınırları içerisinde yer alan ve ziyaretçilerini etkileyici manzaralarıyla karşılayan bir doğa harikasıdır. Kokarca Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçiler, bu tepeye tırmanarak çevreyi keşfedebilir ve eşsiz manzaraların keyfini çıkarabilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kokarca Tepesi, tarihi geçmişiyle dikkat çeker. Bölgenin yüzyıllar boyunca
 
 ## Coğrafya
 
-Kokarca Tepesi, Çanakkale'nin coğrafi yapısını belirleyen önemli bir unsurdur. Bu tepe, Marmara Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve çevresindeki diğer tepe ve dağlarla birlikte bir bütün oluşturur. İklim, tepe ve çevresinin bitki örtüsünü ve fauna çeşitliliğini etkiler. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Kokarca Tepesi, çevreyi keşfetme ve doğal güzellikleri deneyimlemek isteyenler için ideal bir lokasyondur. Tepenin yüksekliği, manzarayı genişletir ve ziyaretçilere bölgeyi panoramik olarak görmek için olanak sağlar.
+Kokarca Tepesi, Çanakkale'nin coğrafi yapısını belirleyen önemli bir unsurdur. Bu tepe, Marmara Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve çevresindeki diğer tepe ve dağlarla birlikte bir bütün oluşturur. İklim, tepe ve çevresinin bitki örtüsünü ve fauna çeşitliliğini etkiler. Kokarca Tepesi, çevreyi keşfetme ve doğal güzellikleri deneyimlemek isteyenler için ideal bir lokasyondur. Tepenin yüksekliği, manzarayı genişletir ve ziyaretçilere bölgeyi panoramik olarak görmek için olanak sağlar.
 
 ## Flora ve Fauna
 

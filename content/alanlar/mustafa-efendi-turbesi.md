@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Efendi Türbesi"
 date: "2026-01-10T05:11:37.097Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391567"
 
 # Mustafa Efendi Türbesi
 
-Mustafa Efendi Türbesi, İzmir'in Seferihisar ilçesinde yer alan tarihi bir turbe ve plajdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Mustafa Efendi Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon olarak bilinir. Turbe, deniz kıyısında yer alan bir tepe üzerinde bulunmaktadır ve çevresinde çeşitli bitkiler ve ağaçlar bulunmaktadır.
+Mustafa Efendi Türbesi, İzmir'in Seferihisar ilçesinde yer alan tarihi bir turbe ve plajdır. Mustafa Efendi Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon olarak bilinir. Turbe, deniz kıyısında yer alan bir tepe üzerinde bulunmaktadır ve çevresinde çeşitli bitkiler ve ağaçlar bulunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mustafa Efendi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktad�
 
 ## Coğrafya
 
-Mustafa Efendi Türbesi, İzmir'in Seferihisar ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer almaktadır. Bu alan, deniz kıyısında yer alan bir tepe üzerinde bulunmaktadır ve çevresinde çeşitli bitkiler ve ağaçlar bulunmaktadır. Turbe ve plaj, doğal güzelliği ile birlikte, ziyaretçilerine güzel bir manzara sunmaktadır. Çevredeki coğrafya, genellikle tepeli ve dağlık bir yapıya sahiptir ve bu reason, ziyaretçilere güzel bir görünüm sağlamaktadır. Mustafa Efendi Türbesi'nin bulunduğu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir.
+Mustafa Efendi Türbesi, İzmir'in Seferihisar ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer almaktadır. Bu alan, deniz kıyısında yer alan bir tepe üzerinde bulunmaktadır ve çevresinde çeşitli bitkiler ve ağaçlar bulunmaktadır. Turbe ve plaj, doğal güzelliği ile birlikte, ziyaretçilerine güzel bir manzara sunmaktadır. Çevredeki coğrafya, genellikle tepeli ve dağlık bir yapıya sahiptir ve bu reason, ziyaretçilere güzel bir görünüm sağlamaktadır.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31534657"
 
 # Esek Tepesi
 
-Esek Tepesi, Hatay ilinde yer alan ve ziyaretçilerini tarihi ve doğal güzellikleriyle bekleyen bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Hatay'ın önemli doğal alanlarından biri. Bu tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir yer. Esek Tepesi, ziyaretçilerine güzel manzaralar sunan ve çeşitli bitki türleriyle zengin bir ekosisteme sahip. Burada, yürüyüş yapabilir, doğanın güzelliğini izleyebilir ve tarihi hakkında bilgi edinebilirsiniz.
+Esek Tepesi, Hatay ilinde yer alan ve ziyaretçilerini tarihi ve doğal güzellikleriyle bekleyen bir tepe. Bu tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir yer. Esek Tepesi, ziyaretçilerine güzel manzaralar sunan ve çeşitli bitki türleriyle zengin bir ekosisteme sahip. Burada, yürüyüş yapabilir, doğanın güzelliğini izleyebilir ve tarihi hakkında bilgi edinebilirsiniz.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Esek Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahi
 
 ## Coğrafya
 
-Esek Tepesi, Hatay ilinin coğrafi yapısını yansıtan önemli bir nokta. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşımakta ve ziyaretçilerine güzel manzaralar sunuyor. Esek Tepesi, 140 hektarlık bir alan üzerinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin bir fauna bulunmakta. Esek Tepesi, ziyaretçilerine doğanın güzelliğini izleme fırsatı sunuyor ve birçok farklı bitki türünü görme mümkün. Bu tepe, aynı zamanda, Hatay'ın iklimini yansıtan bir yer ve burada, Akdeniz ikliminin karakteristik özellikleri görülebiliyor. Esek Tepesi, ziyaretçilerine hem coğrafi hem de ekolojik açıdan zengin bir deneyim sunuyor.
+Esek Tepesi, Hatay ilinin coğrafi yapısını yansıtan önemli bir nokta. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşımakta ve ziyaretçilerine güzel manzaralar sunuyor. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin bir fauna bulunmakta. Esek Tepesi, ziyaretçilerine doğanın güzelliğini izleme fırsatı sunuyor ve birçok farklı bitki türünü görme mümkün. Bu tepe, aynı zamanda, Hatay'ın iklimini yansıtan bir yer ve burada, Akdeniz ikliminin karakteristik özellikleri görülebiliyor. Esek Tepesi, ziyaretçilerine hem coğrafi hem de ekolojik açıdan zengin bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Esek Tepesi'ni ziyaret etmek, hem doğa severlerin hem de tarih meraklılarını
 ## İlginç Bilgiler
 
 - Esek Tepesi, 140 hektarlık bir alan üzerinde yer alıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Esek Tepesi, Hatay ilinin önemli doğal alanlarından biri.
 - Burada, çeşitli bitki türleri ve birçok farklı canlıya rastlama mümkün.
 - Esek Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunan bir yer olarak dikkat çekiyor.

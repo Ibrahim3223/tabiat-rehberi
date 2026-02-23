@@ -1,7 +1,7 @@
 ---
 title: "Milet Capito Hamamı"
 date: "2026-01-09T23:27:39.824Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İyonya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739080"
 
 # Milet Capito Hamamı
 
-Milet Capito Hamamı, Didim'in İyonya bölgesinde yer alan ve tarihi oraz doğal güzellikleri bir araya getiren özel bir destinasyon. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve ziyaretçilerini geniş bir yeşil alanın içerisinde ağırlıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir faaliyet alanı sunuyor. İyonya'nın tarihi geçmişi ve doğal güzellikleri, Milet Capito Hamamı'nın ziyaretçilerine sunduğu benzersiz bir deneyim.
+Milet Capito Hamamı, Didim'in İyonya bölgesinde yer alan ve tarihi oraz doğal güzellikleri bir araya getiren özel bir destinasyon. İyonya'nın tarihi geçmişi ve doğal güzellikleri, Milet Capito Hamamı'nın ziyaretçilerine sunduğu benzersiz bir deneyim.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Milet Capito Hamamı, Didim'in İyonya bölgesinde yer alan ve ziyaretçilerine 
 ## İlginç Bilgiler
 
 - Milet Capito Hamamı, Didim'in İyonya bölgesinde yer alıyor.
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip.
+
 - İyonya'nın tarihi geçmişi, Milet Capito Hamamı'nın ziyaretçilerine sunduğu zengin kültürel birikimi yansıtıyor.
 - Milet Capito Hamamı, İyonya'nın tarihini ve kültürünü keşfetmek için ideal bir destinasyon.
 - Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlıyor.

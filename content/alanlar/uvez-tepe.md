@@ -28,7 +28,7 @@ wikidata_id: "Q34810087"
 
 # Üvez Tepe
 
-Üvez Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe olarak, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepe, ziyaretçilerini hem doğal güzelliği ile hem de tarihi geçmişiyle etkiliyor. Üvez Tepe, çevresindeki diğer tepelerle birlikte, bölgenin coğrafi yapısına önemli katkılar sağlıyor.
+Üvez Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe olarak, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Bu tepe, ziyaretçilerini hem doğal güzelliği ile hem de tarihi geçmişiyle etkiliyor. Üvez Tepe, çevresindeki diğer tepelerle birlikte, bölgenin coğrafi yapısına önemli katkılar sağlıyor.
 
 ## Tarihçe
 

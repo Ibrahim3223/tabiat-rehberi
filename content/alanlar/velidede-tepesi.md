@@ -28,7 +28,7 @@ wikidata_id: "Q31558247"
 
 # Velidede Tepesi
 
-Velidede Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Bu tepe, Ankara'nın şehir hayatından uzaklaşma ve doğayla iç içe olmak isteyenler için mükemmel bir kaçış noktası olarak görülüyor. Velidede Tepesi, hem doğa severler hem de tarih meraklıları için çeşitli olanaklar sunuyor.
+Velidede Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. Bu tepe, Ankara'nın şehir hayatından uzaklaşma ve doğayla iç içe olmak isteyenler için mükemmel bir kaçış noktası olarak görülüyor. Velidede Tepesi, hem doğa severler hem de tarih meraklıları için çeşitli olanaklar sunuyor.
 
 ## Tarihçe
 

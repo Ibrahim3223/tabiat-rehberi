@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Parkı Çeşmesi"
 date: "2026-01-10T04:33:00.888Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,11 +29,11 @@ wikidata_id: "Q131368894"
 
 # Yıldız Parkı Çeşmesi
 
-Yıldız Parkı Çeşmesi, Beşiktaş'ta yer alan ve tarihi bir geçmişe sahip olan bir par ve çeşme alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Parkın içinde yer alan çeşme, tarihi değerinin yanı sıra, güzel mimarisi ile de dikkat çekmektedir. Yıldız Parkı Çeşmesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyondur. Burada, tarih, doğa ve kültür bir arada bulunmakta ve ziyaretçilere keyifli bir gezi imkanı sunmaktadır.
+Yıldız Parkı Çeşmesi, Beşiktaş'ta yer alan ve tarihi bir geçmişe sahip olan bir par ve çeşme alanıdır. Parkın içinde yer alan çeşme, tarihi değerinin yanı sıra, güzel mimarisi ile de dikkat çekmektedir. Yıldız Parkı Çeşmesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyondur. Burada, tarih, doğa ve kültür bir arada bulunmakta ve ziyaretçilere keyifli bir gezi imkanı sunmaktadır.
 
 ## Tarihçe
 
-Yıldız Parkı Çeşmesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanmaktadır. Bu dönemde, bölgede çeşitli yapılar ve bahçeler bulunuyordu. Zaman içinde, bu alanlar restore edilere ve güzelleştirilerek, günümüzde ziyaretçilerin keyifli zaman geçirebileceği bir park haline getirilmiştir. Çeşme, özellikle 19. yüzyılda inşa edilmiş ve o günden beri, bölgenin önemli bir simgesi haline gelmiştir. Yıldız Parkı Çeşmesi, yüzyıllar boyunca İstanbul'un tarihinde önemli bir yer tutmuş ve çeşitli olaylara tanıklık etmiştir. Bu nedenle, hem tarihi açıdan hem de doğal güzelliği ile önemli bir turistik destinasyondur.
+Yıldız Parkı Çeşmesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanmaktadır. Bu dönemde, bölgede çeşitli yapılar ve bahçeler bulunuyordu. Zaman içinde, bu alanlar restore edilere ve güzelleştirilerek, günümüzde ziyaretçilerin keyifli zaman geçirebileceği bir park haline getirilmiştir. Çeşme, özellikle 19. yüzyılda inşa edilmiş ve o günden beri, bölgenin önemli bir simgesi haline gelmiştir. Yıldız Parkı Çeşmesi, yüzyıllar boyunca İstanbul'un tarihinde önemli bir yer tutmuş ve çeşitli olaylara tanıklık etmiştir.
 
 ## Coğrafya
 

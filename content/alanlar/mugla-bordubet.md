@@ -23,7 +23,7 @@ wikidata_id: "Q108229020"
 
 # MUĞLA BÖRDÜBET
 
-Muğla Bördübet, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine. 70 hektarlık bir orman alanı, 30 hektarlık bir mera ve 40 hektarlık bir tarım alanı ile çeşitlilik gösteriyor. Doğal güzellikleri, tarihi geçmişi ve kültürel zenginliği ile Muğla Bördübet, ziyaretçiler için unutulmaz bir deneyimi vaat ediyor.
+ Bu bölge, hem doğa severler hem de tarih meraklıları için bir hazine. 70 hektarlık bir orman alanı, 30 hektarlık bir mera ve 40 hektarlık bir tarım alanı ile çeşitlilik gösteriyor. Doğal güzellikleri, tarihi geçmişi ve kültürel zenginliği ile Muğla Bördübet, ziyaretçiler için unutulmaz bir deneyimi vaat ediyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Muğla Bördübet'in tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu böl
 
 ## Coğrafya
 
-Muğla Bördübet, coğrafi olarak da dikkat çekici bir bölgedir. 140 hektarlık bir alanı kaplayan bu région, dağlar, ormanlar ve ovalar ile çevrili. Bu bölgenin coğrafi özellikleri, ziyaretçilere çeşitli doğa aktivitelerini sunuyor. Dağ yürüyüşleri, orman gezileri ve ova turları, ziyaretçilerin doğal güzelliklerle baş başa kalmasını sağlıyor. Bölgenin iklimi, genellikle ılıman ve yağışlı. Kış aylarında kar yağışı görülürken, yaz aylarında sıcak ve kuru bir hava hakim. Bu bölgenin coğrafi çeşitliliği, ziyaretçilere her mevsim farklı bir deneyim sunuyor. Doğal güzellikleri, coğrafi çeşitliliği ve iklimi ile Muğla Bördübet, ziyaretçileri için bir cennet.
+Muğla Bördübet, coğrafi olarak da dikkat çekici bir bölgedir. 140 hektarlık bir alanı kaplayan bu bölge, dağlar, ormanlar ve ovalar ile çevrili. Bu bölgenin coğrafi özellikleri, ziyaretçilere çeşitli doğa aktivitelerini sunuyor. Dağ yürüyüşleri, orman gezileri ve ova turları, ziyaretçilerin doğal güzelliklerle baş başa kalmasını sağlıyor. Bölgenin iklimi, genellikle ılıman ve yağışlı. Kış aylarında kar yağışı görülürken, yaz aylarında sıcak ve kuru bir hava hakim. Bu bölgenin coğrafi çeşitliliği, ziyaretçilere her mevsim farklı bir deneyim sunuyor. Doğal güzellikleri, coğrafi çeşitliliği ve iklimi ile Muğla Bördübet, ziyaretçileri için bir cennet.
 
 ## Flora ve Fauna
 

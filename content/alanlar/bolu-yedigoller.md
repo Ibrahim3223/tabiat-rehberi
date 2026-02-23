@@ -23,7 +23,7 @@ wikidata_id: "Q108227406"
 
 # Bolu-Yedigoller
 
-Bolu-Yedigoller Milli Parkı, Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile dikkat çekiyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle dolu. Park, ziyaretçilerine doğal güzellikleri ve zengin flora ile birlikte, keyifli bir gezi deneyimi sunuyor. 1965 yılında milli park olarak ilan edilen Bolu-Yedigoller, doğal güzellikleri ve tarihi geçmişi ile ziyaretçilerini bekliyor.
+Bolu-Yedigoller Milli Parkı, Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile dikkat çekiyor. Park, ziyaretçilerine doğal güzellikleri ve zengin flora ile birlikte, keyifli bir gezi deneyimi sunuyor. 1965 yılında milli park olarak ilan edilen Bolu-Yedigoller, doğal güzellikleri ve tarihi geçmişi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Bolu-Yedigoller Milli Parkı, yüzyıllar boyunca doğal güzellikleri ile ön p
 
 ## Coğrafya
 
-Bolu-Yedigoller Milli Parkı, Karadeniz Bölgesi'nde yer alan bir milli park. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşuyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle dolu. Parkın iklimi, Karadeniz iklimi özellikleri taşıyor ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Parkın çevresi, yüksek dağlarla çevrili ve bu da parkın doğal güzelliklerini daha da artırıyor. Bolu-Yedigoller, aynı zamanda çeşitli akarsular ve göller ile de zengin bir su kaynaklarına sahip. Bu su kaynakları, parkın ekolojik dengesini korumaya yardımcı oluyor ve ziyaretçilere keyifli bir gezi deneyimi sunuyor.
+Bolu-Yedigoller Milli Parkı, Karadeniz Bölgesi'nde yer alan bir milli park. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşuyor. Parkın iklimi, Karadeniz iklimi özellikleri taşıyor ve ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Parkın çevresi, yüksek dağlarla çevrili ve bu da parkın doğal güzelliklerini daha da artırıyor. Bolu-Yedigoller, aynı zamanda çeşitli akarsular ve göller ile de zengin bir su kaynaklarına sahip. Bu su kaynakları, parkın ekolojik dengesini korumaya yardımcı oluyor ve ziyaretçilere keyifli bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Bolu-Yedigoller Milli Parkı, ziyaretçilerine keyifli bir gezi deneyimi sunuyor
 ## İlginç Bilgiler
 
 - Bolu-Yedigoller Milli Parkı, 1965 yılında milli park olarak ilan edildi.
-- Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Park, Karadeniz Bölgesi'nde yer alıyor.
 - Parkın iklimi, Karadeniz iklimi özellikleri taşıyor.
 - Park, çeşitli akarsular ve göller ile zengin bir su kaynağına sahip.

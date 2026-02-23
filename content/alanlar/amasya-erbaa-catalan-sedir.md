@@ -22,7 +22,7 @@ wikidata_id: "Q108228559"
 
 # Amasya-Erbaa-Catalan Sedir
 
-Amasya-Erbaa-Catalan Sedir milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biridir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Bu alan, hem doğa severler hem de gezi tutkunları için ideal bir destinasyon
+Amasya-Erbaa-Catalan Sedir milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Bu alan, hem doğa severler hem de gezi tutkunları için ideal bir destinasyon
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Amasya-Erbaa-Catalan Sedir milli parkı, yüzyıllar boyunca doğal güzelliğin
 
 ## Coğrafya
 
-Amasya-Erbaa-Catalan Sedir milli parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak dağlık ve ormanlık bir bölgede yer alır. Bu bölgenin coğrafi konumu, çeşitli bitki türlerinin yetişmesine ve zengin faunanın oluşmasına olanak tanır. Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir alan sunar. Bu bölgenin iklimi, Karadeniz Bölgesi'nin genel iklimine uygun olarak yağışlı ve nemlidir. Bu nedenlerle, Amasya-Erbaa-Catalan Sedir milli parkı, hem coğrafi çeşitliliği hem de doğal güzelliği ile dikkat çekiyor
+Amasya-Erbaa-Catalan Sedir milli parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak dağlık ve ormanlık bir bölgede yer alır. Bu bölgenin coğrafi konumu, çeşitli bitki türlerinin yetişmesine ve zengin faunanın oluşmasına olanak tanır. Bu bölgenin iklimi, Karadeniz Bölgesi'nin genel iklimine uygun olarak yağışlı ve nemlidir. Bu nedenlerle, Amasya-Erbaa-Catalan Sedir milli parkı, hem coğrafi çeşitliliği hem de doğal güzelliği ile dikkat çekiyor
 
 ## Flora ve Fauna
 

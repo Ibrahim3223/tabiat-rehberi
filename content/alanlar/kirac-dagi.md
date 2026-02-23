@@ -48,9 +48,9 @@ Mevsimsel değişikliklere bakıldığında, Kıraç Dağı'nın iklim karakteri
 
 ## Flora ve Fauna
 
-Kıraç Dağı, Antalya'nın kıyı ekosisteminde yer alan bir dağ ekosistemi olarak, maki bitki örtüsüne ev sahipliği yapar. Bu bölge, kuraklığa dayanıklı türlerle dolu bir flora çeşitliliğine sahiptir. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. 
-Dağın yükseklik zonalarında, alpin flora hakimdir ve bu bölge, çeşitli dağ hayvanlarına yaşam alanı sağlar. 
-Kıraç Dağı,.memeli ve kuş türleri için önemli bir yaşam alanıdır. Kış aylarında, göçmen kuşlar dağların yüksek kesimlerini ziyaret eder. Sürüngenler de bu dağ ekosisteminin bir parçasıdır. 
+Kıraç Dağı, Antalya'nın kıyı ekosisteminde yer alan bir dağ ekosistemi olarak, maki bitki örtüsüne ev sahipliği yapar. Bu bölge, kuraklığa dayanıklı türlerle dolu bir flora çeşitliliğine sahiptir. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır.
+Dağın yükseklik zonalarında, alpin flora hakimdir ve bu bölge, çeşitli dağ hayvanlarına yaşam alanı sağlar.
+Kıraç Dağı,.memeli ve kuş türleri için önemli bir yaşam alanıdır. Kış aylarında, göçmen kuşlar dağların yüksek kesimlerini ziyaret eder. Sürüngenler de bu dağ ekosisteminin bir parçasıdır.
 Kıraç Dağı, ekolojik açıdan önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgeye özgü türlerin yaşamsal bağımlılığını sağlar.
 
 ## Ziyaret Bilgileri

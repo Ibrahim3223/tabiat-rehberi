@@ -1,7 +1,7 @@
 ---
 title: "Orhan Gazi Camii"
 date: "2026-01-10T04:22:29.839Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hüdavendigâr Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q6038154"
 
 # Orhan Gazi Camii
 
-Orhan Gazi Camii, Bursa'nın merkezinde, şehrin tarihi dokusunu yansıtan önemli bir yapıdır. 14. yüzyılda inşa edilen bu cami, şehrin en eski ve en önemli dini yapılarından biridir. Caminin mimarisi, Selçuklu ve Osmanlı dönemi özellikleri taşımaktadır. 140 hektarlık bir alan üzerine kurulu olan cami, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tarihi yapı, Bursa'nın kültürel ve tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Orhan Gazi Camii, Bursa'nın merkezinde, şehrin tarihi dokusunu yansıtan önemli bir yapıdır. 14. yüzyılda inşa edilen bu cami, şehrin en eski ve en önemli dini yapılarından biridir. Caminin mimarisi, Selçuklu ve Osmanlı dönemi özellikleri taşımaktadır. Bu tarihi yapı, Bursa'nın kültürel ve tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

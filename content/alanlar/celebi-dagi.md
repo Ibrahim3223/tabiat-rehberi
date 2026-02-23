@@ -50,13 +50,13 @@ Mevsimsel değişikliklere bağlı olarak, Çelebi Dağı'nın iklimi değişken
 
 ## Flora ve Fauna
 
-Çelebi Dağı, Kırıkkale'nin step ve bozkır ekosistemine ev sahipliği yapan bir dağ bölgesidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çelebi Dağı, Kırıkkale'nin step ve bozkır ekosistemine ev sahipliği yapan bir dağ bölgesidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbahar aylarında dağ eteklerinde renkli çiçekler açar, yaz aylarında ise kuraklığa adapte olmuş türler hakim olur. Mevsimsel değişimlerle birlikte, dağların yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artar.
 
 Yaban Hayatı açısından, dağ ekosistemi memeliler, kuşlar ve sürüngenler için uygun bir yaşam alanı sunar. Göçmen kuşlar, sonbahar aylarında dağları ziyaret ederken, diğer hayvanlar ise dağların yükseklik zonlarına göre dağılırlar.
 
-Ekolojik Değer olarak, Çelebi Dağı'nın koruma durumu önemlidir. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak açısından kritik bir role sahiptir.
+Ekolojik Değer olarak, Çelebi Dağı'nın koruma durumu önemlidir.
 
 ## Ziyaret Bilgileri
 

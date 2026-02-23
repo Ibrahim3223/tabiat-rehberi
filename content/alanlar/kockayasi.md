@@ -23,7 +23,7 @@ wikidata_id: "Q108228176"
 
 # Koçkayası
 
-Koçkayası, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Koçkayası, doğa severlerin ve huzur arayanların kaçırmaması gereken bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor.
+ Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Koçkayası, doğa severlerin ve huzur arayanların kaçırmaması gereken bir destinasyon.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Koçkayası'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu doğ
 
 ## Coğrafya
 
-Koçkayası, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklarla ve yeşilliklerle çevrili. Bu doğal alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Koçkayası'nın coğrafi yapısı, ziyaretçilere doğanın güzelliğini ve zenginliğini sunuyor. Bu milli park, ziyaretçilerine geniş otlaklar, yeşillikler ve birçok doğal güzellik sunuyor. Koçkayası'nın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir iklimdir. Bu doğal alan, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Kışın karla kaplı, ilkbaharda çiçeklerle bezeli, yazın yeşilliklerle dolu ve sonbaharda renkli bir manzara sunan Koçkayası, her mevsim ziyaretçilerini bekliyor.
+Koçkayası, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklarla ve yeşilliklerle çevrili. Koçkayası'nın coğrafi yapısı, ziyaretçilere doğanın güzelliğini ve zenginliğini sunuyor. Bu milli park, ziyaretçilerine geniş otlaklar, yeşillikler ve birçok doğal güzellik sunuyor. Koçkayası'nın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak karasal bir iklimdir. Bu doğal alan, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Kışın karla kaplı, ilkbaharda çiçeklerle bezeli, yazın yeşilliklerle dolu ve sonbaharda renkli bir manzara sunan Koçkayası, her mevsim ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

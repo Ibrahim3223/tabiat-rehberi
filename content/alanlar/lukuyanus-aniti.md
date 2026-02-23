@@ -29,7 +29,7 @@ wikidata_id: "Q134728430"
 
 # Lukuyanus Anıtı
 
-Lukuyanus Anıtı, Konya'nın Beyşehir ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin önemli turizm noktalarından biridir. Bu anıt, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Lukuyanus Anıtı, özellikle tarih ve doğa severler için bir cazibe merkezi olarak dikkat çekiyor.
+Lukuyanus Anıtı, Konya'nın Beyşehir ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir destinasyondur. Bu anıt, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Lukuyanus Anıtı, özellikle tarih ve doğa severler için bir cazibe merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 

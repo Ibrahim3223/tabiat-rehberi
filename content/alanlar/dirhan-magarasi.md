@@ -1,7 +1,7 @@
 ---
 title: "Dirhan Mağarası"
 date: "2026-01-09T10:00:31.130Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "jeopark"
 il: "Batman"
@@ -48,7 +48,7 @@ Bölgenin ekolojik dengesini koruyan su kaynakları ve ekosistem bağlantıları
 
 ## Flora ve Fauna
 
-Dirhan Mağarası'nın etrafını saran 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu jeopark, yarı kurak iklimin etkisini gösteren step ve ova ekolojisiyle dikkat çekiyor. 
+Dirhan Mağarası'nın etrafını saran 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu jeopark, yarı kurak iklimin etkisini gösteren step ve ova ekolojisiyle dikkat çekiyor.
 
 Bitki örtüsünü oluşturan çeşitli ağaç türleri, ilkbaharın gelişine eşlik eden çiçek açan bitkilerle birlikte canlanıyor. Sonbaharda, yaprak döken ağaçlar renkli bir manzara oluştururken, göç eden kuşlar bu bölgeyi önemli bir durak olarak kullanıyor.
 

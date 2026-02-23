@@ -35,7 +35,7 @@ Bitlis'in doğa harikaları arasında yer alan Karataş Tepe, bu bölgeyi keşfe
 
 Bitlis'in dağlık bölgesinde yer alan Karataş Tepe, tarihin derinliklerinde gizlenen bir doğal hazine olarak karşımıza çıkıyor. Bu bölgenin tarihi, Urartular, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşıyor. İnsanlık tarihinin önemli bir bölümü, bu coğrafyada şekillenmiş ve gelişmiştir.
 
-Doğal güzellikleri ve stratejik konumuyla, Karataş Tepe gibi alanlar Türkiye'nin tarihsel zenginliğinin önemli bir parçasını oluşturuyor. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgede yaşayan insanların yaşam şeklini belirlemiş ve bölgeyi önemli bir ekonomik merkez haline getirmiştir. Ayrıca, bu tür doğal alanlar, kültürel mirasın korunmasında da önemli bir rol oynamıştır. 
+Doğal güzellikleri ve stratejik konumuyla, Karataş Tepe gibi alanlar Türkiye'nin tarihsel zenginliğinin önemli bir parçasını oluşturuyor. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgede yaşayan insanların yaşam şeklini belirlemiş ve bölgeyi önemli bir ekonomik merkez haline getirmiştir. Ayrıca, bu tür doğal alanlar, kültürel mirasın korunmasında da önemli bir rol oynamıştır.
 
 Bu bölgenin tarihi ve kültürel önemi, Karataş Tepe'nin bir doğal ve tarihsel hazine olarak görülmesini sağlar. İnsanların bu alana olan ilişkisi, sadece coğrafi bir bağlantı değil, aynı zamanda bir kültürel ve tarihi bağdır. Bu bağlantı, Karataş Tepe'nin Türkiye'nin tarihsel zenginliğiçinde özel bir yere sahip olmasını sağlar.
 
@@ -51,9 +51,9 @@ Bitlis'in diğer coğrafi oluşumlarıyla birlikte, Karataş Tepe de bölgenin s
 
 ## Flora ve Fauna
 
-Karataş Tepe, Bitlis'in yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki örtüsü açısından, ilkbaharla birlikte dağ yamaçları renklendir. Alpin çayırlar, çeşitli yükseklik zonlarına adapte olmuş bitki türleriyle dolup taşar. 
-Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, yüksekliklerine rağmen, zor koşullara uyum sağlar. 
+Karataş Tepe, Bitlis'in yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki örtüsü açısından, ilkbaharla birlikte dağ yamaçları renklendir. Alpin çayırlar, çeşitli yükseklik zonlarına adapte olmuş bitki türleriyle dolup taşar.
+Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, yüksekliklerine rağmen, zor koşullara uyum sağlar.
 Ekolojik değer açısından, Karataş Tepe'nin korunması büyük önem taşır. Bu alanın bozulmaması için, doğal dengenin korunmasına dikkat edilmelidir.
 
 ## Ziyaret Bilgileri

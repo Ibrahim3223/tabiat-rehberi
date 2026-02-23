@@ -30,7 +30,7 @@ wikidata_id: "Q96902881"
 
 # Danamandıra Tabiat Parkı
 
-Danamandıra Tabiat Parkı, İstanbul'un Silivri ilçesinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Ayrıca, parkın konumu itibariyle Marmara Denizi'ne olan yakınlığı, manzarası açısından da önemli bir avantaj sağlıyor.
+Danamandıra Tabiat Parkı, İstanbul'un Silivri ilçesinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Ayrıca, parkın konumu itibariyle Marmara Denizi'ne olan yakınlığı, manzarası açısından da önemli bir avantaj sağlıyor.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Danamandıra Tabiat Parkı, Marmara Bölgesi'nde, İstanbul'un Silivri ilçesind
 
 ## Flora ve Fauna
 
-Danamandıra Tabiat Parkı, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. Parkın içerisinde, çeşitli bitki türleri bulunmakta ve mevsimsel değişimlere göre farklılık gösteriyor. Parkın fauna açısından da zengin olduğu, birçok hayvan türünün parkta yaşadığı biliniyor. Mevsimsel değişimlere göre, parkın içindeki canlılar da değişiyor; özellikle ilkbahar ve sonbahar ayları, parkın en canlı dönemleri. Bu dönemde, parkın içindeki bitkiler ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor. Ayrıca, parkın ekolojik dengesi, bölgenin doğal güzelliğini korumak açısından önemli bir role sahip.
+Danamandıra Tabiat Parkı, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. Parkın içerisinde, çeşitli bitki türleri bulunmakta ve mevsimsel değişimlere göre farklılık gösteriyor. Parkın fauna açısından da zengin olduğu, birçok hayvan türünün parkta yaşadığı biliniyor. Mevsimsel değişimlere göre, parkın içindeki canlılar da değişiyor; özellikle ilkbahar ve sonbahar ayları, parkın en canlı dönemleri. Bu dönemde, parkın içindeki bitkiler ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Ziyaret Bilgileri
 
@@ -50,8 +50,7 @@ Danamandıra Tabiat Parkı, ziyaretçilerine doğayla iç içe bir deneyim sunuy
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Park, Marmara Denizi'ne yakınlığıyla dikkat çekiyor.
-- Parkın ekolojik dengesi, bölgenin doğal güzelliğini korumak açısından önemli bir role sahip.
+
 - Park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.

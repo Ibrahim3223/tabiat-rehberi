@@ -28,7 +28,7 @@ wikidata_id: "Q31387556"
 
 # Geymene Tepesi
 
-Geymene Tepesi, Çanakkale'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, Marmara Bölgesi'nde yer alıyor ve ziyaretçilerini doğal güzellikleriyle bekliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada yapılan yürüyüşler, ziyaretçilere doğanın güzelliğini gösteriyor. Geymene Tepesi, Çanakkale'nin önemli turizm merkezlerinden biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor.
+Geymene Tepesi, Çanakkale'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, Marmara Bölgesi'nde yer alıyor ve ziyaretçilerini doğal güzellikleriyle bekliyor. Geymene Tepesi, Çanakkale'nin önemli turizm merkezlerinden biri olarak biliniyor ve her yıl çok sayıda ziyaretçi çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Geymene Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Geymene Tepesi, Marmara Bölgesi'nde yer alıyor ve Çanakkale'nin önemli coğrafi merkezlerinden biri olarak biliniyor. Bu tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada yapılan yürüyüşler, ziyaretçilere doğanın güzelliğini gösteriyor. Geymene Tepesi'nin iklimi, Marmara Bölgesi'nin iklimine benzer ve burada yapılan yürüyüşler, ziyaretçilere bu bölgenin güzelliğini gösteriyor. Geymene Tepesi, çevre güzelliği ile de biliniyor ve ziyaretçilere bu bölgenin güzelliğini gösteriyor. Burada yapılan faaliyetler, ziyaretçilere doğanın güzelliğini gösteriyor ve Geymene Tepesi, Çanakkale'nin önemli turizm merkezlerinden biri olarak biliniyor.
+Geymene Tepesi, Marmara Bölgesi'nde yer alıyor ve Çanakkale'nin önemli coğrafi merkezlerinden biri olarak biliniyor. Geymene Tepesi'nin iklimi, Marmara Bölgesi'nin iklimine benzer ve burada yapılan yürüyüşler, ziyaretçilere bu bölgenin güzelliğini gösteriyor. Geymene Tepesi, çevre güzelliği ile de biliniyor ve ziyaretçilere bu bölgenin güzelliğini gösteriyor. Burada yapılan faaliyetler, ziyaretçilere doğanın güzelliğini gösteriyor ve Geymene Tepesi, Çanakkale'nin önemli turizm merkezlerinden biri olarak biliniyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Geymene Tepesi'ni ziyaret etmek, Çanakkale'nin doğal güzelliklerini keşfetme
 ## İlginç Bilgiler
 
 - Geymene Tepesi, Çanakkale'nin önemli turizm merkezlerinden biri olarak biliniyor.
-- Bu tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Geymene Tepesi, çeşitli bitki türleriyle biliniyor.
 - Bu tepe, zengin fauna yapısıyla da biliniyor.
 - Geymene Tepesi, mevsimsel değişimlerle de biliniyor.

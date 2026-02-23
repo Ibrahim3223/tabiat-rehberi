@@ -28,7 +28,7 @@ wikidata_id: "Q31566180"
 
 # Kaklıcak Tepesi
 
-Kaklıcak Tepesi, Karabük'ün doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğal güzelliği ve zengin fauna ile karşılar. Kaklıcak Tepesi, özellikle doğa severler için bir cennet olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin yüksekliği ve genişliği, ziyaretçilerin Karadeniz Bölgesi'nin güzelliğini tüm yönleriyle keşfetmelerine olanak tanır.
+Kaklıcak Tepesi, Karabük'ün doğal güzelliklerinden biri olarak karşımıza çıkıyor. Kaklıcak Tepesi, özellikle doğa severler için bir cennet olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin yüksekliği ve genişliği, ziyaretçilerin Karadeniz Bölgesi'nin güzelliğini tüm yönleriyle keşfetmelerine olanak tanır.
 
 ## Tarihçe
 

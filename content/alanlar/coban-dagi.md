@@ -32,9 +32,9 @@ wikidata_id: "Q34819461"
 
 ## Tarihçe
 
-Şırnak bölgesinin tarihi, binlerce yıl öncesine dayanır. Bu bölgede, çeşitli uygarlıkların izleri görülür. Bölgenin coğrafi konumu, tarihsel ticaret yollarının kesişme noktasında yer alması, burada yaşayan toplulukların kültürel ve ekonomik açıdan zenginleşmesine katkıda bulunmuştur. 
+Şırnak bölgesinin tarihi, binlerce yıl öncesine dayanır. Bu bölgede, çeşitli uygarlıkların izleri görülür. Bölgenin coğrafi konumu, tarihsel ticaret yollarının kesişme noktasında yer alması, burada yaşayan toplulukların kültürel ve ekonomik açıdan zenginleşmesine katkıda bulunmuştur.
 
-Çoban Dağı gibi doğal alanlar, Türkiye'nin tarihsel geçmişinde önemli bir rol oynamıştır. Bu alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlamıştır. Yaylacılık ve hayvancılık, bu bölgede yaşayan toplulukların temel geçim kaynaklarından biri olmuştur. Dağlık araziler, insanlarınsummer mevsiminde hayvanlarını otlatabilecekleri geniş çayırlara ev sahipliği yapmıştır. 
+Çoban Dağı gibi doğal alanlar, Türkiye'nin tarihsel geçmişinde önemli bir rol oynamıştır. Bu alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlamıştır. Yaylacılık ve hayvancılık, bu bölgede yaşayan toplulukların temel geçim kaynaklarından biri olmuştur. Dağlık araziler, insanlarınsummer mevsiminde hayvanlarını otlatabilecekleri geniş çayırlara ev sahipliği yapmıştır.
 
 Tarih boyunca, people bu doğal alanları sadece geçim kaynakları olarak değil, aynı zamanda ticaret yolları olarak da kullanmışlardır. Çoban Dağı gibi dağlık alanlar, çeşitli medeniyetlerin ticaret yollarının güzergahında yer almıştır. Bu ticaret yolları, bölgenin ekonomi ve kültürel gelişimine büyük katkıda bulunmuştur.
 
@@ -50,7 +50,7 @@ Mevsimsel değişimlere bakıldığında, Çoban Dağı'nın iklim karakteri old
 
 ## Flora ve Fauna
 
-Çoban Dağı, Şırnak'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çoban Dağı, Şırnak'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına göre değişen bitki türleri bulunur. Alpin flora, dağların yüksek kesimlerinde yer alır.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386055"
 
 # Alizahonunağıl Tepesi
 
-Alizahonunağıl Tepesi, Konya'nın merkezinde yer alan bir doğal güzellik. Bu tepenin etrafında yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Alizahonunağıl Tepesi, ziyaretçilerine geniş ve yeşil bir alan sunuyor. Ziyaretçiler, bu tepeye çıkarak Konya'nın panoramik manzarasını izleyebilirler. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Alizahonunağıl Tepesi, Konya'nın merkezinde yer alan bir doğal güzellik. Alizahonunağıl Tepesi, ziyaretçilerine geniş ve yeşil bir alan sunuyor. Ziyaretçiler, bu tepeye çıkarak Konya'nın panoramik manzarasını izleyebilirler. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 

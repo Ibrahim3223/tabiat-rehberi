@@ -1,7 +1,7 @@
 ---
 title: "Dede Mahmud Türbesi"
 date: "2026-01-10T07:04:11.707Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390810"
 
 # Dede Mahmud Türbesi
 
-Dede Mahmud Türbesi, Pasinler'de bulunan ve önemli bir tarihi figür olan Dede Mahmud'a adanmış bir türbedir. Bu türbe, Erzurum'un Pasinler ilçesinde yer alır ve tarihi değerleriyle dikkat çeker. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir araziyi kaplar, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere hem tarihi bir deneyim hem de geniş bir yeşillik alanı sunar. Dede Mahmud Türbesi, özellikle tarih meraklıları ve doğa severler için önemli bir destinasyon olarak görülür.
+Dede Mahmud Türbesi, Pasinler'de bulunan ve önemli bir tarihi figür olan Dede Mahmud'a adanmış bir türbedir. Bu türbe, Erzurum'un Pasinler ilçesinde yer alır ve tarihi değerleriyle dikkat çeker. Bu geniş alan, ziyaretçilere hem tarihi bir deneyim hem de geniş bir yeşillik alanı sunar. Dede Mahmud Türbesi, özellikle tarih meraklıları ve doğa severler için önemli bir destinasyon olarak görülür.
 
 ## Tarihçe
 

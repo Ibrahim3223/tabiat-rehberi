@@ -46,7 +46,7 @@ Doğal güzellikler açısından zengin bir bölge olan Ala Dağ, jeolojik açı
 
 Mevsimler boyunca değişen hava koşulları, Ala Dağ'ın iklim karakterini şekillendiriyor. İç Anadolu Bölgesi'nin karasal ikliminin etkileri, bu bölgede de hissediliyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kuru bir hava hakim. Bu mevsimsel değişimler, bölgenin flora ve fauna açısından zenginleşmesine katkıda bulunuyor.
 
-Ala Dağ'ın bulunduğu région, su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahip. Ankara'nın su kaynaklarının bir kısmı, bu bölgedeki dağlık alanlardan besleniyor. Ayrıca, bölgenin flora ve fauna çeşitliliği, komşu alanlarla olan bağlantısı sayesinde zenginleşiyor. Bu doğal bağlantılar, Ala Dağ'ın çevresel ilişkilerini güçlü kılıyor ve bölgenin ekolojik dengesini koruyor.
+Ala Dağ'ın bulunduğu bölge, su kaynakları ve ekosistem bağlantıları açısından da önemli bir role sahip. Ankara'nın su kaynaklarının bir kısmı, bu bölgedeki dağlık alanlardan besleniyor. Ayrıca, bölgenin flora ve fauna çeşitliliği, komşu alanlarla olan bağlantısı sayesinde zenginleşiyor. Bu doğal bağlantılar, Ala Dağ'ın çevresel ilişkilerini güçlü kılıyor ve bölgenin ekolojik dengesini koruyor.
 
 ## Flora ve Fauna
 

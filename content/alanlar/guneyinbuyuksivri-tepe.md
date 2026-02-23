@@ -28,7 +28,7 @@ wikidata_id: "Q32139413"
 
 # Güneyinbüyüksivri Tepe
 
-Sivas ilinin İç Anadolu Bölgesi'nde yer alan Güneyinbüyüksivri Tepe, bölgenin coğrafi zenginliklerini gözler önüne seren önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Güneyinbüyüksivri Tepe, ziyaretçilerini Sivas'ın tarihi ve doğal güzelliklerine davet ediyor. Bu tepe, Sivas'ın coğrafi yapısını anlama ve bölgenin tarihi geçmişini keşfetmek için ideal bir destinasyon.
+Sivas ilinin İç Anadolu Bölgesi'nde yer alan Güneyinbüyüksivri Tepe, bölgenin coğrafi zenginliklerini gözler önüne seren önemli bir nokta. Güneyinbüyüksivri Tepe, ziyaretçilerini Sivas'ın tarihi ve doğal güzelliklerine davet ediyor. Bu tepe, Sivas'ın coğrafi yapısını anlama ve bölgenin tarihi geçmişini keşfetmek için ideal bir destinasyon.
 
 ## Tarihçe
 

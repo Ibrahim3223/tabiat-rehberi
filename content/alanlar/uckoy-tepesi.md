@@ -28,7 +28,7 @@ wikidata_id: "Q34810130"
 
 # Üçköy Tepesi
 
-Üçköy Tepesi, Kastamonu'nun en önemli doğal güzelliklerinden biri olarak kabul edilir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere doğayla iç içe olabilecekleri bir ortam sunar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Üçköy Tepesi, hem doğa severler hem de tarihe meraklı olanlar için bir hazine olarak kabul edilebilir.
+Üçköy Tepesi, Kastamonu'nun en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu geniş alan, ziyaretçilere doğayla iç içe olabilecekleri bir ortam sunar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Üçköy Tepesi, hem doğa severler hem de tarihe meraklı olanlar için bir hazine olarak kabul edilebilir.
 
 ## Tarihçe
 

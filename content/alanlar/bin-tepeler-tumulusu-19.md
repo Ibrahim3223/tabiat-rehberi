@@ -29,7 +29,7 @@ wikidata_id: "Q134728358"
 
 # Bin Tepeler Tümülüsü 19
 
-Ege Bölgesi'nin güzide ilçelerinden Salihli'de yer alan Bin Tepeler Tümülüsü 19, tarihi ve coğrafi zenginliği ile dikkat çekiyor. Bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Bin Tepeler Tümülüsü 19, ziyaretçilerini Ege Bölgesi'nin tarihine ve coğrafyasına götürmeyi vaat ediyor. Bu eşsiz mekan, hem tarih meraklıları hem de doğa severler için gerçek bir hazine.
+Ege Bölgesi'nin güzide ilçelerinden Salihli'de yer alan Bin Tepeler Tümülüsü 19, tarihi ve coğrafi zenginliği ile dikkat çekiyor. Bin Tepeler Tümülüsü 19, ziyaretçilerini Ege Bölgesi'nin tarihine ve coğrafyasına götürmeyi vaat ediyor. Bu eşsiz mekan, hem tarih meraklıları hem de doğa severler için gerçek bir hazine.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 19'un tarihi geçmişi, yüzyıllar boyunca süregelen 
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 19, Ege Bölgesi'nin coğrafi güzelliğini yansıtan bir mekan. Bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Mekan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerini bu bölgeye özgü bir deneyime davet ediyor. Bin Tepeler Tümülüsü 19'un coğrafyası, ziyaretçilerin Ege Bölgesi'nin doğasını ve güzelliğini keşfetmelerine olanak sağlıyor. Mekan, coğrafi açıdan zengin bir bölge içinde yer alıyor ve ziyaretçilere, Ege Bölgesi'nin farklı yönlerini keşfetme fırsatı sunuyor.
+Bin Tepeler Tümülüsü 19, Ege Bölgesi'nin coğrafi güzelliğini yansıtan bir mekan. Mekan, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor ve ziyaretçilerini bu bölgeye özgü bir deneyime davet ediyor. Bin Tepeler Tümülüsü 19'un coğrafyası, ziyaretçilerin Ege Bölgesi'nin doğasını ve güzelliğini keşfetmelerine olanak sağlıyor. Mekan, coğrafi açıdan zengin bir bölge içinde yer alıyor ve ziyaretçilere, Ege Bölgesi'nin farklı yönlerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

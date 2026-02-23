@@ -28,7 +28,7 @@ wikidata_id: "Q31582073"
 
 # Derinkuzunbel Tepesi
 
-Derinkuzunbel Tepesi, Karadeniz Bölgesi'nin Çorum ilinde yer alan ve bölgeye hakim olan bir tepe. Çorum'un en yüksek noktalarından biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğa severlerin ve trekking करन isteyenlerin keyif alacağı bir yer. Derinkuzunbel Tepesi, ziyaretçilerine eşsiz manzaralar sunar ve Çorum'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir nokta.
+Derinkuzunbel Tepesi, Karadeniz Bölgesi'nin Çorum ilinde yer alan ve bölgeye hakim olan bir tepe. Çorum'un en yüksek noktalarından biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Derinkuzunbel Tepesi, ziyaretçilerine eşsiz manzaralar sunar ve Çorum'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir nokta.
 
 ## Tarihçe
 

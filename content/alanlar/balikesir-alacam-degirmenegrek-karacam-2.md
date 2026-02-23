@@ -22,7 +22,7 @@ wikidata_id: "Q108227483"
 
 # Balikesir-Alacam-Degirmenegrek Karacam 2
 
-Balikesir-Alacam-Degirmenegrek Karacam 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alan kaplar, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşittir. Milli park, ziyaretçilerine zengin bir flora ve fauna sunar. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli parkın konumu, ziyaretçilerin doğayı yakından keşfetmelerine olanak tanır.
+Balikesir-Alacam-Degirmenegrek Karacam 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik alanıdır. Milli park, ziyaretçilerine zengin bir flora ve fauna sunar. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Milli parkın konumu, ziyaretçilerin doğayı yakından keşfetmelerine olanak tanır.
 
 ## Tarihçe
 

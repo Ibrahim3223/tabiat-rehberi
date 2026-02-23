@@ -1,7 +1,7 @@
 ---
 title: "Köprülü Şelalesi"
 date: "2026-01-10T08:08:18.149Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "selalesi"
 il: "Türkiye"

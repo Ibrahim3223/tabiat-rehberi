@@ -28,7 +28,7 @@ wikidata_id: "Q31555566"
 
 # Taavi Tepesi
 
-Taavi Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan ve Batman şehrine yakınlığı ile dikkat çeken bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte yaklaşık 300 hektarlık bir alanı kapsıyor. Bu tepe, doğa severler ve gezi tutkunları için ideal bir destinasyon olarak görülüyor. Taavi Tepesi, ziyaretçilerine panoramik manzaralar sunuyor ve bölgenin zengin florasını keşfetme fırsatı sunuyor.
+Taavi Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan ve Batman şehrine yakınlığı ile dikkat çeken bir doğa harikasıdır. Bu tepe, doğa severler ve gezi tutkunları için ideal bir destinasyon olarak görülüyor. Taavi Tepesi, ziyaretçilerine panoramik manzaralar sunuyor ve bölgenin zengin florasını keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

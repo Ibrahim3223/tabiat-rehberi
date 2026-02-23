@@ -1,7 +1,7 @@
 ---
 title: "Çukurcuma Hamamı"
 date: "2026-01-09T22:46:53.284Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738555"
 
 # Çukurcuma Hamamı
 
-Çukurcuma Hamamı, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi ve doğal güzelliklerin birleştiği bir mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Çukurcuma Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, huzurlu bir atmosfere davet ediyor. Burada, İstanbul'un tarihi dokusunu ve doğal güzelliklerini keşfetme mümkün. Çukurcuma Hamamı, sadece bir tarihi mekan değil, aynı zamanda doğa severler için de bir cennet.
+Çukurcuma Hamamı, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi ve doğal güzelliklerin birleştiği bir mekan. Çukurcuma Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, huzurlu bir atmosfere davet ediyor. Burada, İstanbul'un tarihi dokusunu ve doğal güzelliklerini keşfetme mümkün. Çukurcuma Hamamı, sadece bir tarihi mekan değil, aynı zamanda doğa severler için de bir cennet.
 
 ## Tarihçe
 

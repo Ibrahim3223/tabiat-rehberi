@@ -28,7 +28,7 @@ wikidata_id: "Q32131342"
 
 # Aydümen Tepesi
 
-Aydümen Tepesi, Bolu'nun eşsiz güzelliği ile ön plana çıkan bir doğa harikası. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Tepenin eteklerinde çeşitli bitki türleri değil, çeşitli bitki türleri ve ağaçlar yer alıyor. Aydümen Tepesi, özellikle bahar ve yaz aylarında ziyaretçilerini karşılayan bir doğa cenneti. Burada, doğa yürüyüşleri yapmak, manzarayı seyretme ve doğayla iç içe olma mümkün. Aydümen Tepesi, hem doğa severlerin hem de fotoğrafçılık tutkunlarının ilgisini çekiyor.
+Aydümen Tepesi, Bolu'nun eşsiz güzelliği ile ön plana çıkan bir doğa harikası. Tepenin eteklerinde çeşitli bitki türleri değil, çeşitli bitki türleri ve ağaçlar yer alıyor. Aydümen Tepesi, özellikle bahar ve yaz aylarında ziyaretçilerini karşılayan bir doğa cenneti. Burada, doğa yürüyüşleri yapmak, manzarayı seyretme ve doğayla iç içe olma mümkün. Aydümen Tepesi, hem doğa severlerin hem de fotoğrafçılık tutkunlarının ilgisini çekiyor.
 
 ## Tarihçe
 

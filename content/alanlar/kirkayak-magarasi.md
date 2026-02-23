@@ -50,7 +50,7 @@ Mağaranın bulunduğu region, Konya'nın doğal güzelliklerini barındıran bi
 
 ## Flora ve Fauna
 
-Kırkayak Mağarası'nın eşsiz jeopark alanı, step bitki örtüsünün hakim olduğu bir bölge içinde yer alır. Bu bölgede, kuraklığa adapte olmuş bitkiler ve bozkır türleri egemendir. İlkbaharın gelmesiyle birlikte, bu alan renkli çiçeklerle donanır ve doğa canlanır. 
+Kırkayak Mağarası'nın eşsiz jeopark alanı, step bitki örtüsünün hakim olduğu bir bölge içinde yer alır. Bu bölgede, kuraklığa adapte olmuş bitkiler ve bozkır türleri egemendir. İlkbaharın gelmesiyle birlikte, bu alan renkli çiçeklerle donanır ve doğa canlanır.
 
 Yaban hayatı da bu bölgede oldukça zengin bir çeşitlilik gösterir. Orman memelileri ve çeşitli kuş türleri, bu ekosistemin önemli bileşenleridir. Göç mevsiminde, farklı kuş türlerini gözleme mümkündür. Sürüngenler de bu bölgenin bir parçası olup, kuraklığa adapte olmuş türlerdir.
 

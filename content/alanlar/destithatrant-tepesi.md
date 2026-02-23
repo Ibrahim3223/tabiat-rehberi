@@ -28,7 +28,7 @@ wikidata_id: "Q31548000"
 
 # Deştithatrant Tepesi
 
-Deştithatrant Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli doğal oluşumlardan biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere benzersiz bir deneyim sunuyor. Deştithatrant Tepesi, Siirt'in tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleri ile de ön plana çıkıyor.
+Deştithatrant Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli doğal oluşumlardan biri olarak bilinir. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere benzersiz bir deneyim sunuyor. Deştithatrant Tepesi, Siirt'in tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleri ile de ön plana çıkıyor.
 
 ## Tarihçe
 

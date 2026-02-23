@@ -1,7 +1,7 @@
 ---
 title: "Trebenna Anıt Mezarı 2"
 date: "2026-01-10T00:01:35.639Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,15 +29,15 @@ wikidata_id: "Q134728109"
 
 # Trebenna Anıt Mezarı 2
 
-Trebenna Anıt Mezarı 2, Konyaaltı'nda yer alan ve Akdeniz'in güzelliğini keşfetmenizi sağlayan bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir atmosfere davet ediyor. Plajın tarihi geçmişi, ziyaretçilere ayrı bir deneyim sunarken, doğal güzellikleri de burayı özel kılıyor. Trebenna Anıt Mezarı 2, denizin ve güneşin tadını çıkarabileceğiniz, aynı zamanda tarihi bir atmosferi deneyimleyebileceğiniz bir nokta.
+Trebenna Anıt Mezarı 2, Konyaaltı'nda yer alan ve Akdeniz'in güzelliğini keşfetmenizi sağlayan bir plajdır. Plajın tarihi geçmişi, ziyaretçilere ayrı bir deneyim sunarken, doğal güzellikleri de burayı özel kılıyor. Trebenna Anıt Mezarı 2, denizin ve güneşin tadını çıkarabileceğiniz, aynı zamanda tarihi bir atmosferi deneyimleyebileceğiniz bir nokta.
 
 ## Tarihçe
 
-Trebenna Anıt Mezarı 2'nin tarihi geçmişi, ziyaretçilere derin bir geçmiş sunuyor. Bu tarihi plaj, yüzyıllar boyunca çeşitli uygarlıkların etkisi altında kalmış ve bu etkileri stillerinde taşımıştır. Tarihi anlatımlar, bu bölgenin geçmişinin zenginliğini ortaya koyarken, ziyaretçiler bu geçmişle face to face oluyorlar. Trebenna Anıt Mezarı 2, sadece bir plaj değil, aynı zamanda bir açık hava müzesi gibi ziyaretçilerini ağırlıyor. Burada yapılan kazılar ve araştırmalar, bu bölgenin histórik önemini daha da vurguluyor. Bu nedenle, Trebenna Anıt Mezarı 2, hem tarih meraklıları hem de doğa severler için bir çekim merkezi haline geliyor.
+Trebenna Anıt Mezarı 2'nin tarihi geçmişi, ziyaretçilere derin bir geçmiş sunuyor. Bu tarihi plaj, yüzyıllar boyunca çeşitli uygarlıkların etkisi altında kalmış ve bu etkileri stillerinde taşımıştır. Tarihi anlatımlar, bu bölgenin geçmişinin zenginliğini ortaya koyarken, ziyaretçiler bu geçmişle face to face oluyorlar. Trebenna Anıt Mezarı 2, sadece bir plaj değil, aynı zamanda bir açık hava müzesi gibi ziyaretçilerini ağırlıyor. Burada yapılan kazılar ve araştırmalar, bu bölgenin tarihi önemini daha da vurguluyor. Bu nedenle, Trebenna Anıt Mezarı 2, hem tarih meraklıları hem de doğa severler için bir çekim merkezi haline geliyor.
 
 ## Coğrafya
 
-Trebenna Anıt Mezarı 2, Konyaaltı'nda yer alan bir plaj ve aynı zamanda bir anıt mezar olarak da biliniyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Akdeniz'in güzelliğini tüm ihtişamıyla sunuyor. Plajın coğrafi konumu, ziyaretçilere denizin ve güneşin tadını çıkarabileceği bir ortam sunarken, aynı zamandahistoric bir atmosferi de deneyimlemelerine olanak tanıyor. Trebenna Anıt Mezarı 2'nin çevresi, yeşilin ve mavinin tonlarında bir güzelliğe sahip ve ziyaretçileri doğayla baş başa bırakıyor. Plajın yakınındaki tepeler ve vadiler, yürüyüş ve keşif için ideal bir ortam sunuyor. Bu nedenle, Trebenna Anıt Mezarı 2, sadece bir plaj değil, aynı zamanda bir doğa harikası olarak da ziyaret ediliyor.
+Trebenna Anıt Mezarı 2, Konyaaltı'nda yer alan bir plaj ve aynı zamanda bir anıt mezar olarak da biliniyor. Plajın coğrafi konumu, ziyaretçilere denizin ve güneşin tadını çıkarabileceği bir ortam sunarken, aynı zamandahistoric bir atmosferi de deneyimlemelerine olanak tanıyor. Trebenna Anıt Mezarı 2'nin çevresi, yeşilin ve mavinin tonlarında bir güzelliğe sahip ve ziyaretçileri doğayla baş başa bırakıyor. Plajın yakınındaki tepeler ve vadiler, yürüyüş ve keşif için ideal bir ortam sunuyor. Bu nedenle, Trebenna Anıt Mezarı 2, sadece bir plaj değil, aynı zamanda bir doğa harikası olarak da ziyaret ediliyor.
 
 ## Flora ve Fauna
 

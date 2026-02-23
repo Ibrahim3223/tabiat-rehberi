@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğraf çekimi
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kad%C4%B1nc%C4%B1k_Valley_4.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_4.jpg","alt":"Mersin-Mut Toros Sediri","caption":"Mersin-Mut Toros Sediri","credit":"Kadıncık Valley 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut%20Toros%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228001","tip":"genel"}]
-description: "Mersin ili Mut ilçesinde yer alan milli park, 140 hektarlık yeşil alanı ve históriki geçmişiyle dikkat çekiyor"
+description: "Mersin ili Mut ilçesinde yer alan milli park, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor"
 keywords: ["Mersin","Mut","Toros Sediri","milli park","doğa","yaban hayatı","ekosistem","çevre","korunma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228001"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228001"
 
 # Mersin-Mut Toros Sediri
 
-Mersin-Mut Toros Sediri milli parkı, yaklaşık 140 hektarlık yeşil alanı ile dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşillik sunuyor. Milli parkın históriki geçmişi, yüzyıllar boyunca insanların yaşadığı ve doğayı koruma altına aldığı bir bölge olarak biliniyor. Toros Sediri, Mersin ilinin Mut ilçesinde yer alıyor ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
+Mersin-Mut Toros Sediri milli parkı, yaklaşık 140 hektarlık yeşil alanı ile dikkat çekiyor. Milli parkın tarihi geçmişi, yüzyıllar boyunca insanların yaşadığı ve doğayı koruma altına aldığı bir bölge olarak biliniyor. Toros Sediri, Mersin ilinin Mut ilçesinde yer alıyor ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor.
 
 ## Tarihçe
 

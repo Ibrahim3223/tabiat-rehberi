@@ -28,7 +28,7 @@ wikidata_id: "Q31516125"
 
 # Kazankaya Tepesi
 
-Erzincan'ın kalbinde yer alan Kazankaya Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu büyüleyici tepe, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir destinasyondur. Kazankaya Tepesi, Erzincan'ın tarihi ve kültürel zenginliklerinin bir parçasıdır. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın nasıl olduğunu göstermektedir. Bu tepe, aynı zamanda bölgenin flora ve faunasının çeşitliliğini de gözler önüne serer.
+ Bu büyüleyici tepe, doğa severlerin ve macera arayanların ziyaret etmesi gereken bir destinasyondur. Kazankaya Tepesi, Erzincan'ın tarihi ve kültürel zenginliklerinin bir parçasıdır. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın nasıl olduğunu göstermektedir. Bu tepe, aynı zamanda bölgenin flora ve faunasının çeşitliliğini de gözler önüne serer.
 
 ## Tarihçe
 

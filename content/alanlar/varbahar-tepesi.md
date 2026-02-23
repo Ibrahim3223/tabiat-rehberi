@@ -28,7 +28,7 @@ wikidata_id: "Q31539791"
 
 # Varbahar Tepesi
 
-Varbahar Tepesi, Van şehrinin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Varbahar Tepesi, ziyaretçilerini bekliyor. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir nokta olarak değerlendirilebilir.
+Varbahar Tepesi, Van şehrinin güzide noktalarından biri olarak karşımıza çıkıyor. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Varbahar Tepesi, ziyaretçilerini bekliyor. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir nokta olarak değerlendirilebilir.
 
 ## Tarihçe
 

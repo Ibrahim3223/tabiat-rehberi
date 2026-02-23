@@ -22,7 +22,7 @@ wikidata_id: "Q108227734"
 
 # Artvin Fistikçami
 
-Artvin Fistikçami milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunuyor. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir milli park olan Artvin Fistikçami, ziyaretçilerini bekliyor. Parkın çevresi, yemyeşil ormanlarla kaplı ve temiz hava almak isteyenler için ideal bir destinasyon.
+Artvin Fistikçami milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunuyor. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir milli park olan Artvin Fistikçami, ziyaretçilerini bekliyor. Parkın çevresi, yemyeşil ormanlarla kaplı ve temiz hava almak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

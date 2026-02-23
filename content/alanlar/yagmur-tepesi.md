@@ -28,7 +28,7 @@ wikidata_id: "Q31390627"
 
 # Yağmur Tepesi
 
-Kırşehir'in göbeğinde yer alan Yağmur Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliğini gözler önüne seriyor. Yağmur Tepesi, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekici bir yer. Yağmur Tepesi'ne çıktığınızda, şehrin panoramik manzarasını izleyebilirsiniz. Tepenin etrafında, çeşitli ağaçlar ve bitkiler bulunmakta.
+Kırşehir'in göbeğinde yer alan Yağmur Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Yağmur Tepesi, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekici bir yer. Yağmur Tepesi'ne çıktığınızda, şehrin panoramik manzarasını izleyebilirsiniz. Tepenin etrafında, çeşitli ağaçlar ve bitkiler bulunmakta.
 
 ## Tarihçe
 

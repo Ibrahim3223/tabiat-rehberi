@@ -29,7 +29,7 @@ wikidata_id: "Q31571111"
 
 # Bacaklıyayla Tepesi
 
-Bacaklıyayla Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte ziyaretçilerine farklı deneyim olanakları sunar. Bu tepe, ziyaretçilerini doğal güzelliği ve zengin flora ile karşılar. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin etrafında, geniş otlaklar ve ormanlar bulunur. Bu alanda, özellikle bahar aylarında, rengarenk çiçekler açar ve manzara çok güzel olur.
+Bacaklıyayla Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biridir. Bu tepe, ziyaretçilerini doğal güzelliği ve zengin flora ile karşılar. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin etrafında, geniş otlaklar ve ormanlar bulunur. Bu alanda, özellikle bahar aylarında, rengarenk çiçekler açar ve manzara çok güzel olur.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Maisur Şelalesi"
 date: "2026-01-10T08:03:10.874Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "selalesi"
 il: "Artvin"
@@ -23,7 +23,7 @@ wikidata_id: "Q118946732"
 
 # Maisur Şelalesi
 
-Maisur Şelalesi, Karadeniz Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çeker. Artvin ilinin merkezinde yer alan bu şelale, yaklaşık 140 hektarlık bir alanda yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu nedenle de oldukça geniş bir alanı kaplar. Maisur Şelalesi, bölgenin bir turizm merkezidir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Şelalenin güzelliği ve çevrenin doğal güzellikleri, ziyaretçileri etkiler ve onları doğayla baş başa bırakır. Maisur Şelalesi, aynı zamanda bölgenin flora ve faunası açısından da zengin bir alandır.
+Maisur Şelalesi, Karadeniz Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çeker. Artvin ilinin merkezinde yer alan bu şelale, yaklaşık 140 hektarlık bir alanda yer alır. Maisur Şelalesi, bölgenin bir turizm merkezidir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir. Şelalenin güzelliği ve çevrenin doğal güzellikleri, ziyaretçileri etkiler ve onları doğayla baş başa bırakır. Maisur Şelalesi, aynı zamanda bölgenin flora ve faunası açısından da zengin bir alandır.
 
 ## Tarihçe
 

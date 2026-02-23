@@ -34,7 +34,7 @@ Van Gölü'nün sakin sularında yer alan Akdamar Adası, Gevaş ilçesinin kıy
 
 ## Tarihçe
 
-Van bölgesinin zengin tarihi, binlerce yıl öncesine uzanır. Bu bölge, tarihin çeşitli dönemlerinde Urartular, Persler, Romalılar, Bizanslılar ve Selçuklular gibi farklı uygarlıkların etkisi altında kalmıştır. Akdamar Adası da bu histórik coğrafyanın bir parçasıdır. Türkiye'de doğal alanlar, insan yaşamının önemli bir parçası olmuş, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle insanların yaşantısını şekillendirmiştir. Van Gölü ve çevresindeki dağlar, tarihi İpek Yolu'nun önemli bir bölümünü oluşturur. Bu bölge, ticaret ve kültür alışverişiçin bir köprü görevi görmüştür. İnsanların bu doğal güzelliklerle olan ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve spiritüel bir boyut da taşır. Akdamar Adası, bu tarihi ve kültürel zenginliğin bir parçası olarak, ziyaretçilerini Van Gölü'nün sularına ve surroundings dağların ihtişamlı manzaralarına davet eder. Bu bölge, Türkiye'nin doğal ve tarihi mirasının önemli bir bölümünü temsil eder.
+Van bölgesinin zengin tarihi, binlerce yıl öncesine uzanır. Bu bölge, tarihin çeşitli dönemlerinde Urartular, Persler, Romalılar, Bizanslılar ve Selçuklular gibi farklı uygarlıkların etkisi altında kalmıştır. Akdamar Adası da bu tarihi coğrafyanın bir parçasıdır. Türkiye'de doğal alanlar, insan yaşamının önemli bir parçası olmuş, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle insanların yaşantısını şekillendirmiştir. Van Gölü ve çevresindeki dağlar, tarihi İpek Yolu'nun önemli bir bölümünü oluşturur. Bu bölge, ticaret ve kültür alışverişiçin bir köprü görevi görmüştür. İnsanların bu doğal güzelliklerle olan ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve spiritüel bir boyut da taşır. Akdamar Adası, bu tarihi ve kültürel zenginliğin bir parçası olarak, ziyaretçilerini Van Gölü'nün sularına ve surroundings dağların ihtişamlı manzaralarına davet eder. Bu bölge, Türkiye'nin doğal ve tarihi mirasının önemli bir bölümünü temsil eder.
 
 ## Coğrafya
 
@@ -48,9 +48,9 @@ Ekosistem açısından bakıldığında, Akdamar Adası, Van Gölü'nün bir par
 
 ## Flora ve Fauna
 
-Akdamar Adası, Van Gölü'nün sularında gizlenen bir doğa harikasıdır. Bu 1500 metre uzunluğundaki ada, step bitki örtüsüne ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, ada çiçeklerle kaplanır ve renkli bir hal alır. Kışın soğuğundan sonra, bozkırın kuraklığına adapte olmuş bitkiler yeniden canlanır. 
+Akdamar Adası, Van Gölü'nün sularında gizlenen bir doğa harikasıdır. Bu 1500 metre uzunluğundaki ada, step bitki örtüsüne ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, ada çiçeklerle kaplanır ve renkli bir hal alır. Kışın soğuğundan sonra, bozkırın kuraklığına adapte olmuş bitkiler yeniden canlanır.
 
-Ada, deniz kuşlarının önemli bir uğrak noktasıdır. Kıyı bitkileri, bu kuşların yuvalanması için uygun bir ortam sağlar. Memeliler ve sürüngenler de adanın ekosisteminin bir parçasıdır. Ada, izole popülasyonlara ev sahipliği yaptığı için benzersiz bir ekosistem sunar. 
+Ada, deniz kuşlarının önemli bir uğrak noktasıdır. Kıyı bitkileri, bu kuşların yuvalanması için uygun bir ortam sağlar. Memeliler ve sürüngenler de adanın ekosisteminin bir parçasıdır. Ada, izole popülasyonlara ev sahipliği yaptığı için benzersiz bir ekosistem sunar.
 
 Ekolojik değerini koruma altına almak önemlidir. Bu ada, bölgenin biyolojik çeşitliliğini korumak için kritik bir rol oynar. Mevsimsel göçler sırasında, ada önemli bir durak noktasıdır. Bu nedenle, Akdamar Adası'nın korunması, bölgenin doğal dengesini korumak için son derece önemlidir.
 

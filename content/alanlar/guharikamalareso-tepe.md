@@ -36,7 +36,7 @@ Mardin'in tarihi zenginliği, binlerce yıllık bir geçmişe uzanır. Bu bölge
 
 Doğal güzellikleri ve stratejik konumuyla, Mardin bölgesi ticaret yolları ve yaylacılık için önemli bir merkez olmuştur. İnsanlar, yüzyıllar boyunca bu alanları hayvancılık ve tarım için kullanmış, aynı zamanda ticari faaliyetler için de buradan geçiş yapmışlardır. Türkiye'nin birçok bölgesinde olduğu gibi, Mardin'de doğal alanlar, insan yaşamının bir parçası olarak görülmüştür.
 
-Guharikamalareşo Tepe, bu geniş tarihi bağlam içinde yer alır. Bu tepe, bölgenin coğrafi ve kültürel zenginliğinin bir göstergesi olarak kabul edilebilir. İnsanların bu doğal alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda sosyal ve kültürel açıdan da önemlidir. Bu tür alanlar, toplumların kimliklerinin bir parçası olarak görülür ve gelecek nesiller için korunmaları nécessaire edilir.
+Guharikamalareşo Tepe, bu geniş tarihi bağlam içinde yer alır. Bu tepe, bölgenin coğrafi ve kültürel zenginliğinin bir göstergesi olarak kabul edilebilir. İnsanların bu doğal alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda sosyal ve kültürel açıdan da önemlidir. Bu tür alanlar, toplumların kimliklerinin bir parçası olarak görülür ve gelecek nesiller için korunmaları gerekli edilir.
 
 ## Coğrafya
 

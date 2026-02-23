@@ -1,7 +1,7 @@
 ---
 title: "Selahattin Hamamı"
 date: "2026-01-10T04:28:33.403Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738775"
 
 # Selahattin Hamamı
 
-Selahattin Hamamı, Melikgazi ilçesinde yer alan ve tarihi değerleri ile ön plana çıkan bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Burada yer alan tarihi hamam, ziyaretçilerin ilgisini çekiyor. Selahattin Hamamı, doğal güzellikleri ve tarihi yapıları ile ziyaretçilere benzersiz bir deneyim sunuyor. Bu alan, yüksek bir konumda yer alıyor ve Kayseri'nin panoramik manzarasını seyretme imkanı tanıyor.
+Selahattin Hamamı, Melikgazi ilçesinde yer alan ve tarihi değerleri ile ön plana çıkan bir mekan. Burada yer alan tarihi hamam, ziyaretçilerin ilgisini çekiyor. Selahattin Hamamı, doğal güzellikleri ve tarihi yapıları ile ziyaretçilere benzersiz bir deneyim sunuyor. Bu alan, yüksek bir konumda yer alıyor ve Kayseri'nin panoramik manzarasını seyretme imkanı tanıyor.
 
 ## Tarihçe
 

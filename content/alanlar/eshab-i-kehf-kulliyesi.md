@@ -1,7 +1,7 @@
 ---
 title: "Eshab-ı Kehf Külliyesi"
 date: "2026-01-10T07:32:08.370Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kahramanmaraş"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391283"
 
 # Eshab-ı Kehf Külliyesi
 
-Eshab-ı Kehf Külliyesi, Kahramanmaraş'ın Afşin ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu külliye, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur, ki bu alan yaklaşık 200 futbol sahası büyüklüğündedir. Tarihi geçmişi ve doğal güzellikleriyle birlikte, Eshab-ı Kehf Külliyesi ziyaretçilerini cezbeden bir destinasyon haline gelmiştir. Burada, hem tarihi yapıları inceleyebilir hem de doğanın güzelliğini keşfedebilirsiniz.
+Eshab-ı Kehf Külliyesi, Kahramanmaraş'ın Afşin ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Tarihi geçmişi ve doğal güzellikleriyle birlikte, Eshab-ı Kehf Külliyesi ziyaretçilerini cezbeden bir destinasyon haline gelmiştir. Burada, hem tarihi yapıları inceleyebilir hem de doğanın güzelliğini keşfedebilirsiniz.
 
 ## Tarihçe
 

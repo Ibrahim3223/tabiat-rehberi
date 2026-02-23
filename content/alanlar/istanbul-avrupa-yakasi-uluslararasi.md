@@ -22,7 +22,7 @@ wikidata_id: "Q108228656"
 
 # İSTANBUL AVRUPA YAKASI ULUSLARARASI
 
-İç Anadolu Bölgesi'nde yer alan İstanbul Avrupa Yakası Uluslarararası milli parkı, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor. Bu geniş yeşil alan, çeşitli bitki türleri ve zengin faunasıyla dikkat çekiyor. Milli park, doğal güzelliği ve canlı çeşitliliğiyle hem yerel hem de yabancı ziyaretçilerin ilgisini çekiyor. İnsanlık tarihi boyunca önemli bir yerleşim ve geçiş bölgesi olan bu bölge, aynı zamanda tarihi ve kültürel zenginlikleriyle de dikkat çekiyor.
+ Bu geniş yeşil alan, çeşitli bitki türleri ve zengin faunasıyla dikkat çekiyor. Milli park, doğal güzelliği ve canlı çeşitliliğiyle hem yerel hem de yabancı ziyaretçilerin ilgisini çekiyor. İnsanlık tarihi boyunca önemli bir yerleşim ve geçiş bölgesi olan bu bölge, aynı zamanda tarihi ve kültürel zenginlikleriyle de dikkat çekiyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Milli parkı ziyaret etmek, doğa severler ve macera arayanlar için ideal bir s
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli park, İç Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini barındırıyor.
 - Milli parkın flora ve faunası, oldukça zengin ve çeşitli bir yapıya sahiptir.
 - Milli park, ziyaretçilere birçok farklı aktivite ve deneyim sunuyor.

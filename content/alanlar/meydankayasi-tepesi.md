@@ -28,7 +28,7 @@ wikidata_id: "Q31389908"
 
 # Meydankayası Tepesi
 
-Meydankayası Tepesi, Samsun'un doğal güzelliklerini barındıran bir bölgedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini Karadeniz Bölgesi'nin zengin doğası ile baş başa bırakmaktadır. Bu tepe, hem doğa severlerin hem de şehir hayatından kaçmak isteyenlerin sıklıkla ziyaret ettiği bir noktadır. Meydankayası Tepesi, Samsun'un merkezine yakın bir konumda yer almakta ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet vermektedir.
+Meydankayası Tepesi, Samsun'un doğal güzelliklerini barındıran bir bölgedir. Bu tepe, hem doğa severlerin hem de şehir hayatından kaçmak isteyenlerin sıklıkla ziyaret ettiği bir noktadır. Meydankayası Tepesi, Samsun'un merkezine yakın bir konumda yer almakta ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak hizmet vermektedir.
 
 ## Tarihçe
 

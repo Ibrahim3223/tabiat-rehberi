@@ -22,7 +22,7 @@ wikidata_id: "Q108226808"
 
 # Günay Şelalesi Sit Alanı
 
-Günay Şelalesi Sit Alanı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşit. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bu sit alanı, ziyaretçilerini hem doğayla iç içe bir deneyime hem de tarihin sayfalarına götürüyor. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
+Günay Şelalesi Sit Alanı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bu sit alanı, ziyaretçilerini hem doğayla iç içe bir deneyime hem de tarihin sayfalarına götürüyor. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
 
 ## Tarihçe
 

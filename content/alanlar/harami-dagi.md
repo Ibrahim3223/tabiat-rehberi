@@ -52,7 +52,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Harami Dağı'nın çevre
 
 Harami Dağı, Kastamonu'nun nemli ikliminin hüküm sürdüğü bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçer.
 
-Dağın bitki örtüsünü oluşturan gür ormanlar, çeşitli ağaç türlerinin ev sahipliğini yapar. Mevsimsel değişimlerle birlikte, bitki örtüsünün görünümü değişir. Yaban hayatı açısından zengin olan bu bölge, memelilerin, kuşların ve sürüngenlerin yaşam alanlarını içerir. Dağ keçileri,Vaşaklar gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri ormanlık alanlarda yuvalanır. 
+Dağın bitki örtüsünü oluşturan gür ormanlar, çeşitli ağaç türlerinin ev sahipliğini yapar. Mevsimsel değişimlerle birlikte, bitki örtüsünün görünümü değişir. Yaban hayatı açısından zengin olan bu bölge, memelilerin, kuşların ve sürüngenlerin yaşam alanlarını içerir. Dağ keçileri,Vaşaklar gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri ormanlık alanlarda yuvalanır.
 
 Bu dağ ekosisteminin korunması, yüksek biyoçeşitliliğin sürdürülmesi açısından önemlidir. Doğal yaşamın dengesinin korunmasına katkıda bulunan Harami Dağı, aynı zamanda bölgenin ekolojik değerini oluşturan önemli bir parçasıdır.
 

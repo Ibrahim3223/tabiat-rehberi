@@ -1,7 +1,7 @@
 ---
 title: "Alibey Hamamı"
 date: "2026-01-09T23:02:59.438Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738841"
 
 # Alibey Hamamı
 
-Alibey Hamamı, İzmir'in Karşıyaka ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en önemli turizm merkezlerinden biridir. Bu plaj, deniz severlerin ve tarihe ilgi duyanların buluşma noktası olarak bilinir. Alibey Hamamı, hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerini cezbeder. İzmir'in turizm potansiyelini yansıtan bu plaj, özellikle yaz aylarında çok sayıda ziyaretçi çekmektedir.
+Alibey Hamamı, İzmir'in Karşıyaka ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir plajdır. Bu plaj, deniz severlerin ve tarihe ilgi duyanların buluşma noktası olarak bilinir. Alibey Hamamı, hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerini cezbeder. İzmir'in turizm potansiyelini yansıtan bu plaj, özellikle yaz aylarında çok sayıda ziyaretçi çekmektedir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hızır Baba Türbesi"
 date: "2026-01-10T06:07:31.920Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"

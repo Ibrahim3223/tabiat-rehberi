@@ -22,7 +22,7 @@ wikidata_id: "Q108227429"
 
 # Kahramanmaras-Antakya-Yayladagi Kızılçam
 
-Kahramanmaras-Antakya-Yayladagi Kızılçam milli parkı, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık bir alanda kurulmuş doğal bir cennet. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşillik sunuyor. Milli parkın içinde yer alan çeşitli bitki türleri, ziyaretçilerin ilgi odağı oluyor. Ayrıca, buradaki flora ve fauna, yaban hayatının zenginliğini gösteriyor. Bu milli park, özellikle doğa severler için bir çekim merkezi.
+Kahramanmaras-Antakya-Yayladagi Kızılçam milli parkı, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık bir alanda kurulmuş doğal bir cennet. Milli parkın içinde yer alan çeşitli bitki türleri, ziyaretçilerin ilgi odağı oluyor. Ayrıca, buradaki flora ve fauna, yaban hayatının zenginliğini gösteriyor. Bu milli park, özellikle doğa severler için bir çekim merkezi.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Kahramanmaras-Antakya-Yayladagi Kızılçam milli parkını ziyaret etmek, doğa
 
 ## İlginç Bilgiler
 
-- Milli parkın kurulduğu alan, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli parkın içinde yer alan flora, mevsimsel değişimlere göre farklılıklar gösteriyor.
 - Milli parkın faunası, çeşitli hayvan türleri ve kuşları içeriyor.
 - Milli parkın ekolojisi, flora ve faunasının birlikte yaşamasına phùsun bir ortam sağlıyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q32196271"
 
 # Yüzbaşıziyareti Tepesi
 
-Yüzbaşıziyareti Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarıyla karşılar. Bu tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısını ve doğal zenginliklerini gözlemlemek için mükemmel bir gözlem noktasıdır. Ziyaretçiler, bu tepeye tırmanırken, bölgenin flora ve faunasını yakından inceleyebilir ve Erzurum'un tarihi geçmişi hakkında bilgi edinebilirler.
+Yüzbaşıziyareti Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısını ve doğal zenginliklerini gözlemlemek için mükemmel bir gözlem noktasıdır. Ziyaretçiler, bu tepeye tırmanırken, bölgenin flora ve faunasını yakından inceleyebilir ve Erzurum'un tarihi geçmişi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 

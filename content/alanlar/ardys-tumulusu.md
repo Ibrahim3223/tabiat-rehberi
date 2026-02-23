@@ -29,7 +29,7 @@ wikidata_id: "Q134728382"
 
 # Ardys Tümülüsü
 
-Ardys Tümülüsü, Ege Bölgesi'nin tarihi zenginliklerini gözler önüne seren bir arkeolojik alan olarak dikkat çekiyor. Manisa'nın Salihli ilçesinde yer alan bu önemli tarihî mekan, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin derinliklerine götürmeye davet ediyor. Ardys Tümülüsü, bölgenin coğrafi ve kültürel zenginliklerini bir araya getiren bir noktada bulunuyor ve hem tarih meraklıları hem de doğa severler için benzersiz bir deneyim sunuyor.
+Ardys Tümülüsü, Ege Bölgesi'nin tarihi zenginliklerini gözler önüne seren bir arkeolojik alan olarak dikkat çekiyor. Manisa'nın Salihli ilçesinde yer alan bu önemli tarihî mekan, yaklaşık 140 hektarlık bir alanı kaplıyor. Ardys Tümülüsü, bölgenin coğrafi ve kültürel zenginliklerini bir araya getiren bir noktada bulunuyor ve hem tarih meraklıları hem de doğa severler için benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

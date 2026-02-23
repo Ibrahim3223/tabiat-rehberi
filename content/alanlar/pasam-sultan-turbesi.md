@@ -1,7 +1,7 @@
 ---
 title: "Paşam Sultan Türbesi"
 date: "2026-01-10T07:12:53.323Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390898"
 
 # Paşam Sultan Türbesi
 
-Paşam Sultan Türbesi, Kütahya'nın merkezinde yer alan tarihi bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunmaktadır. Bu tarihi yer, Kütahya'nın önemli kültürel miraslarından biri olarak kabul edilmektedir. Paşam Sultan Türbesi, özellikle tarih ve kültür severler için bir çekim merkezi olarak dikkat çekmektedir. Ziyaretçiler, bu güzel ve tarihi yapıyı görmek için her yıl burayı ziyaret etmektedir.
+Paşam Sultan Türbesi, Kütahya'nın merkezinde yer alan tarihi bir yapıdır. Bu tarihi yer, Kütahya'nın önemli kültürel miraslarından biri olarak kabul edilmektedir. Paşam Sultan Türbesi, özellikle tarih ve kültür severler için bir çekim merkezi olarak dikkat çekmektedir. Ziyaretçiler, bu güzel ve tarihi yapıyı görmek için her yıl burayı ziyaret etmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Paşam Sultan Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadı
 
 ## Coğrafya
 
-Paşam Sultan Türbesi, Kütahya'nın merkezinde yer almaktadır. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Türbe, doğal güzellikleri ve tarihi yapıları ile ziyaretçilerini cezbeden bir alandır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunmaktadır. Paşam Sultan Türbesi, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine mükemmel bir manzara sunmaktadır. Ziyaretçiler, bu güzel ve tarihi yapıyı gezerek, doğanın güzelliklerini keşfedebilir ve tarihin izlerini sürükleyebilir. Paşam Sultan Türbesi, Kütahya'nın önemli bir gezi noktası olarak dikkat çekmektedir.
+Paşam Sultan Türbesi, Kütahya'nın merkezinde yer almaktadır. Bu bölge, Ege Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Türbe, doğal güzellikleri ve tarihi yapıları ile ziyaretçilerini cezbeden bir alandır. Paşam Sultan Türbesi, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine mükemmel bir manzara sunmaktadır. Ziyaretçiler, bu güzel ve tarihi yapıyı gezerek, doğanın güzelliklerini keşfedebilir ve tarihin izlerini sürükleyebilir. Paşam Sultan Türbesi, Kütahya'nın önemli bir gezi noktası olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 

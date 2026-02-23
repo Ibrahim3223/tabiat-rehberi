@@ -1,7 +1,7 @@
 ---
 title: "Ayaspaşa Hamamı, Saray"
 date: "2026-01-09T23:56:52.256Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tekirdağ"
@@ -30,11 +30,11 @@ wikidata_id: "Q133245766"
 
 # Ayaspaşa Hamamı, Saray
 
-Ayaspaşa Hamamı, Saray, Tekirdağ'ın Saray ilçesinde yer alan bir tarihi hamam ve plajdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ayaspaşa Hamamı, tarihsel ve kültürel açıdan önemli bir mirastır ve ziyaretçilerini Marmara Bölgesi'nin güzelliği ile baş başa bırakır. Saray'ın merkezine yakın konumuyla, hem tarihi hem de doğal güzelliklerin bir arada sunulduğu özel bir yerdir.
+Ayaspaşa Hamamı, Saray, Tekirdağ'ın Saray ilçesinde yer alan bir tarihi hamam ve plajdır. Ayaspaşa Hamamı, tarihsel ve kültürel açıdan önemli bir mirastır ve ziyaretçilerini Marmara Bölgesi'nin güzelliği ile baş başa bırakır. Saray'ın merkezine yakın konumuyla, hem tarihi hem de doğal güzelliklerin bir arada sunulduğu özel bir yerdir.
 
 ## Tarihçe
 
-Ayaspaşa Hamamı, Saray, tarihsel geçmişi ile dikkat çeker. Tarihi precis bir şekilde bilinmese de, yüzyıllar boyunca bölgenin önemli kültürel ve tarihi merkezlerinden biri olarak bilinir. Hamam, bölgede yaşayan insanların sosyal ve kültürel yaşantısına katkıda bulunmuş, önemli bir/toplum merkezidir. Ayaspaşa Hamamı'nın tarihi geçmişi, Tekirdağ'ın ve Saray'ın kültürel zenginliğine katkıda bulunan önemli bir unsur olarak görülür. Bu tarihi yapı, bölgeye gelen ziyaretçilerin ilgisini çeker ve onlara tarihin sâu izlerini sunar.
+Ayaspaşa Hamamı, Saray, tarihsel geçmişi ile dikkat çeker. Tarihi precis bir şekilde bilinmese de, yüzyıllar boyunca bölgenin önemli kültürel ve tarihi merkezlerinden biri olarak bilinir. Hamam, bölgede yaşayan insanların sosyal ve kültürel yaşantısına katkıda bulunmuş, önemli bir/toplum merkezidir. Ayaspaşa Hamamı'nın tarihi geçmişi, Tekirdağ'ın ve Saray'ın kültürel zenginliğine katkıda bulunan önemli bir unsur olarak görülür. Bu tarihi yapı, bölgeye gelen ziyaretçilerin ilgisini çeker ve onlara tarihin derin izlerini sunar.
 
 ## Coğrafya
 

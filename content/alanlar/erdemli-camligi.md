@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Erdemli Çamlığı
 
-Erdemli Çamlığı, Bolu'nun güzide doğal alanlarından biri olarak dikkat çekmektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini Karadeniz Bölgesi'nin en önemli tabiat parklarından birine davet etmektedir. Bu alan, çam ormanlarıyla kaplı bir bölge olarak bilinmekte ve ziyaretçilerini doğanın kucağına davet etmektedir. Erdemli Çamlığı, hem doğa severler hem de doğayı keşfetmek isteyenler için ideal bir destinasyon olarak ön plana çıkmaktadır.
+Erdemli Çamlığı, Bolu'nun güzide doğal alanlarından biri olarak dikkat çekmektedir. Bu alan, çam ormanlarıyla kaplı bir bölge olarak bilinmekte ve ziyaretçilerini doğanın kucağına davet etmektedir. Erdemli Çamlığı, hem doğa severler hem de doğayı keşfetmek isteyenler için ideal bir destinasyon olarak ön plana çıkmaktadır.
 
 ## Tarihçe
 
@@ -29,7 +29,7 @@ Erdemli Çamlığı, tarihi geçmişiyle dikkat çekmektedir. Bu alan, yüzyıll
 
 ## Coğrafya
 
-Erdemli Çamlığı, Karadeniz Bölgesi'nin en önemli coğrafi bölgelerinden biridir. Bu alan, çam ormanlarıyla kaplı bir bölge olarak bilinmekte ve ziyaretçilerini doğanın kucağına davet etmektedir. Erdemli Çamlığı, 140 hektarlık bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Bu alan, Karadeniz Bölgesi'nin en önemli tabiat parklarından biri olarak bilinmekte ve ziyaretçilerini doğanın gizemli dünyasına davet etmektedir. Erdemli Çamlığı, çam ormanlarının yanı sıra, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkilemektedir.
+Erdemli Çamlığı, Karadeniz Bölgesi'nin en önemli coğrafi bölgelerinden biridir. Bu alan, çam ormanlarıyla kaplı bir bölge olarak bilinmekte ve ziyaretçilerini doğanın kucağına davet etmektedir. Bu alan, Karadeniz Bölgesi'nin en önemli tabiat parklarından biri olarak bilinmekte ve ziyaretçilerini doğanın gizemli dünyasına davet etmektedir. Erdemli Çamlığı, çam ormanlarının yanı sıra, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkilemektedir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,7 @@ Erdemli Çamlığı, ziyaretçilerini doğanın kucağına davet etmektedir. Bu 
 ## İlginç Bilgiler
 
 - Erdemli Çamlığı, 140 hektarlık bir alana yayılmıştır.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır.
+
 - Erdemli Çamlığı, Karadeniz Bölgesi'nin en önemli tabiat parklarından biridir.
 - Bu alan, çam ormanlarıyla kaplı bir bölge olarak bilinmektedir.
 - Erdemli Çamlığı, ziyaretçilerini doğanın kucağına davet etmektedir.

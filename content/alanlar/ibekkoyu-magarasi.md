@@ -32,7 +32,7 @@ wikidata_id: "Q49319923"
 
 ## Tarihçe
 
-İbekköyü Mağarası, Çorum'un zengin tarihî ve kültürel dokusuna sahip bir bölgesinde yer almaktadır. Bu bölge, tarihin sâu sayfalarında Hitit, Frig, Roma ve Osmanlı uygarlıklarının izlerini taşımaktadır. Çorum'un strategik konumu, tarih boyunca çeşitli medeniyetlerin yerleşim yeri ve ticaret yolu olarak önemini korumuştur.
+İbekköyü Mağarası, Çorum'un zengin tarihî ve kültürel dokusuna sahip bir bölgesinde yer almaktadır. Bu bölge, tarihin derin sayfalarında Hitit, Frig, Roma ve Osmanlı uygarlıklarının izlerini taşımaktadır. Çorum'un strategik konumu, tarih boyunca çeşitli medeniyetlerin yerleşim yeri ve ticaret yolu olarak önemini korumuştur.
 
 Doğal güzellikleri ve jeolojik oluşumları ile dikkat çeken İbekköyü Mağarası, Türkiye'deki benzer i alanlar gibi, insanlık tarihinin önemli bir parçasını oluşturmaktadır. Bu tür mağaralar, binlerce yıl önce insanların sığınak, barınma ve ibadet yerleri olarak kullanılmıştır. Ayrıca, bölgede yaylacılık ve hayvancılık faaliyetleri, insanların bu doğal güzelliklerle iç içe yaşamasına olanak sağlamıştır.
 

@@ -61,4 +61,4 @@ Ağrı'nın görkemli dağlarından biri olan Tashbash, doğa severler için bir
 - Tashbash, Ağrı ilinin Doğubayazıt ilçesine yaklaşık 30 kilometre mesafededir.
 - Doğal güzelliği ile dikkat çeken Tashbash, trekking ve doğa yürüyüşü için ideal bir alandır.
 - Ağrı Dağı'nın zirvesine tırmanmak için Tashbash, önemli bir başlangıç noktası olarak kullanılır.
-- Tashbash ve çevresinde, histórik olarak önemli olan Urartu Krallığı'na ait kalıntılara rastlama mümkündür.
+- Tashbash ve çevresinde, tarihi olarak önemli olan Urartu Krallığı'na ait kalıntılara rastlama mümkündür.

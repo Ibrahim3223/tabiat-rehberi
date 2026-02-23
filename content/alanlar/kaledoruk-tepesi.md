@@ -28,7 +28,7 @@ wikidata_id: "Q31581113"
 
 # Kaledoruk Tepesi
 
-Kaledoruk Tepesi, Çorum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan. Doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini cezbeden Kaledoruk Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Kaledoruk Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi.
+Kaledoruk Tepesi, Çorum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini cezbeden Kaledoruk Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Kaledoruk Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228619"
 
 # ESKİPAZAR (BOTANİK BAHÇESİ)
 
-Eskipazar Botanik Bahçesi, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alanda çeşitli bitki türleri ve zengin fauna encontrabilir. Bahçe, hem doğa severler hem de botanikle ilgilenenler için bir cennet. Eskipazar Botanik Bahçesi, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar. 140 hektarlık bu yeşil alan, ziyaretçilere huzur ve sakinli verir.
+ Bu alanda çeşitli bitki türleri ve zengin fauna encontrabilir. Bahçe, hem doğa severler hem de botanikle ilgilenenler için bir cennet. Eskipazar Botanik Bahçesi, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar. 140 hektarlık bu yeşil alan, ziyaretçilere huzur ve sakinli verir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Eskipazar Botanik Bahçesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Eskipazar Botanik Bahçesi, İç Anadolu Bölgesi'nde yer alır. Bahçe, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Eskipazar Botanik Bahçesi, coğrafi olarak çeşitli bitki türlerine ev sahipliği yapar. Bahçe, zengin fauna ve flora ile dikkat çeker. Eskipazar Botanik Bahçesi, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar. Bahçe, iklim olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Eskipazar Botanik Bahçesi, coğrafi konumu itibariyle bir alandır. Bahçe, çevresindeki doğal güzelliklerle birlikte bir bütün haline gelir. Eskipazar Botanik Bahçesi, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar.
+Eskipazar Botanik Bahçesi, İç Anadolu Bölgesi'nde yer alır. Eskipazar Botanik Bahçesi, coğrafi olarak çeşitli bitki türlerine ev sahipliği yapar. Bahçe, zengin fauna ve flora ile dikkat çeker. Eskipazar Botanik Bahçesi, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar. Bahçe, iklim olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Eskipazar Botanik Bahçesi, coğrafi konumu itibariyle bir alandır. Bahçe, çevresindeki doğal güzelliklerle birlikte bir bütün haline gelir. Eskipazar Botanik Bahçesi, ziyaretçilerine doğanın güzelliğini ve çeşitliliğini sunar.
 
 ## Flora ve Fauna
 

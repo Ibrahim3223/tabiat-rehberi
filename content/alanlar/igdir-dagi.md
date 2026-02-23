@@ -51,7 +51,7 @@ Doğal güzelliği ve coğrafi özellikleri ile dikkat çeken İğdir Dağı, ya
 
 ## Flora ve Fauna
 
-İğdir Dağı, Ordu'nun nemli iklimine uyum sağlamış, gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+İğdir Dağı, Ordu'nun nemli iklimine uyum sağlamış, gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelişiyle birlikte, dağ eteklerinde çiçekler açar ve renkli bir manzara ortaya çıkar. Sonbaharda, yaprakların döndüğü dönemde, dağlar sarı, turuncu ve kırmızıyla renklendirilir. Yükseklik zonlarına göre değişen flora, dağın farklı yüksekliklerinde farklı türlerin yaşamına olanak tanır.
 

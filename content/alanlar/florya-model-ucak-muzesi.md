@@ -1,7 +1,7 @@
 ---
 title: "Florya Model Uçak Müzesi"
 date: "2026-01-10T15:19:24.946Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132888280"
 
 # Florya Model Uçak Müzesi
 
-Florya Model Uçak Müzesi, İstanbul'un Florya semtinde ziyaretçilerini ağırlayan bir müzedir. Bu müze, model uçak koleksiyonu ile dikkat çekmektedir. 140 hektarlık bir alanın içinde yer alan müze, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ziyaretçiler, müzenin geniş koleksiyonunda yer alan model uçakları yakından inceleyebilir. Müze, havacılık tarihine ilgi duyanlar için önemli bir destinasyondur.
+Florya Model Uçak Müzesi, İstanbul'un Florya semtinde ziyaretçilerini ağırlayan bir müzedir. Bu müze, model uçak koleksiyonu ile dikkat çekmektedir. Ziyaretçiler, müzenin geniş koleksiyonunda yer alan model uçakları yakından inceleyebilir. Müze, havacılık tarihine ilgi duyanlar için önemli bir destinasyondur.
 
 ## Tarihçe
 

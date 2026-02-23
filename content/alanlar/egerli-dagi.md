@@ -32,7 +32,7 @@ wikidata_id: "Q34867971"
 
 ## Tarihçe
 
-Çorum bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu bölge, tarihi ve kültürel zenginliklerin bir araya geldiği bir noktada bulunur. Eğerli Dağı da bu coğrafyanın bir parçası olarak, binlerce yılın sessiz tanığı olmuştur.
+Çorum bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu bölge, tarihi ve kültürel zenginliklerin bir araya geldiği bir noktada bulunur. Eğerli Dağı da bu coğrafyanın bir parçası olarak, binlerce yılın sessiz tanığı olmuştur.
 
 Türkiye'nin doğal alanları, tarihin her döneminde önemli bir role sahip olmuştur. Yaylacılık ve hayvancılık faaliyetleri, bu tür alanların ekonomiye ve topluma katkıda bulunmasını sağlamıştır. Ayrıca, ticaret yollarının güzergahında bulunan bu bölge, çeşitli medeniyetlerin etkilerini taşımıştır.
 

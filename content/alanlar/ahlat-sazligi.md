@@ -22,7 +22,7 @@ wikidata_id: "Q108228831"
 
 # Ahlat Sazlığı
 
-Ahlat Sazlığı, İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik noktalarından biri. Sazlık, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Bu bölge, aynı zamanda birçok kuş türünün yaşam alanı olarak da biliniyor. Ahlat Sazlığı, doğa severler ve kuş gözlemcileri için gerçek bir cennet gibi görünüyor.
+Ahlat Sazlığı, İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olarak karşımıza çıkıyor. Sazlık, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Bu bölge, aynı zamanda birçok kuş türünün yaşam alanı olarak da biliniyor. Ahlat Sazlığı, doğa severler ve kuş gözlemcileri için gerçek bir cennet gibi görünüyor.
 
 ## Tarihçe
 

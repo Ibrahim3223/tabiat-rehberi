@@ -28,7 +28,7 @@ wikidata_id: "Q31551065"
 
 # Hincika Tepesi
 
-Hincika Tepesi, Mardin'in güzide noktalarından biri olarak karşımıza çıkıyor. Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bu tepe, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, ziyaretçilerini hem doğal güzelliği hem de tarihi geçmişi ile büyülüyor. Hincika Tepesi, Mardin'in merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu tepe, çevreyi panoramik olarak izlemek isteyenler için önemli bir nokta.
+Hincika Tepesi, Mardin'in güzide noktalarından biri olarak karşımıza çıkıyor. Bu bölge, ziyaretçilerini hem doğal güzelliği hem de tarihi geçmişi ile büyülüyor. Hincika Tepesi, Mardin'in merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu tepe, çevreyi panoramik olarak izlemek isteyenler için önemli bir nokta.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227235"
 
 # Bursa-Inegol-Tahtakopru Kayin
 
-Bursa-Inegol-Tahtakopru Kayin milli parkı, Marmara Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Burada, kayak severlerin keyif alacağı 10 kilometrelik kayak pisti ve zengin fauna ile karşılaşma mümkün. Milli park, yılın her mevsiminde farklı güzellikler sunuyor ve doğa severlerin gözdesi haline geliyor.
+Bursa-Inegol-Tahtakopru Kayin milli parkı, Marmara Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, kayak severlerin keyif alacağı 10 kilometrelik kayak pisti ve zengin fauna ile karşılaşma mümkün. Milli park, yılın her mevsiminde farklı güzellikler sunuyor ve doğa severlerin gözdesi haline geliyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Bursa-Inegol-Tahtakopru Kayin milli parkını ziyaret etmek, doğa severler içi
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, çevre ve doğa koruma effortsının bir sonucu olarak gerçekleşmiştir.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Milli park, flora ve fauna açısından zengin bir çeşitlilik sunuyor.
 - Kış aylarında, kayak severlerin keyif alacağı 10 kilometrelik kayak pisti mevcut.
 - Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer.

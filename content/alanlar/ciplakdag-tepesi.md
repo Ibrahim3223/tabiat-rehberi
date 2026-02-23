@@ -28,7 +28,7 @@ wikidata_id: "Q34829264"
 
 # Çıplakdağ Tepesi
 
-Çıplakdağ Tepesi, Kars ilinin sınırları içerisinde yer alan ve Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alan sunar. Çıplakdağ Tepesi, ziyaretçilerine doğal güzelliklerin yanı sıra, bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunar. Bu tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere bölgenin geleneksel yaşam tarzını deneyimleme imkanı sağlar.
+Çıplakdağ Tepesi, Kars ilinin sınırları içerisinde yer alan ve Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Çıplakdağ Tepesi, ziyaretçilerine doğal güzelliklerin yanı sıra, bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunar. Bu tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere bölgenin geleneksel yaşam tarzını deneyimleme imkanı sağlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34829264"
 
 ## Coğrafya
 
-Çıplakdağ Tepesi, Kars ilinin coğrafi yapısını oluşturan dağlık bir bölgede yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alan sunar. Çıplakdağ Tepesi'nin yüksekliği, yüksek bir konumdadir. Bu tepe, etrafındaki dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir unsurdur. Çıplakdağ Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin karakteristik iklimine benzer. Bu tepe, kış aylarında soğuk ve karlı, yaz aylarında ise serin ve yağışlı bir iklim sunar. Çıplakdağ Tepesi'nin etrafında yer alan nehirler ve akarsular, bölgenin su kaynaklarını oluşturan önemli bir unsurdur.
+Çıplakdağ Tepesi, Kars ilinin coğrafi yapısını oluşturan dağlık bir bölgede yer alır. Çıplakdağ Tepesi'nin yüksekliği, yüksek bir konumdadir. Bu tepe, etrafındaki dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir unsurdur. Çıplakdağ Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin karakteristik iklimine benzer. Bu tepe, kış aylarında soğuk ve karlı, yaz aylarında ise serin ve yağışlı bir iklim sunar. Çıplakdağ Tepesi'nin etrafında yer alan nehirler ve akarsular, bölgenin su kaynaklarını oluşturan önemli bir unsurdur.
 
 ## Flora ve Fauna
 

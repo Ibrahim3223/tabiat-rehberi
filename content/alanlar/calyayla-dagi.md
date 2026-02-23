@@ -33,7 +33,7 @@ Türkiye'nin coğrafi çeşitliliği, Çalyayla Dağı gibi doğal güzelliklerl
 
 ## Tarihçe
 
-Çalyayla Dağı, Türkiye'nin zengin tarihi ve kültürel mirasının bir parçasını oluşturan bir bölgede yer alır. Bu bölge, tarihin sâu sayfalarında, çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve burada önemli izler bırakmışlardır.
+Çalyayla Dağı, Türkiye'nin zengin tarihi ve kültürel mirasının bir parçasını oluşturan bir bölgede yer alır. Bu bölge, tarihin derin sayfalarında, çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Hitit, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve burada önemli izler bırakmışlardır.
 
 Doğal alanlar, Türkiye'de her zaman önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal güzelliklerle bağlantılı olarak şekillenmiştir. Çalyayla Dağı da, bu bağlamda, bölgenin ekonomisi ve kültürü için önemli bir kaynak olmuştur. İnsanlar, bu dağların eteklerinde yerleşmiş, burada tarım ve hayvancılıkla uğraşmış, ve bu doğal güzelliklerden yararlanmışlardır.
 

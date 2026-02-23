@@ -1,7 +1,7 @@
 ---
 title: "Melek Ahmed Paşa Hamamı"
 date: "2026-01-09T22:12:55.393Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q87767582"
 
 # Melek Ahmed Paşa Hamamı
 
-Melek Ahmed Paşa Hamamı, Diyarbakır'ın Sur ilçesinde bulunan tarihi bir hamam. Bu hamam, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir bölgede yer alıyor. Melek Ahmed Paşa Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli turizm merkezlerinden biri. Bölgenin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunan bir doğa alanı mevcut. Melek Ahmed Paşa Hamamı, ziyaretçilere hem tarihi hem de doğal güzellikleri sunan özel bir mekan.
+Melek Ahmed Paşa Hamamı, Diyarbakır'ın Sur ilçesinde bulunan tarihi bir hamam. Melek Ahmed Paşa Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli turizm merkezlerinden biri. Bölgenin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunan bir doğa alanı mevcut. Melek Ahmed Paşa Hamamı, ziyaretçilere hem tarihi hem de doğal güzellikleri sunan özel bir mekan.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Melek Ahmed Paşa Hamamı, tarihsel olarak önemli bir geçmişe sahip. Bu hamam
 
 ## Coğrafya
 
-Melek Ahmed Paşa Hamamı, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak özel bir bölgesinde yer alıyor. Hamam, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir bölgede kurulmuş. Bu bölgenin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Melek Ahmed Paşa Hamamı'nın etrafında, bölgenin iklimi ve coğrafi özellikleri dikkate alınarak oluşturulmuş bir doğa alanı bulunuyor. Hamamın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Melek Ahmed Paşa Hamamı, Diyarbakır'ın coğrafi ve kültürel zenginliklerini bir araya getiren özel bir mekan.
+Melek Ahmed Paşa Hamamı, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak özel bir bölgesinde yer alıyor. Bu bölgenin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Melek Ahmed Paşa Hamamı'nın etrafında, bölgenin iklimi ve coğrafi özellikleri dikkate alınarak oluşturulmuş bir doğa alanı bulunuyor. Hamamın coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Melek Ahmed Paşa Hamamı, Diyarbakır'ın coğrafi ve kültürel zenginliklerini bir araya getiren özel bir mekan.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Melek Ahmed Paşa Hamamı, ziyaretçilere bölgeyi keşfetme fırsatı sunuyor. 
 - Melek Ahmed Paşa Hamamı, Diyarbakır'ın en önemli tarihi mekanlarından biri.
 - Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunan bir doğa alanı mevcut.
 - Melek Ahmed Paşa Hamamı, ziyaretçilere hem tarihi hem de doğal güzellikleri sunan özel bir mekan.
-- Hamam, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir bölgede kurulmuş.
+
 - Melek Ahmed Paşa Hamamı, Diyarbakır'ın coğrafi ve kültürel zenginliklerini bir araya getiren özel bir mekan.

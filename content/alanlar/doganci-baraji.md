@@ -23,7 +23,7 @@ wikidata_id: "Q108227809"
 
 # Doganci Baraji
 
-Doğancı Barajı, İç Anadolu Bölgesi'nin önemli su kaynaklarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu büyük su birikintisi, bölge için hayati önem taşır ve doğa severler için bir çekim merkezi olarak hizmet eder. Barajın etrafındaki peyzaj, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Doğancı Barajı, hem yerel halk hem de ziyaretçiler için bir dinlenme ve doğayı deneyimleme alanı olarak kullanılır.
+Doğancı Barajı, İç Anadolu Bölgesi'nin önemli su kaynaklarından biridir. Bu büyük su birikintisi, bölge için hayati önem taşır ve doğa severler için bir çekim merkezi olarak hizmet eder. Barajın etrafındaki peyzaj, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Doğancı Barajı, hem yerel halk hem de ziyaretçiler için bir dinlenme ve doğayı deneyimleme alanı olarak kullanılır.
 
 ## Tarihçe
 

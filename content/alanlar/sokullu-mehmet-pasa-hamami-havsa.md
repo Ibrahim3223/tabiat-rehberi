@@ -1,7 +1,7 @@
 ---
 title: "Sokullu Mehmet Paşa Hamamı, Havsa"
 date: "2026-01-09T22:13:51.062Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q52789685"
 
 # Sokullu Mehmet Paşa Hamamı, Havsa
 
-Sokullu Mehmet Paşa Hamamı, Edirne'nin tarihi zenginliklerini barındıran önemli bir kültür varlığıdır. Havsa'da bulunan bu hamam, Osmanlı döneminde inşa edilmiş ve günümüze kadar ulaşmıştır. 140 hektarlık bir alanda yer alan Sokullu Mehmet Paşa Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu büyük alan, ziyaretçilere geniş bir mekan sunar. Hamamın tarihi geçmişi, ziyaretçilerini geçmişe götürerek onlar için önemli bir deneyim sağlar.
+Sokullu Mehmet Paşa Hamamı, Edirne'nin tarihi zenginliklerini barındıran önemli bir kültür varlığıdır. Havsa'da bulunan bu hamam, Osmanlı döneminde inşa edilmiş ve günümüze kadar ulaşmıştır. Bu büyük alan, ziyaretçilere geniş bir mekan sunar. Hamamın tarihi geçmişi, ziyaretçilerini geçmişe götürerek onlar için önemli bir deneyim sağlar.
 
 ## Tarihçe
 

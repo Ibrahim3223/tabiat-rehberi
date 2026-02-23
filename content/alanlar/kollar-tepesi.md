@@ -28,7 +28,7 @@ wikidata_id: "Q31513455"
 
 # Kollar Tepesi
 
-Kollar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Kollar Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Burada, çeşitli bitki türleri ve zengin fauna mevcut. Tepenin eteklerinde, historical geçmişi olan yerleşim yerleri bulunuyor. Kollar Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası.
+Kollar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Kollar Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Burada, çeşitli bitki türleri ve zengin fauna mevcut. Tepenin eteklerinde, historical geçmişi olan yerleşim yerleri bulunuyor. Kollar Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 

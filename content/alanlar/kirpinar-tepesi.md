@@ -28,7 +28,7 @@ wikidata_id: "Q31388607"
 
 # Kırpınar Tepesi
 
-Kırpınar Tepesi, Erzurum'un kalbinde yer alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan görkemli bir tepe. yüksek bir konumdate, şehrin panoramik manzarasını sunan bu tepe, hem doğa severler hem de sporcular için bir çekim merkezi. Doğal güzelliği, zengin florası ve faunası ile ziyaretçilerini etkileyen Kırpınar Tepesi, aynı zamanda winter sporlarının keyfini çıkarmak isteyenler için de ideal bir destinasyon. Erzurum'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir durak olan bu tepe, şehre gelenlerin mutlaka ziyaret etmesi gereken bir nokta.
+ yüksek bir konumdate, şehrin panoramik manzarasını sunan bu tepe, hem doğa severler hem de sporcular için bir çekim merkezi. Doğal güzelliği, zengin florası ve faunası ile ziyaretçilerini etkileyen Kırpınar Tepesi, aynı zamanda winter sporlarının keyfini çıkarmak isteyenler için de ideal bir destinasyon. Erzurum'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir durak olan bu tepe, şehre gelenlerin mutlaka ziyaret etmesi gereken bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kırpınar Tepesi'nin tarihi geçmişi, Erzurum'un tarihinde önemli bir yer tut
 
 ## Coğrafya
 
-Kırpınar Tepesi, Erzurum'un coğrafi yapısını oluşturan önemli bir parçadır. yüksek bir konumdate, şehrin merkezi bölgesinde yer alan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin etrafında, şehrin önemli yerleşim yerleri ve tarihi eserler bulunur. Coğrafi konumu itibariyle, tepe ve çevresi, çeşitli iklim koşullarına sahiptir. Kış aylarında karla kaplanan tepe, kış sporları için ideal bir destinasyon olurken, yaz aylarında ise yeşil örtüsü ile doğa severleri cezbeder. Çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu reasonsden dolayı, Kırpınar Tepesi, Erzurum'un coğrafi ve ekolojik dengesini sağlayan önemli bir noktadır. Ayrıca, tepe ve çevresinin coğrafi yapısı, şehirlerin planlanmasında önemli bir rol oynar.
+Kırpınar Tepesi, Erzurum'un coğrafi yapısını oluşturan önemli bir parçadır. Tepenin etrafında, şehrin önemli yerleşim yerleri ve tarihi eserler bulunur. Coğrafi konumu itibariyle, tepe ve çevresi, çeşitli iklim koşullarına sahiptir. Kış aylarında karla kaplanan tepe, kış sporları için ideal bir destinasyon olurken, yaz aylarında ise yeşil örtüsü ile doğa severleri cezbeder. Çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu reasonsden dolayı, Kırpınar Tepesi, Erzurum'un coğrafi ve ekolojik dengesini sağlayan önemli bir noktadır. Ayrıca, tepe ve çevresinin coğrafi yapısı, şehirlerin planlanmasında önemli bir rol oynar.
 
 ## Flora ve Fauna
 

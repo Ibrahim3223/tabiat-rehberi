@@ -28,7 +28,7 @@ wikidata_id: "Q32139490"
 
 # Güneşköy Tepesi
 
-Güneşköy Tepesi, Sinop'un en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerine eşsiz bir manzara sunuyor. Karadeniz Bölgesi'nin en güzel noktalarından biri olan Güneşköy Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet. Tepenin etrafında çeşitli bitki türleri bulunuyor ve bu bölgede yaban hayatı oldukça zengin. Güneşköy Tepesi, ziyaretçilerini büyüleyici bir doğa belgeseline davet ediyor.
+Güneşköy Tepesi, Sinop'un en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Karadeniz Bölgesi'nin en güzel noktalarından biri olan Güneşköy Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet. Tepenin etrafında çeşitli bitki türleri bulunuyor ve bu bölgede yaban hayatı oldukça zengin. Güneşköy Tepesi, ziyaretçilerini büyüleyici bir doğa belgeseline davet ediyor.
 
 ## Tarihçe
 

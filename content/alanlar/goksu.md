@@ -23,7 +23,7 @@ wikidata_id: "Q108228160"
 
 # Göksu
 
-Göksu milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan doğal bir güzelliktir. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğanın mucizeleriyle karşılar. Göksu, zengin flora ve faunasıyla dikkat çeker ve bu yönüyle İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biridir. Milli parkın çevresinde, çeşitli bitki türleri ve hayvanlar bulunur, bu da burayı doğa severler için bir cennet haline getirir.
+Göksu milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan doğal bir güzelliktir. Göksu, zengin flora ve faunasıyla dikkat çeker ve bu yönüyle İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biridir. Milli parkın çevresinde, çeşitli bitki türleri ve hayvanlar bulunur, bu da burayı doğa severler için bir cennet haline getirir.
 
 ## Tarihçe
 

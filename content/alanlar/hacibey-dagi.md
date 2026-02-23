@@ -48,7 +48,7 @@ Jeolojik açıdan incelendiğinde, Hacıbey Dağı'nın fiziksel yapısı hakkı
 
 ## Flora ve Fauna
 
-Hacıbey Dağı, Sinop'un nemli iklimi ve gür ormanları ile çevrili bir dağ ekosistemi sunar. Bu yükseklik zonları, alpin flora ve dağ hayvanlarının yaşam alanıdır. 
+Hacıbey Dağı, Sinop'un nemli iklimi ve gür ormanları ile çevrili bir dağ ekosistemi sunar. Bu yükseklik zonları, alpin flora ve dağ hayvanlarının yaşam alanıdır.
 
 Bitki örtüsünde, ilkbaharın başlangıcında çiçekler açan ağaçlar ve sonbaharda renk değiştiren yapraklar hakimdir. Bu mevsimsel değişim, dağın farklı yükseklik zonlarında çeşitli bitki türlerinin gelişimine olanak sağlar.
 

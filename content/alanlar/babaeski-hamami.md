@@ -1,7 +1,7 @@
 ---
 title: "Babaeski Hamamı"
 date: "2026-01-09T22:17:01.420Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırklareli"
@@ -30,7 +30,7 @@ wikidata_id: "Q127043375"
 
 # Babaeski Hamamı
 
-Babaeski Hamamı, Kırklareli'nin Babaeski ilçesinde yer alan tarihi bir hamam ve plaj olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplıyor. Bu geniş alan, hem tarihi hamamın hem de plajın keyfini çıkarmak için yeterli bir mekan sunuyor. Babaeski Hamamı, Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve tarihi geçmişi ile dikkat çekiyor.
+Babaeski Hamamı, Kırklareli'nin Babaeski ilçesinde yer alan tarihi bir hamam ve plaj olarak dikkat çekiyor. Bu geniş alan, hem tarihi hamamın hem de plajın keyfini çıkarmak için yeterli bir mekan sunuyor. Babaeski Hamamı, Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve tarihi geçmişi ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Babaeski Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bö
 
 ## Coğrafya
 
-Babaeski Hamamı, Kırklareli'nin Babaeski ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli coğrafi özellikleri arasında yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplıyor. Bu geniş alan, hem tarihi hamamın hem de plajın keyfini çıkarmak için yeterli bir mekan sunuyor. Babaeski Hamamı, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve tarihi geçmişi ile dikkat çekiyor. Babaeski Hamamı'nın coğrafi konumu, ziyaretçilerin keyifli zaman geçirmeleri için uygun bir ortam sunuyor. Bu bölgede, yaban hayatı ve doğa güzellikleri de dikkat çekiyor.
+Babaeski Hamamı, Kırklareli'nin Babaeski ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli coğrafi özellikleri arasında yer alıyor. Bu geniş alan, hem tarihi hamamın hem de plajın keyfini çıkarmak için yeterli bir mekan sunuyor. Babaeski Hamamı, Marmara Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve tarihi geçmişi ile dikkat çekiyor. Babaeski Hamamı'nın coğrafi konumu, ziyaretçilerin keyifli zaman geçirmeleri için uygun bir ortam sunuyor. Bu bölgede, yaban hayatı ve doğa güzellikleri de dikkat çekiyor.
 
 ## Flora ve Fauna
 

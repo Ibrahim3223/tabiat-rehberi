@@ -1,7 +1,7 @@
 ---
 title: "Cami Dağı"
 date: "2026-01-09T04:54:20.896Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Mardin"
@@ -33,7 +33,7 @@ Mardin'in tarihi dokusu içinde gizlenen Cami Dağı, şehrin eşsiz manzarasın
 
 ## Tarihçe
 
-Mardin'in eşsiz coğrafyasında yer alan Cami Dağı, tarihin sâu izlerini taşıyan bir bölgede bulunuyor. Mardin, tarih boyunca birçok uygarlığa ev sahipliği yapmış bir şehir; Sümerler, Asurlular, Persler, Romalılar ve Osmanlılar gibi medeniyetler bu topraklarda iz bırakmışlardır. Bu bölgenin stratejik konumu, ticaret yollarının kesişme noktasında olması, Mardin'i önemli bir merkez haline getirmiştir.
+Mardin'in eşsiz coğrafyasında yer alan Cami Dağı, tarihin derin izlerini taşıyan bir bölgede bulunuyor. Mardin, tarih boyunca birçok uygarlığa ev sahipliği yapmış bir şehir; Sümerler, Asurlular, Persler, Romalılar ve Osmanlılar gibi medeniyetler bu topraklarda iz bırakmışlardır. Bu bölgenin stratejik konumu, ticaret yollarının kesişme noktasında olması, Mardin'i önemli bir merkez haline getirmiştir.
 
 Doğal alanlar, Türkiye'nin tarihsel zenginliğinin önemli bir parçasını oluşturur. Bu tür bölgeler, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynakları sunmuş, yaylacılık, hayvancılık ve tarım gibi faaliyetlere ev sahipliği yapmıştır. Cami Dağı da bu bağlamda, bölgede yaşayan için hayati önem taşıyan bir kayna ve yaşam alanı olmuştur. Ticaret yolları ve göçmenlerin geçiş noktaları, bu doğal güzelliklerin insanlarla olan bağlantısını güçlendirmiştir. Cami Dağı, Mardin'in tarihini ve kültürünü anlamak için önemli bir parçası olan bu doğal mirasın bir temsilcisi olarak dikkat çekiyor.
 
@@ -51,7 +51,7 @@ Cami Dağı'nın çevresel ilişkileri, bölgenin su kaynakları ve ekosistem ba
 
 Cami Dağı, Mardin'in yarı kurak ikliminin hakim olduğu bir bölgede, step ve ova ekolojisinin içerisinde yükselen bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse %0.15'ini kaplıyor. Dağın yükseklik zonları, alpin flora ve dağ hayvanlarının yaşam alanlarını oluşturuyor.
 
-İlkbaharın gelişiyle birlikte, dağ eteklerinde çiçekler açmaya başlıyor. Step ve ova ekolojisinin karakteristik bitkileri, dağ yamaçlarında yer alıyor. Sonbaharda, göçmen kuşlar dağları geçerek yeni yaşam alanlarına ulaşıyor. Dağ keçileri ve yaban keçileri, dağların dik yamaçlarında yaşamını sürdürüyor. 
+İlkbaharın gelişiyle birlikte, dağ eteklerinde çiçekler açmaya başlıyor. Step ve ova ekolojisinin karakteristik bitkileri, dağ yamaçlarında yer alıyor. Sonbaharda, göçmen kuşlar dağları geçerek yeni yaşam alanlarına ulaşıyor. Dağ keçileri ve yaban keçileri, dağların dik yamaçlarında yaşamını sürdürüyor.
 
 Cami Dağı, bölgenin ekolojik dengesini koruması açısından büyük önem taşıyor. Bu dağ ekosisteminin korunması, bölgenin flora ve faunasının devamlılığı için gerekli.
 

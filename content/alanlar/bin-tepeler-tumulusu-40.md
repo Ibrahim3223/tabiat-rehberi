@@ -29,7 +29,7 @@ wikidata_id: "Q134728326"
 
 # Bin Tepeler Tümülüsü 40
 
-Bin Tepeler Tümülüsü 40, Manisa'nın Salihli ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin tarihi ve kültürel zenginliklerini sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi olarak dikkat çekici bir konumda bulunuyor. Bin Tepeler Tümülüsü 40, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+Bin Tepeler Tümülüsü 40, Manisa'nın Salihli ilçesinde yer alıyor. Bu bölge, Ege Bölgesi'nin tarihi ve kültürel zenginliklerini sunuyor. Bin Tepeler Tümülüsü 40, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 40, tarihi geçmişi ile dikkat çekiyor. Bu tümülüs
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 40, coğrafi olarak dikkat çekici bir konumda bulunuyor. Ege Bölgesi'nin karakteristik coğrafyası, bu bölgede de görülebiliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi olarak çeşitli yüksekli ve alçaklık bölgelerine sahip. Bu bölge, ziyaretçilere coğrafi açıdan zengin bir deneyim sunuyor. Bin Tepeler Tümülüsü 40, doğal güzellikleri ile ziyaretçilerini bekliyor ve coğrafi konumu, ziyaretçilere çeşitli olanaklar sunuyor.
+Bin Tepeler Tümülüsü 40, coğrafi olarak dikkat çekici bir konumda bulunuyor. Ege Bölgesi'nin karakteristik coğrafyası, bu bölgede de görülebiliyor. Bu bölge, ziyaretçilere coğrafi açıdan zengin bir deneyim sunuyor. Bin Tepeler Tümülüsü 40, doğal güzellikleri ile ziyaretçilerini bekliyor ve coğrafi konumu, ziyaretçilere çeşitli olanaklar sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Bin Tepeler Tümülüsü 40, ziyaretçilere, tarihi ve doğal güzellikleri hakk
 
 - Bin Tepeler Tümülüsü 40, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmış.
 - Bu bölge, arkeolojik açıdan önemli bir bölge.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bin Tepeler Tümülüsü 40, doğal güzellikleri ile dikkat çekiyor.
 - Bu bölge, ziyaretçilere, tarihi ve doğal güzellikleri hakkında bilgi sahibi olmak için bekliyor.

@@ -1,7 +1,7 @@
 ---
 title: "Beşiktaş Hamamı"
 date: "2026-01-09T22:15:57.287Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q124413393"
 
 # Beşiktaş Hamamı
 
-Beşiktaş Hamamı, Marmara Bölgesi'nin kalbinde yer alan ve İstanbul'un en güzel plajlarından biri olarak bilinen bir destinasyondur. 140 hektarlık bir alanı kaplayan bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. İstanbul'un merkezi bir bölgesinde yer alan Beşiktaş Hamamı, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bu alan, hem yerel halk hem de turister için popüler bir gezi ve tatil destinasyonu olarak hizmet vermektedir.
+Beşiktaş Hamamı, Marmara Bölgesi'nin kalbinde yer alan ve İstanbul'un en güzel plajlarından biri olarak bilinen bir destinasyondur. İstanbul'un merkezi bir bölgesinde yer alan Beşiktaş Hamamı, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bu alan, hem yerel halk hem de turister için popüler bir gezi ve tatil destinasyonu olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Beşiktaş Hamamı'nın tarihi geçmişi, Osmanlı dönemine kadar uzanır. Tari
 
 ## Coğrafya
 
-Beşiktaş Hamamı, Marmara Bölgesi'nin en güzel kıyı şeritlerinden birine sahiptir. Bu bölge, İstanbul Boğazı'nın güneyinde yer alır ve Marmara Denizi'ne açılır. Plajın coğrafi konumu, ziyaretçilere muhteşem bir deniz manzarası sunar. 180 hektarlık bir alanı kaplayan bu plaj, yaklaşık 300 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu yeşil alan, çeşitli bitki türleri ve ağaçlarla kaplıdır ve ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sağlar. İklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemlidir. Yaz aylarında sıcaklık, 25-30 derece arasında değişirken, kış aylarında 5-10 derece arasında değişmektedir. Bu coğrafi özellikler, Beşiktaş Hamamı'nı hem yaz hem de kış aylarında ziyaret etmek için ideal bir destinasyon haline getirir.
+Beşiktaş Hamamı, Marmara Bölgesi'nin en güzel kıyı şeritlerinden birine sahiptir. Bu bölge, İstanbul Boğazı'nın güneyinde yer alır ve Marmara Denizi'ne açılır. Plajın coğrafi konumu, ziyaretçilere muhteşem bir deniz manzarası sunar. Bu yeşil alan, çeşitli bitki türleri ve ağaçlarla kaplıdır ve ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sağlar. İklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemlidir. Yaz aylarında sıcaklık, 25-30 derece arasında değişirken, kış aylarında 5-10 derece arasında değişmektedir. Bu coğrafi özellikler, Beşiktaş Hamamı'nı hem yaz hem de kış aylarında ziyaret etmek için ideal bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 

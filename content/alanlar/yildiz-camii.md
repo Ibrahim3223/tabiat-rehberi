@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Camii"
 date: "2026-01-10T04:19:25.229Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q1573438"
 
 # Yıldız Camii
 
-Yıldız Camii, İstanbul'un Beşiktaş ilçesinde yer alan ve Marmara Bölgesi'nin önemli tarihi yapılarından biri olarak kabul edilen bir camidir. Caminin tarihi geçmişi, Osmanlı Dönemi'ne kadar uzanmaktadır. 140 hektarlık bir alanda bulunan cami, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Mimari açıdan incelendiğinde, klasik Osmanlı mimari tarzının özelliklerini taşır. Caminin giriş kısmı, geniş ve yüksek bir kapıdan oluşur. İç kısmı ise, geniş ve ferah bir alan olarak tasarlanmıştır. Camide, çeşitli zamanlarda yapılan restorasyon çalışmaları, yapısal bütünlüğünü korumak amacıyla gerçekleştirilmiştir.
+Yıldız Camii, İstanbul'un Beşiktaş ilçesinde yer alan ve Marmara Bölgesi'nin önemli tarihi yapılarından biri olarak kabul edilen bir camidir. Caminin tarihi geçmişi, Osmanlı Dönemi'ne kadar uzanmaktadır. Mimari açıdan incelendiğinde, klasik Osmanlı mimari tarzının özelliklerini taşır. Caminin giriş kısmı, geniş ve yüksek bir kapıdan oluşur. İç kısmı ise, geniş ve ferah bir alan olarak tasarlanmıştır. Camide, çeşitli zamanlarda yapılan restorasyon çalışmaları, yapısal bütünlüğünü korumak amacıyla gerçekleştirilmiştir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yıldız Camii'nin tarihi geçmişi, 18. yüzyıla kadar uzanır. Bu dönemde, c
 
 ## Coğrafya
 
-Yıldız Camii, Beşiktaş ilçesinde, İstanbul Boğazı'na yakın bir konumda yer alır. Cami, 140 hektarlık bir alanda bulunur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Caminin çevresinde, varioushistorik yapılar ve yeşil alanlar yer alır. Cami, denize yakın bir konumda bulunduğundan, deniz havası ve manzarası, ziyaretçilere eşsiz bir deneyim sunar. Caminin mimari tarzı, klasik Osmanlı mimari tarzının özelliklerini taşır. Caminin giriş kısmı, geniş ve yüksek bir kapıdan oluşur. İç kısmı ise, geniş ve ferah bir alan olarak tasarlanmıştır. Camide, çeşitli zamanlarda yapılan restorasyon çalışmaları, yapısal bütünlüğünü korumak amacıyla gerçekleştirilmiştir. Yıldız Camii, İstanbul'un coğrafi ve kültürel zenginliklerini yansıtan bir yapıdır.
+Yıldız Camii, Beşiktaş ilçesinde, İstanbul Boğazı'na yakın bir konumda yer alır. Caminin çevresinde, varioushistorik yapılar ve yeşil alanlar yer alır. Cami, denize yakın bir konumda bulunduğundan, deniz havası ve manzarası, ziyaretçilere eşsiz bir deneyim sunar. Caminin mimari tarzı, klasik Osmanlı mimari tarzının özelliklerini taşır. Caminin giriş kısmı, geniş ve yüksek bir kapıdan oluşur. İç kısmı ise, geniş ve ferah bir alan olarak tasarlanmıştır. Camide, çeşitli zamanlarda yapılan restorasyon çalışmaları, yapısal bütünlüğünü korumak amacıyla gerçekleştirilmiştir. Yıldız Camii, İstanbul'un coğrafi ve kültürel zenginliklerini yansıtan bir yapıdır.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Yıldız Camii, ziyaretçilere, İstanbul'un tarihi ve kültürel zenginliklerin
 
 - Yıldız Camii, İstanbul'un en önemli camileri arasında yer alır.
 - Cami, 140 hektarlık bir alanda bulunur.
-- Cami, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Caminin giriş kısmı, geniş ve yüksek bir kapıdan oluşur.
 - Caminin bahçesi, geniş ve ferah bir alan olarak tasarlanmıştır.

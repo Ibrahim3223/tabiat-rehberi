@@ -1,7 +1,7 @@
 ---
 title: "Nuh Türbesi (Cizre, Türkiye)"
 date: "2026-01-10T04:52:57.387Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şırnak"
@@ -38,11 +38,11 @@ Nuh Türbesi'nin tarihi geçmişi, Hz. Nuh'un burada yaşadığına inanılan d�
 
 ## Coğrafya
 
-Nuh Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bölge, Dicle Nehri'nin geçtiği geniş ve verimli bir vadide kurulmuştur. Türbe, Cizre ilçesinin merkezine uzun bir mesafe uzaklıktaki bir tepe üzerinde yer almaktadır. Bu tepe, yaklaşık 70-yüksek bir konumdate olup, çevredeki diğer tepelerden slightly daha yüksektir. Nuh Türbesi'nin bulunduğu bölge, genellikle step iklimi özellikleri gösterir ve yazlar sıcak, kışlar ise soğuk geçer. Bölgenin flora ve faunası da oldukça zengindir. Çeşitli bitki türleri ve hayvanlar, bu bölgede yaşamaktadır. Türbenin etrafında, yaklaşık 140 hektarlık bir yeşil alan, ziyaretçilere dinlenme ve doğayı seyretmek için geniş bir mekân sunar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli ağaçlar ve bitkilerle kaplıdır.
+Nuh Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bölge, Dicle Nehri'nin geçtiği geniş ve verimli bir vadide kurulmuştur. Türbe, Cizre ilçesinin merkezine uzun bir mesafe uzaklıktaki bir tepe üzerinde yer almaktadır. Bu tepe, yaklaşık 70-yüksek bir konumdate olup, çevredeki diğer tepelerden slightly daha yüksektir. Nuh Türbesi'nin bulunduğu bölge, genellikle step iklimi özellikleri gösterir ve yazlar sıcak, kışlar ise soğuk geçer. Bölgenin flora ve faunası da oldukça zengindir. Çeşitli bitki türleri ve hayvanlar, bu bölgede yaşamaktadır. Türbenin etrafında, yaklaşık 140 hektarlık bir yeşil alan, ziyaretçilere dinlenme ve doğayı seyretmek için geniş bir mekân sunar.
 
 ## Flora ve Fauna
 
-Nuh Türbesi'nin bulunduğu bölge, flora ve fauna açısından oldukça zengin bir alandır. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mevsimsel değişimlere bağlı olarak, bahar aylarında flora daha da zenginleşir ve bölgede renkli bir manzara ortaya çıkar. Kış aylarında ise, bazı bitkiler ve ağaçlar dinlenmeye geçer. Bölgede, özellikle kestane, çam ve meşe gibi ağaç türleri bulunur. Hayvanlar açısından da, bölgede çeşitli türler yaşamaktadır. Burada, özellikle kuş türleri oldukça olup, bazı endemik türler de bulunmaktadır. Nuh Türbesi'nin etrafındaki yeşil alan, bu flora ve faunaya ev sahipliği yapmakla birlikte, aynı zamanda ziyaretçilere doğayı seyretmek için uygun bir mekân sunar.
+ Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mevsimsel değişimlere bağlı olarak, bahar aylarında flora daha da zenginleşir ve bölgede renkli bir manzara ortaya çıkar. Kış aylarında ise, bazı bitkiler ve ağaçlar dinlenmeye geçer. Bölgede, özellikle kestane, çam ve meşe gibi ağaç türleri bulunur. Hayvanlar açısından da, bölgede çeşitli türler yaşamaktadır. Burada, özellikle kuş türleri oldukça olup, bazı endemik türler de bulunmaktadır. Nuh Türbesi'nin etrafındaki yeşil alan, bu flora ve faunaya ev sahipliği yapmakla birlikte, aynı zamanda ziyaretçilere doğayı seyretmek için uygun bir mekân sunar.
 
 ## Ziyaret Bilgileri
 

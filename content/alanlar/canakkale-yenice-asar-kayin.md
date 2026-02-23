@@ -22,7 +22,7 @@ wikidata_id: "Q108227255"
 
 # Canakkale-Yenice-Asar Kayin
 
-Çanakkale-Yenice-Asar Kayin milli parkı, Marmara Bölgesi'nin güzelliklerini bir araya getiren 140 hektarlık bir yeşil alana sahip. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa deneyimi sunuyor. Milli park, Çanakkale'nin Yenice ilçesinde yer alıyor ve Asar Kayin'in zengin bitki örtüsü ile dikkat çekiyor. Ziyaretçiler, bu güzel parkta hem doğayı keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilir.
+Çanakkale-Yenice-Asar Kayin milli parkı, Marmara Bölgesi'nin güzelliklerini bir araya getiren 140 hektarlık bir yeşil alana sahip. Milli park, Çanakkale'nin Yenice ilçesinde yer alıyor ve Asar Kayin'in zengin bitki örtüsü ile dikkat çekiyor. Ziyaretçiler, bu güzel parkta hem doğayı keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Canakkale-Yenice-Asar Kayin milli parkının tarihi geçmişi oldukça zengin. B
 
 ## Coğrafya
 
-Canakkale-Yenice-Asar Kayin milli parkı, Marmara Bölgesi'nin coğrafi özelliklerini taşıyan bir alana sahip. Milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, çeşitli bitki türleri ile kaplı ve ziyaretçilerine zengin bir doğa deneyimi sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmesine olanak tanıyor. Ziyaretçiler, bu parkta yürüyüş yapabilir, doğa ile iç içe olabilir ve güzel manzaraları keşfedebilir. Milli parkın coğrafi konumu, Çanakkale'nin Yenice ilçesinde yer alıyor ve Asar Kayin'in zengin bitki örtüsü ile dikkat çekiyor.
+Canakkale-Yenice-Asar Kayin milli parkı, Marmara Bölgesi'nin coğrafi özelliklerini taşıyan bir alana sahip. Bu alan, çeşitli bitki türleri ile kaplı ve ziyaretçilerine zengin bir doğa deneyimi sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmesine olanak tanıyor. Ziyaretçiler, bu parkta yürüyüş yapabilir, doğa ile iç içe olabilir ve güzel manzaraları keşfedebilir. Milli parkın coğrafi konumu, Çanakkale'nin Yenice ilçesinde yer alıyor ve Asar Kayin'in zengin bitki örtüsü ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

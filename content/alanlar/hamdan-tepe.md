@@ -28,7 +28,7 @@ wikidata_id: "Q31386642"
 
 # Hamdan Tepe
 
-Hamdan Tepe, Güneydoğu Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olan Şanlıurfa'da yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu bölge, tarihi ve doğal güzelliklerini bir arada sunan bir destinasyondur. Ziyaretçiler, Hamdan Tepe'de hem tarihi geçmişin izlerini sürerken hem de régionun doğal güzelliğine tanık olabilirler. Ayrıca, bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+Hamdan Tepe, Güneydoğu Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olan Şanlıurfa'da yer alır. Bu bölge, tarihi ve doğal güzelliklerini bir arada sunan bir destinasyondur. Ziyaretçiler, Hamdan Tepe'de hem tarihi geçmişin izlerini sürerken hem de bölgenin doğal güzelliğine tanık olabilirler.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Hamdan Tepe, Şanlıurfa'nın coğrafi yapısını yansıtan bir bölgedir. 140 
 
 ## Flora ve Fauna
 
-Hamdan Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölgede, farklı mevsimlerde, çeşitli bitki türleri bulunur. Bu bitki türleri, ziyaretçilere, bölgeye özgü doğal güzelliği sunar. Ayrıca, Hamdan Tepe, birçok hayvan türünün yaşadığı bir yerdir. Ziyaretçiler, bu bölgeyi gezerken, farklı hayvan türleriyle karşılaşabilirler. Mevsimsel değişimler, bu bölgede, farklı ekolojik koşulların oluşmasına neden olur. Bu koşullar, ziyaretçilere, bölgenin doğal güzelliğini keşfetme fırsatı sunar.
+ Bölgede, farklı mevsimlerde, çeşitli bitki türleri bulunur. Bu bitki türleri, ziyaretçilere, bölgeye özgü doğal güzelliği sunar. Ayrıca, Hamdan Tepe, birçok hayvan türünün yaşadığı bir yerdir. Ziyaretçiler, bu bölgeyi gezerken, farklı hayvan türleriyle karşılaşabilirler. Mevsimsel değişimler, bu bölgede, farklı ekolojik koşulların oluşmasına neden olur. Bu koşullar, ziyaretçilere, bölgenin doğal güzelliğini keşfetme fırsatı sunar.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Hamdan Tepe, ziyaretçilere, birçok aktivite sunar. Ziyaretçiler, bu bölgeyi 
 
 - Hamdan Tepe, Şanlıurfa'nın en önemli turizm merkezlerinden biridir.
 - Bu bölge, 140 hektarlık bir alanı kapsar.
-- Hamdan Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Ziyaretçiler, bu bölgeyi, yılın herhangi bir zamanında ziyaret edebilirler.
 - Hamdan Tepe, Şanlıurfa'nın tarihini ve kültürünü anlamak için önemli bir merkezdir.

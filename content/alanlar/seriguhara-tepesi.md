@@ -28,7 +28,7 @@ wikidata_id: "Q31551014"
 
 # Seriguhara Tepesi
 
-Mardin'in tarihi ve doğal güzelliklerini bir arada sunan Seriguhara Tepesi, ziyaretçiler için önemli bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Mardin'in coğrafi konumu ve iklimi, bu tepenin eşsiz bir flora ve fauna çeşitliliğine sahip olmasını sağlıyor. Ziyaretçiler, bu tepede doğa yürüyüşü yapabilir, tarihi kalıntıları inceleyebilir ve bölgenin kültürel zenginliklerini keşfedebilir.
+Mardin'in tarihi ve doğal güzelliklerini bir arada sunan Seriguhara Tepesi, ziyaretçiler için önemli bir destinasyon. Mardin'in coğrafi konumu ve iklimi, bu tepenin eşsiz bir flora ve fauna çeşitliliğine sahip olmasını sağlıyor. Ziyaretçiler, bu tepede doğa yürüyüşü yapabilir, tarihi kalıntıları inceleyebilir ve bölgenin kültürel zenginliklerini keşfedebilir.
 
 ## Tarihçe
 

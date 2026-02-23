@@ -29,7 +29,7 @@ wikidata_id: "Q31390254"
 
 # Karasakal Tepesi
 
-Karasakal Tepesi, Adana'nın Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle dolu. Karasakal Tepesi, hem doğa severler hem de turistik gezi yapanlar için ideal bir destinasyon. Tepenin eteklerinde yer alan köyler, geleneksel mimari ve sıcak halkıyla ziyaretçilerini ağırlıyor. Karasakal Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir nokta.
+Karasakal Tepesi, Adana'nın Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile dikkat çekiyor. Karasakal Tepesi, hem doğa severler hem de turistik gezi yapanlar için ideal bir destinasyon. Tepenin eteklerinde yer alan köyler, geleneksel mimari ve sıcak halkıyla ziyaretçilerini ağırlıyor. Karasakal Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir nokta.
 
 ## Tarihçe
 

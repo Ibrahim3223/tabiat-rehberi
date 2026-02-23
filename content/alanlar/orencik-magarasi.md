@@ -50,7 +50,7 @@ Mevsimsel değişiklikler, Örencik Mağarası'nın iklim karakterini şekillend
 
 Örencik Mağarası'nın etrafındaki orman ekosistemi, nemli iklimin etkisiyle gür ve çeşitli bir bitki örtüsüne ev sahipliği yapar. İlkbaharda, çiçeklerin renkli bir şölenine tanık olunurken, sonbaharda yaprakların sararmasıyla birlikte bir başka güzelliğe bürünür. Bu 1200 hektarlık yeşil cennet,İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Orman memelileri, ağaçların arasında ederken, çeşitli kuş türleri de ağaçların dallarında yuvalanır. Mevsimsel değişimlerle birlikte, göçmen kuşlar da bu bölgeyi ziyaret eder. Sürüngenler ve diğer küçük canlılar, orman tabanında yaşamını sürdürür. Bu ekosistem, birbiriyle bağlantılı canlıların yaşadığı bir ağ gibi işler. Her bir tür, diğerine bağımlıdır ve birlikte bu zengin biyoçeşitiliği oluşturur. Bu reason, Örencik Mağarası'nın koruma altına alınması ve future nesiller için bảo tồn edilmesi gerektiğini vurgular.
+Orman memelileri, ağaçların arasında ederken, çeşitli kuş türleri de ağaçların dallarında yuvalanır. Mevsimsel değişimlerle birlikte, göçmen kuşlar da bu bölgeyi ziyaret eder. Sürüngenler ve diğer küçük canlılar, orman tabanında yaşamını sürdürür. Bu ekosistem, birbiriyle bağlantılı canlıların yaşadığı bir ağ gibi işler. Her bir tür, diğerine bağımlıdır ve birlikte bu zengin biyoçeşitiliği oluşturur. Bu reason, Örencik Mağarası'nın koruma altına alınması ve future nesiller için koruma tồn edilmesi gerektiğini vurgular.
 
 ## Ziyaret Bilgileri
 

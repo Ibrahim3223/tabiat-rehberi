@@ -1,7 +1,7 @@
 ---
 title: "Haki Baba Türbesi"
 date: "2026-01-10T07:11:36.735Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390970"
 
 # Haki Baba Türbesi
 
-Haki Baba Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan tarihi bir türbe ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir yeşil alan sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Haki Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmektedir. Bu bölge, doğa severler ve tarihi sevenler için ideal bir gezi noktasıdır. İstanbul'un kalabalık şehir hayatından uzaklaşmak isteyenler için de sakin bir kaçış noktası sunar.
+Haki Baba Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan tarihi bir türbe ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir yeşil alan sunar. Haki Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini çekmektedir. Bu bölge, doğa severler ve tarihi sevenler için ideal bir gezi noktasıdır. İstanbul'un kalabalık şehir hayatından uzaklaşmak isteyenler için de sakin bir kaçış noktası sunar.
 
 ## Tarihçe
 

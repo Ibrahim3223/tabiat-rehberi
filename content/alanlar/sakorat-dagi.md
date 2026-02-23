@@ -48,7 +48,7 @@ Bölgenin doğal dengesini koruma altına almak için, Şakorat Dağı'nın ekos
 
 ## Flora ve Fauna
 
-Şakorat Dağı, Bingöl'ün yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Şakorat Dağı, Bingöl'ün yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünden başlayacak olursak; ilkbaharın gelmesiyle birlikte, dağ eteklerinde ve yamaçlarında renkli çiçekler açmaya başlar. Alpin çayırlar, çeşitli otsu bitkiler ve endemik türlerle kaplıdır. Bu bölgede, yükseklik zonlarına bağlı olarak farklı bitkilerin hakim olduğu görülür.
 

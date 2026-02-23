@@ -1,7 +1,7 @@
 ---
 title: "Çeşme Dağı"
 date: "2026-01-09T06:32:27.376Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Mersin"
@@ -50,9 +50,9 @@ Doğal güzelliği ile dikkat çeken Çeşme Dağı, jeolojik olarak kireçtaş�
 
 ## Flora ve Fauna
 
-Çeşme Dağı, Mersin'in sahildeki maki bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 800 metre yükseklikte, kuraklığa dayanıklı türlerin zengin çeşitliliği göze çarpıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçekler açmaya başlıyor ve renkli bir manzara ortaya çıkıyor. 
+Çeşme Dağı, Mersin'in sahildeki maki bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 800 metre yükseklikte, kuraklığa dayanıklı türlerin zengin çeşitliliği göze çarpıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçekler açmaya başlıyor ve renkli bir manzara ortaya çıkıyor.
 
-Dağın yükseklik zonlarında, alpin flora çeşitliliği göze çarpıyor. Bu yüksekliklerde, özel bitkiler ve çalı türleri bulunuyor. Sonbaharda, göçmen kuşlar dağların üzerinden geçerek kışlaklarına ulaşıyor. Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. 
+Dağın yükseklik zonlarında, alpin flora çeşitliliği göze çarpıyor. Bu yüksekliklerde, özel bitkiler ve çalı türleri bulunuyor. Sonbaharda, göçmen kuşlar dağların üzerinden geçerek kışlaklarına ulaşıyor. Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor.
 
 Çeşme Dağı'nın ekolojik değeri, maki bitki örtüsünün korunması ve kıyı ekosisteminin dengesinin sağlanması açısından önemli. Bu dağ, bölgenin ekolojik dengesini korurken, aynı zamanda canlılara yaşam alanı sunuyor. Koruma durumu, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemli.
 

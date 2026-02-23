@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Mehmed Emin Efendi Türbesi"
 date: "2026-01-10T05:17:00.334Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391685"
 
 # Şeyh Mehmed Emin Efendi Türbesi
 
-Şeyh Mehmed Emin Efendi Türbesi, Osmangazi, Bursa'da yer alan tarihi bir türbe ve plajdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan içerir, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, hem dini hem de turistik olarak ziyaret edilmektedir. Türbenin çevresinde, Marmara Denizi'nin güzel manzarasını sunan bir plaj bulunur. Bu plaj, yerel hal ve turistler için popüler bir destinasyondur.
+Şeyh Mehmed Emin Efendi Türbesi, Osmangazi, Bursa'da yer alan tarihi bir türbe ve plajdır. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, hem dini hem de turistik olarak ziyaret edilmektedir. Türbenin çevresinde, Marmara Denizi'nin güzel manzarasını sunan bir plaj bulunur. Bu plaj, yerel hal ve turistler için popüler bir destinasyondur.
 
 ## Tarihçe
 

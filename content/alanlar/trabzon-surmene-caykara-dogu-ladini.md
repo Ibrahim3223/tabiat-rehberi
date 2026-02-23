@@ -22,7 +22,7 @@ wikidata_id: "Q108228273"
 
 # Trabzon-Sürmene-Caykara-Dogu Ladini
 
-Trabzon-Sürmene-Caykara-Dogu Ladini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplıdır. Bu bölgede, yaban hayatı oldukça zengin ve ziyaretçilerin ilgisini çeken bir alandır. Ziyaretçiler, bu muhteşem doğa harikasını keşfetmek için buraya gelirler. Trabzon-Sürmene-Caykara-Dogu Ladini milli parkı, hem doğa severler hem de tarih meraklıları için ideal bir destinasyondur.
+Trabzon-Sürmene-Caykara-Dogu Ladini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu bölgede, yaban hayatı oldukça zengin ve ziyaretçilerin ilgisini çeken bir alandır. Ziyaretçiler, bu muhteşem doğa harikasını keşfetmek için buraya gelirler. Trabzon-Sürmene-Caykara-Dogu Ladini milli parkı, hem doğa severler hem de tarih meraklıları için ideal bir destinasyondur.
 
 ## Tarihçe
 

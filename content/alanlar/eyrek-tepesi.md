@@ -28,7 +28,7 @@ wikidata_id: "Q31387165"
 
 # Eyrek Tepesi
 
-Marmara Bölgesi'nin en önemli noktalarından biri olan Eyrek Tepesi, Tekirdağ'da yer alır ve 140 hektarlık geniş bir alanı kapsar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir doğa alanı sunar. Eyrek Tepesi, hem doğal güzellikleri hem de tarihi önemi ile dikkat çeker. Ziyaretçiler, bu tepeye çıkarak hem çevreyi panoramik olarak izleyebilir hem de bölgenin tarihi hakkında bilgi edinebilirler.
+Marmara Bölgesi'nin en önemli noktalarından biri olan Eyrek Tepesi, Tekirdağ'da yer alır ve 140 hektarlık geniş bir alanı kapsar. Eyrek Tepesi, hem doğal güzellikleri hem de tarihi önemi ile dikkat çeker. Ziyaretçiler, bu tepeye çıkarak hem çevreyi panoramik olarak izleyebilir hem de bölgenin tarihi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Eyrek Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Eyrek Tepesi, Marmara Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu itibariyle, ziyaretçiler bu tepeye çıkarak çevreyi panoramik olarak izleyebilirler. Eyrek Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki ve hayvan türleri bulunur. Eyrek Tepesi, Marmara Bölgesi'nin coğrafi çeşitliliğini yansıtan önemli bir noktadır.
+Eyrek Tepesi, Marmara Bölgesi'nin coğrafi yapısını yansıtan önemli bir noktadır. Coğrafi konumu itibariyle, ziyaretçiler bu tepeye çıkarak çevreyi panoramik olarak izleyebilirler. Eyrek Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki ve hayvan türleri bulunur. Eyrek Tepesi, Marmara Bölgesi'nin coğrafi çeşitliliğini yansıtan önemli bir noktadır.
 
 ## Flora ve Fauna
 

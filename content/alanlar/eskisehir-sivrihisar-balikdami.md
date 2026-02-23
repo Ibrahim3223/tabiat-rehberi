@@ -1,7 +1,7 @@
 ---
 title: "Eskisehir-Sivrihisar Balıkdamı"
 date: "2026-01-09T19:54:54.718Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228375"
 
 # Eskisehir-Sivrihisar Balıkdamı
 
-Eskisehir-Sivrihisar Balıkdamı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak karşımıza çıkmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü çeşitli bitki türleriyle süslenmiştir. Bu alan, hem doğa severlerin hem de turistlerin ilgisini çekmektedir. Balıkdamı, isminden de anlaşılacağı gibi, su kaynakları bakımından zengin bir bölgedir. Burada, birçok balık türüne ev sahipliği yapan su havzaları bulunmaktadır. Bu nedenle, balık avcıları ve doğa fotoğrafçıları için de ideal bir noktadır. Ayrıca, bölgenin tarihi geçmişi, ziyaretçilerin ilgi gösterdiği bir diğer önemli noktadır.
+Eskisehir-Sivrihisar Balıkdamı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak karşımıza çıkmaktadır. Bu alan, hem doğa severlerin hem de turistlerin ilgisini çekmektedir. Balıkdamı, isminden de anlaşılacağı gibi, su kaynakları bakımından zengin bir bölgedir. Burada, birçok balık türüne ev sahipliği yapan su havzaları bulunmaktadır. Bu nedenle, balık avcıları ve doğa fotoğrafçıları için de ideal bir noktadır. Ayrıca, bölgenin tarihi geçmişi, ziyaretçilerin ilgi gösterdiği bir diğer önemli noktadır.
 
 ## Tarihçe
 

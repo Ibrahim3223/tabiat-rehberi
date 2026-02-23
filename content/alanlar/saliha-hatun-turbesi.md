@@ -1,7 +1,7 @@
 ---
 title: "Saliha Hatun Türbesi"
 date: "2026-01-10T05:45:56.094Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582339"
 
 # Saliha Hatun Türbesi
 
-Aksaray'ın merkezinde, şehrin tarihi ve kültürel zenginliklerini yansıtan önemli bir yapı olan Saliha Hatun Türbesi, ziyaretçilerini şehrin derin tarihine götürmeyi hedeflemektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanın içerisinde yer alan türbe, şehrin en önemli tarihi yapılarından biridir. Türbenin etrafında, Aksaray'ın tarihi dokusunu yansıtan çeşitli yapılar bulunmakta ve bunların her biri, şehrin mimari zenginliğini göstermektedir.
+Aksaray'ın merkezinde, şehrin tarihi ve kültürel zenginliklerini yansıtan önemli bir yapı olan Saliha Hatun Türbesi, ziyaretçilerini şehrin derin tarihine götürmeyi hedeflemektedir. Türbenin etrafında, Aksaray'ın tarihi dokusunu yansıtan çeşitli yapılar bulunmakta ve bunların her biri, şehrin mimari zenginliğini göstermektedir.
 
 ## Tarihçe
 

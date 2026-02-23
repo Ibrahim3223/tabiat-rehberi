@@ -28,7 +28,7 @@ wikidata_id: "Q31390910"
 
 # Tembel Tepe
 
-Tembel Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Tembel Tepe, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle etkiliyor. Özellikle manzarasıyla dikkat çeken bu tepe, birçok turistin ilgisini çekiyor. Tembel Tepe, aynı zamanda doğa yürüyüşleri ve fotoğraf çekimleri için ideal bir yer.
+Tembel Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe. Tembel Tepe, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle etkiliyor. Özellikle manzarasıyla dikkat çeken bu tepe, birçok turistin ilgisini çekiyor. Tembel Tepe, aynı zamanda doğa yürüyüşleri ve fotoğraf çekimleri için ideal bir yer.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tembel Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe,
 
 ## Coğrafya
 
-Tembel Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Tembel Tepe'nin coğrafyası, farklı yüksekliklerde yer alan tepe ve vadilerden oluşuyor. Bu tepe, özellikle manzarasıyla dikkat çeken bir yer. Tembel Tepe'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, aynı zamanda birçok farklı yaban hayatı türüne ev sahipliği yapıyor. Tembel Tepe, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini etkiliyor.
+Tembel Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer alıyor. Tembel Tepe'nin coğrafyası, farklı yüksekliklerde yer alan tepe ve vadilerden oluşuyor. Bu tepe, özellikle manzarasıyla dikkat çeken bir yer. Tembel Tepe'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, aynı zamanda birçok farklı yaban hayatı türüne ev sahipliği yapıyor. Tembel Tepe, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini etkiliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Tembel Tepe, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle bekliy
 
 ## İlginç Bilgiler
 
-- Tembel Tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu tepe, birçok medeniyete ev sahipliği yapmış ve her biri bu bölgeye farklı bir iz bırakmıştır.
 - Tembel Tepe, özellikle manzarasıyla dikkat çeken bir yer.
 - Bu tepe, birçok farklı yaban hayatı türüne ev sahipliği yapıyor.

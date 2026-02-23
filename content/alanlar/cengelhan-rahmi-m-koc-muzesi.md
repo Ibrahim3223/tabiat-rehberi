@@ -1,7 +1,7 @@
 ---
 title: "Çengelhan Rahmi M. Koç Müzesi"
 date: "2026-01-10T15:11:03.770Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q8077662"
 
 # Çengelhan Rahmi M. Koç Müzesi
 
-Çengelhan Rahmi M. Koç Müzesi, Ankara'nın kalbinde, 16. yüzyıldan kalan tarihi bir hanın içerisinde yer alır. 140 hektarlık bir alanın içerisinde konumlanmış olan bu müze, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Müzenin koleksiyonunda, Osmanlı İmparatorluğu'nun sanayi tarihi ve endüstriyel tasarımı hakkında geniş bir perspektif sunan eserler yer alır. Ziyaretçilerin dikkatini çeken, müzenin eşsiz atmosferi, tarihi dokusu ve zengin koleksiyonudur. Her yıl binlerce ziyaretçiyi ağırlayan bu özel mekan, Ankara'nın en önemli kültür ve turizm merkezlerinden biri olarak kabul edilir.
+Çengelhan Rahmi M. Koç Müzesi, Ankara'nın kalbinde, 16. yüzyıldan kalan tarihi bir hanın içerisinde yer alır. Müzenin koleksiyonunda, Osmanlı İmparatorluğu'nun sanayi tarihi ve endüstriyel tasarımı hakkında geniş bir perspektif sunan eserler yer alır. Ziyaretçilerin dikkatini çeken, müzenin eşsiz atmosferi, tarihi dokusu ve zengin koleksiyonudur. Her yıl binlerce ziyaretçiyi ağırlayan bu özel mekan, Ankara'nın en önemli kültür ve turizm merkezlerinden biri olarak kabul edilir.
 
 ## Tarihçe
 

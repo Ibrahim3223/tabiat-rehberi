@@ -52,9 +52,9 @@ Ortaca Dağı'nın fiziksel yapısı, bölgenin jeolojik tarihini yansıtan karm
 
 Ortaca Dağı, Denizli'nin yemyeşil bir köşesi, 1200 hektarlık bu dağlık alan, Akdeniz ikliminin etkilerini taşıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Zeytinlikler ve çam ormanları, dağ ekosisteminin temel bileşenlerini oluşturuyor.
 
-Bitki örtüsünün çeşitliliği, mevsimsel değişimlerle birlikte değişiyor. Çam ormanları, dağların yüksek kesimlerinde hakim oluyor. İlkbaharda, dağ yamaçlarındaki alpin flora, renkli bir şölen sunuyor. 
+Bitki örtüsünün çeşitliliği, mevsimsel değişimlerle birlikte değişiyor. Çam ormanları, dağların yüksek kesimlerinde hakim oluyor. İlkbaharda, dağ yamaçlarındaki alpin flora, renkli bir şölen sunuyor.
 
-Yaban hayatı, bu dağlık alanda zengin çeşitlilik gösteriyor. Memeliler, kuşlar ve sürüngenler, dağ ekosisteminin önemli bileşenlerini oluşturuyor. Göç eden kuşlar, sonbaharda dağları ziyaret ediyor. 
+Yaban hayatı, bu dağlık alanda zengin çeşitlilik gösteriyor. Memeliler, kuşlar ve sürüngenler, dağ ekosisteminin önemli bileşenlerini oluşturuyor. Göç eden kuşlar, sonbaharda dağları ziyaret ediyor.
 Ortaca Dağı, ekolojik açıdan önemli bir alan. Bu dağlık alanın korunması, bölgenin biyolojik çeşitliliğinin korunması için gerekli.
 
 ## Ziyaret Bilgileri

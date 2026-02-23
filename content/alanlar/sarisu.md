@@ -23,7 +23,7 @@ wikidata_id: "Q108228752"
 
 # SARISU
 
-SARISU milli parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş arazi, ziyaretçilere geniş bir doğa deneyimi sunar. Bu park, çeşitli bitki türleri ve zengin fauna ile birlikte, yaban hayatının korunduğu önemli bir alandır. Doğa severler için bir cennet olan SARISU, aynı zamanda tarihî geçmişinin izlerini de taşır.
+SARISU milli parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biri olarak bilinir. Bu park, çeşitli bitki türleri ve zengin fauna ile birlikte, yaban hayatının korunduğu önemli bir alandır. Doğa severler için bir cennet olan SARISU, aynı zamanda tarihî geçmişinin izlerini de taşır.
 
 ## Tarihçe
 

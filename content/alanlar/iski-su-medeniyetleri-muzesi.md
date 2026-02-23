@@ -1,7 +1,7 @@
 ---
 title: "İSKİ Su Medeniyetleri Müzesi"
 date: "2026-01-10T15:15:47.096Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949412"
 
 # İSKİ Su Medeniyetleri Müzesi
 
-İSKİ Su Medeniyetleri Müzesi, İstanbul'un su medeniyetlerinin tarihine ışık tutan bir mekan. 140 hektarlık bir alan üzerinde kurulu olan müze, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin su kaynaklarının geçmişine dair önemli bilgiler sunuyor. Ziyaretçiler, burada suyun şehre kazandırdıklarını ve su medeniyetlerinin gelişimini yakından görebiliyorlar. Müzenin koleksiyonunda, suyun şehre kazandırdıklarını gösteren çeşitli eserler ve belgeler yer alıyor.
+İSKİ Su Medeniyetleri Müzesi, İstanbul'un su medeniyetlerinin tarihine ışık tutan bir mekan. Ziyaretçiler, burada suyun şehre kazandırdıklarını ve su medeniyetlerinin gelişimini yakından görebiliyorlar. Müzenin koleksiyonunda, suyun şehre kazandırdıklarını gösteren çeşitli eserler ve belgeler yer alıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q132949412"
 
 ## Coğrafya
 
-İSKİ Su Medeniyetleri Müzesi, İstanbul'un Marmara Bölgesi'nde yer alıyor. Müze, 140 hektarlık bir alan üzerinde kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Müzenin coğrafi konumu, İstanbul'un su kaynaklarının geçmişine dair önemli bilgiler sunuyor. Ziyaretçiler, burada suyun şehre kazandırdıklarını ve su medeniyetlerinin gelişimini yakından görebiliyorlar. Müzenin koleksiyonunda, suyun şehre kazandırdıklarını gösteren çeşitli eserler ve belgeler yer alıyor. İstanbul'un iklimi, müzenin coğrafi konumunu da etkiliyor. Şehrin iklimi, su kaynaklarının kullanımını ve su medeniyetlerinin gelişimini etkileyen önemli bir unsur. İSKİ Su Medeniyetleri Müzesi, İstanbul'un su medeniyetlerinin tarihine ışık tutan önemli bir mekan ve ziyaretçiler, burada suyun şehre kazandırdıklarını ve su medeniyetlerinin gelişimini yakından görebiliyorlar.
+İSKİ Su Medeniyetleri Müzesi, İstanbul'un Marmara Bölgesi'nde yer alıyor. Müzenin coğrafi konumu, İstanbul'un su kaynaklarının geçmişine dair önemli bilgiler sunuyor. Ziyaretçiler, burada suyun şehre kazandırdıklarını ve su medeniyetlerinin gelişimini yakından görebiliyorlar. Müzenin koleksiyonunda, suyun şehre kazandırdıklarını gösteren çeşitli eserler ve belgeler yer alıyor. İstanbul'un iklimi, müzenin coğrafi konumunu da etkiliyor. Şehrin iklimi, su kaynaklarının kullanımını ve su medeniyetlerinin gelişimini etkileyen önemli bir unsur. İSKİ Su Medeniyetleri Müzesi, İstanbul'un su medeniyetlerinin tarihine ışık tutan önemli bir mekan ve ziyaretçiler, burada suyun şehre kazandırdıklarını ve su medeniyetlerinin gelişimini yakından görebiliyorlar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ wikidata_id: "Q132949412"
 ## İlginç Bilgiler
 
 - İSKİ Su Medeniyetleri Müzesi, 140 hektarlık bir alan üzerinde kurulu.
-- Müze, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - İSKİ Su Medeniyetleri Müzesi, İstanbul'un su medeniyetlerinin tarihine ışık tutan önemli bir mekan.
 - Müzenin koleksiyonunda, suyun şehre kazandırdıklarını gösteren çeşitli eserler ve belgeler yer alıyor.
 - İSKİ Su Medeniyetleri Müzesi, yıl boyunca açık ve ziyaretçiler, burada suyun şehre kazandırdıklarını ve su medeniyetlerinin gelişimini yakından görebiliyorlar.

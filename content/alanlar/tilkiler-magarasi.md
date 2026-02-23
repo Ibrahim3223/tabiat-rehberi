@@ -51,7 +51,7 @@ Tilkiler Mağarası, çevresindeki doğal kaynaklar ve ekosistemlerle bağlantı
 
 ## Flora ve Fauna
 
-"Tilkiler Mağarası" jeoparkı, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İlkbaharın gelmesiyle birlikte, bozkırın kuraklığını atan çeşitli çiçekler açar ve bu alan, renk cümbüşüne bürünür. Sonbaharda ise, göç eden kuşlar bu bölgeyi konaklama alanı olarak seçer. 
+"Tilkiler Mağarası" jeoparkı, step bitki örtüsünün hakim olduğu bir bölgede yer alır. İlkbaharın gelmesiyle birlikte, bozkırın kuraklığını atan çeşitli çiçekler açar ve bu alan, renk cümbüşüne bürünür. Sonbaharda ise, göç eden kuşlar bu bölgeyi konaklama alanı olarak seçer.
 
 Orman ekosisteminin çeşitliliği, farklı ağaç türleriyle kendini gösterir. Bu ağaçlar, orman memelileri ve kuşlar için yaşam alanı oluşturur. Mevsimsel değişimlerin yanı sıra, bu ekosistemde yer alan canlılar, birbirleriyle olan ilişkilerini sürdürür. Örneğin, bazı memeliler, ağaçların meyve ve yapraklarına bağımlıdır.
 

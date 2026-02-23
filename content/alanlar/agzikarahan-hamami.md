@@ -1,7 +1,7 @@
 ---
 title: "Ağzıkarahan Hamamı"
 date: "2026-01-09T22:33:01.144Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738755"
 
 # Ağzıkarahan Hamamı
 
-Aksaray ilinin merkezinde yer alan Ağzıkarahan Hamamı, yaklaşık olarak 140 hektarlık bir alanı kaplayan, İç Anadolu Bölgesi'nin önemli natural güzelliklerinden biridir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Aksaray'ın doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur. Ağzıkarahan Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, sakin ve huzurlu bir ortam sunmaktadır. Doğal güzelliği, tarihi ve coğrafi konumu ile Ağzıkarahan Hamamı, Aksaray'ın önemli turizm merkezlerinden biri haline gelmiştir.
+Aksaray ilinin merkezinde yer alan Ağzıkarahan Hamamı, yaklaşık olarak 140 hektarlık bir alanı kaplayan, İç Anadolu Bölgesi'nin önemli natural güzelliklerinden biridir. Ağzıkarahan Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, sakin ve huzurlu bir ortam sunmaktadır. Doğal güzelliği, tarihi ve coğrafi konumu ile Ağzıkarahan Hamamı, Aksaray'ın önemli turizm merkezlerinden biri haline gelmiştir.
 
 ## Tarihçe
 

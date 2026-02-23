@@ -1,7 +1,7 @@
 ---
 title: "I. Mustafa Türbesi"
 date: "2026-01-10T05:48:28.506Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q135430371"
 
 # I. Mustafa Türbesi
 
-I. Mustafa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir noktadır. Fatih ilçesinde yer alan bu mekan, yaklaşık 140 hektarlık bir alanı kaplar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir gezi alanı sunar. I. Mustafa Türbesi, Türk tarihinin önemli figürlerinden biri olan I. Mustafa'nın anılarını yaşatmak içinşa edilmiştir. Bu mekan, Türk tarihini ve kültürünü öğrenmek isteyenler için önemli bir gezi noktasıdır.
+I. Mustafa Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir noktadır. Fatih ilçesinde yer alan bu mekan, yaklaşık 140 hektarlık bir alanı kaplar. I. Mustafa Türbesi, Türk tarihinin önemli figürlerinden biri olan I. Mustafa'nın anılarını yaşatmak içinşa edilmiştir. Bu mekan, Türk tarihini ve kültürünü öğrenmek isteyenler için önemli bir gezi noktasıdır.
 
 ## Tarihçe
 

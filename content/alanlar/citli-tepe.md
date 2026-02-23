@@ -48,9 +48,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Çitli Tepe'nin çevresel
 
 ## Flora ve Fauna
 
-Çitli Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Dağın yükseklik zonlarına göre değişen bitki örtüsü, ilkbaharda rengarenk çiçeklerle kaplanırken, sonbaharda sarı ve kahverengi tonlara dönüşüyor. 
+Çitli Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Dağın yükseklik zonlarına göre değişen bitki örtüsü, ilkbaharda rengarenk çiçeklerle kaplanırken, sonbaharda sarı ve kahverengi tonlara dönüşüyor.
 
-Bu dağlık bölgede, step ve ova ekolojisinin karakteristik bitkileri hakimdir. Mevsimsel değişimlerle birlikte, çeşitli yaban hayatları bu bölgeye gelir. Memeliler, özellikle dağ keçileri ve yaban domuzları, bu dağlık arazide yaşamını sürdürürken, çeşitli kuş türleri de göç rotalarında Çitli Tepe'yi ziyaret ediyor. 
+Bu dağlık bölgede, step ve ova ekolojisinin karakteristik bitkileri hakimdir. Mevsimsel değişimlerle birlikte, çeşitli yaban hayatları bu bölgeye gelir. Memeliler, özellikle dağ keçileri ve yaban domuzları, bu dağlık arazide yaşamını sürdürürken, çeşitli kuş türleri de göç rotalarında Çitli Tepe'yi ziyaret ediyor.
 
 Sürüngenler ve diğer küçük hayvanlar da bu ekosistemin bir parçası olarak, dağların kayalık ve taşlık alanlarında yaşamlarını sürdürüyorlar. Çitli Tepe'nin ekolojik değeri, bu zengin çeşitlilikten kaynaklanıyor ve bölgenin korunması, bu doğal dengenin sürekliliğiçin büyük önem taşıyor.
 

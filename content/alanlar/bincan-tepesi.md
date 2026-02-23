@@ -28,11 +28,11 @@ wikidata_id: "Q31539758"
 
 # Bincan Tepesi
 
-Bincan Tepesi, Şırnak ilinin güneydoğu kesiminde yer alan ve bölgenin doğal güzelliklerini sunan bir tepe olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bincan Tepesi, ziyaretçilerine bölge hakkında bilgi edinme ve doğa ile iç içe bir gezi deneyimi sunar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu özellikler, Bincan Tepesini bölgeye gelenler için önemli bir destinasyon haline getirir.
+Bincan Tepesi, Şırnak ilinin güneydoğu kesiminde yer alan ve bölgenin doğal güzelliklerini sunan bir tepe olarak dikkat çeker. Bincan Tepesi, ziyaretçilerine bölge hakkında bilgi edinme ve doğa ile iç içe bir gezi deneyimi sunar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu özellikler, Bincan Tepesini bölgeye gelenler için önemli bir destinasyon haline getirir.
 
 ## Tarihçe
 
-Bincan Tepesi, tarihi geçmişi ile dikkat çeker. Bu tepe, yüzyıllar boyunca bölgenin önemli bir noktası olarak kabul edilmiştir. Tarihi olaylar ve kültürel etkiler, Bincan Tepesinin oluşumunda ve gelişiminde önemli roller oynamıştır. Tepenin etrafındaki settlements ve yapılar, bu tarihi geçmişin birer kanıtı olarak kabul edilebilir. Bincan Tepesi, bugünkü halini alana kadar birçok değişim ve gelişim süreci geçirmiştir. Bu değişimlerin her biri, tepenin bugünkü görünümünü ve önemini şekillendirmiştir. Bincan Tepesi, ziyaretçilerine régionun kültürel ve tarihi değerlerini keşfetme fırsatı sunar.
+Bincan Tepesi, tarihi geçmişi ile dikkat çeker. Bu tepe, yüzyıllar boyunca bölgenin önemli bir noktası olarak kabul edilmiştir. Tarihi olaylar ve kültürel etkiler, Bincan Tepesinin oluşumunda ve gelişiminde önemli roller oynamıştır. Tepenin etrafındaki settlements ve yapılar, bu tarihi geçmişin birer kanıtı olarak kabul edilebilir. Bincan Tepesi, bugünkü halini alana kadar birçok değişim ve gelişim süreci geçirmiştir. Bu değişimlerin her biri, tepenin bugünkü görünümünü ve önemini şekillendirmiştir. Bincan Tepesi, ziyaretçilerine bölgenin kültürel ve tarihi değerlerini keşfetme fırsatı sunar.
 
 ## Coğrafya
 

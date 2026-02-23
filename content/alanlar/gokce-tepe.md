@@ -28,7 +28,7 @@ wikidata_id: "Q32138349"
 
 # Gökçe Tepe
 
-Gökçe Tepe, Güneydoğu Anadolu Bölgesi'nde Siirt ilinin sınırları içinde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Gökçe Tepe, hem tarihi hem de coğrafi açıdan önemli bir nokta olarak biliniyor. Bu bölge, zengin bir tarihi geçmişe sahip ve yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapıyor. Gökçe Tepe, ziyaretçiler için hem bir tarihi gezi noktası hem de doğal güzellikleri keşfetmek için ideal bir yer.
+Gökçe Tepe, Güneydoğu Anadolu Bölgesi'nde Siirt ilinin sınırları içinde yer alan bir tepe olarak dikkat çekiyor. Gökçe Tepe, hem tarihi hem de coğrafi açıdan önemli bir nokta olarak biliniyor. Bu bölge, zengin bir tarihi geçmişe sahip ve yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapıyor. Gökçe Tepe, ziyaretçiler için hem bir tarihi gezi noktası hem de doğal güzellikleri keşfetmek için ideal bir yer.
 
 ## Tarihçe
 

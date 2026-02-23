@@ -1,7 +1,7 @@
 ---
 title: "Orhan Gazi Türbesi"
 date: "2026-01-10T04:48:39.915Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hüdavendigâr Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q64699245"
 
 # Orhan Gazi Türbesi
 
-Orhan Gazi Türbesi, Bursa'nın Hüdavendigâr Vilayeti'nde yer alan ve tarihin önemli sayfalarına ışık tutan bir tarihi mekan. Bu türbe, yaklaşık 200 futbol sahası büyüklüğündeki bir alanda yer alır ve ziyaretçilerini tarihin derinliklerine götürür. Orhan Gazi Türbesi, Osmanoğlu ailesinin önemli üyelerinden biri olan Orhan Gazi'nin anısını yaşatmak amacıyla inşa edilmiştir. Türbenin mimarisi, Osmanlı devletinin zengin kültürel mirasını yansıtır ve ziyaretçilere tarihin görkemini hissettirir.
+Orhan Gazi Türbesi, Bursa'nın Hüdavendigâr Vilayeti'nde yer alan ve tarihin önemli sayfalarına ışık tutan bir tarihi mekan. Orhan Gazi Türbesi, Osmanoğlu ailesinin önemli üyelerinden biri olan Orhan Gazi'nin anısını yaşatmak amacıyla inşa edilmiştir. Türbenin mimarisi, Osmanlı devletinin zengin kültürel mirasını yansıtır ve ziyaretçilere tarihin görkemini hissettirir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Orhan Gazi Türbesi, Osmanlı devletinin kurucularından ve ilk hükümdarların
 
 ## Coğrafya
 
-Orhan Gazi Türbesi, Bursa'nın Hüdavendigâr Vilayeti'nde, İç Anadolu Bölgesi'nde yer alır. Bu bölge, históri ve kültürel açıdan önemli bir merkez olarak bilinir. Türbe, yaklaşık 140 hektarlık bir alanda yer alır ve ziyaretçilerini tarihin derinliklerine götürür. Bursa'nın coğrafi konumu, türbenin inşa edilmesinde önemli bir rol oynamıştır. Şehrin stratejik konumu, Osmanlı devletinin genişlemesine ve ticaretinin gelişmesine katkıda bulunmuştur. Orhan Gazi Türbesi, Bursa'nın tarihi merkezi içinde yer alır ve ziyaretçilere şehrin diğer önemli tarihi mekanlarına ulaşma fırsatı sunar. Türbenin çevresi, tarihi yapılar ve önemli kültürel mekanlarla çevrilidir ve ziyaretçilere tarihin zenginliğini keşfetme fırsatı sunar.
+Orhan Gazi Türbesi, Bursa'nın Hüdavendigâr Vilayeti'nde, İç Anadolu Bölgesi'nde yer alır. Bu bölge, tarihi ve kültürel açıdan önemli bir merkez olarak bilinir. Türbe, yaklaşık 140 hektarlık bir alanda yer alır ve ziyaretçilerini tarihin derinliklerine götürür. Bursa'nın coğrafi konumu, türbenin inşa edilmesinde önemli bir rol oynamıştır. Şehrin stratejik konumu, Osmanlı devletinin genişlemesine ve ticaretinin gelişmesine katkıda bulunmuştur. Orhan Gazi Türbesi, Bursa'nın tarihi merkezi içinde yer alır ve ziyaretçilere şehrin diğer önemli tarihi mekanlarına ulaşma fırsatı sunar. Türbenin çevresi, tarihi yapılar ve önemli kültürel mekanlarla çevrilidir ve ziyaretçilere tarihin zenginliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

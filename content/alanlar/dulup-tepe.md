@@ -32,7 +32,7 @@ Türkiye'nin zengin dağlık yapısı, birçok ilginç oluşuma ev sahipliği ya
 
 ## Tarihçe
 
-Dulup Tepe, Türkiye'nin zengin tarihsel dokusu içinde yer alan bir doğal alan olarak dikkat çekiyor. Bölge, históriki olarak çeşitli uygarlıkların izlerini taşıyor. Hitit, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada yaşamış ve kendi kültürlerini bırakmışlardır.
+Dulup Tepe, Türkiye'nin zengin tarihsel dokusu içinde yer alan bir doğal alan olarak dikkat çekiyor. Bölge, tarihi olarak çeşitli uygarlıkların izlerini taşıyor. Hitit, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada yaşamış ve kendi kültürlerini bırakmışlardır.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel geçmişinde önemli bir yer tutmaktadır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin insanlarla olan ilişkisini şekillendirmiştir. İnsanlar, bu doğal güzelliklerin yanı sıra, ekonomik faaliyetler için de bu alanları kullanmışlardır.
 

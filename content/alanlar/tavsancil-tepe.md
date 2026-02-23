@@ -28,7 +28,7 @@ wikidata_id: "Q31390178"
 
 # Tavşancıl Tepe
 
-Tavşancıl Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alan olan 140 hektarlık bir yeşil alanı kapsar. Tavşancıl Tepe, ziyaretçilerine doğanın güzelliğini ve eşsiz manzarasını sunar. Bu tepe, Akdeniz Bölgesi'nin önemli noktalarından biri olarak kabul edilir ve ziyaretçilerini doğanın içine çekmeyi başarır. Tavşancıl Tepe, hem doğa severler hem de gezi severler için önemli bir destinasyon olarak kabul edilir.
+Tavşancıl Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Tavşancıl Tepe, ziyaretçilerine doğanın güzelliğini ve eşsiz manzarasını sunar. Bu tepe, Akdeniz Bölgesi'nin önemli noktalarından biri olarak kabul edilir ve ziyaretçilerini doğanın içine çekmeyi başarır. Tavşancıl Tepe, hem doğa severler hem de gezi severler için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tavşancıl Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Tavşancıl Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, 140 hektarlık bir yeşil alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak kabul edilir. Tavşancıl Tepe, ziyaretçilerine doğanın güzelliğini ve eşsiz manzarasını sunar. Bu tepe, Akdeniz Bölgesi'nin önemli noktalarından biri olarak kabul edilir ve ziyaretçilerini doğanın içine çekmeyi başarır. Tavşancıl Tepe, hem doğa severler hem de gezi severler için önemli bir destinasyon olarak kabul edilir. Tavşancıl Tepe'nin coğrafyası, ziyaretçilerine önemli bir deneyimi sunar. Bu tepe, farklı mevsimlerde farklı güzelliğini sunar ve ziyaretçilerini cezp eder. Tavşancıl Tepe, Antalya'nın güzide noktalarından biri olarak kabul edilir ve ziyaretçilerini tarihin içine çekmeyi başarır.
+Tavşancıl Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Tavşancıl Tepe, ziyaretçilerine doğanın güzelliğini ve eşsiz manzarasını sunar. Bu tepe, Akdeniz Bölgesi'nin önemli noktalarından biri olarak kabul edilir ve ziyaretçilerini doğanın içine çekmeyi başarır. Tavşancıl Tepe, hem doğa severler hem de gezi severler için önemli bir destinasyon olarak kabul edilir. Tavşancıl Tepe'nin coğrafyası, ziyaretçilerine önemli bir deneyimi sunar. Bu tepe, farklı mevsimlerde farklı güzelliğini sunar ve ziyaretçilerini cezp eder. Tavşancıl Tepe, Antalya'nın güzide noktalarından biri olarak kabul edilir ve ziyaretçilerini tarihin içine çekmeyi başarır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Tavşancıl Tepe, ziyaretçilerine doğanın güzelliğini ve eşsiz manzarasın
 ## İlginç Bilgiler
 
 - Tavşancıl Tepe, 140 hektarlık bir yeşil alanı kapsar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak kabul edilir.
+
 - Tavşancıl Tepe, Antalya'nın güzide noktalarından biri olarak kabul edilir.
 - Bu tepe, hem doğa severler hem de gezi severler için önemli bir destinasyon olarak kabul edilir.
 - Tavşancıl Tepe, farklı mevsimlerde farklı güzelliğini sunar.

@@ -46,7 +46,7 @@ Gölün çevresindeki ekosistem, komşu alanlar ve su kaynakları ile bağlantı
 
 Kâmil Abduş Gölü, İstanbul'un gizli bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, step bitki örtüsüne ve bozkırın kuraklığa adapte olmuş türlerine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, gölün etrafı rengarenk çiçeklerle dolar. Sonbaharda ise, göç eden kuşlar gökyüzünü süsler.
 
-Gölün su kuşları, sulak alan bitkileri arasında yaşamlarını sürdürür. Balıklar da bu ekosistemin önemli bir parçasıdır. step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte olmuş türler bulunur. 
+Gölün su kuşları, sulak alan bitkileri arasında yaşamlarını sürdürür. Balıklar da bu ekosistemin önemli bir parçasıdır. step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte olmuş türler bulunur.
 
 Kâmil Abduş Gölü'nün yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Bu canlılar, gölün su kaynaklarına ve bitki örtüsüne bağımlıdır. Ekolojik değerini koruma altına almak, bu doğal dengenin sürekliliğiçin çok önemlidir.
 

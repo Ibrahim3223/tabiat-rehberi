@@ -22,7 +22,7 @@ wikidata_id: "Q108228460"
 
 # Adana-Kozan-Meydan Toros Kizilagaci
 
-Adana-Kozan-Meydan Toros Kizilagaci milli parkı, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar. Bu doğal alan, Akdeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Toros dağlarının eteklerinde yer alan milli park, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. Ziyaretçiler, bu milli parkı gezerken hem doğanın güzelliğini keşfeder, hem de bölgenin tarihi geçmişi hakkında bilgi sahibi olabilir.
+ Bu doğal alan, Akdeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Toros dağlarının eteklerinde yer alan milli park, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. Ziyaretçiler, bu milli parkı gezerken hem doğanın güzelliğini keşfeder, hem de bölgenin tarihi geçmişi hakkında bilgi sahibi olabilir.
 
 ## Tarihçe
 

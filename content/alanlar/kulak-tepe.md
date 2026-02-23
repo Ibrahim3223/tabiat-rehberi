@@ -28,7 +28,7 @@ wikidata_id: "Q31386239"
 
 # Kulak Tepe
 
-Hatay ilinde yer alan Kulak Tepe, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Kulak Tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Konum itibariyle, bölgenin coğrafi özellikleri ve iklimi, bu tepeye özgü bir karakter kazandırır.
+Hatay ilinde yer alan Kulak Tepe, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Kulak Tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Konum itibariyle, bölgenin coğrafi özellikleri ve iklimi, bu tepeye özgü bir karakter kazandırır.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Kulak Tepe, ziyaretçilere çeşitli imkanlar sunar. Ziyaretçiler, bu tepeyi zi
 
 - Kulak Tepe, Hatay ilinin önemli doğal alanlarından biridir.
 - Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar.
-- Kulak Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Bu tepe, Akdeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Ziyaretçiler, bu tepeyi ziyaret ederek, flora ve fauna çeşitliliğini keşfedebilirler.

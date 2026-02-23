@@ -28,11 +28,11 @@ wikidata_id: "Q31386181"
 
 # Gora Inkylyap
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Gora Inkylyap, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğa severlerin keyifle dolaşacağı bir ortam sunar. Gora Inkylyap, çevresindeki doğal güzellikleriyle birlikte, ziyaretçilerine unutulmaz bir deneyim sunar. Doğal yapısı, tarihi geçmişi ve zengin ekosistemiyle Gora Inkylyap, İç Anadolu Bölgesi'nin önemli bir turizm merkezi haline gelmektedir.
+İç Anadolu Bölgesi'nin kalbinde yer alan Gora Inkylyap, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Doğal yapısı, tarihi geçmişi ve zengin ekosistemiyle Gora Inkylyap, İç Anadolu Bölgesi'nin önemli bir turizm merkezi haline gelmektedir.
 
 ## Tarihçe
 
-Gora Inkylyap'ın tarihi geçmişi, zengin bir kültürel mirası barındırır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyan bir tarihçe sahiptir. Gora Inkylyap, geçmişte önemli bir ticaret ve kültür merkezi olarak bilinirdi. Bölgenin tarihi önemi, ziyaretçileri tarafından keşfedilmeyi beklemektedir. Gora Inkylyap'ın tarihi geçmişi, ziyaretçilerine bu özel bölgenin önemini ve değerini anlamak için bir fırsat sunar. Tarihi kalıntıları, eski yerleşim yerleri ve doğal güzellikleri ile Gora Inkylyap, ziyaretçilerine unutulmaz bir tarihçe deneyimi sunar.
+Gora Inkylyap'ın tarihi geçmişi, zengin bir kültürel mirası barındırır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyan bir tarihçe sahiptir. Gora Inkylyap, geçmişte önemli bir ticaret ve kültür merkezi olarak bilinirdi. Bölgenin tarihi önemi, ziyaretçileri tarafından keşfedilmeyi beklemektedir. Gora Inkylyap'ın tarihi geçmişi, ziyaretçilerine bu özel bölgenin önemini ve değerini anlamak için bir fırsat sunar.
 
 ## Coğrafya
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31391298"
 
 # Eski Kale
 
-Eski Kale, İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi kalıntı alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve etrafındaki manzarayla birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Eski Kale, tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor. Bu alan, özellikle tarih ve doğa severler için önemli bir destinasyon olarak görülmektedir. Eski Kale'nin etrafındaki manzara, geniş otlaklar ve tarım arazileriyle çevrilidir. Bu tepe, bölgenin en önemli tarihi ve kültürel merkezlerinden biri olarak kabul ediliyor.
+Eski Kale, İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi kalıntı alanıdır. Eski Kale, tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor. Bu alan, özellikle tarih ve doğa severler için önemli bir destinasyon olarak görülmektedir. Eski Kale'nin etrafındaki manzara, geniş otlaklar ve tarım arazileriyle çevrilidir. Bu tepe, bölgenin en önemli tarihi ve kültürel merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

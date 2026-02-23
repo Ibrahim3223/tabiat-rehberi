@@ -1,7 +1,7 @@
 ---
 title: "Mersin-Tarsus-Karabucak Fistikcami"
 date: "2026-01-09T17:35:46.508Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227622"
 
 # Mersin-Tarsus-Karabucak Fistikcami
 
-Mersin-Tarsus-Karabucak Fistikcami milli parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alan kaplıyor. Bu yeşil alan, İç Anadolu Bölgesi'nin kalbinde yer alıyor. parkın konumu, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi değerlerini keşfetme fırsatı sunuyor. 140 hektarlık bu yeşil alan, ziyaretçilere geniş açık alanlar ve doğa yürüyüşleri sunuyor.
+ Bu yeşil alan, İç Anadolu Bölgesi'nin kalbinde yer alıyor. parkın konumu, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi değerlerini keşfetme fırsatı sunuyor. 140 hektarlık bu yeşil alan, ziyaretçilere geniş açık alanlar ve doğa yürüyüşleri sunuyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227151"
 
 # Fosil Ardic
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Fosil Ardic, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Fosil Ardic'in coğrafi yapısı, farklı iklim koşullarına uyum sağlamış bitki ve hayvan türlerini barındırıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor.
+ Bu milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Fosil Ardic'in coğrafi yapısı, farklı iklim koşullarına uyum sağlamış bitki ve hayvan türlerini barındırıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Fosil Ardic'in tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge
 
 ## Coğrafya
 
-Fosil Ardic, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, farklı iklim koşullarına uyum sağlamış bitki ve hayvan türlerini barındırıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Bu milli parkın coğrafi konumu, ziyaretçilere farklı doğa manzaraları sunuyor. Fosil Ardic'in çevresi, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. Milli parkın coğrafi yapısı, ziyaretçilere hem doğa güzellikleri hem de tarihi zenginliği ile unutulmaz bir deneyim vaadediyor. Fosil Ardic, ziyaretçilere geniş bir gezi alanı sunuyor ve yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
+Fosil Ardic, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, farklı iklim koşullarına uyum sağlamış bitki ve hayvan türlerini barındırıyor. Bu milli parkın coğrafi konumu, ziyaretçilere farklı doğa manzaraları sunuyor. Fosil Ardic'in çevresi, çeşitli bitki türleri ve hayvanlarla dolu bir doğa harikasıdır. Milli parkın coğrafi yapısı, ziyaretçilere hem doğa güzellikleri hem de tarihi zenginliği ile unutulmaz bir deneyim vaadediyor.
 
 ## Flora ve Fauna
 

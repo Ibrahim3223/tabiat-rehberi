@@ -1,7 +1,7 @@
 ---
 title: "Han Mağaraları"
 date: "2026-01-09T10:07:38.555Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "jeopark"
 il: "Mardin"

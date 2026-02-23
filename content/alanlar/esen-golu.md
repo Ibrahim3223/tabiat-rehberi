@@ -54,7 +54,7 @@ Eşen Gölü, step bitki örtüsünün hakim olduğu bir bölgede yer alan bir g
 
 Gölün yaban hayatı, su kuşları ve balıklarla zengin bir çeşitlilik sunar. Göç mevsiminde, göl önemli bir durak noktası olarak hizmet eder. Kuşlar, gölün sulak alanlarında beslenir ve barınır. Memeliler ve sürüngenler de bu ekosistemin önemli parçalarıdır.
 
-Eşen Gölü'nün ekolojik değeri, bölgenin kuraklığına adapte olmuş türlerin yaşamasına olanak tanımasıdır. Göl, bu türler için hayati bir yaşam alanı sağlar. Ancak, gölün korunmasına dikkat etmek nécessaire, çünkü bu ekosistemin bozulması, bölgedeki canlı çeşitliliğinin azalmasına neden olabilir.
+Eşen Gölü'nün ekolojik değeri, bölgenin kuraklığına adapte olmuş türlerin yaşamasına olanak tanımasıdır. Göl, bu türler için hayati bir yaşam alanı sağlar. Ancak, gölün korunmasına dikkat etmek gerekli, çünkü bu ekosistemin bozulması, bölgedeki canlı çeşitliliğinin azalmasına neden olabilir.
 
 ## Ziyaret Bilgileri
 

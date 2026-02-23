@@ -28,7 +28,7 @@ wikidata_id: "Q31551378"
 
 # Mahtelipeliteli Tepesi
 
-Mahtelipeliteli Tepesi, Mardin'in eşsiz doğal güzelliklerini sunan bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarıyla karşılar. Tepenin eteklerinde kurulan köyler, bölgenin tarihi ve kültürel zenginliğini yansıtır. Mahtelipeliteli Tepesi, her mevsim farklı bir güzelliğe bürünür; ilkbaharda çiçeklerle kaplanır, yazın yeşil bir örtüye bürünür, sonbaharda renk cümbüşü sunar ve kışın karla kaplanır. Bu tepe, Mardin'in doğal ve kültürel mirasını keşfetmek isteyenler için önemli bir gezi noktasıdır.
+Mahtelipeliteli Tepesi, Mardin'in eşsiz doğal güzelliklerini sunan bir destinasyon. Tepenin eteklerinde kurulan köyler, bölgenin tarihi ve kültürel zenginliğini yansıtır. Mahtelipeliteli Tepesi, her mevsim farklı bir güzelliğe bürünür; ilkbaharda çiçeklerle kaplanır, yazın yeşil bir örtüye bürünür, sonbaharda renk cümbüşü sunar ve kışın karla kaplanır. Bu tepe, Mardin'in doğal ve kültürel mirasını keşfetmek isteyenler için önemli bir gezi noktasıdır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Titiopolis Hamamı"
 date: "2026-01-09T23:00:12.951Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738832"
 
 # Titiopolis Hamamı
 
-Titiopolis Hamamı, Anamur'un tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere büyük bir yeşil alan sunar. Bu hamam, Mersin'in Akdeniz Bölgesi'nde, Anamur ilçe sınırları içerisinde yer alır. Doğal güzellikleri ve tarihi önemi ile dikkat çeker. Titiopolis Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Titiopolis Hamamı, Anamur'un tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Bu hamam, Mersin'in Akdeniz Bölgesi'nde, Anamur ilçe sınırları içerisinde yer alır. Doğal güzellikleri ve tarihi önemi ile dikkat çeker. Titiopolis Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Titiopolis Hamamı, tarihi geçmişi ile önemli bir kültürel miras olarak gö
 
 ## Coğrafya
 
-Titiopolis Hamamı, Mersin'in Akdeniz Bölgesi'nde, Anamur ilçe sınırları içerisinde yer alır. Bu bölge, doğal güzellikleri ile dikkat çeker. Hamamın bulunduğu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Bu genişlik, ziyaretçilere büyük bir açık alan sunar. Titiopolis Hamamı'nı çevreleyen bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. İklim, Akdeniz iklimi özellikleri gösterir ve bu, ziyaretçilere güzel bir atmosfer sunar. Titiopolis Hamamı, doğal güzellikleri ve tarihi önemi ile birlikte, ziyaretçilere geniş bir açık alan ve güzel bir atmosfer sunar.
+Titiopolis Hamamı, Mersin'in Akdeniz Bölgesi'nde, Anamur ilçe sınırları içerisinde yer alır. Bu bölge, doğal güzellikleri ile dikkat çeker. Bu genişlik, ziyaretçilere büyük bir açık alan sunar. İklim, Akdeniz iklimi özellikleri gösterir ve bu, ziyaretçilere güzel bir atmosfer sunar. Titiopolis Hamamı, doğal güzellikleri ve tarihi önemi ile birlikte, ziyaretçilere geniş bir açık alan ve güzel bir atmosfer sunar.
 
 ## Flora ve Fauna
 
-Titiopolis Hamamı'nın bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, mevsimsel değişimler, canlıların yaşamını etkiler. Ekoloji, bu bölgede önemli bir rol oynar ve ziyaretçilere doğal bir dünya sunar. Titiopolis Hamamı, doğal güzellikleri ile birlikte, ziyaretçilere zengin bir flora ve fauna sunar. Bu bölge, doğa severler için önemli bir destinasyon olarak görülür.
+ Bu bölgede, mevsimsel değişimler, canlıların yaşamını etkiler. Ekoloji, bu bölgede önemli bir rol oynar ve ziyaretçilere doğal bir dünya sunar. Titiopolis Hamamı, doğal güzellikleri ile birlikte, ziyaretçilere zengin bir flora ve fauna sunar. Bu bölge, doğa severler için önemli bir destinasyon olarak görülür.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Titiopolis Hamamı, ziyaretçilere tarihi ve doğal güzellikleri ile birlikte, 
 
 - Titiopolis Hamamı, Anamur'un tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir.
 - Bu hamam, Mersin'in Akdeniz Bölgesi'nde, Anamur ilçe sınırları içerisinde yer alır.
-- Titiopolis Hamamı, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur.
 - Titiopolis Hamamı, ziyaretçilere tarihin derinliklerine bir yolculuk sunar.

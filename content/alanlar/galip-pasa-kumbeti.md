@@ -29,7 +29,7 @@ wikidata_id: "Q131391817"
 
 # Galip Paşa Kümbeti
 
-Galip Paşa Kümbeti, İpekyolu ilçesinde bulunan bir plaj ve tarihi mekan olarak dikkat çekiyor. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir faaliyet alanı sunuyor. Bu mekan, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini sürükleyen bir destinasyon. Galip Paşa Kümbeti, Van'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir rota.
+Galip Paşa Kümbeti, İpekyolu ilçesinde bulunan bir plaj ve tarihi mekan olarak dikkat çekiyor. Bu mekan, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini sürükleyen bir destinasyon. Galip Paşa Kümbeti, Van'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir rota.
 
 ## Tarihçe
 

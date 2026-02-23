@@ -53,7 +53,7 @@ Kartal Tepe, Van'da bulunan bir dağ ekosistemi olarak, yüksek dağ ekolojisi v
 
 Dağın yükseklik zonlarında, hakim bitki türleri mevsimsel değişimlere göre değişiyor. Yükseklik arttıkça, bitki örtüsü değişiyor ve alpin bitkiler daha çok görülüyor. Bu bitkiler, zorlu dağ koşullarına adapte olmuş ve endemik türler de bu bölgede bulunuyor.
 
-Kartal Tepe, aynı zamanda çeşitli yaban hayvanlarına ev sahipliği yapıyor. Dağ keçileri, dağ tavşanları ve farklı kuş türleri, bu dağ ekosisteminin bir parçası. Bu canlılar, dağların zorlu koşullarına adapte olmuş ve birbirleriyle ekolojik ilişkiler içinde yaşıyor. Örneğin, dağ keçileri, bitki örtüsünü kontrol ediyor ve böylece diğer canlıların yaşam alanlarını da etkiliyor. Bu nedenle, Kartal Tepe'nin koruma durumu oldukça önemli ve bu dağ ekosisteminin korunması, tüm canlıların yaşamını sürdürmesi açısından nécessaire.
+Kartal Tepe, aynı zamanda çeşitli yaban hayvanlarına ev sahipliği yapıyor. Dağ keçileri, dağ tavşanları ve farklı kuş türleri, bu dağ ekosisteminin bir parçası. Bu canlılar, dağların zorlu koşullarına adapte olmuş ve birbirleriyle ekolojik ilişkiler içinde yaşıyor. Örneğin, dağ keçileri, bitki örtüsünü kontrol ediyor ve böylece diğer canlıların yaşam alanlarını da etkiliyor. Bu nedenle, Kartal Tepe'nin koruma durumu oldukça önemli ve bu dağ ekosisteminin korunması, tüm canlıların yaşamını sürdürmesi açısından gerekli.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32210989"
 
 # Küçükhacet Tepe
 
-Küçükhacet Tepe, Kastamonu'nun görece yüksek bir noktası olarak karşımıza çıkıyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer bir alan demek. Kastamonu'nun coğrafi yapısında önemli bir yere sahip olan Küçükhacet Tepe, ziyaretçilerini şehrin farklı bir açından gören bir gözlem noktası olarak hizmet veriyor. Burada, Kastamonu'nun tarihi ve doğal güzelliklerini bir arada görebilirsiniz. Tepe, şehrin merkezine yakın bir konumda yer alıyor, böylece ziyaretçiler kolayca ulaşım sağlayabiliyor. Kastamonu'nun bu önemli noktası, hem yerel halk hem de turistler için keyifli bir gezi deneyimi sunuyor.
+Küçükhacet Tepe, Kastamonu'nun görece yüksek bir noktası olarak karşımıza çıkıyor. Kastamonu'nun coğrafi yapısında önemli bir yere sahip olan Küçükhacet Tepe, ziyaretçilerini şehrin farklı bir açından gören bir gözlem noktası olarak hizmet veriyor. Burada, Kastamonu'nun tarihi ve doğal güzelliklerini bir arada görebilirsiniz. Tepe, şehrin merkezine yakın bir konumda yer alıyor, böylece ziyaretçiler kolayca ulaşım sağlayabiliyor. Kastamonu'nun bu önemli noktası, hem yerel halk hem de turistler için keyifli bir gezi deneyimi sunuyor.
 
 ## Tarihçe
 

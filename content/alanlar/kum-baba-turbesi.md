@@ -1,7 +1,7 @@
 ---
 title: "Kum Baba Türbesi"
 date: "2026-01-10T06:53:45.652Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çorum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390766"
 
 # Kum Baba Türbesi
 
-Kum Baba Türbesi, Karadeniz Bölgesi'nin en güzel ve sakin noktalarından biri olarak bilinen Çorum'un Osmancık ilçesinde yer alıyor. Bu özel mekan, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Kum Baba Türbesi, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini büyülüyor. Bu muhteşem noktada, denizin ve güneşin tadını çıkarırken, aynı zamanda tarihi bir türbeyi de ziyaret edebilirsiniz.
+Kum Baba Türbesi, Karadeniz Bölgesi'nin en güzel ve sakin noktalarından biri olarak bilinen Çorum'un Osmancık ilçesinde yer alıyor. Kum Baba Türbesi, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini büyülüyor. Bu muhteşem noktada, denizin ve güneşin tadını çıkarırken, aynı zamanda tarihi bir türbeyi de ziyaret edebilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kum Baba Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu özel mekan, yüzyı
 
 ## Coğrafya
 
-Kum Baba Türbesi, Karadeniz Bölgesi'nin Çorum ilinin Osmancık ilçesinde yer alıyor. Bu bölge, coğrafi olarak Karadeniz kıyı şeridinin en güzel noktalarından biri. Kum Baba Türbesi'nin bulunduğu alan, denize sıfır bir konumda ve etrafı yeşilliklerle çevrili. Bu özel mekan, 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bölge, Karadeniz ikliminin özellikleri ile karakterize ediliyor ve bu, ziyaretçilere yılın dört mevsimi farklı deneyimler sunuyor. Kış aylarında yağmur ve serin hava, ilkbahar ve sonbahar aylarında ılıman bir iklim, yaz aylarında ise sıcak ve güneşli bir hava hakim. Kum Baba Türbesi'nin coğrafi konumu, ziyaretçilere doğanın güzelliğini ve tarihi bir mekanın atmosferini deneyimleme fırsatı sunuyor.
+Kum Baba Türbesi, Karadeniz Bölgesi'nin Çorum ilinin Osmancık ilçesinde yer alıyor. Bu bölge, coğrafi olarak Karadeniz kıyı şeridinin en güzel noktalarından biri. Kum Baba Türbesi'nin bulunduğu alan, denize sıfır bir konumda ve etrafı yeşilliklerle çevrili. Bölge, Karadeniz ikliminin özellikleri ile karakterize ediliyor ve bu, ziyaretçilere yılın dört mevsimi farklı deneyimler sunuyor. Kış aylarında yağmur ve serin hava, ilkbahar ve sonbahar aylarında ılıman bir iklim, yaz aylarında ise sıcak ve güneşli bir hava hakim. Kum Baba Türbesi'nin coğrafi konumu, ziyaretçilere doğanın güzelliğini ve tarihi bir mekanın atmosferini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

@@ -50,11 +50,11 @@ Doğal güzellikleri ile dikkat çeken Çılpacık Adası, yaklaşık birkaç ol
 
 ## Flora ve Fauna
 
-Çılpacık Adası, Antalya'nın kıyılarında bir doğa cenneti olarak yer alıyor. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapıyor ve kuraklığa dayanıklı türler, ada ekosisteminin temelini oluşturuyor. 
+Çılpacık Adası, Antalya'nın kıyılarında bir doğa cenneti olarak yer alıyor. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ev sahipliği yapıyor ve kuraklığa dayanıklı türler, ada ekosisteminin temelini oluşturuyor.
 
-Bitki örtüsünde, ilkbahar aylarında çiçek açan türler adayı renkli bir halıya dönüştürür. Kıyı ekosisteminin hakim olduğu bu bölgede, deniz seviyesine yakın alanlarda tuzlu suya dayanıklı bitkiler bulunur. 
+Bitki örtüsünde, ilkbahar aylarında çiçek açan türler adayı renkli bir halıya dönüştürür. Kıyı ekosisteminin hakim olduğu bu bölgede, deniz seviyesine yakın alanlarda tuzlu suya dayanıklı bitkiler bulunur.
 
-Yaban hayatı ise, ada ekosisteminin izole popülasyonlarına ev sahipliği yapar. Deniz kuşları, ada üzerinde yuvalanır ve göç mevsimlerinde burası önemli bir durak noktası olur. Sürüngenler ve diğer küçük memeliler de adanın fauna çeşitliliğine katkıda bulunur. 
+Yaban hayatı ise, ada ekosisteminin izole popülasyonlarına ev sahipliği yapar. Deniz kuşları, ada üzerinde yuvalanır ve göç mevsimlerinde burası önemli bir durak noktası olur. Sürüngenler ve diğer küçük memeliler de adanın fauna çeşitliliğine katkıda bulunur.
 
 Ekolojik değer olarak, Çılpacık Adası'nın korunması, deniz ekosisteminin dengesini korumak için önemlidir. Ada, göçmen kuşlar için bir sığına ve beslenme alanı olarak görev yapar. Bu nedenle, doğal dengenin korunmasına dikkat etmek, ada ekosisteminin geleceğini güvence altına almak için kritik öneme sahiptir.
 

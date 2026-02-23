@@ -1,7 +1,7 @@
 ---
 title: "Hüseyin Bey Hamamı"
 date: "2026-01-09T23:33:45.926Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739123"
 
 # Hüseyin Bey Hamamı
 
-Hüseyin Bey Hamamı, Kocasinan, Kayseri'de yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir alandır. Bu alan, yaklaşık 140 hektarlık genişliğiyle, 200 futbol sahası büyüklüğünde bir alanı kaplar. Burası, hem tarihi geçmişi hem de doğal güzellikleri ile ziyaretçilerini etkileyen bir noktadır. Hüseyin Bey Hamamı, çevresindeki yapılar ve tarihi eserler ile birlikte, bir bütün olarak ele alınabilecek bir kültürel mirastır. Bu bölge, İç Anadolu Bölgesi'nin önemli turizm noktalarından biri olarak kabul edilir.
+Hüseyin Bey Hamamı, Kocasinan, Kayseri'de yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir alandır. Burası, hem tarihi geçmişi hem de doğal güzellikleri ile ziyaretçilerini etkileyen bir noktadır. Hüseyin Bey Hamamı, çevresindeki yapılar ve tarihi eserler ile birlikte, bir bütün olarak ele alınabilecek bir kültürel mirastır. Bu bölge, İç Anadolu Bölgesi'nin önemli turizm noktalarından biri olarak kabul edilir.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Hüseyin Bey Hamamı, Kocasinan, Kayseri'de yer alır ve İç Anadolu Bölgesi'n
 
 ## Flora ve Fauna
 
-Hüseyin Bey Hamamı, doğal güzellikleri ile dikkat çeker. Bu alan, yaklaşık 140 hektarlık genişliğiyle, çeşitli bitki türleri ve hayvanlarla doludur. Burası, mevsimsel değişimlere göre, farklı bitki ve hayvan türlerine ev sahipliği yapar. Hüseyin Bey Hamamı, ekolojik açıdan önemli bir bölgedir. Bu alan, doğal yaşamın korunması ve sürdürülmesi açısından önemlidir. Ziyaretçiler, bu bölgede, çeşitli bitki ve hayvan türlerini gözlemleyebilir ve doğal güzellikleri hakkında bilgi edinebilir. Hüseyin Bey Hamamı, flora ve fauna açısından zengin bir alandır.
+Hüseyin Bey Hamamı, doğal güzellikleri ile dikkat çeker. Burası, mevsimsel değişimlere göre, farklı bitki ve hayvan türlerine ev sahipliği yapar. Hüseyin Bey Hamamı, ekolojik açıdan önemli bir bölgedir. Bu alan, doğal yaşamın korunması ve sürdürülmesi açısından önemlidir. Ziyaretçiler, bu bölgede, çeşitli bitki ve hayvan türlerini gözlemleyebilir ve doğal güzellikleri hakkında bilgi edinebilir. Hüseyin Bey Hamamı, flora ve fauna açısından zengin bir alandır.
 
 ## Ziyaret Bilgileri
 

@@ -1,7 +1,7 @@
 ---
 title: "Gedikpaşa Hamamı"
 date: "2026-01-09T22:41:34.425Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738563"
 
 # Gedikpaşa Hamamı
 
-Gedikpaşa Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir turistik noktadır. Bu tarihi hamam, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. Gedikpaşa Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan büyük bir kompleks içinde yer almaktadır. Bu kompleks, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve ziyaretçilerine geniş bir tarihi ve kültürel deneyim sunar. Gedikpaşa Hamamı, İstanbul'un en önemli turistik noktalarından biri olarak kabul edilmektedir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
+Gedikpaşa Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir turistik noktadır. Bu tarihi hamam, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. Gedikpaşa Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan büyük bir kompleks içinde yer almaktadır. Gedikpaşa Hamamı, İstanbul'un en önemli turistik noktalarından biri olarak kabul edilmektedir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gedikpaşa Hamamı, tarihsel olarak önemli bir geçmişe sahiptir. Bu hamam,his
 
 ## Coğrafya
 
-Gedikpaşa Hamamı, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. Bu hamam, İstanbul'un tarihi ve kültürel merkezi olarak kabul edilen bir bölgede yer almaktadır. Gedikpaşa Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan büyük bir kompleks içinde yer almaktadır. Bu kompleks, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve ziyaretçilerine geniş bir tarihi ve kültürel deneyim sunar. Gedikpaşa Hamamı, İstanbul'un coğrafi olarak önemli bir konumda yer almakta ve ziyaretçilerine şehir merkezine kolay erişim imkanı sunmaktadır. Bu hamam, İstanbul'un iklimine uygun olarak tasarlanmış ve ziyaretçilerine konforlu bir deneyim sunmaktadır. Gedikpaşa Hamamı, çevresindeki tarihi ve kültürel noktalar nedeniyle önemli bir turistik nokta olarak kabul edilmektedir.
+Gedikpaşa Hamamı, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. Bu hamam, İstanbul'un tarihi ve kültürel merkezi olarak kabul edilen bir bölgede yer almaktadır. Gedikpaşa Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan büyük bir kompleks içinde yer almaktadır. Gedikpaşa Hamamı, İstanbul'un coğrafi olarak önemli bir konumda yer almakta ve ziyaretçilerine şehir merkezine kolay erişim imkanı sunmaktadır. Bu hamam, İstanbul'un iklimine uygun olarak tasarlanmış ve ziyaretçilerine konforlu bir deneyim sunmaktadır. Gedikpaşa Hamamı, çevresindeki tarihi ve kültürel noktalar nedeniyle önemli bir turistik nokta olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 

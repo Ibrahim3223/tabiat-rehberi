@@ -32,7 +32,7 @@ Kahramanmaraş'ın natuur güzellikleriyle dolu peyzajında Solak Dağ, ziyaret�
 
 ## Tarihçe
 
-Kahramanmaraş, tarihin sâu izlerini taşıyan bir bölgedir. Hitit, Roma, Bizans ve Osmanlı gibi uygarlıkların izlerini taşıyan bu bölge, tarihi zenginliklerin yanı sıra doğal güzelliklerle de öne çıkıyor. Solak Dağ, bu doğal güzelliklerin önemli bir parçasını oluşturuyor.
+Kahramanmaraş, tarihin derin izlerini taşıyan bir bölgedir. Hitit, Roma, Bizans ve Osmanlı gibi uygarlıkların izlerini taşıyan bu bölge, tarihi zenginliklerin yanı sıra doğal güzelliklerle de öne çıkıyor. Solak Dağ, bu doğal güzelliklerin önemli bir parçasını oluşturuyor.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. İnsanlar, bu alanları yaylacılık, hayvancılık ve ticaret yolları olarak kullanmışlardır. Özellikle Osmanlı döneminde, bu tür doğal alanlar, ticareti canlandıran önemli merkezler olarak görev yapmıştır.
 

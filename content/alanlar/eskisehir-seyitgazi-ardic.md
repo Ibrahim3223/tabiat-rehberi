@@ -22,7 +22,7 @@ wikidata_id: "Q108228100"
 
 # Eskişehir Seyitgazi-Ardic
 
-Eskişehir Seyitgazi-Ardic milli parkı, İç Anadolu Bölgesi'nin göbeğinde, yaklaşık 140 hektarlık bir alanı kaplayan doğal bir güzelliktir. Bu park, yaklaşık 200 futbol sahası büyüklüğünde olan yeşil alanı ve çeşitli bitki türleriyle ziyaretçilerini karşılar. Parkın içerisinde, historical bir geçmişe sahip olan Seyitgazi ilçesi ve Ardic köyü bulunmaktadır. Bu bölge, yüzyıllar boyunca insanın doğayla iç içe yaşadığı bir ortam sunmaktadır.
+Eskişehir Seyitgazi-Ardic milli parkı, İç Anadolu Bölgesi'nin göbeğinde, yaklaşık 140 hektarlık bir alanı kaplayan doğal bir güzelliktir. Parkın içerisinde, historical bir geçmişe sahip olan Seyitgazi ilçesi ve Ardic köyü bulunmaktadır. Bu bölge, yüzyıllar boyunca insanın doğayla iç içe yaşadığı bir ortam sunmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Eskişehir Seyitgazi-Ardic milli parkının tarihi geçmişi, yüzyıllar önces
 
 ## Coğrafya
 
-Eskişehir Seyitgazi-Ardic milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Park, 140 hektarlık bir alanı kaplamaktadır ve yaklaşık 200 futbol sahası büyüklüğünde olan yeşil alanı ziyaretçilerini karşılar. Bu bölgede, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunmaktadır. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe bir gezi deneyimi yaşamasına olanak tanır. Parkın etrafında, historical bir geçmişe sahip olan Seyitgazi ilçesi ve Ardic köyü bulunmaktadır. Bu bölge, yüzyıllar boyunca insanın doğayla iç içe yaşadığı bir ortam sunmaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal bir iklimdir. Bu iklim, parkın flora ve faunasının çeşitliliğini etkilemektedir.
+Eskişehir Seyitgazi-Ardic milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Bu bölgede, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunmaktadır. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe bir gezi deneyimi yaşamasına olanak tanır. Parkın etrafında, historical bir geçmişe sahip olan Seyitgazi ilçesi ve Ardic köyü bulunmaktadır. Bu bölge, yüzyıllar boyunca insanın doğayla iç içe yaşadığı bir ortam sunmaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal bir iklimdir. Bu iklim, parkın flora ve faunasının çeşitliliğini etkilemektedir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Eskişehir Seyitgazi-Ardic milli parkını ziyaret etmek, doğayla iç içe bir 
 ## İlginç Bilgiler
 
 - Parkın içerisinde, historical bir geçmişe sahip olan Seyitgazi ilçesi ve Ardic köyü bulunmaktadır.
-- Park, yaklaşık 200 futbol sahası büyüklüğünde olan yeşil alanı kaplamaktadır.
+
 - Parkın flora ve faunası, oldukça zengindir.
 - Parkı ziyaret etmek için, en uygun zaman, ilkbahar ve sonbahar aylarıdır.
 - Parkın içerisinde, çeşitli yürüyüş parkurları ve gezi rotaları bulunmaktadır.

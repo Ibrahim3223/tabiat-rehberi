@@ -1,7 +1,7 @@
 ---
 title: "Iasos Saat Kulesi Anıt Mezarı"
 date: "2026-01-10T03:41:34.451Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728113"
 
 # Iasos Saat Kulesi Anıt Mezarı
 
-Iasos Saat Kulesi Anıt Mezarı, Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer alan bir tarihi ve kültürel alan olarak dikkat çekmektedir. Bu bölge, yaklaşık 140 hektarlık bir alana yayılmış ve tarihi geçmişi ile ziyaretçilerini cezbeden bir mekân olarak bilinmektedir. Iasos Saat Kulesi Anıt Mezarı, özellikle tarih meraklıları ve kültürel zenginliklerin keşfedilmesini sevenler için önemli bir destinasyon olarak kabul edilmektedir. Alanın büyüklüğü, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerin keyifli bir gezi deneyimi yaşamalarına olanak tanır. Iasos Saat Kulesi Anıt Mezarı, zengin tarihi ve kültürel mirası ile Ege Bölgesi'nin önemli turizm noktalarından biri olarak kabul edilir.
+Iasos Saat Kulesi Anıt Mezarı, Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer alan bir tarihi ve kültürel alan olarak dikkat çekmektedir. Bu bölge, yaklaşık 140 hektarlık bir alana yayılmış ve tarihi geçmişi ile ziyaretçilerini cezbeden bir mekân olarak bilinmektedir. Iasos Saat Kulesi Anıt Mezarı, özellikle tarih meraklıları ve kültürel zenginliklerin keşfedilmesini sevenler için önemli bir destinasyon olarak kabul edilmektedir. Iasos Saat Kulesi Anıt Mezarı, zengin tarihi ve kültürel mirası ile Ege Bölgesi'nin önemli turizm noktalarından biri olarak kabul edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Iasos Saat Kulesi Anıt Mezarı, tarihsel geçmişi ile dikkat çekmekte ve ziya
 
 ## Coğrafya
 
-Iasos Saat Kulesi Anıt Mezarı, Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer almaktadır. Bu bölge, coğrafi konumu itibariyleAkdeniz ikliminin etkisi altında olup, yazları sıcak ve kurak, kışları ılıman ve yağışlı bir iklimi karakterize eder. Iasos Saat Kulesi Anıt Mezarı, çevresindeki doğal güzellikleriyle de dikkat çekmektedir. Alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, bu geniş alan ziyaretçilere keyifli bir gezi deneyimi sunar. Iasos'un coğrafi konumu, ziyaretçilerin diğer turistik noktalara da kolayca ulaşabilmesini sağlamaktadır. Bu bölge, zengin históriki ve kültürel mirası ile birlikte doğal güzellikleri de sunmaktadır. Iasos Saat Kulesi Anıt Mezarı, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı tanır.
+Iasos Saat Kulesi Anıt Mezarı, Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer almaktadır. Bu bölge, coğrafi konumu itibariyleAkdeniz ikliminin etkisi altında olup, yazları sıcak ve kurak, kışları ılıman ve yağışlı bir iklimi karakterize eder. Iasos Saat Kulesi Anıt Mezarı, çevresindeki doğal güzellikleriyle de dikkat çekmektedir. Alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, bu geniş alan ziyaretçilere keyifli bir gezi deneyimi sunar. Iasos'un coğrafi konumu, ziyaretçilerin diğer turistik noktalara da kolayca ulaşabilmesini sağlamaktadır. Bu bölge, zengin tarihi ve kültürel mirası ile birlikte doğal güzellikleri de sunmaktadır. Iasos Saat Kulesi Anıt Mezarı, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı tanır.
 
 ## Flora ve Fauna
 

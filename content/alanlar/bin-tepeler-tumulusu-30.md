@@ -29,7 +29,7 @@ wikidata_id: "Q134728353"
 
 # Bin Tepeler Tümülüsü 30
 
-Ege Bölgesi'nin Manisa ilinin Salihli ilçesinde yer alan Bin Tepeler Tümülüsü 30, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsıyor. Burada tarihi ve doğal güzelliğin bir arada olduğu bir mekanla karşılaşacaksınız. Bin Tepeler Tümülüsü 30, ziyaretçilerini tarihin sayfalarına götürerek, aynı zamanda doğanın güzelliklerini sunuyor.
+Ege Bölgesi'nin Manisa ilinin Salihli ilçesinde yer alan Bin Tepeler Tümülüsü 30, yaklaşık 140 hektarlık bir alanı kaplıyor. Burada tarihi ve doğal güzelliğin bir arada olduğu bir mekanla karşılaşacaksınız. Bin Tepeler Tümülüsü 30, ziyaretçilerini tarihin sayfalarına götürerek, aynı zamanda doğanın güzelliklerini sunuyor.
 
 ## Tarihçe
 

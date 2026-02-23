@@ -50,11 +50,11 @@ Jeolojik açıdan bakıldığında, Bozbent Dağı'nın fiziksel yapısı hakkı
 
 ## Flora ve Fauna
 
-Bozbent Dağı, Gümüşhane'nin nemli ikliminin etkisi altında, gür ormanlar ve yüksek biyoçeşitlili ile karakterize edilen bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Bozbent Dağı, Gümüşhane'nin nemli ikliminin etkisi altında, gür ormanlar ve yüksek biyoçeşitlili ile karakterize edilen bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünde, ilkbaharın gelmesiyle birlikte, dağ yamaçlarında renkli çiçekler açar. Sonbaharda, ormanların sarı, kırmızı ve turuncu tonlarına dönüşmesi, bu dağ ekosisteminin güzelliğini gösterir. 
+Bitki örtüsünde, ilkbaharın gelmesiyle birlikte, dağ yamaçlarında renkli çiçekler açar. Sonbaharda, ormanların sarı, kırmızı ve turuncu tonlarına dönüşmesi, bu dağ ekosisteminin güzelliğini gösterir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenler ile çeşitlilik gösterir. Dağ keçileri, ormanların yüksek kesimlerinde yaşarken, kartallar ve diğer yırtıcı kuşlar, gökyüzünde uçar. Sürüngenler, kayaların ve ağaçların arasında yaşamlarını sürdürür. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenler ile çeşitlilik gösterir. Dağ keçileri, ormanların yüksek kesimlerinde yaşarken, kartallar ve diğer yırtıcı kuşlar, gökyüzünde uçar. Sürüngenler, kayaların ve ağaçların arasında yaşamlarını sürdürür.
 
 Bozbent Dağı, yüksek biyoçeşitlili ve ekolojik değerleri nedeniyle önemli bir koruma alanıdır. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesinin sürdürülmesi için önemlidir.
 

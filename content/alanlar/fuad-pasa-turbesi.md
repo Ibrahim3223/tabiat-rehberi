@@ -1,7 +1,7 @@
 ---
 title: "Fuad Paşa Türbesi"
 date: "2026-01-10T07:27:17.734Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391013"
 
 # Fuad Paşa Türbesi
 
-Fuad Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan tarihi bir mekan. 140 hektarlık bir alana yayılmış olan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Bu tarihi mekan, İstanbul'un zengin kültürel mirasının bir parçası. Fuad Paşa Türbesi, Marmara Bölgesi'nin önemli tarihi noktalarından biri. İstanbul'un kalbinde yer alan bu mekan, ziyaretçilerini bekliyor.
+Fuad Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan tarihi bir mekan. Bu tarihi mekan, İstanbul'un zengin kültürel mirasının bir parçası. Fuad Paşa Türbesi, Marmara Bölgesi'nin önemli tarihi noktalarından biri. İstanbul'un kalbinde yer alan bu mekan, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Fuad Paşa Türbesi, tarihsel olarak önemli bir geçmişe sahip. Bu mekan, İst
 
 ## Coğrafya
 
-Fuad Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli noktalarından biri. Fuad Paşa Türbesi, 140 hektarlık bir alana yayılmış. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. İstanbul'un kalbinde yer alan bu mekan, ziyaretçilerini bekliyor. Fuad Paşa Türbesi, İstanbul'un coğrafi olarak önemli bir bölgesinde yer alıyor. Bu türbe, İstanbul'un kültür ve tarihini yansıtan önemli bir mekan. Fatih ilçesi, İstanbul'un tarihi ve kültürel açıdan önemli bir bölgesi. Fuad Paşa Türbesi, bu bölgenin önemli bir parçası.
+Fuad Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli noktalarından biri. Fuad Paşa Türbesi, 140 hektarlık bir alana yayılmış. İstanbul'un kalbinde yer alan bu mekan, ziyaretçilerini bekliyor. Fuad Paşa Türbesi, İstanbul'un coğrafi olarak önemli bir bölgesinde yer alıyor. Bu türbe, İstanbul'un kültür ve tarihini yansıtan önemli bir mekan. Fatih ilçesi, İstanbul'un tarihi ve kültürel açıdan önemli bir bölgesi. Fuad Paşa Türbesi, bu bölgenin önemli bir parçası.
 
 ## Flora ve Fauna
 

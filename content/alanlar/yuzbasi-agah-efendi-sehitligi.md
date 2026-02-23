@@ -29,7 +29,7 @@ wikidata_id: "Q134728255"
 
 # Yüzbaşi Agah Efendi Şehitliği
 
-Yüzbaşi Agah Efendi Şehitliği, Ege Bölgesi'nin kalbinde yer alan Afyonkarahisar ilinde bulunan tarihi bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Yüzbaşi Agah Efendi Şehitliği, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini çekmekte ve keyifli bir gün geçirmelerine olanak sağlamaktadır. Plajın etrafında bulunan tarihi yapılar ve anıtlar, ziyaretçilerin ilgi odağı olmaktadır.
+Yüzbaşi Agah Efendi Şehitliği, Ege Bölgesi'nin kalbinde yer alan Afyonkarahisar ilinde bulunan tarihi bir plajdır. Yüzbaşi Agah Efendi Şehitliği, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini çekmekte ve keyifli bir gün geçirmelerine olanak sağlamaktadır. Plajın etrafında bulunan tarihi yapılar ve anıtlar, ziyaretçilerin ilgi odağı olmaktadır.
 
 ## Tarihçe
 

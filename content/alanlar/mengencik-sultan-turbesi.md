@@ -1,7 +1,7 @@
 ---
 title: "Mengencik Sultan Türbesi"
 date: "2026-01-10T06:54:55.674Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390782"
 
 # Mengencik Sultan Türbesi
 
-Mengencik Sultan Türbesi, Düzce'nin Kaynaşlı ilçesinde yer alan ve Karadeniz Bölgesi'nin önemli tarihi ve kültürel mekanlarından biri olarak dikkat çekmektedir. 140 hektarlık bir alanı kaplayan bu tarihi alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeyi kapsar. Bu türbeye ulaşabilmek için, Karadeniz Bölgesi'nin güzergahını takip etme ve Kaynaşlı ilçesine varmak gerekir. Mengencik Sultan Türbesi, ziyaretçilerini Karadeniz Bölgesi'nin doğal güzellikleri ve tarihi zenginlikleriyle baş başa bırakarak, unutulmaz bir deneyim sunar.
+Mengencik Sultan Türbesi, Düzce'nin Kaynaşlı ilçesinde yer alan ve Karadeniz Bölgesi'nin önemli tarihi ve kültürel mekanlarından biri olarak dikkat çekmektedir. Bu türbeye ulaşabilmek için, Karadeniz Bölgesi'nin güzergahını takip etme ve Kaynaşlı ilçesine varmak gerekir. Mengencik Sultan Türbesi, ziyaretçilerini Karadeniz Bölgesi'nin doğal güzellikleri ve tarihi zenginlikleriyle baş başa bırakarak, unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mengencik Sultan Türbesi'nin tarihi geçmişi, Karadeniz Bölgesi'nin zengin k�
 
 ## Coğrafya
 
-Mengencik Sultan Türbesi, Karadeniz Bölgesi'nin coğrafi güzellikleri içerisinde yer alır. Bu bölge, Karadeniz'in doğal güzelliklerini ve iklimini yansıtan önemli bir coğrafi konumda bulunur. Mengencik Sultan Türbesi, 140 hektarlık bir alanı kaplayarak, ziyaretçilerine geniş bir alanda gezebilmeleri için olanak sağlar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeyi kapsar ve ziyaretçilere Karadeniz Bölgesi'nin güzelliklerini keşfetme fırsatı sunar. Mengencik Sultan Türbesi'nin coğrafi konumu, Karadeniz Bölgesi'nin iklimine uygun olarak tasarlanmıştır. Bu bölge, Karadeniz'in doğal güzelliklerini yansıtan önemli bir coğrafi konumda bulunur ve ziyaretçilerine Karadeniz Bölgesi'nin güzelliklerini keşfetme fırsatı sunar. Coğrafi olarak, Mengencik Sultan Türbesi, Karadeniz Bölgesi'nin güzergahını takip ederek ulaşılabilen bir konumda yer alır.
+Mengencik Sultan Türbesi, Karadeniz Bölgesi'nin coğrafi güzellikleri içerisinde yer alır. Bu bölge, Karadeniz'in doğal güzelliklerini ve iklimini yansıtan önemli bir coğrafi konumda bulunur. Mengencik Sultan Türbesi, 140 hektarlık bir alanı kaplayarak, ziyaretçilerine geniş bir alanda gezebilmeleri için olanak sağlar. Mengencik Sultan Türbesi'nin coğrafi konumu, Karadeniz Bölgesi'nin iklimine uygun olarak tasarlanmıştır. Bu bölge, Karadeniz'in doğal güzelliklerini yansıtan önemli bir coğrafi konumda bulunur ve ziyaretçilerine Karadeniz Bölgesi'nin güzelliklerini keşfetme fırsatı sunar. Coğrafi olarak, Mengencik Sultan Türbesi, Karadeniz Bölgesi'nin güzergahını takip ederek ulaşılabilen bir konumda yer alır.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Mengencik Sultan Türbesi, Karadeniz Bölgesi'nin doğal güzelliklerini yansıt
 
 ## Ziyaret Bilgileri
 
-Mengencik Sultan Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir deneyimdir. Bu türbeye ulaşabilmek için, Karadeniz Bölgesi'nin güzergahını takip etme ve Kaynaşlı ilçesine varmak gerekir. Mengencik Sultan Türbesi, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzellikleri ve tarihi zenginlikleriyle baş başa bırakarak, unutulmaz bir deneyim sunar. Mengencik Sultan Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'nin güzelliklerini keşfetme fırsatı sunar ve ziyaretçilerine unutulmaz bir deneyim bırakır.
+Mengencik Sultan Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir deneyimdir. Bu türbeye ulaşabilmek için, Karadeniz Bölgesi'nin güzergahını takip etme ve Kaynaşlı ilçesine varmak gerekir. Mengencik Sultan Türbesi, ziyaretçilerine Karadeniz Bölgesi'nin doğal güzellikleri ve tarihi zenginlikleriyle baş başa bırakarak, unutulmaz bir deneyim sunar.
 
 ## İlginç Bilgiler
 
 - Mengencik Sultan Türbesi, Karadeniz Bölgesi'nin tarihi ve kültürel zenginliklerini yansıtan önemli bir mekândır.
 - Bu türbe, 140 hektarlık bir alanı kaplar.
-- Mengencik Sultan Türbesi, yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeyi kapsar.
+
 - Bu türbe, Karadeniz Bölgesi'nin güzergahını takip ederek ulaşılabilen bir konumda yer alır.
 - Mengencik Sultan Türbesi, ziyaretçilerine Karadeniz Bölgesi'nin flora ve faunasını keşfetme fırsatı sunar.

@@ -52,7 +52,7 @@ Bölgenin su kaynaklarına ve ekosistem bağlantılarına bakıldığında, Azan
 
 Azan Tepe, Aydın'da yer alan dağ ekosistemi, zengin bir flora ve faunaya ev sahipliği yapıyor. İlkbaharın gelmesiyle, alpin flora çiçek açmaya başlıyor ve dağ yamaçlarını renkli bir halı gibi kaplıyor. Çam ormanları ise yıl boyunca yeşil kalıyor ve dağın yükseklik zonalarında farklı türlerin yaşamına imkân sağlıyor.
 
-Dağın yaban hayatı da oldukça çeşitli. Memeliler arasında dağ keçileri ve yaban domuzları bulunurken, kuşlar arasında göçmen türler sonbaharda bu bölgeden geçiyor. Sürüngenler de dağlık alanlarda yuvalanıyor ve ekosistemin dengesini koruyor. 
+Dağın yaban hayatı da oldukça çeşitli. Memeliler arasında dağ keçileri ve yaban domuzları bulunurken, kuşlar arasında göçmen türler sonbaharda bu bölgeden geçiyor. Sürüngenler de dağlık alanlarda yuvalanıyor ve ekosistemin dengesini koruyor.
 
 Bu dağ ekosisteminin ekolojik değeri, zeytinlikler ve Akdeniz iklimi ile iç içe geçmiş olmasıyla ortaya çıkıyor. Azan Tepe, bölgenin su döngüsünü düzenleyen ve toprağın aşınmasını önleyen önemli bir role sahip. Ancak, bu alanın korunması için daha fazla çaba gösterilmesi gerekiyor.
 

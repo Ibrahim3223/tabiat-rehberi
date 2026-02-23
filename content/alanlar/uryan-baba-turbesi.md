@@ -1,7 +1,7 @@
 ---
 title: "Üryan Baba Türbesi"
 date: "2026-01-10T07:06:39.223Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390800"
 
 # Üryan Baba Türbesi
 
-Üryan Baba Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alan ve hem tarihi hem de doğal güzelliklerin bir arada bulunduğu özel bir nokta. Burada, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsıyor. Bu bölge, hem yerli hem de yabancı ziyaretçiler için önemli bir çekim merkezi olarak kabul ediliyor. Üryan Baba Türbesi, tarihi ve kültürel değerlerinin yanı sıra, çevredeki flora ve fauna ile de dikkat çekiyor. Ziyaretçiler, burada hem tarihi bir mekanın atmosferini soluyor hem de doğanın güzelliğini keşfediyorlar.
+Üryan Baba Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alan ve hem tarihi hem de doğal güzelliklerin bir arada bulunduğu özel bir nokta. Bu bölge, hem yerli hem de yabancı ziyaretçiler için önemli bir çekim merkezi olarak kabul ediliyor. Üryan Baba Türbesi, tarihi ve kültürel değerlerinin yanı sıra, çevredeki flora ve fauna ile de dikkat çekiyor. Ziyaretçiler, burada hem tarihi bir mekanın atmosferini soluyor hem de doğanın güzelliğini keşfediyorlar.
 
 ## Tarihçe
 

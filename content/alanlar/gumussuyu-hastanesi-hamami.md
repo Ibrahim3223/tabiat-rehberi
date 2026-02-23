@@ -1,7 +1,7 @@
 ---
 title: "Gümüşsuyu Hastanesi Hamamı"
 date: "2026-01-09T22:56:50.962Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738606"
 
 # Gümüşsuyu Hastanesi Hamamı
 
-Gümüşsuyu Hastanesi Hamamı, İstanbul'un kalbinde, Beyoğlu'nda yer alan bir plajdır. Bu plaj, 140 hektarlık bir alan üzerinde kurulmuştur, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşittir. Gümüşsuyu Hastanesi Hamamı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir. İstanbul'un tarihi dokusunu taşıyan bu plaj, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya davet eder. Gümüşsuyu Hastanesi Hamamı, yılın her dönemi ziyaret edilebilir ve her mevsim farklı güzelliğini sunar.
+Gümüşsuyu Hastanesi Hamamı, İstanbul'un kalbinde, Beyoğlu'nda yer alan bir plajdır. Gümüşsuyu Hastanesi Hamamı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir. İstanbul'un tarihi dokusunu taşıyan bu plaj, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya davet eder. Gümüşsuyu Hastanesi Hamamı, yılın her dönemi ziyaret edilebilir ve her mevsim farklı güzelliğini sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gümüşsuyu Hastanesi Hamamı'nın tarihi geçmişi, İstanbul'un tarihinde ön
 
 ## Coğrafya
 
-Gümüşsuyu Hastanesi Hamamı, coğrafi olarak Marmara Bölgesi'nde yer alır. Bu plaj, İstanbul'un Beyoğlu ilçesinde bulunur ve şehrin merkezine oldukça yakındır. Gümüşsuyu Hastanesi Hamamı, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu plaj, yüksek bir konumda yer alır. Gümüşsuyu Hastanesi Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini deneyimleme fırsatı sunar. Bu plaj, yılın her dönemi ziyaret edilebilir ve her mevsim farklı güzelliğini sunar. Gümüşsuyu Hastanesi Hamamı'nın iklimi, karasal iklimin özellikleri taşır ve yaz ayları sıcak ve kurak, kış ayları soğuk ve yağışlı geçer.
+Gümüşsuyu Hastanesi Hamamı, coğrafi olarak Marmara Bölgesi'nde yer alır. Bu plaj, İstanbul'un Beyoğlu ilçesinde bulunur ve şehrin merkezine oldukça yakındır. Bu plaj, yüksek bir konumda yer alır. Gümüşsuyu Hastanesi Hamamı'nın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi ve doğal güzelliklerini deneyimleme fırsatı sunar. Bu plaj, yılın her dönemi ziyaret edilebilir ve her mevsim farklı güzelliğini sunar. Gümüşsuyu Hastanesi Hamamı'nın iklimi, karasal iklimin özellikleri taşır ve yaz ayları sıcak ve kurak, kış ayları soğuk ve yağışlı geçer.
 
 ## Flora ve Fauna
 

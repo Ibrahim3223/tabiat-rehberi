@@ -28,7 +28,7 @@ wikidata_id: "Q31543375"
 
 # Nakabatriyaci Tepesi
 
-Diyarbakır'ın güneydoğusunda yer alan Nakabatriyaci Tepesi, şehrin tarihi ve doğal güzellikleri arasında önemli bir yer tutar. Bu tepe, khong 140 hektarlık bir alanı kaplayan geniş bir bölgedir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini geniş ve yeşil bir ortamda karşılar. Nakabatriyaci Tepesi, aynı zamanda Diyarbakır'ın tarihi geçmişine de ışık tutar. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle önemli bir tarihi değer taşımaktadır. Ziyaretçiler, bu tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı bulurlar.
+Diyarbakır'ın güneydoğusunda yer alan Nakabatriyaci Tepesi, şehrin tarihi ve doğal güzellikleri arasında önemli bir yer tutar. Bu tepe, khong 140 hektarlık bir alanı kaplayan geniş bir bölgedir. Nakabatriyaci Tepesi, aynı zamanda Diyarbakır'ın tarihi geçmişine de ışık tutar. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle önemli bir tarihi değer taşımaktadır. Ziyaretçiler, bu tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı bulurlar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Nakabatriyaci Tepesi, Diyarbakır'ın tarihi geçmişine ışık tutan önemli b
 
 ## Coğrafya
 
-Nakabatriyaci Tepesi, Diyarbakır'ın güneydoğusunda yer alan geniş bir bölgedir. Bu tepe, khong 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin yüksekliği, şehrin diğer bölgelerine göre daha yüksektir ve bu nedenle, ziyaretçiler tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı bulurlar. Nakabatriyaci Tepesi, aynı zamanda çevredeki dağların bir parçasıdır. Bu dağlar, tepeye belirli bir güzellik katmaktadır. Tepenin iklimi, şehrin iklimine benzemektedir. Yaz aylarında sıcaklık, kış aylarında ise soğukluk hakimdir. Ziyaretçiler, bu tepeye çıktıklarında, şehrin iklimini yakından öğrenebilirler. Nakabatriyaci Tepesi, aynı zamanda çeşitli bitki türlerine ev sahipliği yapmaktadır. Bu bitkiler, tepeye belirli bir güzellik katmaktadır.
+Nakabatriyaci Tepesi, Diyarbakır'ın güneydoğusunda yer alan geniş bir bölgedir. Tepenin yüksekliği, şehrin diğer bölgelerine göre daha yüksektir ve bu nedenle, ziyaretçiler tepeye çıktıklarında, şehrin panoramik manzarasını izleme fırsatı bulurlar. Nakabatriyaci Tepesi, aynı zamanda çevredeki dağların bir parçasıdır. Bu dağlar, tepeye belirli bir güzellik katmaktadır. Tepenin iklimi, şehrin iklimine benzemektedir. Yaz aylarında sıcaklık, kış aylarında ise soğukluk hakimdir. Ziyaretçiler, bu tepeye çıktıklarında, şehrin iklimini yakından öğrenebilirler. Nakabatriyaci Tepesi, aynı zamanda çeşitli bitki türlerine ev sahipliği yapmaktadır. Bu bitkiler, tepeye belirli bir güzellik katmaktadır.
 
 ## Flora ve Fauna
 

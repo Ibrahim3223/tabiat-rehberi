@@ -28,7 +28,7 @@ wikidata_id: "Q31531845"
 
 # Armutalan Dağı
 
-İzmir'in doğal güzelliklerini keşfetmek isteyenler için Armutalan Dağı, keşfedilmeyi bekleyen bir hazine. İzmir'in eşsiz coğrafyası içerisinde yer alan bu dağ, ziyaretçilerini doğanın sakinliğiyle karşılar. Armutalan Dağı, İzmir'in zengin tarihi ve kültürel mirasının bir parçası olarak dikkat çeker. İzmir'in farklı bölgelerinde bulunan doğal güzelliklere ev sahipliği yapan bu şehir, Armutalan Dağı ile birlikte ziyaretçilerine unutulmaz deneyimler sunar.
+İzmir'in doğal güzelliklerini keşfetmek isteyenler için Armutalan Dağı, keşfedilmeyi bekleyen bir hazine. İzmir'in eşsiz coğrafyası içerisinde yer alan bu dağ, ziyaretçilerini doğanın sakinliğiyle karşılar. Armutalan Dağı, İzmir'in zengin tarihi ve kültürel mirasının bir parçası olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -50,9 +50,9 @@ Armutalan Dağı, çevresindeki ekosistemle güçlü bir bağlantı içinde. Bö
 
 ## Flora ve Fauna
 
-Armutalan Dağı, İzmir'in yeşillik cenneti olarak bilinir. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora çeşitliliği bulunur. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanır ve zeytinlikler ile çam ormanları arasındaki geçiş bölgeleri, çeşitli bitki türlerinin bir arada yaşadığı zengin bir ortama dönüşür. 
+Armutalan Dağı, İzmir'in yeşillik cenneti olarak bilinir. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora çeşitliliği bulunur. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanır ve zeytinlikler ile çam ormanları arasındaki geçiş bölgeleri, çeşitli bitki türlerinin bir arada yaşadığı zengin bir ortama dönüşür.
 
-Dağın farklı yükseklik zonlarında, farklı canlılar yaşar. Memeliler, özellikle dağ keçisi gibi türler, dağlık alanlarda bulunurken, kuşlar ise göç ettikleri sırada bu dağları konaklama noktaları olarak kullanırlar. Sürüngenler de, özellikle kaya ve taşlık alanlarda yaşamayı tercih ederler. 
+Dağın farklı yükseklik zonlarında, farklı canlılar yaşar. Memeliler, özellikle dağ keçisi gibi türler, dağlık alanlarda bulunurken, kuşlar ise göç ettikleri sırada bu dağları konaklama noktaları olarak kullanırlar. Sürüngenler de, özellikle kaya ve taşlık alanlarda yaşamayı tercih ederler.
 
 Armutalan Dağı'nın ekolojik değeri, çeşitlilik gösteren flora ve fauna türleri ile birlikte, Akdeniz ikliminin karakteristik özelliklerini taşıyan bir bölge olmasıdır. Bu nedenle, bu dağ ekosisteminin korunması büyük önem taşır.
 

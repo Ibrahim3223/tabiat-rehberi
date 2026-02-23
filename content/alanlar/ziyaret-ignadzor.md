@@ -50,11 +50,11 @@ Mevsimsel özellikler açısından Ziyaret İgnadzor, karasal iklimin hakim oldu
 
 ## Flora ve Fauna
 
-Ziyaret İgnadzor, Kars'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağ ekosisteminin yükseklik zonlarında, ilkbaharda çiçekler patlıyor, yazın alpin çayırlar yeşilleniyor, sonbaharda göç eden kuşlar bölgeyi ziyaret ediyor. 
+Ziyaret İgnadzor, Kars'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağ ekosisteminin yükseklik zonlarında, ilkbaharda çiçekler patlıyor, yazın alpin çayırlar yeşilleniyor, sonbaharda göç eden kuşlar bölgeyi ziyaret ediyor.
 
-Bitki örtüsünü oluşturan hakim türler, mevsimsel değişimlere uyum sağlıyor. İlkbaharda, dağ çayırlarında çeşitli çiçekler açıyor. Yükseklik zonları, farklı bitki türlerinin yaşamına olanak sağlıyor. 
+Bitki örtüsünü oluşturan hakim türler, mevsimsel değişimlere uyum sağlıyor. İlkbaharda, dağ çayırlarında çeşitli çiçekler açıyor. Yükseklik zonları, farklı bitki türlerinin yaşamına olanak sağlıyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin. Dağ keçileri, kurtlar ve ayılar gibi memeliler, bölgenin yüksek kesimlerinde yaşamlarını sürdürüyor. Kuşlar, göç yolları üzerinde bulunan bu bölgede, çeşitli türlerle karşılaşılabiliyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin. Dağ keçileri, kurtlar ve ayılar gibi memeliler, bölgenin yüksek kesimlerinde yaşamlarını sürdürüyor. Kuşlar, göç yolları üzerinde bulunan bu bölgede, çeşitli türlerle karşılaşılabiliyor.
 
 Ekolojik değer, bölgeyi önemli kılıyor. Yüksek dağ ekolojisi, endemik türlerin yaşamına olanak sağlıyor. Koruma durumu, bu değerlerin korunmasını amaçlıyor. Ziyaret İgnadzor, doğa severler için bir cennet.
 

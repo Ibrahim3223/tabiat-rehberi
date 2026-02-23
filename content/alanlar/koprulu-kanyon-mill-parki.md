@@ -1,7 +1,7 @@
 ---
 title: "Köprülü Kanyon Millî Parkı"
 date: "2026-01-09T11:38:49.007Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Antalya"

@@ -28,7 +28,7 @@ wikidata_id: "Q31388565"
 
 # Kuşdağı Tepesi
 
-Kuşdağı Tepesi, Erzurum'un doğal güzelliklerinin başında gelir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğanın kucağına davet eder. Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, Kuşdağı Tepesi de karasal iklimin etkilerini taşır. Her mevsim farklı bir güzelliğe sahip olan bu tepe, özellikle bahar ve yaz aylarında yeşilin tüm tonlarını sergiler. Kuşdağı Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta bulunur ve şehrin nüfus yoğunluğundan uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin zirvesine çıkıldığında, Erzurum'un panoramik manzarası izlenebilir.
+Kuşdağı Tepesi, Erzurum'un doğal güzelliklerinin başında gelir. Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, Kuşdağı Tepesi de karasal iklimin etkilerini taşır. Her mevsim farklı bir güzelliğe sahip olan bu tepe, özellikle bahar ve yaz aylarında yeşilin tüm tonlarını sergiler. Kuşdağı Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta bulunur ve şehrin nüfus yoğunluğundan uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin zirvesine çıkıldığında, Erzurum'un panoramik manzarası izlenebilir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kuşdağı Tepesi, ziyaretçilerine çeşitli aktiviteleri sunar. Tepenin zirves
 ## İlginç Bilgiler
 
 - Kuşdağı Tepesi, Erzurum'un en yüksek tepelerinden biridir
-- Tepenin etrafında, çeşitli histórik eserler bulunur
+- Tepenin etrafında, çeşitli tarihi eserler bulunur
 - Kuşdağı Tepesi, Erzurum'un flora ve fauna çeşitliliğinin önemli bir parçasıdır
 - Tepenin zirvesine çıkıldığında, Erzurum'un panoramik manzarası izlenebilir
 - Kuşdağı Tepesi, Erzurum'un turizm potansiyelinin önemli bir parçasıdır

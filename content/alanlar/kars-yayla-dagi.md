@@ -50,7 +50,7 @@ Bölgenin ekosistem bağlantıları açısından, Kars Yayla Dağı, komşu alan
 
 ## Flora ve Fauna
 
-Kars Yayla Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ eteklerinde renkli çiçekler açarak manzarayı renklendirir. 
+Kars Yayla Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ eteklerinde renkli çiçekler açarak manzarayı renklendirir.
 
 Bitki örtüsünde alpin flora hakimdir. Çam ve ladin ağaçları, dağ yamaçlarını kaplar. Sonbaharda, dağ çayırları sarı ve kahverengi tonlara bürünür. Bu mevsimsel değişim, göçmen kuşların geçişine de ev sahipliği yapar.
 

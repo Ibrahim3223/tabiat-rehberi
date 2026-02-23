@@ -28,7 +28,7 @@ wikidata_id: "Q31389877"
 
 # Kırantarla Tepesi
 
-Kırantarla Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Sinop'ta bulunmaktadır. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Ziyaretçiler, bu tepenin zirvesine çıktıklarında, Sinop'un muhteşem manzarasını izleme fırsatı bulurlar. Kırantarla Tepesi, hem doğal güzelliği hem de tarihî geçmişiyle ziyaretçilerini cezbeden bir destinasyon olarak dikkat çekmektedir.
+Kırantarla Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Sinop'ta bulunmaktadır. Ziyaretçiler, bu tepenin zirvesine çıktıklarında, Sinop'un muhteşem manzarasını izleme fırsatı bulurlar. Kırantarla Tepesi, hem doğal güzelliği hem de tarihî geçmişiyle ziyaretçilerini cezbeden bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kırantarla Tepesi, ziyaretçilerine çeşitli imkanlar sunmaktadır. Bu tepenin
 ## İlginç Bilgiler
 
 - Kırantarla Tepesi, Sinop'un en yüksek noktalarından biridir.
-- Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır.
+
 - Kırantarla Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölgede yer almaktadır.
 - Bu bölgede yapılan kazılar, burada yaşamış eski uygarlıkların izlerini taşımaktadır.
 - Kırantarla Tepesi, Sinop'un tarihî zenginliğini yansıtan önemli bir noktadır.

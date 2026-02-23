@@ -28,7 +28,7 @@ wikidata_id: "Q31389511"
 
 # Kaplap Tepesi
 
-Kaplap Tepesi, Karaman'ın güzide noktalarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve mevsimsel değişimlerle birlikte renklenen manzaralar sunar. Bu alanda yapılan yürüyüşler, naturel güzelliğin keyfini çıkarmak için harika bir fırsat sunar.
+Kaplap Tepesi, Karaman'ın güzide noktalarından biridir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve mevsimsel değişimlerle birlikte renklenen manzaralar sunar. Bu alanda yapılan yürüyüşler, naturel güzelliğin keyfini çıkarmak için harika bir fırsat sunar.
 
 ## Tarihçe
 

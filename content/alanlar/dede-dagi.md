@@ -32,9 +32,9 @@ wikidata_id: "Q35737150"
 
 ## Tarihçe
 
-Çanakkale, tarihin sâu izlerini taşıyan bir bölgedir. Binlerce yıllık geçmişinde, Truva Savaşı'nın gerçekleştiği topraklar olarak bilinen bu bölge, çeşitli uygarlıkların izlerini taşımaktadır. Dede Dağı da bu zengin tarihsel bağlam içinde yer alan bir doğal güzelliğidir. 
+Çanakkale, tarihin derin izlerini taşıyan bir bölgedir. Binlerce yıllık geçmişinde, Truva Savaşı'nın gerçekleştiği topraklar olarak bilinen bu bölge, çeşitli uygarlıkların izlerini taşımaktadır. Dede Dağı da bu zengin tarihsel bağlam içinde yer alan bir doğal güzelliğidir.
 
-Türkiye'nin doğal alanları, tarihin her döneminde insanların yaşamına dokunmuştur. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu alanların önemini artırmıştır. Çanakkale bölgesinde de benzer bir durum söz konusudur. Bölgenin coğrafi konumu, históriki ticaret yollarının kesişme noktasında bulunması, burada yaşayan toplumların kültürel ve ekonomik yaşamını şekillendirmiştir.
+Türkiye'nin doğal alanları, tarihin her döneminde insanların yaşamına dokunmuştur. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu alanların önemini artırmıştır. Çanakkale bölgesinde de benzer bir durum söz konusudur. Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, burada yaşayan toplumların kültürel ve ekonomik yaşamını şekillendirmiştir.
 
 Dede Dağı gibi doğal alanlar, sadece coğrafi güzellikleri ile değil, aynı zamanda tarihsel ve kültürel önemleri ile de dikkat çekmektedir. Bu alanlar, insanlık tarihi boyunca, insanların yaşam alanları, geçim kaynakları ve kültürel faaliyetleri için önemli merkezler olarak görev görmüştür. Çanakkale'nin tarihi zenginliği ve Dede Dağı'nın doğal güzelliği, bu bölgenin özel bir yer olduğunu göstermektedir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Elif Anıt Mezarı"
 date: "2026-01-10T03:54:36.159Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728156"
 
 # Elif Anıt Mezarı
 
-Elif Anıt Mezarı, Gaziantep'in Araban ilçesinde yer alan ve 140 hektarlık bir alanı kapsayan önemli bir tarihi ve kültürel mekândır. Bu mezar, bölgenin zengin tarihine ve kültürüne önemli bir katkıda bulunmakta olup, ziyaretçilere hem tarihi hem de kültürel açıdan önemli bir deneyim sunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerin geniş bir alanda gezebilmelerine olanak sağlamaktadır. Elif Anıt Mezarı, bölgenin önemli bir turizm merkezi olarak görülmektedir.
+Elif Anıt Mezarı, Gaziantep'in Araban ilçesinde yer alan ve 140 hektarlık bir alanı kapsayan önemli bir tarihi ve kültürel mekândır. Bu mezar, bölgenin zengin tarihine ve kültürüne önemli bir katkıda bulunmakta olup, ziyaretçilere hem tarihi hem de kültürel açıdan önemli bir deneyim sunmaktadır. Elif Anıt Mezarı, bölgenin önemli bir turizm merkezi olarak görülmektedir.
 
 ## Tarihçe
 

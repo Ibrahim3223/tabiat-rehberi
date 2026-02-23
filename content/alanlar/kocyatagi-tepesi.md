@@ -28,7 +28,7 @@ wikidata_id: "Q32200912"
 
 # Koçyatağı Tepesi
 
-Koçyatağı Tepesi, Doğu Anadolu Bölgesi'nde yer alan Bitlis'in doğal güzelliklerini sunan bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü flora ve fauna çeşitliliğini barındırır. Bu tepe, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunar. Bölgenin coğrafi özellikleri ve iklimi, ziyaretçilerin yılın dört mevsiminde farklı deneyimler yaşamasına olanak tanır.
+Koçyatağı Tepesi, Doğu Anadolu Bölgesi'nde yer alan Bitlis'in doğal güzelliklerini sunan bir destinasyondur. Bu tepe, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunar. Bölgenin coğrafi özellikleri ve iklimi, ziyaretçilerin yılın dört mevsiminde farklı deneyimler yaşamasına olanak tanır.
 
 ## Tarihçe
 

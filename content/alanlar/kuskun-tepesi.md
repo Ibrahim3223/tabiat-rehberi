@@ -28,7 +28,7 @@ wikidata_id: "Q31390567"
 
 # Kuskun Tepesi
 
-Kuskun Tepesi, Aksaray ilinin sınırları içerisinde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklüğü, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kuskun Tepesi, özellikle yerel halk tarafından bilinen bir nokta ve doğa severler için ideal bir gezi noktası. Tepenin eteklerinde çeşitli bitki türleri bulunmakta ve bu zengin flora, ziyaretçilere doğanın güzelliğini hissetme fırsatı sunuyor.
+Kuskun Tepesi, Aksaray ilinin sınırları içerisinde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Kuskun Tepesi, özellikle yerel halk tarafından bilinen bir nokta ve doğa severler için ideal bir gezi noktası. Tepenin eteklerinde çeşitli bitki türleri bulunmakta ve bu zengin flora, ziyaretçilere doğanın güzelliğini hissetme fırsatı sunuyor.
 
 ## Tarihçe
 

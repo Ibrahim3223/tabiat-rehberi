@@ -51,7 +51,7 @@ Mevsimsel özellikler açısından, Armutcuk Dağı'nın iklim karakteri oldukç
 
 ## Flora ve Fauna
 
-Armutcuk Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 metre yükseklikte, ilkbaharda çiçeklerin renkli bir halı gibi yayıldığı görülmektedir. Bu dönemde, dağ yamaçlarında kuraklığa adapte olmuş bitkiler, güneşin ılık ışıklarını emer. 
+Armutcuk Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 metre yükseklikte, ilkbaharda çiçeklerin renkli bir halı gibi yayıldığı görülmektedir. Bu dönemde, dağ yamaçlarında kuraklığa adapte olmuş bitkiler, güneşin ılık ışıklarını emer.
 
 Yaban hayatı dağın yükseklik zonlarına göre çeşitlilik gösteriyor. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri gibi memeliler, kayalık alanlarda yaşamını sürdürürken, alçak kesimlerde ise çeşitli kuş türleri ve sürüngenler görülüyor. Sonbaharda, göçmen kuşlar dağ üzerinden geçerken, dağların yüksek kesimlerinde yaşayan bazı türler, kışın daha ılıman bölgelere iniyor.
 

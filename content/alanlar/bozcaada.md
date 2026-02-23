@@ -53,7 +53,7 @@ Jeolojik açıdan bakıldığında, Bozcaada'nın fiziksel yapısı hakkında ay
 
 Bozcaada, Çanakkale'nin güzide adalarından biri, geçiş ikliminin karakteristik özelliklerini taşıyor. İlkbaharın gelmesiyle birlikte, ada çiçeklerle donanıyor; çam, zeytin ve maki gibi bitkilerin arasında rengarenk çiçekler açıyor. Kışın soğuk günlerinde ise, ada sessiz ve sakin bir atmosfere bürünüyor.
 
-Ada, göçmen kuşların önemli bir rotası; sonbaharda, çeşitli kuş türleri burada konaklıyor. Kıyı şeridinde, deniz kuşları yuvalanıyor ve besleniyor. Bu izole ekosistemde, özel bitkiler ve hayvanlar yaşamlarını sürdürüyor. 
+Ada, göçmen kuşların önemli bir rotası; sonbaharda, çeşitli kuş türleri burada konaklıyor. Kıyı şeridinde, deniz kuşları yuvalanıyor ve besleniyor. Bu izole ekosistemde, özel bitkiler ve hayvanlar yaşamlarını sürdürüyor.
 
 Bozcaada'nın ekolojik değeri, bu özel ekosistemi koruma altına almamız gerektiğini vurguluyor. Ada, karma ormanların ve deniz ekosisteminin birleştiği bir nokta; bu nedenle, burada yaşayan canlılar birbirleriyle ve çevreleriyle özel bir ilişki içinde.
 

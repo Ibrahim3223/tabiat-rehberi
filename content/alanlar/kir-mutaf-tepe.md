@@ -29,7 +29,7 @@ wikidata_id: "Q134728328"
 
 # Kır Mutaf Tepe
 
-Kır Mutaf Tepe, Manisa'nın Salihli ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plaj ve tepe alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle kaplıdır. Bu doğal güzellik, ziyaretçilerini Ege Denizi'nin sularına ve eşsiz manzarasına davet ediyor. Kır Mutaf Tepe, hem deniz keyfi hem de doğa yürüyüşü için ideal bir destinasyon olarak öne çıkıyor. Ziyaretçiler, bu muhteşem noktada hem denize girebiliyor hem de tepeye çıkarak Ege Bölgesi'nin geniş panoramasını izleyebiliyorlar.
+Kır Mutaf Tepe, Manisa'nın Salihli ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plaj ve tepe alanıdır. Bu doğal güzellik, ziyaretçilerini Ege Denizi'nin sularına ve eşsiz manzarasına davet ediyor. Kır Mutaf Tepe, hem deniz keyfi hem de doğa yürüyüşü için ideal bir destinasyon olarak öne çıkıyor. Ziyaretçiler, bu muhteşem noktada hem denize girebiliyor hem de tepeye çıkarak Ege Bölgesi'nin geniş panoramasını izleyebiliyorlar.
 
 ## Tarihçe
 

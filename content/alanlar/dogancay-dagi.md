@@ -48,9 +48,9 @@ Mevsimsel özellikler açısından, Van'ın iklim karakteri soğu ve karasal bir
 
 ## Flora ve Fauna
 
-Doğançay Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ eteklerinde renkli çiçekler açmaya başlar. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen bitki türleriyle bezenir. 
+Doğançay Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ eteklerinde renkli çiçekler açmaya başlar. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen bitki türleriyle bezenir.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağların dik yamaçlarında rahatça dolaşırken, kartallar ve akbabalar gökyüzünde süzülür. Sürüngenler ve amfibiler de bu dağ ekosisteminin bir parçasıdır. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağların dik yamaçlarında rahatça dolaşırken, kartallar ve akbabalar gökyüzünde süzülür. Sürüngenler ve amfibiler de bu dağ ekosisteminin bir parçasıdır.
 
 Doğançay Dağı, ekolojik değerleri bakımından önemli bir bölge. Yüksek dağ ekolojisi ve alpin çayırları, birçok endemik türe ev sahipliği yapar. Bu nedenle, koruma altına alınması büyük önem taşır.
 

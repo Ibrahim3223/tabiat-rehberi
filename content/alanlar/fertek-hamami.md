@@ -1,7 +1,7 @@
 ---
 title: "Fertek Hamamı"
 date: "2026-01-09T23:35:31.359Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Niğde"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739197"
 
 # Fertek Hamamı
 
-Fertek Hamamı, Niğde'nin merkezinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir yeşil alanı barındıran doğal bir plaj olarak bilinir. Bu bölge, ziyaretçilerini güneşin ve denizin keyfini çıkarabilecekleri bir ortam sunar. Fertek Hamamı, Niğde'nin doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçilerini doğayla iç içe bir ortamda ağırlar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile dikkat çekmektedir.
+ Bu bölge, ziyaretçilerini güneşin ve denizin keyfini çıkarabilecekleri bir ortam sunar. Fertek Hamamı, Niğde'nin doğal güzelliklerinden biri olarak kabul edilir ve ziyaretçilerini doğayla iç içe bir ortamda ağırlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Fertek Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu b
 
 ## Coğrafya
 
-Fertek Hamamı, Niğde'nin merkezinde yer alan bir doğal plaj olarak bilinir. Bu bölge, 140 hektarlık bir yeşil alanı barındırmakta ve yaklaşık 200 futbol sahası büyüklüğündedir. Fertek Hamamı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çekmekte ve ziyaretçilerini güneşin ve denizin keyfini çıkarabilecekleri bir ortam sunar. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin iklimi ile benzerlik göstermekte ve ziyaretçilerin yıl boyunca ziyaret edebilecekleri bir bölge olarak kabul edilmektedir. Fertek Hamamı, coğrafi konumu ile dikkat çekmekte ve ziyaretçilerini doğayla iç içe bir ortamda ağırlamaktadır. Bu bölgenin çevresi, çeşitli bitki türleri ile kaplı ve zengin fauna ile dikkat çekmektedir.
+Fertek Hamamı, Niğde'nin merkezinde yer alan bir doğal plaj olarak bilinir. Fertek Hamamı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile dikkat çekmekte ve ziyaretçilerini güneşin ve denizin keyfini çıkarabilecekleri bir ortam sunar. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin iklimi ile benzerlik göstermekte ve ziyaretçilerin yıl boyunca ziyaret edebilecekleri bir bölge olarak kabul edilmektedir. Fertek Hamamı, coğrafi konumu ile dikkat çekmekte ve ziyaretçilerini doğayla iç içe bir ortamda ağırlamaktadır. Bu bölgenin çevresi, çeşitli bitki türleri ile kaplı ve zengin fauna ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 

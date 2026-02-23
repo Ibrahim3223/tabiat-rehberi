@@ -28,7 +28,7 @@ wikidata_id: "Q31386586"
 
 # Mercimek Tepesi
 
-Mercimek Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde, coğrafyanın eşsiz güzelliğini sergileyen bir doğa harikası olarak karşımıza çıkar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki manzaralar ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapladığı söylenebilir. Mercimek Tepesi, Şırnak ilinin önemli doğal güzelliklerinden biri olarak bilinir ve ziyaretçilerini büyüleyici bir doğa deneyimi ile karşılar. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi edinmek için de önemli bir nokta olarak kabul edilir.
+Mercimek Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde, coğrafyanın eşsiz güzelliğini sergileyen bir doğa harikası olarak karşımıza çıkar. Mercimek Tepesi, Şırnak ilinin önemli doğal güzelliklerinden biri olarak bilinir ve ziyaretçilerini büyüleyici bir doğa deneyimi ile karşılar. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında bilgi edinmek için de önemli bir nokta olarak kabul edilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mercimek Tepesi'nin tarihi geçmişi, bölgenin genel tarihinde önemli bir yer 
 
 ## Coğrafya
 
-Mercimek Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahiptir. Bu tepe, Şırnak ilinin coğrafi özelliklerini sergileyen bir bölgede bulunur. Tepenin etrafında, çeşitli coğrafi oluşumlar ve doğal güzellikler bulunmaktadır. Mercimek Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve çevresindeki manzaralar ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapladığı söylenebilir. Bu tepe, çevresi ile birlikte, bölgenin coğrafi çeşitliliğini ve güzelliğini sergileyen bir doğa harikası olarak kabul edilir. Mercimek Tepesi'nin coğrafi konumu, ziyaretçilerine bölgenin eşsiz güzelliğini keşfetme fırsatı sunar. Tepenin etrafındaki coğrafi oluşumlar, ziyaretçilere yürüyüş, trekking ve diğer doğa aktiviteleri için uygun bir ortam sağlar.
+Mercimek Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahiptir. Bu tepe, Şırnak ilinin coğrafi özelliklerini sergileyen bir bölgede bulunur. Tepenin etrafında, çeşitli coğrafi oluşumlar ve doğal güzellikler bulunmaktadır. Bu tepe, çevresi ile birlikte, bölgenin coğrafi çeşitliliğini ve güzelliğini sergileyen bir doğa harikası olarak kabul edilir. Mercimek Tepesi'nin coğrafi konumu, ziyaretçilerine bölgenin eşsiz güzelliğini keşfetme fırsatı sunar. Tepenin etrafındaki coğrafi oluşumlar, ziyaretçilere yürüyüş, trekking ve diğer doğa aktiviteleri için uygun bir ortam sağlar.
 
 ## Flora ve Fauna
 

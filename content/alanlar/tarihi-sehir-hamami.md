@@ -1,7 +1,7 @@
 ---
 title: "Tarihi Şehir Hamamı"
 date: "2026-01-09T22:19:17.111Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738452"
 
 # Tarihi Şehir Hamamı
 
-Tarihi Şehir Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Çermik/Diyarbakır'da bulunan bu mekan, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir açık alan sunar. Tarihi Şehir Hamamı, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini etkileyen bir mekandır. Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta olup, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır.
+Tarihi Şehir Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Çermik/Diyarbakır'da bulunan bu mekan, yaklaşık 140 hektarlık bir alanı kaplar. Tarihi Şehir Hamamı, hem doğal güzelliği hem de tarihi önemi ile ziyaretçilerini etkileyen bir mekandır. Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta olup, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Tarihi Şehir Hamamı, çeşitli bitki türleri ve fauna ile ziyaretçilerini et
 
 ## Ziyaret Bilgileri
 
-Tarihi Şehir Hamamı, ziyaretçilerine unutulmaz bir deneyim sunar. Bu bölgeye, Çermik/Diyarbakır'dan ulaşma mümkündür. Ziyaretçiler, bu bölgeye gelirken, necessary önlemleri almalıdır. İklim, genellikle sıca ve kura olup, ziyaretçilerin bu durumdan etkilenmemesi için önlem alması gerekir. Tarihi Şehir Hamamı, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile unutulmaz bir deneyim sunar. Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta olup, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır.
+ Bu bölgeye, Çermik/Diyarbakır'dan ulaşma mümkündür. Ziyaretçiler, bu bölgeye gelirken, necessary önlemleri almalıdır. İklim, genellikle sıca ve kura olup, ziyaretçilerin bu durumdan etkilenmemesi için önlem alması gerekir. Tarihi Şehir Hamamı, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile unutulmaz bir deneyim sunar. Bu bölgede, çeşitli bitki türleri ve fauna bulunmakta olup, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır.
 
 ## İlginç Bilgiler
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31554323"
 
 # Buderiaskeri Tepesi
 
-Buderiaskeri Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve régionun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. Bu tepe, bölgeye özgü flora ve fauna ile çevrilidir ve ziyaretçiler için benzersiz bir gözlem alanı sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilerin geniş bir alanda keşif yapmalarına olanak tanır. Buderiaskeri Tepesi, hem doğa severler hem de macera arayanlar için bir çekim merkezi.
+Buderiaskeri Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. Bu tepe, bölgeye özgü flora ve fauna ile çevrilidir ve ziyaretçiler için benzersiz bir gözlem alanı sunar. Buderiaskeri Tepesi, hem doğa severler hem de macera arayanlar için bir çekim merkezi.
 
 ## Tarihçe
 

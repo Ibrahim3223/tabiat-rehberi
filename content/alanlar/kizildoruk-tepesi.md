@@ -28,7 +28,7 @@ wikidata_id: "Q31390017"
 
 # Kızıldoruk Tepesi
 
-Kızıldoruk Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Kızıldoruk Tepesi, çevresindeki diğer tepe ve dağlarla birlikte bir bütünleşik doğal alan oluşturuyor. Bu alan, yürüyüş ve doğa yürüyüşü gibi aktiviteler için elverişli. Kızıldoruk Tepesi'nin etrafı, çeşitli bitki türleriyle dolu ve bu da tepeyi ziyaret edenler için güzel bir manzara sunuyor.
+Kızıldoruk Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Kızıldoruk Tepesi, çevresindeki diğer tepe ve dağlarla birlikte bir bütünleşik doğal alan oluşturuyor. Bu alan, yürüyüş ve doğa yürüyüşü gibi aktiviteler için elverişli. Kızıldoruk Tepesi'nin etrafı, çeşitli bitki türleriyle dolu ve bu da tepeyi ziyaret edenler için güzel bir manzara sunuyor.
 
 ## Tarihçe
 

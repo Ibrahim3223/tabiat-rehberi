@@ -30,7 +30,7 @@ wikidata_id: "Q91274"
 
 # Galata Kulesi
 
-Galata Kulesi, İstanbul'un en önemli tarihi mekanlarından biri olarak kabul edilir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu mekan, Marmara Bölgesi'nin en çok ziyaret edilen yerlerinden biridir. Beyoğlu ilçesinde bulunan Galata Kulesi, İstanbul'un kalbinde yer alır. Tarihi geçmişi, mimarisi ve kültürel önemi ile dikkat çeker. Galata Kulesi, ziyaretçilerine İstanbul'un geçmişini ve günümüzünü birleştiren benzersiz bir deneyim sunar. 70 metre yüksekliğiyle şehrin manzarasını izlemek için ideal bir noktadır.
+Galata Kulesi, İstanbul'un en önemli tarihi mekanlarından biri olarak kabul edilir. Beyoğlu ilçesinde bulunan Galata Kulesi, İstanbul'un kalbinde yer alır. Tarihi geçmişi, mimarisi ve kültürel önemi ile dikkat çeker. Galata Kulesi, ziyaretçilerine İstanbul'un geçmişini ve günümüzünü birleştiren benzersiz bir deneyim sunar. 70 metre yüksekliğiyle şehrin manzarasını izlemek için ideal bir noktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Galata Kulesi'nin tarihi geçmişi, 6. yüzyıla kadar uzanır. Bizans İmparato
 
 ## Coğrafya
 
-Galata Kulesi, Marmara Bölgesi'nin en büyük şehirlerinden biri olan İstanbul'un kalbinde yer alır. Beyoğlu ilçesinde bulunan kule, şehrin en çok ziyaret edilen yerlerinden biridir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu mekan, İstanbul Boğazı'nın manzarasına hakim bir konumdadır. Galata Kulesi'nin coğrafi konumu, ziyaretçilere şehrin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Kule, 70 metre yüksekliğiyle şehrin manzarasını izlemek için ideal bir noktadır. Çevresinde tarihi binalar, camiler ve kiliseler bulunan Galata Kulesi, İstanbul'un zengin kültürel mirasını yansıtan bir mekan olarak kabul edilir.
+Galata Kulesi, Marmara Bölgesi'nin en büyük şehirlerinden biri olan İstanbul'un kalbinde yer alır. Beyoğlu ilçesinde bulunan kule, şehrin en çok ziyaret edilen yerlerinden biridir. Galata Kulesi'nin coğrafi konumu, ziyaretçilere şehrin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Kule, 70 metre yüksekliğiyle şehrin manzarasını izlemek için ideal bir noktadır. Çevresinde tarihi binalar, camiler ve kiliseler bulunan Galata Kulesi, İstanbul'un zengin kültürel mirasını yansıtan bir mekan olarak kabul edilir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Galata Kulesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel zenginliklerin
 ## İlginç Bilgiler
 
 - Galata Kulesi, İstanbul'un en önemli tarihi mekanlarından biridir.
-- Kule, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Galata Kulesi, 70 metre yüksekliğiyle şehrin manzarasını izlemek için ideal bir noktadır.
 - Kule, İstanbul'un fethinden sonra Osmanlılar tarafından kullanılan önemli bir nokta olmuştur.
 - Galata Kulesi, kültür ve turizm merkezlerinden biri olarak ziyaretçilerini ağırlar.

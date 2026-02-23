@@ -49,11 +49,11 @@ Babadağ'ın çevresinde, çeşitli su kaynakları ve ekosistemler bulunmaktadı
 
 ## Flora ve Fauna
 
-Babadağ'ın flora ve fauna zenginliği, ziyaretçileri bir doğa harikalarına götürür. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler bulunur. 
+Babadağ'ın flora ve fauna zenginliği, ziyaretçileri bir doğa harikalarına götürür. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler bulunur.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Çiçeklerin açtığı alanlar, arıların ve kelebeklerin uğrak yeri haline gelir. Bu mevsimde, dağda bulunan bitkiler, güneşin ışınlarını emerek büyür ve gelişir. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Çiçeklerin açtığı alanlar, arıların ve kelebeklerin uğrak yeri haline gelir. Bu mevsimde, dağda bulunan bitkiler, güneşin ışınlarını emerek büyür ve gelişir.
 
-Babadağ, yaban hayatının da önemli merkezlerinden birisidir. Dağda, çeşitli memeli ve kuş türleri yaşar. Sürüngenler de bu bölgede bulunur. Bu hayvanlar, dağ ekosisteminin önemli bir parçasını oluşturur ve birbirleriyle ekolojik ilişkiler içinde yaşarlar. 
+Babadağ, yaban hayatının da önemli merkezlerinden birisidir. Dağda, çeşitli memeli ve kuş türleri yaşar. Sürüngenler de bu bölgede bulunur. Bu hayvanlar, dağ ekosisteminin önemli bir parçasını oluşturur ve birbirleriyle ekolojik ilişkiler içinde yaşarlar.
 
 Babadağ'ın ekolojik değeri, yükseklik zonları ve alpin flora ile artar. Bu dağ, bölgenin ekolojik dengesini sağlar ve koruma altına alınması önemlidir.
 

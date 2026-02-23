@@ -26,11 +26,11 @@ wikidata_id: "Q5926654"
 
 ## Tarihçe
 
-Ege Bölgesi, tarihi boyunca birçok uygarlığa ev sahipliği yapmış bir coğrafyadır. İyon, Roma ve Osmanlı gibi büyük medeniyetler, bu topraklarda izlerini bırakmışlardır. Ege Üniversitesi botanik bahçesi de, bu tarihsel zenginliğin bir parçasıdır. 
+Ege Bölgesi, tarihi boyunca birçok uygarlığa ev sahipliği yapmış bir coğrafyadır. İyon, Roma ve Osmanlı gibi büyük medeniyetler, bu topraklarda izlerini bırakmışlardır. Ege Üniversitesi botanik bahçesi de, bu tarihsel zenginliğin bir parçasıdır.
 
-Türkiye'de botanik bahçeleri, doğal yaşamın korunması ve bilimsel araştırmaların yürütülmesi açısından büyük önem taşırlar. Bu tür alanlar, ülkenin flora zenginliğinin belgelenmesi ve gelecek nesiller için korunmasına katkıda bulunurlar. 
+Türkiye'de botanik bahçeleri, doğal yaşamın korunması ve bilimsel araştırmaların yürütülmesi açısından büyük önem taşırlar. Bu tür alanlar, ülkenin flora zenginliğinin belgelenmesi ve gelecek nesiller için korunmasına katkıda bulunurlar.
 
-İnsanların Ege Üniversitesi botanik bahçesi ile ilişkisi, sadece bilimsel çalışmalardan ibaret değil, aynı zamanda bölge halkının günlük yaşamına da yansır. Yaylacılık, hayvancılık ve tarım, bölgenin yonel faaliyetleri arasında yer alır. Ayrıca, tarihi ticaret yollarının da bu coğrafyadan geçmesi, bölgenin kültürel ve ekonomik zenginliğine katkıda bulunmuştur. 
+İnsanların Ege Üniversitesi botanik bahçesi ile ilişkisi, sadece bilimsel çalışmalardan ibaret değil, aynı zamanda bölge halkının günlük yaşamına da yansır. Yaylacılık, hayvancılık ve tarım, bölgenin yonel faaliyetleri arasında yer alır. Ayrıca, tarihi ticaret yollarının da bu coğrafyadan geçmesi, bölgenin kültürel ve ekonomik zenginliğine katkıda bulunmuştur.
 
 Bu doğal cennet, sadece bilimsel bir merkez olarak değil, aynı zamanda halkın doğayı keşfetmesi ve takdir etmesine olanak tanıyan bir alan olarak da işlev görür. Ege Üniversitesi botanik bahçesi, Türkiye'nin doğal mirasının bir parçası olarak, ziyaretçilerini tarihin ve doğanın güzelliği ile baş başa bırakır.
 

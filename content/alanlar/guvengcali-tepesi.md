@@ -28,7 +28,7 @@ wikidata_id: "Q34873582"
 
 # Güvenğçalı Tepesi
 
-Güvenğçalı Tepesi, Çorum'un eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde çeşitli bitkilerin yetiştiği görülürken, tepenin zirvesinden muhteşem bir manzara sunuyor. Güvenğçalı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Güvenğçalı Tepesi, Çorum'un eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Tepenin eteklerinde çeşitli bitkilerin yetiştiği görülürken, tepenin zirvesinden muhteşem bir manzara sunuyor. Güvenğçalı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32211087"
 
 # Küçükçakırca Tepesi
 
-Küçükçakırca Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kapsar. Bu tepe, doğal güzellikleri ve tarihi önemi ile dikkat çeker. İç Anadolu Bölgesi'nin coğrafi özellikleri, burada bulunan tepeyi özel kılar. Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve burası, yaban hayatı için önemli bir yaşam alanıdır. Küçükçakırca Tepesi, aynı zamanda tarihi önemi ile bilinir ve buradaki kazılar, bölgenin geçmişine ışık tutar.
+ Bu tepe, doğal güzellikleri ve tarihi önemi ile dikkat çeker. İç Anadolu Bölgesi'nin coğrafi özellikleri, burada bulunan tepeyi özel kılar. Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve burası, yaban hayatı için önemli bir yaşam alanıdır. Küçükçakırca Tepesi, aynı zamanda tarihi önemi ile bilinir ve buradaki kazılar, bölgenin geçmişine ışık tutar.
 
 ## Tarihçe
 

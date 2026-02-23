@@ -28,7 +28,7 @@ wikidata_id: "Q31388502"
 
 # Şahmeran Tepesi
 
-Şahmeran Tepesi, Doğu Anadolu Bölgesi'nin en dikkat çekici noktalarından biridir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini büyüleyici doğası ile karşılar. Erzurum'un merkezine yakınlığı ve ulaşım kolaylığı ile her yıl binlerce ziyaretçiyi ağırlar. Şahmeran Tepesi, hem doğa severler hem de tarihe ilgi duyanlar için bir çekim noktasıdır.
+Şahmeran Tepesi, Doğu Anadolu Bölgesi'nin en dikkat çekici noktalarından biridir. Erzurum'un merkezine yakınlığı ve ulaşım kolaylığı ile her yıl binlerce ziyaretçiyi ağırlar. Şahmeran Tepesi, hem doğa severler hem de tarihe ilgi duyanlar için bir çekim noktasıdır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q31388502"
 
 ## Coğrafya
 
-Şahmeran Tepesi, Doğu Anadolu Bölgesi'nde yer alan Erzurum'un coğrafi yapısını yansıtan bir bölgedir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve çevresi çeşitli bitki türleri ile kaplıdır. Tepenin eteklerinde ve çevresinde akan su kaynakları, bölgenin ekolojik dengesini korur. Şahmeran Tepesi, Erzurum'un coğrafi olarak önemli bir noktasıdır ve ziyaretçilerine bölgenin doğal güzelliklerini sunar. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgenin coğrafi yapısını gözlemleme fırsatı verir.
+Şahmeran Tepesi, Doğu Anadolu Bölgesi'nde yer alan Erzurum'un coğrafi yapısını yansıtan bir bölgedir. Tepenin eteklerinde ve çevresinde akan su kaynakları, bölgenin ekolojik dengesini korur. Şahmeran Tepesi, Erzurum'un coğrafi olarak önemli bir noktasıdır ve ziyaretçilerine bölgenin doğal güzelliklerini sunar. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgenin coğrafi yapısını gözlemleme fırsatı verir.
 
 ## Flora ve Fauna
 

@@ -54,7 +54,7 @@ Kaleli Dağı, Muğla'nın zeytinliklerle çevrili çam ormanlarına ev sahipli�
 
 Dağın yükseklik zonlarında, yaban hayatı çeşitliliği göze çarpıyor. Memeliler, kuşlar ve sürüngenler bu dağda yaşamını sürdürüyor. Sonbahar mevsiminde, göç eden kuşlar dağ üzerinden geçiş yapıyor. Bu ekosistem, canlıların birbirine bağımlı olduğu bir döngü içinde işliyor. Örneğin, çam ormanları, birçok hayvanın barınma alanı olarak hizmet ediyor.
 
-Kaleli Dağı, bölgenin ekolojik dengesini korumak açısından önemli bir role sahip. Bu dağ ekosisteminin korunması, sadece yerel flora ve faunayı değil, aynı zamanda bölgenin iklimini de etkiliyor. Koruma durumu, bu doğal alanın geleceğiçin kritik önem taşıyor.
+ Bu dağ ekosisteminin korunması, sadece yerel flora ve faunayı değil, aynı zamanda bölgenin iklimini de etkiliyor. Koruma durumu, bu doğal alanın geleceğiçin kritik önem taşıyor.
 
 ## Ziyaret Bilgileri
 

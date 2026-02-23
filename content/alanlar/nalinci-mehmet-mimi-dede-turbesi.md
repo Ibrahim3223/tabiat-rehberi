@@ -1,7 +1,7 @@
 ---
 title: "Nalıncı Mehmet Mimi Dede Türbesi"
 date: "2026-01-10T07:42:33.651Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391096"
 
 # Nalıncı Mehmet Mimi Dede Türbesi
 
-Nalıncı Mehmet Mimi Dede Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi türbe ve plajdır. Bu alan, Marmara Bölgesi'nin önemli kültürel ve doğal varlıklarından biridir. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Nalıncı Mehmet Mimi Dede Türbesi, tarihi ve doğal güzelliği ile ziyaretçilerini çekmektedir. Türbe ve çevresindeki plaj, ziyaretçilerin dinlenip eğlenebileceği bir mekan olarak hizmet vermektedir.
+Nalıncı Mehmet Mimi Dede Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi türbe ve plajdır. Bu alan, Marmara Bölgesi'nin önemli kültürel ve doğal varlıklarından biridir. Nalıncı Mehmet Mimi Dede Türbesi, tarihi ve doğal güzelliği ile ziyaretçilerini çekmektedir. Türbe ve çevresindeki plaj, ziyaretçilerin dinlenip eğlenebileceği bir mekan olarak hizmet vermektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Nalıncı Mehmet Mimi Dede Türbesi, tarihi geçmişi ile dikkat çekmektedir. B
 
 ## Coğrafya
 
-Nalıncı Mehmet Mimi Dede Türbesi, Fatih ilçesi sınırları içerisinde yer almakta ve Marmara Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bu bölge, 140 hektarlık bir alanı kapsamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak hizmet vermektedir. Türbenin etrafındaki plaj, denize sıfır bir konumda yer almakta ve ziyaretçilere güzel bir manzara sunmaktadır. Nalıncı Mehmet Mimi Dede Türbesi ve plajı, yıl boyunca ziyaretçilerini ağırlamakta ve hem tarihi hem de doğal güzelliği ile dikkat çekmektedir. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimini yansıtmakta ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunmaktadır.
+Nalıncı Mehmet Mimi Dede Türbesi, Fatih ilçesi sınırları içerisinde yer almakta ve Marmara Bölgesi'nin coğrafi yapısını yansıtmaktadır. Türbenin etrafındaki plaj, denize sıfır bir konumda yer almakta ve ziyaretçilere güzel bir manzara sunmaktadır. Nalıncı Mehmet Mimi Dede Türbesi ve plajı, yıl boyunca ziyaretçilerini ağırlamakta ve hem tarihi hem de doğal güzelliği ile dikkat çekmektedir. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimini yansıtmakta ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunmaktadır.
 
 ## Flora ve Fauna
 

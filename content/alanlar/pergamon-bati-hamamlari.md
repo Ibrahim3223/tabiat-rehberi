@@ -1,7 +1,7 @@
 ---
 title: "Pergamon Batı Hamamları"
 date: "2026-01-09T23:28:43.678Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739077"
 
 # Pergamon Batı Hamamları
 
-Pergamon Batı Hamamları, İzmir'in Bergama ilçesinde yer alan ve tarihin derinliklerinden günümüze ulaşan tarihi bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgede kurulmuştur. Bu hamamlar, Pergamon antik kentinin bir parçası olarak inşa edilmiş ve yüzyıllar boyunca önemli bir kültürel ve sosyal merkez olarak hizmet vermiştir. Hamamların mimarisi, o dönemin özelliklerini taşıyor ve ziyaretçilere tarihin izlerini keşfetme fırsatı sunuyor.
+Pergamon Batı Hamamları, İzmir'in Bergama ilçesinde yer alan ve tarihin derinliklerinden günümüze ulaşan tarihi bir yapıdır. Bu hamamlar, Pergamon antik kentinin bir parçası olarak inşa edilmiş ve yüzyıllar boyunca önemli bir kültürel ve sosyal merkez olarak hizmet vermiştir. Hamamların mimarisi, o dönemin özelliklerini taşıyor ve ziyaretçilere tarihin izlerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Pergamon Batı Hamamları, tarihi geçmişi ile dikkat çekiyor. Antik Pergamon 
 
 ## Coğrafya
 
-Pergamon Batı Hamamları, Ege Bölgesi'nin Bergama ilçesinde yer alıyor. Bu bölge, tarihi ve coğrafi açıdan zengin bir alana sahip. Hamamlar, Pergamon antik kentinin eteklerinde kurulmuş ve çevresi tarihi kalıntılarla dolu. Bölgenin iklimi, tipik Ege iklimi özellikleri gösteriyor ve yıl boyunca ziyaretçileri ağırlıyor. Hamamların coğrafi konumu, ziyaretçilerin antik kentteki diğer tarihi yapılara da kolayca ulaşabilmesini sağlıyor. 180 hektarlık bir alan, yaklaşık 300 futbol sahası büyüklüğünde bir bölgeyi kapsıyor ve çevresi çeşitli bitki türleri ile dolu.
+Pergamon Batı Hamamları, Ege Bölgesi'nin Bergama ilçesinde yer alıyor. Bu bölge, tarihi ve coğrafi açıdan zengin bir alana sahip. Hamamlar, Pergamon antik kentinin eteklerinde kurulmuş ve çevresi tarihi kalıntılarla dolu. Bölgenin iklimi, tipik Ege iklimi özellikleri gösteriyor ve yıl boyunca ziyaretçileri ağırlıyor. Hamamların coğrafi konumu, ziyaretçilerin antik kentteki diğer tarihi yapılara da kolayca ulaşabilmesini sağlıyor.
 
 ## Flora ve Fauna
 

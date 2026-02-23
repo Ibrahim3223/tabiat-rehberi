@@ -50,7 +50,7 @@ Eskibağlar Tepe, Mardin'in diğer tarihi ve doğal güzelliklerine oldukça yak
 
 ## Flora ve Fauna
 
-Eskibağlar Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Eskibağlar Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü olarak step ve ova ekolojisinin karakteristik türleri hakim. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar bu dağları konaklama noktaları olarak kullanır. Dağın yükseklik zonlarında, alpin flora typesi bitkiler bulunur.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31558644"
 
 # Karanlıkarka Tepesi
 
-Karanlıkarka Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölge, doğa severler için bir cennet. Karanlıkarka Tepesi, aynı zamanda tarihsel açıdan da önemli bir noktada yer alır ve civarında çeşitli tarihi kalıntılar bulunur.
+Karanlıkarka Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölge, doğa severler için bir cennet. Karanlıkarka Tepesi, aynı zamanda tarihsel açıdan da önemli bir noktada yer alır ve civarında çeşitli tarihi kalıntılar bulunur.
 
 ## Tarihçe
 

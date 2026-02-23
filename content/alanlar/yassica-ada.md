@@ -34,7 +34,7 @@ Muğla'nın turkuaz suları arasında saklı bir hazine olan Yassıca Ada, ziyar
 
 ## Tarihçe
 
-Muğla'nın gizli cenneti Yassıca Ada, tarihin derinliklerine uzanan bir bölgenin parçası. Muğla, antik çağlardan beri çeşitli uygarlıkların yerleşim yeri olmuş bir bölge. Likya, Karya ve Roma uygarlıkları bu topraklarda yaşamış, her biri bölgenin kültürel ve tarihi dokusuna katkıda bulunmuş. 
+Muğla'nın gizli cenneti Yassıca Ada, tarihin derinliklerine uzanan bir bölgenin parçası. Muğla, antik çağlardan beri çeşitli uygarlıkların yerleşim yeri olmuş bir bölge. Likya, Karya ve Roma uygarlıkları bu topraklarda yaşamış, her biri bölgenin kültürel ve tarihi dokusuna katkıda bulunmuş.
 
 Doğal güzellikleri ve stratejik konumuyla Muğla, tarihi boyunca önemli bir ticaret ve yerleşim merkezi olmuş. Bu bölgedeki adalar ve kıyı şeridi, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, yaylacılık ve hayvancılıkla geçimlerini sağladıkları alanlar olarak önemini korumuş. Ticaret yolları üzerinde bulunması, Muğla'yı bir geçiş noktası haline getirmiş, Böylece bölge, farklı kültürlerin buluşma noktası olmuş.
 
@@ -60,7 +60,7 @@ Yassıca Ada'nın ekolojik değeri, izole popülasyonlara ve deniz ekosistemine 
 
 ## Ziyaret Bilgileri
 
-Yassıca Ada, Muğla'da bulunan bir doğa harikası. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de adağın güzelliğini daha iyi keşfedebilirsiniz. Muğla'dan Yassıca Ada'ya ulaşmak için tekne turuna katılabilirsiniz. En güzel manzara noktası, adanın yüksek noktalarında bulunmakla birlikte, yüzme ve dalış için de ideal bir yer. Yanınıza mutlaka su ve atıştırmalık alın çünkü ada üzerinde bu tür hizmetler bulunmayabilir. Doğa yürüyüşü için de ideal bir ortam sunan Yassıca Ada, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Yassıca Ada, Muğla'da bulunan bir doğa harikası. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de adağın güzelliğini daha iyi keşfedebilirsiniz. Muğla'dan Yassıca Ada'ya ulaşmak için tekne turuna katılabilirsiniz. En güzel manzara noktası, adanın yüksek noktalarında bulunmakla birlikte, yüzme ve dalış için de ideal bir yer. Yanınıza mutlaka su ve atıştırmalık alın çünkü ada üzerinde bu tür hizmetler bulunmayabilir.
 
 ## İlginç Bilgiler
 

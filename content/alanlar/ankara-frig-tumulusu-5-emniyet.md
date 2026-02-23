@@ -29,7 +29,7 @@ wikidata_id: "Q134728290"
 
 # Ankara Frig Tümülüsü 5, Emniyet
 
-Ankara Frig Tümülüsü 5, Emniyet, Ankara'nın Yenimahalle ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir alandır. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan bir green alan olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi önem taşıyan bu tümülüs, ziyaretçiler için hem tarihi bir gezi hem de yeşil bir alan sunar.  Ankara'nın kalbinde yer alan bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi haline gelmiştir.
+Ankara Frig Tümülüsü 5, Emniyet, Ankara'nın Yenimahalle ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir alandır. Tarihi önem taşıyan bu tümülüs, ziyaretçiler için hem tarihi bir gezi hem de yeşil bir alan sunar.  Ankara'nın kalbinde yer alan bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi haline gelmiştir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Ankara Frig Tümülüsü 5, Emniyet'in tarihi geçmişi, yüzyıllar boyunca şe
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 5, Emniyet, coğrafi olarak İç Anadolu Bölgesi'nde yer alır. Bu région, Ankara'nın Yenimahalle ilçesinde bulunur ve yaklaşık 140 hektarlık bir alanı kaplar. Bu green alan, ziyaretçiler için hem bir gezi alanı hem de bir dinlenme yeri olarak hizmet verir. Coğrafi olarak, bu bölge, Ankara'nın şehir merkezine yakındır ve ulaşımı kolaydır. Bu tümülüs, Ankara'nın şehir planlaması içinde önemli bir yer tutar ve yeşil alan olarak kullanılmaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgeyi özel kılar. Bu région, yılın dört mevsimi de ziyaret edilebilir ve her mevsim farklı güzellikler sunar.
+Ankara Frig Tümülüsü 5, Emniyet, coğrafi olarak İç Anadolu Bölgesi'nde yer alır. Bu bölge, Ankara'nın Yenimahalle ilçesinde bulunur ve yaklaşık 140 hektarlık bir alanı kaplar. Bu green alan, ziyaretçiler için hem bir gezi alanı hem de bir dinlenme yeri olarak hizmet verir. Coğrafi olarak, bu bölge, Ankara'nın şehir merkezine yakındır ve ulaşımı kolaydır. Bu tümülüs, Ankara'nın şehir planlaması içinde önemli bir yer tutar ve yeşil alan olarak kullanılmaktadır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgeyi özel kılar. Bu bölge, yılın dört mevsimi de ziyaret edilebilir ve her mevsim farklı güzellikler sunar.
 
 ## Flora ve Fauna
 
-Ankara Frig Tümülüsü 5, Emniyet, flora ve fauna açısından zengin bir alandır. Bu bölge, çeşitli bitki türleri ile kaplıdır ve yılın dört mevsimi de ziyaret edilebilir. Bu green alan, hem yerel flora hem de fauna için önemli bir yaşam alanıdır. Bu région, doğa severler için bir cennet niteliğindedir. Mevsimsel değişimler, bu bölgenin güzelliğini farklı şekillerde sergiler. İlkbahar ve sonbahar mevsimlerinde, bu bölge, renkli bir manzara sunar. Kış mevsiminde, karla kaplı bir görünüm sergilerken, yaz mevsiminde, yeşilin farklı tonlarını gösterir.
+Ankara Frig Tümülüsü 5, Emniyet, flora ve fauna açısından zengin bir alandır. Bu bölge, çeşitli bitki türleri ile kaplıdır ve yılın dört mevsimi de ziyaret edilebilir. Bu green alan, hem yerel flora hem de fauna için önemli bir yaşam alanıdır. Bu bölge, doğa severler için bir cennet niteliğindedir. Mevsimsel değişimler, bu bölgenin güzelliğini farklı şekillerde sergiler. İlkbahar ve sonbahar mevsimlerinde, bu bölge, renkli bir manzara sunar. Kış mevsiminde, karla kaplı bir görünüm sergilerken, yaz mevsiminde, yeşilin farklı tonlarını gösterir.
 
 ## Ziyaret Bilgileri
 

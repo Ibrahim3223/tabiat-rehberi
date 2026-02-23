@@ -23,7 +23,7 @@ wikidata_id: "Q108228673"
 
 # BİTLİS
 
-BİTLİS, İç Anadolu Bölgesi'nin güzide bir noktasında yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Bu bölge, ziyaretçilerini farklı bir dünya içine çekmeyi başarıyor. Her mevsim ayrı bir güzellik sunan BİTLİS, doğa tutkunlarının keyif alacağı bir yer.
+BİTLİS, İç Anadolu Bölgesi'nin güzide bir noktasında yer alıyor. Bu bölge, ziyaretçilerini farklı bir dünya içine çekmeyi başarıyor. Her mevsim ayrı bir güzellik sunan BİTLİS, doğa tutkunlarının keyif alacağı bir yer.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ BİTLİS, İç Anadolu Bölgesi'nin coğrafi olarak farklı bir köşesinde yer 
 
 ## Flora ve Fauna
 
-BİTLİS, flora ve fauna açısından oldukça zengin bir bölge. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Mevsimsel değişimlerle birlikte, bu bölge farklı bir güzelliğe bürünüyor. Bahar ve yaz aylarında, yeşilin tüm tonlarını görebileceğiniz BİTLİS, doğa severler için bir cennet. Bu bölgede, zengin bir fauna da bulunuyor. Çeşitli hayvan türleri, bu bölgede yaşamını sürdürüyor.
+ Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Mevsimsel değişimlerle birlikte, bu bölge farklı bir güzelliğe bürünüyor. Bahar ve yaz aylarında, yeşilin tüm tonlarını görebileceğiniz BİTLİS, doğa severler için bir cennet. Bu bölgede, zengin bir fauna da bulunuyor. Çeşitli hayvan türleri, bu bölgede yaşamını sürdürüyor.
 
 ## Ziyaret Bilgileri
 

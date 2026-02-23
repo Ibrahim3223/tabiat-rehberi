@@ -1,7 +1,7 @@
 ---
 title: "İlyasbey Köy Hamamı"
 date: "2026-01-10T04:29:22.625Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738789"
 
 # İlyasbey Köy Hamamı
 
-İlyasbey Köy Hamamı, Bilecik ilinin merkezinde, Marmara Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Köy hamamının çevresinde, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekiyor. İlyasbey Köy Hamamı, hem doğa tutkunları hem de tarih meraklıları için bir hazine gibi gömülü waiting.
+İlyasbey Köy Hamamı, Bilecik ilinin merkezinde, Marmara Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Köy hamamının çevresinde, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekiyor. İlyasbey Köy Hamamı, hem doğa tutkunları hem de tarih meraklıları için bir hazine gibi gömülü waiting.
 
 ## Tarihçe
 

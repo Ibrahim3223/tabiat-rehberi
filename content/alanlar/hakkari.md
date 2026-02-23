@@ -23,7 +23,7 @@ wikidata_id: "Q108228674"
 
 # HAKKARİ
 
-Hakkâri milli parkı, İç Anadolu Bölgesi'nin güneydoğusunda yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Doğal güzellikleri ve tarihi geçmişiyle birlikte, ziyaretçiler için bir gezi cenneti sunuyor.
+Hakkâri milli parkı, İç Anadolu Bölgesi'nin güneydoğusunda yer alan bir doğa harikasıdır. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Doğal güzellikleri ve tarihi geçmişiyle birlikte, ziyaretçiler için bir gezi cenneti sunuyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Hakkâri milli parkını ziyaret etmek için, ziyaretçilerin belirli bir mevsim
 ## İlginç Bilgiler
 
 - Milli parkta, birçok farklı bitki türü bulunur
-- Bölgede, histórik geçmişi olan birçok yapı yer alır
+- Bölgede, tarihi geçmişi olan birçok yapı yer alır
 - Milli park, doğa severler için ideal bir gezi alanıdır
 - Ziyaretçiler, milli parkta, birçok farklı hayvan türüne rastlayabilirler
 - Milli parkın coğrafi yapısı, ziyaretçilerin doğayı keşfetmeleri için ideal bir ortam sunar

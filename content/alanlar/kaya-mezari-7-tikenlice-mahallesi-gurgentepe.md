@@ -29,7 +29,7 @@ wikidata_id: "Q134728208"
 
 # Kaya Mezarı 7 (Tikenlice Mahallesi) Gürgentepe
 
-Kaya Mezarı 7, Gürgentepe'de Tikenlice Mahallesi'nde bulunan bir plaj olarak doğal güzellikleri ve tarihi önemi ile dikkat çekiyor. Bu alan, Karadeniz Bölgesi'nin zengin coğrafi çeşitliliğini yansıtan bir nokta olarak ön plana çıkıyor. Gürgentepe, Ordu ilinin bir ilçesi olarak, tarihi ve kültürel özellikleri ile birlikte coğrafi güzellikleri de sunuyor. Kaya Mezarı 7, bu bölgenin önemli bir parçası olarak, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir noktaya davet ediyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir faaliyet alanı sunuyor.
+Kaya Mezarı 7, Gürgentepe'de Tikenlice Mahallesi'nde bulunan bir plaj olarak doğal güzellikleri ve tarihi önemi ile dikkat çekiyor. Bu alan, Karadeniz Bölgesi'nin zengin coğrafi çeşitliliğini yansıtan bir nokta olarak ön plana çıkıyor. Gürgentepe, Ordu ilinin bir ilçesi olarak, tarihi ve kültürel özellikleri ile birlikte coğrafi güzellikleri de sunuyor. Kaya Mezarı 7, bu bölgenin önemli bir parçası olarak, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir noktaya davet ediyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32138636"
 
 # Gözetleme Tepe
 
-Gözetleme Tepe, Hakkari'nin gökyüzüne uzanan bir tepe olarak, Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarıyla karşılar. Gözetleme Tepe, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir. Burada, doğanın güzelliğini ve bölgenin tarihi zenginliğini keşfetmenin keyfini çıkarabilirsiniz.
+Gözetleme Tepe, Hakkari'nin gökyüzüne uzanan bir tepe olarak, Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Gözetleme Tepe, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir. Burada, doğanın güzelliğini ve bölgenin tarihi zenginliğini keşfetmenin keyfini çıkarabilirsiniz.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31558049"
 
 # Taşlıkale Tepesi
 
-Taşlıkale Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleriyle dikkat çekici bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, Ankara'nın doğal alanlarını keşfetmek isteyenler için önemli bir destinasyon. Taşlıkale Tepesi, coğrafyası ve tarihi ile ziyaretçilerini cezbediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta.
+Taşlıkale Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleriyle dikkat çekici bir tepe. Bu bölge, Ankara'nın doğal alanlarını keşfetmek isteyenler için önemli bir destinasyon. Taşlıkale Tepesi, coğrafyası ve tarihi ile ziyaretçilerini cezbediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

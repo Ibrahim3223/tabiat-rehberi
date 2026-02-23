@@ -32,9 +32,9 @@ wikidata_id: "Q49042832"
 
 ## Tarihçe
 
-Şırnak bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, Mezopotamya'nın kalbinde yer alan bir kavşak noktası olarak, çeşitli uygarlıkların etkilerini taşımaktadır. Sümerler, Asurlular ve Urartular gibi antik medeniyetler, bu topraklarda izlerini bırakmışlardır. 
+Şırnak bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bu bölge, Mezopotamya'nın kalbinde yer alan bir kavşak noktası olarak, çeşitli uygarlıkların etkilerini taşımaktadır. Sümerler, Asurlular ve Urartular gibi antik medeniyetler, bu topraklarda izlerini bırakmışlardır.
 
-Kürikşehir Tepe gibi doğal alanlar, Türkiye'nin coğrafi çeşitliliğiçerisinde önemli bir yer tutmaktadır. Bu tür alanlar, sadece doğal güzellikleri ile değil, aynı zamanda tarihsel ve kültürel önemleri ile de dikkat çekmektedir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin insanlarla olan ilişkisini şekillendirmiştir. 
+Kürikşehir Tepe gibi doğal alanlar, Türkiye'nin coğrafi çeşitliliğiçerisinde önemli bir yer tutmaktadır. Bu tür alanlar, sadece doğal güzellikleri ile değil, aynı zamanda tarihsel ve kültürel önemleri ile de dikkat çekmektedir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin insanlarla olan ilişkisini şekillendirmiştir.
 
 Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, burada yaşayan halkların kültürel zenginliğine katkıda bulunmuştur. Şırna ve çevresi, farklı medeniyetlerin bir araya geldiği bir bölge olarak, zengin bir kültürel mirasa sahiptir. Bu miras, doğal alanların korunması ve gelecek nesiller için saklanması açısından büyük önem taşımaktadır.
 

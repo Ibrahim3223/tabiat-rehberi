@@ -22,7 +22,7 @@ wikidata_id: "Q108228155"
 
 # Görnek Tabiat Parkı
 
-Görnek Tabiat Parkı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu park, bölgenin en büyük yeşil alanlarından biri olarak bilinir ve doğa severler için bir cennet gibidir. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunur. Görnek Tabiat Parkı, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbeder. Parkın etrafında bulunan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü tanıma fırsatı sunar.
+ Bu park, bölgenin en büyük yeşil alanlarından biri olarak bilinir ve doğa severler için bir cennet gibidir. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunur. Görnek Tabiat Parkı, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbeder. Parkın etrafında bulunan köyler ve kasabalar, ziyaretçilere geleneksel Türk kültürünü tanıma fırsatı sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Görnek Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca süregelmiştir
 
 ## Coğrafya
 
-Görnek Tabiat Parkı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Parkın etrafında bulunan dağlar ve vadiler, ziyaretçilere muhteşem manzaralar sunar. Görnek Tabiat Parkı, İç Anadolu Bölgesi'nin en büyük yeşil alanlarından biri olarak bilinir ve doğa severler için bir cennet gibidir. Parkın iklimi, karasal iklim özellikleri taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
+Görnek Tabiat Parkı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Parkın etrafında bulunan dağlar ve vadiler, ziyaretçilere muhteşem manzaralar sunar. Görnek Tabiat Parkı, İç Anadolu Bölgesi'nin en büyük yeşil alanlarından biri olarak bilinir ve doğa severler için bir cennet gibidir. Parkın iklimi, karasal iklim özellikleri taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Kiler-i Hümâyun Binası"
 date: "2026-01-10T04:38:17.349Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133684813"
 
 # Yıldız Sarayı Kiler-i Hümâyun Binası
 
-Yıldız Sarayı Kiler-i Hümâyun Binası, İstanbul'un Beşiktaş ilçesinde yer alan ve tarihi değerleriyle ön plana çıkan bir mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Historik bir geçmişe sahip olan bu bölge, ziyaretçilerini zamanda yolculuğa çıkarıyor. Yıldız Sarayı Kiler-i Hümâyun Binası, Marmara Bölgesi'nin güzide yerlerinden biri olarak biliniyor ve İstanbul'un önemli kültür miraslarından biri olarak kabul ediliyor.
+Yıldız Sarayı Kiler-i Hümâyun Binası, İstanbul'un Beşiktaş ilçesinde yer alan ve tarihi değerleriyle ön plana çıkan bir mekan. Historik bir geçmişe sahip olan bu bölge, ziyaretçilerini zamanda yolculuğa çıkarıyor. Yıldız Sarayı Kiler-i Hümâyun Binası, Marmara Bölgesi'nin güzide yerlerinden biri olarak biliniyor ve İstanbul'un önemli kültür miraslarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

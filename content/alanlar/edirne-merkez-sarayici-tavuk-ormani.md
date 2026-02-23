@@ -1,7 +1,7 @@
 ---
 title: "EDİRNE MERKEZ SARAYİÇİ TAVUK ORMANI"
 date: "2026-01-09T21:52:11.302Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228935"
 
 # EDİRNE MERKEZ SARAYİÇİ TAVUK ORMANI
 
-Edirne Merkez Sarayıçı Tavuk Ormanı, yaklaşık 140 hektarlık alanıyla, ziyaretçilerini doğanın kucağına davet ediyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunuyor. Ormanın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyimi vaat ediyor.
+Edirne Merkez Sarayıçı Tavuk Ormanı, yaklaşık 140 hektarlık alanıyla, ziyaretçilerini doğanın kucağına davet ediyor. Ormanın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyimi vaat ediyor.
 
 ## Tarihçe
 

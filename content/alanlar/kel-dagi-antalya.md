@@ -32,7 +32,7 @@ Antalya'nın köklü tarihi ve zengin doğasıyla ön plana çıkan bir bölgesi
 
 ## Tarihçe
 
-Kel Dağı, Türkiye'nin turizm cenneti Antalya'nın kalbinde yer alan bir doğal güzellik. Bu bölge, tarihin sâu sayfalarında önemli bir yere sahiptir. Antalya, tarih boyunca birçok uygarlığa ev sahipliği yapmış; Lidyalılar, Persler, Romalılar ve Selçuklular gibi medeniyetler bu topraklarda izler bırakmışlardır. Bu çeşitlilik, bölgenin kültürel zenginliğini ve tarihi öneminin boyutlarını gösterir.
+Kel Dağı, Türkiye'nin turizm cenneti Antalya'nın kalbinde yer alan bir doğal güzellik. Bu bölge, tarihin derin sayfalarında önemli bir yere sahiptir. Antalya, tarih boyunca birçok uygarlığa ev sahipliği yapmış; Lidyalılar, Persler, Romalılar ve Selçuklular gibi medeniyetler bu topraklarda izler bırakmışlardır. Bu çeşitlilik, bölgenin kültürel zenginliğini ve tarihi öneminin boyutlarını gösterir.
 
 Doğal güzellikleri ve coğrafi konumu nedeniyle, Kel Dağı gibi alanlar Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu tür doğal alanlar, insanların yaşamlarında her daim önemli bir rol oynamıştır. Yayla ve otlaklar, yaylacılık ve hayvancılık faaliyetleri için elverişli ortamlar sunarken, aynı zamanda ticaret yolları ve stratejik noktalarda yer alırlar. İnsanlar, bu bölgeleri sadece doğal güzellikleri için değil, aynı zamanda ekonomi ve sosyal faaliyetler için de kullanmışlardır.
 
@@ -52,9 +52,9 @@ Doğal bir anıt gibi duran Kel Dağı, çevresindeki diğer coğrafi oluşumlar
 
 Kel Dağı'nın flora ve fauna bölümü, ziyaretçilere benzersiz bir doğa deneyimi sunar. 1200 hektarlık bu yeşil cennet, maki bitki örtüsü ve kuraklığa dayanıklı türlerle kaplıdır. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göç eden kuşlar dağların üzerinde uçarak geçer.
 
-Dağın yükseklik zonlarında, alpin flora hakimdir. Bu zona özgü bitkiler, dağların zor koşullarına adapte olmuştur. Kıyı ekosistemi, dağların eteklerinde yer alır ve zengin bir bitki çeşitliliğine ev sahipliği yapar. 
+Dağın yükseklik zonlarında, alpin flora hakimdir. Bu zona özgü bitkiler, dağların zor koşullarına adapte olmuştur. Kıyı ekosistemi, dağların eteklerinde yer alır ve zengin bir bitki çeşitliliğine ev sahipliği yapar.
 
-Kel Dağı'nın yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gökyüzünde süzülür. Sürüngenler, kayalık alanlarda ve çalılıklarda yaşar. 
+Kel Dağı'nın yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gökyüzünde süzülür. Sürüngenler, kayalık alanlarda ve çalılıklarda yaşar.
 
 Kel Dağı, ekolojik açıdan önemli bir bölgedir. Dağın yükseklik zonları, alpin flora ve fauna için koruma alanı oluşturur. Bu bölge, aynı zamanda göç eden kuşlar için önemli bir durak noktasıdır. Koruma durumu, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemlidir.
 

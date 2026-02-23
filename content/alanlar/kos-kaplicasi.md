@@ -28,15 +28,15 @@ wikidata_id: "Q49741951"
 
 # Kös Kaplıcası
 
-Kös Kaplıcası, Çankırı ilinin merkezine uzun bir mesafe uzaklıkta, İç Anadolu Bölgesi'nin kalbinde yer alan bir termal kaynak. Bu şifalı su kaynağının bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan, yani yaklaşık 200 futbol sahası büyüklüğünde. Burada, doğanın güzelliği ve kaplıcanın sularının şifası bir araya gelerek, ziyaretçilere huzurlu bir kaçış sunuyor. Kös Kaplıcası, yıllardır sağlık ve rahatlık arayanların sığınağı olmuş ve bölge için önemli bir turizm merkezi haline gelmiştir.
+Kös Kaplıcası, Çankırı ilinin merkezine uzun bir mesafe uzaklıkta, İç Anadolu Bölgesi'nin kalbinde yer alan bir termal kaynak. Burada, doğanın güzelliği ve kaplıcanın sularının şifası bir araya gelerek, ziyaretçilere huzurlu bir kaçış sunuyor. Kös Kaplıcası, yıllardır sağlık ve rahatlık arayanların sığınağı olmuş ve bölge için önemli bir turizm merkezi haline gelmiştir.
 
 ## Tarihçe
 
-Kös Kaplıcası'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tarihi boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmış ve her biri bu topraklara kendi kültürel mirasını bırakmıştır. Kaplıcanın şifalı suları, eski dönemlerden beri bilinmekte ve sağlık amacıyla kullanılmaktaydı. Zaman içinde, bu doğal kaynak etrafında gelişen yerleşim, günümüzde önemli bir sağlık ve turizm merkezi haline gelmiş ve Kös Kaplıcası, Çankırı'nın en önemli cazibe merkezlerinden biri olmuştur. Bölgenin tarihi zenginlikleri ve kaplıcanın şifalı suları, ziyaretçilere hem sağlık hem de kültürel bir expérience sunuyor.
+Kös Kaplıcası'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tarihi boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmış ve her biri bu topraklara kendi kültürel mirasını bırakmıştır. Kaplıcanın şifalı suları, eski dönemlerden beri bilinmekte ve sağlık amacıyla kullanılmaktaydı. Zaman içinde, bu doğal kaynak etrafında gelişen yerleşim, günümüzde önemli bir sağlık ve turizm merkezi haline gelmiş ve Kös Kaplıcası, Çankırı'nın en önemli cazibe merkezlerinden biri olmuştur. Bölgenin tarihi zenginlikleri ve kaplıcanın şifalı suları, ziyaretçilere hem sağlık hem de kültürel bir deneyim sunuyor.
 
 ## Coğrafya
 
-Kös Kaplıcası, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, bozkır ikliminin hüküm sürdüğü bir alanda yer alıyor ve bu nedenle, kışları soğuk, yazları sıcak ve kurak geçer. Kaplıca, doğal bir havza içinde yer almakta ve etrafı, çeşitli bitki türleriyle dolu yeşil alanlarla çevrilidir. Bu şifalı su kaynağı, yeraltı sularının yüzeye çıkmasıyla oluşmuş ve suların sıcaklığı, yıl boyunca değişmeden khong 40 derece civarında kalıyor. Kaplıcanın bulunduğu alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Bu doğal güzellikler, Kös Kaplıcası'nı, hem sağlık arayanların hem de doğa severlerin ziyaret edebileceği ideal bir destinasyon haline getiriyor.
+Kös Kaplıcası, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, bozkır ikliminin hüküm sürdüğü bir alanda yer alıyor ve bu nedenle, kışları soğuk, yazları sıcak ve kurak geçer. Kaplıca, doğal bir havza içinde yer almakta ve etrafı, çeşitli bitki türleriyle dolu yeşil alanlarla çevrilidir. Bu şifalı su kaynağı, yeraltı sularının yüzeye çıkmasıyla oluşmuş ve suların sıcaklığı, yıl boyunca değişmeden khong 40 derece civarında kalıyor. Bu doğal güzellikler, Kös Kaplıcası'nı, hem sağlık arayanların hem de doğa severlerin ziyaret edebileceği ideal bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 

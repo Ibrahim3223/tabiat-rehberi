@@ -30,7 +30,7 @@ wikidata_id: "Q108608426"
 
 # Pers Mezar Anıtı
 
-Foça'da bulunan Pers Mezar Anıtı, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerine ev sahipliği yapıyor. Bu özel nokta, tarihi ve doğanın birleştiği bir punto. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Pers Mezar Anıtı, Foça'nın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Bu sayede, ziyaretçiler hem tarihi hem de doğal güzellikleri aynı anda keşfedebiliyorlar.
+Foça'da bulunan Pers Mezar Anıtı, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerine ev sahipliği yapıyor. Bu özel nokta, tarihi ve doğanın birleştiği bir punto. Pers Mezar Anıtı, Foça'nın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Bu sayede, ziyaretçiler hem tarihi hem de doğal güzellikleri aynı anda keşfedebiliyorlar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Pers Mezar Anıtı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu a
 
 ## Coğrafya
 
-Pers Mezar Anıtı, Foça'nın doğal güzellikleriyle çevrili bir bölgede yer alıyor. Bu bölge, Ege Bölgesi'nin tipik coğrafi özellikleri taşıyor ve ziyaretçilerine eşsiz manzaralar sunuyor. Anıtın bulunduğu alan, 140 hektarlık bir yeşil alan ve bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimi ve bu, ziyaretçilere yıl boyunca çeşitli aktiviteler yapma imkanı veriyor. Pers Mezar Anıtı'nın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı ve bu, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Pers Mezar Anıtı, Foça'nın doğal güzellikleriyle çevrili bir bölgede yer alıyor. Bu bölge, Ege Bölgesi'nin tipik coğrafi özellikleri taşıyor ve ziyaretçilerine eşsiz manzaralar sunuyor. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Bölgenin iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimi ve bu, ziyaretçilere yıl boyunca çeşitli aktiviteler yapma imkanı veriyor. Pers Mezar Anıtı'nın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı ve bu, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

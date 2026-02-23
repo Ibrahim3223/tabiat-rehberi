@@ -1,7 +1,7 @@
 ---
 title: "Pertevniyal Valide Sultan Türbesi"
 date: "2026-01-10T07:42:06.826Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391099"
 
 # Pertevniyal Valide Sultan Türbesi
 
-Pertevniyal Valide Sultan Türbesi, İstanbul'un tarihi mekanlarından biri olarak Marmara Bölgesi'nde, Fatih ilçesinde yer alıyor. Bu önemli mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir alan üzerinde kurulmuştur. Pertevniyal Valide Sultan Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir yapıdır. Bu türbe, Osmanlı İmparatorluğu'nun önemli isimlerinden Pertevniyal Valide Sultan'ın anısına inşa edilmiştir. Pertevniyal Valide Sultan Türbesi, mimarisi ve tarihi önemi ile ziyaretçilerini cezbetmektedir.
+Pertevniyal Valide Sultan Türbesi, İstanbul'un tarihi mekanlarından biri olarak Marmara Bölgesi'nde, Fatih ilçesinde yer alıyor. Pertevniyal Valide Sultan Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir yapıdır. Bu türbe, Osmanlı İmparatorluğu'nun önemli isimlerinden Pertevniyal Valide Sultan'ın anısına inşa edilmiştir. Pertevniyal Valide Sultan Türbesi, mimarisi ve tarihi önemi ile ziyaretçilerini cezbetmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Pertevniyal Valide Sultan Türbesi, Pertevniyal Valide Sultan'ın anısına inş
 
 ## Coğrafya
 
-Pertevniyal Valide Sultan Türbesi, Marmara Bölgesi'nde, Fatih ilçesinde yer almaktadır. Pertevniyal Valide Sultan Türbesi, İstanbul'un tarihi mekanlarından biri olarak kurulmuştur. Pertevniyal Valide Sultan Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir alan üzerinde kurulmuştur. Pertevniyal Valide Sultan Türbesi, İstanbul'un coğrafi konumu itibariyle önemli bir yere sahiptir. Pertevniyal Valide Sultan Türbesi, deniz seviyesinden yüksek bir konumda yer alır. Pertevniyal Valide Sultan Türbesi, İstanbul'un iklimini yansıtan bir bölgede yer almaktadır. Pertevniyal Valide Sultan Türbesi, ziyaretçilerini cezbetmektedir. Pertevniyal Valide Sultan Türbesi,İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir yapıdır. Pertevniyal Valide Sultan Türbesi, mimarisi ve tarihi önemi ile ziyaretçilerini etkilemektedir.
+Pertevniyal Valide Sultan Türbesi, Marmara Bölgesi'nde, Fatih ilçesinde yer almaktadır. Pertevniyal Valide Sultan Türbesi, İstanbul'un tarihi mekanlarından biri olarak kurulmuştur. Pertevniyal Valide Sultan Türbesi, İstanbul'un coğrafi konumu itibariyle önemli bir yere sahiptir. Pertevniyal Valide Sultan Türbesi, deniz seviyesinden yüksek bir konumda yer alır. Pertevniyal Valide Sultan Türbesi, İstanbul'un iklimini yansıtan bir bölgede yer almaktadır. Pertevniyal Valide Sultan Türbesi, ziyaretçilerini cezbetmektedir. Pertevniyal Valide Sultan Türbesi,İstanbul'un tarihi ve kültürel zenginliklerini yansıtan önemli bir yapıdır. Pertevniyal Valide Sultan Türbesi, mimarisi ve tarihi önemi ile ziyaretçilerini etkilemektedir.
 
 ## Flora ve Fauna
 

@@ -33,7 +33,7 @@ Kahramanmaraş'ın Döngel ilçesinde, doğanın mucizeleri arasında gizli bir 
 
 ## Tarihçe
 
-Kahramanmaraş, tarihin sâu sayfalarında gizli bir hazine gibi duran bir bölge. Direkli Mağarası, bu bölgenin doğal güzelliklerinin sadece bir kısmı. Bölge, tarihi İpek Yolu'nun önemli duraklarından biri olarak, ticaret ve kültür alışverişinin canlı olduğu bir yerdi. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, insanlık tarihinin önemli bir kısmına tanıklık etti.
+Kahramanmaraş, tarihin derin sayfalarında gizli bir hazine gibi duran bir bölge. Direkli Mağarası, bu bölgenin doğal güzelliklerinin sadece bir kısmı. Bölge, tarihi İpek Yolu'nun önemli duraklarından biri olarak, ticaret ve kültür alışverişinin canlı olduğu bir yerdi. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, insanlık tarihinin önemli bir kısmına tanıklık etti.
 
 Doğal güzellikleri ve stratejik konumuyla, Kahramanmaraş ve çevresindeki mağaralar, tarih boyunca insanların yaşam alanları, sığınakları ve ticaret merkezleri olarak kullanıldı. Yaylacılık ve hayvancılık, bu bölgede yaşayanın yonel uğraşlarından biri olarak, doğanın sunduğu imkanlardan yararlanmayı gerektiriyordu. Direkli Mağarası da, bu doğal ve kültürel zenginliklerin bir parçası olarak, ziyaretçilerini tarihin derinliklerine götürüyor.
 
@@ -51,7 +51,7 @@ Doğal bir oluşum olan Direkli Mağarası, yaklaşık olarak bir şehir bloğu 
 
 Direkli Mağarası'nın girişinde, step bitki örtüsünün hakim olduğu bir manzara sizi karşılar. İlkbaharın gelmesiyle birlikte, bozkırın kuru toprakları rengarenk çiçeklerle donanır. Bu çiçekler, mağaranın girişinde yaşayan çeşitli böcek türleri için wichtig bir besin kaynağıdır.
 
-Mağara içinde ve çevresinde, kuraklığa adapte olmuş çeşitli bitki türleri bulunur. Bu bitkiler, mağaranın özel iklim koşullarına uyum sağlamışlardır. Sonbaharda, göçmen kuşlar mağara çevresinde konaklar ve bu bitkilerden faydalanır. 
+Mağara içinde ve çevresinde, kuraklığa adapte olmuş çeşitli bitki türleri bulunur. Bu bitkiler, mağaranın özel iklim koşullarına uyum sağlamışlardır. Sonbaharda, göçmen kuşlar mağara çevresinde konaklar ve bu bitkilerden faydalanır.
 
 Mağara ve çevresinde, çeşitli yaban hayvanları yaşamaktadır. Memeliler, mağaranın karanlıköşelerinde barınırken, kuşlar mağara girişinde yuvalanır. Sürüngenler ise, mağara duvarlarında ve çevresindeki kayalarda yaşar. Bu canlıların birbiriyle olan ekolojik ilişkileri, mağaranın doğal dengesini korur. Mağara, bu canlılar için önemli bir yaşam alanıdır ve koruma altına alınması gerekmektedir.
 

@@ -46,7 +46,7 @@ Mevsimsel açıdan bakıldığında, Aygörmez Dağı'nın iklim karakteri, Mala
 
 ## Flora ve Fauna
 
-Aygörmez Dağı, Malatya'nın yüksek dağ ekolojisinin bir örneği olarak karşımıza çıkar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarına göre değişen flora, ilkbaharda renkli çiçeklerle donanırken, sonbaharda sarı ve kahverengi tonlara bürünür. 
+Aygörmez Dağı, Malatya'nın yüksek dağ ekolojisinin bir örneği olarak karşımıza çıkar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarına göre değişen flora, ilkbaharda renkli çiçeklerle donanırken, sonbaharda sarı ve kahverengi tonlara bürünür.
 
 Bitki örtüsünde alpin çayırlar hakimdir ve bu bölgede endemik türler bulunur. Yaban hayatı açısından zengin olan Aygörmez Dağı, çeşitli memeliler, kuşlar ve sürüngenlerin yaşam alanını oluşturur. Bu dağ ekosisteminde, canlılar birbirleriyle ve çevreleriyle sıkı bir ilişki içindedir. Örneğin, bazı kuş türleri, dağların yüksek kesimlerinde bulunan bitkilerden beslenirken, diğerleri bu bitkilerin tohumsuzlaşmasını sağlar.
 

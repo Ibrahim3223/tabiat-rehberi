@@ -28,7 +28,7 @@ wikidata_id: "Q31388493"
 
 # Eşme Tepe
 
-Eşme Tepe, Erzurum'un kalbinde yer alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüleyici tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğayla baş başa kalmaya davet eden bir cennet. Eşme Tepe, hem doğa severlerin hem de şehrin kalabalığından kaçmak isteyenlerin sığınağı. Burada, yemyeşil çayırlar, renkli çiçekler ve çeşitli ağaç türleri ile karşılaşacaksınız. Eşme Tepe, Erzurum'un en önemli doğal güzelliklerinden biri olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından keşfediliyor.
+ Bu büyüleyici tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğayla baş başa kalmaya davet eden bir cennet. Eşme Tepe, hem doğa severlerin hem de şehrin kalabalığından kaçmak isteyenlerin sığınağı. Burada, yemyeşil çayırlar, renkli çiçekler ve çeşitli ağaç türleri ile karşılaşacaksınız. Eşme Tepe, Erzurum'un en önemli doğal güzelliklerinden biri olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından keşfediliyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Eşme Tepe, Erzurum'un coğrafi olarak önemli bir noktasında yer alıyor. Bu t
 
 ## Flora ve Fauna
 
-Eşme Tepe, flora ve fauna açısından oldukça zengin bir alandır. Burada, birçok farklı bitki türü ile karşılaşma mümkün. Tepe, yemyeşil çayırlar ve çeşitli ağaç türleriyle kaplı. Ayrıca, bu bölgede birçok farklı çiçek türü de yetişiyor. Eşme Tepe'nin faunaı da oldukça çeşitlilik gösteriyor. Burada, birçok farklı hayvan türüne rastlama mümkün. Tepe ve çevresinde, özellikle kuş türleri oldukça fazla. Ayrıca, bu bölgede birçok farklı böce ve memeli hayvan türü de yaşamını sürdürüyor. Eşme Tepe, doğa severlerin ve hayvanseverlerin ziyaret edebileceği önemli bir doğal güzellik.
+ Burada, birçok farklı bitki türü ile karşılaşma mümkün. Tepe, yemyeşil çayırlar ve çeşitli ağaç türleriyle kaplı. Ayrıca, bu bölgede birçok farklı çiçek türü de yetişiyor. Eşme Tepe'nin faunaı da oldukça çeşitlilik gösteriyor. Burada, birçok farklı hayvan türüne rastlama mümkün. Tepe ve çevresinde, özellikle kuş türleri oldukça fazla. Ayrıca, bu bölgede birçok farklı böce ve memeli hayvan türü de yaşamını sürdürüyor. Eşme Tepe, doğa severlerin ve hayvanseverlerin ziyaret edebileceği önemli bir doğal güzellik.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34828733"
 
 # Çavuşkalesi Tepesi
 
-Ankara'nın kalbinde, İç Anadolu Bölgesi'nin coğrafi güzelliğini yansıtan Çavuşkalesi Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir doğa harikasıdır. Bu tepe, Ankara'nın cityscape'ine farklı bir boyut katar ve ziyaretçilere şehrin kalabalığından uzaklaşarak doğayla iç içe olma fırsatı sunar. Çavuşkalesi Tepesi, Ankara'nın gizli güzelliği olarak bilinir ve doğa severlerin, fotoğraf sanatçılarının ve macera arayanların ilgi odağıdır.
+ Bu tepe, Ankara'nın cityscape'ine farklı bir boyut katar ve ziyaretçilere şehrin kalabalığından uzaklaşarak doğayla iç içe olma fırsatı sunar. Çavuşkalesi Tepesi, Ankara'nın gizli güzelliği olarak bilinir ve doğa severlerin, fotoğraf sanatçılarının ve macera arayanların ilgi odağıdır.
 
 ## Tarihçe
 

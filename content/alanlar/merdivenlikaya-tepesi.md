@@ -28,7 +28,7 @@ wikidata_id: "Q31510655"
 
 # Merdivenlikaya Tepesi
 
-Merdivenlikaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve ziyaretçilerini tarihi geçmişi ve eşsiz doğasıyla büyüleyen bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler, yöresel yemeklerini ve misafirperverliğini ziyaretçilerine sunuyor. Merdivenlikaya Tepesi, hem doğa hem de kültür severler için bir hazine.
+Merdivenlikaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve ziyaretçilerini tarihi geçmişi ve eşsiz doğasıyla büyüleyen bir destinasyon. Tepenin eteklerinde yer alan köyler, yöresel yemeklerini ve misafirperverliğini ziyaretçilerine sunuyor. Merdivenlikaya Tepesi, hem doğa hem de kültür severler için bir hazine.
 
 ## Tarihçe
 

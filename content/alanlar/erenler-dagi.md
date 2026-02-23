@@ -33,7 +33,7 @@ Konya'nın coğrafi çeşitliliği, şehrin doğal güzelliklerini keşfetmek i�
 
 ## Tarihçe
 
-Konya bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölge, çeşitli uygarlıkların yaşamına ev sahipliği yapmış, tarihi ticaret yollarının kesişme noktası olmuş ve kültürel zenginliklerin bir araya geldiği bir coğrafyadır. Erenler Dağı da bu coğrafyanın bir parçasıdır.
+Konya bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölge, çeşitli uygarlıkların yaşamına ev sahipliği yapmış, tarihi ticaret yollarının kesişme noktası olmuş ve kültürel zenginliklerin bir araya geldiği bir coğrafyadır. Erenler Dağı da bu coğrafyanın bir parçasıdır.
 
 Tarih boyunca, Konya ve çevresinde Hitit, Frig, Roma ve Selçuklu gibi uygarlıkların izlerini görme mümkündür. Bu bölgenin coğrafi konumu, tarihi ticaret yollarının geçiş noktası olması, insanların bu alanla güçlü bir ilişkiye sahip olmasını sağlamıştır. Yaylacılık, hayvancılık ve ticaret, insanların bu doğal alanlarla bağlantılı olarak yaşadıkları faaliyetlerdir.
 

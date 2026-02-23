@@ -22,7 +22,7 @@ wikidata_id: "Q108227147"
 
 # Subaşı-Havuzlar
 
-Subaşı-Havuzlar, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor. Ziyaretçiler, bu alanın sunduğu olanaklar ile hem doğa ile iç içe hem de tarihin sayfalarını karıştırmaya imkan buluyor.
+Subaşı-Havuzlar, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. Bu milli park, hem doğal güzellikleri hem de tarihi önemi ile dikkat çekiyor. Ziyaretçiler, bu alanın sunduğu olanaklar ile hem doğa ile iç içe hem de tarihin sayfalarını karıştırmaya imkan buluyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228283"
 
 # Trabzon-Torul-Gunyuzu-Dogu Ladini
 
-Trabzon-Torul-Gunyuzu-Dogu Ladini milli parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık alanı ile doğa severlerin keyif alacağı bir yer. Karadeniz Bölgesi'nin en güzel milli parklarından biri olan bu alan, yerlilerin ve turistlerin ziyaret ettiği önemli bir destinasyon.  Torul ilçesi, Trabzon'un en güzel ilçelerinden biri olarak bilinir ve milli parkı ile birlikte önemli bir turizm merkezidir. Milli park, ziyaretçilerine geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna sunar. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakır ve keyifli anlar yaşatır.
+ Karadeniz Bölgesi'nin en güzel milli parklarından biri olan bu alan, yerlilerin ve turistlerin ziyaret ettiği önemli bir destinasyon.  Torul ilçesi, Trabzon'un en güzel ilçelerinden biri olarak bilinir ve milli parkı ile birlikte önemli bir turizm merkezidir. Milli park, ziyaretçilerine geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna sunar. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakır ve keyifli anlar yaşatır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Trabzon-Torul-Gunyuzu-Dogu Ladini milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Trabzon-Torul-Gunyuzu-Dogu Ladini milli parkı, Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak bilinir. Milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunar. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli bitki türleri ve zengin fauna sunar. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimi olarak bilinir. Milli parkın çevresi, yerlilerin ve turistlerin ziyaret ettiği önemli bir destinasyon olarak bilinir. Torul ilçesi, milli parkı ile birlikte önemli bir turizm merkezidir. Milli park, ziyaretçilerine keyif alacağı bir yer olarak bilinir ve geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna sunar. Milli parkın coğrafi yapısı, ziyaretçilerine doğanın güzelliği ile baş başa bırakır ve keyifli anlar yaşatır. Milli parkın çevresi, yerlilerin ve turistlerin ziyaret ettiği önemli bir destinasyon olarak bilinir ve ziyaretçilerine çeşitli etkinlikler sunar.
+Trabzon-Torul-Gunyuzu-Dogu Ladini milli parkı, Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak bilinir. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli bitki türleri ve zengin fauna sunar. Milli parkın iklimi, Karadeniz Bölgesi'nin tipik iklimi olarak bilinir. Milli parkın çevresi, yerlilerin ve turistlerin ziyaret ettiği önemli bir destinasyon olarak bilinir. Torul ilçesi, milli parkı ile birlikte önemli bir turizm merkezidir. Milli park, ziyaretçilerine keyif alacağı bir yer olarak bilinir ve geniş yeşil alanlar, çeşitli bitki türleri ve zengin fauna sunar. Milli parkın coğrafi yapısı, ziyaretçilerine doğanın güzelliği ile baş başa bırakır ve keyifli anlar yaşatır. Milli parkın çevresi, yerlilerin ve turistlerin ziyaret ettiği önemli bir destinasyon olarak bilinir ve ziyaretçilerine çeşitli etkinlikler sunar.
 
 ## Flora ve Fauna
 

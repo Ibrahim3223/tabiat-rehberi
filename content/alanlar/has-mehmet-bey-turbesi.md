@@ -1,7 +1,7 @@
 ---
 title: "Has Mehmet Bey Türbesi"
 date: "2026-01-10T06:25:06.668Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sakarya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391825"
 
 # Has Mehmet Bey Türbesi
 
-Has Mehmet Bey Türbesi, Sakarya'nın Söğütlü ilçesinde yer alan ve tarihi öneme sahip bir türbedir. Bu özel destinasyon, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle karşılar. 140 hektarlık bir alanda konumlanan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferi deneyimleme hem de doğayla iç içe olma fırsatı sunar. Türbenin mimarisi, Türk kültürünün zenginliğini ve tarihi derinliğini yansıtan önemli özellikler taşır.
+Has Mehmet Bey Türbesi, Sakarya'nın Söğütlü ilçesinde yer alan ve tarihi öneme sahip bir türbedir. Bu özel destinasyon, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle karşılar. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferi deneyimleme hem de doğayla iç içe olma fırsatı sunar. Türbenin mimarisi, Türk kültürünün zenginliğini ve tarihi derinliğini yansıtan önemli özellikler taşır.
 
 ## Tarihçe
 

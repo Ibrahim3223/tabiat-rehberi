@@ -29,7 +29,7 @@ wikidata_id: "Q31387667"
 
 # Navur Tepesi
 
-Navur Tepesi, İç Anadolu Bölgesi'nin gözde noktalarından biri olarak ziyaretçilerini ağırlıyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde, sizi doğanın kucağına davet ediyor. Bu tepe, hem doğal güzellikleri hem de tarihi geçmişi ile dikkat çekiyor. Navur Tepesi, ziyaretçilerine hem huzur verici bir atmosfer sunuyor hem de zengin fauna ile karşılaşma fırsatı veriyor.
+Navur Tepesi, İç Anadolu Bölgesi'nin gözde noktalarından biri olarak ziyaretçilerini ağırlıyor. Bu tepe, hem doğal güzellikleri hem de tarihi geçmişi ile dikkat çekiyor. Navur Tepesi, ziyaretçilerine hem huzur verici bir atmosfer sunuyor hem de zengin fauna ile karşılaşma fırsatı veriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Navur Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Navur Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Navur Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ile zengin fauna tarafından şekillenmiştir. Bu tepe, ziyaretçilerine doğanın gerçek yüzünü gösteriyor. Navur Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Bu tepe, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim farklı bir güzellik sunuyor.
+Navur Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Navur Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ile zengin fauna tarafından şekillenmiştir. Bu tepe, ziyaretçilerine doğanın gerçek yüzünü gösteriyor. Navur Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Bu tepe, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 

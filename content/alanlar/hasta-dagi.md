@@ -66,5 +66,5 @@ Hasta Dağı, doğaseverler için bir cennet. Sabah erken gitmenizi öneririm, h
 - Dağın exact yüksekliği veya diğer özelliklerine dair spesifi veri bulunmamaktadır.
 - Coğrafi olarak konumu ve etimolojisi hakkında net bilgiler ise araştırmalara açık bir konudur.
 - Türkiye'de doğal güzelliklerin korunması açısından önemli bir role sahiptir.
-- Hasta Dağı, coğrafi ve histórik açıdan önemli bir bölge olarak kabul edilebilir.
+- Hasta Dağı, coğrafi ve tarihi açıdan önemli bir bölge olarak kabul edilebilir.
 - Ancak, daha detaylı ve somut bilgilere ihtiyaç duyulmaktadır.

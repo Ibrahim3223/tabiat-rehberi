@@ -1,7 +1,7 @@
 ---
 title: "Servet Seza Kadınefendi Türbesi"
 date: "2026-01-10T06:26:25.129Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391809"
 
 # Servet Seza Kadınefendi Türbesi
 
-Servet Seza Kadınefendi Türbesi, İstanbul'un tarihi ve kültürel zenginliğine katkıda bulunan önemli bir dini yapıdır. Fatih ilçesinde bulunan bu türbe, Marmara Bölgesi'nin önemli dini merkezlerinden biridir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere hem manevi bir deneyim hem de güzel bir doğal ortam sunar.
+Servet Seza Kadınefendi Türbesi, İstanbul'un tarihi ve kültürel zenginliğine katkıda bulunan önemli bir dini yapıdır. Fatih ilçesinde bulunan bu türbe, Marmara Bölgesi'nin önemli dini merkezlerinden biridir. Bu geniş alan, ziyaretçilere hem manevi bir deneyim hem de güzel bir doğal ortam sunar.
 
 ## Tarihçe
 

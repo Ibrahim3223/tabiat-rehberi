@@ -28,7 +28,7 @@ wikidata_id: "Q32210167"
 
 # Köklük Tepesi
 
-Köklük Tepesi, Denizli'nin Ege Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan sunar. Bu tepe, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunar. Köklük Tepesi, Denizli'nin merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Köklük Tepesi, yıl boyunca ziyaret edilebilir ve her mevsim farklı güzellikler sunar.
+Köklük Tepesi, Denizli'nin Ege Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunar. Köklük Tepesi, Denizli'nin merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Köklük Tepesi, yıl boyunca ziyaret edilebilir ve her mevsim farklı güzellikler sunar.
 
 ## Tarihçe
 

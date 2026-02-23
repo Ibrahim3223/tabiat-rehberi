@@ -28,11 +28,11 @@ wikidata_id: "Q31388553"
 
 # Yıldırımkaya Tepesi
 
-Yıldırımkaya Tepesi, Doğu Anadolu Bölgesi'nin Erzurum ilinde yer alan ve bölgenin doğal güzelliklerini barındıran bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir manzara sunmaktadır. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın bir parçası olmayı vaat etmektedir. Yıldırımkaya Tepesi, doğa severler ve macera arayışında olanların ilgisini çekmektedir.
+Yıldırımkaya Tepesi, Doğu Anadolu Bölgesi'nin Erzurum ilinde yer alan ve bölgenin doğal güzelliklerini barındıran bir destinasyondur. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın bir parçası olmayı vaat etmektedir. Yıldırımkaya Tepesi, doğa severler ve macera arayışında olanların ilgisini çekmektedir.
 
 ## Tarihçe
 
-Yıldırımkaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. Bölge, tarihi ticaret yollarının kesişme noktasında yer almakta ve bu nedenle stratejik bir önem taşımaktadır. Tepenin eteklerinde yer alan tarihi kalıntılar, bölgenin zengin kültürel mirasını gözler önüne sermekte ve ziyaretçilere geçmişin izlerini keşfetme fırsatı sunmaktadır. Yıldırımkaya Tepesi, yalnızca doğal güzellikleri değil, aynı zamanda tarihi değerleri ile de dikkat çekmektedir.
+Yıldırımkaya Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. Bölge, tarihi ticaret yollarının kesişme noktasında yer almakta ve bu nedenle stratejik bir önem taşımaktadır. Yıldırımkaya Tepesi, yalnızca doğal güzellikleri değil, aynı zamanda tarihi değerleri ile de dikkat çekmektedir.
 
 ## Coğrafya
 

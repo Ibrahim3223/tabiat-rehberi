@@ -1,7 +1,7 @@
 ---
 title: "Çandarlı Türbesi"
 date: "2026-01-10T05:18:01.990Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"

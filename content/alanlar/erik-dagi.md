@@ -33,7 +33,7 @@ wikidata_id: "Q31524205"
 
 ## Tarihçe
 
-İzmir'in doğal güzelliklerinden biri olan Erik Dağı, tarihin sâu izlerini taşıyan bir bölge olarak dikkat çekiyor. İzmir, binlerce yıldır çeşitli uygarlıkların yerleşim yeri olmuş bir şehirdir. Hititlerden, Lidyalılara; Perslerden, Romalılara kadar birçok medeniyet bu topraklarda yaşamıştır. Bu zengin tarihsel miras, bölgenin doğal alanlarına da yansımıştır.
+İzmir'in doğal güzelliklerinden biri olan Erik Dağı, tarihin derin izlerini taşıyan bir bölge olarak dikkat çekiyor. İzmir, binlerce yıldır çeşitli uygarlıkların yerleşim yeri olmuş bir şehirdir. Hititlerden, Lidyalılara; Perslerden, Romalılara kadar birçok medeniyet bu topraklarda yaşamıştır. Bu zengin tarihsel miras, bölgenin doğal alanlarına da yansımıştır.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu alanların insanlarla olan bağlantısını güçlendirmiştir. İzmir'in dağlık bölgeleri de, bu faaliyetlerin önemli merkezlerinden biri olarak görev yapmıştır. İnsanların bu doğal alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir.
 
@@ -47,7 +47,7 @@ Doğal güzellikleri ve coğrafi yapısı ile dikkat çeken Erik Dağı, fizikse
 
 İklim açısından, Ege Bölgesi'nin genel iklim karakterini yansıtan Erik Dağı, ılıman bir iklimi sahiptir. Mevsimsel olarak, yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava durumu hakimdir. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkilemekte ve zengin bir ekosistemin oluşmasına katkıda bulunmaktadır.
 
-Çevresel açıdan, Erik Dağı, komşu ormanlık alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı oluşturmaktadır. Monaco'nun yaklaşık 1/10'u kadar bir alanı kaplayan bu dağlık bölge, bölgenin ekolojik dengesini korumak açısından büyük önem taşımaktadır. Ayrıca, yakın çevresinde bulunan köyler ve yerleşim yerleri ile de bir sosyal ve ekonomik bağlantı içinde olan Erik Dağı, İzmir'in doğal ve kültürel mirasının önemli bir parçasını oluşturmaktadır.
+Çevresel açıdan, Erik Dağı, komşu ormanlık alanlar ve su kaynakları ile önemli bir ekosistem bağlantısı oluşturmaktadır. Ayrıca, yakın çevresinde bulunan köyler ve yerleşim yerleri ile de bir sosyal ve ekonomik bağlantı içinde olan Erik Dağı, İzmir'in doğal ve kültürel mirasının önemli bir parçasını oluşturmaktadır.
 
 ## Flora ve Fauna
 

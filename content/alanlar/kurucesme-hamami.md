@@ -1,7 +1,7 @@
 ---
 title: "Kuruçeşme Hamamı"
 date: "2026-01-09T23:29:52.331Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739111"
 
 # Kuruçeşme Hamamı
 
-Kuruçeşme Hamamı, Beşiktaş'ın merkezinde, Marmara Denizi'nin kıyısında yer alan bir plaj ve hamam kompleksi. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kuruçeşme Hamamı, hem yerel halk hem de turistler için popüler bir destinasyon. Burada, deniz havası, güneşin sıcaklığı ve yeşilin serinliği bir araya geliyor. Kuruçeşme Hamamı'nı ziyaret ettiğinizde, hem denize girerek serinleyebilir hem de hamamın tarihi atmosferini deneyimleyebilirsiniz.
+Kuruçeşme Hamamı, Beşiktaş'ın merkezinde, Marmara Denizi'nin kıyısında yer alan bir plaj ve hamam kompleksi. Kuruçeşme Hamamı, hem yerel halk hem de turistler için popüler bir destinasyon. Burada, deniz havası, güneşin sıcaklığı ve yeşilin serinliği bir araya geliyor. Kuruçeşme Hamamı'nı ziyaret ettiğinizde, hem denize girerek serinleyebilir hem de hamamın tarihi atmosferini deneyimleyebilirsiniz.
 
 ## Tarihçe
 

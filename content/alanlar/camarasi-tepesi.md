@@ -28,7 +28,7 @@ wikidata_id: "Q34828135"
 
 # Çamarası Tepesi
 
-Konya, İç Anadolu Bölgesi'nin önemli kültür ve turizm merkezlerinden biri. Şehir, tarihi ve doğal güzellikleriyle ziyaretçilerini cezbediyor. Bu güzelliklerden biri de Çamarası Tepesi. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve ziyaretçilerine geniş bir görüş açısı sunuyor. Çamarası Tepesi, Konya'nın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Doğa severler için ideal bir destinasyon olan bu tepe, yürüyüş ve manzara seyir için mükemmel bir nokta.
+Konya, İç Anadolu Bölgesi'nin önemli kültür ve turizm merkezlerinden biri. Şehir, tarihi ve doğal güzellikleriyle ziyaretçilerini cezbediyor. Bu güzelliklerden biri de Çamarası Tepesi. Çamarası Tepesi, Konya'nın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Doğa severler için ideal bir destinasyon olan bu tepe, yürüyüş ve manzara seyir için mükemmel bir nokta.
 
 ## Tarihçe
 

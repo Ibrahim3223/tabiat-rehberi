@@ -28,7 +28,7 @@ wikidata_id: "Q31388249"
 
 # Ziyaret Tepesi (Kars, 40.45 Kuzey)
 
-Ziyaret Tepesi, Kars ilinin kuzeyinde yer alan, 40.45 kuzey enleminde bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Ziyaret Tepesi, Kars'ın önemli doğal güzelliklerinden biri olarak biliniyor. Tepe, şehir merkezine uzun bir mesafe uzaklıkta bulunuyor. Ziyaret Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Bu tepe, Kars'ın turizm potansiyelini artıran önemli bir nokta.
+Ziyaret Tepesi, Kars ilinin kuzeyinde yer alan, 40.45 kuzey enleminde bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Ziyaret Tepesi, Kars'ın önemli doğal güzelliklerinden biri olarak biliniyor. Tepe, şehir merkezine uzun bir mesafe uzaklıkta bulunuyor. Ziyaret Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Bu tepe, Kars'ın turizm potansiyelini artıran önemli bir nokta.
 
 ## Tarihçe
 

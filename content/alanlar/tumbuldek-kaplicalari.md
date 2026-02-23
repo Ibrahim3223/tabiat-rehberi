@@ -30,7 +30,7 @@ wikidata_id: "Q97320522"
 
 # Tümbüldek Kaplıcaları
 
-Tümbüldek Kaplıcaları, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Mustafakemalpaşa ilçesine bağlı olan bu kaplıca, doğal güzellikleri ve şifalı suları ile her yıl binlerce turisti ağırlıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve etrafı yeşilliklerle çevrili. Bu bölge, hem doğa severler hem de sağlık turizmi açısından büyük önem taşıyor. Tümbüldek Kaplıcaları, ziyaretçilerine huzurlu ve rahatlatıcı bir atmosfer sunuyor.
+Tümbüldek Kaplıcaları, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Mustafakemalpaşa ilçesine bağlı olan bu kaplıca, doğal güzellikleri ve şifalı suları ile her yıl binlerce turisti ağırlıyor. Bu bölge, hem doğa severler hem de sağlık turizmi açısından büyük önem taşıyor. Tümbüldek Kaplıcaları, ziyaretçilerine huzurlu ve rahatlatıcı bir atmosfer sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Tümbüldek Kaplıcaları, yüzyıllar boyunca insanların şifalı sularından 
 
 ## Coğrafya
 
-Tümbüldek Kaplıcaları, Marmara Bölgesi'nin Bursa ilinin Mustafakemalpaşa ilçesinde bulunuyor. Bu bölge, coğrafi olarak oldukça önemli bir konumda. Etrafı yeşilliklerle çevrili ve dağlarla çevrili bir vadi içinde yer alıyor. Kaplıca, 140 hektarlık bir alanda kurulmuş ve etrafı ormanlarla çevrili. Bu ormanlar, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğayla iç içe bir expérience sunuyor. Kaplıcanın coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de huzurlu bir atmosfer sunuyor. İklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim ziyaret edilebilir.
+Tümbüldek Kaplıcaları, Marmara Bölgesi'nin Bursa ilinin Mustafakemalpaşa ilçesinde bulunuyor. Bu bölge, coğrafi olarak oldukça önemli bir konumda. Etrafı yeşilliklerle çevrili ve dağlarla çevrili bir vadi içinde yer alıyor. Kaplıca, 140 hektarlık bir alanda kurulmuş ve etrafı ormanlarla çevrili. Bu ormanlar, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğayla iç içe bir deneyim sunuyor. Kaplıcanın coğrafi konumu, ziyaretçilere hem doğal güzellikleri hem de huzurlu bir atmosfer sunuyor. İklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim ziyaret edilebilir.
 
 ## Flora ve Fauna
 

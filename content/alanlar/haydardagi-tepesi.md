@@ -28,7 +28,7 @@ wikidata_id: "Q31386227"
 
 # Haydardağı Tepesi
 
-Haydardağı Tepesi, Hatay ilinin güzelliklerini gözler önüne seren bir doğal alan. 140 hektarlık bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, hem doğa severler hem de manzara sevenler için gerçek bir cennet. Burada, Akdeniz Bölgesi'nin zengin flora ve fauna çeşitliliği görülebilir. Haydardağı Tepesi, ziyaretçilerini etkileyici bir doğa deneyimi sunuyor. Bu tepe, Hatay'ın önemli noktalarından biri olarak kabul ediliyor. Ziyaretçiler, bu tepeye çıkarak eşsiz manzaralar görebiliyor ve doğanın güzelliğini yakından deneyimleyebiliyor.
+Haydardağı Tepesi, Hatay ilinin güzelliklerini gözler önüne seren bir doğal alan. Bu tepe, hem doğa severler hem de manzara sevenler için gerçek bir cennet. Burada, Akdeniz Bölgesi'nin zengin flora ve fauna çeşitliliği görülebilir. Haydardağı Tepesi, ziyaretçilerini etkileyici bir doğa deneyimi sunuyor. Bu tepe, Hatay'ın önemli noktalarından biri olarak kabul ediliyor. Ziyaretçiler, bu tepeye çıkarak eşsiz manzaralar görebiliyor ve doğanın güzelliğini yakından deneyimleyebiliyor.
 
 ## Tarihçe
 

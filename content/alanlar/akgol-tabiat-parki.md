@@ -30,7 +30,7 @@ wikidata_id: "Q110423280"
 
 # Akgöl Tabiat Parkı
 
-Akgöl Tabiat Parkı, Sinop'un Ayancık ilçesinde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini karşılar. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir doğa deneyimi sunar. Akgöl Tabiat Parkı, zengin fauna ve çeşitli bitki türleri ile dikkat çeker. Parkın geniş ve yeşil alanları, ziyaretçilerin doğa ile iç içe olmasını sağlar. Bu tabiat parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak öne çıkar.
+Akgöl Tabiat Parkı, Sinop'un Ayancık ilçesinde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini karşılar. Akgöl Tabiat Parkı, zengin fauna ve çeşitli bitki türleri ile dikkat çeker. Parkın geniş ve yeşil alanları, ziyaretçilerin doğa ile iç içe olmasını sağlar. Bu tabiat parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak öne çıkar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Akgöl Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin doğal
 
 ## Coğrafya
 
-Akgöl Tabiat Parkı, Sinop'un Ayancık ilçesinde Karadeniz Bölgesi'nde yer alır. Park, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Akgöl Tabiat Parkı'nın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Parkın iklimi, Karadeniz ikliminin etkilerini taşır ve bol yağış alır. Bu coğrafi yapı, parkın flora ve faunasının zenginleşmesine katkıda bulunur. Akgöl Tabiat Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini sunan bir destinasyon olarak ziyaretçilerini bekler. Parkın coğrafi yapısı, ziyaretçilere geniş ve yeşil alanlar sunar. Bu geniş alanlar, ziyaretçilerin doğa ile iç içe olmasını ve doğal güzellikleri keşfetmesini sağlar.
+Akgöl Tabiat Parkı, Sinop'un Ayancık ilçesinde Karadeniz Bölgesi'nde yer alır. Akgöl Tabiat Parkı'nın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Parkın iklimi, Karadeniz ikliminin etkilerini taşır ve bol yağış alır. Bu coğrafi yapı, parkın flora ve faunasının zenginleşmesine katkıda bulunur. Akgöl Tabiat Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini sunan bir destinasyon olarak ziyaretçilerini bekler. Parkın coğrafi yapısı, ziyaretçilere geniş ve yeşil alanlar sunar. Bu geniş alanlar, ziyaretçilerin doğa ile iç içe olmasını ve doğal güzellikleri keşfetmesini sağlar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Akgöl Tabiat Parkı, ziyaretçilerine geniş ve yeşil alanlar sunar. Parkı zi
 ## İlginç Bilgiler
 
 - Akgöl Tabiat Parkı, 140 hektarlık bir yeşil alanı kapsar.
-- Park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Parkın flora ve faunası, mevsimsel değişimlere göre şekillenir.
 - Park, ziyaretçilerine doğa ile iç içe olma fırsatı sunar.
 - Akgöl Tabiat Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini sunar.

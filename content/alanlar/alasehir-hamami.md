@@ -1,7 +1,7 @@
 ---
 title: "Alaşehir Hamamı"
 date: "2026-01-09T22:31:26.869Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738749"
 
 # Alaşehir Hamamı
 
-Alaşehir Hamamı, Manisa'nın Alaşehir ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikteki bir yeşil alan, ziyaretçilere geniş bir hareket alanı sunuyor. Doğal güzelliği ve temizliği ile dikkat çeken Alaşehir Hamamı, yaz aylarında özellikle tercih edilen bir destinasyon. Ziyaretçiler burada denize girme, güneşlenme, piknik yapma ve doğa yürüyüşü gibi aktiviteleri gerçekleştirebiliyor.
+Alaşehir Hamamı, Manisa'nın Alaşehir ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir plajdır. Doğal güzelliği ve temizliği ile dikkat çeken Alaşehir Hamamı, yaz aylarında özellikle tercih edilen bir destinasyon. Ziyaretçiler burada denize girme, güneşlenme, piknik yapma ve doğa yürüyüşü gibi aktiviteleri gerçekleştirebiliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Alaşehir Hamamı'nın tarihi geçmişi, bölgenin genel tarihi ile paralel olar
 
 ## Coğrafya
 
-Alaşehir Hamamı, Manisa'nın Alaşehir ilçesinde, Ege Bölgesi'nde yer alıyor. Bu plaj, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, coğrafi olarak Ege Denizi'ne kıyısı olan ve genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile karakterize edilen Akdeniz ikliminin etkisinde. Alaşehir Hamamı'nın etrafı, genellikle zeytin ağaçları ve yerel bitki türleri ile kaplı. Plajın kendisi, genellikle kumlu ve taşlı bir yapıya sahip. Bu coğrafi özellikler, ziyaretçilere hem denize girme hem de çevreyi keşfetme fırsatı sunuyor. Ayrıca, plajın yakınında bulunan diğer doğal güzellikler ve tarihi yerler, ziyaretçilere geniş bir gezi ve keşif alanı sunuyor.
+Alaşehir Hamamı, Manisa'nın Alaşehir ilçesinde, Ege Bölgesi'nde yer alıyor. Bölge, coğrafi olarak Ege Denizi'ne kıyısı olan ve genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile karakterize edilen Akdeniz ikliminin etkisinde. Alaşehir Hamamı'nın etrafı, genellikle zeytin ağaçları ve yerel bitki türleri ile kaplı. Plajın kendisi, genellikle kumlu ve taşlı bir yapıya sahip. Bu coğrafi özellikler, ziyaretçilere hem denize girme hem de çevreyi keşfetme fırsatı sunuyor. Ayrıca, plajın yakınında bulunan diğer doğal güzellikler ve tarihi yerler, ziyaretçilere geniş bir gezi ve keşif alanı sunuyor.
 
 ## Flora ve Fauna
 

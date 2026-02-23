@@ -28,7 +28,7 @@ wikidata_id: "Q31569552"
 
 # Cermaniman Tepesi
 
-Cermaniman Tepesi, Rize'nin eşsiz doğal güzelliklerini sunan bir destinasyondur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Cermaniman Tepesi, ziyaretçilerine Karadeniz Bölgesi'nin en güzel manzaralarını sunar. Tepenin yüksekliği, manzarayı daha da büyüleyici hale getirir. Cermaniman Tepesi, doğa severler ve fotoğraf meraklıları için ideal bir lokasyondur.
+Cermaniman Tepesi, Rize'nin eşsiz doğal güzelliklerini sunan bir destinasyondur. Cermaniman Tepesi, ziyaretçilerine Karadeniz Bölgesi'nin en güzel manzaralarını sunar. Tepenin yüksekliği, manzarayı daha da büyüleyici hale getirir. Cermaniman Tepesi, doğa severler ve fotoğraf meraklıları için ideal bir lokasyondur.
 
 ## Tarihçe
 

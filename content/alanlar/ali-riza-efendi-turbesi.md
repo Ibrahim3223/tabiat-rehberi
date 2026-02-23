@@ -1,7 +1,7 @@
 ---
 title: "Ali Rıza Efendi Türbesi"
 date: "2026-01-10T07:50:47.706Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391163"
 
 # Ali Rıza Efendi Türbesi
 
-Ali Rıza Efendi Türbesi, Üsküdar'ın kalbinde, Marmara Denizi'nin kıyısında yer alan tarihi bir yapıdır. 140 hektarlık bir alana yayılan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un en güzel manzaralarına ev sahipliği yapmaktadır. Tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerini büyüleyen bir mekândır. Ali Rıza Efendi Türbesi, İstanbul'un önemli tarihi noktalarından biri olarak kabul edilmektedir.
+Ali Rıza Efendi Türbesi, Üsküdar'ın kalbinde, Marmara Denizi'nin kıyısında yer alan tarihi bir yapıdır. Tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerini büyüleyen bir mekândır. Ali Rıza Efendi Türbesi, İstanbul'un önemli tarihi noktalarından biri olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ali Rıza Efendi Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak hi
 
 ## Coğrafya
 
-Ali Rıza Efendi Türbesi, Üsküdar'ın merkezinde, Marmara Denizi'nin kıyısında yer almaktadır. Bölge, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Türbe, yüksek bir konumda ve Üsküdar'ın en güzel manzaralarına ev sahipliği yapmaktadır. Bölgenin iklimi, İstanbul'un genel iklimine benzer ve dört mevsim yaşanmaktadır. Ali Rıza Efendi Türbesi'nin etrafındaki bölge, yeşilin ve mavinin birleştiği bir noktada yer almaktadır. Türbenin yakınında, çeşitli restoranlar ve kafeler bulunmaktadır. Ali Rıza Efendi Türbesi, Üsküdar'ın en önemli doğal ve tarihi güzelliklerinden biridir.
+Ali Rıza Efendi Türbesi, Üsküdar'ın merkezinde, Marmara Denizi'nin kıyısında yer almaktadır. Türbe, yüksek bir konumda ve Üsküdar'ın en güzel manzaralarına ev sahipliği yapmaktadır. Bölgenin iklimi, İstanbul'un genel iklimine benzer ve dört mevsim yaşanmaktadır. Ali Rıza Efendi Türbesi'nin etrafındaki bölge, yeşilin ve mavinin birleştiği bir noktada yer almaktadır. Türbenin yakınında, çeşitli restoranlar ve kafeler bulunmaktadır. Ali Rıza Efendi Türbesi, Üsküdar'ın en önemli doğal ve tarihi güzelliklerinden biridir.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ wikidata_id: "Q5964936"
 
 # Hünkar (restoran)
 
-Hünkar restoran, Şişli'nin Nişantaşı semtinde ziyaretçilerini ağırlayan bir restorandır. 140 hektarlık bir alan üzerinde kurulmuş olan bu restoran, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer alıyor. Hünkar restoran, misafirlerine geniş ve ferah bir ortam sunuyor. Restoranın içinde bulunan dekorasyon, ziyaretçilerin kendilerini evlerinde gibi hissetmelerini sağlıyor. Hünkar restoran, misafirlerine geniş bir yemek menüsü sunuyor. Bu menü, birçok farklı türde yemek içeriyor. Restoranın yemekleri, deneyimli şefler tarafından hazırlanıyor. Hünkar restoran, misafirlerine kaliteli ve lezzetli yemekler sunuyor.
+Hünkar restoran, Şişli'nin Nişantaşı semtinde ziyaretçilerini ağırlayan bir restorandır. Hünkar restoran, misafirlerine geniş ve ferah bir ortam sunuyor. Restoranın içinde bulunan dekorasyon, ziyaretçilerin kendilerini evlerinde gibi hissetmelerini sağlıyor. Hünkar restoran, misafirlerine geniş bir yemek menüsü sunuyor. Bu menü, birçok farklı türde yemek içeriyor. Restoranın yemekleri, deneyimli şefler tarafından hazırlanıyor. Hünkar restoran, misafirlerine kaliteli ve lezzetli yemekler sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hünkar restoran, Şişli'nin Nişantaşı semtinde uzun yıllardan beri hizmet 
 
 ## Coğrafya
 
-Hünkar restoran, Şişli'nin Nişantaşı semtinde yer alıyor. Restoran, 140 hektarlık bir alan üzerinde kurulmuş. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Hünkar restoran, misafirlerine geniş ve ferah bir ortam sunuyor. Restoranın çevresinde, birçok farklı türde bitki ve ağaç bulunuyor. Restoranın iklimi, misafirlerine rahat bir ortam sunuyor. Hünkar restoran, Şişli'nin Nişantaşı semtinde önemli bir konumda yer alıyor. Restoran, birçok farklı ulaşım aracıyla erişilebilir. Hünkar restoran, misafirlerine birçok farklı olanak sunuyor.
+Hünkar restoran, Şişli'nin Nişantaşı semtinde yer alıyor. Restoran, 140 hektarlık bir alan üzerinde kurulmuş. Hünkar restoran, misafirlerine geniş ve ferah bir ortam sunuyor. Restoranın çevresinde, birçok farklı türde bitki ve ağaç bulunuyor. Restoranın iklimi, misafirlerine rahat bir ortam sunuyor. Hünkar restoran, Şişli'nin Nişantaşı semtinde önemli bir konumda yer alıyor. Restoran, birçok farklı ulaşım aracıyla erişilebilir. Hünkar restoran, misafirlerine birçok farklı olanak sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Hünkar restoran, Şişli'nin Nişantaşı semtinde yer alıyor. Restoran, birç
 ## İlginç Bilgiler
 
 - Hünkar restoran, 140 hektarlık bir alan üzerinde kurulmuş.
-- Restoran, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Hünkar restoran, birçok farklı türde yemek sunuyor.
 - Restoran, misafirlerine kaliteli ve lezzetli yemekler sunuyor.
 - Hünkar restoran, birçok farklı türde içecek sunuyor.

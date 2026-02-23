@@ -32,9 +32,9 @@ Güller Dağı, Erzurum'un doğal güzelliklerinin gizli bir köşesini oluştur
 
 ## Tarihçe
 
-Doğu Anadolu'nun kalbinde yer alan Güller Dağı, binlerce yıllık tarihin izlerini taşıyan bir bölgede bulunmaktadır. Erzurum ve çevresinin tarihi, Hititlerden Osmanlı'ya kadar birçok uygarlığın izlerini barındırmaktadır. Bu bölgede, Urartuların, Romalıların, Selçukluların ve Osmanlıların hükümranlığı altında çeşitli kültürel ve ticari faaliyetler gerçekleşmiştir. 
+Doğu Anadolu'nun kalbinde yer alan Güller Dağı, binlerce yıllık tarihin izlerini taşıyan bir bölgede bulunmaktadır. Erzurum ve çevresinin tarihi, Hititlerden Osmanlı'ya kadar birçok uygarlığın izlerini barındırmaktadır. Bu bölgede, Urartuların, Romalıların, Selçukluların ve Osmanlıların hükümranlığı altında çeşitli kültürel ve ticari faaliyetler gerçekleşmiştir.
 
-Güller Dağı gibi doğal alanlar, Türkiye'nin tarihsel sürecinde önemli bir rol oynamışlardır. Bu bölgeler, yaylacılık ve hayvancılık faaliyetleri için elverişli ortamlar sunmuş, aynı zamanda tarihi ticaret yollarının güzergahlarında yer almıştır. İnsanlar, bu doğal güzellikleri sadece ekonomik faaliyetler için değil, aynı zamanda dinlenme ve rehavet için de kullanmışlardır. 
+Güller Dağı gibi doğal alanlar, Türkiye'nin tarihsel sürecinde önemli bir rol oynamışlardır. Bu bölgeler, yaylacılık ve hayvancılık faaliyetleri için elverişli ortamlar sunmuş, aynı zamanda tarihi ticaret yollarının güzergahlarında yer almıştır. İnsanlar, bu doğal güzellikleri sadece ekonomik faaliyetler için değil, aynı zamanda dinlenme ve rehavet için de kullanmışlardır.
 
 Bölgenin coğrafi konumu ve iklimi, insanların doğal kaynakları kullanarak hayatlarını sürdürmelerine olanak tanımıştır. Güller Dağı, bu zengin tarihsel mirasın bir parçası olarak, bugün de doğa severler ve araştırmacılar için önemli bir destinasyon olarak dikkat çekmektedir.
 

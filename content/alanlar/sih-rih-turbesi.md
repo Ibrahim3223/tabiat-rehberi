@@ -1,7 +1,7 @@
 ---
 title: "Şıh Rih Türbesi"
 date: "2026-01-10T05:15:32.415Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391762"
 
 # Şıh Rih Türbesi
 
-Mersin'in tarihi ve doğal güzelliklerinin buluştuğu noktada bulunan Şıh Rih Türbesi, ziyaretçilerini bekliyor. Bu özel mekan, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Şıh Rih Türbesi, Mersin'in en önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor. Burada, tarihi yapılar, doğal güzellikler ve zengin bir flora ile fauna bir arada bulunuyor.
+Mersin'in tarihi ve doğal güzelliklerinin buluştuğu noktada bulunan Şıh Rih Türbesi, ziyaretçilerini bekliyor. Şıh Rih Türbesi, Mersin'in en önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor. Burada, tarihi yapılar, doğal güzellikler ve zengin bir flora ile fauna bir arada bulunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mersin'in tarihi ve doğal güzelliklerinin buluştuğu noktada bulunan Şıh Ri
 
 ## Coğrafya
 
-Şıh Rih Türbesi, Mersin'in Akdeniz Bölgesi'nde bulunuyor. Bu mekan, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Şıh Rih Türbesi, doğal güzellikleriyle dikkat çekiyor. Burada, çeşitli bitki türleri, zengin fauna ve güzel bir deniz manzarası bulunuyor. Şıh Rih Türbesi, ziyaretçilerine güzel bir doğa deneyimi sunuyor. Bu mekan, Mersin'in en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Şıh Rih Türbesi, Mersin'in Akdeniz Bölgesi'nde bulunuyor. Şıh Rih Türbesi, doğal güzellikleriyle dikkat çekiyor. Burada, çeşitli bitki türleri, zengin fauna ve güzel bir deniz manzarası bulunuyor. Şıh Rih Türbesi, ziyaretçilerine güzel bir doğa deneyimi sunuyor. Bu mekan, Mersin'in en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Mersin'in tarihi ve doğal güzelliklerinin buluştuğu noktada bulunan Şıh Ri
 ## İlginç Bilgiler
 
 - Şıh Rih Türbesi, Mersin'in en önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor.
-- Bu mekan, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Şıh Rih Türbesi, doğal güzellikleriyle dikkat çekiyor.
 - Burada, çeşitli bitki türleri, zengin fauna ve güzel bir deniz manzarası bulunuyor.
 - Şıh Rih Türbesi, mevsimsel değişimlere göre farklı bir güzellik sunuyor.

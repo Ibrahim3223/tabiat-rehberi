@@ -29,7 +29,7 @@ wikidata_id: "Q31386850"
 
 # Bağlı Tepe
 
-Mardin'in tarihi ve doğal güzelliklerini keşfedeceğiniz Bağlı Tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir tepe alanıdır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Mardin'in merkezine yakın bir konumda bulunan Bağlı Tepe, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir uğrak noktasıdır. Mardin'in tarihi geçmişi, Bağlı Tepe'de hissedilir. Tarihi yapılar, kalıntılar ve doğal güzellikler, bu tepeyi ziyaret etmek için iyi bir neden oluşturur.
+Mardin'in tarihi ve doğal güzelliklerini keşfedeceğiniz Bağlı Tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir tepe alanıdır. Mardin'in merkezine yakın bir konumda bulunan Bağlı Tepe, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir uğrak noktasıdır. Mardin'in tarihi geçmişi, Bağlı Tepe'de hissedilir. Tarihi yapılar, kalıntılar ve doğal güzellikler, bu tepeyi ziyaret etmek için iyi bir neden oluşturur.
 
 ## Tarihçe
 

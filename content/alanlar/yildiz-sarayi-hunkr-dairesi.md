@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Hünkâr Dairesi"
 date: "2026-01-10T04:38:53.401Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133684793"
 
 # Yıldız Sarayı Hünkâr Dairesi
 
-Yıldız Sarayı Hünkâr Dairesi, İstanbul'un güzide ilçelerinden Beşiktaş'ta bulunan, tarihi ve doğal güzelliklerinin bir araya geldiği özel bir destinasyon. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Geçmişte saray olarak kullanılan bu mekan, günümüzde ziyaretçilerini büyüleyici atmosferi ile karşılıyor. İstanbul'un kalbinde yer alan bu tarihi ve doğal güzelliğin birleştiği nokta, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Yıldız Sarayı Hünkâr Dairesi, İstanbul'un güzide ilçelerinden Beşiktaş'ta bulunan, tarihi ve doğal güzelliklerinin bir araya geldiği özel bir destinasyon. Geçmişte saray olarak kullanılan bu mekan, günümüzde ziyaretçilerini büyüleyici atmosferi ile karşılıyor.
 
 ## Tarihçe
 

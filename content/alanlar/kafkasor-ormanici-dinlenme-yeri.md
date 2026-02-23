@@ -29,7 +29,7 @@ wikidata_id: "Q49509110"
 
 # Kafkasör Ormaniçi Dinlenme Yeri
 
-Kafkasör Ormaniçi Dinlenme Yeri, Karadeniz Bölgesi'nin güzide illerinden Artvin'de yer alan, 140 hektarlık geniş bir yeşil alana sahip olan bir dinlenme yeri. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere doğayla iç içe bir ortam sunuyor. Ormaniçi Dinlenme Yeri, şehir hayatının yoğunluğundan uzaklaşmak isteyenler için bir sığınak niteliğinde. Burada, doğanın seslerini dinleyerek, stres ve yorgunluğunuzu atabilirsiniz. Yeşilin her tonunu görebileceğiniz bu môiçde, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilirsiniz.
+Kafkasör Ormaniçi Dinlenme Yeri, Karadeniz Bölgesi'nin güzide illerinden Artvin'de yer alan, 140 hektarlık geniş bir yeşil alana sahip olan bir dinlenme yeri. Ormaniçi Dinlenme Yeri, şehir hayatının yoğunluğundan uzaklaşmak isteyenler için bir sığınak niteliğinde. Burada, doğanın seslerini dinleyerek, stres ve yorgunluğunuzu atabilirsiniz. Yeşilin her tonunu görebileceğiniz bu môiçde, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilirsiniz.
 
 ## Tarihçe
 

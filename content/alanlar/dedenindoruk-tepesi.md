@@ -28,7 +28,7 @@ wikidata_id: "Q31390030"
 
 # Dedenindoruk Tepesi
 
-Dedenindoruk Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir tepe olup, şehrin merkezine yakın bir konumda yer alır. Bu tepenin etrafında yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ve zengin fauna bulunur. Dedenindoruk Tepesi, Ankara'nın panoramik manzarasını izlemek için ideal bir noktadır. Tepenin yüksekliği ve konumu, ziyaretçilere şehri ve çevresini keşfetme fırsatı sunar.
+Dedenindoruk Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir tepe olup, şehrin merkezine yakın bir konumda yer alır. Dedenindoruk Tepesi, Ankara'nın panoramik manzarasını izlemek için ideal bir noktadır. Tepenin yüksekliği ve konumu, ziyaretçilere şehri ve çevresini keşfetme fırsatı sunar.
 
 ## Tarihçe
 

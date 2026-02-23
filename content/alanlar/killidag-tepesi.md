@@ -28,7 +28,7 @@ wikidata_id: "Q31564302"
 
 # Kıllıdağ Tepesi
 
-Erzurum'un doğal güzelliklerinden biri olan Kıllıdağ Tepesi, ziyaretçilerini büyülüyor. Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olan bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu alan, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Kıllıdağ Tepesi, aynı zamanda bölgenin önemli bir turizm merkezidir.
+Erzurum'un doğal güzelliklerinden biri olan Kıllıdağ Tepesi, ziyaretçilerini büyülüyor. Bu alan, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Kıllıdağ Tepesi, aynı zamanda bölgenin önemli bir turizm merkezidir.
 
 ## Tarihçe
 

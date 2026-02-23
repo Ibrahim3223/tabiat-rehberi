@@ -28,7 +28,7 @@ wikidata_id: "Q31386893"
 
 # Ziraat Tepesi
 
-Kırıkkale'nin merkezi bir noktasında yer alan Ziraat Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana karşılık gelir. Ziraat Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet eder. Tepenin zirvesinden şehrin panoramik manzarasını izleme mümkün. Ziraat Tepesi, Kırıkkale'nin önemli doğal güzelliklerinden biri olarak tanınır ve ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
+Kırıkkale'nin merkezi bir noktasında yer alan Ziraat Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Ziraat Tepesi, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet eder. Tepenin zirvesinden şehrin panoramik manzarasını izleme mümkün. Ziraat Tepesi, Kırıkkale'nin önemli doğal güzelliklerinden biri olarak tanınır ve ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Ziraat Tepesi, Kırıkkale'nin coğrafi yapısını temsil eden bir noktadır. �
 
 ## Flora ve Fauna
 
-Ziraat Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölgenin flora ve fauna yapısı, İç Anadolu Bölgesi'nin genel özelliklerini taşır. Mevsimsel değişimler, Ziraat Tepesi'nin güzelliğini etkiler. İlkbahar ve yaz aylarında, tepenin etrafı yeşillenir ve çeşitli çiçekler açar. Kış aylarında, bölgenin karaisal iklimi hakim olur ve Ziraat Tepesi, karla kaplanır. Ziraat Tepesi, Kırıkkale'nin önemli bir ekolojik alanı olarak kabul edilir ve bölgenin doğal dengesini korur.
+ Bölgenin flora ve fauna yapısı, İç Anadolu Bölgesi'nin genel özelliklerini taşır. Mevsimsel değişimler, Ziraat Tepesi'nin güzelliğini etkiler. İlkbahar ve yaz aylarında, tepenin etrafı yeşillenir ve çeşitli çiçekler açar. Kış aylarında, bölgenin karaisal iklimi hakim olur ve Ziraat Tepesi, karla kaplanır. Ziraat Tepesi, Kırıkkale'nin önemli bir ekolojik alanı olarak kabul edilir ve bölgenin doğal dengesini korur.
 
 ## Ziyaret Bilgileri
 

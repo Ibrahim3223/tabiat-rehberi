@@ -52,7 +52,7 @@ Doğal bir ada üzerinde inşa edilen Ordu Giresun Havalimanı, kendi içerisind
 
 ## Flora ve Fauna
 
-Ordu Giresun Havalimanı'nın bulunduğu ada, step bitki örtüsüne ev sahipliği yapan bir ekosistemdir. İlkbaharın gelmesiyle birlikte, ada çiçeklerle donanır ve renkli bir görünüm kazanır. Step bitkileri, ada koşullarına adapte olarak kuraklığa dayanıklı türler olarak karşımıza çıkar. 
+Ordu Giresun Havalimanı'nın bulunduğu ada, step bitki örtüsüne ev sahipliği yapan bir ekosistemdir. İlkbaharın gelmesiyle birlikte, ada çiçeklerle donanır ve renkli bir görünüm kazanır. Step bitkileri, ada koşullarına adapte olarak kuraklığa dayanıklı türler olarak karşımıza çıkar.
 
 Ada ekosisteminde, deniz kuşları önemli bir yer tutar. Kıyı bitkileri, bu kuşların yuvalanması için uygun bir ortam sağlar. Sonbaharda, göç eden kuşlar ada üzerinden geçiş yapar ve bu göç, ada ekosisteminin dinamiklerini etkiler.
 

@@ -32,7 +32,7 @@ Mersin'in güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yerleşim yeri olmuştur. Hitit, Roma ve Bizans gibi medeniyetler bu bölgede izler bırakmış, ticaret yolları ve stratejik konumlara sahip olması nedeniyle her zaman önemli bir merkez olarak kabul edilmiştir. 
+Mersin bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yerleşim yeri olmuştur. Hitit, Roma ve Bizans gibi medeniyetler bu bölgede izler bırakmış, ticaret yolları ve stratejik konumlara sahip olması nedeniyle her zaman önemli bir merkez olarak kabul edilmiştir.
 
 Doğal güzellikleri ve jeolojik oluşumları ile dikkat çeken bu bölge, Türkiye'nin diğer önemli doğal alanları gibi, binlerce yıl boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve tarım faaliyetleri gerçekleştirdikleri bir yer olmuştur. Yayla ve ova arasındaki etkileşim, mevsimsel göçler ve ticaret yolları, bölgenin kültürel ve ekonomik yapısını şekillendirmiştir.
 

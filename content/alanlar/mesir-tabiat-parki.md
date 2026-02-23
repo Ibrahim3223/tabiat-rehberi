@@ -29,7 +29,7 @@ wikidata_id: "Q108228122"
 
 # Mesir Tabiat Parkı
 
-Mesir Tabiat Parkı, Manisa ilinin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin önemli doğal alanlarından biri olarak yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzak, sakin bir ortam sunuyor. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri ile ziyaretçilerini karşılayan Mesir Tabiat Parkı, hem yerel halk hem de şehre gelen ziyaretçiler için keyifli bir gezi noktası olarak dikkat çekiyor.
+Mesir Tabiat Parkı, Manisa ilinin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin önemli doğal alanlarından biri olarak yer alıyor. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri ile ziyaretçilerini karşılayan Mesir Tabiat Parkı, hem yerel halk hem de şehre gelen ziyaretçiler için keyifli bir gezi noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 

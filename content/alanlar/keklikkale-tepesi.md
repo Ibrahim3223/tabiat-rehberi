@@ -28,7 +28,7 @@ wikidata_id: "Q31389064"
 
 # Keklikkale Tepesi
 
-Keklikkale Tepesi, Erzurum'un merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Tepenin etrafında yer alan tarihi kale ve yapılar, bölgenin zengin geçmişini yansıtıyor. Keklikkale Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon.
+Keklikkale Tepesi, Erzurum'un merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Tepenin etrafında yer alan tarihi kale ve yapılar, bölgenin zengin geçmişini yansıtıyor. Keklikkale Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyon.
 
 ## Tarihçe
 

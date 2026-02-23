@@ -28,7 +28,7 @@ wikidata_id: "Q31389373"
 
 # Kargacı Tepesi
 
-Kargacı Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kapsar. Bu tepe, çevresindeki diğer tepe ve dağlarla birlikte bir bütün oluşturur ve bölgenin coğrafi yapısını etkiler. Kargacı Tepesi, ziyaretçilerini güzel manzaralar ve zengin flora ile karşılar. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin ekolojik dengesini sağlar.
+ Bu tepe, çevresindeki diğer tepe ve dağlarla birlikte bir bütün oluşturur ve bölgenin coğrafi yapısını etkiler. Kargacı Tepesi, ziyaretçilerini güzel manzaralar ve zengin flora ile karşılar. Tepenin etrafında çeşitli bitki türleri bulunur ve bu bitki türleri, bölgenin ekolojik dengesini sağlar.
 
 ## Tarihçe
 

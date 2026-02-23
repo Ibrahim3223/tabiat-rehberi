@@ -29,7 +29,7 @@ wikidata_id: "Q134728120"
 
 # Antiphellos Lahdi 1
 
-Antiphellos Lahdi 1 plajı, Akdeniz'in mavi suları ile çevrili, güneşin ışınlarını yansıtan bir cennet. Kaş'ta bulunan bu plaj, 140 hektarlık bir alana yayılıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere rahatça güneşlenmek, denizde yüzme ve doğanın güzelliğini keşfetmek için yeterli alanı sunuyor. Plajın kumsalı, ince kumdan oluşuyor ve suyun kenarına kadar uzanıyor. Denizin rengi, masmavi bir tonla ziyaretçileri büyülüyor. Antiphellos Lahdi 1, doğa severlerin ve deniz aşkı olanların ziyaret etmesi gereken bir yer.
+Antiphellos Lahdi 1 plajı, Akdeniz'in mavi suları ile çevrili, güneşin ışınlarını yansıtan bir cennet. Bu geniş alan, ziyaretçilere rahatça güneşlenmek, denizde yüzme ve doğanın güzelliğini keşfetmek için yeterli alanı sunuyor. Plajın kumsalı, ince kumdan oluşuyor ve suyun kenarına kadar uzanıyor. Denizin rengi, masmavi bir tonla ziyaretçileri büyülüyor. Antiphellos Lahdi 1, doğa severlerin ve deniz aşkı olanların ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

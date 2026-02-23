@@ -32,7 +32,7 @@ wikidata_id: "Q34795613"
 
 ## Tarihçe
 
-Çanakkale bölgesi, tarihin sâu sayfalarına ışık tutan bir coğrafyadır. İncirli Adası da bu tarihsel zenginliğin bir parçasını oluşturur. Bölge, Truva Savaşı gibi destansı olaylara ev sahipliği yapmış, antik uygarlıkların izlerini taşımıştır. Çanakkale, tarihi boyunca çeşitli uygarlıkların geçiş noktası olarak önemli bir konuma sahip olmuştur. Bu bölgede, Truva'nın yanı sıra, Roma ve Bizans gibi medeniyetler de yaşamıştır.
+Çanakkale bölgesi, tarihin derin sayfalarına ışık tutan bir coğrafyadır. İncirli Adası da bu tarihsel zenginliğin bir parçasını oluşturur. Bölge, Truva Savaşı gibi destansı olaylara ev sahipliği yapmış, antik uygarlıkların izlerini taşımıştır. Çanakkale, tarihi boyunca çeşitli uygarlıkların geçiş noktası olarak önemli bir konuma sahip olmuştur. Bu bölgede, Truva'nın yanı sıra, Roma ve Bizans gibi medeniyetler de yaşamıştır.
 
 Doğal güzellikleri ve stratejik konumuyla, Çanakkale ve çevresindeki adalar, insanların dikkatini çekmiştir. Türkiye'de, bu tür doğal alanlar, tarih boyunca insanların yaşamını etkileyen önemli faktörler olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal güzelliklerle olan ilişkilerini şekillendirmiştir. İnsanların bu alanlarla kurduğu bağ, sadece ekonomik değil, aynı zamanda kültürel ve sosyal yönleri de içermektedir. İncirli Adası da, bu zengin tarihsel bağlam içinde, önemli bir yere sahiptir. Bu adanın ve çevresinin tarihi, Türkiye'nin genel tarihsel zenginliğiçinde önemli bir noktadır.
 
@@ -50,7 +50,7 @@ Mevsimsel değişikliklere göre, İncirli Adası'nın iklimi, Çanakkale'nin ge
 
 İncirli Adası, Çanakkale'nin kıyılarında yer alan bir ada ekosistemi olarak, geçiş ikliminin etkilerini taşıyor. Bu bölgede, karma ormanların hakim olduğu bir bitki örtüsü mevcut. İlkbahar aylarında, ada çiçeklerle kaplanıyor ve renkli bir manzara sunuyor. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler ve çalılar hakim.
 
-Ada, göçmen kuş rotası üzerinde yer alıyor. Sonbahar ve ilkbahar aylarında, çeşitli kuş türleri ada üzerinde konaklıyor. Deniz kuşları, ada kıyılarında yuva yapıyor ve üremeye devam ediyor. Bu ekosistemde, memeliler ve sürüngenler de yaşamlarını sürdürüyor. 
+Ada, göçmen kuş rotası üzerinde yer alıyor. Sonbahar ve ilkbahar aylarında, çeşitli kuş türleri ada üzerinde konaklıyor. Deniz kuşları, ada kıyılarında yuva yapıyor ve üremeye devam ediyor. Bu ekosistemde, memeliler ve sürüngenler de yaşamlarını sürdürüyor.
 
 İncirli Adası, izole bir ekosistem olarak, kendi içinde bir denge kurmuş durumda. Bu ada, bölgenin ekolojik zenginliğini koruma altına almak için önemli bir alan. Ada ekosisteminin korunması, bölgenin biyolojik çeşitliliğini sürdürmek açısından kritik bir rol oynuyor.
 

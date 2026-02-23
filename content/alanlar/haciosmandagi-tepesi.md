@@ -28,7 +28,7 @@ wikidata_id: "Q31388634"
 
 # Hacıosmandağı Tepesi
 
-Hacıosmandağı Tepesi, Muğla'nın güzide bir noktası olarak Ege Bölgesi'nin coğrafi zenginliklerini sergiliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli bir parçası. Bu tepe, ziyaretçilerini doğanın kucağına davet ediyor ve muhteşem manzaralar sunuyor. Hacıosmandağı Tepesi, hem yerel halk hem de ziyaretçiler için bir çekim merkezi olarak kabul ediliyor. Doğal güzelliği, coğrafi konumu ve tarihi geçmişiyle bu tepe, Muğla'nın önemli bir simgesi.
+Hacıosmandağı Tepesi, Muğla'nın güzide bir noktası olarak Ege Bölgesi'nin coğrafi zenginliklerini sergiliyor. Bu tepe, ziyaretçilerini doğanın kucağına davet ediyor ve muhteşem manzaralar sunuyor. Hacıosmandağı Tepesi, hem yerel halk hem de ziyaretçiler için bir çekim merkezi olarak kabul ediliyor. Doğal güzelliği, coğrafi konumu ve tarihi geçmişiyle bu tepe, Muğla'nın önemli bir simgesi.
 
 ## Tarihçe
 

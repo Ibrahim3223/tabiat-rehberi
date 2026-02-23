@@ -28,7 +28,7 @@ wikidata_id: "Q31389583"
 
 # Kocadikmen Tepesi
 
-Kocadikmen Tepesi, Balıkesir'in sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepe olarak bilinir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bölgenin doğal güzelliklerini sunar. Kocadikmen Tepesi, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Bölgenin coğrafi özellikleri, ziyaretçilerin dikkatini çeker ve onlara unutulmaz bir deneyim sunar. Bu tepe, hem doğa severlerin hem de coğrafya meraklılarının ilgisini çeken bir destinasyondur.
+Kocadikmen Tepesi, Balıkesir'in sınırları içerisinde yer alan ve Marmara Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepe olarak bilinir. Kocadikmen Tepesi, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Bölgenin coğrafi özellikleri, ziyaretçilerin dikkatini çeker ve onlara unutulmaz bir deneyim sunar. Bu tepe, hem doğa severlerin hem de coğrafya meraklılarının ilgisini çeken bir destinasyondur.
 
 ## Tarihçe
 

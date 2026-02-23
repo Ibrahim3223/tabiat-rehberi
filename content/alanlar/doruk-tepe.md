@@ -32,7 +32,7 @@ Mardin'in tarihi dokusu içinde yer alan Doruk Tepe, ziyaretçilerini bölgenin 
 
 ## Tarihçe
 
-Mardin bölgesinde yer alan Doruk Tepe, tarihin sâu izlerini taşıyan bir coğrafyanın önemli bir parçası. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak görev görmüştür. Hititler, Asurlular, Romalılar ve daha birçok medeniyet, Mardin'in zengin kültürel mirasını şekillendirmiştir. Doğal güzelliği ve stratejik konumuyla, Doruk Tepe ve çevresi, ticaret yolları ve yaylacılık faaliyetleri için önemli bir merkez olmuştur.
+Mardin bölgesinde yer alan Doruk Tepe, tarihin derin izlerini taşıyan bir coğrafyanın önemli bir parçası. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak görev görmüştür. Hititler, Asurlular, Romalılar ve daha birçok medeniyet, Mardin'in zengin kültürel mirasını şekillendirmiştir. Doğal güzelliği ve stratejik konumuyla, Doruk Tepe ve çevresi, ticaret yolları ve yaylacılık faaliyetleri için önemli bir merkez olmuştur.
 
 Türkiye'de doğal alanlar, tarihsel olarak insan yaşamının önemli bir bölümünü oluşturmuştur. Bu tür bölgeler, insanların geçim kaynakları, dinlenme alanları ve kültürel etkinlik merkezleri olarak görev görmüştür. Doruk Tepe gibi yüksek rakımlı alanlar, özellikle yaylacılık ve hayvancılık için elverişli ortamlar sunmaktadır. Bölgenin coğrafi özellikleri, insan yerleşimini ve ekonomik faaliyetleri etkileyen önemli faktörler arasında yer alır. Doruk Tepe, Mardin'in zengin tarihi ve kültürel mirasının bir parçası olarak, ziyaretçilere bu bölgenin derin tarihini keşfetme fırsatı sunar.
 

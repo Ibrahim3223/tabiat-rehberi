@@ -28,7 +28,7 @@ wikidata_id: "Q31386836"
 
 # Gulıaraselhe Tepe
 
-Gulıaraselhe Tepe, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alan kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Ziyaretçiler, bu tepeye çıktıklarında, Mardin'in eşsiz manzarasını izleme fırsatı bulurlar. Güneşin batışını izlemek, tepeye çıkanların keyif aldığı en önemli faaliyetlerden biridir. Tepe, Mardin'in merkezine yakın bir konumda yer alır ve ulaşımı oldukça kolaydır.
+Gulıaraselhe Tepe, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir. Ziyaretçiler, bu tepeye çıktıklarında, Mardin'in eşsiz manzarasını izleme fırsatı bulurlar. Güneşin batışını izlemek, tepeye çıkanların keyif aldığı en önemli faaliyetlerden biridir. Tepe, Mardin'in merkezine yakın bir konumda yer alır ve ulaşımı oldukça kolaydır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gulıaraselhe Tepe'nin tarihi geçmişi, Mardin'in tarihi ile iç içe geçmiş 
 
 ## Coğrafya
 
-Gulıaraselhe Tepe, Mardin'in güneydoğu kesiminde yer alır. Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Tepeye çıkanlar, Mardin'in eşsiz manzarasını izleme fırsatı bulurlar. Tepe, Mardin'in merkezine yakın bir konumda yer alır ve ulaşımı oldukça kolaydır. Tepe çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu nedenle, tepe, doğa severler için önemli bir destinasyon olarak kabul edilir. Tepeye çıkanlar, Mardin'in tarihi ve doğal güzelliklerini bir arada görebilirler.
+Gulıaraselhe Tepe, Mardin'in güneydoğu kesiminde yer alır. Tepeye çıkanlar, Mardin'in eşsiz manzarasını izleme fırsatı bulurlar. Tepe, Mardin'in merkezine yakın bir konumda yer alır ve ulaşımı oldukça kolaydır. Tepe çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu nedenle, tepe, doğa severler için önemli bir destinasyon olarak kabul edilir. Tepeye çıkanlar, Mardin'in tarihi ve doğal güzelliklerini bir arada görebilirler.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Gulıaraselhe Tepe, Mardin'in tarihi ve doğal güzellikleri arasında önemli b
 ## İlginç Bilgiler
 
 - Gulıaraselhe Tepe, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir yere sahiptir.
-- Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Tepe, Mardin'in merkezine yakın bir konumda yer alır ve ulaşımı oldukça kolaydır.
 - Tepe çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Tepe, özellikle güneşin batışını izlemek için ideal bir yerdir.

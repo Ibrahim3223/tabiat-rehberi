@@ -28,7 +28,7 @@ wikidata_id: "Q31386814"
 
 # Sevgelik Tepesi
 
-Mardin'in tarihi ve kültürel zenginliklerini bir araya getiren Sevgelik Tepesi, ziyaretçilerini büyüleyen bir doğal güzelliğe sahiptir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Mardin'in merkezine oldukça yakındır. Sevgelik Tepesi, Mardin'in tarihi geçmişi ve doğal güzellikleri hakkında bilgi edinmek isteyenler için ideal bir destinasyon olarak kabul edilir. Tepenin eteklerinde bulunan tarihi yapılar ve çevredeki doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
+Mardin'in tarihi ve kültürel zenginliklerini bir araya getiren Sevgelik Tepesi, ziyaretçilerini büyüleyen bir doğal güzelliğe sahiptir. Sevgelik Tepesi, Mardin'in tarihi geçmişi ve doğal güzellikleri hakkında bilgi edinmek isteyenler için ideal bir destinasyon olarak kabul edilir. Tepenin eteklerinde bulunan tarihi yapılar ve çevredeki doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunmaktadır.
 
 ## Tarihçe
 

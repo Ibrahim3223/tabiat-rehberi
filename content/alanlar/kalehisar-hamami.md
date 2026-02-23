@@ -1,7 +1,7 @@
 ---
 title: "Kalehisar Hamamı"
 date: "2026-01-09T23:37:55.407Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çorum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739196"
 
 # Kalehisar Hamamı
 
-Kalehisar Hamamı, Karadeniz Bölgesi'nin güzide illerinden biri olan Çorum'un Alaca ilçesinde yer almaktadır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennettir. Bu muhteşem plaj, Karadeniz'in en güzel noktalarından biri olarak bilinmektedir. Burada, mis gibi deniz havası ve kumluk sahiller sizleri beklemektedir. Kalehisar Hamamı, yılın her mevsiminde ziyaretçilerini ağırlamaktadır.
+Kalehisar Hamamı, Karadeniz Bölgesi'nin güzide illerinden biri olan Çorum'un Alaca ilçesinde yer almaktadır. Bu muhteşem plaj, Karadeniz'in en güzel noktalarından biri olarak bilinmektedir. Burada, mis gibi deniz havası ve kumluk sahiller sizleri beklemektedir. Kalehisar Hamamı, yılın her mevsiminde ziyaretçilerini ağırlamaktadır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Şehzade Mustafa Türbesi"
 date: "2026-01-10T04:43:32.605Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q20587092"
 
 # Şehzade Mustafa Türbesi
 
-Bursa'nın Osmangazi ilçesinde yer alan Şehzade Mustafa Türbesi, şehrin önemli tarihi ve kültürel mekânlarından biridir. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda kurulmuştur. Şehzade Mustafa Türbesi, ziyaretçiler tarafından sıklıkla ziyaret edilen bir yer olup, özellikle tarih ve kültür meraklıları tarafından ilgi görmektedir. Türbenin çevresinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
+Bursa'nın Osmangazi ilçesinde yer alan Şehzade Mustafa Türbesi, şehrin önemli tarihi ve kültürel mekânlarından biridir. Şehzade Mustafa Türbesi, ziyaretçiler tarafından sıklıkla ziyaret edilen bir yer olup, özellikle tarih ve kültür meraklıları tarafından ilgi görmektedir. Türbenin çevresinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Bursa'nın Osmangazi ilçesinde yer alan Şehzade Mustafa Türbesi, şehrin öne
 
 ## Coğrafya
 
-Şehzade Mustafa Türbesi, Bursa'nın Osmangazi ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Bursa'nın kalbinde bulunmaktadır. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Şehzade Mustafa Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanda kurulmuştur. Bu alan, ziyaretçilere geniş ve ferah bir ortam sunmaktadır. Türbenin bulunduğu bölge, tarihi yapılar ve kültürel etkinliklerle dolu olup, ziyaretçilere zengin bir deneyim sunmaktadır. Bursa'nın iklimi, karasal iklim özellikleri göstermektedir. Şehzade Mustafa Türbesi, bu iklimin etkisi altında bulunmakta ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunmaktadır.
+Şehzade Mustafa Türbesi, Bursa'nın Osmangazi ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Bursa'nın kalbinde bulunmaktadır. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu alan, ziyaretçilere geniş ve ferah bir ortam sunmaktadır. Türbenin bulunduğu bölge, tarihi yapılar ve kültürel etkinliklerle dolu olup, ziyaretçilere zengin bir deneyim sunmaktadır. Bursa'nın iklimi, karasal iklim özellikleri göstermektedir. Şehzade Mustafa Türbesi, bu iklimin etkisi altında bulunmakta ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Bursa'nın Osmangazi ilçesinde yer alan Şehzade Mustafa Türbesi, şehrin öne
 
 - Şehzade Mustafa Türbesi, Bursa'nın en önemli tarihi yapılarından biridir.
 - Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
-- Şehzade Mustafa Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanda kurulmuştur.
+
 - Türbenin tarihi hakkında kapsamlı bilgiler bulunmasa da, yüzyıllar boyunca önemli bir kültürel ve dini merkez olarak hizmet verdiği bilinmektedir.
 - Şehzade Mustafa Türbesi, Bursa'nın zengin tarihi mirasının önemli bir parçasıdır.

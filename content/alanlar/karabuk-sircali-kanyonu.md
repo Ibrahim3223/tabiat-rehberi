@@ -22,7 +22,7 @@ wikidata_id: "Q108227399"
 
 # Karabuk-Sircali Kanyonu
 
-Karabuk-Sircali Kanyonu, İç Anadolu Bölgesi'nde yer alan ve natuurun güzelliğini gözler önüne seren bir doğal alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini.cezbeden bir güzelliğe sahiptir. Kanyonun derinliği ve uzunluğu, ziyaretçilere büyüleyici bir manzara sunar. Bu natuur harikası, hem doğa severlerin hem de macera arayanların ilgisini çeker. Karabuk-Sircali Kanyonu, gezginler için keşfedilmeyi bekleyen bir hazine gibidir.
+Karabuk-Sircali Kanyonu, İç Anadolu Bölgesi'nde yer alan ve natuurun güzelliğini gözler önüne seren bir doğal alandır.cezbeden bir güzelliğe sahiptir. Kanyonun derinliği ve uzunluğu, ziyaretçilere büyüleyici bir manzara sunar. Bu natuur harikası, hem doğa severlerin hem de macera arayanların ilgisini çeker. Karabuk-Sircali Kanyonu, gezginler için keşfedilmeyi bekleyen bir hazine gibidir.
 
 ## Tarihçe
 

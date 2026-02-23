@@ -48,7 +48,7 @@ Demirci Dağı, çevresindeki coğrafi oluşumlarla da önemli bir ilişkiye sah
 
 ## Flora ve Fauna
 
-Demirci Dağı, Manisa'nın güzide bir bölgesinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Demirci Dağı, Manisa'nın güzide bir bölgesinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, çam ormanları ve zeytinlikler hakim türler olarak karşımıza çıkıyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle süslenirken, sonbaharda da göç eden kuşlar bu bölgeyi ziyaret ediyor. Dağın yükseklik zonları, alpin flora için uygun bir ortam sunuyor.
 

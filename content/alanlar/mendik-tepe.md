@@ -52,7 +52,7 @@ Mendik Tepe, Güneydoğu Anadolu Bölgesi'nin karakteristik iklim şartlarına s
 
 Mendik Tepe, Mardin'in yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-**Bitki Örtüsü**: İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Yabani lavanta, keki ve adaçayı gibi bitkiler, bu mevsimde özel bir aroma verir. Yaz aylarında, yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çeker. 
+**Bitki Örtüsü**: İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Yabani lavanta, keki ve adaçayı gibi bitkiler, bu mevsimde özel bir aroma verir. Yaz aylarında, yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çeker.
 
 **Yaban Hayatı**: Dağların yüksek kesimlerinde, dağ keçileri ve yaban keçileri gibi memeliler yaşar. Kuşlar, özellikle sonbaharda göç ederken, dağların yüksekliklerini kullanır. Sürüngenler, step ve ova ekolojisine uyum sağlamış türlerdir.
 

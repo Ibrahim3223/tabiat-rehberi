@@ -22,7 +22,7 @@ wikidata_id: "Q108227556"
 
 # Bolu-Aladag Saricam 3
 
-Bolu-Aladag Saricam 3, Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak bilinir. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu park, doğa severlerin ve çevre dostlarının uğrak yeridir. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunması, burayı ziyaret etmek için önemli bir neden oluşturur. Bolu-Aladag Saricam 3, hem doğa ile iç içe olmak hem de çevre bilincini artırmak isteyenler için ideal bir destinasyondur.
+Bolu-Aladag Saricam 3, Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak bilinir. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunması, burayı ziyaret etmek için önemli bir neden oluşturur. Bolu-Aladag Saricam 3, hem doğa ile iç içe olmak hem de çevre bilincini artırmak isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Bolu-Aladag Saricam 3'ü ziyaret etmek, doğa severler ve çevre dostları için
 ## İlginç Bilgiler
 
 - Bolu-Aladag Saricam 3, Karadeniz Bölgesi'nin en güzel milli parklarından biridir.
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Parkın içinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Park, doğa severler ve çevre dostları için ideal bir destinasyondur.
 - Parkın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, serin ve yağışlıdır.

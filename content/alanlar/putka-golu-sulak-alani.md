@@ -22,7 +22,7 @@ wikidata_id: "Q108228879"
 
 # Putka Gölü Sulak Alanı
 
-Putka Gölü Sulak Alanı, İç Anadolu Bölgesi'nin ortasında, yaklaşık 140 hektarlık bir alanı kapsayan, doğal güzellikler ve zengin fauna ile dolu bir sulak alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte bir doğa harikasıdır. Gölün suyu, çevredeki tarım alanlarını sulamak için kullanılır ve bu nedenle bölgenin ekosistemini destekler. Putka Gölü Sulak Alanı, aynı zamanda birçok kuş türünün yuvalandığı ve göç ettiği bir yerdir, bu nedenle doğa severler ve kuş gözlemcileri için önemli bir destinasyondur.
+Putka Gölü Sulak Alanı, İç Anadolu Bölgesi'nin ortasında, yaklaşık 140 hektarlık bir alanı kapsayan, doğal güzellikler ve zengin fauna ile dolu bir sulak alandır. Gölün suyu, çevredeki tarım alanlarını sulamak için kullanılır ve bu nedenle bölgenin ekosistemini destekler. Putka Gölü Sulak Alanı, aynı zamanda birçok kuş türünün yuvalandığı ve göç ettiği bir yerdir, bu nedenle doğa severler ve kuş gözlemcileri için önemli bir destinasyondur.
 
 ## Tarihçe
 

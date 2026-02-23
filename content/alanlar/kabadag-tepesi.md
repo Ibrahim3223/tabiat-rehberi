@@ -52,7 +52,7 @@ Doğal güzelliği ile dikkat çeken bu tepe, Ankara'nın coğrafi yapısını �
 
 Kabadağ Tepesi, Ankara'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ alanidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağ ekosisteminde, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çekiyor.
 
-Bitki örtüsü olarak step bitkileri ve bozkır türleri hakimdir. İlkbahar aylarında, dağ yamaçları renklendirilirken, sonbaharda göç eden kuşlar bu alanı ziyaret ediyor. Dağ hayvanları, dağlık alanların zorlu koşullarına adapte olmuş türlerdir. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin bir parçası olarak yaşamlarını sürdürüyorlar. 
+Bitki örtüsü olarak step bitkileri ve bozkır türleri hakimdir. İlkbahar aylarında, dağ yamaçları renklendirilirken, sonbaharda göç eden kuşlar bu alanı ziyaret ediyor. Dağ hayvanları, dağlık alanların zorlu koşullarına adapte olmuş türlerdir. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin bir parçası olarak yaşamlarını sürdürüyorlar.
 
 Kabadağ Tepesi'nin ekolojik değeri, bu tür dağ ekosistemlerinin korunması açısından büyük önem taşıyor. Bu alan, Ankara'nın doğal zenginliklerini koruma altına almak için önemli bir bölgedir.
 

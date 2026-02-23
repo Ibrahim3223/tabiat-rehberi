@@ -1,7 +1,7 @@
 ---
 title: "Hızır Paşa Hamamı"
 date: "2026-01-09T23:21:25.868Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738954"
 
 # Hızır Paşa Hamamı
 
-Hızır Paşa Hamamı, Amasya'nın merkezinde yer alan tarihi bir hamam ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en önemli turistik noktalarından biridir. Hamamın tarihi geçmişi, şehrin kültür mirasını yansıtan önemli bir yapıdır. Hızır Paşa Hamamı, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini çekmektedir. Alanın etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Hızır Paşa Hamamı, Amasya'nın merkezinde yer alan tarihi bir hamam ve plaj alanıdır. Hamamın tarihi geçmişi, şehrin kültür mirasını yansıtan önemli bir yapıdır. Hızır Paşa Hamamı, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini çekmektedir. Alanın etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hızır Paşa Hamamı'nın tarihi geçmişi, Amasya'nın kültür mirasının ö
 
 ## Coğrafya
 
-Hızır Paşa Hamamı, Amasya'nın merkezinde yer alan bir plaj ve tarihi hamam alanıdır. Alan, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölge, Karadeniz Bölgesi'nin karakteristik iklimini taşımaktadır. Yaz aylarında sıcaklık ve nem, kış aylarında ise soğuk hava koşulları hakimdir. Hızır Paşa Hamamı, Amasya'nın en önemli turistik noktalarından biridir ve şehrin kültür mirasını yansıtan önemli bir yapıdır. Alanın coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzelliği deneyimlemesine olanak tanımaktadır.
+Hızır Paşa Hamamı, Amasya'nın merkezinde yer alan bir plaj ve tarihi hamam alanıdır. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bölge, Karadeniz Bölgesi'nin karakteristik iklimini taşımaktadır. Yaz aylarında sıcaklık ve nem, kış aylarında ise soğuk hava koşulları hakimdir. Hızır Paşa Hamamı, Amasya'nın en önemli turistik noktalarından biridir ve şehrin kültür mirasını yansıtan önemli bir yapıdır. Alanın coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzelliği deneyimlemesine olanak tanımaktadır.
 
 ## Flora ve Fauna
 

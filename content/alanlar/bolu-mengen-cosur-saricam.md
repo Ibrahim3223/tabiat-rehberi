@@ -1,7 +1,7 @@
 ---
 title: "Bolu-Mengen-Cosur Saricam"
 date: "2026-01-09T19:02:49.023Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Bolu"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227975"
 
 # Bolu-Mengen-Cosur Saricam
 
-Bolu-Mengen-Cosur Saricam milli parkı, Karadeniz Bölgesi'nin güzide mekanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok doğal güzelliğe ev sahipliği yapıyor. Bu milli park, hem doğa severler hem de tarihi mekanlara ilgi duyanlar için ideal bir destinasyon. Bolu-Mengen-Cosur Saricam, ziyaretçilerine geniş ormanlık alanları, gölleri, akarsuları ve zengin fauna ile unutulmaz bir deneyim sunuyor.
+Bolu-Mengen-Cosur Saricam milli parkı, Karadeniz Bölgesi'nin güzide mekanlarından biridir. Bu milli park, hem doğa severler hem de tarihi mekanlara ilgi duyanlar için ideal bir destinasyon. Bolu-Mengen-Cosur Saricam, ziyaretçilerine geniş ormanlık alanları, gölleri, akarsuları ve zengin fauna ile unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

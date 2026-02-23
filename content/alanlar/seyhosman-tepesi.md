@@ -28,7 +28,7 @@ wikidata_id: "Q31554291"
 
 # Şeyhosman Tepesi
 
-Şeyhosman Tepesi, Mardin'in görkemli manzarasına ev sahipliği yapan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tarihi ve doğal güzelliklerin birleştiği bu noktada, ziyaretçiler hem Mardin'in tarihi geçmişi hakkında bilgi edinebiliyor hem de bölgenin eşsiz manzarasını izleyebiliyor. Şeyhosman Tepesi, Mardin'in önemli turizm noktalarından biri olarak dikkat çekiyor.
+Şeyhosman Tepesi, Mardin'in görkemli manzarasına ev sahipliği yapan bir tepe. Tarihi ve doğal güzelliklerin birleştiği bu noktada, ziyaretçiler hem Mardin'in tarihi geçmişi hakkında bilgi edinebiliyor hem de bölgenin eşsiz manzarasını izleyebiliyor. Şeyhosman Tepesi, Mardin'in önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

@@ -49,8 +49,8 @@ Gölün çevresel ilişkileri, komşu alanlar ve su kaynakları ile bağlantıl�
 
 ## Flora ve Fauna
 
-Marmara Gölü, Manisa'nın zeytinlikler ve çam ormanları ile çevrili bir bölgesinde yer alır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Gölün bitki örtüsü, özellikle ilkbahar aylarında çiçeklerle renklenir. Sulak alan bitkileri, gölün kıyılarını süsler. 
+Marmara Gölü, Manisa'nın zeytinlikler ve çam ormanları ile çevrili bir bölgesinde yer alır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Gölün bitki örtüsü, özellikle ilkbahar aylarında çiçeklerle renklenir. Sulak alan bitkileri, gölün kıyılarını süsler.
 
 Göl, su kuşları ve balıkların yaşam alanıdır. Sonbahar aylarında, göç eden kuşlar göle uğrar. Gölün ekolojik değeri, su kuşları ve balıkların yaşamını sürdürmesine olanak tanımasıdır. Bu nedenle, gölün korunmasına özen gösterilmelidir.
 

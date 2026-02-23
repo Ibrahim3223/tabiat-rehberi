@@ -29,7 +29,7 @@ wikidata_id: "Q134728136"
 
 # Termessos Mamastis Mozolesi
 
-Termessos Mamastis Mozolesi, Antalya'nın Döşemealtı ilçesinde yer alan ve tarih boyunca önemli bir yerleşim merkezi olan Termessos antik kentinde bulunan bir tarihi mozole. Bu mozole, yaklaşık 140 hektarlık bir alan üzerinde kurulu Termessos antik kentinde yer alıyor. Kentin toplam alanı, yaklaşık 200 futbol sahası büyüklüğünde. Mozolenin bulunduğu bu alan, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir arada sunuyor.
+Termessos Mamastis Mozolesi, Antalya'nın Döşemealtı ilçesinde yer alan ve tarih boyunca önemli bir yerleşim merkezi olan Termessos antik kentinde bulunan bir tarihi mozole. Bu mozole, yaklaşık 140 hektarlık bir alan üzerinde kurulu Termessos antik kentinde yer alıyor. Mozolenin bulunduğu bu alan, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir arada sunuyor.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Termessos Mamastis Mozolesi, tarihi geçmişi ile dikkat çekiyor. Antik Termess
 
 ## Coğrafya
 
-Termessos Mamastis Mozolesi, Antalya'nın Döşemealtı ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan dikkat çekici özellikler sunuyor. Mozolenin bulunduğu Termessos antik kenti, dağlık bir arazide kurulu ve etrafı ormanlık alanlarla çevrili. Bu coğrafi konum, ziyaretçiler için hem doğal güzellikleri sunuyor hem de histórik bir atmosfer yaratıyor. Termessos kentinin coğrafyası, aynı zamanda flora ve fauna açısından da zengin. Bu régionda, çeşitli bitki türleri ve hayvanlar bulunabiliyor.
+Termessos Mamastis Mozolesi, Antalya'nın Döşemealtı ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, coğrafi açıdan dikkat çekici özellikler sunuyor. Mozolenin bulunduğu Termessos antik kenti, dağlık bir arazide kurulu ve etrafı ormanlık alanlarla çevrili. Bu coğrafi konum, ziyaretçiler için hem doğal güzellikleri sunuyor hem de tarihi bir atmosfer yaratıyor. Termessos kentinin coğrafyası, aynı zamanda flora ve fauna açısından da zengin. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunabiliyor.
 
 ## Flora ve Fauna
 
-Termessos Mamastis Mozolesi ve çevresindeki Termessos antik kenti, flora ve fauna açısından zengin bir bölge. Bu régionda, çeşitli bitki türleri ve hayvanlar bulunabiliyor. Mevsimsel değişimler, bu bölgede canlıların yaşamını etkiliyor. İlkbahar ve yaz aylarında, flora daha aktif ve renkliken, sonbahar ve kış aylarında daha sakin bir atmosfer hakim oluyor. Bu mevsimsel değişimler, ziyaretçiler için de farklı deneyimler sunuyor.
+Termessos Mamastis Mozolesi ve çevresindeki Termessos antik kenti, flora ve fauna açısından zengin bir bölge. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunabiliyor. Mevsimsel değişimler, bu bölgede canlıların yaşamını etkiliyor. İlkbahar ve yaz aylarında, flora daha aktif ve renkliken, sonbahar ve kış aylarında daha sakin bir atmosfer hakim oluyor. Bu mevsimsel değişimler, ziyaretçiler için de farklı deneyimler sunuyor.
 
 ## Ziyaret Bilgileri
 

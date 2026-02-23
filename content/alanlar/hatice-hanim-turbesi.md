@@ -1,7 +1,7 @@
 ---
 title: "Hatice Hanım Türbesi"
 date: "2026-01-10T07:38:15.154Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Artvin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391315"
 
 # Hatice Hanım Türbesi
 
-Hatice Hanım Türbesi, Ardanuç'un güzide bir bölgesinde, Karadeniz Bölgesi'nin yeşille mavinin buluştuğu noktalarından birinde yer alır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hatice Hanım Türbesi, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini büyüler. Türbenin etrafı, yeşilin tüm tonlarını barındıran ormanlarla çevrilidir ve bu ormanlar, ziyaretçilere huzur dolu bir atmosfer sunar. Bu bölge, aynı zamanda Karadeniz'in특 trưng olan iklimini taşır ve bu iklim, bölgenin florasına ve faunasına özel bir karakter kazandırır.
+Hatice Hanım Türbesi, Ardanuç'un güzide bir bölgesinde, Karadeniz Bölgesi'nin yeşille mavinin buluştuğu noktalarından birinde yer alır. Hatice Hanım Türbesi, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini büyüler. Türbenin etrafı, yeşilin tüm tonlarını barındıran ormanlarla çevrilidir ve bu ormanlar, ziyaretçilere huzur dolu bir atmosfer sunar. Bu bölge, aynı zamanda Karadeniz'in특 trưng olan iklimini taşır ve bu iklim, bölgenin florasına ve faunasına özel bir karakter kazandırır.
 
 ## Tarihçe
 

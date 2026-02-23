@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Hasan Baba Türbesi"
 date: "2026-01-10T07:11:27.739Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390946"
 
 # Şeyh Hasan Baba Türbesi
 
-Şeyh Hasan Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin Şanlıurfa ilinin Birecik ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ziyaret noktalarından birisidir. Bu alan, tarihi yapıları, doğal güzellikleri ve ziyaretçilere sunduğu eşsiz deneyimi ile dikkat çekmektedir. Şeyh Hasan Baba Türbesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerinin bir arada sunulduğu benzersiz bir deneyim sunuyor.
+Şeyh Hasan Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin Şanlıurfa ilinin Birecik ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu alan, tarihi yapıları, doğal güzellikleri ve ziyaretçilere sunduğu eşsiz deneyimi ile dikkat çekmektedir. Şeyh Hasan Baba Türbesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerinin bir arada sunulduğu benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131390946"
 
 ## Coğrafya
 
-Şeyh Hasan Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en güzel bölgelerinden birisinde yer almaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli coğrafi oluşumlarından birisidir. Bu alan, Fırat Nehri'nin kıyısında yer almakta ve ziyaretçilerine doğal güzellikleri sunmaktadır. Şeyh Hasan Baba Türbesi'nin coğrafi konumu, ziyaretçilerine bölgenin en güzel manzaralarını sunuyor. Bölgenin iklimi, ziyaretçilere yılın her dönemi farklı deneyimler sunmakta ve ziyaretçilere çeşitli aktivite seçenekleri sunuyor. Şeyh Hasan Baba Türbesi, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini büyülemeye devam ediyor.
+Şeyh Hasan Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en güzel bölgelerinden birisinde yer almaktadır. Bu alan, Fırat Nehri'nin kıyısında yer almakta ve ziyaretçilerine doğal güzellikleri sunmaktadır. Şeyh Hasan Baba Türbesi'nin coğrafi konumu, ziyaretçilerine bölgenin en güzel manzaralarını sunuyor. Bölgenin iklimi, ziyaretçilere yılın her dönemi farklı deneyimler sunmakta ve ziyaretçilere çeşitli aktivite seçenekleri sunuyor. Şeyh Hasan Baba Türbesi, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini büyülemeye devam ediyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ wikidata_id: "Q131390946"
 ## İlginç Bilgiler
 
 - Şeyh Hasan Baba Türbesi, bölgenin en önemli tarihi ve doğal güzelliklerinden birisidir.
-- Bu alan, 140 hektarlık bir alana sahiptir.
+
 - Şeyh Hasan Baba Türbesi, Fırat Nehri'nin kıyısında yer almaktadır.
 - Ziyaretçilere, bölgenin en güzel manzaralarını sunuyor.
 - Şeyh Hasan Baba Türbesi, yılın her dönemi ziyaret edilebilir.

@@ -50,9 +50,9 @@ Mevsimsel değişimlerin yaşandığı Toldağ Tepe, Akdeniz ikliminin karakteri
 
 ## Flora ve Fauna
 
-Toldağ Tepe, Mersin'in maki bitki örtüsüne sahip dağlık bölgesinde yer alır. 1200 metre yükseklikte, kuraklığa dayanıklı türlerin hüküm sürdüğü bu alanda, ilkbaharda çiçekler patla verir. Kışın yağan yağmurların ardından, dağ yamaçları renkli bir hal alır. 
+Toldağ Tepe, Mersin'in maki bitki örtüsüne sahip dağlık bölgesinde yer alır. 1200 metre yükseklikte, kuraklığa dayanıklı türlerin hüküm sürdüğü bu alanda, ilkbaharda çiçekler patla verir. Kışın yağan yağmurların ardından, dağ yamaçları renkli bir hal alır.
 
-Bitki örtüsünün hakim türleri arasında maki bitkileri, keçi boynuzu ve kermes meşesi bulunur. Bu bitkiler, kuraklık koşullarına adapte olmuş ve dağ ekosisteminin temelini oluşturur. İlkbahar ve yaz aylarında, dağ yamaçlarında çeşitli çiçekler açar. 
+Bitki örtüsünün hakim türleri arasında maki bitkileri, keçi boynuzu ve kermes meşesi bulunur. Bu bitkiler, kuraklık koşullarına adapte olmuş ve dağ ekosisteminin temelini oluşturur. İlkbahar ve yaz aylarında, dağ yamaçlarında çeşitli çiçekler açar.
 
 Yaban hayatı da zengin bir çeşitlilik gösterir. Dağ keçileri, tilkiler ve yaban domuzları bu bölgenin memelileri arasında yer alır. Kuşlar arasında, göçmen kuşlar sonbaharda bölgeden geçer. Sürüngenler de dağlık alanda yaşamlarını sürdürür. Ekolojik değerini koruma altına almak, bu dağ ekosisteminin devamlılığını sağlar.
 

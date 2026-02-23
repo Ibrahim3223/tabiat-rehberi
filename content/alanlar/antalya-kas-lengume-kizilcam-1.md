@@ -22,7 +22,7 @@ wikidata_id: "Q108227303"
 
 # Antalya-Kas-Lengume Kızılçam 1
 
-Antalya-Kas-Lengume Kızılçam 1 milli parkı, Akdeniz Bölgesi'nin en güzel doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Ziyaretçiler, burada yaban hayatı gözlemleyebilir ve doğanın güzelliğini deneyimleyebilirler. Milli park, aynı zamanda doğa yürüyüşleri ve fotoğraf çekmek için ideal bir yerdir.
+Antalya-Kas-Lengume Kızılçam 1 milli parkı, Akdeniz Bölgesi'nin en güzel doğal alanlarından biridir. Ziyaretçiler, burada yaban hayatı gözlemleyebilir ve doğanın güzelliğini deneyimleyebilirler. Milli park, aynı zamanda doğa yürüyüşleri ve fotoğraf çekmek için ideal bir yerdir.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Antalya-Kas-Lengume Kızılçam 1 milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Antalya-Kas-Lengume Kızılçam 1 milli parkı, Akdeniz Bölgesi'nin coğrafyası bakımından önemli bir bölgedir. Milli park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Milli parkın coğrafyası, dağlık ve engebeli bir araziye sahiptir. Ziyaretçiler, burada yaban hayatı gözlemleyebilir ve doğanın güzelliğini deneyimleyebilirler. Milli park, aynı zamanda doğa yürüyüşleri ve fotoğraf çekmek için ideal bir yerdir. Coğrafi konumu itibariyle, milli park, Akdeniz Bölgesi'nin en güzel doğal alanlarından biridir.
+Antalya-Kas-Lengume Kızılçam 1 milli parkı, Akdeniz Bölgesi'nin coğrafyası bakımından önemli bir bölgedir. Milli parkın coğrafyası, dağlık ve engebeli bir araziye sahiptir. Ziyaretçiler, burada yaban hayatı gözlemleyebilir ve doğanın güzelliğini deneyimleyebilirler. Milli park, aynı zamanda doğa yürüyüşleri ve fotoğraf çekmek için ideal bir yerdir. Coğrafi konumu itibariyle, milli park, Akdeniz Bölgesi'nin en güzel doğal alanlarından biridir.
 
 ## Flora ve Fauna
 
-Antalya-Kas-Lengume Kızılçam 1 milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölge, mevsimsel değişimlere göre farklı canlıları barındırır. Kış aylarında, bölgeye özgü bitki türleri görülürken, yaz aylarında ise farklı türler ortaya çıkar. Milli park, aynı zamanda yaban hayatı gözlemlemek için ideal bir yerdir. Ziyaretçiler, burada çeşitli hayvan türlerini görebilir ve doğanın güzelliğini deneyimleyebilirler. Milli parkın ekosistemi, bölgenin doğal ve kültürel mirasının bir parçasıdır.
+ Bölge, mevsimsel değişimlere göre farklı canlıları barındırır. Kış aylarında, bölgeye özgü bitki türleri görülürken, yaz aylarında ise farklı türler ortaya çıkar. Milli park, aynı zamanda yaban hayatı gözlemlemek için ideal bir yerdir. Ziyaretçiler, burada çeşitli hayvan türlerini görebilir ve doğanın güzelliğini deneyimleyebilirler. Milli parkın ekosistemi, bölgenin doğal ve kültürel mirasının bir parçasıdır.
 
 ## Ziyaret Bilgileri
 
@@ -42,8 +42,6 @@ Antalya-Kas-Lengume Kızılçam 1 milli parkını ziyaret etmek, doğa severler 
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir.
-- Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
 - Milli park, aynı zamanda doğa yürüyüşleri ve fotoğraf çekmek için ideal bir yerdir.
 - Ziyaretçiler, burada yaban hayatı gözlemleyebilir ve doğanın güzelliğini deneyimleyebilirler.
 - Milli parkın ekosistemi, bölgenin doğal ve kültürel mirasının bir parçasıdır.

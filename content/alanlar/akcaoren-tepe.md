@@ -28,7 +28,7 @@ wikidata_id: "Q32127053"
 
 # Akçaören Tepe
 
-Akçaören Tepe, Ege Bölgesi'nin merkezi Afyonkarahisar şehrinde yer alan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi olarak oldukça zengin bir yapıya sahip. Bu tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Akçaören Tepe, ziyaretçilerini Ege Bölgesi'nin eşsiz manzarasıyla karşılayarak, doğa severler için bir cennet olarak konumlanıyor. Bu tepe, aynı zamanda bölgenin tarihi geçmişini de yansıtan önemli bir nokta.
+Akçaören Tepe, Ege Bölgesi'nin merkezi Afyonkarahisar şehrinde yer alan bir tepe. Bu tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Akçaören Tepe, ziyaretçilerini Ege Bölgesi'nin eşsiz manzarasıyla karşılayarak, doğa severler için bir cennet olarak konumlanıyor. Bu tepe, aynı zamanda bölgenin tarihi geçmişini de yansıtan önemli bir nokta.
 
 ## Tarihçe
 

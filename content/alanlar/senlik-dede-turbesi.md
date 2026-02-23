@@ -1,7 +1,7 @@
 ---
 title: "Şenlik Dede Türbesi"
 date: "2026-01-10T05:10:17.845Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391631"
 
 # Şenlik Dede Türbesi
 
-Şenlik Dede Türbesi, İstanbul'un Beşiktaş ilçesinde bulunan tarihi ve doğal güzelliklerin birleştiği bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli doğal alanlarından biridir. Bu bölge, yüzyıllar boyunca insanların ziyaret ettiği ve doğa ile iç içe olan bir yer olarak bilinir. Şenlik Dede Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbetmektedir.
+Şenlik Dede Türbesi, İstanbul'un Beşiktaş ilçesinde bulunan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Bu bölge, yüzyıllar boyunca insanların ziyaret ettiği ve doğa ile iç içe olan bir yer olarak bilinir. Şenlik Dede Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbetmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391631"
 
 ## Coğrafya
 
-Şenlik Dede Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu bölge, 140 hektarlık alan ile khong 200 futbol sahası büyüklüğünde ve coğrafi olarak önemli bir yere sahiptir. Şenlik Dede Türbesi, yüksek bir konumda bulunmaktadır ve çevresi ormanlık alanlarla kaplıdır. Bölgenin coğrafi yapısı, ziyaretçilerine doğal güzellikleri sunmaktadır ve onları doğa ile iç içe olmak için cezbedilmektedir. Şenlik Dede Türbesi, coğrafi olarak önemli bir bölge olması nedeniyle, ziyaretçilerini cezbetmektedir ve onlara unutulmaz bir deneyim sunmaktadır.
+Şenlik Dede Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Şenlik Dede Türbesi, yüksek bir konumda bulunmaktadır ve çevresi ormanlık alanlarla kaplıdır. Bölgenin coğrafi yapısı, ziyaretçilerine doğal güzellikleri sunmaktadır ve onları doğa ile iç içe olmak için cezbedilmektedir. Şenlik Dede Türbesi, coğrafi olarak önemli bir bölge olması nedeniyle, ziyaretçilerini cezbetmektedir ve onlara unutulmaz bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ wikidata_id: "Q131391631"
 
 ## Ziyaret Bilgileri
 
-Şenlik Dede Türbesi'ni ziyaret etmek, ziyaretçilerine unutulmaz bir deneyim sunmaktadır. Bu bölgeye ulaşım, toplu taşıma araçları ile kolayca sağlanmaktadır. Şenlik Dede Türbesi, yılın her mevsiminde ziyaret edilebilir, ancak ilkbahar ve sonbahar mevsimleri en uygun ziyaret mevsimleri olarak bilinir. Bölgeye ulaşım, yaklaşık 30 dakika sürmektedir ve ziyaretçilerin bu bölgeyi ziyaret etmeleri için herhangi bir zorluk yoktur.
+ Bu bölgeye ulaşım, toplu taşıma araçları ile kolayca sağlanmaktadır. Şenlik Dede Türbesi, yılın her mevsiminde ziyaret edilebilir, ancak ilkbahar ve sonbahar mevsimleri en uygun ziyaret mevsimleri olarak bilinir. Bölgeye ulaşım, yaklaşık 30 dakika sürmektedir ve ziyaretçilerin bu bölgeyi ziyaret etmeleri için herhangi bir zorluk yoktur.
 
 ## İlginç Bilgiler
 

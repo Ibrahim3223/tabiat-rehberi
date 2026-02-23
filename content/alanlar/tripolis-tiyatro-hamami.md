@@ -1,7 +1,7 @@
 ---
 title: "Tripolis Tiyatro Hamamı"
 date: "2026-01-09T23:18:56.228Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739011"
 
 # Tripolis Tiyatro Hamamı
 
-Tripolis Tiyatro Hamamı, Denizli'nin Buldan ilçesinde yer alan bir tarihi mekan. Bu alan, yaklaşık 140 hektarlık bir alanı kaplıyor ve tarihi geçmişiyle dikkat çekiyor. Tripolis Tiyatro Hamamı, antik dönemden kalan önemli yapıtlardan biri olarak kabul ediliyor. Burada, tarihi yapıların yanı sıra, doğanın güzelliğini de görebilirsiniz. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu mekan, ziyaretçilere geniş bir alanda gezebilmeleri için uygun bir ortam sunuyor.
+Tripolis Tiyatro Hamamı, Denizli'nin Buldan ilçesinde yer alan bir tarihi mekan. Tripolis Tiyatro Hamamı, antik dönemden kalan önemli yapıtlardan biri olarak kabul ediliyor. Burada, tarihi yapıların yanı sıra, doğanın güzelliğini de görebilirsiniz. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu mekan, ziyaretçilere geniş bir alanda gezebilmeleri için uygun bir ortam sunuyor.
 
 ## Tarihçe
 

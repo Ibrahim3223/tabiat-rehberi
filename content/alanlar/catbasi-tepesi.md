@@ -28,7 +28,7 @@ wikidata_id: "Q34828631"
 
 # Çatbaşı Tepesi
 
-Erzurum'un önemli doğa güzelliklerinden biri olan Çatbaşı Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici manzaralarıyla karşılar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve doğa severler için ideal bir gezi noktasıdır. Çatbaşı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihi geçmişi hakkında bilgiler sunar. Ziyaretçiler, bu tepeye çıkarak hem bölgenin doğal güzelliklerini keşfedebilir hem de tarihsel geçmişini öğrenme fırsatı bulabilir.
+Erzurum'un önemli doğa güzelliklerinden biri olan Çatbaşı Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici manzaralarıyla karşılar. Çatbaşı Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısını ve tarihi geçmişi hakkında bilgiler sunar. Ziyaretçiler, bu tepeye çıkarak hem bölgenin doğal güzelliklerini keşfedebilir hem de tarihsel geçmişini öğrenme fırsatı bulabilir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q61076495"
 
 # Katarahte Şelalesi
 
-Katarahte Şelalesi, Rize'nin muhteşem doğası içinde saklı bir hazine olarak karşımıza çıkar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile büyüler. Şelalenin sesi, çevredeki ormanların yeşilliği ve temiz hava, burayı ziyaret etmek için yeterli nedenlerdir. Katarahte Şelalesi, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon olarak ortaya çıkar.
+Katarahte Şelalesi, Rize'nin muhteşem doğası içinde saklı bir hazine olarak karşımıza çıkar. Şelalenin sesi, çevredeki ormanların yeşilliği ve temiz hava, burayı ziyaret etmek için yeterli nedenlerdir. Katarahte Şelalesi, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon olarak ortaya çıkar.
 
 ## Tarihçe
 

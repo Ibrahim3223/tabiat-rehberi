@@ -28,7 +28,7 @@ wikidata_id: "Q31539317"
 
 # Leylekdağı Tepesi
 
-Leylekdağı Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan olarak dikkat çekmektedir. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Leylekdağı Tepesi, ziyaretçilerine güzel bir manzara sunmaktadır. Tepenin yüksekliği ve etrafındaki doğal güzellikler, burayı bir gezi noktası haline getirmiştir. Leylekdağı Tepesi, aynı zamanda yaban hayatı açısından da önemli bir bölgedir.
+ Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Leylekdağı Tepesi, ziyaretçilerine güzel bir manzara sunmaktadır. Tepenin yüksekliği ve etrafındaki doğal güzellikler, burayı bir gezi noktası haline getirmiştir. Leylekdağı Tepesi, aynı zamanda yaban hayatı açısından da önemli bir bölgedir.
 
 ## Tarihçe
 

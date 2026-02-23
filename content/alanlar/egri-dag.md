@@ -32,7 +32,7 @@ Ardahan'ın dağlık arazisinde gizlenen Eğri Dağ, bölgeye özgü jeolojik ol
 
 ## Tarihçe
 
-Ardahan bölgesi, tarihin sâu sayfalarında gizli bir hazine gibi bekliyor. Bu bölge, binlerce yıl önce, çeşitli uygarlıkların geçiş noktalarından biri olarak hizmet vermiştir. Eğri Dağ gibi doğal alanlar, bölgenin tarihini şekillendiren önemli faktörlerden biri olmuşlardır. İnsanların yaşamlarını sürdürmeleri, hayvancılık ve tarımla uğraşmaları, bu doğal alanların varlığıyla doğrudan bağlantılıdır.
+Ardahan bölgesi, tarihin derin sayfalarında gizli bir hazine gibi bekliyor. Bu bölge, binlerce yıl önce, çeşitli uygarlıkların geçiş noktalarından biri olarak hizmet vermiştir. Eğri Dağ gibi doğal alanlar, bölgenin tarihini şekillendiren önemli faktörlerden biri olmuşlardır. İnsanların yaşamlarını sürdürmeleri, hayvancılık ve tarımla uğraşmaları, bu doğal alanların varlığıyla doğrudan bağlantılıdır.
 
 Tarih boyunca, Ardahan bölgesi, ticaret yollarının kesişme noktasında bulunmuş ve çeşitli medeniyetlerin izlerini taşımıştır. Yaylacılık ve hayvancılık, bölgenin coğrafi yapısı nedeniyle önemli bir yer tutmuş, insanların bu doğal alanlarla relationshipsı, bölgenin kültürel ve ekonomik yapısını şekillendirmiştir. Türkiye'nin tarihi boyunca, bu tür doğal alanlar, insanların yaşamlarını sürdürmelerinde, ekonomik faaliyetlerde bulunmalarında ve kültürel miraslarını oluşturmasında önemli bir rol oynamıştır. Eğri Dağ, bu doğal alanlardan biri olarak, Ardahan bölgesinin tarihini ve kültürel mirasını anlamak için önemli bir noktadır.
 
@@ -48,10 +48,10 @@ Eğri Dağ, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütün olar
 
 ## Flora ve Fauna
 
-Eğri Dağ, Ardahan'ın yüksek dağ ekosisteminin güzelliğini sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına göre farklı bitki türlerine ev sahipliği yapar. 
-Sonbaharda, göçmen kuşlar bölgeyi ziyaret eder ve dağların sessizliğini bozar. 
-Dağ ekosisteminde, memeliler ve kuşlar arasında ekolojik bir denge hüküm sürer. 
+Eğri Dağ, Ardahan'ın yüksek dağ ekosisteminin güzelliğini sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına göre farklı bitki türlerine ev sahipliği yapar.
+Sonbaharda, göçmen kuşlar bölgeyi ziyaret eder ve dağların sessizliğini bozar.
+Dağ ekosisteminde, memeliler ve kuşlar arasında ekolojik bir denge hüküm sürer.
 Koruma durumu, bu doğal alanın geleceğiçin büyük önem taşır.
 
 ## Ziyaret Bilgileri

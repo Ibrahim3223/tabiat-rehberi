@@ -1,7 +1,7 @@
 ---
 title: "Sururi Mehmet Efendi Türbesi"
 date: "2026-01-10T05:44:10.783Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q135430359"
 
 # Sururi Mehmet Efendi Türbesi
 
-Sururi Mehmet Efendi Türbesi, İstanbul'un kalbi olan Beyoğlu'nda yer alan bir tarihi mekan. Bu mekan, Marmara Bölgesi'nin önemli kültür merkezlerinden biri olarak dikkat çekiyor. 140 hektarın üzerinde bir alana yayılan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Sururi Mehmet Efendi Türbesi, ziyaretçilerini tarihi atmosferi ve eşsiz manzarasıyla karşılıyor. Bu türbeyi ziyaret etmek, hem tarihi hem de kültürel açıdan zenginleştirici bir deneyim sunuyor.
+Sururi Mehmet Efendi Türbesi, İstanbul'un kalbi olan Beyoğlu'nda yer alan bir tarihi mekan. Bu mekan, Marmara Bölgesi'nin önemli kültür merkezlerinden biri olarak dikkat çekiyor. Sururi Mehmet Efendi Türbesi, ziyaretçilerini tarihi atmosferi ve eşsiz manzarasıyla karşılıyor. Bu türbeyi ziyaret etmek, hem tarihi hem de kültürel açıdan zenginleştirici bir deneyim sunuyor.
 
 ## Tarihçe
 

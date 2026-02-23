@@ -34,7 +34,7 @@ Ağrı'nın dağlık coğrafyasında, Türkiye'nin doğusunda yer alan Fişekli 
 
 Ağrı bölgesi, tarihin en eski dönemlerinden bu yana çeşitli uygarlıkların yaşamına ev sahipliği yapmış bir coğrafyadır. Bu bölgede, Urartular, Selçuklular ve Osmanlılar gibi medeniyetler iz bırakmıştır. Fişekli Dağı da, bu tarihsel zenginliğin bir parçası olarak yer alır.
 
-Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin ekonomisine katkıda bulunmuştur. Ayrıca, ticaret yolları ve histórik izlekler, bu bölgelerin stratejik önemini artırmıştır. Ağrı bölgesinde de, benzer şekilde, insanların doğal alanlarla ilişkisi önemli olmuştur. Fişekli Dağı, bu bölgedeki diğer doğal alanlar gibi, insanların yaşamlarına ve kültürlerine katkıda bulunmuştur. Bu dağ, bölgenin coğrafi ve kültürel kimliğini şekillendiren önemli bir unsurdur.
+Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin ekonomisine katkıda bulunmuştur. Ayrıca, ticaret yolları ve tarihi izlekler, bu bölgelerin stratejik önemini artırmıştır. Ağrı bölgesinde de, benzer şekilde, insanların doğal alanlarla ilişkisi önemli olmuştur. Fişekli Dağı, bu bölgedeki diğer doğal alanlar gibi, insanların yaşamlarına ve kültürlerine katkıda bulunmuştur. Bu dağ, bölgenin coğrafi ve kültürel kimliğini şekillendiren önemli bir unsurdur.
 
 ## Coğrafya
 
@@ -48,9 +48,9 @@ Mevsimsel değişikliklere baktığımızda, Fişekli Dağı'nın iklim karakter
 
 ## Flora ve Fauna
 
-Fişekli Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renklendirilir ve çeşitli çiçekler açar. Bu mevsimde, dağ yamaçlarında çeşitli otsu bitkiler ve çalılar görünür. 
+Fişekli Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renklendirilir ve çeşitli çiçekler açar. Bu mevsimde, dağ yamaçlarında çeşitli otsu bitkiler ve çalılar görünür.
 
-Yaban hayatı da bir o kadar zengin olan Fişekli Dağı'nda, çeşitli memeliler, kuşlar ve sürüngenler sốngar. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşarken, bazı kuş türleri ise göç ettikleri sırada bu dağları konaklama noktaları olarak kullanır. 
+Yaban hayatı da bir o kadar zengin olan Fişekli Dağı'nda, çeşitli memeliler, kuşlar ve sürüngenler sốngar. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşarken, bazı kuş türleri ise göç ettikleri sırada bu dağları konaklama noktaları olarak kullanır.
 
 Fişekli Dağı'nın ekolojik değeri, yüksek dağ ekosisteminin korunmasına bağlıdır. Bu dağ, birçok endemik türün yaşam alanıdır ve bu türlerin korunması için önemli bir rol oynar. Ayrıca, dağların yüksek kesimlerinde yaşayan bazı bitkiler, sadece bu bölgede bulunur ve bu nedenle koruma altına alınmıştır.
 

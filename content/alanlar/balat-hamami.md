@@ -1,7 +1,7 @@
 ---
 title: "Balat Hamamı"
 date: "2026-01-10T04:26:26.960Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Fatih"
@@ -30,7 +30,7 @@ wikidata_id: "Q112123359"
 
 # Balat Hamamı
 
-Balat Hamamı, Ayvansaray'da bulunan tarihi bir hamamdır. Bu hamam, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve ziyaretçilerine doğayla iç içe bir gezi deneyimi sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir alanı kaplar. Balat Hamamı, tarihi geçmişi ve doğal güzelliği ile dikkat çekici bir destinasyondur. Ziyaretçiler, burada hem tarihi bir hamamın atmosferini yaşayabilir hem de geniş yeşil alanın içinde doğa yürüyüşü yapabilirler.
+Balat Hamamı, Ayvansaray'da bulunan tarihi bir hamamdır. Bu hamam, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve ziyaretçilerine doğayla iç içe bir gezi deneyimi sunar. Balat Hamamı, tarihi geçmişi ve doğal güzelliği ile dikkat çekici bir destinasyondur. Ziyaretçiler, burada hem tarihi bir hamamın atmosferini yaşayabilir hem de geniş yeşil alanın içinde doğa yürüyüşü yapabilirler.
 
 ## Tarihçe
 

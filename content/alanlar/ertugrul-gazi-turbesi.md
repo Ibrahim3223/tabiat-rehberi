@@ -1,7 +1,7 @@
 ---
 title: "Ertuğrul Gazi Türbesi"
 date: "2026-01-10T04:46:48.184Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -30,7 +30,7 @@ wikidata_id: "Q6085562"
 
 # Ertuğrul Gazi Türbesi
 
-Ertuğrul Gazi Türbesi, Söğüt ilçesinde yer alan ve Osmanlı Devleti'nin kurucusu Osman Bey'in babası Ertuğrul Gazi'ye ait olan tarihi bir türbedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli tarihi mekanlarından biridir. Bu bölge, aynı zamanda Osmanlı Devleti'nin kuruluş yeridir ve tarihte önemli bir yere sahiptir. Ertuğrul Gazi Türbesi, ziyaretçilerini tarihinliklerine götürerek, Osmanlı'nın kuruluşuna tanıklık etme fırsatı sunar.
+Ertuğrul Gazi Türbesi, Söğüt ilçesinde yer alan ve Osmanlı Devleti'nin kurucusu Osman Bey'in babası Ertuğrul Gazi'ye ait olan tarihi bir türbedir. Bu bölge, aynı zamanda Osmanlı Devleti'nin kuruluş yeridir ve tarihte önemli bir yere sahiptir. Ertuğrul Gazi Türbesi, ziyaretçilerini tarihinliklerine götürerek, Osmanlı'nın kuruluşuna tanıklık etme fırsatı sunar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Savaş Köyü Hamamı"
 date: "2026-01-09T23:48:50.239Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245689"
 
 # Savaş Köyü Hamamı
 
-Savaş Köyü Hamamı, Konya'nın Akşehir ilçesinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Savaş Köyü Hamamı, aynı zamanda bir plaj olarak da biliniyor ve tatilseverlerin uğrak noktalarından biri. Bu muhteşem mekan, hem doğa severlerin hem de plaj tutkunlarının keyiflenebileceği bir destinasyon.
+Savaş Köyü Hamamı, Konya'nın Akşehir ilçesinde yer alan 140 hektarlık bir yeşil alandır. Savaş Köyü Hamamı, aynı zamanda bir plaj olarak da biliniyor ve tatilseverlerin uğrak noktalarından biri. Bu muhteşem mekan, hem doğa severlerin hem de plaj tutkunlarının keyiflenebileceği bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Savaş Köyü Hamamı'nın tarihi geçmişi, Konya'nın zengin kültürel miras�
 
 ## Coğrafya
 
-Savaş Köyü Hamamı, Konya'nın Akşehir ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle step ikliminin hakim olduğu bir alan ve yaz aylarında sıcaklığın arttığı, kış aylarında ise soğukların hissedildiği bir coğrafyada bulunuyor. Savaş Köyü Hamamı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu alan, aynı zamanda çevredeki dağların ve ovaların manzarasına da ev sahipliği yapıyor. Savaş Köyü Hamamı'nın coğrafi konumu, ziyaretçilerin hem doğayı keşfetmelerine hem de bölgenin tarihi ve kültürel zenginliklerini keşfetmelerine olanak tanıyor.
+Savaş Köyü Hamamı, Konya'nın Akşehir ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle step ikliminin hakim olduğu bir alan ve yaz aylarında sıcaklığın arttığı, kış aylarında ise soğukların hissedildiği bir coğrafyada bulunuyor. Bu alan, aynı zamanda çevredeki dağların ve ovaların manzarasına da ev sahipliği yapıyor. Savaş Köyü Hamamı'nın coğrafi konumu, ziyaretçilerin hem doğayı keşfetmelerine hem de bölgenin tarihi ve kültürel zenginliklerini keşfetmelerine olanak tanıyor.
 
 ## Flora ve Fauna
 

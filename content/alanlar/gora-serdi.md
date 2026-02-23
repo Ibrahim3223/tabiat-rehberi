@@ -32,8 +32,8 @@ Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Gora Serdi Dağ�
 
 ## Tarihçe
 
-Gora Serdi dağının bulunduğu Batman bölgesi, tarihin derinliklerine uzanan köklü bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuştur. Hitit, Asur, Pers ve Roma gibi medeniyetler, bölgenin stratejik konumu nedeniyle buraya ilgi duymuşlardır. 
-Bu doğal alanlar, Türkiye'nin kültürel ve ekonomik dokusunda önemli bir role sahiptir. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin insanlarla olan bağlantısını sağlamıştır. Ayrıca, tarihi ticaret yollarının güzergahı üzerinde bulunan bu alanlar, çeşitli medeniyetlerin etkileşimine de tanıklık etmiştir. 
+Gora Serdi dağının bulunduğu Batman bölgesi, tarihin derinliklerine uzanan köklü bir geçmişe sahiptir. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuştur. Hitit, Asur, Pers ve Roma gibi medeniyetler, bölgenin stratejik konumu nedeniyle buraya ilgi duymuşlardır.
+Bu doğal alanlar, Türkiye'nin kültürel ve ekonomik dokusunda önemli bir role sahiptir. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin insanlarla olan bağlantısını sağlamıştır. Ayrıca, tarihi ticaret yollarının güzergahı üzerinde bulunan bu alanlar, çeşitli medeniyetlerin etkileşimine de tanıklık etmiştir.
 Gora Serdi dağının bulunduğu bölge, bu tarihi ve kültürel zenginliklerin bir parçasıdır. Bölgenin coğrafi yapısı, insanların yerleşim ve गतlilik şekillerini etkilemiştir. Bu dağlar, aynı zamanda bölgenin iklimini ve ekosistemini şekillendirmiştir. Bu nedenle, Gora Serdi dağının tarihi, bölgenin genel tarihsel bağlamı içinde değerlendirilmelidir.
 
 ## Coğrafya

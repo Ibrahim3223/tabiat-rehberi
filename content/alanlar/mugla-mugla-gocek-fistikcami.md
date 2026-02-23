@@ -22,7 +22,7 @@ wikidata_id: "Q108228439"
 
 # Mugla-Muğla-Gocek Fıstıkçamı
 
-Gocek Fıstıkçamı, Muğla'nın Ege Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlayan bir milli parktır. Bu alanı yaklaşık 200 futbol sahası büyüklüğünde olarak düşünebiliriz. Doğal güzellikleri ve zengin florası ile dikkat çeken bu bölge, hem doğa severlerin hem de tatil arayanların ilgisini çekmektedir. Gocek Fıstıkçamı, ziyaretçilerine hem doğayla iç içe bir deneyim sunarken hem de bölgenin tarihi ve kültürel özellikleri hakkında bilgi edinme fırsatı vermektedir.
+Gocek Fıstıkçamı, Muğla'nın Ege Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlayan bir milli parktır. Doğal güzellikleri ve zengin florası ile dikkat çeken bu bölge, hem doğa severlerin hem de tatil arayanların ilgisini çekmektedir. Gocek Fıstıkçamı, ziyaretçilerine hem doğayla iç içe bir deneyim sunarken hem de bölgenin tarihi ve kültürel özellikleri hakkında bilgi edinme fırsatı vermektedir.
 
 ## Tarihçe
 

@@ -50,9 +50,9 @@ Mevsimsel değişikliklere göre Karabüzmelek Dağı'nın iklimi değişir. Kı
 
 ## Flora ve Fauna
 
-Karabüzmelek Dağı'nın flora ve fauna zenginliği, ziyaretçileri bir doğa harikasına davet ediyor. 800 metre yükseklikte, maki bitki örtüsünün hakim olduğu bu dağ ekosisteminde, kuraklığa dayanıklı türler ön plana çıkıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. 
+Karabüzmelek Dağı'nın flora ve fauna zenginliği, ziyaretçileri bir doğa harikasına davet ediyor. 800 metre yükseklikte, maki bitki örtüsünün hakim olduğu bu dağ ekosisteminde, kuraklığa dayanıklı türler ön plana çıkıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor.
 
-Yaban hayatı da aynı derecede çeşitlilik gösteriyor. Dağ keçileri ve yaban domuzları, dağların yüksek zonlarında yaşamlarını sürdürürken, göç mevsiminde çeşitli kuş türleri bu dağları konaklama noktaları olarak kullanıyor. Sürüngenler de bu ekosistemin önemli bir bileşenini oluşturuyor. 
+Yaban hayatı da aynı derecede çeşitlilik gösteriyor. Dağ keçileri ve yaban domuzları, dağların yüksek zonlarında yaşamlarını sürdürürken, göç mevsiminde çeşitli kuş türleri bu dağları konaklama noktaları olarak kullanıyor. Sürüngenler de bu ekosistemin önemli bir bileşenini oluşturuyor.
 
 Karabüzmelek Dağı'nın ekolojik değeri, bölgenin biyolojik çeşitliliğini koruma açısından büyük önem taşıyor. Bu dağ ekosisteminin korunması, sadece burada yaşayan türlerin değil, aynı zamanda bölgenin su döngüsünü ve toprağını korumaya da katkıda bulunuyor.
 

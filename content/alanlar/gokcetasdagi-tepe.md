@@ -48,11 +48,11 @@ Doğal güzelliği ile dikkat çeken Gökçetaşdağı Tepe, coğrafi olarak Mer
 
 ## Flora ve Fauna
 
-Gökçetaşdağı Tepe, Mersin'in dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gökçetaşdağı Tepe, Mersin'in dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, Gökçetaşdağı Tepe'nin maki bitki örtüsü hakimdir. İlkbahar döneminde, dağ yamaçları rengarenk çiçeklerle kaplanır. Kuru ve kuraklığa dayanıklı türler, bu bölgenin karakterini oluşturur. 
+Bitki Örtüsü olarak, Gökçetaşdağı Tepe'nin maki bitki örtüsü hakimdir. İlkbahar döneminde, dağ yamaçları rengarenk çiçeklerle kaplanır. Kuru ve kuraklığa dayanıklı türler, bu bölgenin karakterini oluşturur.
 
-Yaban Hayatı açısından, Gökçetaşdağı Tepe zengin bir fauna sunar. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar, özellikle göç mevsimlerinde bu bölgeyi ziyaret eder. Sürüngenler ve amfibiler de bu dağ ekosisteminin bir parçasıdır. 
+Yaban Hayatı açısından, Gökçetaşdağı Tepe zengin bir fauna sunar. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar, özellikle göç mevsimlerinde bu bölgeyi ziyaret eder. Sürüngenler ve amfibiler de bu dağ ekosisteminin bir parçasıdır.
 
 Ekolojik Değer olarak, Gökçetaşdağı Tepe'nin korunması önemlidir. Bu dağ ekosistemi, birçok canlıyaşam alanı sağlar ve ekolojik dengenin korunmasına yardımcı olur.
 

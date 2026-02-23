@@ -30,7 +30,7 @@ wikidata_id: "Q65043584"
 
 # Ekşisu Piknik Alanı
 
-Ekşisu Piknik Alanı, Erzincan'da yer alan 140 hektarlık bir yeşil alanı sunar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Piknik alanı, şehrin gürültüsünden uzaklaşmak isteyenler için sakin ve huzurlu bir ortam sağlar. Ziyaretçiler, bu krásalı bölgede doğanın güzelliğini keşfedebilir, piknik yapabilir ve doğayla iç içe olabilirler.
+Ekşisu Piknik Alanı, Erzincan'da yer alan 140 hektarlık bir yeşil alanı sunar. Piknik alanı, şehrin gürültüsünden uzaklaşmak isteyenler için sakin ve huzurlu bir ortam sağlar. Ziyaretçiler, bu krásalı bölgede doğanın güzelliğini keşfedebilir, piknik yapabilir ve doğayla iç içe olabilirler.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34810178"
 
 # Üçöz Tepesi
 
-Üçöz Tepesi, Kayseri'nin doğal güzelliklerinden biri olarak dikkat çeker. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. İç Anadolu Bölgesi'nin en yüksek noktalarından biri olan Üçöz Tepesi, ziyaretçilerine muhteşem bir manzara sunar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getirir. Tepenin yüksekliği ve konumu, ziyaretçilerine bölgenin tarihi ve kültürel değerlerini keşfetme fırsatı sunar.
+Üçöz Tepesi, Kayseri'nin doğal güzelliklerinden biri olarak dikkat çeker. İç Anadolu Bölgesi'nin en yüksek noktalarından biri olan Üçöz Tepesi, ziyaretçilerine muhteşem bir manzara sunar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getirir. Tepenin yüksekliği ve konumu, ziyaretçilerine bölgenin tarihi ve kültürel değerlerini keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34810178"
 
 ## Coğrafya
 
-Üçöz Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahiptir. Tepenin konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Yaklaşık 140 hektarlık bir alanı kaplayan tepe, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Tepenin yüksekliği, bölgenin manzarasını ve panoramasını etkiler. İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip olan Üçöz Tepesi, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Tepenin etrafındaki vadiler ve ovalar, bölgenin jeolojik yapısını ve histórik geçmişini yansıtan önemli coğrafi oluşumlarıdır.
+Üçöz Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde önemli bir yere sahiptir. Tepenin konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Yaklaşık 140 hektarlık bir alanı kaplayan tepe, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Tepenin yüksekliği, bölgenin manzarasını ve panoramasını etkiler. İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahip olan Üçöz Tepesi, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunar. Tepenin etrafındaki vadiler ve ovalar, bölgenin jeolojik yapısını ve tarihi geçmişini yansıtan önemli coğrafi oluşumlarıdır.
 
 ## Flora ve Fauna
 

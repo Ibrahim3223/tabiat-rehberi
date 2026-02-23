@@ -53,7 +53,7 @@ Doğal güzellikleri korunan bir bölge olan Kozkavak Dağı, komşu alanlarla b
 Kozkavak Dağı, Kütahya'nın yeşilliklerle kaplı bir bölgesinde yer alıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, farklı mevsimlerde renk değiştirerek güzelliğini sergiliyor.
 
 Bitki Örtüsü:
-İlkbaharla birlikte, dağ eteklerinde zeytinlikler canlanıyor. Çam ormanları ise dağın daha yüksek kesimlerinde hakim oluyor. Mevsimsel değişimlerle birlikte, alpin flora da ortaya çıkıyor. 
+İlkbaharla birlikte, dağ eteklerinde zeytinlikler canlanıyor. Çam ormanları ise dağın daha yüksek kesimlerinde hakim oluyor. Mevsimsel değişimlerle birlikte, alpin flora da ortaya çıkıyor.
 
 Yaban Hayatı:
 Memeliler ve kuşlar, bu dağlık bölgede yaşamını sürdürüyor. Göç mevsimlerinde, birçok kuş türünü burada gözlemleme mümkün. Sürüngenler de, bu ekosistemin bir parçası olarak yer alıyor.

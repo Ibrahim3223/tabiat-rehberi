@@ -28,7 +28,7 @@ wikidata_id: "Q31388125"
 
 # Taşkestik Tepesi
 
-Taşkestik Tepesi, Denizli'nin güzide noktalarından biri olarak Ege Bölgesi'nin doğal güzelliklerine ev sahipliği yapıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerini büyüleyici manzaralarla karşılıyor. Denizli'nin tarihi ve coğrafi zenginliklerinin birleştiği bu nokta, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak görülüyor. Taşkestik Tepesi'nin etrafı, çeşitli bitki türleriyle dolu ve bu bölgede zengin bir fauna bulunuyor.
+Taşkestik Tepesi, Denizli'nin güzide noktalarından biri olarak Ege Bölgesi'nin doğal güzelliklerine ev sahipliği yapıyor. Denizli'nin tarihi ve coğrafi zenginliklerinin birleştiği bu nokta, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak görülüyor. Taşkestik Tepesi'nin etrafı, çeşitli bitki türleriyle dolu ve bu bölgede zengin bir fauna bulunuyor.
 
 ## Tarihçe
 

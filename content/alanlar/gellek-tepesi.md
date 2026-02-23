@@ -28,7 +28,7 @@ wikidata_id: "Q31390549"
 
 # Gellek Tepesi
 
-Gellek Tepesi, Niğde ilinin sınırları içinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Gellek Tepesi, coğrafi konumu ve doğal güzelliği ile dikkat çeker. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunmaktadır. Gellek Tepesi'nin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar ve bölgenin coğrafi özelliklerini gözlemleme imkanı verir.
+Gellek Tepesi, Niğde ilinin sınırları içinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak bilinir. Gellek Tepesi, coğrafi konumu ve doğal güzelliği ile dikkat çeker. Gellek Tepesi'nin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar ve bölgenin coğrafi özelliklerini gözlemleme imkanı verir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Gellek Tepesi, Niğde ilinin coğrafi yapısını temsil eden önemli bir bölge
 
 ## Flora ve Fauna
 
-Gellek Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, mevsimsel değişimlere uygun olarak farklı bitkiler ve hayvanlar barındırır. Gellek Tepesi'nin flora ve fauna çeşitliliği, bu bölgenin ekolojik önemini vurgular. Bu tepe, bölgenin iklimine uygun olarak farklı mevsimlerde farklı bitkilerin ve hayvanların yaşadığı bir alandır. Gellek Tepesi'nin flora ve fauna çeşitliliği, ziyaretçilere bu bölgenin doğal güzelliğini keşfetme fırsatı sunar. Bu bölge, yaban hayatı için önemli bir yaşam alanıdır ve koruma altına alınmıştır.
+ Bu bölge, mevsimsel değişimlere uygun olarak farklı bitkiler ve hayvanlar barındırır. Gellek Tepesi'nin flora ve fauna çeşitliliği, bu bölgenin ekolojik önemini vurgular. Bu tepe, bölgenin iklimine uygun olarak farklı mevsimlerde farklı bitkilerin ve hayvanların yaşadığı bir alandır. Gellek Tepesi'nin flora ve fauna çeşitliliği, ziyaretçilere bu bölgenin doğal güzelliğini keşfetme fırsatı sunar. Bu bölge, yaban hayatı için önemli bir yaşam alanıdır ve koruma altına alınmıştır.
 
 ## Ziyaret Bilgileri
 

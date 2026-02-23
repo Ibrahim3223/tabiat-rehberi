@@ -1,7 +1,7 @@
 ---
 title: "Sinan Paşa Hamamı"
 date: "2026-01-09T22:32:07.415Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kargı"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738677"
 
 # Sinan Paşa Hamamı
 
-Sinan Paşa Hamamı, İç Anadolu Bölgesi'nin Kargı ilçesinde bulunan tarihi bir hamamdır. Bu hamam, yaklaşık 140 hektarlık bir alanda kurulmuştur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sinan Paşa Hamamı, tarihi geçmişi ve doğal güzelliği ile dikkat çeker. Bu alan, ziyaretçilerine hem tarihi bir deneyim hem de doğal bir güzellik sunar. Hamamın tarihi dokusu, ziyaretçileri geçmişe götürürken, etrafındaki yeşil alanlar ve doğal güzellikler, ziyaretçilere huzur ve rahatlık verir.
+Sinan Paşa Hamamı, İç Anadolu Bölgesi'nin Kargı ilçesinde bulunan tarihi bir hamamdır. Bu hamam, yaklaşık 140 hektarlık bir alanda kurulmuştur. Sinan Paşa Hamamı, tarihi geçmişi ve doğal güzelliği ile dikkat çeker. Bu alan, ziyaretçilerine hem tarihi bir deneyim hem de doğal bir güzellik sunar. Hamamın tarihi dokusu, ziyaretçileri geçmişe götürürken, etrafındaki yeşil alanlar ve doğal güzellikler, ziyaretçilere huzur ve rahatlık verir.
 
 ## Tarihçe
 

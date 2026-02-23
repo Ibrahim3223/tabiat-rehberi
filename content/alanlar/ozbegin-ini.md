@@ -58,7 +58,7 @@ Bu jeopark, yaban hayatının çeşitliliği açısından da önemlidir. Memelil
 
 ## Ziyaret Bilgileri
 
-Özbeğin İni'ne gitmek için Mersin'den yaklaşık 1 saatlik bir yolculuk gerekiyor. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin şiddetinden kaçınmış olursunuz. İlkbahar ve sonbahar ayları, bu jeoparkı ziyaret etmek için en ideal mevsimler. 
+Özbeğin İni'ne gitmek için Mersin'den yaklaşık 1 saatlik bir yolculuk gerekiyor. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin şiddetinden kaçınmış olursunuz. İlkbahar ve sonbahar ayları, bu jeoparkı ziyaret etmek için en ideal mevsimler.
    Yanınıza mutlaka su, atıştırmalık ve pohodolojik ayakkabılar alın. En güzel manzara noktalarında fotoğrafçılık yapabilir, kuş gözlemi için uygun alanları keşfedebilirsiniz. Pikni ve kamp için de uygun bir ortam sunuyor.
 
 ## İlginç Bilgiler

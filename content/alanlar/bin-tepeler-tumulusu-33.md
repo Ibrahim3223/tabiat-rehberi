@@ -29,7 +29,7 @@ wikidata_id: "Q134728356"
 
 # Bin Tepeler Tümülüsü 33
 
-Bin Tepeler Tümülüsü 33, Ege Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Salihli/Manisa'da bulunan bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş yeşil alan, ziyaretçilere hem doğayla iç içe bir  sunuyor hem de tarihi geçmişiyle ilgilerini çekiyor. Bin Tepeler Tümülüsü 33, farklı türdeki bitkiler ve hayvanlar ile zengin bir fauna sunuyor. Ziyaretçiler, bu özel alanda hem doğayı keşfediyor hem de tarihin izlerini sürüyor.
+Bin Tepeler Tümülüsü 33, Ege Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Bu geniş yeşil alan, ziyaretçilere hem doğayla iç içe bir  sunuyor hem de tarihi geçmişiyle ilgilerini çekiyor. Bin Tepeler Tümülüsü 33, farklı türdeki bitkiler ve hayvanlar ile zengin bir fauna sunuyor. Ziyaretçiler, bu özel alanda hem doğayı keşfediyor hem de tarihin izlerini sürüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 33, yüzyıllar boyunca çeşitli uygarlıkların izler
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 33, Ege Bölgesi'nin coğrafi güzelliklerini sergileyen bir nokta olarak ziyaretçilerini bekliyor. Salihli/Manisa'da bulunan bu özel alan, 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş yeşil alan, ziyaretçilere hem doğayla iç içe bir  sunuyor hem de coğrafi güzelliklerini keşfetme fırsatı veriyor. Bin Tepeler Tümülüsü 33'ün coğrafi konumu, ziyaretçilere Ege Bölgesi'nin güzelliklerini keşfetme fırsatı tanıyor. Bu özel alan, ziyaretçilere hem dağların güzelliklerini hem de ovaların genişliğini gösteren bir coğrafi çeşitlilik sunuyor.
+Bin Tepeler Tümülüsü 33, Ege Bölgesi'nin coğrafi güzelliklerini sergileyen bir nokta olarak ziyaretçilerini bekliyor. Bu geniş yeşil alan, ziyaretçilere hem doğayla iç içe bir  sunuyor hem de coğrafi güzelliklerini keşfetme fırsatı veriyor. Bin Tepeler Tümülüsü 33'ün coğrafi konumu, ziyaretçilere Ege Bölgesi'nin güzelliklerini keşfetme fırsatı tanıyor. Bu özel alan, ziyaretçilere hem dağların güzelliklerini hem de ovaların genişliğini gösteren bir coğrafi çeşitlilik sunuyor.
 
 ## Flora ve Fauna
 

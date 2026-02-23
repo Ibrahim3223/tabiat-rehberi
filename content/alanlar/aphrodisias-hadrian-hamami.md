@@ -1,7 +1,7 @@
 ---
 title: "Aphrodisias Hadrian Hamamı"
 date: "2026-01-09T23:08:35.200Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738906"
 
 # Aphrodisias Hadrian Hamamı
 
-Aphrodisias Hadrian Hamamı, Karacasu, Aydın'da bulunan ve Ege Bölgesi'nin önemli tarihi mekanlarından biri olan bir hamam ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine tarihin derinliklerine bir yolculuk sunuyor. Aphrodisias, antik dönemden kalan kalıntıları ve tarihi yapılarıyla dikkat çekiyor. Hadrian Hamamı, bu bölgenin en önemli yapılarından biri olarak kabul ediliyor. Hamamın tarihi, Roma İmparatoru Hadrian dönemine kadar uzanıyor ve o dönemden kalan önemli bir eser olarak kabul ediliyor.
+Aphrodisias Hadrian Hamamı, Karacasu, Aydın'da bulunan ve Ege Bölgesi'nin önemli tarihi mekanlarından biri olan bir hamam ve plaj alanıdır. Aphrodisias, antik dönemden kalan kalıntıları ve tarihi yapılarıyla dikkat çekiyor. Hadrian Hamamı, bu bölgenin en önemli yapılarından biri olarak kabul ediliyor. Hamamın tarihi, Roma İmparatoru Hadrian dönemine kadar uzanıyor ve o dönemden kalan önemli bir eser olarak kabul ediliyor.
 
 ## Tarihçe
 

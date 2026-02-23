@@ -28,7 +28,7 @@ wikidata_id: "Q31386701"
 
 # Buzu Tepe
 
-Buzu Tepe, Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Buzu Tepe, ziyaretçilerine zengin bir história sunar ve Güneydoğu Anadolu Bölgesi'nin en önemli kültür merkezlerinden biridir. Bu tepe, aynı zamanda doğal güzellikleri ile ziyaretçilerini büyüler ve Diyarbakır'ın en önemli turizm merkezlerinden biridir.
+Buzu Tepe, Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği bir noktadır. Buzu Tepe, ziyaretçilerine zengin bir tarihi sunar ve Güneydoğu Anadolu Bölgesi'nin en önemli kültür merkezlerinden biridir. Bu tepe, aynı zamanda doğal güzellikleri ile ziyaretçilerini büyüler ve Diyarbakır'ın en önemli turizm merkezlerinden biridir.
 
 ## Tarihçe
 
@@ -44,12 +44,12 @@ Buzu Tepe, ziyaretçilerine zengin bir flora ve fauna sunar. Bu tepe, farklı me
 
 ## Ziyaret Bilgileri
 
-Buzu Tepe, ziyaretçilerine zengin bir história ve doğal güzellikler sunar. Bu tepe, yılın her mevsiminde ziyaret edilebilir ve ziyaretçilerine farklı güzellikler sunar. Buzu Tepe, Diyarbakır'ın en önemli turizm merkezlerinden biridir ve ziyaretçilerine geniş bir alan sunar. Bu tepe, aynı zamanda çeşitli etkinliklere ev sahipliği yapar ve ziyaretçilerini farklı deneyimlerle büyüler.
+Buzu Tepe, ziyaretçilerine zengin bir tarihi ve doğal güzellikler sunar. Bu tepe, yılın her mevsiminde ziyaret edilebilir ve ziyaretçilerine farklı güzellikler sunar. Buzu Tepe, Diyarbakır'ın en önemli turizm merkezlerinden biridir ve ziyaretçilerine geniş bir alan sunar. Bu tepe, aynı zamanda çeşitli etkinliklere ev sahipliği yapar ve ziyaretçilerini farklı deneyimlerle büyüler.
 
 ## İlginç Bilgiler
 
 - Buzu Tepe, Diyarbakır'ın en önemli kültür merkezlerinden biridir.
 - Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar.
-- Buzu Tepe, ziyaretçilerine zengin bir história sunar.
+- Buzu Tepe, ziyaretçilerine zengin bir tarihi sunar.
 - Bu tepe, doğal güzellikleri ile ziyaretçilerini büyüler.
 - Buzu Tepe, Diyarbakır'ın en önemli turizm merkezlerinden biridir.

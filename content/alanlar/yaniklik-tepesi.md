@@ -29,7 +29,7 @@ wikidata_id: "Q31389990"
 
 # Yanıklık Tepesi
 
-Yanıklık Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini gözler önüne seren bir doğal güzelliğimizdir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünebiliriz. Bu tepe, bölgeye gelen ziyaretçilerin ilgisini çekmekte ve doğayla iç içe bir gezi deneyimi sunmaktadır. Yanıklık Tepesi, bölgenin coğrafi özelliklerini ve doğal güzelliklerini keşfetmek isteyenler için önemli bir noktadır.
+Yanıklık Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini gözler önüne seren bir doğal güzelliğimizdir. Bu tepe, bölgeye gelen ziyaretçilerin ilgisini çekmekte ve doğayla iç içe bir gezi deneyimi sunmaktadır. Yanıklık Tepesi, bölgenin coğrafi özelliklerini ve doğal güzelliklerini keşfetmek isteyenler için önemli bir noktadır.
 
 ## Tarihçe
 

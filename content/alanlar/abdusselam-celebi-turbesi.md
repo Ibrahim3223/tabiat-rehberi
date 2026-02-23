@@ -1,7 +1,7 @@
 ---
 title: "Abdüsselam Çelebi Türbesi"
 date: "2026-01-10T05:16:07.079Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,15 +30,15 @@ wikidata_id: "Q131391683"
 
 # Abdüsselam Çelebi Türbesi
 
-Abdüsselam Çelebi Türbesi, İstanbul'un Küçükçekmece ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, 140 hektarlık bir alan kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Abdüsselam Çelebi Türbesi, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Burada, tarihi yapıları, yeşilliği ve Marmara Denizi'nin güzelliğini bir arada görebileceksiniz. Bu alan, hem tarihi hem de doğal güzelliklerin bir arada sunulduğu özel bir yer.
+Abdüsselam Çelebi Türbesi, İstanbul'un Küçükçekmece ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Abdüsselam Çelebi Türbesi, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Burada, tarihi yapıları, yeşilliği ve Marmara Denizi'nin güzelliğini bir arada görebileceksiniz. Bu alan, hem tarihi hem de doğal güzelliklerin bir arada sunulduğu özel bir yer.
 
 ## Tarihçe
 
-Abdüsselam Çelebi Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbe, yüzyıllar boyunca önemli bir dini merkez olarak görev yaptı. Abdüsselam Çelebi, dönemin önemli din alimlerinden biri olarak biliniyor. Türbenin tarihi, Osmanlı dönemine kadar uzanıyor. Burada, históriki yapılar ve önemli din adamlarının mezarları bulunuyor. Abdüsselam Çelebi Türbesi, ziyaretçilerine tarihini ve kültürel önemini anlatan bir yer. Ayrıca, türbe çevresinde bulunan tarihi yapılar, ziyaretçilere farklı bir deneyim sunuyor.
+Abdüsselam Çelebi Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbe, yüzyıllar boyunca önemli bir dini merkez olarak görev yaptı. Abdüsselam Çelebi, dönemin önemli din alimlerinden biri olarak biliniyor. Türbenin tarihi, Osmanlı dönemine kadar uzanıyor. Burada, tarihi yapılar ve önemli din adamlarının mezarları bulunuyor. Abdüsselam Çelebi Türbesi, ziyaretçilerine tarihini ve kültürel önemini anlatan bir yer. Ayrıca, türbe çevresinde bulunan tarihi yapılar, ziyaretçilere farklı bir deneyim sunuyor.
 
 ## Coğrafya
 
-Abdüsselam Çelebi Türbesi, İstanbul'un Küçükçekmece ilçesinde, Marmara Denizi kıyısında yer alıyor. Bu bölgenin coğrafyası, denize yakın konumu ve yeşilliği ile dikkat çekiyor. Burada, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Türbenin çevresi, yeşillik alanlar ve tarihi yapılar ile dolu. Marmara Denizi'nin güzelliği, bu bölgenin en önemli doğal güzelliklerinden biri. Abdüsselam Çelebi Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. Ayrıca, bu bölge, İstanbul'un merkezi bölgelerine yakınlığı ile de dikkat çekiyor.
+Abdüsselam Çelebi Türbesi, İstanbul'un Küçükçekmece ilçesinde, Marmara Denizi kıyısında yer alıyor. Bu bölgenin coğrafyası, denize yakın konumu ve yeşilliği ile dikkat çekiyor. Türbenin çevresi, yeşillik alanlar ve tarihi yapılar ile dolu. Marmara Denizi'nin güzelliği, bu bölgenin en önemli doğal güzelliklerinden biri. Abdüsselam Çelebi Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. Ayrıca, bu bölge, İstanbul'un merkezi bölgelerine yakınlığı ile de dikkat çekiyor.
 
 ## Flora ve Fauna
 

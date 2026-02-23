@@ -1,7 +1,7 @@
 ---
 title: "Çekirge Sultan Adak Hamamı"
 date: "2026-01-09T22:24:41.493Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738459"
 
 # Çekirge Sultan Adak Hamamı
 
-Bursa'nın Osmangazi ilçesinde yer alan Çekirge Sultan Adak Hamamı, Marmara Bölgesi'nin önemli tarihi ve turistik mekanlarından biridir. Bu mekan, zengin tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanında ziyaretçilerine geniş bir gezi alanını sunmaktadır. Çekirge Sultan Adak Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Bursa'nın Osmangazi ilçesinde yer alan Çekirge Sultan Adak Hamamı, Marmara Bölgesi'nin önemli tarihi ve turistik mekanlarından biridir. Bu mekan, zengin tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Çekirge Sultan Adak Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bursa'nın Osmangazi ilçesinde yer alan Çekirge Sultan Adak Hamamı, Marmara B
 
 ## Coğrafya
 
-Çekirge Sultan Adak Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor. Marmara Bölgesi'nin coğrafi özelliklerini taşıyan bu mekan, doğal güzellikleri ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanında ziyaretçilerine geniş bir gezi alanını sunmaktadır. Çekirge Sultan Adak Hamamı, Bursa'nın önemli coğrafi noktalarından biri olan Uludağ'ın eteklerinde yer alıyor. Bu coğrafi konum, mekanın doğal güzelliklerini daha da artırıyor. Çekirge Sultan Adak Hamamı, Marmara Bölgesi'nin coğrafi çeşitliliği ile ziyaretçilerini cezbediyor.
+Çekirge Sultan Adak Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor. Marmara Bölgesi'nin coğrafi özelliklerini taşıyan bu mekan, doğal güzellikleri ile dikkat çekiyor. Çekirge Sultan Adak Hamamı, Bursa'nın önemli coğrafi noktalarından biri olan Uludağ'ın eteklerinde yer alıyor. Bu coğrafi konum, mekanın doğal güzelliklerini daha da artırıyor. Çekirge Sultan Adak Hamamı, Marmara Bölgesi'nin coğrafi çeşitliliği ile ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Ebu İshak Türbesi"
 date: "2026-01-10T06:31:01.165Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390737"
 
 # Ebu İshak Türbesi
 
-Ebu İshak Türbesi, Konya'nın Karatay ilçesinde yer alan tarihi bir yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi ile dikkat çeken Ebu İshak Türbesi, ziyaretçilerini geçmişe götürmeyi başarıyor. Türbenin mimarisi, bölgenin mimari özelliklerini yansıtıyor ve ziyaretçilere farklı bir deneyim sunuyor.
+Ebu İshak Türbesi, Konya'nın Karatay ilçesinde yer alan tarihi bir yapıdır. Tarihi geçmişi ile dikkat çeken Ebu İshak Türbesi, ziyaretçilerini geçmişe götürmeyi başarıyor. Türbenin mimarisi, bölgenin mimari özelliklerini yansıtıyor ve ziyaretçilere farklı bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ebu İshak Türbesi, tarihi geçmişi ile önemli bir kültürel miras olarak ka
 
 ## Coğrafya
 
-Ebu İshak Türbesi, Konya'nın Karatay ilçesinde yer almaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve ziyaretçilere geniş bir rafik alan sunar. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir arazi üzerine kuruludur ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Coğrafi olarak, Ebu İshak Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklim özellikleri gösterir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu coğrafi özellikler, Ebu İshak Türbesi'nin çevresinde, ziyaretçilere doğa güzellikleri sunar.
+Ebu İshak Türbesi, Konya'nın Karatay ilçesinde yer almaktadır. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır ve ziyaretçilere geniş bir rafik alan sunar. Coğrafi olarak, Ebu İshak Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklim özellikleri gösterir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu coğrafi özellikler, Ebu İshak Türbesi'nin çevresinde, ziyaretçilere doğa güzellikleri sunar.
 
 ## Flora ve Fauna
 

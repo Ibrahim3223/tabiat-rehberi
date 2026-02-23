@@ -48,8 +48,8 @@ Mevsimsel açıdan, Hatabi Tepe'nin bulunduğu bölge Türkiye'nin genel iklim k
 
 ## Flora ve Fauna
 
-Hatabi Tepe, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle donanır ve bu dönemde bozkırın karakteristik türleri, kuraklığa adapte olmanın getirdiği özel özelliklerle dikkat çeker. 
-Yaban hayatı, dağların yükseklik zonlarına uyum sağlamış memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Bu canlılar, yaşam alanlarını dağ ekosisteminin farklı 높luklarına göre düzenler. 
+Hatabi Tepe, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbaharla birlikte, dağ yamaçları renkli çiçeklerle donanır ve bu dönemde bozkırın karakteristik türleri, kuraklığa adapte olmanın getirdiği özel özelliklerle dikkat çeker.
+Yaban hayatı, dağların yükseklik zonlarına uyum sağlamış memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Bu canlılar, yaşam alanlarını dağ ekosisteminin farklı 높luklarına göre düzenler.
 Ekolojik değerini koruma altına almak, bu dağ ekosisteminin sürekliliğini sağlamak için önemlidir. Hatabi Tepe, bölgenin doğal dengesini korumak için kritik bir role sahiptir ve bu nedenle koruma altına alınması ve doğal güzelliğinin gelecek nesiller için korunması gereklidir.
 
 ## Ziyaret Bilgileri

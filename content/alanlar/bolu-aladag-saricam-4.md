@@ -22,7 +22,7 @@ wikidata_id: "Q108227557"
 
 # Bolu-Aladag Saricam 4
 
-Bolu-Aladag Saricam 4, Karadeniz Bölgesi'nin Bolu ilinde yer alan ve 140 hektarlık bir alanı kapsayan bir milli parktır. Bu bölgenin doğal güzellikleri, ziyaretçilerini cezbeden önemli bir çekim noktasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu genişlik, ziyaretçilere doğanın güzelliğini keşfetmek için geniş bir alan sunar. Bolu-Aladag Saricam 4'ü ziyaret edenler, burada çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Milli park, aynı zamanda yaban hayatının korunması için önemli bir rol oynar.
+Bolu-Aladag Saricam 4, Karadeniz Bölgesi'nin Bolu ilinde yer alan ve 140 hektarlık bir alanı kapsayan bir milli parktır. Bu bölgenin doğal güzellikleri, ziyaretçilerini cezbeden önemli bir çekim noktasıdır. Bolu-Aladag Saricam 4'ü ziyaret edenler, burada çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Milli park, aynı zamanda yaban hayatının korunması için önemli bir rol oynar.
 
 ## Tarihçe
 

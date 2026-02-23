@@ -28,7 +28,7 @@ wikidata_id: "Q31389491"
 
 # İncirlipınar Tepe
 
-İncirlipınar Tepe, Kahramanmaraş ilinin merkezinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olan bir tepe. Bu tepe, khong 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde. İncirlipınar Tepe, bölgeye özgü bitki türleri ve zengin fauna ile dikkat çekmekte. Bu tepe, aynı zamanda bölgenin tarihi geçmişine de ışık tutmakta. İncirlipınar Tepe, ziyaretçilerini doğanın güzellikleriyle baş başa bırakacak bir doğal alan.
+İncirlipınar Tepe, Kahramanmaraş ilinin merkezinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olan bir tepe. İncirlipınar Tepe, bölgeye özgü bitki türleri ve zengin fauna ile dikkat çekmekte. Bu tepe, aynı zamanda bölgenin tarihi geçmişine de ışık tutmakta. İncirlipınar Tepe, ziyaretçilerini doğanın güzellikleriyle baş başa bırakacak bir doğal alan.
 
 ## Tarihçe
 

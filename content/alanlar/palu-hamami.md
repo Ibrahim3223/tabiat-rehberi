@@ -1,7 +1,7 @@
 ---
 title: "Palu Hamamı"
 date: "2026-01-09T22:47:29.790Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738523"
 
 # Palu Hamamı
 
-Palu Hamamı, Doğu Anadolu Bölgesi'nin Elazığ ilinin Palu ilçesinde bulunan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir yeşil alandır. Palu Hamamı, bölgeye özgü bitki türleri ve yaban hayatı ile dikkat çekmektedir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Palu Hamamı, doğa severlerin ziyaret edebileceği bir yer olarak bilinmektedir.
+Palu Hamamı, Doğu Anadolu Bölgesi'nin Elazığ ilinin Palu ilçesinde bulunan bir plajdır. Palu Hamamı, bölgeye özgü bitki türleri ve yaban hayatı ile dikkat çekmektedir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Palu Hamamı, doğa severlerin ziyaret edebileceği bir yer olarak bilinmektedir.
 
 ## Tarihçe
 

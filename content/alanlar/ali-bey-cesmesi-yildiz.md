@@ -1,7 +1,7 @@
 ---
 title: "Ali Bey Çeşmesi, Yıldız"
 date: "2026-01-10T04:34:34.043Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131836062"
 
 # Ali Bey Çeşmesi, Yıldız
 
-Ali Bey Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde bulunan bir tarihi çeşmedir. 140 hektarlık yeşil alanın içinde yer alan bu çeşme, yaklaşık 200 futbol sahası büyüklüğünde bir parkın içerisinde konumlanmıştır. Bu tarihi mekan, şehrin kalabalığından kaçmak isteyenler için bir sığınak niteliğindedir. Çeşme, tarihi geçmişi ve mimari güzelliği ile ziyaretçilerini cezbetmektedir. Ali Bey Çeşmesi, Yıldız, aynı zamanda şehrin önemli simgelerinden biridir.
+Ali Bey Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde bulunan bir tarihi çeşmedir. Bu tarihi mekan, şehrin kalabalığından kaçmak isteyenler için bir sığınak niteliğindedir. Çeşme, tarihi geçmişi ve mimari güzelliği ile ziyaretçilerini cezbetmektedir. Ali Bey Çeşmesi, Yıldız, aynı zamanda şehrin önemli simgelerinden biridir.
 
 ## Tarihçe
 

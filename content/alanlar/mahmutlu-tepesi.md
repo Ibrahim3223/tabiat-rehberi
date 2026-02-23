@@ -28,7 +28,7 @@ wikidata_id: "Q31390570"
 
 # Mahmutlu Tepesi
 
-Mahmutlu Tepesi, Aksaray'ın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Mahmutlu Tepesi, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Bu bölge, hem doğa severler hem de tarihi geçmişi merak edenler için ideal bir gezi noktası.
+Mahmutlu Tepesi, Aksaray'ın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alan olarak dikkat çekiyor. Mahmutlu Tepesi, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Bu bölge, hem doğa severler hem de tarihi geçmişi merak edenler için ideal bir gezi noktası.
 
 ## Tarihçe
 

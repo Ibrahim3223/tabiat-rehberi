@@ -44,7 +44,7 @@ Jeolojik açıdan incelendiğinde, Kormaç Dağı'nın fiziksel yapısı hakkın
 
 Mevsimsel olarak, Kormaç Dağı ve çevresinin iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklim koşullarını yansıtmaktadır. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakimdir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır.
 
-Bölgenin hidroloji ve ekosistem açısından incelenmesi, Kormaç Dağı'nın çevresindeki su kaynakları ve diğer coğrafi unsurlarla olan bağlantısını ortaya koymaktadır. Dağın eteklerinde ve yakın çevresinde yer alan akarsular ve göller, bölgenin su döngüsünü düzenlemektedir. Ayrıca, Kormaç Dağı'nın komşu alanlar ile olan ilişkisi, bölgenin ekolojik dengesini korumak açısından önemlidir.
+Bölgenin hidroloji ve ekosistem açısından incelenmesi, Kormaç Dağı'nın çevresindeki su kaynakları ve diğer coğrafi unsurlarla olan bağlantısını ortaya koymaktadır. Dağın eteklerinde ve yakın çevresinde yer alan akarsular ve göller, bölgenin su döngüsünü düzenlemektedir.
 
 ## Flora ve Fauna
 

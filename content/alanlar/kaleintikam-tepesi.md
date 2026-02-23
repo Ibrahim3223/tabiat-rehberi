@@ -28,7 +28,7 @@ wikidata_id: "Q31389774"
 
 # Kaleintikam Tepesi
 
-Kaleintikam Tepesi, Bilecik'in merkezinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Doğal güzelliği ve tarihi önemini birleştiren bu tepe, ziyaretçilerini geçmişe götürerek aynı zamanda doğanın sunduğu şahane manzaralara tanıklık etme fırsatı sunuyor. Kaleintikam Tepesi, hem tarih meraklıları hem de doğa severler için gerçek bir hazine.
+Kaleintikam Tepesi, Bilecik'in merkezinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir nokta. Doğal güzelliği ve tarihi önemini birleştiren bu tepe, ziyaretçilerini geçmişe götürerek aynı zamanda doğanın sunduğu şahane manzaralara tanıklık etme fırsatı sunuyor. Kaleintikam Tepesi, hem tarih meraklıları hem de doğa severler için gerçek bir hazine.
 
 ## Tarihçe
 

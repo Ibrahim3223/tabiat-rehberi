@@ -28,7 +28,7 @@ wikidata_id: "Q31391257"
 
 # Tiktaş Tepesi
 
-Tiktaş Tepesi, İç Anadolu Bölgesi'nin güzide bir noktasında yer alır ve yaklaşık 140 hektarlık alanı ile büyük bir yeşil alana sahiptir. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede zengin bir fauna vardır. Tiktaş Tepesi, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon olarak dikkat çeker.
+Tiktaş Tepesi, İç Anadolu Bölgesi'nin güzide bir noktasında yer alır ve yaklaşık 140 hektarlık alanı ile büyük bir yeşil alana sahiptir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede zengin bir fauna vardır. Tiktaş Tepesi, hem doğa severler hem de coğrafya meraklıları için önemli bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 

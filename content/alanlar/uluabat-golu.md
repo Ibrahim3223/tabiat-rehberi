@@ -51,11 +51,11 @@ Uluabat Gölü'nün bulunduğu coğrafya, sadece göle özgü bir ekosistem değ
 
 ## Flora ve Fauna
 
-Uluabat Gölü, Bursa'nın gizli bir incisi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, gölün etrafındaki karma ormanlar çiçek açarken, sonbaharda göçmen kuşlar gelip geçer. 
+Uluabat Gölü, Bursa'nın gizli bir incisi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, gölün etrafındaki karma ormanlar çiçek açarken, sonbaharda göçmen kuşlar gelip geçer.
 
-Gölün bitki örtüsünü sulak alan bitkileri ve sazlıklar oluşturur. Bu bitkiler, su kuşları için önemli bir yaşam alanı sağlar. Gölde yaşayan balıklar, bu bitkilerle beslenir ve gölün ekosistemini destekler. 
+Gölün bitki örtüsünü sulak alan bitkileri ve sazlıklar oluşturur. Bu bitkiler, su kuşları için önemli bir yaşam alanı sağlar. Gölde yaşayan balıklar, bu bitkilerle beslenir ve gölün ekosistemini destekler.
 
-Yaban hayatı ise çok çeşitli. Su kuşları, balıklar ve sürüngenler gölün ekosistemini oluşturur. Göl, göçmen kuşlar için önemli bir durak noktasıdır. Kuşlar, gölde bulunan balıklar ve diğer canlılarla beslenir, böylece gölün ekosisteminin dengesini korurlar. 
+Yaban hayatı ise çok çeşitli. Su kuşları, balıklar ve sürüngenler gölün ekosistemini oluşturur. Göl, göçmen kuşlar için önemli bir durak noktasıdır. Kuşlar, gölde bulunan balıklar ve diğer canlılarla beslenir, böylece gölün ekosisteminin dengesini korurlar.
 
 Uluabat Gölü, ekolojik açıdan çok değerli. Göçmen kuşlar için önemli bir durak noktası olan göl, aynı zamanda su kuşları ve balıklar için de önemli bir yaşam alanı sağlar. Gölün koruma durumu, gelecekteki nesiller için çok önemlidir.
 

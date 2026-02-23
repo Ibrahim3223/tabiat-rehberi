@@ -22,7 +22,7 @@ wikidata_id: "Q108228564"
 
 # Eskisehir-Mihaliccik-Catacik-Saricam
 
-Eskisehir-Mihaliccik-Catacik-Saricam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve doğal güzellikleri ile ön plana çıkan bir destinasyondur. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cenneti andırır. Milli parkın etrafı, zengin fauna ve flora çeşitliliği ile dolu olan ormanlarla çevrilidir. Bu milli park, ziyaretçilerine doğanın güzelliğini keşfetme ve doğal yaşamın içinde bulunma fırsatı sunar. İnsanlık dışı bir güzelliğe sahip olan bu milli park, ziyaretçilerini doğanın kucakladığı bir atmosferde ağırlar.
+Eskisehir-Mihaliccik-Catacik-Saricam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve doğal güzellikleri ile ön plana çıkan bir destinasyondur. Milli parkın etrafı, zengin fauna ve flora çeşitliliği ile dolu olan ormanlarla çevrilidir. Bu milli park, ziyaretçilerine doğanın güzelliğini keşfetme ve doğal yaşamın içinde bulunma fırsatı sunar. İnsanlık dışı bir güzelliğe sahip olan bu milli park, ziyaretçilerini doğanın kucakladığı bir atmosferde ağırlar.
 
 ## Tarihçe
 

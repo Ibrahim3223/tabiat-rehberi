@@ -28,7 +28,7 @@ wikidata_id: "Q34819436"
 
 # Çığrı Dağı
 
-Çanakkale'nin histórik zenginliklerinin yanı sıra doğal güzellikleriyle de ön plana çıkan bir bölge olduğunu söyleme mümkün. Çığrı Dağı, bu bölgenin önemli noktalarından biri olarak karşımıza çıkıyor. Çanakkale'nin coğrafi çeşitliliğiçinde yer alan bu dağ, ziyaretçilere bölgenin tarihini ve doğal güzelliğini keşfetme fırsatı sunuyor. Tarihi ve doğal güzellikleri bir arada sunan Çığrı Dağı, Çanakkale'nin turizm potansiyelini güçlendiren önemli bir nokta olarak dikkat çekiyor.
+Çanakkale'nin tarihi zenginliklerinin yanı sıra doğal güzellikleriyle de ön plana çıkan bir bölge olduğunu söyleme mümkün. Çığrı Dağı, bu bölgenin önemli noktalarından biri olarak karşımıza çıkıyor. Çanakkale'nin coğrafi çeşitliliğiçinde yer alan bu dağ, ziyaretçilere bölgenin tarihini ve doğal güzelliğini keşfetme fırsatı sunuyor. Tarihi ve doğal güzellikleri bir arada sunan Çığrı Dağı, Çanakkale'nin turizm potansiyelini güçlendiren önemli bir nokta olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -52,7 +52,7 @@ Mevsimsel özellikler açısından bakıldığında, Çığrı Dağı'nın iklim
 
 Çığrı Dağı, Çanakkale'nin güzide bir köşesinde yer alıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Geçiş ikliminin ve karma ormanların etkisiyle, dağ ekosistemi yükseklik zonlarına göre değişen bir floraya ev sahipliği yapıyor.
 
-İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin flora, yükseklik arttıkça değişen bir güzelliğe bürünüyor. Sonbaharda ise, göçmen kuşlar dağ üzerinden geçiş yapıyor ve bu bölge, önemli bir göçmen kuş rotası olarak dikkat çekiyor. 
+İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin flora, yükseklik arttıkça değişen bir güzelliğe bürünüyor. Sonbaharda ise, göçmen kuşlar dağ üzerinden geçiş yapıyor ve bu bölge, önemli bir göçmen kuş rotası olarak dikkat çekiyor.
 
 Dağ hayvanları, bu ekosistemin ayrılmaz bir parçasını oluşturuyor. Memeliler ve sürüngenler, dağlık arazide yaşamını sürdürürken, kuşlar ise dağların yüksekliklerine kadar yayılıyor. Bu canlılar, dağ ekosisteminin dengesini koruyor ve birbirleriyle ekolojik olarak bağlantılı bir yaşam sürüyor.
 

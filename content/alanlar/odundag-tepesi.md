@@ -28,7 +28,7 @@ wikidata_id: "Q31558450"
 
 # Odundağ Tepesi
 
-Odundağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, şehrin kalabalığından kaçmak isteyenler için ideal bir kaçış noktasıdır. Odundağ Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Bu tepe, Ankara'nın doğal güzelliklerinin önemli bir parçasıdır ve ziyaretçiler tarafından sıkça tercih edilir. Odundağ Tepesi'nin etrafı, yeşilin farklı tonlarıyla bezelidir ve bu bölgede yapılabilecek birçok aktivite bulunur.
+Odundağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Odundağ Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Bu tepe, Ankara'nın doğal güzelliklerinin önemli bir parçasıdır ve ziyaretçiler tarafından sıkça tercih edilir. Odundağ Tepesi'nin etrafı, yeşilin farklı tonlarıyla bezelidir ve bu bölgede yapılabilecek birçok aktivite bulunur.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Odundağ Tepesi'ni ziyaret etmek, Ankara'nın doğal güzelliklerini keşfetmek 
 ## İlginç Bilgiler
 
 - Odundağ Tepesi, Ankara'nın doğal güzelliklerinden biridir.
-- Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Odundağ Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.
 - Bu bölge, Ankara'nın coğrafyasını ve doğal güzelliklerini bir araya getiren özel bir yerdir.
 - Odundağ Tepesi, Ankara'nın tarihini ve kültürünü öğrenmek isteyenler için önemli bir noktadır.

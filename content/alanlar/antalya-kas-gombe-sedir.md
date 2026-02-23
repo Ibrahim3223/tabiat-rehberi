@@ -22,11 +22,11 @@ wikidata_id: "Q108227598"
 
 # Antalya-Kas-Gombe Sedir
 
-Antalya-Kas-Gombe Sedir, Akdeniz Bölgesi'nin en güzel doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli turizm merkezlerinden biridir. Sedir Adası, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini cezbediyor. Ada, yeşilin ve mavinin bir arada olduğu muhteşem manzaralara ev sahipliği yapıyor. Deniz, kum ve güneşin bir araya geldiği bu cennet, ziyaretçilerine unutulmaz anlar vaadediyor.
+Antalya-Kas-Gombe Sedir, Akdeniz Bölgesi'nin en güzel doğal alanlarından biridir. Sedir Adası, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini cezbediyor. Ada, yeşilin ve mavinin bir arada olduğu muhteşem manzaralara ev sahipliği yapıyor.
 
 ## Tarihçe
 
-Antalya-Kas-Gombe Sedir'in tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tarihi boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara kendi kültürlerini bırakmışlardır. Sedir Adası, antik dönemlerde önemli bir merkez olarak bilinirdi. Ada, tarih boyunca çeşitli uygarlıkların hakimiyeti altında kalmıştır. Bu nedenle, adada birçok tarihi eser ve kalıntı bulunmakta ve ziyaretçilere bu toprakların zengin geçmişini keşfetme fırsatı sunmaktadır. Tarihçiler, bu bölgenin tarihi önemini vurgulayan çeşitli araştırmalar yapmış ve bu araştırmalar neticesinde, Sedir Adası'nın gerçek bir tarih hazinesi olduğu ortaya çıkmıştır.
+Antalya-Kas-Gombe Sedir'in tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tarihi boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara kendi kültürlerini bırakmışlardır. Sedir Adası, antik dönemlerde önemli bir merkez olarak bilinirdi. Ada, tarih boyunca çeşitli uygarlıkların hakimiyeti altında kalmıştır. Tarihçiler, bu bölgenin tarihi önemini vurgulayan çeşitli araştırmalar yapmış ve bu araştırmalar neticesinde, Sedir Adası'nın gerçek bir tarih hazinesi olduğu ortaya çıkmıştır.
 
 ## Coğrafya
 
@@ -34,7 +34,7 @@ Antalya-Kas-Gombe Sedir, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Bu b�
 
 ## Flora ve Fauna
 
-Antalya-Kas-Gombe Sedir, flora ve fauna açısından oldukça zengin bir bölge. Ada, çeşitli bitki türleri ile kaplı ve bu bitki türleri, ada'nın doğal güzelliğine katkıda bulunarak, ziyaretçilere gerçek bir doğa harikası sunuyor. Sedir Adası, aynı zamanda zengin fauna ile de dikkat çekiyor. Ada'da, çeşitli kuş türleri, sürüngenler ve memeliler yaşamaktadır. Bu canlılar, ada'nın doğal dengesini korumak için önemli bir rol oynuyor. Mevsimsel değişimler, ada'da yaşayan canlıların yaşamını etkiliyor. Kış aylarında, bazı canlılar ada'yı terk ederek daha sıcak bölgelere göç ederken, yaz aylarında ise ada'ya gelen canlılar, ada'nın doğal güzelliğine renk katıyor.
+ Ada, çeşitli bitki türleri ile kaplı ve bu bitki türleri, ada'nın doğal güzelliğine katkıda bulunarak, ziyaretçilere gerçek bir doğa harikası sunuyor. Sedir Adası, aynı zamanda zengin fauna ile de dikkat çekiyor. Ada'da, çeşitli kuş türleri, sürüngenler ve memeliler yaşamaktadır. Bu canlılar, ada'nın doğal dengesini korumak için önemli bir rol oynuyor. Mevsimsel değişimler, ada'da yaşayan canlıların yaşamını etkiliyor. Kış aylarında, bazı canlılar ada'yı terk ederek daha sıcak bölgelere göç ederken, yaz aylarında ise ada'ya gelen canlılar, ada'nın doğal güzelliğine renk katıyor.
 
 ## Ziyaret Bilgileri
 

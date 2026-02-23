@@ -53,7 +53,7 @@ Mevsimsel açıdan bakıldığında, Kizlar Dağı'nın iklim karakteri, bölgen
 
 Kızlar Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle örtülür ve bozkırın karakteristik otları yeşerir. Sonbaharda ise, kuraklığa adapte olan bitkilerDominant otlar ve çalılar, dağın flora zenginliğini sergiler.
 
-Dağın yükseklik zonlarında, alpin flora çeşitliliği gözlemlenir. Bu yüksekliklerde, dağ keçileri ve yaban keçileri yaşam alanlarını bulur. Kuşlar, özellikle sonbahar aylarında, göç ettikleri sırada dağların üzerinde görülür. Sürüngenler, dağların kayalık alanlarında yaşamlarını sürdürür. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak açısından önemlidir.
+Dağın yükseklik zonlarında, alpin flora çeşitliliği gözlemlenir. Bu yüksekliklerde, dağ keçileri ve yaban keçileri yaşam alanlarını bulur. Kuşlar, özellikle sonbahar aylarında, göç ettikleri sırada dağların üzerinde görülür. Sürüngenler, dağların kayalık alanlarında yaşamlarını sürdürür.
 
 ## Ziyaret Bilgileri
 

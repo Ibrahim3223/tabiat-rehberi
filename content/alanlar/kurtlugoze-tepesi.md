@@ -28,7 +28,7 @@ wikidata_id: "Q32206173"
 
 # Kurtlugöze Tepesi
 
-Kurtlugöze Tepesi, Doğu Anadolu Bölgesi'nin önemli tepe noktalarından biri olarak Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Bu tepe, bölgede yaşayan halkın günlük hayatının bir parçası olmakla birlikte, aynı zamanda birçok turistin de ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir doğal alan.
+Kurtlugöze Tepesi, Doğu Anadolu Bölgesi'nin önemli tepe noktalarından biri olarak Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, bölgede yaşayan halkın günlük hayatının bir parçası olmakla birlikte, aynı zamanda birçok turistin de ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir doğal alan.
 
 ## Tarihçe
 

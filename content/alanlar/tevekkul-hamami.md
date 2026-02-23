@@ -1,7 +1,7 @@
 ---
 title: "Tevekkül Hamamı"
 date: "2026-01-09T23:24:16.084Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738970"
 
 # Tevekkül Hamamı
 
-Tevekkül Hamamı, İstanbul'un tarihi plajlarından biri olarak bilinir. Bu plaj, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Tevekkül Hamamı, İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenler için bir kaçış noktası olarak görülür. Burada, deniz ve güneşin keyfini çıkarabilir, aynı zamanda tarihi bir atmosferi deneyimleyebilirsiniz.
+Tevekkül Hamamı, İstanbul'un tarihi plajlarından biri olarak bilinir. Bu plaj, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. Tevekkül Hamamı, İstanbul'un kalabalık ve gürültülü ortamından uzaklaşmak isteyenler için bir kaçış noktası olarak görülür. Burada, deniz ve güneşin keyfini çıkarabilir, aynı zamanda tarihi bir atmosferi deneyimleyebilirsiniz.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Tevekkül Hamamı, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde b
 
 ## Flora ve Fauna
 
-Tevekkül Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Burada, mevsimsel değişimlere göre farklı bitki türleri yetişir. İlkbahar ve yaz aylarında, plajın etrafındaki yeşil alanlar, çeşitli çiçekler ve ağaçlarla kaplanır. Kış aylarında ise, bazı bitki türleri soğukğa karşı dayanıklıdır ve yeşilliklerini korurlar. Tevekkül Hamamı'nın fauna açısından da zengin bir çeşitlilik vardır. Burada, verschilli kuş türleri, sürüngenler ve memeliler yaşamaktadır. Bu çeşitlilik, Tevekkül Hamamı'nı sadece bir plaj olarak değil, aynı zamanda bir doğa koruma alanı olarak da görür.
+ Burada, mevsimsel değişimlere göre farklı bitki türleri yetişir. İlkbahar ve yaz aylarında, plajın etrafındaki yeşil alanlar, çeşitli çiçekler ve ağaçlarla kaplanır. Kış aylarında ise, bazı bitki türleri soğukğa karşı dayanıklıdır ve yeşilliklerini korurlar. Tevekkül Hamamı'nın fauna açısından da zengin bir çeşitlilik vardır. Burada, verschilli kuş türleri, sürüngenler ve memeliler yaşamaktadır. Bu çeşitlilik, Tevekkül Hamamı'nı sadece bir plaj olarak değil, aynı zamanda bir doğa koruma alanı olarak da görür.
 
 ## Ziyaret Bilgileri
 

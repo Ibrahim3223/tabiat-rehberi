@@ -1,7 +1,7 @@
 ---
 title: "Kervansaray Dağı"
 date: "2026-01-09T01:58:54.589Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Kırşehir"
@@ -33,7 +33,7 @@ Kırşehir'in tarihi ve doğal güzellikleriyle ünlü coğrafyasında yer alan 
 
 ## Tarihçe
 
-Kırşehir bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu bölge, tarih boyunca önemli ticaret yollarının kesişme noktası olmuştur. Kervansaray Dağı, bu tarihsel coğrafyanın bir parçası olarak, insanlarla doğal alanlar arasındaki bağlantının önemli bir göstergesidir.
+Kırşehir bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu bölge, tarih boyunca önemli ticaret yollarının kesişme noktası olmuştur. Kervansaray Dağı, bu tarihsel coğrafyanın bir parçası olarak, insanlarla doğal alanlar arasındaki bağlantının önemli bir göstergesidir.
 
 Türkiye'de, özellikle İç Anadolu Bölgesi'nde yer alan doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için önemli kaynaklar olmuştur. Bu alanlar, yaylacılık ve hayvancılık faaliyetleri için elverişli koşullar sunmuş, aynı zamanda ticaret yolları boyunca seyahat edenlerin konaklama noktaları olarak hizmet vermiştir. Kervansaray Dağı'nın eteklerinde yer alan köyler ve kasabalar, bu tarihsel bağlam içinde, bölgenin kültürel ve ekonomik yaşamına katkıda bulunmuşlardır.
 
@@ -66,6 +66,6 @@ Kırşehir'de bulunan Kervansaray Dağı, doğa severler için bir cennet. Sabah
 - Kırşehir ilinin merkezine yaklaşık 30 kilometre uzaklıkta bulunan Kervansaray Dağı, ilin önemli coğrafi özelliklerinden biridir.
 - Dağın zirvesi 1272 metre yükseklikte olup, çevresindeki diğer dağlardan daha düşük bir yüksekliğe sahiptir.
 - Kervansaray Dağı, özellikle trekking ve doğa yürüyüşü için elverişli bir alandır.
-- Bu bölge, histórik Kervansaray Hanı gibi önemli tarihi yapılara ev sahipliği yapmaktadır.
+- Bu bölge, tarihi Kervansaray Hanı gibi önemli tarihi yapılara ev sahipliği yapmaktadır.
 - Dağın eteklerinde, tarım ve hayvancılık faaliyetleri yürütülmektedir ve yerel ekonomiye katkıda bulunur.
 - Kervansaray Dağı, çevresindeki diğer dağlık alanlarla birlikte, bölgenin ekolojik dengesini korur ve biyolojik çeşitliliğini destekler.

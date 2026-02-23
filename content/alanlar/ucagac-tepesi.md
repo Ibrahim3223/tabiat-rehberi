@@ -28,7 +28,7 @@ wikidata_id: "Q34816708"
 
 # Uçağaç Tepesi
 
-Uçağaç Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve bölgenin gizli cennetlerinden biri olarak bilinen bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezi bölgesine oldukça yakın. Bu tepenin en dikkat çekici yönü, doğal güzelliğinin yanı sıra, tarihi geçmişiyle de ziyaretçilerini etkilemesi. Uçağaç Tepesi, bölgenin coğrafi yapısını anlama ve şehrin tarihi hakkında bilgi edinmek için ideal bir nokta.
+Uçağaç Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve bölgenin gizli cennetlerinden biri olarak bilinen bir tepe. Bu tepenin en dikkat çekici yönü, doğal güzelliğinin yanı sıra, tarihi geçmişiyle de ziyaretçilerini etkilemesi. Uçağaç Tepesi, bölgenin coğrafi yapısını anlama ve şehrin tarihi hakkında bilgi edinmek için ideal bir nokta.
 
 ## Tarihçe
 

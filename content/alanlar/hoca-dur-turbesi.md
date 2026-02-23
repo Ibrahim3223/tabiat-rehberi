@@ -1,7 +1,7 @@
 ---
 title: "Hoca Dur Türbesi"
 date: "2026-01-10T07:00:41.922Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilis"
@@ -29,11 +29,11 @@ wikidata_id: "Q131390876"
 
 # Hoca Dur Türbesi
 
-Hoca Dur Türbesi, Kilis'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Hoca Dur Türbesi, hem tarihi önemini hem de doğal güzelliğini koruyor ve ziyaretçilerine benzersiz bir deneyim sunuyor. Burada, tarihin sâu izlerini görme ve doğanın güzelliğini yaşama mümkün.
+Hoca Dur Türbesi, Kilis'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Hoca Dur Türbesi, hem tarihi önemini hem de doğal güzelliğini koruyor ve ziyaretçilerine benzersiz bir deneyim sunuyor. Burada, tarihin derin izlerini görme ve doğanın güzelliğini yaşama mümkün.
 
 ## Tarihçe
 
-Hoca Dur Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu alan, yüzyıllar boyunca önemli bir merkez olarak kabul edilmiş ve çeşitli uygarlıkların izlerini taşımıştır. Tarihi belgelerde yer alan bilgiler, Hoca Dur Türbesi'nin geçmişinin zengin ve çeşitli olduğunu gösteriyor. Ancak, belirli bir kuruluş tarihi veya detaylı bir tarihçe bulunmuyor. Buna rağmen, ziyaretçiler buraya gelerek tarihin sâu izlerini keşfedebilir ve geçmişin gizemini hissedebilir. Hoca Dur Türbesi, ziyaretçilerine tarihin sayfalarını açmak için bir fırsat sunuyor.
+Hoca Dur Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu alan, yüzyıllar boyunca önemli bir merkez olarak kabul edilmiş ve çeşitli uygarlıkların izlerini taşımıştır. Tarihi belgelerde yer alan bilgiler, Hoca Dur Türbesi'nin geçmişinin zengin ve çeşitli olduğunu gösteriyor. Ancak, belirli bir kuruluş tarihi veya detaylı bir tarihçe bulunmuyor. Buna rağmen, ziyaretçiler buraya gelerek tarihin derin izlerini keşfedebilir ve geçmişin gizemini hissedebilir. Hoca Dur Türbesi, ziyaretçilerine tarihin sayfalarını açmak için bir fırsat sunuyor.
 
 ## Coğrafya
 
@@ -45,7 +45,7 @@ Hoca Dur Türbesi, flora ve fauna açısından zengin bir alana sahip. Burada, �
 
 ## Ziyaret Bilgileri
 
-Hoca Dur Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri deneyimlemek için harika bir fırsat. Ziyaretçiler, buraya gelerek tarihin sâu izlerini görebilir, doğal güzelliği yaşayabilir ve huzur dolu anlar geçirebilir. Türbeye ulaşım, Kilis'in merkezi noktalardan dlıkla sağlanabiliyor. Ziyaretçilerin, buraya gelmeden önce, ziyaret saatleri ve diğer detaylı bilgiler hakkında bilgi almaları öneriliyor.
+Hoca Dur Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri deneyimlemek için harika bir fırsat. Ziyaretçiler, buraya gelerek tarihin derin izlerini görebilir, doğal güzelliği yaşayabilir ve huzur dolu anlar geçirebilir. Türbeye ulaşım, Kilis'in merkezi noktalardan dlıkla sağlanabiliyor. Ziyaretçilerin, buraya gelmeden önce, ziyaret saatleri ve diğer detaylı bilgiler hakkında bilgi almaları öneriliyor.
 
 ## İlginç Bilgiler
 

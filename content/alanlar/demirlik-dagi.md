@@ -38,7 +38,7 @@ Doğal alanlar gibi Demirlik Dağı, Türkiye'nin tarihsel ve kültürel dokusun
 
 ## Coğrafya
 
-Kütahya'nın dağlık coğrafyasında yer alan Demirlik Dağı, 39.1858°K ve 30.1092°D koordinatlarında bulunmaktadır. Bu konumuyla, régionun merkezi olan Kütahya kent merkezine yakındır. Etrafındaki diğer dağlar ve ovalarla birlikte, bir bütün olarak düşünüldüğünde, bu bölge Taksim Meydanı'nın yaklaşık 100 katı büyüklüğünde bir alanı kaplar.
+Kütahya'nın dağlık coğrafyasında yer alan Demirlik Dağı, 39.1858°K ve 30.1092°D koordinatlarında bulunmaktadır. Bu konumuyla, bölgenin merkezi olan Kütahya kent merkezine yakındır. Etrafındaki diğer dağlar ve ovalarla birlikte, bir bütün olarak düşünüldüğünde, bu bölge Taksim Meydanı'nın yaklaşık 100 katı büyüklüğünde bir alanı kaplar.
 
 Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Demirlik Dağı, bölgenin diğer dağları gibi genellikle kalker ve şist gibi kayaçlardan oluşmaktadır. Dağın boyutları hakkında kesin bir veri olmasa da, bu tür dağların genellikle birkaç olimpik yüzme havuzu büyüklüğünde bir alanı kapladığı düşünülebilir. Bu büyüklükte bir alan, hem yerel fauna hem de flora için önemli bir yaşam alanı sunar.
 

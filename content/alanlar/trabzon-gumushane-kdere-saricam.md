@@ -22,7 +22,7 @@ wikidata_id: "Q108227581"
 
 # Trabzon-Gumushane-K.dere Saricam
 
-Trabzon-Gumushane-K.dere Saricam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak ziyaretçiler tarafından tercih ediliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Milli parkta, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Doğal güzelliği, temiz havası ve sakin atmosferi ile ziyaretçilere unutulmaz bir deneyim sunuyor.
+Trabzon-Gumushane-K.dere Saricam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak ziyaretçiler tarafından tercih ediliyor. Milli parkta, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Doğal güzelliği, temiz havası ve sakin atmosferi ile ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Trabzon-Gumushane-K.dere Saricam milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Trabzon-Gumushane-K.dere Saricam milli parkı, Karadeniz Bölgesi'nin en güzel coğrafi bölgelerinden biri olarak dikkat çekiyor. Milli park, 140 hektarlık bir alana yayılıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, dağlar ve ormanlarla çevrili ve ziyaretçilere doğanın güzelliğini gösteren bir manzara sunuyor. İklim, Karadeniz Bölgesi'nin caratteristik iklimine uygun olarak değişken ve yağışlı. Bölge, mevsimsel değişimlere göre farklı güzellikler sunuyor. Kışın karla kaplı dağlar, ilkbaharda yeşeren ormanlar, yazın serin ve ferah hava, sonbaharda renkli yapraklar ile ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor.
+Trabzon-Gumushane-K.dere Saricam milli parkı, Karadeniz Bölgesi'nin en güzel coğrafi bölgelerinden biri olarak dikkat çekiyor. Bölge, dağlar ve ormanlarla çevrili ve ziyaretçilere doğanın güzelliğini gösteren bir manzara sunuyor. İklim, Karadeniz Bölgesi'nin caratteristik iklimine uygun olarak değişken ve yağışlı. Bölge, mevsimsel değişimlere göre farklı güzellikler sunuyor. Kışın karla kaplı dağlar, ilkbaharda yeşeren ormanlar, yazın serin ve ferah hava, sonbaharda renkli yapraklar ile ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 

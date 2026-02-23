@@ -1,7 +1,7 @@
 ---
 title: "Hacı Evhattin Hamamı"
 date: "2026-01-09T22:58:26.911Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738600"
 
 # Hacı Evhattin Hamamı
 
-Hacı Evhattin Hamamı, İstanbul'un tarihi plajlarından biri olarak bilinir. Fatih ilçesinde, Marmara Bölgesi'nde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alanı kapsar. Bu plaj, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Temiz denizi ve keyifli atmosferi ile ziyaretçilerini ağırlar. Hacı Evhattin Hamamı, hem yerli hem de yabancı turistler tarafından tercih edilen bir destinasyondur.
+Hacı Evhattin Hamamı, İstanbul'un tarihi plajlarından biri olarak bilinir. Fatih ilçesinde, Marmara Bölgesi'nde yer alır. Bu plaj, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Temiz denizi ve keyifli atmosferi ile ziyaretçilerini ağırlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hacı Evhattin Hamamı'nın tarihi geçmişi, İstanbul'un zengin kültür miras
 
 ## Coğrafya
 
-Hacı Evhattin Hamamı, Marmara Bölgesi'nde, Fatih ilçesinde bulunmaktadır. Bu plaj, İstanbul'un merkezinde yer alır ve şehrin önemli noktalarına yakındır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alanı kapsar. Plajın coğrafi konumu, ziyaretçilerine hem deniz hem de şehir manzarasını sunar. Deniz suyu, temiz ve berra olup, su sporları için idealdir. Çevre, çeşitli bitki türleri ile zengin bir flora sunar. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır; ılıman ve yağışlı bir yapıya sahiptir. Bu coğrafi özellikler, Hacı Evhattin Hamamı'nı özel bir gezi noktası haline getirir.
+Hacı Evhattin Hamamı, Marmara Bölgesi'nde, Fatih ilçesinde bulunmaktadır. Bu plaj, İstanbul'un merkezinde yer alır ve şehrin önemli noktalarına yakındır. Plajın coğrafi konumu, ziyaretçilerine hem deniz hem de şehir manzarasını sunar. Deniz suyu, temiz ve berra olup, su sporları için idealdir. Çevre, çeşitli bitki türleri ile zengin bir flora sunar. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır; ılıman ve yağışlı bir yapıya sahiptir. Bu coğrafi özellikler, Hacı Evhattin Hamamı'nı özel bir gezi noktası haline getirir.
 
 ## Flora ve Fauna
 

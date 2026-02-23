@@ -22,7 +22,7 @@ wikidata_id: "Q108228646"
 
 # BOLU ŞEHİR ORMANI
 
-Bolu Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir yeşil alandır. Bu muhteşem doğa alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennettir. Şehir Ormanı, Bolu'nun merkezine çok yakın bir konumda yer almaktadır. Orman, doğa severler için bir cennet gibidir. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. Bolu Şehir Ormanı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu doğa harikası, ziyaretçilere hem dinlenme hem de fiziksel aktivite imkanı sunmaktadır.
+Bolu Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir yeşil alandır. Şehir Ormanı, Bolu'nun merkezine çok yakın bir konumda yer almaktadır. Orman, doğa severler için bir cennet gibidir. Burada, çeşitli bitki türleri ve zengin fauna bulunmakta, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. Bolu Şehir Ormanı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu doğa harikası, ziyaretçilere hem dinlenme hem de fiziksel aktivite imkanı sunmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu Şehir Ormanı'nın tarihi geçmişi, yüzyıllar boyunca insan yerleşimin
 
 ## Coğrafya
 
-Bolu Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun bir şekilde, dağlık ve engebeli bir arazide yer almaktadır. Orman, 140 hektarlık bir alanı kapsamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır. Şehir Ormanı, Bolu'nun merkezine çok yakın bir konumda yer aldığı için, ulaşım oldukça kolaydır. Orman, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. Bolu Şehir Ormanı, coğrafi olarak dağlık ve ormanlık bir bölgede yer almakta ve bu özelliğiyle ziyaretçilere benzersiz bir deneyim sunmaktadır. Orman, yaz aylarında serin ve ferah bir atmosfer sunarken, kış aylarında karla kaplı bir kış cenneti haline gelmektedir. Bolu Şehir Ormanı, coğrafi konumu ve doğal güzelliği ile ziyaretçilere yılın her dönemi keyifli bir gezi imkanı sunmaktadır.
+Bolu Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun bir şekilde, dağlık ve engebeli bir arazide yer almaktadır. Şehir Ormanı, Bolu'nun merkezine çok yakın bir konumda yer aldığı için, ulaşım oldukça kolaydır. Orman, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. Bolu Şehir Ormanı, coğrafi olarak dağlık ve ormanlık bir bölgede yer almakta ve bu özelliğiyle ziyaretçilere benzersiz bir deneyim sunmaktadır. Orman, yaz aylarında serin ve ferah bir atmosfer sunarken, kış aylarında karla kaplı bir kış cenneti haline gelmektedir. Bolu Şehir Ormanı, coğrafi konumu ve doğal güzelliği ile ziyaretçilere yılın her dönemi keyifli bir gezi imkanı sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Bolu Şehir Ormanı, ziyaretçilere yılın her dönemi keyifli bir gezi imkanı
 ## İlginç Bilgiler
 
 - Bolu Şehir Ormanı, 140 hektarlık bir yeşil alandır.
-- Orman, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır.
+
 - Bolu Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun bir şekilde, dağlık ve engebeli bir arazide yer almaktadır.
 - Orman, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
 - Bolu Şehir Ormanı, coğrafi olarak dağlık ve ormanlık bir bölgede yer almakta ve bu özelliğiyle ziyaretçilere benzersiz bir deneyim sunmaktadır.

@@ -50,11 +50,11 @@ Bostaniçi Gölü, çevresindeki su kaynakları ve ekosistemle önemli bir iliş
 
 ## Flora ve Fauna
 
-Bostaniçi Gölü, Van'ın yüksek dağ ekolojisinin kalbinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Bostaniçi Gölü, Van'ın yüksek dağ ekolojisinin kalbinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 **Bitki Örtüsü**: İlkbaharın gelmesiyle birlikte, gölün etrafı renkli çiçeklerle donanır. Alpin çayırlar, yüksek dağ ekolojisinin karakteristik bitkileri, gölün etrafını sarar. Bu bitkiler, gölün su seviyesinin değişimlerine adapte olmuşlardır.
 
-**Yaban Hayatı**: Göl, su kuşları ve balıklar için önemli bir yaşam alanıdır. Su kuşları, gölün sularında ve etrafındaki sulak alanlarda yuvalanır. Balıklar, gölün derinliklerinde yaşar ve su kuşlarının temel besin kaynaklarından birini oluşturur. 
+**Yaban Hayatı**: Göl, su kuşları ve balıklar için önemli bir yaşam alanıdır. Su kuşları, gölün sularında ve etrafındaki sulak alanlarda yuvalanır. Balıklar, gölün derinliklerinde yaşar ve su kuşlarının temel besin kaynaklarından birini oluşturur.
 
 **Ekolojik Değer**: Bostaniçi Gölü, yüksek dağ ekolojisi ve alpin çayırların bir araya geldiği ender yerlerden biridir. Bu ekosistem, birçok endemik tür için yaşam alanı sağlar. Gölün korunması, bu türlerin hayatta kalması için kritik öneme sahiptir.
 

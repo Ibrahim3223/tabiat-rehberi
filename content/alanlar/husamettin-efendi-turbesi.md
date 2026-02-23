@@ -1,7 +1,7 @@
 ---
 title: "Hüsamettin Efendi Türbesi"
 date: "2026-01-10T05:09:43.953Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391630"
 
 # Hüsamettin Efendi Türbesi
 
-Hüsamettin Efendi Türbesi, Muğla'nın Ula ilçesinde, Ege Bölgesi'nin doğal güzellikleriyle históriki değerlerini bir araya getiren özel bir noktada bulunmaktadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Hüsamettin Efendi Türbesi, tarihi ve kültürel açıdan önemli bir merkez olarak kabul edilmektedir. Özellikle bölgenini ve kültürel mirası hakkında bilgi edinmek isteyenler için önemli bir destinasyon olarak görülmektedir. Türbenin bulunduğu bölge, doğal güzellikleri ve tarihi değerleriyle birlikte, ziyaretçilerine zengin bir deneyim sunmaktadır.
+Hüsamettin Efendi Türbesi, Muğla'nın Ula ilçesinde, Ege Bölgesi'nin doğal güzellikleriyle tarihi değerlerini bir araya getiren özel bir noktada bulunmaktadır. Hüsamettin Efendi Türbesi, tarihi ve kültürel açıdan önemli bir merkez olarak kabul edilmektedir. Özellikle bölgenini ve kültürel mirası hakkında bilgi edinmek isteyenler için önemli bir destinasyon olarak görülmektedir. Türbenin bulunduğu bölge, doğal güzellikleri ve tarihi değerleriyle birlikte, ziyaretçilerine zengin bir deneyim sunmaktadır.
 
 ## Tarihçe
 

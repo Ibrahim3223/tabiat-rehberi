@@ -51,9 +51,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından Eğripınar D
 
 ## Flora ve Fauna
 
-Eğripınar Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi sunar. İlkbaharla birlikte, dağ yamacında çiçekler açar ve renkli bir manzara oluşur. Yükseklik zonlarına bağlı olarak, alpin flora türleri görülebilir. 
+Eğripınar Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi sunar. İlkbaharla birlikte, dağ yamacında çiçekler açar ve renkli bir manzara oluşur. Yükseklik zonlarına bağlı olarak, alpin flora türleri görülebilir.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitli türleri barındırır. Göç mevsimlerinde, dağ yolları çeşitli kuş türlerinin geçiş güzergahı olur. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenler olmak üzere çeşitli türleri barındırır. Göç mevsimlerinde, dağ yolları çeşitli kuş türlerinin geçiş güzergahı olur.
 
 Eğripınar Dağı, ekolojik açıdan önemli bir bölgedir. Kuraklığa adapte türlerin yaşam alanı olan bu dağ, bölgenin biyolojik çeşitliliğine katkıda bulunur. step bitki örtüsünün hakim olduğu bu dağ, yerel fauna için önemli bir yaşam alanı sunar.
 

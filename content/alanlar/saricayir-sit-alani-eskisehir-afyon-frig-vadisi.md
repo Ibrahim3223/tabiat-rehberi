@@ -22,7 +22,7 @@ wikidata_id: "Q108226109"
 
 # Sarıçayır Sit Alanı ESKISEHIR AFYON FRIG VADISI
 
-Sarıçayır Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile karşılaşma mümkün. Bu bölge, tarihi ve doğal güzellikleri ile dikkat çekiyor. Sarıçayır Sit Alanı, ziyaretçilerini doğanın kucağına davet ediyor. Burada, tarihi geçmişi ile birlikte doğal güzellikleri de keşfetme mümkün.
+Sarıçayır Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu bölge, tarihi ve doğal güzellikleri ile dikkat çekiyor. Sarıçayır Sit Alanı, ziyaretçilerini doğanın kucağına davet ediyor. Burada, tarihi geçmişi ile birlikte doğal güzellikleri de keşfetme mümkün.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sarıçayır Sit Alanı, tarihi geçmişi ile birlikte doğal güzellikleri de b
 
 ## Coğrafya
 
-Sarıçayır Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Burada, çeşitli bitki türleri ile karşılaşma mümkün ve bu bitkiler, bölgenin iklimini ve coğrafi yapısını şekillendiriyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Sarıçayır Sit Alanı, coğrafi güzellikleri ile dikkat çekiyor ve ziyaretçilerine doğanın gerçek yüzünü gösteriyor. Bu bölgede, çeşitli yaban hayatı da bulunuyor ve bu canlılar, bölgenin ekolojik dengesini koruyor.
+Sarıçayır Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Burada, çeşitli bitki türleri ile karşılaşma mümkün ve bu bitkiler, bölgenin iklimini ve coğrafi yapısını şekillendiriyor. Sarıçayır Sit Alanı, coğrafi güzellikleri ile dikkat çekiyor ve ziyaretçilerine doğanın gerçek yüzünü gösteriyor. Bu bölgede, çeşitli yaban hayatı da bulunuyor ve bu canlılar, bölgenin ekolojik dengesini koruyor.
 
 ## Flora ve Fauna
 

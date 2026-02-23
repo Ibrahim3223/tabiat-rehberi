@@ -22,7 +22,7 @@ wikidata_id: "Q108227412"
 
 # Amasya-Bafra-Yakakent Kızılçam
 
-Amasya-Bafra-Yakakent Kızılçam Milli Parkı, Karadeniz Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, özellikle kızılçam ağaçlarıyla meşhur ve ziyaretçilerine hem dinlenme hem de doğayı seyir imkânı sunuyor. Doğal güzellikleri, yaban hayatı ve çeşitli bitki türleriyle dikkat çeken bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Ziyaretçiler, bu milli parkta huzurlu bir atmosferin keyfini çıkarabilir ve doğayla iç içe olmanın tadını çıkarabilir.
+Amasya-Bafra-Yakakent Kızılçam Milli Parkı, Karadeniz Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu milli park, özellikle kızılçam ağaçlarıyla meşhur ve ziyaretçilerine hem dinlenme hem de doğayı seyir imkânı sunuyor. Doğal güzellikleri, yaban hayatı ve çeşitli bitki türleriyle dikkat çeken bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Ziyaretçiler, bu milli parkta huzurlu bir atmosferin keyfini çıkarabilir ve doğayla iç içe olmanın tadını çıkarabilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Amasya-Bafra-Yakakent Kızılçam Milli Parkı'nın tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Amasya-Bafra-Yakakent Kızılçam Milli Parkı, Karadeniz Bölgesi'nde yer alan Amasya ilinin sınırları içerisinde bulunmaktadır. Bu milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, kızılçam ağaçları ile meşhur olup, bu ağaçlar milli parkın temel özelliklerinden birini oluşturuyor. İklim olarak, Karadeniz Bölgesi'nin karakteristik özellikleri taşıyan bu park, yağışlı ve nemli bir iklimi sahiptir. Çevre düzenlemeleri ve doğal güzellikleri ile dikkat çeken bu milli park, ziyaretçilerine geniş açıklıkta bir görüş alanı sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı seyir imkânı sunuyor ve çeşitli bitki türleri ile yaban hayatı barındırıyor.
+Amasya-Bafra-Yakakent Kızılçam Milli Parkı, Karadeniz Bölgesi'nde yer alan Amasya ilinin sınırları içerisinde bulunmaktadır. Bölge, kızılçam ağaçları ile meşhur olup, bu ağaçlar milli parkın temel özelliklerinden birini oluşturuyor. İklim olarak, Karadeniz Bölgesi'nin karakteristik özellikleri taşıyan bu park, yağışlı ve nemli bir iklimi sahiptir. Çevre düzenlemeleri ve doğal güzellikleri ile dikkat çeken bu milli park, ziyaretçilerine geniş açıklıkta bir görüş alanı sunuyor. Milli parkın coğrafi yapısı, ziyaretçilerin doğayı seyir imkânı sunuyor ve çeşitli bitki türleri ile yaban hayatı barındırıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Amasya-Bafra-Yakakent Kızılçam Milli Parkı'na ziyaretçiler, özel araçlar�
 
 ## İlginç Bilgiler
 
-- Milli parkta, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunuyor.
 - Bölge, özellikle kızılçam ağaçlarıyla meşhur.
 - Ziyaretçiler, milli parkta huzurlu bir atmosferin keyfini çıkarabilir.
 - Milli park, yaban hayatı ve çeşitli bitki türleriyle dikkat çekiyor.

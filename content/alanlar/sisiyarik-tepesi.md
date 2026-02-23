@@ -28,7 +28,7 @@ wikidata_id: "Q31545464"
 
 # Sisiyarık Tepesi
 
-Sisiyarık Tepesi, Güneydoğu Anadolu Bölgesi'nde, Batman şehrinin sınırları içerisinde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, bölgenin en önemli doğal güzelliklerinden biridir. Sisiyarık Tepesi, ziyaretçilerini büyüleyen manzarasıyla, doğa severlerin ve fotoğrafçıların uğrak noktalarından biri haline gelmiştir. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Bu özelliği, Sisiyarık Tepesi'ni sadece bir tepe değil, aynı zamanda bir ekosistem olarak konumlandırır.
+Sisiyarık Tepesi, Güneydoğu Anadolu Bölgesi'nde, Batman şehrinin sınırları içerisinde yer alan bir doğa harikasıdır. Sisiyarık Tepesi, ziyaretçilerini büyüleyen manzarasıyla, doğa severlerin ve fotoğrafçıların uğrak noktalarından biri haline gelmiştir. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Bu özelliği, Sisiyarık Tepesi'ni sadece bir tepe değil, aynı zamanda bir ekosistem olarak konumlandırır.
 
 ## Tarihçe
 

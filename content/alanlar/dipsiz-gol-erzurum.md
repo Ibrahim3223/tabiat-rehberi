@@ -34,7 +34,7 @@ Erzurum'un Doğanşar ilçesinde bulunan Dipsiz Göl, bölgeye gelen ziyaretçil
 
 ## Tarihçe
 
-Erzurum bölgesi, tarihin sâu sayfalarında yer alan bir coğrafyadır. İnsanlık tarihinin önemli uygarlıklarından Urartular, Romalılar ve Selçukluların izlerini taşıyan bu topraklar, doğal güzellikleri ile de dikkat çeker. Dipsiz Göl, bu coğrafyanın bir parçası olarak, binlerce yıllık bir geçmişe sahiptir.
+Erzurum bölgesi, tarihin derin sayfalarında yer alan bir coğrafyadır. İnsanlık tarihinin önemli uygarlıklarından Urartular, Romalılar ve Selçukluların izlerini taşıyan bu topraklar, doğal güzellikleri ile de dikkat çeker. Dipsiz Göl, bu coğrafyanın bir parçası olarak, binlerce yıllık bir geçmişe sahiptir.
 
 Bu bölgede, insan yerleşimleri ve ticaret yolları, doğal alanlarla iç içe geçmiş durumda. Yaylacılık ve hayvancılık, bölgenin ekonomisinin temelini oluşturan faaliyetler arasında yer alır. İnsanlar, bu doğal alanları kullanarak geçimlerini sağlar ve bu coğrafyanın bir parçası haline gelirler.
 

@@ -48,7 +48,7 @@ Doğal bir tuzlu göl olan Tuz Gölü'nün fiziksel yapısı, tuzlu suyun yükse
 
 İklim koşulları açısından, Tuz Gölü'nün bulunduğu bölge, karasal iklim karakteri göstermektedir. Yaz aylarında sıcaklık 30 dereceye ulaşabilirken, kış aylarında -10 dereceye düşebilir. Bu mevsimsel farklılıklar, gölün su seviyesini ve tuz konsantrasyonunu etkiler. Hava durumu, genellikle açık ve güneşlidir, ancak yağışlı günlerde gölün su seviyesi artabilir.
 
-Gölün çevresel ilişkileri, komşu alanlar ve su kaynakları ile şekillenir. Tuz Gölü, bölgedeki diğer göller ve nehirler ile hidrolojik olarak bağlantılıdır. Gölün su seviyesi, bölgedeki yağış miktarı ve su kullanımına bağlı olarak değişebilir. Bu nedenle, Tuz Gölü'nün çevresel ilişkileri, bölgenin ekolojik dengesini korumak açısından önemlidir.
+Gölün çevresel ilişkileri, komşu alanlar ve su kaynakları ile şekillenir. Tuz Gölü, bölgedeki diğer göller ve nehirler ile hidrolojik olarak bağlantılıdır. Gölün su seviyesi, bölgedeki yağış miktarı ve su kullanımına bağlı olarak değişebilir.
 
 ## Flora ve Fauna
 

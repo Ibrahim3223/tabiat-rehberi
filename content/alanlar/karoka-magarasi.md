@@ -50,11 +50,11 @@ Doğal bir anıt olan Karoka Mağarası, jeolojik açıdan oldukça zengin bir y
 
 ## Flora ve Fauna
 
-Karoka Mağarası, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir jeoparktır. Bu alanda, step ve ova ekolojisi ile birlikte orman ekosistemi de bulunur. 
+Karoka Mağarası, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir jeoparktır. Bu alanda, step ve ova ekolojisi ile birlikte orman ekosistemi de bulunur.
 
-Bitki örtüsüne baktığımızda, ilkbahar aylarında çiçeklerle dolu bir manzara karşımıza çıkar. Mevsimsel değişimlerle birlikte, sonbaharın gelmesiyle birlikte bazı bitkilerin renkleri değişir ve göç eden kuşları ağırlayan bir bölge haline gelir. 
+Bitki örtüsüne baktığımızda, ilkbahar aylarında çiçeklerle dolu bir manzara karşımıza çıkar. Mevsimsel değişimlerle birlikte, sonbaharın gelmesiyle birlikte bazı bitkilerin renkleri değişir ve göç eden kuşları ağırlayan bir bölge haline gelir.
 
-Yaban hayatıında, çeşitli memeli ve kuş türleri bulunur. Bu canlılar, ormanların sunduğu yaşam alanlarına bağımlıdır. Sürüngenler de bu bölgede yaşayan diğer önemli canlılardır. 
+Yaban hayatıında, çeşitli memeli ve kuş türleri bulunur. Bu canlılar, ormanların sunduğu yaşam alanlarına bağımlıdır. Sürüngenler de bu bölgede yaşayan diğer önemli canlılardır.
 
 Ekolojik değer açısından, Karoka Mağarası ve çevresi önemli bir ekosistemdir. Bu alanın korunması, burada yaşayan canlıların ve bitkilerin yaşamını sürdürmesi için çok önemlidir.
 

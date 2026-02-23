@@ -33,7 +33,7 @@ Aydın'ın tarihi ve doğal güzellikleriyle ünlü bir bölgesinde yer alan Pan
 
 ## Tarihçe
 
-Aydın bölgesi, tarihin en eski dönemlerinden bu yana çeşitli uygarlıklara ev sahipliği yapmış bir coğrafyadır. Panayır Adası da bu bölgenin bir parçası olarak, binlerce yıl boyunca insanların yaşadığı, ticaret yaptığı ve doğayla iç içe olduğu bir bölge olmuştur. 
+Aydın bölgesi, tarihin en eski dönemlerinden bu yana çeşitli uygarlıklara ev sahipliği yapmış bir coğrafyadır. Panayır Adası da bu bölgenin bir parçası olarak, binlerce yıl boyunca insanların yaşadığı, ticaret yaptığı ve doğayla iç içe olduğu bir bölge olmuştur.
 
 Bu bölge, tarihi İyonya uygarlığının kalbi olarak bilinir. İyonlar, MÖ 11. yüzyılda buraya yerleşmiş ve bölgenin kültürel, ticari ve politik yapısını şekillendirmişlerdir. Daha sonra, Persler, Romalılar ve Bizanslılar gibi farklı uygarlıkların etkisi altında kalmıştır.
 

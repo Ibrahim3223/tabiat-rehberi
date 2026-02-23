@@ -22,7 +22,7 @@ wikidata_id: "Q108227553"
 
 # Artvin-Yusufeli-Kilickaya Saricam
 
-Artvin-Yusufeli-Kilickaya Saricam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu bölge, hem yerli hem de yabancı turistlerin ilgi odağı olmayı başarmış durumda. Doğal güzellikleri, zengin florası ve faunası ile ziyaretçilerine unutulmaz bir deneyimi vaat ediyor. Milli parkın sunduğu tüm imkanlar, ziyaretçilerin doğa ile baş başa kalarak, stres ve yorgunluktan uzaklaşmasını sağlıyor.
+Artvin-Yusufeli-Kilickaya Saricam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak karşımıza çıkıyor. Bu bölge, hem yerli hem de yabancı turistlerin ilgi odağı olmayı başarmış durumda. Milli parkın sunduğu tüm imkanlar, ziyaretçilerin doğa ile baş başa kalarak, stres ve yorgunluktan uzaklaşmasını sağlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Artvin-Yusufeli-Kilickaya Saricam milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Artvin-Yusufeli-Kilickaya Saricam milli parkı, Karadeniz Bölgesi'nin coğrafi güzelliklerini bir araya getiren bir noktada bulunuyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş ve ferah bir ortamda ağırlıyor. Milli parkın coğrafi yapısı, dağlar, ormanlar ve nehirler ile çevrilidir. Bu coğrafi yapı, ziyaretçilere geniş bir yelpaze sunuyor ve her mevsim ziyaretçilerini farklı güzelliklerle karşılayabiliyor. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere serin ve ferah bir ortam sunuyor. Çevre, doğal güzellikleri ve zengin florası ile ziyaretçilere doğanın tüm güzelliğini sunuyor.
+Artvin-Yusufeli-Kilickaya Saricam milli parkı, Karadeniz Bölgesi'nin coğrafi güzelliklerini bir araya getiren bir noktada bulunuyor. Milli parkın coğrafi yapısı, dağlar, ormanlar ve nehirler ile çevrilidir. Bu coğrafi yapı, ziyaretçilere geniş bir yelpaze sunuyor ve her mevsim ziyaretçilerini farklı güzelliklerle karşılayabiliyor. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilere serin ve ferah bir ortam sunuyor. Çevre, doğal güzellikleri ve zengin florası ile ziyaretçilere doğanın tüm güzelliğini sunuyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Artvin-Yusufeli-Kilickaya Saricam milli parkını ziyaret etmek, doğa severler 
 
 ## İlginç Bilgiler
 
-- Milli parkın yüzölçümü, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli park, Karadeniz Bölgesi'nin en güzel köşelerinden biri.
 - Milli parkın florası, çeşitli ağaç türleri ve çiçekleri barındırıyor.
 - Milli parkın faunası, birçok hayvan türünü barındırıyor.

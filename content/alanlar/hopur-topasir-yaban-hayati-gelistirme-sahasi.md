@@ -23,7 +23,7 @@ wikidata_id: "Q119442752"
 
 # Hopur Topaşır Yaban Hayatı Geliştirme Sahası
 
-Hopur Topaşır Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nin önemli yaban hayatı koruma alanlarından biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna yapısına sahiptir. Bu bölge, yaban hayatı koruma ve geliştirmek amacıyla oluşturulmuş bir saha olarak dikkat çekmektedir. Doğal güzelliği ve biyolojik çeşitliliği ile ziyaretçilerini çekmektedir.
+Hopur Topaşır Yaban Hayatı Geliştirme Sahası, İç Anadolu Bölgesi'nin önemli yaban hayatı koruma alanlarından biridir. Bu bölge, yaban hayatı koruma ve geliştirmek amacıyla oluşturulmuş bir saha olarak dikkat çekmektedir. Doğal güzelliği ve biyolojik çeşitliliği ile ziyaretçilerini çekmektedir.
 
 ## Tarihçe
 

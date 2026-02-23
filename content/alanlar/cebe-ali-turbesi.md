@@ -1,7 +1,7 @@
 ---
 title: "Cebe Ali Türbesi"
 date: "2026-01-10T07:08:19.142Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390964"
 
 # Cebe Ali Türbesi
 
-Cebe Ali Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir durak. Bu özel nokta, Marmara Bölgesi'nin kalbi olan İstanbul'un Fatih ilçesinde yer alıyor. Tarihi geçmişi ve doğal güzellikleri bir arada sunan Cebe Ali Türbesi, ziyaretçilerini geçmişe götürmeyi vaat ediyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunuyor. Cebe Ali Türbesi, yalnızca tarihi bir mekan olarak değil, aynı zamanda doğal güzellikleriyle de ziyaretçilerini büyülüyor.
+Cebe Ali Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir durak. Bu özel nokta, Marmara Bölgesi'nin kalbi olan İstanbul'un Fatih ilçesinde yer alıyor. Tarihi geçmişi ve doğal güzellikleri bir arada sunan Cebe Ali Türbesi, ziyaretçilerini geçmişe götürmeyi vaat ediyor. Cebe Ali Türbesi, yalnızca tarihi bir mekan olarak değil, aynı zamanda doğal güzellikleriyle de ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

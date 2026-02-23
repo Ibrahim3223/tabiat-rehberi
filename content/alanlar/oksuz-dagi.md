@@ -32,7 +32,7 @@ Kahramanmaraş'ın doğal güzelliklerini keşfetmek isteyenler için Öksüz Da
 
 ## Tarihçe
 
-Kahramanmaraş bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, zengin bir kültürel mirasa ev sahipliği yapar. Öksüz Dağı da bu tarihsel dokunun bir parçası olarak, insanlık tarihinin önemli bir kesitine tanıklık eder.
+Kahramanmaraş bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, zengin bir kültürel mirasa ev sahipliği yapar. Öksüz Dağı da bu tarihsel dokunun bir parçası olarak, insanlık tarihinin önemli bir kesitine tanıklık eder.
 
 Bu tür doğal alanlar, Türkiye'nin coğrafi çeşitliliğini ve tarihi zenginliğini koruma altına almak için büyük önem taşır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle, insanların bu alanlarla ilişkisi yüzyıllarca süregelmiştir. Bölgede yaşayan halk, bu doğal güzelliklerin bir parçası olarak, geleneksel yaşam tarzlarını sürdürmüşlerdir.
 

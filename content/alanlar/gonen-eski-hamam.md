@@ -1,7 +1,7 @@
 ---
 title: "Gönen Eski Hamam"
 date: "2026-01-09T23:39:40.655Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Isparta"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739137"
 
 # Gönen Eski Hamam
 
-Gönen Eski Hamam, Isparta'nın Gönen ilçesinde bulunan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu alan, şehrin merkezine yakın konumda yer alıyor ve birçok turistin ziyaret ettiği bir nokta. Gönen Eski Hamam, çevredeki diğer doğal güzelliklere de yakınlığıyla dikkat çekiyor. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkün. Gönen Eski Hamam'ın etrafında, çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için ideal bir destinasyon haline getiriyor.
+ Bu alan, şehrin merkezine yakın konumda yer alıyor ve birçok turistin ziyaret ettiği bir nokta. Gönen Eski Hamam, çevredeki diğer doğal güzelliklere de yakınlığıyla dikkat çekiyor. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkün. Gönen Eski Hamam'ın etrafında, çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için ideal bir destinasyon haline getiriyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Gönen Eski Hamam, zengin flora ve fauna ile çevrili. Burada, çeşitli bitki t
 
 ## Ziyaret Bilgileri
 
-Gönen Eski Hamam'ı ziyaret etmek, doğa severler için ideal bir aktivite. Buraya, Isparta'nın merkezinden kolayca ulaşma mümkün. Gönen Eski Hamam, çevredeki diğer doğal güzelliklere de yakınlığıyla dikkat çekiyor. Bu durum, burayı ziyaret edenlerin diğer güzellikleri de keşfetmesine olanak tanıyor. Gönen Eski Hamam'ı ziyaret ederken, doğa yürüyüşleri, fotoğrafçılık ve diğer outdoor aktiviteleri yapma mümkün. Gönen Eski Hamam, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Gönen Eski Hamam'ı ziyaret etmek, doğa severler için ideal bir aktivite. Buraya, Isparta'nın merkezinden kolayca ulaşma mümkün. Gönen Eski Hamam, çevredeki diğer doğal güzelliklere de yakınlığıyla dikkat çekiyor. Bu durum, burayı ziyaret edenlerin diğer güzellikleri de keşfetmesine olanak tanıyor. Gönen Eski Hamam'ı ziyaret ederken, doğa yürüyüşleri, fotoğrafçılık ve diğer outdoor aktiviteleri yapma mümkün.
 
 ## İlginç Bilgiler
 

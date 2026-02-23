@@ -48,7 +48,7 @@ Jeolojik açıdan incelendiğinde, Harmancık Dağı'nın oluşumu ve yapısı h
 
 ## Flora ve Fauna
 
-Harmancık Dağı, Erzincan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. Dağın farklı yükseklik zonlarında, mevsimsel değişimlere bağlı olarak çeşitli flora ve fauna çeşitliliği göze çarpar. 
+Harmancık Dağı, Erzincan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. Dağın farklı yükseklik zonlarında, mevsimsel değişimlere bağlı olarak çeşitli flora ve fauna çeşitliliği göze çarpar.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yerel bitki türleriyle bezenir. Sonbaharda, yaprakların sararmasıyla birlikte dağ manzarası başka bir güzelliğe bürünür.
 

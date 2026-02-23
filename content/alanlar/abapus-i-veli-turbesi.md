@@ -1,7 +1,7 @@
 ---
 title: "Abapuş-i Veli Türbesi"
 date: "2026-01-10T06:09:43.939Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"

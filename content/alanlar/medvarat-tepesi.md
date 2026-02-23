@@ -28,7 +28,7 @@ wikidata_id: "Q31555249"
 
 # Medvarat Tepesi
 
-Mardin'in tarihi ve doğal güzelliklerini bir araya getiren Medvarat Tepesi, 140 hektarlık geniş bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açıklık sunuyor. Medvarat Tepesi, Mardin'in merkezine yakın bir konumda yer alıyor ve şehrin tarihi dokusunu yansıtan önemli bir nokta olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve ağaçlar bulunmakta, bu da ziyaretçilere doğal bir ortam sunuyor. Medvarat Tepesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
+Mardin'in tarihi ve doğal güzelliklerini bir araya getiren Medvarat Tepesi, 140 hektarlık geniş bir alanı kapsıyor. Medvarat Tepesi, Mardin'in merkezine yakın bir konumda yer alıyor ve şehrin tarihi dokusunu yansıtan önemli bir nokta olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve ağaçlar bulunmakta, bu da ziyaretçilere doğal bir ortam sunuyor. Medvarat Tepesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

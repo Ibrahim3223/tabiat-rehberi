@@ -28,7 +28,7 @@ wikidata_id: "Q32127184"
 
 # Aliyürek Tepesi
 
-Aliyürek Tepesi, Burdur'un güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Aliyürek Tepesi, hem doğa severlerin hem de yürüyüş sevenlerin keyifle zaman geçirebileceği bir nokta.
+Aliyürek Tepesi, Burdur'un güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Aliyürek Tepesi, hem doğa severlerin hem de yürüyüş sevenlerin keyifle zaman geçirebileceği bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Aliyürek Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tep
 
 ## Coğrafya
 
-Aliyürek Tepesi, Burdur'un coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Aliyürek Tepesi'nin coğrafi konumu, buranın önemli bir doğa alanı olmasını sağlıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Aliyürek Tepesi, Burdur'un önemli bir bölümü olarak kabul ediliyor ve buranın coğrafi yapısı, çeşitli medeniyetlerin izlerini taşıyor.
+Aliyürek Tepesi, Burdur'un coğrafi yapısını şekillendiren önemli bir nokta. Bu tepe, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Aliyürek Tepesi'nin coğrafi konumu, buranın önemli bir doğa alanı olmasını sağlıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Aliyürek Tepesi, Burdur'un önemli bir bölümü olarak kabul ediliyor ve buranın coğrafi yapısı, çeşitli medeniyetlerin izlerini taşıyor.
 
 ## Flora ve Fauna
 

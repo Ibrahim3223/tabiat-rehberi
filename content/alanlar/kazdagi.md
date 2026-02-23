@@ -23,7 +23,7 @@ wikidata_id: "Q108227071"
 
 # Kazdagi
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Kazdağı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Kazdağı, özellikle bahar ve yaz aylarında ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Bölgenin flora ve faunası oldukça zengin ve çeşitli bitki türleri ile farklı hayvan türlerini barındırıyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan Kazdağı, yaklaşık 140 hektarlık bir alanı kapsıyor. Kazdağı, özellikle bahar ve yaz aylarında ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Bölgenin flora ve faunası oldukça zengin ve çeşitli bitki türleri ile farklı hayvan türlerini barındırıyor.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Kazdağı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer
 
 ## Flora ve Fauna
 
-Kazdağı, flora ve fauna açısından oldukça zengin bir bölge. Bölgede, çeşitli bitki türleri ve hayvan türleri snguyor. Kazdağı, özellikle bahar aylarında ziyaretçilerine renkli bir manzara sunuyor. Bölgede, farklı mevsimlerde farklı bitki türleri yetişiyor ve bu da bölgenin flora zenginliğini gösteriyor. Kazdağı, aynı zamanda birçok hayvan türüne de ev sahipliği yapıyor. Bölgede, farklı türlerde kuşlar, memeliler ve sürüngenler yaşamlarını sürdürüyorlar.
+ Bölgede, çeşitli bitki türleri ve hayvan türleri snguyor. Kazdağı, özellikle bahar aylarında ziyaretçilerine renkli bir manzara sunuyor. Bölgede, farklı mevsimlerde farklı bitki türleri yetişiyor ve bu da bölgenin flora zenginliğini gösteriyor. Kazdağı, aynı zamanda birçok hayvan türüne de ev sahipliği yapıyor. Bölgede, farklı türlerde kuşlar, memeliler ve sürüngenler yaşamlarını sürdürüyorlar.
 
 ## Ziyaret Bilgileri
 
@@ -45,6 +45,6 @@ Kazdağı, ziyaretçilerine birçok farklı aktivite sunuyor. Ziyaretçiler, bö
 
 - Kazdağı, yaklaşık 140 hektarlık bir alanı kapsıyor.
 - Bölge, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor.
-- Kazdağı, flora ve fauna açısından oldukça zengin bir bölge.
+
 - Bölge, birçok farklı mevsimde ziyaret edilebilir.
 - Kazdağı, ziyaretçilerine birçok farklı aktivite sunuyor.

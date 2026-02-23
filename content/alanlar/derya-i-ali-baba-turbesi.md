@@ -1,7 +1,7 @@
 ---
 title: "Derya-i Ali Baba Türbesi"
 date: "2026-01-10T07:29:58.016Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391049"
 
 # Derya-i Ali Baba Türbesi
 
-Derya-i Ali Baba Türbesi, İstanbul'un Zeytinburnu ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi ve doğal bir alan olarak dikkat çekiyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. İstanbul'un yoğun şehir yaşamı içinde bir mola vermeye ihtiyaç duyduğunuzda, Derya-i Ali Baba Türbesi'nin sakin ve güzel ortamı size huzur verebilir.
+Derya-i Ali Baba Türbesi, İstanbul'un Zeytinburnu ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi ve doğal bir alan olarak dikkat çekiyor. İstanbul'un yoğun şehir yaşamı içinde bir mola vermeye ihtiyaç duyduğunuzda, Derya-i Ali Baba Türbesi'nin sakin ve güzel ortamı size huzur verebilir.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Derya-i Ali Baba Türbesi ve etrafındaki bölge, çeşitlilik gösteren bir eko
 
 ## Ziyaret Bilgileri
 
-Derya-i Ali Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini keşfetmek için ideal bir fırsat sunuyor. Bu bölgeye ulaşım kolay, toplu taşıma araçları veya özel araçlarla bölgeye rahatça ulaşabilirsiniz. Ziyaretçiler, türbenin históriki önemini öğrenirken aynı zamanda güzel bir doğa yürüyüşü yapabilirler. Bahar ve yaz ayları, bu bölgeyi ziyaret etmek için en uygun zamanlar. Ziyaret süreniz, ilgi alanlarınıza göre değişebilir, ancak ortalama 2-3 saatlik bir ziyaret, bölgenin ana noktalarını keşfetmeniz için yeterli olabilir.
+Derya-i Ali Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini keşfetmek için ideal bir fırsat sunuyor. Bu bölgeye ulaşım kolay, toplu taşıma araçları veya özel araçlarla bölgeye rahatça ulaşabilirsiniz. Ziyaretçiler, türbenin tarihi önemini öğrenirken aynı zamanda güzel bir doğa yürüyüşü yapabilirler. Bahar ve yaz ayları, bu bölgeyi ziyaret etmek için en uygun zamanlar. Ziyaret süreniz, ilgi alanlarınıza göre değişebilir, ancak ortalama 2-3 saatlik bir ziyaret, bölgenin ana noktalarını keşfetmeniz için yeterli olabilir.
 
 ## İlginç Bilgiler
 

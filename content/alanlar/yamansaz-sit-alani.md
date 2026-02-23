@@ -22,7 +22,7 @@ wikidata_id: "Q108226655"
 
 # Yamansaz Sit Alanı
 
-Yamansaz Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Yamansaz Sit Alanı, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini kendi dünyasına çekmeyi başarıyor. Bu alan, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir sit alanı. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile Yamansaz Sit Alanı, doğa severler için gerçek bir cennet. 140 hektarlık bu yeşil cennet, ziyaretçilerini doğanın güzelliği ve sakinliği ile baş başa bırakıyor.
+ Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Yamansaz Sit Alanı, tarihi geçmişi ve coğrafi konumuyla birlikte, ziyaretçilerini kendi dünyasına çekmeyi başarıyor. Bu alan, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir sit alanı. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile Yamansaz Sit Alanı, doğa severler için gerçek bir cennet. 140 hektarlık bu yeşil cennet, ziyaretçilerini doğanın güzelliği ve sakinliği ile baş başa bırakıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Yamansaz Sit Alanı'nın tarihi geçmişi, bölgenin jeolojik oluşumuna kadar u
 
 ## Coğrafya
 
-Yamansaz Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel bölgelerinden biri. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Yamansaz Sit Alanı, coğrafi konumu itibariyle, çeşitli iklim tiplerine sahip. Bu durum, alanın flora ve fauna çeşitliliğini artırıyor. Sit alanı, aynı zamanda bölgenin su kaynaklarının korunması için önemli bir rol oynuyor. Bu alan, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir sit alanı. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile Yamansaz Sit Alanı, doğa severler için gerçek bir cennet. Bu geniş alan, ziyaretçilerine doğanın güzelliği ve sakinliği ile baş başa bırakıyor. Coğrafi konumu, iklimi ve doğal güzellikleri ile Yamansaz Sit Alanı, ziyaretçilerine benzersiz bir deneyim sunuyor.
+Yamansaz Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel bölgelerinden biri. Bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Yamansaz Sit Alanı, coğrafi konumu itibariyle, çeşitli iklim tiplerine sahip. Bu durum, alanın flora ve fauna çeşitliliğini artırıyor. Sit alanı, aynı zamanda bölgenin su kaynaklarının korunması için önemli bir rol oynuyor. Bu alan, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş bir sit alanı. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile Yamansaz Sit Alanı, doğa severler için gerçek bir cennet. Bu geniş alan, ziyaretçilerine doğanın güzelliği ve sakinliği ile baş başa bırakıyor. Coğrafi konumu, iklimi ve doğal güzellikleri ile Yamansaz Sit Alanı, ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

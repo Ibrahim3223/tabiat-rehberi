@@ -33,9 +33,9 @@ Küçükhasan Dağı, Türkiye'nin dağlık bölgelerinde yer alan bir doğal ol
 
 ## Tarihçe
 
-Küçükhasan Dağı, Türkiye'nin coğrafi çeşitliliğiçinde önemli bir yere sahip olan İç Anadolu Bölgesi'nde bulunuyor. Bu bölge, tarihin en eski zamanlarından beri çeşitli uygarlıklara ev sahipliği yapmış; Hititler, Persler, Romalılar ve Selçuklular gibi medeniyetler, bölgenin stratejik konumu nedeniyle buraya interest göstermişlerdir. 
+Küçükhasan Dağı, Türkiye'nin coğrafi çeşitliliğiçinde önemli bir yere sahip olan İç Anadolu Bölgesi'nde bulunuyor. Bu bölge, tarihin en eski zamanlarından beri çeşitli uygarlıklara ev sahipliği yapmış; Hititler, Persler, Romalılar ve Selçuklular gibi medeniyetler, bölgenin stratejik konumu nedeniyle buraya interest göstermişlerdir.
 
-Doğal güzelliklerinin yanı sıra, Küçükhasan Dağı ve çevresi, insanların yaşamını sürdürdüğü, tarım ve hayvancılıkla uğraştığı bir alan olarak da dikkat çekiyor. Yaylacılık, bu bölgede önemli bir gelenek olarak devam ediyor; yaz aylarında, insanlar dağların yükseklerine çıkarak hayvanlarını otlatıyor ve bu gelenek, nesiller boyunca devam ediyor. 
+Doğal güzelliklerinin yanı sıra, Küçükhasan Dağı ve çevresi, insanların yaşamını sürdürdüğü, tarım ve hayvancılıkla uğraştığı bir alan olarak da dikkat çekiyor. Yaylacılık, bu bölgede önemli bir gelenek olarak devam ediyor; yaz aylarında, insanlar dağların yükseklerine çıkarak hayvanlarını otlatıyor ve bu gelenek, nesiller boyunca devam ediyor.
 
 Tarihsel olarak, bu tür doğal alanlar Türkiye'de önemli ticaret yollarının üzerinde bulunmuş ve çeşitli medeniyetlerin geçiş noktaları olarak görev görmüşlerdir. Küçükhasan Dağı, çevresindeki yerleşim yerleri ve tarihi ticaret yolları ile bir bütün olarak düşünüldüğünde, tarihin izlerini taşıyan bir coğrafi bölge olarak ön plana çıkıyor. Bu doğal güzelliğin, bölgenin kültürel ve ekonomik yaşamına katkıda bulunduğu açıkça görülüyor.
 

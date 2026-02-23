@@ -22,7 +22,7 @@ wikidata_id: "Q108228447"
 
 # Adana-Kadirli-Karaçam
 
-Adana-Kadirli-Karaçam milli parkı, Akdeniz Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, yaban hayatı ve flora çeşitliliği ile dikkat çekiyor. Ziyaretçiler, doğa yürüyüşleri, fotoğrafçılık ve vahşi yaşam gözlemi gibi etkinlikler yaparak bu muhteşem môirosağı keşfedebilir. yıllar önce başlayan çevre koruma çalışmaları, bu bölgenin ekolojik dengesini korumak için önemli adımlar atmıştır.
+ Bu bölge, yaban hayatı ve flora çeşitliliği ile dikkat çekiyor. Ziyaretçiler, doğa yürüyüşleri, fotoğrafçılık ve vahşi yaşam gözlemi gibi etkinlikler yaparak bu muhteşem môirosağı keşfedebilir. yıllar önce başlayan çevre koruma çalışmaları, bu bölgenin ekolojik dengesini korumak için önemli adımlar atmıştır.
 
 ## Tarihçe
 

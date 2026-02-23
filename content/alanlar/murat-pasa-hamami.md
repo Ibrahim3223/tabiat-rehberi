@@ -1,7 +1,7 @@
 ---
 title: "Murat Paşa Hamamı"
 date: "2026-01-09T22:23:25.417Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -30,11 +30,11 @@ wikidata_id: "Q131738422"
 
 # Murat Paşa Hamamı
 
-Murat Paşa Hamamı, Doğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Yakutiye ilçesinde bulunan bu hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçiler için geniş bir gezi alanını sunar. Murat Paşa Hamamı, tarihi geçmişinin yanı sıra doğal güzellikleri ile de dikkat çeker. Ziyaretçiler, hamamın tarihi atmosferini yaşarken aynı zamanda bölgenin doğal güzelliklerini de keşfedebilirler.
+Murat Paşa Hamamı, Doğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Yakutiye ilçesinde bulunan bu hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Murat Paşa Hamamı, tarihi geçmişinin yanı sıra doğal güzellikleri ile de dikkat çeker. Ziyaretçiler, hamamın tarihi atmosferini yaşarken aynı zamanda bölgenin doğal güzelliklerini de keşfedebilirler.
 
 ## Tarihçe
 
-Murat Paşa Hamamı, tarihi geçmişi ile dikkat çeker. Bu hamam, yüzyıllar boyunca önemli bir kültür ve tarih merkezi olarak hizmet vermiştir. Hamamın tarihi hakkında detaylı bilgiler bulunmasa da, bölgenin tarihi geçmişi ve kültürel önemi bilinmektedir. Murat Paşa Hamamı, Erzurum'un Yakutiye ilçesinde yer alır ve tarihi dokusu ile ziyaretçilerini büyüler. Hamamın história hakkında daha detaylı bilgi bulunmasa da, bölgenin tarihi ve kültürel önemi, ziyaretçilere önemli bir deneyim sunar.
+Murat Paşa Hamamı, tarihi geçmişi ile dikkat çeker. Bu hamam, yüzyıllar boyunca önemli bir kültür ve tarih merkezi olarak hizmet vermiştir. Hamamın tarihi hakkında detaylı bilgiler bulunmasa da, bölgenin tarihi geçmişi ve kültürel önemi bilinmektedir. Murat Paşa Hamamı, Erzurum'un Yakutiye ilçesinde yer alır ve tarihi dokusu ile ziyaretçilerini büyüler. Hamamın tarihi hakkında daha detaylı bilgi bulunmasa da, bölgenin tarihi ve kültürel önemi, ziyaretçilere önemli bir deneyim sunar.
 
 ## Coğrafya
 

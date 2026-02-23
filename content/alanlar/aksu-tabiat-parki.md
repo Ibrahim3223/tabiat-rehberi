@@ -24,7 +24,7 @@ wikidata_id: "Q110423637"
 
 # Aksu Tabiat Parkı
 
-Aksu Tabiat Parkı, Kargı, Çorum'da yer alan ve yaklaşık 140 hektarlık büyüklüğüyle ziyaretçilerini karşılayan bir doğa harikasıdır. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Park, ziyaretçilerine sunduğu zengin flora ve fauna çeşitliliğiyle dikkat çeker. Konum olarak Karadeniz Bölgesi'nde yer alan park, doğa severlerin ilgisini çeken bir destinasyondur. Aksu Tabiat Parkı, hem doğa güzelliği hem de coğrafi konumuyla önemli bir turizm noktası olarak kabul edilir.
+Aksu Tabiat Parkı, Kargı, Çorum'da yer alan ve yaklaşık 140 hektarlık büyüklüğüyle ziyaretçilerini karşılayan bir doğa harikasıdır. Park, ziyaretçilerine sunduğu zengin flora ve fauna çeşitliliğiyle dikkat çeker. Konum olarak Karadeniz Bölgesi'nde yer alan park, doğa severlerin ilgisini çeken bir destinasyondur. Aksu Tabiat Parkı, hem doğa güzelliği hem de coğrafi konumuyla önemli bir turizm noktası olarak kabul edilir.
 
 ## Tarihçe
 
@@ -32,7 +32,7 @@ Aksu Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Aksu Tabiat Parkı, Kargı, Çorum'da yer alan bir doğa harikasıdır. Park, yaklaşık 140 hektarlık büyüklüğüyle ziyaretçilerini karşılar. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Parkın coğrafi konumu, Karadeniz Bölgesi'nde yer almasıyla dikkat çeker. Bölge, zengin flora ve fauna çeşitliliğiyle tanınır. Park, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemi barındırır. Aksu Tabiat Parkı, ziyaretçilerine sunduğu doğal güzelliklerle, doğa severlerin ilgisini çeken bir destinasyondur. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Bölge, genellikle yağışlı ve nemli bir iklimle tanınır. Aksu Tabiat Parkı, coğrafi konumu ve doğal güzelliği ile, önemli bir turizm noktası olarak kabul edilir.
+Aksu Tabiat Parkı, Kargı, Çorum'da yer alan bir doğa harikasıdır. Park, yaklaşık 140 hektarlık büyüklüğüyle ziyaretçilerini karşılar. Parkın coğrafi konumu, Karadeniz Bölgesi'nde yer almasıyla dikkat çeker. Bölge, zengin flora ve fauna çeşitliliğiyle tanınır. Park, çeşitli bitki türleri ve hayvanlarla dolu bir ekosistemi barındırır. Aksu Tabiat Parkı, ziyaretçilerine sunduğu doğal güzelliklerle, doğa severlerin ilgisini çeken bir destinasyondur. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak değişkenlik gösterir. Bölge, genellikle yağışlı ve nemli bir iklimle tanınır. Aksu Tabiat Parkı, coğrafi konumu ve doğal güzelliği ile, önemli bir turizm noktası olarak kabul edilir.
 
 ## Flora ve Fauna
 

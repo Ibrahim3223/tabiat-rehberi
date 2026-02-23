@@ -1,7 +1,7 @@
 ---
 title: "Siyavuş Paşa Türbesi"
 date: "2026-01-10T07:46:35.737Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391108"
 
 # Siyavuş Paşa Türbesi
 
-Siyavuş Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir mekandır. Bu mekân, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçiler için önemli bir kültürel merkez olarak hizmet verir. Siyavuş Paşa Türbesi, tarihi geçmişi ve mimari yapısı ile dikkat çeker. Mekânın çevresi, İstanbul'un tarihi dokusunu yansıtan yapılar ve yeşillik alanları ile çevrilidir. Ziyaretçiler, burada tarihi bir atmosferi deneyimleyebilir ve bölgenin zengin tarihini keşfedebilir.
+Siyavuş Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir mekandır. Siyavuş Paşa Türbesi, tarihi geçmişi ve mimari yapısı ile dikkat çeker. Mekânın çevresi, İstanbul'un tarihi dokusunu yansıtan yapılar ve yeşillik alanları ile çevrilidir. Ziyaretçiler, burada tarihi bir atmosferi deneyimleyebilir ve bölgenin zengin tarihini keşfedebilir.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Siyavuş Paşa Türbesi, Marmara Bölgesi'nin coğrafi olarak önemli bir konumu
 
 ## Flora ve Fauna
 
-Siyavuş Paşa Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölge, Karadeniz ve Marmara Denizi'nin iklimsel etkisi altında bulunması nedeniyle, farklı mevsimlerde farklı bitki türleri yetişir. Yeşillik alanları, ziyaretçiler için önemli bir dinlenme ve gezi alanı olarak hizmet verir. Bu bölgede, özellikle ilkbahar ve sonbahar mevsimlerinde, doğa güzelliği doruk noktasına ulaşır. Ziyaretçiler, bu mevsimlerde Siyavuş Paşa Türbesi'ni ziyaret ederek, bölgenin doğal güzelliklerini keşfedebilir. Ayrıca, türbenin çevresinde, çeşitli hayvan türleri de yaşar ve bu da ziyaretçiler için önemli bir doğa deneyimi sağlar.
+ Bölge, Karadeniz ve Marmara Denizi'nin iklimsel etkisi altında bulunması nedeniyle, farklı mevsimlerde farklı bitki türleri yetişir. Yeşillik alanları, ziyaretçiler için önemli bir dinlenme ve gezi alanı olarak hizmet verir. Bu bölgede, özellikle ilkbahar ve sonbahar mevsimlerinde, doğa güzelliği doruk noktasına ulaşır. Ziyaretçiler, bu mevsimlerde Siyavuş Paşa Türbesi'ni ziyaret ederek, bölgenin doğal güzelliklerini keşfedebilir. Ayrıca, türbenin çevresinde, çeşitli hayvan türleri de yaşar ve bu da ziyaretçiler için önemli bir doğa deneyimi sağlar.
 
 ## Ziyaret Bilgileri
 

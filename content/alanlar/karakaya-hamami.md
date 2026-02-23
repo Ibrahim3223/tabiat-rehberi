@@ -1,7 +1,7 @@
 ---
 title: "Karakaya Hamamı"
 date: "2026-01-09T23:40:53.106Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739202"
 
 # Karakaya Hamamı
 
-Karakaya Hamamı, Ayaş'ta yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir yeşil alan olarak dikkat çekmektedir. Bu alan, doğa severler için bir cennet olarak görülebilir. Geniş yeşil alanları, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlamaktadır. Karakaya Hamamı, geniş ve ferah bir ortam sunmasıyla birlikte, doğa ile iç içe bir gezi deneyimi sunmaktadır.
+ Bu alan, doğa severler için bir cennet olarak görülebilir. Geniş yeşil alanları, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini ağırlamaktadır. Karakaya Hamamı, geniş ve ferah bir ortam sunmasıyla birlikte, doğa ile iç içe bir gezi deneyimi sunmaktadır.
 
 ## Tarihçe
 

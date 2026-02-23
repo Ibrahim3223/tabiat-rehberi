@@ -33,7 +33,7 @@ Erzurum'un dağlık bölgesinde yer alan Akdağ, şehrin doğal güzelliklerini 
 
 ## Tarihçe
 
-Erzurum'un doğusunda yer alan Akdağ, binlerce yıl boyunca çeşitli uygarlıkların yaşadığı bir bölgenin kalbinde bulunuyor. Erzurum ve çevresinde, tarih öncesi dönemlerden itibaren Urartular, Romalılar, Bizanslılar ve Selçuklular gibi medeniyetler yaşamıştır. Bu bölgenin coğrafi konumu, histórik ticaret yollarının kesişme noktasında olmasını sağlamıştır.
+Erzurum'un doğusunda yer alan Akdağ, binlerce yıl boyunca çeşitli uygarlıkların yaşadığı bir bölgenin kalbinde bulunuyor. Erzurum ve çevresinde, tarih öncesi dönemlerden itibaren Urartular, Romalılar, Bizanslılar ve Selçuklular gibi medeniyetler yaşamıştır. Bu bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında olmasını sağlamıştır.
 
 Doğal güzellikleri ve stratejik konumu nedeniyle, Akdağ gibi alanlar Türkiye'de önemli bir tarihsel öneme sahiptir. Bu tür doğal alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlamıştır. Yaylacılık ve hayvancılık, bölgede uzun süredir devam eden yonel faaliyetlerdir. Ayrıca, tarihi İpek Yolu gibi ticaret yolları da bu bölgeyi geçerek, farklı medeniyetler arasında kültürel ve ekonomik alışverişi sağlamıştır.
 

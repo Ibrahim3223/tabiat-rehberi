@@ -34,9 +34,9 @@ Türkiye'nin zengin kıyı şeridi, birçok gizli hazineyi barındırıyor. Comm
 
 ## Tarihçe
 
-Mürted belediyesi, tarihin izlerini taşıyan bir bölgedir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşam alanı olmuştur. Hitit, Roma ve Bizans dönemlerinde önemli bir yerleşim merkezi olan bu bölge, ticaret yolları üzerinde bulunması nedeniyle stratejik bir konumda yer almıştır. 
+Mürted belediyesi, tarihin izlerini taşıyan bir bölgedir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşam alanı olmuştur. Hitit, Roma ve Bizans dönemlerinde önemli bir yerleşim merkezi olan bu bölge, ticaret yolları üzerinde bulunması nedeniyle stratejik bir konumda yer almıştır.
 
-Uzunada gibi doğal alanlar, Türkiye'nin tarihsel zenginliğiçinde önemli bir yer tutar. Bu tür alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve yaylacılık faaliyetleri gerçekleştirdikleri yerler olarak bilinir. İnsanlar, bu doğal güzelliklerin arasında, doğa ile uyum içinde yaşamış, geleneksel yaşam tarzlarını sürdürmüşlerdir. 
+Uzunada gibi doğal alanlar, Türkiye'nin tarihsel zenginliğiçinde önemli bir yer tutar. Bu tür alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve yaylacılık faaliyetleri gerçekleştirdikleri yerler olarak bilinir. İnsanlar, bu doğal güzelliklerin arasında, doğa ile uyum içinde yaşamış, geleneksel yaşam tarzlarını sürdürmüşlerdir.
 
 Ticaret yolları ve yerleşim merkezleri arasındaki bağlantıları sağlayan bu doğal alanlar, bölgenin ekonomi ve sosyal gelişiminde önemli bir rol oynamıştır. İnsanların bu alanlarla olan ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyuta da sahiptir. Bu doğal alanlar, insanların doğa ile bağlarını güçlendirmiş, geleneksel yaşam tarzlarını korumuş ve kültürel mirasın devamlılığını sağlamıştır.
 

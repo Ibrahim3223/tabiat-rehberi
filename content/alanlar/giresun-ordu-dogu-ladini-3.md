@@ -22,7 +22,7 @@ wikidata_id: "Q108227991"
 
 # Giresun-Ordu Dogu Ladini 3
 
-Giresun-Ordu Dogu Ladini 3, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini koruma altına alıyor. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunuyor. Doğa severler için bir cennet olan bu milli park, her mevsim farklı bir güzelliğe sahip.
+Giresun-Ordu Dogu Ladini 3, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak karşımıza çıkıyor. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakırken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunuyor. Doğa severler için bir cennet olan bu milli park, her mevsim farklı bir güzelliğe sahip.
 
 ## Tarihçe
 

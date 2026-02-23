@@ -1,7 +1,7 @@
 ---
 title: "Hamam Dağı"
 date: "2026-01-09T05:42:49.344Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Eskişehir"
@@ -32,7 +32,7 @@ Eskişehir'in coğrafi zenginliklerini keşfetmek isteyenler için bir hazine ol
 
 ## Tarihçe
 
-Eskişehir'in doğal güzelliklerinden biri olan Hamam Dağı, tarihin sâu izlerini taşıyan bir bölgede yer alır. Eskişehir, binlerce yıllık tarihinde çeşitli uygarlıklara ev sahipliği yapmış bir şehirdir. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler bu topraklarda yaşamıştır. Bu zengin tarihsel miras, bölgenin kültürel ve doğal varlıklarını şekillendirmiştir.
+Eskişehir'in doğal güzelliklerinden biri olan Hamam Dağı, tarihin derin izlerini taşıyan bir bölgede yer alır. Eskişehir, binlerce yıllık tarihinde çeşitli uygarlıklara ev sahipliği yapmış bir şehirdir. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler bu topraklarda yaşamıştır. Bu zengin tarihsel miras, bölgenin kültürel ve doğal varlıklarını şekillendirmiştir.
 
 Doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bir yer tutar. Bu alanlar, sadece güzelliği ile değil, aynı zamanda insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sunmasıyla da değerlidir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu doğal alanlarla ilişkisini belirlemiştir. Hamam Dağı da, bu bağlamda Eskişehir'in doğal ve kültürel zenginliklerinin bir parçasıdır. Bölgenin historyel geçmişi, insan yerleşimlerini ve ekonomik faaliyetleri etkilemiş, bu da doğal alanların korunması ve sürdürülebilir kullanımı konusunda önemlidir.
 
@@ -48,11 +48,11 @@ Mevsimsel değişimlerin etkisi altında kalan Hamam Dağı, iklim karakteri aç
 
 ## Flora ve Fauna
 
-Hamam Dağı, Eskişehir'in kurak bozkır ortamında bir yeşillik cenneti olarak karşımıza çıkıyor. 1200 hektarlık bu dağ, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
+Hamam Dağı, Eskişehir'in kurak bozkır ortamında bir yeşillik cenneti olarak karşımıza çıkıyor. 1200 hektarlık bu dağ, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
 
-Bitki örtüsü olarak step bitkileri ve bozkır türleri hakim. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Sonbahar ise göç eden kuşların geçiş güzergahı olarak önemli bir rol oynuyor. 
+Bitki örtüsü olarak step bitkileri ve bozkır türleri hakim. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Sonbahar ise göç eden kuşların geçiş güzergahı olarak önemli bir rol oynuyor.
 
-Yaban hayatı da bir o kadar zengin. Memeliler, kuşlar ve sürüngenler bu dağda yaşamını sürdürüyor. Dağ keçileri ve yaban domuzları gibi memeliler, dağlık alanların kaya kovuklarında ve ormanlık bölgelerde yaşamlarını sürdürüyor. 
+Yaban hayatı da bir o kadar zengin. Memeliler, kuşlar ve sürüngenler bu dağda yaşamını sürdürüyor. Dağ keçileri ve yaban domuzları gibi memeliler, dağlık alanların kaya kovuklarında ve ormanlık bölgelerde yaşamlarını sürdürüyor.
 
 Hamam Dağı, ekolojik olarak önemli bir bölge. Bu alanın korunması, sadece yerel türlerin değil, göçmen kuşların da yaşam döngüsünü sürdürmesi için hayati önem taşıyor.
 

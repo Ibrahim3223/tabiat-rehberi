@@ -23,7 +23,7 @@ wikidata_id: "Q108228736"
 
 # YALOVA
 
-Yalova milli parkı, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu doğal alan, ziyaretçilerini yaban hayatının zenginlikleriyle buluşturuyor. Yalova'nın coğrafi konumu, farklı iklimler ve toprak yapılarından dolayı, burada çeşitli bitki türleri ve hayvanlar yaşıyor. Yalova milli parkı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+ Bu doğal alan, ziyaretçilerini yaban hayatının zenginlikleriyle buluşturuyor. Yalova'nın coğrafi konumu, farklı iklimler ve toprak yapılarından dolayı, burada çeşitli bitki türleri ve hayvanlar yaşıyor. Yalova milli parkı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 

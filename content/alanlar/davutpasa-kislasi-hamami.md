@@ -1,7 +1,7 @@
 ---
 title: "Davutpaşa Kışlası Hamamı"
 date: "2026-01-09T23:23:26.865Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738969"
 
 # Davutpaşa Kışlası Hamamı
 
-Davutpaşa Kışlası Hamamı, İstanbul'un Esenler ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un kalabalık ve gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası olan bu mekan, aynı zamanda tarihi bir kışla ve hamamın bulunduğu bir bölgedir. Tarihi önem taşıyan bu yapılar, ziyaretçilere İstanbul'un geçmişine dair bir fikir verir.
+Davutpaşa Kışlası Hamamı, İstanbul'un Esenler ilçesinde yer alan ve tarihi geçmişiyle dikkat çeken bir alandır. İstanbul'un kalabalık ve gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası olan bu mekan, aynı zamanda tarihi bir kışla ve hamamın bulunduğu bir bölgedir. Tarihi önem taşıyan bu yapılar, ziyaretçilere İstanbul'un geçmişine dair bir fikir verir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Davutpaşa Kışlası Hamamı, geçmişte İstanbul'un önemli askeri merkezleri
 
 ## Coğrafya
 
-Davutpaşa Kışlası Hamamı, İstanbul'un Esenler ilçesinde, şehrin merkezi bölgelerine göre daha sakin bir konumda yer alır. Bu alan, çevresinde yer alan yeşil alanlar ve parklarla birlikte, şehrin kalabalık ve beton yapısından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Kışla ve hamamın bulunduğu bölge, aynı zamanda İstanbul'un coğrafi çeşitliliğini de yansıtan bir bölgedir. Burada, tarihi yapılar ile doğal güzellikler bir arada bulunmakta ve ziyaretçilere şehrin farklı yönlerini keşfetme fırsatı sunmaktadır. Ayrıca, bu bölgenin iklimi, İstanbul'un genel iklimine benzer şekilde, karasal ve denizel iklimlerin bir karışımıdır. Bu nedenle, ziyaretçiler yılın farklı mevsimlerinde bu alanı ziyaret edebilir ve her mevsimden farklı güzellikler keşfedebilir.
+Davutpaşa Kışlası Hamamı, İstanbul'un Esenler ilçesinde, şehrin merkezi bölgelerine göre daha sakin bir konumda yer alır. Bu alan, çevresinde yer alan yeşil alanlar ve parklarla birlikte, şehrin kalabalık ve beton yapısından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Kışla ve hamamın bulunduğu bölge, aynı zamanda İstanbul'un coğrafi çeşitliliğini de yansıtan bir bölgedir. Ayrıca, bu bölgenin iklimi, İstanbul'un genel iklimine benzer şekilde, karasal ve denizel iklimlerin bir karışımıdır. Bu nedenle, ziyaretçiler yılın farklı mevsimlerinde bu alanı ziyaret edebilir ve her mevsimden farklı güzellikler keşfedebilir.
 
 ## Flora ve Fauna
 

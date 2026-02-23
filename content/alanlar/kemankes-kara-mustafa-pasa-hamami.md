@@ -1,7 +1,7 @@
 ---
 title: "Kemankeş Kara Mustafa Paşa Hamamı"
 date: "2026-01-09T23:35:22.355Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739195"
 
 # Kemankeş Kara Mustafa Paşa Hamamı
 
-Kemankeş Kara Mustafa Paşa Hamamı, Sivas'ın Yıldızeli ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir nokta. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Hamam, histórik bir geçmişe sahip ve bölgenin önemli kültür miraslarından biri. Ziyaretçiler, burada hem tarihi bir yapıyı görebilir hem de etrafındaki doğal güzelliği keşfedebilir.
+Kemankeş Kara Mustafa Paşa Hamamı, Sivas'ın Yıldızeli ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir nokta. Hamam, tarihi bir geçmişe sahip ve bölgenin önemli kültür miraslarından biri. Ziyaretçiler, burada hem tarihi bir yapıyı görebilir hem de etrafındaki doğal güzelliği keşfedebilir.
 
 ## Tarihçe
 

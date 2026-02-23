@@ -1,7 +1,7 @@
 ---
 title: "Ankara Üniversitesi Tarihi Müzesi"
 date: "2026-01-10T15:18:00.151Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949983"
 
 # Ankara Üniversitesi Tarihi Müzesi
 
-Ankara Üniversitesi Tarihi Müzesi, Ankara'nın kalbinde, yaklaşık 140 hektarlık bir alanda yer alan bir kültür ve tarih merkezi. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarih ve kültür gezisi sunuyor. Müzenin konumu, Ankara'nın merkezinde olmasıyla kolayca ulaşılabilir ve şehrin diğer önemli noktalarına da yakındır. Tarih severler ve Ankara'nın geçmişini keşfetmek isteyenler için ideal bir destinasyon olan Ankara Üniversitesi Tarihi Müzesi, ziyaretçilerine zengin bir tarih ve kültür deneyimi sunuyor.
+Ankara Üniversitesi Tarihi Müzesi, Ankara'nın kalbinde, yaklaşık 140 hektarlık bir alanda yer alan bir kültür ve tarih merkezi. Müzenin konumu, Ankara'nın merkezinde olmasıyla kolayca ulaşılabilir ve şehrin diğer önemli noktalarına da yakındır. Tarih severler ve Ankara'nın geçmişini keşfetmek isteyenler için ideal bir destinasyon olan Ankara Üniversitesi Tarihi Müzesi, ziyaretçilerine zengin bir tarih ve kültür deneyimi sunuyor.
 
 ## Tarihçe
 

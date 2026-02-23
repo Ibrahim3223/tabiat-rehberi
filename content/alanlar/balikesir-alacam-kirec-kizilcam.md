@@ -26,7 +26,7 @@ wikidata_id: "Q108227634"
 
 ## Tarihçe
 
-Balikesir-Alacam-Kirec Kızılçam Milli Parkı, uzun bir tarihçeye sahip. Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor. Parkın kurulmasıyla birlikte, bu doğal alanın korunmasına ve geliştirilmesine önem verilmiş. 1998 yılında milli park olarak ilan edilen bu bölge, o günden bu yana doğa severlerin ve bilim insanlarının ilgisini çekmeyi sürdürüyor. Parkın história, bölgede yapılan arkeolojik kazılar ve araştırmalarla daha da zenginleşmiş. Örneğin, bölgede yapılan bir araştırmada, kızılçam ormanlarının 2000 yıldan fazla bir geçmişe sahip olduğu belirlenmiş. Bu gibi keşifler, parkın önemini bir kez daha vurguluyor.
+Balikesir-Alacam-Kirec Kızılçam Milli Parkı, uzun bir tarihçeye sahip. Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşıyor. Parkın kurulmasıyla birlikte, bu doğal alanın korunmasına ve geliştirilmesine önem verilmiş. 1998 yılında milli park olarak ilan edilen bu bölge, o günden bu yana doğa severlerin ve bilim insanlarının ilgisini çekmeyi sürdürüyor. Parkın tarihi, bölgede yapılan arkeolojik kazılar ve araştırmalarla daha da zenginleşmiş. Örneğin, bölgede yapılan bir araştırmada, kızılçam ormanlarının 2000 yıldan fazla bir geçmişe sahip olduğu belirlenmiş. Bu gibi keşifler, parkın önemini bir kez daha vurguluyor.
 
 ## Coğrafya
 

@@ -1,7 +1,7 @@
 ---
 title: "Tiritzade Şeyh Hüseyin Efendi Türbesi"
 date: "2026-01-10T06:15:08.059Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390666"
 
 # Tiritzade Şeyh Hüseyin Efendi Türbesi
 
-Tiritzade Şeyh Hüseyin Efendi Türbesi, Ankara'nın Altındağ ilçesinde bulunan bir tarihi ve dini yapıdır. Bu türbe, 140 hektarlık bir alan üzerinde kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişiyle dikkat çeken bu türbe, ziyaretçiler için önemli bir ve tarihi merkez olarak kabul edilir. Ankara'nın merkezi bir bölgesinde yer alan Tiritzade Şeyh Hüseyin Efendi Türbesi, şehrin tarihi ve kültürel zenginliklerini deneyimlemek isteyenler için ideal bir destinasyondur.
+Tiritzade Şeyh Hüseyin Efendi Türbesi, Ankara'nın Altındağ ilçesinde bulunan bir tarihi ve dini yapıdır. Tarihi geçmişiyle dikkat çeken bu türbe, ziyaretçiler için önemli bir ve tarihi merkez olarak kabul edilir. Ankara'nın merkezi bir bölgesinde yer alan Tiritzade Şeyh Hüseyin Efendi Türbesi, şehrin tarihi ve kültürel zenginliklerini deneyimlemek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tiritzade Şeyh Hüseyin Efendi Türbesi'nin tarihi geçmişi, Ankara'nın zengi
 
 ## Coğrafya
 
-Tiritzade Şeyh Hüseyin Efendi Türbesi, Ankara'nın coğrafi olarak merkezi bir bölgesinde yer alır. İç Anadolu Bölgesi'nde bulunan bu türbe, Ankara'nın şehir merkezine yakın bir konumda bulunmaktadır. 140 hektarlık bir alanı kaplayan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin coğrafi yapısı, türbenin inşa edildiği dönemde de önemli bir role sahip olmuştur. Türbenin etrafı, tarihi ve kültürel öneme sahip çeşitli yapılar ve anıtlarla çevrilidir. Ankara'nın iklimi, karasal iklim özellikleri gösterir ve türbe, bu iklim koşullarına uygun bir şekilde inşa edilmiştir. Tiritzade Şeyh Hüseyin Efendi Türbesi, Ankara'nın coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir noktadır.
+Tiritzade Şeyh Hüseyin Efendi Türbesi, Ankara'nın coğrafi olarak merkezi bir bölgesinde yer alır. İç Anadolu Bölgesi'nde bulunan bu türbe, Ankara'nın şehir merkezine yakın bir konumda bulunmaktadır. Bölgenin coğrafi yapısı, türbenin inşa edildiği dönemde de önemli bir role sahip olmuştur. Türbenin etrafı, tarihi ve kültürel öneme sahip çeşitli yapılar ve anıtlarla çevrilidir. Ankara'nın iklimi, karasal iklim özellikleri gösterir ve türbe, bu iklim koşullarına uygun bir şekilde inşa edilmiştir. Tiritzade Şeyh Hüseyin Efendi Türbesi, Ankara'nın coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir noktadır.
 
 ## Flora ve Fauna
 

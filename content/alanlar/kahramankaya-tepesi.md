@@ -29,7 +29,7 @@ wikidata_id: "Q31565342"
 
 # Kahramankaya Tepesi
 
-İç Anadolu Bölgesi'nin geniş ve verimli ovalarıyla çevrili olan Kahramankaya Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Kahramankaya Tepesi, aynı zamanda bölgenin önemli bir su kaynağıdır. Tepenin zirvesinden, geniş ovaları ve çevreyi panoramik olarak görme mümkündür. Bu manzara, özellikle gün batımı saatlerinde daha da güzelleşir.
+İç Anadolu Bölgesi'nin geniş ve verimli ovalarıyla çevrili olan Kahramankaya Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Kahramankaya Tepesi, aynı zamanda bölgenin önemli bir su kaynağıdır. Tepenin zirvesinden, geniş ovaları ve çevreyi panoramik olarak görme mümkündür. Bu manzara, özellikle gün batımı saatlerinde daha da güzelleşir.
 
 ## Tarihçe
 

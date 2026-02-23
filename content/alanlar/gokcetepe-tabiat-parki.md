@@ -23,7 +23,7 @@ wikidata_id: "Q65219717"
 
 # Gökçetepe Tabiat Parkı
 
-Gökçetepe Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Parkın coğrafi konumu, ziyaretçilere geniş bir ufuk açısı sunarken, bölgenin flora ve faunasını keşfetme fırsatı sunuyor. Gökçetepe Tabiat Parkı, doğa severler için bir cennet niteliğinde ve her mevsim ziyaretçilerini ağırlamaya hazır.
+Gökçetepe Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Parkın coğrafi konumu, ziyaretçilere geniş bir ufuk açısı sunarken, bölgenin flora ve faunasını keşfetme fırsatı sunuyor. Gökçetepe Tabiat Parkı, doğa severler için bir cennet niteliğinde ve her mevsim ziyaretçilerini ağırlamaya hazır.
 
 ## Tarihçe
 

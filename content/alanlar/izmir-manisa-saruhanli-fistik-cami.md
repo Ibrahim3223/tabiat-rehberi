@@ -1,7 +1,7 @@
 ---
 title: "Izmir-Manisa-Saruhanli Fistik Cami"
 date: "2026-01-09T19:06:18.193Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "İzmir"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228004"
 
 # Izmir-Manisa-Saruhanli Fistik Cami
 
-Izmir-Manisa-Saruhanli Fistik Cami, Ege Bölgesi'nin en önemli doğal ve tarihi alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli çekim noktalarından biri. Fistik Cami'nin tarihi geçmişi, bölgenin kültürel zenginliğini yansıtıyor. Doğal güzellikleri, tarihi yapıları ve zengin fauna ile Fistik Cami, ziyaretçilerini bekliyor.
+Izmir-Manisa-Saruhanli Fistik Cami, Ege Bölgesi'nin en önemli doğal ve tarihi alanlarından biri olarak karşımıza çıkıyor. Fistik Cami'nin tarihi geçmişi, bölgenin kültürel zenginliğini yansıtıyor. Doğal güzellikleri, tarihi yapıları ve zengin fauna ile Fistik Cami, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

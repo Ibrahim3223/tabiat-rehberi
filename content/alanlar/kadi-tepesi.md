@@ -29,7 +29,7 @@ wikidata_id: "Q31391216"
 
 # Kadı Tepesi
 
-Kadı Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Tepenin eteklerinde çeşitli bitki türleri bulunurken, zirvesinden muhteşem bir manzara sunar. Kadı Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine.
+Kadı Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir tepe. Tepenin eteklerinde çeşitli bitki türleri bulunurken, zirvesinden muhteşem bir manzara sunar. Kadı Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 

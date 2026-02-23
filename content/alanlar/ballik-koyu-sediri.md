@@ -22,7 +22,7 @@ wikidata_id: "Q108227363"
 
 # Ballik Koyu Sediri
 
-Ballik Koyu Sediri, İç Anadolu Bölgesi'nin sakin ve doğal güzellikleriyle dolu bir bölgesinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal miraslarından biri olarak kabul edilir. Bu milli park, Sedir ağaçlarının güzelliği ve çevrenin zenginliğiyle dikkat çeker. Ziyaretçiler, bu alanın huzur veren atmosferini keşfetme ve doğal güzelliğini kendi gözleriyle görmek için buraya gelirler. Ballik Koyu Sediri, aynı zamanda bölgede yaşayan çeşitli bitki ve hayvan türleriyle de ünlüdür.
+Ballik Koyu Sediri, İç Anadolu Bölgesi'nin sakin ve doğal güzellikleriyle dolu bir bölgesinde yer alır. Bu milli park, Sedir ağaçlarının güzelliği ve çevrenin zenginliğiyle dikkat çeker. Ziyaretçiler, bu alanın huzur veren atmosferini keşfetme ve doğal güzelliğini kendi gözleriyle görmek için buraya gelirler. Ballik Koyu Sediri, aynı zamanda bölgede yaşayan çeşitli bitki ve hayvan türleriyle de ünlüdür.
 
 ## Tarihçe
 

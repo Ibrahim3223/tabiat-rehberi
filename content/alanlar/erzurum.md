@@ -23,7 +23,7 @@ wikidata_id: "Q108228720"
 
 # ERZURUM
 
-Erzurum milli parkı, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Erzurum'un coğrafi konumu, hem kış sporları hem de doğa yürüyüşleri için ideal bir ortam sağlar. Milli park, ziyaretçilerini farklı mevsimlerde farklı güzelliklerle karşılar. Bahar aylarında çiçeklerin açması, yaz aylarında yeşilin hakim olması, sonbaharda renk cümbüşü ve kış aylarında karın beyaz örtüsü, her mevsim ziyaretçilere benzersiz bir deneyim sunar.
+Erzurum milli parkı, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır. Erzurum'un coğrafi konumu, hem kış sporları hem de doğa yürüyüşleri için ideal bir ortam sağlar. Milli park, ziyaretçilerini farklı mevsimlerde farklı güzelliklerle karşılar. Bahar aylarında çiçeklerin açması, yaz aylarında yeşilin hakim olması, sonbaharda renk cümbüşü ve kış aylarında karın beyaz örtüsü, her mevsim ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Tarihçe
 

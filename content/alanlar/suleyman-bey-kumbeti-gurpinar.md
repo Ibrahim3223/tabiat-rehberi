@@ -29,7 +29,7 @@ wikidata_id: "Q135582820"
 
 # Süleyman Bey Kümbeti, Gürpınar
 
-Süleyman Bey Kümbeti, Gürpınar, Doğu Anadolu Bölgesi'nde yer alan Van ilinin önemli tarihi ve kültürel değerlerinden biri olarak karşımıza çıkıyor. Bu kümbet, yaklaşık 140 hektarlık bir alanda, Gürpınar'ın doğal güzellikleri arasında yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunuyor. Tarihi geçmişi ile önemli bir kültürel miras olarak kabul edilen Süleyman Bey Kümbeti, Gürpınar'da yerli ve yabancı turistlerin ilgisini çekiyor.
+Süleyman Bey Kümbeti, Gürpınar, Doğu Anadolu Bölgesi'nde yer alan Van ilinin önemli tarihi ve kültürel değerlerinden biri olarak karşımıza çıkıyor. Bu kümbet, yaklaşık 140 hektarlık bir alanda, Gürpınar'ın doğal güzellikleri arasında yer alıyor. Tarihi geçmişi ile önemli bir kültürel miras olarak kabul edilen Süleyman Bey Kümbeti, Gürpınar'da yerli ve yabancı turistlerin ilgisini çekiyor.
 
 ## Tarihçe
 

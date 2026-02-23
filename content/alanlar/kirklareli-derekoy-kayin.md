@@ -22,7 +22,7 @@ wikidata_id: "Q108227258"
 
 # Kirklareli-Derekoy Kayin
 
-Kirklareli-Derekoy Kayin Milli Parkı, Marmara Bölgesi'nin en güzel doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğal güzellikleriyle büyülüyor. Kırklareli ilinin Derekoy ilçesinde bulunan bu milli park, hem doğa severlerin hem de turistik gezi sevenlerin favori destinasyonlarından biri haline gelmiş durumda. Derekoy Kayin Milli Parkı, zengin flora ve faunasıyla ziyaretçilerine benzersiz bir deneyim sunuyor.
+Kirklareli-Derekoy Kayin Milli Parkı, Marmara Bölgesi'nin en güzel doğal alanlarından biri olarak dikkat çekiyor. Kırklareli ilinin Derekoy ilçesinde bulunan bu milli park, hem doğa severlerin hem de turistik gezi sevenlerin favori destinasyonlarından biri haline gelmiş durumda. Derekoy Kayin Milli Parkı, zengin flora ve faunasıyla ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kirklareli-Derekoy Kayin Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca
 
 ## Coğrafya
 
-Kirklareli-Derekoy Kayin Milli Parkı, Marmara Bölgesi'nin coğrafi olarak en güzel bölgelerinden biri olan Kırklareli ilinde bulunuyor. Milli park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe olabilme fırsatı sunuyor. Derekoy Kayin Milli Parkı, coğrafi açıdan çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişken. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim koşulları, milli parkın doğal güzelliklerini ve biyolojik çeşitliliğini destekleyici bir ortam sağlıyor.
+Kirklareli-Derekoy Kayin Milli Parkı, Marmara Bölgesi'nin coğrafi olarak en güzel bölgelerinden biri olan Kırklareli ilinde bulunuyor. Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe olabilme fırsatı sunuyor. Derekoy Kayin Milli Parkı, coğrafi açıdan çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişken. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim koşulları, milli parkın doğal güzelliklerini ve biyolojik çeşitliliğini destekleyici bir ortam sağlıyor.
 
 ## Flora ve Fauna
 

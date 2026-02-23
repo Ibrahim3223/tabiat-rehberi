@@ -29,7 +29,7 @@ wikidata_id: "Q135582385"
 
 # Anonim Kümbet Mevlana
 
-Anonim Kümbet Mevlana, Konya'nın Karatay ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Anonim Kümbet Mevlana, ziyaretçilerini hem tarihi zenginliklerle hem de doğal güzelliklerle karşılar. Bu mekan, Konya'nın önemli kültürel miraslarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından keşfedilir. Anonim Kümbet Mevlana, aynı zamanda Mevlana'nın hayatına ve etkilerine dair önemli ipuçlarını barındırır.
+Anonim Kümbet Mevlana, Konya'nın Karatay ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Anonim Kümbet Mevlana, ziyaretçilerini hem tarihi zenginliklerle hem de doğal güzelliklerle karşılar. Bu mekan, Konya'nın önemli kültürel miraslarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından keşfedilir. Anonim Kümbet Mevlana, aynı zamanda Mevlana'nın hayatına ve etkilerine dair önemli ipuçlarını barındırır.
 
 ## Tarihçe
 

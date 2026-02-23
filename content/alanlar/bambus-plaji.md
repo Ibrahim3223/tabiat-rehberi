@@ -29,7 +29,7 @@ wikidata_id: "Q49320110"
 
 # Bambus Plajı
 
-Bambus Plajı, Antalya'nın güneşli ve güzel bir bölgesinde yer alıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu alan içinde birçok ağaç ve bitki türü bulunuyor. Plajın kumsalı uzun ve geniş, güneşin keyfini çıkarırken aynı zamanda denizin serinliğini hissetme mümkün. Bambus Plajı, hem doğa severler hem de deniz aşığı olanlar için ideal bir destinasyon.
+Bambus Plajı, Antalya'nın güneşli ve güzel bir bölgesinde yer alıyor. Plajın kumsalı uzun ve geniş, güneşin keyfini çıkarırken aynı zamanda denizin serinliğini hissetme mümkün. Bambus Plajı, hem doğa severler hem de deniz aşığı olanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Bambus Plajı, yıl boyunca ziyaret edilebilir. Plaja ulaşım, Antalya şehir m
 
 ## İlginç Bilgiler
 
-- Bambus Plajı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip.
 - Plajın kumsalı, ince kumdan oluşuyor.
 - Bambus Plajı, Akdeniz ikliminin karakteristik özelliklerini taşıyor.
 - Plajın etrafında, yüksek dağlar ve yeşil ormanlar bulunuyor.

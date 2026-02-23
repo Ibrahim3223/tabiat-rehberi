@@ -65,6 +65,6 @@ Bozan Dağı, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için idea
 - Bozan Dağı, Erzurum ilinin güneydoğusunda yer alır.
 - Dağın yüksekliği yaklaşık 3150 metredir.
 - Bozan Dağı, Palandöken Dağları'nın bir parçasıdır.
-- Dağın eteklerinde, históri ve kültürel açıdan önemli yerleşim yerleri bulunmaktadır.
+- Dağın eteklerinde, tarihi ve kültürel açıdan önemli yerleşim yerleri bulunmaktadır.
 - Bozan Dağı, kaya ve doğa yürüyüşü gibi outdoor etkinliklere elverişli bir bölgedir.
 - Dağın çevresinde, çeşitli bitki ve hayvan türleri yaşamaktadır.

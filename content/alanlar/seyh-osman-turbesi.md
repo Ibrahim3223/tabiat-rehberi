@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Osman Türbesi"
 date: "2026-01-10T07:10:54.665Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Siirt"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390937"
 
 # Şeyh Osman Türbesi
 
-Şeyh Osman Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Baykan ilçesinde yer alan bir türbedir. Bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde kurulmuştur. Şeyh Osman Türbesi, çevresi ile birlikte yaklaşık 140 hektarlık bir yeşil alanı kapsar. Doğa severler için önemli bir destinasyon olan bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Şeyh Osman Türbesi, tarihin derinliklerinde gizli bir hazine gibi beklemektedir.
+Şeyh Osman Türbesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinin Baykan ilçesinde yer alan bir türbedir. Şeyh Osman Türbesi, çevresi ile birlikte yaklaşık 140 hektarlık bir yeşil alanı kapsar. Doğa severler için önemli bir destinasyon olan bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Şeyh Osman Türbesi, tarihin derinliklerinde gizli bir hazine gibi beklemektedir.
 
 ## Tarihçe
 

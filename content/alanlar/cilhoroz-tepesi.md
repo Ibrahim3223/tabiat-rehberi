@@ -28,7 +28,7 @@ wikidata_id: "Q34819037"
 
 # Çilhoroz Tepesi
 
-Erzincan'ın gözde mekanlarından biri olan Çilhoroz Tepesi, doğa severlerin ve yürüyüş tutkunlarının gözdesi. 140 hektarlık genişliğinde ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan bu tepe, ziyaretçilerini güneşin doğduğu ve battığı anların büyüleyici manzaralarıyla karşılar. Çilhoroz Tepesi, Erzincan'ın tarihi ve kültürel zenginliklerinin yanı sıra, bölgenin coğrafi güzelliklerini de gözler önüne serer. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri bir arada sunar.
+Erzincan'ın gözde mekanlarından biri olan Çilhoroz Tepesi, doğa severlerin ve yürüyüş tutkunlarının gözdesi. Çilhoroz Tepesi, Erzincan'ın tarihi ve kültürel zenginliklerinin yanı sıra, bölgenin coğrafi güzelliklerini de gözler önüne serer. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri bir arada sunar.
 
 ## Tarihçe
 

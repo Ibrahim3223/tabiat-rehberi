@@ -1,7 +1,7 @@
 ---
 title: "Çardaklı Hamamı"
 date: "2026-01-09T22:13:44.089Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q87817716"
 
 # Çardaklı Hamamı
 
-Diyarbakır'ın merkezinde yer alan Çardaklı Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan, şehrin gizli cennetlerinden biri olarak bilinir. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunar. Çardaklı Hamamı, şehrin tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Doğa severler ve tarih meraklıları için ideal bir destinasyon olan bu mekan, hem dinlenmek hem de keşfetmek için harika bir fırsat sunuyor.
+Diyarbakır'ın merkezinde yer alan Çardaklı Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan, şehrin gizli cennetlerinden biri olarak bilinir. Çardaklı Hamamı, şehrin tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Doğa severler ve tarih meraklıları için ideal bir destinasyon olan bu mekan, hem dinlenmek hem de keşfetmek için harika bir fırsat sunuyor.
 
 ## Tarihçe
 

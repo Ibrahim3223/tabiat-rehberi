@@ -28,11 +28,11 @@ wikidata_id: "Q31386444"
 
 # Halfe Tepesi
 
-Halfe Tepesi, Kilis şehrinin güneydoğu kesiminde yer alır ve 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin doğal güzelliklerinin öne çıktığı bir bölgedir. Halfe Tepesi, Kilis'in históri ve kültürel mirasının önemli bir parçasıdır. Tepenin eteklerinde yer alan köyler, geleneksel mimari örnekleri sunar ve bölgenin tarihi geçmişi hakkında bilgi verir. Halfe Tepesi, şehre gelen ziyaretçilerin gezi rotalarında önemli bir yer tutar.
+Halfe Tepesi, Kilis şehrinin güneydoğu kesiminde yer alır ve 140 hektarlık bir alanı kaplar. Halfe Tepesi, Kilis'in tarihi ve kültürel mirasının önemli bir parçasıdır. Tepenin eteklerinde yer alan köyler, geleneksel mimari örnekleri sunar ve bölgenin tarihi geçmişi hakkında bilgi verir. Halfe Tepesi, şehre gelen ziyaretçilerin gezi rotalarında önemli bir yer tutar.
 
 ## Tarihçe
 
-Halfe Tepesi'nin tarihi geçmişi, Kilis şehrinin kuruluşuna kadar uzanır. Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle zengin bir kültürel mirasa sahiptir. Tepenin eteklerinde yer alan tarihi yerleşim yerleri, bölgenin tarihi hakkında önemli bilgiler sunar. Halfe Tepesi, Kilis'in histórik kimliğinin önemli bir parçası olup, şehrin turizm potansiyelini artırır. Tepede yer alan tarihi kalıntılar, bölgenin geçmişini yansıtan önemli yapılardır.
+Halfe Tepesi'nin tarihi geçmişi, Kilis şehrinin kuruluşuna kadar uzanır. Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle zengin bir kültürel mirasa sahiptir. Tepenin eteklerinde yer alan tarihi yerleşim yerleri, bölgenin tarihi hakkında önemli bilgiler sunar. Halfe Tepesi, Kilis'in tarihi kimliğinin önemli bir parçası olup, şehrin turizm potansiyelini artırır. Tepede yer alan tarihi kalıntılar, bölgenin geçmişini yansıtan önemli yapılardır.
 
 ## Coğrafya
 
@@ -40,7 +40,7 @@ Halfe Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. 
 
 ## Flora ve Fauna
 
-Halfe Tepesi, çeşitli bitki türleri ile kaplıdır. Bölgenin flora zenginliği, mevsimsel değişimlere uygun olarak değişir. Tepenin eteklerinde yer alan tarım alanları, bölgenin fauna çeşitliliğini destekler. Halfe Tepesi, Kilis şehrinin ekolojik dengesini korumak açısından önemli bir role sahiptir. Tepenin çevresinde yer alan doğal yaşam alanları, bölgenin biyolojik çeşitliliğini yansıtan önemli alanlardır.
+Halfe Tepesi, çeşitli bitki türleri ile kaplıdır. Bölgenin flora zenginliği, mevsimsel değişimlere uygun olarak değişir. Tepenin eteklerinde yer alan tarım alanları, bölgenin fauna çeşitliliğini destekler. Tepenin çevresinde yer alan doğal yaşam alanları, bölgenin biyolojik çeşitliliğini yansıtan önemli alanlardır.
 
 ## Ziyaret Bilgileri
 

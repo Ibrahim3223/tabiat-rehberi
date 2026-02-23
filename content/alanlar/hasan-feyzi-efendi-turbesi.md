@@ -1,7 +1,7 @@
 ---
 title: "Hasan Feyzi Efendi Türbesi"
 date: "2026-01-10T06:53:20.571Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390768"
 
 # Hasan Feyzi Efendi Türbesi
 
-Pamukkale, Denizli ilinin en önemli turizm merkezlerinden biri olarak bilinir. Bu bölgede bulunan Hasan Feyzi Efendi Türbesi, hem tarihi hem de doğal güzellikleriyle dikkat çeker. 140 hektarlık bir alanda yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Ziyaretçiler, bu türbenin tarihi ve kültürel önemini keşfetmek için gelirler. Ayrıca, türbenin bulunduğu bölge, a güzellikleriyle de ziyaretçilerini etkiler. Denizli'nin merkezi ile Pamukkale arasında bulunan bu türbe, her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+Pamukkale, Denizli ilinin en önemli turizm merkezlerinden biri olarak bilinir. Bu bölgede bulunan Hasan Feyzi Efendi Türbesi, hem tarihi hem de doğal güzellikleriyle dikkat çeker. Ziyaretçiler, bu türbenin tarihi ve kültürel önemini keşfetmek için gelirler. Ayrıca, türbenin bulunduğu bölge, a güzellikleriyle de ziyaretçilerini etkiler. Denizli'nin merkezi ile Pamukkale arasında bulunan bu türbe, her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hasan Feyzi Efendi Türbesi'nin tam olarak ne zaman inşa edildiği bilinmemekle
 
 ## Coğrafya
 
-Hasan Feyzi Efendi Türbesi, Pamukkale'nin merkezinde yer alır. Bu bölge, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak bilinir. Türbenin bulunduğu alan, 140 hektarlık bir araziye sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, doğal güzellikleriyle dikkat çeker. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, Akdeniz iklimi özellikleri gösterir ve yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Türbenin bulunduğu bölge, Pamukkale'nin merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Ziyaretçiler, bu bölgeye kolayca ulaşabilir ve türbenin güzelliklerini keşfedebilir.
+Hasan Feyzi Efendi Türbesi, Pamukkale'nin merkezinde yer alır. Bu bölge, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak bilinir. Bu bölge, doğal güzellikleriyle dikkat çeker. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, Akdeniz iklimi özellikleri gösterir ve yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Türbenin bulunduğu bölge, Pamukkale'nin merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Ziyaretçiler, bu bölgeye kolayca ulaşabilir ve türbenin güzelliklerini keşfedebilir.
 
 ## Flora ve Fauna
 

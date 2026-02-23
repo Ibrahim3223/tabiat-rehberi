@@ -30,7 +30,7 @@ wikidata_id: "Q134728305"
 
 # Kızöldün Tümülüsü
 
-Kızöldün Tümülüsü, Marmara Bölgesi'nin Çanakkale ilinin Biga ilçesinde yer alan bir tarihi alandır. Bu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tarihi geçmişi ile dikkat çeken bu yer, bölgede önemli bir turizm merkezi olarak bilinir. Konumu itibariyle de dikkat çekici olan Kızöldün Tümülüsü, ziyaretçilerini tarihi bir gezintiye davet ediyor. Burada, geçmişin izlerini takip etme ve tarihi bir atmosferi deneyimleme mümkün.
+Kızöldün Tümülüsü, Marmara Bölgesi'nin Çanakkale ilinin Biga ilçesinde yer alan bir tarihi alandır. Tarihi geçmişi ile dikkat çeken bu yer, bölgede önemli bir turizm merkezi olarak bilinir. Konumu itibariyle de dikkat çekici olan Kızöldün Tümülüsü, ziyaretçilerini tarihi bir gezintiye davet ediyor. Burada, geçmişin izlerini takip etme ve tarihi bir atmosferi deneyimleme mümkün.
 
 ## Tarihçe
 

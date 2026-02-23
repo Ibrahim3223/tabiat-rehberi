@@ -28,7 +28,7 @@ wikidata_id: "Q31544918"
 
 # Zeri Tepesi
 
-Zeri Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ve hayvanlar yaşamaktadır. Tepenin eteklerinde bulunan köyler, tarihi önem taşımaktadır. Zeri Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi atmosferi ile bekliyor.
+Zeri Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. Tepenin eteklerinde bulunan köyler, tarihi önem taşımaktadır. Zeri Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi atmosferi ile bekliyor.
 
 ## Tarihçe
 

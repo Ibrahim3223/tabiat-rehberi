@@ -34,7 +34,7 @@ Diyarbakır'ın Bağlar ilçesinde, şehir hayatının koşuşturmasından uzak 
 
 ## Tarihçe
 
-Diyarbakır, tarihin sâu izlerini taşıyan bir bölge. Binlerce yıllık geçmişinde, Hititlerden Osmanlı'ya kadar birçok uygarlık bu topraklarda yaşamıştır. Bölgenin stratejik konumu, ticaret yollarının kesişme noktasında olmasını sağlamıştır. İnsanların bu coğrafyayla ilişkisi, sadece yerleşim ve ticaretyle sınırlı kalmamıştır. Yaylacılık ve hayvancılık, bölgenin ekonomisinin temel taşlarından biri olmuştur.
+Diyarbakır, tarihin derin izlerini taşıyan bir bölge. Binlerce yıllık geçmişinde, Hititlerden Osmanlı'ya kadar birçok uygarlık bu topraklarda yaşamıştır. Bölgenin stratejik konumu, ticaret yollarının kesişme noktasında olmasını sağlamıştır. İnsanların bu coğrafyayla ilişkisi, sadece yerleşim ve ticaretyle sınırlı kalmamıştır. Yaylacılık ve hayvancılık, bölgenin ekonomisinin temel taşlarından biri olmuştur.
 
 Doğal alanlar, Türkiye'nin kültürel ve ekonomik dokusunda önemli bir yer tutmaktadır. Bu tür alanlar, sadece ekolojik dengenin korunması için değil, aynı zamanda insanların doğayla bağını güçlendirmesi açısından da kritik öneme sahiptir. Koşuyolu Parkı da, bu bağlamda Diyarbakır'ın yeşil cenneti olarak öne çıkmaktadır. Bölgenin tarihsel ve kültürel zenginliğini yansıtan bu park, halkın doğayla iç içe olması için önemli bir mekan olarak hizmet vermektedir.
 
@@ -50,11 +50,11 @@ Koşuyolu Parkı, Diyarbakır'ın ekosistem bağlantıları açısından önemli
 
 ## Flora ve Fauna
 
-Koşuyolu Parkı, Diyarbakır'ın kalbinde yer alan 1200 hektarlık bir botanik bahçesi olarak, step bitki örtüsüne özgü çeşitli türleri barındırır. İlkbaharın gelmesiyle birlikte, bu yeşil cennet renklendirici bir şölen sunar; kuraklığa adapte edilmiş çiçekler ve otlar, parkın yüzünü güldürür. 
+Koşuyolu Parkı, Diyarbakır'ın kalbinde yer alan 1200 hektarlık bir botanik bahçesi olarak, step bitki örtüsüne özgü çeşitli türleri barındırır. İlkbaharın gelmesiyle birlikte, bu yeşil cennet renklendirici bir şölen sunar; kuraklığa adapte edilmiş çiçekler ve otlar, parkın yüzünü güldürür.
 
 Yaban hayatı açısından zengin olan bu alan, memeliler ve kuşlar için önemli bir yaşam alanıdır. Özellikle sonbahar aylarında, göçmen kuşlar bu bölgeyi ziyaret eder ve burada konaklar. Sürüngenler de, parkın kurak bölgelerinde yaşamını sürdürür.
 
-Koşuyolu Parkı, bölgenin ekolojik dengesini korumak açısından büyük önem taşır. Bu alan, step ekosisteminin bir parçası olarak, yerel türlerin yaşamını destekler ve korur. Ayrıca, parkın varlığı, bölgedeki su döngüsünü düzenlemede önemli bir rol oynar.
+ Bu alan, step ekosisteminin bir parçası olarak, yerel türlerin yaşamını destekler ve korur. Ayrıca, parkın varlığı, bölgedeki su döngüsünü düzenlemede önemli bir rol oynar.
 
 ## Ziyaret Bilgileri
 

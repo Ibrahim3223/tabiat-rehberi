@@ -51,7 +51,7 @@ Doğal kaynaklar açısından, Bayram Tepe'nin çevresindeki bölge, önemli su 
 
 Bayram Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu dağlık alanda, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği encontruyor.
 
-Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçlarında çiçeklerin renk cümbüşü hakim olurken, sonbaharda kurak otlaklar ve step ekolojisi ön plana çıkıyor. Dağın yüksek bölgelerinde, alpin flora türleri bulunuyor. 
+Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçlarında çiçeklerin renk cümbüşü hakim olurken, sonbaharda kurak otlaklar ve step ekolojisi ön plana çıkıyor. Dağın yüksek bölgelerinde, alpin flora türleri bulunuyor.
 
 Yaban hayatı olarak, memeliler, kuşlar ve sürüngenler bu dağlık alanda yaşamlarını sürdürüyor. Göçmen kuşların sonbaharda buradan geçişi, bölgeyi önemli bir ekolojik nokta haline getiriyor. Ekolojik değer olarak, bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve su döngüsünü korumak açısından son derece önemli.
 

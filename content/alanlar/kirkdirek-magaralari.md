@@ -48,9 +48,9 @@ Kırkdirek Mağaraları, Mardin'in eşsiz doğası içinde yer alan bir bölgedi
 
 ## Flora ve Fauna
 
-Kırkdirek Mağaraları jeoparkı, Mardin'in yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir bölgede yer alır. Bu bölgede, orman ekosisteminin izlerini taşıyan flora ve fauna, ziyaretçilerini cezbeder. 
+Kırkdirek Mağaraları jeoparkı, Mardin'in yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir bölgede yer alır. Bu bölgede, orman ekosisteminin izlerini taşıyan flora ve fauna, ziyaretçilerini cezbeder.
 
-İlkbahar aylarında, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle kaplanır. Step bitkileri ve ova florası, mevsimsel değişimlere uyum sağlar. Sonbaharda, göçmen kuşlar bu bölgeden geçer ve zengin bir fauna çeşitliliği sunar. 
+İlkbahar aylarında, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle kaplanır. Step bitkileri ve ova florası, mevsimsel değişimlere uyum sağlar. Sonbaharda, göçmen kuşlar bu bölgeden geçer ve zengin bir fauna çeşitliliği sunar.
 
 Yaban hayatı, memeliler ve kuşlar ile zenginleştirilir. Bu bölgede, çeşitli sürüngenler de yaşam alanı bulur. Ekolojik değer, bu jeoparkın neden önemli olduğunu gösterir. Koruma durumu, bu doğal alanın geleceğiçin büyük önem taşır.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34879940"
 
 # Morgızlengaç Tepesi
 
-Morgızlengaç Tepesi, Hatay ilinin sınırları içerisinde yer alan ve doğa yürüyüşü yapmak için ideal bir destinasyon olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir doğa harikası. Bu tepe, hem doğa severler hem de macera arayışında olanlar için mükemmel bir yer.
+Morgızlengaç Tepesi, Hatay ilinin sınırları içerisinde yer alan ve doğa yürüyüşü yapmak için ideal bir destinasyon olan bir tepe. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir doğa harikası. Bu tepe, hem doğa severler hem de macera arayışında olanlar için mükemmel bir yer.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Morgızlengaç Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarl
 
 ## Coğrafya
 
-Morgızlengaç Tepesi, Hatay ilinin sınırları içerisinde yer alan bir tepe. Bu tepe, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor ve etrafındaki dağlar ve vadiler ile birlikte, bir doğa harikası oluşturuyor. Bu tepe, 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu tepe, doğu-batı yönünde uzanan bir sırt ile karakterize ediliyor ve bu sırt, tepeye ayrı bir güzellik katıyor. Bu tepe, çevresi ile birlikte, bir doğa koruma alanı olarak kabul ediliyor ve bu nedenle, doğa severler ve bilim insanları tarafından sıkça ziyaret ediliyor. Bu tepe, aynı zamanda, birsu kaynaklarına da ev sahipliği yapıyor ve bu su kaynakları, çevredeki bitki ve hayvan  için çok önemli.
+Morgızlengaç Tepesi, Hatay ilinin sınırları içerisinde yer alan bir tepe. Bu tepe, Akdeniz Bölgesi'nin coğrafi özelliklerini taşıyor ve etrafındaki dağlar ve vadiler ile birlikte, bir doğa harikası oluşturuyor. Bu tepe, doğu-batı yönünde uzanan bir sırt ile karakterize ediliyor ve bu sırt, tepeye ayrı bir güzellik katıyor. Bu tepe, çevresi ile birlikte, bir doğa koruma alanı olarak kabul ediliyor ve bu nedenle, doğa severler ve bilim insanları tarafından sıkça ziyaret ediliyor. Bu tepe, aynı zamanda, birsu kaynaklarına da ev sahipliği yapıyor ve bu su kaynakları, çevredeki bitki ve hayvan  için çok önemli.
 
 ## Flora ve Fauna
 

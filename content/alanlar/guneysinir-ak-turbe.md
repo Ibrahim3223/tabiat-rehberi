@@ -1,7 +1,7 @@
 ---
 title: "Güneysınır Ak Türbe"
 date: "2026-01-10T05:48:44.916Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582350"
 
 # Güneysınır Ak Türbe
 
-Güneysınır'da yer alan Ak Türbe, Konya'nın İç Anadolu Bölgesi'nde bulunan bir plajdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu plaj, ziyaretçilerini doğal güzelliği ile karşılar. Güneşin batışını izlemek için ideal bir noktadır. Plajın etrafında çeşitli bitki türleri bulunur ve ziyaretçiler burada doğayı yakından tanıma fırsatı bulabilirler.
+Güneysınır'da yer alan Ak Türbe, Konya'nın İç Anadolu Bölgesi'nde bulunan bir plajdır. Güneşin batışını izlemek için ideal bir noktadır. Plajın etrafında çeşitli bitki türleri bulunur ve ziyaretçiler burada doğayı yakından tanıma fırsatı bulabilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Güneysınır Ak Türbe'nin tarihi geçmişi hakkında detaylı bilgiler bulunma
 
 ## Coğrafya
 
-Güneysınır Ak Türbe, Konya'nın İç Anadolu Bölgesi'nde yer alır. Plaj, 140 hektarlık bir alana yayılmış olup yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, coğrafi olarak çeşitli bitki türleriyle kaplıdır ve ziyaretçiler burada zengin fauna çeşitliliğiyle karşılaşabilirler. Plajın etrafındaki tepeler ve vadiler, doğal güzelliği ile dikkat çeker. İklim, İç Anadolu Bölgesi'ne özgü karasal iklimdir ve ziyaretçiler mevsimsel değişimlere tanık olabilirler.
+Güneysınır Ak Türbe, Konya'nın İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi olarak çeşitli bitki türleriyle kaplıdır ve ziyaretçiler burada zengin fauna çeşitliliğiyle karşılaşabilirler. Plajın etrafındaki tepeler ve vadiler, doğal güzelliği ile dikkat çeker. İklim, İç Anadolu Bölgesi'ne özgü karasal iklimdir ve ziyaretçiler mevsimsel değişimlere tanık olabilirler.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Güneysınır Ak Türbe'yi ziyaret etmek için en uygun zaman, ilkbahar ve yaz a
 
 ## İlginç Bilgiler
 
-- Güneysınır Ak Türbe, 140 hektarlık bir alana yayılmış olup yaklaşık 200 futbol sahası büyüklüğündedir.
 - Plajın etrafında çeşitli bitki türleri bulunur.
 - Bölge, zengin fauna çeşitliliğiyle dikkat çeker.
 - İklim, İç Anadolu Bölgesi'ne özgü karasal iklimdir.

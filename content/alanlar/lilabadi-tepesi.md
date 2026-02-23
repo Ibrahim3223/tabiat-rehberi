@@ -28,11 +28,11 @@ wikidata_id: "Q31553760"
 
 # Lilabadi Tepesi
 
-Lilabadi Tepesi, Batman'ın merkezinde yer alan ve şehrin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepedir. 140 hektarlık geniş bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu tepenin etrafında çeşitli bitkiler ve ağaçlar yer alıyor. Lilabadi Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde birçok yürüyüş yolu, piknik alanı ve dinlenme yerleri bulunuyor. Bu alanlar, doğayı keşfetme ve şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor.
+Lilabadi Tepesi, Batman'ın merkezinde yer alan ve şehrin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepedir. Bu tepenin etrafında çeşitli bitkiler ve ağaçlar yer alıyor. Lilabadi Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde birçok yürüyüş yolu, piknik alanı ve dinlenme yerleri bulunuyor. Bu alanlar, doğayı keşfetme ve şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor.
 
 ## Tarihçe
 
-Lilabadi Tepesi'nin tarihi geçmişi, şehrin tarihi ile iç içe geçmiş durumda. Bu région, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bölgeye kendi kültürel ve tarihi izini bırakmış. Tepenin okolí, tarihi kalıntılar ve arkeolojik sit alanları ile dolu. Burada, geçmişin izlerini taşıyan birçok eser ve yapı bulunmakta. Lilabadi Tepesi, sadece doğal güzelliği ile değil, aynı zamanda zengin tarihi ve kültürel mirası ile de dikkat çekiyor. Tepenin eteklerinde ve çevresinde yapılan arkeolojik kazılar, bölgenin tarihini daha da derinlemesine aydınlatıyor. Bu kazılar, Lilabadi Tepesi'nin etrafındaki bölgenin, geçmişte önemli bir yerleşim merkezi olduğunu gösteriyor.
+Lilabadi Tepesi'nin tarihi geçmişi, şehrin tarihi ile iç içe geçmiş durumda. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, bölgeye kendi kültürel ve tarihi izini bırakmış. Tepenin okolí, tarihi kalıntılar ve arkeolojik sit alanları ile dolu. Burada, geçmişin izlerini taşıyan birçok eser ve yapı bulunmakta. Lilabadi Tepesi, sadece doğal güzelliği ile değil, aynı zamanda zengin tarihi ve kültürel mirası ile de dikkat çekiyor. Tepenin eteklerinde ve çevresinde yapılan arkeolojik kazılar, bölgenin tarihini daha da derinlemesine aydınlatıyor. Bu kazılar, Lilabadi Tepesi'nin etrafındaki bölgenin, geçmişte önemli bir yerleşim merkezi olduğunu gösteriyor.
 
 ## Coğrafya
 

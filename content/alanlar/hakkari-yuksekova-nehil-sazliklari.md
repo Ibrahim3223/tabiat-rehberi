@@ -22,7 +22,7 @@ wikidata_id: "Q108228930"
 
 # HAKKARİ YÜKSEKOVA NEHİL SAZLIKLARI
 
-Hakkâri'nin Yüksekova ilçesinde yer alan Nehil sazlıkları, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Bu sazlıklar, bölgenin ekolojik dengesinde önemli bir rol oynar ve çeşitli canlı türlerine ev sahipliği yapar. Nehil sazlıklarının etrafı, zengin bitki örtüsüyle kaplıdır ve bu alanda birçok endemik tür bulunur. Sazlıkların büyüklüğü ve çeşitliliği, burayı doğa severler için bir cennet haline getirir.
+ Bu sazlıklar, bölgenin ekolojik dengesinde önemli bir rol oynar ve çeşitli canlı türlerine ev sahipliği yapar. Nehil sazlıklarının etrafı, zengin bitki örtüsüyle kaplıdır ve bu alanda birçok endemik tür bulunur. Sazlıkların büyüklüğü ve çeşitliliği, burayı doğa severler için bir cennet haline getirir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Hakkâri'nin Yüksekova ilçesinde yer alan Nehil sazlıklarını ziyaret etmek,
 
 ## İlginç Bilgiler
 
-- Nehil sazlıkları, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Sazlıklar, yüzyıllar boyunca oluşmuş ve bölgenin ekolojik dengesini sağlamıştır.
 - Nehil sazlıkları, geçmişte bölgede yaşayan halkların yaşam kaynağı olarak kullanılmıştır.
 - Sazlıklar, doğal güzelliği ve ekolojik önemi nedeniyle milli park olarak koruma altına alınmıştır.

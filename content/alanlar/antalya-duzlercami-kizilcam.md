@@ -1,7 +1,7 @@
 ---
 title: "Antalya-Duzlercami Kızılçam"
 date: "2026-01-09T20:35:34.318Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Antalya"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227415"
 
 # Antalya-Duzlercami Kızılçam
 
-Antalya-Duzlercami Kızılçam Milli Parkı, Akdeniz Bölgesi'nin doğal güzellikleri arasında önemli bir yer tutar. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın içinde huzurlu bir atmosfere davet eder. Parkın geniş arazisi, çeşitli bitki türleriyle kaplıdır ve ziyaretçiler, bu doğal güzelliği keşfetme fırsatı bulurlar. Antalya'nın coğrafi konumu, bu milli parkın güzelliğini daha da artırır.
+Antalya-Duzlercami Kızılçam Milli Parkı, Akdeniz Bölgesi'nin doğal güzellikleri arasında önemli bir yer tutar. Parkın geniş arazisi, çeşitli bitki türleriyle kaplıdır ve ziyaretçiler, bu doğal güzelliği keşfetme fırsatı bulurlar. Antalya'nın coğrafi konumu, bu milli parkın güzelliğini daha da artırır.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Antalya-Duzlercami Kızılçam Milli Parkı, ziyaretçilerini doğanın içinde 
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkta, kızılçam ağaçları başta olmak üzere, çeşitli ağaç ve bitki türleri bulunur.
 - Parkın fauna_aspectında, çeşitli hayvan türleri yaşamaktadır.
 - Park, doğa severlerin ziyaret etmesi gereken bir yerdir.

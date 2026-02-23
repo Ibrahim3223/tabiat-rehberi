@@ -51,9 +51,9 @@ Doğal bir süreklilik içinde yer alan Asas Dağı, komşu alanlar ve su kaynak
 
 ## Flora ve Fauna
 
-Asas Dağı, Antalya'nın kıyı ekosisteminin bir parçası olan maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamacında çiçek açan maki türleri, renkli bir görsel şölen sunar. 
+Asas Dağı, Antalya'nın kıyı ekosisteminin bir parçası olan maki bitki örtüsüne ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamacında çiçek açan maki türleri, renkli bir görsel şölen sunar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Kıyı ekosisteminin bir parçası olan dağ, göç eden kuşların önemli bir durağıdır. Sonbaharda, bu kuşlar dağ üzerinden geçer ve bu bölgeyi önemli bir ekolojik nokta haline getirir. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Kıyı ekosisteminin bir parçası olan dağ, göç eden kuşların önemli bir durağıdır. Sonbaharda, bu kuşlar dağ üzerinden geçer ve bu bölgeyi önemli bir ekolojik nokta haline getirir.
 
 Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarının yaşam alanlarını oluşturur. Bu ekosistem, kuraklığa dayanıklı türlerin yaşamasına olanak tanır. Asas Dağı, bu özellikleri ile önemli bir ekolojik değer taşır ve koruma altına alınması gereken bir bölgedir.
 

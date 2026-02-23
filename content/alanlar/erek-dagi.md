@@ -49,9 +49,9 @@ Jeolojik açıdan incelendiğinde, Erek Dağı'nın fiziksel yapısı hakkında 
 
 ## Flora ve Fauna
 
-Erek Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarını renklendiren çiçekler ve baharın sonlarına doğru yeşeren alpin çayırlar görülebilir. 
-Yaban Hayatı bölümünde, dağ keçileri ve kartallar gibi yüksek dağ ekolojisine adapte olmuş canlılar yaşamaktadır. 
+Erek Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarını renklendiren çiçekler ve baharın sonlarına doğru yeşeren alpin çayırlar görülebilir.
+Yaban Hayatı bölümünde, dağ keçileri ve kartallar gibi yüksek dağ ekolojisine adapte olmuş canlılar yaşamaktadır.
 Ekolojik Değer bölümünde, Erek Dağı'nın yüksek dağ ekolojisi ve endemik türler nedeniyle önemli bir koruma alanı olduğu vurgulanmaktadır.
 
 ## Ziyaret Bilgileri

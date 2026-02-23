@@ -28,7 +28,7 @@ wikidata_id: "Q31387693"
 
 # Tav Tepe
 
-Erzurum'un doğusunda yer alan Tav Tepe, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanı ile dikkat çekiyor. Bu tepe, bölgenin coğrafyasını şekillendiren önemli bir nokta. Tav Tepe, Erzurum'un tarihi ve kültürel açıdan zengin bir geçmişe sahip olmasını sağlayan önemli bir yere sahiptir. Tepe, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tav Tepe, ziyaretçiler için hem doğal güzellikleri ile hem de tarihi önemi ile önemli bir destinasyon olmaktadır.
+ Bu tepe, bölgenin coğrafyasını şekillendiren önemli bir nokta. Tav Tepe, Erzurum'un tarihi ve kültürel açıdan zengin bir geçmişe sahip olmasını sağlayan önemli bir yere sahiptir. Tepe, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Tav Tepe, ziyaretçiler için hem doğal güzellikleri ile hem de tarihi önemi ile önemli bir destinasyon olmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tav Tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir
 
 ## Coğrafya
 
-Tav Tepe, Erzurum'un doğusunda yer alıyor. Tepe, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanı ile dikkat çekiyor. Tav Tepe, bölgenin coğrafyasını şekillendiren önemli bir nokta. Tepe, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, tepeye özgü bitki türlerinin yetişmesine olanak sağlıyor. Tav Tepe, ziyaretçiler için hem doğal güzellikleri ile hem de coğrafi yapısı ile önemli bir destinasyon olmaktadır. Tepe, Erzurum'un coğrafi yapısını şekillendiren önemli bir yere sahiptir.
+Tav Tepe, Erzurum'un doğusunda yer alıyor. Tav Tepe, bölgenin coğrafyasını şekillendiren önemli bir nokta. Tepe, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Bölgenin iklimi, tepeye özgü bitki türlerinin yetişmesine olanak sağlıyor. Tav Tepe, ziyaretçiler için hem doğal güzellikleri ile hem de coğrafi yapısı ile önemli bir destinasyon olmaktadır. Tepe, Erzurum'un coğrafi yapısını şekillendiren önemli bir yere sahiptir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Tav Tepe, ziyaretçiler için önemli bir destinasyon. Tepeye, Erzurum'un merkez
 
 ## İlginç Bilgiler
 
-- Tav Tepe, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanı ile dikkat çekiyor.
 - Tepe, çeşitli bitki türleri ile kaplıdır.
 - Tav Tepe, zengin fauna ile dikkat çekiyor.
 - Bölgenin iklimi, tepeye özgü bitki türlerinin yetişmesine olanak sağlıyor.

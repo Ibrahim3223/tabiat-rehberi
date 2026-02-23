@@ -28,7 +28,7 @@ wikidata_id: "Q31390215"
 
 # Kokar Tepesi
 
-Kokar Tepesi, Burdur'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte bir alanı gezerek, doğanın güzelliğini ve çeşitliliğini görme mümkün. Bu tepe, ziyaretçilerine geniş bir manzara sunuyor ve buradaki yürüyüş yolları, doğayı keşfetmek isteyenler için keyifli bir deneyimleyebilir sunuyor. Kokar Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor ve bu nedenle, buraya gelenler, doğal güzellikleri ve canlıları yakından görmek için fırsat buluyorlar.
+Kokar Tepesi, Burdur'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, ziyaretçilerine geniş bir manzara sunuyor ve buradaki yürüyüş yolları, doğayı keşfetmek isteyenler için keyifli bir deneyimleyebilir sunuyor. Kokar Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor ve bu nedenle, buraya gelenler, doğal güzellikleri ve canlıları yakından görmek için fırsat buluyorlar.
 
 ## Tarihçe
 

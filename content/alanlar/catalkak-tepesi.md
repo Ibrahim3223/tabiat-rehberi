@@ -28,7 +28,7 @@ wikidata_id: "Q34824252"
 
 # Çatalkak Tepesi
 
-Gaziantep ilinin sınırları içerisinde yer alan Çatalkak Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan sunuyor. Bu tepe, régionün coğrafi yapısını ve tarihi geçmişini keşfetmek isteyenler için ideal bir destinasyon. Çatalkak Tepesi, ziyaretçilerine bölgeye özgü bitki türleri ve yaban hayatı ile karşılaşma fırsatı sunuyor. Ayrıca, tepeye tırmanarak bölgenin panoramik manzarasını izlemek de mümkün.
+ Bu tepe, bölgeün coğrafi yapısını ve tarihi geçmişini keşfetmek isteyenler için ideal bir destinasyon. Çatalkak Tepesi, ziyaretçilerine bölgeye özgü bitki türleri ve yaban hayatı ile karşılaşma fırsatı sunuyor. Ayrıca, tepeye tırmanarak bölgenin panoramik manzarasını izlemek de mümkün.
 
 ## Tarihçe
 

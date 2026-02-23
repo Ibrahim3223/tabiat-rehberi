@@ -22,7 +22,7 @@ wikidata_id: "Q108227792"
 
 # Istanbul-Demirkoy-Kadinkule Dogu Kayini
 
-İstanbul'un doğal güzelliklerini keşfedin. Marmara Bölgesi'nde yer alan Istanbul-Demirkoy-Kadinkule Dogu Kayini milli parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu eşsiz doğa alanı, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. İstanbul'un merkezine yakın konumuyla, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
+İstanbul'un doğal güzelliklerini keşfedin. Bu eşsiz doğa alanı, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. İstanbul'un merkezine yakın konumuyla, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Istanbul-Demirkoy-Kadinkule Dogu Kayini milli parkını ziyaret etmek, doğayı 
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğanın tüm güzelliğini sunar.
 - Parkın iklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşır.
 - Park, doğa yürüyüşleri, piknik, fotografçılık ve bitki ve hayvan gözlemi için ideal bir yerdir.

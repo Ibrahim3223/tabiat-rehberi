@@ -28,7 +28,7 @@ wikidata_id: "Q31386680"
 
 # Safyolağı Tepesi
 
-Safyolağı Tepesi, Diyarbakır'ın Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ve böylece yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Safyolağı Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu tepe, ziyaretçilerine doğal güzellikleri ve tarihi geçmişi ile birlikte hem eğitim hem de eğlence imkanı sunuyor.
+Safyolağı Tepesi, Diyarbakır'ın Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe. Safyolağı Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu tepe, ziyaretçilerine doğal güzellikleri ve tarihi geçmişi ile birlikte hem eğitim hem de eğlence imkanı sunuyor.
 
 ## Tarihçe
 

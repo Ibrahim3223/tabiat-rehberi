@@ -29,7 +29,7 @@ wikidata_id: "Q31388571"
 
 # Metris Tepesi
 
-Metris Tepesi, Erzurum'un doğusunda yer alan 140 hektarlık bir alanı kaplayan önemli bir doğal alandır. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Metris Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir destinasyon olarak kabul ediliyor. Bu tepe, doğal güzelliği ve zengin flora ve faunası ile dikkat çekiyor. Metris Tepesi'ni ziyaret edenler, bölgenin benzersiz manzaralarına tanık olabilir ve doğa ile iç içe bir gün geçirebilirler. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
+Metris Tepesi, Erzurum'un doğusunda yer alan 140 hektarlık bir alanı kaplayan önemli bir doğal alandır. Metris Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir destinasyon olarak kabul ediliyor. Bu tepe, doğal güzelliği ve zengin flora ve faunası ile dikkat çekiyor. Metris Tepesi'ni ziyaret edenler, bölgenin benzersiz manzaralarına tanık olabilir ve doğa ile iç içe bir gün geçirebilirler. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Metris Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Metris Tepesi, Erzurum'un doğusunda yer alan bir doğal alandır. Bu bölge, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Metris Tepesi, coğrafi olarak dağlık bir bölgeye sahiptir. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçmektedir. Metris Tepesi, flora ve faunası açısından zengin bir bölge olarak kabul ediliyor. Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Metris Tepesi'nin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Bu bölge, trekking, kamp ve doğa yürüyüşü gibi faaliyetler için ideal bir destinasyon olarak kabul ediliyor.
+Metris Tepesi, Erzurum'un doğusunda yer alan bir doğal alandır. Metris Tepesi, coğrafi olarak dağlık bir bölgeye sahiptir. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise serin ve yağışlı geçmektedir. Metris Tepesi, flora ve faunası açısından zengin bir bölge olarak kabul ediliyor. Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor. Metris Tepesi'nin coğrafi konumu, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunuyor. Bu bölge, trekking, kamp ve doğa yürüyüşü gibi faaliyetler için ideal bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Metris Tepesi'ni ziyaret etmek, doğa ile iç içe bir gün geçirmek isteyenler
 ## İlginç Bilgiler
 
 - Metris Tepesi, 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Metris Tepesi, flora ve faunası açısından zengin bir bölge olarak kabul ediliyor.
 - Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor.
 - Metris Tepesi'ne ulaşım, özel araçlar veya toplu taşıma araçları ile sağlanabilir.

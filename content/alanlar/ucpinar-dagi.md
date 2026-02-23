@@ -50,7 +50,7 @@ Doğal güzelliği kadar coğrafi yapısıyla da dikkat çeken Üçpınar Dağı
 
 ## Flora ve Fauna
 
-Üçpınar Dağı, Erzincan'ın yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ eteklerinde çiçekler açar ve alpin çayırlar renklenir. 
+Üçpınar Dağı, Erzincan'ın yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ eteklerinde çiçekler açar ve alpin çayırlar renklenir.
 
 Bitki örtüsünün hakim türleri arasında yüksek dağ ekosisteminin karakteristik bitkileri bulunur. Bu bitkiler, mevsimsel değişimlere uyum sağlamış ve dağın zorlu koşullarına adapte olmuştur. Sonbaharda, dağların yükseklik zonlarındaki bitkiler sararır ve göç eden kuşlar dağları bir geçiş noktası olarak kullanır.
 

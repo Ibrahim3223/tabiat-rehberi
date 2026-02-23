@@ -23,7 +23,7 @@ wikidata_id: "Q108228642"
 
 # ÜNYE
 
-Ünye, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Ünye, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir yer. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki denge, ziyaretçileri etkileyen bir manzara sunar. Ünye'yi ziyaret etmek, doğa ile iç içe bir deneyim sunar ve ziyaretçilere bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı verir.
+Ünye, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Ünye, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir yer. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki denge, ziyaretçileri etkileyen bir manzara sunar. Ünye'yi ziyaret etmek, doğa ile iç içe bir deneyim sunar ve ziyaretçilere bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı verir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ wikidata_id: "Q108228642"
 
 ## Coğrafya
 
-Ünye, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alır. Bu bölge, geniş ova ve dağlık alanlara sahiptir. Ünye, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi konumu itibariyle, Ünye'nin iklimi karasal özellikler gösterir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikleri, Ünye'nin flora ve faunasını da etkiler. Bölgede, çeşitli bitki türleri ve yaban hayvanları bulunur. Ünye, doğal güzellikleri ve coğrafi konumuyla birlikte, ziyaretçilere benzersiz bir deneyim sunar.
+Ünye, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde yer alır. Bu bölge, geniş ova ve dağlık alanlara sahiptir. Coğrafi konumu itibariyle, Ünye'nin iklimi karasal özellikler gösterir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu coğrafi özellikleri, Ünye'nin flora ve faunasını da etkiler. Bölgede, çeşitli bitki türleri ve yaban hayvanları bulunur. Ünye, doğal güzellikleri ve coğrafi konumuyla birlikte, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

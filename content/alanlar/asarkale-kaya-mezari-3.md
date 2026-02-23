@@ -30,7 +30,7 @@ wikidata_id: "Q134728224"
 
 # Asarkale Kaya Mezarı -3
 
-Asarkale Kaya Mezarı -3, Trabzon'un Bafra ilçesinde, İç Anadolu Bölgesi'nin kuzeydoğu ucunda yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanda, çeşitli kaya mezarları ve tarihi kalıntıları ile dikkat çekiyor. Asarkale Kaya Mezarı -3, özellikle kaya mezarlarının farklı mimari stilleri ve histórik değerleri ile ziyaretçilerini büyülüyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu alan, tarihi ve doğal güzelliklerin bir arada sunulduğu ender yerlerden biri.
+Asarkale Kaya Mezarı -3, Trabzon'un Bafra ilçesinde, İç Anadolu Bölgesi'nin kuzeydoğu ucunda yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanda, çeşitli kaya mezarları ve tarihi kalıntıları ile dikkat çekiyor. Asarkale Kaya Mezarı -3, özellikle kaya mezarlarının farklı mimari stilleri ve tarihi değerleri ile ziyaretçilerini büyülüyor. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu alan, tarihi ve doğal güzelliklerin bir arada sunulduğu ender yerlerden biri.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Asarkale Kaya Mezarı -3'ü ziyaret etmek, tarihi ve doğal güzellikleri bir ar
 
 ## İlginç Bilgiler
 
-- Asarkale Kaya Mezarı -3, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
 - Bölgede, çeşitli kaya mezarları ve tarihi kalıntılar bulunuyor.
 - Asarkale Kaya Mezarı -3, yüzyıllar boyunca, çeşitli medeniyetlerin hükümranlığı altında şekillenmiştir.
 - Bölge, coğrafi olarak, İç Anadolu Bölgesi'nin kuzeydoğu ucunda yer alıyor.

@@ -1,7 +1,7 @@
 ---
 title: "Dulkadiroğlu Süleyman Bey Türbesi"
 date: "2026-01-10T05:50:21.926Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582389"
 
 # Dulkadiroğlu Süleyman Bey Türbesi
 
-Dulkadiroğlu Süleyman Bey Türbesi, Kayseri'nin Pınarbaşı ilçesinde yer alan tarihi bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu mekan, Dulkadiroğlu Beyliği'nin önemli figürlerinden biri olan Süleyman Bey'e adanmış. Tarihi geçmişi ve coğrafi konumuyla dikkat çekici bir nokta. Ziyaretçiler, tarihi ve doğal güzellikleri bir arada keşfedebiliyor. Mekan, özellikle ilçe merkezine yakınlığıyla dikkat çekiyor. Konumu itibariyle, ziyaretçilerin kolayca ulaşabileceği bir nokta.
+Dulkadiroğlu Süleyman Bey Türbesi, Kayseri'nin Pınarbaşı ilçesinde yer alan tarihi bir mekan. Bu mekan, Dulkadiroğlu Beyliği'nin önemli figürlerinden biri olan Süleyman Bey'e adanmış. Tarihi geçmişi ve coğrafi konumuyla dikkat çekici bir nokta. Ziyaretçiler, tarihi ve doğal güzellikleri bir arada keşfedebiliyor. Mekan, özellikle ilçe merkezine yakınlığıyla dikkat çekiyor. Konumu itibariyle, ziyaretçilerin kolayca ulaşabileceği bir nokta.
 
 ## Tarihçe
 
@@ -37,20 +37,20 @@ Dulkadiroğlu Süleyman Bey Türbesi'nin tarihi geçmişi, Dulkadiroğlu Beyliğ
 
 ## Coğrafya
 
-Dulkadiroğlu Süleyman Bey Türbesi, Kayseri'nin Pınarbaşı ilçesinde yer alıyor. Coğrafi konumu itibariyle, mekan ilçe merkezine yakınlığıyla dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilere geniş bir görüş açısı ve rahat bir gezinti imkanı sunuyor. Mekan, çevresindeki doğal güzelliklerle de dikkat çekici. İlçe merkezine yakınlığı, ziyaretçilerin kolayca ulaşabileceği bir nokta olmasını sağlıyor. Coğrafi konumu, tarihi geçmişi ve doğal güzellikleri bir araya getiren bir mekan. Ziyaretçiler, bu özellikleri bir arada keşfedebiliyor. Mekan, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor. Bu mevsimlerde, doğanın güzelliği ve históriğin bir araya gelmesi, ziyaretçilere benzersiz bir deneyim sunuyor.
+Dulkadiroğlu Süleyman Bey Türbesi, Kayseri'nin Pınarbaşı ilçesinde yer alıyor. Coğrafi konumu itibariyle, mekan ilçe merkezine yakınlığıyla dikkat çekiyor. Bu alan, ziyaretçilere geniş bir görüş açısı ve rahat bir gezinti imkanı sunuyor. Mekan, çevresindeki doğal güzelliklerle de dikkat çekici. İlçe merkezine yakınlığı, ziyaretçilerin kolayca ulaşabileceği bir nokta olmasını sağlıyor. Coğrafi konumu, tarihi geçmişi ve doğal güzellikleri bir araya getiren bir mekan. Ziyaretçiler, bu özellikleri bir arada keşfedebiliyor. Mekan, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor. Bu mevsimlerde, doğanın güzelliği ve tarihiğin bir araya gelmesi, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
-Dulkadiroğlu Süleyman Bey Türbesi'nin bulunduğu alan, çeşitli bitki türleriyle dikkat çekiyor. Mekan, özellikle ilkbahar aylarında ziyaret ediliyor. Bu mevsimlerde, doğanın güzelliği ve históriğin bir araya gelmesi, ziyaretçilere benzersiz bir deneyim sunuyor. Zengin flora ve fauna, ziyaretçilere doğal bir atmosfer sunuyor. Mekan, özellikle kuş gözlemciliği açısından dikkat çekici. çeşitli kuş türleri, ziyaretçilere doğal bir gösteri sunuyor. Ancak, bu kuş türlerinin tam sayısını belirleme mümkün değil. Mekan, doğa severler için önemli bir nokta.
+Dulkadiroğlu Süleyman Bey Türbesi'nin bulunduğu alan, çeşitli bitki türleriyle dikkat çekiyor. Mekan, özellikle ilkbahar aylarında ziyaret ediliyor. Bu mevsimlerde, doğanın güzelliği ve tarihiğin bir araya gelmesi, ziyaretçilere benzersiz bir deneyim sunuyor. Zengin flora ve fauna, ziyaretçilere doğal bir atmosfer sunuyor. Mekan, özellikle kuş gözlemciliği açısından dikkat çekici. çeşitli kuş türleri, ziyaretçilere doğal bir gösteri sunuyor. Ancak, bu kuş türlerinin tam sayısını belirleme mümkün değil. Mekan, doğa severler için önemli bir nokta.
 
 ## Ziyaret Bilgileri
 
-Dulkadiroğlu Süleyman Bey Türbesi'ni ziyaret etmek, tarihi ve doğal güzellikleri bir arada keşfetmek isteyenler için önemli bir deneyim. Mekan, ilçe merkezine yakınlığıyla dikkat çekici. Ziyaretçiler, kolayca ulaşabileceği bir nokta. Mekan, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor. Bu mevsimlerde, doğanın güzelliği ve históriğin bir araya gelmesi, ziyaretçilere benzersiz bir deneyim sunuyor. Ziyaretçilerin, mekanın tarihi ve kültürel önemini anlamak için rehberlik hizmeti alması öneriliyor.
+Dulkadiroğlu Süleyman Bey Türbesi'ni ziyaret etmek, tarihi ve doğal güzellikleri bir arada keşfetmek isteyenler için önemli bir deneyim. Mekan, ilçe merkezine yakınlığıyla dikkat çekici. Ziyaretçiler, kolayca ulaşabileceği bir nokta. Mekan, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor. Bu mevsimlerde, doğanın güzelliği ve tarihiğin bir araya gelmesi, ziyaretçilere benzersiz bir deneyim sunuyor. Ziyaretçilerin, mekanın tarihi ve kültürel önemini anlamak için rehberlik hizmeti alması öneriliyor.
 
 ## İlginç Bilgiler
 
 - Mekan, Dulkadiroğlu Beyliği'nin önemli figürlerinden biri olan Süleyman Bey'e adanmış.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Mekan, ilçe merkezine yakınlığıyla dikkat çekici.
 - Ziyaretçiler, kolayca ulaşabileceği bir nokta.
 - Mekan, özellikle ilkbahar ve sonbahar aylarında ziyaret ediliyor.

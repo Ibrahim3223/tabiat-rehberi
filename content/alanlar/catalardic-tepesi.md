@@ -28,7 +28,7 @@ wikidata_id: "Q34824217"
 
 # Çatalardıç Tepesi
 
-Karadeniz Bölgesi'nin doğal güzelliklerinden biri olan Çatalardıç Tepesi, Karabük'ilinde yer alır. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kapsar. Çatalardıç Tepesi, ziyaretçilerine eşsiz bir manzara sunar. Doğal güzelliği, flora ve faunası ile dikkat çeker. Bu tepe, doğa severler için ideal bir destinasyon olarak kabul edilir.
+Karadeniz Bölgesi'nin doğal güzelliklerinden biri olan Çatalardıç Tepesi, Karabük'ilinde yer alır. Çatalardıç Tepesi, ziyaretçilerine eşsiz bir manzara sunar. Doğal güzelliği, flora ve faunası ile dikkat çeker. Bu tepe, doğa severler için ideal bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34828605"
 
 # Çatalsay Tepesi
 
-Çatalsay Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak kabul edilen bir coğrafi oluşumdur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Çatalsay Tepesi, ziyaretçilerini doğal güzelliği ve manzarası ile etkileyen bir destinasyondur. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de gözler önüne serer. Çatalsay Tepesi, Yozgat'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir.
+Çatalsay Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak kabul edilen bir coğrafi oluşumdur. Çatalsay Tepesi, ziyaretçilerini doğal güzelliği ve manzarası ile etkileyen bir destinasyondur. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de gözler önüne serer. Çatalsay Tepesi, Yozgat'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34828605"
 
 ## Coğrafya
 
-Çatalsay Tepesi, Yozgat ilinin sınırları içerisinde yer alan bir coğrafi oluşumdur. Bu tepe, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Çatalsay Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Bu tepe, bölgenin coğrafi yapısı ve doğal güzelliği nedeniyle önemli bir destinasyon olarak kabul edilir. Çatalsay Tepesi, ziyaretçilerini doğal güzelliği ve manzarası ile etkileyen bir destinasyondur. Bu tepe, aynı zamanda bölgenin iklimi ve çevresi ile de dikkat çeker. Çatalsay Tepesi, Yozgat'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir. Bu tepe, bölgenin coğrafi yapısı, iklimi ve çevresi ile ilgili bilgileri de gözler önüne serer.
+Çatalsay Tepesi, Yozgat ilinin sınırları içerisinde yer alan bir coğrafi oluşumdur. Bu tepe, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Bu tepe, bölgenin coğrafi yapısı ve doğal güzelliği nedeniyle önemli bir destinasyon olarak kabul edilir. Çatalsay Tepesi, ziyaretçilerini doğal güzelliği ve manzarası ile etkileyen bir destinasyondur. Bu tepe, aynı zamanda bölgenin iklimi ve çevresi ile de dikkat çeker. Çatalsay Tepesi, Yozgat'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir. Bu tepe, bölgenin coğrafi yapısı, iklimi ve çevresi ile ilgili bilgileri de gözler önüne serer.
 
 ## Flora ve Fauna
 

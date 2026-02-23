@@ -28,7 +28,7 @@ wikidata_id: "Q31386261"
 
 # Kısık Tepe
 
-Kısık Tepe, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kısık Tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve zengin fauna ile florası ile dikkat çekiyor. Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilerine benzersiz bir deneyim sunuyor.
+Kısık Tepe, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Kısık Tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor ve zengin fauna ile florası ile dikkat çekiyor. Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor ve ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kısık Tepe, ziyaretçilerine benzersiz bir deneyim sunuyor ve bu bölge, doğa
 ## İlginç Bilgiler
 
 - Kısık Tepe, 140 hektarlık bir alanı kapsıyor.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer.
+
 - Kısık Tepe, Hatay ilinin sınırları içerisinde yer alıyor.
 - Bu bölge, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor.
 - Kısık Tepe, ziyaretçilerine benzersiz bir deneyim sunuyor.

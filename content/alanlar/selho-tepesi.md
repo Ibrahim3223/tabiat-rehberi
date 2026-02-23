@@ -28,7 +28,7 @@ wikidata_id: "Q31552962"
 
 # Selho Tepesi
 
-Selho Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Selho Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunuyor. 70 metrelik yüksekliğiyle, çevreyi panoramik olarak izleme mümkün. Bu tepe, doğa severler için bir cennet olarak göze çarpıyor.
+ Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Selho Tepesi, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfetme fırsatı sunuyor. 70 metrelik yüksekliğiyle, çevreyi panoramik olarak izleme mümkün. Bu tepe, doğa severler için bir cennet olarak göze çarpıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Selho Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Selho Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. İklim, bölgenin coğrafi konumuna göre değişkenlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Selho Tepesi, çevreyi panoramik olarak izlemek için ideal bir nokta. 70 metrelik yüksekliği, ziyaretçilere geniş bir manzara sunuyor. Bu tepe, doğal güzelliği ve coğrafi konumuyla, doğa severler için bir cennet olarak göze çarpıyor.
+Selho Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. İklim, bölgenin coğrafi konumuna göre değişkenlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor. Selho Tepesi, çevreyi panoramik olarak izlemek için ideal bir nokta. 70 metrelik yüksekliği, ziyaretçilere geniş bir manzara sunuyor. Bu tepe, doğal güzelliği ve coğrafi konumuyla, doğa severler için bir cennet olarak göze çarpıyor.
 
 ## Flora ve Fauna
 

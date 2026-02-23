@@ -1,7 +1,7 @@
 ---
 title: "Turgut Alp Türbesi"
 date: "2026-01-10T05:27:59.522Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391362"
 
 # Turgut Alp Türbesi
 
-Turgut Alp Türbesi, İnegöl'ün merkezinde yer alan ve tarihin derin izlerini taşıyan bir kültürel mirastır. Bu önemli tarihi mekan, İnegöl'ün 140 hektarlık yeşil alanının içerisinde, yaklaşık 200 futbol sahası büyüklüğünde bir arazide bulunmaktadır. Turgut Alp Türbesi, ziyaretçilerini tarihin gizemli sayfalarına davet ediyor.
+Turgut Alp Türbesi, İnegöl'ün merkezinde yer alan ve tarihin derin izlerini taşıyan bir kültürel mirastır. Turgut Alp Türbesi, ziyaretçilerini tarihin gizemli sayfalarına davet ediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Turgut Alp Türbesi, tarihin gizemli sayfalarında yer alan önemli bir figürü
 
 ## Coğrafya
 
-Turgut Alp Türbesi, İnegöl'ün merkezinde yer alıyor ve Marmara Bölgesi'nin coğrafi güzelliklerini yansıtıyor. Bu bölge, İnegöl'ün 140 hektarlık yeşil alanının içerisinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir araziyi kapsıyor. İnegöl'ün coğrafi yapısı, ziyaretçilere geniş ve yeşillik bir alan sunuyor. Turgut Alp Türbesi, İnegöl'ün coğrafi güzelliklerinin merkezinde yer alıyor ve ziyaretçilerini tarihin ve doğanın zenginliklerine davet ediyor. İnegöl'ün iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor. Turgut Alp Türbesi, İnegöl'ün coğrafi güzelliklerini keşfetmek isteyen ziyaretçilere ideal bir destinasyon sunuyor.
+Turgut Alp Türbesi, İnegöl'ün merkezinde yer alıyor ve Marmara Bölgesi'nin coğrafi güzelliklerini yansıtıyor. İnegöl'ün coğrafi yapısı, ziyaretçilere geniş ve yeşillik bir alan sunuyor. Turgut Alp Türbesi, İnegöl'ün coğrafi güzelliklerinin merkezinde yer alıyor ve ziyaretçilerini tarihin ve doğanın zenginliklerine davet ediyor. İnegöl'ün iklimi, Marmara Bölgesi'nin genel iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı güzellikler sunuyor. Turgut Alp Türbesi, İnegöl'ün coğrafi güzelliklerini keşfetmek isteyen ziyaretçilere ideal bir destinasyon sunuyor.
 
 ## Flora ve Fauna
 

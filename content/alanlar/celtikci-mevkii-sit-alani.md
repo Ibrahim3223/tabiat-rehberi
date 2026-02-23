@@ -22,7 +22,7 @@ wikidata_id: "Q108226687"
 
 # Çeltikçi Mevkii Sit Alanı
 
-Çeltikçi Mevkii Sit Alanı, İç Anadolu Bölgesi'nin güzide bir bölgesinde, 140 hektarlık bir alanı kapsayan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölge, yaban hayatı ve flora açısından oldukça zengin bir alandır. Çeltikçi Mevkii Sit Alanı, doğa severler için bir cennet olarak kabul edilebilir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu alan, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir role sahiptir. Çeltikçi Mevkii Sit Alanı, ziyaretçilere doğanın güzelliğini ve zenginliğini göstermektedir.
+ Bu bölge, yaban hayatı ve flora açısından oldukça zengin bir alandır. Çeltikçi Mevkii Sit Alanı, doğa severler için bir cennet olarak kabul edilebilir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu alan, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir role sahiptir. Çeltikçi Mevkii Sit Alanı, ziyaretçilere doğanın güzelliğini ve zenginliğini göstermektedir.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ wikidata_id: "Q108226687"
 
 ## Coğrafya
 
-Çeltikçi Mevkii Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu alan, 140 hektarlık bir alanı kapsamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Çeltikçi Mevkii Sit Alanı, coğrafi olarak-flat bir arazi yapısına sahiptir. Bu alan, çevre tarafından kuşatılmış ve yaban hayatı açısından oldukça zengindir. Çeltikçi Mevkii Sit Alanı, iklim olarak İç Anadolu Bölgesi'nin genel iklimine benzemektedir. Bu alan, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklime sahiptir. Çeltikçi Mevkii Sit Alanı, coğrafi konumu ve iklimi ile birlikte, doğa severler için bir cennet olarak kabul edilebilir.
+Çeltikçi Mevkii Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Çeltikçi Mevkii Sit Alanı, coğrafi olarak-flat bir arazi yapısına sahiptir. Bu alan, çevre tarafından kuşatılmış ve yaban hayatı açısından oldukça zengindir. Çeltikçi Mevkii Sit Alanı, iklim olarak İç Anadolu Bölgesi'nin genel iklimine benzemektedir. Bu alan, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklime sahiptir. Çeltikçi Mevkii Sit Alanı, coğrafi konumu ve iklimi ile birlikte, doğa severler için bir cennet olarak kabul edilebilir.
 
 ## Flora ve Fauna
 
-Çeltikçi Mevkii Sit Alanı, flora ve fauna açısından oldukça zengindir. Bu alan, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Çeltikçi Mevkii Sit Alanı, mevsimsel olarak değişen bir ekosisteme sahiptir. Bu alan, ilkbahar ve yaz aylarında, yeşilin tüm tonlarını sunmaktadır. Sonbahar ve kış aylarında ise, bu alan, soğuk ve karlı bir iklime sahiptir. Çeltikçi Mevkii Sit Alanı, doğa severler için bir cennet olarak kabul edilebilir. Bu alan, ziyaretçilere doğanın güzelliğini ve zenginliğini göstermektedir.
+ Bu alan, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Çeltikçi Mevkii Sit Alanı, mevsimsel olarak değişen bir ekosisteme sahiptir. Bu alan, ilkbahar ve yaz aylarında, yeşilin tüm tonlarını sunmaktadır. Sonbahar ve kış aylarında ise, bu alan, soğuk ve karlı bir iklime sahiptir. Çeltikçi Mevkii Sit Alanı, doğa severler için bir cennet olarak kabul edilebilir. Bu alan, ziyaretçilere doğanın güzelliğini ve zenginliğini göstermektedir.
 
 ## Ziyaret Bilgileri
 
@@ -43,7 +43,6 @@ wikidata_id: "Q108226687"
 ## İlginç Bilgiler
 
 - Çeltikçi Mevkii Sit Alanı, 140 hektarlık bir alanı kapsamaktadır.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır.
-- Çeltikçi Mevkii Sit Alanı, flora ve fauna açısından oldukça zengindir.
+
 - Bu alan, doğa severler için bir cennet olarak kabul edilebilir.
 - Çeltikçi Mevkii Sit Alanı, ziyaretçilere doğanın güzelliğini ve zenginliğini göstermektedir.

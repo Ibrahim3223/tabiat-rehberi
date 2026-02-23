@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Derviş Türbesi"
 date: "2026-01-10T05:40:58.944Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391781"
 
 # Şeyh Derviş Türbesi
 
-Şeyh Derviş Türbesi, Yüreğir, Adana'da bulunan ve ziyaretçilerini büyüleyen bir doğal güzelliktir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte 1000 metre uzunluğundadır. Bu alan, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Şeyh Derviş Türbesi, ziyaretçilerine hem doğanın güzelliğini hem de tarihin zenginliğini sunmaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayrıca, bu bölgede yapılan arkeolojik kazılar, tarihin gizemlerini ortaya çıkarmıştır. Şeyh Derviş Türbesi, ziyaretçilerini bekleyen bir hazine olarak görülebilir.
+Şeyh Derviş Türbesi, Yüreğir, Adana'da bulunan ve ziyaretçilerini büyüleyen bir doğal güzelliktir. Bu alan, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Şeyh Derviş Türbesi, ziyaretçilerine hem doğanın güzelliğini hem de tarihin zenginliğini sunmaktadır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayrıca, bu bölgede yapılan arkeolojik kazılar, tarihin gizemlerini ortaya çıkarmıştır. Şeyh Derviş Türbesi, ziyaretçilerini bekleyen bir hazine olarak görülebilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391781"
 
 ## Coğrafya
 
-Şeyh Derviş Türbesi, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Bu bölgede, 140 hektarlık bir yeşil alan bulunmakta ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Çevresi ile birlikte 1000 metre uzunluğundadır. Şeyh Derviş Türbesi, Yüreğir, Adana'da bulunmakta ve bu bölgenin coğrafyası, ziyaretçileri etkilemektedir. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta ve bunlar, ziyaretçilerin ilgisini çekmektedir. Şeyh Derviş Türbesi, Akdeniz Bölgesi'nin iklimine uygun bir şekilde şekillenmiş ve bu bölgede, sıcak ve kurak yazlar, ılık ve yağışlı kışlar yaşanmaktadır. Bu bölgede, çeşitli coğrafi özellikler bulunmakta ve bunlar, ziyaretçilerin ilgisini çekmektedir. Şeyh Derviş Türbesi, ziyaretçilerine hem doğanın güzelliğini hem de coğrafyanın zenginliğini sunmaktadır.
+Şeyh Derviş Türbesi, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilmektedir. Çevresi ile birlikte 1000 metre uzunluğundadır. Şeyh Derviş Türbesi, Yüreğir, Adana'da bulunmakta ve bu bölgenin coğrafyası, ziyaretçileri etkilemektedir. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta ve bunlar, ziyaretçilerin ilgisini çekmektedir. Şeyh Derviş Türbesi, Akdeniz Bölgesi'nin iklimine uygun bir şekilde şekillenmiş ve bu bölgede, sıcak ve kurak yazlar, ılık ve yağışlı kışlar yaşanmaktadır. Bu bölgede, çeşitli coğrafi özellikler bulunmakta ve bunlar, ziyaretçilerin ilgisini çekmektedir. Şeyh Derviş Türbesi, ziyaretçilerine hem doğanın güzelliğini hem de coğrafyanın zenginliğini sunmaktadır.
 
 ## Flora ve Fauna
 

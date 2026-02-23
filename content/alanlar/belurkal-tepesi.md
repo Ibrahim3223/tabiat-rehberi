@@ -28,7 +28,7 @@ wikidata_id: "Q32133688"
 
 # Belürkal Tepesi
 
-Belürkal Tepesi, Elazığ'ın merkezinde, şehrin kalabalığından uzak, sakin bir atmosfere sahip. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Bu doğal güzellikler, ziyaretçilere, şehrin gürültüsünden uzak, sakin bir ortamda doğayı deneyimleme fırsatı sunuyor.
+Belürkal Tepesi, Elazığ'ın merkezinde, şehrin kalabalığından uzak, sakin bir atmosfere sahip. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Bu doğal güzellikler, ziyaretçilere, şehrin gürültüsünden uzak, sakin bir ortamda doğayı deneyimleme fırsatı sunuyor.
 
 ## Tarihçe
 

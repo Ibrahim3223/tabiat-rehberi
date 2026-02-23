@@ -29,7 +29,7 @@ wikidata_id: "Q31390213"
 
 # Kumar Tepesi
 
-Kumar Tepesi, Burdur'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Kumar Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Burdur'un tarihi geçmişi, Kumar Tepesi'nin eteklerinde yer alan antik kentlerle de kendini gösteriyor. Kumar Tepesi, ziyaretçilerini bir zaman yolculuğuna çıkarıyor.
+Kumar Tepesi, Burdur'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Kumar Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Burdur'un tarihi geçmişi, Kumar Tepesi'nin eteklerinde yer alan antik kentlerle de kendini gösteriyor. Kumar Tepesi, ziyaretçilerini bir zaman yolculuğuna çıkarıyor.
 
 ## Tarihçe
 

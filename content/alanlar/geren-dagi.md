@@ -32,7 +32,7 @@ wikidata_id: "Q31540996"
 
 ## Tarihçe
 
-Geren Dağı, Şırnak bölgesinin kalbinde yer alan bir doğal güzellik. Bu bölge, tarihin sâu sayfalarında önemli bir yere sahiptir. Şırnak, çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Tarih boyunca, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorlukların alanında kalan bu bölge, kültürel ve ticari açıdan önemli bir merkez olmuştur.
+Geren Dağı, Şırnak bölgesinin kalbinde yer alan bir doğal güzellik. Bu bölge, tarihin derin sayfalarında önemli bir yere sahiptir. Şırnak, çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Tarih boyunca, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorlukların alanında kalan bu bölge, kültürel ve ticari açıdan önemli bir merkez olmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla, Geren Dağı da bu tarihsel sürecin bir parçasıdır. Türkiye'de, özellikle Doğu ve Güneydoğu Anadolu'da yer alan dağlar ve doğal alanlar, binlerce yıl boyunca insan yerleşimlerinin, ticaret yollarının ve yaylacılığın önemli merkezleri olmuştur. Bu bölgeler, aynı zamanda verschill kültürlerin bir araya geldiği, etkileşimlerin sống yaşandığı yerler olarak tarihe tanıklık etmiştir.
 
@@ -50,11 +50,11 @@ Mevsimsel değişiklikler açısından, Geren Dağı'nın iklimi bölgenin genel
 
 ## Flora ve Fauna
 
-Geren Dağı, Şırnak'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 metre yükseklikte, alpin flora ve dağ hayvanlarının yaşadığı bir cennet olarak karşımıza çıkıyor. 
+Geren Dağı, Şırnak'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 metre yükseklikte, alpin flora ve dağ hayvanlarının yaşadığı bir cennet olarak karşımıza çıkıyor.
 
 Bitki örtüsünü oluşturan step bitkileri ve otsu türler, ilkbaharda rengarenk çiçeklerle kaplanırken, sonbaharda sarı ve kahverengi tonlara dönüşüyor. Dağın yükseklik zonlarında, özel bitkiler ve endemik türler bulunmakla birlikte, bu bitkilerin çoğu mevsimsel değişimlere uyum sağlıyor.
 
-Yaban hayatı açısından zengin olan Geren Dağı, various memeli ve kuş türlerine ev sahipliği yapıyor. Kış mevsiminde, bazı kuş türleri güneye göç ederken, diğerleri dağda kalıyor ve burada bulunan bitkiler ve diğer hayvanlarla beslenerek yaşamını sürdürüyor. Sürüngenler ve diğer küçük hayvanlar da bu dağ ekosisteminin bir parçası olarak, diğer canlılarla etkileşim halinde yaşıyor. 
+Yaban hayatı açısından zengin olan Geren Dağı, various memeli ve kuş türlerine ev sahipliği yapıyor. Kış mevsiminde, bazı kuş türleri güneye göç ederken, diğerleri dağda kalıyor ve burada bulunan bitkiler ve diğer hayvanlarla beslenerek yaşamını sürdürüyor. Sürüngenler ve diğer küçük hayvanlar da bu dağ ekosisteminin bir parçası olarak, diğer canlılarla etkileşim halinde yaşıyor.
 
 Geren Dağı, ekolojik değerini koruma altına almak için önemli bir bölgedir. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin ekolojik dengesi için de son derece önemlidir.
 

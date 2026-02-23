@@ -1,7 +1,7 @@
 ---
 title: "Sahabe-i Kiram Türbesi"
 date: "2026-01-10T07:48:50.067Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391183"
 
 # Sahabe-i Kiram Türbesi
 
-Merzifon'un merkezinde yer alan Sahabe-i Kiram Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu önemli destinasyon, yaklaşık 140 hektarlık bir alanda, Merzifon'un tarihi dokusunu ve doğal zenginliklerini bir araya getirir. Sahabe-i Kiram Türbesi, Merzifon'un en önemli turistik mekânlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Türbenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar ve ziyaretçilere dinlenme ve gezi imkanı sağlar.
+Merzifon'un merkezinde yer alan Sahabe-i Kiram Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu önemli destinasyon, yaklaşık 140 hektarlık bir alanda, Merzifon'un tarihi dokusunu ve doğal zenginliklerini bir araya getirir. Sahabe-i Kiram Türbesi, Merzifon'un en önemli turistik mekânlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sahabe-i Kiram Türbesi, Merzifon'un tarihi geçmişi ile yakından ilgili bir y
 
 ## Coğrafya
 
-Sahabe-i Kiram Türbesi, Merzifon'un merkezinde yer alan bir bölgede bulunmaktadır. Bu bölge, yaklaşık 140 hektarlık bir yeşil alan sunar ve ziyaretçilere dinlenme ve gezi imkanı sağlar. Türbenin bulunduğu alan, Merzifon'un tarihi dokusunu ve doğal zenginliklerini bir araya getirir ve ziyaretçilere şehrin kültürel ve tarihi mirasını tanıtmak için önemli bir fırsat sunar. Sahabe-i Kiram Türbesi, Merzifon'un coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin önemli bir kısmını kapsar ve ziyaretçilere bölgeyi keşfetme imkanı sağlar. Türbenin etrafında, çeşitli histórik yapılar ve doğal güzellikler bulunmaktadır ve ziyaretçilere Merzifon'un tarihi ve kültürel zenginliklerini keşfetme imkanı sunar. Sahabe-i Kiram Türbesi, Merzifon'un coğrafi ve tarihi açıdan önemli bir destinasyon olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
+Sahabe-i Kiram Türbesi, Merzifon'un merkezinde yer alan bir bölgede bulunmaktadır. Bu bölge, yaklaşık 140 hektarlık bir yeşil alan sunar ve ziyaretçilere dinlenme ve gezi imkanı sağlar. Türbenin bulunduğu alan, Merzifon'un tarihi dokusunu ve doğal zenginliklerini bir araya getirir ve ziyaretçilere şehrin kültürel ve tarihi mirasını tanıtmak için önemli bir fırsat sunar. Sahabe-i Kiram Türbesi, Merzifon'un coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin önemli bir kısmını kapsar ve ziyaretçilere bölgeyi keşfetme imkanı sağlar. Türbenin etrafında, çeşitli tarihi yapılar ve doğal güzellikler bulunmaktadır ve ziyaretçilere Merzifon'un tarihi ve kültürel zenginliklerini keşfetme imkanı sunar. Sahabe-i Kiram Türbesi, Merzifon'un coğrafi ve tarihi açıdan önemli bir destinasyon olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Flora ve Fauna
 

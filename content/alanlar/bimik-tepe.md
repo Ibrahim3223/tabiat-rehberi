@@ -50,7 +50,7 @@ Bimik Tepe, Siirt'in diğer doğal güzellikleriyle bir bütün olarak düşün�
 
 ## Flora ve Fauna
 
-Bimik Tepe, Siirt'in yarı kurak ikliminin hakim olduğu bölgesinde, dağ ekosisteminin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İklimin değişimiyle birlikte, mevsimsel değişimler de bu bölgede dikkat çekicidir. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. 
+Bimik Tepe, Siirt'in yarı kurak ikliminin hakim olduğu bölgesinde, dağ ekosisteminin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İklimin değişimiyle birlikte, mevsimsel değişimler de bu bölgede dikkat çekicidir. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır.
 
 Bu dağ ekosisteminde, çeşitli yükseklik zonları farklı bitki topluluklarına ev sahipliği yapar. Step ve ova ekolojisi, bölgenin flora ve faunasını şekillendirmiştir. Dağların yüksek kesimlerinde, alpin flora hakimdir ve bu bölge, birçok endemik bitki türüne ev sahipliği yapar.
 

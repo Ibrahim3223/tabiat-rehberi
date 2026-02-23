@@ -1,7 +1,7 @@
 ---
 title: "İbrahim Çelebi Türbesi"
 date: "2026-01-10T07:16:06.476Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390917"
 
 # İbrahim Çelebi Türbesi
 
-İbrahim Çelebi Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin önemli turistik noktalarından biridir. Tarihi geçmişiyle dikkat çeken bu bölge, hem doğal güzelliği hem de tarihi zenginliğiyle ziyaretçilerini beklemektedir. İbrahim Çelebi Türbesi, Manisa'nın zengin tarihi ve kültürel mirasının önemli bir parçasıdır ve her yıl pek çok ziyaretçi tarafından keşfedilmektedir.
+İbrahim Çelebi Türbesi, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi türbe ve plaj alanıdır. Tarihi geçmişiyle dikkat çeken bu bölge, hem doğal güzelliği hem de tarihi zenginliğiyle ziyaretçilerini beklemektedir. İbrahim Çelebi Türbesi, Manisa'nın zengin tarihi ve kültürel mirasının önemli bir parçasıdır ve her yıl pek çok ziyaretçi tarafından keşfedilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131390917"
 
 ## Coğrafya
 
-İbrahim Çelebi Türbesi, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin merkezi bir konumunda yer almaktadır. Bu bölge, Ege Denizi'nin kıyısında yer alan bir plaj alanıdır ve deniz suyu oldukça temizdir. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunmaktadır. İbrahim Çelebi Türbesi'nin coğrafi konumu, ziyaretçilere Ege Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunmaktadır. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. İbrahim Çelebi Türbesi, Manisa'nın coğrafi güzelliğini ve tarihi zenginliğini bir arada sunan bir destinasyondur.
+İbrahim Çelebi Türbesi, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin merkezi bir konumunda yer almaktadır. Bu bölge, Ege Denizi'nin kıyısında yer alan bir plaj alanıdır ve deniz suyu oldukça temizdir. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. İbrahim Çelebi Türbesi, Manisa'nın coğrafi güzelliğini ve tarihi zenginliğini bir arada sunan bir destinasyondur.
 
 ## Flora ve Fauna
 

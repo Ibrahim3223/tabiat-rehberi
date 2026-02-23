@@ -28,7 +28,7 @@ wikidata_id: "Q31388297"
 
 # Tuzla Tepesi
 
-Tuzla Tepesi, Kars'ın eşsiz doğal güzelliklerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyen bir manzaraya sahiptir. Tepenin eteklerinde çeşitli bitki türleri bulunurken, çevresindeki dağlar ve vadiler bir doğa severin hayalindeki gibi bir ortam sunar. Tuzla Tepesi, hem doğa severler hem de tarihi geçmişe meraklı olanlar için önemli bir destinasyon olarak dikkat çeker.
+Tuzla Tepesi, Kars'ın eşsiz doğal güzelliklerinden biridir. Tepenin eteklerinde çeşitli bitki türleri bulunurken, çevresindeki dağlar ve vadiler bir doğa severin hayalindeki gibi bir ortam sunar. Tuzla Tepesi, hem doğa severler hem de tarihi geçmişe meraklı olanlar için önemli bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 

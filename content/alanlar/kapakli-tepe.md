@@ -48,7 +48,7 @@ Doğal güzellikleri ile dikkat çeken bu bölgenin fiziksel yapısını inceled
 
 ## Flora ve Fauna
 
-Kapaklı Tepe, Bilecik'in dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kapaklı Tepe, Bilecik'in dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, Kapaklı Tepe'nin karma ormanları ve alpin flora, ziyaretçilerini mevsimsel değişimlerin renk cümbüşüne davet ediyor. İlkbaharla birlikte, dağ yamaçları çiçeklerle donanıyor. Sonbaharda ise, göçmen kuşların geçiş rotasına dönüşen bu dağ, canlıların göçünü izlemek için ideal bir gözlem noktası sunuyor.
 

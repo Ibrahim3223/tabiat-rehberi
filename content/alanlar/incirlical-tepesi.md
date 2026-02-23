@@ -28,7 +28,7 @@ wikidata_id: "Q34820802"
 
 # İncirliçal Tepesi
 
-İncirliçal Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kapsıyor ve şehrin merkezine yakın konumuyla dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. İncirliçal Tepesi, Ankara'nın doğal güzelliklerinden biri olarak biliniyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontruluyor. İncirliçal Tepesi, hem doğa severler hem de turistler tarafından sıkça ziyaret ediliyor.
+İncirliçal Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kapsıyor ve şehrin merkezine yakın konumuyla dikkat çekiyor. İncirliçal Tepesi, Ankara'nın doğal güzelliklerinden biri olarak biliniyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontruluyor. İncirliçal Tepesi, hem doğa severler hem de turistler tarafından sıkça ziyaret ediliyor.
 
 ## Tarihçe
 

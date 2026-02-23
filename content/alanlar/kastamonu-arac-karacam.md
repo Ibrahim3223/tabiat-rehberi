@@ -22,7 +22,7 @@ wikidata_id: "Q108227521"
 
 # Kastamonu-Arac Karacam
 
-Kastamonu-Arac Karacam milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleri ile büyülüyor. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna encontruyor. Bu doğal güzellikler, ziyaretçilere doğa ile iç içe bir deneyim sunuyor. Kastamonu-Arac Karacam milli parkı, hem doğa severler hem de turizm açısından önemli bir destinasyon olarak karşımıza çıkıyor.
+Kastamonu-Arac Karacam milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna encontruyor. Bu doğal güzellikler, ziyaretçilere doğa ile iç içe bir deneyim sunuyor. Kastamonu-Arac Karacam milli parkı, hem doğa severler hem de turizm açısından önemli bir destinasyon olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

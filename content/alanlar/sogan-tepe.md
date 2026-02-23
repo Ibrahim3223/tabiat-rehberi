@@ -28,7 +28,7 @@ wikidata_id: "Q31386446"
 
 # Soğan Tepe
 
-Soğan Tepe, Kilis'in merkezine uzun bir mesafe uzaklıkta, Güneydoğu Anadolu Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Bu bölge, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Soğan Tepe, tarihi geçmişi ve coğrafi yapısıyla birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilerine hem eğitim hem de keyif sunuyor.
+Soğan Tepe, Kilis'in merkezine uzun bir mesafe uzaklıkta, Güneydoğu Anadolu Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Soğan Tepe, tarihi geçmişi ve coğrafi yapısıyla birlikte, bir bütün olarak düşünüldüğünde, ziyaretçilerine hem eğitim hem de keyif sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Soğan Tepe'yi ziyaret etmek, doğa ve tarih severler için önemli bir deneyimi
 ## İlginç Bilgiler
 
 - Soğan Tepe, Kilis'in merkezine uzun bir mesafe uzaklıkta bulunuyor.
-- Soğan Tepe, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Soğan Tepe, tarihi geçmişi ve coğrafi güzelliği ile birlikte, bir bütün olarak düşünülüyor.
 - Soğan Tepe, doğa severler ve biyologlar için önemli bir destinasyon olarak biliniyor.
 - Soğan Tepe, ziyaretçilerine hem eğitim hem de keyif sunuyor.

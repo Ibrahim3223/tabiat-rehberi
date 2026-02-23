@@ -28,7 +28,7 @@ wikidata_id: "Q31526301"
 
 # Daz Tepesi
 
-Daz Tepesi, Hatay'ın önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın serin kucağına davet ediyor. Bu tepenin eteklerinde, yüzyılların deneyimini taşıyan tarihi kalıntılar ve zengin fauna, ziyaretçilere unutulmaz bir deneyim vadediyor. Daz Tepesi, aynı zamanda çevresindeki köylerle ve tarihi geçmişiyle de dikkat çekiyor. Ziyaretçiler, bu tepeye tırmanırken, hem fiziksel olarak dinamik bir aktivite gerçekleştiriyor hem de manzaranın güzelliğine şahitlik ediyor.
+Daz Tepesi, Hatay'ın önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepenin eteklerinde, yüzyılların deneyimini taşıyan tarihi kalıntılar ve zengin fauna, ziyaretçilere unutulmaz bir deneyim vadediyor. Daz Tepesi, aynı zamanda çevresindeki köylerle ve tarihi geçmişiyle de dikkat çekiyor. Ziyaretçiler, bu tepeye tırmanırken, hem fiziksel olarak dinamik bir aktivite gerçekleştiriyor hem de manzaranın güzelliğine şahitlik ediyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Daz Tepesi, ziyaretçilerine çeşitli aktivite seçenekleri sunuyor. Bu tepeye 
 ## İlginç Bilgiler
 
 - Daz Tepesi, 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Daz Tepesi, Akdeniz Bölgesi'nin karakteristik iklimine sahip.
 - Bu bölgede, mevsimsel değişimler ziyaretçilere farklı deneyimler sunuyor.
 - Daz Tepesi, doğa severlerin ve fotoğraf tutkunlarının önemli bir destinasyonu olarak karşımıza çıkıyor.

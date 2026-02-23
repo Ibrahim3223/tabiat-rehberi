@@ -1,7 +1,7 @@
 ---
 title: "Kemankeş Kara Mustafa Paşa Türbesi"
 date: "2026-01-10T05:22:24.078Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391743"
 
 # Kemankeş Kara Mustafa Paşa Türbesi
 
-Kemankeş Kara Mustafa Paşa Türbesi, İstanbul'un tarihi ve doğal güzelliklerinin birleştiği bir noktada, Fatih ilçesinde bulunuyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi geçmişinin yanı sıra, çevresindeki doğal güzelliklerle de dikkat çekiyor. Türbenin bulunduğu bölgede, denize girilebilecek plajlar ve tarihi yapılar da ziyaretçileri bekliyor. Kemankeş Kara Mustafa Paşa Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunan özel bir mekan olarak ziyaretçilerini ağırlıyor.
+Kemankeş Kara Mustafa Paşa Türbesi, İstanbul'un tarihi ve doğal güzelliklerinin birleştiği bir noktada, Fatih ilçesinde bulunuyor. Türbenin bulunduğu bölgede, denize girilebilecek plajlar ve tarihi yapılar da ziyaretçileri bekliyor. Kemankeş Kara Mustafa Paşa Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunan özel bir mekan olarak ziyaretçilerini ağırlıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kemankeş Kara Mustafa Paşa Türbesi, Osmanlı dönemi tarihinde önemli bir fi
 
 ## Coğrafya
 
-Kemankeş Kara Mustafa Paşa Türbesi, Marmara Bölgesi'nin en büyük şehri olan İstanbul'da, Fatih ilçesinde yer alıyor. Türbenin bulunduğu bölge, deniz seviyesine yakın ve denize oldukça yakında. Bu coğrafi konum, türbenin ve çevresindeki plajların doğal güzelliğini artırıyor. Bölge, İstanbul Boğazı'na da oldukça yakın ve bu nedenle, ziyaretçiler türbeden sonra boğazın güzelliklerini de keşfedebilirler. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alanla çevrili ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilere hem tarihi türbeyi ziyaret etme hem de doğayla iç içe zaman geçirme imkanı sunuyor. Ayrıca, türbenin yakınlarında çeşitli tarihi yapılar ve yerleşim yerleri de bulunmakta, bu da bölgenin kültürel ve tarihi zenginliğini artırıyor.
+Kemankeş Kara Mustafa Paşa Türbesi, Marmara Bölgesi'nin en büyük şehri olan İstanbul'da, Fatih ilçesinde yer alıyor. Türbenin bulunduğu bölge, deniz seviyesine yakın ve denize oldukça yakında. Bu coğrafi konum, türbenin ve çevresindeki plajların doğal güzelliğini artırıyor. Bölge, İstanbul Boğazı'na da oldukça yakın ve bu nedenle, ziyaretçiler türbeden sonra boğazın güzelliklerini de keşfedebilirler. Bu geniş yeşil alan, ziyaretçilere hem tarihi türbeyi ziyaret etme hem de doğayla iç içe zaman geçirme imkanı sunuyor. Ayrıca, türbenin yakınlarında çeşitli tarihi yapılar ve yerleşim yerleri de bulunmakta, bu da bölgenin kültürel ve tarihi zenginliğini artırıyor.
 
 ## Flora ve Fauna
 

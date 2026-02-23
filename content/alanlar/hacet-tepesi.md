@@ -28,7 +28,7 @@ wikidata_id: "Q31389414"
 
 # Hacet Tepesi
 
-Hacet Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve ziyaretçilerini kendine çeken bir nokta. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan. Hacet Tepesi, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkün. Hacet Tepesi, aynı zamanda manzarası ile de ziyaretçilerini büyülüyor. Bu tepeden, Akdeniz'in mavisi ve Mersin'in yeşil alanlarını izleme mümkün.
+Hacet Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve ziyaretçilerini kendine çeken bir nokta. Hacet Tepesi, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkün. Hacet Tepesi, aynı zamanda manzarası ile de ziyaretçilerini büyülüyor. Bu tepeden, Akdeniz'in mavisi ve Mersin'in yeşil alanlarını izleme mümkün.
 
 ## Tarihçe
 

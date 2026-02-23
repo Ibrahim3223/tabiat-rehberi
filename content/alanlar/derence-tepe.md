@@ -32,7 +32,7 @@ Mardin'in tarihi dokusu içinde yükselen Derence Tepe, şehrin panoramik manzar
 
 ## Tarihçe
 
-Mardin bölgesinin zengin tarihsel dokusunda, Derence Tepe de önemli bir yere sahiptir. Bu bölge, tarihin sâu sayfalarında yer alan uygarlıkların izlerini taşır. Hititler, Asurlular, Persler ve daha birçok medeniyet, Mardin'in topraklarında hüküm sürmüş, her biri bölgenin kültürel ve coğrafi yapısına katkıda bulunmuştur.
+Mardin bölgesinin zengin tarihsel dokusunda, Derence Tepe de önemli bir yere sahiptir. Bu bölge, tarihin derin sayfalarında yer alan uygarlıkların izlerini taşır. Hititler, Asurlular, Persler ve daha birçok medeniyet, Mardin'in topraklarında hüküm sürmüş, her biri bölgenin kültürel ve coğrafi yapısına katkıda bulunmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla, Derence Tepe gibi alanlar, tarihin akışında önemli rol oynamışlardır. Türkiye'de, özellikle güneydoğu bölgesinde, bu tür doğal alanlar, insan yerleşimlerinin ve ticaret yollarının oluşmasında temel unsur olarak görülmüşlerdir. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve sosyal yapısında önemli bir yer tutmuştur.
 

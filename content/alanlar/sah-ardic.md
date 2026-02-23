@@ -22,7 +22,7 @@ wikidata_id: "Q108227172"
 
 # Şah Ardic
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Şah Ardic, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölge, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunar. Şah Ardic, doğa severlerin ve macera arayışında olanların keşfetmeye hazır olduğu bir cennettir. Burası, yaban hayatının zengin çeşitliliğini ve eşsiz flora çeşitlerini barındıran bir doğa mirasıdır.
+ Bu bölge, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunar. Şah Ardic, doğa severlerin ve macera arayışında olanların keşfetmeye hazır olduğu bir cennettir. Burası, yaban hayatının zengin çeşitliliğini ve eşsiz flora çeşitlerini barındıran bir doğa mirasıdır.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ wikidata_id: "Q108227172"
 ## İlginç Bilgiler
 
 - Şah Ardic, 140 hektarlık bir alana sahiptir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Şah Ardic, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumda yer alır.
 - Bu bölgenin iklimi, karasal bir iklimdir.
 - Şah Ardic, çeşitli flora ve fauna türlerine ev sahipliği yapar.

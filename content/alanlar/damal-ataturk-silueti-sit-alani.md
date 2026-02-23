@@ -22,7 +22,7 @@ wikidata_id: "Q108226259"
 
 # Damal Atatürk Silüeti Sit Alanı
 
-Damal Atatürk Silüeti Sit Alanı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olarak khong 140 hektarlık bir alanı kapsar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki doğal güzelliklerle birlikte ziyaretçilerini karşılar. Alanın özel bir özelliği, Atatürk'ün silüetini andıran doğal bir oluşumdur. Bu özellik, sit alanını Türkiye'nin önemli kültürel ve doğal miraslarından biri haline getirir. Ziyaretçiler, bu doğal güzelliği keşfederek hem doğayı hem de kültürel değerleri öğrenme fırsatı bulurlar.
+Damal Atatürk Silüeti Sit Alanı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olarak khong 140 hektarlık bir alanı kapsar. Alanın özel bir özelliği, Atatürk'ün silüetini andıran doğal bir oluşumdur. Bu özellik, sit alanını Türkiye'nin önemli kültürel ve doğal miraslarından biri haline getirir. Ziyaretçiler, bu doğal güzelliği keşfederek hem doğayı hem de kültürel değerleri öğrenme fırsatı bulurlar.
 
 ## Tarihçe
 

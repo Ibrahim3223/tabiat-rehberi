@@ -28,7 +28,7 @@ wikidata_id: "Q34810107"
 
 # Üçerce Tepesi
 
-Üçerce Tepesi, Yozgat'ın içlerinde yükselen bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. İç Anadolu Bölgesi'nin gizli güzelliği olarak kabul edilen Üçerce Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bitkiler, tepeyi bir yeşil örtü ile kaplar. Üçerce Tepesi, aynı zamanda yöre halkının dinlenme ve eğlenme alanı olarak da kullanılır.
+Üçerce Tepesi, Yozgat'ın içlerinde yükselen bir tepe olarak bilinir. İç Anadolu Bölgesi'nin gizli güzelliği olarak kabul edilen Üçerce Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bitkiler, tepeyi bir yeşil örtü ile kaplar. Üçerce Tepesi, aynı zamanda yöre halkının dinlenme ve eğlenme alanı olarak da kullanılır.
 
 ## Tarihçe
 

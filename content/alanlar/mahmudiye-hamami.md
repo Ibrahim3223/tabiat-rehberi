@@ -1,7 +1,7 @@
 ---
 title: "Mahmudiye Hamamı"
 date: "2026-01-09T22:48:23.272Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738661"
 
 # Mahmudiye Hamamı
 
-Mahmudiye Hamamı, Eskişehir'in Mahmudiye ilçesinde bulunan bir doğal güzelliktir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Mahmudiye Hamamı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Burada, geniş otlaklar ve doğal su kaynakları bulunur. Bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir dinlenme ve eğlence alanıdır. Mahmudiye Hamamı'nın etrafı, çeşitli bitki türleri ve zengin faunayla çevrili olup, yaban hayatının canlı örneklerini görebileceğiniz bir yerdir.
+Mahmudiye Hamamı, Eskişehir'in Mahmudiye ilçesinde bulunan bir doğal güzelliktir. Mahmudiye Hamamı, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir alandır. Burada, geniş otlaklar ve doğal su kaynakları bulunur. Bu bölge, hem yerel halk hem de ziyaretçiler için önemli bir dinlenme ve eğlence alanıdır. Mahmudiye Hamamı'nın etrafı, çeşitli bitki türleri ve zengin faunayla çevrili olup, yaban hayatının canlı örneklerini görebileceğiniz bir yerdir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mahmudiye Hamamı'nın tarihi geçmişi, Eskişehir'in tarihi ile bağlantılıd
 
 ## Coğrafya
 
-Mahmudiye Hamamı, Eskişehir'in Mahmudiye ilçesinde bulunur. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Mahmudiye Hamamı'nın etrafı, geniş otlaklar ve doğal su kaynakları ile çevrilidir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Mahmudiye Hamamı'nın coğrafi özellikleri, ziyaretçilerin doğayı yakından tanımalarına olanak sağlar. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Mahmudiye Hamamı, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir yerdir. Bu bölgede, sıcaklık genellikle yüksek olur ve ziyaretçiler, Mahmudiye Hamamı'nın serin sularında serinleyebilirler. Mahmudiye Hamamı'nın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak sağlar. Bu bölge, Eskişehir'in merkezi ile Mahmudiye ilçesi arasında bulunur.
+Mahmudiye Hamamı, Eskişehir'in Mahmudiye ilçesinde bulunur. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Mahmudiye Hamamı'nın etrafı, geniş otlaklar ve doğal su kaynakları ile çevrilidir. Mahmudiye Hamamı'nın coğrafi özellikleri, ziyaretçilerin doğayı yakından tanımalarına olanak sağlar. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Mahmudiye Hamamı, özellikle yaz aylarında ziyaretçilerin tercih ettiği bir yerdir. Bu bölgede, sıcaklık genellikle yüksek olur ve ziyaretçiler, Mahmudiye Hamamı'nın serin sularında serinleyebilirler. Mahmudiye Hamamı'nın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak sağlar. Bu bölge, Eskişehir'in merkezi ile Mahmudiye ilçesi arasında bulunur.
 
 ## Flora ve Fauna
 

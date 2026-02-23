@@ -33,7 +33,7 @@ Aksaray'ın doğal güzelliklerinin arasında yer alan Ekecik Dağı, ziyaretçi
 
 ## Tarihçe
 
-Aksaray bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, binlerce yıllık bir geçmişe sahiptir. Ekecik Dağı da bu tarihsel zenginliğin bir parçası olarak, bölgenin doğal güzelliklerini ortaya koyar.
+Aksaray bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, binlerce yıllık bir geçmişe sahiptir. Ekecik Dağı da bu tarihsel zenginliğin bir parçası olarak, bölgenin doğal güzelliklerini ortaya koyar.
 
 Türkiye'de doğal alanlar, sadece estetik bir değer değil, aynı zamanda tarihsel ve kültürel öneme de sahiptir. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu alanların insanların yaşamıyla derinlemesine bağlantılı olduğunu gösterir. Ekecik Dağı da, bölgedeki insanlarla güçlü bir bağ kurmuş, onların yaşam alışkanlıklarına ve ekonomilerine katkıda bulunmuştur.
 
@@ -51,9 +51,9 @@ Doğal kaynaklar açısından zengin bir bölge olan Ekecik Dağı ve çevresini
 
 ## Flora ve Fauna
 
-Ekecik Dağı, Aksaray'ın step bölgesinde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine sahiptir. Dağın yükseklik zonlarına göre değişen bitki örtüsü, ilkbaharda renkli çiçeklerle donanırken, yaz aylarında kuraklığa adapte türlerin hakim olduğu bir manzara sunar. 
+Ekecik Dağı, Aksaray'ın step bölgesinde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine sahiptir. Dağın yükseklik zonlarına göre değişen bitki örtüsü, ilkbaharda renkli çiçeklerle donanırken, yaz aylarında kuraklığa adapte türlerin hakim olduğu bir manzara sunar.
 
-Bitki örtüsünün hakim türleri arasında bozkır otları ve kuraklığa dayanıklı çalılar bulunur. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle kaplanır ve bu dönemde dağ keçileri ve yaban keçileri bu alanlarda beslenmek için toplanırlar. 
+Bitki örtüsünün hakim türleri arasında bozkır otları ve kuraklığa dayanıklı çalılar bulunur. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle kaplanır ve bu dönemde dağ keçileri ve yaban keçileri bu alanlarda beslenmek için toplanırlar.
 
 Yaban hayatı açısından zengin olan Ekecik Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağların yüksek kesimlerinde, kartallar ve diğer yırtıcı kuşlar yuvalanırken, etrafta sürüngenler ve küçük memeliler yaşam alanı bulur. Sonbaharda, göçmen kuşların uğrak noktası olan bu dağ, ekolojik açıdan önemli bir koridor görevi görür.
 

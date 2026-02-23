@@ -48,7 +48,7 @@ Bölgenin ekosistemi, su kaynakları ve komşu alanlarla olan bağlantıları da
 
 ## Flora ve Fauna
 
-Kalınçorak Dağı, Ordu'nun nemli ikliminin etkisinde kalan bir dağ ekosistemi olarak, gür ormanlar ve yüksek biyoçeşitlilikle dikkat çeker. 
+Kalınçorak Dağı, Ordu'nun nemli ikliminin etkisinde kalan bir dağ ekosistemi olarak, gür ormanlar ve yüksek biyoçeşitlilikle dikkat çeker.
 
 Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, ilkbaharın gelmesiyle birlikte renkli çiçeklerle donanır. Sonbahar mevsiminde, dağ yamaçlarındaki ağaçlar sarı, turuncu ve kırmızı tonlara bürünür. Bu mevsimsel değişim, dağda yaşayan çeşitli bitki türlerinin güzelliğini gösterir.
 

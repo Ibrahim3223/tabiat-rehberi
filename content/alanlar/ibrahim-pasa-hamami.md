@@ -1,7 +1,7 @@
 ---
 title: "İbrahim Paşa Hamamı"
 date: "2026-01-09T22:49:43.820Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738615"
 
 # İbrahim Paşa Hamamı
 
-İbrahim Paşa Hamamı, İstanbul'un tarihi merkezi Fatih'te, Marmara Bölgesi'nin kalbinde yer alan bir plaj ve hamam alanıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihi mimari ve doğal güzelliklerin birleştiği bir ortama davet etmektedir. İbrahim Paşa Hamamı, hem tarihi hem de modern özellikleriyle dikkat çekici bir destinasyon olarak karşımıza çıkmaktadır. Bu eşsiz alan, hem İstanbul'un tarihi geçmişi hem de doğal güzellikleri hakkında bilgi edinmek isteyenler için ideal bir noktadır.
+İbrahim Paşa Hamamı, İstanbul'un tarihi merkezi Fatih'te, Marmara Bölgesi'nin kalbinde yer alan bir plaj ve hamam alanıdır. İbrahim Paşa Hamamı, hem tarihi hem de modern özellikleriyle dikkat çekici bir destinasyon olarak karşımıza çıkmaktadır. Bu eşsiz alan, hem İstanbul'un tarihi geçmişi hem de doğal güzellikleri hakkında bilgi edinmek isteyenler için ideal bir noktadır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Silifke Sadık Dede Türbesi"
 date: "2026-01-10T06:02:44.173Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390500"
 
 # Silifke Sadık Dede Türbesi
 
-Silifke Sadık Dede Türbesi, Mersin'in Silifke ilçesinde yer alan bir tarihi türbe ve plajdır. Bu alan, yaklaşık 140 hektarlık bir alanı kaplar ve Silifke'nin en önemli turistik mekanlarından biridir. Türbe, Sadık Dede adlı bir din alimine adanmıştır. Plaj, Akdeniz'in güzel kumsallarından birini sunar ve deniz severler için ideal bir yerdir. Silifke Sadık Dede Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeder.
+Silifke Sadık Dede Türbesi, Mersin'in Silifke ilçesinde yer alan bir tarihi türbe ve plajdır. Türbe, Sadık Dede adlı bir din alimine adanmıştır. Plaj, Akdeniz'in güzel kumsallarından birini sunar ve deniz severler için ideal bir yerdir. Silifke Sadık Dede Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeder.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Silifke Sadık Dede Türbesi, tarihi geçmişi ile dikkat çeker. Türbe, Sadık
 
 ## Coğrafya
 
-Silifke Sadık Dede Türbesi, Mersin'in Silifke ilçesinde, Akdeniz Bölgesi'nde yer alır. Bu bölge, Türkiye'nin en önemli turizm merkezlerinden biridir. Silifke, doğal güzellikleri, tarihi mekanları ve kültürel zenginliği ile dikkat çeker. Sadık Dede Türbesi ve plajı, Akdeniz'in güzel kumsallarına sahiptir ve deniz suyu, temiz ve berraktır. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, Akdeniz iklimi özellikleri taşır ve yazları sıcak, kışları ılımandır. Silifke Sadık Dede Türbesi, çevresindeki dağlar ve vadiler ile birlikte, ziyaretçilere güzel manzaralar sunar. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir.
+Silifke Sadık Dede Türbesi, Mersin'in Silifke ilçesinde, Akdeniz Bölgesi'nde yer alır. Bu bölge, Türkiye'nin en önemli turizm merkezlerinden biridir. Silifke, doğal güzellikleri, tarihi mekanları ve kültürel zenginliği ile dikkat çeker. Sadık Dede Türbesi ve plajı, Akdeniz'in güzel kumsallarına sahiptir ve deniz suyu, temiz ve berraktır. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, Akdeniz iklimi özellikleri taşır ve yazları sıcak, kışları ılımandır. Silifke Sadık Dede Türbesi, çevresindeki dağlar ve vadiler ile birlikte, ziyaretçilere güzel manzaralar sunar.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Aslan Efendi Türbesi"
 date: "2026-01-10T05:27:51.438Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391660"
 
 # Mustafa Aslan Efendi Türbesi
 
-Marmara Bölgesi'nin güzide illerinden Çanakkale'nin Bayramiç ilçesinde yer alan Mustafa Aslan Efendi Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunan özel bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tarihi geçmişi ile dikkat çeken bu türbe, aynı zamanda çevresindeki doğal güzelliklerle ziyaretçilerine benzersiz bir deneyim vadediyor.
+Marmara Bölgesi'nin güzide illerinden Çanakkale'nin Bayramiç ilçesinde yer alan Mustafa Aslan Efendi Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunan özel bir destinasyondur. Tarihi geçmişi ile dikkat çeken bu türbe, aynı zamanda çevresindeki doğal güzelliklerle ziyaretçilerine benzersiz bir deneyim vadediyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Mustafa Aslan Efendi Türbesi ve çevresi, zengin bir flora ve fauna'ya ev sahip
 
 ## Ziyaret Bilgileri
 
-Mustafa Aslan Efendi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir seçenektir. Türbeye ulaşım, Çanakkale'nin Bayramiç ilçesinden fácil olarak sağlanabilir. Türbe ve çevresini gezerken, ziyaretçiler hem tarihi yapıları inceleyebilir hem de doğal güzellikleri keşfedebilir. İlkbahar ve yaz ayları, ziyaret için en uygun zamanlardır çünkü bu mevsimlerde hava daha güzeldir ve doğa daha renklidır.
+Mustafa Aslan Efendi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri deneyimlemek isteyenler için ideal bir seçenektir. Türbeye ulaşım, Çanakkale'nin Bayramiç ilçesinden kolay olarak sağlanabilir. Türbe ve çevresini gezerken, ziyaretçiler hem tarihi yapıları inceleyebilir hem de doğal güzellikleri keşfedebilir. İlkbahar ve yaz ayları, ziyaret için en uygun zamanlardır çünkü bu mevsimlerde hava daha güzeldir ve doğa daha renklidır.
 
 ## İlginç Bilgiler
 

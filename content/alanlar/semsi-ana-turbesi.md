@@ -1,7 +1,7 @@
 ---
 title: "Şemsi Ana Türbesi"
 date: "2026-01-10T05:11:46.507Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391645"
 
 # Şemsi Ana Türbesi
 
-Şemsi Ana Türbesi, Menteşe, Muğla'da yer alan ve tarihsel açıdan büyük önem taşıyan bir bölgedir. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahiptir ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Şemsi Ana Türbesi, ziyaretçilerini tarih ve doğa ile iç içe bir deneyime davet etmektedir. Türbenin çevresi, çeşitli bitki türleri ile zengin bir flora sunarken, aynı zamanda yaban hayatı ile de karşılaşma mümkün. Bu bölge, hem tarihin izlerini taşıması hem de doğal güzelliği ile ziyaretçilerini cezbetmektedir.
+Şemsi Ana Türbesi, Menteşe, Muğla'da yer alan ve tarihsel açıdan büyük önem taşıyan bir bölgedir. Şemsi Ana Türbesi, ziyaretçilerini tarih ve doğa ile iç içe bir deneyime davet etmektedir. Türbenin çevresi, çeşitli bitki türleri ile zengin bir flora sunarken, aynı zamanda yaban hayatı ile de karşılaşma mümkün. Bu bölge, hem tarihin izlerini taşıması hem de doğal güzelliği ile ziyaretçilerini cezbetmektedir.
 
 ## Tarihçe
 

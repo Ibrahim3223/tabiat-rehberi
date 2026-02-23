@@ -29,7 +29,7 @@ wikidata_id: "Q31390298"
 
 # Kabalak Tepesi
 
-Kabalak Tepesi, Adana ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Bu doğal güzellik, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kabalak Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bu bölge, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker.
+Kabalak Tepesi, Adana ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Kabalak Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bu bölge, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker.
 
 ## Tarihçe
 

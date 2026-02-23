@@ -28,7 +28,7 @@ wikidata_id: "Q31389796"
 
 # Yedidedeler Tepesi
 
-Yedidedeler Tepesi, Bolu'nun en önemli doğal güzelliklerinden biri olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Yedidedeler Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge olarak dikkat çeker. Tepenin yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunar. Bu tepe, doğa severler için ideal bir destinasyon olarak kabul edilir.
+Yedidedeler Tepesi, Bolu'nun en önemli doğal güzelliklerinden biri olarak bilinir. Yedidedeler Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan bir bölge olarak dikkat çeker. Tepenin yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunar. Bu tepe, doğa severler için ideal bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 

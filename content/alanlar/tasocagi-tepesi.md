@@ -28,7 +28,7 @@ wikidata_id: "Q31581352"
 
 # Taşocağı Tepesi
 
-Taşocağı Tepesi, Çorum'un merkezine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Tepenin yüksekliği ve genişliği, çevreyi gözlemlemek için ideal bir nokta oluşturur. Tarihi geçmişi ve coğrafi konumuyla birlikte, Taşocağı Tepesi, doğa severler ve tarih meraklıları için bir çekim merkezidir.
+Taşocağı Tepesi, Çorum'un merkezine yakın bir konumda yer alır ve yaklaşık 140 hektarlık bir alanı kaplar. Tepenin yüksekliği ve genişliği, çevreyi gözlemlemek için ideal bir nokta oluşturur. Tarihi geçmişi ve coğrafi konumuyla birlikte, Taşocağı Tepesi, doğa severler ve tarih meraklıları için bir çekim merkezidir.
 
 ## Tarihçe
 

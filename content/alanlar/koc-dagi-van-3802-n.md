@@ -50,9 +50,9 @@ Bölgenin iklim karakteri, karasal iklim özellikleri göstermektedir. Yaz aylar
 
 Koç Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 38.02 N enleminde yer alan bu dağ, alpin çayırlar ve endemik türlerle dolu bir yaşam alanı sunuyor.
 
-Bitki Örtüsü bölümünde, ilkbaharda dağ eteklerinde açan çiçekler ve yazın yeşeren otlaklar göze çarpıyor. Alpin flora, dağların yükseklik zonlarına adapte olmuş özel bitkilerden oluşuyor. 
+Bitki Örtüsü bölümünde, ilkbaharda dağ eteklerinde açan çiçekler ve yazın yeşeren otlaklar göze çarpıyor. Alpin flora, dağların yükseklik zonlarına adapte olmuş özel bitkilerden oluşuyor.
 
-Yaban Hayatı açısından, dağ keçileri, yaban keçileri ve ayılar gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu dağlarda yaşamlarını sürdürüyor. 
+Yaban Hayatı açısından, dağ keçileri, yaban keçileri ve ayılar gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu dağlarda yaşamlarını sürdürüyor.
 
 Ekolojik Değer bakımından, Koç Dağı yüksek dağ ekolojisini koruma altına almak için önemli bir alan. Bu bölge, çeşitli türlerin yaşam alanı ve göç yolları için kritik bir rol oynuyor.
 

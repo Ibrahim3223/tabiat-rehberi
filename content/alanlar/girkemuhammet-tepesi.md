@@ -36,20 +36,20 @@ Girkemuhammet Tepesi, yüzyıllar boyunca önemli bir yerleşim yeri olarak kabu
 
 ## Coğrafya
 
-Girkemuhammet Tepesi, Diyarbakır'ın coğrafi yapısını yansıtan bir nokta. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri ile örtüşüyor. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde. Girkemuhammet Tepesi, Diyarbakır'ın coğrafi yapısını ve doğal güzelliklerini yansıtıyor. Bu tepe, ziyaretçilerine, bölgenin coğrafi özelliklerini keşfetme fırsatı sunuyor. Tepenin iklimi, bölgenin genel iklimine uygun olarak sıcak ve kurak. Bu tepe, ziyaretçilerine, bölgenin coğrafi ve iklimsel özelliklerini keşfetme fırsatı sunuyor.
+Girkemuhammet Tepesi, Diyarbakır'ın coğrafi yapısını yansıtan bir nokta. Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri ile örtüşüyor. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunuyor. Girkemuhammet Tepesi, Diyarbakır'ın coğrafi yapısını ve doğal güzelliklerini yansıtıyor. Bu tepe, ziyaretçilerine, bölgenin coğrafi özelliklerini keşfetme fırsatı sunuyor. Tepenin iklimi, bölgenin genel iklimine uygun olarak sıcak ve kurak. Bu tepe, ziyaretçilerine, bölgenin coğrafi ve iklimsel özelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
-Girkemuhammet Tepesi, çeşitli flora ve fauna türlerine ev sahipliği yapıyor. Bu tepe, ziyaretçilerine, bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Tepenin etrafında, verschill bitki türleri ve hayvanlar bulunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde. Girkemuhammet Tepesi, Diyarbakır'ın flora ve faunasını yansıtıyor. Bu tepe, ziyaretçilerine, bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Tepenin flora ve faunası, mevsimsel değişimlere göre değişiyor. Bu tepe, ziyaretçilerine, bölgenin flora ve faunasını keşfetme fırsatı sunuyor.
+Girkemuhammet Tepesi, çeşitli flora ve fauna türlerine ev sahipliği yapıyor. Bu tepe, ziyaretçilerine, bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Tepenin etrafında, verschill bitki türleri ve hayvanlar bulunuyor. Girkemuhammet Tepesi, Diyarbakır'ın flora ve faunasını yansıtıyor. Bu tepe, ziyaretçilerine, bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Tepenin flora ve faunası, mevsimsel değişimlere göre değişiyor. Bu tepe, ziyaretçilerine, bölgenin flora ve faunasını keşfetme fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 
-Girkemuhammet Tepesi, ziyaretçilerine, hem dinlenme hem de keşif imkanı sunuyor. Bu tepe, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Ziyaretçiler, bu tepeye çıktıklarında, bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı buluyorlar. Girkemuhammet Tepesi, ziyaretçilerine, bölgenin coğrafi ve iklimsel özelliklerini keşfetme fırsatı sunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde. Ziyaretçiler, bu tepeye gelirken, bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı buluyorlar.
+Girkemuhammet Tepesi, ziyaretçilerine, hem dinlenme hem de keşif imkanı sunuyor. Bu tepe, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Ziyaretçiler, bu tepeye çıktıklarında, bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı buluyorlar. Girkemuhammet Tepesi, ziyaretçilerine, bölgenin coğrafi ve iklimsel özelliklerini keşfetme fırsatı sunuyor. Ziyaretçiler, bu tepeye gelirken, bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı buluyorlar.
 
 ## İlginç Bilgiler
 
 - Girkemuhammet Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde.
+
 - Girkemuhammet Tepesi, ziyaretçilerine, hem dinlenme hem de keşif imkanı sunuyor.
 - Bu tepe, Diyarbakır'ın coğrafi yapısını ve doğal güzelliklerini yansıtıyor.
 - Girkemuhammet Tepesi, çeşitli flora ve fauna türlerine ev sahipliği yapıyor.

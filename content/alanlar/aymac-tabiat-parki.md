@@ -21,7 +21,7 @@ schema_type: "TouristAttraction"
 
 # Aymaç Tabiat Parkı
 
-Aymaç Tabiat Parkı, Giresun'un doğal güzelliklerinin sergilendiği bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini Karadeniz Bölgesi'nin eşsiz manzaralarıyla baş başa bırakıyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe bir deneyim yaşamasını sağlıyor. Aymaç Tabiat Parkı, hem doğa severlerin hem de fotoğraf tutkunlarının görmesi gereken bir yer olarak öne çıkıyor.
+Aymaç Tabiat Parkı, Giresun'un doğal güzelliklerinin sergilendiği bir alan olarak dikkat çekiyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe bir deneyim yaşamasını sağlıyor. Aymaç Tabiat Parkı, hem doğa severlerin hem de fotoğraf tutkunlarının görmesi gereken bir yer olarak öne çıkıyor.
 
 ## Tarihçe
 

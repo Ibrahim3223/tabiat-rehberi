@@ -28,7 +28,7 @@ wikidata_id: "Q31388434"
 
 # Deliktaşdağı Tepesi
 
-Erzurum'un görkemli dağ silueti arasında yer alan Deliktaşdağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yükselti bakımından önemli bir coğrafya oluşumudur. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve ziyaretçilerini doğanın mucizeleriyle baş başa bırakır. Deliktaşdağı Tepesi, özellikle doğa severler ve trekking tutkunları için bir çekim merkezi olarak bilinir.
+Erzurum'un görkemli dağ silueti arasında yer alan Deliktaşdağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yükselti bakımından önemli bir coğrafya oluşumudur. Deliktaşdağı Tepesi, özellikle doğa severler ve trekking tutkunları için bir çekim merkezi olarak bilinir.
 
 ## Tarihçe
 

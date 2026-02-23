@@ -28,7 +28,7 @@ wikidata_id: "Q32210970"
 
 # Küçükger
 
-Hatay ilinin güzide noktalarından biri olan Küçükger, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilerini doğayla baş başa bırakmak için ideal bir konum sunuyor. Küçükger, ziyaretçilerine geniş bir doğa deneyimi sunuyor ve Hatay'ın önemli noktalarından biri olarak dikkat çekiyor.
+ Bu geniş yeşil alan, ziyaretçilerini doğayla baş başa bırakmak için ideal bir konum sunuyor. Küçükger, ziyaretçilerine geniş bir doğa deneyimi sunuyor ve Hatay'ın önemli noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Küçükger'in tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin iz
 
 ## Coğrafya
 
-Küçükger, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Küçükger'in coğrafi konumu, ziyaretçilerine geniş bir doğa deneyimi sunmak için ideal. Bu bölge, Hatay'ın coğrafi çeşitliliğinin bir parçası olarak görülüyor ve ziyaretçilerine farklı bir doğa deneyimi sunuyor. Küçükger'in çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölge, doğa severlerin ziyaret etmesi gereken önemli bir nokta olarak dikkat çekiyor.
+Küçükger, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Küçükger'in coğrafi konumu, ziyaretçilerine geniş bir doğa deneyimi sunmak için ideal. Bu bölge, Hatay'ın coğrafi çeşitliliğinin bir parçası olarak görülüyor ve ziyaretçilerine farklı bir doğa deneyimi sunuyor. Küçükger'in çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölge, doğa severlerin ziyaret etmesi gereken önemli bir nokta olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

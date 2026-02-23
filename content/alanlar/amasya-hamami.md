@@ -1,7 +1,7 @@
 ---
 title: "Amasya Hamamı"
 date: "2026-01-09T23:33:36.062Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739101"
 
 # Amasya Hamamı
 
-Amasya Hamamı, Aydın'ın Bozdoğan ilçesinde yer alan, Ege Bölgesi'nin saklı kumsallarından biri olarak bilinir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Denize girme imkânı sunan bu plaj, hem yerel halk hem de bölgeyi ziyaret edenler için keyifli anlar sunar. Doğal güzellikleri ve sakin atmosferi ile dikkat çeker.
+Amasya Hamamı, Aydın'ın Bozdoğan ilçesinde yer alan, Ege Bölgesi'nin saklı kumsallarından biri olarak bilinir. Denize girme imkânı sunan bu plaj, hem yerel halk hem de bölgeyi ziyaret edenler için keyifli anlar sunar. Doğal güzellikleri ve sakin atmosferi ile dikkat çeker.
 
 ## Tarihçe
 

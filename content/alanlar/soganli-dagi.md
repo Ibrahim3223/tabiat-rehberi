@@ -48,11 +48,11 @@ Soğanlı Dağı, çevresindeki diğer coğrafi oluşumlarla bağlantılı olara
 
 ## Flora ve Fauna
 
-Soğanlı Dağı, Erzincan'da yer alan bir yüksek dağ ekosistemi olarak, alpin çayırlar ve endemik türlerle zengin bir flora ve fauna sunar. 
+Soğanlı Dağı, Erzincan'da yer alan bir yüksek dağ ekosistemi olarak, alpin çayırlar ve endemik türlerle zengin bir flora ve fauna sunar.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarını kaplayan çeşitli çiçekler ve otsu bitkiler görülebilir. Bu mevsimsel değişim, dağın yükseklik zonlarına bağlı olarak farklılık gösterir. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarını kaplayan çeşitli çiçekler ve otsu bitkiler görülebilir. Bu mevsimsel değişim, dağın yükseklik zonlarına bağlı olarak farklılık gösterir.
 
-Yaban Hayatı bölümünde, memeliler ve kuşlar gibi çeşitli hayvan türleri, dağın farklı yükseklik zonlarında yaşamlarını sürdürürler. Bu hayvanlar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve bitkilerle ekolojik ilişkiler içinde yaşarlar. 
+Yaban Hayatı bölümünde, memeliler ve kuşlar gibi çeşitli hayvan türleri, dağın farklı yükseklik zonlarında yaşamlarını sürdürürler. Bu hayvanlar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve bitkilerle ekolojik ilişkiler içinde yaşarlar.
 
 Soğanlı Dağı'nın Ekolojik Değerinin yüksek olmasınını, yüksek dağ ekolojisi ve alpin çayırların bir arada bulunmasıdır. Bu durum, dağın korunmasına yönelik önlemlerin alınmasını gerektirir.
 

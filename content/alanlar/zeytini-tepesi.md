@@ -28,7 +28,7 @@ wikidata_id: "Q31548703"
 
 # Zeytini Tepesi
 
-Zeytini Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Siirt'te yer alır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ile kaplıdır. Tepenin eteklerinde akan dereler ve çevre köyler, bu bölgeyi ziyaret etmek için birçok neden sunar. Zeytini Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekici bir destinasyondur.
+Zeytini Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Siirt'te yer alır. Tepenin eteklerinde akan dereler ve çevre köyler, bu bölgeyi ziyaret etmek için birçok neden sunar. Zeytini Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekici bir destinasyondur.
 
 ## Tarihçe
 

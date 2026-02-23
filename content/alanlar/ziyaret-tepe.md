@@ -29,11 +29,11 @@ wikidata_id: "Q31552746"
 
 # Ziyaret Tepe
 
-Mardin'in tarihi dokusu içinde yer alan Ziyaret Tepe, ziyaretçilerini tarihin sâuıklarına davet ediyor. Bu tepe, Mardin ilinin gözde noktalarından biri olarak dikkat çekiyor. Mardin'in zengin kültürel mirasının bir parçası olan Ziyaret Tepe, şehrin tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta. Ziyaret Tepe, Mardin'in eşsiz manzaralarını sunarken, aynı zamanda şehrin tarihi geçmişine de ışık tutuyor.
+Mardin'in tarihi dokusu içinde yer alan Ziyaret Tepe, ziyaretçilerini tarihin derinıklarına davet ediyor. Bu tepe, Mardin ilinin gözde noktalarından biri olarak dikkat çekiyor. Mardin'in zengin kültürel mirasının bir parçası olan Ziyaret Tepe, şehrin tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta. Ziyaret Tepe, Mardin'in eşsiz manzaralarını sunarken, aynı zamanda şehrin tarihi geçmişine de ışık tutuyor.
 
 ## Tarihçe
 
-Mardin'in históriki zenginliği, Ziyaret Tepe'nin eteklerinde de hissedilir. Bu bölgede, tarihin sâu izleri, Sümerlerden başlayarak, Asurlular, Persler, Romalılar ve Osmanlılar gibi uygarlıkların geçişine tanıklık etmiştir. Mardin, tarihsel ticaret yollarının kesişme noktasında yer alır ve bu nedenle, çeşitli kültürlerin etkisi altında kalmıştır.
+Mardin'in tarihi zenginliği, Ziyaret Tepe'nin eteklerinde de hissedilir. Bu bölgede, tarihin derin izleri, Sümerlerden başlayarak, Asurlular, Persler, Romalılar ve Osmanlılar gibi uygarlıkların geçişine tanıklık etmiştir. Mardin, tarihsel ticaret yollarının kesişme noktasında yer alır ve bu nedenle, çeşitli kültürlerin etkisi altında kalmıştır.
 
 Doğal alanlar gibi Ziyaret Tepe, Türkiye'nin tarihi ve kültürel mirasının önemli bir parçasıdır. Bu tür alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sunmuş, yaylacılık, hayvancılık ve tarım gibi faaliyetlere ev sahipliği yapmışlardır. Ayrıca, tarihi ticaret yollarının güzergahında yer alan bu alanlar, farklı uygarlıkların etkileşimine tanıklık etmiş ve kültürel değişimlere katkıda bulunmuşlardır.
 

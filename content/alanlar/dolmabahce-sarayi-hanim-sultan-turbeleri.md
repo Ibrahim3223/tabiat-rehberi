@@ -1,7 +1,7 @@
 ---
 title: "Dolmabahçe Sarayı Hanım Sultan Türbeleri"
 date: "2026-01-10T06:31:09.649Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391804"
 
 # Dolmabahçe Sarayı Hanım Sultan Türbeleri
 
-Dolmabahçe Sarayı Hanım Sultan Türbeleri, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir mekan. Bu alan, yaklaşık 140 hektarlık bir yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. İstanbul'un önemli turistik yerlerinden biri olan bu mekan, Marmara Bölgesi'nin coğrafi güzelliklerini sunuyor. Hanım Sultan Türbeleri, tarihi geçmişinin yanı sıra, ziyaretçilerine geniş yeşil alanlar ve tarihi yapılar sunuyor. Bu mekan, hem tarihi hem de doğal güzellikleri bir arada sunuyor.
+Dolmabahçe Sarayı Hanım Sultan Türbeleri, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir mekan. İstanbul'un önemli turistik yerlerinden biri olan bu mekan, Marmara Bölgesi'nin coğrafi güzelliklerini sunuyor. Hanım Sultan Türbeleri, tarihi geçmişinin yanı sıra, ziyaretçilerine geniş yeşil alanlar ve tarihi yapılar sunuyor. Bu mekan, hem tarihi hem de doğal güzellikleri bir arada sunuyor.
 
 ## Tarihçe
 

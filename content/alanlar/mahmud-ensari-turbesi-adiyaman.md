@@ -1,7 +1,7 @@
 ---
 title: "Mahmud Ensari Türbesi Adıyaman"
 date: "2026-01-10T06:02:34.777Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adıyaman"

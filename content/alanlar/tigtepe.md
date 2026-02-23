@@ -32,7 +32,7 @@ Malatya'nın dağlık bölgesinde yer alan Tiğtepe, ziyaretçilerini doğanın 
 
 ## Tarihçe
 
-Malatya bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Binlerce yıl boyunca, çeşitli uygarlıkların etkisi altında kalmıştır. Hititler, Romalılar ve Selçuklular gibi medeniyetler, bu bölgede izler bırakmışlardır. Doğal güzellikleri ve stratejik konumu, Malatya'yı önemli bir ticaret ve kültür merkezi haline getirmiştir.
+Malatya bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Binlerce yıl boyunca, çeşitli uygarlıkların etkisi altında kalmıştır. Hititler, Romalılar ve Selçuklular gibi medeniyetler, bu bölgede izler bırakmışlardır. Doğal güzellikleri ve stratejik konumu, Malatya'yı önemli bir ticaret ve kültür merkezi haline getirmiştir.
 
 Tiğtepe gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Bu tür bölgeler, yüzyıllar boyunca insanların yaşamlarını sürdürdüğü, hayvancılık ve yaylacılık yaptığı yerler olmuştur. Ayrıca, tarihi ticaret yollarının güzergahında yer alan bu alanlar, farklı kültürlerin etkileşimine tanıklık etmiştir. İnsanların bu doğal alanlarla olan ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Bu bölgeler, insanların doğayla iç içe yaşadığı, geleneksel yaşam tarzlarının sürdüğü önemli merkezlerdir. Malatya bölgesinin zengin tarihi ve kültürel mirası, Tiğtepe gibi doğal alanların önemini daha da artırmaktadır.
 

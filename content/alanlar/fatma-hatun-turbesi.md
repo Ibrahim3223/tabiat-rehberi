@@ -1,7 +1,7 @@
 ---
 title: "Fatma Hatun Türbesi"
 date: "2026-01-10T07:39:31.484Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391259"
 
 # Fatma Hatun Türbesi
 
-Fatma Hatun Türbesi, Karatay, Konya'da yer alan ve tarihi geçmişi ile dikkat çeken bir türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezi bir bölgesinde bulunmaktadır. Türbenin tarihi geçmişi, ziyaretçilerini geçmişe götürerek onları bu önemli kültürel mirasla buluşturmaktadır. Bu alan, hem dinî hem de kültürel öneme sahip bir destinasyon olarak kabul edilmektedir.
+Fatma Hatun Türbesi, Karatay, Konya'da yer alan ve tarihi geçmişi ile dikkat çeken bir türbe ve plaj alanıdır. Türbenin tarihi geçmişi, ziyaretçilerini geçmişe götürerek onları bu önemli kültürel mirasla buluşturmaktadır. Bu alan, hem dinî hem de kültürel öneme sahip bir destinasyon olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Fatma Hatun Türbesi'nin tarihi geçmişi, yüzyıllar boyunca önemli bir kült
 
 ## Coğrafya
 
-Fatma Hatun Türbesi, Karatay, Konya'da yer almaktadır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step iklimi ile karakterize edilir ve yazları sıcak, kışları soğuk geçer. Türbe ve plaj alanı, şehrin merkezi bir bölgesinde yer alır ve ziyaretçiler için kolay ulaşılabilir bir konumdadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli bitki türleri ve fauna bulunur. Bu coğrafi konum, ziyaretçilere hem tarihi bir türbe hem de doğal bir plaj alanı sunar. Bölgenin coğrafi özellikleri, türbenin ve plajın güzelliğini daha da vurgulamaktadır.
+Fatma Hatun Türbesi, Karatay, Konya'da yer almaktadır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step iklimi ile karakterize edilir ve yazları sıcak, kışları soğuk geçer. Türbe ve plaj alanı, şehrin merkezi bir bölgesinde yer alır ve ziyaretçiler için kolay ulaşılabilir bir konumdadır. Bu coğrafi konum, ziyaretçilere hem tarihi bir türbe hem de doğal bir plaj alanı sunar. Bölgenin coğrafi özellikleri, türbenin ve plajın güzelliğini daha da vurgulamaktadır.
 
 ## Flora ve Fauna
 

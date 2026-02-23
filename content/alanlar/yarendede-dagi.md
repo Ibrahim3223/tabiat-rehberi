@@ -50,9 +50,9 @@ Mevsimsel olarak incelendiğinde, Yarendede Dağı'nın iklimi Akdeniz ikliminin
 
 ## Flora ve Fauna
 
-Yarendede Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak maki bitki örtüsüne ev sahipliği yapar. 1200 hektarlık bu dağ, kuraklığa dayanıklı türlerin yanı sıra alpin flora ile zengin bir bitki örtüsüne sahiptir. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. 
+Yarendede Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak maki bitki örtüsüne ev sahipliği yapar. 1200 hektarlık bu dağ, kuraklığa dayanıklı türlerin yanı sıra alpin flora ile zengin bir bitki örtüsüne sahiptir. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır.
 
-Yaban hayatı, dağın yükseklik zonlarına uyum gösteren çeşitli türlerle temsil edilir. Dağ keçilerinden, kartallara kadar birçok canlı, bu dağ ekosisteminin bir parçası. Kış aylarında, göçmen kuşlar dağların yüksek kesimlerinde konaklar. 
+Yaban hayatı, dağın yükseklik zonlarına uyum gösteren çeşitli türlerle temsil edilir. Dağ keçilerinden, kartallara kadar birçok canlı, bu dağ ekosisteminin bir parçası. Kış aylarında, göçmen kuşlar dağların yüksek kesimlerinde konaklar.
 
 Bu dağ ekosisteminin ekolojik değeri, yükseklik zonlarına bağlı olarak değişen flora ve faunaya ev sahipliği yapmasıdır. Bu bölge, birçok canlı türünün yaşamsal döngüsünün bir parçası olarak önemlidir.
 

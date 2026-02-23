@@ -49,7 +49,7 @@ Develi Dağı, çevresindeki diğer coğrafi oluşumlarla da bağlantılı. Dağ
 
 ## Flora ve Fauna
 
-Develi Dağı, Kayseri'nin step ve bozkır manzaralarına ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Develi Dağı, Kayseri'nin step ve bozkır manzaralarına ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında renkli çiçekler açıyor. Step ve bozkır bitkileri, kuraklığa adapte olmuş türler, dağın yükseklik zonlarına göre değişen flora ile zengin bir çeşitlilik sunuyor.
 
 Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler, dağın farklı yükseklik zonlarına uyum sağlamış canlılar olarak karşımıza çıkıyor. Dağ keçileri, yaban keçileri ve dağ tavşanları gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri ve sürüngenler de bu ekosistemin önemli bileşenleridir.

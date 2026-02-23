@@ -1,7 +1,7 @@
 ---
 title: "Başköy Hamamı"
 date: "2026-01-09T23:01:03.961Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738797"
 
 # Başköy Hamamı
 
-Bilecik ilinin merkezine yakın bir konumda bulunan Başköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul ediliyor. 140 hektarlık bir alana yayılmış olan bu plaj, yaklaşık 200 futbol sahası büyüklüğünde ve çevredeki dağlarla çevrili. Başköy Hamamı, hem yerli hem de yabancı turistlerin ilgisini çekiyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Bu plaj, temiz suyu, geniş kumsalı ve etrafındaki yeşilliklerle ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Bilecik ilinin merkezine yakın bir konumda bulunan Başköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul ediliyor. Başköy Hamamı, hem yerli hem de yabancı turistlerin ilgisini çekiyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 

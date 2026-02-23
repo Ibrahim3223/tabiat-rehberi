@@ -28,7 +28,7 @@ wikidata_id: "Q31552103"
 
 # Rabetin Tepesi
 
-Rabetin Tepesi, Mardin'in eşsiz manzarasına sahip bir nokta. Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bu tepe, yaklaşık 140 hektarlık alanı kaplıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Rabetin Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Burada, Mardin'in tarihi geçmişini ve kültürel zenginliklerini keşfedebilirsiniz. Rabetin Tepesi, aynı zamanda doğa severler için de bir cennet. Buradaki çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor.
+Rabetin Tepesi, Mardin'in eşsiz manzarasına sahip bir nokta. Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bu tepe, yaklaşık 140 hektarlık alanı kaplıyor. Rabetin Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Burada, Mardin'in tarihi geçmişini ve kültürel zenginliklerini keşfedebilirsiniz. Rabetin Tepesi, aynı zamanda doğa severler için de bir cennet. Buradaki çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Rabetin Tepesi, tarihsel olarak önemli bir nokta. Bu tepe, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Rabetin Tepesi, coğrafi olarak önemli bir konumda bulunuyor. Güneydoğu Anadolu Bölgesi'nin ortasında yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Rabetin Tepesi, Mardin'in şehir merkezine yakın bir mesafede bulunuyor. Buraya, şehir merkezinden kolayca ulaşabilirsiniz. Rabetin Tepesi, aynı zamanda doğa severler için de bir cennet. Buradaki çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor. Rabetin Tepesi, coğrafi olarak da önemli bir nokta. Burada, Mardin'in coğrafi güzellikleri, ziyaretçilere sunuluyor.
+Rabetin Tepesi, coğrafi olarak önemli bir konumda bulunuyor. Güneydoğu Anadolu Bölgesi'nin ortasında yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Rabetin Tepesi, Mardin'in şehir merkezine yakın bir mesafede bulunuyor. Buraya, şehir merkezinden kolayca ulaşabilirsiniz. Rabetin Tepesi, aynı zamanda doğa severler için de bir cennet. Buradaki çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor. Rabetin Tepesi, coğrafi olarak da önemli bir nokta. Burada, Mardin'in coğrafi güzellikleri, ziyaretçilere sunuluyor.
 
 ## Flora ve Fauna
 

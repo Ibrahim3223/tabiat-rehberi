@@ -50,9 +50,9 @@ Doğal güzelliği ile dikkat çeken Bayrak Adası, yaklaşık bir şehir bloğu
 
 ## Flora ve Fauna
 
-Bayrak Adası, Antalya'nın kıyı ekosisteminin güzelliğini sergileyen bir ada. İklim koşullarına adapte olmuş kuraklığa dayanıklı türler, maki bitki örtüsünü oluşturur. İlkbaharın gelmesiyle birlikte, ada çiçek açan bitkilerle renklenir. 
+Bayrak Adası, Antalya'nın kıyı ekosisteminin güzelliğini sergileyen bir ada. İklim koşullarına adapte olmuş kuraklığa dayanıklı türler, maki bitki örtüsünü oluşturur. İlkbaharın gelmesiyle birlikte, ada çiçek açan bitkilerle renklenir.
 
-Ada ekosisteminin izole popülasyonları, deniz kuşlarının yaşam alanıdır. Kıyı bitkileri, bu canlıların yuvalanması için uygun bir ortam sağlar. Sonbaharın gelmesiyle birlikte, göçmen kuşlar adayı ziyaret eder ve burada konaklarlar. 
+Ada ekosisteminin izole popülasyonları, deniz kuşlarının yaşam alanıdır. Kıyı bitkileri, bu canlıların yuvalanması için uygun bir ortam sağlar. Sonbaharın gelmesiyle birlikte, göçmen kuşlar adayı ziyaret eder ve burada konaklarlar.
 
 Bu özel ekosistem, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunar. Ada, doğal yaşamın güzelliğini koruma altına almak için önemli bir alandır. Ekolojik değerini korumak için, bu doğal cennetin korunmasına dikkat etmek gerekir.
 

@@ -53,7 +53,7 @@ Mevsimsel değişimler açısından İhtiyarşahap Dağı, Doğu Anadolu Bölges
 
 İhtiyarşahap Dağı, Van'ın yüksek dağ ekolojisinin bir temsilcisi olarak, alpin çayırlar ve endemik türlerle dolu bir cennet gibi görünüyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsüne baktığımızda, ilkbaharda çiçeklerle dolu olan dağ, yaz aylarında yeşil bir hal alır. Alpin flora, yükseklik zonlarına göre değişen bir yapıya sahiptir. Dağ ekosisteminde, yükseklik arttıkça bitki türleri değişir. 
+Bitki örtüsüne baktığımızda, ilkbaharda çiçeklerle dolu olan dağ, yaz aylarında yeşil bir hal alır. Alpin flora, yükseklik zonlarına göre değişen bir yapıya sahiptir. Dağ ekosisteminde, yükseklik arttıkça bitki türleri değişir.
 Yaban hayatına baktığımızda, dağda various memeliler, kuşlar ve sürüngenler yaşamaktadır. Dağ, çeşitli hayvan türleri için bir yaşam alanı sunar. Bu hayvanlar, dağın ekolojik dengesini sağlar.
 İhtiyarşahap Dağı, yüksek dağ ekolojisinin bir örneği olarak, koruma altına alınması gereken bir alandır. Bu alanın korunması, gelecek nesiller için önemli bir görevdir.
 

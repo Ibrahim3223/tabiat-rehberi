@@ -28,7 +28,7 @@ wikidata_id: "Q31388519"
 
 # Ziyaretdağı Tepesi
 
-Ziyaretdağı Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkar. Erzurum'un görece yüksek bir alanında yer alan bu tepe, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, ziyaretçilere geniş bir perspektif sunar. Tepenin yüksekliği ve konumundan dolayı, çevreyi panoramik olarak izleme mümkün olur. Ziyaretdağı Tepesi, aynı zamanda coğrafi konumu itibariyle, bölgenin iklimsel özelliklerini gözlemlemek için ideal bir noktadır.
+Ziyaretdağı Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkar. Bu geniş alan, ziyaretçilere geniş bir perspektif sunar. Tepenin yüksekliği ve konumundan dolayı, çevreyi panoramik olarak izleme mümkün olur. Ziyaretdağı Tepesi, aynı zamanda coğrafi konumu itibariyle, bölgenin iklimsel özelliklerini gözlemlemek için ideal bir noktadır.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Ziyaretdağı Tepesi, coğrafi konumu itibariyle Doğu Anadolu Bölgesi'nin öne
 
 ## Flora ve Fauna
 
-Ziyaretdağı Tepesi, flora ve fauna açısından oldukça zengindir. Tepenin etrafında, çeşitli bitki türleri bulunur ve bu bitki örtüsü, bölgenin iklimsel koşullarına uyum sağlamış durumdadır. Ayrıca, bu bölgede, çeşitli hayvan türlerine de rastlama mümkün olur. Ziyaretçilerin, bu tepenin flora ve faunasını etmeleri, bölgenin ekolojik değerini daha iyi anlamalarına yardımcı olur. Ziyaretdağı Tepesi, aynı zamanda, mevsimsel değişimlerin edilmesi için ideal bir noktadır. Bahar ve yaz aylarında, bitki örtüsünün yeşillenmesi ve hayvanların faaliyetlerinin artması, ziyaretçilere canlı bir doğal ortam sunar.
+ Tepenin etrafında, çeşitli bitki türleri bulunur ve bu bitki örtüsü, bölgenin iklimsel koşullarına uyum sağlamış durumdadır. Ayrıca, bu bölgede, çeşitli hayvan türlerine de rastlama mümkün olur. Ziyaretçilerin, bu tepenin flora ve faunasını etmeleri, bölgenin ekolojik değerini daha iyi anlamalarına yardımcı olur. Ziyaretdağı Tepesi, aynı zamanda, mevsimsel değişimlerin edilmesi için ideal bir noktadır. Bahar ve yaz aylarında, bitki örtüsünün yeşillenmesi ve hayvanların faaliyetlerinin artması, ziyaretçilere canlı bir doğal ortam sunar.
 
 ## Ziyaret Bilgileri
 
@@ -48,8 +48,7 @@ Ziyaretdağı Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklıl
 
 ## İlginç Bilgiler
 
-- Ziyaretdağı Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsar.
 - Tepenin yüksekliği ve konumundan dolayı, geniş bir perspektiften çevreyi izleme mümkündür.
 - Bu tepe, stratejik konumu nedeniyle, tarihi belgelerde önemli bir gözlem noktası olarak geçer.
-- Ziyaretdağı Tepesi, flora ve fauna açısından oldukça zengindir.
+
 - Tepenin etrafında, çeşitli bitki türleri bulunur ve bu bitki örtüsü, bölgenin iklimsel koşullarına uyum sağlamış durumdadır.

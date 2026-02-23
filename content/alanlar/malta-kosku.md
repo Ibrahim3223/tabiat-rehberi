@@ -30,7 +30,7 @@ wikidata_id: "Q6744675"
 
 # Malta Köşkü
 
-Malta Köşkü, Beşiktaş'ın kalbinde yer alan tarihi bir yapıdır. 140 hektarlık bir alan üzerinde kurulu olan bu köşkün tarihi oldukça eskidir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş ve yeşil bir mekân sunar. Köşkün mimarisi ve tarihi geçmişi, ziyaretçilerini zamanda yolculuğa çıkarır. Historik bir atmosfere sahip olan Malta Köşkü, İstanbul'un en önemli turistik mekanlarından biridir.
+Malta Köşkü, Beşiktaş'ın kalbinde yer alan tarihi bir yapıdır. 140 hektarlık bir alan üzerinde kurulu olan bu köşkün tarihi oldukça eskidir. Köşkün mimarisi ve tarihi geçmişi, ziyaretçilerini zamanda yolculuğa çıkarır. Historik bir atmosfere sahip olan Malta Köşkü, İstanbul'un en önemli turistik mekanlarından biridir.
 
 ## Tarihçe
 

@@ -50,12 +50,12 @@ Jeolojik açıdan incelendiğinde, Turnagöl Dağı'nın fiziksel yapısı hakk�
 
 ## Flora ve Fauna
 
-Turnagöl Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğal alan. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Turnagöl Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğal alan. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü:
-İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, yükseklik zonlarına göre değişkenlik gösterir. 
+İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, yükseklik zonlarına göre değişkenlik gösterir.
 Yaban Hayatı:
-Memeliler ve kuşlar, bu dağ ekosisteminin temel bileşenlerini oluşturur. Dağ keçileri, yaban keçileri ve çakallar, burada yaşayan bazı memeli türleridir. 
+Memeliler ve kuşlar, bu dağ ekosisteminin temel bileşenlerini oluşturur. Dağ keçileri, yaban keçileri ve çakallar, burada yaşayan bazı memeli türleridir.
 Ekolojik Değer:
 Turnagöl Dağı, endemik türlerin yaşadığı önemli bir ekosistemdir. Bu alanın korunması, bölgenin biyolojik çeşitliliğini korumak için çok önemlidir.
 

@@ -28,15 +28,15 @@ wikidata_id: "Q31562664"
 
 # Mahya Tepesi
 
-Mahya Tepesi, Bursa'nın doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli coğrafi özelliklerinden birini oluşturmaktadır. Mahya Tepesi, hem yerel halk hem de ziyaretçiler için keyifli bir gezi destinasyonu olarak bekannttır. Tepenin etrafındaki manzaralar, ziyaretçilere doğanın güzelliğini göstermektedir. Mahya Tepesi, bir tepe olarak coğrafi açıdan önemli bir noktadır ve ziyaretçilere bölge hakkında bilgi edinme fırsatı sunar.
+Mahya Tepesi, Bursa'nın doğal güzelliklerinden biri olarak dikkat çekmektedir. Mahya Tepesi, hem yerel halk hem de ziyaretçiler için keyifli bir gezi destinasyonu olarak bekannttır. Tepenin etrafındaki manzaralar, ziyaretçilere doğanın güzelliğini göstermektedir. Mahya Tepesi, bir tepe olarak coğrafi açıdan önemli bir noktadır ve ziyaretçilere bölge hakkında bilgi edinme fırsatı sunar.
 
 ## Tarihçe
 
-Mahya Tepesi'nin tarihi geçmişi, bölgenin jeolojik oluşumuna dayanmaktadır. Bu tepenin oluşumu, milyonlarca yıl önce gerçekleşmiştir. Ancak, Mahya Tepesi'nin tarihi olarak bilinen bir geçmişi bulunmamaktadır. Bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak bilinmektedir. Mahya Tepesi, tarihi açıdan önemli bir nokta olmanın yanı sıra, coğrafi açıdan da önemli bir konumda bulunmaktadır. Tepenin etrafındaki yerleşim yerleri, bölgenin tarihini ve kültürünü yansıtmaktadır. Mahya Tepesi, ziyaretçilere bölgenin tarihini ve coğrafyasını keşfetme fırsatı sunmaktadır.
+Mahya Tepesi'nin tarihi geçmişi, bölgenin jeolojik oluşumuna dayanmaktadır. Bu tepenin oluşumu, milyonlarca yıl önce gerçekleşmiştir. Ancak, Mahya Tepesi'nin tarihi olarak bilinen bir geçmişi bulunmamaktadır. Bölge, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir yer olarak bilinmektedir. Mahya Tepesi, tarihi açıdan önemli bir nokta olmanın yanı sıra, coğrafi açıdan da önemli bir konumda bulunmaktadır. Tepenin etrafındaki yerleşim yerleri, bölgenin tarihini ve kültürünü yansıtmaktadır.
 
 ## Coğrafya
 
-Mahya Tepesi, Bursa ilinin coğrafi yapısını oluşturan önemli bir tepe olarak bilinmektedir. Bu tepe, Marmara Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Mahya Tepesi'nin etrafındaki bölge, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna ve floraya sahiptir. Tepenin yüksekliği, bölgenin iklimini ve hava koşullarını etkilemektedir. Mahya Tepesi, coğrafi açıdan önemli bir nokta olmasının yanı sıra, ziyaretçilere bölgenin güzelliğini göstermektedir. Tepenin etrafındaki manzaralar, ziyaretçilere doğanın güzelliğini sunmaktadır. Mahya Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu alan, ziyaretçilere gezi ve keşif fırsatı sunmaktadır.
+Mahya Tepesi, Bursa ilinin coğrafi yapısını oluşturan önemli bir tepe olarak bilinmektedir. Bu tepe, Marmara Bölgesi'nin coğrafi özelliklerini yansıtmaktadır. Mahya Tepesi'nin etrafındaki bölge, çeşitli bitki türleri ve hayvanlar ile zengin bir fauna ve floraya sahiptir. Tepenin yüksekliği, bölgenin iklimini ve hava koşullarını etkilemektedir. Mahya Tepesi, coğrafi açıdan önemli bir nokta olmasının yanı sıra, ziyaretçilere bölgenin güzelliğini göstermektedir. Tepenin etrafındaki manzaralar, ziyaretçilere doğanın güzelliğini sunmaktadır. Bu alan, ziyaretçilere gezi ve keşif fırsatı sunmaktadır.
 
 ## Flora ve Fauna
 

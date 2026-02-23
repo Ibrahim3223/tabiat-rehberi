@@ -28,7 +28,7 @@ wikidata_id: "Q31568838"
 
 # Dılgır Tepesi
 
-Giresun'un Karadeniz Bölgesi'nde yer alan Dılgır Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Dılgır Tepesi, Karadeniz'in güzelliğini ve doğal zenginliğini görebileceğiniz bir nokta. Tepenin etrafında yer alan ormanlar ve vadiler, ziyaretçilere doğanın güzelliğini sunuyor. Bu tepe, hem doğa severler hem de manzara izlemek isteyenler için ideal bir yer.
+Giresun'un Karadeniz Bölgesi'nde yer alan Dılgır Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Dılgır Tepesi, Karadeniz'in güzelliğini ve doğal zenginliğini görebileceğiniz bir nokta. Tepenin etrafında yer alan ormanlar ve vadiler, ziyaretçilere doğanın güzelliğini sunuyor. Bu tepe, hem doğa severler hem de manzara izlemek isteyenler için ideal bir yer.
 
 ## Tarihçe
 

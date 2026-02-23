@@ -22,7 +22,7 @@ wikidata_id: "Q108227721"
 
 # Sinop-Bektasaga Disbudak
 
-Sinop-Bektasaga Disbudak milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, bölgenin ekolojik dengesini korumak amacıyla kurulmuştur ve ziyaretçilere zengin bir flora ve fauna sunar. Sinop-Bektasaga Disbudak, aynı zamanda bölgenin tarihi geçmişi ile de dikkat çekiyor. Yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyan bu bölge, aynı zamanda kültürel bir hazine olarak kabul ediliyor.
+Sinop-Bektasaga Disbudak milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu milli park, bölgenin ekolojik dengesini korumak amacıyla kurulmuştur ve ziyaretçilere zengin bir flora ve fauna sunar. Sinop-Bektasaga Disbudak, aynı zamanda bölgenin tarihi geçmişi ile de dikkat çekiyor. Yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyan bu bölge, aynı zamanda kültürel bir hazine olarak kabul ediliyor.
 
 ## Tarihçe
 

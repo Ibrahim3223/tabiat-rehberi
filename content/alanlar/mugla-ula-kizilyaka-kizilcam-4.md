@@ -22,7 +22,7 @@ wikidata_id: "Q108227918"
 
 # Mugla-Ula-Kizilyaka Kızılçam 4
 
-Mugla-Ula-Kizilyaka Kızılçam 4 milli parkı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor. Milli parkın bulunduğu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarında ziyaretçileri karşılayacak.
+Mugla-Ula-Kizilyaka Kızılçam 4 milli parkı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alıyor. Milli parkın bulunduğu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarında ziyaretçileri karşılayacak.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hanım Hamamı"
 date: "2026-01-09T22:33:44.282Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738684"
 
 # Hanım Hamamı
 
-Erzurum'un Yakutiye ilçesinde yer alan Hanım Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğayla iç içe vakit geçirmek için mükemmel bir fırsat sunuyor. Hanım Hamamı, hem yerel halk hem de turistler için önemli bir çekim merkezi olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile büyük bir ilgi görüyor.
+ Bu geniş alan, ziyaretçilere doğayla iç içe vakit geçirmek için mükemmel bir fırsat sunuyor. Hanım Hamamı, hem yerel halk hem de turistler için önemli bir çekim merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hanım Hamamı'nın tarihi geçmişi, yüzyıllar boyunca bölgeye settlementsin
 
 ## Coğrafya
 
-Hanım Hamamı, Erzurum'un Yakutiye ilçesinde yer alıyor. Bu bölge, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğayla iç içe vakit geçirmek için mükemmel bir fırsat sunuyor. Hanım Hamamı'nın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölgenin iklimi, karasal iklim özellikleri taşıyor. Hanım Hamamı, ziyaretçilere hem doğal güzelliği hem de coğrafi çeşitliliği hakkında bilgi edinme fırsatı sunuyor.
+Hanım Hamamı, Erzurum'un Yakutiye ilçesinde yer alıyor. Bu bölge, Doğu Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bu geniş alan, ziyaretçilere doğayla iç içe vakit geçirmek için mükemmel bir fırsat sunuyor. Hanım Hamamı'nın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölgenin iklimi, karasal iklim özellikleri taşıyor. Hanım Hamamı, ziyaretçilere hem doğal güzelliği hem de coğrafi çeşitliliği hakkında bilgi edinme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

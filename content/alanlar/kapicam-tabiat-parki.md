@@ -23,7 +23,7 @@ wikidata_id: "Q108228121"
 
 # Kapıçam Tabiat Parkı
 
-Kapıçam Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerini doğanın güzellikleriyle büyüler. Parkın içinde çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Bu tabiat parkı, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. İç Anadolu Bölgesi'nin coğrafi özelliklerini gözlemlemek için ideal bir noktadır.
+Kapıçam Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Parkın içinde çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Bu tabiat parkı, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. İç Anadolu Bölgesi'nin coğrafi özelliklerini gözlemlemek için ideal bir noktadır.
 
 ## Tarihçe
 

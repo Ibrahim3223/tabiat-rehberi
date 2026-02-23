@@ -28,7 +28,7 @@ wikidata_id: "Q31385903"
 
 # Sandras Dağı
 
-Muğla'nın güzide dağlarından biri olan Sandras Dağı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu dağ, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Sandras Dağı, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve doğa severler için bir cennet olarak kabul edilir. Dağın eteklerinde çeşitli bitki türleri bulunur ve bu bölge, yaban hayatı için önemli bir habitat oluşturur. Sandras Dağı, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyon olarak dikkat çeker.
+Muğla'nın güzide dağlarından biri olan Sandras Dağı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. Sandras Dağı, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve doğa severler için bir cennet olarak kabul edilir. Dağın eteklerinde çeşitli bitki türleri bulunur ve bu bölge, yaban hayatı için önemli bir habitat oluşturur. Sandras Dağı, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 

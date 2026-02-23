@@ -22,7 +22,7 @@ wikidata_id: "Q108228695"
 
 # KARAMAN YUNUS EMRE ŞEHİR ORMANI
 
-Karaman Yunus Emre Şehir Ormanı, İç Anadolu Bölgesi'nin güzide şehirlerinden biri olan Karaman'da yer alır. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu şehir ormanı, hem Karaman halkının hem de şehri ziyaret edenlerin doğayla iç içe olabileceği, huzur bulabileceği bir mekan olarak hizmet verir. Orman, Yunus Emre'nin ismiyle anılmaktadır. Yunus Emre, Türk edebiyatının önemli isimlerinden biri olarak bilinmektedir. Şehir ormanı, ismini bu önemli edebiyatçının adından almıştır.
+Karaman Yunus Emre Şehir Ormanı, İç Anadolu Bölgesi'nin güzide şehirlerinden biri olan Karaman'da yer alır. Bu şehir ormanı, hem Karaman halkının hem de şehri ziyaret edenlerin doğayla iç içe olabileceği, huzur bulabileceği bir mekan olarak hizmet verir. Orman, Yunus Emre'nin ismiyle anılmaktadır. Yunus Emre, Türk edebiyatının önemli isimlerinden biri olarak bilinmektedir. Şehir ormanı, ismini bu önemli edebiyatçının adından almıştır.
 
 ## Tarihçe
 

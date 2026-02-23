@@ -29,7 +29,7 @@ wikidata_id: "Q1379828"
 
 # Tilmen Höyük
 
-Tilmen Höyük, Gaziantep'in İslahiye ilçesi yakınlarında yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli kültür miraslarından biri olan tarihi bir höyüktür. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafi yapısını yansıtan bir höyüktür. Höyüğün yüksekliği ve genişliği, çevresindeki diğer höyüklerden farklılığını ortaya koyar. Tilmen Höyük, bölgenin tarihi geçmişi hakkında önemli bilgiler sunan bir arkeolojik alandır.
+Tilmen Höyük, Gaziantep'in İslahiye ilçesi yakınlarında yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli kültür miraslarından biri olan tarihi bir höyüktür. Höyüğün yüksekliği ve genişliği, çevresindeki diğer höyüklerden farklılığını ortaya koyar. Tilmen Höyük, bölgenin tarihi geçmişi hakkında önemli bilgiler sunan bir arkeolojik alandır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tilmen Höyük'ün tarihi geçmişi, bölgenin kültürel zenginliğini yansıta
 
 ## Coğrafya
 
-Tilmen Höyük, Gaziantep'in İslahiye ilçesi yakınlarında yer alır ve Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir höyüktür. Höyüğün coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkileyen faktörlerden biridir. Höyüğün yakınında yer alan dağlar ve ovalar, bölgenin coğrafi çeşitliliğini ortaya koyar. Tilmen Höyük'ün 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve höyüğün yüksekliği ve genişliği, çevresindeki diğer höyüklerden farklılığını ortaya koyar. Höyüğün coğrafi yapısı, bölgenin su kaynaklarını ve tarımsal faaliyetlerini etkileyen faktörlerden biridir. Tilmen Höyük'ün coğrafi konumu, bölgenin tarihi geçmişi ve kültürel zenginliği hakkında önemli bilgiler sunar. Höyüğün yakınında yer alan diğer höyükler ve arkeolojik alanlar, bölgenin coğrafi çeşitliliğini ve kültürel zenginliğini ortaya koyar.
+Tilmen Höyük, Gaziantep'in İslahiye ilçesi yakınlarında yer alır ve Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir höyüktür. Höyüğün coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkileyen faktörlerden biridir. Höyüğün yakınında yer alan dağlar ve ovalar, bölgenin coğrafi çeşitliliğini ortaya koyar. Höyüğün coğrafi yapısı, bölgenin su kaynaklarını ve tarımsal faaliyetlerini etkileyen faktörlerden biridir. Tilmen Höyük'ün coğrafi konumu, bölgenin tarihi geçmişi ve kültürel zenginliği hakkında önemli bilgiler sunar. Höyüğün yakınında yer alan diğer höyükler ve arkeolojik alanlar, bölgenin coğrafi çeşitliliğini ve kültürel zenginliğini ortaya koyar.
 
 ## Flora ve Fauna
 

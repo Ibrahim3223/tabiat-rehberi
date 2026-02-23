@@ -28,7 +28,7 @@ wikidata_id: "Q31388471"
 
 # Ballıtaş Tepesi
 
-Ballıtaş Tepesi, Erzurum'un doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu bölge, hem doğa severlerin hem de macera arayanların ilgisini çekiyor. Ballıtaş Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta bulunuyor ve ulaşımı oldukça kolay. Ziyaretçiler, bu güzel tepeye gelerek hem doğanın güzelliğini keşfedebilir hem de bölgenin tarihi ve kültürel zenginliklerini öğrenebilirler.
+Ballıtaş Tepesi, Erzurum'un doğal güzelliklerinden biri olarak dikkat çekiyor. Bu bölge, hem doğa severlerin hem de macera arayanların ilgisini çekiyor. Ballıtaş Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta bulunuyor ve ulaşımı oldukça kolay. Ziyaretçiler, bu güzel tepeye gelerek hem doğanın güzelliğini keşfedebilir hem de bölgenin tarihi ve kültürel zenginliklerini öğrenebilirler.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Ballıtaş Tepesi, coğrafi konumu itibariyle oldukça ilgi çekici. Bu tepe, Er
 
 ## Flora ve Fauna
 
-Ballıtaş Tepesi, flora ve fauna açısından oldukça zengin. Bu bölgede, çeşitli bitki türleri ve ağaçlar yetişiyor. Tepenin yüksekliği ve coğrafi konumu, bu bölgede yaşayan bitki türlerinin çeşitliliğini artırıyor. Ballıtaş Tepesi, aynı zamanda zengin fauna ile dikkat çekiyor. Bu bölgede, çeşitli hayvan türleri ve kuş türleri yaşamaktadır. Ziyaretçiler, bu güzel tepeye gelerek hem doğanın güzelliğini keşfedebilir hem de bölgenin flora ve faunasını öğrenebilirler. Ballıtaş Tepesi, ziyaretçilerine hem doğal güzelliğini hem de coğrafi zenginliklerini sunuyor.
+ Bu bölgede, çeşitli bitki türleri ve ağaçlar yetişiyor. Tepenin yüksekliği ve coğrafi konumu, bu bölgede yaşayan bitki türlerinin çeşitliliğini artırıyor. Ballıtaş Tepesi, aynı zamanda zengin fauna ile dikkat çekiyor. Bu bölgede, çeşitli hayvan türleri ve kuş türleri yaşamaktadır. Ziyaretçiler, bu güzel tepeye gelerek hem doğanın güzelliğini keşfedebilir hem de bölgenin flora ve faunasını öğrenebilirler. Ballıtaş Tepesi, ziyaretçilerine hem doğal güzelliğini hem de coğrafi zenginliklerini sunuyor.
 
 ## Ziyaret Bilgileri
 

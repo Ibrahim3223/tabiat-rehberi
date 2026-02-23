@@ -1,7 +1,7 @@
 ---
 title: "Turgut Özal Anıt Mezarı"
 date: "2026-01-10T04:42:20.981Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q107355665"
 
 # Turgut Özal Anıt Mezarı
 
-Turgut Özal Anıt Mezarı, İstanbul'un Zeytinburnu ilçesinde yer alan bir anıttır. Bu anıt, Türkiye'nin sekizinci cumhurbaşkanı Turgut Özal'ın anısına yapılmıştır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Anıt mezar, Turgut Özal'ın hayatını ve çalışmalarını anlatan çeşitli bölümlerden oluşmaktadır. Ziyaretçiler, bu bölümlerde Turgut Özal'ın yaşamı ve cumhurbaşkanlığı dönemi hakkında bilgi edinebilirler. Anıt mezarın etrafında ayrıca çeşitli bitkiler ve ağaçlar bulunmaktadır. Bu yeşil alan, ziyaretçilere dinlenme ve doğayı seyretmek için uygun bir ortam sağlar.
+Turgut Özal Anıt Mezarı, İstanbul'un Zeytinburnu ilçesinde yer alan bir anıttır. Bu anıt, Türkiye'nin sekizinci cumhurbaşkanı Turgut Özal'ın anısına yapılmıştır. Anıt mezar, Turgut Özal'ın hayatını ve çalışmalarını anlatan çeşitli bölümlerden oluşmaktadır. Ziyaretçiler, bu bölümlerde Turgut Özal'ın yaşamı ve cumhurbaşkanlığı dönemi hakkında bilgi edinebilirler. Anıt mezarın etrafında ayrıca çeşitli bitkiler ve ağaçlar bulunmaktadır. Bu yeşil alan, ziyaretçilere dinlenme ve doğayı seyretmek için uygun bir ortam sağlar.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Turgut Özal Anıt Mezarı, çeşitli bitkiler ve ağaçlar ile çevrilidir. Bu 
 
 ## Ziyaret Bilgileri
 
-Turgut Özal Anıt Mezarı, ziyaretçilere açık bir alandır. Ziyaretçiler, anıt mezarı fácil bir şekilde ulaşabilirler. Anıt mezarın yakınında, çeşitli ulaşım araçları bulunmaktadır. Bu ulaşım araçları, ziyaretçilere anıt mezarına ulaşmak için uygun seçenekler sunar. Ziyaretçiler, anıt mezarı ziyaret ederken, bölgenin iklimine uygun şekilde hazırlanmalıdır. Anıt mezarın ziyaret saatleri, günün belirli saatlerine göre değişmektedir. Ziyaretçiler, anıt mezarı ziyaret ettikleri zaman, anıt mezarın etrafında bulunan çeşitli bölümleri gezebilirler.
+Turgut Özal Anıt Mezarı, ziyaretçilere açık bir alandır. Ziyaretçiler, anıt mezarı kolay bir şekilde ulaşabilirler. Anıt mezarın yakınında, çeşitli ulaşım araçları bulunmaktadır. Bu ulaşım araçları, ziyaretçilere anıt mezarına ulaşmak için uygun seçenekler sunar. Ziyaretçiler, anıt mezarı ziyaret ederken, bölgenin iklimine uygun şekilde hazırlanmalıdır. Anıt mezarın ziyaret saatleri, günün belirli saatlerine göre değişmektedir. Ziyaretçiler, anıt mezarı ziyaret ettikleri zaman, anıt mezarın etrafında bulunan çeşitli bölümleri gezebilirler.
 
 ## İlginç Bilgiler
 

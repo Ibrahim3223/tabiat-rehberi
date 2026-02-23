@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Ballıca Mağarası Tabiat Parkı
 
-Ballıca Mağarası Tabiat Parkı, Doğu Anadolu Bölgesi'nin en önemli turizm merkezlerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde veMuş ilinin güzide yerlerinden biridir. Bu mağaranın oluşumu milyonlarca yıl önceye dayanmaktadır ve jeolojik açıdan büyük bir önem taşımaktadır. Mağaranın içinde çeşitli oluşumlar ve yapılar bulunmaktadır. Bu oluşumlar, ziyaretçilerin ilgisini çekmekte ve mağaranın güzelliğini ortaya koymaktadır.
+Ballıca Mağarası Tabiat Parkı, Doğu Anadolu Bölgesi'nin en önemli turizm merkezlerinden biridir. Bu mağaranın oluşumu milyonlarca yıl önceye dayanmaktadır ve jeolojik açıdan büyük bir önem taşımaktadır. Mağaranın içinde çeşitli oluşumlar ve yapılar bulunmaktadır. Bu oluşumlar, ziyaretçilerin ilgisini çekmekte ve mağaranın güzelliğini ortaya koymaktadır.
 
 ## Tarihçe
 

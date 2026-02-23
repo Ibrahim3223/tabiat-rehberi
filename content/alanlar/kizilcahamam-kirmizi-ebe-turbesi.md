@@ -1,7 +1,7 @@
 ---
 title: "Kızılcahamam Kırmızı Ebe Türbesi"
 date: "2026-01-10T07:46:02.204Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391215"
 
 # Kızılcahamam Kırmızı Ebe Türbesi
 
-Kızılcahamam Kırmızı Ebe Türbesi, Ankara'nın doğal güzellikleri arasında özel bir yere sahiptir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzak, sakin bir ortamda ağırlamaktadır. Tarihi geçmişi ve coğrafi konumuyla dikkat çeken bu mekan, hem doğa severler hem de tarih meraklıları için eşsiz bir destinasyon sunuyor. Kızılcahamam'ın merkezine yakın konumu ve ulaşımın kolay olması, burayı ziyaret etmek isteyenler için önemli bir avantaj teşkil ediyor.
+Kızılcahamam Kırmızı Ebe Türbesi, Ankara'nın doğal güzellikleri arasında özel bir yere sahiptir. Tarihi geçmişi ve coğrafi konumuyla dikkat çeken bu mekan, hem doğa severler hem de tarih meraklıları için eşsiz bir destinasyon sunuyor. Kızılcahamam'ın merkezine yakın konumu ve ulaşımın kolay olması, burayı ziyaret etmek isteyenler için önemli bir avantaj teşkil ediyor.
 
 ## Tarihçe
 

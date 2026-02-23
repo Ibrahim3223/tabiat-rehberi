@@ -23,7 +23,7 @@ wikidata_id: "Q108227802"
 
 # Beynam
 
-Beynam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal cennet, ziyaretçilerini yaban hayatı ve çeşitli bitki türleriyle büyüler. Park, doğa severlerin ve macera arayanların buluşma noktasıdır. 140 hektarlık bu alan, ziyaretçilere geniş bir açık hava deneyimi sunar. Burada, doğanın güzelliğini ve yaban hayatının çeşitliliğini keşfetme mümkün.
+ Bu doğal cennet, ziyaretçilerini yaban hayatı ve çeşitli bitki türleriyle büyüler. Park, doğa severlerin ve macera arayanların buluşma noktasıdır. 140 hektarlık bu alan, ziyaretçilere geniş bir açık hava deneyimi sunar. Burada, doğanın güzelliğini ve yaban hayatının çeşitliliğini keşfetme mümkün.
 
 ## Tarihçe
 

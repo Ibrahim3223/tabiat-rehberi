@@ -22,7 +22,7 @@ wikidata_id: "Q108227935"
 
 # Bursa-Mustafakemalpaşa-Karacabey Karacam 1
 
-Marmara Bölgesi'nin güzide şehirlerinden Bursa'da yer alan Bursa-Mustafakemalpaşa-Karacabey Karacam 1 milli parkı, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini karşılıyor. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna encontruluyor. Doğal güzellikleri ve zengin ekosistemiyle dikkat çeken bu milli park, hem doğa severler hem de turistler için önemli bir destinasyon.
+Marmara Bölgesi'nin güzide şehirlerinden Bursa'da yer alan Bursa-Mustafakemalpaşa-Karacabey Karacam 1 milli parkı, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini karşılıyor. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna encontruluyor. Doğal güzellikleri ve zengin ekosistemiyle dikkat çeken bu milli park, hem doğa severler hem de turistler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-Karacabey Karacam 1 milli parkının tarihi geçmişi, y
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-Karacabey Karacam 1 milli parkı, Marmara Bölgesi'nin coğrafi olarak önemli bir konumunda yer alıyor. Parkın coğrafyası, geniş ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer, ılıman ve nemli. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme opportunity sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Milli parkın coğrafyası, aynı zamanda, bölgenin jeoloji ve hidrolojik özelliklerini de içeriyor. Parkın yer aldığı bölge, yüzyıllar boyunca, doğal güzelliklerinin korunması amacıyla önemli çalışmalara sahne olmuş.
+Bursa-Mustafakemalpaşa-Karacabey Karacam 1 milli parkı, Marmara Bölgesi'nin coğrafi olarak önemli bir konumunda yer alıyor. Parkın coğrafyası, geniş ormanlık alanlar, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzer, ılıman ve nemli. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme opportunity sunuyor. Milli parkın coğrafyası, aynı zamanda, bölgenin jeoloji ve hidrolojik özelliklerini de içeriyor. Parkın yer aldığı bölge, yüzyıllar boyunca, doğal güzelliklerinin korunması amacıyla önemli çalışmalara sahne olmuş.
 
 ## Flora ve Fauna
 

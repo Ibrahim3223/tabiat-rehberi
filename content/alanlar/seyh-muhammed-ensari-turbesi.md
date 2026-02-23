@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Muhammed Ensari Türbesi"
 date: "2026-01-10T07:04:55.829Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilis"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390874"
 
 # Şeyh Muhammed Ensari Türbesi
 
-Şeyh Muhammed Ensari Türbesi, Kilis ilinin merkezinde yer alan önemli bir tarihi ve dini yapıdır. Bu türbe, approximately 14. yüzyılda yaşamış olan Şeyh Muhammed Ensari adına inşa edilmiştir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Şeyh Muhammed Ensari Türbesi, hem dini hem de kültürel açıdan önemli bir merkezdir ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir. Türbenin mimarisi, geleneksel Osmanlı tarzında inşa edilmiştir ve güzel bir örnek olarak gösterilebilir. Şeyh Muhammed Ensari Türbesi, aynı zamanda Kilis ilinin önemli bir sembolüdür ve ilin tarihi ve kültürel kimliğini temsil etmektedir.
+Şeyh Muhammed Ensari Türbesi, Kilis ilinin merkezinde yer alan önemli bir tarihi ve dini yapıdır. Bu türbe, approximately 14. yüzyılda yaşamış olan Şeyh Muhammed Ensari adına inşa edilmiştir. Şeyh Muhammed Ensari Türbesi, hem dini hem de kültürel açıdan önemli bir merkezdir ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir. Türbenin mimarisi, geleneksel Osmanlı tarzında inşa edilmiştir ve güzel bir örnek olarak gösterilebilir. Şeyh Muhammed Ensari Türbesi, aynı zamanda Kilis ilinin önemli bir sembolüdür ve ilin tarihi ve kültürel kimliğini temsil etmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390874"
 
 ## Coğrafya
 
-Şeyh Muhammed Ensari Türbesi, Kilis ilinin merkezinde yer alan bir tepe üzerinde inşa edilmiştir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Türbenin etrafında, çeşitli ağaçlar ve bitkiler bulunmaktadır ve bu alan, ziyaretçilerin dinlenip huzur bulabileceği bir ortam sağlar. Şeyh Muhammed Ensari Türbesi, Kilis ilinin merkezi bölgesinde yer almaktadır ve ilin diğer önemli tarihi ve dini yapılarına yakındır. Türbenin bulunduğu tepe, ilin diğer bölgelerine göre daha yüksektir ve buradan, ilin diğer önemli noktalarına güzel bir görünüm sağlanmaktadır. Şeyh Muhammed Ensari Türbesi, Kilis ilinin coğrafi konumu itibariyle, ilin diğer önemli tarihi ve dini yapıları ile birlikte, ilin kültürel ve tarihi mirasını temsil etmektedir. Türbenin bulunduğu bölgede, iklim genellikle ılımandır ve ziyaretçilerin yılın her döneminde ziyaret edebileceği bir ortamdır.
+Şeyh Muhammed Ensari Türbesi, Kilis ilinin merkezinde yer alan bir tepe üzerinde inşa edilmiştir. Türbenin etrafında, çeşitli ağaçlar ve bitkiler bulunmaktadır ve bu alan, ziyaretçilerin dinlenip huzur bulabileceği bir ortam sağlar. Şeyh Muhammed Ensari Türbesi, Kilis ilinin merkezi bölgesinde yer almaktadır ve ilin diğer önemli tarihi ve dini yapılarına yakındır. Türbenin bulunduğu tepe, ilin diğer bölgelerine göre daha yüksektir ve buradan, ilin diğer önemli noktalarına güzel bir görünüm sağlanmaktadır. Şeyh Muhammed Ensari Türbesi, Kilis ilinin coğrafi konumu itibariyle, ilin diğer önemli tarihi ve dini yapıları ile birlikte, ilin kültürel ve tarihi mirasını temsil etmektedir. Türbenin bulunduğu bölgede, iklim genellikle ılımandır ve ziyaretçilerin yılın her döneminde ziyaret edebileceği bir ortamdır.
 
 ## Flora ve Fauna
 

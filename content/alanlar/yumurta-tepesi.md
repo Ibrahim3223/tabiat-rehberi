@@ -28,7 +28,7 @@ wikidata_id: "Q31390492"
 
 # Yumurta Tepesi
 
-Yumurta Tepesi, Konya'nın merkezinde bulunan ve şehre hakim bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli bir doğal ve turistik noktası. Bu tepe, Konya'nın tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan. Yumurta Tepesi, şehre gelen ziyaretçilerin ilgisini çeken bir yer.
+Yumurta Tepesi, Konya'nın merkezinde bulunan ve şehre hakim bir tepe. Bu tepe, Konya'nın tarihi ve kültürel zenginliklerini yansıtan önemli bir mekan. Yumurta Tepesi, şehre gelen ziyaretçilerin ilgisini çeken bir yer.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390865"
 
 # Lalesivri Tepesi
 
-Lalesivri Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinde yer alan ve ziyaretçilerine benzersiz bir deneyim sunan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplıdır. Bu tepenin eteklerinde, zengin fauna çeşitliliğiyle karşılaşma mümkün. Lalesivri Tepesi, hem doğa severlerin hem de tarihi ve kültürel zenginliklere meraklı olanların ilgisini çekecek bir destinasyondur.
+Lalesivri Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinde yer alan ve ziyaretçilerine benzersiz bir deneyim sunan bir doğa harikasıdır. Bu tepenin eteklerinde, zengin fauna çeşitliliğiyle karşılaşma mümkün. Lalesivri Tepesi, hem doğa severlerin hem de tarihi ve kültürel zenginliklere meraklı olanların ilgisini çekecek bir destinasyondur.
 
 ## Tarihçe
 

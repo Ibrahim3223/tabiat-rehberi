@@ -1,7 +1,7 @@
 ---
 title: "Istanbul-Bahcekoy-Bentler Sahil Cami"
 date: "2026-01-09T19:51:35.011Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "İstanbul"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227280"
 
 # Istanbul-Bahcekoy-Bentler Sahil Cami
 
-İstanbul'un Bahçeköy ilçesinde bulunan Bentler Sahil Cami, Marmara Bölgesi'nin doğal güzelliklerini ve tarihi değerlerini bir araya getiren özel bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş yeşil alanları ve huzurlu atmosferi ile karşılar. Bentler Sahil Cami, özellikle gün batımı saatlerinde ziyaretçilerine unutulmaz manzaralar sunuyor. Caminin mimarisi, geleneksel Türk mimari unsurları ile modern çizgileri bir araya getirerek, ziyaretçilere estetik bir deneyim sunuyor.
+İstanbul'un Bahçeköy ilçesinde bulunan Bentler Sahil Cami, Marmara Bölgesi'nin doğal güzelliklerini ve tarihi değerlerini bir araya getiren özel bir nokta. Caminin mimarisi, geleneksel Türk mimari unsurları ile modern çizgileri bir araya getirerek, ziyaretçilere estetik bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Bentler Sahil Cami, Marmara Bölgesi'nin coğrafi güzelliklerine sahip bir böl
 
 ## Flora ve Fauna
 
-Bentler Sahil Cami'nin bulunduğu bölgede, çeşitli bitki türleri ve fauna encontruluyor. Bölgenin ekolojik yapısı, ziyaretçilere zengin bir doğa deneyimi sunuyor. Bentler Sahil Cami'nin çevresinde, mevsimsel olarak değişen bitki türleri ve ağaçlar encontruluyor. Bölgede, özellikle ilkbahar ve sonbahar aylarında, renkli çiçekler ve yapraklar ile karşılaşma mümkün. Bentler Sahil Cami'nin bulunduğu bölgede, ayrıca çeşitli kuş türleri ve diğer hayvanlar da encontruluyor. Bu da, ziyaretçilere bir doğa belgeseli deneyimi sunuyor. Bentler Sahil Cami, flora ve fauna açısından da zengin bir bölge olarak, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Bentler Sahil Cami'nin bulunduğu bölgede, çeşitli bitki türleri ve fauna encontruluyor. Bölgenin ekolojik yapısı, ziyaretçilere zengin bir doğa deneyimi sunuyor. Bentler Sahil Cami'nin çevresinde, mevsimsel olarak değişen bitki türleri ve ağaçlar encontruluyor. Bölgede, özellikle ilkbahar ve sonbahar aylarında, renkli çiçekler ve yapraklar ile karşılaşma mümkün. Bentler Sahil Cami'nin bulunduğu bölgede, ayrıca çeşitli kuş türleri ve diğer hayvanlar da encontruluyor. Bu da, ziyaretçilere bir doğa belgeseli deneyimi sunuyor.
 
 ## Ziyaret Bilgileri
 
@@ -44,6 +44,6 @@ Bentler Sahil Cami'ni ziyaret etmek, hem doğal güzellikleri hem de tarihi değ
 
 - Bentler Sahil Cami, İstanbul'un en büyük camileri arasında yer alıyor.
 - Caminin inşası,traditional Türk mimari unsurları ile modern çizgileri bir araya getirerek yapılmıştır.
-- Bentler Sahil Cami, özellikle gün batımı saatlerinde ziyaretçilerine unutulmaz manzaralar sunuyor.
+
 - Cami, yüzyıllar boyunca çeşitli dönemlerden geçen ve farklı medeniyetlerin izlerini taşıyan bir bölgede yer alıyor.
 - Bentler Sahil Cami, hem dinî hem de kültürel bir merkez olarak hizmet vermeye devam ediyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q31554150"
 
 # Varisuleyman Tepesi
 
-Varisuleyman Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Varisuleyman Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepenin yüksekliği ve konumu, bölgenin coğrafyasını şekillendiriyor. Varisuleyman Tepesi, doğa severler ve macera arayışında olanlar için bir çekim merkezi olarak dikkat çekiyor. Burada, doğanın güzelliği ve bölgenin tarihi geçmişi bir araya geliyor.
+Varisuleyman Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe olarak karşımıza çıkıyor. Varisuleyman Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepenin yüksekliği ve konumu, bölgenin coğrafyasını şekillendiriyor. Varisuleyman Tepesi, doğa severler ve macera arayışında olanlar için bir çekim merkezi olarak dikkat çekiyor. Burada, doğanın güzelliği ve bölgenin tarihi geçmişi bir araya geliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Varisuleyman Tepesi'nin tarihi geçmişi, bölgenin tarihinde önemli bir yer tu
 
 ## Coğrafya
 
-Varisuleyman Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafyasını şekillendiren önemli bir tepe olarak karşımıza çıkıyor. Bu tepe, 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Varisuleyman Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepenin yüksekliği ve konumu, bölgenin coğrafyasını şekillendiriyor. Varisuleyman Tepesi, doğa severler ve macera arayışında olanlar için bir çekim merkezi olarak dikkat çekiyor. Burada, doğanın güzelliği ve bölgenin tarihi geçmişi bir araya geliyor. Bu tepenin coğrafyası, bölgenin iklimini ve çevre koşullarını etkiliyor. Varisuleyman Tepesi, bölgenin coğrafyasını şekillendiren önemli bir mekan olarak dikkat çekiyor. Coğrafi konumu, bu tepenin etrafındaki bitki ve hayvan türlerinin çeşitliliğini etkiliyor.
+Varisuleyman Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafyasını şekillendiren önemli bir tepe olarak karşımıza çıkıyor. Varisuleyman Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepenin yüksekliği ve konumu, bölgenin coğrafyasını şekillendiriyor. Varisuleyman Tepesi, doğa severler ve macera arayışında olanlar için bir çekim merkezi olarak dikkat çekiyor. Burada, doğanın güzelliği ve bölgenin tarihi geçmişi bir araya geliyor. Bu tepenin coğrafyası, bölgenin iklimini ve çevre koşullarını etkiliyor. Varisuleyman Tepesi, bölgenin coğrafyasını şekillendiren önemli bir mekan olarak dikkat çekiyor. Coğrafi konumu, bu tepenin etrafındaki bitki ve hayvan türlerinin çeşitliliğini etkiliyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Varisuleyman Tepesi, doğa severler ve macera arayışında olanlar için bir ç
 ## İlginç Bilgiler
 
 - Varisuleyman Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Varisuleyman Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı.
 - Bu tepenin yüksekliği ve konumu, bölgenin coğrafyasını şekillendiriyor.
 - Varisuleyman Tepesi, doğa severler ve macera arayışında olanlar için bir çekim merkezi olarak dikkat çekiyor.

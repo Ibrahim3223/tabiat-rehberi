@@ -28,7 +28,7 @@ wikidata_id: "Q31386480"
 
 # Bugor Mata-Tepe
 
-Hatay'ın doğal güzelliklerinden biri olan Bugor Mata-Tepe, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor. Bu alan, yaban hayatının çeşitliliği ve doğal güzelliği ile ziyaretçilerini cezbediyor. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. İnsanlar bu tepeyi ziyaret ettiğinde, hem doğanın güzelliğini görebiliyor hem de yaban hayatının çeşitliliğini gözlemleyebiliyor.
+ Bu alan, yaban hayatının çeşitliliği ve doğal güzelliği ile ziyaretçilerini cezbediyor. 140 hektarlık bu yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. İnsanlar bu tepeyi ziyaret ettiğinde, hem doğanın güzelliğini görebiliyor hem de yaban hayatının çeşitliliğini gözlemleyebiliyor.
 
 ## Tarihçe
 

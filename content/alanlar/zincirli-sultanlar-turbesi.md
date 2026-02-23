@@ -1,7 +1,7 @@
 ---
 title: "Zincirli Sultanlar Türbesi"
 date: "2026-01-10T07:29:31.480Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391008"
 
 # Zincirli Sultanlar Türbesi
 
-Fatih, İstanbul'da bulunan Zincirli Sultanlar Türbesi, Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un kalbi sayılan Fatih ilçesinde yer alır. Burada, geçmişi yüzyıllara dayanan bir türbe ve plajın bir araya geldiği benzersiz bir atmosfer bulunur. İstanbul'un tarihi dokusunu keşfetmek isteyenler için ideal bir destinasyon olan Zincirli Sultanlar Türbesi, ziyaretçilerini bekliyor.
+Fatih, İstanbul'da bulunan Zincirli Sultanlar Türbesi, Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Burada, geçmişi yüzyıllara dayanan bir türbe ve plajın bir araya geldiği benzersiz bir atmosfer bulunur. İstanbul'un tarihi dokusunu keşfetmek isteyenler için ideal bir destinasyon olan Zincirli Sultanlar Türbesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Zincirli Sultanlar Türbesi, tarihi geçmişiyle dikkat çekici bir noktadır. �
 
 ## Coğrafya
 
-Zincirli Sultanlar Türbesi, Marmara Bölgesi'nin İstanbul şehrinde, Fatih ilçesinde yer alır. Bu bölgenin coğrafi yapısı, geniş bir plaj ve tarihi türbe ile karakterizedir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. İstanbul'un merkezi bir konumunda bulunan Zincirli Sultanlar Türbesi, şehrin kalabalık ve hareketli atmosferinin yanı sıra, ziyaretçilerine sakin ve doğal bir ortam sunar. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim ziyaret edilebilir. Çevre, tarihi yapılar ve doğal güzelliklerle dolu olan Zincirli Sultanlar Türbesi, ziyaretçilerini bekliyor.
+Zincirli Sultanlar Türbesi, Marmara Bölgesi'nin İstanbul şehrinde, Fatih ilçesinde yer alır. Bu bölgenin coğrafi yapısı, geniş bir plaj ve tarihi türbe ile karakterizedir. İstanbul'un merkezi bir konumunda bulunan Zincirli Sultanlar Türbesi, şehrin kalabalık ve hareketli atmosferinin yanı sıra, ziyaretçilerine sakin ve doğal bir ortam sunar. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim ziyaret edilebilir. Çevre, tarihi yapılar ve doğal güzelliklerle dolu olan Zincirli Sultanlar Türbesi, ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

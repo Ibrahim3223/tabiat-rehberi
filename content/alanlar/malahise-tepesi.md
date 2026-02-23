@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","tarih k
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Malahişe Tepesi","caption":"Malahişe Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Malahi%C5%9Fe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552296","tip":"genel"}]
-description: "Mardin'in históri ve coğrafik güzelliği ile ön plana çıkan Malahişe Tepesi, ziyaretçilere şehrin panoramik manzarasını sunuyor."
+description: "Mardin'in tarihi ve coğrafik güzelliği ile ön plana çıkan Malahişe Tepesi, ziyaretçilere şehrin panoramik manzarasını sunuyor."
 keywords: ["Malahişe Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","tarihçe","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31552296"
@@ -28,7 +28,7 @@ wikidata_id: "Q31552296"
 
 # Malahişe Tepesi
 
-Malahişe Tepesi, Mardin'in históri ve coğrafik güzelliği ile ön plana çıkan bir bölge. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Ziyaretçiler, tepenin zirvesine çıkarak Mardin'in panoramik manzarasını izleyebilirler. Malahişe Tepesi, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, mevsimsel değişimlere bağlı olarak farklı canlı türleri görebilme mümkün.
+Malahişe Tepesi, Mardin'in tarihi ve coğrafik güzelliği ile ön plana çıkan bir bölge. Ziyaretçiler, tepenin zirvesine çıkarak Mardin'in panoramik manzarasını izleyebilirler. Malahişe Tepesi, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Burada, mevsimsel değişimlere bağlı olarak farklı canlı türleri görebilme mümkün.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Malahişe Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. 
 
 ## Ziyaret Bilgileri
 
-Malahişe Tepesi'ni ziyaret etmek, Mardin'in históri ve coğrafik güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Ziyaretçiler, tepenin zirvesine çıkarak şehrin panoramik manzarasını izleyebilirler. Malahişe Tepesi'ne, Mardin şehir merkezinden kolayca ulaşımümkün. Ziyaretçiler, bu bölgeyi gezerek tarihi ve coğrafi değerleri hakkında derin bilgiler edinebilirler. Malahişe Tepesi, ziyaretçilere doğa ile iç içe bir deneyim sunuyor.
+Malahişe Tepesi'ni ziyaret etmek, Mardin'in tarihi ve coğrafik güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Ziyaretçiler, tepenin zirvesine çıkarak şehrin panoramik manzarasını izleyebilirler. Malahişe Tepesi'ne, Mardin şehir merkezinden kolayca ulaşımümkün. Ziyaretçiler, bu bölgeyi gezerek tarihi ve coğrafi değerleri hakkında derin bilgiler edinebilirler. Malahişe Tepesi, ziyaretçilere doğa ile iç içe bir deneyim sunuyor.
 
 ## İlginç Bilgiler
 

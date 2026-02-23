@@ -33,7 +33,7 @@ Karadeniz Bölgesi'nin en güzel noktalarından biri olan Ordu, Hoynat Adası il
 
 ## Tarihçe
 
-Ordu bölgesinin zengin tarihi, Hoynat Adası'nın doğal güzelliğini çevreleyen bir çerçeve oluşturur. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, Ordu'nun stratejik konumundan faydalanmışlardır. 
+Ordu bölgesinin zengin tarihi, Hoynat Adası'nın doğal güzelliğini çevreleyen bir çerçeve oluşturur. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Hitit, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, Ordu'nun stratejik konumundan faydalanmışlardır.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin ekonomisini ve toplumsal yapısını şekillendirmiştir. Ayrıca, tarihi ticaret yollarının üzerinde bulunan Ordu, doğu-batı arasındaki kültürel ve ekonomik alışverişi desteklemiştir.
 
@@ -51,9 +51,9 @@ Mevsimsel değişikliklere göre hava durumu değişen Hoynat Adası, Karadeniz'
 
 ## Flora ve Fauna
 
-Hoynat Adası, Ordu'nun nemli ikliminin hakim olduğu bir bölgede yer alan 1200 hektarlık bir yeşil cennet. İlkbaharın gelmesiyle birlikte, ada çiçeklerle kaplanır. Mevsimsel değişimlerle birlikte, ada ekosistemi zengin bir bitki örtüsüne sahip olur. 
+Hoynat Adası, Ordu'nun nemli ikliminin hakim olduğu bir bölgede yer alan 1200 hektarlık bir yeşil cennet. İlkbaharın gelmesiyle birlikte, ada çiçeklerle kaplanır. Mevsimsel değişimlerle birlikte, ada ekosistemi zengin bir bitki örtüsüne sahip olur.
 
-Ada, gür ormanları ve yüksek biyoçeşitliliği ile dikkat çeker. Nemli iklim, çeşitli bitki türlerinin gelişimine olanak tanır. Kıyı bitkileri, ada çevresindeki kayalık alanlarda bulunur. 
+Ada, gür ormanları ve yüksek biyoçeşitliliği ile dikkat çeker. Nemli iklim, çeşitli bitki türlerinin gelişimine olanak tanır. Kıyı bitkileri, ada çevresindeki kayalık alanlarda bulunur.
 
 Ada, deniz kuşlarının önemli bir uğrak noktasıdır. Göç mevsiminde, adaya birçok kuş türünün geldiğini gözlemleyebiliriz. Ada ekosisteminin izole yapısı, benzersiz bir fauna oluşumuna yol açar. Memeliler ve sürüngenler de adanın yaban hayatının önemli bir parçasını oluşturur.
 

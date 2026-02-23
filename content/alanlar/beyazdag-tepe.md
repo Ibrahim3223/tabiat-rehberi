@@ -50,11 +50,11 @@ Jeolojik açıdan bakıldığında, Beyazdağ Tepe'nin fiziksel yapısı hakkın
 
 ## Flora ve Fauna
 
-Beyazdağ Tepe, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Beyazdağ Tepe, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte alpin çayırlar renklendir. Çiçekler açar ve dağ havası mis gibi kokar. Sonbaharda ise yaprakların dökülmesiyle birlikte dağ manzarası değişir. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte alpin çayırlar renklendir. Çiçekler açar ve dağ havası mis gibi kokar. Sonbaharda ise yaprakların dökülmesiyle birlikte dağ manzarası değişir.
 
-Yaban Hayatı olarak, memeliler, kuşlar ve sürüngenler bu dağda yaşamlarını sürdürürler. Dağ keçileri, kartallar ve yılanlar bu bölgenin önemli hayvanlarındandır. 
+Yaban Hayatı olarak, memeliler, kuşlar ve sürüngenler bu dağda yaşamlarını sürdürürler. Dağ keçileri, kartallar ve yılanlar bu bölgenin önemli hayvanlarındandır.
 
 Ekolojik Değer olarak, Beyazdağ Tepe'nin yüksek dağ ekosistemi ve alpin çayırları, endemik türlerin yaşaması için önemli bir yaşam alanı sağlar. Bu nedenle, koruma altına alınması büyük önem taşır.
 

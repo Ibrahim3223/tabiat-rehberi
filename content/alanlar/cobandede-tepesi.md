@@ -28,7 +28,7 @@ wikidata_id: "Q34819509"
 
 # Çobandede Tepesi
 
-Erzurum'un doğusunda yer alan Çobandede Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal güzelliği ve zengin flora/fauna çeşitliliği ile dikkat çekiyor. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor. Çobandede Tepesi, Erzurum'un önemli doğal alanlarından biri olarak biliniyor ve ziyaretçilerini etkileyici manzaraları ile karşılıyor.
+ Bu bölge, doğal güzelliği ve zengin flora/fauna çeşitliliği ile dikkat çekiyor. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor. Çobandede Tepesi, Erzurum'un önemli doğal alanlarından biri olarak biliniyor ve ziyaretçilerini etkileyici manzaraları ile karşılıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Erzurum'un doğusunda yer alan Çobandede Tepesi, 140 hektarlık yeşil alanı i
 
 ## Coğrafya
 
-Çobandede Tepesi, Erzurum'un doğusunda yer alıyor ve 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal güzelliği ve zengin flora/fauna çeşitliliği ile dikkat çekiyor. Çobandede Tepesi, Erzurum'un coğrafi olarak önemli bir bölgesi olarak biliniyor ve ziyaretçilerine etkileyici manzaraları ile karşılıyor. Bu tepe, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor. Çobandede Tepesi'nin coğrafi konumu, ziyaretçilere doğal güzelliği ve tarihsel geçmişini keşfetme fırsatı sunarken, aynı zamanda zengin flora/fauna çeşitliliği ile de dikkat çekiyor. Bu bölge, Erzurum'un önemli doğal alanlarından biri olarak biliniyor ve ziyaretçilerini etkileyici manzaraları ile karşılıyor. Çobandede Tepesi, coğrafi olarak önemli bir bölge olarak biliniyor ve ziyaretçilerine tarihsel geçmişini, doğal güzelliğini ve zengin flora/fauna çeşitliliğini keşfetme fırsatı sunuyor.
+ Bu bölge, doğal güzelliği ve zengin flora/fauna çeşitliliği ile dikkat çekiyor. Çobandede Tepesi, Erzurum'un coğrafi olarak önemli bir bölgesi olarak biliniyor ve ziyaretçilerine etkileyici manzaraları ile karşılıyor. Bu tepe, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor. Çobandede Tepesi'nin coğrafi konumu, ziyaretçilere doğal güzelliği ve tarihsel geçmişini keşfetme fırsatı sunarken, aynı zamanda zengin flora/fauna çeşitliliği ile de dikkat çekiyor. Bu bölge, Erzurum'un önemli doğal alanlarından biri olarak biliniyor ve ziyaretçilerini etkileyici manzaraları ile karşılıyor. Çobandede Tepesi, coğrafi olarak önemli bir bölge olarak biliniyor ve ziyaretçilerine tarihsel geçmişini, doğal güzelliğini ve zengin flora/fauna çeşitliliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

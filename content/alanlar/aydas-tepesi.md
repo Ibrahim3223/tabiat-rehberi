@@ -28,11 +28,11 @@ wikidata_id: "Q31389912"
 
 # Aydaş Tepesi
 
-Aydaş Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanı ile dikkat çekmektedir. Bu tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın güzelliğini sunan bir noktadır. Aydaş Tepesi, özellikle doğa severlerin ve şehir hayatından kaçmak isteyenlerin tercih ettiği bir destinasyon olarak bilinir. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunurken, tepe üzerindeki manzara da ziyaretçilere unutulmaz anlar yaşatmaktadır.
+ Bu tepe, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın güzelliğini sunan bir noktadır. Aydaş Tepesi, özellikle doğa severlerin ve şehir hayatından kaçmak isteyenlerin tercih ettiği bir destinasyon olarak bilinir. Tepenin eteklerinde çeşitli bitkiler ve ağaçlar bulunurken, tepe üzerindeki manzara da ziyaretçilere unutulmaz anlar yaşatmaktadır.
 
 ## Tarihçe
 
-Aydaş Tepesi'nin tarihi geçmişi, yüzyıllar boyunca různé medeniyetlerin yaşadığı bir bölge olarak bilinir. Ancak, tepe ile ilgili net bir tarih bilgisi bulunmamaktadır. Tarihi geçmişi hakkında bilgi veren kaynaklar, tepe ve çevresinin uzun süreler boyunca yerleşim alanı olarak kullanıldığını belirtmektedir. Aydaş Tepesi, günümüzde Samsun'un önemli turizm noktalarından biri olarak kabul edilir ve ziyaretçilere şehrin ve Karadeniz Bölgesi'nin güzelliğini göstermektedir. Tepenin história hakkında daha bilgiler bulunmasa da, bölgenin kültürel ve doğal mirasının bir parçası olarak kabul edilmektedir.
+Aydaş Tepesi'nin tarihi geçmişi, yüzyıllar boyunca různé medeniyetlerin yaşadığı bir bölge olarak bilinir. Ancak, tepe ile ilgili net bir tarih bilgisi bulunmamaktadır. Tarihi geçmişi hakkında bilgi veren kaynaklar, tepe ve çevresinin uzun süreler boyunca yerleşim alanı olarak kullanıldığını belirtmektedir. Aydaş Tepesi, günümüzde Samsun'un önemli turizm noktalarından biri olarak kabul edilir ve ziyaretçilere şehrin ve Karadeniz Bölgesi'nin güzelliğini göstermektedir. Tepenin tarihi hakkında daha bilgiler bulunmasa da, bölgenin kültürel ve doğal mirasının bir parçası olarak kabul edilmektedir.
 
 ## Coğrafya
 

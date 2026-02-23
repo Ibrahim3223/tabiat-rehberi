@@ -28,7 +28,7 @@ wikidata_id: "Q31388279"
 
 # Kızıkkıran Tepesi
 
-Kızıkkıran Tepesi, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan ve doğal güzellikleri ile tarihi geçmişiyle dikkat çeken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte çeşitli bitki türleri ve zengin fauna barındırıyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın bir parçası olmak için fırsat sunuyor. Kızıkkıran Tepesi, hem doğa severler hem de tarih meraklıları için eşsiz bir gezi deneyimi sunuyor.
+Kızıkkıran Tepesi, Doğu Anadolu Bölgesi'nin Kars ilinde yer alan ve doğal güzellikleri ile tarihi geçmişiyle dikkat çeken bir destinasyon. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın bir parçası olmak için fırsat sunuyor. Kızıkkıran Tepesi, hem doğa severler hem de tarih meraklıları için eşsiz bir gezi deneyimi sunuyor.
 
 ## Tarihçe
 

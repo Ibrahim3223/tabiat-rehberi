@@ -29,7 +29,7 @@ wikidata_id: "Q134728394"
 
 # Köseli Mahallesi Tümülüsü Kavak
 
-Köseli Mahallesi Tümülüsü Kavak, Karadeniz Bölgesi'nin Samsun iline bağlı Kavak'ta yer alır. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal güzelliklerinden biridir. Köseli Mahallesi Tümülüsü Kavak, ziyaretçilerini geniş ve ferah mekanıyla karşılar. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkündür. Köseli Mahallesi Tümülüsü Kavak, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
+Köseli Mahallesi Tümülüsü Kavak, Karadeniz Bölgesi'nin Samsun iline bağlı Kavak'ta yer alır. Köseli Mahallesi Tümülüsü Kavak, ziyaretçilerini geniş ve ferah mekanıyla karşılar. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkündür. Köseli Mahallesi Tümülüsü Kavak, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Köseli Mahallesi Tümülüsü Kavak'ın tarihi geçmişi, bölgenin zengin kül
 
 ## Coğrafya
 
-Köseli Mahallesi Tümülüsü Kavak, Karadeniz Bölgesi'nin Samsun iline bağlı Kavak'ta yer alır. Bu bölge, Karadeniz kıyı şeridinin önemli bir bölümünü oluşturur. Köseli Mahallesi Tümülüsü Kavak, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal güzelliklerinden biridir. Bu alan, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Köseli Mahallesi Tümülüsü Kavak, Karadeniz Bölgesi'nin iklim koşullarına uygun olarak, ılıman ve nemli bir bölgedir. Bu bölge, Karadeniz Bölgesi'nin coğrafi güzelliklerini ve doğal zenginliklerini barındıran önemli bir alandır.
+Köseli Mahallesi Tümülüsü Kavak, Karadeniz Bölgesi'nin Samsun iline bağlı Kavak'ta yer alır. Bu bölge, Karadeniz kıyı şeridinin önemli bir bölümünü oluşturur. Bu alan, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Köseli Mahallesi Tümülüsü Kavak, Karadeniz Bölgesi'nin iklim koşullarına uygun olarak, ılıman ve nemli bir bölgedir. Bu bölge, Karadeniz Bölgesi'nin coğrafi güzelliklerini ve doğal zenginliklerini barındıran önemli bir alandır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Köseli Mahallesi Tümülüsü Kavak, ziyaretçilerini geniş ve ferah mekanıyl
 
 ## İlginç Bilgiler
 
-- Köseli Mahallesi Tümülüsü Kavak, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu bölge, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir.
 - Köseli Mahallesi Tümülüsü Kavak, tarihi ve kültürel önemi nedeniyle önemli bir turizm merkezidir.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile karakterizedir.

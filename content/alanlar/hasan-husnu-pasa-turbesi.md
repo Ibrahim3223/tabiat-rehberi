@@ -1,7 +1,7 @@
 ---
 title: "Hasan Hüsnü Paşa Türbesi"
 date: "2026-01-10T07:25:58.792Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391068"
 
 # Hasan Hüsnü Paşa Türbesi
 
-İstanbul'un Eyüpsultan ilçesinde bulunan Hasan Hüsnü Paşa Türbesi, tarihi ve doğal güzelliğin birleştiği özel bir noktada yer alır. Bu alan, yaklaşık 140 hektarlık genişlikteki yeşil alanıyla, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak gibi görünür. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve böylece geniş bir alan sunar. Hasan Hüsnü Paşa Türbesi, hem tarihi önemini korur hem de ziyaretçilerine doğanın güzelliğini sunar.
+İstanbul'un Eyüpsultan ilçesinde bulunan Hasan Hüsnü Paşa Türbesi, tarihi ve doğal güzelliğin birleştiği özel bir noktada yer alır. Hasan Hüsnü Paşa Türbesi, hem tarihi önemini korur hem de ziyaretçilerine doğanın güzelliğini sunar.
 
 ## Tarihçe
 

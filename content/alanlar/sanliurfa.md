@@ -23,7 +23,7 @@ wikidata_id: "Q108228759"
 
 # ŞANLIURFA
 
-Şanlıurfa, Güneydoğu Anadolu Bölgesi'nin zengin doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Şanlıurfa'nın coğrafi konumu, birçok farklı bitki türünün ve yaban hayvanının yaşamasına olanak tanır. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca birçok farklı kültürün etkilerini taşır.
+Şanlıurfa, Güneydoğu Anadolu Bölgesi'nin zengin doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor. Şanlıurfa'nın coğrafi konumu, birçok farklı bitki türünün ve yaban hayvanının yaşamasına olanak tanır. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca birçok farklı kültürün etkilerini taşır.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31389047"
 
 # Molla Tepesi
 
-Molla Tepesi, Erzurum'un merkezine yakın bir konumda yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Molla Tepesi, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için bir sığınak harika bir deneyim. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel lezzetler sunuyor ve bölgeye özgü ürünlerle donatılmış hediyelik eşya dükkanları bulunmakta.
+Molla Tepesi, Erzurum'un merkezine yakın bir konumda yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Molla Tepesi, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için bir sığınak harika bir deneyim. Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel lezzetler sunuyor ve bölgeye özgü ürünlerle donatılmış hediyelik eşya dükkanları bulunmakta.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Molla Tepesi, coğrafi olarak oldukça zengin bir bölge. Tepenin eteklerinde ye
 
 ## Flora ve Fauna
 
-Molla Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin eteklerinde yer alan ormanlar, çeşitli ağaç türleriyle dolu ve bölgede yer alan çayırlar, çeşitli bitki türlerine ev sahipliği yapıyor. Tepede yer alan akarsular, çeşitli balık türlerine ev sahipliği yapıyor ve bölgede yer alan diğer su kaynakları, çeşitli su canlılarına yaşam alanı sunuyor. Molla Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Tepede yer alan yaban hayatını korumak için bölgede çeşitli koruma çalışmaları yürütülüyor.
+ Tepenin eteklerinde yer alan ormanlar, çeşitli ağaç türleriyle dolu ve bölgede yer alan çayırlar, çeşitli bitki türlerine ev sahipliği yapıyor. Tepede yer alan akarsular, çeşitli balık türlerine ev sahipliği yapıyor ve bölgede yer alan diğer su kaynakları, çeşitli su canlılarına yaşam alanı sunuyor. Molla Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapıyor. Tepede yer alan yaban hayatını korumak için bölgede çeşitli koruma çalışmaları yürütülüyor.
 
 ## Ziyaret Bilgileri
 
@@ -53,4 +53,4 @@ Molla Tepesi, ziyaretçilere çeşitli etkinlik olanakları sunuyor. Tepenin zir
 - Tepenin eteklerinde yer alan köyler, ziyaretçilere yerel lezzetler sunuyor.
 - Molla Tepesi, tarihsel olarak önemli bir bölge.
 - Tepede yer alan akarsular, çeşitli balık türlerine ev sahipliği yapıyor.
-- Molla Tepesi, flora ve fauna açısından oldukça zengin bir bölge.
+

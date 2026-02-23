@@ -1,7 +1,7 @@
 ---
 title: "Gündoğdu Türbesi"
 date: "2026-01-10T07:13:19.223Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Niğde"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390932"
 
 # Gündoğdu Türbesi
 
-Gündoğdu Türbesi, İç Anadolu Bölgesi'nin kalbinde, Niğde ilinde yer alan tarihi ve kültürel bir mirastır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Gündoğdu Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Burada, tarihi yapıların yanı sıra, bölgenin florası ve faunası hakkında da bilgi edinebilirsiniz. Gündoğdu Türbesi, Niğde'nin önemli turizm noktalarından biri olarak dikkat çeker.
+Gündoğdu Türbesi, İç Anadolu Bölgesi'nin kalbinde, Niğde ilinde yer alan tarihi ve kültürel bir mirastır. Gündoğdu Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Burada, tarihi yapıların yanı sıra, bölgenin florası ve faunası hakkında da bilgi edinebilirsiniz. Gündoğdu Türbesi, Niğde'nin önemli turizm noktalarından biri olarak dikkat çeker.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gündoğdu Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Gündoğdu Türbesi, Niğde ilinin merkezinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölge, genellikle step ve bozkır gibi doğal alanlardan oluşur. Gündoğdu Türbesi'nin bulunduğu alan, 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Gündoğdu Türbesi'nin çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, doğal güzellikleri ile dikkat çeker ve ziyaretçilere, doğa ile iç içe bir deneyim sunar. Gündoğdu Türbesi, Niğde'nin önemli coğrafi noktalarından biri olarak bilinir ve ziyaretçilere, bölgenin doğal güzelliklerini keşfetme fırsatı verir.
+Gündoğdu Türbesi, Niğde ilinin merkezinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölge, genellikle step ve bozkır gibi doğal alanlardan oluşur. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Gündoğdu Türbesi'nin çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Bu bölge, doğal güzellikleri ile dikkat çeker ve ziyaretçilere, doğa ile iç içe bir deneyim sunar. Gündoğdu Türbesi, Niğde'nin önemli coğrafi noktalarından biri olarak bilinir ve ziyaretçilere, bölgenin doğal güzelliklerini keşfetme fırsatı verir.
 
 ## Flora ve Fauna
 

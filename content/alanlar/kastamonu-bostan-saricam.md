@@ -22,7 +22,7 @@ wikidata_id: "Q108227698"
 
 # Kastamonu-Bostan Saricam
 
-Kastamonu-Bostan Saricam milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Kastamonu ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir yer. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, çevreyi keşfedebilir ve bölgenin güzelliklerini keşfetmek için birçok fırsat bulabilir.
+Kastamonu-Bostan Saricam milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, çevreyi keşfedebilir ve bölgenin güzelliklerini keşfetmek için birçok fırsat bulabilir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Kastamonu-Bostan Saricam milli parkını ziyaret etmek, doğa severler için ide
 
 ## İlginç Bilgiler
 
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölgedir.
 - Milli parkın kuruluşu, bölgenin doğal güzelliklerini koruma ve gelecek nesillere aktarmak amacıyla gerçekleştirilmiştir.

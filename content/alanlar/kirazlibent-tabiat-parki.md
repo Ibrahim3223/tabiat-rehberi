@@ -30,7 +30,7 @@ wikidata_id: "Q30623316"
 
 # Kirazlıbent Tabiat Parkı
 
-Kirazlıbent Tabiat Parkı, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için mükemmel bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak. Parkın içinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Kirazlıbent Tabiat Parkı, aynı zamanda doğal yürüyüş yolları ve piknik alanları ile ziyaretçilere keyifli bir gün geçirmeleri için olanak sağlıyor.
+Kirazlıbent Tabiat Parkı, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için mükemmel bir destinasyon. Parkın içinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Kirazlıbent Tabiat Parkı, aynı zamanda doğal yürüyüş yolları ve piknik alanları ile ziyaretçilere keyifli bir gün geçirmeleri için olanak sağlıyor.
 
 ## Tarihçe
 

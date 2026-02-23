@@ -1,7 +1,7 @@
 ---
 title: "Merzifonlu Kara Mustafa Paşa Hamamı"
 date: "2026-01-10T04:17:50.006Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"
@@ -30,7 +30,7 @@ wikidata_id: "Q116792754"
 
 # Merzifonlu Kara Mustafa Paşa Hamamı
 
-Merzifonlu Kara Mustafa Paşa Hamamı, İç Anadolu Bölgesi'nin Merzifon ilçesinde yer alan tarihi bir hamamdır. Bu hamam, Merzifon'un zengin kültürel mirasının önemli bir parçasıdır. 140 hektarlık bir alan üzerinde konumlanan hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Merzifonlu Kara Mustafa Paşa Hamamı, tarihi ve kültürel değerleri ile ziyaretçilerini bekliyor. Merzifon'un merkezi konumunda bulunan hamam, şehrin tarihi dokusunu korunmuş bir şekilde yansıtmaktadır. Merzifonlu Kara Mustafa Paşa Hamamı, şehre gelen ziyaretçilerin gezi rotalarında mutlaka yer alması gereken bir destinasyon.
+Merzifonlu Kara Mustafa Paşa Hamamı, İç Anadolu Bölgesi'nin Merzifon ilçesinde yer alan tarihi bir hamamdır. Bu hamam, Merzifon'un zengin kültürel mirasının önemli bir parçasıdır. Merzifonlu Kara Mustafa Paşa Hamamı, tarihi ve kültürel değerleri ile ziyaretçilerini bekliyor. Merzifon'un merkezi konumunda bulunan hamam, şehrin tarihi dokusunu korunmuş bir şekilde yansıtmaktadır. Merzifonlu Kara Mustafa Paşa Hamamı, şehre gelen ziyaretçilerin gezi rotalarında mutlaka yer alması gereken bir destinasyon.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Merzifonlu Kara Mustafa Paşa Hamamı, tarihsel olarak önemli bir geçmişe sah
 
 ## Coğrafya
 
-Merzifonlu Kara Mustafa Paşa Hamamı, İç Anadolu Bölgesi'nin Merzifon ilçesinde yer almaktadır. Merzifon, Amasya ilinin bir ilçesi olup, İç Anadolu Bölgesi'nin kuzeydoğu kısmında bulunmaktadır. Hamam, Merzifon'un merkezi konumunda yer almakta ve şehrin tarihi dokusunu yansıtmaktadır. Merzifon'un coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bölge, genellikle step ve ova alanlarından oluşmaktadır. Merzifonlu Kara Mustafa Paşa Hamamı, Merzifon'un coğrafi yapısını yansıtan bir yapıttır. Hamamın bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Merzifon'un iklimi, karasal iklim özellikleri taşımaktadır. İlkbahar ve sonbahar mevsimlerinde ılıman bir iklim hakim iken, yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçmektedir.
+Merzifonlu Kara Mustafa Paşa Hamamı, İç Anadolu Bölgesi'nin Merzifon ilçesinde yer almaktadır. Merzifon, Amasya ilinin bir ilçesi olup, İç Anadolu Bölgesi'nin kuzeydoğu kısmında bulunmaktadır. Hamam, Merzifon'un merkezi konumunda yer almakta ve şehrin tarihi dokusunu yansıtmaktadır. Merzifon'un coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır. Bölge, genellikle step ve ova alanlarından oluşmaktadır. Merzifonlu Kara Mustafa Paşa Hamamı, Merzifon'un coğrafi yapısını yansıtan bir yapıttır. Merzifon'un iklimi, karasal iklim özellikleri taşımaktadır. İlkbahar ve sonbahar mevsimlerinde ılıman bir iklim hakim iken, yaz ayları sıcak ve kurak, kış ayları soğuk ve kar yağışlı geçmektedir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Merzifonlu Kara Mustafa Paşa Hamamı, ziyaretçilerini bekliyor. Hamama ulaşı
 ## İlginç Bilgiler
 
 - Merzifonlu Kara Mustafa Paşa Hamamı, Merzifon'un tarihi dokusunu yansıtan önemli bir yapıttır.
-- Hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Merzifonlu Kara Mustafa Paşa Hamamı, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşımaktadır.
 - Hamamın bulunduğu alan, genellikle step ve ova alanlarından oluşmaktadır.
 - Merzifon'un flora ve fauna açısından zengin bir bölge olduğu söylenebilir.

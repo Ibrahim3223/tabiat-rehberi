@@ -32,7 +32,7 @@ Halil Tepesi, Doğu Anadolu Bölgesi'nin güzide illerinden biri olan Bingöl'de
 
 ## Tarihçe
 
-Halil Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe, tarih boyunca birçok medeniyete ev sahipliği yapmış ve her biri bu bölgeye kendi kültürlerini bırakmıştır. Halil Tepesi'nin tarihi hakkındalı bilgi bulunmasa da, bu tepeye yapılan ziyaretler, ziyaretçilere bu bölgenin zengin tarihini keşfetme fırsatı sunuyor. Ayrıca, bu tepeye tırmanırken, bölgenin histórik yapılarını ve anıtlarını da görme mümkün.
+Halil Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe, tarih boyunca birçok medeniyete ev sahipliği yapmış ve her biri bu bölgeye kendi kültürlerini bırakmıştır. Halil Tepesi'nin tarihi hakkındalı bilgi bulunmasa da, bu tepeye yapılan ziyaretler, ziyaretçilere bu bölgenin zengin tarihini keşfetme fırsatı sunuyor. Ayrıca, bu tepeye tırmanırken, bölgenin tarihi yapılarını ve anıtlarını da görme mümkün.
 
 ## Coğrafya
 
@@ -44,12 +44,12 @@ Halil Tepesi, çeşitli bitki türleri ve zengin fauna ile dolu bir bölge. Bu t
 
 ## Ziyaret Bilgileri
 
-Halil Tepesi'ni ziyaret etmek, doğa severler ve história meraklıları için ideal bir faaliyet. Bu tepeye tırmanmak, ziyaretçilere bölgeyi keşfetme fırsatı sunuyor ve Halil Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile dolu. Halil Tepesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar ayları. Bu aylarda, bölge daha serin ve ziyaretçilere daha rahat bir gezi imkanı sunuyor. Halil Tepesi'ne gitmek için, Bingöl ilinin merkezinden hareket eden araçları kullanma mümkün.
+Halil Tepesi'ni ziyaret etmek, doğa severler ve tarihi meraklıları için ideal bir faaliyet. Bu tepeye tırmanmak, ziyaretçilere bölgeyi keşfetme fırsatı sunuyor ve Halil Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile dolu. Halil Tepesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve sonbahar ayları. Bu aylarda, bölge daha serin ve ziyaretçilere daha rahat bir gezi imkanı sunuyor. Halil Tepesi'ne gitmek için, Bingöl ilinin merkezinden hareket eden araçları kullanma mümkün.
 
 ## İlginç Bilgiler
 
 - Halil Tepesi, 140 hektarlık alanı ile ziyaretçilerini doğal güzellikleriyle karşılıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Halil Tepesi'nin etrafı, çeşitli bitki türleriyle dolu.
 - Bu tepe, birçok hayvan türüne ev sahipliği yapıyor.
-- Halil Tepesi'ni ziyaret etmek, doğa severler ve história meraklıları için ideal bir faaliyet.
+- Halil Tepesi'ni ziyaret etmek, doğa severler ve tarihi meraklıları için ideal bir faaliyet.

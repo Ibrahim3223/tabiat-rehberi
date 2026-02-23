@@ -1,7 +1,7 @@
 ---
 title: "Hacı Abdullah Türbesi"
 date: "2026-01-10T07:34:26.847Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391313"
 
 # Hacı Abdullah Türbesi
 
-Hacı Abdullah Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Giresun'un Yağlıdere ilçesinde bulunan bu plaj, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş ve uzun bir kumsala sahiptir. Hacı Abdullah Türbesi, doğal güzelliği ve temizliği ile dikkat çeker. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu nedenle, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak kabul edilir.
+Hacı Abdullah Türbesi, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Giresun'un Yağlıdere ilçesinde bulunan bu plaj, yaklaşık 140 hektarlık bir alanı kaplar. Hacı Abdullah Türbesi, doğal güzelliği ve temizliği ile dikkat çeker. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu nedenle, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Hacı Abdullah Türbesi, Karadeniz Bölgesi'nin en güzel coğrafi bölgelerinde
 
 ## Flora ve Fauna
 
-Hacı Abdullah Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Plajın etrafında, farklı mevsimlerde farklı bitki türleri bulunur. İlkbahar ve yaz aylarında, çiçek açan bitki türleri, sonbahar ve kış aylarında ise, yaprak döken bitki türleri görülür. Bu bölge, aynı zamanda zengin fauna ile de dikkat çeker. Plajın etrafında, çeşitli hayvan türleri bulunur. Bu hayvanlar, plajın temiz ve berrak denizi, çeşitli bitki türleri ve coğrafi konumu sayesinde, burada yaşamlarını sürdürürler. Hacı Abdullah Türbesi, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak kabul edilir.
+ Plajın etrafında, farklı mevsimlerde farklı bitki türleri bulunur. İlkbahar ve yaz aylarında, çiçek açan bitki türleri, sonbahar ve kış aylarında ise, yaprak döken bitki türleri görülür. Bu bölge, aynı zamanda zengin fauna ile de dikkat çeker. Plajın etrafında, çeşitli hayvan türleri bulunur. Bu hayvanlar, plajın temiz ve berrak denizi, çeşitli bitki türleri ve coğrafi konumu sayesinde, burada yaşamlarını sürdürürler. Hacı Abdullah Türbesi, doğa severler ve plaj tutkunları için ideal bir destinasyon olarak kabul edilir.
 
 ## Ziyaret Bilgileri
 

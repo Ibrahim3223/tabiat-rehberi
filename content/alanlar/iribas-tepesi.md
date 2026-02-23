@@ -28,7 +28,7 @@ wikidata_id: "Q31388360"
 
 # İribaş Tepesi
 
-İribaş Tepesi, Erzurum'un doğusunda yer alan ve 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu bölge, doğa yürüyüşü ve dağcılık gibi outdoor aktiviteler için elverişli bir ortam sunuyor. İribaş Tepesi, aynı zamanda çevredeki diğer dağlar ve tepelerle birlikte bir bütün oluşturur. Bu bölge, doğa severler için bir cennet niteliğinde. İribaş Tepesi'nin etrafındaki manzara, ziyaretçilere doğanın güzelliğini gösteriyor. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de barındırıyor. İribaş Tepesi, Erzurum'un önemli turizm merkezlerinden biri olarak kabul ediliyor.
+ Bu bölge, doğa yürüyüşü ve dağcılık gibi outdoor aktiviteler için elverişli bir ortam sunuyor. İribaş Tepesi, aynı zamanda çevredeki diğer dağlar ve tepelerle birlikte bir bütün oluşturur. Bu bölge, doğa severler için bir cennet niteliğinde. İribaş Tepesi'nin etrafındaki manzara, ziyaretçilere doğanın güzelliğini gösteriyor. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de barındırıyor. İribaş Tepesi, Erzurum'un önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

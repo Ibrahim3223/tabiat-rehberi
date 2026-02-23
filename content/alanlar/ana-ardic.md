@@ -23,7 +23,7 @@ wikidata_id: "Q108227148"
 
 # Ana Ardic
 
-Ana Ardic, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, doğaseverler için bir cennet harika bir deneyim. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın coğrafi konumu, ziyaretçilere benzersiz bir deneyim sunuyor. Konum itibarıyla, çevredeki dağlar ve ovalarla çevrili olan Ana Ardic, ziyaretçilerini doğanın kucağına davet ediyor. 70-80 hektarlık bir alan, farklı türde ağaçlarla kaplı ve bu, ziyaretçilere geniş bir yelpaze sunuyor.
+Ana Ardic, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın coğrafi konumu, ziyaretçilere benzersiz bir deneyim sunuyor. Konum itibarıyla, çevredeki dağlar ve ovalarla çevrili olan Ana Ardic, ziyaretçilerini doğanın kucağına davet ediyor. 70-80 hektarlık bir alan, farklı türde ağaçlarla kaplı ve bu, ziyaretçilere geniş bir yelpaze sunuyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227868"
 
 # Izmir-Manisa Kızılçam 2
 
-İzmir-Manisa Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından biri olarak kabul ediliyor. Bu milli park, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir doğa deneyimi sunuyor.
+İzmir-Manisa Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu milli park, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir doğa deneyimi sunuyor.
 
 ## Tarihçe
 

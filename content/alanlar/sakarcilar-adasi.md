@@ -34,7 +34,7 @@ wikidata_id: "Q966918"
 
 ## Tarihçe
 
-İstanköy ilçesi, tarihin sâu izlerini taşıyan bir bölgedir. Ege'nin köklü uygarlıklarına ev sahipliği yapan bu topraklar, binlerce yıl önce ilk yerleşimlerin kurulduğu yerlerden biridir. Bölge, antik dönemden başlayarak çeşitli uygarlıkların etkisinde kalmıştır. İstanköy'ün tarihi zenginliği, Sakarcılar Adası'nın da bir parçası olduğu doğal güzellikleri ile iç içe geçer.
+İstanköy ilçesi, tarihin derin izlerini taşıyan bir bölgedir. Ege'nin köklü uygarlıklarına ev sahipliği yapan bu topraklar, binlerce yıl önce ilk yerleşimlerin kurulduğu yerlerden biridir. Bölge, antik dönemden başlayarak çeşitli uygarlıkların etkisinde kalmıştır. İstanköy'ün tarihi zenginliği, Sakarcılar Adası'nın da bir parçası olduğu doğal güzellikleri ile iç içe geçer.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarına yön vermiştir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin önemini artırmıştır. İnsanlar, bu doğal güzelliklerden faydalanırken, aynı zamanda onları korumuş ve gelecek nesillere taşımışlardır. Sakarcılar Adası da, İstanköy'ün tarihsel ve kültürel dokusunun bir parçası olarak önemli bir yere sahiptir.
 

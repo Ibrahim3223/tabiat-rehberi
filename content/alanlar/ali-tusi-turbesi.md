@@ -1,7 +1,7 @@
 ---
 title: "Ali Tusi Türbesi"
 date: "2026-01-10T06:00:59.310Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390459"
 
 # Ali Tusi Türbesi
 
-Ali Tusi Türbesi, Tokat'ın merkezinde, tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Bu bölge, Karadeniz Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçasını oluşturuyor. Tokat'ta bulunan Ali Tusi Türbesi, tarihi ve doğal güzelliklerini keşfetmek için ideal bir destinasyon.
+Ali Tusi Türbesi, Tokat'ın merkezinde, tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alıyor. Bu bölge, Karadeniz Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçasını oluşturuyor. Tokat'ta bulunan Ali Tusi Türbesi, tarihi ve doğal güzelliklerini keşfetmek için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ali Tusi Türbesi, yüzyıllar boyunca önemli bir kültür ve ticaret merkezi o
 
 ## Coğrafya
 
-Ali Tusi Türbesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Bölge, yeşilin her tonunu barındıran ormanlar, akarsular ve vadiler ile çevrilidir. Coğrafi olarak, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Tokat'ta bulunan Ali Tusi Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini keşfetmek için ideal bir destinasyon. Bölgenin iklimi, Karadeniz ikliminin karakteristik özelliklerini taşıyor ve ziyaretçilerine dört mevsim farklı deneyimler sunuyor.
+Ali Tusi Türbesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede yer alıyor. Bölge, yeşilin her tonunu barındıran ormanlar, akarsular ve vadiler ile çevrilidir. Tokat'ta bulunan Ali Tusi Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini keşfetmek için ideal bir destinasyon. Bölgenin iklimi, Karadeniz ikliminin karakteristik özelliklerini taşıyor ve ziyaretçilerine dört mevsim farklı deneyimler sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Ali Tusi Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliklerini keşfetmek 
 ## İlginç Bilgiler
 
 - Ali Tusi Türbesi, Tokat'ta bulunan önemli bir tarih ve kültür merkezi.
-- Bölge, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Ali Tusi Türbesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini keşfetmek için ideal bir destinasyon.
 - Bölge, zengin bir flora ve fauna çeşitliliğine sahip.
 - Ali Tusi Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliklerini keşfetmek için ideal bir fırsat.

@@ -28,7 +28,7 @@ wikidata_id: "Q32223488"
 
 # Gökgedik Tepesi
 
-Gökgedik Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Gökgedik Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar ve doğa severler için bir cennet gibi görünür. Tepenin etrafında çeşitli bitki türleri bulunur ve yaban hayatı açısından zengin bir alandır.
+Gökgedik Tepesi, Antalya'nın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Gökgedik Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar ve doğa severler için bir cennet gibi görünür. Tepenin etrafında çeşitli bitki türleri bulunur ve yaban hayatı açısından zengin bir alandır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Canik Oyuncak Müzesi"
 date: "2026-01-10T15:21:47.766Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Samsun"
@@ -23,7 +23,7 @@ wikidata_id: "Q56440315"
 
 # Canik Oyuncak Müzesi
 
-Canik Oyuncak Müzesi, Samsun'un Canik ilçesinde, 140 hektarlık yeşil alan içerisinde yer alan, çocukların ve yetişkinlerin keyifle zaman geçirebileceği bir mekan. Bu müze, yaklaşık 200 futbol sahası büyüklüğünde bir alana kurulmuş ve içerisinde binlerce oyuncak encontruyor. Oyuncakların yanı sıra, eğitim amaçlı aktiviteler ve eğlence olanakları da sunan bu müze, ailenin tüm bireyleri için uygun bir ziyaret noktası. Canik Oyuncak Müzesi, çocukların hayal dünyasını zenginleştirme ve yetişkinlerin çocukluk anılarını canlandırmak amacıyla kurulmuş bir mekan. İçerisinde çeşitli oyuncaklar, interaktif oyunlar ve eğitici etkinlikler bulunan bu müze, Samsun'un önemli kültür ve eğlence merkezlerinden biri.
+Canik Oyuncak Müzesi, Samsun'un Canik ilçesinde, 140 hektarlık yeşil alan içerisinde yer alan, çocukların ve yetişkinlerin keyifle zaman geçirebileceği bir mekan. Oyuncakların yanı sıra, eğitim amaçlı aktiviteler ve eğlence olanakları da sunan bu müze, ailenin tüm bireyleri için uygun bir ziyaret noktası. Canik Oyuncak Müzesi, çocukların hayal dünyasını zenginleştirme ve yetişkinlerin çocukluk anılarını canlandırmak amacıyla kurulmuş bir mekan. İçerisinde çeşitli oyuncaklar, interaktif oyunlar ve eğitici etkinlikler bulunan bu müze, Samsun'un önemli kültür ve eğlence merkezlerinden biri.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Canik Oyuncak Müzesi'nin tarihi geçmişi, Samsun'un kültür ve sanat yaşamı
 
 ## Coğrafya
 
-Canik Oyuncak Müzesi, Samsun'un Canik ilçesinde, 140 hektarlık yeşil alan içerisinde yer alır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve içerisinde çeşitli bitki türleri, yürüyüş yolları ve oyun alanları bulunur. Müzenin konumu, Karadeniz Bölgesi'nin doğal güzellikleri ve Samsun'un şehir merkezine yakınlığı nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir noktada yer alır. Canik Oyuncak Müzesi'nin çevresi, zengin fauna ve flora ile dolu olan bir bölge ve bu nedenle, ziyaretçilerin doğal güzellikleri keşfetmeleri için ideal bir mekan. Müzenin iklimi, Karadeniz Bölgesi'nin ılıman iklimine uygun olarak, serin kışlar ve ılık yazlar ile karakterizedir.
+Canik Oyuncak Müzesi, Samsun'un Canik ilçesinde, 140 hektarlık yeşil alan içerisinde yer alır. Müzenin konumu, Karadeniz Bölgesi'nin doğal güzellikleri ve Samsun'un şehir merkezine yakınlığı nedeniyle, ziyaretçilerin kolayca ulaşabileceği bir noktada yer alır. Canik Oyuncak Müzesi'nin çevresi, zengin fauna ve flora ile dolu olan bir bölge ve bu nedenle, ziyaretçilerin doğal güzellikleri keşfetmeleri için ideal bir mekan. Müzenin iklimi, Karadeniz Bölgesi'nin ılıman iklimine uygun olarak, serin kışlar ve ılık yazlar ile karakterizedir.
 
 ## Flora ve Fauna
 

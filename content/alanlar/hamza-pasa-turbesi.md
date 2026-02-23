@@ -1,7 +1,7 @@
 ---
 title: "Hamza Paşa Türbesi"
 date: "2026-01-10T05:06:16.893Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon"
@@ -30,11 +30,11 @@ wikidata_id: "Q131391594"
 
 # Hamza Paşa Türbesi
 
-Hamza Paşa Türbesi, Trabzon'un Ortahisar ilçesinde yer alan bir tarihi türbedir. Bu önemli kültür varlığı, Karadeniz Bölgesi'nde yer alan Trabzon ilinin zengin tarihi geçmişi hakkında bilgi vermeye yardımcı olur. 140 hektarlık bir alanın içinde bulunan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi ve kültürel önemi nedeniyle, ziyaretçiler tarafından sıklıkla ziyaret edilir. Türbenin etrafındaki yeşillik alanlar, ziyaretçilere dinlenme ve tarihi yapıyı izlemek için uygun bir ortam sunar.
+Hamza Paşa Türbesi, Trabzon'un Ortahisar ilçesinde yer alan bir tarihi türbedir. Bu önemli kültür varlığı, Karadeniz Bölgesi'nde yer alan Trabzon ilinin zengin tarihi geçmişi hakkında bilgi vermeye yardımcı olur. Tarihi ve kültürel önemi nedeniyle, ziyaretçiler tarafından sıklıkla ziyaret edilir. Türbenin etrafındaki yeşillik alanlar, ziyaretçilere dinlenme ve tarihi yapıyı izlemek için uygun bir ortam sunar.
 
 ## Tarihçe
 
-Hamza Paşa Türbesi, yüzyıllar boyunca Trabzon'un önemli kültür varlıklarından biri olarak kabul edilmiştir. Tarihi geçmişi, Osmanlı Dönemi'ne dayanır. Bu dönemdeki önemli olaylar ve kişiler, türbenin inşa edilmesinde etkili olmuştur. Türbe, Hamza Paşa'nın anısına inşa edilmiştir ve o dönemdeki mimari özellikleri taşır. Tarihi ve kültürel önemi nedeniyle, türbe आज hala önemli bir gezi noktası olarak kabul edilmektedir. Ziyaretçiler, türbenin tarihi ve kültürel değerlerini öğrenmek için gelirler. Türbenin história hakkında bilgi edinmek, ziyaretçilerin bölge hakkında daha fazla bilgi sahibi olmasını sağlar.
+Hamza Paşa Türbesi, yüzyıllar boyunca Trabzon'un önemli kültür varlıklarından biri olarak kabul edilmiştir. Tarihi geçmişi, Osmanlı Dönemi'ne dayanır. Bu dönemdeki önemli olaylar ve kişiler, türbenin inşa edilmesinde etkili olmuştur. Türbe, Hamza Paşa'nın anısına inşa edilmiştir ve o dönemdeki mimari özellikleri taşır. Tarihi ve kültürel önemi nedeniyle, türbe आज hala önemli bir gezi noktası olarak kabul edilmektedir. Ziyaretçiler, türbenin tarihi ve kültürel değerlerini öğrenmek için gelirler. Türbenin tarihi hakkında bilgi edinmek, ziyaretçilerin bölge hakkında daha fazla bilgi sahibi olmasını sağlar.
 
 ## Coğrafya
 

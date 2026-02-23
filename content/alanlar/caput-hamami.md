@@ -1,7 +1,7 @@
 ---
 title: "Çaput Hamamı"
 date: "2026-01-09T22:37:39.189Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738712"
 
 # Çaput Hamamı
 
-Gümüşhane'nin Trabzon Vilayeti sınırında bulunan Çaput Hamamı, 140 hektarlık geniş bir alanı kaplayan bir doğa harikası. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın mucizeleri ile baş başa bırakıyor. Çaput Hamamı, ziyaretçilerine hem dinlenme hem de macera dolu bir deneyim sunuyor. Bu doğal cennet, yaban hayatının çeşitliliği ve güzelliği ile dikkat çekiyor.
+Gümüşhane'nin Trabzon Vilayeti sınırında bulunan Çaput Hamamı, 140 hektarlık geniş bir alanı kaplayan bir doğa harikası. Çaput Hamamı, ziyaretçilerine hem dinlenme hem de macera dolu bir deneyim sunuyor. Bu doğal cennet, yaban hayatının çeşitliliği ve güzelliği ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Gümüşhane'nin Trabzon Vilayeti sınırında bulunan Çaput Hamamı, 140 hekta
 
 ## Coğrafya
 
-Çaput Hamamı, coğrafi olarak Gümüşhane'nin Trabzon Vilayeti sınırında yer alıyor. Bu bölge, dağların eteklerinde kurulmuş ve çevresinde geniş ormanlar ve vadiler bulunuyor. Çaput Hamamı, 140 hektarlık geniş bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal cennet, yaban hayatının çeşitliliği ve güzelliği ile dikkat çekiyor. Çaput Hamamı, ziyaretçilerine hem dinlenme hem de macera dolu bir deneyim sunuyor. Bu bölge, aynı zamanda önemli bir yaban hayatı koruma alanı olarak da biliniyor. Çaput Hamamı'nın coğrafyası, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
+Çaput Hamamı, coğrafi olarak Gümüşhane'nin Trabzon Vilayeti sınırında yer alıyor. Bu bölge, dağların eteklerinde kurulmuş ve çevresinde geniş ormanlar ve vadiler bulunuyor. Bu doğal cennet, yaban hayatının çeşitliliği ve güzelliği ile dikkat çekiyor. Çaput Hamamı, ziyaretçilerine hem dinlenme hem de macera dolu bir deneyim sunuyor. Bu bölge, aynı zamanda önemli bir yaban hayatı koruma alanı olarak da biliniyor. Çaput Hamamı'nın coğrafyası, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
-Çaput Hamamı, flora ve fauna açısından oldukça zengin bir bölge. Bu doğal cennet, çeşitli bitki türleri ve yaban hayvanları ile dikkat çekiyor. Çaput Hamamı, ziyaretçilerine doğanın mucizeleri ile baş başa bırakıyor. Bu bölge, aynı zamanda önemli bir yaban hayatı koruma alanı olarak da biliniyor. Çaput Hamamı, ziyaretçilerine hem tarihin gizemini hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Bu doğal güzellik, mevsimsel değişimlere göre farklı bir güzelliğe bürünüyor. Çaput Hamamı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
+ Bu doğal cennet, çeşitli bitki türleri ve yaban hayvanları ile dikkat çekiyor. Çaput Hamamı, ziyaretçilerine doğanın mucizeleri ile baş başa bırakıyor. Bu bölge, aynı zamanda önemli bir yaban hayatı koruma alanı olarak da biliniyor. Çaput Hamamı, ziyaretçilerine hem tarihin gizemini hem de doğanın güzelliğini keşfetme fırsatı sunuyor. Bu doğal güzellik, mevsimsel değişimlere göre farklı bir güzelliğe bürünüyor. Çaput Hamamı, ziyaretçilerine doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31545038"
 
 # Serikeli Tepesi
 
-Serikeli Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. Batman ilinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Doğa severler ve gezi tutkunları için ideal bir destinasyon olan Serikeli Tepesi, ziyaretçilerini bekliyor. Bu tepe, bölgenin coğrafi özelliklerini ve doğal güzelliklerini keşfetmek isteyenler için mükemmel bir seçim.
+Serikeli Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. Batman ilinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Doğa severler ve gezi tutkunları için ideal bir destinasyon olan Serikeli Tepesi, ziyaretçilerini bekliyor. Bu tepe, bölgenin coğrafi özelliklerini ve doğal güzelliklerini keşfetmek isteyenler için mükemmel bir seçim.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Serikeli Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansı
 
 ## Flora ve Fauna
 
-Serikeli Tepesi, zengin bir flora ve fauna ile dikkat çekiyor. Bu tepe, çeşitli bitki türleri ile kaplı bir alan. Mevsimsel değişimler, bu bölgede farklı bitki türlerinin yetişmesine olanak sağlıyor. Bahar aylarında, tepenin etrafı, çiçeklerle dolu bir manzara sunuyor. Kış aylarında ise, karla kaplı bir görünüm ortaya çıkıyor. Bu tepe, aynı zamanda zengin bir fauna ile dikkat çekiyor. Çeşitli hayvan türleri, bu bölgede yaşamlarını sürdürüyor. Bu tepe, doğal güzellikleri ve canlıları ile, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Serikeli Tepesi, zengin bir flora ve fauna ile dikkat çekiyor. Bu tepe, çeşitli bitki türleri ile kaplı bir alan. Mevsimsel değişimler, bu bölgede farklı bitki türlerinin yetişmesine olanak sağlıyor. Bahar aylarında, tepenin etrafı, çiçeklerle dolu bir manzara sunuyor. Kış aylarında ise, karla kaplı bir görünüm ortaya çıkıyor. Bu tepe, aynı zamanda zengin bir fauna ile dikkat çekiyor. Çeşitli hayvan türleri, bu bölgede yaşamlarını sürdürüyor.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,7 @@ Serikeli Tepesi, ziyaretçilerine unutulmaz bir deneyim sunuyor. Bu tepeye gitme
 ## İlginç Bilgiler
 
 - Serikeli Tepesi, 140 hektarlık bir alanı kaplar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Serikeli Tepesi, çeşitli bitki türleri ile kaplı bir alandır.
 - Bu tepe, zengin bir fauna ile dikkat çekiyor.
 - Serikeli Tepesi, trekking ve yürüyüş için ideal bir alandır.

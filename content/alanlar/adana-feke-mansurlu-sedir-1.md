@@ -22,7 +22,7 @@ wikidata_id: "Q108227201"
 
 # Adana-Feke-Mansurlu Sedir 1
 
-Adana-Feke-Mansurlu Sedir 1 milli parkı, Adana'nın Feke ilçesinde, Mansurlu Sedir mevkinde bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir araziyi kaplamaktadır. Bu milli park, Akdeniz Bölgesi'nin doğal güzelliklerini ve biyolojik çeşitliliğini korumak amacıyla kurulmuştur. Ziyaretçiler, bu muhteşem doğa parçasını keşfeterek, huzurlu ve dinlendirici bir gün geçirebilirler.
+Adana-Feke-Mansurlu Sedir 1 milli parkı, Adana'nın Feke ilçesinde, Mansurlu Sedir mevkinde bulunmaktadır. Bu milli park, Akdeniz Bölgesi'nin doğal güzelliklerini ve biyolojik çeşitliliğini korumak amacıyla kurulmuştur. Ziyaretçiler, bu muhteşem doğa parçasını keşfeterek, huzurlu ve dinlendirici bir gün geçirebilirler.
 
 ## Tarihçe
 

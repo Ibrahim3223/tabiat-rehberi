@@ -1,7 +1,7 @@
 ---
 title: "Haydarhane Hamamı"
 date: "2026-01-09T22:28:11.510Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738462"
 
 # Haydarhane Hamamı
 
-Haydarhane Hamamı, Marmara Bölgesi'nin tanınmış plajlarından biri olarak Osmangazi/Bursa'da yer alıyor. Bu plaj, geniş kumsalı ve berrak denizi ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahip. Haydarhane Hamamı, doğa severler ve deniz tutkunları için ideal bir destinasyon. Burada, güneşin tadını çıkarmak, denize girme ve doğanın güzelliğini keşfetme mümkün. Haydarhane Hamamı, hem yerel halk hem de turistler için keyifli bir kaçış noktası olarak hizmet veriyor.
+Haydarhane Hamamı, Marmara Bölgesi'nin tanınmış plajlarından biri olarak Osmangazi/Bursa'da yer alıyor. Bu plaj, geniş kumsalı ve berrak denizi ile dikkat çekiyor. Haydarhane Hamamı, doğa severler ve deniz tutkunları için ideal bir destinasyon. Burada, güneşin tadını çıkarmak, denize girme ve doğanın güzelliğini keşfetme mümkün. Haydarhane Hamamı, hem yerel halk hem de turistler için keyifli bir kaçış noktası olarak hizmet veriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Haydarhane Hamamı'nın tarihi geçmişi, Bursa'nın tarihi ile iç içe geçmi�
 
 ## Coğrafya
 
-Haydarhane Hamamı, Osmangazi/Bursa'da, Marmara Bölgesi'nde yer alıyor. Bu plaj, geniş kumsalı ve berrak denizi ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahip. Plajın etrafı, yeşilliklerle çevrilidir ve bu, ziyaretçilere huzurlu bir ortam sunuyor. Haydarhane Hamamı, deniz seviyesinde yer alıyor ve bu nedenle, deniz tutkunları için ideal bir destinasyon. Plajın iklimi, Marmara Bölgesi'nin iklimi ile benzerlik gösteriyor ve genellikle ılıman bir hava hüküm sürüyor. Kış aylarında, sıcaklık biraz düşse de, ilkbahar ve yaz aylarında sıcaklık yükseliyor ve plaj, ziyaretçilerini ağırlamaya hazır hale geliyor. Haydarhane Hamamı, Marmara Denizi'nin güzelliğini ve Bursa'nın tarihi değerini bir araya getiren özel bir destinasyon.
+Haydarhane Hamamı, Osmangazi/Bursa'da, Marmara Bölgesi'nde yer alıyor. Bu plaj, geniş kumsalı ve berrak denizi ile dikkat çekiyor. Plajın etrafı, yeşilliklerle çevrilidir ve bu, ziyaretçilere huzurlu bir ortam sunuyor. Haydarhane Hamamı, deniz seviyesinde yer alıyor ve bu nedenle, deniz tutkunları için ideal bir destinasyon. Plajın iklimi, Marmara Bölgesi'nin iklimi ile benzerlik gösteriyor ve genellikle ılıman bir hava hüküm sürüyor. Kış aylarında, sıcaklık biraz düşse de, ilkbahar ve yaz aylarında sıcaklık yükseliyor ve plaj, ziyaretçilerini ağırlamaya hazır hale geliyor. Haydarhane Hamamı, Marmara Denizi'nin güzelliğini ve Bursa'nın tarihi değerini bir araya getiren özel bir destinasyon.
 
 ## Flora ve Fauna
 

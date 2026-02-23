@@ -51,7 +51,7 @@ Mevsimsel değişiklikler, Gördes Baraj Gölü'nün iklim karakterini etkiliyor
 
 Gördes Baraj Gölü, Manisa'nın kalbinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, step bitki örtüsü ve bozkırın hakim olduğu bir bölgede kurulmuştur. İlkbaharın gelmesiyle birlikte, gölün etrafı rengarenk çiçeklerle donanır ve sulak alan bitkileri suyun kenarlarında yeşerir.
 
-Göl, su kuşları ve balıklar için bir cennet olup, özellikle sonbahar aylarında göç eden kuşlar için önemli bir durak noktasıdır. Bölgenin kuraklığa adapte olmuş türleri, gölün etrafındaki bozkırda yaşamını sürdürür. 
+Göl, su kuşları ve balıklar için bir cennet olup, özellikle sonbahar aylarında göç eden kuşlar için önemli bir durak noktasıdır. Bölgenin kuraklığa adapte olmuş türleri, gölün etrafındaki bozkırda yaşamını sürdürür.
 
 Gölün ekosistemi, su kuşları, balıklar ve sulak alan bitkilerinin bir arada yaşadığı bir ilişki ağıdır. Bu ilişki, gölün ekolojik değerini arttırır ve koruma altına alınmasını gerekli kılar. Gördes Baraj Gölü, bölgenin ekolojik dengesini korumak için önemli bir rol oynar.
 

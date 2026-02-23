@@ -1,7 +1,7 @@
 ---
 title: "Ay Dede Türbesi"
 date: "2026-01-10T06:30:18.019Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390730"
 
 # Ay Dede Türbesi
 
-Ay Dede Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir dini merkez olarak karşımıza çıkıyor. 140 hektarlık yeşil bir alan üzerinde kurulmuş olan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş alanın içerisinde, tarihin derinliklerinden gelen bir çok önemli yapı ve eser bulunmakta. Ay Dede Türbesi, hem doğal güzelliği hem de tarihsel önemi ile ziyaretçilerini büyülüyor. Bu bölgede, tarihin izlerini taşıyan birçok yapı ve anıt bulunmakta. Ayrıca, bu alanın manzarası da oldukça etkileyici. Ziyaretçiler, buradaki doğal güzelliği ve tarihsel önemi bir arada deneyimleyerek, unutulmaz anlar yaşayabiliyorlar.
+Ay Dede Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir dini merkez olarak karşımıza çıkıyor. Bu geniş alanın içerisinde, tarihin derinliklerinden gelen bir çok önemli yapı ve eser bulunmakta. Ay Dede Türbesi, hem doğal güzelliği hem de tarihsel önemi ile ziyaretçilerini büyülüyor. Bu bölgede, tarihin izlerini taşıyan birçok yapı ve anıt bulunmakta. Ayrıca, bu alanın manzarası da oldukça etkileyici. Ziyaretçiler, buradaki doğal güzelliği ve tarihsel önemi bir arada deneyimleyerek, unutulmaz anlar yaşayabiliyorlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ay Dede Türbesi, tarihin derinliklerinden gelen bir geçmişe sahip. Bu tarihse
 
 ## Coğrafya
 
-Ay Dede Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir bölgede bulunmakta. Bu bölge, 140 hektarlık yeşil bir alan üzerinde kurulmuş. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Ay Dede Türbesi'nin coğrafi konumu, ziyaretçilerin buraya ulaşmasını kolaylaştırıyor. Bu bölgede, birçok farklı coğrafi özellik bulunmakta. Ay Dede Türbesi, doğal güzelliği ile dikkat çekiyor. Bu bölgede, birçok farklı bitki ve hayvan türü bulunmakta. Ayrıca, bu bölgenin iklimi de oldukça farklı. Bu bölgede, dört mevsim ayrı ayrı yaşanabiliyor. Ay Dede Türbesi'nin coğrafi konumu, ziyaretçilerin buraya ulaşmasını kolaylaştırıyor. Bu bölgede, birçok farklı ulaşım aracı ile ulaşma mümkün. Ay Dede Türbesi, coğrafi konumu ve doğal güzelliği ile dikkat çekiyor.
+Ay Dede Türbesi, Bursa'nın Osmangazi ilçesinde yer alan bir bölgede bulunmakta. Bu bölge, 140 hektarlık yeşil bir alan üzerinde kurulmuş. Ay Dede Türbesi'nin coğrafi konumu, ziyaretçilerin buraya ulaşmasını kolaylaştırıyor. Bu bölgede, birçok farklı coğrafi özellik bulunmakta. Ay Dede Türbesi, doğal güzelliği ile dikkat çekiyor. Bu bölgede, birçok farklı bitki ve hayvan türü bulunmakta. Ayrıca, bu bölgenin iklimi de oldukça farklı. Bu bölgede, dört mevsim ayrı ayrı yaşanabiliyor. Ay Dede Türbesi'nin coğrafi konumu, ziyaretçilerin buraya ulaşmasını kolaylaştırıyor. Bu bölgede, birçok farklı ulaşım aracı ile ulaşma mümkün. Ay Dede Türbesi, coğrafi konumu ve doğal güzelliği ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

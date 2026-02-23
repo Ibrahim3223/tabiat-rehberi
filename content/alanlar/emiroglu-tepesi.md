@@ -28,7 +28,7 @@ wikidata_id: "Q31385847"
 
 # Emiroğlu Tepesi
 
-Emiroğlu Tepesi, Afyonkarahisar ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepedir. Bu tepe, khong 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Emiroğlu Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak kabul ediliyor. Tepenin yüksekliği ve konumu, burayı bir gözlem noktası haline getiriyor ve ziyaretçilere geniş bir manzara sunuyor.
+Emiroğlu Tepesi, Afyonkarahisar ilinin sınırları içerisinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepedir. Emiroğlu Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak kabul ediliyor. Tepenin yüksekliği ve konumu, burayı bir gözlem noktası haline getiriyor ve ziyaretçilere geniş bir manzara sunuyor.
 
 ## Tarihçe
 

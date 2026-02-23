@@ -29,7 +29,7 @@ wikidata_id: "Q134728374"
 
 # Bin Tepeler Tümülüsü 1
 
-Bin Tepeler Tümülüsü 1, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Salihli/Manisa'da bulunan bu mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte önemli bir doğal ve tarihi kompleks oluşturuyor. Bin Tepeler Tümülüsü 1, ziyaretçilerine tarihin gizemini ve doğal güzellikleri keşfetme fırsatı sunuyor.
+Bin Tepeler Tümülüsü 1, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Salihli/Manisa'da bulunan bu mekan, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Bin Tepeler Tümülüsü 1, ziyaretçilerine tarihin gizemini ve doğal güzellikleri keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 1'in tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 1, Ege Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede yer alıyor. Salihli/Manisa'da bulunan bu mekan, doğal güzellikleri ile ziyaretçilerini çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte önemli bir doğal kompleks oluşturuyor. Bu mekanın coğrafi yapısı, ziyaretçilerine farklı bir deneyim sunuyor. Çevresindeki dağlar, ormanlar ve ovalar, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı sunuyor.
+Bin Tepeler Tümülüsü 1, Ege Bölgesi'nin coğrafi güzelliklerine sahip bir bölgede yer alıyor. Salihli/Manisa'da bulunan bu mekan, doğal güzellikleri ile ziyaretçilerini çekiyor. Bu mekanın coğrafi yapısı, ziyaretçilerine farklı bir deneyim sunuyor. Çevresindeki dağlar, ormanlar ve ovalar, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

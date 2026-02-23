@@ -1,7 +1,7 @@
 ---
 title: "Çanakkale Seramik Müzesi"
 date: "2026-01-10T04:29:07.364Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale (ilçe)"
@@ -34,7 +34,7 @@ wikidata_id: "Q131738785"
 
 ## Tarihçe
 
-Çanakkale Seramik Müzesi'nin históriki geçmişi, bölgenin tarihsel zenginliklerine ışık tutuyor. Müzenin kuruluş süreci, Çanakkale'nin tarihine paralel olarak şekillenmiş. Bu bölge, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış ve her birinin kültürel mirasını taşımış. Müze, bu kültürel mirası sergileyerek, ziyaretçilerine bölgenin histórik değerlerini sunuyor. Tarihi eserlerin ve seramik sanatının bir araya geldiği bu mekan, Çanakkale'nin tarihini ve kültürünü anlatan önemli bir kaynak.
+Çanakkale Seramik Müzesi'nin tarihi geçmişi, bölgenin tarihsel zenginliklerine ışık tutuyor. Müzenin kuruluş süreci, Çanakkale'nin tarihine paralel olarak şekillenmiş. Bu bölge, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış ve her birinin kültürel mirasını taşımış. Müze, bu kültürel mirası sergileyerek, ziyaretçilerine bölgenin tarihi değerlerini sunuyor. Tarihi eserlerin ve seramik sanatının bir araya geldiği bu mekan, Çanakkale'nin tarihini ve kültürünü anlatan önemli bir kaynak.
 
 ## Coğrafya
 

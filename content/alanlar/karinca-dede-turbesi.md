@@ -1,7 +1,7 @@
 ---
 title: "Karınca Dede Türbesi"
 date: "2026-01-10T05:57:13.236Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sakarya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390505"
 
 # Karınca Dede Türbesi
 
-Karınca Dede Türbesi, Sakarya'nın Arifiye ilçesinde yer alan tarihi ve doğal güzelliklerin bir araya geldiği özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda ziyaretçiler hem tarihi hem de doğal güzellikleri keşfedebilir. Karınca Dede Türbesi, Marmara Bölgesi'nin önemli ziyaret noktalarından biri olarak bilinir. Tarihi ve kültürel değerlerin yanı sıra, doğal güzellikleri ile de dikkat çeken bu mekan, ziyaretçilerini bekliyor.
+Karınca Dede Türbesi, Sakarya'nın Arifiye ilçesinde yer alan tarihi ve doğal güzelliklerin bir araya geldiği özel bir mekan. Karınca Dede Türbesi, Marmara Bölgesi'nin önemli ziyaret noktalarından biri olarak bilinir. Tarihi ve kültürel değerlerin yanı sıra, doğal güzellikleri ile de dikkat çeken bu mekan, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

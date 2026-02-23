@@ -22,7 +22,7 @@ wikidata_id: "Q108227576"
 
 # Giresun-Mesudiye-Arpaalan (ha) Saricam
 
-Giresun-Mesudiye-Arpaalan (ha) Saricam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Yaklaşık 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu alan, hem doğa severler hem de macera arayışında olanlar için mükemmel bir destinasyon. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna çeşitliliği, ziyaretçilere unutulmaz bir deneyim sunuyor. Giresun'un doğal güzellikleri arasında yer alan bu milli park, hem yerel halk hem de yabancı turistler tarafından sıkça ziyaret ediliyor.
+Giresun-Mesudiye-Arpaalan (ha) Saricam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri. Bu alan, hem doğa severler hem de macera arayışında olanlar için mükemmel bir destinasyon. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna çeşitliliği, ziyaretçilere unutulmaz bir deneyim sunuyor. Giresun'un doğal güzellikleri arasında yer alan bu milli park, hem yerel halk hem de yabancı turistler tarafından sıkça ziyaret ediliyor.
 
 ## Tarihçe
 

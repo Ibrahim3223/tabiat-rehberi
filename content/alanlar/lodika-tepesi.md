@@ -28,7 +28,7 @@ wikidata_id: "Q31550002"
 
 # Lodika Tepesi
 
-Lodika Tepesi, Diyarbakır'ın merkezi bir bölgesinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir coğrafi oluşumdur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin silüetini şekillendiren önemli bir tepe olarak bilinir. Bu tepe, Diyarbakır'ın coğrafi ve tarihi önemini vurgulayan bir noktadır. Şehrin gelişimi ve tarihi olaylar, bu tepenin eteklerinde ve çevresinde gerçekleşmiştir. Dolayısıyla, Lodika Tepesi, Diyarbakır'ın kimliğini ve karakterini anlamak için ziyaret edilmesi gereken bir yerdir.
+Lodika Tepesi, Diyarbakır'ın merkezi bir bölgesinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir coğrafi oluşumdur. Bu tepe, Diyarbakır'ın coğrafi ve tarihi önemini vurgulayan bir noktadır. Şehrin gelişimi ve tarihi olaylar, bu tepenin eteklerinde ve çevresinde gerçekleşmiştir. Dolayısıyla, Lodika Tepesi, Diyarbakır'ın kimliğini ve karakterini anlamak için ziyaret edilmesi gereken bir yerdir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Lodika Tepesi, Diyarbakır'ın tarihi geçmişine ışık tutan önemli bir nokt
 
 ## Coğrafya
 
-Lodika Tepesi, Diyarbakır'ın coğrafi yapısını şekillendiren önemli bir tepe olarak bilinir. Bu tepe, şehrin merkezi bir bölgesinde yer alır ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin eteklerinde, şehrin önemli tarihi yapıları ve yerleşim alanları bulunur. Diyarbakır'ın coğrafi konumu, Güneydoğu Anadolu Bölgesi'nde yer alması nedeniyle, bu tepe, şehrin iklimini ve çevre conditionsını etkileyen önemli bir faktördür. Tepenin yüksekliği, şehrin panoramik manzarasını şekillendiren bir unsurdur. Dolayısıyla, Lodika Tepesi, Diyarbakır'ın coğrafi önemini vurgulayan bir noktadır. Bu tepe, şehrin silüetini şekillendiren ve coğrafi karakterini belirleyen önemli bir coğrafi oluşumdur.
+Lodika Tepesi, Diyarbakır'ın coğrafi yapısını şekillendiren önemli bir tepe olarak bilinir. Tepenin eteklerinde, şehrin önemli tarihi yapıları ve yerleşim alanları bulunur. Diyarbakır'ın coğrafi konumu, Güneydoğu Anadolu Bölgesi'nde yer alması nedeniyle, bu tepe, şehrin iklimini ve çevre conditionsını etkileyen önemli bir faktördür. Tepenin yüksekliği, şehrin panoramik manzarasını şekillendiren bir unsurdur. Dolayısıyla, Lodika Tepesi, Diyarbakır'ın coğrafi önemini vurgulayan bir noktadır. Bu tepe, şehrin silüetini şekillendiren ve coğrafi karakterini belirleyen önemli bir coğrafi oluşumdur.
 
 ## Flora ve Fauna
 

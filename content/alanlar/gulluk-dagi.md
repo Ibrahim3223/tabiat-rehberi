@@ -49,7 +49,7 @@ Mevsimsel özellikler açısından, Güllük Dağı'nın iklim karakteri, bölge
 
 ## Flora ve Fauna
 
-Güllük Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapıyor. 1200 metre yükseklikte, dağ ekosistemi farklı yükseklik zonlarına ayrılarak, alpin flora ve fauna çeşitliliğini sunuyor. 
+Güllük Dağı, Antalya'nın kıyı ekosisteminin bir parçası olarak, maki bitki örtüsüne ev sahipliği yapıyor. 1200 metre yükseklikte, dağ ekosistemi farklı yükseklik zonlarına ayrılarak, alpin flora ve fauna çeşitliliğini sunuyor.
 
 İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor. Maki bitki örtüsünün hakim olduğu bu bölgede, kuraklığa dayanıklı türler göze çarpıyor. Sonbaharda, göçmen kuşlar dağların üzerinden geçerek, ekosisteme renk katarlar.
 

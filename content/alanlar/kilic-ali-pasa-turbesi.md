@@ -1,7 +1,7 @@
 ---
 title: "Kılıç Ali Paşa Türbesi"
 date: "2026-01-10T07:28:35.486Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391077"
 
 # Kılıç Ali Paşa Türbesi
 
-Kılıç Ali Paşa Türbesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi bir yapıdır. 16. yüzyılda inşa edilen bu türbe, Kılıç Ali Paşa'nın mezarını barındırır. Türbenin mimarisi, Osmanlı dönemi yapılarının özelliklerini taşır. Yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan türbe ve çevresindeki yapılar, ziyaretçilere tarihin zenginliğini sunar. Kılıç Ali Paşa'nın hayatı ve türbenin história geçmişi, ziyaretçileri zamanda yolculuğa çıkarır.
+Kılıç Ali Paşa Türbesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan tarihi bir yapıdır. 16. yüzyılda inşa edilen bu türbe, Kılıç Ali Paşa'nın mezarını barındırır. Türbenin mimarisi, Osmanlı dönemi yapılarının özelliklerini taşır. Kılıç Ali Paşa'nın hayatı ve türbenin tarihi geçmişi, ziyaretçileri zamanda yolculuğa çıkarır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kılıç Ali Paşa Türbesi, 16. yüzyılın sonlarında inşa edilmiştir. Kıl
 
 ## Coğrafya
 
-Kılıç Ali Paşa Türbesi, İstanbul'un merkezinde, Beyoğlu ilçesinde yer alır. Marmara Bölgesi'nin en önemli şehirlerinden biri olan İstanbul, coğrafi konumu itibariyle önemli bir noktadır. Türbe, Boğaziçi'nin güzellikleri ile çevrilidir. Yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan türbe ve çevresindeki yapılar, ziyaretçilere geniş bir yeşil alan sunar. İstanbul'un iklimi, karasal ve denizsel iklimlerin karışımını gösterir. Türbenin bulunduğu bölge, yıl boyunca ılıman bir iklim gösterir. Çevre, tarihi yapılar ve yeşil alanlarla çevrilidir. Türbenin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve doğal güzelliklerini keşfetme fırsatı sunar.
+Kılıç Ali Paşa Türbesi, İstanbul'un merkezinde, Beyoğlu ilçesinde yer alır. Marmara Bölgesi'nin en önemli şehirlerinden biri olan İstanbul, coğrafi konumu itibariyle önemli bir noktadır. Türbe, Boğaziçi'nin güzellikleri ile çevrilidir. İstanbul'un iklimi, karasal ve denizsel iklimlerin karışımını gösterir. Türbenin bulunduğu bölge, yıl boyunca ılıman bir iklim gösterir. Çevre, tarihi yapılar ve yeşil alanlarla çevrilidir. Türbenin coğrafi konumu, ziyaretçilere İstanbul'un tarihi ve doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Kılıç Ali Paşa Türbesi'ni ziyaret etmek, tarihe ve mimariye ilgi duyanlar i
 - Kılıç Ali Paşa, Osmanlı Donanması'nın önemli komutanlarından biridir.
 - Türbe, 16. yüzyılın sonlarında inşa edilmiştir.
 - Türbenin mimarisi, Osmanlı dönemi yapılarının özelliklerini taşır.
-- Türbe ve çevresindeki yapılar, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - İstanbul'un merkezi konumunda yer alır.

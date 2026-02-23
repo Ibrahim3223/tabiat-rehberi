@@ -22,7 +22,7 @@ wikidata_id: "Q108228420"
 
 # Balikesir-Bandırma-Susurluk-Karaçam
 
-Balikesir-Bandırma-Susurluk-Karaçam milli parkı, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kapsar. Bu bölge, İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran önemli bir destinasyon olarak dikkat çeker. Milli parkın konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi değerleri keşfetme fırsatı sunar. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir faaliyet yelpazesi sunar.
+ Bu bölge, İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran önemli bir destinasyon olarak dikkat çeker. Milli parkın konumu, ziyaretçilere hem doğal güzellikleri hem de tarihi değerleri keşfetme fırsatı sunar. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir faaliyet yelpazesi sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Balikesir-Bandırma-Susurluk-Karaçam milli parkının tarihi geçmişi, yüzyı
 
 ## Coğrafya
 
-Balikesir-Bandırma-Susurluk-Karaçam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Bu bölge, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Milli parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. İklim, mevsimsel değişimlere göre şekillenir ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Çevre, doğal güzellikleri koruma altına almak amacıyla düzenlenmiştir. Milli parkın coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunar ve doğa ile iç içe bir deneyim sağlar.
+Balikesir-Bandırma-Susurluk-Karaçam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Milli parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. İklim, mevsimsel değişimlere göre şekillenir ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Çevre, doğal güzellikleri koruma altına almak amacıyla düzenlenmiştir. Milli parkın coğrafi konumu, ziyaretçilere geniş bir faaliyet yelpazesi sunar ve doğa ile iç içe bir deneyim sağlar.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ wikidata_id: "Q134637015"
 
 # Lunapark
 
-Lunapark, İzmir'in Konak ilçesinde yer alan ve Ege Bölgesi'nin önemli turizm merkezlerinden biri olan bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alanı kapsar. Bu büyük alan, ziyaretçilere geniş bir aktivite alanı sunar. Lunapark, özellikle yaz aylarında yerli ve yabancı turistlerin akın ettiği bir destinasyon olarak bilinir. Lunapark'ın sunduğu hizmetler ve aktiviteleri, ziyaretçilerin keyifli bir gün geçirmesini sağlar.
+Lunapark, İzmir'in Konak ilçesinde yer alan ve Ege Bölgesi'nin önemli turizm merkezlerinden biri olan bir plajdır. Bu büyük alan, ziyaretçilere geniş bir aktivite alanı sunar. Lunapark, özellikle yaz aylarında yerli ve yabancı turistlerin akın ettiği bir destinasyon olarak bilinir. Lunapark'ın sunduğu hizmetler ve aktiviteleri, ziyaretçilerin keyifli bir gün geçirmesini sağlar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Lunapark'ın tarihi geçmişi, İzmir'in turizm tarihi ile paralel olarak geliş
 
 ## Coğrafya
 
-Lunapark, İzmir'in Konak ilçesinde yer alır ve Ege Bölgesi'nin önemli coğrafi noktalarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alanı kapsar. Bu büyük alan, ziyaretçilere geniş bir aktivite alanı sunar. Lunapark'ın coğrafi yapısı, plaj ve yeşil alanların birleşmesiyle oluşur. Bu coğrafi özellik, ziyaretçilere farklı aktivite seçenekleri sunar. Lunapark, Ege Bölgesi'nin iklim koşullarına uygun olarak, genellikle ılıman ve güneşli bir hava sahiptir. Bu özelliği, Lunapark'ı yıl boyunca ziyaret edilebilir bir destinasyon haline getirir.
+Lunapark, İzmir'in Konak ilçesinde yer alır ve Ege Bölgesi'nin önemli coğrafi noktalarından biridir. Bu büyük alan, ziyaretçilere geniş bir aktivite alanı sunar. Lunapark'ın coğrafi yapısı, plaj ve yeşil alanların birleşmesiyle oluşur. Bu coğrafi özellik, ziyaretçilere farklı aktivite seçenekleri sunar. Lunapark, Ege Bölgesi'nin iklim koşullarına uygun olarak, genellikle ılıman ve güneşli bir hava sahiptir. Bu özelliği, Lunapark'ı yıl boyunca ziyaret edilebilir bir destinasyon haline getirir.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31519195"
 
 # Suvela Dağı
 
-Türkiye'nin doğusunda yer alan Suvela Dağı, ziyaretçilerini büyüleyici bir manzarayla karşılıyor. Bu dağ, özellikle ilkbahar ve sonbahar aylarında doğal güzelliği ile dikkat çekiyor. Türkiye'nin çeşitli illerinden kolayca ulaşılabilen Suvela Dağı, özellikle doğa yürüyüşü ve kamp severlerin tercih ettiği bir destinasyon. Doğal güzelliği ve zengin florasıyla Suvela Dağı, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Türkiye'nin doğusunda yer alan Suvela Dağı, ziyaretçilerini büyüleyici bir manzarayla karşılıyor. Bu dağ, özellikle ilkbahar ve sonbahar aylarında doğal güzelliği ile dikkat çekiyor. Türkiye'nin çeşitli illerinden kolayca ulaşılabilen Suvela Dağı, özellikle doğa yürüyüşü ve kamp severlerin tercih ettiği bir destinasyon.
 
 ## Tarihçe
 

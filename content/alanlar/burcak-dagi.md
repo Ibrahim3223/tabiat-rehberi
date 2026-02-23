@@ -50,7 +50,7 @@ Yılın dört mevsimi boyunca farklı hava koşullarına sahip olan Burçak Dağ
 
 ## Flora ve Fauna
 
-Burçak Dağı, Erzurum'un yüksek dağ ekolojisinin canlı bir örneği. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Burçak Dağı, Erzurum'un yüksek dağ ekolojisinin canlı bir örneği. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünün hakim türleri, alpin çayırların karakteristik bitkileri. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda sarı ve altın renkler hakim oluyor. Yükseklik zonlarına bağlı olarak, bitki örtüsü değişkenlik gösteriyor.
 

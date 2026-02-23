@@ -29,7 +29,7 @@ wikidata_id: "Q31525316"
 
 # Dua Tepesi
 
-Dua Tepesi, Antalya'nın büyüleyici doğa manzarasına sahip bir tepedir. Bu tepe, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Dua Tepesi, ziyaretçilerini etkileyen bir güzelliğe sahiptir. Burada, doğanın güzelliğini ve sakinliğini deneyimleyebilirsiniz. Dua Tepesi, Antalya'nın önemli turizm noktalarından biridir.
+Dua Tepesi, Antalya'nın büyüleyici doğa manzarasına sahip bir tepedir. Dua Tepesi, ziyaretçilerini etkileyen bir güzelliğe sahiptir. Burada, doğanın güzelliğini ve sakinliğini deneyimleyebilirsiniz. Dua Tepesi, Antalya'nın önemli turizm noktalarından biridir.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227227"
 
 # Konya-Beyşehir Ardic
 
-Konya-Beyşehir Ardic, Konya'nın doğal güzelliklerini gözler önüne seren bir milli parktır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğayla baş başa bırakıyor. Konya-Beyşehir Ardic, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge olarak bilinir. Bölgenin coğrafi özellikleri, ziyaretçilere benzersiz bir deneyim sunar. Konya-Beyşehir Ardic, aynı zamanda ziyaretçilerine çeşitli doğa yürüyüşleri ve açık hava etkinlikleri sunar.
+Konya-Beyşehir Ardic, Konya'nın doğal güzelliklerini gözler önüne seren bir milli parktır. Konya-Beyşehir Ardic, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölge olarak bilinir. Bölgenin coğrafi özellikleri, ziyaretçilere benzersiz bir deneyim sunar. Konya-Beyşehir Ardic, aynı zamanda ziyaretçilerine çeşitli doğa yürüyüşleri ve açık hava etkinlikleri sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Konya-Beyşehir Ardic'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Konya-Beyşehir Ardic, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir alanı kapsar. Konya-Beyşehir Ardic, coğrafi olarak çeşitli dağlar, ovalar ve göllerle çevrilidir. Bu bölge, aynı zamanda çeşitli nehirler ve akarsularla da zenginleştirilmiştir. Konya-Beyşehir Ardic'nin coğrafi özellikleri, ziyaretçilere benzersiz bir deneyim sunar. Bu milli park, ziyaretçilerine doğayla baş başa kalma fırsatı sunar. Konya-Beyşehir Ardic, aynı zamanda çeşitli bitki ve hayvan türleriyle de zenginleştirilmiştir. Bu bölge, ziyaretçilerine çeşitli doğa yürüyüşleri ve açık hava etkinlikleri sunar.
+Konya-Beyşehir Ardic, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Konya-Beyşehir Ardic, coğrafi olarak çeşitli dağlar, ovalar ve göllerle çevrilidir. Bu bölge, aynı zamanda çeşitli nehirler ve akarsularla da zenginleştirilmiştir. Konya-Beyşehir Ardic'nin coğrafi özellikleri, ziyaretçilere benzersiz bir deneyim sunar. Bu milli park, ziyaretçilerine doğayla baş başa kalma fırsatı sunar. Konya-Beyşehir Ardic, aynı zamanda çeşitli bitki ve hayvan türleriyle de zenginleştirilmiştir. Bu bölge, ziyaretçilerine çeşitli doğa yürüyüşleri ve açık hava etkinlikleri sunar.
 
 ## Flora ve Fauna
 

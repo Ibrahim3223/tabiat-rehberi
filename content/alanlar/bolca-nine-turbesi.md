@@ -1,7 +1,7 @@
 ---
 title: "Bolca Nine Türbesi"
 date: "2026-01-10T06:55:03.599Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırklareli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390864"
 
 # Bolca Nine Türbesi
 
-Bolca Nine Türbesi, Marmara Bölgesi'nin güzelliklerini barındıran Kırklareli ilinin Babaeski ilçesinde yer alan bir plaj olarak dikkat çekiyor. Bu özel destinasyon, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Bolca Nine Türbesi, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Tarihi geçmişi ile önemli bir nokta olan bu bölge, aynı zamanda doğal güzelliklerin birleştiği bir yer olarak biliniyor.
+Bolca Nine Türbesi, Marmara Bölgesi'nin güzelliklerini barındıran Kırklareli ilinin Babaeski ilçesinde yer alan bir plaj olarak dikkat çekiyor. Bu özel destinasyon, yaklaşık 140 hektarlık bir alanı kaplıyor. Bolca Nine Türbesi, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Tarihi geçmişi ile önemli bir nokta olan bu bölge, aynı zamanda doğal güzelliklerin birleştiği bir yer olarak biliniyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bolca Nine Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve z
 
 ## Coğrafya
 
-Bolca Nine Türbesi, Marmara Bölgesi'nin güzelliklerini barındıran Kırklareli ilinin Babaeski ilçesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli özelliklere sahip. 140 hektarlık bir alanı kaplayan Bolca Nine Türbesi, yaklaşık 200 futbol sahası büyüklüğünde. Bu özel destinasyon, ziyaretçilerine geniş bir alan sunuyor. Bolca Nine Türbesi, doğal güzelliklerinin birleştiği bir yer olarak biliniyor. Bu bölge, ziyaretçilerine hem deniz hem de đt güzelliklerini sunuyor. Coğrafi olarak çeşitli özelliklere sahip olan Bolca Nine Türbesi, ziyaretçilerine zengin bir deneyim sunuyor.
+Bolca Nine Türbesi, Marmara Bölgesi'nin güzelliklerini barındıran Kırklareli ilinin Babaeski ilçesinde yer alıyor. Bu bölge, coğrafi olarak çeşitli özelliklere sahip. Bu özel destinasyon, ziyaretçilerine geniş bir alan sunuyor. Bolca Nine Türbesi, doğal güzelliklerinin birleştiği bir yer olarak biliniyor. Bu bölge, ziyaretçilerine hem deniz hem de đt güzelliklerini sunuyor. Coğrafi olarak çeşitli özelliklere sahip olan Bolca Nine Türbesi, ziyaretçilerine zengin bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

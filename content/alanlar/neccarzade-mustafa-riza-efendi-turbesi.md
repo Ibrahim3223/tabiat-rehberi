@@ -1,7 +1,7 @@
 ---
 title: "Neccarzade Mustafa Rıza Efendi Türbesi"
 date: "2026-01-10T05:03:47.314Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391632"
 
 # Neccarzade Mustafa Rıza Efendi Türbesi
 
-Neccarzade Mustafa Rıza Efendi Türbesi, Beşiktaş ilçesinde bulunan tarihi ve doğal güzelliklerin birleştiği özel bir noktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi ve coğrafi konumuyla dikkat çeken Neccarzade Mustafa Rıza Efendi Türbesi, ziyaretçilerini bekleyen bir hazine gibidir. Bu türbe, İstanbul'un en önemli tarihi ve kültürel mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Neccarzade Mustafa Rıza Efendi Türbesi, aynı zamanda çevredeki doğal güzellikleriyle de dikkat çekmektedir. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+Neccarzade Mustafa Rıza Efendi Türbesi, Beşiktaş ilçesinde bulunan tarihi ve doğal güzelliklerin birleştiği özel bir noktadır. Tarihi geçmişi ve coğrafi konumuyla dikkat çeken Neccarzade Mustafa Rıza Efendi Türbesi, ziyaretçilerini bekleyen bir hazine gibidir. Bu türbe, İstanbul'un en önemli tarihi ve kültürel mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Neccarzade Mustafa Rıza Efendi Türbesi, aynı zamanda çevredeki doğal güzellikleriyle de dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Neccarzade Mustafa Rıza Efendi Türbesi'nin tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Neccarzade Mustafa Rıza Efendi Türbesi, Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi konumu itibariyle önemli bir noktadır. Türbe, denize yakın bir konumda yer alır ve çevredeki doğal güzelliklerle çevrilidir. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Neccarzade Mustafa Rıza Efendi Türbesi'nin coğrafi konumu, ziyaretçilere önemli bir doğal güzellik sunmaktadır. Bu türbe, aynı zamanda İstanbul'un tarihi ve kültürel mekanlarına da yakındır. Ziyaretçiler, Neccarzade Mustafa Rıza Efendi Türbesi'ni ziyaret ederken, aynı zamanda çevredeki diğer tarihi ve kültürel mekanları da keşfedebilirler. Coğrafi konumu itibariyle, Neccarzade Mustafa Rıza Efendi Türbesi, ziyaretçilere önemli bir deneyim sunmaktadır.
+Neccarzade Mustafa Rıza Efendi Türbesi, Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, coğrafi konumu itibariyle önemli bir noktadır. Türbe, denize yakın bir konumda yer alır ve çevredeki doğal güzelliklerle çevrilidir. Neccarzade Mustafa Rıza Efendi Türbesi'nin coğrafi konumu, ziyaretçilere önemli bir doğal güzellik sunmaktadır. Bu türbe, aynı zamanda İstanbul'un tarihi ve kültürel mekanlarına da yakındır. Ziyaretçiler, Neccarzade Mustafa Rıza Efendi Türbesi'ni ziyaret ederken, aynı zamanda çevredeki diğer tarihi ve kültürel mekanları da keşfedebilirler. Coğrafi konumu itibariyle, Neccarzade Mustafa Rıza Efendi Türbesi, ziyaretçilere önemli bir deneyim sunmaktadır.
 
 ## Flora ve Fauna
 
-Neccarzade Mustafa Rıza Efendi Türbesi, çevredeki doğal güzellikleriyle dikkat çeker. Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Mevsimsel değişimler, bu bölgede önemli bir rol oynar. İlkbahar ve yaz aylarında, bu bölge, yeşilin çeşitli tonlarıyla ziyaretçileri karşılar. Sonbahar ve kış aylarında ise, bu bölge, farklı bir güzelliğe bürünür. Neccarzade Mustafa Rıza Efendi Türbesi, aynı zamanda çevredeki ekosistemi de destekler. Bu bölge, ziyaretçilere önemli bir doğal güzellik sunmaktadır. Ziyaretçiler, Neccarzade Mustafa Rıza Efendi Türbesi'ni ziyaret ederken, aynı zamanda çevredeki doğal güzellikleri de keşfedebilirler.
+Neccarzade Mustafa Rıza Efendi Türbesi, çevredeki doğal güzellikleriyle dikkat çeker. Mevsimsel değişimler, bu bölgede önemli bir rol oynar. İlkbahar ve yaz aylarında, bu bölge, yeşilin çeşitli tonlarıyla ziyaretçileri karşılar. Sonbahar ve kış aylarında ise, bu bölge, farklı bir güzelliğe bürünür. Neccarzade Mustafa Rıza Efendi Türbesi, aynı zamanda çevredeki ekosistemi de destekler. Bu bölge, ziyaretçilere önemli bir doğal güzellik sunmaktadır. Ziyaretçiler, Neccarzade Mustafa Rıza Efendi Türbesi'ni ziyaret ederken, aynı zamanda çevredeki doğal güzellikleri de keşfedebilirler.
 
 ## Ziyaret Bilgileri
 

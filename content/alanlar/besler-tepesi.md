@@ -28,7 +28,7 @@ wikidata_id: "Q31390611"
 
 # Beşler Tepesi
 
-Beşler Tepesi, Kırıkkale'nin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Burada, doğayı ve güneşin doğuşunu izlemek, ziyaretçilere unutulmaz bir deneyim sunuyor. Beşler Tepesi, aynı zamanda bölgenin tarihini ve kültürünü anlamak için önemli bir nokta olarak görülüyor. Ziyaretçiler, buradaki tarihi kalıntıları ve etraftaki köyleri keşfederek, bölgenin zengin geçmişini keşfedebilirler.
+Beşler Tepesi, Kırıkkale'nin sınırları içerisinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Burada, doğayı ve güneşin doğuşunu izlemek, ziyaretçilere unutulmaz bir deneyim sunuyor. Beşler Tepesi, aynı zamanda bölgenin tarihini ve kültürünü anlamak için önemli bir nokta olarak görülüyor. Ziyaretçiler, buradaki tarihi kalıntıları ve etraftaki köyleri keşfederek, bölgenin zengin geçmişini keşfedebilirler.
 
 ## Tarihçe
 

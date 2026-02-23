@@ -1,7 +1,7 @@
 ---
 title: "Çiftehan Kaplıcası"
 date: "2026-01-10T15:08:55.453Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "termal-kaynak"
 il: "Niğde"
@@ -28,7 +28,7 @@ wikidata_id: "Q49742034"
 
 # Çiftehan Kaplıcası
 
-Çiftehan Kaplıcası, Niğde'nin İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişiyle dikkat çeken bir termal kaynağıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve kaplıcanın etrafında yer alan yeşillikler, ziyaretçilere huzurlu bir atmosfer sunmaktadır. Çiftehan Kaplıcası, şifalı sularının yanı sıra, tarihi geçmişi ve doğal güzellikleriyle de dikkat çekmektedir. Burada, yüzyıllar boyunca insanların şifa bulmak için geldiği bir mekan olduğunu hissetme mümkündür. Çiftehan Kaplıcası, sağlık turizmi açısından önemli bir merkez olarak kabul edilmektedir.
+Çiftehan Kaplıcası, Niğde'nin İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişiyle dikkat çeken bir termal kaynağıdır. Çiftehan Kaplıcası, şifalı sularının yanı sıra, tarihi geçmişi ve doğal güzellikleriyle de dikkat çekmektedir. Burada, yüzyıllar boyunca insanların şifa bulmak için geldiği bir mekan olduğunu hissetme mümkündür. Çiftehan Kaplıcası, sağlık turizmi açısından önemli bir merkez olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q49742034"
 
 ## Coğrafya
 
-Çiftehan Kaplıcası, Niğde'nin İç Anadolu Bölgesi'nde yer alan bir termal kaynağıdır. Bu kaplıca, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve kaplıcanın etrafında yer alan yeşillikler, ziyaretçilere huzurlu bir atmosfer sunmaktadır. Çiftehan Kaplıcası, Niğde'nin merkezine uzun bir mesafe uzaklıktadır. Kaplıcanın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölge, yüzyıllar boyunca insanların şifa bulmak için geldiği bir mekan olarak, tarihi ve doğal güzelliklerin bir arada bulunduğu bir yerdir. Çiftehan Kaplıcası, coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin en önemli termal kaynaklarından biridir. Bu kaplıcanın, şifalı sularının yanı sıra, tarihi geçmişi ve doğal güzellikleri de, ziyaretçilere sunulmaktadır.
+Çiftehan Kaplıcası, Niğde'nin İç Anadolu Bölgesi'nde yer alan bir termal kaynağıdır. Çiftehan Kaplıcası, Niğde'nin merkezine uzun bir mesafe uzaklıktadır. Kaplıcanın etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölge, yüzyıllar boyunca insanların şifa bulmak için geldiği bir mekan olarak, tarihi ve doğal güzelliklerin bir arada bulunduğu bir yerdir. Çiftehan Kaplıcası, coğrafi konumu itibariyle, İç Anadolu Bölgesi'nin en önemli termal kaynaklarından biridir. Bu kaplıcanın, şifalı sularının yanı sıra, tarihi geçmişi ve doğal güzellikleri de, ziyaretçilere sunulmaktadır.
 
 ## Flora ve Fauna
 

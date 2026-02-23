@@ -33,7 +33,7 @@ wikidata_id: "Q34820597"
 
 ## Tarihçe
 
-Şanlıurfa bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, Mezopotamya'nın kalbinde yer alır ve tarihin en eski uygarlıklarına ev sahipliği yapmıştır. Sümerler, Akadlar, Babililer ve Asurlular gibi medeniyetler, bu topraklarda yaşamış ve kültürel miraslarını bırakmışlardır. Üçtepe Dağı da, bu zengin tarihsel bağlamın bir parçasıdır.
+Şanlıurfa bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, Mezopotamya'nın kalbinde yer alır ve tarihin en eski uygarlıklarına ev sahipliği yapmıştır. Sümerler, Akadlar, Babililer ve Asurlular gibi medeniyetler, bu topraklarda yaşamış ve kültürel miraslarını bırakmışlardır. Üçtepe Dağı da, bu zengin tarihsel bağlamın bir parçasıdır.
 
 Doğal güzelliği ve stratejik konumuyla, Üçtepe Dağı ve çevresi, tarih boyunca insanların dikkatini çekmiştir. Türkiye'de benzer doğal alanlar, yüzyıllar boyunca insanların yaşamlarına yön vermiştir. Yaylacılık, hayvancılık ve ticaret yolları, bu alanların önemini artırmıştır. İnsanlar, bu doğal güzelliklerin arasında yaşamış, tarım yapmış, hayvanlarını otlatmış ve ticaretini yapmışlardır.
 
@@ -51,11 +51,11 @@ Mevsimsel özellikler açısından bakıldığında, Üçtepe Dağı ve çevresi
 
 ## Flora ve Fauna
 
-Üçtepe'nin dağ ekosistemi, yarı kurak iklimin hakim olduğu bir bölgede yer alır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Üçtepe'nin dağ ekosistemi, yarı kurak iklimin hakim olduğu bir bölgede yer alır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünü oluşturan step ve ova ekolojisi, ilkbaharın gelmesiyle birlikte renkli bir hal alır. Bu dönemde, dağ yamaçları çiçeklerle kaplanır ve bölgenin flora çeşitliliği gözlemlenebilir. 
+Bitki örtüsünü oluşturan step ve ova ekolojisi, ilkbaharın gelmesiyle birlikte renkli bir hal alır. Bu dönemde, dağ yamaçları çiçeklerle kaplanır ve bölgenin flora çeşitliliği gözlemlenebilir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağların yükseklik zonlarında, çeşitli kuş türleri yuvalarını kurarken, memeliler ve sürüngenler de yaşam alanlarındaki ekolojik dengenin önemli parçalarıdır. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Dağların yükseklik zonlarında, çeşitli kuş türleri yuvalarını kurarken, memeliler ve sürüngenler de yaşam alanlarındaki ekolojik dengenin önemli parçalarıdır.
 
 Üçtepe'nin ekolojik değeri, bölge ekosisteminin korunmasına bağlıdır. Bu dağ ekosisteminin korunması, sadece yerel canlıların yaşam alanlarını güvence altına almakla kalmaz, aynı zamanda bölgenin doğal güzelliğini de gelecek nesiller için korumayı sağlar.
 

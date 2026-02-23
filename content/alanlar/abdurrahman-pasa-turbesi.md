@@ -1,7 +1,7 @@
 ---
 title: "Abdurrahman Paşa Türbesi"
 date: "2026-01-10T07:25:23.115Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391031"
 
 # Abdurrahman Paşa Türbesi
 
-Abdurrahman Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir mekan olarak dikkat çekiyor. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. İstanbul'un kalbinde yer alan Abdurrahman Paşa Türbesi, tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. İstanbul'un en eski ve önemli bölgelerinden biri olan Eyüpsultan, Abdurrahman Paşa Türbesi gibi tarihi mekanlarla dolu. Burada, tarihin izlerini sürerken, aynı zamanda doğal güzellikleri de keşfedebilirsiniz. Abdurrahman Paşa Türbesi, İstanbul'un tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir merkez.
+Abdurrahman Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir mekan olarak dikkat çekiyor. İstanbul'un kalbinde yer alan Abdurrahman Paşa Türbesi, tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. İstanbul'un en eski ve önemli bölgelerinden biri olan Eyüpsultan, Abdurrahman Paşa Türbesi gibi tarihi mekanlarla dolu. Burada, tarihin izlerini sürerken, aynı zamanda doğal güzellikleri de keşfedebilirsiniz. Abdurrahman Paşa Türbesi, İstanbul'un tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir merkez.
 
 ## Tarihçe
 

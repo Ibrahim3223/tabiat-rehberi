@@ -1,7 +1,7 @@
 ---
 title: "Kazak Abdal Türbesi"
 date: "2026-01-10T05:10:40.001Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391574"
 
 # Kazak Abdal Türbesi
 
-Kazak Abdal Türbesi, Pamukkale'nin eşsiz doğası ve tarihi geçmişi ile çevrili bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın güzelliğini sunar. Bu tarihi mekan, Ege Bölgesi'nin önemli kültür merkezlerinden biri olarak bilinir ve her yıl pek çok ziyaretçi tarafından keşfedilir. Kazak Abdal Türbesi, Pamukkale'nin merkezine uzun bir mesafe uzaklıkta yer alır ve kolayca ulaşılabilir.
+Kazak Abdal Türbesi, Pamukkale'nin eşsiz doğası ve tarihi geçmişi ile çevrili bir alandır. Bu tarihi mekan, Ege Bölgesi'nin önemli kültür merkezlerinden biri olarak bilinir ve her yıl pek çok ziyaretçi tarafından keşfedilir. Kazak Abdal Türbesi, Pamukkale'nin merkezine uzun bir mesafe uzaklıkta yer alır ve kolayca ulaşılabilir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390026"
 
 # İnceyatak Tepesi
 
-Eskişehir'in İç Anadolu Bölgesi'nde yer alan İnceyatak Tepesi, şehrin önemli doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. İnceyatak Tepesi, şehrin merkezi konumunda olup, kolayca ulaşılabilir. Tepenin üstünden Eskişehir'in panoramik manzarasını seyretme mümkün. Doğa severler ve fotoğraf meraklıları için ideal bir destinasyon olan İnceyatak Tepesi, ziyaretçilerine keyifli bir gezi deneyimi sunar.
+Eskişehir'in İç Anadolu Bölgesi'nde yer alan İnceyatak Tepesi, şehrin önemli doğal güzelliklerinden biridir. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. İnceyatak Tepesi, şehrin merkezi konumunda olup, kolayca ulaşılabilir. Tepenin üstünden Eskişehir'in panoramik manzarasını seyretme mümkün. Doğa severler ve fotoğraf meraklıları için ideal bir destinasyon olan İnceyatak Tepesi, ziyaretçilerine keyifli bir gezi deneyimi sunar.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Eskişehir'in İç Anadolu Bölgesi'nde yer alan İnceyatak Tepesi, şehrin öne
 
 ## Flora ve Fauna
 
-İnceyatak Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin etrafında, mevsimsel olarak değişen bitkiler ve ağaçlar bulunur. İlkbahar ve yaz aylarında, tepenin etrafı renkli çiçeklerle kaplanır. Kış aylarında ise, tepenin beyaz karla kaplanması, güzel bir manzara oluşturur. İnceyatak Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Tepenin etrafında, kuşlar, keçiler ve diğer küçük hayvanlar bulunur. İnceyatak Tepesi, doğa severler ve hayvan meraklıları için ideal bir destinasyon olarak kabul edilir.
+ Tepenin etrafında, mevsimsel olarak değişen bitkiler ve ağaçlar bulunur. İlkbahar ve yaz aylarında, tepenin etrafı renkli çiçeklerle kaplanır. Kış aylarında ise, tepenin beyaz karla kaplanması, güzel bir manzara oluşturur. İnceyatak Tepesi, aynı zamanda çeşitli hayvan türlerine de ev sahipliği yapar. Tepenin etrafında, kuşlar, keçiler ve diğer küçük hayvanlar bulunur. İnceyatak Tepesi, doğa severler ve hayvan meraklıları için ideal bir destinasyon olarak kabul edilir.
 
 ## Ziyaret Bilgileri
 

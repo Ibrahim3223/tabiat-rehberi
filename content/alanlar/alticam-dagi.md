@@ -32,7 +32,7 @@ Muğla'nın dağlık bölgelerinde yer alan Altıçam Dağı, bölgenin doğal g
 
 ## Tarihçe
 
-Muğla bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bölge, çeşitli uygarlıkların yerleşim yeri olmuş ve ticaret yollarının kesişme noktası olmuştur. Antik Çağ'da, Likya ve Karya uygarlıkları bu topraklarda yaşamış, daha sonra Roma ve Bizans dönemlerini yaşamıştır. 
+Muğla bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Bölge, çeşitli uygarlıkların yerleşim yeri olmuş ve ticaret yollarının kesişme noktası olmuştur. Antik Çağ'da, Likya ve Karya uygarlıkları bu topraklarda yaşamış, daha sonra Roma ve Bizans dönemlerini yaşamıştır.
 
 Bu bölgedeki doğal alanlar, tarihin her döneminde önemli bir role sahip olmuştur. İnsanlar, bu alanları yaylacılık, hayvancılık ve avcılık için kullanmış, ayrıca ticaret yolları üzerinde stratejik konumları nedeniyle önemli merkezler olarak görev görmüşlerdir. Türkiye'de, bu tür doğal alanlar genellikle insanların yaşam alanı ve geçim kaynakları olarak değer görmüş, aynı zamanda kültürel ve tarihi mirasın önemli bir parçası olarak kabul edilmiştir.
 
@@ -50,11 +50,11 @@ Mevsimsel değişikliklere göre iklim karakteri değişen Altıçam Dağı, Akd
 
 ## Flora ve Fauna
 
-Altıçam Dağı, Muğla'nın zeytinlikler ve çam ormanlarıyla kaplı bir bölgesinde yükselen bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Altıçam Dağı, Muğla'nın zeytinlikler ve çam ormanlarıyla kaplı bir bölgesinde yükselen bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, çam ormanları ve zeytinlikler hakimdir. İlkbaharın gelişiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Sonbaharda ise, yaprak döken ağaçlar ve çam ağaçlarının sararması ile manzara değişir. 
+Bitki Örtüsü olarak, çam ormanları ve zeytinlikler hakimdir. İlkbaharın gelişiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Sonbaharda ise, yaprak döken ağaçlar ve çam ağaçlarının sararması ile manzara değişir.
 
-Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler bulunur. Göç mevsiminde, birçok kuş türü bu bölgeden geçer. Çam ormanlarında yaşayan memeliler, zeytinliklerde yaşayanlarla birlikte, dağın ekolojik dengesini korurlar. 
+Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler bulunur. Göç mevsiminde, birçok kuş türü bu bölgeden geçer. Çam ormanlarında yaşayan memeliler, zeytinliklerde yaşayanlarla birlikte, dağın ekolojik dengesini korurlar.
 
 Ekolojik Değer olarak, Altıçam Dağı'nın korunması önemlidir. Dağın yükseklik zonları, alpin flora ve fauna çeşitliliği, bu bölgenin değerini artırır. Ayrıca, zeytinlikler ve çam ormanları, bölgenin ekonomisi için de önemlidir.
 

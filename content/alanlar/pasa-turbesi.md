@@ -1,7 +1,7 @@
 ---
 title: "Paşa Türbesi"
 date: "2026-01-10T04:46:33.007Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q16962818"
 
 # Paşa Türbesi
 
-Mersin'in güneşli ve sıcak iklimi, Paşa Türbesi gibi doğal güzelliklerini ziyaret etmek için ideal bir ortam sağlar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunar. Paşa Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alır ve bu bölge, zengin tarihi ve kültürel mirasıyla dikkat çeker. Ziyaretçiler, bu güzel plajda denize girme, güneşlenme ve doğanın güzelliklerini keşfetme fırsatını bulurlar.
+Mersin'in güneşli ve sıcak iklimi, Paşa Türbesi gibi doğal güzelliklerini ziyaret etmek için ideal bir ortam sağlar. Paşa Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alır ve bu bölge, zengin tarihi ve kültürel mirasıyla dikkat çeker. Ziyaretçiler, bu güzel plajda denize girme, güneşlenme ve doğanın güzelliklerini keşfetme fırsatını bulurlar.
 
 ## Tarihçe
 

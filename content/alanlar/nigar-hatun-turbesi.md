@@ -1,7 +1,7 @@
 ---
 title: "Nigar Hatun Türbesi"
 date: "2026-01-10T04:58:56.018Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391510"
 
 # Nigar Hatun Türbesi
 
-Nigar Hatun Türbesi, Antalya'nın Muratpaşa ilçesinde yer alan bir tarihi yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde bulunuyor ve etrafı çeşitli bitki türleriyle çevrili. Türbenin bulunduğu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Nigar Hatun Türbesi, hem tarihi hem de doğal güzelliği ile dikkat çekiyor ve ziyaretçilerini bekliyor.
+Nigar Hatun Türbesi, Antalya'nın Muratpaşa ilçesinde yer alan bir tarihi yapıdır. Bu türbe, yaklaşık 140 hektarlık bir alan içerisinde bulunuyor ve etrafı çeşitli bitki türleriyle çevrili. Nigar Hatun Türbesi, hem tarihi hem de doğal güzelliği ile dikkat çekiyor ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -52,7 +52,7 @@ Doğal güzelliği ile dikkat çeken Üçkatmerli Dağ, koordinatlarına göre b
 
 Üçkatmerli Dağ, Diyarbakır'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir bölge içinde yer alır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur.
 
-Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçlarında renkli çiçekler açar, sonbaharda ise otlar sararıp kurur. Dağın yüksek kesimlerinde, alpin flora hakimdir ve bu bölgede özel bitkiler yetişir. 
+Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçlarında renkli çiçekler açar, sonbaharda ise otlar sararıp kurur. Dağın yüksek kesimlerinde, alpin flora hakimdir ve bu bölgede özel bitkiler yetişir.
 
 Yaban hayatı açısından, memeliler, kuşlar ve sürüngenler bu dağda yaşar. Göçmen kuşlar, sonbaharda dağ üzerinden geçer. Memeliler ve sürüngenler ise, dağın farklı yükseklik zonlarında, kendilerine uygun yaşam alanları bulur.
 

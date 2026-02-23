@@ -51,11 +51,11 @@ Bölgenin iklim karakteri, mevsimsel olarak değişkenlik gösteriyor. Kış ayl
 
 ## Flora ve Fauna
 
-Hüdavendigar Dağı, steppede yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Dağın yükseklik zonlarına göre değişen bitki örtüsü, ilkbaharda renkli çiçeklerle kaplanırken, sonbaharda kuraklığa adapte olan bitkiler hakim oluyor. 
+Hüdavendigar Dağı, steppede yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Dağın yükseklik zonlarına göre değişen bitki örtüsü, ilkbaharda renkli çiçeklerle kaplanırken, sonbaharda kuraklığa adapte olan bitkiler hakim oluyor.
 
-Bitki Örtüsü olarak, step ve bozkır bitkileri gibi kuraklığa dayanıklı türler yaygındır. Dağın yüksek kesimlerinde, alpin flora olarak bilinen ve soğuk iklime adapte olmuş bitkiler de bulunabilir. 
+Bitki Örtüsü olarak, step ve bozkır bitkileri gibi kuraklığa dayanıklı türler yaygındır. Dağın yüksek kesimlerinde, alpin flora olarak bilinen ve soğuk iklime adapte olmuş bitkiler de bulunabilir.
 
-Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Göçmen kuşlar, sonbaharda dağdan geçerken, memeliler ve sürüngenler ise dağın farklı yükseklik zonlarında yaşamını sürdürür. 
+Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler yaşar. Göçmen kuşlar, sonbaharda dağdan geçerken, memeliler ve sürüngenler ise dağın farklı yükseklik zonlarında yaşamını sürdürür.
 
 Ekolojik Değer olarak, Hüdavendigar Dağı, bölgenin ekolojik dengesi için önemli bir rol oynar. Dağın flora ve fauna çeşitliliği, bölgenin biyolojik zenginliğini korur ve sürdürür.
 

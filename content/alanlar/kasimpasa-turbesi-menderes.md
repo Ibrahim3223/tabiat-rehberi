@@ -1,7 +1,7 @@
 ---
 title: "Kasımpaşa Türbesi, Menderes"
 date: "2026-01-10T06:34:55.771Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735182"
 
 # Kasımpaşa Türbesi, Menderes
 
-Menderes, İzmir'in Ege Bölgesi'nde yer alan bir ilçe ve bu ilçe içerisinde bulunan Kasımpaşa Türbesi, hem tarihi açıdan hem de doğal güzellikleri açısından ziyaretçilerini cezbeden bir nokta. 140 hektarlık bir alana yayılan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve sunduğu manzaralarla ziyaretçilerini büyülemektedir. Kasımpaşa Türbesi, Menderes'in kalbinde yer alan ve tarihi geçmişiyle ön plana çıkan bir mekan. Burada, tarih ve doğa bir araya gelerek ziyaretçilere benzersiz bir deneyim sunuyor.
+Menderes, İzmir'in Ege Bölgesi'nde yer alan bir ilçe ve bu ilçe içerisinde bulunan Kasımpaşa Türbesi, hem tarihi açıdan hem de doğal güzellikleri açısından ziyaretçilerini cezbeden bir nokta. Kasımpaşa Türbesi, Menderes'in kalbinde yer alan ve tarihi geçmişiyle ön plana çıkan bir mekan. Burada, tarih ve doğa bir araya gelerek ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kasımpaşa Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu 
 
 ## Coğrafya
 
-Kasımpaşa Türbesi, Menderes'in merkezinde yer alıyor ve Ege Bölgesi'nin güzel bir köşesinde konumlanıyor. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Çevresinde çeşitli değil, çeşitli bitki türleri ve zengin fauna encontr değil, bulunur. Kasımpaşa Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi mekanları hem de doğal güzellikleri keşfetmesine olanak tanıyor. Menderes'in iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı pasiftir. Bu iklim, bölgeyi yıl boyunca ziyaret etmek için uygun kılıyor. Kasımpaşa Türbesi'nin bulunduğu alan, çevredeki diğer tarihi ve doğal güzelliklere de yakın mesafede yer alıyor.
+Kasımpaşa Türbesi, Menderes'in merkezinde yer alıyor ve Ege Bölgesi'nin güzel bir köşesinde konumlanıyor. Çevresinde çeşitli değil, çeşitli bitki türleri ve zengin fauna encontr değil, bulunur. Kasımpaşa Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi mekanları hem de doğal güzellikleri keşfetmesine olanak tanıyor. Menderes'in iklimi, Ege Bölgesi'nin karakteristik Akdeniz iklimine uygun olarak yazları sıcak ve kurak, kışları ılık ve yağışlı pasiftir. Bu iklim, bölgeyi yıl boyunca ziyaret etmek için uygun kılıyor. Kasımpaşa Türbesi'nin bulunduğu alan, çevredeki diğer tarihi ve doğal güzelliklere de yakın mesafede yer alıyor.
 
 ## Flora ve Fauna
 

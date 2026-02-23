@@ -28,7 +28,7 @@ wikidata_id: "Q31391022"
 
 # Şakamehmet Tepesi
 
-Şakamehmet Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, doğa severler için ideal bir destinasyon. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Şakamehmet Tepesi, ziyaretçilerini güler yüzlü bir şekilde karşılayaca ve onlara unutulmaz bir deneyim sunacak.
+Şakamehmet Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Şakamehmet Tepesi, ziyaretçilerini güler yüzlü bir şekilde karşılayaca ve onlara unutulmaz bir deneyim sunacak.
 
 ## Tarihçe
 

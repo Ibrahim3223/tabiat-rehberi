@@ -1,7 +1,7 @@
 ---
 title: "Esen Bey Türbesi"
 date: "2026-01-10T05:57:37.038Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Niğde"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390476"
 
 # Esen Bey Türbesi
 
-Esen Bey Türbesi, Niğde'nin merkezinde yer alan tarihi bir yapıdır. Bu türkbenin etrafındaki 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli yeşil alanlarından biridir. Esen Bey Türbesi, tarihi ve doğal güzelliklerini bir arada sunan özel bir mekan olarak ziyaretçilerini bekliyor. Türbenin mimarisi ve tarihi özellikleriyle dikkat çekiyor. Ziyaretçiler, burada hem tarihi bir yapıyı keşfediyor hem de güzel bir doğa yürüyüşü yapabiliyor.
+Esen Bey Türbesi, Niğde'nin merkezinde yer alan tarihi bir yapıdır. Esen Bey Türbesi, tarihi ve doğal güzelliklerini bir arada sunan özel bir mekan olarak ziyaretçilerini bekliyor. Türbenin mimarisi ve tarihi özellikleriyle dikkat çekiyor. Ziyaretçiler, burada hem tarihi bir yapıyı keşfediyor hem de güzel bir doğa yürüyüşü yapabiliyor.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Esen Bey Türbesi, Niğde'nin merkezinde yer alıyor. Bu türkbenin etrafındaki
 
 ## Flora ve Fauna
 
-Esen Bey Türbesi, çevresindeki yeşil alan ile birlikte, çeşitli bitki türleri ile zengin bir flora sunuyor. Türbenin etrafındaki 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli yeşil alanlarından biridir. Bu alan, çeşitli bitki türleri ile ziyaretçilere doğa yürüyüşü imkanı sunuyor. Esen Bey Türbesi, fauna açısından da zengin bir alandır. Türbenin etrafındaki yeşil alan, çeşitli hayvan türleri ile ziyaretçilere doğa gözlemi imkanı sunuyor. Esen Bey Türbesi, flora ve fauna açısından zengin bir alandır ve ziyaretçilerine doğa ile iç içe bir deneyim sunuyor.
+Esen Bey Türbesi, çevresindeki yeşil alan ile birlikte, çeşitli bitki türleri ile zengin bir flora sunuyor. Bu alan, çeşitli bitki türleri ile ziyaretçilere doğa yürüyüşü imkanı sunuyor. Esen Bey Türbesi, fauna açısından da zengin bir alandır. Türbenin etrafındaki yeşil alan, çeşitli hayvan türleri ile ziyaretçilere doğa gözlemi imkanı sunuyor. Esen Bey Türbesi, flora ve fauna açısından zengin bir alandır ve ziyaretçilerine doğa ile iç içe bir deneyim sunuyor.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Esen Bey Türbesi, ziyaretçilerine tarihi ve doğal güzelliklerini bir arada s
 ## İlginç Bilgiler
 
 - Esen Bey Türbesi, Niğde'nin önemli tarihi mekanlarından biridir.
-- Türbenin etrafındaki 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Esen Bey Türbesi, flora ve fauna açısından zengin bir alandır.
 - Türbe, Niğde'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 - Esen Bey Türbesi, tarihi ve doğal güzelliklerini bir arada sunan özel bir mekan olarak ziyaretçilerini bekliyor.

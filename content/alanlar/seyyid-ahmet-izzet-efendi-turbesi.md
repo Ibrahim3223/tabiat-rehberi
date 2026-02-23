@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Ahmet İzzet Efendi Türbesi"
 date: "2026-01-10T07:13:11.082Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,15 +29,15 @@ wikidata_id: "Q131390990"
 
 # Seyyid Ahmet İzzet Efendi Türbesi
 
-Seyyid Ahmet İzzet Efendi Türbesi, İstanbul'un tarihi ve dini açıdan önemli noktalarından biri olarak Fatih ilçesinde yer alır. Bu türbe, Marmara Bölgesi'nin önemli dini merkezlerinden biri olarak kabul edilir. İstanbul'un kalbi sayılan Fatih'te bulunan Seyyid Ahmet İzzet Efendi Türbesi, ziyaretçilerini históriye ve kültüre davet eder. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Türbenin bulunduğu bölge, İstanbul'un en eski ve en önemli tarihî noktalarından biridir.
+Seyyid Ahmet İzzet Efendi Türbesi, İstanbul'un tarihi ve dini açıdan önemli noktalarından biri olarak Fatih ilçesinde yer alır. Bu türbe, Marmara Bölgesi'nin önemli dini merkezlerinden biri olarak kabul edilir. İstanbul'un kalbi sayılan Fatih'te bulunan Seyyid Ahmet İzzet Efendi Türbesi, ziyaretçilerini tarihi ve kültüre davet eder. Türbenin bulunduğu bölge, İstanbul'un en eski ve en önemli tarihî noktalarından biridir.
 
 ## Tarihçe
 
-Seyyid Ahmet İzzet Efendi Türbesi, tarihi geçmişi ile dikkat çeker. Türbenin tarihi hakkında detaylı bilgiler bulunmasa da, İstanbul'un fethi sırasında önemli bir role sahip olduğu bilinir. Bu dönemden kalan tarihi eserler, türbenin içinde ve çevresinde bulunabilir. Türbe, yüzyıllar boyunca çeşitli restorasyonlar ve onarımlar görmüştür. Historical geçmişi, ziyaretçilere önemli bir deneyim sunar. Türbenin históriaçıkları, ziyaretçilerin dikkatini çekmeyi başarır. Seyyid Ahmet İzzet Efendi Türbesi, İstanbul'un en önemli tarihî noktalarından biri olarak kabul edilir.
+Seyyid Ahmet İzzet Efendi Türbesi, tarihi geçmişi ile dikkat çeker. Türbenin tarihi hakkında detaylı bilgiler bulunmasa da, İstanbul'un fethi sırasında önemli bir role sahip olduğu bilinir. Bu dönemden kalan tarihi eserler, türbenin içinde ve çevresinde bulunabilir. Türbe, yüzyıllar boyunca çeşitli restorasyonlar ve onarımlar görmüştür. Historical geçmişi, ziyaretçilere önemli bir deneyim sunar. Türbenin tarihiçıkları, ziyaretçilerin dikkatini çekmeyi başarır. Seyyid Ahmet İzzet Efendi Türbesi, İstanbul'un en önemli tarihî noktalarından biri olarak kabul edilir.
 
 ## Coğrafya
 
-Seyyid Ahmet İzzet Efendi Türbesi, Fatih ilçesinde yer alır. Türbenin bulunduğu bölge, İstanbul'un en eski ve en önemli tarihî noktalarından biridir. Marmara Bölgesi'nin önemli dini merkezlerinden biri olarak kabul edilir. Türbenin çevresi, tarihi ve kültürel açıdan önemli yapılarla çevrilidir. İstanbul'un kalbi sayılan Fatih'te bulunan Seyyid Ahmet İzzet Efendi Türbesi, ziyaretçilerini históriye ve kültüre davet eder. Türbenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Türbenin içi, historical geçmişi yansıtan önemli eserlerle dolu. Çevresinde çeşitli tarihi yapılar ve dini merkezler bulunabilir.
+Seyyid Ahmet İzzet Efendi Türbesi, Fatih ilçesinde yer alır. Türbenin bulunduğu bölge, İstanbul'un en eski ve en önemli tarihî noktalarından biridir. Marmara Bölgesi'nin önemli dini merkezlerinden biri olarak kabul edilir. Türbenin çevresi, tarihi ve kültürel açıdan önemli yapılarla çevrilidir. İstanbul'un kalbi sayılan Fatih'te bulunan Seyyid Ahmet İzzet Efendi Türbesi, ziyaretçilerini tarihi ve kültüre davet eder. Türbenin içi, historical geçmişi yansıtan önemli eserlerle dolu. Çevresinde çeşitli tarihi yapılar ve dini merkezler bulunabilir.
 
 ## Flora ve Fauna
 

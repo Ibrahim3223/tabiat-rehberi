@@ -1,7 +1,7 @@
 ---
 title: "Çorlulu Ali Paşa Hamamı"
 date: "2026-01-09T22:49:35.981Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738612"
 
 # Çorlulu Ali Paşa Hamamı
 
-Çorlulu Ali Paşa Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir yapıdır. Beyoğlu'nda yer alan bu hamam, yaklaşık 140 hektarlık bir alanda, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tarihi geçmişiyle dikkat çeken bu hamam, Marmara Bölgesi'nin önemli turistik noktalarından biri olarak kabul ediliyor. İstanbul'un kalbinde yer alan bu yapı, şehrin canlı ve renkli atmosferini yansıtan bir sembol olarak görülüyor.
+Çorlulu Ali Paşa Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir yapıdır. Tarihi geçmişiyle dikkat çeken bu hamam, Marmara Bölgesi'nin önemli turistik noktalarından biri olarak kabul ediliyor. İstanbul'un kalbinde yer alan bu yapı, şehrin canlı ve renkli atmosferini yansıtan bir sembol olarak görülüyor.
 
 ## Tarihçe
 

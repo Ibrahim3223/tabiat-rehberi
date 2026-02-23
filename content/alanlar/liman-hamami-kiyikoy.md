@@ -1,7 +1,7 @@
 ---
 title: "Liman Hamamı (Kıyıköy)"
 date: "2026-01-09T22:16:22.040Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırklareli"
@@ -29,7 +29,7 @@ wikidata_id: "Q127386498"
 
 # Liman Hamamı (Kıyıköy)
 
-Liman Hamamı (Kıyıköy), Marmara Bölgesi'nin güzide ilçelerinden Vize'de, Kırklareli'ilinin sınırları içerisinde yer alan bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve denize nazır bir konumda bulunmaktadır. Bu büyüleyici plaj, güneşin altın ışıkları altında parlayan kumsalı ve berrak denizi ile ziyaretçilerini büyülemektedir. Liman Hamamı (Kıyıköy), hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerini cezbeden bir destinasyondur.
+Liman Hamamı (Kıyıköy), Marmara Bölgesi'nin güzide ilçelerinden Vize'de, Kırklareli'ilinin sınırları içerisinde yer alan bir plajdır. Bu büyüleyici plaj, güneşin altın ışıkları altında parlayan kumsalı ve berrak denizi ile ziyaretçilerini büyülemektedir. Liman Hamamı (Kıyıköy), hem doğal güzelliği hem de tarihi zenginliği ile ziyaretçilerini cezbeden bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Liman Hamamı (Kıyıköy)'ün tarihi geçmişi, yüzyıllar öncesine dayanmakt
 
 ## Coğrafya
 
-Liman Hamamı (Kıyıköy), coğrafi konumu itibariyle Marmara Bölgesi'nin en güzel noktalarından birisidir. Plaj, denize nazır bir konumda yer alır ve bu sayede ziyaretçilerine muhteşem bir manzara sunar. Çevresinde yer alan dağlar ve ormanlar, plajın doğal güzelliğini daha da artırır. Liman Hamamı (Kıyıköy)'ün iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılımandır. Yaz aylarında sıcak ve güneşli, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu sayede, ziyaretçiler her mevsim plajın güzelliğini keşfedebilirler. Plajın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olup ziyaretçilere geniş bir alan sunar.
+Liman Hamamı (Kıyıköy), coğrafi konumu itibariyle Marmara Bölgesi'nin en güzel noktalarından birisidir. Plaj, denize nazır bir konumda yer alır ve bu sayede ziyaretçilerine muhteşem bir manzara sunar. Çevresinde yer alan dağlar ve ormanlar, plajın doğal güzelliğini daha da artırır. Liman Hamamı (Kıyıköy)'ün iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılımandır. Yaz aylarında sıcak ve güneşli, kış aylarında ise ılık ve yağışlı bir hava hakimdir. Bu sayede, ziyaretçiler her mevsim plajın güzelliğini keşfedebilirler.
 
 ## Flora ve Fauna
 

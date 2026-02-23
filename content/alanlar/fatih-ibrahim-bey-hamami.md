@@ -1,7 +1,7 @@
 ---
 title: "Fatih İbrahim Bey Hamamı"
 date: "2026-01-09T23:56:26.668Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245820"
 
 # Fatih İbrahim Bey Hamamı
 
-Fatih İbrahim Bey Hamamı, İzmir'in Urla ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere hem tarihi bir hamamın güzelliğini keşfetme hem de Ege Denizi'nin serin sularında rahat bir gün geçirme imkanı sunar. Fatih İbrahim Bey Hamamı, tarihinin zenginliği ve doğal güzelliği ile ziyaretçilerini bekliyor.
+Fatih İbrahim Bey Hamamı, İzmir'in Urla ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. Bu geniş alan, ziyaretçilere hem tarihi bir hamamın güzelliğini keşfetme hem de Ege Denizi'nin serin sularında rahat bir gün geçirme imkanı sunar. Fatih İbrahim Bey Hamamı, tarihinin zenginliği ve doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

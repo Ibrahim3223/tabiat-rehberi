@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Şaban-ı Veli Türbesi"
 date: "2026-01-10T07:52:41.285Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391222"
 
 # Şeyh Şaban-ı Veli Türbesi
 
-Kastamonu'nun merkezinde yer alan Şeyh Şaban-ı Veli Türbesi, yaklaşık 140 hektarlık bir alanda, denize nazır olarak konumlandırılmıştır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir yeşil alan sunmaktadır. Şeyh Şaban-ı Veli Türbesi, Kastamonu'nun en önemli tarihi ve kültürel mekanlarından biri olarak kabul edilir. Bu mekan, yüzyıllar boyunca bölge halkının manevi ve kültürel yaşamında önemli bir rol oynamıştır. Şeyh Şaban-ı Veli Türbesi, ziyaretçilere Karadeniz Bölgesi'nin zengin tarihini, kültürünü ve doğal güzelliklerini deneyimleme fırsatı sunar.
+Kastamonu'nun merkezinde yer alan Şeyh Şaban-ı Veli Türbesi, yaklaşık 140 hektarlık bir alanda, denize nazır olarak konumlandırılmıştır. Şeyh Şaban-ı Veli Türbesi, Kastamonu'nun en önemli tarihi ve kültürel mekanlarından biri olarak kabul edilir. Bu mekan, yüzyıllar boyunca bölge halkının manevi ve kültürel yaşamında önemli bir rol oynamıştır. Şeyh Şaban-ı Veli Türbesi, ziyaretçilere Karadeniz Bölgesi'nin zengin tarihini, kültürünü ve doğal güzelliklerini deneyimleme fırsatı sunar.
 
 ## Tarihçe
 

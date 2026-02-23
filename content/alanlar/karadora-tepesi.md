@@ -28,7 +28,7 @@ wikidata_id: "Q31389934"
 
 # Karadora Tepesi
 
-Karadora Tepesi, Samsun'un doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Karadora Tepesi, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle çekmeyi başarmıştır. Tepenin etrafındaki manzara, ziyaretçilerin doğayı ve güzelliği deneyimlemesine olanak tanır. Karadora Tepesi'ne çıkan ziyaretçiler, Samsun'un panoramik manzarasını görebilir ve şehrin tarihi geçmişi hakkında bilgi edinebilirler.
+Karadora Tepesi, Samsun'un doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alır. Karadora Tepesi, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle çekmeyi başarmıştır. Tepenin etrafındaki manzara, ziyaretçilerin doğayı ve güzelliği deneyimlemesine olanak tanır. Karadora Tepesi'ne çıkan ziyaretçiler, Samsun'un panoramik manzarasını görebilir ve şehrin tarihi geçmişi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 

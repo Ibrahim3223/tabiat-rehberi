@@ -1,7 +1,7 @@
 ---
 title: "Tayyar Baba Türbesi"
 date: "2026-01-10T06:20:49.883Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"

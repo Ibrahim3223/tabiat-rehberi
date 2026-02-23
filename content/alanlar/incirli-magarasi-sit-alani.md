@@ -22,7 +22,7 @@ wikidata_id: "Q108226048"
 
 # İncirli Mağarası Sit Alanı
 
-İncirli Mağarası Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, doğal güzellikleri ve büyüleyici mağaraları ile dikkat çekmektedir. İncirli Mağarası, yerli ve yabancı turistler için bir çekim merkezidir. Mağaranın içi, çeşitli oluşumlar ve şekiller ile süslenmiştir. Alanın etrafı, çeşitli bitki türleri ile kaplıdır ve fauna açısından da zengin bir yapıya sahiptir. İncirli Mağarası Sit Alanı, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile birlikte sunmaktadır.
+ Bu alan, doğal güzellikleri ve büyüleyici mağaraları ile dikkat çekmektedir. İncirli Mağarası, yerli ve yabancı turistler için bir çekim merkezidir. Mağaranın içi, çeşitli oluşumlar ve şekiller ile süslenmiştir. Alanın etrafı, çeşitli bitki türleri ile kaplıdır ve fauna açısından da zengin bir yapıya sahiptir. İncirli Mağarası Sit Alanı, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile birlikte sunmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108226048"
 
 ## Coğrafya
 
-İncirli Mağarası Sit Alanı, İç Anadolu Bölgesi'nde yer almaktadır. Alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Mağaranın etrafı, çeşitli bitki türleri ile kaplıdır ve fauna açısından da zengin bir yapıya sahiptir. İncirli Mağarası, İç Anadolu Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde oluşmuştur. Mağara, çeşitli jeolojik oluşumlar ile birlikte yer almaktadır. Alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzemektedir. İncirli Mağarası Sit Alanı, coğrafi konumu itibari ile önemli bir doğal güzelliktir. Mağaranın yakınında, çeşitli su kaynakları ve akarsular bulunmaktadır. Alanın topografyası, çeşitli tepe ve vadiler ile şekillenmiştir. İncirli Mağarası, coğrafi açıdan önemli bir noktadır.
+İncirli Mağarası Sit Alanı, İç Anadolu Bölgesi'nde yer almaktadır. Mağaranın etrafı, çeşitli bitki türleri ile kaplıdır ve fauna açısından da zengin bir yapıya sahiptir. İncirli Mağarası, İç Anadolu Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde oluşmuştur. Mağara, çeşitli jeolojik oluşumlar ile birlikte yer almaktadır. Alanın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzemektedir. İncirli Mağarası Sit Alanı, coğrafi konumu itibari ile önemli bir doğal güzelliktir. Mağaranın yakınında, çeşitli su kaynakları ve akarsular bulunmaktadır. Alanın topografyası, çeşitli tepe ve vadiler ile şekillenmiştir. İncirli Mağarası, coğrafi açıdan önemli bir noktadır.
 
 ## Flora ve Fauna
 

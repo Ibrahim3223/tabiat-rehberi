@@ -28,7 +28,7 @@ wikidata_id: "Q31543311"
 
 # Tahteremo Tepesi
 
-Tahteremo Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin önemli tarihi ve doğal güzelliklerini bir araya getiren bir nokta. Tepenin etrafında, Diyarbakır'ın tarihi geçmişi hakkında bilgi sahibi olabilir, aynı zamanda şehrin panoramik manzarasının keyfini çıkarabilirsiniz. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir faaliyet alanı sunuyor. Tahteremo Tepesi, hem yerel halk hem de ziyaretçiler için bir çekim merkezi olarak kabul ediliyor.
+Tahteremo Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin önemli tarihi ve doğal güzelliklerini bir araya getiren bir nokta. Tepenin etrafında, Diyarbakır'ın tarihi geçmişi hakkında bilgi sahibi olabilir, aynı zamanda şehrin panoramik manzarasının keyfini çıkarabilirsiniz. Tahteremo Tepesi, hem yerel halk hem de ziyaretçiler için bir çekim merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 

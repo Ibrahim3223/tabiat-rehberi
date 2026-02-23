@@ -22,7 +22,7 @@ wikidata_id: "Q108228446"
 
 # Balıkesir-Konakpınar-Kızılçam
 
-Balıkesir-Konakpınar-Kızılçam milli parkı, Marmara Bölgesi'nde yer alan ve doğa severlerin ilgi odağı olan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunmaktadır. Bu milli park, Konakpınar ve Kızılçam ormanlarının güzelliği ile çevrilidir. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve çevrenin güzelliğini keşfedebilirler. Milli parkın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Balıkesir-Konakpınar-Kızılçam milli parkı, Marmara Bölgesi'nde yer alan ve doğa severlerin ilgi odağı olan bir milli parktır. Bu milli park, Konakpınar ve Kızılçam ormanlarının güzelliği ile çevrilidir. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve çevrenin güzelliğini keşfedebilirler. Milli parkın bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 

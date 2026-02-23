@@ -28,7 +28,7 @@ wikidata_id: "Q34823661"
 
 # Çalıkdağı Tepesi
 
-Çalıkdağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Çalıkdağı Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir gezi noktası.
+Çalıkdağı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır. Çalıkdağı Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir gezi noktası.
 
 ## Tarihçe
 

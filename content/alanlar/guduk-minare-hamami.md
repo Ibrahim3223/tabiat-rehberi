@@ -1,7 +1,7 @@
 ---
 title: "Güdük Minare Hamamı"
 date: "2026-01-09T23:19:28.964Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738982"
 
 # Güdük Minare Hamamı
 
-Güdük Minare Hamamı, İzmir'in Seferihisar ilçesinde yer alan ve Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir plajdır. Bu bölgede, denizin maviliği ve güneşin sıcaklığı, ziyaretçilere unutulmaz bir deneyim sunar. 140 hektarlık bir alana yayılan Güdük Minare Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu özelliği ile ziyaretçilerini büyüler. Burada, doğanın güzelliği ve denizin serinliği, birlikte harmanlanır ve ziyaretçilere huzur dolu anlar yaşatır.
+Güdük Minare Hamamı, İzmir'in Seferihisar ilçesinde yer alan ve Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir plajdır. Bu bölgede, denizin maviliği ve güneşin sıcaklığı, ziyaretçilere unutulmaz bir deneyim sunar. Burada, doğanın güzelliği ve denizin serinliği, birlikte harmanlanır ve ziyaretçilere huzur dolu anlar yaşatır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Güdük Minare Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli mede
 
 ## Coğrafya
 
-Güdük Minare Hamamı, Seferihisar ilçesinin sahil şeridinde yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini sunar. Bu bölgede, denizin maviliği ve güneşin sıcaklığı, birlikte harmanlanır ve ziyaretçilere unutulmaz bir deneyim sunar. 140 hektarlık bir alana yayılan bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu özelliği ile ziyaretçilerini büyüler. Burada, doğal güzellikler ve coğrafi özellikler, ziyaretçilere birçok olanak sunar. Güdük Minare Hamamı, Ege Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çeker. Bu bölgede, ziyaretçiler, denizin serinliğinde yüzme, güneşin sıcaklığında güneşlenme ve doğal güzellikleri keşfetme olanağı bulurlar.
+Güdük Minare Hamamı, Seferihisar ilçesinin sahil şeridinde yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini sunar. Bu bölgede, denizin maviliği ve güneşin sıcaklığı, birlikte harmanlanır ve ziyaretçilere unutulmaz bir deneyim sunar. Burada, doğal güzellikler ve coğrafi özellikler, ziyaretçilere birçok olanak sunar. Güdük Minare Hamamı, Ege Bölgesi'nin coğrafi güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çeker. Bu bölgede, ziyaretçiler, denizin serinliğinde yüzme, güneşin sıcaklığında güneşlenme ve doğal güzellikleri keşfetme olanağı bulurlar.
 
 ## Flora ve Fauna
 

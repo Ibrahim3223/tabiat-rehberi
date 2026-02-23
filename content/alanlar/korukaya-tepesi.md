@@ -28,7 +28,7 @@ wikidata_id: "Q31389684"
 
 # Korukaya Tepesi
 
-Korukaya Tepesi, Kastamonu'nun güzide bir noktası olarak Karadeniz Bölgesi'nin doğal güzelliklerini sunar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal miraslarından biri olarak kabul edilir. Korukaya Tepesi, Kastamonu'nun merkezine uzun bir mesafe uzaklıkta bulunur ve buraya ulaşım oldukça kolaydır. Tepenin eteklerinde yer alan köyler, misafirlerine sıcak bir şekilde hoşgeldin diyor ve bölgenin kültürel zenginliğini keşfetme fırsatı sunuyor. Korukaya Tepesi, hem doğa severler hem de kültür meraklıları için bir hazine olarak görülüyor.
+Korukaya Tepesi, Kastamonu'nun güzide bir noktası olarak Karadeniz Bölgesi'nin doğal güzelliklerini sunar. Korukaya Tepesi, Kastamonu'nun merkezine uzun bir mesafe uzaklıkta bulunur ve buraya ulaşım oldukça kolaydır. Tepenin eteklerinde yer alan köyler, misafirlerine sıcak bir şekilde hoşgeldin diyor ve bölgenin kültürel zenginliğini keşfetme fırsatı sunuyor. Korukaya Tepesi, hem doğa severler hem de kültür meraklıları için bir hazine olarak görülüyor.
 
 ## Tarihçe
 

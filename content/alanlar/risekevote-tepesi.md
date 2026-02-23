@@ -28,7 +28,7 @@ wikidata_id: "Q31553313"
 
 # Rişekevote Tepesi
 
-Rişekevote Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Riskevote Tepesi, bölgenin coğrafyasını şekillendiren önemli bir nokta. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Rişekevote Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde bulunan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Riskevote Tepesi, bölgenin coğrafyasını şekillendiren önemli bir nokta. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Rişekevote Tepesi, tarihi geçmişi ile dikkat çekiyor. Tepenin tarihi hakkın
 
 ## Coğrafya
 
-Rişekevote Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını etkileyen önemli bir tepe. Tepenin konumu, bölgenin iklimini ve çevresindeki bitki örtüsünü etkiliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde, farklı türde bitkiler ve ağaçlar bulunmakta. Riskevote Tepesi, Batman ilinin önemli bir coğrafi noktası. Tepenin yüksekliği ve konumu, bölgenin manzarasını şekillendiren önemli faktörler. Tepenin etrafında, farklı coğrafi oluşumlar ve doğal güzellikler bulunmakta.
+Rişekevote Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını etkileyen önemli bir tepe. Tepenin konumu, bölgenin iklimini ve çevresindeki bitki örtüsünü etkiliyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde, farklı türde bitkiler ve ağaçlar bulunmakta. Riskevote Tepesi, Batman ilinin önemli bir coğrafi noktası. Tepenin yüksekliği ve konumu, bölgenin manzarasını şekillendiren önemli faktörler. Tepenin etrafında, farklı coğrafi oluşumlar ve doğal güzellikler bulunmakta.
 
 ## Flora ve Fauna
 

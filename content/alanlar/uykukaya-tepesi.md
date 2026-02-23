@@ -28,7 +28,7 @@ wikidata_id: "Q31535897"
 
 # Uykukaya Tepesi
 
-Uykukaya Tepesi, Hatay ilinin güzel manzarasına ev sahipliği yapan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Uykukaya Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. Bu tepe, Akdeniz Bölgesi'nin önemli noktalarından biri olarak biliniyor. Burada, doğa severlerin keyifle dolaşabileceği patikalar ve manzaralı noktalar bulunuyor.
+Uykukaya Tepesi, Hatay ilinin güzel manzarasına ev sahipliği yapan bir tepe. Uykukaya Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbediyor. Bu tepe, Akdeniz Bölgesi'nin önemli noktalarından biri olarak biliniyor. Burada, doğa severlerin keyifle dolaşabileceği patikalar ve manzaralı noktalar bulunuyor.
 
 ## Tarihçe
 

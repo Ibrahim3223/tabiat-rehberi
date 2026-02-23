@@ -23,7 +23,7 @@ wikidata_id: "Q108228750"
 
 # BEŞİKTAŞ
 
-BEŞİKTAŞ milli parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin bir flora ve fauna çeşitliliğine sahiptir. Bu yeşil alan, hem yerel halk hem de turistler için keyifli bir gezi alanı sunar. Doğal güzelliği ve çevre değerleri ile ön plana çıkan BEŞİKTAŞ, aynı zamanda ekoloji ve turizm açısından da önemli bir merkezdir.
+BEŞİKTAŞ milli parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu yeşil alan, hem yerel halk hem de turistler için keyifli bir gezi alanı sunar. Doğal güzelliği ve çevre değerleri ile ön plana çıkan BEŞİKTAŞ, aynı zamanda ekoloji ve turizm açısından da önemli bir merkezdir.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ BEŞİKTAŞ milli parkını ziyaret etmek, doğa severler için keyifli bir dene
 ## İlginç Bilgiler
 
 - BEŞİKTAŞ milli parkı, Türkiye'nin önemli milli parklarından biridir.
-- Parkın alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - BEŞİKTAŞ, zengin bir flora ve fauna çeşitliliğine sahiptir.
 - Parkın coğrafyası, geniş otlaklar ve ormanlık alanlar ile karakterizedir.
 - BEŞİKTAŞ, yılın dört mevsimi ziyaret edilebilir.

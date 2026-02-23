@@ -50,7 +50,7 @@ Fiziksel yapısını incelediğimizde, Gözle Tepe'nin coğrafi özelliklerinin 
 
 ## Flora ve Fauna
 
-"Gözle Tepe"nin flora ve fauna bölümü, ziyaretçilerini zengin bir doğa deneyimine davet ediyor. Bu 1200 hektarlık dağ ekosisteminde, maki bitki örtüsü hakimdir ve kuraklığa dayanıklı türler ön plana çıkıyor. 
+"Gözle Tepe"nin flora ve fauna bölümü, ziyaretçilerini zengin bir doğa deneyimine davet ediyor. Bu 1200 hektarlık dağ ekosisteminde, maki bitki örtüsü hakimdir ve kuraklığa dayanıklı türler ön plana çıkıyor.
 
 Bitki Örtüsü bölümünde, ilkbaharın renkli çiçekleriyle karşılaşıyoruz. Mevsimsel değişimlere uyum gösteren bitkiler, dağın yükseklik zonlarına göre çeşitlilik gösteriyor. Kıyı ekosisteminin etkileri, bu bölgede özel bir bitki örtüsünün gelişmesine neden olmuş.
 

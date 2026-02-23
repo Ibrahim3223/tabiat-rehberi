@@ -28,7 +28,7 @@ wikidata_id: "Q31556986"
 
 # Parakaya Tepesi
 
-Parakaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Burada, ziyaretçiler hem doğayı hem de tarihi bir arada deneyimleyebilir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu, ziyaretçilerin doğayla iç içe Olmasını sağlar.
+Parakaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Burada, ziyaretçiler hem doğayı hem de tarihi bir arada deneyimleyebilir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu, ziyaretçilerin doğayla iç içe Olmasını sağlar.
 
 ## Tarihçe
 

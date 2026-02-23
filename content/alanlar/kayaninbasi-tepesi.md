@@ -28,7 +28,7 @@ wikidata_id: "Q31389822"
 
 # Kayanınbaşı Tepesi
 
-Kayanınbaşı Tepesi, Çankırı ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Bu tepenin bulunduğu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Yaklaşık 140 hektarlık bir alana yayılmış olan Kayanınbaşı Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu alanın coğrafi konumu, ziyaretçilere geniş bir açısı sunar. Kayanınbaşı Tepesi, Çankırı'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak ortaya çıkar.
+Kayanınbaşı Tepesi, Çankırı ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Bu tepenin bulunduğu bölge, coğrafi olarak zengin bir çeşitlilik sunar. Bu alanın coğrafi konumu, ziyaretçilere geniş bir açısı sunar. Kayanınbaşı Tepesi, Çankırı'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak ortaya çıkar.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Kayanınbaşı Tepesi'ni ziyaret etmek, Çankırı'nın doğal güzelliklerini k
 
 - Kayanınbaşı Tepesi, İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir.
 - Bölge, coğrafi olarak zengin bir çeşitlilik sunar.
-- Kayanınbaşı Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Tepenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar.
 - Kayanınbaşı Tepesi, Çankırı'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olarak ortaya çıkar.

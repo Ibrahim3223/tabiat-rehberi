@@ -1,7 +1,7 @@
 ---
 title: "Umurbey Hamamı"
 date: "2026-01-09T22:56:09.838Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738641"
 
 # Umurbey Hamamı
 
-Umurbey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinmektedir. Yıldırım/Bursa'da bulunan bu plaj, 140 hektarlık bir yeşil alan üzerine kurulmuştur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunmaktadır. Umurbey Hamamı, denizin ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyon olarak göz önüne çıkmaktadır. Plajın genişliği ve temizliği, ziyaretçilerin rahat bir şekilde güneşlenmesine ve denize girmesine olanak sağlamaktadır.
+Umurbey Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinmektedir. Yıldırım/Bursa'da bulunan bu plaj, 140 hektarlık bir yeşil alan üzerine kurulmuştur. Umurbey Hamamı, denizin ve güneşin tadını çıkarmak isteyenler için ideal bir destinasyon olarak göz önüne çıkmaktadır. Plajın genişliği ve temizliği, ziyaretçilerin rahat bir şekilde güneşlenmesine ve denize girmesine olanak sağlamaktadır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387871"
 
 # Tavukdağ Tepesi
 
-Tavukdağ Tepesi, Erzurum'un merkezi bir konumda yer alan ve ziyaretçilerini etkileyen bir doğal güzelliktir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alanı kapsamı içine almaktadır. Tavukdağ Tepesi, hem yerel halk hem de turistler için bir çekim merkezi olarak bilinmektedir. Burada, doğayı ve manzarayı seyretme mümkündür. Ayrıca, tepe etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Tavukdağ Tepesi, Erzurum'un merkezi bir konumda yer alan ve ziyaretçilerini etkileyen bir doğal güzelliktir. Tavukdağ Tepesi, hem yerel halk hem de turistler için bir çekim merkezi olarak bilinmektedir. Burada, doğayı ve manzarayı seyretme mümkündür. Ayrıca, tepe etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 

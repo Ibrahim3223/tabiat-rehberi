@@ -29,7 +29,7 @@ wikidata_id: "Q134728242"
 
 # Yüceören Nekropolü
 
-Yüceören Nekropolü, Ceyhan'da bulunan bir tarihi alandır. Bu alan, geçmişte yaşamış insanların mezarlarının bulunduğu bir nekropol olarak bilinir. 140 hektarlık bir alanda kurulmuş olan Yüceören Nekropolü, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu nekropol, tarihi yapıları ve mezar taşları ile dikkat çekmektedir. Ziyaretçiler, bu nekropolü gezerken, geçmişte yaşamış insanların hayatları hakkında bilgi edinebilirler. Yüceören Nekropolü, tarih meraklıları için önemli bir gezi noktası olarak kabul edilir.
+Yüceören Nekropolü, Ceyhan'da bulunan bir tarihi alandır. Bu alan, geçmişte yaşamış insanların mezarlarının bulunduğu bir nekropol olarak bilinir. Bu nekropol, tarihi yapıları ve mezar taşları ile dikkat çekmektedir. Ziyaretçiler, bu nekropolü gezerken, geçmişte yaşamış insanların hayatları hakkında bilgi edinebilirler. Yüceören Nekropolü, tarih meraklıları için önemli bir gezi noktası olarak kabul edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yüceören Nekropolü, tarihi geçmişi ile dikkat çekmektedir. Bu nekropolün 
 
 ## Coğrafya
 
-Yüceören Nekropolü, Ceyhan'da bulunmaktadır. Bu nekropol, Akdeniz Bölgesi'nde yer alan bir alandır. Ceyhan, Adana iline bağlı bir ilçedir. Yüceören Nekropolü, 140 hektarlık bir alanda kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Yüceören Nekropolü, coğrafi olarak önemli bir konuma sahiptir. Bu nekropol, ziyaretçilerini geçmişe götürerek, tarihi bir atmosfer sunar. Yüceören Nekropolü, Ceyhan'da bulunan bir tarihi mekan olarak, ziyaretçilerini beklemektedir. Bu nekropol, ziyaretçiler tarafından gezilebilecek bir alandır. Yüceören Nekropolü, coğrafi konumu itibari ile, ziyaretçilerine çeşitli olanaklar sunar. Bu nekropol, tarihi yapıları ve mezar taşları ile dikkat çekmektedir.
+Yüceören Nekropolü, Ceyhan'da bulunmaktadır. Bu nekropol, Akdeniz Bölgesi'nde yer alan bir alandır. Ceyhan, Adana iline bağlı bir ilçedir. Yüceören Nekropolü, 140 hektarlık bir alanda kurulmuştur. Yüceören Nekropolü, coğrafi olarak önemli bir konuma sahiptir. Bu nekropol, ziyaretçilerini geçmişe götürerek, tarihi bir atmosfer sunar. Yüceören Nekropolü, Ceyhan'da bulunan bir tarihi mekan olarak, ziyaretçilerini beklemektedir. Bu nekropol, ziyaretçiler tarafından gezilebilecek bir alandır. Yüceören Nekropolü, coğrafi konumu itibari ile, ziyaretçilerine çeşitli olanaklar sunar. Bu nekropol, tarihi yapıları ve mezar taşları ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Yüceören Nekropolü, ziyaretçilerini geçmişe götürerek, tarihi bir atmosf
 
 - Yüceören Nekropolü, Ceyhan'da bulunan bir tarihi alandır.
 - Bu nekropol, 140 hektarlık bir alanda kurulmuştur.
-- Yüceören Nekropolü, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Bu nekropol, tarihi yapıları ve mezar taşları ile dikkat çekmektedir.
 - Yüceören Nekropolü, ziyaretçilerini geçmişe götürerek, tarihi bir atmosfer sunar.

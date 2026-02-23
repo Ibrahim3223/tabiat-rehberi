@@ -52,7 +52,7 @@ Mevsimsel olarak değişen hava koşulları, Sütsüz Dağı'nın iklim karakter
 
 Sütsüz Dağı, Antalya'nın kıyı ekosisteminin bir parçası olan maki bitki örtüsüne ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçeklerin renkli bir şöleni  oluyor. Yükseklik zonları, alpin flora çeşitliliğini artırıyor.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Kıyı ekosisteminin bir parçası olarak, göçmen kuşların uğrak noktasıdır. Sonbaharda, binlerce kuş bu dağları geçerek kışlaklarına ulaşıyor. Dağ keçileri, dağların yüksek kesimlerinde ediyor. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Kıyı ekosisteminin bir parçası olarak, göçmen kuşların uğrak noktasıdır. Sonbaharda, binlerce kuş bu dağları geçerek kışlaklarına ulaşıyor. Dağ keçileri, dağların yüksek kesimlerinde ediyor.
 
 Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak için çok önemli. Koruma çalışmaları, bu doğal alanın gelecek nesiller için korunmasını sağlıyor.
 

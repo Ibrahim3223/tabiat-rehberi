@@ -52,7 +52,7 @@ Jeolojik açıdan bakıldığında, Maymun Dağı'nın fiziksel yapısı hakkın
 
 ## Flora ve Fauna
 
-Maymun Dağı, Türkiye'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekmektedir. 
+Maymun Dağı, Türkiye'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekmektedir.
 
 Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çeşitli çiçekler açarken, sonbaharda kuraklığa adapte olmuş türlerin belirginleştiği görülür. Dağın yüksek kesimlerinde alpin flora hakimdir.
 

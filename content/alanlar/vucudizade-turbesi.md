@@ -1,7 +1,7 @@
 ---
 title: "Vucudizade Türbesi"
 date: "2026-01-10T07:23:30.847Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391005"
 
 # Vucudizade Türbesi
 
-Vucudizade Türbesi, Marmara Bölgesi'nin kalbinde, Fatih, İstanbul'da bulunuyor. Bu tarihi yapı, etrafını saran 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Türbenin yakınında, Vucudizade Plajı, ziyaretçilere deniz ve güneşin tadını çıkarmak için ideal bir mekan sunuyor. Tarihi geçmişi ve doğal güzellikleri ile Vucudizade Türbesi, İstanbul'un önemli turizm noktalarından biri olarak dikkat çekiyor.
+Vucudizade Türbesi, Marmara Bölgesi'nin kalbinde, Fatih, İstanbul'da bulunuyor. Türbenin yakınında, Vucudizade Plajı, ziyaretçilere deniz ve güneşin tadını çıkarmak için ideal bir mekan sunuyor. Tarihi geçmişi ve doğal güzellikleri ile Vucudizade Türbesi, İstanbul'un önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

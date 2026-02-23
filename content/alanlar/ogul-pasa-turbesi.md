@@ -1,7 +1,7 @@
 ---
 title: "Oğul Paşa Türbesi"
 date: "2026-01-10T05:10:47.625Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391581"
 
 # Oğul Paşa Türbesi
 
-Bigadiç'in merkezinde yer alan Oğul Paşa Türbesi, Marmara Bölgesi'nin önemli ziyaret noktalarından biri. 140 hektarlık bir alanın içinde yer alan bu tarihi türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Oğul Paşa Türbesi, Bigadiç'in tarihini ve kültürünü yansıtan önemli bir yapı. Türbenin etrafında çeşitli değil, çeşitli bitkiler ve ağaçlar yer alıyor. Bu tarihi mekan, ziyaretçilerini Bigadiç'in geçmişine götürmeyi başarıyor.
+Bigadiç'in merkezinde yer alan Oğul Paşa Türbesi, Marmara Bölgesi'nin önemli ziyaret noktalarından biri. Oğul Paşa Türbesi, Bigadiç'in tarihini ve kültürünü yansıtan önemli bir yapı. Türbenin etrafında çeşitli değil, çeşitli bitkiler ve ağaçlar yer alıyor. Bu tarihi mekan, ziyaretçilerini Bigadiç'in geçmişine götürmeyi başarıyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Oğul Paşa Türbesi'nin etrafında, çeşitli bitkiler ve ağaçlar yer alıyor
 
 ## Ziyaret Bilgileri
 
-Oğul Paşa Türbesi, Bigadiç'in merkezinde yer alıyor. Bu tarihi mekan, ziyaretçilerini Bigadiç'in tarihine götürmeyi başarıyor. Türbeye ulaşmak için, Bigadiç'in merkezine gelerek, buradan yürüyere veya toplu taşıma kullanarak, fácil bir şekilde ulaşabilirsiniz. Oğul Paşa Türbesi, yılın her döneminde ziyaret edilebiliyor. Ancak, bahar ve yaz ayları, ziyaret için en uygun zamanlar.
+Oğul Paşa Türbesi, Bigadiç'in merkezinde yer alıyor. Bu tarihi mekan, ziyaretçilerini Bigadiç'in tarihine götürmeyi başarıyor. Türbeye ulaşmak için, Bigadiç'in merkezine gelerek, buradan yürüyere veya toplu taşıma kullanarak, kolay bir şekilde ulaşabilirsiniz. Oğul Paşa Türbesi, yılın her döneminde ziyaret edilebiliyor. Ancak, bahar ve yaz ayları, ziyaret için en uygun zamanlar.
 
 ## İlginç Bilgiler
 
@@ -53,4 +53,4 @@ Oğul Paşa Türbesi, Bigadiç'in merkezinde yer alıyor. Bu tarihi mekan, ziyar
 - Türbenin etrafında, çeşitli bitkiler ve ağaçlar yer alıyor
 - Bu bölge, zengin bir flora çeşitliliğine sahip
 - Oğul Paşa Türbesi, yılın her döneminde ziyaret edilebiliyor
-- Türbeye ulaşmak için, Bigadiç'in merkezine gelerek, buradan yürüyere veya toplu taşıma kullanarak, fácil bir şekilde ulaşabilirsiniz
+- Türbeye ulaşmak için, Bigadiç'in merkezine gelerek, buradan yürüyere veya toplu taşıma kullanarak, kolay bir şekilde ulaşabilirsiniz

@@ -29,7 +29,7 @@ wikidata_id: "Q135582396"
 
 # Gevher Nesibe Hatun Kümbeti
 
-Gevher Nesibe Hatun Kümbeti, Kayseri'nin Kocasinan ilçesinde bulunuyor. 140 hektarlık yeşil alan üzerine kurulu olan bu tarihi yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Gevher Nesibe Hatun Kümbeti, Selçuklu Dönemi'nin önemli eserlerinden biri olarak kabul ediliyor. Bu yapı, Selçuklu Sultanı I. Keykubat'ın kız kardeşi Gevher Nesibe Hatun adına yaptırılmış. Gevher Nesibe Hatun Kümbeti, Kayseri'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Gevher Nesibe Hatun Kümbeti, Kayseri'nin Kocasinan ilçesinde bulunuyor. Gevher Nesibe Hatun Kümbeti, Selçuklu Dönemi'nin önemli eserlerinden biri olarak kabul ediliyor. Bu yapı, Selçuklu Sultanı I. Keykubat'ın kız kardeşi Gevher Nesibe Hatun adına yaptırılmış. Gevher Nesibe Hatun Kümbeti, Kayseri'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gevher Nesibe Hatun Kümbeti, 13. yüzyılda inşa edilmiş. Selçuklu Dönemi'n
 
 ## Coğrafya
 
-Gevher Nesibe Hatun Kümbeti, Kayseri'nin Kocasinan ilçesinde bulunuyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özellikleri ile karakterize ediliyor. İç Anadolu Bölgesi, Türkiye'nin en büyük bölgelerinden biri olarak biliniyor. Bu région, yüksek platolar, dağlar ve ovalar ile karakterize ediliyor. Gevher Nesibe Hatun Kümbeti, 140 hektarlık yeşil alan üzerine kurulu. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Gevher Nesibe Hatun Kümbeti'nin etrafı, çeşitli bitki türleri ile çevrili. Bu bölgede, zengin fauna da bulunuyor. Gevher Nesibe Hatun Kümbeti, Kayseri'nin coğrafi ve iklimsel özellikleri ile şekillenmiş bir yapı.
+Gevher Nesibe Hatun Kümbeti, Kayseri'nin Kocasinan ilçesinde bulunuyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özellikleri ile karakterize ediliyor. İç Anadolu Bölgesi, Türkiye'nin en büyük bölgelerinden biri olarak biliniyor. Bu bölge, yüksek platolar, dağlar ve ovalar ile karakterize ediliyor. Gevher Nesibe Hatun Kümbeti, 140 hektarlık yeşil alan üzerine kurulu. Gevher Nesibe Hatun Kümbeti'nin etrafı, çeşitli bitki türleri ile çevrili. Bu bölgede, zengin fauna da bulunuyor. Gevher Nesibe Hatun Kümbeti, Kayseri'nin coğrafi ve iklimsel özellikleri ile şekillenmiş bir yapı.
 
 ## Flora ve Fauna
 

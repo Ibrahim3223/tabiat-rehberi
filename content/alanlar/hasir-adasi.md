@@ -48,9 +48,9 @@ Ada, Marmara Denizi'nin zengin ekosistemine bağlı olarak, çeşitli su kaynakl
 
 ## Flora ve Fauna
 
-Haşır Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbahar aylarında, ada çiçeklerle kaplanıyor ve renklendiriyor. Kıyı bitkileri, ada çevresindeki kayalık alanlarda kendilerini gösteriyorlar. 
+Haşır Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbahar aylarında, ada çiçeklerle kaplanıyor ve renklendiriyor. Kıyı bitkileri, ada çevresindeki kayalık alanlarda kendilerini gösteriyorlar.
 
-Ada, göçmen kuşların önemli bir rotası üzerinde yer alıyor. Sonbaharda, bu kuşlar ada üzerinden geçiş yapıyorlar. Deniz kuşları, ada kıyılarında yuvalanıyor ve burada üremelerini gerçekleştiriyorlar. Memeliler ve sürüngenler de ada ekosisteminin önemli bir parçasını oluşturuyor. 
+Ada, göçmen kuşların önemli bir rotası üzerinde yer alıyor. Sonbaharda, bu kuşlar ada üzerinden geçiş yapıyorlar. Deniz kuşları, ada kıyılarında yuvalanıyor ve burada üremelerini gerçekleştiriyorlar. Memeliler ve sürüngenler de ada ekosisteminin önemli bir parçasını oluşturuyor.
 
 Haşır Adası, izole popülasyonlar nedeniyle ekolojik açıdan önemli bir bölge. Ada ekosisteminin korunması, bu izole popülasyonların ve göçmen kuşların yaşam alanlarının korunması için büyük önem taşıyor.
 

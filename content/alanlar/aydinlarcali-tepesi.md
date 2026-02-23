@@ -28,7 +28,7 @@ wikidata_id: "Q34833624"
 
 # Aydınlarçalı Tepesi
 
-Aydınlarçalı Tepesi, Kütahya ilinin sınırları içinde yer alan bir tepe olup, etrafındaki yeşil alanlar ve doğal güzellikleriyle ön plana çıkıyor. Yaklaşık 140 hektarlık bir alanda bulunan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Aydınlarçalı Tepesi, ziyaretçilerine hem doğa güzellikleri hem de tarihi zenginlikler sunuyor. Bu tepe, özellikle manzarasıyla dikkat çekiyor ve ziyaretçilerine Ege Bölgesi'nin güzel bir panoramasını sunuyor.
+Aydınlarçalı Tepesi, Kütahya ilinin sınırları içinde yer alan bir tepe olup, etrafındaki yeşil alanlar ve doğal güzellikleriyle ön plana çıkıyor. Aydınlarçalı Tepesi, ziyaretçilerine hem doğa güzellikleri hem de tarihi zenginlikler sunuyor. Bu tepe, özellikle manzarasıyla dikkat çekiyor ve ziyaretçilerine Ege Bölgesi'nin güzel bir panoramasını sunuyor.
 
 ## Tarihçe
 

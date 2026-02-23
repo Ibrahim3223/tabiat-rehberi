@@ -22,7 +22,7 @@ wikidata_id: "Q108228842"
 
 # Gönen Deltası Sulak Alanı
 
-Gönen Deltası Sulak Alanı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal yaşamın zenginliğini ve çeşitliliğini gözler önüne seren bir sulak alan olarak dikkat çekiyor. Gönen Deltası, özellikle kuş türleri açısından önemli bir koruma alanı olarak biliniyor. Bu sulak alan, yaban hayatının çeşitliliğini koruma altına almak amacıyla kurulmuş bir doğa koruma alanıdır.
+ Bu bölge, doğal yaşamın zenginliğini ve çeşitliliğini gözler önüne seren bir sulak alan olarak dikkat çekiyor. Gönen Deltası, özellikle kuş türleri açısından önemli bir koruma alanı olarak biliniyor. Bu sulak alan, yaban hayatının çeşitliliğini koruma altına almak amacıyla kurulmuş bir doğa koruma alanıdır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Gönen Deltası Sulak Alanı, tarihi geçmişi itibariyle zengin bir ekolojik mi
 
 ## Coğrafya
 
-Gönen Deltası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir sulak alandır. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak dikkat çekiyor. Gönen Deltası, özellikle sulak alanların ekolojik önemini vurgulayan bir bölge olarak biliniyor. Bu sulak alan, bölgede yaşayan kuş türleri ve diğer yaban hayatının çeşitliliğini koruma altına almak amacıyla kurulmuş bir doğa koruma alanıdır. Gönen Deltası Sulak Alanı, coğrafi yapısı itibariyle sulak alanların doğal yaşamın çeşitliliğini koruma altına almaya yardımcı olduğunu gösteriyor.
+Gönen Deltası Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş bir sulak alandır. Gönen Deltası, özellikle sulak alanların ekolojik önemini vurgulayan bir bölge olarak biliniyor. Bu sulak alan, bölgede yaşayan kuş türleri ve diğer yaban hayatının çeşitliliğini koruma altına almak amacıyla kurulmuş bir doğa koruma alanıdır. Gönen Deltası Sulak Alanı, coğrafi yapısı itibariyle sulak alanların doğal yaşamın çeşitliliğini koruma altına almaya yardımcı olduğunu gösteriyor.
 
 ## Flora ve Fauna
 

@@ -48,11 +48,11 @@ Mevsimsel değişimler açısından, Mutlu Adası Marmara Bölgesi'nin karakteri
 
 ## Flora ve Fauna
 
-Mutlu Adası, Marmara Denizi'nin sularında yer alan bir ada olarak, geçiş ikliminin etkisi altında kalır. Bu ada, karma ormanların hakim olduğu bir bölge içinde bulunur ve göçmen kuş rotasının önemli bir durağıdır. 
+Mutlu Adası, Marmara Denizi'nin sularında yer alan bir ada olarak, geçiş ikliminin etkisi altında kalır. Bu ada, karma ormanların hakim olduğu bir bölge içinde bulunur ve göçmen kuş rotasının önemli bir durağıdır.
 
-Bitki Örtüsü olarak, ada üzerinde çam, meşe ve kayın gibi ağaç türleri bulunur. İlkbahar aylarında, ada yüzeyini kaplayan çiçekler renkli bir manzara oluşturur. Kıyı kesiminde, tuzlu suya dayanıklı bitkiler ve otlar büyür. 
+Bitki Örtüsü olarak, ada üzerinde çam, meşe ve kayın gibi ağaç türleri bulunur. İlkbahar aylarında, ada yüzeyini kaplayan çiçekler renkli bir manzara oluşturur. Kıyı kesiminde, tuzlu suya dayanıklı bitkiler ve otlar büyür.
 
-Yaban Hayatı açısından, ada özellikle deniz kuşları için önemli bir üreme ve beslenme alanıdır. Ada üzerinde memeliler, sürüngenler ve çeşitli kuş türleri bulunur. Sonbahar aylarında, ada göçmen kuşların konaklama noktalarından biridir. 
+Yaban Hayatı açısından, ada özellikle deniz kuşları için önemli bir üreme ve beslenme alanıdır. Ada üzerinde memeliler, sürüngenler ve çeşitli kuş türleri bulunur. Sonbahar aylarında, ada göçmen kuşların konaklama noktalarından biridir.
 
 Ekolojik Değer olarak, Mutlu Adası izole bir ekosistem sunar ve bu nedenle, ada üzerinde yaşayan türlerin korunması önemlidir. Ada, doğal yaşamın korunması için önemli bir alandır ve bu nedenle koruma altına alınmıştır.
 

@@ -1,7 +1,7 @@
 ---
 title: "Hayrettin Çavuş Türbesi"
 date: "2026-01-10T04:46:25.467Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q6048021"
 
 # Hayrettin Çavuş Türbesi
 
-Hayrettin Çavuş Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren özel bir alandır. İstanbul'un kalbinde, Marmara Bölgesi'nin güzel kıyılarında yer alan bu türbe, hem dini hem de kültürel açıdan önemli bir noktaya sahiptir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yeşilliklerle dolu. Bu alan, hem doğa severlerin hem de tarihi mekanları ziyaret etmek isteyenlerin ilgisini çekmektedir.
+Hayrettin Çavuş Türbesi, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren özel bir alandır. İstanbul'un kalbinde, Marmara Bölgesi'nin güzel kıyılarında yer alan bu türbe, hem dini hem de kültürel açıdan önemli bir noktaya sahiptir. Bu alan, hem doğa severlerin hem de tarihi mekanları ziyaret etmek isteyenlerin ilgisini çekmektedir.
 
 ## Tarihçe
 

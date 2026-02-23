@@ -28,7 +28,7 @@ wikidata_id: "Q34873484"
 
 # Gürzedin Tepesi
 
-Gürzedin Tepesi, Batman'ın güneydoğusunda yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Gürzedin Tepesi, ziyaretçilerine büyüleyici bir manzara sunuyor ve bölgenin coğrafi özelliklerini keşfetmek için ideal bir nokta.
+Gürzedin Tepesi, Batman'ın güneydoğusunda yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Gürzedin Tepesi, ziyaretçilerine büyüleyici bir manzara sunuyor ve bölgenin coğrafi özelliklerini keşfetmek için ideal bir nokta.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Haseki Hamamı"
 date: "2026-01-09T22:07:10.534Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q2712287"
 
 # Haseki Hamamı
 
-Haseki Hamamı, İstanbul'un Fatih ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli tarihi ve turistik mekanlarından biridir. Haseki Hamamı, İstanbul'un kalbinde yer alan bir doğal ve tarihi alan olarak dikkat çekmektedir. Bu alan, hem tarihi hamamının güzelliği hem de plajının çekiciliği ile ziyaretçilerini etkilemektedir. Ayrıca, Haseki Hamamı'nın bulunduğu bölge, İstanbul'un önemli tarihi ve turistik mekanlarına yakınlığı ile de dikkat çekmektedir.
+Haseki Hamamı, İstanbul'un Fatih ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. Haseki Hamamı, İstanbul'un kalbinde yer alan bir doğal ve tarihi alan olarak dikkat çekmektedir. Bu alan, hem tarihi hamamının güzelliği hem de plajının çekiciliği ile ziyaretçilerini etkilemektedir. Ayrıca, Haseki Hamamı'nın bulunduğu bölge, İstanbul'un önemli tarihi ve turistik mekanlarına yakınlığı ile de dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Haseki Hamamı'nın tarihi geçmişi, Osmanlı İmparatorluğu döneminde başla
 
 ## Coğrafya
 
-Haseki Hamamı, İstanbul'un Fatih ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin en önemli turisti ve tarihi mekanlarına yakınlığı ile dikkat çekmektedir. Hamam ve plaj alanı, 140 hektarlık bir yeşil alan üzerinde yer almaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok ağaç, bitki ve çiçek türünü barındırmaktadır. Haseki Hamamı'nın bulunduğu bölge, yüksek bir konumda yer almaktadır. Bu yükseklik, hamam ve plaj alanının güzelliğini ve manzarasını artırmaktadır. Ayrıca, Haseki Hamamı'nın bulunduğu bölge, İstanbul'un önemli ulaşım hatlarına yakınlığı ile de dikkat çekmektedir.
+Haseki Hamamı, İstanbul'un Fatih ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin en önemli turisti ve tarihi mekanlarına yakınlığı ile dikkat çekmektedir. Hamam ve plaj alanı, 140 hektarlık bir yeşil alan üzerinde yer almaktadır. Haseki Hamamı'nın bulunduğu bölge, yüksek bir konumda yer almaktadır. Bu yükseklik, hamam ve plaj alanının güzelliğini ve manzarasını artırmaktadır. Ayrıca, Haseki Hamamı'nın bulunduğu bölge, İstanbul'un önemli ulaşım hatlarına yakınlığı ile de dikkat çekmektedir.
 
 ## Flora ve Fauna
 
-Haseki Hamamı ve plaj alanı, birçok bitki ve hayvan türünü barındırmaktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerinde yer almaktadır ve birçok ağaç, bitki ve çiçek türünü içermektedir. Haseki Hamamı'nın bulunduğu bölge, yüksek bir konumda yer almaktadır ve bu yükseklik, alanın güzelliğini ve manzarasını artırmaktadır. Ayrıca, Haseki Hamamı'nın bulunduğu bölge, birçok kuş türünü de barındırmaktadır. Bu alan, birçok ziyaretçi tarafından ilgi görmekte ve doğa severler için önemli bir destinasyon olarak dikkat çekmektedir.
+Haseki Hamamı ve plaj alanı, birçok bitki ve hayvan türünü barındırmaktadır. Haseki Hamamı'nın bulunduğu bölge, yüksek bir konumda yer almaktadır ve bu yükseklik, alanın güzelliğini ve manzarasını artırmaktadır. Ayrıca, Haseki Hamamı'nın bulunduğu bölge, birçok kuş türünü de barındırmaktadır. Bu alan, birçok ziyaretçi tarafından ilgi görmekte ve doğa severler için önemli bir destinasyon olarak dikkat çekmektedir.
 
 ## Ziyaret Bilgileri
 

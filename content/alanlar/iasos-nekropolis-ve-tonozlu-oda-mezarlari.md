@@ -29,7 +29,7 @@ wikidata_id: "Q134728226"
 
 # Iasos Nekropolis ve Tonozlu Oda Mezarları
 
-Iasos Nekropolis ve Tonozlu Oda Mezarları, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin zengin tarihini gözler önüne seren önemli bir arkeolojik alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu, 200 futbol sahası büyüklüğüne eşittir. Iasos Antik Kenti'nin bir parçası olan nekropolis, antik dönemlerin ölüm ve defin geleneklerini yansıtan tonozlu oda mezarlarıyla dikkat çeker. Bu mezarlar, not only tarihi değerleriyle ön plana çıksalar da, aynı zamanda mimari açıdan da ilgi çekici bir güzelliğe sahiptirler. Iasos Nekropolis, tarihi geçmişin derinliklerine bir yolculuk sunar ve ziyaretçilerine antik uygarlıkların kültürel mirasını keşfetme fırsatı verir.
+Iasos Nekropolis ve Tonozlu Oda Mezarları, Muğla'nın Milas ilçesinde, Ege Bölgesi'nin zengin tarihini gözler önüne seren önemli bir arkeolojik alandır. Iasos Antik Kenti'nin bir parçası olan nekropolis, antik dönemlerin ölüm ve defin geleneklerini yansıtan tonozlu oda mezarlarıyla dikkat çeker. Bu mezarlar, not only tarihi değerleriyle ön plana çıksalar da, aynı zamanda mimari açıdan da ilgi çekici bir güzelliğe sahiptirler. Iasos Nekropolis, tarihi geçmişin derinliklerine bir yolculuk sunar ve ziyaretçilerine antik uygarlıkların kültürel mirasını keşfetme fırsatı verir.
 
 ## Tarihçe
 

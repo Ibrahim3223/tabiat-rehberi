@@ -22,7 +22,7 @@ wikidata_id: "Q108228787"
 
 # YUNUS EMRE_TP
 
-YUNUS EMRE_TP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, doğa severler için bir cennet niteliğindedir. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, parkın güzel manzaralarını keşfedebilir ve doğa ile iç içe olabilir. YUNUS EMRE_TP, aynı zamanda bir eğitim merkezi olarak da hizmet vermektedir. Burada, doğa ve çevre hakkında bilgi edinebilir ve çeşitli etkinliklere katılabilirsiniz.
+YUNUS EMRE_TP, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, parkın güzel manzaralarını keşfedebilir ve doğa ile iç içe olabilir. YUNUS EMRE_TP, aynı zamanda bir eğitim merkezi olarak da hizmet vermektedir. Burada, doğa ve çevre hakkında bilgi edinebilir ve çeşitli etkinliklere katılabilirsiniz.
 
 ## Tarihçe
 

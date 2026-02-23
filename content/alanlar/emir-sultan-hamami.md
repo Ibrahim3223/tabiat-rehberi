@@ -1,7 +1,7 @@
 ---
 title: "Emir Sultan Hamamı"
 date: "2026-01-09T22:54:43.873Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738640"
 
 # Emir Sultan Hamamı
 
-Emir Sultan Hamamı, Bursa'nın Yıldırım ilçesinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Emir Sultan Hamamı, ziyaretçilerini doğayla baş başa bırakarak, onlara dinlenme ve yenilenme fırsatı sunar. Burada, güzel bir gün geçirme ve doğanın güzelliğini seyretme mümkündür. Emir Sultan Hamamı, özellikle yaz aylarında plaj olarak kullanılan bir bölgedir. Ziyaretçiler, burada güneşin tadını çıkarabilir, denize girerek serinleyebilir ve doğanın güzelliğini seyretebilirler.
+Emir Sultan Hamamı, Bursa'nın Yıldırım ilçesinde yer alan 140 hektarlık bir yeşil alandır. Emir Sultan Hamamı, ziyaretçilerini doğayla baş başa bırakarak, onlara dinlenme ve yenilenme fırsatı sunar. Burada, güzel bir gün geçirme ve doğanın güzelliğini seyretme mümkündür. Emir Sultan Hamamı, özellikle yaz aylarında plaj olarak kullanılan bir bölgedir. Ziyaretçiler, burada güneşin tadını çıkarabilir, denize girerek serinleyebilir ve doğanın güzelliğini seyretebilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Emir Sultan Hamamı'nın tarihi geçmişi, yıllarca boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Emir Sultan Hamamı, Bursa'nın Yıldırım ilçesinde yer alan bir bölgedir. Bu bölge, Marmara Bölgesi'nde bulunmaktadır. Emir Sultan Hamamı, 140 hektarlık bir yeşil alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Emir Sultan Hamamı, özellikle yaz aylarında plaj olarak kullanılan bir bölgedir. Burada, deniz ve güneş bir araya gelerek, ziyaretçilere güzel bir gün geçirmeleri için gereken her şey sunulur. Emir Sultan Hamamı, ziyaretçilerine zengin bir coğrafya sunar. Bu bölge, doğayla iç içe olmayı ve doğanın güzelliğini seyretmeyi amaçlar. Emir Sultan Hamamı, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, onlara dinlenme ve yenilenme fırsatı sunar.
+Emir Sultan Hamamı, Bursa'nın Yıldırım ilçesinde yer alan bir bölgedir. Bu bölge, Marmara Bölgesi'nde bulunmaktadır. Emir Sultan Hamamı, 140 hektarlık bir yeşil alana sahiptir. Emir Sultan Hamamı, özellikle yaz aylarında plaj olarak kullanılan bir bölgedir. Burada, deniz ve güneş bir araya gelerek, ziyaretçilere güzel bir gün geçirmeleri için gereken her şey sunulur. Emir Sultan Hamamı, ziyaretçilerine zengin bir coğrafya sunar. Bu bölge, doğayla iç içe olmayı ve doğanın güzelliğini seyretmeyi amaçlar. Emir Sultan Hamamı, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, onlara dinlenme ve yenilenme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Emir Sultan Hamamı, ziyaretçilerine güzel bir gün geçirmeleri için gereken
 ## İlginç Bilgiler
 
 - Emir Sultan Hamamı, 140 hektarlık bir yeşil alana sahiptir.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
+
 - Emir Sultan Hamamı, özellikle yaz aylarında plaj olarak kullanılan bir bölgedir.
 - Bu bölge, Marmara Bölgesi'nde bulunmaktadır.
 - Emir Sultan Hamamı, ziyaretçilerine zengin bir flora ve fauna sunar.

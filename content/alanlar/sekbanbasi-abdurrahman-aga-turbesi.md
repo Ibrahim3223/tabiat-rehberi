@@ -1,7 +1,7 @@
 ---
 title: "Sekbanbaşı Abdurrahman Ağa Türbesi"
 date: "2026-01-10T04:53:07.031Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -41,7 +41,7 @@ Sekbanbaşı Abdurrahman Ağa Türbesi, Marmara Bölgesi'nde yer alıyor ve coğ
 
 ## Flora ve Fauna
 
-Sekbanbaşı Abdurrahman Ağa Türbesi, flora ve fauna açısından oldukça zengin bir bölgede yer alıyor. Bu bölge, çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilerine doğal bir ortam sunuyor. Sekbanbaşı Abdurrahman Ağa Türbesi, mevsimsel değişimlere göre farklı bir güzelliğe sahip ve ziyaretçilerine her mevsim yeni bir deneyim sunuyor. Bölgenin flora ve faunası, ziyaretçilerin doğa ile iç içe olmasını sağlıyor ve onların doğal güzellikleri keşfetmelerine olanak tanıyor. Sekbanbaşı Abdurrahman Ağa Türbesi, ziyaretçilerine doğanın farklı yüzlerini gösteriyor ve onların doğa ile bağ kurmasına yardımcı oluyor.
+ Bu bölge, çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilerine doğal bir ortam sunuyor. Sekbanbaşı Abdurrahman Ağa Türbesi, mevsimsel değişimlere göre farklı bir güzelliğe sahip ve ziyaretçilerine her mevsim yeni bir deneyim sunuyor. Bölgenin flora ve faunası, ziyaretçilerin doğa ile iç içe olmasını sağlıyor ve onların doğal güzellikleri keşfetmelerine olanak tanıyor. Sekbanbaşı Abdurrahman Ağa Türbesi, ziyaretçilerine doğanın farklı yüzlerini gösteriyor ve onların doğa ile bağ kurmasına yardımcı oluyor.
 
 ## Ziyaret Bilgileri
 

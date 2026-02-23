@@ -22,7 +22,7 @@ wikidata_id: "Q108227296"
 
 # Samsun-Vezirkopru-Akcay Kızılçam
 
-Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, Karadeniz Bölgesi'nin Samsun ilinde yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu milli park, doğa severler için eşsiz bir destinasyon. Parkın içinde çeşitli bitki türleri ve zengin fauna found. Ziyaretçiler, bu doğal güzelliği keşfetmek için çeşitli yürüyüş parkurları kullanabilir. Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, hem doğaşkını hem de macera ruhunu tatmin edecek bir yer.
+ Bu milli park, doğa severler için eşsiz bir destinasyon. Parkın içinde çeşitli bitki türleri ve zengin fauna found. Ziyaretçiler, bu doğal güzelliği keşfetmek için çeşitli yürüyüş parkurları kullanabilir. Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, hem doğaşkını hem de macera ruhunu tatmin edecek bir yer.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı'nın tarihi geçmişi, yüzyıl
 
 ## Coğrafya
 
-Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, Karadeniz Bölgesi'nin Samsun ilinde yer alıyor. Park, 140 hektarlık geniş bir alana sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere farklı yürüyüş parkurları ve manzaralar sunuyor. İklim, Karadeniz Bölgesi'nin karakteristik nemli ve ılıman iklimi. Parkın çevresi, doğa ile iç içe ve ziyaretçilere geniş açılı manzaralar sunuyor. Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, doğa severler için ideal bir destinasyon.
+Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, Karadeniz Bölgesi'nin Samsun ilinde yer alıyor. Bu yeşil alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere farklı yürüyüş parkurları ve manzaralar sunuyor. İklim, Karadeniz Bölgesi'nin karakteristik nemli ve ılıman iklimi. Parkın çevresi, doğa ile iç içe ve ziyaretçilere geniş açılı manzaralar sunuyor. Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, doğa severler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, ziyaretçiler için çeşitli 
 ## İlginç Bilgiler
 
 - Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, 140 hektarlık bir alana sahip.
-- Park, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Parkta, çeşitli bitki türleri ve zengin fauna found.
 - Parkın coğrafi yapısı, ziyaretçilere farklı yürüyüş parkurları ve manzaralar sunuyor.
 - Parkın iklimi, Karadeniz Bölgesi'nin karakteristik nemli ve ılıman iklimi.

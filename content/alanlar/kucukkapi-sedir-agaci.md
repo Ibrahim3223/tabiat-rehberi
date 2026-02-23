@@ -22,7 +22,7 @@ wikidata_id: "Q108227358"
 
 # Küçükkapi Sedir Agaci
 
-Küçükkapi Sedir Agaci, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu yeşil cennet, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğanın huzuruna davet ediyor. Sedir ağacı, bu bölgenin simgesi haline gelmiş ve birçok doğa severin ilgi odağı haline gelmiştir. Küçükkapi Sedir Agaci, doğa yürüyüşleri, piknik alanları ve fotoğrafçılık için ideal bir destinasyon olarak ziyaretçilerini bekliyor.
+Küçükkapi Sedir Agaci, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Sedir ağacı, bu bölgenin simgesi haline gelmiş ve birçok doğa severin ilgi odağı haline gelmiştir. Küçükkapi Sedir Agaci, doğa yürüyüşleri, piknik alanları ve fotoğrafçılık için ideal bir destinasyon olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q34828111"
 
 # Çam Tepe
 
-Muğla'nın Ege Bölgesi'nde yer alan Çam Tepe, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu tepe, ziyaretçilerini Muğla'nın güzel manzaralarıyla karşılar. Çam Tepe, doğa severlerin ziyaret ettiği bir yer olarak bilinir. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Çam Tepe, gezi severlerin keyif alabileceği bir yerdir.
+ Bu tepe, ziyaretçilerini Muğla'nın güzel manzaralarıyla karşılar. Çam Tepe, doğa severlerin ziyaret ettiği bir yer olarak bilinir. Burada, çeşitli bitki türleri ve zengin fauna bulunur. Çam Tepe, gezi severlerin keyif alabileceği bir yerdir.
 
 ## Tarihçe
 

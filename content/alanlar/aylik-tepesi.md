@@ -28,7 +28,7 @@ wikidata_id: "Q31389179"
 
 # Aylık Tepesi
 
-Aylık Tepesi, Giresun'un dağlık bölgesinde yer alan ve ziyaretçilerini doğal güzelliği ile büyüleyen bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir görüş açısına sahip. Bu tepe, özellikle güneşin batış saatlerinde, eşsiz bir manzaraya tanıklık edenler için önemli bir destinasyon. Aylık Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet. Ziyaretçiler, bu tepeye tırmanırken, kendilerini Karadeniz Bölgesi'nin muhteşem manzarasının içinde bulacaklar.
+Aylık Tepesi, Giresun'un dağlık bölgesinde yer alan ve ziyaretçilerini doğal güzelliği ile büyüleyen bir tepe. Bu tepe, özellikle güneşin batış saatlerinde, eşsiz bir manzaraya tanıklık edenler için önemli bir destinasyon. Aylık Tepesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet. Ziyaretçiler, bu tepeye tırmanırken, kendilerini Karadeniz Bölgesi'nin muhteşem manzarasının içinde bulacaklar.
 
 ## Tarihçe
 

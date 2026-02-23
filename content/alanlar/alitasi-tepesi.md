@@ -28,7 +28,7 @@ wikidata_id: "Q31388063"
 
 # Alitaşı Tepesi
 
-Alitaşı Tepesi, Diyarbakır'ın zengin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli bir parçası. Tepenin eteklerinde bulunan tarihi kalıntılar, bu bölgenin yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yaptığını gösteriyor. Alitaşı Tepesi, hem doğa hem de tarih severler için bir çekim merkezi.
+Alitaşı Tepesi, Diyarbakır'ın zengin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Tepenin eteklerinde bulunan tarihi kalıntılar, bu bölgenin yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yaptığını gösteriyor. Alitaşı Tepesi, hem doğa hem de tarih severler için bir çekim merkezi.
 
 ## Tarihçe
 

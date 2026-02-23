@@ -30,7 +30,7 @@ wikidata_id: "Q108228798"
 
 # Kadıralak Tabiat Parkı
 
-Kadıralak Tabiat Parkı, Trabzon'un Tonya ilçesinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir yeşil alandan oluşur. Bu büyüklük, doğa severlerin geniş bir alanda gezebilmelerine olanak tanır. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, burada doğayla iç içe bir gün geçirebilir ve doğanın güzelliğini keşfedebilir. Parkın konumu, Karadeniz Bölgesi'nin eşsiz manzarasına sahiptir. Doğal güzelliği ve zengin ekosistemiyle Kadıralak Tabiat Parkı, hem yerel halk hem de dışarıdan gelen ziyaretçiler için keyifli bir gezi noktasıdır.
+ Bu büyüklük, doğa severlerin geniş bir alanda gezebilmelerine olanak tanır. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçiler, burada doğayla iç içe bir gün geçirebilir ve doğanın güzelliğini keşfedebilir. Parkın konumu, Karadeniz Bölgesi'nin eşsiz manzarasına sahiptir. Doğal güzelliği ve zengin ekosistemiyle Kadıralak Tabiat Parkı, hem yerel halk hem de dışarıdan gelen ziyaretçiler için keyifli bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Kadıralak Tabiat Parkı, ziyaretçilere keyifli bir gezi deneyimi sunar. Ziyare
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
 - Park, Karadeniz Bölgesi'nin eşsiz manzarasına sahiptir.
 - Parkın flora ve faunası, bölgenin iklimine thíchmiştir.
 - Park, ziyaretçilere keyifli bir gezi deneyimi sunar.

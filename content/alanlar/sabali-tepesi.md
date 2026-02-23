@@ -28,7 +28,7 @@ wikidata_id: "Q31390334"
 
 # Şabalı Tepesi
 
-Afyonkarahisar'da yer alan Şabalı Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel Türk köy yaşamını deneyimleme fırsatı sunuyor. Şabalı Tepesi, doğa severlerin ve fotoğrafçıların favori mekanlarından biri.
+ Bu bölge, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel Türk köy yaşamını deneyimleme fırsatı sunuyor. Şabalı Tepesi, doğa severlerin ve fotoğrafçıların favori mekanlarından biri.
 
 ## Tarihçe
 

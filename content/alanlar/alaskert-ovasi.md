@@ -33,10 +33,10 @@ Ağrı'nın dağlık coğrafyası, gizli bir hazine gibi bekleyen doğal güzell
 
 ## Tarihçe
 
-Ağrı bölgesi, tarihin sayfalarında önemli bir yer tutar. Bu bölge, farklı uygarlıkların izlerini taşıyan bir coğrafyadır. İnsanlık tarihinin önemli uğrak noktalarından biri olan Ağrı, Urartular, Persler ve Osmanlılar gibi uygarlıkların yaşamış olduğu bir yerdir. 
-Bu bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında olmasından dolayı, tarihi boyunca önemli bir geçiş noktası olarak kullanılmıştır. 
-Ağrı'nın doğal güzellikleri, binlerce yıl boyunca insan yaşamına ev sahipliği yapmış ve insanların bu alanla olan ilişkisi, yaylacılık, hayvancılık ve ticaret gibi faaliyetlerle şekillenmiştir. 
-Doğal alanlar, Türkiye'nin kültürel ve tarihi mirasının önemli bir parçasıdır. Bu gibi alanlar, toplumların yaşam tarzlarını, geleneklerini ve ekonomik faaliyetlerini şekillendirmiş ve günümüze kadar ulaşan kültürel zenginliklerin temelini oluşturmuştur. 
+Ağrı bölgesi, tarihin sayfalarında önemli bir yer tutar. Bu bölge, farklı uygarlıkların izlerini taşıyan bir coğrafyadır. İnsanlık tarihinin önemli uğrak noktalarından biri olan Ağrı, Urartular, Persler ve Osmanlılar gibi uygarlıkların yaşamış olduğu bir yerdir.
+Bu bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında olmasından dolayı, tarihi boyunca önemli bir geçiş noktası olarak kullanılmıştır.
+Ağrı'nın doğal güzellikleri, binlerce yıl boyunca insan yaşamına ev sahipliği yapmış ve insanların bu alanla olan ilişkisi, yaylacılık, hayvancılık ve ticaret gibi faaliyetlerle şekillenmiştir.
+Doğal alanlar, Türkiye'nin kültürel ve tarihi mirasının önemli bir parçasıdır. Bu gibi alanlar, toplumların yaşam tarzlarını, geleneklerini ve ekonomik faaliyetlerini şekillendirmiş ve günümüze kadar ulaşan kültürel zenginliklerin temelini oluşturmuştur.
 Bu bağlamda, Ağrı bölgesindeki doğal güzellikler, sadece coğrafi bir değer değil, aynı zamanda tarihsel ve kültürel bir mirası temsil etmektedir.
 
 ## Coğrafya

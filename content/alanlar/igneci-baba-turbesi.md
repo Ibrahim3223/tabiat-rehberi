@@ -1,7 +1,7 @@
 ---
 title: "İğneci Baba Türbesi"
 date: "2026-01-10T06:12:53.915Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390657"
 
 # İğneci Baba Türbesi
 
-İğneci Baba Türbesi, Amasya'nın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir yapıdır. 140 hektarlık bir alana kurulmuş olan bu tülbent, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İğneci Baba Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleri ile büyülemektedir. Bu tülbent, Amasya'nın önemli turizm noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
+İğneci Baba Türbesi, Amasya'nın merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir yapıdır. İğneci Baba Türbesi, ziyaretçilerini hem tarihi hem de doğal güzellikleri ile büyülemektedir. Bu tülbent, Amasya'nın önemli turizm noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ wikidata_id: "Q131390657"
 
 - İğneci Baba Türbesi, Amasya'nın tarihi ve doğal güzellikleri arasında yer alır.
 - Bu tülbent, yüzyıllar boyunca önemli bir dini merkez olarak görev yapmıştır.
-- İğneci Baba Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Bu tülbent, Karadeniz Bölgesi'nin karakteristik iklim koşullarına sahiptir.
 - İğneci Baba Türbesi, Amasya'nın kültürel ve tarihi zenginliklerini yansıtması açısından önemli bir rol oynamaktadır.

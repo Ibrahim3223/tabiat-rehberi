@@ -1,7 +1,7 @@
 ---
 title: "Kamanlı Hamamı"
 date: "2026-01-09T23:09:59.252Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738849"
 
 # Kamanlı Hamamı
 
-Kamanlı Hamamı, İzmir'in Urla ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. 140 hektarlık bir alan üzerinde kurulmuş olan bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kamanlı Hamamı, denize sıfır konumu ve geniş kumsalıyla birlikte, ziyaretçilerine harika bir deniz deneyimi sunar. Plajın çevresi, çeşitli ağaçlar ve bitki türleriyle kaplıdır. Bu doğal güzellikler, ziyaretçilerin doğayla iç içe bir ortamda dinlenebilmelerine olanak tanır.
+Kamanlı Hamamı, İzmir'in Urla ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. Kamanlı Hamamı, denize sıfır konumu ve geniş kumsalıyla birlikte, ziyaretçilerine harika bir deniz deneyimi sunar. Plajın çevresi, çeşitli ağaçlar ve bitki türleriyle kaplıdır. Bu doğal güzellikler, ziyaretçilerin doğayla iç içe bir ortamda dinlenebilmelerine olanak tanır.
 
 ## Tarihçe
 

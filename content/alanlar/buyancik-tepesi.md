@@ -28,7 +28,7 @@ wikidata_id: "Q31388647"
 
 # Buyancık Tepesi
 
-Buyancık Tepesi, Muğla'nın sunduğu doğal güzellikler arasında önemli bir yere sahiptir. Bu bölge, Ege Bölgesi'nin coğrafi yapısı içerisinde yer alan bir tepe olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu geniş alan, ziyaretçilere geniş bir manzara sunar. Buyancık Tepesi, doğa severlerin ve trekking tutkunlarının ilgisini çeker. Tepenin eteklerinde ve okolílarında, çeşitli bitki türleri bulunur. Bu çeşitlilik, bölgeyi daha da çekici hale getirir. Buyancık Tepesi, hem doğa hem de yürüyüş için ideal bir noktadır.
+Buyancık Tepesi, Muğla'nın sunduğu doğal güzellikler arasında önemli bir yere sahiptir. Bu bölge, Ege Bölgesi'nin coğrafi yapısı içerisinde yer alan bir tepe olarak bilinir. Bu geniş alan, ziyaretçilere geniş bir manzara sunar. Buyancık Tepesi, doğa severlerin ve trekking tutkunlarının ilgisini çeker. Tepenin eteklerinde ve okolílarında, çeşitli bitki türleri bulunur. Bu çeşitlilik, bölgeyi daha da çekici hale getirir. Buyancık Tepesi, hem doğa hem de yürüyüş için ideal bir noktadır.
 
 ## Tarihçe
 

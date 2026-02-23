@@ -23,7 +23,7 @@ wikidata_id: "Q108228071"
 
 # Yüzen Adalar
 
-Yüzen Adalar, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, doğa severler için bir cennet olarak kabul ediliyor. Yüzen Adalar, adeta bir doğa harikası olarak karşımıza çıkıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yüzen Adalar'ın güzelliği, sadece doğa ile iç içe olmak isteyenler için değil, aynı zamanda macera arayanlar için de ideal bir destinasyon.
+Yüzen Adalar, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Yüzen Adalar, adeta bir doğa harikası olarak karşımıza çıkıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yüzen Adalar'ın güzelliği, sadece doğa ile iç içe olmak isteyenler için değil, aynı zamanda macera arayanlar için de ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Yüzen Adalar'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Yüzen Adalar, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından birisidir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, doğa severler için bir cennet olarak kabul ediliyor. Yüzen Adalar, adeta bir doğa harikası olarak karşımıza çıkıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yüzen Adalar'ın güzelliği, sadece doğa ile iç içe olmak isteyenler için değil, aynı zamanda macera arayanlar için de ideal bir destinasyon. Bölge, coğrafi olarak da oldukça çeşitli. Dağlar, ormanlar, nehirler ve göller, Yüzen Adalar'ın coğrafi çeşitliliğini oluşturuyor. İklim, genel olarak karasal ve mevsimsel değişimler, bölgenin güzelliğini daha da artırıyor.
+Yüzen Adalar, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından birisidir. Yüzen Adalar, adeta bir doğa harikası olarak karşımıza çıkıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yüzen Adalar'ın güzelliği, sadece doğa ile iç içe olmak isteyenler için değil, aynı zamanda macera arayanlar için de ideal bir destinasyon. Bölge, coğrafi olarak da oldukça çeşitli. Dağlar, ormanlar, nehirler ve göller, Yüzen Adalar'ın coğrafi çeşitliliğini oluşturuyor. İklim, genel olarak karasal ve mevsimsel değişimler, bölgenin güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 

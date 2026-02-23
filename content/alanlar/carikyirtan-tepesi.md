@@ -28,7 +28,7 @@ wikidata_id: "Q34824031"
 
 # Çarıkyırtan Tepesi
 
-Çarıkyırtan Tepesi, Van ilinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Çarıkyırtan Tepesi, Van'ın coğrafi yapısını ve doğal güzelliklerini gözler önüne seren bir nokta. Doğa severler, bu tepeyi ziyaret ederek hem Van'ın güzelliklerini keşfedebilir hem de doğayla iç içe bir gün geçirebilir. Çarıkyırtan Tepesi, özellikle doğa yürüyüşü ve fotoğrafçılık için ideal bir yer.
+Çarıkyırtan Tepesi, Van ilinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Çarıkyırtan Tepesi, Van'ın coğrafi yapısını ve doğal güzelliklerini gözler önüne seren bir nokta. Doğa severler, bu tepeyi ziyaret ederek hem Van'ın güzelliklerini keşfedebilir hem de doğayla iç içe bir gün geçirebilir. Çarıkyırtan Tepesi, özellikle doğa yürüyüşü ve fotoğrafçılık için ideal bir yer.
 
 ## Tarihçe
 

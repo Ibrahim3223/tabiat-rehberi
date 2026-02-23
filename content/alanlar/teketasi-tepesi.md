@@ -28,7 +28,7 @@ wikidata_id: "Q31388746"
 
 # Teketaşı Tepesi
 
-Teketaşı Tepesi, Muğla'nın dağlık bölgesinde yer alan bir tepe olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini geniş yeşil alanlarıyla karşılar. Bu tepe, tarihi geçmişi ve doğal güzellikleriyle dikkat çekmektedir. Ziyaretçilerin buraya gelmesinin en önemli nedenlerinden biri, tepeye tırmanarak Muğla'nın panoramik manzarasını izlemektedir. Ayrıca, tepeye çıkan yol boyunca çeşitli bitki türleri ve hayvanlarla karşılaşma mümkün.
+Teketaşı Tepesi, Muğla'nın dağlık bölgesinde yer alan bir tepe olarak bilinir. Bu tepe, tarihi geçmişi ve doğal güzellikleriyle dikkat çekmektedir. Ziyaretçilerin buraya gelmesinin en önemli nedenlerinden biri, tepeye tırmanarak Muğla'nın panoramik manzarasını izlemektedir. Ayrıca, tepeye çıkan yol boyunca çeşitli bitki türleri ve hayvanlarla karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Teketaşı Tepesi, Muğla'nın dağlık bölgesinde yer alan bir tepe olarak bil
 
 ## Flora ve Fauna
 
-Teketaşı Tepesi, çeşitli bitki türleri ve hayvanlarla dolu bir bölge olarak bilinir. Tepenin etrafı, ağaçlar ve çalılıklarla kaplıdır. Bölgede, mevsimsel değişimlere göre, farklı bitki türleri ve hayvanlar görülebilir. İlkbahar ve yaz aylarında, région, çeşitli çiçek türleriyle dolu olur. Sonbahar ve kış aylarında, région, yaprak döken ağaçlarla kaplıdır. Bölgenin fauna çeşitliliği, ziyaretçilere farklı hayvan türleriyle karşılaşma fırsatı sunuyor. Tepenin etrafında, çeşitli kuş türleri, keçiler, ve diğer hayvanlarla karşılaşma mümkün.
+Teketaşı Tepesi, çeşitli bitki türleri ve hayvanlarla dolu bir bölge olarak bilinir. Tepenin etrafı, ağaçlar ve çalılıklarla kaplıdır. Bölgede, mevsimsel değişimlere göre, farklı bitki türleri ve hayvanlar görülebilir. İlkbahar ve yaz aylarında, bölge, çeşitli çiçek türleriyle dolu olur. Sonbahar ve kış aylarında, bölge, yaprak döken ağaçlarla kaplıdır. Bölgenin fauna çeşitliliği, ziyaretçilere farklı hayvan türleriyle karşılaşma fırsatı sunuyor. Tepenin etrafında, çeşitli kuş türleri, keçiler, ve diğer hayvanlarla karşılaşma mümkün.
 
 ## Ziyaret Bilgileri
 

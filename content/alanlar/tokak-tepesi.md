@@ -28,7 +28,7 @@ wikidata_id: "Q31390484"
 
 # Tokak Tepesi
 
-Tokak Tepesi, Konya'nın güzel bir noktası. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tokak Tepesi, Konya'nın merkezi ve çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir nokta. Bu tepe, Konya'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir gezi noktası.
+Tokak Tepesi, Konya'nın güzel bir noktası. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tokak Tepesi, Konya'nın merkezi ve çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi yapısını oluşturan önemli bir nokta. Bu tepe, Konya'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir gezi noktası.
 
 ## Tarihçe
 

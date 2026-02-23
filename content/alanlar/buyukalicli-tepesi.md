@@ -28,7 +28,7 @@ wikidata_id: "Q35731281"
 
 # Büyükalıçlı Tepesi
 
-Büyükalıçlı Tepesi, Hatay'ın Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Büyükalıçlı Tepesi'ne çıktığınızda, çevredeki köyleri ve ovaları görebilir, aynı zamanda tepeye tırmanırken çeşitli bitki türleriyle karşılaşabilirsiniz. Bu tepe, hem doğa severler hem de tarih meraklıları için bir hazine.
+Büyükalıçlı Tepesi, Hatay'ın Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Büyükalıçlı Tepesi'ne çıktığınızda, çevredeki köyleri ve ovaları görebilir, aynı zamanda tepeye tırmanırken çeşitli bitki türleriyle karşılaşabilirsiniz. Bu tepe, hem doğa severler hem de tarih meraklıları için bir hazine.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Büyükalıçlı Tepesi'ni ziyaret etmek, doğa severler ve tarih meraklıları 
 ## İlginç Bilgiler
 
 - Büyükalıçlı Tepesi, 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Tepenin coğrafi yapısı, çoğunlukla kayalık ve taşlık arazilerden oluşuyor.
 - Büyükalıçlı Tepesi, flora ve fauna açısından zengin bir bölge.
 - Bu tepe, doğa severler ve tarih meraklıları için bir hazine.

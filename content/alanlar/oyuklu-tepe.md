@@ -28,7 +28,7 @@ wikidata_id: "Q31390217"
 
 # Oyuklu Tepe
 
-Oyuklu Tepe, Burdur'un merkezi bir konumunda yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Burdur'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Oyuklu Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bu tepe, Burdur'un önemli bir simgesi haline gelmiş ve şehrin kimliği ile bir şekilde bağlantılı.
+Oyuklu Tepe, Burdur'un merkezi bir konumunda yer alan ve tarihi geçmişi ile dikkat çeken bir tepe. Burdur'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Oyuklu Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bu tepe, Burdur'un önemli bir simgesi haline gelmiş ve şehrin kimliği ile bir şekilde bağlantılı.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Oyuklu Tepe'nin tarihi geçmişi, Burdur'un tarihinde önemli bir yer tutuyor. B
 
 ## Coğrafya
 
-Oyuklu Tepe, Burdur'un merkezi bir konumunda yer alıyor ve bu konum, tepeyi önemli kılıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Oyuklu Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bu tepe, Burdur'un önemli bir simgesi haline gelmiş ve şehrin kimliği ile bir şekilde bağlantılı. Oyuklu Tepe'nin coğrafi konumu, ziyaretçilerine çeşitli faaliyetler sunuyor. Bu tepe, trekking, pikni ve doğa yürüyüşü gibi faaliyetler için ideal bir destinasyon. Ziyaretçiler, Oyuklu Tepe'nin etrafındaki doğal güzellikleri keşfedebilir ve tepeye çıkarak Burdur'un panoramik manzarasını izleyebilirler.
+Oyuklu Tepe, Burdur'un merkezi bir konumunda yer alıyor ve bu konum, tepeyi önemli kılıyor. Oyuklu Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bu tepe, Burdur'un önemli bir simgesi haline gelmiş ve şehrin kimliği ile bir şekilde bağlantılı. Oyuklu Tepe'nin coğrafi konumu, ziyaretçilerine çeşitli faaliyetler sunuyor. Bu tepe, trekking, pikni ve doğa yürüyüşü gibi faaliyetler için ideal bir destinasyon. Ziyaretçiler, Oyuklu Tepe'nin etrafındaki doğal güzellikleri keşfedebilir ve tepeye çıkarak Burdur'un panoramik manzarasını izleyebilirler.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34822477"
 
 # Yüceburun Tepesi
 
-Yüceburun Tepesi, Gaziantep'in merkezine yakın bir konumda yer alır ve şehrin panoramik manzarasını sunar. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Yüceburun Tepesi, doğa severlerin ve fotoğraf meraklılarının ziyaret ettiği bir noktadır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Yüceburun Tepesi, aynı zamanda Gaziantep'in tarihi geçmişi hakkında bilgi edinmek için ziyaret edilebilir.
+Yüceburun Tepesi, Gaziantep'in merkezine yakın bir konumda yer alır ve şehrin panoramik manzarasını sunar. Yüceburun Tepesi, doğa severlerin ve fotoğraf meraklılarının ziyaret ettiği bir noktadır. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Yüceburun Tepesi, aynı zamanda Gaziantep'in tarihi geçmişi hakkında bilgi edinmek için ziyaret edilebilir.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228735"
 
 # GUROYMAK
 
-Guroymak, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve oldukça geniş bir yaban hayatı çeşitliliğine ev sahipliği yapıyor. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile ziyaretçilerini cezbeden Guroymak, aynı zamanda birçok önemli ekosistemin birleşim noktası olarak da dikkat çekiyor. Bu büyüleyici bölge, hem doğa severlerin hem de yaban hayatı ile ilgilenenlerin ilgisini çekmektedir.
+Guroymak, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Doğal güzellikleri, zengin fauna ve flora çeşitliliği ile ziyaretçilerini cezbeden Guroymak, aynı zamanda birçok önemli ekosistemin birleşim noktası olarak da dikkat çekiyor. Bu büyüleyici bölge, hem doğa severlerin hem de yaban hayatı ile ilgilenenlerin ilgisini çekmektedir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32139296"
 
 # Gündost Tepesi
 
-Gündost Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinde yer alan bir doğa harikası. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Gündost Tepesi, doğal güzellikleri, yürüyüş parkurları ve panoramik manzaralarıyla bir gezi cenneti. Tepenin eteklerinde, çeşitli bitki türlerinin yanı sıra, zengin fauna da bulunuyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Gündost Tepesi, İç Anadolu Bölgesi'nin kalbinde, Yozgat ilinde yer alan bir doğa harikası. Gündost Tepesi, doğal güzellikleri, yürüyüş parkurları ve panoramik manzaralarıyla bir gezi cenneti. Tepenin eteklerinde, çeşitli bitki türlerinin yanı sıra, zengin fauna da bulunuyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 

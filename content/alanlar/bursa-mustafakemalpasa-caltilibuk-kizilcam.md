@@ -22,7 +22,7 @@ wikidata_id: "Q108227324"
 
 # Bursa-Mustafakemalpaşa-Caltilibuk Kızılçam
 
-Bursa-Mustafakemalpaşa-Caltilibuk Kızılçam Milli Parkı, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini korumada önemli bir role sahiptir. Bu milli park, kızılçam ormanları ile tanınır ve bölgenin yaban hayatı için önemli bir yaşam alanı sunar. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu alan, hem yerel halk hem de ziyaretçiler için önemli bir destinasyondur.
+Bursa-Mustafakemalpaşa-Caltilibuk Kızılçam Milli Parkı, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu milli park, kızılçam ormanları ile tanınır ve bölgenin yaban hayatı için önemli bir yaşam alanı sunar. Doğal güzelliği ve biyolojik çeşitliliği ile dikkat çeken bu alan, hem yerel halk hem de ziyaretçiler için önemli bir destinasyondur.
 
 ## Tarihçe
 

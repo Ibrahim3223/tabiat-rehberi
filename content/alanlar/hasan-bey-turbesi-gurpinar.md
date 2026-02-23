@@ -1,7 +1,7 @@
 ---
 title: "Hasan Bey Türbesi, Gürpınar"
 date: "2026-01-10T06:45:24.394Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Van"
@@ -29,11 +29,11 @@ wikidata_id: "Q135582817"
 
 # Hasan Bey Türbesi, Gürpınar
 
-Gürpınar'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için Hasan Bey Türbesi önemli bir destinasyon olarak öne çıkıyor. Doğu Anadolu Bölgesi'nin Van iline bağlı Gürpınar ilçesinde bulunan bu türbe, çevresindeki doğal güzelliklerle birlikte ziyaretçilerini cezbediyor. Gürpınar'ın 140 hektarlık yeşil alanları, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve bu bölge, Hasan Bey Türbesi'ne ev sahipliği yapıyor. Türbenin mimarisi ve tarihi önemi, ziyaretçilerini geçmişe götürerek önemli bir deneyim sunuyor.
+Gürpınar'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için Hasan Bey Türbesi önemli bir destinasyon olarak öne çıkıyor. Doğu Anadolu Bölgesi'nin Van iline bağlı Gürpınar ilçesinde bulunan bu türbe, çevresindeki doğal güzelliklerle birlikte ziyaretçilerini cezbediyor. Türbenin mimarisi ve tarihi önemi, ziyaretçilerini geçmişe götürerek önemli bir deneyim sunuyor.
 
 ## Tarihçe
 
-Hasan Bey Türbesi, tarihi geçmişi ve kültürel önemiyle dikkat çekiyor. Doğu Anadolu Bölgesi'nin önemli tarihi figürlerinden biri olan Hasan Bey'in mezarının bulunduğu bu türbe, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Tarihi belgelerde Hasan Bey'in kimliği ve yaşamı hakkında detaylı bilgiler bulunmasa da, türbenin kendisi régionun kültürel mirasının önemli bir parçasını oluşturuyor. Bölgenin tarihi geçmişi, çeşitli hanedanların ve medeniyetlerin hüküm sürdüğü bir bölge olarak biliniyor ve Hasan Bey Türbesi de bu tarihin önemli bir parçası olarak kabul ediliyor. Türbenin inşası ve restoresi hakkında detaylı bilgiler bulunmasa da, ziyaretçilerin burayı ziyaret etmeleri, bölgenin tarihi ve kültürel zenginliklerini keşfetmeleri açısından önemli görülüyor.
+Hasan Bey Türbesi, tarihi geçmişi ve kültürel önemiyle dikkat çekiyor. Doğu Anadolu Bölgesi'nin önemli tarihi figürlerinden biri olan Hasan Bey'in mezarının bulunduğu bu türbe, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Tarihi belgelerde Hasan Bey'in kimliği ve yaşamı hakkında detaylı bilgiler bulunmasa da, türbenin kendisi bölgenin kültürel mirasının önemli bir parçasını oluşturuyor. Bölgenin tarihi geçmişi, çeşitli hanedanların ve medeniyetlerin hüküm sürdüğü bir bölge olarak biliniyor ve Hasan Bey Türbesi de bu tarihin önemli bir parçası olarak kabul ediliyor. Türbenin inşası ve restoresi hakkında detaylı bilgiler bulunmasa da, ziyaretçilerin burayı ziyaret etmeleri, bölgenin tarihi ve kültürel zenginliklerini keşfetmeleri açısından önemli görülüyor.
 
 ## Coğrafya
 
@@ -51,6 +51,6 @@ Hasan Bey Türbesi'ni ziyaret etmek isteyenler, Van iline bağlı Gürpınar il�
 
 - Hasan Bey Türbesi, Gürpınar'ın en önemli tarihi ve kültürel zenginliklerinden biri olarak biliniyor.
 - Türbenin mimarisi, bölgenin kültürel mirasının önemli bir parçasını oluşturuyor.
-- Gürpınar'ın 140 hektarlık yeşil alanları, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölgenin coğrafi konumu, Van Gölü'nün batısında ve İran sınırına yakın.
 - Hasan Bey Türbesi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor.

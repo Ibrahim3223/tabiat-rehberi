@@ -1,7 +1,7 @@
 ---
 title: "Künbet Hatun Türbesi"
 date: "2026-01-10T07:55:04.594Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391337"
 
 # Künbet Hatun Türbesi
 
-Künbet Hatun Türbesi, Merzifon'un merkezinde, 140 hektarlık bir alan üzerinde yer alan tarihi bir yapıdır. İç Anadolu Bölgesi'nin önemli tarihi figürlerinden biri olan Künbet Hatun Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Merzifon'un tarihi ve kültürel zenginliklerini barındırıyor. Künbet Hatun Türbesi, Merzifon'un simgelerinden biri olarak kabul ediliyor ve ziyaretçilerine tarihi bir atmosfer sunuyor.
+Künbet Hatun Türbesi, Merzifon'un merkezinde, 140 hektarlık bir alan üzerinde yer alan tarihi bir yapıdır. İç Anadolu Bölgesi'nin önemli tarihi figürlerinden biri olan Künbet Hatun Türbesi, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Künbet Hatun Türbesi, Merzifon'un simgelerinden biri olarak kabul ediliyor ve ziyaretçilerine tarihi bir atmosfer sunuyor.
 
 ## Tarihçe
 

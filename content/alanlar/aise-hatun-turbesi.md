@@ -1,7 +1,7 @@
 ---
 title: "Aişe Hatun Türbesi"
 date: "2026-01-10T06:06:08.316Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390662"
 
 # Aişe Hatun Türbesi
 
-Amasya'nın merkezi bir konumunda bulunan Aişe Hatun Türbesi, şehrin tarihi ve kültürel mirasını yansıtan önemli bir yapıdır. 140 hektarlık bir alan üzerinde yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Aişe Hatun Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar. Türbenin etrafında bulunan yeşillik alanlar, ziyaretçilerin dinlenebileceği ve doğayı içlerinde hissedebileceği mekanlar sunar.
+Amasya'nın merkezi bir konumunda bulunan Aişe Hatun Türbesi, şehrin tarihi ve kültürel mirasını yansıtan önemli bir yapıdır. Aişe Hatun Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar. Türbenin etrafında bulunan yeşillik alanlar, ziyaretçilerin dinlenebileceği ve doğayı içlerinde hissedebileceği mekanlar sunar.
 
 ## Tarihçe
 

@@ -51,8 +51,8 @@ Güvercin Adası, çevresindeki su kaynakları ve ekosistem bağlantıları ile 
 
 Güvercin Adası, Balıkesir'de bulunan bir ada ekosistemi olarak, geçiş ikliminin ve karma ormanların birleştiği bir bölgede yer alır. Bu ada, izole bir popülasyon olarak, deniz kuşları ve kıyı bitkilerinin yaşadığı benzersiz bir ortam sunar.
 
-Bitki örtüsü olarak, ada çoğunlukla kıyı bitkileri ve yerli türlerle kaplıdır. İlkbaharda, ada renklenir ve çeşitli çiçekler açar. Mevsimsel değişimlerle birlikte, ada farklı bir görünüm kazanır. 
-Yaban hayatı açısından, ada özellikle göçmen kuşlar için önemli bir durak noktasıdır. Sonbaharda, ada birçok göçmen kuş türüne ev sahipliği yapar. 
+Bitki örtüsü olarak, ada çoğunlukla kıyı bitkileri ve yerli türlerle kaplıdır. İlkbaharda, ada renklenir ve çeşitli çiçekler açar. Mevsimsel değişimlerle birlikte, ada farklı bir görünüm kazanır.
+Yaban hayatı açısından, ada özellikle göçmen kuşlar için önemli bir durak noktasıdır. Sonbaharda, ada birçok göçmen kuş türüne ev sahipliği yapar.
 Ada ekosisteminin korunması büyük önem taşır. Bu izole ekosistemin bảoceğiçin, insanların dikkatli olması ve ada ortamına zarar vermemesi gerekir.
 
 ## Ziyaret Bilgileri

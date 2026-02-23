@@ -44,11 +44,11 @@ Doğal kaynaklar açısından Zamp Mountain, komşu alanlarla önemli bağlantı
 
 ## Flora ve Fauna
 
-Zamp Dağı, nemli iklimin hâkim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Zamp Dağı, nemli iklimin hâkim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-**Bitki Örtüsü**: Dağın farklı yükseklik zonlarında, ilkbaharda çiçek açan bitkiler ve sonbaharda renk değiştiren ağaçlar bulunur. Gür ormanlar, dağların eteklerinden zirvelerine kadar çeşitlilik gösterir. 
+**Bitki Örtüsü**: Dağın farklı yükseklik zonlarında, ilkbaharda çiçek açan bitkiler ve sonbaharda renk değiştiren ağaçlar bulunur. Gür ormanlar, dağların eteklerinden zirvelerine kadar çeşitlilik gösterir.
 
-**Yaban Hayatı**: Dağ, çeşitli memeliler, kuşlar ve sürüngenler için yaşam alanı sağlar. Mevsimsel göçler, bu dağ ekosisteminin dinamik yapısını şekillendirir. 
+**Yaban Hayatı**: Dağ, çeşitli memeliler, kuşlar ve sürüngenler için yaşam alanı sağlar. Mevsimsel göçler, bu dağ ekosisteminin dinamik yapısını şekillendirir.
 
 **Ekolojik Değer**: Yüksek biyoçeşitlili ve dağ ekosisteminin bütünlüğü, bu alanı önemli kılar. Koruma durumuna gelince, bu tür ekosistemlerin korunması için sürekli çaba sarf edilmelidir.
 

@@ -48,9 +48,9 @@ Mevsimsel olarak incelendiğinde, Künye Mağaraları'nın iklim karakteri olduk
 
 ## Flora ve Fauna
 
-Künye Mağaraları jeoparkı, step bitki örtüsünün hakim olduğu bir bölge olup, kuraklığa adapte edilmiş çeşitli türler bulunur. Bu alan, aynı zamanda orman ekosisteminin zenginliğini sunar. İlkbahar döneminde, bozkırın rengarenk çiçeklerle donandığını görebilirsiniz. 
+Künye Mağaraları jeoparkı, step bitki örtüsünün hakim olduğu bir bölge olup, kuraklığa adapte edilmiş çeşitli türler bulunur. Bu alan, aynı zamanda orman ekosisteminin zenginliğini sunar. İlkbahar döneminde, bozkırın rengarenk çiçeklerle donandığını görebilirsiniz.
 
-Bitki örtüsünün yanı sıra, bu bölgede çeşitli yaban hayvanlarına da ev sahipliği yapar. Orman memelileri ve kuşlar, bu ekosistemin önemli bileşenleridir. Mevsimsel göçlerin yaşandığı bu bölge, sonbahar döneminde göçmen kuşların uğrak yeridir. 
+Bitki örtüsünün yanı sıra, bu bölgede çeşitli yaban hayvanlarına da ev sahipliği yapar. Orman memelileri ve kuşlar, bu ekosistemin önemli bileşenleridir. Mevsimsel göçlerin yaşandığı bu bölge, sonbahar döneminde göçmen kuşların uğrak yeridir.
 
 Künye Mağaraları jeoparkının ekolojik değeri, bu türlerin yaşamlarını sürdürdükleri doğal habitatın korunmasıyla doğrudan ilgilidir. Bu alanın korunması, sadece bölgeye özgü türlerin varlığını güvence altına almakla kalmaz, aynı zamanda yerel ekosistemin dengesini de korur.
 

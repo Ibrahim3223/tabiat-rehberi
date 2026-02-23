@@ -30,7 +30,7 @@ wikidata_id: "Q251601"
 
 # Nişantaşı
 
-Nişantaşı, İstanbul'un Şişli ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir bölge. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada yer alan ağaçlar ile bitkiler, bölgeyi bir doğa cennetine dönüştürüyor. Bu alan, şehrin gürültüsünden kaçmak isteyenler için sakin ve huzurlu bir kaçış noktası sunuyor. Nişantaşı, aynı zamanda tarihi yapıları ve kültürel etkinlikleri ile ziyaretçilerini bekliyor.
+Nişantaşı, İstanbul'un Şişli ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir bölge. Bu alan, şehrin gürültüsünden kaçmak isteyenler için sakin ve huzurlu bir kaçış noktası sunuyor. Nişantaşı, aynı zamanda tarihi yapıları ve kültürel etkinlikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

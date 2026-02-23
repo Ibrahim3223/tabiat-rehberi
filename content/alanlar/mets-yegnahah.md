@@ -50,7 +50,7 @@ Mets Yeğnahah'ın iklim karakteri, bölgenin coğrafi konumuna göre şekilleni
 
 Mets Yeğnahah dağ ekosistemi, step bitki örtüsü ve bozkırın karakteristik özelliklerini taşır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ilkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır, sonbaharda ise göç eden kuşlar dağları bir geçit olarak kullanır.
 
-Bitki örtüsünde kuraklığa adapte türler hakimdir. Yükseklik zonlarına bağlı olarak alpin flora da görülebilir. Dağ hayvanları, bu zorlu coğrafyaya adapte olmuş türlerdir. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. 
+Bitki örtüsünde kuraklığa adapte türler hakimdir. Yükseklik zonlarına bağlı olarak alpin flora da görülebilir. Dağ hayvanları, bu zorlu coğrafyaya adapte olmuş türlerdir. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir.
 
 Bu dağ ekosisteminin ekolojik değeri, yükseklik zonlarına bağlı olarak ortaya çıkan farklı yaşam alanlarıdır. Koruma durumu, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini korumak için önemlidir. Mets Yeğnahah, doğal yaşamın çeşitliliği ve güzelliğini keşfetmek için ideal bir destinasyondur.
 

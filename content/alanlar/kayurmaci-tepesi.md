@@ -28,7 +28,7 @@ wikidata_id: "Q34878410"
 
 # Kayurmaçı Tepesi
 
-Kayurmaçı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Bu tepe, 140 hektarlık bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Ziyaretçiler, bu güzel tepeyi keşfetmek için gelirler ve burada yer alan çeşitli bitki türleri ile karşılaşır. Kayurmaçı Tepesi, Ankara'nın doğal güzelliklerinden biri olarak biliniyor ve birçok ziyaretçiyi kendisine çekiyor. Tepe, çevresindeki diğer doğal alanlarla birlikte bir bütün oluşturuyor ve ziyaretçilerine geniş bir manzara sunuyor.
+Kayurmaçı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Ziyaretçiler, bu güzel tepeyi keşfetmek için gelirler ve burada yer alan çeşitli bitki türleri ile karşılaşır. Kayurmaçı Tepesi, Ankara'nın doğal güzelliklerinden biri olarak biliniyor ve birçok ziyaretçiyi kendisine çekiyor. Tepe, çevresindeki diğer doğal alanlarla birlikte bir bütün oluşturuyor ve ziyaretçilerine geniş bir manzara sunuyor.
 
 ## Tarihçe
 

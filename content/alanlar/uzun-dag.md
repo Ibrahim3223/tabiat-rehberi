@@ -33,7 +33,7 @@ Hakkari'nin dağlık arazisinde yer alan Uzun Dağ, coğrafi çeşitliliği ile 
 
 ## Tarihçe
 
-Hakkari'nin dağlık bölgesinde yer alan Uzun Dağ, tarihin sâu izlerini taşıyan bir coğrafyanın önemli bir parçası. Bölge, tarihi boyunca Urartular, Medler, Persler ve Osmanlılar gibi çeşitli uygarlıkların etkisi altında kalmıştır. Bu zengin tarih, doğal güzelliklerin yanı sıra kültürel bir mirasın da oluşmasına katkıda bulunmuştur.
+Hakkari'nin dağlık bölgesinde yer alan Uzun Dağ, tarihin derin izlerini taşıyan bir coğrafyanın önemli bir parçası. Bölge, tarihi boyunca Urartular, Medler, Persler ve Osmanlılar gibi çeşitli uygarlıkların etkisi altında kalmıştır. Bu zengin tarih, doğal güzelliklerin yanı sıra kültürel bir mirasın da oluşmasına katkıda bulunmuştur.
 
 Türkiye'nin dağlık bölgeleri, tarih boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve yaylacılık yapan toplulukların merkezleri olmuştur. Bu doğal alanlar, sadece yerel halkın değil, aynı zamanda ticaret yollarının da önemli durakları olarak görev üstlenmiştir. Uzun Dağ da, bu bağlamda, bölgenin ekonomi ve kültürel hayatında önemli bir role sahip olmuştur. İnsanların bu doğal güzelliklerle olan ilişkisi, yalnızca ekonomik değil, aynı zamanda manevi ve kültürel bir boyut da taşımaktadır. Bu nedenle, Uzun Dağ gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturmaktadır.
 
@@ -49,7 +49,7 @@ Mevsimsel olarak, Uzun Dağ'ın iklimi oldukça değişken. Kış aylarında so�
 
 ## Flora ve Fauna
 
-Uzun Dağ, Hakkari'nin yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, alpin çayırlar renkli çiçeklere bürünür. Yükseklik zonlarına bağlı olarak değişen bitki örtüsü, dağ ekosisteminin çeşitliliğini gözler önüne serer. 
+Uzun Dağ, Hakkari'nin yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, alpin çayırlar renkli çiçeklere bürünür. Yükseklik zonlarına bağlı olarak değişen bitki örtüsü, dağ ekosisteminin çeşitliliğini gözler önüne serer.
 
 Dağların yüksek kesimlerinde, alpin flora hüküm sürer. Bu bölgede, mevsimsel değişimlere uyum sağlamış, özel bitkiler bulunur. Sonbaharda, göç eden kuşlar dağların üzerinde uçarken, memeliler ve sürüngenler yaşam alanlarını korurlar. Dağ ekosisteminin dengesi, bu canlıların birbirleriyle olan ilişkilerine bağlıdır. Örneğin, bazı bitkiler, belirli hayvan türlerinin varlığına bağımlıdır.
 

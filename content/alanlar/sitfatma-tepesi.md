@@ -28,7 +28,7 @@ wikidata_id: "Q31554276"
 
 # Sıtfatma Tepesi
 
-Sıtfatma Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Sıtfatma Tepesi, bölgenin coğrafi yapısını oluşturan önemli bir nokta. Tepenin eteklerinde çeşitli bitki türleri bulunur. Bölge, zengin fauna yapısı ile dikkat çeker. Sıtfatma Tepesi, Batman'ın doğal güzelliklerine ev sahipliği yapan bir alan.
+Sıtfatma Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Sıtfatma Tepesi, bölgenin coğrafi yapısını oluşturan önemli bir nokta. Tepenin eteklerinde çeşitli bitki türleri bulunur. Bölge, zengin fauna yapısı ile dikkat çeker. Sıtfatma Tepesi, Batman'ın doğal güzelliklerine ev sahipliği yapan bir alan.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sıtfatma Tepesi'nin tarihi geçmişi, bölgenin oluşumuna kadar uzanır. Tepen
 
 ## Coğrafya
 
-Sıtfatma Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Sıtfatma Tepesi, bölgenin coğrafi yapısını oluşturan önemli bir nokta. Tepenin eteklerinde çeşitli bitki türleri bulunur. Bölge, zengin fauna yapısı ile dikkat çeker. Sıtfatma Tepesi, Batman'ın doğal güzelliklerine ev sahipliği yapan bir alan. Tepenin coğrafi yapısı, bölgenin iklimini etkileyen önemli bir faktör. Bölge, genel olarak ılıman bir iklime sahiptir. Sıtfatma Tepesi, bölgenin coğrafi yapısını oluşturan önemli bir nokta. Tepenin konumu, bölgenin doğal güzelliklerini oluşturan önemli bir parça.
+Sıtfatma Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Sıtfatma Tepesi, bölgenin coğrafi yapısını oluşturan önemli bir nokta. Tepenin eteklerinde çeşitli bitki türleri bulunur. Bölge, zengin fauna yapısı ile dikkat çeker. Sıtfatma Tepesi, Batman'ın doğal güzelliklerine ev sahipliği yapan bir alan. Tepenin coğrafi yapısı, bölgenin iklimini etkileyen önemli bir faktör. Bölge, genel olarak ılıman bir iklime sahiptir. Sıtfatma Tepesi, bölgenin coğrafi yapısını oluşturan önemli bir nokta. Tepenin konumu, bölgenin doğal güzelliklerini oluşturan önemli bir parça.
 
 ## Flora ve Fauna
 

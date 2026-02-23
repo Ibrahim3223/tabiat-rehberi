@@ -29,7 +29,7 @@ wikidata_id: "Q134728266"
 
 # Patara Pseudoperipteros Tapınak Mezar
 
-Patara Pseudoperipteros Tapınak Mezar, Akdeniz'in gizli bir cevheri olarak karşımıza çıkıyor. Kaş, Antalya'nın eşsiz güzelliğini barındıran bu bölge, tarih ve doğanın iç içe geçtiği bir noktada yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir keşif alanı sunuyor. Patara Pseudoperipteros Tapınak Mezar, geçmişin izlerini taşımakta ve ziyaretçilerini tarihin derinliklerine götürmekte. Bu özel yer, hem tarih meraklıları hem de doğa severler için bir hazine olarak görülebilir.
+Patara Pseudoperipteros Tapınak Mezar, Akdeniz'in gizli bir cevheri olarak karşımıza çıkıyor. Kaş, Antalya'nın eşsiz güzelliğini barındıran bu bölge, tarih ve doğanın iç içe geçtiği bir noktada yer alıyor. Patara Pseudoperipteros Tapınak Mezar, geçmişin izlerini taşımakta ve ziyaretçilerini tarihin derinliklerine götürmekte. Bu özel yer, hem tarih meraklıları hem de doğa severler için bir hazine olarak görülebilir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Patara Pseudoperipteros Tapınak Mezarını ziyaret etmek, hem tarih meraklılar
 ## İlginç Bilgiler
 
 - Patara Pseudoperipteros Tapınak Mezarı, Likya Uygarlığı dönemine ait önemli bir yapı.
-- Bölge, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Patara Plajı'na yakın bir konumda bulunuyor.
 - Çevresinde çeşitli bitki türleri ve zengin fauna bulunmakta.
 - İlkbahar ve yaz ayları, ziyaret için en iyi zaman.

@@ -52,11 +52,11 @@ Mevsimsel değişimlere bakıldığında, Haldizen Dağı'nın iklim karakteri o
 
 ## Flora ve Fauna
 
-Haldizen Dağı, step bitki örtüsü ve bozkırın hâkim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu bölgede, kuraklığa adapte olmuş türler, dağın yükseklik zonlarına göre değişen bir flora ve fauna çeşitliliği sunuyor. 
+Haldizen Dağı, step bitki örtüsü ve bozkırın hâkim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu bölgede, kuraklığa adapte olmuş türler, dağın yükseklik zonlarına göre değişen bir flora ve fauna çeşitliliği sunuyor.
 
 İlkbaharın gelmesiyle, dağ yamaçlarında renkli çiçekler açmaya başlıyor. Bu renk cümbüşü, dağın yüksek zonlarına doğru alpin flora hakim oluyor. Dağların yüksek kesimlerinde, rüzgâra ve soğuğa dayanıklı bitkiler hüküm sürüyor.
 
-Dağın yaban hayatı, memelilerden kuşlara, sürüngenlere kadar çeşitlilik gösteriyor. Dağ keçileri, dağların kaya dik yamaçlarında ediyor. Kuşlar ise, göç mevsimlerinde dağları överek geçiyor. Sürüngenler, dağların kura ve sıcak bölgelerinde yaşamlarını sürdürüyor. 
+Dağın yaban hayatı, memelilerden kuşlara, sürüngenlere kadar çeşitlilik gösteriyor. Dağ keçileri, dağların kaya dik yamaçlarında ediyor. Kuşlar ise, göç mevsimlerinde dağları överek geçiyor. Sürüngenler, dağların kura ve sıcak bölgelerinde yaşamlarını sürdürüyor.
 
 Haldizen Dağı, ekolojik açıdan önemli bir bölge olarak kabul ediliyor. Bu dağ ekosisteminin korunması, bölgeye özgü türlerin ve habitatların sürdürülebilirliğini sağlıyor.
 

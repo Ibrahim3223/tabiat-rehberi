@@ -28,7 +28,7 @@ wikidata_id: "Q31385363"
 
 # Yediler Tepesi
 
-Yediler Tepesi, Eskişehir'in merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan doğal bir güzelliğimizdir. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin içinde yer alan bir yeşil cennettir. Yediler Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Eskişehir'in tarihi ve doğal güzelliklerini bir arada keşfetmek isteyenler, bu tepeyi mutlaka ziyaret etmelidir.
+Yediler Tepesi, Eskişehir'in merkezinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan doğal bir güzelliğimizdir. Yediler Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenler için ideal bir destinasyon. Eskişehir'in tarihi ve doğal güzelliklerini bir arada keşfetmek isteyenler, bu tepeyi mutlaka ziyaret etmelidir.
 
 ## Tarihçe
 

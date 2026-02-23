@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin gizli köşelerinden biri olan Carriji Tepe, Ba
 
 ## Tarihçe
 
-Batman bölgesinin zengin tarihi, Carriji Tepe'nin eteklerinde uzanır. Bu bölge, tarihin sâu sayfalarında, Hitit, Asur ve Pers uygarlıklarının izlerini taşır. İnsanlık tarihinin önemli kavşak noktalarından biri olan Güneydoğu Anadolu, çeşitli medeniyetlerin etkileşimine sahne olmuştur.
+Batman bölgesinin zengin tarihi, Carriji Tepe'nin eteklerinde uzanır. Bu bölge, tarihin derin sayfalarında, Hitit, Asur ve Pers uygarlıklarının izlerini taşır. İnsanlık tarihinin önemli kavşak noktalarından biri olan Güneydoğu Anadolu, çeşitli medeniyetlerin etkileşimine sahne olmuştur.
 
 Türkiye'nin doğal alanları, tarihsel süreçte her zaman önemli bir rol oynamıştır. Bu bölgeler, sadece doğal güzellikleri değil, aynı zamanda insanların yaşamlarını sürdürmesi için gerekli kaynaklar sunmuştur. Yaylacılık, hayvancılık ve ticaret yolları, bu doğal alanların etrafında şekillenmiştir. Carriji Tepe de, bölgenin coğrafi konumu ve doğal kaynakları nedeniyle, insan yerleşimlerinin ve faaliyetlerinin merkezinde yer almıştır.
 

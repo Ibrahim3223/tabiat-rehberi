@@ -22,7 +22,7 @@ wikidata_id: "Q108228459"
 
 # Adana-Feke-Bahcecik Toros Kizilagaci
 
-Adana-Feke-Bahcecik Toros Kizilagaci milli parkı, Akdeniz Bölgesi'nde yer alan ve doğal güzellikleri ile tarihi geçmişiyle dikkat çeken bir alan olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin fauna ile flora çeşitliliği sunuyor. Bu milli park, ziyaretçilerine hem doğayı keşfetme hem de tarihi geçmişini öğrenme fırsatı sunuyor. Toros Dağları'nın eteklerinde kurulu olan bu park, çevreye duyarlı bir şekilde yönetiliyor ve ekolojik dengenin korunmasına önem veriliyor.
+Adana-Feke-Bahcecik Toros Kizilagaci milli parkı, Akdeniz Bölgesi'nde yer alan ve doğal güzellikleri ile tarihi geçmişiyle dikkat çeken bir alan olarak karşımıza çıkıyor. Bu milli park, ziyaretçilerine hem doğayı keşfetme hem de tarihi geçmişini öğrenme fırsatı sunuyor. Toros Dağları'nın eteklerinde kurulu olan bu park, çevreye duyarlı bir şekilde yönetiliyor ve ekolojik dengenin korunmasına önem veriliyor.
 
 ## Tarihçe
 

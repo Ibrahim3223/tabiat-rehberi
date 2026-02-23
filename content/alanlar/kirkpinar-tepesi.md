@@ -28,7 +28,7 @@ wikidata_id: "Q31390859"
 
 # Kırkpınar Tepesi
 
-Kırkpınar Tepesi, Yozgat'ın merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki yerleşim yerlerine nazaran daha yüksek bir konumda. Tepenin eteklerinde yer alan köyler ve kasabalar, bu doğal güzelliğin bir parçası olarak görülüyor. Kırkpınar Tepesi, aynı zamanda bölgeye özgü bitki türleri ve hayvan çeşitliliği ile dikkat çekiyor. Ziyaretçiler, tepeye tırmanarak çevreyi keşfetme fırsatı buluyor.
+Kırkpınar Tepesi, Yozgat'ın merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepe. Tepenin eteklerinde yer alan köyler ve kasabalar, bu doğal güzelliğin bir parçası olarak görülüyor. Kırkpınar Tepesi, aynı zamanda bölgeye özgü bitki türleri ve hayvan çeşitliliği ile dikkat çekiyor. Ziyaretçiler, tepeye tırmanarak çevreyi keşfetme fırsatı buluyor.
 
 ## Tarihçe
 

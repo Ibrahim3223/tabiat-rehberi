@@ -28,7 +28,7 @@ wikidata_id: "Q31390100"
 
 # Koyunada Tepesi
 
-Koyunada Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Koyunada Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Burada, doğa yürüyüşleri yapabilir, çevredekileri keşfedebilir ve eşsiz manzaraları izleyebilirsiniz. Koyunada Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Koyunada Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir nokta. Koyunada Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak sunuyor. Burada, doğa yürüyüşleri yapabilir, çevredekileri keşfedebilir ve eşsiz manzaraları izleyebilirsiniz. Koyunada Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 

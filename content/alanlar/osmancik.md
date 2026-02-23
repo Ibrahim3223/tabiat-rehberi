@@ -23,7 +23,7 @@ wikidata_id: "Q108228661"
 
 # OSMANCIK
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Osmancık, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor. Bu bölge, ziyaretçilerini zengin flora ve fauna çeşitliliği ile karşılıyor. Osmancık, doğa severler için bir cennet olarak tanımlanabilir. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor.
+ Bu bölge, ziyaretçilerini zengin flora ve fauna çeşitliliği ile karşılıyor. Osmancık, doğa severler için bir cennet olarak tanımlanabilir. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Osmancık'a gitmek isteyen ziyaretçiler, çeşitli ulaşım seçeneklerine sahi
 ## İlginç Bilgiler
 
 - Osmancık, İç Anadolu Bölgesi'nin önemli yerleşim yerlerinden biridir.
-- Osmancık, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor.
+
 - Osmancık, çeşitli bitki türleri ve hayvanlar ile zengin bir flora ve fauna çeşitliliğine sahip.
 - Osmancık'a gitmek için en iyi mevsim ilkbahar ve sonbahar aylarıdır.
 - Osmancık, doğa severler için bir cennet olarak tanımlanabilir.

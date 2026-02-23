@@ -1,7 +1,7 @@
 ---
 title: "Tekkedağı Tepe"
 date: "2026-01-09T00:15:09.088Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Türkiye"
@@ -52,7 +52,7 @@ Doğal güzellikleri ve coğrafi özellikleriyle dikkat çeken Tekkedağı Tepe,
 
 Tekkedağı Tepe, bir dağ ekosisteminin tüm güzelliğini barındıran bir alan. Yükseklik zonlarına bağlı olarak değişen flora, ilkbaharda renkli çiçeklerle donanırken, sonbaharda sarı ve kahverengi tonlara bürünür. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türler ön plana çıkar.
 
-Yaban hayatı da aynı derecede çeşitlilik gösterir. Memeliler ve kuşlar, dağların yüksek kesimlerinde yaşarken, sürüngenler daha alçak kesimlerde görülebilir. Mevsimsel göçler, bu alanı önemli bir uğrak noktası haline getirir. 
+Yaban hayatı da aynı derecede çeşitlilik gösterir. Memeliler ve kuşlar, dağların yüksek kesimlerinde yaşarken, sürüngenler daha alçak kesimlerde görülebilir. Mevsimsel göçler, bu alanı önemli bir uğrak noktası haline getirir.
 
 Bu dağ ekosisteminin ekolojik değeri, çeşitlili ve adapte olan türlerin varlığından gelir. Koruma altına alınması, bu alan'nın doğal dengesini korumak açısından önemlidir.
 

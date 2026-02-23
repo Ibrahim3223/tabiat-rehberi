@@ -1,7 +1,7 @@
 ---
 title: "Abdurrahman Şami Türbesi"
 date: "2026-01-10T07:10:29.233Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390973"
 
 # Abdurrahman Şami Türbesi
 
-Abdurrahman Şami Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran bir mekan olarak dikkat çekiyor. Fatih ilçesinde yer alan bu türbe, yaklaşık 140 hektarlık bir alanda konumlanıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve oldukça geniş bir yeşil alana sahip. Bu mekan, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Abdurrahman Şami Türbesi, İstanbul'un önemli turistik mekanlarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi alıyor.
+Abdurrahman Şami Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran bir mekan olarak dikkat çekiyor. Fatih ilçesinde yer alan bu türbe, yaklaşık 140 hektarlık bir alanda konumlanıyor. Bu mekan, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Abdurrahman Şami Türbesi, İstanbul'un önemli turistik mekanlarından biri olarak biliniyor ve her yıl çok sayıda ziyaretçi alıyor.
 
 ## Tarihçe
 

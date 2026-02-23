@@ -1,7 +1,7 @@
 ---
 title: "Mama Hatun Hamamı"
 date: "2026-01-09T22:35:34.248Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzincan"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738673"
 
 # Mama Hatun Hamamı
 
-Mama Hatun Hamamı, Tercan'ın merkezine uzun bir mesafe uzaklıkta, 140 hektarlık geniş bir yeşil alanda kurulmuş tarihi bir hamam. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzakta, sakin bir atmosfere sahip. Hamam, tarihi geçmişi ve mimarisiyle dikkat çekiyor. Doğu Anadolu Bölgesi'nin gizli cennetlerinden biri olan Mama Hatun Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Mama Hatun Hamamı, Tercan'ın merkezine uzun bir mesafe uzaklıkta, 140 hektarlık geniş bir yeşil alanda kurulmuş tarihi bir hamam. Hamam, tarihi geçmişi ve mimarisiyle dikkat çekiyor. Doğu Anadolu Bölgesi'nin gizli cennetlerinden biri olan Mama Hatun Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mama Hatun Hamamı, Selçuklu Dönemi'ne ait bir eser olarak biliniyor. Tarihi g
 
 ## Coğrafya
 
-Mama Hatun Hamamı, Tercan'ın yeşil vadi olan bir bölgede yer alıyor. 140 hektarlık geniş bir alanı kapsayan hamam, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere geniş bir hareket alanı sunuyor. Hamamın çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Bölge, iklim açısından ılıman bir yapıya sahip. Yaz aylarında serin, kış aylarında ise soğuk bir hava hakim. Bu özelliği, ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Hamamın bulunduğu bölge, doğal güzellikleri ve tarihi yapılarıyla dikkat çekiyor. Ziyaretçiler, buraya geldiğinde hem tarihi yapıları inceleyebilir hem de doğanın güzelliğini keşfedebilir.
+Mama Hatun Hamamı, Tercan'ın yeşil vadi olan bir bölgede yer alıyor. Bu geniş alan, ziyaretçilere geniş bir hareket alanı sunuyor. Hamamın çevresinde, çeşitli bitki türleri ve zengin fauna bulunuyor. Bölge, iklim açısından ılıman bir yapıya sahip. Yaz aylarında serin, kış aylarında ise soğuk bir hava hakim. Bu özelliği, ziyaretçilere dört mevsim boyunca farklı deneyimler sunuyor. Hamamın bulunduğu bölge, doğal güzellikleri ve tarihi yapılarıyla dikkat çekiyor. Ziyaretçiler, buraya geldiğinde hem tarihi yapıları inceleyebilir hem de doğanın güzelliğini keşfedebilir.
 
 ## Flora ve Fauna
 

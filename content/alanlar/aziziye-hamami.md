@@ -1,7 +1,7 @@
 ---
 title: "Aziziye Hamamı"
 date: "2026-01-10T04:32:05.147Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q115629810"
 
 # Aziziye Hamamı
 
-Aziziye Hamamı, İstanbul'un Kadıköy ilçesinde, Marmara Bölgesi'nin güzide noktalarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Aziziye Hamamı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini çekmeyi başarmaktadır. Bu özel mekan, hem İstanbul'un tarihi dokusunu hem de Marmara Bölgesi'nin doğal zenginliklerini sunar.
+Aziziye Hamamı, İstanbul'un Kadıköy ilçesinde, Marmara Bölgesi'nin güzide noktalarından biridir. Aziziye Hamamı, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini çekmeyi başarmaktadır. Bu özel mekan, hem İstanbul'un tarihi dokusunu hem de Marmara Bölgesi'nin doğal zenginliklerini sunar.
 
 ## Tarihçe
 

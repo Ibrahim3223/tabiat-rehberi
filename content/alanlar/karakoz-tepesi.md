@@ -29,7 +29,7 @@ wikidata_id: "Q31385698"
 
 # Karakoz Tepesi
 
-Karakoz Tepesi, İç Anadolu Bölgesi'nin göbeğinde, ziyaretçilerini büyüleyici bir manzara ile karşılayan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Karakoz Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel hayatın renklerini sunarken, tepe itself, geniş ve yeşil bir alan olarak karşılıyor.
+Karakoz Tepesi, İç Anadolu Bölgesi'nin göbeğinde, ziyaretçilerini büyüleyici bir manzara ile karşılayan bir tepe. Karakoz Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel hayatın renklerini sunarken, tepe itself, geniş ve yeşil bir alan olarak karşılıyor.
 
 ## Tarihçe
 

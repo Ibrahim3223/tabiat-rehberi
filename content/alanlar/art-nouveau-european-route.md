@@ -23,7 +23,7 @@ wikidata_id: "Q137291132"
 
 # Art Nouveau European Route
 
-İç Anadolu Bölgesi'nin geniş ve verimli topraklarında, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilerini doğanın kucağına davet ediyor. Bu bölge, geniş otlakları, bol su kaynakları ve çeşitlilik gösteren flora ve fauna ile dikkat çekiyor. Doğal güzelliklerinin yanı sıra, bu alanın tarihi geçmişi de oldukça zengin. İşte bu nedenle, burası hem doğa severler hem de tarih meraklıları için önemli bir destinasyon haline geliyor.
+ Bu bölge, geniş otlakları, bol su kaynakları ve çeşitlilik gösteren flora ve fauna ile dikkat çekiyor. Doğal güzelliklerinin yanı sıra, bu alanın tarihi geçmişi de oldukça zengin. İşte bu nedenle, burası hem doğa severler hem de tarih meraklıları için önemli bir destinasyon haline geliyor.
 
 ## Tarihçe
 

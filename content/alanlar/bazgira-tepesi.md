@@ -28,7 +28,7 @@ wikidata_id: "Q31548335"
 
 # Bazgira Tepesi
 
-Bazgira Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Siirt ilinde yer alıyor. Bu tepenin etrafında yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğa severlerin ve macera arayışındaki kişilerin ziyaret etmesi gereken bir yer. Bazgira Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Bu bölgede, mevsimsel değişimler ile birlikte farklı canlı türleri de görülebiliyor.
+Bazgira Tepesi, Güneydoğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Siirt ilinde yer alıyor. Bu bölge, doğa severlerin ve macera arayışındaki kişilerin ziyaret etmesi gereken bir yer. Bazgira Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Bu bölgede, mevsimsel değişimler ile birlikte farklı canlı türleri de görülebiliyor.
 
 ## Tarihçe
 

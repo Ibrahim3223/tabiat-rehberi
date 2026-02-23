@@ -28,7 +28,7 @@ wikidata_id: "Q31390190"
 
 # Havutbaşı Tepe
 
-Havutbaşı Tepe, Burdur'un güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, ziyaretçilerini tarihi ve coğrafi güzellikleriyle karşılar. Gökyüzünün mavi tonlarında uzanan manzaralar, ziyaretçilere doğanın güzelliğini gösterir. Havutbaşı Tepe, Burdur'un önemli bir parçası olarak bilinir ve ziyaretçilerine unutulmaz deneyimler sunar.
+Havutbaşı Tepe, Burdur'un güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu bölge, ziyaretçilerini tarihi ve coğrafi güzellikleriyle karşılar. Gökyüzünün mavi tonlarında uzanan manzaralar, ziyaretçilere doğanın güzelliğini gösterir.
 
 ## Tarihçe
 

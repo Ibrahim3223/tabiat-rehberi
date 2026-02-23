@@ -32,11 +32,11 @@ Iğdır'ın dağlık bölgesinde yer alan Dyubur Dağı, bölgenin coğrafi çe�
 
 ## Tarihçe
 
-Iğdır bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, çeşitli uygarlıkların izlerini taşır. Iğdır, histórik olarak Urartu, Roma ve Osmanlı gibi medeniyetlerin etkisinde kalmıştır. Bu bölgede, insanların yaşamları genellikle yaylacılık, hayvancılık ve ticaret yolları etrafında şekillenmiştir.
+Iğdır bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, çeşitli uygarlıkların izlerini taşır. Iğdır, tarihi olarak Urartu, Roma ve Osmanlı gibi medeniyetlerin etkisinde kalmıştır. Bu bölgede, insanların yaşamları genellikle yaylacılık, hayvancılık ve ticaret yolları etrafında şekillenmiştir.
 
-Doğal güzellikleri ve coğrafi konumuyla, Iğdır ve çevresindeki dağlar, geçmişte ticaret ve kültür alışverişinin önemli merkezleriydi. Bölge, histórik İpek Yolu'na yakınlığıyla da dikkat çeker. Bu yol, Asya ile Avrupa arasındaki ticaretin can damarı olarak bilinirdi. Iğdır'ın dağlık alanları, sadece ticaret için değil, aynı zamanda insanların doğal kaynaklarından faydalanmaları için de önemliydi.
+Doğal güzellikleri ve coğrafi konumuyla, Iğdır ve çevresindeki dağlar, geçmişte ticaret ve kültür alışverişinin önemli merkezleriydi. Bölge, tarihi İpek Yolu'na yakınlığıyla da dikkat çeker. Bu yol, Asya ile Avrupa arasındaki ticaretin can damarı olarak bilinirdi. Iğdır'ın dağlık alanları, sadece ticaret için değil, aynı zamanda insanların doğal kaynaklarından faydalanmaları için de önemliydi.
 
-Dyubur Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçasıdır. Bu tür alanlar, sadece doğal güzellikleriyle değil, aynı zamanda insanlarla olan histórik bağları ve bölgenin ekonomi ve sosyal yaşamına katkıları ile değerlidir. Iğdır bölgesinde, insanların bu doğal alanlarla olan ilişkisi, bölgeyi tarihi bir miras olarak günümüze taşır.
+Dyubur Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçasıdır. Bu tür alanlar, sadece doğal güzellikleriyle değil, aynı zamanda insanlarla olan tarihi bağları ve bölgenin ekonomi ve sosyal yaşamına katkıları ile değerlidir. Iğdır bölgesinde, insanların bu doğal alanlarla olan ilişkisi, bölgeyi tarihi bir miras olarak günümüze taşır.
 
 ## Coğrafya
 
@@ -50,7 +50,7 @@ Bölgenin ekosistem bağlamında, Dyubur dağı Iğdır Nehri'nin kuzeyinde yer 
 
 ## Flora ve Fauna
 
-Dyubur dağının yükseklik zonları, alpin flora ve fauna için bir cennet oluşturur. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açar ve renkli bir manzara ortaya çıkar. Alpin çayırlar, bölgenin karakteristik bitki örtüsünü oluşturur. 
+Dyubur dağının yükseklik zonları, alpin flora ve fauna için bir cennet oluşturur. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açar ve renkli bir manzara ortaya çıkar. Alpin çayırlar, bölgenin karakteristik bitki örtüsünü oluşturur.
 
 Yaban hayatı da bir o kadar zengin. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşar. Kuşlar ise mevsimsel olarak göç eder, sonbaharda güneye doğru hareket eder. Sürüngenler de dağların kayalık kesimlerinde yaşamlarını sürdürür.
 

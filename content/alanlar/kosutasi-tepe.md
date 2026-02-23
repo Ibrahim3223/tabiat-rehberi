@@ -28,7 +28,7 @@ wikidata_id: "Q31389426"
 
 # Koşutaşı Tepe
 
-Koşutaşı Tepe, Mersin'in gözde noktalarından biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle büyülüyor. Mersin'in coğrafi zenginliklerini keşfetmek isteyenler için Koşutaşı Tepe, önemli bir destinasyon. Buradai geçmişin izlerini, coğrafi yapının eşsizliğini ve doğal güzellikleri bir arada görebilirsiniz.
+Koşutaşı Tepe, Mersin'in gözde noktalarından biri olarak karşımıza çıkıyor. Mersin'in coğrafi zenginliklerini keşfetmek isteyenler için Koşutaşı Tepe, önemli bir destinasyon. Buradai geçmişin izlerini, coğrafi yapının eşsizliğini ve doğal güzellikleri bir arada görebilirsiniz.
 
 ## Tarihçe
 

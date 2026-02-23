@@ -28,7 +28,7 @@ wikidata_id: "Q31390832"
 
 # Bozbel Tepesi
 
-Bozbel Tepesi, Yozgat'ın doğal güzelliklerinin başlıcalarından biri olarak kabul edilir. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal miraslarından birini oluşturur. İç Anadolu Bölgesi'nin merkezi bir noktasında yer alan Bozbel Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya davet eder. Bu tepe, hem doğa severler hem de bölge tarihini merak edenler için önemli bir destinasyon olarak görülür.
+Bozbel Tepesi, Yozgat'ın doğal güzelliklerinin başlıcalarından biri olarak kabul edilir. İç Anadolu Bölgesi'nin merkezi bir noktasında yer alan Bozbel Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya davet eder. Bu tepe, hem doğa severler hem de bölge tarihini merak edenler için önemli bir destinasyon olarak görülür.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bozbel Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tarihi ile iç iç
 
 ## Coğrafya
 
-Bozbel Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumunda yer alır. Bu tepe, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin coğrafi yapısı, bölgenin genel coğrafyasını yansıtan bir yapıdadır. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, aynı zamanda bölgenin iklimini de yansıtır. Bölge iklimi, karasal iklim özellikleri taşır ve dört mevsim belirgin olarak yaşanır. Bozbel Tepesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve bu bitkiler, mevsimsel değişimlere bağlı olarak farklı renkler ve güzellikler sunar.
+Bozbel Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumunda yer alır. Tepenin coğrafi yapısı, bölgenin genel coğrafyasını yansıtan bir yapıdadır. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, aynı zamanda bölgenin iklimini de yansıtır. Bölge iklimi, karasal iklim özellikleri taşır ve dört mevsim belirgin olarak yaşanır. Bozbel Tepesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve bu bitkiler, mevsimsel değişimlere bağlı olarak farklı renkler ve güzellikler sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Bozbel Tepesi'ni ziyaret etmek, doğa severler ve bölge tarihini merak edenler 
 
 ## İlginç Bilgiler
 
-- Bozbel Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
 - Tepenin coğrafi yapısı, bölgenin genel coğrafyasını yansıtan bir yapıdadır.
 - Bozbel Tepesi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır.
 - Tepenin etrafı, çeşitli bitki türleri ile çevrilidir.

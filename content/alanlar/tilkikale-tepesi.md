@@ -28,7 +28,7 @@ wikidata_id: "Q31552405"
 
 # Tilkikale Tepesi
 
-Mardin'in tarihi ve doğal güzelliklerini keşfedeceğiniz Tilkikale Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Mardin'in merkezi ile çevresi arasındaki yeşil bir cennettir. Tilkikale Tepesi, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Burada, Mardin'in tarihi yapılarını ve çevreyi gözlemleyebilirsiniz. Tilkikale Tepesi, Mardin'i keşfetmek isteyenler için önemli bir durak noktasıdır.
+Mardin'in tarihi ve doğal güzelliklerini keşfedeceğiniz Tilkikale Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biridir. Tilkikale Tepesi, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Burada, Mardin'in tarihi yapılarını ve çevreyi gözlemleyebilirsiniz. Tilkikale Tepesi, Mardin'i keşfetmek isteyenler için önemli bir durak noktasıdır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tilkikale Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapm
 
 ## Coğrafya
 
-Tilkikale Tepesi, Mardin'in merkezi ile çevresi arasındaki bir tepe olarak, çevresindeki doğal güzellikleri sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Mardin'in yeşil cenneti olarak kabul ediliyor. Tilkikale Tepesi, çevresi ile birlikte, Mardin'in coğrafi yapısını oluşturan önemli bir parçadır. Burada, çeşitli bitki türleri ve fauna bulunmakta ve ziyaretçiler, Mardin'in doğal güzelliklerini keşfedebilir. Tilkikale Tepesi, Mardin'in coğrafi yapısını ve doğal güzelliklerini öğrenmek isteyenler için önemli bir kaynak sunuyor. Tilkikale Tepesi, Mardin'in iklimi ve coğrafi yapısını etkileyen önemli bir faktördür. Çevresindeki doğal güzellikleri ve tarihi yapıları ile birlikte, Tilkikale Tepesi, Mardin'in önemli bir parçasıdır.
+Tilkikale Tepesi, Mardin'in merkezi ile çevresi arasındaki bir tepe olarak, çevresindeki doğal güzellikleri sunuyor. Tilkikale Tepesi, çevresi ile birlikte, Mardin'in coğrafi yapısını oluşturan önemli bir parçadır. Burada, çeşitli bitki türleri ve fauna bulunmakta ve ziyaretçiler, Mardin'in doğal güzelliklerini keşfedebilir. Tilkikale Tepesi, Mardin'in coğrafi yapısını ve doğal güzelliklerini öğrenmek isteyenler için önemli bir kaynak sunuyor. Tilkikale Tepesi, Mardin'in iklimi ve coğrafi yapısını etkileyen önemli bir faktördür. Çevresindeki doğal güzellikleri ve tarihi yapıları ile birlikte, Tilkikale Tepesi, Mardin'in önemli bir parçasıdır.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108226076"
 
 # Frig Bölgesi Sit alanı
 
-Frig Bölgesi Sit alanı, İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişiyle ön plana çıkan bir bölgedir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bölge, Friglerin yerleşim yeri olarak bilinen antik kentlerin kalıntılarını barındırıyor. Friglerin tarihi, MÖ 8. yüzyıla kadar uzanıyor ve bu bölge, onların kültürel mirasının önemli bir parçası olarak kabul ediliyor. Frig Bölgesi Sit alanı, ziyaretçilerini tarihin derinliklerine götürerek, bu antik uygarlığın yaşam tarzını ve kültürel değerlerini keşfetme fırsatı sunuyor.
+Frig Bölgesi Sit alanı, İç Anadolu Bölgesi'nde yer alan ve tarihi geçmişiyle ön plana çıkan bir bölgedir. Bölge, Friglerin yerleşim yeri olarak bilinen antik kentlerin kalıntılarını barındırıyor. Friglerin tarihi, MÖ 8. yüzyıla kadar uzanıyor ve bu bölge, onların kültürel mirasının önemli bir parçası olarak kabul ediliyor. Frig Bölgesi Sit alanı, ziyaretçilerini tarihin derinliklerine götürerek, bu antik uygarlığın yaşam tarzını ve kültürel değerlerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

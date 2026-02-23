@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Lalapaşa"
 date: "2026-01-09T23:52:56.267Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245797"
 
 # Hamam, Lalapaşa
 
-Marmara Bölgesi'nin güzide illerinden Edirne'nin Lalapaşa ilçesinde yer alan Hamam, Lalapaşa plajı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, Lalapaşa'nın en büyük ve en güzel plajlarından biri olarak bilinir. Plajın uzunluğu 2 kilometreyi aşkın bir mesafeyi kapsar ve genişliği de yaklaşık 700 metreyi bulur. Lalapaşa'nın merkezine sadece 10 kilometre uzaklıkta olan Hamam, Lalapaşa plajı, bölge halkının ve turistlerin tercih ettiği bir yerdir. Plajda çeşitli hizmetler sunan tesisler bulunur ve bu tesisler, ziyaretçilere konaklama, yeme ve eğlence olanakları sağlar. Hamam, Lalapaşa plajı, Marmara Denizi'nin serin sularına sahip olan bir kıyı şerididir ve bu özelliği ile özellikle yaz aylarında ziyaretçilerini ağırlar.
+ Bu yeşil alan, Lalapaşa'nın en büyük ve en güzel plajlarından biri olarak bilinir. Plajın uzunluğu 2 kilometreyi aşkın bir mesafeyi kapsar ve genişliği de yaklaşık 700 metreyi bulur. Lalapaşa'nın merkezine sadece 10 kilometre uzaklıkta olan Hamam, Lalapaşa plajı, bölge halkının ve turistlerin tercih ettiği bir yerdir. Plajda çeşitli hizmetler sunan tesisler bulunur ve bu tesisler, ziyaretçilere konaklama, yeme ve eğlence olanakları sağlar. Hamam, Lalapaşa plajı, Marmara Denizi'nin serin sularına sahip olan bir kıyı şerididir ve bu özelliği ile özellikle yaz aylarında ziyaretçilerini ağırlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hamam, Lalapaşa plajının tarihi geçmişi, Lalapaşa ilçesinin tarihi ile i�
 
 ## Coğrafya
 
-Hamam, Lalapaşa plajı, Marmara Bölgesi'nin Edirne ilinin Lalapaşa ilçesinde yer alır. Plaj, Lalapaşa'nın merkezine 10 kilometre uzaklıkta bulunur ve bu konumu, plajı bölge halkının ve turistlerin tercih ettiği bir yer haline getirir. Hamam, Lalapaşa plajı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir plajdır. Plajın uzunluğu 2 kilometreyi aşkın bir mesafeyi kapsar ve genişliği de yaklaşık 700 metreyi bulur. Plajın bulunduğu alan, Marmara Denizi'nin serin sularına sahip olan bir kıyı şerididir. Bu özelliği, plajı özellikle yaz aylarında ziyaretçilerini ağırlayan bir yer haline getirir. Hamam, Lalapaşa plajı, Lalapaşa'nın en büyük ve en güzel plajlarından biri olarak bilinir ve plajda çeşitli hizmetler sunan tesisler bulunur. Bu tesisler, ziyaretçilere konaklama, yeme ve eğlence olanakları sağlar. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna bulunur ve bu özellik, plajı doğa severlerin tercih ettiği bir yer haline getirir.
+Hamam, Lalapaşa plajı, Marmara Bölgesi'nin Edirne ilinin Lalapaşa ilçesinde yer alır. Plaj, Lalapaşa'nın merkezine 10 kilometre uzaklıkta bulunur ve bu konumu, plajı bölge halkının ve turistlerin tercih ettiği bir yer haline getirir. Plajın uzunluğu 2 kilometreyi aşkın bir mesafeyi kapsar ve genişliği de yaklaşık 700 metreyi bulur. Plajın bulunduğu alan, Marmara Denizi'nin serin sularına sahip olan bir kıyı şerididir. Bu özelliği, plajı özellikle yaz aylarında ziyaretçilerini ağırlayan bir yer haline getirir. Hamam, Lalapaşa plajı, Lalapaşa'nın en büyük ve en güzel plajlarından biri olarak bilinir ve plajda çeşitli hizmetler sunan tesisler bulunur. Bu tesisler, ziyaretçilere konaklama, yeme ve eğlence olanakları sağlar. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna bulunur ve bu özellik, plajı doğa severlerin tercih ettiği bir yer haline getirir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Hamam, Lalapaşa plajını ziyaret etmek için, Lalapaşa merkezinden plaja gide
 
 ## İlginç Bilgiler
 
-- Hamam, Lalapaşa plajı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Plajın uzunluğu 2 kilometreyi aşkın bir mesafeyi kapsar ve genişliği de yaklaşık 700 metreyi bulur.
 - Hamam, Lalapaşa plajı, Lalapaşa'nın merkezine 10 kilometre uzaklıkta bulunur.
 - Plajda, çeşitli hizmetler sunan tesisler bulunur ve bu tesisler, ziyaretçilere konaklama, yeme ve eğlence olanakları sağlar.

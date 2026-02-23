@@ -1,7 +1,7 @@
 ---
 title: "Kasım Paşa Türbesi"
 date: "2026-01-10T06:07:24.908Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Menemen (ilçe)"

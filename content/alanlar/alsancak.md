@@ -30,7 +30,7 @@ wikidata_id: "Q4735767"
 
 # Alsancak
 
-Alsancak, İzmir'in Konak ilçesinde yer alan bir plajdır. Bu plaj, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Alsancak Plajı, yaklaşık 140 hektarlık bir alanı kaplar, bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilerin rahatça güneşlenmesine, denizde yüzmelerine ve kumda vakit geçirmelerine olanak tanır. Alsancak Plajı, özellikle yaz aylarında birçok insan tarafından ziyaret edilir. Plajın etrafındaki restoranlar ve kafeler, ziyaretçilere çeşitli yeme ve içecek seçenekleri sunar.
+Alsancak, İzmir'in Konak ilçesinde yer alan bir plajdır. Bu plaj, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu geniş alan, ziyaretçilerin rahatça güneşlenmesine, denizde yüzmelerine ve kumda vakit geçirmelerine olanak tanır. Alsancak Plajı, özellikle yaz aylarında birçok insan tarafından ziyaret edilir. Plajın etrafındaki restoranlar ve kafeler, ziyaretçilere çeşitli yeme ve içecek seçenekleri sunar.
 
 ## Tarihçe
 

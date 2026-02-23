@@ -1,7 +1,7 @@
 ---
 title: "Hamza Baba Türbesi"
 date: "2026-01-10T05:09:35.115Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391572"
 
 # Hamza Baba Türbesi
 
-Hamza Baba Türbesi, İzmir'in Kemalpaşa ilçesinde yer alan bir plaj ve tarihi mekan. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Hamza Baba Türbesi, hem tarihi geçmişi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Plajın etrafında çeşitli bitki türleri ve zengin fauna encontruyor, bu da burayı doğa severler için bir cennet haline getiriyor. Hamza Baba Türbesi, hem dinî bir merkez hem de doğal bir güzellik olarak dikkat çekiyor.
+Hamza Baba Türbesi, İzmir'in Kemalpaşa ilçesinde yer alan bir plaj ve tarihi mekan. Hamza Baba Türbesi, hem tarihi geçmişi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Plajın etrafında çeşitli bitki türleri ve zengin fauna encontruyor, bu da burayı doğa severler için bir cennet haline getiriyor. Hamza Baba Türbesi, hem dinî bir merkez hem de doğal bir güzellik olarak dikkat çekiyor.
 
 ## Tarihçe
 

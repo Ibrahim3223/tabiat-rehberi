@@ -30,7 +30,7 @@ wikidata_id: "Q131391786"
 
 # Sarıkız Tepe
 
-Sarıkız Tepe, Marmara Bölgesi'nin Edremit ilçesinde, 140 hektarlık bir alanı kaplayan yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkıyor. Bu bölge, doğal güzelliği ve çeşitli bitki türleri ile dikkat çekiyor. Sarıkız Tepe, aynı zamanda tarihi geçmişi ile de ziyaretçilerini bekliyor. Burası, yüzyıllar boyunca farklı uygarlıkların yerleşim yerlerinden biri olarak biliniyor. Sarıkız Tepe'nin etrafı, zengin fauna ile dolu ve çeşitli hayvan türleri tarafından mesken tutuluyor.
+ Bu bölge, doğal güzelliği ve çeşitli bitki türleri ile dikkat çekiyor. Sarıkız Tepe, aynı zamanda tarihi geçmişi ile de ziyaretçilerini bekliyor. Burası, yüzyıllar boyunca farklı uygarlıkların yerleşim yerlerinden biri olarak biliniyor. Sarıkız Tepe'nin etrafı, zengin fauna ile dolu ve çeşitli hayvan türleri tarafından mesken tutuluyor.
 
 ## Tarihçe
 

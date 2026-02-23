@@ -32,7 +32,7 @@ Gaziantep'in dağlık bölgelerinde, coğrafyanın tüm ihtişamı Sarıyaprak D
 
 ## Tarihçe
 
-Gaziantep bölgesi, tarihin sâu sayfalarına kadar uzanan bir geçmişe sahiptir. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu bölge, tarihi ve kültürel zenginliklerin birleştiği bir noktadır. Sarıyaprak Dağı da bu zenginliklerin bir parçası olarak, bölgenin doğal güzelliklerini sunar.
+Gaziantep bölgesi, tarihin derin sayfalarına kadar uzanan bir geçmişe sahiptir. Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu bölge, tarihi ve kültürel zenginliklerin birleştiği bir noktadır. Sarıyaprak Dağı da bu zenginliklerin bir parçası olarak, bölgenin doğal güzelliklerini sunar.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendirmiştir. Gaziantep bölgesinde de, tarihi ticaret yollarının geçtiği bu coğrafya, insanların yaşamını ve kültürünü etkilemiştir.
 

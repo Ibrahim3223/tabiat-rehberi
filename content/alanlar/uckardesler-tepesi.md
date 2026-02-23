@@ -28,7 +28,7 @@ wikidata_id: "Q34820510"
 
 # Üçkardeşler Tepesi
 
-Üçkardeşler Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Bu tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Üçkardeşler Tepesi, aynı zamanda Ankara'nın önemli bir turizm merkezidir ve birçok ziyaretçi tarafından tercih edilmektedir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar ve Ankara'nın panoramik görünümü izlenebilir.
+ Bu tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Üçkardeşler Tepesi, aynı zamanda Ankara'nın önemli bir turizm merkezidir ve birçok ziyaretçi tarafından tercih edilmektedir. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar ve Ankara'nın panoramik görünümü izlenebilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34820510"
 
 ## Coğrafya
 
-Üçkardeşler Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Üçkardeşler Tepesi'nin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar ve Ankara'nın panoramik görünümü izlenebilir. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklimdir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kuru geçmektedir. Tepenin çevresi, Ankara'nın önemli turizm merkezlerine yakın olmakla birlikte, doğal güzelliği ve tarihi geçmişi ile dikkat çekmektedir.
+ Tepenin etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Üçkardeşler Tepesi'nin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunar ve Ankara'nın panoramik görünümü izlenebilir. Tepenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklimdir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kuru geçmektedir. Tepenin çevresi, Ankara'nın önemli turizm merkezlerine yakın olmakla birlikte, doğal güzelliği ve tarihi geçmişi ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 

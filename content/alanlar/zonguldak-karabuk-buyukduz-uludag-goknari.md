@@ -22,7 +22,7 @@ wikidata_id: "Q108227292"
 
 # Zonguldak-Karabuk-Buyukduz Uludag Goknari
 
-Zonguldak-Karabuk-Buyukduz Uludag Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal ve tarihi güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine eşsiz bir deneyim sunar. Zonguldak ilinin Karabuk ilçesinde yer alan bu milli park, aynı zamanda Buyukduz ve Uludag gibi önemli dağların eteklerinde bulunmaktadır. Goknari olarak bilinen bu bölge, hem doğal güzellikleri hem de tarihi zenginlikleriyle dikkat çekmektedir. Ziyaretçiler, bu milli parkta hem doğayı keşfedebilir hem de tarihin izlerini sürebilir.
+Zonguldak-Karabuk-Buyukduz Uludag Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal ve tarihi güzelliklerinden biridir. Zonguldak ilinin Karabuk ilçesinde yer alan bu milli park, aynı zamanda Buyukduz ve Uludag gibi önemli dağların eteklerinde bulunmaktadır. Goknari olarak bilinen bu bölge, hem doğal güzellikleri hem de tarihi zenginlikleriyle dikkat çekmektedir. Ziyaretçiler, bu milli parkta hem doğayı keşfedebilir hem de tarihin izlerini sürebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Zonguldak-Karabuk-Buyukduz Uludag Goknari milli parkının tarihi geçmişi, yü
 
 ## Coğrafya
 
-Zonguldak-Karabuk-Buyukduz Uludag Goknari milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en önemli bölgelerinden biridir. Bu milli park, Karabuk ilçesinde yer alır ve Buyukduz ile Uludag dağlarının eteklerine kurulmuştur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine eşsiz bir deneyim sunar. Bu milli parkın coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikler sunar. Ziyaretçiler, bu milli parkta hem dağları hem de ormanları keşfedebilir. Bu bölgenin iklimi, Karadeniz Bölgesi'nin genel iklimine benzer ve ziyaretçilerine serin ve ferah bir atmosfer sunar. Zonguldak-Karabuk-Buyukduz Uludag Goknari milli parkı, hem doğal güzellikleri hem de coğrafi yapısıyla dikkat çekmektedir.
+Zonguldak-Karabuk-Buyukduz Uludag Goknari milli parkı, Karadeniz Bölgesi'nin coğrafi olarak en önemli bölgelerinden biridir. Bu milli park, Karabuk ilçesinde yer alır ve Buyukduz ile Uludag dağlarının eteklerine kurulmuştur. Bu milli parkın coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikler sunar. Ziyaretçiler, bu milli parkta hem dağları hem de ormanları keşfedebilir. Bu bölgenin iklimi, Karadeniz Bölgesi'nin genel iklimine benzer ve ziyaretçilerine serin ve ferah bir atmosfer sunar. Zonguldak-Karabuk-Buyukduz Uludag Goknari milli parkı, hem doğal güzellikleri hem de coğrafi yapısıyla dikkat çekmektedir.
 
 ## Flora ve Fauna
 

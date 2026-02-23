@@ -1,7 +1,7 @@
 ---
 title: "Mem-u Zin Türbesi"
 date: "2026-01-10T06:03:16.016Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şırnak"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390524"
 
 # Mem-u Zin Türbesi
 
-Mem-u Zin Türbesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinin Cizre ilçesinde bulunan tarihi bir mekan. 140 hektarlık bir alan üzerinde kurulmuş olan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tarihi ve kültürel önemiyle dikkat çeken bu mekan, ziyaretçilerini geçmişin derinliklerine götürüyor. Türbenin mimarisi, bölgenin geleneksel tarzını yansıtıyor ve ziyaretçilere eşsiz bir deneyim sunuyor.
+Mem-u Zin Türbesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinin Cizre ilçesinde bulunan tarihi bir mekan. Tarihi ve kültürel önemiyle dikkat çeken bu mekan, ziyaretçilerini geçmişin derinliklerine götürüyor. Türbenin mimarisi, bölgenin geleneksel tarzını yansıtıyor ve ziyaretçilere eşsiz bir deneyim sunuyor.
 
 ## Tarihçe
 

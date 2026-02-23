@@ -22,7 +22,7 @@ wikidata_id: "Q108228697"
 
 # TÜRK DÜNYASI SEYİR ORMANI
 
-Türk Dünyası Seyir Ormanı, İç Anadolu Bölgesi'nin göbeğinde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan muazzam bir doğal alan. Bu orman, ziyaretçilerini hem doğanın güzelliği hem de zengin yaban hayatı ile büyülemeye geliyor. 140 hektarlık bu yeşil alan, sadece bir gezi alanı değil, aynı zamanda doğa severler ve yaban hayatı meraklıları için bir cennet. Orman, çevresindeki doğal güzelliklerle birlikte ziyaretçilerine benzersiz bir deneyim sunuyor.
+ Bu orman, ziyaretçilerini hem doğanın güzelliği hem de zengin yaban hayatı ile büyülemeye geliyor. 140 hektarlık bu yeşil alan, sadece bir gezi alanı değil, aynı zamanda doğa severler ve yaban hayatı meraklıları için bir cennet. Orman, çevresindeki doğal güzelliklerle birlikte ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

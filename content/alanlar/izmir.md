@@ -23,7 +23,7 @@ wikidata_id: "Q108228726"
 
 # İZMİR
 
-İzmir milli parkı, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar. Bu bölge, çeşitli bitki türleriyle zengin bir flora sunarken, aynı zamanda yaban hayatıyla da dikkat çeker. İzmir milli parkı, tarihi geçmişi ve coğrafi yapısıyla da ziyaretçilerini etkileyen bir destinasyon olarak öne çıkıyor.
+ Bu bölge, çeşitli bitki türleriyle zengin bir flora sunarken, aynı zamanda yaban hayatıyla da dikkat çeker. İzmir milli parkı, tarihi geçmişi ve coğrafi yapısıyla da ziyaretçilerini etkileyen bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ wikidata_id: "Q108228726"
 
 ## Coğrafya
 
-İzmir milli parkı, coğrafi olarak Inner Anadolu Bölgesi'nde yer alıyor. Bu bölge, farklı coğrafi şekilleriyle dikkat çekerken, aynı zamanda iklimi de ziyaretçilerine unutulmaz anlar yaşatabiliyor. İzmir milli parkının coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak sağlarken, yaban hayatı da bu bölgede kendine yer buluyor. 140 hektarlık yeşil alan, ziyaretçilere geniş bir faaliyet alanı sunuyor. İzmir milli parkının coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı deneyimler yaşama fırsatı tanıyor.
+İzmir milli parkı, coğrafi olarak Inner Anadolu Bölgesi'nde yer alıyor. İzmir milli parkının coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak sağlarken, yaban hayatı da bu bölgede kendine yer buluyor. 140 hektarlık yeşil alan, ziyaretçilere geniş bir faaliyet alanı sunuyor. İzmir milli parkının coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı deneyimler yaşama fırsatı tanıyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası"
 date: "2026-01-10T04:35:01.492Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133683556"
 
 # Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası
 
-Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir yapıdır. Bu yapı, 140 hektarlık Yıldız Sarayı kompleksinin içerisinde bulunmaktadır. Yıldız Sarayı kompleksi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere doğanın güzelliğini ve tarihi yapıların ihtişamını keşfetme fırsatı sunar. Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, Osmanlı mimarisinin örneklerinden biri olarak kabul edilir ve ziyaretçileri tarihin derinliklerine götürür.
+Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir yapıdır. Bu yapı, 140 hektarlık Yıldız Sarayı kompleksinin içerisinde bulunmaktadır. Bu geniş alan, ziyaretçilere doğanın güzelliğini ve tarihi yapıların ihtişamını keşfetme fırsatı sunar. Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, Osmanlı mimarisinin örneklerinden biri olarak kabul edilir ve ziyaretçileri tarihin derinliklerine götürür.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, ziyaretçilere tar
 
 - Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, Osmanlı mimarisinin örneklerinden biridir.
 - Bu yapı, 140 hektarlık Yıldız Sarayı kompleksinin içerisinde yer alır.
-- Yıldız Sarayı kompleksi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Bu kompleks, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunar.
 - Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası, tarihinin her döneminde önemli bir rol oynamıştır.

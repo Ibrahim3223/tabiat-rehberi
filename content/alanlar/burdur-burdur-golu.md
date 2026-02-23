@@ -23,7 +23,7 @@ wikidata_id: "Q108228371"
 
 # Burdur-Burdur Golu
 
-Burdur-Burdur Gölü, Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı ile dikkat çekici bir doğal güzellik olarak karşımıza çıkıyor. Bu alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Gölün etrafında, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunduğu için, ziyaretçiler için geniş bir gezi alanı sunuyor. Burdur Gölü, aynı zamanda önemli birsu kuşu habitatı olarak biliniyor.
+Burdur-Burdur Gölü, Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı ile dikkat çekici bir doğal güzellik olarak karşımıza çıkıyor. Bu alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Burdur Gölü, aynı zamanda önemli birsu kuşu habitatı olarak biliniyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Burdur Gölü'nü ziyaret etmek, ziyaretçiler için önemli bir deneyim sunuyor
 ## İlginç Bilgiler
 
 - Burdur Gölü, Türkiye'nin önemli doğal güzelliklerinden biri.
-- Gölün etrafında, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunuyor.
+
 - Göl, önemli bir su kuşu habitatı olarak biliniyor.
 - Gölün iklimi, Akdeniz ikliminin karakteristik özellikleri ile şekilleniyor.
 - Gölde, çeşitli su sporları ve doğa yürüyüşü gibi faaliyetler yapılabiliyor.

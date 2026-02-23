@@ -32,11 +32,11 @@ Erzurum'un doğal güzelliklerinin arasında yer alan Karahanlı Dağı, ziyaret
 
 ## Tarihçe
 
-Erzurum'un doğusunda yükselen Karahanlı Dağı, tarihin sâu izlerini taşıyan bir bölgeye ev sahipliği yapıyor. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların izlerini taşıyan önemli bir kültür merkezi olarak varlık göstermiştir. Erzurum'un genel tarihi, Hititlerden başlayarak Roma ve Bizans dönemlerine, ardından Selçuklu ve Osmanlı İmparatorluğu'nun hakimiyetine kadar uzanan geniş bir zaman dilimini kapsıyor. 
+Erzurum'un doğusunda yükselen Karahanlı Dağı, tarihin derin izlerini taşıyan bir bölgeye ev sahipliği yapıyor. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların izlerini taşıyan önemli bir kültür merkezi olarak varlık göstermiştir. Erzurum'un genel tarihi, Hititlerden başlayarak Roma ve Bizans dönemlerine, ardından Selçuklu ve Osmanlı İmparatorluğu'nun hakimiyetine kadar uzanan geniş bir zaman dilimini kapsıyor.
 
-Karahanlı Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bir yere sahip. Bu alanlar, yüzyıllar boyunca insanların yaşadığı, tarım yaptığı, hayvancılık faaliyetleri gerçekleştirdiği ve ticaret yolları olarak kullandığı bölgeler olarak dikkat çekiyorlar. Özellikle yaylacılık geleneği, bu bölgede yaşayan insanların yaşam tarzını ve kültürel kimliğini şekillendirmiş. 
+Karahanlı Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bir yere sahip. Bu alanlar, yüzyıllar boyunca insanların yaşadığı, tarım yaptığı, hayvancılık faaliyetleri gerçekleştirdiği ve ticaret yolları olarak kullandığı bölgeler olarak dikkat çekiyorlar. Özellikle yaylacılık geleneği, bu bölgede yaşayan insanların yaşam tarzını ve kültürel kimliğini şekillendirmiş.
 
-İnsanların Karahanlı Dağı ile olan ilişkisi, bölgenin coğrafi konumu nedeniyle ticaret yolları ve göç rotaları üzerinde bulunmasından da etkileniyor. Bu doğal alanlar, aynı zamanda insanların doğaya olan bağını ve yaşam tarzını yansıtan önemli birer miras olarak görülüyor. Tarihin sâu izlerini taşıyan Karahanlı Dağı, Erzurum'un zengin kültürel ve tarihi mirasının bir parçası olarak dikkat çekiyor.
+İnsanların Karahanlı Dağı ile olan ilişkisi, bölgenin coğrafi konumu nedeniyle ticaret yolları ve göç rotaları üzerinde bulunmasından da etkileniyor. Bu doğal alanlar, aynı zamanda insanların doğaya olan bağını ve yaşam tarzını yansıtan önemli birer miras olarak görülüyor. Tarihin derin izlerini taşıyan Karahanlı Dağı, Erzurum'un zengin kültürel ve tarihi mirasının bir parçası olarak dikkat çekiyor.
 
 ## Coğrafya
 
@@ -50,10 +50,10 @@ Yüksekli ve iklim koşulları açısından Karahanlı Dağı, bölgenin karakte
 
 ## Flora ve Fauna
 
-Karahanlı Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Karahanlı Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü:
-İlkbaharda, dağ eteklerinde çiçekler açar, yaz aylarında alpin çayırlar yeşerir. Sonbaharda, yaprak döken ağaçlar renk cümbüşü sunar. 
+İlkbaharda, dağ eteklerinde çiçekler açar, yaz aylarında alpin çayırlar yeşerir. Sonbaharda, yaprak döken ağaçlar renk cümbüşü sunar.
 
 Yaban Hayatı:
 Dağ keçileri, ayılar ve kurtlar yaşam alanı bulur. Kuşlar, özellikle göç mevsimlerinde, dağların yükseklik zonlarını dolduran bir manzara sunar.

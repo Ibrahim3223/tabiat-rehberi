@@ -30,7 +30,7 @@ wikidata_id: "Q135582811"
 
 # Usta Şagirt Kümbeti
 
-Ahlat, Bitlis'in güzide bir ilçesi olarak, tarihin derinliklerinden gelen bir kültür mirasına ev sahipliği yapıyor. Burada, Usta Şagirt Kümbeti, tarihi ve doğal güzelliği bir araya getiren özel bir mekan olarak dikkat çekiyor. Doğu Anadolu Bölgesi'nin coğrafi çeşitliliği, Usta Şagirt Kümbeti'nin bulunduğu bölgede de kendini gösteriyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğal ve tarihi alanı temsil ediyor. Bu büyüklük, ziyaretçilere geniş bir keşif alanı sunuyor.
+Ahlat, Bitlis'in güzide bir ilçesi olarak, tarihin derinliklerinden gelen bir kültür mirasına ev sahipliği yapıyor. Burada, Usta Şagirt Kümbeti, tarihi ve doğal güzelliği bir araya getiren özel bir mekan olarak dikkat çekiyor. Doğu Anadolu Bölgesi'nin coğrafi çeşitliliği, Usta Şagirt Kümbeti'nin bulunduğu bölgede de kendini gösteriyor. Bu büyüklük, ziyaretçilere geniş bir keşif alanı sunuyor.
 
 ## Tarihçe
 

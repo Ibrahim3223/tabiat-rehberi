@@ -29,7 +29,7 @@ wikidata_id: "Q131738534"
 
 # Sakarıılıca Kaplıcaları
 
-Sakarıılıca Kaplıcaları, Eskişehir'in Mihalgazi ilçesinde yer alan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Bu kaplıca, bölgenin en önemli turizm merkezlerinden biri olarak kabul edilir. Doğal güzelliği, termal suları ve zengin flora ile fauna çeşitliliğiyle ziyaretçilerini cezbeder. Sakarıılıca Kaplıcaları, hem sağlık hem de doğa severler için ideal bir destinasyon olarak görülür. Burada, kaplıcanın tarihi geçmişi, coğrafi konumu ve doğal güzellikleri hakkında detaylı bilgi edinebilir, aynı zamanda ziyaretçilerin experiencesini ve önerilerini okuyabilirsiniz.
+ Bu kaplıca, bölgenin en önemli turizm merkezlerinden biri olarak kabul edilir. Doğal güzelliği, termal suları ve zengin flora ile fauna çeşitliliğiyle ziyaretçilerini cezbeder. Sakarıılıca Kaplıcaları, hem sağlık hem de doğa severler için ideal bir destinasyon olarak görülür. Burada, kaplıcanın tarihi geçmişi, coğrafi konumu ve doğal güzellikleri hakkında detaylı bilgi edinebilir, aynı zamanda ziyaretçilerin experiencesini ve önerilerini okuyabilirsiniz.
 
 ## Tarihçe
 

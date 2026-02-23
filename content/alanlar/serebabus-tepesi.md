@@ -28,7 +28,7 @@ wikidata_id: "Q31548942"
 
 # Şerebabuş Tepesi
 
-Şerebabuş Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan ve Siirt'in önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şerebabuş Tepesi, ziyaretçilerini kendine hayran bırakıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Şerebabuş Tepesi, aynı zamanda tarihsel bir geçmişe sahip.
+Şerebabuş Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan ve Siirt'in önemli doğal güzelliklerinden biri olan bir tepe. Şerebabuş Tepesi, ziyaretçilerini kendine hayran bırakıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Şerebabuş Tepesi, aynı zamanda tarihsel bir geçmişe sahip.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ wikidata_id: "Q31548942"
 
 ## İlginç Bilgiler
 
-- Şerebabuş Tepesi, yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
 - Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor.
 - Şerebabuş Tepesi, aynı zamanda tarihsel bir geçmişe sahip.
 - Tepenin yakınında, çeşitli köyler ve kasabalar bulunmakta.

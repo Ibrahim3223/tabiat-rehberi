@@ -28,7 +28,7 @@ wikidata_id: "Q31387926"
 
 # Kabak Tepesi (Giresun, 40.53 Kuzey)
 
-Kabak Tepesi, Giresun'un en yüksek noktalarından biri olarak 40.53 Kuzey enleminde yer alır. Bu tepe, yaklaşık 1400 metrelik yüksekliği ile çevredeki diğer tepelerden ayrılmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini doğal güzelliği ile karşılar. Giresun'un merkezine uzun bir mesafe uzaklıkta bulunan Kabak Tepesi, Karadeniz Bölgesi'nin önemli doğal ve tarihi noktalarından biridir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Kabak Tepesi, Giresun'un en yüksek noktalarından biri olarak 40.53 Kuzey enleminde yer alır. Bu tepe, yaklaşık 1400 metrelik yüksekliği ile çevredeki diğer tepelerden ayrılmaktadır. Giresun'un merkezine uzun bir mesafe uzaklıkta bulunan Kabak Tepesi, Karadeniz Bölgesi'nin önemli doğal ve tarihi noktalarından biridir. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Ermeni Hamamı"
 date: "2026-01-09T22:49:19.720Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738665"
 
 # Ermeni Hamamı
 
-Eskişehir'in Sivrihisar ilçesinde bulunan Ermeni Hamamı, tarihi ve doğal güzelliklerin birleştiği özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir alan sunuyor. Ermeni Hamamı, Sivrihisar'ın merkezine uzun bir mesafe uzaklıkta ve bu konum, ziyaretçilere hem doğal güzellikleri hem de tarihi yerleri keşfetme imkanı sağlıyor. Eskişehir'in coğrafi konumu, İç Anadolu Bölgesi'nde yer alması nedeniyle, ziyaretçilere çeşitli iklim koşulları sunuyor.
+Eskişehir'in Sivrihisar ilçesinde bulunan Ermeni Hamamı, tarihi ve doğal güzelliklerin birleştiği özel bir mekan. Ermeni Hamamı, Sivrihisar'ın merkezine uzun bir mesafe uzaklıkta ve bu konum, ziyaretçilere hem doğal güzellikleri hem de tarihi yerleri keşfetme imkanı sağlıyor. Eskişehir'in coğrafi konumu, İç Anadolu Bölgesi'nde yer alması nedeniyle, ziyaretçilere çeşitli iklim koşulları sunuyor.
 
 ## Tarihçe
 

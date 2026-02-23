@@ -28,7 +28,7 @@ wikidata_id: "Q31389485"
 
 # Erikli Tepe
 
-Erikli Tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak karşımıza çıkıyor. Gaziantep'in tarihi ve doğal güzelliklerini bir araya getiren bu bölge, ziyaretçilerini geçmişin depthsine götürmeyi vaat ediyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada geçirilecek her dakika, bu toprakların derin tarihini ve kültürünü keşfetmek için bir fırsat sunuyor. Doğal güzellikleri, tarihi kalıntıları ve coğrafi konumuyla Erikli Tepe, gezginler için gerçek bir hazine.
+Erikli Tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak karşımıza çıkıyor. Gaziantep'in tarihi ve doğal güzelliklerini bir araya getiren bu bölge, ziyaretçilerini geçmişin depthsine götürmeyi vaat ediyor. Doğal güzellikleri, tarihi kalıntıları ve coğrafi konumuyla Erikli Tepe, gezginler için gerçek bir hazine.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Erikli Tepe'nin tarihi geçmişi, Güneydoğu Anadolu Bölgesi'nin zengin kült�
 
 ## Coğrafya
 
-Erikli Tepe, coğrafi konumu itibariyle de oldukça önemli bir noktada yer alıyor. Güneydoğu Anadolu Bölgesi'nin merkezi bir konumda bulunan Gaziantep'te yer alan bu tepe, çevresindeki doğal güzelliklerle birlikte bir bütün teşkil ediyor. 180 hektarlık bir alana yayılan bu bölge, yaklaşık 250 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. İklimi, bölgenin genel iklimine uygun olarak yazları sıcak, kışları soğuk geçiyor. Çevresindeki dağlar ve vadiler, bu bölgeyi bir doğal güzellik cenneti haline getiriyor. Doğal güzellikleri, tarihi kalıntıları ve coğrafi konumuyla Erikli Tepe, ziyaretçilerini büyülemeye hazır.
+Erikli Tepe, coğrafi konumu itibariyle de oldukça önemli bir noktada yer alıyor. Güneydoğu Anadolu Bölgesi'nin merkezi bir konumda bulunan Gaziantep'te yer alan bu tepe, çevresindeki doğal güzelliklerle birlikte bir bütün teşkil ediyor. İklimi, bölgenin genel iklimine uygun olarak yazları sıcak, kışları soğuk geçiyor. Çevresindeki dağlar ve vadiler, bu bölgeyi bir doğal güzellik cenneti haline getiriyor. Doğal güzellikleri, tarihi kalıntıları ve coğrafi konumuyla Erikli Tepe, ziyaretçilerini büyülemeye hazır.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Erikli Tepe'yi ziyaret etmek, bir gezi değil, aynı zamanda bir zaman yolculuğ
 
 - Erikli Tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri.
 - Bu bölge, 140 hektarlık bir alana yayılıyor.
-- Erikli Tepe, flora ve fauna açısından oldukça zengin bir bölge.
+
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor.
 - Erikli Tepe, coğrafi konumu itibariyle de oldukça önemli bir noktada yer alıyor.

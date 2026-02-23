@@ -28,7 +28,7 @@ wikidata_id: "Q61076492"
 
 # Koçkabanı Şelalesi
 
-Koçkabanı Şelalesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Rize'de yer alan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alanda, 200 futbol sahası büyüklüğünde bir yeşil alanın içerisinde yer alıyor. Şelalenin güzelliği, çevresindeki yeşilliklerle birlikte insanın doğayla iç içe olmasına olanak sağlıyor. Koçkabanı Şelalesi, Rize'nin İkizdere ilçesinde, tarihi ve doğal güzelliklerinin birleştiği bir bölgede bulunuyor.
+Koçkabanı Şelalesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Rize'de yer alan bir doğa harikasıdır. Şelalenin güzelliği, çevresindeki yeşilliklerle birlikte insanın doğayla iç içe olmasına olanak sağlıyor. Koçkabanı Şelalesi, Rize'nin İkizdere ilçesinde, tarihi ve doğal güzelliklerinin birleştiği bir bölgede bulunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Koçkabanı Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca bölgenin öneml
 
 ## Coğrafya
 
-Koçkabanı Şelalesi, Rize'nin İkizdere ilçesinde, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak yer alıyor. Şelale, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içerisinde yer alıyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın tüm güzelliğini sunuyor. Koçkabanı Şelalesi'nin coğrafi konumu, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, yeşilli ve nemlilik açısından zengindir. Şelale, yüksek bir noktada yer alıyor ve çevresindeki manzara, ziyaretçilere büyüleyici bir görünüm sunuyor.
+Koçkabanı Şelalesi, Rize'nin İkizdere ilçesinde, Karadeniz Bölgesi'nin en güzel noktalarından biri olarak yer alıyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın tüm güzelliğini sunuyor. Koçkabanı Şelalesi'nin coğrafi konumu, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak, yeşilli ve nemlilik açısından zengindir. Şelale, yüksek bir noktada yer alıyor ve çevresindeki manzara, ziyaretçilere büyüleyici bir görünüm sunuyor.
 
 ## Flora ve Fauna
 

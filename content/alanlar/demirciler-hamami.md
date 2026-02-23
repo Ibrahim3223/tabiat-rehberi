@@ -1,7 +1,7 @@
 ---
 title: "Demirciler Hamamı"
 date: "2026-01-09T23:39:01.924Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739157"
 
 # Demirciler Hamamı
 
-Demirciler Hamamı, Kocaeli'nin Gebze ilçesinde bulunan bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en güzel doğal güzelliklerinden biridir. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çeken bir destinasyondur. Demirciler Hamamı, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini cezbeden bir yerdir. Bu alan, yaklaşık 1000 metre uzunluğundaki kumsalı ve berrak denizi ile ünlü bir plajdır.
+Demirciler Hamamı, Kocaeli'nin Gebze ilçesinde bulunan bir plajdır. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çeken bir destinasyondur. Demirciler Hamamı, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini cezbeden bir yerdir. Bu alan, yaklaşık 1000 metre uzunluğundaki kumsalı ve berrak denizi ile ünlü bir plajdır.
 
 ## Tarihçe
 

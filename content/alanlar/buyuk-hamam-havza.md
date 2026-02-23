@@ -1,7 +1,7 @@
 ---
 title: "Büyük Hamam Havza"
 date: "2026-01-09T22:34:16.765Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738711"
 
 # Büyük Hamam Havza
 
-Büyük Hamam Havza, Karadeniz Bölgesi'nin Samsun ilinin Havza ilçesinde bulunan bir doğal güzelliktir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli turizm merkezlerinden biridir. Büyük Hamam Havza, ziyaretçilerine doğal güzelliği, temiz havası ve bol oksijeni ile birlikte unutulmaz bir deneyim sunar. Bu bölge, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Büyük Hamam Havza, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
+Büyük Hamam Havza, Karadeniz Bölgesi'nin Samsun ilinin Havza ilçesinde bulunan bir doğal güzelliktir. Büyük Hamam Havza, ziyaretçilerine doğal güzelliği, temiz havası ve bol oksijeni ile birlikte unutulmaz bir deneyim sunar. Büyük Hamam Havza, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Büyük Hamam Havza'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Büyük Hamam Havza, Karadeniz Bölgesi'nin Samsun ilinin Havza ilçesinde bulunur. Bu bölge, 140 hektarlık bir yeşil alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Büyük Hamam Havza, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu bölge, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Büyük Hamam Havza'nın coğrafi konumu, ziyaretçilerine unutulmaz bir deneyim sunar. Bu bölge, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Büyük Hamam Havza, aynı zamanda temiz havası ve bol oksijeni ile birlikte ziyaretçilerine sağlık açısından da önemli faydalar sağlar. Bu bölge, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl birçok ziyaretçi tarafından tercih edilir.
+Büyük Hamam Havza, Karadeniz Bölgesi'nin Samsun ilinin Havza ilçesinde bulunur. Büyük Hamam Havza, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu bölge, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Büyük Hamam Havza, aynı zamanda temiz havası ve bol oksijeni ile birlikte ziyaretçilerine sağlık açısından da önemli faydalar sağlar. Bu bölge, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl birçok ziyaretçi tarafından tercih edilir.
 
 ## Flora ve Fauna
 
-Büyük Hamam Havza, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl birçok ziyaretçi tarafından tercih edilir. Büyük Hamam Havza, aynı zamanda temiz havası ve bol oksijeni ile birlikte ziyaretçilerine sağlık açısından da önemli faydalar sağlar. Bu bölge, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Büyük Hamam Havza, özellikle mevsimsel değişimlerle birlikte ziyaretçilerine unutulmaz bir deneyim sunar. Bu bölge, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker ve ziyaretçilerine doğal güzelliği ile birlikte unutulmaz bir deneyim sunar.
+ Bu bölge, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl birçok ziyaretçi tarafından tercih edilir. Büyük Hamam Havza, aynı zamanda temiz havası ve bol oksijeni ile birlikte ziyaretçilerine sağlık açısından da önemli faydalar sağlar. Bu bölge, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
 
 ## Ziyaret Bilgileri
 
@@ -50,7 +50,7 @@ Büyük Hamam Havza, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden bir
 ## İlginç Bilgiler
 
 - Büyük Hamam Havza, 140 hektarlık bir yeşil alana sahiptir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Büyük Hamam Havza, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir.
-- Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Büyük Hamam Havza, her yıl binlerce ziyaretçi tarafından tercih edilir.

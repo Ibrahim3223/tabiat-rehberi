@@ -1,7 +1,7 @@
 ---
 title: "Pergamon Küçük Gymnasium Hamamı"
 date: "2026-01-09T23:28:25.976Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739093"
 
 # Pergamon Küçük Gymnasium Hamamı
 
-Pergamon Küçük Gymnasium Hamamı, Ege Bölgesi'nin Bergama ilçesinde yer alan ve tarihin derinliklerine ışık tutan önemli bir antik eserdir. Bu tarihi mekan, Bergama'nın zengin kültürel mirasının bir parçası olarak ziyaretçilerini bekliyor. 140 hektarlık bir alanda yer alan Pergamon antik kenti, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş alan, antik dönemin mimari ve kültürel zenginliğini yansıtıyor. Pergamon Küçük Gymnasium Hamamı, bu büyük alanın bir bölümünde yer alıyor ve antik dönemdeki eğitim ve spor aktivitelerinin merkezi olarak kullanılıyordu.
+Pergamon Küçük Gymnasium Hamamı, Ege Bölgesi'nin Bergama ilçesinde yer alan ve tarihin derinliklerine ışık tutan önemli bir antik eserdir. Bu tarihi mekan, Bergama'nın zengin kültürel mirasının bir parçası olarak ziyaretçilerini bekliyor. Bu geniş alan, antik dönemin mimari ve kültürel zenginliğini yansıtıyor. Pergamon Küçük Gymnasium Hamamı, bu büyük alanın bir bölümünde yer alıyor ve antik dönemdeki eğitim ve spor aktivitelerinin merkezi olarak kullanılıyordu.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Pergamon Küçük Gymnasium Hamamı'nı ziyaret etmek, antik dünyanın atmosfer
 
 - Pergamon Küçük Gymnasium Hamamı, antik Pergamon'un önemli bir parçasıdır.
 - Bu hamam, eğitim ve spor için kullanılan bir tesis olarak inşa edilmiştir.
-- Pergamon antik kenti, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Pergamon'un coğrafyası, zengin bir bitki örtüsüne ve fauna çeşitliliğine ev sahipliği yapıyor.
 - Pergamon Küçük Gymnasium Hamamı, yüzyıllar boyunca korunmuş ve tarihi önemini koruyor.

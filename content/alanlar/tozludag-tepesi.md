@@ -28,7 +28,7 @@ wikidata_id: "Q31390249"
 
 # Tozludağ Tepesi
 
-Tozludağ Tepesi, Adana'nın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tozludağ Tepesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle büyülüyor. Tepenin eteklerinde yer alan köyler, gelen ziyaretçilere sıcak bir karşılama sunarken, tepeye tırmanırken karşılaşılan manzaralar, ziyaretçilerin gözlerini kamaştırıyor.
+Tozludağ Tepesi, Adana'nın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Tozludağ Tepesi, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle büyülüyor. Tepenin eteklerinde yer alan köyler, gelen ziyaretçilere sıcak bir karşılama sunarken, tepeye tırmanırken karşılaşılan manzaralar, ziyaretçilerin gözlerini kamaştırıyor.
 
 ## Tarihçe
 

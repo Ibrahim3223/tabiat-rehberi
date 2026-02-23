@@ -38,7 +38,7 @@ Ilgaz Dağı Millî Parkı, 1976 yılında kurulmuştur. Parkın tarihi, bölgen
 
 ## Coğrafya
 
-Ilgaz Dağı Millî Parkı, İç Anadolu Bölgesi'nin kuzeyinde yer alır. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşur. Ilgaz Dağı, 1082 metre yüksekliğiyle bölgenin en önemli dağlarından biridir. Parkın iklimi, karasal iklimin özellikleri gösterir ve kışları soğuk, yazları sıcak ve kurudur. Parkın toplam alanı 1082 hektardır ve bu alan, yaklaşık 12 futbol sahası büyüklüğüne eşittir.
+Ilgaz Dağı Millî Parkı, İç Anadolu Bölgesi'nin kuzeyinde yer alır. Parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşur. Ilgaz Dağı, 1082 metre yüksekliğiyle bölgenin en önemli dağlarından biridir. Parkın iklimi, karasal iklimin özellikleri gösterir ve kışları soğuk, yazları sıcak ve kurudur.
 
 ## Flora ve Fauna
 

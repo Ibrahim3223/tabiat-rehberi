@@ -29,7 +29,7 @@ wikidata_id: "Q134728400"
 
 # Erikli Mevkıı Tümülüsü Kavak
 
-Erikli Mevkıı Tümülüsü Kavak, Karadeniz Bölgesi'nin Samsun ilinin Kavak ilçesinde yer alan, hem tarihi hem de doğal güzellikleriyle dikkat çeken bir destinasyon. Bu bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş ve yeşilin her tonunu sunan bir manzara ile karşılar. Histori ve coğrafi açıdan zengin olan bu bölge, Karadeniz Bölgesi'nin önemli turizm noktalarından biri olarak bilinir.
+Erikli Mevkıı Tümülüsü Kavak, Karadeniz Bölgesi'nin Samsun ilinin Kavak ilçesinde yer alan, hem tarihi hem de doğal güzellikleriyle dikkat çeken bir destinasyon. Histori ve coğrafi açıdan zengin olan bu bölge, Karadeniz Bölgesi'nin önemli turizm noktalarından biri olarak bilinir.
 
 ## Tarihçe
 

@@ -28,11 +28,11 @@ wikidata_id: "Q31390805"
 
 # İnağzı Tepesi
 
-İnağzı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. İnağzı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmanın yanı sıra, tarihi ve kültürel açıdan da önemli bir mekan. Burada, yüzyıllar boyunca oluşmuş doğal güzellikler, ziyaretçilerin gözlerini büyülüyor. İnağzı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi sahibi olmak isteyenler için önemli bir destinasyon.
+İnağzı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. İnağzı Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmanın yanı sıra, tarihi ve kültürel açıdan da önemli bir mekan. Burada, yüzyıllar boyunca oluşmuş doğal güzellikler, ziyaretçilerin gözlerini büyülüyor. İnağzı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi sahibi olmak isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
-İnağzı Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölge. Bu tepe, tarihin farklı dönemlerinde, farklı kültürlerin etkisi altında kalmış ve bu etkiler, tepenin mimari yapısına ve kültürüne yansımış. İnağzı Tepesi, tarihi geçmişiyle birlikte, ziyaretçilerine bölgenin zengin kültürel mirasını sunuyor. Burada, tarihi yapılar, kalıntılar ve eserler, ziyaretçilerin dikkatini çekiyor. İnağzı Tepesi, aynı zamanda bölgenin históriyası hakkında bilgi sahibi olmak isteyenler için önemli bir kaynak. Tepenin tarihi geçmişi, ziyaretçilerin bölge hakkında daha derin bir anlayışa sahip olmalarına yardımcı oluyor.
+İnağzı Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölge. Bu tepe, tarihin farklı dönemlerinde, farklı kültürlerin etkisi altında kalmış ve bu etkiler, tepenin mimari yapısına ve kültürüne yansımış. İnağzı Tepesi, tarihi geçmişiyle birlikte, ziyaretçilerine bölgenin zengin kültürel mirasını sunuyor. Burada, tarihi yapılar, kalıntılar ve eserler, ziyaretçilerin dikkatini çekiyor. İnağzı Tepesi, aynı zamanda bölgenin tarihiı hakkında bilgi sahibi olmak isteyenler için önemli bir kaynak. Tepenin tarihi geçmişi, ziyaretçilerin bölge hakkında daha derin bir anlayışa sahip olmalarına yardımcı oluyor.
 
 ## Coğrafya
 

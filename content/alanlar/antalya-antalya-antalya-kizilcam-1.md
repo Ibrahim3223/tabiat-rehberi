@@ -22,7 +22,7 @@ wikidata_id: "Q108228440"
 
 # Antalya-Antalya-Antalya-Kızılçam 1
 
-Antalya-Antalya-Antalya-Kızılçam 1 milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Parkın konumu, ziyaretçiler için hem ulaşım hem de konaklama açısından avantaj sağlıyor. Doğa severler, bu milli parkta kendilerini doğanın içinde bulacaklar ve eşsiz bir deneyim yaşayacaklar.
+Antalya-Antalya-Antalya-Kızılçam 1 milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Parkın konumu, ziyaretçiler için hem ulaşım hem de konaklama açısından avantaj sağlıyor. Doğa severler, bu milli parkta kendilerini doğanın içinde bulacaklar ve eşsiz bir deneyim yaşayacaklar.
 
 ## Tarihçe
 

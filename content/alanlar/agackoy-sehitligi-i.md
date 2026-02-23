@@ -29,7 +29,7 @@ wikidata_id: "Q134728251"
 
 # Ağaçköy Şehitliği I
 
-Ağaçköy Şehitliği, Kütahya'nın Dumlupınar ilçesinde yer alan ve tarihin derin izlerini taşıyan özel bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Ağaçköy Şehitliği, ziyaretçilerini tarihin sessizlik dolu sokaklarına davet ederken, aynı zamanda doğanın güzelliğini de gözler önüne serer. Bu özel mekan, hem tarihe meraklı olanlar hem de doğa severler için gerçek bir hazine olarak karşımıza çıkar. Ziyaretçiler, bu alanda geçmişi keşfetmenin yanı sıra, yeşilin ve mavinin bir araya geldiği muhteşem manzaraları da izleme fırsatını bulurlar.
+Ağaçköy Şehitliği, Kütahya'nın Dumlupınar ilçesinde yer alan ve tarihin derin izlerini taşıyan özel bir alandır. Ağaçköy Şehitliği, ziyaretçilerini tarihin sessizlik dolu sokaklarına davet ederken, aynı zamanda doğanın güzelliğini de gözler önüne serer. Bu özel mekan, hem tarihe meraklı olanlar hem de doğa severler için gerçek bir hazine olarak karşımıza çıkar. Ziyaretçiler, bu alanda geçmişi keşfetmenin yanı sıra, yeşilin ve mavinin bir araya geldiği muhteşem manzaraları da izleme fırsatını bulurlar.
 
 ## Tarihçe
 

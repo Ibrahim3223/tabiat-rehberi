@@ -22,7 +22,7 @@ wikidata_id: "Q108227936"
 
 # Bursa-Mustafakemalpaşa-Karacabey Karacam 4
 
-Bursa-Mustafakemalpaşa-Karacabey Karacam 4 milli parkı, Marmara Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini korur. Burada, çeşitli bitki türleri ve zengin fauna çeşitliliğiyle karşılaşabilirsiniz. Milli parkın büyüklüğü, ziyaretçilere geniş bir alan sunar ve doğayla iç içe olmanın keyfini çıkarabilirsiniz. Bursa-Mustafakemalpaşa-Karacabey Karacam 4, yeşilin her tonunu keşfetmek isteyenler için ideal bir destinasyondur.
+Bursa-Mustafakemalpaşa-Karacabey Karacam 4 milli parkı, Marmara Bölgesi'nin önemli doğal alanlarından biridir. Burada, çeşitli bitki türleri ve zengin fauna çeşitliliğiyle karşılaşabilirsiniz. Milli parkın büyüklüğü, ziyaretçilere geniş bir alan sunar ve doğayla iç içe olmanın keyfini çıkarabilirsiniz. Bursa-Mustafakemalpaşa-Karacabey Karacam 4, yeşilin her tonunu keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

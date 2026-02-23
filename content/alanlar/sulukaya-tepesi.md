@@ -28,7 +28,7 @@ wikidata_id: "Q31390815"
 
 # Sulukaya Tepesi
 
-Sulukaya Tepesi, Yozgat'ın sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir tepe olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Sulukaya Tepesi, doğa severler için bir çekim merkezi olmasının yanı sıra, bölgenin coğrafi ve ekolojik yapısını anlamak için de önemli bir noktadır. Tepenin etrafında yer alan köyler ve kasabalar, bu bölgenin tarihi ve kültürel zenginliğini de gözler önüne serer.
+Sulukaya Tepesi, Yozgat'ın sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir tepe olarak dikkat çeker. Sulukaya Tepesi, doğa severler için bir çekim merkezi olmasının yanı sıra, bölgenin coğrafi ve ekolojik yapısını anlamak için de önemli bir noktadır. Tepenin etrafında yer alan köyler ve kasabalar, bu bölgenin tarihi ve kültürel zenginliğini de gözler önüne serer.
 
 ## Tarihçe
 

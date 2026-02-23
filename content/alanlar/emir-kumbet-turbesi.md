@@ -1,7 +1,7 @@
 ---
 title: "Emir Kümbet Türbesi"
 date: "2026-01-10T03:46:13.471Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ordu"
@@ -30,7 +30,7 @@ wikidata_id: "Q134728231"
 
 # Emir Kümbet Türbesi
 
-Emir Kümbet Türbesi, Aybastı, Ordu'da yer alan ve tarihi geçmişiyle dikkat çeken önemli bir kültürel varlık. Bu tarihi mekan, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Emir Kümbet Türbesi, özellikle Karadeniz Bölgesi'nde bulunan tarihi yapılardan biri olarak ziyaretçilerin ilgisini çekiyor. Bu türbenin tarihi ve kültürel önemi, ziyaretçileri buraya çekmeye devam ediyor.
+Emir Kümbet Türbesi, Aybastı, Ordu'da yer alan ve tarihi geçmişiyle dikkat çeken önemli bir kültürel varlık. Emir Kümbet Türbesi, özellikle Karadeniz Bölgesi'nde bulunan tarihi yapılardan biri olarak ziyaretçilerin ilgisini çekiyor. Bu türbenin tarihi ve kültürel önemi, ziyaretçileri buraya çekmeye devam ediyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Emir Kümbet Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve
 
 ## Coğrafya
 
-Emir Kümbet Türbesi, Aybastı, Ordu'da yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle yeşilin farklı tonlarıyla kaplı dağlar, ormanlar ve nehirlerle çevrili. Emir Kümbet Türbesi'nin bulunduğu alan, 140 hektarlık bir yeşil alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Bu türbenin coğrafi konumu, ziyaretçilere bölge hakkında bilgi edinme fırsatı sunuyor. Coğrafi olarak, Emir Kümbet Türbesi, Karadeniz Bölgesi'nin sunduğu doğal güzellikleri ve zengin flora ile fauna çeşitliliğini yansıtıyor.
+Emir Kümbet Türbesi, Aybastı, Ordu'da yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, genellikle yeşilin farklı tonlarıyla kaplı dağlar, ormanlar ve nehirlerle çevrili. Bu türbenin coğrafi konumu, ziyaretçilere bölge hakkında bilgi edinme fırsatı sunuyor. Coğrafi olarak, Emir Kümbet Türbesi, Karadeniz Bölgesi'nin sunduğu doğal güzellikleri ve zengin flora ile fauna çeşitliliğini yansıtıyor.
 
 ## Flora ve Fauna
 

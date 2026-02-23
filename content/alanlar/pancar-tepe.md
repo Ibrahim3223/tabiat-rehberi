@@ -32,7 +32,7 @@ Gaziantep'in tarih ve doğa harmanladığı noktalarından biri olan Pancar Tepe
 
 ## Tarihçe
 
-Gaziantep bölgesi, tarihin sâu sayfalarına kadar uzanan bir geçmişe sahiptir. Hitit, Roma ve Bizans dönemlerinde önemli bir merkez olan bu bölge, çeşitli uygarlıkların izlerini taşır. Pancar Tepe, bu zengin tarihsel bağlam içinde yer alan bir doğal alan olarak dikkat çeker.
+Gaziantep bölgesi, tarihin derin sayfalarına kadar uzanan bir geçmişe sahiptir. Hitit, Roma ve Bizans dönemlerinde önemli bir merkez olan bu bölge, çeşitli uygarlıkların izlerini taşır. Pancar Tepe, bu zengin tarihsel bağlam içinde yer alan bir doğal alan olarak dikkat çeker.
 
 Türkiye'de, benzer doğal alanlar tarih boyunca insanların yaşamlarını sürdürmelerinde önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu alanların insanlarla ilişkisini şekillendirmiştir. Gaziantep bölgesinde de, insanların Pancar Tepe gibi doğal alanlarla kurdukları bağ, bölgenin ekonomi ve kültürel yaşamına yansımıştır.
 

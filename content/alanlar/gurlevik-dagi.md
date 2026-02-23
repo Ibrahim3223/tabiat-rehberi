@@ -28,7 +28,7 @@ wikidata_id: "Q34873447"
 
 # Gürlevik Dağı
 
-Sivas'ın büyüleyici doğal güzellikleri arasında yer alan Gürlevik Dağı, ziyaretçilerini históriki ve kültürel zenginlikleriyle karşılar. Bu dağ, Sivas ilinin sınırları içinde bulunmakta ve bölgenin önemli bir doğal öğesi olarak dikkat çekmektedir. Gürlevik Dağı, Sivas'ın coğrafi yapısına önemli katkılar sağlayan bir oluşum olarak görülmektedir. Sivas'ın doğal güzelliklerini keşfetmek isteyenler için Gürlevik Dağı, önemli bir destinasyon olarak karşımıza çıkmaktadır.
+Sivas'ın büyüleyici doğal güzellikleri arasında yer alan Gürlevik Dağı, ziyaretçilerini tarihi ve kültürel zenginlikleriyle karşılar. Bu dağ, Sivas ilinin sınırları içinde bulunmakta ve bölgenin önemli bir doğal öğesi olarak dikkat çekmektedir. Gürlevik Dağı, Sivas'ın coğrafi yapısına önemli katkılar sağlayan bir oluşum olarak görülmektedir. Sivas'ın doğal güzelliklerini keşfetmek isteyenler için Gürlevik Dağı, önemli bir destinasyon olarak karşımıza çıkmaktadır.
 
 ## Tarihçe
 

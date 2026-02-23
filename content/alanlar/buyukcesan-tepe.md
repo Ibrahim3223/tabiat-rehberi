@@ -32,9 +32,9 @@ Isparta'nın dağlık arazisinde yer alan Büyükçesan Tepe, ziyaretçilerini d
 
 ## Tarihçe
 
-Isparta bölgesi, tarihin depthsinde gizli bir hazine gibi duruyor. Büyükçesan Tepe, bu bölgenin bir parçası olarak, binlerce yıllık bir geçmişe tanıklık ediyor. Isparta, tarihi boyunca birçok uygarlığa ev sahipliği yapmış; Lidyalılar, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar bu topraklarda hüküm sürmüşler. 
+Isparta bölgesi, tarihin depthsinde gizli bir hazine gibi duruyor. Büyükçesan Tepe, bu bölgenin bir parçası olarak, binlerce yıllık bir geçmişe tanıklık ediyor. Isparta, tarihi boyunca birçok uygarlığa ev sahipliği yapmış; Lidyalılar, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar bu topraklarda hüküm sürmüşler.
 
-Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Yaylacılık ve hayvancılık, bölgenin ekonomi ve kültürel yaşamının temel taşlarından biri. İnsanlar, bu doğal güzellikleri, sadece ekonomik faaliyetler için değil, aynı zamanda ticaret yolları ve stratejik konumlarda da kullanmışlar. Büyükçesan Tepe gibi dağlar, bu faaliyetlerin yürütülmesi için önemli birer merkez olmuşlar. 
+Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Yaylacılık ve hayvancılık, bölgenin ekonomi ve kültürel yaşamının temel taşlarından biri. İnsanlar, bu doğal güzellikleri, sadece ekonomik faaliyetler için değil, aynı zamanda ticaret yolları ve stratejik konumlarda da kullanmışlar. Büyükçesan Tepe gibi dağlar, bu faaliyetlerin yürütülmesi için önemli birer merkez olmuşlar.
 
 Bölge, tarihin her döneminde insanlerinin merkezi olmuş. İnsanlar, bu dağların eteklerinde yerleşmiş, vadilerde tarım yapmış, ve yüksek yaylalarda hayvancılıkla uğraşmışlar. Ticaret yolları da bu bölgeden geçmiş, farklı uygarlıkların kültürel alışverişine tanıklık etmiş. Büyükçesan Tepe, bu tarihsel sürecin bir parçası olarak, Isparta'nın zengin kültürel mirasına katkıda bulunmuş.
 

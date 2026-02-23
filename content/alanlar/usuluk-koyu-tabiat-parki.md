@@ -29,7 +29,7 @@ wikidata_id: "Q30623046"
 
 # Usuluk Koyu Tabiat Parkı
 
-Usuluk Koyu Tabiat Parkı, Muğla'nın güzide yerlerinden biri olarak, Ege Bölgesi'nin doğal güzelliklerini ön plana çıkarıyor. 140 hektarlık geniş alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu büyük alan, ziyaretçilere geniş bir doğa yürüyüşü alanı sunuyor. Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Usuluk Koyu, aynı zamanda tarihi geçmişi ile de dikkat çekiyor. Yüzyıllar boyunca, bu bölgede yaşayan insanlar, doğayı koruma bilinci ile hareket etmişler. Bu nedenle, parkın doğallığı ve güzelliği bugüne kadar korunabilmiş.
+Usuluk Koyu Tabiat Parkı, Muğla'nın güzide yerlerinden biri olarak, Ege Bölgesi'nin doğal güzelliklerini ön plana çıkarıyor. Bu büyük alan, ziyaretçilere geniş bir doğa yürüyüşü alanı sunuyor. Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Usuluk Koyu, aynı zamanda tarihi geçmişi ile de dikkat çekiyor. Yüzyıllar boyunca, bu bölgede yaşayan insanlar, doğayı koruma bilinci ile hareket etmişler. Bu nedenle, parkın doğallığı ve güzelliği bugüne kadar korunabilmiş.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Usuluk Koyu Tabiat Parkı, ziyaretçilerine birçok aktivite sunuyor. Parkın do
 
 ## İlginç Bilgiler
 
-- Parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkta, birçok endemik bitki türü bulunuyor.
 - Parkın faunası, birçok hayvan türünü barındırıyor.
 - Parkın tarihi geçmişi, yüzyıllar öncesine dayanıyor.

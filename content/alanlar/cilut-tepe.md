@@ -50,9 +50,9 @@ Cılut Tepe, Mardin'in tarihi ve kültürel zenginliklerini barındıran bir bö
 
 ## Flora ve Fauna
 
-Cılut Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve faunaya ev sahipliği yapar. 2300 metre yükseklikte bulunan bu dağ, alpin flora ile kaplıdır. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açar ve bu bölge, rengarenk bir hal alır. 
+Cılut Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve faunaya ev sahipliği yapar. 2300 metre yükseklikte bulunan bu dağ, alpin flora ile kaplıdır. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açar ve bu bölge, rengarenk bir hal alır.
 
-Yaban hayatı açısından da zengin olan Cılut Tepe, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağ keçileri ve yaban keçileri, bu bölgenin karakteristik hayvanlarındandır.Sonbahar mevsiminde, göç eden kuşlar bu bölgeyi ziyaret eder ve ekosistemi canlandırır. 
+Yaban hayatı açısından da zengin olan Cılut Tepe, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağ keçileri ve yaban keçileri, bu bölgenin karakteristik hayvanlarındandır.Sonbahar mevsiminde, göç eden kuşlar bu bölgeyi ziyaret eder ve ekosistemi canlandırır.
 
 Cılut Tepe'nin ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasından gelir. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesinin korunmasına da katkı sağlar.
 

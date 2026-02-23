@@ -22,7 +22,7 @@ wikidata_id: "Q108227643"
 
 # Canakkale-Umurbey Kızılçam
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Canakkale-Umurbey Kızılçam, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu 140 hektarlık alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırıp, doğanın sakin ve huzurlu atmosferine davet ediyor. Burada, yeşilin her tonunu görebilir ve doğal güzelliğin keyfini çıkarabilirsiniz.
+ Bu 140 hektarlık alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırıp, doğanın sakin ve huzurlu atmosferine davet ediyor. Burada, yeşilin her tonunu görebilir ve doğal güzelliğin keyfini çıkarabilirsiniz.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Canakkale-Umurbey Kızılçam'ın tarihi, bölgenin jeolojik oluşumuna kadar uz
 
 ## Coğrafya
 
-Canakkale-Umurbey Kızılçam, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ova ve dağların birleştiği bir noktada yer alıyor. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor ve ziyaretçilerini şehrin gürültüsünden uzaklaştırıp, doğanın sakin ve huzurlu atmosferine davet ediyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçiyor. Bu iklim, bölgenin flora ve faunasının çeşitliliğini etkiliyor.
+Canakkale-Umurbey Kızılçam, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş ova ve dağların birleştiği bir noktada yer alıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçiyor. Bu iklim, bölgenin flora ve faunasının çeşitliliğini etkiliyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Canakkale-Umurbey Kızılçam'ı ziyaret etmek, doğa severler için bir gibi. B
 
 ## İlginç Bilgiler
 
-- Bölgenin toplam alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Canakkale-Umurbey Kızılçam, İç Anadolu Bölgesi'nin en büyük yeşil alanlarından biri.
 - Bölgede, kızılçam ağaçları ile birlikte çeşitli çalı türleri ve otsu bitkiler bulunmakta.
 - Ziyaretçiler, buraya ulaşmak için araçlarıyla veya toplu taşıma araçlarını kullanabilirler.

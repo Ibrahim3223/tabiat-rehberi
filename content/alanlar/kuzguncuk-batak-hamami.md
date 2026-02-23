@@ -1,7 +1,7 @@
 ---
 title: "Kuzguncuk Batak Hamamı"
 date: "2026-01-09T22:52:26.173Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738592"
 
 # Kuzguncuk Batak Hamamı
 
-Kuzguncuk Batak Hamamı, İstanbul'un Üsküdar ilçesinde bulunan ve Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilen bir doğal güzelliktir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve denize nazır bir konumda yer alıyor. Bu alan, aynı zamanda tarihi geçmişi ile de dikkat çekiyor. Kuzguncuk Batak Hamamı, İstanbul'un en eski ve en önemli plajlarından biri olarak biliniyor. Burada, deniz kıyısında yürüyüş yapmak, güneşlenmek, denize girme ve doğanın güzelliğini seyretme mümkün.
+Kuzguncuk Batak Hamamı, İstanbul'un Üsküdar ilçesinde bulunan ve Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilen bir doğal güzelliktir. Bu alan, aynı zamanda tarihi geçmişi ile de dikkat çekiyor. Kuzguncuk Batak Hamamı, İstanbul'un en eski ve en önemli plajlarından biri olarak biliniyor. Burada, deniz kıyısında yürüyüş yapmak, güneşlenmek, denize girme ve doğanın güzelliğini seyretme mümkün.
 
 ## Tarihçe
 

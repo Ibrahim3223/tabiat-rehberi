@@ -1,7 +1,7 @@
 ---
 title: "Yerköprü Çağlayanı (Mersin)"
 date: "2026-01-10T08:05:11.378Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "selalesi"
 il: "Mersin"
@@ -30,7 +30,7 @@ wikidata_id: "Q27929635"
 
 # Yerköprü Çağlayanı (Mersin)
 
-Yerköprü Çağlayanı, Mersin'in Mut ilçesinde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğa harikasıdır. Bu büyüleyici alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Yerköprü Çağlayanı, Mut ilçesinin merkezinden uzun bir mesafe uzaklıkta yer alıyor. Buraya ulaşmak için, Mut'a giden ana yol üzerinde ilerleyerek, sonra çağlayana özel bir yol üzerinden ulaşabilirsiniz. Yerköprü Çağlayanı, özellikle ilkbahar ve yaz aylarında, doğanın tüm renklerini ve güzelliğini sergiliyor.
+Yerköprü Çağlayanı, Mersin'in Mut ilçesinde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğa harikasıdır. Yerköprü Çağlayanı, Mut ilçesinin merkezinden uzun bir mesafe uzaklıkta yer alıyor. Buraya ulaşmak için, Mut'a giden ana yol üzerinde ilerleyerek, sonra çağlayana özel bir yol üzerinden ulaşabilirsiniz. Yerköprü Çağlayanı, özellikle ilkbahar ve yaz aylarında, doğanın tüm renklerini ve güzelliğini sergiliyor.
 
 ## Tarihçe
 

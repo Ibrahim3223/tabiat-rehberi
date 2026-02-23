@@ -1,7 +1,7 @@
 ---
 title: "Abdüllatif Kudsi Türbesi"
 date: "2026-01-10T07:35:55.694Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391240"
 
 # Abdüllatif Kudsi Türbesi
 
-Abdüllatif Kudsi Türbesi, Bursa'nın Yıldırım ilçesinde yer alan bir tarihi mekan ve plaj olarak dikkat çekiyor. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde geniş bir alanı kapsıyor. Abdüllatif Kudsi Türbesi, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Burada, hem tarihi bir mekanın huzurunu hem de deniz ve güneşin keyfini çıkarabilirsiniz. Abdüllatif Kudsi Türbesi ve plajı, aynı zamanda çevresindeki doğal güzellikleri ile de dikkat çekiyor.
+Abdüllatif Kudsi Türbesi, Bursa'nın Yıldırım ilçesinde yer alan bir tarihi mekan ve plaj olarak dikkat çekiyor. Abdüllatif Kudsi Türbesi, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. Burada, hem tarihi bir mekanın huzurunu hem de deniz ve güneşin keyfini çıkarabilirsiniz. Abdüllatif Kudsi Türbesi ve plajı, aynı zamanda çevresindeki doğal güzellikleri ile de dikkat çekiyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Abdüllatif Kudsi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyo
 
 ## Coğrafya
 
-Abdüllatif Kudsi Türbesi, Bursa'nın Yıldırım ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Bursa'nın merkezine yakın bir konumda bulunuyor. Abdüllatif Kudsi Türbesi, deniz seviyesinden yaklaşık olarak yüksek bir konumdate yer alıyor. Burada, deniz ve kara ikliminin özellikleri bir arada görülüyor. Abdüllatif Kudsi Türbesi ve plajı, aynı zamanda çevresindeki doğal güzellikleri ile de dikkat çekiyor. Burada, yeşilin ve mavinin tonlarını bir arada görebileceğiniz bir manzara sizi bekliyor. Abdüllatif Kudsi Türbesi, yaklaşık olarak 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde geniş bir alanı kapsıyor.
+Abdüllatif Kudsi Türbesi, Bursa'nın Yıldırım ilçesinde yer alıyor. Bu bölge, Marmara Bölgesi'nin önemli şehirlerinden biri olan Bursa'nın merkezine yakın bir konumda bulunuyor. Abdüllatif Kudsi Türbesi, deniz seviyesinden yaklaşık olarak yüksek bir konumdate yer alıyor. Burada, deniz ve kara ikliminin özellikleri bir arada görülüyor. Abdüllatif Kudsi Türbesi ve plajı, aynı zamanda çevresindeki doğal güzellikleri ile de dikkat çekiyor. Burada, yeşilin ve mavinin tonlarını bir arada görebileceğiniz bir manzara sizi bekliyor.
 
 ## Flora ve Fauna
 

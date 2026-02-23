@@ -29,7 +29,7 @@ wikidata_id: "Q134728185"
 
 # Daskyleion Kaya Mezarı
 
-Daskyleion Kaya Mezarı, Marmara Bölgesi'nin Bandırma ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir antik mezar alanıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir araziyi kaplar ve ziyaretçilerini antik dönemlerin gizemine davet eder. Daskyleion'un tarihi ve kültürel zenginliği, ziyaretçilerini derin bir tarihi yolculuğa çıkarır. Bu mezar alanınınAroundındaki coğrafya, ziyaretçilere hem tarihi hem de doğal güzellikleri sunar.
+Daskyleion Kaya Mezarı, Marmara Bölgesi'nin Bandırma ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir antik mezar alanıdır. Daskyleion'un tarihi ve kültürel zenginliği, ziyaretçilerini derin bir tarihi yolculuğa çıkarır. Bu mezar alanınınAroundındaki coğrafya, ziyaretçilere hem tarihi hem de doğal güzellikleri sunar.
 
 ## Tarihçe
 

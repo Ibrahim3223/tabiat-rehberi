@@ -28,7 +28,7 @@ wikidata_id: "Q31555613"
 
 # Kevranergiza Tepesi
 
-Kevranergiza Tepesi, Mardin'in tarihi ve doğal güzellikleriyle dikkat çeken bir destinasyon. Bu tepenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde bulunan tarihi eserler ve kalıntılar, bölgenin zengin tarihini gözler önüne seriyor. Kevranergiza Tepesi, ziyaretçiler için hem tarihi hem de doğal güzelliklerini keşfetme fırsatı sunuyor.
+Kevranergiza Tepesi, Mardin'in tarihi ve doğal güzellikleriyle dikkat çeken bir destinasyon. Tepenin eteklerinde bulunan tarihi eserler ve kalıntılar, bölgenin zengin tarihini gözler önüne seriyor. Kevranergiza Tepesi, ziyaretçiler için hem tarihi hem de doğal güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kevranergiza Tepesi'nin tarihi geçmişi, Mardin'in zengin kültürel mirasıyla
 
 ## Coğrafya
 
-Kevranergiza Tepesi, Mardin'in coğrafi olarak önemli bir bölgesinde yer alıyor. Tepenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir manzara sunuyor. Tepenin eteklerinde bulunan tarihi eserler ve kalıntılar, bölgenin zengin tarihini gözler önüne seriyor. Kevranergiza Tepesi'nin coğrafi konumu, ziyaretçiler için hem tarihi hem de doğal güzelliklerini keşfetme fırsatı sunuyor. Tepenin etrafında bulunan vadiler ve dağlar, bölgenin coğrafi çeşitliliğini gösteren önemli özellikler. İklim olarak, Kevranergiza Tepesi'nin bulunduğu bölge, sıcak ve kuru bir iklime sahip. Yaz aylarında sıcaklık artarken, kış aylarında soğuk hava hüküm sürüyor.
+Kevranergiza Tepesi, Mardin'in coğrafi olarak önemli bir bölgesinde yer alıyor. Tepenin eteklerinde bulunan tarihi eserler ve kalıntılar, bölgenin zengin tarihini gözler önüne seriyor. Kevranergiza Tepesi'nin coğrafi konumu, ziyaretçiler için hem tarihi hem de doğal güzelliklerini keşfetme fırsatı sunuyor. Tepenin etrafında bulunan vadiler ve dağlar, bölgenin coğrafi çeşitliliğini gösteren önemli özellikler. İklim olarak, Kevranergiza Tepesi'nin bulunduğu bölge, sıcak ve kuru bir iklime sahip. Yaz aylarında sıcaklık artarken, kış aylarında soğuk hava hüküm sürüyor.
 
 ## Flora ve Fauna
 

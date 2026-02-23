@@ -51,9 +51,9 @@ Mevsimsel değişikliklere göre, Çelebi Adası'nın iklimi değişkenlik göst
 
 ## Flora ve Fauna
 
-Çelebi Adası, Muğla'nın güneşli kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, ada zeytinlikler ve çam ormanlarıyla kaplanıyor. Çiçekler açmaya başlıyor ve adayı bir renk cümbüşüne dönüştürüyor. 
+Çelebi Adası, Muğla'nın güneşli kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, ada zeytinlikler ve çam ormanlarıyla kaplanıyor. Çiçekler açmaya başlıyor ve adayı bir renk cümbüşüne dönüştürüyor.
 
-Deniz kuşları, ada üzerinde yuvalarını kuruyor ve kıyı bitkileri, ada kıyılarını süsüyor. Sonbaharın gelmesiyle birlikte, göçmen kuşlar ada üzerinde konaklıyor ve adayı bir kuş cennetine dönüştürüyor. Ada ekosistemi, izole popülasyonlar ve deniz kuşları ile zengin bir yaban hayata sahip. 
+Deniz kuşları, ada üzerinde yuvalarını kuruyor ve kıyı bitkileri, ada kıyılarını süsüyor. Sonbaharın gelmesiyle birlikte, göçmen kuşlar ada üzerinde konaklıyor ve adayı bir kuş cennetine dönüştürüyor. Ada ekosistemi, izole popülasyonlar ve deniz kuşları ile zengin bir yaban hayata sahip.
 
 Ada, Akdeniz ikliminin karakteristik özelliklerini taşıyor. Zeytinlikler ve çam ormanları, adanın bitki örtüsünü oluşturuyor. Ada, doğa severler için bir cennet ve ekolojik değerleri koruma altına alınması gereken bir alan.
 

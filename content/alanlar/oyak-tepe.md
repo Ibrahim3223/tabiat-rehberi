@@ -28,7 +28,7 @@ wikidata_id: "Q31390163"
 
 # Oyak Tepe
 
-Oyak Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, ziyaretçilerini doğal güzellikleriyle bekliyor. Oyak Tepe, hem doğa severler hem de macera tutkunları için ideal bir destinasyon. Ziyaretçiler, tepeye tırmanırken çevreyi keşfedebilir ve eşsiz manzaraların keyfini çıkarabilir. Oyak Tepe, Antalya'nın turizm değerlerinden biri olarak ön plana çıkıyor.
+Oyak Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, ziyaretçilerini doğal güzellikleriyle bekliyor. Oyak Tepe, hem doğa severler hem de macera tutkunları için ideal bir destinasyon. Ziyaretçiler, tepeye tırmanırken çevreyi keşfedebilir ve eşsiz manzaraların keyfini çıkarabilir. Oyak Tepe, Antalya'nın turizm değerlerinden biri olarak ön plana çıkıyor.
 
 ## Tarihçe
 

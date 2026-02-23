@@ -28,7 +28,7 @@ wikidata_id: "Q31389142"
 
 # Karyağdı Tepesi
 
-Karyağdı Tepesi, Marmara Bölgesi'nin kalbinde yer alan bir doğa harikası. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile büyülüyor. Karyağdı Tepesi, hem yerel halk hem de dışarıdan gelen ziyaretçiler için bir çekim merkezi. Burada, doğanın tüm güzelliğini ve zenginliğini keşfetme mümkün. Karyağdı Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor.
+Karyağdı Tepesi, Marmara Bölgesi'nin kalbinde yer alan bir doğa harikası. Karyağdı Tepesi, hem yerel halk hem de dışarıdan gelen ziyaretçiler için bir çekim merkezi. Burada, doğanın tüm güzelliğini ve zenginliğini keşfetme mümkün. Karyağdı Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karyağdı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Karyağdı Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir konumda bulunuyor. Bu bölge, birçok farklı coğrafi özelliğe sahip ve ziyaretçilerini doğal güzelliği ile büyülüyor. Karyağdı Tepesi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor ve güzelliği ile dikkat çekiyor. Karyağdı Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor ve coğrafi olarak önemli bir konumda bulunuyor. Bu bölge, birçok farklı coğrafi özelliğe sahip ve ziyaretçilerini doğal güzelliği ile büyülüyor. Karyağdı Tepesi, birçok farklı mevsimde ziyaret edilebiliyor ve her mevsim doğal güzelliği ile dikkat çekiyor.
+Karyağdı Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir konumda bulunuyor. Bu bölge, birçok farklı coğrafi özelliğe sahip ve ziyaretçilerini doğal güzelliği ile büyülüyor. Bu bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor ve güzelliği ile dikkat çekiyor. Karyağdı Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor ve coğrafi olarak önemli bir konumda bulunuyor. Bu bölge, birçok farklı coğrafi özelliğe sahip ve ziyaretçilerini doğal güzelliği ile büyülüyor. Karyağdı Tepesi, birçok farklı mevsimde ziyaret edilebiliyor ve her mevsim doğal güzelliği ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31533929"
 
 # Abbasındut Tepesi
 
-Abbasındut Tepesi, Tunceli'nin büyüleyici manzaralarına ev sahipliği yapıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana yayılıyor. Doğa severler için cennet gibi olan Abbasındut Tepesi, hem doğanın güzelliğini keşfetmek hem de Tunceli'nin tarihi geçmişi hakkında bilgi edinmek isteyenlerin ziyaret noktalarından biri. Abbasındut Tepesi, ziyaretçilerini doğanın kucağına davet ediyor ve onlar için unutulmaz bir deneyim vadediyor.
+Abbasındut Tepesi, Tunceli'nin büyüleyici manzaralarına ev sahipliği yapıyor. Doğa severler için cennet gibi olan Abbasındut Tepesi, hem doğanın güzelliğini keşfetmek hem de Tunceli'nin tarihi geçmişi hakkında bilgi edinmek isteyenlerin ziyaret noktalarından biri. Abbasındut Tepesi, ziyaretçilerini doğanın kucağına davet ediyor ve onlar için unutulmaz bir deneyim vadediyor.
 
 ## Tarihçe
 

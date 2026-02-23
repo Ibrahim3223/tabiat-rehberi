@@ -1,7 +1,7 @@
 ---
 title: "Beykoz Hamamı"
 date: "2026-01-09T22:14:57.287Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q121509205"
 
 # Beykoz Hamamı
 
-Beykoz Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. İstanbul'un Beykoz ilçesinde yer alan bu plaj, yaklaşık 140 hektarlık bir alana yayılır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Beykoz Hamamı, Marmara Denizi'nin güzel kıyılarını sunar ve ziyaretçilerine güzel bir deniz manzarası sunar. Plajın kumsalı, ince kumlarla kaplıdır ve ziyaretçiler burada güneşin tadını çıkarabilirler.
+Beykoz Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. İstanbul'un Beykoz ilçesinde yer alan bu plaj, yaklaşık 140 hektarlık bir alana yayılır. Beykoz Hamamı, Marmara Denizi'nin güzel kıyılarını sunar ve ziyaretçilerine güzel bir deniz manzarası sunar. Plajın kumsalı, ince kumlarla kaplıdır ve ziyaretçiler burada güneşin tadını çıkarabilirler.
 
 ## Tarihçe
 

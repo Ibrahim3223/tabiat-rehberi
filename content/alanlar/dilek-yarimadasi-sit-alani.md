@@ -23,7 +23,7 @@ wikidata_id: "Q108226817"
 
 # Dilek Yarımadası Sit Alanı
 
-Dilek Yarımadası Sit Alanı, İç Anadolu Bölgesi'nin gözde mekanlarından biri olarak 140 hektarlık yeşil alanı ve zengin fauna ile dikkat çekiyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tarihi geçmişi ile de dikkat çeken Dilek Yarımadası, ziyaretçilerine hem doğa hem de tarih hakkında bilgi veriyor.
+Dilek Yarımadası Sit Alanı, İç Anadolu Bölgesi'nin gözde mekanlarından biri olarak 140 hektarlık yeşil alanı ve zengin fauna ile dikkat çekiyor. Tarihi geçmişi ile de dikkat çeken Dilek Yarımadası, ziyaretçilerine hem doğa hem de tarih hakkında bilgi veriyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Dilek Yarımadası Sit Alanı, yüzyıllar boyunca çeşitli uygarlıklara ev sa
 
 ## Coğrafya
 
-Dilek Yarımadası Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alan. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Coğrafi olarak dikkat çekici bir konumda bulunan Dilek Yarımadası, zengin fauna ve flora ile dikkat çekiyor. Bu bölgede çeşitli bitki türleri ve hayvanlar yaşıyor. Dilek Yarımadası, ziyaretçilerine hem güzelliği hem de coğrafi konumu ile unutulmaz bir deneyim sunuyor.
+Dilek Yarımadası Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alan. Coğrafi olarak dikkat çekici bir konumda bulunan Dilek Yarımadası, zengin fauna ve flora ile dikkat çekiyor. Bu bölgede çeşitli bitki türleri ve hayvanlar yaşıyor. Dilek Yarımadası, ziyaretçilerine hem güzelliği hem de coğrafi konumu ile unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

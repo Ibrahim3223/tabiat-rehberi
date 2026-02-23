@@ -28,7 +28,7 @@ wikidata_id: "Q31391263"
 
 # Persokıran Tepesi
 
-Persokıran Tepesi, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerinden birini oluşturuyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kaplıyor. Persokıran Tepesi, çevresindeki diğer tepe ve dağlarla birlikte bölgeye özel bir coğrafi yapı kazandırıyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Bu bölgede yer alan diğer doğal güzellikler ve tarihi mekanlar da, Persokıran Tepesi'ni ziyaret edenlerin ilgisini çekiyor.
+Persokıran Tepesi, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerinden birini oluşturuyor. Persokıran Tepesi, çevresindeki diğer tepe ve dağlarla birlikte bölgeye özel bir coğrafi yapı kazandırıyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Bu bölgede yer alan diğer doğal güzellikler ve tarihi mekanlar da, Persokıran Tepesi'ni ziyaret edenlerin ilgisini çekiyor.
 
 ## Tarihçe
 

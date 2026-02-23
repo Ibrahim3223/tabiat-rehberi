@@ -1,7 +1,7 @@
 ---
 title: "Dede Sultan Hamamı"
 date: "2026-01-09T22:25:40.295Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738501"
 
 # Dede Sultan Hamamı
 
-Dede Sultan Hamamı, Kastamonu'nun merkezinde yer alan ve Karadeniz Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş ve ferah bir ortam sunar. Burada, denizin serin sularında serinleyebilir, güneşin sıcaklığını hissedebilir veya yeşil alanlarda piknik yapabilirsiniz. Dede Sultan Hamamı, hem doğal güzelliği hem de turistik açıdan önemli bir noktadır.
+Dede Sultan Hamamı, Kastamonu'nun merkezinde yer alan ve Karadeniz Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. Burada, denizin serin sularında serinleyebilir, güneşin sıcaklığını hissedebilir veya yeşil alanlarda piknik yapabilirsiniz. Dede Sultan Hamamı, hem doğal güzelliği hem de turistik açıdan önemli bir noktadır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31391000"
 
 # Karyağan Tepe
 
-Karyağan Tepe, Kahramanmaraş ilinin merkezinde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin önemli doğal güzelliklerinden biridir. Karyağan Tepe, şehre hakim bir konumda bulunmakta ve buradan şehir manzarası izlenebilmektedir. Tepe, çeşitli bitki türleri ile kaplı olup, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlamaktadır. Karyağan Tepe, aynı zamanda şehrin tarihine de ev sahipliği yapan önemli bir bölgedir.
+Karyağan Tepe, Kahramanmaraş ilinin merkezinde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Karyağan Tepe, şehre hakim bir konumda bulunmakta ve buradan şehir manzarası izlenebilmektedir. Tepe, çeşitli bitki türleri ile kaplı olup, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlamaktadır. Karyağan Tepe, aynı zamanda şehrin tarihine de ev sahipliği yapan önemli bir bölgedir.
 
 ## Tarihçe
 

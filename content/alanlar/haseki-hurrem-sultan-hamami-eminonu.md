@@ -1,7 +1,7 @@
 ---
 title: "Haseki Hürrem Sultan Hamamı, Eminönü"
 date: "2026-01-09T22:45:37.752Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738540"
 
 # Haseki Hürrem Sultan Hamamı, Eminönü
 
-Haseki Hürrem Sultan Hamamı, Eminönü'nde yer alan tarihi bir hamamdır. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin önemli kültür miraslarından biridir. 140 hektarlık bir alana yayılmış olan bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Hamamın tarihi geçmişi, ziyaretçilerini geçmişe götürmeyi başarır. Hikayeler ve efsanelerle dolu olan bu hamam, Eminönü'nün önemli gezi noktalarından biridir.
+Haseki Hürrem Sultan Hamamı, Eminönü'nde yer alan tarihi bir hamamdır. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin önemli kültür miraslarından biridir. Hamamın tarihi geçmişi, ziyaretçilerini geçmişe götürmeyi başarır. Hikayeler ve efsanelerle dolu olan bu hamam, Eminönü'nün önemli gezi noktalarından biridir.
 
 ## Tarihçe
 

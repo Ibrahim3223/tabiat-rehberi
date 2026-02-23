@@ -1,7 +1,7 @@
 ---
 title: "Gülşah Hatun Türbesi"
 date: "2026-01-10T05:56:16.558Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390471"
 
 # Gülşah Hatun Türbesi
 
-Gülşah Hatun Türbesi, Bursa'nın Osmangazi ilçesinde yer alan tarihi bir türbe ve plajdır. Bu alan, Marmara Bölgesi'nin güzide noktalarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi geçmişi ile dikkat çekmektedir. Türbenin yanında bulunan plaj, ziyaretçilerin güneşin tadını çıkarmaları ve denize girmeleri için ideal bir noktadır. Gülşah Hatun Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini beklemektedir.
+Gülşah Hatun Türbesi, Bursa'nın Osmangazi ilçesinde yer alan tarihi bir türbe ve plajdır. Bu alan, Marmara Bölgesi'nin güzide noktalarından biri olarak bilinir. Türbenin yanında bulunan plaj, ziyaretçilerin güneşin tadını çıkarmaları ve denize girmeleri için ideal bir noktadır. Gülşah Hatun Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 

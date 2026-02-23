@@ -29,7 +29,7 @@ wikidata_id: "Q135582411"
 
 # Hacip Çavlı Kümbeti
 
-Hacip Çavlı Kümbeti, Kayseri'nin Kocasinan ilçesinde bulunan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki yeşilliklerle çevrili bir bölgedir. Bu bölge, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilere farklı bir deneyim sunmaktadır. Hacip Çavlı Kümbeti, aynı zamanda bir kümbet olarak da bilinir ve tarihi mimarisini yansıtan önemli bir yapıttır.
+Hacip Çavlı Kümbeti, Kayseri'nin Kocasinan ilçesinde bulunan bir tarihi ve doğal güzellik alanıdır. Bu bölge, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilere farklı bir deneyim sunmaktadır. Hacip Çavlı Kümbeti, aynı zamanda bir kümbet olarak da bilinir ve tarihi mimarisini yansıtan önemli bir yapıttır.
 
 ## Tarihçe
 

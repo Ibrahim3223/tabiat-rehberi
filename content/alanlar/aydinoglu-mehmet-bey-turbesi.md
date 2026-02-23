@@ -1,7 +1,7 @@
 ---
 title: "Aydınoğlu Mehmet Bey Türbesi"
 date: "2026-01-10T07:01:23.724Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390834"
 
 # Aydınoğlu Mehmet Bey Türbesi
 
-Ödemiş'in sahil şeridinde yer alan Aydınoğlu Mehmet Bey Türbesi, hem tarihi hem de doğal güzellik bakımından ziyaret edilmesi gereken bir nokta. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunuyor. Türbenin yanı sıra, plajın sunduğu olanaklar ve çevredeki doğal güzellikler, bu bölgenin turizm açısından önemli bir merkez olmasını sağlıyor. Ziyaretçiler, hem tarihi bir türbeyi ziyaret ediyor hem de Ege Bölgesi'nin güzelliklerini keşfedebiliyor.
+Ödemiş'in sahil şeridinde yer alan Aydınoğlu Mehmet Bey Türbesi, hem tarihi hem de doğal güzellik bakımından ziyaret edilmesi gereken bir nokta. Türbenin yanı sıra, plajın sunduğu olanaklar ve çevredeki doğal güzellikler, bu bölgenin turizm açısından önemli bir merkez olmasını sağlıyor. Ziyaretçiler, hem tarihi bir türbeyi ziyaret ediyor hem de Ege Bölgesi'nin güzelliklerini keşfedebiliyor.
 
 ## Tarihçe
 

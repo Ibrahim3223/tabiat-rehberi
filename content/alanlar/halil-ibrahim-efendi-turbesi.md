@@ -1,7 +1,7 @@
 ---
 title: "Halil İbrahim Efendi Türbesi"
 date: "2026-01-10T06:52:22.539Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390745"
 
 # Halil İbrahim Efendi Türbesi
 
-Halil İbrahim Efendi Türbesi, Çanakkale'nin Ayvacık ilçesinde yer alan bir türbedir. Bu tarihi yapı, Marmara Bölgesi'nin zengin tarihini ve kültürünü yansıtan önemli bir dini merkez olarak kabul ediliyor. 140 hektarlık bir alana kurulan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tarihi geçmişiyle dikkat çeken Halil İbrahim Efendi Türbesi, ziyaretçiler tarafından sıklıkla tercih ediliyor. Türbenin çevresinde çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğal güzellikleri açısından da önemli kılıyor.
+Halil İbrahim Efendi Türbesi, Çanakkale'nin Ayvacık ilçesinde yer alan bir türbedir. Bu tarihi yapı, Marmara Bölgesi'nin zengin tarihini ve kültürünü yansıtan önemli bir dini merkez olarak kabul ediliyor. Tarihi geçmişiyle dikkat çeken Halil İbrahim Efendi Türbesi, ziyaretçiler tarafından sıklıkla tercih ediliyor. Türbenin çevresinde çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğal güzellikleri açısından da önemli kılıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Halil İbrahim Efendi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekill
 
 ## Coğrafya
 
-Halil İbrahim Efendi Türbesi, Çanakkale'nin Ayvacık ilçesinde, Marmara Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitlilik gösteren bir alana sahip. Türbenin bulunduğu alan, 140 hektarlık bir arazi üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Çevresinde çeşitli bitki türleri ve zengin fauna bulunan bu alan, doğal güzellikleri açısından da önemli. İklim olarak, Marmara Bölgesi'nin genel iklimine benzerlik gösteriyor. Kışlar ılıman, yazlar ise sıcak ve nemli passing. Bölgenin coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri ve diğer açık hava etkinlikleri yapmasına olanak tanıyor. Türbenin bulunduğu alan, aynı zamanda tarihi ve kültürel açıdan da önemli bir merkez olarak kabul ediliyor.
+Halil İbrahim Efendi Türbesi, Çanakkale'nin Ayvacık ilçesinde, Marmara Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak çeşitlilik gösteren bir alana sahip. Çevresinde çeşitli bitki türleri ve zengin fauna bulunan bu alan, doğal güzellikleri açısından da önemli. İklim olarak, Marmara Bölgesi'nin genel iklimine benzerlik gösteriyor. Kışlar ılıman, yazlar ise sıcak ve nemli passing. Bölgenin coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri ve diğer açık hava etkinlikleri yapmasına olanak tanıyor. Türbenin bulunduğu alan, aynı zamanda tarihi ve kültürel açıdan da önemli bir merkez olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

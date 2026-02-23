@@ -28,7 +28,7 @@ wikidata_id: "Q31391276"
 
 # Derbend Tepe
 
-Derbend Tepe, İç Anadolu Bölgesi'nin coğrafi zenginliklerini gözler önüne seren bir tepe. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Derbend Tepe'nin eteklerinde yer alan köyler, ziyaretçilere yöresel lezzetler sunarken, tepe üzerindeki yürüyüş yolları da doğa severleri cezbediyor. Bu tepe, yalnızca bir doğa harikası değil, aynı zamanda tarihin gizlerini de barındırıyor. Derbend Tepe, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunuyor.
+Derbend Tepe, İç Anadolu Bölgesi'nin coğrafi zenginliklerini gözler önüne seren bir tepe. Derbend Tepe'nin eteklerinde yer alan köyler, ziyaretçilere yöresel lezzetler sunarken, tepe üzerindeki yürüyüş yolları da doğa severleri cezbediyor. Bu tepe, yalnızca bir doğa harikası değil, aynı zamanda tarihin gizlerini de barındırıyor. Derbend Tepe, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Derbend Tepe'nin tarihi geçmişi, bölgenin kültürel zenginliklerine önemli 
 
 ## Coğrafya
 
-Derbend Tepe, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir nokta. 140 hektarlık alanı, tepeyi yaklaşık 200 futbol sahası büyüklüğünde yapıyor. Bu tepe, bölgenin coğrafi özelliklerini gözler önüne sererken, aynı zamanda ziyaretçilere geniş bir görüş açısı da sunuyor. Derbend Tepe'nin eteklerinde yer alan köyler, tepeye çıkan ziyaretçilere konaklama ve yemek imkanları sağlarken, tepe üzerindeki yürüyüş yolları da doğa severleri cezbediyor. Bu tepe, yalnızca bir doğa harikası değil, aynı zamanda coğrafi olarak da önemli bir nokta. Derbend Tepe'nin coğrafi konumu, ziyaretçilere bölgenin güzelliğini gösteriyor ve bu güzellik, tepe hakkında daha fazla bilgi edinmeyi sağlıyor.
+Derbend Tepe, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir nokta. Bu tepe, bölgenin coğrafi özelliklerini gözler önüne sererken, aynı zamanda ziyaretçilere geniş bir görüş açısı da sunuyor. Derbend Tepe'nin eteklerinde yer alan köyler, tepeye çıkan ziyaretçilere konaklama ve yemek imkanları sağlarken, tepe üzerindeki yürüyüş yolları da doğa severleri cezbediyor. Bu tepe, yalnızca bir doğa harikası değil, aynı zamanda coğrafi olarak da önemli bir nokta. Derbend Tepe'nin coğrafi konumu, ziyaretçilere bölgenin güzelliğini gösteriyor ve bu güzellik, tepe hakkında daha fazla bilgi edinmeyi sağlıyor.
 
 ## Flora ve Fauna
 

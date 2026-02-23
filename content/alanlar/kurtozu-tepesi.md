@@ -28,7 +28,7 @@ wikidata_id: "Q32206186"
 
 # Kurtözü Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Kurtözü Tepesi, Gaziantep'in sınırları içerisinde yer alır. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil eder. Kurtözü Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Tepenin etrafındaki manzara, bölgenin coğrafi yapısını ve doğal güzelliklerini gözler önüne serer. Ayrıca, bu tepenin üzerinde yapılan geziler, bölgeye gelen ziyaretçilere hem eğlenceli hem de bilgilendirici bir deneyim sunar.
+Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Kurtözü Tepesi, Gaziantep'in sınırları içerisinde yer alır. Kurtözü Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Tepenin etrafındaki manzara, bölgenin coğrafi yapısını ve doğal güzelliklerini gözler önüne serer. Ayrıca, bu tepenin üzerinde yapılan geziler, bölgeye gelen ziyaretçilere hem eğlenceli hem de bilgilendirici bir deneyim sunar.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Kurtözü Tepesi, coğrafi açıdan önemli bir yere sahiptir. Bu tepe, Güneydo
 
 ## Flora ve Fauna
 
-Kurtözü Tepesi, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunar. Bu tepenin etrafındaki bölge, bölgenin karakteristik bitki türlerini barındırır. Ayrıca, bu tepenin üzerindeki geziler, ziyaretçilere bölgenin flora ve faunası hakkında daha fazla bilgi edinme fırsatı sunar. Kurtözü Tepesi, bölgenin coğrafi yapısı ve iklimi açısından önemli bir yere sahiptir. Tepenin etrafındaki bölge, mevsimsel değişimlere göre farklı bitki türleri ve hayvanları barındırır. Ayrıca, bu tepenin üzerindeki geziler, bölgenin ekolojik dengesini korumak açısından önemli bir role sahiptir.
+Kurtözü Tepesi, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunar. Bu tepenin etrafındaki bölge, bölgenin karakteristik bitki türlerini barındırır. Ayrıca, bu tepenin üzerindeki geziler, ziyaretçilere bölgenin flora ve faunası hakkında daha fazla bilgi edinme fırsatı sunar. Kurtözü Tepesi, bölgenin coğrafi yapısı ve iklimi açısından önemli bir yere sahiptir. Tepenin etrafındaki bölge, mevsimsel değişimlere göre farklı bitki türleri ve hayvanları barındırır.
 
 ## Ziyaret Bilgileri
 

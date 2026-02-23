@@ -29,7 +29,7 @@ wikidata_id: "Q134728314"
 
 # Bin Tepeler Tümülüsü 58
 
-Bin Tepeler Tümülüsü 58, Ege Bölgesi'nin zengin tarihini ve doğal güzelliklerini bir araya getiren önemli bir destinasyondur. Salihli/Manisa'da yer alan bu noktada, ziyaretçiler hem tarihi tümülüsleri keşfe çıkabilir hem de çevredeki doğal güzelliği soluyabilir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir keşif alanı sunar. Bin Tepeler Tümülüsü 58, hem tarih meraklıları hem de doğa severler için ideal bir gezi noktasıdır.
+Bin Tepeler Tümülüsü 58, Ege Bölgesi'nin zengin tarihini ve doğal güzelliklerini bir araya getiren önemli bir destinasyondur. Salihli/Manisa'da yer alan bu noktada, ziyaretçiler hem tarihi tümülüsleri keşfe çıkabilir hem de çevredeki doğal güzelliği soluyabilir. Bin Tepeler Tümülüsü 58, hem tarih meraklıları hem de doğa severler için ideal bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Bin Tepeler Tümülüsü 58, Ege Bölgesi'nin coğrafi açıdan zengin bir bölg
 
 ## Flora ve Fauna
 
-Bin Tepeler Tümülüsü 58, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri ve hayvanlar bulunur. Bahar aylarında, bölgede çiçek açan bitkiler ziyaretçilere renkli bir manzara sunarken, yaz aylarında sıcaklık artar ve bazı bitkiler kurur. Kış aylarında ise, bölge daha sakin ve soğuk olur. Bu mevsimsel değişimler, ziyaretçilere farklı zamanlarda farklı deneyimler sunar. Ekoloji açısından da önemli olan bu bölge, çeşitli canlıların yaşadığı bir ekosistemdir.
+ Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitki türleri ve hayvanlar bulunur. Bahar aylarında, bölgede çiçek açan bitkiler ziyaretçilere renkli bir manzara sunarken, yaz aylarında sıcaklık artar ve bazı bitkiler kurur. Kış aylarında ise, bölge daha sakin ve soğuk olur. Bu mevsimsel değişimler, ziyaretçilere farklı zamanlarda farklı deneyimler sunar. Ekoloji açısından da önemli olan bu bölge, çeşitli canlıların yaşadığı bir ekosistemdir.
 
 ## Ziyaret Bilgileri
 

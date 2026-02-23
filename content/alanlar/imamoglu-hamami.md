@@ -1,7 +1,7 @@
 ---
 title: "İmamoğlu Hamamı"
 date: "2026-01-09T22:38:55.183Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738707"
 
 # İmamoğlu Hamamı
 
-İmamoğlu Hamamı, Sivas'ın Divriği ilçesinde yer alan ve tarihi değerleriyle dikkat çeken bir yer. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor. İmamoğlu Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbediyor. Konum olarak İç Anadolu Bölgesi'nde yer alan bu hamam, yöre halkının ve ziyaretçilerin ilgisini çekiyor.
+İmamoğlu Hamamı, Sivas'ın Divriği ilçesinde yer alan ve tarihi değerleriyle dikkat çeken bir yer. Bu geniş alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor. İmamoğlu Hamamı, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbediyor. Konum olarak İç Anadolu Bölgesi'nde yer alan bu hamam, yöre halkının ve ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 

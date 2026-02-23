@@ -63,7 +63,7 @@ Mutlu Dağı, Hakkari'nin güzide bir köşesinde yer alıyor. Sabah erken gitme
 ## İlginç Bilgiler
 
 - Mutlu Dağı, Hakkâri ilinin Yüksekova ilçesinde yer alan bir dağdır.
-- Dağın yüksekliği hakkında spesifik bilgiler bulunmamaktadır, ancak régionun coğrafyası genel olarak dağlık ve engebeli bir yapıya sahiptir.
+- Dağın yüksekliği hakkında spesifik bilgiler bulunmamaktadır, ancak bölgenin coğrafyası genel olarak dağlık ve engebeli bir yapıya sahiptir.
 - Hakkâri ilinin toplam yüzölçümü 9.537 kilometrekare olup, Mutlu Dağı da bu bölgenin önemli coğrafi oluşumlarından biridir.
 - Mutlu Dağı ve çevresindeki dağlık alanlar, özellikle yaz aylarında yaylacılık için tercih edilmektedir.
 - Bölgede yaşayan halk, genel olarak tarım ve hayvancılıkla uğraşmaktadır.

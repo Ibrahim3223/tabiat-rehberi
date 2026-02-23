@@ -28,7 +28,7 @@ wikidata_id: "Q30598182"
 
 # Kocakatran
 
-Mersin'in güzelliklerini barındıran Kocakatran milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa deneyimi sunuyor. Kocakatran, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve bu bölgenin doğal güzelliklerini koruyup sergiliyor. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Kocakatran milli parkı, hem doğa severler hem de gezi düşkünleri için mükemmel bir destinasyon.
+Mersin'in güzelliklerini barındıran Kocakatran milli parkı, yaklaşık 140 hektarlık bir alanı kaplıyor. Kocakatran, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve bu bölgenin doğal güzelliklerini koruyup sergiliyor. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Kocakatran milli parkı, hem doğa severler hem de gezi düşkünleri için mükemmel bir destinasyon.
 
 ## Tarihçe
 

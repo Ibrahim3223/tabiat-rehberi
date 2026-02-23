@@ -28,7 +28,7 @@ wikidata_id: "Q31553871"
 
 # Şeyhalil Tepesi
 
-Şeyhalil Tepesi, Batman'ın merkezine yakın bir konumda yer alan ve bölgeyi keşfetmeye gelen ziyaretçiler için wicht bir durak olan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Şeyhalil Tepesi, Batman'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de wicht bir nokta, çünkü bu tepe, şehrin önemli bir bölümünü görme imkanı sunuyor.
+Şeyhalil Tepesi, Batman'ın merkezine yakın bir konumda yer alan ve bölgeyi keşfetmeye gelen ziyaretçiler için wicht bir durak olan bir tepe. Şeyhalil Tepesi, Batman'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de wicht bir nokta, çünkü bu tepe, şehrin önemli bir bölümünü görme imkanı sunuyor.
 
 ## Tarihçe
 

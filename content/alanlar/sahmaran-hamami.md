@@ -1,7 +1,7 @@
 ---
 title: "Şahmaran Hamamı"
 date: "2026-01-09T22:24:16.190Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilikya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738478"
 
 # Şahmaran Hamamı
 
-Şahmaran Hamamı, Tarsus'un Kilikya bölgesinde, İç Anadolu Bölgesi'nin güzergahında yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Şahmaran Hamamı, tarihî ve coğrafî açıdan zengin bir geçmişe sahip. Bu bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve her biri burada izler bırakmıştır. Şahmaran Hamamı, özellikle tarihi hamam yapıları ve doğanın iç içe geçtiği atmosferi ile ziyaretçilerini büyülüyor.
+Şahmaran Hamamı, Tarsus'un Kilikya bölgesinde, İç Anadolu Bölgesi'nin güzergahında yer alan bir doğa harikasıdır. Şahmaran Hamamı, tarihî ve coğrafî açıdan zengin bir geçmişe sahip. Bu bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış ve her biri burada izler bırakmıştır. Şahmaran Hamamı, özellikle tarihi hamam yapıları ve doğanın iç içe geçtiği atmosferi ile ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738478"
 
 ## Coğrafya
 
-Şahmaran Hamamı, coğrafî açıdan zengin bir bölge. İç Anadolu Bölgesi'nin güneydoğusunda, Akdeniz Bölgesi'nin kuzeyinde yer alır. Bu konum, bölgenin iklimini etkiler ve Şahmaran Hamamı, ılıman bir iklimin característicasını taşır. Bölge, yeşilin farklı tonlarını sunan ormanlık alanlarla çevrilidir. Şahmaran Hamamı'nın coğrafyası, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölge, Mersin ilinin Tarsus ilçesinde yer alır ve ziyaretçilere, şehrin gürültüsünden uzak, doğayla iç içe bir atmosfer sunar. Şahmaran Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu geniş alan, ziyaretçilere geniş bir faaliyet alanı sağlar.
+Şahmaran Hamamı, coğrafî açıdan zengin bir bölge. İç Anadolu Bölgesi'nin güneydoğusunda, Akdeniz Bölgesi'nin kuzeyinde yer alır. Bu konum, bölgenin iklimini etkiler ve Şahmaran Hamamı, ılıman bir iklimin característicasını taşır. Bölge, yeşilin farklı tonlarını sunan ormanlık alanlarla çevrilidir. Bölge, Mersin ilinin Tarsus ilçesinde yer alır ve ziyaretçilere, şehrin gürültüsünden uzak, doğayla iç içe bir atmosfer sunar.
 
 ## Flora ve Fauna
 

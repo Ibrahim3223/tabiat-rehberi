@@ -28,7 +28,7 @@ wikidata_id: "Q31388615"
 
 # Suma Tepesi
 
-Suma Tepesi, Erzurum'un görkemli dağlarından biri olarak dikkat çekiyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Suma Tepesi, trekking ve kış sporları için ideal bir destinasyon olarak biliniyor. Ziyaretçiler, bu güzel tepeye tırmanırken, Erzurum'un eşsiz manzarasını keşfedebilirler. Suma Tepesi, doğa severlerin ve macera arayanların vazgeçilmez bir adresi olarak öne çıkıyor.
+Suma Tepesi, Erzurum'un görkemli dağlarından biri olarak dikkat çekiyor. Suma Tepesi, trekking ve kış sporları için ideal bir destinasyon olarak biliniyor. Ziyaretçiler, bu güzel tepeye tırmanırken, Erzurum'un eşsiz manzarasını keşfedebilirler. Suma Tepesi, doğa severlerin ve macera arayanların vazgeçilmez bir adresi olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Suma Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölg
 
 ## Coğrafya
 
-Suma Tepesi, Erzurum'un dağlık bölgesinde yer alıyor. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Suma Tepesi, trekking ve kış sporları için ideal bir destinasyon olarak biliniyor. Ziyaretçiler, bu güzel tepeye tırmanırken, Erzurum'un eşsiz manzarasını keşfedebilirler. Suma Tepesi, doğa severlerin ve macera arayanların vazgeçilmez bir adresi olarak öne çıkıyor. Bu tepe, ziyaretçilerine çeşitli coğrafi oluşumları sunuyor. Suma Tepesi, Erzurum'un coğrafi güzelliğinin önemli bir parçasıdır.
+Suma Tepesi, Erzurum'un dağlık bölgesinde yer alıyor. Suma Tepesi, trekking ve kış sporları için ideal bir destinasyon olarak biliniyor. Ziyaretçiler, bu güzel tepeye tırmanırken, Erzurum'un eşsiz manzarasını keşfedebilirler. Suma Tepesi, doğa severlerin ve macera arayanların vazgeçilmez bir adresi olarak öne çıkıyor. Bu tepe, ziyaretçilerine çeşitli coğrafi oluşumları sunuyor. Suma Tepesi, Erzurum'un coğrafi güzelliğinin önemli bir parçasıdır.
 
 ## Flora ve Fauna
 

@@ -32,7 +32,7 @@ Mardin'in tarihi ve kültürel zenginliklerine ev sahipliği yapan coğrafyasın
 
 ## Tarihçe
 
-Mardin bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Kebşir Tepe, bu bölgenin önemli doğal alanlarından biridir. Mardin, históriki ticaret yollarının kesişme noktasında bulunması nedeniyle, çeşitli uygarlıkların izlerini taşır. Hitit, Asur, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve izler bırakmıştır.
+Mardin bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Kebşir Tepe, bu bölgenin önemli doğal alanlarından biridir. Mardin, tarihi ticaret yollarının kesişme noktasında bulunması nedeniyle, çeşitli uygarlıkların izlerini taşır. Hitit, Asur, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve izler bırakmıştır.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Yaylacılık ve hayvancılık, bölgenin ekonomi ve sosyal yapısını şekillendirmiş, insanların bu alanla ilişkisi ticaret, tarım ve üretim üzerinden oluşmuştur. Kebşir Tepe, bölgenin coğrafi yapısını ve doğal güzelliğini temsil eder. Bu alanın tarihsel önemi, yalnızca doğal güzelliği ile değil, aynı zamanda bölgenin kültürel ve ekonomik geçmişine de ışık tutar.
 

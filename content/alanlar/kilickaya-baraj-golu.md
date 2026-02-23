@@ -49,11 +49,11 @@ Gölün çevresinde, çeşitli su kaynakları ve ekosistemler bulunmaktadır. Bu
 
 ## Flora ve Fauna
 
-Kılıçkaya Baraj Gölü, Sivas'ın step bitki örtüsünün hakim olduğu bölgesinde, 1200 hektarlık bir yeşil cennet olarak karşımıza çıkıyor. İlbahar aylarında, gölün etrafındaki bozkır alanlar renkli çiçeklerle donanırken, sonbaharda göç eden su kuşları gökyüzünü süsler. 
+Kılıçkaya Baraj Gölü, Sivas'ın step bitki örtüsünün hakim olduğu bölgesinde, 1200 hektarlık bir yeşil cennet olarak karşımıza çıkıyor. İlbahar aylarında, gölün etrafındaki bozkır alanlar renkli çiçeklerle donanırken, sonbaharda göç eden su kuşları gökyüzünü süsler.
 
-Bitki örtüsü olarak, gölün etrafı kuraklığa adapte olmuş otsu bitkiler ve çalılıklarla kaplıdır. Mevsimsel değişimlerle birlikte, ilkbaharda çiçek açan bitkiler ve sonbaharda sararan yapraklar göze çarpar. 
+Bitki örtüsü olarak, gölün etrafı kuraklığa adapte olmuş otsu bitkiler ve çalılıklarla kaplıdır. Mevsimsel değişimlerle birlikte, ilkbaharda çiçek açan bitkiler ve sonbaharda sararan yapraklar göze çarpar.
 
-Yaban hayatı açısından, göl ve çevresinde çeşitli su kuşları, balıklar ve memeliler yaşar. Su kuşları, gölün sulak alanlarında yuvalanırken, balıklar ise gölün sularında yaşar. Memeliler ise, gölün etrafındaki bozkır alanlarda dolaşır. 
+Yaban hayatı açısından, göl ve çevresinde çeşitli su kuşları, balıklar ve memeliler yaşar. Su kuşları, gölün sulak alanlarında yuvalanırken, balıklar ise gölün sularında yaşar. Memeliler ise, gölün etrafındaki bozkır alanlarda dolaşır.
 
 Ekolojik açıdan, Kılıçkaya Baraj Gölü önemli bir sulak alan ekosistemi olarak dikkat çeker. Bu ekosistem, su kuşları ve balıkların yaşamsal döngüsünde kritik bir rol oynar. Ayrıca, göl ve çevresinin korunması, bölgenin ekolojik dengesinin korunması için önemlidir.
 

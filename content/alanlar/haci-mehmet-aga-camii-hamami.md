@@ -1,7 +1,7 @@
 ---
 title: "Hacı Mehmet Ağa Camii Hamamı"
 date: "2026-01-09T23:20:10.391Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738951"
 
 # Hacı Mehmet Ağa Camii Hamamı
 
-Hacı Mehmet Ağa Camii Hamamı, Edirne'nin Keşan ilçesinde bulunmakta ve tarihi ile doğal güzelliklerinin birleştiği bir noktayı temsil etmektedir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Ziyaretçilerini tarihi ve doğal güzelliklerin içerisinde bir yolculuğa çıkarmaktadır. Hacı Mehmet Ağa Camii Hamamı, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur.
+Hacı Mehmet Ağa Camii Hamamı, Edirne'nin Keşan ilçesinde bulunmakta ve tarihi ile doğal güzelliklerinin birleştiği bir noktayı temsil etmektedir. Ziyaretçilerini tarihi ve doğal güzelliklerin içerisinde bir yolculuğa çıkarmaktadır. Hacı Mehmet Ağa Camii Hamamı, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyondur.
 
 ## Tarihçe
 

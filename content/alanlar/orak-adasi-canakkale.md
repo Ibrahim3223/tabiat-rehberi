@@ -32,7 +32,7 @@ wikidata_id: "Q30667943"
 
 ## Tarihçe
 
-Çanakkale, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmıştır. Antik Çağ'dan başlayarak, Truva Savaşı'nın gerçekleştiği bu topraklar, Roma ve Bizans dönemlerini de görmüştür. Daha sonra Osmanlı İmparatorluğu'nun bir parçası haline gelen Çanakkale, stratejik konumuyla wichtig bir ticaret ve askeri merkez olarak hizmet vermiştir.
+Çanakkale, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmıştır. Antik Çağ'dan başlayarak, Truva Savaşı'nın gerçekleştiği bu topraklar, Roma ve Bizans dönemlerini de görmüştür. Daha sonra Osmanlı İmparatorluğu'nun bir parçası haline gelen Çanakkale, stratejik konumuyla wichtig bir ticaret ve askeri merkez olarak hizmet vermiştir.
 
 Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Orak Adası da, bu tarihsel zenginliğin bir parçasını oluşturur. Türkiye'de, bu tür doğal alanlar thường olarak yaylacılık, hayvancılık ve tarım faaliyetlerine ev sahipliği yapmıştır. Ayrıca, tarih boyunca önemli ticaret yolları üzerinde yer alan bu bölgeler, farklı kültürlerin karşılaşma ve etkileşim noktaları olarak da görev üstlenmiştir. Çanakkale'nin tarihsel mirası, Orak Adası'nın doğal güzelliği ile birleşerek, bu bölgeyi ziyaret edenler için benzersiz bir deneyim sunar.
 

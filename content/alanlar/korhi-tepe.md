@@ -28,7 +28,7 @@ wikidata_id: "Q49042763"
 
 # Körhi Tepe
 
-Diyarbakır'ın histórik dokusu içinde yer alan Körhi Tepe, şehrin doğal ve kültürel zenginliklerini bir araya getiren önemli bir nokta. Bu tepe, Diyarbakır'ın merkezinde yer alıyor ve şehrin panoramik manzarasını sunuyor. Körhi Tepe, bölgeye özgü flora ve fauna türlerini barındıran bir alan olarak dikkat çekiyor. Diyarbakır'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için Körhi Tepe, önemli bir durak noktası olarak görülebiliyor.
+Diyarbakır'ın tarihi dokusu içinde yer alan Körhi Tepe, şehrin doğal ve kültürel zenginliklerini bir araya getiren önemli bir nokta. Bu tepe, Diyarbakır'ın merkezinde yer alıyor ve şehrin panoramik manzarasını sunuyor. Körhi Tepe, bölgeye özgü flora ve fauna türlerini barındıran bir alan olarak dikkat çekiyor. Diyarbakır'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için Körhi Tepe, önemli bir durak noktası olarak görülebiliyor.
 
 ## Tarihçe
 

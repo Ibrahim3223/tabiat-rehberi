@@ -34,7 +34,7 @@ Gümüşhane ilinin doğa harikaları arasında yer alan Tersun Dağı, ziyaret�
 
 Gümüşhane, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuştur. Bu bölgede, Hitit, Roma ve Osmanlı gibi medeniyetler iz bırakmıştır. Tersun Dağı, bu zengin tarihsel mirasın bir parçasıdır. Türkiye'de doğal alanlar, tarihin her döneminde önemli rol oynamıştır. İnsanlar, bu bölgeleri yerleşim, tarım, hayvancılık ve ticaret için kullanmışlardır.
 
-Gümüşhane'nin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, bölgenin stratejik önemini artırmıştır. Yaylacılık ve hayvancılık, régionün ekonomisinde önemli bir yer tutmuş, insanlar mevsimsel olarak dağlara çıkarak hayvanlarını otlatmışlardır. Bu gelenek, günümüzde hala devam etmektedir. Tersun Dağı ve çevresi, bu tür geleneksel faaliyetlerin yürütüldüğü önemli bir merkez olarak dikkat çekmektedir. Bölgenin doğal güzellikleri ve tarihsel önemi, günümüzde turizm açısından da değerlidir. Tersun Dağı, Gümüşhane'nin zengin tarihi ve kültürel mirasını yansıtan bir doğal alan olarak önemlidir.
+Gümüşhane'nin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, bölgenin stratejik önemini artırmıştır. Yaylacılık ve hayvancılık, bölgeün ekonomisinde önemli bir yer tutmuş, insanlar mevsimsel olarak dağlara çıkarak hayvanlarını otlatmışlardır. Bu gelenek, günümüzde hala devam etmektedir. Tersun Dağı ve çevresi, bu tür geleneksel faaliyetlerin yürütüldüğü önemli bir merkez olarak dikkat çekmektedir. Bölgenin doğal güzellikleri ve tarihsel önemi, günümüzde turizm açısından da değerlidir. Tersun Dağı, Gümüşhane'nin zengin tarihi ve kültürel mirasını yansıtan bir doğal alan olarak önemlidir.
 
 ## Coğrafya
 
@@ -42,14 +42,14 @@ Doğunun gizli köşelerinden biri olan Tersun Dağı, 40.3075°K, 39.3503°D ko
 
 Jeolojik açıdan bakıldığında, Tersun Dağı'nın boyutları hakkında detaylı bilgi bulunmasa da, bölgenin genel jeolojik yapısı hakkında bilgi verebiliriz. Gümüşhane ilinin genel olarak dağlık ve engebeli bir araziye sahip olduğu düşünülürse, Tersun Dağı da bu coğrafyanın bir parçası olarak benzer özellikler taşıyor olabilir. Örneğin, bir şehir bloğu büyüklüğünde olan bir alan, Tersun Dağı'nın bir bölümünü temsil edebilecek bir ölçek olabilir.
 
-Mevsimsel olarak bakıldığında, Tersun Dağı'nın iklimi Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. İlkbahar ve yaz aylarında ılıman bir hava hakimken, kış aylarında kar yağışı ve soğuk hava görülebiliyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bir noktada, hava koşulları oldukça değişken olabilir. 
+Mevsimsel olarak bakıldığında, Tersun Dağı'nın iklimi Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyor. İlkbahar ve yaz aylarında ılıman bir hava hakimken, kış aylarında kar yağışı ve soğuk hava görülebiliyor. Eiffel Kulesi'nin 2 katı yükseklikte olan bir noktada, hava koşulları oldukça değişken olabilir.
 Son olarak, Tersun Dağı'nın çevresinde birçok su kaynağı ve ekosistem bulunuyor. Bu bölgede yer alan ormanlar ve nehirler, bölgenin biyolojik çeşitliliğini destekliyor. Örneğin, Monaco'nun yarısı kadar büyük bir alanda, birçok farklı türün yaşadığına tanık olabiliriz.
 
 ## Flora ve Fauna
 
 Tersun Dağı, Gümüşhane'nin nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ, gür ormanlar ve yüksek biyoçeşitlili ile karakterize edilir. Dağ ekosistemi, yükseklik zonlarına bağlı olarak değişen flora ve fauna ile zengin bir çeşitlilik sunar.
 
-İlkbaharla birlikte, dağ eteklerinde çiçekler açmaya başlar. Sonbaharda ise, göçmen kuşlar bu bölgeden geçer. Dağın yüksek kesimlerinde, alpin flora hakimdir. 
+İlkbaharla birlikte, dağ eteklerinde çiçekler açmaya başlar. Sonbaharda ise, göçmen kuşlar bu bölgeden geçer. Dağın yüksek kesimlerinde, alpin flora hakimdir.
 
 Memeliler, kuşlar ve sürüngenler burada yaşar. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, ormanlar ve yüksek kesimlerde bulunur. Kuşlar, özellikle göçmen türler, dağların yükseklik zonlarına bağlı olarak değişen yaşam alanlarını kullanır. Sürüngenler ise, kayalık ve güneşli alanlarda yaşar.
 

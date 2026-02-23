@@ -28,7 +28,7 @@ wikidata_id: "Q31520073"
 
 # İtdağı
 
-Kayseri'nin dağlık bölgelerinde yer alan İtdağı, Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için bir hedef. Bu bölgenin coğrafi özellikleri, ziyaretçilerini etkileyen bir manzara sunuyor. İtdağı, Kayseri'nin zengin tarihi ve kültürel mirasının bir parçası olarak dikkat çekiyor. Doğa severler için ideal bir destinasyon olan İtdağı, ziyaretçilerine unutulmaz bir deneyim vadediyor.
+Kayseri'nin dağlık bölgelerinde yer alan İtdağı, Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için bir hedef. Bu bölgenin coğrafi özellikleri, ziyaretçilerini etkileyen bir manzara sunuyor. İtdağı, Kayseri'nin zengin tarihi ve kültürel mirasının bir parçası olarak dikkat çekiyor.
 
 ## Tarihçe
 

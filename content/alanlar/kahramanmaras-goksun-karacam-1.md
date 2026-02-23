@@ -22,7 +22,7 @@ wikidata_id: "Q108227519"
 
 # Kahramanmaras-Goksun Karacam 1
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Kahramanmaras-Goksun Karacam 1, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliği sunuyor. Bu büyüleyici mekanda, ziyaretçiler çeşitli bitki türleri ve zengin fauna ile karşılaşmak üzere doğanın içinde bir yolculuğa çıkarlar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğa deneyimi sunuyor. Ziyaretçiler, bu doğa harikasının sunduğu huzurlu atmosferi soluyarak, günlük hayatın stresinden uzaklaşabilirler.
+ Bu büyüleyici mekanda, ziyaretçiler çeşitli bitki türleri ve zengin fauna ile karşılaşmak üzere doğanın içinde bir yolculuğa çıkarlar. Ziyaretçiler, bu doğa harikasının sunduğu huzurlu atmosferi soluyarak, günlük hayatın stresinden uzaklaşabilirler.
 
 ## Tarihçe
 

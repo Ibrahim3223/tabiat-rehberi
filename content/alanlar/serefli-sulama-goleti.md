@@ -48,11 +48,11 @@ Doğal bir su kaynağı olarak ortaya çıkan Şerefli Sulama Göleti, bölgenin
 
 ## Flora ve Fauna
 
-Şerefli Sulama Göleti, Diyarbakır'ın yarı kurak ikliminin içerisinde bir sulak alan cenneti olarak karşımıza çıkıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Şerefli Sulama Göleti, Diyarbakır'ın yarı kurak ikliminin içerisinde bir sulak alan cenneti olarak karşımıza çıkıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Göletin bitki örtüsünü oluşturan sulak alan bitkileri, ilkbaharın gelmesiyle birlikte renkli çiçeklerle donanıyor. Bu mevsimde, suyun kenarlarında ve adacıklarda çeşitli otsu bitkiler ve su bitkileri görülüyor. Sonbahar ise, göçmen su kuşlarının gelmesiyle birlikte canlanıyor. 
+Göletin bitki örtüsünü oluşturan sulak alan bitkileri, ilkbaharın gelmesiyle birlikte renkli çiçeklerle donanıyor. Bu mevsimde, suyun kenarlarında ve adacıklarda çeşitli otsu bitkiler ve su bitkileri görülüyor. Sonbahar ise, göçmen su kuşlarının gelmesiyle birlikte canlanıyor.
 
-Yaban hayatıında, gölette çeşitli su kuşları, balıklar ve diğer su canlıları yaşamlarını sürdürüyor. Bu canlılar, göletin ekosistemini oluşturan önemli bileşenler ve birbirleriyle olan ekolojik ilişkileri, bu alan'nın canlılığını koruyor. 
+Yaban hayatıında, gölette çeşitli su kuşları, balıklar ve diğer su canlıları yaşamlarını sürdürüyor. Bu canlılar, göletin ekosistemini oluşturan önemli bileşenler ve birbirleriyle olan ekolojik ilişkileri, bu alan'nın canlılığını koruyor.
 
 Şerefli Sulama Göleti'nin ekolojik değeri, bölgedeki sulak alan ekosistemini korumak açısından büyük önem taşıyor. Bu alan, birçok canlı türünün yaşam alanı ve göç rotaları üzerinde önemli bir durak noktası olarak işlev görüyor.
 

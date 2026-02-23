@@ -50,7 +50,7 @@ Bölgenin ekosistem bağlantıları açısından, Gökdere Dağı'nın komşu al
 
 ## Flora ve Fauna
 
-Gökdere Dağı, Elazığ'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gökdere Dağı, Elazığ'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü açısından, Gökdere Dağı'nda hakim türler arasında alpin çayırlar ve yüksek dağ bitkileri yer alır. İlkbaharın gelmesiyle birlikte, dağ yamaçları renklendirilir ve çiçekler açmaya başlar. Sonbahar mevsiminde ise, dağların rengi sarı, turuncu ve kırmızıyla değişir.
 

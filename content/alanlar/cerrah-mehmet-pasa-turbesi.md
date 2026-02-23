@@ -1,7 +1,7 @@
 ---
 title: "Cerrah Mehmet Paşa Türbesi"
 date: "2026-01-10T07:22:02.486Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391045"
 
 # Cerrah Mehmet Paşa Türbesi
 
-Cerrah Mehmet Paşa Türbesi, İstanbul'un tarihi merkezi olan Fatih'te yer alan önemli bir kültürel varlıktır. Bu türbe, 140 hektarlık bir alanın içinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içerisinde yer alıyor. Cerrah Mehmet Paşa Türbesi, geçmişte önemli bir sağlık hizmeti sunan bir figura adanmış ve İstanbul'un tarihini ve kültürünü anlamak için bir kapı işlevi görüyor.
+Cerrah Mehmet Paşa Türbesi, İstanbul'un tarihi merkezi olan Fatih'te yer alan önemli bir kültürel varlıktır. Cerrah Mehmet Paşa Türbesi, geçmişte önemli bir sağlık hizmeti sunan bir figura adanmış ve İstanbul'un tarihini ve kültürünü anlamak için bir kapı işlevi görüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Cerrah Mehmet Paşa Türbesi, tarihsel geçmişi ile dikkat çekiyor. Geçmişte
 
 ## Coğrafya
 
-Cerrah Mehmet Paşa Türbesi, Marmara Bölgesi'nin kalbinde, İstanbul'un tarihi merkezi olan Fatih'te yer alır. Türbe ve çevresi, 140 hektarlık bir yeşil alanın içerisinde yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un kalabalık ve gürültülü ortamlarından uzak, sakin bir atmosfer sunuyor. Çevresinde, tarihi binalar, camiler ve diğer kültürel varlıklar yer alıyor. Bu bölge, aynı zamanda İstanbul'un önemli ulaşım hatlarına yakınlığı ile dikkat çekiyor. Türbenin mimarisi, geleneksel Osmanlı tarzını yansıtıyor ve tarihi değer taşıyor. Çevrede, çeşitli bitki türleri ve zengin fauna da yer alıyor. Bu bölge, hem tarihsel hem de doğal güzellikleri ile ziyaretçilere çekici geliyor.
+Cerrah Mehmet Paşa Türbesi, Marmara Bölgesi'nin kalbinde, İstanbul'un tarihi merkezi olan Fatih'te yer alır. Türbe ve çevresi, 140 hektarlık bir yeşil alanın içerisinde yer alıyor. Çevresinde, tarihi binalar, camiler ve diğer kültürel varlıklar yer alıyor. Bu bölge, aynı zamanda İstanbul'un önemli ulaşım hatlarına yakınlığı ile dikkat çekiyor. Türbenin mimarisi, geleneksel Osmanlı tarzını yansıtıyor ve tarihi değer taşıyor. Çevrede, çeşitli bitki türleri ve zengin fauna da yer alıyor. Bu bölge, hem tarihsel hem de doğal güzellikleri ile ziyaretçilere çekici geliyor.
 
 ## Flora ve Fauna
 

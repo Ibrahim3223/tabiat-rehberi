@@ -28,7 +28,7 @@ wikidata_id: "Q31388007"
 
 # Bileğlik Tepesi
 
-Bileğlik Tepesi, Uşak ilinin merkezine yakın bir konumda yer alır ve Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Bileğlik Tepesi, ziyaretçilerine geniş bir manzara sunar ve Ege Bölgesi'nin coğrafi özelliklerini gözlemlemek için ideal bir noktadır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölge, farklı mevsimlerde ziyaretçilerine farklı bir güzellik sunar.
+Bileğlik Tepesi, Uşak ilinin merkezine yakın bir konumda yer alır ve Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. Bileğlik Tepesi, ziyaretçilerine geniş bir manzara sunar ve Ege Bölgesi'nin coğrafi özelliklerini gözlemlemek için ideal bir noktadır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölge, farklı mevsimlerde ziyaretçilerine farklı bir güzellik sunar.
 
 ## Tarihçe
 

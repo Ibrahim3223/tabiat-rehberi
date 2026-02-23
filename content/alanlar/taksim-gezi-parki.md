@@ -52,7 +52,7 @@ Mevsimsel değişimlere bağlı olarak, Taksim Gezi Parkı'nın iklim karakteri,
 
 Taksim Gezi Parkı, İstanbul'un kalbinde yer alan bir botanik bahçesi olarak, step bitki örtüsüne özgü türlerle dolu 1200 hektarlık bir yeşil cennet sunuyor. İlkbaharın gelmesiyle birlikte, parkta çiçek açan otsu bitkiler ve çalılar boy gösteriyor. Bu mevsimde, bozkırın karakteristik türleri zoals çayır çiçekleri ve yabani buğdaylar, parkın manzarasına renk katar.
 
-Parkın yaban hayatı da dikkat çekici. Memeliler ve kuşlar, bu ekosistemin önemli bileşenleridir. Kış aylarında, göçmen kuşlar parkta konaklar. Sürüngenler ve böcekler de bu alanın ekolojik dengesine katkıda bulunur. 
+Parkın yaban hayatı da dikkat çekici. Memeliler ve kuşlar, bu ekosistemin önemli bileşenleridir. Kış aylarında, göçmen kuşlar parkta konaklar. Sürüngenler ve böcekler de bu alanın ekolojik dengesine katkıda bulunur.
 
 Taksim Gezi Parkı, İstanbul'un ekolojik değerini koruma açısından büyük önem taşır. Bu alan, kent içinde bir yeşil lungs olarak işlev görür ve yerel canlı türlerinin yaşam alanını sağlar.
 

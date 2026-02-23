@@ -28,7 +28,7 @@ wikidata_id: "Q31385782"
 
 # Hacıcemil Tepe
 
-Hacıcemil Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne denk gelir. Hacıcemil Tepe, ziyaretçilerini doğal güzellikleriyle karşılar ve bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir noktadır. Tepe, bölgenin coğrafi yapısını gözlemlemek isteyenler için ideal bir noktada bulunur ve ziyaretçilere geniş bir manzara sunar.
+Hacıcemil Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe alanıdır. Hacıcemil Tepe, ziyaretçilerini doğal güzellikleriyle karşılar ve bölgenin tarihi geçmişi hakkında bilgi edinmek isteyenler için önemli bir noktadır. Tepe, bölgenin coğrafi yapısını gözlemlemek isteyenler için ideal bir noktada bulunur ve ziyaretçilere geniş bir manzara sunar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Çoban Mustafa Paşa Hamamı"
 date: "2026-01-09T22:38:47.126Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -30,11 +30,11 @@ wikidata_id: "Q131738681"
 
 # Çoban Mustafa Paşa Hamamı
 
-Gebze'nin merkezinde, Marmara Bölgesi'nin zengin tarihini ve doğal güzelliklerini bir araya getiren Çoban Mustafa Paşa Hamamı, ziyaretçilerini büyüleyici bir yolculuğa çıkarıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Gebze'nin en önemli tarihi ve turistik noktalarından biri. Bu tarihi hamam, yüzyıllar boyunca bölgeye hizmet vermiş ve bugün bir kültür merkezi olarak kullanılıyor. Ziyaretçiler, hamamın tarihi atmosferini keşfedebilir ve çevredeki doğal güzellikleri keşfe çıkabilirler.
+Gebze'nin merkezinde, Marmara Bölgesi'nin zengin tarihini ve doğal güzelliklerini bir araya getiren Çoban Mustafa Paşa Hamamı, ziyaretçilerini büyüleyici bir yolculuğa çıkarıyor. Bu tarihi hamam, yüzyıllar boyunca bölgeye hizmet vermiş ve bugün bir kültür merkezi olarak kullanılıyor. Ziyaretçiler, hamamın tarihi atmosferini keşfedebilir ve çevredeki doğal güzellikleri keşfe çıkabilirler.
 
 ## Tarihçe
 
-Çoban Mustafa Paşa Hamamı, tarihsel geçmişi ile dikkat çekiyor. Tarihi kaynaklara göre, hamamın inşa edildiği tarih kesin olarak bilinmese de, yüzyıllar boyunca bölgede önemli bir role sahip olduğu biliniyor. Hamam, bölgenin sosyal ve kültürel yaşamında önemli bir yer tutmuş ve çeşitli dönemlerde restore edilmiş. Günümüzde, hamamın tarihi yapıları restore edilmiş ve ziyaretçilere açılmış durumda. Ziyaretçiler, hamamın histórik atmosferini keşfedebilir ve bölgenin zengin tarihini öğrenebilirler. Çoban Mustafa Paşa Hamamı, Gebze'nin tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor.
+Çoban Mustafa Paşa Hamamı, tarihsel geçmişi ile dikkat çekiyor. Tarihi kaynaklara göre, hamamın inşa edildiği tarih kesin olarak bilinmese de, yüzyıllar boyunca bölgede önemli bir role sahip olduğu biliniyor. Hamam, bölgenin sosyal ve kültürel yaşamında önemli bir yer tutmuş ve çeşitli dönemlerde restore edilmiş. Günümüzde, hamamın tarihi yapıları restore edilmiş ve ziyaretçilere açılmış durumda. Ziyaretçiler, hamamın tarihi atmosferini keşfedebilir ve bölgenin zengin tarihini öğrenebilirler. Çoban Mustafa Paşa Hamamı, Gebze'nin tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor.
 
 ## Coğrafya
 

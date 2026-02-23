@@ -28,7 +28,7 @@ wikidata_id: "Q31505499"
 
 # Tahtakili Tepesi
 
-Tahtakili Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal ve tarihi güzelliklerinden biridir. Şanlıurfa ilinin merkezi ile çevresi arasında yer alan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Tahtakili Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişini anlamak için önemli bir noktadır.
+Tahtakili Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal ve tarihi güzelliklerinden biridir. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Tahtakili Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişini anlamak için önemli bir noktadır.
 
 ## Tarihçe
 

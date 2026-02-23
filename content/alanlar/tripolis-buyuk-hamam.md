@@ -1,7 +1,7 @@
 ---
 title: "Tripolis Büyük Hamam"
 date: "2026-01-09T23:16:32.627Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739010"
 
 # Tripolis Büyük Hamam
 
-Tripolis Büyük Hamam, Ege Bölgesi'nin gizli cenneti olarak bilinen Buldan'da bulunmaktadır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmektedir. Alanın büyüklüğü ve güzelliği, ziyaretçilerini büyülemektedir. Tripolis Büyük Hamam, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor.
+Tripolis Büyük Hamam, Ege Bölgesi'nin gizli cenneti olarak bilinen Buldan'da bulunmaktadır. Alanın büyüklüğü ve güzelliği, ziyaretçilerini büyülemektedir. Tripolis Büyük Hamam, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tripolis Büyük Hamam'ın tarihi geçmişi, yüzyıllar boyunca devam etmiştir
 
 ## Coğrafya
 
-Tripolis Büyük Hamam, Buldan'da bulunan 140 hektarlık bir yeşil alandır. Bu bölge, Ege Bölgesi'nin coğrafyasını temsil etmektedir. Tripolis Büyük Hamam'ın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölgenin iklimi, Ege Bölgesi'nin iklimine benzer ve ziyaretçilerine uygun koşullar sunmaktadır. Tripolis Büyük Hamam, çevresi ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu bölge, ziyaretçilerine geniş bir yeşil alan sunuyor. Tripolis Büyük Hamam, coğrafi özellikleri ile ziyaretçilerini büyülemektedir.
+Tripolis Büyük Hamam, Buldan'da bulunan 140 hektarlık bir yeşil alandır. Bu bölge, Ege Bölgesi'nin coğrafyasını temsil etmektedir. Tripolis Büyük Hamam'ın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölgenin iklimi, Ege Bölgesi'nin iklimine benzer ve ziyaretçilerine uygun koşullar sunmaktadır. Bu bölge, ziyaretçilerine geniş bir yeşil alan sunuyor. Tripolis Büyük Hamam, coğrafi özellikleri ile ziyaretçilerini büyülemektedir.
 
 ## Flora ve Fauna
 

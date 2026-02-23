@@ -51,7 +51,7 @@ Bölgenin ekosistem bağlantıları açısından, Bingöl Dağları, komşu alan
 
 ## Flora ve Fauna
 
-Bingöl Dağları, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. İlkbaharla birlikte, bozkırın kuraklığına adapte olan türler, renkli çiçeklerle donanıyor. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği göze çarpıyor. 
+Bingöl Dağları, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. İlkbaharla birlikte, bozkırın kuraklığına adapte olan türler, renkli çiçeklerle donanıyor. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği göze çarpıyor.
 
 Bu dağların yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Kış mevsiminde, bazı kuş türleri göç ederken, memeliler ve sürüngenler ise yüksek dağların karlı bölgelerine çekiliyor. Ekolojik ilişkiler, bu dağların canlıları arasında sıkı bir bağ oluşturuyor. Örneğin, bazı memeliler, step bitkilerine bağımlı olarak beslenirken, sürüngenler de bu bitkilerin arasında yaşamlarını sürdürüyor.
 

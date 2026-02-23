@@ -1,7 +1,7 @@
 ---
 title: "Anonim Türbe"
 date: "2026-01-10T04:54:36.949Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391533"
 
 # Anonim Türbe
 
-Anonim Türbe, Aydın'ın Efeler ilçesinde bulunan bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel plajlarından biridir. Anonim Türbe, doğa severlerin ziyaret ettiği bir yer olarak bilinir. Burada, denizin serin sularında yüzebilir, güneşin mışını hissedece ve doğanın güzelliğini keşfedebilirsiniz.
+Anonim Türbe, Aydın'ın Efeler ilçesinde bulunan bir plajdır. Anonim Türbe, doğa severlerin ziyaret ettiği bir yer olarak bilinir. Burada, denizin serin sularında yüzebilir, güneşin mışını hissedece ve doğanın güzelliğini keşfedebilirsiniz.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Anonim Türbe'nin tarihi geçmişi vardır. Bu bölgede, yüzyıllar boyunca çe
 
 ## Coğrafya
 
-Anonim Türbe, Efeler ilçesinde yer alır ve Ege Bölgesi'nin en güzel plajlarından biridir. Bu plaj, 140 hektarlık bir yeşil alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Anonim Türbe'nin coğrafyası, denizin serin suları, güneşin mışıyla karakterizedir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Anonim Türbe, aynı zamanda, çevresindeki dağlarla çevrili bir vadide yer alır ve bu nedenle, buradaki iklim, diğer bölgelere göre daha farklıdır.
+Anonim Türbe, Efeler ilçesinde yer alır ve Ege Bölgesi'nin en güzel plajlarından biridir. Anonim Türbe'nin coğrafyası, denizin serin suları, güneşin mışıyla karakterizedir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Anonim Türbe, aynı zamanda, çevresindeki dağlarla çevrili bir vadide yer alır ve bu nedenle, buradaki iklim, diğer bölgelere göre daha farklıdır.
 
 ## Flora ve Fauna
 

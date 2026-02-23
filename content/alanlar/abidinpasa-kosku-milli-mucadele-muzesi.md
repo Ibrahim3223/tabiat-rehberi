@@ -1,7 +1,7 @@
 ---
 title: "Abidinpaşa Köşkü Milli Mücadele Müzesi"
 date: "2026-01-10T15:12:00.548Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"

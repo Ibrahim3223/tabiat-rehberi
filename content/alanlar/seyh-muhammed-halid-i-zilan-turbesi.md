@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Muhammed Halid-i Zilan Türbesi"
 date: "2026-01-10T06:11:33.736Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Batman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390693"
 
 # Şeyh Muhammed Halid-i Zilan Türbesi
 
-Şeyh Muhammed Halid-i Zilan Türbesi, Beşiri ilçesinde yer alan bir türbe ve plaj alanı olarak dikkat çekmektedir. Batman'ın Güneydoğu Anadolu Bölgesi'nde bulunan bu alan, hem tarihi hem de doğal güzellikleri bir araya getirmesiyle ziyaretçilerini cezbediyor. Türbenin etrafında yer alan yeşil alanlar, yaklaşık 140 hektarlık bir alanı kapsamakta ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Bu türbe ve plaj alanı, hem dinî hem de doğal güzelliklerin bir arada olduğu özel bir destinasyon olarak tanınmaktadır.
+Şeyh Muhammed Halid-i Zilan Türbesi, Beşiri ilçesinde yer alan bir türbe ve plaj alanı olarak dikkat çekmektedir. Batman'ın Güneydoğu Anadolu Bölgesi'nde bulunan bu alan, hem tarihi hem de doğal güzellikleri bir araya getirmesiyle ziyaretçilerini cezbediyor. Bu türbe ve plaj alanı, hem dinî hem de doğal güzelliklerin bir arada olduğu özel bir destinasyon olarak tanınmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390693"
 
 ## Coğrafya
 
-Şeyh Muhammed Halid-i Zilan Türbesi, Beşiri ilçesinde yer almaktadır. Batman'ın Güneydoğu Anadolu Bölgesi'nde bulunan bu alan, coğrafi olarak çeşitlilik gösteren bir bölgeye sahiptir. Türbenin etrafında yer alan plaj alanı, doğal güzellikleri ile dikkat çekmektedir. Bölge, iklim olarak ılıman ve kurak bir yapıya sahiptir. Kış ayları hafif soğuk, yaz ayları ise sıcakk geçmektedir. Türbe ve plaj alanı, çevre köyler ve ilçe merkezine yakınlığıyla ulaşım bakımından da kolaylık sağlamaktadır. Batman Nehri'nin yakınlarında yer alan bu alan, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini beklemektedir. Bölgenin coğrafi yapısı, ziyaretçilere hem dinî birExperience hem de doğal güzellikleri keşfetme fırsatı sunmaktadır.
+Şeyh Muhammed Halid-i Zilan Türbesi, Beşiri ilçesinde yer almaktadır. Batman'ın Güneydoğu Anadolu Bölgesi'nde bulunan bu alan, coğrafi olarak çeşitlilik gösteren bir bölgeye sahiptir. Türbenin etrafında yer alan plaj alanı, doğal güzellikleri ile dikkat çekmektedir. Bölge, iklim olarak ılıman ve kurak bir yapıya sahiptir. Kış ayları hafif soğuk, yaz ayları ise sıcakk geçmektedir. Türbe ve plaj alanı, çevre köyler ve ilçe merkezine yakınlığıyla ulaşım bakımından da kolaylık sağlamaktadır. Batman Nehri'nin yakınlarında yer alan bu alan, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 

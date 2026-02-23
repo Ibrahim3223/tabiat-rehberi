@@ -1,7 +1,7 @@
 ---
 title: "Süleymaniye Camii"
 date: "2026-01-09T22:06:15.886Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q178643"
 
 # Süleymaniye Camii
 
-Süleymaniye Camii, İstanbul'un Fatih ilçesinde bulunan ve Marmara Bölgesi'nin en önemli tarihi ve kültürel mekanlarından biri olan bir dini yapıttır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçilerini büyüleyici bir atmosfere davet eder. Caminin mimarisi, Osmanlı'nın ihtişamını ve sanatsal yeteneklerini yansıtan muhteşem bir örnek olarak karşımıza çıkar. Bu tarihi mekan, her year binlerce ziyaretçisini ağırlar ve onların gözlerini geniş tarihi bilgilerle doldurur.
+Süleymaniye Camii, İstanbul'un Fatih ilçesinde bulunan ve Marmara Bölgesi'nin en önemli tarihi ve kültürel mekanlarından biri olan bir dini yapıttır. Caminin mimarisi, Osmanlı'nın ihtişamını ve sanatsal yeteneklerini yansıtan muhteşem bir örnek olarak karşımıza çıkar. Bu tarihi mekan, her year binlerce ziyaretçisini ağırlar ve onların gözlerini geniş tarihi bilgilerle doldurur.
 
 ## Tarihçe
 

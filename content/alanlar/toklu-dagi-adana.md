@@ -32,7 +32,7 @@ Adana'nın zengin doğal güzelliklerinden biri olan Toklu Dağı, ziyaretçiler
 
 ## Tarihçe
 
-Toklu Dağı, Adana'nın tarihi ve kültürel zenginliklerinin bir parçası olarak karşımıza çıkıyor. Bu bölgenin tarihi, Hititlerin, Romalıların ve Osmanlıların izlerini taşıyor. Adana, tarih boyunca önemli ticaret yollarının kesişme noktası olarak görev görmüş ve çeşitli uygarlıkların yerleşim alanı olmuştur. 
+Toklu Dağı, Adana'nın tarihi ve kültürel zenginliklerinin bir parçası olarak karşımıza çıkıyor. Bu bölgenin tarihi, Hititlerin, Romalıların ve Osmanlıların izlerini taşıyor. Adana, tarih boyunca önemli ticaret yollarının kesişme noktası olarak görev görmüş ve çeşitli uygarlıkların yerleşim alanı olmuştur.
 
 Doğal güzelliği ve stratejik konumuyla Toklu Dağı, bölgenin ekonomi ve sosyal hayatında önemli bir rol oynamıştır. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için elverişli ortamlar sağlamış, yaylacılık ve hayvancılık faaliyetlerine ev sahipliği yapmıştır. İnsanlar, bu alanları yalnızca ekonomik faaliyetler için değil, aynı zamanda dinlenme ve kültür paylaşım noktaları olarak da kullanmışlardır.
 
@@ -52,7 +52,7 @@ Toklu Dağı, çevresindeki ekosistemle güçlü bir ilişkiye sahip. Bölgenin 
 
 Toklu Dağı, Adana'nın zengin ekosistemine ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, maki bitki örtüsüne ve kuraklığa dayanıklı türlere ev sahipliği yapıyor. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanıyor.
 
-Bitki Örtüsü olarak, maki türleri hakim durumda. Kıyı ekosisteminin etkisiyle, tuzlu toprakları seven bitkiler de bulunmakta. Yaban Hayatı açısından, dağda various memeli ve kuş türleri yaşamaktadır. Sürüngenler de bu dağ ekosisteminin bir parçası. 
+Bitki Örtüsü olarak, maki türleri hakim durumda. Kıyı ekosisteminin etkisiyle, tuzlu toprakları seven bitkiler de bulunmakta. Yaban Hayatı açısından, dağda various memeli ve kuş türleri yaşamaktadır. Sürüngenler de bu dağ ekosisteminin bir parçası.
 
 Ekolojik Değer olarak, Toklu Dağı, bölgenin ekolojik dengesini sağlamada önemli bir rol oynuyor. Dağın yükseklik zonları, alpin flora ve dağ hayvanlarının yaşam alanı. Bu dağ, aynı zamanda göçmen kuşlar için önemli bir durak noktası. Koruma durumu, bu doğal alanın gelecek nesiller için korunması açısından kritik önem taşıyor.
 

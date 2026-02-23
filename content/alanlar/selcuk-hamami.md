@@ -1,7 +1,7 @@
 ---
 title: "Selçuk Hamamı"
 date: "2026-01-09T22:18:36.467Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738411"
 
 # Selçuk Hamamı
 
-Selçuk Hamamı, İzmir'in Selçuk ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. Bu plaj, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Selçuk Hamamı, güneşin ve denizin keyfini çıkarabileceğiniz, aynı zamanda doğanın güzelliğini keşfedebileceğiniz bir yer. Plajın kumları trng ve ince, denizi ise berra ve sıcaktır. Selçuk Hamamı, hem yerli hem de yabancı turistlerin ziyaret ettiği popüler bir destinasyondur.
+Selçuk Hamamı, İzmir'in Selçuk ilçesinde yer alan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olan bir plajdır. Selçuk Hamamı, güneşin ve denizin keyfini çıkarabileceğiniz, aynı zamanda doğanın güzelliğini keşfedebileceğiniz bir yer. Plajın kumları trng ve ince, denizi ise berra ve sıcaktır. Selçuk Hamamı, hem yerli hem de yabancı turistlerin ziyaret ettiği popüler bir destinasyondur.
 
 ## Tarihçe
 

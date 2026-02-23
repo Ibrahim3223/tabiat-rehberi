@@ -51,11 +51,11 @@ Mevsimsel değişimler açısından Arnos Dağı, Van'ın karasal ikliminin etki
 
 ## Flora ve Fauna
 
-Arnos Dağı, Van'ın yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Arnos Dağı, Van'ın yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ eteklerinde çiçekler açar, sonbaharda ise sarı ve kızıl renkler hakim olur. Alpin flora, dağların yükseklik zonlarına uyum sağlamış özel bitkilerden oluşur.
 
-Yaban Hayatı açısından, memeliler dağların yüksek kesimlerinde yaşarken, kuşlar mevsimsel olarak göç ederler. Sürüngenler ise kayalık alanlarda yaşamlarını sürdürürler. 
+Yaban Hayatı açısından, memeliler dağların yüksek kesimlerinde yaşarken, kuşlar mevsimsel olarak göç ederler. Sürüngenler ise kayalık alanlarda yaşamlarını sürdürürler.
 
 Ekolojik Değer olarak, Arnos Dağı yüksek dağ ekosisteminin korunması açısından önemli bir role sahiptir. Bu ekosistemin korunması, canlıların yaşam alanlarının korunması anlamına gelir.
 

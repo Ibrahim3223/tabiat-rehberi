@@ -22,15 +22,15 @@ wikidata_id: "Q108226203"
 
 # İzmir 28. Grup
 
-İzmir 28. Grup, İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini doğanın kucağına davet ediyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İzmir 28. Grup, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak görünüyor.
+İzmir 28. Grup, İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olarak karşımıza çıkıyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. İzmir 28. Grup, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak görünüyor.
 
 ## Tarihçe
 
-İzmir 28. Grup'un tarihi geçmişi, İç Anadolu Bölgesi'nin histórik süreçlerine paralel olarak şekillenmiştir. Bu bölgenin oluşumu, yüzyıllar boyunca çeşitli doğal olayların birleşimiyle gerçekleşmiştir. İç Anadolu Bölgesi'nin jeolojik yapısı, bu bölgenin oluşumunda önemli bir rol oynamıştır. İzmir 28. Grup, tarihi süreç içinde çeşitli medeniyetlerin yaşadığı bir bölge olarak da bilinmektedir. Ancak, bu bölgenin tam olarak ne zaman ve nasıl oluştuğuyla ilgili net bilgiler bulunmamaktadır. İzmir 28. Grup'un tarihi geçmişi, ziyaretçilerini düşünmeye ve bu doğal güzelliğin oluşumunu hayal etmeye davet ediyor.
+İzmir 28. Grup'un tarihi geçmişi, İç Anadolu Bölgesi'nin tarihi süreçlerine paralel olarak şekillenmiştir. Bu bölgenin oluşumu, yüzyıllar boyunca çeşitli doğal olayların birleşimiyle gerçekleşmiştir. İç Anadolu Bölgesi'nin jeolojik yapısı, bu bölgenin oluşumunda önemli bir rol oynamıştır. İzmir 28. Grup, tarihi süreç içinde çeşitli medeniyetlerin yaşadığı bir bölge olarak da bilinmektedir. Ancak, bu bölgenin tam olarak ne zaman ve nasıl oluştuğuyla ilgili net bilgiler bulunmamaktadır. İzmir 28. Grup'un tarihi geçmişi, ziyaretçilerini düşünmeye ve bu doğal güzelliğin oluşumunu hayal etmeye davet ediyor.
 
 ## Coğrafya
 
-İzmir 28. Grup, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgedir. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. İzmir 28. Grup'un coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. İzmir 28. Grup, ziyaretçilerini dört mevsim boyunca farklı güzelliği ile karşılayacak bir bölge olarak görünüyor. Bu bölgenin coğrafi yapısı, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. İzmir 28. Grup'un coğrafi özellikleri, ziyaretçilerini bu doğal güzelliğin içerisinde keşfe çıkarmaya davet ediyor.
+İzmir 28. Grup, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgedir. İzmir 28. Grup'un coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahip. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. İzmir 28. Grup, ziyaretçilerini dört mevsim boyunca farklı güzelliği ile karşılayacak bir bölge olarak görünüyor. Bu bölgenin coğrafi yapısı, ziyaretçilerin doğa ile iç içe olmasını sağlıyor. İzmir 28. Grup'un coğrafi özellikleri, ziyaretçilerini bu doğal güzelliğin içerisinde keşfe çıkarmaya davet ediyor.
 
 ## Flora ve Fauna
 

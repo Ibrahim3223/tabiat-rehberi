@@ -1,7 +1,7 @@
 ---
 title: "Kuyucu Murat Paşa Türbesi"
 date: "2026-01-10T07:44:48.312Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391155"
 
 # Kuyucu Murat Paşa Türbesi
 
-Kuyucu Murat Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan tarihi bir mekan olarak dikkat çekmektedir. Bu türbe, yaklaşık 16. yüzyılda inşa edilmiş ve Kuyucu Murat Paşa'nın anısına yapılmıştır. 140 hektarlık bir alanın içerisinde yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un tarihi ve kültürel zenginliklerini yansıtan bu mekan, ziyaretçilerini tarihin derinliklerine götürmektedir.
+Kuyucu Murat Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan tarihi bir mekan olarak dikkat çekmektedir. Bu türbe, yaklaşık 16. yüzyılda inşa edilmiş ve Kuyucu Murat Paşa'nın anısına yapılmıştır. İstanbul'un tarihi ve kültürel zenginliklerini yansıtan bu mekan, ziyaretçilerini tarihin derinliklerine götürmektedir.
 
 ## Tarihçe
 

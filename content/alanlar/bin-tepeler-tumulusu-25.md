@@ -29,7 +29,7 @@ wikidata_id: "Q134728347"
 
 # Bin Tepeler Tümülüsü 25
 
-Bin Tepeler Tümülüsü 25, Manisa'nın Salihli ilçesinde yer alan bir arkeolojik alandır. Bu alan, Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. 140 hektarlık bir alanı kapsayan Bin Tepeler Tümülüsü 25, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Burada, tarihi eserlerin yanı sıra doğal güzellikleri de keşfedebilirsiniz. Bin Tepeler Tümülüsü 25, ziyaretçilerine zengin bir tarih ve doğa deneyimi sunmaktadır.
+Bin Tepeler Tümülüsü 25, Manisa'nın Salihli ilçesinde yer alan bir arkeolojik alandır. Bu alan, Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Burada, tarihi eserlerin yanı sıra doğal güzellikleri de keşfedebilirsiniz. Bin Tepeler Tümülüsü 25, ziyaretçilerine zengin bir tarih ve doğa deneyimi sunmaktadır.
 
 ## Tarihçe
 

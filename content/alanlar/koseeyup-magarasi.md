@@ -50,11 +50,11 @@ Mağaranın fiziksel yapısı, coğrafi olarak ilginç bir konumda yer alıyor. 
 
 ## Flora ve Fauna
 
-Köseeyüp Mağarası, Çorum'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu jeopark, gür ormanlarla kaplı bir alandır ve yüksek biyoçeşitliliğe sahiptir. 
+Köseeyüp Mağarası, Çorum'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu jeopark, gür ormanlarla kaplı bir alandır ve yüksek biyoçeşitliliğe sahiptir.
 
-Bitki örtüsünün hakim türleri arasında çeşitli ağaç türleri bulunur. İlkbaharda, orman zeminini çiçeklerin renkli bir halı gibi kapladığı görülür. Sonbaharda ise, ağaçların sarı, turuncu ve kırmızı tonlarına büründüğü bir manzara ortaya çıkar. 
+Bitki örtüsünün hakim türleri arasında çeşitli ağaç türleri bulunur. İlkbaharda, orman zeminini çiçeklerin renkli bir halı gibi kapladığı görülür. Sonbaharda ise, ağaçların sarı, turuncu ve kırmızı tonlarına büründüğü bir manzara ortaya çıkar.
 
-Yaban hayatı da oldukça çeşitlidir. Orman memelileri, kuşlar ve sürüngenler bu ekosistemin birer parçasıdır. Orman memelileri, özellikle geyi ve yaban domuzu gibi türler, ormanın derinliklerinde yaşar. Kuşlar ise, göç mevsimlerinde bu bölgeden geçer ve ormanların yüksek ağaçlarında yuvalanır. 
+Yaban hayatı da oldukça çeşitlidir. Orman memelileri, kuşlar ve sürüngenler bu ekosistemin birer parçasıdır. Orman memelileri, özellikle geyi ve yaban domuzu gibi türler, ormanın derinliklerinde yaşar. Kuşlar ise, göç mevsimlerinde bu bölgeden geçer ve ormanların yüksek ağaçlarında yuvalanır.
 
 Köseeyüp Mağarası, yüksek biyoçeşitlilik nedeniyle ekolojik olarak çok önemli bir alandır. Bu bölge, birçok canlı türünün yaşam alanı ve göç güzergahı olarak hizmet eder. Koruma altına alınarak, gelecekteki nesiller için bu doğal güzelliğin korunması amaçlanmaktadır.
 

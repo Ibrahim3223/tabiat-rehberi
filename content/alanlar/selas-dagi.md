@@ -33,9 +33,9 @@ Türkiye'nin doğal güzelliklerine ev sahipliği yapan Şelaş Dağı, ziyaret�
 
 ## Tarihçe
 
-Şelaş Dağı, Türkiye'nin doğusunda yer alan bir doğal güzelliğimiz. Bu bölge, tarihin sâu sayfalarında yer alan medeniyetlerin izlerini taşıyor. Doğu Anadolu Bölgesi, tarih boyunca birçok uygarlığa ev sahipliği yapmış; Urartular, Persler, Romalılar ve Selçuklular gibi büyük medeniyetler bu topraklarda yaşamış. 
+Şelaş Dağı, Türkiye'nin doğusunda yer alan bir doğal güzelliğimiz. Bu bölge, tarihin derin sayfalarında yer alan medeniyetlerin izlerini taşıyor. Doğu Anadolu Bölgesi, tarih boyunca birçok uygarlığa ev sahipliği yapmış; Urartular, Persler, Romalılar ve Selçuklular gibi büyük medeniyetler bu topraklarda yaşamış.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasını oluşturuyor. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin insanlarla olan bağlantısını güçlendiriyor. İnsanların bu doğal güzelliklerle kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut taşıyor. 
+Bu tür doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasını oluşturuyor. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin insanlarla olan bağlantısını güçlendiriyor. İnsanların bu doğal güzelliklerle kurduğu ilişki, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut taşıyor.
 
 Doğu Anadolu Bölgesi, coğrafi konumu nedeniyle, tarihi ticaret yollarının kesişme noktasında yer alıyor. İpek Yolu gibi önemli ticaret yolları, bu bölgeden geçerek, doğu ve batı arasındaki kültürel ve ekonomik alışverişi sağlıyor. Şelaş Dağı ve çevresindeki doğal güzellikler, bu tarihsel bağlam içinde, insanlığın ortak mirasının önemli bir parçası olarak karşımıza çıkıyor.
 
@@ -53,7 +53,7 @@ Kış aylarında karla kaplanan Şelaş Dağı, mevsimsel olarak değişen bir i
 
 Şelaş Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçlarında çiçeklerin renk cümbüşü başlıyor. Step bitkileri ve bozkır otları, kuraklığa adapte olmuş türlerle birlikte bir mozaik oluşturuyor. Alpin flora, yükseklik zonlarına göre değişkenlik gösteriyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşamlarını sürdürürken, kartallar ve şahinler gökyüzünde hükmediyorlar. Sürüngenler, kaya aralarında ve step alanlarında yaşam buluyor. Ekolojik ilişkiler, bu canlıların birbirine bağımlılığını gösteriyor. Örneğin, dağ keçileri otları yiyerek step ekosisteminin dengesini koruyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşamlarını sürdürürken, kartallar ve şahinler gökyüzünde hükmediyorlar. Sürüngenler, kaya aralarında ve step alanlarında yaşam buluyor. Ekolojik ilişkiler, bu canlıların birbirine bağımlılığını gösteriyor. Örneğin, dağ keçileri otları yiyerek step ekosisteminin dengesini koruyor.
 Şelaş Dağı, bu dağ ekosisteminin korunması açısından önemli bir role sahip. Ancak, insan faaliyetleri ve iklim değişikliği, bu dengenin bozulmasına neden oluyor.
 
 ## Ziyaret Bilgileri

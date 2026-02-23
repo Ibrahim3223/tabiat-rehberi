@@ -28,7 +28,7 @@ wikidata_id: "Q31387043"
 
 # Koruklu Tepe
 
-Koruklu Tepe, Bursa'nın merkezine yakın bir konumda yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Koruklu Tepe, ziyaretçilerini hem tarihi geçmişiyle hem de doğal güzellikleriyle büyülemektedir. Koruklu Tepe'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bölgede zengin bir fauna bulunur. Bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
+Koruklu Tepe, Bursa'nın merkezine yakın bir konumda yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Koruklu Tepe, ziyaretçilerini hem tarihi geçmişiyle hem de doğal güzellikleriyle büyülemektedir. Koruklu Tepe'nin etrafı, çeşitli bitki türleriyle kaplıdır ve bu bölgede zengin bir fauna bulunur. Bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
 
 ## Tarihçe
 

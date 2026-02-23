@@ -1,7 +1,7 @@
 ---
 title: "Sasalı Hamamı"
 date: "2026-01-09T23:19:20.601Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738968"
 
 # Sasalı Hamamı
 
-Ödemiş'in güzide plajlarından biri olan Sasalı Hamamı, Ege Bölgesi'nin en güzel kıyı şeritlerinden birini sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahiptir. Sasalı Hamamı, hem yerel halk hem de ziyaretçiler için keyifli bir gün geçirmek isteyenler için ideal bir destinasyon. Plajın etrafında çeşitli bitki türleri bulunur ve zengin fauna çeşitliliğiyle dikkat çeker. Sasalı Hamamı, Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir durak noktası.
+Ödemiş'in güzide plajlarından biri olan Sasalı Hamamı, Ege Bölgesi'nin en güzel kıyı şeritlerinden birini sunar. Sasalı Hamamı, hem yerel halk hem de ziyaretçiler için keyifli bir gün geçirmek isteyenler için ideal bir destinasyon. Plajın etrafında çeşitli bitki türleri bulunur ve zengin fauna çeşitliliğiyle dikkat çeker. Sasalı Hamamı, Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir durak noktası.
 
 ## Tarihçe
 

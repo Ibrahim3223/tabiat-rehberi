@@ -30,7 +30,7 @@ wikidata_id: "Q736676"
 
 # Aya İrini
 
-Aya İrini, İstanbul'un kalbinde yer alan, tarihi ve doğal güzelliklerinin bir arada bulunduğu özel bir noktadır. Eminönü ve Fatih ilçeleri arasında bulunan bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Aya İrini, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülemektedir. Bu özel bölgede, tarihi yapılar, yeşilin verschillileri ve şehrin gürültüsünden uzak bir atmosfer bulunmaktadır.
+Aya İrini, İstanbul'un kalbinde yer alan, tarihi ve doğal güzelliklerinin bir arada bulunduğu özel bir noktadır. Aya İrini, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülemektedir. Bu özel bölgede, tarihi yapılar, yeşilin verschillileri ve şehrin gürültüsünden uzak bir atmosfer bulunmaktadır.
 
 ## Tarihçe
 

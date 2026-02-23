@@ -28,7 +28,7 @@ wikidata_id: "Q31385740"
 
 # Kaban Tepe
 
-Kaban Tepe, Ağrı'nın muhteşem manzarasına ev sahipliği yapan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Bu tepe, bölgenin coğrafi özelliklerini ve doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Kaban Tepe, yerlilerin ve turistlerin sık sık ziyaret ettiği bir nokta ve bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor. Doğa severler için bir cennet olan bu tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
+Kaban Tepe, Ağrı'nın muhteşem manzarasına ev sahipliği yapan bir doğa harikasıdır. Bu tepe, bölgenin coğrafi özelliklerini ve doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Kaban Tepe, yerlilerin ve turistlerin sık sık ziyaret ettiği bir nokta ve bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor. Doğa severler için bir cennet olan bu tepe, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

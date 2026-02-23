@@ -22,7 +22,7 @@ wikidata_id: "Q108228487"
 
 # Kahramanmaras-Andirin-Andirin Sacli Mese
 
-Kahramanmaras-Andirin-Andirin Sacli Mese milli parkı, İç Anadolu Bölgesi'nin en dikkat çekici doğal alanlarından biridir. Yaklaşık 140 hektarlık bir alanı kaplayan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu muhteşem doğa alanı, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunuyor. Milli parkın içerisinde zengin bitki türleri ve çeşitli hayvanlar bulunuyor.
+Kahramanmaras-Andirin-Andirin Sacli Mese milli parkı, İç Anadolu Bölgesi'nin en dikkat çekici doğal alanlarından biridir. Bu muhteşem doğa alanı, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunuyor. Milli parkın içerisinde zengin bitki türleri ve çeşitli hayvanlar bulunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Karaköy Hamamı"
 date: "2026-01-09T22:37:47.999Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738739"
 
 # Karaköy Hamamı
 
-Karaköy Hamamı, Ege Bölgesi'nin kalbinde, Manisa'nın Yunusemre ilçesinde yer alan bir doğa harikasıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Burada, doğanın güzelliği ile iç içe geçebilir ve kendinizi şehrin gürültüsünden uzakta hissedebilirsiniz. Karaköy Hamamı, hem yerel halk hem de ziyaretçiler için keyifli bir kaçış noktası olarak hizmet vermektedir.
+Karaköy Hamamı, Ege Bölgesi'nin kalbinde, Manisa'nın Yunusemre ilçesinde yer alan bir doğa harikasıdır. Burada, doğanın güzelliği ile iç içe geçebilir ve kendinizi şehrin gürültüsünden uzakta hissedebilirsiniz. Karaköy Hamamı, hem yerel halk hem de ziyaretçiler için keyifli bir kaçış noktası olarak hizmet vermektedir.
 
 ## Tarihçe
 

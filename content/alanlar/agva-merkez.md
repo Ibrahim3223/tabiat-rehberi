@@ -30,7 +30,7 @@ wikidata_id: "Q2816015"
 
 # Ağva Merkez
 
-Ağva Merkez, Şile'nin en çekici plajlarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en güzel noktalarından biridir. Ağva Merkez, İstanbul'un kalabalığından uzaklaşmak isteyenlerin sıklıkla ziyaret ettiği bir noktadır. Sahil boyunca uzanan ağaçlar ve denizin serinliği, ziyaretçilere huzurlu bir atmosfer sunar. Ağva Merkez, aynı zamanda doğa yürüyüşleri ve su sporları için ideal bir konumdadır.
+Ağva Merkez, Şile'nin en çekici plajlarından biri olarak bilinir. Ağva Merkez, İstanbul'un kalabalığından uzaklaşmak isteyenlerin sıklıkla ziyaret ettiği bir noktadır. Sahil boyunca uzanan ağaçlar ve denizin serinliği, ziyaretçilere huzurlu bir atmosfer sunar. Ağva Merkez, aynı zamanda doğa yürüyüşleri ve su sporları için ideal bir konumdadır.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227885"
 
 # Azizpaşa-Fatih
 
-Azizpaşa-Fatih milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Park, ziyaretçilerine geniş çayırları, ormanları ve su kaynakları ile bir doğa cenneti sunuyor. Burada, doğanın güzelliğini ve yaban hayatının çeşitliliğini keşfetme mümkün. Azizpaşa-Fatih, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak tanımlanabilir. Parkın sunduğu bu eşsiz ortam, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
+Azizpaşa-Fatih milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Park, ziyaretçilerine geniş çayırları, ormanları ve su kaynakları ile bir doğa cenneti sunuyor. Burada, doğanın güzelliğini ve yaban hayatının çeşitliliğini keşfetme mümkün. Azizpaşa-Fatih, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak tanımlanabilir. Parkın sunduğu bu eşsiz ortam, ziyaretçilerin doğayla iç içe olmasını sağlıyor.
 
 ## Tarihçe
 

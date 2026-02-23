@@ -32,7 +32,7 @@ Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için bir hazine olan 
 
 ## Tarihçe
 
-Otavgan Dağı, Türkiye'nin doğusunda yer alan bir doğal güzelliğe ev sahipliği yapıyor. Bu bölge, tarihin sâu sayfalarında gizli olan birçok uygarlığa tanıklık etti. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bu toprakları yönetimlerinde bulundurdular. Bu dönemlerde, bölge ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir stratejik öneme sahipti.
+Otavgan Dağı, Türkiye'nin doğusunda yer alan bir doğal güzelliğe ev sahipliği yapıyor. Bu bölge, tarihin derin sayfalarında gizli olan birçok uygarlığa tanıklık etti. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bu toprakları yönetimlerinde bulundurdular. Bu dönemlerde, bölge ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir stratejik öneme sahipti.
 
 Doğal güzellikleri ve coğrafi konumu nedeniyle, Otavgan Dağı ve çevresi, yaylacılık ve hayvancılık faaliyetleri için uygun bir ortam sunuyor. Bölgede yaşayan insanlar, asırlardır bu doğal kaynaklardan yararlanarak hayatlarını sürdürdüler. Türkiye'de, bu tür doğal alanlar, yalnızca ekolojik dengenin korunması açısından değil, aynı zamanda kültürel mirasın yaşatılması bakımından da büyük önem taşıyor.
 

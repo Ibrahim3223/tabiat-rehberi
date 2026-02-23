@@ -32,7 +32,7 @@ Malatya'nın doğusunda, doğa severlerin keyif aldığı bir bölgeye ev sahipl
 
 ## Tarihçe
 
-Göl Dağı, Malatya'nın doğa harikalarından biri olarak karşımıza çıkıyor. Bu bölge, tarihin sâu izlerini taşıyor. Malatya, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir şehir. Bu bölgede, insanların doğa ile iç içe yaşadığı bir geçmiş bulunuyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal alanlarla ilişkisini şekillendirmiş.
+Göl Dağı, Malatya'nın doğa harikalarından biri olarak karşımıza çıkıyor. Bu bölge, tarihin derin izlerini taşıyor. Malatya, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir şehir. Bu bölgede, insanların doğa ile iç içe yaşadığı bir geçmiş bulunuyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal alanlarla ilişkisini şekillendirmiş.
 
 Türkiye'de, özellikle İç Anadolu Bölgesi'nde bulunan doğal alanlar, tarih boyunca önemli roles sahip olmuşlar. Bu alanlar, insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlarken, aynı zamanda ticaret ve kültür alışverişinin de merkezi olmuşlar. Göl Dağı da, bu bağlamda önemli bir yere sahip. Bölgenin coğrafi özellikleri, insanların burayı bir geçit olarak kullanmasına neden olmuş.
 

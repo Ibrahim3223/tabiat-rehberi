@@ -22,7 +22,7 @@ wikidata_id: "Q108228522"
 
 # Bursa-Mustafakemalpasa-Karadag-Karacam
 
-Bursa-Mustafakemalpasa-Karadag-Karacam milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplı. Parkın zengin fauna ve flora çeşitliliği, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Milli parkın konumu, Bursa'nın Mustafakemalpaşa ilçesi sınırları içerisinde yer alıyor ve Karadağ ile Karacam dağlarının eteklerinde kurulmuş.
+Bursa-Mustafakemalpasa-Karadag-Karacam milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Parkın zengin fauna ve flora çeşitliliği, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Milli parkın konumu, Bursa'nın Mustafakemalpaşa ilçesi sınırları içerisinde yer alıyor ve Karadağ ile Karacam dağlarının eteklerinde kurulmuş.
 
 ## Tarihçe
 

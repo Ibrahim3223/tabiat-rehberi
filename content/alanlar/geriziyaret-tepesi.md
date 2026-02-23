@@ -28,7 +28,7 @@ wikidata_id: "Q31387651"
 
 # Geriziyaret Tepesi
 
-Geriziyaret Tepesi, Van ilinin güzide noktalarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın zenginliğini sunarken, tepe üzerindeki manzaralar ise Van Gölü'nün ve çevresi dağların güzelliğini gözler önüne serer. Bu tepe, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul edilir.
+Geriziyaret Tepesi, Van ilinin güzide noktalarından biri olarak bilinir. Tepenin eteklerinde bulunan köyler, ziyaretçilere geleneksel yaşamın zenginliğini sunarken, tepe üzerindeki manzaralar ise Van Gölü'nün ve çevresi dağların güzelliğini gözler önüne serer. Bu tepe, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul edilir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Geriziyaret Tepesi, Van ilinin coğrafi yapısının en güzel örneklerinden bi
 
 ## Flora ve Fauna
 
-Geriziyaret Tepesi, flora ve fauna açısından oldukça zengindir. Tepenin eteklerinde bulunan ormanlar, çeşitli ağaç türleri ile ziyaretçilere doğanın güzelliğini gösterirken, tepe üzerindeki çayırlar, çeşitli çiçek türleri ile ziyaretçilere renkli bir görsellik sunar. Ayrıca, tepe ve çevresinde, çeşitli hayvan türleri de bulunur. Bunlar arasında, yırtıcı kuşlar, geyik, yaban keçisi gibi büyük ve küçük hayvanlar sayılabilir. Tepenin ekolojik yapısı, ziyaretçilere doğanın güzelliğini ve canlıların çeşitliliğini gösterir.
+ Tepenin eteklerinde bulunan ormanlar, çeşitli ağaç türleri ile ziyaretçilere doğanın güzelliğini gösterirken, tepe üzerindeki çayırlar, çeşitli çiçek türleri ile ziyaretçilere renkli bir görsellik sunar. Ayrıca, tepe ve çevresinde, çeşitli hayvan türleri de bulunur. Bunlar arasında, yırtıcı kuşlar, geyik, yaban keçisi gibi büyük ve küçük hayvanlar sayılabilir. Tepenin ekolojik yapısı, ziyaretçilere doğanın güzelliğini ve canlıların çeşitliliğini gösterir.
 
 ## Ziyaret Bilgileri
 

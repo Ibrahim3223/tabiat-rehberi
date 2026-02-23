@@ -1,7 +1,7 @@
 ---
 title: "Ilgaz Hamamı"
 date: "2026-01-09T22:49:13.106Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çankırı"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738631"
 
 # Ilgaz Hamamı
 
-Ilgaz Hamamı, Çankırı'nın Ilgaz ilçesinde yer alan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliktir. Bu bölge, zengin fauna ve flora çeşitliliğiyle dikkat çekmektedir. Ilgaz Hamamı, ziyaretçilerini doğayla baş başa bırakarak, stresten ve gürültüden uzaklaştırmaya olanak tanır. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve canlılarla doludur. Ziyaretçiler, Ilgaz Hamamı'nda doğanın güzelliğini keşfetmenin yanı sıra, dinlenme ve kendini yenilemek için de olanak bulabilirler.
+ Bu bölge, zengin fauna ve flora çeşitliliğiyle dikkat çekmektedir. Ilgaz Hamamı, ziyaretçilerini doğayla baş başa bırakarak, stresten ve gürültüden uzaklaştırmaya olanak tanır. 140 hektarlık bu yeşil alan, çeşitli bitki türleri ve canlılarla doludur. Ziyaretçiler, Ilgaz Hamamı'nda doğanın güzelliğini keşfetmenin yanı sıra, dinlenme ve kendini yenilemek için de olanak bulabilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ilgaz Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Ilgaz Hamamı, Çankırı'nın Ilgaz ilçesinde yer almaktadır. Bu bölge, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan Ilgaz Dağları'nın eteklerinde bulunmaktadır. Ilgaz Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliktir. Bu bölge, zengin fauna ve flora çeşitliliğiyle dikkat çekmektedir. Ilgaz Hamamı'nın coğrafi konumu, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır. Ziyaretçiler, Ilgaz Hamamı'nda doğa yürüyüşü yapabilir, trekking yaparak çevreyi keşfedebilir veya sadece doğanın güzelliğini seyretmek için vakit geçirebilirler. Ilgaz Hamamı'nın iklimi, karasal iklim özellikleri taşımaktadır. Bu bölge, yazları sıcak ve kurak, kışları ise soğuk ve karlı geçmektedir. Ilgaz Hamamı, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmektedir.
+Ilgaz Hamamı, Çankırı'nın Ilgaz ilçesinde yer almaktadır. Bu bölge, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alan Ilgaz Dağları'nın eteklerinde bulunmaktadır. Bu bölge, zengin fauna ve flora çeşitliliğiyle dikkat çekmektedir. Ilgaz Hamamı'nın coğrafi konumu, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır. Ziyaretçiler, Ilgaz Hamamı'nda doğa yürüyüşü yapabilir, trekking yaparak çevreyi keşfedebilir veya sadece doğanın güzelliğini seyretmek için vakit geçirebilirler. Ilgaz Hamamı'nın iklimi, karasal iklim özellikleri taşımaktadır. Bu bölge, yazları sıcak ve kurak, kışları ise soğuk ve karlı geçmektedir. Ilgaz Hamamı, özellikle ilkbahar ve sonbahar aylarında ziyaret edilmektedir.
 
 ## Flora ve Fauna
 

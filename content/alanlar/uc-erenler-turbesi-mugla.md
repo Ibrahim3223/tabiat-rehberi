@@ -1,7 +1,7 @@
 ---
 title: "Üç Erenler Türbesi, Muğla"
 date: "2026-01-10T05:37:42.629Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582182"
 
 # Üç Erenler Türbesi, Muğla
 
-Üç Erenler Türbesi, Muğla'nın Menteşe ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak dikkat çekiyor. Burası, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve ziyaretçilere geniş bir açık alan sunuyor. Üç Erenler Türbesi, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerini doğayla baş başa bırakmak isteyenler için ideal bir destinasyon olarak ortaya çıkıyor. Burada, tarihi yapılar ve doğal güzelliklerin bir arada bulunduğu özel bir atmosfer deneyimlenebiliyor.
+Üç Erenler Türbesi, Muğla'nın Menteşe ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak dikkat çekiyor. Üç Erenler Türbesi, tarihi geçmişi ve doğal güzellikleriyle birlikte, ziyaretçilerini doğayla baş başa bırakmak isteyenler için ideal bir destinasyon olarak ortaya çıkıyor. Burada, tarihi yapılar ve doğal güzelliklerin bir arada bulunduğu özel bir atmosfer deneyimlenebiliyor.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ wikidata_id: "Q135582182"
 
 ## Flora ve Fauna
 
-Üç Erenler Türbesi'nin bulunduğu bölge, flora ve fauna açısından oldukça zengin. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarını oluşturuyor. Mevsimsel değişimlerle birlikte, bu bölge, farklı bitki ve hayvan türlerine ev sahipliği yapıyor. Bahar aylarında, bölgede çiçek açan bitkiler, renkli bir manzara oluşturuyor ve ziyaretçilere güzellik sunuyor. Kışın, bölgede bulunan ağaçlar, farklı bir güzellik sunuyor ve ziyaretçilere doğanın değişen yüzünü gösteriyor. Ayrıca, burada, çeşitli hayvan türleri de bulunmakta ve ziyaretçilere doğanın canlılığını sunuyor. Bu bölge, ekolojik olarak da önemli bir role sahip ve ziyaretçilere doğanın güzelliğini sunuyor.
+ Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarını oluşturuyor. Mevsimsel değişimlerle birlikte, bu bölge, farklı bitki ve hayvan türlerine ev sahipliği yapıyor. Bahar aylarında, bölgede çiçek açan bitkiler, renkli bir manzara oluşturuyor ve ziyaretçilere güzellik sunuyor. Kışın, bölgede bulunan ağaçlar, farklı bir güzellik sunuyor ve ziyaretçilere doğanın değişen yüzünü gösteriyor. Ayrıca, burada, çeşitli hayvan türleri de bulunmakta ve ziyaretçilere doğanın canlılığını sunuyor. Bu bölge, ekolojik olarak da önemli bir role sahip ve ziyaretçilere doğanın güzelliğini sunuyor.
 
 ## Ziyaret Bilgileri
 

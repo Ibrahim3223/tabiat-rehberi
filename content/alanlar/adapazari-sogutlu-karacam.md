@@ -22,7 +22,7 @@ wikidata_id: "Q108227919"
 
 # Adapazari-Sogutlu Karacam
 
-Adapazari-Sogutlu Karacam milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Bu milli park, doğa severlerin ve macera arayışındaki kişilerin keyif alacağı bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli parkın büyüklüğü ve güzelliği, ziyaretçileri büyülüyor ve doğanın güzelliklerini keşfetmeye davet ediyor.
+Adapazari-Sogutlu Karacam milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu milli park, doğa severlerin ve macera arayışındaki kişilerin keyif alacağı bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Milli parkın büyüklüğü ve güzelliği, ziyaretçileri büyülüyor ve doğanın güzelliklerini keşfetmeye davet ediyor.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q23585775"
 
 # Cerat Tepesi
 
-Cerat Tepesi, Artvin'in eşsiz doğal güzelliklerini sunan bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte ziyaretçilere geniş bir keşif alanı sunuyor. Bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Cerat Tepesi, doğa severler ve macera arayışında olanlar için bir cennet olarak görülüyor. Ziyaretçiler, bu güzel tepeyi keşfederek, çevreyi edebiliyor ve bölgenin tarihi geçmişi hakkında bilgi edinebiliyor.
+Cerat Tepesi, Artvin'in eşsiz doğal güzelliklerini sunan bir destinasyon. Bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Cerat Tepesi, doğa severler ve macera arayışında olanlar için bir cennet olarak görülüyor. Ziyaretçiler, bu güzel tepeyi keşfederek, çevreyi edebiliyor ve bölgenin tarihi geçmişi hakkında bilgi edinebiliyor.
 
 ## Tarihçe
 

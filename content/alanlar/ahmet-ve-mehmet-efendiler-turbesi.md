@@ -1,7 +1,7 @@
 ---
 title: "Ahmet ve Mehmet Efendiler Türbesi"
 date: "2026-01-10T06:16:44.241Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390622"
 
 # Ahmet ve Mehmet Efendiler Türbesi
 
-Ahmet ve Mehmet Efendiler Türbesi, Afyonkarahisar ilinin merkezinde yer alan tarihi bir türbe ve plaj alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin önemli turizm merkezlerinden biridir. Türbe, tarihi geçmişi ve doğal güzelliği ile dikkat çekmektedir. Alanın etrafında yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
+Ahmet ve Mehmet Efendiler Türbesi, Afyonkarahisar ilinin merkezinde yer alan tarihi bir türbe ve plaj alanıdır. Türbe, tarihi geçmişi ve doğal güzelliği ile dikkat çekmektedir. Alanın etrafında yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğayla iç içe bir deneyim sunmaktadır.
 
 ## Tarihçe
 

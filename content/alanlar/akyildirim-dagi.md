@@ -32,8 +32,8 @@ Erzurum'un görkemli manzaralarına ev sahipliği yapan Akyıldırım Dağı, do
 
 ## Tarihçe
 
-Akyıldırım Dağı, tarihin derinliklerinde gizlenen Erzurum'un doğal hazinelerinden biri. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan bir coğrafyada yer alıyor. Erzurum, tarihte Urartular, Romalılar, Bizanslılar ve Selçuklular gibi medeniyetlerin uğrak yeri olmuş, kültürel ve ticari açıdan önemli bir merkez olarak görev yapmış. 
-Doğal güzellikleri ve stratejik konumu, Akyıldırım Dağı gibi alanların insan yaşamı için her daim önemli olduğunu gösteriyor. Türkiye'dehistorik olarak, bu tür doğal alanlar yaylacılık, hayvancılık ve ticaret yolları için kritik öneme sahip olmuş. 
+Akyıldırım Dağı, tarihin derinliklerinde gizlenen Erzurum'un doğal hazinelerinden biri. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan bir coğrafyada yer alıyor. Erzurum, tarihte Urartular, Romalılar, Bizanslılar ve Selçuklular gibi medeniyetlerin uğrak yeri olmuş, kültürel ve ticari açıdan önemli bir merkez olarak görev yapmış.
+Doğal güzellikleri ve stratejik konumu, Akyıldırım Dağı gibi alanların insan yaşamı için her daim önemli olduğunu gösteriyor. Türkiye'dehistorik olarak, bu tür doğal alanlar yaylacılık, hayvancılık ve ticaret yolları için kritik öneme sahip olmuş.
 Bölge, insanların doğa ile iç içe yaşadığı, geleneksel hayat tarzlarının devam ettiği bir yer. Akyıldırım Dağı, bu zengin tarihsel mirasın bir parçası olarak, ziyaretçilerini tarihin depthsine çekiyor.
 
 ## Coğrafya
@@ -48,9 +48,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Akyıldırı
 
 ## Flora ve Fauna
 
-Akyıldırım Dağı'nın yüksek dağ ekosisteminde, mevsimsel değişimler bitkileri ve hayvanları etkiliyor. İlkbaharda, alpin çayırlar renkli çiçeklerle donanıyor. 
-Dağın yükseklik zonlarında, farklı bitki türleri bulunuyor. 
-Yaban hayatında, dağ keçileri, yaban keçileri ve vaşak gibi memeliler yaşarken, kartallar ve şahinler gibi kuşlar da bu bölgede yuvalanıyor. 
+Akyıldırım Dağı'nın yüksek dağ ekosisteminde, mevsimsel değişimler bitkileri ve hayvanları etkiliyor. İlkbaharda, alpin çayırlar renkli çiçeklerle donanıyor.
+Dağın yükseklik zonlarında, farklı bitki türleri bulunuyor.
+Yaban hayatında, dağ keçileri, yaban keçileri ve vaşak gibi memeliler yaşarken, kartallar ve şahinler gibi kuşlar da bu bölgede yuvalanıyor.
 Akyıldırım Dağı, yüksek dağ ekolojisi ve endemik türler nedeniyle ekolojik olarak önemli bir bölge. Bu alanın korunması, bölgenin doğal dengesini korumak için gerekli.
 
 ## Ziyaret Bilgileri

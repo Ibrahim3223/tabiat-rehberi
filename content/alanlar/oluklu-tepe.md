@@ -28,7 +28,7 @@ wikidata_id: "Q31386992"
 
 # Oluklu Tepe
 
-Oluklu Tepe, Kastamonu'nun gizli bir hazinevi olarak bilinir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyülemek için hazır. Tepe, etrafındaki yeşil örtüyle çevrili ve bu coğrafyanın önemli bir parçasını oluşturur. Oluklu Tepe, Kastamonu'nun tarihi ve coğrafi zenginliklerini bir araya getiren özel bir nokta.
+Oluklu Tepe, Kastamonu'nun gizli bir hazinevi olarak bilinir. Tepe, etrafındaki yeşil örtüyle çevrili ve bu coğrafyanın önemli bir parçasını oluşturur. Oluklu Tepe, Kastamonu'nun tarihi ve coğrafi zenginliklerini bir araya getiren özel bir nokta.
 
 ## Tarihçe
 

@@ -30,7 +30,7 @@ wikidata_id: "Q1818005"
 
 # Yıldız Parkı
 
-Yıldız Parkı, İstanbul'un Beşiktaş ilçesinde yer alan, 140 hektarlık geniş bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Park, birçok insan tarafından ziyaret edilmekte ve doğayla iç içe olmak isteyenlerin tercih ettiği bir yerdir. Yıldız Parkı, aynı zamanda çeşitli aktivitelere ev sahipliği yapmaktadır.
+Yıldız Parkı, İstanbul'un Beşiktaş ilçesinde yer alan, 140 hektarlık geniş bir yeşil alandır. Park, birçok insan tarafından ziyaret edilmekte ve doğayla iç içe olmak isteyenlerin tercih ettiği bir yerdir. Yıldız Parkı, aynı zamanda çeşitli aktivitelere ev sahipliği yapmaktadır.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228421"
 
 # Antalya-Antalya-Döşemealtı-Kızılçam
 
-Antalya-Antalya-Döşemealtı-Kızılçam, Akdeniz Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Bu milli park, Antalya'nın doğal güzelliklerinin önemli bir parçası olarak dikkat çekiyor. Burada, yemyeşil ormanlar, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Doğa severler için bir cennet olan bu bölge, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Antalya-Antalya-Döşemealtı-Kızılçam, Akdeniz Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu milli park, Antalya'nın doğal güzelliklerinin önemli bir parçası olarak dikkat çekiyor. Burada, yemyeşil ormanlar, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 

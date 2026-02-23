@@ -28,7 +28,7 @@ wikidata_id: "Q31386838"
 
 # Diyartsatme Tepe
 
-Diyartsatme Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan tarihi ve coğrafi açıdan önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Diyartsatme Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve zengin fauna yapısıyla dikkat çekiyor. Bu güzide mekan, aynı zamanda tarihsel geçmişiyle de dikkat çekiyor. Tarihi olayların yaşandığı bu tepe, ziyaretçilerini tarihin sayfalarına götürüyor. Diyartsatme Tepe, coğrafi güzellikleri ve tarihi önemiyle birlikte, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Diyartsatme Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan tarihi ve coğrafi açıdan önemli bir nokta. Diyartsatme Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve zengin fauna yapısıyla dikkat çekiyor. Bu güzide mekan, aynı zamanda tarihsel geçmişiyle de dikkat çekiyor. Tarihi olayların yaşandığı bu tepe, ziyaretçilerini tarihin sayfalarına götürüyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Diyartsatme Tepe, çeşitli bitki türleriyle kaplı bir bölge. Bu tepe, aynı 
 
 ## Ziyaret Bilgileri
 
-Diyartsatme Tepe, ziyaretçilerine unutulmaz bir deneyim sunuyor. Bu tepe, coğrafi güzellikleri ve tarihi önemiyle birlikte, ziyaretçilerine farklı deneyimler sunuyor. Diyartsatme Tepe'ye nasıl gidilir? Diyartsatme Tepe, Batman şehrinde yer alıyor. Bu tepeye, Batman şehrinin merkezinden uzun bir mesafe uzaklıkta. Diyartsatme Tepe, ne zaman ziyaret edilmeli? Bu tepe, dört mevsimi yaşayan bir bölge. Kışları soğuk, yazları sıcak olan bu tepe, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. Diyartsatme Tepe, ziyaretçilerine ne yapılır? Bu tepe, coğrafi güzellikleri ve tarihi önemiyle birlikte, ziyaretçilerine doğa yürüyüşleri ve tarihin sayfalarında bir yolculuk sunuyor.
+ Bu tepe, coğrafi güzellikleri ve tarihi önemiyle birlikte, ziyaretçilerine farklı deneyimler sunuyor. Diyartsatme Tepe'ye nasıl gidilir? Diyartsatme Tepe, Batman şehrinde yer alıyor. Bu tepeye, Batman şehrinin merkezinden uzun bir mesafe uzaklıkta. Diyartsatme Tepe, ne zaman ziyaret edilmeli? Bu tepe, dört mevsimi yaşayan bir bölge. Kışları soğuk, yazları sıcak olan bu tepe, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. Diyartsatme Tepe, ziyaretçilerine ne yapılır? Bu tepe, coğrafi güzellikleri ve tarihi önemiyle birlikte, ziyaretçilerine doğa yürüyüşleri ve tarihin sayfalarında bir yolculuk sunuyor.
 
 ## İlginç Bilgiler
 

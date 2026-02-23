@@ -28,7 +28,7 @@ wikidata_id: "Q31387283"
 
 # Beşiktaş Tepe
 
-Beşiktaş Tepe, Doğu Anadolu Bölgesi'nin Ardahan ilinde bulunan ve coğrafi olarak dikkat çekici bir konumda yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Beşiktaş Tepe, bölgenin tarihi ve kültürel değerlerini taşıyan önemli bir nokta. Ayrıca, tepe ve çevresinin doğal güzelliği, ziyaretçilerini büyülüyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Beşiktaş Tepe, Doğu Anadolu Bölgesi'nin Ardahan ilinde bulunan ve coğrafi olarak dikkat çekici bir konumda yer alan bir tepe. Beşiktaş Tepe, bölgenin tarihi ve kültürel değerlerini taşıyan önemli bir nokta. Ayrıca, tepe ve çevresinin doğal güzelliği, ziyaretçilerini büyülüyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 

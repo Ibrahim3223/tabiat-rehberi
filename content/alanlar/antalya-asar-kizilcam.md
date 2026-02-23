@@ -22,7 +22,7 @@ wikidata_id: "Q108227838"
 
 # Antalya-Asar Kızılçam
 
-Antalya-Asar Kızılçam Milli Parkı, Akdeniz Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil cennet. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlandı. Parkın içinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın mucizelerini keşfetme fırsatı sunuyor. Antalya-Asar Kızılçam, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+Antalya-Asar Kızılçam Milli Parkı, Akdeniz Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil cennet. Parkın içinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın mucizelerini keşfetme fırsatı sunuyor. Antalya-Asar Kızılçam, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Antalya-Asar Kızılçam Milli Parkı'na ziyaret için en uygun zaman, ilkbahar 
 ## İlginç Bilgiler
 
 - Parkın kurulma amacı, doğal güzelliği korumaktır.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılıyor.
 - İlkbahar ve sonbahar ayları, ziyaret için en uygun zamandır.
 - Parkın coğrafi konumu, ziyaretçilere doğayla iç içe bir deneyim sunuyor.

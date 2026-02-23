@@ -28,7 +28,7 @@ wikidata_id: "Q31550036"
 
 # Hermeşevti Tepesi
 
-Hermeşevti Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Diyarbakır'da yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini geniş bir yeşil alan ile karşılıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin keyif alacağı bir ortam sunuyor. Hermeşevti Tepesi, hem doğal güzellikleri hem de tarihi değerleri ile dikkat çekiyor. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
+Hermeşevti Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Diyarbakır'da yer alıyor. Bu tepe, yaklaşık 140 hektarlık alanı ile ziyaretçilerini geniş bir yeşil alan ile karşılıyor. Hermeşevti Tepesi, hem doğal güzellikleri hem de tarihi değerleri ile dikkat çekiyor. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

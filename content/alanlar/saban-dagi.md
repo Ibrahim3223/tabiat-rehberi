@@ -48,9 +48,9 @@ Mevsimsel değişiklikler, Saban Dağı'nın iklim karakterini şekillendirmekte
 
 ## Flora ve Fauna
 
-Saban Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu dağlık alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesi ile birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, yükseklik zonlarına göre değişkenlik gösterir. Dağın yüksek kesimlerinde, çam ve ladin gibi iğne yapraklı ağaçlar hakimdir. 
+Saban Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu dağlık alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesi ile birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, yükseklik zonlarına göre değişkenlik gösterir. Dağın yüksek kesimlerinde, çam ve ladin gibi iğne yapraklı ağaçlar hakimdir.
 
-Yaban hayatı, dağın ekolojik dengesini sağlar. Kedigiller, ayılar ve dağ keçileri gibi memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar, özellikle sonbaharda göç ettikleri sırada dağları ziyaret eder. Sürüngenler, dağların kaya oyuklarında yaşar. 
+Yaban hayatı, dağın ekolojik dengesini sağlar. Kedigiller, ayılar ve dağ keçileri gibi memeliler, dağların yüksek kesimlerinde yaşar. Kuşlar, özellikle sonbaharda göç ettikleri sırada dağları ziyaret eder. Sürüngenler, dağların kaya oyuklarında yaşar.
 
 Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak için çok önemlidir. Saban Dağı, endemik türlerin yaşadığı bir alandır ve bu türlerin korunması için özel önlemler alınmalıdır.
 

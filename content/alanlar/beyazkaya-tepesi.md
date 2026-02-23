@@ -28,7 +28,7 @@ wikidata_id: "Q31530237"
 
 # Beyazkaya Tepesi
 
-Beyazkaya Tepesi, Van şehrinin göbeğinde yer alan 140 hektarlık bir doğal güzelliktir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Bölgenin coğrafi yapısı, farklı yükseklikteki tepelerle çevrilidir ve bu tepelerden biri de Beyazkaya Tepesidir. Doğal güzelliği ve coğrafi konumuyla birlikte, bu tepe ziyaretçilerine hem doğa hem de coğrafyanın iç içe geçtiği bir deneyim sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyük alan, ziyaretçilerin doğayı keşfetmelerine olanak tanır.
+Beyazkaya Tepesi, Van şehrinin göbeğinde yer alan 140 hektarlık bir doğal güzelliktir. Bölgenin coğrafi yapısı, farklı yükseklikteki tepelerle çevrilidir ve bu tepelerden biri de Beyazkaya Tepesidir. Doğal güzelliği ve coğrafi konumuyla birlikte, bu tepe ziyaretçilerine hem doğa hem de coğrafyanın iç içe geçtiği bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Beyazkaya Tepesi, yüzyıllar boyunca doğal güzelliğini korumuş ve bölgenin
 
 ## Coğrafya
 
-Beyazkaya Tepesi, Van şehrinin göbeğinde yer alan 140 hektarlık bir doğal güzelliktir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Bölgenin coğrafi yapısı, farklı yükseklikteki tepelerle çevrilidir ve bu tepelerden biri de Beyazkaya Tepesidir. Doğal güzelliği ve coğrafi konumuyla birlikte, bu tepe ziyaretçilerine hem doğa hem de coğrafyanın iç içe geçtiği bir deneyim sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyük alan, ziyaretçilerin doğayı keşfetmelerine olanak tanır. Bölgenin iklimi, karasal iklim özellikleri taşır ve bu iklim, tepeyi yıl boyunca farklı bir güzelliğe sahip yapar. Kışın karla kaplı olan tepe, yazın ise yeşillenerek ziyaretçilerine farklı bir deneyim sunar. Beyazkaya Tepesi, Van şehrinin önemli bir doğal güzelliği ve coğrafi yapısı, ziyaretçilerine tarihin ve doğanın iç içe geçtiği bir deneyim sunuyor.
+Beyazkaya Tepesi, Van şehrinin göbeğinde yer alan 140 hektarlık bir doğal güzelliktir. Bölgenin coğrafi yapısı, farklı yükseklikteki tepelerle çevrilidir ve bu tepelerden biri de Beyazkaya Tepesidir. Doğal güzelliği ve coğrafi konumuyla birlikte, bu tepe ziyaretçilerine hem doğa hem de coğrafyanın iç içe geçtiği bir deneyim sunuyor. Bölgenin iklimi, karasal iklim özellikleri taşır ve bu iklim, tepeyi yıl boyunca farklı bir güzelliğe sahip yapar. Kışın karla kaplı olan tepe, yazın ise yeşillenerek ziyaretçilerine farklı bir deneyim sunar. Beyazkaya Tepesi, Van şehrinin önemli bir doğal güzelliği ve coğrafi yapısı, ziyaretçilerine tarihin ve doğanın iç içe geçtiği bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Beyazkaya Tepesi, Van şehrinin önemli bir doğal güzelliği ve coğrafi yapı
 ## İlginç Bilgiler
 
 - Beyazkaya Tepesi, Van şehrinin göbeğinde yer alan 140 hektarlık bir doğal güzelliktir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde ve 140 hektarlık bir alana sahiptir.
+
 - Beyazkaya Tepesi, yüzyıllar boyunca doğal güzelliğini korumuş ve bölgenin önemli bir parçası haline gelmiştir.
 - Bu tepe, Van şehrinin önemli bir doğal güzelliği ve coğrafi yapısı, ziyaretçilerine tarihin ve doğanın iç içe geçtiği bir deneyim sunuyor.
 - Beyazkaya Tepesi, yıl boyunca ziyaret edilebilir ve her mevsim, ziyaretçilerine farklı bir deneyim sunar.

@@ -22,7 +22,7 @@ wikidata_id: "Q108227426"
 
 # Izmir-Urla Kızılçam
 
-İzmir-Urla Kızılçam milli parkı, Ege Bölgesi'nin en güzel köşelerinden biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğayla iç içe bir deneyim sunar. İzmir'in güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bu milli park, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de gözler önüne serer. Doğa severler, bu milli parkta çeşitli bitki türleri ve zengin faunayı keşfederken, aynı zamanda bölgeye özgü yemeklerin tadını da çıkarabilirler.
+İzmir-Urla Kızılçam milli parkı, Ege Bölgesi'nin en güzel köşelerinden biri olarak bilinir. İzmir'in güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bu milli park, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de gözler önüne serer. Doğa severler, bu milli parkta çeşitli bitki türleri ve zengin faunayı keşfederken, aynı zamanda bölgeye özgü yemeklerin tadını da çıkarabilirler.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ wikidata_id: "Q108227426"
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
 - Milli park, çeşitli bitki türleri ve zengin faunaya ev sahipliği yapar.
 - Milli parkın coğrafyası, ziyaretçilerine doğayla iç içe bir deneyim sunar.
 - Milli parkın iklimi, ılıman ve yağışlıdır.

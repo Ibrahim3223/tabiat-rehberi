@@ -29,7 +29,7 @@ wikidata_id: "Q31389764"
 
 # Cumhuriyet Tepesi
 
-Cumhuriyet Tepesi, Sakarya ilinin merkezinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepedir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve tepenin zirvesinden Sakarya şehrinin panoramik manzarasını izleme mümkün. Cumhuriyet Tepesi, hem doğa severler hem de şehir hayatından uzaklaşmak isteyenler için çekici bir destinasyondur.
+Cumhuriyet Tepesi, Sakarya ilinin merkezinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepedir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve tepenin zirvesinden Sakarya şehrinin panoramik manzarasını izleme mümkün. Cumhuriyet Tepesi, hem doğa severler hem de şehir hayatından uzaklaşmak isteyenler için çekici bir destinasyondur.
 
 ## Tarihçe
 

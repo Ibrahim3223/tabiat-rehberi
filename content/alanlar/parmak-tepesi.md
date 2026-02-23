@@ -28,7 +28,7 @@ wikidata_id: "Q31388546"
 
 # Parmak Tepesi
 
-Parmak Tepesi, Rize'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık yeşil alanıyla, ziyaretçilerini büyülüyor. Doğal güzelliği, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Parmak Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri olarak, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Doğa severler için ideal bir destinasyon olan bu tepe, yürüyüş ve keşif için mükemmel bir opportunity sunuyor.
+Parmak Tepesi, Rize'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Doğal güzelliği, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Parmak Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri olarak, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Doğa severler için ideal bir destinasyon olan bu tepe, yürüyüş ve keşif için mükemmel bir opportunity sunuyor.
 
 ## Tarihçe
 

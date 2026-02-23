@@ -32,7 +32,7 @@ Güherrişim Tepesi, Diyarbakır'ın zengin tarihi ve doğal güzelliklerini bir
 
 ## Tarihçe
 
-Güherrişim Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihine paralel olarak gelişmiş. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış. Tarihi kalıntılar ve eserler, bu tepenin zengin kültürel mirasını gözler önüne seriyor. Güherrişim Tepesi, tarihin sâu izlerini taşıyan bir mekan. Ziyaretçiler, bu tepede gezerken, tarihle iç içe bir yolculuğa çıkıyor.
+Güherrişim Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihine paralel olarak gelişmiş. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış. Tarihi kalıntılar ve eserler, bu tepenin zengin kültürel mirasını gözler önüne seriyor. Güherrişim Tepesi, tarihin derin izlerini taşıyan bir mekan. Ziyaretçiler, bu tepede gezerken, tarihle iç içe bir yolculuğa çıkıyor.
 
 ## Coğrafya
 
@@ -44,7 +44,7 @@ Güherrişim Tepesi, zengin bir flora ve fauna çeşitliliğine sahip. Çeşitli
 
 ## Ziyaret Bilgileri
 
-Güherrişim Tepesi'ni ziyaret etmek, Diyarbakır'ın tarihi ve doğal güzelliklerini keşfetmek için ideal. Ziyaretçiler, bu tepede gezerken, tarihin sâu izleriyle karşılaşıyor. Tepenin etrafındaki yapılar, geleneksel mimari özellikler taşıyor. Ziyaretçilerin, bu tepede gezerken, farklı coğrafi özellikler keşfetmesi mümkün. Güherrişim Tepesi'ne nasıl gidilir? Diyarbakır'a ulaştıktan sonra, toplu taşıma veya özel araçlarla bu tepeye ulaşılabilir.
+Güherrişim Tepesi'ni ziyaret etmek, Diyarbakır'ın tarihi ve doğal güzelliklerini keşfetmek için ideal. Ziyaretçiler, bu tepede gezerken, tarihin derin izleriyle karşılaşıyor. Tepenin etrafındaki yapılar, geleneksel mimari özellikler taşıyor. Ziyaretçilerin, bu tepede gezerken, farklı coğrafi özellikler keşfetmesi mümkün. Güherrişim Tepesi'ne nasıl gidilir? Diyarbakır'a ulaştıktan sonra, toplu taşıma veya özel araçlarla bu tepeye ulaşılabilir.
 
 ## İlginç Bilgiler
 
@@ -52,4 +52,4 @@ Güherrişim Tepesi'ni ziyaret etmek, Diyarbakır'ın tarihi ve doğal güzellik
 - Bu tepe, çeşitli bitki türleriyle kaplı.
 - Tepenin etrafındaki yapılar, geleneksel mimari özellikler taşıyor.
 - Güherrişim Tepesi, coğrafi açıdan zengin bir bölge.
-- Bu tepe, tarihin sâu izlerini taşıyan bir mekan.
+- Bu tepe, tarihin derin izlerini taşıyan bir mekan.

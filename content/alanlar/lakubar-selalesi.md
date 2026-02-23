@@ -28,7 +28,7 @@ wikidata_id: "Q97320229"
 
 # Lakubar Şelalesi
 
-Lakubar Şelalesi, Karadeniz Bölgesi'nin en güzel şelalelerinden biri olarak kabul edilmektedir. Rize'de bulunan bu şelale, 140 hektarlık alanda yer almaktadır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin ilgisini çekmektedir. Şelalenin yüksekliği ve güzelliği, ziyaretçilerini büyülemektedir. Lakubar Şelalesi, Rize'nin en önemli turizm noktalarından biri olarak kabul edilmektedir. Şelalenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Lakubar Şelalesi, Karadeniz Bölgesi'nin en güzel şelalelerinden biri olarak kabul edilmektedir. Rize'de bulunan bu şelale, 140 hektarlık alanda yer almaktadır. Şelalenin yüksekliği ve güzelliği, ziyaretçilerini büyülemektedir. Lakubar Şelalesi, Rize'nin en önemli turizm noktalarından biri olarak kabul edilmektedir. Şelalenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Lakubar Şelalesi'nin tarihi geçmişi hakkında konkrét bilgiler bulunmamaktad
 
 ## Coğrafya
 
-Lakubar Şelalesi, Rize'nin en güzel coğrafi bölgelerinden birinde bulunmaktadır. Şelale, 140 hektarlık bir alanda yer almaktadır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin ilgisini çekmektedir. Şelalenin yüksekliği ve güzelliği, ziyaretçilerini büyülemektedir. Lakubar Şelalesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Şelale, Karadeniz Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak kabul edilmektedir. Şelalenin yakınında bulunan dağlar, şelaleyi daha da güzelleştirmektedir. Lakubar Şelalesi, Rize'nin en önemli turizm noktalarından biri olarak kabul edilmektedir.
+Lakubar Şelalesi, Rize'nin en güzel coğrafi bölgelerinden birinde bulunmaktadır. Şelale, 140 hektarlık bir alanda yer almaktadır. Şelalenin yüksekliği ve güzelliği, ziyaretçilerini büyülemektedir. Lakubar Şelalesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Şelale, Karadeniz Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak kabul edilmektedir. Şelalenin yakınında bulunan dağlar, şelaleyi daha da güzelleştirmektedir. Lakubar Şelalesi, Rize'nin en önemli turizm noktalarından biri olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Lakubar Şelalesi'ni ziyaret etmek, doğa severler için bir zorunluluktur. Şel
 ## İlginç Bilgiler
 
 - Lakubar Şelalesi, Rize'nin en önemli turizm noktalarından biri olarak kabul edilmektedir.
-- Şelale, yaklaşık 200 futbol sahası büyüklüğünde bir alanda yer almaktadır.
+
 - Lakubar Şelalesi'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Şelale, Karadeniz Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak kabul edilmektedir.
 - Lakubar Şelalesi, Rize'nin en önemli doğa koruma alanlarından biri olarak kabul edilmektedir.

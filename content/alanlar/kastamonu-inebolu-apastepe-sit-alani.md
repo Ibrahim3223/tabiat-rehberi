@@ -22,7 +22,7 @@ wikidata_id: "Q108226612"
 
 # Kastamonu İnebolu Apaştepe Sit alanı
 
-Kastamonu İnebolu Apaştepe Sit alanı, İnebolu ilçesine bağlı bir bölgede yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin önemli doğal sit alanlarından biri. Bu bölgede, ziyaretçiler hem doğal güzellikleri keşfedebilir hem de bölgenin tarihi geçmişini öğrenebilir. Kastamonu İnebolu Apaştepe Sit alanı, özellikle doğa severler ve tarih meraklıları için ideal bir destinasyon.
+Kastamonu İnebolu Apaştepe Sit alanı, İnebolu ilçesine bağlı bir bölgede yer alıyor. Bu bölgede, ziyaretçiler hem doğal güzellikleri keşfedebilir hem de bölgenin tarihi geçmişini öğrenebilir. Kastamonu İnebolu Apaştepe Sit alanı, özellikle doğa severler ve tarih meraklıları için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kastamonu İnebolu Apaştepe Sit alanı, tarihi geçmişiyle dikkat çekiyor. Bu
 
 ## Coğrafya
 
-Kastamonu İnebolu Apaştepe Sit alanı, İnebolu ilçesine bağlı bir bölgede yer alıyor. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin önemli doğal sit alanlarından biri. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim şartlarına uygun olarak karasal bir iklimdir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu bölgede, ziyaretçiler doğanın güzelliklerini keşfedebilir ve çeşitli doğa aktiviteleri yapabilir. Kastamonu İnebolu Apaştepe Sit alanı, doğa severler için ideal bir destinasyon.
+Kastamonu İnebolu Apaştepe Sit alanı, İnebolu ilçesine bağlı bir bölgede yer alıyor. Bu bölgenin coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim şartlarına uygun olarak karasal bir iklimdir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu bölgede, ziyaretçiler doğanın güzelliklerini keşfedebilir ve çeşitli doğa aktiviteleri yapabilir. Kastamonu İnebolu Apaştepe Sit alanı, doğa severler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

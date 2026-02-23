@@ -34,7 +34,7 @@ Artvin'in yeşil doğası içinde yer alan Camyar Dağı, Türkiye'nin kuzeydoğ
 
 Camyar Dağı, Artvin'in doğal güzelliklerinin bir parçası olarak tarih boyunca çeşitli uygarlıkların geçiş noktası olmuştur. Bölge, antik dönemde Kolheti Krallığı'nın bir parçası iken, daha sonra Roma ve Bizans İmparatorluğu'nun egemenliğine girmiştir. Orta Çağ'da Gürcü Krallığı'nın kontrolüne geçmiş, 16. yüzyılda Osmanlı İmparatorluğu'nun bir parçası haline gelmiştir.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir bileşenidir. Yaylacılık ve hayvancılık faaliyetleri, bölgenin ekonomisini ve sosyal yapısını şekillendirmiştir. Ayrıca, histórik ticaret yolları üzerinde bulunan Camyar Dağı, bölgedeki yerleşimlerin gelişimine katkıda bulunmuştur. Bölge, doğa severler ve tarih meraklıları için bir çekim merkezi olarak günümüzde de önemini korumaktadır. Doğal güzellikleri, tarihi ve kültürel zenginliği ile Camyar Dağı, ziyaretçilerini tarihin depthsine götürmeyi vaat etmektedir.
+Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir bileşenidir. Yaylacılık ve hayvancılık faaliyetleri, bölgenin ekonomisini ve sosyal yapısını şekillendirmiştir. Ayrıca, tarihi ticaret yolları üzerinde bulunan Camyar Dağı, bölgedeki yerleşimlerin gelişimine katkıda bulunmuştur. Bölge, doğa severler ve tarih meraklıları için bir çekim merkezi olarak günümüzde de önemini korumaktadır. Doğal güzellikleri, tarihi ve kültürel zenginliği ile Camyar Dağı, ziyaretçilerini tarihin depthsine götürmeyi vaat etmektedir.
 
 ## Coğrafya
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31391300"
 
 # In Tepe
 
-İç Anadolu Bölgesi'nin kalbinde yer alan In Tepe, yaklaşık 140 hektarlık bir alanı kapsar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. In Tepe, bölgenin coğrafi ve tarihi açıdan önemli bir noktasıdır. Ziyaretçiler, bu tepeyi keşfederek hem doğal güzellikleri gözlemleyebilir hem de tarihin izlerini sürebilirler.
+İç Anadolu Bölgesi'nin kalbinde yer alan In Tepe, yaklaşık 140 hektarlık bir alanı kapsar. In Tepe, bölgenin coğrafi ve tarihi açıdan önemli bir noktasıdır. Ziyaretçiler, bu tepeyi keşfederek hem doğal güzellikleri gözlemleyebilir hem de tarihin izlerini sürebilirler.
 
 ## Tarihçe
 

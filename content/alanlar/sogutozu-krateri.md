@@ -51,11 +51,11 @@ Söğütözü Krateri, çevresindeki dağlık araziyle birlikte, bir ekosistem o
 
 Söğütözü Krateri, Mardin'de yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türler yaşamını sürdürüyor.
 
-İlkbaharla birlikte, kraterin yükseklik zonlarında alpin flora ortaya çıkıyor. Çiçekler açmaya başlıyor ve dağların yamaçlarında renkli bir manzara oluşuyor. Sonbaharda ise, göç eden kuşlar bu bölgeden geçerek kışlarını geçirmek için daha sıcak bölgelere göç ediyorlar. 
+İlkbaharla birlikte, kraterin yükseklik zonlarında alpin flora ortaya çıkıyor. Çiçekler açmaya başlıyor ve dağların yamaçlarında renkli bir manzara oluşuyor. Sonbaharda ise, göç eden kuşlar bu bölgeden geçerek kışlarını geçirmek için daha sıcak bölgelere göç ediyorlar.
 
-Dağ hayvanları, kraterin yükseklik zonlarına adapte olmuş türlerden oluşuyor. Yaban keçileri, dağların dik yamaçlarında yaşamlarını sürdürürken, kartallar ve diğer yırtıcı kuşlar bu bölgede avlanıyorlar. Sürüngenler de, kuraklığa adapte olmuş türler olarak kraterin kayalık alanlarında yaşamını sürdürüyor. 
+Dağ hayvanları, kraterin yükseklik zonlarına adapte olmuş türlerden oluşuyor. Yaban keçileri, dağların dik yamaçlarında yaşamlarını sürdürürken, kartallar ve diğer yırtıcı kuşlar bu bölgede avlanıyorlar. Sürüngenler de, kuraklığa adapte olmuş türler olarak kraterin kayalık alanlarında yaşamını sürdürüyor.
 
-Bu ekosistem, bölgenin ekolojik dengesini korumak açısından büyük önem taşıyor. Ancak, koruma durumu açısından bazı endişeler bulunuyor. Bu nedenle, Söğütözü Krateri'nin korunmasına yönelik çalışmalar yapılması necessário.
+ Ancak, koruma durumu açısından bazı endişeler bulunuyor. Bu nedenle, Söğütözü Krateri'nin korunmasına yönelik çalışmalar yapılması gerekli.
 
 ## Ziyaret Bilgileri
 

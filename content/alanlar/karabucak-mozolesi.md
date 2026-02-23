@@ -29,7 +29,7 @@ wikidata_id: "Q134728103"
 
 # Karabucak Mozolesi
 
-Karabucak Mozolesi, Demre/Antalya'da yer alan ve tarihi geçmişi ile dikkat çeken özel bir alandır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alanı kapsar. Bu alan, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunar. Karabucak Mozolesi, Akdeniz Bölgesi'nin en önemli turistik yerlerinden biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir. Bu özel alan, ziyaretçilere zengin bir kültür mirası sunar ve tarihi geçmişi ile dikkat çeker.
+Karabucak Mozolesi, Demre/Antalya'da yer alan ve tarihi geçmişi ile dikkat çeken özel bir alandır. Bu alan, ziyaretçilere hem tarihi hem de doğal güzellikleri bir arada sunar. Karabucak Mozolesi, Akdeniz Bölgesi'nin en önemli turistik yerlerinden biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir. Bu özel alan, ziyaretçilere zengin bir kültür mirası sunar ve tarihi geçmişi ile dikkat çeker.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karabucak Mozolesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu alan
 
 ## Coğrafya
 
-Karabucak Mozolesi, Demre/Antalya'da yer alır ve Akdeniz Bölgesi'nin en önemli coğrafi noktalarından biridir. Bu alan, 140 hektarlık geniş bir yeşil alanı kapsar ve ziyaretçilere doğal güzellikleri sunar. Karabucak Mozolesi, coğrafi olarak önemli bir yer olarak bilinir ve çeşitli bitki türleri ve hayvanları barındırır. Bu özel alan, coğrafi konumu ile dikkat çeker ve ziyaretçilere doğal güzellikleri sunar. Karabucak Mozolesi, Demre/Antalya'nın en önemli coğrafi noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir. Bu alan, coğrafi konumu ile dikkat çeker ve ziyaretçilere doğal güzellikleri sunar. Karabucak Mozolesi'nin iklimi, Akdeniz iklimi olarak bilinir ve bu alan, genellikle sıcak ve güneşli bir hava sahiptir. Bu özel alan, coğrafi konumu ve iklimi ile dikkat çeker ve ziyaretçilere doğal güzellikleri sunar.
+Karabucak Mozolesi, Demre/Antalya'da yer alır ve Akdeniz Bölgesi'nin en önemli coğrafi noktalarından biridir. Karabucak Mozolesi, coğrafi olarak önemli bir yer olarak bilinir ve çeşitli bitki türleri ve hayvanları barındırır. Bu özel alan, coğrafi konumu ile dikkat çeker ve ziyaretçilere doğal güzellikleri sunar. Karabucak Mozolesi, Demre/Antalya'nın en önemli coğrafi noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir. Bu alan, coğrafi konumu ile dikkat çeker ve ziyaretçilere doğal güzellikleri sunar. Karabucak Mozolesi'nin iklimi, Akdeniz iklimi olarak bilinir ve bu alan, genellikle sıcak ve güneşli bir hava sahiptir. Bu özel alan, coğrafi konumu ve iklimi ile dikkat çeker ve ziyaretçilere doğal güzellikleri sunar.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Karabucak Mozolesi'ni ziyaret etmek, ziyaretçilere zengin bir kültür mirası 
 ## İlginç Bilgiler
 
 - Karabucak Mozolesi, Demre/Antalya'da yer alan tarihi bir alandır.
-- Bu alan, 140 hektarlık geniş bir yeşil alanı kapsar.
+
 - Karabucak Mozolesi, coğrafi olarak önemli bir yer olarak bilinir.
 - Bu alan, çeşitli bitki türleri ve hayvanları barındırır.
 - Karabucak Mozolesi, ekolojik açıdan önemli bir yer olarak bilinir.

@@ -29,7 +29,7 @@ schema_type: "TouristAttraction"
 
 # Uludağ Milli Parkı
 
-Uludağ Milli Parkı, Bursa'nın kalbinde yer alan 140 hektarlık bir yeşil alandır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu park, Marmara Bölgesi'nin en önemli doğal alanlarından biridir. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Uludağ Milli Parkı, doğa severlerin ve turistlerin ziyaret ettiği önemli bir merkezdir. Parkın tarihi geçmişi, yüzyıllar boyunca insan yerleşimine ve doğal yaşamına ev sahipliği yapmıştır.
+Uludağ Milli Parkı, Bursa'nın kalbinde yer alan 140 hektarlık bir yeşil alandır. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Uludağ Milli Parkı, doğa severlerin ve turistlerin ziyaret ettiği önemli bir merkezdir. Parkın tarihi geçmişi, yüzyıllar boyunca insan yerleşimine ve doğal yaşamına ev sahipliği yapmıştır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Uludağ Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca insan yerleşimi
 
 ## Coğrafya
 
-Uludağ Milli Parkı, Marmara Bölgesi'nin Bursa ilinin merkezinde yer almaktadır. Park, 140 hektarlık bir yeşil alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Uludağ Milli Parkı, doğal güzellikleri ve zengin ekolojik yaşamı ile dikkat çekmektedir. Parkın iklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak mevsimsel değişimler göstermektedir. Parkın çevresi, çeşitli doğal ve kültürel oluşumlarla çevrilidir. Uludağ Milli Parkı, ziyaretçilerine geniş bir coğrafi çeşitlilik sunmaktadır.
+Uludağ Milli Parkı, Marmara Bölgesi'nin Bursa ilinin merkezinde yer almaktadır. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Uludağ Milli Parkı, doğal güzellikleri ve zengin ekolojik yaşamı ile dikkat çekmektedir. Parkın iklimi, Marmara Bölgesi'nin ılıman iklimine uygun olarak mevsimsel değişimler göstermektedir. Parkın çevresi, çeşitli doğal ve kültürel oluşumlarla çevrilidir. Uludağ Milli Parkı, ziyaretçilerine geniş bir coğrafi çeşitlilik sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227548"
 
 # Ankara-Beypazari-Egriova Saricam
 
-Ankara-Beypazari-Egriova Saricam milli parkı, Ankara'nın Beypazarı ilçesinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu milli park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Burada ziyaretçiler, zengin bitki çeşitliliği ve çeşitli hayvan türleriyle karşılaşabilirler. Milli park, özellikle doğa severler ve çevre dostları için ideal bir destinasyon olarak kabul edilir.
+Ankara-Beypazari-Egriova Saricam milli parkı, Ankara'nın Beypazarı ilçesinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Burada ziyaretçiler, zengin bitki çeşitliliği ve çeşitli hayvan türleriyle karşılaşabilirler. Milli park, özellikle doğa severler ve çevre dostları için ideal bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 

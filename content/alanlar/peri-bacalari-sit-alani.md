@@ -23,7 +23,7 @@ wikidata_id: "Q108226108"
 
 # Peri Bacaları Sit Alanı
 
-Peri Bacaları Sit Alanı, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Peri Bacaları Sit Alanı, benzersiz coğrafi yapısı ve doğal güzellikleriyle ziyaretçilerini büyülüyor. Burası, hem doğal güzelliklerinin hem de tarihi geçmişiyle dikkat çekiyor. Peri Bacaları Sit Alanı, ziyaretçilerine hem doğayı keşfetme hem de tarihi geçmişi öğrenme fırsatı sunuyor.
+Peri Bacaları Sit Alanı, İç Anadolu Bölgesi'nin eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Peri Bacaları Sit Alanı, benzersiz coğrafi yapısı ve doğal güzellikleriyle ziyaretçilerini büyülüyor. Burası, hem doğal güzelliklerinin hem de tarihi geçmişiyle dikkat çekiyor. Peri Bacaları Sit Alanı, ziyaretçilerine hem doğayı keşfetme hem de tarihi geçmişi öğrenme fırsatı sunuyor.
 
 ## Tarihçe
 

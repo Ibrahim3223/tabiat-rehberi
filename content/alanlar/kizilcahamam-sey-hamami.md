@@ -1,7 +1,7 @@
 ---
 title: "Kızılcahamam Sey Hamamı"
 date: "2026-01-09T22:53:01.259Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738629"
 
 # Kızılcahamam Sey Hamamı
 
-Kızılcahamam Sey Hamamı, Ankara'nın İç Anadolu Bölgesi'nde yer alan, şifalı suları ve doğal güzelliği ile dikkat çeken bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Sey Hamamı, yüzyıllar boyunca insanların şifa bulma ve doğayla iç içe olmak amacıyla ziyaret ettiği bir nokta olarak tarihi geçmişi bulunuyor. Bu özel yer, Ankara'nın gizli cenneti olarak biliniyor ve şifalı sularının yanı sıra zengin flora ve faunasıyla da dikkat çekiyor.
+Kızılcahamam Sey Hamamı, Ankara'nın İç Anadolu Bölgesi'nde yer alan, şifalı suları ve doğal güzelliği ile dikkat çeken bir destinasyondur. Sey Hamamı, yüzyıllar boyunca insanların şifa bulma ve doğayla iç içe olmak amacıyla ziyaret ettiği bir nokta olarak tarihi geçmişi bulunuyor. Bu özel yer, Ankara'nın gizli cenneti olarak biliniyor ve şifalı sularının yanı sıra zengin flora ve faunasıyla da dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kızılcahamam Sey Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmak
 
 ## Coğrafya
 
-Kızılcahamam Sey Hamamı, Ankara'nın İç Anadolu Bölgesi'nde, Kızılcahamam ilçesinde yer alıyor. Bu bölgenin coğrafyası, genellikle ormanlık alanlar ve dağlık arazilerle karakterize ediliyor. Sey Hamamı, 140 hektarlık bir alan kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu özel yerin coğrafyası, ziyaretçilerini doğal bir ortamda ağırlıyor ve şifalı sularının yanı sıra, zengin flora ve faunası ile de dikkat çekiyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim ayrı bit yaşanıyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, Sey Hamamı'nın flora ve faunasının çeşitliliğini etkiliyor ve her mevsim, ziyaretçilere farklı bir güzellik sunuyor.
+Kızılcahamam Sey Hamamı, Ankara'nın İç Anadolu Bölgesi'nde, Kızılcahamam ilçesinde yer alıyor. Bu bölgenin coğrafyası, genellikle ormanlık alanlar ve dağlık arazilerle karakterize ediliyor. Bu özel yerin coğrafyası, ziyaretçilerini doğal bir ortamda ağırlıyor ve şifalı sularının yanı sıra, zengin flora ve faunası ile de dikkat çekiyor. Bölgenin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim ayrı bit yaşanıyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu iklim koşulları, Sey Hamamı'nın flora ve faunasının çeşitliliğini etkiliyor ve her mevsim, ziyaretçilere farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 

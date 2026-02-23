@@ -1,7 +1,7 @@
 ---
 title: "Emir Şaban Türbesi"
 date: "2026-01-10T05:06:07.601Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hakkari"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391650"
 
 # Emir Şaban Türbesi
 
-Emir Şaban Türbesi, Doğu Anadolu Bölgesi'nin güzide illerinden olan Hakkari'nin Çukurca ilçesinde bulunuyor. Bu tarihi mekan, bölgenin önemli dini ve kültürel değerlerini barındırıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Emir Şaban Türbesi, özellikle güzellikleri sevenler ve tarihi mekanları keşfetmek isteyenler için ideal bir gezi noktası olarak dikkat çekiyor.
+Emir Şaban Türbesi, Doğu Anadolu Bölgesi'nin güzide illerinden olan Hakkari'nin Çukurca ilçesinde bulunuyor. Bu tarihi mekan, bölgenin önemli dini ve kültürel değerlerini barındırıyor. Emir Şaban Türbesi, özellikle güzellikleri sevenler ve tarihi mekanları keşfetmek isteyenler için ideal bir gezi noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Emir Şaban Türbesi ve çevresindeki bölge, çeşitli bitki türleri ve hayvan
 
 ## Ziyaret Bilgileri
 
-Emir Şaban Türbesi'ni ziyaret etmek için, Çukurca/Hakkari'ye ulaşmak gerekiyor. Mekana ulaşım, genellikle özel araçlarla veya toplu taşıma araçlarıyla sağlanıyor. Ziyaretçilerin, mekanın históriki ve kültürel önemini dikkate alarak, saygılı ve odpowiedi bir şekilde gezi yapmaları öneriliyor. Emir Şaban Türbesi, özellikle ilkbahar ve yaz aylarında ziyaret ediliyor. Bu período, bölgenin doğal güzelliklerini keşfetmek için en uygun zaman olarak kabul ediliyor. Ziyaretçiler, yaklaşık 2-3 saatlik bir gezi planı yaparak, Emir Şaban Türbesi ve çevresini keşfedebilirler.
+Emir Şaban Türbesi'ni ziyaret etmek için, Çukurca/Hakkari'ye ulaşmak gerekiyor. Mekana ulaşım, genellikle özel araçlarla veya toplu taşıma araçlarıyla sağlanıyor. Ziyaretçilerin, mekanın tarihi ve kültürel önemini dikkate alarak, saygılı ve odpowiedi bir şekilde gezi yapmaları öneriliyor. Emir Şaban Türbesi, özellikle ilkbahar ve yaz aylarında ziyaret ediliyor. Bu período, bölgenin doğal güzelliklerini keşfetmek için en uygun zaman olarak kabul ediliyor. Ziyaretçiler, yaklaşık 2-3 saatlik bir gezi planı yaparak, Emir Şaban Türbesi ve çevresini keşfedebilirler.
 
 ## İlginç Bilgiler
 
@@ -53,4 +53,4 @@ Emir Şaban Türbesi'ni ziyaret etmek için, Çukurca/Hakkari'ye ulaşmak gereki
 - Mekan, yüzyıllar önce inşa edilmiş ve çeşitli restorasyonlar görmüş.
 - Emir Şaban Türbesi, doğal güzellikleri sevenler için ideal bir gezi noktası.
 - Mekan, bölgenin tarihi ve kültürel değerlerini barındırıyor.
-- Ziyaretçiler, Emir Şaban Türbesi'ni ziyaret ederek, bölgenin históriki ve kültürel önemini öğrenebiliyorlar.
+- Ziyaretçiler, Emir Şaban Türbesi'ni ziyaret ederek, bölgenin tarihi ve kültürel önemini öğrenebiliyorlar.

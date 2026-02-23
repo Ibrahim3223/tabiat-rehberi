@@ -30,7 +30,7 @@ wikidata_id: "Q34872454"
 
 # Gölcük Tepesi
 
-Gölcük Tepesi, Zonguldak'ın Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğa harikasıdır. Bu bölge, İç Anadolu Bölgesi'nin sınırında yer almaktadır ve doğal güzelliği ile dikkat çekmektedir. Gölcük Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık yeşil alan, ziyaretçilerini doğanın kucağına davet etmektedir. Bu tepe, Karadeniz Bölgesi'nin en güzel manzaralarından birine sahiptir ve ziyaretçilerini büyülemektedir.
+Gölcük Tepesi, Zonguldak'ın Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğa harikasıdır. Bu bölge, İç Anadolu Bölgesi'nin sınırında yer almaktadır ve doğal güzelliği ile dikkat çekmektedir. Bu tepe, Karadeniz Bölgesi'nin en güzel manzaralarından birine sahiptir ve ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 
@@ -53,4 +53,4 @@ Gölcük Tepesi'ni ziyaret etmek isteyenler, Zonguldak'ın Karadeniz Bölgesi'ne
 - Gölcük Tepesi, Zonguldak'ın Karadeniz Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplamaktadır.
 - Gölcük Tepesi, İç Anadolu Bölgesi'nin sınırında yer almaktadır.
 - Gölcük Tepesi, Karadeniz Bölgesi'nin en güzel manzaralarından birine sahiptir.
-- Gölcük Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık yeşil alan, ziyaretçilerini doğanın kucağına davet etmektedir.
+

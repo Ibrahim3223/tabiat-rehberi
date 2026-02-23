@@ -20,7 +20,7 @@ aktiviteler: ["Doğa yürüyüşü","Bitki ve hayvan gözlemi","Fotoğraf çekim
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kocamartlı Tepe","caption":"Kocamartlı Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocamartl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390354","tip":"genel"}]
-description: "Afyonkarahisar'ın históri ve coğrafi açıdan önemli bir noktası olan Kocamartlı Tepe, Ege Bölgesi'nin doğal güzelliklerini sunar."
+description: "Afyonkarahisar'ın tarihi ve coğrafi açıdan önemli bir noktası olan Kocamartlı Tepe, Ege Bölgesi'nin doğal güzelliklerini sunar."
 keywords: ["Afyonkarahisar","Ege Bölgesi","Kocamartlı Tepe","doğa","coğrafya","tarih","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390354"
@@ -28,7 +28,7 @@ wikidata_id: "Q31390354"
 
 # Kocamartlı Tepe
 
-Afyonkarahisar'ın históri ve coğrafi açıdan önemli bir noktası olan Kocamartlı Tepe, Ege Bölgesi'nin doğal güzelliklerini sunar. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve çevredeki diğer tepelerle birlikte bir bütün oluşturur. Kocamartlı Tepe, ziyaretçilerine geniş ve yeşil bir alan sunar, burada dinlenme ve doğayı seyretme mümkün. Ayrıca, bu tepe çevresindeki diğer doğal güzellikleri de keşfetmeye olanak sağlar.
+Afyonkarahisar'ın tarihi ve coğrafi açıdan önemli bir noktası olan Kocamartlı Tepe, Ege Bölgesi'nin doğal güzelliklerini sunar. Kocamartlı Tepe, ziyaretçilerine geniş ve yeşil bir alan sunar, burada dinlenme ve doğayı seyretme mümkün. Ayrıca, bu tepe çevresindeki diğer doğal güzellikleri de keşfetmeye olanak sağlar.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kocamartlı Tepe, ziyaretçilerine birçok olanak sunar. Bu tepe, geniş ve yeş
 ## İlginç Bilgiler
 
 - Kocamartlı Tepe, Ege Bölgesi'nin coğrafi açıdan önemli bir noktasıdır.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Kocamartlı Tepe, tarihin izlerini taşıyan bir yer olarak, ziyaretçilerini geçmişe götürür.
 - Bu tepe, birçok bitki ve hayvan türüne ev sahipliği yapar.
 - Kocamartlı Tepe, doğa severler için ideal bir yerdir.

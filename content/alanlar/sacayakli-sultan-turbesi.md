@@ -1,7 +1,7 @@
 ---
 title: "Saçayaklı Sultan Türbesi"
 date: "2026-01-10T05:58:56.224Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390535"
 
 # Saçayaklı Sultan Türbesi
 
-Saçayaklı Sultan Türbesi, Kastamonu'nun merkezinde yer alan bir plaj ve tarihi mekan complexidir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu alan, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbediyor. Saçayaklı Sultan Türbesi, Kastamonu'nun turizm merkezlerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Saçayaklı Sultan Türbesi, Kastamonu'nun merkezinde yer alan bir plaj ve tarihi mekan complexidir. Bu alan, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbediyor. Saçayaklı Sultan Türbesi, Kastamonu'nun turizm merkezlerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Saçayaklı Sultan Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu 
 
 ## Coğrafya
 
-Saçayaklı Sultan Türbesi, Kastamonu'nun merkezinde yer alan bir plaj ve tarihi mekan complexidir. Bu alan, Karadeniz Bölgesi'nin en güzel plajlarından biridir ve 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğündedir. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu mekan, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbediyor. Saçayaklı Sultan Türbesi, Kastamonu'nun turizm merkezlerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Bu alan, Karadeniz Bölgesi'nin iklimine uygun olarak, nemli ve ılıman bir iklimi bulunuyor.
+Saçayaklı Sultan Türbesi, Kastamonu'nun merkezinde yer alan bir plaj ve tarihi mekan complexidir. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu mekan, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbediyor. Saçayaklı Sultan Türbesi, Kastamonu'nun turizm merkezlerinden biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor. Bu alan, Karadeniz Bölgesi'nin iklimine uygun olarak, nemli ve ılıman bir iklimi bulunuyor.
 
 ## Flora ve Fauna
 

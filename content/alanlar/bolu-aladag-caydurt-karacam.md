@@ -22,7 +22,7 @@ wikidata_id: "Q108228437"
 
 # Bolu-Aladağ-Çaydurt-Karaçam
 
-Bolu-Aladağ-Çaydurt-Karaçam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu milli park, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri keşfetme fırsatı sunar. Bolu-Aladağ-Çaydurt-Karaçam milli parkı, aynı zamanda zengin fauna ve flora çeşitliliği ile dikkat çeker. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları görebilirler.
+Bolu-Aladağ-Çaydurt-Karaçam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu milli park, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri keşfetme fırsatı sunar. Bolu-Aladağ-Çaydurt-Karaçam milli parkı, aynı zamanda zengin fauna ve flora çeşitliliği ile dikkat çeker. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları görebilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Aladağ-Çaydurt-Karaçam milli parkının tarihi geçmişi, yüzyıllar bo
 
 ## Coğrafya
 
-Bolu-Aladağ-Çaydurt-Karaçam milli parkı, Karadeniz Bölgesi'nde yer alır. Bu milli park, 140 hektarlık bir alan kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Milli parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşur. Bu bölge, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bolu-Aladağ-Çaydurt-Karaçam milli parkı, aynı zamanda zengin fauna ve flora çeşitliliği ile dikkat çeker. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları görebilirler. Milli parkın iklimi, Karadeniz iklimi özellikleri gösterir ve ziyaretçiler, bu bölgede yağmur ve nemli bir hava koşulları ile karşılaşabilirler.
+Bolu-Aladağ-Çaydurt-Karaçam milli parkı, Karadeniz Bölgesi'nde yer alır. Milli parkın coğrafi yapısı, dağlık ve ormanlık alanlardan oluşur. Bu bölge, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bolu-Aladağ-Çaydurt-Karaçam milli parkı, aynı zamanda zengin fauna ve flora çeşitliliği ile dikkat çeker. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları görebilirler. Milli parkın iklimi, Karadeniz iklimi özellikleri gösterir ve ziyaretçiler, bu bölgede yağmur ve nemli bir hava koşulları ile karşılaşabilirler.
 
 ## Flora ve Fauna
 

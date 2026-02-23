@@ -28,7 +28,7 @@ wikidata_id: "Q31389292"
 
 # Kocaşar Tepesi
 
-Kocaşar Tepesi, Malatya'nın doğal güzelliklerini keşfetmek isteyenler için bir cennet. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada doğanın tüm güzelliklerini görebilirsiniz. Bu tepede, çeşitli bitki türleri ve zengin fauna found. Kocaşar Tepesi, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
+Kocaşar Tepesi, Malatya'nın doğal güzelliklerini keşfetmek isteyenler için bir cennet. Bu tepede, çeşitli bitki türleri ve zengin fauna found. Kocaşar Tepesi, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 

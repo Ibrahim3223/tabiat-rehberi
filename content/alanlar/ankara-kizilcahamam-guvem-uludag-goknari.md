@@ -1,7 +1,7 @@
 ---
 title: "Ankara-Kizilcahamam-Guvem-Uludag Goknari"
 date: "2026-01-09T20:19:19.791Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Ankara"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228575"
 
 # Ankara-Kizilcahamam-Guvem-Uludag Goknari
 
-Ankara-Kizilcahamam-Guvem-Uludag Goknari milli parkı, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın doğal güzellikleri arasında yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Milli parkın konumu, Ankara şehrinin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz.
+Ankara-Kizilcahamam-Guvem-Uludag Goknari milli parkı, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın doğal güzellikleri arasında yer alır. Milli parkın konumu, Ankara şehrinin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz.
 
 ## Tarihçe
 
@@ -44,6 +44,6 @@ Ankara-Kizilcahamam-Guvem-Uludag Goknari milli parkını ziyaret etmek, doğa se
 
 - Milli parkın kuruluşu, doğal güzellikleri korumak amacıyla gerçekleştirilmiştir.
 - Parkta, çeşitli bitki ve hayvan türleri bulunur.
-- Milli park, ziyaretçilere doğayla iç içe bir expérience sunar.
+- Milli park, ziyaretçilere doğayla iç içe bir deneyim sunar.
 - Parkın coğrafi yapısı, ziyaretçilere çeşitli faaliyetler sunar.
 - Milli parkın iklimi, İç Anadolu Bölgesi'nin iklimine benzerlik gösterir.

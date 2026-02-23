@@ -29,7 +29,7 @@ wikidata_id: "Q31386845"
 
 # Hani Tepe
 
-Hani Tepe, Şırnak'ın sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğini gösteren önemli bir doğal alan olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Hani Tepe, ziyaretçilerini bölgeye özgü flora ve fauna çeşitliliği ile karşılamaktadır. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak kabul edilmektedir.
+Hani Tepe, Şırnak'ın sınırları içerisinde yer alan ve Güneydoğu Anadolu Bölgesi'nin coğrafi çeşitliliğini gösteren önemli bir doğal alan olarak dikkat çekmektedir. Hani Tepe, ziyaretçilerini bölgeye özgü flora ve fauna çeşitliliği ile karşılamaktadır. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hani Tepe'nin tarihi geçmişi, bölgenin genel tarihi geçmişi ile paralellik 
 
 ## Coğrafya
 
-Hani Tepe, Şırnak'ın coğrafi yapısını gösteren önemli bir tepe olarak dikkat çekmektedir. Bu tepe, bölgenin coğrafi çeşitliliğini gösteren bir oluşum olarak kabul edilmektedir. Hani Tepe'nin coğrafi yapısı, bölgenin genel coğrafi yapısına benzerlik göstermektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Hani Tepe, bölgenin flora ve fauna çeşitliliği ile birlikte, coğrafi yapısını da göstermektedir. Bu tepe, aynı zamanda bölgenin iklimini de etkileyen önemli bir faktör olarak kabul edilmektedir. Hani Tepe'nin coğrafi yapısı, bölgenin genel coğrafi yapısına benzerlik göstermektedir. Bu tepe, bölgenin coğrafi çeşitliliğini gösteren önemli bir oluşum olarak kabul edilmektedir.
+Hani Tepe, Şırnak'ın coğrafi yapısını gösteren önemli bir tepe olarak dikkat çekmektedir. Bu tepe, bölgenin coğrafi çeşitliliğini gösteren bir oluşum olarak kabul edilmektedir. Hani Tepe'nin coğrafi yapısı, bölgenin genel coğrafi yapısına benzerlik göstermektedir. Hani Tepe, bölgenin flora ve fauna çeşitliliği ile birlikte, coğrafi yapısını da göstermektedir. Bu tepe, aynı zamanda bölgenin iklimini de etkileyen önemli bir faktör olarak kabul edilmektedir. Hani Tepe'nin coğrafi yapısı, bölgenin genel coğrafi yapısına benzerlik göstermektedir. Bu tepe, bölgenin coğrafi çeşitliliğini gösteren önemli bir oluşum olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hani Tepe, ziyaretçilerini bölgeye özgü flora ve fauna çeşitliliği ile ka
 ## İlginç Bilgiler
 
 - Hani Tepe, Şırnak'ın sınırları içerisinde yer alan önemli bir doğal alan olarak dikkat çekmektedir.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamakta ve 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır.
+
 - Hani Tepe, bölgenin flora ve fauna çeşitliliği ile dikkat çekmektedir.
 - Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak kabul edilmektedir.
 - Hani Tepe, bölgenin turizm potansiyelini gösteren önemli bir doğal alan olarak kabul edilmektedir.

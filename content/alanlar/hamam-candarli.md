@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Çandarlı"
 date: "2026-01-10T00:03:03.733Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q133245843"
 
 # Hamam, Çandarlı
 
-Hamam, Çandarlı, Ege Bölgesi'nin en güzel ve sakin plajlarından biri olarak Dikili'nin güzide tatil noktalarından biri. 140 hektarlık bu alan, khong 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahip. Bu geniş kumsal, ziyaretçilerin güneşlenmeleri, denizde yüzmeleri ve çeşitli su sporları yapmaları için ideal bir ortam sunuyor. Hamam, Çandarlı, özellikle yaz aylarında tatilciler için bir çekim merkezi olarak ön plana çıkıyor.
+Hamam, Çandarlı, Ege Bölgesi'nin en güzel ve sakin plajlarından biri olarak Dikili'nin güzide tatil noktalarından biri. Bu geniş kumsal, ziyaretçilerin güneşlenmeleri, denizde yüzmeleri ve çeşitli su sporları yapmaları için ideal bir ortam sunuyor. Hamam, Çandarlı, özellikle yaz aylarında tatilciler için bir çekim merkezi olarak ön plana çıkıyor.
 
 ## Tarihçe
 

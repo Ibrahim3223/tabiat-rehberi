@@ -52,7 +52,7 @@ Mevsimsel açıdan bakıldığında, Sömbeki adası Akdeniz ikliminin karakteri
 
 ## Flora ve Fauna
 
-Sömbeki adasının flora ve fauna bölümü, ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Step bitki örtüsü ve bozkırın hakim olduğu bu ada, kuraklığa adapte olmuş türlerle dolu. 
+Sömbeki adasının flora ve fauna bölümü, ziyaretçilere benzersiz bir doğa deneyimi sunuyor. Step bitki örtüsü ve bozkırın hakim olduğu bu ada, kuraklığa adapte olmuş türlerle dolu.
 
 İlkbaharın gelmesiyle birlikte, ada çiçeklerle dolu bir hal alıyor. Kıyı bitkileri, deniz kuşlarının yuvalarını oluşturmak için ideal bir ortam sunuyor. Sonbaharda, göç eden kuşlar adayı ziyaret ediyor ve bu görkemli manzarayı izleme mümkün.
 

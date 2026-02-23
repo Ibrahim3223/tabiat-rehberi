@@ -22,7 +22,7 @@ wikidata_id: "Q108227464"
 
 # Mugla-Ula Kızılçam
 
-Muğla-Ula Kızılçam milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü kızılçam ağaçlarıyla kaplıdır. Bu milli park, doğa severler için bir cennet olarak kabul edilebilir. Ziyaretçiler, burada çeşitli bitkilerin ve hayvanların doğal yaşamını gözlemleyebilir. Parka gelen ziyaretçiler, aynı zamanda yürüyüş parkurlarından ve piknik alanlarından da yararlanabilirler.
+Muğla-Ula Kızılçam milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. Bu milli park, doğa severler için bir cennet olarak kabul edilebilir. Ziyaretçiler, burada çeşitli bitkilerin ve hayvanların doğal yaşamını gözlemleyebilir. Parka gelen ziyaretçiler, aynı zamanda yürüyüş parkurlarından ve piknik alanlarından da yararlanabilirler.
 
 ## Tarihçe
 

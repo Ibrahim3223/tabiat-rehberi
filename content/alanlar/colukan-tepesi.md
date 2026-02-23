@@ -28,7 +28,7 @@ wikidata_id: "Q34819618"
 
 # Çolukan Tepesi
 
-Batman şehrinin güzide noktalarından biri olan Çolukan Tepesi, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülüyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası sunuyor. Çolukan Tepesi, hem doğa severler hem de şehri tanımak isteyenler için önemli bir destinasyon. Tepenin eteklerinde yer alan köyler ve çevredeki flora, ziyaretçilere bölgenin kültürel ve doğal zenginliğini sunuyor. Çolukan Tepesi,Batman'ın tarihi ve coğrafi güzelliklerini bir araya getiren özel bir nokta.
+Batman şehrinin güzide noktalarından biri olan Çolukan Tepesi, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülüyor. Çolukan Tepesi, hem doğa severler hem de şehri tanımak isteyenler için önemli bir destinasyon. Tepenin eteklerinde yer alan köyler ve çevredeki flora, ziyaretçilere bölgenin kültürel ve doğal zenginliğini sunuyor. Çolukan Tepesi,Batman'ın tarihi ve coğrafi güzelliklerini bir araya getiren özel bir nokta.
 
 ## Tarihçe
 

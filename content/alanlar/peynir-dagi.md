@@ -32,7 +32,7 @@ Erzurum'un dağları arasında gizlenen bir hazine, Peynir Dağı, doğa severle
 
 ## Tarihçe
 
-Erzurum bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Bu bölgede, antik uygarlıklardan başlayarak Osmanlı ve Türk milletinin izlerine rastlama mümkün. Erzurum'un tarihi, M.Ö. 7. yüzyıla kadar uzanır ve bu dönemde Urartuların hakimiyeti altında bulunmuştur. Daha sonra Pers, Roma ve Bizans dönemlerini yaşayan bölge, 11. yüzyılda Türklerin yerleşimine sahne olmuştur.
+Erzurum bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Bu bölgede, antik uygarlıklardan başlayarak Osmanlı ve Türk milletinin izlerine rastlama mümkün. Erzurum'un tarihi, M.Ö. 7. yüzyıla kadar uzanır ve bu dönemde Urartuların hakimiyeti altında bulunmuştur. Daha sonra Pers, Roma ve Bizans dönemlerini yaşayan bölge, 11. yüzyılda Türklerin yerleşimine sahne olmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla dikkat çeken bu bölge, tarihin her döneminde insanların dikkatini çekmiştir. Türkiye'de bulunan doğal alanlar, insanların yaşamlarını sürdürmelerinde önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu alanların ekonomiye ve kültürel mirasa katkıda bulunmasını sağlamıştır. Erzurum'un dağlık ve yaylalık bölgeleri, bu faaliyetler için elverişli bir zemin sunmuştur. Bu bağlamda, "Peynir Dağı" gibi doğal güzellikler, bölgenin tarihini ve kültürünü anlamak için önemli birer parçadır.
 

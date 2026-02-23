@@ -33,7 +33,7 @@ Konakkıran'ın yemyeşil doğası içinde yer alan Taya-Kaya Dağı, Ermenistan
 
 ## Tarihçe
 
-Ermenistan'ın dağlık bölgesinde yer alan Taya-Kaya Dağı, binlerce yıllık bir tarihin sessiz tanığıdır. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların yaşamına ev sahipliği yapmıştır. Urartular, Persler, Roma İmparatorluğu gibi büyük güçler, bu coğrafyada izlerini bırakmışlardır. 
+Ermenistan'ın dağlık bölgesinde yer alan Taya-Kaya Dağı, binlerce yıllık bir tarihin sessiz tanığıdır. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların yaşamına ev sahipliği yapmıştır. Urartular, Persler, Roma İmparatorluğu gibi büyük güçler, bu coğrafyada izlerini bırakmışlardır.
 
 Doğal güzellikleri ve stratejik konumuyla, Taya-Kaya Dağı ve çevresindeki alanlar, insan yerleşimlerinin ve ticaret yollarının önemli merkezleri arasında yer almıştır. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geleneksel geçim kaynaklarından olmuştur. Dağların yükseklikleri ve vadileri, insanları hem yaşam alanları olarak hem de ticaret ve kültür alışverişiçin kullanılan önemli rotalar olarak hizmet vermiştir.
 
@@ -51,11 +51,11 @@ Mevsimsel değişikliklere baktığımızda, Taya-Kaya Dağı'nın iklim karakte
 
 ## Flora ve Fauna
 
-Taya-Kaya Dağı, Ermenistan'ın yüksek dağ ekosisteminin güzelliklerini sergiler. 1200 metre yükseklikte, step bitki örtüsü ve bozkırın hakim olduğu bu bölge, kuraklığa adapte olmuş türlerin yaşam alanıdır. 
+Taya-Kaya Dağı, Ermenistan'ın yüksek dağ ekosisteminin güzelliklerini sergiler. 1200 metre yükseklikte, step bitki örtüsü ve bozkırın hakim olduğu bu bölge, kuraklığa adapte olmuş türlerin yaşam alanıdır.
 
-Bitki örtüsü olarak, ilkbaharda çiçeklenen otsu bitkiler ve sonbaharda sararan yapraklı bitkiler görülmektedir. Dağın yüksek zonlarında, alpin flora ile karşılaşılır. 
+Bitki örtüsü olarak, ilkbaharda çiçeklenen otsu bitkiler ve sonbaharda sararan yapraklı bitkiler görülmektedir. Dağın yüksek zonlarında, alpin flora ile karşılaşılır.
 
-Yaban hayatı olarak, dağ keçileri, yaban kedileri ve tilkiler gibi memeliler yaşamaktadır. Kuşlar olarak, kartallar, şahinler ve diğer yükseklikte yaşayan türler görülmektedir. Sürüngenler olarak, yılanlar ve kertenkeleler de bu ekosistemin bir parçasıdır. 
+Yaban hayatı olarak, dağ keçileri, yaban kedileri ve tilkiler gibi memeliler yaşamaktadır. Kuşlar olarak, kartallar, şahinler ve diğer yükseklikte yaşayan türler görülmektedir. Sürüngenler olarak, yılanlar ve kertenkeleler de bu ekosistemin bir parçasıdır.
 
 Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak açısından önemlidir. Mevcut koruma durumu, bu alanın gelecekte sağlıklı bir şekilde var olabilmesi için büyük öneme sahiptir.
 

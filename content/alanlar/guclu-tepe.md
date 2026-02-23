@@ -28,7 +28,7 @@ wikidata_id: "Q32139764"
 
 # Güçlü Tepe
 
-Mardin'in eşsiz manzarasına sahip Güçlü Tepe, ziyaretçilerini tarihin derinliklerine ve doğanın güzelliğine davet ediyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en önemli noktalarından biri. Güçlü Tepe'nin tarihi ve kültürel önemi, Mardin'in zengin geçmişini yansıtıyor. Ziyaretçiler, bu tepeye çıktıklarında hem Mardin'in tarihi dokusunu hem de şehrin panoramik manzarasını izleme fırsatı buluyorlar. Güçlü Tepe, Mardin'in en önemli turistik noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi çekiyor.
+Mardin'in eşsiz manzarasına sahip Güçlü Tepe, ziyaretçilerini tarihin derinliklerine ve doğanın güzelliğine davet ediyor. Güçlü Tepe'nin tarihi ve kültürel önemi, Mardin'in zengin geçmişini yansıtıyor. Ziyaretçiler, bu tepeye çıktıklarında hem Mardin'in tarihi dokusunu hem de şehrin panoramik manzarasını izleme fırsatı buluyorlar. Güçlü Tepe, Mardin'in en önemli turistik noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi çekiyor.
 
 ## Tarihçe
 

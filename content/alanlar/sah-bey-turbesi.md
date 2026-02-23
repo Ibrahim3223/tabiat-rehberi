@@ -1,7 +1,7 @@
 ---
 title: "Şah Bey Türbesi"
 date: "2026-01-10T07:13:44.259Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390935"
 
 # Şah Bey Türbesi
 
-Şah Bey Türbesi, Trabzon'un Bafra ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Bu tarihi ve doğal güzelliğin birleştiği noktada, ziyaretçiler hem geçmişin izlerini takip ediyor hem de doğanın güzelliğini keşfediyor.
+Şah Bey Türbesi, Trabzon'un Bafra ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir destinasyon. Bu tarihi ve doğal güzelliğin birleştiği noktada, ziyaretçiler hem geçmişin izlerini takip ediyor hem de doğanın güzelliğini keşfediyor.
 
 ## Tarihçe
 

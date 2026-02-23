@@ -30,15 +30,15 @@ wikidata_id: "Q30623510"
 
 # Büyükada Tabiat Parkı
 
-Büyükada Tabiat Parkı, İstanbul'un Adalar ilçesinde yer alan ve 140 hektarlık geniş bir alanı kapsayan bir doğa harikasıdır. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Parkın içinde birçok tarihi yapı, yürüyüş parkurları ve piknik alanları bulunur. Büyükada, İstanbul'un kalabalığından uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir destinasyondur.
+Büyükada Tabiat Parkı, İstanbul'un Adalar ilçesinde yer alan ve 140 hektarlık geniş bir alanı kapsayan bir doğa harikasıdır. Parkın içinde birçok tarihi yapı, yürüyüş parkurları ve piknik alanları bulunur. Büyükada, İstanbul'un kalabalığından uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
-Büyükada Tabiat Parkı, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve tarihi geçmişiyle dikkat çeker. Parkın tarihi hakkında detaylı bilgi bulunmasa da, bölgenin doğal güzelliği ve tarihi önemi, onu önemli bir turistik destinasyon haline getirmiştir. Büyükada, İstanbul'un önemli bir bölümüdür ve tarihi dokusu, ziyaretçilerini geçmişe götürmeye hazırdır. Parkın içinde yer alan tarihi yapılar, ziyaretçilere bölge hakkında daha fazla bilgi edinme fırsatı sunar.
+Büyükada Tabiat Parkı, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve tarihi geçmişiyle dikkat çeker. Büyükada, İstanbul'un önemli bir bölümüdür ve tarihi dokusu, ziyaretçilerini geçmişe götürmeye hazırdır. Parkın içinde yer alan tarihi yapılar, ziyaretçilere bölge hakkında daha fazla bilgi edinme fırsatı sunar.
 
 ## Coğrafya
 
-Büyükada Tabiat Parkı, Marmara Denizi'nde yer alan Büyükada adasının bir bölümünü kapsar. Park, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Parkın coğrafi yapısı, ziyaretçilerine birçok doğa harikası sunar. Parkın içinde yer alan tepe ve vadiler, ziyaretçilere geniş bir manzara sunar. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı güzelliği sunar. Parkın çevresi, doğanın güzelliği ile dolu ve ziyaretçilerini doğayla baş başa bırakmaya davet ediyor.
+Büyükada Tabiat Parkı, Marmara Denizi'nde yer alan Büyükada adasının bir bölümünü kapsar. Parkın coğrafi yapısı, ziyaretçilerine birçok doğa harikası sunar. Parkın içinde yer alan tepe ve vadiler, ziyaretçilere geniş bir manzara sunar. Parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı güzelliği sunar. Parkın çevresi, doğanın güzelliği ile dolu ve ziyaretçilerini doğayla baş başa bırakmaya davet ediyor.
 
 ## Flora ve Fauna
 

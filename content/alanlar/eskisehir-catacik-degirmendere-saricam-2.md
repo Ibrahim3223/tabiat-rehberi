@@ -22,7 +22,7 @@ wikidata_id: "Q108227573"
 
 # Eskişehir-Catacik-Degirmendere Sarıcam 2
 
-Eskişehir-Catacik-Degirmendere Sarıcam 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli güzelliklerinden biridir. Bu milli park, ziyaretçilerini doğanın kucağına davet eder ve onları şehrin gürültüsünden uzaklaştırır. Eskişehir'in Catacik, Degirmendere ve Sarıcam gibi önemli yerleşim yerlerine yakın konumu, ziyaretçilerin bu doğal güzelliği keşfetmesini kolaylaştırır. Milli parkın etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
+Eskişehir-Catacik-Degirmendere Sarıcam 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alır. Bu milli park, ziyaretçilerini doğanın kucağına davet eder ve onları şehrin gürültüsünden uzaklaştırır. Eskişehir'in Catacik, Degirmendere ve Sarıcam gibi önemli yerleşim yerlerine yakın konumu, ziyaretçilerin bu doğal güzelliği keşfetmesini kolaylaştırır. Milli parkın etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Eskişehir-Catacik-Degirmendere Sarıcam 2 milli parkının tarihi geçmişi, y�
 
 ## Coğrafya
 
-Eskişehir-Catacik-Degirmendere Sarıcam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Milli park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölgenin coğrafi konumu, çeşitli bitki türleri ve zengin fauna için elverişlidir. Milli parkın etrafında, farklı yüksekliklerdeki tepeler ve vadiler bulunur. Bu coğrafi yapı, milli parkın doğal güzelliğini artırır. Eskişehir-Catacik-Degirmendere Sarıcam 2 milli parkı, İç Anadolu Bölgesi'nin iklim koşullarına uygun bir şekilde şekillenmiştir. Bölgenin iklimi, karasal iklim özellikleri taşır ve ziyaretçileri dört mevsim boyunca farklı deneyimler sunar.
+Eskişehir-Catacik-Degirmendere Sarıcam 2 milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölgenin coğrafi konumu, çeşitli bitki türleri ve zengin fauna için elverişlidir. Milli parkın etrafında, farklı yüksekliklerdeki tepeler ve vadiler bulunur. Bu coğrafi yapı, milli parkın doğal güzelliğini artırır. Eskişehir-Catacik-Degirmendere Sarıcam 2 milli parkı, İç Anadolu Bölgesi'nin iklim koşullarına uygun bir şekilde şekillenmiştir. Bölgenin iklimi, karasal iklim özellikleri taşır ve ziyaretçileri dört mevsim boyunca farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

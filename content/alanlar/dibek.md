@@ -23,7 +23,7 @@ wikidata_id: "Q108227186"
 
 # Dibek
 
-Dibek milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biridir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda çok çeşitli bitki türleri ile hayvanlar yaşamaktadır. Bu bölge, hem yerel halk hem de dışarıdan gelen ziyaretçiler için bir doğa cenneti olarak kabul ediliyor. Parkın içerisinde, yürüyüş parkurları, piknik alanları ve dinlenme noktaları gibi birçok olanak bulunmaktadır.
+Dibek milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biridir. Bu bölge, hem yerel halk hem de dışarıdan gelen ziyaretçiler için bir doğa cenneti olarak kabul ediliyor. Parkın içerisinde, yürüyüş parkurları, piknik alanları ve dinlenme noktaları gibi birçok olanak bulunmaktadır.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Dibek milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel bölgele
 
 ## Flora ve Fauna
 
-Dibek milli parkı, flora ve fauna açısından oldukça zengindir. Parkın içerisinde, çok çeşitli bitki türleri ve hayvanlar yaşamaktadır. Parkın flora açısından zenginliği, mevsimsel değişimlere göre farklılık gösterir ve her mevsim, farklı bitki türleri ile karşılaşma mümkündür. Fauna açısından da zengin olan parkta, birçok hayvan türü yaşamaktadır ve bu hayvanlar, parkın ekolojik dengesini korumaktadır. Dibek milli parkı, doğa severler için bir cennet olarak kabul ediliyor ve ziyaretçilere, doğanın güzelliğini deneyimleme fırsatı sunuyor.
+ Parkın içerisinde, çok çeşitli bitki türleri ve hayvanlar yaşamaktadır. Parkın flora açısından zenginliği, mevsimsel değişimlere göre farklılık gösterir ve her mevsim, farklı bitki türleri ile karşılaşma mümkündür. Fauna açısından da zengin olan parkta, birçok hayvan türü yaşamaktadır ve bu hayvanlar, parkın ekolojik dengesini korumaktadır. Dibek milli parkı, doğa severler için bir cennet olarak kabul ediliyor ve ziyaretçilere, doğanın güzelliğini deneyimleme fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 

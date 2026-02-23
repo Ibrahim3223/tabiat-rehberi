@@ -28,7 +28,7 @@ wikidata_id: "Q31387923"
 
 # Kızıltaş Tepesi
 
-Kızıltaş Tepesi, Giresun'un en dikkat çekici noktalarından biri olarak ziyaretçilerini ağırlıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en güzel manzaralarına sahip. Doğal güzelliği, zengin florası ve faunası ile ziyaretçilerini büyülüyor. Giresun'un güzide tepelerinden biri olan Kızıltaş Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin güzelliklerine davet ediyor.
+Kızıltaş Tepesi, Giresun'un en dikkat çekici noktalarından biri olarak ziyaretçilerini ağırlıyor. Doğal güzelliği, zengin florası ve faunası ile ziyaretçilerini büyülüyor. Giresun'un güzide tepelerinden biri olan Kızıltaş Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin güzelliklerine davet ediyor.
 
 ## Tarihçe
 

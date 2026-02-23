@@ -1,7 +1,7 @@
 ---
 title: "Ahi Yusuf Türbesi"
 date: "2026-01-10T05:29:31.665Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391658"
 
 # Ahi Yusuf Türbesi
 
-Sivas'ın Divriği ilçesinde yer alan Ahi Yusuf Türbesi, zengin tarihi geçmişi ve eşsiz coğrafi konumu ile dikkat çekiyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Ahi Yusuf Türbesi, hem dini hem de kültürel bir merkez olarak kabul ediliyor ve birçok ziyaretçi tarafından ziyaret ediliyor.
+Sivas'ın Divriği ilçesinde yer alan Ahi Yusuf Türbesi, zengin tarihi geçmişi ve eşsiz coğrafi konumu ile dikkat çekiyor. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Ahi Yusuf Türbesi, hem dini hem de kültürel bir merkez olarak kabul ediliyor ve birçok ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 

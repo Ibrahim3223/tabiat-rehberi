@@ -36,7 +36,7 @@ Van bölgesinin zengin tarihi, binlerce yılı kapsar. Bu bölge, Urartu Krallı
 
 Türkiye'de doğal alanlar, tarihsel olarak önemli ticaret yolları, yaylacılık ve hayvancılık faaliyetleri için kullanılmıştır. Bu bölgeler, aynı zamanda farklı kültürlerin bir araya geldiği ve etkileşim halinde olduğu yerler olarak da görev görmüştür. Van bölgesinde de benzer bir durum sözkonusudur; coğrafi konumu itibariyle, Yeltepe Dağı ve çevresindeki doğal alanlar, bölgenin ekonomi ve sosyal hayatında önemli bir rol oynamıştır.
 
-İnsanların Yeltepe Dağı ile ilişkisi, bölgenin coğrafi özelliklerine ve doğal kaynaklarına bağlı olarak şekillenmiştir. Bölge, históriki dönemlerden beri hayvancılık ve yaylacılık faaliyetleri için elverişli bir ortam sunmuştur. Ayrıca, ticaret yolları üzerinde bulunması, bölgenin ekonomik açıdan da önemli bir merkez haline gelmesini sağlamıştır. Bu tarihsel bağlam içerisinde, Yeltepe Dağı ve çevresindeki doğal alanlar,Van bölgesinin kültürel ve ekonomik zenginliğinin bir parçası olarak görülebilir.
+İnsanların Yeltepe Dağı ile ilişkisi, bölgenin coğrafi özelliklerine ve doğal kaynaklarına bağlı olarak şekillenmiştir. Bölge, tarihi dönemlerden beri hayvancılık ve yaylacılık faaliyetleri için elverişli bir ortam sunmuştur. Ayrıca, ticaret yolları üzerinde bulunması, bölgenin ekonomik açıdan da önemli bir merkez haline gelmesini sağlamıştır. Bu tarihsel bağlam içerisinde, Yeltepe Dağı ve çevresindeki doğal alanlar,Van bölgesinin kültürel ve ekonomik zenginliğinin bir parçası olarak görülebilir.
 
 ## Coğrafya
 
@@ -50,10 +50,10 @@ Mevsimsel değişiklikler açısından, Yeltepe Dağı'nın bulunduğu bölge, k
 
 ## Flora ve Fauna
 
-Yeltepe Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yeltepe Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte dağ yamaçlarında renkli çiçekler açar. Alpin flora, yükseklik zonlarına göre çeşitlilik gösterir. 
-Yaban hayatı da bir o kadar zengin. Memeliler ve kuşlar, dağların yüksek kesimlerinde yaşamını sürdürür. 
+Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte dağ yamaçlarında renkli çiçekler açar. Alpin flora, yükseklik zonlarına göre çeşitlilik gösterir.
+Yaban hayatı da bir o kadar zengin. Memeliler ve kuşlar, dağların yüksek kesimlerinde yaşamını sürdürür.
 Ekolojik değer olarak, bu dağ ekosistemi, birçok endemik tür için yaşam alanı sağlar.
 
 ## Ziyaret Bilgileri

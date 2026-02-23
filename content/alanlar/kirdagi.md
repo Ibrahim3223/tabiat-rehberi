@@ -50,9 +50,9 @@ Doğal bir oluşum olarak Kırdağı'nın fiziksel yapısı, bölgenin jeolojik 
 
 ## Flora ve Fauna
 
-Konya'nın Kırdağı, step bitki örtüsünün hakim olduğu bir dağ ekosisteminin güzelliğini sergiler. 1200 metre yükseklikte, bozkırın kuraklığına adapte olmuş türler, ilkbaharla birlikte renkli bir şölen sunar. Çiçeklerin açtığı mevsimde, dağ yamaçları bir renk cümbüşüne dönüşür. 
+Konya'nın Kırdağı, step bitki örtüsünün hakim olduğu bir dağ ekosisteminin güzelliğini sergiler. 1200 metre yükseklikte, bozkırın kuraklığına adapte olmuş türler, ilkbaharla birlikte renkli bir şölen sunar. Çiçeklerin açtığı mevsimde, dağ yamaçları bir renk cümbüşüne dönüşür.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, yükseklik zonlarında dolaşırken, kartallar gökyüzünde süzülür. Sonbaharda, göçmen kuşlar dağları bir geçit olarak kullanır. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, yükseklik zonlarında dolaşırken, kartallar gökyüzünde süzülür. Sonbaharda, göçmen kuşlar dağları bir geçit olarak kullanır.
 
 Kırdağı'nın ekolojik değeri, alpin flora ve dağ hayvanlarının yaşamsal bağımlılıklarından gelir. Bu dağ ekosistemi, kuraklığa adapte olmuş türlerin yaşam alanıdır ve bu nedenle koruma altına alınması önemlidir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Gömeç Hatun Türbesi"
 date: "2026-01-10T04:49:50.615Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q31187880"
 
 # Gömeç Hatun Türbesi
 
-Gömeç Hatun Türbesi, Konya'nın Selçuklu ilçesinde yer alan ve tarihin derinliklerine uzanan bir tarihi yapıdır. Bu alan, yaklaşık 140 hektarlık bir bölgeyi kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Gömeç Hatun Türbesi, tarihi ve kültürel zenginliklerinin yanı sıra, doğa severler için de önemli bir çekim noktasıdır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Gömeç Hatun Türbesi, ziyaretçilerine hem tarihin gizemini hem de doğanın güzelliğini sunar.
+Gömeç Hatun Türbesi, Konya'nın Selçuklu ilçesinde yer alan ve tarihin derinliklerine uzanan bir tarihi yapıdır. Gömeç Hatun Türbesi, tarihi ve kültürel zenginliklerinin yanı sıra, doğa severler için de önemli bir çekim noktasıdır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Gömeç Hatun Türbesi, ziyaretçilerine hem tarihin gizemini hem de doğanın güzelliğini sunar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Cambazlı Anıt Mezar"
 date: "2026-01-10T03:39:39.154Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -30,7 +30,7 @@ wikidata_id: "Q134728097"
 
 # Cambazlı Anıt Mezar
 
-Cambazlı Anıt Mezar, Silifke'de yer alan tarihi bir yapıdır. Bu anıt mezar, Mersin'in Akdeniz Bölgesi'nde bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Cambazlı Anıt Mezar, tarihi geçmişi ve zengin kültürel mirasıyla dikkat çekiyor. Ziyaretçiler, bu mezarın tarihi önemini ve çevresindeki doğal güzellikleri keşfedebilirler. Cambazlı Anıt Mezar, Silifke'nin önemli tarihi noktalarından biri olarak kabul ediliyor.
+Cambazlı Anıt Mezar, Silifke'de yer alan tarihi bir yapıdır. Bu anıt mezar, Mersin'in Akdeniz Bölgesi'nde bulunmaktadır. Cambazlı Anıt Mezar, tarihi geçmişi ve zengin kültürel mirasıyla dikkat çekiyor. Ziyaretçiler, bu mezarın tarihi önemini ve çevresindeki doğal güzellikleri keşfedebilirler. Cambazlı Anıt Mezar, Silifke'nin önemli tarihi noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Cambazlı Anıt Mezar, tarihi geçmişiyle dikkat çekiyor. Bu anıt mezar, yüz
 
 ## Coğrafya
 
-Cambazlı Anıt Mezar, Silifke'de yer alıyor. Bu anıt mezar, Mersin'in Akdeniz Bölgesi'nde bulunmaktadır. Coğrafi konumu itibariyle, Cambazlı Anıt Mezar çevredeki dağlarla çevrili bir alanda yer alıyor. Bu bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir iklim hüküm sürüyor. Cambazlı Anıt Mezar, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu anıt mezar, doğal güzellikleri ve tarihi yapılarıyla dikkat çekiyor. Ziyaretçiler, Cambazlı Anıt Mezar'ın coğrafi konumunu ve çevresindeki doğal güzellikleri keşfedebilirler.
+Cambazlı Anıt Mezar, Silifke'de yer alıyor. Bu anıt mezar, Mersin'in Akdeniz Bölgesi'nde bulunmaktadır. Coğrafi konumu itibariyle, Cambazlı Anıt Mezar çevredeki dağlarla çevrili bir alanda yer alıyor. Bu bölgenin iklimi, Akdeniz iklimi özellikleri gösteriyor. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir iklim hüküm sürüyor. Bu anıt mezar, doğal güzellikleri ve tarihi yapılarıyla dikkat çekiyor. Ziyaretçiler, Cambazlı Anıt Mezar'ın coğrafi konumunu ve çevresindeki doğal güzellikleri keşfedebilirler.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31385550"
 
 # Mazılık Tepe
 
-Mazılık Tepe, Gaziantep'in merkezinde yer alan ve şehrin tarihi geçmişini yansıtan önemli bir noktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yer alıyor. Tarihi ve doğal güzellikleri bir araya getiren bu tepe, ziyaretçiler için bir hazine. Burada, şehrin geçmişini öğrenme ve doğal güzellikleri keşfetme mümkün. Mazılık Tepe, Gaziantep'in önemli bir turizm merkezi ve kültürel mirasının bir parçasıdır.
+Mazılık Tepe, Gaziantep'in merkezinde yer alan ve şehrin tarihi geçmişini yansıtan önemli bir noktadır. Tarihi ve doğal güzellikleri bir araya getiren bu tepe, ziyaretçiler için bir hazine. Burada, şehrin geçmişini öğrenme ve doğal güzellikleri keşfetme mümkün. Mazılık Tepe, Gaziantep'in önemli bir turizm merkezi ve kültürel mirasının bir parçasıdır.
 
 ## Tarihçe
 

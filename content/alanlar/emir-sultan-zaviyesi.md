@@ -29,7 +29,7 @@ wikidata_id: "Q131739018"
 
 # Emir Sultan Zaviyesi
 
-Emir Sultan Zaviyesi, İzmir'in Konak ilçesinde, denize nazır bir konumda yer alıyor. Buhistoric mekan, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Emir Sultan Zaviyesi, bir taraftan denizin serinliğiyle, diğer taraftan tarihi atmosferiyle ziyaretçilerini karşılayan özel bir yer. Ziyaretçiler, bu mekanın sunduğu huzurlu ortamda, hem tarihi hem de doğal güzellikleri keşfedebilirler.
+Emir Sultan Zaviyesi, İzmir'in Konak ilçesinde, denize nazır bir konumda yer alıyor. Emir Sultan Zaviyesi, bir taraftan denizin serinliğiyle, diğer taraftan tarihi atmosferiyle ziyaretçilerini karşılayan özel bir yer. Ziyaretçiler, bu mekanın sunduğu huzurlu ortamda, hem tarihi hem de doğal güzellikleri keşfedebilirler.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728166"
 
 # Perikle Heroonu
 
-Perikle Heroonu, Finike'nin merkezinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Bu özel yer, hem Finike'nin hem de Antalya'nın önemli bir parçası olarak kabul ediliyor. Perikle Heroonu'nun tarihi geçmişi, ziyaretçilerini cezbederken, aynı zamanda doğal güzellikleri ile de dikkat çekiyor.
+Perikle Heroonu, Finike'nin merkezinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Bu özel yer, hem Finike'nin hem de Antalya'nın önemli bir parçası olarak kabul ediliyor. Perikle Heroonu'nun tarihi geçmişi, ziyaretçilerini cezbederken, aynı zamanda doğal güzellikleri ile de dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Perikle Heroonu'nun tarihi geçmişi, Finike'nin tarihi ile iç içe geçmiş du
 
 ## Coğrafya
 
-Perikle Heroonu, Finike'nin merkezinde yer alıyor ve deniz kıyısında bulunuyor. Bu bölge, doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerine geniş bir plaj alanı sunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Perikle Heroonu'nun coğrafi konumu, ziyaretçilerine çeşitli aktivite Möglichkeiten sunuyor. Bu bölgede, deniz kıyısında yürüyüş yapmak, güneşlenme ve denizde yüzme gibi aktiviteler mogelijk. Ayrıca, Perikle Heroonu'nun çevresinde, çeşitli restoran ve kafeler bulunuyor ve ziyaretçilerine yeme ve içecek Möglichkeiten sunuyor.
+Perikle Heroonu, Finike'nin merkezinde yer alıyor ve deniz kıyısında bulunuyor. Bu bölge, doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerine geniş bir plaj alanı sunuyor. Perikle Heroonu'nun coğrafi konumu, ziyaretçilerine çeşitli aktivite Möglichkeiten sunuyor. Bu bölgede, deniz kıyısında yürüyüş yapmak, güneşlenme ve denizde yüzme gibi aktiviteler mogelijk. Ayrıca, Perikle Heroonu'nun çevresinde, çeşitli restoran ve kafeler bulunuyor ve ziyaretçilerine yeme ve içecek Möglichkeiten sunuyor.
 
 ## Flora ve Fauna
 

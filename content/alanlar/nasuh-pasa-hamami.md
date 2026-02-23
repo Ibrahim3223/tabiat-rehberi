@@ -1,7 +1,7 @@
 ---
 title: "Nasuh Paşa Hamamı"
 date: "2026-01-09T22:20:10.229Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738456"
 
 # Nasuh Paşa Hamamı
 
-Nasuh Paşa Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve 140 hektarlık yeşil alanın içinde bulunan tarihi bir hamamdır. Bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini tarihi atmosferine davet eder. Hamamın tarihi geçmişi, ziyaretçilere unutulmaz bir deneyim sunar. Yeşil alanın içinde bulunan hamam, doğayla iç içe bir atmosfer sunar ve ziyaretçilerin doğayı keşfetmelerine olanak tanır. Hamamın tarihi önemi, ziyaretçilere unutulmaz bir deneyim sunar ve onların tarihle iç içe olmasını sağlar.
+Nasuh Paşa Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve 140 hektarlık yeşil alanın içinde bulunan tarihi bir hamamdır. Hamamın tarihi geçmişi, ziyaretçilere unutulmaz bir deneyim sunar. Yeşil alanın içinde bulunan hamam, doğayla iç içe bir atmosfer sunar ve ziyaretçilerin doğayı keşfetmelerine olanak tanır. Hamamın tarihi önemi, ziyaretçilere unutulmaz bir deneyim sunar ve onların tarihle iç içe olmasını sağlar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Nasuh Paşa Hamamı, tarihi geçmişiyle dikkat çeker. Hamamın tarihi hakkınd
 
 ## Coğrafya
 
-Nasuh Paşa Hamamı, Bursa'nın Osmangazi ilçesinde yer alan 140 hektarlık yeşil alanın içinde bulunur. Hamam, doğayla iç içe bir atmosfer sunar ve ziyaretçilerin doğayı keşfetmelerine olanak tanır. Yeşil alanın içinde bulunan hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini tarihi atmosferine davet eder. Hamamın çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Hamamın iklimi, ziyaretçilere konforlu bir gezi deneyimi sunar ve onların doğayla iç içe olmasını sağlar. Hamamın coğrafi konumu, ziyaretçilere unutulmaz bir deneyim sunar ve onların tarihi atmosferi keşfetmelerine olanak tanır. Hamamın coğrafi konumu, ziyaretçilere unutulmaz bir deneyim sunar ve onların doğayla iç içe olmasını sağlar.
+Nasuh Paşa Hamamı, Bursa'nın Osmangazi ilçesinde yer alan 140 hektarlık yeşil alanın içinde bulunur. Hamam, doğayla iç içe bir atmosfer sunar ve ziyaretçilerin doğayı keşfetmelerine olanak tanır. Hamamın çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Hamamın iklimi, ziyaretçilere konforlu bir gezi deneyimi sunar ve onların doğayla iç içe olmasını sağlar. Hamamın coğrafi konumu, ziyaretçilere unutulmaz bir deneyim sunar ve onların tarihi atmosferi keşfetmelerine olanak tanır. Hamamın coğrafi konumu, ziyaretçilere unutulmaz bir deneyim sunar ve onların doğayla iç içe olmasını sağlar.
 
 ## Flora ve Fauna
 

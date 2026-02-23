@@ -46,7 +46,7 @@ Yükseklik bakımından bakıldığında, Gölağa Tepe, Eiffel Kulesi'nin yakla
 
 ## Flora ve Fauna
 
-Gölağa Tepe, Tokat'ın nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gölağa Tepe, Tokat'ın nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, yüksek biyoçeşitlilik sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın başlangıcında, dağ yamaçları rengarenk çiçeklerle donanır. Çam, kayın ve meşe ağaçları, bölgenin hakim türleridir. Sonbaharda, yaprak döken ağaçların renk değişimi, görsel bir şölen sunar.
 

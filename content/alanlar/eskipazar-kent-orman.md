@@ -22,7 +22,7 @@ wikidata_id: "Q108228604"
 
 # ESKİPAZAR KENT ORMAN
 
-Eskipazar Kent Ormanı, İç Anadolu Bölgesi'nin gözde mekanlarından biri olarak dikkat çekiyor. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın kucağına davet ediyor. Orman, bölge halkı için önemli bir sosyal ve kültürel merkez olarak görev görüyor. Eskipazar Kent Ormanı, geniş ve çeşitli bitki türleri ile ziyaretçilerini doğal bir güzelliğe sürüklüyor. Bu alan, hem doğa severler hem de bölge halkı için önemli bir buluşma noktası olarak hizmet veriyor.
+Eskipazar Kent Ormanı, İç Anadolu Bölgesi'nin gözde mekanlarından biri olarak dikkat çekiyor. Orman, bölge halkı için önemli bir sosyal ve kültürel merkez olarak görev görüyor. Eskipazar Kent Ormanı, geniş ve çeşitli bitki türleri ile ziyaretçilerini doğal bir güzelliğe sürüklüyor. Bu alan, hem doğa severler hem de bölge halkı için önemli bir buluşma noktası olarak hizmet veriyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Eskipazar Kent Ormanı, zengin bir tarihi geçmişi ile dikkat çekiyor. Yüzyı
 
 ## Coğrafya
 
-Eskipazar Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Orman, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, çeşitli bitki türleri ile kaplı ve ziyaretçilerini doğal bir güzelliğe sürüklüyor. Orman, bölgenin iklimine uygun olarak kurulmuş ve bu iklim, ormanın gelişimini önemli ölçüde etkilemiştir. Eskipazar Kent Ormanı, etrafındaki diğer doğal güzelliklerle birlikte bir bütün olarak consideration ediliyor. Orman, bölgenin coğrafi yapısına uygun olarak şekillenmiş ve bu şekillenme, ormanın bugünkü durumunu önemli ölçüde etkilemiştir. Orman, ziyaretçilerine hem doğal güzelliğini hem de coğrafi yapısını sunuyor.
+Eskipazar Kent Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuştur. Bu alan, çeşitli bitki türleri ile kaplı ve ziyaretçilerini doğal bir güzelliğe sürüklüyor. Orman, bölgenin iklimine uygun olarak kurulmuş ve bu iklim, ormanın gelişimini önemli ölçüde etkilemiştir. Eskipazar Kent Ormanı, etrafındaki diğer doğal güzelliklerle birlikte bir bütün olarak consideration ediliyor. Orman, bölgenin coğrafi yapısına uygun olarak şekillenmiş ve bu şekillenme, ormanın bugünkü durumunu önemli ölçüde etkilemiştir. Orman, ziyaretçilerine hem doğal güzelliğini hem de coğrafi yapısını sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Eskipazar Kent Ormanı, ziyaretçilerine çeşitli olanaklar sunuyor. Ormana ula
 ## İlginç Bilgiler
 
 - Eskipazar Kent Ormanı, 140 hektarlık bir alanı kaplıyor.
-- Orman, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Orman, çeşitli bitki türleri ile kaplı.
 - Orman, çeşitli hayvan türlerine ev sahipliği yapıyor.
 - Orman, mevsimsel değişimlere uygun olarak şekillenmiş.

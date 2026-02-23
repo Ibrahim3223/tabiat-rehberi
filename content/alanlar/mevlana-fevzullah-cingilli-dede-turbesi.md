@@ -1,7 +1,7 @@
 ---
 title: "Mevlana Fevzullah Çingilli Dede Türbesi"
 date: "2026-01-10T05:24:11.514Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q130428957"
 
 # Mevlana Fevzullah Çingilli Dede Türbesi
 
-Mevlana Fevzullah Çingilli Dede Türbesi, Aydın'ın Nazilli ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken önemli bir turizm merkezidir. Bu bölge, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde düşünülebilir. Mevlana Fevzullah Çingilli Dede Türbesi, hem historical hem de doğal güzelliklerin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Nazilli'nin merkezine yakın konumuyla kolayca ulaşılabilen bu yer, aynı zamanda çevredeki diğer turistik noktalara da yakınlığıyla dikkat çekiyor.
+Mevlana Fevzullah Çingilli Dede Türbesi, Aydın'ın Nazilli ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken önemli bir turizm merkezidir. Mevlana Fevzullah Çingilli Dede Türbesi, hem historical hem de doğal güzelliklerin birleştiği bir nokta olarak ziyaretçilerini bekliyor. Nazilli'nin merkezine yakın konumuyla kolayca ulaşılabilen bu yer, aynı zamanda çevredeki diğer turistik noktalara da yakınlığıyla dikkat çekiyor.
 
 ## Tarihçe
 

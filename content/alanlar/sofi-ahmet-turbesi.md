@@ -1,7 +1,7 @@
 ---
 title: "Sofi Ahmet Türbesi"
 date: "2026-01-10T06:54:46.923Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -37,7 +37,7 @@ Sofi Ahmet Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu m
 
 ## Coğrafya
 
-Sofi Ahmet Türbesi, Narman ilçesinde, Erzurum'un coğrafi güzelliklerinin birleştiği özel bir bölgede yer alıyor. Bu mekan, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Sofi Ahmet Türbesi, çevresindeki dağlarla çevrili bir vadi içerisinde yer alıyor ve bu sayede, ziyaretçilerine, doğal güzelliklerin tümünü sunuyor. Burada, çeşitli bitki türleri ve zengin fauna da bulunmaktadır. Sofi Ahmet Türbesi, aynı zamanda, çevresindeki köylerin ve kasabaların önemli bir gezi noktası olarak kabul ediliyor. Bu mekan, doğa yürüyüşleri, trekking ve diğer outdoor aktiviteleri için de ideal bir nokta olarak düşünülüyor. Sofi Ahmet Türbesi, coğrafi konumu itibariyle, ziyaretçilerine, hem tarihi hem de doğal güzellikleriyle zengin bir deneyim sunuyor.
+Sofi Ahmet Türbesi, Narman ilçesinde, Erzurum'un coğrafi güzelliklerinin birleştiği özel bir bölgede yer alıyor. Sofi Ahmet Türbesi, çevresindeki dağlarla çevrili bir vadi içerisinde yer alıyor ve bu sayede, ziyaretçilerine, doğal güzelliklerin tümünü sunuyor. Burada, çeşitli bitki türleri ve zengin fauna da bulunmaktadır. Sofi Ahmet Türbesi, aynı zamanda, çevresindeki köylerin ve kasabaların önemli bir gezi noktası olarak kabul ediliyor. Bu mekan, doğa yürüyüşleri, trekking ve diğer outdoor aktiviteleri için de ideal bir nokta olarak düşünülüyor. Sofi Ahmet Türbesi, coğrafi konumu itibariyle, ziyaretçilerine, hem tarihi hem de doğal güzellikleriyle zengin bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Sofi Ahmet Türbesi'ni ziyaret etmek, ziyaretçilerine, hem tarihi hem de doğal
 ## İlginç Bilgiler
 
 - Sofi Ahmet Türbesi, Narman ilçesinde, Erzurum'un tarihi ve kültürel zenginliklerini yansıtan önemli bir gezi noktasıdır.
-- Bu mekan, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Sofi Ahmet Türbesi, çevresindeki dağlarla çevrili bir vadi içerisinde yer alıyor ve bu sayede, ziyaretçilerine, doğal güzelliklerin tümünü sunuyor.
 - Bu mekan, aynı zamanda, birçok farklı outdoor aktivite için de ideal bir nokta olarak düşünülüyor.
 - Sofi Ahmet Türbesi, ziyaretçilerine, hem tarihi hem de doğal güzellikleriyle, zengin bir deneyim sunuyor.

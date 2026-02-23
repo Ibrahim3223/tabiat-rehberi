@@ -28,7 +28,7 @@ wikidata_id: "Q31544812"
 
 # Zevika Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman, doğal güzellikleri ve tarihi zenginlikleriyle dikkat çekmektedir. Bu bölgenin önemli noktalarından biri de Zevika Tepesi'dir. 140 hektarlık bir alanı kapsayan Zevika Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Bu tepe, Batman'ın şehir merkezine yakın bir konumda yer almakta ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak görülmektedir. Zevika Tepesi, hem doğa severlerin hem de tarihi yerleri keşfetmek isteyenlerin ilgisini çekmektedir.
+Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman, doğal güzellikleri ve tarihi zenginlikleriyle dikkat çekmektedir. Bu bölgenin önemli noktalarından biri de Zevika Tepesi'dir. Bu tepe, Batman'ın şehir merkezine yakın bir konumda yer almakta ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak görülmektedir. Zevika Tepesi, hem doğa severlerin hem de tarihi yerleri keşfetmek isteyenlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Zevika Tepesi, ziyaretçiler için ideal bir destinasyon olarak görülmektedir.
 ## İlginç Bilgiler
 
 - Zevika Tepesi, Batman'ın doğal güzelliklerini keşfetmek için ideal bir destinasyon olarak görülmektedir.
-- Bu tepe, 140 hektarlık bir alanı kapsamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır.
+
 - Zevika Tepesi, flora ve fauna açısından zengin bir bölge olarak dikkat çekmektedir.
 - Bu tepe, çeşitli bitki türleri ve ağaçlara ev sahipliği yapmaktadır.
 - Zevika Tepesi, aynı zamanda tarihi yerleri keşfetmek isteyenler için önemli bir destinasyon olarak görülmektedir.

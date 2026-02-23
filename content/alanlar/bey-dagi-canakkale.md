@@ -50,7 +50,7 @@ Bey Dağı, çevresel açıdan önemli bir role sahip. Komşu alanlar, su kaynak
 
 ## Flora ve Fauna
 
-Bey Dağı, Çanakkale'nin doğal zenginliklerinin bir parçası olarak karşımıza çıkıyor. Bu dağ ekosisteminde, 1200 metre yükseklikte değişen iklim koşullarıyla birlikte, karma ormanlar ve alpin flora birlikte yaşanıyor. 
+Bey Dağı, Çanakkale'nin doğal zenginliklerinin bir parçası olarak karşımıza çıkıyor. Bu dağ ekosisteminde, 1200 metre yükseklikte değişen iklim koşullarıyla birlikte, karma ormanlar ve alpin flora birlikte yaşanıyor.
 
 Bitki örtüsünü oluşturan çam, meşe ve kayın ağaçları, mevsimsel değişimlerle birlikte farklı renkler ve kokularla ziyaretçilerini karşılıyor. İlkbaharla birlikte, dağ yamaçları çiçeklerle örtülürken, sonbaharda ise göçmen kuşların geçiş güzergahı haline geliyor.
 
@@ -69,4 +69,4 @@ Bey Dağı, Çanakkale'nin doğal güzelliklerini keşfetmek isteyenler için id
 - Dağın eteklerinde, tarihi öneme sahip antik şehir kalıntıları mevcuttur.
 - Bey Dağı ve çevresindeki bölge, 1993 yılında Tabiat Parkı olarak ilan edilmiştir.
 - Dağın yüksekliği yaklaşık 672 metre olup, çevresindeki diğer tepe ve dağlarla birlikte önemli bir coğrafi oluşum oluşturur.
-- Bey Dağı ve Kaz Dağları, Truva Antik Kenti'ne yakınlığı nedeniyle önemli bir turistik destinasyon olarak kabul edilir.
+

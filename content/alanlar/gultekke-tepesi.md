@@ -1,7 +1,7 @@
 ---
 title: "Gültekke Tepesi"
 date: "2026-01-10T13:47:48.222Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Kocaeli"
@@ -28,7 +28,7 @@ wikidata_id: "Q32139156"
 
 # Gültekke Tepesi
 
-Gültekke Tepesi, Kocaeli'nin en güzel noktalarından biri olarak bilinir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kaplar. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeker. Kocaeli'nin merkezine yakın konumuyla da ziyaretçilerin ilgisini çekmektedir. Ziyaretçiler, bu tepede hem doğayla iç içe vakit geçirebilir hem de tarihi yapıları keşfedebilir. Gültekke Tepesi, Kocaeli'nin önemli bir turizm noktası olarak kabul edilir ve her yıl birçok ziyaretçi tarafından tercih edilir.
+Gültekke Tepesi, Kocaeli'nin en güzel noktalarından biri olarak bilinir. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeker. Kocaeli'nin merkezine yakın konumuyla da ziyaretçilerin ilgisini çekmektedir. Ziyaretçiler, bu tepede hem doğayla iç içe vakit geçirebilir hem de tarihi yapıları keşfedebilir. Gültekke Tepesi, Kocaeli'nin önemli bir turizm noktası olarak kabul edilir ve her yıl birçok ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gültekke Tepesi'nin tarihi geçmişi oldukça zengindir. Bu bölgede yapılan a
 
 ## Coğrafya
 
-Gültekke Tepesi, Kocaeli ilinin merkezine yakın bir konumda yer alır. Bu tepe, Marmara Bölgesi'nin coğrafyasını yansıtan önemli bir noktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sağlar. Etrafında bulunan ormanlık alanlar ve tarım arazileri, bölgenin doğal güzelliklerini gösterir. Tepenin coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Burada, mevsimsel değişimlere göre farklı bitki ve hayvan türlerine rastlama mümkündür. Gültekke Tepesi, Kocaeli'nin coğrafi çeşitliliğini gösteren bir bölgedir. Tepenin eteklerinde ve çevresinde yer alan yerleşim yerleri, bölgenin nüfus yoğunluğunu gösterir. Kocaeli'nin merkezine yakınlığı, ulaşımın kolay olması ve güzel manzarasıyla Gültekke Tepesi, ziyaretçilerin ilgisini çeken bir destinasyondur.
+Gültekke Tepesi, Kocaeli ilinin merkezine yakın bir konumda yer alır. Bu tepe, Marmara Bölgesi'nin coğrafyasını yansıtan önemli bir noktadır. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir görüş açısı sağlar. Etrafında bulunan ormanlık alanlar ve tarım arazileri, bölgenin doğal güzelliklerini gösterir. Burada, mevsimsel değişimlere göre farklı bitki ve hayvan türlerine rastlama mümkündür. Gültekke Tepesi, Kocaeli'nin coğrafi çeşitliliğini gösteren bir bölgedir. Tepenin eteklerinde ve çevresinde yer alan yerleşim yerleri, bölgenin nüfus yoğunluğunu gösterir. Kocaeli'nin merkezine yakınlığı, ulaşımın kolay olması ve güzel manzarasıyla Gültekke Tepesi, ziyaretçilerin ilgisini çeken bir destinasyondur.
 
 ## Flora ve Fauna
 

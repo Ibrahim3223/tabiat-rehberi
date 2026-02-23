@@ -33,7 +33,7 @@ Kars ilinin büyüleyici doğasında yer alan Yağlıca Dağı, ziyaretçilerini
 
 ## Tarihçe
 
-Kars bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölgede, Selçuklular, Osmanlılar ve diğer uygarlıkların izleri görülür. Yağlıca Dağı da, bu tarihsel zenginliğin bir parçasıdır. Türkiye'de doğal alanlar, insan yaşamının önemli bir parçası olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve kültürel yaşamında önemli rol oynamıştır.
+Kars bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölgede, Selçuklular, Osmanlılar ve diğer uygarlıkların izleri görülür. Yağlıca Dağı da, bu tarihsel zenginliğin bir parçasıdır. Türkiye'de doğal alanlar, insan yaşamının önemli bir parçası olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve kültürel yaşamında önemli rol oynamıştır.
 
 Kars bölgesinin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alır. İpek Yolu ve diğer önemli ticaret yolları, bu bölgeden geçer. Bu nedenle, Yağlıca Dağı ve çevresindeki doğal alanlar, tarihin çeşitli dönemlerinde insanların yaşamına ev sahipliği yapmış, çeşitli kültürel ve ekonomik faaliyetlere tanıklık etmiştir. İnsanların bu doğal alanlarla olan ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyutu da içerir. Bu tür doğal alanlar, insan yaşamının bir parçası olarak, Türkiye'nin tarihsel ve kültürel mirasının önemli bir bölümünü oluşturur.
 
@@ -49,7 +49,7 @@ Jeolojik açıdan bakıldığında, Yağlıca Dağı'nın detaylı fiziksel veri
 
 ## Flora ve Fauna
 
-Yağlıca Dağı, Kars'ın yüksek dağ ekolojisinin güzel bir örneği. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yağlıca Dağı, Kars'ın yüksek dağ ekolojisinin güzel bir örneği. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 **Bitki Örtüsü**: İlkbaharda, alpin çayırlar renkli çiçeklerle kaplanır. Sonbaharda, dağların eteklerinde sarı ve kırmızı tonlarıyla göze çarpan yapraklar görülür. Yükseklik zonlarına göre değişen flora, bu bölgenin benzersiz özelliklerinden biridir.
 

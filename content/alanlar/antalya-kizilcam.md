@@ -22,7 +22,7 @@ wikidata_id: "Q108227836"
 
 # Antalya Kızılçam
 
-Antalya Kızılçam, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir milli parktır. Bu güzel alan, ziyaretçilerine doğanın güzelliklerini ve tarihi geçmişiyle birlikte sunuyor. 70 yıldan fazla bir süredir korunan bu bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Tarihi geçmişi ve doğal güzellikleri ile birlikte, Antalya Kızılçam ziyaretçilerini bekliyor.
+ Bu güzel alan, ziyaretçilerine doğanın güzelliklerini ve tarihi geçmişiyle birlikte sunuyor. 70 yıldan fazla bir süredir korunan bu bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Tarihi geçmişi ve doğal güzellikleri ile birlikte, Antalya Kızılçam ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya Kızılçam'ın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu b
 
 ## Coğrafya
 
-Antalya Kızılçam, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, bu bölge birçok farklı doğal güzelliğe sahip. Dağlar, ormanlar ve akarsular, bu bölgenin coğrafi yapısını oluşturuyor. İklim olarak, bu bölge Akdeniz ikliminin özellikleri gösteriyor. Kışlar ılıman, yazlar sıcak ve kurak passing. Bu bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Dağların yüksekliklerine göre, farklı bitki türleri yetişiyor. Ormanlar, bu bölgenin en önemli doğal güzelliklerinden biri. Ziyaretçileri, bu güzel doğal güzellikleri keşfetmek için birçok farklı olanak sunuyor.
+Antalya Kızılçam, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Coğrafi olarak, bu bölge birçok farklı doğal güzelliğe sahip. Dağlar, ormanlar ve akarsular, bu bölgenin coğrafi yapısını oluşturuyor. İklim olarak, bu bölge Akdeniz ikliminin özellikleri gösteriyor. Kışlar ılıman, yazlar sıcak ve kurak passing. Bu bölge, birçok farklı bitki ve hayvan türüne ev sahipliği yapıyor. Dağların yüksekliklerine göre, farklı bitki türleri yetişiyor. Ormanlar, bu bölgenin en önemli doğal güzelliklerinden biri. Ziyaretçileri, bu güzel doğal güzellikleri keşfetmek için birçok farklı olanak sunuyor.
 
 ## Flora ve Fauna
 

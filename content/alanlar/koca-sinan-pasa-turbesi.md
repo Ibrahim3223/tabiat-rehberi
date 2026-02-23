@@ -1,7 +1,7 @@
 ---
 title: "Koca Sinan Paşa Türbesi"
 date: "2026-01-10T07:22:26.891Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391076"
 
 # Koca Sinan Paşa Türbesi
 
-Koca Sinan Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi mekândır. Bu türbe, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak kabul edilmektedir. 140 hektarlık bir alan üzerindeki bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplamaktadır. Tarihi değerleri ve mimari yapısı ile dikkat çeken Koca Sinan Paşa Türbesi, ziyaretçilerini geçmişe götürmeyi başarıyor. Türbenin etrafında bulunan tarihi yapılar ve doğal güzellikler, bu mekânın önemini daha da artırmaktadır.
+Koca Sinan Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi mekândır. Bu türbe, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak kabul edilmektedir. Tarihi değerleri ve mimari yapısı ile dikkat çeken Koca Sinan Paşa Türbesi, ziyaretçilerini geçmişe götürmeyi başarıyor. Türbenin etrafında bulunan tarihi yapılar ve doğal güzellikler, bu mekânın önemini daha da artırmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Koca Sinan Paşa Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Osman
 
 ## Coğrafya
 
-Koca Sinan Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak önemli bir konuma sahiptir. Türbenin etrafında, tarihi yapılar ve doğal güzellikler bulunmakta olup, bu mekânın coğrafi özellikleri oldukça çeşitlidir. İklimi ve çevre koşulları, türbenin mimari yapısını ve tarihi değerlerini etkilemiştir. 140 hektarlık bir alana yayılan Koca Sinan Paşa Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplamaktadır. Bu geniş alan, ziyaretçilere geniş bir sunarken, aynı zamanda tarihi ve kültürel bir deneyimi de sunmaktadır. Türbenin coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlamaktadır.
+Koca Sinan Paşa Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak önemli bir konuma sahiptir. Türbenin etrafında, tarihi yapılar ve doğal güzellikler bulunmakta olup, bu mekânın coğrafi özellikleri oldukça çeşitlidir. İklimi ve çevre koşulları, türbenin mimari yapısını ve tarihi değerlerini etkilemiştir. Bu geniş alan, ziyaretçilere geniş bir sunarken, aynı zamanda tarihi ve kültürel bir deneyimi de sunmaktadır. Türbenin coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlamaktadır.
 
 ## Flora ve Fauna
 

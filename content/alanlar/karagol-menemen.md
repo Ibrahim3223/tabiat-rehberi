@@ -23,7 +23,7 @@ wikidata_id: "Q108227884"
 
 # Karagol Menemen
 
-Karagol Menemen, İç Anadolu Bölgesi'nin doğal güzelliklerini korumak amacıyla kurulmuş bir milli parktır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş yeşil alan, ziyaretçilerini doğayla baş başa bırakıyor. Bu milli park, bölgenin ekolojik dengesini korumakla birlikte, aynı zamanda ziyaretçilerine doğa içinde huzur dolu anlar yaşatmayı amaçlıyor. Karagol Menemen, İnceleyenlerin ve doğa severlerin ilgisini çekmektedir.
+Karagol Menemen, İç Anadolu Bölgesi'nin doğal güzelliklerini korumak amacıyla kurulmuş bir milli parktır. Bu milli park, bölgenin ekolojik dengesini korumakla birlikte, aynı zamanda ziyaretçilerine doğa içinde huzur dolu anlar yaşatmayı amaçlıyor. Karagol Menemen, İnceleyenlerin ve doğa severlerin ilgisini çekmektedir.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228685"
 
 # YALVAÇ
 
-Yalvaç milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik cenneti. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri ile zengin fauna bulunmakta. Bu bölgede, yaban hayatının yanı sıra, insanlığın tarihi geçmişi de önemli bir role sahip. Yalvaç milli parkı, hem doğa severler hem de history meraklıları için bir çekim merkezi.
+Yalvaç milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik cenneti. Bu bölgede, yaban hayatının yanı sıra, insanlığın tarihi geçmişi de önemli bir role sahip. Yalvaç milli parkı, hem doğa severler hem de history meraklıları için bir çekim merkezi.
 
 ## Tarihçe
 

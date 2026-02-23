@@ -1,7 +1,7 @@
 ---
 title: "Tabaklar Hamamı"
 date: "2026-01-09T22:15:32.747Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -46,7 +46,7 @@ Tabaklar Hamamı, zengin bir flora ve fauna ile dolu. Bölgede, çeşitli bitki 
 
 ## Ziyaret Bilgileri
 
-Tabaklar Hamamı'na gitmek, doğa ile baş başa kalmanın en güzel yollarından biridir. Ziyaretçiler, bölgenin doğal güzelliğini keşfetmek için yürüyüş yapabilir, piknik yapabilir veya sadece doğanın seslerini dinleyebilir. Bölgeye ulaşım kolay, Bolu şehir merkezinden araç veya toplu taşıma ile erişilebilir. En iyi ziyaret zamanı, genellikle ilkbahar ve yaz aylarıdır, ancak her mevsim ziyaret edilebilir. Ziyaretçilerin, bölgeye gelirken, necessary malzemeleri yanlarında getirmeleri önerilir. Tabaklar Hamamı, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Tabaklar Hamamı'na gitmek, doğa ile baş başa kalmanın en güzel yollarından biridir. Ziyaretçiler, bölgenin doğal güzelliğini keşfetmek için yürüyüş yapabilir, piknik yapabilir veya sadece doğanın seslerini dinleyebilir. Bölgeye ulaşım kolay, Bolu şehir merkezinden araç veya toplu taşıma ile erişilebilir. En iyi ziyaret zamanı, genellikle ilkbahar ve yaz aylarıdır, ancak her mevsim ziyaret edilebilir. Ziyaretçilerin, bölgeye gelirken, necessary malzemeleri yanlarında getirmeleri önerilir.
 
 ## İlginç Bilgiler
 

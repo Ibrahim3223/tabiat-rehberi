@@ -37,7 +37,7 @@ Ev Kaya Mezarları'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Ev Kaya Mezarları, Kastamonu'nun merkezinde yer alan bir bölgedir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğündedir. Bölgenin coğrafi yapısı, kaya mezarları ve tarihi yapılardan oluşur. Ev Kaya Mezarları, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşır ve ziyaretçilerin bölgeyi gezerken, bu iklim özellikleri hakkında bilgi edinmeleri mümkündür. Ev Kaya Mezarları, Kastamonu'nun doğal güzellikleri arasında önemli bir yer tutar ve ziyaretçilerini coğrafi açıdan önemli bir bölgeye davet ediyor.
+Ev Kaya Mezarları, Kastamonu'nun merkezinde yer alan bir bölgedir. Bölgenin coğrafi yapısı, kaya mezarları ve tarihi yapılardan oluşur. Ev Kaya Mezarları, Karadeniz Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bölgenin iklimi, Karadeniz ikliminin özellikleri taşır ve ziyaretçilerin bölgeyi gezerken, bu iklim özellikleri hakkında bilgi edinmeleri mümkündür. Ev Kaya Mezarları, Kastamonu'nun doğal güzellikleri arasında önemli bir yer tutar ve ziyaretçilerini coğrafi açıdan önemli bir bölgeye davet ediyor.
 
 ## Flora ve Fauna
 

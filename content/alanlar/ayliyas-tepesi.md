@@ -28,7 +28,7 @@ wikidata_id: "Q31387963"
 
 # Ayliyas Tepesi
 
-Ayliyas Tepesi, Gümüşhane'nin güzide bir bölgesinde yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile büyülüyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Ayliyas Tepesi, hem doğa severlerin hem de fotoğrafçıların ilgisini çekiyor. Tepenin manzarası, özellikle gün batımı sırasında wirklich büyüleyici.
+Ayliyas Tepesi, Gümüşhane'nin güzide bir bölgesinde yer alıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Ayliyas Tepesi, hem doğa severlerin hem de fotoğrafçıların ilgisini çekiyor. Tepenin manzarası, özellikle gün batımı sırasında wirklich büyüleyici.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Bayraklı Dede Türbesi, Karabağ"
 date: "2026-01-10T05:39:59.965Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582183"
 
 # Bayraklı Dede Türbesi, Karabağ
 
-Bayraklı Dede Türbesi, Karabağ Plajı, Aydın'ın İncirliova ilçesinde yer alan ve doğal güzellikleri ile dikkat çeken bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel plajlarından biridir. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini kendisine çeken özel bir yerdir. Bayraklı Dede Türbesi, Karabağ Plajı'na gelerek hem denizin tadını çıkarabilir hem de tarihi bir alanda bulunmanın huzurunu yaşayabilirsiniz.
+Bayraklı Dede Türbesi, Karabağ Plajı, Aydın'ın İncirliova ilçesinde yer alan ve doğal güzellikleri ile dikkat çeken bir destinasyondur. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini kendisine çeken özel bir yerdir. Bayraklı Dede Türbesi, Karabağ Plajı'na gelerek hem denizin tadını çıkarabilir hem de tarihi bir alanda bulunmanın huzurunu yaşayabilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bayraklı Dede Türbesi, Karabağ Plajı'nın tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Bayraklı Dede Türbesi, Karabağ Plajı, İncirliova'nın sahil şeridinde yer alan ve Ege Denizi'ne bakan bir bölgedir. Bu plaj, 140 hektarlık bir alanı kapsamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu bölge aynı zamanda önemli bir ekosistem olarak kabul edilmektedir. Bayraklı Dede Türbesi, Karabağ Plajı'nın coğrafi konumu, ziyaretçilerine denize girme, güneşlenme ve doğa yürüyüşü gibi aktiviteler için ideal bir ortam sağlamaktadır. Bu bölgenin iklimi, Ege Bölgesi'nin genel iklimi gibi ılımandır ve yaz aylarında ziyaretçiler tarafından sıklıkla tercih edilmektedir.
+Bayraklı Dede Türbesi, Karabağ Plajı, İncirliova'nın sahil şeridinde yer alan ve Ege Denizi'ne bakan bir bölgedir. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta olup, bu bölge aynı zamanda önemli bir ekosistem olarak kabul edilmektedir. Bayraklı Dede Türbesi, Karabağ Plajı'nın coğrafi konumu, ziyaretçilerine denize girme, güneşlenme ve doğa yürüyüşü gibi aktiviteler için ideal bir ortam sağlamaktadır. Bu bölgenin iklimi, Ege Bölgesi'nin genel iklimi gibi ılımandır ve yaz aylarında ziyaretçiler tarafından sıklıkla tercih edilmektedir.
 
 ## Flora ve Fauna
 

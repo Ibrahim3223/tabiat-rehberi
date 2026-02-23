@@ -1,7 +1,7 @@
 ---
 title: "Xanthos Roma Hamamı"
 date: "2026-01-09T23:12:35.281Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738912"
 
 # Xanthos Roma Hamamı
 
-Xanthos Roma Hamamı, Antalya'nın Kaş ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Xanthos Roma Hamamı, Roma döneminden kalan tarihi kalıntıları ile birlikte, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. Bu özel mekan, Akdeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak biliniyor.
+Xanthos Roma Hamamı, Antalya'nın Kaş ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir mekan. Xanthos Roma Hamamı, Roma döneminden kalan tarihi kalıntıları ile birlikte, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. Bu özel mekan, Akdeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak biliniyor.
 
 ## Tarihçe
 

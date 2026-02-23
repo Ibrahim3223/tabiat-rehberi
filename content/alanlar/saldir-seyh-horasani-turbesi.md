@@ -1,7 +1,7 @@
 ---
 title: "Saldır Şeyh Horasani Türbesi"
 date: "2026-01-10T07:17:23.431Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390925"
 
 # Saldır Şeyh Horasani Türbesi
 
-Saldır Şeyh Horasani Türbesi, Muğla'nın Bodrum ilçesinde yer alan ve tarihi önem taşıyan bir mekan. Bu türbe, 140 hektarlık bir alan üzerine kurulu ve yaklaşık 200 futbol sahası büyüklüğünde. Saldır Şeyh Horasani Türbesi, aynı zamanda doğal güzelliği ile dikkat çekiyor. Çevresinde çeşitli bitki türleri ve zengin fauna bulunan bu mekan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Türbenin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olan Ege Bölgesi'nin kültürel zenginliğini yansıtıyor.
+Saldır Şeyh Horasani Türbesi, Muğla'nın Bodrum ilçesinde yer alan ve tarihi önem taşıyan bir mekan. Saldır Şeyh Horasani Türbesi, aynı zamanda doğal güzelliği ile dikkat çekiyor. Çevresinde çeşitli bitki türleri ve zengin fauna bulunan bu mekan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Türbenin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olan Ege Bölgesi'nin kültürel zenginliğini yansıtıyor.
 
 ## Tarihçe
 

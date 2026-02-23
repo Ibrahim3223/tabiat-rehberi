@@ -22,7 +22,7 @@ wikidata_id: "Q108228892"
 
 # DENİZLİ SAKLIGÖL
 
-Denizli Saklıgöl, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Saklıgöl'ün etrafında yer alan dağlar ve tepeler, bu doğa harikasını bir tablo gibi çerçeveliyor. Gökyüzünden gelen güneş ışıkları, gölü ve çevreyi bir masal diyarı gibi gösteriyor. Bu güzel doğa alanı, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
+Denizli Saklıgöl, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Saklıgöl'ün etrafında yer alan dağlar ve tepeler, bu doğa harikasını bir tablo gibi çerçeveliyor. Gökyüzünden gelen güneş ışıkları, gölü ve çevreyi bir masal diyarı gibi gösteriyor. Bu güzel doğa alanı, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ Denizli Saklıgöl'ü ziyaret etmek, doğa severler ve turistler için bir dream
 
 ## İlginç Bilgiler
 
-- Saklıgöl'ün etrafında, histórik yapılar ve yerleşim yerleri bulunuyor.
+- Saklıgöl'ün etrafında, tarihi yapılar ve yerleşim yerleri bulunuyor.
 - Bu doğa alanı, çeşitli bitki türleri ve hayvanlar ile dolu.
 - Mevsimsel değişimler, bu coğrafyada özel bir güzellik yaratıyor.
 - Saklıgöl, bir milli park olarak koruma altına alınmıştır.

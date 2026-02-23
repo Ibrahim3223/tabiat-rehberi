@@ -1,7 +1,7 @@
 ---
 title: "Ali Paşa Hamamı"
 date: "2026-01-10T04:26:52.251Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q116885688"
 
 # Ali Paşa Hamamı
 
-Ali Paşa Hamamı, Karadeniz Bölgesi'nin Tokat ilinde yer alan bir doğal güzelliktir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir yeşil alan sunar. Bu doğal güzelliğin içinde yer alan plaj, geniş kumsalları ve berrak sularıyla ziyaretçilerini cezbeder. Tokat'ta yer alan bu özel alan, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkündür. Ali Paşa Hamamı, Tokat'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Ali Paşa Hamamı, Karadeniz Bölgesi'nin Tokat ilinde yer alan bir doğal güzelliktir. Bu doğal güzelliğin içinde yer alan plaj, geniş kumsalları ve berrak sularıyla ziyaretçilerini cezbeder. Tokat'ta yer alan bu özel alan, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkündür. Ali Paşa Hamamı, Tokat'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

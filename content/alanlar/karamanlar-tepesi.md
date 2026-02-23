@@ -28,7 +28,7 @@ wikidata_id: "Q31565327"
 
 # Karamanlar Tepesi
 
-Karamanlar Tepesi, Karabük'ün şehrin merkezine yakın bir konumda yer alan ve ziyaretçilerini büyüleyici bir manzarayla karşılayan önemli doğal alanlarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Doğal güzelliği ve şehre yakın konumuyla, Karamanlar Tepesi, hem yerel halk hem de ziyaretçiler için popüler bir gezi noktası haline geliyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennet haline getiriyor.
+Karamanlar Tepesi, Karabük'ün şehrin merkezine yakın bir konumda yer alan ve ziyaretçilerini büyüleyici bir manzarayla karşılayan önemli doğal alanlarından biridir. Doğal güzelliği ve şehre yakın konumuyla, Karamanlar Tepesi, hem yerel halk hem de ziyaretçiler için popüler bir gezi noktası haline geliyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 

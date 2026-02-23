@@ -1,7 +1,7 @@
 ---
 title: "Millet Hamamı"
 date: "2026-01-09T22:30:58.922Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738694"
 
 # Millet Hamamı
 
-Millet Hamamı, Afyonkarahisar'ın merkezinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil bir alandır. Bu alan, şehrin kalabalığından uzaklaşma ve doğayla iç içe olmak isteyenler için ideal bir destinasyondur. Millet Hamamı, çevresindeki dağlarla birlikte doğal bir güzelliğe sahiptir ve ziyaretçilerini bekliyor. Burada, doğanın güzelliğini keşfetme ve stresinizi atmak için mükemmel bir fırsat sunuyor.
+ Bu alan, şehrin kalabalığından uzaklaşma ve doğayla iç içe olmak isteyenler için ideal bir destinasyondur. Millet Hamamı, çevresindeki dağlarla birlikte doğal bir güzelliğe sahiptir ve ziyaretçilerini bekliyor. Burada, doğanın güzelliğini keşfetme ve stresinizi atmak için mükemmel bir fırsat sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Millet Hamamı, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmı
 
 ## Coğrafya
 
-Millet Hamamı, Afyonkarahisar'ın coğrafi yapısı içerisinde önemli bir yere sahiptir. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Burada, yeşilin farklı tonlarını görme mümkün. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Millet Hamamı, çevresindeki dağlarla birlikte doğal bir güzelliğe sahiptir ve ziyaretçilerini bekliyor. Bu bölge, iklim olarak ılıman ve ziyaretçilerin yıl boyunca gelip doğanın güzelliğini keşfetmesine olanak tanır. Millet Hamamı, doğa severler için ideal bir destinasyon.
+Millet Hamamı, Afyonkarahisar'ın coğrafi yapısı içerisinde önemli bir yere sahiptir. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Burada, yeşilin farklı tonlarını görme mümkün. Millet Hamamı, çevresindeki dağlarla birlikte doğal bir güzelliğe sahiptir ve ziyaretçilerini bekliyor. Bu bölge, iklim olarak ılıman ve ziyaretçilerin yıl boyunca gelip doğanın güzelliğini keşfetmesine olanak tanır. Millet Hamamı, doğa severler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

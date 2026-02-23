@@ -30,7 +30,7 @@ wikidata_id: "Q6021890"
 
 # Döner Kümbet
 
-Döner Kümbet, İç Anadolu Bölgesi'nin kalbinde yer alan Kayseri'nin Melikgazi ilçesinde bulunan tarihi bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alanı kapsar. Bu büyüklük, ziyaretçilere geniş bir alan sunar ve doğayla iç içe olmalarına olanak tanır. Döner Kümbet, tarihi geçmişi ve doğal güzelliği ile dikkat çekici bir destinasyondur. Ziyaretçiler, hem tarihi hem de doğal güzelliklerini keşfedebilirler. Döner Kümbet, aynı zamanda bir kültürel mirastır ve ziyaretçiler, bu mirası keşfetmek için buraya gelirler.
+Döner Kümbet, İç Anadolu Bölgesi'nin kalbinde yer alan Kayseri'nin Melikgazi ilçesinde bulunan tarihi bir plajdır. Bu büyüklük, ziyaretçilere geniş bir alan sunar ve doğayla iç içe olmalarına olanak tanır. Döner Kümbet, tarihi geçmişi ve doğal güzelliği ile dikkat çekici bir destinasyondur. Ziyaretçiler, hem tarihi hem de doğal güzelliklerini keşfedebilirler. Döner Kümbet, aynı zamanda bir kültürel mirastır ve ziyaretçiler, bu mirası keşfetmek için buraya gelirler.
 
 ## Tarihçe
 

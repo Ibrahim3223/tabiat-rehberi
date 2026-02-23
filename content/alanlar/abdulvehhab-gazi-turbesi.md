@@ -1,7 +1,7 @@
 ---
 title: "Abdülvehhab Gazi Türbesi"
 date: "2026-01-10T05:23:17.990Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391676"
 
 # Abdülvehhab Gazi Türbesi
 
-Abdülvehhab Gazi Türbesi, Ege Bölgesi'nin kalbinde, Afyonkarahisar'ın Bolvadin ilçesinde yer alan bir turizm ve kültür merkezi. Bu mekan, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan üzerinde kurulmuş. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Türbe, tarihi ve kültürel değerlerinin yanı sıra, doğal güzelliği ile de dikkat çekiyor. Ziyaretçiler, burada hem tarihi ve kültürel zenginlikleri keşfedebilir hem de doğanın güzelliğini tadabilir.
+Abdülvehhab Gazi Türbesi, Ege Bölgesi'nin kalbinde, Afyonkarahisar'ın Bolvadin ilçesinde yer alan bir turizm ve kültür merkezi. Bu mekan, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan üzerinde kurulmuş. Türbe, tarihi ve kültürel değerlerinin yanı sıra, doğal güzelliği ile de dikkat çekiyor. Ziyaretçiler, burada hem tarihi ve kültürel zenginlikleri keşfedebilir hem de doğanın güzelliğini tadabilir.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728178"
 
 # Şehinşah Kaya Mezarı
 
-Şehinşah Kaya Mezarı, Kastamonu'nun merkezinde, tarihi ve doğal güzelliğin birleştiği bir mekan olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yer alıyor. Şehinşah Kaya Mezarı, Kastamonu'nun önemli tarihi mekanlarından biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından keşfediliyor. Kaya mezarının etrafındaki yeşil alanlar, ziyaretçilere dinlenme ve şehrin manzarasını izlemek için ideal bir ortam sunuyor.
+Şehinşah Kaya Mezarı, Kastamonu'nun merkezinde, tarihi ve doğal güzelliğin birleştiği bir mekan olarak dikkat çekiyor. Şehinşah Kaya Mezarı, Kastamonu'nun önemli tarihi mekanlarından biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından keşfediliyor. Kaya mezarının etrafındaki yeşil alanlar, ziyaretçilere dinlenme ve şehrin manzarasını izlemek için ideal bir ortam sunuyor.
 
 ## Tarihçe
 

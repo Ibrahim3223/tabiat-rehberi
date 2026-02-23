@@ -23,7 +23,7 @@ wikidata_id: "Q108228667"
 
 # REŞADİYE
 
-Reşadiye, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Reşadiye'nin doğal güzellikleri, ziyaretçilerini bu bölgeye çekmektedir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz.
+Reşadiye, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. Reşadiye'nin doğal güzellikleri, ziyaretçilerini bu bölgeye çekmektedir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz.
 
 ## Tarihçe
 

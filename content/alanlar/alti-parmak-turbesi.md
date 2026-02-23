@@ -1,7 +1,7 @@
 ---
 title: "Altı Parmak Türbesi"
 date: "2026-01-10T06:19:41.783Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390739"
 
 # Altı Parmak Türbesi
 
-Altı Parmak Türbesi, Bursa'nın Osmangazi ilçesinde yer alan ve Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir tarihi plaj alanıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahiptir. Altı Parmak Türbesi, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmektedir. Plajın ismi, rivayetlere göre, tarihte yaşamış bir veli kişinin parmaklarının altı parmaklı olmasıyla ilgilidir. Bu türbe ve plaj alanının birleşimi, ziyaretçilere hem dinî bir expérience hem de doğal bir güzellik sunmaktadır. Ziyaretçiler, denize girerek serinleyebilir, kumda güneşlenebilir veya plajın etrafındaki tarihi yapıları gezebilirler.
+Altı Parmak Türbesi, Bursa'nın Osmangazi ilçesinde yer alan ve Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir tarihi plaj alanıdır. Altı Parmak Türbesi, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmektedir. Plajın ismi, rivayetlere göre, tarihte yaşamış bir veli kişinin parmaklarının altı parmaklı olmasıyla ilgilidir. Bu türbe ve plaj alanının birleşimi, ziyaretçilere hem dinî bir deneyim hem de doğal bir güzellik sunmaktadır. Ziyaretçiler, denize girerek serinleyebilir, kumda güneşlenebilir veya plajın etrafındaki tarihi yapıları gezebilirler.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387486"
 
 # Gelik Tepesi
 
-Gelik Tepesi, Van ilinin sınırları içerisinde yer alan bir doğa harikası. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Gelik Tepesi, Van'ın merkezine uzun bir mesafe uzaklıkta bulunuyor. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğa severler ve macera arayışında olanlar için ideal bir destinasyon.
+Gelik Tepesi, Van ilinin sınırları içerisinde yer alan bir doğa harikası. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Gelik Tepesi, Van'ın merkezine uzun bir mesafe uzaklıkta bulunuyor. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Doğa severler ve macera arayışında olanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

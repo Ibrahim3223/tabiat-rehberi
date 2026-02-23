@@ -23,7 +23,7 @@ wikidata_id: "Q130367069"
 
 # Durmuşlu Şelalesi
 
-Gümüşhane'nin merkezi ve Karadeniz Bölgesi'nin en güzel noktalarından biri olan Durmuşlu Şelalesi, ziyaretçilerini doğal güzelliği ile büyülemektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak için ideal bir kaçış noktasıdır. Şelalenin çevresinde çeşitli bitki türleri ve zengin fauna found, bu alanda yaban hayatı gözlemleme mümkün. Durmuşlu Şelalesi, Gümüşhane'nin turizm potansiyelinin önemli bir parçasıdır ve her yıl birçok ziyaretçi tarafından keşfedilmektedir.
+Gümüşhane'nin merkezi ve Karadeniz Bölgesi'nin en güzel noktalarından biri olan Durmuşlu Şelalesi, ziyaretçilerini doğal güzelliği ile büyülemektedir. Şelalenin çevresinde çeşitli bitki türleri ve zengin fauna found, bu alanda yaban hayatı gözlemleme mümkün. Durmuşlu Şelalesi, Gümüşhane'nin turizm potansiyelinin önemli bir parçasıdır ve her yıl birçok ziyaretçi tarafından keşfedilmektedir.
 
 ## Tarihçe
 

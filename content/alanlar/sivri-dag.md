@@ -64,5 +64,5 @@ Bitki örtüsü, genellikle kuraklığa dayanıklı türlerden oluşur. Dağın 
 - Dağın yüksekliği hakkında kesin bir bilgi bulunmamaktadır.
 - Sivri Dağ, bölgenin coğrafi yapısını şekillendiren önemli bir oluşumdur.
 - Dağın etrafında çeşitli tarihi kalıntılar ve yerleşim yerleri bulunmaktadır.
-- Sivri Dağ, bölgenin ekolojik dengesini korumak açısından önemlidir.
+
 - Dağın ziyaretçileri için belirli bir ziyaretçi sayısı veya tarihçesi hakkında net bir veri bulunmamaktadır.

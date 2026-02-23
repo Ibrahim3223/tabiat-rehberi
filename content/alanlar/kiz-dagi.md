@@ -45,7 +45,7 @@ Jeolojik açıdan bakıldığında, Kız Dağı'nın fiziksel yapısı hakkında
 
 Mevsimsel olarak, Kız Dağı'nın iklim karakteri, Doğu Anadolu Bölgesi'nin genel iklim koşullarını yansıtmaktadır. Kış aylarında karla kaplı olan dağ, yaz aylarında ise yeşilin her tonuna bürünmektedir. Bölgenin iklimi, Monaco'nun yarısı kadar büyüklüğündeki bir alana spread edilen bir coğrafi dağılım göstermektedir. Bu mevsimsel değişimler, dağların çevresindeki ekosistemi önemli ölçüde etkilemektedir.
 
-Çevresel açıdan, Kız Dağı, bölgenin su kaynaklarına ve ekosistem bağlantılarına önemli katkılar sağlamaktadır. Etrafındaki nehirler ve akarsular, dağdan kaynaklanan su kaynaklarını oluşturmaktadır. Bu su kaynakları, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı sulamaktadır. Bu nedenle, Kız Dağı, bölgenin ekolojik dengesini korumak açısından önemli bir rol oynamaktadır.
+Çevresel açıdan, Kız Dağı, bölgenin su kaynaklarına ve ekosistem bağlantılarına önemli katkılar sağlamaktadır. Etrafındaki nehirler ve akarsular, dağdan kaynaklanan su kaynaklarını oluşturmaktadır. Bu su kaynakları, İstanbul'un Adalar ilçesi büyüklüğünde bir alanı sulamaktadır.
 
 ## Flora ve Fauna
 

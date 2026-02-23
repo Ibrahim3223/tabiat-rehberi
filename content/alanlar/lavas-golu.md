@@ -49,11 +49,11 @@ Mevsimsel özellikler açısından, Lavaş Gölü'nün bulunduğu bölge, karasa
 
 ## Flora ve Fauna
 
-Lavaş Gölü, Kars'ın yüksek dağ ekolojisinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Lavaş Gölü, Kars'ın yüksek dağ ekolojisinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte göl çevresindeki alpin çayırlar, renkli çiçeklerle donanır. Göllerin ve sulak alanların hakim olduğu bu bölgede, su kuşları ve balıkların yaşam alanı olan sulak alan bitkileri de bulunur.
 
-Yaban Hayatı bölümünde, gölün etrafında çeşitli memeliler ve sürüngenlerle karşılaşma mümkün. Su kuşları ise göç mevsiminde burayı ziyaret eder. 
+Yaban Hayatı bölümünde, gölün etrafında çeşitli memeliler ve sürüngenlerle karşılaşma mümkün. Su kuşları ise göç mevsiminde burayı ziyaret eder.
 
 Ekolojik Değer açısından, Lavaş Gölü yüksek dağ ekolojisindeki endemik türlerin yaşam alanını korur. Bu nedenle, bölgenin ekolojik dengesinin korunmasına dikkat etmek önemlidir.
 

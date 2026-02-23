@@ -1,7 +1,7 @@
 ---
 title: "Aksaray Kılıç Arslan Kümbeti"
 date: "2026-01-10T05:50:13.280Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582383"
 
 # Aksaray Kılıç Arslan Kümbeti
 
-Aksaray Kılıç Arslan Kümbeti, İç Anadolu Bölgesi'nin önemli kültür miraslarından biri olarak karşımıza çıkıyor. Bu tarihi yapı, Aksaray ilinin merkezinde yer alıyor ve ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. 12. yüzyılda inşa edilen bu kümbet, Selçuklu Dönemi'nin mimari özelliklerini taşıyor ve yaklaşık 140 hektarlık bir alan üzerinde bulunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarihi atmosfer sunuyor.
+Aksaray Kılıç Arslan Kümbeti, İç Anadolu Bölgesi'nin önemli kültür miraslarından biri olarak karşımıza çıkıyor. Bu tarihi yapı, Aksaray ilinin merkezinde yer alıyor ve ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. 12. yüzyılda inşa edilen bu kümbet, Selçuklu Dönemi'nin mimari özelliklerini taşıyor ve yaklaşık 140 hektarlık bir alan üzerinde bulunuyor.
 
 ## Tarihçe
 

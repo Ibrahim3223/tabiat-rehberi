@@ -28,7 +28,7 @@ wikidata_id: "Q34916075"
 
 # Gerebahçe Tepesi
 
-Gerebahçe Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt şehrinde yer alan ve yaklaşık 1400 metre yüksekliği ile bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, çevresindeki diğer tepe ve dağlar ile birlikte bir bütün oluşturur. Gerebahçe Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu özelliği ile bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesinde önemli bir rol oynar.
+Gerebahçe Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt şehrinde yer alan ve yaklaşık 1400 metre yüksekliği ile bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, çevresindeki diğer tepe ve dağlar ile birlikte bir bütün oluşturur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojik dengesinde önemli bir rol oynar.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108226085"
 
 # Yazlıkaya Sit alanı
 
-Yazlıkaya Sit Alanı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu doğal güzellik, bölgenin ekolojik dengesini korumaya yardımcı olan önemli bir alandır. Geçmişten günümüze, bu bölge insanları ve doğayı bir araya getirmiş, birbirleriyle uyum içinde yaşadıkları bir mekan olmuştur.
+Yazlıkaya Sit Alanı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. Bu doğal güzellik, bölgenin ekolojik dengesini korumaya yardımcı olan önemli bir alandır. Geçmişten günümüze, bu bölge insanları ve doğayı bir araya getirmiş, birbirleriyle uyum içinde yaşadıkları bir mekan olmuştur.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Yazlıkaya Sit Alanı, ziyaretçilerine çeşitli olanaklar sunar. Bu doğal gü
 ## İlginç Bilgiler
 
 - Yazlıkaya Sit Alanı, bölgenin ekolojik dengesini korumada önemli bir rol oynar.
-- Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Yazlıkaya Sit Alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır.
 - Bu alan, tarihi önemi ile de dikkat çekmektedir.
 - Ziyaretçiler, bu alanı gezerken, doğal güzelliği ve tarihi önemi hakkında bilgi edinebilirler.

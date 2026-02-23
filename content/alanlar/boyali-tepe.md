@@ -28,7 +28,7 @@ wikidata_id: "Q31390941"
 
 # Boyalı Tepe
 
-Boyalı Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Boyalı Tepe, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle karşılamaktadır. Bu tepe, özellikle doğal güzelliği sevenler ve tarih meraklıları için önemli bir destinasyon olarak görünmektedir. Boyalı Tepe, ziyaretçilerine geniş bir manzara sunmakta ve aynı zamanda tarihi kalıntılarını keşfetme fırsatı sunmaktadır.
+Boyalı Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Boyalı Tepe, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle karşılamaktadır. Bu tepe, özellikle doğal güzelliği sevenler ve tarih meraklıları için önemli bir destinasyon olarak görünmektedir. Boyalı Tepe, ziyaretçilerine geniş bir manzara sunmakta ve aynı zamanda tarihi kalıntılarını keşfetme fırsatı sunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Boyalı Tepe'nin tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin h�
 
 ## Coğrafya
 
-Boyalı Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Boyalı Tepe, doğal güzelliği ile ziyaretçilerini karşılamaktadır. Bu tepe, özellikle doğal güzelliği sevenler için önemli bir destinasyon olarak görünmektedir. Boyalı Tepe, ziyaretçilerine geniş bir manzara sunmakta ve aynı zamanda tarihi kalıntılarını keşfetme fırsatı sunmaktadır. Bu tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge olarak bilinmektedir. Boyalı Tepe, ziyaretçilerini doğal güzelliği ve coğrafi özellikleri ile karşılamaktadır.
+Boyalı Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Boyalı Tepe, doğal güzelliği ile ziyaretçilerini karşılamaktadır. Bu tepe, özellikle doğal güzelliği sevenler için önemli bir destinasyon olarak görünmektedir. Boyalı Tepe, ziyaretçilerine geniş bir manzara sunmakta ve aynı zamanda tarihi kalıntılarını keşfetme fırsatı sunmaktadır. Bu tepe, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir bölge olarak bilinmektedir. Boyalı Tepe, ziyaretçilerini doğal güzelliği ve coğrafi özellikleri ile karşılamaktadır.
 
 ## Flora ve Fauna
 

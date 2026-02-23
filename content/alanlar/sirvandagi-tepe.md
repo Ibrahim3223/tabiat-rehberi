@@ -48,7 +48,7 @@ Jeolojik açıdan incelendiğinde, Şirvandağı Tepe'nin fiziksel yapısı hakk
 
 ## Flora ve Fauna
 
-Şirvandağı Tepe, Kayseri'nin step bitki örtüsüne ev sahipliği yapan dağlık bölgesinde yer alır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Şirvandağı Tepe, Kayseri'nin step bitki örtüsüne ev sahipliği yapan dağlık bölgesinde yer alır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelişiyle birlikte, dağ yamaçlarında renkli çiçekler açar. Step bitkileri ve bozkır türleri, kuraklığa adapte olan bitkilerle birlikte, bu dağ ekosisteminin karakteristik özelliklerindendir. Yükseklik zonları, alpin flora çeşitliliğini destekler.
 

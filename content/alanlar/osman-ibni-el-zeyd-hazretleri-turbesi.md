@@ -1,7 +1,7 @@
 ---
 title: "Osman İbni El Zeyd Hazretleri Türbesi"
 date: "2026-01-10T05:58:12.645Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sakarya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390508"
 
 # Osman İbni El Zeyd Hazretleri Türbesi
 
-Osman İbni El Zeyd Hazretleri Türbesi, Sakarya'nın Adapazarı ilçesinde yer alan bir dini mekan. Bu türbe, Marmara Bölgesi'nin önemli kültürel ve tarihi noktalarından biri olarak kabul edilir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Türbenin mimarisi, klasik Osmanlı dönemi özellikleri taşır ve tarihi bir atmosferi yansıtır. Ziyaretçiler, türbenin çevresinde yer alan yeşil alanlarda dinlenebilir ve manzarayı seyredebilir.
+Osman İbni El Zeyd Hazretleri Türbesi, Sakarya'nın Adapazarı ilçesinde yer alan bir dini mekan. Bu türbe, Marmara Bölgesi'nin önemli kültürel ve tarihi noktalarından biri olarak kabul edilir. Türbenin mimarisi, klasik Osmanlı dönemi özellikleri taşır ve tarihi bir atmosferi yansıtır. Ziyaretçiler, türbenin çevresinde yer alan yeşil alanlarda dinlenebilir ve manzarayı seyredebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Osman İbni El Zeyd Hazretleri Türbesi'nin tarihi geçmişi, Osmanlı İmparato
 
 ## Coğrafya
 
-Osman İbni El Zeyd Hazretleri Türbesi, Sakarya'nın Adapazarı ilçesinde, Marmara Bölgesi'nin merkezi bir noktasında yer alır. Türbenin bulunduğu bölge, yeşillik alanlarla çevrili ve ziyaretçilere ferah bir ortam sunar. Yaklaşık 200 futbol sahası büyüklüğündeki 140 hektarlık alan, ziyaretçilere geniş bir açık alan sağlar. Türbenin çevresinde, tarihi yapılar ve yeşil alanlar bulunur ve bu, ziyaretçilere zengin bir görsel deneyim sunar. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçiler, dört mevsim boyunca türbeyi ziyaret edebilir. Türbenin yakınında, Sakarya Nehri bulunur ve ziyaretçiler, nehri izleyerek dinlenebilir.
+Osman İbni El Zeyd Hazretleri Türbesi, Sakarya'nın Adapazarı ilçesinde, Marmara Bölgesi'nin merkezi bir noktasında yer alır. Türbenin bulunduğu bölge, yeşillik alanlarla çevrili ve ziyaretçilere ferah bir ortam sunar. Türbenin çevresinde, tarihi yapılar ve yeşil alanlar bulunur ve bu, ziyaretçilere zengin bir görsel deneyim sunar. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçiler, dört mevsim boyunca türbeyi ziyaret edebilir. Türbenin yakınında, Sakarya Nehri bulunur ve ziyaretçiler, nehri izleyerek dinlenebilir.
 
 ## Flora ve Fauna
 

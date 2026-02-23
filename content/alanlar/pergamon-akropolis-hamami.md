@@ -1,7 +1,7 @@
 ---
 title: "Pergamon Akropolis Hamamı"
 date: "2026-01-09T23:25:23.824Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739078"
 
 # Pergamon Akropolis Hamamı
 
-Pergamon Akropolis Hamamı, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bergama'nın merkezinde yer alan bu tarihi alan, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Pergamon Akropolis Hamamı, ziyaretçilerini geçmişin derinliklerine götürerek, tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Bu alanda, tarihi yapılar, doğal güzellikler ve eşsiz manzaralar bir araya geliyor. Pergamon Akropolis Hamamı, ziyaretçilerine hem dinlenme hem de kültür gezisi imkanı sunuyor.
+Pergamon Akropolis Hamamı, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bergama'nın merkezinde yer alan bu tarihi alan, yaklaşık 140 hektarlık bir alanı kapsıyor. Pergamon Akropolis Hamamı, ziyaretçilerini geçmişin derinliklerine götürerek, tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Bu alanda, tarihi yapılar, doğal güzellikler ve eşsiz manzaralar bir araya geliyor. Pergamon Akropolis Hamamı, ziyaretçilerine hem dinlenme hem de kültür gezisi imkanı sunuyor.
 
 ## Tarihçe
 
@@ -52,5 +52,5 @@ Pergamon Akropolis Hamamı, yılın her döneminde ziyaret edilebilecek bir alan
 - Pergamon Akropolis Hamamı, UNESCO Dünya Mirası Listesi'nde yer alıyor.
 - Bu alan, Pergamon Krallığı'nın önemli merkezlerinden biri olarak bilinir.
 - Pergamon Akropolis Hamamı, Bergama'nın merkezinde yer alıyor.
-- Bu alan, yaklaşık 140 hektarlık bir alanı kapsıyor.
+
 - Pergamon Akropolis Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.

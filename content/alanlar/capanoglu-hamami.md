@@ -1,7 +1,7 @@
 ---
 title: "Çapanoğlu Hamamı"
 date: "2026-01-09T22:19:25.438Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738491"
 
 # Çapanoğlu Hamamı
 
-Çapanoğlu Hamamı, Yozgat ilinin Ankara Vilayeti sınırları içerisinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın renkli tonlarıyla karşılar. Çapanoğlu Hamamı, hem tatil hem de doğa severler için önemli bir çekim merkezi olarak bilinir. Bu alan, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar.
+Çapanoğlu Hamamı, Yozgat ilinin Ankara Vilayeti sınırları içerisinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Çapanoğlu Hamamı, hem tatil hem de doğa severler için önemli bir çekim merkezi olarak bilinir. Bu alan, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar.
 
 ## Tarihçe
 

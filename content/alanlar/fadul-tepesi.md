@@ -28,7 +28,7 @@ wikidata_id: "Q31388774"
 
 # Fadul Tepesi
 
-Fadul Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerine doğanın güzelliklerini sunmaktadır. Fadul Tepesi, Muğla'nın merkezine yakın bir konumda yer almakta ve kolayca ulaşılabilen bir noktadır. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Fadul Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Fadul Tepesi, Muğla'nın merkezine yakın bir konumda yer almakta ve kolayca ulaşılabilen bir noktadır. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Fadul Tepesi'nin tarihi geçmişi hakkında detaylı bilgiler bulunmamaktadır. 
 
 ## Coğrafya
 
-Fadul Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak önemli bir konuma sahiptir. Bu tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Fadul Tepesi'nin etrafında, Muğla'nın diğer turizm merkezlerine kolayca ulaşılabilen bir konumda yer almaktadır. Bu tepenin coğrafi yapısı, ziyaretçilere trekking ve doğa yürüyüşü gibi aktiviteler için uygun bir ortam sunmaktadır. Fadul Tepesi, Muğla'nın iklimi ve coğrafi yapısı nedeniyle, yıl boyunca ziyaret edilebilen bir noktadır.
+Fadul Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe olarak, coğrafi olarak önemli bir konuma sahiptir. Fadul Tepesi'nin etrafında, Muğla'nın diğer turizm merkezlerine kolayca ulaşılabilen bir konumda yer almaktadır. Bu tepenin coğrafi yapısı, ziyaretçilere trekking ve doğa yürüyüşü gibi aktiviteler için uygun bir ortam sunmaktadır. Fadul Tepesi, Muğla'nın iklimi ve coğrafi yapısı nedeniyle, yıl boyunca ziyaret edilebilen bir noktadır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Fadul Tepesi, Muğla merkezine yakın bir konumda yer almakta ve kolayca ulaşı
 
 ## İlginç Bilgiler
 
-- Fadul Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu tepe, Muğla'nın merkezine yakın bir konumda yer almakta.
 - Fadul Tepesi, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Bu tepe, mevsimsel değişimlere göre, farklı türde çiçekler ve bitkiler ile süslenmektedir.

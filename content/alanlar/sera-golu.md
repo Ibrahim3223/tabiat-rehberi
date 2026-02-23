@@ -30,7 +30,7 @@ wikidata_id: "Q6078473"
 
 # Sera Gölü
 
-Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir hazine olan Sera Gölü, Akçaabat/Muş sınırında yer alıyor. Bu région, aynı zamanda tarihi ve kültürel zenginlikleriyle dikkat çekiyor. Sera Gölü'nün etrafındaki manzara, ziyaretçilerine doğanın serüvenini anlatan bir hikaye sunuyor. Akçaabat ve Muş'un sınırında bulunan bu göl, bölgenin önemli doğal güzelliklerinden biri olarak öne çıkıyor.
+Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir hazine olan Sera Gölü, Akçaabat/Muş sınırında yer alıyor. Bu bölge, aynı zamanda tarihi ve kültürel zenginlikleriyle dikkat çekiyor. Sera Gölü'nün etrafındaki manzara, ziyaretçilerine doğanın serüvenini anlatan bir hikaye sunuyor. Akçaabat ve Muş'un sınırında bulunan bu göl, bölgenin önemli doğal güzelliklerinden biri olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Sera Gölü, çevresindeki ekosistemin önemli bir parçası olarak dikkat çeki
 
 ## Flora ve Fauna
 
-Sera Gölü, Muş'un step bitki örtüsü ve bozkırın hakim olduğu bölgesinde, kuraklığa adapte türlerle dolu bir göldür. İlkbaharda, göl çevresi rengarenk çiçeklerle dolu olurken, sonbaharda göç eden su kuşları gölün üzerinde uçarlar. 
+Sera Gölü, Muş'un step bitki örtüsü ve bozkırın hakim olduğu bölgesinde, kuraklığa adapte türlerle dolu bir göldür. İlkbaharda, göl çevresi rengarenk çiçeklerle dolu olurken, sonbaharda göç eden su kuşları gölün üzerinde uçarlar.
 
 Bitki Örtüsü olarak, gölün etrafında step bitkileri ve sulak alan bitkileri hakimdir. Mevsimsel değişimlerle birlikte, ilkbaharda çiçekler açarken, yaz aylarında gölün suyu çekilmesiyle birlikte, sulak alan bitkileri daha da belirginleşir.
 

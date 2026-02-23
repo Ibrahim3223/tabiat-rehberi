@@ -1,7 +1,7 @@
 ---
 title: "Arykanda Yukarı Hamam"
 date: "2026-01-09T23:25:55.268Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739043"
 
 # Arykanda Yukarı Hamam
 
-Arykanda Yukarı Hamam, Finike ilçesinde, Antalya'nın Akdeniz kıyı şeridinde yer alan bir plajdır. Bu bölge, doğanın güzelliği ile tarihi değerlerin bir araya geldiği bir noktada bulunur. 140 hektarlık bir alana yayılan bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Arykanda Yukarı Hamam, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekleyen bir destinasyondur.
+Arykanda Yukarı Hamam, Finike ilçesinde, Antalya'nın Akdeniz kıyı şeridinde yer alan bir plajdır. Bu bölge, doğanın güzelliği ile tarihi değerlerin bir araya geldiği bir noktada bulunur. Arykanda Yukarı Hamam, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekleyen bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Arykanda Yukarı Hamam'ın tarihi geçmişi, bu bölgenin zengin bir geçmişe s
 
 ## Coğrafya
 
-Arykanda Yukarı Hamam, Finike ilçesinin sahil şeridinde, Akdeniz'in mavisi altında yer alır. Bu bölge, deniz ve dağların birleştiği bir noktada bulunur ve bu nedenle coğrafi olarak oldukça önemli bir konuma sahiptir. Arykanda Yukarı Hamam'ın coğrafyası, ziyaretçilere hem deniz hem de dağ manzarasını sunar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Arykanda Yukarı Hamam, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, coğrafi güzelliği ve tarihi değerleriyle dikkat çeker.
+Arykanda Yukarı Hamam, Finike ilçesinin sahil şeridinde, Akdeniz'in mavisi altında yer alır. Bu bölge, deniz ve dağların birleştiği bir noktada bulunur ve bu nedenle coğrafi olarak oldukça önemli bir konuma sahiptir. Arykanda Yukarı Hamam'ın coğrafyası, ziyaretçilere hem deniz hem de dağ manzarasını sunar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, coğrafi güzelliği ve tarihi değerleriyle dikkat çeker.
 
 ## Flora ve Fauna
 

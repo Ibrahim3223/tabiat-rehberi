@@ -28,7 +28,7 @@ wikidata_id: "Q31390052"
 
 # Karto Tepesi
 
-Karto Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin merkezine yakınlığıyla dikkat çeken bir doğal güzelliğimiz. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunuyor. Karto Tepesi, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası. Burada, şehrin gürültüsünden uzaklaşarak doğayla baş başa kalabilir ve güzel manzaraları keşfedebilirsiniz. Karto Tepesi, özellikle gün batımı saatlerinde ziyaret edilebilecek bir nokta.
+Karto Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve şehrin merkezine yakınlığıyla dikkat çeken bir doğal güzelliğimiz. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunuyor. Karto Tepesi, Ankara'nın şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası. Burada, şehrin gürültüsünden uzaklaşarak doğayla baş başa kalabilir ve güzel manzaraları keşfedebilirsiniz. Karto Tepesi, özellikle gün batımı saatlerinde ziyaret edilebilecek bir nokta.
 
 ## Tarihçe
 

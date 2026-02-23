@@ -22,7 +22,7 @@ wikidata_id: "Q108228274"
 
 # Kastamonu-Duragan-Adadagi-Kızılcam3
 
-Kastamonu ilinin kuzeyinde, Karadeniz Bölgesi'nin yeşil örtüsü ile çevrili bir alan olarak dikkat çeken Kastamonu-Duragan-Adadagi-Kızılcam3 milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu milli park, ziyaretçilerini doğanın kucağına davet ediyor ve onlara benzersiz bir experiencia sunuyor. Kastamonu ilinin tarihi ve kültürel zenginliklerini de içerisinde barındıran bu milli park, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor.
+ Bu milli park, ziyaretçilerini doğanın kucağına davet ediyor ve onlara benzersiz bir experiencia sunuyor. Kastamonu ilinin tarihi ve kültürel zenginliklerini de içerisinde barındıran bu milli park, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kastamonu-Duragan-Adadagi-Kızılcam3 milli parkının tarihi geçmişi, yüzyı
 
 ## Coğrafya
 
-Kastamonu-Duragan-Adadagi-Kızılcam3 milli parkı, Kastamonu ilinin kuzeyinde, Karadeniz Bölgesi'nin yeşil örtüsü ile çevrili bir alanda bulunmaktadır. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler ile şekillenmiştir. Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu bölgenin iklimi, Karadeniz ikliminin característicasını taşıyor ve ziyaretçilere dört mevsim farklı güzellikler sunuyor. Kışın karla kaplı dağları, ilkbaharda yeşeren ormanları, yazın serin nehirleri ve sonbaharda renklenen yaprakları ile bu milli park, her mevsim ziyaretçilerini ağırlamaya hazır.
+Kastamonu-Duragan-Adadagi-Kızılcam3 milli parkı, Kastamonu ilinin kuzeyinde, Karadeniz Bölgesi'nin yeşil örtüsü ile çevrili bir alanda bulunmaktadır. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler ile şekillenmiştir. Bu bölgenin iklimi, Karadeniz ikliminin característicasını taşıyor ve ziyaretçilere dört mevsim farklı güzellikler sunuyor. Kışın karla kaplı dağları, ilkbaharda yeşeren ormanları, yazın serin nehirleri ve sonbaharda renklenen yaprakları ile bu milli park, her mevsim ziyaretçilerini ağırlamaya hazır.
 
 ## Flora ve Fauna
 

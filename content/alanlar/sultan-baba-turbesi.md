@@ -1,7 +1,7 @@
 ---
 title: "Sultan Baba Türbesi"
 date: "2026-01-10T05:11:21.902Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391638"
 
 # Sultan Baba Türbesi
 
-Sultan Baba Türbesi, Kocaeli'nin Gölcük ilçesinde yer alan tarihi bir ziyaret noktası. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve Marmara Bölgesi'nin önemli coğrafi oluşumlarından biri. Sultan Baba Türbesi, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, bu tarihi mekanda hem doğayı keşfedebiliyor hem de tarihin izlerini sürebiliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sağlıyor.
+Sultan Baba Türbesi, Kocaeli'nin Gölcük ilçesinde yer alan tarihi bir ziyaret noktası. Sultan Baba Türbesi, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, bu tarihi mekanda hem doğayı keşfedebiliyor hem de tarihin izlerini sürebiliyor.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Sultan Baba Türbesi'ni ziyaret etmek için, ziyaretçiler Kocaeli'nin Gölcük 
 ## İlginç Bilgiler
 
 - Sultan Baba Türbesi, Marmara Bölgesi'nin önemli tarihsel ziyaret noktalarından biri.
-- Bu alan, 140 hektarlık bir büyüklüğe sahip.
+
 - Sultan Baba Türbesi, flora ve fauna açısından zengin.
 - Ziyaretçiler, bu tarihi mekanda hem doğayı keşfedebiliyor hem de tarihin güzelliğini yaşayabiliyor.
 - Sultan Baba Türbesi, önemli bir kültürel miras olarak görülüyor.

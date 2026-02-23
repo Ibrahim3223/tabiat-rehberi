@@ -50,7 +50,7 @@ Bölgenin su kaynaklarına önemli katkıları olan Gerdibi Dağı, çevresindek
 
 ## Flora ve Fauna
 
-Gerdibi Dağı, Adana'nın güneyinde yer alan bir dağ ekosistemi olarak, maki bitki örtüsüne ev sahipliği yapıyor. Bu dağ, kuraklığa dayanıklı türlerin hakim olduğu bir bölge olarak bekannt. İlkbaharın gelmesi ile birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. 
+Gerdibi Dağı, Adana'nın güneyinde yer alan bir dağ ekosistemi olarak, maki bitki örtüsüne ev sahipliği yapıyor. Bu dağ, kuraklığa dayanıklı türlerin hakim olduğu bir bölge olarak bekannt. İlkbaharın gelmesi ile birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor.
 
 Dağın yükseklik zonları, alpin flora için uygun bir ortam sunuyor. Bu bölgede, yerli bitkiler ve ağaçlar, dağın eğimli yamaçlarında ve vadilerinde bulunuyor. Mevsimsel değişimlerle birlikte, dağın görünümü değişiyor. Sonbaharın gelmesi ile birlikte, göçmen kuşlar dağa uğruyor.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31581950"
 
 # Yivliğin Tepesi
 
-Yivliğin Tepesi, Çorum'un merkezine uzun bir mesafe uzaklıkta, Karadeniz Bölgesi'nin yeşilliklerle kaplı tepelerinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu güzel tepe, hem doğa severlerin hem de tarihi mekanlara ilgi duyanların keyifle gezebileceği bir destinasyon. Yivliğin Tepesi'nin eteklerinde, yaban hayatının çeşitliliği ve flora zenginliği, ziyaretçilere benzersiz bir doğa deneyimi sunuyor.
+Yivliğin Tepesi, Çorum'un merkezine uzun bir mesafe uzaklıkta, Karadeniz Bölgesi'nin yeşilliklerle kaplı tepelerinde yer alıyor. Bu güzel tepe, hem doğa severlerin hem de tarihi mekanlara ilgi duyanların keyifle gezebileceği bir destinasyon. Yivliğin Tepesi'nin eteklerinde, yaban hayatının çeşitliliği ve flora zenginliği, ziyaretçilere benzersiz bir doğa deneyimi sunuyor.
 
 ## Tarihçe
 

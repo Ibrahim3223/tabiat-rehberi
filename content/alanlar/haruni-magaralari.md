@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Haruni Mağarala
 
 ## Tarihçe
 
-Batman bölgesi, tarihin sâu sayfalarına ışık tutan bir coğrafyada yer alır. İnsanlık tarihinin önemli merkezlerinden biri olan Güneydoğu Anadolu Bölgesi'nde bulunan bu bölge, çeşitli uygarlıkların izlerini taşır. Hititler, Asuriler, Persler ve Roma İmparatorluğu gibi büyük medeniyetler, bu topraklarda hüküm sürmüş ve her biri bölgenin kültürel ve tarihsel dokusuna katkıda bulunmuştur.
+Batman bölgesi, tarihin derin sayfalarına ışık tutan bir coğrafyada yer alır. İnsanlık tarihinin önemli merkezlerinden biri olan Güneydoğu Anadolu Bölgesi'nde bulunan bu bölge, çeşitli uygarlıkların izlerini taşır. Hititler, Asuriler, Persler ve Roma İmparatorluğu gibi büyük medeniyetler, bu topraklarda hüküm sürmüş ve her biri bölgenin kültürel ve tarihsel dokusuna katkıda bulunmuştur.
 
 Doğal güzellikleri ve stratejik konumuyla dikkat çeken Batman, tarih boyunca önemli ticaret yollarının kavşak noktası olmuştur. Bölgenin coğrafi yapısı, insanları doğal alanlarla iç içe yaşamaya zorlamış, yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bölge halkının yaşam tarzı haline gelmiştir. Türkiye'de doğal alanlar, sadece estetik bir değer değil, aynı zamanda ekolojik dengenin korunması ve kültürel mirasın yaşatılması açısından da büyük önem taşırlar. Haruni Mağaraları da, bu doğal ve tarihsel zenginliklerin bir parçasıdır. Bu jeopark, bölgenin jeolojik geçmişini ve doğal güzelliğini gözler önüne serer.
 

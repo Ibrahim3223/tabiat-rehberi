@@ -52,7 +52,7 @@ Mevsimsel olarak, Çıplak Tepe'nin iklimi İstanbul'un genel iklim karakterini 
 
 Çıplak Tepe, İstanbul'un dağlık bölgesinde yer alan 1200 hektarlık bir yeşil cennet. Bu dağ ekosisteminde, mevsimsel değişimlere bağlı olarak flora ve fauna da değişkenlik gösterir. İlkbaharda, tepeye çiçeklerin renkli bir örtüğü gibi sararan ağaçlar ve çalılar, sonbaharda ise göçmen kuşların konakladığı bir durak noktası haline gelir.
 
-Bitki örtüsünü oluşturan karma ormanlar, yükseklik zonlarına göre değişkenlik gösterir. Yaban hayatına baktığımızda, memeliler ve kuşlar, bu dağlık bölgenin önemli bileşenleridir. Sürüngenler de, bu ekosistemin bir parçası olarak yer alırlar. 
+Bitki örtüsünü oluşturan karma ormanlar, yükseklik zonlarına göre değişkenlik gösterir. Yaban hayatına baktığımızda, memeliler ve kuşlar, bu dağlık bölgenin önemli bileşenleridir. Sürüngenler de, bu ekosistemin bir parçası olarak yer alırlar.
 
 Bu dağ ekosisteminin ekolojik değeri, göçmen kuş rotasının üzerinde yer almasından ve karma ormanların çeşitliliğinden gelir. Bu nedenle, koruma altına alınarak gelecek nesiller için korunması önemlidir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Segbanbaşı Ramazan Ağa Türbesi"
 date: "2026-01-10T04:56:55.194Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391477"
 
 # Segbanbaşı Ramazan Ağa Türbesi
 
-Eyüpsultan'da bulunan Segbanbaşı Ramazan Ağa Türbesi, İstanbul'un tarihi zenginliklerini keşfetmek isteyenler için önemli bir durak. 140 hektarlık bir alan içinde yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferde hem de doğayla iç içe bir gezi deneyimi sunuyor. Türbenin bulunduğu Eyüpsultan, İstanbul'un en eski ve en tarihi semtlerinden biri olarak biliniyor. Burada gezerken, tarihi yapılar, camiler ve diğer kültürel noktalarla karşılaşma mümkün.
+Eyüpsultan'da bulunan Segbanbaşı Ramazan Ağa Türbesi, İstanbul'un tarihi zenginliklerini keşfetmek isteyenler için önemli bir durak. Bu geniş alan, ziyaretçilere hem tarihi bir atmosferde hem de doğayla iç içe bir gezi deneyimi sunuyor. Türbenin bulunduğu Eyüpsultan, İstanbul'un en eski ve en tarihi semtlerinden biri olarak biliniyor. Burada gezerken, tarihi yapılar, camiler ve diğer kültürel noktalarla karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Segbanbaşı Ramazan Ağa Türbesi, tarihsel bir figura ait olan önemli bir nok
 
 ## Coğrafya
 
-Segbanbaşı Ramazan Ağa Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, İstanbul Boğazı'na yakın konumuyla dikkat çekiyor ve ziyaretçilere Boğaz'ın güzel manzarasını sunuyor. Türbenin bulunduğu alan, yeşilliklerle kaplı ve geniş bir yeşil alanı içeriyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve ziyaretçilere doğayla iç içe bir gezi deneyimi sunuyor. İstanbul'un coğrafi konumu nedeniyle, bu bölge yıl boyunca ılıman bir iklime sahip ve ziyaretçilere her mevsim gezi imkanı sunuyor. Türbenin etrafında, tarihi camiler, diğer türbeler ve kültürel yapılar yer alıyor ve bunlar da bölgenin zengin tarihini ve kültürel çeşitliliğini yansıtıyor.
+Segbanbaşı Ramazan Ağa Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alır. Bu bölge, İstanbul Boğazı'na yakın konumuyla dikkat çekiyor ve ziyaretçilere Boğaz'ın güzel manzarasını sunuyor. Türbenin bulunduğu alan, yeşilliklerle kaplı ve geniş bir yeşil alanı içeriyor. İstanbul'un coğrafi konumu nedeniyle, bu bölge yıl boyunca ılıman bir iklime sahip ve ziyaretçilere her mevsim gezi imkanı sunuyor. Türbenin etrafında, tarihi camiler, diğer türbeler ve kültürel yapılar yer alıyor ve bunlar da bölgenin zengin tarihini ve kültürel çeşitliliğini yansıtıyor.
 
 ## Flora ve Fauna
 

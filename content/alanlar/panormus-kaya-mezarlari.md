@@ -29,7 +29,7 @@ wikidata_id: "Q134728179"
 
 # Panormus Kaya Mezarları
 
-Bodrum'un tarihi zenginliklerini keşfetmek isteyenler için Panormus Kaya Mezarları, önemli bir destinasyon. Ege Bölgesi'nin kalbinde yer alan bu tarihi hazine, ziyaretçilerini geçmişe götürmeyi vaat ediyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi geçmişi ile dikkat çekiyor. Panormus Kaya Mezarları, Muğla'nın Bodrum ilçesinde yer alıyor ve bölgenin önemli turistik noktalarından biri olarak biliniyor. Bu kaya mezarları, geçmiş uygarlıkların izlerini taşıyor ve ziyaretçilere tarihin sayfalarını aralamaya davet ediyor.
+Bodrum'un tarihi zenginliklerini keşfetmek isteyenler için Panormus Kaya Mezarları, önemli bir destinasyon. Ege Bölgesi'nin kalbinde yer alan bu tarihi hazine, ziyaretçilerini geçmişe götürmeyi vaat ediyor. Panormus Kaya Mezarları, Muğla'nın Bodrum ilçesinde yer alıyor ve bölgenin önemli turistik noktalarından biri olarak biliniyor. Bu kaya mezarları, geçmiş uygarlıkların izlerini taşıyor ve ziyaretçilere tarihin sayfalarını aralamaya davet ediyor.
 
 ## Tarihçe
 

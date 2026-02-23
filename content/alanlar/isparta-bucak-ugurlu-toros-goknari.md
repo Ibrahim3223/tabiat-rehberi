@@ -22,7 +22,7 @@ wikidata_id: "Q108227285"
 
 # Isparta-Bucak-Ugurlu Toros Goknari
 
-Isparta-Bucak-Ugurlu Toros Goknari milli parkı, Akdeniz Bölgesi'nin en güzel köşelerinden birini oluşturuyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleri ile karşılıyor. Bu milli park, Isparta'nın en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Doğal güzelliklerinin yanı sıra, tarihi ve kültürel zenginlikleri ile de ziyaretçilerini cezbediyor. Isparta-Bucak-Ugurlu Toros Goknari milli parkı, doğa severlerin ve macera arayanların mutlaka ziyaret etmesi gereken bir yer.
+Isparta-Bucak-Ugurlu Toros Goknari milli parkı, Akdeniz Bölgesi'nin en güzel köşelerinden birini oluşturuyor. Bu milli park, Isparta'nın en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Doğal güzelliklerinin yanı sıra, tarihi ve kültürel zenginlikleri ile de ziyaretçilerini cezbediyor. Isparta-Bucak-Ugurlu Toros Goknari milli parkı, doğa severlerin ve macera arayanların mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Isparta-Bucak-Ugurlu Toros Goknari milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Isparta-Bucak-Ugurlu Toros Goknari milli parkı, Akdeniz Bölgesi'nin coğrafi yapısını oluşturan dağlar, ormanlar ve nehirler ile çevrili bir bölgede yer alıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleri ile karşılıyor. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli faaliyetler için uygun bir ortam sunuyor. Dağlar, ormanlar ve nehirler, ziyaretçilere doğa yürüyüşleri, kamp ve diğer outdoor faaliyetler için ideal bir ortam sağlıyor. Isparta-Bucak-Ugurlu Toros Goknari milli parkı, coğrafi yapısı ile ziyaretçilerine benzersiz bir deneyim sunuyor.
+Isparta-Bucak-Ugurlu Toros Goknari milli parkı, Akdeniz Bölgesi'nin coğrafi yapısını oluşturan dağlar, ormanlar ve nehirler ile çevrili bir bölgede yer alıyor. Milli parkın coğrafi yapısı, ziyaretçilerine çeşitli faaliyetler için uygun bir ortam sunuyor. Dağlar, ormanlar ve nehirler, ziyaretçilere doğa yürüyüşleri, kamp ve diğer outdoor faaliyetler için ideal bir ortam sağlıyor. Isparta-Bucak-Ugurlu Toros Goknari milli parkı, coğrafi yapısı ile ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

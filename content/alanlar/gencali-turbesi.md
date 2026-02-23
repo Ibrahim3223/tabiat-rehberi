@@ -1,7 +1,7 @@
 ---
 title: "Gençali Türbesi"
 date: "2026-01-10T05:28:56.983Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,15 +29,15 @@ wikidata_id: "Q131391364"
 
 # Gençali Türbesi
 
-İnegöl'ün merkezinden uzun bir mesafe uzaklıkta bulunan Gençali Türbesi, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çekiyor. Bu bölge, 140 hektarlık geniş bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gençali Türbesi, İnegöl'ün tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta olarak karşımıza çıkıyor. Doğal güzellikleri ve tarihi değerleri ile ziyaretçilerini cezbeden bu bölge, İnegöl'ün en önemli turizm noktalarından biri olarak biliniyor.
+İnegöl'ün merkezinden uzun bir mesafe uzaklıkta bulunan Gençali Türbesi, Marmara Bölgesi'nin önemli turizm noktalarından biri olarak dikkat çekiyor. Gençali Türbesi, İnegöl'ün tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta olarak karşımıza çıkıyor. Doğal güzellikleri ve tarihi değerleri ile ziyaretçilerini cezbeden bu bölge, İnegöl'ün en önemli turizm noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 
-Gençali Türbesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölge olarak dikkat çekiyor. Tarihi geçmişi ile önemli bir nokta olan bu bölge, İnegöl'ün kültürel zenginliklerini yansıtan önemli bir turizm noktası olarak biliniyor. Gençali Türbesi'nin tarihi hakkında detaylı bilgiler bulunmasa da, bu bölgenin yüzyıllar boyunca önemli bir yerleşim merkezi olduğu biliniyor. İnegöl'ün tarihi ve kültürel değerlerini yansıtan bu bölge, ziyaretçilerini tarihin sâu sayfalarına götürüyor.
+Gençali Türbesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölge olarak dikkat çekiyor. Tarihi geçmişi ile önemli bir nokta olan bu bölge, İnegöl'ün kültürel zenginliklerini yansıtan önemli bir turizm noktası olarak biliniyor. Gençali Türbesi'nin tarihi hakkında detaylı bilgiler bulunmasa da, bu bölgenin yüzyıllar boyunca önemli bir yerleşim merkezi olduğu biliniyor. İnegöl'ün tarihi ve kültürel değerlerini yansıtan bu bölge, ziyaretçilerini tarihin derin sayfalarına götürüyor.
 
 ## Coğrafya
 
-Gençali Türbesi, İnegöl'ün merkezinden uzun bir mesafe uzaklıkta bulunan bir bölge olarak dikkat çekiyor. Bu bölge, 140 hektarlık geniş bir alan kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak Marmara Bölgesi'nin önemli noktalarından biri olan Gençali Türbesi, İnegöl'ün doğal güzelliklerini yansıtan önemli bir turizm noktası olarak biliniyor. Bu bölgenin coğrafi yapısı, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. İklim olarak Marmara Bölgesi'nin karakteristik özellikleri gösteren bu bölge, bn mevsimi yaşayan bir bölge olarak dikkat çekiyor.
+Gençali Türbesi, İnegöl'ün merkezinden uzun bir mesafe uzaklıkta bulunan bir bölge olarak dikkat çekiyor. Coğrafi olarak Marmara Bölgesi'nin önemli noktalarından biri olan Gençali Türbesi, İnegöl'ün doğal güzelliklerini yansıtan önemli bir turizm noktası olarak biliniyor. Bu bölgenin coğrafi yapısı, ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. İklim olarak Marmara Bölgesi'nin karakteristik özellikleri gösteren bu bölge, bn mevsimi yaşayan bir bölge olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

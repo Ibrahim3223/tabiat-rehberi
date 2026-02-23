@@ -23,7 +23,7 @@ wikidata_id: "Q108228180"
 
 # Kavaklımeşe Korusu
 
-Kavaklımeşe Korusu, İç Anadolu Bölgesi'nin yeşilli ve doğa alanlarından biri olarak ziyaretçilerini ağırlıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitkilerin ve ağaçların bir araya geldiği bir noktada yer alıyor. Bu alan, doğa severlerin ve yeşille iç içe olmak isteyenlerin keyifle zaman geçirebileceği bir mekan. Kavaklımeşe Korusu, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş ve bu amaçla faaliyetlerini sürdürüyor. Koru, ziyaretçilerine hem doğa hem de bölge hakkında bilgi edinme fırsatı sunuyor.
+Kavaklımeşe Korusu, İç Anadolu Bölgesi'nin yeşilli ve doğa alanlarından biri olarak ziyaretçilerini ağırlıyor. Bu alan, doğa severlerin ve yeşille iç içe olmak isteyenlerin keyifle zaman geçirebileceği bir mekan. Kavaklımeşe Korusu, aynı zamanda bölgenin ekolojik dengesini korumak amacıyla kurulmuş ve bu amaçla faaliyetlerini sürdürüyor. Koru, ziyaretçilerine hem doğa hem de bölge hakkında bilgi edinme fırsatı sunuyor.
 
 ## Tarihçe
 

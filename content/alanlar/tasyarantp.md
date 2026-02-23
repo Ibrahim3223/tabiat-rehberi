@@ -22,7 +22,7 @@ wikidata_id: "Q108228779"
 
 # TAŞYARAN_TP
 
-Taşyaran Tabiat Parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da ziyaretçilere eşsiz bir deneyim sunuyor. Taşyaran Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak görülüyor.
+Taşyaran Tabiat Parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da ziyaretçilere eşsiz bir deneyim sunuyor. Taşyaran Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak görülüyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Taşyaran Tabiat Parkı, ziyaretçilere unutulmaz bir deneyim sunuyor. Parkın i
 
 ## İlginç Bilgiler
 
-- Taşyaran Tabiat Parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkın flora ve faunası, mevsimsel değişimlere bağlı olarak farklılık gösterir.
 - Parkın içinde, çeşitli yürüyüş parkurları ve gözlem noktaları bulunmakta.
 - Parkın ekolojik dengesi, ziyaretçilere doğanın güzelliğini koruma altına alma fırsatı da veriyor.

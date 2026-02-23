@@ -1,7 +1,7 @@
 ---
 title: "Akdede Sultan Türbesi"
 date: "2026-01-10T06:13:57.385Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390672"
 
 # Akdede Sultan Türbesi
 
-Akdede Sultan Türbesi, Ankara'nın Çankaya ilçesinde yer alan bir tarihi ve doğal alan olarak dikkat çekmektedir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi ve doğal güzelliklerinin birleştiği bu özel mekan, Ankara'nın önemli turizm noktalarından biri olarak kabul edilir. Akdede Sultan Türbesi, ziyaretçilerine hem tarihi bir deneyim hem de doğal güzelliğin keyfini çıkarma fırsatı sunar. Bu türbe, Ankara'nın kültürel ve tarihi zenginliklerini keşfetmek isteyenler için önemli bir durak noktasıdır.
+Akdede Sultan Türbesi, Ankara'nın Çankaya ilçesinde yer alan bir tarihi ve doğal alan olarak dikkat çekmektedir. Tarihi ve doğal güzelliklerinin birleştiği bu özel mekan, Ankara'nın önemli turizm noktalarından biri olarak kabul edilir. Akdede Sultan Türbesi, ziyaretçilerine hem tarihi bir deneyim hem de doğal güzelliğin keyfini çıkarma fırsatı sunar. Bu türbe, Ankara'nın kültürel ve tarihi zenginliklerini keşfetmek isteyenler için önemli bir durak noktasıdır.
 
 ## Tarihçe
 

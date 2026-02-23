@@ -28,7 +28,7 @@ wikidata_id: "Q32210374"
 
 # Geriç Tepesi
 
-Geriç Tepesi, Burdur'un doğal güzellikleri arasında yer alan bir tepe. 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu tepe, doğal güzelliği ve çevresindeki manzarasıyla dikkat çekiyor. Geriç Tepesi'ne çıktığınızda, etraftaki köyleri ve Burdur'un panoramik manzarasını görebiliyorsunuz. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor.
+Geriç Tepesi, Burdur'un doğal güzellikleri arasında yer alan bir tepe. Bu tepe, doğal güzelliği ve çevresindeki manzarasıyla dikkat çekiyor. Geriç Tepesi'ne çıktığınızda, etraftaki köyleri ve Burdur'un panoramik manzarasını görebiliyorsunuz. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Basmane Hamamı"
 date: "2026-01-09T23:17:32.705Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738965"
 
 # Basmane Hamamı
 
-Basmane Hamamı, İzmir'in Konak ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan bir mekan. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığının dışında bir nefes alma imkanı sunuyor. Basmane Hamamı, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Bu mekan, İzmir'in önemli turizm noktalarından biri olarak dikkat çekiyor.
+Basmane Hamamı, İzmir'in Konak ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan bir mekan. Basmane Hamamı, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Bu mekan, İzmir'in önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Basmane Hamamı'nın tarihi geçmişi, İzmir'in tarihi ile iç içe geçmiş du
 
 ## Coğrafya
 
-Basmane Hamamı, İzmir'in Konak ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Basmane Hamamı'nın bulunduğu alan, 140 hektarlık bir yeşil alan olup, yaklaşık 200 futbol sahası büyüklüğünde. Bu mekan, şehrin merkezi bölgesinde yer almasına rağmen, doğal bir ortam sunuyor. Basmane Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna encontrable. Bölgenin iklimi, tipik Akdeniz iklimi olup, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Basmane Hamamı, ziyaretçilerine yılın her döneminde farklı bir deneyim sunuyor.
+Basmane Hamamı, İzmir'in Konak ilçesinde, Ege Bölgesi'nin kalbinde yer alıyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu mekan, şehrin merkezi bölgesinde yer almasına rağmen, doğal bir ortam sunuyor. Basmane Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna encontrable. Bölgenin iklimi, tipik Akdeniz iklimi olup, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçiyor. Basmane Hamamı, ziyaretçilerine yılın her döneminde farklı bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

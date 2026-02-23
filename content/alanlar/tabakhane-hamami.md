@@ -1,7 +1,7 @@
 ---
 title: "Tabakhane Hamamı"
 date: "2026-01-09T22:23:42.014Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738483"
 
 # Tabakhane Hamamı
 
-Tabakhane Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alan ve tarihi ile doğal güzelliklerini birleştiren özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Bu mekan, hem tarih meraklıları hem de doğa severler için bir çekim noktası olarak dikkat çekiyor. Tabakhane Hamamı'nın tarihi geçmişi, ziyaretçilere bu özel yerin hikayesini keşfetme fırsatı sunuyor.
+Tabakhane Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alan ve tarihi ile doğal güzelliklerini birleştiren özel bir mekan. Bu mekan, hem tarih meraklıları hem de doğa severler için bir çekim noktası olarak dikkat çekiyor. Tabakhane Hamamı'nın tarihi geçmişi, ziyaretçilere bu özel yerin hikayesini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tabakhane Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyet
 
 ## Coğrafya
 
-Tabakhane Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alıyor ve coğrafi konumu ile dikkat çekiyor. Bu mekan, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. uzun bir mesafelik bir sahil şeridine sahip ve ziyaretçilere geniş bir açık alan sunuyor. Coğrafi olarak, Tabakhane Hamamı'nın bulunduğu bölge, Ege Denizi'ne kıyısı olan ve doğal güzellikleriyle famous olan bir yer. İklim olarak, bu bölge Akdeniz ikliminin özelliklerini taşıyor ve ziyaretçilere sıcak ve güneşli bir ortam sunuyor. Çevre olarak, Tabakhane Hamamı'nın bulunduğu bölge, yeşillik alanlar ve doğal güzelliklerle dolu.
+Tabakhane Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alıyor ve coğrafi konumu ile dikkat çekiyor. uzun bir mesafelik bir sahil şeridine sahip ve ziyaretçilere geniş bir açık alan sunuyor. Coğrafi olarak, Tabakhane Hamamı'nın bulunduğu bölge, Ege Denizi'ne kıyısı olan ve doğal güzellikleriyle famous olan bir yer. İklim olarak, bu bölge Akdeniz ikliminin özelliklerini taşıyor ve ziyaretçilere sıcak ve güneşli bir ortam sunuyor. Çevre olarak, Tabakhane Hamamı'nın bulunduğu bölge, yeşillik alanlar ve doğal güzelliklerle dolu.
 
 ## Flora ve Fauna
 

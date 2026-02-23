@@ -58,7 +58,7 @@ Halakayası, ekolojik açıdan önemli bir bölge olarak, koruma altına alınma
 
 ## Ziyaret Bilgileri
 
-Ankara'nın gizli cennetlerinden biri olan Halakayası'na gitmeden önce birkaç şeyi bilmeniz necessário. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de günün ilk ışıklarında daha güzel fotoğraflar çekebilirsiniz. Ankara'dan yaklaşık 1 saatlik bir yolculukla ulaşabilirsiniz. İlkbahar ve sonbahar ayları, trekking ve dağcılık için en ideal mevsimler. Yanınıza su, atıştırmalık ve uygun ayakkabılar almayı unutmayın. En güzel manzara noktası, zirvede bulunan kaya oluşumlarından akan gün batımı.
+Ankara'nın gizli cennetlerinden biri olan Halakayası'na gitmeden önce birkaç şeyi bilmeniz gerekli. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de günün ilk ışıklarında daha güzel fotoğraflar çekebilirsiniz. Ankara'dan yaklaşık 1 saatlik bir yolculukla ulaşabilirsiniz. İlkbahar ve sonbahar ayları, trekking ve dağcılık için en ideal mevsimler. Yanınıza su, atıştırmalık ve uygun ayakkabılar almayı unutmayın. En güzel manzara noktası, zirvede bulunan kaya oluşumlarından akan gün batımı.
 
 ## İlginç Bilgiler
 

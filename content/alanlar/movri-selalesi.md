@@ -28,7 +28,7 @@ wikidata_id: "Q97212083"
 
 # Movri Şelalesi
 
-Movri Şelalesi, Rize'nin İkizdere ilçesinde bulunan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir şelaledir. Bu şelale, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Movri Şelalesi, ziyaretçilerini doğal güzelliği ve serin havasıyla çekmektedir. Şelale, özellikle yaz aylarında serinleme ve doğanın güzelliğini görmek isteyenler için ideal bir destinasyondur.
+Movri Şelalesi, Rize'nin İkizdere ilçesinde bulunan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir şelaledir. Movri Şelalesi, ziyaretçilerini doğal güzelliği ve serin havasıyla çekmektedir. Şelale, özellikle yaz aylarında serinleme ve doğanın güzelliğini görmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

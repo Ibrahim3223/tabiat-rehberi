@@ -1,7 +1,7 @@
 ---
 title: "Mansur Bin Cavena Türbesi"
 date: "2026-01-10T05:17:53.404Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adıyaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391728"
 
 # Mansur Bin Cavena Türbesi
 
-Mansur Bin Cavena Türbesi, Adıyaman ilinin merkezinde yer alan tarihi ve kültürel bir zenginlik sunan bir mekan. Bu türbe, Güneydoğu Anadolu Bölgesi'nin önemli dini ve tarihi noktalarından biri olarak bilinir. 140 hektarlık bir alanın içinde yer alan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin etrafında bulunan yeşillikler ve doğal güzellikler, ziyaretçilere huzurlu bir atmosfer sunar. Mansur Bin Cavena Türbesi, hem dini hem de kültürel açıdan önemli bir yere sahiptir ve her yıl birçok ziyaretçi tarafından ziyaret edilir.
+Mansur Bin Cavena Türbesi, Adıyaman ilinin merkezinde yer alan tarihi ve kültürel bir zenginlik sunan bir mekan. Bu türbe, Güneydoğu Anadolu Bölgesi'nin önemli dini ve tarihi noktalarından biri olarak bilinir. Türbenin etrafında bulunan yeşillikler ve doğal güzellikler, ziyaretçilere huzurlu bir atmosfer sunar. Mansur Bin Cavena Türbesi, hem dini hem de kültürel açıdan önemli bir yere sahiptir ve her yıl birçok ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mansur Bin Cavena Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır.
 
 ## Coğrafya
 
-Mansur Bin Cavena Türbesi, Adıyaman ilinin merkezinde, şehir halkının kolayca erişebileceği bir konumda yer alır. Türbe, 140 hektarlık bir yeşil alanın içerisinde bulunur ve etrafı, çeşitli ağaçlar ve bitkilerle çevrilidir. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilere, şehrin gürültüsünden uzak, sakin bir ortam sunar. Türbenin coğrafi konumu, ziyaretçilerin hem doğal güzellikleri hem de tarihi ve kültürel zenginlikleri aynı anda deneyimlemesine olanak tanır. Adıyaman'ın iklimi, genel olarak güneydoğu Anadolu'nun karakteristik iklimine benzer ve ziyaretçiler, bahar ve yaz aylarında türbeyi ziyaret ederek, bölgenin güzelliğini tam anlamıyla deneyimleyebilirler. Mansur Bin Cavena Türbesi, şehrin merkezine yakın olmasına rağmen, ziyaretçilere, şehrin dışında, doğal ve tarihi bir ortam sunar.
+Mansur Bin Cavena Türbesi, Adıyaman ilinin merkezinde, şehir halkının kolayca erişebileceği bir konumda yer alır. Türbe, 140 hektarlık bir yeşil alanın içerisinde bulunur ve etrafı, çeşitli ağaçlar ve bitkilerle çevrilidir. Türbenin coğrafi konumu, ziyaretçilerin hem doğal güzellikleri hem de tarihi ve kültürel zenginlikleri aynı anda deneyimlemesine olanak tanır. Adıyaman'ın iklimi, genel olarak güneydoğu Anadolu'nun karakteristik iklimine benzer ve ziyaretçiler, bahar ve yaz aylarında türbeyi ziyaret ederek, bölgenin güzelliğini tam anlamıyla deneyimleyebilirler. Mansur Bin Cavena Türbesi, şehrin merkezine yakın olmasına rağmen, ziyaretçilere, şehrin dışında, doğal ve tarihi bir ortam sunar.
 
 ## Flora ve Fauna
 

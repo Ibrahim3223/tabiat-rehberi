@@ -28,7 +28,7 @@ wikidata_id: "Q31390919"
 
 # Kalender Tepesi
 
-Kalender Tepesi, Kayseri'nin doğusunda yer alan ve 1400 metrelik yüksekliği ile bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan üzerine kurulmuştur. Kalender Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülemektedir. Tepenin eteklerinde ve çevresinde yer alan köyler, ziyaretçilere geleneksel Türk kültürünü tanıma fırsatı sunarken, tepe üzerindeki manzaralar ise doğa severleri kendine hayran bırakmaktadır.
+Kalender Tepesi, Kayseri'nin doğusunda yer alan ve 1400 metrelik yüksekliği ile bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Kalender Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile ziyaretçilerini büyülemektedir. Tepenin eteklerinde ve çevresinde yer alan köyler, ziyaretçilere geleneksel Türk kültürünü tanıma fırsatı sunarken, tepe üzerindeki manzaralar ise doğa severleri kendine hayran bırakmaktadır.
 
 ## Tarihçe
 

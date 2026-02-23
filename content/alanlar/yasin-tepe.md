@@ -51,9 +51,9 @@ Doğal kaynaklar ve ekosistem bağlantıları açısından, Yasin Tepe, Diyarbak
 
 ## Flora ve Fauna
 
-Yasin Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yasin Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsüne baktığımızda, ilkbahar aylarında çiçeklerin rengarenk bir halı gibi dağ yamaçlarını süslediğini görüyoruz. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına göre değişen alpin flora çeşitliliği dikkat çekiyor. 
+Bitki örtüsüne baktığımızda, ilkbahar aylarında çiçeklerin rengarenk bir halı gibi dağ yamaçlarını süslediğini görüyoruz. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına göre değişen alpin flora çeşitliliği dikkat çekiyor.
 
 Yaban hayatı da oldukça zengin. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yüksekliklerine uygun olarak yaşamını sürdürüyor. Kuşlar ise özellikle sonbahar aylarında göç ederken bu bölgeden geçiyor. Sürüngenler de güneş alan kayaların üzerinde güneşlenmeyi sever.
 

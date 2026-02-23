@@ -30,7 +30,7 @@ wikidata_id: "Q211285"
 
 # İstendil
 
-Güney Ege'nin gizli bir incisi olan İstendil, Tinos Regional Unit'in sakin sularına gizlenmiş bir ada. Bu bölgede, doğanın güzelliği ve tarihi zenginlik bir araya geliyor. İstendil, Tinos Regional Unit'in bir parçası olarak, Güney Ege'nin turistik çekiciliğini artırıyor. 
+Güney Ege'nin gizli bir incisi olan İstendil, Tinos Regional Unit'in sakin sularına gizlenmiş bir ada. Bu bölgede, doğanın güzelliği ve tarihi zenginlik bir araya geliyor. İstendil, Tinos Regional Unit'in bir parçası olarak, Güney Ege'nin turistik çekiciliğini artırıyor.
 Ada, ziyaretçilerini çeken bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe

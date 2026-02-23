@@ -28,7 +28,7 @@ wikidata_id: "Q31386752"
 
 # Karabaş Tepesi
 
-Karabaş Tepesi, Diyarbakır'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan. Doğal güzelliği ve manzarasıyla dikkat çeken Karabaş Tepesi, ziyaretçilerine Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere yerel halkın yaşantısını ve geleneklerini tanıma imkanı sağlıyor.
+Karabaş Tepesi, Diyarbakır'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Doğal güzelliği ve manzarasıyla dikkat çeken Karabaş Tepesi, ziyaretçilerine Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Tepenin eteklerinde yer alan köyler ve kasabalar, ziyaretçilere yerel halkın yaşantısını ve geleneklerini tanıma imkanı sağlıyor.
 
 ## Tarihçe
 

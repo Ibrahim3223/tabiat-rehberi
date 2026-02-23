@@ -29,7 +29,7 @@ wikidata_id: "Q134728267"
 
 # Niyazi Tepe Tapınak Mezarı
 
-Niyazi Tepe Tapınak Mezarı, Ege Bölgesi'nin Bergama ilçesinde bulunan tarihi bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa davet ediyor. Bu özel mekan, Bergama'nın tarihini ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Niyazi Tepe Tapınak Mezarı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. Bu alan, Bergama'nın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay.
+Niyazi Tepe Tapınak Mezarı, Ege Bölgesi'nin Bergama ilçesinde bulunan tarihi bir alan olarak dikkat çekiyor. Bu özel mekan, Bergama'nın tarihini ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Niyazi Tepe Tapınak Mezarı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. Bu alan, Bergama'nın merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Niyazi Tepe Tapınak Mezarı'nın tarihi geçmişi, Bergama'nın antik dönemler
 
 ## Coğrafya
 
-Niyazi Tepe Tapınak Mezarı, Ege Bölgesi'nin coğrafi güzelliklerini sunuyor. Bergama'nın merkezine yakın bir konumda yer alan bu alan, 140 hektarlık geniş bir yeşil alanı kapsıyor. Bu bölge, doğal güzellikleri ve tarihi yapılarıyla dikkat çekiyor. Niyazi Tepe Tapınak Mezarı'nın coğrafi konumu, ziyaretçilerine Bergama'nın tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Bu alan, Bergama'nın merkezinden kolayca ulaşılabilen bir konumda yer alıyor. Niyazi Tepe Tapınak Mezarı, Ege Bölgesi'nin coğrafi güzelliklerini ve tarihi yapılarını keşfetmek isteyenler için ideal bir destinasyon.
+Niyazi Tepe Tapınak Mezarı, Ege Bölgesi'nin coğrafi güzelliklerini sunuyor. Bu bölge, doğal güzellikleri ve tarihi yapılarıyla dikkat çekiyor. Niyazi Tepe Tapınak Mezarı'nın coğrafi konumu, ziyaretçilerine Bergama'nın tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Bu alan, Bergama'nın merkezinden kolayca ulaşılabilen bir konumda yer alıyor. Niyazi Tepe Tapınak Mezarı, Ege Bölgesi'nin coğrafi güzelliklerini ve tarihi yapılarını keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Niyazi Tepe Tapınak Mezarı, ziyaretçilerine Bergama'nın tarihi ve kültürel
 ## İlginç Bilgiler
 
 - Niyazi Tepe Tapınak Mezarı, Bergama'nın tarihi ve kültürel zenginliklerini yansıtacak şekilde tasarlandı.
-- Bu alan, 140 hektarlık geniş bir yeşil alanı kapsıyor.
+
 - Niyazi Tepe Tapınak Mezarı, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor.
 - Bu bölgede, mevsimsel değişimlere bağlı olarak farklı bitkiler ve canlılar yaşamlarını sürdürüyor.
 - Niyazi Tepe Tapınak Mezarı, flora ve fauna açısından zengin bir bölge olarak bilinir.

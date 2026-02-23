@@ -28,7 +28,7 @@ wikidata_id: "Q32139612"
 
 # Beşgöze Tepesi
 
-Beşgöze Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Siirt ilinin önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayarak ziyaretçilerini etkileyen bir manzaraya sahiptir. Beşgöze Tepesi'ne çıkanlar, hem güzel bir doğa yürüyüşü yapma fırsatını bulur hem de bölgenin zengin florası ve faunası hakkında bilgi edinirler. Tepenin etrafındaki yeşil alanlar, çeşitli bitki türleriyle kaplıdır ve bu bölgede yaban hayatının zenginliği dikkat çeker.
+Beşgöze Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan Siirt ilinin önemli doğal güzelliklerinden biridir. Beşgöze Tepesi'ne çıkanlar, hem güzel bir doğa yürüyüşü yapma fırsatını bulur hem de bölgenin zengin florası ve faunası hakkında bilgi edinirler. Tepenin etrafındaki yeşil alanlar, çeşitli bitki türleriyle kaplıdır ve bu bölgede yaban hayatının zenginliği dikkat çeker.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Beşgöze Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Beşgöze Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Bu tepe, Siirt ilinin merkezi yakınlarında yer alır ve etrafındaki yeşil alanlar ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin coğrafi konumu, ziyaretçilere bölgenin zengin florası ve faunası hakkında bilgi edinme fırsatı sunar. Çeşitli bitki türleri ve yaban hayatı, Beşgöze Tepesi'nin doğal güzelliklerini oluşturur. Bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Kış aylarında karla kaplanan tepenin manzarası, bahar aylarında yeşeren çiçekler, yaz aylarında sıcak günler ve sonbahar aylarında renk değiştiren yapraklar, her mevsim ziyaretçilere farklı bir güzellik sunar.
+Beşgöze Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasıdır. Tepenin coğrafi konumu, ziyaretçilere bölgenin zengin florası ve faunası hakkında bilgi edinme fırsatı sunar. Çeşitli bitki türleri ve yaban hayatı, Beşgöze Tepesi'nin doğal güzelliklerini oluşturur. Bölgenin iklimi, genel olarak Güneydoğu Anadolu Bölgesi'nin iklimine benzer ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar. Kış aylarında karla kaplanan tepenin manzarası, bahar aylarında yeşeren çiçekler, yaz aylarında sıcak günler ve sonbahar aylarında renk değiştiren yapraklar, her mevsim ziyaretçilere farklı bir güzellik sunar.
 
 ## Flora ve Fauna
 

@@ -32,7 +32,7 @@ Kastamonu'nun yemyeşil dağ silüetlerinin arasında yer alan Karyatağı Dağ�
 
 ## Tarihçe
 
-Kastamonu bölgesinin zengin tarihi, çeşitli uygarlıkların izlerini taşır. Hititlerden, Roma ve Bizans İmparatorluklarına kadar birçok medeniyet bu topraklarda yaşamış ve izler bırakmıştır. Karyatağı Dağı da, bu tarihsel coğrafyanın bir parçası olarak önemli bir doğal oluşum teşkil eder. Türkiye'de bulunan dağlar ve doğal alanlar, tarih boyunca insanların yaşamlarını şekillendiren önemli faktörler olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal alanlarla ilişkisini belirleyen temel faaliyetler arasında yer almıştır. Kastamonu bölgesinde de, Karyatağı Dağı gibi dağlar, insanların yaşamını destekleyen ekosistemlerin birer parçası olarak görülebilir. Bu tür doğal alanlar, yalnızca bölge halkının değil, tüm ülkenin ekolojik dengesini korumak açısından da büyük önem taşır. Karyatağı Dağı, Kastamonu'nun tarihi ve kültürel zenginliğinin bir yansıması olarak, bölgenin doğal güzelliklerini ve insan yaşamını destekleyen önemli bir bileşen olarak karşımıza çıkar.
+Kastamonu bölgesinin zengin tarihi, çeşitli uygarlıkların izlerini taşır. Hititlerden, Roma ve Bizans İmparatorluklarına kadar birçok medeniyet bu topraklarda yaşamış ve izler bırakmıştır. Karyatağı Dağı da, bu tarihsel coğrafyanın bir parçası olarak önemli bir doğal oluşum teşkil eder. Türkiye'de bulunan dağlar ve doğal alanlar, tarih boyunca insanların yaşamlarını şekillendiren önemli faktörler olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal alanlarla ilişkisini belirleyen temel faaliyetler arasında yer almıştır. Kastamonu bölgesinde de, Karyatağı Dağı gibi dağlar, insanların yaşamını destekleyen ekosistemlerin birer parçası olarak görülebilir. Karyatağı Dağı, Kastamonu'nun tarihi ve kültürel zenginliğinin bir yansıması olarak, bölgenin doğal güzelliklerini ve insan yaşamını destekleyen önemli bir bileşen olarak karşımıza çıkar.
 
 ## Coğrafya
 
@@ -46,7 +46,7 @@ Doğal çevre açısından, Karyatağı Dağı, Kastamonu'nun diğer doğal güz
 
 ## Flora ve Fauna
 
-Karyatağı Dağı, Kastamonu'nun nemli ikliminde yer alan bir dağ ekosistemi olarak, yüksek biyoçeşitlili ve gür ormanlara ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Mevsimsel değişimlerle birlikte, dağın yükseklik zonları farklı bitki türlerine yaşam alanı sunuyor. 
+Karyatağı Dağı, Kastamonu'nun nemli ikliminde yer alan bir dağ ekosistemi olarak, yüksek biyoçeşitlili ve gür ormanlara ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Mevsimsel değişimlerle birlikte, dağın yükseklik zonları farklı bitki türlerine yaşam alanı sunuyor.
 
 Dağın yaban hayatı da bir o kadar zengin. Dağ keçileri, kurtlar ve ayılar gibi memeliler, dağların yüksek kesimlerinde yaşamını sürdürüyor. Kuşlar, özellikle sonbaharda göç eden türler, dağların gökyüzünü süslüyor. Sürüngenler ise, dağların kayalık alanlarında ve ormanlık bölgelerde yaşamlarını sürdürüyor.
 

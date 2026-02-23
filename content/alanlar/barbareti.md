@@ -50,11 +50,11 @@ Mevsimsel değişiklikler, Barbareti Dağı'nın iklim karakterini şekillendirm
 
 ## Flora ve Fauna
 
-Barbareti Dağı, nemli iklimin hakim olduğu bir bölge olarak, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Barbareti Dağı, nemli iklimin hakim olduğu bir bölge olarak, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne bakıldığında, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çiçekler açarken, sonbaharda yaprakların renk değiştirmesiyle birlikte bir renk cümbüşü oluşuyor. Dağın yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artıyor.
 
-Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerle birlikte zengin bir çeşitlilik sunuyor. Dağ keçileri, yaban domuzları ve ayılar gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri mevsimsel olarak göç ediyor. Sürüngenler ise, kayalık alanlarda ve ormanlık bölgelerde bulunuyor. 
+Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerle birlikte zengin bir çeşitlilik sunuyor. Dağ keçileri, yaban domuzları ve ayılar gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri mevsimsel olarak göç ediyor. Sürüngenler ise, kayalık alanlarda ve ormanlık bölgelerde bulunuyor.
 
 Barbareti Dağı, ekolojik açıdan önemli bir bölge olarak, koruma altına alınması gereken bir alan. Bu dağ ekosisteminin korunması, bölgedeki canlıların yaşam alanlarını korumanın yanı sıra, ekosistemin dengesini de sağlamlaştıracaktır.
 

@@ -29,7 +29,7 @@ wikidata_id: "Q132082211"
 
 # Kuşluk Köşkü, Yıldız
 
-Kuşluk Köşkü, Yıldız, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir yapıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli noktalarından biridir. Bu köşkün tarihi geçmişi, İstanbul'un kültürel zenginliğini yansıtan önemli bir parçadır. Köşkün etrafındaki yeşil alanlar, ziyaretçilere doğayla iç içe bir  sunar. Köşkün mimarisi, Osmanlı döneminden kalma tarihi yapıların özelliklerini taşır ve ziyaretçilerini tarihin içinde bir yolculuğa çıkarır.
+Kuşluk Köşkü, Yıldız, İstanbul'un Beşiktaş ilçesinde yer alan tarihi bir yapıdır. Bu köşkün tarihi geçmişi, İstanbul'un kültürel zenginliğini yansıtan önemli bir parçadır. Köşkün etrafındaki yeşil alanlar, ziyaretçilere doğayla iç içe bir  sunar. Köşkün mimarisi, Osmanlı döneminden kalma tarihi yapıların özelliklerini taşır ve ziyaretçilerini tarihin içinde bir yolculuğa çıkarır.
 
 ## Tarihçe
 

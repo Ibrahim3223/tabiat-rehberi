@@ -29,7 +29,7 @@ wikidata_id: "Q131738529"
 
 # Nebiler Ilıcası (Astyra)
 
-Nebiler Ilıcası, Dikili'nin sakin ve doğayla iç içe bir bölgesinde yer alan, şifalı suları ve yeşilliklerle çevrili doğası ile dikkat çeken bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. İlçe merkezine yakın konumu ve ulaşılabilirliği ile birlikte, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Nebiler Ilıcası, özellikle termal sularının sağlık açısından faydaları ve dinlendirici atmosferi ile bilinir.
+Nebiler Ilıcası, Dikili'nin sakin ve doğayla iç içe bir bölgesinde yer alan, şifalı suları ve yeşilliklerle çevrili doğası ile dikkat çeken bir destinasyon. İlçe merkezine yakın konumu ve ulaşılabilirliği ile birlikte, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Nebiler Ilıcası, özellikle termal sularının sağlık açısından faydaları ve dinlendirici atmosferi ile bilinir.
 
 ## Tarihçe
 

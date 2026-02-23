@@ -22,7 +22,7 @@ wikidata_id: "Q108227494"
 
 # Canakkale-Bayramic-Karakoy-Karacam
 
-Canakkale-Bayramic-Karakoy-Karacam milli parkı, Marmara Bölgesi'nin güzelliklerini gözler önüne seren bir doğa harikasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Milli parkın yer aldığı Çanakkale, tarihsel ve kültürel zenginliklerinin yanı sıra doğal güzellikleriyle de ön plana çıkıyor. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için unutulmaz bir deneyim sunuyor.
+Canakkale-Bayramic-Karakoy-Karacam milli parkı, Marmara Bölgesi'nin güzelliklerini gözler önüne seren bir doğa harikasıdır. Milli parkın yer aldığı Çanakkale, tarihsel ve kültürel zenginliklerinin yanı sıra doğal güzellikleriyle de ön plana çıkıyor. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

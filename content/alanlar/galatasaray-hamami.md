@@ -1,7 +1,7 @@
 ---
 title: "Galatasaray Hamamı"
 date: "2026-01-09T22:43:28.940Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738556"
 
 # Galatasaray Hamamı
 
-Galatasaray Hamamı, İstanbul'un tarihi hamamlarından biri olarak Marmara Bölgesi'nin kalbinde yer alır. Bu tarihi mekân, yaklaşık 140 hektarlık bir alanda, 200 futbol sahası büyüklüğünde bir yeşil alan sunar. İstanbul'un merkezinde, Beyoğlu'nda bulunan Galatasaray Hamamı, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Hamamın tarihi geçmişi, yüzyıllar boyunca insanların rahatlama ve sosyalize olmak için geldikleri bir yer olarak bilinir. Galatasaray Hamamı, aynı zamanda önemli bir kültürel miras olarak kabul edilir ve ziyaretçilerini tarihi atmosferi ile büyüler.
+Galatasaray Hamamı, İstanbul'un tarihi hamamlarından biri olarak Marmara Bölgesi'nin kalbinde yer alır. İstanbul'un merkezinde, Beyoğlu'nda bulunan Galatasaray Hamamı, şehrin kalabalığından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Hamamın tarihi geçmişi, yüzyıllar boyunca insanların rahatlama ve sosyalize olmak için geldikleri bir yer olarak bilinir. Galatasaray Hamamı, aynı zamanda önemli bir kültürel miras olarak kabul edilir ve ziyaretçilerini tarihi atmosferi ile büyüler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Galatasaray Hamamı'nın tarihi geçmişi, yüzyıllar boyunca insanların rahat
 
 ## Coğrafya
 
-Galatasaray Hamamı, Marmara Bölgesi'nin kalbinde, İstanbul'un merkezinde yer alır. Bu tarihi hamam, yaklaşık 140 hektarlık bir alanda, 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Hamamın coğrafi konumu, ziyaretçilerine şehir merkezindeki diğer turistik yerlere kolayca ulaşma imkanı sağlar. Galatasaray Hamamı, aynı zamanda çevresi ile de dikkat çekicidir. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Hamamın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılımandır. Galatasaray Hamamı, ziyaretçilerine hem tarihi hem de doğal güzellikleri ile birlikte sunar. Hamamın coğrafi konumu ve çevresi, ziyaretçilerini şehrin kalabalığından uzaklaştırmaya yardımcı olur ve onları doğanın güzelliği ile baş başa bırakır.
+Galatasaray Hamamı, Marmara Bölgesi'nin kalbinde, İstanbul'un merkezinde yer alır. Hamamın coğrafi konumu, ziyaretçilerine şehir merkezindeki diğer turistik yerlere kolayca ulaşma imkanı sağlar. Galatasaray Hamamı, aynı zamanda çevresi ile de dikkat çekicidir. Hamamın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Hamamın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak ılımandır. Galatasaray Hamamı, ziyaretçilerine hem tarihi hem de doğal güzellikleri ile birlikte sunar. Hamamın coğrafi konumu ve çevresi, ziyaretçilerini şehrin kalabalığından uzaklaştırmaya yardımcı olur ve onları doğanın güzelliği ile baş başa bırakır.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31558275"
 
 # Danakıran Tepesi
 
-Danakıran Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan, 140 hektarlık geniş bir alana sahip doğal bir güzelliğimiz. Bu tepenin bulunduğu bölgede, yaklaşık 200 futbol sahası büyüklüğünde bir alan, ziyaretçilerini doğanın güzelliği ile karşılar. Doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olan Danakıran Tepesi, aynı zamanda tarihin izlerini taşıyan bir bölge. Burada, yüzyılların izlerini görme mümkün. Bu bölge, hem doğa hem de tarih açısından zengin bir içeriğe sahip.
+Danakıran Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan, 140 hektarlık geniş bir alana sahip doğal bir güzelliğimiz. Doğa severler ve yürüyüş tutkunları için ideal bir destinasyon olan Danakıran Tepesi, aynı zamanda tarihin izlerini taşıyan bir bölge. Burada, yüzyılların izlerini görme mümkün. Bu bölge, hem doğa hem de tarih açısından zengin bir içeriğe sahip.
 
 ## Tarihçe
 

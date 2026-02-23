@@ -28,7 +28,7 @@ wikidata_id: "Q31388475"
 
 # Meşe Tepesi
 
-Meşe Tepesi, Karadeniz Bölgesi'nin Rize şehrinde yer alan, 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğündeki genişliğiyle dikkat çekiyor. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Meşe Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini etkiliyor. Ziyaretçiler, bu bölgede hem doğayı keşfedebilir hem de tarihi hakkında bilgi sahibi olabilir.
+ Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Meşe Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini etkiliyor. Ziyaretçiler, bu bölgede hem doğayı keşfedebilir hem de tarihi hakkında bilgi sahibi olabilir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Meşe Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Meşe Tepesi, Karadeniz Bölgesi'nin Rize şehrinde yer alıyor. Bu bölge, 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğündeki genişliğiyle dikkat çekiyor. Meşe Tepesi'nin coğrafi yapısı, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Meşe Tepesi, Karadeniz Bölgesi'nin karakteristik iklimine sahip ve bu bölgede ziyaretçiler, Karadeniz'in güzelliğini deneyimleyebilir. Bu bölge, ziyaretçilerine hem doğal güzelliğini hem de coğrafi zenginliğini sunuyor.
+Meşe Tepesi, Karadeniz Bölgesi'nin Rize şehrinde yer alıyor. Meşe Tepesi'nin coğrafi yapısı, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Meşe Tepesi, Karadeniz Bölgesi'nin karakteristik iklimine sahip ve bu bölgede ziyaretçiler, Karadeniz'in güzelliğini deneyimleyebilir. Bu bölge, ziyaretçilerine hem doğal güzelliğini hem de coğrafi zenginliğini sunuyor.
 
 ## Flora ve Fauna
 

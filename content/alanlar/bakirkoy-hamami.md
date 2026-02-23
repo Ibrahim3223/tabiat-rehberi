@@ -1,7 +1,7 @@
 ---
 title: "Bakırköy Hamamı"
 date: "2026-01-09T22:58:43.219Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738610"
 
 # Bakırköy Hamamı
 
-Bakırköy Hamamı, İstanbul'un batı yakasında, Marmara Denizi'nin kıyısında yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Bakırköy Hamamı, deniz severlerin keyifli anlar yaşayabileceği, güneşin ve denizin tadını çıkarabileceği bir yerdir. Plajın etrafında, çeşitli tesisler ve hizmetler bulunur, böylece ziyaretçiler tüm ihtiyaçlarını karşılayabilirler.
+Bakırköy Hamamı, İstanbul'un batı yakasında, Marmara Denizi'nin kıyısında yer alan bir plajdır. Bakırköy Hamamı, deniz severlerin keyifli anlar yaşayabileceği, güneşin ve denizin tadını çıkarabileceği bir yerdir. Plajın etrafında, çeşitli tesisler ve hizmetler bulunur, böylece ziyaretçiler tüm ihtiyaçlarını karşılayabilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bakırköy Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bö
 
 ## Coğrafya
 
-Bakırköy Hamamı, Marmara Denizi'nin kıyısında, İstanbul'un batı yakasında yer alır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Plajın etrafında, çeşitli tesisler ve hizmetler bulunur, böylece ziyaretçiler tüm ihtiyaçlarını karşılayabilirler. Bakırköy Hamamı, deniz severlerin keyifli anlar yaşayabileceği, güneşin ve denizin tadını çıkarabileceği bir yerdir. Plajın coğrafi konumu, ziyaretçilerin İstanbul'un diğer turizm merkezlerine kolayca ulaşabilmesini sağlar. Marmara Denizi'nin serin suları, plajın güzelliğini ve çekiciliğini artırır.
+Bakırköy Hamamı, Marmara Denizi'nin kıyısında, İstanbul'un batı yakasında yer alır. Plajın etrafında, çeşitli tesisler ve hizmetler bulunur, böylece ziyaretçiler tüm ihtiyaçlarını karşılayabilirler. Bakırköy Hamamı, deniz severlerin keyifli anlar yaşayabileceği, güneşin ve denizin tadını çıkarabileceği bir yerdir. Plajın coğrafi konumu, ziyaretçilerin İstanbul'un diğer turizm merkezlerine kolayca ulaşabilmesini sağlar. Marmara Denizi'nin serin suları, plajın güzelliğini ve çekiciliğini artırır.
 
 ## Flora ve Fauna
 

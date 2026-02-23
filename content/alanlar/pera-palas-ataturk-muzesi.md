@@ -1,7 +1,7 @@
 ---
 title: "Pera Palas Atatürk Müzesi"
 date: "2026-01-10T15:21:11.666Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"

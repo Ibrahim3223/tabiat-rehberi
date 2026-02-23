@@ -22,7 +22,7 @@ wikidata_id: "Q108227867"
 
 # Izmir-Manisa Kızılçam 1
 
-İzmir-Manisa Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biridir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğayla baş başa bırakmak için ideal bir yer. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın büyüklüğü ve güzelliği, ziyaretçilerini kendine hayran bırakıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu milli parkta da kendini gösteriyor. Burada, doğanın güzelliğini ve çeşitliliğini keşfetmek için birçok fırsat bulunuyor.
+İzmir-Manisa Kızılçam 1 milli parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın büyüklüğü ve güzelliği, ziyaretçilerini kendine hayran bırakıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu milli parkta da kendini gösteriyor. Burada, doğanın güzelliğini ve çeşitliliğini keşfetmek için birçok fırsat bulunuyor.
 
 ## Tarihçe
 

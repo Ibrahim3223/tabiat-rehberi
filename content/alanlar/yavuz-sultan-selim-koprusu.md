@@ -1,7 +1,7 @@
 ---
 title: "Yavuz Sultan Selim Köprüsü"
 date: "2026-01-09T23:03:54.381Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q7784788"
 
 # Yavuz Sultan Selim Köprüsü
 
-Yavuz Sultan Selim Köprüsü, İstanbul'un Asya ve Avrupa yakalarını bağlayan önemli bir ulaşım arteri. Bu köprü, şehrin trafik akışını düzenleme ve ulaşım sorunlarını çözmek amacıyla inşa edildi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Köprünün inşaatı sırasında, bölgenin coğrafi yapısı ve çevresel faktörler dikkate alındı. Yavuz Sultan Selim Köprüsü, sadece bir ulaşım aracı değil, aynı zamanda bir mühendislik harikası.
+Yavuz Sultan Selim Köprüsü, İstanbul'un Asya ve Avrupa yakalarını bağlayan önemli bir ulaşım arteri. Bu köprü, şehrin trafik akışını düzenleme ve ulaşım sorunlarını çözmek amacıyla inşa edildi. Köprünün inşaatı sırasında, bölgenin coğrafi yapısı ve çevresel faktörler dikkate alındı. Yavuz Sultan Selim Köprüsü, sadece bir ulaşım aracı değil, aynı zamanda bir mühendislik harikası.
 
 ## Tarihçe
 

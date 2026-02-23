@@ -28,7 +28,7 @@ wikidata_id: "Q31535128"
 
 # Kavaklıgıntombul Tepesi
 
-Gaziantep'in eşsiz doğal güzelliklerinden biri olan Kavaklığıntombul Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tepenin yüksekliği ve genişliği, çevreyi gözlemlemek için ideal bir nokta sunuyor. Kavaklığıntombul Tepesi, doğa severler ve Photographerlar için bir cennet olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri yetişiyor ve bu bölge, yaban hayatının zenginliğini gösteriyor.
+Gaziantep'in eşsiz doğal güzelliklerinden biri olan Kavaklığıntombul Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği ve genişliği, çevreyi gözlemlemek için ideal bir nokta sunuyor. Kavaklığıntombul Tepesi, doğa severler ve Photographerlar için bir cennet olarak kabul ediliyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri yetişiyor ve bu bölge, yaban hayatının zenginliğini gösteriyor.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Torasan Dağı, Türkiye'nin gizli cornerlarından biri olarak bilinir. Bu dağ,
 
 ## Tarihçe
 
-Torasan Dağı, Türkiye'nin zengin tarihsel mirasının bir parçası olarak görülüyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği önemli bir nokta olmuş. Hitit, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada izlerini bırakmışlar. 
+Torasan Dağı, Türkiye'nin zengin tarihsel mirasının bir parçası olarak görülüyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği önemli bir nokta olmuş. Hitit, Roma ve Osmanlı gibi medeniyetler, bu coğrafyada izlerini bırakmışlar.
 
 Bölgelerindeki doğal güzellikler ve verimli topraklar, insanların yerleşimine ve ekonomik faaliyetlere zemin hazırlamış. Yaylacılık ve hayvancılık, bu alanların ekonomisinde önemli bir yer tutmuş. Torasan Dağı ve çevresindeki diğer doğal alanlar, insanların doğayla iç içe yaşadığı ve geçimini sağladığı yerler olarak dikkat çekiyor.
 

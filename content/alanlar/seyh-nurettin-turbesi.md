@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Nurettin Türbesi"
 date: "2026-01-10T06:09:34.864Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390639"
 
 # Şeyh Nurettin Türbesi
 
-Şeyh Nurettin Türbesi, Afyonkarahisar'ın Sandıklı ilçesinde, tarihi ve doğal güzelliklerin birleştiği bir noktada yer alıyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve çevresindeki yeşillikler ile birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı andırıyor. Şeyh Nurettin Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon. Burada, tarihi geçmişi ve kültürel önemi ile birlikte, çevresindeki doğa güzelliklerini de keşfetme fırsatı bulacaksınız. Şeyh Nurettin Türbesi, Afyonkarahisar'ın önemli bir kültürel mirası olarak kabul ediliyor ve ziyaretçilerine zengin bir deneyim sunuyor.
+Şeyh Nurettin Türbesi, Afyonkarahisar'ın Sandıklı ilçesinde, tarihi ve doğal güzelliklerin birleştiği bir noktada yer alıyor. Şeyh Nurettin Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir destinasyon. Burada, tarihi geçmişi ve kültürel önemi ile birlikte, çevresindeki doğa güzelliklerini de keşfetme fırsatı bulacaksınız. Şeyh Nurettin Türbesi, Afyonkarahisar'ın önemli bir kültürel mirası olarak kabul ediliyor ve ziyaretçilerine zengin bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728211"
 
 # Kaya Mezarı 9 (Tikenlice Mahallesi) Gürgentepe
 
-Kaya Mezarı 9, Tikenlice Mahallesi Gürgentepe'de bulunan, Karadeniz'in en güzel plajlarından biri. 140 hektarlık genişlikte, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası. Bu muhteşem mekan, ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Kaya Mezarı 9'un güzelliği, ziyaretçilerini büyülüyor ve unutulmaz anlar yaşatıyor. Bu doğa cenneti, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olma özelliğini taşıyor.
+Kaya Mezarı 9, Tikenlice Mahallesi Gürgentepe'de bulunan, Karadeniz'in en güzel plajlarından biri. Bu muhteşem mekan, ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Kaya Mezarı 9'un güzelliği, ziyaretçilerini büyülüyor ve unutulmaz anlar yaşatıyor. Bu doğa cenneti, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olma özelliğini taşıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaya Mezarı 9'un tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bö
 
 ## Coğrafya
 
-Kaya Mezarı 9, Ordu'nun Gürgentepe ilçesinde, Karadeniz Bölgesi'nde yer alıyor. Bu plaj, Karadeniz'in en güzel ve en temiz kıyılarından biri olarak bilinir. Kaya Mezarı 9'un coğrafi konumu, ziyaretçilerine doğanın güzelliğini sunuyor. Bu mekan, deniz, kum ve güneş ile ziyaretçilerini cezbediyor. Kaya Mezarı 9'un genişliği, yaklaşık 200 futbol sahası büyüklüğünde ve 140 hektarlık bir alana yayılıyor. Bu plaj, Karadeniz'in en uzun ve en güzel plajlarından biri olarak kabul ediliyor. Kaya Mezarı 9'un iklimi, Karadeniz iklimi özellikleri taşıyor ve ziyaretçilerine serin ve ferah bir ortam sunuyor.
+Kaya Mezarı 9, Ordu'nun Gürgentepe ilçesinde, Karadeniz Bölgesi'nde yer alıyor. Bu plaj, Karadeniz'in en güzel ve en temiz kıyılarından biri olarak bilinir. Kaya Mezarı 9'un coğrafi konumu, ziyaretçilerine doğanın güzelliğini sunuyor. Bu mekan, deniz, kum ve güneş ile ziyaretçilerini cezbediyor. Bu plaj, Karadeniz'in en uzun ve en güzel plajlarından biri olarak kabul ediliyor. Kaya Mezarı 9'un iklimi, Karadeniz iklimi özellikleri taşıyor ve ziyaretçilerine serin ve ferah bir ortam sunuyor.
 
 ## Flora ve Fauna
 

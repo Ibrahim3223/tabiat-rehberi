@@ -22,7 +22,7 @@ wikidata_id: "Q108228062"
 
 # Trabzon Macka-Doguladini 2
 
-Trabzon Macka-Doguladini 2 milli parkı, İç Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok farklı bitki türünü barındırıyor. Parkın içinde yer alan yürüyüş yolları ve piknik alanları, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Milli parkın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olmasıyla dikkat çekiyor. Bu nedenle, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
+Trabzon Macka-Doguladini 2 milli parkı, İç Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri. Parkın içinde yer alan yürüyüş yolları ve piknik alanları, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Milli parkın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olmasıyla dikkat çekiyor. Bu nedenle, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
 
 ## Tarihçe
 

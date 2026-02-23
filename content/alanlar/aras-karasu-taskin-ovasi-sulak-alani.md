@@ -23,7 +23,7 @@ wikidata_id: "Q108228859"
 
 # Aras Karasu Taşkın Ovası Sulak Alanı
 
-Aras Karasu Taşkın Ovası Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği bir yerdir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli sulak alanlarından biridir. Bu alan, yaban hayatının çeşitliliği ve doğanın güzelliği ile dikkat çekmektedir. Aras Karasu Taşkın Ovası Sulak Alanı, doğa severler ve bilim insanları için bir cennet olarak kabul ediliyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu sulak alan, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.
+Aras Karasu Taşkın Ovası Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği bir yerdir. Bu alan, yaban hayatının çeşitliliği ve doğanın güzelliği ile dikkat çekmektedir. Aras Karasu Taşkın Ovası Sulak Alanı, doğa severler ve bilim insanları için bir cennet olarak kabul ediliyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu sulak alan, aynı zamanda bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Aras Karasu Taşkın Ovası Sulak Alanı, doğa severler ve bilim insanları iç
 ## İlginç Bilgiler
 
 - Aras Karasu Taşkın Ovası Sulak Alanı, İç Anadolu Bölgesi'nin en önemli sulak alanlarından biridir.
-- Sulak alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Sulak alan, aynı zamanda birçok kuş türünün yuvalanma alanı olarak da kabul ediliyor.
 - Aras Karasu Taşkın Ovası Sulak Alanı, bölgenin ekolojik dengesini korumak için önemli bir role sahiptir.

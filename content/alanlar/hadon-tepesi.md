@@ -28,7 +28,7 @@ wikidata_id: "Q31550535"
 
 # Hadon Tepesi
 
-Hadon Tepesi, Diyarbakır'ın görkemli manzaralarına ev sahipliği yapan bir nokta olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Hadon Tepesi, ziyaretçilerini tarihi ve doğal güzelliklerle dolu bir dünyaya davet ediyor. Tepenin eteklerinde bulunan yerleşim yerleri, bölgenin tarihi geçmişi hakkında önemli ipuçları sunuyor. Hadon Tepesi, her mevsim ziyaretçilerini ağırlayan ve onlara benzersiz bir deneyim sunan özel bir destinasyon.
+Hadon Tepesi, Diyarbakır'ın görkemli manzaralarına ev sahipliği yapan bir nokta olarak karşımıza çıkıyor. Hadon Tepesi, ziyaretçilerini tarihi ve doğal güzelliklerle dolu bir dünyaya davet ediyor. Tepenin eteklerinde bulunan yerleşim yerleri, bölgenin tarihi geçmişi hakkında önemli ipuçları sunuyor. Hadon Tepesi, her mevsim ziyaretçilerini ağırlayan ve onlara benzersiz bir deneyim sunan özel bir destinasyon.
 
 ## Tarihçe
 

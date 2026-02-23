@@ -1,7 +1,7 @@
 ---
 title: "Seyyit Velayet Türbesi"
 date: "2026-01-10T07:48:04.743Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391107"
 
 # Seyyit Velayet Türbesi
 
-Seyyit Velayet Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi türbe ve plajdır. Bu bölge, yaklaşık 140 hektarlık bir alan kapsar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Türbe ve plajın birleştiği bu nokta, hem dinî hem de doğal güzelliği bir araya getirmesiyle ziyaretçilerini etkilemektedir. Tarihi geçmişi ve doğal güzellikleri ile Seyyit Velayet Türbesi, İstanbul'un önemli turistik yerlerinden biridir.
+Seyyit Velayet Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi türbe ve plajdır. Türbe ve plajın birleştiği bu nokta, hem dinî hem de doğal güzelliği bir araya getirmesiyle ziyaretçilerini etkilemektedir. Tarihi geçmişi ve doğal güzellikleri ile Seyyit Velayet Türbesi, İstanbul'un önemli turistik yerlerinden biridir.
 
 ## Tarihçe
 

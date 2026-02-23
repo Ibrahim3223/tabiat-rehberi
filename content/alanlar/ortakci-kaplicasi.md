@@ -29,7 +29,7 @@ wikidata_id: "Q131738947"
 
 # Ortakçı Kaplıcası
 
-Ortakçı Kaplıcası, Ege Bölgesi'nin Aydın ilinin Buharkent ilçesinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Ortakçı Kaplıcası, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Bu özel mekan, hem doğa severler hem de sağlık turizmi açısından büyük önem taşımaktadır. Doğal güzelliği, ılıman iklimi ve şifalı suları ile Ortakçı Kaplıcası, yerli ve yabancı ziyaretçilerin ilgisini çekmektedir.
+Ortakçı Kaplıcası, Ege Bölgesi'nin Aydın ilinin Buharkent ilçesinde yer alan bir doğa harikasıdır. Ortakçı Kaplıcası, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Bu özel mekan, hem doğa severler hem de sağlık turizmi açısından büyük önem taşımaktadır. Doğal güzelliği, ılıman iklimi ve şifalı suları ile Ortakçı Kaplıcası, yerli ve yabancı ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 

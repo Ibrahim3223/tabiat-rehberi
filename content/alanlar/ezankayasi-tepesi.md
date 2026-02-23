@@ -28,7 +28,7 @@ wikidata_id: "Q31387163"
 
 # Ezankayası Tepesi
 
-Ezankayası Tepesi, Kastamonu'nun muhteşem manzarasına ev sahipliği yapan bir doğa harikası. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici bir güzelliğe davet ediyor. Bu tepe, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Ezankayası Tepesi, doğa severlerin ve gezginlerin ilgisini çeken bir yer olarak biliniyor. Bu tepe, Kastamonu'nun tarihi ve kültürel zenginliklerini de içinde barındırıyor.
+Ezankayası Tepesi, Kastamonu'nun muhteşem manzarasına ev sahipliği yapan bir doğa harikası. Bu tepe, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Ezankayası Tepesi, doğa severlerin ve gezginlerin ilgisini çeken bir yer olarak biliniyor. Bu tepe, Kastamonu'nun tarihi ve kültürel zenginliklerini de içinde barındırıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ezankayası Tepesi'nin tarihi geçmişi, Kastamonu'nun tarihinde önemli bir yer
 
 ## Coğrafya
 
-Ezankayası Tepesi, Kastamonu'nun merkezinde yer alıyor ve Karadeniz Bölgesi'nin en önemli coğrafik özellikleri arasında yer alıyor. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici bir güzelliğe davet ediyor. Ezankayası Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafyasına uygun olarak, ormanlık alanlar ve dağlık arazilerle çevrili. Bu tepe, Kastamonu'nun ikliminin de şekillenmesinde önemli bir rol oynuyor. Ezankayası Tepesi'nin coğrafyası, ziyaretçilerine çeşitli doğal güzellikler sunuyor.
+Ezankayası Tepesi, Kastamonu'nun merkezinde yer alıyor ve Karadeniz Bölgesi'nin en önemli coğrafik özellikleri arasında yer alıyor. Ezankayası Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafyasına uygun olarak, ormanlık alanlar ve dağlık arazilerle çevrili. Bu tepe, Kastamonu'nun ikliminin de şekillenmesinde önemli bir rol oynuyor. Ezankayası Tepesi'nin coğrafyası, ziyaretçilerine çeşitli doğal güzellikler sunuyor.
 
 ## Flora ve Fauna
 

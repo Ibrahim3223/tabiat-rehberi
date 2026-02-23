@@ -1,7 +1,7 @@
 ---
 title: "Demircili Yukarı Anıt Mezar"
 date: "2026-01-10T03:50:02.272Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728152"
 
 # Demircili Yukarı Anıt Mezar
 
-Demircili Yukarı Anıt Mezar, Mersin'in Silifke ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarih ve doğanın birleştiği bir ortama davet ediyor. Bu mezar, bölgenin tarihi geçmişi hakkında önemli ipuçları sunarken, aynı zamanda ziyaretçilere Akdeniz Bölgesi'nin güzelliklerini keşfetme fırsatı sunuyor. Demircili Yukarı Anıt Mezar, hem tarihi hem de doğal güzelliği ile dikkat çekiyor ve ziyaretçilerini büyülüyor.
+Demircili Yukarı Anıt Mezar, Mersin'in Silifke ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu mezar, bölgenin tarihi geçmişi hakkında önemli ipuçları sunarken, aynı zamanda ziyaretçilere Akdeniz Bölgesi'nin güzelliklerini keşfetme fırsatı sunuyor. Demircili Yukarı Anıt Mezar, hem tarihi hem de doğal güzelliği ile dikkat çekiyor ve ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Demircili Yukarı Anıt Mezar'ın tarihi geçmişi, Akdeniz Bölgesi'nin zengin 
 
 ## Coğrafya
 
-Demircili Yukarı Anıt Mezar, Mersin'in Silifke ilçesinde, Akdeniz Bölgesi'nin güzelliklerine sahip bir bölgede yer alıyor. Bu mezar, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi yapısı, ziyaretçilere geniş ve yeşil alanlar sunuyor. Demircili Yukarı Anıt Mezar'ın çevresinde, Akdeniz Bölgesi'nin karakteristik bitki türleri ve zengin fauna encontruluyor. Bu mezar, ziyaretçilerine bölgenin iklimini ve coğrafi özelliklerini keşfetme fırsatı sunarken, aynı zamanda Akdeniz Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekiyor. Silifke'nin tarihi ve doğal güzelliği, Demircili Yukarı Anıt Mezar'ın etrafındaki manzarayı daha da güzelleştiriyor ve ziyaretçilere unutulmaz bir deneyim sunuyor.
+Demircili Yukarı Anıt Mezar, Mersin'in Silifke ilçesinde, Akdeniz Bölgesi'nin güzelliklerine sahip bir bölgede yer alıyor. Bölgenin coğrafi yapısı, ziyaretçilere geniş ve yeşil alanlar sunuyor. Demircili Yukarı Anıt Mezar'ın çevresinde, Akdeniz Bölgesi'nin karakteristik bitki türleri ve zengin fauna encontruluyor. Bu mezar, ziyaretçilerine bölgenin iklimini ve coğrafi özelliklerini keşfetme fırsatı sunarken, aynı zamanda Akdeniz Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çekiyor. Silifke'nin tarihi ve doğal güzelliği, Demircili Yukarı Anıt Mezar'ın etrafındaki manzarayı daha da güzelleştiriyor ve ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

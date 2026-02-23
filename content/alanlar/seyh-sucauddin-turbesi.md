@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Şücaüddin Türbesi"
 date: "2026-01-10T07:36:32.003Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391246"
 
 # Şeyh Şücaüddin Türbesi
 
-Şeyh Şücaüddin Türbesi, Seyitgazi, Eskişehir'de yer alan tarihi ve doğal güzelliği ile dikkat çeken bir bölge. Bu alan, yaklaşık 140 hektarlık genişliğiyle, yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzelliği ve tarihi önemiyle ziyaretçilerini cezbeden bir yer. Bölge, yemyeşil ağaçları, çeşitli bitki türleri ve zengin fauna ile doğa severler için bir cennet. Ayrıca, tarihi türbe ve çevresi, ziyaretçilere hem dinlenme hem de kültürel bir deneyim sunuyor.
+Şeyh Şücaüddin Türbesi, Seyitgazi, Eskişehir'de yer alan tarihi ve doğal güzelliği ile dikkat çeken bir bölge. Doğal güzelliği ve tarihi önemiyle ziyaretçilerini cezbeden bir yer. Bölge, yemyeşil ağaçları, çeşitli bitki türleri ve zengin fauna ile doğa severler için bir cennet. Ayrıca, tarihi türbe ve çevresi, ziyaretçilere hem dinlenme hem de kültürel bir deneyim sunuyor.
 
 ## Tarihçe
 

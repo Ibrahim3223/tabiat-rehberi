@@ -28,7 +28,7 @@ wikidata_id: "Q31552280"
 
 # Dereşikefta Tepesi
 
-Dereşikefta Tepesi, Mardin'in güzide noktalarından biri olarak karşımıza çıkıyor. Güneydoğu Anadolu Bölgesi'nin bu önemli noktası, ziyaretçilerini doğal güzellikleri ile büyülüyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alan, ziyaretçilere geniş bir hareket alanı sunuyor. Dereşikefta Tepesi, Mardin'in tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleri ile de dikkat çekiyor. Bu tepe, bölgeye gelen ziyaretçilerin mutlaka görmesi gereken bir yer olarak öne çıkıyor.
+Dereşikefta Tepesi, Mardin'in güzide noktalarından biri olarak karşımıza çıkıyor. Güneydoğu Anadolu Bölgesi'nin bu önemli noktası, ziyaretçilerini doğal güzellikleri ile büyülüyor. Dereşikefta Tepesi, Mardin'in tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleri ile de dikkat çekiyor. Bu tepe, bölgeye gelen ziyaretçilerin mutlaka görmesi gereken bir yer olarak öne çıkıyor.
 
 ## Tarihçe
 

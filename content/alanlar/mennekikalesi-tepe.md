@@ -28,7 +28,7 @@ wikidata_id: "Q31390410"
 
 # Mennekikalesi Tepe
 
-Mennekikalesi Tepe, Konya'nın zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. İç Anadolu Bölgesi'nin önemli noktalarından biri olan Mennekikalesi Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri deneyimleme fırsatı sunuyor. Konya'nın merkezi konumunda bulunan bu tepe, şehrin önemli turizm noktalarından biri olarak kabul ediliyor.
+Mennekikalesi Tepe, Konya'nın zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. İç Anadolu Bölgesi'nin önemli noktalarından biri olan Mennekikalesi Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri deneyimleme fırsatı sunuyor. Konya'nın merkezi konumunda bulunan bu tepe, şehrin önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mennekikalesi Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu t
 
 ## Coğrafya
 
-Mennekikalesi Tepe, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. Bu tepe, Konya'nın şehrin merkezi konumunda bulunmakta ve bölgenin doğal güzelliklerini sunuyor. 140 hektarlık alan, tepeyi yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak tanımlıyor. Tepe, çeşitli bitki türleri ve zengin fauna ile çevrili. Coğrafi konumu itibariyle, Mennekikalesi Tepe, bölgenin iklimini ve doğal yapısını yansıtıyor. Tepe ve çevresinin coğrafi özellikleri, ziyaretçilere geniş bir perspektif sunuyor.
+Mennekikalesi Tepe, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiş. Bu tepe, Konya'nın şehrin merkezi konumunda bulunmakta ve bölgenin doğal güzelliklerini sunuyor. Tepe, çeşitli bitki türleri ve zengin fauna ile çevrili. Coğrafi konumu itibariyle, Mennekikalesi Tepe, bölgenin iklimini ve doğal yapısını yansıtıyor. Tepe ve çevresinin coğrafi özellikleri, ziyaretçilere geniş bir perspektif sunuyor.
 
 ## Flora ve Fauna
 

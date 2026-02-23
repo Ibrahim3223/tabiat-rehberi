@@ -1,7 +1,7 @@
 ---
 title: "Haceti Hafir Türbesi"
 date: "2026-01-10T07:24:06.341Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391063"
 
 # Haceti Hafir Türbesi
 
-Haceti Hafir Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan tarihi bir yapıdır. Bu önemli ziyaret noktası, Marmara Bölgesi'nin zengin tarihsel mirasının bir parçasıdır. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, tarihi yapılarla çevrilidir. Bu mekan, İstanbul'un tarihi geçmişini keşfetmek isteyenler için önemli bir uğrak noktasıdır. Haceti Hafir Türbesi, ziyaretçilerini İstanbul'un geçmişine bir yolculuğa çıkarır.
+Haceti Hafir Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan tarihi bir yapıdır. Bu önemli ziyaret noktası, Marmara Bölgesi'nin zengin tarihsel mirasının bir parçasıdır. Bu mekan, İstanbul'un tarihi geçmişini keşfetmek isteyenler için önemli bir uğrak noktasıdır. Haceti Hafir Türbesi, ziyaretçilerini İstanbul'un geçmişine bir yolculuğa çıkarır.
 
 ## Tarihçe
 

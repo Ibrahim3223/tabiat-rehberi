@@ -28,7 +28,7 @@ wikidata_id: "Q31386121"
 
 # Taşlıburun Tepe
 
-Taşlıburun Tepe, İzmir'in Ege Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir görüş açısı sunar. Taşlıburun Tepe, tarihi ve doğal güzellikleri ile bir araya getiren bir destinasyon olarak dikkat çeker. Bu tepe, aynı zamanda çevredeki köylerin ve kasabaların panoramik manzarasını sunar. Ziyaretçiler, burada hem tarihi hem de doğal güzellikleri keşfedebilir.
+Taşlıburun Tepe, İzmir'in Ege Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Taşlıburun Tepe, tarihi ve doğal güzellikleri ile bir araya getiren bir destinasyon olarak dikkat çeker. Bu tepe, aynı zamanda çevredeki köylerin ve kasabaların panoramik manzarasını sunar. Ziyaretçiler, burada hem tarihi hem de doğal güzellikleri keşfedebilir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390157"
 
 # Tuztaşı Tepe
 
-Tuztaşı Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarıyla karşılar. Doğa severler için bir cennet olan Tuztaşı Tepe, yürüyüş parkurları, piknik alanları ve eşsiz doğasıyla ziyaretçilerini bekliyor. Burada, doğal güzelliklerin yanı sıra tarihi geçmişi de keşfedebilirsiniz.
+Tuztaşı Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Doğa severler için bir cennet olan Tuztaşı Tepe, yürüyüş parkurları, piknik alanları ve eşsiz doğasıyla ziyaretçilerini bekliyor. Burada, doğal güzelliklerin yanı sıra tarihi geçmişi de keşfedebilirsiniz.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Mekteb-i Tıbbiye-i Şahane Hamamı"
 date: "2026-01-09T22:55:44.859Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738599"
 
 # Mekteb-i Tıbbiye-i Şahane Hamamı
 
-Mekteb-i Tıbbiye-i Şahane Hamamı, Üsküdar'da yer alan ve tarihi ile doğal güzelliğinin birleştiği bir mekandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli doğal ve tarihi mekanlarından biridir. Bu mekan, hemi geçmişinin hem de doğal güzelliğinin birleştiği bir noktada yer alır. Üsküdar'ın kalbinde bulunan Mekteb-i Tıbbiye-i Şahane Hamamı, ziyaretçilerini tarihi ve doğal güzelliği ile büyüler.
+Mekteb-i Tıbbiye-i Şahane Hamamı, Üsküdar'da yer alan ve tarihi ile doğal güzelliğinin birleştiği bir mekandır. Bu mekan, hemi geçmişinin hem de doğal güzelliğinin birleştiği bir noktada yer alır. Üsküdar'ın kalbinde bulunan Mekteb-i Tıbbiye-i Şahane Hamamı, ziyaretçilerini tarihi ve doğal güzelliği ile büyüler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mekteb-i Tıbbiye-i Şahane Hamamı'nın tarihi geçmişi, Osmanlı İmparatorlu
 
 ## Coğrafya
 
-Mekteb-i Tıbbiye-i Şahane Hamamı, Üsküdar'ın kalbinde yer alan bir mekan olup, Marmara Bölgesi'nin en önemli coğrafi noktalarından biridir. Bu mekan, 140 hektarlık bir alanda yer alır ve yaklaşık 200 futbol sahası büyüklüğündedir. Mekteb-i Tıbbiye-i Şahane Hamamı'nın coğrafi konumu, ziyaretçilerine doğal güzelliğin tüm renklerini sunar. Üsküdar'ın şehir merkezinde yer alan bu hamam, ziyaretçilerini coğrafi güzelliği ile etkiler. Marmara Bölgesi'nin iklimi, bu mekanı ziyaret etmek için idealdir. Mekteb-i Tıbbiye-i Şahane Hamamı, coğrafi konumu ile ziyaretçilerini doğal güzelliğin tüm olanaklarına sahip bir mekan olarak sunar.
+Mekteb-i Tıbbiye-i Şahane Hamamı, Üsküdar'ın kalbinde yer alan bir mekan olup, Marmara Bölgesi'nin en önemli coğrafi noktalarından biridir. Mekteb-i Tıbbiye-i Şahane Hamamı'nın coğrafi konumu, ziyaretçilerine doğal güzelliğin tüm renklerini sunar. Üsküdar'ın şehir merkezinde yer alan bu hamam, ziyaretçilerini coğrafi güzelliği ile etkiler. Marmara Bölgesi'nin iklimi, bu mekanı ziyaret etmek için idealdir. Mekteb-i Tıbbiye-i Şahane Hamamı, coğrafi konumu ile ziyaretçilerini doğal güzelliğin tüm olanaklarına sahip bir mekan olarak sunar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Mekteb-i Tıbbiye-i Şahane Hamamı, ziyaretçilerine çeşitli olanaklar sunar.
 
 - Mekteb-i Tıbbiye-i Şahane Hamamı, Üsküdar'ın en önemli tarihi mekanlarından biridir.
 - Bu mekan, 140 hektarlık bir alanda yer alır.
-- Mekteb-i Tıbbiye-i Şahane Hamamı, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bu mekan, Marmara Bölgesi'nin en önemli coğrafi noktalarından biridir.
 - Mekteb-i Tıbbiye-i Şahane Hamamı, ziyaretçilerine doğal güzelliğin tüm olanaklarını sunar.

@@ -48,9 +48,9 @@ Mevsimsel değişiklikler açısından, Gövük Tepe'nin iklim karakteri, bölge
 
 ## Flora ve Fauna
 
-Gövük Tepe, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü: İlkbaharda, alpin çayırlar renkli çiçeklerle kaplanır. Yaz aylarında, yükseklik zonlarına göre değişen flora çeşitliliği dikkat çeker. 
-Yaban Hayatı: Dağ keçileri, yaban keçileri ve ayılar bu bölgenin önemli memeli hayvanlarıdır. Kuşlar arasında, kartallar ve doğanlarda görülebilir. 
+Gövük Tepe, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü: İlkbaharda, alpin çayırlar renkli çiçeklerle kaplanır. Yaz aylarında, yükseklik zonlarına göre değişen flora çeşitliliği dikkat çeker.
+Yaban Hayatı: Dağ keçileri, yaban keçileri ve ayılar bu bölgenin önemli memeli hayvanlarıdır. Kuşlar arasında, kartallar ve doğanlarda görülebilir.
 Ekolojik Değer: Bu yüksek dağ ekosistemi, endemik türlerin yaşam alanıdır ve koruma altına alınmıştır. Mevsimsel değişimlerle, göçmen kuşların geçiş güzergahında önemli bir duraktır.
 
 ## Ziyaret Bilgileri

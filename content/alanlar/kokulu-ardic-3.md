@@ -23,15 +23,15 @@ wikidata_id: "Q108228072"
 
 # Kokulu Ardic 3
 
-Kokulu Ardic 3, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil cennet, ziyaretçilerini doğanın kucağına davet ediyor. Bu alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Kokulu Ardic 3, doğa severlerin ve macera arayanların buluşma noktası olarak dikkat çekiyor.
+Kokulu Ardic 3, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz. Kokulu Ardic 3, doğa severlerin ve macera arayanların buluşma noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 
-Kokulu Ardic 3'ün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, uzun yıllar boyunca insanların yaşadığı ve doğayla iç içe olduğu bir yer olarak bilinir. Tarihi kayıtlar, bu bölgenin zengin bir ekosisteme sahip olduğunu ve insanların burada yaşamlarını sürdürdüklerini gösterir. Ancak, bir kuruluş tarihi bulunmuyor. Buna rağmen, Kokulu Ardic 3, ziyaretçilerini tarihin sâu sayfalarına götürmeyi vaat ediyor.
+Kokulu Ardic 3'ün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, uzun yıllar boyunca insanların yaşadığı ve doğayla iç içe olduğu bir yer olarak bilinir. Tarihi kayıtlar, bu bölgenin zengin bir ekosisteme sahip olduğunu ve insanların burada yaşamlarını sürdürdüklerini gösterir. Ancak, bir kuruluş tarihi bulunmuyor. Buna rağmen, Kokulu Ardic 3, ziyaretçilerini tarihin derin sayfalarına götürmeyi vaat ediyor.
 
 ## Coğrafya
 
-Kokulu Ardic 3, İç Anadolu Bölgesi'nin coğrafi yapısında önemli bir yer tutar. Bu bölgenin coğrafyası, dağlar, ovalar ve akarsularla çevrili bir alan olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilere geniş bir doğa alanı sunuyor. İklim, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler, bu bölgenin güzelliğini daha da artırıyor. Çevre, zengin bir flora ve fauna ile dolu ve bu, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Kokulu Ardic 3, İç Anadolu Bölgesi'nin coğrafi yapısında önemli bir yer tutar. Bu bölgenin coğrafyası, dağlar, ovalar ve akarsularla çevrili bir alan olarak dikkat çekiyor. İklim, karasal iklim özellikleri gösteriyor ve mevsimsel değişimler, bu bölgenin güzelliğini daha da artırıyor. Çevre, zengin bir flora ve fauna ile dolu ve bu, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

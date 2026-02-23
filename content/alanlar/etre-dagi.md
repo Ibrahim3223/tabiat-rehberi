@@ -33,9 +33,9 @@ Burdur'un doğal güzelliklerinin arasında yer alan Etre Dağı, doğa severler
 
 ## Tarihçe
 
-Burdur bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu topraklar, Lidyalılar, Persler, Romalılar ve Osmanlılar gibi uygarlıkların izlerini taşıyan bir geçmişe sahiptir. Etre Dağı da, bu bölgenin doğal güzelliklerinin önemli bir parçasını oluşturur. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yerleşim, tarım ve hayvancılık faaliyetleri için önemli merkezler olmuşlardır. Bu bölgeler, aynı zamanda ticaret yollarının kesişme noktaları olarak da görev görmüşlerdir.
+Burdur bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu topraklar, Lidyalılar, Persler, Romalılar ve Osmanlılar gibi uygarlıkların izlerini taşıyan bir geçmişe sahiptir. Etre Dağı da, bu bölgenin doğal güzelliklerinin önemli bir parçasını oluşturur. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yerleşim, tarım ve hayvancılık faaliyetleri için önemli merkezler olmuşlardır. Bu bölgeler, aynı zamanda ticaret yollarının kesişme noktaları olarak da görev görmüşlerdir.
 
-İnsanların Etre Dağı ile ilişkisi, bölgenin coğrafi konumu nedeniyle yaylacılık ve hayvancılıkla sâu bağlantılıdır. Bölge, yüksek otlaklarıyla ve elverişli iklimiyle, çobanların ve hayvanlarını otlatanların tercih ettiği bir yer olmuştur. Ayrıca, Etre Dağı'nın eteklerinde ve çevresinde, tarihi ticaret yollarının geçtiği bilinmektedir. Bu yollar, bölgenin ekonomi ve kültürel gelişimine önemli katkılar sağlamışlardır. Etre Dağı, Burdur'un doğal ve tarihsel zenginliklerinin bir parçası olarak, ziyaretçilerini bu sâu geçmişe davet ediyor.
+İnsanların Etre Dağı ile ilişkisi, bölgenin coğrafi konumu nedeniyle yaylacılık ve hayvancılıkla derin bağlantılıdır. Bölge, yüksek otlaklarıyla ve elverişli iklimiyle, çobanların ve hayvanlarını otlatanların tercih ettiği bir yer olmuştur. Ayrıca, Etre Dağı'nın eteklerinde ve çevresinde, tarihi ticaret yollarının geçtiği bilinmektedir. Bu yollar, bölgenin ekonomi ve kültürel gelişimine önemli katkılar sağlamışlardır. Etre Dağı, Burdur'un doğal ve tarihsel zenginliklerinin bir parçası olarak, ziyaretçilerini bu derin geçmişe davet ediyor.
 
 ## Coğrafya
 
@@ -49,9 +49,9 @@ Mevsimsel açıdan, Etre Dağı'nın iklim karakteri quite değişken. Kış ayl
 
 ## Flora ve Fauna
 
-Etre Dağı, Burdur'un görkemli dağ silueti, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, maki bitki örtüsü çiçekleriyle renklendirir. Dağın yükseklik zonlarında, alpin flora kendine has bir güzellik sunar. 
+Etre Dağı, Burdur'un görkemli dağ silueti, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, maki bitki örtüsü çiçekleriyle renklendirir. Dağın yükseklik zonlarında, alpin flora kendine has bir güzellik sunar.
 
-Kuraklığa dayanıklı türler, bu bölgenin karakteristiğidir. Kıyı ekosisteminin etkisi, dağ ekosisteminde de hissedilir. Mevsimsel değişimlerle birlikte, göçmen kuşlar sonbaharda dağları ziyaret eder. 
+Kuraklığa dayanıklı türler, bu bölgenin karakteristiğidir. Kıyı ekosisteminin etkisi, dağ ekosisteminde de hissedilir. Mevsimsel değişimlerle birlikte, göçmen kuşlar sonbaharda dağları ziyaret eder.
 
 Dağın yaban hayatı, çeşitli memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri, kaya yamaçlarında dolaşırken, kartallar gökyüzünde süzülür. Bu dağ ekosisteminin korunması, bölgenin doğal dengesini korumak açısından büyük önem taşır.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34819568"
 
 # Çobanöldüren Tepesi
 
-Ankara'nın merkezinde, şehrin gürültüsünden ve kalabalığından uzaklaşarak doğanın güzelliğini deneyimlemek isteyenler için ideal bir nokta olan Çobanöldüren Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Çobanöldüren Tepesi, hem Ankara'nın panoramik manzarasını izlemek hem de doğa yürüyüşü yapmak için tercih edilen bir yer.
+Ankara'nın merkezinde, şehrin gürültüsünden ve kalabalığından uzaklaşarak doğanın güzelliğini deneyimlemek isteyenler için ideal bir nokta olan Çobanöldüren Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Çobanöldüren Tepesi, hem Ankara'nın panoramik manzarasını izlemek hem de doğa yürüyüşü yapmak için tercih edilen bir yer.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q97209363"
 
 # Çağlayandibi Şelalesi
 
-Gümüşhane ilinin merkezinde yer alan Çağlayandibi Şelalesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan içinde yer alır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir doğa alanı sunar. Şelalenin etrafında bulunan ağaçlar ve bitki türleri, ziyaretçilere doğayla iç içe bir deneyim sunar. Çağlayandibi Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+Gümüşhane ilinin merkezinde yer alan Çağlayandibi Şelalesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan içinde yer alır. Şelalenin etrafında bulunan ağaçlar ve bitki türleri, ziyaretçilere doğayla iç içe bir deneyim sunar. Çağlayandibi Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 

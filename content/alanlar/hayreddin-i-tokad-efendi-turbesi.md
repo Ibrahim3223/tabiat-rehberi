@@ -1,7 +1,7 @@
 ---
 title: "Hayreddin-i Tokadî Efendi Türbesi"
 date: "2026-01-10T05:27:24.149Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391690"
 
 # Hayreddin-i Tokadî Efendi Türbesi
 
-Hayreddin-i Tokadî Efendi Türbesi, Bolu'nun merkezinde yer alan ve ziyaretçilerini tarihin derinliklerine götüren bir mekan. 140 hektarlık bir alanda konumlanan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tarihi geçmişi ile dikkat çeken bu türbe, aynı zamanda doğa severlerin de ilgisini çekiyor. Ziyaretçiler, bu mekanın zengin tarihi ve doğal güzelliklerini keşfetme fırsatı buluyor.
+Hayreddin-i Tokadî Efendi Türbesi, Bolu'nun merkezinde yer alan ve ziyaretçilerini tarihin derinliklerine götüren bir mekan. Tarihi geçmişi ile dikkat çeken bu türbe, aynı zamanda doğa severlerin de ilgisini çekiyor. Ziyaretçiler, bu mekanın zengin tarihi ve doğal güzelliklerini keşfetme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hayreddin-i Tokadî Efendi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca ş
 
 ## Coğrafya
 
-Hayreddin-i Tokadî Efendi Türbesi, Bolu'nun coğrafi güzellikleri arasında yer alıyor. Türbe, şehrin merkezinde yer alan bir tepe üzerinde konumlanıyor ve etrafını çevreleyen ormanlık alanlar ile birlikte doğal bir güzellik sunuyor. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik özellikleri taşıyor ve ziyaretçilere dört mevsim farklı deneyimler sunuyor. Kışın karla örtünen tepeler, ilkbaharda yeşeren ormanlar, yazın serin ve ferah bir hava, sonbaharda ise renk cümbüşü ile dolu bir manzara sunuyor. Bu mekan, doğa severler için bir cennet olarak görülüyor ve ziyaretçilerine unutulmaz anlar yaşatıyor.
+Hayreddin-i Tokadî Efendi Türbesi, Bolu'nun coğrafi güzellikleri arasında yer alıyor. Türbe, şehrin merkezinde yer alan bir tepe üzerinde konumlanıyor ve etrafını çevreleyen ormanlık alanlar ile birlikte doğal bir güzellik sunuyor. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik özellikleri taşıyor ve ziyaretçilere dört mevsim farklı deneyimler sunuyor. Kışın karla örtünen tepeler, ilkbaharda yeşeren ormanlar, yazın serin ve ferah bir hava, sonbaharda ise renk cümbüşü ile dolu bir manzara sunuyor.
 
 ## Flora ve Fauna
 

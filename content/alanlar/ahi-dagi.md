@@ -32,11 +32,11 @@ Bilecik'in tarihi ve doğal güzellikleriyle ünlü bir bölgesinde yer alan Ah�
 
 ## Tarihçe
 
-Bilecik'in doğal güzelliklerine ev sahipliği yapan Ahı Dağı, tarihin sâu izlerini taşıyan bir bölge içinde yer alır. Bilecik, históriktaki önemli uygarlıkların izlerini taşıyan bir bölgedir. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve her biri bölgenin kültürel ve tarihsel dokusuna katkıda bulunmuştur.
+Bilecik'in doğal güzelliklerine ev sahipliği yapan Ahı Dağı, tarihin derin izlerini taşıyan bir bölge içinde yer alır. Bilecik, tarihi önemli uygarlıkların izlerini taşıyan bir bölgedir. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler, bu topraklarda yaşamış ve her biri bölgenin kültürel ve tarihsel dokusuna katkıda bulunmuştur.
 
 Ahı Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliklerinin önemli bir parçasıdır. Bu tür alanlar, insanların yaşamlarında önemli roller oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal güzelliklerle olan ilişkisini şekillendirmiştir. Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alması, Ahı Dağı'nın çevresindeki yerleşimlerin gelişimine katkıda bulunmuştur.
 
-Bilecik'in tarihi dokusu, Ahı Dağı'nın doğal güzelliği ile bir araya gelerek, ziyaretçilere zengin bir deneyim sunar. Bu bölge, tarihin sâu izlerini taşıyan bir coğrafyanın, doğal güzelliklerle iç içe geçtiği bir alanı keşfetme fırsatı sunar.
+Bilecik'in tarihi dokusu, Ahı Dağı'nın doğal güzelliği ile bir araya gelerek, ziyaretçilere zengin bir deneyim sunar. Bu bölge, tarihin derin izlerini taşıyan bir coğrafyanın, doğal güzelliklerle iç içe geçtiği bir alanı keşfetme fırsatı sunar.
 
 ## Coğrafya
 

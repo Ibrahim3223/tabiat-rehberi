@@ -30,7 +30,7 @@ wikidata_id: "Q1085952"
 
 # Miniatürk
 
-Miniatürk, 15 Nisan 2003 tarihinde açılan ve İstanbul'un en büyük minyatür parkı olan bir turizm merkezidir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve içerisinde 120'den fazla tarihi ve kültürel yapıyı barındırmaktadır. Bu yapılar, Türkiye'nin çeşitli bölgelerinden seçilmiş ve orijinallerine uygun şekilde tasarlanmıştır. Park, ziyaretçilere tarihin ve kültürün zenginliğini sunarken, aynı zamanda eğlenceli ve interaktif bir deneyim sunar. Miniatürk'ün amacı, Türkiye'nin mimari ve kültürel mirasını koruma ve tanıtmaktır.
+Miniatürk, 15 Nisan 2003 tarihinde açılan ve İstanbul'un en büyük minyatür parkı olan bir turizm merkezidir. Bu yapılar, Türkiye'nin çeşitli bölgelerinden seçilmiş ve orijinallerine uygun şekilde tasarlanmıştır. Park, ziyaretçilere tarihin ve kültürün zenginliğini sunarken, aynı zamanda eğlenceli ve interaktif bir deneyim sunar. Miniatürk'ün amacı, Türkiye'nin mimari ve kültürel mirasını koruma ve tanıtmaktır.
 
 ## Tarihçe
 

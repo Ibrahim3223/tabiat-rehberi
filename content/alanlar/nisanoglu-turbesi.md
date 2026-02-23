@@ -1,7 +1,7 @@
 ---
 title: "Nisanoğlu Türbesi"
 date: "2026-01-10T05:32:15.560Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391663"
 
 # Nisanoğlu Türbesi
 
-Nisanoğlu Türbesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinin Eğilçesinde bulunmaktadır. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir arazide yer alan bu tarihi mekan, ziyaretçilerini tarihin derinliklerine götürmektedir. Nisanoğlu Türbesi, tarihi geçmişi ve kültürel önemi ile dikkat çekmektedir. Bu mekan, bölgenin en önemli tarihi mekanlarından biri olarak kabul edilmektedir.
+Nisanoğlu Türbesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinin Eğilçesinde bulunmaktadır. Nisanoğlu Türbesi, tarihi geçmişi ve kültürel önemi ile dikkat çekmektedir. Bu mekan, bölgenin en önemli tarihi mekanlarından biri olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Nisanoğlu Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu tarihsel mekan
 
 ## Coğrafya
 
-Nisanoğlu Türbesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinin Eğilçesinde yer almaktadır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunmaktadır. Nisanoğlu Türbesi, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir arazide yer almaktadır. Bu mekan, çevre tarafından kuşatılan bir tepe üzerinde yer almaktadır ve manzarası ile dikkat çekmektedir. Nisanoğlu Türbesi'nin coğrafi konumu, ziyaretçilerin bölge hakkında daha fazla bilgi edinmesine olanak tanımaktadır. Bu mekan, coğrafi olarak zengin bir bölgeye kurulmuştur ve ziyaretçilerini tarihin derinliklerine götürmektedir.
+Nisanoğlu Türbesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinin Eğilçesinde yer almaktadır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunmaktadır. Bu mekan, çevre tarafından kuşatılan bir tepe üzerinde yer almaktadır ve manzarası ile dikkat çekmektedir. Nisanoğlu Türbesi'nin coğrafi konumu, ziyaretçilerin bölge hakkında daha fazla bilgi edinmesine olanak tanımaktadır. Bu mekan, coğrafi olarak zengin bir bölgeye kurulmuştur ve ziyaretçilerini tarihin derinliklerine götürmektedir.
 
 ## Flora ve Fauna
 

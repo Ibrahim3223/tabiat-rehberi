@@ -51,7 +51,7 @@ Mevsimsel olarak bakıldığında, Arap Adaları, Ege Bölgesi'nin ılıman ikli
 
 ## Flora ve Fauna
 
-Arap Adaları, İzmir'in kıyılarında yer alan bir ada grubudur. Bu adaların flora ve faunası, Akdeniz ikliminin etkilerini taşır. 
+Arap Adaları, İzmir'in kıyılarında yer alan bir ada grubudur. Bu adaların flora ve faunası, Akdeniz ikliminin etkilerini taşır.
 
 Bitki Örtüsü olarak, adaları çam ormanları ve zeytinlikler kaplar. İlkbahar mevsiminde, ada çiçeklerle donanır ve rengarenk bir görünüm sunar. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler bulunur.
 

@@ -1,7 +1,7 @@
 ---
 title: "İnadiye Baba Türbesi"
 date: "2026-01-10T06:41:27.614Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,19 +29,19 @@ wikidata_id: "Q134735154"
 
 # İnadiye Baba Türbesi
 
-İnadiye Baba Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin güzide bir noktasında yer alıyor. Bu tarihi plaj ve türbe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. İnadiye Baba Türbesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbediyor. Plajın etrafı, çeşitli ağaçlarla çevrili ve bu ağaçlar, plaja doğal bir gölge sağlıyor.
+İnadiye Baba Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin güzide bir noktasında yer alıyor. Bu tarihi plaj ve türbe, yaklaşık 140 hektarlık bir alanı kaplıyor. İnadiye Baba Türbesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini cezbediyor. Plajın etrafı, çeşitli ağaçlarla çevrili ve bu ağaçlar, plaja doğal bir gölge sağlıyor.
 
 ## Tarihçe
 
-İnadiye Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tarihi mekan, İstanbul'un fethinden önce de var olan önemli bir nokta olarak biliniyor. İnadiye Baba Türbesi, zaman içinde çeşitli restorasyonlar geçirmiş ve günümüzde de tarihi önemini koruyor. Türbenin etrafındaki plaj, ziyaretçilerin dinlenip, doğayı seyretmesine olanak sağlıyor. İnadiye Baba Türbesi, İstanbul'un tarihi mekanlarından biri olarak ziyaretçilerini bekliyor. Tarihi geçmişi ve doğal güzelliği ile, bu mekan, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+İnadiye Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tarihi mekan, İstanbul'un fethinden önce de var olan önemli bir nokta olarak biliniyor. İnadiye Baba Türbesi, zaman içinde çeşitli restorasyonlar geçirmiş ve günümüzde de tarihi önemini koruyor. Türbenin etrafındaki plaj, ziyaretçilerin dinlenip, doğayı seyretmesine olanak sağlıyor. İnadiye Baba Türbesi, İstanbul'un tarihi mekanlarından biri olarak ziyaretçilerini bekliyor.
 
 ## Coğrafya
 
-İnadiye Baba Türbesi, Marmara Bölgesi'nin güzide bir noktasında yer alıyor. Bu bölge, doğal güzelliği ile ünlü ve ziyaretçilerini cezbediyor. Plajın etrafı, çeşitli ağaçlarla çevrili ve bu ağaçlar, plaja doğal bir gölge sağlıyor. İnadiye Baba Türbesi'nin coğrafi konumu, ziyaretçilerine birçok olanak sağlıyor. Plaj, denize sıfır bir konumda ve ziyaretçileri, denizin güzelliği ile baş başa bırakıyor. İnadiye Baba Türbesi, İstanbul'un tarihi ve doğal güzelliği ile ziyaretçilerini bekliyor. Coğrafi konumu, ziyaretçilerine birçok olanak sağlıyor ve bu mekan, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+İnadiye Baba Türbesi, Marmara Bölgesi'nin güzide bir noktasında yer alıyor. Bu bölge, doğal güzelliği ile ünlü ve ziyaretçilerini cezbediyor. Plajın etrafı, çeşitli ağaçlarla çevrili ve bu ağaçlar, plaja doğal bir gölge sağlıyor. İnadiye Baba Türbesi'nin coğrafi konumu, ziyaretçilerine birçok olanak sağlıyor. Plaj, denize sıfır bir konumda ve ziyaretçileri, denizin güzelliği ile baş başa bırakıyor. İnadiye Baba Türbesi, İstanbul'un tarihi ve doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
-İnadiye Baba Türbesi'nin etrafı, çeşitli bitkiler ve ağaçlarla çevrili. Bu bitkiler, plaja doğal bir güzellik katıyor ve ziyaretçileri, doğanın güzelliği ile baş başa bırakıyor. İnadiye Baba Türbesi, zengin fauna yapısıyla da dikkat çekiyor. Plajın etrafında, çeşitli kuş türleri ve diğer canlılar yaşiyor. İnadiye Baba Türbesi, doğa severlerin ziyaret edebileceği önemli bir mekan olarak biliniyor. Zengin flora ve fauna yapısı, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+İnadiye Baba Türbesi'nin etrafı, çeşitli bitkiler ve ağaçlarla çevrili. Bu bitkiler, plaja doğal bir güzellik katıyor ve ziyaretçileri, doğanın güzelliği ile baş başa bırakıyor. İnadiye Baba Türbesi, zengin fauna yapısıyla da dikkat çekiyor. Plajın etrafında, çeşitli kuş türleri ve diğer canlılar yaşiyor. İnadiye Baba Türbesi, doğa severlerin ziyaret edebileceği önemli bir mekan olarak biliniyor.
 
 ## Ziyaret Bilgileri
 

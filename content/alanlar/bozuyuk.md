@@ -23,7 +23,7 @@ wikidata_id: "Q108228733"
 
 # BOZUYUK
 
-Bozüyük, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal cennet, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve doğanın sükunetine davet etmeye hazır. Bozüyük'ün hikayesi, bölgenin coğrafi özellikleriyle iç içe geçmiş durumda. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle kaplı ve yaban hayatının zenginliğini sunuyor.
+ Bu doğal cennet, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve doğanın sükunetine davet etmeye hazır. Bozüyük'ün hikayesi, bölgenin coğrafi özellikleriyle iç içe geçmiş durumda. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle kaplı ve yaban hayatının zenginliğini sunuyor.
 
 ## Tarihçe
 

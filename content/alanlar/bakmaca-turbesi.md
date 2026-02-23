@@ -1,7 +1,7 @@
 ---
 title: "Bakmaca Türbesi"
 date: "2026-01-10T05:34:21.285Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391367"
 
 # Bakmaca Türbesi
 
-Bakmaca Türbesi, İnegöl'ün en güzel plajlarından biri olarak dikkat çekiyor. İnegöl'ün merkezine uzun bir mesafe uzaklıkta bulunan bu plaj, Marmara Bölgesi'nin gizli cennetlerinden biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahiptir. Bu plaj, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor. Bakmaca Türbesi, hem doğanın güzelliğini hem de tarihi zenginliği bir arada sunan özel bir destinasyon.
+Bakmaca Türbesi, İnegöl'ün en güzel plajlarından biri olarak dikkat çekiyor. İnegöl'ün merkezine uzun bir mesafe uzaklıkta bulunan bu plaj, Marmara Bölgesi'nin gizli cennetlerinden biri olarak bilinir. Bu plaj, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor. Bakmaca Türbesi, hem doğanın güzelliğini hem de tarihi zenginliği bir arada sunan özel bir destinasyon.
 
 ## Tarihçe
 

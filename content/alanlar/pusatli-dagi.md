@@ -28,7 +28,7 @@ wikidata_id: "Q31508417"
 
 # Pusatlı Dağı
 
-Mersin'in dağlık bölgeleri, Türkiye'nin en önemli coğrafi oluşumlarından biri. Bu bölgede yer alan Pusatlı Dağı, şehrin doğal güzelliklerini keşfetmek isteyenler için bir hedef noktası. Mersin'in zengin florası ve faunası, Pusatlı Dağı'nın eteklerinde yaşam buluyor. 
+Mersin'in dağlık bölgeleri, Türkiye'nin en önemli coğrafi oluşumlarından biri. Bu bölgede yer alan Pusatlı Dağı, şehrin doğal güzelliklerini keşfetmek isteyenler için bir hedef noktası. Mersin'in zengin florası ve faunası, Pusatlı Dağı'nın eteklerinde yaşam buluyor.
 Dağ, Mersin'in ilçeleri arasında bulunan bir nokta.
 
 ## Tarihçe
@@ -51,11 +51,11 @@ Pusatlı Dağı, çevresindeki diğer dağlarla birlikte, geniş bir ekosistem a
 
 ## Flora ve Fauna
 
-Pusatlı Dağı, Mersin'in zengin flora ve faunasına ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Pusatlı Dağı, Mersin'in zengin flora ve faunasına ev sahipliği yapan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünden başlarsak, Pusatlı Dağı'nın hakim türleri arasında kuraklığa dayanıklı maki bitki örtüsü öne çıkıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Sonbaharın yaklaşmasıyla birlikte, göçmen kuşlar bu bölgeden geçiş yapıyor.
 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler dağ ekosisteminin önemli bileşenleri. Dağın yükseklik zonalarında, alpin flora ve dağ hayvanları gibi özel türler yaşamlarını sürdürüyor. 
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler dağ ekosisteminin önemli bileşenleri. Dağın yükseklik zonalarında, alpin flora ve dağ hayvanları gibi özel türler yaşamlarını sürdürüyor.
 
 Ekolojik Değer bölümünde, Pusatlı Dağı'nın neden önemli olduğu ve koruma durumu ele alınıyor. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin ekolojik dengesi için de çok önemli.
 

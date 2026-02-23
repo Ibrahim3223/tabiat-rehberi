@@ -29,7 +29,7 @@ wikidata_id: "Q134728257"
 
 # Gazitepe Anıtı
 
-Gazitepe Anıtı, Ankara'nın Polatlı ilçesinde yer alan ve tarihin sayfalarında önemli bir yer tutan bir tarihi alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin sâu sayfalarına götürmeyi vaat ediyor. Gazitepe Anıtı, özellikle tarih meraklıları ve gezi severler için önemli bir destinasyon olarak dikkat çekiyor. Bu tarihi alan, İç Anadolu Bölgesi'nin coğrafi güzelliğini ve tarihi zenginliğini bir araya getirmesiyle ziyaretçilerini bekliyor.
+Gazitepe Anıtı, Ankara'nın Polatlı ilçesinde yer alan ve tarihin sayfalarında önemli bir yer tutan bir tarihi alandır. Gazitepe Anıtı, özellikle tarih meraklıları ve gezi severler için önemli bir destinasyon olarak dikkat çekiyor. Bu tarihi alan, İç Anadolu Bölgesi'nin coğrafi güzelliğini ve tarihi zenginliğini bir araya getirmesiyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228480"
 
 # Isparta-Egirdir-Boylu Ardic
 
-Isparta-Egirdir-Boylu Ardic milli parkı, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Isparta'nın doğal güzellikleri arasında yer alan bu milli park, ziyaretçilerini kendisine hayran bırakıyor. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkün. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler için bir cennet gibidir.
+Isparta-Egirdir-Boylu Ardic milli parkı, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. Isparta'nın doğal güzellikleri arasında yer alan bu milli park, ziyaretçilerini kendisine hayran bırakıyor. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkün. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler için bir cennet gibidir.
 
 ## Tarihçe
 

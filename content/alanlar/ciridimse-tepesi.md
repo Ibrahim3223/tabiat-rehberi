@@ -28,7 +28,7 @@ wikidata_id: "Q31386737"
 
 # Ciridimse Tepesi
 
-Ciridimse Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Ciridimse Tepesi, ziyaretçilerine şehrin panoramik manzarasını sunuyor. Tepenin eteklerinde bulunan tarihi yapılar ve doğal güzellikler, burayı ziyaret etmek için yeterli nedenler. Ciridimse Tepesi, doğa ve tarih severlerin uğrak noktalarından biri.
+Ciridimse Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon. Ciridimse Tepesi, ziyaretçilerine şehrin panoramik manzarasını sunuyor. Tepenin eteklerinde bulunan tarihi yapılar ve doğal güzellikler, burayı ziyaret etmek için yeterli nedenler. Ciridimse Tepesi, doğa ve tarih severlerin uğrak noktalarından biri.
 
 ## Tarihçe
 

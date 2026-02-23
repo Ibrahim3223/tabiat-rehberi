@@ -30,7 +30,7 @@ wikidata_id: "Q20470439"
 
 # Aqua Vega
 
-Aqua Vega, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Mamak ilçesinde yer alan bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Aqua Vega, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda su sporları ve diğer aktivitelere de olanak tanır. Bu güzel plaj, hem Ankara'nın hem de yakın çevresinin önemli bir turizm merkezi olarak öne çıkıyor.
+Aqua Vega, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Mamak ilçesinde yer alan bir plajdır. Aqua Vega, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda su sporları ve diğer aktivitelere de olanak tanır. Bu güzel plaj, hem Ankara'nın hem de yakın çevresinin önemli bir turizm merkezi olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Aqua Vega'nın tarihi geçmişi, yüzyıllar boyunca bölgenin jeoloji ve coğra
 
 ## Coğrafya
 
-Aqua Vega, Mamak, Ankara'da yer alır ve coğrafi olarak İç Anadolu Bölgesi'nin merkezi bir noktasındadır. Bu bölge, genellikle karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Aqua Vega, bu coğrafi koşulların arasında, şehrin merkezinden uzakta, doğayla iç içe bir konumda yer alır. Plajın etrafı, çeşitli bitki türleriyle kaplı ve bu, ziyaretçilere zengin bir flora sunar. Ayrıca, Aqua Vega'nın su kaynakları, bölgenin hidrolojik özelliklerini yansıtır ve su sporları için ideal koşullar sağlar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir faaliyet alanı sağlar. Aqua Vega'nın coğrafi konumu ve özellikleri, onu Ankara'nın önemli bir doğa merkezi haline getirir.
+Aqua Vega, Mamak, Ankara'da yer alır ve coğrafi olarak İç Anadolu Bölgesi'nin merkezi bir noktasındadır. Bu bölge, genellikle karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Aqua Vega, bu coğrafi koşulların arasında, şehrin merkezinden uzakta, doğayla iç içe bir konumda yer alır. Plajın etrafı, çeşitli bitki türleriyle kaplı ve bu, ziyaretçilere zengin bir flora sunar. Ayrıca, Aqua Vega'nın su kaynakları, bölgenin hidrolojik özelliklerini yansıtır ve su sporları için ideal koşullar sağlar. Aqua Vega'nın coğrafi konumu ve özellikleri, onu Ankara'nın önemli bir doğa merkezi haline getirir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Aqua Vega'yı ziyaret etmek, Ankara'nın gürültüsünden uzaklaşma ve doğayl
 ## İlginç Bilgiler
 
 - Aqua Vega, 140 hektarlık bir alana sahiptir.
-- Plaj, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Aqua Vega, Ankara'nın en büyük plajlarından biridir.
 - Plajın etrafı, çeşitli bitki türleriyle kaplıdır.
 - Aqua Vega, su sporları için ideal koşullara sahiptir.

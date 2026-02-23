@@ -48,7 +48,7 @@ Fiziksel olarak ele alındığında, Zeynedek Tepe'nin boyutları ve şekli hakk
 
 ## Flora ve Fauna
 
-Zeynedek Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan bir dağ ekosistemi. Bu dağda, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur. 
+Zeynedek Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan bir dağ ekosistemi. Bu dağda, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur.
 
 Bitki örtüsünün hakim türleri, genellikle kuraklığa dayanıklı step ve ova bitkileridir. İlkbaharla birlikte, dağ yamaçlarında çeşitli çiçekler açar ve bu bölgeyi renkli bir hal alır. Sonbaharda, bitkiler sararır ve dağ manzarası değişir.
 

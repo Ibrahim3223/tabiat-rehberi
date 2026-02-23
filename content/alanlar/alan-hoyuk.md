@@ -27,7 +27,7 @@ Türkiye'nin tarihi ve kültürel zenginliği, her köşesinde farklı bir hikay
 
 ## Tarihçe
 
-Alan Höyük, Türkiye'nin doğusunda yer alan bir doğal alan olarak, bölgenin zengin tarihsel mirasına ışık tutuyor. Bu bölgede, tarihin sâu sayfalarında Hitit, Urartu ve Pers uygarlıkları gibi büyük medeniyetler yaşamış ve izler bırakmışlardır. Türkiye'nin coğrafi konumu, Asya ve Avrupa arasındaki ticaret yollarının kesişme noktasında olması, bu doğal alanların tarihsel öneminin artmasına neden olmuştur.
+Alan Höyük, Türkiye'nin doğusunda yer alan bir doğal alan olarak, bölgenin zengin tarihsel mirasına ışık tutuyor. Bu bölgede, tarihin derin sayfalarında Hitit, Urartu ve Pers uygarlıkları gibi büyük medeniyetler yaşamış ve izler bırakmışlardır. Türkiye'nin coğrafi konumu, Asya ve Avrupa arasındaki ticaret yollarının kesişme noktasında olması, bu doğal alanların tarihsel öneminin artmasına neden olmuştur.
 
 Bu tür doğal alanlar, Türkiye'nin kültürel ve ekonomik gelişiminde önemli bir rol oynamıştır. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerde yaygın olarak görülmüştür. Ayrıca, tarihi ticaret yolları gibi İpek Yolu ve Kral Yolu, bu doğal alanlardan geçerek bölgeyi önemli bir kavşak haline getirmiştir. İnsanların bu alanlarla ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda sosyal ve kültürel yaşamın bir parçası olmuştur. Bu doğal alanlar, insanların doğayla iç içe yaşadığı ve geleneksel yaşam tarzlarını sürdürebildiği önemli merkezler olarak kabul edilebilir.
 
@@ -43,11 +43,11 @@ Bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları ile oldukça b
 
 ## Flora ve Fauna
 
-Alan Höyük'ün dağ ekosisteminde, yükseklik zonlarına göre değişen bir flora ve fauna çeşitliliği bulunur. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türler yaşamını sürdürür. 
+Alan Höyük'ün dağ ekosisteminde, yükseklik zonlarına göre değişen bir flora ve fauna çeşitliliği bulunur. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte olmuş türler yaşamını sürdürür.
 
-İlkbaharda, dağ yamaçlarında renkli çiçekler açar ve bu manzara, ziyaretçilere büyüleyici bir görünüm sunar. Sonbaharda ise, göçmen kuşlar bu dağları geçiş noktası olarak kullanır. 
+İlkbaharda, dağ yamaçlarında renkli çiçekler açar ve bu manzara, ziyaretçilere büyüleyici bir görünüm sunar. Sonbaharda ise, göçmen kuşlar bu dağları geçiş noktası olarak kullanır.
 
-Dağların yüksek kesimlerinde, alpin flora çeşitliliği dikkat çeker. Bu bölgede yaşayan yaban hayatında, memeliler, kuşlar ve sürüngenler bulunur. Dağ keçileri, dağları ev olarak seçerken, kartallar ve şahinler burada yuvalanır. 
+Dağların yüksek kesimlerinde, alpin flora çeşitliliği dikkat çeker. Bu bölgede yaşayan yaban hayatında, memeliler, kuşlar ve sürüngenler bulunur. Dağ keçileri, dağları ev olarak seçerken, kartallar ve şahinler burada yuvalanır.
 
 Bu ekosistemin korunması, bölgenin biyolojik çeşitliliğini sürdürmesi açısından önemlidir. Alan Höyük'ün yükseklik zonları ve farklı yaşam alanları, bu bölgenin ekolojik değerini artırır. Bu nedenle, bu dağ ekosisteminin korunması ve gelecek nesiller için korunması gerekmektedir.
 

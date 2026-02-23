@@ -50,9 +50,9 @@ Köse Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bir ekosistem
 
 ## Flora ve Fauna
 
-Köse Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Köse Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharla birlikte dağ yamaçlarında renkli çiçekler açar. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunar. 
+Bitki Örtüsü olarak, ilkbaharla birlikte dağ yamaçlarında renkli çiçekler açar. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunar.
 
 Yaban Hayatı olarak, dağ keçileri, ayılar ve çeşitli kuş türleri yaşam alanlarını burada bulur. Sonbaharda, göçmen kuşlar dağların üzerinden geçer. Sürüngenler ve memeliler de bu dağ ekosisteminin bir parçasıdır.
 

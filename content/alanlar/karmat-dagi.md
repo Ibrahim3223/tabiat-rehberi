@@ -32,7 +32,7 @@ Kars'ın dağlık bölgeleri, Türkiye'nin en doğusunda yer alan doğal güzell
 
 ## Tarihçe
 
-Kars bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların hüküm sürdüğü bir coğrafyadır. Tarihi İpek Yolu'nun önemli bir bölümü Kars'tan geçer ve bu sayede bölgenin stratejik önemi artmıştır. Selçuklular, Osmanlılar ve diğer medeniyetler, bu topraklarda izlerini bırakmışlardır.
+Kars bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların hüküm sürdüğü bir coğrafyadır. Tarihi İpek Yolu'nun önemli bir bölümü Kars'tan geçer ve bu sayede bölgenin stratejik önemi artmıştır. Selçuklular, Osmanlılar ve diğer medeniyetler, bu topraklarda izlerini bırakmışlardır.
 
 Karmat Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir role sahiptir. Bu tür alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlamıştır. Yaylacılık ve hayvancılık, bölgede yaşayan halkın temel faaliyetleri arasında yer almıştır. Ayrıca, ticaret yolları üzerinde bulunan Kars, önemli bir ticaret merkezi olarak görev yapmıştır.
 
@@ -50,11 +50,11 @@ Mevsimsel değişikliklere bakıldığında, Karmat Dağı'nın iklim karakteri 
 
 ## Flora ve Fauna
 
-Karmat Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ eteklerinde çiçekler açmaya başlar. Alpin çayırlar, rengarenk bir hal alır ve dağ ekosisteminin canlılığını gösterir. 
+Karmat Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ eteklerinde çiçekler açmaya başlar. Alpin çayırlar, rengarenk bir hal alır ve dağ ekosisteminin canlılığını gösterir.
 
-Bitki örtüsünün hakim türleri, yükseklik zonlarına göre değişir. Yükseklik arttıkça, bitkiler daha kısa ve dayanıklı olur. Mevsimsel değişimlerle birlikte, flora da değişir. Sonbaharda, göç eden kuşlar dağları ziyaret eder ve bu bölge, önemli bir göç yolu haline gelir. 
+Bitki örtüsünün hakim türleri, yükseklik zonlarına göre değişir. Yükseklik arttıkça, bitkiler daha kısa ve dayanıklı olur. Mevsimsel değişimlerle birlikte, flora da değişir. Sonbaharda, göç eden kuşlar dağları ziyaret eder ve bu bölge, önemli bir göç yolu haline gelir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri, yükseklikte yaşayan türler arasındadır. Kuşlar, göç yolları üzerinde önemli bir rol oynar. Sürüngenler, kayalık alanlarda yaşamayı tercih eder. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri, yükseklikte yaşayan türler arasındadır. Kuşlar, göç yolları üzerinde önemli bir rol oynar. Sürüngenler, kayalık alanlarda yaşamayı tercih eder.
 
 Bu dağ ekosisteminin ekolojik değeri, yüksek dağ ekolojisi ve alpin çayırların varlığından gelir. Bu bölge, endemik türlerin yaşam alanıdır ve koruma altına alınması önemlidir.
 

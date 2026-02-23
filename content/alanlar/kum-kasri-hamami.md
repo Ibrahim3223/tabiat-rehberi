@@ -1,7 +1,7 @@
 ---
 title: "Kum Kasrı Hamamı"
 date: "2026-01-09T23:04:45.130Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738808"
 
 # Kum Kasrı Hamamı
 
-Kum Kasrı Hamamı, Edirne'nin merkezinde yer alan ve Marmara Bölgesi'nin önemli turizm noktalarından biri olan bir plaj ve hamam kompleksi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu kompleks, hem tarihi hem de doğal güzelliklerini bir arada sunmasıyla dikkat çekiyor. Kum Kasrı Hamamı, Edirne'nin en önemli turizm noktalarından biri olarak biliniyor ve her yıl binlerce ziyaretçi ağırlıyor.
+Kum Kasrı Hamamı, Edirne'nin merkezinde yer alan ve Marmara Bölgesi'nin önemli turizm noktalarından biri olan bir plaj ve hamam kompleksi. Bu kompleks, hem tarihi hem de doğal güzelliklerini bir arada sunmasıyla dikkat çekiyor. Kum Kasrı Hamamı, Edirne'nin en önemli turizm noktalarından biri olarak biliniyor ve her yıl binlerce ziyaretçi ağırlıyor.
 
 ## Tarihçe
 

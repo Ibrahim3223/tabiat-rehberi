@@ -1,7 +1,7 @@
 ---
 title: "Nazif Paşa Köşkü Hamamı Kalıntısı"
 date: "2026-01-09T23:49:18.070Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739224"
 
 # Nazif Paşa Köşkü Hamamı Kalıntısı
 
-Nazif Paşa Köşkü Hamamı Kalıntısı, Üsküdar'da denize açılan bir tarihi alan olarak karşımıza çıkıyor. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tarihi geçmişi ile dikkat çeken bu köşk ve hamam kalıntıları, ziyaretçilerini geçmişe götürüyor. İstanbul'un kalabalığından uzak, sakin bir atmosfer sunan Nazif Paşa Köşkü Hamamı Kalıntısı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
+Nazif Paşa Köşkü Hamamı Kalıntısı, Üsküdar'da denize açılan bir tarihi alan olarak karşımıza çıkıyor. Tarihi geçmişi ile dikkat çeken bu köşk ve hamam kalıntıları, ziyaretçilerini geçmişe götürüyor. İstanbul'un kalabalığından uzak, sakin bir atmosfer sunan Nazif Paşa Köşkü Hamamı Kalıntısı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Nazif Paşa Köşkü Hamamı Kalıntısı, ziyaretçilerine bir çok olanak sunu
 ## İlginç Bilgiler
 
 - Nazif Paşa Köşkü Hamamı Kalıntısı, Üsküdar'da denize açılan bir tarihi alandır.
-- Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahiptir.
+
 - Nazif Paşa Köşkü Hamamı Kalıntısı, yüzyıllar boyunca uzanan bir tarihi geçmişe sahiptir.
 - Bu köşk ve hamam, geçmişte önemli bir role sahip olan Nazif Paşa tarafından inşa edilmiştir.
 - Nazif Paşa Köşkü Hamamı Kalıntısı, bugünkü haliyle, geçmişin izlerini taşıyan bir tarihi miras olarak ziyaretçilerini ağırlıyor.

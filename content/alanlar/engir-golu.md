@@ -50,11 +50,11 @@ Engir Gölü, çevresindeki diğer su kaynakları ve ekosistemler ile bağlantı
 
 ## Flora ve Fauna
 
-Engir Gölü, Kayseri'nin step bitki örtüsüne ve bozkırına ev sahipliği yapan bir bölgede yer alır. Bu ekosistem, kuraklığa adapte olmuş çeşitli bitki ve hayvan türlerine ev sahipliği yapar. 
+Engir Gölü, Kayseri'nin step bitki örtüsüne ve bozkırına ev sahipliği yapan bir bölgede yer alır. Bu ekosistem, kuraklığa adapte olmuş çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 
-Gölün bitki örtüsü, mevsimsel değişimlere göre şekillenir. İlkbahar aylarında, gölün etrafı renkli çiçeklerle kaplanır. Yaz aylarında, su kenarında sulak alan bitkileri görülür. 
+Gölün bitki örtüsü, mevsimsel değişimlere göre şekillenir. İlkbahar aylarında, gölün etrafı renkli çiçeklerle kaplanır. Yaz aylarında, su kenarında sulak alan bitkileri görülür.
 
-Yaban hayatı açısından zengin olan Engir Gölü, su kuşları ve balıkların yaşam alanıdır. Sonbahar aylarında, göçmen kuşlar gölde konaklar. Memeliler ve sürüngenler de bu ekosistemin bir parçasıdır. 
+Yaban hayatı açısından zengin olan Engir Gölü, su kuşları ve balıkların yaşam alanıdır. Sonbahar aylarında, göçmen kuşlar gölde konaklar. Memeliler ve sürüngenler de bu ekosistemin bir parçasıdır.
 
 Engir Gölü'nün ekolojik değeri, su kuşları ve diğer canlılar için önemli bir yaşam alanı olmasıdır. Bu nedenle, gölün korunması ve ekosisteminin dengesinin korunması büyük önem taşır.
 

@@ -1,7 +1,7 @@
 ---
 title: "Ardıç Tekke Türbesi"
 date: "2026-01-10T05:13:15.065Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391578"
 
 # Ardıç Tekke Türbesi
 
-Ardıç Tekke Türbesi, Denizli'nin Honaz ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir nokta. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor ki, bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ardıç Tekke Türbesi, ziyaretçilerini hem tarihi zenginliklerle hem de doğanın güzelliği ile karşılayan bir destinasyon. Bu bölge, özellikle doğa severler ve tarih meraklıları için bir çekim merkezi olarak dikkat çekiyor. Ziyaretçiler, hem Ardıç Tekke Türbesi'nin histórik önemini keşfedebilir hem de çevredeki doğal güzelliğin keyfini çıkarabilirler.
+Ardıç Tekke Türbesi, Denizli'nin Honaz ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir nokta. Ardıç Tekke Türbesi, ziyaretçilerini hem tarihi zenginliklerle hem de doğanın güzelliği ile karşılayan bir destinasyon. Bu bölge, özellikle doğa severler ve tarih meraklıları için bir çekim merkezi olarak dikkat çekiyor. Ziyaretçiler, hem Ardıç Tekke Türbesi'nin tarihi önemini keşfedebilir hem de çevredeki doğal güzelliğin keyfini çıkarabilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ardıç Tekke Türbesi'nin tarihi geçmişi, yüzyıllar boyunca birçok kültü
 
 ## Coğrafya
 
-Ardıç Tekke Türbesi, Ege Bölgesi'nin güzelliğini yansıtması bakımından önemli bir nokta. Honaz ilçesinde yer alan bu türbe, çevresi ile birlikte yaklaşık 140 hektarlık bir yeşil alanı kapsıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bölge, coğrafi olarak dağlık ve ormanlık alanlarla çevrili. İklim, Ege Bölgesi'nin genel iklimine uygun olarak, yazları sıcak ve kuru, kışları ise ılıman ve yağışlı geçiyor. Bu coğrafi özellikler, Ardıç Tekke Türbesi'nin doğal güzelliğini daha da artırıyor. Ziyaretçiler, türbeyi ziyaret ederken, aynı zamanda çevredeki doğanın güzelliğini de keşfedebilirler. Bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor.
+Ardıç Tekke Türbesi, Ege Bölgesi'nin güzelliğini yansıtması bakımından önemli bir nokta. Honaz ilçesinde yer alan bu türbe, çevresi ile birlikte yaklaşık 140 hektarlık bir yeşil alanı kapsıyor. Bölge, coğrafi olarak dağlık ve ormanlık alanlarla çevrili. İklim, Ege Bölgesi'nin genel iklimine uygun olarak, yazları sıcak ve kuru, kışları ise ılıman ve yağışlı geçiyor. Bu coğrafi özellikler, Ardıç Tekke Türbesi'nin doğal güzelliğini daha da artırıyor. Ziyaretçiler, türbeyi ziyaret ederken, aynı zamanda çevredeki doğanın güzelliğini de keşfedebilirler. Bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

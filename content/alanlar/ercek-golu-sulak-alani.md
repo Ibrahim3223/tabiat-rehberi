@@ -22,7 +22,7 @@ wikidata_id: "Q108228835"
 
 # Erçek Gölü Sulak Alanı
 
-Erçek Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir sulak alanı kapsar. Bu bölge, doğal yaşamın çeşitliliği ve güzelliği ile ziyaretçilerini cezbetmektedir. Gölün etrafındaki yeşil alanlar, yürüyüş ve piknik için uygun ortamlar sunarken, sulak alanın kendisi de birçok su kuşunun yaşam alanı olarak hizmet vermektedir. Erçek Gölü Sulak Alanı, doğa severler ve araştırma yapanlar için önemli bir destinasyon olarak kabul edilmektedir.
+Erçek Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu bölge, doğal yaşamın çeşitliliği ve güzelliği ile ziyaretçilerini cezbetmektedir. Gölün etrafındaki yeşil alanlar, yürüyüş ve piknik için uygun ortamlar sunarken, sulak alanın kendisi de birçok su kuşunun yaşam alanı olarak hizmet vermektedir. Erçek Gölü Sulak Alanı, doğa severler ve araştırma yapanlar için önemli bir destinasyon olarak kabul edilmektedir.
 
 ## Tarihçe
 

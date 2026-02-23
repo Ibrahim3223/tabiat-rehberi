@@ -1,7 +1,7 @@
 ---
 title: "Yeni Hamam, Elmalı"
 date: "2026-01-09T23:50:26.507Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245822"
 
 # Yeni Hamam, Elmalı
 
-Yeni Hamam, Elmalı, Akdeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir ortam sunar. Elmalı'nın merkezine yakın konumuyla, ulaşımı da oldukça kolaydır. Yeni Hamam, Elmalı, özellikle yaz aylarında ziyaretçilerini çekmektedir. Plajın kumsalı, ince kumla kaplı ve sakin bir denize sahiptir. Burada, güneşin tadını çıkarabilir, denize girebilir veya sadece doğanın güzelliğini izleyebilirsiniz.
+Yeni Hamam, Elmalı, Akdeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe bir ortam sunar. Elmalı'nın merkezine yakın konumuyla, ulaşımı da oldukça kolaydır. Yeni Hamam, Elmalı, özellikle yaz aylarında ziyaretçilerini çekmektedir. Plajın kumsalı, ince kumla kaplı ve sakin bir denize sahiptir. Burada, güneşin tadını çıkarabilir, denize girebilir veya sadece doğanın güzelliğini izleyebilirsiniz.
 
 ## Tarihçe
 

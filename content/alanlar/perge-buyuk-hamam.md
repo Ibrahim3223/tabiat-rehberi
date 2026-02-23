@@ -1,7 +1,7 @@
 ---
 title: "Perge Büyük Hamam"
 date: "2026-01-09T22:32:43.452Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738697"
 
 # Perge  Büyük Hamam
 
-Perge Büyük Hamam, Aksu/Antalya'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir atmosfere davet ediyor. Perge Büyük Hamam, denizin serinliğinin yanı sıra,historik geçmişi ile de dikkat çekiyor. Ziyaretçiler, hem denizin keyfini çıkarabiliyor hem de tarihi yapıları keşfedebiliyor.
+Perge Büyük Hamam, Aksu/Antalya'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir plajdır. Perge Büyük Hamam, denizin serinliğinin yanı sıra,historik geçmişi ile de dikkat çekiyor. Ziyaretçiler, hem denizin keyfini çıkarabiliyor hem de tarihi yapıları keşfedebiliyor.
 
 ## Tarihçe
 

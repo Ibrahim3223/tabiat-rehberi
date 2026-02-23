@@ -22,7 +22,7 @@ wikidata_id: "Q108228587"
 
 # Antalya-Alanya-Mahmutlar-Mese
 
-Antalya-Alanya-Mahmutlar-Mese milli parkı, 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu muhteşem milli park, ziyaretçilerine zengin bir flora ve fauna sunar. Akdeniz Bölgesi'nin en önemli doğal alanlarından biri olan bu park, yaban hayatının çeşitliliği ve güzelliği ile dikkat çeker. Milli park, hem doğa tutkunları hem de turistler için bir çekim merkezi olarak hizmet vermektedir.
+ Bu muhteşem milli park, ziyaretçilerine zengin bir flora ve fauna sunar. Akdeniz Bölgesi'nin en önemli doğal alanlarından biri olan bu park, yaban hayatının çeşitliliği ve güzelliği ile dikkat çeker. Milli park, hem doğa tutkunları hem de turistler için bir çekim merkezi olarak hizmet vermektedir.
 
 ## Tarihçe
 

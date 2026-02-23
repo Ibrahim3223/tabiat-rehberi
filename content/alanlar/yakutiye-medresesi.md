@@ -1,7 +1,7 @@
 ---
 title: "Yakutiye Medresesi"
 date: "2026-01-10T05:52:52.620Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -30,7 +30,7 @@ wikidata_id: "Q15818405"
 
 # Yakutiye Medresesi
 
-Yakutiye Medresesi, Doğu Anadolu Bölgesi'nin önemli kültürel ve tarihi merkezlerinden biri olarak dikkat çekiyor. Yakutiye ilçesinde bulunan bu tarihi yapı, yaklaşık 140 hektarlık bir alanda yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Medrese, tarihi ve mimari açıdan önemli bir yapı olarak karşımıza çıkarken, aynı zamanda bölgeye gelen ziyaretçiler için de önemli bir gezi noktası olarak biliniyor.
+Yakutiye Medresesi, Doğu Anadolu Bölgesi'nin önemli kültürel ve tarihi merkezlerinden biri olarak dikkat çekiyor. Yakutiye ilçesinde bulunan bu tarihi yapı, yaklaşık 140 hektarlık bir alanda yer alıyor. Medrese, tarihi ve mimari açıdan önemli bir yapı olarak karşımıza çıkarken, aynı zamanda bölgeye gelen ziyaretçiler için de önemli bir gezi noktası olarak biliniyor.
 
 ## Tarihçe
 

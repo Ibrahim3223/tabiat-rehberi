@@ -28,7 +28,7 @@ wikidata_id: "Q31387484"
 
 # Beyazpi Tepesi
 
-Beyazpi Tepesi, Van'ın muhteşem doğal güzelliklerinden biridir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici manzaralarıyla karşılar. Doğu Anadolu Bölgesi'nin en dikkat çekici noktalarından biri olan Beyazpi Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Ziyaretçiler, bu tepeye çıkarak Van'ın eşsiz manzarasını izleme fırsatı buluyor.
+Beyazpi Tepesi, Van'ın muhteşem doğal güzelliklerinden biridir. Doğu Anadolu Bölgesi'nin en dikkat çekici noktalarından biri olan Beyazpi Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Ziyaretçiler, bu tepeye çıkarak Van'ın eşsiz manzarasını izleme fırsatı buluyor.
 
 ## Tarihçe
 

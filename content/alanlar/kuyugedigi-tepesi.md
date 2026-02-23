@@ -28,7 +28,7 @@ wikidata_id: "Q31389283"
 
 # Kuyugediği Tepesi
 
-Kuyugediği Tepesi, Malatya ilinin sınırları içerisinde yer alan ve ziyaretçilerini doğal güzelliği ile büyüleyen bir tepe olarak dikkat çekmektedir. Bu tepe, yüksek bir konumdate yer almakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Kuyugediği Tepesi, özellikle doğa severlerin ve trekkingDoing severlerin uğrak noktalarından biridir. Burada, hem doğanın güzelliğini izleyebilir hem de çeşitli trekkingDoing rotaları üzerinden tepeyi keşfedebilirsiniz.
+Kuyugediği Tepesi, Malatya ilinin sınırları içerisinde yer alan ve ziyaretçilerini doğal güzelliği ile büyüleyen bir tepe olarak dikkat çekmektedir. Kuyugediği Tepesi, özellikle doğa severlerin ve trekkingDoing severlerin uğrak noktalarından biridir. Burada, hem doğanın güzelliğini izleyebilir hem de çeşitli trekkingDoing rotaları üzerinden tepeyi keşfedebilirsiniz.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kuyugediği Tepesi'ni ziyaret etmek, doğa severler ve trekkingDoing tutkunları
 ## İlginç Bilgiler
 
 - Kuyugediği Tepesi, Malatya ilinin en yüksek noktalarından biridir.
-- Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır.
+
 - Kuyugediği Tepesi, özellikle doğa severlerin ve trekkingDoing severlerin uğrak noktalarından biridir.
 - Tepe üzerindeki flora ve fauna zenginliği, ilkbahar ve sonbahar aylarında dikkat çekmektedir.
 - Kuyugediği Tepesi, Malatya il merkezine uzun bir mesafe uzaklıkta yer almaktadır.

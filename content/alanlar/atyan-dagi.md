@@ -46,7 +46,7 @@ Jeolojik açıdan bakıldığında, Atyan Dağı'nın fiziksel yapısı hakkınd
 
 Mevsimler değiştiğinde, Atyan Dağı'nın iklim karakteri değişir. Kış aylarında, dağların yüksek kesimlerinde kar örtüsü bulunurken, ilkbahar ve yaz aylarında ise yeşilin her tonuna rastlama mümkündür. Bölgenin iklimi, Karadeniz Bölgesi'nin nemli ve ılıman ikliminin etkilerini taşır. Bu durum, bölgenin flora ve fauna çeşitliliğini destekler ve birçok farklı türün yaşamına olanak sağlar.
 
-Bölgenin su kaynakları açısından zengin olduğu söylenebilir. Atyan Dağı'nın eteklerinde, çeşitli dere ve çaylar bulunmaktadır. Bu su kaynakları, bölgenin ekosistemini destekler ve birçok canlı türünün yaşamına olanak sağlar. Ayrıca, dağların yüksek kesimlerinde bulunan göller ve bataklıklar, bölgenin ekolojik dengesini korumak açısından önemlidir. Bu doğal güzellikler, Atyan Dağı'nın çevresi ile olan ilişkilerini gösterir ve bölgenin coğrafi çeşitliliğini vurgular.
+Bölgenin su kaynakları açısından zengin olduğu söylenebilir. Atyan Dağı'nın eteklerinde, çeşitli dere ve çaylar bulunmaktadır. Bu su kaynakları, bölgenin ekosistemini destekler ve birçok canlı türünün yaşamına olanak sağlar. Bu doğal güzellikler, Atyan Dağı'nın çevresi ile olan ilişkilerini gösterir ve bölgenin coğrafi çeşitliliğini vurgular.
 
 ## Flora ve Fauna
 

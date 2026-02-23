@@ -28,7 +28,7 @@ wikidata_id: "Q31388954"
 
 # Karyağan Tepesi
 
-Karyağan Tepesi, Erzurum'un güzide bir bölgesinde yer alan, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikası. Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için bekliyor. Karyağan Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay.
+ Bu tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için bekliyor. Karyağan Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Karyağan Tepesi, zengin bir flora ve fauna ile ziyaretçilerini karşılıyor. 
 
 ## Ziyaret Bilgileri
 
-Karyağan Tepesi'ni ziyaret etmek, doğa severler için bir hayal harika bir deneyim. Bu tepe, hem doğal güzellikleri hem de tarihsel önemi ile, ziyaretçilerine unutulmaz bir gezi deneyimi sunuyor. Karyağan Tepesi'ne, Erzurum'un merkezinden fácilca ulaşılabilir ve bu tepe, ziyaretçilerine, çeşitli aktiviteler sunuyor. Bu tepe, özellikle, doğa yürüyüşü, kaya ve fotoğrafçılık gibi aktiviteler için ideal bir nokta.
+Karyağan Tepesi'ni ziyaret etmek, doğa severler için bir hayal harika bir deneyim. Karyağan Tepesi'ne, Erzurum'un merkezinden fácilca ulaşılabilir ve bu tepe, ziyaretçilerine, çeşitli aktiviteler sunuyor. Bu tepe, özellikle, doğa yürüyüşü, kaya ve fotoğrafçılık gibi aktiviteler için ideal bir nokta.
 
 ## İlginç Bilgiler
 

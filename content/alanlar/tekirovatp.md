@@ -22,7 +22,7 @@ wikidata_id: "Q108228775"
 
 # TEKİROVA_TP
 
-İç Anadolu Bölgesi'nin geniş ve verimli ovalarıyla çevrili TEKİROVA_TP, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğanın güzelliklerine davet ediyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. TEKİROVA_TP, doğa severler için bir cennet olarak tanımlanabilir. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve kendinizi doğanın güzelliğine bırakabilirsiniz.
+İç Anadolu Bölgesi'nin geniş ve verimli ovalarıyla çevrili TEKİROVA_TP, yaklaşık 140 hektarlık alanı ile ziyaretçilerini doğanın güzelliklerine davet ediyor. TEKİROVA_TP, doğa severler için bir cennet olarak tanımlanabilir. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve kendinizi doğanın güzelliğine bırakabilirsiniz.
 
 ## Tarihçe
 

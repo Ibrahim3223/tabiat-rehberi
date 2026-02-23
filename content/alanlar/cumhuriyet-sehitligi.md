@@ -29,7 +29,7 @@ wikidata_id: "Q134728254"
 
 # Cumhuriyet Şehitliği
 
-Cumhuriyet Şehitliği, Ege Bölgesi'nin önemli illerinden Afyonkarahisar'da yer alan ve hem şehitliğin anılması hem de plaj olarak kullanılan bir doğal alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Bu bölgede, hem tarihi önem taşıyan bir şehitlik hem de doğal güzelliklerin bir arada bulunduğu ender alanlardan birini deneyimleme mümkün.
+Cumhuriyet Şehitliği, Ege Bölgesi'nin önemli illerinden Afyonkarahisar'da yer alan ve hem şehitliğin anılması hem de plaj olarak kullanılan bir doğal alandır. Bu bölgede, hem tarihi önem taşıyan bir şehitlik hem de doğal güzelliklerin bir arada bulunduğu ender alanlardan birini deneyimleme mümkün.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728367"
 
 # Bin Tepeler Tümülüsü 10
 
-Bin Tepeler Tümülüsü 10, Ege Bölgesi'nin gizli k incisi olarak kabul edilebilir. Salihli/Manisa'da yer alan bu özel alan, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor. Doğal güzelliği, tarihi geçmişi ve coğrafi konumu ile dikkat çeken Bin Tepeler Tümülüsü 10, her yıl birçok ziyaretçiyi ağırlıyor. Bu özel yer, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Bin Tepeler Tümülüsü 10, Ege Bölgesi'nin gizli k incisi olarak kabul edilebilir. Doğal güzelliği, tarihi geçmişi ve coğrafi konumu ile dikkat çeken Bin Tepeler Tümülüsü 10, her yıl birçok ziyaretçiyi ağırlıyor. Bu özel yer, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 10, ziyaretçilere birçok olanak sunuyor. Buraya ulaş
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 10, Ege Bölgesi'nin en önemli tarih merkezlerinden biridir.
-- Burada yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bin Tepeler Tümülüsü 10, yüzyıllar boyunca birçok uygarlığa ev sahipliği yapmış.
 - Bu özel yer, Ege Bölgesi'nin coğrafi özelliklerini taşıyor.
 - Bin Tepeler Tümülüsü 10, flora ve fauna açısından zengin bir alandır.

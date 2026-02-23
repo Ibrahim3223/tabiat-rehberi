@@ -28,7 +28,7 @@ wikidata_id: "Q31387901"
 
 # Altınkaya Tepesi
 
-Altınkaya Tepesi, Kars ilinin görkemli manzarasına ev sahipliği yapan bir doğal güzellik olarak dikkat çekiyor. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeyi kaplıyor. Tepenin eteklerinde yer alan köyler, bölgeye ziyaretçilerin gelmesini teşvik ediyor. Tepenin zirvesine çıktığınızda, size sunulan manzara, doğanın güzelliğini gözler önüne seriyor. Altınkaya Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Altınkaya Tepesi, Kars ilinin görkemli manzarasına ev sahipliği yapan bir doğal güzellik olarak dikkat çekiyor. Tepenin eteklerinde yer alan köyler, bölgeye ziyaretçilerin gelmesini teşvik ediyor. Tepenin zirvesine çıktığınızda, size sunulan manzara, doğanın güzelliğini gözler önüne seriyor. Altınkaya Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 

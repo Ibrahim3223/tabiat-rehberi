@@ -28,7 +28,7 @@ wikidata_id: "Q31390994"
 
 # Bonoş Tepesi
 
-Bonoş Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe olarak, doğal güzellikleriyle dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine yakınlığıyla ziyaretçilerini cezbediyor. Bonoş Tepesi, Kayseri'nin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor.
+Bonoş Tepesi, Kayseri'nin İç Anadolu Bölgesi'nde yer alan bir tepe olarak, doğal güzellikleriyle dikkat çekiyor. Bonoş Tepesi, Kayseri'nin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak ortaya çıkıyor.
 
 ## Tarihçe
 

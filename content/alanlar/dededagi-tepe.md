@@ -28,7 +28,7 @@ wikidata_id: "Q31387214"
 
 # Dededağı Tepe
 
-Dededağı Tepe, Çorum'un doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alana karşılık geliyor. Dededağı Tepe, ziyaretçilerine doğal güzelliklerin yanı sıra tarihsel ve kültürel zenginlikler de sunuyor. Bu tepe, Çorum'un önemli turizm noktalarından biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından tercih ediliyor.
+Dededağı Tepe, Çorum'un doğal güzelliklerinden biri olarak ziyaretçilerini bekliyor. Dededağı Tepe, ziyaretçilerine doğal güzelliklerin yanı sıra tarihsel ve kültürel zenginlikler de sunuyor. Bu tepe, Çorum'un önemli turizm noktalarından biri olarak biliniyor ve her yıl birçok ziyaretçi tarafından tercih ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Dededağı Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve çeş
 
 ## Coğrafya
 
-Dededağı Tepe, Çorum'un coğrafi yapısında önemli bir yer tutuyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip ve zengin bir flora ve faunaya ev sahipliği yapıyor. Dededağı Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alana karşılık geliyor. Dededağı Tepe'nin coğrafi konumu, ziyaretçilerine doğal güzellikleri ve çeşitli faaliyetleri sunuyor.
+Dededağı Tepe, Çorum'un coğrafi yapısında önemli bir yer tutuyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahip ve zengin bir flora ve faunaya ev sahipliği yapıyor. Dededağı Tepe'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanlar için uygun bir ortam sunuyor. Dededağı Tepe'nin coğrafi konumu, ziyaretçilerine doğal güzellikleri ve çeşitli faaliyetleri sunuyor.
 
 ## Flora ve Fauna
 

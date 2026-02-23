@@ -1,7 +1,7 @@
 ---
 title: "Babazakir Alaattin Türbesi"
 date: "2026-01-10T06:26:42.047Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"

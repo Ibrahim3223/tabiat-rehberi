@@ -1,7 +1,7 @@
 ---
 title: "İbrahim Dede Türbesi (Altınova Mahallesi)"
 date: "2026-01-10T06:12:19.422Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"

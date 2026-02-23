@@ -30,7 +30,7 @@ wikidata_id: "Q20470550"
 
 # Simenit Gölü
 
-Samsun'un Terme ilçesinde, doğanın güzelliğini sergileyen bir alan var. Simenit Gölü, bu bölgenin sakin ve doğal güzellikleriyle dolu bir köşesi. Terme'nin zengin históriasal ve kültürel mirasının bir parçası olan bu göl, ziyaretçilerini doğanın sessizliğine davet ediyor. İlçe merkezine yakın konumuyla, Simenit Gölü, Samsun'un doğal hazinelerinden biri.
+Samsun'un Terme ilçesinde, doğanın güzelliğini sergileyen bir alan var. Simenit Gölü, bu bölgenin sakin ve doğal güzellikleriyle dolu bir köşesi. Terme'nin zengin tarihi ve kültürel mirasının bir parçası olan bu göl, ziyaretçilerini doğanın sessizliğine davet ediyor. İlçe merkezine yakın konumuyla, Simenit Gölü, Samsun'un doğal hazinelerinden biri.
 
 ## Tarihçe
 

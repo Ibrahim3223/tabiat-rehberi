@@ -28,7 +28,7 @@ wikidata_id: "Q31561616"
 
 # Şehitosman Tepesi
 
-Şehitosman Tepesi, Bayburt'un muhteşem manzarasına ev sahipliği yapan bir tepe olarak, tarihi ve doğal güzelliklerin birleştiği özel bir nokta. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini Karadeniz Bölgesi'nin benzersiz coğrafyasına davet ediyor. Bu tepe, bölgeye özgü flora ve fauna çeşitliliği ile dikkat çekiyor ve doğal güzellikleri keşfetmek isteyenlerin ilgisini çekiyor.
+Şehitosman Tepesi, Bayburt'un muhteşem manzarasına ev sahipliği yapan bir tepe olarak, tarihi ve doğal güzelliklerin birleştiği özel bir nokta. Bu tepe, bölgeye özgü flora ve fauna çeşitliliği ile dikkat çekiyor ve doğal güzellikleri keşfetmek isteyenlerin ilgisini çekiyor.
 
 ## Tarihçe
 

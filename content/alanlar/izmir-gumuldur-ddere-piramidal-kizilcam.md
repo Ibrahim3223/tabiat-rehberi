@@ -22,7 +22,7 @@ wikidata_id: "Q108227654"
 
 # Izmir-Gumuldur-D.dere Piramidal Kızılçam
 
-İzmir'in Gumuldur ilçesinde yer alan D.dere Piramidal Kızılçam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu büyüklük, ziyaretçilerin doğanın güzelliğini keşfetmeleri için geniş bir alan sunuyor. D.dere'nin doğal güzelliği, ziyaretçilerini büyülüyor.
+İzmir'in Gumuldur ilçesinde yer alan D. Bu büyüklük, ziyaretçilerin doğanın güzelliğini keşfetmeleri için geniş bir alan sunuyor. D.dere'nin doğal güzelliği, ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 
@@ -42,7 +42,7 @@ D.dere Piramidal Kızılçam, çeşitli bitki türleri ve zengin fauna ile dikka
 
 ## İlginç Bilgiler
 
-- D.dere Piramidal Kızılçam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+- D.
 - Bu bölge, yüzyıllar boyunca bölgenin önemli bir parçası olmuştur.
 - D.dere'nin coğrafi yapısı, ziyaretçilerine çeşitli doğal güzellikleri sunuyor.
 - Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.

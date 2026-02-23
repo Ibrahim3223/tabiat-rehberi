@@ -28,7 +28,7 @@ wikidata_id: "Q31385511"
 
 # Pirhasan Tepesi
 
-Pirhasan Tepesi, Elazığ şehrinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakında. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrülebilir. Bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
+Pirhasan Tepesi, Elazığ şehrinin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrülebilir. Bu tepe, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
 
 ## Tarihçe
 

@@ -28,11 +28,11 @@ wikidata_id: "Q31389568"
 
 # Aliler Tepesi
 
-Aliler Tepesi, Marmara Bölgesi'nin kalbinde, Balıkesir'in eşsiz doğası içinde yer alan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplı. Tepenin etekleri, çeşitli ağaç türleriyle dolu ve manzarası gerçekten büyüleyici. Aliler Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Tepenin çevresinde, yüzyılların izlerini taşıyan tarihi kalıntılar ve eşsiz manzaralar bulunmakta.
+Aliler Tepesi, Marmara Bölgesi'nin kalbinde, Balıkesir'in eşsiz doğası içinde yer alan bir tepe. Tepenin etekleri, çeşitli ağaç türleriyle dolu ve manzarası gerçekten büyüleyici. Aliler Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Tepenin çevresinde, yüzyılların izlerini taşıyan tarihi kalıntılar ve eşsiz manzaralar bulunmakta.
 
 ## Tarihçe
 
-Aliler Tepesi, tarihin sâu sayfalarında gizli bir hazine. Bu tepe, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıdı. Tarihi geçmişi, bölgeye özgü kültürel mirası yansıtan önemli bir nokta. Bu tepenin çevresinde, eski uygarlıkların kalıntıları ve tarihi yapılar bulunmakta. Aliler Tepesi, sadece bir doğa harikası değil, aynı zamanda tarihin bir parçası. Bu tepe, ziyaretçilerine hem doğal güzelliği hem de tarihi zenginliği sunuyor. Aliler Tepesi'nin tarihi, bölgenin kültürel mirasını anlamak için önemli bir kaynak.
+Aliler Tepesi, tarihin derin sayfalarında gizli bir hazine. Bu tepe, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıdı. Tarihi geçmişi, bölgeye özgü kültürel mirası yansıtan önemli bir nokta. Bu tepenin çevresinde, eski uygarlıkların kalıntıları ve tarihi yapılar bulunmakta. Aliler Tepesi, sadece bir doğa harikası değil, aynı zamanda tarihin bir parçası. Bu tepe, ziyaretçilerine hem doğal güzelliği hem de tarihi zenginliği sunuyor. Aliler Tepesi'nin tarihi, bölgenin kültürel mirasını anlamak için önemli bir kaynak.
 
 ## Coğrafya
 

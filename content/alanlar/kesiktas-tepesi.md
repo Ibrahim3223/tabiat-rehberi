@@ -28,7 +28,7 @@ wikidata_id: "Q31385647"
 
 # Kesiktaş Tepesi
 
-Kesiktaş Tepesi, Şanlıurfa'nın güneyinde yer alan ve bölgeye hakim bir tepe olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin etrafında çeşitli bitki türleri ve zengin fauna encontruluyor. Gezginler, bu tepeye tırmanarak şehrin panoramik manzarasını izleyebilir ve doğanın güzelliğini keşfedebilir. Kesiktaş Tepesi, aynı zamanda bölgenin tarihi geçmişini keşfetmek isteyenler için de önemli bir nokta.
+Kesiktaş Tepesi, Şanlıurfa'nın güneyinde yer alan ve bölgeye hakim bir tepe olarak dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna encontruluyor. Gezginler, bu tepeye tırmanarak şehrin panoramik manzarasını izleyebilir ve doğanın güzelliğini keşfedebilir. Kesiktaş Tepesi, aynı zamanda bölgenin tarihi geçmişini keşfetmek isteyenler için de önemli bir nokta.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108226354"
 
 # Kaz Dağları Sit Alanı
 
-Kaz Dağları Sit Alanı, İç Anadolu Bölgesi'nin en önemli doğal sit alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini koruma altına alır. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu bir doğa harikasıdır. Kaz Dağları Sit Alanı, doğa severler için bir cennet olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Doğal güzelliği, zengin flora ve fauna ile bu alan, Türkiye'nin en önemli doğal sit alanlarından biridir.
+Kaz Dağları Sit Alanı, İç Anadolu Bölgesi'nin en önemli doğal sit alanlarından biridir. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu bir doğa harikasıdır. Kaz Dağları Sit Alanı, doğa severler için bir cennet olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Doğal güzelliği, zengin flora ve fauna ile bu alan, Türkiye'nin en önemli doğal sit alanlarından biridir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kaz Dağları Sit Alanı, tarihi geçmişi ile de önemlidir. Bu bölge, yüzyı
 
 ## Coğrafya
 
-Kaz Dağları Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı ile yakından ilgilidir. Bu bölge, yüksek dağlar, derin vadiler ve geniş ova alanları ile karakterizedir. Kaz Dağları Sit Alanı, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu bir doğa harikasıdır. Kaz Dağları Sit Alanı, coğrafi konumu itibari ile, Türkiye'nin en önemli doğal sit alanlarından biridir. Bu alanın coğrafi yapısı, bölgenin iklim koşulları ve jeolojik yapısı ile yakından ilgilidir. Kaz Dağları Sit Alanı, yüksek dağlar, derin vadiler ve geniş ova alanları ile birlikte, Türkiye'nin en önemli coğrafi varlıklarından biridir.
+Kaz Dağları Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısı ile yakından ilgilidir. Bu bölge, yüksek dağlar, derin vadiler ve geniş ova alanları ile karakterizedir. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu bir doğa harikasıdır. Kaz Dağları Sit Alanı, coğrafi konumu itibari ile, Türkiye'nin en önemli doğal sit alanlarından biridir. Bu alanın coğrafi yapısı, bölgenin iklim koşulları ve jeolojik yapısı ile yakından ilgilidir. Kaz Dağları Sit Alanı, yüksek dağlar, derin vadiler ve geniş ova alanları ile birlikte, Türkiye'nin en önemli coğrafi varlıklarından biridir.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227945"
 
 # Isparta-Dinar Karacam
 
-Isparta-Dinar Karacam milli parkı, Isparta ilinin Dinar ilçesinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından birini oluşturan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir alanı kaplar. Bu milli park, Isparta'nın doğal güzelliklerini ve zengin fauna çeşitliliğini korumak amacıyla kurulmuştur. Isparta-Dinar Karacam, ziyaretçilerine doğa yürüyüşü, pikni ve fotoğrafçılık gibi çeşitli olanaklar sunar. Milli parka gelen ziyaretçiler, doğanın güzelliğini ve bölgeye özgü çeşitli bitki türlerini yakından görebilirler.
+Isparta-Dinar Karacam milli parkı, Isparta ilinin Dinar ilçesinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından birini oluşturan bir milli parktır. Bu milli park, Isparta'nın doğal güzelliklerini ve zengin fauna çeşitliliğini korumak amacıyla kurulmuştur. Isparta-Dinar Karacam, ziyaretçilerine doğa yürüyüşü, pikni ve fotoğrafçılık gibi çeşitli olanaklar sunar. Milli parka gelen ziyaretçiler, doğanın güzelliğini ve bölgeye özgü çeşitli bitki türlerini yakından görebilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Isparta-Dinar Karacam milli parkının tarihi geçmişi, yüzyıllar boyunca sü
 
 ## Coğrafya
 
-Isparta-Dinar Karacam milli parkı, Isparta ilinin Dinar ilçesinde yer alır ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Milli park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde geniş bir alanı kapsar. Bu geniş alan, ziyaretçilere doğa yürüyüşü, pikni ve fotoğrafçılık gibi çeşitli olanaklar sunar. Milli parkın coğrafyası, bölgeye özgü bitki türleri ve fauna çeşitliliği ile karakterize edilir. Isparta-Dinar Karacam, ziyaretçilere bu coğrafi özellikleri ve doğal güzellikleri keşfetme fırsatı sunar. Milli parkın iklimi, Akdeniz ikliminin özellikleri ile uyumludur ve ziyaretçiler, bu iklimi yakından deneyimleyebilirler.
+Isparta-Dinar Karacam milli parkı, Isparta ilinin Dinar ilçesinde yer alır ve Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Bu geniş alan, ziyaretçilere doğa yürüyüşü, pikni ve fotoğrafçılık gibi çeşitli olanaklar sunar. Milli parkın coğrafyası, bölgeye özgü bitki türleri ve fauna çeşitliliği ile karakterize edilir. Isparta-Dinar Karacam, ziyaretçilere bu coğrafi özellikleri ve doğal güzellikleri keşfetme fırsatı sunar. Milli parkın iklimi, Akdeniz ikliminin özellikleri ile uyumludur ve ziyaretçiler, bu iklimi yakından deneyimleyebilirler.
 
 ## Flora ve Fauna
 

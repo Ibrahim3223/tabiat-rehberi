@@ -44,7 +44,7 @@ Doğal bir gözlem noktası olarak düşünülebilecek Köklü Tepe, boyutları 
 
 İklim açısından Köklü Tepe, Diyarbakır ilinin genel iklim karakterini paylaşmaktadır. Bu bölge, karasal iklimin hüküm sürdüğü bir alandır ve mevsimlere göre önemli sıcaklık farklılıkları gösterir. Yaz aylarında sıcaklık yüksek olabilirken, kış aylarında soğu ve đôi zaman kar yağışlı geçmektedir. Bu iklim koşulları, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 
-Çevresel açıdan bakıldığında, Köklü Tepe, çevresindeki diğer coğrafi oluşumlarla önemli bir ekosistem bağlantısı içindedir. Bölge, çeşitli su kaynaklarının da yakınında bulunmaktadır ve bu su kaynakları, bölgenin ekolojik dengesini korumak açısından kritik bir role sahiptir. Bu su kaynakları, bölgenin flora ve fauna çeşitliliğini desteklemektedir ve Köklü Tepe'nin doğal güzelliğini korumak için önemlidir.
+Çevresel açıdan bakıldığında, Köklü Tepe, çevresindeki diğer coğrafi oluşumlarla önemli bir ekosistem bağlantısı içindedir. Bu su kaynakları, bölgenin flora ve fauna çeşitliliğini desteklemektedir ve Köklü Tepe'nin doğal güzelliğini korumak için önemlidir.
 
 ## Flora ve Fauna
 

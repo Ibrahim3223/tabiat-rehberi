@@ -50,7 +50,7 @@ Jeolojik açıdan bakıldığında, Haraminin Tepe'nin fiziksel yapısı hakkın
 
 ## Flora ve Fauna
 
-Haraminin Tepe, Erzincan'da yüksek dağ ekolojisinin tüm güzelliğini sunan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Haraminin Tepe, Erzincan'da yüksek dağ ekolojisinin tüm güzelliğini sunan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, yükseklik zonlarına bağlı olarak değişen flora, ilkbaharda renkli çiçeklerle donanırken, sonbaharda sarı ve kahverengi tonlara bürünüyor. Alpin çayırlar, endemik türlerle zenginleştirerek bu dağ ekosisteminin çeşitliliğini artırıyor.
 

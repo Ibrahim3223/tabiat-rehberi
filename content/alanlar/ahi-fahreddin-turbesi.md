@@ -1,7 +1,7 @@
 ---
 title: "Ahi Fahreddin Türbesi"
 date: "2026-01-10T05:18:29.304Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"

@@ -1,7 +1,7 @@
 ---
 title: "Pertev Paşa Türbesi"
 date: "2026-01-10T04:51:20.016Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -24,7 +24,7 @@ wikidata_id: "Q31189527"
 
 # Pertev Paşa Türbesi
 
-Pertev Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir mekan olarak dikkat çeker. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve tarihi geçmişi ile ziyaretçilerini etkiler. Pertev Paşa Türbesi, mimarisi ve tarihi önemi ile İstanbul'un önemli mekanlarından biri olarak kabul edilir. Tarihi geçmişi, mimarisi ve coğrafi konumu ile ziyaretçilerini sürükleyen bir deneyime sahiptir.
+Pertev Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir mekan olarak dikkat çeker. Pertev Paşa Türbesi, mimarisi ve tarihi önemi ile İstanbul'un önemli mekanlarından biri olarak kabul edilir. Tarihi geçmişi, mimarisi ve coğrafi konumu ile ziyaretçilerini sürükleyen bir deneyime sahiptir.
 
 ## Tarihçe
 
@@ -32,7 +32,7 @@ Pertev Paşa Türbesi, tarihi geçmişi ile dikkat çeker. Bu türbenin tarihi h
 
 ## Coğrafya
 
-Pertev Paşa Türbesi, Eyüpsultan ilçesinde yer alır ve coğrafi konumu ile dikkat çeker. Bu türbe, İstanbul'un tarihi mekanları arasında yer alır ve coğrafi olarak önemli bir konuma sahiptir. Pertev Paşa Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve coğrafi olarak zengin bir bölge olarak kabul edilir. Coğrafi konumu, tarihi geçmişi ve mimarisi ile ziyaretçilerini sürükleyen bir deneyime sahiptir. Pertev Paşa Türbesi, İstanbul'un coğrafi zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak dikkat çeker. Pertev Paşa Türbesi, coğrafi olarak önemli bir konuma sahip olan bir mekan olarak bilinir ve ziyaretçilerini coğrafi bir yolculuğa çıkarır.
+Pertev Paşa Türbesi, Eyüpsultan ilçesinde yer alır ve coğrafi konumu ile dikkat çeker. Bu türbe, İstanbul'un tarihi mekanları arasında yer alır ve coğrafi olarak önemli bir konuma sahiptir. Coğrafi konumu, tarihi geçmişi ve mimarisi ile ziyaretçilerini sürükleyen bir deneyime sahiptir. Pertev Paşa Türbesi, İstanbul'un coğrafi zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak dikkat çeker. Pertev Paşa Türbesi, coğrafi olarak önemli bir konuma sahip olan bir mekan olarak bilinir ve ziyaretçilerini coğrafi bir yolculuğa çıkarır.
 
 ## Flora ve Fauna
 

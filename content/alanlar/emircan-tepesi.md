@@ -28,11 +28,11 @@ wikidata_id: "Q31524422"
 
 # Emircan Tepesi
 
-Isparta'nın doğal güzelliklerinin başında gelen Emircan Tepesi, Akdeniz Bölgesi'nin önemli noktalarından biri olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini bekliyor. Emircan Tepesi, hem doğa severlerin hem de tarihi ve kültürel zenginliklere ilgi duyanların ilgisini çekmeyi başaran bir destinasyon olarak ön plana çıkıyor.
+Isparta'nın doğal güzelliklerinin başında gelen Emircan Tepesi, Akdeniz Bölgesi'nin önemli noktalarından biri olarak dikkat çekiyor. Emircan Tepesi, hem doğa severlerin hem de tarihi ve kültürel zenginliklere ilgi duyanların ilgisini çekmeyi başaran bir destinasyon olarak ön plana çıkıyor.
 
 ## Tarihçe
 
-Emircan Tepesi'nin tarihi geçmişi, Isparta'nın história zenginliklerine ışık tutuyor. Bu tepe, yüzyıllar boyunca  medeniyetlerin izlerini taşıyor ve ziyaretçilerine zengin bir kültürel miras sunuyor. Tarihi geçmişi v-depth olarak incelendiğinde, Emircan Tepesi'nin önemli bir stratejik nokta olarak kullanıldığı anlaşılıyor. Bu tepenin etrafındaki yerleşim yerleri ve tarihi yapılar, ziyaretçilere bu bölgenin zengin tarihini anlatmaya yardımcı oluyor.
+Emircan Tepesi'nin tarihi geçmişi, Isparta'nın tarihi zenginliklerine ışık tutuyor. Bu tepe, yüzyıllar boyunca  medeniyetlerin izlerini taşıyor ve ziyaretçilerine zengin bir kültürel miras sunuyor. Tarihi geçmişi v-depth olarak incelendiğinde, Emircan Tepesi'nin önemli bir stratejik nokta olarak kullanıldığı anlaşılıyor. Bu tepenin etrafındaki yerleşim yerleri ve tarihi yapılar, ziyaretçilere bu bölgenin zengin tarihini anlatmaya yardımcı oluyor.
 
 ## Coğrafya
 

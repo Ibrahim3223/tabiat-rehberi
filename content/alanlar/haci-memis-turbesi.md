@@ -1,7 +1,7 @@
 ---
 title: "Hacı Memiş Türbesi"
 date: "2026-01-10T07:16:34.085Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390893"
 
 # Hacı Memiş Türbesi
 
-Hacı Memiş Türbesi, Konya'nın Seydişehir ilçesinde yer alan ve hem tarihi hem de doğal güzelliklerle dolu bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sağlar. Tarihi ve doğal güzelliklerinin birleşimi, bu alanı Konya'nın önemli turistik noktalarından biri haline getirir. Ziyaretçiler, hem tarihi yapıları inceleyebilir hem de geniş yeşil alanlarda doğanın güzelliklerini keşfedebilir.
+Hacı Memiş Türbesi, Konya'nın Seydişehir ilçesinde yer alan ve hem tarihi hem de doğal güzelliklerle dolu bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Tarihi ve doğal güzelliklerinin birleşimi, bu alanı Konya'nın önemli turistik noktalarından biri haline getirir. Ziyaretçiler, hem tarihi yapıları inceleyebilir hem de geniş yeşil alanlarda doğanın güzelliklerini keşfedebilir.
 
 ## Tarihçe
 

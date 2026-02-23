@@ -68,4 +68,4 @@ Serçelik Dağı, doğa severler için harika bir destinasyon. Sabah erken gitme
 - Bu dağ, çevresindeki diğer dağlardan daha alçak olmasına rağmen, önemli bir ekosistemi barındırmaktadır.
 - Dağın eteklerinde çeşitli bitki türleri bulunmaktadır.
 - Serçelik Dağı, özellikle trekking ve doğa yürüyüşü için popüler bir destinasyondur.
-- Dağın etrafında, históri ve kültürel açıdan önemli köyler ve kasabalar yer alır.
+- Dağın etrafında, tarihi ve kültürel açıdan önemli köyler ve kasabalar yer alır.

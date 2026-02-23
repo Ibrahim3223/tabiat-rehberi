@@ -28,7 +28,7 @@ wikidata_id: "Q34873059"
 
 # Güllücedağı Tepesi
 
-Güllücedağı Tepesi, Şanlıurfa'nın merkezi bir konumda bulunan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Güllücedağı Tepesi, ziyaretçilerine Şanlıurfa'nın tarihi ve doğal güzelliklerini bir arada sunar. Tepenin eteklerinde bulunan tarihi kalıntılar, ziyaretçilerin ilgisini çekerken, tepe üzerindeki manzara ise ziyaretçileri büyüler.
+Güllücedağı Tepesi, Şanlıurfa'nın merkezi bir konumda bulunan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Güllücedağı Tepesi, ziyaretçilerine Şanlıurfa'nın tarihi ve doğal güzelliklerini bir arada sunar. Tepenin eteklerinde bulunan tarihi kalıntılar, ziyaretçilerin ilgisini çekerken, tepe üzerindeki manzara ise ziyaretçileri büyüler.
 
 ## Tarihçe
 

@@ -50,11 +50,11 @@ Doğal bir su kaynağı olan Gernek Gölü, çevresindeki coğrafyanın şekille
 
 ## Flora ve Fauna
 
-Gernek Gölü, Samsun'un nemli ikliminin ve gür ormanlarının içinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gernek Gölü, Samsun'un nemli ikliminin ve gür ormanlarının içinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-**Bitki Örtüsü**: Gölün etrafını saran sulak alan bitkileri, ilkbaharda renkli çiçeklerle donanır. Sonbaharda, gölün suyu çekilince, yeni bitkiler ortaya çıkar. 
+**Bitki Örtüsü**: Gölün etrafını saran sulak alan bitkileri, ilkbaharda renkli çiçeklerle donanır. Sonbaharda, gölün suyu çekilince, yeni bitkiler ortaya çıkar.
 
-**Yaban Hayatı**: Su kuşları ve balıklar, gölün ekosisteminin temel taşlarıdır. Kuşlar, ilkbaharda yuvalarını kurar, sonbaharda ise göç ederler. 
+**Yaban Hayatı**: Su kuşları ve balıklar, gölün ekosisteminin temel taşlarıdır. Kuşlar, ilkbaharda yuvalarını kurar, sonbaharda ise göç ederler.
 
 **Ekolojik Değer**: Bu yüksek biyoçeşitlilik, gölün önemini gösterir. Ekosistemin dengesi, canlıların yaşam alanlarına bağlıdır.
 

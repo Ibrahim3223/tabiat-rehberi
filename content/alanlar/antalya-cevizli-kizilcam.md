@@ -22,7 +22,7 @@ wikidata_id: "Q108227300"
 
 # Antalya-Cevizli Kızılçam
 
-Antalya-Cevizli Kızılçam milli parkı, Akdeniz Bölgesi'nin güzide kentlerinden biri olan Antalya'da yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde doğa harikası. Bu muhteşem park, ziyaretçilerine eşsiz bir doğa deneyimi sunuyor. Geniş ağaçları, zengin bitki çeşitliliği ve çeşitli hayvan türleriyle Cevizli Kızılçam, doğa severlerin cenneti harika bir deneyim. Parkın sunduğu olanaklar arasında yürüyüş parkurları, piknik alanları veleme noktaları bulunuyor. Bu sayede ziyaretçiler, doğanın güzelliğini yakından keşfedebilir ve huzurlu bir gün geçirebilir.
+Antalya-Cevizli Kızılçam milli parkı, Akdeniz Bölgesi'nin güzide kentlerinden biri olan Antalya'da yer alıyor. Bu muhteşem park, ziyaretçilerine eşsiz bir doğa deneyimi sunuyor. Geniş ağaçları, zengin bitki çeşitliliği ve çeşitli hayvan türleriyle Cevizli Kızılçam, doğa severlerin cenneti harika bir deneyim. Parkın sunduğu olanaklar arasında yürüyüş parkurları, piknik alanları veleme noktaları bulunuyor. Bu sayede ziyaretçiler, doğanın güzelliğini yakından keşfedebilir ve huzurlu bir gün geçirebilir.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Antalya-Cevizli Kızılçam milli parkı, coğrafi olarak oldukça çeşitli bir
 
 ## Flora ve Fauna
 
-Antalya-Cevizli Kızılçam milli parkı, flora ve fauna açısından oldukça zengin bir yapıya sahip. Parkta, çeşitli bitki türleri ve hayvanlar yaşıyor. Mevsimsel değişimlere bağlı olarak, parkın flora ve fauna yapısı da değişiyor. Kış aylarında, parkta daha çok sucul bitkiler ve hayvanlar görülürken, yaz aylarında ise daha çok kuraklığa dayanıklı bitkiler ve sıcak hava hayvanları bulunabiliyor. Parkta, özellikle kızılçam ağaçları, geniş ormanlık alanları oluşturuyor. Ayrıca, parkta yer alan diğer bitki türleri arasında, maki, çam ve sedir ağaçları bulunabiliyor. Hayvanlar açısından da zengin olan parkta, çeşitli kuş türleri, memeliler ve sürüngenler yaşıyor. Bu çeşitlilik, parkın ekolojik dengesini koruyor ve burayı ziyaret edenler için eşsiz bir deneyim sunuyor.
+ Parkta, çeşitli bitki türleri ve hayvanlar yaşıyor. Mevsimsel değişimlere bağlı olarak, parkın flora ve fauna yapısı da değişiyor. Kış aylarında, parkta daha çok sucul bitkiler ve hayvanlar görülürken, yaz aylarında ise daha çok kuraklığa dayanıklı bitkiler ve sıcak hava hayvanları bulunabiliyor. Parkta, özellikle kızılçam ağaçları, geniş ormanlık alanları oluşturuyor. Ayrıca, parkta yer alan diğer bitki türleri arasında, maki, çam ve sedir ağaçları bulunabiliyor. Hayvanlar açısından da zengin olan parkta, çeşitli kuş türleri, memeliler ve sürüngenler yaşıyor. Bu çeşitlilik, parkın ekolojik dengesini koruyor ve burayı ziyaret edenler için eşsiz bir deneyim sunuyor.
 
 ## Ziyaret Bilgileri
 

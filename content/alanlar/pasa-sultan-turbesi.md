@@ -1,7 +1,7 @@
 ---
 title: "Paşa Sultan Türbesi"
 date: "2026-01-10T05:17:43.845Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391719"
 
 # Paşa Sultan Türbesi
 
-Paşa Sultan Türbesi, Marmara Bölgesi'nin güzide illerinden Balıkesir'in Karesi ilçesinde yer alan bir plajdır. 140 hektarlık bir alanı kaplayan bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Paşa Sultan Türbesi, denize sıfır konumu ve geniş kumsalıyla dikkat çeker. Burada, denizin serinliğinde serinleme ve güneşin sıcaklığında bronzlaşma mümkündür. Plaj, özellikle yaz aylarında ziyaretçilerini ağırlar ve bölgeye gelenlerin en çok ziyaret ettiği yerlerden biridir.
+Paşa Sultan Türbesi, Marmara Bölgesi'nin güzide illerinden Balıkesir'in Karesi ilçesinde yer alan bir plajdır. Paşa Sultan Türbesi, denize sıfır konumu ve geniş kumsalıyla dikkat çeker. Burada, denizin serinliğinde serinleme ve güneşin sıcaklığında bronzlaşma mümkündür. Plaj, özellikle yaz aylarında ziyaretçilerini ağırlar ve bölgeye gelenlerin en çok ziyaret ettiği yerlerden biridir.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728285"
 
 # Ankara Frig Tümülüsü 7, Emniyet
 
-Ankara Frig Tümülüsü 7, Emniyet, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Yenimahalle ilçesinde yer alan tarihi ve doğal bir güzelliktir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi ile dikkat çeken bu bölge, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşımaktadır. Ankara Frig Tümülüsü 7, Emniyet, ziyaretçilerini tarihin derinliklerine götürmektedir.
+Ankara Frig Tümülüsü 7, Emniyet, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Yenimahalle ilçesinde yer alan tarihi ve doğal bir güzelliktir. Tarihi geçmişi ile dikkat çeken bu bölge, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşımaktadır. Ankara Frig Tümülüsü 7, Emniyet, ziyaretçilerini tarihin derinliklerine götürmektedir.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228732"
 
 # EMET
 
-EMET, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir milli parktır. Bu geniş yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, şehir hayatının stresinden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. EMET'in büyüklüğü, yaklaşık 200 futbol sahası büyüklüğüne eşittir ve bu da ziyaretçilere geniş bir açık alan sunar.
+ Bu geniş yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, şehir hayatının stresinden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır.
 
 ## Tarihçe
 

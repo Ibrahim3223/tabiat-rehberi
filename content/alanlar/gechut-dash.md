@@ -26,7 +26,7 @@ Artvin'in doğa harikalarıyla dolu coğrafyasında, Gechut Dash dağının gize
 
 ## Tarihçe
 
-Artvin bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisi altında kalmıştır. Antik Çağ'da Kolheti Krallığı, Roma İmparatorluğu ve ardından Bizans İmparatorluğu'nun hâkimiyeti altında kalan bölge, daha sonra Gürcü Kralları'nın ve Selçuklu Türklerinin kontrolüne geçmiştir.
+Artvin bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisi altında kalmıştır. Antik Çağ'da Kolheti Krallığı, Roma İmparatorluğu ve ardından Bizans İmparatorluğu'nun hâkimiyeti altında kalan bölge, daha sonra Gürcü Kralları'nın ve Selçuklu Türklerinin kontrolüne geçmiştir.
 
 Bu doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturur. İnsanlar, yüzyıllardır bu gibi doğal alanları yaylacılık, hayvancılık ve ticaret için kullanmışlardır. Artvin bölgesindeki dağlar ve ormanlar, tarihi İpek Yolu'nun bir bölümünü oluşturan önemli ticaret yollarına ev sahipliği yapmıştır.
 
@@ -44,13 +44,13 @@ Mevsimsel olarak, Gechut Dash'in iklimi oldukça değişken. Kış aylarında ka
 
 ## Flora ve Fauna
 
-Geçit Daş'ın dağ ekosistemi, nemli iklim ve gür ormanlarla kaplı 1200 hektarlık bir alana sahiptir. Bu bölge, yüksek biyoçeşitlilikle karakterizedir. İlkbaharla birlikte, dağ yamacında çiçekler açmaya başlar ve alpin flora ortaya çıkar. 
+Geçit Daş'ın dağ ekosistemi, nemli iklim ve gür ormanlarla kaplı 1200 hektarlık bir alana sahiptir. Bu bölge, yüksek biyoçeşitlilikle karakterizedir. İlkbaharla birlikte, dağ yamacında çiçekler açmaya başlar ve alpin flora ortaya çıkar.
 
 Bitki örtüsünün hakim türleri, yükseklik zonlarına göre değişir. Alçak bölgelerde geniş yapraklı ormanlar, yüksek bölgelerde ise iğne yapraklı ağaçlar görülür. Sonbaharda, ormanlar renk cümbüşüne dönüşür ve göç eden kuşlar bu manzaraya eşlik eder.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Dağ keçileri, ayılar ve kurtlar, bu bölgenin önemli memeli türleridir. Kuşlar, özellikle göç mevsimlerinde, bu bölgeyi önemli bir konaklama noktası olarak kullanır. Sürüngenler, kayalık alanlarda ve orman zemininde yaşar. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirilmiştir. Dağ keçileri, ayılar ve kurtlar, bu bölgenin önemli memeli türleridir. Kuşlar, özellikle göç mevsimlerinde, bu bölgeyi önemli bir konaklama noktası olarak kullanır. Sürüngenler, kayalık alanlarda ve orman zemininde yaşar.
 
-Ekolojik değer, bu bölgenin yüksek biyoçeşitlili ve doğal güzelliği ile ortaya çıkar. Koruma durumu, bu alanın doğal kaynaklarını koruma ve gelecek nesiller için bảo tồn etmek için önemlidir.
+Ekolojik değer, bu bölgenin yüksek biyoçeşitlili ve doğal güzelliği ile ortaya çıkar. Koruma durumu, bu alanın doğal kaynaklarını koruma ve gelecek nesiller için koruma tồn etmek için önemlidir.
 
 ## Ziyaret Bilgileri
 

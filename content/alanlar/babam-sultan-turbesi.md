@@ -1,7 +1,7 @@
 ---
 title: "Babam Sultan Türbesi"
 date: "2026-01-10T06:00:41.531Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sakarya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390506"
 
 # Babam Sultan Türbesi
 
-Pamukova'nın güzide plajlarından biri olan Babam Sultan Türbesi, Sakarya'nın Marmara Bölgesi'nde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Plajın çevresindeki doğal güzellikler, ziyaretçilere huzurlu ve sakin bir atmosfer sunuyor. Babam Sultan Türbesi, hem doğa severlerin hem de plaj tutkunlarının keyif alacağı bir destinasyon olarak öne çıkıyor.
+Pamukova'nın güzide plajlarından biri olan Babam Sultan Türbesi, Sakarya'nın Marmara Bölgesi'nde yer alıyor. Plajın çevresindeki doğal güzellikler, ziyaretçilere huzurlu ve sakin bir atmosfer sunuyor. Babam Sultan Türbesi, hem doğa severlerin hem de plaj tutkunlarının keyif alacağı bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

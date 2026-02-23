@@ -1,7 +1,7 @@
 ---
 title: "Yerköprü Çağlayanı"
 date: "2026-01-09T21:47:03.207Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Mersin"
@@ -30,7 +30,7 @@ wikidata_id: "Q27929635"
 
 # Yerköprü Çağlayanı
 
-Yerköprü Çağlayanı, Mersin'in Mut ilçesinde yer alan ve Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreleriyle birlikte ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Yerköprü Çağlayanı, ziyaretçilerini büyüleyici bir doğa güzelliği ile karşılayan bir yer. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Yerköprü Çağlayanı, aynı zamanda birçok bitki ve hayvan türünün yaşam alanı olarak da dikkat çekiyor. Bu nedenle, doğa severler için ideal bir destinasyon olarak görülüyor.
+Yerköprü Çağlayanı, Mersin'in Mut ilçesinde yer alan ve Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. Yerköprü Çağlayanı, ziyaretçilerini büyüleyici bir doğa güzelliği ile karşılayan bir yer. Burada, doğanın seslerini dinleyerek, stresinizi atabilirsiniz. Yerköprü Çağlayanı, aynı zamanda birçok bitki ve hayvan türünün yaşam alanı olarak da dikkat çekiyor. Bu nedenle, doğa severler için ideal bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Yerköprü Çağlayanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Yerköprü Çağlayanı, Mersin'in Mut ilçesinde yer alan bir milli parktır. Bu milli park, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. Yerköprü Çağlayanı, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, birçok bitki ve hayvan türünün yaşam alanı olarak dikkat çekiyor. Yerköprü Çağlayanı, aynı zamanda birçok doğa harikasına ev sahipliği yapıyor. Burada, şelaleler, nehirler, ormanlar ve birçok diğer doğal güzelliklere rastlayabilirsiniz. Yerköprü Çağlayanı'nın iklimi, Akdeniz iklimi özellikleri gösteriyor. Bu nedenle, Yerköprü Çağlayanı, yıl boyunca ziyaret edilebilir. Yerköprü Çağlayanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+Yerköprü Çağlayanı, Mersin'in Mut ilçesinde yer alan bir milli parktır. Bu milli park, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu alan, birçok bitki ve hayvan türünün yaşam alanı olarak dikkat çekiyor. Yerköprü Çağlayanı, aynı zamanda birçok doğa harikasına ev sahipliği yapıyor. Burada, şelaleler, nehirler, ormanlar ve birçok diğer doğal güzelliklere rastlayabilirsiniz. Yerköprü Çağlayanı'nın iklimi, Akdeniz iklimi özellikleri gösteriyor. Bu nedenle, Yerköprü Çağlayanı, yıl boyunca ziyaret edilebilir. Yerköprü Çağlayanı, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
-Yerköprü Çağlayanı, birçok bitki ve hayvan türünün yaşam alanı olarak dikkat çekiyor. Bu milli park, yaklaşık 200 futbol sahası büyüklüğünde ve 140 hektarlık bir alana yayılmış. Burada, birçok ağaç türüne rastlayabilirsiniz. Yerköprü Çağlayanı, aynı zamanda birçok kuş türünün yaşam alanı olarak da dikkat çekiyor. Burada, birçok farklı türde bitki ve hayvanlara rastlayabilirsiniz. Yerköprü Çağlayanı, ziyaretçilerine doğanın güzelliğini sunuyor. Yerköprü Çağlayanı'nın flora ve faunası, ziyaretçilerini büyüleyici bir deneyimle karşılayacak.
+Yerköprü Çağlayanı, birçok bitki ve hayvan türünün yaşam alanı olarak dikkat çekiyor. Burada, birçok ağaç türüne rastlayabilirsiniz. Yerköprü Çağlayanı, aynı zamanda birçok kuş türünün yaşam alanı olarak da dikkat çekiyor. Burada, birçok farklı türde bitki ve hayvanlara rastlayabilirsiniz. Yerköprü Çağlayanı, ziyaretçilerine doğanın güzelliğini sunuyor. Yerköprü Çağlayanı'nın flora ve faunası, ziyaretçilerini büyüleyici bir deneyimle karşılayacak.
 
 ## Ziyaret Bilgileri
 

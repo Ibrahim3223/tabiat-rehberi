@@ -36,7 +36,7 @@ Taşliağil Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Taşliağil Tepesi, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, Ankara'nın merkezine yakın bir konumda bulunmakta ve kolay ulaşılabilirlik sağlıyor. Taşliağil Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, doğal güzellikleri ile dikkat çekiyor. Taşliağil Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin fauna ile ziyaretçilerini karşılıyor. Bu tepe, mevsimsel değişimlere göre farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin çeşitli tonları, sonbahar ve kış aylarında ise renkli bir manzara sunuyor. Taşliağil Tepesi, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+Taşliağil Tepesi, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, Ankara'nın merkezine yakın bir konumda bulunmakta ve kolay ulaşılabilirlik sağlıyor. Bu tepe, doğal güzellikleri ile dikkat çekiyor. Taşliağil Tepesi'nin etrafı, çeşitli bitki türleri ile kaplı ve zengin fauna ile ziyaretçilerini karşılıyor. Bu tepe, mevsimsel değişimlere göre farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin çeşitli tonları, sonbahar ve kış aylarında ise renkli bir manzara sunuyor. Taşliağil Tepesi, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Taşliağil Tepesi, ziyaretçilerine kolay ulaşılabilirlik sağlıyor. Bu tepe
 
 ## İlginç Bilgiler
 
-- Taşliağil Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu tepe, çeşitli bitki türleri ile kaplı ve fauna açısından zengin.
 - Taşliağil Tepesi, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor.
 - Bu tepe, Ankara'nın merkezine yakın bir konumda bulunmakta.

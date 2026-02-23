@@ -1,7 +1,7 @@
 ---
 title: "Koçu Baba Türbesi"
 date: "2026-01-10T06:59:04.786Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırıkkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390863"
 
 # Koçu Baba Türbesi
 
-Kırıkkale'nin Balışeyh ilçesinde yer alan Koçu Baba Türbesi, tarihi ve doğal güzelliklerin birleştiği özel bir noktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş bir alan sunmaktadır. Koçu Baba Türbesi, ziyaretçiler için hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Bu mekan, özellikle doğa severler ve tarih meraklıları için unutulmaz bir deneyim sunar.
+Kırıkkale'nin Balışeyh ilçesinde yer alan Koçu Baba Türbesi, tarihi ve doğal güzelliklerin birleştiği özel bir noktadır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alana sahiptir. Koçu Baba Türbesi, ziyaretçiler için hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar. Bu mekan, özellikle doğa severler ve tarih meraklıları için unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

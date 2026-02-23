@@ -32,7 +32,7 @@ Kütahya'nın doğa harikaları arasında yer alan Taşlı Dağ, ziyaretçilerin
 
 ## Tarihçe
 
-Kütahya bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Bu bölge, histórik olarak Frigler, Lidyalılar, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisi altında kalmıştır. Taşlı Dağ, bu tarihsel zenginliğin bir parçası olarak görülebilir. Türkiye'de doğal alanlar, her zaman insan yerleşimlerinin, ticaret yollarının ve kültürel etkinliklerin merkezinde yer almıştır. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların geleneksel geçim kaynaklarından biri olmuştur.
+Kütahya bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Bu bölge, tarihi olarak Frigler, Lidyalılar, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların etkisi altında kalmıştır. Taşlı Dağ, bu tarihsel zenginliğin bir parçası olarak görülebilir. Türkiye'de doğal alanlar, her zaman insan yerleşimlerinin, ticaret yollarının ve kültürel etkinliklerin merkezinde yer almıştır. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların geleneksel geçim kaynaklarından biri olmuştur.
 
 Taşlı Dağ gibi doğal güzellikler, insan yerleşimlerinin ve ekonomik faaliyetlerin odak noktaları olarak hizmet etmişlerdir. Bölgedeki insanların yaşam tarzı, mevsimsel göçlerle, hayvancılıkla ve tarımla şekillenmiştir. Ticaret yolları da bu doğal alanlardan geçerek, bölgenin ekonomi ve kültürel gelişimine katkıda bulunmuştur. Kütahya'nın tarihsel zenginliği ve coğrafi konumu, Taşlı Dağ'ın da dahil olduğu doğal alanların önemini vurgular. Bu alanlar, sadece doğa güzelliği ile değil, aynı zamanda tarihsel ve kültürel değerleriyle de dikkat çeker.
 
@@ -48,7 +48,7 @@ Doğal bir çekirdek olarak düşünülen Taşlı Dağ, çevresindeki ekosistemi
 
 ## Flora ve Fauna
 
-Taşlı Dağ, Kütahya'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ etekleri rengarenk çiçeklerle donanır. Çam ormanları, yükseklik zonlarına göre değişen flora çeşitliliği sergiler. 
+Taşlı Dağ, Kütahya'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ etekleri rengarenk çiçeklerle donanır. Çam ormanları, yükseklik zonlarına göre değişen flora çeşitliliği sergiler.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Kış aylarında, dağların yüksek kesimlerinde karla kaplı alanlarda yaşayan bazı memeliler, daha alçak kesimlere iner. Sonbaharda, göçmen kuşlar dağ üzerinden geçer. Ekolojik değer olarak, bu dağ ekosistemi, bölgenin su döngüsünü ve topra verimliliğini korur. Ancak, insan faaliyetleri ve iklim değişikliği tehdidi altında olan bu alanın korunması önemlidir.
 

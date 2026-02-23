@@ -51,7 +51,7 @@ Arapapıştı Kanyonu, çevresindeki diğer doğal alanlarla da bağlantılı ol
 
 ## Flora ve Fauna
 
-Arapapıştı Kanyonu, Aydın'da bulunan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Arapapıştı Kanyonu, Aydın'da bulunan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak step bitki örtüsü ve bozkır hakimdir. İlkbahar aylarında, kanyonun yamaçları renkli çiçeklerle donanır. Sonbaharda ise, kuraklık nedeniyle bazı bitkiler solmaya başlar. Bu mevsimsel değişim, kanyonun ekolojik dengesini korur.
 

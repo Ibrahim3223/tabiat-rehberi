@@ -30,7 +30,7 @@ wikidata_id: "Q31190853"
 
 # Tomara Şelalesi
 
-Tomara Şelalesi, Karadeniz Bölgesi'nin güzide illerinden Gümüşhane'nin Şiran ilçesinde bulunan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alanı kaplayan ormanlık bir bölgede yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğayla iç içe bir deneyim sunar. Tomara Şelalesi, özellikle ilkbahar ve yaz aylarında ziyaretçilerini çeken bir yerdir. Şelalenin çevresindeki ormanlık alan, çeşitli ağaç türleriyle dolu ve bu bölgede yapılan yürüyüşler, doğaseverler için gerçek bir keyif kaynağı.
+Tomara Şelalesi, Karadeniz Bölgesi'nin güzide illerinden Gümüşhane'nin Şiran ilçesinde bulunan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alanı kaplayan ormanlık bir bölgede yer alır. Tomara Şelalesi, özellikle ilkbahar ve yaz aylarında ziyaretçilerini çeken bir yerdir. Şelalenin çevresindeki ormanlık alan, çeşitli ağaç türleriyle dolu ve bu bölgede yapılan yürüyüşler, doğaseverler için gerçek bir keyif kaynağı.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Tomara Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Tomara Şelalesi, Gümüşhane'nin Şiran ilçesinde yer alan bir doğa harikasıdır. Bu şelale, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, ormanlık bir bölgede yer alır. Şelalenin bulunduğu alan, 140 hektarlık bir ormanlık bölge olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tomara Şelalesi'nin coğrafi konumu, ziyaretçilerine doğayla iç içe bir deneyim sunar. Şelalenin etrafındaki ormanlık alan, çeşitli bitki türleriyle dolu ve bu bölgede yapılan yürüyüşler, doğaseverler için gerçek bir keyif kaynağı. Tomara Şelalesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini yansıtan önemli bir noktadır. Şelale, ilkbahar ve yaz aylarında ziyaretçilerini en çok çeken mevsimdir. Bu dönemde, şelale ve çevresi, yeşilin tüm tonlarını ziyaretçilerine sunar.
+Tomara Şelalesi, Gümüşhane'nin Şiran ilçesinde yer alan bir doğa harikasıdır. Bu şelale, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, ormanlık bir bölgede yer alır. Tomara Şelalesi'nin coğrafi konumu, ziyaretçilerine doğayla iç içe bir deneyim sunar. Şelalenin etrafındaki ormanlık alan, çeşitli bitki türleriyle dolu ve bu bölgede yapılan yürüyüşler, doğaseverler için gerçek bir keyif kaynağı. Tomara Şelalesi, Karadeniz Bölgesi'nin coğrafi güzelliklerini yansıtan önemli bir noktadır. Şelale, ilkbahar ve yaz aylarında ziyaretçilerini en çok çeken mevsimdir. Bu dönemde, şelale ve çevresi, yeşilin tüm tonlarını ziyaretçilerine sunar.
 
 ## Flora ve Fauna
 

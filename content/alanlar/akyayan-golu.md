@@ -29,7 +29,7 @@ wikidata_id: "Q30622293"
 
 # Akyayan Gölü
 
-Adana'nın Karataş ilçesinde yer alan Akyayan Gölü, ziyaretçilerini doğanın sakinliğiyle karşılayan bir doğal güzellik. Bu göl, bölgenin önemli ekolojik dengesini sağlayan su kaynaklarından biri. Karataş'ın doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olan Akyayan Gölü, çevresindeki yeşillikler ve suyun serinliğiyle unutulmaz anlar vadeder. 
+Adana'nın Karataş ilçesinde yer alan Akyayan Gölü, ziyaretçilerini doğanın sakinliğiyle karşılayan bir doğal güzellik. Bu göl, bölgenin önemli ekolojik dengesini sağlayan su kaynaklarından biri. Karataş'ın doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyon olan Akyayan Gölü, çevresindeki yeşillikler ve suyun serinliğiyle unutulmaz anlar vadeder.
 Gölün etrafındaki manzara, doğaseverler için gerçek bir cennet.
 
 ## Tarihçe

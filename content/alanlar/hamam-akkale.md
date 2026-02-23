@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Akkale"
 date: "2026-01-09T23:47:19.682Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245801"
 
 # Hamam, Akkale
 
-Mersin'in Erdemli ilçesinde yer alan Hamam, Akkale plajı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş ve ferah bir alan sunuyor. Plajın uzunluğu yaklaşık 1,5 kilometre ve bu, ziyaretçilerin keyifli bir yürüyüş yapmasına olanak tanıyor. Ayrıca, plajın genişliği yaklaşık 100 metre ve bu da güneşlenme ve denizde vakit geçirmek için ideal bir ortam sağlıyor.
+ Bu büyüklük, ziyaretçilere geniş ve ferah bir alan sunuyor. Plajın uzunluğu yaklaşık 1,5 kilometre ve bu, ziyaretçilerin keyifli bir yürüyüş yapmasına olanak tanıyor. Ayrıca, plajın genişliği yaklaşık 100 metre ve bu da güneşlenme ve denizde vakit geçirmek için ideal bir ortam sağlıyor.
 
 ## Tarihçe
 

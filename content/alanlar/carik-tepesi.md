@@ -28,11 +28,11 @@ wikidata_id: "Q34828412"
 
 # Çarık Tepesi
 
-Çarık Tepesi, Doğu Anadolu Bölgesi'nde, Bingöl ilinin sınırları içerisinde yer alan bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Çarık Tepesi'nin etrafı, zengin bir flora ve fauna ile çevrilidir. Burada, çeşitli bitki türleri ve hayvanlar yaşar. Bu tepe, aynı zamanda bölgenin önemli bir turizm merkezi olarak dikkat çeker.
+Çarık Tepesi, Doğu Anadolu Bölgesi'nde, Bingöl ilinin sınırları içerisinde yer alan bir tepe. Çarık Tepesi'nin etrafı, zengin bir flora ve fauna ile çevrilidir. Burada, çeşitli bitki türleri ve hayvanlar yaşar. Bu tepe, aynı zamanda bölgenin önemli bir turizm merkezi olarak dikkat çeker.
 
 ## Tarihçe
 
-Çarık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarih boyunca farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımıştır. Çarık Tepesi, bölgenin kültürel mirasının önemli bir parçasıdır. Burada, tarihi kalıntılar ve önemli yapılar bulunur. Bu tepenin história, bölgenin tarihini anlamak için önemli bir kaynaktır. Çarık Tepesi, aynı zamanda bölgenin önemli bir turizm merkezi olarak dikkat çeker ve her yıl birçok ziyaretçi tarafından ziyaret edilir.
+Çarık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarih boyunca farklı medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımıştır. Çarık Tepesi, bölgenin kültürel mirasının önemli bir parçasıdır. Burada, tarihi kalıntılar ve önemli yapılar bulunur. Bu tepenin tarihi, bölgenin tarihini anlamak için önemli bir kaynaktır. Çarık Tepesi, aynı zamanda bölgenin önemli bir turizm merkezi olarak dikkat çeker ve her yıl birçok ziyaretçi tarafından ziyaret edilir.
 
 ## Coğrafya
 

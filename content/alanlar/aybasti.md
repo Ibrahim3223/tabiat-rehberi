@@ -23,7 +23,7 @@ wikidata_id: "Q108228643"
 
 # AYBASTI
 
-AYBASTI milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzelliktir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreye zarar vermeden korunmuştur. Milli parkın içinde çeşitli bitki türleri ve zengin fauna found. AYBASTI, doğa severlerin ve bilim insanlarının ilgisini çeken bir alandır. Burada, yaban hayatını gözlemleme ve doğal güzellikleri keşfetme mümkündür. AYBASTI milli parkı, aynı zamanda bölgenin önemli bir turizm merkezidir.
+AYBASTI milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzelliktir. Milli parkın içinde çeşitli bitki türleri ve zengin fauna found. AYBASTI, doğa severlerin ve bilim insanlarının ilgisini çeken bir alandır. Burada, yaban hayatını gözlemleme ve doğal güzellikleri keşfetme mümkündür. AYBASTI milli parkı, aynı zamanda bölgenin önemli bir turizm merkezidir.
 
 ## Tarihçe
 

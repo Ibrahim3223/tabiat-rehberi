@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Esad Efendi Türbesi"
 date: "2026-01-10T04:49:26.945Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"

@@ -28,7 +28,7 @@ wikidata_id: "Q31388517"
 
 # Korgan Tepesi
 
-Korgan Tepesi, Erzurum'un doğal güzellikleri arasında önemli bir yer tutuyor. 140 hektarlık bir alanı kapsayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem doğayı keşfetme hem de bölgenin tarihini öğrenme fırsatı sunuyor. Korgan Tepesi, Erzurum'un coğrafi özellikleri ve tarihi geçmişi hakkında bilgi edinmek isteyenler için ideal bir destinasyon. Bu tepe, aynı zamanda bölgenin flora ve faunasını keşfetmek isteyen doğa severler için de önemli bir nokta.
+Korgan Tepesi, Erzurum'un doğal güzellikleri arasında önemli bir yer tutuyor. Bu geniş alan, ziyaretçilere hem doğayı keşfetme hem de bölgenin tarihini öğrenme fırsatı sunuyor. Korgan Tepesi, Erzurum'un coğrafi özellikleri ve tarihi geçmişi hakkında bilgi edinmek isteyenler için ideal bir destinasyon. Bu tepe, aynı zamanda bölgenin flora ve faunasını keşfetmek isteyen doğa severler için de önemli bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Korgan Tepesi'nin tarihi geçmişi, Erzurum'un tarihi ile iç içe geçmiş. Bu 
 
 ## Coğrafya
 
-Korgan Tepesi, Erzurum'un coğrafi özellikleri arasında önemli bir yer tutuyor. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Korgan Tepesi, bölgenin flora ve faunası açısından da önemli bir nokta. Bu tepe, çeşitli bitki türleri ve hayvanların yaşam alanı. Korgan Tepesi'nin coğrafi özellikleri, ziyaretçilere doğayı keşfetme fırsatı sunuyor. Bu tepe, aynı zamanda bölgenin iklimi ve jeolojik özellikleri hakkında bilgi edinmek isteyenler için de önemli bir destinasyon. Korgan Tepesi, Erzurum'un coğrafi çeşitliliği hakkında bilgi edinmek isteyenler için ideal bir yer.
+Korgan Tepesi, Erzurum'un coğrafi özellikleri arasında önemli bir yer tutuyor. Korgan Tepesi, bölgenin flora ve faunası açısından da önemli bir nokta. Bu tepe, çeşitli bitki türleri ve hayvanların yaşam alanı. Korgan Tepesi'nin coğrafi özellikleri, ziyaretçilere doğayı keşfetme fırsatı sunuyor. Bu tepe, aynı zamanda bölgenin iklimi ve jeolojik özellikleri hakkında bilgi edinmek isteyenler için de önemli bir destinasyon. Korgan Tepesi, Erzurum'un coğrafi çeşitliliği hakkında bilgi edinmek isteyenler için ideal bir yer.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Korgan Tepesi, ziyaretçilere doğayı keşfetme ve bölgenin tarihini öğrenme
 ## İlginç Bilgiler
 
 - Korgan Tepesi, 140 hektarlık bir alanı kapsıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Korgan Tepesi, Erzurum'un coğrafi özellikleri ve tarihi geçmişi hakkında bilgi edinmek isteyenler için ideal bir destinasyon.
 - Bu tepe, doğa severler için önemli bir nokta.
 - Korgan Tepesi, bölgenin flora ve faunası açısından önemli bir yer tutuyor.

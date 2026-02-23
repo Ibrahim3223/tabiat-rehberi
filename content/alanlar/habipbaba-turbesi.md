@@ -1,7 +1,7 @@
 ---
 title: "Habipbaba Türbesi"
 date: "2026-01-10T05:59:04.999Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390517"
 
 # Habipbaba Türbesi
 
-Habipbaba Türbesi, Erzurum'un Yakutiye ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbine yakın bir konumda bulunuyor. Bu özel mekân, hem tarihin izlerini taşıyor hem de ziyaretçilerini doğanın güzelliği ile karşılaştırıyor. Habipbaba Türbesi, Erzurum'un önemli kültürel ve tarihi noktalarından biri olarak biliniyor.
+Habipbaba Türbesi, Erzurum'un Yakutiye ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir destinasyon. Bu özel mekân, hem tarihin izlerini taşıyor hem de ziyaretçilerini doğanın güzelliği ile karşılaştırıyor. Habipbaba Türbesi, Erzurum'un önemli kültürel ve tarihi noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 

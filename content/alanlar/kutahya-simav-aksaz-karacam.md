@@ -22,7 +22,7 @@ wikidata_id: "Q108227527"
 
 # Kutahya-Simav-Aksaz Karacam
 
-Kutahya-Simav-Aksaz Karacam milli parkı, yaklaşık 140 hektarlık yeşil alanı ile İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu büyüleyici alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bu park, ziyaretçilerine eşsiz bir deneyim sunuyor. 140 hektarlık bu yeşil alan, hem doğa severler hem de tatil arayanlar için ideal bir destinasyon.
+Kutahya-Simav-Aksaz Karacam milli parkı, yaklaşık 140 hektarlık yeşil alanı ile İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bu park, ziyaretçilerine eşsiz bir deneyim sunuyor. 140 hektarlık bu yeşil alan, hem doğa severler hem de tatil arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

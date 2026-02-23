@@ -28,7 +28,7 @@ wikidata_id: "Q31390501"
 
 # Kağşak Tepesi
 
-Kağşak Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı ile ziyaretçilerini bekleyen bir doğal güzelliktir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayarak, ziyaretçilerine geniş bir alan sunar. Konya'nın coğrafi yapısı ve iklimi, Kağşak Tepesi'nin oluşumunu etkilemiştir. Tepenin yüksekliği ve genişliği, ziyaretçilerine geniş bir manzara sunarken, aynı zamanda çeşitli bitki türleri ve fauna ile zengin bir ekosistemi destekler.
+Kağşak Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı ile ziyaretçilerini bekleyen bir doğal güzelliktir. Konya'nın coğrafi yapısı ve iklimi, Kağşak Tepesi'nin oluşumunu etkilemiştir. Tepenin yüksekliği ve genişliği, ziyaretçilerine geniş bir manzara sunarken, aynı zamanda çeşitli bitki türleri ve fauna ile zengin bir ekosistemi destekler.
 
 ## Tarihçe
 

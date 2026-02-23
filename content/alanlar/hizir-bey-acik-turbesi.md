@@ -1,7 +1,7 @@
 ---
 title: "Hızır Bey Açık Türbesi"
 date: "2026-01-10T05:06:34.032Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Nevşehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391582"
 
 # Hızır Bey Açık Türbesi
 
-Hızır Bey Açık Türbesi, Ürgüp ilçesinde bulunan bir tarihi türbe ve plaj alanıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ürgüp'ün merkezine yakındır. Bu bölge, tarihi ve doğal güzellikleri bir araya getirmesiyle dikkat çekmektedir. Hızır Bey Açık Türbesi, hem tarihi açıdan hem de doğal güzelliği ile ilgi çekici bir destinasyon olarak karşımıza çıkmaktadır. Ürgüp'ün tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir yerdir.
+Hızır Bey Açık Türbesi, Ürgüp ilçesinde bulunan bir tarihi türbe ve plaj alanıdır. Bu bölge, tarihi ve doğal güzellikleri bir araya getirmesiyle dikkat çekmektedir. Hızır Bey Açık Türbesi, hem tarihi açıdan hem de doğal güzelliği ile ilgi çekici bir destinasyon olarak karşımıza çıkmaktadır. Ürgüp'ün tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir yerdir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hızır Bey Açık Türbesi, tarihi geçmişiyle önemlidir. Bu türbenin tam ol
 
 ## Coğrafya
 
-Hızır Bey Açık Türbesi, Ürgüp'ün merkezine yakın bir konumda bulunmaktadır. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alana sahiptir ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, doğal güzelliği ile dikkat çekmekte ve ziyaretçilere geniş açık alanlar sunmaktadır. Ürgüp'ün iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve bölgede karasal iklim hüküm sürer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi ve iklimsel özellikler, bölgenin flora ve faunasını da etkilemektedir. Hızır Bey Açık Türbesi ve etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.
+Hızır Bey Açık Türbesi, Ürgüp'ün merkezine yakın bir konumda bulunmaktadır. Bu bölge, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, doğal güzelliği ile dikkat çekmekte ve ziyaretçilere geniş açık alanlar sunmaktadır. Ürgüp'ün iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve bölgede karasal iklim hüküm sürer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru geçer. Bu coğrafi ve iklimsel özellikler, bölgenin flora ve faunasını da etkilemektedir. Hızır Bey Açık Türbesi ve etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar.
 
 ## Flora ve Fauna
 

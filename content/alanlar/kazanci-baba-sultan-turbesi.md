@@ -1,7 +1,7 @@
 ---
 title: "Kazancı Baba Sultan Türbesi"
 date: "2026-01-10T06:11:24.471Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390675"
 
 # Kazancı Baba Sultan Türbesi
 
-Kazancı Baba Sultan Türbesi, Ankara'nın Kalecik ilçesinde bulunan bir türbedir. Bu tarihi mekan, ziyaretçiler için önemli bir kültür merkezi olarak kabul edilir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, türbenin çevresi ile birlikte düşünüldüğünde oldukça geniş bir alanı kapsar. Kazancı Baba Sultan Türbesi, ziyaretçilerini tarihi ve kültürel zenginliklerle buluşturur. Türbenin yapısı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere huzurlu bir ortam sunar.
+Kazancı Baba Sultan Türbesi, Ankara'nın Kalecik ilçesinde bulunan bir türbedir. Bu tarihi mekan, ziyaretçiler için önemli bir kültür merkezi olarak kabul edilir. Kazancı Baba Sultan Türbesi, ziyaretçilerini tarihi ve kültürel zenginliklerle buluşturur. Türbenin yapısı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilere huzurlu bir ortam sunar.
 
 ## Tarihçe
 

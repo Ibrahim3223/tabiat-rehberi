@@ -28,7 +28,7 @@ wikidata_id: "Q31388976"
 
 # Sultanseki Tepesi
 
-Sultanseki Tepesi, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un muhteşem doğası içinde yer alan bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Sultanseki Tepesi, bölgenin jeolojik yapısı ve tarihi geçmişi ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz.
+Sultanseki Tepesi, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un muhteşem doğası içinde yer alan bir tepe. Sultanseki Tepesi, bölgenin jeolojik yapısı ve tarihi geçmişi ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrabilirsiniz.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31385534"
 
 # Namaz Dağı
 
-Şırnak ilinin büyüleyici manzaralarına ev sahipliği yapan Namaz Dağı, bölgenin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Namaz Dağı, hem doğa severler hem de macera arayanlar için ideal bir destinasyon olarak görünüyor. Bu dağ, Şırnak'ın coğrafi yapısını ve doğal güzelliklerini gözler önüne sererek, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Şırnak ilinin büyüleyici manzaralarına ev sahipliği yapan Namaz Dağı, bölgenin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Namaz Dağı, hem doğa severler hem de macera arayanlar için ideal bir destinasyon olarak görünüyor.
 
 ## Tarihçe
 

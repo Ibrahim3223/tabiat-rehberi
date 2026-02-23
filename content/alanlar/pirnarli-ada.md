@@ -28,7 +28,7 @@ wikidata_id: "Q30632298"
 
 # Pırnarlı Ada
 
-İzmir'in sahillerinde, Ege Denizi'nin sularında gizlenen Pırnarlı Ada, ziyaretçilerini doğal güzelliği ile karşılar. İzmir'in zengin tarihini ve kültürünü yansıtan bu ada, şehrin turistik noktaları arasında önemli bir yere sahiptir. İzmir'in turistik değerine katkıda bulunan Pırnarlı Ada, şehrin güzelliğini ve çeşitliliğini gösterir. Bu ada, İzmir'in ilçe ve semtleriyle birlikte, ziyaretçilerine unutulmaz bir deneyim sunar.
+İzmir'in sahillerinde, Ege Denizi'nin sularında gizlenen Pırnarlı Ada, ziyaretçilerini doğal güzelliği ile karşılar. İzmir'in zengin tarihini ve kültürünü yansıtan bu ada, şehrin turistik noktaları arasında önemli bir yere sahiptir. İzmir'in turistik değerine katkıda bulunan Pırnarlı Ada, şehrin güzelliğini ve çeşitliliğini gösterir.
 
 ## Tarihçe
 

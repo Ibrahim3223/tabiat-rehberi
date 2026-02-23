@@ -1,7 +1,7 @@
 ---
 title: "Ahlat Büyük Hamam"
 date: "2026-01-09T22:39:46.174Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bitlis"

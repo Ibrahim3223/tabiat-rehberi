@@ -22,7 +22,7 @@ wikidata_id: "Q108228592"
 
 # Kastamonu-Daday-Ballıdağ Turk Findigi
 
-Kastamonu ilinin Daday ilçesinde bulunan Ballıdağ Turk Findigi milli parkı, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Bu milli park, Kastamonu'nun en önemli doğal güzelliklerinden biri olarak kabul edilir. Kastamonu ilinin coğrafi yapısı, milli parkın oluşumunda büyük rol oynamıştır. Milli park, özellikle sonbahar ve ilkbahar aylarında ziyaretçilerini ağırlamaktadır. Doğa severler, bu milli parkta trekking, kamp ve doğa yürüyüşü gibi aktivitelerin keyfini çıkarabilirler.
+ Bu milli park, Kastamonu'nun en önemli doğal güzelliklerinden biri olarak kabul edilir. Kastamonu ilinin coğrafi yapısı, milli parkın oluşumunda büyük rol oynamıştır. Milli park, özellikle sonbahar ve ilkbahar aylarında ziyaretçilerini ağırlamaktadır. Doğa severler, bu milli parkta trekking, kamp ve doğa yürüyüşü gibi aktivitelerin keyfini çıkarabilirler.
 
 ## Tarihçe
 

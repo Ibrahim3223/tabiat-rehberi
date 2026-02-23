@@ -28,7 +28,7 @@ wikidata_id: "Q31534719"
 
 # Kelibik Tepesi
 
-Osmaniye'nin Akdeniz Bölgesi'nde yer alan Kelibik Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal güzellik, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla iç içe bir deneyim sunuyor. Kelibik Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found. Bu bölge, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Kelibik Tepesi, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
+ Bu doğal güzellik, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla iç içe bir deneyim sunuyor. Kelibik Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found. Bu bölge, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Kelibik Tepesi, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
 
 ## Tarihçe
 

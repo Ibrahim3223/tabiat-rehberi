@@ -50,7 +50,7 @@ Balaban Dağı, çevresindeki diğer coğrafi oluşumlarla bağlantılıdır. Ko
 
 ## Flora ve Fauna
 
-Balaban Dağı, Balıkesir'in güzide bir köşesinde yükselen bir dağ ekosistemi olarak, geçiş ikliminin karakteristik özelliklerini taşır. 1200 hektarlık bu yeşil cennet, karma ormanların hakim olduğu bir bölgede yer alır. 
+Balaban Dağı, Balıkesir'in güzide bir köşesinde yükselen bir dağ ekosistemi olarak, geçiş ikliminin karakteristik özelliklerini taşır. 1200 hektarlık bu yeşil cennet, karma ormanların hakim olduğu bir bölgede yer alır.
 
 Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte dağ yamaçları renklenir ve çeşitli çiçekler açar. Mevsimsel değişimlere uyum gösteren flora, sonbaharda sarı, turuncu ve kırmızı tonlara bürünür. Dağın yükseklik zonlarında, alpin flora hüküm sürer ve bu bölgede yetişen bitkiler, zorlu koşullara adapte olmuş özel türlerdir.
 

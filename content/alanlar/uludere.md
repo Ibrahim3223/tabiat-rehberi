@@ -23,7 +23,7 @@ wikidata_id: "Q108227870"
 
 # Uludere
 
-Uludere milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikası. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Parkın girişinden itibaren, mis gibi çam ağaçlarının kokusu ve kuş sesleri sizi sarıyor. Her adımda, doğanın güzelliği ve çeşitliliği gözler önüne seriliyor. Uludere, hem doğa tutkunları hem de şehrin gürültüsünden kaçmak isteyenler için ideal bir kaçış noktası.
+Uludere milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikası. Parkın girişinden itibaren, mis gibi çam ağaçlarının kokusu ve kuş sesleri sizi sarıyor. Her adımda, doğanın güzelliği ve çeşitliliği gözler önüne seriliyor. Uludere, hem doğa tutkunları hem de şehrin gürültüsünden kaçmak isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 

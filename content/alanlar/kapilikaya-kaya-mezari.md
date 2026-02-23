@@ -30,7 +30,7 @@ wikidata_id: "Q6366659"
 
 # Kapılıkaya Kaya Mezarı
 
-Kapılıkaya Mezarı, Karadeniz Bölgesi'nde yer alan Çorum'un Laçin ilçesinde bulunuyor. Bu tarihi alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşit. Mezarın konumu, ziyaretçilere hem tarihi bir geçmiş hem de doğal güzellikler sunuyor. Kapılıkaya Mezarı, bölgenin önemli turizm merkezlerinden biri olarak kabul ediliyor. Tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor.
+Kapılıkaya Mezarı, Karadeniz Bölgesi'nde yer alan Çorum'un Laçin ilçesinde bulunuyor. Mezarın konumu, ziyaretçilere hem tarihi bir geçmiş hem de doğal güzellikler sunuyor. Kapılıkaya Mezarı, bölgenin önemli turizm merkezlerinden biri olarak kabul ediliyor. Tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor.
 
 ## Tarihçe
 

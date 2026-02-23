@@ -28,7 +28,7 @@ wikidata_id: "Q31547932"
 
 # Keverih Tepesi
 
-Keverih Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü flora ve fauna çeşitliliği ile dikkat çekiyor. Keverih Tepesi, doğa severlerin ilgi odağı olmasının yanı sıra, bölgenin tarihi geçmişi hakkında da önemli ipuçları sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini gösteriyor. Keverih Tepesi'nin sunduğu manzaralar, ziyaretçileri bölgeye özgü coğrafyanın güzelliğine hayran bırakıyor.
+Keverih Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olarak dikkat çekiyor. Keverih Tepesi, doğa severlerin ilgi odağı olmasının yanı sıra, bölgenin tarihi geçmişi hakkında da önemli ipuçları sunuyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini gösteriyor. Keverih Tepesi'nin sunduğu manzaralar, ziyaretçileri bölgeye özgü coğrafyanın güzelliğine hayran bırakıyor.
 
 ## Tarihçe
 

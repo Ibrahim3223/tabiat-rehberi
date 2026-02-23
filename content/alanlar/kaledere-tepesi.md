@@ -28,7 +28,7 @@ wikidata_id: "Q31566131"
 
 # Kaledere Tepesi
 
-Kaledere Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenlerin ziyaret ettiği bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsar. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini deneyimlemek isteyenler için ideal bir seçimdir. Kaledere Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişini keşfetmek için de önemli bir noktadır. Tepenin yüksekliği, ziyaretçilere Erzurum'un geniş panoramasını sunar.
+Kaledere Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenlerin ziyaret ettiği bir destinasyondur. Bu tepe, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini deneyimlemek isteyenler için ideal bir seçimdir. Kaledere Tepesi, bölgenin coğrafi yapısını ve tarihi geçmişini keşfetmek için de önemli bir noktadır. Tepenin yüksekliği, ziyaretçilere Erzurum'un geniş panoramasını sunar.
 
 ## Tarihçe
 

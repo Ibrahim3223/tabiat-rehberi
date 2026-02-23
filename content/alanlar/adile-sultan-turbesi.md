@@ -1,7 +1,7 @@
 ---
 title: "Adile Sultan Türbesi"
 date: "2026-01-10T04:51:11.823Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -23,7 +23,7 @@ wikidata_id: "Q110629469"
 
 # Adile Sultan Türbesi
 
-Adile Sultan Türbesi, İstanbul'un tarihi dokusunu taşıyan önemli mekânlarından biridir. Fatih ilçesinde bulunan bu tülbent, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. İstanbul'un kalbinde yer alan bu tarihi mekân, ziyaretçilerini şehrin geçmişine götürüyor. 19. yüzyılda inşa edilen Adile Sultan Türbesi, İstanbul'un kültürel zenginliğini yansıtıyor.
+Adile Sultan Türbesi, İstanbul'un tarihi dokusunu taşıyan önemli mekânlarından biridir. İstanbul'un kalbinde yer alan bu tarihi mekân, ziyaretçilerini şehrin geçmişine götürüyor. 19. yüzyılda inşa edilen Adile Sultan Türbesi, İstanbul'un kültürel zenginliğini yansıtıyor.
 
 ## Tarihçe
 
@@ -31,11 +31,11 @@ Adile Sultan Türbesi, 19. yüzyılda inşa edilmiştir. Sultan Abdülmecid'in k
 
 ## Coğrafya
 
-Adile Sultan Türbesi, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. İstanbul'un tarihi merkezi olan Sultanahmet'e yakın bir konumda yer alır. Mekân, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul'un coğrafi konumu, deniz ve kara arasındaki geçiş noktasında yer alması, bu tarihi mekânın önemini artırmaktadır. İstanbul'un iklimi, ılıman ve nemli bir yapıya sahiptir. Bu iklim, Adile Sultan Türbesi'nin mimari yapısını etkilemiştir. Mekânın çevresinde, tarihi yapılar ve önemli kültürel mekânlar yer alır.
+Adile Sultan Türbesi, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır. İstanbul'un tarihi merkezi olan Sultanahmet'e yakın bir konumda yer alır. İstanbul'un coğrafi konumu, deniz ve kara arasındaki geçiş noktasında yer alması, bu tarihi mekânın önemini artırmaktadır. İstanbul'un iklimi, ılıman ve nemli bir yapıya sahiptir. Bu iklim, Adile Sultan Türbesi'nin mimari yapısını etkilemiştir. Mekânın çevresinde, tarihi yapılar ve önemli kültürel mekânlar yer alır.
 
 ## Flora ve Fauna
 
-Adile Sultan Türbesi, İstanbul'un tarihi merkezi olan bir bölgede yer alır. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur. Mekânın çevresinde, histórik yapılar ve parklar yer alır. Bu bölgede, mevsimsel değişimler gözlemlenir. İlkbahar ve yaz aylarında, yeşil alanlar ve bitkiler büyür. Sonbahar ve kış aylarında, mevsimsel değişimlerle birlikte, flora ve fauna da değişir. Adile Sultan Türbesi, İstanbul'un ekolojik zenginliğini yansıtan bir mekândır.
+Adile Sultan Türbesi, İstanbul'un tarihi merkezi olan bir bölgede yer alır. Bu bölgede, çeşitli bitki türleri ve hayvanlar bulunur. Mekânın çevresinde, tarihi yapılar ve parklar yer alır. Bu bölgede, mevsimsel değişimler gözlemlenir. İlkbahar ve yaz aylarında, yeşil alanlar ve bitkiler büyür. Sonbahar ve kış aylarında, mevsimsel değişimlerle birlikte, flora ve fauna da değişir. Adile Sultan Türbesi, İstanbul'un ekolojik zenginliğini yansıtan bir mekândır.
 
 ## Ziyaret Bilgileri
 
@@ -46,5 +46,5 @@ Adile Sultan Türbesi'ne ziyaretçiler, toplu taşıma araçlarını kullanarak 
 - Adile Sultan Türbesi, 19. yüzyılda inşa edilmiştir.
 - Sultan Abdülmecid'in kızı Adile Sultan tarafından yaptırılmıştır.
 - İstanbul'un tarihi merkezi olan bir bölgede yer alır.
-- Mekân, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Adile Sultan Türbesi, İstanbul'un kültürel zenginliğini yansıtan bir mekândır.

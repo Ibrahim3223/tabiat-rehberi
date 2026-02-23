@@ -50,9 +50,9 @@ Bölgenin su kaynakları açısından önemli bir role sahip olan Van Gölü, Ca
 
 ## Flora ve Fauna
 
-Calaban Dağı, yüksek dağ ekolojisinin karakteristik özelliklerini taşıyan bir alan olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü bölümünde, ilkbahar aylarında çiçek açan çeşitli türlerin ortaya çıktığını görebiliriz. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliğini sunar. 
-Yaban Hayatı bölümünde, memeliler ve kuşlar gibi çeşitli canlılar, dağların yüksek kesimlerinde ve alpin çayırlarda yaşamlarını sürdürürler. 
+Calaban Dağı, yüksek dağ ekolojisinin karakteristik özelliklerini taşıyan bir alan olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü bölümünde, ilkbahar aylarında çiçek açan çeşitli türlerin ortaya çıktığını görebiliriz. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliğini sunar.
+Yaban Hayatı bölümünde, memeliler ve kuşlar gibi çeşitli canlılar, dağların yüksek kesimlerinde ve alpin çayırlarda yaşamlarını sürdürürler.
 Ekolojik Değer bölümünde, bu dağ ekosisteminin önemini ve koruma durumunu görebiliriz. Calaban Dağı, biyolojik çeşitlilik açısından önemli bir bölgedir ve koruma altına alınması gerekir.
 
 ## Ziyaret Bilgileri

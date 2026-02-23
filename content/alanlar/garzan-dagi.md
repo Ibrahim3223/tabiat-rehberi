@@ -52,9 +52,9 @@ Bölgenin su kaynakları açısından bakıldığında, Garzan Dağı ve çevres
 
 Garzan Dağı'nın flora ve fauna zenginliği, ziyaretçilerini büyüleyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, yarı kurak iklimin hakim olduğu step ve ova ekolojisinin bir parçası olarak, benzersiz bir dağ ekosisteminin ev sahipliğini yapar.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle kaplanır. Yaban havuçları, gelincikler ve çeşitli çimen türleri, dağın yükseklik zonlarında farklı mevsimsel görünümler sunar. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle kaplanır. Yaban havuçları, gelincikler ve çeşitli çimen türleri, dağın yükseklik zonlarında farklı mevsimsel görünümler sunar.
 
-Yaban Hayatı bölümünde, dağ keçileri, çakallar ve tilkiler gibi memelilerin yanı sıra, kartallar, atmacalar ve şahinler gibi çeşitli kuş türleri, dağların yükseklik zonlarında yaşam alanlarını bulur. Sürüngenler ise, kaya ve taşlık alanlarda yuvalanır. 
+Yaban Hayatı bölümünde, dağ keçileri, çakallar ve tilkiler gibi memelilerin yanı sıra, kartallar, atmacalar ve şahinler gibi çeşitli kuş türleri, dağların yükseklik zonlarında yaşam alanlarını bulur. Sürüngenler ise, kaya ve taşlık alanlarda yuvalanır.
 
 Ekolojik Değer bölümünde, Garzan Dağı'nın neden önemli olduğu ve koruma durumuna değinilir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak için kritik öneme sahiptir.
 

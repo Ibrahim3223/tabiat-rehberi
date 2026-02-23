@@ -30,7 +30,7 @@ wikidata_id: "Q6084143"
 
 # Çamkoru Tabiat Parkı
 
-140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ankara'nın kalabalığından uzaklaşıp doğayla baş başa kalabileceğiniz bir mekan. Çamkoru Tabiat Parkı, Çamlıdere ilçesinde, İç Anadolu Bölgesi'nin kalbinde yer alıyor. Bu tabiat parkı, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim. Parkın içinde yürüyüş yolları, piknik alanları ve çocuk oyun alanları bulunuyor. Doğa severler için bir cennet olan Çamkoru, Ankara'nın önemli turizm noktalarından biri.
+ Çamkoru Tabiat Parkı, Çamlıdere ilçesinde, İç Anadolu Bölgesi'nin kalbinde yer alıyor. Bu tabiat parkı, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim. Parkın içinde yürüyüş yolları, piknik alanları ve çocuk oyun alanları bulunuyor. Doğa severler için bir cennet olan Çamkoru, Ankara'nın önemli turizm noktalarından biri.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q6084143"
 
 ## Coğrafya
 
-Çamkoru Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Park, 140 hektarlık bir alana yayılıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, Ankara'nın çam ormanlarıyla kaplı ve yeşilliğiyle dikkat çekiyor. Parkın coğrafi yapısı, yürüyüş yolları ve piknik alanları için uygun. Çamkoru Tabiat Parkı, Ankara'nın en yeşil noktalarından biri ve şehrin gürültüsünden uzaklaşıp doğayla baş başa kalabileceğiniz bir mekan. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yazları sıcak ve kışları soğuk olan karasal iklimin etkisinde.
+Çamkoru Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Bölge, Ankara'nın çam ormanlarıyla kaplı ve yeşilliğiyle dikkat çekiyor. Parkın coğrafi yapısı, yürüyüş yolları ve piknik alanları için uygun. Çamkoru Tabiat Parkı, Ankara'nın en yeşil noktalarından biri ve şehrin gürültüsünden uzaklaşıp doğayla baş başa kalabileceğiniz bir mekan. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, yazları sıcak ve kışları soğuk olan karasal iklimin etkisinde.
 
 ## Flora ve Fauna
 

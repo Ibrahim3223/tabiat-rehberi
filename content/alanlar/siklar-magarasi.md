@@ -52,7 +52,7 @@ Mağaranın doğal güzelliği, çevresindeki ekosistemle de yakından bağlant�
 
 Mağaranın içinde ve etrafında, çeşitli küçük memeliler ve sürüngenler yaşamlarını sürdürürler. Bu canlılar, mağaranın karanlık ve serin ortamından yararlanarak kendilerine bir sığınak bulurlar. Kuşlar da, mağaranın girişinde ve çevresinde yuvalarını kurarlar ve burada yaşamlarını sürdürürler.
 
-Âşıklar Mağarası, bölgenin ekolojik dengesini korumak açısından önemli bir role sahiptir. Mağaranın etrafındaki step bitki örtüsü, kuraklığa adapte olmuş türleri barındırmaktadır ve bu türler, bölgenin ekosistemini desteklemektedir. Ayrıca, mağara ve çevresindeki doğal yaşam alanları, çeşitli yaban hayvanlarının yaşamlarını sürdürmeleri için elverişli bir ortam sağlamaktadır.
+ Mağaranın etrafındaki step bitki örtüsü, kuraklığa adapte olmuş türleri barındırmaktadır ve bu türler, bölgenin ekosistemini desteklemektedir. Ayrıca, mağara ve çevresindeki doğal yaşam alanları, çeşitli yaban hayvanlarının yaşamlarını sürdürmeleri için elverişli bir ortam sağlamaktadır.
 
 ## Ziyaret Bilgileri
 

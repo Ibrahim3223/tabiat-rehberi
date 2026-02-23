@@ -1,7 +1,7 @@
 ---
 title: "Akaretler Mustafa Kemal Müzesi"
 date: "2026-01-10T15:20:45.455Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132681901"
 
 # Akaretler Mustafa Kemal Müzesi
 
-Akaretler Mustafa Kemal Müzesi, Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alan özel bir mekan. Bu müze, Türkiye'nin kurucusu Mustafa Kemal Atatürk'ün İstanbul'da kaldığı evi olarak bilinir. 140 hektarlık bir alana yayılmış olan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Burada, Atatürk'ün kişisel eşyaları, belgeleri ve hatıraları sergilenmekte. Ziyaretçiler, bu müzenin atmosferine girerek, Türkiye'nin kuruluşuna tanıklık etmeye davet edilmekte.
+Akaretler Mustafa Kemal Müzesi, Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alan özel bir mekan. Bu müze, Türkiye'nin kurucusu Mustafa Kemal Atatürk'ün İstanbul'da kaldığı evi olarak bilinir. Burada, Atatürk'ün kişisel eşyaları, belgeleri ve hatıraları sergilenmekte. Ziyaretçiler, bu müzenin atmosferine girerek, Türkiye'nin kuruluşuna tanıklık etmeye davet edilmekte.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Akaretler Mustafa Kemal Müzesi, coğrafi konumu itibariyle İstanbul'un merkezi
 
 ## Flora ve Fauna
 
-Akaretler Mustafa Kemal Müzesi ve çevresi, flora ve fauna açısından oldukça zengin bir bölge. Burada, çeşitli ağaç türleri ve bitkiler bulunmakta. Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında, yeşillikler ön plana çıkarken, sonbahar ve kış aylarında, doğa farklı bir güzelliğe bürünüyor. Bu bölgede, ayrıca birçok kuş türüne de rastlama mümkün. Ziyaretçiler, müzenin bahçesinde ve çevresinde doğanın güzelliğini keşfedebilir.
+ Burada, çeşitli ağaç türleri ve bitkiler bulunmakta. Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında, yeşillikler ön plana çıkarken, sonbahar ve kış aylarında, doğa farklı bir güzelliğe bürünüyor. Bu bölgede, ayrıca birçok kuş türüne de rastlama mümkün. Ziyaretçiler, müzenin bahçesinde ve çevresinde doğanın güzelliğini keşfedebilir.
 
 ## Ziyaret Bilgileri
 

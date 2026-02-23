@@ -1,7 +1,7 @@
 ---
 title: "Yakup Çelebi Hamamı"
 date: "2026-01-09T22:57:26.446Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738659"
 
 # Yakup Çelebi Hamamı
 
-Yakup Çelebi Hamamı, Bursa'nın Keles ilçesinde bulunan tarihi bir hamam ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, hem yerel halk hem de ziyaretçiler için önemli bir çekim noktasıdır. Yakup Çelebi Hamamı, Marmara Bölgesi'nin zengin tarihini ve kültürünü yansıtan önemli bir mirastır. Bu alan, tarihi ve doğal güzelliği ile ziyaretçilerini bekliyor.
+Yakup Çelebi Hamamı, Bursa'nın Keles ilçesinde bulunan tarihi bir hamam ve plaj alanıdır. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, hem yerel halk hem de ziyaretçiler için önemli bir çekim noktasıdır. Yakup Çelebi Hamamı, Marmara Bölgesi'nin zengin tarihini ve kültürünü yansıtan önemli bir mirastır. Bu alan, tarihi ve doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yakup Çelebi Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadı
 
 ## Coğrafya
 
-Yakup Çelebi Hamamı, Bursa'nın Keles ilçesinde, Marmara Bölgesi'nin kalbinde yer almaktadır. Bu alan, 140 hektarlık geniş bir alana sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hamam ve plaj alanı, çevresi ormanlık ve yeşil alanlarla çevrili olup, ziyaretçilere doğal bir güzellik sunuyor. İklim olarak, Marmara Bölgesi'nin ılıman ikliminin etkisi altındadır. Yaz aylarında sıcaklık artarken, kış aylarında ılıman bir hava hakimdir. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu doğal güzellikler, ziyaretçilere huzurlu bir ortam sunuyor. Yakup Çelebi Hamamı ve çevresi, Marmara Bölgesi'nin coğrafyasını ve doğal güzelliğini yansıtan önemli bir bölgedir.
+Yakup Çelebi Hamamı, Bursa'nın Keles ilçesinde, Marmara Bölgesi'nin kalbinde yer almaktadır. Hamam ve plaj alanı, çevresi ormanlık ve yeşil alanlarla çevrili olup, ziyaretçilere doğal bir güzellik sunuyor. İklim olarak, Marmara Bölgesi'nin ılıman ikliminin etkisi altındadır. Yaz aylarında sıcaklık artarken, kış aylarında ılıman bir hava hakimdir. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu doğal güzellikler, ziyaretçilere huzurlu bir ortam sunuyor. Yakup Çelebi Hamamı ve çevresi, Marmara Bölgesi'nin coğrafyasını ve doğal güzelliğini yansıtan önemli bir bölgedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Yakup Çelebi Hamamı ve plajını ziyaret etmek, özellikle yaz aylarında keyi
 ## İlginç Bilgiler
 
 - Yakup Çelebi Hamamı, tarihi bir hamam ve plaj alanıdır.
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Yakup Çelebi Hamamı, Marmara Bölgesi'nin zengin tarihini ve kültürünü yansıtan önemli bir mirastır.
 - Bu alan, yüzyıllar boyunca çeşitli onarımlar ve restorasyonlar görmüş, günümüze ulaşmıştır.
 - Yakup Çelebi Hamamı, ziyaretçilerine geçmişin izlerini ve bölgenin zengin kültürel mirasını sunuyor.

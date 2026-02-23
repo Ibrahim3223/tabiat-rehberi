@@ -28,7 +28,7 @@ wikidata_id: "Q31390710"
 
 # Duman Tepesi
 
-Duman Tepesi, Ordu'nun yeşil örtüsünün içinde saklı bir hazine olarak karşımıza çıkıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin keyiflenebileceği bir cennet. Bu tepe, Karadeniz Bölgesi'nin en güzel manzaralarından birini sunuyor ve ziyaretçilerini doğanın kucağına davet ediyor. Duman Tepesi, hem doğa hem de tarih severlerin ilgisini çekecek bir destinasyon. Bu tepe, Ordu'nun turizm açısından önemli noktalarından biri ve ziyaretçilere unutulmaz anlar vaat ediyor.
+Duman Tepesi, Ordu'nun yeşil örtüsünün içinde saklı bir hazine olarak karşımıza çıkıyor. Bu tepe, Karadeniz Bölgesi'nin en güzel manzaralarından birini sunuyor ve ziyaretçilerini doğanın kucağına davet ediyor. Duman Tepesi, hem doğa hem de tarih severlerin ilgisini çekecek bir destinasyon. Bu tepe, Ordu'nun turizm açısından önemli noktalarından biri ve ziyaretçilere unutulmaz anlar vaat ediyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Duman Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Duman Tepesi, Karadeniz Bölgesi'nin dağlık yapısının bir parçası olarak karşımıza çıkıyor. Bu tepe, Ordu'nun coğrafi yapısını oluşturan dağlar ve vadiler arasında yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede çeşitli bitki türleri ve zengin fauna bulunuyor. Duman Tepesi, Karadeniz Bölgesi'nin karakteristik iklimini taşıyor ve bu bölgede sıkça görülen yağışlar, bu tepeyi yeşillikler içinde tutuyor. Bu tepe, aynı zamanda çeşitli hayvan türlerinin yaşam alanı ve bu reason, doğa severler için bir cennet. Duman Tepesi'nin coğrafi konumu, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunuyor ve bu tepe, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Duman Tepesi, Karadeniz Bölgesi'nin dağlık yapısının bir parçası olarak karşımıza çıkıyor. Bu tepe, Ordu'nun coğrafi yapısını oluşturan dağlar ve vadiler arasında yer alıyor. Duman Tepesi, Karadeniz Bölgesi'nin karakteristik iklimini taşıyor ve bu bölgede sıkça görülen yağışlar, bu tepeyi yeşillikler içinde tutuyor. Bu tepe, aynı zamanda çeşitli hayvan türlerinin yaşam alanı ve bu reason, doğa severler için bir cennet. Duman Tepesi'nin coğrafi konumu, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunuyor ve bu tepe, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

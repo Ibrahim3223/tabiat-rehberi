@@ -1,7 +1,7 @@
 ---
 title: "Koçhisar Dağı"
 date: "2026-01-09T08:17:42.460Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Ankara"
@@ -34,7 +34,7 @@ Ankara'nın kuzeydoğusunda, şehrin gürültüsünden uzak bir noktada yer alan
 
 Ankara bölgesinin tarihi, binlerce yıl öncesine uzanan zengin bir geçmişe sahiptir. Hitit, Frig, Roma ve Osmanlı gibi çeşitli uygarlıklar bu topraklarda hüküm sürmüştür. Koçhisar Dağı da, bu tarihsel sürecin içinde yer alan önemli bir coğrafi oluşumdur. Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmesi için hayati önem taşımıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve kültürel açıdan değerini artırmıştır.
 
-Ankara'nın coğrafi konumu, histórik ticaret yollarının kesişme noktasında yer alması, bölgenin stratejik önemini artırmıştır. İnsanlar, Koçhisar Dağı gibi doğal alanları, sadece yaşam alanları olarak değil, aynı zamanda dini ve kültürel merkezler olarak da kullanmışlardır. Bu doğal alanlar, aynı zamanda various bitki ve hayvan türlerinin yaşamlarını sürdürdüğü önemli ekosistemlerdir. Koçhisar Dağı, Ankara'nın doğal güzelliklerinin önemli bir parçası olmakla birlikte, bölgenin tarihsel ve kültürel zenginliğini de yansıtan bir alandır.
+Ankara'nın coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alması, bölgenin stratejik önemini artırmıştır. İnsanlar, Koçhisar Dağı gibi doğal alanları, sadece yaşam alanları olarak değil, aynı zamanda dini ve kültürel merkezler olarak da kullanmışlardır. Bu doğal alanlar, aynı zamanda various bitki ve hayvan türlerinin yaşamlarını sürdürdüğü önemli ekosistemlerdir. Koçhisar Dağı, Ankara'nın doğal güzelliklerinin önemli bir parçası olmakla birlikte, bölgenin tarihsel ve kültürel zenginliğini de yansıtan bir alandır.
 
 ## Coğrafya
 
@@ -48,7 +48,7 @@ Doğal olarak, Koçhisar Dağı, çevresindeki diğer doğal alanlarla birlikte 
 
 ## Flora ve Fauna
 
-Koçhisar Dağı, Ankara'nın step ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Koçhisar Dağı, Ankara'nın step ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü: Step ve bozkır bitkileri, kuraklığa adapte türler hakimdir. İlkbaharla birlikte dağ yamaçlarında renkli çiçekler açar, sonbaharda ise kuruyan otların arasında göç eden kuşlar görülebilir. Dağın yükseklik zonalarında alpin flora çeşitliliği dikkat çeker.
 

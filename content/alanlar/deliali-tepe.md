@@ -28,7 +28,7 @@ wikidata_id: "Q31391082"
 
 # Deliali Tepe
 
-Deliali Tepe, Şanlıurfa'nın tarih ve doğa harmanladığı bir bölgede yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunuyor. Deliali Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Burada, geçmişin izlerini taşıyan tarihi kalıntılar ve eşsiz doğal manzaralar bulunuyor. Deliali Tepe, Şanlıurfa'nın önemli turizm merkezlerinden biri olarak dikkat çekiyor. Ziyaretçiler, bu tepeye çıkarak hem şehrin panoramik manzarasını seyredebiliyor hem de tarihi kalıntıları yakından inceleyebiliyor.
+Deliali Tepe, Şanlıurfa'nın tarih ve doğa harmanladığı bir bölgede yer alıyor. Deliali Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor. Burada, geçmişin izlerini taşıyan tarihi kalıntılar ve eşsiz doğal manzaralar bulunuyor. Deliali Tepe, Şanlıurfa'nın önemli turizm merkezlerinden biri olarak dikkat çekiyor. Ziyaretçiler, bu tepeye çıkarak hem şehrin panoramik manzarasını seyredebiliyor hem de tarihi kalıntıları yakından inceleyebiliyor.
 
 ## Tarihçe
 

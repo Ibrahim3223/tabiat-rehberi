@@ -22,7 +22,7 @@ wikidata_id: "Q108227087"
 
 # Kutahya-Merkez Altıntas
 
-Kutahya-Merkez Altıntas, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, bu bölgeyi diğer alanlardan ayıran önemli bir özelliktir. Yeşilin her tonunu görebileceğiniz bu doğal cennet, ziyaretçilerini doğayla baş başa bırakıp, şehrin gürültüsünden uzaklaşmaya davet ediyor. Bu alan, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+Kutahya-Merkez Altıntas, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Yeşilin her tonunu görebileceğiniz bu doğal cennet, ziyaretçilerini doğayla baş başa bırakıp, şehrin gürültüsünden uzaklaşmaya davet ediyor. Bu alan, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

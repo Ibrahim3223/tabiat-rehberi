@@ -1,7 +1,7 @@
 ---
 title: "Ramazanoğlu Türbesi"
 date: "2026-01-10T06:01:43.613Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -31,7 +31,7 @@ wikidata_id: "Q131390537"
 # Ramazanoğlu Türbesi
 
 Ramazanoğlu Türbesi, Adana'nın Seyhan ilçesinde bulunan tarihi bir mekan olup, yaklaşık 140 hektarlık bir yeşil alanı içinde yer alır.
-   Bu büyük yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Ramazanoğlu Türbesi,
+ Ramazanoğlu Türbesi,
    tarihi ve doğal güzelliklerinin bir arada bulunduğu özel bir yerdir. Ziyaretçiler, hem tarihi mekanın önemini öğrenebilir hem de
    geniş yeşil alanların keyfini çıkarabilirler. Bu türbe, Adana'nın önemli tarihi noktalarından biri olarak bilinir ve ziyaretçilere
    şehrin kültürel zenginliğini tanıtmada önemli bir rol oynar.
@@ -39,7 +39,7 @@ Ramazanoğlu Türbesi, Adana'nın Seyhan ilçesinde bulunan tarihi bir mekan olu
 ## Tarihçe
 
 Ramazanoğlu Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu türbe, Ramazanoğlu ailesine ait olup, ailenin
-   Adana'daki histórik varlığının bir parçasıdır. Ramazanoğlu ailesi, Osmanlı döneminde Adana'nın idaresinde önemli bir rol
+   Adana'daki tarihi varlığının bir parçasıdır. Ramazanoğlu ailesi, Osmanlı döneminde Adana'nın idaresinde önemli bir rol
    oynamıştır. Türbenin tam tarihi bilinmese de, yüzyıllar boyunca bu bölgeyi yöneten Ramazanoğlu ailesinin tarihi
    significance'ini taşır. Bu familyanın Adana'ya katkıları, şehrin kültürel ve siyasi tarihinde önemli bir yer tutmaktadır.
    Türbenin tarihi geçmişi, Adana'nın zengin tarihsel mirasının bir parçasıdır ve ziyaretçilere şehrin historical zenginliğini

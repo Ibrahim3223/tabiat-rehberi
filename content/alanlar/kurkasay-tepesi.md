@@ -28,7 +28,7 @@ wikidata_id: "Q31553792"
 
 # Kurkasay Tepesi
 
-Kurkasay Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir doğa harikası. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini büyüleyen bir manzaraya sahip. Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor. Kurkasay Tepesi, doğa severler ve tarihe meraklı olanlar için ideal bir gezi noktası.
+Kurkasay Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir doğa harikası. Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor. Kurkasay Tepesi, doğa severler ve tarihe meraklı olanlar için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kurkasay Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Kurkasay Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini büyüleyen bir manzaraya sahip. Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor. Kurkasay Tepesi, doğa severler ve tarihe meraklı olanlar için ideal bir gezi noktası. Tepenin coğrafi konumu, ziyaretçilere çevreyi keşfetme fırsatı sunuyor. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepenin iklimi, bölgeye özgü olan ılıman iklim özellikleri gösteriyor.
+Kurkasay Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor. Kurkasay Tepesi, doğa severler ve tarihe meraklı olanlar için ideal bir gezi noktası. Tepenin coğrafi konumu, ziyaretçilere çevreyi keşfetme fırsatı sunuyor. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Tepenin iklimi, bölgeye özgü olan ılıman iklim özellikleri gösteriyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Kurkasay Tepesi'ni ziyaret etmek, doğa severler ve tarihe meraklı olanlar içi
 
 ## İlginç Bilgiler
 
-- Kurkasay Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin eteklerinde yer alan köyler, tarihi geçmişi ve kültürel zenginliği ile dikkat çekiyor.
 - Kurkasay Tepesi, doğa severler ve tarihe meraklı olanlar için ideal bir gezi noktası.
 - Tepenin coğrafi konumu, ziyaretçilere çevreyi keşfetme fırsatı sunuyor.

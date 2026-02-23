@@ -28,7 +28,7 @@ wikidata_id: "Q31387965"
 
 # Sertkaya Tepesi
 
-Sertkaya Tepesi, Trabzon'un doğal güzelliklerinin önemli bir parçasıdır. Bu tepe, Karadeniz Bölgesi'nin coğrafi yapısını anlamak için önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki yeşil alanlarla birlikte büyük bir doğal alanı oluşturur. Sertkaya Tepesi, ziyaretçilerine geniş bir manzara sunar ve Karadeniz Bölgesi'nin güzelliğini keşfetmek isteyenler için ideal bir destinasyonudur. Doğal güzellikleri, yürüyüş parkurları ve tarihi önemiyle Sertkaya Tepesi, her yıl çok sayıda ziyaretçiyi çekiyor.
+Sertkaya Tepesi, Trabzon'un doğal güzelliklerinin önemli bir parçasıdır. Bu tepe, Karadeniz Bölgesi'nin coğrafi yapısını anlamak için önemli bir noktadır. Sertkaya Tepesi, ziyaretçilerine geniş bir manzara sunar ve Karadeniz Bölgesi'nin güzelliğini keşfetmek isteyenler için ideal bir destinasyonudur. Doğal güzellikleri, yürüyüş parkurları ve tarihi önemiyle Sertkaya Tepesi, her yıl çok sayıda ziyaretçiyi çekiyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Sertkaya Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını anlamak için çok 
 
 ## Flora ve Fauna
 
-Sertkaya Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu tepe, Karadeniz Bölgesi'nin karakteristik bitki örtüsünü taşır. Mevsimsel değişimlere göre, Sertkaya Tepesi'nin flora ve fauna yapısı değişir. İlkbahar ve yaz aylarında, bu tepenin etrafında çiçekler açar ve çeşitli kuş türleri görülür. Sonbahar ve kış aylarında, Sertkaya Tepesi'nin manzarası, karla kaplı dağlar ve yeşil alanlarla birlikte farklı bir güzelliğe bürünür. Sertkaya Tepesi, doğa severler ve bilim insanları için önemli bir çalışma alanıdır.
+ Bu tepe, Karadeniz Bölgesi'nin karakteristik bitki örtüsünü taşır. Mevsimsel değişimlere göre, Sertkaya Tepesi'nin flora ve fauna yapısı değişir. İlkbahar ve yaz aylarında, bu tepenin etrafında çiçekler açar ve çeşitli kuş türleri görülür. Sonbahar ve kış aylarında, Sertkaya Tepesi'nin manzarası, karla kaplı dağlar ve yeşil alanlarla birlikte farklı bir güzelliğe bürünür. Sertkaya Tepesi, doğa severler ve bilim insanları için önemli bir çalışma alanıdır.
 
 ## Ziyaret Bilgileri
 

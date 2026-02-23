@@ -28,7 +28,7 @@ wikidata_id: "Q31553887"
 
 # Kelacugli Tepesi
 
-Kelacugli Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Kelacugli Tepesi, çevredeki diğer tepelerden slightly daha yüksek. Bu tepe, doğa severlerin ilgisini çekiyor. Kelacugli Tepesi'ne ulaşım, Batman il merkezinden sağlanabiliyor. Batman il merkezinden Kelacugli Tepesi'ne gitmek için, uzun bir mesafelik bir yol kat etmek gerekiyor. Bu yol, genellikle asfalt ve stabilize yollarla oluşuyor.
+Kelacugli Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Kelacugli Tepesi, çevredeki diğer tepelerden slightly daha yüksek. Bu tepe, doğa severlerin ilgisini çekiyor. Kelacugli Tepesi'ne ulaşım, Batman il merkezinden sağlanabiliyor. Batman il merkezinden Kelacugli Tepesi'ne gitmek için, uzun bir mesafelik bir yol kat etmek gerekiyor. Bu yol, genellikle asfalt ve stabilize yollarla oluşuyor.
 
 ## Tarihçe
 

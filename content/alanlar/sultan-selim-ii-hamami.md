@@ -1,7 +1,7 @@
 ---
 title: "Sultan Selim (II) Hamamı"
 date: "2026-01-10T03:37:07.609Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738678"
 
 # Sultan Selim (II) Hamamı
 
-Sultan Selim (II) Hamamı, Konya'nın Karapınar ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sultan Selim (II) Hamamı, tarihsel ve kültürel öneme sahip bir mekândır. Ziyaretçiler, burada hem tarihi bir hamamın atmosferini deneyimleyebilir hem de plajın sunduğu olanaklardan yararlanabilir.
+Sultan Selim (II) Hamamı, Konya'nın Karapınar ilçesinde yer alan tarihi bir hamam ve plaj alanıdır. Sultan Selim (II) Hamamı, tarihsel ve kültürel öneme sahip bir mekândır. Ziyaretçiler, burada hem tarihi bir hamamın atmosferini deneyimleyebilir hem de plajın sunduğu olanaklardan yararlanabilir.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31389255"
 
 # Geniz Tepesi
 
-Geniz Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Geniz Tepesi, ziyaretçilerini a ve tarihi güzelliği ile büyülemektedir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu tepenin eteklerinde, köyler ve tarım alanları yer almaktadır. Geniz Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılmaktadır. Burada, manzaranın keyfini çıkarabilir ve çevreyi keşfedebilirsiniz.
+Geniz Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır. Geniz Tepesi, ziyaretçilerini a ve tarihi güzelliği ile büyülemektedir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu tepenin eteklerinde, köyler ve tarım alanları yer almaktadır. Geniz Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılmaktadır. Burada, manzaranın keyfini çıkarabilir ve çevreyi keşfedebilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Geniz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe
 
 ## Coğrafya
 
-Geniz Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumunda yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Geniz Tepesi, deniz seviyesinden yüksek bir konumda yer alır. Bu tepe, çevresindeki diğer tepelerden daha yüksek bir konumda yer alır ve manzarası geniş bir alanı kapsar. Geniz Tepesi'nin coğrafi konumu, ziyaretçileri için büyük bir avantajdır. Burada, manzaranın keyfini çıkarabilir ve çevreyi keşfedebilirsiniz. Geniz Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılmaktadır. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu tepenin eteklerinde, köyler ve tarım alanları yer almaktadır.
+Geniz Tepesi, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumunda yer alır. Geniz Tepesi, deniz seviyesinden yüksek bir konumda yer alır. Bu tepe, çevresindeki diğer tepelerden daha yüksek bir konumda yer alır ve manzarası geniş bir alanı kapsar. Geniz Tepesi'nin coğrafi konumu, ziyaretçileri için büyük bir avantajdır. Burada, manzaranın keyfini çıkarabilir ve çevreyi keşfedebilirsiniz. Geniz Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılmaktadır. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu tepenin eteklerinde, köyler ve tarım alanları yer almaktadır.
 
 ## Flora ve Fauna
 

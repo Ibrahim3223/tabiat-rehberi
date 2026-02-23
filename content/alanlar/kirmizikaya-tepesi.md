@@ -28,7 +28,7 @@ wikidata_id: "Q31388523"
 
 # Kırmızıkaya Tepesi
 
-Kırmızıkaya Tepesi, Rize ilinin güzide bir noktası olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve büyüklüğü ile dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, genişliği hakkında fikir edinilebilir. Doğal güzelliği ve tarihi geçmişi ile birlikte, bu tepe ziyaretçilerini bekliyor.
+Kırmızıkaya Tepesi, Rize ilinin güzide bir noktası olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve büyüklüğü ile dikkat çekiyor. Doğal güzelliği ve tarihi geçmişi ile birlikte, bu tepe ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

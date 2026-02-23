@@ -1,7 +1,7 @@
 ---
 title: "Toprak Mahsulleri Ofisi Müzesi"
 date: "2026-01-10T15:22:38.349Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"

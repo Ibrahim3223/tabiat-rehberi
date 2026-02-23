@@ -22,7 +22,7 @@ wikidata_id: "Q108227888"
 
 # Karacakisla
 
-Karacakisla milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir doğal alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini korumada önemli bir role sahiptir. Bu alan, ziyaretçilerine doğayla iç içe bir deneyim sunar ve bölgenin flora ve faunasını keşfetme fırsatı verir. Karacakisla milli parkı, hem doğa severler hem de bilim insanları için bir hazine niteliğindedir.
+Karacakisla milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bir doğal alandır. Bu alan, ziyaretçilerine doğayla iç içe bir deneyim sunar ve bölgenin flora ve faunasını keşfetme fırsatı verir. Karacakisla milli parkı, hem doğa severler hem de bilim insanları için bir hazine niteliğindedir.
 
 ## Tarihçe
 

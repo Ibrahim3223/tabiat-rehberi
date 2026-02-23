@@ -22,7 +22,7 @@ wikidata_id: "Q108227495"
 
 # Canakkale-Kalkim-Sariot Karacam
 
-Çanakkale'de yer alan Canakkale-Kalkim-Sariot Karacam milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğayla iç içe olabilecekleri bir ortam sunuyor. Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bu milli park, hem yerel halk hem de turistler için keyifli bir gezi noktası. Yeşil alanın içerisinde çeşitli bitki türleri ve zengin fauna bulunan milli park, doğa severler için gerçek bir cennet.
+ Bu geniş alan, ziyaretçilere doğayla iç içe olabilecekleri bir ortam sunuyor. Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bu milli park, hem yerel halk hem de turistler için keyifli bir gezi noktası. Yeşil alanın içerisinde çeşitli bitki türleri ve zengin fauna bulunan milli park, doğa severler için gerçek bir cennet.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Canakkale-Kalkim-Sariot Karacam milli parkını ziyaret etmek, doğa severler i�
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli parkta, çeşitli bitki türleri ve zengin fauna bulunuyor.
 - Milli park, Marmara Bölgesi'nin önemli bir kültür ve doğa mirası olarak kabul ediliyor.
 - Ziyaretçiler, milli parkın içerisinde, doğayla iç içe olabilecekleri bir ortamda, keyifli bir gün geçirebilir.

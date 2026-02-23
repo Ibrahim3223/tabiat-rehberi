@@ -33,7 +33,7 @@ Niğde ilinin eşsiz doğal güzelliklerini barındıran Kara Tepe, ziyaretçile
 
 ## Tarihçe
 
-Kara Tepe, Niğde'nin zengin tarihi dokusuna sahip bir bölgede yer alıyor. Bu bölge, tarihin sâu sayfalarında Hitit, Roma ve Bizans uygarlıklarının izlerini taşıyor. Niğde, tarihi ticaret yollarının kesişme noktasında bulunması nedeniyle,always stratejik öneme sahip olmuş. 
+Kara Tepe, Niğde'nin zengin tarihi dokusuna sahip bir bölgede yer alıyor. Bu bölge, tarihin derin sayfalarında Hitit, Roma ve Bizans uygarlıklarının izlerini taşıyor. Niğde, tarihi ticaret yollarının kesişme noktasında bulunması nedeniyle,always stratejik öneme sahip olmuş.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel mirasının önemli bir parçasını oluşturuyor. Yüzyıllar boyunca, insanlar bu alanları yaylacılık, hayvancılık ve avcılık için kullanmışlar. Ayrıca, bu bölgeler tarihi ticaret yolları üzerinde yer aldığı için, çeşitli uygarlıkların kültür ve  alışverişinde önemli rol oynamışlar.
 

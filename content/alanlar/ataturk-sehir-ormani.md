@@ -22,7 +22,7 @@ wikidata_id: "Q108228761"
 
 # ATATÜRK ŞEHİR ORMANI
 
-Atatürk Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir doğa harikasıdır. Bu orman, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliğindedir. Ormanda çeşitli değil, çeşitli ağaç türleri ve zengin fauna bulunmaktadır. Şehir ormanının etrafı, yürüyüş yolları ve bisiklet parkurları ile çevrilidir. Burası, hem doğayı korumak hem de insanları doğaya yaklaştırmak amaçlı kurulmuştur.
+ Bu orman, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliğindedir. Ormanda çeşitli değil, çeşitli ağaç türleri ve zengin fauna bulunmaktadır. Şehir ormanının etrafı, yürüyüş yolları ve bisiklet parkurları ile çevrilidir. Burası, hem doğayı korumak hem de insanları doğaya yaklaştırmak amaçlı kurulmuştur.
 
 ## Tarihçe
 

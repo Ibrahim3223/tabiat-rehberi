@@ -28,7 +28,7 @@ wikidata_id: "Q34811107"
 
 # Söğütyücesi Tepesi
 
-Hatay ilinin önemli doğal güzelliklerinden biri olan Söğütyücesi Tepesi, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanıyla ziyaretçilerini ağırlıyor. Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısını ve iklimini yansıtan bir nokta olarak dikkat çekiyor. Söğütyücesi Tepesi, ziyaretçilerine hem doğal güzellikler hem de tarihi değerler sunuyor. Tepenin eteklerinde yer alan köyler ve kasabalar, bölgenin kültürel zenginliğini gösteriyor. Söğütyücesi Tepesi, doğa severler ve tarih meraklıları için önemli bir destinasyon olarak kabul ediliyor.
+ Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısını ve iklimini yansıtan bir nokta olarak dikkat çekiyor. Söğütyücesi Tepesi, ziyaretçilerine hem doğal güzellikler hem de tarihi değerler sunuyor. Tepenin eteklerinde yer alan köyler ve kasabalar, bölgenin kültürel zenginliğini gösteriyor. Söğütyücesi Tepesi, doğa severler ve tarih meraklıları için önemli bir destinasyon olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Söğütyücesi Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli meden
 
 ## Coğrafya
 
-Söğütyücesi Tepesi, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çekiyor. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Söğütyücesi Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bitkiler, bölgenin iklimini ve coğrafi yapısını yansıtıyor. Söğütyücesi Tepesi, doğa severler için önemli bir destinasyon olarak kabul ediliyor. Tepenin coğrafi konumu, ziyaretçilere bölgenin güzelliklerini sunuyor. Söğütyücesi Tepesi, Akdeniz Bölgesi'nin coğrafi zenginliğini gösteriyor. Tepenin etrafındaki köyler ve kasabalar, bölgenin kültürel değerlerini yansıtıyor. Söğütyücesi Tepesi, coğrafi güzellikleri ve tarihi değerleriyle ziyaretçilerini bekliyor.
+Söğütyücesi Tepesi, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir tepe olarak dikkat çekiyor. Söğütyücesi Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve ağaçlar bulunuyor. Bu bitkiler, bölgenin iklimini ve coğrafi yapısını yansıtıyor. Söğütyücesi Tepesi, doğa severler için önemli bir destinasyon olarak kabul ediliyor. Tepenin coğrafi konumu, ziyaretçilere bölgenin güzelliklerini sunuyor. Söğütyücesi Tepesi, Akdeniz Bölgesi'nin coğrafi zenginliğini gösteriyor. Tepenin etrafındaki köyler ve kasabalar, bölgenin kültürel değerlerini yansıtıyor. Söğütyücesi Tepesi, coğrafi güzellikleri ve tarihi değerleriyle ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Söğütyücesi Tepesi, ziyaretçilerine çeşitli aktiviteleri sunuyor. Tepenin
 
 ## İlginç Bilgiler
 
-- Söğütyücesi Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin etrafında, çeşitli bitki türleri ve fauna bulunuyor.
 - Söğütyücesi Tepesi, tarihi değerleri ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 - Tepenin coğrafi konumu, ziyaretçilere bölgenin iklimini ve coğrafi yapısını gösteriyor.

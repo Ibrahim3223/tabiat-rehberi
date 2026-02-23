@@ -33,9 +33,9 @@ wikidata_id: "Q49296197"
 
 ## Tarihçe
 
-İzmir bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıklara ev sahipliği yapmış bir coğrafyadır. Bu bölgede, Ege'nin köklü kültürü, antik uygarlıkların izlerine rastlama mümkün. İzmir ve çevresinde, Lidya, Pers, Roma ve Bizans gibi uygarlıkların etkileri görülebilir. 
+İzmir bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıklara ev sahipliği yapmış bir coğrafyadır. Bu bölgede, Ege'nin köklü kültürü, antik uygarlıkların izlerine rastlama mümkün. İzmir ve çevresinde, Lidya, Pers, Roma ve Bizans gibi uygarlıkların etkileri görülebilir.
 
-Bu tür doğal alanlar, Türkiye'nin zengin kültürel mirasının bir parçasıdır. Tarih boyunca, insanların bu alanlarla ilişkisi ticaret yolları, yaylacılık ve hayvancılık etrafında şekillenmiştir. İzmir'in coğrafi konumu, doğal limanları ve verimli toprakları, bölgenin stratejik önemini artırmıştır. 
+Bu tür doğal alanlar, Türkiye'nin zengin kültürel mirasının bir parçasıdır. Tarih boyunca, insanların bu alanlarla ilişkisi ticaret yolları, yaylacılık ve hayvancılık etrafında şekillenmiştir. İzmir'in coğrafi konumu, doğal limanları ve verimli toprakları, bölgenin stratejik önemini artırmıştır.
 
 Körtaş Adaları, bu tarihi ve kültürel zenginliğin bir parçası olarak, doğal güzelliği ve coğrafi konumuyla dikkat çekmektedir. Bu adaların etrafındaki deniz ekosistemi, bölgenin biyolojik çeşitliliğini destekleyen önemli bir bileşendir. İnsanların bu doğal alanlarla kurduğu bağ, sadece ekonomik değil, aynı zamanda kültürel ve tarihi bir öneme sahiptir.
 
@@ -53,7 +53,7 @@ Mevsimsel özelliklere bakıldığında, Körtaş Adaları'nın iklim karakteri,
 
 Körtaş Adaları, İzmir'in kıyılarında yer alan bir doğa cenneti. Bu ada ekosisteminde, zeytinlikler ve çam ormanları birlikte büyür. İlkbaharla birlikte, çiçeklerin renkli görüntüsü adayı bir halı gibi kaplar. Sonbaharda ise, göç eden deniz kuşları adaya renk katar.
 
-Bitki örtüsünü oluşturan zeytinlikler ve çam ormanları, adanın karakteristik özellikleridir. Kıyı bölgelerde, tuzlu suya dayanıklı bitkiler bulunur. Mevsimsel değişimlerle birlikte, adanın görünümü değişir. 
+Bitki örtüsünü oluşturan zeytinlikler ve çam ormanları, adanın karakteristik özellikleridir. Kıyı bölgelerde, tuzlu suya dayanıklı bitkiler bulunur. Mevsimsel değişimlerle birlikte, adanın görünümü değişir.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Deniz kuşları, adanın kıyılarında yuvalanır. Ekolojik değerini ise, izole popülasyonların varlığı ve deniz ekosisteminin bir parçası olması oluşturur. Bu ada, canlıların yaşam alanlarını koruma altına almak için önemli bir bölgedir.
 

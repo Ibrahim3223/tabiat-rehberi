@@ -28,7 +28,7 @@ wikidata_id: "Q31558581"
 
 # Bostanbağ Tepesi
 
-Bostanbağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, şehrin merkezine yakın olmasına rağmen, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini cezbediyor. Bostanbağ Tepesi, yılın her mevsiminde farklı bir güzellik sunuyor. İlkbaharın yeşilliği, yazın sıcakklığı, sonbaharın renk cümbüşü ve kışın karlı manzarası, ziyaretçilere benzersiz bir deneyim sunuyor.
+ Bu tepe, şehrin merkezine yakın olmasına rağmen, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini cezbediyor. Bostanbağ Tepesi, yılın her mevsiminde farklı bir güzellik sunuyor. İlkbaharın yeşilliği, yazın sıcakklığı, sonbaharın renk cümbüşü ve kışın karlı manzarası, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bostanbağ Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Bostanbağ Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda. Bostanbağ Tepesi'nin coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle step ve bozkırlarla kaplı. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontruluyor. Bostanbağ Tepesi, Ankara'nın şehir merkezine yakın olmasına rağmen, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini çekiyor. Tepenin etrafında, çeşitli yürüyüş parkurları ve piknik alanları bulunuyor. Bu alanlar, ziyaretçilere, doğayı keşfetme ve dinlenme imkanı sunuyor.
+Bostanbağ Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Tepenin yüksekliği, deniz seviyesinden yaklaşık 1000 metre yukarıda. Bostanbağ Tepesi'nin coğrafi konumu, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölge, genellikle step ve bozkırlarla kaplı. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontruluyor. Bostanbağ Tepesi, Ankara'nın şehir merkezine yakın olmasına rağmen, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini çekiyor. Tepenin etrafında, çeşitli yürüyüş parkurları ve piknik alanları bulunuyor. Bu alanlar, ziyaretçilere, doğayı keşfetme ve dinlenme imkanı sunuyor.
 
 ## Flora ve Fauna
 

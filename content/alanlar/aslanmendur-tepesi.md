@@ -28,7 +28,7 @@ wikidata_id: "Q31387724"
 
 # Aslanmendur Tepesi
 
-Aslanmendur Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Artvin'de yer alıyor. yüksek bir konumdate bulunan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu yükseklikte, ziyaretçiler hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfedebilirler. Aslanmendur Tepesi, doğa severler ve macera arayanlar için ideal bir destinasyon olarak dikkat çekiyor.
+Aslanmendur Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Artvin'de yer alıyor. Bu yükseklikte, ziyaretçiler hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfedebilirler. Aslanmendur Tepesi, doğa severler ve macera arayanlar için ideal bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

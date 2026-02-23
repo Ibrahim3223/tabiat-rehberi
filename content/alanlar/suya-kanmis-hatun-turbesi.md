@@ -1,7 +1,7 @@
 ---
 title: "Suya Kanmış Hatun Türbesi"
 date: "2026-01-10T05:59:58.194Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390512"
 
 # Suya Kanmış Hatun Türbesi
 
-Suya Kanmış Hatun Türbesi, Kayseri'nin Melikgazi ilçesinde bulunan tarihi bir mekan. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içerisinde yer alıyor. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezinti alanı sunuyor. Suya Kanmış Hatun Türbesi, nejen tarihi açıdan önemli bir nokta olmakla birlikte, aynı zamanda doğal güzelliği ile de ziyaretçilerini etkiliyor. Bu mekan, özellikle tarih ve doğa severlerin ilgisini çekiyor ve ziyaretçiler buraya gelerek hem tarihi bilgileri edinebiliyor hem de doğal güzellikleri keşfedebiliyor.
+Suya Kanmış Hatun Türbesi, Kayseri'nin Melikgazi ilçesinde bulunan tarihi bir mekan. Suya Kanmış Hatun Türbesi, nejen tarihi açıdan önemli bir nokta olmakla birlikte, aynı zamanda doğal güzelliği ile de ziyaretçilerini etkiliyor. Bu mekan, özellikle tarih ve doğa severlerin ilgisini çekiyor ve ziyaretçiler buraya gelerek hem tarihi bilgileri edinebiliyor hem de doğal güzellikleri keşfedebiliyor.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Suya Kanmış Hatun Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve 
 
 ## Ziyaret Bilgileri
 
-Suya Kanmış Hatun Türbesi'ni ziyaret etmek, özellikle tarih ve doğa severler için önemli bir deneyim. Ziyaretçiler, türbeyi ve etrafındaki históriki mekanları keşfedebiliyor. Türbeye ulaşmak için, Kayseri'nin Melikgazi ilçesine gelmek gerekiyor. Buraya ulaşım, çeşitli toplu taşıma araçları veya özel araçlarla sağlanabiliyor. Suya Kanmış Hatun Türbesi, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve yaz ayları, türbenin ve etrafındaki doğanın en güzel haliyle ziyaret edilmeye en uygun zamanlar.
+Suya Kanmış Hatun Türbesi'ni ziyaret etmek, özellikle tarih ve doğa severler için önemli bir deneyim. Ziyaretçiler, türbeyi ve etrafındaki tarihi mekanları keşfedebiliyor. Türbeye ulaşmak için, Kayseri'nin Melikgazi ilçesine gelmek gerekiyor. Buraya ulaşım, çeşitli toplu taşıma araçları veya özel araçlarla sağlanabiliyor. Suya Kanmış Hatun Türbesi, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve yaz ayları, türbenin ve etrafındaki doğanın en güzel haliyle ziyaret edilmeye en uygun zamanlar.
 
 ## İlginç Bilgiler
 

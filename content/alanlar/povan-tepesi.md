@@ -28,7 +28,7 @@ wikidata_id: "Q31549840"
 
 # Povan Tepesi
 
-Povan Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olup, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Povan Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin tercih edebileceği bir destinasyon olarak öne çıkmaktadır. Tepenin eteklerinde ve surroundingsında çeşitli bitki türleri ve hayvanlar bulunmakta olup, bu bölgeyi doğal güzelliği ile keşfedilmeye değer bir yer haline getirmektedir.
+ Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Povan Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin tercih edebileceği bir destinasyon olarak öne çıkmaktadır. Tepenin eteklerinde ve surroundingsında çeşitli bitki türleri ve hayvanlar bulunmakta olup, bu bölgeyi doğal güzelliği ile keşfedilmeye değer bir yer haline getirmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Povan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Povan Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olup, coğrafi olarak dikkat çekici bir konuma sahiptir. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olup, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Povan Tepesi'nin coğrafi konumu, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin tercih edebileceği bir destinasyon olarak öne çıkmaktadır. Tepenin eteklerinde ve surroundingsında çeşitli bitki türleri ve hayvanlar bulunmakta olup, bu bölgeyi doğal güzelliği ile keşfedilmeye değer bir yer haline getirmektedir. Povan Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin genel ikliminden farklılık göstermemektedir. Bu bölgenin coğrafi konumu, ziyaretçilerini dört mevsim boyunca farklı güzellikler ile karşılamaktadır.
+Povan Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe olup, coğrafi olarak dikkat çekici bir konuma sahiptir. Povan Tepesi'nin coğrafi konumu, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin tercih edebileceği bir destinasyon olarak öne çıkmaktadır. Tepenin eteklerinde ve surroundingsında çeşitli bitki türleri ve hayvanlar bulunmakta olup, bu bölgeyi doğal güzelliği ile keşfedilmeye değer bir yer haline getirmektedir. Povan Tepesi'nin iklimi, Güneydoğu Anadolu Bölgesi'nin genel ikliminden farklılık göstermemektedir. Bu bölgenin coğrafi konumu, ziyaretçilerini dört mevsim boyunca farklı güzellikler ile karşılamaktadır.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Povan Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak is
 
 ## İlginç Bilgiler
 
-- Povan Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğündedir.
 - Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir.
 - Povan Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin hüküm sürdüğü bir bölge olarak dikkat çekmektedir.
 - Tepenin eteklerinde ve surroundingsında çeşitli bitki türleri ve hayvanlar bulunmakta olup, bu bölgeyi doğal güzelliği ile keşfedilmeye değer bir yer haline getirmektedir.

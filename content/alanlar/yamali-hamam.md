@@ -1,7 +1,7 @@
 ---
 title: "Yamalı Hamam"
 date: "2026-01-09T23:38:52.372Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739191"
 
 # Yamalı Hamam
 
-Yamalı Hamam, İstanbul'un kalbinde, Beyoğlu'nda bulunan tarihi bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Denizi'ne kıyısı bulunur. Bu plaj, İstanbul'un en eski ve en önemli plajlarından biridir. Zamanda yolculuk yapmak isteyenler için ideal bir yer olan Yamalı Hamam, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyüler.
+Yamalı Hamam, İstanbul'un kalbinde, Beyoğlu'nda bulunan tarihi bir plajdır. Bu plaj, İstanbul'un en eski ve en önemli plajlarından biridir. Zamanda yolculuk yapmak isteyenler için ideal bir yer olan Yamalı Hamam, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyüler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yamalı Hamam'ın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu plaj, uzu
 
 ## Coğrafya
 
-Yamalı Hamam, Marmara Bölgesi'nde Beyoğlu'nda bulunur ve Marmara Denizi'ne kıyısı vardır. Plajın coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kıyı şeridine sahiptir. Bu plaj, İstanbul'un en büyük ve en önemli plajlarından biridir. Coğrafi konumu ile Yamalı Hamam, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Plajın etrafındaki peyzaj, ziyaretçilere doğanın güzelliğini zeigtir ve İstanbul'un doğal güzelliklerini keşfetme imkanı sunar.
+Yamalı Hamam, Marmara Bölgesi'nde Beyoğlu'nda bulunur ve Marmara Denizi'ne kıyısı vardır. Plajın coğrafi konumu, ziyaretçilerine eşsiz bir manzara sunar. Bu plaj, İstanbul'un en büyük ve en önemli plajlarından biridir. Coğrafi konumu ile Yamalı Hamam, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Plajın etrafındaki peyzaj, ziyaretçilere doğanın güzelliğini zeigtir ve İstanbul'un doğal güzelliklerini keşfetme imkanı sunar.
 
 ## Flora ve Fauna
 

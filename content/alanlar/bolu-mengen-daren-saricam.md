@@ -22,7 +22,7 @@ wikidata_id: "Q108227976"
 
 # Bolu-Mengen-Daren Saricam
 
-Bolu-Mengen-Daren Saricam milli parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülemektedir. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğa severlerin keyif alacağı bir ortam sunmaktadır. Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin çevreyi keşfetmesine olanak tanımaktadır. Mengen ilçesine yakın konumuyla, ziyaretçiler için ulaşım khá kolaydır.
+Bolu-Mengen-Daren Saricam milli parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülemektedir. Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin çevreyi keşfetmesine olanak tanımaktadır. Mengen ilçesine yakın konumuyla, ziyaretçiler için ulaşım khá kolaydır.
 
 ## Tarihçe
 

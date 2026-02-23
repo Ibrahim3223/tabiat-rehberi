@@ -1,7 +1,7 @@
 ---
 title: "Davutpaşa İskelesi Hamamı"
 date: "2026-01-09T22:46:03.061Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738548"
 
 # Davutpaşa İskelesi Hamamı
 
-Davutpaşa İskelesi Hamamı, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. İstanbul'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Davutpaşa İskelesi Hamamı, İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan. Fatih ilçesinde bulunan bu hamam, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri. İstanbul'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Davutpaşa İskelesi Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Davutpaşa İskelesi Hamamı, Marmara Bölgesi'nin en önemli coğrafi özelliklerine sahip. Bu bölge, yüksek bir konumda ve geniş bir yeşil alan sunuyor. Hamamın etrafı, çeşitli ağaç türleriyle çevrili ve ziyaretçilerine doğal bir ortam sunuyor. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. İstanbul'un coğrafi özellikleri, bu bölgeyi özel bir destinasyon haline getirmiş. Deniz, orman ve şehir hayatının bir arada bulunduğu bu bölge, ziyaretçilerine geniş bir yelpaze sunuyor.
+Davutpaşa İskelesi Hamamı, Marmara Bölgesi'nin en önemli coğrafi özelliklerine sahip. Bu bölge, yüksek bir konumda ve geniş bir yeşil alan sunuyor. Hamamın etrafı, çeşitli ağaç türleriyle çevrili ve ziyaretçilerine doğal bir ortam sunuyor. İstanbul'un coğrafi özellikleri, bu bölgeyi özel bir destinasyon haline getirmiş. Deniz, orman ve şehir hayatının bir arada bulunduğu bu bölge, ziyaretçilerine geniş bir yelpaze sunuyor.
 
 ## Flora ve Fauna
 

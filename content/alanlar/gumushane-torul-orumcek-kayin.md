@@ -22,7 +22,7 @@ wikidata_id: "Q108227273"
 
 # Gumushane-Torul-Orumcek Kayin
 
-Gümüşhane'nin Torul ilçesinde yer alan Orumcek Kayın Milli Parkı, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanı ile ziyaretçilerini etkileyen bir bölge. Bu milli park, Karadeniz Bölgesi'nin zengin natuur güzelliklerini barındıran önemli bir destinasyon. Orumcek Kayın Milli Parkı, ziyaretçilerine hem doğa güzelliği hem de tarihi zenginlik sunan bir yer. 70'li yıllarda kurulan milli park, bölgenin önemli turizm merkezlerinden biri haline gelmiştir.
+ Bu milli park, Karadeniz Bölgesi'nin zengin natuur güzelliklerini barındıran önemli bir destinasyon. Orumcek Kayın Milli Parkı, ziyaretçilerine hem doğa güzelliği hem de tarihi zenginlik sunan bir yer. 70'li yıllarda kurulan milli park, bölgenin önemli turizm merkezlerinden biri haline gelmiştir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Orumcek Kayın Milli Parkı, tarihi geçmişi ile dikkat çekiyor. Bu bölgenin 
 
 ## Coğrafya
 
-Orumcek Kayın Milli Parkı, Karadeniz Bölgesi'nin coğrafi güzelliklerini barındıran önemli bir bölge. Milli park, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanı ile ziyaretçilerini etkileyen bir yer. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler ile zengin. İklimi ise Karadeniz ikliminin característicasını taşıyor. Milli park, ziyaretçilerine hem dağların güzelliği hem de ormanların serinliği sunan bir yer. Ayrıca, milli parkta çeşitli nehirler ve akarsular bulunmakta, bu da bölgeyi daha da güzelleştiriyor. Milli parkın coğrafi konumu, Gümüşhane ilinin Torul ilçesinde yer alıyor.
+Orumcek Kayın Milli Parkı, Karadeniz Bölgesi'nin coğrafi güzelliklerini barındıran önemli bir bölge. Bu bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler ile zengin. İklimi ise Karadeniz ikliminin característicasını taşıyor. Milli park, ziyaretçilerine hem dağların güzelliği hem de ormanların serinliği sunan bir yer. Ayrıca, milli parkta çeşitli nehirler ve akarsular bulunmakta, bu da bölgeyi daha da güzelleştiriyor. Milli parkın coğrafi konumu, Gümüşhane ilinin Torul ilçesinde yer alıyor.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Orumcek Kayın Milli Parkı, ziyaretçilerine çeşitli aktiviteleri sunan bir y
 
 ## İlginç Bilgiler
 
-- Milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Orumcek Kayın Milli Parkı, Karadeniz Bölgesi'nin önemli turizm merkezlerinden biri.
 - Milli park, ziyaretçilerine hem doğal güzellik hem de tarihi zenginlik sunan bir destinasyon.
 - Milli parkta, çeşitli bitki türleri ve hayvanlar bulunmakta.

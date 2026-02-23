@@ -1,7 +1,7 @@
 ---
 title: "Herakleia Hamam ve Gymnasion Kompleksi"
 date: "2026-01-09T23:08:59.610Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"

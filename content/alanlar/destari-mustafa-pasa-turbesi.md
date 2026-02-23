@@ -1,7 +1,7 @@
 ---
 title: "Destari Mustafa Paşa Türbesi"
 date: "2026-01-10T07:44:33.250Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391145"
 
 # Destari Mustafa Paşa Türbesi
 
-Destari Mustafa Paşa Türbesi, Marmara Bölgesi'nin kalbinde yer alan ve tarihsel açıdan büyük önem taşıyan bir yapıdır. Fatih/İstanbul'da bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini tarihi bir yolculuğa çıkarır. Mimari açıdan da dikkat çekici olan Destari Mustafa Paşa Türbesi, İstanbul'un önemli turistik noktalarından biridir. Geçmişin izlerini taşıyan bu mekan, ziyaretçilerine tarihin sayfalarını açar.
+Destari Mustafa Paşa Türbesi, Marmara Bölgesi'nin kalbinde yer alan ve tarihsel açıdan büyük önem taşıyan bir yapıdır. Mimari açıdan da dikkat çekici olan Destari Mustafa Paşa Türbesi, İstanbul'un önemli turistik noktalarından biridir. Geçmişin izlerini taşıyan bu mekan, ziyaretçilerine tarihin sayfalarını açar.
 
 ## Tarihçe
 

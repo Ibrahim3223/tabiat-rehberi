@@ -1,7 +1,7 @@
 ---
 title: "Izmir-Akhisar-Kirkagac Kızılçam 2"
 date: "2026-01-09T18:34:30.894Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227904"
 
 # Izmir-Akhisar-Kirkagac Kızılçam 2
 
-İzmir-Akhisar-Kirkagac Kızılçam 2 milli parkı, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölge, kızılçam ormanları ile tanınır ve ziyaretçilere doğayla iç içe bir deneyim sunar. İzmir'in Akhisar ve Kirkagac yöresinde bulunan bu milli park, hem doğa severler hem de tarih meraklıları için bir hazine gibidir. 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
+ Bu bölge, kızılçam ormanları ile tanınır ve ziyaretçilere doğayla iç içe bir deneyim sunar. İzmir'in Akhisar ve Kirkagac yöresinde bulunan bu milli park, hem doğa severler hem de tarih meraklıları için bir hazine gibidir. 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108227904"
 
 ## Coğrafya
 
-İzmir-Akhisar-Kirkagac Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak oldukça zengin bir yapıya sahiptir. Bu bölgede, kızılçam ormanları geniş alanları kaplar ve ziyaretçilere doğanın güzelliğini gösterir. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunar. İç Anadolu Bölgesi'nin karakteristik coğrafyası, bu milli parkta da görülür ve ziyaretçilere benzersiz bir deneyim sağlar. Milli parkın coğrafyası, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
+İzmir-Akhisar-Kirkagac Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak oldukça zengin bir yapıya sahiptir. Bu bölgede, kızılçam ormanları geniş alanları kaplar ve ziyaretçilere doğanın güzelliğini gösterir. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu zengin bir fauna sunar. İç Anadolu Bölgesi'nin karakteristik coğrafyası, bu milli parkta da görülür ve ziyaretçilere benzersiz bir deneyim sağlar.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Hamam Kalıntısı 1, İznik"
 date: "2026-01-09T23:42:15.523Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739175"
 
 # Hamam Kalıntısı 1, İznik
 
-Hamam Kalıntısı 1, İznik, Marmara Bölgesi'nin en önemli kültürel ve tarihi merkezlerinden biri olan İznik'te yer alır. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, bu tarihi kalıntının büyüklüğünü gözler önüne serer. İznik Gölü'nün kıyısında bulunan bu hamam kalıntısı, bölgenin zengin tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini çekmektedir. İznik'in tarihi dokusu içinde yer alan Hamam Kalıntısı 1, Marmara Bölgesi'nin güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Hamam Kalıntısı 1, İznik, Marmara Bölgesi'nin en önemli kültürel ve tarihi merkezlerinden biri olan İznik'te yer alır. İznik Gölü'nün kıyısında bulunan bu hamam kalıntısı, bölgenin zengin tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini çekmektedir. İznik'in tarihi dokusu içinde yer alan Hamam Kalıntısı 1, Marmara Bölgesi'nin güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q134728229"
 
 # Çetenli Köyü Kurganı
 
-Çetenli Köyü Kurganı, Doğubayazıt'ın zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir alan. Bu bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin ilgisini çekiyor. Çetenli Köyü Kurganı, ziyaretçilerine tarihin derinliklerinden gelen bir hikaye sunuyor. Bu alan, tarihi geçmişinin yanında, coğrafi konumuyla da dikkat çekiyor. Doğubayazıt'ın merkezine yakın konumuyla, ziyaretçiler için kolay ulaşılabilir bir nokta.
+Çetenli Köyü Kurganı, Doğubayazıt'ın zengin tarihi ve doğal güzelliklerini bir araya getiren özel bir alan. Çetenli Köyü Kurganı, ziyaretçilerine tarihin derinliklerinden gelen bir hikaye sunuyor. Bu alan, tarihi geçmişinin yanında, coğrafi konumuyla da dikkat çekiyor. Doğubayazıt'ın merkezine yakın konumuyla, ziyaretçiler için kolay ulaşılabilir bir nokta.
 
 ## Tarihçe
 

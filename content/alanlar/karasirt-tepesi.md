@@ -28,7 +28,7 @@ wikidata_id: "Q31389397"
 
 # Karasırt Tepesi
 
-Karasırt Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleri ile kaplıdır. Tepenin eteklerinde akan nehirler ve derenin oluşturduğu vadiler, ziyaretçilere eşsiz bir manzara sunar. Karasırt Tepesi, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çeken bir destinasyondur.
+Karasırt Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Tepenin eteklerinde akan nehirler ve derenin oluşturduğu vadiler, ziyaretçilere eşsiz bir manzara sunar. Karasırt Tepesi, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çeken bir destinasyondur.
 
 ## Tarihçe
 

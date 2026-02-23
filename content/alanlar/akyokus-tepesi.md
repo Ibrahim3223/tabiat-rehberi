@@ -29,7 +29,7 @@ wikidata_id: "Q31390869"
 
 # Akyokuş Tepesi
 
-Akyokuş Tepesi, Yozgat ilinin merkezinde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir tepe. Bu tepenin bulunduğu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini gözler önüne seren önemli bir nokta. Akyokuş Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için keyifli bir destinasyon. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor. Ayrıca, tepeye tırmanarak şehrin panoramik manzarasını izlemek de mümkün.
+Akyokuş Tepesi, Yozgat ilinin merkezinde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir tepe. Akyokuş Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için keyifli bir destinasyon. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor. Ayrıca, tepeye tırmanarak şehrin panoramik manzarasını izlemek de mümkün.
 
 ## Tarihçe
 

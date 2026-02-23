@@ -1,7 +1,7 @@
 ---
 title: "Hacı Hasan Efendi Türbesi"
 date: "2026-01-10T07:54:20.447Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"
@@ -30,11 +30,11 @@ wikidata_id: "Q131391320"
 
 # Hacı Hasan Efendi Türbesi
 
-Hacı Hasan Efendi Türbesi, Karadeniz Bölgesi'nin güzide ilçesi Alucra'da yer alan bir türbe ve plaj alanıdır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerini doğanın kucağına davet ediyor. Hacı Hasan Efendi Türbesi, hem tarihi önemi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Bu türbe ve plaj alanı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri olarak biliniyor.
+Hacı Hasan Efendi Türbesi, Karadeniz Bölgesi'nin güzide ilçesi Alucra'da yer alan bir türbe ve plaj alanıdır. Hacı Hasan Efendi Türbesi, hem tarihi önemi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Bu türbe ve plaj alanı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri olarak biliniyor.
 
 ## Tarihçe
 
-Hacı Hasan Efendi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu türbenin kuruluş tarihi tam olarak bilinmese de, tarihi belgelerde adı geçen Hacı Hasan Efendi, régionün önemli dini şahsiyetlerinden biri olarak kabul ediliyor. Türbenin etrafındaki bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu bölgede yaşayan insanların kültürel ve dini hayatına tanıklık etmiş. Hacı Hasan Efendi Türbesi, bu bölgenin tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor. Türbenin tarihi önemi, ziyaretçilerini bu bölgeye çekiyor ve onları tarihin derinliklerine götürüyor.
+Hacı Hasan Efendi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu türbenin kuruluş tarihi tam olarak bilinmese de, tarihi belgelerde adı geçen Hacı Hasan Efendi, bölgeün önemli dini şahsiyetlerinden biri olarak kabul ediliyor. Türbenin etrafındaki bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu bölgede yaşayan insanların kültürel ve dini hayatına tanıklık etmiş. Hacı Hasan Efendi Türbesi, bu bölgenin tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor. Türbenin tarihi önemi, ziyaretçilerini bu bölgeye çekiyor ve onları tarihin derinliklerine götürüyor.
 
 ## Coğrafya
 
@@ -42,7 +42,7 @@ Hacı Hasan Efendi Türbesi, Karadeniz Bölgesi'nin güzide ilçesi Alucra'da ye
 
 ## Flora ve Fauna
 
-Hacı Hasan Efendi Türbesi'nin etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölgede, farklı mevsimlerde çeşitli bitki türleri yetişiyor. İlkbahar ve yaz aylarında, bölgenin flora zenginliği, ziyaretçilerini cezbediyor. Kış aylarında, bölgenin fauna zenginliği, yaban hayatı açısından önemli bir bölge haline geliyor. Bu bölgede, çeşitli hayvan türleri yaşadığı biliniyor. Hacı Hasan Efendi Türbesi, bu bölgenin ekolojik dengesini korumak açısından önemli bir role sahip.
+Hacı Hasan Efendi Türbesi'nin etrafındaki bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölgede, farklı mevsimlerde çeşitli bitki türleri yetişiyor. İlkbahar ve yaz aylarında, bölgenin flora zenginliği, ziyaretçilerini cezbediyor. Kış aylarında, bölgenin fauna zenginliği, yaban hayatı açısından önemli bir bölge haline geliyor. Bu bölgede, çeşitli hayvan türleri yaşadığı biliniyor.
 
 ## Ziyaret Bilgileri
 
@@ -54,4 +54,4 @@ Hacı Hasan Efendi Türbesi'ni ziyaret etmek, Karadeniz Bölgesi'nin güzide il�
 - Türbenin etrafındaki bölge, yaban hayatı açısından zengin.
 - Bu bölge, çeşitli bitki türleri ile dikkat çekiyor.
 - Hacı Hasan Efendi Türbesi, tarihi önemi ile biliniyor.
-- Türbenin kuruluş tarihi tam olarak bilinmese de, tarihi belgelerde adı geçen Hacı Hasan Efendi, régionün önemli dini şahsiyetlerinden biri olarak kabul ediliyor.
+- Türbenin kuruluş tarihi tam olarak bilinmese de, tarihi belgelerde adı geçen Hacı Hasan Efendi, bölgeün önemli dini şahsiyetlerinden biri olarak kabul ediliyor.

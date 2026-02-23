@@ -22,7 +22,7 @@ wikidata_id: "Q108228996"
 
 # Çakıroluk Ormanı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Çakıroluk Ormanı, 140 hektarlık genişliğiyle yaklaşık 200 futbol sahası büyüklüğünde bir alan sunuyor. Bu muhteşem orman, ziyaretçilerini doğanın kucağına davet ediyor. Ormanın içinde yürüyüş parkurları, piknik alanları ve dinlenme noktaları gibi imkânlar yer alıyor. Çakıroluk Ormanı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir kaçış noktası.
+ Bu muhteşem orman, ziyaretçilerini doğanın kucağına davet ediyor. Ormanın içinde yürüyüş parkurları, piknik alanları ve dinlenme noktaları gibi imkânlar yer alıyor. Çakıroluk Ormanı, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir kaçış noktası.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ wikidata_id: "Q108228996"
 
 ## Flora ve Fauna
 
-Çakıroluk Ormanı, flora ve fauna açısından oldukça zengin bir doğal alan. Ormanda, çeşitli ağaç türleri, çalılar ve otsu bitkiler yer alıyor. Ormanın flora yapısı, mevsimsel olarak değişkenlik gösteriyor. İlkbahar ve yaz aylarında orman, yeşilin tüm tonlarına bürünürken, sonbahar ve kış aylarında renkli bir manzara sunuyor. Fauna açısından da zengin olan orman, birçok hayvan türüne ev sahipliği yapıyor. Ormanda, çeşitli kuş türleri, memeliler, sürüngenler ve amfibiler yaşamlarını sürdürüyor.
+ Ormanda, çeşitli ağaç türleri, çalılar ve otsu bitkiler yer alıyor. Ormanın flora yapısı, mevsimsel olarak değişkenlik gösteriyor. İlkbahar ve yaz aylarında orman, yeşilin tüm tonlarına bürünürken, sonbahar ve kış aylarında renkli bir manzara sunuyor. Fauna açısından da zengin olan orman, birçok hayvan türüne ev sahipliği yapıyor. Ormanda, çeşitli kuş türleri, memeliler, sürüngenler ve amfibiler yaşamlarını sürdürüyor.
 
 ## Ziyaret Bilgileri
 

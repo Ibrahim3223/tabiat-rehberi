@@ -50,11 +50,11 @@ Zilli Tepe'nin çevresel ilişkileri, bölgenin su kaynakları ve ekosistem bağ
 
 ## Flora ve Fauna
 
-Zilli Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine sahiptir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Zilli Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine sahiptir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Step ve ova ekolojisinin karakteristik türleri, dağların yükseklik zonlarında alpin floranın egemenliğini paylaşır. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Step ve ova ekolojisinin karakteristik türleri, dağların yükseklik zonlarında alpin floranın egemenliğini paylaşır.
 
-Yaban Hayatı açısından, Zilli Tepe memeliler, kuşlar ve sürüngenler için önemli bir yaşam alanıdır. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gökyüzünde süzülür. Sonbaharda, göçmen kuşlar burada konaklar, bu dağları önemli bir uğrak noktası haline getirir. 
+Yaban Hayatı açısından, Zilli Tepe memeliler, kuşlar ve sürüngenler için önemli bir yaşam alanıdır. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gökyüzünde süzülür. Sonbaharda, göçmen kuşlar burada konaklar, bu dağları önemli bir uğrak noktası haline getirir.
 
 Ekolojik Değer olarak, Zilli Tepe'nin korunması, bölgenin ekolojik dengesinin korunması için önemlidir. Bu dağ ekosistemi, bölgenin su kaynaklarının korunmasına da katkıda bulunur. Zilli Tepe, doğa severler ve bilim insanları için bir hazine olarak, keşfedilmeyi bekliyor.
 

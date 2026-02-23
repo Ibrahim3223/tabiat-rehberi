@@ -29,7 +29,7 @@ wikidata_id: "Q134728296"
 
 # Bin Tepeler Tümülüsü 68
 
-Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için Ahmetli'de yer alan Bin Tepeler Tümülüsü 68, ziyaretçilerini bekliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Tarih ve doğanın birleştiği bu noktada, hem historik yapıları inceleyebilir hem de naturel güzellikleri keşfedebilirsiniz.
+Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için Ahmetli'de yer alan Bin Tepeler Tümülüsü 68, ziyaretçilerini bekliyor. Tarih ve doğanın birleştiği bu noktada, hem historik yapıları inceleyebilir hem de naturel güzellikleri keşfedebilirsiniz.
 
 ## Tarihçe
 

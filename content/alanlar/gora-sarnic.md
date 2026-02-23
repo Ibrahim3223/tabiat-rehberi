@@ -28,7 +28,7 @@ wikidata_id: "Q31385482"
 
 # Gora Sarnıç
 
-Gora Sarnıç, İç Anadolu Bölgesi'nin kalbinde yer alan bir tepe ve doğa severler için bir hazine. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile kaplı. Bu yeşil cennet, yaban hayatı için de önemli bir yaşam alanı. Gora Sarnıç, ziyaretçilerini büyüleyici manzaraları ve zengin fauna ile karşılıyor. Doğa yürüyüşleri, fotoğrafçılık ve doğa gözlemciliğiçin ideal bir yer.
+Gora Sarnıç, İç Anadolu Bölgesi'nin kalbinde yer alan bir tepe ve doğa severler için bir hazine. Bu yeşil cennet, yaban hayatı için de önemli bir yaşam alanı. Gora Sarnıç, ziyaretçilerini büyüleyici manzaraları ve zengin fauna ile karşılıyor. Doğa yürüyüşleri, fotoğrafçılık ve doğa gözlemciliğiçin ideal bir yer.
 
 ## Tarihçe
 

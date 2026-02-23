@@ -34,7 +34,7 @@ Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Çiçek Tepe, Ba
 
 Batman bölgesi, tarihin derinliklerinden gelen bir zenginlik sunar. Bu topraklar, Hititlerden başlayarak, Asur, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşır. Çiçek Tepe de bu tarihsel dokunun bir parçasıdır. Türkiye'nin doğal alanları, binlerce yıl boyunca çeşitli medeniyetlerin yaşamına ev sahipliği yapmış, insanların yerleşim, tarım, hayvancılık ve ticaret faaliyetleri için önemli merkezler olarak görev üstlenmiştir.
 
-Bu doğal cennetler, sadece coğrafi güzellikleriyle değil, aynı zamanda kültürel ve tarihi önemiyle de dikkat çeker. Yaylacılık ve hayvancılık, bu bölgelerde yüzyıllardır devam eden geleneksel faaliyetlerdir. Ayrıca, tarihi ticaret yollarının bir kısmı da bu doğal güzelliklerin içinden geçer. İnsanların bu alanlarla olan ilişkisi, sadece ekonomik değil, aynı zamanda duygusal ve kültürel bir boyuta da sahiptir. Çiçek Tepe, Batman bölgesinin zengin tarihsel mirasının bir parçası olarak, ziyaretçilerini tarihin sâuğundaki bir yolculuğa davet eder.
+Bu doğal cennetler, sadece coğrafi güzellikleriyle değil, aynı zamanda kültürel ve tarihi önemiyle de dikkat çeker. Yaylacılık ve hayvancılık, bu bölgelerde yüzyıllardır devam eden geleneksel faaliyetlerdir. Ayrıca, tarihi ticaret yollarının bir kısmı da bu doğal güzelliklerin içinden geçer. İnsanların bu alanlarla olan ilişkisi, sadece ekonomik değil, aynı zamanda duygusal ve kültürel bir boyuta da sahiptir. Çiçek Tepe, Batman bölgesinin zengin tarihsel mirasının bir parçası olarak, ziyaretçilerini tarihin derinğundaki bir yolculuğa davet eder.
 
 ## Coğrafya
 
@@ -52,7 +52,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Çiçek Tepe'nin çevrese
 
 Bitki Örtüsü bölümüne baktığımızda, ilkbaharın gelmesiyle birlikte, dağ yamaçlarında renkli bir çiçek şöleni yaşanıyor. Mevsimsel değişimlerle birlikte, bitki örtüsü değişiyor. Dağların yükseklik zonlarına göre, alpin flora typesi hakim oluyor.
 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler gibi çeşitli canlılar yaşamlarını sürdürüyorlar. Bu dağ ekosisteminde, yükseklik zonlarına göre, farklı türlerin yaşam alanlarına rastlama mümkün. 
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler gibi çeşitli canlılar yaşamlarını sürdürüyorlar. Bu dağ ekosisteminde, yükseklik zonlarına göre, farklı türlerin yaşam alanlarına rastlama mümkün.
 
 Ekolojik Değer bölümünde, Çiçek Tepe'nin neden önemli olduğu ve koruma durumu hakkında bilgi verilebilir. Bu dağ ekosisteminin korunması, bölgenin doğal dengesini korumak için son derece önemli.
 

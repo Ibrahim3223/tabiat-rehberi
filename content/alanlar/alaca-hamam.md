@@ -1,7 +1,7 @@
 ---
 title: "Alaca Hamam"
 date: "2026-01-09T22:27:20.220Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738488"
 
 # Alaca Hamam
 
-Alaca Hamam, Şehzadeler'in en güzel plajlarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en önemli doğal güzelliklerinden biri. Deniz suyu berra ve temiz, kumsal ise geniş ve konforlu. Alaca Hamam, doğa severlerin ve deniz aşığıların buluşma noktası olarak kabul edilir. Bu güzel plaj, yıl boyunca birçok ziyaretçiyi ağırlar ve onların doğayla iç içe olmasını sağlar.
+Alaca Hamam, Şehzadeler'in en güzel plajlarından biri olarak bilinir. Deniz suyu berra ve temiz, kumsal ise geniş ve konforlu. Alaca Hamam, doğa severlerin ve deniz aşığıların buluşma noktası olarak kabul edilir. Bu güzel plaj, yıl boyunca birçok ziyaretçiyi ağırlar ve onların doğayla iç içe olmasını sağlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Alaca Hamam'ın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin y
 
 ## Coğrafya
 
-Alaca Hamam, Şehzadeler'in merkezinde, Ege Bölgesi'nin en güzel kıyı şeridinde yer alır. Bu plaj, 140 hektarlık bir yeşil alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir kumsala sahiptir. Deniz suyu, berra ve temizdir ve kumsal, geniş ve konforludur. Alaca Hamam'ın coğrafi konumu, ziyaretçilerin doğayla iç içe olmasını sağlar ve onlara eşsiz bir deneyim sunar. Bu plaj, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve yıl boyunca birçok ziyaretçiyi ağırlar. Alaca Hamam'ın coğrafyası, ziyaretçilerin çeşitli etkinlikler yapmasına olanak tanır, bu nedenle bu plaj, doğa severlerin ve deniz aşığıların buluşma noktası olarak kabul edilir.
+Alaca Hamam, Şehzadeler'in merkezinde, Ege Bölgesi'nin en güzel kıyı şeridinde yer alır. Deniz suyu, berra ve temizdir ve kumsal, geniş ve konforludur. Alaca Hamam'ın coğrafi konumu, ziyaretçilerin doğayla iç içe olmasını sağlar ve onlara eşsiz bir deneyim sunar. Bu plaj, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve yıl boyunca birçok ziyaretçiyi ağırlar. Alaca Hamam'ın coğrafyası, ziyaretçilerin çeşitli etkinlikler yapmasına olanak tanır, bu nedenle bu plaj, doğa severlerin ve deniz aşığıların buluşma noktası olarak kabul edilir.
 
 ## Flora ve Fauna
 

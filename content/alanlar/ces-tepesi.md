@@ -29,7 +29,7 @@ wikidata_id: "Q34829068"
 
 # Çeş Tepesi
 
-Kastamonu'nun güzide noktalarından biri olan Çeş Tepesi, Karadeniz Bölgesi'nin zengin doğal mirasını keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için sakin bir kaçış noktası. Çeş Tepesi, Kastamonu'nun tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini de sunuyor. Bu tepe, şehre hakim bir konumda bulunuyor ve çevresindeki manzaralarla ziyaretçilerini büyülüyor. Çeş Tepesi, Kastamonu'nun önemli turizm noktalarından biri olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından keşfediliyor.
+Kastamonu'nun güzide noktalarından biri olan Çeş Tepesi, Karadeniz Bölgesi'nin zengin doğal mirasını keşfetmek isteyenler için ideal bir destinasyon. Çeş Tepesi, Kastamonu'nun tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini de sunuyor. Bu tepe, şehre hakim bir konumda bulunuyor ve çevresindeki manzaralarla ziyaretçilerini büyülüyor. Çeş Tepesi, Kastamonu'nun önemli turizm noktalarından biri olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından keşfediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kastamonu'nun güzide noktalarından biri olan Çeş Tepesi, Karadeniz Bölgesi'
 
 ## Coğrafya
 
-Çeş Tepesi, Kastamonu'nun merkezinde bulunan bir tepe. Bu tepe, şehrin önemli bir noktası olarak kabul ediliyor ve çevresindeki manzaralarla ziyaretçilerini büyülüyor. Çeş Tepesi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, şehre hakim bir konumda bulunuyor ve ziyaretçilerine Kastamonu'nun panoramik manzarasını sunuyor. Çeş Tepesi'nin coğrafi konumu, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Bu tepe, Kastamonu'nun önemli turizm noktalarından biri olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından keşfediliyor. Çeş Tepesi'nin coğrafi özellikleri, Kastamonu'nun turizm potansiyelini artırıyor. Çeş Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Çeş Tepesi, Kastamonu'nun merkezinde bulunan bir tepe. Bu tepe, şehrin önemli bir noktası olarak kabul ediliyor ve çevresindeki manzaralarla ziyaretçilerini büyülüyor. Bu tepe, şehre hakim bir konumda bulunuyor ve ziyaretçilerine Kastamonu'nun panoramik manzarasını sunuyor. Çeş Tepesi'nin coğrafi konumu, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Bu tepe, Kastamonu'nun önemli turizm noktalarından biri olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından keşfediliyor. Çeş Tepesi'nin coğrafi özellikleri, Kastamonu'nun turizm potansiyelini artırıyor. Çeş Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

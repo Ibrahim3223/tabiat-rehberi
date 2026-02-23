@@ -22,7 +22,7 @@ wikidata_id: "Q108227611"
 
 # Konya-Ermenek-Kazanci Sedir 1
 
-Konya-Ermenek-Kazancı Sedir 1, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik alanlarından biridir. Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bu milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Konya-Ermenek-Kazancı Sedir 1, doğa severler ve macera arayışında olanlar için bir cennet harika bir deneyim.
+Konya-Ermenek-Kazancı Sedir 1, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Konya'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bu milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. Konya-Ermenek-Kazancı Sedir 1, doğa severler ve macera arayışında olanlar için bir cennet harika bir deneyim.
 
 ## Tarihçe
 

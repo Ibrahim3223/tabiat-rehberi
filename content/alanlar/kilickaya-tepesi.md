@@ -28,7 +28,7 @@ wikidata_id: "Q32211164"
 
 # Kılıçkaya Tepesi
 
-Kılıçkaya Tepesi, Karadeniz Bölgesi'nin en güzel destinasyonlarından biri olan Artvin'de yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Kılıçkaya Tepesi, hem doğa severler hem de macera arayışında olanlar için ideal bir gezi noktası. Tepenin yüksekliği ve geniş alanı, ziyaretçilere geniş bir görüş açısı sunuyor ve bölgenin güzelliğini keşfetmeleri için fırsat tanıyor.
+Kılıçkaya Tepesi, Karadeniz Bölgesi'nin en güzel destinasyonlarından biri olan Artvin'de yer alıyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Kılıçkaya Tepesi, hem doğa severler hem de macera arayışında olanlar için ideal bir gezi noktası. Tepenin yüksekliği ve geniş alanı, ziyaretçilere geniş bir görüş açısı sunuyor ve bölgenin güzelliğini keşfetmeleri için fırsat tanıyor.
 
 ## Tarihçe
 

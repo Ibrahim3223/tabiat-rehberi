@@ -23,7 +23,7 @@ wikidata_id: "Q108228237"
 
 # Çınarsuyu
 
-İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Çınarsuyu, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alana sahiptir. Bu bölge, doğa severlerin ve çam ormanlarını sevenlerin keyif alacağı bir destinasyon olarak bilinmektedir. Çınarsuyu'nun çevresi, çeşitli bitki türleriyle kaplıdır ve bölgenin flora zenginliği dikkat çekicidir. Ayrıca, burası yaban hayatı açısından da önemli bir alandır. Çınarsuyu, ziyaretçilerine hem doğayla iç içe bir deneyim hem de bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar.
+ Bu bölge, doğa severlerin ve çam ormanlarını sevenlerin keyif alacağı bir destinasyon olarak bilinmektedir. Çınarsuyu'nun çevresi, çeşitli bitki türleriyle kaplıdır ve bölgenin flora zenginliği dikkat çekicidir. Ayrıca, burası yaban hayatı açısından da önemli bir alandır. Çınarsuyu, ziyaretçilerine hem doğayla iç içe bir deneyim hem de bölgenin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ wikidata_id: "Q108228237"
 
 ## Coğrafya
 
-Çınarsuyu, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Çınarsuyu'nun coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkilemektedir. Burada, çeşitli bitki türleri ve yaban hayatı bulunur. Çınarsuyu'nun çevresi, çam ormanlarıyla kaplıdır ve bölgenin flora zenginliği dikkat çekicidir. Ayrıca, burası yaban hayatı açısından da önemli bir alandır. Çınarsuyu'nun coğrafi yapısı, ziyaretçilere hem doğa güzelliği hem de coğrafi çeşitlilik sunar.
+Çınarsuyu, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Çınarsuyu'nun coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkilemektedir. Burada, çeşitli bitki türleri ve yaban hayatı bulunur. Çınarsuyu'nun çevresi, çam ormanlarıyla kaplıdır ve bölgenin flora zenginliği dikkat çekicidir. Ayrıca, burası yaban hayatı açısından da önemli bir alandır. Çınarsuyu'nun coğrafi yapısı, ziyaretçilere hem doğa güzelliği hem de coğrafi çeşitlilik sunar.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ wikidata_id: "Q108228237"
 ## İlginç Bilgiler
 
 - Çınarsuyu, 140 hektarlık bir alana yayılmaktadır.
-- Bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Çınarsuyu, çeşitli bitki türleri ve yaban hayatı ile dikkat çekmektedir.
 - Bölge, doğa severlerin ve çam ormanlarını sevenlerin keyif alacağı bir destinasyon olarak bilinmektedir.
 - Çınarsuyu, ziyaretçilerine hem doğa güzelliği hem de yaban hayatı açısından önemli bir deneyim sunar.

@@ -53,7 +53,7 @@ Mevsimsel özelliklere bakıldığında, Karadağ'ın iklimi Akdeniz ikliminin k
 
 Karadağ, Antalya'nın görkemli dağ ekosistemini sunan bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, maki bitki örtüsü çiçeklerle donanırken, sonbaharda göç eden kuşlar dağların üstünden geçerek göç yollarına devam ediyorlar.
 
-Bitki örtüsünde, kuraklığa dayanıklı türler hakimiyet kuruyor. Kıyı ekosistemi, dağ ekosistemi ile bir araya gelerek benzersiz bir flora sunuyor. Dağların yükseklik zonlarında, alpin flora çeşitliliği göze çarpıyor. 
+Bitki örtüsünde, kuraklığa dayanıklı türler hakimiyet kuruyor. Kıyı ekosistemi, dağ ekosistemi ile bir araya gelerek benzersiz bir flora sunuyor. Dağların yükseklik zonlarında, alpin flora çeşitliliği göze çarpıyor.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Dağların yükseklik zonlarına adapte olmuş dağ hayvanları, yaşam alanlarını bu coğrafyada buluyor. Ekolojik değer olarak, bu dağ ekosistemi, bölgenin iklim dengesini koruyor ve canlıların yaşam alanlarını güvence altına alıyor.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227775"
 
 # Artvin-Goktas-Baskoy Dogu Kayini
 
-Artvin-Goktas-Baskoy Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik sistemlerinden birini oluşturur. Milli parkın bulunduğu Artvin ili, tarihi ve kültürel zenginlikleri ile dikkat çeker. Doğal güzellikleri, tarihi geçmişi ve zengin kültürü ile Artvin-Goktas-Baskoy Dogu Kayini milli parkı, ziyaretçilerini büyülemektedir. Milli parkta çeşitli bitki türleri ve hayvanlar bulunur. Ayrıca, milli parkın çevresinde histórik yapılar ve geleneksel köyler bulunmaktadır.
+Artvin-Goktas-Baskoy Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biri olarak bilinir. Milli parkın bulunduğu Artvin ili, tarihi ve kültürel zenginlikleri ile dikkat çeker. Doğal güzellikleri, tarihi geçmişi ve zengin kültürü ile Artvin-Goktas-Baskoy Dogu Kayini milli parkı, ziyaretçilerini büyülemektedir. Milli parkta çeşitli bitki türleri ve hayvanlar bulunur. Ayrıca, milli parkın çevresinde tarihi yapılar ve geleneksel köyler bulunmaktadır.
 
 ## Tarihçe
 

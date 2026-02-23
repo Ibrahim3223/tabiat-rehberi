@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Muhammed Fethül Maarif Hazretleri Türbesi"
 date: "2026-01-10T05:21:30.222Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,11 +29,11 @@ wikidata_id: "Q131391681"
 
 # Şeyh Muhammed Fethül Maarif Hazretleri Türbesi
 
-Kartal'da bulunan Şeyh Muhammed Fethül Maarif Hazretleri Türbesi, Marmara Bölgesi'nin önemli tarihi ve dini mekanlarından biridir. Bu türbe, yaklaşık 140 hektarlık bir alanda yer alır ve çevresindeki yeşil alanlar ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şeyh Muhammed Fethül Maarif Hazretleri Türbesi, hem dini hem de tarihi açıdan önemli bir merkez olarak bilinir ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
+Kartal'da bulunan Şeyh Muhammed Fethül Maarif Hazretleri Türbesi, Marmara Bölgesi'nin önemli tarihi ve dini mekanlarından biridir. Şeyh Muhammed Fethül Maarif Hazretleri Türbesi, hem dini hem de tarihi açıdan önemli bir merkez olarak bilinir ve her yıl birçok ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 
-Şeyh Muhammed Fethül Maarif Hazretleri Türbesi, yüzyıllar boyunca dini ve kültürel bir merkez olarak hizmet vermiştir. Tarihi geçmişi, Osmanlı İmparatorluğu döneminde başlamış ve o günden bugüne kadar önemli bir dini merkez olarak varlığını sürdürmüştür. Türbenin çevresinde bulunan histórik yapılar ve eserler, bu bölgenin zengin tarihi geçmişini yansıtmaktadır. Şeyh Muhammed Fethül Maarif Hazretleri, dini ve edebi konularda önemli eserler vermiş ve bu bölgede önemli bir figür olarak kabul edilmektedir.
+Şeyh Muhammed Fethül Maarif Hazretleri Türbesi, yüzyıllar boyunca dini ve kültürel bir merkez olarak hizmet vermiştir. Tarihi geçmişi, Osmanlı İmparatorluğu döneminde başlamış ve o günden bugüne kadar önemli bir dini merkez olarak varlığını sürdürmüştür. Türbenin çevresinde bulunan tarihi yapılar ve eserler, bu bölgenin zengin tarihi geçmişini yansıtmaktadır. Şeyh Muhammed Fethül Maarif Hazretleri, dini ve edebi konularda önemli eserler vermiş ve bu bölgede önemli bir figür olarak kabul edilmektedir.
 
 ## Coğrafya
 

@@ -32,9 +32,9 @@ Doğu Anadolu Bölgesi'nin en yüksek dağlarından biri olan Hamurpet Dağı, E
 
 ## Tarihçe
 
-Erzurum bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıklara ev sahipliği yapmış bir coğrafyadır. Doğu Anadolu Bölgesi'nin kalbinde yer alan bu bölge, tarih boyunca ticaret yollarının kesişme noktası olarak önemli bir role sahip olmuştur. Hamurpet Dağı da bu bölgenin bir parçasını oluşturmaktadır. 
+Erzurum bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıklara ev sahipliği yapmış bir coğrafyadır. Doğu Anadolu Bölgesi'nin kalbinde yer alan bu bölge, tarih boyunca ticaret yollarının kesişme noktası olarak önemli bir role sahip olmuştur. Hamurpet Dağı da bu bölgenin bir parçasını oluşturmaktadır.
 
-Bölgede, Hitit, Urartu, Pers ve Roma gibi uygarlıkların izlerine rastlama mümkündür. Bu uygarlıkların her biri, bölgenin stratejik konumu ve doğal kaynaklarından yararlanarak kendi kültürlerini ve ticaret ağlarını geliştirmişlerdir. 
+Bölgede, Hitit, Urartu, Pers ve Roma gibi uygarlıkların izlerine rastlama mümkündür. Bu uygarlıkların her biri, bölgenin stratejik konumu ve doğal kaynaklarından yararlanarak kendi kültürlerini ve ticaret ağlarını geliştirmişlerdir.
 
 Doğal alanlar, Türkiye'nin tarih boyunca önemli bir role sahip olmuşlardır. Yaylacılık, hayvancılık ve avcılık gibi faaliyetler, insanların bu alanlarla bağlantılı olarak yaşamlarını sürdürmelerini sağlamıştır. Ayrıca, tarihi ticaret yolları da bu doğal alanlardan geçmiş, insanları ve kültürleri birbirine bağlamıştır. Hamurpet Dağı ve çevresi de bu bağlamda önemli bir konumda yer alır.
 
@@ -50,9 +50,9 @@ Mevsimsel olarak Hamurpet Dağı, Doğu Anadolu Bölgesi'nin karakteristik iklim
 
 ## Flora ve Fauna
 
-Hamurpet Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hamurpet Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünü oluşturan alpin çayırlar, ilkbaharın başlangıcında renklendirerek, sonbaharın sonuna kadar yaşamın renklerini sunuyor. Bu bölgede, yükseklik zonlarına bağlı olarak farklı türlerin hakim olduğu alanlar göze çarpıyor. Alpin flora, dağların yüksek kesimlerinde, çoğunlukla taşlı ve kayalık arazilerde yetişen özel bitkilerden oluşuyor. 
+Bitki örtüsünü oluşturan alpin çayırlar, ilkbaharın başlangıcında renklendirerek, sonbaharın sonuna kadar yaşamın renklerini sunuyor. Bu bölgede, yükseklik zonlarına bağlı olarak farklı türlerin hakim olduğu alanlar göze çarpıyor. Alpin flora, dağların yüksek kesimlerinde, çoğunlukla taşlı ve kayalık arazilerde yetişen özel bitkilerden oluşuyor.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri, dağların yüksek kesimlerinde, kayalık alanlarda yaşamlarını sürdürüyor. Göçmen kuşlar, sonbaharın başlangıcında, Hamurpet Dağı'nı ziyaret ediyor ve buradaki zengin kaynaklardan yararlanıyor. Bu ekosistemin korunması, hem bölgenin hem de ülkenin biyolojik çeşitliliğinin sürdürülmesi için büyük önem taşıyor.
 

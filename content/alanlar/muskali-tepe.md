@@ -28,7 +28,7 @@ wikidata_id: "Q31387340"
 
 # Muskali Tepe
 
-Muskali Tepe, Samsun'un eşsiz doğal güzelliklerinden biridir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alanın üzerinde yükselmektedir. Ziyaretçiler, bu tepeye çıktıklarında, Karadeniz Bölgesi'nin muhteşem manzarasını izleme fırsatı bulurlar. Muskali Tepe, hem doğa severler hem de fotoğraf meraklıları için bir cennet gibidir. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkündür.
+Muskali Tepe, Samsun'un eşsiz doğal güzelliklerinden biridir. Ziyaretçiler, bu tepeye çıktıklarında, Karadeniz Bölgesi'nin muhteşem manzarasını izleme fırsatı bulurlar. Muskali Tepe, hem doğa severler hem de fotoğraf meraklıları için bir cennet gibidir. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkündür.
 
 ## Tarihçe
 

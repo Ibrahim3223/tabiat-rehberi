@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Zülfo Türbesi"
 date: "2026-01-10T06:18:31.059Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390600"
 
 # Şeyh Zülfo Türbesi
 
-Şeyh Zülfo Türbesi, Adana'nın Seyhan ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sağlıyor. Şeyh Zülfo Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekiyor. Geçmişten günümüze ulaşan bu tarihi mekan, ziyaretçilere farklı bir deneyim sunuyor.
+Şeyh Zülfo Türbesi, Adana'nın Seyhan ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunuyor. Şeyh Zülfo Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekiyor. Geçmişten günümüze ulaşan bu tarihi mekan, ziyaretçilere farklı bir deneyim sunuyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Kılavuz Dede Türbesi"
 date: "2026-01-10T05:14:17.747Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391587"
 
 # Kılavuz Dede Türbesi
 
-Kılavuz Dede Türbesi, Marmara Bölgesi'nin tatil cennetlerinden biri olan Sındırgı'da yer alır. Bu özel alan, 140 hektarlık büyüklüğüyle yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunar. Sındırgı'nın merkezine yakınlığı ve ulaşılabilir olmasıyla da dikkat çeker. Kılavuz Dede Türbesi, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini bekliyor. Bu özel mekan, Sındırgı'nın önemli turizm noktalarından biri olarak bilinir.
+Kılavuz Dede Türbesi, Marmara Bölgesi'nin tatil cennetlerinden biri olan Sındırgı'da yer alır. Sındırgı'nın merkezine yakınlığı ve ulaşılabilir olmasıyla da dikkat çeker. Kılavuz Dede Türbesi, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini bekliyor. Bu özel mekan, Sındırgı'nın önemli turizm noktalarından biri olarak bilinir.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Kılavuz Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Kılavuz Dede Türbesi, Marmara Bölgesi'nin Sındırgı ilçesinde yer alır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. İlçe, Marmara Denizi'ne yakınlığıyla dikkat çeker. Kılavuz Dede Türbesi'nin bulunduğu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölgenin coğrafyası, genellikle-flat arazilerden oluşur. İklim ise, Marmara Bölgesi'nin genel iklimine benzer şekilde ılımandır. Kılavuz Dede Türbesi, Sındırgı'nın merkezine yaklaşık olarak 10 kilometre uzaklıktadır. Bu bölge, yeşilin ve mavinin bir arada olduğu güzelliği ziyaretçilerine sunar. Kılavuz Dede Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu özel bölge, hem doğal güzelliği hem de coğrafi konumuyla dikkat çeker.
+Kılavuz Dede Türbesi, Marmara Bölgesi'nin Sındırgı ilçesinde yer alır. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunar. İlçe, Marmara Denizi'ne yakınlığıyla dikkat çeker. Bu bölgenin coğrafyası, genellikle-flat arazilerden oluşur. İklim ise, Marmara Bölgesi'nin genel iklimine benzer şekilde ılımandır. Kılavuz Dede Türbesi, Sındırgı'nın merkezine yaklaşık olarak 10 kilometre uzaklıktadır. Bu bölge, yeşilin ve mavinin bir arada olduğu güzelliği ziyaretçilerine sunar. Kılavuz Dede Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu özel bölge, hem doğal güzelliği hem de coğrafi konumuyla dikkat çeker.
 
 ## Flora ve Fauna
 
-Kılavuz Dede Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu özel alan, mevsimsel değişimlere göre farklı güzelliğini ziyaretçilerine sunar. İlkbahar ve yaz aylarında, bölgeye özgü bitki türleri ile çevrili olan Kılavuz Dede Türbesi, güzelliğini tam anlamıyla gösterir. Bölgenin fauna açısından zengin olması, birçok canlı türünün burada yaşamasına olanak sağlar. Kılavuz Dede Türbesi, hem flora hem de fauna açısından zengin bir bölge olarak bilinir. Bu özel mekan, ziyaretçilerine doğayla iç içe bir deneyim sunar.
+ Bu özel alan, mevsimsel değişimlere göre farklı güzelliğini ziyaretçilerine sunar. İlkbahar ve yaz aylarında, bölgeye özgü bitki türleri ile çevrili olan Kılavuz Dede Türbesi, güzelliğini tam anlamıyla gösterir. Bölgenin fauna açısından zengin olması, birçok canlı türünün burada yaşamasına olanak sağlar. Kılavuz Dede Türbesi, hem flora hem de fauna açısından zengin bir bölge olarak bilinir. Bu özel mekan, ziyaretçilerine doğayla iç içe bir deneyim sunar.
 
 ## Ziyaret Bilgileri
 
@@ -52,5 +52,5 @@ Kılavuz Dede Türbesi'ni ziyaret etmek, Sındırgı'nın doğal güzelliklerini
 - Kılavuz Dede Türbesi, Sındırgı'nın önemli turizm noktalarından biridir.
 - Türbenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 - Kılavuz Dede Türbesi, hem doğal güzelliği hem de tarihi önemiyle dikkat çeker.
-- Bu özel alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir.
+
 - Kılavuz Dede Türbesi, Sındırgı'nın merkezine uzun bir mesafe uzaklıktadır.

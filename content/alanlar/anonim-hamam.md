@@ -1,7 +1,7 @@
 ---
 title: "Anonim Hamam"
 date: "2026-01-09T23:21:42.355Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738989"
 
 # Anonim Hamam
 
-Anonim Hamam, Bodrum'un sakin ve gizli kumsallarından biri olarak bilinir. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel plajlarından biridir. Anonim Hamam'ın güzelliği, sadece büyüklüğüyle değil, aynı zamanda çevresi ve tarihi geçmişiyle de dikkat çeker. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yaşadığı bir yer olarak bilinir ve bu reason, Anonim Hamam'ı sadece bir plaj değil, aynı zamanda bir kültür merkezi haline getirir.
+Anonim Hamam, Bodrum'un sakin ve gizli kumsallarından biri olarak bilinir. Anonim Hamam'ın güzelliği, sadece büyüklüğüyle değil, aynı zamanda çevresi ve tarihi geçmişiyle de dikkat çeker. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yaşadığı bir yer olarak bilinir ve bu reason, Anonim Hamam'ı sadece bir plaj değil, aynı zamanda bir kültür merkezi haline getirir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Anonim Hamam'ın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, ç
 
 ## Coğrafya
 
-Anonim Hamam, Bodrum'un en güzel plajlarından biridir ve Ege Bölgesi'nin güzelliğini gösterir. Bu plaj, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve çevresi, çeşitli bitki türleriyle dolu bir ormanla kaplıdır. Anonim Hamam'ın iklimi, Ege Bölgesi'nin karakteristik iklimine benzer ve yaz aylarında sıcak, kış aylarında ılımandır. Anonim Hamam'ın çevresi, çeşitli bitki türleriyle dolu bir ormanla kaplıdır ve bu reason, Anonim Hamam'ı sadece bir plaj değil, aynı zamanda bir doğa harikası haline getirir. Anonim Hamam, Bodrum'un en güzel plajlarından biridir ve Ege Bölgesi'nin güzelliğini gösterir.
+Anonim Hamam, Bodrum'un en güzel plajlarından biridir ve Ege Bölgesi'nin güzelliğini gösterir. Anonim Hamam'ın iklimi, Ege Bölgesi'nin karakteristik iklimine benzer ve yaz aylarında sıcak, kış aylarında ılımandır. Anonim Hamam'ın çevresi, çeşitli bitki türleriyle dolu bir ormanla kaplıdır ve bu reason, Anonim Hamam'ı sadece bir plaj değil, aynı zamanda bir doğa harikası haline getirir. Anonim Hamam, Bodrum'un en güzel plajlarından biridir ve Ege Bölgesi'nin güzelliğini gösterir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Anonim Hamam, Bodrum'un en güzel plajlarından biridir ve Ege Bölgesi'nin güz
 
 ## İlginç Bilgiler
 
-- Anonim Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Anonim Hamam, Ege Bölgesi'nin en güzel plajlarından biridir.
 - Anonim Hamam, yüzyıllar öncesine dayanan bir tarihi geçmişi vardır.
 - Anonim Hamam, çeşitli bitki türleriyle dolu bir ormanla kaplıdır.

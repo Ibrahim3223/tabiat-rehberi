@@ -34,7 +34,7 @@ Oniki Ada'nın gözde noktalarından biri olan Leryos, Güney Ege'de yer alan bi
 
 ## Tarihçe
 
-Güney Ege'nin gizli cenneti Leryos, tarihin sâu sayfalarında gizli bir hazine gibi duruyor. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisinde kalmıştır. Antik Çağ'da, Yunan ve Pers uygarlıklarının ticaret yolları ve yerleşim yerleri, Güney Ege'nin stratejik önemini vurgulamıştır. Roma ve Bizans dönemlerinde de bu bölgenin önemi devam etmiştir.
+Güney Ege'nin gizli cenneti Leryos, tarihin derin sayfalarında gizli bir hazine gibi duruyor. Bu bölge, tarih boyunca çeşitli uygarlıkların etkisinde kalmıştır. Antik Çağ'da, Yunan ve Pers uygarlıklarının ticaret yolları ve yerleşim yerleri, Güney Ege'nin stratejik önemini vurgulamıştır. Roma ve Bizans dönemlerinde de bu bölgenin önemi devam etmiştir.
 
 Doğal güzellikleri ve coğrafi konumuyla, Leryos gibi alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu tür doğal alanlar, insan yerleşimlerinin ve ekonomik faaliyetlerin temelini oluşturmuş, yaylacılık, hayvancılık ve tarım gibi geleneksel faaliyetlere ev sahipliği yapmıştır. Ayrıca, tarihsel ticaret yollarının kesişme noktalarında yer alan bu bölgeler, kültürlerin ve medeniyetlerin buluşma noktaları olarak da görev üstlenmiştir.
 

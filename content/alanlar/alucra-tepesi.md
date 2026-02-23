@@ -29,7 +29,7 @@ wikidata_id: "Q31388001"
 
 # Alucra Tepesi
 
-Alucra Tepesi, Bayburt'un önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayarak, 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Coğrafi konumu itibariyle Karadeniz Bölgesi'nin sunduğu zengin flora ve fauna çeşitliliğini barındıran Alucra Tepesi, ziyaretçilerini doğal güzelliklerle baş başa bırakıyor. Tarihi geçmişi ve coğrafi yapısı ile birlikte, bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir çekim noktası oluşturuyor.
+Alucra Tepesi, Bayburt'un önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Coğrafi konumu itibariyle Karadeniz Bölgesi'nin sunduğu zengin flora ve fauna çeşitliliğini barındıran Alucra Tepesi, ziyaretçilerini doğal güzelliklerle baş başa bırakıyor. Tarihi geçmişi ve coğrafi yapısı ile birlikte, bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir çekim noktası oluşturuyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34829423"
 
 # Çiğirlerkonağı Tepesi
 
-Çiğirlerkonağı Tepesi, Denizli ilinin sınırları içerisinde yer alan, 140 hektarlık büyük bir doğal alan olarak dikkat çekiyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, şehrin merkezine yakın bir konumda bulunuyor. Çiğirlerkonağı Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, doğayla iç içe bir ortam sunuyor. Bu tepe, aynı zamanda çevredeki diğer doğal güzelliklere de yakınlığıyla dikkat çekiyor. Bölgenin coğrafi yapısı ve iklimi, burada çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Çiğirlerkonağı Tepesi, şehre gelenlerin ve yerlilerin keyifli anlar geçirebileceği bir mekan olarak biliniyor.
+Çiğirlerkonağı Tepesi, Denizli ilinin sınırları içerisinde yer alan, 140 hektarlık büyük bir doğal alan olarak dikkat çekiyor. Çiğirlerkonağı Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, doğayla iç içe bir ortam sunuyor. Bu tepe, aynı zamanda çevredeki diğer doğal güzelliklere de yakınlığıyla dikkat çekiyor. Bölgenin coğrafi yapısı ve iklimi, burada çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Çiğirlerkonağı Tepesi, şehre gelenlerin ve yerlilerin keyifli anlar geçirebileceği bir mekan olarak biliniyor.
 
 ## Tarihçe
 

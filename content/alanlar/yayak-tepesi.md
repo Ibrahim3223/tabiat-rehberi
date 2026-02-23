@@ -28,7 +28,7 @@ wikidata_id: "Q31503014"
 
 # Yayak Tepesi
 
-Yayak Tepesi, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepenin etrafında yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Yayak Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini bekliyor. Tepenin üzerinde yer alan manzara, çevredeki köyleri ve şehirleri panoramik olarak görmeye olanak sağlıyor. Yayak Tepesi, aynı zamanda bölgede yer alan önemli bir turizm merkezi olarak biliniyor.
+Yayak Tepesi, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Yayak Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini bekliyor. Tepenin üzerinde yer alan manzara, çevredeki köyleri ve şehirleri panoramik olarak görmeye olanak sağlıyor. Yayak Tepesi, aynı zamanda bölgede yer alan önemli bir turizm merkezi olarak biliniyor.
 
 ## Tarihçe
 

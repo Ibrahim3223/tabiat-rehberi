@@ -1,7 +1,7 @@
 ---
 title: "Hüsamettin Gazi Bey Türbesi"
 date: "2026-01-10T06:03:57.438Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390469"
 
 # Hüsamettin Gazi Bey Türbesi
 
-Hüsamettin Gazi Bey Türbesi, Denizli'nin Baklan ilçesinde yer alan bir tarihi ve kültürel mekân. Bu türbe, 140 hektarlık bir alan içerisinde yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin çevresinde, çeşitli ağaçlar ve bitkiler bulunur. Burada, tarihi ve kültürel değerleri keşfetme mümkündür. Türbenin hikâyesi, tarihi geçmişi ve kültürel önemi, ziyaretçileri buraya çekmektedir.
+Hüsamettin Gazi Bey Türbesi, Denizli'nin Baklan ilçesinde yer alan bir tarihi ve kültürel mekân. Türbenin çevresinde, çeşitli ağaçlar ve bitkiler bulunur. Burada, tarihi ve kültürel değerleri keşfetme mümkündür. Türbenin hikâyesi, tarihi geçmişi ve kültürel önemi, ziyaretçileri buraya çekmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hüsamettin Gazi Bey Türbesi, yüzyıllar boyunca önemli bir kültürel ve tar
 
 ## Coğrafya
 
-Hüsamettin Gazi Bey Türbesi, Denizli'nin Baklan ilçesinde yer alır ve Ege Bölgesi'nin önemli bir kültürel ve tarihi merkezi olarak hizmet verir. Bu türbe, 140 hektarlık bir alan içerisinde yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin çevresinde, çeşitli ağaçlar ve bitkiler bulunur. Burada, iklim ve coğrafi koşullar, ziyaretçilere uygun bir ortam sunar. Türbenin konumu, ziyaretçilerin kolayca ulaşabileceği bir noktadır. Burada, çeşitli coğrafi özellikler ve doğal güzellikler bulunur.
+Hüsamettin Gazi Bey Türbesi, Denizli'nin Baklan ilçesinde yer alır ve Ege Bölgesi'nin önemli bir kültürel ve tarihi merkezi olarak hizmet verir. Türbenin çevresinde, çeşitli ağaçlar ve bitkiler bulunur. Burada, iklim ve coğrafi koşullar, ziyaretçilere uygun bir ortam sunar. Türbenin konumu, ziyaretçilerin kolayca ulaşabileceği bir noktadır. Burada, çeşitli coğrafi özellikler ve doğal güzellikler bulunur.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386166"
 
 # Barak Dağı
 
-Barak Dağı, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak Gaziantep ilinde yer alır. Bu dağ, yaklaşık 140 hektarlık alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alan sunar. Barak Dağı, bölgenin jeolojik oluşumunu ve coğrafi yapısını anlamak için önemli bir noktadır. Dağın eteklerinde ve yakın çevresinde kurulmuş olan köyler ve kasabalar, bu coğrafi oluşumun insan yaşamı üzerindeki etkisini gösterir.
+Barak Dağı, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olarak Gaziantep ilinde yer alır. Barak Dağı, bölgenin jeolojik oluşumunu ve coğrafi yapısını anlamak için önemli bir noktadır. Dağın eteklerinde ve yakın çevresinde kurulmuş olan köyler ve kasabalar, bu coğrafi oluşumun insan yaşamı üzerindeki etkisini gösterir.
 
 ## Tarihçe
 

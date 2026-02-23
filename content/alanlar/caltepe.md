@@ -52,7 +52,7 @@ Mevsimsel özellikler açısından bakıldığında, Çaltepe'nin iklim karakter
 
 ## Flora ve Fauna
 
-Çaltepe Dağı, step bitki örtüsünün hakim olduğu bir bölge olup, bozkır ve kuraklığa adapte türlerle dolu bir dağ ekosistemi sunar. 
+Çaltepe Dağı, step bitki örtüsünün hakim olduğu bir bölge olup, bozkır ve kuraklığa adapte türlerle dolu bir dağ ekosistemi sunar.
 
 1. **Bitki Örtüsü**: İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanır. Step bitkileri, kuraklığa dayanıklı türler, yükseklik zonlarına bağlı olarak farklılık gösterir. Alpin flora, dağların yüksek kesimlerinde görülür.
 

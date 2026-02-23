@@ -28,7 +28,7 @@ wikidata_id: "Q31388618"
 
 # Vişneli Tepe
 
-Vişneli Tepe, Erzurum'un merkezinde yer alan ve şehrin panoramik manzarasını sunan bir tepedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreyi kuşatan dağlarla birlikte eşsiz bir doğal güzelliğe sahiptir. Tepenin eteklerinde yerleşim yerleri bulunur ve tepe itself, hem yerel halk hem de ziyaretçiler için popüler bir gezi noktasıdır. Vişneli Tepe, özellikle güneşin batış saatlerinde, Erzurum'un tarihi ve kültürel zenginliklerini yansıtan manzaralar sunar.
+Vişneli Tepe, Erzurum'un merkezinde yer alan ve şehrin panoramik manzarasını sunan bir tepedir. Tepenin eteklerinde yerleşim yerleri bulunur ve tepe itself, hem yerel halk hem de ziyaretçiler için popüler bir gezi noktasıdır. Vişneli Tepe, özellikle güneşin batış saatlerinde, Erzurum'un tarihi ve kültürel zenginliklerini yansıtan manzaralar sunar.
 
 ## Tarihçe
 

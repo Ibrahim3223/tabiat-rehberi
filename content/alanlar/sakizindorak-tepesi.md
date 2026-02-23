@@ -28,7 +28,7 @@ wikidata_id: "Q31581064"
 
 # Sakızındorak Tepesi
 
-Sakızındorak Tepesi, Çorum'un merkezinde yer alan ve Karadeniz Bölgesi'nin doğal güzelliklerini sunan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, ziyaretçilerine şehrin panoramik manzarasını sunuyor. Sakızındorak Tepesi, özellikle doğa severler için ideal bir destinasyon. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin etrafında, yürüyüş parkurları ve piknik alanları bulunuyor. Sakızındorak Tepesi, Çorum'un önemli turizm noktalarından biri.
+Sakızındorak Tepesi, Çorum'un merkezinde yer alan ve Karadeniz Bölgesi'nin doğal güzelliklerini sunan bir tepe. Bu tepe, ziyaretçilerine şehrin panoramik manzarasını sunuyor. Sakızındorak Tepesi, özellikle doğa severler için ideal bir destinasyon. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin etrafında, yürüyüş parkurları ve piknik alanları bulunuyor. Sakızındorak Tepesi, Çorum'un önemli turizm noktalarından biri.
 
 ## Tarihçe
 

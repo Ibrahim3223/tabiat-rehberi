@@ -50,11 +50,11 @@ Mevsimsel değişimler açısından Güllü Dağı, Doğu Anadolu Bölgesi'nin k
 
 ## Flora ve Fauna
 
-Güllü Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. İlkbaharda, alpin çayırlar yaban çiçekleriyle renkleniyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor ve çeşitli yükseklik zonlarına ev sahipliği yapıyor. 
+Güllü Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. İlkbaharda, alpin çayırlar yaban çiçekleriyle renkleniyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor ve çeşitli yükseklik zonlarına ev sahipliği yapıyor.
 
-Bitki örtüsünün hakim türleri, çam ve meşe ağaçlarıdır. Mevsimsel değişimlerle birlikte, sonbaharda ağaçlar sararıp kırmızıya dönüyor, ilkbaharda ise çiçekler açıyor. Dağın yüksek kesimlerinde, endemik türler ve alpin flora çeşitliliği dikkat çekiyor. 
+Bitki örtüsünün hakim türleri, çam ve meşe ağaçlarıdır. Mevsimsel değişimlerle birlikte, sonbaharda ağaçlar sararıp kırmızıya dönüyor, ilkbaharda ise çiçekler açıyor. Dağın yüksek kesimlerinde, endemik türler ve alpin flora çeşitliliği dikkat çekiyor.
 
-Yaban hayatı da zenginlik gösteriyor. Memeliler olarak, dağ keçileri ve yaban domuzları, dağların zorlu koşullarına uyum sağlamış canlılar. Kuşlar, göçme ve yerli türler olarak çeşitlilik gösteriyor. Sürüngenler de, kaya ve çakıl alanlarda yaşamlarını sürdürüyor. 
+Yaban hayatı da zenginlik gösteriyor. Memeliler olarak, dağ keçileri ve yaban domuzları, dağların zorlu koşullarına uyum sağlamış canlılar. Kuşlar, göçme ve yerli türler olarak çeşitlilik gösteriyor. Sürüngenler de, kaya ve çakıl alanlarda yaşamlarını sürdürüyor.
 
 Ekolojik değerini koruma altına almak, bu bölgenin geleceğiçin hayati önem taşıyor. Doğal yaşam alanlarını koruyarak, Güllü Dağı'nın benzersiz ekosistemini gelecek nesiller için saklayabiliriz.
 

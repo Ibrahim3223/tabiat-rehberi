@@ -1,7 +1,7 @@
 ---
 title: "Rhodiapolis Roma Dönemi Anıt Mezarı"
 date: "2026-01-10T03:38:40.572Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728090"
 
 # Rhodiapolis Roma Dönemi Anıt Mezarı
 
-Rhodiapolis Roma Dönemi Anıt Mezarı, Kumluca ilçesi sınırları içerisinde yer alan ve tarihi geçmişi ile dikkat çeken önemli bir arkeolojik alandır. Bu bölge, Antalya'nın zengin tarihi mirasının önemli bir parçasını oluşturur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş bir coğrafyaya yayılmıştır. Doğal güzellikleri ve tarihi yapılarıyla ziyaretçilerini büyüleyen bu mekan, hem doğa hem de tarih severler için ideal bir destinasyondur.
+Rhodiapolis Roma Dönemi Anıt Mezarı, Kumluca ilçesi sınırları içerisinde yer alan ve tarihi geçmişi ile dikkat çeken önemli bir arkeolojik alandır. Bu bölge, Antalya'nın zengin tarihi mirasının önemli bir parçasını oluşturur. Doğal güzellikleri ve tarihi yapılarıyla ziyaretçilerini büyüleyen bu mekan, hem doğa hem de tarih severler için ideal bir destinasyondur.
 
 ## Tarihçe
 

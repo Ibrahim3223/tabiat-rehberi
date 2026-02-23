@@ -29,7 +29,7 @@ wikidata_id: "Q31386248"
 
 # Zeytin Tepe
 
-Zeytin Tepe, Hatay ilinin güzide bir noktası olarak karşımıza çıkıyor. 140 hektarlık bu geniş alan, ziyaretçilerini doğanın kucağına davet ediyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliği taşıyor. Zeytin Tepe, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
+Zeytin Tepe, Hatay ilinin güzide bir noktası olarak karşımıza çıkıyor. 140 hektarlık bu geniş alan, ziyaretçilerini doğanın kucağına davet ediyor. Zeytin Tepe, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
 
 ## Tarihçe
 

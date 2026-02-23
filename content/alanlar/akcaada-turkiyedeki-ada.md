@@ -50,11 +50,11 @@ Doğal güzelliği ile ön plana çıkan Akçaada, bir şehir bloğu büyüklü�
 
 ## Flora ve Fauna
 
-Akçaada, Balıkesir'in kıyılarında bulunan bir ada, geçiş ikliminin karakteristik özelliklerini taşır. Bu ada ekosistemi, izole popülasyonlar, deniz kuşları ve kıyı bitkileri ile zengin bir flora ve fauna sunar. 
+Akçaada, Balıkesir'in kıyılarında bulunan bir ada, geçiş ikliminin karakteristik özelliklerini taşır. Bu ada ekosistemi, izole popülasyonlar, deniz kuşları ve kıyı bitkileri ile zengin bir flora ve fauna sunar.
 
-Bitki Örtüsü bölümünde, ada özellikle ilkbahar aylarında çiçek açan bitkilerle kaplanır. Kıyı şeridinde tuzcul bitkiler bulunurken, iç kesimlerde karma ormanlar hakimdir. 
+Bitki Örtüsü bölümünde, ada özellikle ilkbahar aylarında çiçek açan bitkilerle kaplanır. Kıyı şeridinde tuzcul bitkiler bulunurken, iç kesimlerde karma ormanlar hakimdir.
 
-Yaban Hayatı açısından, ada özellikle göçmen kuşların önemli bir durağıdır. Sonbahar aylarında, binlerce kuş bu ada üzerinde konaklar. Ayrıca, ada memeliler ve sürüngenler için de bir yaşam alanı sunar. 
+Yaban Hayatı açısından, ada özellikle göçmen kuşların önemli bir durağıdır. Sonbahar aylarında, binlerce kuş bu ada üzerinde konaklar. Ayrıca, ada memeliler ve sürüngenler için de bir yaşam alanı sunar.
 
 Ekolojik Değer açısından, Akçaada'nın korunması büyük önem taşır. Bu ada, bölgedeki ekosistemin dengesini korur ve biyolojik çeşitliliğin korunmasına katkı sağlar.
 

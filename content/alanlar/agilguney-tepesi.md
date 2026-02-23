@@ -28,7 +28,7 @@ wikidata_id: "Q32131444"
 
 # Ağılgüney Tepesi
 
-Ağılgüney Tepesi, Sivas ilinin İç Anadolu Bölgesi'nde bulunan bir tepe olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplı. Bu tepe, hem doğa severler hem de macera arayışında olanlar için bir çekim noktası. Ağılgüney Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Konum itibarıyla Sivas şehir merkezine yakın olmasının yanı sıra, etrafındaki doğal güzellikler ile de dikkat çekiyor. Bu tepe, bölgenin coğrafi özelliklerini ve doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Ağılgüney Tepesi, Sivas ilinin İç Anadolu Bölgesi'nde bulunan bir tepe olarak dikkat çekiyor. Bu tepe, hem doğa severler hem de macera arayışında olanlar için bir çekim noktası. Ağılgüney Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Konum itibarıyla Sivas şehir merkezine yakın olmasının yanı sıra, etrafındaki doğal güzellikler ile de dikkat çekiyor. Bu tepe, bölgenin coğrafi özelliklerini ve doğal zenginliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

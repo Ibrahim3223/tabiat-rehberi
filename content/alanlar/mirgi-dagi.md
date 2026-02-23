@@ -54,7 +54,7 @@ Mirgi Dağı, Şırnak'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim
 
 Yaban hayatı da bu çeşitliliği yansıtır. Memeliler, dağların kayalık alanlarında yaşarken, kuşlar göç mevsimlerinde dağları ziyaret eder. Sürüngenler ise, step ve ova ekolojisinin karakteristik türleri olarak, dağların daha alçak kesimlerinde bulunur. Bu canlılar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle kompleks bir ilişki ağı oluşturur.
 
-Mirgi Dağı'nın ekolojik değeri, bu çeşitlili ve komplekslikte yatmaktadır. Bölgenin yarı kurak iklimi, flora ve fauna için özel bir uyum gerektirir. Bu nedenle, Mirgi Dağı, bölgenin ekolojik dengesini korumak açısından önemli bir role sahiptir.
+Mirgi Dağı'nın ekolojik değeri, bu çeşitlili ve komplekslikte yatmaktadır. Bölgenin yarı kurak iklimi, flora ve fauna için özel bir uyum gerektirir.
 
 ## Ziyaret Bilgileri
 

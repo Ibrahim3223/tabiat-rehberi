@@ -1,7 +1,7 @@
 ---
 title: "Patara Liman Hamamı"
 date: "2026-01-09T22:36:36.280Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kaş ilçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738699"
 
 # Patara Liman Hamamı
 
-Patara Liman Hamamı, Antalya'nın Kaş ilçesinde, Akdeniz kıyısında yer alan bir doğal güzelli ve tarihi alan. 140 hektarlık geniş bir alana yayılmış olan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu özel nokta, hem tarihi hem de doğal güzelliklerin birleştiği bir yer olarak dikkat çekiyor. Patara Liman Hamamı, ziyaretçilerine hem tarihi keşif hem de doğa ile iç içe bir deneyim sunuyor.
+Patara Liman Hamamı, Antalya'nın Kaş ilçesinde, Akdeniz kıyısında yer alan bir doğal güzelli ve tarihi alan. Bu özel nokta, hem tarihi hem de doğal güzelliklerin birleştiği bir yer olarak dikkat çekiyor. Patara Liman Hamamı, ziyaretçilerine hem tarihi keşif hem de doğa ile iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

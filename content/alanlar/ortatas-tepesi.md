@@ -28,7 +28,7 @@ wikidata_id: "Q31388797"
 
 # Ortataş Tepesi
 
-Marmara Bölgesi'nin en dikkat çekici noktalarından biri olan Ortataş Tepesi, Edirne'nin güzide bir bölgesinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Ortataş Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki uyum, ziyaretçileri büyülüyor. Edirne'nin tarihi ve kültürel zenginliklerinin yanı sıra, Ortataş Tepesi de bölgenin önemli bir turizm merkezlerinden biri olarak kabul ediliyor.
+Marmara Bölgesi'nin en dikkat çekici noktalarından biri olan Ortataş Tepesi, Edirne'nin güzide bir bölgesinde yer alır. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Ortataş Tepesi, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki uyum, ziyaretçileri büyülüyor. Edirne'nin tarihi ve kültürel zenginliklerinin yanı sıra, Ortataş Tepesi de bölgenin önemli bir turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

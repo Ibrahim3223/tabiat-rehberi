@@ -1,7 +1,7 @@
 ---
 title: "Kara Aslan Türbesi"
 date: "2026-01-10T06:24:04.165Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390718"
 
 # Kara Aslan Türbesi
 
-Kara Aslan Türbesi, Bolu'nun Mudurnu ilçesinde yer alan bir doğa harikası ve tarihi mekan. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşillik bir alan olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Kara Aslan Türbesi, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini büyülüyor. Bu mekan, Karadeniz Bölgesi'nin saklı cennetlerinden biri olarak biliniyor.
+Kara Aslan Türbesi, Bolu'nun Mudurnu ilçesinde yer alan bir doğa harikası ve tarihi mekan. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşillik bir alan olarak karşımıza çıkıyor. Kara Aslan Türbesi, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini büyülüyor. Bu mekan, Karadeniz Bölgesi'nin saklı cennetlerinden biri olarak biliniyor.
 
 ## Tarihçe
 

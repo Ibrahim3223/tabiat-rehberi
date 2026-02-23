@@ -32,11 +32,11 @@ Erzurum'un büyüleyici doğası, ziyaretçilerini Hohorbod Dağı'na çıkarıy
 
 ## Tarihçe
 
-Erzurum bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, histórik olarak çeşitli uygarlıkların yaşamış olduğu bir coğrafyadır. Doğu Anadolu Bölgesi'nin en önemli merkezlerinden biri olan Erzurum, tarihsel süreçte Urartular, Persler, Romalılar ve Selçuklular gibi medeniyetlerin izlerini taşır.
+Erzurum bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, tarihi olarak çeşitli uygarlıkların yaşamış olduğu bir coğrafyadır. Doğu Anadolu Bölgesi'nin en önemli merkezlerinden biri olan Erzurum, tarihsel süreçte Urartular, Persler, Romalılar ve Selçuklular gibi medeniyetlerin izlerini taşır.
 
-Doğal güzellikleri ve stratejik konumuyla dikkat çeken bu bölge, histórik ticaret yollarının da kesişme noktası olmuştur. İnsanlar, yüzyıllar boyunca bu coğrafyada yaylacılık, hayvancılık ve ticaretle uğraşmış, doğal alanları yaşamın bir parçası olarak değerlendirmişlerdir. Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahiptir. İnsanların doğayla uyum içinde yaşadığı, kültürel mirasın bir parçası olan bu alanlar, aynı zamanda biyolojik çeşitliliğin korunmasına da katkıda bulunurlar.
+Doğal güzellikleri ve stratejik konumuyla dikkat çeken bu bölge, tarihi ticaret yollarının da kesişme noktası olmuştur. İnsanlar, yüzyıllar boyunca bu coğrafyada yaylacılık, hayvancılık ve ticaretle uğraşmış, doğal alanları yaşamın bir parçası olarak değerlendirmişlerdir. Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahiptir. İnsanların doğayla uyum içinde yaşadığı, kültürel mirasın bir parçası olan bu alanlar, aynı zamanda biyolojik çeşitliliğin korunmasına da katkıda bulunurlar.
 
-Hohorbod Dağı, bu tarihsel ve kültürel bağlam içinde yer alır. Bu dağ, bölgenin doğal güzelliğini ve histórik önemini simgeler. İnsanların doğal alanlarla ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşır. Bu nedenle, Hohorbod Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır.
+Hohorbod Dağı, bu tarihsel ve kültürel bağlam içinde yer alır. Bu dağ, bölgenin doğal güzelliğini ve tarihi önemini simgeler. İnsanların doğal alanlarla ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşır. Bu nedenle, Hohorbod Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır.
 
 ## Coğrafya
 

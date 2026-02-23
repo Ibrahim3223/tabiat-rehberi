@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Süleyman Türbesi"
 date: "2026-01-10T06:51:47.788Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390746"
 
 # Seyyid Süleyman Türbesi
 
-Seyyid Süleyman Türbesi, Ayvacık'ta denize yakın bir konumda yer alan ve tarihi değer taşıyan bir yapıdır. 140 hektarlık bir alanda bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi ile dikkat çeken bu türbe, ziyaretçilerini geçmişe götürmeyi başarır. Türbenin etrafında yer alan doğal güzellikler, ziyaretçilerin doğa ile iç içe bir deneyim yaşamasını sağlar. Bu nedenle, hem tarihi hem de doğal güzelliği ile Seyyid Süleyman Türbesi, ziyaretçilerini bekleyen özel bir destinasyondur.
+Seyyid Süleyman Türbesi, Ayvacık'ta denize yakın bir konumda yer alan ve tarihi değer taşıyan bir yapıdır. Tarihi geçmişi ile dikkat çeken bu türbe, ziyaretçilerini geçmişe götürmeyi başarır. Türbenin etrafında yer alan doğal güzellikler, ziyaretçilerin doğa ile iç içe bir deneyim yaşamasını sağlar. Bu nedenle, hem tarihi hem de doğal güzelliği ile Seyyid Süleyman Türbesi, ziyaretçilerini bekleyen özel bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Seyyid Süleyman Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. 
 
 ## Coğrafya
 
-Seyyid Süleyman Türbesi, Marmara Bölgesi'nde yer alan Ayvacık ilçesinde bulunmaktadır. Bu ilçe, Çanakkale ilinin bir parçasıdır ve doğal güzellikleri ile dikkat çeker. Türbenin bulunduğu alan, denize yakınlığı ile birlikte ziyaretçilere eşsiz bir manzara sunar. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim farklı deneyimler sunar. Seyyid Süleyman Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak tanır. Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilere geniş bir alan sunar.
+Seyyid Süleyman Türbesi, Marmara Bölgesi'nde yer alan Ayvacık ilçesinde bulunmaktadır. Bu ilçe, Çanakkale ilinin bir parçasıdır ve doğal güzellikleri ile dikkat çeker. Türbenin bulunduğu alan, denize yakınlığı ile birlikte ziyaretçilere eşsiz bir manzara sunar. Çevre, çeşitli bitki türleri ve zengin fauna ile kaplıdır. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşır ve ziyaretçilere dört mevsim farklı deneyimler sunar. Seyyid Süleyman Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Seyyid Süleyman Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikle
 ## İlginç Bilgiler
 
 - Seyyid Süleyman Türbesi, yüzyıllar öncesine dayanan bir tarihi geçmişe sahiptir.
-- Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur.
 - Bahar aylarında, flora zenginleşir ve çevreyi renklendirir.
 - Seyyid Süleyman Türbesi, Çanakkale'nin önemli ziyaret noktalarından biridir.

@@ -50,7 +50,7 @@ Bölgenin coğrafi yapısı, komşu alanlar ve su kaynakları ile bağlantılıd
 
 ## Flora ve Fauna
 
-Mazı Dağı, Mardin'in yarı kurak ikliminin hakim olduğu bir bölge olarak, benzersiz bir dağ ekosisteminin ev sahipliğini yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Mazı Dağı, Mardin'in yarı kurak ikliminin hakim olduğu bir bölge olarak, benzersiz bir dağ ekosisteminin ev sahipliğini yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünde, ilkbahar aylarında çiçeklerin renk cümbüşü hakim olurken, yaz aylarında otsu bitkiler ve çalılar baskın çıkıyor. Sonbaharda ise dağ yamaçları, göçmen kuşların konaklama alanlarına dönüşüyor. Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çekiyor.
 

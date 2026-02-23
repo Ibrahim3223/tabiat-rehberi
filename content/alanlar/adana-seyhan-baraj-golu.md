@@ -1,7 +1,7 @@
 ---
 title: "Adana-Seyhan Baraj Golu"
 date: "2026-01-09T19:54:30.025Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Adana"
@@ -23,7 +23,7 @@ wikidata_id: "Q108228365"
 
 # Adana-Seyhan Baraj Golu
 
-Adana-Seyhan Baraj Golu, Akdeniz Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte yaklaşık 400 hektarlık bir alanı kaplar. Bu büyük alan, ziyaretçilerine doğanın güzelliğini ve sakinliğini keşfetme fırsatı sunar. Baraj gölü, çevresindeki dağlar ve ormanlarla birlikte bir bütün olarak düşünülürse, gerçekten de görülmeye değer bir yerdir. Gölün suyu, çevredeki tarlaları sulamak için kullanılır ve aynı zamanda balıkçılık için de elverişlidir.
+Adana-Seyhan Baraj Golu, Akdeniz Bölgesi'nin kalbinde yer alan bir milli parktır. Bu büyük alan, ziyaretçilerine doğanın güzelliğini ve sakinliğini keşfetme fırsatı sunar. Baraj gölü, çevresindeki dağlar ve ormanlarla birlikte bir bütün olarak düşünülürse, gerçekten de görülmeye değer bir yerdir. Gölün suyu, çevredeki tarlaları sulamak için kullanılır ve aynı zamanda balıkçılık için de elverişlidir.
 
 ## Tarihçe
 

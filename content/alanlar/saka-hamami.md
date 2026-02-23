@@ -1,7 +1,7 @@
 ---
 title: "Saka Hamamı"
 date: "2026-01-09T23:23:35.140Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738992"
 
 # Saka Hamamı
 
-Saka Hamamı, Antakya'nın güzide noktalarından biri olarak karşımıza çıkıyor. Yaklaşık 140 hektarlık bir alan üzerine kurulu olan bu doğal güzellik, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Saka Hamamı, ziyaretçilerini geniş ve yeşillik bir alanda ağırlıyor. Doğal güzelliği ve tarihi geçmişiyle birlikte, Saka Hamamı, Hatay'ın önemli turizm noktalarından biri olarak kabul ediliyor.
+Saka Hamamı, Antakya'nın güzide noktalarından biri olarak karşımıza çıkıyor. Saka Hamamı, ziyaretçilerini geniş ve yeşillik bir alanda ağırlıyor. Doğal güzelliği ve tarihi geçmişiyle birlikte, Saka Hamamı, Hatay'ın önemli turizm noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

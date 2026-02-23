@@ -1,7 +1,7 @@
 ---
 title: "Mahmut Bedrettin Türbesi"
 date: "2026-01-10T07:50:00.641Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -21,7 +21,7 @@ aktiviteler: ["Türbe gezisi","Yeşil alan gezintisi","Historik yapı inceleme",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Mahmut Bedrettin Türbesi","caption":"Mahmut Bedrettin Türbesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahmut%20Bedrettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391089","tip":"genel"}]
-description: "İstanbul'un histórik semtlerinden biri olan Fatih'te yer alan Mahmut Bedrettin Türbesi, şehrin zengin tarihsel mirasını yansıtan önemli bir eser."
+description: "İstanbul'un tarihi semtlerinden biri olan Fatih'te yer alan Mahmut Bedrettin Türbesi, şehrin zengin tarihsel mirasını yansıtan önemli bir eser."
 keywords: ["Mahmut Bedrettin Türbesi","Fatih","İstanbul","tarihi eser","türbe","Marmara Bölgesi","kültürel miras","İstanbul'un tarihi","Fatih semti"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131391089"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391089"
 
 # Mahmut Bedrettin Türbesi
 
-Mahmut Bedrettin Türbesi, İstanbul'un histórik semtlerinden biri olan Fatih'te yer alan ve şehrin zengin tarihsel mirasını yansıtan önemli bir eserdir. Bu tarihi türbe, yaklaşık 140 hektarlık bir alanda yer alan Fatih semtinin kalbinde bulunmaktadır. Türbenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Mahmut Bedrettin Türbesi, İstanbul'un tarihsel dokusuna önemli bir katkı sağlayan yapılardan biridir ve ziyaretçilerini şehrin geçmişine götürmektedir. Türbenin mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşımaktadır. Ziyaretçiler, türbenin iç ve dış mimarisini inceleyerek Osmanlı dönemi sanatının güzelliğini keşfedebilirler.
+Mahmut Bedrettin Türbesi, İstanbul'un tarihi semtlerinden biri olan Fatih'te yer alan ve şehrin zengin tarihsel mirasını yansıtan önemli bir eserdir. Bu tarihi türbe, yaklaşık 140 hektarlık bir alanda yer alan Fatih semtinin kalbinde bulunmaktadır. Mahmut Bedrettin Türbesi, İstanbul'un tarihsel dokusuna önemli bir katkı sağlayan yapılardan biridir ve ziyaretçilerini şehrin geçmişine götürmektedir. Türbenin mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşımaktadır. Ziyaretçiler, türbenin iç ve dış mimarisini inceleyerek Osmanlı dönemi sanatının güzelliğini keşfedebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mahmut Bedrettin Türbesi, İstanbul'un tarihi geçmişine ışık tutan önemli
 
 ## Coğrafya
 
-Mahmut Bedrettin Türbesi, İstanbul'un Fatih semtinde yer alan bir tarihi yapıdır. Türbe, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir ve çevresinde çeşitli tarihi yapılar bulunmaktadır. Mahmut Bedrettin Türbesi, İstanbul'un coğrafi yapısını şekillendiren önemli bir eserdir. Türbenin mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşır ve şehrin tarihsel dokusuna önemli bir katkı sağlar. Ziyaretçiler, türbenin bulunduğu alanın güzelliğini keşfedebilir ve İstanbul'un coğrafi çeşitliliğini deneyimleyebilirler. Türbenin etrafındaki bölge, histórik yapılar ve yeşil alanlarla çevrilidir ve ziyaretçilere geniş bir tarihi ve kültürel miras sunar.
+Mahmut Bedrettin Türbesi, İstanbul'un Fatih semtinde yer alan bir tarihi yapıdır. Türbe, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde bulunmaktadır. Bu bölge, tarihi ve kültürel açıdan zengin bir geçmişe sahiptir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir ve çevresinde çeşitli tarihi yapılar bulunmaktadır. Mahmut Bedrettin Türbesi, İstanbul'un coğrafi yapısını şekillendiren önemli bir eserdir. Türbenin mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşır ve şehrin tarihsel dokusuna önemli bir katkı sağlar. Ziyaretçiler, türbenin bulunduğu alanın güzelliğini keşfedebilir ve İstanbul'un coğrafi çeşitliliğini deneyimleyebilirler. Türbenin etrafındaki bölge, tarihi yapılar ve yeşil alanlarla çevrilidir ve ziyaretçilere geniş bir tarihi ve kültürel miras sunar.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Mahmut Bedrettin Türbesi, İstanbul'un flora ve faunasını yansıtan önemli b
 
 ## Ziyaret Bilgileri
 
-Mahmut Bedrettin Türbesi, İstanbul'un tarihi ve kültürel mirasını keşfetmek isteyen ziyaretçiler için önemli bir destinasyondur. Ziyaretçiler, türbenin iç ve dış mimarisini inceleyerek Osmanlı dönemi sanatının güzelliğini keşfedebilirler. Türbenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır ve ziyaretçilere geniş bir tarihi ve kültürel miras sunar. Mahmut Bedrettin Türbesi, yılın her döneminde ziyaret edilebilir. Ancak, ilkbahar ve yaz ayları, ziyaretçilerin türbenin güzelliğini ve çevresinin yeşilliğini deneyimlemeleri için en uygun zamandır. Ziyaretçiler, türbenin tarihi atmosferini soluyarak geçmişe bir yolculuk yapabilirler.
+Mahmut Bedrettin Türbesi, İstanbul'un tarihi ve kültürel mirasını keşfetmek isteyen ziyaretçiler için önemli bir destinasyondur. Ziyaretçiler, türbenin iç ve dış mimarisini inceleyerek Osmanlı dönemi sanatının güzelliğini keşfedebilirler. Mahmut Bedrettin Türbesi, yılın her döneminde ziyaret edilebilir. Ancak, ilkbahar ve yaz ayları, ziyaretçilerin türbenin güzelliğini ve çevresinin yeşilliğini deneyimlemeleri için en uygun zamandır. Ziyaretçiler, türbenin tarihi atmosferini soluyarak geçmişe bir yolculuk yapabilirler.
 
 ## İlginç Bilgiler
 
@@ -53,4 +53,4 @@ Mahmut Bedrettin Türbesi, İstanbul'un tarihi ve kültürel mirasını keşfetm
 - Türbe, Osmanlı döneminde inşa edilmiştir.
 - Türbenin mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşır.
 - Mahmut Bedrettin Türbesi, İstanbul'un tarihsel dokusuna önemli bir katkı sağlar.
-- Türbenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar.
+

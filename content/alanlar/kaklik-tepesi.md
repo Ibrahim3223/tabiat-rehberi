@@ -28,7 +28,7 @@ wikidata_id: "Q31388142"
 
 # Kaklık Tepesi
 
-Kaklık Tepesi, Denizli'nin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin en güzel noktalarından birinde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölge, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini cezbeder. Kaklık Tepesi, yüksek bir konumda bulunur ve bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiler. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
+Kaklık Tepesi, Denizli'nin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin en güzel noktalarından birinde yer alır. Bu bölge, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini cezbeder. Kaklık Tepesi, yüksek bir konumda bulunur ve bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkiler. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 

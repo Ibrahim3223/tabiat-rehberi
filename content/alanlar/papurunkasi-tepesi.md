@@ -28,7 +28,7 @@ wikidata_id: "Q31389851"
 
 # Papurunkaşı Tepesi
 
-Papurunkaşı Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık bir alanı kaplayan bir tepe. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar. Papurunkaşı Tepesi, özellikle doğa severler ve trekking yapanlar için önemli bir destinasyon. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunur. Papurunkaşı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi veren bir nokta.
+Papurunkaşı Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık bir alanı kaplayan bir tepe. Papurunkaşı Tepesi, özellikle doğa severler ve trekking yapanlar için önemli bir destinasyon. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna bulunur. Papurunkaşı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi veren bir nokta.
 
 ## Tarihçe
 

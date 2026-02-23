@@ -1,7 +1,7 @@
 ---
 title: "Hürrem Sultan Türbesi"
 date: "2026-01-10T04:51:03.689Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q55698753"
 
 # Hürrem Sultan Türbesi
 
-Fatih'in tarihi semtinde yer alan Hürrem Sultan Türbesi, İstanbul'un en önemli turistik noktalarından biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tarihi mekan, ziyaretçilerini büyüleyen bir atmosfere sahiptir. Hürrem Sultan Türbesi, Kanuni Sultan Süleyman'ın eşi olan Hürrem Sultan için yaptırılmıştır. Türbenin tarihi ve mimari özellikleri, ziyaretçilerin ilgisini çekmektedir. Hürrem Sultan Türbesi, İstanbul'un en önemli kültürel miraslarından biri olarak kabul edilmektedir.
+Fatih'in tarihi semtinde yer alan Hürrem Sultan Türbesi, İstanbul'un en önemli turistik noktalarından biri. Bu tarihi mekan, ziyaretçilerini büyüleyen bir atmosfere sahiptir. Hürrem Sultan Türbesi, Kanuni Sultan Süleyman'ın eşi olan Hürrem Sultan için yaptırılmıştır. Türbenin tarihi ve mimari özellikleri, ziyaretçilerin ilgisini çekmektedir. Hürrem Sultan Türbesi, İstanbul'un en önemli kültürel miraslarından biri olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hürrem Sultan Türbesi, 16. yüzyılda inşa edilmiştir. Türbenin inşası, K
 
 ## Coğrafya
 
-Hürrem Sultan Türbesi, Fatih'in tarihi semtinde yer almaktadır. Türbe, İstanbul'un en önemli coğrafi noktalarından biri olan Sultanahmet Meydanı'na yakındır. Türbenin bulunduğu alan, 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Hürrem Sultan Türbesi, deniz seviyesinden yüksek bir konumdate yer almaktadır. Türbenin bulunduğu semt, tarihi ve kültürel açıdan zengindir. Fatih semti, İstanbul'un en eski semtlerinden biri olarak kabul edilmektedir. Hürrem Sultan Türbesi, bu semtin en önemli turistik noktalarından biri olarak kabul edilmektedir. Türbenin çevresinde, birçok tarihi mekan ve eser bulunmaktadır. Bu mekanlar, ziyaretçilerin ilgisini çekmektedir.
+Hürrem Sultan Türbesi, Fatih'in tarihi semtinde yer almaktadır. Türbe, İstanbul'un en önemli coğrafi noktalarından biri olan Sultanahmet Meydanı'na yakındır. Türbenin bulunduğu alan, 140 hektarlık bir alanı kaplamaktadır. Hürrem Sultan Türbesi, deniz seviyesinden yüksek bir konumdate yer almaktadır. Türbenin bulunduğu semt, tarihi ve kültürel açıdan zengindir. Fatih semti, İstanbul'un en eski semtlerinden biri olarak kabul edilmektedir. Hürrem Sultan Türbesi, bu semtin en önemli turistik noktalarından biri olarak kabul edilmektedir. Türbenin çevresinde, birçok tarihi mekan ve eser bulunmaktadır. Bu mekanlar, ziyaretçilerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 

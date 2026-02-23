@@ -22,7 +22,7 @@ wikidata_id: "Q108228367"
 
 # Afyon-Dinar Karakuyu Golu
 
-Afyon-Dinar Karakuyu Golu, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölge, hem doğa severler hem de bölge halkı için önemli bir destinasyondur. Gölün etrafındaki manzaralar, ziyaretçilere doğanın güzelliğini gözler önüne serer. Karakuyu Golu'nun büyüklüğü ve güzelliği, ziyaretçileri büyüler.
+Afyon-Dinar Karakuyu Golu, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak bilinir. Bu bölge, hem doğa severler hem de bölge halkı için önemli bir destinasyondur. Gölün etrafındaki manzaralar, ziyaretçilere doğanın güzelliğini gözler önüne serer. Karakuyu Golu'nun büyüklüğü ve güzelliği, ziyaretçileri büyüler.
 
 ## Tarihçe
 

@@ -67,4 +67,4 @@ Kayalı Dağ, ekolojik açıdan önemli bir bölge olarak koruma altına alınma
 - Kayalı Dağ, Kaz Dağları'nın bir parçasıdır.
 - Bu dağ, 1994 yılında milli park ilan edilmiştir.
 - Kayalı Dağ, zengin bitki örtüsü ve fauna çeşitliliği ile dikkat çeker.
-- Dağın eteklerinde histórik önem taşıyan antik kentler bulunmaktadır.
+- Dağın eteklerinde tarihi önem taşıyan antik kentler bulunmaktadır.

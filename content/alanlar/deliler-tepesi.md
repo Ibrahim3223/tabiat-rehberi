@@ -28,7 +28,7 @@ wikidata_id: "Q31388358"
 
 # Deliler Tepesi
 
-Deliler Tepesi, Erzurum'un coğrafi güzelliklerinin önemli bir parçası olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile bölge halkının keyifli zaman geçirdiği bir mekan olarak biliniyor. Tepenin eteklerinde ve civarında çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu doğal güzellik, aynı zamanda bölgenin tarihi geçmişi ile de iç içe geçmiş durumda. Deliler Tepesi, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirilen zaman, unutulmaz anlara dönüşüyor.
+Deliler Tepesi, Erzurum'un coğrafi güzelliklerinin önemli bir parçası olarak karşımıza çıkıyor. Tepenin eteklerinde ve civarında çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu doğal güzellik, aynı zamanda bölgenin tarihi geçmişi ile de iç içe geçmiş durumda. Deliler Tepesi, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirilen zaman, unutulmaz anlara dönüşüyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Deliler Tepesi'nin tarihi geçmişi, Erzurum'un genel tarihi ile paralel olara i
 
 ## Coğrafya
 
-Deliler Tepesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini yansıtan önemli bir nokta olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelli ile bölge halkının keyifli zaman geçirdiği bir mekan olarak biliniyor. Tepenin eteklerinde ve civarında çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Deliler Tepesi, Erzurum'un coğrafi olarak dağlık bir bölge olduğunu göz önünde bulundurursak, burada ziyaretçilerin karşılaşacağı manzara gerçekten etkileyici. Tepenin konumu, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi önemini keşfetme fırsatı sunuyor. Deliler Tepesi, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirilen zaman, unutulmaz anlara dönüşüyor. Coğrafi olarak bakıldığında, Deliler Tepesi, bölgenin önemli bir turizm destinasyonu olarak karşımıza çıkıyor ve ziyaretçilerini bekliyor.
+Deliler Tepesi, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini yansıtan önemli bir nokta olarak karşımıza çıkıyor. Tepenin eteklerinde ve civarında çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Deliler Tepesi, Erzurum'un coğrafi olarak dağlık bir bölge olduğunu göz önünde bulundurursak, burada ziyaretçilerin karşılaşacağı manzara gerçekten etkileyici. Tepenin konumu, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi önemini keşfetme fırsatı sunuyor. Deliler Tepesi, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirilen zaman, unutulmaz anlara dönüşüyor. Coğrafi olarak bakıldığında, Deliler Tepesi, bölgenin önemli bir turizm destinasyonu olarak karşımıza çıkıyor ve ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

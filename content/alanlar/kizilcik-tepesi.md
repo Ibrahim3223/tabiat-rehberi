@@ -28,7 +28,7 @@ wikidata_id: "Q31391214"
 
 # Kızılcık Tepesi
 
-İç Anadolu Bölgesi'nin geniş ve verimli topraklarında yer alan Kızılcık Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir manzara sunuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin keyiflenebileceği bir cennet. Kızılcık Tepesi, bölgenin coğrafi güzelliklerini ve biyolojik çeşitliliğini korumak amacıyla önemli bir noktada bulunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kızılcık Tepesi'nin etrafı, geniş otlaklarla ve ormanlık alanlarla çevrili, bu da ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
+İç Anadolu Bölgesi'nin geniş ve verimli topraklarında yer alan Kızılcık Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyüleyici bir manzara sunuyor. Kızılcık Tepesi, bölgenin coğrafi güzelliklerini ve biyolojik çeşitliliğini korumak amacıyla önemli bir noktada bulunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Kızılcık Tepesi'nin etrafı, geniş otlaklarla ve ormanlık alanlarla çevrili, bu da ziyaretçilere geniş bir faaliyet yelpazesi sunuyor.
 
 ## Tarihçe
 

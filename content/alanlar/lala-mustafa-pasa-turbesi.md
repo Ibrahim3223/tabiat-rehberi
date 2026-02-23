@@ -1,7 +1,7 @@
 ---
 title: "Lala Mustafa Paşa Türbesi"
 date: "2026-01-10T07:23:04.148Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391019"
 
 # Lala Mustafa Paşa Türbesi
 
-Lala Mustafa Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan histórik bir yapıdır. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde yer alır. Tarihi geçmişi olan bu mekan, İstanbul'un önemli turistik noktalarından biridir. Ziyaretçiler, bu türbenin mimari güzelliğini ve tarihi önemini yakından görebilirler. Lala Mustafa Paşa Türbesi, İstanbul'un kültür ve sanat hayatına önemli katkılar sunan bir mekan olarak bilinir.
+Lala Mustafa Paşa Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan tarihi bir yapıdır. Tarihi geçmişi olan bu mekan, İstanbul'un önemli turistik noktalarından biridir. Ziyaretçiler, bu türbenin mimari güzelliğini ve tarihi önemini yakından görebilirler. Lala Mustafa Paşa Türbesi, İstanbul'un kültür ve sanat hayatına önemli katkılar sunan bir mekan olarak bilinir.
 
 ## Tarihçe
 

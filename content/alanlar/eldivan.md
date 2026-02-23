@@ -23,7 +23,7 @@ wikidata_id: "Q108227801"
 
 # Eldivan
 
-Eldivan milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik noktalarından biri. Burada çeşitli bitki türleri ve zengin fauna encontrabilir. Milli parkın konumu, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Eldivan, doğal güzelliği ve zengin ekosistemiyle turizm için önemli bir destinasyon olarak ön plana çıkıyor.
+Eldivan milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal alan olarak dikkat çekiyor. Burada çeşitli bitki türleri ve zengin fauna encontrabilir. Milli parkın konumu, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Eldivan, doğal güzelliği ve zengin ekosistemiyle turizm için önemli bir destinasyon olarak ön plana çıkıyor.
 
 ## Tarihçe
 

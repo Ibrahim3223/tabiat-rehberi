@@ -32,7 +32,7 @@ Ankara'nın kalbinde, şehrin gürültüsünden uzak bir noktada yer alan Kürkl
 
 ## Tarihçe
 
-Ankara bölgesinin zengin tarihi, Kürklüdağı Tepesi'nin de içinde yer aldığı doğal alanların tarihsel önemini vurgulamaktadır. Bu bölge, tarihin çeşitli dönemlerindeHitit, Frig, Roma ve Osmanlı gibi uygarlıklara ev sahipliği yapmış ve her biri bu topraklara kendi kültürel izlerini bırakmıştır. 
+Ankara bölgesinin zengin tarihi, Kürklüdağı Tepesi'nin de içinde yer aldığı doğal alanların tarihsel önemini vurgulamaktadır. Bu bölge, tarihin çeşitli dönemlerindeHitit, Frig, Roma ve Osmanlı gibi uygarlıklara ev sahipliği yapmış ve her biri bu topraklara kendi kültürel izlerini bırakmıştır.
 
 Doğal güzellikleri ve stratejik konumuyla, Kürklüdağı Tepesi ve çevresindeki alanlar, insanların yaşamının merkezinde yer almıştır. Yaylacılık, hayvancılık ve ticaret yolları, insanları bu bölgeye çekmiş ve buradaki doğal kaynaklardan yararlanmalarına neden olmuştur. Ankara'nın coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, bölgenin ekonomi ve sosyal hayatının şekillenmesinde önemli rol oynamıştır.
 
@@ -52,7 +52,7 @@ Doğal çevre açısından, Kürklüdağı Tepesi, Ankara'nın kuzeydoğusundaki
 
 Kürklüdağı Tepesi, Ankara'nın göbeğinde yer alan bir dağ ekosistemi olarak, step bitki örtüsü ve bozkırın karakteristik özelliklerini taşır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Step bitkileri, kuraklığa adapte olmuş türler, yükseklik zonlarına göre değişen alpin flora ile bir araya gelir.
 
-Yaban hayatı da bu dağda zenginlik gösterir. Memeliler, özellikle küçük kemirgenler ve dağ keçileri, dağlık alanlarda yaşamlarını sürdürür. Kuşlar, özellikle göç mevsimlerinde, dağlarıkonaklama noktaları olarak kullanır. Sürüngenler de, step ve bozkırın karakteristik türleri olarak, dağlık alanlarda yaşamlarını sürdürür. 
+Yaban hayatı da bu dağda zenginlik gösterir. Memeliler, özellikle küçük kemirgenler ve dağ keçileri, dağlık alanlarda yaşamlarını sürdürür. Kuşlar, özellikle göç mevsimlerinde, dağlarıkonaklama noktaları olarak kullanır. Sürüngenler de, step ve bozkırın karakteristik türleri olarak, dağlık alanlarda yaşamlarını sürdürür.
 
 Kürklüdağı Tepesi, ekolojik değerini koruma altına almak için önemli bir alandır. Bu dağ ekosisteminin korunması, sadece yerel fauna ve florayı değil, aynı zamanda su döngüsünü ve toprak kalitesini de etkiler. Koruma çalışmaları, bu dağın doğal güzelliğini ve biyolojik çeşitliliğini gelecek nesiller için korumayı amaçlar.
 

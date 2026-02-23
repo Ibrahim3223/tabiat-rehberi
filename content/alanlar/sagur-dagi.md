@@ -36,7 +36,7 @@ Diyarbakır bölgesinin tarihi, binlerce yıl öncesine uzanan bir geçmişe sah
 
 Türkiye'de, özellikle güneydoğu bölgesinde bulunan bu tür doğal alanlar, tarihsel olarak önemli ticaret yolları üzerinde yer almışlardır. İnsanlar, bu alanları sadece doğal güzellikleri için değil, aynı zamanda hayvancılık, yaylacılık ve ticaret için de kullanmışlardır. Bu bölgeler, çeşitli kültürlerin karşılaşma ve etkileşim noktaları olarak hizmet etmişlerdir.
 
-Diyarbakır bölgesindeki doğal alanlar, aynı zamanda bölgenin ekolojik dengesini korumak açısından da önemlidir. Bu alanlar, flora ve fauna çeşitliliği açısından zengin olup, birçok endemik türün yaşam alanıdır. İnsanların bu doğal alanlarla ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Bu reason, bölgenin tarihini ve kültürünü anlamak için önemli bir bağlam sunar.
+ Bu alanlar, flora ve fauna çeşitliliği açısından zengin olup, birçok endemik türün yaşam alanıdır. İnsanların bu doğal alanlarla ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Bu reason, bölgenin tarihini ve kültürünü anlamak için önemli bir bağlam sunar.
 
 ## Coğrafya
 
@@ -50,7 +50,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından önemli bir r
 
 ## Flora ve Fauna
 
-Şagur Dağı'nın flora ve fauna zenginliği, Diyarbakır'ın yarı kurak ikliminin karakterini taşır. Dağın yükseklik zonları, alpin flora ile kaplıdır ve ilkbahar aylarında çiçeklerle renklendirilir. Step ve ova ekolojisinin hakim olduğu bu bölgede, bitki örtüsü mevsimsel değişimlere bağlı olarak dönüşür. 
+Şagur Dağı'nın flora ve fauna zenginliği, Diyarbakır'ın yarı kurak ikliminin karakterini taşır. Dağın yükseklik zonları, alpin flora ile kaplıdır ve ilkbahar aylarında çiçeklerle renklendirilir. Step ve ova ekolojisinin hakim olduğu bu bölgede, bitki örtüsü mevsimsel değişimlere bağlı olarak dönüşür.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağın yüksek kesimlerinde, göçmen kuşlar sonbahar aylarında görülebilir. Memeliler, dağların kayaçlı bölgelerine uyum sağlamışlardır. Sürüngenler, step ve ova ekosisteminin karakteristik türleridir.
 

@@ -50,7 +50,7 @@ Yaz aylarında sıcakların arttığı ve nemin yoğunlaştığı bir bölge ola
 
 ## Flora ve Fauna
 
-Küçük Ada, İzmir'in kıyılarında yer alan bir ada ekosistemi olarak, çeşitli flora ve fauna türlerine ev sahipliği yapıyor. 
+Küçük Ada, İzmir'in kıyılarında yer alan bir ada ekosistemi olarak, çeşitli flora ve fauna türlerine ev sahipliği yapıyor.
 
 Bitki Örtüsü: Ada, zeytinlikler ve çam ormanları ile kaplıdır. İlkbahar döneminde, ada çiçek açan bitkilerle renklenir ve güzelleşir. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler yetişir.
 

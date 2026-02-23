@@ -29,7 +29,7 @@ wikidata_id: "Q134728217"
 
 # Kaya Mezarı 4 (Delikkaya Mahallesi), Altınordu
 
-Kaya Mezarı 4, Delikkaya Mahallesi'nde yer alan bir plaj olarak Karadeniz Bölgesi'nin önemli turizm noktalarından biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Kaya Mezarı 4, hem tarihi hem de coğrafi açıdan zengin bir bölgede yer alıyor. Ziyaretçiler, bu bölgede hem denize girerek serinleyebilir hem de tarihi alanları gezebilirler.
+Kaya Mezarı 4, Delikkaya Mahallesi'nde yer alan bir plaj olarak Karadeniz Bölgesi'nin önemli turizm noktalarından biri. Kaya Mezarı 4, hem tarihi hem de coğrafi açıdan zengin bir bölgede yer alıyor. Ziyaretçiler, bu bölgede hem denize girerek serinleyebilir hem de tarihi alanları gezebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaya Mezarı 4'ün tarihi geçmişi, Karadeniz Bölgesi'nin zengin tarihine ış
 
 ## Coğrafya
 
-Kaya Mezarı 4, Karadeniz Bölgesi'nde yer alan bir plaj olarak coğrafi açıdan zengin bir bölgede bulunuyor. Bu bölge, yeşilin ve mavinin bir arada olduğu bir noktada yer alıyor. 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan sunuyor ve yaklaşık 200 futbol sahası büyüklüğünde. Kaya Mezarı 4'ün coğrafi konumu, ziyaretçilere hem denize girerek serinleme hem de doğayı seyretme imkanı sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ziyaretçileri karşılar. Kaya Mezarı 4'ün coğrafyası, Karadeniz Bölgesi'nin genel coğrafyasını yansıtan önemli bir nokta olarak kabul ediliyor.
+Kaya Mezarı 4, Karadeniz Bölgesi'nde yer alan bir plaj olarak coğrafi açıdan zengin bir bölgede bulunuyor. Bu bölge, yeşilin ve mavinin bir arada olduğu bir noktada yer alıyor. Kaya Mezarı 4'ün coğrafi konumu, ziyaretçilere hem denize girerek serinleme hem de doğayı seyretme imkanı sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ziyaretçileri karşılar. Kaya Mezarı 4'ün coğrafyası, Karadeniz Bölgesi'nin genel coğrafyasını yansıtan önemli bir nokta olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

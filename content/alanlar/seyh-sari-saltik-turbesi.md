@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Sarı Saltık Türbesi"
 date: "2026-01-10T06:11:51.856Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,11 +29,11 @@ wikidata_id: "Q131390641"
 
 # Şeyh Sarı Saltık Türbesi
 
-Şeyh Sarı Saltık Türbesi, Afyonkarahisar'ın Bolvadin ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölgede, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini históriki bir yolculuğa çıkarıyor. Şeyh Sarı Saltık Türbesi, tarihi geçmişi ve eşsiz doğasıyla hem yerli hem de yabancı ziyaretçilerin ilgisini çekiyor. Bu alan, hem tarihi hem de doğal güzelliği ile ön plana çıkıyor ve ziyaretçilerine geniş bir deneyim yelpazesi sunuyor.
+Şeyh Sarı Saltık Türbesi, Afyonkarahisar'ın Bolvadin ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Şeyh Sarı Saltık Türbesi, tarihi geçmişi ve eşsiz doğasıyla hem yerli hem de yabancı ziyaretçilerin ilgisini çekiyor. Bu alan, hem tarihi hem de doğal güzelliği ile ön plana çıkıyor ve ziyaretçilerine geniş bir deneyim yelpazesi sunuyor.
 
 ## Tarihçe
 
-Şeyh Sarı Saltık Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu tarihsel mekan, yüzyıllar boyunca önemli bir dini merkez olarak görev yaptı. Şeyh Sarı Saltık, 13. yüzyılda yaşayan bir Türk derviş ve mutasavvıf olarak biliniyor. Türbesi, ölümünden sonra inşa edildi ve zamanla önemli bir ziyaret yeri haline geldi. Bu tarihsel mekan, ziyaretçilerine históriki bir perspektif sunuyor ve Şeyh Sarı Saltık'ın yaşamı ve öğretileri hakkında bilgi veriyor.
+Şeyh Sarı Saltık Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu tarihsel mekan, yüzyıllar boyunca önemli bir dini merkez olarak görev yaptı. Şeyh Sarı Saltık, 13. yüzyılda yaşayan bir Türk derviş ve mutasavvıf olarak biliniyor. Türbesi, ölümünden sonra inşa edildi ve zamanla önemli bir ziyaret yeri haline geldi. Bu tarihsel mekan, ziyaretçilerine tarihi bir perspektif sunuyor ve Şeyh Sarı Saltık'ın yaşamı ve öğretileri hakkında bilgi veriyor.
 
 ## Coğrafya
 
@@ -45,7 +45,7 @@ wikidata_id: "Q131390641"
 
 ## Ziyaret Bilgileri
 
-Şeyh Sarı Saltık Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliği deneyimlemek için ideal bir laum. Ziyaretçiler, bu tarihi ve doğal güzelliği ziyaret etmek için Afyonkarahisar'ın Bolvadin ilçesine gitmeli ve oradan Şeyh Sarı Saltık Türbesi'ne ulaşmalı. Ziyaretçilerin, bu tarihi ve doğal güzelliği ziyaret ederken, bölgenin históriki ve ekolojik önemini dikkate alması gerekiyor. Şeyh Sarı Saltık Türbesi'ni ziyaret etmek, ziyaretçilere geniş bir deneyim yelpazesi sunuyor ve tarihi, doğa ve kültürü bir araya getiren bir deneyim sunuyor.
+Şeyh Sarı Saltık Türbesi'ni ziyaret etmek, tarihi ve doğal güzelliği deneyimlemek için ideal bir laum. Ziyaretçiler, bu tarihi ve doğal güzelliği ziyaret etmek için Afyonkarahisar'ın Bolvadin ilçesine gitmeli ve oradan Şeyh Sarı Saltık Türbesi'ne ulaşmalı. Ziyaretçilerin, bu tarihi ve doğal güzelliği ziyaret ederken, bölgenin tarihi ve ekolojik önemini dikkate alması gerekiyor. Şeyh Sarı Saltık Türbesi'ni ziyaret etmek, ziyaretçilere geniş bir deneyim yelpazesi sunuyor ve tarihi, doğa ve kültürü bir araya getiren bir deneyim sunuyor.
 
 ## İlginç Bilgiler
 

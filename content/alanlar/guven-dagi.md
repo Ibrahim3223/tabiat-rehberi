@@ -32,7 +32,7 @@ Hakkari'nin zorlu coğrafyasında, doğanın gücü ve güzelliği bir araya gel
 
 ## Tarihçe
 
-Hakkari'nin doğusunda yükselen Güven Dağı, binlerce yılın izlerini taşıyan bir coğrafi oluşum. Bu bölge, tarihin sâu sayfalarında önemli uygarlıkların geçiş noktalarından biri olarak bilinir. Urartular, Medler, Persler ve Osmanlılar gibi büyük imparatorluklar, Hakkari'nin stratejik konumunu değerlendirmişlerdir. Doğal güzelliği ve coğrafi konumuyla Güven Dağı, bu uygarlıkların ticaret, kültür ve siyasi etkileşimlerinde önemli bir rol oynamıştır.
+Hakkari'nin doğusunda yükselen Güven Dağı, binlerce yılın izlerini taşıyan bir coğrafi oluşum. Bu bölge, tarihin derin sayfalarında önemli uygarlıkların geçiş noktalarından biri olarak bilinir. Urartular, Medler, Persler ve Osmanlılar gibi büyük imparatorluklar, Hakkari'nin stratejik konumunu değerlendirmişlerdir. Doğal güzelliği ve coğrafi konumuyla Güven Dağı, bu uygarlıkların ticaret, kültür ve siyasi etkileşimlerinde önemli bir rol oynamıştır.
 
 Türkiye'de bulunan doğal alanlar, tarihin her döneminde insanların yaşamsal faaliyetleri için kritik öneme sahip olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve sosyal hayatının temelini oluşturmuştur. Güven Dağı da bu bağlamda, bölgede yaşayan toplulukların hayatında önemli bir yer tutmaktadır. Dağın eteklerinde ve çevresindeki vadiler, yüzyıllar boyu insanların yerleşim ve geçim alanları olarak kullanılmıştır. Bu doğal alan, sadece bir coğrafi oluşum değil, aynı zamanda bölgenin kültürel ve tarihi kimliğinin bir parçasıdır.
 

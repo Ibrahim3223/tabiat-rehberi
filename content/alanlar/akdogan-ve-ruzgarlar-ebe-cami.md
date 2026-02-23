@@ -22,7 +22,7 @@ wikidata_id: "Q108227046"
 
 # Akdogan ve Ruzgarlar Ebe Çami
 
-Akdogan ve Ruzgarlar Ebe Çami milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, coğrafi konumu itibariyle çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın sunduğu doğal güzellikler, ziyaretçilerini doğanın kucağına davet ediyor. 70 hektarlık ormanlık alan, 30 hektarlık çayır ve mera arazisi ile birlikte, ziyaretçiler için geniş bir gezi alanı sunuyor. Akdogan ve Ruzgarlar Ebe Çami, doğal güzellikleri ve tarihi geçmişi ile ziyaretçilerini bekliyor.
+ Bu bölge, coğrafi konumu itibariyle çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Milli parkın sunduğu doğal güzellikler, ziyaretçilerini doğanın kucağına davet ediyor. 70 hektarlık ormanlık alan, 30 hektarlık çayır ve mera arazisi ile birlikte, ziyaretçiler için geniş bir gezi alanı sunuyor. Akdogan ve Ruzgarlar Ebe Çami, doğal güzellikleri ve tarihi geçmişi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Akdogan ve Ruzgarlar Ebe Çami milli parkını ziyaret etmek, doğa severler iç
 ## İlginç Bilgiler
 
 - Milli parkın sunduğu doğal güzellikler, ziyaretçilerini doğanın kucağına davet ediyor.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Ormanlık alanlar, çeşitli ağaç türleri ile dolu.
 - Çayır ve mera arazileri, ziyaretçilere geniş bir gezi alanı sunuyor.
 - Milli parkın fauna yapısı, çeşitli hayvan türleri ile zengin.

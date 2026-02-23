@@ -32,7 +32,7 @@ Kahramanmaraş'ın doğal güzelliklerinden biri olan Karaoluktepeleri, ziyaret�
 
 ## Tarihçe
 
-Karaoluktepeleri, Kahramanmaraş'ın zengin tarihi dokusuna ev sahipliği yapan bir bölge. Bu bölgede, Hitit, Roma ve Osmanlı gibi uygarlıkların izleri encontrado. Türkiye'nin güneydoğusunda yer alan Kahramanmaraş, tarihin farklı dönemlerinde çeşitli medeniyetlere ev sahipliği yapmış bir şehirdir. 
+Karaoluktepeleri, Kahramanmaraş'ın zengin tarihi dokusuna ev sahipliği yapan bir bölge. Bu bölgede, Hitit, Roma ve Osmanlı gibi uygarlıkların izleri encontrado. Türkiye'nin güneydoğusunda yer alan Kahramanmaraş, tarihin farklı dönemlerinde çeşitli medeniyetlere ev sahipliği yapmış bir şehirdir.
 
 Doğal güzellikleri ve stratejik konumuyla dikkat çeken bu bölge, yüzyıllar boyunca insanların yaşamlarına yön vermiştir. Yaylacılık ve hayvancılık, bölgenin ekonomisinde önemli bir yer tutmuş, insanların bu doğal alanlarla ilişkisi ticaret yolları ve geçim kaynakları üzerinden şekillenmiştir. Türkiye'nin tarihsel olarak önemli doğal alanlarına ev sahipliği yapan bu bölge, insan faaliyetleri ve doğal güzellikleri arasında bir denge kurmayı başarmıştır.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386370"
 
 # Abdin Tepesi
 
-Abdin Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Abdin Tepesi, şehrin merkezine oldukça yakın bir konumda bulunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor. Ayrıca, tepe etrafında çeşitli hayvanlar da yaşadığı için, doğa severler için ideal bir yer. Abdin Tepesi'ni ziyaret ettiğinizde, Kilis şehrinin panoramik manzarasını izleyebilirsiniz.
+Abdin Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde yer alan bir tepe. Abdin Tepesi, şehrin merkezine oldukça yakın bir konumda bulunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor. Ayrıca, tepe etrafında çeşitli hayvanlar da yaşadığı için, doğa severler için ideal bir yer. Abdin Tepesi'ni ziyaret ettiğinizde, Kilis şehrinin panoramik manzarasını izleyebilirsiniz.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Antalya-Manavgat-Köprülü Servi"
 date: "2026-01-09T19:56:30.249Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Antalya"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228290"
 
 # Antalya-Manavgat-Köprülü Servi
 
-Antalya-Manavgat-Köprülü Servi milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, zengin fauna ve florasıyla dikkat çekiyor. Köprülü Servi, doğa severlerin ve macera arayanların keyif alacağı bir yer. Milli park, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+Antalya-Manavgat-Köprülü Servi milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar. Köprülü Servi, doğa severlerin ve macera arayanların keyif alacağı bir yer. Milli park, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Manavgat-Köprülü Servi milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Antalya-Manavgat-Köprülü Servi milli parkı, Akdeniz Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, dağlar ve ormanlarla çevrili. Köprülü Servi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Milli parkın iklimi, Akdeniz iklimi özellikleri gösteriyor. Kışları ılık, yazları sıcak ve kurak olan bu bölge, ziyaretçilere dört mevsim gezi imkanı sunuyor. Milli parkın çevresi, çeşitli bitki türleri ve yaban hayatıyla zengin.
+Antalya-Manavgat-Köprülü Servi milli parkı, Akdeniz Bölgesi'nde yer alıyor. Parkın coğrafi yapısı, dağlar ve ormanlarla çevrili. Milli parkın iklimi, Akdeniz iklimi özellikleri gösteriyor. Kışları ılık, yazları sıcak ve kurak olan bu bölge, ziyaretçilere dört mevsim gezi imkanı sunuyor. Milli parkın çevresi, çeşitli bitki türleri ve yaban hayatıyla zengin.
 
 ## Flora ve Fauna
 

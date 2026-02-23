@@ -49,7 +49,7 @@ Bölgenin çevresel ilişkileri açısından bakıldığında, Akdağ'ın komşu
 
 ## Flora ve Fauna
 
-Akdağ'ın (Mersin) flora ve fauna bölümü, bir doğa harikasıdır. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarını barındırır. 
+Akdağ'ın (Mersin) flora ve fauna bölümü, bir doğa harikasıdır. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarını barındırır.
 
 Bitki Örtüsü olarak, maki bitki örtüsü hakimdir. İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır. Kuraklığa dayanıklı türler, yaz mevsiminde bile yeşilliklerini korur. Kıyı ekosistemi, tuzlu hava ve rüzgarın şekillendirdiği özel bir bitki örtüsüne sahiptir.
 

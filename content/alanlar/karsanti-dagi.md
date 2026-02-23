@@ -50,9 +50,9 @@ Bölgenin iklim karakteri, Karsantı Dağı'nın coğrafyasını önemli ölçü
 
 ## Flora ve Fauna
 
-Karsantı Dağı, Adana'nın gözde güzelliği, çeşitli flora ve faunaya ev sahipliği yapıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bitki örtüsü, ziyaretçilerini etkiliyor. İlkbaharın gelmesiyle birlikte, maki bitki örtüsü çiçek açıyor ve dağ yamacı renkleniyor. 
+Karsantı Dağı, Adana'nın gözde güzelliği, çeşitli flora ve faunaya ev sahipliği yapıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bitki örtüsü, ziyaretçilerini etkiliyor. İlkbaharın gelmesiyle birlikte, maki bitki örtüsü çiçek açıyor ve dağ yamacı renkleniyor.
 
-Karsantı Dağı'nın yaban hayatı, memeliler, kuşlar ve sürüngenlerden oluşuyor. Dağların yüksek kesimlerinde, çeşitli kuş türleri yuva yapıyor ve göç mevsimlerinde, bu dağlar önemli bir uğrak noktası oluyor. Dağın kuraklığa dayanıklı bitki türleri, hayvanlar için yaşam alanı oluşturuyor. 
+Karsantı Dağı'nın yaban hayatı, memeliler, kuşlar ve sürüngenlerden oluşuyor. Dağların yüksek kesimlerinde, çeşitli kuş türleri yuva yapıyor ve göç mevsimlerinde, bu dağlar önemli bir uğrak noktası oluyor. Dağın kuraklığa dayanıklı bitki türleri, hayvanlar için yaşam alanı oluşturuyor.
 
 Bu dağ ekosisteminin ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasından geliyor. Karsantı Dağı, bölgenin ekolojik dengesini mantenerken, aynı zamanda insan yerleşimlerine de önemli bir doğal kaynak sunuyor. Bu nedenle, bu dağın korunması ve sürdürülebilir kullanımı, gelecek nesiller için çok önemli.
 

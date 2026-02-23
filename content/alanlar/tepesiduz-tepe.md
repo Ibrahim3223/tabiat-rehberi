@@ -28,7 +28,7 @@ wikidata_id: "Q34812026"
 
 # Tepesidüz Tepe
 
-Tepesidüz Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepesidüz Tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burada, ziyaretçiler hem doğanın güzelliğini keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilir. Tepesidüz Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Tepesidüz Tepe, Mersin'in tarihi ve kültürel mirasının önemli bir parçası olarak görülüyor.
+Tepesidüz Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Tepesidüz Tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burada, ziyaretçiler hem doğanın güzelliğini keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilir. Tepesidüz Tepe, Mersin'in önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Tepesidüz Tepe, Mersin'in tarihi ve kültürel mirasının önemli bir parçası olarak görülüyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tepesidüz Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu tepe
 
 ## Coğrafya
 
-Tepesidüz Tepe, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bu tepe, Akdeniz ikliminin etkisinde kalıyor. Tepesidüz Tepe, khong 140 hektarlık bir alanı kapsıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepesidüz Tepe, Mersin'in doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, ziyaretçilerine doğanın güzelliğini sunuyor. Tepesidüz Tepe, Mersin'in coğrafi yapısını anlamak için önemli bir kaynak olarak görülüyor. Tepesidüz Tepe, ziyaretçilerine Mersin'in coğrafyası hakkında bilgi veren önemli bir merkez olarak hizmet veriyor. Tepesidüz Tepe, Mersin'in doğal güzelliklerini keşfetmek isteyenlerin önemli bir durağı olarak kabul ediliyor. Tepesidüz Tepe, Mersin'in coğrafyasının önemli bir parçası olarak görülüyor.
+Tepesidüz Tepe, Mersin'in Akdeniz Bölgesi'nde yer alıyor. Bu tepe, Akdeniz ikliminin etkisinde kalıyor. Tepesidüz Tepe, khong 140 hektarlık bir alanı kapsıyor. Tepesidüz Tepe, Mersin'in doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, ziyaretçilerine doğanın güzelliğini sunuyor. Tepesidüz Tepe, Mersin'in coğrafi yapısını anlamak için önemli bir kaynak olarak görülüyor. Tepesidüz Tepe, ziyaretçilerine Mersin'in coğrafyası hakkında bilgi veren önemli bir merkez olarak hizmet veriyor. Tepesidüz Tepe, Mersin'in doğal güzelliklerini keşfetmek isteyenlerin önemli bir durağı olarak kabul ediliyor. Tepesidüz Tepe, Mersin'in coğrafyasının önemli bir parçası olarak görülüyor.
 
 ## Flora ve Fauna
 

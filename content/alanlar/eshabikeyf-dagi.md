@@ -50,7 +50,7 @@ Mevsimsel değişikliklere bakıldığında, Eshabıkeyf Dağı'nın iklim karak
 
 ## Flora ve Fauna
 
-Eshabıkeyf Dağı, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen bir bitki örtüsü vardır. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Step ve ova ekolojisinin bir parçası olan bu alan, mevsimsel değişimlerle birlikte farklı bir güzelliğe bürünür. 
+Eshabıkeyf Dağı, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen bir bitki örtüsü vardır. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Step ve ova ekolojisinin bir parçası olan bu alan, mevsimsel değişimlerle birlikte farklı bir güzelliğe bürünür.
 
 Yaban hayatı, bu dağ ekosisteminin önemli bir parçasını oluşturur. Memeliler, kuşlar ve sürüngenler, dağın çeşitli yaşam alanlarında bulunurlar. Dağ keçileri ve yaban kedileri gibi memeliler, kayalık bölgelerde yaşarken, çeşitli kuş türleri göç yolları üzerinde bu dağları kullanır. Sürüngenler ise, sıcak ve kurak bölgelerde aktif olarak bulunurlar.
 

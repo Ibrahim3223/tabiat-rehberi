@@ -1,7 +1,7 @@
 ---
 title: "Zincirli Servi ve Daye Hatun Türbesi"
 date: "2026-01-10T06:27:25.695Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391811"
 
 # Zincirli Servi ve Daye Hatun Türbesi
 
-Fatih, İstanbul'da yer alan Zincirli Servi ve Daye Hatun Türbesi, Marmara Bölgesi'nin zengin tarihini ve doğal güzelliklerini bir araya getiren özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunuyor. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, ziyaretçilerine hem eğitim hem de eğlence sunuyor.
+Fatih, İstanbul'da yer alan Zincirli Servi ve Daye Hatun Türbesi, Marmara Bölgesi'nin zengin tarihini ve doğal güzelliklerini bir araya getiren özel bir mekan. Tarihi geçmişi ve doğal güzelliği ile dikkat çeken bu mekan, ziyaretçilerine hem eğitim hem de eğlence sunuyor.
 
 ## Tarihçe
 

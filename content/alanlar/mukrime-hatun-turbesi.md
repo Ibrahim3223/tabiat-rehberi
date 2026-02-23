@@ -1,7 +1,7 @@
 ---
 title: "Mükrime Hatun Türbesi"
 date: "2026-01-10T07:40:44.061Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391235"
 
 # Mükrime Hatun Türbesi
 
-Mükrime Hatun Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel mekanlarından biridir. Osmangazi/Bursa'da bulunan bu türbe, bölgenin zengin tarihi geçmişi hakkında önemli bilgiler sunar. 140 hektarlık bir alan üzerinde konumlanan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere huzurlu bir ortam sunar. Türbenin mimarisi, bölgenin geleneksel özelliklerini taşır ve tarihi geçmişi hakkında somut bilgiler verir. Mükrime Hatun Türbesi, tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Mükrime Hatun Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel mekanlarından biridir. Osmangazi/Bursa'da bulunan bu türbe, bölgenin zengin tarihi geçmişi hakkında önemli bilgiler sunar. Bu geniş alan, ziyaretçilere huzurlu bir ortam sunar. Türbenin mimarisi, bölgenin geleneksel özelliklerini taşır ve tarihi geçmişi hakkında somut bilgiler verir. Mükrime Hatun Türbesi, tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mükrime Hatun Türbesi, yüzyıllar boyunca bölgenin önemli dini ve kültüre
 
 ## Coğrafya
 
-Mükrime Hatun Türbesi, Osmangazi/Bursa'da yer alır ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, dağlık ve engebeli bir araziye sahiptir. Türbe, 140 hektarlık bir alan üzerinde konumlanır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere huzurlu bir ortam sunar. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yıl boyunca farklı mevsimlerde ziyaret edilebilir. Mükrime Hatun Türbesi, çevresindeki doğa güzellikleri ile birlikte, ziyaretçilere geniş bir coğrafi çeşitlilik sunar. Türbenin coğrafi konumu, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir başlangıç noktasıdır. Mükrime Hatun Türbesi ve çevresi, Marmara Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Mükrime Hatun Türbesi, Osmangazi/Bursa'da yer alır ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, dağlık ve engebeli bir araziye sahiptir. Bu geniş alan, ziyaretçilere huzurlu bir ortam sunar. Bölgenin iklimi, karasal iklim özellikleri gösterir ve yıl boyunca farklı mevsimlerde ziyaret edilebilir. Mükrime Hatun Türbesi, çevresindeki doğa güzellikleri ile birlikte, ziyaretçilere geniş bir coğrafi çeşitlilik sunar. Türbenin coğrafi konumu, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir başlangıç noktasıdır. Mükrime Hatun Türbesi ve çevresi, Marmara Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Flora ve Fauna
 

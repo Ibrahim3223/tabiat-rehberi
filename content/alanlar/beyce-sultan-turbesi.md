@@ -1,7 +1,7 @@
 ---
 title: "Beyce Sultan Türbesi"
 date: "2026-01-10T05:33:52.715Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,11 +29,11 @@ wikidata_id: "Q131391394"
 
 # Beyce Sultan Türbesi
 
-Beyce Sultan Türbesi, Denizli'nin Çivril ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin önemli tarihi noktalarından birisidir. Bu alan, hem tarihi hem de doğal güzellikleri bir arada sunması nedeniyle ziyaretçilerin ilgisini çekmektedir. Beyce Sultan Türbesi, tarihi geçmişi ve doğal güzelliği ile dikkat çekici bir noktada yer almaktadır. Türbenin etrafındaki yeşil alan, ziyaretçilerin dinlenmesine ve doğayı seyretmesine olanak tanır.
+Beyce Sultan Türbesi, Denizli'nin Çivril ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. Bu alan, hem tarihi hem de doğal güzellikleri bir arada sunması nedeniyle ziyaretçilerin ilgisini çekmektedir. Beyce Sultan Türbesi, tarihi geçmişi ve doğal güzelliği ile dikkat çekici bir noktada yer almaktadır. Türbenin etrafındaki yeşil alan, ziyaretçilerin dinlenmesine ve doğayı seyretmesine olanak tanır.
 
 ## Tarihçe
 
-Beyce Sultan Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Türbenin tarihi hakkında detaylı bilgiler bulunsa da, genel olarak tarihi geçmişi zengin ve çeşitli olaylarla doludur. Bu türbe, yüzyıllar boyunca önemli tarihi olaylara tanıklık etmiş ve günümüze kadar ulaşmıştır. Beyce Sultan Türbesi, ziyaretçilere tarihin sâu sayfalarında bir yolculuk sunar. Türbenin tarihi ve kültürel önemi, ziyaretçilerin ilgisini çekmekte ve onlara zengin bir tarihi deneyim sunmaktadır. Türbe ve çevresindeki tarihi yapılar, ziyaretçilere geçmişin izlerini taşımaktadır.
+Beyce Sultan Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Türbenin tarihi hakkında detaylı bilgiler bulunsa da, genel olarak tarihi geçmişi zengin ve çeşitli olaylarla doludur. Bu türbe, yüzyıllar boyunca önemli tarihi olaylara tanıklık etmiş ve günümüze kadar ulaşmıştır. Beyce Sultan Türbesi, ziyaretçilere tarihin derin sayfalarında bir yolculuk sunar. Türbenin tarihi ve kültürel önemi, ziyaretçilerin ilgisini çekmekte ve onlara zengin bir tarihi deneyim sunmaktadır. Türbe ve çevresindeki tarihi yapılar, ziyaretçilere geçmişin izlerini taşımaktadır.
 
 ## Coğrafya
 

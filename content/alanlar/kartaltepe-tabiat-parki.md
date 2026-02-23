@@ -23,7 +23,7 @@ wikidata_id: "Q108228201"
 
 # Kartaltepe Tabiat Parkı
 
-Kartaltepe Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğal güzelliktir. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Parkın konumu, ziyaretçiler için kolay ulaşılabilirlik sağlar. Doğa severler, bu parkta yürüyüş yapabilir, piknik yapabilir ve bölgenin zengin florası ve faunası ile tanışabilir.
+Kartaltepe Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğal güzelliktir. Parkın konumu, ziyaretçiler için kolay ulaşılabilirlik sağlar. Doğa severler, bu parkta yürüyüş yapabilir, piknik yapabilir ve bölgenin zengin florası ve faunası ile tanışabilir.
 
 ## Tarihçe
 

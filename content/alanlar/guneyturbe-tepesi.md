@@ -1,7 +1,7 @@
 ---
 title: "Güneytürbe Tepesi"
 date: "2026-01-10T14:52:30.446Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Çorum"
@@ -28,7 +28,7 @@ wikidata_id: "Q34873312"
 
 # Güneytürbe Tepesi
 
-Güneytürbe Tepesi, Çorum'un gözde mekanlarından biri. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, Karadeniz Bölgesi'nin gizli hazinelerinden biri. Misafirlerini, yemyeşil bir doğa ile karşılayan Güneytürbe Tepesi, hem gezi hem de turizm açısından önemli bir yer. Tepenin yamacında, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor. Güneytürbe Tepesi, özellikle bahar aylarında, misafirlerini güler yüzle karşılar.
+Güneytürbe Tepesi, Çorum'un gözde mekanlarından biri. Bu tepe, Karadeniz Bölgesi'nin gizli hazinelerinden biri. Misafirlerini, yemyeşil bir doğa ile karşılayan Güneytürbe Tepesi, hem gezi hem de turizm açısından önemli bir yer. Tepenin yamacında, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor. Güneytürbe Tepesi, özellikle bahar aylarında, misafirlerini güler yüzle karşılar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Güneytürbe Tepesi, yüzyıllar boyunca, bölgenin önemli mekanlarından biri 
 
 ## Coğrafya
 
-Güneytürbe Tepesi, Karadeniz Bölgesi'nde, Çorum'un sınırları içinde yer alır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yamacında, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor. Güneytürbe Tepesi, özellikle bahar aylarında, misafirlerini güler yüzle karşılar. Tepenin iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer. Yaz ayları, sıcak ve nemli; kış ayları, soğuk ve yağışlı. Güneytürbe Tepesi, birçok su kaynağı ve dereye de ev sahipliği yapıyor. Tepenin çevresi, yemyeşil ormanlarla kaplı. Güneytürbe Tepesi, doğa severlerin, hem gezi hem de keşif noktalarından biri.
+Güneytürbe Tepesi, Karadeniz Bölgesi'nde, Çorum'un sınırları içinde yer alır. Tepenin yamacında, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor. Güneytürbe Tepesi, özellikle bahar aylarında, misafirlerini güler yüzle karşılar. Tepenin iklimi, Karadeniz Bölgesi'nin tipik iklimine benzer. Yaz ayları, sıcak ve nemli; kış ayları, soğuk ve yağışlı. Güneytürbe Tepesi, birçok su kaynağı ve dereye de ev sahipliği yapıyor. Tepenin çevresi, yemyeşil ormanlarla kaplı. Güneytürbe Tepesi, doğa severlerin, hem gezi hem de keşif noktalarından biri.
 
 ## Flora ve Fauna
 

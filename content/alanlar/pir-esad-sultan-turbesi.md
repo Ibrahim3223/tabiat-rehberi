@@ -1,7 +1,7 @@
 ---
 title: "Pir Esad Sultan Türbesi"
 date: "2026-01-10T05:28:31.190Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391372"
 
 # Pir Esad Sultan Türbesi
 
-Pir Esad Sultan Türbesi, İç Anadolu Bölgesi'nin merkezi city Konya'nın Karatay ilçesinde yer alan bir türbe ve plaj olarak dikkat çekmektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tarihi ve doğal güzelliği bir arada sunan bu mekan, ziyaretçilerini beklemektedir. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu türbenin ve plajın güzelliğini daha da artırmaktadır. Ziyaretçiler, tarihi ve doğal güzelliğin bir arada olduğu bu mekanın keyfini çıkarabilirler.
+Pir Esad Sultan Türbesi, İç Anadolu Bölgesi'nin merkezi city Konya'nın Karatay ilçesinde yer alan bir türbe ve plaj olarak dikkat çekmektedir. Tarihi ve doğal güzelliği bir arada sunan bu mekan, ziyaretçilerini beklemektedir. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu türbenin ve plajın güzelliğini daha da artırmaktadır. Ziyaretçiler, tarihi ve doğal güzelliğin bir arada olduğu bu mekanın keyfini çıkarabilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Pir Esad Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Pir Esad Sultan Türbesi, Karatay ilçesinde yer alan bir plaj ve türbe olarak coğrafi olarak önemli bir konuma sahiptir. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu türbenin ve plajın güzelliğini daha da artırmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava hüküm sürmektedir. Ziyaretçiler, bu coğrafi özellikler hakkında bilgi sahibi olabilirler. Türbenin çevresi, çeşitli bitki türleri ile kaplıdır ve zengin fauna özellikleri göstermektedir. Doğal güzelliği ve coğrafi özellikleri ile Pir Esad Sultan Türbesi, ziyaretçilerini beklemektedir.
+Pir Esad Sultan Türbesi, Karatay ilçesinde yer alan bir plaj ve türbe olarak coğrafi olarak önemli bir konuma sahiptir. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu türbenin ve plajın güzelliğini daha da artırmaktadır. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Yaz aylarında sıcak ve kurak, kış aylarında soğuk ve karlı bir hava hüküm sürmektedir. Ziyaretçiler, bu coğrafi özellikler hakkında bilgi sahibi olabilirler. Türbenin çevresi, çeşitli bitki türleri ile kaplıdır ve zengin fauna özellikleri göstermektedir. Doğal güzelliği ve coğrafi özellikleri ile Pir Esad Sultan Türbesi, ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 

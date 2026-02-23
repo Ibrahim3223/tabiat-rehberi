@@ -1,7 +1,7 @@
 ---
 title: "Emir Ali Baba Türbesi"
 date: "2026-01-10T06:52:13.457Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390759"
 
 # Emir Ali Baba Türbesi
 
-Emir Ali Baba Türbesi, Çanakkale'nin Gelibolu ilçesinde yer alan bir tarihi mekan ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle kaplıdır. Bu özel mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Gelibolu'nun tarihi geçmişi, Emir Ali Baba Türbesi'nin bulunduğu bölgede de hissedilir. Türbenin etrafındaki doğal güzellikler, ziyaretçilere huzurlu bir atmosfer sunar.
+Emir Ali Baba Türbesi, Çanakkale'nin Gelibolu ilçesinde yer alan bir tarihi mekan ve plaj alanıdır. Bu özel mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Gelibolu'nun tarihi geçmişi, Emir Ali Baba Türbesi'nin bulunduğu bölgede de hissedilir. Türbenin etrafındaki doğal güzellikler, ziyaretçilere huzurlu bir atmosfer sunar.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Muğla'nın doğası, Kabalak Dağı gibi gizli hazinelerle dolu. Bu dağ, Muğl
 
 ## Tarihçe
 
-Muğla bölgesi, tarihin sâu sayfalarında önemli bir yer tutmuş, çeşitli uygarlıkların izlerini taşıyan zengin bir coğrafyadır. Bu bölge, tarih boyunca Likya, Karya ve Roma uygarlıklarının etkilerini görme mümkündür. Kabalak Dağı da, bu tarihsel zenginliğin bir parçasını oluşturan doğal güzelliklerden biridir.
+Muğla bölgesi, tarihin derin sayfalarında önemli bir yer tutmuş, çeşitli uygarlıkların izlerini taşıyan zengin bir coğrafyadır. Bu bölge, tarih boyunca Likya, Karya ve Roma uygarlıklarının etkilerini görme mümkündür. Kabalak Dağı da, bu tarihsel zenginliğin bir parçasını oluşturan doğal güzelliklerden biridir.
 
 Tarih boyunca, insanlar bu dağlık alanları yaylacılık, hayvancılık ve ticaret yolları için kullanmışlardır. Bu doğal güzellikler, yalnızca yerel halkın değil, aynı zamanda ticaret kervanlarının ve seyahat edenlerin de önemli durak noktaları olmuştur. Türkiye'de, bu tür doğal alanlar tarihsel olarak önemli olmuştur, çünkü insanların geçim kaynaklarını sağlamada, kültür ve ticaretin gelişiminde önemli roller oynamışlardır.
 

@@ -32,7 +32,7 @@ Ağrı'nın dağlık arazilerinde yer alan Buzkaya Dağı, Türkiye'nin doğusun
 
 ## Tarihçe
 
-Ağrı Bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu bölgede, Urartular, Medler, Persler ve Osmanlılar gibi çeşitli uygarlıklar yaşamıştır. Buzkaya Dağı da bu tarihsel zenginliğin bir parçasını oluşturur. Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde bulunan doğal alanlar, yüzyıllar boyunca insanların yaşantısını şekillendirmiştir. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgenin ekonomi ve kültürel yaşamında önemli bir yer tutmuştur.
+Ağrı Bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu bölgede, Urartular, Medler, Persler ve Osmanlılar gibi çeşitli uygarlıklar yaşamıştır. Buzkaya Dağı da bu tarihsel zenginliğin bir parçasını oluşturur. Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde bulunan doğal alanlar, yüzyıllar boyunca insanların yaşantısını şekillendirmiştir. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgenin ekonomi ve kültürel yaşamında önemli bir yer tutmuştur.
 
 Ağrı Bölgesi, tarihi İpek Yolu'nun önemli bir durağı olarak da bilinir. Bu ticaret yolu, bölgenin ekonomi ve kültürel gelişimine büyük katkıda bulunmuştur. Buzkaya Dağı'nın eteklerinde ve çevresinde, insanların bu doğal alanlarla olan ilişkisi, yüzyıllar boyunca devam etmiştir. Bu bölge, aynı zamanda Türk halk kültürünün önemli bir parçasını oluşturan yaylacılık geleneğinin de önemli merkezlerinden biridir. Bu doğal güzellikler, insanların yaşamını sürdürdüğü, ekonomik faaliyetler gerçekleştirdiği ve kültürel değerlerini koruduğu önemli alanlardır.
 
@@ -48,10 +48,10 @@ Jeolojik açıdan bakıldığında, Buzkaya Dağı'nın fiziksel yapısı hakkı
 
 ## Flora ve Fauna
 
-Buzkaya Dağı, Ağrı'nın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Buzkaya Dağı, Ağrı'nın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açar ve alpin çayırlar renklenir. Bu dönemde, dağ keçileri ve yaban keçileri bu çayırlarda otlarken, kartallar ve şahinler ise yükseklikte avlarını beklerler.
 
-Yaban hayatının çeşitliliği, bu dağ ekosistemini özel kılar. Memeliler, kuşlar ve sürüngenler, bu yükseklikte yaşamaya adapte olmuşlardır. Kışın, bazı kuş türleri göç ederken, diğerleri dağların yüksekliklerine çıkarak daha soğuk bölgelerde yaşamlarını sürdürürler. 
+Yaban hayatının çeşitliliği, bu dağ ekosistemini özel kılar. Memeliler, kuşlar ve sürüngenler, bu yükseklikte yaşamaya adapte olmuşlardır. Kışın, bazı kuş türleri göç ederken, diğerleri dağların yüksekliklerine çıkarak daha soğuk bölgelerde yaşamlarını sürdürürler.
 
 Buzkaya Dağı, yüksek dağ ekolojisi ve alpin çayırların bir arada bulunduğu ender bölgelerden biri. Bu nedenle, koruma altına alınması ve doğal dengenin korunması büyük önem taşır.
 

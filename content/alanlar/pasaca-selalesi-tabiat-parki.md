@@ -29,7 +29,7 @@ wikidata_id: "Q21526811"
 
 # Paşaca Şelalesi Tabiat Parkı
 
-Paşaca Şelalesi Tabiat Parkı, Giresun'un doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı ve şelalesi ile ziyaretçilerini büyülüyor. Şelalenin güzelliği, ziyaretçilerin huzur ve sükunet bulmasına yardımcı oluyor. Ayrıca, parkın geniş yeşil alanları, ziyaretçilerin doğayla iç içe olmak için ideal bir ortam sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilerin doğa yürüyüşleri yapmasına ve doğanın güzelliklerini keşfetmesine olanak tanıyor.
+Paşaca Şelalesi Tabiat Parkı, Giresun'un doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık yeşil alanı ve şelalesi ile ziyaretçilerini büyülüyor. Şelalenin güzelliği, ziyaretçilerin huzur ve sükunet bulmasına yardımcı oluyor. Ayrıca, parkın geniş yeşil alanları, ziyaretçilerin doğayla iç içe olmak için ideal bir ortam sunuyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Paşaca Şelalesi Tabiat Parkı, ziyaretçilerine çeşitli olanaklar sunuyor. P
 ## İlginç Bilgiler
 
 - Paşaca Şelalesi Tabiat Parkı, Giresun'un en önemli turizm noktalarından biri.
-- Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Parkın şelalesi, ziyaretçilerin en çok ilgisini çeken özellik.
 - Parkın fauna çeşitliliği, çeşitli hayvan türlerini barındırıyor.
 - Parkın çevresinde, ziyaretçilerin konaklayabileceği tesisler bulunuyor.

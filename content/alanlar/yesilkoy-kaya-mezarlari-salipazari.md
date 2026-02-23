@@ -29,7 +29,7 @@ wikidata_id: "Q134728199"
 
 # Yeşilköy Kaya Mezarları Salıpazarı
 
-Yeşilköy Kaya Mezarları Salıpazarı, Samsun'un Salıpazarı ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir keşif alanı sunuyor. Bu kaya mezarları, yüzyıllar önce yaşamış insanların yaşantılarını ve kültürlerini yansıtan önemli bir tarihi mirastır. Doğal güzelliği ile de dikkat çekici olan bu bölge, Karadeniz Bölgesi'nin eşsiz manzaralarına ev sahipliği yapıyor.
+Yeşilköy Kaya Mezarları Salıpazarı, Samsun'un Salıpazarı ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren bir destinasyondur. Bu kaya mezarları, yüzyıllar önce yaşamış insanların yaşantılarını ve kültürlerini yansıtan önemli bir tarihi mirastır. Doğal güzelliği ile de dikkat çekici olan bu bölge, Karadeniz Bölgesi'nin eşsiz manzaralarına ev sahipliği yapıyor.
 
 ## Tarihçe
 

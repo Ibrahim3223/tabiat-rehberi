@@ -28,7 +28,7 @@ wikidata_id: "Q34873741"
 
 # Hafşegüre Tepesi
 
-Hafşegüre Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Hafşegüre Tepesi, Mardin'in merkezine yakın bir konumda yer alıyor ve şehrin tarihi dokusunu koruyor. Tepenin etrafında, çeşitli bitki türleri ve yaban hayatının yaşadığı bir ekosistem bulunuyor. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak kabul ediliyor.
+Hafşegüre Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Hafşegüre Tepesi, Mardin'in merkezine yakın bir konumda yer alıyor ve şehrin tarihi dokusunu koruyor. Tepenin etrafında, çeşitli bitki türleri ve yaban hayatının yaşadığı bir ekosistem bulunuyor. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hafşegüre Tepesi, tarihsel olarak önemli bir geçmişe sahip. Bu tepe, yüzy�
 
 ## Coğrafya
 
-Hafşegüre Tepesi, coğrafi olarak Mardin'in merkezi bir konumunda yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin etrafında, çeşitli bitki türleri ve yaban hayatının yaşadığı bir ekosistem bulunuyor. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasını şekillendirmiş ve burada yaşayan canlıların adaptasyonlarını etkilemiş. Hafşegüre Tepesi, coğrafi konumu ve doğal güzellikleri ile dikkat çekiyor. Tepenin manzarası, Mardin'in tarihi dokusunu ve doğal güzelliklerini bir arada sunuyor.
+Hafşegüre Tepesi, coğrafi olarak Mardin'in merkezi bir konumunda yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve yaban hayatının yaşadığı bir ekosistem bulunuyor. Bölgenin iklimi, Güneydoğu Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bu iklim, bölgenin flora ve faunasını şekillendirmiş ve burada yaşayan canlıların adaptasyonlarını etkilemiş. Hafşegüre Tepesi, coğrafi konumu ve doğal güzellikleri ile dikkat çekiyor. Tepenin manzarası, Mardin'in tarihi dokusunu ve doğal güzelliklerini bir arada sunuyor.
 
 ## Flora ve Fauna
 

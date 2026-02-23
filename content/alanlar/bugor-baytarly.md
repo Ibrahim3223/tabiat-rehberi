@@ -28,7 +28,7 @@ wikidata_id: "Q31386454"
 
 # Bugor Baytarly
 
-Hatay'da yer alan Bugor Baytarly, Akdeniz Bölgesi'nin önemli noktalarından biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgenin tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta. Ziyaretçiler, bu tepeye çıktıklarında, Akdeniz Bölgesi'nin muhteşem manzarasını seyretme fırsatı buluyorlar. Ayrıca, bu tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini gösteriyor.
+Hatay'da yer alan Bugor Baytarly, Akdeniz Bölgesi'nin önemli noktalarından biri. Bu tepe, bölgenin tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta. Ziyaretçiler, bu tepeye çıktıklarında, Akdeniz Bölgesi'nin muhteşem manzarasını seyretme fırsatı buluyorlar. Ayrıca, bu tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini gösteriyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Bugor Baytarly, coğrafi olarak oldukça zengin bir bölge. Bu tepe, Akdeniz Bö
 
 ## Flora ve Fauna
 
-Bugor Baytarly, flora ve fauna açısından oldukça zengin bir bölge. Bu tepe, çeşitli bitki türlerini barındırıyor. Mevsimsel değişimler, bu bitki türlerinin renklerini değiştiriyor. İlkbahar ve yaz aylarında, bu tepenin etrafında yer alan çiçekler, bölgenin renklerini dolduruyor. Kış aylarında ise, bu tepenin eteklerinde yer alan ağaçlar, bölgenin manzarasına farklı bir renk katıyor. Ayrıca, bu tepenin etrafında yer alan hayvanlar, bölgenin fauna zenginliğini gösteriyor. Ziyaretçiler, bu tepenin etrafında yer alan çeşitli canlıları görebiliyorlar.
+ Bu tepe, çeşitli bitki türlerini barındırıyor. Mevsimsel değişimler, bu bitki türlerinin renklerini değiştiriyor. İlkbahar ve yaz aylarında, bu tepenin etrafında yer alan çiçekler, bölgenin renklerini dolduruyor. Kış aylarında ise, bu tepenin eteklerinde yer alan ağaçlar, bölgenin manzarasına farklı bir renk katıyor. Ayrıca, bu tepenin etrafında yer alan hayvanlar, bölgenin fauna zenginliğini gösteriyor. Ziyaretçiler, bu tepenin etrafında yer alan çeşitli canlıları görebiliyorlar.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,7 @@ Bugor Baytarly'yi ziyaret etmek, oldukça keyifli bir deneyim. Ziyaretçiler, bu
 ## İlginç Bilgiler
 
 - Bu tepe, Akdeniz Bölgesi'nin önemli noktalarından biri.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Tarihi geçmişi, yüzyıllar boyunca şekillenmiş.
 - Coğrafi olarak oldukça zengin bir bölge.
-- Flora ve fauna açısından oldukça zengin bir bölge.
+

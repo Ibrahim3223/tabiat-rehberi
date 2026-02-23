@@ -32,9 +32,9 @@ Kütahya'nın doğal güzelliklerini keşfederken, Tavşan Dağı ilk dikkati ç
 
 ## Tarihçe
 
-Kütahya bölgesinin zengin tarihi, Tavşan Dağı'nın eteklerinde de hissedilir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı bir coğrafyada yer alır. Frigler, Lidyalılar, Persler ve Roma İmparatorluğu gibi büyük medeniyetler, Kütahya'yı önemli bir merkez olarak görmüşlerdir. 
+Kütahya bölgesinin zengin tarihi, Tavşan Dağı'nın eteklerinde de hissedilir. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı bir coğrafyada yer alır. Frigler, Lidyalılar, Persler ve Roma İmparatorluğu gibi büyük medeniyetler, Kütahya'yı önemli bir merkez olarak görmüşlerdir.
 
-Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. İnsanlar, binlerce yıl boyunca bu bölgelerde yaşamlarını sürdürmüş, yaylacılık, hayvancılık ve tarım gibi faaliyetlerle geçimlerini sağlamışlardır. Ayrıca, tarih boyunca ticaret yolları üzerinde bulunan Kütahya, farklı kültürlerin bir araya geldiği bir bölge olarak da dikkat çeker. 
+Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. İnsanlar, binlerce yıl boyunca bu bölgelerde yaşamlarını sürdürmüş, yaylacılık, hayvancılık ve tarım gibi faaliyetlerle geçimlerini sağlamışlardır. Ayrıca, tarih boyunca ticaret yolları üzerinde bulunan Kütahya, farklı kültürlerin bir araya geldiği bir bölge olarak da dikkat çeker.
 
 Tavşan Dağı, bu tarihsel bağlam içinde, insanların doğa ile iç içe yaşadığı bir bölgede yer alır. Bölgedeki insanların bu doğal alanlarla olan ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlar da taşır. Bu nedenle, Tavşan Dağı, sadece bir doğal güzellik değil, aynı zamanda bir tarihsel miras olarak da görülebilir.
 
@@ -50,7 +50,7 @@ Tavşan Dağı, komşu alanlar ve su kaynakları ile bağlantılı bir ekosistem
 
 ## Flora ve Fauna
 
-Tavşan Dağı'nın flora ve fauna zenginliği, ziyaretçilerini bir doğa harikasına davet ediyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Tavşan Dağı'nın flora ve fauna zenginliği, ziyaretçilerini bir doğa harikasına davet ediyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çiçekler açıyor, çam ormanları ve zeytinlikler yeşilleniyor. Mevsimsel değişimlerle birlikte, dağda bulunan alpin flora çeşitliliği dikkat çekiyor.
 

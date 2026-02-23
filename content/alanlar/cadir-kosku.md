@@ -30,11 +30,11 @@ wikidata_id: "Q6100184"
 
 # Çadır Köşkü
 
-Çadır Köşkü, İstanbul'un kalbinde, Beşiktaş'ta yer alan ve Marmara Bölgesi'nin doğal güzelliklerini sunan bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet vermektedir. Çadır Köşkü'nün sunduğu manzaralar, ziyaretçilerine både deniz ve doğanın birleştiği eşsiz bir görünüm sunar. Bu muhteşem yer, hem yerli hem de yabancı turistler tarafından ziyaret edilmektedir.
+Çadır Köşkü, İstanbul'un kalbinde, Beşiktaş'ta yer alan ve Marmara Bölgesi'nin doğal güzelliklerini sunan bir plajdır. Çadır Köşkü'nün sunduğu manzaralar, ziyaretçilerine både deniz ve doğanın birleştiği eşsiz bir görünüm sunar.
 
 ## Tarihçe
 
-Çadır Köşkü'nün tarihi geçmişi, İstanbul'un tarihi ile iç içe geçmiş durumdadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır. Çadır Köşkü, özellikle Osmanlı döneminde önemli bir merkez olarak kullanılmış ve çeşitli etkinliklere ev sahipliği yapmıştır. Bu nedenle, burayı ziyaret etmek, sadece doğal güzelliklerini görmek değil, aynı zamanda tarihin sâu izlerini keşfetmek anlamına da gelmektedir. Çadır Köşkü, İstanbul'un tarihini ve kültürünü anlamak için önemli bir noktadır.
+Çadır Köşkü'nün tarihi geçmişi, İstanbul'un tarihi ile iç içe geçmiş durumdadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır. Çadır Köşkü, özellikle Osmanlı döneminde önemli bir merkez olarak kullanılmış ve çeşitli etkinliklere ev sahipliği yapmıştır. Bu nedenle, burayı ziyaret etmek, sadece doğal güzelliklerini görmek değil, aynı zamanda tarihin derin izlerini keşfetmek anlamına da gelmektedir. Çadır Köşkü, İstanbul'un tarihini ve kültürünü anlamak için önemli bir noktadır.
 
 ## Coğrafya
 

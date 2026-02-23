@@ -28,7 +28,7 @@ wikidata_id: "Q31562807"
 
 # Kusba Tepesi
 
-Kusba Tepesi, Trabzon'un Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini büyüleyici manzarasıyla karşılar. Kusba Tepesi'nin yüksekliği ve konumu, ziyaretçilere bölgeyi panoramik olarak görmelerine olanak sağlar. Bu tepe, aynı zamanda yöre halkının ve ziyaretçilerin doğayı keşfetme ve doğayla iç içe olmak için tercih ettikleri bir yerdir. Kusba Tepesi, Trabzon'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Kusba Tepesi, Trabzon'un Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. Kusba Tepesi'nin yüksekliği ve konumu, ziyaretçilere bölgeyi panoramik olarak görmelerine olanak sağlar. Bu tepe, aynı zamanda yöre halkının ve ziyaretçilerin doğayı keşfetme ve doğayla iç içe olmak için tercih ettikleri bir yerdir. Kusba Tepesi, Trabzon'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

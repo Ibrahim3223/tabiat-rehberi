@@ -1,7 +1,7 @@
 ---
 title: "Abdullah El-Hudri Türbesi"
 date: "2026-01-10T07:24:15.410Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,15 +29,15 @@ wikidata_id: "Q131391029"
 
 # Abdullah El-Hudri Türbesi
 
-İstanbul'un tarihi dokusu içinde yer alan Abdullah El-Hudri Türbesi, Fatih ilçesinde bulunmaktadır. Bu önemli tarihi mekan, Marmara Bölgesi'nin kalbi olan İstanbul'un kültürel zenginliklerini yansıtmaktadır. 140 hektarlık bir alanın içerisinde yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tarihi geçmişi ile dikkat çeken Abdullah El-Hudri Türbesi, ziyaretçilerini İstanbul'un derin tarihine davet etmektedir.
+İstanbul'un tarihi dokusu içinde yer alan Abdullah El-Hudri Türbesi, Fatih ilçesinde bulunmaktadır. Bu önemli tarihi mekan, Marmara Bölgesi'nin kalbi olan İstanbul'un kültürel zenginliklerini yansıtmaktadır. Tarihi geçmişi ile dikkat çeken Abdullah El-Hudri Türbesi, ziyaretçilerini İstanbul'un derin tarihine davet etmektedir.
 
 ## Tarihçe
 
-Abdullah El-Hudri Türbesi, tarihi geçmişi ile önemli bir kültürel miras olarak görülmektedir. İstanbul'un fethi sırasında önemli rol oynayan tarihi figürler arasında yer alan Abdullah El-Hudri, bu türbenin içinde yatmaktadır. Osmanlı Devleti'nin kuruluş ve genişleme döneminde önemli roller oynamış birçok tarihi figürün türbesi gibi, Abdullah El-Hudri Türbesi de İstanbul'un tarihini anlamak için önemli bir noktadır. Tarihi olayların yaşandığı bu mekan, ziyaretçilere İstanbul'un derin tarihini keşfetme fırsatı sunmaktadır. Yüzyıllar boyunca birçok önemli olaya tanıklık etmiş olan Abdullah El-Hudri Türbesi, İstanbul'un tarihini öğrenmek isteyenler için önemli bir destinasyondur.
+Abdullah El-Hudri Türbesi, tarihi geçmişi ile önemli bir kültürel miras olarak görülmektedir. İstanbul'un fethi sırasında önemli rol oynayan tarihi figürler arasında yer alan Abdullah El-Hudri, bu türbenin içinde yatmaktadır. Osmanlı Devleti'nin kuruluş ve genişleme döneminde önemli roller oynamış birçok tarihi figürün türbesi gibi, Abdullah El-Hudri Türbesi de İstanbul'un tarihini anlamak için önemli bir noktadır. Yüzyıllar boyunca birçok önemli olaya tanıklık etmiş olan Abdullah El-Hudri Türbesi, İstanbul'un tarihini öğrenmek isteyenler için önemli bir destinasyondur.
 
 ## Coğrafya
 
-Abdullah El-Hudri Türbesi, İstanbul'un Fatih ilçesinde yer almaktadır. Marmara Bölgesi'nin en büyük şehri olan İstanbul, coğrafi olarak önemli bir konumda bulunmaktadır. İstanbul Boğazı, Karadeniz ve Marmara Denizi arasında yer alan bu şehir, tarih boyunca stratejik öneme sahip olmuştur. Abdullah El-Hudri Türbesi, İstanbul'un tarihi merkezi olarak bilinen Fatih ilçesinde yer almaktadır. Bu bölge, İstanbul'un fethi sırasında önemli bir rol oynamıştır. Türbe, 140 hektarlık bir alan içerisinde yer almakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. İstanbul'un coğrafi yapısı, tarihi mekanların arasında yer alan Abdullah El-Hudri Türbesi gibi önemli kültürel mirasları barındırmaktadır. Bu türbe, İstanbul'un coğrafi konumunun tarihi öneminin bir göstergesi olarak görülmektedir.
+Abdullah El-Hudri Türbesi, İstanbul'un Fatih ilçesinde yer almaktadır. Marmara Bölgesi'nin en büyük şehri olan İstanbul, coğrafi olarak önemli bir konumda bulunmaktadır. İstanbul Boğazı, Karadeniz ve Marmara Denizi arasında yer alan bu şehir, tarih boyunca stratejik öneme sahip olmuştur. Abdullah El-Hudri Türbesi, İstanbul'un tarihi merkezi olarak bilinen Fatih ilçesinde yer almaktadır. Bu bölge, İstanbul'un fethi sırasında önemli bir rol oynamıştır. İstanbul'un coğrafi yapısı, tarihi mekanların arasında yer alan Abdullah El-Hudri Türbesi gibi önemli kültürel mirasları barındırmaktadır. Bu türbe, İstanbul'un coğrafi konumunun tarihi öneminin bir göstergesi olarak görülmektedir.
 
 ## Flora ve Fauna
 

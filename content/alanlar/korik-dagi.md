@@ -32,7 +32,7 @@ Bingöl'un doğal güzelliklerinin arasında yer alan Körik Dağı, ziyaretçil
 
 ## Tarihçe
 
-Körik Dağı, Türkiye'nin doğusunda, Bingöl ilinin sınırları içerisinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bingöl, çeşitli uygarlıkların yaşadığı bir coğrafyada bulunmaktadır. Hitit, Urartu, Pers ve Roma gibi medeniyetler, bu topraklarda izlerini bırakmışlardır.
+Körik Dağı, Türkiye'nin doğusunda, Bingöl ilinin sınırları içerisinde yer alan bir doğal güzellik alanıdır. Bu bölge, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bingöl, çeşitli uygarlıkların yaşadığı bir coğrafyada bulunmaktadır. Hitit, Urartu, Pers ve Roma gibi medeniyetler, bu topraklarda izlerini bırakmışlardır.
 
 Bu tür doğal alanlar, Türkiye'nin kültürel ve coğrafi mirasının önemli bir parçasını oluşturmaktadır. Yayla ve dağlık bölgeler, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve tarım faaliyetleri gerçekleştirdikleri yerler olarak görev görmüşlerdir. Körik Dağı da, bu bağlamda, bölgede yaşayan halkın geleneksel yaşam tarzlarına ev sahipliği yapmıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu doğal alanların önemini artıran faktörler arasında yer almaktadır. Körik Dağı, Türkiye'nin zengin doğal ve kültürel çeşitliliğinin bir parçası olarak, ziyaretçilerini tarihin derinliklerine götürmeye hazırdır.
 
@@ -50,9 +50,9 @@ Bölgenin iklim karakteri, Körik Dağı'nın coğrafi yapısını etkileyen ön
 
 Körik Dağı, Doğu Anadolu'nun yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu dağlık alan, İstanbul'un toplam yüzölçümünün yaklaşık olarak %0.2'sine tekabül eder. Yükseklik zonlarına bağlı olarak değişen flora ve fauna, bu bölgenin benzersizliğini gösterir.
 
-Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçları renklendirilir. Çeşitli çiçek türleri, alpin çayırları süsler. Sonbaharda, yaprak dökümüyle birlikte dağ manzarası değişir. 
+Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçları renklendirilir. Çeşitli çiçek türleri, alpin çayırları süsler. Sonbaharda, yaprak dökümüyle birlikte dağ manzarası değişir.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, yaban keçileri ve ayılar gibi büyük memeliler, bölgenin yüksek kesimlerinde yaşar. Kuşlar ise, göç mevsimlerinde bu dağları geçiş noktası olarak kullanır. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, yaban keçileri ve ayılar gibi büyük memeliler, bölgenin yüksek kesimlerinde yaşar. Kuşlar ise, göç mevsimlerinde bu dağları geçiş noktası olarak kullanır.
 
 Körik Dağı, yüksek dağ ekosisteminin korunması açısından önemlidir. Bu alanın ekolojik değerini korumak, gelecek nesiller için hayati önem taşır.
 

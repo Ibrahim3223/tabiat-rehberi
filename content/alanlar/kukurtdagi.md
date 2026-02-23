@@ -28,7 +28,7 @@ wikidata_id: "Q32210717"
 
 # Kükürtdağı
 
-Kükürtdağı, Afyonkarahisar ilinin sınırları içerisinde yer alan bir tepedir. Bu tepe, Ege Bölgesi'nin önemli coğrafi oluşumlarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, çevredeki diğer tepelerle birlikte bir bütünü oluşturur. Kükürtdağı, doğa severler ve gezi tutkunları için önemli bir destinasyondur. Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Kükürtdağı'nın eteklerinde ve çevresinde çeşitli bitki türleri yetişir ve bu bölgede yaşayan hayvanlar, bölgenin ekolojik dengesini sağlar.
+Kükürtdağı, Afyonkarahisar ilinin sınırları içerisinde yer alan bir tepedir. Bu tepe, Ege Bölgesi'nin önemli coğrafi oluşumlarından biridir. Kükürtdağı, doğa severler ve gezi tutkunları için önemli bir destinasyondur. Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker. Kükürtdağı'nın eteklerinde ve çevresinde çeşitli bitki türleri yetişir ve bu bölgede yaşayan hayvanlar, bölgenin ekolojik dengesini sağlar.
 
 ## Tarihçe
 

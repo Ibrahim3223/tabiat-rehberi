@@ -22,7 +22,7 @@ wikidata_id: "Q108228800"
 
 # GAP ŞELALESİ_TP
 
-İç Anadolu Bölgesi'nin kalbinde yer alan GAP Şelalesi, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini büyülüyor. Bu muhteşem doğal güzelliğin içerisinde, yaklaşık 200 futbol sahası büyüklüğünde bir alan, ziyaretçilere sakin ve dinlendirici bir atmosfer sunuyor. GAP Şelalesi, doğa severlerin ve macera arayışındaki kişilerin önemli bir destinasyon olarak kabul ediliyor. Yeşilin her tonunu görebileceğiniz bu doğal cennet, ziyaretçiler için gerçek bir huzur kaynağı.
+İç Anadolu Bölgesi'nin kalbinde yer alan GAP Şelalesi, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini büyülüyor. GAP Şelalesi, doğa severlerin ve macera arayışındaki kişilerin önemli bir destinasyon olarak kabul ediliyor. Yeşilin her tonunu görebileceğiniz bu doğal cennet, ziyaretçiler için gerçek bir huzur kaynağı.
 
 ## Tarihçe
 

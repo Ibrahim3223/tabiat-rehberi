@@ -22,7 +22,7 @@ wikidata_id: "Q108228686"
 
 # ERİKÇE
 
-ERİKÇE milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, yaban hayatı ve ekosistemiyle dikkat çekici bir destinasyon. Doğa severler için gerçek bir cennet olan ERİKÇE, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. 70 hektarlık bölümü ormanla kaplı olan bu milli park, aynı zamanda birçok endemik türün de yaşam alanı.
+ Bu bölge, yaban hayatı ve ekosistemiyle dikkat çekici bir destinasyon. Doğa severler için gerçek bir cennet olan ERİKÇE, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor. 70 hektarlık bölümü ormanla kaplı olan bu milli park, aynı zamanda birçok endemik türün de yaşam alanı.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ ERİKÇE milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-ERİKÇE milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden birinde yer alır. Parkın coğrafi yapısı, dağlar, ormanlar ve vadilerden oluşur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve bölgenin flora ve faunasını keşfetme fırsatı verir. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasının şekillenmesinde önemli bir rol oynar. ERİKÇE milli parkının coğrafi konumu ve iklimi, burada yaşayan çeşitli bitki ve hayvan türleri için ideal bir ortam sağlar.
+ERİKÇE milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden birinde yer alır. Parkın coğrafi yapısı, dağlar, ormanlar ve vadilerden oluşur. Milli parkın coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve bölgenin flora ve faunasını keşfetme fırsatı verir. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve karasal bir yapıya sahiptir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasının şekillenmesinde önemli bir rol oynar. ERİKÇE milli parkının coğrafi konumu ve iklimi, burada yaşayan çeşitli bitki ve hayvan türleri için ideal bir ortam sağlar.
 
 ## Flora ve Fauna
 

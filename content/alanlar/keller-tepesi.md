@@ -29,7 +29,7 @@ wikidata_id: "Q31564573"
 
 # Keller Tepesi
 
-Keller Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan ve bölgeye hakim bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepenin eteklerinde çeşitli değil, çeşitli bitki türleri ve yaban hayatı bulunmaktadır. Keller Tepesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunmaktadır. Tepenin etrafında, Karadeniz'in muhteşem manzarasının yanı sıra, Samsun'un tarihi ve kültürel zenginliklerini keşfetme mümkün.
+Keller Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan ve bölgeye hakim bir tepe. Bu tepenin eteklerinde çeşitli değil, çeşitli bitki türleri ve yaban hayatı bulunmaktadır. Keller Tepesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunmaktadır. Tepenin etrafında, Karadeniz'in muhteşem manzarasının yanı sıra, Samsun'un tarihi ve kültürel zenginliklerini keşfetme mümkün.
 
 ## Tarihçe
 

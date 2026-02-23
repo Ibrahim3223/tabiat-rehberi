@@ -28,7 +28,7 @@ wikidata_id: "Q34877798"
 
 # Karaağaç Tepesi
 
-Karaağaç Tepesi, Aksaray'ın merkezi bir konumunda yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin karmaşasından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı, bu da onu doğa severler için bir cennet haline getiriyor. Karaağaç Tepesi, aynı zamanda şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir merkez.
+Karaağaç Tepesi, Aksaray'ın merkezi bir konumunda yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile kaplı, bu da onu doğa severler için bir cennet haline getiriyor. Karaağaç Tepesi, aynı zamanda şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir merkez.
 
 ## Tarihçe
 

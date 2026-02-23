@@ -28,7 +28,7 @@ wikidata_id: "Q32210394"
 
 # Köserlik Tepesi
 
-Köserlik Tepesi, Hatay'ın güzide noktalarından biri olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleri ile büyülüyor. Köserlik Tepesi, özellikle doğa severlerin ve trekkingưilarının ziyaret ettiği bir yer olarak biliniyor. Burada, birbirinden güzel manzaralar ve doğa ile iç içe bir deneyim bekliyor.
+Köserlik Tepesi, Hatay'ın güzide noktalarından biri olarak karşımıza çıkıyor. Köserlik Tepesi, özellikle doğa severlerin ve trekkingưilarının ziyaret ettiği bir yer olarak biliniyor. Burada, birbirinden güzel manzaralar ve doğa ile iç içe bir deneyim bekliyor.
 
 ## Tarihçe
 

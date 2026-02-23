@@ -28,7 +28,7 @@ wikidata_id: "Q31552548"
 
 # Tokluveli Tepesi
 
-Tokluveli Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren önemli bir nokta. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli bir bölümünü kapsıyor. Tepenin eteklerinde, Mardin'in tarihi evleri ve camileri yer alıyor. Tepenin zirvesinden, şehrin ve çevresinin güzel manzarasını izleyebilirsiniz. Tokluveli Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
+Tokluveli Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir araya getiren önemli bir nokta. Tepenin eteklerinde, Mardin'in tarihi evleri ve camileri yer alıyor. Tepenin zirvesinden, şehrin ve çevresinin güzel manzarasını izleyebilirsiniz. Tokluveli Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
 
 ## Tarihçe
 

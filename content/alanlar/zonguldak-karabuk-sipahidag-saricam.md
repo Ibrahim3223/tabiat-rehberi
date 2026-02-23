@@ -22,7 +22,7 @@ wikidata_id: "Q108228431"
 
 # Zonguldak-Karabük-Sipahidağ Sarıçam
 
-Zonguldak-Karabük-Sipahidağ Sarıçam Milli Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini bir araya getiren bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Parkın sunduğu manzaralar, ziyaretçilerin gözlerini doldururken, aynı zamanda bölgenin tarihi ve kültürel zenginlikleri de keşfedilmeyi bekliyor. Zongulda ve Karabük gibi önemli merkezlerin yakınında bulunan milli park, hem yerli hem de yabancı turistlerin ilgisini çekiyor.
+Zonguldak-Karabük-Sipahidağ Sarıçam Milli Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini bir araya getiren bir destinasyon. Parkın sunduğu manzaralar, ziyaretçilerin gözlerini doldururken, aynı zamanda bölgenin tarihi ve kültürel zenginlikleri de keşfedilmeyi bekliyor. Zongulda ve Karabük gibi önemli merkezlerin yakınında bulunan milli park, hem yerli hem de yabancı turistlerin ilgisini çekiyor.
 
 ## Tarihçe
 

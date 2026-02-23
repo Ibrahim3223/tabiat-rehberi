@@ -50,9 +50,9 @@ Doğal bir anıt olarak karşımıza çıkan Supürgeç Dağı, coğrafi konumun
 
 ## Flora ve Fauna
 
-Süpürgeç Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliğine ev sahipliği yapar. 
+Süpürgeç Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına bağlı olarak değişen flora çeşitliliğine ev sahipliği yapar.
 
-Bitki örtüsünün hakim türleri, bölgenin yükseklik zonlarına bağlı olarak değişir. Mevsimsel değişimlerle birlikte, dağ yamaçları farklı bir güzelliğe bürünür. Sonbaharın gelmesiyle, göç eden kuşlar dağları bir geçiş noktası olarak kullanır. Yaban hayatı da bu değişimden etkilenir. Memeliler ve sürüngenler, dağların yükseklik zonlarına göre yaşam alanlarını belirler. 
+Bitki örtüsünün hakim türleri, bölgenin yükseklik zonlarına bağlı olarak değişir. Mevsimsel değişimlerle birlikte, dağ yamaçları farklı bir güzelliğe bürünür. Sonbaharın gelmesiyle, göç eden kuşlar dağları bir geçiş noktası olarak kullanır. Yaban hayatı da bu değişimden etkilenir. Memeliler ve sürüngenler, dağların yükseklik zonlarına göre yaşam alanlarını belirler.
 
 Bu ekosistem, yüksek dağ ekolojisinin tüm canlılarını bir arada barındırır. Dağ hayvanları, alpin flora ile beslenir ve yaşam alanlarını bu floranın sunduğu olanaklara göre belirler. Ekolojik değerini koruma altına almak, bu dengenin bozulmaması için çok önemlidir.
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228730"
 
 # KIRIKHAN
 
-KIRIKHAN milli parkı, İç Anadolu Bölgesi'nin gizli cenneti olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet eder. KIRIKHAN, doğa severlerin ve eko-turizmi sevenlerin mutlaka ziyaret etmesi gereken bir destinasyondur. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz.
+KIRIKHAN milli parkı, İç Anadolu Bölgesi'nin gizli cenneti olarak bilinir. Bu doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet eder. KIRIKHAN, doğa severlerin ve eko-turizmi sevenlerin mutlaka ziyaret etmesi gereken bir destinasyondur. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ KIRIKHAN milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olara
 
 ## Flora ve Fauna
 
-KIRIKHAN milli parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Burada, ziyaretçiler, mevsimsel değişimlere göre farklı bitki türleri ve hayvanları gözlemleyebilirler. Parkın flora ve faunası, doğa severlerin ilgi odağıdır. KIRIKHAN, yaban hayatının korunması ve doğanın güzelliğinin keşfedilmesi için ideal bir destinasyondur. Burada, ziyaretçiler, doğanın güzelliğini ve canlıların çeşitliliğini gözlemleyerek, doğa ile iç içe olabilirler.
+ Burada, ziyaretçiler, mevsimsel değişimlere göre farklı bitki türleri ve hayvanları gözlemleyebilirler. Parkın flora ve faunası, doğa severlerin ilgi odağıdır. KIRIKHAN, yaban hayatının korunması ve doğanın güzelliğinin keşfedilmesi için ideal bir destinasyondur. Burada, ziyaretçiler, doğanın güzelliğini ve canlıların çeşitliliğini gözlemleyerek, doğa ile iç içe olabilirler.
 
 ## Ziyaret Bilgileri
 

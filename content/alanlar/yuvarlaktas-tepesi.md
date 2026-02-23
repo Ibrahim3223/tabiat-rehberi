@@ -28,7 +28,7 @@ wikidata_id: "Q31387454"
 
 # Yuvarlaktaş Tepesi
 
-Yuvarlaktaş Tepesi, Van ilinin eşsiz güzellikteki noktalarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş arazi, ziyaretçilere geniş bir panorama sunar. Bu tepe, Van'ın coğrafi yapısının önemli bir parçasıdır ve bölgenin tarihi geçmişi hakkında bilgi edinmek için ideal bir noktadır. Yuvarlaktaş Tepesi, doğa severlerin ve tarih meraklılarının ilgisini çeker. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı da oldukça zengindir.
+Yuvarlaktaş Tepesi, Van ilinin eşsiz güzellikteki noktalarından biridir. Bu tepe, Van'ın coğrafi yapısının önemli bir parçasıdır ve bölgenin tarihi geçmişi hakkında bilgi edinmek için ideal bir noktadır. Yuvarlaktaş Tepesi, doğa severlerin ve tarih meraklılarının ilgisini çeker. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur ve bu bölgede yaban hayatı da oldukça zengindir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Yuvarlaktaş Tepesi, Van ilinin coğrafi yapısında önemli bir yer tutar. Bu t
 
 ## Flora ve Fauna
 
-Yuvarlaktaş Tepesi, flora ve fauna açısından oldukça zengindir. Bu bölgede, çeşitli bitki türleri bulunur ve yaban hayatı da oldukça çeşitlidir. Ziyaretçiler, bu bölgede birçok farklı hayvan türüyle karşılaşabilir ve bölgenin doğal güzelliğini discovery edebilir. Yuvarlaktaş Tepesi, mevsimsel değişimlere göre, farklı bir güzelliğe sahiptir. İlkbahar ve yaz aylarında, bu tepe, yeşilin farklı tonlarıyla kaplıdır ve ziyaretçilere bir doğa harikası sunar. Sonbahar ve kış aylarında ise, tepenin manzarası, farklı bir güzelliğe bürünür ve ziyaretçilere, karla kaplı bir panorama sunar.
+ Bu bölgede, çeşitli bitki türleri bulunur ve yaban hayatı da oldukça çeşitlidir. Ziyaretçiler, bu bölgede birçok farklı hayvan türüyle karşılaşabilir ve bölgenin doğal güzelliğini discovery edebilir. Yuvarlaktaş Tepesi, mevsimsel değişimlere göre, farklı bir güzelliğe sahiptir. İlkbahar ve yaz aylarında, bu tepe, yeşilin farklı tonlarıyla kaplıdır ve ziyaretçilere bir doğa harikası sunar. Sonbahar ve kış aylarında ise, tepenin manzarası, farklı bir güzelliğe bürünür ve ziyaretçilere, karla kaplı bir panorama sunar.
 
 ## Ziyaret Bilgileri
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228149"
 
 # Gümeli
 
-Gümeli milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan yaklaşık 140 hektarlık bir yeşil alan olarak karşımıza çıkmaktadır. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine hem doğanın güzelliklerini keşfetme hem de çeşitli etkinlikler yapma fırsatı sunmaktadır. Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin doğa ile iç içe zaman geçirmelerine olanak tanır. Gümeli milli parkı, İlerleyen mevsimlerde farklı renklerle donanarak, her sezon ziyaretçilerine benzersiz bir deneyim sunar.
+Gümeli milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan yaklaşık 140 hektarlık bir yeşil alan olarak karşımıza çıkmaktadır. Parkın içinde yer alan yürüyüş yolları, ziyaretçilerin doğa ile iç içe zaman geçirmelerine olanak tanır. Gümeli milli parkı, İlerleyen mevsimlerde farklı renklerle donanarak, her sezon ziyaretçilerine benzersiz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Gümeli milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak bir konumda yer 
 
 ## Flora ve Fauna
 
-Gümeli milli parkı, zengin bir flora ve fauna çeşitliliğine sahiptir. Parkın içinde yer alan ormanlık alanlar, çeşitli ağaç türleri ile dolu olup, bu ağaçlar, ziyaretçilere gölgeli ve serin bir ortam sunar. Parkın flora çeşitliliği, mevsimsel olarak değişkenlik göstermekte olup, her mevsim ziyaretçilere farklı bir ren ve koku sunar. Fauna açısından da zengin olan park, çeşitli kuş türleri, memeliler ve sürüngenler gibi canlıları barındırmaktadır. Bu canlılar, parkın ekosistemini zenginleştirmekte ve ziyaretçilere doğayı keşfetme fırsatı sunmaktadır.
+Gümeli milli parkı, zengin bir flora ve fauna çeşitliliğine sahiptir. Parkın içinde yer alan ormanlık alanlar, çeşitli ağaç türleri ile dolu olup, bu ağaçlar, ziyaretçilere gölgeli ve serin bir ortam sunar. Parkın flora çeşitliliği, mevsimsel olarak değişkenlik göstermekte olup, her mevsim ziyaretçilere farklı bir ren ve koku sunar. Fauna açısından da zengin olan park, çeşitli kuş türleri, memeliler ve sürüngenler gibi canlıları barındırmaktadır.
 
 ## Ziyaret Bilgileri
 

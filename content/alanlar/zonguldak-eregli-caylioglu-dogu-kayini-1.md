@@ -22,7 +22,7 @@ wikidata_id: "Q108227741"
 
 # Zonguldak-Eregli-Caylioglu Dogu Kayini 1
 
-Zonguldak-Eregli-Caylioglu Dogu Kayini 1, Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak karşımıza çıkıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Milli parkın konumu, Zonguldak ilinin Eregli ilçesinde bulunuyor ve bu sayede dàng ulaşım sağlanabiliyor. Doğal güzellikleri, tarihi geçmişi ve zengin flora/faunası ile ziyaretçilerini büyüleyen bu milli park, Karadeniz Bölgesi'nin önemli turizm merkezlerinden biri olarak dikkat çekiyor.
+Zonguldak-Eregli-Caylioglu Dogu Kayini 1, Karadeniz Bölgesi'nin en güzel milli parklarından biri olarak karşımıza çıkıyor. Milli parkın konumu, Zonguldak ilinin Eregli ilçesinde bulunuyor ve bu sayede dàng ulaşım sağlanabiliyor. Doğal güzellikleri, tarihi geçmişi ve zengin flora/faunası ile ziyaretçilerini büyüleyen bu milli park, Karadeniz Bölgesi'nin önemli turizm merkezlerinden biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

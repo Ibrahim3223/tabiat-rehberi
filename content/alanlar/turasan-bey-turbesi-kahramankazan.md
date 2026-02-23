@@ -1,7 +1,7 @@
 ---
 title: "Turasan Bey Türbesi, Kahramankazan"
 date: "2026-01-10T05:52:37.880Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582373"
 
 # Turasan Bey Türbesi, Kahramankazan
 
-Turasan Bey Türbesi, Ankara'nın Kahramankazan ilçesinde yer alan tarihi bir yapıdır. 140 hektarlık bir alanda kurulan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Türbenin mimarisi, Selçuklu dönemi özellikleri taşır ve ziyaretçilerini tarihin derinliklerine götürür. Turasan Bey Türbesi, Kahramankazan'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
+Turasan Bey Türbesi, Ankara'nın Kahramankazan ilçesinde yer alan tarihi bir yapıdır. Türbenin mimarisi, Selçuklu dönemi özellikleri taşır ve ziyaretçilerini tarihin derinliklerine götürür. Turasan Bey Türbesi, Kahramankazan'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunur.
 
 ## Tarihçe
 

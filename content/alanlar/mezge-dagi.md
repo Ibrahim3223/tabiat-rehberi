@@ -50,11 +50,11 @@ Bölgenin ekosistem bağlantıları açısından, Mezge Dağı, komşu alanlar v
 
 ## Flora ve Fauna
 
-Mezge Dağı, Bayburt'un nemli ikliminde yer alan gür ormanlarla kaplı bir dağ ekosistemi olarak yüksek biyoçeşitlilik sunar. İlbahar mevsiminde, dağ yamaçları rengarenk çiçeklerle donanır. 
+Mezge Dağı, Bayburt'un nemli ikliminde yer alan gür ormanlarla kaplı bir dağ ekosistemi olarak yüksek biyoçeşitlilik sunar. İlbahar mevsiminde, dağ yamaçları rengarenk çiçeklerle donanır.
 
-Bitki örtüsünü oluşturan çeşitli ağaç türleri, mevsimsel değişimlere uyum gösterir. Yaz aylarında, dağların yüksek zonlarında alpin flora çeşitliliği dikkat çeker. 
+Bitki örtüsünü oluşturan çeşitli ağaç türleri, mevsimsel değişimlere uyum gösterir. Yaz aylarında, dağların yüksek zonlarında alpin flora çeşitliliği dikkat çeker.
 
-Yaban hayatı da bir o kadar zengin olan bu dağda, memeliler ve kuşlar gibi çeşitli canlılar yaşar. Göçmen kuşlar, sonbahar aylarında dağları ziyaret eder. Sürüngenler de bu ekosistemin bir parçasıdır. 
+Yaban hayatı da bir o kadar zengin olan bu dağda, memeliler ve kuşlar gibi çeşitli canlılar yaşar. Göçmen kuşlar, sonbahar aylarında dağları ziyaret eder. Sürüngenler de bu ekosistemin bir parçasıdır.
 
 Mezge Dağı, ekolojik değerini koruma altına almak için önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgedeki canlıların yaşam alanlarını güvence altına alma ve biyoçeşitliliği korumak için hayati önem taşır.
 

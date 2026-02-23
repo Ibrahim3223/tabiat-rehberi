@@ -49,11 +49,11 @@ Sakar Dağı'nın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıtı
 
 ## Flora ve Fauna
 
-Sakar Dağı, Çanakkale'de yer alan bir dağ ekosistemi olarak, geçiş ikliminin özellikleri ve karma ormanların çeşitliliğiyle dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sakar Dağı, Çanakkale'de yer alan bir dağ ekosistemi olarak, geçiş ikliminin özellikleri ve karma ormanların çeşitliliğiyle dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü olarak, ilkbahar aylarında dağ eteklerinde renkli çiçekler açıyor. Mevsimsel değişimlere bağlı olarak, sonbaharda yaprak döken ağaçlar sarı, turuncu ve kırmızıya dönüşüyor. Dağın yükseklik zonlarında, alpin flora hakimiyetini kuruyor.
 
-Yaban hayatı olarak, memeliler ve kuşlar bu dağda yaşam buluyor. Göçmen kuş rotası üzerinde olan Sakar Dağı, her yıl binlerce kuşa ev sahipliği yapıyor. Sürüngenler de dağdaki kayalık alanlarda yaşamlarını sürdürüyor. Bu dağ ekosisteminde, canlılar birbirleriyle ve çevreleriyle etkileşim halinde, ekolojik dengenin korunmasına katkıda bulunuyor. 
+Yaban hayatı olarak, memeliler ve kuşlar bu dağda yaşam buluyor. Göçmen kuş rotası üzerinde olan Sakar Dağı, her yıl binlerce kuşa ev sahipliği yapıyor. Sürüngenler de dağdaki kayalık alanlarda yaşamlarını sürdürüyor. Bu dağ ekosisteminde, canlılar birbirleriyle ve çevreleriyle etkileşim halinde, ekolojik dengenin korunmasına katkıda bulunuyor.
 
 Ekolojik değeri yüksek olan Sakar Dağı, bölgenin biyolojik çeşitliliğini koruma altına almak için önemli bir rol oynuyor. Bu alanın korunması, sadece yerel canlıları değil, aynı zamanda göçmen kuşları ve diğer canlıları da destekleyerek, ekosistemin bütünlüğünü sağlamak için büyük önem taşıyor.
 

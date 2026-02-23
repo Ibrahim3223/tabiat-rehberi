@@ -28,7 +28,7 @@ wikidata_id: "Q32210905"
 
 # Küçükak Tepesi
 
-Küçükak Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Doğal güzellikleri ile ön plana çıkan Küçükak Tepesi, ziyaretçilerini doğayla baş başa bırakmak isteyenler için ideal bir destinasyon olarak görünüyor. Tepenin etrafındaki manzara, ziyaretçilere geniş bir görüş açısı sunuyor ve bu sayede, bölgenin coğrafi yapısını gözlemleme mümkün oluyor.
+Küçükak Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Doğal güzellikleri ile ön plana çıkan Küçükak Tepesi, ziyaretçilerini doğayla baş başa bırakmak isteyenler için ideal bir destinasyon olarak görünüyor. Tepenin etrafındaki manzara, ziyaretçilere geniş bir görüş açısı sunuyor ve bu sayede, bölgenin coğrafi yapısını gözlemleme mümkün oluyor.
 
 ## Tarihçe
 

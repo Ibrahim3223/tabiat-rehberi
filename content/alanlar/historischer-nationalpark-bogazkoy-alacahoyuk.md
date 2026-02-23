@@ -27,7 +27,7 @@ wikidata_id: "Q1306385"
 
 ## Tarihçe
 
-Historischer Nationalpark Boğazköy-Alacahöyük, tarihin sâu izlerini taşıyan bir bölge. M.Ö. 2500'lü yıllara kadar uzanan bir geçmişe sahip olan bu bölge, Hitit Uygarlığı'nın önemli merkezlerinden biri olarak biliniyor. Alacahöyük'te yapılan kazılarda, M.Ö. 2500'lü yıllara ait kalıntılar ve eserler bulundu. Bu buluntular, bölgenin tarihsel önemini ortaya koyuyor. Tarihi değerlerinin yanı sıra, bölge aynı zamanda doğal güzellikleri ile de dikkat çekiyor.
+Historischer Nationalpark Boğazköy-Alacahöyük, tarihin derin izlerini taşıyan bir bölge. M.Ö. 2500'lü yıllara kadar uzanan bir geçmişe sahip olan bu bölge, Hitit Uygarlığı'nın önemli merkezlerinden biri olarak biliniyor. Alacahöyük'te yapılan kazılarda, M.Ö. 2500'lü yıllara ait kalıntılar ve eserler bulundu. Bu buluntular, bölgenin tarihsel önemini ortaya koyuyor. Tarihi değerlerinin yanı sıra, bölge aynı zamanda doğal güzellikleri ile de dikkat çekiyor.
 
 ## Coğrafya
 

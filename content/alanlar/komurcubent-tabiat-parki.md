@@ -29,7 +29,7 @@ wikidata_id: "Q30623241"
 
 # Kömürcübent Tabiat Parkı
 
-Kömürcübent Tabiat Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın kucağına davet ediyor. Parkın fiziksel verileri, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Kömürcübent Tabiat Parkı'nı ziyaret etmek, doğanın güzelliklerini keşfetme ve stresten uzaklaşmak isteyenler için mükemmel bir tercih.
+Kömürcübent Tabiat Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın fiziksel verileri, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Kömürcübent Tabiat Parkı'nı ziyaret etmek, doğanın güzelliklerini keşfetme ve stresten uzaklaşmak isteyenler için mükemmel bir tercih.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kömürcübent Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Kömürcübent Tabiat Parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi konumu, ziyaretçilerin doğal güzellikleri keşfetmelerine yardımcı oluyor. Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Parkın çevresinde, çeşitli bitki türleri ve hayvanlar yaşiyor. Parkın iklimi, ziyaretçilerin doğanın güzelliklerini keşfetmelerine yardımcı oluyor. Kömürcübent Tabiat Parkı, ziyaretçilerini doğanın kucağına davet ediyor.
+Kömürcübent Tabiat Parkı, İç Anadolu Bölgesi'nde yer alıyor. Parkın coğrafi konumu, ziyaretçilerin doğal güzellikleri keşfetmelerine yardımcı oluyor. Parkın coğrafi yapısı, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Parkın çevresinde, çeşitli bitki türleri ve hayvanlar yaşiyor. Parkın iklimi, ziyaretçilerin doğanın güzelliklerini keşfetmelerine yardımcı oluyor. Kömürcübent Tabiat Parkı, ziyaretçilerini doğanın kucağına davet ediyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Kömürcübent Tabiat Parkı'nı ziyaret etmek, doğanın güzelliklerini keşfe
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkın coğrafi konumu, ziyaretçilerin doğal güzellikleri keşfetmelerine yardımcı oluyor.
 - Parkta, çeşitli bitki türleri ve hayvanlar yaşiyor.
 - Parkın iklimi, ziyaretçilerin doğanın güzelliklerini keşfetmelerine yardımcı oluyor.

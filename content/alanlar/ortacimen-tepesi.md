@@ -28,7 +28,7 @@ wikidata_id: "Q34887856"
 
 # Ortaçimen Tepesi
 
-Ortaçimen Tepesi, Erzincan'ın muhteşem manzarasına ev sahipliği yapan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok bitki türünün yuvasıdır. Tepenin eteklerinde, çeşitli ağaçlar ve çalılar yer alırken, zirvesi ise geniş bir görüş açısına sahip. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
+Ortaçimen Tepesi, Erzincan'ın muhteşem manzarasına ev sahipliği yapan bir doğa harikasıdır. Tepenin eteklerinde, çeşitli ağaçlar ve çalılar yer alırken, zirvesi ise geniş bir görüş açısına sahip. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur.
 
 ## Tarihçe
 

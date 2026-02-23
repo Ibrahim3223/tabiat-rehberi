@@ -1,7 +1,7 @@
 ---
 title: "Ayasofya Şehzadeler Türbesi"
 date: "2026-01-10T07:45:24.144Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391130"
 
 # Ayasofya Şehzadeler Türbesi
 
-Ayasofya Şehzadeler Türbesi, İstanbul'un tarihi merkezi Fatih'te yer alan önemli bir dini yapıdır. Bu türbe, Ayasofya'nın kuzeydoğu köşesinde bulunmakta ve şehzadelerin mezarlarının bulunduğu bir alan olarak bilinir. 140 hektarlık bir alanın içerisinde yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. İstanbul'un tarihi ve dini açıdan önemli yapılarından biri olan Ayasofya Şehzadeler Türbesi, ziyaretçilerini bekliyor.
+Ayasofya Şehzadeler Türbesi, İstanbul'un tarihi merkezi Fatih'te yer alan önemli bir dini yapıdır. Bu türbe, Ayasofya'nın kuzeydoğu köşesinde bulunmakta ve şehzadelerin mezarlarının bulunduğu bir alan olarak bilinir. İstanbul'un tarihi ve dini açıdan önemli yapılarından biri olan Ayasofya Şehzadeler Türbesi, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

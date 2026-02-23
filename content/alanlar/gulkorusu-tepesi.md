@@ -28,7 +28,7 @@ wikidata_id: "Q32139102"
 
 # Gülkorusu Tepesi
 
-Gülkorusu Tepesi, Muş'un doğal güzellikteki bir noktası olarak ziyaretçilerini ağırlamaktadır. Doğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğerdir. Gülkorusu Tepesi, bölgenin tarihi geçmişi ve coğrafi yapısıyla dikkat çekmektedir.
+Gülkorusu Tepesi, Muş'un doğal güzellikteki bir noktası olarak ziyaretçilerini ağırlamaktadır. Doğu Anadolu Bölgesi'nin coğrafi çeşitliliğiçerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Gülkorusu Tepesi, bölgenin tarihi geçmişi ve coğrafi yapısıyla dikkat çekmektedir.
 
 ## Tarihçe
 

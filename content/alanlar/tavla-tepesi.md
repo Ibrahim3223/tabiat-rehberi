@@ -28,7 +28,7 @@ wikidata_id: "Q31388949"
 
 # Tavla Tepesi
 
-Tavla Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve doğa severlerin ilgi odağı olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tavla Tepesi, doğa yürüyüşleri ve manzaralı tepeleriyle ünlüdür. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tavla Tepesi, özellikle bahar aylarında ziyaretçilerini etkileyen bir güzelliğe sahip.
+Tavla Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve doğa severlerin ilgi odağı olan bir tepe. Tavla Tepesi, doğa yürüyüşleri ve manzaralı tepeleriyle ünlüdür. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tavla Tepesi, özellikle bahar aylarında ziyaretçilerini etkileyen bir güzelliğe sahip.
 
 ## Tarihçe
 

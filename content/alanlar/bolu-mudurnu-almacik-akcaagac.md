@@ -22,7 +22,7 @@ wikidata_id: "Q108228093"
 
 # Bolu Mudurnu Almacik-Akcaagac
 
-Bolu Mudurnu Almacik-Akcaagac milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu alan, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Ziyaretçiler, doğanın güzelliğini keşfetme ve şehrin gürültüsünden uzaklaşmak için burayı tercih ediyor. Milli parkın etrafı, zengin fauna ve flora ile çevrilidir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+Bolu Mudurnu Almacik-Akcaagac milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alıyor. Bu alan, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Ziyaretçiler, doğanın güzelliğini keşfetme ve şehrin gürültüsünden uzaklaşmak için burayı tercih ediyor. Milli parkın etrafı, zengin fauna ve flora ile çevrilidir. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Bolu Mudurnu Almacik-Akcaagac milli parkını ziyaret etmek, doğa ile iç içe 
 
 ## İlginç Bilgiler
 
-- Milli parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Bolu Mudurnu Almacik-Akcaagac milli parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri.
 - Milli park, yüzyıllar boyunca insanların doğa ile iç içe yaşadığı bir yer olarak biliniyor.
 - Bölge, çeşitli bitki türleri ve hayvanlar ile dolu.

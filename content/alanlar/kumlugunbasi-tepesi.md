@@ -28,7 +28,7 @@ wikidata_id: "Q31390654"
 
 # Kumluğunbaşı Tepesi
 
-Kumluğunbaşı Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliğini gözler önüne seren bir doğa harikasıdır. Kırşehir'in sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Kumluğunbaşı Tepesi, ziyaretçilerini doğayla baş başa bırakıp, coğrafi güzelliği ile büyüleyen bir yer. Burada, doğal güzelliğin yanı sıra, tarihi geçmişiyle de dikkat çekiyor. Bu tepe, yüzyıllar boyunca verschilli medeniyetlerin yaşadığı bir bölge olarak biliniyor.
+Kumluğunbaşı Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliğini gözler önüne seren bir doğa harikasıdır. Kırşehir'in sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Kumluğunbaşı Tepesi, ziyaretçilerini doğayla baş başa bırakıp, coğrafi güzelliği ile büyüleyen bir yer. Burada, doğal güzelliğin yanı sıra, tarihi geçmişiyle de dikkat çekiyor. Bu tepe, yüzyıllar boyunca verschilli medeniyetlerin yaşadığı bir bölge olarak biliniyor.
 
 ## Tarihçe
 

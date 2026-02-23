@@ -1,7 +1,7 @@
 ---
 title: "Nallıhan Bacım Sultan Türbesi"
 date: "2026-01-10T07:44:05.766Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391214"
 
 # Nallıhan Bacım Sultan Türbesi
 
-Nallıhan Bacım Sultan Türbesi, Ankara'nın Nallıhan ilçesinde yer alan bir tarihi türbedir. Bu türbe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içerisinde bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölgede, yaban hayatının zenginliği ve doğal güzellikler, ziyaretçileri kendine çekmektedir. Nallıhan Bacım Sultan Türbesi, hem tarihi açıdan hem de doğal güzellikleri açısından önemli bir turizm merkezidir.
+Nallıhan Bacım Sultan Türbesi, Ankara'nın Nallıhan ilçesinde yer alan bir tarihi türbedir. Bu türbe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alanın içerisinde bulunmaktadır. Türbenin çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu bölgede, yaban hayatının zenginliği ve doğal güzellikler, ziyaretçileri kendine çekmektedir. Nallıhan Bacım Sultan Türbesi, hem tarihi açıdan hem de doğal güzellikleri açısından önemli bir turizm merkezidir.
 
 ## Tarihçe
 

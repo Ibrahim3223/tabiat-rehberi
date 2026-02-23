@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Abdurrahman Çelebi Türbesi"
 date: "2026-01-10T06:12:01.021Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -34,7 +34,7 @@ wikidata_id: "Q131390658"
 
 ## Tarihçe
 
-Şeyh Abdurrahman Çelebi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Türbe, Şeyh Abdurrahman Çelebi'nin vefat ettiği yer olarak bilinir ve uzun yıllardan beri ziyaret edilmektedir. Tarihi kaynaklara göre, türbe, Osmanlı İmparatorluğu döneminde inşa edilmiştir. O dönemden kalan çeşitli yapılar ve kalıntılar, türbenin etrafında yer alır. Türbenin história, Amasya'nın kültürel mirasının önemli bir parçasını oluşturur. Yüzyıllar boyunca, çeşitli restorasyonlar ve bakım çalışmalarıyla birlikte, türbe günümüze kadar ulaşmıştır. Şeyh Abdurrahman Çelebi Türbesi, sadece dini açıdan değil, aynı zamanda kültürel ve tarihi açıdan da önemli bir yerdir.
+Şeyh Abdurrahman Çelebi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Türbe, Şeyh Abdurrahman Çelebi'nin vefat ettiği yer olarak bilinir ve uzun yıllardan beri ziyaret edilmektedir. Tarihi kaynaklara göre, türbe, Osmanlı İmparatorluğu döneminde inşa edilmiştir. O dönemden kalan çeşitli yapılar ve kalıntılar, türbenin etrafında yer alır. Türbenin tarihi, Amasya'nın kültürel mirasının önemli bir parçasını oluşturur. Yüzyıllar boyunca, çeşitli restorasyonlar ve bakım çalışmalarıyla birlikte, türbe günümüze kadar ulaşmıştır. Şeyh Abdurrahman Çelebi Türbesi, sadece dini açıdan değil, aynı zamanda kültürel ve tarihi açıdan da önemli bir yerdir.
 
 ## Coğrafya
 

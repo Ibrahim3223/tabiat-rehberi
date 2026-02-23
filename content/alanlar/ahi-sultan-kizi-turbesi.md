@@ -1,7 +1,7 @@
 ---
 title: "Ahi Sultan Kızı Türbesi"
 date: "2026-01-10T06:12:10.443Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390687"
 
 # Ahi Sultan Kızı Türbesi
 
-Ahi Sultan Kızı Türbesi, Antalya'nın Muratpaşa ilçesinde yer alıyor ve tarihi geçmişi ile dikkat çekiyor. Bu önemli tarihi mekân, yaklaşık 140 hektarlık bir alanda yer alıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşit. Ahi Sultan Kızı Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla ziyaretçilerini büyülüyor. Bu bölge, özellikle tarih meraklıları ve doğa severler için bir hazine niteliğinde.
+Ahi Sultan Kızı Türbesi, Antalya'nın Muratpaşa ilçesinde yer alıyor ve tarihi geçmişi ile dikkat çekiyor. Ahi Sultan Kızı Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla ziyaretçilerini büyülüyor. Bu bölge, özellikle tarih meraklıları ve doğa severler için bir hazine niteliğinde.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ahi Sultan Kızı Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmi
 
 ## Coğrafya
 
-Ahi Sultan Kızı Türbesi, Akdeniz Bölgesi'nin güzelliklerini sunan Muratpaşa ilçesinde yer alıyor. Bu bölge, coğrafi açıdan oldukça zengin bir yapıya sahip. Türbe ve çevresindeki alan, 140 hektarlık bir yeşil alanı kapsıyor ki bu, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem tarihi bir atmosfer hem de doğal güzellikler sunuyor. Coğrafi olarak bakıldığında, Ahi Sultan Kızı Türbesi, Antalya'nın tarihi ve turistik noktalarına yakın bir konumda bulunmakta. İklim olarak, Akdeniz ikliminin tüm özelliklerini taşıyan bu bölge, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçmektedir. Bu coğrafi çeşitlilik, bölgenin flora ve faunasını da etkileyerek zengin bir ekosistem oluşturuyor.
+Ahi Sultan Kızı Türbesi, Akdeniz Bölgesi'nin güzelliklerini sunan Muratpaşa ilçesinde yer alıyor. Bu bölge, coğrafi açıdan oldukça zengin bir yapıya sahip. Bu geniş alan, ziyaretçilere hem tarihi bir atmosfer hem de doğal güzellikler sunuyor. Coğrafi olarak bakıldığında, Ahi Sultan Kızı Türbesi, Antalya'nın tarihi ve turistik noktalarına yakın bir konumda bulunmakta. İklim olarak, Akdeniz ikliminin tüm özelliklerini taşıyan bu bölge, yazları sıcak ve kurak, kışları ılıman ve yağışlı geçmektedir. Bu coğrafi çeşitlilik, bölgenin flora ve faunasını da etkileyerek zengin bir ekosistem oluşturuyor.
 
 ## Flora ve Fauna
 

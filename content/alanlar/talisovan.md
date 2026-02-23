@@ -66,5 +66,5 @@ Talisovan Dağı, Iğdır'ın güzide noktalarından biri. Sabah erken gitmenizi
 - Dağın yüksekliği ve coğrafi konumu nedeniyle, flora ve fauna çeşitliliği yüksektir.
 - Iğdır ili, Türkiye'nin en az yağış alan illerinden biridir ve Talisovan Dağı da bu iklime sahiptir.
 - Talisovan Dağı, Aras Nehri'nin kaynaklarından biridir.
-- Dağın eteklerinde, históri ve kültürel öneme sahip yerleşim yerleri bulunmaktadır.
+- Dağın eteklerinde, tarihi ve kültürel öneme sahip yerleşim yerleri bulunmaktadır.
 - Talisovan Dağı, Iğdır ilinin turizm potansiyelini artıran doğal güzelliklerden biridir.

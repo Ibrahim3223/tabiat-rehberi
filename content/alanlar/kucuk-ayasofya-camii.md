@@ -1,7 +1,7 @@
 ---
 title: "Küçük Ayasofya Camii"
 date: "2026-01-10T04:17:02.035Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q1144576"
 
 # Küçük Ayasofya Camii
 
-Küçük Ayasofya Camii, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir dini yapıdır. Marmara Bölgesi'nin en önemli şehirlerinden biri olan İstanbul'da bulunan bu cami, yaklaşık 1400 yıllık bir geçmişe sahiptir. 140 hektarlık bir alan üzerinde kurulmuş olan cami, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.i ve mimari açıdan önemli bir yapı olan Küçük Ayasofya Camii, her yıl binlerce ziyaretçiyi ağırlar. Ziyaretçiler, caminin içi ve dışı hakkında detaylı bilgi edinebilir ve tarihi Atmosferi yaşayabilir.
+Küçük Ayasofya Camii, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir dini yapıdır. Marmara Bölgesi'nin en önemli şehirlerinden biri olan İstanbul'da bulunan bu cami, yaklaşık 1400 yıllık bir geçmişe sahiptir.i ve mimari açıdan önemli bir yapı olan Küçük Ayasofya Camii, her yıl binlerce ziyaretçiyi ağırlar. Ziyaretçiler, caminin içi ve dışı hakkında detaylı bilgi edinebilir ve tarihi Atmosferi yaşayabilir.
 
 ## Tarihçe
 

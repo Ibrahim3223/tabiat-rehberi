@@ -29,7 +29,7 @@ wikidata_id: "Q31388772"
 
 # Bozburun Tepesi
 
-Bozburun Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve doğa severlerin ziyaret etmekten keyif alacağı bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, Muğla'nın güzide yerlerinden biri olarak biliniyor. Bozburun Tepesi, özellikle doğa yürüyüşü ve manzara seyri için ideal bir yer. Ziyaretçiler, bu tepeye tırmanarak Ege Bölgesi'nin güzelliğini keşfedebilir.
+Bozburun Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve doğa severlerin ziyaret etmekten keyif alacağı bir tepe. Bu bölge, Muğla'nın güzide yerlerinden biri olarak biliniyor. Bozburun Tepesi, özellikle doğa yürüyüşü ve manzara seyri için ideal bir yer. Ziyaretçiler, bu tepeye tırmanarak Ege Bölgesi'nin güzelliğini keşfedebilir.
 
 ## Tarihçe
 

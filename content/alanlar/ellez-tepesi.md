@@ -28,7 +28,7 @@ wikidata_id: "Q31386413"
 
 # Ellez Tepesi
 
-Ellez Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ellez Tepesi, Gaziantep'in doğal güzelliklerini sunan bir nokta olarak biliniyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ellez Tepesi, aynı zamanda tarihsel geçmişe sahip bir bölge olarak da dikkat çekiyor. Bu bölge, yüzyıllar boyunca farklı medeniyetlerin yaşadığı bir bölge olarak biliniyor.
+Ellez Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak karşımıza çıkıyor. Ellez Tepesi, Gaziantep'in doğal güzelliklerini sunan bir nokta olarak biliniyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ellez Tepesi, aynı zamanda tarihsel geçmişe sahip bir bölge olarak da dikkat çekiyor. Bu bölge, yüzyıllar boyunca farklı medeniyetlerin yaşadığı bir bölge olarak biliniyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ellez Tepesi, tarihsel geçmişe sahip bir bölge olarak biliniyor. Bu bölge, y
 
 ## Coğrafya
 
-Ellez Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe olarak biliniyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ellez Tepesi, Gaziantep'in doğal güzelliklerini sunan bir nokta olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ellez Tepesi, aynı zamanda önemli bir coğrafi konumda yer alıyor. Bu tepe, farklı bölgelere ulaşımı kolaylaştıran bir konumda yer alıyor. Ellez Tepesi, coğrafi konumu itibari ile önemli bir turizm merkezi olarak da biliniyor. Bu tepe, aynı zamanda önemli bir ekolojik bölge olarak da dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Ellez Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe olarak biliniyor. Ellez Tepesi, Gaziantep'in doğal güzelliklerini sunan bir nokta olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ellez Tepesi, aynı zamanda önemli bir coğrafi konumda yer alıyor. Bu tepe, farklı bölgelere ulaşımı kolaylaştıran bir konumda yer alıyor. Ellez Tepesi, coğrafi konumu itibari ile önemli bir turizm merkezi olarak da biliniyor. Bu tepe, aynı zamanda önemli bir ekolojik bölge olarak da dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Flora ve Fauna
 

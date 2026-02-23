@@ -28,7 +28,7 @@ wikidata_id: "Q31390143"
 
 # Tanrıdağı Tepe
 
-Tanrıdağı Tepe, Antalya'nın Akdeniz Bölgesi'nde bulunan doğal bir oluşum. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Tanrıdağı Tepe, yöre halkı tarafından sıkça ziyaret edilen ve doğal güzellikleri ile dikkat çeken bir bölge. Tepe, çevresi ile birlikte uzun bir mesafelik bir yürüyüş parkuruna sahip. Burada, doğa severler için birçok gezi rotası mevcut.
+Tanrıdağı Tepe, Antalya'nın Akdeniz Bölgesi'nde bulunan doğal bir oluşum. Tanrıdağı Tepe, yöre halkı tarafından sıkça ziyaret edilen ve doğal güzellikleri ile dikkat çeken bir bölge. Tepe, çevresi ile birlikte uzun bir mesafelik bir yürüyüş parkuruna sahip. Burada, doğa severler için birçok gezi rotası mevcut.
 
 ## Tarihçe
 

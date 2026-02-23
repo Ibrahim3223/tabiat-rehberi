@@ -1,7 +1,7 @@
 ---
 title: "Hüseyin Paşa Hamamı"
 date: "2026-01-09T23:12:27.189Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738933"
 
 # Hüseyin Paşa Hamamı
 
-Hüseyin Paşa Hamamı, Şahinbey, Gaziantep'te yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli tarihi yapılarından biri olarak kabul edilen bir hamamdır. Bu tarihi yapı, bölgenin kültürel ve tarihi zenginliğini yansıtan önemli bir eserdir. 140 hektarlık bir alan üzerinde kurulmamış olsa da, histórik önemini korur. Hüseyin Paşa Hamamı, bölgede bulunan diğer tarihi yapılar gibi, Güneydoğu Anadolu Bölgesi'nin zengin tarihini ve kültürünü yansıtmaktadır. Bu yapı, ziyaretçilere bölgenin geçmişine dair önemli bilgiler sunar.
+Hüseyin Paşa Hamamı, Şahinbey, Gaziantep'te yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli tarihi yapılarından biri olarak kabul edilen bir hamamdır. Bu tarihi yapı, bölgenin kültürel ve tarihi zenginliğini yansıtan önemli bir eserdir. 140 hektarlık bir alan üzerinde kurulmamış olsa da, tarihi önemini korur. Hüseyin Paşa Hamamı, bölgede bulunan diğer tarihi yapılar gibi, Güneydoğu Anadolu Bölgesi'nin zengin tarihini ve kültürünü yansıtmaktadır. Bu yapı, ziyaretçilere bölgenin geçmişine dair önemli bilgiler sunar.
 
 ## Tarihçe
 

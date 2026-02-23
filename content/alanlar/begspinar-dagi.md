@@ -50,11 +50,11 @@ Mevsimsel değişikliklere göre hava durumu da değişen Beğşpınar Dağı, y
 
 ## Flora ve Fauna
 
-Beğşpınar Dağı, Kahramanmaraş'ın gözde doğal alanlarından biri. Bu dağ ekosisteminde, maki bitki örtüsünün hakim olduğu 1200 hektarlık bir yeşil cennet bulunuyor. İlkbaharın gelmesiyle birlikte, dağ yamacında çiçekler açarak renkli bir manzara sunuyor. 
+Beğşpınar Dağı, Kahramanmaraş'ın gözde doğal alanlarından biri. Bu dağ ekosisteminde, maki bitki örtüsünün hakim olduğu 1200 hektarlık bir yeşil cennet bulunuyor. İlkbaharın gelmesiyle birlikte, dağ yamacında çiçekler açarak renkli bir manzara sunuyor.
 
-Bitki örtüsünün çeşitliliği, dağın yükseklik zonlarına bağlı olarak değişiyor. Kuraklığa dayanıklı türler, bu bölgenin karakteristik özelliğini oluşturuyor. Kıyı ekosisteminin de etkileri görülüyor. 
+Bitki örtüsünün çeşitliliği, dağın yükseklik zonlarına bağlı olarak değişiyor. Kuraklığa dayanıklı türler, bu bölgenin karakteristik özelliğini oluşturuyor. Kıyı ekosisteminin de etkileri görülüyor.
 
-Yaban hayatı da oldukça zengin. Dağ keçileri, yaban domuzları ve çeşitli kuş türleri, bu dağların sakinleri. Sonbaharda, göç eden kuşlar bu bölgeden geçerek farklı yaşam alanlarına ulaşıyor. Sürüngenler de dağların kayalık bölgelerinde yaşamlarını sürdürüyor. 
+Yaban hayatı da oldukça zengin. Dağ keçileri, yaban domuzları ve çeşitli kuş türleri, bu dağların sakinleri. Sonbaharda, göç eden kuşlar bu bölgeden geçerek farklı yaşam alanlarına ulaşıyor. Sürüngenler de dağların kayalık bölgelerinde yaşamlarını sürdürüyor.
 
 Bu dağ ekosisteminin korunması çok önemli. Bu alanların bozulmaması, hem flora hem de fauna için hayati önem taşıyor.
 

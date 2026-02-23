@@ -1,7 +1,7 @@
 ---
 title: "İbni Melek Türbesi"
 date: "2026-01-10T06:07:08.463Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390551"
 
 # İbni Melek Türbesi
 
-İbni Melek Türbesi, İzmir'in Tire ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olan bir destinasyon. Bu bölge, 140 hektarlık geniş bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir yeşil alan sunuyor. İbni Melek Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin bir arada olduğu benzersiz bir deneyimle karşılar. Tire'nin tarihi geçmişi ve İbni Melek Türbesi'nin önemi, bu bölgeyi özel kılıyor. İzmir'in güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan İbni Melek Türbesi, Ege Bölgesi'nin sınırlarında yer alıyor.
+İbni Melek Türbesi, İzmir'in Tire ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olan bir destinasyon. İbni Melek Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin bir arada olduğu benzersiz bir deneyimle karşılar. Tire'nin tarihi geçmişi ve İbni Melek Türbesi'nin önemi, bu bölgeyi özel kılıyor. İzmir'in güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan İbni Melek Türbesi, Ege Bölgesi'nin sınırlarında yer alıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390551"
 
 ## Coğrafya
 
-İbni Melek Türbesi, İzmir'in Tire ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafi güzelliklerine sahip. Bu bölge, 140 hektarlık geniş bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir yeşil alan sunuyor. İbni Melek Türbesi'nin coğrafi konumu, ziyaretçilere Ege Bölgesi'nin güzelliklerini keşfetme fırsatı sunuyor. Tire'nin tarihi dokusu içinde yer alan türbe, bölgenin coğrafi güzelliklerinin bir parçası olarak kabul ediliyor. İbni Melek Türbesi, Ege Bölgesi'nin iklimine uygun olarak, ve nemli bir hava koşuluna sahip. Bu coğrafi konum, türbenin ve bölgenin güzelliklerini ziyaretçilere sunuyor.
+İbni Melek Türbesi, İzmir'in Tire ilçesinde yer alıyor ve Ege Bölgesi'nin coğrafi güzelliklerine sahip. İbni Melek Türbesi'nin coğrafi konumu, ziyaretçilere Ege Bölgesi'nin güzelliklerini keşfetme fırsatı sunuyor. Tire'nin tarihi dokusu içinde yer alan türbe, bölgenin coğrafi güzelliklerinin bir parçası olarak kabul ediliyor. İbni Melek Türbesi, Ege Bölgesi'nin iklimine uygun olarak, ve nemli bir hava koşuluna sahip. Bu coğrafi konum, türbenin ve bölgenin güzelliklerini ziyaretçilere sunuyor.
 
 ## Flora ve Fauna
 

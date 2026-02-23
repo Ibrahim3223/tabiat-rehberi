@@ -1,7 +1,7 @@
 ---
 title: "Şerafettin Türbesi, Konya"
 date: "2026-01-10T06:37:22.377Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582399"
 
 # Şerafettin Türbesi, Konya
 
-Konya'nın tarihi ve kültürel zenginliklerini keşfedin, Şerafettin Türbesi'ni ziyaret edin. İç Anadolu Bölgesi'nin kalbinde yer alan Konya, tarihi ve kültürel değerleriyle dikkat çeker. Karatay ilçesinde bulunan Şerafettin Türbesi, ziyaretçilerini bekleyen önemli bir tarihi mekandır. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilere geniş bir alan sunar. Şerafettin Türbesi, Konya'nın tarihi değerlerini keşfetmek isteyenler için önemli bir durak noktasıdır.
+Konya'nın tarihi ve kültürel zenginliklerini keşfedin, Şerafettin Türbesi'ni ziyaret edin. İç Anadolu Bölgesi'nin kalbinde yer alan Konya, tarihi ve kültürel değerleriyle dikkat çeker. Karatay ilçesinde bulunan Şerafettin Türbesi, ziyaretçilerini bekleyen önemli bir tarihi mekandır. Şerafettin Türbesi, Konya'nın tarihi değerlerini keşfetmek isteyenler için önemli bir durak noktasıdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Konya'nın tarihi ve kültürel zenginliklerini keşfedin, Şerafettin Türbesi'
 
 ## Coğrafya
 
-Şerafettin Türbesi, Konya'nın Karatay ilçesinde yer alır. İç Anadolu Bölgesi'nin coğrafi özellikleri, Şerafettin Türbesi'nin çevresini etkiler. Bölge,STEP ve yarı kurak iklim özellikleri gösterir. Şerafettin Türbesi, çevresindeki coğrafi özelliklerle birlikte, ziyaretçilere benzersiz bir deneyim sunar. 180 hektarlık bir alan, yaklaşık 250 futbol sahası büyüklüğünde, ziyaretçilere geniş bir alan sunar. Şerafettin Türbesi, Konya'nın coğrafi değerlerini keşfetmek isteyenler için önemli bir durak noktasıdır. Şerafettin Türbesi'nin coğrafi konumu, Konya'nın tarihi ve kültürel değerlerini keşfetmek için ideal bir noktadır.
+Şerafettin Türbesi, Konya'nın Karatay ilçesinde yer alır. İç Anadolu Bölgesi'nin coğrafi özellikleri, Şerafettin Türbesi'nin çevresini etkiler. Bölge,STEP ve yarı kurak iklim özellikleri gösterir. Şerafettin Türbesi, çevresindeki coğrafi özelliklerle birlikte, ziyaretçilere benzersiz bir deneyim sunar. Şerafettin Türbesi, Konya'nın coğrafi değerlerini keşfetmek isteyenler için önemli bir durak noktasıdır. Şerafettin Türbesi'nin coğrafi konumu, Konya'nın tarihi ve kültürel değerlerini keşfetmek için ideal bir noktadır.
 
 ## Flora ve Fauna
 

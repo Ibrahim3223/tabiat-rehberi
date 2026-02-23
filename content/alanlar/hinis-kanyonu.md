@@ -51,11 +51,11 @@ Jeolojik açıdan bakıldığında, Hınıs Kanyonu'nun oluşumu hakkında detay
 
 ## Flora ve Fauna
 
-Hınıs Kanyonu, Erzurum Vilayeti'nin güzide doğal alanlarından biridir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hınıs Kanyonu, Erzurum Vilayeti'nin güzide doğal alanlarından biridir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Step bitki örtüsünün hakim olduğu bu bölgede, ilkbahar aylarında çiçekler açarken, sonbaharda kuraklığa adapte olmuş bitkiler hüküm sürer. Kanyonun yamaçlarında, bozkırın karakteristik türleri boy gösterir. 
+Step bitki örtüsünün hakim olduğu bu bölgede, ilkbahar aylarında çiçekler açarken, sonbaharda kuraklığa adapte olmuş bitkiler hüküm sürer. Kanyonun yamaçlarında, bozkırın karakteristik türleri boy gösterir.
 
-Yaban hayatı da oldukça çeşitli: memeliler, kuşlar ve sürüngenler bu ekosistemin temel bileşenleridir. Kuşlar, özellikle sonbaharda göç ederken, kanyonun yüksek duvarlarından yararlanırlar. Memeliler, kanyonun derinliklerine gizlenirken, sürüngenler güneşin altında ısınır. 
+Yaban hayatı da oldukça çeşitli: memeliler, kuşlar ve sürüngenler bu ekosistemin temel bileşenleridir. Kuşlar, özellikle sonbaharda göç ederken, kanyonun yüksek duvarlarından yararlanırlar. Memeliler, kanyonun derinliklerine gizlenirken, sürüngenler güneşin altında ısınır.
 
 Hınıs Kanyonu, bölgenin ekolojik dengesi için önemli bir rol oynar. Bu doğal alan, kuraklığa adapte olmuş türlerin yaşam alanı olarak koruma altına alınmalıdır. Bu şekilde, bu eşsiz ekosistemin sürekliliği sağlanabilir.
 

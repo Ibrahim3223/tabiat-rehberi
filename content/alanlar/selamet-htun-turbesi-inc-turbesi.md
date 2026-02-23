@@ -1,7 +1,7 @@
 ---
 title: "Selamet Hâtun Türbesi – İnâç Türbesi"
 date: "2026-01-10T05:00:24.313Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391458"
 
 # Selamet Hâtun Türbesi – İnâç Türbesi
 
-Selamet Hâtun Türbesi – İnâç Türbesi, Amasya'nın tarihi ve doğal güzelliklerinin birleştiği özel bir noktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan sunar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Türbenin tarihi geçmişi, ziyaretçilerini geçmişe götürerek hem dinî hem de kültürel bir deneyim sunar. Karadeniz Bölgesi'nin zengin tarihî ve coğrafî çeşitliliğiçinde yer alan bu türbe, aynı zamanda bölgenin önemli dinî merkezlerinden biridir.
+Selamet Hâtun Türbesi – İnâç Türbesi, Amasya'nın tarihi ve doğal güzelliklerinin birleştiği özel bir noktadır. Türbenin tarihi geçmişi, ziyaretçilerini geçmişe götürerek hem dinî hem de kültürel bir deneyim sunar. Karadeniz Bölgesi'nin zengin tarihî ve coğrafî çeşitliliğiçinde yer alan bu türbe, aynı zamanda bölgenin önemli dinî merkezlerinden biridir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Şehzadeler Türbesi ve Türbedar Odası"
 date: "2026-01-10T05:26:04.394Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391693"
 
 # Şehzadeler Türbesi ve Türbedar Odası
 
-İstanbul'un kalbi Beşiktaş'ta yer alan Şehzadeler Türbesi ve Türbedar Odası, şehrin tarihi dokusunu korur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir tarihi ve kültürel atmosfer sunar. Bu mekan, şehrin kalabalıkından uzaklaşmak isteyenler için sakin bir kaçış noktası olarak hizmet eder. Türbe ve odanın mimarisi, Osmanlı döneminin izlerini taşır ve ziyaretçiler, bu tarihi yapıları yakından inceleyerek geçmişe bir yolculuk yapabilirler.
+İstanbul'un kalbi Beşiktaş'ta yer alan Şehzadeler Türbesi ve Türbedar Odası, şehrin tarihi dokusunu korur. Bu mekan, şehrin kalabalıkından uzaklaşmak isteyenler için sakin bir kaçış noktası olarak hizmet eder. Türbe ve odanın mimarisi, Osmanlı döneminin izlerini taşır ve ziyaretçiler, bu tarihi yapıları yakından inceleyerek geçmişe bir yolculuk yapabilirler.
 
 ## Tarihçe
 

@@ -50,11 +50,11 @@ Doğal güzelliğin hakim olduğu bu bölgede, coğrafi özellikler nedeniyle de
 
 ## Flora ve Fauna
 
-Karapınar Düzlüğü, Konya'nın step ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Karapınar Düzlüğü, Konya'nın step ve bozkır ekosistemine ev sahipliği yapan bir dağ alanıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak step ve bozkır türleri hakimdir. İlkbaharın gelmesiyle birlikte, düzlük çiçeklerle donanır. Sonbaharda ise kuraklığa adapte olan türler, mevsimsel değişimlere uyum sağlarlar. 
+Bitki Örtüsü olarak step ve bozkır türleri hakimdir. İlkbaharın gelmesiyle birlikte, düzlük çiçeklerle donanır. Sonbaharda ise kuraklığa adapte olan türler, mevsimsel değişimlere uyum sağlarlar.
 
-Yaban Hayatı olarak memeliler, kuşlar ve sürüngenler bu ekosistemin bir parçası olarak yaşamlarını sürdürürler. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarını barındırır. Bu canlılar, yaşam alanlarıyla birlikte, ekolojik ilişkiler içerisinde yer alırlar. 
+Yaban Hayatı olarak memeliler, kuşlar ve sürüngenler bu ekosistemin bir parçası olarak yaşamlarını sürdürürler. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarını barındırır. Bu canlılar, yaşam alanlarıyla birlikte, ekolojik ilişkiler içerisinde yer alırlar.
 
 Ekolojik Değer olarak, bu alanın korunması büyük önem taşır. step ve bozkır ekosistemlerinin korunmasına katkıda bulunan Karapınar Düzlüğü, aynı zamanda birçok canlı türünün yaşam alanı olarak hizmet eder.
 

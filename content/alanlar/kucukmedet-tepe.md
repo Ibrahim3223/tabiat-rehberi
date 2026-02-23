@@ -28,7 +28,7 @@ wikidata_id: "Q32211034"
 
 # Küçükmedet Tepe
 
-Küçükmedet Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi alan olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ki bu, 200 futbol sahası büyüklüğüne eşdeğer bir genişlik sunuyor. Coğrafi konumu itibariyle, ziyaretçiler buraya geldiğinde hem tarihi geçmişi hem de doğal güzellikleri deneyimleme fırsatı buluyor. Küçükmedet Tepe, Konya'nın önemli turizm noktalarından biri olarak kabul ediliyor ve ziyaretçilere geniş bir tarihi ve coğrafi perspektif sunuyor.
+Küçükmedet Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi alan olarak dikkat çekiyor. Coğrafi konumu itibariyle, ziyaretçiler buraya geldiğinde hem tarihi geçmişi hem de doğal güzellikleri deneyimleme fırsatı buluyor. Küçükmedet Tepe, Konya'nın önemli turizm noktalarından biri olarak kabul ediliyor ve ziyaretçilere geniş bir tarihi ve coğrafi perspektif sunuyor.
 
 ## Tarihçe
 

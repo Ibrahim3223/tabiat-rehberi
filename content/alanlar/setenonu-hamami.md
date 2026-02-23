@@ -1,7 +1,7 @@
 ---
 title: "Setenönü Hamamı"
 date: "2026-01-10T04:29:57.694Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738776"
 
 # Setenönü Hamamı
 
-Setenönü Hamamı, Kayseri'nin Melikgazi ilçesinde, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir yeşil alan olarak ziyaretçilerini ağırlıyor. Bu alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. 70-80 yıl önce kurulmuş olan bu alan, zamanla gelişerek günümüzde önemli bir gezi noktası haline gelmiştir. Setenönü Hamamı, doğa severlerin ve gezi tutkunlarının ilgisini çekmektedir.
+ Bu alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. 70-80 yıl önce kurulmuş olan bu alan, zamanla gelişerek günümüzde önemli bir gezi noktası haline gelmiştir. Setenönü Hamamı, doğa severlerin ve gezi tutkunlarının ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Setenönü Hamamı, Kayseri'nin Melikgazi ilçesinde, yüzyıllar boyunca insan 
 
 ## Coğrafya
 
-Setenönü Hamamı, Kayseri'nin Melikgazi ilçesinde, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak farklı özellikler gösteren bir alanda yer alıyor. Setenönü Hamamı, 140 hektarlık bir yeşil alan olarak, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Setenönü Hamamı'nın coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. Kış aylarında karla kaplı olan bu alan, yaz aylarında ise yeşilin farklı tonlarını sunuyor. Setenönü Hamamı, doğa severlerin ve gezi tutkunlarının ilgisini çekmektedir. Bu bölgede, çeşitli coğrafi oluşumlar ve doğal güzellikler yer alıyor. Setenönü Hamamı, ziyaretçilerine farklı deneyimler sunmak için uygun bir ortam sunuyor.
+Setenönü Hamamı, Kayseri'nin Melikgazi ilçesinde, İç Anadolu Bölgesi'nde yer alıyor. Bu bölge, coğrafi olarak farklı özellikler gösteren bir alanda yer alıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Setenönü Hamamı'nın coğrafi konumu, ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. Kış aylarında karla kaplı olan bu alan, yaz aylarında ise yeşilin farklı tonlarını sunuyor. Setenönü Hamamı, doğa severlerin ve gezi tutkunlarının ilgisini çekmektedir. Bu bölgede, çeşitli coğrafi oluşumlar ve doğal güzellikler yer alıyor. Setenönü Hamamı, ziyaretçilerine farklı deneyimler sunmak için uygun bir ortam sunuyor.
 
 ## Flora ve Fauna
 

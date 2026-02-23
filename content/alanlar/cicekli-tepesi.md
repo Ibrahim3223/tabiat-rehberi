@@ -36,7 +36,7 @@ Erzurum'un muhteşem manzaralarına ev sahipliği yapan Çiçekli Tepesi, yakla�
 
 ## Coğrafya
 
-Çiçekli Tepesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Tepenin konumu, Erzurum'un merkezi ile çevredeki köylerin arasında bir geçiş bölgesi olarak hizmet eder. Çiçekli Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tepenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin fauna oluşumuna olanak sağlar. İlkbahar ve yaz aylarında, tepede çeşitli çiçek türleri açar ve ziyaretçilere renkli bir manzara sunar. Kış aylarında ise, tepede kar yağışları görülür ve bölgede kaya ve snowboard gibi kış sporları yapılır.
+Çiçekli Tepesi, Doğu Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Tepenin konumu, Erzurum'un merkezi ile çevredeki köylerin arasında bir geçiş bölgesi olarak hizmet eder. Tepenin coğrafi yapısı, çeşitli bitki türlerinin yetişmesine ve zengin fauna oluşumuna olanak sağlar. İlkbahar ve yaz aylarında, tepede çeşitli çiçek türleri açar ve ziyaretçilere renkli bir manzara sunar. Kış aylarında ise, tepede kar yağışları görülür ve bölgede kaya ve snowboard gibi kış sporları yapılır.
 
 ## Flora ve Fauna
 

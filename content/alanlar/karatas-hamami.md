@@ -1,7 +1,7 @@
 ---
 title: "Karataş Hamamı"
 date: "2026-01-09T22:23:59.223Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çankırı"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738494"
 
 # Karataş Hamamı
 
-Karataş Hamamı, Çankırı ilinin merkezinde, İç Anadolu Bölgesi'nin kalbinde yer alan bir plaj ve hamam kompleksi. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzak, sakin bir atmosfere sahip. Karataş Hamamı, hem yerel halk hem de ziyaretçiler için keyifli bir kaçış noktası sunuyor. Bu doğal cennet, şehrin midsteki bir oazis gibi, ziyaretçilerini dinlendirme ve yenilemek için bekliyor.
+Karataş Hamamı, Çankırı ilinin merkezinde, İç Anadolu Bölgesi'nin kalbinde yer alan bir plaj ve hamam kompleksi. Karataş Hamamı, hem yerel halk hem de ziyaretçiler için keyifli bir kaçış noktası sunuyor. Bu doğal cennet, şehrin midsteki bir oazis gibi, ziyaretçilerini dinlendirme ve yenilemek için bekliyor.
 
 ## Tarihçe
 

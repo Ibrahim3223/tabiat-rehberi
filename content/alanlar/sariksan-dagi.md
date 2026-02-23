@@ -50,11 +50,11 @@ Bölgenin çevresel ilişkileri açısından bakıldığında, Şarikşan Dağı
 
 ## Flora ve Fauna
 
-Şarikşan Dağı, Bingöl'de yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Şarikşan Dağı, Bingöl'de yüksek dağ ekolojisine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü açısından, Şarikşan Dağı'nın yükseklik zonları, alpin çayırları ve endemik türleriyle dikkat çekiyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle süslenirken, sonbahar ayında bu çiçekler yerini sarı ve kırmızı tonlara bırakıyor. 
+Bitki örtüsü açısından, Şarikşan Dağı'nın yükseklik zonları, alpin çayırları ve endemik türleriyle dikkat çekiyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle süslenirken, sonbahar ayında bu çiçekler yerini sarı ve kırmızı tonlara bırakıyor.
 
-Yaban hayatı da bir o kadar çeşitli ve zengin. Dağ keçileri, ayılar ve kurtlar gibi memeliler, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gibi kuşlar, gökyüzünde süzülüyor. Sürüngenler de bu dağlık alanda yaşamlarını sürdürüyor. 
+Yaban hayatı da bir o kadar çeşitli ve zengin. Dağ keçileri, ayılar ve kurtlar gibi memeliler, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gibi kuşlar, gökyüzünde süzülüyor. Sürüngenler de bu dağlık alanda yaşamlarını sürdürüyor.
 
 Ekolojik değer açısından, Şarikşan Dağı, bölgenin su döngüsünü düzenleyen ve toprak erozyonunu önleyen önemli bir ekosistem olarak görülüyor. Bu nedenle, koruma altına alınması ve gelecek nesiller için korunması büyük önem taşıyor.
 

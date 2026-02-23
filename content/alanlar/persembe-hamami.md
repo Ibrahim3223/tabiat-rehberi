@@ -1,7 +1,7 @@
 ---
 title: "Perşembe Hamamı"
 date: "2026-01-09T23:04:18.435Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738812"
 
 # Perşembe Hamamı
 
-Perşembe Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve Marmara Bölgesi'nin önemli plajlarından biri olarak bilinen bir doğal güzelliktir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplıyor. Bu geniş yeşil alan, ziyaretçilere hem dinlenme hem de eğlenme olanağı sunuyor. Perşembe Hamamı, tarihi değerleri ve doğal güzelliği ile ziyaretçilerini çekmeyi başarıyor.
+Perşembe Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve Marmara Bölgesi'nin önemli plajlarından biri olarak bilinen bir doğal güzelliktir. Bu geniş yeşil alan, ziyaretçilere hem dinlenme hem de eğlenme olanağı sunuyor. Perşembe Hamamı, tarihi değerleri ve doğal güzelliği ile ziyaretçilerini çekmeyi başarıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Perşembe Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve b�
 
 ## Coğrafya
 
-Perşembe Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor ve Marmara Bölgesi'nin en önemli plajlarından biri olarak biliniyor. Bu plaj, 140 hektarlık bir yeşil alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Perşembe Hamamı, deniz kıyısında yer alıyor ve ziyaretçilere güzel bir manzara sunuyor. Bu plajın çevresi, çeşitli bitki türleri ile kaplı ve ziyaretçilere doğal bir ortam sunuyor. Perşembe Hamamı'nın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişiyor. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve güneşli geçiyor. Bu plaj, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
+Perşembe Hamamı, Bursa'nın Osmangazi ilçesinde yer alıyor ve Marmara Bölgesi'nin en önemli plajlarından biri olarak biliniyor. Perşembe Hamamı, deniz kıyısında yer alıyor ve ziyaretçilere güzel bir manzara sunuyor. Bu plajın çevresi, çeşitli bitki türleri ile kaplı ve ziyaretçilere doğal bir ortam sunuyor. Perşembe Hamamı'nın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişiyor. Kış ayları serin ve yağışlı, yaz ayları ise sıcak ve güneşli geçiyor. Bu plaj, ziyaretçilere her mevsim farklı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 

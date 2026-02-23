@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Muhammed Türbesi"
 date: "2026-01-10T07:56:33.328Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582869"
 
 # Şeyh Muhammed Türbesi
 
-Şeyh Muhammed Türbesi, Güneydoğu Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçasıdır. Mardin'in Artuklu ilçesinde yer alan bu tarihi mekan, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar. 140 hektarlık bir alanda kurulmuş olan Şeyh Muhammed Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem tarihi yapıları incelemek hem de doğayı keşfetmek için geniş bir olanak sunar. Şeyh Muhammed Türbesi, bölgenin önemli dini ve kültürel merkezi olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+Şeyh Muhammed Türbesi, Güneydoğu Anadolu Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçasıdır. Mardin'in Artuklu ilçesinde yer alan bu tarihi mekan, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar. Bu geniş alan, ziyaretçilere hem tarihi yapıları incelemek hem de doğayı keşfetmek için geniş bir olanak sunar. Şeyh Muhammed Türbesi, bölgenin önemli dini ve kültürel merkezi olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q135582869"
 
 ## Coğrafya
 
-Şeyh Muhammed Türbesi, Mardin'in Artuklu ilçesinde yer alır ve Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genel olarak dağlık bir arazi yapısına sahiptir ve yüksek rakımlar, ziyaretçilere geniş bir manzara sunar. Şeyh Muhammed Türbesi'nin bulunduğu alan, 140 hektarlık bir arazide kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem tarihi yapıları incelemek hem de doğayı keşfetmek için geniş bir olanak sunar. Bölgenin iklimi, genel olarak karasal iklim özellikleri taşır ve yaz ayları sıcak ve kuru, kış ayları ise soğuk ve yağışlı geçer. Bu iklim şartları, bölgenin flora ve faunasını etkiler ve ziyaretçilere, çeşitli bitki ve hayvan türlerini gözlemleme fırsatı sunar. Şeyh Muhammed Türbesi'nin çevresi, tarihi ve doğal güzellikler açısından zengin bir yapıya sahiptir ve ziyaretçilere, Mardin'in tarihi ve kültürel mirasını keşfetme fırsatı sunar.
+Şeyh Muhammed Türbesi, Mardin'in Artuklu ilçesinde yer alır ve Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genel olarak dağlık bir arazi yapısına sahiptir ve yüksek rakımlar, ziyaretçilere geniş bir manzara sunar. Bu geniş alan, ziyaretçilere hem tarihi yapıları incelemek hem de doğayı keşfetmek için geniş bir olanak sunar. Bölgenin iklimi, genel olarak karasal iklim özellikleri taşır ve yaz ayları sıcak ve kuru, kış ayları ise soğuk ve yağışlı geçer. Bu iklim şartları, bölgenin flora ve faunasını etkiler ve ziyaretçilere, çeşitli bitki ve hayvan türlerini gözlemleme fırsatı sunar. Şeyh Muhammed Türbesi'nin çevresi, tarihi ve doğal güzellikler açısından zengin bir yapıya sahiptir ve ziyaretçilere, Mardin'in tarihi ve kültürel mirasını keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ wikidata_id: "Q135582869"
 
 - Şeyh Muhammed Türbesi, Mardin'in önemli dini merkezlerinden biridir.
 - Bu türkben, 140 hektarlık bir alanda kurulmuştur.
-- Şeyh Muhammed Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Bölge, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 - Şeyh Muhammed Türbesi, her yıl binlerce ziyaretçi tarafından ziyaret edilir.

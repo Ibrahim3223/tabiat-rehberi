@@ -1,7 +1,7 @@
 ---
 title: "Şekerci Hamamı"
 date: "2026-01-09T23:20:18.170Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738980"
 
 # Şekerci Hamamı
 
-Şekerci Hamamı, İzmir'in Çeşme ilçesinde yer alan ve tarihi geçmişi ile bilinen bir plaj. Bu doğal güzellik, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Şekerci Hamamı, denizin ve güneşin keyfini çıkarabileceğiniz bir yer olarak biliniyor. Bu bölgede, yüzyıllar boyunca insanların denizin ve güneşin tadını çıkardığı biliniyor. Şekerci Hamamı, Çeşme'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Şekerci Hamamı, İzmir'in Çeşme ilçesinde yer alan ve tarihi geçmişi ile bilinen bir plaj. Şekerci Hamamı, denizin ve güneşin keyfini çıkarabileceğiniz bir yer olarak biliniyor. Bu bölgede, yüzyıllar boyunca insanların denizin ve güneşin tadını çıkardığı biliniyor. Şekerci Hamamı, Çeşme'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738980"
 
 ## Coğrafya
 
-Şekerci Hamamı, Çeşme'nin en güzel plajlarından biri olarak biliniyor. Bu bölgede, denizin ve güneşin keyfini çıkarabileceğiniz bir yer olarak dikkat çekiyor. Şekerci Hamamı, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Şekerci Hamamı, Ege Bölgesi'nin en güzel doğal güzelliklerinden biri olarak kabul ediliyor. Bu bölgede, denizin ve güneşin tadını çıkarabileceğiniz bir yer olarak biliniyor. Şekerci Hamamı, Çeşme'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor.
+Şekerci Hamamı, Çeşme'nin en güzel plajlarından biri olarak biliniyor. Bu bölgede, denizin ve güneşin keyfini çıkarabileceğiniz bir yer olarak dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmakta. Şekerci Hamamı, Ege Bölgesi'nin en güzel doğal güzelliklerinden biri olarak kabul ediliyor. Bu bölgede, denizin ve güneşin tadını çıkarabileceğiniz bir yer olarak biliniyor. Şekerci Hamamı, Çeşme'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

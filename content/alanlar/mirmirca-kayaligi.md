@@ -32,11 +32,11 @@ Balıkesir'in sahillerinde, Ege Denizi'nin sakin sularında gizlenen Mırmırca 
 
 ## Tarihçe
 
-Mırmırca Kayalığı, Balıkesir'in zengin tarihi dokusu içinde yer alan bir doğal güzelliktir. Bu bölge, tarihin sâu sayfalarında önemli medeniyetlerin izlerini taşır. Antik Çağ'da, Mysia ve Lydia gibi uygarlıkların hüküm sürdüğü topraklarda, Mırmırca Kayalığı da dâhil olmak üzere birçok doğal alan, insanların yaşamına ev sahipliği yapmıştır.
+Mırmırca Kayalığı, Balıkesir'in zengin tarihi dokusu içinde yer alan bir doğal güzelliktir. Bu bölge, tarihin derin sayfalarında önemli medeniyetlerin izlerini taşır. Antik Çağ'da, Mysia ve Lydia gibi uygarlıkların hüküm sürdüğü topraklarda, Mırmırca Kayalığı da dâhil olmak üzere birçok doğal alan, insanların yaşamına ev sahipliği yapmıştır.
 
-Türkiye'nin tarihsel coğrafyasında, bu tür doğal alanlar insan yerleşimleri, ticaret yolları ve yaylacılık gibi faaliyetler için önemli merkezler olmuştur. İnsanların bu alanlarla ilişkisi, binlerce yıllık bir geçmişe dayanır. Balıkesir bölgesi, históriki ticaret yollarının kesişme noktasında yer alır ve bu doğal güzellikler, insanları çekerek onların yaşamını ve faaliyetlerini etkilemiştir.
+Türkiye'nin tarihsel coğrafyasında, bu tür doğal alanlar insan yerleşimleri, ticaret yolları ve yaylacılık gibi faaliyetler için önemli merkezler olmuştur. İnsanların bu alanlarla ilişkisi, binlerce yıllık bir geçmişe dayanır. Balıkesir bölgesi, tarihi ticaret yollarının kesişme noktasında yer alır ve bu doğal güzellikler, insanları çekerek onların yaşamını ve faaliyetlerini etkilemiştir.
 
-Mırmırca Kayalığı da, bu tarihsel bağlam içinde, insanların yaşamına renk katmış ve onların doğayla iç içe olmasını sağlamış bir alandır. Bu tür doğal güzelliklerin korunması, sadece günümüz değil, aynı zamanda gelecek nesiller için de önemli bir sorumluluktur. Mırmırca Kayalığı, tarihin sâu sayfalarında gizli bir hazine gibi, günümüzde de insanları kendisine çekmeye devam etmektedir.
+Mırmırca Kayalığı da, bu tarihsel bağlam içinde, insanların yaşamına renk katmış ve onların doğayla iç içe olmasını sağlamış bir alandır. Bu tür doğal güzelliklerin korunması, sadece günümüz değil, aynı zamanda gelecek nesiller için de önemli bir sorumluluktur. Mırmırca Kayalığı, tarihin derin sayfalarında gizli bir hazine gibi, günümüzde de insanları kendisine çekmeye devam etmektedir.
 
 ## Coğrafya
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387644"
 
 # Zorap Tepesi
 
-Van ilinin doğal güzelliklerini keşfetmek isteyenler için Zorap Tepesi, önemli bir destinasyon. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan. Van'ın coğrafi yapısını ve tarihi geçmişini yansıtan Zorap Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepe, Van'ın merkezine yakın bir konumda yer alıyor, bu nedenle ulaşım oldukça kolay.
+Van ilinin doğal güzelliklerini keşfetmek isteyenler için Zorap Tepesi, önemli bir destinasyon. Van'ın coğrafi yapısını ve tarihi geçmişini yansıtan Zorap Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepe, Van'ın merkezine yakın bir konumda yer alıyor, bu nedenle ulaşım oldukça kolay.
 
 ## Tarihçe
 

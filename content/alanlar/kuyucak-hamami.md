@@ -1,7 +1,7 @@
 ---
 title: "Kuyucak Hamamı"
 date: "2026-01-09T23:36:05.276Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kahramanmaraş"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739133"
 
 # Kuyucak Hamamı
 
-Kuyucak Hamamı, Kahramanmaraş'ın Dulkadiroğlu ilçesinde, Akdeniz Bölgesi'nin zengin i güzelliklerinden birini sunar. Bu doğal alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Kuyucak Hamamı, ziyaretçilerine geniş ve yeşil bir alan sunar, aynı zamanda denizle iç içe bir  sunarak, doğayla baş başa kalma fırsatı verir. Bu özel mekan, hem doğa severler hem de deniz aşığı olanlar için önemli bir destinasyondur.
+Kuyucak Hamamı, Kahramanmaraş'ın Dulkadiroğlu ilçesinde, Akdeniz Bölgesi'nin zengin i güzelliklerinden birini sunar. Kuyucak Hamamı, ziyaretçilerine geniş ve yeşil bir alan sunar, aynı zamanda denizle iç içe bir  sunarak, doğayla baş başa kalma fırsatı verir. Bu özel mekan, hem doğa severler hem de deniz aşığı olanlar için önemli bir destinasyondur.
 
 ## Tarihçe
 

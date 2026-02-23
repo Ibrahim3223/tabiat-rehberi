@@ -28,7 +28,7 @@ wikidata_id: "Q34872855"
 
 # Gühereşeho Tepesi
 
-Mardin'in tarihi ve coğrafi güzelliği bir arada sunan Gühereşeho Tepesi, ziyaretçilerini doğanın ve tarihin iç içe geçtiği bir dünya sunuyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Burada, hem tarihi hem de coğrafi açıdan önemli bir noktada bulunuyorsunuz. Gühereşeho Tepesi, Mardin'in merkezi bir konumunda yer alıyor, bu da burayı ziyaret etmek isteyenler için ulaşımın oldukça kolay olduğu anlamına geliyor.
+Mardin'in tarihi ve coğrafi güzelliği bir arada sunan Gühereşeho Tepesi, ziyaretçilerini doğanın ve tarihin iç içe geçtiği bir dünya sunuyor. Burada, hem tarihi hem de coğrafi açıdan önemli bir noktada bulunuyorsunuz. Gühereşeho Tepesi, Mardin'in merkezi bir konumunda yer alıyor, bu da burayı ziyaret etmek isteyenler için ulaşımın oldukça kolay olduğu anlamına geliyor.
 
 ## Tarihçe
 

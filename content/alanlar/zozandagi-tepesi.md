@@ -28,7 +28,7 @@ wikidata_id: "Q31387781"
 
 # Zozandağı Tepesi
 
-Erzurum'un büyüleyici manzaralarına ev sahipliği yapan Zozandağı Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu geniş alan, ziyaretçilere doğayı keşfetme ve dinlenme imkanı sunuyor. Zozandağı Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini bir arada deneyimleyebilirsiniz. Zozandağı Tepesi, Erzurum'un en önemli turistik noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+ Bu geniş alan, ziyaretçilere doğayı keşfetme ve dinlenme imkanı sunuyor. Zozandağı Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini bir arada deneyimleyebilirsiniz. Zozandağı Tepesi, Erzurum'un en önemli turistik noktalarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Ekmek Yemez Tekkesi Türbesi"
 date: "2026-01-10T05:11:05.516Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391639"
 
 # Ekmek Yemez Tekkesi Türbesi
 
-Ekmek Yemez Tekkesi Türbesi, Üsküdar'da bulunan tarihi bir mekan olarak dikkat çekiyor. Bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan bir tarihi alan olarak ziyaretçilerini bekliyor. Üsküdar'ın önemli tarihi mekanlarından biri olan Ekmek Yemez Tekkesi Türbesi, ziyaretçilerine zengin bir tarihi geçmişi sunuyor. Mekan, Marmara Bölgesi'nin en önemli tarihi noktalarından biri olarak biliniyor.
+Ekmek Yemez Tekkesi Türbesi, Üsküdar'da bulunan tarihi bir mekan olarak dikkat çekiyor. Üsküdar'ın önemli tarihi mekanlarından biri olan Ekmek Yemez Tekkesi Türbesi, ziyaretçilerine zengin bir tarihi geçmişi sunuyor. Mekan, Marmara Bölgesi'nin en önemli tarihi noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 

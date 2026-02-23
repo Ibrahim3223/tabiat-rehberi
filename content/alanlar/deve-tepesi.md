@@ -28,7 +28,7 @@ wikidata_id: "Q31385873"
 
 # Deve Tepesi
 
-Deve Tepesi, Mersin'de, Akdeniz Bölgesi'nde yer alan ve doğa severler için bir cennet olan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplı. Deve Tepesi, ziyaretçilerine eşsiz manzaralar sunan ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunan bir destinasyon. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Deve Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
+Deve Tepesi, Mersin'de, Akdeniz Bölgesi'nde yer alan ve doğa severler için bir cennet olan bir tepe. Deve Tepesi, ziyaretçilerine eşsiz manzaralar sunan ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunan bir destinasyon. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Deve Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktası.
 
 ## Tarihçe
 

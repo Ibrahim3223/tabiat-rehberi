@@ -29,7 +29,7 @@ wikidata_id: "Q2414579"
 
 # Büyük Çamlıca Tepesi
 
-Büyük Çamlıca Tepesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. Tepenin eteklerinde yer alan köyler, misafirlerine sıcak bir şekilde karşılıyor ve bölgeyi keşfetmeye gelen ziyaretçilere unutulmaz bir deneyimi vaat ediyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, Büyük Çamlıca Tepesi'nin quanhaysa zengin bir flora ve fauna çeşitliliğine sahip olmasını sağlıyor.
+Büyük Çamlıca Tepesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Tepenin eteklerinde yer alan köyler, misafirlerine sıcak bir şekilde karşılıyor ve bölgeyi keşfetmeye gelen ziyaretçilere unutulmaz bir deneyimi vaat ediyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, Büyük Çamlıca Tepesi'nin quanhaysa zengin bir flora ve fauna çeşitliliğine sahip olmasını sağlıyor.
 
 ## Tarihçe
 

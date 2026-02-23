@@ -33,7 +33,7 @@ Adıyaman'ın tarihi ve kültürel zenginliklerinin arasında yer alan Karadağ,
 
 ## Tarihçe
 
-Adıyaman Karadağ, tarihin sâu izlerini taşıyan bir bölgede yer alıyor. Bu bölge, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan geniş bir coğrafyanın parçası. Adıyaman, tarih boyunca önemli ticaret yollarının kavşak noktası olmuş, farklı kültürlerin etkileşimine tanık olmuş bir bölge.
+Adıyaman Karadağ, tarihin derin izlerini taşıyan bir bölgede yer alıyor. Bu bölge, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan geniş bir coğrafyanın parçası. Adıyaman, tarih boyunca önemli ticaret yollarının kavşak noktası olmuş, farklı kültürlerin etkileşimine tanık olmuş bir bölge.
 
 Doğal güzellikleri ve stratejik konumuyla, bu tür alanlar Türkiye'de her zaman önemli bir rol oynamışlar. İnsanlar, yüzyıllar boyunca bu alanları yaylacılık, hayvancılık ve ticaret için kullanmışlar. Karadağ gibi doğal alanlar, bölgedeki halkın yaşam tarzı ve ekonomisinde önemli bir yer tutmuş.
 

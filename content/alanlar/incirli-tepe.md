@@ -28,7 +28,7 @@ wikidata_id: "Q31390238"
 
 # İncirli Tepe
 
-İncirli Tepe, Osmaniye'nin göbeğinde yer alan ve şehre hakim bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliğini gözler önüne seriyor. İncirli Tepe, ziyaretçilerine Osmaniye'nin panoramik manzarasını sunuyor. Tepeye tırmanırken, çevredeki tarihi ve doğal güzelliklerin hikayesini keşfetme mümkün. İncirli Tepe, doğa severler için bir cennet ve Osmaniye'nin önemli turizm noktalarından biri.
+İncirli Tepe, Osmaniye'nin göbeğinde yer alan ve şehre hakim bir tepe. İncirli Tepe, ziyaretçilerine Osmaniye'nin panoramik manzarasını sunuyor. Tepeye tırmanırken, çevredeki tarihi ve doğal güzelliklerin hikayesini keşfetme mümkün. İncirli Tepe, doğa severler için bir cennet ve Osmaniye'nin önemli turizm noktalarından biri.
 
 ## Tarihçe
 

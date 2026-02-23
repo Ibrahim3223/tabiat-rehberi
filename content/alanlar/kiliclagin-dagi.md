@@ -50,9 +50,9 @@ Doğal güzelliklerin bir araya geldiği bu bölge, jeolojik açıdan da ilgi ç
 
 ## Flora ve Fauna
 
-Kılıçlağın Dağı, Afyonkarahisar'ın zeytinlikler ve çam ormanları ile çevrilmiş bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, farklı mevsimlerde çeşitli bitki örtüsüne ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. 
+Kılıçlağın Dağı, Afyonkarahisar'ın zeytinlikler ve çam ormanları ile çevrilmiş bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, farklı mevsimlerde çeşitli bitki örtüsüne ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor.
 
-Yaban hayatı açısından zengin olan Kılıçlağın Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Dağın yüksek kesimlerinde, göçmen kuşlar sonbaharın gelmesiyle birlikte görülüyor. Sürüngenler ve diğer küçük hayvanlar da bu dağ ekosisteminin bir parçası. 
+Yaban hayatı açısından zengin olan Kılıçlağın Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Dağın yüksek kesimlerinde, göçmen kuşlar sonbaharın gelmesiyle birlikte görülüyor. Sürüngenler ve diğer küçük hayvanlar da bu dağ ekosisteminin bir parçası.
 
 Kılıçlağın Dağı, ekolojik açıdan önemli bir bölge. Bu alanın korunması, bölgedeki canlıların yaşam alanlarını korumak için çok önemli. Zeytinlikler ve çam ormanları ile çevrilmiş olan bu dağ, bölgenin ekolojik dengesini koruyor.
 

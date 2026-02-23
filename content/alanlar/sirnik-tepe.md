@@ -28,7 +28,7 @@ wikidata_id: "Q31385446"
 
 # Sırnık Tepe
 
-Sırnık Tepe, Konya'nın coğrafi güzelliklerini ve tarihi değerlerini bir araya getiren bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir manzara sunuyor. Bu tepe, çevresindeki yerleşim yerleri ve tarihi yapılardan oluşan bir panorama sunuyor. Ziyaretçiler, buraya çıktıklarında, Konya'nın tarihi ve kültürel zenginliklerini keşfetme fırsatı buluyorlar. Tarihi ve doğal güzellikleri bir arada sunan bu tepe, gezi severlerin ilgisini çekiyor.
+Sırnık Tepe, Konya'nın coğrafi güzelliklerini ve tarihi değerlerini bir araya getiren bir destinasyon. Bu tepe, çevresindeki yerleşim yerleri ve tarihi yapılardan oluşan bir panorama sunuyor. Ziyaretçiler, buraya çıktıklarında, Konya'nın tarihi ve kültürel zenginliklerini keşfetme fırsatı buluyorlar. Tarihi ve doğal güzellikleri bir arada sunan bu tepe, gezi severlerin ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sırnık Tepe'nin tarihi geçmişi, Konya'nın tarihine paralel olarak gelişmi�
 
 ## Coğrafya
 
-Sırnık Tepe, Konya'nın coğrafi olarak önemli bir bölgesinde yer alıyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, çevresindeki ovalar ve dağlarla birlikte bir bütün olarak değerlendiriliyor. Tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alanda, ziyaretçiler yürüyüş yapabilir, manzaranın keyfini çıkarabilir veya piknik yapabilir. Çevresindeki doğal güzellikler, tepeyi bir gezi destinasyonu olarak önemli kılıyor. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri gösteriyor; yazları sıcak ve kurak, kışları soğuk ve kar yağışlı. Bu iklim, tepe ve çevresinin florası ve faunası üzerinde etkili oluyor.
+Sırnık Tepe, Konya'nın coğrafi olarak önemli bir bölgesinde yer alıyor. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, çevresindeki ovalar ve dağlarla birlikte bir bütün olarak değerlendiriliyor. Bu geniş alanda, ziyaretçiler yürüyüş yapabilir, manzaranın keyfini çıkarabilir veya piknik yapabilir. Çevresindeki doğal güzellikler, tepeyi bir gezi destinasyonu olarak önemli kılıyor. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri gösteriyor; yazları sıcak ve kurak, kışları soğuk ve kar yağışlı. Bu iklim, tepe ve çevresinin florası ve faunası üzerinde etkili oluyor.
 
 ## Flora ve Fauna
 

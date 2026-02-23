@@ -28,7 +28,7 @@ wikidata_id: "Q32139446"
 
 # Güneyyaka Tepesi
 
-Güneyyaka Tepesi, Internalıç Anadolu Bölgesi'nin önemli noktalarından biri olan Niğde'de yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Güneyyaka Tepesi, Internalıç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Güneyyaka Tepesi, Internalıç Anadolu Bölgesi'nin önemli noktalarından biri olan Niğde'de yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Güneyyaka Tepesi, Internalıç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

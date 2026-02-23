@@ -30,7 +30,7 @@ wikidata_id: "Q31189359"
 
 # Kuzuyayla Tabiat Parkı
 
-Kuzuyayla Tabiat Parkı, Kocaeli'nin Kartepe ilçesinde yer alan 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tabiat parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilir. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kuzuyayla Tabiat Parkı, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyon. Ziyaretçiler, parkın içinde yürüyüş yapabilir, piknik yapabilir veya doğa fotoğrafçılığı yapabilir.
+ Bu tabiat parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilir. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kuzuyayla Tabiat Parkı, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyon. Ziyaretçiler, parkın içinde yürüyüş yapabilir, piknik yapabilir veya doğa fotoğrafçılığı yapabilir.
 
 ## Tarihçe
 

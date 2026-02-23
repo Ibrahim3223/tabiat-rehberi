@@ -1,7 +1,7 @@
 ---
 title: "Alibaba Türbesi"
 date: "2026-01-10T05:24:20.910Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391678"
 
 # Alibaba Türbesi
 
-Marmara Bölgesi'nin gizli kumsallarından biri olan Alibaba Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüleyici mekan, doğa severlerin ve plaj tutkunlarının keyif alacağı bir yer. Alibaba Türbesi, Marmara Bölgesi'nin en güzel noktalarından biri olarak görülmekte ve ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilere geniş bir alan sunmaktadır. Alibaba Türbesi, Marmara Bölgesi'nin Balıkesir ilinde yer almakta ve bu bölge, doğal güzellikleriyle ünlüdür. Alibaba Türbesi, bu bölgenin en önemli turizm noktalarından biri olarak görülmekte ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir.
+ Bu büyüleyici mekan, doğa severlerin ve plaj tutkunlarının keyif alacağı bir yer. Alibaba Türbesi, Marmara Bölgesi'nin en güzel noktalarından biri olarak görülmekte ve ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaktadır. Alibaba Türbesi, Marmara Bölgesi'nin Balıkesir ilinde yer almakta ve bu bölge, doğal güzellikleriyle ünlüdür. Alibaba Türbesi, bu bölgenin en önemli turizm noktalarından biri olarak görülmekte ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Alibaba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Alibaba Türbesi, Marmara Bölgesi'nin Balıkesir ilinde yer almakta ve bu bölge, doğal güzellikleriyle ünlüdür. Alibaba Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilere geniş bir alan sunmaktadır. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaktadır. Alibaba Türbesi, Marmara Denizi'nin kıyısında yer almakta ve bu konum, ziyaretçilerine muhteşem bir manzara sunmaktadır. Alibaba Türbesi'nin coğrafi konumu, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır. Bu olanaklar, doğa yürüyüşlerinden su sporlarına kadar çeşitlilik göstermekte ve ziyaretçilerin keyif alacağı bir deneyim sunmaktadır. Alibaba Türbesi, Marmara Bölgesi'nin en güzel noktalarından biri olarak görülmekte ve ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaktadır. Alibaba Türbesi'nin coğrafi yapısı, ziyaretçilerine zengin bir deneyim sunmaktadır. Bu deneyim, doğanın güzellikleriyle dolu bir gezi deneyimi sunmakta ve ziyaretçilerin keyif alacağı bir yer olarak görülmektedir.
+Alibaba Türbesi, Marmara Bölgesi'nin Balıkesir ilinde yer almakta ve bu bölge, doğal güzellikleriyle ünlüdür. Bu alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaktadır. Alibaba Türbesi, Marmara Denizi'nin kıyısında yer almakta ve bu konum, ziyaretçilerine muhteşem bir manzara sunmaktadır. Alibaba Türbesi'nin coğrafi konumu, ziyaretçilerine çeşitli aktivite olanakları sunmaktadır. Bu olanaklar, doğa yürüyüşlerinden su sporlarına kadar çeşitlilik göstermekte ve ziyaretçilerin keyif alacağı bir deneyim sunmaktadır. Alibaba Türbesi, Marmara Bölgesi'nin en güzel noktalarından biri olarak görülmekte ve ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaktadır. Alibaba Türbesi'nin coğrafi yapısı, ziyaretçilerine zengin bir deneyim sunmaktadır. Bu deneyim, doğanın güzellikleriyle dolu bir gezi deneyimi sunmakta ve ziyaretçilerin keyif alacağı bir yer olarak görülmektedir.
 
 ## Flora ve Fauna
 

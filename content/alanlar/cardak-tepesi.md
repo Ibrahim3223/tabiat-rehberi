@@ -29,7 +29,7 @@ wikidata_id: "Q34828389"
 
 # Çardak Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren Çardak Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Eyyübiye ilçesinde yer alan bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Çardak Tepesi, bölgeye özgü bitki türleriyle kaplıdır ve zengin fauna çeşitliliğine sahiptir. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Çardak Tepesi'nin bulunduğu Eyyübiye, Şanlıurfa'nın en önemli ilçelerinden biridir ve tarihsel olarak önemli bir geçmişe sahiptir.
+Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren Çardak Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Çardak Tepesi, bölgeye özgü bitki türleriyle kaplıdır ve zengin fauna çeşitliliğine sahiptir. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Çardak Tepesi'nin bulunduğu Eyyübiye, Şanlıurfa'nın en önemli ilçelerinden biridir ve tarihsel olarak önemli bir geçmişe sahiptir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya geti
 
 ## Coğrafya
 
-Çardak Tepesi, Eyyübiye ilçesinin merkezi bir noktasında yer alır ve Şanlıurfa'nın coğrafi yapısına uygun olarak, bir tepe olarak oluşmuştur. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapladığı için, bölgenin en önemli doğal ve tarihi güzelliklerinden biridir. Çardak Tepesi, bölgeye özgü bitki türleriyle kaplıdır ve zengin fauna çeşitliliğine sahiptir. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Çardak Tepesi'nin eteklerinde ve çevresinde, çeşitli tarihi kalıntılar ve eserler bulunmaktadır. Bu eserler, bölgeye gelen ziyaretçilerin, tarihin derinliklerini keşfetmelerine olanak sağlar. Çardak Tepesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmeleri için ideal bir konum sunar. Tepenin etrafında, çeşitli yürüyüş parkurları ve manzaralı noktalar bulunmaktadır.
+Çardak Tepesi, Eyyübiye ilçesinin merkezi bir noktasında yer alır ve Şanlıurfa'nın coğrafi yapısına uygun olarak, bir tepe olarak oluşmuştur. Çardak Tepesi, bölgeye özgü bitki türleriyle kaplıdır ve zengin fauna çeşitliliğine sahiptir. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Çardak Tepesi'nin eteklerinde ve çevresinde, çeşitli tarihi kalıntılar ve eserler bulunmaktadır. Bu eserler, bölgeye gelen ziyaretçilerin, tarihin derinliklerini keşfetmelerine olanak sağlar. Çardak Tepesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmeleri için ideal bir konum sunar. Tepenin etrafında, çeşitli yürüyüş parkurları ve manzaralı noktalar bulunmaktadır.
 
 ## Flora ve Fauna
 

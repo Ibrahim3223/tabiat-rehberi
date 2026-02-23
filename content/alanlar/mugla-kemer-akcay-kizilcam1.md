@@ -22,7 +22,7 @@ wikidata_id: "Q108227912"
 
 # Mugla-Kemer-Akcay Kızılçam1
 
-Mugla-Kemer-Akcay Kızılçam1, Muğla'nın güzide bölgelerinden biri olarak karşımıza çıkıyor. 140 hektarlık geniş bir yeşil alanı kapsıyor. Bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Doğal güzelliği ve zengin florası ile dikkat çekiyor. Ziyaretçilerini doğanın kucağına davet ediyor. Burada, şehrin gürültüsünden uzaklaşarak doğanın sesini dinleyebilirsiniz. Yeşilin her tonunu görebileceğiniz bu alan, aynı zamanda birçok bitki ve hayvan türüne ev sahipliği yapıyor.
+Mugla-Kemer-Akcay Kızılçam1, Muğla'nın güzide bölgelerinden biri olarak karşımıza çıkıyor. 140 hektarlık geniş bir yeşil alanı kapsıyor. Doğal güzelliği ve zengin florası ile dikkat çekiyor. Ziyaretçilerini doğanın kucağına davet ediyor. Burada, şehrin gürültüsünden uzaklaşarak doğanın sesini dinleyebilirsiniz. Yeşilin her tonunu görebileceğiniz bu alan, aynı zamanda birçok bitki ve hayvan türüne ev sahipliği yapıyor.
 
 ## Tarihçe
 

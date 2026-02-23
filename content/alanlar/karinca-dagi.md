@@ -32,7 +32,7 @@ Adana'nın zengin coğrafyasında yer alan Karınca Dağı, ilin doğal güzelli
 
 ## Tarihçe
 
-Adana bölgesinin tarihi, binlerce yıl öncesine dayanır. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların etkilerini görmüştür. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüş ve kendi kültürlerini bırakmışlardır. 
+Adana bölgesinin tarihi, binlerce yıl öncesine dayanır. Bu bölge, tarihin farklı dönemlerinde çeşitli uygarlıkların etkilerini görmüştür. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüş ve kendi kültürlerini bırakmışlardır.
 
 Karınca Dağı, bu tarihsel zenginliğin içinde yer alan önemli bir doğal alan olarak öne çıkar. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yaşamlarında önemli roller oynamıştır. Bu alanlar, yaylacılık, hayvancılık ve ticaret yolları için stratejik noktalar olarak kullanılmıştır. İnsanlar, bu doğal güzelliklerin arasında yaşamlarını sürdürürken, aynı zamanda bu alanları korumuş ve gelecek nesillere aktarmışlardır.
 

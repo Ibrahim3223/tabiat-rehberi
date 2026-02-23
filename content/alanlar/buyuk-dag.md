@@ -33,7 +33,7 @@ Gaziantep'in büyüleyici coğrafyasında yer alan Büyük Dağ, şehrin doğal 
 
 ## Tarihçe
 
-Gaziantep'in büyüleyici "Büyük Dağ" bölgesi, tarihin sâu izleriyle dolu bir coğrafyanın parçası. Bu bölge, binlerce yıl boyunca çeşitli uygarlıklara ev sahipliği yapmış; Hititlerden, Roma ve Bizans İmparatorluklarına, Selçuklulara ve Osmanlılara kadar birçok medeniyet buradan geçmiş. Türkiye'nin güneydoğusundaki bu stratejik konumu, tarihin akışını şekillendiren ticaret yollarının kesişme noktası olarak hizmet vermiş.
+Gaziantep'in büyüleyici "Büyük Dağ" bölgesi, tarihin derin izleriyle dolu bir coğrafyanın parçası. Bu bölge, binlerce yıl boyunca çeşitli uygarlıklara ev sahipliği yapmış; Hititlerden, Roma ve Bizans İmparatorluklarına, Selçuklulara ve Osmanlılara kadar birçok medeniyet buradan geçmiş. Türkiye'nin güneydoğusundaki bu stratejik konumu, tarihin akışını şekillendiren ticaret yollarının kesişme noktası olarak hizmet vermiş.
 
 Doğal güzellikleri ve zengin kaynaklarıyla, "Büyük Dağ" gibi alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Bu tür bölgeler, yüzyıllar boyunca insanların yerleşim, hayvancılık ve tarım faaliyetleri için tercih edilen yerler olarak görev görmüş. Ayrıca, yaylacılık geleneği de bu bölgelerde önemli bir rol oynamış; insanlar mevsimsel olarak yüksek rakımlara çıkarak hayvanlarını otlatmış ve bu şekilde bölgeyle derin bir bağ kurmuş.
 

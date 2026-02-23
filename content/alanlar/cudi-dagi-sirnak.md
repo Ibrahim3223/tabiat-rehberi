@@ -29,20 +29,20 @@ wikidata_id: "Q31526545"
 
 # Cudi Dağı (Şırnak)
 
-Şırnak ili sınırları içinde yer alan Cudi Dağı, tarihin sâu izlerini taşıyan bir coğrafi oluşum. Bu dağ, bölgeye özgü jeolojik yapısıyla dikkat çekiyor. Cudi Dağı, Şırnak'ın tarihi ve kültürel zenginliklerini korumasında önemli bir role sahip. Şırnak'ın coğrafi çeşitliliğiçinde önemli bir yere sahip olan Cudi Dağı, ziyaretçilerini bekliyor.
+Şırnak ili sınırları içinde yer alan Cudi Dağı, tarihin derin izlerini taşıyan bir coğrafi oluşum. Bu dağ, bölgeye özgü jeolojik yapısıyla dikkat çekiyor. Cudi Dağı, Şırnak'ın tarihi ve kültürel zenginliklerini korumasında önemli bir role sahip. Şırnak'ın coğrafi çeşitliliğiçinde önemli bir yere sahip olan Cudi Dağı, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
-Cudi Dağı, Şırnak bölgesinin kalbinde yer alan bir dağdır. Bu bölge, tarihin derinliklerine uzanan bir geçmişe sahiptir. Şırnak, çeşitli uygarlıkların etkilerini taşıyan bir coğrafyadır. Tarihi İpek Yolu'nun bir bölümü bu bölge üzerinden geçer ve bu da bölgenin ticaret ve kültür alışverişi açısından önemli bir merkez olduğunu gösterir. 
+Cudi Dağı, Şırnak bölgesinin kalbinde yer alan bir dağdır. Bu bölge, tarihin derinliklerine uzanan bir geçmişe sahiptir. Şırnak, çeşitli uygarlıkların etkilerini taşıyan bir coğrafyadır. Tarihi İpek Yolu'nun bir bölümü bu bölge üzerinden geçer ve bu da bölgenin ticaret ve kültür alışverişi açısından önemli bir merkez olduğunu gösterir.
 
-Cudi Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bir yer tutar. Bu dağlar, yalnızca coğrafi olarak değil, aynı zamanda insanların yaşamlarını sürdürdükleri, yaylacılık ve hayvancılık yaptığı, ticaret yolları üzerinde bulunan stratejik noktalar olarak da dikkat çeker. İnsanların bu dağlarla ilişkisi, binlerce yıl öncesine uzanan bir geçmişe sahiptir. 
+Cudi Dağı gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bir yer tutar. Bu dağlar, yalnızca coğrafi olarak değil, aynı zamanda insanların yaşamlarını sürdürdükleri, yaylacılık ve hayvancılık yaptığı, ticaret yolları üzerinde bulunan stratejik noktalar olarak da dikkat çeker. İnsanların bu dağlarla ilişkisi, binlerce yıl öncesine uzanan bir geçmişe sahiptir.
 Bu bölge, çeşitli medeniyetlerin izlerini taşır ve Cudi Dağı, bu zengin tarihsel mirasın bir parçasıdır.
 
 ## Coğrafya
 
 Doğu Anadolu'nun güneydoğu ucunda yer alan Cudi Dağı, Şırnak ilinin sınırları içerisinde bulunmaktadır. 37.3769°K, 42.4550°D koordinatlarında konumlanan bu dağ, bölgenin coğrafi yapısını şekillendiren önemli bir unsurdur. Güneyde Suriye sınırına yakın olan Cudi Dağı, çevredeki diğer dağlarla birlikte bir dağ silsilesini oluşturmaktadır.
 
-Cudi Dağı'nın fiziksel yapısı, bölgenin jeolojik históriağını yansıtmaktadır. Bu dağ, bölgenin tortul kayaçlarından oluşan bir yapıya sahiptir. Cudi Dağı'nın boyutları, Monaco'nun yarısı kadar bir alana yayılmaktadır. Bu geniş alan, bölgenin coğrafi çeşitliliğini gösteren önemli bir özelliktir. Dağın yüksekliği, 85 katlı bir gökdelen kadar yüksekte bulunmaktadır.
+Cudi Dağı'nın fiziksel yapısı, bölgenin jeolojik tarihiğını yansıtmaktadır. Bu dağ, bölgenin tortul kayaçlarından oluşan bir yapıya sahiptir. Cudi Dağı'nın boyutları, Monaco'nun yarısı kadar bir alana yayılmaktadır. Bu geniş alan, bölgenin coğrafi çeşitliliğini gösteren önemli bir özelliktir. Dağın yüksekliği, 85 katlı bir gökdelen kadar yüksekte bulunmaktadır.
 
 Bölgenin iklim karakteri, Cudi Dağı'nın coğrafi konumundan etkilenmektedir. Dağın yüksekliği ve coğrafi konumu, bölgede mevsimsel özelliklerin oluşmasına neden olmaktadır. Kış aylarında karla kaplanan dağ, yaz aylarında ise serin bir iklim sunmaktadır. Bu mevsimsel değişiklikler, bölgenin flora ve fauna çeşitliliğini etkilemektedir.
 

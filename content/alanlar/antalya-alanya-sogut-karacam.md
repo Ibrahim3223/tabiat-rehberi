@@ -22,7 +22,7 @@ wikidata_id: "Q108227479"
 
 # Antalya-Alanya-Sogut Karacam
 
-Antalya-Alanya-Sogut Karacam milli parkı, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor. Bu milli park, Akdeniz Bölgesi'nde yer alıyor ve zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Parkın konumu, ziyaretçiler için hem gezi hem de doğa severler için bir cennet olarak görülüyor.
+ Bu milli park, Akdeniz Bölgesi'nde yer alıyor ve zengin flora ve fauna çeşitliliğiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Parkın konumu, ziyaretçiler için hem gezi hem de doğa severler için bir cennet olarak görülüyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Alanya-Sogut Karacam milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Antalya-Alanya-Sogut Karacam milli parkı, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Parkın yapısı, dağlık ve ormanlık alanlardan oluşuyor. İklimi, Akdeniz iklimi özellikleri gösteriyor. Parkın çevresi, çeşitli bitki türleri ve hayvanlarla dolu. Burada, mevsimsel değişimler, ziyaretçilerin interestini çekiyor. Parkın coğrafi konumu, ziyaretçiler için hem gezi hem de doğa severler için bir cennet olarak görülüyor. Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu alan, çeşitli flora ve fauna türlerine ev sahipliği yapıyor.
+Antalya-Alanya-Sogut Karacam milli parkı, coğrafi olarak Akdeniz Bölgesi'nde yer alıyor. Parkın yapısı, dağlık ve ormanlık alanlardan oluşuyor. İklimi, Akdeniz iklimi özellikleri gösteriyor. Parkın çevresi, çeşitli bitki türleri ve hayvanlarla dolu. Burada, mevsimsel değişimler, ziyaretçilerin interestini çekiyor. Parkın coğrafi konumu, ziyaretçiler için hem gezi hem de doğa severler için bir cennet olarak görülüyor.
 
 ## Flora ve Fauna
 

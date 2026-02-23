@@ -32,9 +32,9 @@ Mardin'in tarihi dokusu içinde yer alan Pirinç Tepe, bölgenin coğrafi güzel
 
 ## Tarihçe
 
-Mardin'in tarihi dokusu, binlerce yıllık bir geçmişe uzanır. Bu bölgede, Sümerler, Akadlar, Hititler, Asurlular ve Persler gibi uygarlıklar yaşamıştır. Bölgenin stratejik konumu, tarihi ticaret yollarının kesişme noktasında yer alması, burada yaşayan topluluklar için önemli bir avantaja sahip olmuştur. 
+Mardin'in tarihi dokusu, binlerce yıllık bir geçmişe uzanır. Bu bölgede, Sümerler, Akadlar, Hititler, Asurlular ve Persler gibi uygarlıklar yaşamıştır. Bölgenin stratejik konumu, tarihi ticaret yollarının kesişme noktasında yer alması, burada yaşayan topluluklar için önemli bir avantaja sahip olmuştur.
 
-Pirinç Tepe, Mardin'in zengin tarihi ve kültürel mirasının bir parçasıdır. Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. Bu alanlar, insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sunmuş, aynı zamanda ticaret yolları ve yaylacılık için önemli merkezler olarak hizmet vermiştir. 
+Pirinç Tepe, Mardin'in zengin tarihi ve kültürel mirasının bir parçasıdır. Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. Bu alanlar, insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sunmuş, aynı zamanda ticaret yolları ve yaylacılık için önemli merkezler olarak hizmet vermiştir.
 
 İnsanların bu tür doğal alanlarla olan ilişkisi, binlerce yıl öncesine dayanır. Yaylacılık ve hayvancılık, bölgede yaşayan topluluklar için temel geçim kaynaklarından biri olmuştur. Ayrıca, tarihi ticaret yolları, bu doğal alanlardan geçerek, bölgenin ekonomi ve kültürel gelişimine katkıda bulunmuştur. Pirinç Tepe, bu bağlamda, Mardin'in zengin tarihi ve kültürel mirasının önemli bir bileşeni olarak yer alır.
 

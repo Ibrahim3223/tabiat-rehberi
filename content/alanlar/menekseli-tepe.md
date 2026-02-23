@@ -28,7 +28,7 @@ wikidata_id: "Q31390201"
 
 # Menekşeli Tepe
 
-Menekşeli Tepe, Burdur'un güzel bir köşesinde yer alan ve ziyaretçilerini doğal güzellikleriyle cezbeden bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle dolu. Bu tepe, Akdeniz Bölgesi'nin zengin flora ve faunasını deneyimlemek için ideal bir yer. Burada, doğanın güzelliğini ve sakinliğini hissetme mümkün. Menekşeli Tepe, hem doğa severler hem de fotoğraf tutkunları için bir cennet. Güneşin batışını izleme veya doğanın seslerini dinlemek için mükemmel bir nokta.
+Menekşeli Tepe, Burdur'un güzel bir köşesinde yer alan ve ziyaretçilerini doğal güzellikleriyle cezbeden bir tepe. Bu tepe, Akdeniz Bölgesi'nin zengin flora ve faunasını deneyimlemek için ideal bir yer. Burada, doğanın güzelliğini ve sakinliğini hissetme mümkün. Menekşeli Tepe, hem doğa severler hem de fotoğraf tutkunları için bir cennet. Güneşin batışını izleme veya doğanın seslerini dinlemek için mükemmel bir nokta.
 
 ## Tarihçe
 

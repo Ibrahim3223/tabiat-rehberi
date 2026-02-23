@@ -51,7 +51,7 @@ Gölün çevresinde, farklı türde bitki ve hayvan türleri yaşamakta. Alpasla
 
 Alpaslan-1 Baraj Gölü, Muş'un yüksek dağ ekolojisinde yer alan bir göldür. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, gölün çevresindeki alpin çayırlar rengarenk çiçeklerle donanır. Sonbaharda ise, göç eden su kuşları gölde konaklar.
 
-Gölün bitki örtüsünü oluşturan sulak alan bitkileri, suyun kıyısında ve içinde yetişir. Bu bitkiler, su kuşları ve balıklar için yaşam alanı sağlar. Gölde yaşayan memeliler, memeli familyasına ait çeşitli türleri barındırır. Kuşlar, gölün ekosisteminin önemli bir parçasıdır. Göç eden su kuşları, gölde konaklayarak beslenir ve ürer. 
+Gölün bitki örtüsünü oluşturan sulak alan bitkileri, suyun kıyısında ve içinde yetişir. Bu bitkiler, su kuşları ve balıklar için yaşam alanı sağlar. Gölde yaşayan memeliler, memeli familyasına ait çeşitli türleri barındırır. Kuşlar, gölün ekosisteminin önemli bir parçasıdır. Göç eden su kuşları, gölde konaklayarak beslenir ve ürer.
 
 Gölün ekolojik değeri, yüksek dağ ekolojisinde yer alması ve endemik türleri barındırmasıdır. Bu nedenle, koruma altına alınması önemlidir. Gölün korunması, su kuşları ve balıkların yaşaması için gerekli olan sulak alan bitkilerinin de korunmasını sağlar.
 

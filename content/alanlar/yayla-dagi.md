@@ -53,9 +53,9 @@ Yayla Dağı'nın iklimi, İç Anadolu Bölgesi'nin genel iklim karakterini yans
 
 Yayla Dağı, Isparta'nın güzide bir bölümü, 1200 hektarlık bu yeşil cennet, maki bitki örtüsüne ev sahipliği yapıyor. İklim koşulları, kuraklığa dayanıklı türlerin hakim olduğu bir bölge. Kıyı ekosisteminin de etkisiyle, dağ ekosistemi yükseklik zonlarına göre değişkenlik gösteriyor.
 
-Bitki örtüsünde, ilkbaharın gelmesiyle birlikte, çiçekler renkli bir şölen sunuyor. Sonbaharda, yaprakların dökülmesiyle birlikte, dağ manzarası değişiyor. Dağların yükseklik zonlarında, alpin flora hüküm sürüyor. 
+Bitki örtüsünde, ilkbaharın gelmesiyle birlikte, çiçekler renkli bir şölen sunuyor. Sonbaharda, yaprakların dökülmesiyle birlikte, dağ manzarası değişiyor. Dağların yükseklik zonlarında, alpin flora hüküm sürüyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin. Memeliler, dağların yükseklik zonlarına göre yaşam alanlarını ayarlıyorlar. Kuşlar, göç mevsimlerinde, bu bölgeyi önemli bir durak olarak kullanıyorlar. Sürüngenler ise, kuraklığa dayanıklı türlerin arasında yer alıyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin. Memeliler, dağların yükseklik zonlarına göre yaşam alanlarını ayarlıyorlar. Kuşlar, göç mevsimlerinde, bu bölgeyi önemli bir durak olarak kullanıyorlar. Sürüngenler ise, kuraklığa dayanıklı türlerin arasında yer alıyor.
 
 Bu dağ ekosistemi, ekolojik değerini koruma altına almak gerekiyor. Doğal yaşam alanlarının korunması, bu bölgenin geleceğiçin çok önemli. Yayla Dağı, Isparta'nın doğa harikalarından biri olarak, ziyaretçilerini bekliyor.
 

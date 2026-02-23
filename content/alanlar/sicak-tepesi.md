@@ -28,15 +28,15 @@ wikidata_id: "Q31387492"
 
 # Sıcak Tepesi
 
-Sıcak Tepesi, Van ilinin doğal güzelliklerinden biri olarak ziyaretçilerini büyülüyor. Doğu Anadolu Bölgesi'nde bulunan bu tepe, khong 140 hektarlık bir alanı kaplıyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş ve yeşil bir ortam sunuyor. Sıcak Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olarak kullanılmıştır.
+Sıcak Tepesi, Van ilinin doğal güzelliklerinden biri olarak ziyaretçilerini büyülüyor. Doğu Anadolu Bölgesi'nde bulunan bu tepe, khong 140 hektarlık bir alanı kaplıyor. Sıcak Tepesi, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olarak kullanılmıştır.
 
 ## Tarihçe
 
-Sıcak Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olarak kullanılmıştır. Tarihi geçmişi hakkında detaylı bilgi bulunmasa da, bu tepe'nin uzun bir geçmişe sahip olduğu biliniyor. Sıcak Tepesi, ziyaretçilerine hem doğal güzelliğini hem de tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor. Bu tepe, yüzyıllar boyunca birçok uygarlığın izlerini taşıyor ve ziyaretçilerini tarihin sâuına götürüyor.
+Sıcak Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar boyunca çeşitli uygarlıkların yerleşim alanı olarak kullanılmıştır. Tarihi geçmişi hakkında detaylı bilgi bulunmasa da, bu tepe'nin uzun bir geçmişe sahip olduğu biliniyor. Sıcak Tepesi, ziyaretçilerine hem doğal güzelliğini hem de tarihi geçmişi hakkında bilgi edinme fırsatı sunuyor. Bu tepe, yüzyıllar boyunca birçok uygarlığın izlerini taşıyor ve ziyaretçilerini tarihin derinına götürüyor.
 
 ## Coğrafya
 
-Sıcak Tepesi, Van ilinin merkezi yakınlarında bulunuyor. Doğu Anadolu Bölgesi'nde yer alan bu tepe, khong 140 hektarlık bir alanı kaplıyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş ve yeşil bir ortam sunuyor. Sıcak Tepesi, çevresi ile birlikte yaklaşık 500 metre yüksekliğe sahip. Bu tepe, Van Gölü'nün güneyinde yer alıyor ve gölün güzel manzarasını seyretme fırsatı sunuyor. Sıcak Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin tipik iklimi ile benzerlik gösteriyor. Bu régionda yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçiyor.
+Sıcak Tepesi, Van ilinin merkezi yakınlarında bulunuyor. Doğu Anadolu Bölgesi'nde yer alan bu tepe, khong 140 hektarlık bir alanı kaplıyor. Sıcak Tepesi, çevresi ile birlikte yaklaşık 500 metre yüksekliğe sahip. Bu tepe, Van Gölü'nün güneyinde yer alıyor ve gölün güzel manzarasını seyretme fırsatı sunuyor. Sıcak Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin tipik iklimi ile benzerlik gösteriyor. Bu bölgede yazlar sıcak ve kurak, kışlar ise soğuk ve karlı geçiyor.
 
 ## Flora ve Fauna
 

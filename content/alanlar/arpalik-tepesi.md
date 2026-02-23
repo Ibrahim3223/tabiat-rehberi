@@ -28,7 +28,7 @@ wikidata_id: "Q31391110"
 
 # Arpalık Tepesi
 
-Arpalık Tepesi, Sivas ilinin coğrafyasında önemli bir yere sahip olan bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. İç Anadolu Bölgesi'nin coğrafyasını şekillendiren bu tepe, aynı zamanda bölgenin ekolojik dengesini de korur. Arpalık Tepesi'nin yüksekliği ve konumu, burayı bir gözlem noktası haline getirir ve ziyaretçiler, geniş bir alanı bu noktadan izleyebilirler.
+Arpalık Tepesi, Sivas ilinin coğrafyasında önemli bir yere sahip olan bir tepedir. İç Anadolu Bölgesi'nin coğrafyasını şekillendiren bu tepe, aynı zamanda bölgenin ekolojik dengesini de korur. Arpalık Tepesi'nin yüksekliği ve konumu, burayı bir gözlem noktası haline getirir ve ziyaretçiler, geniş bir alanı bu noktadan izleyebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Arpalık Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin tarihi ile paral
 
 ## Coğrafya
 
-Arpalık Tepesi, Sivas ilinin coğrafyasında önemli bir yere sahiptir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tepenin yüksekliği, bölgenin coğrafyasını şekillendiren önemli faktörlerden biridir. Arpalık Tepesi'nin etrafı, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, bölgenin ekolojik dengesini korur. Tepenin konumu, aynı zamanda bölgenin iklimini de etkiler ve bu nedenle, Arpalık Tepesi, bölgenin coğrafyasını ve iklimini şekillendiren önemli bir faktördür. Ayrıca, bu tepe, bölgenin su kaynaklarını da etkiler ve bu nedenle, Arpalık Tepesi, bölgenin su dengesini korur.
+Arpalık Tepesi, Sivas ilinin coğrafyasında önemli bir yere sahiptir. Tepenin yüksekliği, bölgenin coğrafyasını şekillendiren önemli faktörlerden biridir. Arpalık Tepesi'nin etrafı, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, bölgenin ekolojik dengesini korur. Tepenin konumu, aynı zamanda bölgenin iklimini de etkiler ve bu nedenle, Arpalık Tepesi, bölgenin coğrafyasını ve iklimini şekillendiren önemli bir faktördür. Ayrıca, bu tepe, bölgenin su kaynaklarını da etkiler ve bu nedenle, Arpalık Tepesi, bölgenin su dengesini korur.
 
 ## Flora ve Fauna
 

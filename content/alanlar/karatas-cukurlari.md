@@ -46,7 +46,7 @@ Mevsimsel özellikler açısından, Karataş Çukurları'nın bulunduğu bölge,
 
 ## Flora ve Fauna
 
-Karataş Çukurları, Van'in yüksek dağ ekolojisine ev sahipliği yapan bir kanyondur. Bu bölgede, alpin çayırların hakim olduğu bitki örtüsü, ilkbaharın gelmesiyle birlikte renkli bir şölen sunar. Çiçekler açmaya başlar ve çayırlar, bir halı gibi yeşerir. 
+Karataş Çukurları, Van'in yüksek dağ ekolojisine ev sahipliği yapan bir kanyondur. Bu bölgede, alpin çayırların hakim olduğu bitki örtüsü, ilkbaharın gelmesiyle birlikte renkli bir şölen sunar. Çiçekler açmaya başlar ve çayırlar, bir halı gibi yeşerir.
 
 Yaban hayatı da bu bölgede çeşitlilik gösterir. Memeliler, özellikle dağ keçileri ve yaban keçileri, kanyonun dik yamaçlarında yaşamını sürdürür. Kuşlar, özellikle göç mevsimlerinde, bu bölgeden geçer ve çukurların yüksekliklerine yuvalarını kurar. Sürüngenler de, kanyonun kayalık alanlarında yaşamlarını sürdürür.
 

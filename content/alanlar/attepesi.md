@@ -28,7 +28,7 @@ wikidata_id: "Q31387503"
 
 # Attepesi
 
-Attepesi, Van'ın tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olarak dikkat çekiyor. Doğu Anadolu Bölgesi'nin en önemli merkezlerinden biri olan Van, Attepesi gibi noktalarıyla ziyaretçilerini bekliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gezi alanı sunuyor. Attepesi, Van'ın merkezine yakın mesafede yer alıyor ve ulaşım oldukça rahat.
+Attepesi, Van'ın tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olarak dikkat çekiyor. Doğu Anadolu Bölgesi'nin en önemli merkezlerinden biri olan Van, Attepesi gibi noktalarıyla ziyaretçilerini bekliyor. Attepesi, Van'ın merkezine yakın mesafede yer alıyor ve ulaşım oldukça rahat.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Attepesi, Van'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için i
 ## İlginç Bilgiler
 
 - Attepesi, Van'ın tarihi ve doğal güzelliklerinin birleştiği noktalardan biri.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Attepesi, Van Gölü'nün yakınlarında yer alıyor.
 - Bu bölge, Van'ın flora ve faunasının çeşitliliğini gösteriyor.
 - Attepesi, Van'ın ekolojik dengesini gösteren önemli bir nokta olarak kabul ediliyor.

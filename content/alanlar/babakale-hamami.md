@@ -1,7 +1,7 @@
 ---
 title: "Babakale Hamamı"
 date: "2026-01-10T04:29:31.830Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738779"
 
 # Babakale Hamamı
 
-Babakale Hamamı, Çanakkale'nin Ayvacık ilçesinde yer alan 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu alan, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Babakale Hamamı, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, günün stresini ve yorgunluğunu atmaya davet eder. 70 hektarlık bir bölümü orman olan bu alanı gezerken, çam ağaçlarının kokusu ve kuş sesleri size eşlik eder. Babakale Hamamı, doğa severler için bir cennet olarak kabul edilebilir.
+ Bu alan, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Babakale Hamamı, ziyaretçilerini doğanın güzelliği ile baş başa bırakarak, günün stresini ve yorgunluğunu atmaya davet eder. 70 hektarlık bir bölümü orman olan bu alanı gezerken, çam ağaçlarının kokusu ve kuş sesleri size eşlik eder. Babakale Hamamı, doğa severler için bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Babakale Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Babakale Hamamı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu bölge, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Babakale Hamamı, Çanakkale'nin Ayvacık ilçesinde yer alır ve bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli güzellikler sunar. Bu bölge, 70 hektarlık bir bölümü orman olan bir alanı kapsar ve çam ağaçlarının kokusu ile kuş sesleri, ziyaretçilere doğanın güzelliğini gösterir. Babakale Hamamı'nın coğrafi konumu, Marmara Denizi'ne yakın bir konumda yer alır ve bu bölge, yüksek bir konumda bulunur. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçilere, four mevsimi yaşama fırsatı sunar. Babakale Hamamı, coğrafi güzelliği ile ziyaretçilerini cezbeder ve bu bölge, doğa severler için bir cennet olarak kabul edilebilir.
+Babakale Hamamı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Babakale Hamamı, Çanakkale'nin Ayvacık ilçesinde yer alır ve bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli güzellikler sunar. Bu bölge, 70 hektarlık bir bölümü orman olan bir alanı kapsar ve çam ağaçlarının kokusu ile kuş sesleri, ziyaretçilere doğanın güzelliğini gösterir. Babakale Hamamı'nın coğrafi konumu, Marmara Denizi'ne yakın bir konumda yer alır ve bu bölge, yüksek bir konumda bulunur. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösterir ve ziyaretçilere, four mevsimi yaşama fırsatı sunar. Babakale Hamamı, coğrafi güzelliği ile ziyaretçilerini cezbeder ve bu bölge, doğa severler için bir cennet olarak kabul edilebilir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Babakale Hamamı, ziyaretçilerine doğanın güzelliğini sunar. Bu bölge, do�
 
 ## İlginç Bilgiler
 
-- Babakale Hamamı, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
 - Bu bölge, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir.
 - Babakale Hamamı, 70 hektarlık bir bölümü orman olan bir alanı kapsar.
 - Bu bölgenin coğrafi konumu, Marmara Denizi'ne yakın bir konumda yer alır.

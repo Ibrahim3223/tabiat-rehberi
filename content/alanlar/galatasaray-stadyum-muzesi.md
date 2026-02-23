@@ -1,7 +1,7 @@
 ---
 title: "Galatasaray Stadyum Müzesi"
 date: "2026-01-10T15:20:01.273Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"

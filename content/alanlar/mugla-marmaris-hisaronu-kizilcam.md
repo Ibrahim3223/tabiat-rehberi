@@ -1,7 +1,7 @@
 ---
 title: "Mugla-Marmaris-Hisaronu Kızılçam"
 date: "2026-01-09T18:14:32.323Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227668"
 
 # Mugla-Marmaris-Hisaronu Kızılçam
 
-Marmaris'in güzide ilçesi Hisaronu'da yer alan Mugla-Marmaris-Hisaronu Kızılçam milli parkı, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini büyülüyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmaris'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Milli parkın sunduğu olanaklar ve güzellikler, ziyaretçilerin doğayla iç içe bir gün geçirmelerini sağlıyor. Hisaronu'nun eşsiz manzaraları ve Marmaris'in zengin kültürel mirasıyla birleşen bu milli park, her yıl binlerce turistin ilgisini çekiyor.
+Marmaris'in güzide ilçesi Hisaronu'da yer alan Mugla-Marmaris-Hisaronu Kızılçam milli parkı, 140 hektarlık geniş yeşil alanıyla ziyaretçilerini büyülüyor. Milli parkın sunduğu olanaklar ve güzellikler, ziyaretçilerin doğayla iç içe bir gün geçirmelerini sağlıyor. Hisaronu'nun eşsiz manzaraları ve Marmaris'in zengin kültürel mirasıyla birleşen bu milli park, her yıl binlerce turistin ilgisini çekiyor.
 
 ## Tarihçe
 

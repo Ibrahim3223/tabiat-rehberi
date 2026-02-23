@@ -22,7 +22,7 @@ wikidata_id: "Q108227714"
 
 # Kastamonu-Arac-Karkalmaz Titrek Kavak
 
-Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Kastamonu'nun doğal güzellikleri arasında yer alan bu milli park, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Milli parkın sunduğu eşsiz manzara, ziyaretçilere doğanın güzelliğini gösteriyor. Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, ziyaretçilerine hem doğanın güzelliğini hem de zengin fauna ve florayı keşfetme fırsatı sunuyor.
+Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak bilinir. Kastamonu'nun doğal güzellikleri arasında yer alan bu milli park, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Milli parkın sunduğu eşsiz manzara, ziyaretçilere doğanın güzelliğini gösteriyor. Kastamonu-Arac-Karkalmaz Titrek Kavak milli parkı, ziyaretçilerine hem doğanın güzelliğini hem de zengin fauna ve florayı keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

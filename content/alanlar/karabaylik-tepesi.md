@@ -28,7 +28,7 @@ wikidata_id: "Q31535841"
 
 # Karabaylık Tepesi
 
-Karabaylık Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak bilinen bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Karabaylık Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle çekmektedir. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Ziyaretçiler, buraya gelerek hem doğal güzellikleri keşfedebilir hem de bölgenin tarihini öğrenebilirler.
+Karabaylık Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak bilinen bir tepedir. Karabaylık Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle çekmektedir. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Ziyaretçiler, buraya gelerek hem doğal güzellikleri keşfedebilir hem de bölgenin tarihini öğrenebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karabaylık Tepesi'nin tarihi geçmişi, bölgenin genel tarihini yansıtır. Bu
 
 ## Coğrafya
 
-Karabaylık Tepesi, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Karabaylık Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Bu tepe, aynı zamanda bölgenin iklimini etkileyen önemli bir faktördür. Karabaylık Tepesi'nin coğrafi konumu, bölgenin doğal güzelliklerini ve tarihi geçmişiyle birlikte ziyaretçilerini çekmektedir. Bu tepe, Hatay ilinin en önemli doğal alanlarından biri olarak bilinir ve ziyaretçilerine doğal güzellikleri sunar. Karabaylık Tepesi, bölgenin coğrafi yapısını korumak için önemli bir role sahiptir.
+Karabaylık Tepesi, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Karabaylık Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir noktadır. Bu tepe, aynı zamanda bölgenin iklimini etkileyen önemli bir faktördür. Karabaylık Tepesi'nin coğrafi konumu, bölgenin doğal güzelliklerini ve tarihi geçmişiyle birlikte ziyaretçilerini çekmektedir. Bu tepe, Hatay ilinin en önemli doğal alanlarından biri olarak bilinir ve ziyaretçilerine doğal güzellikleri sunar. Karabaylık Tepesi, bölgenin coğrafi yapısını korumak için önemli bir role sahiptir.
 
 ## Flora ve Fauna
 

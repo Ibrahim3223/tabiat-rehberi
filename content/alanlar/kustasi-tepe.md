@@ -32,7 +32,7 @@ Diyarbakır'ın tarihi ve kültürel zenginliklerine ev sahipliği yapan coğraf
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Binlerce yıllık geçmişte, birçok uygarlık bu topraklara hükmetti. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, Diyarbakır'ı önemli bir merkez olarak değerlendirdiler. Bu bölgede, insan yerleşimlerinin yanı sıra, ticaret yollarının da kesiştiği görülür.
+Diyarbakır bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Binlerce yıllık geçmişte, birçok uygarlık bu topraklara hükmetti. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, Diyarbakır'ı önemli bir merkez olarak değerlendirdiler. Bu bölgede, insan yerleşimlerinin yanı sıra, ticaret yollarının da kesiştiği görülür.
 
 Kuştaşı Tepe gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu tür alanlar, binlerce yıldır insanların yaşamlarına ev sahipliği yaptı. Yaylacılık ve hayvancılık, bu bölgede önemli ekonomik faaliyetler olarak karşımıza çıkar. Ayrıca, tarihi İpek Yolu gibi ticaret yollarının da bu coğrafyadan geçtiği bilinir. Tüm bu etkenler, Diyarbakır bölgesini zengin bir kültürel mirasa sahip bir bölge haline getirdi.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q35729081"
 
 # Bozçadağ Tepesi
 
-Bozçadağ Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Bu tepe, bölgeye özgü flora ve faunayı barındıran zengin bir ekosisteme sahiptir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir gözlem alanı sunar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunmakta olup, bu doğal güzellikler, ziyaretçilere eşsiz bir manzara sunmaktadır. Bozçadağ Tepesi, aynı zamanda bölgenin tarihi geçmişine de ışık tutan önemli bir noktadır.
+Bozçadağ Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Bu tepe, bölgeye özgü flora ve faunayı barındıran zengin bir ekosisteme sahiptir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunmakta olup, bu doğal güzellikler, ziyaretçilere eşsiz bir manzara sunmaktadır. Bozçadağ Tepesi, aynı zamanda bölgenin tarihi geçmişine de ışık tutan önemli bir noktadır.
 
 ## Tarihçe
 

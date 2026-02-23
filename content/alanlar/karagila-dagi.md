@@ -32,7 +32,7 @@ Erzurum'un dağlık coğrafyasında yer alan Karagıla Dağı, bölgenin doğal 
 
 ## Tarihçe
 
-Erzurum bölgesinin zengin tarihi, Karagıla Dağı'nın eteklerine kadar uzanır. Bu bölge, tarihin sâu sayfalarında önemli uygarlıkların izlerini taşır. Hitit, Urartu, Pers ve Roma gibi medeniyetler, zaman içinde bu topraklarda hüküm sürmüşlerdir. Erzurum'un stratejik konumu, tarihi İpek Yolu'nun bir parçası olmasını sağlamış, böylece bölge ticari ve kültürel alışverişin önemli bir merkezi haline gelmiştir.
+Erzurum bölgesinin zengin tarihi, Karagıla Dağı'nın eteklerine kadar uzanır. Bu bölge, tarihin derin sayfalarında önemli uygarlıkların izlerini taşır. Hitit, Urartu, Pers ve Roma gibi medeniyetler, zaman içinde bu topraklarda hüküm sürmüşlerdir. Erzurum'un stratejik konumu, tarihi İpek Yolu'nun bir parçası olmasını sağlamış, böylece bölge ticari ve kültürel alışverişin önemli bir merkezi haline gelmiştir.
 
 Karagıla Dağı gibi doğal alanlar, Türkiye'nin tarih boyunca önemli birer yaşam ve geçim kaynağı olmuşlardır. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geleneksel uğraşları arasında yer almıştır. Dağların ve ovaların birleştiği bu noktada, insanların doğayla iç içe yaşadığı bir yaşam tarzı gelişmiştir. Ticaret yolları üzerinde bulunan bu bölge, aynı zamanda kültürel etkileşimin de önemli bir merkezi olmuştur.
 

@@ -1,7 +1,7 @@
 ---
 title: "Emir Sultan Türbesi, Gaziemir"
 date: "2026-01-10T05:46:13.952Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Müftü Camii"
 date: "2026-01-10T06:33:35.814Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q132134537"
 
 # Şeyh Müftü Camii
 
-Marmara Bölgesi'nin güzel plajlarından biri olan Şeyh Müftü Camii, Mustafakemalpaşa/Bursa'da yer alır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve büyüklüğü yaklaşık 200 futbol sahası büyüklüğüne eşittir. Şeyh Müftü Camii, hem doğal güzelliği hem de tarihi önemi ile dikkat çeker. Burada, denizin serinliği ve güneşin sıcaklığını birlikte deneyimleme mümkündür. Ayrıca, plajın çevresindeki yerleşim yerleri, ziyaretçilere konaklama ve yemek olanakları sunar.
+Marmara Bölgesi'nin güzel plajlarından biri olan Şeyh Müftü Camii, Mustafakemalpaşa/Bursa'da yer alır. Şeyh Müftü Camii, hem doğal güzelliği hem de tarihi önemi ile dikkat çeker. Burada, denizin serinliği ve güneşin sıcaklığını birlikte deneyimleme mümkündür. Ayrıca, plajın çevresindeki yerleşim yerleri, ziyaretçilere konaklama ve yemek olanakları sunar.
 
 ## Tarihçe
 

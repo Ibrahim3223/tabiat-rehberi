@@ -28,7 +28,7 @@ wikidata_id: "Q31388456"
 
 # Kıble Tepesi
 
-Kıble Tepesi, Rize ilinin sınırları içerisinde yer alan bir tepe olup, yaklaşık 140 hektarlık alanı kaplar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Kıble Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu tepe, ziyaretçilerine muhteşem bir doğa manzarası sunar. Ayrıca, burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kıble Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yerdir. Burada, ziyaretçiler doğanın güzelliğini keşfedebilir ve huzurlu bir atmosferde vakit geçirebilirler.
+Kıble Tepesi, Rize ilinin sınırları içerisinde yer alan bir tepe olup, yaklaşık 140 hektarlık alanı kaplar. Kıble Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu tepe, ziyaretçilerine muhteşem bir doğa manzarası sunar. Ayrıca, burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kıble Tepesi, aynı zamanda trekking ve doğa yürüyüşü için ideal bir yerdir. Burada, ziyaretçiler doğanın güzelliğini keşfedebilir ve huzurlu bir atmosferde vakit geçirebilirler.
 
 ## Tarihçe
 

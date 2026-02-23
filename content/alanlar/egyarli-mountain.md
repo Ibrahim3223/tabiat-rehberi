@@ -26,15 +26,15 @@ Artvin'in kuzeydoğu ucunda, Karadeniz Bölgesi'nin doğal güzelliklerini bir a
 
 ## Tarihçe
 
-Egyarli Dağı, Artvin'in büyüleyici doğası içinde yer alan bir bölgedir. Bu bölge, tarihin sâu izlerini taşıyan bir coğrafyada bulunmaktadır. Artvin, histórik olarak çeşitli uygarlıkların hüküm sürdüğü bir bölge olmuştur. Antik Çağ'da Kolhlar, daha sonra da Roma ve Bizans İmparatorluklarının etkisi altında kalmıştır. 
+Egyarli Dağı, Artvin'in büyüleyici doğası içinde yer alan bir bölgedir. Bu bölge, tarihin derin izlerini taşıyan bir coğrafyada bulunmaktadır. Artvin, tarihi olarak çeşitli uygarlıkların hüküm sürdüğü bir bölge olmuştur. Antik Çağ'da Kolhlar, daha sonra da Roma ve Bizans İmparatorluklarının etkisi altında kalmıştır.
 
-Bu doğal alan, Türkiye'nin tarih boyunca önemli ticaret yollarının kesişme noktasında bulunması nedeniyle, insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bölgenin ekonomisinde her zaman önemli bir yer tutmuştur. Dağlık araziler, insanlarınsummer mevsiminde hayvanlarını otlattıkları ve geleneksel yaşam şekillerini sürdürdükleri yerler olarak hizmet vermiştir. 
+Bu doğal alan, Türkiye'nin tarih boyunca önemli ticaret yollarının kesişme noktasında bulunması nedeniyle, insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bölgenin ekonomisinde her zaman önemli bir yer tutmuştur. Dağlık araziler, insanlarınsummer mevsiminde hayvanlarını otlattıkları ve geleneksel yaşam şekillerini sürdürdükleri yerler olarak hizmet vermiştir.
 
 Egyarli Dağı ve çevresi, sadece yerel halkın değil, aynı zamanda çeşitli kültürlerin geçiş noktaları olarak da görev yapmıştır. Bu nedenle, bu bölge, Türkiye'nin zengin kültürel ve tarihsel mirasının önemli bir parçasını oluşturmaktadır. Doğal güzellikleri ve tarihi önemi ile Egyarli Dağı, ziyaretçilerini büyülemeye devam etmektedir.
 
 ## Coğrafya
 
-Güney Karadeniz bölgesinin en uzak köşesinde, Artvin ilinin dağlık arazisinde yer alan Egyarli Dağı, coğrafyanın şekillendirdiği bir doğa harikasıdır. Bu dağ, Rize ilinin sınırına yakın bir konumda bulunur ve Karadeniz'in kıyı şeridinin yaklaşık 30 kilometre güneyinde yer alır. Dağa ulaşım, genellikle dağ yolları üzerinden sağlanmakta ve bu yolculuk, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunmaktadır.
+Güney Karadeniz bölgesinin en uzak köşesinde, Artvin ilinin dağlık arazisinde yer alan Egyarli Dağı, coğrafyanın şekillendirdiği bir doğa harikasıdır. Bu dağ, Rize ilinin sınırına yakın bir konumda bulunur ve Karadeniz'in kıyı şeridinin yaklaşık 30 kilometre güneyinde yer alır.
 
 Doğal güzelliği ve jeolojik yapısı ile dikkat çeken Egyarli Dağı, bölgenin en önemli coğrafi oluşumlarından biridir. Dağın yüksekliği ve boyutları, bölgenin topografyasını şekillendirmiş ve etrafındaki arazinin oluşumuna etki etmiştir. Egyarli Dağı, bir şehir bloğu büyüklüğünde bir alanı kaplar ve bu alanda çeşitli bitki ve hayvan türleri yaşamaktadır.
 

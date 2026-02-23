@@ -50,7 +50,7 @@ Son olarak, Tohma Kanyonu'nun çevresel ilişkileri açısından bakıldığınd
 
 ## Flora ve Fauna
 
-Tohma Kanyonu, Malatya'nın kurak step bölgesinde yer alan bir doğa harikasıdır. İlkbahar aylarında, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Step bitki örtüsünün hakim olduğu bu bölgede, bozkırın karakteristik türleri gibi kuraklığa adapte olmuş bitkiler hüküm sürer. 
+Tohma Kanyonu, Malatya'nın kurak step bölgesinde yer alan bir doğa harikasıdır. İlkbahar aylarında, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Step bitki örtüsünün hakim olduğu bu bölgede, bozkırın karakteristik türleri gibi kuraklığa adapte olmuş bitkiler hüküm sürer.
 
 Yaban hayatı da aynı şekilde çeşitlilik gösterir. Kanyonun kayalık yüzeyleri ve bozkır alanları, çeşitli memeliler ve sürüngenler için yaşam alanı sağlar. Sonbahar aylarında, göçmen kuşlar kanyonu ziyaret eder ve bu bölge, önemli bir göç güzergahı haline gelir.
 

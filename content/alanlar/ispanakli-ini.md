@@ -50,9 +50,9 @@ Mevsimsel değişikliklere bakıldığında, "Ispanaklı İni" jeoparkı, Akdeni
 
 ## Flora ve Fauna
 
-Ispanaklı İni, Mersin'de bulunan 1200 hektarlık bir jeoparktır. Bu yeşil cennet, maki bitki örtüsüne ev sahipliği yapar ve kuraklığa dayanıklı türler burada bolca bulunur. Kıyı ekosisteminin bir parçası olan bu alan, ilkbahar aylarında rengarenk çiçeklerle süslenir. 
+Ispanaklı İni, Mersin'de bulunan 1200 hektarlık bir jeoparktır. Bu yeşil cennet, maki bitki örtüsüne ev sahipliği yapar ve kuraklığa dayanıklı türler burada bolca bulunur. Kıyı ekosisteminin bir parçası olan bu alan, ilkbahar aylarında rengarenk çiçeklerle süslenir.
 
-Bitki örtüsünün hakim türü olan maki, toprak erozyonunu önler ve diğer canlılara yaşam alanı sağlar. Sonbaharda, göçmen kuşlar buraya uğrar ve bu ekosistemin önemli bir parçası haline gelir. Orman memelileri, ağaçların arasında yaşar ve bu çeşitlilik, ormanların sağlamlığını korur. 
+Bitki örtüsünün hakim türü olan maki, toprak erozyonunu önler ve diğer canlılara yaşam alanı sağlar. Sonbaharda, göçmen kuşlar buraya uğrar ve bu ekosistemin önemli bir parçası haline gelir. Orman memelileri, ağaçların arasında yaşar ve bu çeşitlilik, ormanların sağlamlığını korur.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Bu canlılar, orman ekosisteminin bir parçası olarak, birbirleriyle veleriyle etkileşim halindedir. Ispanaklı İni, bu canlıların yaşam alanlarını koruma altına almak için önemli bir ekolojik değer taşır. Bu jeoparkın korunması, bölgenin biyolojik çeşitliliğini ve doğal dengesini korumak açısından büyük önem arz eder.
 

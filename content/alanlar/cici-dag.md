@@ -28,7 +28,7 @@ wikidata_id: "Q31385900"
 
 # Cici Dağ
 
-Cici Dağ, Kahramanmaraş ilinin sınırları içerisinde yer alan ve doğa severlerin keyif alacağı bir destinasyon. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Cici Dağ, bölgenin önemli bir parçası ve doğal güzelliği ile dikkat çekiyor. Bu tepe, doğa yürüyüşleri, manzara seyri ve fotoğrafçılık için ideal bir yer. Cici Dağ'ın eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta.
+Cici Dağ, Kahramanmaraş ilinin sınırları içerisinde yer alan ve doğa severlerin keyif alacağı bir destinasyon. Cici Dağ, bölgenin önemli bir parçası ve doğal güzelliği ile dikkat çekiyor. Bu tepe, doğa yürüyüşleri, manzara seyri ve fotoğrafçılık için ideal bir yer. Cici Dağ'ın eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

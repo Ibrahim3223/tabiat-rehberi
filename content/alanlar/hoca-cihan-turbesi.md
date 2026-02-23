@@ -1,7 +1,7 @@
 ---
 title: "Hoca Cihan Türbesi"
 date: "2026-01-10T05:02:26.041Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391487"
 
 # Hoca Cihan Türbesi
 
-Konya'nın Selçuklu ilçesinde bulunan Hoca Cihan Türbesi, tarihi ve doğal güzelliği bir arada sunan özel bir mekan. 140 hektarlık bir alanda yer alan bu türbe ve plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Hoca Cihan Türbesi, Selçuklu'nun merkezine yakın bir konumda bulunuyor ve şehrin tarihi dokusunu yansıtan önemli bir nokta. Bu alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor.
+Konya'nın Selçuklu ilçesinde bulunan Hoca Cihan Türbesi, tarihi ve doğal güzelliği bir arada sunan özel bir mekan. Hoca Cihan Türbesi, Selçuklu'nun merkezine yakın bir konumda bulunuyor ve şehrin tarihi dokusunu yansıtan önemli bir nokta. Bu alan, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hoca Cihan Türbesi, Selçuklu'nun tarihi geçmişi ile derin bağları olan bir
 
 ## Coğrafya
 
-Hoca Cihan Türbesi, Konya'nın Selçuklu ilçesinde, İç Anadolu Bölgesi'nin merkezi bir bölgesinde yer alıyor. Bu bölge, genellikle step iklimi ile karakterize edilen bir coğrafi yapıya sahip. Türbe, şehrin merkezine yakın bir konumda bulunuyor ve çevresinde tarihi ve kültürel öneme sahip çeşitli yapılar ve alanlar mevcut. 180 hektarlık bir alanı kapsayan bu bölge, yaklaşık 260 futbol sahası büyüklüğünde bir alanı kaplıyor. Coğrafi olarak, Hoca Cihan Türbesi, Konya Ovası'nın kuzeybatısında, şehrin tarihi merkezi ile bir bağlantıyı temsil ediyor. Bu bölge, aynı zamanda önemli bir tarım ve hayvancılık bölgesi olarak da biliniyor. İklimwise, Hoca Cihan Türbesi ve çevresi, karasal iklimin özellikleri ile karakterize ediliyor; yani soğuk kışlar ve sıcak yazlar erle bölgede hakim.
+Hoca Cihan Türbesi, Konya'nın Selçuklu ilçesinde, İç Anadolu Bölgesi'nin merkezi bir bölgesinde yer alıyor. Bu bölge, genellikle step iklimi ile karakterize edilen bir coğrafi yapıya sahip. Türbe, şehrin merkezine yakın bir konumda bulunuyor ve çevresinde tarihi ve kültürel öneme sahip çeşitli yapılar ve alanlar mevcut. Coğrafi olarak, Hoca Cihan Türbesi, Konya Ovası'nın kuzeybatısında, şehrin tarihi merkezi ile bir bağlantıyı temsil ediyor. Bu bölge, aynı zamanda önemli bir tarım ve hayvancılık bölgesi olarak da biliniyor. İklimwise, Hoca Cihan Türbesi ve çevresi, karasal iklimin özellikleri ile karakterize ediliyor; yani soğuk kışlar ve sıcak yazlar erle bölgede hakim.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hoca Cihan Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliği deney
 ## İlginç Bilgiler
 
 - Hoca Cihan Türbesi, Selçuklu'nun en önemli tarihi mekanlarından biri olarak kabul ediliyor.
-- Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Bu bölge, önemli bir tarım ve hayvancılık bölgesi olarak biliniyor.
 - Hoca Cihan Türbesi ve çevresi, çeşitli bitki türleri ve hayvan yaşamı ile zengin bir ekosisteme sahip.
 - Türbe, zaman içinde çeşitli onarımlar ve restorasyonlar geçirmiş, ancak orijinal mimari özellikleri korunmaya çalışılmıştır.

@@ -28,7 +28,7 @@ wikidata_id: "Q32129246"
 
 # Ardıçlık Tepe
 
-Ardıçlık Tepe, Karaman ilinin sınırları içerisinde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ardıçlık Tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, ziyaretçilere bölgenin doğal güzelliğini keşfetme fırsatı sunuyor. Ardıçlık Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve bu bitkiler, tepeye renkli bir görünüm kazandırıyor. Ayrıca, tepe ve çevresinde zengin fauna çeşitliliği de bulunuyor.
+Ardıçlık Tepe, Karaman ilinin sınırları içerisinde yer alan ve doğal güzelliği ile dikkat çeken bir tepe. Ardıçlık Tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta. İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyan bu tepe, ziyaretçilere bölgenin doğal güzelliğini keşfetme fırsatı sunuyor. Ardıçlık Tepe'nin etrafı, çeşitli bitki türleriyle kaplı ve bu bitkiler, tepeye renkli bir görünüm kazandırıyor. Ayrıca, tepe ve çevresinde zengin fauna çeşitliliği de bulunuyor.
 
 ## Tarihçe
 

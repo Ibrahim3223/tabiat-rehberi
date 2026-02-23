@@ -1,7 +1,7 @@
 ---
 title: "Tirilye Hamamı"
 date: "2026-01-09T22:53:43.878Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738636"
 
 # Tirilye Hamamı
 
-Marmara Bölgesi'nin en güzel plajlarından biri olan Tirilye Hamamı, Bursa'nın Mudanya ilçesinde yer almaktadır. 140 hektarlık bir alanda bulunan bu plaj, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tirilye Hamamı, denize girerek serinlemek isteyenler için ideal bir destinasyon olup, aynı zamanda doğal güzelliği ve temizliği ile de dikkat çekmektedir. Plajınnde bulunan ağaçlar ve yeşillikler, ziyaretçilere doğal bir ortam sunmaktadır. Tirilye Hamamı, hem yerel halk hem de turistler tarafından sıkça ziyaret edilen bir yerdir.
+Marmara Bölgesi'nin en güzel plajlarından biri olan Tirilye Hamamı, Bursa'nın Mudanya ilçesinde yer almaktadır. Tirilye Hamamı, denize girerek serinlemek isteyenler için ideal bir destinasyon olup, aynı zamanda doğal güzelliği ve temizliği ile de dikkat çekmektedir. Plajınnde bulunan ağaçlar ve yeşillikler, ziyaretçilere doğal bir ortam sunmaktadır. Tirilye Hamamı, hem yerel halk hem de turistler tarafından sıkça ziyaret edilen bir yerdir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Abdülahad Nuri Sivasi Türbesi"
 date: "2026-01-10T07:48:31.718Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391178"
 
 # Abdülahad Nuri Sivasi Türbesi
 
-Abdülahad Nuri Sivasi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir mekan. Bu mekan, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekiyor. 140 hektarlık bir alanda bulunan Abdülahad Nuri Sivasi Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip. Bu geniş alan, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunuyor. İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olan Abdülahad Nuri Sivasi Türbesi, aynı zamanda plaj olarak da kullanılan bir alan.
+Abdülahad Nuri Sivasi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir mekan. Bu mekan, hem tarihi açıdan hem de doğal güzellikleri ile dikkat çekiyor. Bu geniş alan, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunuyor. İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olan Abdülahad Nuri Sivasi Türbesi, aynı zamanda plaj olarak da kullanılan bir alan.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abdülahad Nuri Sivasi Türbesi'nin tarihi geçmişi, İstanbul'un fethine kadar
 
 ## Coğrafya
 
-Abdülahad Nuri Sivasi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin en güzel doğal güzelliklerinden biri olan Haliç'in kıyısında yer alıyor. 140 hektarlık bir alanda bulunan Abdülahad Nuri Sivasi Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip. Bu geniş alan, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunuyor. İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olan Abdülahad Nuri Sivasi Türbesi, aynı zamanda plaj olarak da kullanılan bir alan. Bu plaj, Haliç'in suyu ile çevrili ve ziyaretçilere güzel bir manzara sunuyor. Abdülahad Nuri Sivasi Türbesi'nin coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor.
+Abdülahad Nuri Sivasi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin en güzel doğal güzelliklerinden biri olan Haliç'in kıyısında yer alıyor. Bu geniş alan, ziyaretçilere hem tarihi bir gezi hem de doğal güzellikleri keşfetme fırsatı sunuyor. İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olan Abdülahad Nuri Sivasi Türbesi, aynı zamanda plaj olarak da kullanılan bir alan. Bu plaj, Haliç'in suyu ile çevrili ve ziyaretçilere güzel bir manzara sunuyor. Abdülahad Nuri Sivasi Türbesi'nin coğrafi konumu, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

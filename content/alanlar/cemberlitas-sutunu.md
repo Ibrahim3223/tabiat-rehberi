@@ -37,7 +37,7 @@ wikidata_id: "Q1247287"
 
 ## Coğrafya
 
-Çemberlitaş Sütunu, İstanbul'un merkezinde, Marmara Bölgesi'nde yer almaktadır. Bu sütun, şehrin tarihi merkezi içerisinde bulunan önemli bir yapıdır. Çemberlitaş Sütunu'nun bulunduğu bölge, tarihi yapılar ve kültürel mekânlarla çevrilidir. İstanbul'un coğrafi konumu, Marmara Denizi'ne kıyısı olan bir bölgedir. Bu bölgede bulunan Çemberlitaş Sütunu, yüksek bir konumda yer almaktadır. Çemberlitaş Sütunu'nun coğrafi konumu, İstanbul'un histórik merkezi içerisinde yer almasıdır. Bu nedenle, Çemberlitaş Sütunu, İstanbul'un coğrafi ve tarihi önemini yansıtan bir yapıdır. Çemberlitaş Sütunu'nun bulunduğu bölge, yıl boyunca ılıman bir iklimin hakim olduğu bir bölgedir. Bu bölgede, dört mevsim yaşanmaktadır. Çemberlitaş Sütunu, İstanbul'un coğrafi ve tarihi önemini yansıtan bir yapı olarak bilinmektedir.
+Çemberlitaş Sütunu, İstanbul'un merkezinde, Marmara Bölgesi'nde yer almaktadır. Bu sütun, şehrin tarihi merkezi içerisinde bulunan önemli bir yapıdır. Çemberlitaş Sütunu'nun bulunduğu bölge, tarihi yapılar ve kültürel mekânlarla çevrilidir. İstanbul'un coğrafi konumu, Marmara Denizi'ne kıyısı olan bir bölgedir. Bu bölgede bulunan Çemberlitaş Sütunu, yüksek bir konumda yer almaktadır. Çemberlitaş Sütunu'nun coğrafi konumu, İstanbul'un tarihi merkezi içerisinde yer almasıdır. Bu nedenle, Çemberlitaş Sütunu, İstanbul'un coğrafi ve tarihi önemini yansıtan bir yapıdır. Çemberlitaş Sütunu'nun bulunduğu bölge, yıl boyunca ılıman bir iklimin hakim olduğu bir bölgedir. Bu bölgede, dört mevsim yaşanmaktadır. Çemberlitaş Sütunu, İstanbul'un coğrafi ve tarihi önemini yansıtan bir yapı olarak bilinmektedir.
 
 ## Flora ve Fauna
 

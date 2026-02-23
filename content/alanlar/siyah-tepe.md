@@ -51,9 +51,9 @@ Siyah Tepe, çevresindeki dağlar ve Van Gölü ile birlikte, bölgenin ekosiste
 
 Siyah Tepe, Van'ın yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, alpin çayırlar renkli çiçeklerle donanırken, sonbaharda göç eden kuşlar bu bölgeyi geçiş noktası olarak kullanıyor.
 
-Bitki Örtüsü bölümünde, hakim türlerin arasında yükseklik zonlarına uyum sağlamış çayırlar ve otsu bitkiler yer alıyor. Mevsimsel değişimlerle birlikte, bu bitkiler farklı renkler ve kokularla surroundingsını renklendiriyor. 
+Bitki Örtüsü bölümünde, hakim türlerin arasında yükseklik zonlarına uyum sağlamış çayırlar ve otsu bitkiler yer alıyor. Mevsimsel değişimlerle birlikte, bu bitkiler farklı renkler ve kokularla surroundingsını renklendiriyor.
 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin önemli bileşenleridir. Dağ keçileri, kartallar ve yılanlar gibi birçok tür, bu alanın yüksek dağ ekolojisinin bir parçası olarak yaşamlarını sürdürüyor. 
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin önemli bileşenleridir. Dağ keçileri, kartallar ve yılanlar gibi birçok tür, bu alanın yüksek dağ ekolojisinin bir parçası olarak yaşamlarını sürdürüyor.
 
 Ekolojik Değer bakımından, Siyah Tepe'nin yüksek dağ ekosistemi ve endemik türleri, bu alanı önemli kılmaktadır. Bu bölgenin korunması, bu türlerin yaşamlarını sürdürmesi ve doğal dengenin korunması açısından büyük önem taşımaktadır.
 

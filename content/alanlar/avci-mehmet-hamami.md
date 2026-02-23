@@ -1,7 +1,7 @@
 ---
 title: "Avcı Mehmet Hamamı"
 date: "2026-01-09T22:57:44.222Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738590"
 
 # Avcı Mehmet Hamamı
 
-Avcı Mehmet Hamamı, Sarıyer'de bulunan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğayla baş başa bırakmasıyla dikkat çekmektedir. Avcı Mehmet Hamamı'nın etrafı, çeşitli ağaç türleriyle çevrilidir. Bu ağaçlar, ziyaretçilere hem gölgelik hem de temiz hava sağlar. Avcı Mehmet Hamamı, İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görünmektedir.
+Avcı Mehmet Hamamı, Sarıyer'de bulunan 140 hektarlık bir yeşil alandır. Avcı Mehmet Hamamı'nın etrafı, çeşitli ağaç türleriyle çevrilidir. Bu ağaçlar, ziyaretçilere hem gölgelik hem de temiz hava sağlar. Avcı Mehmet Hamamı, İstanbul'un kalabalık streetsinden uzaklaşmak isteyenler için ideal bir kaçış noktası olarak görünmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Avcı Mehmet Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır
 
 ## Coğrafya
 
-Avcı Mehmet Hamamı, Sarıyer'de bulunmaktadır. Bu bölgenin coğrafi yapısı, ziyaretçilere çeşitli olanaklar sunmaktadır. Avcı Mehmet Hamamı'nın etrafı, çeşitli bitki türleriyle çevrilidir. Bu bitkiler, ziyaretçilere hem temiz hava hem de gölgelik sağlar. Avcı Mehmet Hamamı, 140 hektarlık bir alana yayılmış olup, yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, ziyaretçilere geniş bir açık alan sunmaktadır. Avcı Mehmet Hamamı'nın coğrafi konumu, ziyaretçilere doğayı keşfetme olanağı sağlar. Bu bölgede, çeşitli yaban hayvanları da bulunmaktadır.
+Avcı Mehmet Hamamı, Sarıyer'de bulunmaktadır. Bu bölgenin coğrafi yapısı, ziyaretçilere çeşitli olanaklar sunmaktadır. Avcı Mehmet Hamamı'nın etrafı, çeşitli bitki türleriyle çevrilidir. Bu bitkiler, ziyaretçilere hem temiz hava hem de gölgelik sağlar. Bu alan, ziyaretçilere geniş bir açık alan sunmaktadır. Avcı Mehmet Hamamı'nın coğrafi konumu, ziyaretçilere doğayı keşfetme olanağı sağlar. Bu bölgede, çeşitli yaban hayvanları da bulunmaktadır.
 
 ## Flora ve Fauna
 

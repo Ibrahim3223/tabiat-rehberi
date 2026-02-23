@@ -32,7 +32,7 @@ Amasya'nın doğal güzelliklerini keşfetmek isteyenler için Kocababa Dağı, 
 
 ## Tarihçe
 
-Amasya bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Binlerce yıllık geçmişinde Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşır. Bu bölgede yer alan Kocababa Dağı, tarihsel açıdan zengin bir coğrafyanın parçası olarak karşımıza çıkar.
+Amasya bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Binlerce yıllık geçmişinde Hitit, Pers, Roma ve Osmanlı gibi uygarlıkların izlerini taşır. Bu bölgede yer alan Kocababa Dağı, tarihsel açıdan zengin bir coğrafyanın parçası olarak karşımıza çıkar.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşantısını şekillendirmiş, yaylacılık ve hayvancılığın merkezinde yer almışlardır. İnsanlar bu doğal güzelliklerle iç içe etmiş, onların sunduğu kaynaklardan faydalanmışlardır. Ticaret yolları ve yerleşim yerleri de bu doğal alanların etrafında oluşmuş, insanların birbirleriyle etkileşimini ve kültürel alışverişi sağlamıştır.
 

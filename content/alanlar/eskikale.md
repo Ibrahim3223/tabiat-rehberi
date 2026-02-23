@@ -33,9 +33,9 @@ Türkiye'nin natuur güzelliği ile dikkat çeken bölgelerinden biri olan Eskik
 
 ## Tarihçe
 
-Eskikale dağının bulunduğu bölge, tarihin derinliklerinde various uygarlıkların izlerini taşıyan zengin bir coğrafyadır. Bu topraklar, Hititlerden Roma ve Bizans İmparatorluklarına kadar birçok medeniyete ev sahipliği yapmış, ticaret yolları ve stratejik konumuyla önemli bir merkez olmuştur. 
+Eskikale dağının bulunduğu bölge, tarihin derinliklerinde various uygarlıkların izlerini taşıyan zengin bir coğrafyadır. Bu topraklar, Hititlerden Roma ve Bizans İmparatorluklarına kadar birçok medeniyete ev sahipliği yapmış, ticaret yolları ve stratejik konumuyla önemli bir merkez olmuştur.
 
-Doğal güzellikleri ve verimli topraklarıyla, bölgede yaylacılık ve hayvancılık uzun yıllardır devam eden geleneksel faaliyetlerdir. Eskikale dağının eteklerinde ve yakınındaki vadiler, yüzyıllar boyunca insanların yaşamlarına ev sahipliği yapmış, mevsimsel göçlerle birlikte hayvancılık faaliyetlerinin merkezi haline gelmiştir. 
+Doğal güzellikleri ve verimli topraklarıyla, bölgede yaylacılık ve hayvancılık uzun yıllardır devam eden geleneksel faaliyetlerdir. Eskikale dağının eteklerinde ve yakınındaki vadiler, yüzyıllar boyunca insanların yaşamlarına ev sahipliği yapmış, mevsimsel göçlerle birlikte hayvancılık faaliyetlerinin merkezi haline gelmiştir.
 
 Türkiye'de doğal alanlar, kültürel ve tarihsel açıdan büyük önem taşırlar. Bu bölgeler, yalnızca ekolojik dengenin korunmasında değil, aynı zamanda tarih boyunca insanların yaşamlarını sürdürmelerinde ve kültürlerinin şekillenmesinde önemli rol oynamışlardır. Eskikale dağının bulunduğu bölge de, bu doğal ve kültürel zenginliklerin bir parçasını oluşturur.
 
@@ -51,13 +51,13 @@ Mevsimsel değişikliklere baktığımızda, Eskikale Dağı ve çevresi, Akdeni
 
 ## Flora ve Fauna
 
-Eskikale dağının flora ve fauna bölümünde, ziyaretçilerini bekleyen zengin bir doğa manzarası bulunmaktadır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Eskikale dağının flora ve fauna bölümünde, ziyaretçilerini bekleyen zengin bir doğa manzarası bulunmaktadır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünde, step bitki örtüsü ve bozkırın hakim olduğu bir manzara karşımıza çıkıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında renkli çiçekler açmaya başlıyor. Bu mevsimsel değişim, dağ ekosisteminin canlılığını gözler önüne seriyor.
 
 Yaban Hayatı bölümünde, dağ hayvanlarının yaşam alanlarını görebiliyoruz. Yükseklik zonlarına adapte olmuş memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin önemli bileşenleridir. Sonbaharın gelmesiyle birlikte, göç eden kuşlar dağların üzerinden geçerek yeni yaşam alanlarına ulaşıyor.
 
-Ekolojik Değer bölümünde, bu dağ ekosisteminin neden önemli olduğu ve koruma durumuna değiniliyor. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanları, bu bölgenin ekolojik değerini arttırıyor. Bu nedenle, bu dağın korunması ve gelecek nesiller için bảolanması büyük önem taşıyor.
+Ekolojik Değer bölümünde, bu dağ ekosisteminin neden önemli olduğu ve koruma durumuna değiniliyor. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanları, bu bölgenin ekolojik değerini arttırıyor. Bu nedenle, bu dağın korunması ve gelecek nesiller için korunması büyük önem taşıyor.
 
 ## Ziyaret Bilgileri
 

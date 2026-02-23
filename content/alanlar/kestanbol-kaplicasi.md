@@ -28,7 +28,7 @@ wikidata_id: "Q49741945"
 
 # Kestanbol Kaplıcası
 
-Kestanbol Kaplıcası, Çanakkale'nin sakin ve doğal güzellikleri sunan bir bölgesinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla iç içe bir deneyime davet ediyor. Çanakkale'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir durak olan Kestanbol Kaplıcası, aynı zamanda sağlık ve rahatlık arayanların tercih ettiği bir termal kaynak olarak öne çıkıyor.
+Kestanbol Kaplıcası, Çanakkale'nin sakin ve doğal güzellikleri sunan bir bölgesinde yer alıyor. Çanakkale'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir durak olan Kestanbol Kaplıcası, aynı zamanda sağlık ve rahatlık arayanların tercih ettiği bir termal kaynak olarak öne çıkıyor.
 
 ## Tarihçe
 

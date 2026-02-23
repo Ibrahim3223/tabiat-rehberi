@@ -22,7 +22,7 @@ wikidata_id: "Q108228281"
 
 # Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas
 
-Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, Marmara Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu araştırma ormanı, ziyaretçilerine zengin bir flora ve fauna sunuyor. Orman, çeşitli bitki türleri ve hayvanlarla dolu, ziyaretçiler için bir doğa cenneti. Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, doğa severlerin ve araştırmacıların ilgisini çeken bir yer.
+Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, Marmara Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Orman, çeşitli bitki türleri ve hayvanlarla dolu, ziyaretçiler için bir doğa cenneti. Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, doğa severlerin ve araştırmacıların ilgisini çeken bir yer.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas'ın tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, Marmara Bölgesi'nin coğrafi yapısında önemli bir yer alıyor. Orman, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, çeşitli bitki türleri ve hayvanlarla dolu, ziyaretçiler için bir doğa cenneti. Ormanın coğrafi yapısı, ziyaretçilerin keşfetmeye ve doğayla iç içe olmaya davet ediyor. Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, Marmara Bölgesi'nin iklimine uygun olarak, yazları sıcak ve nemli, kışları soğuk ve yağışlı bir hava şartlarına sahip. Orman, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim farklı bir güzelliği sunuyor.
+Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, Marmara Bölgesi'nin coğrafi yapısında önemli bir yer alıyor. Bu yeşil alan, çeşitli bitki türleri ve hayvanlarla dolu, ziyaretçiler için bir doğa cenneti. Ormanın coğrafi yapısı, ziyaretçilerin keşfetmeye ve doğayla iç içe olmaya davet ediyor. Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, Marmara Bölgesi'nin iklimine uygun olarak, yazları sıcak ve nemli, kışları soğuk ve yağışlı bir hava şartlarına sahip. Orman, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim farklı bir güzelliği sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas'ı ziyaret etmek, doğa severler
 ## İlginç Bilgiler
 
 - Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, 140 hektarlık bir alana yayılmış.
-- Orman, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, Marmara Bölgesi'nin coğrafi yapısında önemli bir yer alıyor.
 - Orman, çeşitli bitki türleri ve hayvanlarla dolu, ziyaretçiler için bir doğa cenneti.
 - Sakarya-İzmit-Kerpe Araştırma Ormanı Duglas, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim farklı bir güzelliği sunuyor.

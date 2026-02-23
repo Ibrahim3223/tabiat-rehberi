@@ -1,7 +1,7 @@
 ---
 title: "Dedeköy Camii Türbesi"
 date: "2026-01-10T05:35:06.169Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391393"
 
 # Dedeköy Camii Türbesi
 
-Dedeköy Camii Türbesi, Ege Bölgesi'nin güzide illerinden biri olan Denizli'nin Çivril ilçesinde yer alır. Bu tarihi ve doğal güzelliklerin birleştiği noktada, 140 hektarlık bir alan, khong 200 futbol sahası büyüklüğünde bir yeşil cennet sunar. Burada, tarihi cami ve türbe ile birlikte, çevreyi saran yeşillikler ve çeşitli bitki türleri, ziyaretçilere doğayla iç içe bir deneyim sunar. Çivril'in tarihi geçmişi, bu türbenin etrafında şekillenmiştir ve ziyaretçiler, hem doğayı hem de tarihin izlerini keşfedebilir.
+Dedeköy Camii Türbesi, Ege Bölgesi'nin güzide illerinden biri olan Denizli'nin Çivril ilçesinde yer alır. Burada, tarihi cami ve türbe ile birlikte, çevreyi saran yeşillikler ve çeşitli bitki türleri, ziyaretçilere doğayla iç içe bir deneyim sunar. Çivril'in tarihi geçmişi, bu türbenin etrafında şekillenmiştir ve ziyaretçiler, hem doğayı hem de tarihin izlerini keşfedebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dedeköy Camii Türbesi, yüzyıllar boyunca birçok medeniyete ev sahipliği ya
 
 ## Coğrafya
 
-Dedeköy Camii Türbesi, Çivril'in coğrafi güzelliklerinin birleştiği noktada yer alır. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunar ve ziyaretçilere doğayla iç içe bir deneyim sunar. Çivril'in coğrafyası, Ege Bölgesi'nin karakteristik özelliklerini taşır ve bu bölge, yeşillikler, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Cami ve türbenin etrafındaki coğrafi yapı, ziyaretçilere birçok doğal güzelliği keşfetme fırsatı sunar. Çivril'in iklimi, Ege Bölgesi'nin ılıman iklimini yansıtır ve bu, ziyaretçilere yılın dört mevsimi boyunca keyifli bir gezi deneyimi sunar. Bu coğrafi bölgenin zengin fauna ve flora çeşitliliği, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
+Dedeköy Camii Türbesi, Çivril'in coğrafi güzelliklerinin birleştiği noktada yer alır. Cami ve türbenin etrafındaki coğrafi yapı, ziyaretçilere birçok doğal güzelliği keşfetme fırsatı sunar. Çivril'in iklimi, Ege Bölgesi'nin ılıman iklimini yansıtır ve bu, ziyaretçilere yılın dört mevsimi boyunca keyifli bir gezi deneyimi sunar. Bu coğrafi bölgenin zengin fauna ve flora çeşitliliği, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Dedeköy Camii Türbesi'ni ziyaret etmek, hem doğayı hem de tarihin izlerini k
 
 - Dedeköy Camii Türbesi, Çivril'in tarihi ve kültürel kimliğiçinde önemli bir yer tutar.
 - Bu türbe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olan Çivril'de, tarihin derinliklerinden gelen bir miras olarak karşımıza çıkar.
-- Çivril'in coğrafyası, Ege Bölgesi'nin karakteristik özelliklerini taşır ve bu bölge, yeşillikler, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Dedeköy Camii Türbesi, ziyaretçilere doğayla iç içe bir deneyim sunar ve Çivril'in doğal mirasını keşfetme fırsatı sunar.
 - Bu coğrafi bölgenin ekolojik dengesi, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar ve Çivril'in doğal mirasını korumaya yardımcı olur.

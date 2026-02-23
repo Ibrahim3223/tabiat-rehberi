@@ -1,7 +1,7 @@
 ---
 title: "Ta Marmara Anıt Mezarı"
 date: "2026-01-09T23:59:32.309Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İyonya"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728118"
 
 # Ta Marmara Anıt Mezarı
 
-Didim'in İyonya bölgesinde yer alan Ta Marmara Anıt Mezarı, tarihi ve doğal güzelliklerinin bir arada olduğu özel bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir gezi alanı sunuyor. Ta Marmara Anıt Mezarı, İyonya'nın tarihini ve kültürünü yansıtan önemli bir anıt olarak kabul ediliyor. Bu mezar, bölgeye gelen ziyaretçilerin ilgisini çekiyor ve onlara İyonya'nın zengin tarihini keşfetme fırsatı sunuyor.
+Didim'in İyonya bölgesinde yer alan Ta Marmara Anıt Mezarı, tarihi ve doğal güzelliklerinin bir arada olduğu özel bir destinasyon. Ta Marmara Anıt Mezarı, İyonya'nın tarihini ve kültürünü yansıtan önemli bir anıt olarak kabul ediliyor. Bu mezar, bölgeye gelen ziyaretçilerin ilgisini çekiyor ve onlara İyonya'nın zengin tarihini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

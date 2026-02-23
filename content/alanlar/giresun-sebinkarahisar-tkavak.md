@@ -1,7 +1,7 @@
 ---
 title: "Giresun-Sebinkarahisar-T.Kavak"
 date: "2026-01-09T20:11:42.540Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Giresun"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228504"
 
 # Giresun-Sebinkarahisar-T.Kavak
 
-Giresun-Sebinkarahisar-T.Kavak Milli Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Giresun'un tarihi geçmişi, bu bölgede önemli bir yer tutuyor. Sebinkarahisar ve T.Kavak gibi önemli yerleşim merkezleri, ziyaretçilere hem doğal güzellikleri hem de kültürel zenginlikleri sunuyor.
+Giresun-Sebinkarahisar-T.Kavak Milli Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Bu milli park, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Giresun'un tarihi geçmişi, bu bölgede önemli bir yer tutuyor. Sebinkarahisar ve T.Kavak gibi önemli yerleşim merkezleri, ziyaretçilere hem doğal güzellikleri hem de kültürel zenginlikleri sunuyor.
 
 ## Tarihçe
 

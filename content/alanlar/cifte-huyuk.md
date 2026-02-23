@@ -28,7 +28,7 @@ wikidata_id: "Q34829083"
 
 # Çifte Hüyük
 
-Hatay ilinin zengin tarihi ve doğal güzelliklerini bir araya getiren Çifte Hüyük, ziyaretçilerini bekliyor. Bu özel alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Çifte Hüyük, hem tarihi geçmişi hem de doğal güzellikleri ile dikkat çeken bir destinasyon. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Çifte Hüyük'ü ziyaret etmek, hem doğa severler hem de tarih meraklıları için unutulmaz bir deneyim olacak.
+Hatay ilinin zengin tarihi ve doğal güzelliklerini bir araya getiren Çifte Hüyük, ziyaretçilerini bekliyor. Çifte Hüyük, hem tarihi geçmişi hem de doğal güzellikleri ile dikkat çeken bir destinasyon. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Çifte Hüyük'ü ziyaret etmek, hem doğa severler hem de tarih meraklıları için unutulmaz bir deneyim olacak.
 
 ## Tarihçe
 

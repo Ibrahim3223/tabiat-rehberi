@@ -32,9 +32,9 @@ Sivas'ın doğusunda yer alan Güldede Tepe, şehrin doğal güzelliklerini keş
 
 ## Tarihçe
 
-Sivas bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Güldede Tepe, bu bölgenin zengin tarihî dokusunun bir parçasını oluşturur. Hitit, Roma ve Selçuklu gibi uygarlıkların izlerini taşıyan Sivas, tarih boyunca önemli ticaret yollarının kesişme noktası olmuştur. Bu bölgede, insan yerleşimleri ve faaliyetleri, doğal alanların kullanımı ile yakından bağlantılıdır.
+Sivas bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Güldede Tepe, bu bölgenin zengin tarihî dokusunun bir parçasını oluşturur. Hitit, Roma ve Selçuklu gibi uygarlıkların izlerini taşıyan Sivas, tarih boyunca önemli ticaret yollarının kesişme noktası olmuştur. Bu bölgede, insan yerleşimleri ve faaliyetleri, doğal alanların kullanımı ile yakından bağlantılıdır.
 
-Türkiye'de, özellikle İç Anadolu Bölgesi'nde bulunan doğal alanlar, históriki olarak yaylacılık, hayvancılık ve avcılık gibi faaliyetlere ev sahipliği yapmıştır. Bu alanlar, aynı zamanda önemli ticaret yolları üzerinde bulunmaları nedeniyle, çeşitli medeniyetlerin etkileşim noktaları olarak da görev üstlenmişlerdir. Sivas bölgesinin coğrafyası, bu tür faaliyetlerin gelişmesine uygun koşullar sunmuş, böylece bölgenin tarihi ve kültürel mirasının şekillenmesine katkıda bulunmuştur. Güldede Tepe, bu bağlamda, Sivas'ın tarihî ve kültürel zenginliğinin bir öğesi olarak görülebilir.
+Türkiye'de, özellikle İç Anadolu Bölgesi'nde bulunan doğal alanlar, tarihi olarak yaylacılık, hayvancılık ve avcılık gibi faaliyetlere ev sahipliği yapmıştır. Bu alanlar, aynı zamanda önemli ticaret yolları üzerinde bulunmaları nedeniyle, çeşitli medeniyetlerin etkileşim noktaları olarak da görev üstlenmişlerdir. Sivas bölgesinin coğrafyası, bu tür faaliyetlerin gelişmesine uygun koşullar sunmuş, böylece bölgenin tarihi ve kültürel mirasının şekillenmesine katkıda bulunmuştur. Güldede Tepe, bu bağlamda, Sivas'ın tarihî ve kültürel zenginliğinin bir öğesi olarak görülebilir.
 
 ## Coğrafya
 

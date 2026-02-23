@@ -37,7 +37,7 @@ Batman bölgesinin tarihi, binlerce yıl öncesine uzanır. Bu bölge, tarihin �
 
 Doğal güzellikleri ile dikkat çeken Sultan Dağ gibi alanlar, Türkiye'de tarihsel öneme sahip bölgelerin önemli bir parçasını oluşturur. Bu tür doğal alanlar, sadece güzellikleri ile değil, aynı zamanda insanların yaşamlarını sürdürmeleri açısından da kritik öneme sahiptir. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yaşayan insanların geleneksel faaliyetleri arasında yer alır.
 
-Ticaret yolları ve histórik rotaların da bu bölgeyi kapsaması, Sultan Dağ'ın ve çevresinin tarihsel önemini artırır. İnsanlar, bu doğal güzellikleri sadece yaşam alanları olarak değil, aynı zamanda geçim kaynakları ve kültürel mirasları olarak da görmüşlerdir. Bu nedenle, Sultan Dağ gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçası olarak karşımıza çıkar.
+Ticaret yolları ve tarihi rotaların da bu bölgeyi kapsaması, Sultan Dağ'ın ve çevresinin tarihsel önemini artırır. İnsanlar, bu doğal güzellikleri sadece yaşam alanları olarak değil, aynı zamanda geçim kaynakları ve kültürel mirasları olarak da görmüşlerdir. Bu nedenle, Sultan Dağ gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçası olarak karşımıza çıkar.
 
 ## Coğrafya
 

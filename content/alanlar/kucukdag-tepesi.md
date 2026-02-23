@@ -28,7 +28,7 @@ wikidata_id: "Q32210927"
 
 # Küçükdağ Tepesi
 
-Küçükdağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini barındırıyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Ayrıca, bu tepe, Ankara'nın tarihi ve kültürel geçmişine de ışık tutuyor. Küçükdağ Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak öne çıkıyor.
+Küçükdağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Ayrıca, bu tepe, Ankara'nın tarihi ve kültürel geçmişine de ışık tutuyor. Küçükdağ Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

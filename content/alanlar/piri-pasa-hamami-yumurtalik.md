@@ -1,7 +1,7 @@
 ---
 title: "Piri Paşa Hamamı, Yumurtalık"
 date: "2026-01-09T23:54:18.477Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245690"
 
 # Piri Paşa Hamamı, Yumurtalık
 
-Piri Paşa Hamamı, Yumurtalık'ta yer alan ve tarihi öneme sahip bir yapıdır. Bu yapı, Akdeniz Bölgesi'nin önemli turizm merkezlerinden biri olan Yumurtalık'ta bulunmaktadır. 140 hektarlık bir alan üzerinde kurulan Piri Paşa Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu yapı, Yumurtalık'ın turizm açısından önemli bir noktası olarak görülmektedir. Piri Paşa Hamamı, Yumurtalık'ın tarihi ve kültürel mirasını yansıtan önemli bir yapıttır.
+Piri Paşa Hamamı, Yumurtalık'ta yer alan ve tarihi öneme sahip bir yapıdır. Bu yapı, Akdeniz Bölgesi'nin önemli turizm merkezlerinden biri olan Yumurtalık'ta bulunmaktadır. Bu yapı, Yumurtalık'ın turizm açısından önemli bir noktası olarak görülmektedir. Piri Paşa Hamamı, Yumurtalık'ın tarihi ve kültürel mirasını yansıtan önemli bir yapıttır.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Piri Paşa Hamamı, Yumurtalık'ta yer alan ve Akdeniz Bölgesi'nin önemli turi
 
 ## Ziyaret Bilgileri
 
-Piri Paşa Hamamı, Yumurtalık'ta yer alan ve Akdeniz Bölgesi'nin önemli turizm merkezlerinden biri olan bir yapıdır. Bu yapı, ziyaretçilerine, tarihi ve kültürel öneme sahip bir atmosfer sunmaktadır. Piri Paşa Hamamı, Yumurtalık'ın coğrafi konumu itibariyle, ziyaretçilerine benzersiz bir deneyim sunmaktadır. Bu hamam, Yumurtalık'a gelen ziyaretçilerin, tarihi ve kültürel mirası keşfetmeleri için ideal bir yerdir. Piri Paşa Hamamı, ziyaretçilerine, Yumurtalık'ın historia ve kültürel zenginliğini gözler önüne sermekte olup, ziyaretçilerine unutulmaz bir deneyim sunmaktadır.
+Piri Paşa Hamamı, Yumurtalık'ta yer alan ve Akdeniz Bölgesi'nin önemli turizm merkezlerinden biri olan bir yapıdır. Bu yapı, ziyaretçilerine, tarihi ve kültürel öneme sahip bir atmosfer sunmaktadır. Piri Paşa Hamamı, Yumurtalık'ın coğrafi konumu itibariyle, ziyaretçilerine benzersiz bir deneyim sunmaktadır. Bu hamam, Yumurtalık'a gelen ziyaretçilerin, tarihi ve kültürel mirası keşfetmeleri için ideal bir yerdir.
 
 ## İlginç Bilgiler
 

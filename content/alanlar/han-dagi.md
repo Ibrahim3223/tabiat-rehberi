@@ -1,7 +1,7 @@
 ---
 title: "Han Dağı"
 date: "2026-01-10T08:28:45.794Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q31385768"
 
 # Han Dağı
 
-Han Dağı, Konya'nın merkezinde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini büyüleyen bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin kalabalığından kaçmak isteyenler için bir sığınak görevi görüyor. Han Dağı, Konya'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir destinasyon. Dağın eteklerinde yer alan tarihi yapılar ve çevredeki doğa güzellikleri, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Han Dağı, Konya'nın merkezinde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini büyüleyen bir doğa harikasıdır. Han Dağı, Konya'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir destinasyon. Dağın eteklerinde yer alan tarihi yapılar ve çevredeki doğa güzellikleri, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

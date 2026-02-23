@@ -1,7 +1,7 @@
 ---
 title: "Hacı Kadın Hamamı, Unkapanı"
 date: "2026-01-09T22:51:00.015Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -45,7 +45,7 @@ Hacı Kadın Hamamı'nın çevresinde, çeşitli bitki türleri bulunmakta ve bu
 
 ## Ziyaret Bilgileri
 
-Hacı Kadın Hamamı, Unkapanı'na ziyaretçiler, toplu taşıma araçlarını kullanarak kolayca ulaşabilirler. Hamama gitmek için, en iyi dönem, ilkbahar ve sonbahar aylarıdır ve ziyaretçiler, bu dönemde, daha rahat bir şekilde gezebilmektedir. Ziyaret sırasında, hamamın tarihi ve kültürel önemi hakkında bilgi edinmek, ziyaretçilere, daha derin bir expérience sağlayacaktır. Ziyaretçilerin, bu bölgeyi ziyaret ederken, kültürel mirasa saygı göstermeleri ve tarihi yapıları korumaları önemlidir.
+Hacı Kadın Hamamı, Unkapanı'na ziyaretçiler, toplu taşıma araçlarını kullanarak kolayca ulaşabilirler. Hamama gitmek için, en iyi dönem, ilkbahar ve sonbahar aylarıdır ve ziyaretçiler, bu dönemde, daha rahat bir şekilde gezebilmektedir. Ziyaret sırasında, hamamın tarihi ve kültürel önemi hakkında bilgi edinmek, ziyaretçilere, daha derin bir deneyim sağlayacaktır. Ziyaretçilerin, bu bölgeyi ziyaret ederken, kültürel mirasa saygı göstermeleri ve tarihi yapıları korumaları önemlidir.
 
 ## İlginç Bilgiler
 

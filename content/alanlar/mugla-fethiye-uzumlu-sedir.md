@@ -22,7 +22,7 @@ wikidata_id: "Q108227616"
 
 # Mugla-Fethiye-Uzumlu Sedir
 
-Mugla-Fethiye-Uzumlu Sedir milli parkı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, yaklaşık 10.000 ağacın büyümesi için yeterli. İç Anadolu Bölgesi'nde yer alan bu milli park, yaklaşık 50 kilometrelik bir yürüyüş parkuruyla ziyaretçilerini bekliyor. 20 kilometrelik bisiklet yolu da bulunan bu park, yaklaşık 10 kilometrelik bir nehre ev sahipliği yapıyor.
+ Bu geniş yeşil alan, yaklaşık 10.000 ağacın büyümesi için yeterli. İç Anadolu Bölgesi'nde yer alan bu milli park, yaklaşık 50 kilometrelik bir yürüyüş parkuruyla ziyaretçilerini bekliyor. 20 kilometrelik bisiklet yolu da bulunan bu park, yaklaşık 10 kilometrelik bir nehre ev sahipliği yapıyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388821"
 
 # Kurşun Tepe
 
-Kurşun Tepe, Marmara Bölgesi'nin güzide illerinden Tekirdağ'da yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Ziyaretçiler, buraya gelerek hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfedebilecekler. Kurşun Tepe, özellikle trekking ve doğa yürüyüşü severlerin ilgi odağı.
+Kurşun Tepe, Marmara Bölgesi'nin güzide illerinden Tekirdağ'da yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Ziyaretçiler, buraya gelerek hem doğanın güzelliğini hem de bölgenin tarihi geçmişini keşfedebilecekler. Kurşun Tepe, özellikle trekking ve doğa yürüyüşü severlerin ilgi odağı.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Kurşun Tepe, coğrafi konumu itibariyle oldukça ilgi çekici. Bu tepe, Marmara
 
 ## Flora ve Fauna
 
-Kurşun Tepe, flora ve fauna açısından oldukça zengin bir bölge. Bu tepe ve çevresinde, çeşitli bitki türleri yer alıyor. Mevsimsel değişimlere göre, bu bitki türleri farklılık gösteriyor. İlkbahar ve yaz aylarında, tepe etrafındaki bitkiler yeşil ve canlı bir görünüm sergilerken, sonbahar ve kış aylarında daha sakin bir hava hakim oluyor. Kurşun Tepe'nin fauna açısından zenginliği de dikkat çekiyor. Bu bölgede, çeşitli hayvan türleri yaşamını sürdürüyor. Ziyaretçiler, buraya gelerek bu zengin flora ve faunayı keşfedebilecekler.
+ Bu tepe ve çevresinde, çeşitli bitki türleri yer alıyor. Mevsimsel değişimlere göre, bu bitki türleri farklılık gösteriyor. İlkbahar ve yaz aylarında, tepe etrafındaki bitkiler yeşil ve canlı bir görünüm sergilerken, sonbahar ve kış aylarında daha sakin bir hava hakim oluyor. Kurşun Tepe'nin fauna açısından zenginliği de dikkat çekiyor. Bu bölgede, çeşitli hayvan türleri yaşamını sürdürüyor. Ziyaretçiler, buraya gelerek bu zengin flora ve faunayı keşfedebilecekler.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Kurşun Tepe, ziyaretçilere çeşitli olanaklar sunuyor. Ziyaretçiler, buraya 
 
 - Kurşun Tepe, Tekirdağ merkezine uzun bir mesafe uzaklıkta yer alıyor.
 - Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
-- Kurşun Tepe, flora ve fauna açısından oldukça zengin bir bölge.
+
 - Ziyaretçiler, buraya gelerek trekking ve doğa yürüyüşü yapabilecekler.
 - Kurşun Tepe, ilkbahar ve yaz aylarında ziyaret edilebilir.

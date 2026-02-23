@@ -50,9 +50,9 @@ Fiziksel yapısı itibariyle Ganisipi Dağı, çevresindeki diğer dağlarla ben
 
 ## Flora ve Fauna
 
-Ganisipi Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları renklendir. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunuyor. Sonbaharda, göçmen kuşlar dağları doldururken, dağ keçileri ve diğer memeliler bu zorlu ortamda hayatta kalma mücadelesi veriyor. 
-Yaban hayatı, memeliler ve kuşlar ile zengin. Dağların yüksek kesimlerinde living sürüngenler de görülebiliyor. 
+Ganisipi Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları renklendir. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunuyor. Sonbaharda, göçmen kuşlar dağları doldururken, dağ keçileri ve diğer memeliler bu zorlu ortamda hayatta kalma mücadelesi veriyor.
+Yaban hayatı, memeliler ve kuşlar ile zengin. Dağların yüksek kesimlerinde living sürüngenler de görülebiliyor.
 Ekolojik değeri, endemik türlerin varlığı ve yüksek dağ ekolojisini koruması açısından büyük önem taşıyor. Bu alanın korunması, bölgenin biyolojik çeşitliliğini korumak açısından kritik öneme sahip.
 
 ## Ziyaret Bilgileri

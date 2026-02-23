@@ -1,7 +1,7 @@
 ---
 title: "III. Selim Han Çeşmesi, Yıldız"
 date: "2026-01-10T04:34:16.050Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131836258"
 
 # III. Selim Han Çeşmesi, Yıldız
 
-III. Selim Han Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde, Boğaziçi'nin en güzel noktalarından biri olan Yıldız'da yer alan tarihi bir çeşme. Bu çeşme, 140 hektarlık alanı kaplayan Yıldız Parkı'nın içinde bulunmakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içinde yer alıyor. Çeşme, Osmanlı Dönemi'nde inşa edilmiş ve III. Selim Han'ın adını taşımaktadır. Geleneksel Osmanlı mimarisini yansıtan bu çeşme, ziyaretçilerin ilgisini çekmekte ve bölgenin önemli bir turistik noktası olarak kabul edilmektedir.
+III. Selim Han Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde, Boğaziçi'nin en güzel noktalarından biri olan Yıldız'da yer alan tarihi bir çeşme. Çeşme, Osmanlı Dönemi'nde inşa edilmiş ve III. Selim Han'ın adını taşımaktadır. Geleneksel Osmanlı mimarisini yansıtan bu çeşme, ziyaretçilerin ilgisini çekmekte ve bölgenin önemli bir turistik noktası olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ III. Selim Han Çeşmesi, Yıldız, 18. yüzyılda inşa edilmiş bir tarihi çe
 
 ## Coğrafya
 
-III. Selim Han Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde, Boğaziçi'nin en güzel noktalarından biri olan Yıldız'da yer alıyor. Bu bölge, 140 hektarlık bir alanı kaplayan Yıldız Parkı ile çevrili ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içinde yer alıyor. Çeşme, geleneksel Osmanlı mimari tarzı ile inşa edilmiş ve çevresinde çeşitli bitki türleri ile zengin bir flora sunuyor. Bölge, Marmara Denizi'ne yakın bir konumda bulunduğundan, iklimi ılıman ve nemli. Çeşme ve çevresindeki park, yıl boyunca ziyaretçilerin keyifli bir şekilde gezebileceği bir ortam sunuyor. Ayrıca, çeşme ve park, şehrin karmaşasından uzaklaşmak isteyenler için de bir kaçış noktası olarak kabul ediliyor.
+III. Selim Han Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde, Boğaziçi'nin en güzel noktalarından biri olan Yıldız'da yer alıyor. Çeşme, geleneksel Osmanlı mimari tarzı ile inşa edilmiş ve çevresinde çeşitli bitki türleri ile zengin bir flora sunuyor. Bölge, Marmara Denizi'ne yakın bir konumda bulunduğundan, iklimi ılıman ve nemli. Çeşme ve çevresindeki park, yıl boyunca ziyaretçilerin keyifli bir şekilde gezebileceği bir ortam sunuyor. Ayrıca, çeşme ve park, şehrin karmaşasından uzaklaşmak isteyenler için de bir kaçış noktası olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

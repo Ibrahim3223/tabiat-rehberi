@@ -28,7 +28,7 @@ wikidata_id: "Q31558516"
 
 # Kartallık Tepesi
 
-Ankara'nın kalbinde yer alan Kartallık Tepesi, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini gösterir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplıdır. Tepenin eteklerinde, Ankara'nın tarihi ve kültürel zenginliklerini yansıtan çeşitli yapılar yer alır. Bu bölge, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbeder.
+Ankara'nın kalbinde yer alan Kartallık Tepesi, İç Anadolu Bölgesi'nin coğrafi çeşitliliğini gösterir. Tepenin eteklerinde, Ankara'nın tarihi ve kültürel zenginliklerini yansıtan çeşitli yapılar yer alır. Bu bölge, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbeder.
 
 ## Tarihçe
 

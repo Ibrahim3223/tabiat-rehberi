@@ -1,7 +1,7 @@
 ---
 title: "Bozdağ Hamamı"
 date: "2026-01-09T23:23:51.558Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739020"
 
 # Bozdağ Hamamı
 
-Ödemiş'in merkezinden uzun bir mesafe uzaklıkta bulunan Bozdağ Hamamı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu büyüleyici plaj, Ege Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Denizin serin suları ve güneşin ılıman ışıkları, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Bozdağ Hamamı, aynı zamanda tarihî bir geçmişe sahip. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmış. Tarihi geçmişi, ziyaretçilere benzersiz bir deneyim sunuyor.
+ Bu büyüleyici plaj, Ege Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Denizin serin suları ve güneşin ılıman ışıkları, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Bozdağ Hamamı, aynı zamanda tarihî bir geçmişe sahip. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmış. Tarihi geçmişi, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bozdağ Hamamı, tarihin en eski dönemlerinden beri insan yerleşimine sahne ol
 
 ## Coğrafya
 
-Bozdağ Hamamı, Ödemiş'in merkezinden uzun bir mesafe uzaklıkta bulunan bir plaj. Bu plaj, Ege Bölgesi'nin en güzel plajlarından biri olarak biliniyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Denizin serin suları ve güneşin ılıman ışıkları, ziyaretçilere benzersiz bir deneyim sunuyor. Bozdağ Hamamı, aynı zamanda çevredeki dağların eteklerinde yer alıyor. Bu dağlar, ziyaretçilere doğanın güzelliğini sunuyor. Yeşil alanlar, deniz, güneşin ılıman ışıkları, ziyaretçilere doğayla iç içe olmayı sağlıyor. Bu bölge, yüzyıllar boyunca insanların doğayla iç içe yaşadığı bir yer olarak biliniyor. İklimi, ılıman ve yağışlı. Kış ayları, yağışlı ve serin. Yaz ayları, sıcak ve güneşli. Bu bölge, her mevsim ziyaret edilebilir. Ancak, en iyi ziyaret zamanı, ilkbahar ve yaz ayları.
+Bozdağ Hamamı, Ödemiş'in merkezinden uzun bir mesafe uzaklıkta bulunan bir plaj. Bu plaj, Ege Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Denizin serin suları ve güneşin ılıman ışıkları, ziyaretçilere benzersiz bir deneyim sunuyor. Bozdağ Hamamı, aynı zamanda çevredeki dağların eteklerinde yer alıyor. Bu dağlar, ziyaretçilere doğanın güzelliğini sunuyor. Yeşil alanlar, deniz, güneşin ılıman ışıkları, ziyaretçilere doğayla iç içe olmayı sağlıyor. Bu bölge, yüzyıllar boyunca insanların doğayla iç içe yaşadığı bir yer olarak biliniyor. İklimi, ılıman ve yağışlı. Kış ayları, yağışlı ve serin. Yaz ayları, sıcak ve güneşli. Bu bölge, her mevsim ziyaret edilebilir. Ancak, en iyi ziyaret zamanı, ilkbahar ve yaz ayları.
 
 ## Flora ve Fauna
 

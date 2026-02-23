@@ -54,7 +54,7 @@ Musadağı Tepe, Karaman'ın step bitki örtüsü ve bozkırının hakim olduğu
 
 Yaban hayatı da bir o kadar çeşitlidir. Dağ keçileri ve yaban keçileri, dağların yüksek zonlarında yaşarken, çayır ve meralarda çeşitli memeli türlerine rastlama mümkündür. Kuşlar ise özellikle sonbaharda göç sırasında bu bölgeden geçer ve dağların yüksekliklerini kullanır. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturur ve kayalık alanlarda yaşamlarını sürdürürler.
 
-Bu dağ ekosisteminin ekolojik değeri oldukça yüksektir. Yükseklik zonları, alpin flora ve dağ hayvanları, bu bölgenin benzersiz özelliklerini oluşturur. Bu nedenle, Musadağı Tepe'nin korunması ve bảo tồn edilmesi önemlidir.
+Bu dağ ekosisteminin ekolojik değeri oldukça yüksektir. Yükseklik zonları, alpin flora ve dağ hayvanları, bu bölgenin benzersiz özelliklerini oluşturur. Bu nedenle, Musadağı Tepe'nin korunması ve koruma tồn edilmesi önemlidir.
 
 ## Ziyaret Bilgileri
 

@@ -1,7 +1,7 @@
 ---
 title: "Beş Yatırlar Türbesi"
 date: "2026-01-10T06:08:22.970Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390567"
 
 # Beş Yatırlar Türbesi
 
-Ayvalık'ın doğal güzellikleri arasında yer alan Beş Yatırlar Türbesi, Marmara Bölgesi'nde bulunan bir plajdır. Bu plaj, approximately 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplar. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Beş Yatırlar Türbesi, ziyaretçilerini büyüleyen bir destinasyondur. Burada, historical bir geçmişe sahip olan türbe ve çevresi, ziyaretçiler için önemli bir çekim noktası oluşturur.
+Ayvalık'ın doğal güzellikleri arasında yer alan Beş Yatırlar Türbesi, Marmara Bölgesi'nde bulunan bir plajdır. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Beş Yatırlar Türbesi, ziyaretçilerini büyüleyen bir destinasyondur. Burada, historical bir geçmişe sahip olan türbe ve çevresi, ziyaretçiler için önemli bir çekim noktası oluşturur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Beş Yatırlar Türbesi,i geçmişiyle dikkat çeken bir yerdir. Tarihi geçmiş
 
 ## Coğrafya
 
-Beş Yatırlar Türbesi, Ayvalık'ın doğal güzellikleri arasında yer alan bir plajdır. Bu plaj, Marmara Bölgesi'nde bulunan bir bölgedir. Coğrafi olarak, bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı oluşturur. Bu bölgede, ziyaretçiler, deniz, kum ve güneş üçlüsünü deneyimleyebilir ve doğal güzelliği keşfedebilir. Ayrıca, bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Burada, ziyaretçiler, doğal güzellikleri ve historical bir geçmişe sahip olan türbe ve çevresi hakkında bilgi edinebilir.
+Beş Yatırlar Türbesi, Ayvalık'ın doğal güzellikleri arasında yer alan bir plajdır. Bu plaj, Marmara Bölgesi'nde bulunan bir bölgedir. Bu bölgede, ziyaretçiler, deniz, kum ve güneş üçlüsünü deneyimleyebilir ve doğal güzelliği keşfedebilir. Ayrıca, bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Burada, ziyaretçiler, doğal güzellikleri ve historical bir geçmişe sahip olan türbe ve çevresi hakkında bilgi edinebilir.
 
 ## Flora ve Fauna
 

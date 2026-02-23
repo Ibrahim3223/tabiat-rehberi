@@ -22,7 +22,7 @@ wikidata_id: "Q108227213"
 
 # Kahramanmaras-Antakya-Hassa Sedir
 
-Kahramanmaras-Antakya-Hassa Sedir milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğal güzellik alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip olup, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Parkın içinde, çeşitli bitki türleri ve zengin fauna found. Bu milli park, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Parkın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve birçok önemli olaya sahne olmuştur.
+Kahramanmaras-Antakya-Hassa Sedir milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğal güzellik alanıdır. Parkın içinde, çeşitli bitki türleri ve zengin fauna found. Bu milli park, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Parkın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve birçok önemli olaya sahne olmuştur.
 
 ## Tarihçe
 

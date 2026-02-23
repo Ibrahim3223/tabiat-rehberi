@@ -28,7 +28,7 @@ wikidata_id: "Q31539958"
 
 # Celekuzeğe Tepesi
 
-Celekuzeğe Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan ve doğal güzellikleri ile tarihi geçmişiyle dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Celekuzeğe Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın sesini dinleyebileceğiniz bir mekan. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Bu tepe, doğa severler ve tarih meraklıları için ideal bir gezi noktası.
+Celekuzeğe Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan ve doğal güzellikleri ile tarihi geçmişiyle dikkat çeken bir tepe. Celekuzeğe Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın sesini dinleyebileceğiniz bir mekan. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found. Bu tepe, doğa severler ve tarih meraklıları için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Celekuzeğe Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlık
 
 ## Coğrafya
 
-Celekuzeğe Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Eteklerinde çeşitli bitki türleri ve zengin fauna found. Bölgenin iklimi, genellikle sıcak ve kurak pasiftir. Ancak, tepe ve çevresindeki ormanlık alanlar, ziyaretçilere serin ve ferah bir ortam sunuyor. Celekuzeğe Tepesi, coğrafi konumu ve doğal güzellikleri ile dikkat çekiyor. Tepenin çevresinde, çeşitli akarsular ve göller found. Bu su kaynakları, bölgenin ekolojik dengesini koruyor ve ziyaretçilere güzel bir manzara sunuyor.
+Celekuzeğe Tepesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alıyor. Tepenin yüksekliği ve coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Eteklerinde çeşitli bitki türleri ve zengin fauna found. Bölgenin iklimi, genellikle sıcak ve kurak pasiftir. Ancak, tepe ve çevresindeki ormanlık alanlar, ziyaretçilere serin ve ferah bir ortam sunuyor. Celekuzeğe Tepesi, coğrafi konumu ve doğal güzellikleri ile dikkat çekiyor. Tepenin çevresinde, çeşitli akarsular ve göller found. Bu su kaynakları, bölgenin ekolojik dengesini koruyor ve ziyaretçilere güzel bir manzara sunuyor.
 
 ## Flora ve Fauna
 

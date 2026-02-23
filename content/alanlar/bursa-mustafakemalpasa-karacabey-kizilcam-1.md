@@ -22,7 +22,7 @@ wikidata_id: "Q108227861"
 
 # Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1
 
-Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1 milli parkı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Doğal güzelliği, zengin fauna ve flora çeşitliliği ile bu bölge, turizm açısından önemli bir destinasyon olarak görünüyor. Ziyaretçiler, bu bölgede çeşitli doğa yürüyüşleri yapabilir, çevre güzelliğini izleyebilir ve huzurlu bir atmosferde dinlenebilirler.
+Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1 milli parkı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu milli park, ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Doğal güzelliği, zengin fauna ve flora çeşitliliği ile bu bölge, turizm açısından önemli bir destinasyon olarak görünüyor. Ziyaretçiler, bu bölgede çeşitli doğa yürüyüşleri yapabilir, çevre güzelliğini izleyebilir ve huzurlu bir atmosferde dinlenebilirler.
 
 ## Tarihçe
 

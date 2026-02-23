@@ -28,7 +28,7 @@ wikidata_id: "Q31390686"
 
 # Yığılıtaş Tepesi
 
-Yığılıtaş Tepesi, Karadeniz Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak Tokat'ta yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle kaplı. Tepenin eteklerinde çeşitli ağaçlar ve çalılar bulunmakta. Bu bölgede yapılan yürüyüşler, hem doğayı keşfetmek hem de tarihi geçmişi hissetmek için ideal. Yığılıtaş Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemiyle zengin bir deneyim sunuyor.
+Yığılıtaş Tepesi, Karadeniz Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak Tokat'ta yer alıyor. Tepenin eteklerinde çeşitli ağaçlar ve çalılar bulunmakta. Bu bölgede yapılan yürüyüşler, hem doğayı keşfetmek hem de tarihi geçmişi hissetmek için ideal. Yığılıtaş Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi önemiyle zengin bir deneyim sunuyor.
 
 ## Tarihçe
 

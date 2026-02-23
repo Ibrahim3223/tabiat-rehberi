@@ -22,7 +22,7 @@ wikidata_id: "Q108227676"
 
 # Edirne-Kesan-Korudag Karacam
 
-Edirne-Kesan-Korudag Karacam Milli Parkı, Marmara Bölgesi'nin güzide mekanlarından biridir. Bu 140 hektarlık geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Parkın konumu, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi zenginliklerini keşfetme fırsatı sunar. Edirne'nin merkezine yakın bir konumda bulunan milli park, ziyaretçilerin kolayca ulaşabileceği bir noktada yer alır. Parkın girişinde, ziyaretçileri doğal güzelliklerin eşliğinde bir yürüyüş yolu karşılar. Bu yürüyüş yolu, parkın içlerine doğru ilerledikçe, çeşitli bitki türleri ve zengin fauna ile karşılaşmanızı sağlar.
+Edirne-Kesan-Korudag Karacam Milli Parkı, Marmara Bölgesi'nin güzide mekanlarından biridir. Parkın konumu, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin tarihi zenginliklerini keşfetme fırsatı sunar. Edirne'nin merkezine yakın bir konumda bulunan milli park, ziyaretçilerin kolayca ulaşabileceği bir noktada yer alır. Parkın girişinde, ziyaretçileri doğal güzelliklerin eşliğinde bir yürüyüş yolu karşılar. Bu yürüyüş yolu, parkın içlerine doğru ilerledikçe, çeşitli bitki türleri ve zengin fauna ile karşılaşmanızı sağlar.
 
 ## Tarihçe
 

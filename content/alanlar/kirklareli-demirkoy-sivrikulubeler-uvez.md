@@ -22,7 +22,7 @@ wikidata_id: "Q108228221"
 
 # Kırklareli-Demirkoy-Sivrikulubeler-Uvez
 
-Kırklareli-Demirkoy-Sivrikulubeler-Uvez milli parkı, Marmara Bölgesi'nin en güzel köşelerinden birini oluşturuyor. Yaklaşık 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dolu bir cennet. Ziyaretçiler, burada doğanın güzelliğini keşfedebilir ve kendi iç huzurlarını bulabilirler. 140 hektarlık bu yeşil cennet, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+Kırklareli-Demirkoy-Sivrikulubeler-Uvez milli parkı, Marmara Bölgesi'nin en güzel köşelerinden birini oluşturuyor. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dolu bir cennet. Ziyaretçiler, burada doğanın güzelliğini keşfedebilir ve kendi iç huzurlarını bulabilirler. 140 hektarlık bu yeşil cennet, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

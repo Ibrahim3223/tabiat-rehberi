@@ -1,7 +1,7 @@
 ---
 title: "Revak Sultan Türbesi"
 date: "2026-01-10T07:09:18.556Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390911"
 
 # Revak Sultan Türbesi
 
-Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin güzide noktalarından biri olarak bilinen Revak Sultan Türbesi, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunuyor. Bu türbe, aynı zamanda bir plaj olarak da hizmet veriyor ve bölgenin önemli turistik noktalarından biri durumunda. Revak Sultan Türbesi, tarihi geçmişi ve doğal güzelliklerinin yanı sıra, Ege Bölgesi'nin kültürel zenginliklerini de yansıtan önemli bir mekan.
+Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nin güzide noktalarından biri olarak bilinen Revak Sultan Türbesi, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Bu türbe, aynı zamanda bir plaj olarak da hizmet veriyor ve bölgenin önemli turistik noktalarından biri durumunda. Revak Sultan Türbesi, tarihi geçmişi ve doğal güzelliklerinin yanı sıra, Ege Bölgesi'nin kültürel zenginliklerini de yansıtan önemli bir mekan.
 
 ## Tarihçe
 

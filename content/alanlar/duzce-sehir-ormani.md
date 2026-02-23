@@ -22,7 +22,7 @@ wikidata_id: "Q108228671"
 
 # DÜZCE ŞEHİR ORMANI
 
-Düzce Şehir Ormanı, İç Anadolu Bölgesi'nde yer alan, 140 hektarlık devasa yeşil alanıyla doğa severlerin gözdesi haline gelmiştir. Bu devasa alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yer almaktadır. Doğal güzelliği, temiz havası ve çeşitli bitki türleriyle ziyaretçilerini etkileyen bu orman, aynı zamanda yürüyüş ve piknik için ideal bir mekândır. Şehir hayatının yoğunluğundan kaçmak isteyenler için sakin ve huzurlu bir ortam sunan Düzce Şehir Ormanı, doğa ile iç içe olmak isteyenlerin ilk tercihi olmaktadır.
+Düzce Şehir Ormanı, İç Anadolu Bölgesi'nde yer alan, 140 hektarlık devasa yeşil alanıyla doğa severlerin gözdesi haline gelmiştir. Doğal güzelliği, temiz havası ve çeşitli bitki türleriyle ziyaretçilerini etkileyen bu orman, aynı zamanda yürüyüş ve piknik için ideal bir mekândır. Şehir hayatının yoğunluğundan kaçmak isteyenler için sakin ve huzurlu bir ortam sunan Düzce Şehir Ormanı, doğa ile iç içe olmak isteyenlerin ilk tercihi olmaktadır.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227699"
 
 # Kastamonu-Samatlar-Dorukyayla Saricam
 
-Kastamonu ili sınırları içerisinde yer alan Kastamonu-Samatlar-Dorukyayla Saricam milli parkı, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini ağırlayan bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerin doğa ile baş başa kalabilecekleri bir ortam sunar. Milli park, Kastamonu city merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından oldukça kolaydır. Kastamonu-Samatlar-Dorukyayla Saricam milli parkı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda çeşitli aktivitelerin yapılmasına da olanak tanır.
+Kastamonu ili sınırları içerisinde yer alan Kastamonu-Samatlar-Dorukyayla Saricam milli parkı, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini ağırlayan bir doğa harikasıdır. Milli park, Kastamonu city merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından oldukça kolaydır. Kastamonu-Samatlar-Dorukyayla Saricam milli parkı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda çeşitli aktivitelerin yapılmasına da olanak tanır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kastamonu-Samatlar-Dorukyayla Saricam milli parkının tarihi geçmişi, yüzyı
 
 ## Coğrafya
 
-Kastamonu-Samatlar-Dorukyayla Saricam milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde yer almaktadır. Milli park, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu alan, ziyaretçilerin doğa ile baş başa kalabilecekleri bir ortam sunar ve çeşitli bitki türleri ile fauna çeşitliliği bulunmaktadır. Milli parkın coğrafi yapısı, ziyaretçilere güzel manzaralar sunarken, aynı zamanda çeşitli aktivitelerin yapılmasına da olanak tanır. Kastamonu-Samatlar-Dorukyayla Saricam milli parkı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin coğrafi özelliklerini de keşfetme imkanı tanır.
+Kastamonu-Samatlar-Dorukyayla Saricam milli parkı, Karadeniz Bölgesi'nin Kastamonu ilinde yer almaktadır. Bu alan, ziyaretçilerin doğa ile baş başa kalabilecekleri bir ortam sunar ve çeşitli bitki türleri ile fauna çeşitliliği bulunmaktadır. Milli parkın coğrafi yapısı, ziyaretçilere güzel manzaralar sunarken, aynı zamanda çeşitli aktivitelerin yapılmasına da olanak tanır. Kastamonu-Samatlar-Dorukyayla Saricam milli parkı, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin coğrafi özelliklerini de keşfetme imkanı tanır.
 
 ## Flora ve Fauna
 

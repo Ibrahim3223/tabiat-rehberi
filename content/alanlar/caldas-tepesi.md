@@ -28,7 +28,7 @@ wikidata_id: "Q34823603"
 
 # Çaldaş Tepesi
 
-Çorum'un doğal güzellikleri arasında yer alan Çaldaş Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, Karadeniz Bölgesi'nin eşsiz manzaralarına ev sahipliği yapıyor. Çaldaş Tepesi'nin etrafı, çeşitli bitki türleriyle dolu ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde, tarihi geçmişi olan köyler ve kasabalar yer alıyor. Bu tepenin en önemli özelliklerinden biri, yıl boyunca değişen mevsimsel conditionsına rağmen her daim canlılığını koruyabilmesi.
+ Bu bölge, Karadeniz Bölgesi'nin eşsiz manzaralarına ev sahipliği yapıyor. Çaldaş Tepesi'nin etrafı, çeşitli bitki türleriyle dolu ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Tepenin eteklerinde, tarihi geçmişi olan köyler ve kasabalar yer alıyor. Bu tepenin en önemli özelliklerinden biri, yıl boyunca değişen mevsimsel conditionsına rağmen her daim canlılığını koruyabilmesi.
 
 ## Tarihçe
 

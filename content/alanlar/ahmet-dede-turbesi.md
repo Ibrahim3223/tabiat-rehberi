@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Dede Türbesi"
 date: "2026-01-10T07:29:40.718Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391036"
 
 # Ahmet Dede Türbesi
 
-Ahmet Dede Türbesi, İstanbul'un Zeytinburnu ilçesinde yer alan ve hem tarihi hem de doğal güzellikleriyle dikkat çeken bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar ki, bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere doğayla iç içe olma ve tarihi bir atmosferi hissetmek için eşsiz bir fırsat sunar. Ahmet Dede Türbesi, ziyaretçilerini bir yandan tarihi değerleriyle karşılar, diğer yandan da Marmara Denizi'nin güzelliği ile buluşturur.
+Ahmet Dede Türbesi, İstanbul'un Zeytinburnu ilçesinde yer alan ve hem tarihi hem de doğal güzellikleriyle dikkat çeken bir alandır. Bu geniş alan, ziyaretçilere doğayla iç içe olma ve tarihi bir atmosferi hissetmek için eşsiz bir fırsat sunar. Ahmet Dede Türbesi, ziyaretçilerini bir yandan tarihi değerleriyle karşılar, diğer yandan da Marmara Denizi'nin güzelliği ile buluşturur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ahmet Dede Türbesi'nin tarihi geçmişi, İstanbul'un fethi dönemine kadar uza
 
 ## Coğrafya
 
-Ahmet Dede Türbesi, Zeytinburnu ilçesinde, Marmara Denizi kıyısında yer alır. Bu bölgenin coğrafi konumu, ziyaretçilere denizin güzelliğini ve panoramik manzarasını sunar. Türbe ve çevresindeki alan, geniş bir yeşil alan sunar ve bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe olmak için ideal bir ortam sağlar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemlidir. Bahar ve yaz aylarında sıcaklığın artması, bu bölgenin doğası ve güzelliği ile daha da çekici hale gelmesini sağlar. Ahmet Dede Türbesi ve çevresinin coğrafi konumu, hem tarihi hem de doğal güzelliklerin bir araya geldiği eşsiz bir destinasyon olarak dikkat çeker.
+Ahmet Dede Türbesi, Zeytinburnu ilçesinde, Marmara Denizi kıyısında yer alır. Bu bölgenin coğrafi konumu, ziyaretçilere denizin güzelliğini ve panoramik manzarasını sunar. Bu geniş yeşil alan, ziyaretçilere doğayla iç içe olmak için ideal bir ortam sağlar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemlidir. Bahar ve yaz aylarında sıcaklığın artması, bu bölgenin doğası ve güzelliği ile daha da çekici hale gelmesini sağlar. Ahmet Dede Türbesi ve çevresinin coğrafi konumu, hem tarihi hem de doğal güzelliklerin bir araya geldiği eşsiz bir destinasyon olarak dikkat çeker.
 
 ## Flora ve Fauna
 

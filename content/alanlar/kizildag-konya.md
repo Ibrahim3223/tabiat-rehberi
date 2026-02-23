@@ -29,7 +29,7 @@ wikidata_id: "Q31385628"
 
 # Kızıldağ (Konya)
 
-Kızıldağ, Konya ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Kızıldağ, bölgenin coğrafi yapısını şekillendiren önemli bir nokta. Burada, bölgenin doğal güzellikleri ve coğrafi özellikleri hakkında bilgi edinebilirsiniz. Kızıldağ, Konya'nın önemli bir doğal güzelliği.
+Kızıldağ, Konya ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan. Kızıldağ, bölgenin coğrafi yapısını şekillendiren önemli bir nokta. Burada, bölgenin doğal güzellikleri ve coğrafi özellikleri hakkında bilgi edinebilirsiniz. Kızıldağ, Konya'nın önemli bir doğal güzelliği.
 
 ## Tarihçe
 

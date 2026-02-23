@@ -54,7 +54,7 @@ Mevsimsel değişikliklere göre hava durumu değişen Çuruk Dağı, yaz aylar�
 
 Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. Yüksek rakımlarda, dağ keçileri ve yaban keçileri yaşam alanlarını bulur. Bu bölgede, çeşitli kuş türleri de yuvalarını kurar. Sonbaharla birlikte, göçmen kuşlar dağ üzerinden geçer, bu dönemde dağ, bir göçmen kuş cenneti haline gelir.
 
-Çuruk Dağı, ekolojik açıdan önemli bir bölgedir. Burada yaşayan bitkiler ve hayvanlar, birbirleriyle bağlantılı bir yaşam sürer. Dağın maki bitki örtüsü, toprağın erozyonunu önlerken, aynı zamanda yaban hayvanları için yaşam alanı sağlar. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini korumak açısından son derece önemlidir.
+Çuruk Dağı, ekolojik açıdan önemli bir bölgedir. Burada yaşayan bitkiler ve hayvanlar, birbirleriyle bağlantılı bir yaşam sürer. Dağın maki bitki örtüsü, toprağın erozyonunu önlerken, aynı zamanda yaban hayvanları için yaşam alanı sağlar.
 
 ## Ziyaret Bilgileri
 

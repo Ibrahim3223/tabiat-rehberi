@@ -1,7 +1,7 @@
 ---
 title: "Phaselis Nekropol Hamamı"
 date: "2026-01-09T23:41:56.549Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739209"
 
 # Phaselis Nekropol Hamamı
 
-Phaselis Nekropol Hamamı, Antalya'nın Kemer ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan bir mekan olarak dikkat çekmektedir. Bu özel alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alanı içerisinde yer almaktadır. Phaselis Nekropol Hamamı, ziyaretçilerini hem tarihi değerleri ile hem de doğal güzellikleri ile büyülemektedir. Bu mekan, tarihi ve doğal güzelliklerin bir arada olduğu ender yerlerden biri olarak dikkat çekmektedir.
+Phaselis Nekropol Hamamı, Antalya'nın Kemer ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan bir mekan olarak dikkat çekmektedir. Phaselis Nekropol Hamamı, ziyaretçilerini hem tarihi değerleri ile hem de doğal güzellikleri ile büyülemektedir. Bu mekan, tarihi ve doğal güzelliklerin bir arada olduğu ender yerlerden biri olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Phaselis Nekropol Hamamı, ziyaretçilere birçok olanak sunmaktadır. Bu mekan,
 
 - Phaselis Nekropol Hamamı, Antalya'nın Kemer ilçesinde yer almaktadır.
 - Bu mekan, tarihi ve doğal güzellikleri ile birlikte ziyaretçilere farklı bir dünya sunmaktadır.
-- Phaselis Nekropol Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alanı içerisinde yer almaktadır.
+
 - Bu mekan, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır.
 - Phaselis Nekropol Hamamı, ziyaretçilere birçok olanak sunmaktadır.

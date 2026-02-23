@@ -28,7 +28,7 @@ wikidata_id: "Q34823533"
 
 # Çalahacısalih Tepesi
 
-Mardin'in tarihi ve doğal güzelliklerini bir araya getiren Çalahacısalih Tepesi, bölgenin önemli noktalarından biri. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Çalahacısalih Tepesi, ziyaretçilerine Mardin'in zengin tarihini ve doğal güzelliklerini sunuyor. Burada, tarihi yapılar ve doğal güzellikleri bir arada görebilirsiniz.
+Mardin'in tarihi ve doğal güzelliklerini bir araya getiren Çalahacısalih Tepesi, bölgenin önemli noktalarından biri. Çalahacısalih Tepesi, ziyaretçilerine Mardin'in zengin tarihini ve doğal güzelliklerini sunuyor. Burada, tarihi yapılar ve doğal güzellikleri bir arada görebilirsiniz.
 
 ## Tarihçe
 

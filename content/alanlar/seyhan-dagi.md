@@ -1,7 +1,7 @@
 ---
 title: "Şeyhan Dağı"
 date: "2026-01-09T00:56:46.384Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Diyarbakır"
@@ -35,7 +35,7 @@ Diyarbakır'ın zengin tarihi ve kültürel mirasına ev sahipliği yapan Şeyha
 
 Diyarbakır bölgesinin zengin tarihi, çeşitli uygarlıkların izlerini taşıyor. Şeyhan Dağı, bu tarihsel coğrafyanın bir parçası olarak, binlerce yıllık bir geçmişe tanıklık ediyor. Bölge, tarihte Urartular, Asurlular, Persler, Romalılar ve Osmanlılar gibi medeniyetlerin hakimiyetine girmiş, her bir uygarlık bölgeye kendi kültürel ve mimari mirasını bırakmıştır.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal alanlarla ilişkisini şekillendirmiş, bölgenin ekonomi ve sosyal yapısını etkilemiştir. Şeyhan Dağı, bölgenin coğrafi konumu nedeniyle, histórik ticaret yollarının kesişme noktasında yer alıyor. İnsanlar, bu doğal güzellikleri sadece doğal kaynaklar olarak değil, aynı zamanda kültürel ve manevi değerler olarak da görerek, bu alanlarla derin bir bağ kurmuşlardır.
+Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal alanlarla ilişkisini şekillendirmiş, bölgenin ekonomi ve sosyal yapısını etkilemiştir. Şeyhan Dağı, bölgenin coğrafi konumu nedeniyle, tarihi ticaret yollarının kesişme noktasında yer alıyor. İnsanlar, bu doğal güzellikleri sadece doğal kaynaklar olarak değil, aynı zamanda kültürel ve manevi değerler olarak da görerek, bu alanlarla derin bir bağ kurmuşlardır.
 
 Bu doğal alanlar, sadece bölgenin tarihi değil, aynı zamanda kültürel kimliğini de şekillendirmiş, insanların yaşantısını ve geleneklerini etkilemiştir. Şeyhan Dağı ve çevresi, bu tarihsel ve kültürel zenginliğin bir parçası olarak, ziyaretçilere bölge hakkında derin bir anlayış kazandırıyor.
 

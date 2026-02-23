@@ -22,7 +22,7 @@ wikidata_id: "Q108227501"
 
 # Denizli-Kocabas Karacam
 
-Ege Bölgesi'nin kalbinde yer alan Denizli-Kocabas Karacam milli parkı, 140 hektarlık bir alanı kapsıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Milli park, ziyaretçilerine hem doğanın güzelliklerini keşfetme hem de yaban hayatının çeşitliliğini gözlemleme fırsatı sunuyor. Doğal güzellikleri ve biyolojik çeşitliliğiyle dikkat çeken bu alan, Ege Bölgesi'nin önemli ekolojik bölgelerinden biri.
+Ege Bölgesi'nin kalbinde yer alan Denizli-Kocabas Karacam milli parkı, 140 hektarlık bir alanı kapsıyor. Milli park, ziyaretçilerine hem doğanın güzelliklerini keşfetme hem de yaban hayatının çeşitliliğini gözlemleme fırsatı sunuyor. Doğal güzellikleri ve biyolojik çeşitliliğiyle dikkat çeken bu alan, Ege Bölgesi'nin önemli ekolojik bölgelerinden biri.
 
 ## Tarihçe
 

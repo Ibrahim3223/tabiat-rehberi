@@ -28,7 +28,7 @@ wikidata_id: "Q32139562"
 
 # Beyçimen Tepesi
 
-Beyçimen Tepesi, Erzurum'un dağlık bölgelerinde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ve fauna ile kaplı. Bu bölge, hem doğa severler hem de macera arayışında olanlar için ideal bir yer. Beyçimen Tepesi'ne yapılan ziyaretler, genellikle doğa yürüyüşü, dağcılık ve diğer açık hava etkinliklerini içeren bir dizi faaliyeti içerir. Bu tepe, Erzurum'un coğrafi çeşitliliğini ve doğal güzelliğini deneyimlemek isteyenler için bir zorunluluk.
+Beyçimen Tepesi, Erzurum'un dağlık bölgelerinde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. Bu bölge, hem doğa severler hem de macera arayışında olanlar için ideal bir yer. Beyçimen Tepesi'ne yapılan ziyaretler, genellikle doğa yürüyüşü, dağcılık ve diğer açık hava etkinliklerini içeren bir dizi faaliyeti içerir. Bu tepe, Erzurum'un coğrafi çeşitliliğini ve doğal güzelliğini deneyimlemek isteyenler için bir zorunluluk.
 
 ## Tarihçe
 

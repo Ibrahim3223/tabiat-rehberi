@@ -28,7 +28,7 @@ wikidata_id: "Q31550710"
 
 # Hamihaydo Tepesi
 
-Hamihaydo Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal ve tarihi güzelliklerinden biri olarak bilinir. Mardin'in merkezine yakın bir konumda bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Hamihaydo Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle bekliyor. Bu tepe, Mardin'in tarihi geçmişi hakkında önemli bilgiler sunar.
+Hamihaydo Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal ve tarihi güzelliklerinden biri olarak bilinir. Mardin'in merkezine yakın bir konumda bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Hamihaydo Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle bekliyor. Bu tepe, Mardin'in tarihi geçmişi hakkında önemli bilgiler sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hamihaydo Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapm
 
 ## Coğrafya
 
-Hamihaydo Tepesi, Mardin'in coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, Güneydoğu Anadolu Bölgesi'nin genel coğrafi özelliklerini taşır. Hamihaydo Tepesi'nin etrafı, çeşitli bitki türleriyle kaplıdır. Bu bitki türleri, bölgenin iklimine uygun olarak gelişmiştir. Hamihaydo Tepesi, çevresi ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, Mardin'in coğrafi yapısını ve doğal güzelliklerini temsil eder. Hamihaydo Tepesi'nin coğrafi konumu, ziyaretçilerine bölge hakkında önemli bilgiler sunar.
+Hamihaydo Tepesi, Mardin'in coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, Güneydoğu Anadolu Bölgesi'nin genel coğrafi özelliklerini taşır. Hamihaydo Tepesi'nin etrafı, çeşitli bitki türleriyle kaplıdır. Bu bitki türleri, bölgenin iklimine uygun olarak gelişmiştir. Bu tepe, Mardin'in coğrafi yapısını ve doğal güzelliklerini temsil eder. Hamihaydo Tepesi'nin coğrafi konumu, ziyaretçilerine bölge hakkında önemli bilgiler sunar.
 
 ## Flora ve Fauna
 

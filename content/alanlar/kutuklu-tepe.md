@@ -28,7 +28,7 @@ wikidata_id: "Q32210860"
 
 # Kütüklü Tepe
 
-Kütüklü Tepe, Erzurum'un merkezine yakın bir konumda yer alır ve tarihi önem taşıyan bir tepe olarak bilinir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açıdan şehri izleme fırsatı sunar. Tarihi geçmişi ve doğal güzellikleriyle dikkat çeken Kütüklü Tepe, Erzurum'un önemli noktalarından biridir. Bu tepe, şehrin merkezi kısmına hakim bir konumda bulunur ve ziyaretçilere şehri panoramik olarak izleme imkanı sağlar.
+Kütüklü Tepe, Erzurum'un merkezine yakın bir konumda yer alır ve tarihi önem taşıyan bir tepe olarak bilinir. Tarihi geçmişi ve doğal güzellikleriyle dikkat çeken Kütüklü Tepe, Erzurum'un önemli noktalarından biridir. Bu tepe, şehrin merkezi kısmına hakim bir konumda bulunur ve ziyaretçilere şehri panoramik olarak izleme imkanı sağlar.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Kütüklü Tepe, Erzurum'un coğrafi yapısını yansıtan bir tepe olarak dikka
 
 ## Flora ve Fauna
 
-Kütüklü Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu tepe, mevsimsel değişimlere göre farklı bir görünüm sunar ve her mevsim ziyaretçilere farklı bir güzellik sunar. Kütüklü Tepe'nin etrafında, çeşitli ağaçlar ve çalılar bulunur ve bu da burayı daha da güzel kılar. Ayrıca, bu tepe etrafında çeşitli hayvanlar da bulunur ve bu da burayı daha da özel kılar. Kütüklü Tepe, doğa severler için önemli bir noktadır ve ziyaretçilere zengin bir flora ve fauna sunar.
+ Bu tepe, mevsimsel değişimlere göre farklı bir görünüm sunar ve her mevsim ziyaretçilere farklı bir güzellik sunar. Kütüklü Tepe'nin etrafında, çeşitli ağaçlar ve çalılar bulunur ve bu da burayı daha da güzel kılar. Ayrıca, bu tepe etrafında çeşitli hayvanlar da bulunur ve bu da burayı daha da özel kılar. Kütüklü Tepe, doğa severler için önemli bir noktadır ve ziyaretçilere zengin bir flora ve fauna sunar.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Kütüklü Tepe, ziyaretçilerine çeşitli olanaklar sunar. Bu tepe, şehir mer
 
 - Kütüklü Tepe, Erzurum'un tarihi ve doğal güzelliklerini bir araya getiren önemli bir noktadır.
 - Bu tepe, şehrin merkezine yakın bir konumda yer alır ve ulaşım açısından kolaylık sağlar.
-- Kütüklü Tepe, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Tepenin etrafında, çeşitli köyler ve yerleşim yerleri bulunur.
 - Kütüklü Tepe, ziyaretçilerine şehri ve doğayı bir arada deneyimleme imkanı sunar.

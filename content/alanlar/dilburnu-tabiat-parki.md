@@ -30,7 +30,7 @@ wikidata_id: "Q30623518"
 
 # Dilburnu Tabiat Parkı
 
-Dilburnu Tabiat Parkı, İstanbul'un Adalar ilçesinde yer alan ve 140 hektarlık yeşil alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşıp doğayla baş başa kalabileceğiniz bir cennettir. Parkın içerisinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Dilburnu Tabiat Parkı, hem doğa severler hem de İstanbul'un güzelliğini keşfetmek isteyenler için ideal bir destinasyondur.
+Dilburnu Tabiat Parkı, İstanbul'un Adalar ilçesinde yer alan ve 140 hektarlık yeşil alanı ile ziyaretçilerini büyüleyen bir doğa harikasıdır. Parkın içerisinde çeşitli bitki türleri ve hayvanlar yaşamaktadır. Dilburnu Tabiat Parkı, hem doğa severler hem de İstanbul'un güzelliğini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Dilburnu Tabiat Parkı'nın tarihi geçmişi oldukça eskidir. Bu bölge, yüzy�
 
 ## Coğrafya
 
-Dilburnu Tabiat Parkı, İstanbul'un Adalar ilçesinde, Marmara Bölgesi'nde yer almaktadır. Park, 140 hektarlık bir yeşil alanı kaplamaktadır ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla doludur. Dilburnu Tabiat Parkı, İstanbul'un şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Parkın iklimi, Marmara Bölgesi'nin ılıman iklimine benzer ve dört mevsim ziyaret edilebilir. Dilburnu Tabiat Parkı'nın çevresi, diğer doğal güzelliklerle dolu olup, ziyaretçiler için keşfedilecek çok şey vardır. Parkın konumu, şehre yakın olmasına rağmen, doğayla iç içe olmanıza olanak tanır.
+Dilburnu Tabiat Parkı, İstanbul'un Adalar ilçesinde, Marmara Bölgesi'nde yer almaktadır. Parkın coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla doludur. Dilburnu Tabiat Parkı, İstanbul'un şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Parkın iklimi, Marmara Bölgesi'nin ılıman iklimine benzer ve dört mevsim ziyaret edilebilir. Dilburnu Tabiat Parkı'nın çevresi, diğer doğal güzelliklerle dolu olup, ziyaretçiler için keşfedilecek çok şey vardır. Parkın konumu, şehre yakın olmasına rağmen, doğayla iç içe olmanıza olanak tanır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Dilburnu Tabiat Parkı, yılın her döneminde ziyaret edilebilir. Parka, İstan
 ## İlginç Bilgiler
 
 - Dilburnu Tabiat Parkı, İstanbul'un en büyük yeşil alanlarından biridir.
-- Park, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Dilburnu Tabiat Parkı, çeşitli bitki türleri ve hayvanlarla doludur.
 - Park, yılın her döneminde ziyaret edilebilir.
 - Dilburnu Tabiat Parkı, doğa severler için ideal bir destinasyondur.

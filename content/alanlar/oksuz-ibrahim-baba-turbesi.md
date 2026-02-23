@@ -1,7 +1,7 @@
 ---
 title: "Öksüz İbrahim Baba Türbesi"
 date: "2026-01-10T06:00:23.015Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adıyaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390540"
 
 # Öksüz İbrahim Baba Türbesi
 
-Öksüz İbrahim Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin kalbi Adıyaman'da yer alıyor. Bu tarihi ve doğal güzelliklerin birleştiği nokta, ziyaretçilerini bekliyor. Adıyaman'ın coğrafi açıdan zengin bir bölge olması, Öksüz İbrahim Baba Türbesi'nin de benzer bir zenginliğe sahip olmasını sağlıyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunuyor.
+Öksüz İbrahim Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin kalbi Adıyaman'da yer alıyor. Bu tarihi ve doğal güzelliklerin birleştiği nokta, ziyaretçilerini bekliyor. Adıyaman'ın coğrafi açıdan zengin bir bölge olması, Öksüz İbrahim Baba Türbesi'nin de benzer bir zenginliğe sahip olmasını sağlıyor.
 
 ## Tarihçe
 

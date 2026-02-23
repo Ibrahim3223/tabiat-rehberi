@@ -40,7 +40,7 @@ Gora Aladagi, coğrafi olarak Hatay ilinin önemli bir noktasıdır. Bu tepe, Ak
 
 ## Flora ve Fauna
 
-Gora Aladagi, zengin bir flora ve fauna ile çevrilidir. Bu tepe, çeşitli bitki türleri ve hayvanların yaşam alanı olarak dikkat çekmektedir. Bölgede, mevsimsel değişimlere bağlı olarak farklı türlerde bitkiler ve hayvanlar bulunabilir. Gora Aladagi'nin doğal güzellikleri, flora ve fauna açısından zengin bir çeşitlilik sunar. Bu tepe, doğa severler için önemli bir noktada yer alır ve ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar. Gora Aladagi'nin ekolojik dengesi, bölgenin doğal güzelliklerini korumak açısından önemlidir.
+Gora Aladagi, zengin bir flora ve fauna ile çevrilidir. Bu tepe, çeşitli bitki türleri ve hayvanların yaşam alanı olarak dikkat çekmektedir. Bölgede, mevsimsel değişimlere bağlı olarak farklı türlerde bitkiler ve hayvanlar bulunabilir. Gora Aladagi'nin doğal güzellikleri, flora ve fauna açısından zengin bir çeşitlilik sunar. Bu tepe, doğa severler için önemli bir noktada yer alır ve ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar.
 
 ## Ziyaret Bilgileri
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34810080"
 
 # Üsküp Tepesi
 
-Üsküp Tepesi, Bursa'nın kalbinde yer alan ve şehre hakim bir konumda bulunan bir tepe. 140 hektarlık bir alanı kaplayan bu tepenin büyüklüğü, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. Üsküp Tepesi, özellikle şehir hayatının yoğunluğundan kaçmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde ve çevresinde çeşitli yürüyüş yolları ve piknik alanları bulunuyor. Bu sayede, ziyaretçiler doğanın güzelliğini keşfedebilir ve aynı zamanda eğlenebilirler.
+Üsküp Tepesi, Bursa'nın kalbinde yer alan ve şehre hakim bir konumda bulunan bir tepe. Bu geniş yeşil alan, ziyaretçilerine hem dinlenme hem de doğayı keşfetme fırsatı sunuyor. Üsküp Tepesi, özellikle şehir hayatının yoğunluğundan kaçmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde ve çevresinde çeşitli yürüyüş yolları ve piknik alanları bulunuyor. Bu sayede, ziyaretçiler doğanın güzelliğini keşfedebilir ve aynı zamanda eğlenebilirler.
 
 ## Tarihçe
 

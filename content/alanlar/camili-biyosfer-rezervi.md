@@ -1,7 +1,7 @@
 ---
 title: "Camili Biyosfer Rezervi"
 date: "2026-01-09T21:57:44.748Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Artvin"
@@ -30,7 +30,7 @@ wikidata_id: "Q22680889"
 
 # Camili Biyosfer Rezervi
 
-Camili Biyosfer Rezervi, Borçka/Artvin'de yer alan ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir doğal güzelliktir. Bu rezerv, Karadeniz Bölgesi'nin en önemli biyosfer rezervlerinden biridir. Doğal güzelliği ve biyolojik çeşitliliğiyle dikkat çeken bu rezerv, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Rezervin içinde çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçilere, doğayla iç içe bir deneyim sunar.
+ Bu rezerv, Karadeniz Bölgesi'nin en önemli biyosfer rezervlerinden biridir. Doğal güzelliği ve biyolojik çeşitliliğiyle dikkat çeken bu rezerv, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Rezervin içinde çeşitli bitki türleri ve zengin fauna bulunur. Ziyaretçilere, doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Camili Biyosfer Rezervi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Camili Biyosfer Rezervi, Karadeniz Bölgesi'nde yer alan Borçka/Artvin'de bulunur. Rezerv, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bölge, Karadeniz ikliminin etkisinde kalır ve yağışlı bir yapıya sahiptir. Rezervin coğrafi yapısı, çeşitli bitki türlerinin ve zengin faunanın yaşamasına elverişli bir ortam sunar. Rezervin içinde, akarsular, göller ve ormanlar bulunur. Bu coğrafi özellikler, rezervin doğal güzelliğini ve biyolojik çeşitliliğini artırır. Camili Biyosfer Rezervi, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
+Camili Biyosfer Rezervi, Karadeniz Bölgesi'nde yer alan Borçka/Artvin'de bulunur. Bölge, Karadeniz ikliminin etkisinde kalır ve yağışlı bir yapıya sahiptir. Rezervin coğrafi yapısı, çeşitli bitki türlerinin ve zengin faunanın yaşamasına elverişli bir ortam sunar. Rezervin içinde, akarsular, göller ve ormanlar bulunur. Bu coğrafi özellikler, rezervin doğal güzelliğini ve biyolojik çeşitliliğini artırır. Camili Biyosfer Rezervi, ziyaretçilere doğanın güzelliğini ve çeşitliliğini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 
-Camili Biyosfer Rezervi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Rezervin içinde, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar bulunur. Rezerv, birçok kuş türünün yuvalanma ve göç etmesi için önemli bir merkez oluşturur. Ayrıca, rezervin içinde, birçok omurgasız ve omurgalı hayvan türü bulunur. Rezervin flora ve faunası, ziyaretçilere doğanın çeşitliliğini keşfetme fırsatı sunar. Mevsimsel değişimlere göre, rezervin içindeki bitki ve hayvan türleri değişir ve ziyaretçilere her mevsim farklı bir deneyim sunar.
+ Rezervin içinde, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar bulunur. Rezerv, birçok kuş türünün yuvalanma ve göç etmesi için önemli bir merkez oluşturur. Ayrıca, rezervin içinde, birçok omurgasız ve omurgalı hayvan türü bulunur. Rezervin flora ve faunası, ziyaretçilere doğanın çeşitliliğini keşfetme fırsatı sunar. Mevsimsel değişimlere göre, rezervin içindeki bitki ve hayvan türleri değişir ve ziyaretçilere her mevsim farklı bir deneyim sunar.
 
 ## Ziyaret Bilgileri
 

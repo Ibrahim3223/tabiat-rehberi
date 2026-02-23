@@ -1,7 +1,7 @@
 ---
 title: "Gülbahar Hatun Türbesi"
 date: "2026-01-10T04:50:14.932Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q55698616"
 
 # Gülbahar Hatun Türbesi
 
-Gülbahar Hatun Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir mekan. Fatih ilçesinde bulunan bu türbe, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak kabul ediliyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyük alan, ziyaretçilere geniş bir gezi alanı sunuyor. Gülbahar Hatun Türbesi, İstanbul'un tarihi dokusunu korurken, aynı zamanda modern yaşamın içinde yer alıyor. Burada, tarihi ve kültürel değerlerin bir arada yaşandığı bir ortam bulunmakta.
+Gülbahar Hatun Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir mekan. Fatih ilçesinde bulunan bu türbe, Marmara Bölgesi'nin önemli kültürel miraslarından biri olarak kabul ediliyor. Gülbahar Hatun Türbesi, İstanbul'un tarihi dokusunu korurken, aynı zamanda modern yaşamın içinde yer alıyor. Burada, tarihi ve kültürel değerlerin bir arada yaşandığı bir ortam bulunmakta.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gülbahar Hatun Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanıyo
 
 ## Coğrafya
 
-Gülbahar Hatun Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. Bu bölgenin coğrafi yapısı, türbenin mimari yapısını etkilemiştir. Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda bulunuyor ve bu büyük alan, ziyaretçilere geniş bir gezi alanı sunuyor. Çevre, tarihi ve kültürel değerlerle dolu ve bu değerler, türbenin coğrafi konumunu daha da önemli hale getiriyor. İstanbul'un iklimi, türbenin yapılmasında etkili olmuş ve bu nedenle, türbenin mimari yapısı, bölgenin iklimine uygun olarak tasarlanmıştır. Gülbahar Hatun Türbesi, Marmara Bölgesi'nin coğrafi zenginliklerini ve tarihi değerlerini bir arada sunuyor.
+Gülbahar Hatun Türbesi, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. Bu bölgenin coğrafi yapısı, türbenin mimari yapısını etkilemiştir. Çevre, tarihi ve kültürel değerlerle dolu ve bu değerler, türbenin coğrafi konumunu daha da önemli hale getiriyor. İstanbul'un iklimi, türbenin yapılmasında etkili olmuş ve bu nedenle, türbenin mimari yapısı, bölgenin iklimine uygun olarak tasarlanmıştır. Gülbahar Hatun Türbesi, Marmara Bölgesi'nin coğrafi zenginliklerini ve tarihi değerlerini bir arada sunuyor.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Gülbahar Hatun Türbesi'ni ziyaret etmek, ziyaretçilere, tarihi ve kültürel 
 - Gülbahar Hatun Türbesi, İstanbul'un en önemli kültürel miraslarından biri.
 - Türbenin tarihi geçmişi, Osmanlı dönemine kadar uzanıyor.
 - Gülbahar Hatun Türbesi, Marmara Bölgesi'nin coğrafi ve kültürel zenginliklerini bir arada sunuyor.
-- Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda bulunuyor.
+
 - Gülbahar Hatun Türbesi, yılın her dönemi ziyaret edilebilir.

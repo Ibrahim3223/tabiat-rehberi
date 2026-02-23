@@ -1,7 +1,7 @@
 ---
 title: "Tlos Büyük Hamam"
 date: "2026-01-09T23:44:18.333Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739134"
 
 # Tlos Büyük Hamam
 
-Tlos Büyük Hamam, Muğla'nın Seydikemer ilçesinde yer alan, tarihi ve doğal güzellikleri ile ünlü bir alandır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan bu mekan, ziyaretçilerini doğanın içesinde bir dünya sunuyor. Tlos Büyük Hamam'ın tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin izlerini taşıyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Doğal güzellikleri ve tarihi değerleri ile Tlos Büyük Hamam, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Tlos Büyük Hamam, Muğla'nın Seydikemer ilçesinde yer alan, tarihi ve doğal güzellikleri ile ünlü bir alandır. Tlos Büyük Hamam'ın tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlerin izlerini taşıyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tlos Büyük Hamam'ın tarihi geçmişi, yüzyıllar boyunca farklı medeniyetle
 
 ## Coğrafya
 
-Tlos Büyük Hamam, Muğla'nın Seydikemer ilçesinde yer alıyor. Bu bölgenin coğrafyası, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu bölgenin iklimi, Ege Bölgesi'nin ılıman iklimi ile benzerlik gösteriyor. Tlos Büyük Hamam'ın çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölgede, doğal güzelliklere ve tarihi yapılara kolayca ulaşma mümkün. Tlos Büyük Hamam, ziyaretçilerine doğanın içesinde bir dünya sunuyor. Bu mekanın coğrafyası, ziyaretçilerini keşfe davet ediyor.
+Tlos Büyük Hamam, Muğla'nın Seydikemer ilçesinde yer alıyor. Bu bölgenin coğrafyası, Ege Bölgesi'nin karakteristik özelliklerini taşıyor. Bu bölgenin iklimi, Ege Bölgesi'nin ılıman iklimi ile benzerlik gösteriyor. Tlos Büyük Hamam'ın çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölgede, doğal güzelliklere ve tarihi yapılara kolayca ulaşma mümkün. Tlos Büyük Hamam, ziyaretçilerine doğanın içesinde bir dünya sunuyor. Bu mekanın coğrafyası, ziyaretçilerini keşfe davet ediyor.
 
 ## Flora ve Fauna
 

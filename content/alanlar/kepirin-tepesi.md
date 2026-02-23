@@ -28,7 +28,7 @@ wikidata_id: "Q31538549"
 
 # Kepirin Tepesi
 
-Hatay ilinin zengin coğrafyasında yer alan Kepirin Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan sunuyor. Bu tepe, yükseldikçe Akdeniz Bölgesi'nin panoramik manzarasına şahitlik etme fırsatı sunuyor. Kepirin Tepesi, doğa severler ve macera arayışında olanlar için bir cennet harika bir deneyim. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+ Bu tepe, yükseldikçe Akdeniz Bölgesi'nin panoramik manzarasına şahitlik etme fırsatı sunuyor. Kepirin Tepesi, doğa severler ve macera arayışında olanlar için bir cennet harika bir deneyim. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 

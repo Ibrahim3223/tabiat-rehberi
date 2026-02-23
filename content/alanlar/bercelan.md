@@ -23,7 +23,7 @@ wikidata_id: "Q6920355"
 
 # Berçelan
 
-Berçelan, Hakkari ilinin görkemli tepe noktası olarak bilinir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle kaplıdır. Berçelan, yüzyıllar boyunca pek çok medeniyete ev sahipliği yapmış ve tarihi geçmişiyle dikkat çekmektedir. Bu tepe, aynı zamanda bölgenin coğrafi yapısının önemli bir parçasını oluşturur.
+Berçelan, Hakkari ilinin görkemli tepe noktası olarak bilinir. Berçelan, yüzyıllar boyunca pek çok medeniyete ev sahipliği yapmış ve tarihi geçmişiyle dikkat çekmektedir. Bu tepe, aynı zamanda bölgenin coğrafi yapısının önemli bir parçasını oluşturur.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Berçelan'in tarihi geçmişi, yüzyıllar öncesine uzanır. Bu tepe, çeşitli
 
 ## Coğrafya
 
-Berçelan, Hakkari ilinin coğrafi yapısını önemli ölçüde etkileyen bir tepe olarak bilinir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kaplar. Çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, bölgenin ekolojik dengesini korumaktadır. Berçelan'in coğrafi konumu, bölgenin iklimini de etkilemektedir. Bu tepe, aynı zamanda bölgenin su kaynaklarının oluşmasında önemli bir rol oynamaktadır.
+Berçelan, Hakkari ilinin coğrafi yapısını önemli ölçüde etkileyen bir tepe olarak bilinir. Çevresi, çeşitli bitki türleriyle kaplıdır ve bu bitki türleri, bölgenin ekolojik dengesini korumaktadır. Berçelan'in coğrafi konumu, bölgenin iklimini de etkilemektedir. Bu tepe, aynı zamanda bölgenin su kaynaklarının oluşmasında önemli bir rol oynamaktadır.
 
 ## Flora ve Fauna
 
@@ -39,12 +39,12 @@ Berçelan, flora ve fauna açısından zengin bir alandır. Bu tepe, çeşitli b
 
 ## Ziyaret Bilgileri
 
-Berçelan'i ziyaret etmek, doğa severler için keyifli anlar yaşanabilecek bir deneyimdir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kaplar. Ziyaretçiler, bu tepeye tırmanarak bölgenin panoramik manzarasını izleyebilirler. Berçelan'in çevresinde, farklı yürüyüş parkurları da bulunmaktadır. Bu parkurlar, ziyaretçilerin bölgenin flora ve fauna açısından zenginliğini keşfetmelerine olanak tanır.
+Berçelan'i ziyaret etmek, doğa severler için keyifli anlar yaşanabilecek bir deneyimdir. Ziyaretçiler, bu tepeye tırmanarak bölgenin panoramik manzarasını izleyebilirler. Berçelan'in çevresinde, farklı yürüyüş parkurları da bulunmaktadır. Bu parkurlar, ziyaretçilerin bölgenin flora ve fauna açısından zenginliğini keşfetmelerine olanak tanır.
 
 ## İlginç Bilgiler
 
 - Berçelan, Hakkari ilinin görkemli tepe noktası olarak bilinir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kaplar.
+
 - Berçelan'in çevresinde, farklı yürüyüş parkurları bulunmaktadır.
 - Bu tepe, flora ve fauna açısından zengin bir alandır.
 - Berçelan, yüzyıllar boyunca pek çok medeniyete ev sahipliği yapmış ve tarihi geçmişiyle dikkat çekmektedir.

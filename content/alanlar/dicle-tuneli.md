@@ -26,7 +26,7 @@ Diyarbakır'ın tarihi dokusu içinde gizlenen Dicle Tüneli, bölgeyi keşfeden
 
 ## Tarihçe
 
-Dicle Tüneli, Diyarbakır'ın tarihi zenginliklerine ev sahipliği yapan bir bölgede yer alır. Bu bölge, tarihin en eski uygarlıklarından bazılarının izlerini taşır. Hitit, Asur, Roma ve Osmanlı gibi medeniyetler, Diyarbakır'ı önemli bir merkez olarak görmüş ve burada izler bırakmışlardır. 
+Dicle Tüneli, Diyarbakır'ın tarihi zenginliklerine ev sahipliği yapan bir bölgede yer alır. Bu bölge, tarihin en eski uygarlıklarından bazılarının izlerini taşır. Hitit, Asur, Roma ve Osmanlı gibi medeniyetler, Diyarbakır'ı önemli bir merkez olarak görmüş ve burada izler bırakmışlardır.
 
 Dicle Nehri ve çevresindeki doğal alanlar, bu bölgenin tarih boyunca önemli bir geçiş noktası olmasını sağlamıştır. İnsanlar, bu bölgeyi ticaret yolları, hayvancılık ve yaylacılık için kullanmışlardır. Türkiye'de, özellikle Güneydoğu Anadolu Bölgesi'nde, bu tür doğal alanlar vždy önemli bir role sahip olmuştur. İnsanların bu alanlarla olan ilişkisi, yalnızca coğrafi değil, aynı zamanda kültürel ve ekonomik açıdan da zengin bir tarihe sahiptir.
 

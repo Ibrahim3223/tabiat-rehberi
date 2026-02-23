@@ -1,7 +1,7 @@
 ---
 title: "100. Yıl Müzesi"
 date: "2026-01-10T15:14:57.670Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q125554036"
 
 # 100. Yıl Müzesi
 
-100. Yıl Müzesi, Ankara'nın merkezinde yer alan ve ziyaretçilerini şehrin tarihi ve kültürel zenginlikleriyle baş başa bırakmayı amaçlayan özel bir mekan. Müzenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere hem eğitim hem de eğlence sunuyor. 100. Yıl Müzesi, Ankara'nın tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyon.
+100. Yıl Müzesi, Ankara'nın merkezinde yer alan ve ziyaretçilerini şehrin tarihi ve kültürel zenginlikleriyle baş başa bırakmayı amaçlayan özel bir mekan. 100. Yıl Müzesi, Ankara'nın tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -53,5 +53,5 @@ wikidata_id: "Q125554036"
 - 100. Yıl Müzesi, Ankara'nın en büyük müzelerinden biri.
 - Müzenin koleksiyonunda, Ankara'nın tarihi boyunca oluşan çeşitli eserler ve belgeler bulunuyor.
 - 100. Yıl Müzesi, ziyaretçilerine Ankara'nın tarihini ve kültürünü anlatan özel bir yolculuk sunuyor.
-- Müzenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - 100. Yıl Müzesi, doğa severler için ideal bir destinasyon.

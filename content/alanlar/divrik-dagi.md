@@ -64,6 +64,6 @@ Divrik Dağı, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için bi
 - Divrik Dağı, Kayseri ilinin Yeşilhisar ilçesinde bulunmaktadır.
 - Dağın yüksekliği 1.986 metredir.
 - Divrik Dağı, volkanik kökenli bir dağdır ve çevresindeki diğer dağlarla birlikte bir dağ silsilesini oluşturur.
-- Dağın eteklerinde, históriki açıdan önemli olan Divrik köyü bulunmaktadır.
+- Dağın eteklerinde, tarihi açıdan önemli olan Divrik köyü bulunmaktadır.
 - Divrik Dağı, bölgedeki önemli jeolojik oluşumların başında gelir ve jeolojik araştırmalara konu olmuştur.
 - Dağın etrafındaki araziler, genellikle tarım alanı olarak kullanılmaktadır.

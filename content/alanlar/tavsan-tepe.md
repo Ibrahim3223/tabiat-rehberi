@@ -29,7 +29,7 @@ wikidata_id: "Q31387363"
 
 # Tavşan Tepe
 
-Tavşan Tepe, Samsun'un Karadeniz Bölgesi'nde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir yeşil alana sahiptir. Bu alan, birçok bitki türünü barındıran ve çeşitli fauna çeşitliliği ile dikkat çekmektedir. Tavşan Tepe, özellikle doğa severler için bir çekim merkezi olarak bilinmektedir. Burada, doğanın güzelliğini ve canlıların çeşitliliğini gözlemleme mümkündür. Tavşan Tepe, ziyaretçilere zengin bir deneyim sunmaktadır.
+ Bu alan, birçok bitki türünü barındıran ve çeşitli fauna çeşitliliği ile dikkat çekmektedir. Tavşan Tepe, özellikle doğa severler için bir çekim merkezi olarak bilinmektedir. Burada, doğanın güzelliğini ve canlıların çeşitliliğini gözlemleme mümkündür. Tavşan Tepe, ziyaretçilere zengin bir deneyim sunmaktadır.
 
 ## Tarihçe
 

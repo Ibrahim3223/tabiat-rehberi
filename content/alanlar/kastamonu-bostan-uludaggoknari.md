@@ -22,7 +22,7 @@ wikidata_id: "Q108228103"
 
 # Kastamonu-Bostan-Uludaggoknari
 
-Kastamonu-Bostan-Uludaggoknari, Karadeniz Bölgesi'nin Kastamonu ilinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet etmektedir. Kastamonu-Bostan-Uludaggoknari, ziyaretçilerine doğanın güzelliklerini sunarken, aynı zamanda tarihi ve kültürel zenginliklerin de birleştiği bir noktada bulunmaktadır. Bu milli park, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkmaktadır.
+Kastamonu-Bostan-Uludaggoknari, Karadeniz Bölgesi'nin Kastamonu ilinde yer alan bir milli parktır. Kastamonu-Bostan-Uludaggoknari, ziyaretçilerine doğanın güzelliklerini sunarken, aynı zamanda tarihi ve kültürel zenginliklerin de birleştiği bir noktada bulunmaktadır. Bu milli park, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkmaktadır.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Kastamonu-Bostan-Uludaggoknari'nin tarihi geçmişi, yüzyıllar boyunca şekill
 
 ## Coğrafya
 
-Kastamonu-Bostan-Uludaggoknari, Karadeniz Bölgesi'nin Kastamonu ilinde yer alan bir milli parktır. Bu milli park, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet etmektedir. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Kastamonu-Bostan-Uludaggoknari, ziyaretçilerine doğanın güzelliklerini sunarken, aynı zamanda tarihi ve kültürel zenginliklerin de birleştiği bir noktada bulunmaktadır. Bu milli park, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkmaktadır. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Bu iklim, çeşitli bitki türlerinin yetişmesine elverişli olmakla birlikte, ziyaretçilere de doğanın güzelliklerini keşfetme fırsatı sunmaktadır.
+Kastamonu-Bostan-Uludaggoknari, Karadeniz Bölgesi'nin Kastamonu ilinde yer alan bir milli parktır. Bu milli park, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkmaktadır. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Kastamonu-Bostan-Uludaggoknari, ziyaretçilerine doğanın güzelliklerini sunarken, aynı zamanda tarihi ve kültürel zenginliklerin de birleştiği bir noktada bulunmaktadır. Bu milli park, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkmaktadır. Milli parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir.
 
 ## Flora ve Fauna
 
-Kastamonu-Bostan-Uludaggoknari, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Milli parkın flora ve fauna zenginliği, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunmaktadır. Bu milli park, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar ile ziyaretçilerini karşılamaktadır. Kastamonu-Bostan-Uludaggoknari, doğa severler için ideal bir destinasyon olarak karşımıza çıkmaktadır. Milli parkın ekosistemi, çeşitli canlıların bir arada yaşamasına elverişli olmakla birlikte, ziyaretçilere de doğanın güzelliklerini keşfetme fırsatı sunmaktadır.
+Kastamonu-Bostan-Uludaggoknari, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Milli parkın flora ve fauna zenginliği, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunmaktadır. Bu milli park, mevsimsel değişimlere göre farklı bitki türleri ve hayvanlar ile ziyaretçilerini karşılamaktadır. Kastamonu-Bostan-Uludaggoknari, doğa severler için ideal bir destinasyon olarak karşımıza çıkmaktadır.
 
 ## Ziyaret Bilgileri
 

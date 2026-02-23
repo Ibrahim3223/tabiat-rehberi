@@ -1,7 +1,7 @@
 ---
 title: "Pir Ahmed Türbesi"
 date: "2026-01-10T05:22:03.944Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391737"
 
 # Pir Ahmed Türbesi
 
-Pir Ahmed Türbesi, İç Anadolu Bölgesi'nin güzide illerinden Gümüşhane'de, Trabzon Vilayeti sınırları içinde yer alan bir doğal ve tarihi güzelliktir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan, geniş ve yeşillik bir alana sahiptir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Gümüşhane'nin tarihi ve doğal güzelliklerini bir arada sunan bu mekan, hem yerel halk hem de ziyaretçiler için önemli bir çekim noktası oluşturuyor.
+Pir Ahmed Türbesi, İç Anadolu Bölgesi'nin güzide illerinden Gümüşhane'de, Trabzon Vilayeti sınırları içinde yer alan bir doğal ve tarihi güzelliktir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan, geniş ve yeşillik bir alana sahiptir. Gümüşhane'nin tarihi ve doğal güzelliklerini bir arada sunan bu mekan, hem yerel halk hem de ziyaretçiler için önemli bir çekim noktası oluşturuyor.
 
 ## Tarihçe
 

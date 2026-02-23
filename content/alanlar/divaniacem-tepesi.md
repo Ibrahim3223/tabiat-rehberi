@@ -50,9 +50,9 @@ Bölgenin hidroloji ve ekolojik dengesini sağlayan su kaynakları, Divanıaçem
 
 ## Flora ve Fauna
 
-Divanıaçem Tepesi, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
+Divanıaçem Tepesi, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
 
-Bitki Örtüsü: İlbahar mevsiminde, tepenin etekleri ve yamaçları, çeşitli çiçek türleriyle renkleniyor. Bölgenin step ve ova ekolojisi, yerel bitkilerin adapte olmasını sağlıyor. 
+Bitki Örtüsü: İlbahar mevsiminde, tepenin etekleri ve yamaçları, çeşitli çiçek türleriyle renkleniyor. Bölgenin step ve ova ekolojisi, yerel bitkilerin adapte olmasını sağlıyor.
 
 Yaban Hayatı: Bölgede, dağların yükseklik zonlarına adapte olmuş memeliler ve kuşlar yaşıyor. İlkbahar ve yaz aylarında, göçmen kuşlar tepenin yükseklerinde konaklıyor. Sürüngenler, bölgenin kaya ve taşlık alanlarında yaşamlarını sürdürüyor.
 

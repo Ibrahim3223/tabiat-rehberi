@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Balamba Tabiat Parkı
 
-Balamba Tabiat Parkı, Bartın'ın güzide bölgelerinden birinde, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplayan doğal bir cennet olarak karşımıza çıkıyor. Bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın sesine kula vermeye davet eden bir sığınak görevi görüyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Balamba Tabiat Parkı, hem yerel halk hem de doğa severler için keyifli bir gezi noktası olarak dikkat çekiyor.
+ Bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve doğanın sesine kula vermeye davet eden bir sığınak görevi görüyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Balamba Tabiat Parkı, hem yerel halk hem de doğa severler için keyifli bir gezi noktası olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Balamba Tabiat Parkı'nın tarihi geçmişi, yıllarca süren doğal oluşumlar�
 
 ## Coğrafya
 
-Balamba Tabiat Parkı, Karadeniz Bölgesi'nin Bartın ilinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, genellikle engebeli araziler ve yeşil alanlardan oluşuyor. İklim, Karadeniz ikliminin đcı olan nemli ve ılıman bir yapıya sahip. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Çevre, çeşitli bitki türleri ve hayvanlarla dolu. Parkın yapısı, ziyaretçilerin doğayla iç içe bir gezi deneyimi yaşamasına olanak tanıyor.
+Balamba Tabiat Parkı, Karadeniz Bölgesi'nin Bartın ilinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Bölge, genellikle engebeli araziler ve yeşil alanlardan oluşuyor. İklim, Karadeniz ikliminin đcı olan nemli ve ılıman bir yapıya sahip. Parkın coğrafi konumu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Çevre, çeşitli bitki türleri ve hayvanlarla dolu. Parkın yapısı, ziyaretçilerin doğayla iç içe bir gezi deneyimi yaşamasına olanak tanıyor.
 
 ## Flora ve Fauna
 

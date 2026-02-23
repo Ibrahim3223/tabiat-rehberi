@@ -22,7 +22,7 @@ wikidata_id: "Q108227408"
 
 # Adana-Pos-Karsanti Kızılçam 2
 
-Adana-Pos-Karsanti Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla iç içe bir deneyime davet ediyor. Bu milli park, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon. Adana'nın şehir yaşamının koşuşturmacasından uzaklaşmak isteyenler için Karsanti Kızılçam 2, sakin ve huzurlu bir kaçış noktası sunuyor.
+Adana-Pos-Karsanti Kızılçam 2 milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu milli park, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon. Adana'nın şehir yaşamının koşuşturmacasından uzaklaşmak isteyenler için Karsanti Kızılçam 2, sakin ve huzurlu bir kaçış noktası sunuyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Adana-Pos-Karsanti Kızılçam 2 milli parkını ziyaret etmek, doğa severler v
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Park, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri.
 - Parkta, çeşitli bitki türleri ve ağaçlar bulunur.
 - Parkın fauna ve florası, bölgenin doğal yaşamının önemli bir parçasını oluşturur.

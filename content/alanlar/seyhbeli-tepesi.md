@@ -28,7 +28,7 @@ wikidata_id: "Q31559103"
 
 # Şeyhbeli Tepesi
 
-Şeyhbeli Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Şeyhbeli Tepesi, Ankara'nın merkezine yakın bir konumda. Şehir hayatının gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel život tarzını deneyimleme fırsatı sunuyor. Şeyhbeli Tepesi, aynı zamanda tarihin izlerini taşıyan bir bölge. Tarihi değerleri ile dikkat çekiyor.
+Şeyhbeli Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Şeyhbeli Tepesi, Ankara'nın merkezine yakın bir konumda. Şehir hayatının gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel život tarzını deneyimleme fırsatı sunuyor. Şeyhbeli Tepesi, aynı zamanda tarihin izlerini taşıyan bir bölge. Tarihi değerleri ile dikkat çekiyor.
 
 ## Tarihçe
 

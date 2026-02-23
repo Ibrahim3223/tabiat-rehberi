@@ -28,7 +28,7 @@ wikidata_id: "Q31579482"
 
 # Haticeana Dağı
 
-Muğla'nın doğusunda, yemyeşil ormanlarla kaplı bir bölgeye ev sahipliği yapan Haticeana Dağı, ziyaretçilerini şehrin gürültüsünden uzaklaştırıyor. Bu dağ, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Haticeana Dağı, bölgenin coğrafi yapısını şekillendiren önemli bir nokta olarak dikkat çekiyor. 
+Muğla'nın doğusunda, yemyeşil ormanlarla kaplı bir bölgeye ev sahipliği yapan Haticeana Dağı, ziyaretçilerini şehrin gürültüsünden uzaklaştırıyor. Bu dağ, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Haticeana Dağı, bölgenin coğrafi yapısını şekillendiren önemli bir nokta olarak dikkat çekiyor.
 Doğal güzelliği ve zengin florası ile ön plana çıkan bu dağ, Muğla'nın turistik değerini arttırıyor.
 
 ## Tarihçe
@@ -51,9 +51,9 @@ Bölgenin ekosistem bağlantıları açısından bakıldığında, Haticeana Da�
 
 Haticeana Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak karşımıza çıkıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonları, alpin flora ve dağ hayvanları ile birlikte bir doğa harikası sunuyor.
 
-Bitki örtüsü olarak, çam ormanları ve zeytinlikler hakimdir. İlkbahar mevsiminde, dağ yamaçları rengarenk çiçeklerle örtülürken, sonbaharda zeytin hasadı için hazırlıklar başlar. Dağın yüksek kesimlerinde, alpin bitkiler ve otsu türler bulunur. 
+Bitki örtüsü olarak, çam ormanları ve zeytinlikler hakimdir. İlkbahar mevsiminde, dağ yamaçları rengarenk çiçeklerle örtülürken, sonbaharda zeytin hasadı için hazırlıklar başlar. Dağın yüksek kesimlerinde, alpin bitkiler ve otsu türler bulunur.
 
-Yaban hayatı olarak, dağ keçileri, yaban domuzları ve çeşitli kuş türleri bulunur. Göç mevsiminde, dağ yolları birçok kuş türünün geçiş noktası haline gelir. Sürüngenler olarak, yılan ve kertenkele gibi türler de bu dağda yaşamlarını sürdürür. 
+Yaban hayatı olarak, dağ keçileri, yaban domuzları ve çeşitli kuş türleri bulunur. Göç mevsiminde, dağ yolları birçok kuş türünün geçiş noktası haline gelir. Sürüngenler olarak, yılan ve kertenkele gibi türler de bu dağda yaşamlarını sürdürür.
 
 Haticeana Dağı, ekolojik değer bakımından önemli bir noktadır. Zeytinlikler ve çam ormanları, bölgenin iklim dengesini korurken, dağ hayvanları ve bitkileri de bu dengenin bir parçası olarak yaşamını sürdürür. Bu nedenle, bu dağ ekosisteminin korunması büyük önem taşır.
 

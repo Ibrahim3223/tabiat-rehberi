@@ -22,7 +22,7 @@ wikidata_id: "Q108227709"
 
 # Gaziantep-Gaziantep Yalankoz
 
-Gaziantep Yalankoz Milli Parkı, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede yer alan milli park, ziyaretçilerini doğal güzelliklerle dolu bir dünyaya davet ediyor. Parkın etrafı, çeşitli ağaç türleriyle çevrili ve bu ağaçlar, ziyaretçilere gölgelik alanlar sunuyor. Ayrıca, parkta bulunan yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanıyor.
+Gaziantep Yalankoz Milli Parkı, Güneydoğu Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzellik. Parkın etrafı, çeşitli ağaç türleriyle çevrili ve bu ağaçlar, ziyaretçilere gölgelik alanlar sunuyor. Ayrıca, parkta bulunan yürüyüş yolları, ziyaretçilerin doğayı keşfetmesine olanak tanıyor.
 
 ## Tarihçe
 

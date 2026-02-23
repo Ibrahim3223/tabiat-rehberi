@@ -28,7 +28,7 @@ wikidata_id: "Q32209304"
 
 # Gazelgüneyi Tepesi
 
-Gazelgüneyi Tepesi, Doğu Anadolu Bölgesi'nin Kars şehrinde yer alan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Kars'ın doğal güzelliklerini sunan Gazelgüneyi Tepesi, yürüyüş rotaları ve dağcılık için ideal bir yer. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Gazelgüneyi Tepesi, Kars'ın tarihi ve kültürel zenginliklerini de gözler önüne seriyor. Tepenin manzarası, özellikle gün batımında çok etkileyici.
+Gazelgüneyi Tepesi, Doğu Anadolu Bölgesi'nin Kars şehrinde yer alan bir tepe. Kars'ın doğal güzelliklerini sunan Gazelgüneyi Tepesi, yürüyüş rotaları ve dağcılık için ideal bir yer. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Gazelgüneyi Tepesi, Kars'ın tarihi ve kültürel zenginliklerini de gözler önüne seriyor. Tepenin manzarası, özellikle gün batımında çok etkileyici.
 
 ## Tarihçe
 

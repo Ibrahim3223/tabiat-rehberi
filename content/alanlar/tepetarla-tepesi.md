@@ -28,7 +28,7 @@ wikidata_id: "Q31556861"
 
 # Tepetarla Tepesi
 
-Tepetarla Tepesi, Ankara'nın güzide bir noktası olarak ziyaretçilerini bekliyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepetarla Tepesi, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Burada, doğanın seslerini dinleyerek, şehrin stresinden uzaklaşabilirsiniz. Tepetarla Tepesi, aynı zamanda doğa yürüyüşleri için de uygun bir yer. Ziyaretçiler, tepeye tırmanarak Ankara'nın panoramik manzarasını keşfedebilirler.
+Tepetarla Tepesi, Ankara'nın güzide bir noktası olarak ziyaretçilerini bekliyor. Tepetarla Tepesi, şehrin kalabalığından uzaklaşma ve doğanın güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Burada, doğanın seslerini dinleyerek, şehrin stresinden uzaklaşabilirsiniz. Tepetarla Tepesi, aynı zamanda doğa yürüyüşleri için de uygun bir yer. Ziyaretçiler, tepeye tırmanarak Ankara'nın panoramik manzarasını keşfedebilirler.
 
 ## Tarihçe
 

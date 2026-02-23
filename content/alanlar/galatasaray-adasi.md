@@ -1,7 +1,7 @@
 ---
 title: "Galatasaray Adası"
 date: "2026-01-08T21:56:01.411Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "ada"
 il: "İstanbul"
@@ -51,7 +51,7 @@ Doğal bir çevre içinde yer alan Galatasaray Adası, komşu alanlar ve su kayn
 
 ## Flora ve Fauna
 
-Galatasaray Adası, İstanbul'un kıyılarında bir doğa cenneti olarak bulunmaktadır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Galatasaray Adası, İstanbul'un kıyılarında bir doğa cenneti olarak bulunmaktadır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ada karma ormanların hakim olduğu bir bölge olarak karşımıza çıkıyor. İlkbaharda, ada çiçeklerle dolu bir hal alıyor ve sonbaharda ise yaprak dökümü ile farklı bir güzelliğe bürünüyor. Kıyı bitkileri, ada ekosisteminin önemli bir parçasını oluşturuyor.
 

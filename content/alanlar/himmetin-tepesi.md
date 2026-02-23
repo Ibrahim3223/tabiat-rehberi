@@ -28,7 +28,7 @@ wikidata_id: "Q31390682"
 
 # Himmetin Tepesi
 
-Himmetin Tepesi, Amasya'nın doğal güzelliklerinden biri olarak bilinir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, Karadeniz Bölgesi'nin önemli coğrafi özelliklerinden biridir. Himmetin Tepesi, ziyaretçilerini doğal güzellikleri ve zengin fauna ile karşılar. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel değerlerini de taşıyan önemli bir noktadır.
+Himmetin Tepesi, Amasya'nın doğal güzelliklerinden biri olarak bilinir. Himmetin Tepesi, ziyaretçilerini doğal güzellikleri ve zengin fauna ile karşılar. Bu tepe, aynı zamanda bölgenin tarihi ve kültürel değerlerini de taşıyan önemli bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Himmetin Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin geçiş noktası o
 
 ## Coğrafya
 
-Himmetin Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, bölgenin doğal güzelliklerini içerir. Himmetin Tepesi, çevresindeki diğer coğrafi oluşumlarla birlikte önemli bir ekosistemi oluşturur. Bu tepe, bölgenin iklimini ve çevre koşullarını da etkiler. Himmetin Tepesi, ziyaretçilerini doğal güzellikleri ve zengin fauna ile karşılar.
+Himmetin Tepesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir alandır. Himmetin Tepesi, çevresindeki diğer coğrafi oluşumlarla birlikte önemli bir ekosistemi oluşturur. Bu tepe, bölgenin iklimini ve çevre koşullarını da etkiler. Himmetin Tepesi, ziyaretçilerini doğal güzellikleri ve zengin fauna ile karşılar.
 
 ## Flora ve Fauna
 

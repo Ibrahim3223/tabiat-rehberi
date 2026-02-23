@@ -1,7 +1,7 @@
 ---
 title: "Atatürk Orman Çiftliği Müze ve Sergi Salonu"
 date: "2026-01-10T15:19:08.326Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132681906"
 
 # Atatürk Orman Çiftliği Müze ve Sergi Salonu
 
-Atatürk Orman Çiftliği Müze ve Sergi Salonu, Ankara'nın Yenimahalle ilçesinde yer alan, yaklaşık 200 futbol sahası büyüklüğündeki 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlayan bir doğa cennetidir. Bu geniş alan, ziyaretçilere hem doğal güzellikleri keşfetme hem de Atatürk'ün hayatını ve mirasını öğrenme fırsatı sunar. Orman çiftliği, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çeker, ziyaretçilere doğayla iç içe bir deneyim sunar.
+ Bu geniş alan, ziyaretçilere hem doğal güzellikleri keşfetme hem de Atatürk'ün hayatını ve mirasını öğrenme fırsatı sunar.
 
 ## Tarihçe
 

@@ -49,11 +49,11 @@ Doğal bir çevreye sahip olan Tavşan Adası, komşu alanlarla birlikte bir eko
 
 ## Flora ve Fauna
 
-Tavşan Adası, Çanakkale'nin kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Tavşan Adası, Çanakkale'nin kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ada genelde karma ormanlarla kaplıdır. İlkbahar döneminde, adanın kıyı şeridi rengarenk çiçeklerle donanırken, sonbaharda bu manzara değişir ve göçmen kuşların uğrak noktası haline gelir. 
+Bitki Örtüsü olarak, ada genelde karma ormanlarla kaplıdır. İlkbahar döneminde, adanın kıyı şeridi rengarenk çiçeklerle donanırken, sonbaharda bu manzara değişir ve göçmen kuşların uğrak noktası haline gelir.
 
-Yaban Hayatıında, ada özellikle deniz kuşları için önemli bir uğrak noktasıdır. Kıyı çizgisinde yuva yapan çeşitli kuş türleri, adanın izole konumunu tercih eder. Ayrıca, adanın kıyılarında çeşitli memeliler ve sürüngenler de yaşamaktadır. 
+Yaban Hayatıında, ada özellikle deniz kuşları için önemli bir uğrak noktasıdır. Kıyı çizgisinde yuva yapan çeşitli kuş türleri, adanın izole konumunu tercih eder. Ayrıca, adanın kıyılarında çeşitli memeliler ve sürüngenler de yaşamaktadır.
 
 Ekolojik Değer olarak, Tavşan Adası'nın bu geçiş iklimi ve karma orman ekosistemi, çeşitli canlı türleri için yaşam alanı sağlar. Ada, göçmen kuşların önemli rotalarından biri olduğu için koruma altına alınması önemlidir.
 

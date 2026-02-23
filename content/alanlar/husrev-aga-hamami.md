@@ -1,7 +1,7 @@
 ---
 title: "Hüsrev Ağa Hamamı"
 date: "2026-01-09T22:33:52.263Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738738"
 
 # Hüsrev Ağa Hamamı
 
-Hüsrev Ağa Hamamı, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi hamamdır. Bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde kurulmuştur. Husrev Ağa Hamamı, Manisa'nın önemli tarihi yapılarından biridir ve ziyaretçilerini geçmişe götürmeyi başarır. Hamamın tarihi geçmişi, ziyaretçilerini etkileyen önemli bir özelliktir. Manisa'nın Şehzadeler ilçesinde bulunan bu hamam, ziyaretçilerine tarihi bir atmosfer sunar.
+Hüsrev Ağa Hamamı, Manisa'nın Şehzadeler ilçesinde yer alan bir tarihi hamamdır. Husrev Ağa Hamamı, Manisa'nın önemli tarihi yapılarından biridir ve ziyaretçilerini geçmişe götürmeyi başarır. Hamamın tarihi geçmişi, ziyaretçilerini etkileyen önemli bir özelliktir. Manisa'nın Şehzadeler ilçesinde bulunan bu hamam, ziyaretçilerine tarihi bir atmosfer sunar.
 
 ## Tarihçe
 

@@ -22,11 +22,11 @@ wikidata_id: "Q108227765"
 
 # Istanbul-Kirklareli-Kofcaz Mese
 
-Istanbul-Kirklareli-Kofcaz Mese milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir doğa cenneti sunuyor. Milli parkın konumu, şehre yakın olmasıyla dikkat çekiyor ve doğa severler için ideal bir kaçış noktası oluşturuyor. Parkın girişinde, misafirleri karşılayacak bir bilgi merkezi bulunuyor ve ziyaretçiler buradan milli park hakkında detaylı bilgi edinebiliyor. Milli parkın içinde, çeşitli yürüyüş yolları ve piknik alanları mevcut, bu da ziyaretçilerin doğayı yakından keşfetmelerine olanak tanıyor.
+Istanbul-Kirklareli-Kofcaz Mese milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Milli parkın konumu, şehre yakın olmasıyla dikkat çekiyor ve doğa severler için ideal bir kaçış noktası oluşturuyor. Parkın girişinde, misafirleri karşılayacak bir bilgi merkezi bulunuyor ve ziyaretçiler buradan milli park hakkında detaylı bilgi edinebiliyor. Milli parkın içinde, çeşitli yürüyüş yolları ve piknik alanları mevcut, bu da ziyaretçilerin doğayı yakından keşfetmelerine olanak tanıyor.
 
 ## Tarihçe
 
-Istanbul-Kirklareli-Kofcaz Mese milli parkının tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tarihin çeşitli dönemlerinde farklı medeniyetlere ev sahipliği yapmış ve her bir medeniyet buraya kendi kültürel izini bırakmış. Milli parkın içinde, histórik kalıntılar ve arkeolojik sit alanları bulunmakta ve bunlar, ziyaretçilerin tarihe bir yolculuk yapmalarına olanak sağlıyor. Parkın kuruluşu, doğa koruma effortsının bir parçası olarak düşünülmüş ve buradaki doğal güzelliklerin korunması amaçlanmış. Milli parkın yönetimi, çevre ve doğa koruma konusunda önemli çalışmalar yapıyor ve bu efforts, buradaki ekosistemin korunmasına katkıda bulunuyor.
+Istanbul-Kirklareli-Kofcaz Mese milli parkının tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, tarihin çeşitli dönemlerinde farklı medeniyetlere ev sahipliği yapmış ve her bir medeniyet buraya kendi kültürel izini bırakmış. Milli parkın içinde, tarihi kalıntılar ve arkeolojik sit alanları bulunmakta ve bunlar, ziyaretçilerin tarihe bir yolculuk yapmalarına olanak sağlıyor. Parkın kuruluşu, doğa koruma effortsının bir parçası olarak düşünülmüş ve buradaki doğal güzelliklerin korunması amaçlanmış. Milli parkın yönetimi, çevre ve doğa koruma konusunda önemli çalışmalar yapıyor ve bu efforts, buradaki ekosistemin korunmasına katkıda bulunuyor.
 
 ## Coğrafya
 

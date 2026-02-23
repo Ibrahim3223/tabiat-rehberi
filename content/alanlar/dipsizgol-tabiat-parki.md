@@ -24,7 +24,7 @@ wikidata_id: "Q108228224"
 
 # Dipsizgöl Tabiat Parkı
 
-Dipsizgöl Tabiat Parkı, Kastamonu'nun Tosya ilçesinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kapsıyor. Bu büyüklük, ziyaretçilere geniş bir yeşil alan sunuyor. Dipsizgöl'ün etrafı, çeşitli ağaç türleriyle çevrili ve bu tabiat parkı, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Parkın içinde, yürüyüş parkurları ve piknik alanları gibi birçok olanak bulunuyor. Bu nedenle, hem doğa severler hem de aileler için ideal bir ziyaret noktası olarak görülüyor.
+ Bu büyüklük, ziyaretçilere geniş bir yeşil alan sunuyor. Dipsizgöl'ün etrafı, çeşitli ağaç türleriyle çevrili ve bu tabiat parkı, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Parkın içinde, yürüyüş parkurları ve piknik alanları gibi birçok olanak bulunuyor. Bu nedenle, hem doğa severler hem de aileler için ideal bir ziyaret noktası olarak görülüyor.
 
 ## Tarihçe
 

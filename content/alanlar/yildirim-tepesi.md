@@ -28,7 +28,7 @@ wikidata_id: "Q31388167"
 
 # Yıldırım Tepesi
 
-Yıldırım Tepesi, Denizli'nin Ege Bölgesi'nde yer alan 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu muhteşem tepe, ziyaretçilerini büyüleyici manzarasıyla karşılar. Yıldırım Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna encontrar. Yıldırım Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunar.
+ Bu muhteşem tepe, ziyaretçilerini büyüleyici manzarasıyla karşılar. Yıldırım Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Burada, çeşitli bitki türleri ve zengin fauna encontrar. Yıldırım Tepesi, ziyaretçilerine doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yıldırım Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyet
 
 ## Coğrafya
 
-Yıldırım Tepesi, Denizli'nin Ege Bölgesi'nde yer alan bir tepe olup, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu tepe, deniz seviyesinden yüksek bir konumda yer alır ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Yıldırım Tepesi'nin coğrafi konumu, ziyaretçilerine büyüleyici manzaralar sunar. Bu tepe, hem doğal güzelliği hem de coğrafi konumuyla dikkat çeker. Yıldırım Tepesi'nin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine benzer. Burada, yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı geçer. Yıldırım Tepesi, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunar.
+ Bu tepe, deniz seviyesinden yüksek bir konumda yer alır ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Yıldırım Tepesi'nin coğrafi konumu, ziyaretçilerine büyüleyici manzaralar sunar. Bu tepe, hem doğal güzelliği hem de coğrafi konumuyla dikkat çeker. Yıldırım Tepesi'nin iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine benzer. Burada, yazlar sıcak ve kurak, kışlar ise ılık ve yağışlı geçer. Yıldırım Tepesi, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunar.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Yıldırım Tepesi'ni ziyaret etmek, doğayla iç içe bir deneyim yaşamak iste
 
 ## İlginç Bilgiler
 
-- Yıldırım Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
 - Bu tepe, Denizli'nin Ege Bölgesi'nde yer alır.
 - Yıldırım Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker.
 - Burada, çeşitli bitki türleri ve zengin fauna encontrar.

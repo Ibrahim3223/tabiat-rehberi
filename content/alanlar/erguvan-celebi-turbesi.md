@@ -1,7 +1,7 @@
 ---
 title: "Erguvan Çelebi Türbesi"
 date: "2026-01-10T07:10:37.633Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390897"
 
 # Erguvan Çelebi Türbesi
 
-Erguvan Çelebi Türbesi, Kütahya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde yer alan türbe, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir noktada ağırlamaktadır. Türbenin çevresinde bulunan yeşil alanlar, khong 10 dönüm büyüklüğünde ve bu alanlar, hem.local halk hem de ziyaretçiler tarafından sıkça kullanılan ortak mekanlardır.
+Erguvan Çelebi Türbesi, Kütahya'nın merkezinde yer alan ve tarihi geçmişi ile dikkat çeken bir yapıdır. Türbenin çevresinde bulunan yeşil alanlar, khong 10 dönüm büyüklüğünde ve bu alanlar, hem.local halk hem de ziyaretçiler tarafından sıkça kullanılan ortak mekanlardır.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Erguvan Çelebi Türbesi, Kütahya'nın merkezinde, yüksek bir konumda yer alma
 
 ## Flora ve Fauna
 
-Erguvan Çelebi Türbesi'nin bulunduğu bölge, flora ve fauna açısından oldukça zengindir. Bölgede, çeşitli bitki türleri, ağaçlar ve çiçekler bulunmaktadır ve bu bitkiler, ziyaretçilere, doğal güzelliklerin bir parçası olarak sunulmaktadır. Aynı zamanda, bölgede, çeşitli hayvanlar yaşamaktadır ve bu hayvanlar, türbenin çevresinde bulunan doğal güzelliklerin bir parçası olarak kabul edilmektedir. Bölgenin flora ve fauna açısından zengin olmasının nedenlerinden biri, Ege Bölgesi'nin coğrafi özellikleri ile uyumlu olarak, yazları sıcak ve kuru, kışları ise soğuk ve yağışlı bir iklimi olmasıdır. Bu iklim, bölgenin flora ve fauna açısından zengin olmasını sağlamaktadır.
+ Bölgede, çeşitli bitki türleri, ağaçlar ve çiçekler bulunmaktadır ve bu bitkiler, ziyaretçilere, doğal güzelliklerin bir parçası olarak sunulmaktadır. Aynı zamanda, bölgede, çeşitli hayvanlar yaşamaktadır ve bu hayvanlar, türbenin çevresinde bulunan doğal güzelliklerin bir parçası olarak kabul edilmektedir. Bölgenin flora ve fauna açısından zengin olmasının nedenlerinden biri, Ege Bölgesi'nin coğrafi özellikleri ile uyumlu olarak, yazları sıcak ve kuru, kışları ise soğuk ve yağışlı bir iklimi olmasıdır. Bu iklim, bölgenin flora ve fauna açısından zengin olmasını sağlamaktadır.
 
 ## Ziyaret Bilgileri
 

@@ -1,7 +1,7 @@
 ---
 title: "Selime Sultan Türbesi"
 date: "2026-01-10T04:47:44.473Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -30,7 +30,7 @@ wikidata_id: "Q6007535"
 
 # Selime Sultan Türbesi
 
-Selime Sultan Türbesi, Güzelyurt ilçesi sınırları içerisinde yer alan bir tarihi türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Tarihi geçmişi ile birlikte, bu bölge aynı zamanda doğa severler için bir cennet olarak kabul ediliyor. Burada, ziyaretçiler hem tarihi türbeyi gezebiliyor hem de plajın keyfini çıkarabiliyorlar. Selime Sultan Türbesi, Güzelyurt'un en çok ziyaret edilen yerlerinden biri olarak biliniyor.
+Selime Sultan Türbesi, Güzelyurt ilçesi sınırları içerisinde yer alan bir tarihi türbe ve plaj alanıdır. Tarihi geçmişi ile birlikte, bu bölge aynı zamanda doğa severler için bir cennet olarak kabul ediliyor. Burada, ziyaretçiler hem tarihi türbeyi gezebiliyor hem de plajın keyfini çıkarabiliyorlar. Selime Sultan Türbesi, Güzelyurt'un en çok ziyaret edilen yerlerinden biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Selime Sultan Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanmaktad
 
 ## Coğrafya
 
-Selime Sultan Türbesi, Güzelyurt ilçesi sınırları içerisinde, İç Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birinde yer alıyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, doğal güzellikleri ile ziyaretçilerini cezbediyor. Türbe ve plaj alanı, together bir bütün olarak düşünüldüğünde, ziyaretçilere hem tarihi bir mekan hem de güzel bir doğa alanı sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, Selime Sultan Türbesi ve çevresinin, ziyaretçilere dört mevsim boyunca farklı güzellikler sunmasını sağlıyor.
+Selime Sultan Türbesi, Güzelyurt ilçesi sınırları içerisinde, İç Anadolu Bölgesi'nin coğrafi olarak en güzel noktalarından birinde yer alıyor. Türbe ve plaj alanı, together bir bütün olarak düşünüldüğünde, ziyaretçilere hem tarihi bir mekan hem de güzel bir doğa alanı sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal iklim özellikleri gösteriyor. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurak geçiyor. Bu coğrafi özellikler, Selime Sultan Türbesi ve çevresinin, ziyaretçilere dört mevsim boyunca farklı güzellikler sunmasını sağlıyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Selime Sultan Türbesi ve plaj alanını ziyaret etmek, Güzelyurt'a gelenler i�
 ## İlginç Bilgiler
 
 - Türbenin tarihi geçmişi Osmanlı dönemine kadar uzanmaktadır.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölge, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Selime Sultan Türbesi, Güzelyurt'un en çok ziyaret edilen yerlerinden biridir.
 - Türbe ve plaj alanı, birlikte bir bütün olarak düşünüldüğünde, ziyaretçilere hem tarihi bir mekan hem de güzel bir doğa alanı sunuyor.

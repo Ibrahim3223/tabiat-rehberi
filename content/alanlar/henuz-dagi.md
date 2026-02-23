@@ -52,7 +52,7 @@ Mevsimsel değişimlerin yaşandığı bir bölge olan "Henüz Dağı"nda, iklim
 
 "Henüz Dağı"nda, maki bitki örtüsünün hakim olduğu bir dağ ekosistemi ziyaretçilerini bekliyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Kuraklığa dayanıklı türler, bu bölgenin karakterini belirliyor. Kıyı ekosisteminin etkileri, flora ve faunayı şekillendiriyor.
 
-Dağın yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artıyor. Bu bölgede yaşayan dağ hayvanları, bu zorlu koşullara adapte olmuş durumda. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Sonbaharda, göç eden kuşlar dağları ziyaret ediyor ve bu ekosisteme renk katarıyor. 
+Dağın yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artıyor. Bu bölgede yaşayan dağ hayvanları, bu zorlu koşullara adapte olmuş durumda. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Sonbaharda, göç eden kuşlar dağları ziyaret ediyor ve bu ekosisteme renk katarıyor.
 
 Bu dağ ekosisteminin korunması büyük önem taşıyor. Doğal yaşam alanlarının korunması, bu bölgenin ekolojik değerini sürdürmek için gerekli. "Henüz Dağı"nın benzersiz florası ve faunası, gelecekteki nesiller için korunması gereken bir hazine olarak görülmeli.
 

@@ -48,11 +48,11 @@ Mevsimsel olarak, Daşburun (Ağrı Dağı) ve çevresindeki bölge, karasal ikl
 
 ## Flora ve Fauna
 
-Daşburun (Ağrı Dağı), Iğdır'da yer alan yüksek dağ ekosisteminin önemli bir parçası. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Daşburun (Ağrı Dağı), Iğdır'da yer alan yüksek dağ ekosisteminin önemli bir parçası. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü olarak, alpin çayırların hakim olduğu bu bölgede, ilkbaharda çiçekler açarak renkli bir manzara sunar. Yükseklik zonlarına bağlı olarak, farklı bitkilerin görüldüğü bu dağda, endemik türler de yer alır. 
+Bitki örtüsü olarak, alpin çayırların hakim olduğu bu bölgede, ilkbaharda çiçekler açarak renkli bir manzara sunar. Yükseklik zonlarına bağlı olarak, farklı bitkilerin görüldüğü bu dağda, endemik türler de yer alır.
 
-Yaban hayatı olarak, dağ keçileri, çakallar ve kartallar gibi türlerin yaşadığı bu bölgede, mevsimsel olarak göç eden kuşlar da görülür. Sürüngenler ve diğer küçük hayvanlar da bu dağ ekosisteminin önemli parçalarıdır. 
+Yaban hayatı olarak, dağ keçileri, çakallar ve kartallar gibi türlerin yaşadığı bu bölgede, mevsimsel olarak göç eden kuşlar da görülür. Sürüngenler ve diğer küçük hayvanlar da bu dağ ekosisteminin önemli parçalarıdır.
 
 Ekolojik değer olarak, bu yüksek dağ ekosistemi, birçok canlıyaşam alanı sunar ve bölgenin ekolojik dengesini korur. Bu nedenle, koruma altına alınması büyük önem taşır.
 

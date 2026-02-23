@@ -1,7 +1,7 @@
 ---
 title: "Şerif Paşa Hamamı"
 date: "2026-01-09T23:45:10.123Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739232"
 
 # Şerif Paşa Hamamı
 
-Sındırgı'nın merkezinde yer alan Şerif Paşa Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Şerif Paşa Hamamı, Marmara Bölgesi'nin güzide ilçelerinden biri olan Sındırgı'nın en önemli doğal güzelliklerinden biridir. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Şerif Paşa Hamamı, hem doğa severler hem de tarih meraklıları için bir cazibe merkezi olarak dikkat çekiyor.
+Sındırgı'nın merkezinde yer alan Şerif Paşa Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir alandır. Şerif Paşa Hamamı, Marmara Bölgesi'nin güzide ilçelerinden biri olan Sındırgı'nın en önemli doğal güzelliklerinden biridir. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Şerif Paşa Hamamı, hem doğa severler hem de tarih meraklıları için bir cazibe merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386276"
 
 # Kurudağ Tepe
 
-Gaziantep'in zengin tarihi ve kültürel mirasının yanı sıra, şehrin doğal güzelliklerini keşfetmek isteyenler için Kurudağ Tepe önemli bir destinasyon. Bu tepe, Gaziantep'in coğrafi çeşitliliğiçinde dikkat çekici bir nokta olarak karşımıza çıkıyor. Gaziantep'in históri ve doğal güzelliklerinin bir arada bulunduğu bu bölgede, Kurudağ Tepe ziyaretçilerini şehrin diğer önemli noktalarına yakın bir konumda ağırlıyor. Doğal güzelliği ve tarihi önemiyle dikkat çeken bu tepe, Gaziantep'in turizm potansiyelini göstermesi açısından önemli bir yer.
+Gaziantep'in zengin tarihi ve kültürel mirasının yanı sıra, şehrin doğal güzelliklerini keşfetmek isteyenler için Kurudağ Tepe önemli bir destinasyon. Bu tepe, Gaziantep'in coğrafi çeşitliliğiçinde dikkat çekici bir nokta olarak karşımıza çıkıyor. Gaziantep'in tarihi ve doğal güzelliklerinin bir arada bulunduğu bu bölgede, Kurudağ Tepe ziyaretçilerini şehrin diğer önemli noktalarına yakın bir konumda ağırlıyor. Doğal güzelliği ve tarihi önemiyle dikkat çeken bu tepe, Gaziantep'in turizm potansiyelini göstermesi açısından önemli bir yer.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Ali Baba Türbesi"
 date: "2026-01-10T05:08:06.745Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391634"
 
 # Ali Baba Türbesi
 
-Ali Baba Türbesi, Karadeniz Bölgesi'nin Düzce iline bağlı Kaynaşlı'da yer alan 140 hektarlık bir yeşil alandan oluşuyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa deneyimi sunuyor. Tarihi geçmişi ve coğrafi konumuyla dikkat çeken Ali Baba Türbesi, hem doğa severler hem de tarih meraklıları için ilgi çekici bir destinasyon. 140 hektarlık bu yeşil alan, ziyaretçilerini yemyeşil bir doğa ile baş başa bırakıyor ve onlara unutulmaz bir deneyim vaat ediyor.
+Ali Baba Türbesi, Karadeniz Bölgesi'nin Düzce iline bağlı Kaynaşlı'da yer alan 140 hektarlık bir yeşil alandan oluşuyor. Tarihi geçmişi ve coğrafi konumuyla dikkat çeken Ali Baba Türbesi, hem doğa severler hem de tarih meraklıları için ilgi çekici bir destinasyon. 140 hektarlık bu yeşil alan, ziyaretçilerini yemyeşil bir doğa ile baş başa bırakıyor ve onlara unutulmaz bir deneyim vaat ediyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ali Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bö
 
 ## Coğrafya
 
-Ali Baba Türbesi, Karadeniz Bölgesi'nin Düzce iline bağlı Kaynaşlı'da yer alıyor. Coğrafi konumu itibariyle, bu bölgeye ulaşım oldukça kolay. Ali Baba Türbesi, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini bir doğa cenneti ile baş başa bırakıyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli doğa aktivitelerine katılma imkanı sunuyor. Ayrıca, Ali Baba Türbesi'nin bulunduğu Kaynaşlı, Karadeniz Bölgesi'nin diğer önemli destinasyonlarına da yakın mesafede bulunuyor. Bu nedenle, ziyaretçiler Ali Baba Türbesi'ni ziyaret ederken aynı zamanda bölgenin diğer güzelliklerini de keşfedebilirler. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa deneyimi sunuyor. Bölgenin iklimi ve coğrafi yapısı, ziyaretçilere yıl boyunca çeşitli doğa aktivitelerine katılma imkanı sunuyor.
+Ali Baba Türbesi, Karadeniz Bölgesi'nin Düzce iline bağlı Kaynaşlı'da yer alıyor. Coğrafi konumu itibariyle, bu bölgeye ulaşım oldukça kolay. Ali Baba Türbesi, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini bir doğa cenneti ile baş başa bırakıyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli doğa aktivitelerine katılma imkanı sunuyor. Ayrıca, Ali Baba Türbesi'nin bulunduğu Kaynaşlı, Karadeniz Bölgesi'nin diğer önemli destinasyonlarına da yakın mesafede bulunuyor. Bu nedenle, ziyaretçiler Ali Baba Türbesi'ni ziyaret ederken aynı zamanda bölgenin diğer güzelliklerini de keşfedebilirler. Bölgenin iklimi ve coğrafi yapısı, ziyaretçilere yıl boyunca çeşitli doğa aktivitelerine katılma imkanı sunuyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Ali Baba Türbesi'ni ziyaret etmek için, Karadeniz Bölgesi'nin Düzce iline ba
 ## İlginç Bilgiler
 
 - Ali Baba Türbesi, 140 hektarlık bir yeşil alandan oluşuyor.
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Ali Baba Türbesi, Karadeniz Bölgesi'nin Düzce iline bağlı Kaynaşlı'da yer alıyor.
 - Bölge, yıl boyunca çeşitli doğa aktivitelerine katılma imkanı sunuyor.
 - Ali Baba Türbesi, ziyaretçilerine geniş bir doğa deneyimi sunuyor.

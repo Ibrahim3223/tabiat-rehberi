@@ -32,7 +32,7 @@ Van'ın doğal güzelliklerini keşfetmek isteyenler için Artemis Dağı değil
 
 ## Tarihçe
 
-Van bölgesinin zengin tarihi, Arnas Dağı'nın eteklerine kadar uzanır. Bu bölge, tarihin sâu sayfalarında Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşır. Van Gölü'nün kıyılarında yer alan Arnas Dağı, bölgenin coğrafi ve kültürel zenginliklerine katkıda bulunur.
+Van bölgesinin zengin tarihi, Arnas Dağı'nın eteklerine kadar uzanır. Bu bölge, tarihin derin sayfalarında Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşır. Van Gölü'nün kıyılarında yer alan Arnas Dağı, bölgenin coğrafi ve kültürel zenginliklerine katkıda bulunur.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. Bu alanlar, insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sunarken, aynı zamanda kültürel ve tarihi mirasın bir parçası olarak kabul edilir. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların yaşam tarzıdır ve Arnas Dağı, bu faaliyetler için elverişli bir ortam sunar.
 
@@ -50,7 +50,7 @@ Arnas Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte bir bütün te
 
 ## Flora ve Fauna
 
-Arnas Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Arnas Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü bölümünde, ilkbaharla birlikte dağ yamaçlarında renkli çiçekler açıyor. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunuyor. Sonbaharda ise dağların rengi sarı, turuncu ve kırmızıyla değişiyor.
 

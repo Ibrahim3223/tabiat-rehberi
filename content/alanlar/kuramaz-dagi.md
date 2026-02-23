@@ -56,7 +56,7 @@ Bitki örtüsünü step türleri ve kuraklığa adapte olmuş bitkiler oluşturu
 
 Yaban hayatı dağın ekosistemine uyum sağlamış türlerden oluşur. Memeliler, kuşlar ve sürüngenler, dağın farklı yükseklik zonlarında yaşamaktadır. Bu canlılar, dağların sunduğu yaşam alanlarına bağlı olarak, beslenme ve barınma ihtiyaçlarını karşılarlar. Örneğin, bazı kuş türleri dağların yüksek kesimlerinde yuva yapar ve burada avlanırken, bazı memeliler ise dağların eteklerinde bulunan otlaklarda beslenir.
 
-Kuramaz Dağı, bölgenin ekolojik dengesini korumak açısından önemlidir. Bu dağ ekosisteminin korunması, burada yaşayan canlıların yaşamını sürdürmesi ve bölgenin doğal güzelliğinin korunması için büyük önem taşır.
+ Bu dağ ekosisteminin korunması, burada yaşayan canlıların yaşamını sürdürmesi ve bölgenin doğal güzelliğinin korunması için büyük önem taşır.
 
 ## Ziyaret Bilgileri
 

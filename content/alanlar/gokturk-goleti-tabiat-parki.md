@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Göktürk Göleti Tabiat Parkı
 
-Göktürk Göleti Tabiat Parkı, İstanbul'un Marmara Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Göletin etrafında yürüyüş yapabilir, doğayı izleyebilir veya piknik yapabilirsiniz. Göktürk Göleti Tabiat Parkı, İstanbul'un güzide bölgelerinden biri olan Göktürk'te yer alır ve şehrin merkezine yakınlığıyla dikkat çeker. Bu doğal alan, hem İstanbul'da yaşayanlar hem de şehri ziyaret edenler için keyifli bir gezi deneyimi sunar.
+Göktürk Göleti Tabiat Parkı, İstanbul'un Marmara Bölgesi'nde yer alan bir doğa harikasıdır. Göletin etrafında yürüyüş yapabilir, doğayı izleyebilir veya piknik yapabilirsiniz. Göktürk Göleti Tabiat Parkı, İstanbul'un güzide bölgelerinden biri olan Göktürk'te yer alır ve şehrin merkezine yakınlığıyla dikkat çeker. Bu doğal alan, hem İstanbul'da yaşayanlar hem de şehri ziyaret edenler için keyifli bir gezi deneyimi sunar.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Göktürk Göleti Tabiat Parkı'nın tarihi geçmişi hakkında kesin bilgiler b
 
 ## Coğrafya
 
-Göktürk Göleti Tabiat Parkı, İstanbul'un Marmara Bölgesi'nde yer alan bir doğal alandır. Parkın coğrafi konumu, ziyaretçilerin şehir hayatından uzaklaşarak doğanın güzelliğini deneyimlemelerine olanak tanır. 140 hektarlık bir alanı kapsayan park, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunar. Göletin etrafında yürüyüş yapabilir, doğayı izleyebilir veya piknik yapabilirsiniz. Parkın coğrafi yapısı, ziyaretçilerin çeşitli aktiviteler yapmasına olanak tanır. İstanbul'un şehrinin merkezine yakınlığı, parkı ulaşılabilir ve ziyaret edilebilir kılar. Göktürk Göleti Tabiat Parkı, İstanbul'un güzide bölgelerinden biri olan Göktürk'te yer alır ve şehrin merkezine yaklaşık olarak 20-30 kilometre uzaklıktadır. Parkın coğrafi konumu ve yapısı, ziyaretçilerin keyifli bir gezi deneyimi yaşamalarına yardımcı olur.
+Göktürk Göleti Tabiat Parkı, İstanbul'un Marmara Bölgesi'nde yer alan bir doğal alandır. Parkın coğrafi konumu, ziyaretçilerin şehir hayatından uzaklaşarak doğanın güzelliğini deneyimlemelerine olanak tanır. Göletin etrafında yürüyüş yapabilir, doğayı izleyebilir veya piknik yapabilirsiniz. Parkın coğrafi yapısı, ziyaretçilerin çeşitli aktiviteler yapmasına olanak tanır. İstanbul'un şehrinin merkezine yakınlığı, parkı ulaşılabilir ve ziyaret edilebilir kılar. Göktürk Göleti Tabiat Parkı, İstanbul'un güzide bölgelerinden biri olan Göktürk'te yer alır ve şehrin merkezine yaklaşık olarak 20-30 kilometre uzaklıktadır. Parkın coğrafi konumu ve yapısı, ziyaretçilerin keyifli bir gezi deneyimi yaşamalarına yardımcı olur.
 
 ## Flora ve Fauna
 
-Göktürk Göleti Tabiat Parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Parkın flora ve faunası, ziyaretçilerin doğanın güzelliğini deneyimlemelerine olanak tanır. Göletin etrafında yürüyüş yaparken, çeşitli kuş türleri ve diğer canlıları izleyebilirsiniz. Parkın flora ve faunası, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, parkın flora ve faunası daha da renkli ve canlıdır. Göktürk Göleti Tabiat Parkı, doğa severler ve çevreciler için önemli bir yerdir. Parkın flora ve faunası, ziyaretçilerin doğanın güzelliğini takdir etmelerine yardımcı olur.
+ Parkın flora ve faunası, ziyaretçilerin doğanın güzelliğini deneyimlemelerine olanak tanır. Göletin etrafında yürüyüş yaparken, çeşitli kuş türleri ve diğer canlıları izleyebilirsiniz. Parkın flora ve faunası, mevsimsel değişimlere göre farklılık gösterir. İlkbahar ve yaz aylarında, parkın flora ve faunası daha da renkli ve canlıdır. Göktürk Göleti Tabiat Parkı, doğa severler ve çevreciler için önemli bir yerdir. Parkın flora ve faunası, ziyaretçilerin doğanın güzelliğini takdir etmelerine yardımcı olur.
 
 ## Ziyaret Bilgileri
 
@@ -43,7 +43,7 @@ Göktürk Göleti Tabiat Parkı, yılın her döneminde ziyaret edilebilir. Park
 ## İlginç Bilgiler
 
 - Göktürk Göleti Tabiat Parkı, 140 hektarlık bir alanı kapsar.
-- Park, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Göktürk Göleti Tabiat Parkı, İstanbul'un Marmara Bölgesi'nde yer alır.
 - Park, şehrin merkezine yaklaşık olarak 20-30 kilometre uzaklıktadır.
 - Göktürk Göleti Tabiat Parkı, yılın her döneminde ziyaret edilebilir.

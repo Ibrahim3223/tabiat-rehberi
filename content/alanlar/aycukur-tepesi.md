@@ -28,7 +28,7 @@ wikidata_id: "Q34833671"
 
 # Ayçukur Tepesi
 
-Ayçukur Tepesi, Çorum ilinin Karadeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, bölge halkı ve ziyaretçiler için keyifli bir gezi alanı sunuyor. Ayçukur Tepesi'nin etrafında bulunan köyler ve kasabalar, ziyaretçilere yerel kültürü tanıma fırsatı sunarken, tepe itself doğal güzelliği ile ziyaretçilerini büyülüyor. Bu tepe, hem doğa severler hem dei sevenler için bir hazine olarak görülüyor.
+Ayçukur Tepesi, Çorum ilinin Karadeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Ayçukur Tepesi'nin etrafında bulunan köyler ve kasabalar, ziyaretçilere yerel kültürü tanıma fırsatı sunarken, tepe itself doğal güzelliği ile ziyaretçilerini büyülüyor. Bu tepe, hem doğa severler hem dei sevenler için bir hazine olarak görülüyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ayçukur Tepesi'nin tarihi geçmişi, bölge halkının yaşam tarzını ve kül
 
 ## Coğrafya
 
-Ayçukur Tepesi, Çorum ilinin Karadeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafında bulunan köyler ve kasabalar, ziyaretçilere yerel kültürü tanıma fırsatı sunuyor. Ayçukur Tepesi'nin coğrafi konumu, ziyaretçilere bölgeyi keşfetme fırsatı sunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi panorma olarak görme fırsatı sunuyor. Ayçukur Tepesi, Karadeniz Bölgesi'nin güzel ve önemli bir parçası olarak görülüyor. Bu tepe, ziyaretçilere bölgeyi tanıma ve keşfetme fırsatı sunuyor.
+Ayçukur Tepesi, Çorum ilinin Karadeniz Bölgesi'nde yer alıyor. Tepenin etrafında bulunan köyler ve kasabalar, ziyaretçilere yerel kültürü tanıma fırsatı sunuyor. Ayçukur Tepesi'nin coğrafi konumu, ziyaretçilere bölgeyi keşfetme fırsatı sunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi panorma olarak görme fırsatı sunuyor. Ayçukur Tepesi, Karadeniz Bölgesi'nin güzel ve önemli bir parçası olarak görülüyor. Bu tepe, ziyaretçilere bölgeyi tanıma ve keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

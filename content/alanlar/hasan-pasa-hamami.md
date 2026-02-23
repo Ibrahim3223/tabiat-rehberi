@@ -1,7 +1,7 @@
 ---
 title: "Hasan Paşa Hamamı"
 date: "2026-01-09T22:17:49.602Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q131690762"
 
 # Hasan Paşa Hamamı
 
-Hasan Paşa Hamamı, Ankara'nın Altındağ ilçesinde bulunan tarihi ve doğal güzelliklerinin bir araya geldiği özel bir nokta. Bu alan, yaklaşık 140 hektarlık yeşil bir alan olarak, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplıyor. Hasan Paşa Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve tarihi atmosferi ile büyüleyen bir mekan. Ziyaretçiler, bu özel noktada hem doğayı keşfedebilir hem de tarihin izlerini sürebilir.
+Hasan Paşa Hamamı, Ankara'nın Altındağ ilçesinde bulunan tarihi ve doğal güzelliklerinin bir araya geldiği özel bir nokta. Hasan Paşa Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran ve tarihi atmosferi ile büyüleyen bir mekan. Ziyaretçiler, bu özel noktada hem doğayı keşfedebilir hem de tarihin izlerini sürebilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hasan Paşa Hamamı'nın tarihi geçmişi, Ankara'nın zengin kültür mirasın�
 
 ## Coğrafya
 
-Hasan Paşa Hamamı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, Ankara'nın merkezine yakın bir konumda bulunmasıyla dikkat çekiyor. Hamamın bulunduğu alan, 140 hektarlık geniş bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal güzellikleri ile ziyaretçilerini etkileyen bir ortam sunuyor. İç Anadolu Bölgesi'nin karakteristik iklim özellikleri, Hasan Paşa Hamamı'nın bulunduğu bölgede de gözlemleniyor. Bölgenin coğrafi yapısı, ziyaretçilere doğa yürüyüşleri ve keşifler için uygun bir ortam sağlıyor. Hasan Paşa Hamamı ve çevresindeki bölge, Ankara'nın turizm değerlerini artıran önemli bir nokta olarak kabul ediliyor.
+Hasan Paşa Hamamı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Bu bölge, Ankara'nın merkezine yakın bir konumda bulunmasıyla dikkat çekiyor. Bu bölge, doğal güzellikleri ile ziyaretçilerini etkileyen bir ortam sunuyor. İç Anadolu Bölgesi'nin karakteristik iklim özellikleri, Hasan Paşa Hamamı'nın bulunduğu bölgede de gözlemleniyor. Bölgenin coğrafi yapısı, ziyaretçilere doğa yürüyüşleri ve keşifler için uygun bir ortam sağlıyor. Hasan Paşa Hamamı ve çevresindeki bölge, Ankara'nın turizm değerlerini artıran önemli bir nokta olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

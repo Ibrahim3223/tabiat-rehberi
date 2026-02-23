@@ -1,7 +1,7 @@
 ---
 title: "Izmir-Urla Halepcami"
 date: "2026-01-09T13:10:34.540Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -26,7 +26,7 @@ wikidata_id: "Q108227623"
 
 ## Tarihçe
 
-Halepcami milli parkı, tarihin sâu izlerini taşıyan bir bölge. Bu alan, binlerce yıl önce, çeşitli uygarlıkların yerleşim yeri olarak kullanılmış. Parkın tarihi, İlk Çağ'dan başlayarak, Roma ve Bizans dönemlerine kadar uzanıyor. Bu dönemlerde, Halepcami ve çevresinde, önemli ticaret yolları ve yerleşim yerleri bulunuyordu. 20. yüzyılın başlarında, bu bölge, milli park olarak ilan edilmiş ve böylece doğal güzellikleri ve tarihi önemi koruma altına alınmıştır. Bugün, Halepcami milli parkı, hem yerel hem de yabancı ziyaretçiler için, bir kültür ve doğa cenneti olarak hizmet veriyor. 1998 yılında milli park ilan edilen bu bölge, 2002 yılında da Özel Çevre Koruma Bölgesi olarak belirlenmiştir. Bu karar, bölgenin koruma altına alınmasına ve gelecek nesiller için korunmasına önemli katkı sağlamıştır. Parkın tarihi önemi, aynı zamanda, arkeolojik kazılar ve araştırmalar için de önemli bir merkez olarak kabul ediliyor. Özellikle, Roma ve Bizans dönemlerine ait kalıntılar, parkın tarihi zenginliğini daha da artırıyor.
+Halepcami milli parkı, tarihin derin izlerini taşıyan bir bölge. Bu alan, binlerce yıl önce, çeşitli uygarlıkların yerleşim yeri olarak kullanılmış. Parkın tarihi, İlk Çağ'dan başlayarak, Roma ve Bizans dönemlerine kadar uzanıyor. Bu dönemlerde, Halepcami ve çevresinde, önemli ticaret yolları ve yerleşim yerleri bulunuyordu. 20. yüzyılın başlarında, bu bölge, milli park olarak ilan edilmiş ve böylece doğal güzellikleri ve tarihi önemi koruma altına alınmıştır. Bugün, Halepcami milli parkı, hem yerel hem de yabancı ziyaretçiler için, bir kültür ve doğa cenneti olarak hizmet veriyor. 1998 yılında milli park ilan edilen bu bölge, 2002 yılında da Özel Çevre Koruma Bölgesi olarak belirlenmiştir. Bu karar, bölgenin koruma altına alınmasına ve gelecek nesiller için korunmasına önemli katkı sağlamıştır. Parkın tarihi önemi, aynı zamanda, arkeolojik kazılar ve araştırmalar için de önemli bir merkez olarak kabul ediliyor. Özellikle, Roma ve Bizans dönemlerine ait kalıntılar, parkın tarihi zenginliğini daha da artırıyor.
 
 ## Coğrafya
 

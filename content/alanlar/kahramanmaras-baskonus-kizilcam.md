@@ -22,7 +22,7 @@ wikidata_id: "Q108227656"
 
 # Kahramanmaras-Baskonus Kızılçam
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Kahramanmaras-Baskonus Kızılçam milli parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplar. Bu muhteşem doğa harikası, ziyaretçilerini yeşilin ve mavinin iç içe geçtiği bira davet ediyor. Parkın içinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunar.
+ Bu muhteşem doğa harikası, ziyaretçilerini yeşilin ve mavinin iç içe geçtiği bira davet ediyor. Parkın içinde çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kahramanmaras-Baskonus Kızılçam milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Kahramanmaras-Baskonus Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, bu genişlik ziyaretçilere doğanın güzelliğini keşfetme fırsatı verir. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasının zenginliğini etkiler.
+Kahramanmaras-Baskonus Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alır. Parkın coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunar. Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. Kış ayları soğuk ve karlı, yaz ayları ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasının zenginliğini etkiler.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227825"
 
 # Kayseri-Yahyali Aladaglar
 
-Kayseri-Yahyali Aladaglar milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilir. Yaklaşık 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik bölgelerinden biridir. Bu alan, zengin flora ve faunası ile tanınır ve birçok turisti çeker. Kayseri ilinin Yahyali ilçesinde bulunan milli park, aynı zamanda bölgenin en önemli turizm merkezlerinden biridir. Milli parkın etrafında, birçok tarihi ve kültürel yapı bulunmakta ve bu yapılar, bölgenin tarihi geçmişini yansıtmaktadır.
+Kayseri-Yahyali Aladaglar milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak kabul edilir. Bu alan, zengin flora ve faunası ile tanınır ve birçok turisti çeker. Kayseri ilinin Yahyali ilçesinde bulunan milli park, aynı zamanda bölgenin en önemli turizm merkezlerinden biridir. Milli parkın etrafında, birçok tarihi ve kültürel yapı bulunmakta ve bu yapılar, bölgenin tarihi geçmişini yansıtmaktadır.
 
 ## Tarihçe
 

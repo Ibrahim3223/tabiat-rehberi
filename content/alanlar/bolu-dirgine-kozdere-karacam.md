@@ -22,7 +22,7 @@ wikidata_id: "Q108228253"
 
 # Bolu-Dirgine-Kozdere-Karacam
 
-Bolu-Dirgine-Kozdere-Karacam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, bu alanın ne kadar geniş olduğunun anlaşılması mümkün. Bu milli park, ziyaretçilerini Bolu'nun doğal güzellikleriyle baş başa bırakmak için ideal bir ortam sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın konumu, ziyaretçilerin doğayı yakından tanımalarına olanak sağlıyor.
+Bolu-Dirgine-Kozdere-Karacam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu milli park, ziyaretçilerini Bolu'nun doğal güzellikleriyle baş başa bırakmak için ideal bir ortam sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın konumu, ziyaretçilerin doğayı yakından tanımalarına olanak sağlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Dirgine-Kozdere-Karacam milli parkının tarihi geçmişi, yüzyıllar boyu
 
 ## Coğrafya
 
-Bolu-Dirgine-Kozdere-Karacam milli parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşil ormanlarla çevrili. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu, ziyaretçilerin geniş bir alanda doğayı keşfetmelerine olanak tanıyor. Milli parkın coğrafi konumu, ziyaretçilerin Bolu'nun diğer doğal güzelliklerine de kolayca ulaşabilmesini sağlıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak, nemli ve serin. Bu, bitki türlerinin çeşitliliğini artırmaya yardımcı oluyor. Çevre, milli parkın doğal güzelliklerini korumak için büyük önem taşıyor.
+Bolu-Dirgine-Kozdere-Karacam milli parkı, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, yeşil ormanlarla çevrili. Milli parkın coğrafi konumu, ziyaretçilerin Bolu'nun diğer doğal güzelliklerine de kolayca ulaşabilmesini sağlıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçileri bekliyor. Milli parkın iklimi, Karadeniz Bölgesi'nin iklimine uygun olarak, nemli ve serin. Bu, bitki türlerinin çeşitliliğini artırmaya yardımcı oluyor. Çevre, milli parkın doğal güzelliklerini korumak için büyük önem taşıyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Bolu-Dirgine-Kozdere-Karacam milli parkını ziyaret etmek, doğa severler için
 ## İlginç Bilgiler
 
 - Bolu-Dirgine-Kozdere-Karacam milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri.
-- Milli parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Milli parkın iklimi, nemli ve serin.
 - Milli parkın çevresi, doğal güzelliklerini korumak için büyük önem taşıyor.

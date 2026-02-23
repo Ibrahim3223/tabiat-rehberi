@@ -50,7 +50,7 @@ Mevsimsel olarak, Bedir Adası'nın iklimi, Akdeniz ikliminin karakteristik öze
 
 ## Flora ve Fauna
 
-Bedir Adası, Muğla'nın kıyılarında yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, ada zeytinliklerin ve çam ormanlarının yeşilliğiçinde çiçeklerle donanır. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler hakimdir. 
+Bedir Adası, Muğla'nın kıyılarında yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, ada zeytinliklerin ve çam ormanlarının yeşilliğiçinde çiçeklerle donanır. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler hakimdir.
 
 Ada, deniz kuşları için önemli bir üreme ve göç alanıdır. Sonbaharda, göç eden kuşlar adayı ziyaret eder. Bu izole ada ekosisteminde, sürüngenler ve memeliler de yaşar. Ekolojik olarak, ada ekosisteminin korunması önemlidir. Bu alanın korunması, deniz kuşları ve diğer canlıların yaşam alanlarını güvence altına almak için gereklidir.
 

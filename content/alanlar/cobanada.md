@@ -28,7 +28,7 @@ wikidata_id: "Q34789959"
 
 # Çobanada
 
-Muğla'nın eşsiz doğası içinde gizlenen Çobanada, ziyaretçilerini Ege'nin sakin sularına davet ediyor. Bu küçük ada, Muğla'nın zengin turizm potansiyelini gösteriyor. Çobanada, Muğla'nın turistik ilçeleri arasında dikkat çekiyor. 
+Muğla'nın eşsiz doğası içinde gizlenen Çobanada, ziyaretçilerini Ege'nin sakin sularına davet ediyor. Bu küçük ada, Muğla'nın zengin turizm potansiyelini gösteriyor. Çobanada, Muğla'nın turistik ilçeleri arasında dikkat çekiyor.
 Muğla'nın turizm açısından zengin bir bölgesi olan Çobanada, ziyaretçilerini bekliyor.
 
 ## Tarihçe
@@ -51,7 +51,7 @@ Yaz aylarında sıcaklığın 30 dereceleri aşabileceği Çobanada, iklim açı
 
 ## Flora ve Fauna
 
-Çobanada, Muğla'nın kıyılarında yer alan bir ada ekosistemi olarak, benzersiz bir flora ve faunaya ev sahipliği yapmaktadır. 
+Çobanada, Muğla'nın kıyılarında yer alan bir ada ekosistemi olarak, benzersiz bir flora ve faunaya ev sahipliği yapmaktadır.
 
 Bitki Örtüsü olarak, ada çam ormanları ve zeytinliklerle kaplıdır. İlkbahar aylarında, ada çiçeklerle donanır ve renkli bir manzara sunar. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler hakimdir.
 

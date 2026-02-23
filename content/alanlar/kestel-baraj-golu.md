@@ -52,7 +52,7 @@ Doğal bir gölle karşılaştırıldığında, Kestel Baraj Gölü'nün boyutla
 
 ## Flora ve Fauna
 
-Kestel Baraj Gölü, İzmir'in kurak bozkır bölgesinde bir su cenneti olarak karşımıza çıkıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kestel Baraj Gölü, İzmir'in kurak bozkır bölgesinde bir su cenneti olarak karşımıza çıkıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 **Bitki Örtüsü**: Step bitki örtüsünün hakim olduğu bu bölgede, ilkbahar aylarında renkli çiçekler açıyor. Sonbaharda ise kuraklığa adapte olmuş bitkiler öne çıkıyor. Gölün etrafında sulak alan bitkileri, su kuşları için önemli bir yaşam alanı oluşturuyor.
 

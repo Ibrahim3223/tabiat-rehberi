@@ -1,7 +1,7 @@
 ---
 title: "İmad Bin Hacı Muhiddin Türbesi"
 date: "2026-01-10T06:08:15.430Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390624"
 
 # İmad Bin Hacı Muhiddin Türbesi
 
-İmad Bin Hacı Muhiddin Türbesi, Afyonkarahisar'ın merkezinde, şehrin tarihi ve doğal güzelliklerinin bir araya geldiği bir noktada yer alıyor. Bu özel yer, yaklaşık 140 hektarlık bir alanda, şehrin kalabalığından uzakta, sakin ve huzurlu bir atmosfer sunuyor. Türbe ve çevresindeki yeşil alanlar, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu büyük alan, ziyaretçilere geniş ve ferah bir ortam sağlıyor. İmad Bin Hacı Muhiddin Türbesi, sadece tarihi önemini değil, aynı zamanda doğal güzelliği ile de dikkat çekiyor.
+İmad Bin Hacı Muhiddin Türbesi, Afyonkarahisar'ın merkezinde, şehrin tarihi ve doğal güzelliklerinin bir araya geldiği bir noktada yer alıyor. Bu özel yer, yaklaşık 140 hektarlık bir alanda, şehrin kalabalığından uzakta, sakin ve huzurlu bir atmosfer sunuyor. Bu büyük alan, ziyaretçilere geniş ve ferah bir ortam sağlıyor. İmad Bin Hacı Muhiddin Türbesi, sadece tarihi önemini değil, aynı zamanda doğal güzelliği ile de dikkat çekiyor.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31390873"
 
 # İnce Tepe
 
-İnce Tepe, Yozgat'ın sınırları içerisinde yer alan ve coğrafyası ile dikkat çeken bir tepe olarak karşımıza çıkar. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. İnce Tepe, bölgenin coğrafi özelliklerini yansıtan önemli bir noktadır ve ziyaretçilerini anın güzelliği ile baş başa bırakır. Tepe, çevresi ile birlikte bir bütün olarak ele alındığında, bölgenin tarihçesi ve coğrafi yapısı hakkında önemli ipuçları sunar.
+İnce Tepe, Yozgat'ın sınırları içerisinde yer alan ve coğrafyası ile dikkat çeken bir tepe olarak karşımıza çıkar. İnce Tepe, bölgenin coğrafi özelliklerini yansıtan önemli bir noktadır ve ziyaretçilerini anın güzelliği ile baş başa bırakır. Tepe, çevresi ile birlikte bir bütün olarak ele alındığında, bölgenin tarihçesi ve coğrafi yapısı hakkında önemli ipuçları sunar.
 
 ## Tarihçe
 

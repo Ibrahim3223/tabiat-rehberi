@@ -28,7 +28,7 @@ wikidata_id: "Q31390937"
 
 # Tahtalaz Tepesi
 
-Tahtalaz Tepesi, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafi yapısını anlamak için ideal bir konum. Tepenin yüksekliği, çevreyi panoramik olarak görmek için mükemmel bir fırsat sunuyor. Kayseri'nin tarihini ve doğal güzelliklerini bir arada deneyimlemek isteyenler için Tahtalaz Tepesi, unutulmaz bir deneyim sunuyor.
+Tahtalaz Tepesi, Kayseri'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir nokta. Tepenin yüksekliği, çevreyi panoramik olarak görmek için mükemmel bir fırsat sunuyor. Kayseri'nin tarihini ve doğal güzelliklerini bir arada deneyimlemek isteyenler için Tahtalaz Tepesi, unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

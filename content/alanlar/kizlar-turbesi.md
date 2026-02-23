@@ -1,7 +1,7 @@
 ---
 title: "Kızlar Türbesi"
 date: "2026-01-10T05:15:06.957Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391636"
 
 # Kızlar Türbesi
 
-Karaman ilinin merkezinde yer alan Kızlar Türbesi, şehrin en önemli tarihi ve doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bir alan üzerinde kurulmuş olan bu özel yer, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası. Kızlar Türbesi, Karaman'ın tarihi ve kültürel zenginliklerini bir araya getiren benzersiz bir mekan.
+Karaman ilinin merkezinde yer alan Kızlar Türbesi, şehrin en önemli tarihi ve doğal güzelliklerinden biri olarak dikkat çekiyor. Kızlar Türbesi, Karaman'ın tarihi ve kültürel zenginliklerini bir araya getiren benzersiz bir mekan.
 
 ## Tarihçe
 

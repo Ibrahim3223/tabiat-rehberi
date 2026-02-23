@@ -52,9 +52,9 @@ Mevsimsel değişikliklere bakıldığında, Yeghbark Sarak'ın iklim karakteri,
 
 Yeghbark Sarak, Ağrı'da yüksek dağ ekolojisinin hâkim olduğu bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekiyor.
 
-Bitki Örtüsü bölümünde, ilkbaharda çiçek açan alpin çayırların renk cümbüşüne tanık olabilirsiniz. Sonbaharda ise, göç eden kuşlar bu bölgeden geçer. Hakim türler arasında, yüksek dağların karakteristik bitkileri gibi görünen bazı türler yer alır. 
+Bitki Örtüsü bölümünde, ilkbaharda çiçek açan alpin çayırların renk cümbüşüne tanık olabilirsiniz. Sonbaharda ise, göç eden kuşlar bu bölgeden geçer. Hakim türler arasında, yüksek dağların karakteristik bitkileri gibi görünen bazı türler yer alır.
 
-Yaban Hayatı bölümünde, dağ keçileri, kartallar ve diğer yüksek dağ hayvanlarını gözlemleyebilirsiniz. Bu canlılar, yüksek dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle etkileşim halindedir. 
+Yaban Hayatı bölümünde, dağ keçileri, kartallar ve diğer yüksek dağ hayvanlarını gözlemleyebilirsiniz. Bu canlılar, yüksek dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle etkileşim halindedir.
 
 Ekolojik Değer bölümünde, bu bölgenin neden önemli olduğu ve koruma durumu hakkında bilgi verilebilir. Bu yüksek dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini sürdürmek için önemlidir.
 

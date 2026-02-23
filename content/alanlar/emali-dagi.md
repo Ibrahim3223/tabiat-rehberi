@@ -50,7 +50,7 @@ Mevsimsel değişikliklere göre farklı bir karakter sergileyen Emalı Dağı, 
 
 Emalı Dağı, Çorum'un yeşille bezeli bir köşesi, nemli iklimin hâkim olduğu bir bölge. Burada gür ormanlar ve yüksek biyoçeşitlilik hakim. Dağın farklı yükseklik zonları, çeşitli flora ve fauna türlerine ev sahipliği yapıyor.
 
-İlkbaharla birlikte, dağ eteklerinde çiçekler açıyor, renk cümbüşü başlıyor. Sonbaharda ise, göç eden kuşlar dağların üzerinde uçarken, bir göçmen kuş festivaline tanık olunabiliyor. Dağın bitki örtüsünü oluşturan ağaçlar, mevsimlere göre değişen bir görünüm sunuyor. 
+İlkbaharla birlikte, dağ eteklerinde çiçekler açıyor, renk cümbüşü başlıyor. Sonbaharda ise, göç eden kuşlar dağların üzerinde uçarken, bir göçmen kuş festivaline tanık olunabiliyor. Dağın bitki örtüsünü oluşturan ağaçlar, mevsimlere göre değişen bir görünüm sunuyor.
 
 Yaban hayatı da oldukça zengin. Memeliler, kuşlar ve sürüngenler, bu dağ ekosisteminin birer parçası. Dağın yüksek kesimlerinde, alpin flora türlerine rastlama mümkün. Bu türler, zorlu iklim koşullarına adapte olmuş, dayanıklı bitkiler. Ekolojik değerini korumak için, bu dağın doğal dengesinin korunması çok önemli.
 

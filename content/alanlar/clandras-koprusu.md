@@ -1,7 +1,7 @@
 ---
 title: "Clandras Köprüsü"
 date: "2026-01-10T04:23:56.669Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Uşak"
@@ -30,7 +30,7 @@ wikidata_id: "Q6036371"
 
 # Clandras Köprüsü
 
-Clandras Köprüsü, Ege Bölgesi'nin Uşak ilinin Karahallı ilçesinde bulunan bir doğa harikasıdır. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyen bir güzelliğe sahiptir. Clandras Köprüsü, yemyeşil ormanları, serin suları ve eşsiz manzarasıyla doğa severlerin ve fotoğraf tutkunlarının hayalindeki bir destinasyondur. Köprü ve çevresindeki alan, hem doğanın güzelliğini hem de tarihin izlerini taşıyan bir yerdir. Burada, tarihi köprülerin yanı sıra, çeşitli bitki türleri ve zengin fauna da bulunmaktadır.
+Clandras Köprüsü, Ege Bölgesi'nin Uşak ilinin Karahallı ilçesinde bulunan bir doğa harikasıdır. Clandras Köprüsü, yemyeşil ormanları, serin suları ve eşsiz manzarasıyla doğa severlerin ve fotoğraf tutkunlarının hayalindeki bir destinasyondur. Köprü ve çevresindeki alan, hem doğanın güzelliğini hem de tarihin izlerini taşıyan bir yerdir. Burada, tarihi köprülerin yanı sıra, çeşitli bitki türleri ve zengin fauna da bulunmaktadır.
 
 ## Tarihçe
 

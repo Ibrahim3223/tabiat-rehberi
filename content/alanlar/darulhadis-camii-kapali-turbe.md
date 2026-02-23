@@ -1,7 +1,7 @@
 ---
 title: "Darülhadis Camii Kapalı Türbe"
 date: "2026-01-10T07:37:06.668Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"

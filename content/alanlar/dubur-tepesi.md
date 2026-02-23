@@ -28,7 +28,7 @@ wikidata_id: "Q31547797"
 
 # Dubur Tepesi
 
-Dubur Tepesi, Güneydoğu Anadolu Bölgesi'nin zengin doğasını keşfetmek isteyenler için bir hazine. Siirt'in merkezine yakın bir konumda bulunan bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal alanı temsil ediyor. Bu büyüklük, ziyaretçilere geniş bir perspektif sunuyor ve tepeyi keşfetmek bir macera haline geliyor. Dubur Tepesi, sadece doğa severler için değil, aynı zamanda tarih ve kültür meraklıları için de bir çekim merkezi. Ziyaretçiler, tepeye tırmanırken, bölgenin tarihi geçmişi hakkında da bilgi edinebiliyorlar.
+Dubur Tepesi, Güneydoğu Anadolu Bölgesi'nin zengin doğasını keşfetmek isteyenler için bir hazine. Bu büyüklük, ziyaretçilere geniş bir perspektif sunuyor ve tepeyi keşfetmek bir macera haline geliyor. Dubur Tepesi, sadece doğa severler için değil, aynı zamanda tarih ve kültür meraklıları için de bir çekim merkezi. Ziyaretçiler, tepeye tırmanırken, bölgenin tarihi geçmişi hakkında da bilgi edinebiliyorlar.
 
 ## Tarihçe
 

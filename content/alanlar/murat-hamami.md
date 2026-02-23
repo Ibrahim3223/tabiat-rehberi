@@ -1,7 +1,7 @@
 ---
 title: "Murat Hamamı"
 date: "2026-01-09T22:53:08.032Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çankırı"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738632"
 
 # Murat Hamamı
 
-Murat Hamamı, Çerkeş'te yer alan ve tarihi geçmişi ile dikkat çekici bir alan olarak bilinir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve bu størreligi ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Murat Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Tarihi geçmişi, coğrafi konumu ve doğal güzellikleri ile Murat Hamamı, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Murat Hamamı, Çerkeş'te yer alan ve tarihi geçmişi ile dikkat çekici bir alan olarak bilinir. Murat Hamamı, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Tarihi geçmişi, coğrafi konumu ve doğal güzellikleri ile Murat Hamamı, ziyaretçilerine benzersiz bir deneyim sunuyor. Bu alanda, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 

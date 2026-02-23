@@ -28,7 +28,7 @@ wikidata_id: "Q49742033"
 
 # Çavuşçuköyü Açık Ilıcası
 
-Konya'nın İç Anadolu Bölgesi'nde yer alan Çavuşçuköyü Açık Ilıcası, 140 hektarlık bir alan üzerinde kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir doğal alan sunmaktadır. Çavuşçuköyü Açık Ilıcası, Konya'nın doğal güzelliklerinin arasında yer almakta ve ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. Burada, ziyaretçiler doğanın tadını çıkarabilir, termal kaynakların şifasından yararlanabilir ve güzel anılar biriktirebilirler.
+Konya'nın İç Anadolu Bölgesi'nde yer alan Çavuşçuköyü Açık Ilıcası, 140 hektarlık bir alan üzerinde kurulmuştur. Çavuşçuköyü Açık Ilıcası, Konya'nın doğal güzelliklerinin arasında yer almakta ve ziyaretçilere doğayla iç içe bir deneyim sunmaktadır. Burada, ziyaretçiler doğanın tadını çıkarabilir, termal kaynakların şifasından yararlanabilir ve güzel anılar biriktirebilirler.
 
 ## Tarihçe
 

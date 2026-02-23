@@ -28,7 +28,7 @@ wikidata_id: "Q34829146"
 
 # Çimlidağ Tepesi
 
-Gümüşhane'nin görkemli manzarasına ev sahipliği yapan Çimlidağ Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık geniş bir alana sahiptir. Bu bölge, ziyaretçilerini hem doğal güzelliği hem de zengin fauna ve florasıyla etkileyen bir destinasyon. Çimlidağ Tepesi, Karadeniz Bölgesi'nin en önemli doğal miraslarından biri olarak kabul ediliyor. Burada, çeşitli bitki türlerini ve yaban hayatını gözlemleme mümkün.
+ Bu bölge, ziyaretçilerini hem doğal güzelliği hem de zengin fauna ve florasıyla etkileyen bir destinasyon. Çimlidağ Tepesi, Karadeniz Bölgesi'nin en önemli doğal miraslarından biri olarak kabul ediliyor. Burada, çeşitli bitki türlerini ve yaban hayatını gözlemleme mümkün.
 
 ## Tarihçe
 

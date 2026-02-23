@@ -48,9 +48,9 @@ Jeolojik açıdan bakıldığında, Keklik Dağı'nın fiziksel yapısı hakkın
 
 ## Flora ve Fauna
 
-Keklik Dağı, Van'ın yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunar. 
+Keklik Dağı, Van'ın yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunar.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri ve yaban keçileri, kayalık bölgelerde yaşarken, kuşlar göç mevsimlerinde burada konaklar. Sürüngenler ise, sıcak günlerde güneşin altında ısınır. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri ve yaban keçileri, kayalık bölgelerde yaşarken, kuşlar göç mevsimlerinde burada konaklar. Sürüngenler ise, sıcak günlerde güneşin altında ısınır.
 
 Ekolojik açıdan, Keklik Dağı'nın korunması büyük önem taşır. Bu dağ ekosisteminin bozulması, birçok endemik türün yok olmasına neden olabilir. Bu nedenle, bu alanın korunması için çalışmalar yapılmalıdır.
 

@@ -50,11 +50,11 @@ Jeolojik açıdan bakıldığında, Aşağıkarha Mağarası'nın fiziksel yapı
 
 ## Flora ve Fauna
 
-Aşağıkarha Mağarası'nın flora ve fauna bölümü, doğanın eşsiz güzelliğini gözler önüne seriyor. Bu 1200 hektarlık yeşil cennet, yarı kurak iklimin hakim olduğu bir bölgede yer alıyor. İlkbaharın gelmesiyle birlikte, step ve ova ekolojisi çiçeklerle donanıyor. 
+Aşağıkarha Mağarası'nın flora ve fauna bölümü, doğanın eşsiz güzelliğini gözler önüne seriyor. Bu 1200 hektarlık yeşil cennet, yarı kurak iklimin hakim olduğu bir bölgede yer alıyor. İlkbaharın gelmesiyle birlikte, step ve ova ekolojisi çiçeklerle donanıyor.
 
-Bitki örtüsünde hakim türler, mevsimsel değişimlere uyum sağlıyor. Sonbaharda, göç eden kuşlar bu bölgeden geçiş yapıyor. Orman ekosisteminde, çeşitli ağaç türleri ve orman memelileri yaşamını sürdürüyor. 
+Bitki örtüsünde hakim türler, mevsimsel değişimlere uyum sağlıyor. Sonbaharda, göç eden kuşlar bu bölgeden geçiş yapıyor. Orman ekosisteminde, çeşitli ağaç türleri ve orman memelileri yaşamını sürdürüyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Bu canlılar, yaşam alanlarıyla birlikte, ekolojik ilişkilerini vurguluyor. Birbirine bağımlı bu sistem, doğanın dengesini koruyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Bu canlılar, yaşam alanlarıyla birlikte, ekolojik ilişkilerini vurguluyor. Birbirine bağımlı bu sistem, doğanın dengesini koruyor.
 Aşağıkarha Mağarası'nın ekolojik değeri, koruma altına alınmasını gerektiriyor. Bu doğal alanın korunması, gelecek nesiller için önemli bir sorumluluk.
 
 ## Ziyaret Bilgileri

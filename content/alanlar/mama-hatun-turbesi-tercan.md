@@ -1,7 +1,7 @@
 ---
 title: "Mama Hatun Türbesi, Tercan"
 date: "2026-01-10T06:45:13.947Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzincan"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582833"
 
 # Mama Hatun Türbesi, Tercan
 
-Tercan, Erzincan'da yer alan Mama Hatun Türbesi, ziyaretçilerini bekleyen tarihi bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, ziyaretçilerin tarihi bir atmosferde dolaşmasına olanak sağlıyor. Mama Hatun Türbesi, Tercan'ın merkezinde yer alıyor ve ulaşımı oldukça kolay. Tarihi bir yolculuğa çıkmak isteyenler için ideal bir destinasyon. Tercan'ın merkezinde yer alan Mama Hatun Türbesi, ziyaretçilerini bekliyor. Tarihi bir yolculuğa çıkmak isteyenler, buraya gelerek türk tarihinin önemli bir parçasını keşfedebilir.
+Tercan, Erzincan'da yer alan Mama Hatun Türbesi, ziyaretçilerini bekleyen tarihi bir mekan. Bu büyük alan, ziyaretçilerin tarihi bir atmosferde dolaşmasına olanak sağlıyor. Mama Hatun Türbesi, Tercan'ın merkezinde yer alıyor ve ulaşımı oldukça kolay. Tarihi bir yolculuğa çıkmak isteyenler için ideal bir destinasyon. Tercan'ın merkezinde yer alan Mama Hatun Türbesi, ziyaretçilerini bekliyor. Tarihi bir yolculuğa çıkmak isteyenler, buraya gelerek türk tarihinin önemli bir parçasını keşfedebilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Mama Hatun Türbesi, Selçuklu döneminde inşa edilmiş tarihi bir mekan. Terca
 
 ## Coğrafya
 
-Mama Hatun Türbesi, Tercan'ın merkezinde yer alıyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş durumda. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Tercan'ın coğrafi konumu, tarihi bir atmosferi ziyaretçilere sunuyor. Doğu Anadolu Bölgesi'nin önemli bir kısmını oluşturan Tercan, tarihi mekanları ve doğal güzellikleriyle ziyaretçilerini bekliyor. Mama Hatun Türbesi, Tercan'ın merkezinde yer alıyor ve ulaşımı oldukça kolay. Tercan'ın coğrafi konumu, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Doğu Anadolu Bölgesi'nin önemli bir kısmını oluşturan Tercan, tarihi mekanları ve doğal güzellikleriyle ziyaretçilerini bekliyor. Mama Hatun Türbesi, Tercan'ın merkezinde yer alıyor ve türk tarihinin önemli bir parçasını temsil ediyor.
+Mama Hatun Türbesi, Tercan'ın merkezinde yer alıyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş durumda. Tercan'ın coğrafi konumu, tarihi bir atmosferi ziyaretçilere sunuyor. Doğu Anadolu Bölgesi'nin önemli bir kısmını oluşturan Tercan, tarihi mekanları ve doğal güzellikleriyle ziyaretçilerini bekliyor. Mama Hatun Türbesi, Tercan'ın merkezinde yer alıyor ve ulaşımı oldukça kolay. Tercan'ın coğrafi konumu, ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Doğu Anadolu Bölgesi'nin önemli bir kısmını oluşturan Tercan, tarihi mekanları ve doğal güzellikleriyle ziyaretçilerini bekliyor. Mama Hatun Türbesi, Tercan'ın merkezinde yer alıyor ve türk tarihinin önemli bir parçasını temsil ediyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Labraunda Doğu Hamamı"
 date: "2026-01-09T23:11:08.236Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738856"
 
 # Labraunda Doğu Hamamı
 
-Labraunda Doğu Hamamı, Milas ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olan bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilere geniş bir gezi alanı sunar. Bu bölge, tarihi geçmişi ve eşsiz doğal güzelliği ile ziyaretçilerini cezbeder. Doğal güzelliği, tarihi kalıntıları ve etrafındaki yeşilli ile Labraunda Doğu Hamamı, bir gezi için ideal bir destinasyon olarak dikkat çeker.
+Labraunda Doğu Hamamı, Milas ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olan bir alandır. Bu bölge, tarihi geçmişi ve eşsiz doğal güzelliği ile ziyaretçilerini cezbeder. Doğal güzelliği, tarihi kalıntıları ve etrafındaki yeşilli ile Labraunda Doğu Hamamı, bir gezi için ideal bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 

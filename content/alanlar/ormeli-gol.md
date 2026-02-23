@@ -48,11 +48,11 @@ Mevsimsel değişimlerin etkisi altında olan Örmeli Göl, iklim karakteri aç�
 
 ## Flora ve Fauna
 
-Örmeli Göl, Gaziantep'in yarı kurak ikliminin hakim olduğu bölgesinde, step ve ova ekolojisinin bir parçası olarak yer alır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Örmeli Göl, Gaziantep'in yarı kurak ikliminin hakim olduğu bölgesinde, step ve ova ekolojisinin bir parçası olarak yer alır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Gölün etrafındaki bitki örtüsü, mevsimsel değişimlere göre farklılık gösterir. İlkbahar aylarında, sulak alan bitkileri ve otlarla kaplı olan göl çevresi, renkli bir hal alır. Sonbaharın gelmesiyle birlikte, gölün sulak alanları göçmen kuşlar için önemli bir durak noktası haline gelir. 
+Gölün etrafındaki bitki örtüsü, mevsimsel değişimlere göre farklılık gösterir. İlkbahar aylarında, sulak alan bitkileri ve otlarla kaplı olan göl çevresi, renkli bir hal alır. Sonbaharın gelmesiyle birlikte, gölün sulak alanları göçmen kuşlar için önemli bir durak noktası haline gelir.
 
-Yaban hayatı açısından zengin olan Örmeli Göl, çeşitli su kuşları ve balıkların yaşam alanıdır. Gölün suları, birçok balık türünün yuvalanmasına ve üremesine olanak tanır. Ayrıca, göl çevresi memeliler ve sürüngenler için de uygun bir habitat sağlar. 
+Yaban hayatı açısından zengin olan Örmeli Göl, çeşitli su kuşları ve balıkların yaşam alanıdır. Gölün suları, birçok balık türünün yuvalanmasına ve üremesine olanak tanır. Ayrıca, göl çevresi memeliler ve sürüngenler için de uygun bir habitat sağlar.
 
 Ekolojik açıdan önemli olan Örmeli Göl, bölgedeki canlıların yaşam döngüsünde kritik bir role sahiptir. Gölün sulak alanları, birçok canlı için besin ve barınma kaynağı olurken, aynı zamanda bölgenin ekolojik dengesini de korur.
 

@@ -29,7 +29,7 @@ wikidata_id: "Q49321623"
 
 # Kleopatra Plajı
 
-Kleopatra Plajı, Akdeniz'in en güzel plajlarından biri olarak kabul edilir. Antalya'da bulunan bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu plajın en önemli özelliklerinden biri, incecik kumu ve berrak suyuyla ziyaretçilerini cezbeder. Plajda çeşitli su sporları ve aktiviteler yapılabilir. Ayrıca, plaj çevresinde birçok restoran ve kafe bulunur.
+Kleopatra Plajı, Akdeniz'in en güzel plajlarından biri olarak kabul edilir. Bu plajın en önemli özelliklerinden biri, incecik kumu ve berrak suyuyla ziyaretçilerini cezbeder. Plajda çeşitli su sporları ve aktiviteler yapılabilir. Ayrıca, plaj çevresinde birçok restoran ve kafe bulunur.
 
 ## Tarihçe
 

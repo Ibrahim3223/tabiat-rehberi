@@ -22,7 +22,7 @@ wikidata_id: "Q108228706"
 
 # KAHVECİDAĞI
 
-KAHVECİDAĞI, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık genişliğiyle yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, doğa severlerin ve macera arayanların gözdesidir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. KAHVECİDAĞI, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Yüzyıllar boyunca birçok medeniyete ev sahipliği yapan bu bölge, ziyaretçilerine hem doğanın güzelliğini hem de tarihin derinliğini sunuyor.
+KAHVECİDAĞI, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. KAHVECİDAĞI, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Yüzyıllar boyunca birçok medeniyete ev sahipliği yapan bu bölge, ziyaretçilerine hem doğanın güzelliğini hem de tarihin derinliğini sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ KAHVECİDAĞI'nın tarihi geçmişi oldukça zengin. Yüzyıllar boyunca birçok
 
 ## Coğrafya
 
-KAHVECİDAĞI, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biri. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru. KAHVECİDAĞI, aynı zamanda coğrafi olarak da dikkat çekici. Dağlar, vadiler ve ovalar, bu bölgenin doğal güzelliğini artırıyor. Ziyaretçiler, bu bölgeyi gezerken doğal güzelliğin içinde kayboluyor.
+KAHVECİDAĞI, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biri. Burada, çeşitli bitki türleri ve zengin fauna encontrabilir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Kışlar soğuk ve karlı, yazlar ise sıcak ve kuru. KAHVECİDAĞI, aynı zamanda coğrafi olarak da dikkat çekici. Dağlar, vadiler ve ovalar, bu bölgenin doğal güzelliğini artırıyor. Ziyaretçiler, bu bölgeyi gezerken doğal güzelliğin içinde kayboluyor.
 
 ## Flora ve Fauna
 

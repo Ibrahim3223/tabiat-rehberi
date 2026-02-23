@@ -1,7 +1,7 @@
 ---
 title: "Hallac-ı Mansur Türbesi"
 date: "2026-01-10T04:59:14.064Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391518"
 
 # Hallac-ı Mansur Türbesi
 
-Hallac-ı Mansur Türbesi, Çanakkale'nin Gelibolu ilçesinde, Marmara Bölgesi'nin zengin tarihini ve doğal güzelliklerini bir araya getiren özel bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunuyor. Tarihi geçmişiyle ön plana çıkan bu türbe, aynı zamanda çevreleyen doğal güzellikleriyle de dikkat çekiyor. Gelibolu'nun tarihi dokusunu korumak adına önemli bir yere sahip olan Hallac-ı Mansur Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.
+Hallac-ı Mansur Türbesi, Çanakkale'nin Gelibolu ilçesinde, Marmara Bölgesi'nin zengin tarihini ve doğal güzelliklerini bir araya getiren özel bir nokta. Tarihi geçmişiyle ön plana çıkan bu türbe, aynı zamanda çevreleyen doğal güzellikleriyle de dikkat çekiyor. Gelibolu'nun tarihi dokusunu korumak adına önemli bir yere sahip olan Hallac-ı Mansur Türbesi, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.
 
 ## Tarihçe
 

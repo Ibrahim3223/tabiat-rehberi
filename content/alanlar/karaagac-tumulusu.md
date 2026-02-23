@@ -29,7 +29,7 @@ wikidata_id: "Q134728387"
 
 # Karaağaç Tümülüsü
 
-Karaağaç Tümülüsü, Marmara Bölgesi'nin Bozüyük ilçesinde yer alan bir tarihî eserdir. Bu önemli kültürel miras, bölgenin zengin tarihini yansıtmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihin derinliklerine götürmektedir. Karaağaç Tümülüsü, aynı zamanda bölgenin coğrafi yapısını da yansıtmaktadır. Tümülüsün etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile karşılaşma mümkündür. Karaağaç Tümülüsü, ziyaretçilerine tarihî bir gezi deneyimi sunmaktadır.
+Karaağaç Tümülüsü, Marmara Bölgesi'nin Bozüyük ilçesinde yer alan bir tarihî eserdir. Bu önemli kültürel miras, bölgenin zengin tarihini yansıtmaktadır. Karaağaç Tümülüsü, aynı zamanda bölgenin coğrafi yapısını da yansıtmaktadır. Tümülüsün etrafı, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile karşılaşma mümkündür. Karaağaç Tümülüsü, ziyaretçilerine tarihî bir gezi deneyimi sunmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karaağaç Tümülüsü, tarihî geçmişi ile önemli bir kültürel değerdir.
 
 ## Coğrafya
 
-Karaağaç Tümülüsü, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgededir. Bu tümülüs, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, çeşitli bitki türleri ile kaplıdır. Bölgenin iklimi, tümülüsün çevresindeki bitki türlerinin çeşitliliğini etkilemektedir. Karaağaç Tümülüsü, zengin fauna ile karşılaşma mümkündür ve ziyaretçilerine doğal bir ortam sunmaktadır. Tümülüsün coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunmaktadır. Karaağaç Tümülüsü, Marmara Bölgesi'nin coğrafi zenginliğini yansıtan bir bölgededir.
+Karaağaç Tümülüsü, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgededir. Bölgenin iklimi, tümülüsün çevresindeki bitki türlerinin çeşitliliğini etkilemektedir. Karaağaç Tümülüsü, zengin fauna ile karşılaşma mümkündür ve ziyaretçilerine doğal bir ortam sunmaktadır. Tümülüsün coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunmaktadır. Karaağaç Tümülüsü, Marmara Bölgesi'nin coğrafi zenginliğini yansıtan bir bölgededir.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Karaağaç Tümülüsü, çeşitli bitki türleri ile kaplıdır ve zengin fauna
 
 ## Ziyaret Bilgileri
 
-Karaağaç Tümülüsünü ziyaret etmek, tarihî ve kültürel bir gezi deneyimi sunmaktadır. Ziyaretçiler, tümülüsün tarihî geçmişi hakkında bilgi sahibi olabilir ve doğal güzelliklerini keşfedebilir. Karaağaç Tümülüsüne ulaşım, bölgenin ulaşım olanakları ile kolayca sağlanabilir. Ziyaretçiler, tümülüsün çevresindeki restoran ve kafelere de uğrayabilirler. Karaağaç Tümülüsünü ziyaret etmek, ziyaretçilerine unutulmaz bir deneyim sunmaktadır.
+Karaağaç Tümülüsünü ziyaret etmek, tarihî ve kültürel bir gezi deneyimi sunmaktadır. Ziyaretçiler, tümülüsün tarihî geçmişi hakkında bilgi sahibi olabilir ve doğal güzelliklerini keşfedebilir. Karaağaç Tümülüsüne ulaşım, bölgenin ulaşım olanakları ile kolayca sağlanabilir. Ziyaretçiler, tümülüsün çevresindeki restoran ve kafelere de uğrayabilirler.
 
 ## İlginç Bilgiler
 
 - Karaağaç Tümülüsü, Marmara Bölgesi'nin en önemli tarihî eserlerinden biridir.
-- Tümülüs, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Karaağaç Tümülüsü, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile karşılaşma mümkündür.
 - Tümülüs, ziyaretçilerine tarihî ve kültürel bir gezi deneyimi sunmaktadır.
-- Karaağaç Tümülüsünü ziyaret etmek, ziyaretçilerine unutulmaz bir deneyim sunmaktadır.
+

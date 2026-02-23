@@ -28,7 +28,7 @@ wikidata_id: "Q31390601"
 
 # Karamehmet Tepesi
 
-Karamehmet Tepesi, Nevşehir ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Karamehmet Tepesi, bölgenin doğal güzellikleri ve tarihi değerleri açısından önemli bir noktadır. Tepenin etrafında yer alan köyler ve kasabalar, bölgenin kültürel zenginliğini yansıtır. Karamehmet Tepesi, aynı zamanda bölgede yaşayan çeşitli bitki ve hayvan türleri için önemli bir yaşam alanıdır. Tepenin yüksekliği ve coğrafi konumu, bölgenin iklimini etkiler ve farklı mevsimlerde farklı hava koşulları oluşmasına neden olur.
+Karamehmet Tepesi, Nevşehir ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan bir tepedir. Karamehmet Tepesi, bölgenin doğal güzellikleri ve tarihi değerleri açısından önemli bir noktadır. Tepenin etrafında yer alan köyler ve kasabalar, bölgenin kültürel zenginliğini yansıtır. Karamehmet Tepesi, aynı zamanda bölgede yaşayan çeşitli bitki ve hayvan türleri için önemli bir yaşam alanıdır. Tepenin yüksekliği ve coğrafi konumu, bölgenin iklimini etkiler ve farklı mevsimlerde farklı hava koşulları oluşmasına neden olur.
 
 ## Tarihçe
 

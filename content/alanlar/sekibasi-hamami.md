@@ -1,7 +1,7 @@
 ---
 title: "Sekibaşı Hamamı"
 date: "2026-01-09T23:04:10.322Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738809"
 
 # Sekibaşı Hamamı
 
-Sekibaşı Hamamı, Muğla'nın Menteşe ilçesinde yer alan ve doğal güzellikleri ile dikkat çeken bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir. Sekibaşı Hamamı, hem yerli hem de yabancı turistlerin ilgisini çeken bir destinasyon olup, ziyaretçilerini tarihi geçmişi ve güzellikleri ile büyüler. Bu bölge, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
+Sekibaşı Hamamı, Muğla'nın Menteşe ilçesinde yer alan ve doğal güzellikleri ile dikkat çeken bir plajdır. Sekibaşı Hamamı, hem yerli hem de yabancı turistlerin ilgisini çeken bir destinasyon olup, ziyaretçilerini tarihi geçmişi ve güzellikleri ile büyüler. Bu bölge, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sekibaşı Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bö
 
 ## Coğrafya
 
-Sekibaşı Hamamı, Muğla'nın Menteşe ilçesinde yer alır ve Ege Bölgesi'nin en güzel plajlarından biridir. Bu bölge, 140 hektarlık bir yeşil alan üzerine kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Sekibaşı Hamamı, deniz, kum ve güneşin bir araya geldiği mükemmel bir doğa harikasıdır. Bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli doğa aktiviteleri sunar. Sekibaşı Hamamı'nın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir. Yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçer. Bu bölgenin coğrafi konumu, ziyaretçilerine birçok gezme ve görme fırsatı sunar.
+Sekibaşı Hamamı, Muğla'nın Menteşe ilçesinde yer alır ve Ege Bölgesi'nin en güzel plajlarından biridir. Sekibaşı Hamamı, deniz, kum ve güneşin bir araya geldiği mükemmel bir doğa harikasıdır. Bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli doğa aktiviteleri sunar. Sekibaşı Hamamı'nın iklimi, Ege Bölgesi'nin tipik Akdeniz iklimine sahiptir. Yaz ayları sıcak ve kurak, kış ayları ılık ve yağışlı geçer. Bu bölgenin coğrafi konumu, ziyaretçilerine birçok gezme ve görme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Sekibaşı Hamamı, zengin bir flora ve fauna çeşitliliğine sahiptir. Bu böl
 
 ## Ziyaret Bilgileri
 
-Sekibaşı Hamamı, ziyaretçiler için birçok aktivite sunar. Bu bölgede, plajda güneşlenmek, denizde yüzmek, doğa yürüyüşleri yapma ve tarihi yerleri gezmek gibi aktiviteler yapılabilir. Sekibaşı Hamamı, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Bu bölgede, ziyaretçilerin birçok gezi ve aktivite seçeneği bulunur. Sekibaşı Hamamı, ziyaretçilerine unutulmaz bir gezi deneyimi sunar.
+Sekibaşı Hamamı, ziyaretçiler için birçok aktivite sunar. Bu bölgede, plajda güneşlenmek, denizde yüzmek, doğa yürüyüşleri yapma ve tarihi yerleri gezmek gibi aktiviteler yapılabilir. Sekibaşı Hamamı, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Bu bölgede, ziyaretçilerin birçok gezi ve aktivite seçeneği bulunur.
 
 ## İlginç Bilgiler
 

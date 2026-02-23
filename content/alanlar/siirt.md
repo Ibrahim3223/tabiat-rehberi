@@ -23,7 +23,7 @@ wikidata_id: "Q108228710"
 
 # SİİRT
 
-SİİRT, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal cennettir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu büyüleyici mekanda, doğanın güzelliğini ve çeşitliliğini keşfetme mümkün. SİİRT, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul ediliyor. Bu alanda, zengin flora ve fauna çeşitliliğiyle birlikte, ziyaretçiler doğanın mucizelerini keşfedebilirler.
+SİİRT, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal cennettir. Bu büyüleyici mekanda, doğanın güzelliğini ve çeşitliliğini keşfetme mümkün. SİİRT, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul ediliyor. Bu alanda, zengin flora ve fauna çeşitliliğiyle birlikte, ziyaretçiler doğanın mucizelerini keşfedebilirler.
 
 ## Tarihçe
 

@@ -30,7 +30,7 @@ wikidata_id: "Q134728223"
 
 # Kaunos Kaya Mezarları
 
-Kaunos Kaya Mezarları, Ege Bölgesi'nin Muğla ilinin Köyceğiz ilçesinde yer alan bir tarihi ve doğal güzellik bölgesidir. Bu bölge, tarihi geçmişi ve eşsiz doğal güzellikleriyle ziyaretçilerini büyülüyor. 140 hektarlık bir alanda yer alan Kaunos Kaya Mezarları, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Burada, tarihi kaya mezarları ve çevresindeki doğal güzellikleri keşfetme mümkün. Bu bölge, hem tarih severler hem de doğaşığı olanlar için ideal bir gezi noktası.
+Kaunos Kaya Mezarları, Ege Bölgesi'nin Muğla ilinin Köyceğiz ilçesinde yer alan bir tarihi ve doğal güzellik bölgesidir. Bu bölge, tarihi geçmişi ve eşsiz doğal güzellikleriyle ziyaretçilerini büyülüyor. Burada, tarihi kaya mezarları ve çevresindeki doğal güzellikleri keşfetme mümkün. Bu bölge, hem tarih severler hem de doğaşığı olanlar için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kaunos Kaya Mezarları, tarihi geçmişiyle dikkat çekiyor. Bu bölge, yüzyıl
 
 ## Coğrafya
 
-Kaunos Kaya Mezarları, Ege Bölgesi'nin Muğla ilinin Köyceğiz ilçesinde yer alıyor. Bu bölge, dağların ve ovaların birleştiği bir alanda bulunuyor. Kaunos Kaya Mezarları, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölgenin coğrafi konumu, ziyaretçilere farklı doğal güzellikleri keşfetme imkanı sunuyor. Kaunos Kaya Mezarları, deniz seviyesinden yüksek bir noktada yer alıyor ve bu nedenle, ziyaretçilere geniş bir görüş açısı sunuyor. Bu bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilere yıl boyunca güzel bir hava sunuyor. Kaunos Kaya Mezarları, çevresindeki doğal güzellikleriyle ziyaretçilerini çekiyor.
+Kaunos Kaya Mezarları, Ege Bölgesi'nin Muğla ilinin Köyceğiz ilçesinde yer alıyor. Bu bölge, dağların ve ovaların birleştiği bir alanda bulunuyor. Bu bölgenin coğrafi konumu, ziyaretçilere farklı doğal güzellikleri keşfetme imkanı sunuyor. Kaunos Kaya Mezarları, deniz seviyesinden yüksek bir noktada yer alıyor ve bu nedenle, ziyaretçilere geniş bir görüş açısı sunuyor. Bu bölgenin iklimi, genel olarak Akdeniz iklimi özellikleri gösteriyor ve ziyaretçilere yıl boyunca güzel bir hava sunuyor. Kaunos Kaya Mezarları, çevresindeki doğal güzellikleriyle ziyaretçilerini çekiyor.
 
 ## Flora ve Fauna
 

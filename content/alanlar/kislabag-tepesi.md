@@ -28,7 +28,7 @@ wikidata_id: "Q31390083"
 
 # Kışlabağ Tepesi
 
-Kışlabağ Tepesi, Kırıkkale'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Doğal güzelliği ve tarihi geçmişiyle ziyaretçilerini cezbeden Kışlabağ Tepesi, aynı zamanda bölgede önemli bir turizm merkezi olarak da görev yapıyor. Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu durum, burayı doğa severler için bir cennet haline getiriyor. Kışlabağ Tepesi, ziyaretçilerine aynı zamanda zengin bir fauna sunuyor. Burada, birçok farklı hayvan türü yaşadığı için, burası doğa belgeselleri için ideal bir mekan olarak düşünülebilir.
+Kışlabağ Tepesi, Kırıkkale'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Doğal güzelliği ve tarihi geçmişiyle ziyaretçilerini cezbeden Kışlabağ Tepesi, aynı zamanda bölgede önemli bir turizm merkezi olarak da görev yapıyor. Tepenin etrafı, çeşitli bitki türleriyle dolu ve bu durum, burayı doğa severler için bir cennet haline getiriyor. Kışlabağ Tepesi, ziyaretçilerine aynı zamanda zengin bir fauna sunuyor. Burada, birçok farklı hayvan türü yaşadığı için, burası doğa belgeselleri için ideal bir mekan olarak düşünülebilir.
 
 ## Tarihçe
 

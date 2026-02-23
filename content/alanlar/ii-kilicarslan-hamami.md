@@ -1,7 +1,7 @@
 ---
 title: "II. Kılıçarslan Hamamı"
 date: "2026-01-09T23:05:35.371Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738899"
 
 # II. Kılıçarslan Hamamı
 
-II. Kılıçarslan Hamamı, Aksaray ilinin merkezinde bulunan ve Selçuklu Dönemi'ne ait tarihi bir hamamdır. Bu hamam, 1156 yılında II. Kılıçarslan tarafından yaptırılmıştır. 140 hektarlık bir alan üzerinde yer alan hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Hamamın tarihi ve kültürel önemi, ziyaretçilerin ilgisini çekmektedir. Ziyaretçiler, hamamın tarihi atmosferini hissedebilir ve Selçuklu Dönemi'nin mimari örneklerini görebilir.
+II. Kılıçarslan Hamamı, Aksaray ilinin merkezinde bulunan ve Selçuklu Dönemi'ne ait tarihi bir hamamdır. Bu hamam, 1156 yılında II. Kılıçarslan tarafından yaptırılmıştır. Hamamın tarihi ve kültürel önemi, ziyaretçilerin ilgisini çekmektedir. Ziyaretçiler, hamamın tarihi atmosferini hissedebilir ve Selçuklu Dönemi'nin mimari örneklerini görebilir.
 
 ## Tarihçe
 

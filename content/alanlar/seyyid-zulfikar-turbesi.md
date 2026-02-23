@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Zülfikar Türbesi"
 date: "2026-01-10T06:39:21.682Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q134734800"
 
 # Seyyid Zülfikar Türbesi
 
-Seyyid Zülfikar Türbesi, Kastamonu'nun Seydiler ilçesinde yer alan bir tarihi turbe ve plaj olarak dikkat çekiyor. Bu bölge, 140 hektarlık geniş bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Tarihi geçmişi ile dikkat çeken Seyyid Zülfikar Türbesi, Karadeniz Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor. Bölge, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir arada sunuyor.
+Seyyid Zülfikar Türbesi, Kastamonu'nun Seydiler ilçesinde yer alan bir tarihi turbe ve plaj olarak dikkat çekiyor. Tarihi geçmişi ile dikkat çeken Seyyid Zülfikar Türbesi, Karadeniz Bölgesi'nin önemli turizm noktalarından biri olarak kabul ediliyor. Bölge, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir arada sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Seyyid Zülfikar Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Seyyid Zülfikar Türbesi, Kastamonu'nun Seydiler ilçesinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Bu bölge, 140 hektarlık geniş bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Turbe ve çevresindeki plaj, Karadeniz'in güzel kıyı şeridini sunuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Seyyid Zülfikar Türbesi, ziyaretçiler için hem doğal güzellikleri hem de tarihi bir turbe deneyimleyebilirı sunuyor. Bölgenin iklimi, Karadeniz Bölgesi'nin tipik iklimine uygun olarak yağışlı ve nemli bir yapıya sahip.
+Seyyid Zülfikar Türbesi, Kastamonu'nun Seydiler ilçesinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Turbe ve çevresindeki plaj, Karadeniz'in güzel kıyı şeridini sunuyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Seyyid Zülfikar Türbesi, ziyaretçiler için hem doğal güzellikleri hem de tarihi bir turbe deneyimleyebilirı sunuyor. Bölgenin iklimi, Karadeniz Bölgesi'nin tipik iklimine uygun olarak yağışlı ve nemli bir yapıya sahip.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Karanlık Evliya Türbesi"
 date: "2026-01-10T06:03:00.546Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390533"
 
 # Karanlık Evliya Türbesi
 
-Karanlık Evliya Türbesi, Kastamonu ilinin merkezinde yer alan bir plaj ve tarihi mekan. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Kastamonu ilinin turizm açısından önemli noktalarından biri olan Karanlık Evliya Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bu mekan, ziyaretçilerine hem dinlenme hem de gezi imkanı sunuyor. Karanlık Evliya Türbesi, Kastamonu ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor.
+Karanlık Evliya Türbesi, Kastamonu ilinin merkezinde yer alan bir plaj ve tarihi mekan. Kastamonu ilinin turizm açısından önemli noktalarından biri olan Karanlık Evliya Türbesi, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bu mekan, ziyaretçilerine hem dinlenme hem de gezi imkanı sunuyor. Karanlık Evliya Türbesi, Kastamonu ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karanlık Evliya Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu mekan, yüzy
 
 ## Coğrafya
 
-Karanlık Evliya Türbesi, Kastamonu ilinin merkezinde yer alıyor. Bu mekan, Karadeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Karanlık Evliya Türbesi, 140 hektarlık bir yeşil alan üzerinde yer alıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Karanlık Evliya Türbesi, Kastamonu ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu mekan, ziyaretçilerine hem dinlenme hem de gezi imkanı sunuyor. Karanlık Evliya Türbesi, coğrafi açıdan önemli bir noktada yer alıyor. Bu mekan, Karadeniz Bölgesi'nin doğal güzellikleri ile dikkat çekiyor.
+Karanlık Evliya Türbesi, Kastamonu ilinin merkezinde yer alıyor. Bu mekan, Karadeniz Bölgesi'nin coğrafi özellikleri ile dikkat çekiyor. Karanlık Evliya Türbesi, 140 hektarlık bir yeşil alan üzerinde yer alıyor. Karanlık Evliya Türbesi, Kastamonu ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu mekan, ziyaretçilerine hem dinlenme hem de gezi imkanı sunuyor. Karanlık Evliya Türbesi, coğrafi açıdan önemli bir noktada yer alıyor. Bu mekan, Karadeniz Bölgesi'nin doğal güzellikleri ile dikkat çekiyor.
 
 ## Flora ve Fauna
 

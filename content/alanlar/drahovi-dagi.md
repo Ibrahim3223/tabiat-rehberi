@@ -32,7 +32,7 @@ Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir dest
 
 ## Tarihçe
 
-Drahovi Dağı, Türkiye'nin zengin doğal mirasının önemli bir parçasını oluşturur. Bu bölge, tarihin sâu sayfalarında kaybolmuş uygarlıkların izlerini taşır. İç Anadolu Bölgesi'nde yer alan Drahovi Dağı, tarih boyunca çeşitli medeniyetlerin geçiş noktası olmuştur. Hitit, Roma ve Osmanlı gibi uygarlıkların izleri, bu topraklarda masih bugün görülebilir.
+Drahovi Dağı, Türkiye'nin zengin doğal mirasının önemli bir parçasını oluşturur. Bu bölge, tarihin derin sayfalarında kaybolmuş uygarlıkların izlerini taşır. İç Anadolu Bölgesi'nde yer alan Drahovi Dağı, tarih boyunca çeşitli medeniyetlerin geçiş noktası olmuştur. Hitit, Roma ve Osmanlı gibi uygarlıkların izleri, bu topraklarda masih bugün görülebilir.
 
 Doğal güzelliği ve stratejik konumuyla, Drahovi Dağı, insanların yaşamına her daim yön vermiştir. Yaylacılık ve hayvancılık, bu bölgede yaşayan halkların geleneksel uğraşlarından biri olmuş, dağların yeşilliklerinde hayvanlar otlatılmış, yaylalarda yaz mevsimi geçirilmiştir. Ayrıca, tarihi ticaret yolları da bu bölgeyi geçerek, farklı kültürlerin karşılaşmasına ve etkileşimine yol açmıştır.
 

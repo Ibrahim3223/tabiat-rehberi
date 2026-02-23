@@ -1,7 +1,7 @@
 ---
 title: "Elazig-Mardin-Mardin Fidanligi Fistik Cami"
 date: "2026-01-09T19:05:54.275Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228003"
 
 # Elazig-Mardin-Mardin Fidanligi Fistik Cami
 
-Elazig-Mardin-Mardin Fidanligi Fistik Cami, İç Anadolu Bölgesi'nin önemli turizm noktalarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile büyüler. Mardin'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu mekan, hem doğa severler hem de tarih meraklıları için unutulmaz bir deneyim sunar.
+Elazig-Mardin-Mardin Fidanligi Fistik Cami, İç Anadolu Bölgesi'nin önemli turizm noktalarından biridir. Mardin'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu mekan, hem doğa severler hem de tarih meraklıları için unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

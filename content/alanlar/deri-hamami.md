@@ -1,7 +1,7 @@
 ---
 title: "Deri Hamamı"
 date: "2026-01-09T23:14:57.055Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çorum"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739016"
 
 # Deri Hamamı
 
-Deri Hamamı, İskilip'in en güzel plajlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en güzel kumsallarından birine sahiptir. Bu doğal güzellik, her yıl binlerce turisti çekmektedir. Deri Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyondur. Burada, deniz suyu ve kumsalın güzelliği, ziyaretçilere unutulmaz bir deneyim sunar.
+Deri Hamamı, İskilip'in en güzel plajlarından biridir. Bu doğal güzellik, her yıl binlerce turisti çekmektedir. Deri Hamamı, denizin ve güneşin keyfini çıkarmak isteyenler için ideal bir destinasyondur. Burada, deniz suyu ve kumsalın güzelliği, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Deri Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu bö
 
 ## Coğrafya
 
-Deri Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu plaj, İskilip'in merkezine uzun bir mesafe uzaklıktadır. Deri Hamamı, 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en güzel kumsallarından birine sahiptir. Deri Hamamı'nın deniz suyu, m ve berrak bir yapıya sahiptir. Bu plaj, deniz suyu ve kumsalın güzelliği ile birlikte, ziyaretçilere unutulmaz bir deneyim sunar. Deri Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu plaj, her yıl binlerce turisti çekerek, İskilip'in turizm gelirlerine katkıda bulunmaktadır.
+Deri Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. Bu plaj, İskilip'in merkezine uzun bir mesafe uzaklıktadır. Deri Hamamı, 140 hektarlık bir alanı kaplamaktadır. Deri Hamamı'nın deniz suyu, m ve berrak bir yapıya sahiptir. Bu plaj, deniz suyu ve kumsalın güzelliği ile birlikte, ziyaretçilere unutulmaz bir deneyim sunar. Deri Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu plaj, her yıl binlerce turisti çekerek, İskilip'in turizm gelirlerine katkıda bulunmaktadır.
 
 ## Flora ve Fauna
 

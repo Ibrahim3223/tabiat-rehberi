@@ -22,7 +22,7 @@ wikidata_id: "Q108226044"
 
 # Nemrut Yanardağ Krater Gölü Sit Alanı
 
-Nemrut Yanardağ Krater Gölü Sit Alanı, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi konumu itibariyle benzersiz bir doğal güzelliğe sahip. Krater gölü, yanardağın patlamasıyla oluşmuş ve çevresindeki dağlarla birlikte bir bütün halinde görsel bir şölen sunuyor. Bu alan, hem doğa severler hem de coğrafya meraklıları için bulunmaz bir fırsat sunuyor.
+Nemrut Yanardağ Krater Gölü Sit Alanı, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Krater gölü, yanardağın patlamasıyla oluşmuş ve çevresindeki dağlarla birlikte bir bütün halinde görsel bir şölen sunuyor. Bu alan, hem doğa severler hem de coğrafya meraklıları için bulunmaz bir fırsat sunuyor.
 
 ## Tarihçe
 

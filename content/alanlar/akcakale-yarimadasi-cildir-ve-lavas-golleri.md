@@ -22,7 +22,7 @@ wikidata_id: "Q108228882"
 
 # AKÇAKALE YARIMADASI ÇILDIR VE LAVAŞ GÖLLERİ
 
-İç Anadolu Bölgesi'nin geniş ve verimli ovaları arasında, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, Akçakale Yarımadası Çıldır ve Lavaş Gölleri doğal güzelliği ile ön plana çıkıyor. Bu güzel bölge, ziyaretçilerini doğanın kucağına davet ediyor. Çıldır Gölü ve Lavaş Gölü, iki önemli su kaynağı olarak, hem yöre halkı hem de doğa severler için önemli bir çekim merkezi oluşturuyor. Bu doğal güzellikler, bölgenin turizm potansiyelini artırıyor ve ziyaretçilere unutulmaz anlar yaşatıyor.
+ Bu güzel bölge, ziyaretçilerini doğanın kucağına davet ediyor. Çıldır Gölü ve Lavaş Gölü, iki önemli su kaynağı olarak, hem yöre halkı hem de doğa severler için önemli bir çekim merkezi oluşturuyor. Bu doğal güzellikler, bölgenin turizm potansiyelini artırıyor ve ziyaretçilere unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 

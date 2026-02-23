@@ -30,8 +30,8 @@ wikidata_id: "Q52636"
 
 # Minorka
 
-İspanya'nın doğu kıyılarında, Balearic Islands adlı takımadaların bir parçası olan Minorka adası, Akdeniz'in sakin ve güneşli bir köşesini oluşturuyor. Bu ada, İspanya'nın bir bölgesidir. Minorka, Türkiye'nin de yakınında bulunuyor. 
-Minorka adası, ziyaretçilerini cezbetmeye devam ediyor. 
+İspanya'nın doğu kıyılarında, Balearic Islands adlı takımadaların bir parçası olan Minorka adası, Akdeniz'in sakin ve güneşli bir köşesini oluşturuyor. Bu ada, İspanya'nın bir bölgesidir. Minorka, Türkiye'nin de yakınında bulunuyor.
+Minorka adası, ziyaretçilerini cezbetmeye devam ediyor.
 Adanın güzelliği, ziyaretçilerini büyülüyor.
 
 ## Tarihçe
@@ -56,7 +56,7 @@ Minorka, komşu adalar ve anakara ile çevresel açıdan bağlantılı bir bölg
 
 Minorka Adası, İspanya'nın doğu kıyılarında yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, step bitki örtüsü ve bozkır türleriyle karakterizedir. İlkbaharın gelmesiyle birlikte, ada çiçeklerle dolar ve renkli bir manzara sunar. Sonbaharda ise, göç eden deniz kuşları adaya gelir ve burada konaklar.
 
-Ada, kuraklığa adapte olmuş türlerle dolu bir yaşam alanıdır. Kıyı şeridinde, tuzlu suya dayanıklı bitkiler bulunur. Bu bitkiler, ada ekosisteminin önemli bir parçasını oluşturur ve diğer canlıların yaşamsal faaliyetlerine katkıda bulunur. 
+Ada, kuraklığa adapte olmuş türlerle dolu bir yaşam alanıdır. Kıyı şeridinde, tuzlu suya dayanıklı bitkiler bulunur. Bu bitkiler, ada ekosisteminin önemli bir parçasını oluşturur ve diğer canlıların yaşamsal faaliyetlerine katkıda bulunur.
 
 Ada, çeşitli yaban hayatına ev sahipliği yapar. Memeliler, kuşlar ve sürüngenler, adanın ekolojik dengesini korur. Deniz kuşları, adanın kıyı şeridini mesken tutar ve burada yuvalanır. Bu canlılar, adanın ekolojik değerini artırır ve koruma altına alınmasına katkıda bulunur.
 

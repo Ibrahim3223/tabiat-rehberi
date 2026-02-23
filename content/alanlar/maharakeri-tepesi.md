@@ -28,7 +28,7 @@ wikidata_id: "Q31547267"
 
 # Maharakeri Tepesi
 
-Maharakeri Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve bölgenin doğal güzelliklerine ev sahipliği yapan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Maharakeri Tepesi, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekiyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa belgeseli tadında bir gezi noktası haline getiriyor.
+Maharakeri Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve bölgenin doğal güzelliklerine ev sahipliği yapan bir tepe. Maharakeri Tepesi, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekiyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa belgeseli tadında bir gezi noktası haline getiriyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Maharakeri Tepesi, flora ve fauna açısından zengin bir bölge. Tepenin etekle
 
 ## Ziyaret Bilgileri
 
-Maharakeri Tepesi'ni ziyaret etmek, doğa ve tarih severler için unutulmaz bir deneyim olacak. Tepenin güzelliği ve tarihi zenginliği, ziyaretçileri etkileyecek. Maharakeri Tepesi'ne nasıl gidileceği hakkında bilgi almak, ziyaret öncesinde önemli. Tepenin çevresinde, ziyaretçilere hizmet veren tesisler bulunması, konaklama ve yemek gibi ihtiyaçların karşılanmasını kolaylaştırıyor. Maharakeri Tepesi, ziyaretçilerine unutulmaz anlar yaşatmaya hazır.
+Maharakeri Tepesi'ni ziyaret etmek, doğa ve tarih severler için unutulmaz bir deneyim olacak. Tepenin güzelliği ve tarihi zenginliği, ziyaretçileri etkileyecek. Maharakeri Tepesi'ne nasıl gidileceği hakkında bilgi almak, ziyaret öncesinde önemli. Tepenin çevresinde, ziyaretçilere hizmet veren tesisler bulunması, konaklama ve yemek gibi ihtiyaçların karşılanmasını kolaylaştırıyor.
 
 ## İlginç Bilgiler
 

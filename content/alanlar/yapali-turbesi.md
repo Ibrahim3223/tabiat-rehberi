@@ -1,7 +1,7 @@
 ---
 title: "Yapalı Türbesi"
 date: "2026-01-10T05:39:42.943Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582356"
 
 # Yapalı Türbesi
 
-Yapalı Türbesi, Konya'nın Cihanbeyli ilçesinde bulunuyor. Bu bölge, tarihi ve doğal güzelliği ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Burada bulunan türbe, tarihi geçmişi ile önemli bir kültürel miras olarak kabul ediliyor. Yapalı Türbesi, ziyaretçiler için bir gezi ve öğrenme kaynağı olarak hizmet veriyor. Burada, tarihi ve kültürel değerleri hakkında bilgi sahibi olma mümkün.
+Yapalı Türbesi, Konya'nın Cihanbeyli ilçesinde bulunuyor. Bu bölge, tarihi ve doğal güzelliği ile dikkat çekiyor. Yapalı Türbesi, ziyaretçiler için bir gezi ve öğrenme kaynağı olarak hizmet veriyor. Burada, tarihi ve kültürel değerleri hakkında bilgi sahibi olma mümkün.
 
 ## Tarihçe
 

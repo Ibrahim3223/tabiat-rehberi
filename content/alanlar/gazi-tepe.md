@@ -33,9 +33,9 @@ Diyarbakır'ın zengin tarihi ve kültürel mirasına ev sahipliği yapan coğra
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin derinliklerinden gelen zengin bir kültürel mirasa ev sahipliği yapar. İnsanlık tarihinin önemli merkezlerinden biri olan bu bölge, birçok uygarlığın izlerini taşır. Gazi Tepe, bu tarihi coğrafyanın bir parçası olarak, binlerce yıllık bir geçmişe tanıklık eder. 
+Diyarbakır bölgesi, tarihin derinliklerinden gelen zengin bir kültürel mirasa ev sahipliği yapar. İnsanlık tarihinin önemli merkezlerinden biri olan bu bölge, birçok uygarlığın izlerini taşır. Gazi Tepe, bu tarihi coğrafyanın bir parçası olarak, binlerce yıllık bir geçmişe tanıklık eder.
 
-Bölge, Hititlerden başlayarak, Roma ve Bizans dönemlerine uzanan geniş bir zaman diliminde, çeşitli medeniyetlerin hükümranlığına sahne olmuştur. Diyarbakır'ın stratejik konumu, tarihsel ticaret yollarının kesişme noktasında bulunması, bu bölgenin önemini artırmıştır. 
+Bölge, Hititlerden başlayarak, Roma ve Bizans dönemlerine uzanan geniş bir zaman diliminde, çeşitli medeniyetlerin hükümranlığına sahne olmuştur. Diyarbakır'ın stratejik konumu, tarihsel ticaret yollarının kesişme noktasında bulunması, bu bölgenin önemini artırmıştır.
 
 Doğal güzellikleri ve verimli topraklarıyla, Gazi Tepe ve çevresindeki alanlar, yaylacılık ve hayvancılık için elverişli bir ortam sunar. Bu tür doğal alanlar, Türkiye'nin tarih boyunca kültürel ve ekonomik gelişiminde önemli bir rol oynamıştır. İnsanların bu alanlarla ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı kalmaz, aynı zamanda sosyal ve kültürel bir boyut kazanır. Gazi Tepe, bu bağlamda, bölgenin tarihi ve kültürel dokusunun önemli bir parçasını oluşturur.
 

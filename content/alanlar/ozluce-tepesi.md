@@ -28,7 +28,7 @@ wikidata_id: "Q34829849"
 
 # Özlüce Tepesi
 
-Özlüce Tepesi, Erzurum'un doğa güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türünü barındırmaktadır. Özlüce Tepesi, özellikle doğa yürüyüşleri ve manzara seyir noktaları ile ziyaretçilerini cezbeden bir bölgedir. Tepenin etrafında bulunan çeşitli köyler ve yerleşim yerleri, ziyaretçilere yöresel kültürü keşfetme fırsatı sunmaktadır. Özlüce Tepesi, Erzurum'un tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini de keşfetmek isteyenler için önemli bir gezi noktasıdır.
+Özlüce Tepesi, Erzurum'un doğa güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Özlüce Tepesi, özellikle doğa yürüyüşleri ve manzara seyir noktaları ile ziyaretçilerini cezbeden bir bölgedir. Özlüce Tepesi, Erzurum'un tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini de keşfetmek isteyenler için önemli bir gezi noktasıdır.
 
 ## Tarihçe
 

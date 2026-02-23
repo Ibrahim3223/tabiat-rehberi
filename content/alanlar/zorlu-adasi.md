@@ -28,7 +28,7 @@ wikidata_id: "Q34788962"
 
 # Zorlu Adası
 
-Çanakkale'nin tarihi ve doğal güzellikleriyle ünlü sahillerinde yer alan Zorlu Adası, ziyaretçilerini cezbeden bir destinasyon. Bu küçük ada, Çanakkale ilinin zengin kültürel mirasının bir parçası olarak dikkat çekiyor. Çanakkale'nin turistik yerleri arasında önemli bir konumda bulunan Zorlu Adası, bölgenin doğal ve tarihi güzelliklerini keşfetmek isteyenler için bir çekim merkezi. Çanakkale'nin eşsiz manzaralarına ev sahipliği yapan bu ada, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Çanakkale'nin tarihi ve doğal güzellikleriyle ünlü sahillerinde yer alan Zorlu Adası, ziyaretçilerini cezbeden bir destinasyon. Bu küçük ada, Çanakkale ilinin zengin kültürel mirasının bir parçası olarak dikkat çekiyor. Çanakkale'nin turistik yerleri arasında önemli bir konumda bulunan Zorlu Adası, bölgenin doğal ve tarihi güzelliklerini keşfetmek isteyenler için bir çekim merkezi.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Van'ın dağlık arazisinde, Gevri Mahin Dağı, ziyaretçilerini doğanın güz
 
 ## Tarihçe
 
-Gevri Mahin Dağı, Van'ın zengin tarihi coğrafyasında yer alır. Bu bölge, tarihin sâu sayfalarında Urartular, Medler, Persler ve Osmanlılar gibi uygarlıkların izlerini taşır. Van Gölü'nün çevresinde kurulmuş olan bu yerleşim yerleri, ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir stratejik konumda yer almıştır.
+Gevri Mahin Dağı, Van'ın zengin tarihi coğrafyasında yer alır. Bu bölge, tarihin derin sayfalarında Urartular, Medler, Persler ve Osmanlılar gibi uygarlıkların izlerini taşır. Van Gölü'nün çevresinde kurulmuş olan bu yerleşim yerleri, ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir stratejik konumda yer almıştır.
 
 Tarih boyunca, bu tür doğal alanlar Türkiye'nin kültürel ve ekonomik dokusunda önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bölgede yaşayan insanların geleneksel yaşam tarzı olmuştur. Bu doğal alanlar, aynı zamanda önemli ticaret yollarının geçiş noktaları olarak hizmet vermiştir. İnsanlar, bu dağları aşarak farklı bölgeler arasında iletişim ve ticaret ağlarını kurmuşlardır.
 

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Halili Türbesi"
 date: "2026-01-10T07:38:06.366Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391288"
 
 # Şeyh Halili Türbesi
 
-Şeyh Halili Türbesi, Konya'nın Selçuklu ilçesinde bulunan ve tarihi ile doğal güzellikleri bir arada sunan özel bir nokta. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Bu tarihi ve doğal güzelliğin bir arada bulunması, ziyaretçilere både bir gezi ve bir tarih yolculuğu fırsatı sunuyor. Şeyh Halili Türbesi, Konya'nın turizm değerleri arasında önemli bir yere sahip ve ziyaretçilerini bekliyor.
+Şeyh Halili Türbesi, Konya'nın Selçuklu ilçesinde bulunan ve tarihi ile doğal güzellikleri bir arada sunan özel bir nokta. Bu tarihi ve doğal güzelliğin bir arada bulunması, ziyaretçilere både bir gezi ve bir tarih yolculuğu fırsatı sunuyor. Şeyh Halili Türbesi, Konya'nın turizm değerleri arasında önemli bir yere sahip ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

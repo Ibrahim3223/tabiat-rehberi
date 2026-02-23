@@ -1,7 +1,7 @@
 ---
 title: "Seymenlik Hamamı"
 date: "2026-01-09T23:05:27.389Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738937"
 
 # Seymenlik Hamamı
 
-Seymenlik Hamamı, Muğla'nın Milas ilçesinde yer alan ve yaklaşık 140 hektarlık bir yeşil alan içinde bulunan doğal bir plajdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşillik içinde yer almaktadır. Seymenlik Hamamı, Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinmektedir. Bu doğal plaj, ziyaretçiler için hem dinlenme hem de doğayı keşfetme imkânı sunmaktadır. Geniş yeşil alanları ve deniz manzarasıyla Seymenlik Hamamı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
+Seymenlik Hamamı, Muğla'nın Milas ilçesinde yer alan ve yaklaşık 140 hektarlık bir yeşil alan içinde bulunan doğal bir plajdır. Seymenlik Hamamı, Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinmektedir. Bu doğal plaj, ziyaretçiler için hem dinlenme hem de doğayı keşfetme imkânı sunmaktadır. Geniş yeşil alanları ve deniz manzarasıyla Seymenlik Hamamı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Seymenlik Hamamı'nın tarihi geçmişi hakkında detaylı bilgi bulunmamaktadı
 
 ## Coğrafya
 
-Seymenlik Hamamı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nde yer almaktadır. Bu doğal plaj, 140 hektarlık bir yeşil alan içinde bulunmaktadır. Yeşil alanın büyüklüğü, yaklaşık 200 futbol sahası büyüklüğündedir. Seymenlik Hamamı, geniş bir kumsal ve deniz manzarasıyla ziyaretçilere çekici gelmektedir. Bölgenin coğrafi yapısı, Akdeniz ikliminin özellikleri göstermektedir. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir iklim hüküm sürmektedir. Seymenlik Hamamı'nın coğrafi konumu, ziyaretçilerin hem deniz hem de doğayı keşfetme imkânı sunmaktadır. Bu doğal plaj, çevreye duyarlı bir şekilde korunmaya çalışılmaktadır.
+Seymenlik Hamamı, Muğla'nın Milas ilçesinde, Ege Bölgesi'nde yer almaktadır. Bu doğal plaj, 140 hektarlık bir yeşil alan içinde bulunmaktadır. Seymenlik Hamamı, geniş bir kumsal ve deniz manzarasıyla ziyaretçilere çekici gelmektedir. Bölgenin coğrafi yapısı, Akdeniz ikliminin özellikleri göstermektedir. Yaz aylarında sıcak ve kurak, kış aylarında ılık ve yağışlı bir iklim hüküm sürmektedir. Seymenlik Hamamı'nın coğrafi konumu, ziyaretçilerin hem deniz hem de doğayı keşfetme imkânı sunmaktadır. Bu doğal plaj, çevreye duyarlı bir şekilde korunmaya çalışılmaktadır.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Aşağıköy Köy Hamamı"
 date: "2026-01-09T23:02:09.852Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738800"
 
 # Aşağıköy Köy Hamamı
 
-Aşağıköy Köy Hamamı, Marmara Bölgesi'nin kalbinde, Bilecik'in sakin ve doğal güzellikleri arasında yer alan bir destinasyon. Bu bölge, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilerini doğanın kucağına davet ediyor. Burada, zamanın geçişini hissedebilir, doğanın seslerini dinleyebilirsiniz. Aşağıköy Köy Hamamı, sadece bir gezi noktası değil, aynı zamanda bir doğa harikası.
+Aşağıköy Köy Hamamı, Marmara Bölgesi'nin kalbinde, Bilecik'in sakin ve doğal güzellikleri arasında yer alan bir destinasyon. Burada, zamanın geçişini hissedebilir, doğanın seslerini dinleyebilirsiniz. Aşağıköy Köy Hamamı, sadece bir gezi noktası değil, aynı zamanda bir doğa harikası.
 
 ## Tarihçe
 

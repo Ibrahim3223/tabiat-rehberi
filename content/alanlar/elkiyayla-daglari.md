@@ -65,6 +65,6 @@ Elkiyayla Dağları, doğa severler için bir cennet. Sabah erken gitmenizi öne
 - Elkiyayla Dağları, Toros Dağları'nın bir parçasıdır.
 - Dağların ortalama yüksekliği 2000-2500 metre arasındadır.
 - Bu dağlar, Türkiye'nin güneyindeki en önemli coğrafi oluşumlardan biridir.
-- Elkiyayla Dağları, flora ve fauna açısından oldukça zengindir.
+
 - Dağların eteklerinde ve çevresinde birçok köy ve kasaba bulunmaktadır.
 - Elkiyayla Dağları, trekking ve doğa yürüyüşü için popüler bir destinasyondur.

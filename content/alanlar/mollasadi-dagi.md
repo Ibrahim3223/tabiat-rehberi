@@ -32,9 +32,9 @@ Van ilinin doğal güzellikleriyle dolu coğrafyasında, Mollasadi Dağı ziyare
 
 ## Tarihçe
 
-Mollasadi Dağı, Van'ın doğal güzelliklerinin bir parçası olarak, bölgenin zengin tarihsel mirasının içinde yer alır. Van, tarihi boyunca Urartular, Persler, Roma ve Osmanlı gibi çeşitli uygarlıkların etkisi altında kalmıştır. Bu bölgede, insanların doğayla iç içe yaşadığı bir geçmişe tanıklık ederiz. 
+Mollasadi Dağı, Van'ın doğal güzelliklerinin bir parçası olarak, bölgenin zengin tarihsel mirasının içinde yer alır. Van, tarihi boyunca Urartular, Persler, Roma ve Osmanlı gibi çeşitli uygarlıkların etkisi altında kalmıştır. Bu bölgede, insanların doğayla iç içe yaşadığı bir geçmişe tanıklık ederiz.
 
-Doğal güzellikleri ve stratejik konumu ile Van, ticaret yollarının kesişme noktası olmuştur. İnsanların bu bölgeye olan ilgisi, sadece ticarette değil, hayvancılık ve yaylacılık gibi faaliyetlerle de şekillenmiştir. Türkiye'nin farklı bölgelerinde olduğu gibi, Van'da doğal alanlar, insanların yaşamlarının önemli bir parçasını oluşturmuştur. 
+Doğal güzellikleri ve stratejik konumu ile Van, ticaret yollarının kesişme noktası olmuştur. İnsanların bu bölgeye olan ilgisi, sadece ticarette değil, hayvancılık ve yaylacılık gibi faaliyetlerle de şekillenmiştir. Türkiye'nin farklı bölgelerinde olduğu gibi, Van'da doğal alanlar, insanların yaşamlarının önemli bir parçasını oluşturmuştur.
 
 Bu bölgede, insan faaliyetleri ve doğal güzellikler arasında bir denge kurulmuştur. Mollasadi Dağı, bu dengeyi koruma altına almak için önemli bir doğal alandır. Bölgenin tarihsel zenginliği, sadece tarihi yapılar ve kalıntılar ile değil, aynı zamanda doğal güzellikleri ile de anlaşılabilir. Bu nedenle, Mollasadi Dağı gibi alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçası olarak korunmaya devam etmektedir.
 

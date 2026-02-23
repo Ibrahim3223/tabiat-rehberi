@@ -28,7 +28,7 @@ wikidata_id: "Q31519212"
 
 # Kaplıkaya Tepesi
 
-Kaplıkaya Tepesi, Doğu Anadolu Bölgesi'nin Elazığ şehrinde yer alan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerinden biri olarak dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri bulunmakta ve bu bölge, doğa severler için bir cennet harika bir deneyim. Tepenin zirvesinden ise Elazığ şehrinin panoramik manzarasını izleme mümkün. Bu bölge, hem doğa hem de şehir manzarasını bir arada sunmasıyla ziyaretçilerini cezbediyor.
+Kaplıkaya Tepesi, Doğu Anadolu Bölgesi'nin Elazığ şehrinde yer alan bir tepe. Tepenin eteklerinde çeşitli bitki türleri bulunmakta ve bu bölge, doğa severler için bir cennet harika bir deneyim. Tepenin zirvesinden ise Elazığ şehrinin panoramik manzarasını izleme mümkün. Bu bölge, hem doğa hem de şehir manzarasını bir arada sunmasıyla ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

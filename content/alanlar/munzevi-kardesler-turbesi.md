@@ -1,7 +1,7 @@
 ---
 title: "Münzevi Kardeşler Türbesi"
 date: "2026-01-10T06:32:44.184Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735146"
 
 # Münzevi Kardeşler Türbesi
 
-Münzevi Kardeşler Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir tarihi türbe ve plajdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Marmara Bölgesi'nin en güzel yerlerinden biri olan Münzevi Kardeşler Türbesi, tarihi ve doğal güzellikleri bir arada sunar. İstanbul'un kalabalık şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tarihi türbe ve çevresi, ziyaretçilere hem dinlenme hem de kültürel bir deneyim sunar.
+Münzevi Kardeşler Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir tarihi türbe ve plajdır. Marmara Bölgesi'nin en güzel yerlerinden biri olan Münzevi Kardeşler Türbesi, tarihi ve doğal güzellikleri bir arada sunar. İstanbul'un kalabalık şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tarihi türbe ve çevresi, ziyaretçilere hem dinlenme hem de kültürel bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Münzevi Kardeşler Türbesi, tarihi geçmişi ile dikkat çeker. Bu bölge, yü
 
 ## Coğrafya
 
-Münzevi Kardeşler Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin güzel bir köşesinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Türbe ve çevresinin coğrafyası, deniz seviyesinden yüksek bir bölgede yer alır. Bölge, yeşilliklerle çevrili ve deniz manzarasına sahiptir. Marmara Denizi'nin güzel plajlarından biri olan Münzevi Kardeşler Türbesi, deniz severler için ideal bir destinasyondur. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim yaşanır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hakimdir. Çevre, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
+Münzevi Kardeşler Türbesi, Eyüpsultan ilçesinde, Marmara Bölgesi'nin güzel bir köşesinde yer alır. Türbe ve çevresinin coğrafyası, deniz seviyesinden yüksek bir bölgede yer alır. Bölge, yeşilliklerle çevrili ve deniz manzarasına sahiptir. Marmara Denizi'nin güzel plajlarından biri olan Münzevi Kardeşler Türbesi, deniz severler için ideal bir destinasyondur. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim yaşanır. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşli bir hava hakimdir. Çevre, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 
 ## Flora ve Fauna
 

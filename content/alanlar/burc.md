@@ -23,7 +23,7 @@ wikidata_id: "Q108228370"
 
 # Burç
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Burç, 140 hektarlık geniş bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil cennet, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burç'un doğal güzelliği, ziyaretçilerini burada geçirilecek her anı özel kılacak. Bu geniş ve yeşillik bir alanda, doğa ile iç içe olma ve Burç'un sunduğu güzellikleri keşfetmek, burayı ziyaret edenler için unutulmaz bir deneyim olacak.
+ Burç'un doğal güzelliği, ziyaretçilerini burada geçirilecek her anı özel kılacak. Bu geniş ve yeşillik bir alanda, doğa ile iç içe olma ve Burç'un sunduğu güzellikleri keşfetmek, burayı ziyaret edenler için unutulmaz bir deneyim olacak.
 
 ## Tarihçe
 

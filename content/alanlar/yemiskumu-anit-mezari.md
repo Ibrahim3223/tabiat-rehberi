@@ -1,7 +1,7 @@
 ---
 title: "Yemişkumu Anıt Mezarı"
 date: "2026-01-10T03:52:18.686Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728153"
 
 # Yemişkumu Anıt Mezarı
 
-Yemişkumu Anıt Mezarı, Mersin'in Erdemli ilçesinde bulunan bir tarihi plaj ve anıt mezar alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu muhteşem yer, Erdemli'nin en önemli turistik noktalarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Yemişkumu Anıt Mezarı, hem tarihi açıdan hem de doğal güzelliği ile dikkat çeken bir destinasyondur.
+Yemişkumu Anıt Mezarı, Mersin'in Erdemli ilçesinde bulunan bir tarihi plaj ve anıt mezar alanıdır. Bu muhteşem yer, Erdemli'nin en önemli turistik noktalarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından keşfedilir. Yemişkumu Anıt Mezarı, hem tarihi açıdan hem de doğal güzelliği ile dikkat çeken bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yemişkumu Anıt Mezarı'nın tarihi geçmişi, Erdemli ve Mersin'in tarihine ba
 
 ## Coğrafya
 
-Yemişkumu Anıt Mezarı, Erdemli'nin sahildeki bir bölümünde yer alır ve Akdeniz Bölgesi'nin doğal güzelliklerini sunar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, geniş ve yeşil bir arazidir. Anıt mezarın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir ve ziyaretçilere doğal bir ortam sunar. İklim, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı geçer. Yemişkumu Anıt Mezarı, Erdemli'nin sahildeki konumundan dolayı, deniz ve kumsal manzaralarına da sahiptir. Bu doğal güzellikler, ziyaretçilerin keyifli ve dinlendirici bir gezi deneyimi yaşamasını sağlar.
+Yemişkumu Anıt Mezarı, Erdemli'nin sahildeki bir bölümünde yer alır ve Akdeniz Bölgesi'nin doğal güzelliklerini sunar. Anıt mezarın etrafı, çeşitli bitki türleri ve ağaçlarla çevrilidir ve ziyaretçilere doğal bir ortam sunar. İklim, Akdeniz iklimi özellikleri taşır ve yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı geçer. Yemişkumu Anıt Mezarı, Erdemli'nin sahildeki konumundan dolayı, deniz ve kumsal manzaralarına da sahiptir. Bu doğal güzellikler, ziyaretçilerin keyifli ve dinlendirici bir gezi deneyimi yaşamasını sağlar.
 
 ## Flora ve Fauna
 

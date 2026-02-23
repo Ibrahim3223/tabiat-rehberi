@@ -54,7 +54,7 @@ Kernek Dağı, Malatya'nın yüksek dağ ekolojisinin tüm güzelliğini sergile
 
 Bitki örtüsünde, yükseklik zonlarına göre değişen türler bulunur. Alpin flora, dağların yüksek kesimlerinde hakimdir. Yaban hayatı da aynı şekilde çeşitlilik gösterir. Memeliler, kuşlar ve sürüngenler, bu dağlık ekosistemin birer parçası olarak yaşam alanlarını paylaşır.
 
-Kernek Dağı, ekolojik olarak önemli bir bölgedir. Bu yüksek dağ ekosisteminin korunması, birçok canlı türünün varlığını sürdürmesi için büyük önem taşır. Mevsimsel değişimlere uyum sağlayan bu canlılar, birbirleriyle ve çevreleriyle olan ilişkilerini dengeli bir şekilde sürdürürler. Bu nedenle, Kernek Dağı'nın korunması ve gelecek nesiller için bảolanması büyük bir sorumluluktır.
+Kernek Dağı, ekolojik olarak önemli bir bölgedir. Bu yüksek dağ ekosisteminin korunması, birçok canlı türünün varlığını sürdürmesi için büyük önem taşır. Mevsimsel değişimlere uyum sağlayan bu canlılar, birbirleriyle ve çevreleriyle olan ilişkilerini dengeli bir şekilde sürdürürler. Bu nedenle, Kernek Dağı'nın korunması ve gelecek nesiller için korunması büyük bir sorumluluktır.
 
 ## Ziyaret Bilgileri
 

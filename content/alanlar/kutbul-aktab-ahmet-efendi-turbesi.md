@@ -1,7 +1,7 @@
 ---
 title: "Kutbul Aktab Ahmet Efendi Türbesi"
 date: "2026-01-10T05:59:29.880Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390494"
 
 # Kutbul Aktab Ahmet Efendi Türbesi
 
-Kutbul Aktab Ahmet Efendi Türbesi, Karaman'ın Başyayla ilçesinde, İç Anadolu Bölgesi'nin kalbinde yer alıyor. Bu tarihi ve doğal güzelliklerin birleştiği nokta, ziyaretçilerini geçmişin mistik atmosferine davet ediyor. 140 hektarlık bir alanda bulunan türbe ve çevresindeki peyzaj, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Burada, tarihin derinliklerine inerken, aynı zamanda doğanın sakinliğiçinde huzur bulma mümkün.
+Kutbul Aktab Ahmet Efendi Türbesi, Karaman'ın Başyayla ilçesinde, İç Anadolu Bölgesi'nin kalbinde yer alıyor. Bu tarihi ve doğal güzelliklerin birleştiği nokta, ziyaretçilerini geçmişin mistik atmosferine davet ediyor. Burada, tarihin derinliklerine inerken, aynı zamanda doğanın sakinliğiçinde huzur bulma mümkün.
 
 ## Tarihçe
 

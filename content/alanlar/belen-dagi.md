@@ -32,7 +32,7 @@ Balıkesir'in kuzeyinde yer alan Belen Dağı, Türkiye'nin önemli coğrafi olu
 
 ## Tarihçe
 
-Belen Dağı, Türkiye'nin batı kıyısında, Balıkesir'in güzergahında yer alan bir dağdır. Bu bölge, tarihin çeşitli dönemlerinde birçok uygarlığa ev sahipliği yapmıştır. Hitit, Lidya ve Roma gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada varlık göstermişlerdir. 
+Belen Dağı, Türkiye'nin batı kıyısında, Balıkesir'in güzergahında yer alan bir dağdır. Bu bölge, tarihin çeşitli dönemlerinde birçok uygarlığa ev sahipliği yapmıştır. Hitit, Lidya ve Roma gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada varlık göstermişlerdir.
 
 Balıkesir, tarihi ticaret yollarının kesişme noktasında yer almaktadır. İpek Yolu ve diğer önemli ticaret rotaları, bu bölgeden geçerek Anadolu'nun çeşitli bölgelerine bağlanmaktadır. Bu nedenle, Belen Dağı gibi doğal alanlar, sadece coğrafi açıdan değil, aynı zamanda tarihi ve kültürel açıdan da büyük önem taşımaktadır.
 

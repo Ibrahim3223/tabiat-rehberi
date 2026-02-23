@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Nurettin Efendi Türbesi"
 date: "2026-01-10T06:23:55.270Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391810"
 
 # Şeyh Nurettin Efendi Türbesi
 
-Şeyh Nurettin Efendi Türbesi, İstanbul'un Fatih ilçesinde yer alan önemli bir tarihi ve kültürel mekân olarak dikkat çekmektedir. İstanbul'un merkezinde, Marmara Bölgesi'nin kalbinde bulunan bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve ziyaretçiler için geniş bir gezi alanı sunar. Şeyh Nurettin Efendi Türbesi, hem tarihi hem de kültürel açıdan zengin bir geçmişe sahiptir ve İstanbul'un önemli ziyaret noktalarından biridir. Ziyaretçiler, bu türbeyi ziyaret ederek hem tarihi hem de kültürel açıdan zengin bir deneyim yaşayabilirler.
+Şeyh Nurettin Efendi Türbesi, İstanbul'un Fatih ilçesinde yer alan önemli bir tarihi ve kültürel mekân olarak dikkat çekmektedir. İstanbul'un merkezinde, Marmara Bölgesi'nin kalbinde bulunan bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Şeyh Nurettin Efendi Türbesi, hem tarihi hem de kültürel açıdan zengin bir geçmişe sahiptir ve İstanbul'un önemli ziyaret noktalarından biridir. Ziyaretçiler, bu türbeyi ziyaret ederek hem tarihi hem de kültürel açıdan zengin bir deneyim yaşayabilirler.
 
 ## Tarihçe
 

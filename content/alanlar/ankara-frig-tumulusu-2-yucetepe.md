@@ -29,7 +29,7 @@ wikidata_id: "Q134728283"
 
 # Ankara Frig Tümülüsü 2, Yücetepe
 
-Ankara'nın Çankaya ilçesinde yer alan Ankara Frig Tümülüsü 2, Yücetepe, 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir yeşil alan olarak dikkat çekiyor. Bu bölge, tarihi ve coğrafi özellikleri ile birlikte doğa severler ve tarih meraklıları için önemli bir destinasyon olarak görünüyor. Yücetepe, Ankara'nın merkezine yakın konumu ile kolay ulaşılabilirlik sağlıyor ve ziyaretçilere farklı bir deneyim sunuyor.
+ Bu bölge, tarihi ve coğrafi özellikleri ile birlikte doğa severler ve tarih meraklıları için önemli bir destinasyon olarak görünüyor. Yücetepe, Ankara'nın merkezine yakın konumu ile kolay ulaşılabilirlik sağlıyor ve ziyaretçilere farklı bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ankara Frig Tümülüsü 2, Yücetepe'nin tarihi geçmişi, yüzyıllar boyunca 
 
 ## Coğrafya
 
-Ankara Frig Tümülüsü 2, Yücetepe, coğrafi olarak Çankaya ilçesinin kuzeybatı kısmında yer alıyor. Bu bölge, Ankara'nın şehir merkezine uzun bir mesafe uzaklıkta ve ulaşım açısından kolaylık sağlıyor. Yücetepe'nin coğrafi özellikleri, 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir yeşil alan olarak dikkat çekiyor. Bu bölge, Ankara'nın şehir yaşamının dışında, doğayla iç içe bir deneyim sunuyor. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Yücetepe'nin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir iklim özelliği gösteriyor.
+Ankara Frig Tümülüsü 2, Yücetepe, coğrafi olarak Çankaya ilçesinin kuzeybatı kısmında yer alıyor. Bu bölge, Ankara'nın şehir merkezine uzun bir mesafe uzaklıkta ve ulaşım açısından kolaylık sağlıyor. Bu bölge, Ankara'nın şehir yaşamının dışında, doğayla iç içe bir deneyim sunuyor. Çevre, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Yücetepe'nin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir iklim özelliği gösteriyor.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Ankara Frig Tümülüsü 2, Yücetepe'yi ziyaret etmek için, Çankaya ilçesine
 
 - Ankara Frig Tümülüsü 2, Yücetepe, Ankara'nın en önemli tarihi ve coğrafi destinasyonlarından biri.
 - Bu bölgede, Frig Dönemi'ne ait kalıntılar bulunmuştur.
-- Yücetepe, 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir yeşil alan.
+
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna dikkat çekiyor.
 - Yücetepe, yılın her dönemi ziyaret edilebilir.

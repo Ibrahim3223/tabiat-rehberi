@@ -28,7 +28,7 @@ wikidata_id: "Q34816158"
 
 # Tülü Tepesi
 
-Tülü Tepesi, Çorum'un güzide noktalarından biri olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu størreligi ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Bu büyüklük, ziyaretçilere geniş bir alan sunar ve burayı gezerken keyifli bir deneyim sağlar. Tülü Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin güzelliklerine tanık olmaya davet eder ve bu bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta olarak karşımıza çıkar.
+Tülü Tepesi, Çorum'un güzide noktalarından biri olarak bilinir. Bu büyüklük, ziyaretçilere geniş bir alan sunar ve burayı gezerken keyifli bir deneyim sağlar. Tülü Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin güzelliklerine tanık olmaya davet eder ve bu bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta olarak karşımıza çıkar.
 
 ## Tarihçe
 

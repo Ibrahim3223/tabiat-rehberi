@@ -28,7 +28,7 @@ wikidata_id: "Q31388926"
 
 # Kuruziyaret Tepesi
 
-Kuruziyaret Tepesi, Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Erzurum'un coğrafi yapısı içinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklüğü ile yaklaşık 200 futbol sahası büyüklüğüyle eşdeğerdir. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Kuruziyaret Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve doğa severler için bir cennet olarak kabul edilir. Bu tepe, aynı zamanda bölgenin tarihini ve kültürünü anlamak için önemli bir noktadır.
+Kuruziyaret Tepesi, Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Kuruziyaret Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve doğa severler için bir cennet olarak kabul edilir. Bu tepe, aynı zamanda bölgenin tarihini ve kültürünü anlamak için önemli bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kuruziyaret Tepesi, yüzyıllar boyunca bölgenin coğrafi yapısını ve kült�
 
 ## Coğrafya
 
-Kuruziyaret Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısı içinde yer alan önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklüğü ile yaklaşık 200 futbol sahası büyüklüğüyle eşdeğerdir. Kuruziyaret Tepesi, Erzurum'un coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini etmek için önemli bir kaynak olarak kabul edilir. Kuruziyaret Tepesi'nin coğrafi konumu, bölgenin iklimini ve doğal güzelliklerini etkileyen önemli faktörlerden biridir. Bu tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve doğa severler için bir cennet olarak kabul edilir. Kuruziyaret Tepesi, aynı zamanda bölgenin flora ve faunasını gözlemlemek için ideal bir noktadır. Bu tepe, çeşitli bitki türleri ve hayvan türleri ile zengin bir ekosisteme sahiptir.
+Kuruziyaret Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısı içinde yer alan önemli bir noktadır. Kuruziyaret Tepesi, Erzurum'un coğrafi yapısını ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini etmek için önemli bir kaynak olarak kabul edilir. Kuruziyaret Tepesi'nin coğrafi konumu, bölgenin iklimini ve doğal güzelliklerini etkileyen önemli faktörlerden biridir. Bu tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar ve doğa severler için bir cennet olarak kabul edilir. Kuruziyaret Tepesi, aynı zamanda bölgenin flora ve faunasını gözlemlemek için ideal bir noktadır. Bu tepe, çeşitli bitki türleri ve hayvan türleri ile zengin bir ekosisteme sahiptir.
 
 ## Flora ve Fauna
 

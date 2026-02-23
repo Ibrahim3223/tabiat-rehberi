@@ -50,7 +50,7 @@ Bölgenin ekosistem bağlantıları açısından, Dodan Dağı önemli bir rol o
 
 ## Flora ve Fauna
 
-Dodan Dağı, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alır ve step ile ova ekolojisinin birleştiği bir alanı kaplar. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen bitki örtüsü ve hayvan çeşitliliği dikkat çeker. 
+Dodan Dağı, yarı kurak iklimin hüküm sürdüğü bir bölgede yer alır ve step ile ova ekolojisinin birleştiği bir alanı kaplar. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen bitki örtüsü ve hayvan çeşitliliği dikkat çeker.
 
 İlkbaharda, dağ yamaçları rengarenk çiçeklerle kaplanır. step ve ova bitkilerinin yanı sıra, alpin flora da bu mevsimde ortaya çıkar. Sonbaharda ise, göç eden kuşlar dağların üzerinde uçarken, dağ hayvanları ise daha yüksek rakımlara çıkarak soğuğa karşı korunmaya çalışırlar.
 

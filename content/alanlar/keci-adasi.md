@@ -47,9 +47,9 @@ Doğal güzelliği ve coğrafi konumuyla dikkat çeken Keçi Adası, bir olimpik
 
 ## Flora ve Fauna
 
-Keçi Adası, Muğla'nın güzelliklerini barındıran bir ada olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, zeytinliklerin ve çam ormanlarının karışımı olan bir bitki örtüsüne sahiptir. İlkbaharda, ada çiçeklerle kaplanıyor ve renkli bir manzara sunuyor. Çam ağaçlarının arasında, various otsu bitkiler ve yer örtücü bitkiler bulunuyor. 
+Keçi Adası, Muğla'nın güzelliklerini barındıran bir ada olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, zeytinliklerin ve çam ormanlarının karışımı olan bir bitki örtüsüne sahiptir. İlkbaharda, ada çiçeklerle kaplanıyor ve renkli bir manzara sunuyor. Çam ağaçlarının arasında, various otsu bitkiler ve yer örtücü bitkiler bulunuyor.
 
-Ada, deniz kuşlarının önemli bir uğrak noktası. Kıyı kesimlerinde, göç eden kuşlar sonbaharda görülebiliyor. Yaban hayatı, ada ekosisteminin önemli bir parçasını oluşturuyor. Ada, izole popülasyonlara ev sahipliği yapıyor ve bu durum, ada ekosisteminin benzersizliğini koruyor. 
+Ada, deniz kuşlarının önemli bir uğrak noktası. Kıyı kesimlerinde, göç eden kuşlar sonbaharda görülebiliyor. Yaban hayatı, ada ekosisteminin önemli bir parçasını oluşturuyor. Ada, izole popülasyonlara ev sahipliği yapıyor ve bu durum, ada ekosisteminin benzersizliğini koruyor.
 
 Keçi Adası, ekolojik değerini koruma altına almak için önemli bir bölgedir. Bu ada, Akdeniz ikliminin etkilerini taşıyor ve bölge ekolojisini şekillendiriyor. Ada, doğal güzelliği ve biyolojik çeşitliliği nedeniyle ziyaretçilerini cezbediyor.
 

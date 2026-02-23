@@ -22,7 +22,7 @@ wikidata_id: "Q108227755"
 
 # Mugla-Fethiye-Gocek Sigla
 
-Mugla-Fethiye-Gocek Sigla milli parkı, Muğla'nın en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Yaklaşık 140 hektarlık bir alanı kapsayan bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Bu milli park, özellikle doğa severler ve fotoğraf tutkunları için bir cennet harika bir deneyim. Ziyaretçiler, burada çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Ayrıca, bu bölgede yapılan yürüyüşler ve treking faaliyetleri, ziyaretçilere hem fiziksel aktivite hem de doğanın güzelliğini keşfetme fırsatı sunuyor.
+Mugla-Fethiye-Gocek Sigla milli parkı, Muğla'nın en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu milli park, özellikle doğa severler ve fotoğraf tutkunları için bir cennet harika bir deneyim. Ziyaretçiler, burada çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Ayrıca, bu bölgede yapılan yürüyüşler ve treking faaliyetleri, ziyaretçilere hem fiziksel aktivite hem de doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

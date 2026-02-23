@@ -1,7 +1,7 @@
 ---
 title: "Cumalıkızık Hamamı"
 date: "2026-01-09T23:37:36.537Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","tarihî eserleri gezmek","kültürel etkinl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Cumalıkızık Hamamı","caption":"Cumalıkızık Hamamı","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cumal%C4%B1k%C4%B1z%C4%B1k%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739177","tip":"genel"}]
-description: "Bursa'nın históri ve kültürel zenginliklerini barındıran özel bir mekan"
+description: "Bursa'nın tarihi ve kültürel zenginliklerini barındıran özel bir mekan"
 keywords: ["Cumalıkızık","Bursa","tarih","kültür","gezi","yazılık","mimarlık","doğa","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739177"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739177"
 
 # Cumalıkızık Hamamı
 
-Cumalıkızık Hamamı, Bursa'nın Yıldırım ilçesinde yer alan, tarihsel olarak önemli bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunar. Bu mekan, hem tarihsel hem de kültürel zenginliklerini ziyaretçilerine sunar. Tarihi dokusu, mimarisi ve doğal güzelliği ile dikkat çeker. Ziyaretçiler, bu özel mekanın sunduğu olanaklardan yararlanarak, hem dinlenebilir hem de kültürel bir deneyim yaşayabilirler.
+Cumalıkızık Hamamı, Bursa'nın Yıldırım ilçesinde yer alan, tarihsel olarak önemli bir yapıdır. Bu mekan, hem tarihsel hem de kültürel zenginliklerini ziyaretçilerine sunar. Tarihi dokusu, mimarisi ve doğal güzelliği ile dikkat çeker. Ziyaretçiler, bu özel mekanın sunduğu olanaklardan yararlanarak, hem dinlenebilir hem de kültürel bir deneyim yaşayabilirler.
 
 ## Tarihçe
 

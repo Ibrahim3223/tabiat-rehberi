@@ -1,7 +1,7 @@
 ---
 title: "Yelli Hamamı"
 date: "2026-01-09T23:09:33.284Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738936"
 
 # Yelli Hamamı
 
-Yelli Hamamı, Muğla'nın Milas ilçesinde yer alan bir plajdır. Bu plaj, Ege Bölgesi'nin en güzel plajlarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Yelli Hamamı, mavi ve berrak denizi, altın rengi kumsalı ve etrafını çevreleyen yeşil ormanlarla ziyaretçilerini büyülemektedir. Bu plaj, hem yerli hem de yabancı turistler tarafından tercih edilen bir tatil noktasıdır.
+Yelli Hamamı, Muğla'nın Milas ilçesinde yer alan bir plajdır. Bu plaj, Ege Bölgesi'nin en güzel plajlarından biridir. Yelli Hamamı, mavi ve berrak denizi, altın rengi kumsalı ve etrafını çevreleyen yeşil ormanlarla ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Yelli Hamamı, etrafını çevreleyen yeşil ormanlarla birlikte çeşitli bitki
 
 ## Ziyaret Bilgileri
 
-Yelli Hamamı, ziyaretçilerine çeşitli aktiviteler sunmaktadır. Bu plajda, deniz sporları, yüzme, güneşlenme ve yürüyüş gibi aktiviteler yapılabilmektedir. Yelli Hamamı, aynı zamanda ziyaretçilerine güzel bir manzara sunmaktadır. Bu plaj, mavi ve berrak denizi ile birlikte altın rengi kumsalına sahiptir. Yelli Hamamı, ziyaretçilerine serinli ve gölge sağlayan yeşil ormanlarla çevrilidir. Bu plaj, hem yerli hem de yabancı turistler tarafından tercih edilen bir tatil noktasıdır.
+Yelli Hamamı, ziyaretçilerine çeşitli aktiviteler sunmaktadır. Bu plajda, deniz sporları, yüzme, güneşlenme ve yürüyüş gibi aktiviteler yapılabilmektedir. Yelli Hamamı, aynı zamanda ziyaretçilerine güzel bir manzara sunmaktadır. Bu plaj, mavi ve berrak denizi ile birlikte altın rengi kumsalına sahiptir. Yelli Hamamı, ziyaretçilerine serinli ve gölge sağlayan yeşil ormanlarla çevrilidir.
 
 ## İlginç Bilgiler
 

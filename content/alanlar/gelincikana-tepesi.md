@@ -36,7 +36,7 @@ Gelincikana Tepesi, Türkiye'nin zengin tarihsel mirasının bir parçası olara
 
 Doğal alanlar, Türkiye'de tarihsel olarak büyük önem taşımıştır. Bu tür bölgeler, insanların yaşam alanları, ticaret yolları ve yaylacılık faaliyetleri için önemli merkezler olarak hizmet vermiştir. İnsanların bu alanlarla ilişkisi, genellikle hayvancılık, tarım ve avcılık faaliyetleri etrafında şekillenmiştir.
 
-Gelincikana Tepesi de, benzer şekilde, bölgenin coğrafi yapısı ve doğal güzelliği nedeniyle, insanların dikkatini çekmiştir. Bu tür doğal alanlar, sadece görsel güzellikleri nedeniyle değil, aynı zamanda ekolojik dengenin korunması ve biyolojik çeşitliliğin zenginleştirilmesi açısından da büyük önem taşımaktadır. Bu nedenle, Gelincikana Tepesi gibi doğal alanların korunması ve gelecek nesiller için bảo tồn edilmesi, Türkiye'nin tarihsel ve kültürel mirasının bir parçası olarak görülebilir.
+Gelincikana Tepesi de, benzer şekilde, bölgenin coğrafi yapısı ve doğal güzelliği nedeniyle, insanların dikkatini çekmiştir. Bu tür doğal alanlar, sadece görsel güzellikleri nedeniyle değil, aynı zamanda ekolojik dengenin korunması ve biyolojik çeşitliliğin zenginleştirilmesi açısından da büyük önem taşımaktadır. Bu nedenle, Gelincikana Tepesi gibi doğal alanların korunması ve gelecek nesiller için koruma tồn edilmesi, Türkiye'nin tarihsel ve kültürel mirasının bir parçası olarak görülebilir.
 
 ## Coğrafya
 

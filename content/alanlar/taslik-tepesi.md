@@ -32,9 +32,9 @@ Diyarbakır'ın tarihi dokusunu taçlandıran Taşlık Tepesi, bu bölgenin coğ
 
 ## Tarihçe
 
-Diyarbakır, tarihin derin izlerini taşıyan bir bölge. Taşlık Tepesi, bu tarihi coğrafyanın bir parçası olarak yer alıyor. Bölge, tarih boyunca çeşitli uygarlıkların hüküm sürdüğü önemli bir merkezdi. Hititler, Asurlular, Persler ve Roma İmparatorluğu gibi büyük güçler, Diyarbakır'ın stratejik konumunu değerlendirmişlerdi. 
+Diyarbakır, tarihin derin izlerini taşıyan bir bölge. Taşlık Tepesi, bu tarihi coğrafyanın bir parçası olarak yer alıyor. Bölge, tarih boyunca çeşitli uygarlıkların hüküm sürdüğü önemli bir merkezdi. Hititler, Asurlular, Persler ve Roma İmparatorluğu gibi büyük güçler, Diyarbakır'ın stratejik konumunu değerlendirmişlerdi.
 
-Bu natural alanlar, Türkiye'nin tarihsel dokusunun önemli bir parçasını oluşturur. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu alanlarla bağını kurmuştu. Taşlık Tepesi, bölgede yaşayan toplulukların hayatında önemli bir rol oynamış olmalı. İnsanların bu doğal alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahip. 
+Bu natural alanlar, Türkiye'nin tarihsel dokusunun önemli bir parçasını oluşturur. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu alanlarla bağını kurmuştu. Taşlık Tepesi, bölgede yaşayan toplulukların hayatında önemli bir rol oynamış olmalı. İnsanların bu doğal alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahip.
 
 Bu tür doğal alanlar, Türkiye'nin zengin kültürel mirasının bir parçası olarak görülüyor. Tarih boyunca, bu alanlar insanların yaşamını şekillendirmiş, onların gelene ve göreneklerini etkilemiştir. Taşlık Tepesi, Diyarbakır'ın tarihi ve kültürel zenginliğinin bir yansıması olarak, ziyaretçilere bölge hakkında değerli bilgiler sunuyor.
 
@@ -50,12 +50,12 @@ Taşlık Tepesi, çevresindeki diğer coğrafi oluşumlarla bağlantılıdır. Y
 
 ## Flora ve Fauna
 
-Taşlık Tepesi, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bölgesinde yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Taşlık Tepesi, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bölgesinde yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açmaya başlar. Bu renkli manzara, sonbaharın yaklaşmasıyla birlikte, göç eden kuşların geçiş güzergahına dönüşür. 
-Dağların yükseklik zonlarında, alpin flora hakimdir. Bu bölge, step ve ova ekolojisinin birleştiği bir noktadır. 
+Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçlarında çeşitli çiçekler açmaya başlar. Bu renkli manzara, sonbaharın yaklaşmasıyla birlikte, göç eden kuşların geçiş güzergahına dönüşür.
+Dağların yükseklik zonlarında, alpin flora hakimdir. Bu bölge, step ve ova ekolojisinin birleştiği bir noktadır.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, dağların yüksek kesimlerinde yaşamını sürdürürken, çeşitli kuş türleri de bu bölgede yuvalanır. Sürüngenler, özellikle step ve ova ekolojisindeki bölgelerde daha sık görülmektedir. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, dağların yüksek kesimlerinde yaşamını sürdürürken, çeşitli kuş türleri de bu bölgede yuvalanır. Sürüngenler, özellikle step ve ova ekolojisindeki bölgelerde daha sık görülmektedir.
 Bu dağ ekosisteminin ekolojik değeri, bölgeye özgü türlerin korunması ve bước ekosistemlerin dengesinin sağlanmasında yatmaktadır.
 
 ## Ziyaret Bilgileri

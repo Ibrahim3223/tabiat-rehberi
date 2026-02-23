@@ -1,7 +1,7 @@
 ---
 title: "Bali Baba Türbesi"
 date: "2026-01-10T06:38:49.105Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582626"
 
 # Bali Baba Türbesi
 
-Bali Baba Türbesi, Antalya'nın Serik ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Burada, denizin maviliği ve güneşin ışığı, ziyaretçilere huzur dolu anlar sunar. Bali Baba Türbesi, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini etkileyen bir mekândır.
+Bali Baba Türbesi, Antalya'nın Serik ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir alandır. Burada, denizin maviliği ve güneşin ışığı, ziyaretçilere huzur dolu anlar sunar. Bali Baba Türbesi, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini etkileyen bir mekândır.
 
 ## Tarihçe
 
@@ -52,5 +52,5 @@ Bali Baba Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerin bir
 - Bali Baba Türbesi, tarihi ve doğal güzelliği ile ziyaretçileri etkileyen bir mekândır.
 - Burada, birçok farklı türde bitki ve hayvan yaşamaktadır.
 - Bali Baba Türbesi, Türk kültürünün önemli bir parçası olarak kabul edilir.
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Bali Baba Türbesi, denize yakın bir konumda yer alır.

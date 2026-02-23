@@ -1,7 +1,7 @@
 ---
 title: "Keramos Hamamı"
 date: "2026-01-09T23:46:03.295Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245737"
 
 # Keramos Hamamı
 
-Keramos Hamamı, Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer alan bir plajdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu plaj, geniş ve ferah bir ortam sunuyor. Güneşin ve denizin keyfini çıkarabileceğiniz bu plaj, hem yerli hem de yabancı turistlerin ilgi odağı oluyor. Keramos Hamamı, denize girme ve güneşlenme.imkanı sunmasının yanı sıra, doğa yürüyüşleri vesu sporları gibi faaliyetlere de olanak sağlıyor.
+Keramos Hamamı, Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer alan bir plajdır. Güneşin ve denizin keyfini çıkarabileceğiniz bu plaj, hem yerli hem de yabancı turistlerin ilgi odağı oluyor. Keramos Hamamı, denize girme ve güneşlenme.imkanı sunmasının yanı sıra, doğa yürüyüşleri vesu sporları gibi faaliyetlere de olanak sağlıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Keramos Hamamı'nın tarihi geçmişi, Milas'ın eski dönemlerine kadar uzanıy
 
 ## Coğrafya
 
-Keramos Hamamı, Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer alıyor. Bu plaj, 140 hektarlık bir alana kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Plajın etrafı, yeşilin çeşitli tonlarını sunan ağaçlar ve bitkilerle çevrilidir. Keramos Hamamı, denize sıfır bir konumda yer alıyor ve bu sayede, denizin tadını çıkarmak isteyenler için ideal bir yer sunuyor. Plajın bulunduğu bölge, genellikle sıcak ve kurak bir iklime sahip. Yaz aylarında sıcakların artmasıyla birlikte, plajın ziyaretçi sayısı da artıyor. Keramos Hamamı'nın coğrafi konumu, bu plajı ziyaret etmek isteyenler için ulaşım kolaylığı sağlıyor.
+Keramos Hamamı, Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer alıyor. Plajın etrafı, yeşilin çeşitli tonlarını sunan ağaçlar ve bitkilerle çevrilidir. Keramos Hamamı, denize sıfır bir konumda yer alıyor ve bu sayede, denizin tadını çıkarmak isteyenler için ideal bir yer sunuyor. Plajın bulunduğu bölge, genellikle sıcak ve kurak bir iklime sahip. Yaz aylarında sıcakların artmasıyla birlikte, plajın ziyaretçi sayısı da artıyor. Keramos Hamamı'nın coğrafi konumu, bu plajı ziyaret etmek isteyenler için ulaşım kolaylığı sağlıyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Keramos Hamamı'na ulaşım, genellikle özel araç ya da toplu taşıma araçla
 ## İlginç Bilgiler
 
 - Keramos Hamamı, 140 hektarlık bir alana kurulmuştur.
-- Bu plaj, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Keramos Hamamı, denize sıfır bir konumda yer alıyor.
 - Plajın etrafı, yeşilin çeşitli tonlarını sunan ağaçlar ve bitkilerle çevrilidir.
 - Keramos Hamamı, çeşitli bitki türlerine ev sahipliği yapıyor.

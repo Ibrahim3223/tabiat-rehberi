@@ -1,7 +1,7 @@
 ---
 title: "Hatice Ana Türbesi, Urla"
 date: "2026-01-10T05:45:47.663Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582178"
 
 # Hatice Ana Türbesi, Urla
 
-Hatice Ana Türbesi, Urla'nın merkezi bir noktasında ziyaretçilerini bekliyor. Bu tarihi türbe, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Hatice Ana Türbesi, ziyaretçilerine hem tarihi bir deneyim hem de güzel bir doğa manzarası sunuyor. Urla, İzmir'in güzel ilçelerinden biri olarak biliniyor ve tarihi ile doğal güzellikleri bir araya getiriyor. Hatice Ana Türbesi de bu güzelliklerin başlıcalarından biri olarak dikkat çekiyor.
+Hatice Ana Türbesi, Urla'nın merkezi bir noktasında ziyaretçilerini bekliyor. Bu tarihi türbe, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alıyor. Hatice Ana Türbesi, ziyaretçilerine hem tarihi bir deneyim hem de güzel bir doğa manzarası sunuyor. Urla, İzmir'in güzel ilçelerinden biri olarak biliniyor ve tarihi ile doğal güzellikleri bir araya getiriyor. Hatice Ana Türbesi de bu güzelliklerin başlıcalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hatice Ana Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu 
 
 ## Coğrafya
 
-Hatice Ana Türbesi, Urla'nın merkezi bir noktasında yer alıyor. Bu türbe, yaklaşık 140 hektarlık bir yeşil alanın içinde bulunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Hatice Ana Türbesi'nin etrafı, çeşitli bitki türleri ile kaplı. Bu türbe, ziyaretçilerine hem tarihi bir deneyim hem de güzel bir doğa manzarası sunuyor. Urla, İzmir'in güzel ilçelerinden biri olarak biliniyor ve tarihi ile doğal güzellikleri bir araya getiriyor. Hatice Ana Türbesi de bu güzelliklerin başlıcalarından biri olarak dikkat çekiyor. Urla'nın coğrafi konumu, Ege Bölgesi'nde yer alıyor. Bu bölge, tarihi ve doğal güzellikleriyle famous. Hatice Ana Türbesi, Urla'nın coğrafi güzelliklerini yansıtan önemli bir eser olarak ziyaret ediliyor.
+Hatice Ana Türbesi, Urla'nın merkezi bir noktasında yer alıyor. Bu türbe, yaklaşık 140 hektarlık bir yeşil alanın içinde bulunuyor. Hatice Ana Türbesi'nin etrafı, çeşitli bitki türleri ile kaplı. Bu türbe, ziyaretçilerine hem tarihi bir deneyim hem de güzel bir doğa manzarası sunuyor. Urla, İzmir'in güzel ilçelerinden biri olarak biliniyor ve tarihi ile doğal güzellikleri bir araya getiriyor. Hatice Ana Türbesi de bu güzelliklerin başlıcalarından biri olarak dikkat çekiyor. Urla'nın coğrafi konumu, Ege Bölgesi'nde yer alıyor. Bu bölge, tarihi ve doğal güzellikleriyle famous. Hatice Ana Türbesi, Urla'nın coğrafi güzelliklerini yansıtan önemli bir eser olarak ziyaret ediliyor.
 
 ## Flora ve Fauna
 

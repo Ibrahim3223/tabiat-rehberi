@@ -22,7 +22,7 @@ wikidata_id: "Q108225988"
 
 # Karaburun Sit Alanı
 
-Karaburun Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu sit alanı, ziyaretçilerini doğanın kucağına davet ediyor. Karaburun Sit Alanı, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiş bir bölge. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor.
+Karaburun Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Karaburun Sit Alanı, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiş bir bölge. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Karaburun Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş. B
 
 ## Coğrafya
 
-Karaburun Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden birinde bulunuyor. Bu alan, yaklaşık 140 hektarlık yeşil alanıyla, ziyaretçilerini doğanın kucağına davet ediyor. Karaburun Sit Alanı, coğrafi olarak, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzeyen karasal iklim. Yaz ayları sıcak ve kuru, kış ayları soğuk ve karlı. Bahar ve sonbahar ayları ise, ılıman ve yağışlı. Karaburun Sit Alanı, coğrafi olarak, birçok doğal güzelliğe sahip. Burada, çeşitli dağlar, ovalar ve nehirler, ziyaretçilere doğanın güzelliğini gösteriyor.
+Karaburun Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden birinde bulunuyor. Karaburun Sit Alanı, coğrafi olarak, çeşitli bitki türleri ve zengin fauna ile dolu. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin tipik iklimine benzeyen karasal iklim. Yaz ayları sıcak ve kuru, kış ayları soğuk ve karlı. Bahar ve sonbahar ayları ise, ılıman ve yağışlı. Karaburun Sit Alanı, coğrafi olarak, birçok doğal güzelliğe sahip. Burada, çeşitli dağlar, ovalar ve nehirler, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 
-Karaburun Sit Alanı, flora ve fauna açısından oldukça zengin. Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor. Bu bölgede, birçok endemik bitki türü bulunmakta. Ayrıca, Karaburun Sit Alanı, birçok kuş türünün yuvalandığı bir bölge. Burada, çeşitli yaban hayvanları da bulunmakta. Karaburun Sit Alanı, flora ve fauna açısından, oldukça önemli bir bölge. Bu bölgede, birçok araştırma ve koruma çalışması yapılmakta.
+ Burada, çeşitli bitki türleri ve hayvanlar, ziyaretçilere doğanın güzelliğini gösteriyor. Bu bölgede, birçok endemik bitki türü bulunmakta. Ayrıca, Karaburun Sit Alanı, birçok kuş türünün yuvalandığı bir bölge. Burada, çeşitli yaban hayvanları da bulunmakta. Karaburun Sit Alanı, flora ve fauna açısından, oldukça önemli bir bölge. Bu bölgede, birçok araştırma ve koruma çalışması yapılmakta.
 
 ## Ziyaret Bilgileri
 

@@ -1,7 +1,7 @@
 ---
 title: "Ali Ağa Hamamı"
 date: "2026-01-09T23:50:18.080Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Zonguldak"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739228"
 
 # Ali Ağa Hamamı
 
-Ali Ağa Hamamı, Karadeniz Ereğli'nin doğal güzellikleri arasında yer alan bir plajdır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu doğa harikası, Karadeniz Bölgesi'nin en güzel yerlerinden biridir. Ali Ağa Hamamı, Karadeniz Ereğli'nin merkezine yakın bir konumda yer almaktadır. Bu plaj, doğa severlerin ve deniz aşığıların ziyaret etmekten keyif alacağı bir yerdir. Ali Ağa Hamamı'nda, güneşin batışını izlemek, denizin serin sularında yüzleme ve doğanın güzelliğini yaşama mümkündür.
+Ali Ağa Hamamı, Karadeniz Ereğli'nin doğal güzellikleri arasında yer alan bir plajdır. Ali Ağa Hamamı, Karadeniz Ereğli'nin merkezine yakın bir konumda yer almaktadır. Bu plaj, doğa severlerin ve deniz aşığıların ziyaret etmekten keyif alacağı bir yerdir. Ali Ağa Hamamı'nda, güneşin batışını izlemek, denizin serin sularında yüzleme ve doğanın güzelliğini yaşama mümkündür.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ali Ağa Hamamı'nın tarihi geçmişi, Karadeniz Ereğli'nin tarihi ile yakınd
 
 ## Coğrafya
 
-Ali Ağa Hamamı, Karadeniz Ereğli'nin merkezine yakın bir konumda yer almaktadır. Bu plaj, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Ali Ağa Hamamı'nın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede, Karadeniz'in serin suları ve yeşilin çeşitli tonları bulunmaktadır. Ali Ağa Hamamı'nın iklimi, Karadeniz Bölgesi'nin iklimine benzerdir. Bu bölgede, yaz aylarında sıcaklık artarken, kış aylarında sıcaklık düşer. Ali Ağa Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu plaj, Karadeniz Bölgesi'nin en güzel ve en önemli doğal güzelliklerinden biridir.
+Ali Ağa Hamamı, Karadeniz Ereğli'nin merkezine yakın bir konumda yer almaktadır. Ali Ağa Hamamı'nın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölgede, Karadeniz'in serin suları ve yeşilin çeşitli tonları bulunmaktadır. Ali Ağa Hamamı'nın iklimi, Karadeniz Bölgesi'nin iklimine benzerdir. Bu bölgede, yaz aylarında sıcaklık artarken, kış aylarında sıcaklık düşer. Ali Ağa Hamamı'nın çevresinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu plaj, Karadeniz Bölgesi'nin en güzel ve en önemli doğal güzelliklerinden biridir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Ali Ağa Hamamı, Karadeniz Ereğli'nin merkezine yakın bir konumda yer almakta
 ## İlginç Bilgiler
 
 - Ali Ağa Hamamı, Karadeniz Ereğli'nin en önemli doğal güzelliklerinden biridir.
-- Bu plaj, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
+
 - Ali Ağa Hamamı, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Bu plaj, zengin flora ve faunaya sahiptir.
 - Ali Ağa Hamamı, yılın her döneminde ziyaret edilebilir.

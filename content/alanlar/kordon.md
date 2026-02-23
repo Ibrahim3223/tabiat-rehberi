@@ -52,7 +52,7 @@ Doğal güzelliği ile dikkat çeken Kordon Botanik Bahçesi, İzmir'in coğrafi
 
 ## Flora ve Fauna
 
-Kordon'un 1200 hektarlık botanik bahçesi, step bitki örtüsüne ev sahipliği yapar. İlkbaharın başlangıcında, bozkırın kuraklığa adapte türleri arasında çiçekler açar. Bu renkli manzaraya, göçmen kuşların gelmesi eşlik eder. 
+Kordon'un 1200 hektarlık botanik bahçesi, step bitki örtüsüne ev sahipliği yapar. İlkbaharın başlangıcında, bozkırın kuraklığa adapte türleri arasında çiçekler açar. Bu renkli manzaraya, göçmen kuşların gelmesi eşlik eder.
 
 Bitki örtüsünün hakim türleri, kuraklığa dayanıklı otlar ve çalılar şeklindedir. Mevsimsel değişimlerle birlikte, bu bitkilerin yaşamsal döngüleri değişir. Kış aylarında, bitkiler daha sakin bir hal alırken, yaz aylarında aktif büyüme dönemine girerler.
 

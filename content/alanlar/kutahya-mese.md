@@ -22,7 +22,7 @@ wikidata_id: "Q108227766"
 
 # Kutahya Mese
 
-Kutahya Mese milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor. Parkın etrafı, çeşitli bitki türleriyle dolu ormanlarla çevrilidir. Bu muhteşem doğa alanı, yaban hayatı ve ekosistemiyle birlikte, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Kutahya Mese milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Parkın etrafı, çeşitli bitki türleriyle dolu ormanlarla çevrilidir.
 
 ## Tarihçe
 

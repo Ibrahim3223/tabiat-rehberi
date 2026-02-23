@@ -30,7 +30,7 @@ wikidata_id: "Q134727950"
 
 # Kaunos Monopteros
 
-Kaunos Monopteros, Köyceğiz/Muğla'da yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir plajdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Kaunos Monopteros, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle karşılar. Bu özel plaj, Ege Bölgesi'nin en güzel noktalarından biridir ve ziyaretçilere unutulmaz anlar yaşatır.
+Kaunos Monopteros, Köyceğiz/Muğla'da yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir plajdır. Kaunos Monopteros, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzellikleriyle karşılar. Bu özel plaj, Ege Bölgesi'nin en güzel noktalarından biridir ve ziyaretçilere unutulmaz anlar yaşatır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kaunos Monopteros'un tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge
 
 ## Coğrafya
 
-Kaunos Monopteros, Köyceğiz/Muğla'da yer alır ve Ege Bölgesi'nin en güzel noktalarından biridir. Bu plaj, 140 hektarlık bir alana yayılmıştır ve yaklaşık 200 futbol sahası büyüklüğündedir. Kaunos Monopteros'un coğrafi konumu, ziyaretçilere çeşitli doğal güzellikleri bir arada deneyimleme fırsatı sunar. Bu bölge, denizi, plajı, yeşil alanları ve tarihi kalıntıları ile ziyaretçileri cezbeder. Kaunos Monopteros'un iklimi, Ege Bölgesi'nin genel iklimine benzer ve ziyaretçilere yıl boyunca güzel günler vaat eder. Bu özel plaj, çevre düzenlemeleri ile de dikkat çeker ve ziyaretçilere temiz ve düzenli bir ortam sunar.
+Kaunos Monopteros, Köyceğiz/Muğla'da yer alır ve Ege Bölgesi'nin en güzel noktalarından biridir. Kaunos Monopteros'un coğrafi konumu, ziyaretçilere çeşitli doğal güzellikleri bir arada deneyimleme fırsatı sunar. Bu bölge, denizi, plajı, yeşil alanları ve tarihi kalıntıları ile ziyaretçileri cezbeder. Kaunos Monopteros'un iklimi, Ege Bölgesi'nin genel iklimine benzer ve ziyaretçilere yıl boyunca güzel günler vaat eder. Bu özel plaj, çevre düzenlemeleri ile de dikkat çeker ve ziyaretçilere temiz ve düzenli bir ortam sunar.
 
 ## Flora ve Fauna
 

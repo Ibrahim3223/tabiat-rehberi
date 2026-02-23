@@ -22,7 +22,7 @@ wikidata_id: "Q108228284"
 
 # Adana-Adana-Adana-Karaaagac
 
-Adana-Adana-Adana-Karaaagac milli parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kapsıyor. Bu bölge, doğa severler için gerçek bir cennet. Yeşilin her tonunu görebileceğiniz bu alanda, çeşitli bitki türleri ve zengin fauna found. Milli parkın güzelliği, ziyaretçilerini etkisi altına alıyor. Burada, doğanın mucizelerini keşfetmenin keyfini çıkarabilirsiniz. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir gezi alanı sunuyor.
+ Bu bölge, doğa severler için gerçek bir cennet. Yeşilin her tonunu görebileceğiniz bu alanda, çeşitli bitki türleri ve zengin fauna found. Milli parkın güzelliği, ziyaretçilerini etkisi altına alıyor. Burada, doğanın mucizelerini keşfetmenin keyfini çıkarabilirsiniz. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir gezi alanı sunuyor.
 
 ## Tarihçe
 

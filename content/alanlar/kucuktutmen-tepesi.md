@@ -28,7 +28,7 @@ wikidata_id: "Q32211055"
 
 # Küçüktutmen Tepesi
 
-Küçüktutmen Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak Samsun ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Samsun'un önemli turizm noktalarından biri olan Küçüktutmen Tepesi, ziyaretçilerine doğal güzelliği ve tarihi geçmişi ile birlikte unutulmaz anlar vaat ediyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Ziyaretçiler, bu eşsiz doğa güzelliğini keşfetmek için buraya geliyor.
+Küçüktutmen Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak Samsun ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor. Samsun'un önemli turizm noktalarından biri olan Küçüktutmen Tepesi, ziyaretçilerine doğal güzelliği ve tarihi geçmişi ile birlikte unutulmaz anlar vaat ediyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Ziyaretçiler, bu eşsiz doğa güzelliğini keşfetmek için buraya geliyor.
 
 ## Tarihçe
 

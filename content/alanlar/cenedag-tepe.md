@@ -28,7 +28,7 @@ wikidata_id: "Q34828934"
 
 # Çenedağ Tepe
 
-Kocaeli'nin en önemli doğal güzelliklerinden biri olan Çenedağ Tepe, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Çenedağ Tepe, Marmara Bölgesi'nin en güzel manzaralarına ev sahipliği yapıyor. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkün. Çenedağ Tepe, hem doğa severler hem de tarih meraklıları için bir hazine niteliğinde.
+Kocaeli'nin en önemli doğal güzelliklerinden biri olan Çenedağ Tepe, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Çenedağ Tepe, Marmara Bölgesi'nin en güzel manzaralarına ev sahipliği yapıyor. Burada, doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme mümkün. Çenedağ Tepe, hem doğa severler hem de tarih meraklıları için bir hazine niteliğinde.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kocaeli'nin en önemli doğal güzelliklerinden biri olan Çenedağ Tepe, ziyare
 ## İlginç Bilgiler
 
 - Çenedağ Tepe, Kocaeli'nin en önemli doğal güzelliklerinden biri.
-- Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Çenedağ Tepe, Marmara Bölgesi'nin en güzel manzaralarına ev sahipliği yapıyor.
 - Bu tepe, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmış.
 - Çenedağ Tepe, bölgenin stratejik konumu nedeniyle, çeşitli savaşlarda da önemli bir rol oynamış.

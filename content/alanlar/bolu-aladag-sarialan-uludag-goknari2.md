@@ -22,7 +22,7 @@ wikidata_id: "Q108228516"
 
 # Bolu-Aladag-Sarıalan-Uludağ Göknarı2
 
-Bolu-Aladag-Sarıalan-Uludağ Göknarı2 milli parkı, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu bir doğa harikası sunar. Ziyaretçiler, bu muhteşem doğa alanında yaban hayatını gözlemleyebilir ve flora çeşitliliğini keşfedebilir. Park, Karadeniz Bölgesi'nin güzelliklerini ve doğal kaynaklarını korumak amacıyla kurulmuştur.
+ Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu bir doğa harikası sunar. Ziyaretçiler, bu muhteşem doğa alanında yaban hayatını gözlemleyebilir ve flora çeşitliliğini keşfedebilir. Park, Karadeniz Bölgesi'nin güzelliklerini ve doğal kaynaklarını korumak amacıyla kurulmuştur.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Bolu-Aladag-Sarıalan-Uludağ Göknarı2 milli parkı, Karadeniz Bölgesi'nde ye
 
 ## Flora ve Fauna
 
-Bolu-Aladag-Sarıalan-Uludağ Göknarı2 milli parkı, flora ve fauna açısından oldukça zengindir. Park, çeşitli bitki türleri ile dolu bir doğa harikası sunar ve bu bitkiler, mevsimsel değişimlere göre farklı renkler ve şekiller alır. Fauna açısından da zengin olan park, çeşitli hayvan türleri ile dolu bir yaşam alanı sunar. Ziyaretçiler, bu hayvanları doğal yaşam alanlarında gözlemleyebilir ve flora çeşitliliğini keşfedebilir. Parkın ekolojik dengesi, flora ve faunanın uyum içinde yaşamasını sağlar ve bu uyum, ziyaretçilere muhteşem bir doğa deneyimi sunar.
+ Park, çeşitli bitki türleri ile dolu bir doğa harikası sunar ve bu bitkiler, mevsimsel değişimlere göre farklı renkler ve şekiller alır. Fauna açısından da zengin olan park, çeşitli hayvan türleri ile dolu bir yaşam alanı sunar. Ziyaretçiler, bu hayvanları doğal yaşam alanlarında gözlemleyebilir ve flora çeşitliliğini keşfedebilir. Parkın ekolojik dengesi, flora ve faunanın uyum içinde yaşamasını sağlar ve bu uyum, ziyaretçilere muhteşem bir doğa deneyimi sunar.
 
 ## Ziyaret Bilgileri
 

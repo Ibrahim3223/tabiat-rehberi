@@ -1,7 +1,7 @@
 ---
 title: "Ulucanlar Cezaevi Müzesi"
 date: "2026-01-09T22:06:00.852Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q190497"
 
 # Ulucanlar Cezaevi Müzesi
 
-Ulucanlar Cezaevi Müzesi, Ankara'nın kalbinde, Altındağ ilçesinde yer alan, Türkiye'nin en önemli tarihi mekanlarından biri. Bu tarihi cezaevi, 1925 yılında inşa edilmiş ve birçok önemli olaya sahne olmuştur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarihî mirası sunuyor. Geçmişin kapılarını aralayan bu müze, her yeara binlerce ziyaretçiyi ağırlıyor.
+Ulucanlar Cezaevi Müzesi, Ankara'nın kalbinde, Altındağ ilçesinde yer alan, Türkiye'nin en önemli tarihi mekanlarından biri. Bu tarihi cezaevi, 1925 yılında inşa edilmiş ve birçok önemli olaya sahne olmuştur. Geçmişin kapılarını aralayan bu müze, her yeara binlerce ziyaretçiyi ağırlıyor.
 
 ## Tarihçe
 

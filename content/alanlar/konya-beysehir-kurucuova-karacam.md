@@ -22,7 +22,7 @@ wikidata_id: "Q108227524"
 
 # Konya-Beyşehir-Kurucuova Karacam
 
-Konya-Beyşehir-Kurucuova Karacam milli parkı, Konya'nın güneydoğusunda, İç Anadolu Bölgesi'nde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte daha da geniş bir alanı kaplar. Bu bölge, doğa severler için bir cennet gibidir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Konya-Beyşehir-Kurucuova Karacam milli parkı, hem doğa güzelliği hem de tarihi geçmişi ile ziyaretçilerini cezbeder. Bu park, Konya'nın turizm potansiyelini göstermesi açısından önemli bir yerdir.
+Konya-Beyşehir-Kurucuova Karacam milli parkı, Konya'nın güneydoğusunda, İç Anadolu Bölgesi'nde yer alır. Bu bölge, doğa severler için bir cennet gibidir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Konya-Beyşehir-Kurucuova Karacam milli parkı, hem doğa güzelliği hem de tarihi geçmişi ile ziyaretçilerini cezbeder. Bu park, Konya'nın turizm potansiyelini göstermesi açısından önemli bir yerdir.
 
 ## Tarihçe
 

@@ -48,9 +48,9 @@ Mevsimsel özelliklerine baktığımızda, Elmalı Tepe'nin iklimi, İç Anadolu
 
 ## Flora ve Fauna
 
-Elmalı Tepe, Çorum'un nemli ikliminin ve gür ormanlarının hakim olduğu bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çiçekler açar, sonbaharda ise yaprak döken ağaçlar renkli bir manzara sunar. Bu dağlık alanda, yükseklik zonlarına bağlı olarak değişen flora çeşitliliği dikkat çeker. 
-Yaban hayatı bakımından, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin bir parçasıdır. Göç eden kuşlar, sonbaharın gelmesiyle birlikte bu dağları ziyaret eder. 
+Elmalı Tepe, Çorum'un nemli ikliminin ve gür ormanlarının hakim olduğu bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çiçekler açar, sonbaharda ise yaprak döken ağaçlar renkli bir manzara sunar. Bu dağlık alanda, yükseklik zonlarına bağlı olarak değişen flora çeşitliliği dikkat çeker.
+Yaban hayatı bakımından, memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin bir parçasıdır. Göç eden kuşlar, sonbaharın gelmesiyle birlikte bu dağları ziyaret eder.
 Ekolojik değer olarak, bu dağ ekosistemi yüksek biyoçeşitlilik sunar ve bölgenin ekolojik dengesini korur. Bu nedenle, koruma altına alınması önemlidir.
 
 ## Ziyaret Bilgileri

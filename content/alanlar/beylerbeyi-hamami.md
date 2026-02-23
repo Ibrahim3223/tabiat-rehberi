@@ -1,7 +1,7 @@
 ---
 title: "Beylerbeyi Hamamı"
 date: "2026-01-09T22:12:22.337Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q12808839"
 
 # Beylerbeyi Hamamı
 
-Beylerbeyi Hamamı, İstanbul'un Üsküdar ilçesinde yer alan ve tarihi öneme sahip bir hamam ve plaj alanıdır. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kaplar. Beylerbeyi Hamamı, tarihi geçmişi ve doğal güzellikleriyle dikkat çeker. İstanbul Boğazı'na bakan bu alan, hem tarihi hem de doğal güzellikleri bir arada sunar. Ziyaretçiler, burada hem tarihi hamamı gezebilir hem de plajın keyfini çıkarabilirler.
+Beylerbeyi Hamamı, İstanbul'un Üsküdar ilçesinde yer alan ve tarihi öneme sahip bir hamam ve plaj alanıdır. Beylerbeyi Hamamı, tarihi geçmişi ve doğal güzellikleriyle dikkat çeker. İstanbul Boğazı'na bakan bu alan, hem tarihi hem de doğal güzellikleri bir arada sunar. Ziyaretçiler, burada hem tarihi hamamı gezebilir hem de plajın keyfini çıkarabilirler.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Beylerbeyi Hamamı'nın tarihi geçmişi, Osmanlı dönemine kadar uzanır. Bu h
 
 ## Coğrafya
 
-Beylerbeyi Hamamı, İstanbul'un Üsküdar ilçesinde, Marmara Bölgesi'nde yer alır. Bu bölge, Boğaziçi'nde bulunan diğer tarihi ve doğal güzelliklere yakındır. Hamam ve plaj alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbul Boğazı'na bakan bu bölge, eşsiz bir manzaraya sahiptir. Bölgenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Beylerbeyi Hamamı, çevresindeki diğer tarihi ve doğal güzelliklerle birlikte bir gezi rotası oluşturur. Ziyaretçiler, bu bölgede hem tarihi hem de doğal güzellikleri bir arada keşfedebilirler.
+Beylerbeyi Hamamı, İstanbul'un Üsküdar ilçesinde, Marmara Bölgesi'nde yer alır. Bu bölge, Boğaziçi'nde bulunan diğer tarihi ve doğal güzelliklere yakındır. İstanbul Boğazı'na bakan bu bölge, eşsiz bir manzaraya sahiptir. Bölgenin coğrafi konumu, ziyaretçilere geniş bir görüş açısı sunar. Beylerbeyi Hamamı, çevresindeki diğer tarihi ve doğal güzelliklerle birlikte bir gezi rotası oluşturur. Ziyaretçiler, bu bölgede hem tarihi hem de doğal güzellikleri bir arada keşfedebilirler.
 
 ## Flora ve Fauna
 
-Beylerbeyi Hamamı ve çevresindeki alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, özellikle mevsimsel değişimlerle birlikte farklı türlerde bitkiler ve hayvanlar bulunur. Ziyaretçiler, bu bölgede doğanın güzelliklerini gözlemleyebilirler. Özellikle bahar ve yaz aylarında, bölgeye özgü bitkilerin çiçeklenmesi, bu alanı daha da güzelleştirir. Bu bölgede, kuş türleri de dahil olmak üzere çeşitli hayvanlar yaşar. Ziyaretçiler, bu bölgede doğa yürüyüşü yapabilir ve çevreyi keşfedebilirler.
+ Bu bölgede, özellikle mevsimsel değişimlerle birlikte farklı türlerde bitkiler ve hayvanlar bulunur. Ziyaretçiler, bu bölgede doğanın güzelliklerini gözlemleyebilirler. Özellikle bahar ve yaz aylarında, bölgeye özgü bitkilerin çiçeklenmesi, bu alanı daha da güzelleştirir. Bu bölgede, kuş türleri de dahil olmak üzere çeşitli hayvanlar yaşar. Ziyaretçiler, bu bölgede doğa yürüyüşü yapabilir ve çevreyi keşfedebilirler.
 
 ## Ziyaret Bilgileri
 
@@ -51,7 +51,7 @@ Beylerbeyi Hamamı ve plajına ziyaretçiler, toplu taşıma veya özel araçlar
 ## İlginç Bilgiler
 
 - Beylerbeyi Hamamı, tarihi önemi ve doğal güzellikleriyle dikkat çeker.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Beylerbeyi Hamamı, yüzyıllar boyunca önemli bir kültürel ve sosyal merkez olarak faaliyet göstermiştir.
 - Bu bölgede, özellikle mevsimsel değişimlerle birlikte farklı türlerde bitkiler ve hayvanlar bulunur.
 - Ziyaretçiler, bu bölgede doğa yürüyüşü yapabilir ve çevreyi keşfedebilirler.

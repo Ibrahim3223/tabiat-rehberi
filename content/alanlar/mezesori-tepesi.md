@@ -28,7 +28,7 @@ wikidata_id: "Q31552263"
 
 # Mezesori Tepesi
 
-Mezesori Tepesi, Mardin'in eşsiz güzelliklerini sunan bir doğal alan olarak ziyaretçilerini bekliyor. Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Mezesori Tepesi, Mardin'in tarihi ve kültürel zenginliklerinin yanı sıra doğa severleri de cezbedecek bir destinasyon olarak dikkat çekiyor. Burada, ziyaretçiler hem tarihi kalıntıları keşfedebilir hem de doğanın güzelliğini keşfe çıkabilirler.
+Mezesori Tepesi, Mardin'in eşsiz güzelliklerini sunan bir doğal alan olarak ziyaretçilerini bekliyor. Mezesori Tepesi, Mardin'in tarihi ve kültürel zenginliklerinin yanı sıra doğa severleri de cezbedecek bir destinasyon olarak dikkat çekiyor. Burada, ziyaretçiler hem tarihi kalıntıları keşfedebilir hem de doğanın güzelliğini keşfe çıkabilirler.
 
 ## Tarihçe
 

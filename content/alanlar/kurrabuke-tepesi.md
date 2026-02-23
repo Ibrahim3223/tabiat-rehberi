@@ -28,7 +28,7 @@ wikidata_id: "Q31555873"
 
 # Kurrabuke Tepesi
 
-Kurrabuke Tepesi, Mardin'in zengin tarihi ve kültürel mirasının yanı sıra, doğal güzellikleri ile de dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan bir doğal alan ve yaklaşık 200 futbol sahası büyüklüğünde. Kurrabuke Tepesi, Mardin'in merkezine yakın bir konumda yer alıyor ve şehrin panoramik manzarasına sahip. Tepenin eteklerinde, Mardin'in tarihi ve kültürel mirasını yansıtan çeşitli yapılar ve kalıntılar bulunuyor.
+Kurrabuke Tepesi, Mardin'in zengin tarihi ve kültürel mirasının yanı sıra, doğal güzellikleri ile de dikkat çekiyor. Kurrabuke Tepesi, Mardin'in merkezine yakın bir konumda yer alıyor ve şehrin panoramik manzarasına sahip. Tepenin eteklerinde, Mardin'in tarihi ve kültürel mirasını yansıtan çeşitli yapılar ve kalıntılar bulunuyor.
 
 ## Tarihçe
 

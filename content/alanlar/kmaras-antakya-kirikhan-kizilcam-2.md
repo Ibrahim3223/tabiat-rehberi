@@ -22,7 +22,7 @@ wikidata_id: "Q108228423"
 
 # K.Maraş-Antakya-Kırıkhan-Kızılçam 2
 
-K.Maraş-Antakya-Kırıkhan-Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle kaplıdır. Burada yer alan ağaçlar, çoğunlukla yerli türlerden oluşmakta ve bölgenin ekolojik dengesine katkıda bulunmaktadır. Milli parkın giriş bölümünde, ziyaretçilere doğal güzelliklerin korunması hakkında bilgiler verilmektedir. Bu bölgede, doğa yürüyüşleri ve fotoğrafçılık gibi etkinlikler yapılabilmektedir.
+K.Maraş-Antakya-Kırıkhan-Kızılçam 2 milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Burada yer alan ağaçlar, çoğunlukla yerli türlerden oluşmakta ve bölgenin ekolojik dengesine katkıda bulunmaktadır. Milli parkın giriş bölümünde, ziyaretçilere doğal güzelliklerin korunması hakkında bilgiler verilmektedir. Bu bölgede, doğa yürüyüşleri ve fotoğrafçılık gibi etkinlikler yapılabilmektedir.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ K.Maraş-Antakya-Kırıkhan-Kızılçam 2 milli parkını ziyaret etmek, doğa s
 ## İlginç Bilgiler
 
 - Milli parkın kuruluşu, bölgenin doğal kaynaklarının korunması amacıyla gerçekleştirilmiştir.
-- Milli park, 140 hektarlık bir alanı kapsamakta ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Milli parkın flora çeşitliliği, çoğunlukla yerli türlerden oluşmakta.
 - Milli parkın fauna çeşitliliği, kuşlar, memeliler ve sürüngenler gibi farklı hayvan türlerini içermektedir.
 - Milli parka gitmek için, en iyi mevsim ilkbahar ve yaz aylarıdır.

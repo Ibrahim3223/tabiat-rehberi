@@ -28,7 +28,7 @@ wikidata_id: "Q31557792"
 
 # Budumkalesi Tepesi
 
-Budumkalesi Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin keyifli bir gün geçirmesine olanak tanıyor. Tepenin eteklerinde ve zirvesinde bulunan tarihi eserler ve doğal güzellikler, ziyaretçilerin dikkatini çekiyor. Budumkalesi Tepesi, Ankara'nın merkezine yakınlığıyla da dikkat çekiyor ve ulaşım kolaylığı sunuyor.
+Budumkalesi Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak, ziyaretçilerine hem tarihi hem de doğal güzellikleri sunuyor. Tepenin eteklerinde ve zirvesinde bulunan tarihi eserler ve doğal güzellikler, ziyaretçilerin dikkatini çekiyor. Budumkalesi Tepesi, Ankara'nın merkezine yakınlığıyla da dikkat çekiyor ve ulaşım kolaylığı sunuyor.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q28220088"
 
 # Ayvat Bendi Tabiat Parkı
 
-Ayvat Bendi Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kaplayan bir doğa harikası. Bu yeşil cennet, ziyaretçilerini doğanın kucağına davet ediyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere doğanın güzelliğini keşfetmek için geniş bir alan sunuyor. Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Ayvat Bendi Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kaplayan bir doğa harikası. Bu yeşil cennet, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

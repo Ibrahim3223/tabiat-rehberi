@@ -28,7 +28,7 @@ wikidata_id: "Q31388052"
 
 # Keleserdağı Tepesi
 
-Keleserdağı Tepesi, Muş'un doğal güzelliklerinden biri olarak Doğu Anadolu Bölgesi'nde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, bu bölgeyi doğa severler için bir cennet haline getiriyor. Keleserdağı Tepesi, hem doğanın güzelliğini hem de tarihi geçmişi ile ziyaretçilerini büyülüyor. Bu büyüleyici mekan, her mevsim farklı bir güzellik sunuyor ve ziyaretçilerini doğanın tadını çıkarmaya davet ediyor.
+Keleserdağı Tepesi, Muş'un doğal güzelliklerinden biri olarak Doğu Anadolu Bölgesi'nde yer alır. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, bu bölgeyi doğa severler için bir cennet haline getiriyor. Keleserdağı Tepesi, hem doğanın güzelliğini hem de tarihi geçmişi ile ziyaretçilerini büyülüyor. Bu büyüleyici mekan, her mevsim farklı bir güzellik sunuyor ve ziyaretçilerini doğanın tadını çıkarmaya davet ediyor.
 
 ## Tarihçe
 

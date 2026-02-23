@@ -47,7 +47,7 @@ Tuzla Gölü'nün boyutları hakkında detaylı bilgi olmasa da, genel olarak k�
 
 Mevsimsel değişiklikler, Tuzla Gölü'nün iklim karakterini şekillendiriyor. Bölgenin sıcak ve kuru bir iklimi olduğu biliniyor, bu nedenle gölün su seviyesi mevsimlere göre değişiyor. Yaz aylarında sıcaklığın artmasıyla su seviyesi düşerken, kış aylarında yağışlarla birlikte su seviyesi yükseliyor. Bu mevsimsel özellikler, gölün ekosistemini ve canlı yaşamını etkiliyor.
 
-Doğal kaynaklar açısından zengin bir bölge olan Tuzla Gölü, komşu alanlar ve su kaynaklarıyla birlikte bir bütün oluşturuyor. Yakınlardaki diğer göller ve nehirler, Tuzla Gölü'nü daha büyük bir ekosistem içerisinde konumlandırıyor. Bu bağlantılar, gölün su dengesini ve canlı çeşitliliğini etkiliyor. Tuzla Gölü, bölgenin ekolojik dengesini korumak açısından önemli bir rol oynuyor.
+Doğal kaynaklar açısından zengin bir bölge olan Tuzla Gölü, komşu alanlar ve su kaynaklarıyla birlikte bir bütün oluşturuyor. Yakınlardaki diğer göller ve nehirler, Tuzla Gölü'nü daha büyük bir ekosistem içerisinde konumlandırıyor. Bu bağlantılar, gölün su dengesini ve canlı çeşitliliğini etkiliyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Karababa Türbesi"
 date: "2026-01-10T06:23:38.295Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391816"
 
 # Karababa Türbesi
 
-Marmara Bölgesi'nin güzide illerinden Edirne'nin Meriç ilçesinde bulunan Karababa Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilerini doğanın kucağına davet ediyor. Karababa Türbesi, tarihi ve doğal güzelliği ile birlikte ziyaretçilerine unutulmaz bir deneyim sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Karababa Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor.
+ Bu alan, ziyaretçilerini doğanın kucağına davet ediyor. Karababa Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Karababa Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetl
 
 ## Coğrafya
 
-Karababa Türbesi, Marmara Bölgesi'nin Edirne ilinin Meriç ilçesinde bulunuyor. Bu bölge, coğrafi olarak 140 hektarlık bir yeşil alanla çevrili. Karababa Türbesi'nin coğrafi konumu, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Karababa Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Bu bölge, coğrafi olarak zengin bir flora ve faunaya sahip. Karababa Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve hayvan çeşitleriyle ziyaretçilerini cezbediyor.
+Karababa Türbesi, Marmara Bölgesi'nin Edirne ilinin Meriç ilçesinde bulunuyor. Bu bölge, coğrafi olarak 140 hektarlık bir yeşil alanla çevrili. Karababa Türbesi'nin coğrafi konumu, ziyaretçilerine doğal güzellikleri keşfetme fırsatı sunuyor. Karababa Türbesi, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Bu bölge, coğrafi olarak zengin bir flora ve faunaya sahip. Karababa Türbesi'nin bulunduğu bölge, çeşitli bitki türleri ve hayvan çeşitleriyle ziyaretçilerini cezbediyor.
 
 ## Flora ve Fauna
 

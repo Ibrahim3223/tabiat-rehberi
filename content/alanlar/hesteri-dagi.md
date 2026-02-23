@@ -50,9 +50,9 @@ Bölgenin ekosistem bağlantıları açısından önemli bir role sahip olan He�
 
 ## Flora ve Fauna
 
-Heşteri Dağı, Bitlis'in yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu dağda, mevsimsel değişimlere bağlı olarak flora ve fauna da değişiklik gösteriyor. İlkbaharda, alpin çayırlar renkli çiçeklerle donanıyor. 
+Heşteri Dağı, Bitlis'in yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu dağda, mevsimsel değişimlere bağlı olarak flora ve fauna da değişiklik gösteriyor. İlkbaharda, alpin çayırlar renkli çiçeklerle donanıyor.
 
-Bitki örtüsünün hakim türleri, bölgenin yükseklik zonlarına göre değişiyor. Dağın yüksek kesimlerinde, dayanıklı ve düşük büyüyen bitkiler hakim. Mevsimsel değişimlere bağlı olarak, sonbaharda çiçekler soluyor ve göç eden kuşlar bu bölgeyi ziyaret ediyor. 
+Bitki örtüsünün hakim türleri, bölgenin yükseklik zonlarına göre değişiyor. Dağın yüksek kesimlerinde, dayanıklı ve düşük büyüyen bitkiler hakim. Mevsimsel değişimlere bağlı olarak, sonbaharda çiçekler soluyor ve göç eden kuşlar bu bölgeyi ziyaret ediyor.
 
 Yaban hayatı da oldukça zengin. Dağ keçileri, çakallar ve tilkiler gibi memeliler, kartallar ve şahinler gibi kuşlar, ve çeşitli sürüngenler bu bölgenin sakinleri. Bu canlılar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve yaşam alanlarıyla yakın bir ilişki içinde. Heşteri Dağı, yüksek dağ ekolojisi ve alpin çayırların bir araya geldiği ender bölgelerden biri. Bu nedenle, ekolojik değerinin korunması büyük önem taşıyor.
 

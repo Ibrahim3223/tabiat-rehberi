@@ -29,7 +29,7 @@ wikidata_id: "Q31385558"
 
 # Kuş Tepesi
 
-Kuş Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan Niğde ilinin önemli doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini etkileyen bir manzaraya sahiptir. Tepenin fiziksel özellikleri, bölgenin coğrafi yapısına uygun olarak oluşmuş ve yüzyıllar boyunca şekillenmiştir. Kuş Tepesi, aynı zamanda tarihi geçmişiyle dikkat çekiyor ve ziyaretçilerini geçmişe götürmeye davet ediyor. Tepede yapılan araştırmalar, bölgenin zengin bir tarihe sahip olduğunu gösteriyor.
+Kuş Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan Niğde ilinin önemli doğal güzelliklerinden biridir. Tepenin fiziksel özellikleri, bölgenin coğrafi yapısına uygun olarak oluşmuş ve yüzyıllar boyunca şekillenmiştir. Kuş Tepesi, aynı zamanda tarihi geçmişiyle dikkat çekiyor ve ziyaretçilerini geçmişe götürmeye davet ediyor. Tepede yapılan araştırmalar, bölgenin zengin bir tarihe sahip olduğunu gösteriyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kuş Tepesi'nin tarihi geçmişi, yüzyıllar öncesine uzanıyor. Bölge, tarih
 
 ## Coğrafya
 
-Kuş Tepesi, Niğde ilinin coğrafi yapısına uygun olarak oluşmuş ve bölgenin doğal güzelliklerini ortaya koyuyor. Tepenin coğrafi özellikleri, ziyaretçilerini etkileyen bir manzaraya sahip ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi yapısına sahip ve ziyaretçilerine geniş bir görüş açısı sunuyor. Kuş Tepesi, aynı zamanda iklimsel özellikleriyle dikkat çekiyor ve ziyaretçilerini bn mevsim boyunca farklı bir deneyimle karşılayacak şekilde tasarlanmış. Tepenin çevresi, çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilere zengin bir ekosistem sunuyor.
+Kuş Tepesi, Niğde ilinin coğrafi yapısına uygun olarak oluşmuş ve bölgenin doğal güzelliklerini ortaya koyuyor. Bölge, İç Anadolu Bölgesi'nin karakteristik coğrafi yapısına sahip ve ziyaretçilerine geniş bir görüş açısı sunuyor. Kuş Tepesi, aynı zamanda iklimsel özellikleriyle dikkat çekiyor ve ziyaretçilerini bn mevsim boyunca farklı bir deneyimle karşılayacak şekilde tasarlanmış. Tepenin çevresi, çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilere zengin bir ekosistem sunuyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Tarihi Çarşı Hamamı"
 date: "2026-01-09T22:30:09.806Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Malatya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738467"
 
 # Tarihi Çarşı Hamamı
 
-Tarihi Çarşı Hamamı, Doğu Anadolu Bölgesi'ninMeritli bir noktası olan Battalgazi ilçesinde yer alıyor. Bu tarihi plaj, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu geniş alan, ziyaretçilere geniş bir hareket alanı sunuyor. Tarihi Çarşı Hamamı, bölgenin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor.
+Tarihi Çarşı Hamamı, Doğu Anadolu Bölgesi'ninMeritli bir noktası olan Battalgazi ilçesinde yer alıyor. Bu geniş alan, ziyaretçilere geniş bir hareket alanı sunuyor. Tarihi Çarşı Hamamı, bölgenin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor.
 
 ## Tarihçe
 

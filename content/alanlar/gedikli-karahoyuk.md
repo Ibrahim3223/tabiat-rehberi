@@ -29,7 +29,7 @@ wikidata_id: "Q6096416"
 
 # Gedikli Karahöyük
 
-Gedikli Karahöyük, Güneydoğu Anadolu Bölgesi'nin önemli tarihi merkezlerinden biridir. Gaziantep ilinde bulunan bu tepe, yaklaşık 140 hektarlık alanı ile dikkat çekmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini tarihi ve kültürel değerleri ile karşılamaktadır. Gedikli Karahöyük'ün tarihi geçmişi, ziyaretçilerini geçmişe götürmekte ve onlar için eşsiz bir deneyim olmaktadır. Bu tepe, coğrafi konumu itibari ile de ilgi çekici olup, ziyaretçilerini beklemektedir.
+Gedikli Karahöyük, Güneydoğu Anadolu Bölgesi'nin önemli tarihi merkezlerinden biridir. Gaziantep ilinde bulunan bu tepe, yaklaşık 140 hektarlık alanı ile dikkat çekmektedir. Gedikli Karahöyük'ün tarihi geçmişi, ziyaretçilerini geçmişe götürmekte ve onlar için eşsiz bir deneyim olmaktadır. Bu tepe, coğrafi konumu itibari ile de ilgi çekici olup, ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gedikli Karahöyük'ün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Gedikli Karahöyük, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Gaziantep ilinde bulunan bu tepe, yaklaşık 140 hektarlık alanı ile dikkat çekmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini coğrafi güzellikleri ile karşılamaktadır. Gedikli Karahöyük'ün coğrafi konumu, ziyaretçileri için önemli bir bilgi kaynağı oluşturmaktadır. Bu tepe, coğrafi olarak ilgi çekici olup, ziyaretçilerini beklemektedir. Gedikli Karahöyük'ün coğrafyası, ziyaretçileri için eşsiz bir deneyim sunmaktadır. Bu tepe, coğrafi konumu itibari ile de ilgi çekici olup, ziyaretçilerini beklemektedir. Gedikli Karahöyük'ün iklimi, ziyaretçileri için önemli bir bilgi kaynağı oluşturmaktadır. Bu tepe, coğrafi olarak ilgi çekici olup, ziyaretçilerini beklemektedir.
+Gedikli Karahöyük, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Gaziantep ilinde bulunan bu tepe, yaklaşık 140 hektarlık alanı ile dikkat çekmektedir. Gedikli Karahöyük'ün coğrafi konumu, ziyaretçileri için önemli bir bilgi kaynağı oluşturmaktadır. Bu tepe, coğrafi olarak ilgi çekici olup, ziyaretçilerini beklemektedir. Gedikli Karahöyük'ün coğrafyası, ziyaretçileri için eşsiz bir deneyim sunmaktadır. Bu tepe, coğrafi konumu itibari ile de ilgi çekici olup, ziyaretçilerini beklemektedir. Gedikli Karahöyük'ün iklimi, ziyaretçileri için önemli bir bilgi kaynağı oluşturmaktadır. Bu tepe, coğrafi olarak ilgi çekici olup, ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 

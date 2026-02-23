@@ -52,11 +52,11 @@ Doğal bir ekosistem olarak, Kaz Gölü'nün çevresel ilişkileri önemlidir. G
 
 ## Flora ve Fauna
 
-Kaz Gölü, Tokat'ın göbeğinde yer alan 1200 hektarlık bir yeşil cennet. Bu sulak alan, step bitki örtüsünün hakim olduğu bozkırın ortasında, kuraklığa adapte olmuş türlerin yaşam alanı olarak dikkat çekiyor. 
+Kaz Gölü, Tokat'ın göbeğinde yer alan 1200 hektarlık bir yeşil cennet. Bu sulak alan, step bitki örtüsünün hakim olduğu bozkırın ortasında, kuraklığa adapte olmuş türlerin yaşam alanı olarak dikkat çekiyor.
 
-Bitki Örtüsü bölümünden başlayacak olursak, ilkbaharın gelmesiyle birlikte gölün etrafı rengarenk çiçeklerle donanıyor. Step bitkileri, gölün su seviyesine bağlı olarak değişen mevsimsel görünümüyle dikkat çekiyor. 
+Bitki Örtüsü bölümünden başlayacak olursak, ilkbaharın gelmesiyle birlikte gölün etrafı rengarenk çiçeklerle donanıyor. Step bitkileri, gölün su seviyesine bağlı olarak değişen mevsimsel görünümüyle dikkat çekiyor.
 
-Yaban Hayatı açısından bakıldığında, su kuşları ve balıklar gölün ekosisteminin temel bileşenleri. Göç mevsiminde, çeşitli kuş türleri buraya uğradıkları için, bu sulak alan önemli bir göç rotası olarak kabul ediliyor. 
+Yaban Hayatı açısından bakıldığında, su kuşları ve balıklar gölün ekosisteminin temel bileşenleri. Göç mevsiminde, çeşitli kuş türleri buraya uğradıkları için, bu sulak alan önemli bir göç rotası olarak kabul ediliyor.
 
 Ekolojik Değerini düşününce, Kaz Gölü'nün korunması oldukça önemli. Bu alan, bölgedeki su döngüsünü düzenleyerek, kuraklığa adapte olmuş türlerin yaşamını sürdürmesinde kritik bir rol oynuyor.
 

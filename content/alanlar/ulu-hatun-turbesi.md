@@ -1,7 +1,7 @@
 ---
 title: "Ulu Hatun Türbesi"
 date: "2026-01-10T07:05:47.980Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390859"
 
 # Ulu Hatun Türbesi
 
-Ulu Hatun Türbesi, Kocasinan, Kayseri'de yer alan bir tarihi mekan. Bu türbe, yaklaşık 140 hektarlık bir alanda bulunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Ulu Hatun Türbesi, tarihi geçmişi ve kültürel önemi ile dikkat çekiyor. Türbenin mimarisi ve tarihi özellikleri, ziyaretçilerini etkiliyor. Ulu Hatun Türbesi, İç Anadolu Bölgesi'nin önemli tarihi mekanlarından biri.
+Ulu Hatun Türbesi, Kocasinan, Kayseri'de yer alan bir tarihi mekan. Bu türbe, yaklaşık 140 hektarlık bir alanda bulunuyor. Ulu Hatun Türbesi, tarihi geçmişi ve kültürel önemi ile dikkat çekiyor. Türbenin mimarisi ve tarihi özellikleri, ziyaretçilerini etkiliyor. Ulu Hatun Türbesi, İç Anadolu Bölgesi'nin önemli tarihi mekanlarından biri.
 
 ## Tarihçe
 

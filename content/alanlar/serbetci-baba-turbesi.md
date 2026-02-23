@@ -1,7 +1,7 @@
 ---
 title: "Şerbetçi Baba Türbesi"
 date: "2026-01-10T06:29:59.387Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391812"
 
 # Şerbetçi Baba Türbesi
 
-Gelibolu'nun tarihi ve doğal güzellikleri arasında yer alan Şerbetçi Baba Türbesi, Çanakkale'nin önemli dini ve turistik mekanlarından biri. Bu mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Çanakkale'nin önemli bir kültürel mirası olarak kabul ediliyor. Şerbetçi Baba Türbesi, Gelibolu'nun merkezine uzun bir mesafe uzaklıkta bulunuyor ve burada bulunan tarihi türbe, çevresi ile birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Burada yer alan türbe, tarihi ve dini önemi ile birlikte ziyaretçilerini cezbediyor.
+Gelibolu'nun tarihi ve doğal güzellikleri arasında yer alan Şerbetçi Baba Türbesi, Çanakkale'nin önemli dini ve turistik mekanlarından biri. Bu mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve Çanakkale'nin önemli bir kültürel mirası olarak kabul ediliyor. Burada yer alan türbe, tarihi ve dini önemi ile birlikte ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Gelibolu'nun tarihi ve doğal güzellikleri arasında yer alan Şerbetçi Baba T
 
 ## Coğrafya
 
-Şerbetçi Baba Türbesi, Çanakkale'nin Gelibolu ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin önemli bir coğrafi konumuda bulunuyor. Türbenin bulunduğu alan, Gelibolu'nun merkezine uzun bir mesafe uzaklıkta ve buraya ulaşım oldukça kolay. Şerbetçi Baba Türbesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve burası, çevresi ile birlikte yaklaşık 200 futbol sahası büyüklüğünde. Bu mekanın coğrafi konumu, ziyaretçilere Gelibolu'nun doğal güzelliklerini sunuyor. Şerbetçi Baba Türbesi, Gelibolu'nun tarihi ve turistik mekanları arasında önemli bir yer tutuyor ve buraya gelen ziyaretçiler, hem tarihin izlerini hem de doğal güzellikleri görebiliyorlar. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve buraya gelen ziyaretçiler, yılın her dönemi güzel bir hava koşulu ile karşılaşıyorlar.
+Şerbetçi Baba Türbesi, Çanakkale'nin Gelibolu ilçesinde yer alıyor. Bu mekan, Marmara Bölgesi'nin önemli bir coğrafi konumuda bulunuyor. Türbenin bulunduğu alan, Gelibolu'nun merkezine uzun bir mesafe uzaklıkta ve buraya ulaşım oldukça kolay. Bu mekanın coğrafi konumu, ziyaretçilere Gelibolu'nun doğal güzelliklerini sunuyor. Şerbetçi Baba Türbesi, Gelibolu'nun tarihi ve turistik mekanları arasında önemli bir yer tutuyor ve buraya gelen ziyaretçiler, hem tarihin izlerini hem de doğal güzellikleri görebiliyorlar. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve buraya gelen ziyaretçiler, yılın her dönemi güzel bir hava koşulu ile karşılaşıyorlar.
 
 ## Flora ve Fauna
 

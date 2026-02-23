@@ -46,7 +46,7 @@ Gölün fiziksel yapısı hakkında detaylı bilgi bulunmasa da, Erçek Gölü'n
 
 İklim açısından bakıldığında, Erçek Gölü'nün bulunduğu bölge, karasal iklimin etkisindedir. Bu, mevsimsel olarak sıcaklık ve yağış miktarının değişken olmasına neden olur. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir hava durumu hakimdir. Bu iklim koşulları, gölün su seviyesi ve çevresindeki ekosistemi etkileyebilir.
 
-Bölgenin ekosistem bağlantıları açısından, Erçek Gölü'nün Van Gölü'ne yakınlığı önemlidir. Bu iki göl arasındaki su kaynakları ve ekosistem ilişkileri, bölgenin biyolojik çeşitliliğini etkileyebilir. Ayrıca, gölün bulunduğu ova ve dağlık araziler, çeşitli bitki ve hayvan türleri için yaşam alanı sağlar. Bu nedenle, Erçek Gölü'nün çevresel ilişkileri, bölgenin ekolojik dengesini korumak açısından önemlidir.
+Bölgenin ekosistem bağlantıları açısından, Erçek Gölü'nün Van Gölü'ne yakınlığı önemlidir. Bu iki göl arasındaki su kaynakları ve ekosistem ilişkileri, bölgenin biyolojik çeşitliliğini etkileyebilir. Ayrıca, gölün bulunduğu ova ve dağlık araziler, çeşitli bitki ve hayvan türleri için yaşam alanı sağlar.
 
 ## Flora ve Fauna
 

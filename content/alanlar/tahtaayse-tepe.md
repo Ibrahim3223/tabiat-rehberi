@@ -67,4 +67,4 @@ Tahtaayşe Tepe, doğa severler için bir cennet. Sabah erken gitmenizi öneriri
 - Diyarbakır'ın toplam yüzölçümü 15.355 kilometrekare iken, Tahtaayşe Tepe bu geniş alanın bir parçasını oluşturur.
 - Tahtaayşe Tepe'nin yüksekliği ve coğrafi konumu, bölgenin iklimini etkileyen faktörler arasındadır.
 - Diyarbakır, tarihi ve kültürel zenginlikleriyle bilinen bir şehirdir ve Tahtaayşe Tepe de bu zenginliğin bir parçayı temsil etmektedir.
-- Tahtaayşe Tepe'nin etrafındaki bölge, çeşitli históri ve doğal güzelliklerle dolu olup, ziyaretçilere keşfedilecek çok şey sunar.
+- Tahtaayşe Tepe'nin etrafındaki bölge, çeşitli tarihi ve doğal güzelliklerle dolu olup, ziyaretçilere keşfedilecek çok şey sunar.

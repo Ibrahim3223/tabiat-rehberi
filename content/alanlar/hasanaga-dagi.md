@@ -28,7 +28,7 @@ wikidata_id: "Q31386338"
 
 # Hasanağa Dağı
 
-Hasanağa Dağı, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan bir doğa harikasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi güzelliği ile dikkat çekmektedir. Hasanağa Dağı, Kilis ilinin merkezine uzun bir mesafe uzaklıkta yer almaktadır. Bu dağ, yerliler ve turistler tarafından sıkça ziyaret edilmektedir. Ziyaretçiler, Hasanağa Dağı'nın zirvesine tırmanarak muhteşem manzarayı izleme fırsatı bulabilirler. Ayrıca, doğa yürüyüşü yapma ve fotoğrafçılık için de ideal bir yerdir.
+Hasanağa Dağı, Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan bir doğa harikasıdır. Hasanağa Dağı, Kilis ilinin merkezine uzun bir mesafe uzaklıkta yer almaktadır. Bu dağ, yerliler ve turistler tarafından sıkça ziyaret edilmektedir. Ziyaretçiler, Hasanağa Dağı'nın zirvesine tırmanarak muhteşem manzarayı izleme fırsatı bulabilirler. Ayrıca, doğa yürüyüşü yapma ve fotoğrafçılık için de ideal bir yerdir.
 
 ## Tarihçe
 

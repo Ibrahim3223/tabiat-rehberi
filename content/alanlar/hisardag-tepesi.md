@@ -1,7 +1,7 @@
 ---
 title: "Hisardağ Tepesi"
 date: "2026-01-10T11:48:32.086Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Ankara"
@@ -28,7 +28,7 @@ wikidata_id: "Q31520667"
 
 # Hisardağ Tepesi
 
-Hisardağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir tepe ve doğal güzellik alanıdır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakındır. Bu tepe, Ankara'nın tarihini ve kültürünü öğrenmek isteyenler için önemli bir noktadır. Hisardağ Tepesi, aynı zamanda doğa severler için de ideal bir destinasyondur. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Hisardağ Tepesi, Ankara'nın güzelliklerini keşfetmek isteyenler için mükemmel bir seçenektir.
+Hisardağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunan bir tepe ve doğal güzellik alanıdır. Bu tepe, Ankara'nın tarihini ve kültürünü öğrenmek isteyenler için önemli bir noktadır. Hisardağ Tepesi, aynı zamanda doğa severler için de ideal bir destinasyondur. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Hisardağ Tepesi, Ankara'nın güzelliklerini keşfetmek isteyenler için mükemmel bir seçenektir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hisardağ Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Hisardağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunur. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Hisardağ Tepesi, 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine oldukça yakındır. Tepenin yüksekliği, Ankara'nın diğer bölgelerine göre daha yüksektir. Hisardağ Tepesi, Ankara'nın coğrafyasını öğrenmek isteyenler için önemli bir noktadır. Tepenin coğrafi konumu, Ankara'nın iklimini ve çevresini şekillendirmiştir. Hisardağ Tepesi, Ankara'nın güzelliklerini keşfetmek isteyenler için mükemmel bir seçenektir. Tepenin etrafında, çeşitli yürüyüş yolları ve manzaralar bulunur.
+Hisardağ Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunur. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin yüksekliği, Ankara'nın diğer bölgelerine göre daha yüksektir. Hisardağ Tepesi, Ankara'nın coğrafyasını öğrenmek isteyenler için önemli bir noktadır. Tepenin coğrafi konumu, Ankara'nın iklimini ve çevresini şekillendirmiştir. Hisardağ Tepesi, Ankara'nın güzelliklerini keşfetmek isteyenler için mükemmel bir seçenektir. Tepenin etrafında, çeşitli yürüyüş yolları ve manzaralar bulunur.
 
 ## Flora ve Fauna
 

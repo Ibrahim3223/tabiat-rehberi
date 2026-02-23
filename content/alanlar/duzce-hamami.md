@@ -1,7 +1,7 @@
 ---
 title: "Düzce Hamamı"
 date: "2026-01-09T22:59:16.210Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738850"
 
 # Düzce Hamamı
 
-Düzce Hamamı, İzmir'in Seferihisar ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile dikkat çekmeyi başaran bir plajdır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunmaktadır. Düzce Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir. Düzce Hamamı'nın güzelliği ve zengin faunası, ziyaretçilerini doğanın kucağına davet etmektedir.
+Düzce Hamamı, İzmir'in Seferihisar ilçesinde yer alan ve yaklaşık 140 hektarlık yeşil alanı ile dikkat çekmeyi başaran bir plajdır. Düzce Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından tercih edilmektedir. Düzce Hamamı'nın güzelliği ve zengin faunası, ziyaretçilerini doğanın kucağına davet etmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Düzce Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b
 
 ## Coğrafya
 
-Düzce Hamamı, Seferihisar ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer almaktadır. Bu plaj, 140 hektarlık bir yeşil alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Düzce Hamamı, Ege Denizi'ne kıyısı olan bir plajdır ve deniz suyu, genellikle sakin ve berraktır. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu bölgenin iklimi, genel olarak Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Düzce Hamamı'nın coğrafi konumu, ziyaretçilerine hem deniz hem de yeşil alanın güzelliğini sunmaktadır.
+Düzce Hamamı, Seferihisar ilçesinde, Ege Bölgesi'nin kıyı şeridinde yer almaktadır. Düzce Hamamı, Ege Denizi'ne kıyısı olan bir plajdır ve deniz suyu, genellikle sakin ve berraktır. Plajın etrafında, çeşitli bitki türleri ve ağaçlar bulunmaktadır. Bu bölgenin iklimi, genel olarak Akdeniz ikliminin karakteristik özelliklerini taşır. Yaz ayları sıcak ve kurak, kış ayları ise ılık ve yağışlı geçer. Düzce Hamamı'nın coğrafi konumu, ziyaretçilerine hem deniz hem de yeşil alanın güzelliğini sunmaktadır.
 
 ## Flora ve Fauna
 

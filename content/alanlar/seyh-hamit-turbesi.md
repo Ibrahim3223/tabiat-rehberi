@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Hamit Türbesi"
 date: "2026-01-10T07:52:14.587Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582870"
 
 # Şeyh Hamit Türbesi
 
-Şeyh Hamit Türbesi, Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyon. Mardin'in Artuklu ilçesinde bulunan bu türbe, yöre halkı tarafından büyük bir saygı görmekte. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki doğal güzelliklerle birlikte ziyaretçilerini büyülemektedir. Şeyh Hamit Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbetmekte.
+Şeyh Hamit Türbesi, Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyon. Mardin'in Artuklu ilçesinde bulunan bu türbe, yöre halkı tarafından büyük bir saygı görmekte. Şeyh Hamit Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbetmekte.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q135582870"
 
 ## Coğrafya
 
-Şeyh Hamit Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini yansıtan önemli bir nokta. Mardin'in Artuklu ilçesinde yer alan bu türbe, doğal güzellikleriyle birlikte ziyaretçilerini cezbediyor. Çevresinde bulunan dağlar, vadiler ve ovalar, bu bölgeyi bir doğa harikası haline getirmekte. 180 hektarlık bir alan, yaklaşık 250 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilerine geniş bir gezinti alanı sunmakta. Şeyh Hamit Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmesine olanak tanıyor. Bu bölge, çeşitli bitki türleri ve zengin faunasıyla birlikte, bir doğa severin hayalini süsleyecek güzellikte.
+Şeyh Hamit Türbesi, Güneydoğu Anadolu Bölgesi'nin coğrafi güzelliklerini yansıtan önemli bir nokta. Mardin'in Artuklu ilçesinde yer alan bu türbe, doğal güzellikleriyle birlikte ziyaretçilerini cezbediyor. Çevresinde bulunan dağlar, vadiler ve ovalar, bu bölgeyi bir doğa harikası haline getirmekte. Şeyh Hamit Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmesine olanak tanıyor. Bu bölge, çeşitli bitki türleri ve zengin faunasıyla birlikte, bir doğa severin hayalini süsleyecek güzellikte.
 
 ## Flora ve Fauna
 

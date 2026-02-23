@@ -28,7 +28,7 @@ wikidata_id: "Q34810100"
 
 # Üçbacalı Tepe
 
-Üçbacalı Tepe, Gümüşhane ilinin önemli coğrafi noktalarından biridir. Bu tepe, Karadeniz Bölgesi'nin zengin doğası içerisinde yer alır ve ziyaretçilerine benzersiz bir deneyim sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte bir alanı düşünmek, buranın ne kadar geniş ve büyük olduğunu anlamamızı sağlar. Üçbacalı Tepe'nin eteklerinde ve etrafında çeşitli bitki türleri bulunur ve bu tepe, özellikle doğa severler için bir cennet olarak kabul edilebilir. Burada, ziyaretçiler hem doğanın güzelliğini hem de bölgenin tarihi zenginliğini keşfedebilirler.
+Üçbacalı Tepe, Gümüşhane ilinin önemli coğrafi noktalarından biridir. Bu tepe, Karadeniz Bölgesi'nin zengin doğası içerisinde yer alır ve ziyaretçilerine benzersiz bir deneyim sunar. Üçbacalı Tepe'nin eteklerinde ve etrafında çeşitli bitki türleri bulunur ve bu tepe, özellikle doğa severler için bir cennet olarak kabul edilebilir. Burada, ziyaretçiler hem doğanın güzelliğini hem de bölgenin tarihi zenginliğini keşfedebilirler.
 
 ## Tarihçe
 

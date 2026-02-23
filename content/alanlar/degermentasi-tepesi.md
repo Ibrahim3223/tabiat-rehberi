@@ -28,7 +28,7 @@ wikidata_id: "Q31388182"
 
 # Değermentaşı Tepesi
 
-Değermentaşı Tepesi, Denizli'nin görkemli doğasını keşfetmek isteyenler için bir cennet. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere sonsuz bir keşif alanı sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu doğa harikası, sadece Denizli'nin değil, tüm Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor.
+Değermentaşı Tepesi, Denizli'nin görkemli doğasını keşfetmek isteyenler için bir cennet. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Bu doğa harikası, sadece Denizli'nin değil, tüm Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

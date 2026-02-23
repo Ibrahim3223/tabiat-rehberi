@@ -29,7 +29,7 @@ wikidata_id: "Q108228154"
 
 # Gümüldür Tabiat Parkı
 
-Gümüldür Tabiat Parkı, İzmir'in Menderes ilçesinde yer alan 140 hektarlık geniş bir yeşil alan sunar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere doğayla iç içe bir deneyim sunar. Park, Ege Bölgesi'nin güzelliklerini gözler önüne sererken, aynı zamanda ziyaretçilere doğa yürüyüşleri, piknik alanları ve çeşitli bitkilerle dolu bir ortam sağlar. Gümüldür Tabiat Parkı, doğa severler için gerçek bir cennet olarak kabul edilebilir.
+Gümüldür Tabiat Parkı, İzmir'in Menderes ilçesinde yer alan 140 hektarlık geniş bir yeşil alan sunar. Park, Ege Bölgesi'nin güzelliklerini gözler önüne sererken, aynı zamanda ziyaretçilere doğa yürüyüşleri, piknik alanları ve çeşitli bitkilerle dolu bir ortam sağlar. Gümüldür Tabiat Parkı, doğa severler için gerçek bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 

@@ -47,11 +47,11 @@ Doğdu Dağı'nın fiziksel yapısı hakkında detaylı bilgi olmasa da, coğraf
 
 İklim açısından bakıldığında, İç Anadolu Bölgesi'nin karasal ikliminin etkisi altında olan Doğdu Dağı, mevsimsel olarak farklı hava koşullarına sahiptir. Kış aylarında sıcaklığın -10 dereceye kadar düştüğü ve yaz aylarında 25 dereceye kadar çıktığı bilinmektedir. Bu mevsimsel değişiklikler, bölgenin flora ve fauna yapısını şekillendirmektedir.
 
-Çevresel açıdan bakıldığında, Doğdu Dağı, etrafındaki ovalar ve platolardan oluşan bir ekosistemle bağlantılıdır. Bu bölgede yer alan su kaynakları, bölgenin tarımsal faaliyetlerini desteklemektedir. Ayrıca, Doğdu Dağı'nın komşu alanları, benzer coğrafi özellikler gösteren diğer dağlar ve ovalarla çevrilidir. Örneğin, Tuz Gölü gibi önemli su kaynaklarına yakınlığı, bölgenin ekolojik dengesini korumak açısından önemlidir.
+Çevresel açıdan bakıldığında, Doğdu Dağı, etrafındaki ovalar ve platolardan oluşan bir ekosistemle bağlantılıdır. Bu bölgede yer alan su kaynakları, bölgenin tarımsal faaliyetlerini desteklemektedir. Ayrıca, Doğdu Dağı'nın komşu alanları, benzer coğrafi özellikler gösteren diğer dağlar ve ovalarla çevrilidir.
 
 ## Flora ve Fauna
 
-Doğdu Dağı, İç Anadolu Bölgesi'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur. 
+Doğdu Dağı, İç Anadolu Bölgesi'nin step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği bulunur.
 
 Bitki Örtüsü bölümünde, ilkbahar aylarında dağ yamaçlarını renklendiren çiçekler ve sonbaharda sararan otsu bitkiler göze çarpar. Step bitki örtüsünün hakim olduğu bu bölgede, kuraklığa adapte olmuş türler yaşamını sürdürür.
 

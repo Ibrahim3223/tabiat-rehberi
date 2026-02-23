@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Muhammed Arabkendi Türbesi"
 date: "2026-01-10T07:38:57.373Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391230"
 
 # Şeyh Muhammed Arabkendi Türbesi
 
-Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın Bismil ilçesinde yer alan bir türbe ve plajdır. Bu alan, yaklaşık 140 hektarlık bir bölgeye yayılmış ve doğal güzelliği ile dikkat çekmektedir. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Şeyh Muhammed Arabkendi Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini beklemektedir. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu bölge, doğa severlerin ilgisini çekmektedir. Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın zengin tarihi ve kültürel mirasının bir parçasıdır.
+Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın Bismil ilçesinde yer alan bir türbe ve plajdır. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Şeyh Muhammed Arabkendi Türbesi, hem tarihi hem de doğal güzelliği ile ziyaretçilerini beklemektedir. 200 futbol sahası büyüklüğünde bir alanı kaplayan bu bölge, doğa severlerin ilgisini çekmektedir. Şeyh Muhammed Arabkendi Türbesi, Diyarbakır'ın zengin tarihi ve kültürel mirasının bir parçasıdır.
 
 ## Tarihçe
 

@@ -30,7 +30,7 @@ wikidata_id: "Q135582839"
 
 # Emir Ali Kümbeti
 
-Emir Ali Kümbeti, Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerinin birleştiği noktada, Ahlat'ta ziyaretçilerini bekliyor. Bu tarihi mekan, yaklaşık 140 hektarlık bir alan üzerine kurulu ve çevresindeki doğal güzelliklerle birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Emir Ali Kümbeti, Ahlat'ın merkezinde yer alıyor ve şehrin tarihi geçmişi hakkında önemli bilgiler sunuyor. Ziyaretçiler, burada bulunan tarihi yapıları ve çevresindeki doğal güzellikleri keşfederek, bölgenin kültürel ve tarihi zenginliklerini yakından tanıma fırsatı buluyor.
+Emir Ali Kümbeti, Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerinin birleştiği noktada, Ahlat'ta ziyaretçilerini bekliyor. Emir Ali Kümbeti, Ahlat'ın merkezinde yer alıyor ve şehrin tarihi geçmişi hakkında önemli bilgiler sunuyor. Ziyaretçiler, burada bulunan tarihi yapıları ve çevresindeki doğal güzellikleri keşfederek, bölgenin kültürel ve tarihi zenginliklerini yakından tanıma fırsatı buluyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Emir Ali Kümbeti'nin tarihi geçmişi, Ahlat'ın tarihi ile iç içe geçmiş d
 
 ## Coğrafya
 
-Emir Ali Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Ahlat, Van Gölü'nün batısında ve kuzeyinde bulunan dağların eteklerinde kurulmuş bir ilçe. Bu bölgede, çeşitli coğrafi oluşumlar ve doğal güzellikler bulunuyor. Emir Ali Kümbeti, Ahlat'ın merkezinde yer alıyor ve çevresindeki doğal güzelliklerle birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu bölgenin iklimi, karasal iklim özellikleri gösteriyor ve kışları soğuk, yazları sıcak geçiyor. Emir Ali Kümbeti ve çevresindeki doğal güzellikler, ziyaretçilere doğanın güzelliğini ve bölgenin coğrafi zenginliklerini tanıma fırsatı sunuyor.
+Emir Ali Kümbeti, Doğu Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. Ahlat, Van Gölü'nün batısında ve kuzeyinde bulunan dağların eteklerinde kurulmuş bir ilçe. Bu bölgede, çeşitli coğrafi oluşumlar ve doğal güzellikler bulunuyor. Bu bölgenin iklimi, karasal iklim özellikleri gösteriyor ve kışları soğuk, yazları sıcak geçiyor. Emir Ali Kümbeti ve çevresindeki doğal güzellikler, ziyaretçilere doğanın güzelliğini ve bölgenin coğrafi zenginliklerini tanıma fırsatı sunuyor.
 
 ## Flora ve Fauna
 

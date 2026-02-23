@@ -29,7 +29,7 @@ wikidata_id: "Q134728287"
 
 # Ankara Frig Tümülüsü 17, Bahçekapı
 
-Ankara'nın Etimesgut ilçesinde bulunan Ankara Frig Tümülüsü 17, Bahçekapı, şehrin merkezinde yer alan bir tarihi ve kültürel zenginlik olarak dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarihi yolculuk sunar. Bu alanda yapılan kazılar, Frig uygarlığının izlerini günümüze taşır ve tarihin sayfalarına ışık tutar. Ankara Frig Tümülüsü 17, Bahçekapı, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başaran bir destinasyon olarak đng out eder.
+Ankara'nın Etimesgut ilçesinde bulunan Ankara Frig Tümülüsü 17, Bahçekapı, şehrin merkezinde yer alan bir tarihi ve kültürel zenginlik olarak dikkat çeker. Bu alanda yapılan kazılar, Frig uygarlığının izlerini günümüze taşır ve tarihin sayfalarına ışık tutar. Ankara Frig Tümülüsü 17, Bahçekapı, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başaran bir destinasyon olarak đng out eder.
 
 ## Tarihçe
 

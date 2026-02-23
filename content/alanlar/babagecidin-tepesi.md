@@ -28,7 +28,7 @@ wikidata_id: "Q32131486"
 
 # Babageçidin Tepesi
 
-Afyonkarahisar'ın Ege Bölgesi'nde yer alan Babageçidin Tepesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Babageçidin Tepesi, ziyaretçilerini etkileyen bir doğa harikasıdır. Bu tepe, bölgenin coğrafi yapısını ve iklimini şekillendirmektedir. Babageçidin Tepesi, Afyonkarahisar'ın önemli doğal güzelliklerinden biridir.
+Afyonkarahisar'ın Ege Bölgesi'nde yer alan Babageçidin Tepesi, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Babageçidin Tepesi, ziyaretçilerini etkileyen bir doğa harikasıdır. Bu tepe, bölgenin coğrafi yapısını ve iklimini şekillendirmektedir. Babageçidin Tepesi, Afyonkarahisar'ın önemli doğal güzelliklerinden biridir.
 
 ## Tarihçe
 

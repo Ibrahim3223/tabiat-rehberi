@@ -29,7 +29,7 @@ schema_type: "TouristAttraction"
 
 # Beyşehir Gölü Milli Parkı
 
-Beyşehir Gölü Milli Parkı, Konya'nın Beyşehir ilçesinde yer alan, 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, yaklaşık 20 km uzunluğunda ve 10 km genişliğindedir. Parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Beyşehir Gölü, İç Anadolu Bölgesi'nin en büyük göllerinden biridir ve bu milli parkın içerisinde yer almaktadır. Parkın güzelliği, ziyaretçilerini doğanın içlerine çekerek, güzel bir gün geçirmelerine olanak tanır.
+ Bu alan, yaklaşık 20 km uzunluğunda ve 10 km genişliğindedir. Parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Beyşehir Gölü, İç Anadolu Bölgesi'nin en büyük göllerinden biridir ve bu milli parkın içerisinde yer almaktadır. Parkın güzelliği, ziyaretçilerini doğanın içlerine çekerek, güzel bir gün geçirmelerine olanak tanır.
 
 ## Tarihçe
 

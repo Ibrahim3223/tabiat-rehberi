@@ -28,7 +28,7 @@ wikidata_id: "Q49042661"
 
 # Kurugöl Tepesi
 
-Erzurum'un doğusunda yükselen Kurugöl Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi. Bu dağ, Erzurum'un coğrafi zenginliklerini sergileyen önemli bir nokta. Kurugöl Tepesi, Erzurum'un panoramik manzarasını sunerken, ziyaretçilerini bölgeye özgü flora ve fauna ile tanıştırmaya davet ediyor. 
+Erzurum'un doğusunda yükselen Kurugöl Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi. Bu dağ, Erzurum'un coğrafi zenginliklerini sergileyen önemli bir nokta. Kurugöl Tepesi, Erzurum'un panoramik manzarasını sunerken, ziyaretçilerini bölgeye özgü flora ve fauna ile tanıştırmaya davet ediyor.
 
 Bu tepe, çevresindeki dağların arasında ayrıcalıklı bir konumda bulunuyor ve Erzurum'un doğal güzelliğini vurguluyor.
 
@@ -54,7 +54,7 @@ Mevsimler, Kurugöl Tepesi'nin iklim karakterini belirler. Kış aylarında, Pal
 
 Kurugöl Tepesi, Erzurum'un yüksek dağ ekolojisini ve alpin çayırlarını barındıran benzersiz bir doğa alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharda çiçeklerle çevrili bir manzara sunarken, sonbaharda sarı ve kahverengi tonlarla renkleniyor. Alpin flora, yükseklik zonlarına göre değişen bir yapıya sahiptir. 
+Bitki Örtüsü olarak, ilkbaharda çiçeklerle çevrili bir manzara sunarken, sonbaharda sarı ve kahverengi tonlarla renkleniyor. Alpin flora, yükseklik zonlarına göre değişen bir yapıya sahiptir.
 
 Yaban Hayatı açısından, dağ hayvanları ve çeşitli kuş türleri bu bölgede yaşamaktadır. Göç eden kuşlar, sonbaharda bu bölgeyi ziyaret ediyor. Memeliler ve sürüngenler de bu dağ ekosisteminin bir parçasını oluşturuyor.
 

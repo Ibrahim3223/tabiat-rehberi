@@ -50,7 +50,7 @@ Bölgenin ekolojik dengesi, Kurulaval Dağı'nın konumu ve çevresindeki su kay
 
 ## Flora ve Fauna
 
-Kurulaval Dağı, yüksek dağ ekolojisinin tüm ihtişamını sergileyen bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kurulaval Dağı, yüksek dağ ekolojisinin tüm ihtişamını sergileyen bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünde, ilkbaharın gelmesiyle birlikte dağ yamaçları renkli çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunar. Sonbaharın yaklaşmasıyla birlikte, dağların yüksek kesimlerinde yetişen bitkiler, kırmızılı sarıya dönüşerek doğayı bir renk cümbüşüne boğar.
 

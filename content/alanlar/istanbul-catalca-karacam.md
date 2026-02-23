@@ -22,7 +22,7 @@ wikidata_id: "Q108228523"
 
 # Istanbul-Catalca-Karacam
 
-Istanbul-Catalca-Karacam milli parkı, İstanbul'un kuzeybatısında, Marmara Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekmektedir. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunar. Parkın sunduğu zengin flora ve fauna, ziyaretçilere doğanın güzelliğini keşfetme fırsatı verir. İstanbul'un hızlı şehir hayatından uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir destinasyon olan Istanbul-Catalca-Karacam, her mevsim ziyaretçilerini beklemektedir.
+Istanbul-Catalca-Karacam milli parkı, İstanbul'un kuzeybatısında, Marmara Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekmektedir. Parkın sunduğu zengin flora ve fauna, ziyaretçilere doğanın güzelliğini keşfetme fırsatı verir. İstanbul'un hızlı şehir hayatından uzaklaşma ve doğanın sesini dinlemek isteyenler için ideal bir destinasyon olan Istanbul-Catalca-Karacam, her mevsim ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 

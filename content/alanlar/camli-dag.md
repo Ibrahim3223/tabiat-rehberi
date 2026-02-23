@@ -48,7 +48,7 @@ Son olarak, Çamlı Dağ'ın çevresel ilişkileri de önemli bir konu. Bu dağ,
 
 ## Flora ve Fauna
 
-Çamlı Dağ, Uşak'ın zeytinlikler ve çam ormanlarıyla çevrili bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çamlı Dağ, Uşak'ın zeytinlikler ve çam ormanlarıyla çevrili bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 İlkbaharla birlikte, dağ yamacında çiçekler açmaya başlar. Çam ağaçlarının arasında, renkli bir halı gibi yayılan çiçekler, bu bölgeyi ziyaret edenler için bir görsel şölen sunar. Sonbaharda ise, göçmen kuşlar dağ üzerinden geçer, bu bölgeyi önemli bir ekolojik koridor haline getirir.
 
 Dağdaki yükseklik zonlarına bağlı olarak, farklı bitki türleri ve hayvanlar yaşar. Çam ormanlarında, geyi ve yaban domuzu gibi memeliler yaşarken, kuşlar ve sürüngenler de bu ekosistemin önemli parçalarıdır. Bu canlılar, dağın çeşitli yükseklik zonlarında, birbirleriyle ve çevreleriyle kompleks bir ilişki ağı içinde yaşar.

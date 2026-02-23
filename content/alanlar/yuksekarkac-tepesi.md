@@ -28,7 +28,7 @@ wikidata_id: "Q34822563"
 
 # Yüksekarkaç Tepesi
 
-Yüksekarkaç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve bölgenin doğal güzellikleri arasında önemli bir yer tutan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Yüksekarkaç Tepesi, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin etrafı, geniş alanlar ve zengin ekosistemler ile çevrili.
+Yüksekarkaç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve bölgenin doğal güzellikleri arasında önemli bir yer tutan bir tepe. Yüksekarkaç Tepesi, ziyaretçilerine hem doğal güzelliği hem de tarihi önemi ile dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Tepenin etrafı, geniş alanlar ve zengin ekosistemler ile çevrili.
 
 ## Tarihçe
 

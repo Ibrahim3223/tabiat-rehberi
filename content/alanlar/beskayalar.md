@@ -23,11 +23,11 @@ wikidata_id: "Q108227343"
 
 # Beskayalar
 
-Beskayalar milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil cennet. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severleri cezbediyor. Beskayalar, ziyaretçiler için hem doğal güzellikleri keşfetmek hem de tarihi geçmişini öğrenmek adına ziyaret edilebilecek bir destinasyon. Burada, hem doğanın güzelliği hem de bölgenin zengin tarihi geçmişi hakkında bilgi sahibi olma mümkün.
+Beskayalar milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil cennet. Beskayalar, ziyaretçiler için hem doğal güzellikleri keşfetmek hem de tarihi geçmişini öğrenmek adına ziyaret edilebilecek bir destinasyon. Burada, hem doğanın güzelliği hem de bölgenin zengin tarihi geçmişi hakkında bilgi sahibi olma mümkün.
 
 ## Tarihçe
 
-Beskayalar milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve çeşitli medeniyetlerin izlerini taşımaktadır. Tarihi hakkında net bilgiler olmasa da, bölgenin coğrafi konumu ve doğal güzellikleri, insanları her dönemde çekmiştir. Beskayalar, doğal ve kültürel değerleri bir araya getiren bir bölge olarak ziyaretçilerini bekliyor. Bu milli park, hem doğal güzellikleri hem de kültürel zenginliğiyle dikkat çekmekte ve ziyaretçilerine unutulmaz anlar yaşatmaktadır.
+Beskayalar milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve çeşitli medeniyetlerin izlerini taşımaktadır. Tarihi hakkında net bilgiler olmasa da, bölgenin coğrafi konumu ve doğal güzellikleri, insanları her dönemde çekmiştir. Beskayalar, doğal ve kültürel değerleri bir araya getiren bir bölge olarak ziyaretçilerini bekliyor.
 
 ## Coğrafya
 

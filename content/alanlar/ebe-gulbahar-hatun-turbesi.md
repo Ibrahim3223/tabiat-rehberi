@@ -1,7 +1,7 @@
 ---
 title: "Ebe Gülbahar Hatun Türbesi"
 date: "2026-01-10T07:37:58.567Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391236"
 
 # Ebe Gülbahar Hatun Türbesi
 
-Ebe Gülbahar Hatun Türbesi, Marmara Bölgesi'nin önemli tarihi mekanlarından biri olarak dikkat çeker. Osmangazi/Bursa'da bulunan bu mekan, 140 hektarlık bir alan üzerine kurulmuştur. Yaklaşık 200 futbol sahası büyüklüğündeki bu alan, ziyaretçilerini tarihi bir yolculuğa çıkarır. Ebe Gülbahar Hatun Türbesi'nin tarihi geçmişi, ziyaretçilerini etkileyen önemli bir özelliktir. Bu mekan, Marmara Bölgesi'nin tarihi zenginliğini yansıtması bakımından önemlidir.
+Ebe Gülbahar Hatun Türbesi, Marmara Bölgesi'nin önemli tarihi mekanlarından biri olarak dikkat çeker. Osmangazi/Bursa'da bulunan bu mekan, 140 hektarlık bir alan üzerine kurulmuştur. Ebe Gülbahar Hatun Türbesi'nin tarihi geçmişi, ziyaretçilerini etkileyen önemli bir özelliktir. Bu mekan, Marmara Bölgesi'nin tarihi zenginliğini yansıtması bakımından önemlidir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ebe Gülbahar Hatun Türbesi'nin tarihi geçmişi, ziyaretçilerini etkileyen ö
 
 ## Coğrafya
 
-Ebe Gülbahar Hatun Türbesi, Osmangazi/Bursa'da bulunur. Bu mekan, Marmara Bölgesi'nin coğrafi özelliklerini taşır. 140 hektarlık bir alan üzerine kurulan Ebe Gülbahar Hatun Türbesi, yaklaşık 200 futbol sahası büyüklüğündedir. Bu mekanın coğrafi konumu, Marmara Bölgesi'nin tarihi ve kültürel zenginliğini yansıtması bakımından önemlidir. Ebe Gülbahar Hatun Türbesi'nin etrafı, tarihi ve doğal güzelliklerle çevrilidir. Bu mekan, ziyaretçilerine tarihi ve doğal bir ortam sunar. Ebe Gülbahar Hatun Türbesi, Marmara Bölgesi'nin coğrafi özelliklerini taşır ve ziyaretçilerine önemli bir deneyim sunar.
+Ebe Gülbahar Hatun Türbesi, Osmangazi/Bursa'da bulunur. Bu mekan, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bu mekanın coğrafi konumu, Marmara Bölgesi'nin tarihi ve kültürel zenginliğini yansıtması bakımından önemlidir. Ebe Gülbahar Hatun Türbesi'nin etrafı, tarihi ve doğal güzelliklerle çevrilidir. Bu mekan, ziyaretçilerine tarihi ve doğal bir ortam sunar. Ebe Gülbahar Hatun Türbesi, Marmara Bölgesi'nin coğrafi özelliklerini taşır ve ziyaretçilerine önemli bir deneyim sunar.
 
 ## Flora ve Fauna
 
@@ -52,6 +52,6 @@ Ebe Gülbahar Hatun Türbesi'ni ziyaret etmek, tarihi ve doğal bir deneyim suna
 
 - Ebe Gülbahar Hatun Türbesi, Marmara Bölgesi'nin önemli tarihi mekanlarından biridir.
 - Bu mekan, 140 hektarlık bir alan üzerine kurulmuştur.
-- Ebe Gülbahar Hatun Türbesi, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bu mekan, Marmara Bölgesi'nin flora ve faunasını yansıtması bakımından önemlidir.
 - Ebe Gülbahar Hatun Türbesi, ziyaretçilerine tarihi ve doğal bir ortam sunar.

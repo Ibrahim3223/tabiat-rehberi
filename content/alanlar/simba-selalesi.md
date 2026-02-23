@@ -23,7 +23,7 @@ wikidata_id: "Q96788345"
 
 # Simba Şelalesi
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Simba Şelalesi, 140 hektarlık geniş bir yeşil alan üzerine kurulu, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu şelale, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Şelalenin suyu, yüksek bir kayadan dökülerek, çevresindeki bitki örtüsünü besler ve bir oksijen kaynağı oluşturur. Simba Şelalesi, doğa severlerin ve fotoğrafçıların uğrak noktalarından biri haline gelmiştir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunar.
+ Bu şelale, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir. Şelalenin suyu, yüksek bir kayadan dökülerek, çevresindeki bitki örtüsünü besler ve bir oksijen kaynağı oluşturur. Simba Şelalesi, doğa severlerin ve fotoğrafçıların uğrak noktalarından biri haline gelmiştir. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Tarihçe
 

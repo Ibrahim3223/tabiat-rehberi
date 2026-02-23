@@ -29,7 +29,7 @@ wikidata_id: "Q134728325"
 
 # Bin Tepeler Tümülüsü 54
 
-Bin Tepeler Tümülüsü 54, Manisa'nın Salihli ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerini barındıran bir alandır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar.
+Bin Tepeler Tümülüsü 54, Manisa'nın Salihli ilçesinde yer alan ve Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerini barındıran bir alandır. Bu geniş alan, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunar.
 
 ## Tarihçe
 

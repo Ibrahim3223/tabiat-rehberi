@@ -29,7 +29,7 @@ wikidata_id: "Q134728263"
 
 # Büyük Anafarta Şehitliği
 
-Büyük Anafarta Şehitliği, Çanakkale'nin Eceabat ilçesinde yer alan ve tarihin önemli sayfalarına tanıklık eden bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Bu şehitlik, Çanakkale Savaşı'nda şehit olan askerlerin anısına yapılmıştır ve önemli bir tarihi öneme sahiptir. Ziyaretçiler, şehitliğin heybetli anıtlarını ve müzeyi gezerken, tarihin sayfalarını karıştırmış gibi hissediyorlar. Büyük Anafarta Şehitliği, tarihe ilgi duyanlar için önemli bir gezi noktası.
+Büyük Anafarta Şehitliği, Çanakkale'nin Eceabat ilçesinde yer alan ve tarihin önemli sayfalarına tanıklık eden bir mekan. Bu şehitlik, Çanakkale Savaşı'nda şehit olan askerlerin anısına yapılmıştır ve önemli bir tarihi öneme sahiptir. Ziyaretçiler, şehitliğin heybetli anıtlarını ve müzeyi gezerken, tarihin sayfalarını karıştırmış gibi hissediyorlar. Büyük Anafarta Şehitliği, tarihe ilgi duyanlar için önemli bir gezi noktası.
 
 ## Tarihçe
 

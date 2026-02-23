@@ -28,7 +28,7 @@ wikidata_id: "Q34829505"
 
 # Çobanece Tepe
 
-Antalya'nın eşsiz güzellikteki ilçelerinden biri olan Çobanece Tepe, hem tarihi hem de doğal güzelliklerin bir araya geldiği özel bir nokta. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Doğal güzellikleri ve tarihi zenginlikleri ile ziyaretçilerini cezbeden Çobanece Tepe, Antalya'nın en çok ziyaret edilen yerlerinden biri olarak biliniyor. Burada, hem doğayı hem de tarihin izlerini keşfetme mümkün. Çobanece Tepe, ziyaretçilerine eşsiz bir deneyim sunuyor.
+Antalya'nın eşsiz güzellikteki ilçelerinden biri olan Çobanece Tepe, hem tarihi hem de doğal güzelliklerin bir araya geldiği özel bir nokta. Doğal güzellikleri ve tarihi zenginlikleri ile ziyaretçilerini cezbeden Çobanece Tepe, Antalya'nın en çok ziyaret edilen yerlerinden biri olarak biliniyor. Burada, hem doğayı hem de tarihin izlerini keşfetme mümkün. Çobanece Tepe, ziyaretçilerine eşsiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Antalya'nın eşsiz güzellikteki ilçelerinden biri olan Çobanece Tepe, hem ta
 
 ## Coğrafya
 
-Çobanece Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, Akdeniz'in eşsiz güzellikteki manzaralarına ev sahipliği yapıyor. Çobanece Tepe'nin coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Çobanece Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Bu tepe, aynı zamanda bölgenin iklimini de etkiliyor. Çobanece Tepe'nin çevresi, doğal güzelliklere ve tarihi kalıntılara ev sahipliği yapıyor.
+Çobanece Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Bu tepe, Akdeniz'in eşsiz güzellikteki manzaralarına ev sahipliği yapıyor. Çobanece Tepe'nin coğrafi konumu, ziyaretçilerine bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Çobanece Tepe'nin coğrafyası, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini cezbediyor. Bu tepe, aynı zamanda bölgenin iklimini de etkiliyor. Çobanece Tepe'nin çevresi, doğal güzelliklere ve tarihi kalıntılara ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Antalya'nın eşsiz güzellikteki ilçelerinden biri olan Çobanece Tepe, hem ta
 ## İlginç Bilgiler
 
 - Çobanece Tepe, 140 hektarlık bir yeşil alan olarak biliniyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+
 - Çobanece Tepe, çeşitli medeniyetlerin izlerini taşıyor.
 - Bu tepe, ziyaretçilerine eşsiz bir deneyim sunuyor.
 - Çobanece Tepe, Antalya'nın önemli bir kültür ve turizm merkezi olarak kabul ediliyor.

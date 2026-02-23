@@ -1,7 +1,7 @@
 ---
 title: "Muhammed Beşir Türbesi"
 date: "2026-01-10T05:04:23.684Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzincan"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391654"
 
 # Muhammed Beşir Türbesi
 
-Muhammed Beşir Türbesi, Erzincan ilinin merkezinde yer alan ve şehrin önemli tarihi ve dinî mekânlarından biri olarak kabul edilir. 140 hektarlık bir alanda konumlanan bu mekân, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Muhammed Beşir Türbesi, ziyaretçilerini tarihi ve dinî açıdan zengin bir deneyime davet eder. Erzincan'ın merkezi konumunda bulunan bu türbe, şehrin önemli dinî ve kültürel miraslarından biri olarak görülür.
+Muhammed Beşir Türbesi, Erzincan ilinin merkezinde yer alan ve şehrin önemli tarihi ve dinî mekânlarından biri olarak kabul edilir. Muhammed Beşir Türbesi, ziyaretçilerini tarihi ve dinî açıdan zengin bir deneyime davet eder. Erzincan'ın merkezi konumunda bulunan bu türbe, şehrin önemli dinî ve kültürel miraslarından biri olarak görülür.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Muhammed Beşir Türbesi'nin bulunduğu bölgede, çeşitli bitki türleri ve ha
 
 ## Ziyaret Bilgileri
 
-Muhammed Beşir Türbesi'ni ziyaret etmek, históri ve dinî açıdan zengin bir deneyimi sağlar. Ziyaretçiler, türbenin tarihi ve dinî önemini öğrenme fırsatı bulurlar. Mohammed Beşir Türbesi'ne ulaşım, Erzincan şehrinin merkezi konumunda bulunması nedeniyle kolaydır. Ziyaretçilerin, türbeyi ziyaret etmeden önce, bölge hakkında bilgi edinmelerirecommendeddır. Muhammed Beşir Türbesi, yıl boyunca ziyaretçilerini kabul eder ve özellikle dinî bayramlar ve özel günlerde daha çok ziyaretçi alır. Ziyaretçilerin, türbenin etrafındaki bölgeyi keşfetmeleri ve şehrin diğer históri ve dinî mekânlarını ziyaret etmeleri tavsiye edilir.
+Muhammed Beşir Türbesi'ni ziyaret etmek, tarihi ve dinî açıdan zengin bir deneyimi sağlar. Ziyaretçiler, türbenin tarihi ve dinî önemini öğrenme fırsatı bulurlar. Mohammed Beşir Türbesi'ne ulaşım, Erzincan şehrinin merkezi konumunda bulunması nedeniyle kolaydır. Ziyaretçilerin, türbeyi ziyaret etmeden önce, bölge hakkında bilgi edinmelerirecommendeddır. Muhammed Beşir Türbesi, yıl boyunca ziyaretçilerini kabul eder ve özellikle dinî bayramlar ve özel günlerde daha çok ziyaretçi alır. Ziyaretçilerin, türbenin etrafındaki bölgeyi keşfetmeleri ve şehrin diğer tarihi ve dinî mekânlarını ziyaret etmeleri tavsiye edilir.
 
 ## İlginç Bilgiler
 

@@ -1,7 +1,7 @@
 ---
 title: "Çamlıdere Belediyesi Müze Kompleksi"
 date: "2026-01-10T15:12:47.020Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950133"
 
 # Çamlıdere Belediyesi Müze Kompleksi
 
-Çamlıdere Belediyesi Müze Kompleksi, İstanbul'un doğal güzelliklerini ve tarihi değerlerini bir araya getiren özel bir mekan. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Bu kompleks, ziyaretçilerini hem tarihi hem de coğrafi açıdan zengin bir deneyim sunuyor. Çamlıdere'nin yemyeşil doğası, ziyaretçilere şehrin gürültüsünden uzak, sakin ve huzurlu bir ortam sunuyor.
+Çamlıdere Belediyesi Müze Kompleksi, İstanbul'un doğal güzelliklerini ve tarihi değerlerini bir araya getiren özel bir mekan. Bu kompleks, ziyaretçilerini hem tarihi hem de coğrafi açıdan zengin bir deneyim sunuyor. Çamlıdere'nin yemyeşil doğası, ziyaretçilere şehrin gürültüsünden uzak, sakin ve huzurlu bir ortam sunuyor.
 
 ## Tarihçe
 

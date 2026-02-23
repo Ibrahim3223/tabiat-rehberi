@@ -28,7 +28,7 @@ wikidata_id: "Q31588984"
 
 # İspilik Tepesi
 
-İspilik Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal oluşumlarından biri olarak Batman şehrinde yer alıyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. İspilik Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir, bu da burayı doğa severler için bir cennet haline getiriyor.
+İspilik Tepesi, Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal oluşumlarından biri olarak Batman şehrinde yer alıyor. İspilik Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir, bu da burayı doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 

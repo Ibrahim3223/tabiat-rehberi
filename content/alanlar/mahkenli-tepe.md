@@ -28,7 +28,7 @@ wikidata_id: "Q31389502"
 
 # Mahkenli Tepe
 
-Mahkenli Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Mahkenli Tepe, bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Mahkenli Tepe, aynı zamanda bölgenin coğrafi yapısını da etkileyen önemli bir nokta.
+Mahkenli Tepe, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Mahkenli Tepe, bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Mahkenli Tepe, aynı zamanda bölgenin coğrafi yapısını da etkileyen önemli bir nokta.
 
 ## Tarihçe
 

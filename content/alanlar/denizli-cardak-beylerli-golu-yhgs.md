@@ -22,7 +22,7 @@ wikidata_id: "Q108228373"
 
 # Denizli Çardak Beylerli Gölü YHGS
 
-Denizli Çardak Beylerli Gölü YHGS, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. Bu milli park, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğüne sahiptir. Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeken bu milli park, doğa severler ve erler için önemli bir destinasyondur. Milli parkın bulunduğu İç Anadolu Bölgesi, tarihi ve kültürel zenginlikleri ile de dikkat çeker.
+Denizli Çardak Beylerli Gölü YHGS, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeken bu milli park, doğa severler ve erler için önemli bir destinasyondur. Milli parkın bulunduğu İç Anadolu Bölgesi, tarihi ve kültürel zenginlikleri ile de dikkat çeker.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Denizli Çardak Beylerli Gölü YHGS'nin tarihi geçmişi, yüzyıllar boyunca �
 
 ## Coğrafya
 
-Denizli Çardak Beylerli Gölü YHGS, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Milli park, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklimdir. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve fauna çeşitliliğiçin elverişlidir. Bölgenin coğrafi özellikleri, ziyaretçilere zengin bir deneyim sunar. Milli parkın coğrafi konumu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine olanak tanır.
+Denizli Çardak Beylerli Gölü YHGS, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklimdir. Milli parkın coğrafi yapısı, çeşitli bitki türleri ve fauna çeşitliliğiçin elverişlidir. Bölgenin coğrafi özellikleri, ziyaretçilere zengin bir deneyim sunar. Milli parkın coğrafi konumu, ziyaretçilerin bölgenin doğal güzelliklerini keşfetmesine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Denizli Çardak Beylerli Gölü YHGS, ziyaretçilere zengin bir deneyim sunar. M
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
 - Milli park, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklimi taşır.
 - Milli parkın flora çeşitliliği, İç Anadolu Bölgesi'nin karakteristik bitki türlerini içerir.
 - Milli parkın fauna çeşitliliği, çeşitli hayvan türleri ile zenginleştirilmiştir.

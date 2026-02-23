@@ -1,7 +1,7 @@
 ---
 title: "Şeyh İvaz Türbesi"
 date: "2026-01-10T06:13:11.628Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390670"
 
 # Şeyh İvaz Türbesi
 
-Şeyh İvaz Türbesi, Ankara'nın Beypazarı ilçesinde yer alan bir türbe ve plaj alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Tarihi geçmişi olan bu bölge, aynı zamanda doğal güzellikleri ile de dikkat çekmektedir. İç Anadolu Bölgesi'nin merkezi bir konumunda bulunan Şeyh İvaz Türbesi, hem tarih severlerin hem de doğa tutkunlarının ziyaret edebileceği bir destinasyon olarak karşımıza çıkmaktadır.
+Şeyh İvaz Türbesi, Ankara'nın Beypazarı ilçesinde yer alan bir türbe ve plaj alanıdır. Tarihi geçmişi olan bu bölge, aynı zamanda doğal güzellikleri ile de dikkat çekmektedir. İç Anadolu Bölgesi'nin merkezi bir konumunda bulunan Şeyh İvaz Türbesi, hem tarih severlerin hem de doğa tutkunlarının ziyaret edebileceği bir destinasyon olarak karşımıza çıkmaktadır.
 
 ## Tarihçe
 

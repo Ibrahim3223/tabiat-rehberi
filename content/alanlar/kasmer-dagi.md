@@ -34,7 +34,7 @@ Güneydoğu Anadolu Bölgesi'nin tarihi ve coğrafi zenginliklerini bir araya ge
 
 Şanlıurfa bölgesi, tarihin en eski uygarlıklarına ev sahipliği yapmış bir coğrafyadır. Kaşmer Dağı, bu bölgenin zengin tarihini yansıtan önemli bir doğal alandır. Hitit, Asur, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan Şanlıurfa, binlerce yıllık bir geçmişe sahiptir. Bu bölgede yaşamış uygarlıklar, coğrafyanın sunduğu doğal avantajlardan yararlanarak ticaret, tarım ve hayvancılıkla uğraşmışlardır.
 
-Doğal alanlar, Türkiye'nin tarihsel öneminde önemli bir yer tutmaktadır. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insan yerleşimleri ve ticaret yolları için de kritik öneme sahiptir. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geçim kaynakları arasında yer almıştır. Ayrıca, tarihi İpek Yolu gibi ticaret yolları, régionun stratejik önemini artırmıştır.
+Doğal alanlar, Türkiye'nin tarihsel öneminde önemli bir yer tutmaktadır. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insan yerleşimleri ve ticaret yolları için de kritik öneme sahiptir. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geçim kaynakları arasında yer almıştır. Ayrıca, tarihi İpek Yolu gibi ticaret yolları, bölgenin stratejik önemini artırmıştır.
 
 Kaşmer Dağı, bu bölgenin tarihi ve kültürel zenginliğinin bir parçasıdır. Doğal güzelliği ve coğrafi konumu, insanların bu bölgeyle ilişkisini şekillendirmiştir. Bölgenin tarihi, uygarlıkların birbirini takip ettiği bir süreçte şekillenmiştir ve Kaşmer Dağı, bu sürecin bir parçası olarak önemli bir doğal alan olarak karşımıza çıkar.
 
@@ -50,9 +50,9 @@ Jeolojik açıdan incelendiğinde, Kaşmer Dağı'nın etrafındaki coğrafi yap
 
 ## Flora ve Fauna
 
-Kaşmer Dağı, Şanlıurfa'nın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ, farklı yükseklik zonlarına sahip olan bir ekosistemdir. İlkbaharın gelmesiyle birlikte, dağ yamacında çeşitli çiçekler açar ve alpin flora ortaya çıkar. 
+Kaşmer Dağı, Şanlıurfa'nın yarı kurak ikliminin hakim olduğu bir bölgede yer alır. Bu dağ, farklı yükseklik zonlarına sahip olan bir ekosistemdir. İlkbaharın gelmesiyle birlikte, dağ yamacında çeşitli çiçekler açar ve alpin flora ortaya çıkar.
 
-Dağın bitki örtüsünü step ve ova bitkileri oluşturur. Mevsimsel değişimlere bağlı olarak, bu bitkiler yılın belirli dönemlerinde daha da belirgin hale gelir. Dağın yüksek kesimlerinde, daha soğu ve nemli bir ortamda yetişen bitkiler bulunur. 
+Dağın bitki örtüsünü step ve ova bitkileri oluşturur. Mevsimsel değişimlere bağlı olarak, bu bitkiler yılın belirli dönemlerinde daha da belirgin hale gelir. Dağın yüksek kesimlerinde, daha soğu ve nemli bir ortamda yetişen bitkiler bulunur.
 
 Yaban hayatı açısından zengin olan Kaşmer Dağı, çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapar. Göçmen kuşlar, sonbahar aylarında buradan geçer. Dağın ekolojik değeri, bu çeşitli canlıların yaşam alanlarını korumasından gelir. Bu nedenle, Kaşmer Dağı'nın korunması büyük önem taşır.
 

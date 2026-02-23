@@ -48,7 +48,7 @@ Jeolojik açıdan bakıldığında, Efelikbeli Dağı'nın fiziksel yapısı hak
 
 ## Flora ve Fauna
 
-Efelikbeli dağ ekosistemi, nemli iklimin etkisiyle gür ormanlara ve yüksek biyoçeşitliliğe ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Efelikbeli dağ ekosistemi, nemli iklimin etkisiyle gür ormanlara ve yüksek biyoçeşitliliğe ev sahipliği yapıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünün hakim türleri arasında geniş yapraklı ağaçlar ve iğne yapraklılar bulunur. İlkbahar aylarında, dağ yamaçlarında çiçekler açar ve renkli bir manzara sunar. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı renklerle dağları bir şahesere çevirir.
 

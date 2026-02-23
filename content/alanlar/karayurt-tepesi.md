@@ -28,7 +28,7 @@ wikidata_id: "Q31389718"
 
 # Karayurt Tepesi
 
-Karayurt Tepesi, Kastamonu'nun eşsiz doğa güzelliklerine ev sahipliği yapan bir tepe olarak bilinir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunar. Tepenin bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Karayurt Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Tepenin eteklerinde ve çevresinde, tarihi yapılar ve kültürel miras örnekleri mevcuttur. Karayurt Tepesi, Kastamonu'nun turizm potansiyelini gösteren önemli bir noktadır.
+Karayurt Tepesi, Kastamonu'nun eşsiz doğa güzelliklerine ev sahipliği yapan bir tepe olarak bilinir. Tepenin bulunduğu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Karayurt Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyondur. Tepenin eteklerinde ve çevresinde, tarihi yapılar ve kültürel miras örnekleri mevcuttur. Karayurt Tepesi, Kastamonu'nun turizm potansiyelini gösteren önemli bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karayurt Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Tepe
 
 ## Coğrafya
 
-Karayurt Tepesi, Kastamonu'nun coğrafi yapısını temsil eden önemli bir tepe olarak bilinir. Tepenin konumu, Karadeniz Bölgesi'nin dağlık ve engebeli yapısını yansıtır. Karayurt Tepesi, 140 hektarlık bir alana yayılır ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Karayurt Tepesi, Kastamonu'nun iklimini ve coğrafi yapısını yansıtan önemli bir noktadır. Tepenin yüksekliği, bölgenin coğrafi özelliklerini gösterir ve ziyaretçilerine geniş bir manzara sunar. Karayurt Tepesi, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Karayurt Tepesi, Kastamonu'nun coğrafi yapısını temsil eden önemli bir tepe olarak bilinir. Tepenin konumu, Karadeniz Bölgesi'nin dağlık ve engebeli yapısını yansıtır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Karayurt Tepesi, Kastamonu'nun iklimini ve coğrafi yapısını yansıtan önemli bir noktadır. Tepenin yüksekliği, bölgenin coğrafi özelliklerini gösterir ve ziyaretçilerine geniş bir manzara sunar. Karayurt Tepesi, Kastamonu'nun doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Flora ve Fauna
 

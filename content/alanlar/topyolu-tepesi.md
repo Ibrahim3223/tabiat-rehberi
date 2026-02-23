@@ -48,7 +48,7 @@ Mevsimsel açıdan bakıldığında, Topyolu Tepesi ve çevresinin iklim karakte
 
 ## Flora ve Fauna
 
-Topyolu Tepesi, Erzurum'un yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Topyolu Tepesi, Erzurum'un yüksek dağ ekosistemine ev sahipliği yapan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharda çiçeklerle dolu alpin çayırları, yazın ise yeşilin her tonunu barındıran yüksek dağ florasıyla karşılaşabilirsiniz. Sonbaharda, yaprak döken ağaçların sarı, kahverengi ve kırmızısı tonlarıyla renk cümbüşü yaşanır.
 
@@ -58,7 +58,7 @@ Ekolojik Değer olarak, Topyolu Tepesi, yüksek dağ ekosisteminin korunması a�
 
 ## Ziyaret Bilgileri
 
-Topyolu Tepesi'ne gitmeden önce, sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu izleyebilirsiniz. Erzurum'dan araç veya yürüyerek ulaşabilirsiniz. İlkbahar ve yaz ayları, Topyolu Tepesi'ni ziyaret etmek için en ideal zamanlardır. Yanınıza mutlaka su, atıştırmalık ve uygun kıyafetler alın çünkü dağcılık, trekking ve kamp gibi aktiviteleri yaparken enerjiye ihtiyacınız olacaktır. En güzel manzara noktası, tepeye ulaştığınızda açılan muhteşem Erzurum manzarasıdır. Fotoğrafçılık ve kuş gözlemi tutkunları için de ideal bir yer olan Topyolu Tepesi, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Topyolu Tepesi'ne gitmeden önce, sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de güneşin doğuşunu izleyebilirsiniz. Erzurum'dan araç veya yürüyerek ulaşabilirsiniz. İlkbahar ve yaz ayları, Topyolu Tepesi'ni ziyaret etmek için en ideal zamanlardır. Yanınıza mutlaka su, atıştırmalık ve uygun kıyafetler alın çünkü dağcılık, trekking ve kamp gibi aktiviteleri yaparken enerjiye ihtiyacınız olacaktır. En güzel manzara noktası, tepeye ulaştığınızda açılan muhteşem Erzurum manzarasıdır.
 
 ## İlginç Bilgiler
 

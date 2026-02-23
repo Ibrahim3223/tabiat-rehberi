@@ -28,7 +28,7 @@ wikidata_id: "Q31386499"
 
 # Perişankalesı Tepesi
 
-Perişankalesı Tepesi, Hatay ilinin güzide bir noktasıdır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kapsar. Doğal güzelliği ve coğrafi konumu ile dikkat çeker. Perişankalesı Tepesi, ziyaretçilerini Akdeniz Bölgesi'nin eşsiz manzarasına davet eder. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim noktasıdır.
+Perişankalesı Tepesi, Hatay ilinin güzide bir noktasıdır. Doğal güzelliği ve coğrafi konumu ile dikkat çeker. Perişankalesı Tepesi, ziyaretçilerini Akdeniz Bölgesi'nin eşsiz manzarasına davet eder. Bu tepe, hem doğa severler hem de tarih meraklıları için bir çekim noktasıdır.
 
 ## Tarihçe
 

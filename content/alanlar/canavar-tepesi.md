@@ -28,7 +28,7 @@ wikidata_id: "Q31557890"
 
 # Canavar Tepesi
 
-Canavar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı deneyimleme fırsatı sunarken, tepe itselfe tırmananların karşılaştığı manzara, Ankara'nın geniş düzlüklerini ve çevredeki dağları kapsıyor. Canavar Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor.
+Canavar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı deneyimleme fırsatı sunarken, tepe itselfe tırmananların karşılaştığı manzara, Ankara'nın geniş düzlüklerini ve çevredeki dağları kapsıyor. Canavar Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 

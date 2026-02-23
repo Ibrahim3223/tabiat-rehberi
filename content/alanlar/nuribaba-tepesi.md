@@ -28,7 +28,7 @@ wikidata_id: "Q31509793"
 
 # Nuribaba Tepesi
 
-Nuribaba Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Nuribaba Tepesi, ziyaretçilerine doğal güzelliklerin yanı sıra tarihsel önemini de sunuyor. Tepenin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış. Bu özelliği ile Nuribaba Tepesi, hem doğa hem de tarih severlerin ilgisini çekiyor.
+Nuribaba Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Nuribaba Tepesi, ziyaretçilerine doğal güzelliklerin yanı sıra tarihsel önemini de sunuyor. Tepenin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış. Bu özelliği ile Nuribaba Tepesi, hem doğa hem de tarih severlerin ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Nuribaba Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev 
 
 ## Coğrafya
 
-Nuribaba Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe. Bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Nuribaba Tepesi, deniz seviyesinden yüksekliği ile çevresine hakim bir konumda. Bu özelliği, ziyaretçilere geniş bir manzara sunuyor. Tepenin coğrafi konumu, birçok doğal güzelliğe ev sahipliği yapıyor. Nuribaba Tepesi'nin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak sıcak ve kurak yazlar, ılık ve yağışlı kışlar şeklinde. Bu iklim, tepeye özgü bitki türlerinin gelişimine uygun.
+Nuribaba Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Nuribaba Tepesi, deniz seviyesinden yüksekliği ile çevresine hakim bir konumda. Bu özelliği, ziyaretçilere geniş bir manzara sunuyor. Tepenin coğrafi konumu, birçok doğal güzelliğe ev sahipliği yapıyor. Nuribaba Tepesi'nin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak sıcak ve kurak yazlar, ılık ve yağışlı kışlar şeklinde. Bu iklim, tepeye özgü bitki türlerinin gelişimine uygun.
 
 ## Flora ve Fauna
 

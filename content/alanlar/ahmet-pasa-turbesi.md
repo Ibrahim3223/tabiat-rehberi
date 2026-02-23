@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Paşa Türbesi"
 date: "2026-01-10T05:59:12.628Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390489"
 
 # Ahmet Paşa Türbesi
 
-Ahmet Paşa Türbesi, Karaman městěsinde yer alan bir tarihi yapıdır. 140 hektarlık yeşil alanıyla ziyaretçilerini bekleyen bu mekan, yaklaşık 200 futbol sahası büyüklüğündedir. Ahmet Paşa Türbesi, Karaman'ın tarihini ve kültürünü yansıtan önemli bir noktadır. Burada, ziyaretçiler hem tarihi yapıları inceleyebilir hem de geniş yeşil alanlarda dinlenebilirler. Ahmet Paşa Türbesi, Karaman'da bulunan önemli bir gezi noktası olarak bilinmektedir.
+Ahmet Paşa Türbesi, Karaman městěsinde yer alan bir tarihi yapıdır. Ahmet Paşa Türbesi, Karaman'ın tarihini ve kültürünü yansıtan önemli bir noktadır. Burada, ziyaretçiler hem tarihi yapıları inceleyebilir hem de geniş yeşil alanlarda dinlenebilirler. Ahmet Paşa Türbesi, Karaman'da bulunan önemli bir gezi noktası olarak bilinmektedir.
 
 ## Tarihçe
 

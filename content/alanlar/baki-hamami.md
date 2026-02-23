@@ -1,7 +1,7 @@
 ---
 title: "Baki Hamamı"
 date: "2026-01-10T04:28:24.625Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738787"
 
 # Baki Hamamı
 
-Bilecik'in merkezinde, tarihi dokusuyla dikkat çeken Baki Hamamı, 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Baki Hamamı, Marmara Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan önemli bir nokta olarak görülebilir. Historik öneme sahip bu mekan, aynı zamanda doğa severlerin ilgisini çekmeyi başaran bir destinasyon olarak da öne çıkıyor. Ziyaretçiler, hem tarihi keşfetmek hem de doğanın güzelliğini yaşamak için Baki Hamamı'na gelmeyi tercih ediyorlar.
+Bilecik'in merkezinde, tarihi dokusuyla dikkat çeken Baki Hamamı, 140 hektarlık bir alanı kapsıyor. Baki Hamamı, Marmara Bölgesi'nin zengin tarihi ve kültürel mirasını yansıtan önemli bir nokta olarak görülebilir. Historik öneme sahip bu mekan, aynı zamanda doğa severlerin ilgisini çekmeyi başaran bir destinasyon olarak da öne çıkıyor. Ziyaretçiler, hem tarihi keşfetmek hem de doğanın güzelliğini yaşamak için Baki Hamamı'na gelmeyi tercih ediyorlar.
 
 ## Tarihçe
 

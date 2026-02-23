@@ -22,7 +22,7 @@ wikidata_id: "Q108228578"
 
 # Sanliurfa-Adiyaman-Golbasi-Kizilcam
 
-Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Şanlıurfa-Adiyaman-Golbasi-Kizilcam milli parkı, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü çeşitli bitki türleri ile kaplı. Milli parkın konumu, Şanlıurfa ve Adıyaman illerinin sınırında yer alıyor, bu nedenle her iki ilin doğal güzelliklerini bir arada keşfetme mümkün. Gökyüzünün mavisi, yeşil alanların freshliği ve doğal seslerin uyumuna tanıklık etmek için buraya gelmek gerekir.
+Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Şanlıurfa-Adiyaman-Golbasi-Kizilcam milli parkı, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor. Milli parkın konumu, Şanlıurfa ve Adıyaman illerinin sınırında yer alıyor, bu nedenle her iki ilin doğal güzelliklerini bir arada keşfetme mümkün. Gökyüzünün mavisi, yeşil alanların freshliği ve doğal seslerin uyumuna tanıklık etmek için buraya gelmek gerekir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Sanliurfa-Adiyaman-Golbasi-Kizilcam milli parkını ziyaret etmek, bölgeye özg
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Bölge, flora ve fauna açısından zengin.
 - Milli parkın coğrafi konumu, Şanlıurfa ve Adıyaman illerinin sınırında.
 - Bölgede, çeşitli bitki ve hayvan türleri bulunur.

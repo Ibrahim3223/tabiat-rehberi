@@ -22,7 +22,7 @@ wikidata_id: "Q108228146"
 
 # Yavşan Yaylası
 
-Yavşan Yaylası, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş otlakları, çam ormanları ve temiz havası ile karşılar. Yayla, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlar ve onlara doğanın güzelliğini gösterir. Yavşan Yaylası, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon olarak öne çıkıyor.
+Yavşan Yaylası, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Yayla, özellikle bahar ve yaz aylarında ziyaretçilerini ağırlar ve onlara doğanın güzelliğini gösterir. Yavşan Yaylası, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 

@@ -34,7 +34,7 @@ Artvin'in Şavşat ilçesinde, doğanın tüm güzelliğini sergileyen Karagöl,
 
 ## Tarihçe
 
-Karagöl, Artvin'in yeşil doğasının sâu bir köşesinde gizlenen bir hazine. Bu bölgenin tarihi, binlerce yıl öncesine uzanan zengin bir kültürel mirası barındırır. Artvin, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Kolhlar, Romalılar, Bizanslılar ve son olarak da Osmanlılar bu topraklarda iz bırakmışlardır. 
+Karagöl, Artvin'in yeşil doğasının derin bir köşesinde gizlenen bir hazine. Bu bölgenin tarihi, binlerce yıl öncesine uzanan zengin bir kültürel mirası barındırır. Artvin, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş; Kolhlar, Romalılar, Bizanslılar ve son olarak da Osmanlılar bu topraklarda iz bırakmışlardır.
 
 Bu doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Yaylacılık ve hayvancılıkla geçinen yerel halk, bu bölgeleri mevsimsel olarak kullanmış, ticaret yolları da bu doğal güzelliklerin arasında geçmişlerdir. Karagöl de, bu geniş ve verimli coğrafyanın bir parçası olarak, bölgenin ekonomi ve kültürel yaşamına katkıda bulunmuştur. İnsanların doğayla iç içe yaşadığı bu topraklar, sadece doğal güzelliği ile değil, aynı zamanda taşıdığı tarihsel önemle de dikkat çeker.
 

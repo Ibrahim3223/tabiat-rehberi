@@ -28,11 +28,11 @@ wikidata_id: "Q31385857"
 
 # Ejder Tepesi
 
-Ejder Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için bir cennet. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir manzara sunuyor. Ejder Tepesi, özellikle doğa severler ve macera arayanlar için ideal bir destinasyon. Ziyaretçiler, bu güzel tepeye tırmanarak, muhteşem manzaraları izleyebilir ve doğanın güzelliğini keşfedebilirler. Ejder Tepesi, aynı zamanda trekking ve kamp gibi outdoor etkinliklere de ev sahipliği yapıyor.
+Ejder Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için bir cennet. Ejder Tepesi, özellikle doğa severler ve macera arayanlar için ideal bir destinasyon. Ziyaretçiler, bu güzel tepeye tırmanarak, muhteşem manzaraları izleyebilir ve doğanın güzelliğini keşfedebilirler. Ejder Tepesi, aynı zamanda trekking ve kamp gibi outdoor etkinliklere de ev sahipliği yapıyor.
 
 ## Tarihçe
 
-Ejder Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara kendi kültürünü bırakmıştır. Ejder Tepesi, özellikle Türklerin bu bölgeye yerleşmesinden sonra, önemli bir merkez haline gelmiştir. Bugün, Ejder Tepesi, ziyaretçilerine tarihin izlerini sunan bir açık hava müzesi harika bir deneyim. Ziyaretçiler, bu güzel tepeyi keşfederek, tarihin sayfalarını çevirebilir ve geçmişin gizemini çözebilirler. Ejder Tepesi'nin tarihi zenginlikleri, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Ejder Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, tarih boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bu topraklara kendi kültürünü bırakmıştır. Ejder Tepesi, özellikle Türklerin bu bölgeye yerleşmesinden sonra, önemli bir merkez haline gelmiştir. Bugün, Ejder Tepesi, ziyaretçilerine tarihin izlerini sunan bir açık hava müzesi harika bir deneyim. Ziyaretçiler, bu güzel tepeyi keşfederek, tarihin sayfalarını çevirebilir ve geçmişin gizemini çözebilirler.
 
 ## Coğrafya
 
@@ -40,7 +40,7 @@ Ejder Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri. Bu tepe,
 
 ## Flora ve Fauna
 
-Ejder Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu tepe, özellikle ilkbahar ve sonbahar aylarında, renkli bir hal alıyor ve ziyaretçilerini büyülüyor. Ejder Tepesi'nin florası, ziyaretçilerine farklı bir dünya sunuyor. Tepede, çeşitli çiçekler, ağaçlar ve diğer bitki türleri bulunmakta. Aynı zamanda, Ejder Tepesi'nin faunası da oldukça zengin. Tepede, çeşitli hayvan türleri bulunmakta ve ziyaretçilerine unutulmaz bir deneyim sunuyor. Ejder Tepesi, doğa severler ve hayvanseverler için ideal bir destinasyon.
+Ejder Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu tepe, özellikle ilkbahar ve sonbahar aylarında, renkli bir hal alıyor ve ziyaretçilerini büyülüyor. Ejder Tepesi'nin florası, ziyaretçilerine farklı bir dünya sunuyor. Tepede, çeşitli çiçekler, ağaçlar ve diğer bitki türleri bulunmakta. Aynı zamanda, Ejder Tepesi'nin faunası da oldukça zengin. Ejder Tepesi, doğa severler ve hayvanseverler için ideal bir destinasyon.
 
 ## Ziyaret Bilgileri
 

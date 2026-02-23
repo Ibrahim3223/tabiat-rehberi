@@ -28,7 +28,7 @@ wikidata_id: "Q31390450"
 
 # Dikmendede Tepe
 
-Dikmendede Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Dikmendede Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile zengin bir deneyim sunar. Tepe, bölgenin iklimine uygun olarak çeşitli bitki türleri ve fauna ile örtülüdür. Burada, farklı mevsimlerde ziyaretçiler, doğanın ren ve şekil değişimlerini gözlemleyebilirler.
+Dikmendede Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Dikmendede Tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişi ile zengin bir deneyim sunar. Tepe, bölgenin iklimine uygun olarak çeşitli bitki türleri ve fauna ile örtülüdür. Burada, farklı mevsimlerde ziyaretçiler, doğanın ren ve şekil değişimlerini gözlemleyebilirler.
 
 ## Tarihçe
 

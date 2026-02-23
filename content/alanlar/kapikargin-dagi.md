@@ -28,7 +28,7 @@ wikidata_id: "Q31519316"
 
 # Kapıkargın Dağı
 
-Muğla'nın yemyeşil peyzajına hakim olan Kapıkargın Dağı, Türkiye'nin en güzel doğal alanlarından biri. Bu dağ, Muğla'nın tarihi ve kültürel zenginliklerine ev sahipliği yapan bir bölgede bulunuyor. Muğla'nın doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon olan Kapıkargın Dağı, ziyaretçilerine unutulmaz bir deneyim sunuyor. Doğal güzelliği ve tarihi önemiyle dikkat çeken bu dağ, Muğla'nın wichtig turistik noktalarından biri.
+Muğla'nın yemyeşil peyzajına hakim olan Kapıkargın Dağı, Türkiye'nin en güzel doğal alanlarından biri. Bu dağ, Muğla'nın tarihi ve kültürel zenginliklerine ev sahipliği yapan bir bölgede bulunuyor. Doğal güzelliği ve tarihi önemiyle dikkat çeken bu dağ, Muğla'nın wichtig turistik noktalarından biri.
 
 ## Tarihçe
 
@@ -48,7 +48,7 @@ Doğal bir oluşum olan Kapıkargın Dağı, çevresindeki ekosistemi etkileyen 
 
 ## Flora ve Fauna
 
-Kapıkargın Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi sunar. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Yükseklik zonlarına göre değişen bitki örtüsü, çam ağaçlarından oluşan ormanlardan alpin flora türlerine kadar çeşitlilik gösterir. 
+Kapıkargın Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi sunar. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Yükseklik zonlarına göre değişen bitki örtüsü, çam ağaçlarından oluşan ormanlardan alpin flora türlerine kadar çeşitlilik gösterir.
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir fauna sunar. Dağ keçileri, çam ormanlarında yaşayan tavşanlar ve sincaplar gibi memeliler, dağın yüksek kesimlerinde yaşamlarını sürdürür. Kuşlar, özellikle sonbahar aylarında göç ettikleri için dağda önemli bir rol oynar. Sürüngenler ise, çam ormanlarının altında ve zeytinliklerde yaşamlarını sürdürür.
 
@@ -65,4 +65,4 @@ Muğla'nın gizli cennetlerinden biri olan Kapıkargın Dağı, doğa severler i
 - Bölge, 1993 yılında doğal sit alanı ilan edilmiştir.
 - Kapıkargın Dağı, Datça Yarımadası'nın en yüksek noktalarından biridir.
 - Dağın eteklerinde, Marmaris ve Datça gibi önemli turizm merkezleri bulunmaktadır.
-- Bölge, flora ve fauna açısından oldukça zengindir ve birçok endemik tür barındırmaktadır.
+

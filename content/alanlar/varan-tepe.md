@@ -28,7 +28,7 @@ wikidata_id: "Q31385375"
 
 # Varan Tepe
 
-Varan Tepe, Bitlis'in merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yer alır. Varan Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar. Burada, tarihi yapılar ve anıtların yanı sıra, çeşitli bitki türleri ve zengin fauna da bulunmaktadır. Varan Tepe, özellikle doğa ve tarih severlerin ilgisini çeken bir destinasyondur.
+Varan Tepe, Bitlis'in merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir alandır. Varan Tepe, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar. Burada, tarihi yapılar ve anıtların yanı sıra, çeşitli bitki türleri ve zengin fauna da bulunmaktadır. Varan Tepe, özellikle doğa ve tarih severlerin ilgisini çeken bir destinasyondur.
 
 ## Tarihçe
 

@@ -33,7 +33,7 @@ Konya'nın tarihi ve kültürel zenginliklerinin yanı sıra, Meram ilçesinde b
 
 ## Tarihçe
 
-Konya, tarihin derinliklerinden gelen bir şehir. Binlerce yıl önce, Hititlerin, Friglerin ve Lidyalıların yaşadığı bu topraklar, zaman içinde Selçukluların ve Osmanlıların da izlerini taşımıştır. 80 Binde Devri Âlem Parkı, bu histórik şehirde yer alan önemli bir doğal alan olarak karşımıza çıkar.
+Konya, tarihin derinliklerinden gelen bir şehir. Binlerce yıl önce, Hititlerin, Friglerin ve Lidyalıların yaşadığı bu topraklar, zaman içinde Selçukluların ve Osmanlıların da izlerini taşımıştır. 80 Binde Devri Âlem Parkı, bu tarihi şehirde yer alan önemli bir doğal alan olarak karşımıza çıkar.
 
 Türkiye'de botanik bahçeleri ve doğal alanlar, insan yaşamıyla iç içe geçmiş, tarihi süreçte önemli roller oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomisini ve kültürel dokusunu şekillendirmiştir. Konya bölgesinde de benzer bir durum gözlemlenir; geniş otlaklar ve doğal kaynaklar, insanların yaşamını ve geçimini etkilemiştir.
 

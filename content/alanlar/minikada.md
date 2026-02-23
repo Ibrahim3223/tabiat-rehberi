@@ -50,9 +50,9 @@ Doğal güzelliği ile ön plana çıkan Minikada, çevresindeki diğer adalar v
 
 ## Flora ve Fauna
 
-Minikada, Çanakkale'nin güzide bir noktası, geçiş ikliminin zenginliklerini sunuyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, ada çiçeklerle dolar; sahil boyunca kıyı bitkileri renklenir, güneş ışığını yansıtan yaprakları ile güzelliğini gösterir. 
+Minikada, Çanakkale'nin güzide bir noktası, geçiş ikliminin zenginliklerini sunuyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, ada çiçeklerle dolar; sahil boyunca kıyı bitkileri renklenir, güneş ışığını yansıtan yaprakları ile güzelliğini gösterir.
 
-Ada ekosisteminin izole popülasyonları, deniz kuşları ve kıyı bitkileri ile birlikte, bu bölge göçmen kuş rotası üzerinde yer alır. Sonbaharın gelmesiyle, ada göçmen kuşların önemli bir durağı haline gelir; bu kuşlar, kışın sıcak bölgelere gitmeden önce burada konaklarlar. 
+Ada ekosisteminin izole popülasyonları, deniz kuşları ve kıyı bitkileri ile birlikte, bu bölge göçmen kuş rotası üzerinde yer alır. Sonbaharın gelmesiyle, ada göçmen kuşların önemli bir durağı haline gelir; bu kuşlar, kışın sıcak bölgelere gitmeden önce burada konaklarlar.
 
 Minikada, karma ormanların çeşitliliği ve zenginliği ile biliniyor. Bu ormanlar, çeşitli memeliler, kuşlar ve sürüngenler için yaşam alanı sunuyor. Ada, aynı zamanda deniz kuşları için önemli bir üreme ve beslenme alanı olarak dikkat çekiyor. Ekolojik değerini koruma altına almak, bu zengin çeşitliliği gelecekteki nesiller için korumak anlamına geliyor.
 

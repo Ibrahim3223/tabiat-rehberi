@@ -1,7 +1,7 @@
 ---
 title: "Tarihi Tekke Hamamı"
 date: "2026-01-09T22:26:48.509Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738502"
 
 # Tarihi Tekke Hamamı
 
-Tarihi Tekke Hamamı, Tosya'da yer alan ve Karadeniz Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok ziyaretçiye ev sahipliği yapmaktadır. plajın tarihi geçmişi, ziyaretçilerini cezbeden önemli bir özelliktir. plajın etrafındaki yeşil alanlar ve doğal güzellikler, ziyaretçilere huzurlu bir ortam sunmaktadır.
+Tarihi Tekke Hamamı, Tosya'da yer alan ve Karadeniz Bölgesi'nin önemli turizm noktalarından biri olan bir plajdır. plajın tarihi geçmişi, ziyaretçilerini cezbeden önemli bir özelliktir. plajın etrafındaki yeşil alanlar ve doğal güzellikler, ziyaretçilere huzurlu bir ortam sunmaktadır.
 
 ## Tarihçe
 

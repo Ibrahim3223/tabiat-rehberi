@@ -28,7 +28,7 @@ wikidata_id: "Q31386783"
 
 # Şikeflik Tepe
 
-Şikeflik Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepenin yüksekliği ve genişliği, çevredeki diğer tepe ve dağların arasında ayrıcalıklı bir konumda olmasıyla dikkat çekiyor. Şikeflik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Şikeflik Tepe, doğal güzellikleri ve tarihi geçmişiyle birlikte, bölgeye gelen ziyaretçilerin ilgisini çekiyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu da, Şikeflik Tepe'nin sadece bir tepe değil, aynı zamanda bir doğal yaşam alanı olduğunu gösteriyor.
+Şikeflik Tepe, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan bir tepe. Bu tepenin yüksekliği ve genişliği, çevredeki diğer tepe ve dağların arasında ayrıcalıklı bir konumda olmasıyla dikkat çekiyor. Şikeflik Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Şikeflik Tepe, doğal güzellikleri ve tarihi geçmişiyle birlikte, bölgeye gelen ziyaretçilerin ilgisini çekiyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Bu da, Şikeflik Tepe'nin sadece bir tepe değil, aynı zamanda bir doğal yaşam alanı olduğunu gösteriyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Saraç Sinan Türbesi"
 date: "2026-01-10T05:36:41.055Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391357"
 
 # Saraç Sinan Türbesi
 
-Ankara'nın tarihi ve kültürel zenginliklerini keşfedin, Saraç Sinan Türbesi'ni ziyaret edin. Bu önemli tarihi mekan, Ankara'nın Altındağ ilçesinde yer alır ve ziyaretçilerini tarihin derinliklerine götürür. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilere geniş bir tarihi atmosfer sunar. Saraç Sinan Türbesi, Ankara'nın önemli bir kültürel mirası olarak kabul edilir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilir.
+Ankara'nın tarihi ve kültürel zenginliklerini keşfedin, Saraç Sinan Türbesi'ni ziyaret edin. Bu önemli tarihi mekan, Ankara'nın Altındağ ilçesinde yer alır ve ziyaretçilerini tarihin derinliklerine götürür. Saraç Sinan Türbesi, Ankara'nın önemli bir kültürel mirası olarak kabul edilir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 

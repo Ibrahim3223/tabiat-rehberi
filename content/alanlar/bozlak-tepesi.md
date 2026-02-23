@@ -28,11 +28,11 @@ wikidata_id: "Q31582293"
 
 # Bozlak Tepesi
 
-Bozlak Tepesi, Çorum'un doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve ziyaretçiler için önemli bir destinasyon olarak bilinmektedir. 200 futbol sahası büyüklüğündeki bu alan, gezginler için bir çekim merkezi olarak değerlendirilebilir. Bozlak Tepesi, Çorum'un coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Ziyaretçiler, bu tepede hem doğal güzellikleri keşfedebilir hem de bölgenin histórik geçmişini öğrenebilirler.
+Bozlak Tepesi, Çorum'un doğal güzelliklerinden biri olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve ziyaretçiler için önemli bir destinasyon olarak bilinmektedir. 200 futbol sahası büyüklüğündeki bu alan, gezginler için bir çekim merkezi olarak değerlendirilebilir. Bozlak Tepesi, Çorum'un coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Ziyaretçiler, bu tepede hem doğal güzellikleri keşfedebilir hem de bölgenin tarihi geçmişini öğrenebilirler.
 
 ## Tarihçe
 
-Bozlak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepenin históriağı, bölgenin coğrafi ve kültürel özellikleri ile yakından bağlantılıdır. Tarihi belgelerde, Bozlak Tepesi'nin önemli bir yerleşim yeri olarak bahsedilmektedir. Bu tepenin históriağı, çeşitli medeniyetlerin etkisi altında kalmıştır. Ziyaretçiler, bu tepede hem doğal güzellikleri keşfedebilir hem de bölgenin históriağı hakkında bilgi edinebilirler. Bozlak Tepesi, Çorum'un históriağı ve kültürü açısından önemli bir noktadır.
+Bozlak Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepenin tarihiğı, bölgenin coğrafi ve kültürel özellikleri ile yakından bağlantılıdır. Tarihi belgelerde, Bozlak Tepesi'nin önemli bir yerleşim yeri olarak bahsedilmektedir. Bu tepenin tarihiğı, çeşitli medeniyetlerin etkisi altında kalmıştır. Ziyaretçiler, bu tepede hem doğal güzellikleri keşfedebilir hem de bölgenin tarihiğı hakkında bilgi edinebilirler. Bozlak Tepesi, Çorum'un tarihiğı ve kültürü açısından önemli bir noktadır.
 
 ## Coğrafya
 

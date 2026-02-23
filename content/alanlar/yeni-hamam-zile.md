@@ -1,7 +1,7 @@
 ---
 title: "Yeni Hamam, Zile"
 date: "2026-01-09T23:56:34.848Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245804"
 
 # Yeni Hamam, Zile
 
-Yeni Hamam, Zile, Tokat'ın en önemli turizm merkezlerinden biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en güzel plajlarından biri olarak kabul edilir. Yeni Hamam, Zile'nin merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır. Bu bölgede, ziyaretçiler hem doğal güzellikleri keşfedebilir hem de tarihi ve kültürel zenginlikleri deneyimleyebilir. Yeni Hamam, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder.
+Yeni Hamam, Zile, Tokat'ın en önemli turizm merkezlerinden biri olarak bilinir. Yeni Hamam, Zile'nin merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşımı oldukça kolaydır. Bu bölgede, ziyaretçiler hem doğal güzellikleri keşfedebilir hem de tarihi ve kültürel zenginlikleri deneyimleyebilir. Yeni Hamam, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet eder.
 
 ## Tarihçe
 

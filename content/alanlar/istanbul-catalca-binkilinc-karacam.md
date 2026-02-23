@@ -22,7 +22,7 @@ wikidata_id: "Q108227509"
 
 # Istanbul-Catalca-Binkilinc Karacam
 
-İstanbul'un kuzeybatısında, Marmara Bölgesi'nde yer alan İstanbul-Catalca-Binkilinc Karacam milli parkı, 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Zengin flora ve fauna çeşitliliği, ziyaretçilere benzersiz bir deneyim sunuyor. Milli parkın büyüklüğü, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir alan sunuyor.
+ Bu bölge, İstanbul'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Zengin flora ve fauna çeşitliliği, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

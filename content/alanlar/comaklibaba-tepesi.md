@@ -28,7 +28,7 @@ wikidata_id: "Q34819669"
 
 # Çomaklıbaba Tepesi
 
-Çomaklıbaba Tepesi, Van ilinin gözde noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Çomaklıbaba Tepesi, ziyaretçilerini tarihi geçmişi ve doğal güzellikleriyle büyülüyor. Bu tepede, çeşitli bitki türleri ve zengin fauna dikkat çekiyor. Çomaklıbaba Tepesi, yılın her mevsiminde ziyaret edilebiliyor ve her mevsim farklı güzellikler sunuyor.
+Çomaklıbaba Tepesi, Van ilinin gözde noktalarından biri olarak karşımıza çıkıyor. Çomaklıbaba Tepesi, ziyaretçilerini tarihi geçmişi ve doğal güzellikleriyle büyülüyor. Bu tepede, çeşitli bitki türleri ve zengin fauna dikkat çekiyor. Çomaklıbaba Tepesi, yılın her mevsiminde ziyaret edilebiliyor ve her mevsim farklı güzellikler sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34819669"
 
 ## Coğrafya
 
-Çomaklıbaba Tepesi, Van ilinin coğrafi olarak en güzel noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Çomaklıbaba Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle, buradan Van ilinin ve çevresinin güzel manzaralarını izleme mümkün oluyor. Bu tepenin coğrafi konumu, ziyaretçilerine birçok farklı manzara sunuyor. Çomaklıbaba Tepesi, yılın her mevsiminde ziyaret edilebiliyor ve her mevsim farklı güzellikler sunuyor. Bu tepe, yaz aylarında serin bir kaçış noktası olarak biliniyor, kış aylarında ise kaya ve diğer kış sporları için ideal bir yer olarak biliniyor.
+Çomaklıbaba Tepesi, Van ilinin coğrafi olarak en güzel noktalarından biri olarak karşımıza çıkıyor. Çomaklıbaba Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle, buradan Van ilinin ve çevresinin güzel manzaralarını izleme mümkün oluyor. Bu tepenin coğrafi konumu, ziyaretçilerine birçok farklı manzara sunuyor. Çomaklıbaba Tepesi, yılın her mevsiminde ziyaret edilebiliyor ve her mevsim farklı güzellikler sunuyor. Bu tepe, yaz aylarında serin bir kaçış noktası olarak biliniyor, kış aylarında ise kaya ve diğer kış sporları için ideal bir yer olarak biliniyor.
 
 ## Flora ve Fauna
 

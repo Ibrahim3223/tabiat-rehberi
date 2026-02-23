@@ -23,7 +23,7 @@ wikidata_id: "Q108228607"
 
 # HALİL İBRAHİM YILMAZ
 
-HALİL İBRAHİM YILMAZ milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzelliktir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu park, bölgeye özgü bitki ve hayvan türleri ile ziyaretçilerini büyülüyor. HALİL İBRAHİM YILMAZ milli parkı, hem doğa severlerin hem de macera arayanların keyifli zaman geçirebileceği bir destinasyon.
+HALİL İBRAHİM YILMAZ milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğal güzelliktir. Bu park, bölgeye özgü bitki ve hayvan türleri ile ziyaretçilerini büyülüyor. HALİL İBRAHİM YILMAZ milli parkı, hem doğa severlerin hem de macera arayanların keyifli zaman geçirebileceği bir destinasyon.
 
 ## Tarihçe
 

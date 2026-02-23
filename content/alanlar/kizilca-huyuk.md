@@ -28,7 +28,7 @@ wikidata_id: "Q32211262"
 
 # Kızılca Hüyük
 
-Kızılca Hüyük, Hatay ilinin zengin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşit. Bu régionun coğrafi konumu ve tarihi geçmişi, onu ziyaretçilerin ilgi odağı haline getiriyor. Doğal güzellikleri, tarihi kalıntıları ve kültürel zenginlikleri ile Kızılca Hüyük, bir gezi durağı olarak ön plana çıkıyor.
+Kızılca Hüyük, Hatay ilinin zengin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Bu bölgenin coğrafi konumu ve tarihi geçmişi, onu ziyaretçilerin ilgi odağı haline getiriyor. Doğal güzellikleri, tarihi kalıntıları ve kültürel zenginlikleri ile Kızılca Hüyük, bir gezi durağı olarak ön plana çıkıyor.
 
 ## Tarihçe
 

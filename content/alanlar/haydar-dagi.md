@@ -32,7 +32,7 @@ Konya'nın merkezi bir konumunda yükselen Haydar Dağı, şehrin doğal güzell
 
 ## Tarihçe
 
-Konya bölgesi, tarihin sâu sayfalarına ışık tutan bir coğrafya olarak bilinir. İnsanlık tarihinin önemli merkezlerinden biri olan bu bölge, Hitit, Frig, Roma ve Selçuklu gibi uygarlıkların izlerini taşır. Haydar Dağı da bu zengin tarihsel mirasın bir parçası olarak, yüzyıllar boyu insanların yaşamına eşlik etmiş bir doğal alan olarak karşımıza çıkar.
+Konya bölgesi, tarihin derin sayfalarına ışık tutan bir coğrafya olarak bilinir. İnsanlık tarihinin önemli merkezlerinden biri olan bu bölge, Hitit, Frig, Roma ve Selçuklu gibi uygarlıkların izlerini taşır. Haydar Dağı da bu zengin tarihsel mirasın bir parçası olarak, yüzyıllar boyu insanların yaşamına eşlik etmiş bir doğal alan olarak karşımıza çıkar.
 
 Doğal güzellikleri ve verimli toprakları ile Konya, tarih boyunca insanların yerleşimine ve ticaretine ev sahipliği yapmış bir bölgedir. Bu tür doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasını oluşturur. İnsanlar, bu alanları yaylacılık, hayvancılık ve ticaret için kullanmış, bu bölgelerin doğal kaynaklarından faydalanarak yaşamını sürdürmüştür.
 

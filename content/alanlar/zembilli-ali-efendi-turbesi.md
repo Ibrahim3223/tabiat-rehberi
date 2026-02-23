@@ -1,7 +1,7 @@
 ---
 title: "Zembilli Ali Efendi Türbesi"
 date: "2026-01-10T07:42:56.320Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391159"
 
 # Zembilli Ali Efendi Türbesi
 
-Zembilli Ali Efendi Türbesi, Fatih, İstanbul'da bulunan bir historical türbe ve plajdır. Bu bölge, Marmara Bölgesi'nin en güzel yerlerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda çeşitli bitki türleri bulunmaktadır. Zembilli Ali Efendi Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu türbe, aynı zamanda bir plaj olarak da kullanılmaktadır.
+Zembilli Ali Efendi Türbesi, Fatih, İstanbul'da bulunan bir historical türbe ve plajdır. Bu bölge, Marmara Bölgesi'nin en güzel yerlerinden biridir. Zembilli Ali Efendi Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu türbe, aynı zamanda bir plaj olarak da kullanılmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Zembilli Ali Efendi Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu türb
 
 ## Coğrafya
 
-Zembilli Ali Efendi Türbesi, Fatih, İstanbul'da bulunmaktadır. Bu bölge, Marmara Bölgesi'nin en güzel yerlerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanda çeşitli bitki türleri bulunmaktadır. Türbe, deniz kenarında bulunmaktadır ve plaj olarak da kullanılmaktadır. Bu bölgede, çeşitli restoranlar ve kafeler bulunmaktadır. Zembilli Ali Efendi Türbesi, aynı zamanda bir tarihi merkez olarak da kullanılmaktadır ve bu bölgede çeşitli tarihi yapılar bulunmaktadır.
+Zembilli Ali Efendi Türbesi, Fatih, İstanbul'da bulunmaktadır. Bu bölge, Marmara Bölgesi'nin en güzel yerlerinden biridir. Türbe, deniz kenarında bulunmaktadır ve plaj olarak da kullanılmaktadır. Bu bölgede, çeşitli restoranlar ve kafeler bulunmaktadır. Zembilli Ali Efendi Türbesi, aynı zamanda bir tarihi merkez olarak da kullanılmaktadır ve bu bölgede çeşitli tarihi yapılar bulunmaktadır.
 
 ## Flora ve Fauna
 

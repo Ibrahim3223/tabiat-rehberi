@@ -28,11 +28,11 @@ wikidata_id: "Q31388388"
 
 # Bozbey Tepesi
 
-Bozbey Tepesi, Erzurum'un merkezi bir bölgesinde yer alan ve şehrin panoramik manzarasını sunan bir tepe. Doğu Anadolu Bölgesi'nin coğrafi çeşitliliği, bu tepeyi ziyaret edenleri etkileyen önemli bir özelliktir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada ziyaretçiler, şehrin tarihi ve kültürel zenginliklerine dair bilgi edinebilirler. Bozbey Tepesi, özellikle gün batımının güzelliği ve şehrin ışıklarının gece vaktindeki çekiciliği ile ünlüdür.
+Bozbey Tepesi, Erzurum'un merkezi bir bölgesinde yer alan ve şehrin panoramik manzarasını sunan bir tepe. Doğu Anadolu Bölgesi'nin coğrafi çeşitliliği, bu tepeyi ziyaret edenleri etkileyen önemli bir özelliktir. Bozbey Tepesi, özellikle gün batımının güzelliği ve şehrin ışıklarının gece vaktindeki çekiciliği ile ünlüdür.
 
 ## Tarihçe
 
-Bozbey Tepesi'nin tarihi geçmişi, Erzurum'un tarihi ile iç içe geçmiş durumdadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır. Tarihi kaynaklara göre, Bozbey Tepesi ve çevresi, geçmişte önemli ticaret yolları üzerinde yer almıştır. Bu nedenle, tepe ve çevresinde çeşitli tarihi eserler ve kalıntılar bulunmakta, ziyaretçilere bölgenin zengin tarihini keşfetme fırsatı sunmaktadır. Bozbey Tepesi, Erzurum'un kültür mirasının önemli bir parçası olarak kabul edilir ve şehrin tarihi kimliğinin oluşmasına katkıda bulunmuştur.
+Bozbey Tepesi'nin tarihi geçmişi, Erzurum'un tarihi ile iç içe geçmiş durumdadır. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her birinin izlerini taşımaktadır. Tarihi kaynaklara göre, Bozbey Tepesi ve çevresi, geçmişte önemli ticaret yolları üzerinde yer almıştır. Bozbey Tepesi, Erzurum'un kültür mirasının önemli bir parçası olarak kabul edilir ve şehrin tarihi kimliğinin oluşmasına katkıda bulunmuştur.
 
 ## Coğrafya
 

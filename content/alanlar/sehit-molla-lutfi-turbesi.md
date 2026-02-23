@@ -1,7 +1,7 @@
 ---
 title: "Şehit Molla Lütfi Türbesi"
 date: "2026-01-10T06:22:19.453Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391902"
 
 # Şehit Molla Lütfi Türbesi
 
-Şehit Molla Lütfi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir tarihi mekan olarak dikkat çekiyor. Bu türbe, bölgenin tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta. 140 hektarlık bir alanda bulunan Şehit Molla Lütfi Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tarihi geçmişinin zenginliği ve doğal güzelliği ile ziyaretçilerini cezbeden bu mekan, İstanbul'da görülmeye değer yerlerden biri.
+Şehit Molla Lütfi Türbesi, İstanbul'un Eyüpsultan ilçesinde yer alan bir tarihi mekan olarak dikkat çekiyor. Bu türbe, bölgenin tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta. Tarihi geçmişinin zenginliği ve doğal güzelliği ile ziyaretçilerini cezbeden bu mekan, İstanbul'da görülmeye değer yerlerden biri.
 
 ## Tarihçe
 

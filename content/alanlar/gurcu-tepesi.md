@@ -28,7 +28,7 @@ wikidata_id: "Q32139565"
 
 # Gürcü Tepesi
 
-Gürcü Tepesi, Tokat'ın Karadeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahiptir. Tepenin etrafında yer alan köyler ve kasabalar, ziyaretçilere tarihi ve kültürel bir zenginlik sunmaktadır. Tepenin zirvesine çıktığınızda, Karadeniz Bölgesi'nin eşsiz manzarasını izleme fırsatı bulacaksınız. Gürcü Tepesi, hem tarihi hem de doğal güzelliği ile dikkat çekmektedir.
+Gürcü Tepesi, Tokat'ın Karadeniz Bölgesi'nde yer alan bir tepe olarak bilinir. Tepenin etrafında yer alan köyler ve kasabalar, ziyaretçilere tarihi ve kültürel bir zenginlik sunmaktadır. Tepenin zirvesine çıktığınızda, Karadeniz Bölgesi'nin eşsiz manzarasını izleme fırsatı bulacaksınız. Gürcü Tepesi, hem tarihi hem de doğal güzelliği ile dikkat çekmektedir.
 
 ## Tarihçe
 

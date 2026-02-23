@@ -22,7 +22,7 @@ wikidata_id: "Q108227978"
 
 # Eskişehir-Inonu Saricam
 
-Eskişehir-Inonu Saricam, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Sarıcam Milli Parkı, Eskişehir'in şehir merkezine yakınlığıyla dikkat çeker ve şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Parkın içinde çeşitli bitki türleri, ağaçlar ve zengin fauna bulunur. Sarıcam, doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul edilebilir.
+Eskişehir-Inonu Saricam, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Sarıcam Milli Parkı, Eskişehir'in şehir merkezine yakınlığıyla dikkat çeker ve şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Parkın içinde çeşitli bitki türleri, ağaçlar ve zengin fauna bulunur. Sarıcam, doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul edilebilir.
 
 ## Tarihçe
 

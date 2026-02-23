@@ -22,7 +22,7 @@ wikidata_id: "Q108226257"
 
 # Şifelı Su Yılanlı Su Sit Alanı
 
-Şifelı Su Yılanlı Su Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyici bir doğa deneyimi sunuyor. İnsanların doğayla iç içe olabileceği bu özel bölge, yaban hayatı ve flora çeşitliliği ile dikkat çekiyor. Burada, doğanın güzelliğini ve çeşitliliğini keşfetme mümkündür.
+Şifelı Su Yılanlı Su Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. İnsanların doğayla iç içe olabileceği bu özel bölge, yaban hayatı ve flora çeşitliliği ile dikkat çekiyor. Burada, doğanın güzelliğini ve çeşitliliğini keşfetme mümkündür.
 
 ## Tarihçe
 

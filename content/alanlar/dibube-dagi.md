@@ -50,7 +50,7 @@ Ekosistem açısından, Dibube Dağı, çevresindeki ormanlık alanlar ve su kay
 
 ## Flora ve Fauna
 
-Dibube Dağı, Artvin'in nemli ikliminde yer alan gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Dibube Dağı, Artvin'in nemli ikliminde yer alan gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki örtüsünde hakim türler olarak çeşitli ağaç türleri ve çalılar bulunur. İlkbaharın gelmesiyle birlikte dağ eteklerinde çiçekler açar ve dağ manzarasına renk katar. Sonbaharda ise yaprakların dökülmesiyle birlikte dağ, sarı ve kırmızı tonlara bürünür.
 Yaban hayatı da oldukça zengin olan Dibube Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağın yükseklik zonlarında, alpin flora ve fauna çeşitliliği dikkat çeker. Sürüngenler ve diğer küçük canlılar da bu dağ ekosisteminin bir parçası olarak yaşamını sürdürür.
 Dibube Dağı, yüksek biyoçeşitlili ve ekolojik değerleri nedeniyle önemli bir bölgedir. Bu dağ ekosisteminin korunması, bölgeye özgü türlerin ve ekosistemin devamı için büyük önem taşır.

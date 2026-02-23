@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı Cihannüma Köşkü"
 date: "2026-01-10T04:34:52.703Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132681990"
 
 # Yıldız Sarayı Cihannüma Köşkü
 
-Yıldız Sarayı Cihannüma Köşkü, İstanbul'un Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik merkezi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı güzelliği barındırıyor. Sarayın tarihi geçmişi ve natürlich güzellikleri bir araya getiren bu mekan, ziyaretçilerini hem tarihin sayfalarına götürüyor hem de doğanın serinli ve huzurunu sunuyor. Cihannüma Köşkü, sarayın en dikkat çekici noktalarından biri olup, tarihi ve mimari güzelliği ile ön plana çıkıyor.
+Yıldız Sarayı Cihannüma Köşkü, İstanbul'un Beşiktaş ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik merkezi. Sarayın tarihi geçmişi ve natürlich güzellikleri bir araya getiren bu mekan, ziyaretçilerini hem tarihin sayfalarına götürüyor hem de doğanın serinli ve huzurunu sunuyor. Cihannüma Köşkü, sarayın en dikkat çekici noktalarından biri olup, tarihi ve mimari güzelliği ile ön plana çıkıyor.
 
 ## Tarihçe
 

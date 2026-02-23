@@ -22,7 +22,7 @@ wikidata_id: "Q108228868"
 
 # Bakkal Gölü Sulak Alanı
 
-Bakkal Gölü Sulak Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüleyici doğal alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. 140 hektarlık bu geniş yeşil alan, doğa severlerin ve biyologların ilgisini çekiyor. Bakkal Gölü Sulak Alanı, aynı zamanda birçok farklı kuş türüne de ev sahipliği yapıyor.
+ Bu büyüleyici doğal alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. 140 hektarlık bu geniş yeşil alan, doğa severlerin ve biyologların ilgisini çekiyor. Bakkal Gölü Sulak Alanı, aynı zamanda birçok farklı kuş türüne de ev sahipliği yapıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bakkal Gölü Sulak Alanı, yüzyıllar boyunca bölgenin ekolojik dengesini kor
 
 ## Coğrafya
 
-Bakkal Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve sulak alanlardan oluşuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok farklı bitki türünü barındırıyor. Bu bölgede, sulak alanların yanında, geniş otlaklar ve çalılıklar da bulunuyor. Bakkal Gölü Sulak Alanı, aynı zamanda birçok farklı hayvan türüne de ev sahipliği yapıyor. Bu alanın coğrafi yapısı, birçok farklı canlıyaşam alanı sağlıyor. Bakkal Gölü Sulak Alanı'nın iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine uygun olarak, kışları soğuk ve yazları sıcak geçiyor.
+Bakkal Gölü Sulak Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve sulak alanlardan oluşuyor. Bu bölgede, sulak alanların yanında, geniş otlaklar ve çalılıklar da bulunuyor. Bakkal Gölü Sulak Alanı, aynı zamanda birçok farklı hayvan türüne de ev sahipliği yapıyor. Bu alanın coğrafi yapısı, birçok farklı canlıyaşam alanı sağlıyor. Bakkal Gölü Sulak Alanı'nın iklimi, İç Anadolu Bölgesi'nin tipik karasal iklimine uygun olarak, kışları soğuk ve yazları sıcak geçiyor.
 
 ## Flora ve Fauna
 

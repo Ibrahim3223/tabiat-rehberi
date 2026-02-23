@@ -1,7 +1,7 @@
 ---
 title: "Burgaç Hatun Türbesi"
 date: "2026-01-10T05:55:27.093Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q118957979"
 
 # Burgaç Hatun Türbesi
 
-Burgaç Hatun Türbesi, Tokat ilinin merkezinde bulunan tarihi bir türbe ve çevresindeki doğal güzelliklerle dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ve fauna çeşitliliğiyle dolu. Bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Burgaç Hatun Türbesi, Tokat'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Burgaç Hatun Türbesi, Tokat ilinin merkezinde bulunan tarihi bir türbe ve çevresindeki doğal güzelliklerle dikkat çekiyor. Bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbediyor. Burgaç Hatun Türbesi, Tokat'ın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Burgaç Hatun Türbesi, tarihi geçmişiyle dikkat çekiyor. Tarihi belgelerde p
 
 ## Coğrafya
 
-Burgaç Hatun Türbesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede bulunuyor. Çevresindeki dağlar, ormanlar ve nehirler, bu bölgeyi doğal güzelliklerle dolu bir destinasyon haline getiriyor. 180 hektarlık bir alana yayılan bu bölge, yaklaşık 300 futbol sahası büyüklüğünde ve zengin flora ve fauna çeşitliliğiyle dolu. Burgaç Hatun Türbesi'nin bulunduğu bölge, Karadeniz Bölgesi'nin iklimini yansıtıyor ve ziyaretçilere bn mevsim boyunca farklı deneyimler sunuyor. Kışın karla kaplı dağlar, ilkbaharda yeşeren ormanlar, yazın serin nehirler ve sonbaharda renklenen yapraklar, bu bölgenin güzelliğini her mevsim farklı bir şekilde gösteriyor.
+Burgaç Hatun Türbesi, Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir bölgede bulunuyor. Çevresindeki dağlar, ormanlar ve nehirler, bu bölgeyi doğal güzelliklerle dolu bir destinasyon haline getiriyor. Burgaç Hatun Türbesi'nin bulunduğu bölge, Karadeniz Bölgesi'nin iklimini yansıtıyor ve ziyaretçilere bn mevsim boyunca farklı deneyimler sunuyor. Kışın karla kaplı dağlar, ilkbaharda yeşeren ormanlar, yazın serin nehirler ve sonbaharda renklenen yapraklar, bu bölgenin güzelliğini her mevsim farklı bir şekilde gösteriyor.
 
 ## Flora ve Fauna
 

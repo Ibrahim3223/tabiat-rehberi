@@ -29,7 +29,7 @@ wikidata_id: "Q31560775"
 
 # Tuğkaya Tepesi
 
-Tuğkaya Tepesi, İç Anadolu Bölgesi'nin göbeğinde, ziyaretçilerini büyüleyen bir doğal güzelliktir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle kaplıdır. Bu tepe, aynı zamanda bölgenin en önemli ekosistemlerinden birini oluşturur. Tuğkaya Tepesi'nin eteklerinde, çeşitli bitkiler ve ağaçlar yetişirken, tepe üzerindeki manzara ise ziyaretçilerini büyüleyici bir doğal güzelliğe sahip.
+Tuğkaya Tepesi, İç Anadolu Bölgesi'nin göbeğinde, ziyaretçilerini büyüleyen bir doğal güzelliktir. Bu tepe, aynı zamanda bölgenin en önemli ekosistemlerinden birini oluşturur. Tuğkaya Tepesi'nin eteklerinde, çeşitli bitkiler ve ağaçlar yetişirken, tepe üzerindeki manzara ise ziyaretçilerini büyüleyici bir doğal güzelliğe sahip.
 
 ## Tarihçe
 

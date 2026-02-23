@@ -1,7 +1,7 @@
 ---
 title: "Lütfi Paşa Hamamı"
 date: "2026-01-09T23:44:35.398Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739124"
 
 # Lütfi Paşa Hamamı
 
-Lütfi Paşa Hamamı, İstanbul'un Fatih ilçesinde yer alan ve Marmara Bölgesi'nin önemli kültür varlıklarından biri olan tarihi bir hamamdır. Bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide kurulmuştur. Hamamın tarihi geçmişi, İstanbul'un zengin kültür mirasının önemli bir parçasıdır. Lütfi Paşa Hamamı, ziyaretçilerini geçmişe götürerek, Osmanlı'nın hamam kültürünü deneyimleme fırsatı sunar. Hamamın tarihi atmosferi, ziyaretçilere benzersiz bir deneyim sunarken, aynı zamanda İstanbul'un geçmişine de ışık tutar.
+Lütfi Paşa Hamamı, İstanbul'un Fatih ilçesinde yer alan ve Marmara Bölgesi'nin önemli kültür varlıklarından biri olan tarihi bir hamamdır. Hamamın tarihi geçmişi, İstanbul'un zengin kültür mirasının önemli bir parçasıdır. Lütfi Paşa Hamamı, ziyaretçilerini geçmişe götürerek, Osmanlı'nın hamam kültürünü deneyimleme fırsatı sunar. Hamamın tarihi atmosferi, ziyaretçilere benzersiz bir deneyim sunarken, aynı zamanda İstanbul'un geçmişine de ışık tutar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Lütfi Paşa Hamamı'nın tarihi geçmişi, Osmanlı İmparatorluğu'nun önemli
 
 ## Coğrafya
 
-Lütfi Paşa Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nde yer alır. Hamam, 140 hektarlık bir arazide kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Hamamın konumu, İstanbul'un tarihi merkezine yakınlığıyla dikkat çeker. Hamamın etrafı, tarihi binalar ve yapılarla çevrili olup, ziyaretçilere, İstanbul'un tarihi atmosferini deneyimleme fırsatı sunar. Lütfi Paşa Hamamı'nın coğrafi konumu, aynı zamanda, Marmara Bölgesi'nin iklimini de yansıtır. Bölge, genellikle ılıman bir iklime sahiptir ve hamamın konumu, bu iklimin etkilerini taşır. Hamamın coğrafi özellikleri, ziyaretçilere, İstanbul'un doğal güzelliklerini deneyimleme fırsatı sunarken, aynı zamanda, Osmanlı'nın mimari tarzını da yansıtır. Lütfi Paşa Hamamı, İstanbul'un kültür ve tarihine ışık tutan önemli bir yapıdır ve ziyaretçilere, benzersiz bir deneyim sunar.
+Lütfi Paşa Hamamı, İstanbul'un Fatih ilçesinde, Marmara Bölgesi'nde yer alır. Hamamın konumu, İstanbul'un tarihi merkezine yakınlığıyla dikkat çeker. Hamamın etrafı, tarihi binalar ve yapılarla çevrili olup, ziyaretçilere, İstanbul'un tarihi atmosferini deneyimleme fırsatı sunar. Lütfi Paşa Hamamı'nın coğrafi konumu, aynı zamanda, Marmara Bölgesi'nin iklimini de yansıtır. Bölge, genellikle ılıman bir iklime sahiptir ve hamamın konumu, bu iklimin etkilerini taşır. Hamamın coğrafi özellikleri, ziyaretçilere, İstanbul'un doğal güzelliklerini deneyimleme fırsatı sunarken, aynı zamanda, Osmanlı'nın mimari tarzını da yansıtır. Lütfi Paşa Hamamı, İstanbul'un kültür ve tarihine ışık tutan önemli bir yapıdır ve ziyaretçilere, benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

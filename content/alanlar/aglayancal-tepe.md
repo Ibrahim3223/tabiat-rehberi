@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","yaban hayatı gözlemi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Ağlayançal Tepe","caption":"Ağlayançal Tepe","credit":"Lake Meke (217872347).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Flayan%C3%A7al%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32131431","tip":"genel"}]
-description: "Konya'nın doğal güzelliklerinden biri olan Ağlayançal Tepe, históri ve coğrafi açıdan dikkat çekici bir konumda yer alır."
+description: "Konya'nın doğal güzelliklerinden biri olan Ağlayançal Tepe, tarihi ve coğrafi açıdan dikkat çekici bir konumda yer alır."
 keywords: ["Ağlayançal Tepe","Konya","İç Anadolu Bölgesi","doğa","tarih","coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32131431"
@@ -28,7 +28,7 @@ wikidata_id: "Q32131431"
 
 # Ağlayançal Tepe
 
-Ağlayançal Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Ağlayançal Tepe'nin etrafı, çeşitli bitki türleri ile kaplı. Bu bölgede, yaban hayatı oldukça zengin. Ağlayançal Tepe, Konya'nın önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, tarihi ve coğrafi açıdan önemli bir konumda yer alıyor.
+Ağlayançal Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Ağlayançal Tepe'nin etrafı, çeşitli bitki türleri ile kaplı. Bu bölgede, yaban hayatı oldukça zengin. Ağlayançal Tepe, Konya'nın önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu tepe, tarihi ve coğrafi açıdan önemli bir konumda yer alıyor.
 
 ## Tarihçe
 

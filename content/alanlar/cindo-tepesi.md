@@ -28,7 +28,7 @@ wikidata_id: "Q31543248"
 
 # Cindo Tepesi
 
-Cindo Tepesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinde yer alan bir tepe olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Cindo Tepesi, ziyaretçilerine både tarihi ve doğal güzellikleri bir arada sunuyor. Tepenin eteklerinde yer alan tarihi yapılar, bölgenin zengin tarihini yansıtıyor. Ayrıca, tepe etrafındaki yeşil alanlar ve yürüyüş yolları, ziyaretçilere doğayla iç içe bir deneyimi vaat ediyor.
+Cindo Tepesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinde yer alan bir tepe olarak dikkat çekiyor. Cindo Tepesi, ziyaretçilerine både tarihi ve doğal güzellikleri bir arada sunuyor. Tepenin eteklerinde yer alan tarihi yapılar, bölgenin zengin tarihini yansıtıyor. Ayrıca, tepe etrafındaki yeşil alanlar ve yürüyüş yolları, ziyaretçilere doğayla iç içe bir deneyimi vaat ediyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Cindo Tepesi, tarihi geçmişi ile dikkat çekiyor. Bu tepe, yüzyıllar boyunca
 
 ## Coğrafya
 
-Cindo Tepesi, Diyarbakır ilinin merkezinde yer alıyor ve Güneydoğu Anadolu Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak kabul ediliyor. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafındaki yeşil alanlar ve yürüyüş yolları, ziyaretçilere doğayla iç içe bir deneyimi vaat ediyor. Cindo Tepesi, aynı zamanda bölgenin önemli bir su kaynağı olarak da kabul ediliyor. Tepenin eteklerinde yer alan tarihi yapılar, bölgenin zengin tarihini yansıtıyor. Cindo Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor ve bu nedenle, bölgenin en önemli turizm merkezlerinden biri olarak kabul ediliyor. Cindo Tepesi, Diyarbakır'ın iklimine uygun olarak, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir hava koşuluna sahip.
+Cindo Tepesi, Diyarbakır ilinin merkezinde yer alıyor ve Güneydoğu Anadolu Bölgesi'nin en önemli coğrafi oluşumlarından biri olarak kabul ediliyor. Tepenin etrafındaki yeşil alanlar ve yürüyüş yolları, ziyaretçilere doğayla iç içe bir deneyimi vaat ediyor. Cindo Tepesi, aynı zamanda bölgenin önemli bir su kaynağı olarak da kabul ediliyor. Tepenin eteklerinde yer alan tarihi yapılar, bölgenin zengin tarihini yansıtıyor. Cindo Tepesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunuyor ve bu nedenle, bölgenin en önemli turizm merkezlerinden biri olarak kabul ediliyor. Cindo Tepesi, Diyarbakır'ın iklimine uygun olarak, yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir hava koşuluna sahip.
 
 ## Flora ve Fauna
 

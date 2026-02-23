@@ -22,7 +22,7 @@ wikidata_id: "Q108228435"
 
 # Bolu-Gölyaka-Gölyaka Karaçam
 
-Bolu-Gölyaka-Gölyaka Karaçam, Karadeniz Bölgesi'nin en güzel milli parklarından biridir. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmıştır. Gölyaka Karaçam, Bolu'nun merkezine uzun bir mesafe uzaklıktadır ve kolayca ulaşılabilir. Milli parka gelen ziyaretçiler, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli vakit geçirebilir ve çevreyi keşfedebilir.
+Bolu-Gölyaka-Gölyaka Karaçam, Karadeniz Bölgesi'nin en güzel milli parklarından biridir. Gölyaka Karaçam, Bolu'nun merkezine uzun bir mesafe uzaklıktadır ve kolayca ulaşılabilir. Milli parka gelen ziyaretçiler, doğa yürüyüşleri yapabilir, piknik alanlarında keyifli vakit geçirebilir ve çevreyi keşfedebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bolu-Gölyaka-Gölyaka Karaçam milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Bolu-Gölyaka-Gölyaka Karaçam, Karadeniz Bölgesi'nin coğrafi özellikleri açısından zengin bir bölgedir. Milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olup, Karadeniz'in yeşillikleri arasında gizlidir. Bölge, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmıştır. Milli parkın coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri yapmasına, piknik alanlarında keyifli vakit geçirmesine ve çevreyi keşfetmesine olanak tanır. Gölyaka Karaçam, Bolu'nun merkezine uzun bir mesafe uzaklıktadır ve kolayca ulaşılabilir. Milli parkın coğrafi konumu, ziyaretçilerin doğayla iç içe olmasını sağlar ve buranın doğal güzelliğini keşfetmelerine olanak tanır.
+Bolu-Gölyaka-Gölyaka Karaçam, Karadeniz Bölgesi'nin coğrafi özellikleri açısından zengin bir bölgedir. Bölge, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmıştır. Milli parkın coğrafi yapısı, ziyaretçilerin doğa yürüyüşleri yapmasına, piknik alanlarında keyifli vakit geçirmesine ve çevreyi keşfetmesine olanak tanır. Gölyaka Karaçam, Bolu'nun merkezine uzun bir mesafe uzaklıktadır ve kolayca ulaşılabilir. Milli parkın coğrafi konumu, ziyaretçilerin doğayla iç içe olmasını sağlar ve buranın doğal güzelliğini keşfetmelerine olanak tanır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bolu-Gölyaka-Gölyaka Karaçam milli parkını ziyaret etmek, doğa severler ve
 
 ## İlginç Bilgiler
 
-- Bolu-Gölyaka-Gölyaka Karaçam, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir.
 - Milli park, Karadeniz Bölgesi'nin en güzel milli parklarından biridir.
 - Gölyaka Karaçam, Bolu'nun merkezine uzun bir mesafe uzaklıktadır.
 - Milli park, çeşitli bitki türleri ve zengin fauna ile birlikte, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmıştır.

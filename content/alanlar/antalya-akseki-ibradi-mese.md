@@ -22,7 +22,7 @@ wikidata_id: "Q108227276"
 
 # Antalya-Akseki-Ibradi Mese
 
-Antalya-Akseki-Ibradi Mese milli parkı, Akdeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Bu milli park, ziyaretçilerini yaban hayatının çeşitliliği ve zengin flora ile karşılayacak. Doğa severler için bir cennet olan bu bölge, yıl boyunca farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar aylarında yeşeren bitkiler, yaz aylarında serinleyen ormanlar, sonbaharın renk cümbüşü ve kışın karlı manzaralarıyla her mevsim ziyaret edilebilir.
+Antalya-Akseki-Ibradi Mese milli parkı, Akdeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu milli park, ziyaretçilerini yaban hayatının çeşitliliği ve zengin flora ile karşılayacak. Doğa severler için bir cennet olan bu bölge, yıl boyunca farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar aylarında yeşeren bitkiler, yaz aylarında serinleyen ormanlar, sonbaharın renk cümbüşü ve kışın karlı manzaralarıyla her mevsim ziyaret edilebilir.
 
 ## Tarihçe
 

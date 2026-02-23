@@ -50,7 +50,7 @@ Mevsimsel değişiklikler Hanife Dağı'nın iklim karakterini şekillendirir. �
 
 ## Flora ve Fauna
 
-Hanife Dağı, Tokat'ın nemli ikliminin etkisi altında gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hanife Dağı, Tokat'ın nemli ikliminin etkisi altında gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü olarak, dağın farklı yükseklik zonlarında çeşitli türler bulunur. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Yaz aylarında, ormanlar yeşillendirir ve dağ hayvanları için bir sığınak oluşturur. Sonbaharda, göçmen kuşlar dağları geçer ve kışın karla kaplı zirveler, alpin flora için uygun bir ortam sağlar.
 

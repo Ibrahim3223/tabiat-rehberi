@@ -1,7 +1,7 @@
 ---
 title: "Cenderecizade Muhittin Çelebi Türbesi"
 date: "2026-01-10T07:23:39.043Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391011"
 
 # Cenderecizade Muhittin Çelebi Türbesi
 
-Cenderecizade Muhittin Çelebi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran Fatih ilçesinde bulunuyor. Bu özel mekan, hem dini hem de kültürel açıdan önemli bir yere sahip. İstanbul'un kalbinde, Marmara Bölgesi'nin en güzel köşelerinden birinde yer alan Cenderecizade Muhittin Çelebi Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin bir araya geldiği bir ortama davet ediyor. 140 hektarlık bir alanın içinde yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş alan, ziyaretçilere tarihi ve kültürel bir yolculuğa çıkma fırsatı sunuyor.
+Cenderecizade Muhittin Çelebi Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran Fatih ilçesinde bulunuyor. Bu özel mekan, hem dini hem de kültürel açıdan önemli bir yere sahip. İstanbul'un kalbinde, Marmara Bölgesi'nin en güzel köşelerinden birinde yer alan Cenderecizade Muhittin Çelebi Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin bir araya geldiği bir ortama davet ediyor. Bu geniş alan, ziyaretçilere tarihi ve kültürel bir yolculuğa çıkma fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Cenderecizade Muhittin Çelebi Türbesi, yüzyıllar boyunca çeşitli medeniyet
 
 ## Coğrafya
 
-Cenderecizade Muhittin Çelebi Türbesi, Fatih ilçesinin merkezinde yer alıyor. Bu bölgenin coğrafi özellikleri, İstanbul'un genel coğrafyasına benzerlik gösteriyor. Marmara Bölgesi'nin karakteristik özelliklerini taşıyan bu alan, genellikle nemli ve ılıman bir iklime sahip. Yıl boyunca ziyaret edilebilen bu türbe, her mevsim farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin farklı tonlarını, sonbahar ve kış aylarında ise doğanın farklı renklerini görebilirsiniz. Türbenin etrafındaki alan, çeşitli ağaç ve bitki türleriyle kaplı, bu da ziyaretçilere doğal bir ortam sunuyor. 180 hektarlık bir alanda yer alan bu türbe ve çevresindeki yeşil alanlar, yaklaşık 250 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş ve yeşil alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Cenderecizade Muhittin Çelebi Türbesi, Fatih ilçesinin merkezinde yer alıyor. Bu bölgenin coğrafi özellikleri, İstanbul'un genel coğrafyasına benzerlik gösteriyor. Marmara Bölgesi'nin karakteristik özelliklerini taşıyan bu alan, genellikle nemli ve ılıman bir iklime sahip. Yıl boyunca ziyaret edilebilen bu türbe, her mevsim farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin farklı tonlarını, sonbahar ve kış aylarında ise doğanın farklı renklerini görebilirsiniz. Türbenin etrafındaki alan, çeşitli ağaç ve bitki türleriyle kaplı, bu da ziyaretçilere doğal bir ortam sunuyor. Bu geniş ve yeşil alan, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

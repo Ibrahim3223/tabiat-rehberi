@@ -1,7 +1,7 @@
 ---
 title: "Hacı Bayram Türbesi"
 date: "2026-01-10T04:47:52.446Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q6019471"
 
 # Hacı Bayram Türbesi
 
-Hacı Bayram Türbesi, Ankara'nın merkezinde, Altındağ ilçesinde yer alan tarihi ve doğal güzelliklerin bir araya geldiği önemli bir gezi noktasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ankara'nın en önemli tarihi ve kültürel miraslarından biridir. Bu türbe, Ankara'nın tarihi geçmişi hakkında önemli bilgiler sunar ve aynı zamanda şehrin doğal güzelliklerini keşfetmek için ideal bir yerdir. Hacı Bayram Türbesi, Ankara'nın en önemli gezilecek yerlerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
+Hacı Bayram Türbesi, Ankara'nın merkezinde, Altındağ ilçesinde yer alan tarihi ve doğal güzelliklerin bir araya geldiği önemli bir gezi noktasıdır. Bu türbe, Ankara'nın tarihi geçmişi hakkında önemli bilgiler sunar ve aynı zamanda şehrin doğal güzelliklerini keşfetmek için ideal bir yerdir. Hacı Bayram Türbesi, Ankara'nın en önemli gezilecek yerlerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 

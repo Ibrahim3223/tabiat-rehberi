@@ -1,7 +1,7 @@
 ---
 title: "Karabali Hamamı"
 date: "2026-01-09T23:56:42.753Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739237"
 
 # Karabali Hamamı
 
-Kocaeli'nin Karamürsel ilçesinde yer alan Karabali Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak dikkat çekmektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve deniz kıyısında yer almaktadır. Karabali Hamamı, ziyaretçilerine güneşin ve denizin keyfini çıkarmak için ideal bir ortam sunmaktadır. Plajın etrafında yer alan ağaçlar ve yeşillik, ziyaretçilere serin ve ferah bir atmosfer sağlamaktadır.
+Kocaeli'nin Karamürsel ilçesinde yer alan Karabali Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri olarak dikkat çekmektedir. Karabali Hamamı, ziyaretçilerine güneşin ve denizin keyfini çıkarmak için ideal bir ortam sunmaktadır. Plajın etrafında yer alan ağaçlar ve yeşillik, ziyaretçilere serin ve ferah bir atmosfer sağlamaktadır.
 
 ## Tarihçe
 

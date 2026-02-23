@@ -50,11 +50,11 @@ Mevsimsel değişiklikler, Kebir Dağı'nın iklim karakterini şekillendirmekte
 
 ## Flora ve Fauna
 
-Kebir Dağı, Van'ın yüksek dağ ekolojisinin bir parçası olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 metre ile 3000 metre arasındaki yükseklik zonlarında, alpin çayırlar ve endemik türler encontrabilir. 
+Kebir Dağı, Van'ın yüksek dağ ekolojisinin bir parçası olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 metre ile 3000 metre arasındaki yükseklik zonlarında, alpin çayırlar ve endemik türler encontrabilir.
 
-Bitki örtüsünü oluşturan yüksek dağ otları ve çalılar, ilkbaharda renkli çiçeklerle kaplanırken, sonbaharda sarı ve kahverengi tonlara bürünür. Bu mevsimsel değişim, dağda yaşayan hayvanlar için önemli bir yaşam döngüsüdür. 
+Bitki örtüsünü oluşturan yüksek dağ otları ve çalılar, ilkbaharda renkli çiçeklerle kaplanırken, sonbaharda sarı ve kahverengi tonlara bürünür. Bu mevsimsel değişim, dağda yaşayan hayvanlar için önemli bir yaşam döngüsüdür.
 
-Yaban hayatı, dağ keçileri, ayılar ve kartallar gibi memeliler ve kuşlardan oluşur. Sürüngenler de, bölgenin kayalık ve kurak alanlarında yaşarlar. Bu canlılar, dağın ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle kompleks bir ilişkiye sahiptir. 
+Yaban hayatı, dağ keçileri, ayılar ve kartallar gibi memeliler ve kuşlardan oluşur. Sürüngenler de, bölgenin kayalık ve kurak alanlarında yaşarlar. Bu canlılar, dağın ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle kompleks bir ilişkiye sahiptir.
 
 Kebir Dağı, yüksek dağ ekosistemini koruma açısından önemlidir. Bu alanın korunması, bölgede yaşayan endemik türlerin ve ekosistemin devamını sağlar.
 

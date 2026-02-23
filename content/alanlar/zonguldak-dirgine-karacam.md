@@ -22,7 +22,7 @@ wikidata_id: "Q108227467"
 
 # Zonguldak-Dirgine Karacam
 
-Zonguldak'ta yer alan Dirgine Karacam Milli Parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu milli park, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini sunar. 140 hektarlık bu geniş alan, doğa severlerin keyifli anlar geçirmesine olanak tanır.
+ Bu milli park, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. Parkın içerisinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini sunar. 140 hektarlık bu geniş alan, doğa severlerin keyifli anlar geçirmesine olanak tanır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Dirgine Karacam Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Dirgine Karacam Milli Parkı, Karadeniz Bölgesi'nin Zonguldak ilinde yer alır. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Bu iklim, parkın içerisinde yer alan çeşitli bitki türlerinin yetişmesine elverişlidir. Parkın çevresinde, çeşitli dağlar ve tepeler yer alır. Bu coğrafi yapı, parkın doğal güzelliğini tăngıtmaktadır.
+Dirgine Karacam Milli Parkı, Karadeniz Bölgesi'nin Zonguldak ilinde yer alır. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir. Bu iklim, parkın içerisinde yer alan çeşitli bitki türlerinin yetişmesine elverişlidir. Parkın çevresinde, çeşitli dağlar ve tepeler yer alır. Bu coğrafi yapı, parkın doğal güzelliğini tăngıtmaktadır.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Dirgine Karacam Milli Parkı, doğa severler için bir cennet olarak kabul edile
 
 ## İlginç Bilgiler
 
-- Dirgine Karacam Milli Parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
 - Parkın içerisinde, çeşitli bitki türleri ve zengin fauna yer alır.
 - Parkın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine uygun olarak yağışlı ve nemlidir.
 - Parkın çevresinde, çeşitli dağlar ve tepeler yer alır.

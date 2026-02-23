@@ -29,7 +29,7 @@ wikidata_id: "Q31549468"
 
 # Kalemetik Tepesi
 
-Kalemetik Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir tepe olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Ziyaretçilerin buraya gelmesini sağlayan en önemli neden, tepeye çıkıldığında ortaya çıkan büyüleyici manzaralardır. manzara, özellikle gün batımında ziyaretçilere unutulmaz anlar yaşatır.
+Kalemetik Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını oluşturan önemli bir tepe olarak bilinir. Ziyaretçilerin buraya gelmesini sağlayan en önemli neden, tepeye çıkıldığında ortaya çıkan büyüleyici manzaralardır. manzara, özellikle gün batımında ziyaretçilere unutulmaz anlar yaşatır.
 
 ## Tarihçe
 

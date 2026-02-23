@@ -28,7 +28,7 @@ wikidata_id: "Q31391152"
 
 # Kuşkayası Tepe
 
-Kuşkayası Tepe, İç Anadolu Bölgesi'nin kalbinde, Sivas ilinde yer alan bir tepe ve tarihi alandır. Bu bölge, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı bitki türünü ve hayvanı barındırmaktadır. Kuşkayası Tepe, ziyaretçilerine hem tarihi bir gezi hem de doğayla iç içe bir deneyim sunmaktadır. Burası, Sivas'ın önemli turizm noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından keşfedilmektedir.
+Kuşkayası Tepe, İç Anadolu Bölgesi'nin kalbinde, Sivas ilinde yer alan bir tepe ve tarihi alandır. Bu bölge, tarihi geçmişi ve doğal güzellikleri ile dikkat çekmektedir. Kuşkayası Tepe, ziyaretçilerine hem tarihi bir gezi hem de doğayla iç içe bir deneyim sunmaktadır. Burası, Sivas'ın önemli turizm noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından keşfedilmektedir.
 
 ## Tarihçe
 
@@ -50,6 +50,6 @@ Kuşkayası Tepe'yi ziyaret etmek, hem tarihi bir gezi hem de doğayla iç içe 
 
 - Kuşkayası Tepe, Sivas ilinin önemli turizm noktalarından biridir.
 - Bu bölge, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmıştır.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Kuşkayası Tepe, doğal güzellikleri ile dikkat çekmektedir.
 - Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır.

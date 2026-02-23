@@ -22,7 +22,7 @@ wikidata_id: "Q108227471"
 
 # Adana-Pos-Sogukoluk Karacam
 
-Adana-Pos-Sogukoluk Karacam, Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeker. Milli park, ziyaretçilerine çeşitli bitki türleri ve yaban hayatı ile karşılaşma fırsatı sunar. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
+Adana-Pos-Sogukoluk Karacam, Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Milli park, ziyaretçilerine çeşitli bitki türleri ve yaban hayatı ile karşılaşma fırsatı sunar. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakır.
 
 ## Tarihçe
 

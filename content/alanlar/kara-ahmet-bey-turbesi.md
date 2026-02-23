@@ -1,7 +1,7 @@
 ---
 title: "Kara Ahmet Bey Türbesi"
 date: "2026-01-10T07:33:15.258Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391225"
 
 # Kara Ahmet Bey Türbesi
 
-Kara Ahmet Bey Türbesi, Kütahya'nın merkezinde yer alan ve şehrin tarihi geçmişini yansıtan önemli bir mekan. 140 hektarlık bir alan üzerine kurulu olan bu türkü, yaklaşık 200 futbol sahası büyüklüğünde ve Kütahya'nın en büyük yeşil alanlarından biri. Kara Ahmet Bey Türbesi, Kütahya'nın merkezine sadece 5 kilometre uzaklıkta ve ulaşımı oldukça kolay. Bu nedenle, Kütahya'ya gelenlerin mutlaka ziyaret etmesi gereken bir yer.
+Kara Ahmet Bey Türbesi, Kütahya'nın merkezinde yer alan ve şehrin tarihi geçmişini yansıtan önemli bir mekan. Kara Ahmet Bey Türbesi, Kütahya'nın merkezine sadece 5 kilometre uzaklıkta ve ulaşımı oldukça kolay. Bu nedenle, Kütahya'ya gelenlerin mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

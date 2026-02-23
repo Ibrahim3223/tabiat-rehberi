@@ -1,7 +1,7 @@
 ---
 title: "Yunus Emre ve Taptuk Emre Türbesi"
 date: "2026-01-10T05:22:32.672Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Isparta"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390457"
 
 # Yunus Emre ve Taptuk Emre Türbesi
 
-Isparta'nın Gönen ilçesinde yer alan Yunus Emre ve Taptuk Emre Türbesi, Türkiye'nin önemli kültür ve tarih mekanlarından biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Bu mekan, Türk edebiyatının önemli isimlerinden Yunus Emre ve Taptuk Emre'nin anısına inşa edilmiş ve her yıl birçok ziyaretçi tarafından ziyaret ediliyor. Yunus Emre ve Taptuk Emre'nin hayatları ve eserleri, Türk edebiyatının zengin tarihinde önemli bir yer tutuyor ve bu türbe, onların anısına yapılan bir saygıdur. Ziyaretçiler, bu mekanın tarihi atmosferini soluyarak, Türk kültürünün derinliklerine dalma fırsatı buluyor.
+Isparta'nın Gönen ilçesinde yer alan Yunus Emre ve Taptuk Emre Türbesi, Türkiye'nin önemli kültür ve tarih mekanlarından biridir. Bu mekan, Türk edebiyatının önemli isimlerinden Yunus Emre ve Taptuk Emre'nin anısına inşa edilmiş ve her yıl birçok ziyaretçi tarafından ziyaret ediliyor. Yunus Emre ve Taptuk Emre'nin hayatları ve eserleri, Türk edebiyatının zengin tarihinde önemli bir yer tutuyor ve bu türbe, onların anısına yapılan bir saygıdur. Ziyaretçiler, bu mekanın tarihi atmosferini soluyarak, Türk kültürünün derinliklerine dalma fırsatı buluyor.
 
 ## Tarihçe
 

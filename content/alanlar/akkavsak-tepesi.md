@@ -28,7 +28,7 @@ wikidata_id: "Q31389784"
 
 # Akkavşak Tepesi
 
-Akkavşak Tepesi, Bolu'nun gözde noktalarından biri olarak karşımıza çıkar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için mükemmel bir kaçış noktası sunar. Burada doğa severler, trekking ve kamp gibi çeşitli faaliyetleri gerçekleştirebilirler. Akkavşak Tepesi, ziyaretçilerini farklı mevsimlerde farklı güzelliği ile büyülemeye devam ediyor. İlkbaharın yeşillikleriyle, sonbaharın renk cümbüşüyle, kışın karlı manzarasıyla ve yazın serin havasıyla her mevsim ziyaretçilerini bekliyor.
+Akkavşak Tepesi, Bolu'nun gözde noktalarından biri olarak karşımıza çıkar. Burada doğa severler, trekking ve kamp gibi çeşitli faaliyetleri gerçekleştirebilirler. Akkavşak Tepesi, ziyaretçilerini farklı mevsimlerde farklı güzelliği ile büyülemeye devam ediyor. İlkbaharın yeşillikleriyle, sonbaharın renk cümbüşüyle, kışın karlı manzarasıyla ve yazın serin havasıyla her mevsim ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Akkavşak Tepesi'nin tarihi geçmişi, bölgenin zengin kültürel mirasını ya
 
 ## Coğrafya
 
-Akkavşak Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Bolu'da yer alır. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli aktiviteler sunar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna found. İklim, Karadeniz Bölgesi'nin karakteristik özellikleri taşır; nemli ve serin bir hava, özellikle yaz aylarında serinlik sağlar. Çevre, hem doğal güzelliği ile hem de tarihsel önemiyle ziyaretçilerini etkileyen bir atmosfer sunar. Akkavşak Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu geniş alan, ziyaretçilere geniş bir faaliyet yelpazesi sunar.
+Akkavşak Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Bolu'da yer alır. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli aktiviteler sunar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna found. İklim, Karadeniz Bölgesi'nin karakteristik özellikleri taşır; nemli ve serin bir hava, özellikle yaz aylarında serinlik sağlar. Çevre, hem doğal güzelliği ile hem de tarihsel önemiyle ziyaretçilerini etkileyen bir atmosfer sunar.
 
 ## Flora ve Fauna
 

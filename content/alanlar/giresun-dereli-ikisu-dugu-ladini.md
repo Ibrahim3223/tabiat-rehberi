@@ -22,7 +22,7 @@ wikidata_id: "Q108228549"
 
 # Giresun-Dereli-Ikisu-Dugu Ladini
 
-Giresun-Dereli-Ikisu-Dugu Ladini milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak kabul ediliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın kucağına davet ediyor. Milli parkın etrafı, yüksek dağlar ve vadilerle çevrilidir. Bu coğrafi özelliği, bölgeye özel bir iklim kazandırıyor. Giresun-Dereli-Ikisu-Dugu Ladini milli parkı, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin zengin tarihini sunuyor.
+Giresun-Dereli-Ikisu-Dugu Ladini milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak kabul ediliyor. Milli parkın etrafı, yüksek dağlar ve vadilerle çevrilidir. Bu coğrafi özelliği, bölgeye özel bir iklim kazandırıyor. Giresun-Dereli-Ikisu-Dugu Ladini milli parkı, ziyaretçilerine hem doğanın güzelliğini hem de bölgenin zengin tarihini sunuyor.
 
 ## Tarihçe
 

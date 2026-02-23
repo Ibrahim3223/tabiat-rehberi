@@ -1,7 +1,7 @@
 ---
 title: "Habib-i Acem Türbesi, Çivril"
 date: "2026-01-10T05:40:34.526Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582190"
 
 # Habib-i Acem Türbesi, Çivril
 
-Habib-i Acem Türbesi, Çivril'de yer alan tarihi bir yapıdır. 140 hektarlık bir alanda bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Türbenin tarihi geçmişi, ziyaretçilerini geçmişe götürür. Çivril'in merkezi konumunda bulunan bu türbe, şehrin en önemli tarihi yapılarından biridir. Ziyaretçiler, türbenin mimarisini ve tarihi önemini yakından inceleyebilirler. Habib-i Acem Türbesi, Çivril'de bulunan en önemli kültürel ve tarihi merkezlerden biridir.
+Habib-i Acem Türbesi, Çivril'de yer alan tarihi bir yapıdır. Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Türbenin tarihi geçmişi, ziyaretçilerini geçmişe götürür. Çivril'in merkezi konumunda bulunan bu türbe, şehrin en önemli tarihi yapılarından biridir. Ziyaretçiler, türbenin mimarisini ve tarihi önemini yakından inceleyebilirler. Habib-i Acem Türbesi, Çivril'de bulunan en önemli kültürel ve tarihi merkezlerden biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Habib-i Acem Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Tür
 
 ## Coğrafya
 
-Habib-i Acem Türbesi, Çivril'in merkezi konumunda bulunmaktadır. Türbe, 140 hektarlık bir alanda yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Türbenin etrafı, çeşitli bitki türleriyle kaplıdır. Ziyaretçiler, türbenin mimarisini ve tarihi önemini yakından inceleyebilirler. Çivril'in iklimi, Ege Bölgesi'nin genel iklimine benzer. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklimi sahiptir. Habib-i Acem Türbesi, Çivril'in en önemli tarihi ve kültürel merkezlerinden biridir. Türbe, ziyaretçilerini geçmişe götürerek, tarihin izlerini sürme fırsatı sunar.
+Habib-i Acem Türbesi, Çivril'in merkezi konumunda bulunmaktadır. Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Türbenin etrafı, çeşitli bitki türleriyle kaplıdır. Ziyaretçiler, türbenin mimarisini ve tarihi önemini yakından inceleyebilirler. Çivril'in iklimi, Ege Bölgesi'nin genel iklimine benzer. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise ılıman ve yağışlı bir iklimi sahiptir. Habib-i Acem Türbesi, Çivril'in en önemli tarihi ve kültürel merkezlerinden biridir. Türbe, ziyaretçilerini geçmişe götürerek, tarihin izlerini sürme fırsatı sunar.
 
 ## Flora ve Fauna
 

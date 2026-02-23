@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Sarıgazel Tabiat Parkı
 
-Sarıgazel Tabiat Parkı, Samsun'un Karadeniz Bölgesi'nde yer alan yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri yer alıyor. Sarıgazel Tabiat Parkı, hem doğa severler hem de aileler için ideal bir gezi noktası.
+ Bu geniş yeşil alan, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın içinde yürüyüş yolları, piknik alanları ve çeşitli bitki türleri yer alıyor. Sarıgazel Tabiat Parkı, hem doğa severler hem de aileler için ideal bir gezi noktası.
 
 ## Tarihçe
 

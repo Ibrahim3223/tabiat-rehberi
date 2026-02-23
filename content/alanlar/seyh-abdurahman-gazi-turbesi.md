@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Abdurahman Gazi Türbesi"
 date: "2026-01-10T05:58:38.242Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Van"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390521"
 
 # Şeyh Abdurahman Gazi Türbesi
 
-Şeyh Abdurahman Gazi Türbesi, Van ilinin İpekyolu ilçesinde yer alan bir tarihsel ve kültürel destinasyondur. Bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuştur ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin etrafı, çeşitli ağaçlar ve bitkilerle çevrilidir. Şeyh Abdurahman Gazi Türbesi, tarihi geçmişi ve kültürel önemi nedeniyle, ziyaretçilerin ilgisini çekmektedir. Türbenin mimarisi, geleneksel Türk mimari tarzını yansıtır ve ziyaretçilere, tarihsel bir atmosfer sunar.
+Şeyh Abdurahman Gazi Türbesi, Van ilinin İpekyolu ilçesinde yer alan bir tarihsel ve kültürel destinasyondur. Türbenin etrafı, çeşitli ağaçlar ve bitkilerle çevrilidir. Şeyh Abdurahman Gazi Türbesi, tarihi geçmişi ve kültürel önemi nedeniyle, ziyaretçilerin ilgisini çekmektedir. Türbenin mimarisi, geleneksel Türk mimari tarzını yansıtır ve ziyaretçilere, tarihsel bir atmosfer sunar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Ilıcaboğazı"
 date: "2026-01-09T23:45:44.863Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -30,7 +30,7 @@ wikidata_id: "Q133245799"
 
 # Hamam, Ilıcaboğazı
 
-Hamam Ilıcaboğazı, Marmara Bölgesi'nin Susurluk ilçesinde yer alan, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, plajın güzelliği ve doğal kaynakları ile dikkat çekiyor. İlçe merkezine yakın konumuyla da kolay ulaşılabilirlik sunuyor. Hamam Ilıcaboğazı, geniş ve yeşil alanlarıyla, hem doğa severler hem de plaj tutkunları için ideal bir destinasyon. İlçe halkının da sıklıkla ziyaret ettiği bu bölge, yerel ekonomiye de katkı sağlıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunuyor.
+ Bu bölge, plajın güzelliği ve doğal kaynakları ile dikkat çekiyor. İlçe merkezine yakın konumuyla da kolay ulaşılabilirlik sunuyor. Hamam Ilıcaboğazı, geniş ve yeşil alanlarıyla, hem doğa severler hem de plaj tutkunları için ideal bir destinasyon. İlçe halkının da sıklıkla ziyaret ettiği bu bölge, yerel ekonomiye de katkı sağlıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hamam Ilıcaboğazı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeni
 
 ## Coğrafya
 
-Hamam Ilıcaboğazı, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. İlçe merkezine yakın konumu, bölgeyi ulaşılabilir kılıyor. Bu bölgenin coğrafyası, geniş yeşil alanlar, plaj ve doğal kaynaklar ile dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunuyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Yaz aylarında sıcaklık artarken, kış aylarında serin bir hava hakim oluyor. Bu durum, bölgenin yıl boyunca ziyaret edilebilir olmasını sağlıyor. Hamam Ilıcaboğazı, coğrafi konumu itibariyle, hem doğa severler hem de plaj tutkunları için ideal bir destinasyon. Bölgenin doğal güzellikleri, ziyaretçilere geniş bir hareket alanı sunuyor.
+Hamam Ilıcaboğazı, Marmara Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer alıyor. İlçe merkezine yakın konumu, bölgeyi ulaşılabilir kılıyor. Bu bölgenin coğrafyası, geniş yeşil alanlar, plaj ve doğal kaynaklar ile dikkat çekiyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimi ile benzerlik gösteriyor. Yaz aylarında sıcaklık artarken, kış aylarında serin bir hava hakim oluyor. Bu durum, bölgenin yıl boyunca ziyaret edilebilir olmasını sağlıyor. Hamam Ilıcaboğazı, coğrafi konumu itibariyle, hem doğa severler hem de plaj tutkunları için ideal bir destinasyon. Bölgenin doğal güzellikleri, ziyaretçilere geniş bir hareket alanı sunuyor.
 
 ## Flora ve Fauna
 

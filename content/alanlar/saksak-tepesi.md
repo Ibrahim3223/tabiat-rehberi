@@ -28,7 +28,7 @@ wikidata_id: "Q31507898"
 
 # Şakşak Tepesi
 
-Şakşak Tepesi, Erzurum'un doğal güzelliklerine ev sahipliği yapan bir bölgede yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Şakşak Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırma ve doğayla baş başa kalmak isteyenler için ideal bir kaçış noktası sunar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna  eder, bu da burayı doğa severler için cennet gibi bir yer haline getirir.
+Şakşak Tepesi, Erzurum'un doğal güzelliklerine ev sahipliği yapan bir bölgede yer alır. Şakşak Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırma ve doğayla baş başa kalmak isteyenler için ideal bir kaçış noktası sunar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna  eder, bu da burayı doğa severler için cennet gibi bir yer haline getirir.
 
 ## Tarihçe
 

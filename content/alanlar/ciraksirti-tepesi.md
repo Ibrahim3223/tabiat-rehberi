@@ -28,7 +28,7 @@ wikidata_id: "Q34829289"
 
 # Çıraksırtı Tepesi
 
-Samsun'un doğal güzellikleri arasında yer alan Çıraksırtı Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri. Bu bölge, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Çıraksırtı Tepesi, Samsun'un şehir merkezine yakınlığıyla dikkat çekiyor. Bu tepe, şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası. Çıraksırtı Tepesi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyan bir coğrafyaya sahip. Bu bölge, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
+Samsun'un doğal güzellikleri arasında yer alan Çıraksırtı Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri. Çıraksırtı Tepesi, Samsun'un şehir merkezine yakınlığıyla dikkat çekiyor. Bu tepe, şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası. Çıraksırtı Tepesi, Karadeniz Bölgesi'nin karakteristik özelliklerini taşıyan bir coğrafyaya sahip. Bu bölge, ziyaretçilerine doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Samsun'un doğal güzellikleri arasında yer alan Çıraksırtı Tepesi, Karaden
 
 ## Coğrafya
 
-Çıraksırtı Tepesi, Samsun'un şehir merkezine yakın bir konumda yer alıyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Çıraksırtı Tepesi, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu bölge, Karadeniz Bölgesi'nin iklim koşullarına uygun olarak, zengin bir flora ve fauna çeşitliliğine sahip. Çıraksırtı Tepesi, ziyaretçilerine doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor. Bu tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir nokta. Çıraksırtı Tepesi'nin coğrafyası, bölgenin jeolojik yapısı, iklimi ve bitki örtüsüyle şekillenmiştir. Bu bölge, ziyaretçiler için bir doğa harikası olarak hizmet veriyor.
+Çıraksırtı Tepesi, Samsun'un şehir merkezine yakın bir konumda yer alıyor. Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bu bölge, Karadeniz Bölgesi'nin iklim koşullarına uygun olarak, zengin bir flora ve fauna çeşitliliğine sahip. Çıraksırtı Tepesi, ziyaretçilerine doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor. Bu tepe, Karadeniz Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir nokta. Çıraksırtı Tepesi'nin coğrafyası, bölgenin jeolojik yapısı, iklimi ve bitki örtüsüyle şekillenmiştir. Bu bölge, ziyaretçiler için bir doğa harikası olarak hizmet veriyor.
 
 ## Flora ve Fauna
 

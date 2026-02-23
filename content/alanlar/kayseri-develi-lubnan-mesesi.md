@@ -22,7 +22,7 @@ wikidata_id: "Q108228579"
 
 # Kayseri-Develi-Lubnan Mesesi
 
-Kayseri-Develi-Lubnan Mesesi milli parkı, İç Anadolu Bölgesi'nin kalbinde, Kayseri ilinin Develi ilçesinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın serinli ve güzelliği ile karşılayacak bir cennet. Bu milli park, özellikle Lubnan meselesi gibi endemik türlerle dikkat çekiyor ve doğa severlerin ilgisini çekiyor. Kayseri'nin tarihi ve kültürel zenginliklerinin yanı sıra, bu milli parkta doğanın mucizelerini keşfetme mümkün.
+Kayseri-Develi-Lubnan Mesesi milli parkı, İç Anadolu Bölgesi'nin kalbinde, Kayseri ilinin Develi ilçesinde yer alıyor. Bu milli park, özellikle Lubnan meselesi gibi endemik türlerle dikkat çekiyor ve doğa severlerin ilgisini çekiyor. Kayseri'nin tarihi ve kültürel zenginliklerinin yanı sıra, bu milli parkta doğanın mucizelerini keşfetme mümkün.
 
 ## Tarihçe
 

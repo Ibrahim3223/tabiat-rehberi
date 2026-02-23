@@ -23,7 +23,7 @@ wikidata_id: "Q108228156"
 
 # Gölpınar
 
-Gölpınar, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, bölgenin en önemli doğal güzelliklerinden biridir. Gölpınar, ziyaretçilerini doğanın mucizeleriyle baş başa bırakmak için tasarlanmış bir cennettir. Burada, doğanın gerçek güzelliğini keşfederken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de öğrenebilirsiniz. Gölpınar, sadece bir doğa harikası değil, aynı zamanda bir kültür ve tarih merkezidir.
+Gölpınar, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Gölpınar, ziyaretçilerini doğanın mucizeleriyle baş başa bırakmak için tasarlanmış bir cennettir. Burada, doğanın gerçek güzelliğini keşfederken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de öğrenebilirsiniz. Gölpınar, sadece bir doğa harikası değil, aynı zamanda bir kültür ve tarih merkezidir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Gölpınar'ın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge
 
 ## Coğrafya
 
-Gölpınar, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Gölpınar'ın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve ziyaretçilere dört mevsim farklı güzellikler sunar. Gölpınar, ziyaretçilerini doğayla baş başa bırakmak için tasarlanmış bir cennettir. Burada, doğanın gerçek güzelliğini keşfederken, aynı zamanda bölgenin coğrafi zenginliklerini de öğrenebilirsiniz. Gölpınar, sadece bir doğa harikası değil, aynı zamanda bir coğrafi merkezdir.
+Gölpınar, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Gölpınar'ın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzerlik gösterir ve ziyaretçilere dört mevsim farklı güzellikler sunar. Gölpınar, ziyaretçilerini doğayla baş başa bırakmak için tasarlanmış bir cennettir. Burada, doğanın gerçek güzelliğini keşfederken, aynı zamanda bölgenin coğrafi zenginliklerini de öğrenebilirsiniz. Gölpınar, sadece bir doğa harikası değil, aynı zamanda bir coğrafi merkezdir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ Gölpınar'ı ziyaret etmek, doğa severler için bir rüya gerçekleştirmektir
 
 ## İlginç Bilgiler
 
-- Gölpınar, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile karakterizedir.
 - Gölpınar, ziyaretçilerine doğayla baş başa bırakmak için tasarlanmış bir cennettir.
 - Bölgenin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.

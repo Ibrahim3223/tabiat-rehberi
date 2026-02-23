@@ -1,7 +1,7 @@
 ---
 title: "Piri Baba Türbesi"
 date: "2026-01-10T06:03:33.083Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390529"
 
 # Piri Baba Türbesi
 
-Piri Baba Türbesi, İç Anadolu Bölgesi'nin Merzifon ilçesinde yer alan tarihi bir mekan olarak dikkat çekmektedir. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere hem tarihi bir atmosfer sunar hem de doğayla iç içe olunabilecek bir ortam sağlar. Piri Baba Türbesi, Merzifon'un tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir. Türbenin etrafı, çeşitli bitki türleriyle çevrili olup, mevsimsel değişimlerle birlikte farklı renkler ve güzellikler sunar.
+Piri Baba Türbesi, İç Anadolu Bölgesi'nin Merzifon ilçesinde yer alan tarihi bir mekan olarak dikkat çekmektedir. Bu geniş alan, ziyaretçilere hem tarihi bir atmosfer sunar hem de doğayla iç içe olunabilecek bir ortam sağlar. Piri Baba Türbesi, Merzifon'un tarihi zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir. Türbenin etrafı, çeşitli bitki türleriyle çevrili olup, mevsimsel değişimlerle birlikte farklı renkler ve güzellikler sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Piri Baba Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu tarihi mekanın
 
 ## Coğrafya
 
-Piri Baba Türbesi, Merzifon'un merkezi bir konumunda yer alır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede kura ve karasal bir iklimin hakim olmasını sağlar. Piri Baba Türbesi de, bu coğrafi ve iklimsel koşulların etkisi altındadır. Türbenin etrafı, çeşitli bitki türleriyle çevrilidir ve mevsimsel değişimlerle birlikte bu bitkilerin renkleri ve güzellikleri değişir. 140 hektarlık alan, ziyaretçilere geniş bir yeşil alan sunar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Piri Baba Türbesi, Merzifon'un coğrafi ve iklimsel özellikleri ile birlikte, ziyaretçilere benzersiz bir deneyim sunar.
+Piri Baba Türbesi, Merzifon'un merkezi bir konumunda yer alır. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu bölgede kura ve karasal bir iklimin hakim olmasını sağlar. Piri Baba Türbesi de, bu coğrafi ve iklimsel koşulların etkisi altındadır. Türbenin etrafı, çeşitli bitki türleriyle çevrilidir ve mevsimsel değişimlerle birlikte bu bitkilerin renkleri ve güzellikleri değişir. Piri Baba Türbesi, Merzifon'un coğrafi ve iklimsel özellikleri ile birlikte, ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

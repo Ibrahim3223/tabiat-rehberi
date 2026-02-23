@@ -28,7 +28,7 @@ wikidata_id: "Q31389057"
 
 # Şahmelek Tepesi
 
-Şahmelek Tepesi, Muş'un merkezinde yer alan ve tarihi geçmişi ile bilinen bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevredeki diğer tepelerden daha yüksek. Bu tepe, şehrin merkezinden kolayca ulaşılabilir ve ziyaretçilere geniş bir manzara sunar. Şahmelek Tepesi, hem doğal güzellikleri hem de tarihi önemini korumayı başarmış bir destinasyon.
+Şahmelek Tepesi, Muş'un merkezinde yer alan ve tarihi geçmişi ile bilinen bir tepe. Bu tepe, şehrin merkezinden kolayca ulaşılabilir ve ziyaretçilere geniş bir manzara sunar. Şahmelek Tepesi, hem doğal güzellikleri hem de tarihi önemini korumayı başarmış bir destinasyon.
 
 ## Tarihçe
 

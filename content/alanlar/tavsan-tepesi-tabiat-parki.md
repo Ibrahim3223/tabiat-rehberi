@@ -23,7 +23,7 @@ wikidata_id: "Q108228788"
 
 # Tavşan Tepesi Tabiat Parkı
 
-Tavşan Tepesi Tabiat Parkı, İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Parkın içerisinde, doğa yürüyüşleri yapmak, piknik alanlarında dinlenme ve çevreyi keşfetme mümkündür. Tavşan Tepesi Tabiat Parkı, doğa severler için gerçek bir cennettir.
+ Bu park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini karşılar. Parkın içerisinde, doğa yürüyüşleri yapmak, piknik alanlarında dinlenme ve çevreyi keşfetme mümkündür. Tavşan Tepesi Tabiat Parkı, doğa severler için gerçek bir cennettir.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Tavşan Tepesi Tabiat Parkı, ziyaretçilerine çeşitli aktiviteler sunar. Park
 
 ## İlginç Bilgiler
 
-- Tavşan Tepesi Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
 - Park, çeşitli bitki türleri ve zengin fauna ile karakterizedir.
 - Tavşan Tepesi Tabiat Parkı, yüzyıllar boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmıştır.
 - Parkın tarihi geçmişi, zengin kültürel mirası ile ziyaretçilerini etkiler.

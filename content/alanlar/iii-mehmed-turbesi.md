@@ -1,7 +1,7 @@
 ---
 title: "III. Mehmed Türbesi"
 date: "2026-01-10T04:47:26.770Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q21526269"
 
 # III. Mehmed Türbesi
 
-III. Mehmed Türbesi, İstanbul'un tarihi mekanlarından biri olarak Fatih ilçesinde yer alır. Bu tarihi mekan, khong 17. yüzyılda inşa edilmiştir. Türbenin mimarisi, Osmanlı dönemi mimari özellikleri taşır. 140 hektarlık bir alana kurulu olan bu mekan, yaklaşık 200 futbol sahası büyüklüğündedir. Tarihi ve mimari açıdan önemli bir mekan olarak ziyaretçilerini ağırlar.
+III. Mehmed Türbesi, İstanbul'un tarihi mekanlarından biri olarak Fatih ilçesinde yer alır. Bu tarihi mekan, khong 17. yüzyılda inşa edilmiştir. Türbenin mimarisi, Osmanlı dönemi mimari özellikleri taşır. Tarihi ve mimari açıdan önemli bir mekan olarak ziyaretçilerini ağırlar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ III. Mehmed Türbesi, 17. yüzyılda inşa edilmiştir. Osmanlı padişahı III.
 
 ## Coğrafya
 
-III. Mehmed Türbesi, İstanbul'un Fatih ilçesinde yer alır. Marmara Bölgesi'nde bulunan bu mekan, coğrafi olarak önemli bir konuma sahiptir. Türbenin çevresi, histórik yapılarla dolu olan bir bölgedir. Bu bölge, tarihi mekanlar ve önemli kültürel miraslar ile doludur. III. Mehmed Türbesi, surroundingindeki diğer tarihi mekanlarla birlikte bir bütün olarak ziyaret edilebilir. Türbenin mimarisi, surroundingindeki diğer yapılarla uyumlu bir şekilde inşa edilmiştir. Coğrafi açıdan önemli bir konumda bulunan III. Mehmed Türbesi, ziyaretçilerine tarihi ve kültürel birExperience sunar.
+III. Mehmed Türbesi, İstanbul'un Fatih ilçesinde yer alır. Marmara Bölgesi'nde bulunan bu mekan, coğrafi olarak önemli bir konuma sahiptir. Türbenin çevresi, tarihi yapılarla dolu olan bir bölgedir. Bu bölge, tarihi mekanlar ve önemli kültürel miraslar ile doludur. III. Mehmed Türbesi, surroundingindeki diğer tarihi mekanlarla birlikte bir bütün olarak ziyaret edilebilir. Türbenin mimarisi, surroundingindeki diğer yapılarla uyumlu bir şekilde inşa edilmiştir. Coğrafi açıdan önemli bir konumda bulunan III. Mehmed Türbesi, ziyaretçilerine tarihi ve kültürel birExperience sunar.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ III. Mehmed Türbesi, yıl boyunca ziyaret edilebilir. Ziyaretçilerin, türbeni
 - III. Mehmed Türbesi, 17. yüzyılda inşa edilmiştir.
 - Türbenin mimarisi, Osmanlı dönemi mimari özellikleri taşır.
 - III. Mehmed Türbesi, İstanbul'un tarihi mekanlarından biridir.
-- Türbenin çevresi, histórik yapılarla dolu olan bir bölgedir.
+- Türbenin çevresi, tarihi yapılarla dolu olan bir bölgedir.
 - III. Mehmed Türbesi, surroundingindeki flora ve fauna ile birlikte bir doğal ve tarihi bir mekan olarak ziyaret edilebilir.

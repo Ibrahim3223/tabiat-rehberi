@@ -28,7 +28,7 @@ wikidata_id: "Q31572401"
 
 # Hatıbor Tepesi
 
-Hatıbor Tepesi, Van ilinin doğal güzelliklerini sunan önemli bir coğrafi oluşumdur. Doğu Anadolu Bölgesi'nin yüksek rakımlı alanlarından biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki manzarayla birlikte ziyaretçilerine benzersiz bir deneyim sunuyor. Hatıbor Tepesi, özellikle doğa severler ve trekking yapanlar için önemli bir destinasyon olarak dikkat çekiyor. Tepe, çevresindeki dağlarla birlikte bir bütün oluşturuyor ve ziyaretçilerine bölge hakkında geniş bir perspektif sunuyor.
+Hatıbor Tepesi, Van ilinin doğal güzelliklerini sunan önemli bir coğrafi oluşumdur. Doğu Anadolu Bölgesi'nin yüksek rakımlı alanlarından biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Hatıbor Tepesi, özellikle doğa severler ve trekking yapanlar için önemli bir destinasyon olarak dikkat çekiyor. Tepe, çevresindeki dağlarla birlikte bir bütün oluşturuyor ve ziyaretçilerine bölge hakkında geniş bir perspektif sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hatıbor Tepesi'nin tarihi geçmişi, bölgenin coğrafi oluşumuna paralel olar
 
 ## Coğrafya
 
-Hatıbor Tepesi, Van ilinin coğrafi yapısı içinde önemli bir yere sahip. Doğu Anadolu Bölgesi'nin yüksek rakımlı alanlarından biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki manzarayla birlikte ziyaretçilerine geniş bir perspektif sunuyor. Tepe, çevresindeki dağlarla birlikte bir bütün oluşturuyor ve bu coğrafi yapının şekillenmesi milyonlarca yıl alıyor. Hatıbor Tepesi'nin coğrafi yapısı, bölge iklimini de etkiliyor. Tepe, karasal iklimin etkisi altında bulunuyor ve bu nedenle kışları soğuk, yazları ise serin geçiyor. Bölgenin coğrafi yapısı, insan yerleşimlerini etkileyen önemli faktörlerden biri olmuştur.
+Hatıbor Tepesi, Van ilinin coğrafi yapısı içinde önemli bir yere sahip. Doğu Anadolu Bölgesi'nin yüksek rakımlı alanlarından biri olan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Tepe, çevresindeki dağlarla birlikte bir bütün oluşturuyor ve bu coğrafi yapının şekillenmesi milyonlarca yıl alıyor. Hatıbor Tepesi'nin coğrafi yapısı, bölge iklimini de etkiliyor. Tepe, karasal iklimin etkisi altında bulunuyor ve bu nedenle kışları soğuk, yazları ise serin geçiyor. Bölgenin coğrafi yapısı, insan yerleşimlerini etkileyen önemli faktörlerden biri olmuştur.
 
 ## Flora ve Fauna
 
@@ -50,5 +50,5 @@ Hatıbor Tepesi'ni ziyaret etmek, doğa severler ve trekking yapanlar için öne
 
 - Hatıbor Tepesi, Van ilinin doğal güzelliklerini sunan önemli bir coğrafi oluşumdur.
 - Tepe, yaklaşık 140 hektarlık bir alanı kaplıyor.
-- 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Hatıbor Tepesi, özellikle doğa severler ve trekking yapanlar için önemli bir destinasyon olarak dikkat çekiyor.

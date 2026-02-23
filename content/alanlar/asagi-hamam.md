@@ -1,7 +1,7 @@
 ---
 title: "Aşağı Hamam"
 date: "2026-01-09T22:15:14.602Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -30,7 +30,7 @@ wikidata_id: "Q130640621"
 
 # Aşağı Hamam
 
-Aşağı Hamam, Sivas'ın Divriği ilçesinde yer alan ve İç Anadolu Bölgesi'nin doğal güzelliklerini sunan bir plajdır. Bu bölge, yaklaşık 140 hektarlık bir alan kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmaktadır. Aşağı Hamam, ziyaretçilerine temiz ve berrak suları, geniş kumsalları ve güneşin tatlı ışıklarıyla birlikte harika bir doğa deneyimi sunmaktadır. Bu güzel plaj, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve bölgenin turizm potansiyelini arttırmaktadır.
+Aşağı Hamam, Sivas'ın Divriği ilçesinde yer alan ve İç Anadolu Bölgesi'nin doğal güzelliklerini sunan bir plajdır. Aşağı Hamam, ziyaretçilerine temiz ve berrak suları, geniş kumsalları ve güneşin tatlı ışıklarıyla birlikte harika bir doğa deneyimi sunmaktadır. Bu güzel plaj, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve bölgenin turizm potansiyelini arttırmaktadır.
 
 ## Tarihçe
 

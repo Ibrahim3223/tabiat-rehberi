@@ -28,7 +28,7 @@ wikidata_id: "Q31386176"
 
 # Gora Chiftlik
 
-Gora Chiftlik, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bölgelerinden biridir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gora Chiftlik, coğrafi yapıları ve doğal güzellikleriyle ziyaretçilerini cezbediyor. Burada, ziyaretçiler doğanın güzelliğini ve coğrafi oluşumların çeşitliliğini keşfedebilirler. Gora Chiftlik, aynı zamanda bölgenin tarihini ve kültürel mirasını anlamak için önemli bir nokta.
+Gora Chiftlik, İç Anadolu Bölgesi'nin coğrafi açıdan zengin bölgelerinden biridir. Gora Chiftlik, coğrafi yapıları ve doğal güzellikleriyle ziyaretçilerini cezbediyor. Burada, ziyaretçiler doğanın güzelliğini ve coğrafi oluşumların çeşitliliğini keşfedebilirler. Gora Chiftlik, aynı zamanda bölgenin tarihini ve kültürel mirasını anlamak için önemli bir nokta.
 
 ## Tarihçe
 

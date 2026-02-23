@@ -28,7 +28,7 @@ wikidata_id: "Q31554866"
 
 # Latamisi Tepesi
 
-Latamisi Tepesi, Batman şehrinin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü flora ve faunayı barındırıyor. Tepenin eteklerinde ve çevresinde yer alan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunuyor. Bölge, özellikle bahar aylarında ziyaretçilerini güzellerine davet ediyor. Çiçeklerin açması ve yeşillikler içindeki manzaralar, ziyaretçilere unutulmaz anlar yaşatıyor.
+Latamisi Tepesi, Batman şehrinin doğal güzelliklerinden biri olarak dikkat çekiyor. Tepenin eteklerinde ve çevresinde yer alan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunuyor. Bölge, özellikle bahar aylarında ziyaretçilerini güzellerine davet ediyor. Çiçeklerin açması ve yeşillikler içindeki manzaralar, ziyaretçilere unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 

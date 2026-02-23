@@ -52,9 +52,9 @@ Ziyaret Dağı, çevresindeki diğer coğrafi oluşumlarla birlikte, bir ekosist
 
 ## Flora ve Fauna
 
-Ziyaret Dağı, 41.10 ve 42.30 koordinatlarında yer alan bir dağ ekosistemi olarak, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır. 
+Ziyaret Dağı, 41.10 ve 42.30 koordinatlarında yer alan bir dağ ekosistemi olarak, çeşitli flora ve fauna türlerine ev sahipliği yapmaktadır.
 
-Bitki Örtüsü olarak, bu bölgede step bitki örtüsü ve bozkır hakimdir. İlkbahar aylarında, dağ yamaçlarında renkli çiçekler açarken, yaz aylarında kuraklığa adapte olan türler öne çıkar. 
+Bitki Örtüsü olarak, bu bölgede step bitki örtüsü ve bozkır hakimdir. İlkbahar aylarında, dağ yamaçlarında renkli çiçekler açarken, yaz aylarında kuraklığa adapte olan türler öne çıkar.
 
 Yaban Hayatı açısından, dağda çeşitli memeliler, kuşlar ve sürüngenler bulunur. Göçmen kuşlar, sonbahar aylarında bu bölgeden geçer. Dağ keçileri ve yaban domuzları gibi memeliler, dağların yükseklik zonlarında yaşamlarını sürdürür.
 

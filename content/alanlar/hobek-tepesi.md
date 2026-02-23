@@ -28,7 +28,7 @@ wikidata_id: "Q31536139"
 
 # Hobek Tepesi
 
-Hobek Tepesi, Hatay'ın eşsiz doğal güzelliklerinden biri olarak dikkat çeker. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini Akdeniz Bölgesi'nin muhteşem manzaralarıyla karşılar. Tepenin eteklerinde ve zirvesinde çeşitli bitki türleri bulunur ve bu zengin flora, bölgenin ekolojik dengesine önemli katkılar sağlar. Hobek Tepesi, aynı zamanda farklı hayvan türlerine ev sahipliği yapar ve bu çeşitlilik, ziyaretçilere benzersiz bir gözlem deneyimi sunar.
+Hobek Tepesi, Hatay'ın eşsiz doğal güzelliklerinden biri olarak dikkat çeker. Tepenin eteklerinde ve zirvesinde çeşitli bitki türleri bulunur ve bu zengin flora, bölgenin ekolojik dengesine önemli katkılar sağlar. Hobek Tepesi, aynı zamanda farklı hayvan türlerine ev sahipliği yapar ve bu çeşitlilik, ziyaretçilere benzersiz bir gözlem deneyimi sunar.
 
 ## Tarihçe
 

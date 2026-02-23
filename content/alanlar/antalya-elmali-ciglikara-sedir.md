@@ -22,7 +22,7 @@ wikidata_id: "Q108228573"
 
 # Antalya-Elmali-Ciglikara-Sedir
 
-Antalya-Elmali-Ciglikara-Sedir milli parkı, Akdeniz Bölgesi'nin doğal güzellikleri içinde yer alan bir destinasyon. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğal güzellikleriyle büyülemektedir. Elmali ve Ciglikara gibi önemli yerleşim yerlerine yakın olan bu milli park, Sedir ağacı gibi endemik türlerin yaşam alanı. Ziyaretçiler, milli parkın içerisinde çeşitli yürüyüş parkurları ve piknik alanları bulabilirler. Milli parkın giriş ücreti, ziyaretçilerin bütçesine uygun şekilde belirlenmiştir. Ziyaretçilerin, milli parkı ziyaret ederken, doğal güzelliklere saygı göstermeleri ve milli parkın kurallarına uymaları gerekmektedir.
+Antalya-Elmali-Ciglikara-Sedir milli parkı, Akdeniz Bölgesi'nin doğal güzellikleri içinde yer alan bir destinasyon. Elmali ve Ciglikara gibi önemli yerleşim yerlerine yakın olan bu milli park, Sedir ağacı gibi endemik türlerin yaşam alanı. Ziyaretçiler, milli parkın içerisinde çeşitli yürüyüş parkurları ve piknik alanları bulabilirler. Milli parkın giriş ücreti, ziyaretçilerin bütçesine uygun şekilde belirlenmiştir. Ziyaretçilerin, milli parkı ziyaret ederken, doğal güzelliklere saygı göstermeleri ve milli parkın kurallarına uymaları gerekmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Elmali-Ciglikara-Sedir milli parkı, yüzyıllar boyunca bölgenin doğa
 
 ## Coğrafya
 
-Antalya-Elmali-Ciglikara-Sedir milli parkı, Akdeniz Bölgesi'nin doğal güzellikleri içinde yer alan bir destinasyon. Milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Milli parkın coğrafi konumu, Sedir ağacı gibi endemik türlerin yaşam alanı olmasını sağlamıştır. Milli parkın iklimi, Akdeniz iklimi özellikleri göstermektedir. Milli parkın coğrafi konumu, ziyaretçilerin doğal güzellikleriyle büyülenmelerini sağlamaktadır. Milli parkın giriş ücreti, ziyaretçilerin bütçesine uygun şekilde belirlenmiştir. Milli parkın coğrafi konumu, Elmali ve Ciglikara gibi önemli yerleşim yerlerine yakın. Milli parkın coğrafi özelliklerine bağlı olarak, ziyaretçiler çeşitli yürüyüş parkurları ve piknik alanları bulabilirler.
+Antalya-Elmali-Ciglikara-Sedir milli parkı, Akdeniz Bölgesi'nin doğal güzellikleri içinde yer alan bir destinasyon. Milli parkın coğrafi konumu, Sedir ağacı gibi endemik türlerin yaşam alanı olmasını sağlamıştır. Milli parkın iklimi, Akdeniz iklimi özellikleri göstermektedir. Milli parkın coğrafi konumu, ziyaretçilerin doğal güzellikleriyle büyülenmelerini sağlamaktadır. Milli parkın giriş ücreti, ziyaretçilerin bütçesine uygun şekilde belirlenmiştir. Milli parkın coğrafi konumu, Elmali ve Ciglikara gibi önemli yerleşim yerlerine yakın. Milli parkın coğrafi özelliklerine bağlı olarak, ziyaretçiler çeşitli yürüyüş parkurları ve piknik alanları bulabilirler.
 
 ## Flora ve Fauna
 

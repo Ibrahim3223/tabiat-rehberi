@@ -44,13 +44,13 @@ Jeolojik açıdan bakıldığında, Hazar Dağı'nın oluşumu ve yapısı hakk�
 
 Hazar Dağı'nın iklim karakteri, bölgenin genel iklim koşullarına benzerlik göstermektedir. Mevsimsel değişiklikler, bölgenin coğrafi yapısını şekillendirmekte ve dağın çevresindeki ekosistemi etkilemektedir. Eiffel Kulesi'nin birkaç katı yükseklikte olan bu dağ, bölgenin hava koşullarını etkileyen önemli bir faktördür.
 
-Çevresel açıdan bakıldığında, Hazar Dağı, bölgenin su kaynakları ve ekosistem bağlantıları ile önemli bir ilişkiye sahiptir. Monaco'nun küçük bir bölümü kadar büyük bir alanı kaplayan bu dağ, komşu alanlar ve su kaynakları ile birlikte bir bütünü oluşturmaktadır. Bu ilişki, bölgenin ekolojik dengesini korumak açısından önemlidir ve Hazar Dağı'nın çevresel ilişkileri, bölgenin genel coğrafi yapısını şekillendirmektedir.
+Çevresel açıdan bakıldığında, Hazar Dağı, bölgenin su kaynakları ve ekosistem bağlantıları ile önemli bir ilişkiye sahiptir. Monaco'nun küçük bir bölümü kadar büyük bir alanı kaplayan bu dağ, komşu alanlar ve su kaynakları ile birlikte bir bütünü oluşturmaktadır.
 
 ## Flora ve Fauna
 
-Hazar Dağı, Elazığ'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü açısından, ilkbaharın gelmesiyle birlikte dağ yamaçları renklendir. Alpin çayırlar, yükseklik zonları ve endemik türlerle bezelidir. 
-Yaban Hayatı açısından, dağ keçileri, ayılar ve yırtıcı kuşlar bu bölgenin önemli sakinleridir. 
+Hazar Dağı, Elazığ'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü açısından, ilkbaharın gelmesiyle birlikte dağ yamaçları renklendir. Alpin çayırlar, yükseklik zonları ve endemik türlerle bezelidir.
+Yaban Hayatı açısından, dağ keçileri, ayılar ve yırtıcı kuşlar bu bölgenin önemli sakinleridir.
 Ekolojik Değer olarak, bu dağ ekosistemi, yükseklik zonları ve alpin flora ile dağ hayvanları için yaşamsal öneme sahiptir.
 
 ## Ziyaret Bilgileri

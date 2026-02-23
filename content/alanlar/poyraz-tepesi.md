@@ -32,7 +32,7 @@ wikidata_id: "Q31508487"
 
 ## Tarihçe
 
-Poyraz Tepesi, Çanakkale'nin histórik coğrafyasında önemli bir yere sahiptir. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği bir noktadır. Çanakkale, antik çağlardan beri Truva, Frigya ve Bizans gibi medeniyetlerin izlerini taşıyan bir bölgedir. Tarihi İpek Yolu ve deniz ticaret yollarının kesişme noktasında bulunan bu alan, stratejik öneme sahip olmuştur.
+Poyraz Tepesi, Çanakkale'nin tarihi coğrafyasında önemli bir yere sahiptir. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği bir noktadır. Çanakkale, antik çağlardan beri Truva, Frigya ve Bizans gibi medeniyetlerin izlerini taşıyan bir bölgedir. Tarihi İpek Yolu ve deniz ticaret yollarının kesişme noktasında bulunan bu alan, stratejik öneme sahip olmuştur.
 
 Doğal güzellikleri ve coğrafi konumu nedeniyle, Poyraz Tepesi ve çevresi, tarih boyunca insanların yaşam alanı, yayla ve ticaret merkezleri olarak kullanılmıştır. Türkiye'de benzer doğal alanlar, genellikle insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde yer almıştır. Bu tür bölgeler, insanların doğayla etkileşimini, kültürel mirasını ve ekonomik faaliyetlerini şekillendirmiştir.
 
@@ -50,7 +50,7 @@ Poyraz Tepesi, çevresindeki diğer coğrafi oluşumlarla da ilişkili. Tepenin 
 
 ## Flora ve Fauna
 
-Poyraz Tepesi, Çanakkale'nin güzide bir köşesinde yer alan bir dağ ekosistemi, geçiş ikliminin etkilerini taşıyan karma ormanlarla kaplıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Poyraz Tepesi, Çanakkale'nin güzide bir köşesinde yer alan bir dağ ekosistemi, geçiş ikliminin etkilerini taşıyan karma ormanlarla kaplıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 İlkbaharla birlikte, dağ yamacında çiçekler açmaya başlar. Mevsimsel değişimlerle birlikte, dağın yükseklik zonlarına bağlı olarak farklı bitki türleri ortaya çıkar. Dağın yüksek kesimlerinde, alpin flora hakimdir. Bu bölgede, çeşitli ot ve çalı türleri bulunur.
 
@@ -65,6 +65,6 @@ Poyraz Tepesi, Çanakkale'de bulunan bir dağdır. Sabah erken gitmenizi önerir
 - Poyraz Tepesi, Çanakkale ilinin merkezinde yer alan bir tepe olup, şehrin panoramik manzarasını sunar.
 - Tepenin yüksekliği yaklaşık 100 metre civarındadır ve çevredeki diğer tepelerle birlikte bölgenin önemli coğrafi özelliklerini oluşturur.
 - Poyraz Tepesi, Çanakkale Boğazı'na hakim bir konumda bulunur ve buradan boğazın geniş bir bölümü görülebilir.
-- Tepenin eteklerinde çeşitli histórik yapılar ve anıtlar yer alır, bunlar arasında Çanakkale Savaşı'na ait kalıntılar da bulunur.
+- Tepenin eteklerinde çeşitli tarihi yapılar ve anıtlar yer alır, bunlar arasında Çanakkale Savaşı'na ait kalıntılar da bulunur.
 - Poyraz Tepesi, yerel halk tarafından thường olarak pikni ve yürüyüş amaçlı ziyaret edilir, ayrıca burada çeşitli bitki türleri de bulunmaktadır.
 - Tepenin çevresinde, Çanakkale Şehitleri Anıtı gibi önemli tarihi anıtlar da yer alır, bunlar bölgenin tarihsel önemini vurgular.

@@ -64,5 +64,5 @@ Kars'ta bulunan 2440 metre yüksekliğindeki Ziyaret Dağı, doğa severler içi
 - Dağın yüksekliği 2440 metredir.
 - Kars ilinin coğrafi yapısı içinde önemli bir yer tutmaktadır.
 - Ziyaret Dağı, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alır.
-- Bu région, zengin doğası ve kültürel mirasıyla dikkat çeker.
+- Bu bölge, zengin doğası ve kültürel mirasıyla dikkat çeker.
 - Kars ilinin toplam yüzölçümü 9.442 kilometrekare olup, Ziyaret Dağı bu bölgenin bir parçasıdır.

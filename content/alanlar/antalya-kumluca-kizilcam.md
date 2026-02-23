@@ -22,7 +22,7 @@ wikidata_id: "Q108227305"
 
 # Antalya-Kumluca Kızılçam
 
-Antalya-Kumluca Kızılçam, Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak ziyaretçilerini ağırlıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden biri. Bu doğal güzellik, ziyaretçilerine doğanın içinden geçerek, yaban hayatının zenginliğini keşfetme fırsatı sunuyor. Antalya-Kumluca Kızılçam, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi veren önemli bir kültür mirası. Burada, yüzyıllar boyunca oluşan doğal ve kültürel miras, ziyaretçilerin ilgisini çekiyor.
+Antalya-Kumluca Kızılçam, Akdeniz Bölgesi'nin önemli doğal alanlarından biri olarak ziyaretçilerini ağırlıyor. Bu doğal güzellik, ziyaretçilerine doğanın içinden geçerek, yaban hayatının zenginliğini keşfetme fırsatı sunuyor. Antalya-Kumluca Kızılçam, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi veren önemli bir kültür mirası. Burada, yüzyıllar boyunca oluşan doğal ve kültürel miras, ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Kumluca Kızılçam'nin tarihi geçmişi, yüzyıllar öncesine dayanıy
 
 ## Coğrafya
 
-Antalya-Kumluca Kızılçam, Akdeniz Bölgesi'nin önemli coğrafi özelliklerinden biri olarak kabul ediliyor. Bu doğal alan, 140 hektarlık bir alanda yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Antalya-Kumluca Kızılçam, aynı zamanda bölgenin en önemli ekosistemlerinden biri olarak da kabul ediliyor. Burada, çeşitli bitki türleri ve yaban hayatı, ziyaretçilerin ilgisini çekiyor. Antalya-Kumluca Kızılçam, aynı zamanda bölgenin iklimi hakkında da bilgi veren önemli bir coğrafi özelliktir. Burada, Akdeniz ikliminin özellikleri, ziyaretçilerin ilgisini çekiyor. Antalya-Kumluca Kızılçam, bölgenin coğrafi özelliklerini keşfetmek isteyen ziyaretçilerin ilk durağı olarak kabul ediliyor.
+Antalya-Kumluca Kızılçam, Akdeniz Bölgesi'nin önemli coğrafi özelliklerinden biri olarak kabul ediliyor. Antalya-Kumluca Kızılçam, aynı zamanda bölgenin en önemli ekosistemlerinden biri olarak da kabul ediliyor. Burada, çeşitli bitki türleri ve yaban hayatı, ziyaretçilerin ilgisini çekiyor. Antalya-Kumluca Kızılçam, aynı zamanda bölgenin iklimi hakkında da bilgi veren önemli bir coğrafi özelliktir. Burada, Akdeniz ikliminin özellikleri, ziyaretçilerin ilgisini çekiyor. Antalya-Kumluca Kızılçam, bölgenin coğrafi özelliklerini keşfetmek isteyen ziyaretçilerin ilk durağı olarak kabul ediliyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Antalya-Kumluca Kızılçam, ziyaretçilerini bekliyor. Burada, nasıl gidilece�
 ## İlginç Bilgiler
 
 - Antalya-Kumluca Kızılçam, 140 hektarlık bir alanda yer alıyor.
-- Antalya-Kumluca Kızılçam, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Antalya-Kumluca Kızılçam, bölgenin en önemli ekosistemlerinden biri.
 - Antalya-Kumluca Kızılçam, çeşitli bitki türleri ve yaban hayatı ile ziyaretçilerin ilgisini çekiyor.
 - Antalya-Kumluca Kızılçam, bölgenin turizm merkezi olarak da kabul ediliyor.

@@ -23,7 +23,7 @@ wikidata_id: "Q108228037"
 
 # Kargi Koyu Sigla Ormani
 
-Kargi Koyu Sigla Ormani, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık ormanlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu muhteşem orman, çeşitli bitki türleri ve zengin fauna ile dolu. Kargi Koyu Sigla Ormani, doğa severlerin ve gezi tutkunlarının kaçırılmaması gereken bir destinasyon.
+Kargi Koyu Sigla Ormani, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu muhteşem orman, çeşitli bitki türleri ve zengin fauna ile dolu. Kargi Koyu Sigla Ormani, doğa severlerin ve gezi tutkunlarının kaçırılmaması gereken bir destinasyon.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Kargi Koyu Sigla Ormani'nın tarihi geçmişi, yüzyıllar boyunca uzanmaktadır
 
 ## Coğrafya
 
-Kargi Koyu Sigla Ormani, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biridir. Orman, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Ormanlık alanın coğrafi yapısı, ziyaretçilere çeşitli gezi rotaları sunuyor. Kargi Koyu Sigla Ormani, doğanın güzelliğini tüm yönleriyle sergiliyor. Orman, çevresindeki dağlarla birlikte bir bütün olarak düşünülüyor ve bu sayede ziyaretçilere geniş bir alan sunuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim koşullarını taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
+Kargi Koyu Sigla Ormani, İç Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici noktalarından biridir. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Ormanlık alanın coğrafi yapısı, ziyaretçilere çeşitli gezi rotaları sunuyor. Kargi Koyu Sigla Ormani, doğanın güzelliğini tüm yönleriyle sergiliyor. Orman, çevresindeki dağlarla birlikte bir bütün olarak düşünülüyor ve bu sayede ziyaretçilere geniş bir alan sunuyor. İklim olarak, İç Anadolu Bölgesi'nin genel iklim koşullarını taşır ve ziyaretçilere dört mevsim boyunca farklı deneyimler sunar.
 
 ## Flora ve Fauna
 

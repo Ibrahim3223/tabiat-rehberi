@@ -28,7 +28,7 @@ wikidata_id: "Q34822489"
 
 # Yücepınar Tepe
 
-Sivas'ın doğusunda yükselen Yücepınar Tepe, bölgenin doğal güzelliklerini gözler önüne seren bir dağ. Bu dağ, Sivas ilinin sınırları içinde yer alıyor ve çevreyi keşfetmek isteyenler için bir çekim merkezi oluşturuyor. Yücepınar Tepe, ziyaretçilerini Sivas'ın históri ve kültürel zenginliklerine de tanıtmaya hazır. Sivas'ın coğrafi çeşitliliğiçinde önemli bir yer tutan bu tepe, ilin turizm potansiyelini değerlendirmek için önemli bir nokta.
+Sivas'ın doğusunda yükselen Yücepınar Tepe, bölgenin doğal güzelliklerini gözler önüne seren bir dağ. Bu dağ, Sivas ilinin sınırları içinde yer alıyor ve çevreyi keşfetmek isteyenler için bir çekim merkezi oluşturuyor. Yücepınar Tepe, ziyaretçilerini Sivas'ın tarihi ve kültürel zenginliklerine de tanıtmaya hazır. Sivas'ın coğrafi çeşitliliğiçinde önemli bir yer tutan bu tepe, ilin turizm potansiyelini değerlendirmek için önemli bir nokta.
 
 ## Tarihçe
 
@@ -48,7 +48,7 @@ Sivas'ın doğal güzelliklerine katkıda bulunan Yücepınar Tepe, çevresindek
 
 ## Flora ve Fauna
 
-Yücepınar Tepe, Sivas'ın dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yücepınar Tepe, Sivas'ın dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 1. Bitki Örtüsü: Step bitki örtüsü ve bozkırın hakim olduğu bu dağ ekosisteminde, ilkbaharın gelmesiyle birlikte çiçekler açar ve dağ yamaçlarını renklendirir. Yükseklik zonlarına bağlı olarak değişen alpin flora, bu bölgenin eşsiz güzelliğini ortaya çıkarır.
 2. Yaban Hayatı: Dağların yüksek kesimlerinde yaşayan memeliler, göç eden kuşlar ve sürüngenler bu bölgenin yaban hayatını oluşturur. Kışın soğuğundan kaçan bazı memeliler, ilkbaharın gelmesiyle birlikte novamente aktif hale gelirken, bazı kuş türleri ise mevsimsel göçlerine devam eder.
 3. Ekolojik Değer: Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini korumak için çok önemlidir. Step bitki örtüsü ve bozkırın bir arada yaşadığı bu bölge, kuraklığa adapte olmuş türlerin yaşam alanı olarak büyük bir öneme sahiptir.

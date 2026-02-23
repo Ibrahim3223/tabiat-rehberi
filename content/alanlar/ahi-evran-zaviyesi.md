@@ -30,7 +30,7 @@ wikidata_id: "Q132134373"
 
 # Ahi Evran Zaviyesi
 
-Ahi Evran Zaviyesi, İç Anadolu Bölgesi'nin merkezi Kırşehir'de yer alan bir kültür ve tarih merkezidir. Bu tarihi yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir arazide bulunmaktadır. Zaviye, Ahi Evran'ın hayatını ve misyonunu yansıtan önemli bir tarihi eser olarak kabul edilmektedir. Ziyaretçiler, bu önemli kültür merkezini ziyaret ederek, tarihi ve mimari özellikleri hakkında bilgi edinebilirler.
+Ahi Evran Zaviyesi, İç Anadolu Bölgesi'nin merkezi Kırşehir'de yer alan bir kültür ve tarih merkezidir. Zaviye, Ahi Evran'ın hayatını ve misyonunu yansıtan önemli bir tarihi eser olarak kabul edilmektedir. Ziyaretçiler, bu önemli kültür merkezini ziyaret ederek, tarihi ve mimari özellikleri hakkında bilgi edinebilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ahi Evran Zaviyesi, yüzyıllar boyunca önemli bir kültür ve eğitim merkezi 
 
 ## Coğrafya
 
-Ahi Evran Zaviyesi, İç Anadolu Bölgesi'nin merkezi Kırşehir'de yer alan bir kültür ve tarih merkezidir. Bu bölge, coğrafi olarak çeşitli özelliklere sahiptir. Zaviye, 140 hektarlık bir arazide kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzemektedir. Zaviyenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ziyaretçiler, zaviyenin coğrafi konumu ve çevresini keşfederek, önemli bir deneyim kazanabilirler.
+Ahi Evran Zaviyesi, İç Anadolu Bölgesi'nin merkezi Kırşehir'de yer alan bir kültür ve tarih merkezidir. Bu bölge, coğrafi olarak çeşitli özelliklere sahiptir. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzemektedir. Zaviyenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ziyaretçiler, zaviyenin coğrafi konumu ve çevresini keşfederek, önemli bir deneyim kazanabilirler.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31389984"
 
 # Alaca Tepe
 
-Eskişehir'in doğal güzellikleri arasında yer alan Alaca Tepe, ziyaretçiler için önemli bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Alaca Tepe, Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Bölgenin coğrafi özellikleri, tepeyi özel kılıyor. Ziyaretçiler, tepeye çıkarak geniş bir manzara izleyebiliyor. Alaca Tepe, Eskişehir'in önemli turizm noktalarından biri.
+Eskişehir'in doğal güzellikleri arasında yer alan Alaca Tepe, ziyaretçiler için önemli bir destinasyon. Bu büyüklük, ziyaretçilere geniş bir alan sunuyor. Alaca Tepe, Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Bölgenin coğrafi özellikleri, tepeyi özel kılıyor. Ziyaretçiler, tepeye çıkarak geniş bir manzara izleyebiliyor. Alaca Tepe, Eskişehir'in önemli turizm noktalarından biri.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Alaca Tepe'nin tarihi geçmişi, bölgenin kültürel zenginliğini gösteriyor.
 
 ## Coğrafya
 
-Alaca Tepe, Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Bölgenin coğrafi özellikleri, tepeyi özel kılıyor. Tepe, 140 hektarlık bir alana sahip. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Ziyaretçiler, tepeye çıkarak geniş bir manzara izleyebiliyor. Alaca Tepe'nin coğrafi özellikleri, ziyaretçilere benzersiz bir deneyim sunuyor. Tepe, bölgenin iklimini de etkiliyor. Ziyaretçiler, tepeyi gezerek bölgenin coğrafi özelliklerini deneyimleyebiliyor. Alaca Tepe, Eskişehir'in önemli coğrafi noktalarından biri.
+Alaca Tepe, Eskişehir'in İç Anadolu Bölgesi'nde yer alıyor. Bölgenin coğrafi özellikleri, tepeyi özel kılıyor. Tepe, 140 hektarlık bir alana sahip. Ziyaretçiler, tepeye çıkarak geniş bir manzara izleyebiliyor. Alaca Tepe'nin coğrafi özellikleri, ziyaretçilere benzersiz bir deneyim sunuyor. Tepe, bölgenin iklimini de etkiliyor. Ziyaretçiler, tepeyi gezerek bölgenin coğrafi özelliklerini deneyimleyebiliyor. Alaca Tepe, Eskişehir'in önemli coğrafi noktalarından biri.
 
 ## Flora ve Fauna
 

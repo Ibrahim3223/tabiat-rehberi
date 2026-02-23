@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin gizli köşelerinden biri olan Batman, doğa se
 
 ## Tarihçe
 
-Gülezera Sırtı, Türkiye'nin güneydoğu bölgesindeki Batman ilinde yer alan bir dağdır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Batman ve çevresinde, Sümerler, Asurlular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıklar yaşamıştır. Bu zengin tarihsel miras, bölgenin kültürel ve doğal varlıklarının şekillenmesinde önemli bir rol oynamıştır.
+Gülezera Sırtı, Türkiye'nin güneydoğu bölgesindeki Batman ilinde yer alan bir dağdır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Batman ve çevresinde, Sümerler, Asurlular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıklar yaşamıştır. Bu zengin tarihsel miras, bölgenin kültürel ve doğal varlıklarının şekillenmesinde önemli bir rol oynamıştır.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarının merkezinde yer almıştır. Yayla ve dağlık bölgeler, yaylacılık ve hayvancılık için elverişli ortamlar sunarken, aynı zamanda ticaret yolları ve stratejik noktalara da ev sahipliği yapmışlardır. Gülezera Sırtı da bu doğal alanlardan biri olarak, bölgenin ekolojik dengesinin korunmasına ve yerel halkın yaşamının sürdürülmesine katkıda bulunmuştur.
 

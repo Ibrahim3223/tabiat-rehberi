@@ -22,7 +22,7 @@ wikidata_id: "Q108227288"
 
 # Bolu-Kokez Uludag Goknari
 
-Bolu-Kokez Uludag Goknari, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet olarak düşünülüyor. Burada, çeşitli değil, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Bu milli park, ziyaretçilerini doğanın kucağına davet ediyor ve onlara unutulmaz bir deneyim vaat ediyor. Bolu-Kokez Uludag Goknari, sadece bir gezi noktası değil, aynı zamanda doğa ile iç içe olmanın keyfini çıkarmak isteyenler için bir kaçış noktası.
+Bolu-Kokez Uludag Goknari, Karadeniz Bölgesi'nin en güzel köşelerinden biri olarak karşımıza çıkıyor. Burada, çeşitli değil, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Bu milli park, ziyaretçilerini doğanın kucağına davet ediyor ve onlara unutulmaz bir deneyim vaat ediyor. Bolu-Kokez Uludag Goknari, sadece bir gezi noktası değil, aynı zamanda doğa ile iç içe olmanın keyfini çıkarmak isteyenler için bir kaçış noktası.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Bolu-Kokez Uludag Goknari'nin tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Bolu-Kokez Uludag Goknari, Karadeniz Bölgesi'nin coğrafi olarak en güzel noktalarından birini temsil etmektedir. Milli park, 140 hektarlık bir alanı kaplamakta ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak göze çarpmaktadır. Bölge, dağlık bir araziye sahip ve bu da, çeşitli bitki türleri ve yaban hayatı için uygun bir ortam sağlamaktadır. İklim, Karadeniz ikliminin özelliklerini taşımakta ve bu, bölgenin yeşilliğini ve doğallığını korumasına yardımcı olmaktadır. Çevre, doğal güzellikleri ile ziyaretçilerini etkileyen bir atmosfer sunmaktadır.
+Bolu-Kokez Uludag Goknari, Karadeniz Bölgesi'nin coğrafi olarak en güzel noktalarından birini temsil etmektedir. Bölge, dağlık bir araziye sahip ve bu da, çeşitli bitki türleri ve yaban hayatı için uygun bir ortam sağlamaktadır. İklim, Karadeniz ikliminin özelliklerini taşımakta ve bu, bölgenin yeşilliğini ve doğallığını korumasına yardımcı olmaktadır. Çevre, doğal güzellikleri ile ziyaretçilerini etkileyen bir atmosfer sunmaktadır.
 
 ## Flora ve Fauna
 
-Bolu-Kokez Uludag Goknari, flora ve fauna açısından oldukça zengin bir alandır. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırmaktadır. İlkbahar ve yaz aylarında, bitki örtüsü en güzel haliyle ziyaretçileri karşılar. Sonbahar ve kış aylarında ise, bölge, bir kış masalı gibi görülmektedir. Yaban hayatı, bu bölgenin en önemli özelliklerinden biri olarak karşımıza çıkıyor. Burada, doğa severler, çeşitli hayvan türleri ile karşılaşma fırsatı bulabiliyor.
+ Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Mevsimsel değişimler, bu bölgenin güzelliğini daha da artırmaktadır. İlkbahar ve yaz aylarında, bitki örtüsü en güzel haliyle ziyaretçileri karşılar. Sonbahar ve kış aylarında ise, bölge, bir kış masalı gibi görülmektedir. Yaban hayatı, bu bölgenin en önemli özelliklerinden biri olarak karşımıza çıkıyor. Burada, doğa severler, çeşitli hayvan türleri ile karşılaşma fırsatı bulabiliyor.
 
 ## Ziyaret Bilgileri
 

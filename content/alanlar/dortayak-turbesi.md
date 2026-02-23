@@ -1,7 +1,7 @@
 ---
 title: "Dörtayak Türbesi"
 date: "2026-01-10T06:03:08.534Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390464"
 
 # Dörtayak Türbesi
 
-Dörtayak Türbesi, Kayseri'nin Melikgazi ilçesinde yer alan tarihi ve doğal güzelliği ile dikkat çeken bir yer. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Dörtayak Türbesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor. Bu alan, doğa severler ve tarih meraklıları için ideal bir gezi noktası. Dörtayak Türbesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunuyor.
+Dörtayak Türbesi, Kayseri'nin Melikgazi ilçesinde yer alan tarihi ve doğal güzelliği ile dikkat çeken bir yer. Dörtayak Türbesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor. Bu alan, doğa severler ve tarih meraklıları için ideal bir gezi noktası. Dörtayak Türbesi, ziyaretçilerine hem tarihi hem de doğal güzelliklerini sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Dörtayak Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve g�
 
 ## Coğrafya
 
-Dörtayak Türbesi, Kayseri'nin Melikgazi ilçesinde yer alıyor ve coğrafi konumu itibariyle önemli bir bölgede bulunuyor. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş ve yeşil bir alanda ağırlıyor. Dörtayak Türbesi, coğrafi olarak zengin bir bölgede yer alıyor ve ziyaretçilerine birçok doğal güzellik sunuyor. Bu bölge, dağların ve ovaların birleştiği bir noktada yer alıyor ve coğrafi konumu itibariyle önemli bir gezi noktası. Dörtayak Türbesi, coğrafi güzelliği ile ziyaretçilerini bekliyor ve ziyaretçilerine birçok doğa güzelliği sunuyor.
+Dörtayak Türbesi, Kayseri'nin Melikgazi ilçesinde yer alıyor ve coğrafi konumu itibariyle önemli bir bölgede bulunuyor. Dörtayak Türbesi, coğrafi olarak zengin bir bölgede yer alıyor ve ziyaretçilerine birçok doğal güzellik sunuyor. Bu bölge, dağların ve ovaların birleştiği bir noktada yer alıyor ve coğrafi konumu itibariyle önemli bir gezi noktası. Dörtayak Türbesi, coğrafi güzelliği ile ziyaretçilerini bekliyor ve ziyaretçilerine birçok doğa güzelliği sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Dörtayak Türbesi'ni ziyaret etmek için, ziyaretçilerin Kayseri'nin Melikgazi
 ## İlginç Bilgiler
 
 - Dörtayak Türbesi, tarihi geçmişiyle dikkat çeken bir yer.
-- Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Dörtayak Türbesi, flora ve fauna açısından zengin bir bölgede yer alıyor.
 - Bu bölge, mevsimsel değişimlere göre farklı bir güzellik sunuyor.
 - Dörtayak Türbesi, doğa severler ve tarih meraklıları için ideal bir gezi noktası.

@@ -33,9 +33,9 @@ Erzincan'ın dağlık bölgesinde yer alan Karakaya Dağı, şehrin doğal güze
 
 ## Tarihçe
 
-Erzincan bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşadığı bir coğrafyadır. Hititler, Roma İmparatorluğu ve Selçuklular gibi büyük medeniyetler bu topraklarda hüküm sürmüşlerdir. Bu bölgenin tarihsel önemi, sadece siyasi ve kültürel açıdan değil, aynı zamanda coğrafi konumu itibarıyla da önemlidir. 
+Erzincan bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşadığı bir coğrafyadır. Hititler, Roma İmparatorluğu ve Selçuklular gibi büyük medeniyetler bu topraklarda hüküm sürmüşlerdir. Bu bölgenin tarihsel önemi, sadece siyasi ve kültürel açıdan değil, aynı zamanda coğrafi konumu itibarıyla da önemlidir.
 
-Karakaya Dağı gibi doğal alanlar, Türkiye'nin tarih boyunca önemli ticaret yollarının üzerinde bulundukları için stratejik bir öneme sahip olmuştur. İnsanların bu alanlarla ilişkisi, yaylacılık, hayvancılık ve ticaret gibi faaliyetlerle şekillenmiştir. Bu bölgeler, çeşitli medeniyetlerin etkileşimine sahne olmuş, farklı kültürlerin birbiriyle buluştuğu yerler olarak tarihe tanıklık etmişlerdir. 
+Karakaya Dağı gibi doğal alanlar, Türkiye'nin tarih boyunca önemli ticaret yollarının üzerinde bulundukları için stratejik bir öneme sahip olmuştur. İnsanların bu alanlarla ilişkisi, yaylacılık, hayvancılık ve ticaret gibi faaliyetlerle şekillenmiştir. Bu bölgeler, çeşitli medeniyetlerin etkileşimine sahne olmuş, farklı kültürlerin birbiriyle buluştuğu yerler olarak tarihe tanıklık etmişlerdir.
 
 Bölgenin coğrafi yapısı, insanların yaşam tarzı ve ekonomisini şekillendirmiş, aynı zamanda kültürel mirasın oluşmasına katkıda bulunmuştur. Erzincan'ın zengin tarihi ve coğrafi çeşitliliği, Karakaya Dağı gibi doğal güzelliklerin korunması ve gelecek nesiller için yaşatılması gerektiğini vurgulamaktadır. Bu alanların tarihi ve kültürel önemi, Türkiye'nin doğal ve kültürel mirasının bir parçasını oluşturmaktadır.
 
@@ -51,7 +51,7 @@ Mevsimsel özellikler açısından incelendiğinde, Karakaya Dağı'nın bulundu
 
 ## Flora ve Fauna
 
-Karakaya Dağı, Erzincan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ etekleri renklendir; çiçekler açar ve bitki örtüsü canlanır. 
+Karakaya Dağı, Erzincan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ etekleri renklendir; çiçekler açar ve bitki örtüsü canlanır.
 
 Bitki örtüsünde, alpin çayırların hakimiyeti göze çarpar. Çayırlarda, çeşitli yükseklik zonlarına adapte olmuş bitkiler bulunur. Bu bitkiler, mevsimsel değişimlere göre farklı ren ve şekiller alır. Sonbaharda, dağların gölgeli yamaçlarında, yaprak döken ağaçlar sarı, turuncu ve kırmızı renkler alır.
 

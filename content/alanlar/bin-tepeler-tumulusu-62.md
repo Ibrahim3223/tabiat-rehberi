@@ -29,7 +29,7 @@ wikidata_id: "Q134728302"
 
 # Bin Tepeler Tümülüsü 62
 
-Bin Tepeler Tümülüsü 62, Ahmetli, Manisa'da yer alan ve Ege Bölgesi'nin önemli tarihi noktalarından biri olan bir tümülüstür. Bu tümülüs, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Burada, Ege Bölgesi'nin tarihini ve kültürünü yakından keşfetme mümkün. Bin Tepeler Tümülüsü 62, ziyaretçilerine zengin bir tarih ve doğal güzellikler sunar.
+Bin Tepeler Tümülüsü 62, Ahmetli, Manisa'da yer alan ve Ege Bölgesi'nin önemli tarihi noktalarından biri olan bir tümülüstür. Burada, Ege Bölgesi'nin tarihini ve kültürünü yakından keşfetme mümkün. Bin Tepeler Tümülüsü 62, ziyaretçilerine zengin bir tarih ve doğal güzellikler sunar.
 
 ## Tarihçe
 

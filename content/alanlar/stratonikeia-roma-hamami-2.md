@@ -1,7 +1,7 @@
 ---
 title: "Stratonikeia Roma Hamamı 2"
 date: "2026-01-09T23:51:35.781Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245714"
 
 # Stratonikeia Roma Hamamı 2
 
-Stratonikeia Roma Hamamı 2, Yatağan, Muğla'da yer alan ve Ege Bölgesi'nin önemli tarihi mekanlarından biri olan bir Roma hamamıdır. Bu hamam, Stratonikeia antik kentinde bulunan diğer tarihi yapılarla birlikte, bölgenin zengin tarihini ve kültürel mirasını yansıtmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada yapılan kazılar, Roma Dönemi'ne ait önemli eserlere ulaşılmasını sağlamıştır. Stratonikeia Roma Hamamı 2, ziyaretçilere Roma Dönemi'nin mimari ve kültürel özelliklerini yakından inceleme fırsatı sunmaktadır.
+Stratonikeia Roma Hamamı 2, Yatağan, Muğla'da yer alan ve Ege Bölgesi'nin önemli tarihi mekanlarından biri olan bir Roma hamamıdır. Bu hamam, Stratonikeia antik kentinde bulunan diğer tarihi yapılarla birlikte, bölgenin zengin tarihini ve kültürel mirasını yansıtmaktadır. Stratonikeia Roma Hamamı 2, ziyaretçilere Roma Dönemi'nin mimari ve kültürel özelliklerini yakından inceleme fırsatı sunmaktadır.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227191"
 
 # Kartal Gölü
 
-Kartal Gölü, İç Anadolu Bölgesi'nin doğal güzelliklerinden biridir. 140 hektarlık bir alanı kaplayan bu göl, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, hem yerli hem de yabancı ziyaretçiler için bir cazibe merkezidir. Gölün çevresinde bulunan_walk_yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için olanak sağlar. Ayrıca, gölün etrafındaki dağlar ve tepeler, trekking ve doğa yürüyüşü severler için ideal bir yerdir.
+Kartal Gölü, İç Anadolu Bölgesi'nin doğal güzelliklerinden biridir. Gölün çevresinde bulunan_walk_yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için olanak sağlar. Ayrıca, gölün etrafındaki dağlar ve tepeler, trekking ve doğa yürüyüşü severler için ideal bir yerdir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kartal Gölü'nün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Kartal Gölü, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Göl, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Gölün etrafındaki dağlar ve tepeler, trekking ve doğa yürüyüşü severler için ideal bir yerdir. Ayrıca, gölün çevresinde bulunan walk yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için olanak sağlar. Gölün iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Bu nedenle, ziyaretçiler bu bölgeyi ziyaret ettiğinde, mevsimsel değişimlere göre hazırlıklı olmalıdır.
+Kartal Gölü, İç Anadolu Bölgesi'nin coğrafi olarak en güzel yerlerinden biridir. Gölün etrafındaki dağlar ve tepeler, trekking ve doğa yürüyüşü severler için ideal bir yerdir. Ayrıca, gölün çevresinde bulunan walk yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için olanak sağlar. Gölün iklimi, karasal iklim özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Bu nedenle, ziyaretçiler bu bölgeyi ziyaret ettiğinde, mevsimsel değişimlere göre hazırlıklı olmalıdır.
 
 ## Flora ve Fauna
 

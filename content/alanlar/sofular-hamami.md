@@ -1,7 +1,7 @@
 ---
 title: "Sofular Hamamı"
 date: "2026-01-09T22:41:26.155Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738554"
 
 # Sofular Hamamı
 
-Sofular Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bu özel mekan, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Sofular Hamamı, tarihi ve doğası ile birlikte, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Sofular Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bu özel mekan, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sofular Hamamı'nın tarihi geçmişi, İstanbul'un kuruluşuna kadar uzanıyor.
 
 ## Coğrafya
 
-Sofular Hamamı, Marmara Bölgesi'nin kalbinde, Fatih ilçesinde yer alıyor. Bu bölge, coğrafi olarak farklı özellikler sunuyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Bölge, deniz seviyesine yakın bir yükseklikte yer alıyor ve ziyaretçilere geniş bir görüş açısı sunuyor. İklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim yaşanabiliyor. Bahar ve yaz aylarında, bölge, yeşilin farklı tonlarını sunuyor ve ziyaretçilere doğanın güzelliğini gösteriyor. Kış aylarında ise, bölge, serin ve yağışlı bir iklim sunuyor. Coğrafi konumu ve iklimi, Sofular Hamamı'nı, yılın dört mevsiminde ziyaret edilebilir bir destinasyon haline getiriyor.
+Sofular Hamamı, Marmara Bölgesi'nin kalbinde, Fatih ilçesinde yer alıyor. Bu bölge, coğrafi olarak farklı özellikler sunuyor. Bölge, deniz seviyesine yakın bir yükseklikte yer alıyor ve ziyaretçilere geniş bir görüş açısı sunuyor. İklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim yaşanabiliyor. Bahar ve yaz aylarında, bölge, yeşilin farklı tonlarını sunuyor ve ziyaretçilere doğanın güzelliğini gösteriyor. Kış aylarında ise, bölge, serin ve yağışlı bir iklim sunuyor. Coğrafi konumu ve iklimi, Sofular Hamamı'nı, yılın dört mevsiminde ziyaret edilebilir bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Sofular Hamamı, yılın dört mevsiminde ziyaret edilebilir. Bahar ve yaz aylar
 
 ## İlginç Bilgiler
 
-- Sofular Hamamı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bölge, deniz seviyesine yakın bir yükseklikte yer alıyor.
 - Sofular Hamamı, Marmara Bölgesi'nin kalbinde, Fatih ilçesinde yer alıyor.
 - Bölge, coğrafi olarak farklı özellikler sunuyor.

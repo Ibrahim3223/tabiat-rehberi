@@ -28,7 +28,7 @@ wikidata_id: "Q31390495"
 
 # Partılıdede Tepesi
 
-Partılıdede Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle büyülemektedir. Tepenin eteklerinde çeşitli bitki türleri yetişmekte ve zengin fauna ile karşılaşma mümkün. Partılıdede Tepesi, aynı zamanda bir hikaye anlatıyor; burada bulunan tarihi kalıntılar ve doğal oluşumlar, ziyaretçilere bu bölgenin tarihi geçmişini ve coğrafi özelliklerini anlatıyor. Bu bölge, hem doğa severler hem de tarih meraklıları için bir cennet.
+Partılıdede Tepesi, Konya'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Tepenin eteklerinde çeşitli bitki türleri yetişmekte ve zengin fauna ile karşılaşma mümkün. Partılıdede Tepesi, aynı zamanda bir hikaye anlatıyor; burada bulunan tarihi kalıntılar ve doğal oluşumlar, ziyaretçilere bu bölgenin tarihi geçmişini ve coğrafi özelliklerini anlatıyor. Bu bölge, hem doğa severler hem de tarih meraklıları için bir cennet.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Partılıdede Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Partılıdede Tepesi, Konya'nın coğrafi yapısını yansıtan bir bölgedir. Bu tepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor; geniş otlaklar, çeşitli bitki türleri ve zengin fauna ile dolu. Tepenin etrafında, geniş ve yeşil alanlar bulunmakta ve bu bölgenin coğrafi güzelliğini arttırıyor. Partılıdede Tepesi, aynı zamanda Konya'nın iklimini de yansıtıyor; karasal iklimin özellikleri burada hissedilebiliyor. Bu bölgenin coğrafi konumu, ziyaretçilere geniş ve açık bir görünüm sunuyor ve buranın güzelliğini daha da artırıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle büyülemektedir.
+Partılıdede Tepesi, Konya'nın coğrafi yapısını yansıtan bir bölgedir. Bu tepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor; geniş otlaklar, çeşitli bitki türleri ve zengin fauna ile dolu. Tepenin etrafında, geniş ve yeşil alanlar bulunmakta ve bu bölgenin coğrafi güzelliğini arttırıyor. Partılıdede Tepesi, aynı zamanda Konya'nın iklimini de yansıtıyor; karasal iklimin özellikleri burada hissedilebiliyor. Bu bölgenin coğrafi konumu, ziyaretçilere geniş ve açık bir görünüm sunuyor ve buranın güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Partılıdede Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklıl
 
 - Partılıdede Tepesi, Konya'nın en yüksek noktalarından biridir.
 - Burada, çeşitli bitki türleri ve zengin fauna bulunur.
-- Tepenin eteklerinde, histórik kalıntılar ve doğal oluşumlar bulunur.
+- Tepenin eteklerinde, tarihi kalıntılar ve doğal oluşumlar bulunur.
 - Partılıdede Tepesi, bir doğa koruma alanı olarak görülüyor.
 - Buraya ulaşmak, yaklaşık bir saat sürebilir.

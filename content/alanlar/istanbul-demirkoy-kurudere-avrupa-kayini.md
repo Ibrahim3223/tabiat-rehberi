@@ -22,7 +22,7 @@ wikidata_id: "Q108228482"
 
 # Istanbul-Demirkoy-Kurudere Avrupa Kayını
 
-İstanbul-Demirkoy-Kurudere Avrupa Kayını milli parkı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak ziyaretçilerini ağırlıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görüyor. İstanbul'un merkezine yakın konumuyla kolayca ulaşılabilen bu milli park, doğa severlerin vazgeçilmezi haline gelmiş durumda. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+İstanbul-Demirkoy-Kurudere Avrupa Kayını milli parkı, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak ziyaretçilerini ağırlıyor. Bu alan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görüyor. İstanbul'un merkezine yakın konumuyla kolayca ulaşılabilen bu milli park, doğa severlerin vazgeçilmezi haline gelmiş durumda. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108228482"
 
 ## Coğrafya
 
-İstanbul-Demirkoy-Kurudere Avrupa Kayını milli parkı, Marmara Bölgesi'nin coğrafi olarak en önemli noktalarından biri olarak kabul ediliyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu alan, doğu-batı yönünde uzanan bir vadiden oluşuyor. Parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Çevre, zengin fauna ile dolu ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. İstanbul'un merkezine yakın konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak karasal ve ılıman bir yapıya sahip. Bu coğrafi ve iklimsel koşullar, çeşitli bitki ve hayvan türlerinin yaşamasına elverişli bir ortam sunuyor.
+İstanbul-Demirkoy-Kurudere Avrupa Kayını milli parkı, Marmara Bölgesi'nin coğrafi olarak en önemli noktalarından biri olarak kabul ediliyor. Bu alan, doğu-batı yönünde uzanan bir vadiden oluşuyor. Parkın coğrafi yapısı, çeşitli bitki türlerinin yetişmesine olanak sağlıyor. Çevre, zengin fauna ile dolu ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. İstanbul'un merkezine yakın konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak karasal ve ılıman bir yapıya sahip. Bu coğrafi ve iklimsel koşullar, çeşitli bitki ve hayvan türlerinin yaşamasına elverişli bir ortam sunuyor.
 
 ## Flora ve Fauna
 

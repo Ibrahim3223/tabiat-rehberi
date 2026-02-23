@@ -1,7 +1,7 @@
 ---
 title: "Tarım ve Biyoçeşitlilik Müzesi"
 date: "2026-01-10T15:13:32.422Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q132950266"
 
 # Tarım ve Biyoçeşitlilik Müzesi
 
-Tarım ve Biyoçeşitlilik Müzesi, Ankara'nın merkezinde yer alan bir kültür ve eğitim merkezi. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere tarım, biyoçeşitlili ve çevre hakkında geniş bir perspektif sunuyor. Müze, tarım ve doğa arasındaki bağlantıyı göstermek amacıyla tasarlandı ve çeşitli sergi alanları, eğitim programları ve interaktif faaliyetler sunuyor. Tarım ve Biyoçeşitlilik Müzesi, hem çocuklar hem de yetişkinler için eğitim ve eğlenceyi bir araya getiren benzersiz bir deneyim sunuyor.
+Tarım ve Biyoçeşitlilik Müzesi, Ankara'nın merkezinde yer alan bir kültür ve eğitim merkezi. Müze, tarım ve doğa arasındaki bağlantıyı göstermek amacıyla tasarlandı ve çeşitli sergi alanları, eğitim programları ve interaktif faaliyetler sunuyor. Tarım ve Biyoçeşitlilik Müzesi, hem çocuklar hem de yetişkinler için eğitim ve eğlenceyi bir araya getiren benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

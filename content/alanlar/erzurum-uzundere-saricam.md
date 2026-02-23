@@ -22,7 +22,7 @@ wikidata_id: "Q108227690"
 
 # Erzurum-Uzundere Saricam
 
-Erzurum-Uzundere Saricam, yaklaşık 140 hektarlık alanı ile Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü flora ve fauna çeşitliliği ile dikkat çekiyor. Saricam, doğal güzelliği ve zengin ekosistemi ile ziyaretçilerini büyülüyor. Bu milli park, hem doğa severler hem de bölgeye ilgi duyanların keşfetmek için ideal bir destinasyon.
+Erzurum-Uzundere Saricam, yaklaşık 140 hektarlık alanı ile Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Saricam, doğal güzelliği ve zengin ekosistemi ile ziyaretçilerini büyülüyor. Bu milli park, hem doğa severler hem de bölgeye ilgi duyanların keşfetmek için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Erzurum-Uzundere Saricam, Doğu Anadolu Bölgesi'nin coğrafi olarak en dikkat �
 
 ## Flora ve Fauna
 
-Erzurum-Uzundere Saricam, flora ve fauna açısından oldukça zengin bir bölge. Milli parkta, çeşitli bitki türleri ve ağaçlar bulunmakta. Mevsimsel değişimlere bağlı olarak, ilkbahar ve yaz aylarında flora çeşitliliği en yüksek düzeyde. Saricam'da, özellikle bölgeye özgü bazı endemik türler de bulunmakta. Fauna açısından da zengin olan milli parkta, yaban hayatı oldukça çeşitli. Burada, farklı kuş türleri, memeliler ve diğer hayvanlar yaşamakta. Saricam, bu zengin ekosistemi ile doğa severler için bir cennet olarak kabul ediliyor. Mevsimsel değişimlere bağlı olarak, flora ve fauna da değişkenlik gösteriyor, ancak genel olarak Saricam'ın ekolojik zenginliği yıl boyunca korunan bir değer olarak ortaya çıkıyor.
+ Milli parkta, çeşitli bitki türleri ve ağaçlar bulunmakta. Mevsimsel değişimlere bağlı olarak, ilkbahar ve yaz aylarında flora çeşitliliği en yüksek düzeyde. Saricam'da, özellikle bölgeye özgü bazı endemik türler de bulunmakta. Fauna açısından da zengin olan milli parkta, yaban hayatı oldukça çeşitli. Burada, farklı kuş türleri, memeliler ve diğer hayvanlar yaşamakta. Saricam, bu zengin ekosistemi ile doğa severler için bir cennet olarak kabul ediliyor. Mevsimsel değişimlere bağlı olarak, flora ve fauna da değişkenlik gösteriyor, ancak genel olarak Saricam'ın ekolojik zenginliği yıl boyunca korunan bir değer olarak ortaya çıkıyor.
 
 ## Ziyaret Bilgileri
 

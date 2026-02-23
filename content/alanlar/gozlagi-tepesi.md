@@ -28,7 +28,7 @@ wikidata_id: "Q34872715"
 
 # Gözlağı Tepesi
 
-Gözlağı Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Gözlağı Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle karşılar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna dikkat çekiyor. Bu tepe, aynı zamanda, bölgenin coğrafi yapısını anlamak için önemli bir nokta.
+Gözlağı Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe. Gözlağı Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle karşılar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna dikkat çekiyor. Bu tepe, aynı zamanda, bölgenin coğrafi yapısını anlamak için önemli bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gözlağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu te
 
 ## Coğrafya
 
-Gözlağı Tepesi, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna dikkat çekiyor. Gözlağı Tepesi, aynı zamanda, bölgenin iklimini de yansıtan bir yer. Tepenin üzerinde, çeşitli hava koşulları, ziyaretçilerini karşılar. Bu tepe, ziyaretçilerini, coğrafi yapısını keşfetmeye davet ediyor. Gözlağı Tepesi'nin coğrafi yapısı, ziyaretçilerini, doğal güzelliklerle baş başa bırakıyor.
+Gözlağı Tepesi, Akdeniz Bölgesi'nin coğrafi yapısını yansıtan bir tepe. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna dikkat çekiyor. Gözlağı Tepesi, aynı zamanda, bölgenin iklimini de yansıtan bir yer. Tepenin üzerinde, çeşitli hava koşulları, ziyaretçilerini karşılar. Bu tepe, ziyaretçilerini, coğrafi yapısını keşfetmeye davet ediyor. Gözlağı Tepesi'nin coğrafi yapısı, ziyaretçilerini, doğal güzelliklerle baş başa bırakıyor.
 
 ## Flora ve Fauna
 

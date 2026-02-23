@@ -33,7 +33,7 @@ Kırşehir'in doğal güzelliklerinin arasında yer alan İkiztepe, şehrin merk
 
 ## Tarihçe
 
-Kırşehir'in güzide dağlarından biri olan İkiztepe, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarihin akışında önemli uygarlıkların izlerini taşımıştır. Hitit, Frig, Roma ve Selçuklu gibi medeniyetler, Kırşehir'in topraklarında yaşamlarını sürdürmüşlerdir. İkiztepe de, bu tarihsel süreci yansıtan doğal bir miras olarak karşımıza çıkıyor.
+Kırşehir'in güzide dağlarından biri olan İkiztepe, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, tarihin akışında önemli uygarlıkların izlerini taşımıştır. Hitit, Frig, Roma ve Selçuklu gibi medeniyetler, Kırşehir'in topraklarında yaşamlarını sürdürmüşlerdir. İkiztepe de, bu tarihsel süreci yansıtan doğal bir miras olarak karşımıza çıkıyor.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin insanlarla olan ilişkisini şekillendirmiştir. İkiztepe'nin bulunduğu Kırşehir, tarihi İpek Yolu'nun da geçtiği bir bölgedir. Bu ticaret yolu, farklı kültürlerin buluştuğu ve etkileşime girdiği önemli bir merkez olmuştur.
 
@@ -51,9 +51,9 @@ Mevsimsel değişikliklere bağlı olarak, İkiztepe'nin iklim karakteri de çe�
 
 ## Flora ve Fauna
 
-İkiztepe dağının flora ve fauna bölümü,step bitki örtüsü ve bozkırın hakim olduğu bir bölge olarak karşımıza çıkıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanları ile zengin bir çeşitlilik sunuyor. 
+İkiztepe dağının flora ve fauna bölümü,step bitki örtüsü ve bozkırın hakim olduğu bir bölge olarak karşımıza çıkıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanları ile zengin bir çeşitlilik sunuyor.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçlarında renkli çiçekler açıyor. Sonbaharda ise göçmen kuşlar, dağların üzerinden geçerek yeni yuvalarına ulaşıyor. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşamını sürdürüyor. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçlarında renkli çiçekler açıyor. Sonbaharda ise göçmen kuşlar, dağların üzerinden geçerek yeni yuvalarına ulaşıyor. Dağ keçileri ve yaban keçileri, dağların yüksek kesimlerinde yaşamını sürdürüyor.
 Koruma durumu açısından, İkiztepe dağının ekolojik değerini korumak için çalışmalar yürütülüyor. Bu dağ, bölgenin ekolojik dengesini sağlayan önemli bir doğal kaynak olarak kabul ediliyor.
 
 ## Ziyaret Bilgileri

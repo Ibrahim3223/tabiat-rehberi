@@ -22,7 +22,7 @@ wikidata_id: "Q130366878"
 
 # Paşaçukuru Şelalesi
 
-Rize'nin doğal güzelliklerinden biri olan Paşaçukuru Şelalesi, Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu şelale, yaklaşık 140 hektarlık bir alan içinde, 200 futbol sahası büyüklüğünde bir yeşil alanın içinde bulunmaktadır. Paşaçukuru Şelalesi, Rize'nin merkezine uzun bir mesafe uzaklıkta yer alıyor ve özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlıyor. Şelalenin çevresinde çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennet haline getiriyor.
+Rize'nin doğal güzelliklerinden biri olan Paşaçukuru Şelalesi, Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır. Paşaçukuru Şelalesi, Rize'nin merkezine uzun bir mesafe uzaklıkta yer alıyor ve özellikle ilkbahar ve yaz aylarında ziyaretçilerini ağırlıyor. Şelalenin çevresinde çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için bir cennet haline getiriyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Paşaçukuru Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca Rize'nin öneml
 
 ## Coğrafya
 
-Paşaçukuru Şelalesi, Karadeniz Bölgesi'nin en yeşil bölgelerinden biri olan Rize'de yer alıyor. Şelale, 140 hektarlık bir alan içinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içinde bulunmaktadır. Bu alan, çeşitli bitki türleri ve zengin fauna ile birlikte, bir doğa harikası olarak dikkat çekiyor. Şelalenin yüksekliği khong 10 metre civarında ve suyun debisi, mevsimsel olarak değişmektedir. Paşaçukuru Şelalesi'nin etrafında, ormanlık alanlar ve dağlar bulunması, bu bölgeyi doğa severler için ideal bir yer haline getiriyor. Ayrıca, şelalenin yakınında, yürüyüş parkurları ve piknik alanları da bulunmaktadır.
+Paşaçukuru Şelalesi, Karadeniz Bölgesi'nin en yeşil bölgelerinden biri olan Rize'de yer alıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile birlikte, bir doğa harikası olarak dikkat çekiyor. Şelalenin yüksekliği khong 10 metre civarında ve suyun debisi, mevsimsel olarak değişmektedir. Paşaçukuru Şelalesi'nin etrafında, ormanlık alanlar ve dağlar bulunması, bu bölgeyi doğa severler için ideal bir yer haline getiriyor. Ayrıca, şelalenin yakınında, yürüyüş parkurları ve piknik alanları da bulunmaktadır.
 
 ## Flora ve Fauna
 

@@ -34,7 +34,7 @@ Balıkesir'in yeşille maviyi buluşturan manzaraları arasında yer alan Dölek
 
 Dölekli Tepe, Balıkesir'in tarihi zenginliklere sahip coğrafyasında yer alır. Bu bölge, tarihin çeşitli dönemlerinde farklı uygarlıkların izlerine tanıklık etmiştir. Antik Çağ'da, Lidya ve Pers İmparatorluğu gibi büyük güçlerin etkisine giren bu topraklar, daha sonra Roma ve Bizans egemenliğine geçmiştir. Osmanlı İmparatorluğu'nun yükselişiyle birlikte, Balıkesir ve çevresindeki doğal güzellikler, ticaret yolları ve yerleşim merkezleri olarak önem kazanmıştır.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve kültürel yaşamın merkezinde yer almasını sağlamıştır. Ayrıca, histórik ticaret yolları, bu doğal güzelliğin içinde veya yakınından geçmiş, bölgenin stratejik önemini artırmıştır. İnsanların bu alanlarla olan ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda kültürel ve sosyal yaşamın bir parçası haline gelmiştir. Dölekli Tepe, bu zengin tarihsel bağlam içinde, bölgenin doğal ve kültürel mirasının önemli bir parçasını oluşturmaktadır.
+Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Yaylacılık ve hayvancılık faaliyetleri, bu bölgelerin ekonomi ve kültürel yaşamın merkezinde yer almasını sağlamıştır. Ayrıca, tarihi ticaret yolları, bu doğal güzelliğin içinde veya yakınından geçmiş, bölgenin stratejik önemini artırmıştır. İnsanların bu alanlarla olan ilişkisi, yalnızca ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda kültürel ve sosyal yaşamın bir parçası haline gelmiştir. Dölekli Tepe, bu zengin tarihsel bağlam içinde, bölgenin doğal ve kültürel mirasının önemli bir parçasını oluşturmaktadır.
 
 ## Coğrafya
 

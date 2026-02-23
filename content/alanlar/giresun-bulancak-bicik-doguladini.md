@@ -22,7 +22,7 @@ wikidata_id: "Q108228054"
 
 # Giresun Bulancak Bicik-Doguladini
 
-Giresun'un Bulancak ilçesinde yer alan Bicik-Doguladini milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Doğuladini milli parkında, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor. Milli parkın coğrafi konumu, ziyaretçilerin hem doğayı hem de çevreyi keşfetmesine olanak tanıyor.
+ Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Doğuladini milli parkında, çeşitli bitki türleri ve zengin fauna, ziyaretçilere benzersiz bir deneyim sunuyor. Milli parkın coğrafi konumu, ziyaretçilerin hem doğayı hem de çevreyi keşfetmesine olanak tanıyor.
 
 ## Tarihçe
 

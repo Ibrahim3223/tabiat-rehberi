@@ -1,7 +1,7 @@
 ---
 title: "Bahriye Merkez Hastanesi Hamamı"
 date: "2026-01-09T23:49:27.012Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245731"
 
 # Bahriye Merkez Hastanesi Hamamı
 
-Bahriye Merkez Hastanesi Hamamı, İstanbulun kalbinde, Beyoğlu ilçesinde yer alan tarihi bir mekandır. Bu önemli mekan, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbulun tarihini ve kültürünü yansıtan bu hamam, şehrin önemli turistik noktalarından biridir. Bahriye Merkez Hastanesi Hamamının tarihi ve kültürel önemi, ziyaretçilerini geçmişe götürerek onları bu güzel mekanın hikayesiyle baş başa bırakır.
+Bahriye Merkez Hastanesi Hamamı, İstanbulun kalbinde, Beyoğlu ilçesinde yer alan tarihi bir mekandır. İstanbulun tarihini ve kültürünü yansıtan bu hamam, şehrin önemli turistik noktalarından biridir. Bahriye Merkez Hastanesi Hamamının tarihi ve kültürel önemi, ziyaretçilerini geçmişe götürerek onları bu güzel mekanın hikayesiyle baş başa bırakır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Bahriye Merkez Hastanesi Hamamının tarihi geçmişi, İstanbulun zengin kült�
 
 ## Coğrafya
 
-Bahriye Merkez Hastanesi Hamamı, İstanbulun kalbinde, Beyoğlu ilçesinde yer alır. Bu önemli mekan, Marmara Bölgesinde yer alan İstanbulun coğrafi konumu, bu hamamın önemini artırır. İstanbul, coğrafi olarak, Asya ve Avrupa kıtaları arasında bir köprü görevi gören bir şehir olup, bu konumu, şehrin tarihini ve kültürünü etkilemiştir. Bahriye Merkez Hastanesi Hamamı, bu coğrafi konumun avantajlarını kullanarak, şehrin önemli turistik noktalarından birini oluşturur. Bu hamam, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İstanbulun coğrafi konumu, Bahriye Merkez Hastanesi Hamamının önemini artırarak, ziyaretçilerini bu güzel mekanın hikayesiyle baş başa bırakır. Bahriye Merkez Hastanesi Hamamının coğrafi konumu, İstanbulun tarihini ve kültürünü yansıtan önemli bir mekandır.
+Bahriye Merkez Hastanesi Hamamı, İstanbulun kalbinde, Beyoğlu ilçesinde yer alır. Bu önemli mekan, Marmara Bölgesinde yer alan İstanbulun coğrafi konumu, bu hamamın önemini artırır. İstanbul, coğrafi olarak, Asya ve Avrupa kıtaları arasında bir köprü görevi gören bir şehir olup, bu konumu, şehrin tarihini ve kültürünü etkilemiştir. Bahriye Merkez Hastanesi Hamamı, bu coğrafi konumun avantajlarını kullanarak, şehrin önemli turistik noktalarından birini oluşturur. İstanbulun coğrafi konumu, Bahriye Merkez Hastanesi Hamamının önemini artırarak, ziyaretçilerini bu güzel mekanın hikayesiyle baş başa bırakır. Bahriye Merkez Hastanesi Hamamının coğrafi konumu, İstanbulun tarihini ve kültürünü yansıtan önemli bir mekandır.
 
 ## Flora ve Fauna
 

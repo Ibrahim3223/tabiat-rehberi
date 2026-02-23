@@ -28,7 +28,7 @@ wikidata_id: "Q31389902"
 
 # Ambarlı Tepesi
 
-Ambarlı Tepesi, Samsun'un Karadeniz kıyılarında yer alan yaklaşık 140 hektarlık bir yeşil alandır. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini şehrin gürültüsünden uzaklaştırır. Tepenin eteklerinde yer alan yerleşim yerleri ve çevredeki ormanlık alanlar, Ambarlı Tepesi'nin güzelliğini daha da artırır. Tepenin üzerinde yer alan seyir teraslarından Karadeniz'in büyüleyici manzarasını izleyebilirsiniz. Ambarlı Tepesi, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
+Ambarlı Tepesi, Samsun'un Karadeniz kıyılarında yer alan yaklaşık 140 hektarlık bir yeşil alandır. Tepenin eteklerinde yer alan yerleşim yerleri ve çevredeki ormanlık alanlar, Ambarlı Tepesi'nin güzelliğini daha da artırır. Tepenin üzerinde yer alan seyir teraslarından Karadeniz'in büyüleyici manzarasını izleyebilirsiniz. Ambarlı Tepesi, hem doğa severler hem de şehir hayatından kaçmak isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Ambarlı Tepesi, Samsun'un Karadeniz kıyılarında yer alan bir tepe olup, yakl
 
 ## Flora ve Fauna
 
-Ambarlı Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin eteklerinde yer alan ormanlık alanlar, birçok ağaç türüne ev sahipliği yapar. Mevsimsel değişimler, bölgeye farklı renkler kazandırır. İlkbahar ve yaz aylarında, tepenin çevresi, yeşilin çeşitli tonlarını gösterirken, sonbahar ve kış aylarında, bölgenin rengi, sarı, kahverengi ve beyaz tonlarına dönüşür. Ambarlı Tepesi, aynı zamanda birçok hayvan türüne de ev sahipliği yapar. Bölgede, çeşitli kuş türleri, memeliler ve sürüngenler bulunur. Tepenin zengin fauna ve flora yapıları, bölgenin ekolojik dengesini korumaya yardımcı olur.
+ Tepenin eteklerinde yer alan ormanlık alanlar, birçok ağaç türüne ev sahipliği yapar. Mevsimsel değişimler, bölgeye farklı renkler kazandırır. İlkbahar ve yaz aylarında, tepenin çevresi, yeşilin çeşitli tonlarını gösterirken, sonbahar ve kış aylarında, bölgenin rengi, sarı, kahverengi ve beyaz tonlarına dönüşür. Ambarlı Tepesi, aynı zamanda birçok hayvan türüne de ev sahipliği yapar. Bölgede, çeşitli kuş türleri, memeliler ve sürüngenler bulunur. Tepenin zengin fauna ve flora yapıları, bölgenin ekolojik dengesini korumaya yardımcı olur.
 
 ## Ziyaret Bilgileri
 

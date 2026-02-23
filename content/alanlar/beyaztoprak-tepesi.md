@@ -20,7 +20,7 @@ aktiviteler: ["Yürüyüş","Manzara Seyretme","Tarihî Yerleri Gezme","Doğa Fo
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Beyaztoprak Tepesi","caption":"Beyaztoprak Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beyaztoprak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549904","tip":"genel"}]
-description: "Diyarbakır'ın históri ve coğrafik güzelliklerini birleştiren Beyaztoprak Tepesi, ziyaretçilerini tarihi geçmişi ve doğal güzelliği ile karşılar."
+description: "Diyarbakır'ın tarihi ve coğrafik güzelliklerini birleştiren Beyaztoprak Tepesi, ziyaretçilerini tarihi geçmişi ve doğal güzelliği ile karşılar."
 keywords: ["Diyarbakır","Beyaztoprak Tepesi","Güneydoğu Anadolu Bölgesi","Doğal Alan","Tarihi Yerler","Coğrafya","Flora","Fauna","Ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31549904"
@@ -28,7 +28,7 @@ wikidata_id: "Q31549904"
 
 # Beyaztoprak Tepesi
 
-Beyaztoprak Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyon. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan olarak düşünülebilir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilere hem dinlenme hem de tarihi ve coğrafi özellikleri keşfetme imkanı sunar. Ziyaretçiler, bu tepede hem tarihi geçmişi hem de doğal güzelliği ile karşılaşır.
+Beyaztoprak Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren önemli bir destinasyon. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan olarak düşünülebilir. Bu geniş yeşil alan, ziyaretçilere hem dinlenme hem de tarihi ve coğrafi özellikleri keşfetme imkanı sunar. Ziyaretçiler, bu tepede hem tarihi geçmişi hem de doğal güzelliği ile karşılaşır.
 
 ## Tarihçe
 

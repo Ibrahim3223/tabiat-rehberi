@@ -1,7 +1,7 @@
 ---
 title: "İmza Dede Sultan Türbesi"
 date: "2026-01-10T05:17:36.673Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391757"
 
 # İmza Dede Sultan Türbesi
 
-İmza Dede Sultan Türbesi, Ege Bölgesi'nin kalbinde, Çal/Denizli'de yer alan bir tarihi ve doğal mekan. Bu özel yer, yaklaşık 140 hektarlık bir alanı kaplayan bir plaj ve tarihi bir türbe ile ziyaretçilerini karşılar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunar. İmza Dede Sultan Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülemektedir. Bu mekan, Ege Bölgesi'nin gizli cennetlerinden biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından keşfedilmektedir.
+İmza Dede Sultan Türbesi, Ege Bölgesi'nin kalbinde, Çal/Denizli'de yer alan bir tarihi ve doğal mekan. Bu özel yer, yaklaşık 140 hektarlık bir alanı kaplayan bir plaj ve tarihi bir türbe ile ziyaretçilerini karşılar. İmza Dede Sultan Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülemektedir. Bu mekan, Ege Bölgesi'nin gizli cennetlerinden biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından keşfedilmektedir.
 
 ## Tarihçe
 

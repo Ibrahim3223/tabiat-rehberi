@@ -1,7 +1,7 @@
 ---
 title: "Pir Ali Sultan Türbesi"
 date: "2026-01-10T06:09:07.216Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -29,11 +29,11 @@ wikidata_id: "Q131390643"
 
 # Pir Ali Sultan Türbesi
 
-Pir Ali Sultan Türbesi, Aksaray şehrinin merkezinde yer alan tarihi bir mekan. 140 hektarlık bir alanda bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir yer. Türbenin etrafında bulunan yeşillik alanlar, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunuyor. Aksaray'ın merkezi konumunda bulunan Pir Ali Sultan Türbesi, şehri gezenlerin mutlaka ziyaret etmesi gereken bir yer.
+Pir Ali Sultan Türbesi, Aksaray şehrinin merkezinde yer alan tarihi bir mekan. Bu geniş alan, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir yer. Türbenin etrafında bulunan yeşillik alanlar, ziyaretçilere dinlenme ve doğayı seyretmek için ideal bir ortam sunuyor. Aksaray'ın merkezi konumunda bulunan Pir Ali Sultan Türbesi, şehri gezenlerin mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 
-Pir Ali Sultan Türbesi, Aksaray'ın tarihi geçmişi ile sâu şekilde bağlantılı. Bu türbenin tarihi, yüzyıllar boyunca şehrin kültürel ve dini yaşantısını şekillendirmiş. Aksaray, tarihi boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu türbe, bu medeniyetlerin izlerini taşıyor. Türbenin inşa tarihi tam olarak bilinmese de, Aksaray'ın tarihçesi ile paralel olarak geliştiği düşünülüyor. Bu nedenle, Pir Ali Sultan Türbesi, şehrin tarihini öğrenmek isteyenler için önemli bir merkez.
+Pir Ali Sultan Türbesi, Aksaray'ın tarihi geçmişi ile derin şekilde bağlantılı. Bu türbenin tarihi, yüzyıllar boyunca şehrin kültürel ve dini yaşantısını şekillendirmiş. Aksaray, tarihi boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu türbe, bu medeniyetlerin izlerini taşıyor. Türbenin inşa tarihi tam olarak bilinmese de, Aksaray'ın tarihçesi ile paralel olarak geliştiği düşünülüyor. Bu nedenle, Pir Ali Sultan Türbesi, şehrin tarihini öğrenmek isteyenler için önemli bir merkez.
 
 ## Coğrafya
 

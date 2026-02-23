@@ -1,7 +1,7 @@
 ---
 title: "Kırk Kızlar Türbesi"
 date: "2026-01-10T06:15:17.424Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390649"
 
 # Kırk Kızlar Türbesi
 
-Aksaray'da bulunan Kırk Kızlar Türbesi, tarihi ve doğal güzelliklerin birleştiği özel bir yerdir. Bu alan, 140 hektarlık bir büyüklüğe sahip olup, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi ve benzersiz doğası ile dikkat çekiyor. Aksaray'ın merkezine yakın konumda yer alan bu türbe, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. İç Anadolu Bölgesi'nin zengin kültürel mirasının bir parçası olan Kırk Kızlar Türbesi, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Aksaray'da bulunan Kırk Kızlar Türbesi, tarihi ve doğal güzelliklerin birleştiği özel bir yerdir. Tarihi geçmişi ve benzersiz doğası ile dikkat çekiyor. Aksaray'ın merkezine yakın konumda yer alan bu türbe, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

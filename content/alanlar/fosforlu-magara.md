@@ -42,7 +42,7 @@ Mevsimler boyunca, Fosforlu Mağara'nın iklim karakteri değişkenlik gösterir
 
 ## Flora ve Fauna
 
-Fosforlu Mağara Jeoparkı, step bitki örtüsüne ev sahipliği yapan bir bölge olarak, kuraklığa adapte olmuş türlerin zengin çeşitliliğini sunar. 
+Fosforlu Mağara Jeoparkı, step bitki örtüsüne ev sahipliği yapan bir bölge olarak, kuraklığa adapte olmuş türlerin zengin çeşitliliğini sunar.
 
 Bitki Örtüsü: İlkbahar aylarında, bozkırın çiçeklerle donandığı görülür. Bu mevsimsel değişim, bölgenin doğasını renkler ve kokularla süsler. Step bitkilerinin hakim olduğu bu alan, kuraklıkconditionsına adapte olmuş türlerin yaşamasına olanak tanır.
 

@@ -50,9 +50,9 @@ Mevsimsel özellikler açısından, Sakaltutan Dağı, bölgenin karakteristik A
 
 ## Flora ve Fauna
 
-Sakaltutan Dağı, yarı kurak iklimin hüküm sürdüğü Gaziantep'in kalbinde yer alıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekiyor. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanıyor ve bu manzaraya tanık olma mümkün. 
+Sakaltutan Dağı, yarı kurak iklimin hüküm sürdüğü Gaziantep'in kalbinde yer alıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekiyor. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanıyor ve bu manzaraya tanık olma mümkün.
 
-Yaban hayatı açısından zengin olan Sakaltutan Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Dağın yüksek kesimlerinde, alpin flora hakimken, aşağı kesimlerde step ve ova ekolojisi özellikleri görülüyor. Sonbahar aylarında, göçmen kuşların dağ üzerinden geçişleri izlenebiliyor. 
+Yaban hayatı açısından zengin olan Sakaltutan Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Dağın yüksek kesimlerinde, alpin flora hakimken, aşağı kesimlerde step ve ova ekolojisi özellikleri görülüyor. Sonbahar aylarında, göçmen kuşların dağ üzerinden geçişleri izlenebiliyor.
 
 Sakaltutan Dağı, bölgenin ekolojik dengesi için önemli bir rol oynuyor. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin su kaynakları ve toprağının korunması açısından da büyük önem taşıyor.
 

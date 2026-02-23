@@ -1,7 +1,7 @@
 ---
 title: "Hasan Dede Türbesi"
 date: "2026-01-10T05:05:40.881Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391635"
 
 # Hasan Dede Türbesi
 
-Karadeniz Bölgesi'nin en güzel köşelerinden biri olan Çilimli'de yer alan Hasan Dede Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir hareket alanı sunuyor. Hasan Dede Türbesi, özellikle plaj severlerin ve tarihi yerleri gezmekten hoşlananların ilgisini çekiyor. Bu alanda, denizin serinliği ve güneşin sıcaklığı bir arada hissedilebiliyor. Hasan Dede Türbesi, Çilimli'nin en önemli turizm merkezlerinden biri olarak biliniyor.
+Karadeniz Bölgesi'nin en güzel köşelerinden biri olan Çilimli'de yer alan Hasan Dede Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini büyülüyor. Hasan Dede Türbesi, özellikle plaj severlerin ve tarihi yerleri gezmekten hoşlananların ilgisini çekiyor. Bu alanda, denizin serinliği ve güneşin sıcaklığı bir arada hissedilebiliyor. Hasan Dede Türbesi, Çilimli'nin en önemli turizm merkezlerinden biri olarak biliniyor.
 
 ## Tarihçe
 

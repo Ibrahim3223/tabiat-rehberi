@@ -50,11 +50,11 @@ Mevsimsel olarak, Mardin ve çevresinin iklimi karasal iklim özellikleri göste
 
 ## Flora ve Fauna
 
-Kızım Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve faunaya ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kızım Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve faunaya ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları renkli çiçeklerle donanıyor. Step ve ova ekolojisinin hakim olduğu bu bölgede, özel bitkiler ve yükseklik zonlarına özgü alpin flora görülebiliyor. 
+Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları renkli çiçeklerle donanıyor. Step ve ova ekolojisinin hakim olduğu bu bölgede, özel bitkiler ve yükseklik zonlarına özgü alpin flora görülebiliyor.
 
-Yaban Hayatı açısından, dağ ekosisteminde memeliler, kuşlar ve sürüngenler yaşamlarını sürdürüyor. Sonbaharda, göç eden kuşlar bu bölgeyi ziyaret ediyor. Dağ hayvanları, yaşam alanlarıyla birlikte, ekolojik ilişkileri vurguluyor. 
+Yaban Hayatı açısından, dağ ekosisteminde memeliler, kuşlar ve sürüngenler yaşamlarını sürdürüyor. Sonbaharda, göç eden kuşlar bu bölgeyi ziyaret ediyor. Dağ hayvanları, yaşam alanlarıyla birlikte, ekolojik ilişkileri vurguluyor.
 
 Ekolojik Değer olarak, bu dağ ekosistemi, bölgenin ekolojik dengesini koruyor. Yükseklik zonlarına özgü flora ve fauna, bu alanı önemli kılar. Koruma durumu, bu ekosistemin sürdürülebilirliğini sağlamak için önemlidir.
 
@@ -65,7 +65,7 @@ Mardin'de bulunan Kızım Tepe, doğa severler için bir cennet. Sabah erken git
 ## İlginç Bilgiler
 
 - Kızım Tepe, Mardin ilinin merkezine 10 kilometre uzaklıktadır.
-- Bu dağ, Mardin'in históri ve kültürel zenginliklerini barındıran önemli bir coğrafi oluşumdur.
+- Bu dağ, Mardin'in tarihi ve kültürel zenginliklerini barındıran önemli bir coğrafi oluşumdur.
 - Kızım Tepe'nin eteklerinde, tarihi M.S. 2. yüzyıla dayanan Dara Antik Kenti .
 - Mardin ilinin toplam yüzölçümü 8.891 kilometrekare iken, Kızım Tepe'nin çevresindeki bölge önemli bir bölümünü kaplar.
 - Kızım Tepe ve çevresi, zengin flora ve fauna çeşitliliğine sahiptir, özellikle kestane ve zeytin ağaçları bolca bulunur.

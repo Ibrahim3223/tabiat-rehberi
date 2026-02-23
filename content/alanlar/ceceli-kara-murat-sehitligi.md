@@ -29,7 +29,7 @@ wikidata_id: "Q134728245"
 
 # Çeçeli Kara Murat Şehitliği
 
-Uşak ilinin merkezi olan Uşak'ta bulunan Çeçeli Kara Murat Şehitliği, şehrin tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilere geniş bir yeşil alan sunuyor. Bu şehitlik, Uşak'ın coğrafi konumu ve tarihi geçmişi hakkında bilgi edinmek isteyenler için bir başlangıç noktası olarak düşünülebilir. Uşak'ın doğal güzellikleri ve tarihi mekanları, şehri ziyaret edenler için unutulmaz bir deneyim sunuyor.
+Uşak ilinin merkezi olan Uşak'ta bulunan Çeçeli Kara Murat Şehitliği, şehrin tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta. Bu şehitlik, Uşak'ın coğrafi konumu ve tarihi geçmişi hakkında bilgi edinmek isteyenler için bir başlangıç noktası olarak düşünülebilir. Uşak'ın doğal güzellikleri ve tarihi mekanları, şehri ziyaret edenler için unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

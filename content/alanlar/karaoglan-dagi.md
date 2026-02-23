@@ -48,11 +48,11 @@ Bölgenin ekosistem bağlantıları açısından, Karaoğlan Dağı önemli bir 
 
 ## Flora ve Fauna
 
-Karaoğlan Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Karaoğlan Dağı, Tunceli'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle dolar. Alpin flora, dağ ekosisteminin temel taşıdır. Yükseklik zonlarına bağlı olarak değişen bitki örtüsü, bölgeye özgü endemik türleri barındırır. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle dolar. Alpin flora, dağ ekosisteminin temel taşıdır. Yükseklik zonlarına bağlı olarak değişen bitki örtüsü, bölgeye özgü endemik türleri barındırır.
 
-Yaban Hayatı olarak, dağ keçileri, ayılar ve kurtlar gibi memeliler, kartallar ve doğan gibi yırtıcı kuşlar, ve çeşitli sürüngenler bu dağların yaşam alanını paylaşır. Sonbaharın gelmesiyle birlikte, göçmen kuşlar bölgeyi ziyaret eder. 
+Yaban Hayatı olarak, dağ keçileri, ayılar ve kurtlar gibi memeliler, kartallar ve doğan gibi yırtıcı kuşlar, ve çeşitli sürüngenler bu dağların yaşam alanını paylaşır. Sonbaharın gelmesiyle birlikte, göçmen kuşlar bölgeyi ziyaret eder.
 
 Ekolojik Değer olarak, Karaoğlan Dağı'nın yüksek dağ ekolojisi ve alpin çayırları, bölgeye özgü endemik türlerin yaşam alanıdır. Bu quindi, ekosistemin korunması büyük önem taşır.
 

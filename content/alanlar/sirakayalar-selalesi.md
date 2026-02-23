@@ -23,7 +23,7 @@ wikidata_id: "Q109387368"
 
 # Sırakayalar Şelalesi
 
-Sırakayalar Şelalesi, Karadeniz Bölgesi'nin Bayburt ilinde bulunan, yaklaşık 140 hektarlık bir alanı kapsayan ve 200 futbol sahası büyüklüğünde olan bir doğa harikasıdır. Bu şelale, Sırakayalar köyü yakınlarında yer alır ve çevresindeki yeşillikler ile birlikte gerçek bir görsel şölen sunar. Sırakayalar Şelalesi, hem yerel halk hem de ziyaretçiler için bir çekim noktası olarak known. Bu doğa harikasını ziyaret ettiğinizde, şelalenin güzelliği ve çevre ile bütünleşmiş yapısı sizleri büyüleyecek.
+ Bu şelale, Sırakayalar köyü yakınlarında yer alır ve çevresindeki yeşillikler ile birlikte gerçek bir görsel şölen sunar. Sırakayalar Şelalesi, hem yerel halk hem de ziyaretçiler için bir çekim noktası olarak known. Bu doğa harikasını ziyaret ettiğinizde, şelalenin güzelliği ve çevre ile bütünleşmiş yapısı sizleri büyüleyecek.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Sırakayalar Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca devam eden bir 
 
 ## Coğrafya
 
-Sırakayalar Şelalesi, Karadeniz Bölgesi'nin coğrafi olarak en güzel bölgelerinden birinde yer alır. Bu bölge, dağlar ve vadiler ile çevrili olup, yeşilliklerin hakim olduğu bir coğrafyaya sahiptir. Şelale, Sırakayalar köyü yakınlarında, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu şelale, çevresi ile birlikte gerçek bir görsel şölen sunar. Sırakayalar Şelalesi'nin coğrafi konumu, ziyaretçilere hem doğa güzelliği hem de coğrafi çeşitlilik sunar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Sırakayalar Şelalesi, aynı zamanda, Karadeniz Bölgesi'nin ikliminin de bir parçası olarak, nemli ve ılıman bir iklimi sahiptir.
+Sırakayalar Şelalesi, Karadeniz Bölgesi'nin coğrafi olarak en güzel bölgelerinden birinde yer alır. Bu bölge, dağlar ve vadiler ile çevrili olup, yeşilliklerin hakim olduğu bir coğrafyaya sahiptir. Bu şelale, çevresi ile birlikte gerçek bir görsel şölen sunar. Sırakayalar Şelalesi'nin coğrafi konumu, ziyaretçilere hem doğa güzelliği hem de coğrafi çeşitlilik sunar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunur. Sırakayalar Şelalesi, aynı zamanda, Karadeniz Bölgesi'nin ikliminin de bir parçası olarak, nemli ve ılıman bir iklimi sahiptir.
 
 ## Flora ve Fauna
 

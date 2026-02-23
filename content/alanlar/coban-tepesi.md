@@ -28,7 +28,7 @@ wikidata_id: "Q34819474"
 
 # Çoban Tepesi
 
-Çoban Tepesi, Ankara'nın İç Anadolu Bölgesi'nde bulunmakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu 140 hektarlık genişlikte, ziyaretçilere geniş bir doğal alan sunuyor. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Çoban Tepesi, Ankara'da bulunan önemli doğal alanlardan biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Çoban Tepesi, hem a severler hem de gezi tutkunları için ideal bir destinasyon olarak görünüyor.
+ Bu 140 hektarlık genişlikte, ziyaretçilere geniş bir doğal alan sunuyor. Doğal güzelliği ve coğrafi konumuyla dikkat çeken Çoban Tepesi, Ankara'da bulunan önemli doğal alanlardan biridir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Çoban Tepesi, hem a severler hem de gezi tutkunları için ideal bir destinasyon olarak görünüyor.
 
 ## Tarihçe
 

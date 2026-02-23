@@ -28,7 +28,7 @@ wikidata_id: "Q31388191"
 
 # Tekbir Tepesi
 
-Tekbir Tepesi, Denizli'nin en güzel tepelerinden biri olarak dikkat çekiyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, şehrin kalabalığından kaçmak isteyenler için mükemmel bir kaçış noktası sunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunuyor. Bu tepe, hem doğa severler hem de historia meraklıları için bir hazine niteliğinde. Tarihi geçmişi, ziyaretçilerine benzersiz bir deneyim sunuyor.
+Tekbir Tepesi, Denizli'nin en güzel tepelerinden biri olarak dikkat çekiyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna çeşitliliği bulunuyor. Bu tepe, hem doğa severler hem de historia meraklıları için bir hazine niteliğinde. Tarihi geçmişi, ziyaretçilerine benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 

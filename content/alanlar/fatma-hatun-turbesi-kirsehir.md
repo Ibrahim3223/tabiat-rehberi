@@ -1,7 +1,7 @@
 ---
 title: "Fatma Hatun Türbesi, Kırşehir"
 date: "2026-01-10T06:35:22.620Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırşehir"
@@ -29,15 +29,15 @@ wikidata_id: "Q135582400"
 
 # Fatma Hatun Türbesi, Kırşehir
 
-Fatma Hatun Türbesi, Kırşehir ilinin merkezinde yer alan bir tarihi eserdir. Bu türbe, şehrin önemli ziyaret noktalarından biri olarak dikkat çekmektedir. Kırşehir, İç Anadolu Bölgesi'nde yer alan bir ildir ve histórik açıdan zengin bir geçmişe sahiptir. Fatma Hatun Türbesi de bu geçmişin önemli bir parçasını oluşturmaktadır. Türbenininde, ziyaretçilerin gezebileceği çeşitli tarihi yapılar ve müzeler bulunmaktadır. Ancak, bu tarihi mekanları gezerken, her bir yapı hakkında detaylı bilgi edinmek önemlidir.
+Fatma Hatun Türbesi, Kırşehir ilinin merkezinde yer alan bir tarihi eserdir. Bu türbe, şehrin önemli ziyaret noktalarından biri olarak dikkat çekmektedir. Kırşehir, İç Anadolu Bölgesi'nde yer alan bir ildir ve tarihi açıdan zengin bir geçmişe sahiptir. Fatma Hatun Türbesi de bu geçmişin önemli bir parçasını oluşturmaktadır. Türbenininde, ziyaretçilerin gezebileceği çeşitli tarihi yapılar ve müzeler bulunmaktadır. Ancak, bu tarihi mekanları gezerken, her bir yapı hakkında detaylı bilgi edinmek önemlidir.
 
 ## Tarihçe
 
-Fatma Hatun Türbesi'nin tarihi geçmişi, Kırşehir'in histórik sürecine paralel olara ilerlemektedir. Kırşehir, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, şehre kendine özgü bir iz bırakmıştır. Fatma Hatun Türbesi, bu izlerden biri olarak görülebilir. Türbenin inşa tarihi tam olarak bilinmese de,Historik kaynaklara göre, bu türbe, Osmanlı döneminde inşa edilmiştir. Osmanlı İmparatorluğu'nun genişleme döneminde, özellikle İç Anadolu Bölgesi'nde birçok tarihi eser inşa edilmiştir. Fatma Hatun Türbesi de bu eserlerden biridir. Türbe, tarihi önemini korurken, aynı zamanda şehrin kültürel mirasının önemli bir parçası olarak kabul edilmektedir.
+Fatma Hatun Türbesi'nin tarihi geçmişi, Kırşehir'in tarihi sürecine paralel olara ilerlemektedir. Kırşehir, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her bir medeniyet, şehre kendine özgü bir iz bırakmıştır. Fatma Hatun Türbesi, bu izlerden biri olarak görülebilir. Türbenin inşa tarihi tam olarak bilinmese de,Historik kaynaklara göre, bu türbe, Osmanlı döneminde inşa edilmiştir. Osmanlı İmparatorluğu'nun genişleme döneminde, özellikle İç Anadolu Bölgesi'nde birçok tarihi eser inşa edilmiştir. Fatma Hatun Türbesi de bu eserlerden biridir. Türbe, tarihi önemini korurken, aynı zamanda şehrin kültürel mirasının önemli bir parçası olarak kabul edilmektedir.
 
 ## Coğrafya
 
-Fatma Hatun Türbesi, Kırşehir ilinin coğrafi yapısı içerisinde önemli bir yere sahiptir. Kırşehir, İç Anadolu Bölgesi'nde yer alan bir ildir ve coğrafi açıdan zengin bir çeşitlilik sunmaktadır. İl, genel olarak bozkır iklimine sahiptir, ancak farklı mevsimlerde ziyaretçilere çeşitli manzaralar sunar. Fatma Hatun Türbesi, şehrin merkezinde yer almaktadır ve etrafındahistorik yapılar, parklar ve diğer turistik noktalar bulunmaktadır. Türbenin bulunduğu alan, yaklaşık olarak 140 hektarlık bir yeşil alana sahiptir. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Ziyaretçiler, türbeyi gezdikten sonra, bu yeşil alanda dinlenebilir ve şehrin manzarasını izleyebilirler. Ayrıca, türbenin yakınında bulunan diğer tarihi yapılara da kolayca ulaşılabilir. Bu nedenle, Fatma Hatun Türbesi, Kırşehir'de gezilecek önemli bir noktadır.
+Fatma Hatun Türbesi, Kırşehir ilinin coğrafi yapısı içerisinde önemli bir yere sahiptir. Kırşehir, İç Anadolu Bölgesi'nde yer alan bir ildir ve coğrafi açıdan zengin bir çeşitlilik sunmaktadır. İl, genel olarak bozkır iklimine sahiptir, ancak farklı mevsimlerde ziyaretçilere çeşitli manzaralar sunar. Fatma Hatun Türbesi, şehrin merkezinde yer almaktadır ve etrafındahistorik yapılar, parklar ve diğer turistik noktalar bulunmaktadır. Türbenin bulunduğu alan, yaklaşık olarak 140 hektarlık bir yeşil alana sahiptir. Ziyaretçiler, türbeyi gezdikten sonra, bu yeşil alanda dinlenebilir ve şehrin manzarasını izleyebilirler. Ayrıca, türbenin yakınında bulunan diğer tarihi yapılara da kolayca ulaşılabilir. Bu nedenle, Fatma Hatun Türbesi, Kırşehir'de gezilecek önemli bir noktadır.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Fatma Hatun Türbesi'ni ziyaret etmek, Kırşehir gezisi sırasında önemli bir
 ## İlginç Bilgiler
 
 - Fatma Hatun Türbesi, Osmanlı döneminde inşa edilmiştir.
-- Türbenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir.
+
 - Kırşehir, İç Anadolu Bölgesi'nde yer alan bir ildir ve coğrafi açıdan zengin bir çeşitlilik sunmaktadır.
 - Fatma Hatun Türbesi, şehrin merkezinde yer almaktadır ve etrafında historik yapılar, parklar ve diğer turistik noktalar bulunmaktadır.
 - Türbe, tarihi önemini korurken, aynı zamanda şehrin kültürel mirasının önemli bir parçası olarak kabul edilmektedir.

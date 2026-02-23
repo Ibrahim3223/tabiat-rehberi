@@ -29,7 +29,7 @@ wikidata_id: "Q31391171"
 
 # Hakim Tepesi
 
-Hakim Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. Yaklaşık 140 hektarlık yeşil alanıyla, ziyaretçilerini doğanın kucağına davet ediyor. Bu büyüleyici tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Hakim Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor. Doğa severler, bu bölgeyi keşfetmek için sabırsızlanabilirler.
+Hakim Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası. Yaklaşık 140 hektarlık yeşil alanıyla, ziyaretçilerini doğanın kucağına davet ediyor. Hakim Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor. Doğa severler, bu bölgeyi keşfetmek için sabırsızlanabilirler.
 
 ## Tarihçe
 
@@ -52,5 +52,5 @@ Hakim Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olabil
 - Hakim Tepesi, İç Anadolu Bölgesi'nin önemli bir coğrafi oluşumu.
 - Bu bölge, çeşitli bitki türleri ve fauna ile dikkat çekiyor.
 - Hakim Tepesi, ziyaretçilerine eşsiz bir manzara sunuyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Hakim Tepesi, ilkbahar ve yaz aylarında yeşillenerek ziyaretçilerini karşılar.

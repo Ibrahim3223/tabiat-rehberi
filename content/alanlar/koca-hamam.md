@@ -1,7 +1,7 @@
 ---
 title: "Koca Hamam"
 date: "2026-01-09T22:24:59.096Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738490"
 
 # Koca Hamam
 
-Koca Hamam Plajı, Ege Bölgesi'nin Manisa ilinin Turgutlu ilçesinde yer alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu plaj, denize girme ve güneşlenme imkanları sunmasının yanı sıra, doğa yürüyüşleri ve piknik alanları ile de ziyaretçilerini cezbediyor. Koca Hamam Plajı, hem yerel halkın hem de turistik ziyaretçilerin tercih ettiği bir nokta.
+ Bu plaj, denize girme ve güneşlenme imkanları sunmasının yanı sıra, doğa yürüyüşleri ve piknik alanları ile de ziyaretçilerini cezbediyor. Koca Hamam Plajı, hem yerel halkın hem de turistik ziyaretçilerin tercih ettiği bir nokta.
 
 ## Tarihçe
 

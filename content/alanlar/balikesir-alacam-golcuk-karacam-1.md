@@ -22,7 +22,7 @@ wikidata_id: "Q108227484"
 
 # Balikesir-Alacam-Golcuk Karacam 1
 
-Balikesir-Alacam-Golcuk Karacam 1 milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini ve zengin fauna çeşitliliğini bir araya getiren yaklaşık 140 hektarlık bir alan olarak dikkat çekiyor. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Milli parkın sunduğu manzaralar, ziyaretçilerin doğayla baş başa kalmasına olanak tanır. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki denge, görenleri büyülüyor.
+Balikesir-Alacam-Golcuk Karacam 1 milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini ve zengin fauna çeşitliliğini bir araya getiren yaklaşık 140 hektarlık bir alan olarak dikkat çekiyor. Milli parkın sunduğu manzaralar, ziyaretçilerin doğayla baş başa kalmasına olanak tanır. Burada, yaban hayatının çeşitliliği ve flora ile fauna arasındaki denge, görenleri büyülüyor.
 
 ## Tarihçe
 

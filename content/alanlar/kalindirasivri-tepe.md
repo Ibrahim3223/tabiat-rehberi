@@ -28,7 +28,7 @@ wikidata_id: "Q31390145"
 
 # Kalındırasivri Tepe
 
-Kalındırasivri Tepe, Antalya'nın güzide noktalarından biri olarak dikkat çekiyor. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Doğal güzellikleri ve tarihi değerleriyle zusammen bir gezi noktası olarak ziyaretçilerini bekliyor. Kalındırasivri Tepe, ziyaretçilerine Antalya'nın panoramik manzarasını sunuyor ve özellikle günbatımında büyüleyici bir atmosfer yaratıyor.
+Kalındırasivri Tepe, Antalya'nın güzide noktalarından biri olarak dikkat çekiyor. Doğal güzellikleri ve tarihi değerleriyle zusammen bir gezi noktası olarak ziyaretçilerini bekliyor. Kalındırasivri Tepe, ziyaretçilerine Antalya'nın panoramik manzarasını sunuyor ve özellikle günbatımında büyüleyici bir atmosfer yaratıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kalındırasivri Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeni
 
 ## Coğrafya
 
-Kalındırasivri Tepe, coğrafi olarak Antalya'nın merkezi bir noktasında yer alıyor. Bu tepe, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi konumu itibariyle, ziyaretçilere Antalya'nın panoramik manzarasını sunuyor. Tepe ve çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Kalındırasivri Tepe'nin coğrafyası, doğal güzellikleri ve iklimi ile ziyaretçilerini cezbediyor. Bu bölge, özellikle bahar ve yaz aylarında ziyaretçilere yeşil bir cennet sunuyor. Kalındırasivri Tepe, coğrafi güzelliği ve doğal zenginlikleriyle birlikte, bir gezi noktası olarak ön plana çıkıyor.
+Kalındırasivri Tepe, coğrafi olarak Antalya'nın merkezi bir noktasında yer alıyor. Coğrafi konumu itibariyle, ziyaretçilere Antalya'nın panoramik manzarasını sunuyor. Tepe ve çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Kalındırasivri Tepe'nin coğrafyası, doğal güzellikleri ve iklimi ile ziyaretçilerini cezbediyor. Bu bölge, özellikle bahar ve yaz aylarında ziyaretçilere yeşil bir cennet sunuyor. Kalındırasivri Tepe, coğrafi güzelliği ve doğal zenginlikleriyle birlikte, bir gezi noktası olarak ön plana çıkıyor.
 
 ## Flora ve Fauna
 

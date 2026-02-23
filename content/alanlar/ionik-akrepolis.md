@@ -28,7 +28,7 @@ wikidata_id: "Q104641913"
 
 # İonik Akrepolis
 
-İzmir'in merkezinde, Ege Bölgesi'nin tarihinde önemli bir yer tutan İonik Akrepolis, ziyaretçilerini tarih kokan sokaklarına davet ediyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarih ve kültür yelpazesi sunuyor. İonik Akrepolis, İzmir'in kalbinde yer alan bir tepe üzerine kurulu ve çevresi tarihi yapılarla dolu. Burada, tarihin izlerini takip edebilecek, tarihi ve kültürel zenginlikleri keşfedebilece ve güzel manzaraların keyfini çıkarabileceksiniz.
+İzmir'in merkezinde, Ege Bölgesi'nin tarihinde önemli bir yer tutan İonik Akrepolis, ziyaretçilerini tarih kokan sokaklarına davet ediyor. İonik Akrepolis, İzmir'in kalbinde yer alan bir tepe üzerine kurulu ve çevresi tarihi yapılarla dolu. Burada, tarihin izlerini takip edebilecek, tarihi ve kültürel zenginlikleri keşfedebilece ve güzel manzaraların keyfini çıkarabileceksiniz.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q104641913"
 
 ## Coğrafya
 
-İonik Akrepolis, İzmir'in merkezinde, Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu alan, 140 hektarlık bir tepe üzerine kurulu ve çevresi tarihi yapılarla dolu. İonik Akrepolis, deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle, burada güzel manzaraların keyfini çıkarabilirsiniz. Çevresinde, çeşitli bitki türleri ve hayvanlar snguyor ve bu nedenle, İonik Akrepolis, doğa severler için de mükemmel bir destinasyon. İklim, genel olarak Akdeniz iklimi özellikleri gösteriyor ve bu nedenle, ziyaretçiler yılın her döneminde İonik Akrepolis'i ziyaret edebilir. İonik Akrepolis'in coğrafi konumu, tarihi ve kültürel zenginliklerin yanı sıra, güzel manzaralar ve doğa ile iç içe bir gezi deneyimi sunuyor.
+İonik Akrepolis, İzmir'in merkezinde, Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. İonik Akrepolis, deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle, burada güzel manzaraların keyfini çıkarabilirsiniz. Çevresinde, çeşitli bitki türleri ve hayvanlar snguyor ve bu nedenle, İonik Akrepolis, doğa severler için de mükemmel bir destinasyon. İklim, genel olarak Akdeniz iklimi özellikleri gösteriyor ve bu nedenle, ziyaretçiler yılın her döneminde İonik Akrepolis'i ziyaret edebilir. İonik Akrepolis'in coğrafi konumu, tarihi ve kültürel zenginliklerin yanı sıra, güzel manzaralar ve doğa ile iç içe bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

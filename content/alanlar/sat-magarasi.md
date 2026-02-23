@@ -52,7 +52,7 @@ Mağaranın çevresinde, various su kaynakları ve ekosistemler bulunuyor. Amik 
 
 Sat Mağarası'nın etrafındaki jeopark, maki bitki örtüsüne ev sahipliği yapıyor. Bu kuraklığa dayanıklı türler, ilkbaharın başlangıcında renkli çiçeklerle bezeniyor. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar bu bölgeyi ziyaret ediyor.
 
-Orman ekosisteminde çeşitli ağaç türleri hakimiyet kuruyor. Bu ağaçlar, orman memelileri ve kuşlar için yaşam alanı sağlıyor. Kıyı ekosistemi, farklı türlerin bir arada yaşamasını mümkün kılıyor. 
+Orman ekosisteminde çeşitli ağaç türleri hakimiyet kuruyor. Bu ağaçlar, orman memelileri ve kuşlar için yaşam alanı sağlıyor. Kıyı ekosistemi, farklı türlerin bir arada yaşamasını mümkün kılıyor.
 
 Bu jeopark, ekolojik ilişkilerin ön planda olduğu bir bölge. Bir türün varlığı, diğer türlerin yaşamını etkiliyor. Bu bölgenin korunması, tüm canlıların dengeli bir şekilde yaşamasını sağlıyor.
 

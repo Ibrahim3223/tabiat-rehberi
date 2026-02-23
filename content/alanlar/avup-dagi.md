@@ -33,7 +33,7 @@ Türkiye'nin çeşitli coğrafi güzelliklerine ev sahipliği yapan bir bölge, 
 
 ## Tarihçe
 
-Avup Dağı, Türkiye'nin zengin tarihi ve kültürel mirasının bir parçası olarak dikkat çekiyor. Bu bölgenin tarihi, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyor. İnsanlık tarihinin önemli ticaret yolları, bu coğrafyanın kalbinde yer alıyor. 
+Avup Dağı, Türkiye'nin zengin tarihi ve kültürel mirasının bir parçası olarak dikkat çekiyor. Bu bölgenin tarihi, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyor. İnsanlık tarihinin önemli ticaret yolları, bu coğrafyanın kalbinde yer alıyor.
 
 Doğal güzellikleri ve stratejik konumuyla Avup Dağı, tarih boyunca insanların dikkatini çekmiş. Yaylacılık ve hayvancılık, bu bölgede yaşayan halkların geleneksel faaliyetleri arasında yer alıyor. Dağın eteklerinde ve çevresindeki vadiler, çeşitli medeniyetler için önemli yerleşim ve geçiş noktaları olarak kullanıldı.
 
@@ -51,9 +51,9 @@ Doğal güzelliklerin bir araya geldiği bu bölgede, Avup Dağı'nın fiziksel 
 
 ## Flora ve Fauna
 
-Avup Dağı, step bitki örtüsünün hakim olduğu bir bozkır bölgesinde yer alır. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. 1200 hektarlık bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı bitki türleri bulunur. Alpin flora, dağların yüksek kesimlerinde hüküm sürer. 
+Avup Dağı, step bitki örtüsünün hakim olduğu bir bozkır bölgesinde yer alır. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. 1200 hektarlık bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı bitki türleri bulunur. Alpin flora, dağların yüksek kesimlerinde hüküm sürer.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Memeliler arasında dağ keçileri ve yaban domuzları bulunurken, kuşlar arasında göçmen kuşlar sonbaharın gelmesiyle birlikte dağları ziyaret eder. Sürüngenler, özellikle dağların kayalık bölgelerinde yaşamlarını sürdürür. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Memeliler arasında dağ keçileri ve yaban domuzları bulunurken, kuşlar arasında göçmen kuşlar sonbaharın gelmesiyle birlikte dağları ziyaret eder. Sürüngenler, özellikle dağların kayalık bölgelerinde yaşamlarını sürdürür.
 
 Avup Dağı'nın ekolojik değeri, bölgeye özgü türlerin korunması açısından önemlidir. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin su döngüsü ve toprağın verimliliğiçin de kritik bir öneme sahiptir.
 

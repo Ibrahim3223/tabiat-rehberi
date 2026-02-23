@@ -50,7 +50,7 @@ Aşık Veysel Rekreasyon Alanı, İzmir'in şehir yaşamının kalbinde yer alma
 
 ## Flora ve Fauna
 
-Aşık Veysel Rekreasyon Alanı, İzmir'in step ve bozkır ekosistemine ev sahipliği yapan benzersiz bir botanik bahçesi. Bu 1200 hektarlık yeşil cennet, mevsimsel değişimlere göre farklı bir güzelliğe bürünür. İlkbaharın gelişiyle birlikte, kuraklığa adapte olan çiçekler renkli bir şölen sunar. 
+Aşık Veysel Rekreasyon Alanı, İzmir'in step ve bozkır ekosistemine ev sahipliği yapan benzersiz bir botanik bahçesi. Bu 1200 hektarlık yeşil cennet, mevsimsel değişimlere göre farklı bir güzelliğe bürünür. İlkbaharın gelişiyle birlikte, kuraklığa adapte olan çiçekler renkli bir şölen sunar.
 
 Bitki örtüsünün hakim olduğu bu alanda, step bitkileri ve bozkır türleri göze çarpar. Bu bitkiler, kuraklığa karşı geliştirdikleri özel adaptasyonlarla hayatta kalma mücadelesi verir. Yaban hayatı ise bu bitkilerin sunduğu yaşam alanlarıyla bağlantılıdır. Memeliler ve kuşlar, bu bitkilerin sağladığı besin ve barınma kaynaklarına bağımlıdır. Sürüngenler de, bu ekosistemin önemli bir parçasını oluşturur.
 

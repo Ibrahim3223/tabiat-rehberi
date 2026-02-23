@@ -28,7 +28,7 @@ wikidata_id: "Q31386505"
 
 # Sarı Kaya Dağı
 
-Sarı Kaya Dağı, Hatay ilinin sınırları içerisinde yer alan ve doğal güzellikleriyle dikkat çeken bir tepe. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Sarı Kaya Dağı, ziyaretçilerini doğal güzellikleriyle karşılar ve burada geçirdiğiniz süre, doğayla iç içe olmanın keyfini yaşatır. Bu bölge, aynı zamanda zengin bir fauna ve flora çeşitliliğine sahip.
+Sarı Kaya Dağı, Hatay ilinin sınırları içerisinde yer alan ve doğal güzellikleriyle dikkat çeken bir tepe. Sarı Kaya Dağı, ziyaretçilerini doğal güzellikleriyle karşılar ve burada geçirdiğiniz süre, doğayla iç içe olmanın keyfini yaşatır. Bu bölge, aynı zamanda zengin bir fauna ve flora çeşitliliğine sahip.
 
 ## Tarihçe
 

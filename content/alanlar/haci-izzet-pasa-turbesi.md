@@ -1,7 +1,7 @@
 ---
 title: "Hacı İzzet Paşa Türbesi"
 date: "2026-01-10T04:56:20.139Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391502"
 
 # Hacı İzzet Paşa Türbesi
 
-Hacı İzzet Paşa Türbesi, Edirne'nin zengin tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine yakın bir konumda bulunur. Bu tarihi türbe, aynı zamanda doğal bir alan olarak da dikkat çeker. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Hacı İzzet Paşa Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor.
+Hacı İzzet Paşa Türbesi, Edirne'nin zengin tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır. Bu tarihi türbe, aynı zamanda doğal bir alan olarak da dikkat çeker. Türbenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Hacı İzzet Paşa Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hacı İzzet Paşa Türbesi, tarihsel bir geçmişe sahiptir. Tarihi hakkında d
 
 ## Coğrafya
 
-Hacı İzzet Paşa Türbesi, Edirne'nininde yer alır ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle ılıman bir iklime sahiptir ve dört mevsim belirgin olarak yaşanır. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Bu doğal alan, ziyaretçilere şehrin gürültüsünden uzaklaşarak doğayla iç içe olmak için bir fırsat sunar. Türbenin coğrafi konumu, ziyaretçilerin Edirne'nin tarihi ve doğal güzelliklerini keşfetmesini kolaylaştırır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezine yakın bir konumda bulunur. Bu konum, ziyaretçilerin türbeyi kolayca erişebilmesini sağlar.
+Hacı İzzet Paşa Türbesi, Edirne'nininde yer alır ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle ılıman bir iklime sahiptir ve dört mevsim belirgin olarak yaşanır. Türbenin etrafında, çeşitli bitki türleri ve ağaçlar bulunur. Bu doğal alan, ziyaretçilere şehrin gürültüsünden uzaklaşarak doğayla iç içe olmak için bir fırsat sunar. Türbenin coğrafi konumu, ziyaretçilerin Edirne'nin tarihi ve doğal güzelliklerini keşfetmesini kolaylaştırır. Bu konum, ziyaretçilerin türbeyi kolayca erişebilmesini sağlar.
 
 ## Flora ve Fauna
 

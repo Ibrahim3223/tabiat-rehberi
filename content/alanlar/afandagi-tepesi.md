@@ -28,7 +28,7 @@ wikidata_id: "Q31390776"
 
 # Afandağı Tepesi
 
-Afandağı Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte oldukça geniş bir alanı kaplar. Bu tepe, bölgenin coğrafyasını şekillendiren önemli bir nokta ve aynı zamanda doğal güzelliği ile dikkat çekiyor. Afandağı Tepesi, özellikle doğa severler ve trekkingDoing yapanlar için önemli bir destinasyon.
+Afandağı Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, bölgenin coğrafyasını şekillendiren önemli bir nokta ve aynı zamanda doğal güzelliği ile dikkat çekiyor. Afandağı Tepesi, özellikle doğa severler ve trekkingDoing yapanlar için önemli bir destinasyon.
 
 ## Tarihçe
 

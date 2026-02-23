@@ -28,7 +28,7 @@ wikidata_id: "Q34873415"
 
 # Gürgen Tepesi
 
-Gürgen Tepesi, Ordu ilinin sınırları içerisinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepenin etrafı, çeşitli bitki türleriyle dolu ormanlarla çevrilidir ve ziyaretçilere doğayla iç içe bir deneyim sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilerin keyifle dolaşmasına olanak tanır. Gürgen Tepesi, özellikle doğa severlerin ve trekkingDoing sevenlerin ilgisini çeker.
+Gürgen Tepesi, Ordu ilinin sınırları içerisinde yer alan ve Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu tepenin etrafı, çeşitli bitki türleriyle dolu ormanlarla çevrilidir ve ziyaretçilere doğayla iç içe bir deneyim sunar. Gürgen Tepesi, özellikle doğa severlerin ve trekkingDoing sevenlerin ilgisini çeker.
 
 ## Tarihçe
 

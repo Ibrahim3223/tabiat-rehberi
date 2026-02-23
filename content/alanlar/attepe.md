@@ -28,7 +28,7 @@ wikidata_id: "Q31390900"
 
 # Attepe
 
-Attepe, Yozgat'ın doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla baş başa bırakmaya hazır. İç Anadolu Bölgesi'nin kalbinde yer alan Attepe, coğrafi konumu itibariyle de önemli bir nokta. Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor ve ziyaretçilerine doğanın güzelliğini sunuyor.
+Attepe, Yozgat'ın doğal güzelliklerinden biri olarak dikkat çekiyor. İç Anadolu Bölgesi'nin kalbinde yer alan Attepe, coğrafi konumu itibariyle de önemli bir nokta. Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çekiyor ve ziyaretçilerine doğanın güzelliğini sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Attepe'yi ziyaret etmek, doğanın güzelliği ile baş başa kalmak isteyenler 
 ## İlginç Bilgiler
 
 - Attepe, 140 hektarlık bir alana sahiptir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Attepe, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır.
 - Bu bölge, zengin flora ve fauna çeşitliliği ile dikkat çeker.
 - Attepe, ziyaretçilerini dört mevsim farklı güzelliği ile karşılayacak şekilde şekillenmiştir.

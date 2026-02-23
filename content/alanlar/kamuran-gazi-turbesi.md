@@ -1,7 +1,7 @@
 ---
 title: "Kamuran Gazi Türbesi"
 date: "2026-01-10T04:59:57.594Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391468"
 
 # Kamuran Gazi Türbesi
 
-Kamuran Gazi Türbesi, Marmara Bölgesi'nin kalbinde, Bozüyük ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu özel mekan, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tarihi geçmişi ve eşsiz doğası ile ziyaretçilerini cezbeden Kamuran Gazi Türbesi, aynı zamanda bir plaj olarak da hizmet veriyor. Burada, hem tarihi bir türbe hem de güzel bir plajın keyfini çıkarabilirsiniz. Bu alan, hem doğa severler hem de tarih meraklıları için bir çekim noktası olarak görev yapıyor.
+Kamuran Gazi Türbesi, Marmara Bölgesi'nin kalbinde, Bozüyük ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Tarihi geçmişi ve eşsiz doğası ile ziyaretçilerini cezbeden Kamuran Gazi Türbesi, aynı zamanda bir plaj olarak da hizmet veriyor. Burada, hem tarihi bir türbe hem de güzel bir plajın keyfini çıkarabilirsiniz. Bu alan, hem doğa severler hem de tarih meraklıları için bir çekim noktası olarak görev yapıyor.
 
 ## Tarihçe
 

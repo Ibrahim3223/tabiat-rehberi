@@ -1,7 +1,7 @@
 ---
 title: "İlyas Bey Türbesi"
 date: "2026-01-10T06:58:30.512Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390879"
 
 # İlyas Bey Türbesi
 
-İlyas Bey Türbesi, Kocaeli'nin Gebze ilçesinde yer alan bir tarih ve kültür mirasıdır. Bu türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş ve çevresindeki yeşilliklerle birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. İlyas Bey Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar. Burada, tarihi yapıların güzelliği ile birlikte çevredeki çeşitli bitki türleri ve zengin fauna da görülebilir. Bu nedenle, İlyas Bey Türbesi hem tarih meraklıları hem de doğa severler için önemli bir gezi noktasıdır.
+İlyas Bey Türbesi, Kocaeli'nin Gebze ilçesinde yer alan bir tarih ve kültür mirasıdır. İlyas Bey Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar. Burada, tarihi yapıların güzelliği ile birlikte çevredeki çeşitli bitki türleri ve zengin fauna da görülebilir. Bu nedenle, İlyas Bey Türbesi hem tarih meraklıları hem de doğa severler için önemli bir gezi noktasıdır.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ wikidata_id: "Q131390879"
 
 ## Ziyaret Bilgileri
 
-İlyas Bey Türbesi'ni ziyaret etmek, hem tarih meraklıları hem de doğa severler için önemli bir deneyimdir. Türbeye gitmek için, Gebze ilçesine ulaşmak gerekir. Burada, toplu taşıma araçları veya özel araçlarla ulaşım fácil olabilir. İlyas Bey Türbesi, yılın her mevsiminde ziyaret edilebilir, ancak ilkbahar ve yaz ayları daha güzel bir manzara sunar. Ziyaretçilerin, türbenin tarihi ve kültürel önemini anlamak için rehber eşliğinde geziye katılmaları önerilir.
+İlyas Bey Türbesi'ni ziyaret etmek, hem tarih meraklıları hem de doğa severler için önemli bir deneyimdir. Türbeye gitmek için, Gebze ilçesine ulaşmak gerekir. Burada, toplu taşıma araçları veya özel araçlarla ulaşım kolay olabilir. İlyas Bey Türbesi, yılın her mevsiminde ziyaret edilebilir, ancak ilkbahar ve yaz ayları daha güzel bir manzara sunar. Ziyaretçilerin, türbenin tarihi ve kültürel önemini anlamak için rehber eşliğinde geziye katılmaları önerilir.
 
 ## İlginç Bilgiler
 

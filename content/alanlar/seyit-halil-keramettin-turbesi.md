@@ -1,7 +1,7 @@
 ---
 title: "Seyit Halil Keramettin Türbesi"
 date: "2026-01-10T05:21:21.581Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391706"
 
 # Seyit Halil Keramettin Türbesi
 
-Seyit Halil Keramettin Türbesi, İç Anadolu Bölgesi'nin kalbinde, Kayseri'nin Akkışla ilçesinde yer alan tarihi ve kültürel bir zenginlik. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde. Seyit Halil Keramettin Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerin birleştiği bir noktaya davet ediyor. Burada, tarihi yapılar, çevreyi süsleyen ağaçlar ve doğal güzellikler bir arada bulunuyor. Bu mekan, hem tarihi sevenler hem de doğayı sevenler için gerçek bir hazine.
+Seyit Halil Keramettin Türbesi, İç Anadolu Bölgesi'nin kalbinde, Kayseri'nin Akkışla ilçesinde yer alan tarihi ve kültürel bir zenginlik. Seyit Halil Keramettin Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerin birleştiği bir noktaya davet ediyor. Burada, tarihi yapılar, çevreyi süsleyen ağaçlar ve doğal güzellikler bir arada bulunuyor. Bu mekan, hem tarihi sevenler hem de doğayı sevenler için gerçek bir hazine.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387836"
 
 # Kurttaşı Tepesi
 
-Kurttaşı Tepesi, Erzurum'un gözde doğal güzelliğidir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini etkileyici manzaralarıyla karşılar. Doğa severlerin ve Photographerların gözdesi olan bu tepe, Erzurum'un tarihi ve kültürel zenginliklerini de bünyesinde barındırır. Kurttaşı Tepesi, özellikle güneşin batış saatlerinde, ziyaretçilerine unutulmaz anlar yaşatır. Bu tepe, hem doğa tutkunları hem de tarih meraklıları için bir hazine niteliğindedir.
+Kurttaşı Tepesi, Erzurum'un gözde doğal güzelliğidir. Doğa severlerin ve Photographerların gözdesi olan bu tepe, Erzurum'un tarihi ve kültürel zenginliklerini de bünyesinde barındırır. Bu tepe, hem doğa tutkunları hem de tarih meraklıları için bir hazine niteliğindedir.
 
 ## Tarihçe
 

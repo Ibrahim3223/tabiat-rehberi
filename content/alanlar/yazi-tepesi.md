@@ -28,7 +28,7 @@ wikidata_id: "Q31390813"
 
 # Yazı Tepesi
 
-Yazı Tepesi, Yozgat ilinin sınırları içerisinde, İç Anadolu Bölgesi'nin coğrafi yapısını sergileyen bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini gözler önüne seriyor. Yazı Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, doğayla iç içe bir ortam sunuyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunuyor, bu da bölgeyi ekolojik açıdan zenginleştiriyor. Yazı Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir doğal ve kültürel merkez olarak kabul ediliyor.
+Yazı Tepesi, Yozgat ilinin sınırları içerisinde, İç Anadolu Bölgesi'nin coğrafi yapısını sergileyen bir tepe. Yazı Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştıran, doğayla iç içe bir ortam sunuyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunuyor, bu da bölgeyi ekolojik açıdan zenginleştiriyor. Yazı Tepesi, hem yerel halk hem de ziyaretçiler için önemli bir doğal ve kültürel merkez olarak kabul ediliyor.
 
 ## Tarihçe
 

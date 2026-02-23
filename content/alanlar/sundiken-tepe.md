@@ -32,9 +32,9 @@ Eskişehir'in doğal güzelliklerini keşfetmek isteyenler için Sündiken Tepe,
 
 ## Tarihçe
 
-Eskişehir bölgesi, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş bir coğrafyadır. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuşlardır. Sündiken Tepe, bu zengin tarihsel mirasın bir parçası olarak görülüyor. 
+Eskişehir bölgesi, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş bir coğrafyadır. Hitit, Frig, Roma ve Osmanlı gibi medeniyetler bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuşlardır. Sündiken Tepe, bu zengin tarihsel mirasın bir parçası olarak görülüyor.
 
-Türkiye'de doğal alanlar, tarihsel olarak insanların yaşamlarında önemli bir rol oynamıştır. Bu bölgeler, yaylacılık, hayvancılık ve ticaret yolları için vždy değer verilen yerler olarak kabul edilmişlerdir. Sündiken Tepe gibi dağlar, bu faaliyetler için elverişli ortamlar sunmuş ve bölgenin ekonomi ve sosyal yapısına katkıda bulunmuştur. 
+Türkiye'de doğal alanlar, tarihsel olarak insanların yaşamlarında önemli bir rol oynamıştır. Bu bölgeler, yaylacılık, hayvancılık ve ticaret yolları için vždy değer verilen yerler olarak kabul edilmişlerdir. Sündiken Tepe gibi dağlar, bu faaliyetler için elverişli ortamlar sunmuş ve bölgenin ekonomi ve sosyal yapısına katkıda bulunmuştur.
 
 İnsanların bu tür doğal alanlarla ilişkisi, sadece ekonomik faaliyetlerle sınırlı değildir. Bu bölgeler, aynı zamanda kültürel ve manevi değerler taşımaktadır. Yayla ve dağlık alanlar, halkın geleneksel yaşam tarzının bir parçası olarak görülmüş ve sosyal yaşantıya yön vermiştir. Sündiken Tepe, bu bağlamda Eskişehir bölgesinin tarihsel ve kültürel kimliğinin önemli bir bileşeni olarak karşımıza çıkıyor.
 
@@ -50,9 +50,9 @@ Mevsimsel değişiklikler, Sündiken Tepe'nin iklim karakterini şekillendirmekt
 
 ## Flora ve Fauna
 
-Sündiken Tepe, Eskişehir'in göbeğinde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler hüküm sürüyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. 
+Sündiken Tepe, Eskişehir'in göbeğinde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. Step bitki örtüsü ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler hüküm sürüyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor.
 
-Bu dağda, memeliler ve kuşlar önemli bir yer tutuyor. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yükseklik zonlarında yaşamını sürdürüyor. Kuşlar ise, özellikle sonbaharda göç eden türlerle renkleniyor. 
+Bu dağda, memeliler ve kuşlar önemli bir yer tutuyor. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yükseklik zonlarında yaşamını sürdürüyor. Kuşlar ise, özellikle sonbaharda göç eden türlerle renkleniyor.
 
 Sündiken Tepe'nin ekolojik değeri, bu dağ ekosisteminin koruma altına alınması gerektiğini vurguluyor. Bu alanın korunması, sadece burada yaşayan türlerin değil, aynı zamanda tüm bölge ekosisteminin dengesini sağlıyor.
 

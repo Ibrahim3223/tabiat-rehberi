@@ -28,7 +28,7 @@ wikidata_id: "Q32138545"
 
 # Gömer Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin önemli coğrafi güzelliklerinden biri olan Gömer Tepesi, Şanlıurfa ilinin sınırları içerisinde yer alır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Gömer Tepesi, ziyaretçilerini bölgeye özgü floranın çeşitliliği ve fauna ile karşılaşma fırsatı sunar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunur.
+Güneydoğu Anadolu Bölgesi'nin önemli coğrafi güzelliklerinden biri olan Gömer Tepesi, Şanlıurfa ilinin sınırları içerisinde yer alır. Gömer Tepesi, ziyaretçilerini bölgeye özgü floranın çeşitliliği ve fauna ile karşılaşma fırsatı sunar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve ağaçlar bulunur.
 
 ## Tarihçe
 

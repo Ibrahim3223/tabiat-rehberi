@@ -1,7 +1,7 @@
 ---
 title: "Şeyh İzzettin Türbesi, Altındağ"
 date: "2026-01-10T06:41:44.096Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582402"
 
 # Şeyh İzzettin Türbesi, Altındağ
 
-Şeyh İzzettin Türbesi, Ankara'nın Altındağ ilçesinde yer alan bir tarihi ve dini merkez. Bu önemli mekan, Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için bir çekim merkezi. 140 hektarlık bir alanda bulunan Şeyh İzzettin Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş alan, ziyaretçilere geniş bir ve tarihi bir atmosfer sunuyor. Şeyh İzzettin Türbesi, Ankara'nın en önemli tarihi mekanlarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
+Şeyh İzzettin Türbesi, Ankara'nın Altındağ ilçesinde yer alan bir tarihi ve dini merkez. Bu önemli mekan, Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için bir çekim merkezi. Bu geniş alan, ziyaretçilere geniş bir ve tarihi bir atmosfer sunuyor. Şeyh İzzettin Türbesi, Ankara'nın en önemli tarihi mekanlarından biri olarak kabul ediliyor ve her yıl binlerce ziyaretçi tarafından ziyaret ediliyor.
 
 ## Tarihçe
 

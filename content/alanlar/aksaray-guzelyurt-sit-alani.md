@@ -1,7 +1,7 @@
 ---
 title: "Aksaray Güzelyurt Sit Alanı"
 date: "2026-01-09T18:55:30.261Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226238"
 
 # Aksaray Güzelyurt Sit Alanı
 
-Aksaray Güzelyurt Sit Alanı, 140 hektarlık genişlikteki yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Bu alan, ziyaretçilerini doğanın içinde bir macera dolu yolculuğa davet ediyor. İç Anadolu Bölgesi'nin kalbinde yer alan bu sit alanı, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başarmıştır. Aksaray Güzelyurt Sit Alanı'nın büyüklüğü ve güzelliği, onu bölgenin en önemli doğal miraslarından biri haline getirmiştir.
+ Bu alan, ziyaretçilerini doğanın içinde bir macera dolu yolculuğa davet ediyor. İç Anadolu Bölgesi'nin kalbinde yer alan bu sit alanı, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başarmıştır. Aksaray Güzelyurt Sit Alanı'nın büyüklüğü ve güzelliği, onu bölgenin en önemli doğal miraslarından biri haline getirmiştir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Aksaray Güzelyurt Sit Alanı, ziyaretçilerini bekliyor. Bu alan, doğal güzel
 
 ## İlginç Bilgiler
 
-- Aksaray Güzelyurt Sit Alanı, 140 hektarlık genişlikteki yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir.
 - Bu alan, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır.
 - Aksaray Güzelyurt Sit Alanı, coğrafi olarak çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir.
 - Bu sit alanı, farklı mevsimlerde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir.

@@ -28,7 +28,7 @@ wikidata_id: "Q34822128"
 
 # Yalçılı Tepesi
 
-Yalçılı Tepesi, Ankara'nın merkezine yakın bir konumda yer alan ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Yalçılı Tepesi, ziyaretçilerine şehrin panoramik manzarasını sunar ve özellikle gün batımı saatlerinde ziyaret edildiğinde, muhteşem bir görüş sunar.
+Yalçılı Tepesi, Ankara'nın merkezine yakın bir konumda yer alan ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Yalçılı Tepesi, ziyaretçilerine şehrin panoramik manzarasını sunar ve özellikle gün batımı saatlerinde ziyaret edildiğinde, muhteşem bir görüş sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yalçılı Tepesi'nin tarihi geçmişi, Ankara'nın tarihinde önemli bir yer tu
 
 ## Coğrafya
 
-Yalçılı Tepesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde, Ankara'nın şehir merkezine yakın bir konumda yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Yalçılı Tepesi'nin coğrafi yapısı, genellikle tepelik bir araziye sahiptir ve bu reasonsız yapı, ziyaretçilerine şehrin panoramik manzarasını sunar. Ayrıca, bu tepe, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, özellikle ilkbahar ve yaz aylarında, renkli bir görünüm sunar. Yalçılı Tepesi, Ankara'nın şehir merkezinden kolayca erişilebilecek bir mesafededir ve bu reason, ziyaretçilerin bu tepeye ulaşmasını kolaylaştırır.
+Yalçılı Tepesi, İç Anadolu Bölgesi'nin coğrafi özellikleri ile uyumlu bir şekilde, Ankara'nın şehir merkezine yakın bir konumda yer alır. Yalçılı Tepesi'nin coğrafi yapısı, genellikle tepelik bir araziye sahiptir ve bu reasonsız yapı, ziyaretçilerine şehrin panoramik manzarasını sunar. Ayrıca, bu tepe, çeşitli bitki türleri ile kaplıdır ve bu bitkiler, özellikle ilkbahar ve yaz aylarında, renkli bir görünüm sunar. Yalçılı Tepesi, Ankara'nın şehir merkezinden kolayca erişilebilecek bir mesafededir ve bu reason, ziyaretçilerin bu tepeye ulaşmasını kolaylaştırır.
 
 ## Flora ve Fauna
 

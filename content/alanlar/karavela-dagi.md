@@ -32,13 +32,13 @@ Hakkari'nin dağlık arazisinde yer alan Karavela Dağı, Türkiye'nin en uzak k
 
 ## Tarihçe
 
-Hakkari'nin yüksek dağları, yüzyıllar boyunca çeşitli uygarlıkların geçiş noktaları olarak hizmet vermişlerdir. Bölge, tarihin sâu sayfalarında Urartular, Asurlular ve Perslerin egemenliğinde kalmıştır. Karavela Dağı da bu tarihi coğrafyanın bir parçasıdır. Türkiye'de benzer doğal alanlar, binlerce yıl boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve yaylacılık yapan topluluklar için önemli merkezler olarak görev görmüşlerdir. Bu dağlık bölgeler, aynı zamanda tarihi ticaret yollarını da barındırmış, insanların ve kültürlerin birbirleriyle etkileşimine sahne olmuştur. Karavela Dağı'nın da bu geniş tarihi resmin bir parçası olduğu düşünülürse, buranın insanlık tarihi açısından taşıdığı önem daha da netleşir. Bu doğal alanların korunması, sadece bölgenin ekolojik dengesini korumak için değil, aynı zamanda tarihsel mirasımızı gelecek nesillere aktarmak için de büyük önem taşır.
+Hakkari'nin yüksek dağları, yüzyıllar boyunca çeşitli uygarlıkların geçiş noktaları olarak hizmet vermişlerdir. Bölge, tarihin derin sayfalarında Urartular, Asurlular ve Perslerin egemenliğinde kalmıştır. Karavela Dağı da bu tarihi coğrafyanın bir parçasıdır. Türkiye'de benzer doğal alanlar, binlerce yıl boyunca insanların yaşamlarını sürdürdükleri, hayvancılık ve yaylacılık yapan topluluklar için önemli merkezler olarak görev görmüşlerdir. Bu dağlık bölgeler, aynı zamanda tarihi ticaret yollarını da barındırmış, insanların ve kültürlerin birbirleriyle etkileşimine sahne olmuştur. Karavela Dağı'nın da bu geniş tarihi resmin bir parçası olduğu düşünülürse, buranın insanlık tarihi açısından taşıdığı önem daha da netleşir. Bu doğal alanların korunması, sadece bölgenin ekolojik dengesini korumak için değil, aynı zamanda tarihsel mirasımızı gelecek nesillere aktarmak için de büyük önem taşır.
 
 ## Coğrafya
 
 Doğu Anadolu Bölgesi'nin ücra köşesinde yer alan Karavela Dağı, 37.6197°K, 44.2628°D koordinatlarında, Hakkari ilinin sınırları içerisinde bulunmaktadır. Bu dağ, ilin merkezine yaklaşık 30 kilometre uzaklıkta, bölgenin en önemli doğal oluşumlarından biridir.
 
-Jeolojik açıdan incelendiğinde, Karavela Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin coğrafi özellikleri düşünüldüğünde, dağlık bir arazinin parçası olduğu söylenebilir. Bu régionun coğrafi yapısı, genellikle yüksek dağlar ve derin vadilerle karakterizedir. Karavela Dağı, bu bölgeye özgü coğrafi oluşumların bir parçası olarak, bölgenin doğal güzelliğine katkıda bulunmaktadır.
+Jeolojik açıdan incelendiğinde, Karavela Dağı'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin coğrafi özellikleri düşünüldüğünde, dağlık bir arazinin parçası olduğu söylenebilir. Bu bölgenin coğrafi yapısı, genellikle yüksek dağlar ve derin vadilerle karakterizedir. Karavela Dağı, bu bölgeye özgü coğrafi oluşumların bir parçası olarak, bölgenin doğal güzelliğine katkıda bulunmaktadır.
 
 İklim açısından, Karavela Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir alandır. Bu bölgede, yazlar sıcak ve kurak, kışlar ise soğuk ve kar yağışlı geçer. Dağın rakımı, bölgenin iklim koşullarını etkileyen önemli bir faktördür. Eiffel Kulesi'nin yaklaşık 5 katı yükseklikte olan bu dağ, bölgenin hava koşullarını belirlemede önemli bir rol oynamaktadır.
 
@@ -46,7 +46,7 @@ Jeolojik açıdan incelendiğinde, Karavela Dağı'nın fiziksel yapısı hakkı
 
 ## Flora ve Fauna
 
-Karavela Dağı, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Karavela Dağı, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Dağın yükseklik zonlarında, ilkbaharla birlikte rengarenk çiçekler açarak, alpin çayırların güzelliğini gösterir. Bitki örtüsünün hakim türleri, dağların zorlu koşullarına adapte olmuş, dayanıklı türlerdir. Sonbaharda, dağların yüksekliklerine göre değişen renk paleti, ziyaretçilere eşsiz bir manzara sunar.
 
 Karavela Dağı, çeşitli yaban hayvanlarına ev sahipliği yapar. Dağ keçileri ve yırtıcı kuşlar, bu dağların yüksekliklerinde yaşamlarını sürdürür. Sürüngenler ve diğer küçük hayvanlar, dağların kayalık ve taşlık alanlarında yaşamlarını devam ettirir. Bu dağların ekolojik değeri, yüksek dağ ekolojisine ve endemik türlerine ev sahipliği yapmasıdır. Bu nedenle, koruma altına alınması ve doğal dengesinin korunması önemlidir.

@@ -1,7 +1,7 @@
 ---
 title: "Gümrük Hamamı"
 date: "2026-01-09T22:59:00.022Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738826"
 
 # Gümrük Hamamı
 
-Gümrük Hamamı, Doğu Anadolu Bölgesi'nin en güzel plajlarından biridir. Yakutiye ilçesinde yer alan bu plaj, Erzurum'un merkezine uzun bir mesafe uzaklıktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir alan sunmaktadır. Gümrük Hamamı, doğa severlerin ve plaj severlerin uğrak noktalarından biri haline gelmiştir. Burada, temiz ve berrak suların keyfini çıkarabilir, güneşin tadını çıkarabilir ve doğanın güzelliğini keşfedebilirsiniz.
+Gümrük Hamamı, Doğu Anadolu Bölgesi'nin en güzel plajlarından biridir. Yakutiye ilçesinde yer alan bu plaj, Erzurum'un merkezine uzun bir mesafe uzaklıktadır. Gümrük Hamamı, doğa severlerin ve plaj severlerin uğrak noktalarından biri haline gelmiştir. Burada, temiz ve berrak suların keyfini çıkarabilir, güneşin tadını çıkarabilir ve doğanın güzelliğini keşfedebilirsiniz.
 
 ## Tarihçe
 

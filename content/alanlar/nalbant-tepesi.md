@@ -28,7 +28,7 @@ wikidata_id: "Q31388311"
 
 # Nalbant Tepesi
 
-Nalbant Tepesi, Kars ilinin sınırları içerisinde yer alan bir tepe olarak doğa severlerin ilgisini çekmektedir. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Kars'ın coğrafi yapısına uygun olarak oluşmuş bu tepe, ziyaretçilere şehrin panoramik manzarasını sunar. Nalbant Tepesi, özellikle doğa yürüyüşü ve trekking gibi outdoor etkinlikler için ideal bir destinasyon olarak dikkat çeker.
+Nalbant Tepesi, Kars ilinin sınırları içerisinde yer alan bir tepe olarak doğa severlerin ilgisini çekmektedir. Kars'ın coğrafi yapısına uygun olarak oluşmuş bu tepe, ziyaretçilere şehrin panoramik manzarasını sunar. Nalbant Tepesi, özellikle doğa yürüyüşü ve trekking gibi outdoor etkinlikler için ideal bir destinasyon olarak dikkat çeker.
 
 ## Tarihçe
 

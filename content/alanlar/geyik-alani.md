@@ -22,7 +22,7 @@ wikidata_id: "Q28451110"
 
 # Geyik Alani
 
-Geyik Alani, Eskişehir'in kalbinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin kalabalığından kaçmak isteyenler için bir sığınak görevi görüyor. Geyik Alani, aynı zamanda yaban hayatının zenginliğini koruma altına almak amacıyla kurulmuş bir milli parktır. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Geyik Alani, Eskişehir'in önemli turizm merkezlerinden biri olarak kabul ediliyor.
+Geyik Alani, Eskişehir'in kalbinde yer alan 140 hektarlık bir yeşil alandır. Geyik Alani, aynı zamanda yaban hayatının zenginliğini koruma altına almak amacıyla kurulmuş bir milli parktır. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Geyik Alani, Eskişehir'in önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

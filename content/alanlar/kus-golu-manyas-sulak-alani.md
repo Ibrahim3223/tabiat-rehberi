@@ -22,7 +22,7 @@ wikidata_id: "Q108228818"
 
 # Kuş Gölü (Manyas) Sulak Alanı
 
-Kuş Gölü (Manyas) Sulak Alanı, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, İç Anadolu Bölgesi'nde yer alır. Sulak Alanın etrafında yer alan dağlar ve ovalar, bu bölgeyi benzersiz bir ekosisteme dönüştürür. Kuş Gölü, birçok canlı türünün yaşadığı önemli bir sulak alan olup, aynı zamanda önemli bir göç yolu üzerinde yer alır. Bu sulak alan, birçok kuş türünün yuvalanma ve beslenme alanı olarak görev yapar.
+Kuş Gölü (Manyas) Sulak Alanı, yaklaşık 140 hektarlık bir alanı kaplar. Sulak Alanın etrafında yer alan dağlar ve ovalar, bu bölgeyi benzersiz bir ekosisteme dönüştürür. Kuş Gölü, birçok canlı türünün yaşadığı önemli bir sulak alan olup, aynı zamanda önemli bir göç yolu üzerinde yer alır. Bu sulak alan, birçok kuş türünün yuvalanma ve beslenme alanı olarak görev yapar.
 
 ## Tarihçe
 

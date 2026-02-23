@@ -1,7 +1,7 @@
 ---
 title: "Şaban Dede Türbesi"
 date: "2026-01-10T05:08:49.171Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391575"
 
 # Şaban Dede Türbesi
 
-Şaban Dede Türbesi, Pamukkale'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Şaban Dede Türbesi, hem tarihi hem de doğal güzellikleri ile dikkat çekiyor. Denizli'nin Pamukkale ilçesinde bulunan bu özel yer, Ege Bölgesi'nin önemli turizm noktalarından biri olarak karşımıza çıkıyor. Şaban Dede Türbesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
+Şaban Dede Türbesi, Pamukkale'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir nokta. Şaban Dede Türbesi, hem tarihi hem de doğal güzellikleri ile dikkat çekiyor. Denizli'nin Pamukkale ilçesinde bulunan bu özel yer, Ege Bölgesi'nin önemli turizm noktalarından biri olarak karşımıza çıkıyor. Şaban Dede Türbesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391575"
 
 ## Coğrafya
 
-Şaban Dede Türbesi, Pamukkale'nin coğrafi güzelliklerini bir araya getiren özel bir nokta. Bu alan, 140 hektarlık bir yeşil alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Şaban Dede Türbesi, Pamukkale'nin doğal güzelliklerini ziyaretçilerine sunar ve Ege Bölgesi'nin coğrafi açıdan önemli noktalarından biri olarak kabul edilir. Şaban Dede Türbesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar. Şaban Dede Türbesi, Pamukkale'nin iklimine uygun bir şekilde tasarlanmış ve ziyaretçilerine konforlu bir deneyim sunar. Şaban Dede Türbesi, Denizli'nin önemli coğrafi noktalarından biri olarak kabul edilir ve ziyaretçilerine Pamukkale'nin doğal güzelliklerini keşfetme fırsatı sunar.
+Şaban Dede Türbesi, Pamukkale'nin coğrafi güzelliklerini bir araya getiren özel bir nokta. Şaban Dede Türbesi, Pamukkale'nin doğal güzelliklerini ziyaretçilerine sunar ve Ege Bölgesi'nin coğrafi açıdan önemli noktalarından biri olarak kabul edilir. Şaban Dede Türbesi'nin etrafı, çeşitli bitki türleri ile çevrilidir ve ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar. Şaban Dede Türbesi, Pamukkale'nin iklimine uygun bir şekilde tasarlanmış ve ziyaretçilerine konforlu bir deneyim sunar. Şaban Dede Türbesi, Denizli'nin önemli coğrafi noktalarından biri olarak kabul edilir ve ziyaretçilerine Pamukkale'nin doğal güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

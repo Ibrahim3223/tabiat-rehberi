@@ -29,7 +29,7 @@ wikidata_id: "Q31386085"
 
 # Akkayatepe
 
-Akkayatepe, İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinmektedir. Bu bölge, coğrafyası ve tarihi geçmişiyle dikkat çekmektedir. 140 hektarlık bir alanı kapsayan Akkayatepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, etrafındaki diğer coğrafi oluşumlar ile birlikte bir bütün olarak görülebilir. Akkayatepe'nin yüksekliği ve konumu, etrafındaki manzarayı seyretmek için ideal bir nokta oluşturur. Bu tepe, özellikle doğa severler ve coğrafya meraklıları için önemli bir destinasyon olarak karşımıza çıkar.
+Akkayatepe, İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinmektedir. Bu bölge, coğrafyası ve tarihi geçmişiyle dikkat çekmektedir. Bu tepe, etrafındaki diğer coğrafi oluşumlar ile birlikte bir bütün olarak görülebilir. Akkayatepe'nin yüksekliği ve konumu, etrafındaki manzarayı seyretmek için ideal bir nokta oluşturur. Bu tepe, özellikle doğa severler ve coğrafya meraklıları için önemli bir destinasyon olarak karşımıza çıkar.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Akkayatepe'yi ziyaret etmek, özellikle doğa severler ve coğrafya meraklılar�
 ## İlginç Bilgiler
 
 - Akkayatepe, 140 hektarlık bir alanı kapsar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Akkayatepe, İç Anadolu Bölgesi'nde yer alır.
 - Bu tepe, özellikle doğa severler ve coğrafya meraklıları için önemli bir destinasyon olarak karşımıza çıkar.
 - Akkayatepe'nin flora ve fauna açısından zengin bir yapıya sahip olduğu söylenebilir.

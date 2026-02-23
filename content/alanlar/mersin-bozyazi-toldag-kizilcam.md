@@ -22,7 +22,7 @@ wikidata_id: "Q108228058"
 
 # Mersin Bozyazi Toldag-Kızılçam
 
-Mersin Bozyazi Toldag-Kızılçam milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliği sunuyor. İç Anadolu Bölgesi'nin bu güzel köşesinde, ziyaretçiler doğanın tüm güzelliğini keşfedebilir. parkın geniş alanları, gezi için ideal bir ortam sunuyor. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor.
+ İç Anadolu Bölgesi'nin bu güzel köşesinde, ziyaretçiler doğanın tüm güzelliğini keşfedebilir. parkın geniş alanları, gezi için ideal bir ortam sunuyor. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Mersin Bozyazi Toldag-Kızılçam milli parkının tarihi geçmişi, yüzyıllar
 
 ## Coğrafya
 
-Mersin Bozyazi Toldag-Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. parkın coğrafi yapısı, ziyaretçilerine geniş ve yeşil alanlar sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerin gezmelerine olanak tanır. parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. parkın etrafı, çeşitli bitki türleriyle dolu ve ziyaretçilere doğal bir ortam sunuyor. parkın coğrafi konumu, ziyaretçilerin doğayla iç içe olmasını sağlıyor ve gezi için ideal bir ortam sunuyor.
+Mersin Bozyazi Toldag-Kızılçam milli parkı, İç Anadolu Bölgesi'nde yer alıyor. parkın coğrafi yapısı, ziyaretçilerine geniş ve yeşil alanlar sunuyor. parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak karasal bir yapıya sahiptir. parkın etrafı, çeşitli bitki türleriyle dolu ve ziyaretçilere doğal bir ortam sunuyor. parkın coğrafi konumu, ziyaretçilerin doğayla iç içe olmasını sağlıyor ve gezi için ideal bir ortam sunuyor.
 
 ## Flora ve Fauna
 

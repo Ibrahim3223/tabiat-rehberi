@@ -22,7 +22,7 @@ wikidata_id: "Q108227665"
 
 # Mugla-Fethiye-Uzumlu Kızılçam
 
-Mugla-Fethiye-Uzumlu Kızılçam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilere doğanın güzelliğini ve zenginliğini sunuyor. İç Anadolu Bölgesi'nde bulunan bu milli park, ziyaretçilerini güzel manzaralar ve çeşitli faaliyetlerle karşılıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile dikkat çekiyor. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, güzel manzaraları izleyebilir ve doğanın güzelliğini keşfedebilir.
+ Bu alan, ziyaretçilere doğanın güzelliğini ve zenginliğini sunuyor. İç Anadolu Bölgesi'nde bulunan bu milli park, ziyaretçilerini güzel manzaralar ve çeşitli faaliyetlerle karşılıyor. Ziyaretçiler, bu alanda doğa yürüyüşleri yapabilir, güzel manzaraları izleyebilir ve doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 

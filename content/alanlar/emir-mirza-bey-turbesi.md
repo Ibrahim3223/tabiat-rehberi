@@ -1,7 +1,7 @@
 ---
 title: "Emir Mirza Bey Türbesi"
 date: "2026-01-10T07:32:00.610Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391311"
 
 # Emir Mirza Bey Türbesi
 
-Trabzon'un Bafra ilçesinde yer alan Emir Mirza Bey Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğündeki yeşil alanı ve tarihi geçmişiyle ziyaretçilerini cezbediyor. Emir Mirza Bey Türbesi, coğrafi olarak İç Anadolu Bölgesi'nde yer alan Bafra ilçesinde bulunuyor. İlçe, coğrafi çeşitliliği ve tarihi mekanlarıyla bilinen bir bölge.
+ Emir Mirza Bey Türbesi, coğrafi olarak İç Anadolu Bölgesi'nde yer alan Bafra ilçesinde bulunuyor. İlçe, coğrafi çeşitliliği ve tarihi mekanlarıyla bilinen bir bölge.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Emir Mirza Bey Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu mekan, yüzyıl
 
 ## Coğrafya
 
-Emir Mirza Bey Türbesi, coğrafi olarak İç Anadolu Bölgesi'nde yer alan Bafra ilçesinde bulunuyor. Bu bölge, coğrafi çeşitliliği ve tarihi mekanlarıyla bilinen bir yer. Emir Mirza Bey Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. İlçe, coğrafi olarak çeşitli yüksekliklerde yer alıyor ve farklı iklim koşullarına sahip. Emir Mirza Bey Türbesi'nin coğrafi konumu, ziyaretçilere bu mekanın güzelliğini ve çeşitliliğini gösteriyor. Yeşil alan, futbol sahası büyüklüğündeki genişliğiyle ziyaretçilere geniş bir alanda gezebilmeleri için uygun bir ortam sunuyor.
+Emir Mirza Bey Türbesi, coğrafi olarak İç Anadolu Bölgesi'nde yer alan Bafra ilçesinde bulunuyor. Bu bölge, coğrafi çeşitliliği ve tarihi mekanlarıyla bilinen bir yer. İlçe, coğrafi olarak çeşitli yüksekliklerde yer alıyor ve farklı iklim koşullarına sahip. Emir Mirza Bey Türbesi'nin coğrafi konumu, ziyaretçilere bu mekanın güzelliğini ve çeşitliliğini gösteriyor. Yeşil alan, futbol sahası büyüklüğündeki genişliğiyle ziyaretçilere geniş bir alanda gezebilmeleri için uygun bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Emir Mirza Bey Türbesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz ayl
 
 ## İlginç Bilgiler
 
-- Emir Mirza Bey Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu mekan, coğrafi olarak İç Anadolu Bölgesi'nde yer alan Bafra ilçesinde bulunuyor.
 - Emir Mirza Bey Türbesi, tarihi geçmişiyle dikkat çekiyor.
 - Bu mekan, yüzyıllar boyunca önemli bir merkez olarak kabul edilmiş ve birçok tarihi olaya tanıklık etmiş.

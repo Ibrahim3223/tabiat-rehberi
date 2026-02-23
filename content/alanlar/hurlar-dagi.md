@@ -32,9 +32,9 @@ Gümüşhane'nin doğal güzelliklerinin arasında yer alan Hurlar Dağı, ziyar
 
 ## Tarihçe
 
-Gümüşhane bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültürel alışverişin merkezi olmuştur. Hitit, Roma ve Bizans uygarlıkları, bu topraklarda iz bırakmışlardır. 
+Gümüşhane bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültürel alışverişin merkezi olmuştur. Hitit, Roma ve Bizans uygarlıkları, bu topraklarda iz bırakmışlardır.
 
-Hurlar Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir role sahiptir. Bu alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda insanlığın var olduğu tüm dönemlerde yaşamın sürdürülmesi için gerekli kaynaklar sunmuşlardır. Yaylacılık ve hayvancılık, bu bölgelerde binlerce yıldır devam eden geleneksel faaliyetlerdir. 
+Hurlar Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir role sahiptir. Bu alanlar, yalnızca doğal güzellikleri ile değil, aynı zamanda insanlığın var olduğu tüm dönemlerde yaşamın sürdürülmesi için gerekli kaynaklar sunmuşlardır. Yaylacılık ve hayvancılık, bu bölgelerde binlerce yıldır devam eden geleneksel faaliyetlerdir.
 
 Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında yer alması, insan yerleşimini ve ekonomik faaliyetleri etkilemiştir. Gümüşhane, tarihin her döneminde önemli bir geçiş noktası olarak hizmet vermiştir. Bu doğal güzellikler, sadece yerel halkın değil, aynı zamanda bölgeden geçen cuların ve seyahat edenlerin de yaşamını sürdürmesi için gerekli olan ekosistemlerin bir parçasıdır.
 

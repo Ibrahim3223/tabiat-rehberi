@@ -28,7 +28,7 @@ wikidata_id: "Q31388399"
 
 # Alemdağı Tepesi
 
-Erzurum'un doğusunda yer alan Alemdağı Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu tepe, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Bölge, doğa severler için bir cennet olarak kabul ediliyor. Alemdağı Tepesi, Erzurum'un tarihi ve kültürel zenginliklerini de içerisinde barındırıyor. Tepenin eteklerinde yer alan köyler, bölgeye özgü geleneksel mimari örneklerini sergiliyor. Alemdağı Tepesi, doğa ve tarihle iç içe bir deneyimi sunuyor.
+ Bu tepe, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Bölge, doğa severler için bir cennet olarak kabul ediliyor. Alemdağı Tepesi, Erzurum'un tarihi ve kültürel zenginliklerini de içerisinde barındırıyor. Tepenin eteklerinde yer alan köyler, bölgeye özgü geleneksel mimari örneklerini sergiliyor. Alemdağı Tepesi, doğa ve tarihle iç içe bir deneyimi sunuyor.
 
 ## Tarihçe
 

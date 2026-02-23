@@ -32,7 +32,7 @@ Mardin'in tarihi ve kültürel zenginliklerinin arasında yer alan Agir Tepe, ş
 
 ## Tarihçe
 
-Mardin'in dağlık bölgesinde yer alan Ağır Tepe, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yerleşim ve geçiş noktalarından biri olmuş; Sümerler, Asurlar, Romalılar ve Osmanlılar gibi medeniyetler iz bırakmış. Mardin'in tarihi dokusu, kültürel zenginliği ve coğrafi konumu, bu tür doğal alanların önemini vurguluyor.
+Mardin'in dağlık bölgesinde yer alan Ağır Tepe, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yerleşim ve geçiş noktalarından biri olmuş; Sümerler, Asurlar, Romalılar ve Osmanlılar gibi medeniyetler iz bırakmış. Mardin'in tarihi dokusu, kültürel zenginliği ve coğrafi konumu, bu tür doğal alanların önemini vurguluyor.
 
 Türkiye'de, özellikle güneydoğu bölgesinde yer alan dağlık ve doğal alanlar, tarihi ticaret yolları, yaylacılık ve hayvancılık faaliyetleri için her zaman kritik önem taşımış. Bu bölgeler, insan yerleşimlerinin yanı sıra, göçerlerin ve çobanların da yaşam alanı olarak kullanılmış. Mardin'in dağlık arazisi, bu tür faaliyetler için elverişli bir zemin sunuyor.
 
@@ -50,7 +50,7 @@ Mevsimsel olarak, Agir Tepe ve çevresinin iklim karakteri, Güneydoğu Anadolu 
 
 ## Flora ve Fauna
 
-Agir Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır ve yükseklik zonlarındaki alpin flora, ziyaretçilerini büyüler. 
+Agir Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanır ve yükseklik zonlarındaki alpin flora, ziyaretçilerini büyüler.
 
 Bitki örtüsünü oluşturan step ve ova ekolojisinin karakteristik türleri, kuraklığa adaptasyonlarını gösterirken, dağ hayvanları da bu ekosistemin bir parçası olarak, yaşam alanlarını paylaşır. Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Göç mevsiminde, Agir Tepe, çeşitli kuş türleri için önemli bir uğrak noktası olur.
 

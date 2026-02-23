@@ -1,7 +1,7 @@
 ---
 title: "Çağırgan Baba Türbesi"
 date: "2026-01-10T07:47:47.487Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391208"
 
 # Çağırgan Baba Türbesi
 
-Çağırgan Baba Türbesi, Gümüşhane ilinin Trabzon Vilayeti sınırında, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alır. Bu tarihi ve doğal güzellik, yaklaşık 140 hektarlık bir alanı kaplar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Çağırgan Baba Türbesi, hem dini hem de kültürel önemi ile dikkat çeker. Ziyaretçiler, bu özel yerde hem manevi bir deneyime sahip olur hem de doğal güzelliğin keyfini çıkarabilirler.
+Çağırgan Baba Türbesi, Gümüşhane ilinin Trabzon Vilayeti sınırında, İç Anadolu Bölgesi'nin kuzeydoğusunda yer alır. Çağırgan Baba Türbesi, hem dini hem de kültürel önemi ile dikkat çeker. Ziyaretçiler, bu özel yerde hem manevi bir deneyime sahip olur hem de doğal güzelliğin keyfini çıkarabilirler.
 
 ## Tarihçe
 

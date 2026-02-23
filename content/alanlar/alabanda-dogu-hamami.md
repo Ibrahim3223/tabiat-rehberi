@@ -1,7 +1,7 @@
 ---
 title: "Alabanda Doğu Hamamı"
 date: "2026-01-09T23:50:42.952Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245713"
 
 # Alabanda Doğu Hamamı
 
-Alabanda Doğu Hamamı, Çine, Aydın'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Alabanda Doğu Hamamı, Ege Bölgesi'nin güzelliklerini ve tarihi derinliğini deneyimlemek isteyenler için kaçırılmaması gereken bir destinasyon. Doğal güzelliklerinin yanı sıra, tarihi geçmişi ile de önemli bir kültürel miras sunuyor.
+Alabanda Doğu Hamamı, Çine, Aydın'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir alan olarak dikkat çekiyor. Alabanda Doğu Hamamı, Ege Bölgesi'nin güzelliklerini ve tarihi derinliğini deneyimlemek isteyenler için kaçırılmaması gereken bir destinasyon. Doğal güzelliklerinin yanı sıra, tarihi geçmişi ile de önemli bir kültürel miras sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Alabanda Doğu Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş 
 
 ## Coğrafya
 
-Alabanda Doğu Hamamı, Çine, Aydın'da yer alan ve Ege Bölgesi'nin güzelliklerini sergileyen bir doğal alan olarak dikkat çekiyor. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini yeşilin ve doğanın içine çekiyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. Alabanda Doğu Hamamı'nın coğrafi konumu, Ege Bölgesi'nin güzelliklerini ve iklimini deneyimlemek isteyenler için ideal bir destinasyon oluşturuyor. Bölge, zengin fauna ve flora çeşitliliği ile de dikkat çekiyor. İklim, bölgenin coğrafi yapısına uygun olarak şekilleniyor ve ziyaretçilere dört mevsim farklı güzellikler sunuyor.
+Alabanda Doğu Hamamı, Çine, Aydın'da yer alan ve Ege Bölgesi'nin güzelliklerini sergileyen bir doğal alan olarak dikkat çekiyor. Bölgenin coğrafi yapısı, ziyaretçilere çeşitli manzaralar sunuyor. Alabanda Doğu Hamamı'nın coğrafi konumu, Ege Bölgesi'nin güzelliklerini ve iklimini deneyimlemek isteyenler için ideal bir destinasyon oluşturuyor. Bölge, zengin fauna ve flora çeşitliliği ile de dikkat çekiyor. İklim, bölgenin coğrafi yapısına uygun olarak şekilleniyor ve ziyaretçilere dört mevsim farklı güzellikler sunuyor.
 
 ## Flora ve Fauna
 

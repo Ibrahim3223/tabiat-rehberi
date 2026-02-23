@@ -22,7 +22,7 @@ wikidata_id: "Q108226653"
 
 # Elmalı Sedir Ağaçları Sit Alanı
 
-Elmalı Sedir Ağaçları Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliği ile dikkat çeken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve sedir ağaçlarının yoğunluğu ile dikkat çekiyor. Bu bölge, doğa severlerin ve gezginlerin kaçırmaması gereken bir yer. Elmalı Sedir Ağaçları Sit Alanı, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de sunuyor. Alanın güzelliği ve zenginliği, ziyaretçileri büyülüyor ve unutulmaz bir deneyim sunuyor.
+Elmalı Sedir Ağaçları Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliği ile dikkat çeken bir destinasyon. Bu bölge, doğa severlerin ve gezginlerin kaçırmaması gereken bir yer. Elmalı Sedir Ağaçları Sit Alanı, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de sunuyor. Alanın güzelliği ve zenginliği, ziyaretçileri büyülüyor ve unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

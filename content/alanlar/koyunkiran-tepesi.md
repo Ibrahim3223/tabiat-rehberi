@@ -28,7 +28,7 @@ wikidata_id: "Q31576786"
 
 # Koyunkıran Tepesi
 
-Koyunkıran Tepesi, Şanlıurfa'nın eşsiz güzelliklerini sunan bir noktada yer alıyor. Güneydoğu Anadolu Bölgesi'nin kalbinde bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Koyunkıran Tepesi'nin yüksekliği ve genişliği, ziyaretçilere bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı sunuyor. Tepenin eteklerinde ve zirvesinde, farklı mevsimlerde ziyaretçiler, Şanlıurfa'nın çeşitlilik gösteren flora ve faunasını gözlemleyebilirler. Ayrıca, bu bölge, tarih boyunca çeşitli uygarlıkların izlerini taşıyor ve ziyaretçiler, bu tarihi geçmişi keşfedebilir.
+Koyunkıran Tepesi, Şanlıurfa'nın eşsiz güzelliklerini sunan bir noktada yer alıyor. Güneydoğu Anadolu Bölgesi'nin kalbinde bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Koyunkıran Tepesi'nin yüksekliği ve genişliği, ziyaretçilere bölgenin tarihi ve doğal güzelliklerini keşfetme fırsatı sunuyor. Tepenin eteklerinde ve zirvesinde, farklı mevsimlerde ziyaretçiler, Şanlıurfa'nın çeşitlilik gösteren flora ve faunasını gözlemleyebilirler. Ayrıca, bu bölge, tarih boyunca çeşitli uygarlıkların izlerini taşıyor ve ziyaretçiler, bu tarihi geçmişi keşfedebilir.
 
 ## Tarihçe
 

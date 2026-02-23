@@ -22,7 +22,7 @@ wikidata_id: "Q108227240"
 
 # Bursa-Mustafakemalpaşa-Turfal Kayin
 
-Bursa-Mustafakemalpaşa-Turfal Kayin milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden birini oluşturur. Parkın içinde yer alan Turfal Kayın ağaçları, bu bölgenin en önemli doğal zenginliklerini oluşturur. Bursa ilinin Mustafakemalpaşa ilçesinde bulunan bu milli park, doğa severler için bir cennet gibidir. Burada yer alan yürüyüş yolları, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
+Bursa-Mustafakemalpaşa-Turfal Kayin milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biridir. Parkın içinde yer alan Turfal Kayın ağaçları, bu bölgenin en önemli doğal zenginliklerini oluşturur. Bursa ilinin Mustafakemalpaşa ilçesinde bulunan bu milli park, doğa severler için bir cennet gibidir. Burada yer alan yürüyüş yolları, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
 
 ## Tarihçe
 

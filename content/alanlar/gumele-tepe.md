@@ -28,7 +28,7 @@ wikidata_id: "Q32139173"
 
 # Gümele Tepe
 
-Gümele Tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Adıyaman'da yer alır. Bu bölge, tarihin derinliklerinden gelen izlerle dolu bir coğrafyadır. 140 hektarlık bir alanı kaplayan Gümele Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu tepe, bölgenin tarihi ve doğal güzelliklerini bir araya getiren özel bir noktadır. Burada, ziyaretçiler hem tarihi geçmişi hem de doğal güzellikleri keşfedebilirler.
+Gümele Tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Adıyaman'da yer alır. Bu bölge, tarihin derinliklerinden gelen izlerle dolu bir coğrafyadır. Bu tepe, bölgenin tarihi ve doğal güzelliklerini bir araya getiren özel bir noktadır. Burada, ziyaretçiler hem tarihi geçmişi hem de doğal güzellikleri keşfedebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gümele Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Gümele Tepe, Adıyaman'ın coğrafi yapısının bir parçasıdır. Bu tepe, bölgenin doğal güzelliklerini bir araya getiren önemli bir noktadır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Gümele Tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu bölgenin coğrafi yapısını oluşturan önemli bir parçasıdır. Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Bu bölge, coğrafi olarak önemli bir noktadır ve ziyaretçiler burayı keşfederek bölgenin doğal güzelliklerini görebilirler.
+Gümele Tepe, Adıyaman'ın coğrafi yapısının bir parçasıdır. Bu tepe, bölgenin doğal güzelliklerini bir araya getiren önemli bir noktadır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Bu bölge, coğrafi olarak önemli bir noktadır ve ziyaretçiler burayı keşfederek bölgenin doğal güzelliklerini görebilirler.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386009"
 
 # Becbel Tepesi
 
-Becbel Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafyalarından biri olarak Malatya'nın güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için keyifli bir kaçış noktası sunuyor. Becbel Tepesi'nin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini sunarken, tepeye çıkıldığında ise Malatya'nın geniş görünümü ziyaretçileri bekliyor.
+Becbel Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafyalarından biri olarak Malatya'nın güzide noktalarından biri olarak karşımıza çıkıyor. Becbel Tepesi'nin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamın renklerini sunarken, tepeye çıkıldığında ise Malatya'nın geniş görünümü ziyaretçileri bekliyor.
 
 ## Tarihçe
 

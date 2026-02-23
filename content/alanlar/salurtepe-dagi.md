@@ -64,4 +64,4 @@ Salurtepe Dağı, doğa severler için bir cennet. Sabah erken gitmenizi önerir
 - Türkiye'de yer alan dağlar genellikle yüksekli ve güzergah açısından çeşitli seçenekler sunar.
 - Salurtepe Dağı, coğrafi konumu itibariyle trekking ve yürüyüş için elverişli bir bölgede olabilir.
 - Dağ ve çevresinin ekoloji ve coğrafi özellikleri, bölgeyi ziyaret edenler için önemli bilgiler sağlayabilir.
-- Salurtepe Dağı'nın tam olarak nerede olduğu ve diğer özellikleri hakkında daha fazla bilgi için yerel rehberlere başvurmak necessário olabilir.
+- Salurtepe Dağı'nın tam olarak nerede olduğu ve diğer özellikleri hakkında daha fazla bilgi için yerel rehberlere başvurmak gerekli olabilir.

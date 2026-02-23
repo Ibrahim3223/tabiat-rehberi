@@ -28,7 +28,7 @@ wikidata_id: "Q31387471"
 
 # Kaşka Tepesi
 
-Van ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Kaşka Tepesi, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu tepe, ziyaretçilerini hem doğal güzelliği ile hem de tarihi geçmişiyle büyülüyor. Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilen Kaşka Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
+ Bu tepe, ziyaretçilerini hem doğal güzelliği ile hem de tarihi geçmişiyle büyülüyor. Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilen Kaşka Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

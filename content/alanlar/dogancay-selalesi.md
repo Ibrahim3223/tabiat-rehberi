@@ -29,7 +29,7 @@ wikidata_id: "Q27610263"
 
 # Doğançay Şelalesi
 
-Doğançay Şelalesi, Marmara Bölgesi'nin saklı güzelliği olarak Sakarya'da yer alıyor. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş alan, ziyaretçilere doğayla iç içe olabilecekleri bir mekan sunuyor. Doğançay Şelalesi, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak olarak düşünülebilir. Şelalenin güzelliği, çevresindeki yeşilin zenginliği ve doğanın sesleriyle ziyaretçilerini büyülüyor. Doğançay Şelalesi, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+Doğançay Şelalesi, Marmara Bölgesi'nin saklı güzelliği olarak Sakarya'da yer alıyor. Bu geniş alan, ziyaretçilere doğayla iç içe olabilecekleri bir mekan sunuyor. Doğançay Şelalesi, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak olarak düşünülebilir. Şelalenin güzelliği, çevresindeki yeşilin zenginliği ve doğanın sesleriyle ziyaretçilerini büyülüyor. Doğançay Şelalesi, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

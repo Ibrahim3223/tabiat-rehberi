@@ -1,7 +1,7 @@
 ---
 title: "Koçyaka Anonim Türbe"
 date: "2026-01-10T05:43:06.846Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582355"
 
 # Koçyaka Anonim Türbe
 
-Konya'nın Altınekin ilçesinde yer alan Koçyaka Anonim Türbe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu mekan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim. Koçyaka Anonim Türbe, tarihi ve doğal güzellikleri bir arada sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna mevcut. Koçyaka Anonim Türbe, ziyaretçilerini bekliyor.
+Konya'nın Altınekin ilçesinde yer alan Koçyaka Anonim Türbe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu mekan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim. Koçyaka Anonim Türbe, tarihi ve doğal güzellikleri bir arada sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna mevcut. Koçyaka Anonim Türbe, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Koçyaka Anonim Türbe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. 
 
 ## Coğrafya
 
-Koçyaka Anonim Türbe, Konya'nın Altınekin ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahip. Koçyaka Anonim Türbe, 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu mekan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim. Koçyaka Anonim Türbe, doğal güzellikleri ve tarihi yapıları bir arada sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna mevcut. Koçyaka Anonim Türbe, ziyaretçilerini bekliyor. Bu mekan, coğrafi olarak önemli bir konuma sahip. Koçyaka Anonim Türbe, ziyaretçilerine doğal güzellikleri ve tarihi yapıları sunuyor.
+Koçyaka Anonim Türbe, Konya'nın Altınekin ilçesinde yer alıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerine sahip. Koçyaka Anonim Türbe, 140 hektarlık bir alanı kaplıyor. Bu mekan, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak harika bir deneyim. Koçyaka Anonim Türbe, doğal güzellikleri ve tarihi yapıları bir arada sunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna mevcut. Koçyaka Anonim Türbe, ziyaretçilerini bekliyor. Bu mekan, coğrafi olarak önemli bir konuma sahip. Koçyaka Anonim Türbe, ziyaretçilerine doğal güzellikleri ve tarihi yapıları sunuyor.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388291"
 
 # Kapudağı Tepesi
 
-Kapudağı Tepesi, Kars ilinin sınırları içerisinde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Kars'ın coğrafi yapısını anlamak için ideal bir nokta. Bu tepe, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi hakkında bilgi edinme fırsatı sunuyor. Kapudağı Tepesi, bölgenin jeolojik yapısını ve flora/faunayı keşfetmek isteyenler için bir cazibe merkezi.
+Kapudağı Tepesi, Kars ilinin sınırları içerisinde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir tepe. Bu tepe, ziyaretçilere hem doğal güzellikleri hem de bölgenin tarihi hakkında bilgi edinme fırsatı sunuyor. Kapudağı Tepesi, bölgenin jeolojik yapısını ve flora/faunayı keşfetmek isteyenler için bir cazibe merkezi.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kapudağı Tepesi, tarihsel geçmişi ile dikkat çekiyor. Bu bölgenin tarihi, 
 
 ## Coğrafya
 
-Kapudağı Tepesi, Kars ilinin coğrafi yapısını anlamak için önemli bir nokta. Bu tepe, bölgenin jeolojik yapısını ve flora/faunayı keşfetmek isteyenler için bir cazibe merkezi. Kapudağı Tepesi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, ziyaretçilere bölgenin coğrafi yapısını ve doğal güzellikleri hakkında bilgi edinme fırsatı sunuyor. Kapudağı Tepesi, bölgenin iklimi ve çevre koşulları hakkında bilgi edinmek isteyenler için de bir destinasyon olarak görülüyor. Bu tepe, Kars ilinin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta.
+Kapudağı Tepesi, Kars ilinin coğrafi yapısını anlamak için önemli bir nokta. Bu tepe, bölgenin jeolojik yapısını ve flora/faunayı keşfetmek isteyenler için bir cazibe merkezi. Bu tepe, ziyaretçilere bölgenin coğrafi yapısını ve doğal güzellikleri hakkında bilgi edinme fırsatı sunuyor. Kapudağı Tepesi, bölgenin iklimi ve çevre koşulları hakkında bilgi edinmek isteyenler için de bir destinasyon olarak görülüyor. Bu tepe, Kars ilinin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta.
 
 ## Flora ve Fauna
 

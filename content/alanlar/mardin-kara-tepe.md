@@ -29,7 +29,7 @@ wikidata_id: "Q31556487"
 
 # Mardin Kara Tepe
 
-Mardin'in histórik kent dokusunu çevreleyen dağların eteklerinde yer alan Kara Tepe, ilin coğrafi güzelliğine önemli bir katkı sağlıyor. Mardin ilinin zengin tarihi ve kültürel mirasının bir parçası olarak kabul edilen bu bölge, ziyaretçilerini şehrin tarihi merkezine yakın bir konumda doğanın güzelliği ile buluşturuyor. Mardin'in tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olan Kara Tepe, şehri gezenler için önemli bir durak noktası. Mardin'in tarihi zenginliklerinin yanı sıra doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Mardin'in tarihi kent dokusunu çevreleyen dağların eteklerinde yer alan Kara Tepe, ilin coğrafi güzelliğine önemli bir katkı sağlıyor. Mardin ilinin zengin tarihi ve kültürel mirasının bir parçası olarak kabul edilen bu bölge, ziyaretçilerini şehrin tarihi merkezine yakın bir konumda doğanın güzelliği ile buluşturuyor. Mardin'in tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olan Kara Tepe, şehri gezenler için önemli bir durak noktası. Mardin'in tarihi zenginliklerinin yanı sıra doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

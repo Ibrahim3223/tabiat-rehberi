@@ -28,7 +28,7 @@ wikidata_id: "Q31386168"
 
 # Kızıldağ Tepesi
 
-Kızıldağ Tepesi, Gaziantep'in güneydoğu bölgesinde yer alan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Kızıldağ Tepesi, bölge halkı tarafından sıkça ziyaret edilen bir yer. Tepenin eteklerinde çeşitli bitki türleri bulunur. Bu tepenin etrafında zengin fauna vardır. Kızıldağ Tepesi, bölgenin önemli bir parçası.
+Kızıldağ Tepesi, Gaziantep'in güneydoğu bölgesinde yer alan bir tepe. Kızıldağ Tepesi, bölge halkı tarafından sıkça ziyaret edilen bir yer. Tepenin eteklerinde çeşitli bitki türleri bulunur. Bu tepenin etrafında zengin fauna vardır. Kızıldağ Tepesi, bölgenin önemli bir parçası.
 
 ## Tarihçe
 

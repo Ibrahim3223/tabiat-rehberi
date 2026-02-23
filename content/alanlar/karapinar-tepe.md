@@ -28,7 +28,7 @@ wikidata_id: "Q31389097"
 
 # Karapınar Tepe
 
-Karapınar Tepe, Doğu Anadolu Bölgesi'nin Erzurum ilinde yer alan bir tepe olarak, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada yer alan doğal güzellikler, ziyaretçileri büyülüyor. Karapınar Tepe, özellikle doğa severlerin ve tarihi geçmişe merak duyanların ilgi odağı haline geliyor. Bu tepe, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
+Karapınar Tepe, Doğu Anadolu Bölgesi'nin Erzurum ilinde yer alan bir tepe olarak, yaklaşık 140 hektarlık bir alanı kaplıyor. Karapınar Tepe, özellikle doğa severlerin ve tarihi geçmişe merak duyanların ilgi odağı haline geliyor. Bu tepe, aynı zamanda bölgede yaşayan çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228676"
 
 # YUKARI ÇAMAK
 
-Yukarı Çamak, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu muhteşem doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. 140 hektarlık bu geniş alan, çeşitli bitki türleri ve zengin fauna ile kaplı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+ Bu muhteşem doğal alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. 140 hektarlık bu geniş alan, çeşitli bitki türleri ve zengin fauna ile kaplı, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

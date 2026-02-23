@@ -38,7 +38,7 @@ Van bölgesinin zengin tarihi, binlerce yıl öncesine kadar uzanır. Bu bölge,
 
 Türkiye'de benzer doğal alanlar, tarih boyunca insanların yaşamlarında önemli roller oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu bölgelerin ekonomi ve kültür için hayati önemini vurgular. İnsanların bu doğal alanlarla olan ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir.
 
-Bölgenin coğrafi konumu, ticaret yollarının kesişme noktası olması nedeniyle, Van ve çevresindeki doğal alanlar históriki ticaret faaliyetlerinin merkezi olarak görev görmüştür. Bu ticaret yolları, farklı kültürlerin etkileşimine ve bölgenin zenginleşmesine katkıda bulunmuştur. Adır Adası da bu ticaret ağının bir parçası olarak, bölgenin tarihsel zenginliğinin bir bölümünü oluşturur.
+Bölgenin coğrafi konumu, ticaret yollarının kesişme noktası olması nedeniyle, Van ve çevresindeki doğal alanlar tarihi ticaret faaliyetlerinin merkezi olarak görev görmüştür. Bu ticaret yolları, farklı kültürlerin etkileşimine ve bölgenin zenginleşmesine katkıda bulunmuştur. Adır Adası da bu ticaret ağının bir parçası olarak, bölgenin tarihsel zenginliğinin bir bölümünü oluşturur.
 
 ## Coğrafya
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227858"
 
 # Balikesir-Ilica Kızılçam 2
 
-Balikesir-Ilica Kızılçam 2, İç Anadolu Bölgesi'nin büyüleyici doğal güzelliklerini barındıran büyük bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok çeşit bitki türünü içinde barındırır. Bu alan, hem doğa severler hem de araştırmacılar için önemli bir destinasyondur. Doğal güzellikleri, zengin flora ve fauna ile ziyaretçilerini büyüler.
+Balikesir-Ilica Kızılçam 2, İç Anadolu Bölgesi'nin büyüleyici doğal güzelliklerini barındıran büyük bir milli parktır. Bu alan, hem doğa severler hem de araştırmacılar için önemli bir destinasyondur. Doğal güzellikleri, zengin flora ve fauna ile ziyaretçilerini büyüler.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Uzunköprü"
 date: "2026-01-09T23:49:35.170Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245789"
 
 # Hamam, Uzunköprü
 
-Hamam, Uzunköprü, Edirne'nin Uzunköprü ilçesinde yer alan ve Marmara Bölgesi'nin önemli doğal alanlarından biridir. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Hamam, Uzunköprü'nün merkezine uzun bir mesafe uzaklıktadır ve bölgenin en önemli turizm merkezlerinden biridir. Bu alan, ziyaretçiler için çeşitli olanaklar sunar ve bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir yerdir.
+Hamam, Uzunköprü, Edirne'nin Uzunköprü ilçesinde yer alan ve Marmara Bölgesi'nin önemli doğal alanlarından biridir. Hamam, Uzunköprü'nün merkezine uzun bir mesafe uzaklıktadır ve bölgenin en önemli turizm merkezlerinden biridir. Bu alan, ziyaretçiler için çeşitli olanaklar sunar ve bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir yerdir.
 
 ## Tarihçe
 

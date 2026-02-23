@@ -51,9 +51,9 @@ Mevsimsel olarak, Paulos Mağarası'nın bulunduğu bölge, Akdeniz ikliminin ca
 
 ## Flora ve Fauna
 
-Paulos Mağarası'nın eteklerinde, 1200 hektarlık bir yeşil cennet, Akdeniz ikliminin karakteristik özelliklerini taşıyan zeytinlikler ve çam ormanlarıyla kaplıdır. İlkbaharın gelmesiyle birlikte, bu bölge rengarenk çiçeklerle donanır. Çam ağaçlarının altında, çeşitli otsu bitkiler ve çiçekler filizlenerek, bir renk cümbüşü yaratır. 
+Paulos Mağarası'nın eteklerinde, 1200 hektarlık bir yeşil cennet, Akdeniz ikliminin karakteristik özelliklerini taşıyan zeytinlikler ve çam ormanlarıyla kaplıdır. İlkbaharın gelmesiyle birlikte, bu bölge rengarenk çiçeklerle donanır. Çam ağaçlarının altında, çeşitli otsu bitkiler ve çiçekler filizlenerek, bir renk cümbüşü yaratır.
 
-Bu orman ekosisteminde, çeşitli ağaç türleri ve otsu bitkiler, orman memelileri ve kuşlar için yaşam alanı sağlar. Çam ormanlarında, çeşitli kuş türleri yuvalarını kurarken, zeytinliklerde ise küçük memeliler ve sürüngenler barınak bulur. 
+Bu orman ekosisteminde, çeşitli ağaç türleri ve otsu bitkiler, orman memelileri ve kuşlar için yaşam alanı sağlar. Çam ormanlarında, çeşitli kuş türleri yuvalarını kurarken, zeytinliklerde ise küçük memeliler ve sürüngenler barınak bulur.
 
 Paulos Mağarası ve çevresi, ekolojik açıdan önemli bir bölgedir. Bu bölge, göçmen kuşların önemli bir durak noktasıdır ve çeşitli türlerin yaşam döngüsünde önemli bir rol oynar. Ayrıca, bu bölgenin korunması, yerel ekosistemin dengesinin korunmasına da katkı sağlar.
 

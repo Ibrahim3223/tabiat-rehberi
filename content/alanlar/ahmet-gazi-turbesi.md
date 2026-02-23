@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Gazi Türbesi"
 date: "2026-01-10T05:18:09.492Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391733"
 
 # Ahmet Gazi Türbesi
 
-Ahmet Gazi Türbesi, Muğla'nın Ege Bölgesi'nde yer alan bir tarihi türbe ve plaj olarak dikkat çekmektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılamaktadır. Ahmet Gazi Türbesi, tarihi geçmişi ve coğrafi konumuyla birlikte önemli bir gezi noktası olarak ön plana çıkmaktadır. Burası, hemi hem de doğası açısından ziyaretçilerini etkileyen bir yer olarak bilinmektedir. Türbenin çevresi, çeşitli bitki türleriyle kaplı ve zengin faunaıyla dikkat çekmektedir.
+Ahmet Gazi Türbesi, Muğla'nın Ege Bölgesi'nde yer alan bir tarihi türbe ve plaj olarak dikkat çekmektedir. Ahmet Gazi Türbesi, tarihi geçmişi ve coğrafi konumuyla birlikte önemli bir gezi noktası olarak ön plana çıkmaktadır. Burası, hemi hem de doğası açısından ziyaretçilerini etkileyen bir yer olarak bilinmektedir. Türbenin çevresi, çeşitli bitki türleriyle kaplı ve zengin faunaıyla dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ahmet Gazi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Ahmet Gazi Türbesi, Muğla'nın Ege Bölgesi'nde yer alan bir coğrafi bölgede bulunmaktadır. Bu bölge, coğrafi çeşitliliği ve doğal güzellikleriyle dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş yeşil alanlarıyla karşılamaktadır. Türbenin çevresi, çeşitli bitki türleriyle kaplı ve zengin faunaıyla dikkat çekmektedir. Burası, hem historical hem de doğal güzellikleriyle birlikte önemli bir gezi noktası olarak ön plana çıkmaktadır. Coğrafi konumu itibariyle, türbe ve çevresi, ziyaretçilerini farklı mevsimlerde farklı güzelliklerle karşılamaktadır. Kış aylarında yeşilin hakim olduğu bu bölge, yaz aylarında ise güneşin ve denizin keyfini çıkarmak için ideal bir nokta olarak bilinmektedir.
+Ahmet Gazi Türbesi, Muğla'nın Ege Bölgesi'nde yer alan bir coğrafi bölgede bulunmaktadır. Bu bölge, coğrafi çeşitliliği ve doğal güzellikleriyle dikkat çekmektedir. Türbenin çevresi, çeşitli bitki türleriyle kaplı ve zengin faunaıyla dikkat çekmektedir. Burası, hem historical hem de doğal güzellikleriyle birlikte önemli bir gezi noktası olarak ön plana çıkmaktadır. Coğrafi konumu itibariyle, türbe ve çevresi, ziyaretçilerini farklı mevsimlerde farklı güzelliklerle karşılamaktadır. Kış aylarında yeşilin hakim olduğu bu bölge, yaz aylarında ise güneşin ve denizin keyfini çıkarmak için ideal bir nokta olarak bilinmektedir.
 
 ## Flora ve Fauna
 

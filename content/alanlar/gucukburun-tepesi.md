@@ -28,7 +28,7 @@ wikidata_id: "Q32138977"
 
 # Gücükburun Tepesi
 
-Gücükburun Tepesi, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Bu bölge, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Gücükburun Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir destinasyon.
+Gücükburun Tepesi, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor. Gücükburun Tepesi, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir destinasyon.
 
 ## Tarihçe
 

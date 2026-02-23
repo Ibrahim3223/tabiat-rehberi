@@ -22,7 +22,7 @@ wikidata_id: "Q108227354"
 
 # Altıkardesler
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Altıkardesler milli parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu muhteşem yer, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parkın girişinde, misafirleri çam ağaçları karşılıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenen bu milli park, hem yerli hem de yabancı ziyaretçiler için önemli bir çekim merkezi.
+ Bu muhteşem yer, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Parkın girişinde, misafirleri çam ağaçları karşılıyor. İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenen bu milli park, hem yerli hem de yabancı ziyaretçiler için önemli bir çekim merkezi.
 
 ## Tarihçe
 

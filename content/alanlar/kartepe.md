@@ -23,7 +23,7 @@ wikidata_id: "Q108227887"
 
 # Kartepe
 
-Kartepe, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın kucağına davet ediyor. Kartepe, yemyeşil ormanları, çeşitliliği yüksek flora ve fauna zenginliği ile bir doğa cenneti. Ziyaretçiler, bu muhteşem parkta doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir veya einfach doğayı seyrederek stres attırabilirler. Kartepe, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
+Kartepe, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Kartepe, yemyeşil ormanları, çeşitliliği yüksek flora ve fauna zenginliği ile bir doğa cenneti. Ziyaretçiler, bu muhteşem parkta doğa yürüyüşleri yapabilir, piknik alanlarında keyifli anlar geçirebilir veya einfach doğayı seyrederek stres attırabilirler. Kartepe, hem doğa severler hem de huzur arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

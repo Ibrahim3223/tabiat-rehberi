@@ -22,7 +22,7 @@ wikidata_id: "Q108227075"
 
 # Erzurum-Ispir Vercenik Dagi
 
-Erzurum-Ispir Vercenik Dagi, Doğu Anadolu Bölgesi'nin en önemli milli parklarından biri olarak dikkat çekiyor. 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu bölge, doğa severler ve macera tutkunları için bir cennet olarak kabul ediliyor. Vercenik Dagi, aynı zamanda bölgenin en önemli turizm merkezlerinden biri olarak biliniyor. Yerel hal ve ziyaretçiler, bu milli parkın güzelliğini ve zenginliğini keşfetmek için buraya akın ediyor.
+Erzurum-Ispir Vercenik Dagi, Doğu Anadolu Bölgesi'nin en önemli milli parklarından biri olarak dikkat çekiyor. Bu bölge, doğa severler ve macera tutkunları için bir cennet olarak kabul ediliyor. Vercenik Dagi, aynı zamanda bölgenin en önemli turizm merkezlerinden biri olarak biliniyor. Yerel hal ve ziyaretçiler, bu milli parkın güzelliğini ve zenginliğini keşfetmek için buraya akın ediyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Erzurum-Ispir Vercenik Dagi'nin tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Erzurum-Ispir Vercenik Dagi, Doğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biridir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu milli park, Vercenik Dagi'nın eteklerinde yer alıyor ve bölgenin en önemli turizm merkezlerinden biri olarak biliniyor. Vercenik Dagi, aynı zamanda bölgenin en yüksek noktalarından biri olarak kabul ediliyor. Milli parkın coğrafi yapısı, dağlar, ormanlar ve nehirler ile karakterize ediliyor. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Ayrıca, Vercenik Dagi'nin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim, farklı güzellikler sunuyor.
+Erzurum-Ispir Vercenik Dagi, Doğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biridir. Bu milli park, Vercenik Dagi'nın eteklerinde yer alıyor ve bölgenin en önemli turizm merkezlerinden biri olarak biliniyor. Vercenik Dagi, aynı zamanda bölgenin en yüksek noktalarından biri olarak kabul ediliyor. Milli parkın coğrafi yapısı, dağlar, ormanlar ve nehirler ile karakterize ediliyor. Bu doğal güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Ayrıca, Vercenik Dagi'nin iklimi, karasal iklim özellikleri gösteriyor ve dört mevsim, farklı güzellikler sunuyor.
 
 ## Flora ve Fauna
 

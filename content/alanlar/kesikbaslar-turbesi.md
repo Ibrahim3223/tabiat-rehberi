@@ -1,7 +1,7 @@
 ---
 title: "Kesikbaşlar Türbesi"
 date: "2026-01-10T07:34:50.256Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391248"
 
 # Kesikbaşlar Türbesi
 
-Kesikbaşlar Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Tarihi geçmişiyle dikkat çeken bu türbe, ayrıca çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçiler için önemli bir çekim noktası oluşturuyor. Kesikbaşlar Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği bir noktada yer alıyor.
+Kesikbaşlar Türbesi, Eskişehir'in Seyitgazi ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Tarihi geçmişiyle dikkat çeken bu türbe, ayrıca çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçiler için önemli bir çekim noktası oluşturuyor. Kesikbaşlar Türbesi, hem tarihi hem de doğal güzelliklerinin birleştiği bir noktada yer alıyor.
 
 ## Tarihçe
 

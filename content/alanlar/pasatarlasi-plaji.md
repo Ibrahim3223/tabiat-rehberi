@@ -28,7 +28,7 @@ wikidata_id: "Q49322480"
 
 # Paşatarlası Plajı
 
-Paşatarlası Plajı, Muğla'nın doğal güzellikleri arasında yer alan bir plajdır. Ege Bölgesi'nde bulunan bu plaj, geniş kumsalı ve berrak deniziyle ziyaretçilerini cezbediyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş alan, ziyaretçilerin rahatça güneşlenmesine ve deniz keyfi yapmasına olanak tanıyor. Paşatarlası Plajı, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini bekliyor.
+Paşatarlası Plajı, Muğla'nın doğal güzellikleri arasında yer alan bir plajdır. Ege Bölgesi'nde bulunan bu plaj, geniş kumsalı ve berrak deniziyle ziyaretçilerini cezbediyor. Bu geniş alan, ziyaretçilerin rahatça güneşlenmesine ve deniz keyfi yapmasına olanak tanıyor. Paşatarlası Plajı, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

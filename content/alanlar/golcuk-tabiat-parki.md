@@ -23,7 +23,7 @@ wikidata_id: "Q108227069"
 
 # Gölcük Tabiat Parkı
 
-Gölcük Tabiat Parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilerini doğanın kucağına davet ediyor. Parkın etrafında yer alan tepeler, manzarayı daha da güzelleştirirken, burada geçirilen zamanın huzurlu ve sakin olduğunu hissettiriyor. Gölcük Tabiat Parkı, hem doğa severler hem de şehrin gürültüsünden kaçmak isteyenler için ideal bir kaçış noktası olarak görülüyor.
+Gölcük Tabiat Parkı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. Parkın etrafında yer alan tepeler, manzarayı daha da güzelleştirirken, burada geçirilen zamanın huzurlu ve sakin olduğunu hissettiriyor. Gölcük Tabiat Parkı, hem doğa severler hem de şehrin gürültüsünden kaçmak isteyenler için ideal bir kaçış noktası olarak görülüyor.
 
 ## Tarihçe
 

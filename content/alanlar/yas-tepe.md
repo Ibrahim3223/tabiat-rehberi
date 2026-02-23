@@ -50,13 +50,13 @@ Doğal güzelliği ve coğrafi konumuyla dikkat çeken Yas Tepe, aynı zamanda i
 
 ## Flora ve Fauna
 
-Yas Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Yas Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle süsleniyor. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına göre değişen alpin flora, ziyaretçilerini büyülüyor. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle süsleniyor. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına göre değişen alpin flora, ziyaretçilerini büyülüyor.
 
-Yaban Hayatı açısından, dağların yüksek kesimlerinde yaşayan memeliler, kuşlar ve sürüngenler, bu ekosistemin önemli bileşenlerini oluşturuyor. Sonbaharın gelmesiyle birlikte, göç eden kuşlar, bu dağları konaklama noktaları olarak kullanıyor. Dağların yükseklik zonları, farklı türlerin yaşam alanlarını oluşturuyor ve bu ekosistemin çeşitliliğini sağlıyor. 
+Yaban Hayatı açısından, dağların yüksek kesimlerinde yaşayan memeliler, kuşlar ve sürüngenler, bu ekosistemin önemli bileşenlerini oluşturuyor. Sonbaharın gelmesiyle birlikte, göç eden kuşlar, bu dağları konaklama noktaları olarak kullanıyor. Dağların yükseklik zonları, farklı türlerin yaşam alanlarını oluşturuyor ve bu ekosistemin çeşitliliğini sağlıyor.
 
-Ekolojik Değer olarak, Yas Tepe, bölgenin ekolojik dengesini korumak açısından önemli bir role sahip. Bu dağ ekosisteminin korunması, sadece burada yaşayan türlerin değil, aynı zamanda bölgenin su kaynaklarının ve toprağın korunması açısından da büyük önem taşıyor.
+ Bu dağ ekosisteminin korunması, sadece burada yaşayan türlerin değil, aynı zamanda bölgenin su kaynaklarının ve toprağın korunması açısından da büyük önem taşıyor.
 
 ## Ziyaret Bilgileri
 

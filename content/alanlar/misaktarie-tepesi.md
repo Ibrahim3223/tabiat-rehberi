@@ -28,7 +28,7 @@ wikidata_id: "Q31551133"
 
 # Mışaktarıe Tepesi
 
-Mışaktarıe Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli bir doğal güzelliği olarak Mardin ilinin sınırları içinde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Mardin'in coğrafi yapısına uygun olarak, Mışaktarıe Tepesi de bölgenin genel topoğrafyasını yansıtan bir yapıya sahiptir. Tepenin eteklerinde ve çevresinde, çeşitli bitkiler ve ağaçlar bulunur. Ayrıca, bu bölgeyi ziyaret edenler, bölgenin zengin fauna çeşitliliğini gözlemleyebilirler. Mışaktarıe Tepesi, aynı zamanda bölgenin tarihi ve kültürel mirasını yansıtan önemli bir noktadır.
+Mışaktarıe Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli bir doğal güzelliği olarak Mardin ilinin sınırları içinde yer alır. Mardin'in coğrafi yapısına uygun olarak, Mışaktarıe Tepesi de bölgenin genel topoğrafyasını yansıtan bir yapıya sahiptir. Tepenin eteklerinde ve çevresinde, çeşitli bitkiler ve ağaçlar bulunur. Ayrıca, bu bölgeyi ziyaret edenler, bölgenin zengin fauna çeşitliliğini gözlemleyebilirler. Mışaktarıe Tepesi, aynı zamanda bölgenin tarihi ve kültürel mirasını yansıtan önemli bir noktadır.
 
 ## Tarihçe
 

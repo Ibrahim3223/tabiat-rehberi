@@ -48,11 +48,11 @@ Mevsimsel olarak, Gidek Dağı'nın bulunduğu Karadeniz Bölgesi, nemli ve yağ
 
 ## Flora ve Fauna
 
-Gidek Dağı, Giresun'un nemli iklimi ve gür ormanları ile yüksek biyoçeşitliliğe sahip bir dağ ekosistemi sunar. Bu dağda, farklı yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çekicidir. 
+Gidek Dağı, Giresun'un nemli iklimi ve gür ormanları ile yüksek biyoçeşitliliğe sahip bir dağ ekosistemi sunar. Bu dağda, farklı yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çekicidir.
 
-Bitki örtüsünde, ilkbahar aylarında çiçeklenen bitkiler ve sonbaharda renk değiştiren yapraklı ağaçlar hakimdir. Gür ormanlar, dağların eteklerinde começar ve yüksekliklere çıkıldıkça alpin flora çeşitliliği artar. 
+Bitki örtüsünde, ilkbahar aylarında çiçeklenen bitkiler ve sonbaharda renk değiştiren yapraklı ağaçlar hakimdir. Gür ormanlar, dağların eteklerinde começar ve yüksekliklere çıkıldıkça alpin flora çeşitliliği artar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri ve yaban domuzları gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri mevsimsel olarak göç eder. Sürüngenler ise, sıca ve kayalık alanlarda bulunur. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri ve yaban domuzları gibi memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri mevsimsel olarak göç eder. Sürüngenler ise, sıca ve kayalık alanlarda bulunur.
 
 Gidek Dağı'nın ekolojik değeri, yüksek biyoçeşitlili ve nemli iklim koşullarının birleşmesinden kaynaklanır. Bu alan, birçok canlıyaşam alanı sağlarken, aynı zamanda su kaynaklarının korunmasına da katkıda bulunur.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227866"
 
 # Elazig-Mardin-Mardin Fidanligi Kızılçam
 
-Elazig-Mardin-Mardin Fidanligi Kızılçam milli parkı, İç Anadolu Bölgesi'nde bulunmaktadır. Bu milli park, yaklaşık 140 hektarlık bir alanı kapsar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil etmektedir. Milli parkın konumu itibariyle, ziyaretçiler burada çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Elazig-Mardin-Mardin Fidanligi Kızılçam milli parkı, aynı zamanda doğa yürüyüşleri ve piknik için ideal bir yerdir. Ziyaretçiler, milli parkın içerisinde yer alan yürüyüş parkurlarından yararlanabilir ve doğanın güzelliğini keşfedebilir.
+Elazig-Mardin-Mardin Fidanligi Kızılçam milli parkı, İç Anadolu Bölgesi'nde bulunmaktadır. Bu milli park, yaklaşık 140 hektarlık bir alanı kapsar. Milli parkın konumu itibariyle, ziyaretçiler burada çeşitli bitki türleri ve zengin fauna ile karşılaşabilirler. Elazig-Mardin-Mardin Fidanligi Kızılçam milli parkı, aynı zamanda doğa yürüyüşleri ve piknik için ideal bir yerdir. Ziyaretçiler, milli parkın içerisinde yer alan yürüyüş parkurlarından yararlanabilir ve doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 

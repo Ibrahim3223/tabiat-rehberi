@@ -22,7 +22,7 @@ wikidata_id: "Q108228457"
 
 # Heybeli Gölü Sulak Alanı
 
-Heybeli Gölü Sulak Alanı, İç Anadolu Bölgesi'nin önemli sulak alanlarından biri olarak dikkat çekiyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu sulak alan, çeşitli bitki türleri ve zengin fauna ile birlikte önemli bir ekosistemi barındırıyor. Bu alanın korunması, bölgenin doğal dengesini korumak açısından büyük önem taşıyor. Heybeli Gölü Sulak Alanı, aynı zamanda birçok kuş türüne de ev sahipliği yapıyor, bu nedenle doğa severler ve kuş gözlemcileri için bir cennet olarak kabul ediliyor.
+Heybeli Gölü Sulak Alanı, İç Anadolu Bölgesi'nin önemli sulak alanlarından biri olarak dikkat çekiyor. Bu alanın korunması, bölgenin doğal dengesini korumak açısından büyük önem taşıyor. Heybeli Gölü Sulak Alanı, aynı zamanda birçok kuş türüne de ev sahipliği yapıyor, bu nedenle doğa severler ve kuş gözlemcileri için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 

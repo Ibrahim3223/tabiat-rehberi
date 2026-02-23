@@ -1,7 +1,7 @@
 ---
 title: "Veli Baba Türbesi"
 date: "2026-01-10T05:26:57.079Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391688"
 
 # Veli Baba Türbesi
 
-Veli Baba Türbesi, İstanbul'un Pendik ilçesinde, Marmara Bölgesi'nin güzel bir köşesinde yer alan bir plajdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsar, ki bu alan yaklaşık 200 futbol sahası büyüklüğüne eşittir. Veli Baba Türbesi, doğal güzelliği ve tarihi önemi ile ziyaretçilerini cezbeden bir yerdir. Burada, denizin serin sularında yüzebilir, güneşin mış ışınları altında dinlenebilir veya tarihi tülbentleri ziyaret edebilirsiniz. Veli Baba Türbesi, Pendik'in önemli bir turizm merkezi olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
+Veli Baba Türbesi, İstanbul'un Pendik ilçesinde, Marmara Bölgesi'nin güzel bir köşesinde yer alan bir plajdır. Veli Baba Türbesi, doğal güzelliği ve tarihi önemi ile ziyaretçilerini cezbeden bir yerdir. Burada, denizin serin sularında yüzebilir, güneşin mış ışınları altında dinlenebilir veya tarihi tülbentleri ziyaret edebilirsiniz. Veli Baba Türbesi, Pendik'in önemli bir turizm merkezi olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 

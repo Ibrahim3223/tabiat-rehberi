@@ -28,7 +28,7 @@ wikidata_id: "Q31538487"
 
 # Kıllıkaya Tepesi
 
-Kıllıkaya Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal güzelliklerinden biridir. Kıllıkaya Tepesi, çevresindeki diğer tepelerle birlikte bir bütün olarak değerlendirildiğinde, yüksek bir konumda yer almaktadır. Bu tepe, özellikle doğa severler ve trekking yapan kişiler için bir çekim merkezi olarak kabul edilebilir. Ayrıca, bölgenin tarihi geçmişi ve kültürel zenginliği de burayı ziyaret edeceklerin ilgisini çekecek önemli unsurlardan biridir.
+Kıllıkaya Tepesi, Hatay ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Kıllıkaya Tepesi, çevresindeki diğer tepelerle birlikte bir bütün olarak değerlendirildiğinde, yüksek bir konumda yer almaktadır. Bu tepe, özellikle doğa severler ve trekking yapan kişiler için bir çekim merkezi olarak kabul edilebilir. Ayrıca, bölgenin tarihi geçmişi ve kültürel zenginliği de burayı ziyaret edeceklerin ilgisini çekecek önemli unsurlardan biridir.
 
 ## Tarihçe
 

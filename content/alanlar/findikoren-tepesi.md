@@ -28,7 +28,7 @@ wikidata_id: "Q32207034"
 
 # Fındıkören Tepesi
 
-Fındıkören Tepesi, Kahramanmaraş'ın güzide bir bölgesinde yer alıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve yeşilin her tonunu görebileceğiniz bir doğa harikası. Tepenin eteklerinde yer alan köyler, ziyaretçilere sıcacık bir karşılama sunuyor. Tepenin zirvesine çıktığınızda, Akdeniz Bölgesi'nin geniş ve yeşil ovalarını görebiliyorsunuz. Bu manzara, özellikle gün batımı saatlerinde büyüleyici bir güzellik sunuyor.
+Fındıkören Tepesi, Kahramanmaraş'ın güzide bir bölgesinde yer alıyor. Tepenin eteklerinde yer alan köyler, ziyaretçilere sıcacık bir karşılama sunuyor. Tepenin zirvesine çıktığınızda, Akdeniz Bölgesi'nin geniş ve yeşil ovalarını görebiliyorsunuz. Bu manzara, özellikle gün batımı saatlerinde büyüleyici bir güzellik sunuyor.
 
 ## Tarihçe
 

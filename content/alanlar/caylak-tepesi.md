@@ -28,7 +28,7 @@ wikidata_id: "Q34828827"
 
 # Çaylak Tepesi
 
-Çaylak Tepesi, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un görkemli doğası içinde yer alan bir tepe. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini büyüleyici manzaralar ve zengin flora ile karşılar. Çaylak Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Burada, yüzyılların izlerini taşıyan tarihi kalıntılar ve eşsiz doğal güzellikler bir arada bulunmakta.
+Çaylak Tepesi, Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un görkemli doğası içinde yer alan bir tepe. Çaylak Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine. Burada, yüzyılların izlerini taşıyan tarihi kalıntılar ve eşsiz doğal güzellikler bir arada bulunmakta.
 
 ## Tarihçe
 

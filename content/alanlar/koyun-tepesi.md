@@ -29,7 +29,7 @@ wikidata_id: "Q31387039"
 
 # Koyun Tepesi
 
-Koyun Tepesi, Ardahan ilinin sınırları içerisinde yer alan ve coğrafi konumu itibarıyla dikkat çekici bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Koyun Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunuyor ve bu zengin flora, bölgenin ekolojik dengesine katkıda bulunuyor.
+Koyun Tepesi, Ardahan ilinin sınırları içerisinde yer alan ve coğrafi konumu itibarıyla dikkat çekici bir tepe. Koyun Tepesi, hem doğal güzellikleri hem de tarihi geçmişiyle ziyaretçilerini cezbediyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunuyor ve bu zengin flora, bölgenin ekolojik dengesine katkıda bulunuyor.
 
 ## Tarihçe
 

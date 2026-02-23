@@ -1,7 +1,7 @@
 ---
 title: "Şeyhülislam Bostanzade Mehmet Türbesi"
 date: "2026-01-10T07:48:22.861Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391136"
 
 # Şeyhülislam Bostanzade Mehmet Türbesi
 
-Şeyhülislam Bostanzade Mehmet Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir mekan. Fatih ilçesinde yer alan bu tarihi türbe, şehrin kalbinde ziyaretçilerini bekliyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi tarihi yapılarla dolu. Şeyhülislam Bostanzade Mehmet Türbesi, İstanbul'un geçmişini anlamak için önemli bir nokta.
+Şeyhülislam Bostanzade Mehmet Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini barındıran önemli bir mekan. Fatih ilçesinde yer alan bu tarihi türbe, şehrin kalbinde ziyaretçilerini bekliyor. Şeyhülislam Bostanzade Mehmet Türbesi, İstanbul'un geçmişini anlamak için önemli bir nokta.
 
 ## Tarihçe
 

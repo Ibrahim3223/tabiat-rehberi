@@ -51,11 +51,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Gare Dağı'
 
 ## Flora ve Fauna
 
-Gare Dağı, Hakkari'nin yüksek dağ ekosisteminin zenginliklerini sunan bir bölge. Bu 1200 hektarlık yeşil cennet, yükseklik zonları ile birlikte alpin çayırları ve endemik türleri barındırıyor. 
+Gare Dağı, Hakkari'nin yüksek dağ ekosisteminin zenginliklerini sunan bir bölge. Bu 1200 hektarlık yeşil cennet, yükseklik zonları ile birlikte alpin çayırları ve endemik türleri barındırıyor.
 
-İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin flora, mevsimsel değişimlerle birlikte güzelliğini koruyor. Dağ hayvanları, bu flora ile beslenerek yaşamını sürdürüyor. 
+İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin flora, mevsimsel değişimlerle birlikte güzelliğini koruyor. Dağ hayvanları, bu flora ile beslenerek yaşamını sürdürüyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Göç eden kuşlar, sonbaharda bu bölgeden geçerek kışlama alanlarına ulaşıyor. Memeliler, dağların yüksek kesimlerinde yaşamını sürdürerek, ekosistemin dengesini koruyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. Göç eden kuşlar, sonbaharda bu bölgeden geçerek kışlama alanlarına ulaşıyor. Memeliler, dağların yüksek kesimlerinde yaşamını sürdürerek, ekosistemin dengesini koruyor.
 
 Gare Dağı, yüksek dağ ekolojisi ve alpin çayırları nedeniyle ekolojik olarak önemli bir bölge. Bu alanın korunması, doğadaki dengeyi korumak için çok önemli.
 

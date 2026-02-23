@@ -22,7 +22,7 @@ wikidata_id: "Q108228596"
 
 # Bursa-Mustafakemalpasa-Burhandag Kizilcam
 
-Bursa-Mustafakemalpasa-Burhandag Kizilcam, Marmara Bölgesi'nin doğal güzelliklerinin önemli bir parçasını oluşturuyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini muhteşem bir doğal ortamla karşılayacak. Burhandag Kizilcam, Bursa'nın Mustafakemalpasa ilçesinde yer alıyor ve bölgenin önemli turizm noktalarından biri. Doğal güzellikleri, flora ve faunası ile dikkat çeken bu milli park, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Bursa-Mustafakemalpasa-Burhandag Kizilcam, Marmara Bölgesi'nin doğal güzelliklerinin önemli bir parçasını oluşturuyor. Burhandag Kizilcam, Bursa'nın Mustafakemalpasa ilçesinde yer alıyor ve bölgenin önemli turizm noktalarından biri.
 
 ## Tarihçe
 

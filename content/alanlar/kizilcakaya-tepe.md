@@ -28,7 +28,7 @@ wikidata_id: "Q31387060"
 
 # Kızılcakaya Tepe
 
-Kızılcakaya Tepe, Kastamonu'nun eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşit. Bu geniş ve yeşillik bir alanda, doğa severler için birçok keşif noktası bulunuyor. Kızılcakaya Tepe, hem tarihi hem de doğal güzellikleri bir araya getiren bir destinasyon olarak ziyaretçilerini bekliyor. Bu tepe, Kastamonu'nun tarihi geçmişi ile birlikte, bölgenin coğrafi özelliklerini de gözler önüne seriyor.
+Kızılcakaya Tepe, Kastamonu'nun eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu geniş ve yeşillik bir alanda, doğa severler için birçok keşif noktası bulunuyor. Kızılcakaya Tepe, hem tarihi hem de doğal güzellikleri bir araya getiren bir destinasyon olarak ziyaretçilerini bekliyor. Bu tepe, Kastamonu'nun tarihi geçmişi ile birlikte, bölgenin coğrafi özelliklerini de gözler önüne seriyor.
 
 ## Tarihçe
 

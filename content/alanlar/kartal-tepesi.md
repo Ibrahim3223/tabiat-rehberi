@@ -48,7 +48,7 @@ Mevsimsel değişimler açısından, Kartal Tepesi Ankara'nın karasal iklim kar
 
 ## Flora ve Fauna
 
-Kartal Tepesi, Ankara'nın bozkır.step bitki örtüsüne ev sahipliği yapan dağ ekosisteminin önemli bir parçasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kartal Tepesi, Ankara'nın bozkır.step bitki örtüsüne ev sahipliği yapan dağ ekosisteminin önemli bir parçasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharda çiçek açan çok yıllık otlar ve dikenli çalılar hakimdir. Sonbaharda, kuraklığa adapte olan türler göze çarpar. Yaban Hayatı olarak, dağ keçileri, tavşanlar ve çeşitli kuş türleri yaşam alanlarını bu dağda bulur. Sürüngenler de bu ekosistemin önemli bir parçasıdır.
 

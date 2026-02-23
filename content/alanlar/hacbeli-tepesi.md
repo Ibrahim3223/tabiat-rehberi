@@ -28,7 +28,7 @@ wikidata_id: "Q34921219"
 
 # Haçbeli Tepesi
 
-Osmaniye'nin güzide noktalarından biri olan Haçbeli Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini etkiliyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Haçbeli Tepesi, doğal güzellikleri ve yaban hayatı ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıkarak Akdeniz Bölgesi'nin muhteşem manzarasını seyredebiliyorlar. Haçbeli Tepesi, aynı zamanda doğa yürüyüşleri için ideal bir nokta olarak kabul ediliyor.
+Osmaniye'nin güzide noktalarından biri olan Haçbeli Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini etkiliyor. Haçbeli Tepesi, doğal güzellikleri ve yaban hayatı ile dikkat çekiyor. Ziyaretçiler, bu tepeye çıkarak Akdeniz Bölgesi'nin muhteşem manzarasını seyredebiliyorlar. Haçbeli Tepesi, aynı zamanda doğa yürüyüşleri için ideal bir nokta olarak kabul ediliyor.
 
 ## Tarihçe
 

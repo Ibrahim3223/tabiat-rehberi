@@ -23,7 +23,7 @@ wikidata_id: "Q108227236"
 
 # Örumcek Ormani
 
-Örumcek Ormani, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Orman, çeşitli bitki türleri ve yaban hayatı ile dikkat çeker. Ziyaretçiler, bu güzel ormanda doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve bölgenin tarihi geçmişi hakkında bilgi edinebilirler. Örumcek Ormani, doğa severlerin ve macera arayanların vazgeçilmez bir destinasyonudur.
+Örumcek Ormani, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Orman, çeşitli bitki türleri ve yaban hayatı ile dikkat çeker. Ziyaretçiler, bu güzel ormanda doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve bölgenin tarihi geçmişi hakkında bilgi edinebilirler. Örumcek Ormani, doğa severlerin ve macera arayanların vazgeçilmez bir destinasyonudur.
 
 ## Tarihçe
 

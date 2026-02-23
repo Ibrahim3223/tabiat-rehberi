@@ -28,7 +28,7 @@ wikidata_id: "Q31385461"
 
 # Şeyhli Tepe
 
-Şeyhli Tepe, Erzurum'un doğal güzellikleri arasında yer alan bir doğa harikasıdır. Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bu tepe de bölgenin genel özelliklerini taşır. Şeyhli Tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Bu tepe, aynı zamanda tarihsel açıdan da önemli bir yere sahiptir. Tarihi geçmişinin zengin olması, ziyaretçilerin ilgisini çeker. Doğal güzellikleri ve tarihsel önemi ile Şeyhli Tepe, ziyaretçilerini bekleyen bir hazine gibidir.
+Şeyhli Tepe, Erzurum'un doğal güzellikleri arasında yer alan bir doğa harikasıdır. Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bu tepe de bölgenin genel özelliklerini taşır. Bu tepe, aynı zamanda tarihsel açıdan da önemli bir yere sahiptir. Tarihi geçmişinin zengin olması, ziyaretçilerin ilgisini çeker. Doğal güzellikleri ve tarihsel önemi ile Şeyhli Tepe, ziyaretçilerini bekleyen bir hazine gibidir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q31385461"
 
 ## Coğrafya
 
-Şeyhli Tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bu bölgenin genel özelliklerini taşır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Şeyhli Tepe'nin coğrafi konumu, ziyaretçilerin ilgisini çeker. Bu tepe, aynı zamanda iklim açısından da önemli bir yere sahiptir. Doğu Anadolu Bölgesi'nin karasal iklimi, bu tepe'de kendini gösterir. Kışları soğuk ve karlı, yazları ise sıcak ve kurak olan iklim, bu tepe'nin coğrafi yapısını etkiler. Şeyhli Tepe, coğrafi açıdan zengin bir bölge olup, ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
+Şeyhli Tepe, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, bu bölgenin genel özelliklerini taşır. Şeyhli Tepe'nin coğrafi konumu, ziyaretçilerin ilgisini çeker. Bu tepe, aynı zamanda iklim açısından da önemli bir yere sahiptir. Doğu Anadolu Bölgesi'nin karasal iklimi, bu tepe'de kendini gösterir. Kışları soğuk ve karlı, yazları ise sıcak ve kurak olan iklim, bu tepe'nin coğrafi yapısını etkiler. Şeyhli Tepe, coğrafi açıdan zengin bir bölge olup, ziyaretçilerini büyüleyen bir güzelliğe sahiptir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ wikidata_id: "Q31385461"
 ## İlginç Bilgiler
 
 - Şeyhli Tepe, Erzurum'un doğal güzellikleri arasında yer alan bir doğa harikasıdır.
-- Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini büyüleyen bir manzaraya sahiptir.
+
 - Şeyhli Tepe, tarihsel açıdan da önemli bir yere sahiptir.
 - Bu tepe, flora ve fauna açısından da zengin bir bölge olup, ziyaretçilerini büyüleyen bir doğa harikasıdır.
 - Şeyhli Tepe, ekolojik açıdan da önemli bir yere sahiptir.

@@ -28,7 +28,7 @@ wikidata_id: "Q31581193"
 
 # Doğyadağı Tepesi
 
-Doğyadağı Tepesi, Çorum'un önemli doğal ve tarihi noktalarından biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Doğyadağı Tepesi, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzelliği ile cezbediyor. Tepenin eteklerinde oluşan küçüköyler, bu bölgenin kültürel ve tarihi önemini vurguluyor. Doğyadağı Tepesi, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak kabul ediliyor.
+Doğyadağı Tepesi, Çorum'un önemli doğal ve tarihi noktalarından biridir. Doğyadağı Tepesi, ziyaretçilerini hem tarihi zenginlikleriyle hem de doğal güzelliği ile cezbediyor. Tepenin eteklerinde oluşan küçüköyler, bu bölgenin kültürel ve tarihi önemini vurguluyor. Doğyadağı Tepesi, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta olarak kabul ediliyor.
 
 ## Tarihçe
 

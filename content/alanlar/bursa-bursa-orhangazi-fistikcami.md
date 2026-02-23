@@ -1,7 +1,7 @@
 ---
 title: "Bursa-Bursa-Orhangazi Fistikcami"
 date: "2026-01-09T11:55:32.864Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"

@@ -41,7 +41,7 @@ Akbaba Tepe, coğrafi konumu itibarıyla Doğu Anadolu Bölgesi'nin önemli nokt
 
 ## Flora ve Fauna
 
-Akbaba Tepe, flora ve fauna açısından zengin bir bölge. Bu tepe, çeşitli bitki türlerini barındıran bir ekosistem oluşturuyor. Mevsimsel değişimler, bu bölgede yaşayan canlıları etkiliyor ve her mevsim farklı bir güzellik sunuyor. Akbaba Tepe, ziyaretçilerine doğayı keşfetme ve canlıları gözlemleme fırsatı sunuyor. Bu tepe, ekolojik dengesini korumayı başarmış bir bölge ve ziyaretçilerine doğal güzellikleri sunuyor. Akbaba Tepe'nin flora ve fauna zenginliği, bölgenin önemli bir parçası ve ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Akbaba Tepe, flora ve fauna açısından zengin bir bölge. Bu tepe, çeşitli bitki türlerini barındıran bir ekosistem oluşturuyor. Mevsimsel değişimler, bu bölgede yaşayan canlıları etkiliyor ve her mevsim farklı bir güzellik sunuyor. Akbaba Tepe, ziyaretçilerine doğayı keşfetme ve canlıları gözlemleme fırsatı sunuyor. Bu tepe, ekolojik dengesini korumayı başarmış bir bölge ve ziyaretçilerine doğal güzellikleri sunuyor.
 
 ## Ziyaret Bilgileri
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227562"
 
 # Erzurum-Sarikamis-Karakurt Saricam
 
-Erzurum-Sarikamis-Karakurt Saricam milli parkı, Doğu Anadolu Bölgesi'nde yer alan ve Türkiye'nin önemli doğal alanlarından biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yaban hayatı çeşitliliğine sahiptir. Bu bölge, hem yerli hem de yabancı turistler için önemli bir çekim merkezidir. Saricam milli parkı, özellikle kış aylarında kaya ve snowboard gibi kış sporlarına elverişli olan bir bölgedir. Parkın etrafında bulunan dağlar ve ormanlar, ziyaretçilere doğayla iç içe bir deneyim sunar.
+Erzurum-Sarikamis-Karakurt Saricam milli parkı, Doğu Anadolu Bölgesi'nde yer alan ve Türkiye'nin önemli doğal alanlarından biridir. Bu bölge, hem yerli hem de yabancı turistler için önemli bir çekim merkezidir. Saricam milli parkı, özellikle kış aylarında kaya ve snowboard gibi kış sporlarına elverişli olan bir bölgedir. Parkın etrafında bulunan dağlar ve ormanlar, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Erzurum-Sarikamis-Karakurt Saricam milli parkının tarihi geçmişi, yüzyılla
 
 ## Coğrafya
 
-Erzurum-Sarikamis-Karakurt Saricam milli parkı, Doğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. Park, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapar. Milli parkın coğrafi yapısı, dağlar, ormanlar ve geniş otlaklardan oluşur. Bölge, kış aylarında kaya ve snowboard gibi kış sporlarına elverişli olan bir iklim sahiptir. Saricam milli parkının coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve çeşitli doğa aktivitelerine imkân tanır. Parkın etrafında bulunan dağlar ve ormanlar, ziyaretçilere doğayla iç içe bir deneyim sunar.
+Erzurum-Sarikamis-Karakurt Saricam milli parkı, Doğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. Bu geniş alan, çeşitli bitki türleri ve yaban hayvanlarına ev sahipliği yapar. Milli parkın coğrafi yapısı, dağlar, ormanlar ve geniş otlaklardan oluşur. Bölge, kış aylarında kaya ve snowboard gibi kış sporlarına elverişli olan bir iklim sahiptir. Saricam milli parkının coğrafi konumu, ziyaretçilere geniş bir manzara sunar ve çeşitli doğa aktivitelerine imkân tanır. Parkın etrafında bulunan dağlar ve ormanlar, ziyaretçilere doğayla iç içe bir deneyim sunar.
 
 ## Flora ve Fauna
 

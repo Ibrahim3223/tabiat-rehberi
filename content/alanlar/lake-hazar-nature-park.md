@@ -23,7 +23,7 @@ wikidata_id: "Q112656912"
 
 # Lake Hazar Nature Park
 
-Lake Hazar Nature Park, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık bir alan üzerinde kurulmuş bir doğa harikasıdır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın tüm güzelliklerini sunmaktadır. Park, doğa severler için bir cennet olarak düşünülebilir, çünkü burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Göl kenarında yürüyüş yapmak, doğanın seslerini dinleme ve yaban hayatını gözlemlemek için mükemmel bir yerdir.
+Lake Hazar Nature Park, İç Anadolu Bölgesi'nin göbeğinde, 140 hektarlık bir alan üzerinde kurulmuş bir doğa harikasıdır. Park, doğa severler için bir cennet olarak düşünülebilir, çünkü burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Göl kenarında yürüyüş yapmak, doğanın seslerini dinleme ve yaban hayatını gözlemlemek için mükemmel bir yerdir.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Lake Hazar Nature Park'ın tarihi geçmişi, yüzyıllar boyunca bölgenin doğa
 
 ## Coğrafya
 
-Lake Hazar Nature Park, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuştur. Park, 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu geniş alan, ziyaretçilere doğanın tüm güzelliklerini sunmak için tasarlanmıştır. Parkın coğrafi yapısı, göl, orman ve çayır gibi farklı ekosistemleri içermektedir. Göl, parkın merkezinde yer almakta ve su kuşları için önemli bir yaşam alanıdır. Ormanlar, çeşitli ağaç türleri ile zengin bir flora sunarken, çayır alanlar ise yaban hayatının çeşitliliğini artırmaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir iklimdir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasının çeşitliliğini etkilemektedir.
+Lake Hazar Nature Park, İç Anadolu Bölgesi'nin coğrafi özelliklerine uygun olarak kurulmuştur. Bu geniş alan, ziyaretçilere doğanın tüm güzelliklerini sunmak için tasarlanmıştır. Parkın coğrafi yapısı, göl, orman ve çayır gibi farklı ekosistemleri içermektedir. Göl, parkın merkezinde yer almakta ve su kuşları için önemli bir yaşam alanıdır. Ormanlar, çeşitli ağaç türleri ile zengin bir flora sunarken, çayır alanlar ise yaban hayatının çeşitliliğini artırmaktadır. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak karasal bir iklimdir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasının çeşitliliğini etkilemektedir.
 
 ## Flora ve Fauna
 

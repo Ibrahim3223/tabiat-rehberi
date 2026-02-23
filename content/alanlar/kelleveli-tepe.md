@@ -28,7 +28,7 @@ wikidata_id: "Q31386170"
 
 # Kelleveli Tepe
 
-Kelleveli Tepe, Gaziantep'in tarihi ve doğal güzellikleriyle dolu bir bölgesinde yer alıyor. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. Kelleveli Tepe'nin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle dolu bire davet ediyor.
+Kelleveli Tepe, Gaziantep'in tarihi ve doğal güzellikleriyle dolu bir bölgesinde yer alıyor. Bu bölge, hem doğal güzellikleri hem de tarihi geçmişiyle dikkat çekiyor. Kelleveli Tepe'nin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle dolu bire davet ediyor.
 
 ## Tarihçe
 

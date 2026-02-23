@@ -33,7 +33,7 @@ Antalya'nın büyüleyici manzaralarına ev sahipliği yapan Katran Dağı, ziya
 
 ## Tarihçe
 
-Antalya bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yerleşim ve ticaret merkezlerinden biri olmuştur. Hititler, Lidyalılar, Persler, Romalılar ve Osmanlılar gibi uygarlıkların izleri, Antalya'nın topraklarında hâlâ görülebilmektedir.
+Antalya bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, binlerce yıl boyunca çeşitli uygarlıkların yerleşim ve ticaret merkezlerinden biri olmuştur. Hititler, Lidyalılar, Persler, Romalılar ve Osmanlılar gibi uygarlıkların izleri, Antalya'nın topraklarında hâlâ görülebilmektedir.
 
 Doğal güzellikleri ve stratejik konumuyla Antalya, tarihi boyunca insanların ilgisini çekmiştir. Özellikle dağlık ve ormanlık alanlar, yaylacılık ve hayvancılık için elverişli ortamlar sunmuştur. Bu bölgelerde yaşayan halk, doğayla iç içe bir yaşam sürmüş ve geleneksel faaliyetlerle geçimini sağlamıştır.
 

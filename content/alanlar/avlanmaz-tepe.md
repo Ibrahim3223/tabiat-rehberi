@@ -28,7 +28,7 @@ wikidata_id: "Q31388651"
 
 # Avlanmaz Tepe
 
-Avlanmaz Tepe, Muğla'nın Ege Bölgesi'nde bulunan ve doğal güzellikleriyle dikkat çeken bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Avlanmaz Tepe, ziyaretçilerini etkileyici manzaralarıyla karşılar ve burada geçirilen zaman, doğanın güzelliği ile iç içe geçer. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Avlanmaz Tepe, Muğla'nın Ege Bölgesi'nde bulunan ve doğal güzellikleriyle dikkat çeken bir tepe. Avlanmaz Tepe, ziyaretçilerini etkileyici manzaralarıyla karşılar ve burada geçirilen zaman, doğanın güzelliği ile iç içe geçer. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 

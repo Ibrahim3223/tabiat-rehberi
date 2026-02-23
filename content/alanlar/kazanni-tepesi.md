@@ -28,11 +28,11 @@ wikidata_id: "Q31391265"
 
 # Kazannı Tepesi
 
-Kazannı Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır ve bu bölgenin gizli güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada doğa yürüyüşleri yapmak, manzaranın tadını çıkarma mümkün. Tepenin eteklerinde çeşitli değil, çeşitli bitki türleri bulunur ve bu bölgede yapılan araştırmalar, buranın ekolojik önemini ortaya koyar. Kazannı Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
+Kazannı Tepesi, İç Anadolu Bölgesi'nin merkezi bir konumunda yer alır ve bu bölgenin gizli güzelliklerinden biridir. Tepenin eteklerinde çeşitli değil, çeşitli bitki türleri bulunur ve bu bölgede yapılan araştırmalar, buranın ekolojik önemini ortaya koyar. Kazannı Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon.
 
 ## Tarihçe
 
-Kazannı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Bu bölgede yapılan kazılar ve araştırmalar, buranın geçmişinin zenginliğini ortaya koyar. Tarihi belgelerde tepenin adı geçmez ancak çevresindeki yerleşim yerlerinin históriği, bu bölgenin önemini gösterir. Tepenin eteklerinde yer alan köyler, yüzyıllar önce kurulmuş ve bu bölgenin kültürünü şekillendirmiştir. Kazannı Tepesi, sadece bir doğa harikası değil, aynı zamanda tarihin izlerini taşıyan bir nokta.
+Kazannı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır. Bu bölgede yapılan kazılar ve araştırmalar, buranın geçmişinin zenginliğini ortaya koyar. Tarihi belgelerde tepenin adı geçmez ancak çevresindeki yerleşim yerlerinin tarihiği, bu bölgenin önemini gösterir. Tepenin eteklerinde yer alan köyler, yüzyıllar önce kurulmuş ve bu bölgenin kültürünü şekillendirmiştir. Kazannı Tepesi, sadece bir doğa harikası değil, aynı zamanda tarihin izlerini taşıyan bir nokta.
 
 ## Coğrafya
 

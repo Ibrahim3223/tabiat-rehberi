@@ -32,7 +32,7 @@ Sivas'ın kuzeydoğusunda uzanan Köroğlu Dağı, Türkiye'nin önemli coğrafi
 
 ## Tarihçe
 
-Sivas bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, Hitit, Roma ve Bizans uygarlıkları bu topraklarda hüküm sürmüş, her biri bölgenin kültürel ve coğrafi dokusuna katkıda bulunmuştur. Köroğlu Dağı da, bu tarihsel zenginliğin bir parçası olarak Sivas'ın doğal güzelliklerine katkıda bulunur.
+Sivas bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Binlerce yıl önce, Hitit, Roma ve Bizans uygarlıkları bu topraklarda hüküm sürmüş, her biri bölgenin kültürel ve coğrafi dokusuna katkıda bulunmuştur. Köroğlu Dağı da, bu tarihsel zenginliğin bir parçası olarak Sivas'ın doğal güzelliklerine katkıda bulunur.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir role sahip olmuştur. Yayla ve dağlık bölgeler, yaylacılık ve hayvancılık için elverişli alanlar sunarken, aynı zamanda ticaret yolları ve stratejik noktalar olarak da kullanılmışlardır. Sivas Bölgesi de, tarihi İpek Yolu güzergahı üzerinde yer alması nedeniyle, ticaret ve kültür alışverişi açısından önemli bir merkez olmuştur.
 

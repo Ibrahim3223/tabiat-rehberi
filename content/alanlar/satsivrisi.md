@@ -32,9 +32,9 @@ Hakkari'nin dağlık arazisinde yer alan Satsivrisi Dağı, bölgenin zorlu coğ
 
 ## Tarihçe
 
-Hakkari'nin dağlık bölgesinde yer alan Satsivrisi, tarihin sâu izlerini taşıyan bir coğrafyada bulunmaktadır. Bu bölge, tarihi boyunca çeşitli uygarlıkların etkisine maruz kalmıştır. Medler, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, Hakkari'nin stratejik konumu nedeniyle burada hüküm sürmüşlerdir. 
+Hakkari'nin dağlık bölgesinde yer alan Satsivrisi, tarihin derin izlerini taşıyan bir coğrafyada bulunmaktadır. Bu bölge, tarihi boyunca çeşitli uygarlıkların etkisine maruz kalmıştır. Medler, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, Hakkari'nin stratejik konumu nedeniyle burada hüküm sürmüşlerdir.
 
-Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Yaylacılık ve hayvancılık faaliyetleri, bölgenin ekonomisini şekillendirmiş ve insanların bu alanlarla derin bir bağı oluşmasına neden olmuştur. Ayrıca, tarihi ticaret yolları da bu coğrafyada önemli bir rol oynamıştır. İnsanların bu doğal alanlarla kurdukları ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. 
+Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Yaylacılık ve hayvancılık faaliyetleri, bölgenin ekonomisini şekillendirmiş ve insanların bu alanlarla derin bir bağı oluşmasına neden olmuştur. Ayrıca, tarihi ticaret yolları da bu coğrafyada önemli bir rol oynamıştır. İnsanların bu doğal alanlarla kurdukları ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir.
 
 Satsivrisi, bu tarihsel bağlam içinde önemli bir yere sahiptir. Bölgenin coğrafi özellikleri, insanların yaşam şeklini etkileyerek, kendine özgü bir kültür oluşmasına katkıda bulunmuştur. Bu doğal alan, Türkiye'nin zengin tarihi ve kültürel mirasının bir parçasını oluşturmaktadır.
 
@@ -50,9 +50,9 @@ Mevsimsel değişimler açısından, Satsivrisi'nin bulunduğu bölge, soğuk k�
 
 ## Flora ve Fauna
 
-Satsivrisi dağının yükseklik zonları, çeşitli flora ve faunaya ev sahipliği yapar. İlkbaharda, alpin çayırlar renkli çiçeklerle kaplanır. Bu çiçekler, yüksek rakımlarda yetişen endemik türlerdir ve bölgeye özgüdür. 
+Satsivrisi dağının yükseklik zonları, çeşitli flora ve faunaya ev sahipliği yapar. İlkbaharda, alpin çayırlar renkli çiçeklerle kaplanır. Bu çiçekler, yüksek rakımlarda yetişen endemik türlerdir ve bölgeye özgüdür.
 
-Yaban hayatı, dağ keçileri, kurtlar ve ayılar gibi memelilerle temsil edilir. Kuşlar olarak, kartallar ve doğanların yanı sıra göçmen kuşlar, sonbaharda bu bölgeyi ziyaret eder. Sürüngenler de, bu dağ ekosisteminin bir parçasıdır. 
+Yaban hayatı, dağ keçileri, kurtlar ve ayılar gibi memelilerle temsil edilir. Kuşlar olarak, kartallar ve doğanların yanı sıra göçmen kuşlar, sonbaharda bu bölgeyi ziyaret eder. Sürüngenler de, bu dağ ekosisteminin bir parçasıdır.
 
 Satsivrisi dağının ekolojik değeri, yüksek dağ ekolojisi ve alpin çayırların varlığından gelir. Bu alan, endemik türlerin korunması ve yüksek dağ ekosisteminin devamı için önemlidir.
 

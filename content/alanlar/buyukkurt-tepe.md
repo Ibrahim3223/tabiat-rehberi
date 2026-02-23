@@ -50,7 +50,7 @@ Mevsimsel olarak bakıldığında, Büyükkurt Tepe'nin iklimi kışın soğuk v
 
 ## Flora ve Fauna
 
-Büyükkurt Tepe, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir doğal güzellik. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Büyükkurt Tepe, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir doğal güzellik. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbahar döneminde çiçek açan alpin bitkileri ve yükseklik zonlarına göre değişen flora çeşitliliği dikkat çekiyor. Sonbaharda, renk değiştiren yapraklar ve göç eden kuşlar manzarayı renklendiriyor. Dağ ekosisteminin yükseklik zonları, alpin flora ve dağ hayvanlarının yaşam alanlarını oluşturuyor.
 

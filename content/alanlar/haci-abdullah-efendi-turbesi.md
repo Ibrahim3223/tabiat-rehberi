@@ -1,7 +1,7 @@
 ---
 title: "Hacı Abdullah Efendi Türbesi"
 date: "2026-01-10T07:46:44.896Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391190"
 
 # Hacı Abdullah Efendi Türbesi
 
-Hacı Abdullah Efendi Türbesi, Konya'nın Seydişehir ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğa ile iç içe bir gezi deneyimi sunmaktadır. Bu özel mekan, hem tarihi hem de doğal güzelliklerin birleştiği bir noktada yer alır ve ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Hacı Abdullah Efendi Türbesi, Konya'nın Seydişehir ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır.
 
 ## Tarihçe
 

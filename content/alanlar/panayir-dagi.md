@@ -51,11 +51,11 @@ Mevsimsel değişikliklere bakıldığında, Panayır Dağı'nın iklim karakter
 
 ## Flora ve Fauna
 
-Panayır Dağı, İzmir'in zeytinlikleri ve çam ormanları arasında yükselen bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Panayır Dağı, İzmir'in zeytinlikleri ve çam ormanları arasında yükselen bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-İlkbaharın gelmesiyle birlikte, dağ yamacında çiçekler açar ve renkli bir görünüm sunar. Çam ağaçlarının arasında zeytinliklerle iç içe geçmiş bu doğa harikası, Akdeniz ikliminin karakteristik özelliklerini taşır. 
+İlkbaharın gelmesiyle birlikte, dağ yamacında çiçekler açar ve renkli bir görünüm sunar. Çam ağaçlarının arasında zeytinliklerle iç içe geçmiş bu doğa harikası, Akdeniz ikliminin karakteristik özelliklerini taşır.
 
-Yaban hayatı da oldukça zengin olan bu bölgede, çeşitli memeli ve kuş türleri yaşar. Göç mevsiminde, birçok kuş türü buraya uğrar ve dağın yükseklik zonlarında farklı yaşam formlarıyla karşılaşılır. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturur. 
+Yaban hayatı da oldukça zengin olan bu bölgede, çeşitli memeli ve kuş türleri yaşar. Göç mevsiminde, birçok kuş türü buraya uğrar ve dağın yükseklik zonlarında farklı yaşam formlarıyla karşılaşılır. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturur.
 
 Ekolojik değer açısından Panayır Dağı, bölgenin biyolojik çeşitliliğini korumak için önemli bir role sahiptir. Bu dağ ekosisteminin korunması, zeytinlikler ve çam ormanlarının sürdürülebilirliğini sağlar.
 

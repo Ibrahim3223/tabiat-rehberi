@@ -23,7 +23,7 @@ wikidata_id: "Q108228398"
 
 # Samsun-Bafra Kızılırmak Deltası
 
-Samsun-Bafra Kızılırmak Deltası, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Samsun'un Bafra ilçesinde yer alıyor. Bu delta, yaban hayvanları ve bitki türleri için gerçek bir cennet ve aynı zamanda önemli bir turizm merkezi. Doğa tutkunları ve gezi severler için ideal bir destinasyon olan Samsun-Bafra Kızılırmak Deltası, ziyaretçilerini bekliyor.
+Samsun-Bafra Kızılırmak Deltası, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak karşımıza çıkıyor. Bu delta, yaban hayvanları ve bitki türleri için gerçek bir cennet ve aynı zamanda önemli bir turizm merkezi. Doğa tutkunları ve gezi severler için ideal bir destinasyon olan Samsun-Bafra Kızılırmak Deltası, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -35,7 +35,7 @@ Samsun-Bafra Kızılırmak Deltası, coğrafi olarak Karadeniz Bölgesi'nde yer 
 
 ## Flora ve Fauna
 
-Samsun-Bafra Kızılırmak Deltası, flora ve fauna açısından oldukça zengin bir bölge. Delta, çeşitli bitki türleri ve yaban hayvanları için ideal bir habitat sunuyor. Delta, aynı zamanda, birçok kuş türünün yuvalandığı ve ürediği bir alan olarak kabul ediliyor. Delta, yaban hayatı için önemli bir sığınak olarak kabul ediliyor ve bu nedenle, delta, doğa severler ve yaban hayatı tutkunları için gerçek bir cennet olarak kabul ediliyor. Delta, aynı zamanda, birçok farklı türde bitki ve ağaç için de ideal bir habitat sunuyor.
+ Delta, çeşitli bitki türleri ve yaban hayvanları için ideal bir habitat sunuyor. Delta, aynı zamanda, birçok kuş türünün yuvalandığı ve ürediği bir alan olarak kabul ediliyor. Delta, yaban hayatı için önemli bir sığınak olarak kabul ediliyor ve bu nedenle, delta, doğa severler ve yaban hayatı tutkunları için gerçek bir cennet olarak kabul ediliyor. Delta, aynı zamanda, birçok farklı türde bitki ve ağaç için de ideal bir habitat sunuyor.
 
 ## Ziyaret Bilgileri
 

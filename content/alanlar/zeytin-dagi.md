@@ -29,7 +29,7 @@ wikidata_id: "Q31386152"
 
 # Zeytin Dağı
 
-Zeytin Dağı, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Gaziantep ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeye karşılık gelir. Zeytin Dağı, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Dağın eteklerinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel yaşam kültürünü tanıma fırsatı sunar.
+Zeytin Dağı, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Gaziantep ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Zeytin Dağı, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Dağın eteklerinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel yaşam kültürünü tanıma fırsatı sunar.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Zeytin Dağı, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunar. Bu
 ## İlginç Bilgiler
 
 - Zeytin Dağı, yaklaşık 140 hektarlık bir alanı kaplar.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeye karşılık gelir.
+
 - Zeytin Dağı, tarihsel olarak önemli bir bölgede yer alır.
 - Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve zengin bir kültürel mirasa sahiptir.
 - Zeytin Dağı'nın etrafında, çeşitli bitki türleri ve zengin fauna bulunur.

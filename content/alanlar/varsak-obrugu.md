@@ -22,7 +22,7 @@ wikidata_id: "Q108228963"
 
 # VARSAK OBRUĞU
 
-Varsak Obruğu, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Varsak Obruğu'nun sunduğu manzaralar, ziyaretçilerini büyüleyecek güzellikte. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın çeşitliliğini gösteriyor. 140 hektarlık bu yeşil alan, hem doğa severlerin hem dephotografcıların gözdesi.
+Varsak Obruğu, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Varsak Obruğu'nun sunduğu manzaralar, ziyaretçilerini büyüleyecek güzellikte. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın çeşitliliğini gösteriyor. 140 hektarlık bu yeşil alan, hem doğa severlerin hem dephotografcıların gözdesi.
 
 ## Tarihçe
 

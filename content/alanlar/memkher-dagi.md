@@ -52,9 +52,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından Memkher Dağ�
 
 Memkher Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarında, alpin flora çeşitliliği göze çarpıyor. İlkbahar aylarında, dağ yamaçları çiçeklerle donanırken, sonbaharda göç eden kuşlar bu bölgeyi ziyaret ediyor.
 
-Bitki örtüsünün hakim türleri, kuraklığa adapte olmuş step ve bozkır bitkilerinden oluşuyor. Bu bitkiler, yükseklik zonlarına göre değişkenlik gösteriyor. Dağın yüksek kesimlerinde, alpin çiçekler ve otsu bitkiler yaygındır. 
+Bitki örtüsünün hakim türleri, kuraklığa adapte olmuş step ve bozkır bitkilerinden oluşuyor. Bu bitkiler, yükseklik zonlarına göre değişkenlik gösteriyor. Dağın yüksek kesimlerinde, alpin çiçekler ve otsu bitkiler yaygındır.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağın yüksek kesimlerinde yaşarken, kartallar, şahinler ve doğanlar gibi kuşlar, gökyüzünde süzülüyor. Sürüngenler ise, dağların kayalık alanlarında ve otsu bitkilerin arasında yaşamlarını sürdürüyor. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağın yüksek kesimlerinde yaşarken, kartallar, şahinler ve doğanlar gibi kuşlar, gökyüzünde süzülüyor. Sürüngenler ise, dağların kayalık alanlarında ve otsu bitkilerin arasında yaşamlarını sürdürüyor.
 
 Memkher Dağı, ekolojik açıdan önemli bir bölge olarak koruma altına alınmıştır. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve doğallığını korumak için büyük önem taşıyor.
 

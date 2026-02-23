@@ -28,7 +28,7 @@ wikidata_id: "Q31387306"
 
 # Aydoğan Tepesi
 
-Aydoğan Tepesi, Ordu'nun Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlayan bir doğa harikası. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found, bu bölgenin ekolojik önemini vurguluyor. Aydoğan Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak dikkat çekiyor.
+Aydoğan Tepesi, Ordu'nun Karadeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlayan bir doğa harikası. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve zengin fauna found, bu bölgenin ekolojik önemini vurguluyor. Aydoğan Tepesi, hem doğa severler hem de tarih meraklıları için bir çekim merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 

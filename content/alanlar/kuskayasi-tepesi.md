@@ -28,7 +28,7 @@ wikidata_id: "Q31550680"
 
 # Kuşkayası Tepesi
 
-Kuşkayası Tepesi, Mardin'in eşsiz doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir noktadır. Tepenin okolí, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu nedenle, doğa severler ve fotoğraf meraklıları için bir cennet gibi görünür. Mardin'in tarihi dokusunu keşfetme ve aynı zamanda doğal güzelliklere tanıklık etmek isteyenler, Kuşkayası Tepesi'ni ziyaret edebilirler.
+Kuşkayası Tepesi, Mardin'in eşsiz doğal güzelliklerinden biridir. Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir noktadır. Tepenin okolí, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu nedenle, doğa severler ve fotoğraf meraklıları için bir cennet gibi görünür. Mardin'in tarihi dokusunu keşfetme ve aynı zamanda doğal güzelliklere tanıklık etmek isteyenler, Kuşkayası Tepesi'ni ziyaret edebilirler.
 
 ## Tarihçe
 

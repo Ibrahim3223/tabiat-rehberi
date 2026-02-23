@@ -1,7 +1,7 @@
 ---
 title: "Osman Çelebi Türbesi"
 date: "2026-01-10T07:16:50.670Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tekirdağ"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390950"
 
 # Osman Çelebi Türbesi
 
-Marmara Bölgesi'nin güzide illerinden biri olan Tekirdağ'da bulunan Osman Çelebi Türbesi, ziyaretçilerini tarihsel ve kültürel bir yolculuğa çıkarıyor. Türbenin bulunduğu Marmaraereğlisi ilçesi, Marmara Denizi'ne kıyısı olan ve tarihi boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölge. Osman Çelebi Türbesi, etwa 140 hektarlık bir alan içinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu türbe, Marmara Bölgesi'nin önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor.
+Marmara Bölgesi'nin güzide illerinden biri olan Tekirdağ'da bulunan Osman Çelebi Türbesi, ziyaretçilerini tarihsel ve kültürel bir yolculuğa çıkarıyor. Türbenin bulunduğu Marmaraereğlisi ilçesi, Marmara Denizi'ne kıyısı olan ve tarihi boyunca çeşitli medeniyetlere ev sahipliği yapmış bir bölge. Bu türbe, Marmara Bölgesi'nin önemli tarihi ve kültürel değerlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 

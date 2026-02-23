@@ -1,7 +1,7 @@
 ---
 title: "Mahkeme Hamamı"
 date: "2026-01-09T22:28:18.186Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738463"
 
 # Mahkeme Hamamı
 
-Mahkeme Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir yerdir. Bu alan, yaklaşık 140 hektarlık bir stır ve yaklaşık 200 futbol sahası büyüklüğündedir. Mahkeme Hamamı, Marmara Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Tarihi geçmişi ve zengin kültürel mirası ile ziyaretçilerini cezbeden bu yer, aynı zamanda doğal güzellikleri ile de dikkat çekmektedir.
+Mahkeme Hamamı, Bursa'nın Osmangazi ilçesinde yer alan ve tarihi ile doğal güzellikleri bir arada sunan özel bir yerdir. Mahkeme Hamamı, Marmara Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Tarihi geçmişi ve zengin kültürel mirası ile ziyaretçilerini cezbeden bu yer, aynı zamanda doğal güzellikleri ile de dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Mahkeme Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Mahkeme Hamamı, Marmara Bölgesi'nin coğrafi güzellikleri arasında yer almaktadır. Bu alan, yüksek bir konumda yer almaktadır. Mahkeme Hamamı'nın coğrafi konumu, ziyaretçilere doğal güzellikleri ve tarihi yapıları keşfetme fırsatı sunmaktadır. Çevredeki dağlar ve ormanlar, bu yerin doğal güzelliklerini zenginleştirmektedir. Mahkeme Hamamı, Bursa'nın Osmangazi ilçesinde yer alan bir plaj olarak da bilinmektedir. Bu plaj, Marmara Denizi'nin güzelliklerini sunmaktadır. Mahkeme Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli aktiviteleri ve güzellikleri bir arada sunmaktadır.
+Mahkeme Hamamı, Marmara Bölgesi'nin coğrafi güzellikleri arasında yer almaktadır. Bu alan, yüksek bir konumda yer almaktadır. Çevredeki dağlar ve ormanlar, bu yerin doğal güzelliklerini zenginleştirmektedir. Mahkeme Hamamı, Bursa'nın Osmangazi ilçesinde yer alan bir plaj olarak da bilinmektedir. Bu plaj, Marmara Denizi'nin güzelliklerini sunmaktadır. Mahkeme Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli aktiviteleri ve güzellikleri bir arada sunmaktadır.
 
 ## Flora ve Fauna
 
-Mahkeme Hamamı, zengin bir flora ve faunaya sahiptir. Bu alan, çeşitli bitki türleri ve hayvanlarla doludur. Mahkeme Hamamı'nın çevresindeki ormanlar, ziyaretçilere doğal güzellikleri sunmaktadır. Mevsimsel değişimler, bu yerin güzelliklerini farklı şekillerde göstermektedir. Mahkeme Hamamı, aynı zamanda çeşitli kuş türlerine de ev sahipliği yapmaktadır. Bu yerin ekolojik dengesi, ziyaretçilere doğanın güzelliklerini göstermektedir. Mahkeme Hamamı'nın flora ve faunası, ziyaretçilere doğal güzellikleri keşfetme fırsatı sunmaktadır.
+Mahkeme Hamamı, zengin bir flora ve faunaya sahiptir. Bu alan, çeşitli bitki türleri ve hayvanlarla doludur. Mahkeme Hamamı'nın çevresindeki ormanlar, ziyaretçilere doğal güzellikleri sunmaktadır. Mevsimsel değişimler, bu yerin güzelliklerini farklı şekillerde göstermektedir. Mahkeme Hamamı, aynı zamanda çeşitli kuş türlerine de ev sahipliği yapmaktadır. Bu yerin ekolojik dengesi, ziyaretçilere doğanın güzelliklerini göstermektedir.
 
 ## Ziyaret Bilgileri
 
@@ -51,7 +51,7 @@ Mahkeme Hamamı, ziyaretçilere çeşitli aktiviteler sunmaktadır. Bu yer, tari
 ## İlginç Bilgiler
 
 - Mahkeme Hamamı, Bursa'nın en önemli tarihi yerlerinden biridir.
-- Bu alan, 140 hektarlık bir stır.
+
 - Mahkeme Hamamı, Marmara Denizi'nin güzelliklerini sunmaktadır.
 - Bu yer, çeşitli medeniyetlerin izlerini taşıyan önemli bir kültürel mirastır.
 - Mahkeme Hamamı, aynı zamanda çeşitli kuş türlerine de ev sahipliği yapmaktadır.

@@ -22,7 +22,7 @@ wikidata_id: "Q108227138"
 
 # Gorkemli Mese
 
-Gorkemli Mese, İç Anadolu Bölgesi'nin merkezinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölge için önemli bir ekolojik merkez olarak kabul edilir. Tarihi geçmişi ve zengin flora/fauna çeşitliliği ile dikkat çeken Gorkemli Mese, doğa severler için bir keşif alanıdır. Milli parkın çevresi, çeşitli bitki türleri ve yaban hayvanları ile kaplıdır. Bu alan, aynı zamanda önemli bir ekolojik denge merkezi olarak görev yapmaktadır. Gorkemli Mese, ziyaretçilerine doğanın güzelliğini ve önemini göstermektedir.
+Gorkemli Mese, İç Anadolu Bölgesi'nin merkezinde yer alan bir milli parktır. Tarihi geçmişi ve zengin flora/fauna çeşitliliği ile dikkat çeken Gorkemli Mese, doğa severler için bir keşif alanıdır. Milli parkın çevresi, çeşitli bitki türleri ve yaban hayvanları ile kaplıdır. Bu alan, aynı zamanda önemli bir ekolojik denge merkezi olarak görev yapmaktadır. Gorkemli Mese, ziyaretçilerine doğanın güzelliğini ve önemini göstermektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Gorkemli Mese'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bölge
 
 ## Coğrafya
 
-Gorkemli Mese, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlak alanları ve ormanlık bölgelerden oluşmaktadır. Milli parkın toplam alanı 140 hektar olup, bu alan yaklaşık 200 futbol sahası büyüklüğündedir. Bölge, çeşitli bitki türleri ve yaban hayvanları ile kaplıdır. Gorkemli Mese'nin coğrafi yapısı, ziyaretçilere geniş açık alanlar sunmaktadır. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal iklimdir. Bu nedenle, bölge yazları sıcak ve kurak, kışları ise soğuk ve karlı geçmektedir. Gorkemli Mese, coğrafi olarak önemli bir konumda yer almakta ve ziyaretçilere çeşitli doğa güzelliklerini sunmaktadır.
+Gorkemli Mese, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlak alanları ve ormanlık bölgelerden oluşmaktadır. Bölge, çeşitli bitki türleri ve yaban hayvanları ile kaplıdır. Gorkemli Mese'nin coğrafi yapısı, ziyaretçilere geniş açık alanlar sunmaktadır. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal iklimdir. Bu nedenle, bölge yazları sıcak ve kurak, kışları ise soğuk ve karlı geçmektedir. Gorkemli Mese, coğrafi olarak önemli bir konumda yer almakta ve ziyaretçilere çeşitli doğa güzelliklerini sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227239"
 
 # Bursa-Mustafakemalpaşa-Paşalar Kayin
 
-Bursa-Mustafakemalpaşa-Paşalar Kayin Milli Parkı, Marmara Bölgesi'nin güzide şehirlerinden Bursa'da yer alıyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğayla baş başa bırakıyor. Paşalar Kayin Milli Parkı, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu milli park, şehir hayatının stresinden kaçmak isteyenler için ideal bir kaçış noktası sunuyor. Bursa'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler, Paşalar Kayin Milli Parkı'nı ziyaret ederek doğanın güzelliğini de keşfedebilirler.
+Bursa-Mustafakemalpaşa-Paşalar Kayin Milli Parkı, Marmara Bölgesi'nin güzide şehirlerinden Bursa'da yer alıyor. Paşalar Kayin Milli Parkı, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Bu milli park, şehir hayatının stresinden kaçmak isteyenler için ideal bir kaçış noktası sunuyor. Bursa'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler, Paşalar Kayin Milli Parkı'nı ziyaret ederek doğanın güzelliğini de keşfedebilirler.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Paşalar Kayin Milli Parkı, Marmara Bölgesi'nin coğrafi yapısına uygun olar
 
 ## Flora ve Fauna
 
-Paşalar Kayin Milli Parkı, flora ve fauna açısından oldukça zengin. Milli parkta, çeşitli bitki türleri ve hayvanlar yaşyor. Mevsimsel değişimlere bağlı olarak, milli parkın flora ve faunası da değişiyor. İlkbahar ve yaz aylarında, bitki türleri daha da çeşitleniyor ve renkli bir manzara ortaya çıkıyor. Sonbahar ve kış aylarında ise, bazı bitki türleri yapraklarını döküyor ve milli parkın görünümü değişiyor. Milli parkın faunası da oldukça zengin. Burada, çeşitli kuş türleri, memeliler ve diğer hayvanlar yaşyor. Ziyaretçiler, milli parkı ziyaret ederken bu hayvanları doğal ortamlarında görebiliyorlar. Paşalar Kayin Milli Parkı, doğa severler ve hayvanseverler için ideal bir ziyaret noktası.
+ Milli parkta, çeşitli bitki türleri ve hayvanlar yaşyor. Mevsimsel değişimlere bağlı olarak, milli parkın flora ve faunası da değişiyor. İlkbahar ve yaz aylarında, bitki türleri daha da çeşitleniyor ve renkli bir manzara ortaya çıkıyor. Sonbahar ve kış aylarında ise, bazı bitki türleri yapraklarını döküyor ve milli parkın görünümü değişiyor. Milli parkın faunası da oldukça zengin. Burada, çeşitli kuş türleri, memeliler ve diğer hayvanlar yaşyor. Ziyaretçiler, milli parkı ziyaret ederken bu hayvanları doğal ortamlarında görebiliyorlar. Paşalar Kayin Milli Parkı, doğa severler ve hayvanseverler için ideal bir ziyaret noktası.
 
 ## Ziyaret Bilgileri
 

@@ -1,7 +1,7 @@
 ---
 title: "İş Sağlığı ve İş Güvenliği Müzesi"
 date: "2026-01-10T15:22:46.873Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"

@@ -22,7 +22,7 @@ wikidata_id: "Q108227969"
 
 # Adapazari-Izmit-Taskopru Saricam
 
-Adapazari-Izmit-Taskopru Saricam Milli Parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini koruma altına alıyor. Bu milli park, ziyaretçilerini doğanın içlerine davet ediyor ve burada geçirilen her an, unutulmaz bir deneyime dönüşüyor. Saricam, hem yerli hem de yabancı ziyaretçiler için bir çekim merkezi olarak dikkat çekiyor.
+Adapazari-Izmit-Taskopru Saricam Milli Parkı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu milli park, ziyaretçilerini doğanın içlerine davet ediyor ve burada geçirilen her an, unutulmaz bir deneyime dönüşüyor. Saricam, hem yerli hem de yabancı ziyaretçiler için bir çekim merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Adapazari-Izmit-Taskopru Saricam Milli Parkı, ziyaretçileri için birçok akti
 ## İlginç Bilgiler
 
 - Saricam Milli Parkı, İç Anadolu Bölgesi'nin en önemli milli parklarından biridir.
-- Parkın alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Saricam, zengin bir flora ve fauna ile ziyaretçilerini karşılar.
 - Park, özellikle kuş türleri için önemli bir yaşam alanıdır.
 - Saricam Milli Parkı, yılın her dönemi ziyaret edilebilir.

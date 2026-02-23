@@ -28,7 +28,7 @@ wikidata_id: "Q31388495"
 
 # Oluk Tepesi
 
-Erzurum'un doğal güzellikleri arasında yer alan Oluk Tepesi, Doğu Anadolu Bölgesi'nde bulunan bir tepe. Yaklaşık 140 hektarlık alan, 200 futbol sahası büyüklüğünde. Bu tepe, Erzurum'un merkezine uzun bir mesafe uzaklıkta. Oluk Tepesi, doğal güzelliği ile dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna yer alıyor. Oluk Tepesi'ne giden yol, genellikle asfalt ve stabilize yoldur. Bu yol, uzun bir mesafe uzunluğundadır. Oluk Tepesi, ziyaretçilerine doğal güzelliklerinin yanı sıra, tarihi ve kültürel zenginliklerini de sunuyor.
+Erzurum'un doğal güzellikleri arasında yer alan Oluk Tepesi, Doğu Anadolu Bölgesi'nde bulunan bir tepe. Bu tepe, Erzurum'un merkezine uzun bir mesafe uzaklıkta. Oluk Tepesi, doğal güzelliği ile dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna yer alıyor. Oluk Tepesi'ne giden yol, genellikle asfalt ve stabilize yoldur. Bu yol, uzun bir mesafe uzunluğundadır. Oluk Tepesi, ziyaretçilerine doğal güzelliklerinin yanı sıra, tarihi ve kültürel zenginliklerini de sunuyor.
 
 ## Tarihçe
 

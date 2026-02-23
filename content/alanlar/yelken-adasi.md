@@ -50,11 +50,11 @@ Marmara Denizi'nin iklim karakteri, Yelken Adası'nın hava durumunu da etkileme
 
 ## Flora ve Fauna
 
-Yelken Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlkbaharda, ada çiçeklerle kaplanıyor ve renkli bir manzara sunuyor. Kıyı bitkileri, ada'nın kıyı şeridini süsleyen önemli bir öğe. 
-Deniz kuşları, ada'nın önemli bir bileşeni. Göçmen kuşlar, sonbaharda ada üzerinden geçiyor. 
-Ada'nın ekolojik değeri, izole popülasyonları ve deniz kuşları nedeniyle önemli. 
-Koruma durumu, ada'nın doğal güzelliğini korumak için gerekli önlemlerin alınması gerekiyor. 
+Yelken Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlkbaharda, ada çiçeklerle kaplanıyor ve renkli bir manzara sunuyor. Kıyı bitkileri, ada'nın kıyı şeridini süsleyen önemli bir öğe.
+Deniz kuşları, ada'nın önemli bir bileşeni. Göçmen kuşlar, sonbaharda ada üzerinden geçiyor.
+Ada'nın ekolojik değeri, izole popülasyonları ve deniz kuşları nedeniyle önemli.
+Koruma durumu, ada'nın doğal güzelliğini korumak için gerekli önlemlerin alınması gerekiyor.
 Yelken Adası, doğa severler için önemli bir destinasyon. Ziyaretçiler, ada'nın doğal güzelliğini ve canlılarını keşfedebilir.
 
 ## Ziyaret Bilgileri

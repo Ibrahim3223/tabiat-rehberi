@@ -29,7 +29,7 @@ wikidata_id: "Q481670"
 
 # Amik Ovası
 
-Hatay'ın tarihi ve doğal güzellikleriyle ünlü bir bölgesi olan Amik Ovası, ziyaretçilerini cezbeden bir kanyon. Bu doğal harika, Hatay ilinin sınırları içinde yer alıyor ve bölgenin coğrafi zenginliklerine önemli bir katkı sağlıyor. Amik Ovası, doğa severlerin ve macera arayışında olanların ilgisini çekiyor. 
+Hatay'ın tarihi ve doğal güzellikleriyle ünlü bir bölgesi olan Amik Ovası, ziyaretçilerini cezbeden bir kanyon. Bu doğal harika, Hatay ilinin sınırları içinde yer alıyor ve bölgenin coğrafi zenginliklerine önemli bir katkı sağlıyor. Amik Ovası, doğa severlerin ve macera arayışında olanların ilgisini çekiyor.
 Hatay'ın bu önemli doğal oluşumu, ziyaretçilere unutulmaz anlar sunuyor.
 
 ## Tarihçe

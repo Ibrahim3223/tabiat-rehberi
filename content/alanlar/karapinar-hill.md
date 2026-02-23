@@ -29,7 +29,7 @@ wikidata_id: "Q31389111"
 
 # Karapınar Hill
 
-Karapınar Hill, Erzurum'un doğusunda yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanı ile dikkat çekmektedir. Bu bölge, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini beklemektedir. 140 hektarlık alan, geniş ve yeşil bir bölge olarak ziyaretçilere huzur veren bir atmosfer sunmaktadır. Karapınar Hill, ziyaretçilerine doğa ile iç içe bir gezi tecrübesi sunmakta ve tarihi geçmişini keşfetme fırsatı vermektedir.
+ Bu bölge, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini beklemektedir. 140 hektarlık alan, geniş ve yeşil bir bölge olarak ziyaretçilere huzur veren bir atmosfer sunmaktadır. Karapınar Hill, ziyaretçilerine doğa ile iç içe bir gezi tecrübesi sunmakta ve tarihi geçmişini keşfetme fırsatı vermektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karapınar Hill'in tarihi geçmişi, yüzyıllar boyunca farklı medeniyetlere e
 
 ## Coğrafya
 
-Karapınar Hill, Erzurum'un doğusunda yer alan bir tepe olarak coğrafi konumu ile dikkat çekmektedir. Bu bölge, 140 hektarlık yeşil alanı ile geniş ve yeşil bir bölge olarak ziyaretçilere huzur veren bir atmosfer sunmaktadır. Karapınar Hill'in coğrafi konumu, ziyaretçilere doğa ile iç içe bir gezi tecrübesi sunmakta ve tarihi geçmişini keşfetme fırsatı vermektedir. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde olan geniş bir alana sahiptir ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Karapınar Hill'in coğrafyası, ziyaretçilere bu bölgenin doğal güzelliğini keşfetme fırsatı vermektedir. Bu bölge, coğrafi konumu ile birlikte ziyaretçilere bir gezi deneyimi sunmaktadır.
+Karapınar Hill, Erzurum'un doğusunda yer alan bir tepe olarak coğrafi konumu ile dikkat çekmektedir. Bu bölge, 140 hektarlık yeşil alanı ile geniş ve yeşil bir bölge olarak ziyaretçilere huzur veren bir atmosfer sunmaktadır. Karapınar Hill'in coğrafi konumu, ziyaretçilere doğa ile iç içe bir gezi tecrübesi sunmakta ve tarihi geçmişini keşfetme fırsatı vermektedir. Karapınar Hill'in coğrafyası, ziyaretçilere bu bölgenin doğal güzelliğini keşfetme fırsatı vermektedir. Bu bölge, coğrafi konumu ile birlikte ziyaretçilere bir gezi deneyimi sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Karapınar Hill, doğal güzelliği ile birlikte ziyaretçilere çeşitli flora 
 
 ## Ziyaret Bilgileri
 
-Karapınar Hill'i ziyaret etmek, ziyaretçilere doğa ile iç içe bir gezi tecrübesi sunmaktadır. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde olan geniş bir alana sahiptir ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Karapınar Hill, ziyaretçilerine tarihi geçmişini keşfetme fırsatı vermektedir. Bu bölge, coğrafi konumu ile birlikte ziyaretçilere bir gezi deneyimi sunmaktadır. Karapınar Hill'i ziyaret etmek, ziyaretçilere bu bölgenin doğal güzelliğini keşfetme fırsatı vermektedir.
+Karapınar Hill'i ziyaret etmek, ziyaretçilere doğa ile iç içe bir gezi tecrübesi sunmaktadır. Karapınar Hill, ziyaretçilerine tarihi geçmişini keşfetme fırsatı vermektedir. Bu bölge, coğrafi konumu ile birlikte ziyaretçilere bir gezi deneyimi sunmaktadır. Karapınar Hill'i ziyaret etmek, ziyaretçilere bu bölgenin doğal güzelliğini keşfetme fırsatı vermektedir.
 
 ## İlginç Bilgiler
 
 - Karapınar Hill, 140 hektarlık yeşil alanı ile geniş ve yeşil bir bölge olarak ziyaretçilere huzur veren bir atmosfer sunmaktadır.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde olan geniş bir alana sahiptir.
+
 - Karapınar Hill, ziyaretçilerine doğa ile iç içe bir gezi tecrübesi sunmaktadır.
 - Bu bölge, coğrafi konumu ile birlikte ziyaretçilere bir gezi deneyimi sunmaktadır.
 - Karapınar Hill, ziyaretçilerine tarihi geçmişini keşfetme fırsatı vermektedir.

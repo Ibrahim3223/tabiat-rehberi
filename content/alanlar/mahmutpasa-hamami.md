@@ -1,7 +1,7 @@
 ---
 title: "Mahmutpaşa Hamamı"
 date: "2026-01-09T22:40:35.735Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738558"
 
 # Mahmutpaşa Hamamı
 
-Mahmutpaşa Hamamı, İstanbul'un Fatih ilçesinde bulunan tarihi bir hamamdır. Marmara Bölgesi'nin önemli kültürel varlıklarından biri olarak kabul edilir. Bu hamam, yaklaşık 1400'lü yıllarda inşa edilmiştir ve o günden bugüne kadar birçok restore çalışmasına sahne olmuştur. Mahmutpaşa Hamamı, 140 hektarlık bir alan üzerinde yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Hamamın tarihi ve kültürel önemi, onu ziyaretçiler için önemli bir destinasyon haline getirmiştir. Mahmutpaşa Hamamı, İstanbul'un zengin tarihi mirasını keşfetmek isteyenler için ideal bir yerdir.
+Mahmutpaşa Hamamı, İstanbul'un Fatih ilçesinde bulunan tarihi bir hamamdır. Marmara Bölgesi'nin önemli kültürel varlıklarından biri olarak kabul edilir. Bu hamam, yaklaşık 1400'lü yıllarda inşa edilmiştir ve o günden bugüne kadar birçok restore çalışmasına sahne olmuştur. Hamamın tarihi ve kültürel önemi, onu ziyaretçiler için önemli bir destinasyon haline getirmiştir. Mahmutpaşa Hamamı, İstanbul'un zengin tarihi mirasını keşfetmek isteyenler için ideal bir yerdir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mahmutpaşa Hamamı, 15. yüzyılın başlarında inşa edilmiştir. Hamamın in
 
 ## Coğrafya
 
-Mahmutpaşa Hamamı, Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunmaktadır. Hamam, 140 hektarlık bir alan üzerinde yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Hamamın bulunduğu alan, tarihi ve kültürel öneme sahiptir. Mahmutpaşa Hamamı, İstanbul'un merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Hamamın çevresi, tarihi binalar ve önemli kültürel varlıklarla çevrilidir. Mahmutpaşa Hamamı, Marmara Bölgesi'nin önemli bir parçası olarak kabul edilir ve birçok ziyaretçi tarafından ziyaret edilmektedir. Hamamın coğrafi konumu, onu ziyaretçiler için önemli bir destinasyon haline getirmiştir. Mahmutpaşa Hamamı, İstanbul'un tarihi ve kültürel mirasını keşfetmek isteyenler için ideal bir yerdir. Hamamın bulunduğu alan, birçok önemli olaya sahne olmuştur ve bu olaylar, hamamın önemini artırmıştır. Mahmutpaşa Hamamı, Marmara Bölgesi'nin önemli bir kültürel varlığı olarak kabul edilir ve birçok ziyaretçi tarafından ziyaret edilmektedir.
+Mahmutpaşa Hamamı, Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunmaktadır. Hamamın bulunduğu alan, tarihi ve kültürel öneme sahiptir. Mahmutpaşa Hamamı, İstanbul'un merkezi bir bölgesinde yer alır ve ulaşımı kolaydır. Hamamın çevresi, tarihi binalar ve önemli kültürel varlıklarla çevrilidir. Mahmutpaşa Hamamı, Marmara Bölgesi'nin önemli bir parçası olarak kabul edilir ve birçok ziyaretçi tarafından ziyaret edilmektedir. Hamamın coğrafi konumu, onu ziyaretçiler için önemli bir destinasyon haline getirmiştir. Mahmutpaşa Hamamı, İstanbul'un tarihi ve kültürel mirasını keşfetmek isteyenler için ideal bir yerdir. Hamamın bulunduğu alan, birçok önemli olaya sahne olmuştur ve bu olaylar, hamamın önemini artırmıştır. Mahmutpaşa Hamamı, Marmara Bölgesi'nin önemli bir kültürel varlığı olarak kabul edilir ve birçok ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Mugla-Fethiye-Guneydag Halep Cami"
 date: "2026-01-09T19:07:14.168Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Muğla"
@@ -14,7 +14,7 @@ aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotografi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Marmaris_Macera_Park.jpg/960px-Marmaris_Macera_Park.jpg","alt":"Mugla-Fethiye-Guneydag Halep Cami","caption":"Mugla-Fethiye-Guneydag Halep Cami","credit":"Marmaris Macera Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Fethiye-Guneydag%20Halep%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228007","tip":"genel"}]
-description: "Muğla'nın Fethiye ilçesinde yer alan Güneydağ Halep Cami, tarihi ve doğal güzellikleriyle dikkat çekiyor. Zengin bir geçmişe sahip olan bu région, ziyaretçilerini bekliyor."
+description: "Muğla'nın Fethiye ilçesinde yer alan Güneydağ Halep Cami, tarihi ve doğal güzellikleriyle dikkat çekiyor. Zengin bir geçmişe sahip olan bu bölge, ziyaretçilerini bekliyor."
 keywords: ["Muğla","Fethiye","Güneydağ Halep Cami","tarih","doğa","gezi","turizm","kültür","miras"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228007"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228007"
 
 # Mugla-Fethiye-Guneydag Halep Cami
 
-Muğla'nın Fethiye ilçesinde yer alan Güneydağ Halep Cami, 140 hektarlık bir alanı kaplayan bir bölge olarak dikkat çekiyor. Bu bölgenin büyüklüğü, yaklaşık 200 futbol sahası büyüklüğüne eşit. Güneydağ Halep Cami, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu bölge, Muğla'nın zengin kültürel mirasının bir parçasıdır. Tarihi geçmişi, ziyaretçilere unutulmaz bir deneyim sunar. Güneydağ Halep Cami, Muğla'nın önemli turizm merkezlerinden biri olarak kabul ediliyor.
+Muğla'nın Fethiye ilçesinde yer alan Güneydağ Halep Cami, 140 hektarlık bir alanı kaplayan bir bölge olarak dikkat çekiyor. Güneydağ Halep Cami, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu bölge, Muğla'nın zengin kültürel mirasının bir parçasıdır. Tarihi geçmişi, ziyaretçilere unutulmaz bir deneyim sunar. Güneydağ Halep Cami, Muğla'nın önemli turizm merkezlerinden biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Güneydağ Halep Cami'nin tarihi geçmişi, yüzyıllar boyunca uzanır. Bu böl
 
 ## Coğrafya
 
-Güneydağ Halep Cami, Muğla'nın Fethiye ilçesinde yer alır. Bu bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Güneydağ Halep Cami'nin coğrafi konumu, ziyaretçilere doğal güzellikler sunar. Bu bölge, zengin bir flora ve faunaya sahiptir. Güneydağ Halep Cami'nin iklimi, Akdeniz iklimi özellikleri gösterir. Bu bölge, yıl boyunca ılıman bir hava sahiptir. Güneydağ Halep Cami, ziyaretçilerine çeşitli coğrafi özellikler sunar. Bu bölge, Muğla'nın önemli coğrafi merkezlerinden biri olarak kabul ediliyor. Güneydağ Halep Cami'nin coğrafi konumu, ziyaretçileri etkiler.
+Güneydağ Halep Cami, Muğla'nın Fethiye ilçesinde yer alır. Güneydağ Halep Cami'nin coğrafi konumu, ziyaretçilere doğal güzellikler sunar. Bu bölge, zengin bir flora ve faunaya sahiptir. Güneydağ Halep Cami'nin iklimi, Akdeniz iklimi özellikleri gösterir. Bu bölge, yıl boyunca ılıman bir hava sahiptir. Güneydağ Halep Cami, ziyaretçilerine çeşitli coğrafi özellikler sunar. Bu bölge, Muğla'nın önemli coğrafi merkezlerinden biri olarak kabul ediliyor. Güneydağ Halep Cami'nin coğrafi konumu, ziyaretçileri etkiler.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Güneydağ Halep Cami, ziyaretçilere çeşitli olanaklar sunar. Bu bölge, yıl
 ## İlginç Bilgiler
 
 - Güneydağ Halep Cami, 140 hektarlık bir alanı kaplar.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Güneydağ Halep Cami, zengin bir flora ve faunaya sahiptir.
 - Bu bölge, yıl boyunca ılıman bir hava sahiptir.
 - Güneydağ Halep Cami, Muğla'nın önemli turizm merkezlerinden biri olarak kabul ediliyor.

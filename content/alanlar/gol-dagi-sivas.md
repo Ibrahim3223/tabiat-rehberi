@@ -50,9 +50,9 @@ Jeolojik açıdan bakıldığında, Göl Dağı'nın fiziksel yapısı oldukça 
 
 ## Flora ve Fauna
 
-Göl Dağı, Sivas'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekmektedir. 
+Göl Dağı, Sivas'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekmektedir.
 
-Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçlarında çiçekler açar ve renkli bir manzara oluşur. Step ve bozkır bitkileri, kuraklığa adapte olmuş türlerdir ve bu bölgede yaygın olarak görülürler. 
+Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçlarında çiçekler açar ve renkli bir manzara oluşur. Step ve bozkır bitkileri, kuraklığa adapte olmuş türlerdir ve bu bölgede yaygın olarak görülürler.
 
 Yaban hayatı açısından, dağda various memeli ve kuş türleri yaşar. Göç mevsimlerinde, özellikle sonbahar aylarında, birçok kuş türü bu bölgeden geçer. Sürüngenler de dağda yaşamını sürdüren önemli bir grup oluşturur.
 

@@ -1,7 +1,7 @@
 ---
 title: "Şem’un Nebi Türbesi"
 date: "2026-01-10T07:05:22.144Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilis"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390872"
 
 # Şem’un Nebi Türbesi
 
-Şem’un Nebi Türbesi, Kilis ilinin güneydoğusunda, Güneydoğu Anadolu Bölgesi'nde yer alan bir dinî mekân ve turistik destinasyon. Bu alan, yaklaşık 140 hektarlık bir araziye yayılmış ve 200 futbol sahası büyüklüğünde. Tarihi ve doğal güzellikleri bir arada sunan Şem’un Nebi Türbesi, ziyaretçilerini etkileyici bir deneyime davet ediyor. Burada, dinî ziyaretlerin yanı sıra doğayı keşfetme ve yerel kültürü öğrenme mümkün. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir, böylece ziyaretçiler hem dinî hem de doğal güzellikleri deneyimleyebilir.
+Şem’un Nebi Türbesi, Kilis ilinin güneydoğusunda, Güneydoğu Anadolu Bölgesi'nde yer alan bir dinî mekân ve turistik destinasyon. Tarihi ve doğal güzellikleri bir arada sunan Şem’un Nebi Türbesi, ziyaretçilerini etkileyici bir deneyime davet ediyor. Burada, dinî ziyaretlerin yanı sıra doğayı keşfetme ve yerel kültürü öğrenme mümkün. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir, böylece ziyaretçiler hem dinî hem de doğal güzellikleri deneyimleyebilir.
 
 ## Tarihçe
 

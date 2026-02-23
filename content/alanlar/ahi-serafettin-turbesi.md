@@ -1,7 +1,7 @@
 ---
 title: "Ahi Şerafettin Türbesi"
 date: "2026-01-10T05:51:39.470Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582391"
 
 # Ahi Şerafettin Türbesi
 
-Ahi Şerafettin Türbesi, Ankara'nın Altındağ ilçesinde bulunan tarihi bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu mekan, tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Ahi Şerafettin Türbesi, Ankara'nın en önemli tarihi mekanlarından biri olarak kabul ediliyor. Burada, geçmişin izlerini görme ve şehrin tarihini öğrenme mümkün. Ahi Şerafettin Türbesi, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Çevresindeki yeşilli ve flora, ziyaretçilere huzurlu bir atmosfer sunuyor.
+Ahi Şerafettin Türbesi, Ankara'nın Altındağ ilçesinde bulunan tarihi bir mekan. Bu mekan, tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Ahi Şerafettin Türbesi, Ankara'nın en önemli tarihi mekanlarından biri olarak kabul ediliyor. Burada, geçmişin izlerini görme ve şehrin tarihini öğrenme mümkün. Ahi Şerafettin Türbesi, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Çevresindeki yeşilli ve flora, ziyaretçilere huzurlu bir atmosfer sunuyor.
 
 ## Tarihçe
 

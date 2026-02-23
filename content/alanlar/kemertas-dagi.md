@@ -50,11 +50,11 @@ Kemertaş Dağı'nın bulunduğu bölge, karasal iklimin hakim olduğu bir aland
 
 ## Flora ve Fauna
 
-Kemertaş Dağı, Kars'ın yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kemertaş Dağı, Kars'ın yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Yükseklik zonlarına göre değişen bitki türleri, dağ ekosisteminin çeşitliliğini gösterir. Alpin flora, bu bölgenin karakteristik özelliğidir. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Yükseklik zonlarına göre değişen bitki türleri, dağ ekosisteminin çeşitliliğini gösterir. Alpin flora, bu bölgenin karakteristik özelliğidir.
 
-Yaban Hayatı olarak, memeliler ve kuşlar, dağın yüksek kesimlerinde yaşamlarını sürdürür. Göçmen kuşlar, sonbaharın yaklaşmasıyla birlikte buradan geçer. Sürüngenler de, dağın kayalık alanlarında yaşamını sürdürür. 
+Yaban Hayatı olarak, memeliler ve kuşlar, dağın yüksek kesimlerinde yaşamlarını sürdürür. Göçmen kuşlar, sonbaharın yaklaşmasıyla birlikte buradan geçer. Sürüngenler de, dağın kayalık alanlarında yaşamını sürdürür.
 
 Ekolojik Değer olarak, Kemertaş Dağı, endemik türlerin yaşam alanı olması nedeniyle önemlidir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak için gereklidir.
 

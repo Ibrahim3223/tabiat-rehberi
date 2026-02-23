@@ -28,7 +28,7 @@ wikidata_id: "Q31548613"
 
 # Kızılo Tepesi
 
-Kızılo Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak Siirt ilinin sınırları içinde yer alıyor. Bu tepenin etrafındaki 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçiler için geniş bir yeşil alan sunuyor. Kızılo Tepesi'nin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri ve zengin fauna, bu bölgeyi doğa severlerin ilgisini çekiyor. Tepenin yüksekliği ve konumu, ziyaretçilere Siirt'in panoramik manzarasını sunuyor.
+Kızılo Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak Siirt ilinin sınırları içinde yer alıyor. Kızılo Tepesi'nin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri ve zengin fauna, bu bölgeyi doğa severlerin ilgisini çekiyor. Tepenin yüksekliği ve konumu, ziyaretçilere Siirt'in panoramik manzarasını sunuyor.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kızılo Tepesi'ni ziyaret etmek, doğa severler için güzel bir deneyim olabil
 ## İlginç Bilgiler
 
 - Kızılo Tepesi, Siirt ilinin önemli doğal güzelliklerinden biri.
-- Tepenin etrafındaki 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Kızılo Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Tepenin zirvesine çıkıldığında, ziyaretçiler Siirt'in panoramik manzarasını izleyebiliyor.
 - Kızılo Tepesi'ne, Siirt il merkezinden hareket eden toplu taşıma araçları ile ulaşılabilir.

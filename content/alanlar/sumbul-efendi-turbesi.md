@@ -1,7 +1,7 @@
 ---
 title: "Sümbül Efendi Türbesi"
 date: "2026-01-10T07:41:58.603Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391154"
 
 # Sümbül Efendi Türbesi
 
-Sümbül Efendi Türbesi, İstanbul'un tarihi mekanlarından biri olarak Fatih ilçesinde bulunmaktadır. Bu önemli mekan, Marmara Bölgesi'nin kültür ve tarih zenginliğine katkıda bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükteki bir alanda ziyaretçilerini ağırlamaktadır. Tarihi geçmişi ile dikkat çeken Sümbül Efendi Türbesi, ziyaretçilerini geçmişe götürmeyi başarmaktadır. İstanbul'un kalbinde yer alan bu türbe, şehir gezilerinizin önemli duraklarından biri olabilir.
+Sümbül Efendi Türbesi, İstanbul'un tarihi mekanlarından biri olarak Fatih ilçesinde bulunmaktadır. Bu önemli mekan, Marmara Bölgesi'nin kültür ve tarih zenginliğine katkıda bulunmaktadır. Tarihi geçmişi ile dikkat çeken Sümbül Efendi Türbesi, ziyaretçilerini geçmişe götürmeyi başarmaktadır. İstanbul'un kalbinde yer alan bu türbe, şehir gezilerinizin önemli duraklarından biri olabilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sümbül Efendi Türbesi, tarihi geçmişi ile dikkat çeken önemli bir mekand�
 
 ## Coğrafya
 
-Sümbül Efendi Türbesi, İstanbul'un Fatih ilçesinde bulunmaktadır. Marmara Bölgesi'nin önemli mekanlarından biri olan bu türbe, coğrafi konumu ile dikkat çekmektedir. İstanbul'un kalbinde yer alan bu mekan, şehrin tarihi ve kültürel zenginliğine katkıda bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükteki bir alanda ziyaretçilerini ağırlamaktadır. İstanbul'un coğrafi yapısı, bu türbenin konumu ile birlikte düşünüldüğünde, ziyaretçilerin şehrin farklı noktalarına kolayca ulaşabileceği görülmektedir. Marmara Bölgesi'nin iklimi, Sümbül Efendi Türbesi'nin ziyaretçiler tarafından tercih edilmesini etkileyen önemli bir faktördür. Bu bölgenin coğrafi özellikleri, ziyaretçilere çeşitli olanaklar sunmaktadır.
+Sümbül Efendi Türbesi, İstanbul'un Fatih ilçesinde bulunmaktadır. Marmara Bölgesi'nin önemli mekanlarından biri olan bu türbe, coğrafi konumu ile dikkat çekmektedir. İstanbul'un kalbinde yer alan bu mekan, şehrin tarihi ve kültürel zenginliğine katkıda bulunmaktadır. İstanbul'un coğrafi yapısı, bu türbenin konumu ile birlikte düşünüldüğünde, ziyaretçilerin şehrin farklı noktalarına kolayca ulaşabileceği görülmektedir. Marmara Bölgesi'nin iklimi, Sümbül Efendi Türbesi'nin ziyaretçiler tarafından tercih edilmesini etkileyen önemli bir faktördür. Bu bölgenin coğrafi özellikleri, ziyaretçilere çeşitli olanaklar sunmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Sümbül Efendi Türbesi'ni ziyaret etmek, İstanbul'un tarihi ve kültürel zen
 
 - Sümbül Efendi Türbesi, İstanbul'un fethi sırasında önemli roller oynayan tarihi şahsiyetlerin bazılarının türbelerine ev sahipliği yapmaktadır.
 - Bu türbe, Marmara Bölgesi'nin kültür ve tarih zenginliğine katkıda bulunmaktadır.
-- Sümbül Efendi Türbesi, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Bu mekan, ziyaretçilerine geçmişe götürmeyi başarmaktadır.
 - Sümbül Efendi Türbesi, İstanbul'un kalbinde yer almaktadır.

@@ -22,7 +22,7 @@ wikidata_id: "Q108228827"
 
 # Kızören Obruğu Sulak Alanı
 
-İç Anadolu Bölgesi'nin merkezi bir konumda yer alan Kızören Obruğu Sulak Alanı, 140 hektarlık geniş bir alanda kurulan ve doğa severlerin ilgi odağı haline gelen bir sulak alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayarak, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Sulak alanın etrafında yer alan tepe ve vadiler, bu bölgeyi daha da özel kılıyor. Doğal güzelliği ve zengin fauna çeşitliliği ile dikkat çeken Kızören Obruğu Sulak Alanı, ziyaretçilerini doğanın içlerine davet ediyor.
+İç Anadolu Bölgesi'nin merkezi bir konumda yer alan Kızören Obruğu Sulak Alanı, 140 hektarlık geniş bir alanda kurulan ve doğa severlerin ilgi odağı haline gelen bir sulak alandır. Sulak alanın etrafında yer alan tepe ve vadiler, bu bölgeyi daha da özel kılıyor. Doğal güzelliği ve zengin fauna çeşitliliği ile dikkat çeken Kızören Obruğu Sulak Alanı, ziyaretçilerini doğanın içlerine davet ediyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Kızören Obruğu Sulak Alanı, ziyaretçilerine geniş bir gözlem alanı sunuy
 ## İlginç Bilgiler
 
 - Kızören Obruğu Sulak Alanı, 140 hektarlık geniş bir alanı kaplıyor.
-- Bu sulak alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Sulak alanın etrafında yer alan tepe ve vadiler, bu bölgeyi daha da özel kılıyor.
 - Kızören Obruğu Sulak Alanı, zengin fauna çeşitliliğine sahip bir bölgedir.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.

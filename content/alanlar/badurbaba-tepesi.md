@@ -28,7 +28,7 @@ wikidata_id: "Q31389107"
 
 # Badurbaba Tepesi
 
-Badurbaba Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve coğrafi güzelliği ile dikkat çeken bir tepe. Bu tepenin etrafında kurulmuş olan köyler ve kasabalar, tarihi geçmişi ve kültürel zenginliği ile ziyaretçilerini bekliyor. Badurbaba Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve çevresi ile birlikte yaklaşık 140 hektarlık bir alan üzerinde yer alıyor. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak biliniyor ve doğa severler için ideal bir gezi noktası.
+Badurbaba Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve coğrafi güzelliği ile dikkat çeken bir tepe. Bu tepenin etrafında kurulmuş olan köyler ve kasabalar, tarihi geçmişi ve kültürel zenginliği ile ziyaretçilerini bekliyor. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak biliniyor ve doğa severler için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Badurbaba Tepesi'nin tarihi geçmişi, bölgenin tarihi ile iç içe geçmiş du
 
 ## Coğrafya
 
-Badurbaba Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazi üzerinde yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna ile dolu ormanlar bulunuyor. Bu ormanlar, bölgenin ikliminin oluşmasında önemli bir rol oynuyor ve tepeyi ziyaret edenler, bu ormanların güzelliğini ve çeşitliliğini görebiliyor. Badurbaba Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve çevresi ile birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak biliniyor ve doğa severler için ideal bir gezi noktası. Tepenin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmelerini kolaylaştırıyor ve çeşitli aktivitelere katılma imkanı sunuyor.
+Badurbaba Tepesi, Doğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir arazi üzerinde yer alıyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna ile dolu ormanlar bulunuyor. Bu ormanlar, bölgenin ikliminin oluşmasında önemli bir rol oynuyor ve tepeyi ziyaret edenler, bu ormanların güzelliğini ve çeşitliliğini görebiliyor. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak biliniyor ve doğa severler için ideal bir gezi noktası. Tepenin coğrafi konumu, ziyaretçilerin bölgeyi keşfetmelerini kolaylaştırıyor ve çeşitli aktivitelere katılma imkanı sunuyor.
 
 ## Flora ve Fauna
 

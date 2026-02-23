@@ -50,9 +50,9 @@ Mardin'in iklimi, karasal iklim özellikleri gösterir ve Kirmizkaya Tepe de bu 
 
 ## Flora ve Fauna
 
-Kırmızkaya Tepe, Mardin'in yarı kurak ikliminde, step ve ova ekolojisine hakim bir dağ ekosistemi sunar. İlkbaharın başlangıcında, dağ yamaçları çeşitli çiçek türleriyle renklenir. 1200 metre yükseklikteki bu dağ, alpin flora çeşitliliğini gösterir. 
+Kırmızkaya Tepe, Mardin'in yarı kurak ikliminde, step ve ova ekolojisine hakim bir dağ ekosistemi sunar. İlkbaharın başlangıcında, dağ yamaçları çeşitli çiçek türleriyle renklenir. 1200 metre yükseklikteki bu dağ, alpin flora çeşitliliğini gösterir.
 
-Bitki örtüsünde hakim türler olarak çalılık ve otsu bitkiler bulunur. Sonbahar mevsiminde, göçmen kuşlar bu dağları ziyaret eder ve zengin bir yaban hayatı gözlemlenir. Memeliler ve sürüngenler de bu dağ ekosisteminin önemli parçalarıdır. 
+Bitki örtüsünde hakim türler olarak çalılık ve otsu bitkiler bulunur. Sonbahar mevsiminde, göçmen kuşlar bu dağları ziyaret eder ve zengin bir yaban hayatı gözlemlenir. Memeliler ve sürüngenler de bu dağ ekosisteminin önemli parçalarıdır.
 
 Kırmızkaya Tepe'nin ekolojik değeri, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliğiyle önemlidir. Bu dağ, bölgedeki ekosistemin dengesini korur ve canlıların yaşam alanlarını sağlar. Koruma durumu açısından, bu alanın doğal güzelliği ve biyolojik çeşitliliği korunmalıdır.
 

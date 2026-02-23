@@ -1,7 +1,7 @@
 ---
 title: "Anemurium Büyük Hamam"
 date: "2026-01-09T23:34:11.764Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739105"
 
 # Anemurium Büyük Hamam
 
-Anemurium Büyük Hamam, Mersin'in Anamur ilçesinde, Akdeniz Bölgesi'nin güneşli ve sıcak ikliminin hakim olduğu bir bölgede yer alır. Bu tarihi ve doğal güzellikleri bir araya getiren özel mekan, yaklaşık 140 hektarlık bir alanı kaplar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahiptir. Anemurium Büyük Hamam'ın etrafı, yeşilin çeşitli tonlarına sahip zengin bir flora ile çevrilidir. Bu mekan, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
+Anemurium Büyük Hamam, Mersin'in Anamur ilçesinde, Akdeniz Bölgesi'nin güneşli ve sıcak ikliminin hakim olduğu bir bölgede yer alır. Bu tarihi ve doğal güzellikleri bir araya getiren özel mekan, yaklaşık 140 hektarlık bir alanı kaplar. Anemurium Büyük Hamam'ın etrafı, yeşilin çeşitli tonlarına sahip zengin bir flora ile çevrilidir. Bu mekan, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Anemurium Büyük Hamam'ın tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Anemurium Büyük Hamam, Mersin'in Anamur ilçesinde, Akdeniz Bölgesi'nin güneşli ve sıcak ikliminin hakim olduğu bir bölgede yer alır. Bu mekan, yaklaşık 140 hektarlık bir alanı kaplar ve 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir genişliğe sahiptir. Anemurium Büyük Hamam'ın etrafı, yeşilin çeşitli tonlarına sahip zengin bir flora ile çevrilidir. Yeşil alanlar, ziyaretçilere dinlenme ve doğa ile iç içe olma fırsatı sunar. Anemurium Büyük Hamam, coğrafi konumu itibariyle, ziyaretçilerine birçok doğal güzelliği bir araya getiren bir mekan sunar. Mekan, ziyaretçilerine geniş ve yeşil alanlar sunar. Anemurium Büyük Hamam, coğrafi olarak zengin bir bölgede yer alır ve ziyaretçilerine birçok doğal güzelliği sunar.
+Anemurium Büyük Hamam, Mersin'in Anamur ilçesinde, Akdeniz Bölgesi'nin güneşli ve sıcak ikliminin hakim olduğu bir bölgede yer alır. Anemurium Büyük Hamam'ın etrafı, yeşilin çeşitli tonlarına sahip zengin bir flora ile çevrilidir. Yeşil alanlar, ziyaretçilere dinlenme ve doğa ile iç içe olma fırsatı sunar. Anemurium Büyük Hamam, coğrafi konumu itibariyle, ziyaretçilerine birçok doğal güzelliği bir araya getiren bir mekan sunar. Mekan, ziyaretçilerine geniş ve yeşil alanlar sunar. Anemurium Büyük Hamam, coğrafi olarak zengin bir bölgede yer alır ve ziyaretçilerine birçok doğal güzelliği sunar.
 
 ## Flora ve Fauna
 

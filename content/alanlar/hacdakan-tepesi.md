@@ -28,7 +28,7 @@ wikidata_id: "Q31544421"
 
 # Hacdakan Tepesi
 
-Hacdakan Tepesi, Güneydoğu Anadolu Bölgesi'nin wichtığı Batman'da yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleri ile kaplı. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Hacdakan Tepesi, Batman'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve bölgeye ulaşım oldukça kolay. Burada, doğanın güzelliğini ve tarihin izlerini keşfetme mümkün.
+Hacdakan Tepesi, Güneydoğu Anadolu Bölgesi'nin wichtığı Batman'da yer alan ve doğal güzellikleri ile dikkat çeken bir tepe. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Hacdakan Tepesi, Batman'ın merkezine uzun bir mesafe uzaklıkta yer alıyor ve bölgeye ulaşım oldukça kolay. Burada, doğanın güzelliğini ve tarihin izlerini keşfetme mümkün.
 
 ## Tarihçe
 

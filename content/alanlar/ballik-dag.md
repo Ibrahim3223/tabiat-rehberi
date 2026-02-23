@@ -28,7 +28,7 @@ wikidata_id: "Q31386024"
 
 # Ballık Dağ
 
-Ballık Dağ, Konya ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunar. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken Ballık Dağ, gezi severlerin ilgisini çekmektedir. Konya'nın coğrafi yapısına uygun olarak, Ballık Dağ da bozkır ikliminin hakim olduğu bir bölgede yer alır. Bu nedenle, ziyaretçiler burada çeşitli bitki türleri ve fauna ile karşılaşabilirler.
+Ballık Dağ, Konya ilinin İç Anadolu Bölgesi'nde yer alan bir tepe olarak bilinir. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken Ballık Dağ, gezi severlerin ilgisini çekmektedir. Konya'nın coğrafi yapısına uygun olarak, Ballık Dağ da bozkır ikliminin hakim olduğu bir bölgede yer alır. Bu nedenle, ziyaretçiler burada çeşitli bitki türleri ve fauna ile karşılaşabilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ballık Dağ'ın tarihi geçmişi, Konya'nın tarihi ile iç içe geçmiş durum
 
 ## Coğrafya
 
-Ballık Dağ, Konya ilinin coğrafi yapısına uygun olarak, bozkır ikliminin hakim olduğu bir bölgede yer alır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Ballık Dağ'ın coğrafi konumu, ziyaretçilerin çeşitli bitki türleri ve fauna ile karşılaşmasına olanak sağlar. Bu bölgede, genellikle step bitkileri ve çalılar bulunur. Ayrıca, Ballık Dağ'ın etrafında, çeşitli hayvan türleri de yaşamaktadır. Ballık Dağ, coğrafi olarak 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, ziyaretçilere doğayı keşfetme ve doğayla iç içe olma fırsatı sunar. Ballık Dağ'ın coğrafi konumu, aynı zamanda ziyaretçilerin Konya'nın diğer tarihi ve doğal güzelliklerine de ulaşmasına olanak sağlar.
+Ballık Dağ, Konya ilinin coğrafi yapısına uygun olarak, bozkır ikliminin hakim olduğu bir bölgede yer alır. Bu bölge, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Ballık Dağ'ın coğrafi konumu, ziyaretçilerin çeşitli bitki türleri ve fauna ile karşılaşmasına olanak sağlar. Bu bölgede, genellikle step bitkileri ve çalılar bulunur. Ayrıca, Ballık Dağ'ın etrafında, çeşitli hayvan türleri de yaşamaktadır. Bu geniş alan, ziyaretçilere doğayı keşfetme ve doğayla iç içe olma fırsatı sunar. Ballık Dağ'ın coğrafi konumu, aynı zamanda ziyaretçilerin Konya'nın diğer tarihi ve doğal güzelliklerine de ulaşmasına olanak sağlar.
 
 ## Flora ve Fauna
 

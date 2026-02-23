@@ -1,7 +1,7 @@
 ---
 title: "Abdülaziz Ağalar Türbesi"
 date: "2026-01-10T06:41:19.029Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735185"
 
 # Abdülaziz Ağalar Türbesi
 
-Abdülaziz Ağalar Türbesi, Muğla'nın Milas ilçesinde bulunan bir tarihi ve doğal güzellik alanıdır. Bu alan, yaklaşık 140 hektarlık bir arazide yer alıyor ve genişliği, 200 futbol sahası büyüklüğüne eşdeğer. Abdülaziz Ağalar Türbesi, tarihi ve kültürel önemi ile birlikte, doğal güzelliği ile de ziyaretçilerini çekiyor. Burada, denizin ve güneşin keyfini çıkarabilir, aynı zamanda tarihi ve kültürel mirası hakkında bilgi edinebilirsiniz. Abdülaziz Ağalar Türbesi, Muğla'nın Milas ilçesinin önemli bir turizm merkezi olarak dikkat çekiyor.
+Abdülaziz Ağalar Türbesi, Muğla'nın Milas ilçesinde bulunan bir tarihi ve doğal güzellik alanıdır. Abdülaziz Ağalar Türbesi, tarihi ve kültürel önemi ile birlikte, doğal güzelliği ile de ziyaretçilerini çekiyor. Burada, denizin ve güneşin keyfini çıkarabilir, aynı zamanda tarihi ve kültürel mirası hakkında bilgi edinebilirsiniz. Abdülaziz Ağalar Türbesi, Muğla'nın Milas ilçesinin önemli bir turizm merkezi olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abdülaziz Ağalar Türbesi, tarihi geçmişi ile dikkat çekiyor. Bu türbe, Ab
 
 ## Coğrafya
 
-Abdülaziz Ağalar Türbesi, Muğla'nın Milas ilçesinde yer alıyor ve doğal güzelliği ile dikkat çekiyor. Bu alan, geniş bir arazide yer alıyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Türbenin etrafı, yeşilliklerle çevrili ve ziyaretçilere, dinlenme ve doğayı seyretmek için uygun bir ortam sunuyor. Abdülaziz Ağalar Türbesi, denizin yakınında yer alıyor ve ziyaretçilere, deniz ve güneşin keyfini çıkarma fırsatı sunuyor. Ayrıca, türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Burada, ziyaretçiler, doğanın güzelliğini ve çeşitliliğini gözlemleyebilirler.
+Abdülaziz Ağalar Türbesi, Muğla'nın Milas ilçesinde yer alıyor ve doğal güzelliği ile dikkat çekiyor. Türbenin etrafı, yeşilliklerle çevrili ve ziyaretçilere, dinlenme ve doğayı seyretmek için uygun bir ortam sunuyor. Abdülaziz Ağalar Türbesi, denizin yakınında yer alıyor ve ziyaretçilere, deniz ve güneşin keyfini çıkarma fırsatı sunuyor. Ayrıca, türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Burada, ziyaretçiler, doğanın güzelliğini ve çeşitliliğini gözlemleyebilirler.
 
 ## Flora ve Fauna
 

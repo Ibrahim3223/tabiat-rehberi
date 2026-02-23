@@ -30,7 +30,7 @@ wikidata_id: "Q134728124"
 
 # Son Ok Anıtı
 
-Son Ok Anıtı, Çanakkale Savaşı'nın önemli bir bölümü olan Anzak çıkarmasının gerçekleştiği yer olan Eceabat'ta bulunur. Bu anıt, yaklaşık 140 hektarlık bir alanda yer alır ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Anzak çıkarmasının 100. yılı anısına yapılmış olan bu anıt, savaşınsel önemini ve bu bölgede yaşanmış olayların bir hatırası olarak kabul edilir. Anıttaki çeşitli yapılar ve anıtlar, ziyaretçilere savaşın históriaşını ve bu bölgede yaşanan olayları anlatmak için yapılmış olan bir açık hava müzesi gibi hizmet vermektedir.
+Son Ok Anıtı, Çanakkale Savaşı'nın önemli bir bölümü olan Anzak çıkarmasının gerçekleştiği yer olan Eceabat'ta bulunur. Anzak çıkarmasının 100. yılı anısına yapılmış olan bu anıt, savaşınsel önemini ve bu bölgede yaşanmış olayların bir hatırası olarak kabul edilir. Anıttaki çeşitli yapılar ve anıtlar, ziyaretçilere savaşın tarihişını ve bu bölgede yaşanan olayları anlatmak için yapılmış olan bir açık hava müzesi gibi hizmet vermektedir.
 
 ## Tarihçe
 

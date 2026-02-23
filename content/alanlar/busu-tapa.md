@@ -42,7 +42,7 @@ Kars'ın dağlık bölgeleri, halkların yaşam tarzı ve kültürel gelenekleri
 
 Doğu Anadolu Bölgesi'nin kuzeydoğu ucunda, Kars ilinin sınırları içinde yer alan Busu Tapa, 40.2155°K, 43.1972°D koordinatlarında bulunmaktadır. Bu dağ, Türkiye'nin kuzeydoğu sınırına yakın bir konumda, Gürcistan sınırının yaklaşık 20 kilometre güneyinde bulunmaktadır. Erişim açısından, Kars il merkezine yaklaşık 30 kilometre uzaklıkta olan Busu Tapa, bölgedeki diğer dağlar gibi zorlu bir coğrafyaya sahiptir.
 
-Jeolojik açıdan bakıldığında, Busu Tapa'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölge genel olarak volkani ve sedimentatif kayaçlardan oluşmaktadır. Bu dağ, çevresindeki diğer dağlarla benzer özellikler taşımaktadır ve régionun jeolojik yapısını oluşturan ana unsurlardan biridir. Busu Tapa'nın boyutları hakkında kesin bir bilgi olmasa da, bölgenin genel topoğrafyası, geniş ve dalgalı bir arazi yapısını andırmaktadır.
+Jeolojik açıdan bakıldığında, Busu Tapa'nın fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölge genel olarak volkani ve sedimentatif kayaçlardan oluşmaktadır. Bu dağ, çevresindeki diğer dağlarla benzer özellikler taşımaktadır ve bölgenin jeolojik yapısını oluşturan ana unsurlardan biridir. Busu Tapa'nın boyutları hakkında kesin bir bilgi olmasa da, bölgenin genel topoğrafyası, geniş ve dalgalı bir arazi yapısını andırmaktadır.
 
 Mevsimsel açıdan, Busu Tapa ve çevresindeki bölge, karasal iklimin hakim olduğu bir bölgedir. Kışlar soğuk ve kar yağışlı, yazlar ise serin ve kurak geçmektedir. Bu durum, bölgenin flora ve fauna açısından zengin bir çeşitlilik göstermesine neden olmaktadır. Hava durumu, yıl boyunca değişkenlik göstermekle birlikte, genel olarak bölgenin yüksek rakımı ve coğrafi konumu, iklim karakterini belirlemektedir.
 

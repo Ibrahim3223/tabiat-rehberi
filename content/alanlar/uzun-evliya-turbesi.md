@@ -1,7 +1,7 @@
 ---
 title: "Uzun Evliya Türbesi"
 date: "2026-01-10T07:11:10.488Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390976"
 
 # Uzun Evliya Türbesi
 
-Uzun Evliya Türbesi, İstanbul'un Beykoz ilçesinde bulunan ve Marmara Bölgesi'nin doğal güzelliklerini sunan bir alandır. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Tarihi ve coğrafi özellikleri ile ziyaretçilerini çeken Uzun Evliya Türbesi, İstanbul'un önemli doğal alanlarından biridir. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
+Uzun Evliya Türbesi, İstanbul'un Beykoz ilçesinde bulunan ve Marmara Bölgesi'nin doğal güzelliklerini sunan bir alandır. Tarihi ve coğrafi özellikleri ile ziyaretçilerini çeken Uzun Evliya Türbesi, İstanbul'un önemli doğal alanlarından biridir. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 
 ## Tarihçe
 

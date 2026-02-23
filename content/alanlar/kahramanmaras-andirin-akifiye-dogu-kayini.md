@@ -22,7 +22,7 @@ wikidata_id: "Q108228485"
 
 # Kahramanmaras-Andirin-Akifiye Dogu Kayini
 
-Kahramanmaras-Andirin-Akifiye Dogu Kayini, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde düşünülürse, ziyaretçilere geniş bir doğal alan sunuyor. Parkın etrafı, farklı türde ağaçlarla çevrili ve bu yeşil alan, hem yerel halk hem de ziyaretçiler için önemli bir dinlenme ve doğayı deneyimleme noktası olarak hizmet ediyor. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekmeyi başarıyor. Bu milli park, sadece doğal güzellikleri ile değil, aynı zamanda tarihi geçmişi ile de dikkat çekiyor ve ziyaretçilere hem doğayı hem de kültürel değerleri deneyimleme fırsatı sunuyor.
+Kahramanmaras-Andirin-Akifiye Dogu Kayini, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir milli parktır. Parkın etrafı, farklı türde ağaçlarla çevrili ve bu yeşil alan, hem yerel halk hem de ziyaretçiler için önemli bir dinlenme ve doğayı deneyimleme noktası olarak hizmet ediyor. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna, doğa severlerin ilgisini çekmeyi başarıyor. Bu milli park, sadece doğal güzellikleri ile değil, aynı zamanda tarihi geçmişi ile de dikkat çekiyor ve ziyaretçilere hem doğayı hem de kültürel değerleri deneyimleme fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kahramanmaras-Andirin-Akifiye Dogu Kayini, zengin flora ve fauna ile dikkat çek
 
 ## Ziyaret Bilgileri
 
-Kahramanmaras-Andirin-Akifiye Dogu Kayini, ziyaretçilere çeşitli olanaklar sunuyor. Parkı ziyaret etmek için, en uygun zaman, ilkbahar ve sonbahar ayları olarak kabul ediliyor. Bu aylarda, parkın içerisinde yaşayan bitkiler ve hayvanlar, en aktif hallerindeler ve bu durum, ziyaretçilere daha güzel bir manzara sunuyor. Parka ulaşım, özel araçlar veya toplu taşıma araçları ile sağlanabiliyor ve parkın girişi, kolayca ulaşılabilir bir konumda bulunuyor. Parkın içerisinde, ziyaretçilere yardımcı olmak için, çeşitli işaretler ve rehberler bulunuyor ve bu işaretler, ziyaretçilerin parkı daha fácil bir şekilde gezmelerini sağlıyor. Ziyaretçilerin, parkın içerisinde, doğayı koruma kurallarına uymaları ve parkın doğal dengesini bozacak herhangi bir davranışta bulunmamaları gerekiyor.
+Kahramanmaras-Andirin-Akifiye Dogu Kayini, ziyaretçilere çeşitli olanaklar sunuyor. Parkı ziyaret etmek için, en uygun zaman, ilkbahar ve sonbahar ayları olarak kabul ediliyor. Bu aylarda, parkın içerisinde yaşayan bitkiler ve hayvanlar, en aktif hallerindeler ve bu durum, ziyaretçilere daha güzel bir manzara sunuyor. Parka ulaşım, özel araçlar veya toplu taşıma araçları ile sağlanabiliyor ve parkın girişi, kolayca ulaşılabilir bir konumda bulunuyor. Parkın içerisinde, ziyaretçilere yardımcı olmak için, çeşitli işaretler ve rehberler bulunuyor ve bu işaretler, ziyaretçilerin parkı daha kolay bir şekilde gezmelerini sağlıyor. Ziyaretçilerin, parkın içerisinde, doğayı koruma kurallarına uymaları ve parkın doğal dengesini bozacak herhangi bir davranışta bulunmamaları gerekiyor.
 
 ## İlginç Bilgiler
 

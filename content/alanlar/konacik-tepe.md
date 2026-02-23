@@ -28,7 +28,7 @@ wikidata_id: "Q31387529"
 
 # Konacık Tepe
 
-Konacık Tepe, Çanakkale'nin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilerine hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Konacık Tepe, Çanakkale'nin önemli bir turizm merkezlerinden biri olarak kabul ediliyor. Burada, tarihi eserleri inceleyebilir, doğayı keşfedebilir ve yerel kültürü deneyimleyebilirsiniz.
+Konacık Tepe, Çanakkale'nin merkezinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepe. Bu alan, ziyaretçilerine hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Konacık Tepe, Çanakkale'nin önemli bir turizm merkezlerinden biri olarak kabul ediliyor. Burada, tarihi eserleri inceleyebilir, doğayı keşfedebilir ve yerel kültürü deneyimleyebilirsiniz.
 
 ## Tarihçe
 

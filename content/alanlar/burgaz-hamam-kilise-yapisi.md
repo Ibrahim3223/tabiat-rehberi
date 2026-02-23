@@ -1,7 +1,7 @@
 ---
 title: "Burgaz Hamam Kilise Yapısı"
 date: "2026-01-10T03:37:23.551Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245875"
 
 # Burgaz Hamam Kilise Yapısı
 
-Burgaz Hamam Kilise Yapısı, Datça'nın güzide bir bölgesinde, Ege Bölgesi'nin muhteşem manzaralarına sahip bir konumda yer alıyor. Bu tarihi ve doğal güzelliklerin birleştiği noktada, ziyaretçiler hem geçmişin izlerini takip edebiliyor hem de doğanın güzelliğine şahit olabiliyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere keşfetmek için geniş bir olanak sunuyor. Burgaz Hamam Kilise Yapısı, tarihi geçmişi ve doğal güzellikleriyle bir whole olarak ziyaretçilerini bekliyor.
+Burgaz Hamam Kilise Yapısı, Datça'nın güzide bir bölgesinde, Ege Bölgesi'nin muhteşem manzaralarına sahip bir konumda yer alıyor. Bu tarihi ve doğal güzelliklerin birleştiği noktada, ziyaretçiler hem geçmişin izlerini takip edebiliyor hem de doğanın güzelliğine şahit olabiliyor. Burgaz Hamam Kilise Yapısı, tarihi geçmişi ve doğal güzellikleriyle bir whole olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Haydarpaşa Hamamı"
 date: "2026-01-09T22:41:17.233Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738549"
 
 # Haydarpaşa Hamamı
 
-Haydarpaşa Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini bir araya getiren özel bir mekândır. Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bu hamam, aynı zamanda bir plaj alanı olarak da hizmet vermektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve misafirlerine geniş bir yeşil alan sunmaktadır. İstanbul'un gürültüsünden uzaklaşma ve tarihi bir atmosferde dinlenmek isteyenler için ideal bir destinasyon olan Haydarpaşa Hamamı, ziyaretçilerini bekliyor.
+Haydarpaşa Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini bir araya getiren özel bir mekândır. Fatih ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bu hamam, aynı zamanda bir plaj alanı olarak da hizmet vermektedir. İstanbul'un gürültüsünden uzaklaşma ve tarihi bir atmosferde dinlenmek isteyenler için ideal bir destinasyon olan Haydarpaşa Hamamı, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -51,6 +51,6 @@ Haydarpaşa Hamamı ve plaj alanı, yılın her döneminde ziyaret edilebilir. A
 
 - Haydarpaşa Hamamı, İstanbul'un en eski hamamlarından biridir.
 - Hamam, yüzyıllar boyunca birçok restorasyon geçirmiştir.
-- Hamamın etrafındaki yeşil alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Haydarpaşa Hamamı, turistler ve yerel halk tarafından ziyaret edilen bir kültürel mirastır.
 - Hamamın tarihi, Bizans ve Osmanlı dönemlerine kadar uzanmaktadır.

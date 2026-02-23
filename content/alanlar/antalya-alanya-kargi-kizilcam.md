@@ -22,7 +22,7 @@ wikidata_id: "Q108227414"
 
 # Antalya-Alanya-Kargi Kızılçam
 
-Antalya-Alanya-Kargi Kızılçam milli parkı, Akdeniz Bölgesi'nin güzide illerinden Antalya'da yer alıyor. 140 hektarlık bir alanı kaplayan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli park, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağı oluyor. Bu büyüleyici mekân, ziyaretçilerine unutulmaz bir deneyim vaat ediyor.
+Antalya-Alanya-Kargi Kızılçam milli parkı, Akdeniz Bölgesi'nin güzide illerinden Antalya'da yer alıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli park, özellikle doğa severlerin ve fotoğraf tutkunlarının ilgi odağı oluyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Alanya-Kargi Kızılçam milli parkının tarihi geçmişi, yüzyıllar 
 
 ## Coğrafya
 
-Antalya-Alanya-Kargi Kızılçam milli parkı, Akdeniz Bölgesi'nin coğrafi güzelliğinin bir parçası olarak yer alıyor. Bu milli park, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın coğrafi yapısı, ziyaretçilerine doğanın güzelliğini gösteriyor. Bu bölgede, dağlar, ormanlar ve akarsular gibi doğal güzellikler yer alıyor. Milli parkın coğrafi konumu, ziyaretçilerini doğanın kalbinde bir yolculuğa çıkarıyor. Kargi Kızılçam milli parkı, coğrafi güzelliği ile ziyaretçilerini büyülüyor ve onları doğanın güzelliği ile baş başa bırakıyor.
+Antalya-Alanya-Kargi Kızılçam milli parkı, Akdeniz Bölgesi'nin coğrafi güzelliğinin bir parçası olarak yer alıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Milli parkın coğrafi yapısı, ziyaretçilerine doğanın güzelliğini gösteriyor. Bu bölgede, dağlar, ormanlar ve akarsular gibi doğal güzellikler yer alıyor. Milli parkın coğrafi konumu, ziyaretçilerini doğanın kalbinde bir yolculuğa çıkarıyor. Kargi Kızılçam milli parkı, coğrafi güzelliği ile ziyaretçilerini büyülüyor ve onları doğanın güzelliği ile baş başa bırakıyor.
 
 ## Flora ve Fauna
 

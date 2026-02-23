@@ -28,7 +28,7 @@ wikidata_id: "Q31553345"
 
 # Malkaya Tepesi
 
-Malkaya Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden birisidir. Batman ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Malkaya Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerinilemek için ideal bir noktadır. Bu tepe, ziyaretçilerini bölgeye özgü flora ve fauna ile tanıştırmaya hazırdır. Malkaya Tepesi, Batman'ın önemli turizm noktalarından birisidir.
+Malkaya Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden birisidir. Batman ilinin sınırları içerisinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Malkaya Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerinilemek için ideal bir noktadır. Bu tepe, ziyaretçilerini bölgeye özgü flora ve fauna ile tanıştırmaya hazırdır. Malkaya Tepesi, Batman'ın önemli turizm noktalarından birisidir.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Malkaya Tepesi, Batman'ın önemli turizm noktalarından birisidir. Bu tepe, bö
 ## İlginç Bilgiler
 
 - Malkaya Tepesi, 140 hektarlık bir alanı kaplar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir.
+
 - Malkaya Tepesi, Batman'ın önemli turizm noktalarından birisidir.
 - Bu tepe, bölgenin flora ve fauna hakkında önemli bilgiler sunar.
 - Malkaya Tepesi, Batman'ın önemli doğal alanlarından birisidir.

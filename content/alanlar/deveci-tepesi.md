@@ -28,7 +28,7 @@ wikidata_id: "Q31390774"
 
 # Deveci Tepesi
 
-Deveci Tepesi, Yozgat'ın merkezinde yer alan ve şehrin panoramik manzarasını sunan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Bu tepe, hem şehrin tarihi hem de natural güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Ziyaretçiler, Deveci Tepesi'ne çıkarak Yozgat'ın geniş ovasını ve çevredeki dağları rahatlıkla görebiliyor.
+Deveci Tepesi, Yozgat'ın merkezinde yer alan ve şehrin panoramik manzarasını sunan bir tepe. Bu tepe, hem şehrin tarihi hem de natural güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Ziyaretçiler, Deveci Tepesi'ne çıkarak Yozgat'ın geniş ovasını ve çevredeki dağları rahatlıkla görebiliyor.
 
 ## Tarihçe
 

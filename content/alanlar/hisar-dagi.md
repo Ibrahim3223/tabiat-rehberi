@@ -1,7 +1,7 @@
 ---
 title: "Hisar Dağı"
 date: "2026-01-09T05:38:27.739Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Hakkari"
@@ -51,7 +51,7 @@ Doğal yapısını incelediğimizde, Hisar Dağı'nın boyutları hakkında net 
 
 ## Flora ve Fauna
 
-Hisar Dağı, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hisar Dağı, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki örtüsünü oluşturan alpin çayırlar, ilkbaharın gelmesiyle birlikte renkli çiçekler açarak dağın eteklerini bir halı gibi kaplar. Sonbaharda ise, çayırların sararması ve göç eden kuşların geçişi, bu bölgenin dinamik ekolojisini gözler önüne serer.
 
 Yaban hayatı, dağların yükseklik zonlarına uyum sağlamış memeliler, kuşlar ve sürüngenlerle dolu. Dağ keçileri ve çakallar, dağların kaya dik yamaçlarında yaşarken, kartallar ve doğanların gökyüzünde süzülüşü, bu bölgenin canlı çeşitliliğini gösterir.

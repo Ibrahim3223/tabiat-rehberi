@@ -28,7 +28,7 @@ wikidata_id: "Q31390603"
 
 # Devedamı Tepesi
 
-Devedamı Tepesi, Nevşehir'in İç Anadolu Bölgesi'ndeki konumuyla dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanıyla önemli bir doğal güzellik olarak karşımıza çıkıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte bir doğal alan, İç Anadolu Bölgesi'nde ender görülen bir güzellik. Devedamı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir nokta olarak biliniyor. Bu tepe, Nevşehir'in coğrafi yapısını ve tarihi geçmişi hakkında önemli ipuçları sunuyor.
+Devedamı Tepesi, Nevşehir'in İç Anadolu Bölgesi'ndeki konumuyla dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanıyla önemli bir doğal güzellik olarak karşımıza çıkıyor. Devedamı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir nokta olarak biliniyor. Bu tepe, Nevşehir'in coğrafi yapısını ve tarihi geçmişi hakkında önemli ipuçları sunuyor.
 
 ## Tarihçe
 

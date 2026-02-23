@@ -28,7 +28,7 @@ wikidata_id: "Q31581272"
 
 # Karaleylik Tepesi
 
-Karaleylik Tepesi, Çorum'un eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Karaleylik Tepesi, ziyaretçilerini etkileyici manzarası ve zengin doğası ile bekliyor. Bu tepe, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+Karaleylik Tepesi, Çorum'un eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Karaleylik Tepesi, ziyaretçilerini etkileyici manzarası ve zengin doğası ile bekliyor. Bu tepe, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

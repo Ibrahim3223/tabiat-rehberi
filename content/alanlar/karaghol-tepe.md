@@ -28,7 +28,7 @@ wikidata_id: "Q31391279"
 
 # Karaghol Tepe
 
-Karaghol Tepe, İç Anadolu Bölgesi'nin geniş ve verimli ovaları arasında yükselen bir tepe olarak dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgenin önemli bir coğrafi oluşumudur. Tepe, eteklerinde yer alan köylerle birlikte bir bütün olarak düşünülür ve yöre halkının yaşamında önemli bir rol oynar. Karaghol Tepe'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunur, bu da tepeyi doğal yaşam için önemli bir merkez haline getirir.
+Karaghol Tepe, İç Anadolu Bölgesi'nin geniş ve verimli ovaları arasında yükselen bir tepe olarak dikkat çeker. Tepe, eteklerinde yer alan köylerle birlikte bir bütün olarak düşünülür ve yöre halkının yaşamında önemli bir rol oynar. Karaghol Tepe'nin etrafında, çeşitli bitki türleri ve zengin fauna bulunur, bu da tepeyi doğal yaşam için önemli bir merkez haline getirir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31525447"
 
 # Dolubaba Tepesi
 
-Dolubaba Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan ve bölgenin en güzel manzaralı noktalarından biri olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle kaplı. Bu tepe, doğa severlerin ve fotoğraf sanatçılarının gözdesi haline gelmiş durumda. Tepeye çıktığınızda, Sivas'ın geniş ovasını ve eteklerini izleyebilirsiniz. Ayrıca, tepe etrafında çeşitli bitki türleri ve hayvanlar bulunmakta.
+Dolubaba Tepesi, Sivas'ın İç Anadolu Bölgesi'nde yer alan ve bölgenin en güzel manzaralı noktalarından biri olan bir tepe. Bu tepe, doğa severlerin ve fotoğraf sanatçılarının gözdesi haline gelmiş durumda. Tepeye çıktığınızda, Sivas'ın geniş ovasını ve eteklerini izleyebilirsiniz. Ayrıca, tepe etrafında çeşitli bitki türleri ve hayvanlar bulunmakta.
 
 ## Tarihçe
 

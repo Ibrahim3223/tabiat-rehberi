@@ -28,7 +28,7 @@ wikidata_id: "Q31386635"
 
 # Redzhlyuaziz-Fevkani Dağı
 
-İç Anadolu Bölgesi'nin coğrafi çeşitliliği, Redzhlyuaziz-Fevkani Dağı gibi önemli oluşumlarla zenginleşir. Bu dağ, yaklaşık 140 hektarlık bir alanı kaplar, ki bu størrelse yaklaşık 200 futbol sahası büyüklüğüne eşittir. Redzhlyuaziz-Fevkani Dağı, bölgenin coğrafi ve ekolojik dengesini korurken, aynı zamanda ziyaretçilerine güzel bir manzara sunar. Dağın yüksekliği, ziyaretçilerin bölgeyi farklı açılardan gözlemlemesine olanak tanır.
+İç Anadolu Bölgesi'nin coğrafi çeşitliliği, Redzhlyuaziz-Fevkani Dağı gibi önemli oluşumlarla zenginleşir. Redzhlyuaziz-Fevkani Dağı, bölgenin coğrafi ve ekolojik dengesini korurken, aynı zamanda ziyaretçilerine güzel bir manzara sunar. Dağın yüksekliği, ziyaretçilerin bölgeyi farklı açılardan gözlemlemesine olanak tanır.
 
 ## Tarihçe
 

@@ -48,11 +48,11 @@ Mevsimsel özellikler açısından incelendiğinde, Bektas Dağı'nın iklimi, D
 
 ## Flora ve Fauna
 
-Bektaş Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, çeşitli bitki türlerinin ev sahipliğini yapar. 
-Sonbaharda, göçmen kuşlar dağların üzerinden geçerek güneye doğru yol alır. 
-Bektaş Dağı'nda, memeliler, kuşlar ve sürüngenler bir arada yaşar. 
-Dağ keçileri ve yaban keçileri, dağların dik yamaçlarında kolayca dolaşırken, kartallar ve doğanların yükseklikte süzülüşünü izleme mümkün. 
+Bektaş Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, çeşitli bitki türlerinin ev sahipliğini yapar.
+Sonbaharda, göçmen kuşlar dağların üzerinden geçerek güneye doğru yol alır.
+Bektaş Dağı'nda, memeliler, kuşlar ve sürüngenler bir arada yaşar.
+Dağ keçileri ve yaban keçileri, dağların dik yamaçlarında kolayca dolaşırken, kartallar ve doğanların yükseklikte süzülüşünü izleme mümkün.
 Bektaş Dağı, yüksek dağ ekosisteminin korunması açısından büyük önem taşır. Bu nedenle, dağ ve çevresinin muhafazası için çalışmalara devam edilmelidir.
 
 ## Ziyaret Bilgileri

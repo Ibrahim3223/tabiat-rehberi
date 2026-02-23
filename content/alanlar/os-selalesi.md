@@ -23,7 +23,7 @@ wikidata_id: "Q130367248"
 
 # Os Şelalesi
 
-Os Şelalesi, Trabzon'un güzide bir bölgesinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Bu şelale, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerini büyüleyici bir manzara ile karşılar. Şelalenin yüksekliği ve suyu, ziyaretçilere unutulmaz bir deneyim sunar. Os Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
+Os Şelalesi, Trabzon'un güzide bir bölgesinde yer alan, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Şelalenin yüksekliği ve suyu, ziyaretçilere unutulmaz bir deneyim sunar. Os Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri olarak bilinir ve her yıl binlerce ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 

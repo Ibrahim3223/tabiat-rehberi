@@ -28,7 +28,7 @@ wikidata_id: "Q32139280"
 
 # Günbaşı Tepesi
 
-Günbaşı Tepesi, Erzurum'un görkemli doğasını keşfetmek isteyenler için bir cennet. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Tepenin eteklerinde yeşillikler içinde uzanan vadiler, tepeye tırmanırken karşılaşacağınız zengin flora ve fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Bu eşsiz doğa harikası, her mevsim farklı bir güzelliğe bürünerek, ziyaretçilerini büyülüyor.
+Günbaşı Tepesi, Erzurum'un görkemli doğasını keşfetmek isteyenler için bir cennet. Tepenin eteklerinde yeşillikler içinde uzanan vadiler, tepeye tırmanırken karşılaşacağınız zengin flora ve fauna, ziyaretçilere unutulmaz bir deneyim sunuyor. Bu eşsiz doğa harikası, her mevsim farklı bir güzelliğe bürünerek, ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

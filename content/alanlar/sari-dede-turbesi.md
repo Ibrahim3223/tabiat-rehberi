@@ -1,7 +1,7 @@
 ---
 title: "Sarı Dede Türbesi"
 date: "2026-01-10T07:10:10.077Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390988"
 
 # Sarı Dede Türbesi
 
-Sarı Dede Türbesi, İstanbul'un Sarıyer ilçesinde, Marmara Bölgesi'nin güzide bir köşesinde yer alan bir plaj ve tarihi mekan olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini  ve doğanın iç içe geçtiği bir ortamda ağırlıyor. Sarı Dede Türbesi, hem tarihi zenginlikleriyle hem de doğal güzellikleriyle İstanbul'un önemli turizm noktalarından biri olarak kabul ediliyor. Bu özel mekan, hem tarih severlerin hem de doğa tutkunlarının ilgisini çekmeyi başaran nadir yerlerden biri.
+Sarı Dede Türbesi, İstanbul'un Sarıyer ilçesinde, Marmara Bölgesi'nin güzide bir köşesinde yer alan bir plaj ve tarihi mekan olarak dikkat çekiyor. Sarı Dede Türbesi, hem tarihi zenginlikleriyle hem de doğal güzellikleriyle İstanbul'un önemli turizm noktalarından biri olarak kabul ediliyor. Bu özel mekan, hem tarih severlerin hem de doğa tutkunlarının ilgisini çekmeyi başaran nadir yerlerden biri.
 
 ## Tarihçe
 

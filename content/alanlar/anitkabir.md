@@ -30,7 +30,7 @@ wikidata_id: "Q615404"
 
 # Anıtkabir
 
-Ankara'nın kalbinde yer alan Anıtkabir, Türkiye'nin kurucusu Mustafa Kemal Atatürk'ün anıt mezarıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Anıtkabir, Türk mimarisi ve tarihini yansıtan önemli bir kültürel mirastır. Atatürk'ün yaşamı ve eserleri hakkında bilgi edinmek isteyenler için ideal bir yerdir. Anıtkabir'in mimarisi, Tür ve İslam sanatının etkilerini taşır. Anıt mezarın etrafında yer alan müzeler ve sergi alanları, Atatürk'ün yaşamını ve Türkiye'nin bağımsızlık mücadelesini anlatan önemli eserlere ev sahipliği yapar.
+Ankara'nın kalbinde yer alan Anıtkabir, Türkiye'nin kurucusu Mustafa Kemal Atatürk'ün anıt mezarıdır. Anıtkabir, Türk mimarisi ve tarihini yansıtan önemli bir kültürel mirastır. Atatürk'ün yaşamı ve eserleri hakkında bilgi edinmek isteyenler için ideal bir yerdir. Anıtkabir'in mimarisi, Tür ve İslam sanatının etkilerini taşır. Anıt mezarın etrafında yer alan müzeler ve sergi alanları, Atatürk'ün yaşamını ve Türkiye'nin bağımsızlık mücadelesini anlatan önemli eserlere ev sahipliği yapar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Anıtkabir'in tarihi, Mustafa Kemal Atatürk'ün vefat ettiği 1938 yılına kad
 
 ## Coğrafya
 
-Anıtkabir, Ankara'nın merkezinde, Rasattepe üzerinde yer alır. 140 hektarlık bu yeşil alan, Ankara'nın en büyük parklarından biridir. Anıtkabir'in coğrafi konumu, Ankara'nın históri ve kültürel merkezine yakınlığıyla önemlidir. Anıtkabir'in etrafında, çeşitli ağaç türleri ve çiçekler bulunur. Bahçelerin tasarımı, Tür ve İslam sanatının etkilerini taşır. Anıtkabir, Ankara'nın iklimine uygun olarak tasarlanmış ve inşa edilmiştir. Ankara'nın karasal iklimine rağmen, Anıtkabir'in bahçeleri ve yeşil alanları, ziyaretçilere serin ve huzurlu bir ortam sunar. Anıtkabir, Ankara'nın en önemli turistik merkezlerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+Anıtkabir, Ankara'nın merkezinde, Rasattepe üzerinde yer alır. 140 hektarlık bu yeşil alan, Ankara'nın en büyük parklarından biridir. Anıtkabir'in coğrafi konumu, Ankara'nın tarihi ve kültürel merkezine yakınlığıyla önemlidir. Anıtkabir'in etrafında, çeşitli ağaç türleri ve çiçekler bulunur. Bahçelerin tasarımı, Tür ve İslam sanatının etkilerini taşır. Anıtkabir, Ankara'nın iklimine uygun olarak tasarlanmış ve inşa edilmiştir. Ankara'nın karasal iklimine rağmen, Anıtkabir'in bahçeleri ve yeşil alanları, ziyaretçilere serin ve huzurlu bir ortam sunar. Anıtkabir, Ankara'nın en önemli turistik merkezlerinden biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Flora ve Fauna
 

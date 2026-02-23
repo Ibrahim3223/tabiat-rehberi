@@ -48,9 +48,9 @@ Mevsimsel değişiklikler açısından Çalışaman Tepe, Diyarbakır'ın genel 
 
 ## Flora ve Fauna
 
-Çalışaman Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan bir dağ ekosistemi. Bu dağ, yükseklik zonları ile birlikte alpin flora ve dağ hayvanlarına ev sahipliği yapıyor. 
+Çalışaman Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgesinde yer alan bir dağ ekosistemi. Bu dağ, yükseklik zonları ile birlikte alpin flora ve dağ hayvanlarına ev sahipliği yapıyor.
 
-Bitki örtüsünü oluşturan step ve ova ekolojisi, ilkbahar aylarında renkli çiçeklerle donuyor. Sonbaharda ise, göçmen kuşlar dağların üzerinde uçarken, dağ yamaçlarında çeşitli otsu bitkiler ve çalılar hakim oluyor. 
+Bitki örtüsünü oluşturan step ve ova ekolojisi, ilkbahar aylarında renkli çiçeklerle donuyor. Sonbaharda ise, göçmen kuşlar dağların üzerinde uçarken, dağ yamaçlarında çeşitli otsu bitkiler ve çalılar hakim oluyor.
 
 Bu dağda yaşayan yaban hayat, memeliler, kuşlar ve sürüngenler olmak üzere çeşitlilik gösteriyor. Dağ keçileri, yaban domuzları gibi memeliler, dağların yüksek kesimlerinde yaşarken, kartallar, şahinler gibi kuşlar dağların üzerinde uçuyor. Sürüngenler ise, kaya ve taşların arasında yaşamını sürdürüyor.
 
@@ -64,7 +64,7 @@ Bu dağda yaşayan yaban hayat, memeliler, kuşlar ve sürüngenler olmak üzere
 
 - Çalışaman Tepe, Diyarbakır ilinin Silvan ilçesinde bulunur.
 - Bu tepe, Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan önemli bir noktadır.
-- Diyarbakır'ın históri ve turistik değerleri arasında yer alır.
+- Diyarbakır'ın tarihi ve turistik değerleri arasında yer alır.
 - Silvan ilçesi, Diyarbakır'ın önemli kültür merkezlerinden biridir.
 - Çalışaman Tepe'nin yüksekliği ve diğer özelliklerine ilişkin spesifik bilgiler bulunmamaktadır.
 - Diyarbakır, tarihi ve doğal güzellikleriyle ziyaretçilerini bekleyen bir kenttir.

@@ -33,9 +33,9 @@ Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için Körhızır Dağ
 
 ## Tarihçe
 
-Körhızır Dağı, Türkiye'nin zengin doğal mirasının bir parçası olarak karşımıza çıkıyor. Bu bölgenin tarihi, binlerce yıl öncesine dayanan bir geçmişe sahip. Hitit, Pers, Roma ve Osmanlı gibi çeşitli uygarlıkların izlerini taşıyan bu coğrafya, tarihin akışında önemli bir rol oynamıştır. 
+Körhızır Dağı, Türkiye'nin zengin doğal mirasının bir parçası olarak karşımıza çıkıyor. Bu bölgenin tarihi, binlerce yıl öncesine dayanan bir geçmişe sahip. Hitit, Pers, Roma ve Osmanlı gibi çeşitli uygarlıkların izlerini taşıyan bu coğrafya, tarihin akışında önemli bir rol oynamıştır.
 
-Bu tür doğal alanlar, Türkiye'de tarih boyunca önemli birer yaşam kaynağı olarak görev yapmışlardır. İnsanların bu alanlarla ilişkisi, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle şekillenmiştir. Bölgedeki dağlar ve vadiler, yüzyıllar boyunca insanların geçimini sağlayan önemli kaynaklar olmuştur. Ayrıca, tarihi ticaret yollarının da bu bölgelerden geçmesi, bölgenin stratejik önemini artırmıştır. 
+Bu tür doğal alanlar, Türkiye'de tarih boyunca önemli birer yaşam kaynağı olarak görev yapmışlardır. İnsanların bu alanlarla ilişkisi, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle şekillenmiştir. Bölgedeki dağlar ve vadiler, yüzyıllar boyunca insanların geçimini sağlayan önemli kaynaklar olmuştur. Ayrıca, tarihi ticaret yollarının da bu bölgelerden geçmesi, bölgenin stratejik önemini artırmıştır.
 
 Körhızır Dağı, bu zengin tarihsel bağlam içinde yer alır. Bölgenin doğal güzelliği ve coğrafi özellikleri, insanları her dönemde çekmiştir. Doğal kaynakların sürdürülebilir kullanımı ve korunması, bu alanların gelecekte de aynı önemini koruması için büyük önem taşımaktadır. Körhızır Dağı, Türkiye'nin doğal ve tarihsel mirasının bir parçası olarak, gelecek nesiller için korunmaya devam edecektir.
 
@@ -51,7 +51,7 @@ Mevsimsel değişikliklere baktığımızda, Körhızır Dağı'nın iklim karak
 
 ## Flora ve Fauna
 
-Körhızır Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çeker. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle kaplanır ve bozkırın kuraklığına adapte olmuş bitkiler yeşerir. Bu yükseklik zonlarında, alpin flora çeşitliliği göze çarpar. 
+Körhızır Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çeker. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle kaplanır ve bozkırın kuraklığına adapte olmuş bitkiler yeşerir. Bu yükseklik zonlarında, alpin flora çeşitliliği göze çarpar.
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunar. Göç mevsimlerinde, dağ yollarını kuş sürüleri doldurur ve bu manzara izleyenleri büyüler. Memeliler ve sürüngenler ise, dağın kaya oyukları ve çalılık alanlarda yaşamını sürdürür.
 

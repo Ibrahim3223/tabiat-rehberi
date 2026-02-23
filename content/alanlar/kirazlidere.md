@@ -23,7 +23,7 @@ wikidata_id: "Q108228084"
 
 # Kirazlidere
 
-Kirazlidere, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu 140 hektarlık yeşil alan, doğa severlerin keşfetmeyi bekleyen bir hazine. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın kucağına davet ediyor. Kirazlidere'nin fiziksel verileri, onu diğer doğa alanlarından ayıran özel bir konumda yer almasını sağlıyor. Burada, doğanın tüm güzelliğini ve çeşitliliğini gözlemleme mümkün.
+Kirazlidere, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu 140 hektarlık yeşil alan, doğa severlerin keşfetmeyi bekleyen bir hazine. Kirazlidere'nin fiziksel verileri, onu diğer doğa alanlarından ayıran özel bir konumda yer almasını sağlıyor. Burada, doğanın tüm güzelliğini ve çeşitliliğini gözlemleme mümkün.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Kirazlidere'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge, 
 
 ## Coğrafya
 
-Kirazlidere, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklarla ve ormanlık alanlarla çevrili. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Kirazlidere'nin coğrafi konumu, onu diğer doğa alanlarından ayıran özel bir özelliğe sahip. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Kirazlidere'nin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Bu bölge, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Kış mevsiminde karla kaplanan Kirazlidere, ilkbahar ve yaz aylarında ise yeşilin tüm tonlarını sergiliyor.
+Kirazlidere, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklarla ve ormanlık alanlarla çevrili. Kirazlidere'nin coğrafi konumu, onu diğer doğa alanlarından ayıran özel bir özelliğe sahip. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Kirazlidere'nin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Bu bölge, ziyaretçilerine dört mevsim boyunca farklı güzellikler sunuyor. Kış mevsiminde karla kaplanan Kirazlidere, ilkbahar ve yaz aylarında ise yeşilin tüm tonlarını sergiliyor.
 
 ## Flora ve Fauna
 

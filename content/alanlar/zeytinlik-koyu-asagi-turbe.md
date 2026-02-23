@@ -1,7 +1,7 @@
 ---
 title: "Zeytinlik Köyü Aşağı Türbe"
 date: "2026-01-10T07:56:50.887Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kutaisi Guberniyası"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391317"
 
 # Zeytinlik Köyü Aşağı Türbe
 
-Zeytinlik Köyü Aşağı Türbe, Karadeniz'in en güzel plajlarından biri olarak bilinir. Bu güzel plaj, yaklaşık 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Zeytinlik Köyü'nün Aşağı Türbe plajı, Karadeniz'in temiz ve berrak suları ile tanınır. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu güzel plaj, hem yerli hem de yabancı turistlerin ilgisini çeker.
+Zeytinlik Köyü Aşağı Türbe, Karadeniz'in en güzel plajlarından biri olarak bilinir. Zeytinlik Köyü'nün Aşağı Türbe plajı, Karadeniz'in temiz ve berrak suları ile tanınır. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Bu güzel plaj, hem yerli hem de yabancı turistlerin ilgisini çeker.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Zeytinlik Köyü Aşağı Türbe'nin tarihi geçmişi, yüzyıllar boyunca şeki
 
 ## Coğrafya
 
-Zeytinlik Köyü Aşağı Türbe, Karadeniz'in en güzel bölgelerinden biri olan Artvin'in Kutaisi Guberniyası'nda, İç Anadolu Bölgesi'nde bulunur. Bu plaj, yaklaşık 140 hektarlık bir alanda, Karadeniz'in temiz ve berrak suları ile çevrilidir. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Zeytinlik Köyü'nün Aşağı Türbe plajı, Karadeniz'in en güzel plajlarından biri olarak bilinir ve her yıl binlerce turisti ağırlar. Bu güzel plaj, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar ve ziyaretçilerine geniş bir alan sağlar. Zeytinlik Köyü'nün Aşağı Türbe plajı, Karadeniz'in en önemli gezilecek yerlerinden biri olarak bilinir ve ziyaretçilerine unutulmaz bir deneyim sunar.
+Zeytinlik Köyü Aşağı Türbe, Karadeniz'in en güzel bölgelerinden biri olan Artvin'in Kutaisi Guberniyası'nda, İç Anadolu Bölgesi'nde bulunur. Bu plaj, yaklaşık 140 hektarlık bir alanda, Karadeniz'in temiz ve berrak suları ile çevrilidir. Plajın etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Zeytinlik Köyü'nün Aşağı Türbe plajı, Karadeniz'in en güzel plajlarından biri olarak bilinir ve her yıl binlerce turisti ağırlar.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Zeytinlik Köyü Aşağı Türbe, çeşitli bitki türleri ve zengin fauna ile t
 
 ## Ziyaret Bilgileri
 
-Zeytinlik Köyü Aşağı Türbe, her yıl binlerce turisti ağırlar ve ziyaretçilerine unutulmaz bir deneyim sunar. Bu güzel plaj, Karadeniz'in en güzel plajlarından biri olarak bilinir ve ziyaretçilerine geniş bir alan sağlar. Zeytinlik Köyü'nün Aşağı Türbe plajı, Karadeniz'in en önemli gezilecek yerlerinden biri olarak bilinir ve ziyaretçilerine unutulmaz bir deneyim sunar. Ziyaretçiler, bu güzel plajda çeşitli etkinlikler yapabilir ve Karadeniz'in temiz ve berrak suları ile çevrilidir.
+ Bu güzel plaj, Karadeniz'in en güzel plajlarından biri olarak bilinir ve ziyaretçilerine geniş bir alan sağlar. Ziyaretçiler, bu güzel plajda çeşitli etkinlikler yapabilir ve Karadeniz'in temiz ve berrak suları ile çevrilidir.
 
 ## İlginç Bilgiler
 
 - Zeytinlik Köyü Aşağı Türbe, Karadeniz'in en güzel plajlarından biri olarak bilinir.
-- Bu güzel plaj, yaklaşık 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar.
+
 - Zeytinlik Köyü'nün Aşağı Türbe plajı, Karadeniz'in temiz ve berrak suları ile çevrilidir.
 - Bu güzel plaj, her yıl birçok göçmen kuşu ağırlar.
 - Zeytinlik Köyü'nün Aşağı Türbe plajı, birçok bitki ve hayvan türünün yaşam alanı olarak bilinir.

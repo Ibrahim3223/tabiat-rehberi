@@ -1,7 +1,7 @@
 ---
 title: "Karaca Ahmet Türbesi"
 date: "2026-01-10T05:10:56.657Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391611"
 
 # Karaca Ahmet Türbesi
 
-Karaca Ahmet Türbesi, Ankara'nın Beypazarı ilçesinde yer alan ve tarihi öneme sahip bir yapıdır. 140 hektarlık bir alan üzerinde yer alan bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğayla iç içe bir ortamda ağırlar. Bu tarihi mekan, not only tarihi değerleri nedeniyle değil, aynı zamanda doğal güzellikleri ile de dikkat çekmektedir. Ziyaretçiler, Karaca Ahmet Türbesi'nin çevresinde yer alan çeşitli bitki türlerini ve zengin faunayı keşfedebilirler.
+Karaca Ahmet Türbesi, Ankara'nın Beypazarı ilçesinde yer alan ve tarihi öneme sahip bir yapıdır. Bu tarihi mekan, not only tarihi değerleri nedeniyle değil, aynı zamanda doğal güzellikleri ile de dikkat çekmektedir. Ziyaretçiler, Karaca Ahmet Türbesi'nin çevresinde yer alan çeşitli bitki türlerini ve zengin faunayı keşfedebilirler.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Karaca Ahmet Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Karaca Ahmet Türbesi, Ankara'nın Beypazarı ilçesinde yer alan bir tarihi mekan olup, coğrafi konumu itibariyle de dikkat çekmektedir. 140 hektarlık bir alan üzerinde yer alan bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Karaca Ahmet Türbesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Ayrıca, bu bölgede yer alan arazinin yapısı, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır. İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu alan, aynı zamanda bölgenin iklimini de yansıtmaktadır. Karaca Ahmet Türbesi, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini cezbeden bir tarihi mekan olarak dikkat çekmektedir.
+Karaca Ahmet Türbesi, Ankara'nın Beypazarı ilçesinde yer alan bir tarihi mekan olup, coğrafi konumu itibariyle de dikkat çekmektedir. Karaca Ahmet Türbesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Ayrıca, bu bölgede yer alan arazinin yapısı, ziyaretçilerin doğayı yakından keşfetmesine olanak tanır. İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyan bu alan, aynı zamanda bölgenin iklimini de yansıtmaktadır. Karaca Ahmet Türbesi, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini cezbeden bir tarihi mekan olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Karaca Ahmet Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri k
 ## İlginç Bilgiler
 
 - Karaca Ahmet Türbesi, 140 hektarlık bir alan üzerinde yer alır.
-- Bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir.
+
 - Karaca Ahmet Türbesi, Beypazarı ilçesinde yer alır.
 - Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 - Karaca Ahmet Türbesi, tarihi öneme sahip bir yapıdır.

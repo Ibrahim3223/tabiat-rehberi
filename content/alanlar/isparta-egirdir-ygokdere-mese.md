@@ -22,7 +22,7 @@ wikidata_id: "Q108227706"
 
 # Isparta-Egirdir-Y.gokdere Mese
 
-Isparta-Egirdir-Y.gokdere Mese, Isparta'nın Egirdir ilçesinde bulunan 140 hektarlık bir milli parktır. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde olup, zengin bir flora ve fauna ile dikkat çekmektedir. Mese, Isparta'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşabilirsiniz. Milli parkın büyüklüğü ve çeşitliliği, ziyaretçilere unutulmaz bir deneyim sunar.
+Isparta-Egirdir-Y.gokdere Mese, Isparta'nın Egirdir ilçesinde bulunan 140 hektarlık bir milli parktır. Mese, Isparta'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşabilirsiniz. Milli parkın büyüklüğü ve çeşitliliği, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 

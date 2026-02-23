@@ -50,9 +50,9 @@ Jeolojik açıdan incelendiğinde, Köhnem Dağı'nın yapısı hakkında detayl
 
 ## Flora ve Fauna
 
-Köhnem Dağı, Erzincan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Köhnem Dağı, Erzincan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ eteklerinde çiçeklerin açtığını görüyoruz. Alpin flora, yükseklik zonlarına bağlı olarak değişen bir yapıya sahip. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte dağ eteklerinde çiçeklerin açtığını görüyoruz. Alpin flora, yükseklik zonlarına bağlı olarak değişen bir yapıya sahip.
 Yaban Hayatı bölümünde, dağ keçileri, kartallar ve diğer yüksek dağ hayvanlarını görüyoruz. Bu hayvanlar, dağ ekosisteminin önemli bileşenleri ve ekolojik ilişkiler içinde yer alıyorlar.
 
 Ekolojik Değer bölümünde, Köhnem Dağı'nın neden önemli olduğunu ve koruma durumunu ele alıyoruz. Yüksek dağ ekolojisi, alpin çayırlar ve endemik türler, bu bölgenin benzersiz özelliklerini oluşturuyor. Bu alanın korunması, gelecekteki nesiller için büyük önem taşıyor.

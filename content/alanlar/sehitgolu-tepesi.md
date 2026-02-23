@@ -28,7 +28,7 @@ wikidata_id: "Q34810535"
 
 # Şehitgölü Tepesi
 
-Şehitgölü Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve bölgenin doğal güzelliklerini keşfetmek için ziyaretçilerini bekleyen bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte bir doğa harikası. Şehitgölü Tepesi, özellikle doğa severler ve coğrafya meraklıları için bir çekim merkezi. Bu bölge, hem yöresel hem de ulusal düzeyde önemli bir doğal ve kültürel miras olarak kabul ediliyor. Ziyaretçiler, burada hem doğal güzellikleri keşfedebilir hem de bölgenin tarihi ve kültürel zenginliklerine tanıklık edebilir.
+Şehitgölü Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve bölgenin doğal güzelliklerini keşfetmek için ziyaretçilerini bekleyen bir tepe. Şehitgölü Tepesi, özellikle doğa severler ve coğrafya meraklıları için bir çekim merkezi. Bu bölge, hem yöresel hem de ulusal düzeyde önemli bir doğal ve kültürel miras olarak kabul ediliyor. Ziyaretçiler, burada hem doğal güzellikleri keşfedebilir hem de bölgenin tarihi ve kültürel zenginliklerine tanıklık edebilir.
 
 ## Tarihçe
 

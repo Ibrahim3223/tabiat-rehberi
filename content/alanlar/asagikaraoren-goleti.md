@@ -51,11 +51,11 @@ Aşağıkaraören Göleti, çevresindeki ekosistemin önemli bir bileşeni olara
 
 ## Flora ve Fauna
 
-Aşağıkaraören Göleti, Ankara'nın kurak bozkır bölgesinde bir su cenneti olarak karşımıza çıkıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Aşağıkaraören Göleti, Ankara'nın kurak bozkır bölgesinde bir su cenneti olarak karşımıza çıkıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, step bitki örtüsünün hakim olduğu bu bölgede, ilkbahar aylarında çeşitli çiçekler açarak renkli bir manzara sunuyor. Göletin etrafındaki sulak alanlarda, su bitkileri ve kamışlar göze çarpıyor. 
+Bitki Örtüsü olarak, step bitki örtüsünün hakim olduğu bu bölgede, ilkbahar aylarında çeşitli çiçekler açarak renkli bir manzara sunuyor. Göletin etrafındaki sulak alanlarda, su bitkileri ve kamışlar göze çarpıyor.
 
-Yaban Hayatı olarak, su kuşları ve balıklar bu göletin önemli bileşenleri. İlkbahar ve yaz aylarında, çeşitli su kuşları yuva yapıyor ve üremeye başlıyor. Sonbahar aylarında ise, göçmen kuşlar göleti ziyaret ediyor ve burada konaklıyor. 
+Yaban Hayatı olarak, su kuşları ve balıklar bu göletin önemli bileşenleri. İlkbahar ve yaz aylarında, çeşitli su kuşları yuva yapıyor ve üremeye başlıyor. Sonbahar aylarında ise, göçmen kuşlar göleti ziyaret ediyor ve burada konaklıyor.
 
 Ekolojik Değer olarak, bu gölet bölgenin ekolojik dengesini sağlayan önemli bir su kaynağı. Göletin sulak alanları, çeşitli canlıların yaşam alanlarını sağlıyor ve bölgenin biyolojik çeşitliliğini zenginleştiriyor.
 

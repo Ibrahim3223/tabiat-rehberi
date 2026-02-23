@@ -22,7 +22,7 @@ wikidata_id: "Q108228553"
 
 # Artvin-Borcka-Balci-Ihlamur
 
-Artvin-Borcka-Balci-Ihlamur Milli Parkı, Karadeniz Bölgesi'nin güzide şehirlerinden Artvin'de yer alır. 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor. Parkın içerisinde bulunan ağaçlar ve bitki türleri, ziyaretçilere doğanın güzelliğini gösteriyor. Ayrıca, parkta bulunan yürüyüş yolları ve piknik alanları, ziyaretçilerin doğa ile baş başa kalmasına olanak sağlıyor.
+Artvin-Borcka-Balci-Ihlamur Milli Parkı, Karadeniz Bölgesi'nin güzide şehirlerinden Artvin'de yer alır. Parkın içerisinde bulunan ağaçlar ve bitki türleri, ziyaretçilere doğanın güzelliğini gösteriyor. Ayrıca, parkta bulunan yürüyüş yolları ve piknik alanları, ziyaretçilerin doğa ile baş başa kalmasına olanak sağlıyor.
 
 ## Tarihçe
 

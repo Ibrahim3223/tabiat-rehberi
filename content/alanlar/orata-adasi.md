@@ -32,7 +32,7 @@ Muğla'nın sakin sularında gizli bir hazine olan Orata Adası, ziyaretçilerin
 
 ## Tarihçe
 
-Muğla bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölge, Antik Çağ'da Likya ve Karya uygarlıklarının bir parçası olarak tarih sahnesinde yer almıştır. Likya uygarlığı, M.Ö. 5. yüzyılda Pers İmparatorluğu'nun hakimiyetine girmiş, ardından M.Ö. 334 yılında Büyük İskender'in orduları tarafından fethedilmiştir.
+Muğla bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölge, Antik Çağ'da Likya ve Karya uygarlıklarının bir parçası olarak tarih sahnesinde yer almıştır. Likya uygarlığı, M.Ö. 5. yüzyılda Pers İmparatorluğu'nun hakimiyetine girmiş, ardından M.Ö. 334 yılında Büyük İskender'in orduları tarafından fethedilmiştir.
 
 Bu bölgede, Orata Adası gibi doğal güzellikler, insanlık tarihinin önemli bir bölümünü şekillendirmiştir. Türkiye'de, özellikle Ege ve Akdeniz bölgelerinde yer alan adalar ve kıyı şeritleri, ticaret yolları ve yerleşim yerleri olarakhistorik öneme sahip olmuştur. İnsanların bu alanlarla olan ilişkisi, yaylacılık, hayvancılık ve balıkçılık gibi faaliyetlerle şekillenmiştir.
 

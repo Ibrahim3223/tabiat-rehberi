@@ -22,7 +22,7 @@ wikidata_id: "Q108228764"
 
 # KOP_DAGI_MUDAFAASI_TARIHI_MP
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Kop Dağı Milli Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal alan, ziyaretçilerini tarihi geçmişi ve zengin flora ve faunasıyla karşılar. Parkın coğrafi yapısı, çeşitli bitki türlerini ve hayvanları barındıran bir ekosistem sunar. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve bol oksijenli havanın tadını çıkarabilir. Kop Dağı Milli Parkı, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
+ Bu doğal alan, ziyaretçilerini tarihi geçmişi ve zengin flora ve faunasıyla karşılar. Parkın coğrafi yapısı, çeşitli bitki türlerini ve hayvanları barındıran bir ekosistem sunar. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve bol oksijenli havanın tadını çıkarabilir. Kop Dağı Milli Parkı, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Kop Dağı Milli Parkı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. B
 
 ## Coğrafya
 
-Kop Dağı Milli Parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Parkın coğrafi özellikleri, çeşitli bitki türlerini ve hayvanları barındıran bir ekosistem sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğal alan sağlar. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklimdir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasının çeşitliliğini etkiler. Ziyaretçiler, parkın coğrafi yapısını keşfedebilir ve doğanın güzelliklerini yaşayabilir.
+Kop Dağı Milli Parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir alandır. Parkın coğrafi özellikleri, çeşitli bitki türlerini ve hayvanları barındıran bir ekosistem sunar. Parkın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal iklimdir. Kış ayları soğuk ve kar yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim, parkın flora ve faunasının çeşitliliğini etkiler. Ziyaretçiler, parkın coğrafi yapısını keşfedebilir ve doğanın güzelliklerini yaşayabilir.
 
 ## Flora ve Fauna
 

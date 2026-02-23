@@ -22,7 +22,7 @@ wikidata_id: "Q108227849"
 
 # Antalya-Döşemealtı Kızılçam 4
 
-Antalya-Döşemealtı Kızılçam 4, Akdeniz Bölgesi'nin güzide illerinden Antalya'da yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin bir flora ve faunaya ev sahipliği yapıyor. Bu milli park, ziyaretçilerini doğanın güzelliği ve sakinliğiyle baş başa bırakmak isteyenler için ideal bir destinasyon. Antalya'nın merkezine yakın konumuyla da kolay ulaşılabilirlik sunuyor. Doğa severler ve macera tutkunları için bir cennet olan Antalya-Döşemealtı Kızılçam 4, her mevsim ziyaret edilebilir.
+Antalya-Döşemealtı Kızılçam 4, Akdeniz Bölgesi'nin güzide illerinden Antalya'da yer alan bir milli parktır. Bu milli park, ziyaretçilerini doğanın güzelliği ve sakinliğiyle baş başa bırakmak isteyenler için ideal bir destinasyon. Antalya'nın merkezine yakın konumuyla da kolay ulaşılabilirlik sunuyor. Doğa severler ve macera tutkunları için bir cennet olan Antalya-Döşemealtı Kızılçam 4, her mevsim ziyaret edilebilir.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Antalya-Döşemealtı Kızılçam 4 milli parkını ziyaret etmek, doğa severle
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkta, çeşitli bitki türleri ve hayvanlar bulunur.
 - Parkın coğrafi yapısı, dağların eteklerinde ve ormanlık alanlarda yer almasıdır.
 - Parkın iklimi, Akdeniz ikliminin özelliklerini taşır.

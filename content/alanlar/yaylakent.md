@@ -23,7 +23,7 @@ wikidata_id: "Q108227804"
 
 # Yaylakent
 
-Yaylakent, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, ziyaretçilerini doğayla iç içe bir deneyim sunmak için bekliyor. Yaylakent, hem doğa severler hem de turistler için bir çekim merkezi olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yaylakent'i ziyaret ettiğinizde, kendinizi doğanın içinde bulacaksınız.
+Yaylakent, İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir milli parktır. Bu bölge, ziyaretçilerini doğayla iç içe bir deneyim sunmak için bekliyor. Yaylakent, hem doğa severler hem de turistler için bir çekim merkezi olarak dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Yaylakent'i ziyaret ettiğinizde, kendinizi doğanın içinde bulacaksınız.
 
 ## Tarihçe
 

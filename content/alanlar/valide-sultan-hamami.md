@@ -1,7 +1,7 @@
 ---
 title: "Valide Sultan Hamamı"
 date: "2026-01-09T23:39:58.744Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739149"
 
 # Valide Sultan Hamamı
 
-Valide Sultan Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini bir araya getiren bir alandır. Fatih ilçesinde bulunan bu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin merkezinde bir nefes alma alanı olarak hizmet vermektedir. Valide Sultan Hamamı, İstanbul'un en eski ve en önemli tarihi yapılarından biridir. Bu tarihi hamam, yüzyıllar boyunca birçok kez restore edilmiş ve günümüze kadar ulaşmıştır. Valide Sultan Hamamı, aynı zamanda bir plaj alanı olarak da hizmet vermektedir. Bu plaj, Marmara Denizi'nin sularına açılır ve ziyaretçilere güzel bir manzara sunar.
+Valide Sultan Hamamı, İstanbul'un tarihi ve kültürel zenginliklerini bir araya getiren bir alandır. Valide Sultan Hamamı, İstanbul'un en eski ve en önemli tarihi yapılarından biridir. Bu tarihi hamam, yüzyıllar boyunca birçok kez restore edilmiş ve günümüze kadar ulaşmıştır. Valide Sultan Hamamı, aynı zamanda bir plaj alanı olarak da hizmet vermektedir. Bu plaj, Marmara Denizi'nin sularına açılır ve ziyaretçilere güzel bir manzara sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Valide Sultan Hamamı'nın tarihi, Osmanlı İmparatorluğu'nun başlarına kada
 
 ## Coğrafya
 
-Valide Sultan Hamamı, Fatih ilçesinde bulunmaktadır. Bu alan, Marmara Denizi'nin sularına açılır ve güzel bir manzara sunar. Hamam, yaklaşık 140 hektarlık bir yeşil alanı kapsar. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin merkezinde bir nefes alma alanı olarak hizmet vermektedir. Valide Sultan Hamamı, İstanbul'un en önemli turistik alanlarından biridir. Bu alan, ziyaretçilere şehrin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Valide Sultan Hamamı'nın coğrafyası, ziyaretçilere birçok farklı aktivite yapma fırsatı sunar. Bu alan, aynı zamanda birçok önemli tarihi yapıya ev sahipliği yapar.
+Valide Sultan Hamamı, Fatih ilçesinde bulunmaktadır. Bu alan, Marmara Denizi'nin sularına açılır ve güzel bir manzara sunar. Hamam, yaklaşık 140 hektarlık bir yeşil alanı kapsar. Valide Sultan Hamamı, İstanbul'un en önemli turistik alanlarından biridir. Bu alan, ziyaretçilere şehrin tarihi ve kültürel zenginliklerini keşfetme fırsatı sunar. Valide Sultan Hamamı'nın coğrafyası, ziyaretçilere birçok farklı aktivite yapma fırsatı sunar. Bu alan, aynı zamanda birçok önemli tarihi yapıya ev sahipliği yapar.
 
 ## Flora ve Fauna
 

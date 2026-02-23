@@ -22,11 +22,11 @@ wikidata_id: "Q118929894"
 
 # Güzeltepe Şelalesi
 
-Güzeltepe Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 140 hektarlık bir alanın içinde bulunan, ziyaretçilerini doğanın güzelliği ile baş başa bırakabilen bir doğa harikası. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, çeşitli bitki türleri ve zengin fauna encontrar. Şelalenin güzelliği, çevreyi saran yeşilli ve suyun sesi ile birleşerek, ziyaretçilere huzurlu bir ortam sunuyor. Güzeltepe Şelalesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
+Güzeltepe Şelalesi, İç Anadolu Bölgesi'nin kalbinde yer alan, yaklaşık 140 hektarlık bir alanın içinde bulunan, ziyaretçilerini doğanın güzelliği ile baş başa bırakabilen bir doğa harikası. Şelalenin güzelliği, çevreyi saran yeşilli ve suyun sesi ile birleşerek, ziyaretçilere huzurlu bir ortam sunuyor. Güzeltepe Şelalesi, hem doğa severler hem de fotoğraf tutkunları için bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 
-Güzeltepe Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca bölgeye hükmetmiş medeniyetlerin izlerini taşıyor. Bu şelale, yüzyıllar boyu, bölge halkının yaşamında önemli bir rol oynamış, su kaynağı olarak kullanılmış ve aynı zamanda da doğal bir güzellik olarak ziyaret edilmiş. Tarihi belgelerde, şelalenin etrafındaki bölgenin, eski zamanlarda da bir yerleşim yeri olarak kullanıldığından bahsediliyor. Ancak, şelale ile ilgili detaylı ve somut bilgiler bulunmuyor. Buna rağmen, ziyaretçiler, bu doğal güzelliğin história ve mistiğini hissetmeye devam ediyorlar.
+Güzeltepe Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca bölgeye hükmetmiş medeniyetlerin izlerini taşıyor. Bu şelale, yüzyıllar boyu, bölge halkının yaşamında önemli bir rol oynamış, su kaynağı olarak kullanılmış ve aynı zamanda da doğal bir güzellik olarak ziyaret edilmiş. Tarihi belgelerde, şelalenin etrafındaki bölgenin, eski zamanlarda da bir yerleşim yeri olarak kullanıldığından bahsediliyor. Ancak, şelale ile ilgili detaylı ve somut bilgiler bulunmuyor. Buna rağmen, ziyaretçiler, bu doğal güzelliğin tarihi ve mistiğini hissetmeye devam ediyorlar.
 
 ## Coğrafya
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387368"
 
 # Kışla Tepe
 
-Kışla Tepe, Samsun'un doğal güzellikleri arasında yer alan bir tepe olup, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, yüksek bir konumda ve eteklerinde çeşitli bitki türleri ile zengin fauna encontrabilir. Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından kolay bir konumda bulunur. Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri olup, ziyaretçilerine güzel manzaralar sunar.
+ Bu yeşil alan, yüksek bir konumda ve eteklerinde çeşitli bitki türleri ile zengin fauna encontrabilir. Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından kolay bir konumda bulunur. Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri olup, ziyaretçilerine güzel manzaralar sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kışla Tepe'nin tarihi geçmişi, yüzyıllar boyunca verschillande medeniyetle
 
 ## Coğrafya
 
-Kışla Tepe, Samsun'un Karadeniz Bölgesi'nde yer alan bir tepe olup, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, yüksek bir konumda ve eteklerinde çeşitli bitki türleri ile zengin fauna encontrabilir. Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından kolay bir konumda bulunur. Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri olup, ziyaretçilerine güzel manzaralar sunar. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir ve ziyaretçilerine bu bölge hakkında bilgi veren çeşitli coğrafi eserler ve anıtlar bulunur.
+ Bu yeşil alan, yüksek bir konumda ve eteklerinde çeşitli bitki türleri ile zengin fauna encontrabilir. Kışla Tepe, Samsun'un merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından kolay bir konumda bulunur. Kışla Tepe, Samsun'un önemli doğal güzelliklerinden biri olup, ziyaretçilerine güzel manzaralar sunar. Bu bölge, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir ve ziyaretçilerine bu bölge hakkında bilgi veren çeşitli coğrafi eserler ve anıtlar bulunur.
 
 ## Flora ve Fauna
 

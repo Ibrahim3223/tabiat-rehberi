@@ -54,7 +54,7 @@ Kölerik Tepesi, Tunceli'nin yüksek dağ ekosistemine ev sahipliği yapan bir a
 
 Bitki örtüsüne baktığımızda, ilkbahar mevsiminde çiçeklerin rengârenk bir şölenine tanık oluyoruz. Alpin çayırlar, endemik türlerle dolu bu bölgede, her mevsim farklı bir güzelliğe şahitlik ediliyor. Sonbaharda ise, göç eden kuşlar bu bölgeyi ziyaret ediyor ve ekosistemin canlılığını arttırıyor.
 
-Yaban hayatı açısından da zengin olan Kölerik Tepesi, memeliler, kuşlar ve sürüngenlerle dolu. Bu canlılar, dağların yükseklik zonlarına uyum sağlamış ve birbirleriyle ekolojik ilişkiler kurmuş durumda. Örneğin, bazı memeliler, bitki örtüsüne bağımlı olarak beslenirken, bazı kuşlar ise bu bitki örtüsünün içinde yuvalanarak yaşamlarını sürdürüyor. 
+Yaban hayatı açısından da zengin olan Kölerik Tepesi, memeliler, kuşlar ve sürüngenlerle dolu. Bu canlılar, dağların yükseklik zonlarına uyum sağlamış ve birbirleriyle ekolojik ilişkiler kurmuş durumda. Örneğin, bazı memeliler, bitki örtüsüne bağımlı olarak beslenirken, bazı kuşlar ise bu bitki örtüsünün içinde yuvalanarak yaşamlarını sürdürüyor.
 
 Kölerik Tepesi, yüksek dağ ekolojisi ve endemik türler açısından büyük bir öneme sahip. Bu nedenle, koruma altına alınması ve doğal dengesinin korunması büyük önem taşıyor.
 

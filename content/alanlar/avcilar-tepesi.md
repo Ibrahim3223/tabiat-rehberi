@@ -28,7 +28,7 @@ wikidata_id: "Q31388980"
 
 # Avcılar Tepesi
 
-Avcılar Tepesi, Doğu Anadolu Bölgesi'nin güzel illerinden biri olan Bingöl'de yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Avcılar Tepesi, doğa severlerin ve gezi tutkunlarının ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, yaban hayatı oldukça önemlidir. Avcılar Tepesi, doğa ve turizm açısından önemli bir destinasyondur.
+Avcılar Tepesi, Doğu Anadolu Bölgesi'nin güzel illerinden biri olan Bingöl'de yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Avcılar Tepesi, doğa severlerin ve gezi tutkunlarının ilgisini çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Bu bölgede, yaban hayatı oldukça önemlidir. Avcılar Tepesi, doğa ve turizm açısından önemli bir destinasyondur.
 
 ## Tarihçe
 

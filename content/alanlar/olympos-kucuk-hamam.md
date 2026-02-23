@@ -1,7 +1,7 @@
 ---
 title: "Olympos Küçük Hamam"
 date: "2026-01-09T23:48:42.075Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739230"
 
 # Olympos Küçük Hamam
 
-Olympos Küçük Hamam, Antalya'nın Kumluca ilçesinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olan bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin fauna ile çeşitlilik gösteren bir doğa harikasıdır. Olympos Küçük Hamam, ziyaretçilerini güneşin ısısıyla ısınan kumlu plajına, berra ve masmavi suyu ile denize davet ediyor. Burada, doğa ile iç içe bir gün geçirme ve Akdeniz'in güzelliğini keşfetme mümkün. Olympos Küçük Hamam, aynı zamanda tarihi ve kültürel değerleri ile de dikkat çekiyor. Antik Olympos şehrinin kalıntıları, bu bölgeyi ziyaret edenler için önemli bir ve kültürel deneyim sunuyor.
+Olympos Küçük Hamam, Antalya'nın Kumluca ilçesinde yer alan ve Akdeniz Bölgesi'nin önemli doğal alanlarından biri olan bir plajdır. Olympos Küçük Hamam, ziyaretçilerini güneşin ısısıyla ısınan kumlu plajına, berra ve masmavi suyu ile denize davet ediyor. Burada, doğa ile iç içe bir gün geçirme ve Akdeniz'in güzelliğini keşfetme mümkün. Olympos Küçük Hamam, aynı zamanda tarihi ve kültürel değerleri ile de dikkat çekiyor. Antik Olympos şehrinin kalıntıları, bu bölgeyi ziyaret edenler için önemli bir ve kültürel deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Olympos Küçük Hamam, yüzyıllar boyunca önemli bir yerleşim ve ticaret mer
 
 ## Coğrafya
 
-Olympos Küçük Hamam, Antalya'nın Kumluca ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, Toros Dağları'nın güney eteklerinde, yüksek bir konumda bulunuyor. Olympos Küçük Hamam, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, kumlu plajları, berra ve masmavi suyu ile ziyaretçileri cezbediyor. Çevresindeki dağlar ve ormanlar, bu bölgeye zengin bir flora ve fauna çeşitliliği kazandırıyor. İklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor: yazları sıcak ve kuru, kışları ılık ve yağışlı. Bu coğrafi özellikler, Olympos Küçük Hamam'ı ziyaret edenler için unutulmaz bir deneyim sunuyor. Ayrıca, Olympos'un coğrafi konumu, önemli bir doğa koruma alanı olarak kabul ediliyor ve bu bölge, çeşitli doğa koruma projelerine ev sahipliği yapıyor.
+Olympos Küçük Hamam, Antalya'nın Kumluca ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Bu bölge, Toros Dağları'nın güney eteklerinde, yüksek bir konumda bulunuyor. Bu alan, kumlu plajları, berra ve masmavi suyu ile ziyaretçileri cezbediyor. Çevresindeki dağlar ve ormanlar, bu bölgeye zengin bir flora ve fauna çeşitliliği kazandırıyor. İklimi, Akdeniz ikliminin karakteristik özelliklerini taşıyor: yazları sıcak ve kuru, kışları ılık ve yağışlı. Bu coğrafi özellikler, Olympos Küçük Hamam'ı ziyaret edenler için unutulmaz bir deneyim sunuyor. Ayrıca, Olympos'un coğrafi konumu, önemli bir doğa koruma alanı olarak kabul ediliyor ve bu bölge, çeşitli doğa koruma projelerine ev sahipliği yapıyor.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Olympos Küçük Hamam, zengin bir flora ve fauna çeşitliliğine sahip bir do�
 
 ## Ziyaret Bilgileri
 
-Olympos Küçük Hamam, ziyaretçilerine unutulmaz bir deneyim sunuyor. Bu bölgeye ulaşmak için, Antalya'nın Kumluca ilçesinden geçmek gerekiyor. Olympos'a ulaştıktan sonra, Küçük Hamam plajına kısa bir yürüyüş ile ulaşma mümkün. Buraya geldiğinizde, güneşin ısısıyla ısınan kumlu plajında dinlenebilir, berra ve masmavi suyunda yüzebilirsiniz. Ayrıca, Olympos'un tarihi ve kültürel değerlerini keşfedebilir ve doğa ile iç içe bir gün geçirebilirsiniz. Olympos Küçük Hamam, özellikle yaz aylarında ziyaret edilmektedir. Ancak, ilkbahar ve sonbahar ayları da ziyaret için uygun zamanlardır. Kış aylarında, bu bölgeye ulaşım daha zor olabilir.
+ Bu bölgeye ulaşmak için, Antalya'nın Kumluca ilçesinden geçmek gerekiyor. Olympos'a ulaştıktan sonra, Küçük Hamam plajına kısa bir yürüyüş ile ulaşma mümkün. Buraya geldiğinizde, güneşin ısısıyla ısınan kumlu plajında dinlenebilir, berra ve masmavi suyunda yüzebilirsiniz. Ayrıca, Olympos'un tarihi ve kültürel değerlerini keşfedebilir ve doğa ile iç içe bir gün geçirebilirsiniz. Olympos Küçük Hamam, özellikle yaz aylarında ziyaret edilmektedir. Ancak, ilkbahar ve sonbahar ayları da ziyaret için uygun zamanlardır. Kış aylarında, bu bölgeye ulaşım daha zor olabilir.
 
 ## İlginç Bilgiler
 

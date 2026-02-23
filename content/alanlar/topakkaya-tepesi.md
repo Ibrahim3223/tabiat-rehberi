@@ -28,7 +28,7 @@ wikidata_id: "Q31557539"
 
 # Topakkaya Tepesi
 
-Topakkaya Tepesi, Ankara'nın merkezinde yer alan ve yaklaşık 140 hektarlık büyüklüğüyle dikkat çeken bir doğa alanıdır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görüş açısı sunuyor. Topakkaya Tepesi, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak kabul ediliyor. Tepenin eteklerinde bulunan yerleşim yerleri, ziyaretçilere konaklama ve yeme içme olanakları sağlıyor.
+Topakkaya Tepesi, Ankara'nın merkezinde yer alan ve yaklaşık 140 hektarlık büyüklüğüyle dikkat çeken bir doğa alanıdır. Topakkaya Tepesi, Ankara'nın kalabalık şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası olarak kabul ediliyor. Tepenin eteklerinde bulunan yerleşim yerleri, ziyaretçilere konaklama ve yeme içme olanakları sağlıyor.
 
 ## Tarihçe
 

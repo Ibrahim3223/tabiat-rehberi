@@ -28,7 +28,7 @@ wikidata_id: "Q31390728"
 
 # Seki Tepesi
 
-Seki Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi bir nokta olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Seki Tepesi, ziyaretçilerini tarihi geçmişi, zengin flora ve fauna çeşitliliği ile büyülüyor. Bu tepe, aynı zamanda bölgenin coğrafi yapısını ve iklimini gözlemlemek için ideal bir nokta.
+Seki Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi bir nokta olarak dikkat çekiyor. Seki Tepesi, ziyaretçilerini tarihi geçmişi, zengin flora ve fauna çeşitliliği ile büyülüyor. Bu tepe, aynı zamanda bölgenin coğrafi yapısını ve iklimini gözlemlemek için ideal bir nokta.
 
 ## Tarihçe
 

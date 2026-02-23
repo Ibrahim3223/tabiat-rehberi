@@ -32,7 +32,7 @@ Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ö
 
 ## Tarihçe
 
-Şeyhhabib Dağı, tarihin sâu izlerini taşıyan Bitlis bölgesinin kalbinde yer alır. Bu bölge, geçmişte Urartu, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmıştır. Bitlis, tarihi İpek Yolu üzerinde stratejik bir konumda bulunması nedeniyle, ticaret ve kültür alışverişinin önemli merkezlerinden biri olmuştur.
+Şeyhhabib Dağı, tarihin derin izlerini taşıyan Bitlis bölgesinin kalbinde yer alır. Bu bölge, geçmişte Urartu, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmıştır. Bitlis, tarihi İpek Yolu üzerinde stratejik bir konumda bulunması nedeniyle, ticaret ve kültür alışverişinin önemli merkezlerinden biri olmuştur.
 
 Doğal güzellikleri ve coğrafi konumuyla Şeyhhabib Dağı, bölgede yaşayan insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık ve hayvancılık, bu bölgede uzun süredir devam eden geleneksel faaliyetlerdir. Dağın eteklerinde ve çevresinde kurulan köyler, bu ekonomik faaliyetlere dayalı bir yaşam sürmüşlerdir.
 

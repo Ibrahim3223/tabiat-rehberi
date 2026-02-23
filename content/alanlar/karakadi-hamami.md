@@ -1,7 +1,7 @@
 ---
 title: "Karakadı Hamamı"
 date: "2026-01-09T23:17:24.023Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739029"
 
 # Karakadı Hamamı
 
-Karakadı Hamamı, İzmir'in Tire ilçesinde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunar. Tire ilçesinin merkezine uzun bir mesafe uzaklıktaki Karakadı Hamamı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. Karakadı Hamamı, hem yerlilerin hem de turistlerin ilgi odağı olan bir destinasyondur. Bu doğa cenneti, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunar.
+ Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe bir deneyim sunar. Tire ilçesinin merkezine uzun bir mesafe uzaklıktaki Karakadı Hamamı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir. Karakadı Hamamı, hem yerlilerin hem de turistlerin ilgi odağı olan bir destinasyondur. Bu doğa cenneti, ziyaretçilerine hem dinlenme hem de doğayı keşfetme imkanı sunar.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Karakadı Hamamı'nın tarihi geçmişi, bölgeye yerleşimlerin başladığı d
 
 ## Coğrafya
 
-Karakadı Hamamı, Ege Bölgesi'nin Tire ilçesinde yer alan bir doğa alanıdır. Bu bölge, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Karakadı Hamamı, Tire ilçesinin merkezine uzun bir mesafe uzaklıktadır. Bu doğa cenneti, ziyaretçilerine geniş yeşil alanları, çeşitli bitki türleri ve zengin fauna ile karşılaşma imkanı sunar. Karakadı Hamamı'nın coğrafi konumu, ziyaretçilerine Ege Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunar. Bu bölge, yerlilerin ve turistlerin hem dinlenme hem de doğayı keşfetme amaçlarıyla ziyaret ettikleri bir destinasyondur.
+Karakadı Hamamı, Ege Bölgesi'nin Tire ilçesinde yer alan bir doğa alanıdır. Karakadı Hamamı, Tire ilçesinin merkezine uzun bir mesafe uzaklıktadır. Bu doğa cenneti, ziyaretçilerine geniş yeşil alanları, çeşitli bitki türleri ve zengin fauna ile karşılaşma imkanı sunar. Karakadı Hamamı'nın coğrafi konumu, ziyaretçilerine Ege Bölgesi'nin doğal güzelliklerini keşfetme fırsatı sunar. Bu bölge, yerlilerin ve turistlerin hem dinlenme hem de doğayı keşfetme amaçlarıyla ziyaret ettikleri bir destinasyondur.
 
 ## Flora ve Fauna
 
-Karakadı Hamamı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerine doğal bir ortam sunar. Bu doğa harikası, mevsimsel değişimlere göre farklı canlı türlerine ev sahipliği yapar. Karakadı Hamamı, özellikle bahar ve yaz aylarında ziyaretçilerine renkli bir doğa manzarası sunar. Bu bölge, kuş gözlemciliğiçin ideal bir yerdir. Karakadı Hamamı, ziyaretçilerine doğanın güzelliklerini keşfetme imkanı sunar. Bu doğa cenneti, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerine unutulmaz bir deneyim sunar.
+Karakadı Hamamı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerine doğal bir ortam sunar. Bu doğa harikası, mevsimsel değişimlere göre farklı canlı türlerine ev sahipliği yapar. Karakadı Hamamı, özellikle bahar ve yaz aylarında ziyaretçilerine renkli bir doğa manzarası sunar. Bu bölge, kuş gözlemciliğiçin ideal bir yerdir. Karakadı Hamamı, ziyaretçilerine doğanın güzelliklerini keşfetme imkanı sunar.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,6 @@ Karakadı Hamamı, yılın her dönemi ziyaret edilebilir. Bu doğa harikası, z
 
 ## İlginç Bilgiler
 
-- Karakadı Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
 - Bu doğa cenneti, Tire ilçesinin merkezine uzun bir mesafe uzaklıktadır.
 - Karakadı Hamamı, yüzyıllar boyunca insanların doğayla iç içe yaşadığı bir yer olarak bilinir.
 - Bu bölge, geçmişte insanların hem dinlenme hem de sosyal aktiviteler için tercih ettikleri bir mekân olmuştur.

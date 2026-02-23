@@ -23,7 +23,7 @@ wikidata_id: "Q108227886"
 
 # Kepez
 
-Kepez milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Parkın girişinden itibaren, ziyaretçiler yemyeşil ağaçlar, renkli çiçekler ve çeşitli bitki türleriyle karşılaşır. Bu doğa cennetinde, hem doğa severler hem de fotoğraf tutkunları için sonsuz olanaklar sunulmaktadır. Güneş ışığının ağaçlar arasında oyduğu oyunlar, ziyaretçilerin gözlerini kamaştıran bir manzara sunar. Kepez milli parkı, doğanın güzelliğini ve sakinliğini deneyimlemek isteyenler için ideal bir destinasyondur.
+Kepez milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Parkın girişinden itibaren, ziyaretçiler yemyeşil ağaçlar, renkli çiçekler ve çeşitli bitki türleriyle karşılaşır. Bu doğa cennetinde, hem doğa severler hem de fotoğraf tutkunları için sonsuz olanaklar sunulmaktadır. Güneş ışığının ağaçlar arasında oyduğu oyunlar, ziyaretçilerin gözlerini kamaştıran bir manzara sunar. Kepez milli parkı, doğanın güzelliğini ve sakinliğini deneyimlemek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ schema_type: "TouristAttraction"
 
 # Nemrut Dağı Milli Parkı
 
-Güneydoğu Anadolu Bölgesi'nin Kahta ilçesinde yer alan Nemrut Dağı Milli Parkı, 140 hektarlık yeşil alanı ve tarihi değerleriyle ziyaretçilerini bekliyor. Parkın toplam alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan içerisinde birçok tarihi ve doğal güzellik bulunmakta. nemrut Dağı Milli Parkı, aynı zamanda Kommagene Krallığı'nın kalıntılarını da içerisinde barındırmakta. Bu tarihi ve doğal güzellikleri keşfetmek için ziyaretçiler, parkın içinde bulunan yürüyüş yollarını kullanabilirler.
+Güneydoğu Anadolu Bölgesi'nin Kahta ilçesinde yer alan Nemrut Dağı Milli Parkı, 140 hektarlık yeşil alanı ve tarihi değerleriyle ziyaretçilerini bekliyor. nemrut Dağı Milli Parkı, aynı zamanda Kommagene Krallığı'nın kalıntılarını da içerisinde barındırmakta. Bu tarihi ve doğal güzellikleri keşfetmek için ziyaretçiler, parkın içinde bulunan yürüyüş yollarını kullanabilirler.
 
 ## Tarihçe
 

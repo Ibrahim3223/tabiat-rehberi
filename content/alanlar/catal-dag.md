@@ -47,11 +47,11 @@ Mevsimsel olarak değişen hava koşulları, Çatal Dağ'ın iklim karakterini b
 
 ## Flora ve Fauna
 
-Çatal Dağ, Giresun'un nemli ikliminin ve gür ormanlarının hakim olduğu bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açar ve alpin flora ortaya çıkar. 
+Çatal Dağ, Giresun'un nemli ikliminin ve gür ormanlarının hakim olduğu bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde çiçekler açar ve alpin flora ortaya çıkar.
 
-Bitki Örtüsü olarak, dağın yükseklik zonlarına göre değişen türler bulunur. Gür ormanlar, çam, kayın ve meşe ağaçlarından oluşur. Sonbaharda, yaprak döken ağaçlar renk değiştirerek dağ manzarasına renk katar. 
+Bitki Örtüsü olarak, dağın yükseklik zonlarına göre değişen türler bulunur. Gür ormanlar, çam, kayın ve meşe ağaçlarından oluşur. Sonbaharda, yaprak döken ağaçlar renk değiştirerek dağ manzarasına renk katar.
 
-Yaban Hayatı açısından, dağ memeliler, kuşlar ve sürüngenlerle dolu bir yaşam alanı sunar. Dağ keçileri ve ayılar gibi büyük memeliler, dağların yükseklik zonlarında yaşarken, çeşitli kuş türleri göç ederken dağları ziyaret eder. Sürüngenler ve amfibiler de dağın nemli ikliminde yaşamlarını sürdürür. 
+Yaban Hayatı açısından, dağ memeliler, kuşlar ve sürüngenlerle dolu bir yaşam alanı sunar. Dağ keçileri ve ayılar gibi büyük memeliler, dağların yükseklik zonlarında yaşarken, çeşitli kuş türleri göç ederken dağları ziyaret eder. Sürüngenler ve amfibiler de dağın nemli ikliminde yaşamlarını sürdürür.
 
 Ekolojik Değeri açısından, Çatal Dağ yüksek biyoçeşitliliğe sahip bir alan olarak önemlidir. Bu dağ ekosisteminin korunması, bölgeye özgü türlerin yaşamlarını sürdürmesi için dir.
 

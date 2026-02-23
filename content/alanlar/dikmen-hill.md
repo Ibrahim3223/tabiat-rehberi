@@ -29,7 +29,7 @@ wikidata_id: "Q31389677"
 
 # Dikmen Hill
 
-Dikmen Hill, Kastamonu'nun güzide bir bölgesinde yer alan ve Karadeniz Bölgesi'nin önemli bir turizm noktası olan bir tepedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte bir doğal güzellik sunar. Bu tepe, hem yerlilerin hem de turistlerin sıkça ziyaret ettikleri bir yerdir. Dikmen Hill'in etrafı, çeşitli bitki türleri ile kaplıdır ve buradaki manzara, özellikle gün batımında çok güzeldir.
+Dikmen Hill, Kastamonu'nun güzide bir bölgesinde yer alan ve Karadeniz Bölgesi'nin önemli bir turizm noktası olan bir tepedir. Bu tepe, hem yerlilerin hem de turistlerin sıkça ziyaret ettikleri bir yerdir. Dikmen Hill'in etrafı, çeşitli bitki türleri ile kaplıdır ve buradaki manzara, özellikle gün batımında çok güzeldir.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Dikmen Hill, coğrafi olarak Karadeniz Bölgesi'nin karakteristik özelliklerine
 
 ## Flora ve Fauna
 
-Dikmen Hill, flora ve fauna açısından oldukça zengindir. Bu tepe ve çevresinde, çeşitli bitki türleri bulunur. Mevsimsel değişimlere bağlı olarak, bu bitki türleri farklı renklerde ve formlarda ortaya çıkar. Dikmen Hill'in floraında, özellikle ilkbahar ve yaz aylarında, çiçek açan bitkiler ile karşılaşırsınız. Bu tepe, aynı zamanda zengin fauna ile de dikkat çeker. Burada, çeşitli hayvan türleri yaşar ve bu da burayı doğa severler için önemli bir ziyaret noktası haline getirir. Dikmen Hill, ekolojik dengesi ile de dikkat çeker. Bu tepe, çevresindeki ekosistemin bir parçası olarak, doğanın güzelliğini ve zenginliğini korur.
+ Bu tepe ve çevresinde, çeşitli bitki türleri bulunur. Mevsimsel değişimlere bağlı olarak, bu bitki türleri farklı renklerde ve formlarda ortaya çıkar. Dikmen Hill'in floraında, özellikle ilkbahar ve yaz aylarında, çiçek açan bitkiler ile karşılaşırsınız. Bu tepe, aynı zamanda zengin fauna ile de dikkat çeker. Burada, çeşitli hayvan türleri yaşar ve bu da burayı doğa severler için önemli bir ziyaret noktası haline getirir. Dikmen Hill, ekolojik dengesi ile de dikkat çeker. Bu tepe, çevresindeki ekosistemin bir parçası olarak, doğanın güzelliğini ve zenginliğini korur.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Dikmen Hill'i ziyaret etmek, doğa severler için önemli bir deneyimdir. Bu tep
 
 - Dikmen Hill, Kastamonu'nun en yüksek noktalarından biridir.
 - Bu tepe, çevresindeki diğer tepelerle birlikte bir doğal güzelliği oluşturur.
-- Dikmen Hill, flora ve fauna açısından oldukça zengindir.
+
 - Bu tepe, özellikle gün batımında çok güzeldir.
 - Dikmen Hill, Kastamonu'nun önemli bir turizm noktasıdır.

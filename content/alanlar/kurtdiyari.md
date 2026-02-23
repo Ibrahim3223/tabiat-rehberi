@@ -42,13 +42,13 @@ Güneydoğu Anadolu Bölgesi'nin tarihi kentlerinden Mardin'in eteklerinde yer a
 
 Doğal güzelliklerin bir arada bulunduğu bu bölge, Mardin'in toplam yüzölçümünün yaklaşık %5'ine tekabül eden bir alanı kaplamaktadır. Monaco'nun onda biri büyüklüğünde bir alana sahip olan Kurtdiyarı Dağı, Taksim Meydanı'nın yaklaşık 500 katı büyüklüğündedir. Ancak, fiziksel verilerin kısıtlı olması nedeniyle, bu dağ ile ilgili daha ayrıntılı bilgiye ulaşmak zor görünüyor.
 
-Yaz aylarında sıcaklığın 35 dereceleri bulduğu bu région, kış aylarında ise -5 derecelere kadar düşebiliyor. İklim karakteri, bölgenin coğrafi konumuna göre değişkenlik gösteriyor. Kurtdiyarı Dağı'nın eteklerinde, Dicle Nehri'nin oluşturduğu geniş ve yeşil vadiler, bölgenin iklimini ve bitki örtüsünü etkiliyor.
+Yaz aylarında sıcaklığın 35 dereceleri bulduğu bu bölge, kış aylarında ise -5 derecelere kadar düşebiliyor. İklim karakteri, bölgenin coğrafi konumuna göre değişkenlik gösteriyor. Kurtdiyarı Dağı'nın eteklerinde, Dicle Nehri'nin oluşturduğu geniş ve yeşil vadiler, bölgenin iklimini ve bitki örtüsünü etkiliyor.
 
 Bölgenin su kaynakları, Dicle Nehri ve çevresindeki küçük akarsular tarafından sağlanıyor. Kurtdiyarı Dağı'nın çevresindeki ekosistem, geniş ormanlık alanlar ve yeşil vadiler ile karakterize ediliyor. Bu dağ, bölgenin doğal güzelliklerini koruma altına alan önemli bir coğrafi oluşum olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 
-Kurtdiyarı'nın dağlık alanlarında, yarı kurak iklimin hüküm sürdüğü bu coğrafyada, flora ve fauna zenginliği dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kurtdiyarı'nın dağlık alanlarında, yarı kurak iklimin hüküm sürdüğü bu coğrafyada, flora ve fauna zenginliği dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki örtüsünde, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Step ve ova ekolojisinin etkileri, bölgenin yükseklik zonlarında farklı bitki türlerinin oluşmasına yol açıyor. Alpin flora, dağlık alanların karakteristik özelliklerini taşıyor.
 
 Yaban hayatı da bir o kadar zengin. Memeliler, dağların yüksek kesimlerinde yaşamını sürdürürken, kuşlar göç dönemlerinde bu bölgeden geçiş yapıyor. Sürüngenler, step ve ova ekosisteminin bir parçası olarak görülebiliyor. Bu canlılar, bölgenin ekolojik dengesini koruyor ve birbirleriyle olan ilişkileri, doğanın kendi düzenini oluşturuyor. Ekolojik değerini korumanın önemi, bu enin geleceğini garantilemek için büyük önem taşıyor.

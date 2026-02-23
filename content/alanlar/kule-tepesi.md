@@ -28,7 +28,7 @@ wikidata_id: "Q31389210"
 
 # Kule Tepesi
 
-Kule Tepesi, Bursa'nın önemli doğal ve tarihi noktalarından biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Kule Tepesi, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başarıyor. Kule Tepesi, doğa severler ve tarih meraklıları için bir cennet olarak kabul edilebilir. Bu alan, aynı zamanda doğa yürüyüşleri ve tarihi keşifler için ideal bir nokta olarak görülüyor.
+Kule Tepesi, Bursa'nın önemli doğal ve tarihi noktalarından biri olarak karşımıza çıkıyor. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Kule Tepesi, hem yerli hem de yabancı turistlerin ilgisini çekmeyi başarıyor. Kule Tepesi, doğa severler ve tarih meraklıları için bir cennet olarak kabul edilebilir. Bu alan, aynı zamanda doğa yürüyüşleri ve tarihi keşifler için ideal bir nokta olarak görülüyor.
 
 ## Tarihçe
 

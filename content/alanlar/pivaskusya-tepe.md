@@ -50,9 +50,9 @@ Mevsimsel açıdan bakıldığında, Pivaskusya Tepe ve çevresinin iklimi, gene
 
 ## Flora ve Fauna
 
-Pivaskusya Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Step ve ova ekolojisinin birleştiği bu bölgede, bitki örtüsü mevsimsel olarak değişiyor. 
+Pivaskusya Tepe, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir dağ ekosistemi. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Step ve ova ekolojisinin birleştiği bu bölgede, bitki örtüsü mevsimsel olarak değişiyor.
 
-Bitki örtüsünün hakim türleri arasında otlar ve çalılıklar yer alıyor. Bu bitkiler, bölgenin kurak iklimine uyum sağlamış ve suyun az olduğu dönemlerde bile hayatta kalabiliyorlar. İlkbaharın sonlarında, dağ yamaçları sarı, pembe ve mor renkteki çiçeklerle kaplanıyor. 
+Bitki örtüsünün hakim türleri arasında otlar ve çalılıklar yer alıyor. Bu bitkiler, bölgenin kurak iklimine uyum sağlamış ve suyun az olduğu dönemlerde bile hayatta kalabiliyorlar. İlkbaharın sonlarında, dağ yamaçları sarı, pembe ve mor renkteki çiçeklerle kaplanıyor.
 
 Yaban hayatı da oldukça zengin. Dağların yükseklik zonlarında, çeşitli memeliler ve kuşlar yaşamlarını sürdürüyor. Bu canlılar, dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevresiyle ekolojik ilişkiler içinde bulunuyor. Sonbaharın gelmesiyle birlikte, göçmen kuşlar bu bölgeden geçerek daha sıcak bölgelere ulaşıyor. Bu bölgenin ekolojik değeri, bu tür ilişkilerin korunmasında yatıyor.
 

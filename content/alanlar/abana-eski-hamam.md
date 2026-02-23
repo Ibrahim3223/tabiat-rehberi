@@ -1,7 +1,7 @@
 ---
 title: "Abana Eski Hamam"
 date: "2026-01-09T23:49:52.143Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739241"
 
 # Abana Eski Hamam
 
-Abana Eski Hamam, Kastamonu'nun Abana ilçesinde bulunan ve Karadeniz'in en güzel plajlarından biri olarak bilinen bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir sahil şeridine sahip. Bu plaj, hem yerli hem de yabancı turistler tarafından ziyaret edilen ve Karadeniz'in doğal güzelliğini keşfetmek isteyenler için ideal bir nokta.
+Abana Eski Hamam, Kastamonu'nun Abana ilçesinde bulunan ve Karadeniz'in en güzel plajlarından biri olarak bilinen bir destinasyon.
 
 ## Tarihçe
 

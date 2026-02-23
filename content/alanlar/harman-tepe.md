@@ -29,7 +29,7 @@ wikidata_id: "Q31389216"
 
 # Harman Tepe
 
-Harman Tepe, İstanbul'un kalbinde bulunan bir tepe olarak, şehrin karmaşasından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet ediyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehre hakim bir konumda yer alıyor. Bu tepe, şehrin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak, ziyaretçilerine benzersiz bir deneyim sunuyor. İstanbul'un coğrafi yapısını ve tarihi geçmişini öğrenmek isteyenler için ideal bir destinasyon olan Harman Tepe, aynı zamanda doğa severler için de bir cennet olarak kabul ediliyor.
+Harman Tepe, İstanbul'un kalbinde bulunan bir tepe olarak, şehrin karmaşasından uzaklaşmak isteyenler için bir kaçış noktası olarak hizmet ediyor. Bu tepe, şehrin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak, ziyaretçilerine benzersiz bir deneyim sunuyor. İstanbul'un coğrafi yapısını ve tarihi geçmişini öğrenmek isteyenler için ideal bir destinasyon olan Harman Tepe, aynı zamanda doğa severler için de bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Harman Tepe, coğrafi olarak İstanbul'un merkezinde yer alıyor ve şehre hakim
 
 ## Flora ve Fauna
 
-Harman Tepe, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu tepe, aynı zamanda İstanbul'un ekolojik dengesini korumak için önemli bir rol oynuyor. Harman Tepe'nin flora ve fauna çeşitliliği, mevsimsel değişimlere göre değişiyor ve her mevsim ziyaretçilere farklı bir deneyim sunuyor. Bu tepe, aynı zamanda çeşitli canlı türlerine de ev sahipliği yapıyor ve İstanbul'un biyolojik çeşitliliğini korumak için önemli bir kaynak olarak kabul ediliyor. Harman Tepe, doğa severler için bir cennet olarak kabul ediliyor ve ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Harman Tepe, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bu tepe, aynı zamanda İstanbul'un ekolojik dengesini korumak için önemli bir rol oynuyor. Harman Tepe'nin flora ve fauna çeşitliliği, mevsimsel değişimlere göre değişiyor ve her mevsim ziyaretçilere farklı bir deneyim sunuyor. Bu tepe, aynı zamanda çeşitli canlı türlerine de ev sahipliği yapıyor ve İstanbul'un biyolojik çeşitliliğini korumak için önemli bir kaynak olarak kabul ediliyor.
 
 ## Ziyaret Bilgileri
 

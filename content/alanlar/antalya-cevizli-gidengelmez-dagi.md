@@ -22,7 +22,7 @@ wikidata_id: "Q108227074"
 
 # Antalya-Cevizli Gidengelmez Dagi
 
-Antalya'nın güzide milli parklarından biri olan Cevizli Gidengelmez Dağı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Cevizli Gidengelmez Dağı, Akdeniz Bölgesi'nin eşsiz coğrafyası içinde yer alıyor. Burada, yaban hayatı ve ekosistem hakkında bilgi sahibi olma mümkün. Ziyaretçiler, bu doğa harikasını keşfederek, hem eğlenebiliyor hem de bilgi sahibi oluyor.
+ Bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Cevizli Gidengelmez Dağı, Akdeniz Bölgesi'nin eşsiz coğrafyası içinde yer alıyor. Burada, yaban hayatı ve ekosistem hakkında bilgi sahibi olma mümkün. Ziyaretçiler, bu doğa harikasını keşfederek, hem eğlenebiliyor hem de bilgi sahibi oluyor.
 
 ## Tarihçe
 

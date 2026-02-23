@@ -1,7 +1,7 @@
 ---
 title: "Aşağı Cami Türbesi"
 date: "2026-01-10T05:22:41.204Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391756"
 
 # Aşağı Cami Türbesi
 
-Aşağı Cami Türbesi, Çivril'in merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin güzide bir noktasında yer alan gizli bir cennet. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Çivril'in doğal güzelliklerini sunuyor. Denizli ilinin en önemli turizm noktalarından biri olan Aşağı Cami Türbesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Bu bölge, tarihi ve doğal güzelliklerinin yanı sıra, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Aşağı Cami Türbesi, Çivril'in merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin güzide bir noktasında yer alan gizli bir cennet. Denizli ilinin en önemli turizm noktalarından biri olan Aşağı Cami Türbesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Aşağı Cami Türbesi, Çivril'in doğal güzelliklerini sunan bir bölge. Bu 1
 
 ## Ziyaret Bilgileri
 
-Aşağı Cami Türbesi'ni ziyaret etmek, Çivril'in doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Bu bölge, Çivril'in merkezine uzun bir mesafe uzaklıkta ve ulaşımı kolay. Ziyaretçiler, bölgenin tarihi ve doğal güzelliklerini keşfedebilir, çeşitli aktiviteler yapabilir ve bölgenin güzelliğini deneyimleyebilir. Aşağı Cami Türbesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor ve ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Aşağı Cami Türbesi'ni ziyaret etmek, Çivril'in doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Bu bölge, Çivril'in merkezine uzun bir mesafe uzaklıkta ve ulaşımı kolay. Ziyaretçiler, bölgenin tarihi ve doğal güzelliklerini keşfedebilir, çeşitli aktiviteler yapabilir ve bölgenin güzelliğini deneyimleyebilir.
 
 ## İlginç Bilgiler
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386141"
 
 # Taşaşmaz Tepesi
 
-Taşaşmaz Tepesi, Güneydoğu Anadolu Bölgesi'nin Gaziantep ilinde yer alan önemli bir coğrafya noktasıdır. Bu tepe, bölgenin doğal güzellikleri arasında öne çıkıyor. Gaziantep'in tarihi ve kültürel zenginliklerine ek olarak, Taşaşmaz Tepesi de ziyaretçilerin ilgisini çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş alan, ziyaretçiler için keşfedilecek çok şey sunuyor.
+Taşaşmaz Tepesi, Güneydoğu Anadolu Bölgesi'nin Gaziantep ilinde yer alan önemli bir coğrafya noktasıdır. Bu tepe, bölgenin doğal güzellikleri arasında öne çıkıyor. Gaziantep'in tarihi ve kültürel zenginliklerine ek olarak, Taşaşmaz Tepesi de ziyaretçilerin ilgisini çekiyor. Bu geniş alan, ziyaretçiler için keşfedilecek çok şey sunuyor.
 
 ## Tarihçe
 

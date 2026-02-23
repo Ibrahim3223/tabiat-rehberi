@@ -1,7 +1,7 @@
 ---
 title: "Eskişehir Hamam Müzesi"
 date: "2026-01-09T23:41:38.248Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739158"
 
 # Eskişehir Hamam Müzesi
 
-Eskişehir Hamam Müzesi, şehrin tarihi ve kültürel zenginliklerini keşfetmek için ideal bir destinasyon. Odunpazarı'nda bulunan müze, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin önemli bir kültürel merkezi olarak kabul ediliyor. Müze, Eskişehir'in geçmişini anlatan çeşitli eserler ve sergiler sunuyor. Ziyaretçiler, Eskişehir'in tarihi ve kültürel zenginliklerini keşfetmek için burayı mutlaka ziyaret etmeliler. Müzenin konumu, şehrin merkezine yakın ve ulaşımı kolay. Eskişehir Hamam Müzesi, şehrin en önemli turistik mekanlarından biri ve her yıl binlerce ziyaretçi çekiyor.
+Eskişehir Hamam Müzesi, şehrin tarihi ve kültürel zenginliklerini keşfetmek için ideal bir destinasyon. Odunpazarı'nda bulunan müze, yaklaşık 140 hektarlık bir alanı kaplıyor. Müze, Eskişehir'in geçmişini anlatan çeşitli eserler ve sergiler sunuyor. Ziyaretçiler, Eskişehir'in tarihi ve kültürel zenginliklerini keşfetmek için burayı mutlaka ziyaret etmeliler. Müzenin konumu, şehrin merkezine yakın ve ulaşımı kolay. Eskişehir Hamam Müzesi, şehrin en önemli turistik mekanlarından biri ve her yıl binlerce ziyaretçi çekiyor.
 
 ## Tarihçe
 

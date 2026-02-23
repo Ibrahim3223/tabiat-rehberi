@@ -34,7 +34,7 @@ Polikandro belediyesi/Santorin ilçesi, Türkiye'nin en güzel köşelerinden bi
 
 ## Tarihçe
 
-Santorin ilçesi, tarihin sâu izlerini taşıyan bir bölge. M.Ö. 1500'lü yıllara kadar uzanan bir geçmişe sahip olan bu bölge, antik uygarlıkların izlerini taşımaktadır. Bölge, Minoan ve Yunan uygarlıklarının etkisinde kalmış, daha sonra Roma ve Bizans dönemlerini yaşamıştır. Bu tarihsel zenginlik, Santorin'in kültürel mirasını şekillendirmiştir.
+Santorin ilçesi, tarihin derin izlerini taşıyan bir bölge. M.Ö. 1500'lü yıllara kadar uzanan bir geçmişe sahip olan bu bölge, antik uygarlıkların izlerini taşımaktadır. Bölge, Minoan ve Yunan uygarlıklarının etkisinde kalmış, daha sonra Roma ve Bizans dönemlerini yaşamıştır. Bu tarihsel zenginlik, Santorin'in kültürel mirasını şekillendirmiştir.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yere sahiptir. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini belirlemiştir. Santorin bölgesinde de benzer bir durum söz konusudur. Bölgenin coğrafi konumu, tarihi ticaret yollarının kavşağında yer almasına neden olmuştur. İnsanlar, bu doğal güzellikleri sadece hayvancılık ve tarım için değil, aynı zamanda ticaret ve kültür alışverişiçin de kullanmışlardır.
 

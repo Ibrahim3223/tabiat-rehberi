@@ -32,7 +32,7 @@ Bitlis'in dağlık arazisinde yer alan Hap Dağı, Türkiye'nin doğusunda önem
 
 ## Tarihçe
 
-Bitlis bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölge, Urartular, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların hükümranlığı altında kalmıştır. Hap Dağı, bu zengin tarihsel mirasın bir parçasıdır. Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve kültürel önemini arttırmıştır.
+Bitlis bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, Urartular, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların hükümranlığı altında kalmıştır. Hap Dağı, bu zengin tarihsel mirasın bir parçasıdır. Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve kültürel önemini arttırmıştır.
 
 Bitlis'in coğrafi konumu, tarihi İpek Yolu'nun güzergahında yer alması, bölgenin ticaret ve kültür alışverişinde önemli bir merkez olmasını sağlamıştır. Bölgedeki doğal güzellikler, insanların yaşamlarını sürdürmelerine olanak tanıyan kaynaklar olarak değer görmüşlerdir. Hap Dağı da bu güzelliklerin bir parçası olarak, bölgenin tarihine ve kültürüne katkıda bulunmuştur. İnsanların bu doğal alanlarla ilişkisi, sadece ekonomik değil, aynı zamanda kültürel ve manevi bir boyut da taşır. Bu tür doğal alanlar, Türkiye'nin zengin kültürel mirasının bir parçası olarak korunmaya devam etmektedir.
 
@@ -50,7 +50,7 @@ Jeolojik açıdan bakıldığında, Hap Dağı'nın fiziksel yapısı hakkında 
 
 Hap Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, alpin çayırlar rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar dağları bir geçiş noktası olarak kullanır.
 
-Bitki örtüsünü oluşturan yüksek dağ bitkileri, mevsimsel değişimlere uyum sağlar. Alpin flora, dağların zorlu koşullarına adapte olmuştur. Dağ hayvanları, bu bitkilerle beslenir ve yaşam alanlarını oluşturur. Memeliler, kuşlar ve sürüngenler, dağ ekosisteminin önemli bileşenleridir. 
+Bitki örtüsünü oluşturan yüksek dağ bitkileri, mevsimsel değişimlere uyum sağlar. Alpin flora, dağların zorlu koşullarına adapte olmuştur. Dağ hayvanları, bu bitkilerle beslenir ve yaşam alanlarını oluşturur. Memeliler, kuşlar ve sürüngenler, dağ ekosisteminin önemli bileşenleridir.
 
 Hap Dağı, endemik türlerin yaşam alanı olarak büyük ekolojik değere sahiptir. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini korumak için önemlidir.
 

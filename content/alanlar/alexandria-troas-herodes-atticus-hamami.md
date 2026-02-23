@@ -1,7 +1,7 @@
 ---
 title: "Alexandria Troas Herodes Atticus Hamamı"
 date: "2026-01-09T22:35:25.792Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ezine"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738751"
 
 # Alexandria Troas Herodes Atticus Hamamı
 
-Alexandria Troas Herodes Atticus Hamamı, Ezine'de bulunan ve tarihi geçmişiyle dikkat çeken bir alandır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğal güzelliği ile ziyaretçilerini cezbediyor. Hamam ve plaj alanı olarak kullanılan bu mekan, hem tarihi hem de doğal güzelliklerini bir araya getirmesiyle dikkat çekiyor. Ziyaretçiler, hem tarihi hamamın atmosferini hissedebilir hem de plajın güneşinde dinlenebilirler.
+Alexandria Troas Herodes Atticus Hamamı, Ezine'de bulunan ve tarihi geçmişiyle dikkat çeken bir alandır. Hamam ve plaj alanı olarak kullanılan bu mekan, hem tarihi hem de doğal güzelliklerini bir araya getirmesiyle dikkat çekiyor. Ziyaretçiler, hem tarihi hamamın atmosferini hissedebilir hem de plajın güneşinde dinlenebilirler.
 
 ## Tarihçe
 

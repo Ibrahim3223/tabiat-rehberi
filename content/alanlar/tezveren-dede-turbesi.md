@@ -1,7 +1,7 @@
 ---
 title: "Tezveren Dede Türbesi"
 date: "2026-01-10T05:57:45.518Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390462"
 
 # Tezveren Dede Türbesi
 
-Tezveren Dede Türbesi, Bursa'nın Osmangazi ilçesinde yer alan, tarihi ve doğal güzelliği bir arada sunan özel bir mekan. 140 hektarlık geniş yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir yer. Tezveren Dede Türbesi, ziyaretçilerine hem dinlenme hem de bilgi edinme imkanı sunuyor. Buradaki tarihi yapılar ve doğa manzaraları, ziyaretçilere unutulmaz anlar yaşatıyor.
+Tezveren Dede Türbesi, Bursa'nın Osmangazi ilçesinde yer alan, tarihi ve doğal güzelliği bir arada sunan özel bir mekan. Bu geniş alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir yer. Tezveren Dede Türbesi, ziyaretçilerine hem dinlenme hem de bilgi edinme imkanı sunuyor. Buradaki tarihi yapılar ve doğa manzaraları, ziyaretçilere unutulmaz anlar yaşatıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tezveren Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine uzanıyor. Bu
 
 ## Coğrafya
 
-Tezveren Dede Türbesi, Marmara Bölgesi'nin güzide şehirlerinden biri olan Bursa'nın Osmangazi ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. 140 hektarlık geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir yer. Bölgenin coğrafi yapısı, ziyaretçilere farklı mevsimlerde çeşitli actividadeslar sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebilirken, sonbahar ve kış aylarında da doğanın başka güzelliğini keşfedebilirsiniz. Çevre, tarihi yapılarla dolu ve ziyaretçilere bu bölgenin kültürel zenginliğini gösteriyor.
+Tezveren Dede Türbesi, Marmara Bölgesi'nin güzide şehirlerinden biri olan Bursa'nın Osmangazi ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitliliğe sahip. Bölgenin coğrafi yapısı, ziyaretçilere farklı mevsimlerde çeşitli actividadeslar sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebilirken, sonbahar ve kış aylarında da doğanın başka güzelliğini keşfedebilirsiniz. Çevre, tarihi yapılarla dolu ve ziyaretçilere bu bölgenin kültürel zenginliğini gösteriyor.
 
 ## Flora ve Fauna
 

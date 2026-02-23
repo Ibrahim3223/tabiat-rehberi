@@ -29,7 +29,7 @@ wikidata_id: "Q134728309"
 
 # Daskyleion Tümülüsü 5
 
-Daskyleion Tümülüsü 5, Marmara Bölgesi'nin Bandırma ilçesinde bulunan önemli bir tarihi ve doğal alan olarak karşımıza çıkıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli tarihi yapılarından biri olarak biliniyor. Daskyleion Tümülüsü 5, ziyaretçilerini geçmişin gizemli atmosferine davet ediyor ve tarihi bir yolculuğa çıkarıyor. Bölgenin coğrafi özellikleri, tarihi yapıların güzelliğini daha da artıran unsurlar olarak dikkat çekiyor.
+Daskyleion Tümülüsü 5, Marmara Bölgesi'nin Bandırma ilçesinde bulunan önemli bir tarihi ve doğal alan olarak karşımıza çıkıyor. Daskyleion Tümülüsü 5, ziyaretçilerini geçmişin gizemli atmosferine davet ediyor ve tarihi bir yolculuğa çıkarıyor. Bölgenin coğrafi özellikleri, tarihi yapıların güzelliğini daha da artıran unsurlar olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Daskyleion Tümülüsü 5'in tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Daskyleion Tümülüsü 5, Marmara Bölgesi'nin Bandırma ilçesinde yer alıyor ve coğrafi olarak önemli bir konumda bulunuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve 140 hektarlık bir alanı kaplıyor. Bölgenin coğrafi özellikleri, tarihi yapıların güzelliğini daha da artıran unsurlar olarak dikkat çekiyor. Daskyleion Tümülüsü 5'in coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bölgenin iklimi, flora ve fauna çeşitliliği, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Daskyleion Tümülüsü 5, Marmara Bölgesi'nin Bandırma ilçesinde yer alıyor ve coğrafi olarak önemli bir konumda bulunuyor. Bölgenin coğrafi özellikleri, tarihi yapıların güzelliğini daha da artıran unsurlar olarak dikkat çekiyor. Daskyleion Tümülüsü 5'in coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı sunuyor. Bölgenin iklimi, flora ve fauna çeşitliliği, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

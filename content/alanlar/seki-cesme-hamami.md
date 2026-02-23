@@ -1,7 +1,7 @@
 ---
 title: "Seki Çeşme Hamamı"
 date: "2026-01-10T04:32:42.237Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738774"
 
 # Seki Çeşme Hamamı
 
-Seki Çeşme Hamamı, Karaman ilinin merkezinde yer alan tarihi ve doğal güzelliği ile dikkat çekici bir destinasyondur. 140 hektarlık geniş bir alana yayılan bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Seki Çeşme Hamamı, zengin tarihi geçmişi ve eşsiz doğal güzelliği ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu tarihi mekan, Karaman'ın önemli kültür varlıklarından biri olarak kabul ediliyor ve ziyaretçilerini tarihin sâuğuna götürüyor.
+Seki Çeşme Hamamı, Karaman ilinin merkezinde yer alan tarihi ve doğal güzelliği ile dikkat çekici bir destinasyondur. Seki Çeşme Hamamı, zengin tarihi geçmişi ve eşsiz doğal güzelliği ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu tarihi mekan, Karaman'ın önemli kültür varlıklarından biri olarak kabul ediliyor ve ziyaretçilerini tarihin derinğuna götürüyor.
 
 ## Tarihçe
 

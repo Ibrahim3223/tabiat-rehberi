@@ -22,7 +22,7 @@ wikidata_id: "Q108226506"
 
 # Bahal Vadisi Sit Alanı
 
-Bahal Vadisi Sit Alanı, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık geniş bir alana yayılmış, doğa severlerin ve gezi tutkunlarının yeni keşif noktası. Bu büyüleyici vadi, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini, yemyeşil doğası ve eşsiz manzaralarıyla karşılıyor. Bahal Vadisi, doğa yürüyüşlerinden, fotoğrafçılığa, piknikten, doğaına kadar çeşitli aktiviteler sunuyor ve ziyaretçilerine, şehrin gürültüsünden uzak, sakin bir atmosfer sunuyor.
+Bahal Vadisi Sit Alanı, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık geniş bir alana yayılmış, doğa severlerin ve gezi tutkunlarının yeni keşif noktası. Bahal Vadisi, doğa yürüyüşlerinden, fotoğrafçılığa, piknikten, doğaına kadar çeşitli aktiviteler sunuyor ve ziyaretçilerine, şehrin gürültüsünden uzak, sakin bir atmosfer sunuyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Bahal Vadisi Sit Alanı, ziyaretçilerine, çeşitli aktivite olanakları sunuyo
 ## İlginç Bilgiler
 
 - Bahal Vadisi, 140 hektarlık geniş bir alana yayılmış.
-- Vadi, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bahal Vadisi, çeşitli bitki ve hayvan türlerine ev sahipliği yapıyor.
 - Vadi, mevsimsel değişimlerle, farklı bir güzelliğe bürünüyor.
 - Bahal Vadisi, doğa severler ve fotoğrafçılar için, bir cennet niteliğinde.

@@ -28,7 +28,7 @@ wikidata_id: "Q31390397"
 
 # Sızma Tepe
 
-Sızma Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve aynı zamanda bir doğa harikası. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir manzara sunuyor. Sızma Tepe'nin eteklerinde kurulan köyler, tepeye olan yakınlıkları nedeniyle tarihi ve kültürel açıdan da önemli bir konumda bulunuyor. Sızma Tepe, Konya'nın tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon olarak dikkat çekiyor.
+Sızma Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve aynı zamanda bir doğa harikası. Sızma Tepe'nin eteklerinde kurulan köyler, tepeye olan yakınlıkları nedeniyle tarihi ve kültürel açıdan da önemli bir konumda bulunuyor. Sızma Tepe, Konya'nın tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

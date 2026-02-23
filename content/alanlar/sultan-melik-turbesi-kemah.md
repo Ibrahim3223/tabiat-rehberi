@@ -1,7 +1,7 @@
 ---
 title: "Sultan Melik Türbesi, Kemah"
 date: "2026-01-10T06:42:01.497Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzincan"
@@ -29,15 +29,15 @@ wikidata_id: "Q135582834"
 
 # Sultan Melik Türbesi, Kemah
 
-Sultan Melik Türbesi, Kemah, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir arada sunan özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi çeşitli bitki türleriyle kaplı. Bu türbeye ulaşmak için, Erzincan iline gelerek Kemah ilçesine doğru ilerlemek gerekli. Sultan Melik Türbesi, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor. Bu mekan, turistler için önemli bir çekim noktası olmasının yanı sıra, yerel halk için de önemli bir kültürel miras.
+Sultan Melik Türbesi, Kemah, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir arada sunan özel bir mekan. Bu türbeye ulaşmak için, Erzincan iline gelerek Kemah ilçesine doğru ilerlemek gerekli. Sultan Melik Türbesi, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor. Bu mekan, turistler için önemli bir çekim noktası olmasının yanı sıra, yerel halk için de önemli bir kültürel miras.
 
 ## Tarihçe
 
-Sultan Melik Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin önemli bir tarihi mirası haline gelmiştir. Bu türbenin inşası, tarihi olaylar ve kültürel etkilerin bir sonucu olarak ortaya çıkmıştır. Sultan Melik Türbesi, Kemah ilçesinin tarihinde önemli bir yer tutmakta ve ziyaretçiler için bir öğrenme kaynağı oluşturmaktadır. Tarihi olaylar ve kültürel etkiler, bu türbenin oluşumunda önemli bir role sahip olmuştur. Sultan Melik Türbesi'nin tarihi, bölgenin tarihinde önemli bir yer tutmaktadır ve ziyaretçilere bu tarihi mirası keşfetme fırsatı sunmaktadır.
+Sultan Melik Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin önemli bir tarihi mirası haline gelmiştir. Bu türbenin inşası, tarihi olaylar ve kültürel etkilerin bir sonucu olarak ortaya çıkmıştır. Sultan Melik Türbesi, Kemah ilçesinin tarihinde önemli bir yer tutmakta ve ziyaretçiler için bir öğrenme kaynağı oluşturmaktadır. Tarihi olaylar ve kültürel etkiler, bu türbenin oluşumunda önemli bir role sahip olmuştur.
 
 ## Coğrafya
 
-Sultan Melik Türbesi, Kemah ilçesinde yer alan ve doğal güzellikleri ile dikkat çeken bir mekandır. Bu türbenin çevresi, çeşitli bitki türleriyle kaplı ve 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Sultan Melik Türbesi, Erzincan ilinin coğrafi yapısı ve iklimi nedeniyle, ziyaretçilere farklı bir deneyim sunuyor. Bölgenin coğrafi özellikleri, türbenin etrafındaki doğayı şekillendirmiş ve ziyaretçiler için bir doğa harikası oluşturmuştur. Sultan Melik Türbesi'nin coğrafi konumu, ziyaretçilerin doğayı keşfetmesine olanak tanıyor ve bir doğa sever için ideal bir destinasyon oluşturuyor.
+Sultan Melik Türbesi, Kemah ilçesinde yer alan ve doğal güzellikleri ile dikkat çeken bir mekandır. Sultan Melik Türbesi, Erzincan ilinin coğrafi yapısı ve iklimi nedeniyle, ziyaretçilere farklı bir deneyim sunuyor. Bölgenin coğrafi özellikleri, türbenin etrafındaki doğayı şekillendirmiş ve ziyaretçiler için bir doğa harikası oluşturmuştur. Sultan Melik Türbesi'nin coğrafi konumu, ziyaretçilerin doğayı keşfetmesine olanak tanıyor ve bir doğa sever için ideal bir destinasyon oluşturuyor.
 
 ## Flora ve Fauna
 

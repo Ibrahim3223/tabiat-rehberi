@@ -1,7 +1,7 @@
 ---
 title: "Anıt mezar, Akkale"
 date: "2026-01-10T00:00:46.389Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728089"
 
 # Anıt mezar, Akkale
 
-Anıt mezar, Akkale, Mersin'in Erdemli ilçesinde yer alan tarihi bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşittir. Anıt mezar, Akkale, ziyaretçilerini tarihin derinliklerine götürerek, geçmişin gizemini keşfetme fırsatı sunar. Bu bölge, tarihi zenginlikleri ve coğrafi güzelliği ile dikkat çekmektedir. Anıt mezarın etrafı, çeşitli bitki türleri ile çevrilidir ve bu bölgede zengin fauna bulunmaktadır.
+Anıt mezar, Akkale, Mersin'in Erdemli ilçesinde yer alan tarihi bir alandır. Anıt mezar, Akkale, ziyaretçilerini tarihin derinliklerine götürerek, geçmişin gizemini keşfetme fırsatı sunar. Bu bölge, tarihi zenginlikleri ve coğrafi güzelliği ile dikkat çekmektedir. Anıt mezarın etrafı, çeşitli bitki türleri ile çevrilidir ve bu bölgede zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Anıt mezar, Akkale, ziyaretçilerine tarihin derinliklerine götürerek, geçmi
 ## İlginç Bilgiler
 
 - Anıt mezar, Akkale, Mersin'in Erdemli ilçesinde yer alan tarihi bir alandır.
-- Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir.
+
 - Anıt mezarın etrafı, çeşitli bitki türleri ile çevrilidir.
 - Bu bölgede, zengin fauna bulunmaktadır.
 - Anıt mezar, Akkale, ziyaretçilerine tarihin derinliklerine götürerek, geçmişin gizemini keşfetme fırsatı sunar.

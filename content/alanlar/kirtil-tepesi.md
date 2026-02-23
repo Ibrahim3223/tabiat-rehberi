@@ -28,7 +28,7 @@ wikidata_id: "Q31388473"
 
 # Kirtil Tepesi
 
-Kirtil Tepesi, Rize'nin yüksek dağlık bölgesinde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Bu bölge, trekking ve yürüyüş severlerin favori mekanlarından biri olup, ziyaretçilerini muhteşem manzaralarla karşılar. Kirtil Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilir.
+ Bu bölge, trekking ve yürüyüş severlerin favori mekanlarından biri olup, ziyaretçilerini muhteşem manzaralarla karşılar. Kirtil Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir ve her yıl çok sayıda ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 

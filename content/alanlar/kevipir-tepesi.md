@@ -28,7 +28,7 @@ wikidata_id: "Q31387456"
 
 # Kevipir Tepesi
 
-Kevipir Tepesi, Van'ın dağlık bölgesinde yer alan ve doğa severlerin ilgi odağı olan bir tepe. Bu yüksek bir konumdateki tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Kevipir Tepesi, Van Gölü'nün kuzeyinde yer alıyor ve bölgenin en önemli doğal güzelliklerinden biri. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşıyoruz. Kevipir Tepesi, hem doğa severler hem de macera arayışındaki kişiler için ideal bir destinasyon.
+Kevipir Tepesi, Van'ın dağlık bölgesinde yer alan ve doğa severlerin ilgi odağı olan bir tepe. Bu yüksek bir konumdateki tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Kevipir Tepesi, Van Gölü'nün kuzeyinde yer alıyor ve bölgenin en önemli doğal güzelliklerinden biri. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna ile karşılaşıyoruz. Kevipir Tepesi, hem doğa severler hem de macera arayışındaki kişiler için ideal bir destinasyon.
 
 ## Tarihçe
 

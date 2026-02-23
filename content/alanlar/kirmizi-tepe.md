@@ -29,7 +29,7 @@ wikidata_id: "Q31388590"
 
 # Kırmızı Tepe
 
-Kırmızı Tepe, Erzurum'un doğal güzelliklerinin başında gelen bir tepe. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, Erzurum'un şehir merkezine oldukça yakındır ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Kırmızı Tepe, özellikle bahar ve yaz aylarında yeşille örtülü olan tepesiyle ziyaretçilerini karşılar. Bu dönemde, tepeye çıkan ziyaretçiler, şehrin panoramik manzarasını da seyredebilirler. Kırmızı Tepe, aynı zamanda doğa severlerin de ilgisini çeken bir yer. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Ziyaretçiler, tepeye tırmanırken, bu güzellikleri yakından görebilirler.
+Kırmızı Tepe, Erzurum'un doğal güzelliklerinin başında gelen bir tepe. Bu tepe, Erzurum'un şehir merkezine oldukça yakındır ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Kırmızı Tepe, özellikle bahar ve yaz aylarında yeşille örtülü olan tepesiyle ziyaretçilerini karşılar. Bu dönemde, tepeye çıkan ziyaretçiler, şehrin panoramik manzarasını da seyredebilirler. Kırmızı Tepe, aynı zamanda doğa severlerin de ilgisini çeken bir yer. Burada, çeşitli bitki türleri ve hayvanlar bulunur. Ziyaretçiler, tepeye tırmanırken, bu güzellikleri yakından görebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kırmızı Tepe'nin tarihi geçmişi oldukça eskidir. Bu tepe, yüzyıllar boyu
 
 ## Coğrafya
 
-Kırmızı Tepe, Doğu Anadolu Bölgesi'nde, Erzurum ilinde bulunur. Tepe, şehrin merkezine uzun bir mesafe uzaklıktadır. Bu nedenle, ziyaretçiler, şehirden kolayca tepeye ulaşabilirler. Tepe, 140 hektarlık bir alana yayılmıştır ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepeye tırmanırken, ziyaretçiler, şehrin panoramik manzarasını da seyredebilirler. Tepe, özellikle bahar ve yaz aylarında yeşille örtülü olan tepesiyle ziyaretçilerini karşılar. Bu dönemde, tepeye çıkan ziyaretçiler, çeşitli bitki türleri ve hayvanları da görebilirler. Tepe, aynı zamanda, kış aylarında kayak yapılabilen bir bölgedir. Ziyaretçiler, tepeye tırmanırken, bu olanakları da değerlendirebilirler.
+Kırmızı Tepe, Doğu Anadolu Bölgesi'nde, Erzurum ilinde bulunur. Tepe, şehrin merkezine uzun bir mesafe uzaklıktadır. Bu nedenle, ziyaretçiler, şehirden kolayca tepeye ulaşabilirler. Tepeye tırmanırken, ziyaretçiler, şehrin panoramik manzarasını da seyredebilirler. Tepe, özellikle bahar ve yaz aylarında yeşille örtülü olan tepesiyle ziyaretçilerini karşılar. Bu dönemde, tepeye çıkan ziyaretçiler, çeşitli bitki türleri ve hayvanları da görebilirler. Tepe, aynı zamanda, kış aylarında kayak yapılabilen bir bölgedir. Ziyaretçiler, tepeye tırmanırken, bu olanakları da değerlendirebilirler.
 
 ## Flora ve Fauna
 

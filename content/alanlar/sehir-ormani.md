@@ -23,7 +23,7 @@ wikidata_id: "Q108228654"
 
 # Şehir Ormanı
 
-Şehir Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alana kurulmuş, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan. Bu bölge, hem doğal güzelliği hem de ziyaretçilere sunduğu olanaklarla dikkat çekiyor. Şehir Ormanı, doğa severlerin ve çevre dostlarının keyiflenebileceği, aynı zamanda şehrin gürültüsünden uzaklaşmak isteyenlerin sığınabileceği bir mekan. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirdiğiniz her dakika, size doğanın güzelliğini hatırlatıyor.
+ Bu bölge, hem doğal güzelliği hem de ziyaretçilere sunduğu olanaklarla dikkat çekiyor. Şehir Ormanı, doğa severlerin ve çevre dostlarının keyiflenebileceği, aynı zamanda şehrin gürültüsünden uzaklaşmak isteyenlerin sığınabileceği bir mekan. 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirdiğiniz her dakika, size doğanın güzelliğini hatırlatıyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ wikidata_id: "Q108228654"
 
 ## Coğrafya
 
-Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş ve bu bölgenin doğal güzelliğini yansıtıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Bölge, çeşitli bitki türleri ile zengin bir flora yapısına sahip ve bu çeşitlilik, ziyaretçilere doğanın güzelliğini gösteriyor. Şehir Ormanı'nın coğrafi konumu, ziyaretçilerin doğayı keşfetmelerine ve doğal güzelliği deneyimlemelerine olanak tanıyor. Bu bölge, aynı zamanda bölgedeki fauna çeşitliliği ile dikkat çekiyor ve birçok canlıya ev sahipliği yapıyor. Şehir Ormanı, coğrafi olarak çevredeki dağların eteklerinde yer alıyor ve bu konum, bölgeye özel bir iklim ve mikro klima oluşumuna neden oluyor. Bu nedenle, Şehir Ormanı, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim ayrı bir güzelliğe sahip.
+Şehir Ormanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş ve bu bölgenin doğal güzelliğini yansıtıyor. Bölge, çeşitli bitki türleri ile zengin bir flora yapısına sahip ve bu çeşitlilik, ziyaretçilere doğanın güzelliğini gösteriyor. Şehir Ormanı'nın coğrafi konumu, ziyaretçilerin doğayı keşfetmelerine ve doğal güzelliği deneyimlemelerine olanak tanıyor. Bu bölge, aynı zamanda bölgedeki fauna çeşitliliği ile dikkat çekiyor ve birçok canlıya ev sahipliği yapıyor. Şehir Ormanı, coğrafi olarak çevredeki dağların eteklerinde yer alıyor ve bu konum, bölgeye özel bir iklim ve mikro klima oluşumuna neden oluyor. Bu nedenle, Şehir Ormanı, yıl boyunca ziyaretçilerini ağırlıyor ve her mevsim ayrı bir güzelliğe sahip.
 
 ## Flora ve Fauna
 

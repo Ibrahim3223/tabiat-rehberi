@@ -50,7 +50,7 @@ Mevsimsel değişikliklerle birlikte, Küçükçal Tepesi de farklı hava koşul
 
 Küçükçal Tepesi, Ankara'nın göbeğinde, step bitki örtüsünün hâkim olduğu bir dağ ekosistemi sunar. İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengârenk çiçeklerle donanır. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği dikkat çeker. Dağların eteklerinde, kuraklığa adapte türler gibi otsu bitkiler ve çalılar hakimdir.
 
-Yaban hayatına baktığımızda, memeliler ve kuşlar bu dağ ekosisteminin önemli bileşenleridir. Göç mevsiminde, çeşitli kuş türleri bu bölgeyi ziyaret eder. Sürüngenler de, özellikle güneşli günlerde, kayalık alanlarda görülebilir. 
+Yaban hayatına baktığımızda, memeliler ve kuşlar bu dağ ekosisteminin önemli bileşenleridir. Göç mevsiminde, çeşitli kuş türleri bu bölgeyi ziyaret eder. Sürüngenler de, özellikle güneşli günlerde, kayalık alanlarda görülebilir.
 
 Küçükçal Tepesi, ekolojik açıdan önemli bir alandır. Bu bölge, çeşitli türlerin yaşam alanı olmasının yanı sıra, su kaynaklarının korunmasına da katkı sağlar. Koruma durumu ise, bölgenin doğal güzelliğinin ve biyolojik çeşitliliğinin korunmasına yönelik çabalara bağlıdır.
 

@@ -48,7 +48,7 @@ Pamukdağı Tepe'nin fiziksel yapısı hakkında detaylı bilgiler bulunmasa da,
 
 ## Flora ve Fauna
 
-Pamukdağı Tepe, Iğdır'da yer alan bir dağ ekosistemi olup, yüksek dağ ekolojisi ve alpin çayırların hakim olduğu bir bölgedir. 
+Pamukdağı Tepe, Iğdır'da yer alan bir dağ ekosistemi olup, yüksek dağ ekolojisi ve alpin çayırların hakim olduğu bir bölgedir.
 
 Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçlarında çeşitli çiçekler açarken, yaz aylarında yeşil otlaklar hakimdir. Sonbahar mevsiminde, dağ çayırları sarı ve kahverengi tonlara bürünür. Bu bölgede endemik türlerin varlığı, Pamukdağı Tepe'nin flora açısından önemli bir bölge olmasını sağlar.
 

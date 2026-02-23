@@ -1,7 +1,7 @@
 ---
 title: "Gülgün Hatun Hamamı"
 date: "2026-01-09T22:28:26.984Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738487"
 
 # Gülgün Hatun Hamamı
 
-Gülgün Hatun Hamamı, Manisa'nın Şehzadeler ilçesinde yer alan ve tarihin izlerini taşıyan önemli bir kültürel mirastır. Bu tarihi hamam, yaklaşık 140 hektarlık bir alanda kurulmuş ve çevresindeki yeşilliklerle birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplar. Hamamın mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşır ve ziyaretçilerini tarihin derinliklerine götürmeyi başarır. Gülgün Hatun Hamamı, Manisa'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Gülgün Hatun Hamamı, Manisa'nın Şehzadeler ilçesinde yer alan ve tarihin izlerini taşıyan önemli bir kültürel mirastır. Hamamın mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşır ve ziyaretçilerini tarihin derinliklerine götürmeyi başarır. Gülgün Hatun Hamamı, Manisa'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gülgün Hatun Hamamı'nın tarihi geçmişi, Osmanlı İmparatorluğu'nun geni�
 
 ## Coğrafya
 
-Gülgün Hatun Hamamı, Manisa'nın Şehzadeler ilçesinde, şehrin merkezine yakın bir konumda yer alır. Hamam, yaklaşık 140 hektarlık bir alanda kurulmuş ve çevresindeki yeşilliklerle birlikte yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplar. Bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve hamamın çevresinde çeşitli tarım alanları ve ormanlık bölgeler bulunmaktadır. Hamamın mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşır ve çevresindeki peyzajla uyumlu bir şekilde tasarlanmıştır. Gülgün Hatun Hamamı, Manisa'nın coğrafi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Hamamın konumu, ziyaretçilerine şehrin diğer önemli yerlerini keşfetme fırsatı sunar ve bölgenin tarihi, kültürel ve doğal güzelliklerini deneyimlemelerine olanak tanır.
+Gülgün Hatun Hamamı, Manisa'nın Şehzadeler ilçesinde, şehrin merkezine yakın bir konumda yer alır. Bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve hamamın çevresinde çeşitli tarım alanları ve ormanlık bölgeler bulunmaktadır. Hamamın mimarisi, Osmanlı dönemi yapılarının karakteristik özelliklerini taşır ve çevresindeki peyzajla uyumlu bir şekilde tasarlanmıştır. Gülgün Hatun Hamamı, Manisa'nın coğrafi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Hamamın konumu, ziyaretçilerine şehrin diğer önemli yerlerini keşfetme fırsatı sunar ve bölgenin tarihi, kültürel ve doğal güzelliklerini deneyimlemelerine olanak tanır.
 
 ## Flora ve Fauna
 

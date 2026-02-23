@@ -30,7 +30,7 @@ wikidata_id: "Q853029"
 
 # Beyazıt Kulesi
 
-Beyazıt Kulesi, İstanbul'un tarihi ilçesi Fatih'te, Marmara Bölgesi'nin kalbinde yer alan bir gözlem kulesidir. 140 hektarlık bir alanı kapsayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gözde noktalarından biridir. Beyazıt Kulesi, tarihi geçmişi ve deniz manzarasıyla ziyaretçilerini cezbeden bir yerdir. Kule, deniz seviyesinden yüksek bir noktada bulunması sebebiyle, İstanbul Boğazı ve çevresinin geniş bir panoramasını sunar. Bu gözlem kulesi, aynı zamanda bölgenin önemli bir tarihi yapısı olarak kabul edilir ve turistlerin ilgisini çeker.
+Beyazıt Kulesi, İstanbul'un tarihi ilçesi Fatih'te, Marmara Bölgesi'nin kalbinde yer alan bir gözlem kulesidir. Beyazıt Kulesi, tarihi geçmişi ve deniz manzarasıyla ziyaretçilerini cezbeden bir yerdir. Kule, deniz seviyesinden yüksek bir noktada bulunması sebebiyle, İstanbul Boğazı ve çevresinin geniş bir panoramasını sunar. Bu gözlem kulesi, aynı zamanda bölgenin önemli bir tarihi yapısı olarak kabul edilir ve turistlerin ilgisini çeker.
 
 ## Tarihçe
 

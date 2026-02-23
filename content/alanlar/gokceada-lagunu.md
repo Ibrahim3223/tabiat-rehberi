@@ -49,7 +49,7 @@ Gökçeada Lagünü, çevresindeki sulak alanlar ve deniz ekosistemleriyle bağl
 
 ## Flora ve Fauna
 
-Gökçeada Lagünü, geçiş ikliminin karakteristik özelliklerini taşıyan bir sulak alan olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 
+Gökçeada Lagünü, geçiş ikliminin karakteristik özelliklerini taşıyan bir sulak alan olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar.
 
 Bitki örtüsü olarak, ilkbahar aylarında lagünün etrafı renkli çiçeklerle dolar, sonbaharda ise sararan otlar ve ağaçlar manzarayı değiştirir. Gölün içi ve çevresi, çeşitli sulak alan bitkileriyle kaplıdır.
 

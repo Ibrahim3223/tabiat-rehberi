@@ -55,7 +55,7 @@ Ayrı Dağı, İzmir'in zeytinlikler ve çam ormanları ile çevrili bir dağ ek
 
 Dağın yükseklik zonlarında, alpin flora hakimdir. Bu zorlu koşullarda, bazı özel bitkiler yaşamını sürdürür. Dağın eteklerinde, zeytinlikler ve çam ormanları arasındaki geçiş bölgelerinde, çeşitli yaban hayat türleri yaşar. Memeliler, kuşlar ve sürüngenler, bu ekosistemin bir parçası olarak, birbirleriyle ve çevreleriyle etkileşim hâlindedir. Örneğin, bazı kuş türleri, çam ormanlarında yuva yapar ve zeytinliklerde beslenir.
 
-Ayrı Dağı, bölgenin ekolojik dengesini korumak açısından önemlidir. Bu dağ ekosisteminin korunması, aynı zamanda bölgenin biyolojik çeşitliliğini de korur. Bu nedenle, ayrıntıları ile incelendiğinde, Ayrı Dağı'nın önemi daha iyi anlaşılır.
+ Bu dağ ekosisteminin korunması, aynı zamanda bölgenin biyolojik çeşitliliğini de korur. Bu nedenle, ayrıntıları ile incelendiğinde, Ayrı Dağı'nın önemi daha iyi anlaşılır.
 
 ## Ziyaret Bilgileri
 

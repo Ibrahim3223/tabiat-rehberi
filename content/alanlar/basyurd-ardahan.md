@@ -32,9 +32,9 @@ Ardahan'ın dağları arasında yer alan Başyurd Dağı, Türkiye'nin kuzeydoğ
 
 ## Tarihçe
 
-Ardahan bölgesinin tarihi, binlerce yıl öncesine uzanan bir geçmişe sahip. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği stratejik bir konumda bulunmuştur. Başyurd Dağı da bu tarihsel zenginliğin bir parçasını oluşturur. 
-Bu dağ, bölgenin coğrafi özelliklerini şekillendiren jeolojik oluşumların bir sonucu olarak ortaya çıkmıştır. Türkiye'nin doğal alanları, tarihin her döneminde insanların yaşamlarını sürdürmeleri için önemli kaynaklar olmuştur. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların geleneksel geçim kaynaklarından biri olarak kabul edilir. 
-Bölgedeki insanlar, tarih boyunca bu doğal alanları kullanarak hayatlarını sürdürmüş, aynı zamanda ticaret yolları üzerinde bulunmaları nedeniyle kültürel alışveriş ve etkileşim içinde olmuşlardır. Ardahan'ın coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, bu bölgenin tarihsel önemini artırmıştır. 
+Ardahan bölgesinin tarihi, binlerce yıl öncesine uzanan bir geçmişe sahip. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı ve ticaret yollarının kesiştiği stratejik bir konumda bulunmuştur. Başyurd Dağı da bu tarihsel zenginliğin bir parçasını oluşturur.
+Bu dağ, bölgenin coğrafi özelliklerini şekillendiren jeolojik oluşumların bir sonucu olarak ortaya çıkmıştır. Türkiye'nin doğal alanları, tarihin her döneminde insanların yaşamlarını sürdürmeleri için önemli kaynaklar olmuştur. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan insanların geleneksel geçim kaynaklarından biri olarak kabul edilir.
+Bölgedeki insanlar, tarih boyunca bu doğal alanları kullanarak hayatlarını sürdürmüş, aynı zamanda ticaret yolları üzerinde bulunmaları nedeniyle kültürel alışveriş ve etkileşim içinde olmuşlardır. Ardahan'ın coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, bu bölgenin tarihsel önemini artırmıştır.
 Bu dağlar, sadece doğal güzellikleriyle değil, aynı zamanda tarihsel ve kültürel zenginlikleriyle de dikkat çeker. Bu nedenle, Başyurd Dağı gibi doğal alanlar, Türkiye'nin tarihi ve kültürel mirasının önemli bir parçasını oluşturur.
 
 ## Coğrafya

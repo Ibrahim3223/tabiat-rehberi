@@ -1,7 +1,7 @@
 ---
 title: "Saray Hamamı, Ordu"
 date: "2026-01-10T00:04:51.976Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ordu"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245852"
 
 # Saray Hamamı, Ordu
 
-Saray Hamamı, Ordu'nun Altınordu ilçesinde bulunan ve Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen bir yer. Bu plaj, 140 hektarlık bir alan üzerinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Saray Hamamı, denize girme ve güneşlenme imkanı sunan bir plaj olarak biliniyor. Ayrıca, plaj çevresinde çeşitli restoran ve kafeler yer alıyor.
+Saray Hamamı, Ordu'nun Altınordu ilçesinde bulunan ve Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen bir yer. Saray Hamamı, denize girme ve güneşlenme imkanı sunan bir plaj olarak biliniyor. Ayrıca, plaj çevresinde çeşitli restoran ve kafeler yer alıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Saray Hamamı'nın tarihi geçmişi oldukça eskilere dayanır. Bu bölge, yüzy
 
 ## Coğrafya
 
-Saray Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Bu plaj, 140 hektarlık bir alan üzerinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Plajın çevresi, çeşitli restoran ve kafeler ile dolu ve denize girme imkanı sunan bir plaj olarak biliniyor. Saray Hamamı, Karadeniz Bölgesi'nin diğer plajlarına göre daha sakin ve huzurlu bir yer olarak biliniyor. Plajın kumları ince ve altın renginde, denizi ise berra ve mavi. Saray Hamamı, especialmente yaz aylarında ziyaret edilen bir plaj olarak biliniyor ve bölgede yapılan çeşitli etkinlikler ile turizm açısından önemli bir merkez olarak biliniyor.
+Saray Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak biliniyor. Plajın çevresi, çeşitli restoran ve kafeler ile dolu ve denize girme imkanı sunan bir plaj olarak biliniyor. Saray Hamamı, Karadeniz Bölgesi'nin diğer plajlarına göre daha sakin ve huzurlu bir yer olarak biliniyor. Plajın kumları ince ve altın renginde, denizi ise berra ve mavi. Saray Hamamı, especialmente yaz aylarında ziyaret edilen bir plaj olarak biliniyor ve bölgede yapılan çeşitli etkinlikler ile turizm açısından önemli bir merkez olarak biliniyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Hızır Bey Hamamı"
 date: "2026-01-09T23:16:15.075Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738998"
 
 # Hızır Bey Hamamı
 
-Hızır Bey Hamamı, Trabzon'un Bafra ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Hızır Bey Hamamı, özellikle plaj severlerin ve doğaşığıların ziyaret ettiği bir nokta. Burada, denizin serin sularına girerek güneşin keyfini çıkarabilirsiniz. Ayrıca, tarihi yapılar ve çevredeki ormanlık alanlar da ziyaretçilerin ilgisini çekiyor.
+Hızır Bey Hamamı, Trabzon'un Bafra ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir mekan. Hızır Bey Hamamı, özellikle plaj severlerin ve doğaşığıların ziyaret ettiği bir nokta. Burada, denizin serin sularına girerek güneşin keyfini çıkarabilirsiniz. Ayrıca, tarihi yapılar ve çevredeki ormanlık alanlar da ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386154"
 
 # Akbenek Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin kalbinde, Gaziantep'te yer alan Akbenek Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilerine doğayla baş başa kalmak için eşsiz bir fırsat sunuyor. Akbenek Tepesi, coğrafi konumu itibariyle bölgenin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, bu bölgeyi biyolojik çeşitlilik açısından da önemli kılıyor.
+ Bu geniş yeşil alan, ziyaretçilerine doğayla baş başa kalmak için eşsiz bir fırsat sunuyor. Akbenek Tepesi, coğrafi konumu itibariyle bölgenin önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, bu bölgeyi biyolojik çeşitlilik açısından da önemli kılıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Akbenek Tepesi'nin tarihi geçmişi, Gaziantep'in tarihine paralel olarak şekil
 
 ## Coğrafya
 
-Akbenek Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli bir noktasında yer alıyor. Tepenin yüksekliği, bölgenin coğrafi yapısını anlamak için önemli bir veri sunuyor. 140 hektarlık yeşil alan, Akbenek Tepesi'nin etrafını çevreliyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, bu bölgeyi biyolojik çeşitlilik açısından da önemli kılıyor. Akbenek Tepesi, iklim olarak bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bu iklim koşulları, tepenin flora ve faunasını etkileyerek, mevsimsel değişimlere neden oluyor. Tepenin coğrafi konumu, aynı zamanda bölgenin jeolojisini de etkiliyor. Tepenin etrafındaki toprak yapısı, bölgenin jeolojik geçmişini yansıtıyor.
+Akbenek Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli bir noktasında yer alıyor. Tepenin yüksekliği, bölgenin coğrafi yapısını anlamak için önemli bir veri sunuyor. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, bu bölgeyi biyolojik çeşitlilik açısından da önemli kılıyor. Akbenek Tepesi, iklim olarak bölgenin genel iklimine uygun olarak, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçiyor. Bu iklim koşulları, tepenin flora ve faunasını etkileyerek, mevsimsel değişimlere neden oluyor. Tepenin coğrafi konumu, aynı zamanda bölgenin jeolojisini de etkiliyor. Tepenin etrafındaki toprak yapısı, bölgenin jeolojik geçmişini yansıtıyor.
 
 ## Flora ve Fauna
 

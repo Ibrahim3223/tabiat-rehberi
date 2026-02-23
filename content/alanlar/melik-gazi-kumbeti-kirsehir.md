@@ -29,7 +29,7 @@ wikidata_id: "Q135582398"
 
 # Melik Gazi Kümbeti, Kırşehir
 
-Kırşehir'in merkezinde bulunan Melik Gazi Kümbeti, şehrin en önemli tarihi ve kültürel değerlerinden biri olarak kabul edilir. Bu tarihi eser, yaklaşık 140 hektarlık bir alanda yer alır ve yaklaşık 200 futbol sahası büyüklüğündedir. Melik Gazi Kümbeti, şehrin geçmişini ve kültürel zenginliklerini yansıtan önemli bir yapıttır. Bu kümbet, şehre gelen ziyaretçilerin ilgisini çekmekte ve onları tarihi bir yolculuğa çıkarmaktadır. Melik Gazi Kümbeti, Kırşehir'in tarihini ve kültürünü öğrenmek isteyenler için önemli bir merkez olarak kabul edilir.
+Kırşehir'in merkezinde bulunan Melik Gazi Kümbeti, şehrin en önemli tarihi ve kültürel değerlerinden biri olarak kabul edilir. Melik Gazi Kümbeti, şehrin geçmişini ve kültürel zenginliklerini yansıtan önemli bir yapıttır. Bu kümbet, şehre gelen ziyaretçilerin ilgisini çekmekte ve onları tarihi bir yolculuğa çıkarmaktadır. Melik Gazi Kümbeti, Kırşehir'in tarihini ve kültürünü öğrenmek isteyenler için önemli bir merkez olarak kabul edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Melik Gazi Kümbeti'nin tarihi geçmişi, şehrin kuruluşuna kadar uzanır. Bu 
 
 ## Coğrafya
 
-Melik Gazi Kümbeti, Kırşehir'in merkezinde yer alır ve şehrin coğrafi yapısını şekillendiren önemli bir unsur olarak kabul edilir. Bu tarihi eser, yaklaşık 140 hektarlık bir alanda yer alır ve yaklaşık 200 futbol sahası büyüklüğündedir. Melik Gazi Kümbeti, şehrin çevresindeki dağlar ve ovalarla birlikte önemli bir coğrafi yapı oluşturur. Bu kümbet, şehre gelen ziyaretçilerin gezebileceği önemli bir nokta olarak kabul edilir. Melik Gazi Kümbeti, Kırşehir'in iklimini ve coğrafi yapısını şekillendiren önemli bir faktör olarak kabul edilir. Bu tarihi eser, şehrin gelişimine katkıda bulunmuştur ve günümüzde önemli bir turizm merkezi olarak kabul edilir. Melik Gazi Kümbeti, şehrin doğal güzelliklerini ve tarihi zenginliklerini bir araya getiren önemli bir merkez olarak kabul edilir.
+Melik Gazi Kümbeti, Kırşehir'in merkezinde yer alır ve şehrin coğrafi yapısını şekillendiren önemli bir unsur olarak kabul edilir. Melik Gazi Kümbeti, şehrin çevresindeki dağlar ve ovalarla birlikte önemli bir coğrafi yapı oluşturur. Bu kümbet, şehre gelen ziyaretçilerin gezebileceği önemli bir nokta olarak kabul edilir. Melik Gazi Kümbeti, Kırşehir'in iklimini ve coğrafi yapısını şekillendiren önemli bir faktör olarak kabul edilir. Bu tarihi eser, şehrin gelişimine katkıda bulunmuştur ve günümüzde önemli bir turizm merkezi olarak kabul edilir. Melik Gazi Kümbeti, şehrin doğal güzelliklerini ve tarihi zenginliklerini bir araya getiren önemli bir merkez olarak kabul edilir.
 
 ## Flora ve Fauna
 

@@ -33,7 +33,7 @@ Nevşehir'in büyüleyici coğrafyasında yer alan İdiş Dağı, Türkiye'nin i
 
 ## Tarihçe
 
-Nevşehir bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Hitit, Roma ve Bizans uygarlıkları gibi birçok medeniyet bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuştur. İdiş Dağı da bu tarihsel zenginliğin bir parçası olarak, yüzyıllar boyunca insanların yaşamlarına çeşitli şekillerde dahil olmuştur.
+Nevşehir bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Hitit, Roma ve Bizans uygarlıkları gibi birçok medeniyet bu topraklarda yaşamış ve bölgenin kültürel zenginliğine katkıda bulunmuştur. İdiş Dağı da bu tarihsel zenginliğin bir parçası olarak, yüzyıllar boyunca insanların yaşamlarına çeşitli şekillerde dahil olmuştur.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel önemini koruma altına almada önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, insanların bu alanlarla etkileşimini sağlamış ve bölgenin ekonomi ve sosyal yapısını şekillendirmiştir. İnsanlar, İdiş Dağı gibi doğal güzelliklerin arasında yaşamış, bu alanları tarım, avcılık ve diğer faaliyetler için kullanmışlardır.
 
@@ -67,5 +67,5 @@ Yaban hayatı da bir o kadar zengin olan İdiş Dağı, çeşitli memeli ve kuş
 - Volkanik kökenli bir dağdır ve çevresinde peribacaları bulunur.
 - Dağın yüksekliği yaklaşık 1.700 metredir.
 - İdiş Dağı, Kapadokya bölgesinin önemli coğrafi özelliklerinden biridir.
-- Dağın eteklerinde históriki yerler ve manastırlar bulunur.
+- Dağın eteklerinde tarihi yerler ve manastırlar bulunur.
 - İdiş Dağı, Kapadokya'nın turistik cazibe merkezlerinden biridir.

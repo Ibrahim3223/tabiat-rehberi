@@ -65,4 +65,4 @@ Hamaylı Dağı, Antalya'nın doğal güzelliklerini keşfetmek isteyenler için
 - Hamaylı Dağı, Toros Dağları'nın bir parçasıdır.
 - Bölge, flora ve fauna çeşitliliği ile bilinir.
 - Dağın etekleri, zeytinli ve meyve bahçeleri ile kaplıdır.
-- Hamaylı Dağı'nın etrafındaki köyler, históri ve kültürel öneme sahiptir.
+- Hamaylı Dağı'nın etrafındaki köyler, tarihi ve kültürel öneme sahiptir.

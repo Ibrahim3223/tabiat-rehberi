@@ -28,7 +28,7 @@ wikidata_id: "Q31385981"
 
 # Binas Tepesi
 
-Eskişehir'in İç Anadolu Bölgesi'nde yer alan Binas Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir tepe olarak bilinir. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunar. Eskişehir'in tarihi ve coğrafi açıdan önemli noktalarından biri olan Binas Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbeder. Eskişehir'in şehir merkezine yakın konumuyla, Binas Tepesi kolaylıkla ulaşılabilen bir noktadır.
+Eskişehir'in İç Anadolu Bölgesi'nde yer alan Binas Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş ve yeşil bir tepe olarak bilinir. Eskişehir'in tarihi ve coğrafi açıdan önemli noktalarından biri olan Binas Tepesi, hem doğal güzellikleri hem de tarihi geçmişi ile ziyaretçilerini cezbeder. Eskişehir'in şehir merkezine yakın konumuyla, Binas Tepesi kolaylıkla ulaşılabilen bir noktadır.
 
 ## Tarihçe
 

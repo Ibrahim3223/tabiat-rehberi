@@ -22,7 +22,7 @@ wikidata_id: "Q108227076"
 
 # Kars-Sarikamis Kagizman
 
-Kars-Sarikamis Kagizman, Doğu Anadolu Bölgesi'nin doğal güzellikleri ve tarihi değerleriyle dikkat çeken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölgenin güzelliği, ziyaretçilere hem doğanın hem de tarihin izlerini keşfetme fırsatı sunuyor. Kars-Sarikamis Kagizman, ziyaretçilerini doğayla iç içe ve tarihin izleriyle dolu bir maceraya davet ediyor.
+Kars-Sarikamis Kagizman, Doğu Anadolu Bölgesi'nin doğal güzellikleri ve tarihi değerleriyle dikkat çeken bir destinasyon. Bu bölgenin güzelliği, ziyaretçilere hem doğanın hem de tarihin izlerini keşfetme fırsatı sunuyor. Kars-Sarikamis Kagizman, ziyaretçilerini doğayla iç içe ve tarihin izleriyle dolu bir maceraya davet ediyor.
 
 ## Tarihçe
 

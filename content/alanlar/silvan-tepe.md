@@ -33,11 +33,11 @@ Diyarbakır'ın tarihi ve doğal güzellikleriyle dolu coğrafyasında yer alan 
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu sayfalarına ışık tutan bir coğrafyadır. İnsanlık tarihinin önemli merkezlerinden biri olan bu bölge, çeşitli uygarlıkların izlerini taşır. Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetler bu topraklarda hüküm sürmüş, her biri bölgenin kültürel ve tarihi dokusuna katkıda bulunmuştur.
+Diyarbakır bölgesi, tarihin derin sayfalarına ışık tutan bir coğrafyadır. İnsanlık tarihinin önemli merkezlerinden biri olan bu bölge, çeşitli uygarlıkların izlerini taşır. Hitit, Asur, Pers, Roma ve Osmanlı gibi medeniyetler bu topraklarda hüküm sürmüş, her biri bölgenin kültürel ve tarihi dokusuna katkıda bulunmuştur.
 
 Silvan Tepe, bu zengin tarihsel mirasın bir parçasıdır. Türkiye'de doğal alanlar, sadece ekolojik önemiyle değil, aynı zamanda tarihsel ve kültürel değerleriyle de önemlidir. Bu alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürdüğü, yaylacılık ve hayvancılık yaptığı, ticaret yollarının kesiştiği noktalardır. Bölgede yaşayan topluluklar, bu doğal güzelliklerin bir parçası olmuş, onları korumuş ve yaşatmıştır.
 
-Silvan Tepe, bu bağlamda Diyarbakır'ın tarihsel ve kültürel mirasının önemli bir bileşenidir. Bu tür doğal alanlar, sadece bölgenin coğrafi çeşitliliğini değil, aynı zamanda insanlarla doğa arasındaki histórik bağı da yansıtır. Bu nedenle, Silvan Tepe gibi doğal güzellikleri koruma ve gelecek nesillere aktarmak, Türkiye'nin kültürel ve tarihsel varlığının önemli bir parçasıdır.
+Silvan Tepe, bu bağlamda Diyarbakır'ın tarihsel ve kültürel mirasının önemli bir bileşenidir. Bu tür doğal alanlar, sadece bölgenin coğrafi çeşitliliğini değil, aynı zamanda insanlarla doğa arasındaki tarihi bağı da yansıtır. Bu nedenle, Silvan Tepe gibi doğal güzellikleri koruma ve gelecek nesillere aktarmak, Türkiye'nin kültürel ve tarihsel varlığının önemli bir parçasıdır.
 
 ## Coğrafya
 

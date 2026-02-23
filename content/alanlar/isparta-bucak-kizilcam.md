@@ -22,7 +22,7 @@ wikidata_id: "Q108227417"
 
 # Isparta-Bucak Kızılçam
 
-Isparta-Bucak Kızılçam milli parkı, Isparta ilinin Akdeniz Bölgesi'nde yer alan doğal bir güzelliktir. 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, kızılçam ağaçlarıyla meşhur olup, ziyaretçilerini doğayla baş başa bırakır. Isparta-Bucak Kızılçam, doğa severlerin ve gezi tutkunlarının keşfetmek için ideal bir yerdir. Milli parkın büyüklüğü, ziyaretçilerin uzun süreli gezilere çıkabilmesine olanak tanır.
+Isparta-Bucak Kızılçam milli parkı, Isparta ilinin Akdeniz Bölgesi'nde yer alan doğal bir güzelliktir. Bu bölge, kızılçam ağaçlarıyla meşhur olup, ziyaretçilerini doğayla baş başa bırakır. Isparta-Bucak Kızılçam, doğa severlerin ve gezi tutkunlarının keşfetmek için ideal bir yerdir. Milli parkın büyüklüğü, ziyaretçilerin uzun süreli gezilere çıkabilmesine olanak tanır.
 
 ## Tarihçe
 

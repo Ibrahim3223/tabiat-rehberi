@@ -33,7 +33,7 @@ Mardin'in tarihi dokusu içerisinde yer alan Bagok Dağı, Türkiye'nin güneydo
 
 ## Tarihçe
 
-Mardin'in eşsiz coğrafyasında yer alan Bagok Dağı, tarihin sâu izlerini taşıyan bir bölge. Mardin, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış; Sümerler, Asurlular, Persler ve Osmanlılar gibi medeniyetler bu topraklarda iz bırakmışlardır. Bu bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir stratejik öneme sahip.
+Mardin'in eşsiz coğrafyasında yer alan Bagok Dağı, tarihin derin izlerini taşıyan bir bölge. Mardin, tarih boyunca çeşitli uygarlıkların yaşamına ev sahipliği yapmış; Sümerler, Asurlular, Persler ve Osmanlılar gibi medeniyetler bu topraklarda iz bırakmışlardır. Bu bölgenin coğrafi konumu, ticaret yollarının kesişme noktasında bulunması nedeniyle önemli bir stratejik öneme sahip.
 
 Doğal güzellikleri ile dikkat çeken Bagok Dağı, yüzyıllardır yerel halkın yaşamına dahil olmuş. Yaylacılık ve hayvancılık faaliyetleri, bu bölgede yaşayan insanların geçim kaynakları arasında yer almış. Ayrıca, tarihi İpek Yolu'nun bir bölümü de bu bölgeyi kapsıyor, bu da bölgenin ticari öneminin altını çiziyor.
 
@@ -53,9 +53,9 @@ Mevsimsel değişikliklere göre şekillenen iklimi, Bagok Dağı'nın karakteri
 
 Bagok Dağı, Mardin'in yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Dağın yükseklik zonlarına bağlı olarak değişen flora, ilkbaharda renkli çiçeklerle donanırken, sonbaharda göç eden kuş sürüleri ile canlılık kazanıyor.
 
-Bitki örtüsü olarak step ve ova ekolojisinin karakteristik türleri hakimdir. Dağın yamaçlarında ve tepelerinde, yükseklik zonlarına özgü alpin flora türleri bulunur. Bu bitkiler, kuraklığa dayanıklı yaprakları ve kök sistemleri ile zorlu koşullarda hayatta kalır. 
+Bitki örtüsü olarak step ve ova ekolojisinin karakteristik türleri hakimdir. Dağın yamaçlarında ve tepelerinde, yükseklik zonlarına özgü alpin flora türleri bulunur. Bu bitkiler, kuraklığa dayanıklı yaprakları ve kök sistemleri ile zorlu koşullarda hayatta kalır.
 
-Yaban hayatı açısından da zengin olan Bagok Dağı, çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapar. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşam alanlarını bulurken, daha alçak kesimlerde tavşan ve tilki gibi memeliler görülür. Kuşlar ise, göç mevsimlerinde dağların üzerinde sürüler halinde uçarken, bazı türler burada yuvalanır. 
+Yaban hayatı açısından da zengin olan Bagok Dağı, çeşitli memeli, kuş ve sürüngen türlerine ev sahipliği yapar. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşam alanlarını bulurken, daha alçak kesimlerde tavşan ve tilki gibi memeliler görülür. Kuşlar ise, göç mevsimlerinde dağların üzerinde sürüler halinde uçarken, bazı türler burada yuvalanır.
 
 Bu dağ ekosisteminin ekolojik değeri, bölgenin su döngüsünü ve toprağın verimliliğini korumasından gelir. Ayrıca, çeşitli bitkilerin ve hayvanların yaşam alanlarını sağlar. Bu nedenle, Bagok Dağı'nın korunması ve sürdürülebilir kullanımının sağlanması önemlidir.
 

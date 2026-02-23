@@ -28,7 +28,7 @@ wikidata_id: "Q31389460"
 
 # Hayran Tepe
 
-Hayran Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil etmektedir. Hayran Tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yerdir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün olmaktadır. Hayran Tepe, doğa severler için bir cennet olarak görülmektedir.
+Hayran Tepe, Kahramanmaraş ilinin Akdeniz Bölgesi'nde yer alan bir tepe olarak dikkat çekmektedir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Hayran Tepe, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yerdir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün olmaktadır. Hayran Tepe, doğa severler için bir cennet olarak görülmektedir.
 
 ## Tarihçe
 

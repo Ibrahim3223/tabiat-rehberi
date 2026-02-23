@@ -23,7 +23,7 @@ wikidata_id: "Q108227810"
 
 # Gokce Baraji
 
-Gokce Baraji, İç Anadolu Bölgesi'nin kalbinde yer alan, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu bölge, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Gokce Baraji, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir destinasyondur. Bölgenin eşsiz güzelliği, ziyaretçilerini huzurlu ve sakin bir atmosfere davet ediyor.
+ Bu bölge, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Gokce Baraji, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir destinasyondur. Bölgenin eşsiz güzelliği, ziyaretçilerini huzurlu ve sakin bir atmosfere davet ediyor.
 
 ## Tarihçe
 

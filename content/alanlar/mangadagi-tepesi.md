@@ -28,7 +28,7 @@ wikidata_id: "Q31579215"
 
 # Mangadağı Tepesi
 
-Mangadağı Tepesi, Erzurum'un doğusunda yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alana sahiptir. Bu tepe, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Mangadağı Tepesi, ziyaretçilerini kendine özgü doğal güzelliği ile çekmektedir. Doğal güzelliği, coğrafi konumu ve tarihi geçmişiyle Mangadağı Tepesi, ziyaretçilerini bekleyen bir doğa harikasıdır.
+ Bu tepe, Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Mangadağı Tepesi, ziyaretçilerini kendine özgü doğal güzelliği ile çekmektedir. Doğal güzelliği, coğrafi konumu ve tarihi geçmişiyle Mangadağı Tepesi, ziyaretçilerini bekleyen bir doğa harikasıdır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Mangadağı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Mangadağı Tepesi, Erzurum'un doğusunda yer alan bir tepe olarak Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alana sahiptir. Mangadağı Tepesi'nin coğrafi konumu, doğal güzelliği ve tarihi geçmişiyle dikkat çekmektedir. Bu tepe, ziyaretçilerine doğa ve tarihle iç içe bir deneyim sunmaktadır. Mangadağı Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Bu tepe, bölgenin coğrafi özellikleriyle şekillenmiştir ve doğal güzelliği ile dikkat çekmektedir.
+Mangadağı Tepesi, Erzurum'un doğusunda yer alan bir tepe olarak Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir. Mangadağı Tepesi'nin coğrafi konumu, doğal güzelliği ve tarihi geçmişiyle dikkat çekmektedir. Bu tepe, ziyaretçilerine doğa ve tarihle iç içe bir deneyim sunmaktadır. Mangadağı Tepesi'nin iklimi, Doğu Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Bu tepe, bölgenin coğrafi özellikleriyle şekillenmiştir ve doğal güzelliği ile dikkat çekmektedir.
 
 ## Flora ve Fauna
 

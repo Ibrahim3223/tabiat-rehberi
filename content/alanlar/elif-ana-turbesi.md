@@ -1,7 +1,7 @@
 ---
 title: "Elif Ana Türbesi"
 date: "2026-01-10T05:55:35.084Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kahramanmaraş"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390502"
 
 # Elif Ana Türbesi
 
-Elif Ana Türbesi, Kahramanmaraş'ın Pazarcık ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir mekan. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Elif Ana Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Bu mekan, Kahramanmaraş'ın önemli tarihi noktalarından biri olarak bilinir ve ziyaretçilerine zengin bir tarih ve kültür sunar. Elif Ana Türbesi, aynı zamanda doğal güzellikleri ile de dikkat çeker. Çevresindeki yeşilli ve flora, ziyaretçilere huzurlu bir ortam sunar.
+Elif Ana Türbesi, Kahramanmaraş'ın Pazarcık ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren özel bir mekan. Elif Ana Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Bu mekan, Kahramanmaraş'ın önemli tarihi noktalarından biri olarak bilinir ve ziyaretçilerine zengin bir tarih ve kültür sunar. Elif Ana Türbesi, aynı zamanda doğal güzellikleri ile de dikkat çeker. Çevresindeki yeşilli ve flora, ziyaretçilere huzurlu bir ortam sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Elif Ana Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu mekan
 
 ## Coğrafya
 
-Elif Ana Türbesi, Kahramanmaraş'ın Pazarcık ilçesinde yer alır. Bu mekan, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Elif Ana Türbesi, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Mekan, yeşilli ve flora ile çevrilidir. Elif Ana Türbesi, aynı zamanda coğrafi konumu ile de dikkat çeker. Bu mekan, Kahramanmaraş'ın önemli coğrafi noktalarından biri olarak bilinir ve ziyaretçilerine zengin bir coğrafya sunar. Elif Ana Türbesi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımıştır. Bu mekan, coğrafi konumu ile dikkat çekerken, aynı zamanda tarihi ve kültürel önemini de korur.
+Elif Ana Türbesi, Kahramanmaraş'ın Pazarcık ilçesinde yer alır. Bu mekan, Akdeniz Bölgesi'nin coğrafi özelliklerini taşır. Mekan, yeşilli ve flora ile çevrilidir. Elif Ana Türbesi, aynı zamanda coğrafi konumu ile de dikkat çeker. Bu mekan, Kahramanmaraş'ın önemli coğrafi noktalarından biri olarak bilinir ve ziyaretçilerine zengin bir coğrafya sunar. Elif Ana Türbesi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımıştır. Bu mekan, coğrafi konumu ile dikkat çekerken, aynı zamanda tarihi ve kültürel önemini de korur.
 
 ## Flora ve Fauna
 

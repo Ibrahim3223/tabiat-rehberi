@@ -51,9 +51,9 @@ Koca Dağ, çevresindeki diğer doğal güzelliklerle birlikte bir ekosistem olu
 
 ## Flora ve Fauna
 
-Koca Dağ, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesi ile birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Çam ormanları, zeytinliklerle birlikte dağın eteklerini süslüyor. 
+Koca Dağ, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesi ile birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Çam ormanları, zeytinliklerle birlikte dağın eteklerini süslüyor.
 
-Dağın yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artıyor. Bu yüksekliklerde, dağ keçileri ve yaban keçileri gibi dağ hayvanları yaşamını sürdürüyor. Sonbaharın gelmesi ile birlikte, göçmen kuşlar dağ üzerinden geçerek kışlaklarına ulaşıyor. 
+Dağın yükseklik zonlarına çıkıldıkça, alpin flora çeşitliliği artıyor. Bu yüksekliklerde, dağ keçileri ve yaban keçileri gibi dağ hayvanları yaşamını sürdürüyor. Sonbaharın gelmesi ile birlikte, göçmen kuşlar dağ üzerinden geçerek kışlaklarına ulaşıyor.
 
 Koca Dağ, ekolojik değerini koruma altına almak için önemli bir bölgedir. Dağın yükseklik zonları, farklı türlerin yaşamına ev sahipliği yapıyor. Bu reasonsüyle, Koca Dağ'ın korunması ve doğal dengesinin korunması büyük önem taşıyor.
 

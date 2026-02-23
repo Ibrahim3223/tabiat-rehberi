@@ -33,7 +33,7 @@ Van'ın dağlık arazisinde yer alan Aktepe, ilin doğal güzelliklerini gözler
 
 ## Tarihçe
 
-Van bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu topraklar, Urartular, Medler, Persler ve Osmanlılar gibi birçok uygarlığa ev sahipliği yapmıştır. Aktepe Dağı, bu zengin tarihsel mirasın bir parçasıdır. Türkiye'de doğal alanlar, tarihin her döneminde insanların yaşamını şekillendiren önemli unsurlardan biri olmuştur. Bu dağlar, yaylacılık ve hayvancılık faaliyetleri için elverişli ortamlar sunmuştur. Ayrıca, tarihi ticaret yollarının üzerinde bulunan Van bölgesi, farklı kültürlerin buluşma noktası olarak bir rol oynamıştır.
+Van bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu topraklar, Urartular, Medler, Persler ve Osmanlılar gibi birçok uygarlığa ev sahipliği yapmıştır. Aktepe Dağı, bu zengin tarihsel mirasın bir parçasıdır. Türkiye'de doğal alanlar, tarihin her döneminde insanların yaşamını şekillendiren önemli unsurlardan biri olmuştur. Bu dağlar, yaylacılık ve hayvancılık faaliyetleri için elverişli ortamlar sunmuştur. Ayrıca, tarihi ticaret yollarının üzerinde bulunan Van bölgesi, farklı kültürlerin buluşma noktası olarak bir rol oynamıştır.
 
 Aktepe Dağı, bu bölgenin doğal güzellikleri arasında yer alır. İnsanların bu dağla olan ilişkisi, yüzyıllar boyunca devam eden bir süreçtir. Yayla ve otlaklar, bölgenin ekonomisi ve kültürü için önemli birer unsurdur. Aktepe Dağı, Van'ın coğrafi yapısını şekillendiren bir unsurdur ve bölgenin tarihi ve kültürel zenginliğine katkıda bulunmaktadır. Bu doğal alan, Türkiye'nin doğa mirasının önemli bir parçası olarak görülmelidir.
 
@@ -49,9 +49,9 @@ Bölgenin ekosistem bağlantıları açısından, Aktepe Van Gölü'ne olan yak�
 
 ## Flora ve Fauna
 
-Aktepe dağının yükseklik zonlarında, alpin çayırların hakim olduğu bir flora çeşitliliği bulunur. İlkbaharın gelmesiyle birlikte, çayırlar renkli bir hal alır ve çeşitli çiçekler açar. Bu mevsimsel değişim, dağ ekosisteminin canlılığını gösterir. 
+Aktepe dağının yükseklik zonlarında, alpin çayırların hakim olduğu bir flora çeşitliliği bulunur. İlkbaharın gelmesiyle birlikte, çayırlar renkli bir hal alır ve çeşitli çiçekler açar. Bu mevsimsel değişim, dağ ekosisteminin canlılığını gösterir.
 
-Dağın yaban hayatı, memeliler ve kuşlar olmak üzere çeşitli türleri barındırır. Alpin çayırlarda yaşayan memeliler, burada bulunan bitkilerle beslenirken, kuşlar göç yolları üzerinde bu dağları kullanır. Sürüngenler de dağlık alanlarda yaşamlarını sürdürür. 
+Dağın yaban hayatı, memeliler ve kuşlar olmak üzere çeşitli türleri barındırır. Alpin çayırlarda yaşayan memeliler, burada bulunan bitkilerle beslenirken, kuşlar göç yolları üzerinde bu dağları kullanır. Sürüngenler de dağlık alanlarda yaşamlarını sürdürür.
 
 Aktepe'nin ekolojik değeri, yüksek dağ ekolojisi ve endemik türlerin varlığından kaynaklanır. Bu alanın korunması, yalnızca yerel ekosistemi değil, aynı zamanda bölgesel biyolojik çeşitliliği de destekler. 1200 hektarlık bu dağlık alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. Bu nedenle, Aktepe'nin korunması ve sürdürülebilir kullanımı önemlidir.
 

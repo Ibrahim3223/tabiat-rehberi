@@ -28,11 +28,11 @@ wikidata_id: "Q31589367"
 
 # Harzadin Dağı
 
-Konya'nın geniş step bölgesinde, históriktan günümüze birçok medeniyete ev sahipliği yapan bir coğrafyada yer alan Harzadin Dağı, ilin doğal güzellikleri arasında önemli bir yere sahiptir. Konya'nın merkezi ve ilçeleri arasında stratejik bir konumda bulunan bu dağ, şehrin doğal çekiciliğini artırır. Konya'nın tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleri de ziyaretçiler için önemli bir çekim noktasıdır. Harzadin Dağı, Konya'nın turizm potansiyelini çeşitlendiren önemli bir doğal alandır.
+Konya'nın geniş step bölgesinde, tarihi günümüze birçok medeniyete ev sahipliği yapan bir coğrafyada yer alan Harzadin Dağı, ilin doğal güzellikleri arasında önemli bir yere sahiptir. Konya'nın merkezi ve ilçeleri arasında stratejik bir konumda bulunan bu dağ, şehrin doğal çekiciliğini artırır. Konya'nın tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikleri de ziyaretçiler için önemli bir çekim noktasıdır. Harzadin Dağı, Konya'nın turizm potansiyelini çeşitlendiren önemli bir doğal alandır.
 
 ## Tarihçe
 
-Konya bölgesi, tarihin sâu sayfalarından bugüne uzanan zengin bir kültürel mirasa ev sahipliği yapıyor. Bu topraklarda, Hititlerden Roma İmparatorluğu'na, Selçuklulardan Osmanlı'ya kadar birçok uygarlık yaşamış, her biri bölgenin tarihine kendi izini bırakmış. Harzadin Dağı da bu geniş coğrafyanın bir parçası, Konya'nın doğal güzelliklerinin önemli bir bileşeni.
+Konya bölgesi, tarihin derin sayfalarından bugüne uzanan zengin bir kültürel mirasa ev sahipliği yapıyor. Bu topraklarda, Hititlerden Roma İmparatorluğu'na, Selçuklulardan Osmanlı'ya kadar birçok uygarlık yaşamış, her biri bölgenin tarihine kendi izini bırakmış. Harzadin Dağı da bu geniş coğrafyanın bir parçası, Konya'nın doğal güzelliklerinin önemli bir bileşeni.
 
 Türkiye'de doğal alanlar, tarihsel olarak önemli yerleşim, ticaret ve hayvancılık merkezleri olarak görev görmüşlerdir. Bu bölgeler, insan yerleşimlerinin ve göçlerin önemli uğrak noktaları olmuş, aynı zamanda çeşitli uygarlıkların kültürel ve ekonomik faaliyetlerine sahne olmuştur. Harzadin Dağı ve çevresindeki doğal güzellikler, yüzyıllar boyunca insanlar için yaşam alanı, yaylacılık ve hayvancılık faaliyetleri için elverişli bir ortam sunmuş, ayrıca ticaret yolları üzerinde stratejik konumda bulunmuşlardır.
 

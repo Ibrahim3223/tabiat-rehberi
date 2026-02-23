@@ -28,7 +28,7 @@ wikidata_id: "Q31388718"
 
 # Karabağ Tepesi
 
-Karabağ Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve doğal güzellikleri ile tarihi geçmişiyle dikkat çeken bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerini etkileyen bir manzaraya sahip. Karabağ Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak bilinir ve bu nedenle tarihi açıdan önemli bir yere sahiptir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve fauna bulunur, bu da bölgenin ekolojik açıdan zengin olduğunu gösterir.
+Karabağ Tepesi, Muğla'nın Ege Bölgesi'nde yer alan ve doğal güzellikleri ile tarihi geçmişiyle dikkat çeken bir tepe. Karabağ Tepesi, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir bölge olarak bilinir ve bu nedenle tarihi açıdan önemli bir yere sahiptir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve fauna bulunur, bu da bölgenin ekolojik açıdan zengin olduğunu gösterir.
 
 ## Tarihçe
 

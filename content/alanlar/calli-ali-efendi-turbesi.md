@@ -1,7 +1,7 @@
 ---
 title: "Çallı Ali Efendi Türbesi"
 date: "2026-01-10T05:14:43.581Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391601"
 
 # Çallı Ali Efendi Türbesi
 
-140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olan Çallı Ali Efendi Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alıyor. Bu bölge, tarihin ve doğanın iç içe geçtiği bir alanda bulunuyor. Tarihi öneme sahip olan türbe, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
+ Bu bölge, tarihin ve doğanın iç içe geçtiği bir alanda bulunuyor. Tarihi öneme sahip olan türbe, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

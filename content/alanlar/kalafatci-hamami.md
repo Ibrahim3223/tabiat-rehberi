@@ -1,7 +1,7 @@
 ---
 title: "Kalafatçı Hamamı"
 date: "2026-01-09T23:44:43.818Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739146"
 
 # Kalafatçı Hamamı
 
-Kalafatçı Hamamı, Beyoğlu'nun kalbinde yer alan tarihi bir hamam ve 140 hektarlık yeşil alanı ile dikkat çekiyor. Bu alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan bulunuyor. Bu yeşil alan, hem yerel halk hem de ziyaretçiler için keyifli bir gezi alanı sunuyor. Kalafatçı Hamamı, aynı zamanda zengin fauna çeşitliliği ile de dikkat çekiyor. Bu bölgede, çeşitli bitkiler ve hayvanlar encontrar mogelijk.
+Kalafatçı Hamamı, Beyoğlu'nun kalbinde yer alan tarihi bir hamam ve 140 hektarlık yeşil alanı ile dikkat çekiyor. Bu yeşil alan, hem yerel halk hem de ziyaretçiler için keyifli bir gezi alanı sunuyor. Kalafatçı Hamamı, aynı zamanda zengin fauna çeşitliliği ile de dikkat çekiyor. Bu bölgede, çeşitli bitkiler ve hayvanlar encontrar mogelijk.
 
 ## Tarihçe
 

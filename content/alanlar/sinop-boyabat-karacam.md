@@ -22,7 +22,7 @@ wikidata_id: "Q108227686"
 
 # Sinop-Boyabat Karacam
 
-Sinop-Boyabat Karacam, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en büyük milli parklarından biri. Karacam Milli Parkı, Sinop ilinin Boyabat ilçesinde bulunuyor ve bölgenin turizm potansiyelini artıran önemli bir merkez. Parkın geniş arazisi, ziyaretçilere doğayı keşfetme ve dinlenme imkanı sunuyor. Ayrıca, parkın içinde yer alan çeşitli flora ve fauna türleri, bu doğal alanın önemini daha da artırıyor.
+Sinop-Boyabat Karacam, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. Karacam Milli Parkı, Sinop ilinin Boyabat ilçesinde bulunuyor ve bölgenin turizm potansiyelini artıran önemli bir merkez. Parkın geniş arazisi, ziyaretçilere doğayı keşfetme ve dinlenme imkanı sunuyor. Ayrıca, parkın içinde yer alan çeşitli flora ve fauna türleri, bu doğal alanın önemini daha da artırıyor.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Sinop-Boyabat Karacam Milli Parkı, ziyaretçilere doğayı keşfetme ve dinlenm
 
 ## İlginç Bilgiler
 
-- Parkın geniş arazisi, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkın flora türleri, mevsimsel değişimlere göre farklılık gösteriyor.
 - Parkın fauna türleri, parkın geniş arazisini paylaşan çeşitli hayvanlarla dolu.
 - Parkın ekolojik dengesi, bölgenin doğal mirasını koruma altına almak amacıyla kurulmuş.

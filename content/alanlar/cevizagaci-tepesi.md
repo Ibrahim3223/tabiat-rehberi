@@ -28,7 +28,7 @@ wikidata_id: "Q31539441"
 
 # Cevizağacı Tepesi
 
-Cevizağacı Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgeye gelenlerin ziyaret ettiği önemli bir nokta. Cevizağacı Tepesi'ne tırmanırken, karşılaştığınız manzaralar size doğanın güzelliğini gösterir. Tepenin etrafındaki köyler, ziyaretçilere geleneksel yaşamın içinden bir bakış açısı sunar. Cevizağacı Tepesi, ziyaretçilere hem doğanın güzelliğini hem de bölgenin kültürel zenginliğini sunan bir destinasyon.
+Cevizağacı Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Bu tepe, bölgeye gelenlerin ziyaret ettiği önemli bir nokta. Cevizağacı Tepesi'ne tırmanırken, karşılaştığınız manzaralar size doğanın güzelliğini gösterir. Tepenin etrafındaki köyler, ziyaretçilere geleneksel yaşamın içinden bir bakış açısı sunar. Cevizağacı Tepesi, ziyaretçilere hem doğanın güzelliğini hem de bölgenin kültürel zenginliğini sunan bir destinasyon.
 
 ## Tarihçe
 

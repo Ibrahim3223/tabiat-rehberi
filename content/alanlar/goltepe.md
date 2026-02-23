@@ -51,7 +51,7 @@ Mevsimsel açıdan ele alındığında, Göltepe Dağı'nın iklim karakteri, Ak
 
 ## Flora ve Fauna
 
-Göltepe, Antalya'nın dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Göltepe, Antalya'nın dağlık bölgesinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü: Göltepe'nin hakim bitki örtüsü, kuraklığa dayanıklı maki türlerinden oluşur. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Kış aylarında ise, çam ve sedir ağaçları bölgenin yeşili korur.
 

@@ -32,7 +32,7 @@ Diyarbakır'ın büyüleyici coğrafyasında, Pilegor Dağı ziyaretçilerini b�
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Binlerce yıllık geçmişinde, birçok uygarlık bu topraklarda yaşamış ve iz bırakmıştır. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu bölgeyi stratejik konumu nedeniyle önemli bir merkez olarak değerlendirmişlerdir. Pilegor Dağı, bu tarihsel zenginliğin bir parçasını oluşturan doğal güzelliklerden biridir.
+Diyarbakır bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Binlerce yıllık geçmişinde, birçok uygarlık bu topraklarda yaşamış ve iz bırakmıştır. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, bu bölgeyi stratejik konumu nedeniyle önemli bir merkez olarak değerlendirmişlerdir. Pilegor Dağı, bu tarihsel zenginliğin bir parçasını oluşturan doğal güzelliklerden biridir.
 
 Türkiye'de, özellikle güneydoğu bölgesinde yer alan dağlar ve doğal alanlar, tarihsel olarak önemli ticaret yolları ve yerleşim merkezleri olarak kullanılmıştır. Bu bölgeler, aynı zamanda yaylacılık ve hayvancılık için elverişli koşullara sahiptir. İnsanların bu doğal alanlarla ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutları da içerir. Bu bölgeler, farklı kültürlerin bir araya geldiği, alışverişte bulunduğu ve společ bir şekilde yaşadığı yerler olarak tarihte önemli bir rol oynamışlardır. Pilegor Dağı, bu tarihsel bağlam içinde, bölgede yaşayan insanların hayatlarında önemli bir yer tutmaktadır.
 

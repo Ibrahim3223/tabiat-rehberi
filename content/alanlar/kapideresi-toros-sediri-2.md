@@ -22,7 +22,7 @@ wikidata_id: "Q108227353"
 
 # Kapideresi Toros Sediri 2
 
-Kapideresi Toros Sediri 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandan oluşuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna encontrabilir. ziyaretçiler, bu eşsiz doğal ortamı keşfetmek için gelenler, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi aktivitelerin keyfini çıkarabilirler. Kapideresi Toros Sediri 2, doğa severler ve macera arayışında olanlar için ideal bir destinasyon.
+Kapideresi Toros Sediri 2 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alandan oluşuyor. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna encontrabilir. ziyaretçiler, bu eşsiz doğal ortamı keşfetmek için gelenler, doğa yürüyüşleri, pikni ve fotoğrafçılık gibi aktivitelerin keyfini çıkarabilirler. Kapideresi Toros Sediri 2, doğa severler ve macera arayışında olanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

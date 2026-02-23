@@ -22,7 +22,7 @@ wikidata_id: "Q108227907"
 
 # Kahramanmaras-Kilis Kızılçam
 
-Kahramanmaras-Kilis Kızılçam milli parkı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir. Bu yeşil alan, yaklaşık 140 hektar büyüklüğünde ve yaklaşık 200 futbol sahası kadar geniş bir alanı kaplar. Parkın konumu, ziyaretçilere hem doğayı keşfetme hem de bölgenin tarihi geçmişini anlamaya olanak tanır. Milli parkın etrafında yer alan çeşitli bitki türleri ve zengin fauna, bu bölgeyi özel kılar. parkın içerisinde yer alan yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için ideal bir ortam sunar.
+Kahramanmaras-Kilis Kızılçam milli parkı, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir. Parkın konumu, ziyaretçilere hem doğayı keşfetme hem de bölgenin tarihi geçmişini anlamaya olanak tanır. Milli parkın etrafında yer alan çeşitli bitki türleri ve zengin fauna, bu bölgeyi özel kılar. parkın içerisinde yer alan yürüyüş yolları ve piknik alanları, ziyaretçilere keyifli bir gün geçirmeleri için ideal bir ortam sunar.
 
 ## Tarihçe
 

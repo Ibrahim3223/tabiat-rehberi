@@ -28,7 +28,7 @@ wikidata_id: "Q31387173"
 
 # Esinpınar Tepe
 
-Esinpınar Tepe, Tokat'ın güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık alanı ile oldukça geniş bir bölgeyi kapsıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Esinpınar Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayacak bir destinasyon. Burada, hem tarihin izlerini takip edebilir hem de doğanın güzelliğine tanıklık edebilirsiniz. Tokat'ın merkezine yakın konumuyla, Esinpınar Tepe, hem yerli hem de yabancı turistlerin ilgisini çekmeye devam ediyor.
+Esinpınar Tepe, Tokat'ın güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık alanı ile oldukça geniş bir bölgeyi kapsıyor. Esinpınar Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayacak bir destinasyon. Burada, hem tarihin izlerini takip edebilir hem de doğanın güzelliğine tanıklık edebilirsiniz. Tokat'ın merkezine yakın konumuyla, Esinpınar Tepe, hem yerli hem de yabancı turistlerin ilgisini çekmeye devam ediyor.
 
 ## Tarihçe
 

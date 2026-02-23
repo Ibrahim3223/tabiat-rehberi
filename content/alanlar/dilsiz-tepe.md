@@ -50,11 +50,11 @@ Doğal güzelliği ile dikkat çeken Dilsiz Tepe, coğrafi olarak bir tepe olara
 
 ## Flora ve Fauna
 
-Dilsiz Tepe, Mersin'in görkemli dağ ekosistemini barındıran bir bölge. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Dilsiz Tepe, Mersin'in görkemli dağ ekosistemini barındıran bir bölge. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, maki bitki örtüsünün hâkim olduğu bu dağlık alanda, kuraklığa dayanıklı türler ön plana çıkıyor. İlkbaharla birlikte, alanda birçok çiçek açıyor ve rengârenk bir manzara oluşuyor. Sonbaharda ise, göç eden kuşlar bu bölgeyi ziyaret ediyor.
 
-Yaban Hayatı açısından da zengin olan Dilsiz Tepe, memeliler, kuşlar ve sürüngenlerin yaşam alanı. Dağların yükseklik zonları, alpin flora ve dağ hayvanları için uygun bir ortam sunuyor. 
+Yaban Hayatı açısından da zengin olan Dilsiz Tepe, memeliler, kuşlar ve sürüngenlerin yaşam alanı. Dağların yükseklik zonları, alpin flora ve dağ hayvanları için uygun bir ortam sunuyor.
 
 Ekolojik Değer olarak, bu dağlık alanın korunması büyük önem taşıyor. Doğal yaşam alanlarının korunması, ekosistemin dengesini korumak için gerekli. Dilsiz Tepe, bu amaçla önemli bir role sahip.
 

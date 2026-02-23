@@ -29,7 +29,7 @@ wikidata_id: "Q134728432"
 
 # Geçkinli Şehitlik Anıtı
 
-Edirne'nin Süloğlu ilçesinde yer alan Geçkinli Şehitlik Anıtı, Marmara Bölgesi'nin önemli tarihi ve doğal sitelerinden biridir. Bu anıt, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Geçkinli Şehitlik Anıtı, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir araya getiren özel bir destinasyondur. Anıtın etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için çekici kılmaktadır.
+Edirne'nin Süloğlu ilçesinde yer alan Geçkinli Şehitlik Anıtı, Marmara Bölgesi'nin önemli tarihi ve doğal sitelerinden biridir. Geçkinli Şehitlik Anıtı, ziyaretçiler için hem tarihi hem de doğal güzellikleri bir araya getiren özel bir destinasyondur. Anıtın etrafında çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için çekici kılmaktadır.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Geçkinli Şehitlik Anıtı, Marmara Bölgesi'nin coğrafi özelliklerini taşı
 
 ## Flora ve Fauna
 
-Geçkinli Şehitlik Anıtı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Anıtın etrafında, mevsimsel değişimlere bağlı olarak farklı bitki türleri yetişir. Anıtın doğal alanı, birçok hayvanın yaşam alanı olarak hizmet eder ve bu nedenle, bölge, doğa severler için önemli bir destinasyondur. Anıtın flora ve faunası, bölgenin ekolojik dengesini korumak için önemlidir. Anıtın doğal güzellikleri, ziyaretçiler için bir doğa deneyimi sunar ve bölgenin doğal varlıklarını korumak için önemlidir.
+ Anıtın etrafında, mevsimsel değişimlere bağlı olarak farklı bitki türleri yetişir. Anıtın doğal alanı, birçok hayvanın yaşam alanı olarak hizmet eder ve bu nedenle, bölge, doğa severler için önemli bir destinasyondur. Anıtın flora ve faunası, bölgenin ekolojik dengesini korumak için önemlidir. Anıtın doğal güzellikleri, ziyaretçiler için bir doğa deneyimi sunar ve bölgenin doğal varlıklarını korumak için önemlidir.
 
 ## Ziyaret Bilgileri
 

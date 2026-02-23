@@ -30,7 +30,7 @@ wikidata_id: "Q217265"
 
 # Kapadokya
 
-Kapadokya, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğal güzellik bölgesidir. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde olup, coğrafi açıdan oldukça önemli bir konumu sahiptir. Kapadokya'nın tarihi geçmişi, yüzyıllar boyunca verschilli medeniyetlerin izlerini taşımaktadır. Bölge, coğrafi ve tarihi açıdan zengin bir mirasa sahiptir. Kapadokya, ziyaretçilerini bekleyen bir doğa harikası olarak karşımıza çıkmaktadır.
+Kapadokya, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık alanı kapsayan bir doğal güzellik bölgesidir. Kapadokya'nın tarihi geçmişi, yüzyıllar boyunca verschilli medeniyetlerin izlerini taşımaktadır. Bölge, coğrafi ve tarihi açıdan zengin bir mirasa sahiptir. Kapadokya, ziyaretçilerini bekleyen bir doğa harikası olarak karşımıza çıkmaktadır.
 
 ## Tarihçe
 

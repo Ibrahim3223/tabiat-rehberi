@@ -28,7 +28,7 @@ wikidata_id: "Q31504300"
 
 # Tosun Dağı
 
-Tosun Dağı, Türkiye'nin doğal güzelliklerinin sergilendiği bir bölgede yer alıyor. Bu dağ, Türkiye'nin çeşitli coğrafi bölgelerinden biri olan bölgede bulunuyor. Tosun Dağı, ziyaretçilerini doğal çevresi ve históriki önemiyle çekiyor. Türkiye'nin farklı illerinden gelen ziyaretçiler, bu bölgeyi keşfetmek için geliyor.
+Tosun Dağı, Türkiye'nin doğal güzelliklerinin sergilendiği bir bölgede yer alıyor. Bu dağ, Türkiye'nin çeşitli coğrafi bölgelerinden biri olan bölgede bulunuyor. Tosun Dağı, ziyaretçilerini doğal çevresi ve tarihi önemiyle çekiyor. Türkiye'nin farklı illerinden gelen ziyaretçiler, bu bölgeyi keşfetmek için geliyor.
 
 ## Tarihçe
 

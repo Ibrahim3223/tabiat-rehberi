@@ -1,7 +1,7 @@
 ---
 title: "Sahib Ata Vakıf Hamamı"
 date: "2026-01-09T22:59:50.286Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738821"
 
 # Sahib Ata Vakıf Hamamı
 
-Sahib Ata Vakıf Hamamı, Konya'nın Ilgın ilçesinde yer alan tarihi bir hamam ve külliye alanıdır. Bu önemli tarihi yapı, 140 hektarlık bir alanda yer alır ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sahib Ata Vakıf Hamamı, tarihin derinliklerinden gelen bir miras olarak, bölgeye gelen ziyaretçilere hem tarihi hem de kültürel açıdan zengin bir deneyim sunar. İlginin tarihi geçmişi ve bölgenin coğrafi konumu, bu vakıf hamamının önemini daha da artırır.
+Sahib Ata Vakıf Hamamı, Konya'nın Ilgın ilçesinde yer alan tarihi bir hamam ve külliye alanıdır. Sahib Ata Vakıf Hamamı, tarihin derinliklerinden gelen bir miras olarak, bölgeye gelen ziyaretçilere hem tarihi hem de kültürel açıdan zengin bir deneyim sunar. İlginin tarihi geçmişi ve bölgenin coğrafi konumu, bu vakıf hamamının önemini daha da artırır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sahib Ata Vakıf Hamamı, Konya'nın Ilgın ilçesinde yer alan bir tarihi yapı
 
 ## Coğrafya
 
-Sahib Ata Vakıf Hamamı, Konya'nın Ilgın ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step iklimi ile karakterizedir ve yazları sıcak, kışları soğuk geçer. Ilgın'ın coğrafi konumu, ülkenin orta kesiminde yer alması nedeniyle, karasal iklimin tipik özelliklerini gösterir. Sahib Ata Vakıf Hamamı, 140 hektarlık bir alanı kaplar ve çevresinde histórik yapılar, arkeolojik alanlar ve doğal güzellikler bulunur. Bu hamam, bölgenin coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir noktadır. Çevresinde yer alan tarihi yapılar, arkeolojik sit alanları ve doğal güzellikler, ziyaretçilere zengin bir deneyim sunar. Ilgın'ın coğrafi konumu ve Sahib Ata Vakıf Hamamı'nın yer aldığı alan, bölgenin tarihi ve kültürel mirasını yansıtan önemli bir bölgedir.
+Sahib Ata Vakıf Hamamı, Konya'nın Ilgın ilçesinde yer alır ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle step iklimi ile karakterizedir ve yazları sıcak, kışları soğuk geçer. Ilgın'ın coğrafi konumu, ülkenin orta kesiminde yer alması nedeniyle, karasal iklimin tipik özelliklerini gösterir. Sahib Ata Vakıf Hamamı, 140 hektarlık bir alanı kaplar ve çevresinde tarihi yapılar, arkeolojik alanlar ve doğal güzellikler bulunur. Bu hamam, bölgenin coğrafi ve kültürel zenginliklerini bir araya getiren önemli bir noktadır. Çevresinde yer alan tarihi yapılar, arkeolojik sit alanları ve doğal güzellikler, ziyaretçilere zengin bir deneyim sunar. Ilgın'ın coğrafi konumu ve Sahib Ata Vakıf Hamamı'nın yer aldığı alan, bölgenin tarihi ve kültürel mirasını yansıtan önemli bir bölgedir.
 
 ## Flora ve Fauna
 

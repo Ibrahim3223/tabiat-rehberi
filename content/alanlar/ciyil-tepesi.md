@@ -28,7 +28,7 @@ wikidata_id: "Q34829352"
 
 # Çiyil Tepesi
 
-Afyonkarahisar'ın merkezinde yer alan Çiyil Tepesi, yaklaşık 140 hektarlık bir alanı kapsayan ve şehrin önemli doğal güzelliklerinden biri olan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin diğer bölgelerine göre daha yüksek bir konumda. Çiyil Tepesi, doğa severlerin ve şehir sakinlerinin keyifli zaman geçirebileceği bir nokta olarak dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
+Afyonkarahisar'ın merkezinde yer alan Çiyil Tepesi, yaklaşık 140 hektarlık bir alanı kapsayan ve şehrin önemli doğal güzelliklerinden biri olan bir tepe. Çiyil Tepesi, doğa severlerin ve şehir sakinlerinin keyifli zaman geçirebileceği bir nokta olarak dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

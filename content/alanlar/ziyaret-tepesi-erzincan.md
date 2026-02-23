@@ -28,7 +28,7 @@ wikidata_id: "Q31387944"
 
 # Ziyaret Tepesi (Erzincan)
 
-Erzincan, Doğu Anadolu Bölgesi'nin önemli şehirlerinden biri olarak bilinir. Şehrin panoramik manzarasını sunan Ziyaret Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Ziyaret Tepesi, şehrin tarihi ve kültürel zenginliklerini de bünyesinde barındırır. Burada, geçmişin izlerini taşıyan çeşitli yapılar ve anıtlar bulunur.
+Erzincan, Doğu Anadolu Bölgesi'nin önemli şehirlerinden biri olarak bilinir. Şehrin panoramik manzarasını sunan Ziyaret Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Ziyaret Tepesi, şehrin tarihi ve kültürel zenginliklerini de bünyesinde barındırır. Burada, geçmişin izlerini taşıyan çeşitli yapılar ve anıtlar bulunur.
 
 ## Tarihçe
 

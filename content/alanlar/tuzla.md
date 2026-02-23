@@ -23,7 +23,7 @@ wikidata_id: "Q108228645"
 
 # TUZLA
 
-TUZLA milli parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. 140 hektarlık bir alanı kapsayan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. TUZLA, doğa severlerin ve yerel halkın önemli bir buluşma noktasıdır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sergiler. TUZLA'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir ve bu bölge, doğal güzelliğinin yanı sıra kültürel önemini de korur.
+TUZLA milli parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. TUZLA, doğa severlerin ve yerel halkın önemli bir buluşma noktasıdır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sergiler. TUZLA'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir ve bu bölge, doğal güzelliğinin yanı sıra kültürel önemini de korur.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ TUZLA milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-TUZLA milli parkı, İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak önemli bir konuma sahiptir. 140 hektarlık bir alanı kapsayan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. TUZLA'nın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekillenir. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçiler, mevsimsel değişimlerin güzelliğini keşfedebilir. TUZLA, yerel halkın yaşam alanı olarak kullanılır ve bu bölge, doğal güzelliğinin yanı sıra kültürel önemini de korur. TUZLA milli parkı, ziyaretçilere, doğanın güzelliğini ve yerel kültürü keşfetme fırsatı sunar ve bu bölgenin coğrafi özellikleri, ziyaretçiler için önemli bir bilgi kaynağı oluşturur.
+TUZLA milli parkı, İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak önemli bir konuma sahiptir. TUZLA'nın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna tarafından şekillenir. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçiler, mevsimsel değişimlerin güzelliğini keşfedebilir. TUZLA, yerel halkın yaşam alanı olarak kullanılır ve bu bölge, doğal güzelliğinin yanı sıra kültürel önemini de korur. TUZLA milli parkı, ziyaretçilere, doğanın güzelliğini ve yerel kültürü keşfetme fırsatı sunar ve bu bölgenin coğrafi özellikleri, ziyaretçiler için önemli bir bilgi kaynağı oluşturur.
 
 ## Flora ve Fauna
 

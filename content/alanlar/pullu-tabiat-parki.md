@@ -29,7 +29,7 @@ wikidata_id: "Q30623797"
 
 # Pullu Tabiat Parkı
 
-Pullu Tabiat Parkı, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu doğal cennet, Akdeniz Bölgesi'nin eşsiz manzaralarına ev sahipliği yapıyor. Park, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları gözlemleyebilir. Pullu Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için bir cennet.
+Pullu Tabiat Parkı, Mersin'in doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu doğal cennet, Akdeniz Bölgesi'nin eşsiz manzaralarına ev sahipliği yapıyor. Park, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Ziyaretçiler, burada çeşitli bitki türleri ve hayvanları gözlemleyebilir. Pullu Tabiat Parkı, hem doğa severler hem de fotoğraf tutkunları için bir cennet.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Pullu Tabiat Parkı, yüzyıllar boyunca bölgenin doğal güzelliğini korumuş
 
 ## Coğrafya
 
-Pullu Tabiat Parkı, Mersin'in Akdeniz kıyılarına yakın bir konumda bulunuyor. Park, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak, parkın konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Parkın iklimi, Akdeniz ikliminin etkilerini gösteriyor ve ziyaretçiler, burada sıcak yazlar ve ılıman kışlar gözlemleyebilir. Parkın çevresi, zengin bitki örtüsü ve çeşitli hayvan türleri ile kaplı. Ziyaretçiler, parkın coğrafi güzelliğini keşfetmek için çeşitli yürüyüş parkurları ve gözlem noktaları kullanabilir. Parkın coğrafi yapısı, ziyaretçilere, Akdeniz Bölgesi'nin eşsiz manzaralarını sunuyor.
+Pullu Tabiat Parkı, Mersin'in Akdeniz kıyılarına yakın bir konumda bulunuyor. Coğrafi olarak, parkın konumu, Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Parkın iklimi, Akdeniz ikliminin etkilerini gösteriyor ve ziyaretçiler, burada sıcak yazlar ve ılıman kışlar gözlemleyebilir. Parkın çevresi, zengin bitki örtüsü ve çeşitli hayvan türleri ile kaplı. Ziyaretçiler, parkın coğrafi güzelliğini keşfetmek için çeşitli yürüyüş parkurları ve gözlem noktaları kullanabilir. Parkın coğrafi yapısı, ziyaretçilere, Akdeniz Bölgesi'nin eşsiz manzaralarını sunuyor.
 
 ## Flora ve Fauna
 

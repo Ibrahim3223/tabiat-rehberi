@@ -32,7 +32,7 @@ Balıkesir'in saklı güzelliği, Dalyan Sığlığı, ziyaretçilerini doğanı
 
 ## Tarihçe
 
-Dalyan Sığlığı, Balıkesir'in zengin tarihine sahne olan bir bölgede yer almaktadır. Bu bölge, históriki dönemlerde çeşitli uygarlıkların yerleşim yeri olmuştur. Likyalılar, Persler, Romalılar ve Osmanlılar gibi medeniyetler, zaman içinde bu topraklarda izler bırakmışlardır. Balıkesir, tarihin farklı dönemlerinde önemli ticaret yollarının kesişme noktası olarak hizmet vermiştir.
+Dalyan Sığlığı, Balıkesir'in zengin tarihine sahne olan bir bölgede yer almaktadır. Bu bölge, tarihi dönemlerde çeşitli uygarlıkların yerleşim yeri olmuştur. Likyalılar, Persler, Romalılar ve Osmanlılar gibi medeniyetler, zaman içinde bu topraklarda izler bırakmışlardır. Balıkesir, tarihin farklı dönemlerinde önemli ticaret yollarının kesişme noktası olarak hizmet vermiştir.
 
 Doğal alanlar gibi Dalyan Sığlığı, Türkiye'nin tarihsel mirasının önemli bir parçasını oluşturmaktadır. Bu tür bölgeler, sadece doğal güzellikleri değil, aynı zamanda insan yerleşimlerinin ve kültürel faaliyetlerin de önemli merkezleri olarak görev görmüşlerdir. Yaylacılık, hayvancılık ve yerel ticaret, bu alanların etrafında gelişen ekonomik faaliyetlerin sadece birkaçıdır.
 
@@ -59,7 +59,7 @@ Yaban Hayatı:
 Dalyan Sığlığı, deniz kuşları için önemli bir yaşam alanıdır. Ada, göçmen kuşların konaklama noktası olarak hizmet eder. Ada ekosisteminin izole popülasyonları, bu canlıların çeşitliliğini korur. Memeliler ve sürüngenler de ada ekosisteminin bir parçasıdır.
 
 Ekolojik Değer:
-Bu ada ekosistemi, göçmen kuşların yaşam döngüsünde önemli bir rol oynar. Koruma durumuna gelince, Dalyan Sığlığı'nın doğal dengesini korumak için çaba sarf edilmektedir. Bu alanın korunması, bölgenin biyolojik çeşitliliğini bảo¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+Bu ada ekosistemi, göçmen kuşların yaşam döngüsünde önemli bir rol oynar. Koruma durumuna gelince, Dalyan Sığlığı'nın doğal dengesini korumak için çaba sarf edilmektedir. Bu alanın korunması, bölgenin biyolojik çeşitliliğini koruma¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
 
 ## Ziyaret Bilgileri
 

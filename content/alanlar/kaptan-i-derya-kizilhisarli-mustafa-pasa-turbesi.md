@@ -1,7 +1,7 @@
 ---
 title: "Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi"
 date: "2026-01-10T05:43:43.388Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735193"
 
 # Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi
 
-Bodrum'un tarihi ve doğal güzellikleri arasında yer alan Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi, Ege Bölgesi'nin önemli noktalarından birini oluşturur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu tarihi ve doğal güzelliğin birleştiği noktada, ziyaretçiler hem geçmişin izlerini takip edebiliyor hem de Ege'nin eşsiz manzarasına tanıklık edebiliyor. Mustafa Paşa'nın yaşamı ve dönemi, tarihin sayfalarında önemli bir yer tutar ve bu türbe, onun anısına yapılan bir abide olarak kabul edilebilir.
+Bodrum'un tarihi ve doğal güzellikleri arasında yer alan Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi, Ege Bölgesi'nin önemli noktalarından birini oluşturur. Bu tarihi ve doğal güzelliğin birleştiği noktada, ziyaretçiler hem geçmişin izlerini takip edebiliyor hem de Ege'nin eşsiz manzarasına tanıklık edebiliyor. Mustafa Paşa'nın yaşamı ve dönemi, tarihin sayfalarında önemli bir yer tutar ve bu türbe, onun anısına yapılan bir abide olarak kabul edilebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi, tarihin sayfalarında ö
 
 ## Coğrafya
 
-Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi, Muğla'nın Bodrum ilçesinde yer alır. Ege Bölgesi'nin güzelliklerini içinde barındıran bu bölge, tarihi ve doğal güzellikleriyle ziyaretçilerini beklemektedir. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Bu geniş alan, ziyaretçilere hem tarihi bir noktayı ziyaret etme fırsatı sunar hem de Ege'nin güzelliğini seyretme imkanı verir. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri taşır ve ziyaretçilere yılın birçok döneminde güneşli ve ılıman bir hava sunar. Çevre, tarihi ve doğal güzelliklerle dolu olarak ziyaretçilere zengin bir deneyim sunar. Türbenin coğrafi konumu, ziyaretçilerin diğer tarihi ve doğal güzelliklere kolayca ulaşabilmesini sağlar.
+Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi, Muğla'nın Bodrum ilçesinde yer alır. Ege Bölgesi'nin güzelliklerini içinde barındıran bu bölge, tarihi ve doğal güzellikleriyle ziyaretçilerini beklemektedir. Bu geniş alan, ziyaretçilere hem tarihi bir noktayı ziyaret etme fırsatı sunar hem de Ege'nin güzelliğini seyretme imkanı verir. Bölgenin iklimi, tipik Akdeniz iklimi özellikleri taşır ve ziyaretçilere yılın birçok döneminde güneşli ve ılıman bir hava sunar. Çevre, tarihi ve doğal güzelliklerle dolu olarak ziyaretçilere zengin bir deneyim sunar. Türbenin coğrafi konumu, ziyaretçilerin diğer tarihi ve doğal güzelliklere kolayca ulaşabilmesini sağlar.
 
 ## Flora ve Fauna
 

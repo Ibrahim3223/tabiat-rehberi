@@ -1,7 +1,7 @@
 ---
 title: "Yeni Hamam"
 date: "2026-01-09T22:15:47.895Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kilikya"
@@ -30,7 +30,7 @@ wikidata_id: "Q124433365"
 
 # Yeni Hamam
 
-Yeni Hamam, Tarsus'un Kilikya bölgesinde, İç Anadolu Bölgesi'nde yer alan bir plajdır. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Yeni Hamam, denize sıfır bir konumda yer alıyor ve temiz suyu ile dikkat çekiyor. Deniz suyunun berraklığı ve plajın genişliği, ziyaretçilerin güneşin tadını çıkarmalarına olanak sağlıyor.
+Yeni Hamam, Tarsus'un Kilikya bölgesinde, İç Anadolu Bölgesi'nde yer alan bir plajdır. Yeni Hamam, denize sıfır bir konumda yer alıyor ve temiz suyu ile dikkat çekiyor. Deniz suyunun berraklığı ve plajın genişliği, ziyaretçilerin güneşin tadını çıkarmalarına olanak sağlıyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Ankara-Nallihan Emremsultan"
 date: "2026-01-09T20:27:30.481Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Ankara"
@@ -23,7 +23,7 @@ wikidata_id: "Q108227379"
 
 # Ankara-Nallihan Emremsultan
 
-Ankara-Nallihan Emremsultan, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşarak doğayla baş başa kalabileceğiniz bir cennettir. Burada, çeşitli bitki türleri ve zengin fauna sizi karşılar. Nallihan Emremsultan Milli Parkı, hem doğa severler hem de şehirden kaçmak isteyenler için ideal bir destinasyondur. Parkın büyüklüğü ve çeşitliliği, ziyaretçilerine geniş bir faaliyet yelpazesi sunar.
+Ankara-Nallihan Emremsultan, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir milli parktır. Burada, çeşitli bitki türleri ve zengin fauna sizi karşılar. Nallihan Emremsultan Milli Parkı, hem doğa severler hem de şehirden kaçmak isteyenler için ideal bir destinasyondur. Parkın büyüklüğü ve çeşitliliği, ziyaretçilerine geniş bir faaliyet yelpazesi sunar.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Ankara-Nallihan Emremsultan Milli Parkı, tarihi geçmişiyle dikkat çeker. Bu 
 
 ## Coğrafya
 
-Ankara-Nallihan Emremsultan Milli Parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ormanlık alanlarla çevrilidir. Bölgenin iklimi, İç Anadolu'nun tipik karasal iklimine benzer ve dört mevsim belirgin olarak yaşanır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Parkın coğrafi yapısı, ziyaretçilere çeşitli faaliyetler sunar. Ormanlık alanlar, yürüyüş ve trekking için idealdir. Ayrıca, parkın coğrafi konumu, Ankara şehrine yakınlığıyla dikkat çeker ve ziyaretçilere kolay ulaşım imkânı sağlar. Nallihan Emremsultan Milli Parkı, doğal güzellikleri ve coğrafi çeşitliliğiyle ziyaretçilerini bekliyor.
+Ankara-Nallihan Emremsultan Milli Parkı, coğrafi olarak İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölgenin iklimi, İç Anadolu'nun tipik karasal iklimine benzer ve dört mevsim belirgin olarak yaşanır. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Parkın coğrafi yapısı, ziyaretçilere çeşitli faaliyetler sunar. Ormanlık alanlar, yürüyüş ve trekking için idealdir. Ayrıca, parkın coğrafi konumu, Ankara şehrine yakınlığıyla dikkat çeker ve ziyaretçilere kolay ulaşım imkânı sağlar. Nallihan Emremsultan Milli Parkı, doğal güzellikleri ve coğrafi çeşitliliğiyle ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Kadıncık Ana Türbesi"
 date: "2026-01-10T06:16:08.894Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390544"
 
 # Kadıncık Ana Türbesi
 
-Kadıncık Ana Türbesi, Afyonkarahisar ilinin merkezinde bulunan tarihi bir mekan. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir bölge. Tarihi geçmişi ile önemli bir yer olan Kadıncık Ana Türbesi, ziyaretçilerini bekliyor. Bu mekan, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor. Ziyaretçiler, buraya gelerek hem tarihi bilgiler edinebiliyor hem de doğanın güzelliğini keşfedebiliyor.
+Kadıncık Ana Türbesi, Afyonkarahisar ilinin merkezinde bulunan tarihi bir mekan. Tarihi geçmişi ile önemli bir yer olan Kadıncık Ana Türbesi, ziyaretçilerini bekliyor. Bu mekan, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor. Ziyaretçiler, buraya gelerek hem tarihi bilgiler edinebiliyor hem de doğanın güzelliğini keşfedebiliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Kadıncık Ana Türbesi'nin tarihi geçmişi oldukça zengin. Bu mekan, yüzyıl
 
 ## Coğrafya
 
-Kadıncık Ana Türbesi, Afyonkarahisar ilinin merkezinde yer alıyor. Bu mekan, Ege Bölgesi'nin doğal güzelliklerini sunuyor. Coğrafi olarak, bu alan yaklaşık 140 hektarlık bir yeşil alanı kapsıyor. burası, yaklaşık 200 futbol sahası büyüklüğünde bir bölge. İklim olarak, Ege Bölgesi'nin tipik Akdeniz iklimini yaşayan bu alan, yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Çevre olarak, Kadıncık Ana Türbesi'nin etrafında çeşitli bitki türleri ve hayvanlar bulunuyor. Ziyaretçiler, buraya gelerek Ege Bölgesi'nin doğal güzelliklerini keşfedebiliyor.
+Kadıncık Ana Türbesi, Afyonkarahisar ilinin merkezinde yer alıyor. Bu mekan, Ege Bölgesi'nin doğal güzelliklerini sunuyor. İklim olarak, Ege Bölgesi'nin tipik Akdeniz iklimini yaşayan bu alan, yazları sıcak ve kurak, kışları ılık ve yağışlı geçiyor. Çevre olarak, Kadıncık Ana Türbesi'nin etrafında çeşitli bitki türleri ve hayvanlar bulunuyor. Ziyaretçiler, buraya gelerek Ege Bölgesi'nin doğal güzelliklerini keşfedebiliyor.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Kadıncık Ana Türbesi'ni ziyaret etmek için, Afyonkarahisar ilinin merkezine 
 ## İlginç Bilgiler
 
 - Kadıncık Ana Türbesi, Afyonkarahisar ilinin en önemli tarihi mekanlarından biri.
-- Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kapsıyor.
+
 - Kadıncık Ana Türbesi, Ege Bölgesi'nin doğal güzelliklerini sunuyor.
 - Buraya gelmek için, çeşitli ulaşım araçları kullanabilirsiniz.
 - Ziyaretçiler, buraya gelerek hem tarihi hem de doğal güzelliklerini keşfedebiliyor.

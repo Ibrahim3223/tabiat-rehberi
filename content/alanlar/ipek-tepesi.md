@@ -28,7 +28,7 @@ wikidata_id: "Q31389885"
 
 # İpek Tepesi
 
-İpek Tepesi, Sinop'un muhteşem manzarasına ev sahipliği yapan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşit. İpek Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin en güzel noktalarından birine davet ediyor. Burada, eşsiz bir doğa deneyimi sunan İpek Tepesi, gezi severlerin vazgeçilmezi haline geliyor.
+İpek Tepesi, Sinop'un muhteşem manzarasına ev sahipliği yapan bir doğa harikası. İpek Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin en güzel noktalarından birine davet ediyor. Burada, eşsiz bir doğa deneyimi sunan İpek Tepesi, gezi severlerin vazgeçilmezi haline geliyor.
 
 ## Tarihçe
 

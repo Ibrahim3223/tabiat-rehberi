@@ -20,7 +20,7 @@ aktiviteler: ["Tarihî yapıları gezmek","Doğa yürüyüşü yapmak","Manzara 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kara Tepesi (Ankara)","caption":"Kara Tepesi (Ankara)","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Tepesi%20(Ankara)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558124","tip":"genel"}]
-description: "Ankara'nın históri ve coğrafi açıdan önemli bir noktası olan Kara Tepesi, ziyaretçilerini bekliyor."
+description: "Ankara'nın tarihi ve coğrafi açıdan önemli bir noktası olan Kara Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kara Tepesi","Ankara","İç Anadolu Bölgesi","tepe","coğrafya","tarih","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31558124"
@@ -28,7 +28,7 @@ wikidata_id: "Q31558124"
 
 # Kara Tepesi (Ankara)
 
-Kara Tepesi, Ankara'nın kalbinde yer alan ve tarihi geçmişe sahip bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilerin geniş bir alan gezerek keşfetmesine olanak sağlıyor. Kara Tepesi, Ankara'nın coğrafi yapısını ve tarihi geçmişini bir araya getiren önemli bir nokta. Tepenin etrafında yer alan yerleşim yerleri ve tarihi yapılar, ziyaretçilere geniş bir perspektif sunuyor. Kara Tepesi'ni ziyaret etmek, Ankara'nın tarihi ve coğrafi zenginliklerini keşfetmek isteyenler için ideal bir seçim.
+Kara Tepesi, Ankara'nın kalbinde yer alan ve tarihi geçmişe sahip bir tepe. Bu büyüklük, ziyaretçilerin geniş bir alan gezerek keşfetmesine olanak sağlıyor. Kara Tepesi, Ankara'nın coğrafi yapısını ve tarihi geçmişini bir araya getiren önemli bir nokta. Tepenin etrafında yer alan yerleşim yerleri ve tarihi yapılar, ziyaretçilere geniş bir perspektif sunuyor. Kara Tepesi'ni ziyaret etmek, Ankara'nın tarihi ve coğrafi zenginliklerini keşfetmek isteyenler için ideal bir seçim.
 
 ## Tarihçe
 

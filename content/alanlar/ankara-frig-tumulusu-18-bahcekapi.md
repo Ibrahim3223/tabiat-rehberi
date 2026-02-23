@@ -29,11 +29,11 @@ wikidata_id: "Q134728288"
 
 # Ankara Frig Tümülüsü 18, Bahçekapı
 
-Ankara Frig Tümülüsü 18, Bahçekapı, İç Anadolu Bölgesi'nin kalbinde, Etimesgut ilçesinde yer alan bir tarihi ve doğal güzelliğin birleştiği özel bir yerdir. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık hava deneyimi sunuyor. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca şekillenerek günümüze ulaşmıştır. Ziyaretçiler, hem tarihin izlerini takip edebiliyor hem de doğal güzellikleri keşfedebiliyorlar.
+Ankara Frig Tümülüsü 18, Bahçekapı, İç Anadolu Bölgesi'nin kalbinde, Etimesgut ilçesinde yer alan bir tarihi ve doğal güzelliğin birleştiği özel bir yerdir. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca şekillenerek günümüze ulaşmıştır. Ziyaretçiler, hem tarihin izlerini takip edebiliyor hem de doğal güzellikleri keşfedebiliyorlar.
 
 ## Tarihçe
 
-Ankara Frig Tümülüsü 18, Bahçekapı, tarihin sâu izlerini taşıyan bir bölgedir. Tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır. Bu bölgede, Frig Uygarlığı'nın kalıntıları bulunmakta ve ziyaretçilere tarihin derinliklerine bir yolculuk sunmaktadır. Frig Uygarlığı, M.Ö. 8. yüzyılda bölgede hüküm sürmüştür ve bu dönemde önemli eserler ve yapılar bırakmışlardır. Ankara Frig Tümülüsü 18, Bahçekapı, bu zengin tarihin bir parçası olarak ziyaretçilerini ağırlamaktadır. Tarihi dokusu, ziyaretçilere geçmişe doğru bir yolculuk imkanı sunarken, aynı zamanda bölgenin kültürel zenginliğini de yansıtmaktadır.
+Ankara Frig Tümülüsü 18, Bahçekapı, tarihin derin izlerini taşıyan bir bölgedir. Tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmıştır. Bu bölgede, Frig Uygarlığı'nın kalıntıları bulunmakta ve ziyaretçilere tarihin derinliklerine bir yolculuk sunmaktadır. Frig Uygarlığı, M.Ö. 8. yüzyılda bölgede hüküm sürmüştür ve bu dönemde önemli eserler ve yapılar bırakmışlardır. Ankara Frig Tümülüsü 18, Bahçekapı, bu zengin tarihin bir parçası olarak ziyaretçilerini ağırlamaktadır. Tarihi dokusu, ziyaretçilere geçmişe doğru bir yolculuk imkanı sunarken, aynı zamanda bölgenin kültürel zenginliğini de yansıtmaktadır.
 
 ## Coğrafya
 

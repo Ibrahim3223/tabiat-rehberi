@@ -28,7 +28,7 @@ schema_type: "TouristAttraction"
 
 # Sıklık Tabiat Parkı
 
-Sıklık Tabiat Parkı, Çorum'un doğal güzelliklerini barındıran bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en önemli ekosistemlerinden biri. Bu park, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin florası ve faunası hakkında da bilgi sahibi olma fırsatı sunuyor. Sıklık Tabiat Parkı, hem doğa severler hem de çevreyi korumak isteyenler için önemli bir destinasyon olarak öne çıkıyor.
+Sıklık Tabiat Parkı, Çorum'un doğal güzelliklerini barındıran bir alan olarak dikkat çekiyor. Bu park, ziyaretçilerine doğayla iç içe bir deneyim sunarken, aynı zamanda bölgenin florası ve faunası hakkında da bilgi sahibi olma fırsatı sunuyor. Sıklık Tabiat Parkı, hem doğa severler hem de çevreyi korumak isteyenler için önemli bir destinasyon olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sıklık Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş.
 
 ## Coğrafya
 
-Sıklık Tabiat Parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. Park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik iklimini yansıtıyor. Bölgenin flora ve faunası, bu coğrafi koşulların bir sonucu olarak şekillenmiş. Sıklık Tabiat Parkı, Karadeniz Bölgesi'nin coğrafi çeşitliliğini ve doğal güzelliklerini barındıran önemli bir destinasyon olarak dikkat çekiyor. Parkın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı.
+Sıklık Tabiat Parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir bölgede yer alıyor. Bu geniş alan, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Parkın coğrafi konumu, Karadeniz Bölgesi'nin karakteristik iklimini yansıtıyor. Bölgenin flora ve faunası, bu coğrafi koşulların bir sonucu olarak şekillenmiş. Sıklık Tabiat Parkı, Karadeniz Bölgesi'nin coğrafi çeşitliliğini ve doğal güzelliklerini barındıran önemli bir destinasyon olarak dikkat çekiyor. Parkın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı.
 
 ## Flora ve Fauna
 

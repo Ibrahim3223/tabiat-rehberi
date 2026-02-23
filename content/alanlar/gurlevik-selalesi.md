@@ -29,7 +29,7 @@ wikidata_id: "Q5627140"
 
 # Gürlevik Şelalesi
 
-Gürlevik Şelalesi, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu şelale, yaklaşık 140 hektarlık bir alanda, ziyaretçilerini büyüleyici bir doğa deneyimi sunuyor. Gürlevik Şelalesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu alanda, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Gürlevik Şelalesi, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu şelale, yaklaşık 140 hektarlık bir alanda, ziyaretçilerini büyüleyici bir doğa deneyimi sunuyor. Bu alanda, çeşitli bitki türleri ve zengin fauna, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Gürlevik Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve g
 
 ## Coğrafya
 
-Gürlevik Şelalesi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde, özel bir yere sahiptir. Bu şelale, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Gürlevik Şelalesi, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu ve ziyaretçilere, doğanın güzelliğini sunuyor. Gürlevik Şelalesi'nin coğrafi konumu, ziyaretçilere, bölgenin diğer doğal güzelliklerine ulaşma fırsatı sunuyor. Bu şelale, bölgenin iklimine uygun bir şekilde, mevsimsel değişimler gösteriyor ve her mevsim, ziyaretçilere farklı bir deneyim sunuyor.
+Gürlevik Şelalesi, İç Anadolu Bölgesi'nin coğrafi yapısı içerisinde, özel bir yere sahiptir. Bu şelale, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dolu ve ziyaretçilere, doğanın güzelliğini sunuyor. Gürlevik Şelalesi'nin coğrafi konumu, ziyaretçilere, bölgenin diğer doğal güzelliklerine ulaşma fırsatı sunuyor. Bu şelale, bölgenin iklimine uygun bir şekilde, mevsimsel değişimler gösteriyor ve her mevsim, ziyaretçilere farklı bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Gürlevik Şelalesi'ni ziyaret etmek, ziyaretçilere, unutulmaz bir deneyim sunu
 ## İlginç Bilgiler
 
 - Gürlevik Şelalesi, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
-- Bu şelale, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Gürlevik Şelalesi, çeşitli bitki türleri ve zengin fauna ile dolu bir alandır.
 - Bu şelale, mevsimsel değişimlere göre şekilleniyor.
 - Gürlevik Şelalesi, bölgenin ekolojik dengesine önemli bir katkı sağlıyor.

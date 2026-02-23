@@ -1,7 +1,7 @@
 ---
 title: "Roma Hamamı Kalıntıları"
 date: "2026-01-09T22:53:25.734Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738626"
 
 # Roma Hamamı Kalıntıları
 
-Roma Hamamı Kalıntıları, İzmir'in Urla ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, Ege Bölgesi'nin en önemli tarihi mekanlarından biri olarak kabul edilmektedir. Roma Hamamı Kalıntıları, Urla'nın merkezine uzun bir mesafe uzaklıkta yer almakta ve ziyaretçiler için kolay ulaşılabilir bir konumda bulunmaktadır. Bu tarihi mekan, hem tarih meraklıları hem de doğa severler için bir çekim merkezi olarak görev yapmaktadır.
+Roma Hamamı Kalıntıları, İzmir'in Urla ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir alandır. Roma Hamamı Kalıntıları, Urla'nın merkezine uzun bir mesafe uzaklıkta yer almakta ve ziyaretçiler için kolay ulaşılabilir bir konumda bulunmaktadır. Bu tarihi mekan, hem tarih meraklıları hem de doğa severler için bir çekim merkezi olarak görev yapmaktadır.
 
 ## Tarihçe
 

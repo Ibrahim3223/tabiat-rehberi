@@ -1,7 +1,7 @@
 ---
 title: "İncir Hamamı ve Çeşmesi"
 date: "2026-01-10T04:31:49.741Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Burdur"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738769"
 
 # İncir Hamamı ve Çeşmesi
 
-İncir Hamamı ve Çeşmesi, Burdur'un Bucak ilçesinde, tarihi ve doğal güzelliklerin bir arada olduğu özel bir mekan olarak ziyaretçilerini bekliyor. Bu alan, 140 hektarlık geniş bir yeşil alanı kapsıyor, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsaması ile dikkat çekiyor. İncir Hamamı ve Çeşmesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerine eşsiz bir deneyim sunuyor. Burada, tarihi çeşme ve hamamın yanı sıra, çeşitli bitki türleri ve zengin fauna da yer alıyor.
+İncir Hamamı ve Çeşmesi, Burdur'un Bucak ilçesinde, tarihi ve doğal güzelliklerin bir arada olduğu özel bir mekan olarak ziyaretçilerini bekliyor. İncir Hamamı ve Çeşmesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerine eşsiz bir deneyim sunuyor. Burada, tarihi çeşme ve hamamın yanı sıra, çeşitli bitki türleri ve zengin fauna da yer alıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131738769"
 
 ## Coğrafya
 
-İncir Hamamı ve Çeşmesi, Burdur'un Bucak ilçesinde, Akdeniz Bölgesi'nin güzelliklerini taşıyan bir bölgede yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. İncir Hamamı ve Çeşmesi, 140 hektarlık geniş bir yeşil alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Mekan, doğal güzelliği ile ziyaretçilerini çekiyor ve burada, hem tarihi hem de doğal güzellikleri bir arada deneyimleme mümkün. İncir Hamamı ve Çeşmesi, coğrafi konumu itibarıyla, ziyaretçilerine doğa ile iç içe bir deneyim sunuyor.
+İncir Hamamı ve Çeşmesi, Burdur'un Bucak ilçesinde, Akdeniz Bölgesi'nin güzelliklerini taşıyan bir bölgede yer alıyor. Bu bölge, coğrafi olarak zengin bir çeşitlilik sunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Mekan, doğal güzelliği ile ziyaretçilerini çekiyor ve burada, hem tarihi hem de doğal güzellikleri bir arada deneyimleme mümkün. İncir Hamamı ve Çeşmesi, coğrafi konumu itibarıyla, ziyaretçilerine doğa ile iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

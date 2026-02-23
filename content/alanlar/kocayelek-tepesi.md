@@ -28,7 +28,7 @@ wikidata_id: "Q31390258"
 
 # Kocayelek Tepesi
 
-Kocayelek Tepesi, Adana ilinin Akdeniz Bölgesi'nde bulunan bir tepe ve doğal alan olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik noktalarından biri olarak kabul ediliyor. Kocayelek Tepesi, ziyaretçilerini hem doğal güzellikleriyle hem de tarihi zenginlikleriyle karşılayacak bir destinasyon olarak ön plana çıkıyor. Özellikle bölgenin flora ve fauna çeşitliliği, ziyaretçilerin ilgisini çekmeye devam ediyor.
+Kocayelek Tepesi, Adana ilinin Akdeniz Bölgesi'nde bulunan bir tepe ve doğal alan olarak dikkat çekiyor. Kocayelek Tepesi, ziyaretçilerini hem doğal güzellikleriyle hem de tarihi zenginlikleriyle karşılayacak bir destinasyon olarak ön plana çıkıyor. Özellikle bölgenin flora ve fauna çeşitliliği, ziyaretçilerin ilgisini çekmeye devam ediyor.
 
 ## Tarihçe
 

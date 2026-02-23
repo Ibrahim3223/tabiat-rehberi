@@ -1,7 +1,7 @@
 ---
 title: "Babik Bey Hamamı"
 date: "2026-01-09T23:05:02.344Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -29,11 +29,11 @@ wikidata_id: "Q131738834"
 
 # Babik Bey Hamamı
 
-Babik Bey Hamamı, Kütahya'nın Simav ilçesinde bulunan bir plajdır. Bu bölge, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini geniş ve ferah bir ortam sunar. Babik Bey Hamamı, özellikle yaz aylarında turistlerin ve yerli halkın tercih ettiği bir destinasyondur. Burada, güneşin tadını çıkarmak, denize girme ve doğanın güzelliğini seyretme mümkündür.
+Babik Bey Hamamı, Kütahya'nın Simav ilçesinde bulunan bir plajdır. Bu bölge, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir. Babik Bey Hamamı, özellikle yaz aylarında turistlerin ve yerli halkın tercih ettiği bir destinasyondur. Burada, güneşin tadını çıkarmak, denize girme ve doğanın güzelliğini seyretme mümkündür.
 
 ## Tarihçe
 
-Babik Bey Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Babik Bey Hamamı, özellikle Osmanlı Dönemi'nde önemli bir merkez olarak bilinirdi. Bu dönemde, hamamın etrafında çeşitli yapılar ve tesisler kurulmuştur. Bugün, Babik Bey Hamamı, tarihi ve doğal güzelliği ile ziyaretçilerini çekmeye devam etmektedir. Bu bölgede, çeşitli tarihi eserler ve kalıntılar bulunsa da, c th bir tarihi bilgi bulunmamaktadır. Ancak, Babik Bey Hamamı'nın zengin tarihi geçmişi, ziyaretçilerine unutulmaz bir deneyim sunar.
+Babik Bey Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Babik Bey Hamamı, özellikle Osmanlı Dönemi'nde önemli bir merkez olarak bilinirdi. Bu dönemde, hamamın etrafında çeşitli yapılar ve tesisler kurulmuştur. Bugün, Babik Bey Hamamı, tarihi ve doğal güzelliği ile ziyaretçilerini çekmeye devam etmektedir. Bu bölgede, çeşitli tarihi eserler ve kalıntılar bulunsa da, c th bir tarihi bilgi bulunmamaktadır.
 
 ## Coğrafya
 
@@ -52,5 +52,5 @@ Babik Bey Hamamı, Simav'a gelen ziyaretçiler için bir zorunludur. Burada, den
 - Babik Bey Hamamı, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olarak bilinir.
 - Bu bölge, 140 hektarlık bir alanı kapsar.
 - Babik Bey Hamamı, özellikle yaz aylarında, turistlerin ve yerli halkın tercih ettiği bir destinasyondur.
-- Bu bölge, tarihi ve doğal güzelliği ile ziyaretçilerine unutulmaz bir deneyim sunar.
+
 - Babik Bey Hamamı, Simav'ın diğer turistik bölgelerine yakınlığı ile dikkat çeker.

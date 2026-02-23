@@ -52,7 +52,7 @@ Fiziksel olarak incelendiğinde, Pazar Dağı'nın büyüklüğü bir şehir blo
 
 Pazar Dağı, Muğla'nın zeytinliklerle çevrili çam ormanlarının arasında yükselen bir dağ ekosistemi sunuyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Çam ağaçlarının altında, çeşitli otsu bitkiler ve yer zeytin ağaçları bulunuyor.
 
-Dağın yükseklik zonlarına çıktıkça, alpin flora çeşitliliği artıyor. Bu bölgede, Akdeniz ikliminin karakteristik bitkileri gibi kermes Meşesi ve çam ağaçları hakim türler arasında yer alıyor. Sonbaharda, göçmen kuşlar dağları geçerken, gökyüzü renklendiriyor. 
+Dağın yükseklik zonlarına çıktıkça, alpin flora çeşitliliği artıyor. Bu bölgede, Akdeniz ikliminin karakteristik bitkileri gibi kermes Meşesi ve çam ağaçları hakim türler arasında yer alıyor. Sonbaharda, göçmen kuşlar dağları geçerken, gökyüzü renklendiriyor.
 
 Pazar Dağı, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunuyor. Dağ keçileri ve yaban domuzları, bölgenin memeli temsilcileri arasında yer alıyor. Dağların yüksek kesimlerinde, kartallar ve diğer yırtıcı kuşlar yuvalanıyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini sürdürmek için son derece önemli.
 

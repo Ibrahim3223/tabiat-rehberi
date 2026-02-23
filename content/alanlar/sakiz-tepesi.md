@@ -28,7 +28,7 @@ wikidata_id: "Q31390285"
 
 # Sakız Tepesi
 
-Sakız Tepesi, Adana'nın eşsiz doğa güzelliklerinden biri olarak ziyaretçilerini ağırlıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Sakız Tepesi, şehrin gürültüsünden uzak, sakin ve huzurlu bir ortam sunuyor. Ziyaretçiler, bu güzel tepeyi keşfederek, doğanın güzelliğini görebilir.
+Sakız Tepesi, Adana'nın eşsiz doğa güzelliklerinden biri olarak ziyaretçilerini ağırlıyor. Sakız Tepesi, şehrin gürültüsünden uzak, sakin ve huzurlu bir ortam sunuyor. Ziyaretçiler, bu güzel tepeyi keşfederek, doğanın güzelliğini görebilir.
 
 ## Tarihçe
 

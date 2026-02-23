@@ -28,7 +28,7 @@ wikidata_id: "Q31545771"
 
 # Emino Tepesi
 
-Emino Tepesi, Batman şehrinin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepenin etrafında şehrin panorama manzarasını izleme fırsatı buluyoruz. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehir hayatından uzaklaşmak isteyenler için ideal bir kaçış noktası. Emino Tepesi, misafirlerine doğayla iç içe bir alan sunuyor. Burada, şehrin gürültüsünden uzaklaşıp doğanın sesine kula verebilirsiniz.
+Emino Tepesi, Batman şehrinin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepenin etrafında şehrin panorama manzarasını izleme fırsatı buluyoruz. Emino Tepesi, misafirlerine doğayla iç içe bir alan sunuyor. Burada, şehrin gürültüsünden uzaklaşıp doğanın sesine kula verebilirsiniz.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Emino Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu tepe
 
 ## Coğrafya
 
-Emino Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir nokta. Bu tepe, bölgenin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafında, şehrin geniş panoraması encontrando. Emino Tepesi, 140 hektarlık bir alanı kapsıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, misafirlerine doğayla iç içe bir deneyim sunuyor. Burada, şehrin gürültüsünden uzaklaşıp, doğanın sesine kula verebilirsiniz. Emino Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi çeşitliliğini ortaya koyuyor.
+Emino Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını yansıtan önemli bir nokta. Bu tepe, bölgenin karakteristik coğrafi özelliklerini taşıyor. Tepenin etrafında, şehrin geniş panoraması encontrando. Bu geniş alan, misafirlerine doğayla iç içe bir deneyim sunuyor. Burada, şehrin gürültüsünden uzaklaşıp, doğanın sesine kula verebilirsiniz. Emino Tepesi, çevresindeki diğer tepe ve dağlarla birlikte, bölgenin coğrafi çeşitliliğini ortaya koyuyor.
 
 ## Flora ve Fauna
 
@@ -51,5 +51,5 @@ Emino Tepesi'ni ziyaret etmek, doğa severler için unutulmaz bir deneyim olacak
 - Emino Tepesi, Batman şehrinin en yüksek noktalarından biri.
 - Tepenin etrafında, şehrin geniş panoraması encontrando.
 - Emino Tepesi, 140 hektarlık bir alanı kapsıyor.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Tepenin etrafında, yürüyüş parkurları ve piknik alanları bulunuyor.

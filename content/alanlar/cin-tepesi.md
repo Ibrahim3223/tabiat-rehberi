@@ -28,7 +28,7 @@ wikidata_id: "Q31539200"
 
 # Cin Tepesi
 
-Cin Tepesi, Siirt'in merkezi bir konumunda yer alıyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin eteklerinde çeşitli bitki türleri yer alıyor. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Tepenin zirvesinden ise Siirt şehrinin panoramik manzarasını izleme mümkün.
+Cin Tepesi, Siirt'in merkezi bir konumunda yer alıyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor. Tepenin eteklerinde çeşitli bitki türleri yer alıyor. Bu bitki türleri, tepeye renkli bir görünüm kazandırıyor. Tepenin zirvesinden ise Siirt şehrinin panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Cin Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin önemli yerlerinden
 
 ## Flora ve Fauna
 
-Cin Tepesi, flora ve fauna açısından oldukça zengin. Tepenin eteklerinde yer alan çeşitli bitki türleri, tepeye renkli bir görünüm kazandırıyor. Bu bitki türleri, mevsimsel değişimlere göre farklı renkler alıyor. Tepede yer alan ağaçlar, tepeye gölgeli bir atmosfer kazandırıyor. Tepenin faunaında da çeşitli canlılar yer alıyor. Tepede yer alan kuş türleri, tepeye farklı bir ses kazandırıyor.
+ Tepenin eteklerinde yer alan çeşitli bitki türleri, tepeye renkli bir görünüm kazandırıyor. Bu bitki türleri, mevsimsel değişimlere göre farklı renkler alıyor. Tepede yer alan ağaçlar, tepeye gölgeli bir atmosfer kazandırıyor. Tepenin faunaında da çeşitli canlılar yer alıyor. Tepede yer alan kuş türleri, tepeye farklı bir ses kazandırıyor.
 
 ## Ziyaret Bilgileri
 
@@ -52,4 +52,4 @@ Cin Tepesi'ni ziyaret etmek, Siirt'te yapabileceğiniz en iyi aktivitelerden bir
 - Tepenin eteklerinde çeşitli bitki türleri yer alıyor.
 - Tepenin zirvesinden Siirt şehrinin panoramik manzarasını izleme mümkün.
 - Tepede yer alan tarihi kalıntılar, buranın geçmişini anlatıyor.
-- Cin Tepesi, flora ve fauna açısından oldukça zengin.
+

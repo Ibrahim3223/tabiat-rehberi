@@ -29,7 +29,7 @@ wikidata_id: "Q32210960"
 
 # Küçükerik Tepesi
 
-Küçükerik Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Doğal güzelliği ve coğrafi yapısı ile dikkat çeken Küçükerik Tepesi, ziyaretçilerini doğanın içlerinde bir maceraya davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için önemli bir destinasyon haline getiriyor.
+Küçükerik Tepesi, Çankırı'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Doğal güzelliği ve coğrafi yapısı ile dikkat çeken Küçükerik Tepesi, ziyaretçilerini doğanın içlerinde bir maceraya davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için önemli bir destinasyon haline getiriyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31389212"
 
 # Mandıra Tepesi
 
-Mandıra Tepesi, İstanbul'un Marmara Bölgesi'nde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Mandıra Tepesi, aynı zamanda şehir hayatından uzaklaşma ve doğanın güzelliklerini keşfetmek isteyenler için bir kaçış noktası olarak da kullanılır.
+Mandıra Tepesi, İstanbul'un Marmara Bölgesi'nde yer alan ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan bir tepe. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur. Mandıra Tepesi, aynı zamanda şehir hayatından uzaklaşma ve doğanın güzelliklerini keşfetmek isteyenler için bir kaçış noktası olarak da kullanılır.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Mandıra Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde ye
 
 ## Flora ve Fauna
 
-Mandıra Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Tepenin etrafında, ormanlar, çayırlar ve meralar bulunur. Bu bölgenin flora ve fauna zenginliği, birçok canlı türünün yaşamalarına olanak sağlar. Tepenin etrafındaki akarsular ve göller, bu bölgenin su kaynaklarını oluşturur ve birçok su canlısının yaşamalarına olanak sağlar. Mandıra Tepesi, aynı zamanda birçok kuş türünün yaşam alanı olarak da kullanılır. Bu bölge, mevsimsel değişimlere göre farklı canlı türleri ile karşılaşmak isteyenler için ideal bir destinasyon olarak kullanılır.
+ Tepenin etrafında, ormanlar, çayırlar ve meralar bulunur. Bu bölgenin flora ve fauna zenginliği, birçok canlı türünün yaşamalarına olanak sağlar. Tepenin etrafındaki akarsular ve göller, bu bölgenin su kaynaklarını oluşturur ve birçok su canlısının yaşamalarına olanak sağlar. Mandıra Tepesi, aynı zamanda birçok kuş türünün yaşam alanı olarak da kullanılır. Bu bölge, mevsimsel değişimlere göre farklı canlı türleri ile karşılaşmak isteyenler için ideal bir destinasyon olarak kullanılır.
 
 ## Ziyaret Bilgileri
 

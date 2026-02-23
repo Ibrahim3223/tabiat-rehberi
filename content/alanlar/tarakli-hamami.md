@@ -1,7 +1,7 @@
 ---
 title: "Taraklı Hamamı"
 date: "2026-01-09T23:02:18.285Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sakarya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738839"
 
 # Taraklı Hamamı
 
-Taraklı Hamamı, Sakarya'nın Taraklı ilçesinde yer alan ve Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilen bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet olarak tanımlanabilir. Taraklı Hamamı, yerlilerin ve turistlerin ziyaret ettiği popüler bir noktadır. Bu bölge, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir. Taraklı Hamamı, Sakarya'nın turizm potansiyelini gösteren önemli bir mekândır.
+Taraklı Hamamı, Sakarya'nın Taraklı ilçesinde yer alan ve Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilen bir plajdır. Taraklı Hamamı, yerlilerin ve turistlerin ziyaret ettiği popüler bir noktadır. Bu bölge, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir. Taraklı Hamamı, Sakarya'nın turizm potansiyelini gösteren önemli bir mekândır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Taraklı Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu
 
 ## Coğrafya
 
-Taraklı Hamamı, Sakarya'nın Taraklı ilçesinde yer alan ve Marmara Bölgesi'nin coğrafi yapısına uygun bir şekilde tasarlanmış bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Denizi'ne kıyısı bulunmaktadır. Bu bölge, doğu-batı yönünde uzanan bir kıyı şeridine sahiptir ve kuzey-güney yönünde dağlık bir araziye sahiptir. Taraklı Hamamı, coğrafi olarak zengin bir bölge olup, çeşitli bitki türleri ve hayvanlar tarafından habitat olarak kullanılmaktadır. Bu bölge, ayrıca iklim açısından ılıman bir bölge olup, yaz aylarında sıca ve kış aylarında ılık bir hava düzenine sahiptir. Taraklı Hamamı, coğrafi açıdan önemli bir bölge olup, ziyaretçilerin ilgisini çekmektedir.
+Taraklı Hamamı, Sakarya'nın Taraklı ilçesinde yer alan ve Marmara Bölgesi'nin coğrafi yapısına uygun bir şekilde tasarlanmış bir plajdır. Bu bölge, doğu-batı yönünde uzanan bir kıyı şeridine sahiptir ve kuzey-güney yönünde dağlık bir araziye sahiptir. Taraklı Hamamı, coğrafi olarak zengin bir bölge olup, çeşitli bitki türleri ve hayvanlar tarafından habitat olarak kullanılmaktadır. Bu bölge, ayrıca iklim açısından ılıman bir bölge olup, yaz aylarında sıca ve kış aylarında ılık bir hava düzenine sahiptir. Taraklı Hamamı, coğrafi açıdan önemli bir bölge olup, ziyaretçilerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Taraklı Hamamı, ziyaretçilerin ilgisini çekmektedir. Bu bölge, özellikle y
 ## İlginç Bilgiler
 
 - Taraklı Hamamı, 140 hektarlık bir yeşil alana sahiptir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Taraklı Hamamı, Marmara Bölgesi'nin en önemli turizm noktalarından biridir.
 - Bu bölge, doğa severler için bir cennet olarak tanımlanabilir.
 - Taraklı Hamamı, Sakarya'nın turizm potansiyelini gösteren önemli bir mekândır.

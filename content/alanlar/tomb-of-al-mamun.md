@@ -24,7 +24,7 @@ wikidata_id: "Q43033533"
 
 # Tomb of al-Ma'mun
 
-Tomb of al-Ma'mun, Tarsus'un tarihi plajı olarak bilinen ve Kilikya'nın önemli dini merkezlerinden biri olarak kabul edilen bir alandır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Tarihi geçmişi ve dini önemi ile dikkat çeken bu bölge, aynı zamanda doğal güzellikleri ile de ziyaretçilerini etkilemektedir. Tarsus'un merkezine yakın bir konumda bulunan Tomb of al-Ma'mun, şehrin önemli turistik noktalarından biri olarak kabul edilmektedir.
+Tomb of al-Ma'mun, Tarsus'un tarihi plajı olarak bilinen ve Kilikya'nın önemli dini merkezlerinden biri olarak kabul edilen bir alandır. Tarihi geçmişi ve dini önemi ile dikkat çeken bu bölge, aynı zamanda doğal güzellikleri ile de ziyaretçilerini etkilemektedir. Tarsus'un merkezine yakın bir konumda bulunan Tomb of al-Ma'mun, şehrin önemli turistik noktalarından biri olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -32,7 +32,7 @@ Tomb of al-Ma'mun'un tarihi geçmişi, Kilikya'nın dini merkezi olarak kabul ed
 
 ## Coğrafya
 
-Tomb of al-Ma'mun, Tarsus'un merkezine yakın bir konumda bulunmaktadır. Bu bölge, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, bu bölge İç Anadolu Bölgesi'nde yer almaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal bir iklimdir. Yaz aylarında sıcaklık yüksek, kış aylarında ise soğukluk hakimdir. Tomb of al-Ma'mun'un coğrafi konumu, ziyaretçilerine geniş bir yeşil alan sunmaktadır. Bu bölge, aynı zamanda doğal güzellikleri ile de ziyaretçilerini etkilemektedir. Çevre, históri ve dini yapılar ile dolu olup, ziyaretçilere zengin bir kültürel deneyim sunmaktadır.
+Tomb of al-Ma'mun, Tarsus'un merkezine yakın bir konumda bulunmaktadır. Coğrafi olarak, bu bölge İç Anadolu Bölgesi'nde yer almaktadır. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde, karasal bir iklimdir. Yaz aylarında sıcaklık yüksek, kış aylarında ise soğukluk hakimdir. Tomb of al-Ma'mun'un coğrafi konumu, ziyaretçilerine geniş bir yeşil alan sunmaktadır. Bu bölge, aynı zamanda doğal güzellikleri ile de ziyaretçilerini etkilemektedir. Çevre, tarihi ve dini yapılar ile dolu olup, ziyaretçilere zengin bir kültürel deneyim sunmaktadır.
 
 ## Flora ve Fauna
 

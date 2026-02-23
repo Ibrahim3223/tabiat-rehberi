@@ -28,7 +28,7 @@ wikidata_id: "Q31387522"
 
 # Tırkes Tepe
 
-Tırkes Tepe, Çanakkale'nin önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve çevresi çeşitli bitki türleriyle çevrili olan bir doğa harikasıdır. Tırkes Tepe, ziyaretçilerini güler yüzlü bir şekilde karşılar ve onlara eşsiz bir manzara sunar. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir ziyaret noktasıdır.
+Tırkes Tepe, Çanakkale'nin önemli doğal güzelliklerinden biridir. Tırkes Tepe, ziyaretçilerini güler yüzlü bir şekilde karşılar ve onlara eşsiz bir manzara sunar. Bu tepe, hem doğa severler hem de tarih meraklıları için önemli bir ziyaret noktasıdır.
 
 ## Tarihçe
 

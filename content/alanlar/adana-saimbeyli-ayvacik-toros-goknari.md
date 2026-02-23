@@ -22,7 +22,7 @@ wikidata_id: "Q108228461"
 
 # Adana-Saimbeyli-Ayvacik Toros Goknari
 
-Adana-Saimbeyli-Ayvacik Toros Goknari milli parkı, Akdeniz Bölgesi'nin en güzel köşelerinden biri olarak biliniyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Milli parkın sunduğu güzellikler, burada geçirilen her anın keyifli ve huzurlu olmasını sağlıyor. Doğa severler için cennet gibi bir yer olan Toros Goknari, ziyaretçilerine unutulmaz anlar yaşatıyor.
+Adana-Saimbeyli-Ayvacik Toros Goknari milli parkı, Akdeniz Bölgesi'nin en güzel köşelerinden biri olarak biliniyor. Milli parkın sunduğu güzellikler, burada geçirilen her anın keyifli ve huzurlu olmasını sağlıyor.
 
 ## Tarihçe
 

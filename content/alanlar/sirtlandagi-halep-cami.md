@@ -22,7 +22,7 @@ wikidata_id: "Q108227057"
 
 # Sırtlandağı Halep Çamı
 
-Sırtlandağı Halep Çamı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında önemli bir yere sahiptir. 140 hektarlık geniş bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde bir milli park olan bu alan, ziyaretçilerine geniş ve yeşil bir ortam sunar. Burada bulunan Halep çamları, bölgeye özgü bitki türleri ve çeşitli fauna, bu milli parkın doğal güzelliğini artırır. Ziyaretçiler, bu milli parkta doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilir.
+Sırtlandağı Halep Çamı, İç Anadolu Bölgesi'nin doğal güzellikleri arasında önemli bir yere sahiptir. Burada bulunan Halep çamları, bölgeye özgü bitki türleri ve çeşitli fauna, bu milli parkın doğal güzelliğini artırır. Ziyaretçiler, bu milli parkta doğa yürüyüşü yapabilir, piknik alanlarında dinlenebilir ve çevreyi keşfedebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sırtlandağı Halep Çamı'nın tarihi geçmişi, yüzyıllar boyunca bölgenin
 
 ## Coğrafya
 
-Sırtlandağı Halep Çamı, İç Anadolu Bölgesi'nde yer alan bir milli parktır. 140 hektarlık geniş bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Burada bulunan Halep çamları, bölgenin iklimini ve toprak yapısını etkileyen önemli bir bileşendir. Bu milli park, bölgenin ekolojik dengesini korur ve yaban hayatının korunmasına katkıda bulunur. Milli parkın coğrafi yapısı, ziyaretçilerin doğa yürüyüşü yapmasına, piknik alanlarında dinlenmesine ve çevreyi keşfetmesine olanak tanır. Ayrıca, bu alan, çeşitli fauna ve flora türlerine ev sahipliği yapar.
+Sırtlandağı Halep Çamı, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Burada bulunan Halep çamları, bölgenin iklimini ve toprak yapısını etkileyen önemli bir bileşendir. Bu milli park, bölgenin ekolojik dengesini korur ve yaban hayatının korunmasına katkıda bulunur. Milli parkın coğrafi yapısı, ziyaretçilerin doğa yürüyüşü yapmasına, piknik alanlarında dinlenmesine ve çevreyi keşfetmesine olanak tanır. Ayrıca, bu alan, çeşitli fauna ve flora türlerine ev sahipliği yapar.
 
 ## Flora ve Fauna
 

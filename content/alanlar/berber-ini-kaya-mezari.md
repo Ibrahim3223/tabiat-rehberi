@@ -29,7 +29,7 @@ wikidata_id: "Q134728174"
 
 # Berber İni Kaya Mezarı
 
-Berber İni Kaya Mezarı, Muğla'nın Milas ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir destinasyondur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan içinde bulunuyor. Berber İni Kaya Mezarı, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan bir tarihi geçmişi sunuyor. Bu mezar, ziyaretçilerini geçmişe götürerek, tarihi ve kültürel zenginliklerin keşfedilmesine olanak sağlıyor. Doğal güzellikleri ve tarihi önemi ile Berber İni Kaya Mezarı, ziyaretçilerini büyüleyen bir yer.
+Berber İni Kaya Mezarı, Muğla'nın Milas ilçesinde yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir destinasyondur. Berber İni Kaya Mezarı, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyan bir tarihi geçmişi sunuyor. Bu mezar, ziyaretçilerini geçmişe götürerek, tarihi ve kültürel zenginliklerin keşfedilmesine olanak sağlıyor. Doğal güzellikleri ve tarihi önemi ile Berber İni Kaya Mezarı, ziyaretçilerini büyüleyen bir yer.
 
 ## Tarihçe
 

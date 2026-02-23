@@ -28,7 +28,7 @@ wikidata_id: "Q31386229"
 
 # Pemuklukır Tepesi
 
-Pemuklukır Tepesi, Hatay'ın Akdeniz Bölgesi'nde yer alan ve ziyaretçilerini büyüleyici manzarasıyla karşılayan görkemli bir doğal güzelliktir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir. Pemuklukır Tepesi, çevresindeki diğer tepelerle birlikte bir bütün olarak, bölgenin coğrafi yapısını şekillendirmiş ve yüzyıllar boyunca insanların yaşadığı, çalıştığı ve doğayla iç içe olduğu bir mekan olmuştur.
+Pemuklukır Tepesi, Hatay'ın Akdeniz Bölgesi'nde yer alan ve ziyaretçilerini büyüleyici manzarasıyla karşılayan görkemli bir doğal güzelliktir. Bu tepe, hem doğa severler hem de tarih meraklıları için bir hazine niteliğindedir. Pemuklukır Tepesi, çevresindeki diğer tepelerle birlikte bir bütün olarak, bölgenin coğrafi yapısını şekillendirmiş ve yüzyıllar boyunca insanların yaşadığı, çalıştığı ve doğayla iç içe olduğu bir mekan olmuştur.
 
 ## Tarihçe
 

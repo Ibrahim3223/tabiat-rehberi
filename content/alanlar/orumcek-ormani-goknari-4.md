@@ -23,7 +23,7 @@ wikidata_id: "Q108227149"
 
 # Örümcek Ormani Goknari 4
 
-Örümcek Ormani Goknari 4, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak dikkat çekiyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, doğa severler ve yaban hayatı ile ilgilenenler için bir cennet olarak kabul ediliyor. Burada çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Örümcek Ormani Goknari 4, ziyaretçilerini doğanın güzelliği ve sakinliği ile baş başa bırakarak, unutulmaz bir deneyim sunuyor.
+Örümcek Ormani Goknari 4, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak dikkat çekiyor. Burada çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Örümcek Ormani Goknari 4, ziyaretçilerini doğanın güzelliği ve sakinliği ile baş başa bırakarak, unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

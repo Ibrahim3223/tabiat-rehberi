@@ -29,7 +29,7 @@ wikidata_id: "Q134728085"
 
 # Publius Varius Aquila Mezarı
 
-Publius Varius Aquila Mezarı, Çanakkale'nin Ayvacık ilçesinde, Marmara Bölgesi'nin önemli tarihi noktalarından biri olarak dikkat çekiyor. Bu tarihi mezar, antik dönemden günümüze ulaşan nadir yapılardan biri olarak biliniyor. 140 hektarlık bir alan üzerinde yer alan mezar, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tarihi geçmişi ve zengin kültürel mirası ile ziyaretçilerini bekleyen Publius Varius Aquila Mezarı, Marmara Bölgesi'nin en önemli turizm noktalarından biri haline gelmiş durumda.
+Publius Varius Aquila Mezarı, Çanakkale'nin Ayvacık ilçesinde, Marmara Bölgesi'nin önemli tarihi noktalarından biri olarak dikkat çekiyor. Bu tarihi mezar, antik dönemden günümüze ulaşan nadir yapılardan biri olarak biliniyor. Tarihi geçmişi ve zengin kültürel mirası ile ziyaretçilerini bekleyen Publius Varius Aquila Mezarı, Marmara Bölgesi'nin en önemli turizm noktalarından biri haline gelmiş durumda.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Publius Varius Aquila Mezarı, tarihi geçmişi ile dikkat çekiyor. Antik döne
 
 ## Coğrafya
 
-Publius Varius Aquila Mezarı, Çanakkale'nin Ayvacık ilçesinde, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. 140 hektarlık bir alan üzerinde kurulmuş olan mezar, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Mezarın etrafı, çeşitli bitki türleri ile kaplı bir doğal alan olarak dikkat çekiyor. Mevsimsel değişimlere göre farklı renklerde ve formlarda görünen bu bitki türleri, mezarın doğal güzelliğine katkıda bulunuyor. Mezarın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak ılıman bir yapıya sahip. Mezarın bulunduğu alan, ziyaretçilere geniş bir açıyla Marmara Denizi'ni ve çevresindeki dağları izleme imkanı sunuyor.
+Publius Varius Aquila Mezarı, Çanakkale'nin Ayvacık ilçesinde, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Mezarın etrafı, çeşitli bitki türleri ile kaplı bir doğal alan olarak dikkat çekiyor. Mevsimsel değişimlere göre farklı renklerde ve formlarda görünen bu bitki türleri, mezarın doğal güzelliğine katkıda bulunuyor. Mezarın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak ılıman bir yapıya sahip. Mezarın bulunduğu alan, ziyaretçilere geniş bir açıyla Marmara Denizi'ni ve çevresindeki dağları izleme imkanı sunuyor.
 
 ## Flora ve Fauna
 

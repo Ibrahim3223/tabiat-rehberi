@@ -34,7 +34,7 @@ wikidata_id: "Q6037673"
 
 ## Tarihçe
 
-Kızıldağ Millî Parkı, 1969 yılında milli park olarak ilan edilmiştir. Ancak bölgenin tarihi çok daha eskilere dayanıyor. Parkın içinde bulunan höyükler ve tarihi kalıntılar, bölgenin insan yerleşimine uygun olduğunu gösteriyor. Parkın çevresi, histórik olarak önemli ticaret yollarına ev sahipliği yapmış ve bu nedenle stratejik öneme sahip olmuştur. Bölge, Roma ve Bizans dönemlerinde de önemli bir yerleşim merkezi olarak kullanılmıştır. Kızıldağ Millî Parkı, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbediyor.
+Kızıldağ Millî Parkı, 1969 yılında milli park olarak ilan edilmiştir. Ancak bölgenin tarihi çok daha eskilere dayanıyor. Parkın içinde bulunan höyükler ve tarihi kalıntılar, bölgenin insan yerleşimine uygun olduğunu gösteriyor. Parkın çevresi, tarihi olarak önemli ticaret yollarına ev sahipliği yapmış ve bu nedenle stratejik öneme sahip olmuştur. Bölge, Roma ve Bizans dönemlerinde de önemli bir yerleşim merkezi olarak kullanılmıştır. Kızıldağ Millî Parkı, hem doğal güzellikleri hem de tarihi önemi ile ziyaretçilerini cezbediyor.
 
 ## Coğrafya
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228583"
 
 # Kayseri-Develi-Toros Goknari
 
-Kayseri-Develi-Toros Goknari milli parkı, İç Anadolu Bölgesi'nin gözde destinasyonlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Toros Dağları'nın eteklerinde yer alan bu milli park, zengin florası ve faunasıyla doğa severlerin ilgisini çekiyor. Kayseri ilinin Develi ilçesinde bulunan milli park, şehir merkezine khong 40 kilometre uzaklıkta yer alıyor.
+Kayseri-Develi-Toros Goknari milli parkı, İç Anadolu Bölgesi'nin gözde destinasyonlarından biri olarak dikkat çekiyor. Toros Dağları'nın eteklerinde yer alan bu milli park, zengin florası ve faunasıyla doğa severlerin ilgisini çekiyor. Kayseri ilinin Develi ilçesinde bulunan milli park, şehir merkezine khong 40 kilometre uzaklıkta yer alıyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34873194"
 
 # Gündürha Tepesi
 
-Gündürha Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak Diyarbakır'da yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Gündürha Tepesi, ziyaretçilerine bölgenin tarihi ve doğal güzelliklerini keşfetme imkanı sunar. Tepenin eteklerinde yer alan yerleşim yerleri, ziyaretçilere bölge hakkında bilgi vermekte ve bölgenin kültürel zenginliğini gözler önüne sermekte.
+Gündürha Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olarak Diyarbakır'da yer alır. Gündürha Tepesi, ziyaretçilerine bölgenin tarihi ve doğal güzelliklerini keşfetme imkanı sunar. Tepenin eteklerinde yer alan yerleşim yerleri, ziyaretçilere bölge hakkında bilgi vermekte ve bölgenin kültürel zenginliğini gözler önüne sermekte.
 
 ## Tarihçe
 

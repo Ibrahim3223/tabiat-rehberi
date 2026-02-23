@@ -30,7 +30,7 @@ wikidata_id: "Q135582415"
 
 # Güdük Minare
 
-Güdük Minare, Sivas ilinin merkezinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Güdük Minare, Sivas'ın en önemli turizm noktalarından biridir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Bu plaj, doğal güzelliği ve tarihi önemi ile dikkat çeker. Ziyaretçiler, plajda güneşlenmek, denize girme ve çeşitli su sporları yapmak için gelirler.
+Güdük Minare, Sivas ilinin merkezinde yer alan bir plajdır. Güdük Minare, Sivas'ın en önemli turizm noktalarından biridir ve her yıl binlerce ziyaretçi tarafından tercih edilir. Bu plaj, doğal güzelliği ve tarihi önemi ile dikkat çeker. Ziyaretçiler, plajda güneşlenmek, denize girme ve çeşitli su sporları yapmak için gelirler.
 
 ## Tarihçe
 

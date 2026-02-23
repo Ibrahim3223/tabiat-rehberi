@@ -28,7 +28,7 @@ wikidata_id: "Q31385776"
 
 # Halilbaba Tepesi
 
-Halilbaba Tepesi, Yozgat'ın merkezine yakın bir konumda yer alır ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çeker. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Doğal güzellikleri ve tarihi geçmişiyle birlikte, Halilbaba Tepesi, ziyaretçilerine hem doğayı hem de kültürel zenginliği deneyimleme fırsatı sunar.
+Halilbaba Tepesi, Yozgat'ın merkezine yakın bir konumda yer alır ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çeker. Doğal güzellikleri ve tarihi geçmişiyle birlikte, Halilbaba Tepesi, ziyaretçilerine hem doğayı hem de kültürel zenginliği deneyimleme fırsatı sunar.
 
 ## Tarihçe
 

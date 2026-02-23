@@ -28,7 +28,7 @@ wikidata_id: "Q31386218"
 
 # Kapdağı Tepe
 
-Kapdağı Tepe, Şanlıurfa'nın Güneydoğu Anadolu Bölgesi'nde yer alan tarihi ve doğal güzellikleriyle dolu bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli tarihi ve turistik mekanlarından biri olarak kabul ediliyor. Bu tepe, aynı zamanda bölgenin coğrafi yapısını da şekillendiren önemli bir nokta olarak görülüyor. Kapdağı Tepe, ziyaretçilerini tarihi ve doğal güzelliklerinin yanı sıra, bölgenin kültürel zenginliklerine de tanık olmaya davet ediyor.
+Kapdağı Tepe, Şanlıurfa'nın Güneydoğu Anadolu Bölgesi'nde yer alan tarihi ve doğal güzellikleriyle dolu bir alan olarak dikkat çekiyor. Bu tepe, aynı zamanda bölgenin coğrafi yapısını da şekillendiren önemli bir nokta olarak görülüyor. Kapdağı Tepe, ziyaretçilerini tarihi ve doğal güzelliklerinin yanı sıra, bölgenin kültürel zenginliklerine de tanık olmaya davet ediyor.
 
 ## Tarihçe
 

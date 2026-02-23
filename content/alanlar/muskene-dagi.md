@@ -50,9 +50,9 @@ Doğal güzelliği ve jeolojik yapısıyla dikkat çeken Müşkene Dağı, yakla
 
 Müşkene Dağı, Gümüşhane'nin nemli ikliminde gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göç eden kuşlar dağların üzerinden geçer.
 
-Bitki örtüsünü oluşturan geniş yapraklı ağaçlar ve iğne yapraklı türler, mevsimsel değişimlere adapte olmuşlardır. Dağın yükseklik zonlarına göre değişen flora, alpin çayırlar ve yüksek dağ bitkilerine ev sahipliği yapar. 
+Bitki örtüsünü oluşturan geniş yapraklı ağaçlar ve iğne yapraklı türler, mevsimsel değişimlere adapte olmuşlardır. Dağın yükseklik zonlarına göre değişen flora, alpin çayırlar ve yüksek dağ bitkilerine ev sahipliği yapar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri ve sürüngenler de bu ekosistemin bir parçasıdır. Bu canlılar, yaşam alanlarıyla birlikte, dağ ekosisteminin dengesini sağlarlar. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksek kesimlerinde yaşarken, çeşitli kuş türleri ve sürüngenler de bu ekosistemin bir parçasıdır. Bu canlılar, yaşam alanlarıyla birlikte, dağ ekosisteminin dengesini sağlarlar.
 
 Müşkene Dağı'nın ekolojik değeri, yüksek biyoçeşitliliğinden kaynaklanır. Bu dağ ekosisteminin korunması, bölgenin doğal dengesini korumak için önemlidir.
 

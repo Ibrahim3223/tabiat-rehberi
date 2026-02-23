@@ -51,11 +51,11 @@ Jeolojik açıdan bakıldığında, Mençuna Şelalesi çevresindeki arazi, karm
 
 ## Flora ve Fauna
 
-Mençuna Şelalesi, Artvin'in nemli ikliminin hakim olduğu bir jeoparktır. Bu bölge, gür ormanlarla kaplıdır ve yüksek biyoçeşitlilik sunar. 
+Mençuna Şelalesi, Artvin'in nemli ikliminin hakim olduğu bir jeoparktır. Bu bölge, gür ormanlarla kaplıdır ve yüksek biyoçeşitlilik sunar.
 
-Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, ilkbaharın gelişiyle birlikte renkli çiçeklerle donanır. Sonbahar mevsiminde, ağaçların sarı, turuncu ve kırmızı tonlarına bürünmesi, bu alanı ziyaret edenleri etkileyen bir manzara sunar. 
+Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, ilkbaharın gelişiyle birlikte renkli çiçeklerle donanır. Sonbahar mevsiminde, ağaçların sarı, turuncu ve kırmızı tonlarına bürünmesi, bu alanı ziyaret edenleri etkileyen bir manzara sunar.
 
-Yaban hayatı, orman memelileri ve çeşitli kuş türleriyle zengindir. Bu bölgede, ormanların derinliklerinde yaşayan memeliler, ağaçların gölgesinde barınır ve orman ürünlerine bağımlıdır. Kuşlar ise, göç mevsimlerinde buraya uğrar ve ormanların yükseklikleri arasında yuvalanır. 
+Yaban hayatı, orman memelileri ve çeşitli kuş türleriyle zengindir. Bu bölgede, ormanların derinliklerinde yaşayan memeliler, ağaçların gölgesinde barınır ve orman ürünlerine bağımlıdır. Kuşlar ise, göç mevsimlerinde buraya uğrar ve ormanların yükseklikleri arasında yuvalanır.
 
 Bu ekosistemin korunması, bölgenin yüksek biyoçeşitliliğini sürdürmek için önemlidir. Mençuna Şelalesi, doğal güzelliği ve biyoçeşitliliğiyle birlikte, ziyaretçilerini etkileyen bir doğa harikasıdır.
 

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Mesud Türbesi"
 date: "2026-01-10T06:04:39.371Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390484"
 
 # Şeyh Mesud Türbesi
 
-Şeyh Mesud Türbesi, Güneydoğu Anadolu Bölgesi'nin Eyyübiye ilçesinde yer alan tarihi ve doğal bir güzelliktir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Bu bölge, tarihsel önemi ve doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, buradaki tarihi yapıları ve doğal güzellikleri keşfederek, tarihin izlerini sürebiliyorlar.
+Şeyh Mesud Türbesi, Güneydoğu Anadolu Bölgesi'nin Eyyübiye ilçesinde yer alan tarihi ve doğal bir güzelliktir. Bu bölge, tarihsel önemi ve doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, buradaki tarihi yapıları ve doğal güzellikleri keşfederek, tarihin izlerini sürebiliyorlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390484"
 
 ## Coğrafya
 
-Şeyh Mesud Türbesi, Eyyübiye ilçesinde yer alıyor ve coğrafi olarak zengin bir bölgede bulunuyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve coğrafi olarak çeşitli yüksekliklere sahip. Bu bölgenin coğrafyası, ziyaretçilere farklı manzaralar sunuyor. Şeyh Mesud Türbesi'nin coğrafi konumu, tarihsel önemi ve doğal güzelliği ile dikkat çekiyor. Bu bölge, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin. Coğrafi konum, ziyaretçilere bu bölgenin güzelliklerini keşfetme fırsatı sunuyor.
+Şeyh Mesud Türbesi, Eyyübiye ilçesinde yer alıyor ve coğrafi olarak zengin bir bölgede bulunuyor. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, ziyaretçilere farklı manzaralar sunuyor. Şeyh Mesud Türbesi'nin coğrafi konumu, tarihsel önemi ve doğal güzelliği ile dikkat çekiyor. Bu bölge, coğrafi olarak çeşitli bitki türleri ve fauna ile zengin. Coğrafi konum, ziyaretçilere bu bölgenin güzelliklerini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

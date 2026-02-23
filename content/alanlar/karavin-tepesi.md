@@ -28,7 +28,7 @@ wikidata_id: "Q31387473"
 
 # Karavin Tepesi
 
-Karavin Tepesi, Van şehrinin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor. Karavin Tepesi, aynı zamanda Van şehrinin panoramik manzarasına sahip, ziyaretçilerin keyifli anlar geçirebileceği bir nokta olarak öne çıkıyor.
+Karavin Tepesi, Van şehrinin kalbinde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor. Karavin Tepesi, aynı zamanda Van şehrinin panoramik manzarasına sahip, ziyaretçilerin keyifli anlar geçirebileceği bir nokta olarak öne çıkıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karavin Tepesi'nin tarihi geçmişi, bölgenin kültürel mirasıyla iç içe ge
 
 ## Coğrafya
 
-Karavin Tepesi, Doğu Anadolu Bölgesi'nin Van şehrinde yer alan bir tepe olarak coğrafi açıdan önemli bir konumda bulunuyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor. Karavin Tepesi, Van şehrinin panoramik manzarasına sahip, ziyaretçilerin keyifli anlar geçirebileceği bir nokta olarak öne çıkıyor. Tepenin coğrafi konumu, ziyaretçilerin Van şehrinin tarihi ve kültürel mirasını keşfetmelerine de olanak tanıyor.
+Karavin Tepesi, Doğu Anadolu Bölgesi'nin Van şehrinde yer alan bir tepe olarak coğrafi açıdan önemli bir konumda bulunuyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliğini deneyimleme fırsatı sunuyor. Karavin Tepesi, Van şehrinin panoramik manzarasına sahip, ziyaretçilerin keyifli anlar geçirebileceği bir nokta olarak öne çıkıyor. Tepenin coğrafi konumu, ziyaretçilerin Van şehrinin tarihi ve kültürel mirasını keşfetmelerine de olanak tanıyor.
 
 ## Flora ve Fauna
 

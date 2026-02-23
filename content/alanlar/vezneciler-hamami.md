@@ -1,7 +1,7 @@
 ---
 title: "Vezneciler Hamamı"
 date: "2026-01-09T22:14:17.669Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q85852396"
 
 # Vezneciler Hamamı
 
-Vezneciler Hamamı, İstanbul'un tarihi dokusunu koruyan önemli mekanlardan biridir. Fatih ilçesinde yer alan bu hamam, Marmara Bölgesi'nin en önemli turistik noktalarından biri olarak kabul edilir. 140 hektarlık bir alan üzerinde kurulmuş olan Vezneciler Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tarihi hamam, ziyaretçilerini geçmişe götürerek unique bir deneyim sunar. Hamamın tarihi geçmişi, İstanbul'un kültürel mirasını anlamak için önemli bir kaynak teşkil eder. Vezneciler Hamamı, hem yerel hem de yabancı turistlerin ilgisini çeker ve İstanbul'un turistik haritasında önemli bir yere sahiptir.
+Vezneciler Hamamı, İstanbul'un tarihi dokusunu koruyan önemli mekanlardan biridir. Fatih ilçesinde yer alan bu hamam, Marmara Bölgesi'nin en önemli turistik noktalarından biri olarak kabul edilir. Bu tarihi hamam, ziyaretçilerini geçmişe götürerek unique bir deneyim sunar. Hamamın tarihi geçmişi, İstanbul'un kültürel mirasını anlamak için önemli bir kaynak teşkil eder. Vezneciler Hamamı, hem yerel hem de yabancı turistlerin ilgisini çeker ve İstanbul'un turistik haritasında önemli bir yere sahiptir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Vezneciler Hamamı, İstanbul'un tarihi geçmişinde önemli bir yere sahiptir. 
 
 ## Coğrafya
 
-Vezneciler Hamamı, İstanbul'un Fatih ilçesinde yer alan bir tarihi hamamdır. Marmara Bölgesi'nde bulunan bu hamam, İstanbul'un turistik haritasında önemli bir yere sahiptir. Hamamın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi merkezi olan Sultanahmet Meydanı'na kolayca ulaşma imkanı sunar. Vezneciler Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine geniş bir alanda hizmet verir. Hamamın etrafında, çeşitli tarihi yapılar ve turistik mekanlar bulunur. Vezneciler Hamamı, İstanbul'un tarihi dokusunu koruyan önemli mekanlardan biridir ve ziyaretçilerini geçmişe götürerek unique bir deneyim sunar. Hamamın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi merkezi olan Sultanahmet Meydanı'na kolayca ulaşma imkanı sunar ve thusand İstanbul'un turistik haritasında önemli bir yere sahiptir.
+Vezneciler Hamamı, İstanbul'un Fatih ilçesinde yer alan bir tarihi hamamdır. Marmara Bölgesi'nde bulunan bu hamam, İstanbul'un turistik haritasında önemli bir yere sahiptir. Hamamın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi merkezi olan Sultanahmet Meydanı'na kolayca ulaşma imkanı sunar. Hamamın etrafında, çeşitli tarihi yapılar ve turistik mekanlar bulunur. Vezneciler Hamamı, İstanbul'un tarihi dokusunu koruyan önemli mekanlardan biridir ve ziyaretçilerini geçmişe götürerek unique bir deneyim sunar. Hamamın coğrafi konumu, ziyaretçilerine İstanbul'un tarihi merkezi olan Sultanahmet Meydanı'na kolayca ulaşma imkanı sunar ve thusand İstanbul'un turistik haritasında önemli bir yere sahiptir.
 
 ## Flora ve Fauna
 

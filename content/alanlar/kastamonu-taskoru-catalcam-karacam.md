@@ -22,7 +22,7 @@ wikidata_id: "Q108227951"
 
 # Kastamonu-Taşkörü-Çatalçam Karaçam
 
-Kastamonu-Taşkörü-Çatalçam Karaçam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın derinliklerine davet eder. Burada, Karaçam ağaçlarının gölgesinde, doğanın seslerini dinleyebilir ve yeşilin farklı tonlarını keşfedebilirsiniz. Kastamonu'nun doğal güzellikleri, bu milli parkta bütünüyle yaşanıyor. Doğa severler, bu alanı keşfetmek için sabırsızlanacaktır.
+Kastamonu-Taşkörü-Çatalçam Karaçam milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. Burada, Karaçam ağaçlarının gölgesinde, doğanın seslerini dinleyebilir ve yeşilin farklı tonlarını keşfedebilirsiniz. Kastamonu'nun doğal güzellikleri, bu milli parkta bütünüyle yaşanıyor. Doğa severler, bu alanı keşfetmek için sabırsızlanacaktır.
 
 ## Tarihçe
 

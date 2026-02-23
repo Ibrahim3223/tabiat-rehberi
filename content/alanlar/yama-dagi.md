@@ -33,7 +33,7 @@ Malatya'nın doğal güzelliklerinin arasında yer alan Yama Dağı, şehrin pan
 
 ## Tarihçe
 
-Malatya'nın doğusunda yer alan Yama Dağı, ülkenin zengin tarihsel dokusunun bir parçası olarak dikkat çekiyor. Bu bölge, tarihin farklı dönemlerinde Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyor. Malatya, histórik olarak önemli ticaret yollarının kesişme noktasında bulunması nedeniyle her dönemde çeşitli kültürel etkileşimlere sahne olmuş bir bölgedir.
+Malatya'nın doğusunda yer alan Yama Dağı, ülkenin zengin tarihsel dokusunun bir parçası olarak dikkat çekiyor. Bu bölge, tarihin farklı dönemlerinde Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyor. Malatya, tarihi olarak önemli ticaret yollarının kesişme noktasında bulunması nedeniyle her dönemde çeşitli kültürel etkileşimlere sahne olmuş bir bölgedir.
 
 Doğal güzellikleri ve stratejik konumuyla Yama Dağı, bölgenin tarihi boyunca insanların yaşamına farklı şekillerde dahil olmuştur. Yaylacılık ve hayvancılık faaliyetleri, bu tür doğal alanların insan yaşamındaki önemini vurguluyor. Türkiye'de, özellikle iç ve doğu bölgelerde, bu gibi dağlık alanlar altijd insanların geçim kaynakları olmuştur. Ayrıca, tarihi ticaret yollarının güzergahları üzerinde bulunan bu doğal güzellikler, seyahat edenler için önemli mola noktaları olarak hizmet vermiştir.
 
@@ -51,13 +51,13 @@ Jeolojik açıdan bakıldığında, Yama Dağı'nın fiziksel yapısı hakkında
 
 ## Flora ve Fauna
 
-Yama Dağı, Malatya'nın yüksek dağ ekosistemine ev sahipliği yapan bir bölge. Bu 1200 hektarlık yeşil cennet, yükseklik zonları ve alpin çayırlarla birlikte, endemik türlerin zenginliğine şahitlik ediyor. 
+Yama Dağı, Malatya'nın yüksek dağ ekosistemine ev sahipliği yapan bir bölge. Bu 1200 hektarlık yeşil cennet, yükseklik zonları ve alpin çayırlarla birlikte, endemik türlerin zenginliğine şahitlik ediyor.
 
-Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçlarını renklendirerek çiçekler açıyor. Sonbaharda ise, yaprakların renk değiştirmesiyle birlikte, dağ manzarası bir başka güzelliğe bürünüyor. 
+Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçlarını renklendirerek çiçekler açıyor. Sonbaharda ise, yaprakların renk değiştirmesiyle birlikte, dağ manzarası bir başka güzelliğe bürünüyor.
 
 Yaban hayatı da oldukça zengin. Dağ keçileri, kurtlar ve ayılar gibi memeliler, dağların yüksek kesimlerinde yaşamlarını sürdürürken, çeşitli kuş türleri göç yolları üzerinde burada konaklıyor. Sürüngenler de bu dağ ekosisteminin bir parçası olarak, kayalık alanlarda yaşamını sürdürüyor.
 
-Bu dağ ekosistemi, yükseklik zonları ve alpin flora ile birlikte, endemik türlerin varlığı nedeniyle ekolojik açıdan önemli bir bölge. Ancak, koruma durumu hala yeterli seviyede değil. Bu nedenle, bu doğal alanın korunması ve gelecek nesiller için bảolanması büyük önem taşıyor.
+Bu dağ ekosistemi, yükseklik zonları ve alpin flora ile birlikte, endemik türlerin varlığı nedeniyle ekolojik açıdan önemli bir bölge. Ancak, koruma durumu hala yeterli seviyede değil. Bu nedenle, bu doğal alanın korunması ve gelecek nesiller için korunması büyük önem taşıyor.
 
 ## Ziyaret Bilgileri
 

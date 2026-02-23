@@ -32,7 +32,7 @@ Kastamonu'nun yeşil dağlarla çevrili manzarası, Eğriceova Dağı gibi doğa
 
 ## Tarihçe
 
-Kastamonu bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Eğriceova Dağı, bu bölgenin önemli doğal güzelliklerinden biridir. Kastamonu, histórik olarak Hitit, Pers, Roma ve Osmanlı gibi medeniyetlerin etki alanına girmiş bir şehirdir. Bu zengin tarihsel miras, bölgenin kültürel ve doğal varlıklarını şekillendirmiştir.
+Kastamonu bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Eğriceova Dağı, bu bölgenin önemli doğal güzelliklerinden biridir. Kastamonu, tarihi olarak Hitit, Pers, Roma ve Osmanlı gibi medeniyetlerin etki alanına girmiş bir şehirdir. Bu zengin tarihsel miras, bölgenin kültürel ve doğal varlıklarını şekillendirmiştir.
 
 Türkiye'de doğal alanlar, tarih boyunca insan yaşamı için önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu alanların ekonomi ve kültür açısından değerini artırmıştır. Kastamonu bölgesinde de, Eğriceova Dağı gibi doğal alanlar, insanların yaşamlarına dahil olmuştur. Bu dağlar, yaylacılık ve hayvancılık faaliyetleri için elverişli ortamlar sunarken, aynı zamanda ticaret yolları için de önemli bir geçiş noktası oluşturmuştur. Bölgenin tarihi ve kültürel zenginliği, Eğriceova Dağı gibi doğal güzelliklerle iç içe geçmiş ve bir bütün olarak değerlendirilmelidir.
 
@@ -48,13 +48,13 @@ Doğal güzelliği ile dikkat çeken Eğriceova Dağı, çevresindeki diğer da�
 
 ## Flora ve Fauna
 
-Eğriceova Dağı, Kastamonu'nun nemli iklimine uyum sağlamış bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Eğriceova Dağı, Kastamonu'nun nemli iklimine uyum sağlamış bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsü olarak, ilkbaharın gelişiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Gür ormanlar, yüksek biyoçeşitlilik sunar. Mevsimsel değişimlerle birlikte, sonbaharda yaprak dökümüyle birlikte dağ manzarası değişir.
 
-Yaban hayatıında, memeliler ve kuşlar dağ ekosisteminin önemli bileşenleridir. Sürüngenler de bu dağlık bölgede yaşamlarını sürdürür. Ekolojik ilişkiler açısından, dağ hayvanları bu ekosisteme bağımlıdır. 
+Yaban hayatıında, memeliler ve kuşlar dağ ekosisteminin önemli bileşenleridir. Sürüngenler de bu dağlık bölgede yaşamlarını sürdürür. Ekolojik ilişkiler açısından, dağ hayvanları bu ekosisteme bağımlıdır.
 
-Eğriceova Dağı, yüksek biyoçeşitlilik nedeniyle ekolojik açıdan önemlidir. Bu dağ ekosisteminin korunması, régionun doğal dengesinin korunması açısından kritik öneme sahiptir.
+Eğriceova Dağı, yüksek biyoçeşitlilik nedeniyle ekolojik açıdan önemlidir. Bu dağ ekosisteminin korunması, bölgenin doğal dengesinin korunması açısından kritik öneme sahiptir.
 
 ## Ziyaret Bilgileri
 

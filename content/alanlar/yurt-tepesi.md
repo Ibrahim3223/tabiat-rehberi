@@ -28,7 +28,7 @@ wikidata_id: "Q32195999"
 
 # Yurt Tepesi
 
-Yurt Tepesi, Gümüşhane'nin güzide tepe noktası olarak Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. yüksek bir konumdate bulunan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrar. Bu bölgede yaban hayatı da oldukça çeşitlilik göstermektedir. Yurt Tepesi, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunmaktadır.
+Yurt Tepesi, Gümüşhane'nin güzide tepe noktası olarak Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrar. Bu bölgede yaban hayatı da oldukça çeşitlilik göstermektedir. Yurt Tepesi, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yurt Tepesi'nin tarihi geçmişi oldukça eskidir. Bu bölge, yüzyıllar boyunc
 
 ## Coğrafya
 
-Yurt Tepesi, Gümüşhane'nin coğrafi yapısı hakkında önemli bilgiler sunan bir bölgedir. Tepenin yüksekliği 1400 metre, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrar. Bu bölgede yaban hayatı da oldukça çeşitlilik göstermektedir. Yurt Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Bölgenin iklimi, bitki örtüsü ve coğrafi yapısı hakkında fikir veren Yurt Tepesi, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunmaktadır. Tepenin konumu, bölgenin diğer önemli doğal güzelliklerine de yakın mesafededir. Bu nedenle, Yurt Tepesi, gezginler için önemli bir destinasyon olarak dikkat çekmektedir.
+Yurt Tepesi, Gümüşhane'nin coğrafi yapısı hakkında önemli bilgiler sunan bir bölgedir. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna encontrar. Bu bölgede yaban hayatı da oldukça çeşitlilik göstermektedir. Yurt Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekmektedir. Bölgenin iklimi, bitki örtüsü ve coğrafi yapısı hakkında fikir veren Yurt Tepesi, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmişi hakkında bilgi edinme fırsatı sunmaktadır. Tepenin konumu, bölgenin diğer önemli doğal güzelliklerine de yakın mesafededir. Bu nedenle, Yurt Tepesi, gezginler için önemli bir destinasyon olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 

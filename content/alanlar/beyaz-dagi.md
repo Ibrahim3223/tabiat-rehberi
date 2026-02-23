@@ -29,7 +29,7 @@ wikidata_id: "Q31387633"
 
 # Beyaz Dağı
 
-Beyaz Dağı, Hakkari'nin dağlık bölgesinde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir dağdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Bu dağ, Hakkari'nin coğrafi yapısını şekillendiren önemli bir unsurdur ve bölgenin tarihçesi açısından da büyük bir öneme sahiptir. Beyaz Dağı, doğa severlerin ve dağcılık tutkunlarının ilgi odağıdır.
+Beyaz Dağı, Hakkari'nin dağlık bölgesinde yer alan ve bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan bir dağdır. Bu dağ, Hakkari'nin coğrafi yapısını şekillendiren önemli bir unsurdur ve bölgenin tarihçesi açısından da büyük bir öneme sahiptir. Beyaz Dağı, doğa severlerin ve dağcılık tutkunlarının ilgi odağıdır.
 
 ## Tarihçe
 

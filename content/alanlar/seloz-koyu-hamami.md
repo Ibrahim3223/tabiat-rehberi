@@ -1,7 +1,7 @@
 ---
 title: "Selöz Köyü Hamamı"
 date: "2026-01-10T04:30:23.973Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bilecik"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738792"
 
 # Selöz Köyü Hamamı
 
-Selöz Köyü Hamamı, Bilecik'in en güzel plajlarından biri olarak bilinir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu alan, yaklaşık 1,5 kilometrelik bir kumsal şeridine sahiptir. Kumsalın genişliği ise 50 metre civarındadır. Selöz Köyü Hamamı, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet eder. Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilen bu yer, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
+Selöz Köyü Hamamı, Bilecik'in en güzel plajlarından biri olarak bilinir. Bu alan, yaklaşık 1,5 kilometrelik bir kumsal şeridine sahiptir. Kumsalın genişliği ise 50 metre civarındadır. Selöz Köyü Hamamı, özellikle yaz aylarında ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet eder. Marmara Bölgesi'nin en güzel plajlarından biri olarak kabul edilen bu yer, hem yerli hem de yabancı turistlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Selöz Köyü Hamamı, Marmara Bölgesi'nin Bilecik ilinde yer alır. Bu bölge,
 
 ## Flora ve Fauna
 
-Selöz Köyü Hamamı, zengin bir flora ve faunaya sahiptir. Plajın etrafında, çeşitli ağaçlar ve bitkiler bulunur. Bu bitkiler, genellikle çam, meşe ve zeytin ağaçlarıdır. Ayrıca, plajın kumsalında ve denizinde, çeşitli canlılar yaşar. Bu canlılar, genellikle balık, yengeç ve midye gibi deniz canlılarıdır. Selöz Köyü Hamamı, özellikle yaz aylarında deniz kaplumbağalarının yuvalanma alanı olarak bilinir. Bu bölge, aynı zamanda çeşitli kuş türlerine de ev sahipliği yapar. Selöz Köyü Hamamı, doğal güzelliği ve zengin fauna çeşitliliği ile birlikte ziyaretçilerine unutulmaz bir deneyim sunar.
+Selöz Köyü Hamamı, zengin bir flora ve faunaya sahiptir. Plajın etrafında, çeşitli ağaçlar ve bitkiler bulunur. Bu bitkiler, genellikle çam, meşe ve zeytin ağaçlarıdır. Ayrıca, plajın kumsalında ve denizinde, çeşitli canlılar yaşar. Bu canlılar, genellikle balık, yengeç ve midye gibi deniz canlılarıdır. Selöz Köyü Hamamı, özellikle yaz aylarında deniz kaplumbağalarının yuvalanma alanı olarak bilinir. Bu bölge, aynı zamanda çeşitli kuş türlerine de ev sahipliği yapar.
 
 ## Ziyaret Bilgileri
 
@@ -53,4 +53,4 @@ Selöz Köyü Hamamı, yıl boyunca ziyaret edilebilir bir yerdir. Ancak, en iyi
 - Plajın kumsalı, yaklaşık 1,5 kilometre uzunluğundadır.
 - Selöz Köyü Hamamı, özellikle yaz aylarında deniz kaplumbağalarının yuvalanma alanı olarak bilinir.
 - Bu bölge, aynı zamanda çeşitli kuş türlerine de ev sahipliği yapar.
-- Selöz Köyü Hamamı, doğal güzelliği ve zengin fauna çeşitliliği ile birlikte ziyaretçilerine unutulmaz bir deneyim sunar.
+

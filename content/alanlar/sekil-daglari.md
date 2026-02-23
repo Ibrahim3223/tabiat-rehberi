@@ -48,7 +48,7 @@ Sekil Dağları'nın iklim karakteri, bölgenin genel iklim koşullarına benzer
 
 ## Flora ve Fauna
 
-Sekil Dağları, yüksek dağ ekolojisinin zenginliklerini sunan bir bölge. 1200 hektarlık bu dağlık alan, Bitlis'in doğal güzelliklerini gözler önüne seriyor. İlkbaharın gelmesiyle, alpin çayırlar renkli çiçeklerle donanıyor. Bu mevsimde, dağların yamaçlarında çeşitli yükseklik zonlarında farklı bitkiler yetişiyor. 
+Sekil Dağları, yüksek dağ ekolojisinin zenginliklerini sunan bir bölge. 1200 hektarlık bu dağlık alan, Bitlis'in doğal güzelliklerini gözler önüne seriyor. İlkbaharın gelmesiyle, alpin çayırlar renkli çiçeklerle donanıyor. Bu mevsimde, dağların yamaçlarında çeşitli yükseklik zonlarında farklı bitkiler yetişiyor.
 
 Yaban hayatı da bir o kadar çeşitlilik gösteriyor. Dağ keçileri ve yaban keçileri, bu bölgenin karakteristik memelileri. Kuşlar ise, özellikle sonbaharda göç ettikleri dönemde, bu dağları ziyaret ediyor. Sürüngenler de, bu yükseklikte yaşamaya adapte olmuş türlerle temsil ediliyor.
 

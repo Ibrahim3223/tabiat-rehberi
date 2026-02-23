@@ -1,7 +1,7 @@
 ---
 title: "Sakarya-Izmit-Kerpe Arastirma Ormani Sahil Cami"
 date: "2026-01-09T19:52:40.687Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Sakarya"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227277"
 
 # Sakarya-Izmit-Kerpe Arastirma Ormani Sahil Cami
 
-Sakarya-Izmit-Kerpe Araştırma Ormanı Sahil Cami, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla baş başa bırakmak için ideal bir ortam sunuyor. Ormanlık alanların yanı sıra sahilin güzelliği ve caminin manevi atmosferi, bu mekanı ziyaret etmek için birçok neden sunuyor. Sakarya ilinin İzmit ilçesinde yer alan bu mekan, bölgenin tarihi ve doğal zenginliklerini bir arada sunuyor.
+Sakarya-Izmit-Kerpe Araştırma Ormanı Sahil Cami, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Ormanlık alanların yanı sıra sahilin güzelliği ve caminin manevi atmosferi, bu mekanı ziyaret etmek için birçok neden sunuyor. Sakarya ilinin İzmit ilçesinde yer alan bu mekan, bölgenin tarihi ve doğal zenginliklerini bir arada sunuyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sakarya-Izmit-Kerpe Araştırma Ormanı Sahil Cami'nin tarihi geçmişi, bölgen
 
 ## Coğrafya
 
-Sakarya-Izmit-Kerpe Araştırma Ormanı Sahil Cami, Marmara Bölgesi'nin coğrafi güzelliklerinin bir araya geldiği bir noktada yer almaktadır. 140 hektarlık ormanlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgede yer alan sahile doğru uzanmaktadır. Ormanlık alanlar, bölgeye özgü ağaç türleri ile kaplıdır ve bu ağaç türleri arasında çeşitli türlerin bulunması, bu bölgenin ekolojik zenginliğini göstermektedir. Sahil kısmı, denizin güzelliği ile birleşince, ziyaretçilere eşsiz bir manzara sunmaktadır. Cami, ormanlık alanın içerisinde yer almakta ve manevi atmosferi ile ziyaretçilere huzur vermektedir. Bu bölgede iklim, Marmara Bölgesi'nin genel iklimi ile benzerlik göstermektedir ve dört mevsim yaşanabilmektedir. İlkbahar ve sonbahar ayları, bu bölgenin güzelliğini en çok gösteren mevsimlerdir.
+Sakarya-Izmit-Kerpe Araştırma Ormanı Sahil Cami, Marmara Bölgesi'nin coğrafi güzelliklerinin bir araya geldiği bir noktada yer almaktadır. Ormanlık alanlar, bölgeye özgü ağaç türleri ile kaplıdır ve bu ağaç türleri arasında çeşitli türlerin bulunması, bu bölgenin ekolojik zenginliğini göstermektedir. Sahil kısmı, denizin güzelliği ile birleşince, ziyaretçilere eşsiz bir manzara sunmaktadır. Cami, ormanlık alanın içerisinde yer almakta ve manevi atmosferi ile ziyaretçilere huzur vermektedir. Bu bölgede iklim, Marmara Bölgesi'nin genel iklimi ile benzerlik göstermektedir ve dört mevsim yaşanabilmektedir. İlkbahar ve sonbahar ayları, bu bölgenin güzelliğini en çok gösteren mevsimlerdir.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Kasım Türbesi"
 date: "2026-01-10T07:32:41.957Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391229"
 
 # Şeyh Kasım Türbesi
 
-Şeyh Kasım Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve turistik mekanlarından biridir. Diyarbakır'ın Çınar ilçesinde yer alan bu türbe, 140 hektarlık bir yeşil alan üzerine kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğayla baş başa bırakacak bir atmosfere sahiptir. Şeyh Kasım Türbesi, sadece dini açıdan değil, aynı zamanda coğrafi güzelliği ve zengin flora ve faunası ile de dikkat çekmektedir. Bu mekan, ziyaretçilerine hem manevi hem de fiziki bir deneyim sunmaktadır.
+Şeyh Kasım Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve turistik mekanlarından biridir. Diyarbakır'ın Çınar ilçesinde yer alan bu türbe, 140 hektarlık bir yeşil alan üzerine kurulmuştur. Şeyh Kasım Türbesi, sadece dini açıdan değil, aynı zamanda coğrafi güzelliği ve zengin flora ve faunası ile de dikkat çekmektedir. Bu mekan, ziyaretçilerine hem manevi hem de fiziki bir deneyim sunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391229"
 
 ## Coğrafya
 
-Şeyh Kasım Türbesi, Diyarbakır'ın Çınar ilçesinde yer alan bir coğrafi bölgede bulunmaktadır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. 140 hektarlık bir yeşil alan üzerine kurulu olan Şeyh Kasım Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu alan, ziyaretçilerini doğal güzelliği ve zengin flora ve faunası ile karşılamaktadır. Şeyh Kasım Türbesi'nin coğrafi konumu, ziyaretçilere bölgenin iklimi, bitki örtüsü ve fauna çeşitliliği hakkında bilgi vermektedir. Bu mekan, ziyaretçilerine hem doğayla iç içe bir deneyim sunmaktadır hem de bölgenin coğrafi özelliklerini keşfetme fırsatı vermektedir.
+Şeyh Kasım Türbesi, Diyarbakır'ın Çınar ilçesinde yer alan bir coğrafi bölgede bulunmaktadır. Bu bölge, Güneydoğu Anadolu Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bu alan, ziyaretçilerini doğal güzelliği ve zengin flora ve faunası ile karşılamaktadır. Şeyh Kasım Türbesi'nin coğrafi konumu, ziyaretçilere bölgenin iklimi, bitki örtüsü ve fauna çeşitliliği hakkında bilgi vermektedir. Bu mekan, ziyaretçilerine hem doğayla iç içe bir deneyim sunmaktadır hem de bölgenin coğrafi özelliklerini keşfetme fırsatı vermektedir.
 
 ## Flora ve Fauna
 

@@ -30,7 +30,7 @@ wikidata_id: "Q3145279"
 
 # Divriği Darüşşifası
 
-Divriği Darüşşifası, Sivas'ın Divriği ilçesinde bulunan ve 1228 yılında inşa edilen tarihi bir sağlık kompleksidir. Bu kompleks, 12. yüzyılın sonlarında Anadolu Selçuklu Devleti döneminde inşa edilmiştir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olup, tarihi ve kültürel öneme sahip bir alandır. Burada, tarihin derinliklerinden gelen hikayeler ve sağlık hizmetlerinin gelişimi hakkında bilgi edinebilirsiniz.
+Divriği Darüşşifası, Sivas'ın Divriği ilçesinde bulunan ve 1228 yılında inşa edilen tarihi bir sağlık kompleksidir. Bu kompleks, 12. yüzyılın sonlarında Anadolu Selçuklu Devleti döneminde inşa edilmiştir. Burada, tarihin derinliklerinden gelen hikayeler ve sağlık hizmetlerinin gelişimi hakkında bilgi edinebilirsiniz.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Divriği Darüşşifası, 1228 yılında Mengücekli Beyi Ahmet Şah tarafından
 
 ## Coğrafya
 
-Divriği Darüşşifası, Sivas'ın Divriği ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu bölgenin coğrafi özellikleri, tarihi ve kültürel gelişimini etkilemiştir. İlçe, yüksek bir platoda kurulmuş olup, etrafı dağlar ve ovalarla çevrilidir. İklim, karasal özellikleri taşıyan bir bölgedir. Bu coğrafi koşullar, bölgenin flora ve faunasını etkilemiştir. Darüşşifanın bulunduğu alan, 140 hektarlık bir yeşil alan olup, yaklaşık 200 futbol sahası büyüklüğündedir. Bu alan, tarihi yapıların arasında yeşilliklerle dolu bir ortam sunar.
+Divriği Darüşşifası, Sivas'ın Divriği ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu bölgenin coğrafi özellikleri, tarihi ve kültürel gelişimini etkilemiştir. İlçe, yüksek bir platoda kurulmuş olup, etrafı dağlar ve ovalarla çevrilidir. İklim, karasal özellikleri taşıyan bir bölgedir. Bu coğrafi koşullar, bölgenin flora ve faunasını etkilemiştir. Bu alan, tarihi yapıların arasında yeşilliklerle dolu bir ortam sunar.
 
 ## Flora ve Fauna
 

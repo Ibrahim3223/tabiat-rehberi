@@ -28,7 +28,7 @@ wikidata_id: "Q97207997"
 
 # Karap Şelaleleri
 
-Karap Şelaleleri, İç Anadolu Bölgesi'nin gizli bir köşesinde yer alan ve ziyaretçilerini doğanın güzelliğine davet eden bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve etrafında çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölge, doğa severler ve fotoğraf meraklıları için bir cennet olarak değerlendirilebilir. Karap Şelaleleri'nin güzelliği, ziyaretçilerini etkisi altına alır ve burada geçirdikleri zamanı unutulmaz kılar.
+Karap Şelaleleri, İç Anadolu Bölgesi'nin gizli bir köşesinde yer alan ve ziyaretçilerini doğanın güzelliğine davet eden bir destinasyondur. Bu bölge, doğa severler ve fotoğraf meraklıları için bir cennet olarak değerlendirilebilir. Karap Şelaleleri'nin güzelliği, ziyaretçilerini etkisi altına alır ve burada geçirdikleri zamanı unutulmaz kılar.
 
 ## Tarihçe
 

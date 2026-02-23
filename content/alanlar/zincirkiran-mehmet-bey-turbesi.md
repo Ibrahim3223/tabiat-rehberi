@@ -1,7 +1,7 @@
 ---
 title: "Zincirkıran Mehmet Bey Türbesi"
 date: "2026-01-10T06:35:57.218Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582636"
 
 # Zincirkıran Mehmet Bey Türbesi
 
-Zincirkıran Mehmet Bey Türbesi, Antalya'nın Muratpaşa ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği özel bir nokta. Bu alan, yaklaşık 140 hektarlık geniş bir yeşil alan sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Türbe ve çevresindeki doğal güzellikler, ziyaretçilere hem tarihi hem de doğayı deneyimleme fırsatı sunuyor. Zincirkıran Mehmet Bey Türbesi, Antalya'nın önemli tarihi noktalarından biri olarak kabul ediliyor ve ziyaretçiler tarafından sıkça ziyaret ediliyor.
+Zincirkıran Mehmet Bey Türbesi, Antalya'nın Muratpaşa ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği özel bir nokta. Türbe ve çevresindeki doğal güzellikler, ziyaretçilere hem tarihi hem de doğayı deneyimleme fırsatı sunuyor. Zincirkıran Mehmet Bey Türbesi, Antalya'nın önemli tarihi noktalarından biri olarak kabul ediliyor ve ziyaretçiler tarafından sıkça ziyaret ediliyor.
 
 ## Tarihçe
 

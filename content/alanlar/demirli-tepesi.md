@@ -28,7 +28,7 @@ wikidata_id: "Q31526023"
 
 # Demirli Tepesi
 
-Demirli Tepesi, Isparta'nın doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini etkileyici manzarası ve zengin doğası ile karşılar. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise Isparta'nın geniş panoraması izlenebiliyor. Demirli Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekiyor.
+Demirli Tepesi, Isparta'nın doğal güzelliklerinden biri olarak dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri bulunurken, tepenin zirvesinden ise Isparta'nın geniş panoraması izlenebiliyor. Demirli Tepesi, hem doğa severlerin hem de fotoğraf tutkunlarının ilgisini çekiyor.
 
 ## Tarihçe
 

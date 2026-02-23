@@ -37,7 +37,7 @@ Bin Tepeler Tümülüsü 6'nın tarihi geçmişi, yüzyıllar boyunca çeşitli 
 
 ## Coğrafya
 
-Bin Tepeler Tümülüsü 6, Ege Bölgesi'nin coğrafi yapısıyla uyumlu bir şekilde diseñ edilmiştir. 140 hektarlık bir alanda yayılan bu tümülüs, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyan bu tümülüs, ziyaretçilerini doğal güzellikleri ile de cezbediyor. Bin Tepeler Tümülüsü 6, Salihli-Manisa bölgesinde yer alan diğer coğrafi oluşumlarla birlikte, bölgenin coğrafi zenginliğini teşkil ediyor. Bu tümülüs, Ege Bölgesi'nin coğrafi çeşitliliği hakkında bilgi vermektedir. Coğrafi konumu itibariyle, Bin Tepeler Tümülüsü 6, ziyaretçilerini Ege Bölgesi'nin güzelliklerine davet ediyor.
+Bin Tepeler Tümülüsü 6, Ege Bölgesi'nin coğrafi yapısıyla uyumlu bir şekilde diseñ edilmiştir. Coğrafi olarak Ege Bölgesi'nin karakteristik özelliklerini taşıyan bu tümülüs, ziyaretçilerini doğal güzellikleri ile de cezbediyor. Bin Tepeler Tümülüsü 6, Salihli-Manisa bölgesinde yer alan diğer coğrafi oluşumlarla birlikte, bölgenin coğrafi zenginliğini teşkil ediyor. Bu tümülüs, Ege Bölgesi'nin coğrafi çeşitliliği hakkında bilgi vermektedir. Coğrafi konumu itibariyle, Bin Tepeler Tümülüsü 6, ziyaretçilerini Ege Bölgesi'nin güzelliklerine davet ediyor.
 
 ## Flora ve Fauna
 

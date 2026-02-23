@@ -28,7 +28,7 @@ wikidata_id: "Q34820586"
 
 # Üçpınar Tepesi
 
-Üçpınar Tepesi, Trabzon'un doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Üçpınar Tepesi, doğal güzelliği ve coğrafi konumuyla dikkat çekicidir. Bu alan, ziyaretçilerine geniş bir manzara sunar ve Karadeniz Bölgesi'ndeki diğer güzelliklere de yakındır. Doğal yürüyüş yolları ve piknik alanlarıyla birlikte, Üçpınar Tepesi hem yerli hem de yabancı ziyaretçilerin ilgisini çekmektedir. Ayrıca, bu tepe, bölgenin coğrafi özelliklerini ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
+Üçpınar Tepesi, Trabzon'un doğal güzelliklerinden biri olarak Karadeniz Bölgesi'nde yer alır. Üçpınar Tepesi, doğal güzelliği ve coğrafi konumuyla dikkat çekicidir. Bu alan, ziyaretçilerine geniş bir manzara sunar ve Karadeniz Bölgesi'ndeki diğer güzelliklere de yakındır. Doğal yürüyüş yolları ve piknik alanlarıyla birlikte, Üçpınar Tepesi hem yerli hem de yabancı ziyaretçilerin ilgisini çekmektedir. Ayrıca, bu tepe, bölgenin coğrafi özelliklerini ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur.
 
 ## Tarihçe
 

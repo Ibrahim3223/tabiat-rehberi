@@ -22,7 +22,7 @@ wikidata_id: "Q108227795"
 
 # Kastamonu-Ayancik-Goldag Dogu Kayini
 
-Kastamonu-Ayancik-Goldag Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın tüm güzelliklerini sunmaktadır. Bu milli park, Kastamonu'nun Ayancik ilçesinde yer almakta ve Goldag Dogu Kayini olarak da bilinmektedir. Doğal güzellikleri ve zengin flora ile fauna çeşitliliği ile dikkat çeken bu milli park, doğa severler için bir cennet olarak görülmektedir. Kastamonu-Ayancik-Goldag Dogu Kayini milli parkının ziyaretçileri, burada yürüyüş yapabilir, doğanın güzelliklerini izleyebilir ve fotoğraf çekebilirler.
+Kastamonu-Ayancik-Goldag Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu milli park, Kastamonu'nun Ayancik ilçesinde yer almakta ve Goldag Dogu Kayini olarak da bilinmektedir. Doğal güzellikleri ve zengin flora ile fauna çeşitliliği ile dikkat çeken bu milli park, doğa severler için bir cennet olarak görülmektedir. Kastamonu-Ayancik-Goldag Dogu Kayini milli parkının ziyaretçileri, burada yürüyüş yapabilir, doğanın güzelliklerini izleyebilir ve fotoğraf çekebilirler.
 
 ## Tarihçe
 

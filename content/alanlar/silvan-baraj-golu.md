@@ -33,11 +33,11 @@ Diyarbakır'ın doğal güzellikleriyle dolu coğrafyasında, Silvan Baraj Göl�
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu topraklar, Hititlerden Osmanlı'ya kadar birçok uygarlığa ev sahipliği yapmış, ticaret yollarının kesişme noktası olagelmiştir. Silvan Baraj Gölü de bu tarihsel zenginliğin bir parçasıdır.
+Diyarbakır bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu topraklar, Hititlerden Osmanlı'ya kadar birçok uygarlığa ev sahipliği yapmış, ticaret yollarının kesişme noktası olagelmiştir. Silvan Baraj Gölü de bu tarihsel zenginliğin bir parçasıdır.
 
 Türkiye'de su kaynakları ve doğal alanlar, binlerce yıldır insanların yaşamlarının merkezinde yer almıştır. Bu bölgeler, yalnızca doğal güzellikleri ile değil, aynı zamanda ekonomi ve kültürel önemleri ile de dikkat çekmiştir. Yaylacılık, hayvancılık ve tarım, bu alanların etrafında gelişen faaliyetlerdir.
 
-Diyarbakır'ın coğrafi konumu, histórik ticaret yollarınınasında bulunması, bölgenin stratejik önemini artırmıştır. İnsanlar, bu topraklarda yaşamını sürdürürken, doğal kaynakları kullanarak varlıklarını sürdürmüşlerdir. Silvan Baraj Gölü, bu doğal zenginliklerin bir parçası olarak, bölgenin tarihini ve kültürünü şekillendirmiştir.
+Diyarbakır'ın coğrafi konumu, tarihi ticaret yollarınınasında bulunması, bölgenin stratejik önemini artırmıştır. İnsanlar, bu topraklarda yaşamını sürdürürken, doğal kaynakları kullanarak varlıklarını sürdürmüşlerdir. Silvan Baraj Gölü, bu doğal zenginliklerin bir parçası olarak, bölgenin tarihini ve kültürünü şekillendirmiştir.
 
 ## Coğrafya
 

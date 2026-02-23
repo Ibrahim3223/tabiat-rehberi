@@ -28,7 +28,7 @@ wikidata_id: "Q31554834"
 
 # Ziyaretbesyate Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin güzide illerinden Batman'da yer alan Ziyaretbesyate Tepesi, ziyaretçiler için keyifli bir gezi deneyimi sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Ziyaretbesyate Tepesi, doğa severler için bir cennet olarak karşımıza çıkıyor. Tepenin eteklerinde yer alan köyler, misafirperver halkı ve lezzetli yöresel yemekleri ile de dikkat çekiyor.
+Güneydoğu Anadolu Bölgesi'nin güzide illerinden Batman'da yer alan Ziyaretbesyate Tepesi, ziyaretçiler için keyifli bir gezi deneyimi sunuyor. Ziyaretbesyate Tepesi, doğa severler için bir cennet olarak karşımıza çıkıyor. Tepenin eteklerinde yer alan köyler, misafirperver halkı ve lezzetli yöresel yemekleri ile de dikkat çekiyor.
 
 ## Tarihçe
 

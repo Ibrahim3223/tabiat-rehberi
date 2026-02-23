@@ -28,7 +28,7 @@ wikidata_id: "Q31388371"
 
 # Gırankale Tepesi
 
-Gırankale Tepesi, Erzurum'un doğal güzellikleri arasında yer alan bir tepe olarak dikkat çekiyor. Bu tepenin konumu, fiziksel verileri ve hikayesi, bölgenin zengin tarihi ve coğrafyasını yansıtıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilere geniş bir alanda keşif imkanı sunuyor. Gırankale Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölgede, yaban hayatı ve doğa güzellikleri, ziyaretçileri bekliyor.
+Gırankale Tepesi, Erzurum'un doğal güzellikleri arasında yer alan bir tepe olarak dikkat çekiyor. Bu tepenin konumu, fiziksel verileri ve hikayesi, bölgenin zengin tarihi ve coğrafyasını yansıtıyor. Gırankale Tepesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bu bölgede, yaban hayatı ve doğa güzellikleri, ziyaretçileri bekliyor.
 
 ## Tarihçe
 

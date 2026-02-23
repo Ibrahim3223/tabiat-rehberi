@@ -1,7 +1,7 @@
 ---
 title: "Hançerli Sultan Türbesi"
 date: "2026-01-10T07:21:35.754Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391066"
 
 # Hançerli Sultan Türbesi
 
-Hançerli Sultan Türbesi, Eyüpsultan'da yer alan tarihi ve doğal güzelliklerin bir arada bulunduğu özel bir mekan. İstanbul'un Marmara Bölgesi'nde konumlanan bu alan, 140 hektarlık bir yeşil alan sunmakta ve yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklük, ziyaretçilere geniş bir açık alan deneyimi sunuyor. Hançerli Sultan Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini çekmekte.
+Hançerli Sultan Türbesi, Eyüpsultan'da yer alan tarihi ve doğal güzelliklerin bir arada bulunduğu özel bir mekan. Bu büyüklük, ziyaretçilere geniş bir açık alan deneyimi sunuyor. Hançerli Sultan Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini çekmekte.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31385975"
 
 # Bozcalı Dağı
 
-Bozcalı Dağı, İç Anadolu Bölgesi'nin kalbinde yer alan Kırşehir'in önemli doğal güzelliklerinden biridir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu dağ, şehrin merkezi ile uzun bir mesafe uzaklıktadır. Bozcalı Dağı, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekmektedir. Dağın eteklerinde kurulmuş olan köyler, ziyaretçilere geleneksel yaşam tarzını deneyimleme fırsatı sunmaktadır. Bozcalı Dağı, yıl boyunca birçok ziyaretçiyi ağırlamaktadır ve doğa severler için önemli bir destinasyon olarak kabul edilmektedir.
+Bozcalı Dağı, İç Anadolu Bölgesi'nin kalbinde yer alan Kırşehir'in önemli doğal güzelliklerinden biridir. Bozcalı Dağı, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekmektedir. Dağın eteklerinde kurulmuş olan köyler, ziyaretçilere geleneksel yaşam tarzını deneyimleme fırsatı sunmaktadır. Bozcalı Dağı, yıl boyunca birçok ziyaretçiyi ağırlamaktadır ve doğa severler için önemli bir destinasyon olarak kabul edilmektedir.
 
 ## Tarihçe
 

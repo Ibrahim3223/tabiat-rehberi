@@ -28,7 +28,7 @@ wikidata_id: "Q32127040"
 
 # Akçakertil Tepesi
 
-Akçakertil Tepesi, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, Balıkesir'in sınırları içerisinde yer alıyor ve ziyaretçilerine benzersiz bir manzara sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir açık alan deneyimi sağlıyor. Tepenin yüksekliği ve konumu, çevredeki diğer tepe ve dağları da içererek geniş bir panorama sunuyor. Burada, doğanın güzelliğini ve bölgeye özgü bitki örtüsünü keşfetme mümkün.
+Akçakertil Tepesi, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Bu tepe, Balıkesir'in sınırları içerisinde yer alıyor ve ziyaretçilerine benzersiz bir manzara sunuyor. Tepenin yüksekliği ve konumu, çevredeki diğer tepe ve dağları da içererek geniş bir panorama sunuyor. Burada, doğanın güzelliğini ve bölgeye özgü bitki örtüsünü keşfetme mümkün.
 
 ## Tarihçe
 

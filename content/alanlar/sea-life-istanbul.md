@@ -30,7 +30,7 @@ wikidata_id: "Q4809463"
 
 # Sea Life İstanbul
 
-Sea Life İstanbul, Marmara Bölgesi'nin kalbinde, Bayrampaşa'da yer alan bir deniz yaşam merkezi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, çeşitli deniz canlılarına ev sahipliği yapıyor. Deniz canlılarını yakından tanımak isteyenler için ideal bir destinasyon. Sea Life İstanbul, aileler ve çocuklar için eğlenceli ve öğretici bir deneyim sunuyor. Deniz canlılarının çeşitliliği ve güzelliği, ziyaretçileri büyülüyor.
+Sea Life İstanbul, Marmara Bölgesi'nin kalbinde, Bayrampaşa'da yer alan bir deniz yaşam merkezi. Bu geniş alan, çeşitli deniz canlılarına ev sahipliği yapıyor. Deniz canlılarını yakından tanımak isteyenler için ideal bir destinasyon. Sea Life İstanbul, aileler ve çocuklar için eğlenceli ve öğretici bir deneyim sunuyor. Deniz canlılarının çeşitliliği ve güzelliği, ziyaretçileri büyülüyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Sea Life İstanbul'un tarihi geçmişi, deniz canlılarına olan ilgi ve merakı
 
 ## Coğrafya
 
-Sea Life İstanbul, Marmara Bölgesi'nin kalbinde, Bayrampaşa'da yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, çeşitli deniz canlılarına ev sahipliği yapıyor. Deniz canlıları, farklı habitatlarda ve akvaryumlarda sergileniyor. Sea Life İstanbul'un coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak sağlıyor. İstanbul'un merkezi bir noktasında yer alan Sea Life İstanbul, toplu taşıma araçlarıyla kolayca erişilebiliyor. Deniz canlılarının doğal ortamlarına benzer şekilde tasarlanan akvaryumlar, ziyaretçilere gerçek bir deniz deneyimi sunuyor.
+Sea Life İstanbul, Marmara Bölgesi'nin kalbinde, Bayrampaşa'da yer alıyor. Bu geniş alan, çeşitli deniz canlılarına ev sahipliği yapıyor. Deniz canlıları, farklı habitatlarda ve akvaryumlarda sergileniyor. Sea Life İstanbul'un coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesine olanak sağlıyor. İstanbul'un merkezi bir noktasında yer alan Sea Life İstanbul, toplu taşıma araçlarıyla kolayca erişilebiliyor. Deniz canlılarının doğal ortamlarına benzer şekilde tasarlanan akvaryumlar, ziyaretçilere gerçek bir deniz deneyimi sunuyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,6 @@ Sea Life İstanbul'u ziyaret etmek, deniz canlılarını yakından tanımak iste
 
 ## İlginç Bilgiler
 
-- Sea Life İstanbul, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
 - Deniz canlılarına ev sahipliği yapıyor.
 - Aileler ve çocuklar için eğlenceli ve öğretici bir deneyim sunuyor.
 - Deniz canlılarının korunması ve yaşatılması amacıyla kurulmuş bir merkez.

@@ -22,7 +22,7 @@ wikidata_id: "Q108228569"
 
 # Balikesir-Alacam-Degirmenegrek-Avrupa Kayini
 
-Balikesir-Alacam-Degirmenegrek-Avrupa Kayini milli parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir yeşil alan olarak karşımıza çıkıyor. Bu doğal güzellik, İç Anadolu Bölgesi'nin gizli cenneti olarak biliniyor. Burada yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. 200 futbol sahası büyüklüğündeki bu alan, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+ Bu doğal güzellik, İç Anadolu Bölgesi'nin gizli cenneti olarak biliniyor. Burada yer alan çeşitli bitki türleri ve zengin fauna, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. 200 futbol sahası büyüklüğündeki bu alan, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

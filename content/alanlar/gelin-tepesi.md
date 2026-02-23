@@ -29,7 +29,7 @@ wikidata_id: "Q31388837"
 
 # Gelin Tepesi
 
-Gelin Tepesi, Marmara Bölgesi'nin en güzel noktalarından biri olan Kırklareli ilinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın güzelliğini sunar. Gelin Tepesi, çevresi ile birlikte 300 hektara yakın bir alanı kaplar ve bu bölgede çeşitli bitki türleri bulunur. Tepenin eteklerinde akan dere, manzarayı daha da güzelleştirir. Gelin Tepesi, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyondur.
+Gelin Tepesi, Marmara Bölgesi'nin en güzel noktalarından biri olan Kırklareli ilinde yer alır. Gelin Tepesi, çevresi ile birlikte 300 hektara yakın bir alanı kaplar ve bu bölgede çeşitli bitki türleri bulunur. Tepenin eteklerinde akan dere, manzarayı daha da güzelleştirir. Gelin Tepesi, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyondur.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108226618"
 
 # Papazın Bağı Sit Alanı
 
-Papazın Bağı Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için özel bir destinasyon. 140 hektarlık genişliğiyle yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğayla baş başa bırakıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Papazın Bağı, doğal güzelliği ve sakin atmosferi ile gezi severlerin kaçırılmaması gereken bir yer.
+Papazın Bağı Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için özel bir destinasyon. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Papazın Bağı, doğal güzelliği ve sakin atmosferi ile gezi severlerin kaçırılmaması gereken bir yer.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Papazın Bağı Sit Alanı, ziyaretçilerine keyifli bir gezi deneyimi sunuyor. 
 
 ## İlginç Bilgiler
 
-- Papazın Bağı Sit Alanı, 140 hektarlık genişliğiyle yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Papazın Bağı, doğa severlerin ve fotoğrafçıların ilgi odağı.
 - Bölge, her mevsim farklı güzellikler sunuyor.

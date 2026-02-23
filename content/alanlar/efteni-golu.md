@@ -49,9 +49,9 @@ Gölün çevresel ilişkileri, komşu alanlar ve su kaynakları ile bağlantıl�
 
 ## Flora ve Fauna
 
-Efteni Gölü, Düzce'nin step bitki örtüsüne ve bozkırına ev sahipliği yapan bir göldür. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Efteni Gölü, Düzce'nin step bitki örtüsüne ve bozkırına ev sahipliği yapan bir göldür. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte gölün çevresinde renkli çiçekler açar. Sonbaharda ise kuraklığa adapte olan türler, gölün su seviyesinin düşmesiyle birlikte ortaya çıkar. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte gölün çevresinde renkli çiçekler açar. Sonbaharda ise kuraklığa adapte olan türler, gölün su seviyesinin düşmesiyle birlikte ortaya çıkar.
 
 Yaban Hayatı olarak, su kuşları ve balıklar gölün ekosisteminin temel bileşenlerini oluşturur. Göç mevsiminde, binlerce su kuşu gölde konaklar. Ayrıca, gölün sulak alan bitkileri, bu canlıların yaşam alanlarını oluşturur.
 

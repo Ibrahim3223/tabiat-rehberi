@@ -22,7 +22,7 @@ wikidata_id: "Q108227704"
 
 # Canakkale-Yenice-Asar Mese
 
-Canakkale-Yenice-Asar Mese milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, doğa yürüyüşü yapabilir, çevre güzelliğini keşfedebilir ve yaban hayatını gözlemleyebilir. Canakkale-Yenice-Asar Mese milli parkı, doğa severler için gerçek bir cennet.
+Canakkale-Yenice-Asar Mese milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu milli park, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ziyaretçiler, doğa yürüyüşü yapabilir, çevre güzelliğini keşfedebilir ve yaban hayatını gözlemleyebilir. Canakkale-Yenice-Asar Mese milli parkı, doğa severler için gerçek bir cennet.
 
 ## Tarihçe
 

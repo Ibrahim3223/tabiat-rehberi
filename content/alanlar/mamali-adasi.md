@@ -28,7 +28,7 @@ wikidata_id: "Q49656473"
 
 # Mamalı Adası
 
-Balıkesir'in eşsiz doğal güzelliklerini keşfetmek isteyenler için bir hedef olan Mamalı Adası, ziyaretçilerini doğanın sakinliğiyle karşılar. Bu ada, Türkiye'nin batı kıyısında, Balıkesir ilinin sınırları içinde yer alır. Mamalı Adası, doğa severlerin vepeace arayışında olanların ilgisini çeker. 
+Balıkesir'in eşsiz doğal güzelliklerini keşfetmek isteyenler için bir hedef olan Mamalı Adası, ziyaretçilerini doğanın sakinliğiyle karşılar. Bu ada, Türkiye'nin batı kıyısında, Balıkesir ilinin sınırları içinde yer alır. Mamalı Adası, doğa severlerin vepeace arayışında olanların ilgisini çeker.
 
 Burada doğa, ziyaretçilerine huzur dolu anlar sunar.
 
@@ -38,7 +38,7 @@ Mamalı Adası, Türkiye'nin kuzeybatı kıyılarında, Balıkesir ilinin sını
 
 Doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasını oluşturur. Bu tür alanlar, insanların yaşam alanları, tarım ve hayvancılık faaliyetleri, ticaret yolları ve yaylacılık gibi amaçlarla kullanılmıştır. İnsanların bu doğal alanlarla olan ilişkisi, binlerce yıl öncesine uzanan bir geçmişe sahiptir.
 
-Mamalı Adası, bu bölgenin doğal güzelliklerini ve tarihsel önemini temsil eden bir örnek. Ada, bölgenin jeoloji ve ekolojik yapısını korurken, aynı zamanda insanların yaşam alanları ve faaliyetleriyle da etkileşim halinde olmuştur. Bu tür doğal alanların korunması ve gelecek nesiller için bảolanması, Türkiye'nin kültürel ve tarihsel mirasının önemli bir parçasını oluşturur.
+Mamalı Adası, bu bölgenin doğal güzelliklerini ve tarihsel önemini temsil eden bir örnek. Ada, bölgenin jeoloji ve ekolojik yapısını korurken, aynı zamanda insanların yaşam alanları ve faaliyetleriyle da etkileşim halinde olmuştur. Bu tür doğal alanların korunması ve gelecek nesiller için korunması, Türkiye'nin kültürel ve tarihsel mirasının önemli bir parçasını oluşturur.
 
 ## Coğrafya
 
@@ -52,11 +52,11 @@ Mevsimsel değişiklikler Mamalı Adası'nda da hissediliyor. İlkbahar ve yaz a
 
 ## Flora ve Fauna
 
-Mamalı Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Mamalı Adası, Balıkesir'in kıyılarında yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ada genelinde hakim olan karma ormanlar göze çarpar. İlkbaharda, ada yüzeyini renkli çiçekler kaplar. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler bulunur. 
+Bitki Örtüsü bölümünde, ada genelinde hakim olan karma ormanlar göze çarpar. İlkbaharda, ada yüzeyini renkli çiçekler kaplar. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler bulunur.
 
-Yaban Hayatı bölümünde, ada özellikle göçmen kuşlar için önemli bir durak noktasıdır. Sonbaharda, birçok kuş türü ada üzerinden geçer. Deniz kuşları da ada kıyılarında yuvalanır. 
+Yaban Hayatı bölümünde, ada özellikle göçmen kuşlar için önemli bir durak noktasıdır. Sonbaharda, birçok kuş türü ada üzerinden geçer. Deniz kuşları da ada kıyılarında yuvalanır.
 
 Ekolojik Değer bölümünde, ada ekosisteminin izole popülasyonlara ev sahipliği yaptığı görülür. Bu izole popülasyonlar, ada ekosisteminin benzersizliğini sağlar. Ada, geçiş ikliminin etkisi altındadır ve bu nedenle karma ormanlar ve çeşitli bitki türleri bulunur.
 

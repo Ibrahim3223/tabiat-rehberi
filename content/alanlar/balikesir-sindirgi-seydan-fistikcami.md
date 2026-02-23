@@ -22,7 +22,7 @@ wikidata_id: "Q108228287"
 
 # Balıkesir-Sındırgı-Seydan-Fıstıkcamı
 
-Balıkesir-Sındırgı-Seydan-Fıstıkcamı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor. Ziyaretçilerini büyüleyen bu alan, hem doğa severler hem de araştırma yapanlar için önemli bir destinasyon. Balıkesir'in Sındırgı, Seydan ve Fıstıkcamı gibi köyleri çevresinde yer alan bu milli park, bölgenin ekolojik dengesini korumak için önemli bir rol üstleniyor.
+Balıkesir-Sındırgı-Seydan-Fıstıkcamı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Ziyaretçilerini büyüleyen bu alan, hem doğa severler hem de araştırma yapanlar için önemli bir destinasyon. Balıkesir'in Sındırgı, Seydan ve Fıstıkcamı gibi köyleri çevresinde yer alan bu milli park, bölgenin ekolojik dengesini korumak için önemli bir rol üstleniyor.
 
 ## Tarihçe
 

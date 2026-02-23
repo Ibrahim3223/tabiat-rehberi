@@ -1,7 +1,7 @@
 ---
 title: "Üç Bacılar Türbesi"
 date: "2026-01-10T05:19:18.595Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bitlis Vilayeti"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391758"
 
 # Üç Bacılar Türbesi
 
-Üç Bacılar Türbesi, Bitlis ilinin merkezinde yer alan tarihi ve kültürel bir miras olarak dikkat çekiyor. 140 hektarlık bir alana kurulan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tarihi geçmişi ile birlikte, ziyaretçiler için hem eğitim hem de dinlenme alanı olarak hizmet veriyor. İç Anadolu Bölgesi'nde bulunan Bitlis Vilayeti, tarihi ve kültürel zenginliklerinin yanı sıra doğal güzellikleriyle de ön plana çıkıyor. Üç Bacılar Türbesi de bu zenginliklerin önemli bir parçası olarak kabul ediliyor.
+Üç Bacılar Türbesi, Bitlis ilinin merkezinde yer alan tarihi ve kültürel bir miras olarak dikkat çekiyor. Tarihi geçmişi ile birlikte, ziyaretçiler için hem eğitim hem de dinlenme alanı olarak hizmet veriyor. İç Anadolu Bölgesi'nde bulunan Bitlis Vilayeti, tarihi ve kültürel zenginliklerinin yanı sıra doğal güzellikleriyle de ön plana çıkıyor. Üç Bacılar Türbesi de bu zenginliklerin önemli bir parçası olarak kabul ediliyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34828461"
 
 # Çatak Tepesi
 
-Doğu Anadolu Bölgesi'nin doğal güzelliklerinin arasında yer alan Çatak Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepenin etrafında yer alan dağların yüksekliği, ziyaretçilerin nefeslerini kesmektedir. Çatak Tepesi, ziyaretçilerine doğanın güzelliklerini sunan bir mekan olarak bilinir. Doğal güzellikleri ve tarihi önemiyle birlikte, bu tepe ziyaretçilerini büyülemektedir.
+ Bu tepenin etrafında yer alan dağların yüksekliği, ziyaretçilerin nefeslerini kesmektedir. Çatak Tepesi, ziyaretçilerine doğanın güzelliklerini sunan bir mekan olarak bilinir. Doğal güzellikleri ve tarihi önemiyle birlikte, bu tepe ziyaretçilerini büyülemektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Doğu Anadolu Bölgesi'nin doğal güzelliklerinin arasında yer alan Çatak Tep
 
 ## Coğrafya
 
-Çatak Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alır. Bu tepe, etrafındaki dağların yüksekliğiyle birlikte, ziyaretçilerin nefeslerini kesen bir manzaraya sahiptir. Çatak Tepesi, 140 hektarlık alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepenin etrafında yer alan dağların yüksekliği, ziyaretçilerin doğanın güzelliklerini görmelerine olanak tanır. Çatak Tepesi, ziyaretçilerine doğal güzellikleri sunan bir mekan olarak bilinir. Bu tepe, ziyaretçilerini doğanın güzelliklerine karşı büyülemektedir. Çatak Tepesi, doğanın güzelliklerini ve tarihi önemi bir arada sunan ender yerlerden biridir.
+Çatak Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alır. Bu tepe, etrafındaki dağların yüksekliğiyle birlikte, ziyaretçilerin nefeslerini kesen bir manzaraya sahiptir. Bu tepenin etrafında yer alan dağların yüksekliği, ziyaretçilerin doğanın güzelliklerini görmelerine olanak tanır. Çatak Tepesi, ziyaretçilerine doğal güzellikleri sunan bir mekan olarak bilinir. Bu tepe, ziyaretçilerini doğanın güzelliklerine karşı büyülemektedir. Çatak Tepesi, doğanın güzelliklerini ve tarihi önemi bir arada sunan ender yerlerden biridir.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Doğu Anadolu Bölgesi'nin doğal güzelliklerinin arasında yer alan Çatak Tep
 
 ## İlginç Bilgiler
 
-- Çatak Tepesi, 140 hektarlık alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
 - Bu tepe, etrafındaki dağların yüksekliğiyle birlikte, ziyaretçilerin nefeslerini kesen bir manzaraya sahiptir.
 - Çatak Tepesi, çeşitli bitki türlerine ev sahipliği yapmaktadır.
 - Bu tepe, ziyaretçilerine doğal güzellikleri sunan bir mekan olarak bilinir.

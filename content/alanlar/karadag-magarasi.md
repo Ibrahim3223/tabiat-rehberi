@@ -28,7 +28,7 @@ wikidata_id: "Q49319323"
 
 # Karadağ Mağarası
 
-Antalya'nın zengin doğal mirasının bir parçası olan Karadağ Mağarası, ilin güneyinde yer alan bir jeopark alanı olarak dikkat çekiyor. Bu doğal oluşum, Antalya'nın eşsiz coğrafi yapısının bir sonucu olarak ortaya çıkmış. Karadağ Mağarası, ziyaretçilerine ilin tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzelliklerini de keşfetme fırsatı sunuyor. Antalya'nın turizm merkezlerine yakın konumuyla, bu mağara ilin önemli bir turistik destinasyonu haline geliyor.
+Antalya'nın zengin doğal mirasının bir parçası olan Karadağ Mağarası, ilin güneyinde yer alan bir jeopark alanı olarak dikkat çekiyor. Bu doğal oluşum, Antalya'nın eşsiz coğrafi yapısının bir sonucu olarak ortaya çıkmış. Karadağ Mağarası, ziyaretçilerine ilin tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzelliklerini de keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 

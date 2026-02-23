@@ -28,7 +28,7 @@ wikidata_id: "Q34828437"
 
 # Çarşılıboyun Tepesi
 
-Kayseri'nin doğal güzelliklerinin bir arada bulunduğu Çarşılıboyun Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu bölge, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir. Çarşılıboyun Tepesi, Kayseri'nin önemli turizm noktalarından biri olarak bilinir. Burada, doğa severlerin keyifle gezebileceği birçok alan bulunmaktadır.
+ Bu bölge, hem doğal güzelliği hem de tarihi geçmişi ile dikkat çekmektedir. Çarşılıboyun Tepesi, Kayseri'nin önemli turizm noktalarından biri olarak bilinir. Burada, doğa severlerin keyifle gezebileceği birçok alan bulunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kayseri'nin doğal güzelliklerinin bir arada bulunduğu Çarşılıboyun Tepesi
 
 ## Coğrafya
 
-Çarşılıboyun Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, genellikle step ve bozkır bitki örtüsüne sahiptir. Bu bölge, geniş otlaklarla kaplıdır ve bazı noktalarda ağaçlar ve diğer bitki türleri bulunur. Tepenin coğrafi konumu, mevsimsel değişimlere uygun olarak, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklimi sağlar. Bu coğrafi yapı, bölgeye özgü fauna ve flora için uygun bir ortam yaratır. Çarşılıboyun Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve burada, çeşitli coğrafi özellikler görülebilir.
+Çarşılıboyun Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, genellikle step ve bozkır bitki örtüsüne sahiptir. Bu bölge, geniş otlaklarla kaplıdır ve bazı noktalarda ağaçlar ve diğer bitki türleri bulunur. Tepenin coğrafi konumu, mevsimsel değişimlere uygun olarak, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklimi sağlar. Bu coğrafi yapı, bölgeye özgü fauna ve flora için uygun bir ortam yaratır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Kayseri'nin doğal güzelliklerinin bir arada bulunduğu Çarşılıboyun Tepesi
 ## İlginç Bilgiler
 
 - Çarşılıboyun Tepesi, İç Anadolu Bölgesi'nin önemli turizm noktalarından biri.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Çarşılıboyun Tepesi, step ve bozkır bitki örtüsüne sahiptir.
 - Burada, birçok bitki ve hayvan türü bulunur.
 - Bölge, mevsimsel değişimlere uygun olarak, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklimi sağlar.

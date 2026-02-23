@@ -28,7 +28,7 @@ wikidata_id: "Q32211000"
 
 # Küçükkatran Tepesi
 
-Küçükkatran Tepesi, Çanakkale'nin doğal güzelliklerinin önemli bir parçasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini şehrin panoramik manzarasıyla karşılar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede yapılan yürüyüşler, hem bedeni hem de zihni dinç tutmaya yardımcı olur. Ayrıca, bu bölge, doğa severler için önemli bir çekim merkezi olarak bilinir.
+Küçükkatran Tepesi, Çanakkale'nin doğal güzelliklerinin önemli bir parçasıdır. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu bölgede yapılan yürüyüşler, hem bedeni hem de zihni dinç tutmaya yardımcı olur. Ayrıca, bu bölge, doğa severler için önemli bir çekim merkezi olarak bilinir.
 
 ## Tarihçe
 

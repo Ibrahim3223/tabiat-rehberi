@@ -22,7 +22,7 @@ wikidata_id: "Q108228576"
 
 # Kayseri-Yozgat-Aydincik-Dogu Kayini
 
-Kayseri-Yozgat-Aydincik-Dogu Kayini milli parkı, İç Anadolu Bölgesi'nin göbeğinde, Kayseri ilinin sınırları içinde yer alır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Doğal zenginliklerinin yanı sıra, coğrafi konumuyla da dikkat çeker. Milli park, ziyaretçilerine hem doğayla iç içe bir deneyim hem de bölgenin tarihi ve kültürel mirasını keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın mucizelerini gösterir.
+Kayseri-Yozgat-Aydincik-Dogu Kayini milli parkı, İç Anadolu Bölgesi'nin göbeğinde, Kayseri ilinin sınırları içinde yer alır. Doğal zenginliklerinin yanı sıra, coğrafi konumuyla da dikkat çeker. Milli park, ziyaretçilerine hem doğayla iç içe bir deneyim hem de bölgenin tarihi ve kültürel mirasını keşfetme fırsatı sunar. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın mucizelerini gösterir.
 
 ## Tarihçe
 

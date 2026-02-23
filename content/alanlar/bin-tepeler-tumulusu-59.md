@@ -29,7 +29,7 @@ wikidata_id: "Q134728313"
 
 # Bin Tepeler Tümülüsü 59
 
-Bin Tepeler Tümülüsü 59, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir. Bu özel alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Salihli'nin merkezine yakın bir konumda yer alan Bin Tepeler Tümülüsü 59, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Bu eşsiz mekan, Ege Bölgesi'nin zengin tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon.
+Bin Tepeler Tümülüsü 59, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir. Salihli'nin merkezine yakın bir konumda yer alan Bin Tepeler Tümülüsü 59, ziyaretçilerini hem tarihi hem de doğal güzellikleriyle karşılar. Bu eşsiz mekan, Ege Bölgesi'nin zengin tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 59'ı ziyaret etmek, Ege Bölgesi'nin tarihi ve doğal 
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 59, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir.
-- Bu alan, yaklaşık 140 hektarlık bir alanı kaplar.
+
 - Bin Tepeler Tümülüsü 59, ziyaretçilerine hem tarihi hem de doğal güzellikleriyle karşılar.
 - Bu eşsiz mekan, Ege Bölgesi'nin zengin tarihini ve doğasını keşfetmek isteyenler için ideal bir destinasyon.
 - Bin Tepeler Tümülüsü 59, yılın dört mevsiminde farklı bir güzellik sunar.

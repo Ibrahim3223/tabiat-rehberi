@@ -1,7 +1,7 @@
 ---
 title: "Tabak Hamamı"
 date: "2026-01-09T23:06:57.257Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738934"
 
 # Tabak Hamamı
 
-Tabak Hamamı, Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri. Şahinbey, Gaziantep'te bulunan bu plaj, approximately 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tabak Hamamı, ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Bu doğal cennet, hem yerel halkın hem de turistik ziyaretçilerin ilgisini çekiyor. Tabak Hamamı'nın güzelliği, sadece doğal güzellikten değil, aynı zamanda tarihi ve kültürel önemiyle de dikkat çekiyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bölgenin kültürel zenginliğine katkıda bulunmuş.
+Tabak Hamamı, Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri. Şahinbey, Gaziantep'te bulunan bu plaj, approximately 140 hektarlık bir alanı kapsıyor. Tabak Hamamı, ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Bu doğal cennet, hem yerel halkın hem de turistik ziyaretçilerin ilgisini çekiyor. Tabak Hamamı'nın güzelliği, sadece doğal güzellikten değil, aynı zamanda tarihi ve kültürel önemiyle de dikkat çekiyor. Bu bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri bölgenin kültürel zenginliğine katkıda bulunmuş.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tabak Hamamı'nın tarihi geçmişi, çok eskilere dayanıyor. Bu bölge, yüzy�
 
 ## Coğrafya
 
-Tabak Hamamı, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biri. Şahinbey, Gaziantep'te bulunan bu plaj, bölgeye özgü coğrafi özellikleri taşıyor. Tabak Hamamı, denize sıfır bir konumda bulunuyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi yapısı, ziyaretçilere geniş ve ferah bir alan sunuyor. Tabak Hamamı'nın coğrafyası, aynı zamanda ziyaretçilere çeşitli faaliyetler için de olanak sağlıyor. Denize girme, güneşlenme, yürüyüş yapma ve doğa ile iç içe olma imkanları sunan Tabak Hamamı, ziyaretçilerini bekliyor. Bölgenin iklimi, genellikle sıcak ve kurak bir karakterde. Yaz aylarında sıcaklığın yüksek olması, bu mevsimde ziyaretçilerin artmasına neden oluyor. Kış aylarında ise, daha serin ve yağışlı bir hava hakim. Bu coğrafi ve iklimsel özellikler, Tabak Hamamı'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor.
+Tabak Hamamı, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en ilgi çekici yerlerinden biri. Şahinbey, Gaziantep'te bulunan bu plaj, bölgeye özgü coğrafi özellikleri taşıyor. Tabak Hamamı, denize sıfır bir konumda bulunuyor ve yaklaşık 140 hektarlık bir alanı kapsıyor. Bölgenin coğrafi yapısı, ziyaretçilere geniş ve ferah bir alan sunuyor. Tabak Hamamı'nın coğrafyası, aynı zamanda ziyaretçilere çeşitli faaliyetler için de olanak sağlıyor. Denize girme, güneşlenme, yürüyüş yapma ve doğa ile iç içe olma imkanları sunan Tabak Hamamı, ziyaretçilerini bekliyor. Bölgenin iklimi, genellikle sıcak ve kurak bir karakterde. Yaz aylarında sıcaklığın yüksek olması, bu mevsimde ziyaretçilerin artmasına neden oluyor. Kış aylarında ise, daha serin ve yağışlı bir hava hakim. Bu coğrafi ve iklimsel özellikler, Tabak Hamamı'nı yıl boyunca ziyaret edilebilir bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Tabak Hamamı, yıl boyunca ziyaret edilebilir bir destinasyon. Ziyaretçilerin,
 
 ## İlginç Bilgiler
 
-- Tabak Hamamı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 - Tabak Hamamı, bir doğa koruma alanı olarak da görev yapıyor.
 - Bölgede, özellikle su kuşları ve diğer hayvanlar yaşamlarını sürdürüyorlar.

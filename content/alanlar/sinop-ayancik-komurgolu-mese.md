@@ -22,7 +22,7 @@ wikidata_id: "Q108227707"
 
 # Sinop-Ayancik-Komurgölü Mese
 
-Sinop-Ayancik-Komurgölü Mese, Karadeniz Bölgesi'nin en güzel milli parklarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzellikleriyle baş başa bırakmaktadır. Milli park, Sinop ilinin Ayancık ilçesinde bulunmaktadır ve Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu milli parkta, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayrıca, burada yapılan etkinlikler ve aktiviteler, ziyaretçilerin doğayla iç içe olmak için birçok fırsat sunuyor.
+Sinop-Ayancik-Komurgölü Mese, Karadeniz Bölgesi'nin en güzel milli parklarından biridir. Milli park, Sinop ilinin Ayancık ilçesinde bulunmaktadır ve Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu milli parkta, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayrıca, burada yapılan etkinlikler ve aktiviteler, ziyaretçilerin doğayla iç içe olmak için birçok fırsat sunuyor.
 
 ## Tarihçe
 

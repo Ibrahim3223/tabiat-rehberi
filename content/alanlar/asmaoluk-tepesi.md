@@ -29,7 +29,7 @@ wikidata_id: "Q31386042"
 
 # Asmaoluk Tepesi
 
-Asmaoluk Tepesi, İç Anadolu Bölgesi'nin göbeğinde, ziyaretçilerini doğal güzellikleriyle karşılayan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki manzarasıyla büyülüyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, doğa severleri cezbediyor. Asmaoluk Tepesi, hem doğaşığı hem de macera tutkunları için ideal bir destinasyon.
+Asmaoluk Tepesi, İç Anadolu Bölgesi'nin göbeğinde, ziyaretçilerini doğal güzellikleriyle karşılayan bir tepe. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna, doğa severleri cezbediyor. Asmaoluk Tepesi, hem doğaşığı hem de macera tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 

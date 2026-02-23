@@ -30,7 +30,7 @@ wikidata_id: "Q108227070"
 
 # Kurşunlu Şelalesi Tabiat Parkı
 
-Kurşunlu Şelalesi Tabiat Parkı, Aksu'nun doğal güzellikleri arasında yer alan ve 140 hektarlık alanıyla ziyaretçilerini büyüleyen bir destinasyon. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşillik içerisinde doğayı deneyimleme fırsatı sunuyor. Parkın içerisinde yer alan şelale, ziyaretçilerin en çok ilgi gösterdiği noktalardan biri. Şelalenin güzelliği ve çevredeki yeşillik, ziyaretçilere huzurlu bir ortam sunuyor.
+Kurşunlu Şelalesi Tabiat Parkı, Aksu'nun doğal güzellikleri arasında yer alan ve 140 hektarlık alanıyla ziyaretçilerini büyüleyen bir destinasyon. Parkın içerisinde yer alan şelale, ziyaretçilerin en çok ilgi gösterdiği noktalardan biri. Şelalenin güzelliği ve çevredeki yeşillik, ziyaretçilere huzurlu bir ortam sunuyor.
 
 ## Tarihçe
 

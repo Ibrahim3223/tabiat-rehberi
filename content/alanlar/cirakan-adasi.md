@@ -32,7 +32,7 @@ wikidata_id: "Q34789941"
 
 ## Tarihçe
 
-İzmir'in eşsiz güzellikteki Çırakan Adası, Türkiye'nin zengin tarihsel mirasının bir parçasını oluşturur. Bu bölge, binlerce yıllık bir geçmişe sahip olup, çeşitli uygarlıkların izlerini taşır. Antik Çağ'da İyonya Bölgesi olarak bilinen bu alanda, İzmir ve çevresinde Lidya, Pers ve Roma uygarlıkları hüküm sürmüştür. 
+İzmir'in eşsiz güzellikteki Çırakan Adası, Türkiye'nin zengin tarihsel mirasının bir parçasını oluşturur. Bu bölge, binlerce yıllık bir geçmişe sahip olup, çeşitli uygarlıkların izlerini taşır. Antik Çağ'da İyonya Bölgesi olarak bilinen bu alanda, İzmir ve çevresinde Lidya, Pers ve Roma uygarlıkları hüküm sürmüştür.
 
 Doğal güzelliği ve stratejik konumuyla, Çırakan Adası gibi alanlar, tarihi ticaret yolları ve yaylacılık için önemli merkezler olmuştur. Türkiye'de, özellikle Ege Bölgesi'nde, bu tür doğal alanlar insanların yaşamlarında önemli rol oynamıştır. Yayla ve otlak olarak kullanılan bu bölgeler, hayvancılık ve tarım için elverişli koşullar sunmuştur. Aynı zamanda, tarihi ticaret yollarının güzergahında yer alan bu alanlar, kültürel ve ekonomik alışverişin gerçekleştiği önemli merkezler olarak görev yapmıştır.
 
@@ -50,7 +50,7 @@ Doğal güzellikleri ve stratejik konumuyla Çırakan Adası, Karaburun Yarımad
 
 ## Flora ve Fauna
 
-Çırakan Adası, İzmir'in kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık ada, zeytinlikler ve çam ormanlarıyla kaplı. İlkbaharda, ada çiçeklerle donanırken, yaz aylarında Akdeniz ikliminin etkisiyle kurak bir görünüm kazanıyor. 
+Çırakan Adası, İzmir'in kıyılarında yer alan bir doğa cenneti. Bu 1200 hektarlık ada, zeytinlikler ve çam ormanlarıyla kaplı. İlkbaharda, ada çiçeklerle donanırken, yaz aylarında Akdeniz ikliminin etkisiyle kurak bir görünüm kazanıyor.
 
 Ada, izole bir ekosistem olması nedeniyle benzersiz bir bitki örtüsüne sahip. Kıyı kesimlerde tuzcul bitkiler, iç kesimlerde ise zeytin ve çam ağaçları hakim. Sonbaharda, ada göçmen kuşların önemli bir durağı oluyor. Bu dönemde, ada sahillerinde çeşitli deniz kuşlarını görme mümkün.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228555"
 
 # Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari
 
-Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerini barındırıyor. Burada çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Milli park, aynı zamanda bölgenin tarihi geçmişiyle de dikkat çekiyor. Yüzyıllar boyunca farklı uygarlıkların yaşadığı bu topraklar, bugün doğal güzellikleri ve tarihi değerleriyle ziyaretçileri bekliyor.
+Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri. Burada çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunuyor. Milli park, aynı zamanda bölgenin tarihi geçmişiyle de dikkat çekiyor. Yüzyıllar boyunca farklı uygarlıkların yaşadığı bu topraklar, bugün doğal güzellikleri ve tarihi değerleriyle ziyaretçileri bekliyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari milli parkının tarihi geçmi�
 
 ## Coğrafya
 
-Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli coğrafi özelliklerini barındırıyor. Milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler ile şekilleniyor. İklim, Karadeniz iklimi özellikleri gösteriyor ve yağışlı bir bölge. Milli parkın coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da etkiliyor. Çeşitli bitki türleri ve zengin fauna, milli parkın en önemli doğal değerleri arasında yer alıyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini sunuyor ve farklı coğrafi oluşumları keşfetme imkanı sağlıyor.
+Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli coğrafi özelliklerini barındırıyor. Bölgenin coğrafi yapısı, dağlar, ormanlar ve nehirler ile şekilleniyor. İklim, Karadeniz iklimi özellikleri gösteriyor ve yağışlı bir bölge. Milli parkın coğrafi konumu, aynı zamanda bölgenin flora ve faunasını da etkiliyor. Çeşitli bitki türleri ve zengin fauna, milli parkın en önemli doğal değerleri arasında yer alıyor. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini sunuyor ve farklı coğrafi oluşumları keşfetme imkanı sağlıyor.
 
 ## Flora ve Fauna
 

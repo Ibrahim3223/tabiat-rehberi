@@ -49,11 +49,11 @@ Göllü Dağ, çevresindeki diğer doğal güzelliklerle bağlantılı bir şeki
 
 ## Flora ve Fauna
 
-Göllü Dağ, Niğde'nin gözde doğal alanlarından biri olarak, benzersiz bir dağ ekosisteminin ev sahipliğini yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Göllü Dağ, Niğde'nin gözde doğal alanlarından biri olarak, benzersiz bir dağ ekosisteminin ev sahipliğini yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, step bitki örtüsüne ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler ön plana çıkıyor. İlkbaharın gelişiyle birlikte, alpin flora renk cümbüşü yaratıyor. 
+Bitki Örtüsü olarak, step bitki örtüsüne ve bozkırın hakim olduğu bu bölgede, kuraklığa adapte türler ön plana çıkıyor. İlkbaharın gelişiyle birlikte, alpin flora renk cümbüşü yaratıyor.
 
-Yaban Hayatı olarak, dağların yükseklik zonlarına uyum sağlamış memeliler, kuşlar ve sürüngenler bu alanda yaşamlarını sürdürüyor. Sonbaharın yaklaşmasıyla birlikte, göç eden kuşlar bu dağları ziyaret ediyor. 
+Yaban Hayatı olarak, dağların yükseklik zonlarına uyum sağlamış memeliler, kuşlar ve sürüngenler bu alanda yaşamlarını sürdürüyor. Sonbaharın yaklaşmasıyla birlikte, göç eden kuşlar bu dağları ziyaret ediyor.
 
 Ekolojik Değer olarak, Göllü Dağ'ın korunması büyük önem taşıyor. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesini korumak için hayati önem taşıyor.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390751"
 
 # Karayatağı Tepesi
 
-Karayatağı Tepesi, Yozgat'ın merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, şehrin doğal güzelliklerini ve tarihi değerlerini bir araya getiren önemli bir nokta. Karayatağı Tepesi, ziyaretçilerine şehrin panoramik manzarasını sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunmakta. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için ideal bir gezi noktası.
+Karayatağı Tepesi, Yozgat'ın merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepe. Bu tepe, şehrin doğal güzelliklerini ve tarihi değerlerini bir araya getiren önemli bir nokta. Karayatağı Tepesi, ziyaretçilerine şehrin panoramik manzarasını sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar bulunmakta. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için ideal bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karayatağı Tepesi, tarihsel olarak önemli bir geçmişe sahip. Bu bölgenin t
 
 ## Coğrafya
 
-Karayatağı Tepesi, Yozgat'ın coğrafi yapısını karakterize eden bir tepe. Tepenin yüksekliği, şehrin merkezi ile çevresi arasındaki doğal bir sınır oluşturuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal dengesini koruyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için ideal bir gezi noktası. Tepenin çevresinde, Yozgat'ın diğer doğal güzellikleri de bulunmakta. İç Anadolu Bölgesi'nin karakteristik iklimi, Karayatağı Tepesi'nin etrafındaki bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Tepenin coğrafi konumu, şehre hakim bir görüş açısı sunuyor ve ziyaretçilere Yozgat'ın panoramik manzarasını gösteriyor.
+Karayatağı Tepesi, Yozgat'ın coğrafi yapısını karakterize eden bir tepe. Tepenin yüksekliği, şehrin merkezi ile çevresi arasındaki doğal bir sınır oluşturuyor. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar bulunmakta. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için ideal bir gezi noktası. Tepenin çevresinde, Yozgat'ın diğer doğal güzellikleri de bulunmakta. İç Anadolu Bölgesi'nin karakteristik iklimi, Karayatağı Tepesi'nin etrafındaki bitki örtüsünü ve fauna çeşitliliğini etkiliyor. Tepenin coğrafi konumu, şehre hakim bir görüş açısı sunuyor ve ziyaretçilere Yozgat'ın panoramik manzarasını gösteriyor.
 
 ## Flora ve Fauna
 

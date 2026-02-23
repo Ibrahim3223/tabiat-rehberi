@@ -51,14 +51,14 @@ Göz Tepe, çevresindeki diğer coğrafi oluşumlar ile etkileşim içinde bulun
 
 ## Flora ve Fauna
 
-Göz Tepe, Çorum'un nemli ikliminin hakim olduğu bir dağ ekosisteminde yer alır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Gür ormanlar, yüksek biyoçeşitliliğin bir göstergesidir. 
-Yaban hayatında, çeşitli memeliler, kuşlar ve sürüngenler bulunur. Bu dağ ekosistemi, birçok canlıyaşam alanı sağlar ve ekolojik dengenin korunması açısından önemlidir. 
+Göz Tepe, Çorum'un nemli ikliminin hakim olduğu bir dağ ekosisteminde yer alır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Gür ormanlar, yüksek biyoçeşitliliğin bir göstergesidir.
+Yaban hayatında, çeşitli memeliler, kuşlar ve sürüngenler bulunur. Bu dağ ekosistemi, birçok canlıyaşam alanı sağlar ve ekolojik dengenin korunması açısından önemlidir.
 Göz Tepe'nin korunması, bölgenin biyoçeşitliliğini ve ekolojik dengesini korumak için kritik öneme sahiptir.
 
 ## Ziyaret Bilgileri
 
-Göz Tepe, Çorum'un doğa harikalarından biri. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de günün en güzel ışıklarında trekking yapabilirsiniz. Çorum'dan yaklaşık 30 kilometre uzaklıkta bulunan Göz Tepe'ye, özel araç veya toplu taşıma ile fácil bir şekilde ulaşabilirsiniz. İlkbahar ve sonbahar ayları, trekking ve kamp için ideal zamanlar. Yanınıza su, atıştırmalık ve uygun giysiler alın vì dağda hava koşulları değişebilir.
+Göz Tepe, Çorum'un doğa harikalarından biri. Sabah erken gitmenizi öneririm, hem kalabalıktan kurtulursunuz hem de günün en güzel ışıklarında trekking yapabilirsiniz. Çorum'dan yaklaşık 30 kilometre uzaklıkta bulunan Göz Tepe'ye, özel araç veya toplu taşıma ile kolay bir şekilde ulaşabilirsiniz. İlkbahar ve sonbahar ayları, trekking ve kamp için ideal zamanlar. Yanınıza su, atıştırmalık ve uygun giysiler alın vì dağda hava koşulları değişebilir.
 
 ## İlginç Bilgiler
 

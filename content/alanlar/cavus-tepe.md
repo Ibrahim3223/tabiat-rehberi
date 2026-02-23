@@ -29,7 +29,7 @@ wikidata_id: "Q34824417"
 
 # Çavuş Tepe
 
-Kırklareli'nin doğal güzelliklerinden biri olan Çavuş Tepe, 140 hektarlık alanıyla dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ve fauna ile kaplı. Çavuş Tepe, Marmara Bölgesi'nin önemli coğrafik oluşumlarından biri olarak kabul ediliyor. Bölge, tarihi geçmişi ve doğal güzelliği ile birlikte ziyaretçilerini cezbediyor. 140 hektarlık bu yeşil alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor.
+Kırklareli'nin doğal güzelliklerinden biri olan Çavuş Tepe, 140 hektarlık alanıyla dikkat çekiyor. Çavuş Tepe, Marmara Bölgesi'nin önemli coğrafik oluşumlarından biri olarak kabul ediliyor. Bölge, tarihi geçmişi ve doğal güzelliği ile birlikte ziyaretçilerini cezbediyor. 140 hektarlık bu yeşil alan, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 

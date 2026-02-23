@@ -30,7 +30,7 @@ wikidata_id: "Q134726993"
 
 # Kırk Şehitler Anıtı
 
-Kırklareli ilinin merkezinde yer alan Kırk Şehitler Anıtı, şehrin tarihi ve doğal güzelliklerinin birleştiği önemli bir noktadır. Bu anıt, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Kırk Şehitler Anıtı, şehrin tarihinde önemli bir yere sahiptir ve her yıl birçok ziyaretçi tarafından gezilmektedir. Anıtın etrafında çeşitli bitkiler ve ağaçlar bulunmaktadır ve bu da anıtın güzelliğini artırmaktadır. Anıtın tarihi geçmişi, şehrin önemli olaylarına tanıklık etmiştir ve bu nedenle çok önemlidir.
+Kırklareli ilinin merkezinde yer alan Kırk Şehitler Anıtı, şehrin tarihi ve doğal güzelliklerinin birleştiği önemli bir noktadır. Kırk Şehitler Anıtı, şehrin tarihinde önemli bir yere sahiptir ve her yıl birçok ziyaretçi tarafından gezilmektedir. Anıtın etrafında çeşitli bitkiler ve ağaçlar bulunmaktadır ve bu da anıtın güzelliğini artırmaktadır. Anıtın tarihi geçmişi, şehrin önemli olaylarına tanıklık etmiştir ve bu nedenle çok önemlidir.
 
 ## Tarihçe
 

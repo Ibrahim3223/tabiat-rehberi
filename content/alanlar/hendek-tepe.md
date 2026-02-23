@@ -50,7 +50,7 @@ Hendek Tepe dağının çevresel ilişkileri de önemlidir. Van Gölü'ne yakın
 
 ## Flora ve Fauna
 
-Hendek Tepe, Van'ın yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hendek Tepe, Van'ın yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak; ilkbaharla birlikte, Hendek Tepe'nin yamaçları renkli bir hal alır. Alpin çayırlar, dağ ekosisteminin karakteristik özelliklerini taşır. Yükseklik zonlarına göre değişen flora, ziyaretçilere benzersiz bir deneyim sunar.
 

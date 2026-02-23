@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Sinan Hamamı"
 date: "2026-01-09T22:58:51.982Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738840"
 
 # Şeyh Sinan Hamamı
 
-Şeyh Sinan Hamamı, İstanbul'un Çatalca ilçesinde yer alan ve Marmara Bölgesi'nin en güzel doğal plajlarından biri olarak bilinen bir destinasyon. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahip. Şeyh Sinan Hamamı, doğal güzelliği, temiz suyu ve sakin atmosferi ile ziyaretçilerini cezbediyor. Plajın etrafında yer alan tepeler ve ormanlık alanlar, manzarayı daha da güzelleştiriyor ve ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Şeyh Sinan Hamamı, İstanbul'un Çatalca ilçesinde yer alan ve Marmara Bölgesi'nin en güzel doğal plajlarından biri olarak bilinen bir destinasyon. Şeyh Sinan Hamamı, doğal güzelliği, temiz suyu ve sakin atmosferi ile ziyaretçilerini cezbediyor. Plajın etrafında yer alan tepeler ve ormanlık alanlar, manzarayı daha da güzelleştiriyor ve ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 

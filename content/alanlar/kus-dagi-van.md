@@ -32,7 +32,7 @@ Van'ın doğal güzelliklerine ev sahipliği yapan Kuş Dağı, Türkiye'nin en 
 
 ## Tarihçe
 
-Van bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Urartular, Medler, Persler ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşıyan bu coğrafya, doğal güzellikleri ile de dikkat çeker. Kuş Dağı, bu zengin tarihsel mirasın bir parçası olarak doğal bir kale gibi yükselir.
+Van bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Urartular, Medler, Persler ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşıyan bu coğrafya, doğal güzellikleri ile de dikkat çeker. Kuş Dağı, bu zengin tarihsel mirasın bir parçası olarak doğal bir kale gibi yükselir.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. İnsanlar, bu bölgelerde yaylacılık, hayvancılık ve avcılık gibi faaliyetlerle geçimlerini sağlamışlardır. Ayrıca, tarihi ticaret yolları da genellikle bu doğal güzelliklerin etrafından geçerdi. Van bölgesinin de bu bağlamda önemli bir konumu vardır. Bölgedeki dağlar ve ovalar, geçmişte çeşitli medeniyetlerin yerleşim ve ticaret merkezleri olarak hizmet vermiştir.
 

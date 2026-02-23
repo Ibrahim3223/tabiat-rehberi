@@ -1,7 +1,7 @@
 ---
 title: "Dev Ali Türbesi"
 date: "2026-01-10T06:58:14.316Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390857"
 
 # Dev Ali Türbesi
 
-Dev Ali Türbesi, İç Anadolu Bölgesi'nin Kayseri iline bağlı Develi ilçesinde yer alan tarihi ve kültürel bir zenginliktir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Bu mekan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Dev Ali Türbesi, Develi'nin merkezine uzun bir mesafe uzaklıkta yer almaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Dev Ali Türbesi, ziyaretçilerine hem tarihi bir yolculuk hem de doğal bir ortam sunmaktadır.
+Dev Ali Türbesi, İç Anadolu Bölgesi'nin Kayseri iline bağlı Develi ilçesinde yer alan tarihi ve kültürel bir zenginliktir. Bu mekan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Dev Ali Türbesi, Develi'nin merkezine uzun bir mesafe uzaklıkta yer almaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Dev Ali Türbesi, ziyaretçilerine hem tarihi bir yolculuk hem de doğal bir ortam sunmaktadır.
 
 ## Tarihçe
 

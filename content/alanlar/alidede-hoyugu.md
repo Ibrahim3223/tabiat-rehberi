@@ -28,7 +28,7 @@ wikidata_id: "Q32127158"
 
 # Alidede Höyüğü
 
-Alidede Höyüğü, Giresun'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en önemli höyüğüdür. Höyüğün tarihi geçmişi, bölgenin zengin kültürel mirasını ortaya koyuyor. Alidede Höyüğü, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.
+Alidede Höyüğü, Giresun'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Höyüğün tarihi geçmişi, bölgenin zengin kültürel mirasını ortaya koyuyor. Alidede Höyüğü, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor.
 
 ## Tarihçe
 

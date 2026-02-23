@@ -1,7 +1,7 @@
 ---
 title: "Sanullah Paşa Türbesi Ladik"
 date: "2026-01-10T07:56:13.872Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391331"
 
 # Sanullah Paşa Türbesi Ladik
 
-Sanullah Paşa Türbesi, Ladik ilçesinin merkezinde yer alan bir tarihi yapıdır. 140 hektarlık bir alan üzerinde bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir arazide kurulmuştur. Türbenin etrafında çeşitli cây türleri ve yaban hayatı bulunmaktadır. Sanullah Paşa Türbesi, tarihi ve kültürel zenginliği ile Karadeniz Bölgesi'nin önemli turistik noktalarından biridir.
+Sanullah Paşa Türbesi, Ladik ilçesinin merkezinde yer alan bir tarihi yapıdır. Türbenin etrafında çeşitli cây türleri ve yaban hayatı bulunmaktadır. Sanullah Paşa Türbesi, tarihi ve kültürel zenginliği ile Karadeniz Bölgesi'nin önemli turistik noktalarından biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sanullah Paşa Türbesi, tarihi geçmişi ile dikkat çekmektedir. Bu türbenin 
 
 ## Coğrafya
 
-Sanullah Paşa Türbesi, Karadeniz Bölgesi'nin Samsun iline bağlı Ladik ilçesinde yer almaktadır. Türbe, 140 hektarlık bir alan üzerinde kurulmuş olup, aproximadamente 200 futbol sahası büyüklüğünde bir arazide bulunmaktadır. Türbenin etrafında çeşitli cây türleri ve yaban hayatı bulunmaktadır. Bu bölge, Karadeniz Bölgesi'nin karakteristik iklim conditionsına sahiptir ve yaz aylarında sıcaklık ve nem oranı yüksektir. Kış aylarında ise soğuk ve yağışlı bir hava hakimdir. Sanullah Paşa Türbesi, Ladik ilçesinin merkezine yakın bir konumda yer almaktadır ve ulaşım açısından kolaylık sağlamaktadır.
+Sanullah Paşa Türbesi, Karadeniz Bölgesi'nin Samsun iline bağlı Ladik ilçesinde yer almaktadır. Türbenin etrafında çeşitli cây türleri ve yaban hayatı bulunmaktadır. Bu bölge, Karadeniz Bölgesi'nin karakteristik iklim conditionsına sahiptir ve yaz aylarında sıcaklık ve nem oranı yüksektir. Kış aylarında ise soğuk ve yağışlı bir hava hakimdir. Sanullah Paşa Türbesi, Ladik ilçesinin merkezine yakın bir konumda yer almaktadır ve ulaşım açısından kolaylık sağlamaktadır.
 
 ## Flora ve Fauna
 

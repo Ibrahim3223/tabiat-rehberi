@@ -28,7 +28,7 @@ wikidata_id: "Q32210751"
 
 # Küldurmaz Tepesi
 
-Küldurmaz Tepesi, Yozgat ilinin İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve genişliği, bölgenin coğrafyasını etkileyen önemli faktörler. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Bu bitki örtüsü, bölgenin ekolojisini destekleyen önemli bir kaynak.
+Küldurmaz Tepesi, Yozgat ilinin İç Anadolu Bölgesi'nde yer alan bir tepe. Tepenin yüksekliği ve genişliği, bölgenin coğrafyasını etkileyen önemli faktörler. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Bu bitki örtüsü, bölgenin ekolojisini destekleyen önemli bir kaynak.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Küldurmaz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu te
 
 ## Coğrafya
 
-Küldurmaz Tepesi, Yozgat ilinin İç Anadolu Bölgesi'nde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve genişliği, bölgenin coğrafyasını etkileyen önemli faktörler. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Bu bitki örtüsü, bölgenin ekolojisini destekleyen önemli bir kaynak. Tepenin etrafındaki yerleşim yerleri, bu tepeye olan yakınlıkları nedeniyle, önemli bir konumda bulunuyor. Tepenin coğrafyası, bölgenin iklimini ve hava koşullarını etkileyen önemli bir faktör.
+Küldurmaz Tepesi, Yozgat ilinin İç Anadolu Bölgesi'nde yer alıyor. Tepenin yüksekliği ve genişliği, bölgenin coğrafyasını etkileyen önemli faktörler. Tepenin eteklerinde, çeşitli bitki türleri ve ağaçlar yer alıyor. Bu bitki örtüsü, bölgenin ekolojisini destekleyen önemli bir kaynak. Tepenin etrafındaki yerleşim yerleri, bu tepeye olan yakınlıkları nedeniyle, önemli bir konumda bulunuyor. Tepenin coğrafyası, bölgenin iklimini ve hava koşullarını etkileyen önemli bir faktör.
 
 ## Flora ve Fauna
 

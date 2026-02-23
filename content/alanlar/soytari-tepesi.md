@@ -28,7 +28,7 @@ wikidata_id: "Q31386193"
 
 # Soytarı Tepesi
 
-Gaziantep'in güzide yerlerinden biri olan Soytarı Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreyi panoramik olarak seyretmek için mükemmel bir noktada bulunmaktadır. Soytarı Tepesi, hem doğa severler hem de şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için bir çekim merkezi olarak dikkat çekmektedir. Bu tepe, ziyaretçilerini şehrin eşsiz manzarasıyla karşılar ve bölgenin zengin flora ve faunasını keşfetme fırsatı sunar.
+Gaziantep'in güzide yerlerinden biri olan Soytarı Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Soytarı Tepesi, hem doğa severler hem de şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için bir çekim merkezi olarak dikkat çekmektedir. Bu tepe, ziyaretçilerini şehrin eşsiz manzarasıyla karşılar ve bölgenin zengin flora ve faunasını keşfetme fırsatı sunar.
 
 ## Tarihçe
 

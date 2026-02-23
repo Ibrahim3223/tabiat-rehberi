@@ -50,11 +50,11 @@ Doğal güzellikleri ile ön plana çıkan Karakuz Dağı, yaklaşık olarak bir
 
 ## Flora ve Fauna
 
-Karakuz Dağı, Kastamonu'nun nemli ikliminin hakim olduğu bölgesinde, gür ormanlarla kaplı bir dağ ekosistemini barındırır. Bu yüksek biyoçeşitlilik bölgesinde, flora ve fauna zenginliği gözlemlenir. 
+Karakuz Dağı, Kastamonu'nun nemli ikliminin hakim olduğu bölgesinde, gür ormanlarla kaplı bir dağ ekosistemini barındırır. Bu yüksek biyoçeşitlilik bölgesinde, flora ve fauna zenginliği gözlemlenir.
 
-Bitki örtüsünde, ilkbahar aylarında çiçeklenen çeşitli türler, sonbaharda ise renkli yapraklarla kaplı ağaçlar hakimdir. Dağın yükseklik zonlarına göre değişen alpin flora, bu bölgenin eşsiz güzelliğini oluşturur. 
+Bitki örtüsünde, ilkbahar aylarında çiçeklenen çeşitli türler, sonbaharda ise renkli yapraklarla kaplı ağaçlar hakimdir. Dağın yükseklik zonlarına göre değişen alpin flora, bu bölgenin eşsiz güzelliğini oluşturur.
 
-Yaban hayatı açısından, dağda çeşitli memeli ve kuş türleri yaşar. Göç eden kuşlar, sonbaharda bu bölgeden geçer. Sürüngenler de dağın kayalık alanlarında bulunur. Bu canlılar, dağ ekosisteminin dengesini sağlar ve birbirlerine bağımlıdır. 
+Yaban hayatı açısından, dağda çeşitli memeli ve kuş türleri yaşar. Göç eden kuşlar, sonbaharda bu bölgeden geçer. Sürüngenler de dağın kayalık alanlarında bulunur. Bu canlılar, dağ ekosisteminin dengesini sağlar ve birbirlerine bağımlıdır.
 
 Karakuz Dağı, yüksek biyoçeşitliliği ve dağ ekosistemi nedeniyle ekolojik olarak önemlidir. Bu bölge, çeşitli canlı türlerinin yaşam alanıdır ve koruma altına alınması gerekir.
 

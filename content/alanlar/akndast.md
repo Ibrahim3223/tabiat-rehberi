@@ -32,7 +32,7 @@ Van'ın doğal güzellikleriyle ünlü coğrafyasında, ziyaretçilerini büyül
 
 ## Tarihçe
 
-Van bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Bu bölge, Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Akndaşt Kanyonu da, bu tarihsel zenginliğin bir parçasıdır. Türkiye'de doğal alanlar, insan yerleşimlerinin ve ticaret yollarının oluşumunda önemli bir rol oynamıştır. Van Gölü ve çevresindeki dağlar, tarihi İpek Yolu'nun önemli bir bölümünü oluşturmuştur.
+Van bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Bu bölge, Urartular, Persler, Romalılar ve Osmanlılar gibi çeşitli uygarlıkların izlerini taşıyan bir coğrafyadır. Akndaşt Kanyonu da, bu tarihsel zenginliğin bir parçasıdır. Türkiye'de doğal alanlar, insan yerleşimlerinin ve ticaret yollarının oluşumunda önemli bir rol oynamıştır. Van Gölü ve çevresindeki dağlar, tarihi İpek Yolu'nun önemli bir bölümünü oluşturmuştur.
 
 Bu bölgede yaşayan insanların hayatları, doğal alanlarla yakından bağlantılıdır. Yaylacılık ve hayvancılık, bölgenin ekonomisinin temelini oluşturur. Akndaşt Kanyonu ve benzeri doğal oluşumlar, insanları geçmişte olduğu gibi günümüzde de etkilemeye devam etmektedir. Bölgenin coğrafi özellikleri, insan yerleşimlerini ve faaliyetlerini şekillendirmiştir. Akndaşt Kanyonu, bu tarihsel ve coğrafi bağlam içinde, Van bölgesinin doğal güzelliklerini ve kültürel zenginliğini yansıtan önemli bir doğal alan olarak dikkat çekmektedir.
 
@@ -48,9 +48,9 @@ Jeolojik açıdan bakıldığında, Akndaşt'ın fiziksel yapısı oldukça ilgi
 
 ## Flora ve Fauna
 
-Van'ın Akndaşt kanyonunda, yüksek dağ ekolojisi hakim. 1200 metre yükseklikte, alpin çayırların renk cümbüşü ile karşılaşırız. İlkbaharın gelmesiyle birlikte, çayırlar renklendirilir; sarı, mavi ve beyaz çiçekler her yeri kaplar. Sonbaharda ise, göçmen kuşlar kanyonun gökyüzünü süsler. 
+Van'ın Akndaşt kanyonunda, yüksek dağ ekolojisi hakim. 1200 metre yükseklikte, alpin çayırların renk cümbüşü ile karşılaşırız. İlkbaharın gelmesiyle birlikte, çayırlar renklendirilir; sarı, mavi ve beyaz çiçekler her yeri kaplar. Sonbaharda ise, göçmen kuşlar kanyonun gökyüzünü süsler.
 
-Bitki örtüsünde, yüksek dağ ekosistemine özgü türler bulunur. Bu türler, soğuğa ve kuraklığa uyum sağlamışlardır. Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Kanyonun dik yamaçlarında, dağ keçileri ve yaban keçileri yaşam alanı bulur. 
+Bitki örtüsünde, yüksek dağ ekosistemine özgü türler bulunur. Bu türler, soğuğa ve kuraklığa uyum sağlamışlardır. Yaban hayatı ise, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Kanyonun dik yamaçlarında, dağ keçileri ve yaban keçileri yaşam alanı bulur.
 
 Akndaşt kanyonunun ekolojik değeri, endemik türlerin varlığından kaynaklanır. Bu türler, sadece bu bölgede bulunur ve diğer hiçbir yerde görülmez. Bu nedenle, koruma altına alınmaları büyük önem taşır.
 

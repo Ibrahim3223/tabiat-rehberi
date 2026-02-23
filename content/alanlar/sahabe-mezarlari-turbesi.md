@@ -1,7 +1,7 @@
 ---
 title: "Sahabe Mezarları Türbesi"
 date: "2026-01-10T06:53:54.235Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"

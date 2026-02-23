@@ -1,7 +1,7 @@
 ---
 title: "Çaşnıgir Osman Ağa Türbesi"
 date: "2026-01-10T07:41:49.689Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391168"
 
 # Çaşnıgir Osman Ağa Türbesi
 
-Fatih, İstanbul'da bulunan Çaşnıgir Osman Ağa Türbesi, Marmara Bölgesi'nin önemli tarihi noktalarından biridir. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Çaşnıgir Osman Ağa Türbesi, sadece bir tarihi yapı değil, aynı zamanda güzel bir plajın da bulunduğu bir bölgedir. İstanbul'un kalabalık ve hareketli hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bu bölge, hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
+Fatih, İstanbul'da bulunan Çaşnıgir Osman Ağa Türbesi, Marmara Bölgesi'nin önemli tarihi noktalarından biridir. Çaşnıgir Osman Ağa Türbesi, sadece bir tarihi yapı değil, aynı zamanda güzel bir plajın da bulunduğu bir bölgedir. İstanbul'un kalabalık ve hareketli hayatından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bu bölge, hem tarihi hem de doğal güzellikleri bir arada sunmaktadır.
 
 ## Tarihçe
 

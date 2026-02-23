@@ -22,7 +22,7 @@ wikidata_id: "Q108228845"
 
 # Doğubeyazıt Sazlıkları Sulak Alanı
 
-Doğubeyazıt Sazlıkları Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çeker. Bu alan, yaklaşık 140 hektarlık geniş bir sulak alanı kapsar ve bu genişlik, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu sulak alan, çeşitli bitki türleri ve zengin fauna ile dolu bir ekosistemi destekler. Doğubeyazıt Sazlıkları Sulak Alanı, hem yerli hem de göçmen kuş türleri için önemli bir durak noktasıdır ve bu nedenle doğa severler ve kuş gözlemcileri için bir cennet olarak kabul edilir. Bu alanın korunması, bölgenin ekolojik dengesinin korunması için son derece önemlidir.
+Doğubeyazıt Sazlıkları Sulak Alanı, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çeker. Bu sulak alan, çeşitli bitki türleri ve zengin fauna ile dolu bir ekosistemi destekler. Doğubeyazıt Sazlıkları Sulak Alanı, hem yerli hem de göçmen kuş türleri için önemli bir durak noktasıdır ve bu nedenle doğa severler ve kuş gözlemcileri için bir cennet olarak kabul edilir. Bu alanın korunması, bölgenin ekolojik dengesinin korunması için son derece önemlidir.
 
 ## Tarihçe
 

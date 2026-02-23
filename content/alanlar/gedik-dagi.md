@@ -49,7 +49,7 @@ Jeolojik açıdan bakıldığında, Gedik Dağı'nın fiziksel yapısı hakkınd
 
 ## Flora ve Fauna
 
-Gedik Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Gedik Dağı, Erzurum'un yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Dağın yükseklik zonlarında, alpin çayırlar ve endemik türler hakimdir. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göç eden kuşlar dağların üzerinden geçer.
 
 Memeliler ve kuşlar, bu dağ ekosisteminin önemli parçalarıdır. Dağ keçileri ve yaban keçileri, dağların dik yamaçlarında yaşarken, kartallar ve şahinler gökyüzünde uçar. Sürüngenler de, kayalık alanlarda ve çayırlarda yaşamlarını sürdürür.

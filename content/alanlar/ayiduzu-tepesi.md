@@ -28,7 +28,7 @@ wikidata_id: "Q32131383"
 
 # Ayıdüzü Tepesi
 
-Ayıdüzü Tepesi, Kars ilinin güzide bir noktası olarak doğa severlerin dikkatini çekmektedir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplamaktadır, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta, bu da bölgenin ekolojik zenginliğine katkıda bulunmaktadır. Ayıdüzü Tepesi, aynı zamanda doğa yürüyüşü sevenler için ideal bir destinasyon olarak ortaya çıkmaktadır. Tepenin zirvesinden manzaranın keyfini çıkarırken, aynı zamanda bölgenin geçmişi hakkında da bilgi edinebilirsiniz.
+Ayıdüzü Tepesi, Kars ilinin güzide bir noktası olarak doğa severlerin dikkatini çekmektedir. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta, bu da bölgenin ekolojik zenginliğine katkıda bulunmaktadır. Ayıdüzü Tepesi, aynı zamanda doğa yürüyüşü sevenler için ideal bir destinasyon olarak ortaya çıkmaktadır. Tepenin zirvesinden manzaranın keyfini çıkarırken, aynı zamanda bölgenin geçmişi hakkında da bilgi edinebilirsiniz.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228562"
 
 # Eskisehir-Mihaliccik-Yunusemre-Karacam
 
-Eskisehir-Mihaliccik-Yunusemre-Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Bu milli park, doğal güzellikleri ve zengin faunaiyle ziyaretçilerini büyüleyen bir destinasyon. Ziyaretçiler, burada çeşitli bitkilerin arasında dolaşabilir, faunaın çeşitliliğini keşfedebilir ve doğanın huzurunu yaşayabilir.
+Eskisehir-Mihaliccik-Yunusemre-Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu milli park, doğal güzellikleri ve zengin faunaiyle ziyaretçilerini büyüleyen bir destinasyon. Ziyaretçiler, burada çeşitli bitkilerin arasında dolaşabilir, faunaın çeşitliliğini keşfedebilir ve doğanın huzurunu yaşayabilir.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227696"
 
 # Eskişehir-Kalabak Saricam
 
-Eskişehir-Kalabak Saricam, İç Anadolu Bölgesi'nin en güzel milli parklarından biri olarak dikkat çekiyor. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip olan bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Eskişehir'in merkezine yakın bir konumda bulunan Kalabak Saricam, şehir yaşamının telaşesinden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Milli parkın içerisinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun alanları gibi imkanlar, ziyaretçilerin doğayla iç içe vakit geçirmelerini sağlıyor.
+Eskişehir-Kalabak Saricam, İç Anadolu Bölgesi'nin en güzel milli parklarından biri olarak dikkat çekiyor. Eskişehir'in merkezine yakın bir konumda bulunan Kalabak Saricam, şehir yaşamının telaşesinden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Milli parkın içerisinde çeşitli yürüyüş yolları, piknik alanları ve çocuk oyun alanları gibi imkanlar, ziyaretçilerin doğayla iç içe vakit geçirmelerini sağlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Eskişehir-Kalabak Saricam'ın tarihi geçmişi, yüzyıllar boyunca devam eden 
 
 ## Coğrafya
 
-Eskişehir-Kalabak Saricam, İç Anadolu Bölgesi'nin coğrafi yapısına uygun bir şekilde, geniş ve yeşil bir alana sahiptir. Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş yeşil alanda, çeşitli bitki türleri ve ağaçlar bulunuyor. Milli parkın coğrafi konumu, ziyaretçilerin doğanın güzelliğini keşfetmelerine olanak tanıyor. Eskişehir-Kalabak Saricam, şehir merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolaydır. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun bir şekilde, karasal iklim özellikleri gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor.
+Eskişehir-Kalabak Saricam, İç Anadolu Bölgesi'nin coğrafi yapısına uygun bir şekilde, geniş ve yeşil bir alana sahiptir. Bu geniş yeşil alanda, çeşitli bitki türleri ve ağaçlar bulunuyor. Milli parkın coğrafi konumu, ziyaretçilerin doğanın güzelliğini keşfetmelerine olanak tanıyor. Eskişehir-Kalabak Saricam, şehir merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolaydır. Milli parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun bir şekilde, karasal iklim özellikleri gösteriyor. Kış aylarında soğuk ve kar yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hüküm sürüyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Eskişehir-Kalabak Saricam, ziyaretçilerine çeşitli imkanlar sunuyor. Milli p
 ## İlginç Bilgiler
 
 - Eskişehir-Kalabak Saricam, 140 hektarlık bir alana sahiptir.
-- Milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Eskişehir-Kalabak Saricam, İç Anadolu Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor.
 - Milli parkın flora ve fauna çeşitliliği oldukça zengindir.
 - Ziyaretçiler, milli parkın güzelliğini keşfetmek için, yürüyüş yapabilir veya bisiklet kullanarak milli parkı gezebilirler.

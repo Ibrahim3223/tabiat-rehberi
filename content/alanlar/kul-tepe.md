@@ -51,13 +51,13 @@ Doğal güzelliği ile dikkat çeken Kul Tepe, çevredeki coğrafyasıyla birlik
 
 ## Flora ve Fauna
 
-Kul Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 metre yükseklikte, step ve ova ekolojisinin birleştiği bu bölge, mevsimsel değişimlere uyum sağlayan bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
+Kul Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 metre yükseklikte, step ve ova ekolojisinin birleştiği bu bölge, mevsimsel değişimlere uyum sağlayan bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
 
-İlkbaharın gelişiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Bu dönem, dağ keçileri ve yaban keçilerinin çayırlarda otlamak için en uygun zamanıdır. Sonbaharda, göçmen kuşlar bu bölgeyi konaklama noktası olarak seçerler. 
+İlkbaharın gelişiyle birlikte, dağ yamaçları renkli çiçeklerle donanır. Bu dönem, dağ keçileri ve yaban keçilerinin çayırlarda otlamak için en uygun zamanıdır. Sonbaharda, göçmen kuşlar bu bölgeyi konaklama noktası olarak seçerler.
 
-Dağların yükseklik zonlarında, alpin flora hakimdir. Bu zorlu koşullarda, sadece dayanıklı bitkiler hayatta kalabilir. Bu bitkiler, dağ hayvanlarının beslenmesi ve barınması için önemli bir kaynak oluşturur. 
+Dağların yükseklik zonlarında, alpin flora hakimdir. Bu zorlu koşullarda, sadece dayanıklı bitkiler hayatta kalabilir. Bu bitkiler, dağ hayvanlarının beslenmesi ve barınması için önemli bir kaynak oluşturur.
 
-Kul Tepe'nin fauna çeşitliliği, memeliler, kuşlar ve sürüngenlerle temsil edilir. Dağ keçileri, yaban keçileri ve tilkiler, bu bölgenin memeli türleridir. Kuşlar, özellikle göç mevsimlerinde, bu bölgede önemli bir rol oynar. Sürüngenler, özellikle yılanlar ve kertenkeleler, bu bölgenin sıcak ve kuru bölgelerinde yaşar. 
+Kul Tepe'nin fauna çeşitliliği, memeliler, kuşlar ve sürüngenlerle temsil edilir. Dağ keçileri, yaban keçileri ve tilkiler, bu bölgenin memeli türleridir. Kuşlar, özellikle göç mevsimlerinde, bu bölgede önemli bir rol oynar. Sürüngenler, özellikle yılanlar ve kertenkeleler, bu bölgenin sıcak ve kuru bölgelerinde yaşar.
 
 Kul Tepe'nin ekolojik değeri, bu bölgenin doğa koruma alanlarından biri olmasıdır. Bu bölge, birçok endemik türün yaşadığı bir habitat olarak kabul edilir.
 

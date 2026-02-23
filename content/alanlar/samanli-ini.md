@@ -52,7 +52,7 @@ Samanlı İni, Mersin'in doğal güzelliklerinin bir parçası olarak, çevresin
 
 Samanlı İni, Mersin'de bulunan bir jeoparktır. Bu bölge, maki bitki örtüsüne ev sahipliği yapar ve kuraklığa dayanıklı türler burada yaşar. Kıyı ekosistemine sahip olan bu alan, zengin bir flora ve faunaya sahiptir.
 
-Bitki örtüsü olarak, maki türleri hakimdir. İlkbahar mevsiminde, bu bölge rengarenk çiçeklerle kaplanır. Orman ekosisteminde, çeşitli ağaç türleri bulunur ve bu ağaçlar, birçok canlıyaşam alanı sağlar. 
+Bitki örtüsü olarak, maki türleri hakimdir. İlkbahar mevsiminde, bu bölge rengarenk çiçeklerle kaplanır. Orman ekosisteminde, çeşitli ağaç türleri bulunur ve bu ağaçlar, birçok canlıyaşam alanı sağlar.
 
 Yaban hayatı olarak, orman memelileri ve çeşitli kuş türleri bu bölgede yaşar. Sonbahar mevsiminde, göç eden kuşlar buraya uğrar ve bu alan, onların geçici yaşam alanı olur. Sürüngenler de bu bölgede bulunur ve ekosistemin dengesini sağlar.
 

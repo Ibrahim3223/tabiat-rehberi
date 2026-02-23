@@ -28,11 +28,11 @@ wikidata_id: "Q34816217"
 
 # Türken Tepesi
 
-Türken Tepesi, Marmara Bölgesi'nin eşsiz doğal güzelliklerinden biri olarak dikkat çekiyor. Balıkesir'in önemli noktalarından biri olan bu tepe, 140 hektarlık geniş bir alanı kaplıyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın kalbinde bir macera bekliyor. Doğa severler için cennet gibi bir yer olan Türken Tepesi, her mevsim farklı bir güzelliğe sahip. İlkbaharın renk cümbüşü, yazın yeşilin hakimiyeti, sonbaharın sarı ve kırmızısının dansı ve kışın karla kaplı manzarası, ziyaretçilere dört mevsim farklı bir deneyimleyebilir sunuyor.
+Türken Tepesi, Marmara Bölgesi'nin eşsiz doğal güzelliklerinden biri olarak dikkat çekiyor. Balıkesir'in önemli noktalarından biri olan bu tepe, 140 hektarlık geniş bir alanı kaplıyor. Doğa severler için cennet gibi bir yer olan Türken Tepesi, her mevsim farklı bir güzelliğe sahip. İlkbaharın renk cümbüşü, yazın yeşilin hakimiyeti, sonbaharın sarı ve kırmızısının dansı ve kışın karla kaplı manzarası, ziyaretçilere dört mevsim farklı bir deneyimleyebilir sunuyor.
 
 ## Tarihçe
 
-Türken Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu bölgenin tarihi önemiı, farklı kültürlerin bir araya geldiği bir noktada bulunmasından kaynaklanıyor. Geçmişte önemli bir yerleşim yeri olarak kullanılan bu bölge, günümüzde doğal güzelliği ve tarihsel önemiıyla ziyaretçilerini cezbediyor. Tarihi değerlerinin yanı sıra, doğanın güzelliği de bu tepeyi özel kılıyor. Doğal güzelliği ve tarihi önemiı bir arada sunan Türken Tepesi, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Türken Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu bölgenin tarihi önemiı, farklı kültürlerin bir araya geldiği bir noktada bulunmasından kaynaklanıyor. Geçmişte önemli bir yerleşim yeri olarak kullanılan bu bölge, günümüzde doğal güzelliği ve tarihsel önemiıyla ziyaretçilerini cezbediyor. Tarihi değerlerinin yanı sıra, doğanın güzelliği de bu tepeyi özel kılıyor.
 
 ## Coğrafya
 

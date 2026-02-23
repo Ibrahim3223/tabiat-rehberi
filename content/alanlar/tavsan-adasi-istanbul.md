@@ -53,7 +53,7 @@ Tavşan Adası, İstanbul'un diğer adaları ile birlikte bir ekosistem ağını
 
 Tavşan Adası, İstanbul'un kıyılarında yer alan bir ada olarak, geçiş ikliminin ve karma ormanların etkisi altında kalır. Bu bölge, göçmen kuş rotasının da bir parçası olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar.
 
-Bitki Örtüsü: Ada, ilkbahar aylarında çiçeklerle kaplanır ve yazın yeşil bir örtüye bürünür. Kıyı şeridinde tuzlu suya dayanıklı bitkiler bulunur. 
+Bitki Örtüsü: Ada, ilkbahar aylarında çiçeklerle kaplanır ve yazın yeşil bir örtüye bürünür. Kıyı şeridinde tuzlu suya dayanıklı bitkiler bulunur.
 
 Yaban Hayatı: Ada, deniz kuşlarının yuvaları olarak kullanılır ve memeliler de adanın izole ortamında yaşar. Göçmen kuşlar, özellikle sonbahar aylarında ada üzerinden geçer.
 

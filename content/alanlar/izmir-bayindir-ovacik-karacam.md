@@ -22,7 +22,7 @@ wikidata_id: "Q108227514"
 
 # Izmir-Bayindir-Ovacik Karacam
 
-Izmir-Bayindir-Ovacik Karacam Milli Parkı, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu milli park, İzmir'in Bayındır ilçesinde yer alır. Parkın doğusunda ve batısında yüksek dağlar bulunur. Bu dağlar, parkın coğrafi yapısını etkileyen önemli özelliklerdir. Milli park, özellikle pikni ve doğa yürüyüşü için elverişli bir ortama sahiptir. Ayrıca, parkın içinde çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Izmir-Bayindir-Ovacik Karacam Milli Parkı, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. Parkın doğusunda ve batısında yüksek dağlar bulunur. Bu dağlar, parkın coğrafi yapısını etkileyen önemli özelliklerdir. Milli park, özellikle pikni ve doğa yürüyüşü için elverişli bir ortama sahiptir. Ayrıca, parkın içinde çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Izmir-Bayindir-Ovacik Karacam Milli Parkı, Ege Bölgesi'nin coğrafi yapısı i
 
 ## Flora ve Fauna
 
-Izmir-Bayindir-Ovacik Karacam Milli Parkı, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Parkın flora yapısı, bölgenin iklimi ve toprak yapısına uygun olarak şekillenmiştir. Parkta, özellikle çam, kızılçam, meşe ve kestane gibi ağaç türleri bulunmaktadır. Parkın fauna yapısı, bölgenin coğrafi konumu ve iklimine göre şekillenmiştir. Parkta, özellikle yaban domuzu, tilki, tavşan ve çeşitli kuş türleri bulunur. Parkın mevsimsel değişimleri, flora ve faunayı etkileyen önemli faktörlerdir. İlkbahar ve yaz aylarında, parkın flora ve fauna yapısı en zengin haliyle görülmektedir.
+ Parkın flora yapısı, bölgenin iklimi ve toprak yapısına uygun olarak şekillenmiştir. Parkta, özellikle çam, kızılçam, meşe ve kestane gibi ağaç türleri bulunmaktadır. Parkın fauna yapısı, bölgenin coğrafi konumu ve iklimine göre şekillenmiştir. Parkta, özellikle yaban domuzu, tilki, tavşan ve çeşitli kuş türleri bulunur. Parkın mevsimsel değişimleri, flora ve faunayı etkileyen önemli faktörlerdir. İlkbahar ve yaz aylarında, parkın flora ve fauna yapısı en zengin haliyle görülmektedir.
 
 ## Ziyaret Bilgileri
 

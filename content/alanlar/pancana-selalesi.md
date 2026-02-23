@@ -22,7 +22,7 @@ wikidata_id: "Q130366843"
 
 # Pancana Şelalesi
 
-Pancana Şelalesi, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu şelale, yaklaşık 140 hektarlık bir alan içerisinde yer alıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Doğa severler için gerçek bir cennet olan bu şelale, ziyaretçilerini büyüleyici bir manzara ile karşılıyor. Şelalenin suyu, çevredeki yüksek dağlardan geliyor ve burada harika bir güzelliğe dönüşüyor.
+Pancana Şelalesi, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Doğa severler için gerçek bir cennet olan bu şelale, ziyaretçilerini büyüleyici bir manzara ile karşılıyor. Şelalenin suyu, çevredeki yüksek dağlardan geliyor ve burada harika bir güzelliğe dönüşüyor.
 
 ## Tarihçe
 

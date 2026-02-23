@@ -22,7 +22,7 @@ wikidata_id: "Q108227163"
 
 # Koca Katran Lubnan Sediri
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Koca Katran Lubnan Sediri, yaklaşık 200 futbol sahası büyüklüğündeki 140 hektarlık alanıyla ziyaretçilerini doğal güzelliği ile karşılar. Bu bölge, Lubnan sedirlerinin yoğunluğu ve çeşitliliği ile dikkat çeker. 140 hektarlık bu yeşil alan, hem doğa severlerin hem de bilim insanlarının ilgisini çeken bir destinasyon olarak öne çıkıyor. Koca Katran Lubnan Sediri, bölgenin ekolojik dengesini koruma altına almak amacıyla kurulmuş bir milli parktır. Burada, Lubnan sedirlerinin yanı sıra, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+ Bu bölge, Lubnan sedirlerinin yoğunluğu ve çeşitliliği ile dikkat çeker. 140 hektarlık bu yeşil alan, hem doğa severlerin hem de bilim insanlarının ilgisini çeken bir destinasyon olarak öne çıkıyor. Koca Katran Lubnan Sediri, bölgenin ekolojik dengesini koruma altına almak amacıyla kurulmuş bir milli parktır. Burada, Lubnan sedirlerinin yanı sıra, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Koca Katran Lubnan Sediri'ni ziyaret etmek, doğa severler ve bilim insanları i
 
 ## İlginç Bilgiler
 
-- Koca Katran Lubnan Sediri, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu milli park, Lubnan sedirleri ve diğer bitki türleri ile dikkat çeker.
 - Koca Katran Lubnan Sediri, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biridir.
 - Bu bölge, yaban hayvanlarına ev sahipliği yapar ve flora çeşitliliği açısından zengindir.

@@ -29,7 +29,7 @@ wikidata_id: "Q31388075"
 
 # Kaş Tepesi
 
-Kaş Tepesi, Van ilinin sınırları içerisinde yer alan ve ziyaretçilerini doğal güzellikleriyle cezbeden bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok bitki türünü ve canlıyı barındırıyor. Kaş Tepesi, Van'ın merkezine uzun bir mesafe uzaklıkta bulunuyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı deneyimleme fırsatı sunuyor. Kaş Tepesi, yıl boyunca çeşitli etkinliklere ev sahipliği yapıyor ve bu sayede ziyaretçilere zengin bir deneyim sunuyor.
+Kaş Tepesi, Van ilinin sınırları içerisinde yer alan ve ziyaretçilerini doğal güzellikleriyle cezbeden bir tepe. Kaş Tepesi, Van'ın merkezine uzun bir mesafe uzaklıkta bulunuyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler, ziyaretçilere geleneksel yaşamı deneyimleme fırsatı sunuyor. Kaş Tepesi, yıl boyunca çeşitli etkinliklere ev sahipliği yapıyor ve bu sayede ziyaretçilere zengin bir deneyim sunuyor.
 
 ## Tarihçe
 

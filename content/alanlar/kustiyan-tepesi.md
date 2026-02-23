@@ -28,7 +28,7 @@ wikidata_id: "Q31543943"
 
 # Kuştiyan Tepesi
 
-Kuştiyan Tepesi, Diyarbakır'ın coğrafi güzelliklerini ve tarihi değerlerini birleştiren önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Tepenin konumu, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir gözlem noktası sunar. Burada, şehrin panoramik manzarasını izlerken, tarihi ve coğrafi özellikleri hakkında bilgi sahibi olabilirsiniz.
+Kuştiyan Tepesi, Diyarbakır'ın coğrafi güzelliklerini ve tarihi değerlerini birleştiren önemli bir noktadır. Tepenin konumu, şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir gözlem noktası sunar. Burada, şehrin panoramik manzarasını izlerken, tarihi ve coğrafi özellikleri hakkında bilgi sahibi olabilirsiniz.
 
 ## Tarihçe
 

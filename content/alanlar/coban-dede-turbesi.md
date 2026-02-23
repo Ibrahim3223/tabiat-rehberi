@@ -1,7 +1,7 @@
 ---
 title: "Çoban Dede Türbesi"
 date: "2026-01-10T05:15:16.169Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tunceli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391585"
 
 # Çoban Dede Türbesi
 
-Çoban Dede Türbesi, Doğu Anadolu Bölgesi'nin Tunceli ilinin Mazgirt ilçesinde bulunan ve tarihi ile doğal güzelliklerinin birleştiği özel bir noktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Bu türbe, bölgenin önemli dini ve kültürel merkezlerinden biri olarak kabul edilmektedir. Çoban Dede Türbesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekebilecek bir destinasyon olarak dikkat çekmektedir.
+Çoban Dede Türbesi, Doğu Anadolu Bölgesi'nin Tunceli ilinin Mazgirt ilçesinde bulunan ve tarihi ile doğal güzelliklerinin birleştiği özel bir noktadır. Bu türbe, bölgenin önemli dini ve kültürel merkezlerinden biri olarak kabul edilmektedir. Çoban Dede Türbesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekebilecek bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ wikidata_id: "Q131391585"
 ## İlginç Bilgiler
 
 - Çoban Dede Türbesi, bölgenin önemli dini merkezlerinden biridir.
-- Türbenin etrafında histórik yapılar ve kalıntılar bulunmaktadır.
+- Türbenin etrafında tarihi yapılar ve kalıntılar bulunmaktadır.
 - Bölge, zengin flora ve fauna ile dikkat çekmektedir.
 - Çoban Dede Türbesi, yılın her mevsiminde ziyaret edilebilir.
 - Tunceli ilinin Mazgirt ilçesinde bulunmaktadır.

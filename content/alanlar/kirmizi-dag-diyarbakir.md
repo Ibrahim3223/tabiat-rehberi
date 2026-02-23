@@ -32,9 +32,9 @@ Diyarbakır'ın tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzel
 
 ## Tarihçe
 
-Kırmızı Dağ, Diyarbakır'ın tarihi ve kültürel zenginliklerinin bir parçası olarak karşımıza çıkıyor. Bu bölge, binlerce yıllık bir geçmişe sahip ve çeşitli uygarlıkların izlerini taşıyor. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, zaman bu toprakları kontrol etmiş, her biri kendi kültürünü ve mirasını bırakmış. 
+Kırmızı Dağ, Diyarbakır'ın tarihi ve kültürel zenginliklerinin bir parçası olarak karşımıza çıkıyor. Bu bölge, binlerce yıllık bir geçmişe sahip ve çeşitli uygarlıkların izlerini taşıyor. Hitit, Asur, Pers, Roma ve Osmanlı gibi büyük imparatorluklar, zaman bu toprakları kontrol etmiş, her biri kendi kültürünü ve mirasını bırakmış.
 
-Doğal güzellikleriyle ön plana çıkan Kırmızı Dağ, bölgede yaşayan halk için önemli bir yaşam kaynağı olmuş. Yaylacılık ve hayvancılık, bu bölgede uzun yıllardır sürdürülen geleneksel faaliyetler. Ayrıca, tarihi İpek Yolu gibi önemli ticaret yollarının yakınında bulunması, bölgenin ekonomi ve kültürel olarak da değerini artırmış. 
+Doğal güzellikleriyle ön plana çıkan Kırmızı Dağ, bölgede yaşayan halk için önemli bir yaşam kaynağı olmuş. Yaylacılık ve hayvancılık, bu bölgede uzun yıllardır sürdürülen geleneksel faaliyetler. Ayrıca, tarihi İpek Yolu gibi önemli ticaret yollarının yakınında bulunması, bölgenin ekonomi ve kültürel olarak da değerini artırmış.
 
 Kırmızı Dağ'ın çevresi, zengin bitki örtüsü ve wildlife çeşitliliği ile dikkat çekiyor. Bu doğal alan, sadece yerel halkın değil, tüm ülkenin önemli bir kültürel ve doğal mirası olarak görülüyor. Türkiye'de, benzer birçok doğal alan gibi, Kırmızı Dağ da insanoğlunun doğayla iç içe yaşamasının güzel bir örneğini sunuyor. Bu tür alanlar, ülkenin zengin biyolojik çeşitliliğini korumanın yanı sıra, turizm ve yerel ekonomi için de büyük potansiyele sahip.
 

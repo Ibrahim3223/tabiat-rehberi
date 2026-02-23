@@ -22,7 +22,7 @@ wikidata_id: "Q108228547"
 
 # Giresun-Akkus-Akcaagac
 
-Giresun-Akkus-Akcaagac Milli Parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Parkın içinde yer alan Akcaagac Köyü, tarihi ve kültürel zenginlikleriyle dikkat çeker. Bu köyde, geleneksel mimari örneklerini görebilir ve yerel halkın misafirperverliğini deneyimleyebilirsiniz. Giresun-Akkus-Akcaagac Milli Parkı, doğa severler ve tarih meraklıları için gerçek bir cennet olarak karşımıza çıkıyor.
+Giresun-Akkus-Akcaagac Milli Parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak bilinir. Parkın içinde yer alan Akcaagac Köyü, tarihi ve kültürel zenginlikleriyle dikkat çeker. Bu köyde, geleneksel mimari örneklerini görebilir ve yerel halkın misafirperverliğini deneyimleyebilirsiniz. Giresun-Akkus-Akcaagac Milli Parkı, doğa severler ve tarih meraklıları için gerçek bir cennet olarak karşımıza çıkıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Giresun-Akkus-Akcaagac Milli Parkı'nın tarihi geçmişi, yüzyıllar boyunca �
 
 ## Coğrafya
 
-Giresun-Akkus-Akcaagac Milli Parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir doğal alandır. Parkın coğrafi konumu, ziyaretçilere zengin bir flora ve fauna sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile kaplıdır. Parkın içinde yer alan ormanlar, ziyaretçilere serin ve ferah bir ortam sağlar. Akcaagac Köyü, parkın merkezinde yer alır ve ziyaretçilere tarihi ve kültürel zenginliklerini sunar. Giresun-Akkus-Akcaagac Milli Parkı, coğrafi konumu itibariyle, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çeker. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
+Giresun-Akkus-Akcaagac Milli Parkı, Karadeniz Bölgesi'nin coğrafi yapısını yansıtan bir doğal alandır. Parkın coğrafi konumu, ziyaretçilere zengin bir flora ve fauna sunar. Parkın içinde yer alan ormanlar, ziyaretçilere serin ve ferah bir ortam sağlar. Akcaagac Köyü, parkın merkezinde yer alır ve ziyaretçilere tarihi ve kültürel zenginliklerini sunar. Giresun-Akkus-Akcaagac Milli Parkı, coğrafi konumu itibariyle, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çeker. Parkın coğrafi yapısı, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

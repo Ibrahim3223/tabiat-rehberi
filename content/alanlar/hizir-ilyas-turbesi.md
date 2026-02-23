@@ -1,7 +1,7 @@
 ---
 title: "Hızır İlyas Türbesi"
 date: "2026-01-10T05:42:41.736Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kayseri"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582345"
 
 # Hızır İlyas Türbesi
 
-Hızır İlyas Türbesi, İç Anadolu Bölgesi'nin Kayseri iline bağlı Develi ilçesinde bulunan önemli bir tarihi ve dini merkez olarak bilinir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Türbe, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilere hem tarihi hem de doğal güzellikleri sunar. Hızır İlyas Türbesi, özellikle its tarihi ve kültürel önemi ile dikkat çeker ve bu bölgede önemli bir gezi noktası olarak kabul edilir. Ziyaretçiler, buraya gelerek hem tarihi yapıları inceleyebilir hem de çevredeki doğal güzellikleri keşfedebilir.
+Hızır İlyas Türbesi, İç Anadolu Bölgesi'nin Kayseri iline bağlı Develi ilçesinde bulunan önemli bir tarihi ve dini merkez olarak bilinir. Türbe, çevresi ile birlikte bir bütün olarak düşünüldüğünde, ziyaretçilere hem tarihi hem de doğal güzellikleri sunar. Hızır İlyas Türbesi, özellikle its tarihi ve kültürel önemi ile dikkat çeker ve bu bölgede önemli bir gezi noktası olarak kabul edilir. Ziyaretçiler, buraya gelerek hem tarihi yapıları inceleyebilir hem de çevredeki doğal güzellikleri keşfedebilir.
 
 ## Tarihçe
 

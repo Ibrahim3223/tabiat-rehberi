@@ -23,7 +23,7 @@ wikidata_id: "Q108228659"
 
 # AMASYA
 
-Amasya, İç Anadolu Bölgesi'nde yer alan bir şehirdir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu büyük alan, şehrin doğal güzelliklerini ve tarihi geçmişini bir araya getirir. Amasya, ziyaretçilerini şehrin merkezi ve çevresinde yer alan çeşitli tarihi yapılar ve doğal güzelliklerle karşılar. Şehir, coğrafi olarak dağlık bir bölgede yer alır ve iklimi karasal bir yapı gösterir. Amasya, yıl boyunca ziyaretçilerini ağırlayan bir şehirdir ve her mevsim farklı bir güzelliğe sahiptir.
+Amasya, İç Anadolu Bölgesi'nde yer alan bir şehirdir. Bu büyük alan, şehrin doğal güzelliklerini ve tarihi geçmişini bir araya getirir. Amasya, ziyaretçilerini şehrin merkezi ve çevresinde yer alan çeşitli tarihi yapılar ve doğal güzelliklerle karşılar. Şehir, coğrafi olarak dağlık bir bölgede yer alır ve iklimi karasal bir yapı gösterir. Amasya, yıl boyunca ziyaretçilerini ağırlayan bir şehirdir ve her mevsim farklı bir güzelliğe sahiptir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Kadem Paşa Hatun Türbesi, Erciş"
 date: "2026-01-10T06:42:56.324Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Van"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582809"
 
 # Kadem Paşa Hatun Türbesi, Erciş
 
-Kadem Paşa Hatun Türbesi, Erciş'in merkezinde yer alan tarihi bir yapıdır. 140 hektarlık bir alanda bulunan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin etrafı, çeşitli ağaçlarla çevrilidir ve ziyaretçilere sakin bir ortam sunar. Kadem Paşa Hatun Türbesi, Erciş'in önemli turistik noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından ziyaret edilir. Türbenin tarihi geçmişi, zengin kültürel mirası ve mimari özellikleri, ziyaretçilerin ilgisini çekmektedir.
+Kadem Paşa Hatun Türbesi, Erciş'in merkezinde yer alan tarihi bir yapıdır. Türbenin etrafı, çeşitli ağaçlarla çevrilidir ve ziyaretçilere sakin bir ortam sunar. Kadem Paşa Hatun Türbesi, Erciş'in önemli turistik noktalarından biri olarak bilinir ve her yıl birçok ziyaretçi tarafından ziyaret edilir. Türbenin tarihi geçmişi, zengin kültürel mirası ve mimari özellikleri, ziyaretçilerin ilgisini çekmektedir.
 
 ## Tarihçe
 

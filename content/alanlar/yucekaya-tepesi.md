@@ -28,7 +28,7 @@ wikidata_id: "Q32196104"
 
 # Yücekaya Tepesi
 
-Yücekaya Tepesi, Kırıkkale'nin İç Anadolu Bölgesi'ndeki doğal güzelliklerinden biri olarak dikkat çekiyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve ziyaretçilerini doğal güzelliği ile büyülüyor. Yücekaya Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve bu özelliği ile bölgenin en önemli doğal alanlarından biri olarak kabul ediliyor. Ziyaretçiler, bu tepeye çıkarak çevreyi izleyebilir ve bölge hakkında daha fazla bilgi edinebilirler.
+Yücekaya Tepesi, Kırıkkale'nin İç Anadolu Bölgesi'ndeki doğal güzelliklerinden biri olarak dikkat çekiyor. Ziyaretçiler, bu tepeye çıkarak çevreyi izleyebilir ve bölge hakkında daha fazla bilgi edinebilirler.
 
 ## Tarihçe
 

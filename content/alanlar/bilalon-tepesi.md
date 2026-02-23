@@ -28,7 +28,7 @@ wikidata_id: "Q31552484"
 
 # Bilalon Tepesi
 
-Bilalon Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği noktalardan biri. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Mardin'in merkezine yakın bir konumda yer alan Bilalon Tepesi, şehrin tarihi dokusunu ve doğal güzelliğini bir araya getiren özel bir nokta. Tepenin etrafında, Mardin'in tarihi evleri ve yapıları yer alıyor. Bu tepeden, Mardin'in panoramik manzarasını izleme mümkün.
+Bilalon Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği noktalardan biri. Mardin'in merkezine yakın bir konumda yer alan Bilalon Tepesi, şehrin tarihi dokusunu ve doğal güzelliğini bir araya getiren özel bir nokta. Tepenin etrafında, Mardin'in tarihi evleri ve yapıları yer alıyor. Bu tepeden, Mardin'in panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227073"
 
 # İstanbul Sarıyer Feneryolu YHGS
 
-İstanbul'un Sarıyer ilçesinde yer alan Feneryolu YHGS, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğayla iç içe olmak için mükemmel bir fırsat sunuyor. Doğal güzellikleri, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, bu eşsiz ortamda doğanın güzelliğini keşfedebilir ve yaban hayatının çeşitliliğini gözlemleyebilir.
+İstanbul'un Sarıyer ilçesinde yer alan Feneryolu YHGS, yaklaşık 140 hektarlık bir alanı kaplıyor. Doğal güzellikleri, çeşitli bitki türleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Ziyaretçiler, bu eşsiz ortamda doğanın güzelliğini keşfedebilir ve yaban hayatının çeşitliliğini gözlemleyebilir.
 
 ## Tarihçe
 

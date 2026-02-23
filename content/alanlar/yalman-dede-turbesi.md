@@ -1,7 +1,7 @@
 ---
 title: "Yalman Dede Türbesi"
 date: "2026-01-10T05:03:55.782Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391609"
 
 # Yalman Dede Türbesi
 
-Yalman Dede Türbesi, Mersin'in Silifke ilçesinde yer alan, tarihi ve doğal güzelliklerin bir araya geldiği önemli bir destinasyon. Bu özel mekan, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Yalman Dede Türbesi, ziyaretçilerini hem tarihin derinliklerine götüren bir yolculuğa çıkarıyor hem de Akdeniz'in eşsiz güzelliklerini sunuyor. Bu bölge, Mersin'in turizm açısından önemli noktalarından biri olarak kabul ediliyor.
+Yalman Dede Türbesi, Mersin'in Silifke ilçesinde yer alan, tarihi ve doğal güzelliklerin bir araya geldiği önemli bir destinasyon. Yalman Dede Türbesi, ziyaretçilerini hem tarihin derinliklerine götüren bir yolculuğa çıkarıyor hem de Akdeniz'in eşsiz güzelliklerini sunuyor. Bu bölge, Mersin'in turizm açısından önemli noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Yalman Dede Türbesi'nin tarihi geçmişi, zengin ve uzun bir sürece uzanıyor.
 
 ## Coğrafya
 
-Yalman Dede Türbesi, coğrafi açıdan da oldukça zengin bir bölge. Silifke'nin sahiline yakın bir konumda yer alan bu mekan, Akdeniz'in güzel plajlarına da ev sahipliği yapıyor. Bölge, 180 hektarlık bir arazide konumlanıyor, bu da yaklaşık 300 futbol sahası büyüklüğüne karşılık geliyor. Yalman Dede Türbesi'nin coğrafyası, ziyaretçilerine hem deniz hem de kara güzelliklerini sunuyor. Bu bölge, Mersin'in turizm potansiyelini gösteren önemli bir nokta olarak kabul ediliyor. Coğrafi konumu itibariyle, Yalman Dede Türbesi, Mersin'in en önemli doğal ve tarihi güzelliklerini bir araya getiren bir destinasyon.
+Yalman Dede Türbesi, coğrafi açıdan da oldukça zengin bir bölge. Silifke'nin sahiline yakın bir konumda yer alan bu mekan, Akdeniz'in güzel plajlarına da ev sahipliği yapıyor. Yalman Dede Türbesi'nin coğrafyası, ziyaretçilerine hem deniz hem de kara güzelliklerini sunuyor. Bu bölge, Mersin'in turizm potansiyelini gösteren önemli bir nokta olarak kabul ediliyor. Coğrafi konumu itibariyle, Yalman Dede Türbesi, Mersin'in en önemli doğal ve tarihi güzelliklerini bir araya getiren bir destinasyon.
 
 ## Flora ve Fauna
 
-Yalman Dede Türbesi, flora ve fauna açısından oldukça zengin bir bölge. Bu mekan, çeşitli bitki türlerine ev sahipliği yapıyor. Akdeniz ikliminin hakim olduğu bu bölgede, zeytin ağaçları, çam ağaçları ve diğer yerel bitki türleri bulunur. Yalman Dede Türbesi'nin fauna açısından da zengin bir çeşitliliği var. Bu bölge, birçok kuş türüne ve diğer hayvanlara ev sahipliği yapıyor. Ziyaretçiler, Yalman Dede Türbesi'nin doğal güzelliklerini keşfetmek için ideal bir ortam buluyorlar.
+ Bu mekan, çeşitli bitki türlerine ev sahipliği yapıyor. Akdeniz ikliminin hakim olduğu bu bölgede, zeytin ağaçları, çam ağaçları ve diğer yerel bitki türleri bulunur. Yalman Dede Türbesi'nin fauna açısından da zengin bir çeşitliliği var. Bu bölge, birçok kuş türüne ve diğer hayvanlara ev sahipliği yapıyor. Ziyaretçiler, Yalman Dede Türbesi'nin doğal güzelliklerini keşfetmek için ideal bir ortam buluyorlar.
 
 ## Ziyaret Bilgileri
 

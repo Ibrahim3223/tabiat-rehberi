@@ -1,7 +1,7 @@
 ---
 title: "Emirci Sultan Türbesi Ve Camii"
 date: "2026-01-10T05:34:39.768Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391396"
 
 # Emirci Sultan Türbesi Ve Camii
 
-Emirci Sultan Türbesi Ve Camii, Yozgat ilinin merkezinde yer alan bir dini ve turistik mekan olarak dikkat çekiyor. Bu tarihi yapı, yaklaşık 140 hektarlık bir alanda konumlanmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Emirci Sultan Türbesi Ve Camii, Yozgat'ın önemli kültürel ve dini mirasını temsil ediyor. Bu alan, hem dini hem de turistik açıdan önemli bir çekim merkezi olarak kabul ediliyor. Emirci Sultan Türbesi Ve Camii, ziyaretçilerine hem manevi hem de kültürel bir deneyim sunuyor.
+Emirci Sultan Türbesi Ve Camii, Yozgat ilinin merkezinde yer alan bir dini ve turistik mekan olarak dikkat çekiyor. Emirci Sultan Türbesi Ve Camii, Yozgat'ın önemli kültürel ve dini mirasını temsil ediyor. Bu alan, hem dini hem de turistik açıdan önemli bir çekim merkezi olarak kabul ediliyor. Emirci Sultan Türbesi Ve Camii, ziyaretçilerine hem manevi hem de kültürel bir deneyim sunuyor.
 
 ## Tarihçe
 

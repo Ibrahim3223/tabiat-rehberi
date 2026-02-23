@@ -1,7 +1,7 @@
 ---
 title: "Tekke Hamamı"
 date: "2026-01-09T23:43:52.387Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q131739164"
 
 # Tekke Hamamı
 
-Tekke Hamamı, Tokat'ın Zile ilçesinde yer alan ve Karadeniz Bölgesi'nin en güzel plajlarından biri olan bir doğal güzelliktir. 140 hektarlık bir alana yayılan bu plaj, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir kumsala sahiptir. Tekke Hamamı, ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve Karadeniz Bölgesi'nin en popüler destinasyonlarından biri haline geliyor.
+Tekke Hamamı, Tokat'ın Zile ilçesinde yer alan ve Karadeniz Bölgesi'nin en güzel plajlarından biri olan bir doğal güzelliktir. Tekke Hamamı, ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet ediyor. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve Karadeniz Bölgesi'nin en popüler destinasyonlarından biri haline geliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Tekke Hamamı'nın tarihi geçmişi, bölgenin tarihi ile iç içe geçmiş duru
 
 ## Coğrafya
 
-Tekke Hamamı, Karadeniz Bölgesi'nin Tokat ilinin Zile ilçesinde yer alıyor. Bu plaj, 140 hektarlık bir alana yayılıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Geniş bir kumsala sahip olan Tekke Hamamı, ziyaretçilerine güneşin ve denizin keyfini çıkarmaya olanak tanıyor. Plajın çevresi, yeşilliklerle dolu ve ziyaretçilere doğanın güzelliğini sunuyor. Karadeniz Bölgesi'nin iklimi, genel olarak ılıman ve yağışlı ancak Tekke Hamamı, ziyaretçilerine güneşli günleri vaat ediyor. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve Karadeniz Bölgesi'nin en popüler destinasyonlarından biri haline geliyor. Tekke Hamamı'nın coğrafi konumu, ziyaretçilerine bölgeyi keşfetme fırsatı sunuyor ve Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmeye davet ediyor.
+Tekke Hamamı, Karadeniz Bölgesi'nin Tokat ilinin Zile ilçesinde yer alıyor. Geniş bir kumsala sahip olan Tekke Hamamı, ziyaretçilerine güneşin ve denizin keyfini çıkarmaya olanak tanıyor. Plajın çevresi, yeşilliklerle dolu ve ziyaretçilere doğanın güzelliğini sunuyor. Karadeniz Bölgesi'nin iklimi, genel olarak ılıman ve yağışlı ancak Tekke Hamamı, ziyaretçilerine güneşli günleri vaat ediyor. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlıyor ve Karadeniz Bölgesi'nin en popüler destinasyonlarından biri haline geliyor. Tekke Hamamı'nın coğrafi konumu, ziyaretçilerine bölgeyi keşfetme fırsatı sunuyor ve Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmeye davet ediyor.
 
 ## Flora ve Fauna
 

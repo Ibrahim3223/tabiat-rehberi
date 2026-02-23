@@ -28,7 +28,7 @@ wikidata_id: "Q31506691"
 
 # Sidek Dağı
 
-Antalya'nın güneyinde yer alan Sidek Dağı, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu dağ, Antalya'nın zengin tarihi ve kültürel mirasının bir parçası olarak kabul ediliyor. Sidek Dağı, doğa severler için bir cennet olarak görülüyor. 
+Antalya'nın güneyinde yer alan Sidek Dağı, bölgenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu dağ, Antalya'nın zengin tarihi ve kültürel mirasının bir parçası olarak kabul ediliyor. Sidek Dağı, doğa severler için bir cennet olarak görülüyor.
 Dağın eteklerinde ve çevresinde çeşitli tarihi kalıntılar bulunması, burayı aynı zamanda tarih meraklıları için de çekici kılıyor.
 
 ## Tarihçe
@@ -51,9 +51,9 @@ Mevsimsel olarak Sidek Dağı, Akdeniz ikliminin karakteristik özelliklerini ta
 
 ## Flora ve Fauna
 
-Sidek Dağı, Antalya'nın kıyı ekosisteminde yer alan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen bir flora ve fauna çeşitliliği vardır. İlbahar aylarında, maki bitki örtüsünün hakim olduğu bu bölgede, çiçekler patlayarak renkli bir görünüm sunar. 
+Sidek Dağı, Antalya'nın kıyı ekosisteminde yer alan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen bir flora ve fauna çeşitliliği vardır. İlbahar aylarında, maki bitki örtüsünün hakim olduğu bu bölgede, çiçekler patlayarak renkli bir görünüm sunar.
 
-Bitki örtüsünün yanı sıra, dağın yükseklik zonlarına göre değişen yaban hayatı da dikkat çekicidir. Memeliler, kuşlar ve sürüngenler, dağın farklı yüksekliklerinde yaşamaktadırlar. Kış aylarında, bazı kuş türleri göç ederken, diğerleri dağda kalır. 
+Bitki örtüsünün yanı sıra, dağın yükseklik zonlarına göre değişen yaban hayatı da dikkat çekicidir. Memeliler, kuşlar ve sürüngenler, dağın farklı yüksekliklerinde yaşamaktadırlar. Kış aylarında, bazı kuş türleri göç ederken, diğerleri dağda kalır.
 
 Sidek Dağı, ekolojik açıdan önemli bir bölgedir. Kuraklığa dayanıklı türlerin yaşadığı bu dağ, bölgenin su döngüsünde önemli bir rol oynar. Dağın korunması, sadece bölgenin ekolojik dengesini sağlamakla kalmaz, aynı zamanda turizm ve ekonomi için de önemlidir.
 

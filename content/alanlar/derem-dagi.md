@@ -48,7 +48,7 @@ Mevsimsel açıdan bakıldığında, Derem Dağı'nın iklimi Doğu Anadolu Böl
 
 ## Flora ve Fauna
 
-Derem Dağı, 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Derem Dağı, 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbahar aylarında, dağ eteklerinde çiçeklerin renk cümbüşü görülmeye değer. Yükseklik zonlarına bağlı olarak, alpin çayırlar ve endemik türler hakimdir. Sonbaharda, yaprak döken ağaçların sarı, turuncu ve kırmızı tonları dağ manzarasına renk katar.
 

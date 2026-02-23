@@ -30,7 +30,7 @@ wikidata_id: "Q123683184"
 
 # Gökkuşağı Merdivenleri
 
-Gökkuşağı Merdivenleri, İstanbul'un Marmara Bölgesi'nde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet eder. Gökkuşağı Merdivenleri, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve geniş kumsalı ile ziyaretçilerini cezbeder. Plajın çevresi, çeşitli ağaçlar ve bitkiler ile süslenmiştir ve ziyaretçilere huzurlu bir ortam sunar. Gökkuşağı Merdivenleri, özellikle yaz aylarında ziyaretçilerini ağırlar ve güneşin ve denizin keyfini çıkarmaya olanak tanır.
+Gökkuşağı Merdivenleri, İstanbul'un Marmara Bölgesi'nde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet eder. Plajın çevresi, çeşitli ağaçlar ve bitkiler ile süslenmiştir ve ziyaretçilere huzurlu bir ortam sunar. Gökkuşağı Merdivenleri, özellikle yaz aylarında ziyaretçilerini ağırlar ve güneşin ve denizin keyfini çıkarmaya olanak tanır.
 
 ## Tarihçe
 
@@ -50,7 +50,6 @@ Gökkuşağı Merdivenleri, ziyaretçilerini bekliyor. Plaj, özellikle yaz ayla
 
 ## İlginç Bilgiler
 
-- Gökkuşağı Merdivenleri, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
 - Plaj, çeşitli ağaçlar ve bitkiler ile süslenmiştir.
 - Gökkuşağı Merdivenleri, özellikle yaz aylarında ziyaretçilerini ağırlar.
 - Plaj, çeşitli flora ve faunaya ev sahipliği yapıyor.

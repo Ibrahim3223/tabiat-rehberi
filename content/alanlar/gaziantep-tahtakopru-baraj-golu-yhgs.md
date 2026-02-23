@@ -1,7 +1,7 @@
 ---
 title: "Gaziantep Tahtaköprü Baraj Gölü YHGS"
 date: "2026-01-09T19:55:02.221Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228377"
 
 # Gaziantep Tahtaköprü Baraj Gölü YHGS
 
-Gaziantep Tahtaköprü Baraj Gölü YHGS, İç Anadolu Bölgesi'nde yer alan bir doğal alan olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. İç Anadolu Bölgesi'nin coğrafi yapısı ve iklimi, bu alanda çeşitli bitki türlerinin ve yaban hayvanlarının yaşamına uygun koşullar sunuyor. Gaziantep Tahtaköprü Baraj Gölü YHGS, hem doğa severler hem de bilim insanları için önemli bir destinasyon olarak görülüyor.
+Gaziantep Tahtaköprü Baraj Gölü YHGS, İç Anadolu Bölgesi'nde yer alan bir doğal alan olarak dikkat çekiyor. İç Anadolu Bölgesi'nin coğrafi yapısı ve iklimi, bu alanda çeşitli bitki türlerinin ve yaban hayvanlarının yaşamına uygun koşullar sunuyor. Gaziantep Tahtaköprü Baraj Gölü YHGS, hem doğa severler hem de bilim insanları için önemli bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Gaziantep Tahtaköprü Baraj Gölü YHGS'nin tarihi geçmişi, bölgenin yerleş
 
 ## Coğrafya
 
-Gaziantep Tahtaköprü Baraj Gölü YHGS, İç Anadolu Bölgesi'nin coğrafi yapısı ve iklimi tarafından şekilleniyor. Bölgenin coğrafi özellikleri, çeşitli bitki türlerinin ve yaban hayvanlarının yaşamına uygun koşullar sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Gaziantep Tahtaköprü Baraj Gölü YHGS, bölgenin coğrafi yapısı ve iklimi tarafından şekillenmiş bir doğal alan olarak görülüyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu alanda çeşitli bitki türlerinin ve yaban hayvanlarının yaşamına uygun koşullar sunuyor. Gaziantep Tahtaköprü Baraj Gölü YHGS, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini koruma altına almak amacıyla kurulmuş bir doğal alan.
+Gaziantep Tahtaköprü Baraj Gölü YHGS, İç Anadolu Bölgesi'nin coğrafi yapısı ve iklimi tarafından şekilleniyor. Bölgenin coğrafi özellikleri, çeşitli bitki türlerinin ve yaban hayvanlarının yaşamına uygun koşullar sunuyor. Gaziantep Tahtaköprü Baraj Gölü YHGS, bölgenin coğrafi yapısı ve iklimi tarafından şekillenmiş bir doğal alan olarak görülüyor. İç Anadolu Bölgesi'nin coğrafi özellikleri, bu alanda çeşitli bitki türlerinin ve yaban hayvanlarının yaşamına uygun koşullar sunuyor. Gaziantep Tahtaköprü Baraj Gölü YHGS, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini koruma altına almak amacıyla kurulmuş bir doğal alan.
 
 ## Flora ve Fauna
 

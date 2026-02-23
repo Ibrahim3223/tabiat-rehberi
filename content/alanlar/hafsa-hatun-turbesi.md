@@ -1,7 +1,7 @@
 ---
 title: "Hafsa Hatun Türbesi"
 date: "2026-01-10T04:54:53.828Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391526"
 
 # Hafsa Hatun Türbesi
 
-Hafsa Hatun Türbesi, İzmir'in Tire ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi geçmişi ve doğal güzelliği ile karşılar. Bu alan, hem tarih severler hem de doğaşığı olanlar için bir çekim merkezi olarak dikkat çekmektedir. Hafsa Hatun Türbesi, ziyaretçilerine zengin bir kültürel miras sunar ve Ege Bölgesi'nin önemli turizm noktalarından biri olarak bilinir.
+Hafsa Hatun Türbesi, İzmir'in Tire ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu alan, hem tarih severler hem de doğaşığı olanlar için bir çekim merkezi olarak dikkat çekmektedir. Hafsa Hatun Türbesi, ziyaretçilerine zengin bir kültürel miras sunar ve Ege Bölgesi'nin önemli turizm noktalarından biri olarak bilinir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hafsa Hatun Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Tarihi ge�
 
 ## Coğrafya
 
-Hafsa Hatun Türbesi, İzmir'in Tire ilçesinde yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini sunar. Bu bölge, doğu-batı yönünde uzanan dağların eteklerinde yer alır ve ziyaretçilerine zengin bir coğrafi çeşitlilik sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile karşılar. Bölgenin iklimi, Akdeniz ikliminin özellikleri taşır ve ziyaretçilerine uygun koşullar sunar. Hafsa Hatun Türbesi, coğrafi konumu itibariyle ziyaretçilerine önemli bir deneyim sunar ve Ege Bölgesi'nin en önemli turizm noktalarından biri olarak dikkat çekmektedir.
+Hafsa Hatun Türbesi, İzmir'in Tire ilçesinde yer alır ve Ege Bölgesi'nin coğrafi güzelliklerini sunar. Bu bölge, doğu-batı yönünde uzanan dağların eteklerinde yer alır ve ziyaretçilerine zengin bir coğrafi çeşitlilik sunar. Bölgenin iklimi, Akdeniz ikliminin özellikleri taşır ve ziyaretçilerine uygun koşullar sunar. Hafsa Hatun Türbesi, coğrafi konumu itibariyle ziyaretçilerine önemli bir deneyim sunar ve Ege Bölgesi'nin en önemli turizm noktalarından biri olarak dikkat çekmektedir.
 
 ## Flora ve Fauna
 

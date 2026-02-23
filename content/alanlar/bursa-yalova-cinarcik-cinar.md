@@ -22,7 +22,7 @@ wikidata_id: "Q108228589"
 
 # Bursa-Yalova-Cinarcik Cinar
 
-Bursa-Yalova-Cinarcik Cinar, Marmara Bölgesi'nin kalbinde yer alan bir doğa cenneti. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşilli ve temiz hava sunuyor. Bu milli park, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bursa-Yalova-Cinarcik Cinar, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirdiğiniz her dakika, size huzur veMutlulu veriyor. Bu milli parkın en önemli özelliklerinden biri, çeşitli çam ağaçlarının burada bulunması. Bu ağaçlar, hem ziyaretçilere görsel bir şölen sunuyor hem de temiz hava ve oksijen üretimine katkı sağlıyor.
+Bursa-Yalova-Cinarcik Cinar, Marmara Bölgesi'nin kalbinde yer alan bir doğa cenneti. Bu milli park, bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Bursa-Yalova-Cinarcik Cinar, ziyaretçilerini doğanın kucağına davet ediyor ve burada geçirdiğiniz her dakika, size huzur veMutlulu veriyor. Bu milli parkın en önemli özelliklerinden biri, çeşitli çam ağaçlarının burada bulunması. Bu ağaçlar, hem ziyaretçilere görsel bir şölen sunuyor hem de temiz hava ve oksijen üretimine katkı sağlıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bursa-Yalova-Cinarcik Cinar'ın tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Bursa-Yalova-Cinarcik Cinar, Marmara Bölgesi'nin Bursa ilinde yer alıyor. Bu milli park, 140 hektarlık geniş bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bursa-Yalova-Cinarcik Cinar, yeşilli ve ormanlık alanlarla kaplı ve çeşitli çam ağaçlarına ev sahipliği yapıyor. Bu milli parkın coğrafi konumu, ziyaretçilerine geniş bir panoramik manzara sunuyor ve burada geçirdiğiniz her dakika, size huzur ve Mutlulu veriyor. Bursa-Yalova-Cinarcik Cinar'ın iklimi, Marmara Bölgesi'nin iklimine benzer ve genellikle ılıman ve yağışlı. Bu milli park, yıl boyunca ziyaret edilebilir, ancak en uygun ziyaret zamanı, bahar ve yaz ayları. Bu aylarda, hava genellikle ılıman ve güneşli ve ziyaretçilere, doğanın güzelliğini tam anlamıyla deneyimleme fırsatı sunuyor.
+Bursa-Yalova-Cinarcik Cinar, Marmara Bölgesi'nin Bursa ilinde yer alıyor. Bursa-Yalova-Cinarcik Cinar, yeşilli ve ormanlık alanlarla kaplı ve çeşitli çam ağaçlarına ev sahipliği yapıyor. Bu milli parkın coğrafi konumu, ziyaretçilerine geniş bir panoramik manzara sunuyor ve burada geçirdiğiniz her dakika, size huzur ve Mutlulu veriyor. Bursa-Yalova-Cinarcik Cinar'ın iklimi, Marmara Bölgesi'nin iklimine benzer ve genellikle ılıman ve yağışlı. Bu milli park, yıl boyunca ziyaret edilebilir, ancak en uygun ziyaret zamanı, bahar ve yaz ayları. Bu aylarda, hava genellikle ılıman ve güneşli ve ziyaretçilere, doğanın güzelliğini tam anlamıyla deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

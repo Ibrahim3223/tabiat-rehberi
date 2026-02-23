@@ -29,7 +29,7 @@ wikidata_id: "Q31386450"
 
 # Bağlar Tepesi
 
-Bağlar Tepesi, Kilis'in en önemli doğal ve tarihi noktalarından biri olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir genişliğe sahip. Bağlar Tepesi, şehrin merkezine yakın bir konumda yer alıyor ve buradan Kilis'in panoramik manzarasını izleme mümkün. Tepenin etrafında çeşitli bitki türleri ve ağaçlar bulunmakta, bu da bölgenin ekolojik zenginliğine katkıda bulunmakta. Bağlar Tepesi, hem yerel halk hem de ziyaretçiler için keyifli bir gezi noktası olarak hizmet veriyor.
+Bağlar Tepesi, Kilis'in en önemli doğal ve tarihi noktalarından biri olarak dikkat çekiyor. Bağlar Tepesi, şehrin merkezine yakın bir konumda yer alıyor ve buradan Kilis'in panoramik manzarasını izleme mümkün. Tepenin etrafında çeşitli bitki türleri ve ağaçlar bulunmakta, bu da bölgenin ekolojik zenginliğine katkıda bulunmakta. Bağlar Tepesi, hem yerel halk hem de ziyaretçiler için keyifli bir gezi noktası olarak hizmet veriyor.
 
 ## Tarihçe
 

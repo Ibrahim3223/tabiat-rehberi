@@ -28,7 +28,7 @@ wikidata_id: "Q31388640"
 
 # Mizancık Tepesi
 
-Mizancık Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte büyük bir doğal alan sunuyor. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri ile zengin bir gezi deneyimi sunuyor. Mizancık Tepesi, doğa severler ve macera arayanlar için ideal bir destinasyon olarak karşımıza çıkıyor.
+Mizancık Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri ile zengin bir gezi deneyimi sunuyor. Mizancık Tepesi, doğa severler ve macera arayanlar için ideal bir destinasyon olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

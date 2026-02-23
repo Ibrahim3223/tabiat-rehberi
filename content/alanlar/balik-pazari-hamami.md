@@ -1,7 +1,7 @@
 ---
 title: "Balık Pazarı Hamamı"
 date: "2026-01-09T23:10:16.778Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738895"
 
 # Balık Pazarı Hamamı
 
-Balık Pazarı Hamamı, Muratpaşa ilçesinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Yeşilin her tonunu görebileceğiniz bu doğal güzelliğe, Antalya'nın merkezinden kolayca ulaşabilirsiniz. 20 dakika gibi kısa bir sürede, şehrin gürültüsünden kaçarak, doğanın seslerini dinleyebilirsiniz. Balık Pazarı Hamamı, aynı zamanda bir plaj olarak da bilinir ve denize girerek serinleyebilirsiniz.
+Balık Pazarı Hamamı, Muratpaşa ilçesinde yer alan 140 hektarlık bir yeşil alandır. Yeşilin her tonunu görebileceğiniz bu doğal güzelliğe, Antalya'nın merkezinden kolayca ulaşabilirsiniz. 20 dakika gibi kısa bir sürede, şehrin gürültüsünden kaçarak, doğanın seslerini dinleyebilirsiniz. Balık Pazarı Hamamı, aynı zamanda bir plaj olarak da bilinir ve denize girerek serinleyebilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Balık Pazarı Hamamı'nın tarihi geçmişi, Antalya'nın tarihi boyunca şekil
 
 ## Coğrafya
 
-Balık Pazarı Hamamı, Akdeniz Bölgesi'nde, Antalya'nın Muratpaşa ilçesinde yer alır. Bu bölge, coğrafi olarak çok çeşitli özelliklere sahiptir. Yeşil alanlar, plajlar, dağlar ve ormanlar, bu bölgenin doğal güzelliklerini oluşturur. Balık Pazarı Hamamı da, bu doğal güzelliklerden biridir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, yeşilin her tonunu görebileceğiniz bir doğa harikasıdır. Bu alan, aynı zamanda bir plaj olarak da bilinir ve denize girerek serinleyebilirsiniz. Plajın yanında, çeşitli restoran ve kafeler bulunmaktadır. Bu restoranlarda, deniz ürünleri ve yerel lezzetler tadabilirsiniz. Ayrıca, bu bölgede, çeşitli otel ve pansiyonlar da bulunmaktadır. Bu tesislerde, konaklayarak, Balık Pazarı Hamamı'nın güzelliğini daha iyi keşfedebilirsiniz.
+Balık Pazarı Hamamı, Akdeniz Bölgesi'nde, Antalya'nın Muratpaşa ilçesinde yer alır. Bu bölge, coğrafi olarak çok çeşitli özelliklere sahiptir. Yeşil alanlar, plajlar, dağlar ve ormanlar, bu bölgenin doğal güzelliklerini oluşturur. Balık Pazarı Hamamı da, bu doğal güzelliklerden biridir. Bu alan, aynı zamanda bir plaj olarak da bilinir ve denize girerek serinleyebilirsiniz. Plajın yanında, çeşitli restoran ve kafeler bulunmaktadır. Bu restoranlarda, deniz ürünleri ve yerel lezzetler tadabilirsiniz. Ayrıca, bu bölgede, çeşitli otel ve pansiyonlar da bulunmaktadır. Bu tesislerde, konaklayarak, Balık Pazarı Hamamı'nın güzelliğini daha iyi keşfedebilirsiniz.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Balık Pazarı Hamamı'na, Antalya'nın merkezinden kolayca ulaşabilirsiniz. 20
 ## İlginç Bilgiler
 
 - Balık Pazarı Hamamı, 140 hektarlık bir yeşil alandır.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, yeşilin her tonunu görebileceğiniz bir doğa harikasıdır.
+
 - Balık Pazarı Hamamı, aynı zamanda bir plaj olarak da bilinir ve denize girerek serinleyebilirsiniz.
 - Bu bölgede, çeşitli restoran ve kafeler bulunmaktadır.
 - Bu restoranlarda, deniz ürünleri ve yerel lezzetler tadabilirsiniz.

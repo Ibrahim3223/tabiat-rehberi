@@ -22,7 +22,7 @@ wikidata_id: "Q108227266"
 
 # Kutahya-Simav-Alasogut Kayin
 
-Kutahya-Simav-Alasogut Kayin milli parkı, İç Anadolu Bölgesi'nin kalbinde, doğal güzellikleri ve zengin ekosistemiyle dikkat çeken bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içlerine davet ediyor. Milli parkın sunduğu çeşitli faaliyetler ve güzellikler, ziyaretçilerin doğayla iç içe bir deneyim yaşamasını sağlıyor.
+Kutahya-Simav-Alasogut Kayin milli parkı, İç Anadolu Bölgesi'nin kalbinde, doğal güzellikleri ve zengin ekosistemiyle dikkat çeken bir destinasyon. Milli parkın sunduğu çeşitli faaliyetler ve güzellikler, ziyaretçilerin doğayla iç içe bir deneyim yaşamasını sağlıyor.
 
 ## Tarihçe
 

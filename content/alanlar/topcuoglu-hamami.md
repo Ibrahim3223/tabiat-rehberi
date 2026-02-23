@@ -1,7 +1,7 @@
 ---
 title: "Topçuoğlu Hamamı"
 date: "2026-01-09T22:26:40.429Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kars"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738419"
 
 # Topçuoğlu Hamamı
 
-Topçuoğlu Hamamı, Kars ilinin eşsiz güzellikteki bir plajıdır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan sunmaktadır. Bu büyük yeşil alan, ziyaretçilerini doğayla baş başa bırakmak için ideal bir ortam sunar. Topçuoğlu Hamamı, Kars ilinin turizm açısından önemli bir merkezi konumundadır. Burada, doğa ile iç içe bir gezi deneyimi yaşayabilirsiniz. Topçuoğlu Hamamı'nın sunduğu bu eşsiz deneyim, ziyaretçilerini her sene yeniden çekmektedir.
+Topçuoğlu Hamamı, Kars ilinin eşsiz güzellikteki bir plajıdır. Bu büyük yeşil alan, ziyaretçilerini doğayla baş başa bırakmak için ideal bir ortam sunar. Topçuoğlu Hamamı, Kars ilinin turizm açısından önemli bir merkezi konumundadır. Burada, doğa ile iç içe bir gezi deneyimi yaşayabilirsiniz. Topçuoğlu Hamamı'nın sunduğu bu eşsiz deneyim, ziyaretçilerini her sene yeniden çekmektedir.
 
 ## Tarihçe
 

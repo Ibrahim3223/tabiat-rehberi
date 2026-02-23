@@ -28,7 +28,7 @@ wikidata_id: "Q31564397"
 
 # Kese Tepesi
 
-Kese Tepesi, Marmara Bölgesi'nin Balıkesir şehrinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir alan üzerinde kurulmuş. Kese Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturur ve bu tepelerin birçoğu bölgenin coğrafi yapısını oluşturan önemli unsurlardır. Kese Tepesi'nin etrafı, zengin fauna ve floranın yaşadığı ormanlık alanlarla çevrilidir.
+Kese Tepesi, Marmara Bölgesi'nin Balıkesir şehrinde yer alan ve bölgenin önemli doğal güzelliklerinden biri olan bir tepe. Kese Tepesi, çevresindeki diğer tepelerle birlikte bir bütün oluşturur ve bu tepelerin birçoğu bölgenin coğrafi yapısını oluşturan önemli unsurlardır. Kese Tepesi'nin etrafı, zengin fauna ve floranın yaşadığı ormanlık alanlarla çevrilidir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kese Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin y
 
 ## Coğrafya
 
-Kese Tepesi, Marmara Bölgesi'nin coğrafi yapısını oluşturan önemli unsurlardan biridir. Bu tepe, Balıkesir şehrinin merkezine uzun bir mesafe uzaklıkta yer alır. Kese Tepesi'nin etrafı, zengin fauna ve floranın yaşadığı ormanlık alanlarla çevrilidir. Bu ormanlık alanlar, bölgenin coğrafi yapısını oluşturan önemli bir parçadır. Kese Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir alan üzerinde kurulmuş. Tepenin yüksekliği, bölgenin coğrafi yapısını oluşturan önemli unsurlardan biridir. Bu yükseklik, Kese Tepesi'ne, çevresindeki diğer tepelerden ayıran bir özellik kazandırır.
+Kese Tepesi, Marmara Bölgesi'nin coğrafi yapısını oluşturan önemli unsurlardan biridir. Bu tepe, Balıkesir şehrinin merkezine uzun bir mesafe uzaklıkta yer alır. Kese Tepesi'nin etrafı, zengin fauna ve floranın yaşadığı ormanlık alanlarla çevrilidir. Bu ormanlık alanlar, bölgenin coğrafi yapısını oluşturan önemli bir parçadır. Tepenin yüksekliği, bölgenin coğrafi yapısını oluşturan önemli unsurlardan biridir. Bu yükseklik, Kese Tepesi'ne, çevresindeki diğer tepelerden ayıran bir özellik kazandırır.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Kese Tepesi'ni ziyaret etmek, doğal güzelliği ve coğrafi yapısını görmek
 
 - Kese Tepesi, Marmara Bölgesi'nin coğrafi yapısını oluşturan önemli unsurlardan biridir.
 - Kese Tepesi'nin etrafı, zengin fauna ve floranın yaşadığı ormanlık alanlarla çevrilidir.
-- Kese Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir alan üzerinde kurulmuş.
+
 - Kese Tepesi, mevsimsel değişimlere göre, farklı fauna ve floraya ev sahipliği yapar.
 - Kese Tepesi'ne, Balıkesir şehrinin merkezinden uzun bir mesafe uzaklıkta yer alır.

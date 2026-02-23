@@ -22,7 +22,7 @@ wikidata_id: "Q108227831"
 
 # Adana-Kadirli Kızılçam 4
 
-Adana-Kadirli Kızılçam 4, Akdeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu milli park, ziyaretçilerine hem dinlenme hem de doğayı gözlemleme fırsatı sunuyor. Adana'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de ideal bir destinasyon olan Adana-Kadirli Kızılçam 4, her yıl birçok ziyaretçi tarafından tercih ediliyor.
+Adana-Kadirli Kızılçam 4, Akdeniz Bölgesi'nin en önemli doğal alanlarından biri olarak kabul ediliyor. Bu milli park, ziyaretçilerine hem dinlenme hem de doğayı gözlemleme fırsatı sunuyor. Adana'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de ideal bir destinasyon olan Adana-Kadirli Kızılçam 4, her yıl birçok ziyaretçi tarafından tercih ediliyor.
 
 ## Tarihçe
 

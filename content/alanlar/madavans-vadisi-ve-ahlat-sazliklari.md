@@ -22,7 +22,7 @@ wikidata_id: "Q108228956"
 
 # MADAVANS VADİSİ VE AHLAT SAZLIKLARI
 
-Madavans Vadisi ve Ahlat sazlıkları, İç Anadolu Bölgesi'nin gizli cennetlerinden biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından biridir. Vadide çeşitli bitki türleri ve zengin fauna bulunur. Ahlat sazlıkları ise, su kuşlarının göç yolu üzerinde yer alır ve bu nedenle önemli bir doğa koruma alanıdır. Bu bölge, doğa severlerin ve kuş gözlemcilerinin.visit etmek isteyebileceği bir yerdir.
+Madavans Vadisi ve Ahlat sazlıkları, İç Anadolu Bölgesi'nin gizli cennetlerinden biri olarak bilinir. Vadide çeşitli bitki türleri ve zengin fauna bulunur. Ahlat sazlıkları ise, su kuşlarının göç yolu üzerinde yer alır ve bu nedenle önemli bir doğa koruma alanıdır. Bu bölge, doğa severlerin ve kuş gözlemcilerinin.visit etmek isteyebileceği bir yerdir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Madavans Vadisi ve Ahlat sazlıkları, yüzyıllar boyunca bölgenin önemli eko
 
 ## Coğrafya
 
-Madavans Vadisi ve Ahlat sazlıkları, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Vadide, çeşitli bitki türleri ve zengin fauna bulunur. Ahlat sazlıkları ise, su kuşlarının göç yolu üzerinde yer alır ve bu nedenle önemli bir doğa koruma alanıdır. Bölge, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğündedir. Vadide, çeşitli su kaynakları bulunur ve bu su kaynakları, bölgenin ekolojisini destekler. Ahlat sazlıkları, suyun ve su kuşlarının yaşam alanı olarak önemlidir. Bölge, coğrafi olarak önemli bir konumda yer alır ve doğa severlerin ziyaret edebileceği bir yerdir. Vadide, çeşitli bitki türleri yerine, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojisini destekler.
+Madavans Vadisi ve Ahlat sazlıkları, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alır. Vadide, çeşitli bitki türleri ve zengin fauna bulunur. Ahlat sazlıkları ise, su kuşlarının göç yolu üzerinde yer alır ve bu nedenle önemli bir doğa koruma alanıdır. Vadide, çeşitli su kaynakları bulunur ve bu su kaynakları, bölgenin ekolojisini destekler. Ahlat sazlıkları, suyun ve su kuşlarının yaşam alanı olarak önemlidir. Bölge, coğrafi olarak önemli bir konumda yer alır ve doğa severlerin ziyaret edebileceği bir yerdir. Vadide, çeşitli bitki türleri yerine, çeşitli bitki türleri bulunur ve bu bitkiler, bölgenin ekolojisini destekler.
 
 ## Flora ve Fauna
 

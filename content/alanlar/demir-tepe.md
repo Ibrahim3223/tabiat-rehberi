@@ -51,10 +51,10 @@ Bölgenin ekosistem bağlantıları açısından, Demir Tepe'nin çevresel iliş
 
 ## Flora ve Fauna
 
-Demir Tepe, Ağrı'da yer alan yüksek dağ ekosistemine ev sahipliği yapar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Demir Tepe, Ağrı'da yer alan yüksek dağ ekosistemine ev sahipliği yapar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsünde alpin çayırlar hakimdir. İlkbaharda çiçekler açar, yazın ise yükseklik zonlarına göre değişen bir flora ortaya çıkar. 
-Yaban hayatında ise dağ keçileri, kartallar ve diğer yüksek dağ hayvanları bulunur. 
+Bitki örtüsünde alpin çayırlar hakimdir. İlkbaharda çiçekler açar, yazın ise yükseklik zonlarına göre değişen bir flora ortaya çıkar.
+Yaban hayatında ise dağ keçileri, kartallar ve diğer yüksek dağ hayvanları bulunur.
 Ekolojik değer olarak önemli bir alandır ve koruma altına alınmıştır.
 
 ## Ziyaret Bilgileri

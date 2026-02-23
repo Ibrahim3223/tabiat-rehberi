@@ -28,7 +28,7 @@ wikidata_id: "Q31390456"
 
 # Genek Tepe
 
-Genek Tepe, Konya'nın merkezi bir bölgesinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe olarak bilinir. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve şehrin önemli bir doğal ve tarihi noktası olarak kabul edilir. Genek Tepe, şehre hakim bir konumda bulunduğu için, buradan Konya'nın panoramik manzarasının keyfini çıkarma mümkün. Bu tepe, aynı zamanda şehrin tarihi geçmişi ile ilgili önemli bilgiler sunan bir noktada yer alır. Genek Tepe, Konya'nın zengin kültürel mirasını keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir.
+Genek Tepe, Konya'nın merkezi bir bölgesinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe olarak bilinir. Genek Tepe, şehre hakim bir konumda bulunduğu için, buradan Konya'nın panoramik manzarasının keyfini çıkarma mümkün. Bu tepe, aynı zamanda şehrin tarihi geçmişi ile ilgili önemli bilgiler sunan bir noktada yer alır. Genek Tepe, Konya'nın zengin kültürel mirasını keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 

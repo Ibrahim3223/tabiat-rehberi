@@ -1,7 +1,7 @@
 ---
 title: "Burdur-Golhisar-Golova Kızılçam"
 date: "2026-01-09T17:44:16.416Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227651"
 
 # Burdur-Golhisar-Golova Kızılçam
 
-İç Anadolu Bölgesi'nin kalbinde, Burdur-Golhisar-Golova Kızılçam milli parkı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar. Bu büyüleyici mekan, doğa severlerin ve macera arayanların gözdesi haline gelmiştir. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar.
+ Bu büyüleyici mekan, doğa severlerin ve macera arayanların gözdesi haline gelmiştir. 140 hektarlık bu yeşil alan, ziyaretçilere geniş bir açık alan sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Burdur-Golhisar-Golova Kızılçam milli parkı, yüzyıllar boyunca bölgenin d
 
 ## Coğrafya
 
-Burdur-Golhisar-Golova Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölge, ziyaretçilere geniş bir açık alan ve çeşitli coğrafi oluşumlar sunar. Parkın coğrafi yapısı, ziyaretçilere bölgenin güzelliğini keşfetme fırsatı verir.
+Burdur-Golhisar-Golova Kızılçam milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Bu bölge, ziyaretçilere geniş bir açık alan ve çeşitli coğrafi oluşumlar sunar. Parkın coğrafi yapısı, ziyaretçilere bölgenin güzelliğini keşfetme fırsatı verir.
 
 ## Flora ve Fauna
 

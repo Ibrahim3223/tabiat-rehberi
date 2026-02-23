@@ -23,7 +23,7 @@ wikidata_id: "Q108227083"
 
 # Antalya Kaş Kıbrıs Çayı
 
-Antalya Kaş Kıbrıs Çayı, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir alandır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın içinde bir macera bekliyor. Bu bölge, zengin flora ve faunası ile dikkat çekiyor ve ziyaretçilere doğa ile iç içe bir deneyim sunuyor. Antalya Kaş Kıbrıs Çayı, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyon.
+Antalya Kaş Kıbrıs Çayı, İç Anadolu Bölgesi'nde yer alan ve doğal güzellikleri ile dikkat çeken bir alandır. Bu bölge, zengin flora ve faunası ile dikkat çekiyor ve ziyaretçilere doğa ile iç içe bir deneyim sunuyor. Antalya Kaş Kıbrıs Çayı, hem doğa severler hem de macera arayışında olanlar için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Antalya Kaş Kıbrıs Çayı'nın tarihi geçmişi, yüzyıllar boyunca şekille
 
 ## Coğrafya
 
-Antalya Kaş Kıbrıs Çayı, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin karakteristik özelliklerini taşıyor. Bu alan, 140 hektarlık bir alanı kapsıyor ve coğrafi yapısı ile dikkat çekiyor. Antalya Kaş Kıbrıs Çayı, çevresindeki dağlar, ovalar ve akarsular ile birlikte bir bütün olarak düşünülüyor ve bu coğrafi yapısı, ziyaretçilere çeşitli doğa aktivitelerini sunuyor. Ayrıca, bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçilere four mevsimi ayrı bir güzellik sunuyor.
+Antalya Kaş Kıbrıs Çayı, coğrafi olarak İç Anadolu Bölgesi'nde yer alıyor ve bu bölgenin karakteristik özelliklerini taşıyor. Antalya Kaş Kıbrıs Çayı, çevresindeki dağlar, ovalar ve akarsular ile birlikte bir bütün olarak düşünülüyor ve bu coğrafi yapısı, ziyaretçilere çeşitli doğa aktivitelerini sunuyor. Ayrıca, bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer ve ziyaretçilere four mevsimi ayrı bir güzellik sunuyor.
 
 ## Flora ve Fauna
 

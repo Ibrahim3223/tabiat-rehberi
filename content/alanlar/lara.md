@@ -30,7 +30,7 @@ wikidata_id: "Q1882784"
 
 # Lara
 
-Lara, Akdeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde olan Lara, geniş kumsalları ve berrak sularıyla ziyaretçilerini cezbeder. Muratpaşa ilçesinde yer alan Lara, Antalya'nın turizm merkezlerinden biridir. Bu bölge, özellikle yaz aylarında yerli ve yabancı turistlerin akınına uğrar. Güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir destinasyon olan Lara, aynı zamanda doğa severlerin de ilgi odağıdır.
+Lara, Akdeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Muratpaşa ilçesinde yer alan Lara, Antalya'nın turizm merkezlerinden biridir. Bu bölge, özellikle yaz aylarında yerli ve yabancı turistlerin akınına uğrar. Güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir destinasyon olan Lara, aynı zamanda doğa severlerin de ilgi odağıdır.
 
 ## Tarihçe
 

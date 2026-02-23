@@ -1,7 +1,7 @@
 ---
 title: "Tirebolu Hamamı"
 date: "2026-01-09T22:18:45.512Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Giresun"
@@ -29,7 +29,7 @@ wikidata_id: "Q130640532"
 
 # Tirebolu Hamamı
 
-Tirebolu Hamamı, Giresun'un Tirebolu ilçesinde bulunan bir plajdır. Bu plaj, 140 hektarlık yeşil alanıyla dikkat çekmektedir. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerini doğanın kucağına davet ediyor. Tirebolu Hamamı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu plaj, hem yerel halk hem de turistler tarafından sıkça ziyaret edilmektedir. Tirebolu Hamamı'nın güzelliği, sadece geniş yeşil alanıyla sınırlı değil, aynı zamanda çevresi ile de dikkat çekiyor.
+Tirebolu Hamamı, Giresun'un Tirebolu ilçesinde bulunan bir plajdır. Bu plaj, 140 hektarlık yeşil alanıyla dikkat çekmektedir. Tirebolu Hamamı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu plaj, hem yerel halk hem de turistler tarafından sıkça ziyaret edilmektedir. Tirebolu Hamamı'nın güzelliği, sadece geniş yeşil alanıyla sınırlı değil, aynı zamanda çevresi ile de dikkat çekiyor.
 
 ## Tarihçe
 

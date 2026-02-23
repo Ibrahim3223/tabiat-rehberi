@@ -1,7 +1,7 @@
 ---
 title: "Hierapolis Hamam Bazilika"
 date: "2026-01-09T23:09:15.032Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738939"
 
 # Hierapolis Hamam Bazilika
 
-Hierapolis Hamam Bazilika, Pamukkale'nin merkezinde, Denizli ilinde yer alan bir tarihi ve turistik mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alanda, antik kent Hierapolis'in kalıntıları ve ünlü Pamukkale travertenleri bulunmakta. Hierapolis Hamam Bazilika, Ege Bölgesi'nin en önemli tarihi ve turistik mekanlarından biri olarak kabul edilmekte.
+Hierapolis Hamam Bazilika, Pamukkale'nin merkezinde, Denizli ilinde yer alan bir tarihi ve turistik mekan. Bu geniş alanda, antik kent Hierapolis'in kalıntıları ve ünlü Pamukkale travertenleri bulunmakta. Hierapolis Hamam Bazilika, Ege Bölgesi'nin en önemli tarihi ve turistik mekanlarından biri olarak kabul edilmekte.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hierapolis Hamam Bazilika, antik kent Hierapolis'in en önemli yapılarından bi
 
 ## Coğrafya
 
-Hierapolis Hamam Bazilika, Pamukkale'nin merkezinde, Denizli ilinde yer almaktadır. Bu bölge, Ege Bölgesi'nin coğrafi olarak en güzel yerlerinden biri. Hierapolis Hamam Bazilika, 140 hektarlık bir alanı kaplamakta. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, antik kent Hierapolis'in kalıntılarını ve Pamukkale travertenlerini içinde barındırmakta. Hierapolis Hamam Bazilika, coğrafi olarak Ege Bölgesi'nin en güzel yerlerinden biri. Bu bölge, yemyeşil ormanlarla ve tarihi kalıntılarla çevrilidir. İklimi, Ege Bölgesi'nin tipik Akdeniz iklimi. Yazları sıcak ve kurak, kışları ılıman ve yağışlı.
+Hierapolis Hamam Bazilika, Pamukkale'nin merkezinde, Denizli ilinde yer almaktadır. Bu bölge, Ege Bölgesi'nin coğrafi olarak en güzel yerlerinden biri. Hierapolis Hamam Bazilika, 140 hektarlık bir alanı kaplamakta. Bu bölge, antik kent Hierapolis'in kalıntılarını ve Pamukkale travertenlerini içinde barındırmakta. Hierapolis Hamam Bazilika, coğrafi olarak Ege Bölgesi'nin en güzel yerlerinden biri. Bu bölge, yemyeşil ormanlarla ve tarihi kalıntılarla çevrilidir. İklimi, Ege Bölgesi'nin tipik Akdeniz iklimi. Yazları sıcak ve kurak, kışları ılıman ve yağışlı.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Hierapolis Hamam Bazilika, flora ve fauna açısından zengin bir bölge. Bu bö
 
 ## Ziyaret Bilgileri
 
-Hierapolis Hamam Bazilika, ziyaretçilerine çeşitli olanaklar sunmakta. Bu bölge, tarihi ve turistik bir mekan olarak kabul edilmekte. Ziyaretçiler, bu bölgede antik kent Hierapolis'in kalıntılarını ve Pamukkale travertenlerini görebilmekte. Hierapolis Hamam Bazilika, yılın her dönemi ziyaret edilebilmekte. Ancak, en iyi ziyaret dönemi ilkbahar ve yaz ayları. Bu aylarda, bu bölge daha yeşil ve canlı. Ziyaretçiler, bu bölgede çeşitli aktiviteler yapabilmekte. Bu bölge, tarihi ve turistik bir mekan olarak, ziyaretçilerine unutulmaz bir deneyim sunmakta.
+Hierapolis Hamam Bazilika, ziyaretçilerine çeşitli olanaklar sunmakta. Bu bölge, tarihi ve turistik bir mekan olarak kabul edilmekte. Ziyaretçiler, bu bölgede antik kent Hierapolis'in kalıntılarını ve Pamukkale travertenlerini görebilmekte. Hierapolis Hamam Bazilika, yılın her dönemi ziyaret edilebilmekte. Ancak, en iyi ziyaret dönemi ilkbahar ve yaz ayları. Bu aylarda, bu bölge daha yeşil ve canlı. Ziyaretçiler, bu bölgede çeşitli aktiviteler yapabilmekte.
 
 ## İlginç Bilgiler
 

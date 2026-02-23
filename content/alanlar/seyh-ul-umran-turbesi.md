@@ -1,7 +1,7 @@
 ---
 title: "Şeyh ül Ümran Türbesi"
 date: "2026-01-10T06:21:06.961Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390720"
 
 # Şeyh ül Ümran Türbesi
 
-Şeyh ül Ümran Türbesi, Bolu'nun Mudurnu ilçesinde bulunan ve tarihi açıdan büyük önem taşıyan bir yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi yemyeşil ormanlarla kaplıdır. Bu bölge, hem doğal güzellikleri hem de tarihi zenginlikleriyle ziyaretçilerini büyülemektedir. Mudurnu'nun merkezine uzun bir mesafe uzaklıkta bulunan Şeyh ül Ümran Türbesi, Karadeniz Bölgesi'nin önemli dinî ve kültürel merkezlerinden biridir.
+Şeyh ül Ümran Türbesi, Bolu'nun Mudurnu ilçesinde bulunan ve tarihi açıdan büyük önem taşıyan bir yapıdır. Bu bölge, hem doğal güzellikleri hem de tarihi zenginlikleriyle ziyaretçilerini büyülemektedir. Mudurnu'nun merkezine uzun bir mesafe uzaklıkta bulunan Şeyh ül Ümran Türbesi, Karadeniz Bölgesi'nin önemli dinî ve kültürel merkezlerinden biridir.
 
 ## Tarihçe
 

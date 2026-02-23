@@ -1,7 +1,7 @@
 ---
 title: "Canakkale-Kesan-Korudag Sahil Cami"
 date: "2026-01-09T19:49:36.553Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Çanakkale"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227279"
 
 # Canakkale-Kesan-Korudag Sahil Cami
 
-Çanakkale-Kesan-Korudag Sahil Cami, Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan Çanakkale'de yer alır. Bu milli park, yaklaşık 140 hektarlık alanı kaplayan bir doğa harikası olarak ziyaretçilerini karşılar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Sahil caminin güzelliği ve çevresindeki doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar. Çanakkale'nin tarihi ve kültürel zenginliği, bu milli parkta da kendini gösterir.
+Çanakkale-Kesan-Korudag Sahil Cami, Marmara Bölgesi'nin önemli turizm merkezlerinden biri olan Çanakkale'de yer alır. Bu milli park, yaklaşık 140 hektarlık alanı kaplayan bir doğa harikası olarak ziyaretçilerini karşılar. Sahil caminin güzelliği ve çevresindeki doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunar. Çanakkale'nin tarihi ve kültürel zenginliği, bu milli parkta da kendini gösterir.
 
 ## Tarihçe
 

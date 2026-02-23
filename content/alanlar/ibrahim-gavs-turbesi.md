@@ -1,7 +1,7 @@
 ---
 title: "İbrahim Gavsî Türbesi"
 date: "2026-01-10T06:44:31.352Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karabük"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582713"
 
 # İbrahim Gavsî Türbesi
 
-İbrahim Gavsî Türbesi, Karadeniz Bölgesi'nin Safranbolu ilçesinde, Karabük'ilinde yer alan tarihi bir ziyaret noktasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini gözler önüne seriyor. İbrahim Gavsî Türbesi, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda Karadeniz Bölgesi'nin eşsiz doğasını sunuyor. Tarihi ve kültürel değerleriyle ön plana çıkan bu türbe, Safranbolu'nun önemli ziyaret noktalarından biri olarak biliniyor.
+İbrahim Gavsî Türbesi, Karadeniz Bölgesi'nin Safranbolu ilçesinde, Karabük'ilinde yer alan tarihi bir ziyaret noktasıdır. İbrahim Gavsî Türbesi, ziyaretçilerini tarihin derinliklerine götürerek, aynı zamanda Karadeniz Bölgesi'nin eşsiz doğasını sunuyor. Tarihi ve kültürel değerleriyle ön plana çıkan bu türbe, Safranbolu'nun önemli ziyaret noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 

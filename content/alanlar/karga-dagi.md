@@ -29,7 +29,7 @@ wikidata_id: "Q31517259"
 
 # Karga Dağı
 
-Türkiye'nin zengin doğal güzelliklerine ev sahipliği yapan Karga Dağı, ziyaretçilerini doğanın kalbinde bir macera bekliyor. Bu dağ, Türkiye'nin çeşitli bölgelerinde farklı konumlar da bulunsa da, her biri kendi güzelliği ile ön plana çıkıyor. Karga Dağı, özellikle Türkiye'nin dağlık bölgelerinde yer alan bir oluşum. Doğal güzelliği ve zengin florası ile dikkat çeken bu bölge, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Türkiye'nin zengin doğal güzelliklerine ev sahipliği yapan Karga Dağı, ziyaretçilerini doğanın kalbinde bir macera bekliyor. Bu dağ, Türkiye'nin çeşitli bölgelerinde farklı konumlar da bulunsa da, her biri kendi güzelliği ile ön plana çıkıyor. Karga Dağı, özellikle Türkiye'nin dağlık bölgelerinde yer alan bir oluşum.
 
 ## Tarihçe
 

@@ -27,11 +27,11 @@ Diyarbakır'ın Çermik ilçesinde gizli bir hazine olarak chờrülmüş Kayaal
 
 ## Tarihçe
 
-Diyarbakır, tarihin sâu izlerini taşıyan bir bölge. Binlerce yıllık história, birçok uygarlığın izlerini burada bulma mümkün. Hititlerden, Asurlulara; Romalılardan, Selçuklulara kadar birçok medeniyet bu topraklarda yaşamış ve izler bırakmış. 
+Diyarbakır, tarihin derin izlerini taşıyan bir bölge. Binlerce yıllık tarihi, birçok uygarlığın izlerini burada bulma mümkün. Hititlerden, Asurlulara; Romalılardan, Selçuklulara kadar birçok medeniyet bu topraklarda yaşamış ve izler bırakmış.
 
-Kayaaltı Mağarası da bu tarihsel coğrafyanın bir parçası. Türkiye'de doğal alanlar, históriye tanıklık etmiş önemli noktalar. İnsanların bu mağarayla ve genel olarak bölgedeki diğer doğal alanlarla olan ilişkisi, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle şekillenmiş. Bu bölge, tarihin çeşitli dönemlerinde önemli ticaret yollarının kesişme noktası olarak da görev yapmış. 
+Kayaaltı Mağarası da bu tarihsel coğrafyanın bir parçası. Türkiye'de doğal alanlar, tarihi tanıklık etmiş önemli noktalar. İnsanların bu mağarayla ve genel olarak bölgedeki diğer doğal alanlarla olan ilişkisi, yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetlerle şekillenmiş. Bu bölge, tarihin çeşitli dönemlerinde önemli ticaret yollarının kesişme noktası olarak da görev yapmış.
 
-Diyarbakır'ın zengin tarihi ve coğrafi konumu, Kayaaltı Mağarası gibi doğal güzelliklerin önemini bir kez daha vurguluyor. Bu mağaranın, bölgenin históri ve kültürel mirasına katkıda bulunduğu şüphesiz. Ancak, specific tarihsel verilerin ığı, bu mağaranın geçmişine dair daha fazla bilgi edinmeyi zorlaştırıyor. Buna rağmen, Diyarbakır'ın genel tarihsel bağlamı, Kayaaltı Mağarası'nın da bir parçası olduğu zengin bir história sunuyor.
+Diyarbakır'ın zengin tarihi ve coğrafi konumu, Kayaaltı Mağarası gibi doğal güzelliklerin önemini bir kez daha vurguluyor. Bu mağaranın, bölgenin tarihi ve kültürel mirasına katkıda bulunduğu şüphesiz. Ancak, specific tarihsel verilerin ığı, bu mağaranın geçmişine dair daha fazla bilgi edinmeyi zorlaştırıyor. Buna rağmen, Diyarbakır'ın genel tarihsel bağlamı, Kayaaltı Mağarası'nın da bir parçası olduğu zengin bir tarihi sunuyor.
 
 ## Coğrafya
 

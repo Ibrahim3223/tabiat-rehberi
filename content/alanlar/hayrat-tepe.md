@@ -28,8 +28,8 @@ wikidata_id: "Q31572651"
 
 # Hayrat Tepe
 
-Diyarbakır'ın tarihi ve kültürel zenginliklerine ev sahipliği yapan coğrafyasında, Hayrat Tepe gibi önemli doğal oluşumlar yer alıyor. Bu tepe, Diyarbakır'ın merkezinde yer alan bir dag. Doğal güzelliği ve tarihi önemi ile dikkat çeken Hayrat Tepe, ziyaretçilerini şehrin kalbinde bir doğa harikasına davet ediyor. 
-Hayrat Tepe, Diyarbakır'ın turisti ve kültürel çekim merkezlerinden biri olarak ön plana çıkıyor. 
+Diyarbakır'ın tarihi ve kültürel zenginliklerine ev sahipliği yapan coğrafyasında, Hayrat Tepe gibi önemli doğal oluşumlar yer alıyor. Bu tepe, Diyarbakır'ın merkezinde yer alan bir dag. Doğal güzelliği ve tarihi önemi ile dikkat çeken Hayrat Tepe, ziyaretçilerini şehrin kalbinde bir doğa harikasına davet ediyor.
+Hayrat Tepe, Diyarbakır'ın turisti ve kültürel çekim merkezlerinden biri olarak ön plana çıkıyor.
 Diyarbakır'ın tarihi dokusu içinde yer alan Hayrat Tepe, şehrin önemli bir doğal ve kültürel varlığı.
 
 ## Tarihçe
@@ -52,9 +52,9 @@ Bölgenin coğrafi yapısını şekillendiren Hayrat Tepe, aynı zamanda çevres
 
 ## Flora ve Fauna
 
-Hayrat Tepe, Diyarbakır'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hayrat Tepe, Diyarbakır'ın yarı kurak ikliminde, step ve ova ekolojisinin hakim olduğu bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçlarında renkli çiçekler açarken, yaz aylarında kuraklığa dayanıklı step bitkileri hakimdir. Sonbaharda ise dağların yüksek kesimlerinde alpin flora çeşitliliği gözlenir. 
+Bitki örtüsü olarak, ilkbahar aylarında dağ yamaçlarında renkli çiçekler açarken, yaz aylarında kuraklığa dayanıklı step bitkileri hakimdir. Sonbaharda ise dağların yüksek kesimlerinde alpin flora çeşitliliği gözlenir.
 
 Yaban hayatı açısından, dağ keçileri, dağ tavşanları ve çeşitli kuş türleri bu bölgede yaşamaktadır. Göç eden kuşlar sonbaharda bu bölgeden geçerken, yerli türler ise dağların yüksek kesimlerinde yuvalanmaktadır. Ekolojik açıdan, bu dağ ekosistemi yerel fauna için önemli bir yaşam alanı sunmaktadır.
 

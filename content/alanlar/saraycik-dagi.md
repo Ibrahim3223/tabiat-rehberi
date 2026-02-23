@@ -1,7 +1,7 @@
 ---
 title: "Saraycık Dağı"
 date: "2026-01-09T08:00:36.737Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Çorum"
@@ -50,7 +50,7 @@ Doğal yapısı itibarıyla, Saraycık Dağı bir dizi jeolojik oluşumun birle�
 
 Saraycık Dağı, Çorum'un nemli ikliminin hakim olduğu bir bölgede yer alıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çekiyor. İlkbaharla birlikte, dağ yamaçlarında çiçeklerin renk cümbüşü başlıyor. Gür ormanlar, mevsimsel değişimlere göre farklı bir görünüm kazanıyor. Sonbaharda, göç eden kuş sürüleri bu alanı ziyaret ediyor.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri, dağların yüksek kesimlerinde yaşarken, ormanların içinde çeşitli kuş türleri yuvalanıyor. Ayrıca, sürüngenler de bu ekosistemin önemli bir parçasını oluşturuyor. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik sunuyor. Dağ keçileri, dağların yüksek kesimlerinde yaşarken, ormanların içinde çeşitli kuş türleri yuvalanıyor. Ayrıca, sürüngenler de bu ekosistemin önemli bir parçasını oluşturuyor.
 
 Saraycık Dağı, yüksek biyoçeşitliliğinin yanı sıra, ekolojik olarak da önemli bir role sahip. Bu alan, çeşitli canlıların yaşam alanı olarak görev yapıyor ve ekosistemin dengesini koruyor. Koruma durumu ise, bu doğal alanın geleceğiçin büyük önem taşıyor.
 

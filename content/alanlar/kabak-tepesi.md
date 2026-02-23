@@ -28,7 +28,7 @@ wikidata_id: "Q31387919"
 
 # Kabak Tepesi
 
-Kabak Tepesi, Giresun'un Karadeniz Bölgesi'nde yer alan bir tepe olarak, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Kabak Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon olarak dikkat çekiyor. Ziyaretçiler, bu tepede birbirinden güzel manzaralara şahit olurken, aynı zamanda bölgenin tarihi geçmişini keşfedebilirler.
+Kabak Tepesi, Giresun'un Karadeniz Bölgesi'nde yer alan bir tepe olarak, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Kabak Tepesi, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon olarak dikkat çekiyor. Ziyaretçiler, bu tepede birbirinden güzel manzaralara şahit olurken, aynı zamanda bölgenin tarihi geçmişini keşfedebilirler.
 
 ## Tarihçe
 

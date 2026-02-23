@@ -1,7 +1,7 @@
 ---
 title: "Seyyid Harun Veli Türbesi"
 date: "2026-01-10T05:16:33.723Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391746"
 
 # Seyyid Harun Veli Türbesi
 
-Seyyid Harun Veli Türbesi, Konya'nın Seydişehir ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren önemli bir destinasyon. 140 hektarlık bir alan üzerine kurulu olan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahip. Bu büyüklük, ziyaretçilere geniş bir açık alan sunarken, aynı zamanda tarihi bir atmosferde dinlenmek için de ideal bir ortam oluşturuyor. Türbenin etrafında, ziyaretçiler için çeşitli olanaklar sunan tesisler ve dinlenme alanları da yer alıyor.
+Seyyid Harun Veli Türbesi, Konya'nın Seydişehir ilçesinde yer alan ve tarihi ile doğal güzellikleri bir araya getiren önemli bir destinasyon. Bu büyüklük, ziyaretçilere geniş bir açık alan sunarken, aynı zamanda tarihi bir atmosferde dinlenmek için de ideal bir ortam oluşturuyor. Türbenin etrafında, ziyaretçiler için çeşitli olanaklar sunan tesisler ve dinlenme alanları da yer alıyor.
 
 ## Tarihçe
 

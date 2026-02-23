@@ -22,7 +22,7 @@ wikidata_id: "Q108227261"
 
 # Kastamonu-Inebolu-Gemiciler Kayin
 
-Kastamonu'nun doğal güzellikleri arasında yer alan Kastamonu-Inebolu-Gemiciler Kayin milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilerine doğanın tüm güzelliklerini sunuyor. Milli parkın içinde bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilerin dikkatini çekiyor. Özellikle doğa severlerin uğrak noktalarından biri olan bu milli park, Kastamonu'nun turizm potansiyelini artırıyor.
+ Bu geniş alan, ziyaretçilerine doğanın tüm güzelliklerini sunuyor. Milli parkın içinde bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilerin dikkatini çekiyor. Özellikle doğa severlerin uğrak noktalarından biri olan bu milli park, Kastamonu'nun turizm potansiyelini artırıyor.
 
 ## Tarihçe
 

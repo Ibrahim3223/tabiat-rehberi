@@ -23,7 +23,7 @@ wikidata_id: "Q108228212"
 
 # Egriova
 
-Egriova milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, yaban hayatının zengin çeşitlilikte olduğu bir alandır. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennettir. İnsanlık ve doğanın uyumlu birlikteliğini gözlemlemek için ideal bir yerdir. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve doğayla iç içe olabilirsiniz.
+Egriova milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış bir cennettir. İnsanlık ve doğanın uyumlu birlikteliğini gözlemlemek için ideal bir yerdir. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve doğayla iç içe olabilirsiniz.
 
 ## Tarihçe
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31388464"
 
 # Kanlı Tepe
 
-Kanlı Tepe, Erzurum'un tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Doğu Anadolu Bölgesi'nin coğrafi özellikleri ve iklim koşulları, bu alanda çeşitli bitki türleri ve hayvanların yaşamasına olanak tanıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Kanlı Tepe, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkileyen bir destinasyon olarak ön plana çıkıyor.
+Kanlı Tepe, Erzurum'un tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Doğu Anadolu Bölgesi'nin coğrafi özellikleri ve iklim koşulları, bu alanda çeşitli bitki türleri ve hayvanların yaşamasına olanak tanıyor. Kanlı Tepe, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini etkileyen bir destinasyon olarak ön plana çıkıyor.
 
 ## Tarihçe
 
@@ -45,12 +45,12 @@ Kanlı Tepe, çeşitli bitki türleri ve hayvanların yaşadığı bir alandır.
 
 ## Ziyaret Bilgileri
 
-Kanlı Tepe, ziyaretçilerine geniş bir açık alan sunuyor ve onları doğanın güzelliği ile baş başa bırakıyor. Bu alan, históri ve doğal güzellikleri ile ön plana çıkıyor ve ziyaretçilerini etkileyen bir destinasyon olarak dikkat çekiyor. Kanlı Tepe'yi ziyaret etmek için, ziyaretçiler, Erzurum'a gelirler ve buradan Kanlı Tepe'ye ulaşırlar. Kanlı Tepe, ulaşım açısından kolay bir konumda yer alıyor ve ziyaretçiler, bu alanı kolayca keşfedebilirler. Kanlı Tepe, ziyaretçilerine lch bir gezi deneyimi sunuyor ve onları geçmişe götürüyor.
+Kanlı Tepe, ziyaretçilerine geniş bir açık alan sunuyor ve onları doğanın güzelliği ile baş başa bırakıyor. Bu alan, tarihi ve doğal güzellikleri ile ön plana çıkıyor ve ziyaretçilerini etkileyen bir destinasyon olarak dikkat çekiyor. Kanlı Tepe'yi ziyaret etmek için, ziyaretçiler, Erzurum'a gelirler ve buradan Kanlı Tepe'ye ulaşırlar. Kanlı Tepe, ulaşım açısından kolay bir konumda yer alıyor ve ziyaretçiler, bu alanı kolayca keşfedebilirler. Kanlı Tepe, ziyaretçilerine lch bir gezi deneyimi sunuyor ve onları geçmişe götürüyor.
 
 ## İlginç Bilgiler
 
 - Kanlı Tepe, Erzurum'un en önemli tarihi ve doğal güzelliklerinden biridir.
-- Bu alan, 140 hektarlık bir açık alana sahiptir.
+
 - Kanlı Tepe, çeşitli bitki türleri ve hayvanların yaşadığı bir alandır.
 - Bu alan, coğrafi konumu nedeniyle önemli bir yerleşim ve ticaret merkezi olarak kullanılmıştır.
 - Kanlı Tepe, ziyaretçilerine lch bir gezi deneyimi sunuyor.

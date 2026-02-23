@@ -28,7 +28,7 @@ wikidata_id: "Q31387083"
 
 # Kaymak Tepesi
 
-Kaymak Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Erzurum'un bir parçasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehir merkezine oldukça yakındır. Bu tepe, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbeden bir destinasyondur. Kaymak Tepesi, özellikle sabah ve akşam saatlerinde manzarasıyla büyülemektedir. Güneşin doğuşu ve batışı, bu tepeyi ziyaret etmek için en ideal zamanlardır.
+Kaymak Tepesi, Doğu Anadolu Bölgesi'nin en güzel noktalarından biri olan Erzurum'un bir parçasıdır. Bu tepe, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbeden bir destinasyondur. Kaymak Tepesi, özellikle sabah ve akşam saatlerinde manzarasıyla büyülemektedir. Güneşin doğuşu ve batışı, bu tepeyi ziyaret etmek için en ideal zamanlardır.
 
 ## Tarihçe
 

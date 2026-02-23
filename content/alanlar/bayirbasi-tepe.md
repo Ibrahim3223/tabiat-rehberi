@@ -28,7 +28,7 @@ wikidata_id: "Q31390412"
 
 # Bayırbaşı Tepe
 
-Bayırbaşı Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi bölgedir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bayırbaşı Tepe, Konya'nın merkezine yakın bir konumda yer alır ve şehrin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, aynı zamanda bölgenin coğrafi ve ekolojik yapısını anlamak için önemli bir noktadır. Bayırbaşı Tepe, Konya'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için bir zorunludur.
+Bayırbaşı Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve tarihi bölgedir. Bayırbaşı Tepe, Konya'nın merkezine yakın bir konumda yer alır ve şehrin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, aynı zamanda bölgenin coğrafi ve ekolojik yapısını anlamak için önemli bir noktadır. Bayırbaşı Tepe, Konya'nın tarihi ve doğal güzelliklerini keşfetmek isteyenler için bir zorunludur.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227265"
 
 # Bursa-Domanic -Domanic Kayin
 
-Bursa ili sınırları içerisinde yer alan Domanic -Domanic Kayin milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini korumada önemli bir rol oynamaktadır. Bu doğal güzellik, ziyaretçilerine hem dinlenme hem de doğayla iç içe olma imkanı sunmaktadır. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+Bursa ili sınırları içerisinde yer alan Domanic -Domanic Kayin milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biridir. Bu doğal güzellik, ziyaretçilerine hem dinlenme hem de doğayla iç içe olma imkanı sunmaktadır. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Domanic -Domanic Kayin milli parkını ziyaret etmek, doğa severler için unutu
 ## İlginç Bilgiler
 
 - Domanic -Domanic Kayin milli parkı, Marmara Bölgesi'nin en büyük milli parklarından biridir.
-- Milli parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölge, çeşitli bitki türleri ve zengin faunaya ev sahipliği yapmaktadır.
 - Domanic -Domanic Kayin milli parkı, doğa severler için unutulmaz bir deneyimdir.
 - Milli parkın kurulma amacı, doğal ve kültürel değerlerin korunmasıdır.

@@ -24,7 +24,7 @@ wikidata_id: "Q108228358"
 
 # Sünnet Gölü Tabiat Parkı
 
-Sünnet Gölü Tabiat Parkı, Karadeniz Bölgesi'nin Bolu iline bağlı Göynük ilçesinde yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, doğal güzellikleri ile dikkat çekiyor. Park, yaban hayatının korunması ve ziyaretçilerin doğa ile iç içe olması için tasarlandı. Sünnet Gölü Tabiat Parkı, Karadeniz Bölgesi'nin yeşil örtüsünün güzelliğini ve zengin fauna çeşitliliğini keşfetmek için ideal bir destinasyon.
+Sünnet Gölü Tabiat Parkı, Karadeniz Bölgesi'nin Bolu iline bağlı Göynük ilçesinde yer alıyor. Park, yaban hayatının korunması ve ziyaretçilerin doğa ile iç içe olması için tasarlandı. Sünnet Gölü Tabiat Parkı, Karadeniz Bölgesi'nin yeşil örtüsünün güzelliğini ve zengin fauna çeşitliliğini keşfetmek için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -32,7 +32,7 @@ Sünnet Gölü Tabiat Parkı, yüzyıllar boyunca doğal güzelliğini korumuşt
 
 ## Coğrafya
 
-Sünnet Gölü Tabiat Parkı, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Park, 140 hektarlık bir alanı kaplıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Sünnet Gölü, etrafındaki dağlarla çevrili ve bu dağlar, parkın doğal güzelliğini artırıyor. Parkın iklimi, Karadeniz Bölgesi'nin genel iklimine benzer ve yağışlı bir yapıya sahiptir. Bu yağışlar, parkın flora ve faunasının zenginleşmesine katkıda bulunuyor. Sünnet Gölü Tabiat Parkı, ziyaretçilere, Karadeniz Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunuyor.
+Sünnet Gölü Tabiat Parkı, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Sünnet Gölü, etrafındaki dağlarla çevrili ve bu dağlar, parkın doğal güzelliğini artırıyor. Parkın iklimi, Karadeniz Bölgesi'nin genel iklimine benzer ve yağışlı bir yapıya sahiptir. Bu yağışlar, parkın flora ve faunasının zenginleşmesine katkıda bulunuyor. Sünnet Gölü Tabiat Parkı, ziyaretçilere, Karadeniz Bölgesi'nin doğal güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

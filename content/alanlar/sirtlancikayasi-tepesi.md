@@ -28,7 +28,7 @@ wikidata_id: "Q34906234"
 
 # Sırtlançıkayası Tepesi
 
-Sırtlançıkayası Tepesi, Hatay'ın gözde noktalarından biri olarak ziyaretçilerini ağırlar. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bölgeye hakim bir konumda yer alır. Doğal güzellikleri ve tarihi önemiyle dikkat çeker. Ziyaretçiler, bu tepenin sunduğu manzaraların yanı sıra, bölgenin zengin tarihini de keşfetme fırsatı bulur. Sırtlançıkayası Tepesi, Hatay'ın önemli bir turizm noktası olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
+Sırtlançıkayası Tepesi, Hatay'ın gözde noktalarından biri olarak ziyaretçilerini ağırlar. Doğal güzellikleri ve tarihi önemiyle dikkat çeker. Ziyaretçiler, bu tepenin sunduğu manzaraların yanı sıra, bölgenin zengin tarihini de keşfetme fırsatı bulur. Sırtlançıkayası Tepesi, Hatay'ın önemli bir turizm noktası olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 

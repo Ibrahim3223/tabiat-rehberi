@@ -28,7 +28,7 @@ wikidata_id: "Q32196026"
 
 # Yöz Tepesi
 
-Yöz Tepesi, Kahramanmaraş ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin coğrafyasını şekillendiren önemli bir doğal alandır. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplar, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Yöz Tepesi, bölgenin coğrafi özelliklerini yansıtan bir oluşum olup, ziyaretçilerini doğal güzellikleriyle etkilemeyi başarır. Bu doğal alan, hem coğrafi özellikleri hem de flora ve faunasıyla dikkat çekici bir destinasyondur.
+Yöz Tepesi, Kahramanmaraş ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin coğrafyasını şekillendiren önemli bir doğal alandır. Yöz Tepesi, bölgenin coğrafi özelliklerini yansıtan bir oluşum olup, ziyaretçilerini doğal güzellikleriyle etkilemeyi başarır. Bu doğal alan, hem coğrafi özellikleri hem de flora ve faunasıyla dikkat çekici bir destinasyondur.
 
 ## Tarihçe
 

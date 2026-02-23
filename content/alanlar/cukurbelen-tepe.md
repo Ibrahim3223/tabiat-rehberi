@@ -28,7 +28,7 @@ wikidata_id: "Q34829577"
 
 # Çukurbelen Tepe
 
-Antalya'nın Akdeniz Bölgesi'nde bulunan Çukurbelen Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ziyaretçiler, bu güzel tepeyi keşfederek hem doğanın güzelliklerini hem de bölgeye özgü bitki ve hayvan türlerini yakından görebiliyor. Çukurbelen Tepe, özellikle doğa severler için bir cennet niteliğinde. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinilebilecek önemli bir nokta.
+Antalya'nın Akdeniz Bölgesi'nde bulunan Çukurbelen Tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Ziyaretçiler, bu güzel tepeyi keşfederek hem doğanın güzelliklerini hem de bölgeye özgü bitki ve hayvan türlerini yakından görebiliyor. Çukurbelen Tepe, özellikle doğa severler için bir cennet niteliğinde. Burada, çeşitli bitki türleri ve yaban hayatı ile karşılaşma mümkün. Bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi edinilebilecek önemli bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Antalya'nın Akdeniz Bölgesi'nde bulunan Çukurbelen Tepe, yaklaşık 140 hekta
 
 ## Coğrafya
 
-Çukurbelen Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahip. Çukurbelen Tepe'nin coğrafi konumu, ziyaretçilerin hem doğal güzellikleri hem de tarihi önemi hakkında bilgi edinmesine olanak tanıyor. Bu tepe, aynı zamanda bölgenin iklimini de yansıtıyor. Ziyaretçiler, bu tepeyi keşfederek hem doğal güzellikleri hem de bölgenin coğrafi özelliklerini yakından görebiliyor. Çukurbelen Tepe, Antalya'nın güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Çukurbelen Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alıyor. Bölge, çeşitli bitki türleri ve yaban hayatı ile zengin bir ekosisteme sahip. Çukurbelen Tepe'nin coğrafi konumu, ziyaretçilerin hem doğal güzellikleri hem de tarihi önemi hakkında bilgi edinmesine olanak tanıyor. Bu tepe, aynı zamanda bölgenin iklimini de yansıtıyor. Ziyaretçiler, bu tepeyi keşfederek hem doğal güzellikleri hem de bölgenin coğrafi özelliklerini yakından görebiliyor. Çukurbelen Tepe, Antalya'nın güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Flora ve Fauna
 

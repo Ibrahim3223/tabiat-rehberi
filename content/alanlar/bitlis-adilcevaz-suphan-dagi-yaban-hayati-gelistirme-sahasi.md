@@ -1,7 +1,7 @@
 ---
 title: "Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası"
 date: "2026-01-09T20:20:19.795Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228984"
 
 # Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası
 
-Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası, yaklaşık 140 hektarlık alanıyla, ziyaretçilerini doğal güzelliklerle sürprizlere hazırlıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve buradaki çeşitlilik, ziyaretçilere benzersiz bir deneyim sunuyor. Coğrafi konumu itibariyle, bölgenin ekolojisine büyük katkı sağlıyor ve yaban hayatının gelişmesine olanak tanıyor.
+Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası, yaklaşık 140 hektarlık alanıyla, ziyaretçilerini doğal güzelliklerle sürprizlere hazırlıyor. Coğrafi konumu itibariyle, bölgenin ekolojisine büyük katkı sağlıyor ve yaban hayatının gelişmesine olanak tanıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası, yüzyıllar b
 
 ## Coğrafya
 
-Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası, coğrafi açıdan oldukça zengin bir yapıya sahip. Konum olarak İç Anadolu Bölgesi'nde yer alan bu saha, Süphan Dağı'nın eteklerinde kurulmuş ve bu da bölgenin jeolojik oluşumuna büyük katkı sağlıyor. İklimi, mevsimsel değişimlere göre şekilleniyor ve bu değişimler, flora ve faunayı doğrudan etkiliyor. Çevre, doğa ile iç içe ve bu uyum, ziyaretçilere doğanın gerçek güzelliğini gösteriyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve buradaki coğrafi çeşitlilik, ziyaretçilere geniş bir doğal spektrum sunuyor.
+Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası, coğrafi açıdan oldukça zengin bir yapıya sahip. Konum olarak İç Anadolu Bölgesi'nde yer alan bu saha, Süphan Dağı'nın eteklerinde kurulmuş ve bu da bölgenin jeolojik oluşumuna büyük katkı sağlıyor. İklimi, mevsimsel değişimlere göre şekilleniyor ve bu değişimler, flora ve faunayı doğrudan etkiliyor. Çevre, doğa ile iç içe ve bu uyum, ziyaretçilere doğanın gerçek güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

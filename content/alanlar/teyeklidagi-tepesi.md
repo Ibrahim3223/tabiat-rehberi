@@ -28,7 +28,7 @@ wikidata_id: "Q31391027"
 
 # Teyeklidağı Tepesi
 
-Teyeklidağı Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Tepenin eteklerinde yer alan köyler, geleneksel mimari yapılarıyla ziyaretçileri geçmişe götürürken, tepe üzerindeki manzaralar ise şehri ve çevreyi panoramik olarak seyretme imkanı sağlıyor. Teyeklidağı Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul ediliyor.
+Teyeklidağı Tepesi, Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan bir tepe olarak, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Tepenin eteklerinde yer alan köyler, geleneksel mimari yapılarıyla ziyaretçileri geçmişe götürürken, tepe üzerindeki manzaralar ise şehri ve çevreyi panoramik olarak seyretme imkanı sağlıyor. Teyeklidağı Tepesi, hem doğa severler hem de tarih meraklıları için bir hazine olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Teyeklidağı Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelli
 
 ## Flora ve Fauna
 
-Teyeklidağı Tepesi, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bölge, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini cezbeden bir güzelliğe sahip oluyor. Tepenin eteklerinde yer alan ormanlar, farklı ağaç türleri ve çiçeklerle dolu olarak, bölgeye renk katıyor. Teyeklidağı Tepesi'nin fauna açısından da zengin olduğu söylenebilir. Bölgede, çeşitli kuş türleri, memeliler ve sürüngenler gibi canlılar yaşadığı biliniyor. Tepenin coğrafi konumu ve iklimi, bu çeşitliliği destekleyen önemli faktörler arasında yer alıyor. Teyeklidağı Tepesi, doğa severler için bir cennet olarak kabul ediliyor ve ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Teyeklidağı Tepesi, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Bölge, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini cezbeden bir güzelliğe sahip oluyor. Tepenin eteklerinde yer alan ormanlar, farklı ağaç türleri ve çiçeklerle dolu olarak, bölgeye renk katıyor. Teyeklidağı Tepesi'nin fauna açısından da zengin olduğu söylenebilir. Bölgede, çeşitli kuş türleri, memeliler ve sürüngenler gibi canlılar yaşadığı biliniyor. Tepenin coğrafi konumu ve iklimi, bu çeşitliliği destekleyen önemli faktörler arasında yer alıyor.
 
 ## Ziyaret Bilgileri
 
@@ -48,7 +48,6 @@ Teyeklidağı Tepesi'ni ziyaret etmek, hem doğa severler hem de tarih meraklıl
 
 ## İlginç Bilgiler
 
-- Teyeklidağı Tepesi, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin eteklerinde yer alan köyler, geleneksel mimari yapılarıyla ziyaretçileri geçmişe götürüyor.
 - Teyeklidağı Tepesi, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor.
 - Bölge, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini cezbeden bir güzelliğe sahip oluyor.

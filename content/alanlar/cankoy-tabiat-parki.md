@@ -29,7 +29,7 @@ wikidata_id: "Q108228347"
 
 # Canköy Tabiat Parkı
 
-İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Canköy Tabiat Parkı, çam ormanlarıyla süslü 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil cennet, Çeşme/Sivas yolu üzerinde yer alıyor. Canköy Tabiat Parkı, doğa severlerin ve fotoğraf tutkunlarının gözdesi. Parkın içinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Canköy Tabiat Parkı, doğa ile iç içe olmak isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Çeşme/Sivas yolu üzerinde yer alıyor.
+ Bu yeşil cennet, Çeşme/Sivas yolu üzerinde yer alıyor. Canköy Tabiat Parkı, doğa severlerin ve fotoğraf tutkunlarının gözdesi. Parkın içinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Canköy Tabiat Parkı, doğa ile iç içe olmak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

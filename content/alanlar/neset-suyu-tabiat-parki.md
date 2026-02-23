@@ -30,7 +30,7 @@ wikidata_id: "Q28220056"
 
 # Neşet Suyu Tabiat Parkı
 
-Neşet Suyu Tabiat Parkı, İstanbul'un kalbinde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini ağırlıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Park, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görüyor. Ziyaretçiler, doğanın güzelliğini keşfetme ve streslerini atmak için burayı tercih ediyorlar. Parkın etrafı, çeşitli ağaçlar ve bitkilerle çevrili, ayrıca yürüyüş yolları ve piknik alanları ile donatılmış. Neşet Suyu Tabiat Parkı, hem doğa severler hem de aileler için ideal bir destinasyon.
+Neşet Suyu Tabiat Parkı, İstanbul'un kalbinde yer alan 140 hektarlık bir yeşil alan olarak ziyaretçilerini ağırlıyor. Park, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak görevi görüyor. Ziyaretçiler, doğanın güzelliğini keşfetme ve streslerini atmak için burayı tercih ediyorlar. Parkın etrafı, çeşitli ağaçlar ve bitkilerle çevrili, ayrıca yürüyüş yolları ve piknik alanları ile donatılmış. Neşet Suyu Tabiat Parkı, hem doğa severler hem de aileler için ideal bir destinasyon.
 
 ## Tarihçe
 

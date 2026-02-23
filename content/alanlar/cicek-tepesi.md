@@ -29,7 +29,7 @@ wikidata_id: "Q34819334"
 
 # Çiçek Tepesi
 
-Ankara'nın merkezinde yer alan Çiçek Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Ziyaretçiler, bu geniş alanda doğanın güzelliğini keşfedebilir. Çiçek Tepesi, Ankara'nın önemli noktalarından biri olarak biliniyor ve ziyaretçilerini doğal güzelliklerle baş başa bırakıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Ankara'nın merkezinde yer alan Çiçek Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Ziyaretçiler, bu geniş alanda doğanın güzelliğini keşfedebilir. Çiçek Tepesi, Ankara'nın önemli noktalarından biri olarak biliniyor ve ziyaretçilerini doğal güzelliklerle baş başa bırakıyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 

@@ -48,9 +48,9 @@ Bölgenin çevresel ilişkileri, komşu alanlar ve su kaynakları ile bağlantı
 
 ## Flora ve Fauna
 
-Aşıt Tepe, Ordu'nun nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Aşıt Tepe, Ordu'nun nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharda çiçek açan ağaçlar ve sonbaharda renk değiştiren yapraklar, mevsimsel değişimlere şahitlik ediyor. Gür ormanlar, yüksek biyoçeşitlilik sunuyor. Yaban Hayatı açısından, memeliler ve kuşlar, dağ ekosisteminin önemli bileşenleri. Bu bölgede, göçmen kuşlar sonbaharda görülüyor. 
+Bitki Örtüsü olarak, ilkbaharda çiçek açan ağaçlar ve sonbaharda renk değiştiren yapraklar, mevsimsel değişimlere şahitlik ediyor. Gür ormanlar, yüksek biyoçeşitlilik sunuyor. Yaban Hayatı açısından, memeliler ve kuşlar, dağ ekosisteminin önemli bileşenleri. Bu bölgede, göçmen kuşlar sonbaharda görülüyor.
 
 Aşıt Tepe'nin Ekolojik Değeri, yüksek biyoçeşitlilik nedeniyle önemli. Bu alanın korunması, ekosistemin devamlılığı açısından kritik.
 

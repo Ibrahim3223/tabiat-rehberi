@@ -28,7 +28,7 @@ wikidata_id: "Q32126700"
 
 # Akgüney Tepesi
 
-Akgüney Tepesi, Yozgat'ın sakin ve doğal güzellikleri arasında yer alan bir tepe. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Akgüney Tepesi, ziyaretçilerini doğanın güzelliği ve sakinliği ile karşılar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Bu tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir yer.
+Akgüney Tepesi, Yozgat'ın sakin ve doğal güzellikleri arasında yer alan bir tepe. Akgüney Tepesi, ziyaretçilerini doğanın güzelliği ve sakinliği ile karşılar. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna found. Bu tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir yer.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Akgüney Tepesi'nin tarihi geçmişi, yüzyıllar boyunca farklı kültürlerin 
 
 ## Coğrafya
 
-Akgüney Tepesi, Yozgat'ın coğrafyasında önemli bir yer tutar. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Akgüney Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunar. Bu tepe, hem doğa severlerin hem de coğrafya meraklılarının ilgisini çekecek bir yer. Akgüney Tepesi'nin coğrafi konumu, ziyaretçilere farklı bir deneyim sunar.
+Akgüney Tepesi, Yozgat'ın coğrafyasında önemli bir yer tutar. Bu tepe, İç Anadolu Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Tepenin yüksekliği, ziyaretçilere geniş bir manzara sunar. Bu tepe, hem doğa severlerin hem de coğrafya meraklılarının ilgisini çekecek bir yer. Akgüney Tepesi'nin coğrafi konumu, ziyaretçilere farklı bir deneyim sunar.
 
 ## Flora ve Fauna
 

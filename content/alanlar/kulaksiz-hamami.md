@@ -1,7 +1,7 @@
 ---
 title: "Kulaksız Hamamı"
 date: "2026-01-09T22:19:08.972Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q119841563"
 
 # Kulaksız Hamamı
 
-Kulaksız Hamamı, İstanbul'un kalbinde, Beyoğlu'nda yer alan bir plajdır. 140 hektarlık yeşil alan, ziyaretçilerine geniş ve ferah bir ortam sunar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerin keyifli vakit geçirmesine olanak tanır. Kulaksız Hamamı, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Yeşil doğası, temiz havası ve güzel plajı ile ziyaretçilerini cezbeder.
+Kulaksız Hamamı, İstanbul'un kalbinde, Beyoğlu'nda yer alan bir plajdır. 140 hektarlık yeşil alan, ziyaretçilerine geniş ve ferah bir ortam sunar. Kulaksız Hamamı, şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Yeşil doğası, temiz havası ve güzel plajı ile ziyaretçilerini cezbeder.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kulaksız Hamamı'nın tarihi geçmişi, İstanbul'un tarihinde önemli bir yer 
 
 ## Coğrafya
 
-Kulaksız Hamamı, Marmara Bölgesi'nde, Beyoğlu'nda yer alır. Bu bölge, coğrafi olarak zengin bir yapıya sahiptir. 140 hektarlık yeşil alan, ziyaretçilere geniş bir alan sunar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerin keyifli vakit geçirmesine olanak tanır. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşlidir. Bu bölgenin coğrafi konumu, doğal güzellikleri ve turizm değerleri, ziyaretçilerini çekmektedir.
+Kulaksız Hamamı, Marmara Bölgesi'nde, Beyoğlu'nda yer alır. Bu bölge, coğrafi olarak zengin bir yapıya sahiptir. 140 hektarlık yeşil alan, ziyaretçilere geniş bir alan sunar. Bölgenin iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak değişir. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve güneşlidir. Bu bölgenin coğrafi konumu, doğal güzellikleri ve turizm değerleri, ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 
@@ -51,6 +51,6 @@ Kulaksız Hamamı, yılın her döneminde ziyaret edilebilir. Ancak, en uygun za
 
 - Kulaksız Hamamı, İstanbul'un en büyük plajlarından biridir.
 - Bölge, 140 hektarlık yeşil alana sahiptir.
-- Plaj, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerin keyifli vakit geçirmesine olanak tanır.
+
 - Kulaksız Hamamı, İstanbul'un turizm değerleri arasında önemli bir yere sahiptir.
 - Bölge, zengin bir flora ve fauna yapıya sahiptir.

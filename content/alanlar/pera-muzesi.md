@@ -1,7 +1,7 @@
 ---
 title: "Pera Müzesi"
 date: "2026-01-10T15:11:44.215Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q1662392"
 
 # Pera Müzesi
 
-Pera Müzesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan bir kültür ve sanat merkezidir. 1893 yılında inşa edilen tarihi binasıyla dikkat çeken müze, yaklaşık 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. İstanbul'un kültür ve sanat başkenti olan Beyoğlu'nda bulunan Pera Müzesi, ziyaretçilerine zengin bir sanat ve tarih deneyimi sunuyor. Müzenin koleksiyonunda çeşitli eserler ve sergiler yer alıyor, ayrıca ziyaretçiler için konferanslar, atölye çalışmaları ve diğer etkinlikler düzenleniyor.
+Pera Müzesi, İstanbul'un kalbinde, Beyoğlu'nda yer alan bir kültür ve sanat merkezidir. İstanbul'un kültür ve sanat başkenti olan Beyoğlu'nda bulunan Pera Müzesi, ziyaretçilerine zengin bir sanat ve tarih deneyimi sunuyor. Müzenin koleksiyonunda çeşitli eserler ve sergiler yer alıyor, ayrıca ziyaretçiler için konferanslar, atölye çalışmaları ve diğer etkinlikler düzenleniyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Pera Müzesi, 1893 yılında inşa edilen tarihi binasıyla dikkat çekiyor. Mü
 
 ## Coğrafya
 
-Pera Müzesi, İstanbul'un Beyoğlu ilçesinde yer alıyor. Müze, yaklaşık 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Pera Müzesi, İstanbul'un kültür ve sanat merkezlerinden biri olan Beyoğlu'nda yer alıyor. Müzenin etrafında birçok önemli sanat ve kültür merkezi, restoran ve kafe bulunuyor. Pera Müzesi, ziyaretçilerine zengin bir sanat ve tarih deneyimi sunuyor ve İstanbul'un kültür ve sanat yaşamında önemli bir role sahip. Müzenin konumu, ziyaretçilerin diğer önemli sanat ve kültür merkezlerine kolayca ulaşabilmesini sağlıyor. Ayrıca, Pera Müzesi, İstanbul'un tarihi ve kültürel açıdan önemli birçok noktasına yakın mesafede yer alıyor.
+Pera Müzesi, İstanbul'un Beyoğlu ilçesinde yer alıyor. Pera Müzesi, İstanbul'un kültür ve sanat merkezlerinden biri olan Beyoğlu'nda yer alıyor. Müzenin etrafında birçok önemli sanat ve kültür merkezi, restoran ve kafe bulunuyor. Pera Müzesi, ziyaretçilerine zengin bir sanat ve tarih deneyimi sunuyor ve İstanbul'un kültür ve sanat yaşamında önemli bir role sahip. Müzenin konumu, ziyaretçilerin diğer önemli sanat ve kültür merkezlerine kolayca ulaşabilmesini sağlıyor. Ayrıca, Pera Müzesi, İstanbul'un tarihi ve kültürel açıdan önemli birçok noktasına yakın mesafede yer alıyor.
 
 ## Flora ve Fauna
 

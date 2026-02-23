@@ -22,7 +22,7 @@ wikidata_id: "Q108227747"
 
 # Zonguldak-Eregli-Kocaman Ihlamur
 
-Zonguldak ilinin Eregli ilçesinde yer alan Kocaman Ihlamur Milli Parkı, 140 hektarlık geniş bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin önemli doğa alanlarından biridir. Milli parkın etrafı, yemyeşil ormanlarla çevrili ve bu ormanlar, çeşitli bitki türleriyle zengin bir flora sunar. Ziyaretçiler, bu doğal güzelliğin içinde huzur bulabilir ve doğayla iç içe olabilirler. Kocaman Ihlamur, aynı zamanda bir doğa koruma alanı olarak da önemlidir ve bu nedenle, buradaki ekosistemin korunmasına dikkat edilir. Milli parkın girişinde, ziyaretçilere bilgi veren tabelalar ve rehberler bulunur, bu sayede ziyaretçiler, alanı daha iyi keşfedebilir ve hakkında bilgi edinebilirler.
+Zonguldak ilinin Eregli ilçesinde yer alan Kocaman Ihlamur Milli Parkı, 140 hektarlık geniş bir alana sahiptir. Milli parkın etrafı, yemyeşil ormanlarla çevrili ve bu ormanlar, çeşitli bitki türleriyle zengin bir flora sunar. Ziyaretçiler, bu doğal güzelliğin içinde huzur bulabilir ve doğayla iç içe olabilirler. Kocaman Ihlamur, aynı zamanda bir doğa koruma alanı olarak da önemlidir ve bu nedenle, buradaki ekosistemin korunmasına dikkat edilir. Milli parkın girişinde, ziyaretçilere bilgi veren tabelalar ve rehberler bulunur, bu sayede ziyaretçiler, alanı daha iyi keşfedebilir ve hakkında bilgi edinebilirler.
 
 ## Tarihçe
 

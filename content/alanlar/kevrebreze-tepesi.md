@@ -28,7 +28,7 @@ wikidata_id: "Q31543295"
 
 # Kevrebreze Tepesi
 
-Kevrebreze Tepesi, Diyarbakır'ın eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu tepenin büyüklüğü, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kapsıyor. Kevrebreze Tepesi, şehrin kalabalığından uzaklaşma ve doğayla iç içe olmak isteyenler için mükemmel bir kaçış noktası. Tepenin eteklerinde yeşillikler ve çeşitli bitki türleri bulunmakta, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Kevrebreze Tepesi, aynı zamanda tarihsel bir geçmişe de sahip, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Bu tepe, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbediyor.
+Kevrebreze Tepesi, Diyarbakır'ın eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Kevrebreze Tepesi, şehrin kalabalığından uzaklaşma ve doğayla iç içe olmak isteyenler için mükemmel bir kaçış noktası. Tepenin eteklerinde yeşillikler ve çeşitli bitki türleri bulunmakta, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Kevrebreze Tepesi, aynı zamanda tarihsel bir geçmişe de sahip, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılmıştır. Bu tepe, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

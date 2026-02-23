@@ -50,7 +50,7 @@ Mevsimsel değişiklikler, Şemdi Tepe'nin iklim karakterini şekillendirmektedi
 
 ## Flora ve Fauna
 
-Şemdi Tepe, Batman'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak dikkat çekiyor. 1200 metre yükseklikte, dağın farklı zonlarında çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor. 
+Şemdi Tepe, Batman'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak dikkat çekiyor. 1200 metre yükseklikte, dağın farklı zonlarında çeşitli bitki türleri ve hayvanlar yaşamını sürdürüyor.
 
 Bitki örtüsünü oluşturan step ve ova ekolojisi, ilkbahar aylarında renkli çiçeklerle kaplanırken, yaz aylarında kuraklık nedeniyle daha az yeşil görünüyor. Dağın yükseklik zonlarında alpin flora hakimdir.
 

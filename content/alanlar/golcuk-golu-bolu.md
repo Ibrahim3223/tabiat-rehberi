@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Gölcük Gölü (Bolu)
 
-Gölcük Gölü, Bolu'nun merkezinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tabiat parkıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Gölün etrafında bulunan yürüyüş yolları ve piknik alanları, ziyaretçilere doğayla iç içe olmayı sağlayan güzel bir ortam sunar. Gölcük Gölü, Bolu'nun önemli doğal güzelliklerinden biri olarak kabul edilir ve yıl boyunca birçok ziyaretçi tarafından tercih edilir.
+Gölcük Gölü, Bolu'nun merkezinde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tabiat parkıdır. Gölün etrafında bulunan yürüyüş yolları ve piknik alanları, ziyaretçilere doğayla iç içe olmayı sağlayan güzel bir ortam sunar. Gölcük Gölü, Bolu'nun önemli doğal güzelliklerinden biri olarak kabul edilir ve yıl boyunca birçok ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 

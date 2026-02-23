@@ -22,7 +22,7 @@ wikidata_id: "Q108227745"
 
 # Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur
 
-Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur milli parkı, Marmara Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için harika bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, Bursa'nın Mustafakemalpaşa ilçesine bağlı Yenikoy ve Ihlamur köyleri arasında yer alıyor. Doğal güzellikleri, zengin florası ve faunası ile ziyaretçilerini büyülüyor. Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur milli parkı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur milli parkı, Marmara Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için harika bir destinasyon. Bu milli park, Bursa'nın Mustafakemalpaşa ilçesine bağlı Yenikoy ve Ihlamur köyleri arasında yer alıyor. Doğal güzellikleri, zengin florası ve faunası ile ziyaretçilerini büyülüyor. Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur milli parkı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur milli parkının tarihi geçmişi olduk�
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur milli parkı, Marmara Bölgesi'nin coğrafi çeşitliliğini yansıtıyor. Parkın coğrafi yapısı, dağlık alanlar, ormanlar ve vadilerden oluşuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, karasal ve Akdeniz iklimi arasında bir geçiş gösteriyor. Bölge, kış aylarında yağışlı ve serin, yaz aylarında ise sıcak ve kurak geçiyor. Bu çeşitlilik, farklı mevsimlerde ziyaret edenler için çeşitli deneyimler sunuyor. Milli parkın coğrafi konumu, Bursa'nın Mustafakemalpaşa ilçesine bağlı Yenikoy ve Ihlamur köyleri arasında yer alıyor. Bu konum, ziyaretçilerin bölgeye ulaşımını kolaylaştırıyor.
+Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur milli parkı, Marmara Bölgesi'nin coğrafi çeşitliliğini yansıtıyor. Parkın coğrafi yapısı, dağlık alanlar, ormanlar ve vadilerden oluşuyor. Milli parkın iklimi, Marmara Bölgesi'nin karakteristik iklimine uygun olarak, karasal ve Akdeniz iklimi arasında bir geçiş gösteriyor. Bölge, kış aylarında yağışlı ve serin, yaz aylarında ise sıcak ve kurak geçiyor. Bu çeşitlilik, farklı mevsimlerde ziyaret edenler için çeşitli deneyimler sunuyor. Milli parkın coğrafi konumu, Bursa'nın Mustafakemalpaşa ilçesine bağlı Yenikoy ve Ihlamur köyleri arasında yer alıyor. Bu konum, ziyaretçilerin bölgeye ulaşımını kolaylaştırıyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur milli parkını ziyaret etmek, doğa ve 
 ## İlginç Bilgiler
 
 - Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur milli parkı, Marmara Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
-- Milli park, 140 hektarlık bir alana sahip ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur milli parkı, zengin bir flora ve fauna çeşitliliğine sahip.
 - Milli park, yılın her mevsiminde ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları en uygun dönemler olarak kabul ediliyor.
 - Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur milli parkı, doğa severler ve tarih meraklıları için harika bir deneyim sunuyor.

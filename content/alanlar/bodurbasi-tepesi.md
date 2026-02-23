@@ -28,7 +28,7 @@ wikidata_id: "Q31388596"
 
 # Bodurbaşı Tepesi
 
-Erzurum'un görkemli doğal güzelliklerinden biri olan Bodurbaşı Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Yerlilerin ve ziyaretçilerin ortak noktası olan Bodurbaşı Tepesi, coğrafi konumu itibariyle oldukça dikkat çekici. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilere geniş bir hareket alanı sunuyor.
+ Bu tepe, ziyaretçilerini doğanın içinde bir maceraya davet ediyor. Yerlilerin ve ziyaretçilerin ortak noktası olan Bodurbaşı Tepesi, coğrafi konumu itibariyle oldukça dikkat çekici.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bodurbaşı Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyet
 
 ## Coğrafya
 
-Bodurbaşı Tepesi, Erzurum'un coğrafi yapısı içinde önemli bir yere sahip. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklük, ziyaretçilere geniş bir hareket alanı sunuyor. Tepenin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Doğal güzellikleri, yerlilerin yaşam alanları ve históriki olayların gerçekleştiği yerler, bu tepenin coğrafi yapısını zenginleştiriyor. Bodurbaşı Tepesi, ziyaretçilere hem doğal güzelliğini sunuyor hem de coğrafi konumu itibariyle önemli bir yere sahip.
+Bodurbaşı Tepesi, Erzurum'un coğrafi yapısı içinde önemli bir yere sahip. Tepenin coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Doğal güzellikleri, yerlilerin yaşam alanları ve tarihi olayların gerçekleştiği yerler, bu tepenin coğrafi yapısını zenginleştiriyor. Bodurbaşı Tepesi, ziyaretçilere hem doğal güzelliğini sunuyor hem de coğrafi konumu itibariyle önemli bir yere sahip.
 
 ## Flora ve Fauna
 

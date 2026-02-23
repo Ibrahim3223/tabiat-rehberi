@@ -28,7 +28,7 @@ wikidata_id: "Q32196156"
 
 # Yüksel Tepe
 
-Yüksel Tepe, Eskişehir'in merkezinde yer alan ve şehrin tarihi ile doğal güzelliklerini bir arada sunan bir tepe. Bu tepe yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Yüksel Tepe'nin etrafı çeşitli bitki türleri ile çevrili ve ziyaretçilere doğal bir ortam sunuyor. Tepenin üzerine çıkıldığında, Eskişehir'in panoramik manzarası izlenebiliyor.
+Yüksel Tepe, Eskişehir'in merkezinde yer alan ve şehrin tarihi ile doğal güzelliklerini bir arada sunan bir tepe. Yüksel Tepe'nin etrafı çeşitli bitki türleri ile çevrili ve ziyaretçilere doğal bir ortam sunuyor. Tepenin üzerine çıkıldığında, Eskişehir'in panoramik manzarası izlenebiliyor.
 
 ## Tarihçe
 

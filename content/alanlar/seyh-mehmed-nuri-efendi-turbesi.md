@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Mehmed Nuri Efendi Türbesi"
 date: "2026-01-10T05:33:25.406Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391667"
 
 # Şeyh Mehmed Nuri Efendi Türbesi
 
-Şeyh Mehmed Nuri Efendi Türbesi, İstanbul'un Üsküdar ilçesinde yer alan tarihi bir türbe ve plajdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplıyor, ki bu yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tarih boyunca önemli bir dini merkez olarak kabul edilen bu bölge, aynı zamanda doğal güzelliği ile de dikkat çekiyor. Şeyh Mehmed Nuri Efendi'nin türbesi, ziyaretçilerin huzur ve maneviyat bulabileceği bir mekân olarak görülüyor. Ayrıca, plajın sunduğu olanaklar ve yakın çevre, hem dinlenme hem de doğayı keşfetme fırsatları sunuyor.
+Şeyh Mehmed Nuri Efendi Türbesi, İstanbul'un Üsküdar ilçesinde yer alan tarihi bir türbe ve plajdır. Tarih boyunca önemli bir dini merkez olarak kabul edilen bu bölge, aynı zamanda doğal güzelliği ile de dikkat çekiyor. Şeyh Mehmed Nuri Efendi'nin türbesi, ziyaretçilerin huzur ve maneviyat bulabileceği bir mekân olarak görülüyor. Ayrıca, plajın sunduğu olanaklar ve yakın çevre, hem dinlenme hem de doğayı keşfetme fırsatları sunuyor.
 
 ## Tarihçe
 

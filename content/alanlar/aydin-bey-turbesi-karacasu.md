@@ -1,7 +1,7 @@
 ---
 title: "Aydın Bey Türbesi, Karacasu"
 date: "2026-01-10T05:46:56.064Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q134735190"
 
 # Aydın Bey Türbesi, Karacasu
 
-Aydın Bey Türbesi, Karacasu'da yer alan bir tarihi yapıdır. Bu türbe, Aydın Bey'in mezarının bulunduğu önemli bir noktadır. Aydın Bey, bölge tarihinde önemli bir figür olarak bilinir. Türbe, çevredekiının güzelliği ve tarihi önemi ile dikkat çeker. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Aydın Bey Türbesi, Karacasu'nun tarihi ve kültürel mirasının önemli bir parçasıdır.
+Aydın Bey Türbesi, Karacasu'da yer alan bir tarihi yapıdır. Bu türbe, Aydın Bey'in mezarının bulunduğu önemli bir noktadır. Aydın Bey, bölge tarihinde önemli bir figür olarak bilinir. Türbe, çevredekiının güzelliği ve tarihi önemi ile dikkat çeker. Aydın Bey Türbesi, Karacasu'nun tarihi ve kültürel mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 

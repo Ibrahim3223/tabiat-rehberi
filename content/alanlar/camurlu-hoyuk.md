@@ -29,7 +29,7 @@ wikidata_id: "Q49091545"
 
 # Çamurlu Höyük
 
-Çamurlu Höyük, Güneydoğu Anadolu Bölgesi'nin Kilis ilinin Elbeyli ilçesinde yer alan bir höyüktür. Bu höyük, yaklaşık 140 hektarlık bir alanı kaplar ve bunun anlamı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamasıdır. Höyüğün etrafı, tarihi ve coğrafi olarak önemli birçok bölgeye yakın olmasıyla dikkat çeker. Höyüğün yüksekliği ve genişliği, bölgenin coğrafi özelliklerini yansıtır.
+Çamurlu Höyük, Güneydoğu Anadolu Bölgesi'nin Kilis ilinin Elbeyli ilçesinde yer alan bir höyüktür. Höyüğün etrafı, tarihi ve coğrafi olarak önemli birçok bölgeye yakın olmasıyla dikkat çeker. Höyüğün yüksekliği ve genişliği, bölgenin coğrafi özelliklerini yansıtır.
 
 ## Tarihçe
 

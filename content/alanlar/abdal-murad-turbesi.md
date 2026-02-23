@@ -1,7 +1,7 @@
 ---
 title: "Abdal Murad Türbesi"
 date: "2026-01-10T06:23:46.681Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390734"
 
 # Abdal Murad Türbesi
 
-Bursa'nın Osmangazi ilçesinde bulunan Abdal Murad Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayan özel bir destinasyon. 140 hektarlık bir alanda yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Tarihi geçmişi ve doğal güzellikleri ile birlikte, Abdal Murad Türbesi, gezi severlerin ilgisini çekiyor. Bu türbe, Marmara Bölgesi'nin önemli tarihi ve doğal noktalarından biri olarak dikkat çekiyor.
+Bursa'nın Osmangazi ilçesinde bulunan Abdal Murad Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayan özel bir destinasyon. Tarihi geçmişi ve doğal güzellikleri ile birlikte, Abdal Murad Türbesi, gezi severlerin ilgisini çekiyor. Bu türbe, Marmara Bölgesi'nin önemli tarihi ve doğal noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Abdal Murad Türbesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniy
 
 ## Coğrafya
 
-Abdal Murad Türbesi, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Bu türbe, 140 hektarlık bir alanda kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Coğrafi konumu itibariyle, Abdal Murad Türbesi, ziyaretçilerine çeşitli doğal güzellikleri sunuyor. Bu türbe, etrafındaki yeşillik alanlar, ağaçlar ve diğer doğal unsurlar ile birlikte, ziyaretçilerine huzurlu bir ortam sunuyor. Coğrafi olarak, Abdal Murad Türbesi, Marmara Bölgesi'nin çeşitli coğrafi özelliklerini taşıyor. Bu türbe, coğrafi konumu itibariyle, ziyaretçilerine zengin bir gezi deneyimi sunuyor. Abdal Murad Türbesi'nin coğrafi konumu, çeşitli yürüyüş parkurları ve doğal güzelliklere sahip bir bölge olarak dikkat çekiyor.
+Abdal Murad Türbesi, Bursa'nın Osmangazi ilçesinde, Marmara Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer alıyor. Coğrafi konumu itibariyle, Abdal Murad Türbesi, ziyaretçilerine çeşitli doğal güzellikleri sunuyor. Bu türbe, etrafındaki yeşillik alanlar, ağaçlar ve diğer doğal unsurlar ile birlikte, ziyaretçilerine huzurlu bir ortam sunuyor. Coğrafi olarak, Abdal Murad Türbesi, Marmara Bölgesi'nin çeşitli coğrafi özelliklerini taşıyor. Bu türbe, coğrafi konumu itibariyle, ziyaretçilerine zengin bir gezi deneyimi sunuyor. Abdal Murad Türbesi'nin coğrafi konumu, çeşitli yürüyüş parkurları ve doğal güzelliklere sahip bir bölge olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

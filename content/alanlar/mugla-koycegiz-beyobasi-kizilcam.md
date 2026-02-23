@@ -22,7 +22,7 @@ wikidata_id: "Q108227443"
 
 # Mugla-Koycegiz-Beyobasi Kızılçam
 
-Muğla'nın Koycegiz ilçesinde yer alan Beyobasi Kızılçam Milli Parkı, 140 hektarlık bir alanda kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı temsil etmektedir. Milli parkın kuruluş amacı, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini koruma ve gelecek nesillere aktarmaktır. Milli park, doğal güzelliği ve biyolojik çeşitliliği ile ziyaretçilerini büyülemektedir. Ziyaretçiler, milli parkın içinde yürüyüş yapabilir, piknik yapabilir ve doğayı keşfedebilirler. Milli parkın içinde çeşitli bitki türleri ve hayvanlar yaşamaktadır.
+Muğla'nın Koycegiz ilçesinde yer alan Beyobasi Kızılçam Milli Parkı, 140 hektarlık bir alanda kurulmuştur. Milli parkın kuruluş amacı, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini koruma ve gelecek nesillere aktarmaktır. Milli park, doğal güzelliği ve biyolojik çeşitliliği ile ziyaretçilerini büyülemektedir. Ziyaretçiler, milli parkın içinde yürüyüş yapabilir, piknik yapabilir ve doğayı keşfedebilirler. Milli parkın içinde çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 
 ## Tarihçe
 

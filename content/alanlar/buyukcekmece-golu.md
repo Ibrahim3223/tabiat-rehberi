@@ -51,7 +51,7 @@ Büyükçekmece Gölü, çevresindeki diğer su kaynakları ve ekosistemlerle ba
 
 Büyükçekmece Gölü, İstanbul'un doğal güzelliklerinden biri olarak geçiş ikliminin etkisi altında bulunuyor. Bu 1200 hektarlık yeşil cennet, karma ormanların ve sulak alanların birleştiği bir bölge olarak dikkat çekiyor.
 
-Bitki örtüsü olarak, gölün etrafını saran sazlık ve kamışlıklar, ilkbahar aylarında renkli çiçeklerle donanıyor. Sonbaharda ise, göçmen kuşların konakladığı önemli bir durak noktası haline geliyor. 
+Bitki örtüsü olarak, gölün etrafını saran sazlık ve kamışlıklar, ilkbahar aylarında renkli çiçeklerle donanıyor. Sonbaharda ise, göçmen kuşların konakladığı önemli bir durak noktası haline geliyor.
 
 Gölün yaban hayatı, su kuşları ve balıkların çeşitliliği ile zengin. Gölde yaşayan balıklar, su kuşları için önemli bir besin kaynağı oluşturuyor. Sürüngenler ve memeliler de bu ekosistemin bir parçası olarak yer alıyor.
 

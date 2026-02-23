@@ -1,7 +1,7 @@
 ---
 title: "Öksürük Baba Türbesi"
 date: "2026-01-10T05:19:35.318Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391718"
 
 # Öksürük Baba Türbesi
 
-Öksürük Baba Türbesi, Doğu Anadolu Bölgesi'nin Erzurum ilinin Yakutiye ilçesinde bulunan bir plaj ve tarihi mekan olarak dikkat çekmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte bir doğa harikası olarak görülmektedir. Bu bölge, hem tarihi zenginlikleri hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Öksürük Baba Türbesi'nin etrafındaki manzara, ziyaretçiler için unutulmaz bir deneyim sunuyor.
+Öksürük Baba Türbesi, Doğu Anadolu Bölgesi'nin Erzurum ilinin Yakutiye ilçesinde bulunan bir plaj ve tarihi mekan olarak dikkat çekmektedir. Bu bölge, hem tarihi zenginlikleri hem de doğal güzellikleri ile ziyaretçilerini bekliyor. Öksürük Baba Türbesi'nin etrafındaki manzara, ziyaretçiler için unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

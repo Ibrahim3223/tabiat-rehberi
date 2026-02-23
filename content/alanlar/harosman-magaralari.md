@@ -51,7 +51,7 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından bakıldığı
 
 ## Flora ve Fauna
 
-Harosman Mağaraları, Ardahan'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir jeoparktır. Bu bölgede, kuraklığa adapte olmuş türler hakimdir. 
+Harosman Mağaraları, Ardahan'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir jeoparktır. Bu bölgede, kuraklığa adapte olmuş türler hakimdir.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte renkli çiçekler açar ve manzarayı renklendirir. Sonbaharda ise, bitkiler sararıp kurur ve göç eden kuşlar bu bölgeyi ziyaret eder.
 

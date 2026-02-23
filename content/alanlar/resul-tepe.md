@@ -32,7 +32,7 @@ Hakkari'nin dağlık arazisini kaplayan Resul Tepe, doğa severlerin keşif nokt
 
 ## Tarihçe
 
-Hakkari bölgesinde yer alan Resul Tepe, tarihin sâu izlerini taşıyan bir doğal alan olarak dikkat çekiyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı bir coğrafya olarak bilinir. Medler, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, Hakkari'nin stratejik konumundan yararlanarak ticaret ve askeri faaliyetlerini gerçekleştirmişlerdir.
+Hakkari bölgesinde yer alan Resul Tepe, tarihin derin izlerini taşıyan bir doğal alan olarak dikkat çekiyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı bir coğrafya olarak bilinir. Medler, Persler, Romalılar ve Osmanlılar gibi büyük imparatorluklar, Hakkari'nin stratejik konumundan yararlanarak ticaret ve askeri faaliyetlerini gerçekleştirmişlerdir.
 
 Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Resul Tepe, Türkiye'deki diğer dağlık alanlar gibi, tarihin akışını şekillendiren önemli bir rol oynamıştır. Bu tür doğal alanlar, insanların yaşamlarını sürdürmeleri, hayvancılık ve yaylacılık faaliyetleri için önemli merkezler olarak hizmet vermişlerdir. Ayrıca, tarihi ticaret yollarının güzergahlarında yer alan bu alanlar, kültürel alışveriş ve etkileşimin gerçekleşmesine de olanak tanımışlardır.
 
@@ -50,11 +50,11 @@ Jeolojik açıdan bakıldığında, Resul Tepe'nin fiziksel yapısı hakkında d
 
 ## Flora ve Fauna
 
-Resul Tepe, Hakkari'de yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, yüksek dağ ekolojisi ve alpin çayırların karakteristik özelliklerini taşıyor. 
+Resul Tepe, Hakkari'de yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, yüksek dağ ekolojisi ve alpin çayırların karakteristik özelliklerini taşıyor.
 
-Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanıyor. Sonbahar ise göçmen kuşların geçişine tanık oluyor. Yükseklik zonlarına bağlı olarak değişen flora, alpin bitkilerin çeşitliliğini sergiliyor. 
+Bitki örtüsüne bakıldığında, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanıyor. Sonbahar ise göçmen kuşların geçişine tanık oluyor. Yükseklik zonlarına bağlı olarak değişen flora, alpin bitkilerin çeşitliliğini sergiliyor.
 
-Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin bir yapıya sahip. Dağ keçileri ve yaban keçileri gibi memeliler, dağların yüksek kesimlerinde yaşamlarını sürdürüyor. Kuşlar ise göç yolları üzerinde önemli bir durak olarak kullanılıyor. Sürüngenler de kayalık alanlarda ve çayırlarda yaşamını sürdürüyor. 
+Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zengin bir yapıya sahip. Dağ keçileri ve yaban keçileri gibi memeliler, dağların yüksek kesimlerinde yaşamlarını sürdürüyor. Kuşlar ise göç yolları üzerinde önemli bir durak olarak kullanılıyor. Sürüngenler de kayalık alanlarda ve çayırlarda yaşamını sürdürüyor.
 
 Ekolojik değer olarak, Resul Tepe'nin yüksek dağ ekolojisi ve endemik türler barındırması nedeniyle önemli bir koruma alanı olarak kabul ediliyor. Bu alanın korunması, bölgenin ekolojik dengesinin korunmasına katkıda bulunacak.
 

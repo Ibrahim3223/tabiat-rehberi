@@ -28,7 +28,7 @@ wikidata_id: "Q31391173"
 
 # Bozburundağı Tepesi
 
-Bozburundağı Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçiler için hem bir doğa harikası hem de bir macera alanı sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için bir cennet haline getiriyor. Bozburundağı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor.
+Bozburundağı Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alan ve bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için bir cennet haline getiriyor. Bozburundağı Tepesi, aynı zamanda bölgenin tarihi geçmişi hakkında da önemli bilgiler sunuyor.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Bozburundağı Tepesi, ziyaretçiler için bir doğa harikası ve macera alanı 
 
 ## İlginç Bilgiler
 
-- Bozburundağı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta.
 - Bozburundağı Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 - Tepenin tarihi geçmişi, bölgenin kültürel mirasını yansıtıyor.

@@ -28,7 +28,7 @@ wikidata_id: "Q97320246"
 
 # Çopuni Şelalesi
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Çopuni Şelalesi, yaklaşık 140 hektarlık bir alanı kaplayan ve 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Bu şelale, bölgeye gelenlerin mutlaka görmesi gereken bir doğa harikası. Çopuni Şelalesi'ne ulaşmak için uzun bir mesafelik bir yolculuk yapmak gerekiyor. Bu yolculuk sırasında, çevredeki doğal güzellikler ziyaretçileri mest ediyor. Şelalenin sesi, uzaklardan duyulmaya başlıyor ve bu ses, ziyaretçileri şelaleye doğru çekiyor.
+ Bu şelale, bölgeye gelenlerin mutlaka görmesi gereken bir doğa harikası. Çopuni Şelalesi'ne ulaşmak için uzun bir mesafelik bir yolculuk yapmak gerekiyor. Bu yolculuk sırasında, çevredeki doğal güzellikler ziyaretçileri mest ediyor. Şelalenin sesi, uzaklardan duyulmaya başlıyor ve bu ses, ziyaretçileri şelaleye doğru çekiyor.
 
 ## Tarihçe
 

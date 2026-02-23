@@ -30,7 +30,7 @@ wikidata_id: "Q4644194"
 
 # 7. Cadde
 
-Ankara'nın kalbinde yer alan 7. Cadde, yaklaşık 140 hektarlık bir alana yayılmış olan bir yeşil alandır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, birçok Ankaranın doğa severlerin ve yürüyüş severlerin gözdesidir. 7. Cadde, aynı zamanda birçok önemli noktanın da yakınında yer alır, bu nedenle birçok ziyaretçi ve yerel halk için popüler bir destinasyondur.
+Ankara'nın kalbinde yer alan 7. Cadde, yaklaşık 140 hektarlık bir alana yayılmış olan bir yeşil alandır. 7. Cadde, aynı zamanda birçok önemli noktanın da yakınında yer alır, bu nedenle birçok ziyaretçi ve yerel halk için popüler bir destinasyondur.
 
 ## Tarihçe
 

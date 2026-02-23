@@ -38,7 +38,7 @@ Hürrem Sultan Türbesi, 1558 yılında inşa edilmiş bir tüber. Osmanlı İmp
 
 ## Coğrafya
 
-Hürrem Sultan Türbesi, İstanbul'un tarihiında yer alan Süleymaniye Camii'nin yanında bulunuyor. Bu tüber, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerine kurulu. Çevresi, tarihi yapılar ve yeşil alanlarla çevrili. Tüberin mimari yapısı, klasik Osmanlı mimari tarzında inşa edilmiş. Dış cephesi, taş ve tuğla malzemelerle inşa edilmiş. İç kısmında, Hürrem Sultan ve ailesinin mezarları yer alıyor. Tüberin yakınında, Süleymaniye Camii ve diğer tarihi yapılar bulunuyor. Bu bölge, ziyaretçilere Osmanlı İmparatorluğu'nun mimari ve kültürel zenginliğini sunuyor. İstanbul'un coğrafi konumu, tüberin güzelliğini ve önemini daha da artırıyor.
+Hürrem Sultan Türbesi, İstanbul'un tarihiında yer alan Süleymaniye Camii'nin yanında bulunuyor. Çevresi, tarihi yapılar ve yeşil alanlarla çevrili. Tüberin mimari yapısı, klasik Osmanlı mimari tarzında inşa edilmiş. Dış cephesi, taş ve tuğla malzemelerle inşa edilmiş. İç kısmında, Hürrem Sultan ve ailesinin mezarları yer alıyor. Tüberin yakınında, Süleymaniye Camii ve diğer tarihi yapılar bulunuyor. Bu bölge, ziyaretçilere Osmanlı İmparatorluğu'nun mimari ve kültürel zenginliğini sunuyor. İstanbul'un coğrafi konumu, tüberin güzelliğini ve önemini daha da artırıyor.
 
 ## Flora ve Fauna
 
@@ -53,5 +53,5 @@ Hürrem Sultan Türbesi'ni ziyaret etmek, ziyaretçilere Osmanlı İmparatorluğ
 - Hürrem Sultan Türbesi, Mimar Sinan tarafından tasarlanmış.
 - Tüberin inşası, 1558 yılında tamamlanmış.
 - Hürrem Sultan, Kanuni Sultan Süleyman'ın eşi olarak tarihe geçmiş.
-- Tüber, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerine kurulu.
+
 - Süleymaniye Camii'nin yanında yer alan tüber, yılın her döneminde ziyaret edilebilir.

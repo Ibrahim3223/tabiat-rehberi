@@ -28,7 +28,7 @@ wikidata_id: "Q24915648"
 
 # Sofular Mağarası
 
-Türkiye'nin zengin doğal mirasının önemli bir parçası olan Sofular Mağarası, ziyaretçilerini kendine hayran bırakıyor. Bu doğal harika, ülkenin coğrafi çeşitliliğiçerisinde önemli bir yere sahip. Sofular Mağarası, Türkiye'nin çeşitli bölgelerinde bulunan benzer oluşumlardan farklı bir karaktere sahip. 
+Türkiye'nin zengin doğal mirasının önemli bir parçası olan Sofular Mağarası, ziyaretçilerini kendine hayran bırakıyor. Bu doğal harika, ülkenin coğrafi çeşitliliğiçerisinde önemli bir yere sahip. Sofular Mağarası, Türkiye'nin çeşitli bölgelerinde bulunan benzer oluşumlardan farklı bir karaktere sahip.
 
 Burası, Türkiye'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon.
 

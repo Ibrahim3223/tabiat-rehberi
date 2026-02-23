@@ -29,7 +29,7 @@ wikidata_id: "Q134728271"
 
 # Kermeyan Tümülüsü I
 
-Kermeyan Tümülüsü I, Malkara'nın zengin tarihi geçmişini gözler önüne seren bir arkeolojik alandır. Bu önemli tarihi mekan, Marmara Bölgesi'nin Tekirdağ iline bağlı Malkara ilçesinde bulunur. 140 hektarlık bir alanı kapsayan Kermeyan Tümülüsü I, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu geniş alan, ziyaretçilere geniş bir tarihi ve kültürel deneyim sunar. Tarihi geçmişiyle dikkat çekici olan bu tümülüs, Malkara'nın önemli turizm merkezlerinden biridir.
+Kermeyan Tümülüsü I, Malkara'nın zengin tarihi geçmişini gözler önüne seren bir arkeolojik alandır. Bu önemli tarihi mekan, Marmara Bölgesi'nin Tekirdağ iline bağlı Malkara ilçesinde bulunur. Bu geniş alan, ziyaretçilere geniş bir tarihi ve kültürel deneyim sunar. Tarihi geçmişiyle dikkat çekici olan bu tümülüs, Malkara'nın önemli turizm merkezlerinden biridir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kermeyan Tümülüsü I'nin tarihi geçmişi, yüzyıllar boyunca şekillenmişt
 
 ## Coğrafya
 
-Kermeyan Tümülüsü I, Marmara Bölgesi'nin Tekirdağ iline bağlı Malkara ilçesinde bulunur. Bu tümülüs, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Coğrafi olarak, Malkara'nın merkezi ve çevresindeki diğer tarihi mekanlara yakındır. İklim olarak, Marmara Bölgesi'nin ılıman ikliminin etkisi altındadır. Çevre olarak, Malkara'nın doğal güzellikleri ve tarihi mekanları ile çevrilidir. Kermeyan Tümülüsü I, Malkara'nın coğrafi ve kültürel zenginliğinin önemli bir parçasını oluşturur. Bu tümülüs, ziyaretçilere Malkara'nın doğal ve tarihi güzelliklerini keşfetme fırsatı sunar.
+Kermeyan Tümülüsü I, Marmara Bölgesi'nin Tekirdağ iline bağlı Malkara ilçesinde bulunur. Coğrafi olarak, Malkara'nın merkezi ve çevresindeki diğer tarihi mekanlara yakındır. İklim olarak, Marmara Bölgesi'nin ılıman ikliminin etkisi altındadır. Çevre olarak, Malkara'nın doğal güzellikleri ve tarihi mekanları ile çevrilidir. Kermeyan Tümülüsü I, Malkara'nın coğrafi ve kültürel zenginliğinin önemli bir parçasını oluşturur. Bu tümülüs, ziyaretçilere Malkara'nın doğal ve tarihi güzelliklerini keşfetme fırsatı sunar.
 
 ## Flora ve Fauna
 

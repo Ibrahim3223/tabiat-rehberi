@@ -29,7 +29,7 @@ wikidata_id: "Q31389855"
 
 # Dikyatak Tepesi
 
-Dikyatak Tepesi, Çankırı'da yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreye hakim bir konumda yer alıyor. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna found. Dikyatak Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Tepenin üzerinde yer alan tarihi kalıntılar, bölgenin tarihi geçmişini anlatıyor. Dikyatak Tepesi, Çankırı'nın önemli turizm noktalarından biri ve ziyaretçilerini bekliyor.
+Dikyatak Tepesi, Çankırı'da yer alan ve İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna found. Dikyatak Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon. Tepenin üzerinde yer alan tarihi kalıntılar, bölgenin tarihi geçmişini anlatıyor. Dikyatak Tepesi, Çankırı'nın önemli turizm noktalarından biri ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

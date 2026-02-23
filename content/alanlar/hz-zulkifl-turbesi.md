@@ -1,7 +1,7 @@
 ---
 title: "Hz. Zülkifl Türbesi"
 date: "2026-01-10T06:53:29.377Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390770"
 
 # Hz. Zülkifl Türbesi
 
-Hz. Zülkifl Türbesi, Diyarbakır'ın Eğilçesinde yer alan önemli bir tarihi ve dinî mekan. Bu alan, yaklaşık olarak 140 hektarlık bir büyüklüğe sahip, ki bu da yaklaşık 200 futbol sahası büyüklüğüne denk geliyor. Burada ziyaretçiler, hem doğal güzelliğin keyfini çıkarabiliyor hem de tarihin derinliklerine dalma fırsatı bulabiliyor. Hz. Zülkifl Türbesi, coğrafi konumu ve tarihi önemi ile ziyaretçilerini bekliyor.
+Hz. Zülkifl Türbesi, Diyarbakır'ın Eğilçesinde yer alan önemli bir tarihi ve dinî mekan. Burada ziyaretçiler, hem doğal güzelliğin keyfini çıkarabiliyor hem de tarihin derinliklerine dalma fırsatı bulabiliyor. Hz. Zülkifl Türbesi, coğrafi konumu ve tarihi önemi ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

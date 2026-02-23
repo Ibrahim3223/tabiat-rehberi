@@ -28,7 +28,7 @@ wikidata_id: "Q32223381"
 
 # Gök Tepe (Kastamonu, 41.45 N 33.16 E)
 
-Gök Tepe, Kastamonu ilinin sınırları içerisinde yer alan ve 41.45 N 33.16 E koordinatlarında bulunan bir tepedir. Bu tepe, Karadeniz Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini yansıtmaktadır. Gök Tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, bölgenin en önemli doğal oluşumlarından biridir. Gök Tepe, bölgede yaşayan halk tarafından önem verilen bir noktadır.
+Gök Tepe, Kastamonu ilinin sınırları içerisinde yer alan ve 41.45 N 33.16 E koordinatlarında bulunan bir tepedir. Bu tepe, Karadeniz Bölgesi'nin coğrafi yapısını ve doğal güzelliklerini yansıtmaktadır. Gök Tepe, yaklaşık 140 hektarlık bir alanı kaplamaktadır. Gök Tepe, bölgede yaşayan halk tarafından önem verilen bir noktadır.
 
 ## Tarihçe
 

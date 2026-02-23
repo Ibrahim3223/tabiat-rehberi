@@ -22,7 +22,7 @@ wikidata_id: "Q108227990"
 
 # Giresun-Ordu Dogu Ladini 5
 
-Giresun-Ordu Dogu Ladini 5, Karadeniz Bölgesi'nin güzide illerinden Giresun'da yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ními güzellikleri ile ziyaretçilerini cezbediyor. Bu doğal alan, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor. Giresun-Ordu Dogu Ladini 5, ziyaretçilerine doğa yürüyüşleri, piknik alanları ve çeşitli doğa aktivitelerini sunuyor. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkün.
+Giresun-Ordu Dogu Ladini 5, Karadeniz Bölgesi'nin güzide illerinden Giresun'da yer alıyor. Bu doğal alan, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor. Giresun-Ordu Dogu Ladini 5, ziyaretçilerine doğa yürüyüşleri, piknik alanları ve çeşitli doğa aktivitelerini sunuyor. Burada, doğanın güzelliğini ve zenginliğini keşfetme mümkün.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Giresun-Ordu Dogu Ladini 5'in tarihi geçmişi, Karadeniz Bölgesi'nin tarihine 
 
 ## Coğrafya
 
-Giresun-Ordu Dogu Ladini 5, Karadeniz Bölgesi'nin güzide illerinden Giresun'da yer alıyor. Bu doğal alan, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Giresun-Ordu Dogu Ladini 5, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Bu doğal alan, doğa yürüyüşleri, piknik alanları ve çeşitli doğa aktivitelerini sunuyor. Giresun-Ordu Dogu Ladini 5, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor ve ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunuyor. Bu doğal alan, Karadeniz Bölgesi'nin iklimine uygun olarak, ılıman ve nemli bir iklimi sahip. Giresun-Ordu Dogu Ladini 5, ziyaretçilerine yıl boyunca ziyaret etme fırsatı sunuyor.
+Giresun-Ordu Dogu Ladini 5, Karadeniz Bölgesi'nin güzide illerinden Giresun'da yer alıyor. Giresun-Ordu Dogu Ladini 5, Karadeniz Bölgesi'nin coğrafi yapısına uygun olarak, dağlık ve engebeli bir araziye sahip. Bu doğal alan, doğa yürüyüşleri, piknik alanları ve çeşitli doğa aktivitelerini sunuyor. Giresun-Ordu Dogu Ladini 5, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak kabul ediliyor ve ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunuyor. Bu doğal alan, Karadeniz Bölgesi'nin iklimine uygun olarak, ılıman ve nemli bir iklimi sahip. Giresun-Ordu Dogu Ladini 5, ziyaretçilerine yıl boyunca ziyaret etme fırsatı sunuyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Giresun-Ordu Dogu Ladini 5, ziyaretçilerine doğa yürüyüşleri, piknik alanl
 ## İlginç Bilgiler
 
 - Giresun-Ordu Dogu Ladini 5, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul ediliyor.
-- Bu doğal alan, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Giresun-Ordu Dogu Ladini 5, Karadeniz Bölgesi'nin flora ve faunasını temsil ediyor.
 - Bu doğal alan, mevsimsel değişimlere uygun olarak, farklı bitki ve hayvan türleri ile ziyaretçilerini karşılıyor.
 - Giresun-Ordu Dogu Ladini 5, Karadeniz Bölgesi'nin ekolojik dengesini temsil ediyor.

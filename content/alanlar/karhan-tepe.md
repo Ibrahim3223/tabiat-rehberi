@@ -1,7 +1,7 @@
 ---
 title: "Karhan Tepe"
 date: "2026-01-09T04:24:41.778Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "dag"
 il: "Batman"
@@ -50,11 +50,11 @@ Doğal bir oluşum olarak Karhan Tepe, bölgenin jeolojik yapısını yansıtan 
 
 ## Flora ve Fauna
 
-Karhan Tepe, Batman'ın dağlık bölgesinde yer alan bir doğal cennettir. Bu 1200 hektarlık yeşil cennet, yarı kurak iklimin hüküm sürdüğü bir bölgede, step ve ova ekolojisinin yanı sıra dağ ekosisteminin zenginliklerini de sunar. 
+Karhan Tepe, Batman'ın dağlık bölgesinde yer alan bir doğal cennettir. Bu 1200 hektarlık yeşil cennet, yarı kurak iklimin hüküm sürdüğü bir bölgede, step ve ova ekolojisinin yanı sıra dağ ekosisteminin zenginliklerini de sunar.
 
-Bitki örtüsü olarak, ilkbaharda dağ yamaçlarında çiçek açan çeşitli türler görülür. Step ve ova ekolojisinin karakteristik türleri, yükseklik zonlarına bağlı olarak değişkenlik gösterir. 
+Bitki örtüsü olarak, ilkbaharda dağ yamaçlarında çiçek açan çeşitli türler görülür. Step ve ova ekolojisinin karakteristik türleri, yükseklik zonlarına bağlı olarak değişkenlik gösterir.
 
-Yaban hayatı açısından, dağların yükseklik zonlarına adapte olmuş memeliler, kuşlar ve sürüngenler bu bölgede yaşar. Sonbaharda, göç eden kuşlar bu bölgeden geçer. 
+Yaban hayatı açısından, dağların yükseklik zonlarına adapte olmuş memeliler, kuşlar ve sürüngenler bu bölgede yaşar. Sonbaharda, göç eden kuşlar bu bölgeden geçer.
 
 Ekolojik değer olarak, Karhan Tepe'nin korunması, bölgenin ekolojik dengesini korumak için önemlidir. Bu doğal alan, birçok canlı türünün yaşam alanı olarak hizmet eder ve bölgenin ekosistemini destekler.
 

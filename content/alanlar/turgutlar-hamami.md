@@ -1,7 +1,7 @@
 ---
 title: "Turgutlar Hamamı"
 date: "2026-01-09T22:30:42.805Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sinop"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738695"
 
 # Turgutlar Hamamı
 
-Turgutlar Hamamı, Sinop'un en güzel plajlarından biri olarak bilinen bir doğa harikasıdır. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alan sunar. Bu geniş ve yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Turgutlar Hamamı, ziyaretçilerine huzurlu ve sakin bir ortam sunar. Burada, deniz ve doğanın güzelliği bir araya gelir ve ziyaretçilere unutulmaz anlar yaşatır.
+Turgutlar Hamamı, Sinop'un en güzel plajlarından biri olarak bilinen bir doğa harikasıdır. Bu geniş ve yeşil alan, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Turgutlar Hamamı, ziyaretçilerine huzurlu ve sakin bir ortam sunar. Burada, deniz ve doğanın güzelliği bir araya gelir ve ziyaretçilere unutulmaz anlar yaşatır.
 
 ## Tarihçe
 

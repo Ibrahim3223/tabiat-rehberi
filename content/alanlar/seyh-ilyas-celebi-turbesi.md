@@ -1,7 +1,7 @@
 ---
 title: "Şeyh İlyas Çelebi Türbesi"
 date: "2026-01-10T07:07:51.982Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -38,7 +38,7 @@ wikidata_id: "Q131390906"
 
 ## Coğrafya
 
-Şeyh İlyas Çelebi Türbesi, Ege Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Türbe, Akhisar ilçesinin merkezinde bulunuyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve ziyaretçilere geniş bir açık alan sunuyor. Türbenin etrafı, yeşilliklerle çevrili ve ziyaretçilere doğayla iç içe bir ortam sunuyor. Şeyh İlyas Çelebi Türbesi, Ege Bölgesi'nin iklimine uygun olarak tasarlanmış ve ziyaretçilere konforlu bir ziyaret deneyimi sunuyor. Türbenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı da sunuyor. Ziyaretçiler, türbe ziyaretinin yanı sıra, bölgenin diğer önemli mekanlarını da keşfedebilirler.
+Şeyh İlyas Çelebi Türbesi, Ege Bölgesi'nin coğrafi güzellikleri arasında yer alıyor. Türbe, Akhisar ilçesinin merkezinde bulunuyor ve ziyaretçilerine geniş bir yeşil alan sunuyor. Türbenin etrafı, yeşilliklerle çevrili ve ziyaretçilere doğayla iç içe bir ortam sunuyor. Şeyh İlyas Çelebi Türbesi, Ege Bölgesi'nin iklimine uygun olarak tasarlanmış ve ziyaretçilere konforlu bir ziyaret deneyimi sunuyor. Türbenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı da sunuyor. Ziyaretçiler, türbe ziyaretinin yanı sıra, bölgenin diğer önemli mekanlarını da keşfedebilirler.
 
 ## Flora ve Fauna
 

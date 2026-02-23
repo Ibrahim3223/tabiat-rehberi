@@ -1,7 +1,7 @@
 ---
 title: "Hamam 3"
 date: "2026-01-09T23:18:05.201Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738973"
 
 # Hamam 3
 
-Hamam 3 plajı, İzmir'in Selçuk ilçesinde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir plajdır. Bu plaj, Ege Bölgesi'nin en güzel ve popüler plajlarından biridir. Plajın uzunluğu uzun bir mesafe, genişliği ise 200 metredir. Plajda çeşitli bitki türleri ve zengin fauna bulunmaktadır. Hamam 3 plajı, özellikle yaz aylarında ziyaretçilerin favori destinasyonlarından biridir.
+ Bu plaj, Ege Bölgesi'nin en güzel ve popüler plajlarından biridir. Plajın uzunluğu uzun bir mesafe, genişliği ise 200 metredir. Plajda çeşitli bitki türleri ve zengin fauna bulunmaktadır. Hamam 3 plajı, özellikle yaz aylarında ziyaretçilerin favori destinasyonlarından biridir.
 
 ## Tarihçe
 

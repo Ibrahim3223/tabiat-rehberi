@@ -28,7 +28,7 @@ wikidata_id: "Q32138713"
 
 # Gözlük Tepesi
 
-Gözlük Tepesi, Tokat ilinin Karadeniz Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde. Gözlük Tepesi, ziyaretçilerine doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Gözlük Tepesi, Tokat'ın önemli turizm noktalarından biri olarak kabul ediliyor. Tepenin manzarası, özellikle gün batımında ziyaretçileri büyülüyor.
+Gözlük Tepesi, Tokat ilinin Karadeniz Bölgesi'nde yer alan bir tepe. Gözlük Tepesi, ziyaretçilerine doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur. Gözlük Tepesi, Tokat'ın önemli turizm noktalarından biri olarak kabul ediliyor. Tepenin manzarası, özellikle gün batımında ziyaretçileri büyülüyor.
 
 ## Tarihçe
 

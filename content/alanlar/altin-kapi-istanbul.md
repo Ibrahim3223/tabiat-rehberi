@@ -30,7 +30,7 @@ wikidata_id: "Q592270"
 
 # Altın Kapı (İstanbul)
 
-İstanbul'un kalbinde, Fatih ilçesinde yer alan Altın Kapı, 140 hektarlık geniş yeşil alanı ile şehrin gürültüsünden uzaklaşmak isteyenlerin tercih ettiği bir nokta. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezindeki en büyük yeşil alanlardan biri. Altın Kapı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Burada, tarihi yapılar ve modern mimari örnekleri bir arada görme mümkün. Altın Kapı, İstanbul'un önemli bir turizm merkezi ve aynı zamanda yerel halkın da severek ziyaret ettiği bir yer.
+İstanbul'un kalbinde, Fatih ilçesinde yer alan Altın Kapı, 140 hektarlık geniş yeşil alanı ile şehrin gürültüsünden uzaklaşmak isteyenlerin tercih ettiği bir nokta. Altın Kapı, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor. Burada, tarihi yapılar ve modern mimari örnekleri bir arada görme mümkün. Altın Kapı, İstanbul'un önemli bir turizm merkezi ve aynı zamanda yerel halkın da severek ziyaret ettiği bir yer.
 
 ## Tarihçe
 

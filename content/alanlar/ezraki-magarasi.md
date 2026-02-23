@@ -48,7 +48,7 @@ Yaz aylarında sıcaklığın 40 dereceleri bulduğu bu bölgede, Ezrakı Mağar
 
 ## Flora ve Fauna
 
-Ezrakı Mağarası'nın flora ve fauna bölümü, yarı kurak iklimin hüküm sürdüğü bu jeoparkta, çoğunlukla step ve ova ekolojisinin hakim olduğu bir alanı keşfetmemize olanak tanır. 
+Ezrakı Mağarası'nın flora ve fauna bölümü, yarı kurak iklimin hüküm sürdüğü bu jeoparkta, çoğunlukla step ve ova ekolojisinin hakim olduğu bir alanı keşfetmemize olanak tanır.
 
 İlkbaharın gelmesiyle birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Step ve ova ekosisteminin karakteristik bitkileri, bu mevsimde en canlı hallerini gösterir. Sonbaharda ise, göçmen kuşlar bu bölgeyi ziyaret eder ve çeşitlilik gösteren flora, onlara konaklama imkanı sağlar.
 

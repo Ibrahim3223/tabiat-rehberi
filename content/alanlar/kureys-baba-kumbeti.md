@@ -29,7 +29,7 @@ wikidata_id: "Q135582194"
 
 # Kureyş Baba Kümbeti
 
-Kureyş Baba Kümbeti, Sinanpaşa, Afyonkarahisar'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Kureyş Baba Kümbeti, ziyaretçilerini hem tarihi açıdan hem de doğanın güzelliği ile etkileyen bir mekândır. Burada, tarihi yapılar ve doğal güzellikler bir arada bulunmakta, ziyaretçilere geniş bir deneyim yelpazesi sunmaktadır. Kureyş Baba Kümbeti, Ege Bölgesi'nin önemli kültür ve doğa merkezlerinden biridir ve ziyaretçilerini beklemektedir.
+Kureyş Baba Kümbeti, Sinanpaşa, Afyonkarahisar'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği bir noktadır. Kureyş Baba Kümbeti, ziyaretçilerini hem tarihi açıdan hem de doğanın güzelliği ile etkileyen bir mekândır. Burada, tarihi yapılar ve doğal güzellikler bir arada bulunmakta, ziyaretçilere geniş bir deneyim yelpazesi sunmaktadır. Kureyş Baba Kümbeti, Ege Bölgesi'nin önemli kültür ve doğa merkezlerinden biridir ve ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 

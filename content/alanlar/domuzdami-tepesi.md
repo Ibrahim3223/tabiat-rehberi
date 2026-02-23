@@ -28,7 +28,7 @@ wikidata_id: "Q31386241"
 
 # Domuzdamı Tepesi
 
-Domuzdamı Tepesi, Hatay'ın zengin doğal ve tarihi mirasını sunan bir bölgedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için ideal bir yerdir. Bu tepe, Hatay'ın coğrafi yapısını ve bölgenin flora ve faunasını keşfetmek isteyenler için önemli bir noktadır. Doğal güzelliğinin yanı sıra, tarihi geçmişiyle de dikkat çeken Domuzdamı Tepesi, ziyaretçilerine hem doğa hem de tarih hakkında bilgi edinme fırsatı sunar.
+Domuzdamı Tepesi, Hatay'ın zengin doğal ve tarihi mirasını sunan bir bölgedir. Bu tepe, Hatay'ın coğrafi yapısını ve bölgenin flora ve faunasını keşfetmek isteyenler için önemli bir noktadır. Doğal güzelliğinin yanı sıra, tarihi geçmişiyle de dikkat çeken Domuzdamı Tepesi, ziyaretçilerine hem doğa hem de tarih hakkında bilgi edinme fırsatı sunar.
 
 ## Tarihçe
 

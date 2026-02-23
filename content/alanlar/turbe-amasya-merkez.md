@@ -1,7 +1,7 @@
 ---
 title: "Türbe (Amasya merkez)"
 date: "2026-01-10T06:24:12.856Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391820"
 
 # Türbe (Amasya merkez)
 
-Amasya'nın tarihi ve doğal güzellikleri ile dikkat çeken Türbe Plajı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Türbe Plajı, Amasya'nın merkezinde yer alır ve şehrin tarihi geçmişini yansıtan önemli bir turizm merkezi olarak kabul edilir. Plajın etrafında çeşitli restoranlar, kafeler ve hediyelik eşya dükkanları bulunur, ziyaretçiler için keyifli bir gezi deneyimi sunar.
+Amasya'nın tarihi ve doğal güzellikleri ile dikkat çeken Türbe Plajı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Türbe Plajı, Amasya'nın merkezinde yer alır ve şehrin tarihi geçmişini yansıtan önemli bir turizm merkezi olarak kabul edilir. Plajın etrafında çeşitli restoranlar, kafeler ve hediyelik eşya dükkanları bulunur, ziyaretçiler için keyifli bir gezi deneyimi sunar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Türbe Plajı'nın tarihi geçmişi, Amasya'nın tarihine paralel olarak şekill
 
 ## Coğrafya
 
-Türbe Plajı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, Amasya'nın merkezinde yer alır ve şehrin tarihi geçmişini yansıtan önemli bir turizm merkezi olarak kabul edilir. Plajın etrafında çeşitli restoranlar, kafeler ve hediyelik eşya dükkanları bulunur, ziyaretçiler için keyifli bir gezi deneyimi sunar. Plajın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu alan, çeşitli bitki türleri ile örtülüdür ve ziyaretçilere doğal bir ortam sunar. Plajın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine benzer, yağışlı ve nemlidir. Plajın konumu, ziyaretçilere şehir merkezine kolay ulaşım imkanı sunar.
+Türbe Plajı, Karadeniz Bölgesi'nin en güzel plajlarından biri olarak bilinir. Bu plaj, Amasya'nın merkezinde yer alır ve şehrin tarihi geçmişini yansıtan önemli bir turizm merkezi olarak kabul edilir. Plajın etrafında çeşitli restoranlar, kafeler ve hediyelik eşya dükkanları bulunur, ziyaretçiler için keyifli bir gezi deneyimi sunar. Bu alan, çeşitli bitki türleri ile örtülüdür ve ziyaretçilere doğal bir ortam sunar. Plajın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine benzer, yağışlı ve nemlidir. Plajın konumu, ziyaretçilere şehir merkezine kolay ulaşım imkanı sunar.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Türbe Plajı, ziyaretçilere, çeşitli etkinlikler sunar. Bu plaj, Amasya'nın
 ## İlginç Bilgiler
 
 - Türbe Plajı, Amasya'nın merkezinde yer alır.
-- Plajın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar.
+
 - Plajın etrafında, çeşitli restoranlar, kafeler ve hediyelik eşya dükkanları bulunur.
 - Türbe Plajı, ziyaretçilere, doğal bir ortamda, çeşitli bitki ve hayvan türleri ile karşılaşma fırsatı sunar.
 - Plajın iklimi, Karadeniz Bölgesi'nin karakteristik iklimine benzer, yağışlı ve nemlidir.

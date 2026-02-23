@@ -29,7 +29,7 @@ wikidata_id: "Q135582629"
 
 # Şeyh Ömer Kümbeti
 
-Gülnar, Mersin'de yer alan Şeyh Ömer Kümbeti, tarih ve doğanın birleştiği bir noktada bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Şeyh Ömer Kümbeti, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Gülnar'ın merkezine yakın konumuyla da kolayca ulaşılabilen bir yer. Şeyh Ömer Kümbeti, özellikle yaz aylarında denize girerek serinlemek isteyenler için ideal bir nokta.
+Gülnar, Mersin'de yer alan Şeyh Ömer Kümbeti, tarih ve doğanın birleştiği bir noktada bulunmaktadır. Şeyh Ömer Kümbeti, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Gülnar'ın merkezine yakın konumuyla da kolayca ulaşılabilen bir yer. Şeyh Ömer Kümbeti, özellikle yaz aylarında denize girerek serinlemek isteyenler için ideal bir nokta.
 
 ## Tarihçe
 

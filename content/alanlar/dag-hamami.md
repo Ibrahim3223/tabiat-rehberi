@@ -1,7 +1,7 @@
 ---
 title: "Dağ Hamamı"
 date: "2026-01-09T23:51:00.110Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,11 +29,11 @@ wikidata_id: "Q133245730"
 
 # Dağ Hamamı
 
-Dağ Hamamı, İstanbul'un Üsküdar ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Doğal güzellikleri, temiz havası ve sakin atmosferi ile Dağ Hamamı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu güzel plaj, özellikle hafta sonları ve yaz aylarında ziyaretçilerini ağırlamakta ve onlara unutulmaz anlar yaşatmaktadır.
+Dağ Hamamı, İstanbul'un Üsküdar ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir plajdır. Doğal güzellikleri, temiz havası ve sakin atmosferi ile Dağ Hamamı, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Bu güzel plaj, özellikle hafta sonları ve yaz aylarında ziyaretçilerini ağırlamakta ve onlara unutulmaz anlar yaşatmaktadır.
 
 ## Tarihçe
 
-Dağ Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. Tarihi kaynaklara göre, bu bölge eski çağlardan beri yerleşim yeri olarak kullanılmış ve zaman içinde farklı kültürlerin etkilerini göstermiştir. Dağ Hamamı, özellikle Osmanlı döneminde önemli bir merkez olarak bilinmekte ve bu dönemde çeşitli yapılar inşa edilmiştir. Günümüzde, bu tarihi mirasın izleri hala görülebilmekte ve ziyaretçiler tarafından büyük ilgi görmektedir. Dağ Hamamı'nın zengin tarihi geçmişi, ziyaretçilere bu özel yeri keşfetme fırsatı sunmaktadır.
+Dağ Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. Tarihi kaynaklara göre, bu bölge eski çağlardan beri yerleşim yeri olarak kullanılmış ve zaman içinde farklı kültürlerin etkilerini göstermiştir. Dağ Hamamı, özellikle Osmanlı döneminde önemli bir merkez olarak bilinmekte ve bu dönemde çeşitli yapılar inşa edilmiştir. Günümüzde, bu tarihi mirasın izleri hala görülebilmekte ve ziyaretçiler tarafından büyük ilgi görmektedir.
 
 ## Coğrafya
 

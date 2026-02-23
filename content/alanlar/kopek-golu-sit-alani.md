@@ -22,7 +22,7 @@ wikidata_id: "Q108226403"
 
 # Köpek Gölü Sit Alanı
 
-Köpek Gölü Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinin başlıcalarından biri olarak dikkat çekmektedir. 140 hektarlık geniş bir alanı kaplayan bu önemli ekosistem, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu alan, bölgeye özgü flora ve fauna türleri ile zengin bir biyolojik çeşitliliğe sahiptir. Köpek Gölü Sit Alanı, aynı zamanda yerel hal ve ziyaretçiler için önemli bir turizm merkezi olarak da görev yapmaktadır. Bu bölgenin doğal güzellikleri, birçok kişinin ziyaret_etmesini sağlayan önemli bir destinasyondur.
+Köpek Gölü Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinin başlıcalarından biri olarak dikkat çekmektedir. Bu alan, bölgeye özgü flora ve fauna türleri ile zengin bir biyolojik çeşitliliğe sahiptir. Köpek Gölü Sit Alanı, aynı zamanda yerel hal ve ziyaretçiler için önemli bir turizm merkezi olarak da görev yapmaktadır. Bu bölgenin doğal güzellikleri, birçok kişinin ziyaret_etmesini sağlayan önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Köpek Gölü Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmi�
 
 ## Coğrafya
 
-Köpek Gölü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve sulak alanlardan oluşmaktadır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bölgenin coğrafi yapısı, çeşitli flora ve fauna türlerinin yaşamına elverişli bir ortam sunmaktadır. İklim koşulları, bölgenin coğrafi yapısını şekillendirmiştir. Köpek Gölü Sit Alanı, sulak alanlar ve otlaklarla birlikte, bir bütün olarak ele alındığında, bölgenin coğrafi çeşitliliğini gösteren önemli bir örnek olarak görülebilir. Bu coğrafi yapı, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini desteklemektedir.
+Köpek Gölü Sit Alanı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş otlaklar ve sulak alanlardan oluşmaktadır. Bölgenin coğrafi yapısı, çeşitli flora ve fauna türlerinin yaşamına elverişli bir ortam sunmaktadır. İklim koşulları, bölgenin coğrafi yapısını şekillendirmiştir. Köpek Gölü Sit Alanı, sulak alanlar ve otlaklarla birlikte, bir bütün olarak ele alındığında, bölgenin coğrafi çeşitliliğini gösteren önemli bir örnek olarak görülebilir. Bu coğrafi yapı, bölgenin doğal güzelliklerini ve biyolojik çeşitliliğini desteklemektedir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Köpek Gölü Sit Alanı, ziyaretçiler için önemli bir destinasyondur. Bu bö
 ## İlginç Bilgiler
 
 - Köpek Gölü Sit Alanı, 140 hektarlık bir alanı kaplar.
-- Bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Köpek Gölü Sit Alanı, önemli bir doğal sit alanı olarak tanımlanmıştır.
 - Bölge, yüzyıllar boyunca farklı medeniyetlerin yerleşim yeri olarak kullanılmıştır.
 - Köpek Gölü Sit Alanı, zengin bir flora ve fauna çeşitliliğine sahiptir.

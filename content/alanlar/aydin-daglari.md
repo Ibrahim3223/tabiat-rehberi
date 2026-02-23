@@ -52,9 +52,9 @@ Mevsimler boyunca değişen hava koşulları, Aydın Dağları'nın iklim karakt
 
 ## Flora ve Fauna
 
-Aydın Dağları, yükseklik zonları ile zengin bir dağ ekosisteminin yaşam alanıdır. Step bitki örtüsü ve bozkırın hakim olduğu bu bölge, kuraklığa adapte olmuş türlerin çeşitliliğini sunar. İlkbaharın gelmesiyle, dağ yamaçları rengarenk çiçeklerle donanır. 
+Aydın Dağları, yükseklik zonları ile zengin bir dağ ekosisteminin yaşam alanıdır. Step bitki örtüsü ve bozkırın hakim olduğu bu bölge, kuraklığa adapte olmuş türlerin çeşitliliğini sunar. İlkbaharın gelmesiyle, dağ yamaçları rengarenk çiçeklerle donanır.
 
-Dağların yüksek kesimlerinde, alpin flora çeşitliliği dikkat çeker. Bu bölgede living bitkiler, zorlu koşullara adapte olmuşlardır. Yaban hayatına baktığımızda, memeliler ve kuşlar gibi çeşitli türler yaşamaktadır. Göçmen kuşlar, sonbaharın gelmesiyle dağları ziyaret eder. 
+Dağların yüksek kesimlerinde, alpin flora çeşitliliği dikkat çeker. Bu bölgede living bitkiler, zorlu koşullara adapte olmuşlardır. Yaban hayatına baktığımızda, memeliler ve kuşlar gibi çeşitli türler yaşamaktadır. Göçmen kuşlar, sonbaharın gelmesiyle dağları ziyaret eder.
 
 Aydın Dağları, ekolojik açıdan önemli bir alandır. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini sürdürmek için büyük önem taşır.
 

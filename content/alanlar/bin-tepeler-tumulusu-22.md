@@ -29,7 +29,7 @@ wikidata_id: "Q134728343"
 
 # Bin Tepeler Tümülüsü 22
 
-Bin Tepeler Tümülüsü 22, Salihli, Manisa'da yer alan bir arkeolojik sit alanıdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bin Tepeler Tümülüsü 22, tarih boyunca önemli bir yerleşim merkezi olarak bilinmiştir. Burada, tarihi geçmişi yüzyıllar boyunca süren birçok uygarlık, izlerini bırakmıştır. Bu nedenle, Bin Tepeler Tümülüsü 22, hem tarih severler hem de doğa tutkunları için bir çekim merkezi oluşturmaktadır.
+Bin Tepeler Tümülüsü 22, Salihli, Manisa'da yer alan bir arkeolojik sit alanıdır. Bin Tepeler Tümülüsü 22, tarih boyunca önemli bir yerleşim merkezi olarak bilinmiştir. Burada, tarihi geçmişi yüzyıllar boyunca süren birçok uygarlık, izlerini bırakmıştır. Bu nedenle, Bin Tepeler Tümülüsü 22, hem tarih severler hem de doğa tutkunları için bir çekim merkezi oluşturmaktadır.
 
 ## Tarihçe
 

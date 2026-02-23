@@ -28,7 +28,7 @@ wikidata_id: "Q31525083"
 
 # Dumlu Tepesi
 
-Dumlu Tepesi, Afyonkarahisar ilinin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu tepe, bölgenin en yüksek noktalarından biridir. Dumlu Tepesi, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle karşılar. Bu tepe, aynı zamanda çeşitli bitki türlerini ve zengin fauna ile dolu bir ekosisteme sahiptir. Ziyaretçiler, Dumlu Tepesi'ne çıkarak, Afyonkarahisar'ın ve Ege Bölgesi'nin panoramik manzarasını izleyebilirler.
+Dumlu Tepesi, Afyonkarahisar ilinin merkezine uzun bir mesafe uzaklıkta, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. Dumlu Tepesi, ziyaretçilerini doğal güzelliği ve tarihi geçmişiyle karşılar. Bu tepe, aynı zamanda çeşitli bitki türlerini ve zengin fauna ile dolu bir ekosisteme sahiptir. Ziyaretçiler, Dumlu Tepesi'ne çıkarak, Afyonkarahisar'ın ve Ege Bölgesi'nin panoramik manzarasını izleyebilirler.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Dumlu Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu tepe, tari
 
 ## Coğrafya
 
-Dumlu Tepesi, Ege Bölgesi'nin coğrafi olarak önemli bir noktasındadır. Bu tepe, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğundadır. Dumlu Tepesi, Afyonkarahisar ilinin merkezine uzun bir mesafe uzaklıkta bulunur. Bu tepe, bölgenin en yüksek noktalarından biridir ve ziyaretçilerine, Afyonkarahisar ve Ege Bölgesi'nin panoramik manzarasını sunar. Dumlu Tepesi'nin coğrafi yapısı, çeşitli bitki türlerine ve zengin fauna ile dolu bir ekosisteme sahiptir. Bu tepe, aynı zamanda birçok doğal kaynakla dolu bir bölgedir. Ziyaretçiler, Dumlu Tepesi'ne çıkarak, bu tepe hakkında daha fazla bilgi edinebilir ve coğrafi yapısı hakkında daha fazla şey öğrenebilirler. Dumlu Tepesi, ziyaretçilerini doğal güzelliği ve coğrafi yapısıyla etkiler.
+Dumlu Tepesi, Ege Bölgesi'nin coğrafi olarak önemli bir noktasındadır. Dumlu Tepesi, Afyonkarahisar ilinin merkezine uzun bir mesafe uzaklıkta bulunur. Bu tepe, bölgenin en yüksek noktalarından biridir ve ziyaretçilerine, Afyonkarahisar ve Ege Bölgesi'nin panoramik manzarasını sunar. Dumlu Tepesi'nin coğrafi yapısı, çeşitli bitki türlerine ve zengin fauna ile dolu bir ekosisteme sahiptir. Bu tepe, aynı zamanda birçok doğal kaynakla dolu bir bölgedir. Ziyaretçiler, Dumlu Tepesi'ne çıkarak, bu tepe hakkında daha fazla bilgi edinebilir ve coğrafi yapısı hakkında daha fazla şey öğrenebilirler. Dumlu Tepesi, ziyaretçilerini doğal güzelliği ve coğrafi yapısıyla etkiler.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Dumlu Tepesi'ni ziyaret etmek, ziyaretçilere birçok olanak sunar. Ziyaretçile
 ## İlginç Bilgiler
 
 - Dumlu Tepesi, Afyonkarahisar ilinin merkezine uzun bir mesafe uzaklıkta bulunur.
-- Bu tepe, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğundadır.
+
 - Dumlu Tepesi, bölgenin en yüksek noktalarından biridir.
 - Bu tepe, birçok doğal güzelliğe sahiptir.
 - Dumlu Tepesi, Afyonkarahisar ve Ege Bölgesi'nin önemli turizm merkezlerinden biridir.

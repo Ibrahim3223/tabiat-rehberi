@@ -22,7 +22,7 @@ wikidata_id: "Q108228306"
 
 # Marmaracık Koyu
 
-Marmaracık Koyu, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu muhteşem doğal alan, yaban hayatının çeşitliliği ve ekolojik dengesi ile dikkat çekiyor. Marmaracık Koyu, doğa severlerin ve macera arayışındaki kişilerin ziyaret etmesi gereken bir destinasyon olarak öne çıkıyor. Burada, doğanın seslerini dinleyerek, şehir hayatının stresinden uzaklaşabilirsiniz.
+Marmaracık Koyu, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Bu muhteşem doğal alan, yaban hayatının çeşitliliği ve ekolojik dengesi ile dikkat çekiyor. Marmaracık Koyu, doğa severlerin ve macera arayışındaki kişilerin ziyaret etmesi gereken bir destinasyon olarak öne çıkıyor. Burada, doğanın seslerini dinleyerek, şehir hayatının stresinden uzaklaşabilirsiniz.
 
 ## Tarihçe
 

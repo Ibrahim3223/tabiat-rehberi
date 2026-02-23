@@ -1,7 +1,7 @@
 ---
 title: "Zara Büyük Tarihi Hamam"
 date: "2026-01-09T22:41:42.643Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738518"
 
 # Zara Büyük Tarihi Hamam
 
-Zara Büyük Tarihi Hamam, Sivas'ın Zara ilçesinde bulunan ve tarihi geçmişi ile dikkat çeken bir hamamdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresindeki doğal güzelliklerle birlikte ziyaretçilerini etkilemektedir. Bu tarihi hamam, yüzyıllar boyunca önemli bir kültür merkezi olarak hizmet vermiştir. Ziyaretçiler, hamamın tarihi atmosferini deneyimleyebilir ve çevresindeki doğal güzellikleri keşfedebilir. Zara Büyük Tarihi Hamam, Sivas'ın zengin tarihini ve kültürünü yansıtan önemli bir turizm merkezidir.
+Zara Büyük Tarihi Hamam, Sivas'ın Zara ilçesinde bulunan ve tarihi geçmişi ile dikkat çeken bir hamamdır. Bu tarihi hamam, yüzyıllar boyunca önemli bir kültür merkezi olarak hizmet vermiştir. Ziyaretçiler, hamamın tarihi atmosferini deneyimleyebilir ve çevresindeki doğal güzellikleri keşfedebilir. Zara Büyük Tarihi Hamam, Sivas'ın zengin tarihini ve kültürünü yansıtan önemli bir turizm merkezidir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Zara Büyük Tarihi Hamam, tarihi geçmişi ile dikkat çeken bir yapıdır. Ham
 
 ## Coğrafya
 
-Zara Büyük Tarihi Hamam, Sivas'ın Zara ilçesinde bulunmaktadır. Hamam, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğündedir. Çevresindeki doğal güzellikler, ziyaretçileri etkilemektedir. Hamamın bulunduğu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterizedir. Zara Büyük Tarihi Hamam, çevresindeki doğal güzelliklerle birlikte ziyaretçilerini çekmektedir. Hamamın bulunduğu alan, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir.
+Zara Büyük Tarihi Hamam, Sivas'ın Zara ilçesinde bulunmaktadır. Çevresindeki doğal güzellikler, ziyaretçileri etkilemektedir. Hamamın bulunduğu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step ve ova gibi coğrafi oluşumlarla karakterizedir. Zara Büyük Tarihi Hamam, çevresindeki doğal güzelliklerle birlikte ziyaretçilerini çekmektedir. Hamamın bulunduğu alan, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir.
 
 ## Flora ve Fauna
 

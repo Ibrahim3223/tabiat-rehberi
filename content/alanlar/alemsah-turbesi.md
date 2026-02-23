@@ -1,7 +1,7 @@
 ---
 title: "Alemşah Türbesi"
 date: "2026-01-10T06:00:05.479Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ezine"
@@ -46,7 +46,7 @@ Alemşah Türbesi'nin bulunduğu bölgede, çeşitli bitki türleri yaşiyor. Bu
 
 ## Ziyaret Bilgileri
 
-Alemşah Türbesi'ni ziyaret etmek, Ezine'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir choice. Bu türbeye, Ezine'nin merkezinden fácil bir şekilde ulaşılabilir. Alemşah Türbesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz aylarıdır. Bu dönemde, türbenin çevresindeki doğal güzellikler, ziyaretçilere daha da güzel görünüyor. Alemşah Türbesi'ni ziyaret etmek, yaklaşık 2-3 saat sürüyor. Ziyaretçiler, bu türbenin tarihi ve kültürel zenginliklerini keşfetme fırsatı buluyor.
+Alemşah Türbesi'ni ziyaret etmek, Ezine'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir choice. Bu türbeye, Ezine'nin merkezinden kolay bir şekilde ulaşılabilir. Alemşah Türbesi'ni ziyaret etmek için en iyi zaman, ilkbahar ve yaz aylarıdır. Bu dönemde, türbenin çevresindeki doğal güzellikler, ziyaretçilere daha da güzel görünüyor. Alemşah Türbesi'ni ziyaret etmek, yaklaşık 2-3 saat sürüyor. Ziyaretçiler, bu türbenin tarihi ve kültürel zenginliklerini keşfetme fırsatı buluyor.
 
 ## İlginç Bilgiler
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31558419"
 
 # Sığır Tepesi
 
-Sığır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, 140 hektarlık yeşil alanı ile dikkat çekmektedir. Bu büyük yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunmaktadır. Sığır Tepesi, Ankara'nın doğal güzelliklerinden biri olarak bilinir ve hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Tepenin etrafında yer alan köyler ve kasabalar, Sığır Tepesi'ne gelen ziyaretçilere konaklama ve yeme içme olanakları sunmaktadır.
+Sığır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olup, 140 hektarlık yeşil alanı ile dikkat çekmektedir. Sığır Tepesi, Ankara'nın doğal güzelliklerinden biri olarak bilinir ve hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Tepenin etrafında yer alan köyler ve kasabalar, Sığır Tepesi'ne gelen ziyaretçilere konaklama ve yeme içme olanakları sunmaktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sığır Tepesi'nin tarihi geçmişi, İç Anadolu Bölgesi'nin genel tarihçesi
 
 ## Coğrafya
 
-Sığır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak 140 hektarlık büyük bir yeşil alanı kapsar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir açık alan sunmaktadır. Sığır Tepesi'nin coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafilerine uygun olarak, step ve ormanlık alanların birleşiminden oluşmaktadır. Tepenin etrafında yer alan köyler ve kasabalar, Sığır Tepesi'ne gelen ziyaretçilere konaklama ve yeme içme olanakları sunmaktadır. Ayrıca, Sığır Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösterir. Bu iklim, yazları sıcak ve kurak, kışları ise soğuk ve karlı olarak karakterizedir.
+Sığır Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alır ve coğrafi olarak 140 hektarlık büyük bir yeşil alanı kapsar. Sığır Tepesi'nin coğrafi yapısı, İç Anadolu Bölgesi'nin genel coğrafilerine uygun olarak, step ve ormanlık alanların birleşiminden oluşmaktadır. Tepenin etrafında yer alan köyler ve kasabalar, Sığır Tepesi'ne gelen ziyaretçilere konaklama ve yeme içme olanakları sunmaktadır. Ayrıca, Sığır Tepesi'nin iklimi, İç Anadolu Bölgesi'nin genel iklimine uygun olarak, karasal iklim özellikleri gösterir. Bu iklim, yazları sıcak ve kurak, kışları ise soğuk ve karlı olarak karakterizedir.
 
 ## Flora ve Fauna
 

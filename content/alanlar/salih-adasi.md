@@ -28,15 +28,15 @@ wikidata_id: "Q4822274"
 
 # Salih Adası
 
-Muğla'nın güneşli kıyılarında, Ege Denizi'nin sakin sularında yer alan Salih Adası, ziyaretçilerini doğanın huzuruna davet ediyor. Bu küçük ada, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir durak noktası. Salih Adası, Muğla'nın eşsiz doğası içerisinde saklı bir hazine olarak bekliyor. 
+Muğla'nın güneşli kıyılarında, Ege Denizi'nin sakin sularında yer alan Salih Adası, ziyaretçilerini doğanın huzuruna davet ediyor. Bu küçük ada, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir durak noktası. Salih Adası, Muğla'nın eşsiz doğası içerisinde saklı bir hazine olarak bekliyor.
 
 Salih Adası, Muğla'nın turistik değerine katkıda bulunan önemli bir nokta olarak dikkat çekiyor.
 
 ## Tarihçe
 
-Muğla bölgesi, binlerce yıllık bir tarihe ev sahipliği yapan zengin bir coğrafyadır. Salih Adası da bu bölgenin bir parçasını oluşturmaktadır. Tarih boyunca, Likya, Karya ve Roma uygarlıkları gibi çeşitli medeniyetler bu topraklarda yaşamış ve bölgenin kültürel dokusunu şekillendirmiştir. 
-Doğal güzellikleri ve stratejik konumuyla, Muğla ve çevresindeki adalar tarihin her döneminde önemli bir çekim merkezi olagelmiştir. Özellikle yaylacılık, hayvancılık ve ticaret yolları üzerinde bulunan bu alanlar, insanların yaşamının bir parçası olmuştur. 
-Salih Adası gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir bileşenini oluşturmaktadır. Bu tür alanlar, sadece doğa güzelliği ile değil, aynı zamanda tarihî ve kültürel önemleriyle de dikkat çekmektedir. 
+Muğla bölgesi, binlerce yıllık bir tarihe ev sahipliği yapan zengin bir coğrafyadır. Salih Adası da bu bölgenin bir parçasını oluşturmaktadır. Tarih boyunca, Likya, Karya ve Roma uygarlıkları gibi çeşitli medeniyetler bu topraklarda yaşamış ve bölgenin kültürel dokusunu şekillendirmiştir.
+Doğal güzellikleri ve stratejik konumuyla, Muğla ve çevresindeki adalar tarihin her döneminde önemli bir çekim merkezi olagelmiştir. Özellikle yaylacılık, hayvancılık ve ticaret yolları üzerinde bulunan bu alanlar, insanların yaşamının bir parçası olmuştur.
+Salih Adası gibi doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir bileşenini oluşturmaktadır. Bu tür alanlar, sadece doğa güzelliği ile değil, aynı zamanda tarihî ve kültürel önemleriyle de dikkat çekmektedir.
 Bölgenin zengin tarihi ve kültürel mirası, ziyaretçilere derin bir anlayış ve takdir duygusu vermektedir. Bu nedenle, Salih Adası gibi doğal güzellikleri keşfetmek, aynı zamanda tarihin sayfalarını keşfetmek anlamına gelmektedir.
 
 ## Coğrafya

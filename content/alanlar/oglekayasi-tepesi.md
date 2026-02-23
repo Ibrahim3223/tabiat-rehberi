@@ -29,7 +29,7 @@ wikidata_id: "Q34829890"
 
 # Öğlekayasi Tepesi
 
-Öğlekayasi Tepesi, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, doğa severlerin ve macera arayışında olanların kaçırmaması gereken bir destinasyon.
+Öğlekayasi Tepesi, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak karşımıza çıkıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta. Bu bölge, doğa severlerin ve macera arayışında olanların kaçırmaması gereken bir destinasyon.
 
 ## Tarihçe
 

@@ -32,11 +32,11 @@ Ardahan'ın doğusunda yükselen Uğurlu Dağı, bölgenin önemli coğrafi olu�
 
 ## Tarihçe
 
-Ardahan bölgesi, tarihin sâu sayfalarında gizli bir hazine gibi beklemektedir. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişinin canlı olduğu bir merkez olmuştur. Uğurlu Dağı, bu tarihsel zenginliğin bir parçası olarak, bölgenin doğal güzelliğini ve çeşitliliğini yansıtan bir alandır.
+Ardahan bölgesi, tarihin derin sayfalarında gizli bir hazine gibi beklemektedir. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişinin canlı olduğu bir merkez olmuştur. Uğurlu Dağı, bu tarihsel zenginliğin bir parçası olarak, bölgenin doğal güzelliğini ve çeşitliliğini yansıtan bir alandır.
 
 Ardahan, tarihi boyunca çeşitli uygarlıkların etkisi altında kalmıştır. Selçuklular, Osmanlılar ve diğer medeniyetler, bu bölgede izlerini bırakmışlardır. Bu tür doğal alanlar, Türkiye'de tarih boyunca önemli bir rol oynamıştır. Yayla ve dağlık bölgeler, yaylacılık ve hayvancılık için elverişli koşullar sunmuş, aynı zamanda ticaret yolları ve geçitler olarak hizmet vermiştir.
 
-Uğurlu Dağı, bu tarihsel bağlam içinde, bölgenin kültürel ve doğal mirasının bir parçası olarak görülebilir. İnsanların bu alanla ilişkisi, yaylacılık, hayvancılık ve ticaret gibi faaliyetlerle şekillenmiştir. Bu doğal güzellik, Türkiye'nin zengin tarihi ve kültürel çeşitliliği hakkında ipuçları vermekte, ziyaretçilere tarihin sâu sayfalarına bir pencere açmaktadır.
+Uğurlu Dağı, bu tarihsel bağlam içinde, bölgenin kültürel ve doğal mirasının bir parçası olarak görülebilir. İnsanların bu alanla ilişkisi, yaylacılık, hayvancılık ve ticaret gibi faaliyetlerle şekillenmiştir. Bu doğal güzellik, Türkiye'nin zengin tarihi ve kültürel çeşitliliği hakkında ipuçları vermekte, ziyaretçilere tarihin derin sayfalarına bir pencere açmaktadır.
 
 ## Coğrafya
 
@@ -50,7 +50,7 @@ Mevsimsel değişimler açısından, Uğurlu Dağı'nın iklim karakteri, bölge
 
 ## Flora ve Fauna
 
-Uğurlu Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ eteklerinde çiçekler açarken, alpin çayırlar yeşererek canlı bir görünüme bürünür. 
+Uğurlu Dağı, Ardahan'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ eteklerinde çiçekler açarken, alpin çayırlar yeşererek canlı bir görünüme bürünür.
 
 Bitki örtüsünün hakim türleri, yükseklik zonlarına göre değişir. Dağın yüksek kesimlerinde, alpin flora türleri hakimdir. Bu bitkiler, sert iklim koşullarına adapte olmuş ve endemik türleri barındırır. Mevsimsel değişimlerle birlikte, dağda farklı canlılar ortaya çıkar. Sonbaharda, göçmen kuşlar dağ üzerinden geçerken, kışın ise dağ keçileri ve diğer memeliler alpin çayırlarda beslenir.
 

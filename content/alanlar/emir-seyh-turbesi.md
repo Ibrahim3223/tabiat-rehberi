@@ -1,7 +1,7 @@
 ---
 title: "Emir Şeyh Türbesi"
 date: "2026-01-10T05:59:20.137Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390520"
 
 # Emir Şeyh Türbesi
 
-Emir Şeyh Türbesi, Yakutiye ilçesinde bulunan tarihi bir türbedir. Doğu Anadolu Bölgesi'nin zengin kültürel mirasının önemli bir parçasını oluşturan bu türbe, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. 140 hektarlık bir alana yayılan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Emir Şeyh Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir noktada, ziyaretçilerini bekliyor.
+Emir Şeyh Türbesi, Yakutiye ilçesinde bulunan tarihi bir türbedir. Doğu Anadolu Bölgesi'nin zengin kültürel mirasının önemli bir parçasını oluşturan bu türbe, ziyaretçilerini tarihin derinliklerine götürmeyi vaat ediyor. Emir Şeyh Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir noktada, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Gedik Paşa Hamamı"
 date: "2026-01-09T23:15:34.060Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738986"
 
 # Gedik Paşa Hamamı
 
-Gedik Paşa Hamamı, Ege Bölgesi'nin en güzel noktalarından biri olan Çivril'de yer alıyor. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla baş başa bırakıyor. Gedik Paşa Hamamı, özellikle doğa severlerin ve huzur arayanların gözdesi haline gelmiş bir mekan. Burada, şehrin gürültüsünden uzaklaşarak, kendinizi doğanın kucağında hissedebilirsiniz. Çivril'in merkezine yakın konumuyla da kolay ulaşılabilirlik sağlıyor.
+Gedik Paşa Hamamı, Ege Bölgesi'nin en güzel noktalarından biri olan Çivril'de yer alıyor. Gedik Paşa Hamamı, özellikle doğa severlerin ve huzur arayanların gözdesi haline gelmiş bir mekan. Burada, şehrin gürültüsünden uzaklaşarak, kendinizi doğanın kucağında hissedebilirsiniz. Çivril'in merkezine yakın konumuyla da kolay ulaşılabilirlik sağlıyor.
 
 ## Tarihçe
 

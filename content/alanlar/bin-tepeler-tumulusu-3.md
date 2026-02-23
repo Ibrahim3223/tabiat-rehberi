@@ -29,7 +29,7 @@ wikidata_id: "Q134728378"
 
 # Bin Tepeler Tümülüsü 3
 
-Ege Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için Bin Tepeler Tümülüsü 3, Salihli'de bulunan ve tarih meraklılarını cezbeden bir destinasyondur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir tarihi miras sunmaktadır. Bu tümülüs, binlerce yıllık geçmişi ile Türkiye'nin önemli arkeolojik sitelerinden biridir. Tarihi geçmişi, ziyaretçilerin geçmişe yolculuk yapmalarına olanak tanır.
+Ege Bölgesi'nin tarihi zenginliklerini keşfetmek isteyenler için Bin Tepeler Tümülüsü 3, Salihli'de bulunan ve tarih meraklılarını cezbeden bir destinasyondur. Bu tümülüs, binlerce yıllık geçmişi ile Türkiye'nin önemli arkeolojik sitelerinden biridir. Tarihi geçmişi, ziyaretçilerin geçmişe yolculuk yapmalarına olanak tanır.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 3'ü ziyaret etmek, tarih meraklıları için unutulmaz
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 3, Ege Bölgesi'nin en önemli arkeolojik sitelerinden biridir.
-- Tümülüs, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Bu tümülüs, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır.
 - Ziyaretçiler, tümülüsün tarihi geçmişi hakkında bilgi edinebilir.
 - Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğal güzellikler sunar.

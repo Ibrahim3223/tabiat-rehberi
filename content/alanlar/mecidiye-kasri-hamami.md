@@ -1,7 +1,7 @@
 ---
 title: "Mecidiye Kasrı Hamamı"
 date: "2026-01-10T04:02:00.414Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q135429074"
 
 # Mecidiye Kasrı Hamamı
 
-Mecidiye Kasrı Hamamı, İstanbul'un Beykoz ilçesinde, Marmara Bölgesi'nin güzide bir noktasında yer alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilerini doğal güzellikleri ve tarihi yapıları ile büyülemektedir. Mecidiye Kasrı Hamamı, İstanbul'un en önemli tarihi ve doğal güzelliklerinden biri olarak kabul edilmektedir. Burada, ziyaretçiler hem doğal güzellikleri keşfedebilir hem de tarihi yapıları gezebilirler.
+ Bu alan, ziyaretçilerini doğal güzellikleri ve tarihi yapıları ile büyülemektedir. Mecidiye Kasrı Hamamı, İstanbul'un en önemli tarihi ve doğal güzelliklerinden biri olarak kabul edilmektedir. Burada, ziyaretçiler hem doğal güzellikleri keşfedebilir hem de tarihi yapıları gezebilirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mecidiye Kasrı Hamamı, tarihi geçmişi ile dikkat çekmektedir. Bu alan, yüz
 
 ## Coğrafya
 
-Mecidiye Kasrı Hamamı, coğrafi konumu itibariyle oldukça dikkat çekicidir. Marmara Bölgesi'nde, Beykoz ilçesinde yer alan bu alan, yüksek bir konumda bulunmaktadır. Bölge, karasal iklimin hakim olduğu bir alanda yer almaktadır. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını önemli ölçüde etkilemektedir. Mecidiye Kasrı Hamamı'nın coğrafi konumu, ziyaretçilere çeşitli doğal güzellikleri keşfetme fırsatı sunmaktadır. Bölge, zengin flora ve faunaya sahip olup, ziyaretçiler burada çeşitli bitki ve hayvan türleri ile karşılaşabilirler.
+Mecidiye Kasrı Hamamı, coğrafi konumu itibariyle oldukça dikkat çekicidir. Marmara Bölgesi'nde, Beykoz ilçesinde yer alan bu alan, yüksek bir konumda bulunmaktadır. Bölge, karasal iklimin hakim olduğu bir alanda yer almaktadır. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını önemli ölçüde etkilemektedir. Bölge, zengin flora ve faunaya sahip olup, ziyaretçiler burada çeşitli bitki ve hayvan türleri ile karşılaşabilirler.
 
 ## Flora ve Fauna
 

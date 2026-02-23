@@ -51,7 +51,7 @@ Mardin Ovası'na bakan Por Tepe, bölgenin su kaynaklarına yakınlığıyla dik
 
 ## Flora ve Fauna
 
-Por Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte,(step ve ova ekolojisinin karakteristik türleri) çiçekler açmaya başlarken, sonbaharda göç eden kuş sürüleri gökyüzünü süsüyor. 
+Por Tepe, Mardin'in yarı kurak ikliminin hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharla birlikte,(step ve ova ekolojisinin karakteristik türleri) çiçekler açmaya başlarken, sonbaharda göç eden kuş sürüleri gökyüzünü süsüyor.
 
 Bitki örtüsünde, alpin flora hakimdir ve yükseklik zonlarına göre değişen türler bulunur. Dağ hayvanları, bu floranın sunduğu yaşam alanlarından faydalanır. Memeliler, özellikle dağ keçileri ve yaban domuzları, bu bölgede yaşamlarını sürdürür. Kuşlar ise, göç rotalarında önemli bir durak olarak kullanılır. Sürüngenler de, bu ekosistemin bir parçası olarak yer alır.
 

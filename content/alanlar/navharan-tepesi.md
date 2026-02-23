@@ -28,7 +28,7 @@ wikidata_id: "Q31386395"
 
 # Navharan Tepesi
 
-Navharan Tepesi, Gaziantep'in güzide noktalarından biri olarak karşımıza çıkıyor. Güneydoğu Anadolu Bölgesi'nin zengin a mirasına ev sahipliği yapan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsamasıyla dikkat çekiyor. Navharan Tepesi, ziyaretçilerini hem doğal güzelliği hem de tarihi zenginliğiyle bekliyor. Tepe, bölgenin en önemli turizm noktalarından biri olarak biliniyor.
+Navharan Tepesi, Gaziantep'in güzide noktalarından biri olarak karşımıza çıkıyor. Güneydoğu Anadolu Bölgesi'nin zengin a mirasına ev sahipliği yapan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Navharan Tepesi, ziyaretçilerini hem doğal güzelliği hem de tarihi zenginliğiyle bekliyor. Tepe, bölgenin en önemli turizm noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 

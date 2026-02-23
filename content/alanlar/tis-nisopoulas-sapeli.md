@@ -29,7 +29,7 @@ wikidata_id: "Q134728243"
 
 # Tis Nisopoulas Şapeli
 
-Ayvalık'ta bulunan Tis Nisopoulas Şapeli, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve denize girilebilecek en güzel yerlerden biridir. Tis Nisopoulas Şapeli, tarihi ve doğal güzellikleri ile dikkat çekmekte ve her yıl binlerce turisti ağırlamaktadır. Bu şapel, aynı zamanda Ayvalık'ın en önemli turistik mekanlarından biri olarak kabul edilir.
+Ayvalık'ta bulunan Tis Nisopoulas Şapeli, Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinir. Tis Nisopoulas Şapeli, tarihi ve doğal güzellikleri ile dikkat çekmekte ve her yıl binlerce turisti ağırlamaktadır. Bu şapel, aynı zamanda Ayvalık'ın en önemli turistik mekanlarından biri olarak kabul edilir.
 
 ## Tarihçe
 

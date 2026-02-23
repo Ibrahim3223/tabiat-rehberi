@@ -1,7 +1,7 @@
 ---
 title: "Arabacılar Hamamı Ayvansaray"
 date: "2026-01-09T22:44:11.391Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738551"
 
 # Arabacılar Hamamı Ayvansaray
 
-İstanbul'un tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olan Arabacılar Hamamı Ayvansaray, Marmara Bölgesi'nin kalbinde yer alan Fatih ilçesinde bulunmaktadır. Bu bölgenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un kalabalık streetsinden uzakta sakin bir atmosfere sahiptir. Arabacılar Hamamı Ayvansaray,hem İstanbul'un tarihsel geçmişini hem de doğal güzelliklerini bir araya getiren özel bir mekândır.
+İstanbul'un tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olan Arabacılar Hamamı Ayvansaray, Marmara Bölgesi'nin kalbinde yer alan Fatih ilçesinde bulunmaktadır. Arabacılar Hamamı Ayvansaray,hem İstanbul'un tarihsel geçmişini hem de doğal güzelliklerini bir araya getiren özel bir mekândır.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227289"
 
 # Bursa-Bilecik-Muratdere Uludag Goknari
 
-Bursa-Bilecik-Muratdere Uludag Goknari, Marmara Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini sağlayan önemli bir doğal kaynak olarak kabul edilir. Bu milli park, hem yerli hem de yabancı ziyaretçilerin ilgisini çekmekte ve Marmara Bölgesi'nin turizm potansiyelini artırmaktadır. Uludag Goknari, doğal güzelliği, zengin flora ve fauna çeşitliliği ile ziyaretçilerini etkilemektedir.
+Bursa-Bilecik-Muratdere Uludag Goknari, Marmara Bölgesi'nin en dikkat çekici doğal güzelliklerinden biridir. Bu milli park, hem yerli hem de yabancı ziyaretçilerin ilgisini çekmekte ve Marmara Bölgesi'nin turizm potansiyelini artırmaktadır. Uludag Goknari, doğal güzelliği, zengin flora ve fauna çeşitliliği ile ziyaretçilerini etkilemektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bursa-Bilecik-Muratdere Uludag Goknari'nin tarihi geçmişi, bölgenin doğal g�
 
 ## Coğrafya
 
-Bursa-Bilecik-Muratdere Uludag Goknari, Marmara Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. Milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini sağlayan önemli bir doğal kaynak olarak kabul edilir. Bölge, çeşitli bitki türleri ve hayvan türleri ile zengin bir fauna çeşitliliğine sahiptir. Uludag Goknari'nin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunmakta ve bölgenin turizm potansiyelini artırmaktadır. Milli parkın iklimi, bölgenin coğrafi konumu nedeniyle ılımandır ve ziyaretçilere yılın her mevsiminde gezi imkanı sunmaktadır.
+Bursa-Bilecik-Muratdere Uludag Goknari, Marmara Bölgesi'nin coğrafi olarak en dikkat çekici bölgelerinden biridir. Bölge, çeşitli bitki türleri ve hayvan türleri ile zengin bir fauna çeşitliliğine sahiptir. Uludag Goknari'nin coğrafi yapısı, ziyaretçilere çeşitli doğal güzellikler sunmakta ve bölgenin turizm potansiyelini artırmaktadır. Milli parkın iklimi, bölgenin coğrafi konumu nedeniyle ılımandır ve ziyaretçilere yılın her mevsiminde gezi imkanı sunmaktadır.
 
 ## Flora ve Fauna
 

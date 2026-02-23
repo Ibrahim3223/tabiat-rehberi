@@ -22,7 +22,7 @@ wikidata_id: "Q108227856"
 
 # Balikesir-Bigadic Kızılçam2
 
-Balikesir-Bigadic Kızılçam2 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile büyüler. Bu milli park, hem doğa severlerin hem de macera arayanların keyifli anlar geçirebileceği bir destinasyondur. Ziyaretçiler, parkın sunduğu çeşitli faaliyetlerle doğayla iç içe olmanın keyfini çıkarabilirler.
+Balikesir-Bigadic Kızılçam2 milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu milli park, hem doğa severlerin hem de macera arayanların keyifli anlar geçirebileceği bir destinasyondur. Ziyaretçiler, parkın sunduğu çeşitli faaliyetlerle doğayla iç içe olmanın keyfini çıkarabilirler.
 
 ## Tarihçe
 

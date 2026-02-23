@@ -22,7 +22,7 @@ wikidata_id: "Q108228484"
 
 # İzmir-Kemalpaşa-Kemalpaşa Kızılçam
 
-İzmir'in Kemalpaşa ilçesinde yer alan Kemalpaşa Kızılçam Milli Parkı, 140 hektarlık geniş bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Park, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. 140 hektarlık bu yeşil alan, aynı zamanda bölgenin ekolojik dengesini korumada önemli bir rol oynamaktadır.
+İzmir'in Kemalpaşa ilçesinde yer alan Kemalpaşa Kızılçam Milli Parkı, 140 hektarlık geniş bir alana sahiptir. Park, Ege Bölgesi'nin önemli turizm merkezlerinden biri olarak kabul edilmektedir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. 140 hektarlık bu yeşil alan, aynı zamanda bölgenin ekolojik dengesini korumada önemli bir rol oynamaktadır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388792"
 
 # Ayazmabayırı Tepesi
 
-Ayazmabayırı Tepesi, Marmara Bölgesi'nin en güzel noktalarından biri olan Edirne'de yer alıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan sunuyor. Ziyaretçilerin dikkatini çeken bu tepe, hem tarihi hem de doğal güzellikleri ile ön plana çıkıyor. Ayazmabayırı Tepesi, Edirne'nin merkezine yakın bir konumda bulunması nedeniyle ulaşımı da oldukça kolay.
+Ayazmabayırı Tepesi, Marmara Bölgesi'nin en güzel noktalarından biri olan Edirne'de yer alıyor. Ziyaretçilerin dikkatini çeken bu tepe, hem tarihi hem de doğal güzellikleri ile ön plana çıkıyor. Ayazmabayırı Tepesi, Edirne'nin merkezine yakın bir konumda bulunması nedeniyle ulaşımı da oldukça kolay.
 
 ## Tarihçe
 

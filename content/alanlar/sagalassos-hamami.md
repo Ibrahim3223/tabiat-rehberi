@@ -1,7 +1,7 @@
 ---
 title: "Sagalassos Hamamı"
 date: "2026-01-09T23:03:23.421Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Burdur"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738829"
 
 # Sagalassos Hamamı
 
-Sagalassos Hamamı, Ağlasun ilçesi sınırları içinde yer alan ve Burdur'un en önemli tarihi ve doğal güzelliklerinden biri olan bir antik yapıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunar. Bu tarihi mekân, hem tarih severlerin hem de doğaşığıların ilgisini çekmektedir. Sagalassos Hamamı, Akdeniz Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçasıdır.
+Sagalassos Hamamı, Ağlasun ilçesi sınırları içinde yer alan ve Burdur'un en önemli tarihi ve doğal güzelliklerinden biri olan bir antik yapıdır. Bu tarihi mekân, hem tarih severlerin hem de doğaşığıların ilgisini çekmektedir. Sagalassos Hamamı, Akdeniz Bölgesi'nin zengin tarihi ve kültürel mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 

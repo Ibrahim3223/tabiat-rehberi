@@ -1,7 +1,7 @@
 ---
 title: "Hamam 1"
 date: "2026-01-09T23:19:44.637Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738971"
 
 # Hamam 1
 
-Hamam 1, İzmir'in Selçuk ilçesinde yer alan ve doğal güzelliği ile dikkat çeken bir plajdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini güneşin ve denizin tadını çıkarmaya davet ediyor. Bu plaj, Ege Bölgesi'nin en güzel noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir. Hamam 1'in güzelliği, sadece doğal ortamı ile sınırlı değildir, aynı zamanda tarihi ve kültürel zenginliği ile de dikkat çeker.
+Hamam 1, İzmir'in Selçuk ilçesinde yer alan ve doğal güzelliği ile dikkat çeken bir plajdır. Bu plaj, Ege Bölgesi'nin en güzel noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir. Hamam 1'in güzelliği, sadece doğal ortamı ile sınırlı değildir, aynı zamanda tarihi ve kültürel zenginliği ile de dikkat çeker.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108229015"
 
 # Meriç Deltası Sulak Alanı
 
-Meriç Deltası Sulak Alanı, İç Anadolu Bölgesi'nin doğa harikalarından biri olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Sulak alanların önemli özelliklerini taşıyan bu bölge, çeşitli bitki türleri ve zengin fauna ile dolu. Meriç Deltası Sulak Alanı, doğa yürüyüşleri, kuş gözlemciliği ve fotoğraf çekimi için ideal bir destinasyon. Doğal güzelliği ve biyolojik çeşitliliği ile bu bölge, ziyaretçilerini büyüleyen bir yer.
+Meriç Deltası Sulak Alanı, İç Anadolu Bölgesi'nin doğa harikalarından biri olarak dikkat çekiyor. Sulak alanların önemli özelliklerini taşıyan bu bölge, çeşitli bitki türleri ve zengin fauna ile dolu. Meriç Deltası Sulak Alanı, doğa yürüyüşleri, kuş gözlemciliği ve fotoğraf çekimi için ideal bir destinasyon. Doğal güzelliği ve biyolojik çeşitliliği ile bu bölge, ziyaretçilerini büyüleyen bir yer.
 
 ## Tarihçe
 

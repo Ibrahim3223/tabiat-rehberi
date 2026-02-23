@@ -23,7 +23,7 @@ wikidata_id: "Q108228179"
 
 # Kayabaşı Tabiat Parkı
 
-Kayabaşı Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için bir cennet haline getiriyor. Kayabaşı Tabiat Parkı, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbediyor.
+Kayabaşı Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Parkın içinde çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa severler için bir cennet haline getiriyor. Kayabaşı Tabiat Parkı, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

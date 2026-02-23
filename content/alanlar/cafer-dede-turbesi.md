@@ -1,7 +1,7 @@
 ---
 title: "Cafer Dede Türbesi"
 date: "2026-01-10T04:55:21.076Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391536"
 
 # Cafer Dede Türbesi
 
-Cafer Dede Türbesi, Kütahya'nın merkeziunda bulunan ve tarihi geçmişiyle ön plana çıkan bir mekan. 140 hektarlık bir alanda yer alan bu tarihi mekan, yaklaşık 200 futbol sahası büyüklüğünde. Ziyaretçiler, bu mekanın zengin tarihi ve kültürel mirasını keşfetme fırsatı buluyor. Cafer Dede Türbesi, Kütahya'nın önemli turistik noktalarından biri olarak biliniyor. burası, hem yerli hem de yabancı ziyaretçilerin ilgisini çekiyor.
+Cafer Dede Türbesi, Kütahya'nın merkeziunda bulunan ve tarihi geçmişiyle ön plana çıkan bir mekan. Ziyaretçiler, bu mekanın zengin tarihi ve kültürel mirasını keşfetme fırsatı buluyor. Cafer Dede Türbesi, Kütahya'nın önemli turistik noktalarından biri olarak biliniyor. burası, hem yerli hem de yabancı ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Cafer Dede Türbesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve yaz aylar
 ## İlginç Bilgiler
 
 - Cafer Dede Türbesi, Kütahya'nın en önemli tarihi mekanlarından biri.
-- Bu mekan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Cafer Dede Türbesi, Ege Bölgesi'nin coğrafi özelliklerini taşıyor.
 - Bu mekan, çeşitli bitki türleri ve hayvanlarla zengin bir ekosisteme sahip.
 - Cafer Dede Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor.

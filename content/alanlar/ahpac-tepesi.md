@@ -28,7 +28,7 @@ wikidata_id: "Q35723658"
 
 # Ahpaç Tepesi
 
-Ahpaç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve bölgeye özgü bitki türleri ile hayvan populasyonuyla dikkat çeken bir doğa alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü çeşitli bitki türlerini barındırır. Bu tepenin eteklerinde ve etrafında, yaban hayatı için uygun bir habitat oluşturan çeşitli ağaçlar ve çalılar bulunur. Ahpaç Tepesi, doğa severler ve gezi tutkunları için önemli bir destinasyon olarak kabul edilir.
+Ahpaç Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve bölgeye özgü bitki türleri ile hayvan populasyonuyla dikkat çeken bir doğa alanıdır. Bu tepenin eteklerinde ve etrafında, yaban hayatı için uygun bir habitat oluşturan çeşitli ağaçlar ve çalılar bulunur. Ahpaç Tepesi, doğa severler ve gezi tutkunları için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 

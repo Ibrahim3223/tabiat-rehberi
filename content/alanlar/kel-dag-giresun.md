@@ -50,11 +50,11 @@ Bölgenin su kaynakları açısından Kel Dağ, önemli bir role sahip. Dağın 
 
 ## Flora ve Fauna
 
-Kel Dağ, Giresun'un nemli ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kel Dağ, Giresun'un nemli ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelişiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Gür ormanlar, yüksek biyoçeşitlili ve alpin flora, bu dağ ekosisteminin özel özellikleridir. 
+Bitki Örtüsü bölümünde, ilkbaharın gelişiyle birlikte dağ yamaçları rengarenk çiçeklerle donanır. Gür ormanlar, yüksek biyoçeşitlili ve alpin flora, bu dağ ekosisteminin özel özellikleridir.
 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler, dağın yükseklik zonalarına adapte olmuş yaşam formları olarak karşımıza çıkar. Sonbaharda, göç eden kuşlar dağların üzerinden geçerek yeni yaşam alanlarına ulaşırlar. 
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler, dağın yükseklik zonalarına adapte olmuş yaşam formları olarak karşımıza çıkar. Sonbaharda, göç eden kuşlar dağların üzerinden geçerek yeni yaşam alanlarına ulaşırlar.
 
 Ekolojik Değer bölümünde, Kel Dağ'ın neden önemli olduğu ve koruma durumu ele alınır. Bu dağ ekosisteminin korunması, bölgenin biyoçeşitliliğini ve ekolojik dengesini korumak için önemlidir.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34903676"
 
 # Sarıçiçek Tepesi
 
-Sarıçiçek Tepesi, Çorum'un merkezinde yer alan ve şehrin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Sarıçiçek Tepesi, aynı zamanda bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip, ziyaretçiler için keşfedilecek çok şey sunuyor. Tepenin eteklerinde ve zirvesinde yer alan yürüyüş yolları, ziyaretçilere hem şehri panoramik olarak seyretme hem de doğanın güzelliklerini yakından görme imkanı sağlıyor.
+Sarıçiçek Tepesi, Çorum'un merkezinde yer alan ve şehrin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Sarıçiçek Tepesi, aynı zamanda bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahip, ziyaretçiler için keşfedilecek çok şey sunuyor. Tepenin eteklerinde ve zirvesinde yer alan yürüyüş yolları, ziyaretçilere hem şehri panoramik olarak seyretme hem de doğanın güzelliklerini yakından görme imkanı sağlıyor.
 
 ## Tarihçe
 

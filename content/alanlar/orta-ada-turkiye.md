@@ -32,11 +32,11 @@ Orta Ada, Konya'nın sakin ve doğal bir köşesinde yer alan bir ada olarak dik
 
 ## Tarihçe
 
-Konya bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Binlerce yıl önce, Hitit ve Frig uygarlıkları bu topraklarda yaşamıştır. Daha sonra, Roma ve Bizans dönemlerinde de önemli bir merkez olarak kabul edilmiştir. Orta Ada, bu tarihsel zenginliğin bir parçasını oluşturan doğal bir alandır.
+Konya bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Binlerce yıl önce, Hitit ve Frig uygarlıkları bu topraklarda yaşamıştır. Daha sonra, Roma ve Bizans dönemlerinde de önemli bir merkez olarak kabul edilmiştir. Orta Ada, bu tarihsel zenginliğin bir parçasını oluşturan doğal bir alandır.
 
 Türkiye'de, benzer doğal alanlar uzun süreler boyunca insanların yaşamlarını sürdürmelerine olanak tanımıştır. Yaylacılık ve hayvancılık, bu bölgelerin ekonomilerini şekillendiren önemli faaliyetler olmuştur. Ayrıca, tarihsel ticaret yolları da bu alanlardan geçmiştir. İnsanlar, bu doğal güzellikleri sadece ekonomik amaçlar için değil, aynı zamanda doğayla iç içe yaşamak için de tercih etmişlerdir.
 
-Orta Ada, Konya'nın doğal mirasının bir parçası olarak önemini korur. Bu tür alanlar, sadece yerel halkın değil, aynı zamanda ülkenin kültürel ve tarihsel kimliğinin de önemli bir bileşenidir. Türkiye'de, benzer doğal alanların korunması ve gelecek nesiller için bảo tồn edilmesi, toplumun ortak bir sorumluluğudur.
+Orta Ada, Konya'nın doğal mirasının bir parçası olarak önemini korur. Bu tür alanlar, sadece yerel halkın değil, aynı zamanda ülkenin kültürel ve tarihsel kimliğinin de önemli bir bileşenidir. Türkiye'de, benzer doğal alanların korunması ve gelecek nesiller için koruma tồn edilmesi, toplumun ortak bir sorumluluğudur.
 
 ## Coğrafya
 

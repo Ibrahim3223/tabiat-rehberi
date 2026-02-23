@@ -22,7 +22,7 @@ wikidata_id: "Q108228089"
 
 # Ankara Kirikkale-Sulakyurt-Karacam
 
-Ankara Kirikkale-Sulakyurt-Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden birini oluşturmaktadır. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrabilir. Bu eşsiz doğal alan, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Ankara Kirikkale-Sulakyurt-Karacam, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme fırsatı sunar.
+Ankara Kirikkale-Sulakyurt-Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Milli parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrabilir. Bu eşsiz doğal alan, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Ankara Kirikkale-Sulakyurt-Karacam, ziyaretçilerine doğanın güzelliğini ve bölgenin tarihi geçmişini keşfetme fırsatı sunar.
 
 ## Tarihçe
 

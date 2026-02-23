@@ -1,7 +1,7 @@
 ---
 title: "Nakkaş Hasan Paşa Türbesi"
 date: "2026-01-10T07:50:54.429Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391095"
 
 # Nakkaş Hasan Paşa Türbesi
 
-Nakkaş Hasan Paşa Türbesi, Eyüpsultan'da bulunan tarihi bir türbe ve plajdır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve Marmara Bölgesi'nin en önemli tarihi mekanlarından biridir. Nakkaş Hasan Paşa Türbesi, aynı zamanda bir plaj olarak da bilinir ve ziyaretçiler tarafından sıkça tercih edilir. Türbenin tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Nakkaş Hasan Paşa Türbesi, Eyüpsultan'ın en önemli turistik mekanlarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
+Nakkaş Hasan Paşa Türbesi, Eyüpsultan'da bulunan tarihi bir türbe ve plajdır. Nakkaş Hasan Paşa Türbesi, aynı zamanda bir plaj olarak da bilinir ve ziyaretçiler tarafından sıkça tercih edilir. Türbenin tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir. Nakkaş Hasan Paşa Türbesi, Eyüpsultan'ın en önemli turistik mekanlarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Nakkaş Hasan Paşa Türbesi, tarihsel olarak önemli bir geçmişe sahiptir. Bu
 
 ## Coğrafya
 
-Nakkaş Hasan Paşa Türbesi, Eyüpsultan'da bulunur ve Marmara Bölgesi'nin en önemli coğrafi mekanlarından biridir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir ve Marmara Denizi'ne kıyısı bulunmaktadır. Nakkaş Hasan Paşa Türbesi, aynı zamanda bir plaj olarak da bilinir ve ziyaretçiler tarafından sıkça tercih edilir. Türbenin coğrafi konumu, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir ve Eyüpsultan'ın en önemli turistik mekanlarından biridir. Nakkaş Hasan Paşa Türbesi, Marmara Bölgesi'nin en önemli coğrafi mekanlarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir ve Marmara Denizi'ne kıyısı bulunmaktadır.
+Nakkaş Hasan Paşa Türbesi, Eyüpsultan'da bulunur ve Marmara Bölgesi'nin en önemli coğrafi mekanlarından biridir. Nakkaş Hasan Paşa Türbesi, aynı zamanda bir plaj olarak da bilinir ve ziyaretçiler tarafından sıkça tercih edilir. Türbenin coğrafi konumu, yüzyıllar boyunca birçok önemli olaya tanıklık etmiştir ve Eyüpsultan'ın en önemli turistik mekanlarından biridir. Nakkaş Hasan Paşa Türbesi, Marmara Bölgesi'nin en önemli coğrafi mekanlarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Flora ve Fauna
 
@@ -46,7 +46,7 @@ Nakkaş Hasan Paşa Türbesi, zengin bir flora ve fauna çeşitliliğine sahipti
 
 ## Ziyaret Bilgileri
 
-Nakkaş Hasan Paşa Türbesi'ni ziyaret etmek için, Eyüpsultan'a gelmeniz gerekmektedir. Bu alan, Marmara Bölgesi'nin en önemli turistik mekanlarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Nakkaş Hasan Paşa Türbesi'ni ziyaret etmek için, en iyi zaman ilkbahar ve yaz aylarıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir ve Marmara Denizi'ne kıyısı bulunmaktadır. Nakkaş Hasan Paşa Türbesi, aynı zamanda bir plaj olarak da bilinir ve ziyaretçiler tarafından sıkça tercih edilir. Türbenin ziyaret süresi, yaklaşık 2-3 saat civarındadır ve ziyaretçiler, bu alanın tarihi geçmişi ve flora ve fauna çeşitliliği hakkında bilgi edinebilirler.
+Nakkaş Hasan Paşa Türbesi'ni ziyaret etmek için, Eyüpsultan'a gelmeniz gerekmektedir. Bu alan, Marmara Bölgesi'nin en önemli turistik mekanlarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Nakkaş Hasan Paşa Türbesi'ni ziyaret etmek için, en iyi zaman ilkbahar ve yaz aylarıdır. Nakkaş Hasan Paşa Türbesi, aynı zamanda bir plaj olarak da bilinir ve ziyaretçiler tarafından sıkça tercih edilir. Türbenin ziyaret süresi, yaklaşık 2-3 saat civarındadır ve ziyaretçiler, bu alanın tarihi geçmişi ve flora ve fauna çeşitliliği hakkında bilgi edinebilirler.
 
 ## İlginç Bilgiler
 

@@ -30,7 +30,7 @@ wikidata_id: "Q130645234"
 
 # Eski Kaplıca
 
-Eski Kaplıca, Kükürtlü ve Orhangazi ilçeleri arasında yer alan, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Eski Kaplıca, bölgenin tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Burada, hem doğayı keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilirsiniz.
+Eski Kaplıca, Kükürtlü ve Orhangazi ilçeleri arasında yer alan, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Eski Kaplıca, bölgenin tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor. Burada, hem doğayı keşfedebilir hem de tarihi geçmişi hakkında bilgi edinebilirsiniz.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Eski Kaplıca'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu b�
 
 ## Coğrafya
 
-Eski Kaplıca, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölge, yüksek dağlar, geniş ovalar ve nehirler ile çevrili ve ziyaretçilerine çeşitli coğrafi oluşumları keşfetme fırsatı sunuyor. Eski Kaplıca, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, aynı zamanda çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Eski Kaplıca'nın iklimi, İç Anadolu Bölgesi'nin iklimi ile benzerlik gösteriyor. Bu bölge, yazları sıcak ve kurak, kışları ise soğuk ve karlı passing. Eski Kaplıca, yıl boyunca ziyaret edilebilir, ancak en uygun ziyaret zamanı ilkbahar ve sonbahar aylarıdır.
+Eski Kaplıca, İç Anadolu Bölgesi'nin coğrafi özellikleri ile şekillenmiştir. Bu bölge, yüksek dağlar, geniş ovalar ve nehirler ile çevrili ve ziyaretçilerine çeşitli coğrafi oluşumları keşfetme fırsatı sunuyor. Bu bölge, aynı zamanda çeşitli bitki türleri ve hayvanlarla dolu ve ziyaretçilerine doğayla iç içe bir deneyim sunuyor. Eski Kaplıca'nın iklimi, İç Anadolu Bölgesi'nin iklimi ile benzerlik gösteriyor. Bu bölge, yazları sıcak ve kurak, kışları ise soğuk ve karlı passing. Eski Kaplıca, yıl boyunca ziyaret edilebilir, ancak en uygun ziyaret zamanı ilkbahar ve sonbahar aylarıdır.
 
 ## Flora ve Fauna
 

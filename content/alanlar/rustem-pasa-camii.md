@@ -1,7 +1,7 @@
 ---
 title: "Rüstem Paşa Camii"
 date: "2026-01-10T04:18:12.677Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Fatih"

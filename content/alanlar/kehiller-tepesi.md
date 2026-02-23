@@ -28,7 +28,7 @@ wikidata_id: "Q31515964"
 
 # Kehiller Tepesi
 
-Kehiller Tepesi, Kütahya'nın merkezi bir konumunda yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Tepenin eteklerinde yer alan tarihi yapılar, ziyaretçilere bölgenin zengin geçmişini keşfetme fırsatı sağlıyor. Kehiller Tepesi, aynı zamanda Ege Bölgesi'nin coğrafi çeşitliliği hakkında bilgi edinmek isteyenler için önemli bir nokta olarak kabul ediliyor.
+Kehiller Tepesi, Kütahya'nın merkezi bir konumunda yer alıyor. Tepenin eteklerinde yer alan tarihi yapılar, ziyaretçilere bölgenin zengin geçmişini keşfetme fırsatı sağlıyor. Kehiller Tepesi, aynı zamanda Ege Bölgesi'nin coğrafi çeşitliliği hakkında bilgi edinmek isteyenler için önemli bir nokta olarak kabul ediliyor.
 
 ## Tarihçe
 

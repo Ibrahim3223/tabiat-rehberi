@@ -28,7 +28,7 @@ wikidata_id: "Q31389881"
 
 # İlgenbi Tepesi
 
-İlgenbi Tepesi, Sinop'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşillik sunar. Bu tepe, ziyaretçilerine geniş bir perspektiften Karadeniz Bölgesi'nin eşsiz manzarasını seyretme fırsatı tanır. İlgenbi Tepesi, hem doğa severler hem de tarihi ve kültürel zenginliklere meraklı olanlar için bir çekim merkezi olarak bilinir.
+İlgenbi Tepesi, Sinop'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Bu tepe, ziyaretçilerine geniş bir perspektiften Karadeniz Bölgesi'nin eşsiz manzarasını seyretme fırsatı tanır. İlgenbi Tepesi, hem doğa severler hem de tarihi ve kültürel zenginliklere meraklı olanlar için bir çekim merkezi olarak bilinir.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ wikidata_id: "Q31389881"
 
 ## Flora ve Fauna
 
-İlgenbi Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölgede, mevsimsel değişimlere bağlı olarak farklı türlerde bitkiler yetişir. Tepenin etrafındaki ormanlar, birçok ağaç türünü barındırır ve bu ağaçlar, bölgenin ekosistemini destekler. İlgenbi Tepesi, aynı zamanda birçok hayvan türüne de ev sahipliği yapar. Bu bölgede, özellikle kuş türleri ve diğer küçük hayvanlar bulunur. Ziyaretçiler, bu tepeyi gezerken, bu doğal güzelliği ve canlı çeşitliliğini yakından görebilirler.
+ Bu bölgede, mevsimsel değişimlere bağlı olarak farklı türlerde bitkiler yetişir. Tepenin etrafındaki ormanlar, birçok ağaç türünü barındırır ve bu ağaçlar, bölgenin ekosistemini destekler. İlgenbi Tepesi, aynı zamanda birçok hayvan türüne de ev sahipliği yapar. Bu bölgede, özellikle kuş türleri ve diğer küçük hayvanlar bulunur. Ziyaretçiler, bu tepeyi gezerken, bu doğal güzelliği ve canlı çeşitliliğini yakından görebilirler.
 
 ## Ziyaret Bilgileri
 
@@ -49,7 +49,7 @@ wikidata_id: "Q31389881"
 ## İlginç Bilgiler
 
 - İlgenbi Tepesi, 140 hektarlık bir alana sahiptir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - İlgenbi Tepesi, Karadeniz Bölgesi'nin eşsiz manzarasını sunar.
 - Bu bölge, tarihi ve kültürel zenginliklere sahiptir.
-- İlgenbi Tepesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+

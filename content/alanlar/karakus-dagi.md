@@ -49,7 +49,7 @@ Mevsimsel değişimlere baktığımızda, Karakuş Dağı'nın iklim karakteri K
 
 ## Flora ve Fauna
 
-Karakuş Dağı, Konya'nın step bitki örtüsü ve bozkır ekosisteminin içinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Karakuş Dağı, Konya'nın step bitki örtüsü ve bozkır ekosisteminin içinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 İlkbaharda, dağ eteklerinde çeşitli çiçekler açarak renkli bir manzara oluştururken, yaz aylarında kuraklığa adapte olan türler öne çıkıyor. Sonbaharda ise göç eden kuşlar dağları bir geçit olarak kullanıyor.
 
 Dağın yükseklik zonlarına bağlı olarak farklı bitki türleri ve hayvanlar yaşamlarını sürdürüyor. Alpin flora, dağların yüksek kesimlerinde hüküm sürerken, bozkır türleri daha alçak kesimlerde görülüyor. Memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin bir parçası olarak, birbirleriyle ve çevreleriyle etkileşim halinde yaşamlarını sürdürüyor. Ekolojik değerini koruma altına almak, bu dağ ekosisteminin sürekliliğini sağlamak için büyük önem taşıyor.

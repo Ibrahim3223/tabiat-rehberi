@@ -28,7 +28,7 @@ wikidata_id: "Q31388153"
 
 # Kocadoru Tepesi
 
-Kocadoru Tepesi, Denizli'nin güzide noktalarından biri olarak ziyaretçilerini bekliyor. Bu tepenin en dikkat çekici yanı, 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunmasıdır. Kocadoru Tepesi, hem doğa severlerin hem de manzarayı seyretmek isteyenlerin keyif alacağı bir nokta. Tepenin etrafında çeşitli bitki türleri bulunmakta ve bu zengin flora, ziyaretçilere doğanın güzelliğini göstermektedir. Kocadoru Tepesi, Denizli'nin önemli turistik noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
+Kocadoru Tepesi, Denizli'nin güzide noktalarından biri olarak ziyaretçilerini bekliyor. Kocadoru Tepesi, hem doğa severlerin hem de manzarayı seyretmek isteyenlerin keyif alacağı bir nokta. Tepenin etrafında çeşitli bitki türleri bulunmakta ve bu zengin flora, ziyaretçilere doğanın güzelliğini göstermektedir. Kocadoru Tepesi, Denizli'nin önemli turistik noktalarından biri olarak bilinir ve her yıl çok sayıda ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227271"
 
 # Sinop Kayin
 
-Sinop Kayin milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini korumak amacıyla kurulan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekosistemlerini barındırmaktadır. Milli parkın kuruluş amacı, burada yaşayan çeşitli canlı türlerini ve doğal kaynakları korumaktır. Ziyaretçiler, bu milli parkta doğa yürüyüşleri yapabilir, çevreyi keşfedebilir ve bölgenin güzelliklerini görebilir.
+Sinop Kayin milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini korumak amacıyla kurulan bir milli parktır. Milli parkın kuruluş amacı, burada yaşayan çeşitli canlı türlerini ve doğal kaynakları korumaktır. Ziyaretçiler, bu milli parkta doğa yürüyüşleri yapabilir, çevreyi keşfedebilir ve bölgenin güzelliklerini görebilir.
 
 ## Tarihçe
 

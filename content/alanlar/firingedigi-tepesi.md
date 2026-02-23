@@ -28,7 +28,7 @@ wikidata_id: "Q31390734"
 
 # Fırıngediği Tepesi
 
-Fırıngediği Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Fırıngediği Tepesi, ziyaretçilerine geniş bir manzara sunuyor. Burada, etraftaki köyleri ve doğal güzellikleri izleyebilirsiniz. Ayrıca, bu tepe, yürüyüş ve doğa yürüyüşü gibi faaliyetler için ideal bir yer.
+Fırıngediği Tepesi, Yozgat ilinin sınırları içerisinde yer alan ve İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Fırıngediği Tepesi, ziyaretçilerine geniş bir manzara sunuyor. Burada, etraftaki köyleri ve doğal güzellikleri izleyebilirsiniz. Ayrıca, bu tepe, yürüyüş ve doğa yürüyüşü gibi faaliyetler için ideal bir yer.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Fırıngediği Tepesi, yılın herhangi bir zamanında ziyaret edilebilir. Ancak
 ## İlginç Bilgiler
 
 - Fırıngediği Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Fırıngediği Tepesi, ziyaretçilerine geniş bir manzara sunuyor.
 - Bu tepe, yürüyüş ve doğa yürüyüşü gibi faaliyetler için ideal bir yer.
 - Fırıngediği Tepesi, bir doğal anıt olarak kabul ediliyor.

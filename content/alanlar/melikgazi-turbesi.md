@@ -1,7 +1,7 @@
 ---
 title: "Melikgazi Türbesi"
 date: "2026-01-10T04:45:20.233Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -30,7 +30,7 @@ wikidata_id: "Q6085378"
 
 # Melikgazi Türbesi
 
-Melikgazi Türbesi, Tokat'ın Niksar ilçesinde bulunan ve 140 hektarlık geniş bir yeşil alana kurulu olan histórik bir yapıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakmaktadır. Türbe, tarihi önemini korurken, aynı zamanda çevredeki flora ve faunayla da dikkat çekmektedir. Ziyaretçiler, bu tarihi mekanın güzelliğini ve tarihi geçmişi hakkında bilgi edinebilirler.
+Melikgazi Türbesi, Tokat'ın Niksar ilçesinde bulunan ve 140 hektarlık geniş bir yeşil alana kurulu olan tarihi bir yapıdır. Türbe, tarihi önemini korurken, aynı zamanda çevredeki flora ve faunayla da dikkat çekmektedir. Ziyaretçiler, bu tarihi mekanın güzelliğini ve tarihi geçmişi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 

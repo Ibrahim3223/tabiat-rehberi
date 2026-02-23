@@ -46,7 +46,7 @@ Jeolojik açıdan bakıldığında, Zülkefil Dağı'nın fiziksel yapısı hakk
 
 Mevsimsel değişiklikler açısından Zülkefil Dağı, güneydoğu Anadolu Bölgesi'nin karakteristik iklim özelliklerini taşır. Yaz aylarında sıcaklığın 35 dereceye kadar çıktığı ve kış aylarında ise 0 derecenin altına düştüğü bilinmektedir. Hava durumu, bölgenin coğrafi konumuna bağlı olarak değişkenlik gösterir. Eiffel Kulesi'nin yaklaşık 2 katı yükseklikte olan Zülkefil Dağı, bölgenin iklim karakterini şekillendiren önemli bir faktördür.
 
-Çevresel açıdan bakıldığında, Zülkefil Dağı, komşu alanlar ve su kaynakları ile bağlantılıdır. Bölgede yer alan su kaynakları, Zülkefil Dağı'nın ekosistemini destekler ve bölgenin canlı çeşitliliğini sağlar. İstanbul'un Adalar ilçesi büyüklüğünde bir alana karşılık gelen Zülkefil Dağı ve çevresi, bölgenin ekolojik dengesini korumak açısından önemli bir role sahiptir.
+Çevresel açıdan bakıldığında, Zülkefil Dağı, komşu alanlar ve su kaynakları ile bağlantılıdır. Bölgede yer alan su kaynakları, Zülkefil Dağı'nın ekosistemini destekler ve bölgenin canlı çeşitliliğini sağlar.
 
 ## Flora ve Fauna
 

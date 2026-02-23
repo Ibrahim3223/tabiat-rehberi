@@ -28,7 +28,7 @@ wikidata_id: "Q31549686"
 
 # Girmelisi Tepesi
 
-Girmelisi Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olarak dikkat çekiyor. Bu tepe, Batman ilinin sınırları içerisinde yer alıyor ve bölgeye özgü coğrafi özelliklere sahip. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve etrafındaki diğer coğrafi oluşumlarla birlikte bir whole oluşturuyor. Bu tepe, hem coğrafi özellikleri hem de tarihi geçmişi ile ziyaretçilerin ilgisini çekiyor. Girmelisi Tepesi, bölgede yaşayan halkın da önemli alanlarından biri olarak biliniyor.
+Girmelisi Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olarak dikkat çekiyor. Bu tepe, Batman ilinin sınırları içerisinde yer alıyor ve bölgeye özgü coğrafi özelliklere sahip. Bu tepe, hem coğrafi özellikleri hem de tarihi geçmişi ile ziyaretçilerin ilgisini çekiyor. Girmelisi Tepesi, bölgede yaşayan halkın da önemli alanlarından biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Girmelisi Tepesi, bölgede yaşayan çeşitli bitki ve hayvan türlerine ev sahi
 
 ## Ziyaret Bilgileri
 
-Girmelisi Tepesi, yıl boyunca ziyaret edilebilecek bir doğal alan ve bu tepe, bölgenin diğer önemli noktalarına yakın. Tepenin etrafındaki coğrafi oluşumlar, ziyaretçilere çeşitli aktivite olanakları sunuyor. Girmelisi Tepesi'ne gitmek için, Batman iline ulaşmak necessário ve sonrasında tepeye giden yol izlenmelidir. Tepenin etrafındaki manzara, ziyaretçilere bölgeyi keşfetme fırsatı sunuyor ve bu durum, tepeyi önemli bir turistik nokta haline getiriyor.
+Girmelisi Tepesi, yıl boyunca ziyaret edilebilecek bir doğal alan ve bu tepe, bölgenin diğer önemli noktalarına yakın. Tepenin etrafındaki coğrafi oluşumlar, ziyaretçilere çeşitli aktivite olanakları sunuyor. Girmelisi Tepesi'ne gitmek için, Batman iline ulaşmak gerekli ve sonrasında tepeye giden yol izlenmelidir. Tepenin etrafındaki manzara, ziyaretçilere bölgeyi keşfetme fırsatı sunuyor ve bu durum, tepeyi önemli bir turistik nokta haline getiriyor.
 
 ## İlginç Bilgiler
 

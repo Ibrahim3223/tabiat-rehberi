@@ -1,7 +1,7 @@
 ---
 title: "Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari"
 date: "2026-01-09T20:57:55.056Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Giresun"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227592"
 
 # Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari
 
-Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik alanlarından biri. Milli park, zengin flora ve faunasıyla dikkat çekiyor. Doğal güzellikleri, tarihi geçmişi ve turistik olanaklarıyla ziyaretçilerini bekliyor. Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri.
+Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri. Milli park, zengin flora ve faunasıyla dikkat çekiyor. Doğal güzellikleri, tarihi geçmişi ve turistik olanaklarıyla ziyaretçilerini bekliyor. Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, tarihi geçm
 
 ## Coğrafya
 
-Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli coğrafi oluşumlarından biri. Milli park, 140 hektarlık bir alanda kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, dağlık ve engebeli bir araziye sahip ve deniz seviyesinden yüksek. Milli parkın coğrafi konumu, ziyaretçilerine önemli bir doğa deneyimi sunuyor. Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri ve ziyaretçilerini bekliyor.
+Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli coğrafi oluşumlarından biri. Bölge, dağlık ve engebeli bir araziye sahip ve deniz seviyesinden yüksek. Milli parkın coğrafi konumu, ziyaretçilerine önemli bir doğa deneyimi sunuyor. Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri ve ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, ziyaretçile
 ## İlginç Bilgiler
 
 - Milli park, 140 hektarlık bir alanda kurulmuş.
-- Milli park, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Milli park, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri.
 - Milli park, tarihi geçmişiyle dikkat çekiyor.
 - Milli park, ziyaretçilerine önemli bir kültür ve tarih deneyimi sunuyor.

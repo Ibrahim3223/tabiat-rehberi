@@ -28,7 +28,7 @@ wikidata_id: "Q31385473"
 
 # Gora Şendzeri
 
-Gora Şendzeri, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan bir tepe olarak tanımlanabilir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Gora Şendzeri, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle büyülemeye hazırlanıyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmektedir. Gora Şendzeri'nin güzellikleri, sadece doğal manzaralarından değil, aynı zamanda zengin tarihinden de kaynaklanmaktadır. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri kendi kültürünü bu bölgeye bırakmıştır.
+Gora Şendzeri, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık alanı kaplayan bir tepe olarak tanımlanabilir. Gora Şendzeri, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle büyülemeye hazırlanıyor. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekmektedir. Gora Şendzeri'nin güzellikleri, sadece doğal manzaralarından değil, aynı zamanda zengin tarihinden de kaynaklanmaktadır. Bu tepe, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve her biri kendi kültürünü bu bölgeye bırakmıştır.
 
 ## Tarihçe
 

@@ -28,11 +28,11 @@ wikidata_id: "Q31557033"
 
 # Kartallıhanın Tepesi
 
-Ankara'nın merkezinde yer alan Kartallıhanın Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Kartallıhanın Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için bir hazine. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma ihtimaliniz yüksek. Bu tepe, aynı zamanda tarihin izlerini taşıyor ve ziyaretçilere hem doğayı hem de tarihi bir arada keşfetme fırsatı sunuyor.
+Ankara'nın merkezinde yer alan Kartallıhanın Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Kartallıhanın Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için bir hazine. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma ihtimaliniz yüksek. Bu tepe, aynı zamanda tarihin izlerini taşıyor ve ziyaretçilere hem doğayı hem de tarihi bir arada keşfetme fırsatı sunuyor.
 
 ## Tarihçe
 
-Kartallıhanın Tepesi, tarihin sâu sayfalarında gizli bir hazine olarak karşımıza çıkıyor. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Tarihi kaynaklara göre, bu bölgeye ilk yerleşim, çok eskilere dayanıyor. Ancak, tam bir tarih verilmese de, bölgenin stratejik konumu ve doğal güzellikleri, burada birçok uygarlığa ev sahipliği yaptığını gösteriyor. Kartallıhanın Tepesi, ziyaretçilere tarihin sayfalarını karıştırma ve geçmişle bağlantı kurma fırsatı sunuyor. Bu tepe, aynı zamanda birçok efsaneye ve hikayeye ev sahipliği yapıyor ve ziyaretçileri bir zaman yolculuğuna çıkarıyor.
+Kartallıhanın Tepesi, tarihin derin sayfalarında gizli bir hazine olarak karşımıza çıkıyor. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Tarihi kaynaklara göre, bu bölgeye ilk yerleşim, çok eskilere dayanıyor. Ancak, tam bir tarih verilmese de, bölgenin stratejik konumu ve doğal güzellikleri, burada birçok uygarlığa ev sahipliği yaptığını gösteriyor. Kartallıhanın Tepesi, ziyaretçilere tarihin sayfalarını karıştırma ve geçmişle bağlantı kurma fırsatı sunuyor. Bu tepe, aynı zamanda birçok efsaneye ve hikayeye ev sahipliği yapıyor ve ziyaretçileri bir zaman yolculuğuna çıkarıyor.
 
 ## Coğrafya
 

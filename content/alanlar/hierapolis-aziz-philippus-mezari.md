@@ -37,7 +37,7 @@ Hierapolis Aziz Philippus Mezarı, yüzyıllar boyunca önemli bir dini merkez o
 
 ## Coğrafya
 
-Hierapolis Aziz Philippus Mezarı, Pamukkale'nin merkezinde yer alan Hierapolis antik kentinde bulunur. Antik kent, 140 hektarlık bir alanda kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Mezar, Hierapolis'in kuzeybatısında yer alır ve antik kentin önemli yapılarından biridir. Hierapolis, Ege Bölgesi'nin önemli bir coğrafi konumuda yer alır ve tarihi İpek Yolu üzerinde bulunmuştur. Mezarın bulunduğu bölge, zengin bir flora ve fauna çeşitliliğine sahiptir. Bölge, karasal iklimin hüküm sürdüğü bir yer olup, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçer. Hierapolis'in coğrafi konumu, tarihi ve kültürel önemini artırmaktadır.
+Hierapolis Aziz Philippus Mezarı, Pamukkale'nin merkezinde yer alan Hierapolis antik kentinde bulunur. Mezar, Hierapolis'in kuzeybatısında yer alır ve antik kentin önemli yapılarından biridir. Hierapolis, Ege Bölgesi'nin önemli bir coğrafi konumuda yer alır ve tarihi İpek Yolu üzerinde bulunmuştur. Mezarın bulunduğu bölge, zengin bir flora ve fauna çeşitliliğine sahiptir. Bölge, karasal iklimin hüküm sürdüğü bir yer olup, yazları sıcak ve kurak, kışları ise soğuk ve yağışlı geçer. Hierapolis'in coğrafi konumu, tarihi ve kültürel önemini artırmaktadır.
 
 ## Flora ve Fauna
 

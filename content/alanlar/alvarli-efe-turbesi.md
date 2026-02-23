@@ -1,7 +1,7 @@
 ---
 title: "Alvarlı Efe Türbesi"
 date: "2026-01-10T07:00:33.311Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390808"
 
 # Alvarlı Efe Türbesi
 
-Alvarlı Efe Türbesi, Pasinler ilçesinde bulunan ve tarihi geçmişi ile dikkat çeken bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda hem tarihi hem de doğal güzellikler bir araya geliyor. Türbenin bulunduğu bölgede, ziyaretçilerin hem maneviyatını hem de doğa sevgisini tatmin edecek bir ortam mevcut. Alvarlı Efe Türbesi, özellikle bölge tarihi ile ilgilenenler ve doğa yürüyüşü sevenler için önemli bir destinasyon.
+Alvarlı Efe Türbesi, Pasinler ilçesinde bulunan ve tarihi geçmişi ile dikkat çeken bir mekan. Türbenin bulunduğu bölgede, ziyaretçilerin hem maneviyatını hem de doğa sevgisini tatmin edecek bir ortam mevcut. Alvarlı Efe Türbesi, özellikle bölge tarihi ile ilgilenenler ve doğa yürüyüşü sevenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Alvarlı Efe Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzellikleri k
 ## İlginç Bilgiler
 
 - Alvarlı Efe Türbesi, bölgenin en önemli kültürel miraslarından biri.
-- Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda bulunuyor.
+
 - Bölgede, yüzyıllar boyunca, önemli bir yerleşim yeri olarak kullanılmış.
 - Alvarlı Efe, bölge halkı tarafından saygı görmüş bir figür.
 - Türbe ve çevresi, doğa severler ve biyologlar için önemli bir araştırma ve gözlem alanı.

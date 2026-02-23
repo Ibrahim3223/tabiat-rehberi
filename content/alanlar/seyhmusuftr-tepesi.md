@@ -28,7 +28,7 @@ wikidata_id: "Q34821012"
 
 # Şeyhmüsüftr Tepesi
 
-Şeyhmüsüftr Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Batman şehrinde bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın güzelliği ile baş başa bırakır. Şeyhmüsüftr Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Bu tepe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her bir medeniyet, bu topraklara kendi kültürünü ve mimarisini bırakmıştır.
+Şeyhmüsüftr Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir. Batman şehrinde bulunan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Şeyhmüsüftr Tepesi, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Bu tepe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her bir medeniyet, bu topraklara kendi kültürünü ve mimarisini bırakmıştır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Minyatür Amasya Müzesi"
 date: "2026-01-10T04:36:48.566Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q116739730"
 
 # Minyatür Amasya Müzesi
 
-Minyatür Amasya Müzesi, Amasya ilimizin merkezinde yer alan ve yaklaşık 140 hektarlık bir alana kurulu olan özel bir müzedir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, Amasya'nın tarihi ve kültürel zenginliğini yansıtan önemli bir turizm merkezidir. Müzenin içerisinde, Amasya'nın önemli tarihi ve kültürel yapıları minyatür olarak sergilenmektedir. Ziyaretçiler, müzenin içerisinde gezerken Amasya'nın tarihini ve kültürünü yakından tanıyabilirler.
+Minyatür Amasya Müzesi, Amasya ilimizin merkezinde yer alan ve yaklaşık 140 hektarlık bir alana kurulu olan özel bir müzedir. Müzenin içerisinde, Amasya'nın önemli tarihi ve kültürel yapıları minyatür olarak sergilenmektedir. Ziyaretçiler, müzenin içerisinde gezerken Amasya'nın tarihini ve kültürünü yakından tanıyabilirler.
 
 ## Tarihçe
 

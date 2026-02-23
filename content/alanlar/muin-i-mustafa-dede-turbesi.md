@@ -1,7 +1,7 @@
 ---
 title: "Muin-i Mustafa Dede Türbesi"
 date: "2026-01-10T06:06:25.214Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Afyonkarahisar"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390606"
 
 # Muin-i Mustafa Dede Türbesi
 
-Muin-i Mustafa Dede Türbesi, Afyonkarahisar ilinin merkezinde, Ege Bölgesi'nin güzide bir bölgesinde yer alan tarihi bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda ziyaretçiler için birçok olanak sunuyor. Plajın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olmasından kaynaklanıyor. Ziyaretçiler, hem tarihi açıdan hem de doğal güzelliği ile Muin-i Mustafa Dede Türbesi'ni keşfetme fırsatı buluyor.
+Muin-i Mustafa Dede Türbesi, Afyonkarahisar ilinin merkezinde, Ege Bölgesi'nin güzide bir bölgesinde yer alan tarihi bir plajdır. Plajın tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış olmasından kaynaklanıyor. Ziyaretçiler, hem tarihi açıdan hem de doğal güzelliği ile Muin-i Mustafa Dede Türbesi'ni keşfetme fırsatı buluyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Muin-i Mustafa Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca birçok m
 
 ## Coğrafya
 
-Muin-i Mustafa Dede Türbesi, Afyonkarahisar ilinin merkezinde, Ege Bölgesi'nin güzide bir bölgesinde yer alıyor. Plajın coğrafi konumu, ziyaretçiler için birçok olanak sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda ziyaretçiler için birçok olanak sunuyor. Plajın iklimi, Ege Bölgesi'nin genel iklimine benzer ve ziyaretçiler, plajın güzelliğini yılın dört mevsimi ziyaret edebilir. Plajın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı ve ziyaretçiler, bu doğal güzelliği keşfetme fırsatı buluyor. Muin-i Mustafa Dede Türbesi, coğrafi konumu ve doğal güzelliği ile ziyaretçiler için önemli bir destinasyon olarak kabul ediliyor.
+Muin-i Mustafa Dede Türbesi, Afyonkarahisar ilinin merkezinde, Ege Bölgesi'nin güzide bir bölgesinde yer alıyor. Plajın coğrafi konumu, ziyaretçiler için birçok olanak sunuyor. Plajın iklimi, Ege Bölgesi'nin genel iklimine benzer ve ziyaretçiler, plajın güzelliğini yılın dört mevsimi ziyaret edebilir. Plajın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı ve ziyaretçiler, bu doğal güzelliği keşfetme fırsatı buluyor. Muin-i Mustafa Dede Türbesi, coğrafi konumu ve doğal güzelliği ile ziyaretçiler için önemli bir destinasyon olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

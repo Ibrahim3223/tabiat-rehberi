@@ -22,7 +22,7 @@ wikidata_id: "Q108228277"
 
 # Kastamonu-Duragan-Altınkaya-Kızılcam 1
 
-Kastamonu-Duragan-Altınkaya-Kızılcam 1 milli parkı, Kastamonu ilinin Duragan ilçesinde bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Karadeniz Bölgesi'nin en önemli doğal alanlarından biridir. Bu alan, hem doğa severler hem de tarih meraklıları için ilgi çekici bir destinasyondur. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna found. Ayrıca, burası yaban hayatı için önemli bir yaşam alanıdır. Kastamonu-Duragan-Altınkaya-Kızılcam 1 milli parkı, ziyaretçilerini doğanın güzelliği ve tarihi ile baş başa bırakmayı amaçlamaktadır.
+Kastamonu-Duragan-Altınkaya-Kızılcam 1 milli parkı, Kastamonu ilinin Duragan ilçesinde bulunmaktadır. Bu alan, hem doğa severler hem de tarih meraklıları için ilgi çekici bir destinasyondur. Milli parkın içerisinde, çeşitli bitki türleri ve zengin fauna found. Ayrıca, burası yaban hayatı için önemli bir yaşam alanıdır. Kastamonu-Duragan-Altınkaya-Kızılcam 1 milli parkı, ziyaretçilerini doğanın güzelliği ve tarihi ile baş başa bırakmayı amaçlamaktadır.
 
 ## Tarihçe
 

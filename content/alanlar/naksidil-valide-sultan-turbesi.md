@@ -1,7 +1,7 @@
 ---
 title: "Nakşidil Valide Sultan Türbesi"
 date: "2026-01-10T05:30:47.961Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391562"
 
 # Nakşidil Valide Sultan Türbesi
 
-Nakşidil Valide Sultan Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir noktadır. Fatih ilçesinde yer alan bu tarihi mekan, Marmara Bölgesi'nin kalbinde bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve tarihi geçmişi ile dikkat çekmektedir. Bu türbeyi ziyaret edenlerin, İstanbul'un geçmişini ve kültürel mirasını daha iyi anlamalarına yardımcı olabilir.
+Nakşidil Valide Sultan Türbesi, İstanbul'un tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir noktadır. Fatih ilçesinde yer alan bu tarihi mekan, Marmara Bölgesi'nin kalbinde bulunmaktadır. Bu türbeyi ziyaret edenlerin, İstanbul'un geçmişini ve kültürel mirasını daha iyi anlamalarına yardımcı olabilir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Nakşidil Valide Sultan Türbesi, tarihsel olarak önemli bir geçmişe sahiptir
 
 ## Coğrafya
 
-Nakşidil Valide Sultan Türbesi, Fatih ilçesinde yer almakta ve Marmara Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bu bölge, tarihi ve kültürel zenginliklerinin yanı sıra coğrafi olarak da dikkat çekmektedir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi tarihi yapılarla dolu bir bölgedir. İstanbul'un coğrafi yapısı, bu türbenin çevresini şekillendirmiş ve tarihi geçmişi ile birleşerek ziyaretçilere benzersiz bir deneyim sunmaktadır. Nakşidil Valide Sultan Türbesi'nin coğrafi konumu, ziyaretçilerin İstanbul'un tarihi ve kültürel zenginliklerini keşfetmeleri için ideal bir başlangıç noktası olabilir.
+Nakşidil Valide Sultan Türbesi, Fatih ilçesinde yer almakta ve Marmara Bölgesi'nin coğrafi yapısını yansıtmaktadır. Bu bölge, tarihi ve kültürel zenginliklerinin yanı sıra coğrafi olarak da dikkat çekmektedir. İstanbul'un coğrafi yapısı, bu türbenin çevresini şekillendirmiş ve tarihi geçmişi ile birleşerek ziyaretçilere benzersiz bir deneyim sunmaktadır. Nakşidil Valide Sultan Türbesi'nin coğrafi konumu, ziyaretçilerin İstanbul'un tarihi ve kültürel zenginliklerini keşfetmeleri için ideal bir başlangıç noktası olabilir.
 
 ## Flora ve Fauna
 

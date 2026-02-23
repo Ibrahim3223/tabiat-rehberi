@@ -30,7 +30,7 @@ wikidata_id: "Q61072825"
 
 # Üç Kümbetler
 
-Üç Kümbetler, Erzurum'un Yakutiye ilçesinde yer alan ve tarihi değerleriyle dikkat çeken bir yapıdır. 140 hektarlık alanın içinde yer alan bu yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Üç Kümbetler, bölgenin önemli tarihi noktalarından biri olarak kabul edilmektedir. Bu yapı, ziyaretçilerini tarihin derinliklerine götürerek, geçmişin gizemini hissetmelerine olanak tanır. Üç Kümbetler, aynı zamanda Erzurum'un kültürel zenginliğini yansıtan önemli bir noktadır.
+Üç Kümbetler, Erzurum'un Yakutiye ilçesinde yer alan ve tarihi değerleriyle dikkat çeken bir yapıdır. Üç Kümbetler, bölgenin önemli tarihi noktalarından biri olarak kabul edilmektedir. Bu yapı, ziyaretçilerini tarihin derinliklerine götürerek, geçmişin gizemini hissetmelerine olanak tanır. Üç Kümbetler, aynı zamanda Erzurum'un kültürel zenginliğini yansıtan önemli bir noktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q61072825"
 
 ## Coğrafya
 
-Üç Kümbetler, Erzurum'un Yakutiye ilçesinde yer alan 140 hektarlık bir alanda bulunmaktadır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Üç Kümbetler'in coğrafi konumu, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, dağlık ve engebeli bir araziye sahiptir. Üç Kümbetler'in çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu yapı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine bir doğa harikası sunar. Üç Kümbetler'in iklimi, Doğu Anadolu Bölgesi'nin iklimine benzerlik gösterir ve karasal iklim özellikleri taşır.
+Üç Kümbetler, Erzurum'un Yakutiye ilçesinde yer alan 140 hektarlık bir alanda bulunmaktadır. Üç Kümbetler'in coğrafi konumu, Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölge, dağlık ve engebeli bir araziye sahiptir. Üç Kümbetler'in çevresinde, çeşitli bitki türleri ve zengin fauna encontrabilir. Bu yapı, çevresindeki doğal güzelliklerle birlikte, ziyaretçilerine bir doğa harikası sunar. Üç Kümbetler'in iklimi, Doğu Anadolu Bölgesi'nin iklimine benzerlik gösterir ve karasal iklim özellikleri taşır.
 
 ## Flora ve Fauna
 

@@ -33,9 +33,9 @@ Hatay'ın zengin doğası, birçok doğal güzelliğiçinde barındırmaktadır.
 
 ## Tarihçe
 
-Hatay'ın dağlık bölgesinde yer alan Kavak Tepe, binlerce yıl önceye dayanan zengin bir tarihsel mirasın içinde bulunuyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir merkez olarak kabul ediliyor. Hitit, Roma ve Osmanlı gibi medeniyetler, Hatay'ı ticaret ve kültür merkezi olarak kullanmışlardır. 
+Hatay'ın dağlık bölgesinde yer alan Kavak Tepe, binlerce yıl önceye dayanan zengin bir tarihsel mirasın içinde bulunuyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yaşadığı önemli bir merkez olarak kabul ediliyor. Hitit, Roma ve Osmanlı gibi medeniyetler, Hatay'ı ticaret ve kültür merkezi olarak kullanmışlardır.
 
-Doğal güzelliği ve stratejik konumuyla Kavak Tepe, bölgede yaşayan insanların hayatında önemli bir yer tutmuş olmalı. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için elverişli ortamlar sağlamış, yaylacılık, hayvancılık ve ticaret faaliyetlerine ev sahipliği yapmıştır. 
+Doğal güzelliği ve stratejik konumuyla Kavak Tepe, bölgede yaşayan insanların hayatında önemli bir yer tutmuş olmalı. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için elverişli ortamlar sağlamış, yaylacılık, hayvancılık ve ticaret faaliyetlerine ev sahipliği yapmıştır.
 
 Kavak Tepe'nin bulunduğu Hatay bölgesi, coğrafi konumu itibariyle önemli ticaret yollarının kesişme noktasında yer alıyor. Bu durum, bölgenin tarihsel olarak da önemli bir merkez olmasına katkıda bulunmuş olabilir. İnsanların bu doğal alanlarla olan ilişkisi, sadece ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda kültürel ve sosyal yaşamın da önemli bir parçası olmuştur.
 

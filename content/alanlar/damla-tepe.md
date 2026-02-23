@@ -28,7 +28,7 @@ wikidata_id: "Q31389477"
 
 # Damla Tepe
 
-Damla Tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Gaziantep'te yer alan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir alanı kaplıyor. Doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Damla Tepe, hem doğa severlerin hem de tarihe meraklı olanların ziyaret edebileceği bir yer. Burada, çeşitli bitki türleri ve zengin fauna encontrülebilir. Ayrıca, tepe etrafında tarihi eserler ve kalıntılar da bulunmakta.
+Damla Tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Gaziantep'te yer alan bir tepe. Doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. Damla Tepe, hem doğa severlerin hem de tarihe meraklı olanların ziyaret edebileceği bir yer. Burada, çeşitli bitki türleri ve zengin fauna encontrülebilir. Ayrıca, tepe etrafında tarihi eserler ve kalıntılar da bulunmakta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Damla Tepe'nin tarihi geçmişi, Gaziantep'in genel tarihi ile paralel götür. 
 
 ## Coğrafya
 
-Damla Tepe, coğrafi olarak Gaziantep'in önemli noktalarından biri. Bu tepe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepe, çevresindeki ovalar ve dağlarla birlikte güzel bir manzara sunuyor. İklim, genel olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Damla Tepe, bu coğrafi özellikleri ile ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. Ayrıca, tepe ve çevresinde çeşitli bitki türleri ve hayvanlar da encontrülebilir. Bu zengin fauna ve flora, Damla Tepe'nin doğal güzelliğini daha da artırıyor.
+Damla Tepe, coğrafi olarak Gaziantep'in önemli noktalarından biri. Tepe, çevresindeki ovalar ve dağlarla birlikte güzel bir manzara sunuyor. İklim, genel olarak Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve yağışlı geçiyor. Damla Tepe, bu coğrafi özellikleri ile ziyaretçilerine farklı mevsimlerde farklı deneyimler sunuyor. Ayrıca, tepe ve çevresinde çeşitli bitki türleri ve hayvanlar da encontrülebilir. Bu zengin fauna ve flora, Damla Tepe'nin doğal güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227465"
 
 # Mugla-Yilanli-Boyali Kızılçam
 
-Muğla-Yilanli-Boyali Kızılçam milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en büyük milli parklarından biridir. Bu milli park, Muğla'nın yeşili ile çevrili ve ziyaretçilerini doğanın güzelliği ile büyülemektedir. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ziyaretçiler, bu milli parkta doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve bölgenin güzelliğini keşfedebilirler.
+Muğla-Yilanli-Boyali Kızılçam milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biridir. Bu milli park, Muğla'nın yeşili ile çevrili ve ziyaretçilerini doğanın güzelliği ile büyülemektedir. Milli parkın içinde, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Ziyaretçiler, bu milli parkta doğa yürüyüşleri yapabilir, piknik alanlarında dinlenebilir ve bölgenin güzelliğini keşfedebilirler.
 
 ## Tarihçe
 

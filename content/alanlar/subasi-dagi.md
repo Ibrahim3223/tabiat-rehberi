@@ -50,9 +50,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları açısından, Subaşı Da�
 
 ## Flora ve Fauna
 
-Subaşı Dağı, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir bölge. Burada, 1200 hektarlık bir yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Subaşı Dağı, Hakkari'nin yüksek dağ ekolojisine ev sahipliği yapan bir bölge. Burada, 1200 hektarlık bir yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin flora, bölgenin karakteristik bir özelliğini oluşturuyor. 
+Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin flora, bölgenin karakteristik bir özelliğini oluşturuyor.
 
 Yaban Hayatı açısından, yüksek dağ ekosistemi çeşitli memeli ve kuş türlerine ev sahipliği yapıyor. Sonbaharda, göçmen kuşlar bölgeden geçerken, dağ keçileri ve diğer memeliler yaşam alanlarını koruyorlar.
 
@@ -66,7 +66,7 @@ Subaşı Dağı, Hakkari'nin doğal güzelliklerinin başında geliyor. Buraya u
 
 - Subaşı Dağı, Hakkâri ilinin Yüksekova ilçesinde yer alıyor.
 - Dağın yüksekliği hakkında net bir bilgi bulunmuyor.
-- Hakkâri ilinin coğrafi özellikleri dikkate alındığında, Subaşı Dağı'nın dağlık bir régionda bulunduğu söylenebilir.
+- Hakkâri ilinin coğrafi özellikleri dikkate alındığında, Subaşı Dağı'nın dağlık bir bölgede bulunduğu söylenebilir.
 - Subaşı Dağı'nın etrafındaki bölge, güneydoğu Anadolu bölgesinin karakteristik coğrafyasını yansıtıyor.
 - Dağ ve çevresinin flora ve fauna çeşitliliği hakkında detaylı bir araştırma bulunmuyor.
 - Subaşı Dağı ve çevresi, Hakkâri ilinin turizm potansiyeli hakkında daha fazla bilgi edinilmesi gereken bir alan olarak görünüyor.

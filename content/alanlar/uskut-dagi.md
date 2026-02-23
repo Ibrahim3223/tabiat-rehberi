@@ -28,7 +28,7 @@ wikidata_id: "Q34820456"
 
 # Üsküt Dağı
 
-Rize'nin yeşil dağları arasında gizli bir hazine olarak duran Üsküt Dağı, şehrin doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi. Rize'nin dağlık arazisi içinde yer alan bu doğa harikası, ilin turizm potansiyelini artırıyor. Üsküt Dağı, Rize'nin zengin bitki örtüsü ve farklı fauna türleriyle birlikte, ziyaretçilerine unutulmaz anlar vaat ediyor. Doğa tutkunları ve macera severler için ideal bir destinasyon olan Üsküt Dağı, Rize'nin turizm zenginliklerini keşfetmek isteyenler için bir başlangıç noktası.
+Rize'nin yeşil dağları arasında gizli bir hazine olarak duran Üsküt Dağı, şehrin doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi. Rize'nin dağlık arazisi içinde yer alan bu doğa harikası, ilin turizm potansiyelini artırıyor. Doğa tutkunları ve macera severler için ideal bir destinasyon olan Üsküt Dağı, Rize'nin turizm zenginliklerini keşfetmek isteyenler için bir başlangıç noktası.
 
 ## Tarihçe
 

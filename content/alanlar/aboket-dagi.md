@@ -48,7 +48,7 @@ Aboket Dağı'nın çevresel ilişkileri, bölgenin doğal kaynakları ve su kay
 
 ## Flora ve Fauna
 
-Aboket Dağı, nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar. 
+Aboket Dağı, nemli ikliminin hakim olduğu bir dağ ekosistemi olarak, zengin bir flora ve fauna çeşitliliğine ev sahipliği yapar.
 
 Bitki Örtüsü bölümünde, ilkbaharda dağ yamaçlarını renkli çiçekler süslerken, sonbaharda yaprakların altın sarısı ve kırmızısı ile kaplandığını görebiliriz. Gür ormanlar, yüksek biyoçeşitlili ile birlikte, dağın farklı yükseklik zonlarında çeşitli bitki türlerine ev sahipliği yapar.
 

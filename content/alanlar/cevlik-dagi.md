@@ -46,7 +46,7 @@ Doğal yapısı itibariyle, Çevlik Dağı'nın tam boyutları ve şekli hakkın
 
 Yaz ve kış mevsimlerinde farklı hava koşullarına sahip olan Çevlik Dağı, mevsimsel olarak değişen bir iklim karakterine sahiptir. Bu bölgede, yaz aylarında sıcaklık derecesi 30 dereceye kadar çıkabilirken, kış aylarında sıcaklık -5 dereceye kadar düşebilir. Bu iklimsel farklılıklar, bölgenin flora ve fauna çeşitliliğini etkileyen önemli faktörlerdir.
 
-Çevresel açıdan, Çevlik Dağı'nın komşu alanları ve su kaynakları ile bir bütün olarak düşünülmesi gerekir. Çevre bölgelerdeki su kaynakları ve ekosistem bağlantıları, bu dağların doğal yaşamının sürmesi için önemlidir. Örneğin, Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağlık région, geniş bir su toplama havzası oluşturabilir ve bölgenin su kaynaklarının korunmasına katkıda bulunabilir.
+Çevresel açıdan, Çevlik Dağı'nın komşu alanları ve su kaynakları ile bir bütün olarak düşünülmesi gerekir. Çevre bölgelerdeki su kaynakları ve ekosistem bağlantıları, bu dağların doğal yaşamının sürmesi için önemlidir. Örneğin, Monaco'nun yarısı kadar büyük bir alanı kaplayan bu dağlık bölge, geniş bir su toplama havzası oluşturabilir ve bölgenin su kaynaklarının korunmasına katkıda bulunabilir.
 
 ## Flora ve Fauna
 

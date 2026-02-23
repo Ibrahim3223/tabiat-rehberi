@@ -22,7 +22,7 @@ wikidata_id: "Q108227962"
 
 # Zonguldak-Bartin Karacam 1
 
-Zonguldak-Bartin Karacam 1 milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli ekolojik dengesini sağlayan bir noktada yer alır. Bu milli park, ziyaretçilerini doğanın içlerine davet eder ve onlara benzersiz bir deneyim sunar. Karadeniz Bölgesi'nin karakteristik yapısını taşıyan bu alan, ziyaretçilerin doğa ile iç içe olmasını sağlar. Zonguldak ili, Bartın ilçesinde bulunan bu milli park, bölgenin turizm açısından önemli noktalarından biridir. Doğal güzellikleri, zengin flora ve fauna çeşitliliği ile ziyaretçilerini bekleyen bu milli park, Karadeniz Bölgesi'nin gizli cennetlerinden biridir.
+Zonguldak-Bartin Karacam 1 milli parkı, Karadeniz Bölgesi'nin en güzel köşelerinden birini oluşturur. Bu milli park, ziyaretçilerini doğanın içlerine davet eder ve onlara benzersiz bir deneyim sunar. Karadeniz Bölgesi'nin karakteristik yapısını taşıyan bu alan, ziyaretçilerin doğa ile iç içe olmasını sağlar. Zonguldak ili, Bartın ilçesinde bulunan bu milli park, bölgenin turizm açısından önemli noktalarından biridir. Doğal güzellikleri, zengin flora ve fauna çeşitliliği ile ziyaretçilerini bekleyen bu milli park, Karadeniz Bölgesi'nin gizli cennetlerinden biridir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Zonguldak-Bartin Karacam 1 milli parkının tarihi geçmişi, bölgenin oluşumu
 
 ## Coğrafya
 
-Zonguldak-Bartin Karacam 1 milli parkı, Karadeniz Bölgesi'nin karakteristik coğrafi yapısını taşır. Bu bölge, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Milli parkın coğrafi yapısı, ormanlık alanlar, dereler ve tepe gibi çeşitli doğal oluşumları içerir. Bu bölgenin iklimi, Karadeniz ikliminin özellikleri taşır ve yağışların sut yıl boyunca görülmesi ile karakterizedir. Milli parkın yer aldığı Karadeniz Bölgesi, Türkiye'nin en önemli ormanlık alanlarına sahiptir ve bu milli park da bu ormanlık alanların bir parçasıdır. Zonguldak-Bartin Karacam 1 milli parkı, ziyaretçilerine doğanın içlerinde bir yolculuk sunar ve onları bölgenin doğal güzellikleri ile baş başa bırakır. Bu milli parkın coğrafi konumu, ziyaretçilerin doğa ile iç içe olmasını sağlar ve onlara benzersiz bir deneyim sunar.
+Zonguldak-Bartin Karacam 1 milli parkı, Karadeniz Bölgesi'nin karakteristik coğrafi yapısını taşır. Milli parkın coğrafi yapısı, ormanlık alanlar, dereler ve tepe gibi çeşitli doğal oluşumları içerir. Bu bölgenin iklimi, Karadeniz ikliminin özellikleri taşır ve yağışların sut yıl boyunca görülmesi ile karakterizedir. Milli parkın yer aldığı Karadeniz Bölgesi, Türkiye'nin en önemli ormanlık alanlarına sahiptir ve bu milli park da bu ormanlık alanların bir parçasıdır. Zonguldak-Bartin Karacam 1 milli parkı, ziyaretçilerine doğanın içlerinde bir yolculuk sunar ve onları bölgenin doğal güzellikleri ile baş başa bırakır. Bu milli parkın coğrafi konumu, ziyaretçilerin doğa ile iç içe olmasını sağlar ve onlara benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

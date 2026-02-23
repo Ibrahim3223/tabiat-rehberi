@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Türkiye'deki şelaleler listesi
 
-Adana'nın güzide ilçelerinden biri olan Aladağ, 140 hektarlık bir alan üzerinde kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu bölge, Çıtak Şelalesi ile birlikte önemli bir turizm merkezi haline gelmiştir. Şelalenin eteklerinde kurulmuş olan köyler, ziyaretçilere doğanın güzelliğini ve yaban hayatının çeşitliliğini sunmaktadır. yüksek bir konumdaten düşen şelale, çevreye serinli ve ferahlık katmaktadır.
+ Bu bölge, Çıtak Şelalesi ile birlikte önemli bir turizm merkezi haline gelmiştir. Şelalenin eteklerinde kurulmuş olan köyler, ziyaretçilere doğanın güzelliğini ve yaban hayatının çeşitliliğini sunmaktadır. yüksek bir konumdaten düşen şelale, çevreye serinli ve ferahlık katmaktadır.
 
 ## Tarihçe
 

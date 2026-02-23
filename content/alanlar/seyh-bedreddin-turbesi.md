@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Bedreddin Türbesi"
 date: "2026-01-10T05:51:30.533Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582375"
 
 # Şeyh Bedreddin Türbesi
 
-Şeyh Bedreddin Türbesi, Konya'nın Ilgın ilçesinde yer alan tarihi ve kültürel bir mekândır. Bu türbe, 140 hektarlık bir alan üzerinde kurulmuştur. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş bir görünüm sunmaktadır. Türbenin etrafı, tarihi değerlere ve doğal güzelliklere sahiptir. Bu mekan, hem tarihsel hem de kültürel açıdan önemli bir yer olarak bilinmektedir. Ziyaretçiler, bu türbeyi gezerek hem históriye hem de kültürel değerlere tanıklık edebilirler.
+Şeyh Bedreddin Türbesi, Konya'nın Ilgın ilçesinde yer alan tarihi ve kültürel bir mekândır. Bu türbe, 140 hektarlık bir alan üzerinde kurulmuştur. Türbenin etrafı, tarihi değerlere ve doğal güzelliklere sahiptir. Bu mekan, hem tarihsel hem de kültürel açıdan önemli bir yer olarak bilinmektedir. Ziyaretçiler, bu türbeyi gezerek hem tarihi hem de kültürel değerlere tanıklık edebilirler.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ wikidata_id: "Q135582375"
 
 ## Ziyaret Bilgileri
 
-Şeyh Bedreddin Türbesi, ziyaretçilere tarihi ve kültürel değerleri sunmaktadır. Ziyaretçiler, bu türbeyi gezerek hem históriye hem de kültürel değerlere tanıklık edebilirler. Türbeye ulaşım, Ilgın ilçesinden sağlanmaktadır. Ilgın'a ulaşmak için, Konya'dan düzenli olarak otobüs seferleri yapılmaktadır. Türbeye ulaştıktan sonra, ziyaretçiler tarihi ve kültürel değerleri görebilirler. Ziyaretçiler, türbenin etrafında yürüyüş yapabilir, tarihi yapıları inceleyebilir ve doğal güzelliklere tanıklık edebilirler.
+Şeyh Bedreddin Türbesi, ziyaretçilere tarihi ve kültürel değerleri sunmaktadır. Ziyaretçiler, bu türbeyi gezerek hem tarihi hem de kültürel değerlere tanıklık edebilirler. Türbeye ulaşım, Ilgın ilçesinden sağlanmaktadır. Ilgın'a ulaşmak için, Konya'dan düzenli olarak otobüs seferleri yapılmaktadır. Türbeye ulaştıktan sonra, ziyaretçiler tarihi ve kültürel değerleri görebilirler. Ziyaretçiler, türbenin etrafında yürüyüş yapabilir, tarihi yapıları inceleyebilir ve doğal güzelliklere tanıklık edebilirler.
 
 ## İlginç Bilgiler
 
@@ -53,4 +53,4 @@ wikidata_id: "Q135582375"
 - Türbenin inşası, onun anısına yapılmıştır.
 - Türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur.
 - Türbenin etrafı, tarihi değerlere ve doğal güzelliklere sahiptir.
-- Ziyaretçiler, türbeyi gezerek hem históriye hem de kültürel değerlere tanıklık edebilirler.
+- Ziyaretçiler, türbeyi gezerek hem tarihi hem de kültürel değerlere tanıklık edebilirler.

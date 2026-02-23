@@ -22,7 +22,7 @@ wikidata_id: "Q108227263"
 
 # Kastamonu-Kure Kayin
 
-Kastamonu-Kure Kayin milli parkı, Karadeniz Bölgesi'nin güzide noktalarından biri olarak, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor. Bu muhteşem milli park, Kastamonu'nun doğal güzelliklerini koruyarak, ziyaretçilerine eşsiz bir deneyim sunuyor. Kastamonu-Kure Kayin, özellikle doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul ediliyor. Milli parkın büyüklüğü ve zengin bitki örtüsü, ziyaretçilere geniş bir açık alan sunuyor. Kastamonu'nun tarihi geçmişi ve kültürel zenginliği de bu milli parkın önemini artırıyor.
+ Bu muhteşem milli park, Kastamonu'nun doğal güzelliklerini koruyarak, ziyaretçilerine eşsiz bir deneyim sunuyor. Kastamonu-Kure Kayin, özellikle doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul ediliyor. Milli parkın büyüklüğü ve zengin bitki örtüsü, ziyaretçilere geniş bir açık alan sunuyor. Kastamonu'nun tarihi geçmişi ve kültürel zenginliği de bu milli parkın önemini artırıyor.
 
 ## Tarihçe
 

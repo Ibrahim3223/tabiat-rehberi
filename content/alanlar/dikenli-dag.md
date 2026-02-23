@@ -36,7 +36,7 @@ Konya bölgesi, tarihin derinliklerinden gelen bir zenginliğe sahip. İnsanlık
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir role sahip olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla etkileşimini sağlayan temel faaliyetler arasında yer almıştır. Konya bölgesindeki doğal güzellikler, bu faaliyetlerin yürütülmesi için uygun bir zemin sunmuştur. Dikenli Dağ da, bu faaliyetlerin bir parçası olarak insanların yaşantısını etkileyen bir unsur olarak görülebilir.
 
-Bölgenin coğrafi konumu, históriki ticaret yollarının kesişme noktasında bulunması, insanların Dikenli Dağ'a ve çevresine olan ilgisini artırmıştır. Bu ilgi, sadece ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda kültürel ve sosyal etkileşimlere de yol açmıştır. Dikenli Dağ, Konya bölgesinin tarihsel zenginliğinin bir parçası olarak, insanın doğayla etkileşimini yansıtan önemli bir doğal alan olarak karşımıza çıkmaktadır.
+Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında bulunması, insanların Dikenli Dağ'a ve çevresine olan ilgisini artırmıştır. Bu ilgi, sadece ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda kültürel ve sosyal etkileşimlere de yol açmıştır. Dikenli Dağ, Konya bölgesinin tarihsel zenginliğinin bir parçası olarak, insanın doğayla etkileşimini yansıtan önemli bir doğal alan olarak karşımıza çıkmaktadır.
 
 ## Coğrafya
 
@@ -50,9 +50,9 @@ Mevsimsel olarak, Dikenli Dağ, Konya'nın karasal ikliminin etkilerini taşır.
 
 ## Flora ve Fauna
 
-Dikenli Dağ, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-1. Bitki Örtüsü: Dikenli Dağ'ın flora zenginliği, mevsimsel değişimlerle birlikte değişiyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanıyor. Step bitki örtüsü ve bozkır türleri, kuraklığa adapte olmuş bitkilerle birlikte dağ ekosisteminin temelini oluşturuyor. 
-2. Yaban Hayatı: Dağ, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunuyor. Konya'nın step ve bozkır ekosistemine özgü türler, Dikenli Dağ'ın yaban hayatı için önemli bir bileşen oluşturuyor. 
+Dikenli Dağ, Konya'nın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+1. Bitki Örtüsü: Dikenli Dağ'ın flora zenginliği, mevsimsel değişimlerle birlikte değişiyor. İlkbahar aylarında, dağ yamaçları rengarenk çiçeklerle donanıyor. Step bitki örtüsü ve bozkır türleri, kuraklığa adapte olmuş bitkilerle birlikte dağ ekosisteminin temelini oluşturuyor.
+2. Yaban Hayatı: Dağ, memeliler, kuşlar ve sürüngenler için bir yaşam alanı sunuyor. Konya'nın step ve bozkır ekosistemine özgü türler, Dikenli Dağ'ın yaban hayatı için önemli bir bileşen oluşturuyor.
 3. Ekolojik Değer: Dikenli Dağ, bölge ekosistemine sağladığı hizmetlerle önemli bir rol oynuyor. Bu dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve ekolojik dengesini korumak için kritik öneme sahip.
 
 ## Ziyaret Bilgileri

@@ -28,7 +28,7 @@ wikidata_id: "Q31568790"
 
 # Doğma Tepesi
 
-Doğma Tepesi, Zonguldak ilinin Karadeniz Bölgesi'nde yer alan, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık geniş bir alanı kaplayan doğal bir güzelliktir. Bu tepe, bölgenin en önemli turizm noktalarından biri olarak kabul edilir. Doğma Tepesi, ziyaretçilerine büyüleyici bir manzara sunar. Tepenin eteklerinde yer alan köyler ve kasabalar, tarihi ve kültürel açıdan oldukça zengindir. Doğma Tepesi, hem doğal güzelliği hem de tarihi ve kültürel zenginliği ile ziyaretçilerini cezbeder.
+ Bu tepe, bölgenin en önemli turizm noktalarından biri olarak kabul edilir. Doğma Tepesi, ziyaretçilerine büyüleyici bir manzara sunar. Tepenin eteklerinde yer alan köyler ve kasabalar, tarihi ve kültürel açıdan oldukça zengindir. Doğma Tepesi, hem doğal güzelliği hem de tarihi ve kültürel zenginliği ile ziyaretçilerini cezbeder.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Doğma Tepesi, Karadeniz Bölgesi'nin coğrafi yapısında önemli bir yere sahi
 
 ## Flora ve Fauna
 
-Doğma Tepesi, flora ve fauna açısından oldukça zengindir. Tepenin çevresinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitki türleri, tepeye ren ve canlılık katar. Tepede, çeşitli hayvan türleri de bulunur. Bu hayvan türleri, tepeye canlılık kazandırır. Mevsimsel değişimler, tepeyi farklı bir görünüm kazandırır. İlkbahar ve yaz aylarında, tepeye renk katan bitki türleri, sonbahar ve kış aylarında ise tepeyi beyaz bir örtüye büründürür. Doğma Tepesi, flora ve fauna açısından zengin bir yapıya sahiptir.
+ Tepenin çevresinde, çeşitli bitki türleri ve ağaçlar bulunur. Bu bitki türleri, tepeye ren ve canlılık katar. Tepede, çeşitli hayvan türleri de bulunur. Bu hayvan türleri, tepeye canlılık kazandırır. Mevsimsel değişimler, tepeyi farklı bir görünüm kazandırır. İlkbahar ve yaz aylarında, tepeye renk katan bitki türleri, sonbahar ve kış aylarında ise tepeyi beyaz bir örtüye büründürür. Doğma Tepesi, flora ve fauna açısından zengin bir yapıya sahiptir.
 
 ## Ziyaret Bilgileri
 
@@ -50,6 +50,6 @@ Doğma Tepesi'ni ziyaret etmek, oldukça keyifli bir deneyimdir. Tepenin manzara
 
 - Doğma Tepesi, 140 hektarlık bir alanı kaplar.
 - Tepenin yüksekliği, bölgenin diğer noktalarına göre oldukça yüksektir.
-- Doğma Tepesi, flora ve fauna açısından oldukça zengindir.
+
 - Tepenin eteklerinde, çeşitli akarsular ve dereler bulunur.
 - Doğma Tepesi, ziyaretçilerine keyifli bir deneyim sunar.

@@ -1,7 +1,7 @@
 ---
 title: "Pertev Paşa Hamamı"
 date: "2026-01-09T23:34:37.931Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın Vilayeti"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739121"
 
 # Pertev Paşa Hamamı
 
-Pertev Paşa Hamamı, İç Anadolu Bölgesi'nin Aydın Vilayeti'ndeki İzmit ilçesinde yer alan, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir bölgede bulunmaktadır. Bu tarihi hamam, ziyaretçilerini hem doğa güzelliği ile hem de kültürel zenginliğiyle cezbeden bir destinasyondur. Pertev Paşa Hamamı'nın tarihi geçmişi, bölgenin zengin kültürel mirasının önemli bir parçasını oluşturmaktadır.
+ Bu tarihi hamam, ziyaretçilerini hem doğa güzelliği ile hem de kültürel zenginliğiyle cezbeden bir destinasyondur. Pertev Paşa Hamamı'nın tarihi geçmişi, bölgenin zengin kültürel mirasının önemli bir parçasını oluşturmaktadır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Pertev Paşa Hamamı'nın tarihi geçmişi, İç Anadolu Bölgesi'nin kültürel
 
 ## Coğrafya
 
-Pertev Paşa Hamamı, İç Anadolu Bölgesi'nin Aydın Vilayeti'ndeki İzmit ilçesinde yer almaktadır. Bu hamam, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir bölgede bulunmaktadır. Pertev Paşa Hamamı'nın coğrafi konumu, ziyaretçilerine, doğa güzelliği ile birlikte, kültürel zenginliği keşfetme fırsatı sunmaktadır. Bu hamam, bölgenin iklimini ve coğrafi özelliklerini yansıtan, önemli bir destinasyondur. Pertev Paşa Hamamı, ziyaretçilerine, İç Anadolu Bölgesi'nin coğrafi güzelliğini ve kültürel zenginliğini keşfetme fırsatı sunmaktadır. Bu hamam, bölgenin önemli bir turizm merkezi olarak, ziyaretçilerini beklemektedir.
+Pertev Paşa Hamamı, İç Anadolu Bölgesi'nin Aydın Vilayeti'ndeki İzmit ilçesinde yer almaktadır. Pertev Paşa Hamamı'nın coğrafi konumu, ziyaretçilerine, doğa güzelliği ile birlikte, kültürel zenginliği keşfetme fırsatı sunmaktadır. Bu hamam, bölgenin iklimini ve coğrafi özelliklerini yansıtan, önemli bir destinasyondur. Pertev Paşa Hamamı, ziyaretçilerine, İç Anadolu Bölgesi'nin coğrafi güzelliğini ve kültürel zenginliğini keşfetme fırsatı sunmaktadır. Bu hamam, bölgenin önemli bir turizm merkezi olarak, ziyaretçilerini beklemektedir.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Pertev Paşa Hamamı, ziyaretçilerine, doğa güzelliği ile birlikte, kültür
 
 ## İlginç Bilgiler
 
-- Pertev Paşa Hamamı, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde bir bölgede bulunmaktadır.
 - Bu hamam, yüzyıllar boyunca bölgenin önemli bir kültür merkezi olarak hizmet vermiştir.
 - Pertev Paşa Hamamı, bölgenin önemli bir turizm merkezi olarak, ziyaretçilerini beklemektedir.
 - Bu hamam, ziyaretçilerine, doğa güzelliği ile birlikte, kültürel zenginliği keşfetme fırsatı sunmaktadır.

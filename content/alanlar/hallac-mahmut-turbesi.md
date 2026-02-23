@@ -1,7 +1,7 @@
 ---
 title: "Hallac Mahmut Türbesi"
 date: "2026-01-10T06:14:40.330Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390667"
 
 # Hallac Mahmut Türbesi
 
-Hallac Mahmut Türbesi, Ankara'nın Altındağ ilçesinde yer alan tarihi bir yapıdır. Bu önemli ziyaret noktası, şehrin kalabalık ve hareketli yaşamından uzaklaşmak isteyenler için bir sığınak olarak düşünülebilir. 140 hektarlık bir alanın içinde bulunan türbe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu geniş alan, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak tanır. Hallac Mahmut Türbesi, Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
+Hallac Mahmut Türbesi, Ankara'nın Altındağ ilçesinde yer alan tarihi bir yapıdır. Bu önemli ziyaret noktası, şehrin kalabalık ve hareketli yaşamından uzaklaşmak isteyenler için bir sığınak olarak düşünülebilir. Bu geniş alan, ziyaretçilerin doğayı ve tarihi bir arada deneyimlemesine olanak tanır. Hallac Mahmut Türbesi, Ankara'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 

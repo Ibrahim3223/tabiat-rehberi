@@ -22,7 +22,7 @@ wikidata_id: "Q108227169"
 
 # Oniki Kardesler
 
-Oniki Kardesler milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alandan oluşuyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplı. Parkın ismi, burada bulunan 12 tepeye atıfta bulunuyor. Her bir tepe, benzersiz bir manzara sunuyor ve ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı veriyor. Oniki Kardesler, doğa severler ve macera arayanlar için ideal bir destinasyon.
+Oniki Kardesler milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir alandan oluşuyor. Parkın ismi, burada bulunan 12 tepeye atıfta bulunuyor. Her bir tepe, benzersiz bir manzara sunuyor ve ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı veriyor. Oniki Kardesler, doğa severler ve macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

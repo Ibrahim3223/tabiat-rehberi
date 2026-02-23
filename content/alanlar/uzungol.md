@@ -52,9 +52,9 @@ Uzungöl'ün çevresi, zengin bir ekosisteme ev sahipliği yapıyor. Göller, or
 
 ## Flora ve Fauna
 
-Uzungöl, Muş'un güzide bölgelerinden biri, 1200 hektarlık bir yeşil cennet. Bu step bitki örtüsü ve bozkırın hakim olduğu bölgede, kuraklığa adapte olmuş türler göze çarpar. 
-İlkbaharla birlikte, gölün etrafı renkli çiçeklerle donanır. Sulak alan bitkileri, su kuşları ve balıkların yaşam alanıdır. 
-Gölün yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Sonbaharda, göçmen kuşlar gölde konaklar, bu da bölgeyi önemli bir ekolojik merkez haline getirir. 
+Uzungöl, Muş'un güzide bölgelerinden biri, 1200 hektarlık bir yeşil cennet. Bu step bitki örtüsü ve bozkırın hakim olduğu bölgede, kuraklığa adapte olmuş türler göze çarpar.
+İlkbaharla birlikte, gölün etrafı renkli çiçeklerle donanır. Sulak alan bitkileri, su kuşları ve balıkların yaşam alanıdır.
+Gölün yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Sonbaharda, göçmen kuşlar gölde konaklar, bu da bölgeyi önemli bir ekolojik merkez haline getirir.
 Bu ekosistem, canlıların birbirine bağımlı olduğu bir döngüyü oluşturur. Uzungöl'ün koruma durumu, bölgenin doğal dengesini korumak için önemlidir.
 
 ## Ziyaret Bilgileri

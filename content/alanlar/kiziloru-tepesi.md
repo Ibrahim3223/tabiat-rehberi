@@ -28,7 +28,7 @@ wikidata_id: "Q32211305"
 
 # Kızılörü Tepesi
 
-Kızılörü Tepesi, Antalya'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Doğal güzelliği ve manzarasıyla ziyaretçilerini etkileyen bu tepe, özellikle gün batımı saatlerinde muhteşem bir görünüm sunuyor. Ziyaretçiler, bu tepenin eteklerinde yer alan köyleri ve tarihi yapıları keşfedebilir, aynı zamanda bölgenin zengin fauna ve florasını gözlemleyebilirler.
+Kızılörü Tepesi, Antalya'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon. Doğal güzelliği ve manzarasıyla ziyaretçilerini etkileyen bu tepe, özellikle gün batımı saatlerinde muhteşem bir görünüm sunuyor. Ziyaretçiler, bu tepenin eteklerinde yer alan köyleri ve tarihi yapıları keşfedebilir, aynı zamanda bölgenin zengin fauna ve florasını gözlemleyebilirler.
 
 ## Tarihçe
 

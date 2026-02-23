@@ -1,7 +1,7 @@
 ---
 title: "Halı ve Kilim Müzesi"
 date: "2026-01-10T15:18:58.854Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949463"
 
 # Halı ve Kilim Müzesi
 
-İstanbul'un kalbinde yer alan Halı ve Kilim Müzesi, 140 hektarlık bir alan üzerinde kurulu. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir sanat ve kültür deneyimi sunuyor. Müzenin koleksiyonunda, farklı dönemlere ait çeşitli halı ve kilimler yer alıyor. Her bir eser, Türk sanatının zenginliğini ve çeşitliliğini gösteriyor. Ziyaretçiler, bu eşsiz koleksiyonu keşfederek Türk kültürünü daha yakından tanıyabilirler.
+İstanbul'un kalbinde yer alan Halı ve Kilim Müzesi, 140 hektarlık bir alan üzerinde kurulu. Müzenin koleksiyonunda, farklı dönemlere ait çeşitli halı ve kilimler yer alıyor. Her bir eser, Türk sanatının zenginliğini ve çeşitliliğini gösteriyor. Ziyaretçiler, bu eşsiz koleksiyonu keşfederek Türk kültürünü daha yakından tanıyabilirler.
 
 ## Tarihçe
 

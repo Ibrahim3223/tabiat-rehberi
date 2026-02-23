@@ -29,7 +29,7 @@ wikidata_id: "Q131739201"
 
 # Arykanda Naltepesi Yapı Grubu
 
-Arykanda Naltepesi Yapı Grubu, Finike ilçesinde yer alan ve tarihi önemi yüksek olan bir yapı grubudur. Bu alan, 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde düşünülebilir. Arykanda Naltepesi, Akdeniz Bölgesi'nin önemli bir parçasıdır ve ziyaretçilerine tarihin derinliklerine inme fırsatı sunar. Arykanda'nın tarihi geçmişi, ziyaretçilerini kendine çeker ve bölgeyi keşfetmek isteyenler için bir hazine gibidir.
+Arykanda Naltepesi Yapı Grubu, Finike ilçesinde yer alan ve tarihi önemi yüksek olan bir yapı grubudur. Arykanda Naltepesi, Akdeniz Bölgesi'nin önemli bir parçasıdır ve ziyaretçilerine tarihin derinliklerine inme fırsatı sunar. Arykanda'nın tarihi geçmişi, ziyaretçilerini kendine çeker ve bölgeyi keşfetmek isteyenler için bir hazine gibidir.
 
 ## Tarihçe
 

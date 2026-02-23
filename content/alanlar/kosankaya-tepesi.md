@@ -28,7 +28,7 @@ wikidata_id: "Q31390069"
 
 # Koşankaya Tepesi
 
-Koşankaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini büyüleyen bir manzaraya sahiptir. Koşankaya Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından oldukça elverişlidir. Bu tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyondur.
+Koşankaya Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Koşankaya Tepesi, Ankara'nın merkezine uzun bir mesafe uzaklıkta yer alır ve ulaşım açısından oldukça elverişlidir. Bu tepe, hem doğa severlerin hem de tarih meraklılarının ilgisini çeken bir destinasyondur.
 
 ## Tarihçe
 

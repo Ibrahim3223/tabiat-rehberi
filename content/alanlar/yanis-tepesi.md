@@ -28,7 +28,7 @@ wikidata_id: "Q31576802"
 
 # Yanış Tepesi
 
-Yanış Tepesi, Şanlıurfa'nın Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Ayrıca, tepenin üstünden şehrin panoramik manzarasını izleme mümkün. Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği nokta olarak kabul edilen Yanış Tepesi, ziyaretçilerini bekliyor. Tepenin eteklerinde, tarihi eserler ve kalıntılar bulunmakta.
+Yanış Tepesi, Şanlıurfa'nın Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe. Bu tepenin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrili. Ayrıca, tepenin üstünden şehrin panoramik manzarasını izleme mümkün. Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği nokta olarak kabul edilen Yanış Tepesi, ziyaretçilerini bekliyor. Tepenin eteklerinde, tarihi eserler ve kalıntılar bulunmakta.
 
 ## Tarihçe
 

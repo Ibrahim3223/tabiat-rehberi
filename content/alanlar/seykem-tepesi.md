@@ -28,7 +28,7 @@ wikidata_id: "Q31389395"
 
 # Seykem Tepesi
 
-Seykem Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu bölge, yüzyıllar boyunca insanların yaşadığı ve çeşitli medeniyetlerin izlerini taşıyan tarihi bir yer. Seykem Tepesi, ziyaretçilerini doğanın güzelliği ve tarihi geçmişi ile büyülemektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte önemli bir doğa alanı olarak dikkat çekiyor.
+ Bu bölge, yüzyıllar boyunca insanların yaşadığı ve çeşitli medeniyetlerin izlerini taşıyan tarihi bir yer. Seykem Tepesi, ziyaretçilerini doğanın güzelliği ve tarihi geçmişi ile büyülemektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Seykem Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge,
 
 ## Coğrafya
 
-Seykem Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Bu bölge, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Seykem Tepesi'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu bölge, Akdeniz ikliminin özellikleri ile birlikte, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşıyor. Seykem Tepesi'nin çevresi, genellikle ormanlık alanlar ve tarım arazileri ile kaplı. Bu bölge, yaban hayatı ve flora ile birlikte, önemli bir doğa alanı olarak kabul ediliyor. Seykem Tepesi, Mersin'in önemli coğrafi noktalarından biri olarak dikkat çekiyor.
+Seykem Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir tepe. Seykem Tepesi'nin coğrafyası, genellikle dağlık ve engebeli arazilerden oluşuyor. Bu bölge, Akdeniz ikliminin özellikleri ile birlikte, sıcak ve kurak yazlar ile ılık ve yağışlı kışlar yaşıyor. Seykem Tepesi'nin çevresi, genellikle ormanlık alanlar ve tarım arazileri ile kaplı. Bu bölge, yaban hayatı ve flora ile birlikte, önemli bir doğa alanı olarak kabul ediliyor. Seykem Tepesi, Mersin'in önemli coğrafi noktalarından biri olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Seykem Tepesi, ziyaretçilerini doğanın güzelliği ve tarihi geçmişi ile b�
 
 ## İlginç Bilgiler
 
-- Seykem Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu bölge, yüzyıllar boyunca insanların yaşadığı ve çeşitli medeniyetlerin izlerini taşıyan tarihi bir yer.
 - Seykem Tepesi, Mersin'in önemli tarihi ve coğrafi noktalarından biri olarak dikkat çekiyor.
 - Bu bölge, yaban hayatı ve flora ile birlikte, önemli bir doğa alanı olarak kabul ediliyor.

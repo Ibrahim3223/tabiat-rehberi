@@ -28,7 +28,7 @@ wikidata_id: "Q31550616"
 
 # Guhatadarika Tepesi
 
-Guhatadarika Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Guhatadarika Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılıyor. Tepenin etrafında bulunan tarihi yapılar ve doğal güzellikler, ziyaretçilerin ilgisini çekiyor. Guhatadarika Tepesi, Mardin'in en önemli turistik noktalarından biri olarak kabul ediliyor.
+Guhatadarika Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta. Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Guhatadarika Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılıyor. Tepenin etrafında bulunan tarihi yapılar ve doğal güzellikler, ziyaretçilerin ilgisini çekiyor. Guhatadarika Tepesi, Mardin'in en önemli turistik noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

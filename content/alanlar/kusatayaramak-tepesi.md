@@ -28,7 +28,7 @@ wikidata_id: "Q32211108"
 
 # Küşatayaramak Tepesi
 
-Küşatayaramak Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapladığı için ziyaretçilerini etkilemektedir. Tepenin eteklerinde bulunan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar. Tepenin zirvesine çıkıldığında, çevredeki köylerin ve doğal güzelliklerin manzarası izlenebilir. Bu manzara, özellikle gün batımında daha da güzelleşir.
+Küşatayaramak Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Tepenin eteklerinde bulunan köyler, ziyaretçilere yerel kültürü tanıma fırsatı sunar. Tepenin zirvesine çıkıldığında, çevredeki köylerin ve doğal güzelliklerin manzarası izlenebilir. Bu manzara, özellikle gün batımında daha da güzelleşir.
 
 ## Tarihçe
 

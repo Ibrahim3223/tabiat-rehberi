@@ -1,7 +1,7 @@
 ---
 title: "Şekmeti Mehmet Efendi Türbesi"
 date: "2026-01-10T05:00:05.908Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"

@@ -1,7 +1,7 @@
 ---
 title: "Nuruosmaniye Türbesi"
 date: "2026-01-10T07:43:39.697Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391143"
 
 # Nuruosmaniye Türbesi
 
-Nuruosmaniye Türbesi, İstanbul'un tarihi merkezi olan Fatih ilçesinde yer alan bir türbedir. Bu türbe, Osmanlı İmparatorluğu döneminde yapılmış ve önemli tarihi değere sahiptir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğündedir. Türbe ve çevresinin keşfi, ziyaretçilere tarihi ve kültürel bir deneyim sunar. Türbenin mimarisi, Osmanlı dönemi mimari özelliklerini taşır ve ziyaretçilerin ilgisini çeker.
+Nuruosmaniye Türbesi, İstanbul'un tarihi merkezi olan Fatih ilçesinde yer alan bir türbedir. Bu türbe, Osmanlı İmparatorluğu döneminde yapılmış ve önemli tarihi değere sahiptir. Türbe ve çevresinin keşfi, ziyaretçilere tarihi ve kültürel bir deneyim sunar. Türbenin mimarisi, Osmanlı dönemi mimari özelliklerini taşır ve ziyaretçilerin ilgisini çeker.
 
 ## Tarihçe
 

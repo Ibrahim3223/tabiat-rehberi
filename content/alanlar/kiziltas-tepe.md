@@ -28,7 +28,7 @@ wikidata_id: "Q31390119"
 
 # Kızıltaş Tepe
 
-Kızıltaş Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar. Bu tepe, bölgenin coğrafi yapısını oluşturan önemli bir noktadır. Burada doğa yürüyüşleri yapmak, manzarayı seyretme ve tarihi geçmişi keşfetme mümkündür. Kızıltaş Tepe, Antalya'nın turizm açısından önemli noktalarından biridir ve her yıl birçok ziyaretçi tarafından tercih edilir.
+Kızıltaş Tepe, Antalya'nın Akdeniz Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, bölgenin coğrafi yapısını oluşturan önemli bir noktadır. Burada doğa yürüyüşleri yapmak, manzarayı seyretme ve tarihi geçmişi keşfetme mümkündür. Kızıltaş Tepe, Antalya'nın turizm açısından önemli noktalarından biridir ve her yıl birçok ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 

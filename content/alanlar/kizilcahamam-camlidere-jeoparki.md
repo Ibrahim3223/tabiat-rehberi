@@ -1,7 +1,7 @@
 ---
 title: "Kızılcahamam-Çamlıdere Jeoparkı"
 date: "2026-01-09T21:58:58.970Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Ankara"
@@ -24,7 +24,7 @@ wikidata_id: "Q20472992"
 
 # Kızılcahamam-Çamlıdere Jeoparkı
 
-Kızılcahamam-Çamlıdere Jeoparkı, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Çamlıdere ilçesinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın güzelliğini sunar. Bu doğal alan, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Jeopark, eşsiz coğrafyası ve zengin florası ile ziyaretçilerini büyüler. Burada, yaban hayatının çeşitliliği ve bölgenin tarihi geçmişi hakkında bilgi edinebilirsiniz. Ziyaretçilerin, bu benzersiz doğal alanı keşfetmeleri ve doğanın güzelliğini deneyimlemeleri önerilir.
+Kızılcahamam-Çamlıdere Jeoparkı, İç Anadolu Bölgesi'nin kalbinde, Ankara'nın Çamlıdere ilçesinde yer alır. Bu doğal alan, hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Jeopark, eşsiz coğrafyası ve zengin florası ile ziyaretçilerini büyüler. Burada, yaban hayatının çeşitliliği ve bölgenin tarihi geçmişi hakkında bilgi edinebilirsiniz. Ziyaretçilerin, bu benzersiz doğal alanı keşfetmeleri ve doğanın güzelliğini deneyimlemeleri önerilir.
 
 ## Tarihçe
 

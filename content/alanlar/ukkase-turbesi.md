@@ -1,7 +1,7 @@
 ---
 title: "Ukkaşe Türbesi"
 date: "2026-01-10T04:33:34.143Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -28,7 +28,7 @@ wikidata_id: "Q117192585"
 
 # Ukkaşe Türbesi
 
-Ukkaşe Türbesi, Gaziantep'in zengin tarihi ve doğal güzelliklerinin birleştiği bir mekan olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin önemli kültür merkezlerinden biri olan bu bölge, ziyaretçilerini tarihin sayfalarına götürmeyi başarıyor. 140 hektarlık bir alanı kaplayan Ukkaşe Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Bu geniş alan, ziyaretçilere tarihin ve doğanın iç içe geçtiği bir atmosfer sunuyor.
+Ukkaşe Türbesi, Gaziantep'in zengin tarihi ve doğal güzelliklerinin birleştiği bir mekan olarak dikkat çekiyor. Güneydoğu Anadolu Bölgesi'nin önemli kültür merkezlerinden biri olan bu bölge, ziyaretçilerini tarihin sayfalarına götürmeyi başarıyor. Bu geniş alan, ziyaretçilere tarihin ve doğanın iç içe geçtiği bir atmosfer sunuyor.
 
 ## Tarihçe
 

@@ -33,9 +33,9 @@ Artvin'in yeşille mavinin buluştuğu noktasında, Altıparmak Dağı doğa sev
 
 ## Tarihçe
 
-Artvin bölgesinde yer alan Altıparmak Dağı, binlerce yıl öncesine dayanan tarihsel bir geçmişe sahiptir. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak bilinir. Antik Çağ'da Pontus Krallığı'nın, ardından Roma ve Bizans İmparatorluğu'nun egemenliğinde kalan bölge, 11. yüzyılda Türklerin yerleşimine sahne olmuştur. 
+Artvin bölgesinde yer alan Altıparmak Dağı, binlerce yıl öncesine dayanan tarihsel bir geçmişe sahiptir. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak bilinir. Antik Çağ'da Pontus Krallığı'nın, ardından Roma ve Bizans İmparatorluğu'nun egemenliğinde kalan bölge, 11. yüzyılda Türklerin yerleşimine sahne olmuştur.
 
-Bu doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasını oluşturur. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bölgenin ekonomisini ve kültürünü şekillendirmiştir. Ticaret yolları boyunca kurulan yerleşim yerleri ve kaleler, bölgenin stratejik önemini vurgular. 
+Bu doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasını oluşturur. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bölgenin ekonomisini ve kültürünü şekillendirmiştir. Ticaret yolları boyunca kurulan yerleşim yerleri ve kaleler, bölgenin stratejik önemini vurgular.
 
 Altıparmak Dağı gibi doğal güzellikler, bölgenin kültürel ve ekonomik zenginliğinin bir parçası olarak görülebilir. İnsan yerleşimlerinin ve faaliyetlerinin, bu doğal alanlarla iç içe geçtiği bir coğrafyada, tarihin izleri masih bir şekilde korunmaktadır. Bu bağlamda, Altıparmak Dağı'nın tarihsel önemi, sadece bir doğal güzelliğin ötesinde, binlerce yıllık bir kültürel mirası temsil etmektedir.
 

@@ -34,7 +34,7 @@ wikidata_id: "Q49343906"
 
 ## Tarihçe
 
-İncesu Kanyonu, Türkiye'nin doğal mirasının önemli bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin sâu sayfalarında gizli kalan birçok uygarlığa ev sahipliği yapmış. Hitit, Roma ve Osmanlı gibi büyük medeniyetler, bu topraklarda yaşamış ve izler bırakmış. 
+İncesu Kanyonu, Türkiye'nin doğal mirasının önemli bir parçası olarak karşımıza çıkıyor. Bu bölge, tarihin derin sayfalarında gizli kalan birçok uygarlığa ev sahipliği yapmış. Hitit, Roma ve Osmanlı gibi büyük medeniyetler, bu topraklarda yaşamış ve izler bırakmış.
 
 İncesu Kanyonu'nun bulunduğu bölge, tarihi İpek Yolu üzerinde yer alıyor. Bu önemli ticaret yolu, Asya ve Avrupa arasındakiiyeti kolaylaştırmış ve bölgenin stratejik önemini artırmış. Aynı zamanda, kanyonun çevresindeki dağlık alanlar, yaylacılık ve hayvancılık için elverişli bir ortam sunuyor. Bu reason, bölgenin insan yerleşimine ve ekonomik faaliyetlere uygunluğunu gösteriyor.
 

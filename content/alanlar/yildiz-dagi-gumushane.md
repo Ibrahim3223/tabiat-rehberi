@@ -29,7 +29,7 @@ wikidata_id: "Q34822332"
 
 # Yıldız Dağı (Gümüşhane)
 
-Gümüşhane'nin doğal güzelliklerini keşfetmek isteyenler için Yıldız Dağı, önemli bir destinasyon. Bu dağ, Gümüşhane ilinin sınırları içinde yer alıyor. Bölge, doğa tutkunları için bir cennet gibi. 
+Gümüşhane'nin doğal güzelliklerini keşfetmek isteyenler için Yıldız Dağı, önemli bir destinasyon. Bu dağ, Gümüşhane ilinin sınırları içinde yer alıyor. Bölge, doğa tutkunları için bir cennet gibi.
 Yıldız Dağı, ziyaretçilerini bekliyor.
 
 ## Tarihçe
@@ -52,9 +52,9 @@ Bölgenin ekosistemini tamamlayan Yıldız Dağı, komşu alanlarla birlikte, bi
 
 ## Flora ve Fauna
 
-Yıldız Dağı, Gümüşhane'nin nemli ikliminin hakim olduğu bir bölgede, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çeker. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı flora ve fauna türleri bulunur. 
+Yıldız Dağı, Gümüşhane'nin nemli ikliminin hakim olduğu bir bölgede, gür ormanlar ve yüksek biyoçeşitlili ile dikkat çeker. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak farklı flora ve fauna türleri bulunur.
 
-İlkbaharda, 1200 metre yükseklikteki ormanlarda çiçekler açar ve dağ eteklerinde otlar yeşerir. Sonbaharda ise, göç eden kuşlar dağları aşarken, ormanlar renk cümbüşüne bürünür. Bitki örtüsünün hakim türleri arasında çam, köknar ve kayın ağaçları bulunur. 
+İlkbaharda, 1200 metre yükseklikteki ormanlarda çiçekler açar ve dağ eteklerinde otlar yeşerir. Sonbaharda ise, göç eden kuşlar dağları aşarken, ormanlar renk cümbüşüne bürünür. Bitki örtüsünün hakim türleri arasında çam, köknar ve kayın ağaçları bulunur.
 
 Yaban hayatı da oldukça zengin olan Yıldız Dağı'nda, memeliler, kuşlar ve sürüngenler yaşam alanlarını paylaşır. Dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, ormanların derinliklerinde yaşarken, kartallar ve şahinler gibi yırtıcı kuşlar dağların yüksekliklerinde uçarlar. Ekolojik değerini koruma altına almak, bu dağ ekosisteminin sürekliliğini sağlamak için önemlidir.
 

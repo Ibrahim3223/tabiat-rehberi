@@ -29,7 +29,7 @@ wikidata_id: "Q134728321"
 
 # Bin Tepeler Tümülüsü 52
 
-Bin Tepeler Tümülüsü 52, Ege Bölgesi'nin Salihli ilçesinde, Manisa ilinin zengin tarihi ve kültürel miraslarından biridir. 52 numaralı tümülüs, diğer tümülüsler gibi, önemli tarihi ve arkeolojik değerlere sahiptir. Bu tümülüsler, bölgenin tarihini ve kültürel çeşitliliğini yansıtan önemli noktalar olarak kabul edilir. Bin Tepeler Tümülüsü 52, yaklaşık 140 hektarlık bir alanda yer alır ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bu geniş alan, ziyaretçilerin tarihi ve kültürel zenginlikleri keşfetmelerine olanak tanır.
+Bin Tepeler Tümülüsü 52, Ege Bölgesi'nin Salihli ilçesinde, Manisa ilinin zengin tarihi ve kültürel miraslarından biridir. 52 numaralı tümülüs, diğer tümülüsler gibi, önemli tarihi ve arkeolojik değerlere sahiptir. Bu tümülüsler, bölgenin tarihini ve kültürel çeşitliliğini yansıtan önemli noktalar olarak kabul edilir. Bu geniş alan, ziyaretçilerin tarihi ve kültürel zenginlikleri keşfetmelerine olanak tanır.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Bin Tepeler Tümülüsü 52'yi ziyaret etmek, ziyaretçilerin bölge hakkında d
 ## İlginç Bilgiler
 
 - Bin Tepeler Tümülüsü 52, Ege Bölgesi'nin önemli tarihi ve kültürel miraslarından biridir.
-- Tümülüs, yaklaşık 140 hektarlık bir alanda yer alır ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Bölge, çeşitli bitki türleri ve fauna ile çevrilidir.
 - İlkbahar ve yaz ayları, ziyaret için en uygun zamandır.
 - Ziyaretçiler, tümülüsü ziyaret ederken, bölgenin tarihini, kültürünü ve coğrafyasını keşfetmek için yeterli zaman ayırmalıdır.

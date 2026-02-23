@@ -1,7 +1,7 @@
 ---
 title: "Kaunos Roma Hamamı"
 date: "2026-01-09T22:40:01.768Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738762"
 
 # Kaunos Roma Hamamı
 
-Kaunos Roma Hamamı, Köyceğiz ilçesinde yer alan ve Ege Bölgesi'nin önemli turistik mekanlarından biri olan tarihi bir yapıdır. Bu hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alana yayılmaktadır. Tarihi geçmişi olan bu mekan, ziyaretçiler için hem kültür hem de tarih açısından önemli bir deneyimi sunar. Kaunos Roma Hamamı'nın bulunduğu bölge, zengin bir flora ve fauna ile çevrilidir ve ziyaretçiler, bu tarihi yapıyı gezdikten sonra çevredeki doğal güzellikleri keşfedebilir.
+Kaunos Roma Hamamı, Köyceğiz ilçesinde yer alan ve Ege Bölgesi'nin önemli turistik mekanlarından biri olan tarihi bir yapıdır. Tarihi geçmişi olan bu mekan, ziyaretçiler için hem kültür hem de tarih açısından önemli bir deneyimi sunar. Kaunos Roma Hamamı'nın bulunduğu bölge, zengin bir flora ve fauna ile çevrilidir ve ziyaretçiler, bu tarihi yapıyı gezdikten sonra çevredeki doğal güzellikleri keşfedebilir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Yusuf Oğlu Ahmet Bey Türbesi"
 date: "2026-01-10T05:37:15.744Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582174"
 
 # Yusuf Oğlu Ahmet Bey Türbesi
 
-Yusuf Oğlu Ahmet Bey Türbesi, Manisa'nın Gölmarmara ilçesinde yer alan tarihi bir türbe ve plajdır. Bu bölge, Ege Bölgesi'nin zengin tarihini ve doğal güzelliğini bir araya getirmesiyle dikkat çekmektedir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir alan tanımaktadır. Burada, hem tarihi bir türbeyi ziyaret edebilecek hem de deniz ve güneşin tadını çıkarabileceksiniz. Bu eşsiz kombinasyon, Yusuf Oğlu Ahmet Bey Türbesi'ni ziyaretçilerin gözdesi haline getirmektedir.
+Yusuf Oğlu Ahmet Bey Türbesi, Manisa'nın Gölmarmara ilçesinde yer alan tarihi bir türbe ve plajdır. Bu bölge, Ege Bölgesi'nin zengin tarihini ve doğal güzelliğini bir araya getirmesiyle dikkat çekmektedir. Burada, hem tarihi bir türbeyi ziyaret edebilecek hem de deniz ve güneşin tadını çıkarabileceksiniz. Bu eşsiz kombinasyon, Yusuf Oğlu Ahmet Bey Türbesi'ni ziyaretçilerin gözdesi haline getirmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yusuf Oğlu Ahmet Bey Türbesi, tarihi geçmişiyle dikkat çekmektedir. Yüzyı
 
 ## Coğrafya
 
-Yusuf Oğlu Ahmet Bey Türbesi, Gölmarmara'nın güzel kıyı şeridinde yer almaktadır. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve ziyaretçilere güzel bir manzara sunar. Türbenin yakınında bulunan plaj, deniz ve güneşin tadını çıkarmak için ideal bir yerdir. Bölgenin iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak, yazları sıcak ve kışları ılımandır. Çevre, doğa severler için çeşitli aktivitelere olanak sağlamakta ve ziyaretçilere geniş bir faaliyet yelpazesi sunmaktadır. 180 hektarlık bir çevreyi kapsayan bu bölge, yaklaşık 300 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere geniş bir actividad alanı tanımaktadır.
+Yusuf Oğlu Ahmet Bey Türbesi, Gölmarmara'nın güzel kıyı şeridinde yer almaktadır. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve ziyaretçilere güzel bir manzara sunar. Türbenin yakınında bulunan plaj, deniz ve güneşin tadını çıkarmak için ideal bir yerdir. Bölgenin iklimi, Ege Bölgesi'nin ılıman iklimine uygun olarak, yazları sıcak ve kışları ılımandır. Çevre, doğa severler için çeşitli aktivitelere olanak sağlamakta ve ziyaretçilere geniş bir faaliyet yelpazesi sunmaktadır.
 
 ## Flora ve Fauna
 

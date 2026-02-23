@@ -22,7 +22,7 @@ wikidata_id: "Q108227961"
 
 # Zonguldak-Bartin Karacam 4
 
-Zonguldak ilinin Bartin ilçesinde yer alan Karacam 4 Milli Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle bekliyor. Bu milli park, doğa severlerin ve macera arayışında olanların keyif alacağı bir yer. Zonguldak ilinin Bartin ilçesinde yer alan bu milli park, ziyaretçilerini doğal güzellikleri ve tarihi değerleriyle cezbediyor.
+Zonguldak ilinin Bartin ilçesinde yer alan Karacam 4 Milli Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu milli park, doğa severlerin ve macera arayışında olanların keyif alacağı bir yer. Zonguldak ilinin Bartin ilçesinde yer alan bu milli park, ziyaretçilerini doğal güzellikleri ve tarihi değerleriyle cezbediyor.
 
 ## Tarihçe
 

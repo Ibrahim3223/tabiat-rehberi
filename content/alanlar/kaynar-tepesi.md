@@ -28,7 +28,7 @@ wikidata_id: "Q31387081"
 
 # Kaynar Tepesi
 
-Kaynar Tepesi, Kastamonu'nun gözde noktalarından biri olarak dikkat çekmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılamaktadır. Bu tepe, Kastamonu'nun tarihi ve kültürel zenginliklerini de yansıtmaktadır. Doğal güzellikleri, tarihi geçmişi ve ziyaretçilerine sunduğu olanaklarla Kaynar Tepesi, bir gezi noktası olarak ön plana çıkmaktadır.
+Kaynar Tepesi, Kastamonu'nun gözde noktalarından biri olarak dikkat çekmektedir. Bu tepe, Kastamonu'nun tarihi ve kültürel zenginliklerini de yansıtmaktadır. Doğal güzellikleri, tarihi geçmişi ve ziyaretçilerine sunduğu olanaklarla Kaynar Tepesi, bir gezi noktası olarak ön plana çıkmaktadır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31390234"
 
 # Mezgit Tepesi
 
-Mezgit Tepesi, Burdur'un gözde noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin flora ve fauna ile dolu. Burada doğa yürüyüşleri yapmak, manzarayı seyretme vei keşfetme mümkün. Mezgit Tepesi, Burdur'un önemli bir turizm merkezi olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından tercih ediliyor. Bu bölge, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon olarak görülüyor.
+Mezgit Tepesi, Burdur'un gözde noktalarından biri olarak karşımıza çıkıyor. Burada doğa yürüyüşleri yapmak, manzarayı seyretme vei keşfetme mümkün. Mezgit Tepesi, Burdur'un önemli bir turizm merkezi olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından tercih ediliyor. Bu bölge, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon olarak görülüyor.
 
 ## Tarihçe
 

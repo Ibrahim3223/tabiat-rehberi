@@ -1,7 +1,7 @@
 ---
 title: "Cemalettin Efendi Türbesi"
 date: "2026-01-10T06:39:13.541Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q134734794"
 
 # Cemalettin Efendi Türbesi
 
-Kastamonu'nun merkezinde bulunan Cemalettin Efendi Türbesi, şehrin tarihi ve doğal güzelliklerinin birleştiği önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir açık alan sunar. Türbe, şehrin en önemli tarihi mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Cemalettin Efendi Türbesi, Kastamonu'nun tarihini ve kültürünü öğrenmek isteyenler için ideal bir destinasyon olup, aynı zamanda şehrin doğal güzelliklerini keşfetmek isteyenler için de önemli bir merkezdir.
+Kastamonu'nun merkezinde bulunan Cemalettin Efendi Türbesi, şehrin tarihi ve doğal güzelliklerinin birleştiği önemli bir noktadır. Türbe, şehrin en önemli tarihi mekanlarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Cemalettin Efendi Türbesi, Kastamonu'nun tarihini ve kültürünü öğrenmek isteyenler için ideal bir destinasyon olup, aynı zamanda şehrin doğal güzelliklerini keşfetmek isteyenler için de önemli bir merkezdir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Hz. Hıdır Türbesi"
 date: "2026-01-10T05:37:24.856Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391782"
 
 # Hz. Hıdır Türbesi
 
-Hz. Hıdır Türbesi, Mersin'in Toroslar ilçesinde yer alan tarihi ve doğal güzellikleri ile ni bt olan bir alandır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir mekan sunuyor. Bu alan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Hz. Hıdır Türbesi, özellikle plaj severlerin uğrak noktası haline gelmiş durumda.
+Hz. Hıdır Türbesi, Mersin'in Toroslar ilçesinde yer alan tarihi ve doğal güzellikleri ile ni bt olan bir alandır. Bu alan, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Hz. Hıdır Türbesi, özellikle plaj severlerin uğrak noktası haline gelmiş durumda.
 
 ## Tarihçe
 

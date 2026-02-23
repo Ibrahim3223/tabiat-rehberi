@@ -29,7 +29,7 @@ wikidata_id: "Q134728409"
 
 # Gözmen Köyü Tümülüsü, Sivas
 
-Gözmen Köyü Tümülüsü, Sivas'ın zengin tarihini yansıtan önemli bir arkeolojik alan. Bu tarihi mekân, Sivas'ın merkezine uzun bir mesafe uzaklıkta, Gözmen Köyü'nde yer alıyor. Gözmen Köyü Tümülüsü, yaklaşık 140 hektarlık bir alanı kaplıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne denk geliyor. Bu geniş alan, ziyaretçilere hem doğal güzellikleri hem de tarihi değerleri bir arada deneyimleme fırsatı sunuyor. Gözmen Köyü Tümülüsü'nü ziyaret etmek, Sivas'ın tarihini ve kültürel mirasını keşfetmek için ideal bir fırsat.
+Gözmen Köyü Tümülüsü, Sivas'ın zengin tarihini yansıtan önemli bir arkeolojik alan. Bu tarihi mekân, Sivas'ın merkezine uzun bir mesafe uzaklıkta, Gözmen Köyü'nde yer alıyor. Bu geniş alan, ziyaretçilere hem doğal güzellikleri hem de tarihi değerleri bir arada deneyimleme fırsatı sunuyor. Gözmen Köyü Tümülüsü'nü ziyaret etmek, Sivas'ın tarihini ve kültürel mirasını keşfetmek için ideal bir fırsat.
 
 ## Tarihçe
 

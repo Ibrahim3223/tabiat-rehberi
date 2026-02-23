@@ -22,7 +22,7 @@ wikidata_id: "Q108226401"
 
 # İkidelikli Sit Alanı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan İkidelikli Sit Alanı, geniş ve korunaklı bir doğal alan olarak dikkat çekiyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini korumak için önemli bir rol oynuyor. İkidelikli Sit Alanı, doğa severler ve môi çevre bilincini destekleyenler için bir çekim noktası olarak ortaya çıkıyor. Bu doğal sit alanı, bölgenin flora ve faunasını koruma altına almak için oluşturulmuş ve bu amaçla önemli çalışmalara sahne oluyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan İkidelikli Sit Alanı, geniş ve korunaklı bir doğal alan olarak dikkat çekiyor. İkidelikli Sit Alanı, doğa severler ve môi çevre bilincini destekleyenler için bir çekim noktası olarak ortaya çıkıyor. Bu doğal sit alanı, bölgenin flora ve faunasını koruma altına almak için oluşturulmuş ve bu amaçla önemli çalışmalara sahne oluyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ wikidata_id: "Q108226401"
 ## İlginç Bilgiler
 
 - İkidelikli Sit Alanı, 140 hektarlık bir alanı kapsar.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - İkidelikli Sit Alanı, İç Anadolu Bölgesi'nin önemli doğal sit alanlarından biri.
 - Bu alan, çeşitli bitki ve hayvan türlerine ev sahipliği yapar.
 - İkidelikli Sit Alanı, doğa severler için bir çekim noktası olarak ortaya çıkıyor.

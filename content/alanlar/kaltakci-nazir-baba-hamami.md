@@ -1,7 +1,7 @@
 ---
 title: "Kaltakçı Nazır Baba Hamamı"
 date: "2026-01-09T23:20:35.987Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738996"
 
 # Kaltakçı Nazır Baba Hamamı
 
-Kaltakçı Nazır Baba Hamamı, Aydın'ın Efeler ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyon. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve misafirlerini güneşin ve denizin tadını çıkarmaya davet ediyor. Kaltakçı Nazır Baba Hamamı, doğa severler ve deniz aşığı olanlar için cennetten bir köşe olarak tanımlanabilir. Burada, huzurlu bir atmosferin keyfini çıkarabilir, denizde yüzabilir ve güneşin tadını çıkarabilirsiniz.
+Kaltakçı Nazır Baba Hamamı, Aydın'ın Efeler ilçesinde bulunan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyon. Kaltakçı Nazır Baba Hamamı, doğa severler ve deniz aşığı olanlar için cennetten bir köşe olarak tanımlanabilir. Burada, huzurlu bir atmosferin keyfini çıkarabilir, denizde yüzabilir ve güneşin tadını çıkarabilirsiniz.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kaltakçı Nazır Baba Hamamı'nın tarihi geçmişi, bölgenin zengin kültüre
 
 ## Coğrafya
 
-Kaltakçı Nazır Baba Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alıyor. Bu bölge, coğrafi olarak deniz seviyesinde ve Ege Denizi'ne kıyısı bulunan bir alan. Kaltakçı Nazır Baba Hamamı, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Plajın etrafı, yeşilliklerle dolu ve misafirlerine doğanın güzelliğini sunuyor. Kaltakçı Nazır Baba Hamamı'nın iklimi, Ege Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları ılıman geçer. Bu bölge, doğa severler için cennetten bir köşe olarak tanımlanabilir. Burada, deniz, kum, güneş ve yeşilliklerin bir arada bulunduğu bir manzara ile karşılaşma mümkün.
+Kaltakçı Nazır Baba Hamamı, Ege Bölgesi'nin Efeler ilçesinde yer alıyor. Bu bölge, coğrafi olarak deniz seviyesinde ve Ege Denizi'ne kıyısı bulunan bir alan. Plajın etrafı, yeşilliklerle dolu ve misafirlerine doğanın güzelliğini sunuyor. Kaltakçı Nazır Baba Hamamı'nın iklimi, Ege Bölgesi'nin genel iklimine benzer ve yazları sıcak, kışları ılıman geçer. Bu bölge, doğa severler için cennetten bir köşe olarak tanımlanabilir. Burada, deniz, kum, güneş ve yeşilliklerin bir arada bulunduğu bir manzara ile karşılaşma mümkün.
 
 ## Flora ve Fauna
 

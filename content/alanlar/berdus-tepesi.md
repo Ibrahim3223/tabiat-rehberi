@@ -28,7 +28,7 @@ wikidata_id: "Q31388397"
 
 # Berduş Tepesi
 
-Berduş Tepesi, Muş'un eşsiz manzaralarına ev sahipliği yapan bir doğa harikası. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, yaban hayatının zengin çeşitliliği ve flora ile fauna arasındaki uyum, ziyaretçilerini doğanın güzelliğine bağlıyor. Berduş Tepesi, her mevsim farklı bir güzelliğe bürünerek, doğa severlerin ilgisini çekiyor. Kışın karla kaplı tepeleri, ilkbaharda renkli çiçeklerle donanmış yamaçları ve yazın serin ormanları ile ziyaretçilerini büyülüyor.
+Berduş Tepesi, Muş'un eşsiz manzaralarına ev sahipliği yapan bir doğa harikası. Burada, yaban hayatının zengin çeşitliliği ve flora ile fauna arasındaki uyum, ziyaretçilerini doğanın güzelliğine bağlıyor. Berduş Tepesi, her mevsim farklı bir güzelliğe bürünerek, doğa severlerin ilgisini çekiyor. Kışın karla kaplı tepeleri, ilkbaharda renkli çiçeklerle donanmış yamaçları ve yazın serin ormanları ile ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

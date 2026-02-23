@@ -32,11 +32,11 @@ Diyarbakır'ın tarihi ve doğal güzelliklerle dolu coğrafyasında yer alan Na
 
 ## Tarihçe
 
-Diyarbakır, tarihin sâu izlerini taşıyan bir bölgedir. Nafi Tepe, bu bölgenin zengin tarihî dokusuna küçük bir parçadır. Diyarbakır, Hititlerden Roma İmparatorluğu'na, Selçuklulardan Osmanlı İmparatorluğu'na kadar birçok uygarlığa ev sahipliği yapmıştır. Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında olması, burada yaşayan toplumlar için önemli bir avantaj sağlamıştır.
+Diyarbakır, tarihin derin izlerini taşıyan bir bölgedir. Nafi Tepe, bu bölgenin zengin tarihî dokusuna küçük bir parçadır. Diyarbakır, Hititlerden Roma İmparatorluğu'na, Selçuklulardan Osmanlı İmparatorluğu'na kadar birçok uygarlığa ev sahipliği yapmıştır. Bölgenin coğrafi konumu, tarihi ticaret yollarının kesişme noktasında olması, burada yaşayan toplumlar için önemli bir avantaj sağlamıştır.
 
 Bu tür doğal alanlar, Türkiye'de tarihi boyunca insanların yaşamsal faaliyetlerine ev sahipliği yapmışlardır. Yaylacılık, hayvancılık ve tarım, bu bölgelerde yapılan geleneksel faaliyetlerdir. Ayrıca, bu doğal alanlar, tarihi ticaret yolları için de önemli duraklar olmuşlardır. İnsanların bu alanlarla ilişkisi, sadece ekonomik faaliyetlerle sınırlı değildir. Bu doğal alanlar, aynı zamanda kültürel ve sosyal faaliyetlerin de merkezinde yer almıştır.
 
-Nafi Tepe, Diyarbakır bölgesinin bu zengin tarihî ve kültürel dokusunun bir parçasıdır. Bu doğal alan, bölge halkının yaşamında önemli bir rol oynamıştır. Nafi Tepe'nin tarihi, Diyarbakır'ın genel tarihî bağlamı içinde değerlendirilmelidir. Bu bölge, tarihin sâu izlerini taşıyan bir yer olarak, ziyaretçilerini geçmişe götürmeye hazırdır.
+Nafi Tepe, Diyarbakır bölgesinin bu zengin tarihî ve kültürel dokusunun bir parçasıdır. Bu doğal alan, bölge halkının yaşamında önemli bir rol oynamıştır. Nafi Tepe'nin tarihi, Diyarbakır'ın genel tarihî bağlamı içinde değerlendirilmelidir. Bu bölge, tarihin derin izlerini taşıyan bir yer olarak, ziyaretçilerini geçmişe götürmeye hazırdır.
 
 ## Coğrafya
 

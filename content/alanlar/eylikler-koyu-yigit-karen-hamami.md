@@ -1,7 +1,7 @@
 ---
 title: "Eylikler Köyü Yiğit Karen Hamamı"
 date: "2026-01-09T23:52:29.075Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245688"
 
 # Eylikler Köyü Yiğit Karen Hamamı
 
-Eylikler Köyü Yiğit Karen Hamamı, İç Anadolu Bölgesi'nin Konya ilinin Beyşehir ilçesinde bulunan bir doğa harikasıdır. Bu muhteşem yer, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve çevresi dağlarla çevrili bir vadi içinde yer alır. Yiğit Karen Hamamı, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekmektedir. Bu bölge, yüzyıllar boyunca insanların yaşam alanı olmuş ve birçok medeniyete ev sahipliği yapmıştır. Doğal güzelliği ve tarihi zenginliğiyle birlikte, Eylikler Köyü Yiğit Karen Hamamı ziyaretçilerini beklemektedir.
+Eylikler Köyü Yiğit Karen Hamamı, İç Anadolu Bölgesi'nin Konya ilinin Beyşehir ilçesinde bulunan bir doğa harikasıdır. Yiğit Karen Hamamı, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çekmektedir. Bu bölge, yüzyıllar boyunca insanların yaşam alanı olmuş ve birçok medeniyete ev sahipliği yapmıştır. Doğal güzelliği ve tarihi zenginliğiyle birlikte, Eylikler Köyü Yiğit Karen Hamamı ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Eylikler Köyü Yiğit Karen Hamamı'nın tarihi geçmişi, yüzyıllar öncesin
 
 ## Coğrafya
 
-Eylikler Köyü Yiğit Karen Hamamı, İç Anadolu Bölgesi'nin Konya ilinin Beyşehir ilçesinde bulunmaktadır. Bu yer, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve çevresi dağlarla çevrili bir vadi içinde yer alır. Yiğit Karen Hamamı, doğal güzelliği ile dikkat çekmektedir. Bu yer, yaban hayatı açısından zengin bir çeşitliliğe sahiptir ve birçok canlıya ev sahipliği yapmaktadır. Yiğit Karen Hamamı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzemektedir. Bu yer, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklime sahiptir. Yiğit Karen Hamamı, ziyaretçilere doğal güzelliğini ve tarihi değerini göstermektedir. Ziyaretçiler, bu yerin güzelliğini ve değerini görme fırsatı bulmaktadır.
+Eylikler Köyü Yiğit Karen Hamamı, İç Anadolu Bölgesi'nin Konya ilinin Beyşehir ilçesinde bulunmaktadır. Yiğit Karen Hamamı, doğal güzelliği ile dikkat çekmektedir. Bu yer, yaban hayatı açısından zengin bir çeşitliliğe sahiptir ve birçok canlıya ev sahipliği yapmaktadır. Yiğit Karen Hamamı'nın iklimi, İç Anadolu Bölgesi'nin karakteristik iklimine benzemektedir. Bu yer, yazları sıcak ve kurak, kışları soğuk ve karlı bir iklime sahiptir. Yiğit Karen Hamamı, ziyaretçilere doğal güzelliğini ve tarihi değerini göstermektedir. Ziyaretçiler, bu yerin güzelliğini ve değerini görme fırsatı bulmaktadır.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,6 @@ Eylikler Köyü Yiğit Karen Hamamı, ziyaretçilere birçok fırsat sunmaktadı
 
 ## İlginç Bilgiler
 
-- Yiğit Karen Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir.
 - Bu yer, yaban hayatı açısından zengin bir çeşitliliğe sahiptir.
 - Yiğit Karen Hamamı, tarihi geçmişiyle dikkat çekmektedir.
 - Bu yer, birçok medeniyete ev sahipliği yapmıştır.

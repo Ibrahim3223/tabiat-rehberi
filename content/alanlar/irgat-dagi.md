@@ -50,7 +50,7 @@ Mevsimsel özelliklerine bakıldığında, Irgat Dağı'nın bulunduğu bölge, 
 
 ## Flora ve Fauna
 
-Irgat Dağı, Van'ın yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Irgat Dağı, Van'ın yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları renkli çiçeklerle donanır. Alpin flora, yükseklik zonlarına bağlı olarak çeşitlilik gösterir. Dağ ekosisteminin hakim türleri, mevsimsel değişimlere uyum sağlayarak hayatta kalır.
 

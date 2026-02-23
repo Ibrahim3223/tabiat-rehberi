@@ -22,7 +22,7 @@ wikidata_id: "Q108227364"
 
 # Yalniz Ardic
 
-Yalniz Ardic milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilere geniş bir doğa alanı sunuyor. Bu alan, çeşitli bitki türleri ve zengin fauna ile süslü, ziyaretçilere doğanın güzelliğini sunuyor. Yalniz Ardic milli parkı, doğa severler için bir cennet, burada doğanın sesini dinleyerek, güzelliğini keşfedebilirsiniz.
+Yalniz Ardic milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu alan, çeşitli bitki türleri ve zengin fauna ile süslü, ziyaretçilere doğanın güzelliğini sunuyor. Yalniz Ardic milli parkı, doğa severler için bir cennet, burada doğanın sesini dinleyerek, güzelliğini keşfedebilirsiniz.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Yalniz Ardic milli parkını ziyaret etmek, doğa severler için bir cennet. Bu 
 
 ## İlginç Bilgiler
 
-- Yalniz Ardic milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu park, çeşitli bitki türleri ve zengin fauna ile süslü, ziyaretçilere geniş bir doğa alanı sunuyor.
 - Yalniz Ardic milli parkı, doğa severler için bir cennet, burada doğanın sesini dinleyerek, güzelliğini keşfedebilirsiniz.
 - Bu park, ziyaretçilere doğanın güzelliğini sunarken, aynı zamanda doğal yaşamın korunmasına da katkı sağlıyor.

@@ -23,7 +23,7 @@ wikidata_id: "Q134289194"
 
 # Beşkayalar Tabiat Parkı
 
-Beşkayalar Tabiat Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini koruma altına almak amacıyla kurulmuştur. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Bu tabiat parkı, hem doğa severlerin hem de çevrecilerin ilgi odağıdır. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan Beşkayalar Tabiat Parkı, ziyaretçilerine benzersiz bir deneyim sunar.
+Beşkayalar Tabiat Parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın içinde çeşitli bitki türleri ve zengin fauna encontrabilirsiniz. Bu tabiat parkı, hem doğa severlerin hem de çevrecilerin ilgi odağıdır. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan Beşkayalar Tabiat Parkı, ziyaretçilerine benzersiz bir deneyim sunar.
 
 ## Tarihçe
 

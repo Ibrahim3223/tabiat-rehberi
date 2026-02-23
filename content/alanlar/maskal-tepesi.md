@@ -29,7 +29,7 @@ wikidata_id: "Q31386715"
 
 # Maskal Tepesi
 
-Maskal Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği noktalardan biri. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Maskal Tepesi, şehrin merkezine yakın bir konumda bulunuyor ve Diyarbakır'ın önemli tarihi noktalarından biri. Tepenin eteklerinde, tarihi eserler ve doğal güzellikler bir arada bulunuyor. Maskal Tepesi, şehri gezenler için önemli bir destinasyon ve ziyaretçiler, bu tepeyi ziyaret ederek hem tarihi hem de doğal güzellikleri keşfedebilirler.
+Maskal Tepesi, Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği noktalardan biri. Maskal Tepesi, şehrin merkezine yakın bir konumda bulunuyor ve Diyarbakır'ın önemli tarihi noktalarından biri. Tepenin eteklerinde, tarihi eserler ve doğal güzellikler bir arada bulunuyor. Maskal Tepesi, şehri gezenler için önemli bir destinasyon ve ziyaretçiler, bu tepeyi ziyaret ederek hem tarihi hem de doğal güzellikleri keşfedebilirler.
 
 ## Tarihçe
 

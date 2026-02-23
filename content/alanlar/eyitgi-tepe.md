@@ -50,7 +50,7 @@ Mevsimsel olarak, Eyitgi Tepe'nin iklimi güneydoğu Anadolu Bölgesi'nin genel 
 
 ## Flora ve Fauna
 
-Eyitgi Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve faunaya ev sahipliği yapıyor. Dağın yükseklik zonları, farklı mevsimlerde çeşitli renkler ve yaşam formları sunuyor. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. 
+Eyitgi Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosistemi, zengin bir flora ve faunaya ev sahipliği yapıyor. Dağın yükseklik zonları, farklı mevsimlerde çeşitli renkler ve yaşam formları sunuyor. İlkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor.
 
 Bu dağda yaşayan yaban hayatının önemli bir kısmı, memeliler ve kuşlardan oluşuyor. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri gibi canlılar, kayalık alanlarda yaşamını sürdürüyor. Kuşlar ise, dağların yükseklik zonlarında ve ova ekolojisi bulunan bölgelerde yuvalanıyor. Sürüngenler de, bu dağda yaşayan önemli bir grup olarak karşımıza çıkıyor.
 

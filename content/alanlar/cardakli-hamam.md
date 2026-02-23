@@ -1,7 +1,7 @@
 ---
 title: "Çardaklı Hamam"
 date: "2026-01-09T22:41:51.199Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738553"
 
 # Çardaklı Hamam
 
-Fatih, İstanbul'da yer alan Çardaklı Hamam, tarihi ve doğal güzelliği ile dikkat çekiyor. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Çardaklı Hamam, ziyaretçilerini hem tarihi dokusuyla hem de doğal güzelliği ile etkiliyor. Bu mekan, İstanbul'un kalbinde yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor.
+Fatih, İstanbul'da yer alan Çardaklı Hamam, tarihi ve doğal güzelliği ile dikkat çekiyor. Çardaklı Hamam, ziyaretçilerini hem tarihi dokusuyla hem de doğal güzelliği ile etkiliyor. Bu mekan, İstanbul'un kalbinde yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor.
 
 ## Tarihçe
 

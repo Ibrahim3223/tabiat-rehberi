@@ -22,7 +22,7 @@ wikidata_id: "Q108227601"
 
 # Antalya-Kumluca-Y.alakir Sedir
 
-Antalya-Kumluca-Y.alakir Sedir Milli Parkı, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanı ile ziyaretçilerini güzelliği ile karşılar. Bu doğa harikası, Akdeniz Bölgesi'nin turizm cenneti Antalya'da yer alır. Milli Park, Sedir ağacı gibi çeşitli ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunar. 140 hektarlık bu yeşil alan, ziyaretçilere huzur ve dinlenme imkanı sunarken, aynı zamanda Sedir ağacı gibi çeşitli ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunar.
+Antalya-Kumluca-Y. Bu doğa harikası, Akdeniz Bölgesi'nin turizm cenneti Antalya'da yer alır. Milli Park, Sedir ağacı gibi çeşitli ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunar. 140 hektarlık bu yeşil alan, ziyaretçilere huzur ve dinlenme imkanı sunarken, aynı zamanda Sedir ağacı gibi çeşitli ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunar.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Antalya-Kumluca-Y.alakir Sedir Milli Parkı, tarihi geçmişi ile dikkat çeker.
 
 ## Coğrafya
 
-Antalya-Kumluca-Y.alakir Sedir Milli Parkı, Akdeniz Bölgesi'nin turizm cenneti Antalya'da yer alır. Milli Park, Sedir ağacı gibi çeşitli ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine huzur ve dinlenme imkanı sunarken, aynı zamanda Sedir ağacı gibi çeşitli ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunar. Milli Parkın coğrafi yapısı, Sedir ağacı gibi ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunarken, aynı zamanda ziyaretçilere çeşitli yürüyüş parkurları sunar. Bu yürüyüş parkurları, ziyaretçilere Milli Parkın doğal güzelliğini keşfetme imkanı sunar.
+Antalya-Kumluca-Y.alakir Sedir Milli Parkı, Akdeniz Bölgesi'nin turizm cenneti Antalya'da yer alır. Milli Park, Sedir ağacı gibi çeşitli ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunar. Milli Parkın coğrafi yapısı, Sedir ağacı gibi ağaç türleri ile ziyaretçilerine doğa ile iç içe bir deneyim sunarken, aynı zamanda ziyaretçilere çeşitli yürüyüş parkurları sunar. Bu yürüyüş parkurları, ziyaretçilere Milli Parkın doğal güzelliğini keşfetme imkanı sunar.
 
 ## Flora ve Fauna
 

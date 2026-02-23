@@ -28,7 +28,7 @@ wikidata_id: "Q31546807"
 
 # Bakfet Tepesi
 
-Bakfet Tepesi, Güneydoğu Anadolu Bölgesi'nin güzide şehri Batman'da yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir doğa harikası. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde geniş bir alanı kaplıyor. Tepenin etrafındaki manzara, doğa severlerin ilgisini çekiyor. Batman'ın merkezine yakın konumuyla da ziyaretçilerin kolayca ulaşabileceği bir nokta. Bakfet Tepesi, hem doğa güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrado.
+ Tepenin etrafındaki manzara, doğa severlerin ilgisini çekiyor. Batman'ın merkezine yakın konumuyla da ziyaretçilerin kolayca ulaşabileceği bir nokta. Bakfet Tepesi, hem doğa güzelliği hem de tarihi geçmişiyle dikkat çekiyor. Burada, çeşitli bitki türleri ve zengin fauna encontrado.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bakfet Tepesi'nin tarihi geçmişi, yüzyıllar boyunca birçok medeniyete ev sa
 
 ## Coğrafya
 
-Bakfet Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi özellikleri dikkate alındığında, burada yer alan 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafındaki coğrafya, dağlık ve engebeli bir yapıya sahip. Bu bölge, Batman'ın merkezine yakın bir konumda yer alıyor ve ulaşım açısından kolaylık sağlıyor. İklim, bölgenin coğrafi yapısına bağlı olarak değişkenlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakim. Bu coğrafi özellikler, Bakfet Tepesi'nin etrafındaki bölgeyi, doğa severler ve macera arayanlar için ideal bir destinasyon haline getiriyor. Tepenin yüksekliği, manzarayı geniş bir açıdan izlemeye olanak tanıyor. Bu reason, ziyaretçilerin tepenin etrafındaki bölgeyi keşfetmeleri için teşvik edici.
+ Tepenin etrafındaki coğrafya, dağlık ve engebeli bir yapıya sahip. Bu bölge, Batman'ın merkezine yakın bir konumda yer alıyor ve ulaşım açısından kolaylık sağlıyor. İklim, bölgenin coğrafi yapısına bağlı olarak değişkenlik gösteriyor. Kış aylarında soğuk ve yağışlı, yaz aylarında ise sıcak ve kurak bir iklim hakim. Bu coğrafi özellikler, Bakfet Tepesi'nin etrafındaki bölgeyi, doğa severler ve macera arayanlar için ideal bir destinasyon haline getiriyor. Tepenin yüksekliği, manzarayı geniş bir açıdan izlemeye olanak tanıyor. Bu reason, ziyaretçilerin tepenin etrafındaki bölgeyi keşfetmeleri için teşvik edici.
 
 ## Flora ve Fauna
 

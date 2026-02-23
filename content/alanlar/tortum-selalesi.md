@@ -29,7 +29,7 @@ wikidata_id: "Q1337971"
 
 # Tortum Şelalesi
 
-Tortum Şelalesi, Erzurum'un Tortum ilçesinde yer alan ve yüksek bir konumdan dökülen bir şelaledir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alanın büyük bir kısmı ormanlık araziden oluşmaktadır. Şelalenin etrafı, çeşitli ağaç türleriyle kaplıdır ve ziyaretçilere doğayla iç içe bir deneyim sunar. Şelale, yıl boyunca ziyaretçilerini ağırlamaktadır ve özellikle ilkbahar ve yaz aylarında daha çok ziyaretçi almaktadır.
+Tortum Şelalesi, Erzurum'un Tortum ilçesinde yer alan ve yüksek bir konumdan dökülen bir şelaledir. Şelalenin etrafı, çeşitli ağaç türleriyle kaplıdır ve ziyaretçilere doğayla iç içe bir deneyim sunar. Şelale, yıl boyunca ziyaretçilerini ağırlamaktadır ve özellikle ilkbahar ve yaz aylarında daha çok ziyaretçi almaktadır.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388309"
 
 # Aşıkdede Tepesi
 
-Aşıkdede Tepesi, Kars ilinin sınırları içerisinde yer alan ve coğrafi açıdan önemli bir nokta olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Aşıkdede Tepesi, tarihi ve kültürel açıdan da önemli bir yere sahip. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrar. Ayrıca, tepenin zirvesinden, Kars'ın güzel manzarasını izleme mümkün.
+Aşıkdede Tepesi, Kars ilinin sınırları içerisinde yer alan ve coğrafi açıdan önemli bir nokta olan bir tepe. Aşıkdede Tepesi, tarihi ve kültürel açıdan da önemli bir yere sahip. Bu tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna encontrar. Ayrıca, tepenin zirvesinden, Kars'ın güzel manzarasını izleme mümkün.
 
 ## Tarihçe
 

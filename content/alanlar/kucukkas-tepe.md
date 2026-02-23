@@ -50,9 +50,9 @@ Doğal bir gözlem noktası olarak düşünüldüğünde, Küçükkaş Tepe'nin 
 
 ## Flora ve Fauna
 
-Küçükkaş Tepe, Şanlıurfa'nın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor ve bu manzarayı kuşların şarkıları ile süslüyor. 
+Küçükkaş Tepe, Şanlıurfa'nın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor ve bu manzarayı kuşların şarkıları ile süslüyor.
 
-Bitki örtüsünü oluşturan step ve ova ekolojisi, mevsimsel değişimlere uyum sağlıyor. Yükseklik zonlarına bağlı olarak, alpin flora türleri de görülebiliyor. Dağlık alanlar, çeşitli yaban hayvanlarına yaşam alanı sunuyor. Memeliler, özellikle dağ keçileri ve yaban domuzları, bu bölgede yaşamlarını sürdürüyor. Kuşlar ise, göç mevsimlerinde bu dağları önemli bir uğrak noktası olarak kullanıyor. 
+Bitki örtüsünü oluşturan step ve ova ekolojisi, mevsimsel değişimlere uyum sağlıyor. Yükseklik zonlarına bağlı olarak, alpin flora türleri de görülebiliyor. Dağlık alanlar, çeşitli yaban hayvanlarına yaşam alanı sunuyor. Memeliler, özellikle dağ keçileri ve yaban domuzları, bu bölgede yaşamlarını sürdürüyor. Kuşlar ise, göç mevsimlerinde bu dağları önemli bir uğrak noktası olarak kullanıyor.
 
 Küçükkaş Tepe'nin ekolojik değeri, bu çeşitlilikte yatıyor. Bu alanın korunması, sadece burada yaşayan türlerin değil, bütün bir ekosistemin sürekliliğiçin çok önemli. Bu dağ ekosisteminin korunmasına dikkat etmek, gelecek nesiller için bu doğal güzelliğin korunmasına katkıda bulunmak anlamına geliyor.
 

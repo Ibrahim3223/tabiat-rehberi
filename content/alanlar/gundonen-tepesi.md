@@ -29,7 +29,7 @@ wikidata_id: "Q32139312"
 
 # Gündönen Tepesi
 
-Gündönen Tepesi, İç Anadolu Bölgesi'nin Çankırı ilinde bulunan ve vùngün doğal güzelliklerini sunan bir tepedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreye hakim bir konumda yer alır. Bu tepe, bölgenin coğrafi özelliklerinileme ve doğal güzelliklerini keşfetmek için ideal bir noktadır. Gündönen Tepesi, aynı zamanda bölgenin tarihi geçmişini de yansıtan önemli bir noktadır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve yaban hayatının yaşadığı bölgeler bulunur.
+Gündönen Tepesi, İç Anadolu Bölgesi'nin Çankırı ilinde bulunan ve vùngün doğal güzelliklerini sunan bir tepedir. Bu tepe, bölgenin coğrafi özelliklerinileme ve doğal güzelliklerini keşfetmek için ideal bir noktadır. Gündönen Tepesi, aynı zamanda bölgenin tarihi geçmişini de yansıtan önemli bir noktadır. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri ve yaban hayatının yaşadığı bölgeler bulunur.
 
 ## Tarihçe
 

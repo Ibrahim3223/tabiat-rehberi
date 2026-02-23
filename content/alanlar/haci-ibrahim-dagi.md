@@ -32,7 +32,7 @@ Afyonkarahisar'ın doğal güzellikleri arasında yer alan Hacı İbrahim Dağı
 
 ## Tarihçe
 
-Afyonkarahisar bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu topraklar, Hititlerden başlayarak Roma ve Bizans dönemlerine kadar çeşitli uygarlıkların izlerini taşıyor. Bölgenin stratejik konumu, ticaret yollarının kesişme noktasında bulunması, burada yaşayan topluluklar için önemli bir avantaj teşkil etmiştir.
+Afyonkarahisar bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu topraklar, Hititlerden başlayarak Roma ve Bizans dönemlerine kadar çeşitli uygarlıkların izlerini taşıyor. Bölgenin stratejik konumu, ticaret yollarının kesişme noktasında bulunması, burada yaşayan topluluklar için önemli bir avantaj teşkil etmiştir.
 
 Hacı İbrahim Dağı gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutmaktadır. Bu tür alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için elverişli ortamlar sunmuş, yaylacılık ve hayvancılık faaliyetlerine ev sahipliği yapmışlardır. Ayrıca, tarihi ticaret yollarının güzergahlarında bulundukları için, bu doğal alanlar, farklı kültürlerin etkileşimine de tanıklık etmişlerdir.
 
@@ -50,7 +50,7 @@ Doğal güzelliği ile dikkat çeken Hacı İbrahim Dağı, coğrafi olarak çe�
 
 ## Flora ve Fauna
 
-Hacı İbrahim Dağı, zeytinlikler ve çam ormanlarıyla çevrili bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır ve havayı çiçek kokuları doldurur. Çam ormanları, yükseklik zonlarına bağlı olarak değişen bir bitki örtüsüne sahiptir. 
+Hacı İbrahim Dağı, zeytinlikler ve çam ormanlarıyla çevrili bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır ve havayı çiçek kokuları doldurur. Çam ormanları, yükseklik zonlarına bağlı olarak değişen bir bitki örtüsüne sahiptir.
 
 Bu dağda yaşayan yaban hayat, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban domuzları, dağlık alanların karakteristik hayvanlarıdır. Kuşlar, özellikle göç mevsimlerinde, dağların tepelerine ve vadilerine uğrar. Sürüngenler, çam ormanlarının altında ve kayalık alanlarda yaşar.
 

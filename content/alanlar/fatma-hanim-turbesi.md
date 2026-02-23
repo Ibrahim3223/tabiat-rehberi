@@ -1,7 +1,7 @@
 ---
 title: "Fatma Hanım Türbesi"
 date: "2026-01-10T06:37:40.185Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q134735168"
 
 # Fatma Hanım Türbesi
 
-Fatma Hanım Türbesi, Edirne ilinin merkezinde bulunan bir tarihi ve dinî mekândır. Aynı zamanda plaj olarak da kullanılan bu alan, hem dinî hem de turistik amaçlarla ziyaret edilmektedir. 140 hektarlık bir alanda yer alan Fatma Hanım Türbesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu büyük alan, ziyaretçilere hem dinî bir  hem de güzelliği sunar. Tarihi geçmişi ve dinî önemi ile dikkat çeken bu türbe, aynı zamanda Edirne'nin önemli turistik noktalarından biridir.
+Fatma Hanım Türbesi, Edirne ilinin merkezinde bulunan bir tarihi ve dinî mekândır. Aynı zamanda plaj olarak da kullanılan bu alan, hem dinî hem de turistik amaçlarla ziyaret edilmektedir. Bu büyük alan, ziyaretçilere hem dinî bir  hem de güzelliği sunar. Tarihi geçmişi ve dinî önemi ile dikkat çeken bu türbe, aynı zamanda Edirne'nin önemli turistik noktalarından biridir.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Fatma Hanım Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanmaktad�
 
 ## Coğrafya
 
-Fatma Hanım Türbesi, Edirne ilinin merkezinde, Marmara Bölgesi'nde yer almaktadır. Coğrafi konumu itibariyle, ziyaretçilere geniş bir yeşil alan ve plaj sunar. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilere geniş bir yeşil alan sunar. Türbenin çevresi, çeşitli ağaçlar ve bitkiler ile çevrilidir ve ziyaretçilere doğa ile iç içe bir  sunar. İklim olarak, Marmara Bölgesi'nin ılıman iklimine sahiptir ve dört mevsim ziyaret edilebilir. Çevre olarak, Edirne'nin tarihi ve turistik noktalarına yakınlığı ile dikkat çeker. Fatma Hanım Türbesi, hem dinî hem de turistik amaçlarla ziyaret edilebilecek bir mekândır.
+Fatma Hanım Türbesi, Edirne ilinin merkezinde, Marmara Bölgesi'nde yer almaktadır. Coğrafi konumu itibariyle, ziyaretçilere geniş bir yeşil alan ve plaj sunar. Türbenin çevresi, çeşitli ağaçlar ve bitkiler ile çevrilidir ve ziyaretçilere doğa ile iç içe bir  sunar. İklim olarak, Marmara Bölgesi'nin ılıman iklimine sahiptir ve dört mevsim ziyaret edilebilir. Çevre olarak, Edirne'nin tarihi ve turistik noktalarına yakınlığı ile dikkat çeker. Fatma Hanım Türbesi, hem dinî hem de turistik amaçlarla ziyaret edilebilecek bir mekândır.
 
 ## Flora ve Fauna
 
-Fatma Hanım Türbesi'nin bulunduğu alanda, çeşitli bitkiler ve ağaçlar bulunur. Bu büyük alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilere geniş bir yeşil alan sunar. Mevsimsel değişimler ile birlikte, bu alan farklı bitkilerin ve ağaçların yetişmesine olanak sağlar. Bahar aylarında, çeşitli çiçekler açar ve ziyaretçilere renkli bir manzara sunar. Kış aylarında, ağaçların yapraklarının dökülmesi ile birlikte, bir başka güzelliği ortaya çıkar. Fatma Hanım Türbesi'nin çevresi, çeşitli hayvanların yaşam alanı olarak da dikkat çeker. Kuşlar, böcekler ve diğer küçük hayvanlar, bu alanda yaşar ve ziyaretçilere doğa ile iç içe bir  sunar.
+Fatma Hanım Türbesi'nin bulunduğu alanda, çeşitli bitkiler ve ağaçlar bulunur. Mevsimsel değişimler ile birlikte, bu alan farklı bitkilerin ve ağaçların yetişmesine olanak sağlar. Bahar aylarında, çeşitli çiçekler açar ve ziyaretçilere renkli bir manzara sunar. Kış aylarında, ağaçların yapraklarının dökülmesi ile birlikte, bir başka güzelliği ortaya çıkar. Fatma Hanım Türbesi'nin çevresi, çeşitli hayvanların yaşam alanı olarak da dikkat çeker. Kuşlar, böcekler ve diğer küçük hayvanlar, bu alanda yaşar ve ziyaretçilere doğa ile iç içe bir  sunar.
 
 ## Ziyaret Bilgileri
 

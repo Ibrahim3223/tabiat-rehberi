@@ -22,7 +22,7 @@ wikidata_id: "Q108228436"
 
 # Eskişehir-Afyon-Sandıklı-Karaçam
 
-Eskişehir-Afyon-Sandıklı-Karaçam, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Bu alan, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve doğa severlerin buluşma noktası olarak görev yapmaktadır. Eskişehir-Afyon-Sandıklı-Karaçam, ziyaretçilerine doğayla baş başa kalma fırsatı sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme imkanı sağlamaktadır. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla Eskişehir-Afyon-Sandıklı-Karaçam, ziyaretçilerini büyülemeye devam etmektedir.
+Eskişehir-Afyon-Sandıklı-Karaçam, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu alan, hem yerli hem de yabancı turistlerin ilgisini çekmekte ve doğa severlerin buluşma noktası olarak görev yapmaktadır. Eskişehir-Afyon-Sandıklı-Karaçam, ziyaretçilerine doğayla baş başa kalma fırsatı sunarken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme imkanı sağlamaktadır. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla Eskişehir-Afyon-Sandıklı-Karaçam, ziyaretçilerini büyülemeye devam etmektedir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Eskişehir-Afyon-Sandıklı-Karaçam'ın tarihi geçmişi, yüzyıllar boyunca �
 
 ## Coğrafya
 
-Eskişehir-Afyon-Sandıklı-Karaçam, İç Anadolu Bölgesi'nde yer alan bir milli parktır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Coğrafi konumu itibariyle, Eskişehir-Afyon-Sandıklı-Karaçam, dağların ve ovaların birleştiği bir bölgede yer almaktadır. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. İklimi, karasal iklim özellikleri göstermekte ve yıl boyunca mevsimsel değişimler yaşanmaktadır. Bahar aylarında yeşeren bitkiler, yaz aylarında sıcak ve kurak bir hava, sonbahar aylarında renkli bir manzara ve kış aylarında karla kaplı bir peyzaj sunmaktadır. Eskişehir-Afyon-Sandıklı-Karaçam, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini çekmeye devam etmektedir.
+Eskişehir-Afyon-Sandıklı-Karaçam, İç Anadolu Bölgesi'nde yer alan bir milli parktır. Coğrafi konumu itibariyle, Eskişehir-Afyon-Sandıklı-Karaçam, dağların ve ovaların birleştiği bir bölgede yer almaktadır. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. İklimi, karasal iklim özellikleri göstermekte ve yıl boyunca mevsimsel değişimler yaşanmaktadır. Bahar aylarında yeşeren bitkiler, yaz aylarında sıcak ve kurak bir hava, sonbahar aylarında renkli bir manzara ve kış aylarında karla kaplı bir peyzaj sunmaktadır. Eskişehir-Afyon-Sandıklı-Karaçam, coğrafi konumu ve doğal güzellikleri ile ziyaretçilerini çekmeye devam etmektedir.
 
 ## Flora ve Fauna
 

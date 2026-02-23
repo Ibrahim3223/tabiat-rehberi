@@ -1,7 +1,7 @@
 ---
 title: "Gazi Sığla Bey Türbesi"
 date: "2026-01-10T05:33:43.865Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391387"
 
 # Gazi Sığla Bey Türbesi
 
-Gazi Sığla Bey Türbesi, Ege Bölgesi'nin tarih ve doğa güzelliklerini bir araya getiren özel bir nokta. İzmir'in Selçuk ilçesinde bulunan bu türbe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu geniş alan, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini sunuyor. Gazi Sığla Bey Türbesi, aynı zamanda bölgenin önemli tarihi figürlerinden biri olan Gazi Sığla Bey'in hayatını ve mirasını öğrenmek isteyenler için bir merkez olarak hizmet veriyor.
+Gazi Sığla Bey Türbesi, Ege Bölgesi'nin tarih ve doğa güzelliklerini bir araya getiren özel bir nokta. Bu geniş alan, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini sunuyor. Gazi Sığla Bey Türbesi, aynı zamanda bölgenin önemli tarihi figürlerinden biri olan Gazi Sığla Bey'in hayatını ve mirasını öğrenmek isteyenler için bir merkez olarak hizmet veriyor.
 
 ## Tarihçe
 

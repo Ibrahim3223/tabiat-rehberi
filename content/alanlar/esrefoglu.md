@@ -23,7 +23,7 @@ wikidata_id: "Q108228126"
 
 # Eşrefoğlu
 
-Eşrefoğlu milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Eşrefoğlu, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz.
+Eşrefoğlu milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Eşrefoğlu, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Eşrefoğlu milli parkını ziyaret etmek, doğa severler için ideal bir aktivi
 ## İlginç Bilgiler
 
 - Eşrefoğlu milli parkı, 140 hektarlık bir alanı kapsıyor.
-- Park, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Eşrefoğlu, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor.
 - Parkın tarihi geçmişi, ziyaretçilerine yüzyılların hikayesini anlatıyor.
 - Eşrefoğlu, coğrafi olarak zengin bir bölge ve ziyaretçilerine çeşitli doğa aktiviteleri sunuyor.

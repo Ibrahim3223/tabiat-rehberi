@@ -1,7 +1,7 @@
 ---
 title: "Kuddusi Baba Türbesi"
 date: "2026-01-10T07:14:16.458Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Niğde"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390930"
 
 # Kuddusi Baba Türbesi
 
-Kuddusi Baba Türbesi, İç Anadolu Bölgesi'nde, Bor/Niğde'de yer alan tarihi ve doğal güzelliklerin bir arada sunulduğu özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu özel mekan, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Kuddusi Baba Türbesi, Bor/Niğde'nin önemli turizm noktalarından biri olarak dikkat çekiyor.
+Kuddusi Baba Türbesi, İç Anadolu Bölgesi'nde, Bor/Niğde'de yer alan tarihi ve doğal güzelliklerin bir arada sunulduğu özel bir mekan. Bu özel mekan, hem tarihi açıdan hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Kuddusi Baba Türbesi, Bor/Niğde'nin önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Kuddusi Baba Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Ta
 
 ## Coğrafya
 
-Kuddusi Baba Türbesi, İç Anadolu Bölgesi'nde, Bor/Niğde'de yer alıyor. Coğrafi konumu itibariyle, ziyaretçilere geniş bir yeşil alan sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğa ile iç içe bir deneyim sunuyor. Türbe, Bor/Niğde'nin önemli coğrafi noktalarından biri olarak dikkat çekiyor. Coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Kuddusi Baba Türbesi'nin coğrafi konumu, ziyaretçileri bu özel mekanın güzelliklerini keşfetmeye davet ediyor.
+Kuddusi Baba Türbesi, İç Anadolu Bölgesi'nde, Bor/Niğde'de yer alıyor. Coğrafi konumu itibariyle, ziyaretçilere geniş bir yeşil alan sunuyor. Türbe, Bor/Niğde'nin önemli coğrafi noktalarından biri olarak dikkat çekiyor. Coğrafi konumu, ziyaretçilere geniş bir manzara sunuyor. Kuddusi Baba Türbesi'nin coğrafi konumu, ziyaretçileri bu özel mekanın güzelliklerini keşfetmeye davet ediyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Kuddusi Baba Türbesi'ni ziyaret etmek, ziyaretçilere tarihi ve doğal güzelli
 ## İlginç Bilgiler
 
 - Kuddusi Baba Türbesi, Bor/Niğde'nin önemli turizm noktalarından biri.
-- Türbe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Kuddusi Baba Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor.
 - Türbe, ziyaretçilerine geniş bir yeşil alan sunuyor.
 - Kuddusi Baba Türbesi, Bor/Niğde'de yer alan önemli bir dini merkez.

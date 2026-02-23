@@ -28,7 +28,7 @@ wikidata_id: "Q31565988"
 
 # Kaplıca Tepesi
 
-Kaplıca Tepesi, İstanbul'un Marmara Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini cezbeden bir destinasyon. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde yer alan köyler, misafirlerine geleneksel Türk mutfağından lezzetler sunarken, tepeye tırmanan ziyaretçiler ise büyüleyici manzaralarla karşılaşıyor.
+Kaplıca Tepesi, İstanbul'un Marmara Bölgesi'nde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini cezbeden bir destinasyon. Tepenin eteklerinde yer alan köyler, misafirlerine geleneksel Türk mutfağından lezzetler sunarken, tepeye tırmanan ziyaretçiler ise büyüleyici manzaralarla karşılaşıyor.
 
 ## Tarihçe
 

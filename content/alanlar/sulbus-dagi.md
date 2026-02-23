@@ -33,9 +33,9 @@ Doğu Anadolu Bölgesi'nin gizli cevherlerinden biri olan Sülbüs Dağı, Bing�
 
 ## Tarihçe
 
-Bingöl bölgesinin tarihi, Sülbüs Dağı'nın eteklerinde şekillenmiştir. Bu bölge, tarihin çeşitli dönemlerinde birçok uygarlığa ev sahipliği yapmış, kültürel ve ticari açıdan önemli bir merkez olmuştur. Hitit, Urartu, Roma ve Osmanlı gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada varlık göstermişlerdir. 
+Bingöl bölgesinin tarihi, Sülbüs Dağı'nın eteklerinde şekillenmiştir. Bu bölge, tarihin çeşitli dönemlerinde birçok uygarlığa ev sahipliği yapmış, kültürel ve ticari açıdan önemli bir merkez olmuştur. Hitit, Urartu, Roma ve Osmanlı gibi medeniyetler, bölgenin stratejik konumu nedeniyle burada varlık göstermişlerdir.
 
-Doğal güzellikleri ve coğrafi konumuyla Sülbüs Dağı, tarihi ticaret yollarının kesişme noktasında bulunmakta ve bölgede yaşayan topluluklar için önemli bir kaynak teşkil etmektedir. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların temel geçim kaynaklarından biri olarak historically önemli bir rol oynamıştır. Bu doğal alanlar, yalnızca ekonomik açıdan değil, aynı zamanda kültürel ve sosyal açıdan da toplumların yaşamında önemli bir yer tutmaktadır. 
+Doğal güzellikleri ve coğrafi konumuyla Sülbüs Dağı, tarihi ticaret yollarının kesişme noktasında bulunmakta ve bölgede yaşayan topluluklar için önemli bir kaynak teşkil etmektedir. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların temel geçim kaynaklarından biri olarak historically önemli bir rol oynamıştır. Bu doğal alanlar, yalnızca ekonomik açıdan değil, aynı zamanda kültürel ve sosyal açıdan da toplumların yaşamında önemli bir yer tutmaktadır.
 
 Sülbüs Dağı, Türkiye'nin doğusunda yer alan bu dağlık bölgenin bir parçası olarak, ülkenin zengin doğal ve kültürel mirasının önemli bir bileşenini oluşturmaktadır. Bu bölge, tarihi ve coğrafi açıdan zengin bir geçmişe sahip olup, ziyaretçilerini tarihindepthinde bir yolculuğa çıkararak, Türkiye'nin doğal güzelliklerini ve kültürel çeşitliliğini keşfetme fırsatı sunmaktadır.
 

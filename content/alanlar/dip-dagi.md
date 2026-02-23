@@ -32,7 +32,7 @@ Samsun'un doğal güzelliklerinin arasında yer alan Dip Dağı, şehrin yeşill
 
 ## Tarihçe
 
-Dip Dağı, Türkiye'nin Karadeniz Bölgesi'nde yer alan Samsun şehrinin doğal güzelliklerinden biri. Bu bölgenin tarihçesi, binlerce yıl öncesine uzanan zengin bir geçmişe sahip. Samsun, histórik olarak Hitit, Pers, Roma ve Bizans uygarlıklarının etkisi altında kalmış bir bölge. Bu bölgede yer alan doğal alanlar, tarih boyunca insan yaşamı için önemli bir rol oynamışlar. Dağlık ve ormanlık alanlar, yaylacılık ve hayvancılık için elverişli ortamlar sunarken, aynı zamanda ticaret yolları ve ulaşım güzergahları olarak da kullanılmışlar.
+Dip Dağı, Türkiye'nin Karadeniz Bölgesi'nde yer alan Samsun şehrinin doğal güzelliklerinden biri. Bu bölgenin tarihçesi, binlerce yıl öncesine uzanan zengin bir geçmişe sahip. Samsun, tarihi olarak Hitit, Pers, Roma ve Bizans uygarlıklarının etkisi altında kalmış bir bölge. Bu bölgede yer alan doğal alanlar, tarih boyunca insan yaşamı için önemli bir rol oynamışlar. Dağlık ve ormanlık alanlar, yaylacılık ve hayvancılık için elverişli ortamlar sunarken, aynı zamanda ticaret yolları ve ulaşım güzergahları olarak da kullanılmışlar.
 
 Türkiye'de, özellikle Karadeniz Bölgesi'nde, bu tür doğal alanlar insan yaşamının temelini oluşturmuş. Dağlar, ormanlar ve nehirler, insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağlamış. Ayrıca, bu bölgeler, farklı uygarlıkların etkileşimine de tanık olmuş. Dip Dağı da, bu geniş tarihsel bağlam içinde, Samsun bölgesinin doğal ve kültürel mirasının önemli bir parçası olarak görülebilir. Bölgenin tarihsel önemi, sadece tarihi olaylarla değil, aynı zamanda doğal güzellikleri ve insan yaşamı ile olan bağlantısıyla da anlaşılabilir.
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228841"
 
 # Işıklı-Gökgöl Sulak Alanı
 
-Işıklı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin gizli bir güzelliği olarak karşımıza çıkıyor. Bu sulak alan, yaklaşık 140 hektarlık bir alanı kapsıyor ve 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Işıklı-Gökgöl Sulak Alanı, ziyaretçilerini doğanın kalbinde bir macera bekliyor. Bu alan, doğa severlerin ve fotoğraf tutkunlarının gözdesi olmakla birlikte, bölgenin tarihi ve kültürel zenginliklerini de keşfetme imkanı sunuyor.
+Işıklı-Gökgöl Sulak Alanı, İç Anadolu Bölgesi'nin gizli bir güzelliği olarak karşımıza çıkıyor. İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Işıklı-Gökgöl Sulak Alanı, ziyaretçilerini doğanın kalbinde bir macera bekliyor. Bu alan, doğa severlerin ve fotoğraf tutkunlarının gözdesi olmakla birlikte, bölgenin tarihi ve kültürel zenginliklerini de keşfetme imkanı sunuyor.
 
 ## Tarihçe
 

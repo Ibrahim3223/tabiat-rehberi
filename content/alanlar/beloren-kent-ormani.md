@@ -22,7 +22,7 @@ wikidata_id: "Q108228655"
 
 # BELÖREN KENT ORMANI
 
-Belören Kent Ormanı, İç Anadolu Bölgesi'nin kalbinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir yeşil alandır. Bu bölge, ziyaretçilerine hem a güzellikleri hem de sportif etkinlikler ile dolu bir gün geçirme fırsatı sunuyor. Belören Kent Ormanı, özellikle şehir hayatının yoğunluğundan kaçmak isteyenler için sakin ve huzurlu bir kaçış noktası olarak hizmet veriyor.
+ Bu bölge, ziyaretçilerine hem a güzellikleri hem de sportif etkinlikler ile dolu bir gün geçirme fırsatı sunuyor. Belören Kent Ormanı, özellikle şehir hayatının yoğunluğundan kaçmak isteyenler için sakin ve huzurlu bir kaçış noktası olarak hizmet veriyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Belören Kent Ormanı, ziyaretçilerine birçok aktivite olanağı sunuyor. Orma
 ## İlginç Bilgiler
 
 - Belören Kent Ormanı, 140 hektarlık bir yeşil alanı kapsar.
-- Orman, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Bölge, yaban domuzu, tavşan ve çeşitli kuş türleri gibi birçok hayvan türüne ev sahipliği yapar.
 - Ormanda, yürüyüş ve bisiklet sürüşü için uygun parkurlar bulunur.
 - Belören Kent Ormanı, her mevsim ziyaret edilebilir.

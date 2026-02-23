@@ -48,7 +48,7 @@ Jeolojik açıdan bakıldığında, Gözün Dağı'nın fiziksel yapısı hakkı
 
 ## Flora ve Fauna
 
-Gören Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına göre değişen bitki türleriyle bezenir. 
+Gören Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına göre değişen bitki türleriyle bezenir.
 
 Bu dağ ekosisteminde, memeliler ve kuşlar birlikte yaşar. Dağ keçileri, dağların yüksek kesimlerinde dolaşırken, kartallar ve diğer yırtıcı kuşlar gökyüzünde süzülür. Sürüngenler ve amfibiler de bu ekosistemin bir parçasıdır. Gören Dağı, yüksek dağ ekolojisinin korunması açısından büyük önem taşır. Bu alanın korunması, endemik türlerin ve doğal yaşamın devamı için gerekli bir adımdır.
 

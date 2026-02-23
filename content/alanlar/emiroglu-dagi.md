@@ -52,7 +52,7 @@ Jeolojik açıdan incelendiğinde, Emiroğlu Dağı'nın coğrafi yapısı olduk
 
 Emiroğlu Dağı, Ardahan'ın yüksek dağ ekosistemine ev sahipliği yapan bir cennet. İlkbaharla birlikte, 1200 hektarlık bu yeşil cennet, rengarenk çiçeklerle donanır. Alpin çayırlar, bölgenin karakteristik bitki örtüsünü oluşturur. Mevsimsel değişimlerle birlikte, sonbaharda göç eden kuşlar, bu dağları konaklama noktası olarak seçer.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, bu zorlu coğrafyaya adapte olmuş, güçlü hayvanlardır. Kuşlar, özellikle kartallar ve doğanların yaşadığı bir bölge olan Emiroğlu Dağı, aynı zamanda küçük memelilerin yuvalarını barındırır. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri, bu zorlu coğrafyaya adapte olmuş, güçlü hayvanlardır. Kuşlar, özellikle kartallar ve doğanların yaşadığı bir bölge olan Emiroğlu Dağı, aynı zamanda küçük memelilerin yuvalarını barındırır.
 
 Ekolojik değerini koruma altına almak, bu dağ ekosistemini geleceğe taşımak için önemlidir. Bu yüksek dağ ekosisteminin korunması, bölgenin biyolojik çeşitliliğini ve canlıların yaşam alanlarını güvence altına alacaktır.
 

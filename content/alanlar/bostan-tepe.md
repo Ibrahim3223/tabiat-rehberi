@@ -32,7 +32,7 @@ Siirt'in dağlık bölgesinde yer alan Bostan Tepe, bölgenin doğal güzellikle
 
 ## Tarihçe
 
-Siirt'in dağlık bölgesinde yer alan Bostan Tepe, tarihin sâu izlerini taşıyan bir coğrafyada bulunmaktadır. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, çeşitli uygarlıkların geçiş noktası olmuştur. Hitit, Asur, Pers ve Roma gibi medeniyetler, Siirt'i ve çevresini etkileyen büyük güçler arasında yer almıştır.
+Siirt'in dağlık bölgesinde yer alan Bostan Tepe, tarihin derin izlerini taşıyan bir coğrafyada bulunmaktadır. Bu bölge, tarihi İpek Yolu'nun önemli bir durağı olarak, çeşitli uygarlıkların geçiş noktası olmuştur. Hitit, Asur, Pers ve Roma gibi medeniyetler, Siirt'i ve çevresini etkileyen büyük güçler arasında yer almıştır.
 
 Bostan Tepe gibi doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir rol oynamıştır. Bu bölgeler, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sunmuş, yaylacılık ve hayvancılık faaliyetlerine ev sahipliği yapmıştır. Ayrıca, tarihi ticaret yolları üzerinde yer alan bu alanlar, farklı kültürlerin etkileşimine tanıklık etmişlerdir.
 
@@ -50,11 +50,11 @@ Jeolojik açıdan bakıldığında, Bostan Tepe'nin fiziksel yapısı hakkında 
 
 ## Flora ve Fauna
 
-Bostan Tepe, Siirt'in yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosisteminin önemli bir parçasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Bostan Tepe, Siirt'in yarı kurak ikliminin hakim olduğu bir bölgede yer alan dağ ekosisteminin önemli bir parçasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Step ve ova ekolojisinin birleştiği bu bölgede, çeşitli otsu bitkiler ve çalılar hakimdir. 
+Bitki Örtüsü olarak, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanır. Step ve ova ekolojisinin birleştiği bu bölgede, çeşitli otsu bitkiler ve çalılar hakimdir.
 
-Yaban Hayatı açısından, bölgenin yükseklik zonları farklı memeli ve kuş türlerine ev sahipliği yapar. Dağ keçileri ve yaban keçileri gibi memeliler, dağların dik yamaçlarında yaşarken, kartallar ve doğan gibi kuşlar yüksekliklerde avlanırlar. 
+Yaban Hayatı açısından, bölgenin yükseklik zonları farklı memeli ve kuş türlerine ev sahipliği yapar. Dağ keçileri ve yaban keçileri gibi memeliler, dağların dik yamaçlarında yaşarken, kartallar ve doğan gibi kuşlar yüksekliklerde avlanırlar.
 
 Ekolojik Değer olarak, Bostan Tepe'nin korunması wichtigdir. Bu dağ ekosisteminin bozulması, bölgenin flora ve faunasını olumsuz etkileyebilir.
 

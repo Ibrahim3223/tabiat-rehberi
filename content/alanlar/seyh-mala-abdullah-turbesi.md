@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Mala Abdullah Türbesi"
 date: "2026-01-10T05:30:06.498Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şırnak"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391665"
 
 # Şeyh Mala Abdullah Türbesi
 
-Şeyh Mala Abdullah Türbesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinin Uludere ilçesinde yer alan bir tarihi türbe ve plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Tarihi geçmişiyle dikkat çeken bu mekan, hem dinî bir merkez hem de doğal güzelliklerin bir arada bulunabileceği ender yerlerden biridir. Şeyh Mala Abdullah Türbesi, özellikle bölgeye gelenlerin ziyaret ettiği önemli bir noktadır.
+Şeyh Mala Abdullah Türbesi, Güneydoğu Anadolu Bölgesi'nin Şırnak ilinin Uludere ilçesinde yer alan bir tarihi türbe ve plajdır. Tarihi geçmişiyle dikkat çeken bu mekan, hem dinî bir merkez hem de doğal güzelliklerin bir arada bulunabileceği ender yerlerden biridir. Şeyh Mala Abdullah Türbesi, özellikle bölgeye gelenlerin ziyaret ettiği önemli bir noktadır.
 
 ## Tarihçe
 

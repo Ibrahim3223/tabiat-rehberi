@@ -46,11 +46,11 @@ Mevsimsel değişikliklere bakıldığında, Kurtpınar Dağı'nın bulunduğu b
 
 ## Flora ve Fauna
 
-Kurtpınar Dağı, Doğu Anadolu'nun yüksek dağ ekosistemine ev sahipliği yapan bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kurtpınar Dağı, Doğu Anadolu'nun yüksek dağ ekosistemine ev sahipliği yapan bir bölgedir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü olarak, ilkbahar mevsiminde dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunar. 
+Bitki Örtüsü olarak, ilkbahar mevsiminde dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, yükseklik zonlarına göre değişen flora çeşitliliği sunar.
 
-Yaban Hayatı açısından, dağ keçileri ve çakallar gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu bölgenin sakinleridir. Sonbahar mevsiminde, göçmen kuşlar buradan geçer. 
+Yaban Hayatı açısından, dağ keçileri ve çakallar gibi memeliler, kartallar ve doğan gibi kuşlar, ve çeşitli sürüngenler bu bölgenin sakinleridir. Sonbahar mevsiminde, göçmen kuşlar buradan geçer.
 
 Ekolojik Değer olarak, bu yüksek dağ ekosistemi, endemik türlerin yaşaması için önemli bir habitat sunar. Koruma durumu açısından, bu alanın korunması için çalışmalar devam etmektedir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Patara Merkez Hamamı"
 date: "2026-01-09T23:10:07.622Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -33,11 +33,11 @@ Patara Merkez Hamamı, Kaş ilçesinde yer alan ve tarihi bir plaj ile hamam kom
 
 ## Tarihçe
 
-Patara Merkez Hamamı, tarihin sâu sayfalarında gizli bir hazine gibi duruyor. Bu tarihi kompleks, geçmiş dönemlerde önemli bir yerleşim yeri ve ticaret merkezi olarak görev yapmıştır. Patara, Likya Birliği'nin başkenti olarak bilinen bir şehir ve buhamsterin de bu tarihsel önemde payı büyüktür. Tarihi geçmişi, ziyaretçilerini geçmişe götürerek onlara benzersiz bir deneyim sunuyor.
+Patara Merkez Hamamı, tarihin derin sayfalarında gizli bir hazine gibi duruyor. Bu tarihi kompleks, geçmiş dönemlerde önemli bir yerleşim yeri ve ticaret merkezi olarak görev yapmıştır. Patara, Likya Birliği'nin başkenti olarak bilinen bir şehir ve buhamsterin de bu tarihsel önemde payı büyüktür. Tarihi geçmişi, ziyaretçilerini geçmişe götürerek onlara benzersiz bir deneyim sunuyor.
 
 ## Coğrafya
 
-Patara Merkez Hamamı, Kaş ilçesinin güneyinde, Akdeniz kıyılarında yer alıyor. Bu kompleks, geniş kumsalları, tarihi yapıları ve doğa güzellikleri ile ziyaretçilerini cezbediyor. Yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplayan Patara Merkez Hamamı, ziyaretçilerine geniş bir alan sunuyor. İklimi, tipik Akdeniz iklimi özellikleri gösteriyor; sıcak ve kurak yazlar, ılık ve yağışlı kışlar. Bu coğrafi konum, ziyaretçilere çeşitli doğa aktivitelerini deneyimleme fırsatı sunuyor.
+Patara Merkez Hamamı, Kaş ilçesinin güneyinde, Akdeniz kıyılarında yer alıyor. Bu kompleks, geniş kumsalları, tarihi yapıları ve doğa güzellikleri ile ziyaretçilerini cezbediyor. İklimi, tipik Akdeniz iklimi özellikleri gösteriyor; sıcak ve kurak yazlar, ılık ve yağışlı kışlar. Bu coğrafi konum, ziyaretçilere çeşitli doğa aktivitelerini deneyimleme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

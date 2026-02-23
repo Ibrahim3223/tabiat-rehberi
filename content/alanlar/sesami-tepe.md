@@ -50,9 +50,9 @@ Bölgenin çevresel ilişkileri açısından, Şeşamı Tepe, Batman Çayı'nın
 
 ## Flora ve Fauna
 
-Şeşamı Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir dağlık bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çeker. İlkbaharın gelmesiyle birlikte, alpin flora türleri dağ yamaçlarını renkli bir halı gibi kaplar. 
+Şeşamı Tepe, Batman'ın yarı kurak ikliminin hakim olduğu bir dağlık bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çeker. İlkbaharın gelmesiyle birlikte, alpin flora türleri dağ yamaçlarını renkli bir halı gibi kaplar.
 
-Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlere bağlı olarak, sonbaharda bu bölgede göç eden kuş türleri görülebilir. Bu dağlık alanda, memeliler ve sürüngenler de yaşamaktadır. Dağ keçileri ve yaban domuzları gibi memeliler, bölgenin zorlu arazisinde yaşamaya adapte olmuşlardır. 
+Bitki örtüsünün hakim türleri arasında çeşitli otsu bitkiler ve çalılar bulunur. Mevsimsel değişimlere bağlı olarak, sonbaharda bu bölgede göç eden kuş türleri görülebilir. Bu dağlık alanda, memeliler ve sürüngenler de yaşamaktadır. Dağ keçileri ve yaban domuzları gibi memeliler, bölgenin zorlu arazisinde yaşamaya adapte olmuşlardır.
 
 Şeşamı Tepe'nin ekolojik değeri, bölgenin biyolojik çeşitliliğini korumasından kaynaklanır. Bu dağ ekosisteminin korunması, bölgede yaşayan canlıların yaşam alanlarını güvence altına almak için önemlidir. Bu nedenle, Şeşamı Tepe'nin doğal güzelliğini koruma ve gelecek nesiller için korumak büyük önem taşır.
 

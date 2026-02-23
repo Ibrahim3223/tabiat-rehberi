@@ -1,7 +1,7 @@
 ---
 title: "Ali Dede Türbesi"
 date: "2026-01-10T05:47:29.551Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eskişehir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391773"
 
 # Ali Dede Türbesi
 
-Ali Dede Türbesi, Eskişehir'in Sivrihisar ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, 140 hektarlık geniş bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir yeşil alan sunmaktadır. Tarihi geçmişi ve doğal güzelliği bir araya getiren bu destinasyon, hem tarih severlerin hem de doğaşığıların ilgisini çekmektedir. Ali Dede Türbesi, ziyaretçilerine hem tarihi bir atmosfer sunmakta hem de geniş yeşil alanlarında doğayla iç içe bir deneyim fırsatı vermektedir.
+Ali Dede Türbesi, Eskişehir'in Sivrihisar ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Tarihi geçmişi ve doğal güzelliği bir araya getiren bu destinasyon, hem tarih severlerin hem de doğaşığıların ilgisini çekmektedir. Ali Dede Türbesi, ziyaretçilerine hem tarihi bir atmosfer sunmakta hem de geniş yeşil alanlarında doğayla iç içe bir deneyim fırsatı vermektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Ali Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmaktadır. Bu
 
 ## Coğrafya
 
-Ali Dede Türbesi, Eskişehir'in Sivrihisar ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumunda yer almaktadır. Bu bölge, geniş ova ve dağlarla çevrilidir. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özellikleri sergileyen bu alan, step ve ova ekosistemlerini bir araya getirmektedir. Ali Dede Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini etkilemektedir. Ali Dede Türbesi, ziyaretçilerine hem tarihi bir atmosfer sunmakta hem de geniş yeşil alanlarında doğayla iç içe bir deneyim fırsatı vermektedir.
+Ali Dede Türbesi, Eskişehir'in Sivrihisar ilçesinde, İç Anadolu Bölgesi'nin coğrafi olarak merkezi bir konumunda yer almaktadır. Bu bölge, geniş ova ve dağlarla çevrilidir. Coğrafi olarak, İç Anadolu Bölgesi'nin karakteristik özellikleri sergileyen bu alan, step ve ova ekosistemlerini bir araya getirmektedir. Ali Dede Türbesi'nin etrafı, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Bölgenin iklimi, karasal iklim özellikleri göstermektedir. Kışlar soğuk ve karlı, yazlar ise sıcak ve kurudur. Bu coğrafi ve iklimsel özellikler, bölgenin doğal güzelliğini ve biyolojik çeşitliliğini etkilemektedir. Ali Dede Türbesi, ziyaretçilerine hem tarihi bir atmosfer sunmakta hem de geniş yeşil alanlarında doğayla iç içe bir deneyim fırsatı vermektedir.
 
 ## Flora ve Fauna
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387353"
 
 # Tatardede Tepe
 
-Tatardede Tepe, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Samsun'da bulunan bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir noktadır. Doğal güzelliği ve coğrafi konumuyla, Tatardede Tepe, ziyaretçilerini etkileyen bir yerdir. Bu tepe, bölgenin tarihçesi ve coğrafyası hakkında bilgi edinmek isteyenler için önemli bir destinasyondur.
+Tatardede Tepe, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir noktadır. Doğal güzelliği ve coğrafi konumuyla, Tatardede Tepe, ziyaretçilerini etkileyen bir yerdir. Bu tepe, bölgenin tarihçesi ve coğrafyası hakkında bilgi edinmek isteyenler için önemli bir destinasyondur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tatardede Tepe'nin tarihi geçmişi, Karadeniz Bölgesi'nin tarihçesi ile iç i
 
 ## Coğrafya
 
-Tatardede Tepe, Samsun'da yer alan bir tepe olup, Karadeniz Bölgesi'nin coğrafi yapısını şekillendiren önemli bir noktadır. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepe, deniz seviyesinden yüksek bir noktada yer alır ve bölgenin coğrafi yapısını etkileyen önemli bir faktördür. Tatardede Tepe'nin coğrafi konumu, Karadeniz Bölgesi'nin iklimini ve bitki örtüsünü etkiler. Bu tepe, bölgenin coğrafi yapısını öğrenmek isteyenler için önemli bir destinasyondur. Tatardede Tepe, Karadeniz Bölgesi'nin coğrafi zenginliğini yansıtan bir yerdir. Bu tepe, bölgenin coğrafyası hakkında bilgi edinmek isteyenler için önemli bir kaynak noktasıdır. Tepe, bölgenin coğrafi yapısını şekillendiren önemli bir faktördür.
+Tatardede Tepe, Samsun'da yer alan bir tepe olup, Karadeniz Bölgesi'nin coğrafi yapısını şekillendiren önemli bir noktadır. Tepe, deniz seviyesinden yüksek bir noktada yer alır ve bölgenin coğrafi yapısını etkileyen önemli bir faktördür. Tatardede Tepe'nin coğrafi konumu, Karadeniz Bölgesi'nin iklimini ve bitki örtüsünü etkiler. Bu tepe, bölgenin coğrafi yapısını öğrenmek isteyenler için önemli bir destinasyondur. Tatardede Tepe, Karadeniz Bölgesi'nin coğrafi zenginliğini yansıtan bir yerdir. Bu tepe, bölgenin coğrafyası hakkında bilgi edinmek isteyenler için önemli bir kaynak noktasıdır. Tepe, bölgenin coğrafi yapısını şekillendiren önemli bir faktördür.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Tatardede Tepe, ziyaretçilerini etkileyen bir yerdir. Bu tepe, Karadeniz Bölge
 ## İlginç Bilgiler
 
 - Tatardede Tepe, Karadeniz Bölgesi'nin coğrafi yapısını şekillendiren önemli bir noktadır.
-- Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Tatardede Tepe, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahiptir.
 - Tepe, yılın her döneminde ziyaret edilebilir.
 - Tatardede Tepe, Samsun'da yer alır.

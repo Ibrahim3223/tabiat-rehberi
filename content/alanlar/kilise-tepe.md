@@ -1,7 +1,7 @@
 ---
 title: "Kilise Tepe"
 date: "2026-01-10T09:55:13.243Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Samsun"
@@ -29,7 +29,7 @@ wikidata_id: "Q31387342"
 
 # Kilise Tepe
 
-Kilise Tepe, Samsun'un güzelliklerini bir araya getiren önemli bir nokta. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile ziyaretçilerini büyülüyor. Bu tepe, Karadeniz Bölgesi'nin zengin tarihini ve doğal güzelliklerini birleştiren özel bir yer. Samsun'un merkezine yakın konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Kilise Tepe, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
+Kilise Tepe, Samsun'un güzelliklerini bir araya getiren önemli bir nokta. Bu tepe, Karadeniz Bölgesi'nin zengin tarihini ve doğal güzelliklerini birleştiren özel bir yer. Samsun'un merkezine yakın konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Kilise Tepe, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -49,7 +49,6 @@ Kilise Tepe, Samsun'un merkezine yakın bir konumda yer alıyor. Ziyaretçiler, 
 
 ## İlginç Bilgiler
 
-- Kilise Tepe, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu tepe, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor.
 - Kilise Tepe, Samsun'un önemli bir tarihi ve doğal güzelliği olarak dikkat çekiyor.
 - Ziyaretçiler, bu tepeyi gezerek, Samsun'un güzelliklerini keşfedebilirler.

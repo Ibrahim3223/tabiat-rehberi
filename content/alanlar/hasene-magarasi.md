@@ -50,9 +50,9 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Hasene Mağarası'nın ç
 
 ## Flora ve Fauna
 
-Hasene Mağarası ve çevresi, yarı kurak iklimin hüküm sürdüğü bir jeopark olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor. 
+Hasene Mağarası ve çevresi, yarı kurak iklimin hüküm sürdüğü bir jeopark olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapıyor.
 
-Bitki örtüsü olarak, ilkbahar aylarında çiçeklenen çok yıllık otsu bitkiler ve step ekosisteminin karakteristik türleri hakim. Sonbaharda, bölgenin renk paleti sarı, kahverengi ve kırmızılara dönüşüyor. 
+Bitki örtüsü olarak, ilkbahar aylarında çiçeklenen çok yıllık otsu bitkiler ve step ekosisteminin karakteristik türleri hakim. Sonbaharda, bölgenin renk paleti sarı, kahverengi ve kırmızılara dönüşüyor.
 
 Yaban hayatı açısından, bu ekosistemde yaşayan memeliler ve kuşlar, bölgenin özelikleri ile uyumlu bir şekilde yaşamını sürdürüyor. Göçmen kuşlar, sonbahar aylarında bu bölgeyi ziyaret ediyor ve burada konaklıyor. Çeşitli sürüngen türleri de bu alanda yaşamlarını sürdürüyor.
 

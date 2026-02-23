@@ -22,7 +22,7 @@ wikidata_id: "Q108228786"
 
 # SARIKAYALAR_TP
 
-Sarıkayalar Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Bu büyüleyici alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakmaya davet ediyor. Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Sarıkayalar Tabiat Parkı, doğa severler ve macera arayışındaki herkes için bir cennet harika bir deneyim.
+Sarıkayalar Tabiat Parkı, İç Anadolu Bölgesi'nin kalbinde, yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Parkın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın gerçek yüzünü gösteriyor. Sarıkayalar Tabiat Parkı, doğa severler ve macera arayışındaki herkes için bir cennet harika bir deneyim.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sarıkayalar Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenm
 
 ## Coğrafya
 
-Sarıkayalar Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biridir. Park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere farklı mevsimlerde değişen bir güzellik sunuyor. İlkbahar ve yaz aylarında, parkın flora ve fauna çeşitliliği en üst düzeyde. Kış aylarında ise, parkın karla kaplı manzarası, ziyaretçilere farklı bir güzellik sunuyor. Sarıkayalar Tabiat Parkı, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini etkiliyor.
+Sarıkayalar Tabiat Parkı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici yerlerinden biridir. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın coğrafi yapısı, ziyaretçilere farklı mevsimlerde değişen bir güzellik sunuyor. İlkbahar ve yaz aylarında, parkın flora ve fauna çeşitliliği en üst düzeyde. Kış aylarında ise, parkın karla kaplı manzarası, ziyaretçilere farklı bir güzellik sunuyor. Sarıkayalar Tabiat Parkı, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini etkiliyor.
 
 ## Flora ve Fauna
 

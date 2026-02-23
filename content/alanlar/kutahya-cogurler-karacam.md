@@ -22,7 +22,7 @@ wikidata_id: "Q108227683"
 
 # Kutahya-Cogurler Karacam
 
-Kutahya-Cogurler Karacam milli parkı, İç Anadolu Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleri ile zengin fauna sunuyor. Bu doğal alan, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunuyor. Parkın içerisinde, yürüyüş parkurları, piknik alanları ve gözlem noktaları gibi birçok olanak encontruyor. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve stresini atabilir.
+Kutahya-Cogurler Karacam milli parkı, İç Anadolu Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu doğal alan, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunuyor. Parkın içerisinde, yürüyüş parkurları, piknik alanları ve gözlem noktaları gibi birçok olanak encontruyor. Ziyaretçiler, burada doğanın güzelliklerini keşfedebilir ve stresini atabilir.
 
 ## Tarihçe
 

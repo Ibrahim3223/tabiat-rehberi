@@ -52,9 +52,9 @@ Mevsimsel açıdan, Nakabaderba Sırtı'nın iklim karakteri bölgenin coğrafi 
 
 Nakabaderba Sırtı, Batman'ın yarı kurak ikliminde yer alan bir dağ ekosistemi olarak dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Bu dağlık alanda, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği göze çarpıyor.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçları çeşitli çiçek türleriyle renkleniyor. Dağ kekiği, çam ve meşe ağaçları gibi hakim türler, mevsimsel değişimlere göre farklı görünümde oluyor. Bu bitkiler, dağ hayvanları için önemli bir yaşam alanı sunuyor. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçları çeşitli çiçek türleriyle renkleniyor. Dağ kekiği, çam ve meşe ağaçları gibi hakim türler, mevsimsel değişimlere göre farklı görünümde oluyor. Bu bitkiler, dağ hayvanları için önemli bir yaşam alanı sunuyor.
 
-Yaban hayatında ise memeliler, kuşlar ve sürüngenler bulunuyor. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, bu dağlık alanda yaşamlarını sürdürüyor. Ayrıca, çeşitli kuş türleri de göç ettikleri sırada bu alanı ziyaret ediyor. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturuyor. 
+Yaban hayatında ise memeliler, kuşlar ve sürüngenler bulunuyor. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, bu dağlık alanda yaşamlarını sürdürüyor. Ayrıca, çeşitli kuş türleri de göç ettikleri sırada bu alanı ziyaret ediyor. Sürüngenler de bu ekosistemin önemli bir parçasını oluşturuyor.
 
 Nakabaderba Sırtı, bölgenin ekolojik dengesi için oldukça önemli bir role sahip. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlılar için değil, aynı zamanda bölgenin su kaynakları ve toprağı için de büyük önem taşıyor.
 

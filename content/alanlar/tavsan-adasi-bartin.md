@@ -33,7 +33,7 @@ Bartın'ın yeşil doğası içinde saklı bir hazine olan Tavşan Adası, ilin 
 
 ## Tarihçe
 
-Bartın, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölgede, Hititler, Frigler, Persler ve Romalılar gibi uygarlıkların izleri bulunur. Tavşan Adası, Bartın'ın doğal güzelliklerinin bir parçasıdır ve bölgenin tarihsel zenginliği, bu ada ile de bağlantılıdır.
+Bartın, tarihin derin sayfalarında önemli bir yer tutar. Bu bölgede, Hititler, Frigler, Persler ve Romalılar gibi uygarlıkların izleri bulunur. Tavşan Adası, Bartın'ın doğal güzelliklerinin bir parçasıdır ve bölgenin tarihsel zenginliği, bu ada ile de bağlantılıdır.
 
 Türkiye, doğal güzellikleri ve tarihsel değerleriyle dolu bir ülkedir. Bu tür doğal alanlar, insan yaşamının önemli bir parçası olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla olan ilişkisini şekillendirmiştir. Bartın bölgesi de, bu bağlamda önemli bir role sahiptir. Bölgenin coğrafi konumu, insanların burada yaşamasına ve ticaret yapmasına olanak sağlamıştır.
 
@@ -43,7 +43,7 @@ Tavşan Adası, Bartın'ın doğal güzelliklerinin bir parçası olarak, insan 
 
 Doğal güzelliklerin bir araya geldiği bir noktada, Bartın'ın kıyı şeridinde yer alan Tavşan Adası, 41.7534°K ve 32.3885°D koordinatlarında bulunmaktadır. Bu ada, Karadeniz'in sakin sularına karşı bir güzellik cenneti olarak durmaktadır. Yaklaşık olarak bir şehir bloğu büyüklüğünde olan bu ada, Bartın'ın merkezine yakın bir konumda yer almaktadır.
 
-Jeolojik açıdan bakıldığında, Tavşan Adası'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, ada genel olarak Karadeniz bölgesinin karakteristik özelliklerini taşımaktadır. Bu régionun kıyı şeridindeki diğer adalar gibi, Tavşan Adası da bir birkaç olimpik havuz kadar büyük bir alanı kaplamaktadır. Ada'nın şekli ve boyutları, Karadeniz'in dalgalı sularına karşı dayanıklı bir yapıya sahip olduğunu göstermektedir.
+Jeolojik açıdan bakıldığında, Tavşan Adası'nın fiziksel yapısı hakkında detaylı bilgiler bulunmasa da, ada genel olarak Karadeniz bölgesinin karakteristik özelliklerini taşımaktadır. Bu bölgenin kıyı şeridindeki diğer adalar gibi, Tavşan Adası da bir birkaç olimpik havuz kadar büyük bir alanı kaplamaktadır. Ada'nın şekli ve boyutları, Karadeniz'in dalgalı sularına karşı dayanıklı bir yapıya sahip olduğunu göstermektedir.
 
 Mevsimsel değişimler açısından, Tavşan Adası Karadeniz ikliminin özelliklerini taşımaktadır. Kış aylarında soğuk ve yağışlı bir hava, yaz aylarında ise serin ve güneşli bir hava hakimdir. Bu mevsimsel özellikler, adanın florası ve faunası üzerinde önemli bir etkiye sahiptir. Ada, çevredeki su kaynakları ve ekosistem bağlantıları ile birlikte, bir bütün olarak düşünüldüğünde, Karadeniz bölgesinin doğal güzelliklerini korumak için önemli bir role sahiptir.
 
@@ -51,9 +51,9 @@ Doğal bir cennet olan Tavşan Adası, Bartın'ın kıyı şeridindeki diğer g�
 
 ## Flora ve Fauna
 
-Tavşan Adası, Bartın'ın nemli iklimi ve gür ormanlarıyla çevrili bir ada ekosistemi sunar. İlkbaharla birlikte, ada yüzeyini kaplayan çiçekler renkli bir hal alır. Kıyı şeridinde, tuzlu suya dayanıklı bitkiler hakimdir. 
+Tavşan Adası, Bartın'ın nemli iklimi ve gür ormanlarıyla çevrili bir ada ekosistemi sunar. İlkbaharla birlikte, ada yüzeyini kaplayan çiçekler renkli bir hal alır. Kıyı şeridinde, tuzlu suya dayanıklı bitkiler hakimdir.
 
-Ada, deniz kuşlarının önemli bir uğrak noktasıdır. Göç mevsiminde, adanın kıyıları çeşitli kuş türleriyle dolar. Memeliler ve sürüngenler de bu izole ekosistemin bir parçasını oluşturur. Ada, yüksek biyoçeşitliliğinin yanı sıra, deniz ve kara canlıları arasındaki ekolojik ilişkileri gözlemlemek için ideal bir alan sunar. 
+Ada, deniz kuşlarının önemli bir uğrak noktasıdır. Göç mevsiminde, adanın kıyıları çeşitli kuş türleriyle dolar. Memeliler ve sürüngenler de bu izole ekosistemin bir parçasını oluşturur. Ada, yüksek biyoçeşitliliğinin yanı sıra, deniz ve kara canlıları arasındaki ekolojik ilişkileri gözlemlemek için ideal bir alan sunar.
 
 Tavşan Adası'nın ekolojik değeri, yüksek biyoçeşitliliğinden ve izole konumundan kaynaklanır. Bu özellikler, adanın doğal kaynaklarının korunması gerektiğini vurgular.
 

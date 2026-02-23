@@ -28,7 +28,7 @@ wikidata_id: "Q34823555"
 
 # Çalbaşı Tepesi
 
-Çorum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan Çalbaşı Tepesi, Karadeniz Bölgesi'nin görkemli tepelerinden biri. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Çalbaşı Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. Çorum'un merkezine yakın konumuyla da ulaşım açısından kolaylık sağlıyor. Doğa severler ve tarihigezginler için ideal bir destinasyon olarak dikkat çekiyor.
+Çorum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon olan Çalbaşı Tepesi, Karadeniz Bölgesi'nin görkemli tepelerinden biri. Doğal güzelliği ve tarihi geçmişiyle dikkat çeken Çalbaşı Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor. Çorum'un merkezine yakın konumuyla da ulaşım açısından kolaylık sağlıyor. Doğa severler ve tarihigezginler için ideal bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 

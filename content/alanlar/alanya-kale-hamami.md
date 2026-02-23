@@ -1,7 +1,7 @@
 ---
 title: "Alanya Kale Hamamı"
 date: "2026-01-09T22:34:33.748Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,15 +29,15 @@ wikidata_id: "Q131738754"
 
 # Alanya Kale Hamamı
 
-Alanya Kale Hamamı, Antalya'nın Alanya ilçesinde yer alan, tarihin ve doğanın iç içe geçtiği bir bölgedir. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve yüzyılların geçmişi ile ziyaretçilerini karşılar. Bu bölge, tarihi kale kalıntıları, zengin flora ve fauna ile dikkat çekmektedir. Alanya Kale Hamamı, aynı zamanda plajının güzelliği ile de bilinir. Kumların beyazlığı ve denizin berraklığı, ziyaretçilere unutulmaz bir deneyim sunar.
+Alanya Kale Hamamı, Antalya'nın Alanya ilçesinde yer alan, tarihin ve doğanın iç içe geçtiği bir bölgedir. Bu bölge, tarihi kale kalıntıları, zengin flora ve fauna ile dikkat çekmektedir. Alanya Kale Hamamı, aynı zamanda plajının güzelliği ile de bilinir. Kumların beyazlığı ve denizin berraklığı, ziyaretçilere unutulmaz bir deneyim sunar.
 
 ## Tarihçe
 
-Alanya Kale Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölgede, Selçuklular ve Osmanlılar gibi çeşitli medeniyetler hüküm sürmüştür. Her bir medeniyet, bu bölgeye kendi kültürünü ve mimari yapısını bırakmıştır. Kale hamamının tarihi, Alanya'nın tarihi ile iç içe geçmiş ve bölgenin önemli bir parçası haline gelmiştir. Tarihi kalıntılar, ziyaretçilere bu bölgenin zengin geçmişini anlatır. Alanya Kale Hamamı, tarihin sâu izlerini taşıyan bir bölgedir ve ziyaretçilerine bu tarihi atmosferi yaşatır.
+Alanya Kale Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bölgede, Selçuklular ve Osmanlılar gibi çeşitli medeniyetler hüküm sürmüştür. Her bir medeniyet, bu bölgeye kendi kültürünü ve mimari yapısını bırakmıştır. Kale hamamının tarihi, Alanya'nın tarihi ile iç içe geçmiş ve bölgenin önemli bir parçası haline gelmiştir. Tarihi kalıntılar, ziyaretçilere bu bölgenin zengin geçmişini anlatır. Alanya Kale Hamamı, tarihin derin izlerini taşıyan bir bölgedir ve ziyaretçilerine bu tarihi atmosferi yaşatır.
 
 ## Coğrafya
 
-Alanya Kale Hamamı, Akdeniz Bölgesi'nde, Antalya'nın Alanya ilçesinde yer alır. Bu bölge, 140 hektarlık bir yeşil alan kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Yeşil alan, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Alanya Kale Hamamı, plajının güzelliği ile de bilinir. Kumların beyazlığı ve denizin berraklığı, ziyaretçilere unutulmaz bir deneyim sunar. Bölge, aynı zamanda tarihi kale kalıntıları ile de dikkat çekmektedir. Kale hamamı, Alanya'nın merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar.
+Alanya Kale Hamamı, Akdeniz Bölgesi'nde, Antalya'nın Alanya ilçesinde yer alır. Yeşil alan, çeşitli bitki türleri ile kaplıdır ve zengin fauna ile dikkat çeker. Alanya Kale Hamamı, plajının güzelliği ile de bilinir. Kumların beyazlığı ve denizin berraklığı, ziyaretçilere unutulmaz bir deneyim sunar. Bölge, aynı zamanda tarihi kale kalıntıları ile de dikkat çekmektedir. Kale hamamı, Alanya'nın merkezine yakın bir konumda yer alır ve ulaşımı kolaydır. Bu bölge, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunar.
 
 ## Flora ve Fauna
 
@@ -53,4 +53,4 @@ Alanya Kale Hamamı'na ziyaret etmek, ziyaretçilere unutulmaz bir deneyim sunar
 - Bölge, tarihi kale kalıntıları ile dikkat çeker.
 - Alanya Kale Hamamı, plajının güzelliği ile de bilinir.
 - Bölge, zengin flora ve fauna ile dikkat çeker.
-- Alanya Kale Hamamı, yüzyılların geçmişi ile ziyaretçilerine unutulmaz bir deneyim sunar.
+

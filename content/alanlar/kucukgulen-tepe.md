@@ -28,7 +28,7 @@ wikidata_id: "Q32210979"
 
 # Küçükgülen Tepe
 
-Küçükgülen Tepe, Antalya'nın güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla dikkat çekiyor. Buradaki manzara, Akdeniz Bölgesi'nin güzelliğini gözler önüne seriyor. Doğa severler ve tarih meraklıları için ideal bir gezi noktası olan Küçükgülen Tepe, ziyaretçilerini bekliyor.
+Küçükgülen Tepe, Antalya'nın güzide noktalarından biri olarak karşımıza çıkıyor. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla dikkat çekiyor. Buradaki manzara, Akdeniz Bölgesi'nin güzelliğini gözler önüne seriyor. Doğa severler ve tarih meraklıları için ideal bir gezi noktası olan Küçükgülen Tepe, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Küçükgülen Tepe'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. 
 
 ## Coğrafya
 
-Küçükgülen Tepe, coğrafi konumu itibariyle dikkat çekici bir nokta. Antalya'da bulunan bu tepe, Akdeniz Bölgesi'nin güzelliklerini yansıtıyor. Çevresinde çeşitli bitki türleri ve zengin fauna bulunan Küçükgülen Tepe, doğal bir güzellik olarak karşımıza çıkıyor. İklim olarak, Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman bir hava hüküm sürüyor. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte sunuyor. Yaklaşık 140 hektarlık bir alanı kaplayan Küçükgülen Tepe, ziyaretçilerini bekliyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+Küçükgülen Tepe, coğrafi konumu itibariyle dikkat çekici bir nokta. Antalya'da bulunan bu tepe, Akdeniz Bölgesi'nin güzelliklerini yansıtıyor. Çevresinde çeşitli bitki türleri ve zengin fauna bulunan Küçükgülen Tepe, doğal bir güzellik olarak karşımıza çıkıyor. İklim olarak, Akdeniz ikliminin etkilerini taşıyor. Yaz aylarında sıcak ve kurak, kış aylarında ise ılıman bir hava hüküm sürüyor. Bu tepe, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişiyle birlikte sunuyor. Yaklaşık 140 hektarlık bir alanı kaplayan Küçükgülen Tepe, ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 

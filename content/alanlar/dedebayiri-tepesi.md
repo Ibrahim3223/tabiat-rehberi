@@ -28,7 +28,7 @@ wikidata_id: "Q31389601"
 
 # Dedebayırı Tepesi
 
-Balıkesir'in eşsiz doğal güzelliklerinden biri olan Dedebayırı Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu alan, Marmara Bölgesi'nin en önemli doğal miraslarından biri olarak kabul ediliyor. Dedebayırı Tepesi, ziyaretçilerini yeşil doğasıyla ve misafirperverliğiyle karşılıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Dedebayırı Tepesi, hem doğa yürüyüşleri hem de fotoğraf çekmek için ideal bir mekan olarak dikkat çekiyor.
+ Bu alan, Marmara Bölgesi'nin en önemli doğal miraslarından biri olarak kabul ediliyor. Dedebayırı Tepesi, ziyaretçilerini yeşil doğasıyla ve misafirperverliğiyle karşılıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, burayı doğa severler için bir cennet haline getiriyor. Dedebayırı Tepesi, hem doğa yürüyüşleri hem de fotoğraf çekmek için ideal bir mekan olarak dikkat çekiyor.
 
 ## Tarihçe
 

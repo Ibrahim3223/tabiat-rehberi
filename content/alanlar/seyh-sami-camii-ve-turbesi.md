@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Şami Camii ve Türbesi"
 date: "2026-01-10T05:53:09.575Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırıkkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q121345065"
 
 # Şeyh Şami Camii ve Türbesi
 
-Kırıkkale'nin Sulakyurt ilçesinde yer alan Şeyh Şami Camii ve Türbesi, İç Anadolu Bölgesi'nin önemli tarihi ve dini mekanlarından biridir. 140 hektarlık bir alan üzerinde kurulmuş olan bu kompleks, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Cami ve türbenin birlikte bulunduğu bu kompleks, ziyaretçiler için hem dini bir merkez hem de tarihi bir mekân olarak hizmet vermektedir. Şeyh Şami Camii ve Türbesi, bölgenin önemli kültürel ve tarihi değerlerinden biri olarak kabul edilir ve birçok ziyaretçi tarafından ilgi görmektedir.
+Kırıkkale'nin Sulakyurt ilçesinde yer alan Şeyh Şami Camii ve Türbesi, İç Anadolu Bölgesi'nin önemli tarihi ve dini mekanlarından biridir. Cami ve türbenin birlikte bulunduğu bu kompleks, ziyaretçiler için hem dini bir merkez hem de tarihi bir mekân olarak hizmet vermektedir. Şeyh Şami Camii ve Türbesi, bölgenin önemli kültürel ve tarihi değerlerinden biri olarak kabul edilir ve birçok ziyaretçi tarafından ilgi görmektedir.
 
 ## Tarihçe
 

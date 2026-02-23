@@ -49,7 +49,7 @@ Jeolojik açıdan bakıldığında, Karagüney Dağı'nın yüksekliği Eiffel K
 
 ## Flora ve Fauna
 
-Karagüney Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi sunar. İklimin kuraklığına adapte olmuş türler, bu bölgede yaşamını sürdürür. 
+Karagüney Dağı, step bitki örtüsü ve bozkırın hakim olduğu bir dağ ekosistemi sunar. İklimin kuraklığına adapte olmuş türler, bu bölgede yaşamını sürdürür.
 
 Bitki Örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçlarında çeşitli çiçekler açar. Step bitkileri, kuraklığa dayanıklı yapraklarıyla bu mevsimi atlatır. Sonbaharda, dağların yükseklik zonlarına adapte olmuş alpin flora, renkli bir manzara sunar.
 

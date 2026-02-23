@@ -23,7 +23,7 @@ wikidata_id: "Q108228193"
 
 # Kadıpınarı
 
-Kadıpınarı, İç Anadolu Bölgesi'nin doğal güzelliklerini bir araya getiren 140 hektarlık bir alandır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunmaktadır. Doğal güzelliği ve zengin ekosistemi ile dikkat çeken bu milli park, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Alanın etrafında bulunan tepe ve vadiler, ziyaretçilere doğal bir güzelliğin yanı sıra tarihi bir perspektif de sunmaktadır.
+Kadıpınarı, İç Anadolu Bölgesi'nin doğal güzelliklerini bir araya getiren 140 hektarlık bir alandır. Doğal güzelliği ve zengin ekosistemi ile dikkat çeken bu milli park, hem doğa severler hem de tarih meraklıları için ideal bir gezi noktasıdır. Alanın etrafında bulunan tepe ve vadiler, ziyaretçilere doğal bir güzelliğin yanı sıra tarihi bir perspektif de sunmaktadır.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "II. Murat Hamamı"
 date: "2026-01-09T22:26:55.826Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"

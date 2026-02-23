@@ -1,7 +1,7 @@
 ---
 title: "Cura Baba Türbesi"
 date: "2026-01-10T05:13:32.793Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391637"
 
 # Cura Baba Türbesi
 
-Cura Baba Türbesi, İstanbul'un Şişli ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir türbe ve plaj alanıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Cura Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Bu alan, tarihi yapıları, plajı ve doğası ile birlikte, ziyaretçilerin keyifli ve bilgi dolu bir gün geçirmesine olanak tanıyan bir mekândır.
+Cura Baba Türbesi, İstanbul'un Şişli ilçesinde, Marmara Bölgesi'nin kalbinde yer alan tarihi bir türbe ve plaj alanıdır. Cura Baba Türbesi, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden bir destinasyondur. Bu alan, tarihi yapıları, plajı ve doğası ile birlikte, ziyaretçilerin keyifli ve bilgi dolu bir gün geçirmesine olanak tanıyan bir mekândır.
 
 ## Tarihçe
 

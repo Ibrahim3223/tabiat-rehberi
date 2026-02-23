@@ -28,7 +28,7 @@ wikidata_id: "Q31391253"
 
 # Kukula Tepesi
 
-Kukula Tepesi, İç Anadolu Bölgesi'nin gizli güzelliğidir. Bu tepe, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kukula Tepesi'nin yüksekliği, bölgenin diğer tepelerine göre dikkat çekicidir. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler ve gezginler için bir cennettir. Kukula Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir.
+Kukula Tepesi, İç Anadolu Bölgesi'nin gizli güzelliğidir. Kukula Tepesi'nin yüksekliği, bölgenin diğer tepelerine göre dikkat çekicidir. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu bölge, doğa severler ve gezginler için bir cennettir. Kukula Tepesi, ziyaretçilerini etkileyen bir manzaraya sahiptir.
 
 ## Tarihçe
 

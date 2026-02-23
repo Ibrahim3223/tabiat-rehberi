@@ -28,7 +28,7 @@ wikidata_id: "Q31388551"
 
 # Kurusırt Tepesi
 
-Kurusırt Tepesi, Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu tepe, Erzurum'un merkezine uzun bir mesafe uzaklıkta yer alır ve 2400 metrelik yüksekliği ile bölgenin en yüksek noktalarından biridir. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte bir alanda çeşitli bitki türleri ve zengin fauna bulunmaktadır. Kurusırt Tepesi, hem doğa severler hem de macera tutkunları için bir cennet olarak kabul edilir.
+Kurusırt Tepesi, Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir. Bu tepe, Erzurum'un merkezine uzun bir mesafe uzaklıkta yer alır ve 2400 metrelik yüksekliği ile bölgenin en yüksek noktalarından biridir. Kurusırt Tepesi, hem doğa severler hem de macera tutkunları için bir cennet olarak kabul edilir.
 
 ## Tarihçe
 

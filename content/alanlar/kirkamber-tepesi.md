@@ -28,7 +28,7 @@ wikidata_id: "Q31391202"
 
 # Kırkamber Tepesi
 
-Kırkamber Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliğini ve tarihi geçmişini bir araya getiren önemli bir doğal alan olarak dikkat çekiyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. İnsanlık tarihine kadar uzanan bir geçmişe sahip olan bu bölge, coğrafi konumunun yanı sıra doğal güzellikleriyle de ziyaretçilerini çekiyor. Kırkamber Tepesi, doğa severler ve tarihe meraklı olanlar için bir hazine olarak kabul ediliyor.
+Kırkamber Tepesi, İç Anadolu Bölgesi'nin coğrafi güzelliğini ve tarihi geçmişini bir araya getiren önemli bir doğal alan olarak dikkat çekiyor. İnsanlık tarihine kadar uzanan bir geçmişe sahip olan bu bölge, coğrafi konumunun yanı sıra doğal güzellikleriyle de ziyaretçilerini çekiyor. Kırkamber Tepesi, doğa severler ve tarihe meraklı olanlar için bir hazine olarak kabul ediliyor.
 
 ## Tarihçe
 

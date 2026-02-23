@@ -22,7 +22,7 @@ wikidata_id: "Q108227773"
 
 # Amasya-Bafra-Ondokuzmayis Dogu Kayini 2
 
-Amasya-Bafra-Ondokuzmayis Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin doğal güzelliklerini sunan önemli bir alandır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini korumada önemli bir role sahiptir. Bu milli park, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin tarihi ve kültürel değerlerini de tanıtma imkanı sağlar. Doğa severler için ideal bir destinasyon olan Amasya-Bafra-Ondokuzmayis Dogu Kayini 2, Karadeniz Bölgesi'nin turizm potansiyelini artırarak bölge ekonomisine katkıda bulunur.
+Amasya-Bafra-Ondokuzmayis Dogu Kayini 2 milli parkı, Karadeniz Bölgesi'nin doğal güzelliklerini sunan önemli bir alandır. Bu milli park, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunarken, aynı zamanda bölgenin tarihi ve kültürel değerlerini de tanıtma imkanı sağlar. Doğa severler için ideal bir destinasyon olan Amasya-Bafra-Ondokuzmayis Dogu Kayini 2, Karadeniz Bölgesi'nin turizm potansiyelini artırarak bölge ekonomisine katkıda bulunur.
 
 ## Tarihçe
 

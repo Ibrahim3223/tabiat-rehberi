@@ -29,7 +29,7 @@ wikidata_id: "Q32139326"
 
 # Güney Tepe
 
-Güney Tepe, Bayburt'un merkezinde yer alan ve şehrin önemli bir bölümünü kapsayan 140 hektarlık bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin tarihi ve doğal güzelliklerini barındırmaktadır. Güney Tepe, ziyaretçilerine şehrin manzarasını seyretme fırsatı sunan bir noktadır. Burada, Bayburt'un tarihi evlerini, camilerini ve diğer önemli yapılarını görebilirsiniz. Ayrıca, tepe çevresinde çeşitli bitki türleri ve ağaçlar bulunmaktadır.
+Güney Tepe, Bayburt'un merkezinde yer alan ve şehrin önemli bir bölümünü kapsayan 140 hektarlık bir alana sahiptir. Güney Tepe, ziyaretçilerine şehrin manzarasını seyretme fırsatı sunan bir noktadır. Burada, Bayburt'un tarihi evlerini, camilerini ve diğer önemli yapılarını görebilirsiniz. Ayrıca, tepe çevresinde çeşitli bitki türleri ve ağaçlar bulunmaktadır.
 
 ## Tarihçe
 

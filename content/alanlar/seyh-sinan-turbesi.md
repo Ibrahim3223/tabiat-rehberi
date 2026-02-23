@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Sinan Türbesi"
 date: "2026-01-10T06:17:56.269Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390545"
 
 # Şeyh Sinan Türbesi
 
-Şeyh Sinan Türbesi, Antalya'nın Muratpaşa ilçesinde bulunan bir tarihi turbe ve plajdır. Bu alan, yaklaşık 140 hektarlık bir yeşil alan üzerine kurulmuş ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Şeyh Sinan Türbesi, hem tarihi önemi hem de doğal güzelliği ile dikkat çeker. Ziyaretçiler, turbe ve çevresini gezerken aynı zamanda plajın keyfini de çıkarabilirler. Şeyh Sinan Türbesi, Antalya'nın önemli turistik noktalarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
+Şeyh Sinan Türbesi, Antalya'nın Muratpaşa ilçesinde bulunan bir tarihi turbe ve plajdır. Şeyh Sinan Türbesi, hem tarihi önemi hem de doğal güzelliği ile dikkat çeker. Ziyaretçiler, turbe ve çevresini gezerken aynı zamanda plajın keyfini de çıkarabilirler. Şeyh Sinan Türbesi, Antalya'nın önemli turistik noktalarından biridir ve her yıl binlerce ziyaretçi tarafından ziyaret edilir.
 
 ## Tarihçe
 

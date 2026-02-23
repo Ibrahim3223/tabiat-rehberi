@@ -22,7 +22,7 @@ wikidata_id: "Q108226383"
 
 # Obruk Mağarası Sit Alanı
 
-Obruk Mağarası Sit Alanı, İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık geniş bir alanı kapsayan doğal bir harikadır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, zengin flora ve faunasıyla dikkat çekmektedir. Obruk Mağarası, ziyaretçilerini doğanın güzellikleriyle baş başa bırakmak için bekliyor. Bu mağara, tarihi geçmişi ve coğrafi yapısıyla da önemli bir yer teşkil etmektedir. İç Anadolu Bölgesi'nin coğrafi yapısına bakıldığında, Obruk Mağarası'nın nasıl bu bölgeye ait olduğunu görme mümkündür.
+Obruk Mağarası Sit Alanı, İç Anadolu Bölgesi'nde yer alan ve 140 hektarlık geniş bir alanı kapsayan doğal bir harikadır. Obruk Mağarası, ziyaretçilerini doğanın güzellikleriyle baş başa bırakmak için bekliyor. Bu mağara, tarihi geçmişi ve coğrafi yapısıyla da önemli bir yer teşkil etmektedir. İç Anadolu Bölgesi'nin coğrafi yapısına bakıldığında, Obruk Mağarası'nın nasıl bu bölgeye ait olduğunu görme mümkündür.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Obruk Mağarası Sit Alanı'nın tarihi geçmişi, yüzyıllar boyunca şekillen
 
 ## Coğrafya
 
-Obruk Mağarası Sit Alanı, İç Anadolu Bölgesi'nde yer alan bir doğal harikadır. Bu mağara, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Coğrafi yapı itibariyle Obruk Mağarası, çeşitli jeolojik oluşumlarla çevrilidir. Bu mağaranın etrafında, farklı türde kayalar ve topraklar bulunmaktadır. İklim olarak Obruk Mağarası, İç Anadolu Bölgesi'nin genel iklimine sahiptir. Bu bölge, karasal iklimin özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Obruk Mağarası'nın coğrafi yapısı, flora ve faunasının çeşitliliğini de etkilemektedir. Bu mağara, çeşitli bitki türleri ve hayvanlar için uygun bir yaşam alanı teşkil etmektedir.
+Obruk Mağarası Sit Alanı, İç Anadolu Bölgesi'nde yer alan bir doğal harikadır. Coğrafi yapı itibariyle Obruk Mağarası, çeşitli jeolojik oluşumlarla çevrilidir. Bu mağaranın etrafında, farklı türde kayalar ve topraklar bulunmaktadır. İklim olarak Obruk Mağarası, İç Anadolu Bölgesi'nin genel iklimine sahiptir. Bu bölge, karasal iklimin özellikleri gösterir ve yazları sıcak, kışları soğuk geçer. Obruk Mağarası'nın coğrafi yapısı, flora ve faunasının çeşitliliğini de etkilemektedir. Bu mağara, çeşitli bitki türleri ve hayvanlar için uygun bir yaşam alanı teşkil etmektedir.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Obruk Mağarası Sit Alanı, ziyaretçilerini doğanın güzellikleriyle baş ba
 ## İlginç Bilgiler
 
 - Obruk Mağarası, 140 hektarlık geniş bir alanı kapsar.
-- Bu mağara, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Obruk Mağarası, İç Anadolu Bölgesi'nde yer alır.
 - Bu mağara, zengin flora ve faunasıyla dikkat çekmektedir.
 - Obruk Mağarası, özellikle doğa severler ve macera tutkunları için uygun bir gezi destinasyonudur.

@@ -51,9 +51,9 @@ Mevsimsel değişikliklere göre, İnönü Caves'in iklim karakteri değişkenli
 
 ## Flora ve Fauna
 
-İnönü Caves'in flora ve fauna zenginliği, Ankara'nın step bitki örtüsüne ve bozkır ekosistemine özgü özelliklerle şekillenir. 1200 hektarlık bu yeşil cennet, kuraklığa adapte türlerin yaşam alanı olarak dikkat çeker. 
+İnönü Caves'in flora ve fauna zenginliği, Ankara'nın step bitki örtüsüne ve bozkır ekosistemine özgü özelliklerle şekillenir. 1200 hektarlık bu yeşil cennet, kuraklığa adapte türlerin yaşam alanı olarak dikkat çeker.
 
-Bitki örtüsü olarak step bitkileri hakimdir. İlkbaharın gelmesiyle birlikte, çiçeklerin renkli görüntüsü bozkırın monotonluğunu kırar. Sonbaharda ise, göç eden kuşlar bu bölgeyi önemli bir uğrak noktası olarak kullanır. 
+Bitki örtüsü olarak step bitkileri hakimdir. İlkbaharın gelmesiyle birlikte, çiçeklerin renkli görüntüsü bozkırın monotonluğunu kırar. Sonbaharda ise, göç eden kuşlar bu bölgeyi önemli bir uğrak noktası olarak kullanır.
 
 Yaban hayatı, orman memelileri ve çeşitli kuş türleriyle zenginleştirir. Bu ekosistemde, memeliler ve kuşlar, yaşam alanlarını paylaşarak birbiriyle etkileşim halindedir. Ekolojik değer olarak, bu jeopark, bölgenin biyolojik çeşitliliğini koruma altına alır.
 

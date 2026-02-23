@@ -29,7 +29,7 @@ wikidata_id: "Q31388716"
 
 # Yanık Tepesi
 
-Yanık Tepesi, Muğla'nın doğal güzellikleri arasında önemli bir yere sahip olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Yanık Tepesi, Ege Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Bu bölgede, çeşitli bitki türleri ve yaban hayatı bulunuyor. Yanık Tepesi, ziyaretçilerini doğal güzellikleri ve eşsiz manzarasıyla karşılıyor. Bu tepe, hem doğa severler hem de coğrafya meraklıları için bir çekim merkezi.
+Yanık Tepesi, Muğla'nın doğal güzellikleri arasında önemli bir yere sahip olan bir tepe. Yanık Tepesi, Ege Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Bu bölgede, çeşitli bitki türleri ve yaban hayatı bulunuyor. Yanık Tepesi, ziyaretçilerini doğal güzellikleri ve eşsiz manzarasıyla karşılıyor. Bu tepe, hem doğa severler hem de coğrafya meraklıları için bir çekim merkezi.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yanık Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge
 
 ## Coğrafya
 
-Yanık Tepesi, Ege Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda bulunuyor. Yanık Tepesi, çevresindeki diğer tepelerle birlikte, bir dağ silsilesini oluşturuyor. Bu dağ silsilesi, bölgeye özgü bitki türleri ve yaban hayatı için önemli bir yaşam alanı sağlıyor. Yanık Tepesi'nin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemli. Bu iklim, çeşitli bitki türlerinin yetişmesine olanak tanıyor. Tepenin çevresi, ormanlık alanlar ve tarım arazileriyle kaplı.
+Yanık Tepesi, Ege Bölgesi'nin coğrafi yapısını anlamak için önemli bir nokta. Tepenin yüksekliği, deniz seviyesinden yaklaşık 500 metre yukarıda bulunuyor. Yanık Tepesi, çevresindeki diğer tepelerle birlikte, bir dağ silsilesini oluşturuyor. Bu dağ silsilesi, bölgeye özgü bitki türleri ve yaban hayatı için önemli bir yaşam alanı sağlıyor. Yanık Tepesi'nin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, ılıman ve nemli. Bu iklim, çeşitli bitki türlerinin yetişmesine olanak tanıyor. Tepenin çevresi, ormanlık alanlar ve tarım arazileriyle kaplı.
 
 ## Flora ve Fauna
 

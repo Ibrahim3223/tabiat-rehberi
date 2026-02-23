@@ -28,7 +28,7 @@ wikidata_id: "Q31386706"
 
 # Seket Tepesi
 
-Seket Tepesi, Diyarbakır ilinin güneybatısında yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kaplayan bu geniş alan, ziyaretçilerini doğanın güzelliği ile karşılar. Seket Tepesi, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de barındıran önemli bir nokta.
+Seket Tepesi, Diyarbakır ilinin güneybatısında yer alan ve Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan bir tepe. Seket Tepesi, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de barındıran önemli bir nokta.
 
 ## Tarihçe
 

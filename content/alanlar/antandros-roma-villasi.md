@@ -29,7 +29,7 @@ wikidata_id: "Q131738782"
 
 # Antandros Roma Villası
 
-Antandros Roma Villası, Edremit'in merkezinde yer alan, 140 hektarlık bir alanı kapsayan tarihi bir yerdir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli kültür miraslarından biridir. Roma dönemine ait kalıntılar, ziyaretçilere tarihin derinliklerine bir yolculuk sunar. Antandros, doğal güzelliği ve tarihi zenginliğiyle ziyaretçilerini bekliyor.
+Antandros Roma Villası, Edremit'in merkezinde yer alan, 140 hektarlık bir alanı kapsayan tarihi bir yerdir. Roma dönemine ait kalıntılar, ziyaretçilere tarihin derinliklerine bir yolculuk sunar. Antandros, doğal güzelliği ve tarihi zenginliğiyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Antandros Roma Villası'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş
 
 ## Coğrafya
 
-Antandros Roma Villası, Marmara Bölgesi'nde, Edremit'te yer alıyor. Bu bölge, coğrafi olarak çeşitli özellikler gösteriyor. 140 hektarlık bir alanı kapsayan villa, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli coğrafi oluşumlarından biridir. İklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösteriyor. Doğal güzelliği, ziyaretçilere bu bölgenin neden önemli olduğunu gösteriyor. Villa, çevreyle uyumlu bir şekilde tasarlanmış ve bu tasarımla, ziyaretçilere doğanın güzelliğini sunuyor.
+Antandros Roma Villası, Marmara Bölgesi'nde, Edremit'te yer alıyor. Bu bölge, coğrafi olarak çeşitli özellikler gösteriyor. İklimi, Marmara Bölgesi'nin genel iklimine uygun olarak değişkenlik gösteriyor. Doğal güzelliği, ziyaretçilere bu bölgenin neden önemli olduğunu gösteriyor. Villa, çevreyle uyumlu bir şekilde tasarlanmış ve bu tasarımla, ziyaretçilere doğanın güzelliğini sunuyor.
 
 ## Flora ve Fauna
 

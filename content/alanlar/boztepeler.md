@@ -33,7 +33,7 @@ Türkiye'nin coğrafi çeşitliliği, farklı bölgelerinde birçok doğal güze
 
 ## Tarihçe
 
-Boztepeler dağının bulunduğu bölge, tarihin sâu sayfalarında önemli bir rol oynamıştır. Bu coğrafya, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri ve ticaret merkezi olarak hizmet vermiştir. Anadolu'nun zengin tarihi, bu dağların eteklerinde eden insanların yaşamını şekillendirmiştir.
+Boztepeler dağının bulunduğu bölge, tarihin derin sayfalarında önemli bir rol oynamıştır. Bu coğrafya, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri ve ticaret merkezi olarak hizmet vermiştir. Anadolu'nun zengin tarihi, bu dağların eteklerinde eden insanların yaşamını şekillendirmiştir.
 
 Türkiye'de doğal alanlar, altijd insan yaşamının önemli bir parçası olmuştur. Dağlar, ormanlar ve ovalar, insanların yerleşim yerleri, tarım alanları ve ticaret yolları olarak kullanılmıştır. Boztepeler dağının bulunduğu bölge de, bu anlamda önemli bir konuma sahiptir. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların geleneksel uğraşlarından biri olarak görülmektedir.
 
@@ -51,7 +51,7 @@ Doğal güzellikleri ile dikkat çeken Boztepeler, coğrafi olarak oldukça int�
 
 ## Flora ve Fauna
 
-Boztepeler dağ ekosistemi, step bitki örtüsünün hakim olduğu bir bölge. İlkbaharla birlikte, bozkırın kurak toprakları renklendir, çeşitli çiçekler açar. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği de gözlemlenir. 
+Boztepeler dağ ekosistemi, step bitki örtüsünün hakim olduğu bir bölge. İlkbaharla birlikte, bozkırın kurak toprakları renklendir, çeşitli çiçekler açar. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği de gözlemlenir.
 
 Bu dağlık alanda, çeşitli memeliler ve kuşlar yaşamaktadır. Göç mevsiminde, birçok kuş türü bu bölgeyi ziyaret eder. Sürüngenler de, bozkırın kurak koşullarına adapte olmuş türlerle temsil edilir. Dağ keçileri, yaban keçileri ve diğer memeliler, bu dağlık bölgenin karakteristik fauna örnekleridir.
 

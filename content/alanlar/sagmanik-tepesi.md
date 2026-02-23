@@ -28,7 +28,7 @@ wikidata_id: "Q31391097"
 
 # Sağmanık Tepesi
 
-Sağmanık Tepesi, İç Anadolu Bölgesi'nin Sivas şehrinde yer alan ve doğa severler için önemli bir destinasyon olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Doğal güzelliği ve manzarasıyla ziyaretçilerini büyüleyen bu tepe, Sivas şehrinin önemli turizm noktalarından biri olarak kabul ediliyor. Ziyaretçiler, tepeye çıkarak şehrin panoramik manzarasını izleme fırsatı buluyor ve aynı zamanda bölgenin florası ve faunası hakkında bilgi sahibi oluyor.
+Sağmanık Tepesi, İç Anadolu Bölgesi'nin Sivas şehrinde yer alan ve doğa severler için önemli bir destinasyon olan bir tepe. Doğal güzelliği ve manzarasıyla ziyaretçilerini büyüleyen bu tepe, Sivas şehrinin önemli turizm noktalarından biri olarak kabul ediliyor. Ziyaretçiler, tepeye çıkarak şehrin panoramik manzarasını izleme fırsatı buluyor ve aynı zamanda bölgenin florası ve faunası hakkında bilgi sahibi oluyor.
 
 ## Tarihçe
 

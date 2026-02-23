@@ -28,7 +28,7 @@ wikidata_id: "Q31544887"
 
 # Diyaradama Tepesi
 
-Diyaradama Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan ve bölgenin en dikkat çekici doğal güzelliklerinden biri olarak kabul edilen bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye gelen ziyaretçiler için keyifli bir gezi alanı sunuyor. Diyaradama Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
+Diyaradama Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman ilinde yer alan ve bölgenin en dikkat çekici doğal güzelliklerinden biri olarak kabul edilen bir tepe. Diyaradama Tepesi, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

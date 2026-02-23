@@ -28,7 +28,7 @@ wikidata_id: "Q31385564"
 
 # Kurusivrisi Tepe
 
-Kurusivrisi Tepe, Aydın ilinin merkezinde yer alan bir tepe olup, yaklaşık 140 hektarlık alanıyla önemli bir doğal ve tarihi güzelliktir. Bu tepe, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu tepe, Aydın'ın tarihi ve kültürel mirasını yansıtan önemli bir noktadır. Kurusivrisi Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle büyülemeye devam etmektedir. Aydın'ın merkezinde yer almasıyla, ulaşım açısından kolaylık sağlamaktadır.
+Kurusivrisi Tepe, Aydın ilinin merkezinde yer alan bir tepe olup, yaklaşık 140 hektarlık alanıyla önemli bir doğal ve tarihi güzelliktir. Bu tepe, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biridir. Kurusivrisi Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle büyülemeye devam etmektedir. Aydın'ın merkezinde yer almasıyla, ulaşım açısından kolaylık sağlamaktadır.
 
 ## Tarihçe
 

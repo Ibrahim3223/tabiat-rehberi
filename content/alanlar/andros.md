@@ -34,8 +34,8 @@ Güney Ege'nin en büyük adası olan Andros, Türkiye'nin kıyı şeridindeki �
 
 ## Tarihçe
 
-Güney Ege'nin gizli cenneti Andros, tarihin derinliklerinde kaybolmuş bir ada. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşımış bir coğrafya. Antik Çağ'da, Likya ve Karya uygarlıkları, Güney Ege'nin zengin kaynaklarına ve stratejik konumuna sahip çıkarak, ticaret ve kültür merkezleri kurmuşlardır. 
-Andros, bu ticaret yollarının kesişme noktasında yer alıyor. Ada, yüzyıllar boyu insanların geçiş noktası, barınma alanı ve doğal kaynaklara erişim noktası olarak kullanılmış. Yaylacılık ve hayvancılık, bölgenin ekonomisinin temelini oluşturmuş. 
+Güney Ege'nin gizli cenneti Andros, tarihin derinliklerinde kaybolmuş bir ada. Bu bölge, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşımış bir coğrafya. Antik Çağ'da, Likya ve Karya uygarlıkları, Güney Ege'nin zengin kaynaklarına ve stratejik konumuna sahip çıkarak, ticaret ve kültür merkezleri kurmuşlardır.
+Andros, bu ticaret yollarının kesişme noktasında yer alıyor. Ada, yüzyıllar boyu insanların geçiş noktası, barınma alanı ve doğal kaynaklara erişim noktası olarak kullanılmış. Yaylacılık ve hayvancılık, bölgenin ekonomisinin temelini oluşturmuş.
 Andros'un tarihsel önemi, sadece ada itselfe değil, aynı zamanda çevredeki coğrafyaya da yayılıyor. Türkiye'de, bu tür doğal alanlar, insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde yer almış. Andros, bu zengin tarihsel mirasın bir parçası olarak, ziyaretçilerini geçmişe götürmeye davet ediyor.
 
 ## Coğrafya

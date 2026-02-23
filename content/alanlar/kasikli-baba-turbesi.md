@@ -1,7 +1,7 @@
 ---
 title: "Kaşıklı Baba Türbesi"
 date: "2026-01-10T06:50:15.078Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Eceabat ilçesi"
@@ -29,11 +29,11 @@ wikidata_id: "Q131390750"
 
 # Kaşıklı Baba Türbesi
 
-Kaşıklı Baba Türbesi, Eceabat ilçesinde yer alan tarihi bir türbe ve plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılar. Bu özel mekan, hem tarihi hem de doğal güzellikleriyle dikkat çeker. Türbenin çevresinde çeşitli bitki türleri bulunur ve ziyaretçiler burada hem doğayı hem de tarihi bir arada keşfedebilir. Kaşıklı Baba Türbesi, özellikle tarih ve doğa severler için önemli bir destinasyon olarak görülür.
+Kaşıklı Baba Türbesi, Eceabat ilçesinde yer alan tarihi bir türbe ve plajdır. Bu özel mekan, hem tarihi hem de doğal güzellikleriyle dikkat çeker. Türbenin çevresinde çeşitli bitki türleri bulunur ve ziyaretçiler burada hem doğayı hem de tarihi bir arada keşfedebilir. Kaşıklı Baba Türbesi, özellikle tarih ve doğa severler için önemli bir destinasyon olarak görülür.
 
 ## Tarihçe
 
-Kaşıklı Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca zengin bir kültürel mirası içinde barındırır. Bu türbe, bölgenin önemli dini ve kültürel noktalarından biridir. Tarihi tentanglarında, türbenin inşa edildiği dönem hakkında kesin bilgiler bulunmasa da, bölgenin tarihi önemi ve kültürel değerleri düşünüldüğünde, türbenin de önemli bir role sahip olduğu anlaşılır. Türbe, zaman içinde çeşitli restorasyonlar geçirmiş ve günümüzde de ibadete açık bir şekilde ziyaretçilerini ağırlamaya devam etmektedir. Kaşıklı Baba Türbesi, yalnızca bir dini yapı değil, aynı zamanda bölgenin história ve kültürel kimliği açısından da büyük bir öneme sahiptir.
+Kaşıklı Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca zengin bir kültürel mirası içinde barındırır. Bu türbe, bölgenin önemli dini ve kültürel noktalarından biridir. Tarihi tentanglarında, türbenin inşa edildiği dönem hakkında kesin bilgiler bulunmasa da, bölgenin tarihi önemi ve kültürel değerleri düşünüldüğünde, türbenin de önemli bir role sahip olduğu anlaşılır. Türbe, zaman içinde çeşitli restorasyonlar geçirmiş ve günümüzde de ibadete açık bir şekilde ziyaretçilerini ağırlamaya devam etmektedir. Kaşıklı Baba Türbesi, yalnızca bir dini yapı değil, aynı zamanda bölgenin tarihi ve kültürel kimliği açısından da büyük bir öneme sahiptir.
 
 ## Coğrafya
 

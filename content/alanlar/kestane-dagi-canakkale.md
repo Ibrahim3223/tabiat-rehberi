@@ -32,7 +32,7 @@ wikidata_id: "Q49041328"
 
 ## Tarihçe
 
-Çanakkale, tarihin derin izlerini taşıyan bir bölge. Kestane Dağı, bu bölgenin doğal güzelliklerinin önemli bir parçasını oluşturuyor. Çanakkale, históriki süreçte çeşitli uygarlıkların geçiş noktası olarak görev görmüş; Truva Savaşı'ndan, Bizans ve Osmanlı İmparatorluğu'nun hükümranlığına kadar uzanan geniş bir zaman dilimini kapsıyor. Bu topraklar, tarihin akışını şekillendiren önemli olaylara tanıklık etti.
+Çanakkale, tarihin derin izlerini taşıyan bir bölge. Kestane Dağı, bu bölgenin doğal güzelliklerinin önemli bir parçasını oluşturuyor. Çanakkale, tarihi süreçte çeşitli uygarlıkların geçiş noktası olarak görev görmüş; Truva Savaşı'ndan, Bizans ve Osmanlı İmparatorluğu'nun hükümranlığına kadar uzanan geniş bir zaman dilimini kapsıyor. Bu topraklar, tarihin akışını şekillendiren önemli olaylara tanıklık etti.
 
 Doğal alanlar, Türkiye'nin kültürel ve ekonomik dokusunda önemli bir yer tutuyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal güzelliklerle ilişkisini şekillendiren ana faktörler. Kestane Dağı ve benzeri bölgeler, bu bağlamda insan yaşamının bir parçası olarak kabul ediliyor. Bu tür doğal alanlar, sadece doğal güzellikleriyle değil, aynı zamanda tarih boyunca insanların yaşamını ve geçimini sağlayan kaynaklar olarak da önemli bir role sahip. Çanakkale'nin tarihi ve kültürel zenginliği, Kestane Dağı'nın da bir parçası olduğu bu doğal mirası koruma altına almak için güçlü bir neden sunuyor.
 

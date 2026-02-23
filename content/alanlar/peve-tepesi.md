@@ -28,7 +28,7 @@ wikidata_id: "Q31386629"
 
 # Peve Tepesi
 
-Peve Tepesi, İç Anadolu Bölgesi'nin eşsiz bir köşesinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepedir. Yaklaşık 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, ziyaretçilerine geniş bir manzara sunar ve bölgenin zengin doğasını keşfetme fırsatı sunar. Peve Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir destinasyondur.
+Peve Tepesi, İç Anadolu Bölgesi'nin eşsiz bir köşesinde yer alan ve tarihi geçmişiyle dikkat çeken bir tepedir. Bu tepe, ziyaretçilerine geniş bir manzara sunar ve bölgenin zengin doğasını keşfetme fırsatı sunar. Peve Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir destinasyondur.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31386038"
 
 # Ayazlı Tepe
 
-Ayazlı Tepe, Burdur'un merkezi bir bölgesinde yer alan, 140 hektarlık bir alanı kapsayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Ayazlı Tepe, ziyaretçilerine tarihi ve coğrafi açıdan zengin bir deneyimleyebilir sunuyor. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ayazlı Tepe'nin yüksekliği, şehrin diğer bölgelerine göre daha yüksektir ve bu nedenle, buradan şehrin panoramik manzarasını izleme mümkün.
+ Bu tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Ayazlı Tepe, ziyaretçilerine tarihi ve coğrafi açıdan zengin bir deneyimleyebilir sunuyor. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ayazlı Tepe'nin yüksekliği, şehrin diğer bölgelerine göre daha yüksektir ve bu nedenle, buradan şehrin panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 

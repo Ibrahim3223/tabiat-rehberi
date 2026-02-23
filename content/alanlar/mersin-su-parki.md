@@ -30,7 +30,7 @@ wikidata_id: "Q20949642"
 
 # Mersin Su Parkı
 
-Mersin Su Parkı, Mersin ilinin merkezinde yer alan ve yaklaşık 140 hektarlık bir alana yayılan bir su parkıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Mersin'in en büyük su parklarından biridir. Su parkı, yaz aylarında sıcaktan bunalan için keyifli bir kaçış noktasıdır. Su parkının içinde çeşitli su oyunları, havuzlar ve su kaydırakları bulunmaktadır. Ayrıca, su parkı içinde restoranlar, kafeler ve alışveriş olanakları da mevcuttur.
+Mersin Su Parkı, Mersin ilinin merkezinde yer alan ve yaklaşık 140 hektarlık bir alana yayılan bir su parkıdır. Su parkı, yaz aylarında sıcaktan bunalan için keyifli bir kaçış noktasıdır. Su parkının içinde çeşitli su oyunları, havuzlar ve su kaydırakları bulunmaktadır. Ayrıca, su parkı içinde restoranlar, kafeler ve alışveriş olanakları da mevcuttur.
 
 ## Tarihçe
 

@@ -50,9 +50,9 @@ Jeolojik açıdan bakıldığında, Supuluz Dağı'nın fiziksel yapısı hakkı
 
 ## Flora ve Fauna
 
-Supuluz Dağı, Bingöl'ün yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki Örtüsü bölümünde, ilkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, endemik türlerle dolu bir mozaik gibi görünür. 
-Yaban Hayatı bölümünde, dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksek zonlarında yaşar. Kuşlar, özellikle göç mevsiminde, dağları bir geçit olarak kullanır. 
+Supuluz Dağı, Bingöl'ün yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki Örtüsü bölümünde, ilkbaharın gelişiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Alpin çayırlar, endemik türlerle dolu bir mozaik gibi görünür.
+Yaban Hayatı bölümünde, dağ keçileri, ayılar ve kurtlar gibi büyük memeliler, dağların yüksek zonlarında yaşar. Kuşlar, özellikle göç mevsiminde, dağları bir geçit olarak kullanır.
 Ekolojik Değer bölümünde, Supuluz Dağı, yüksek dağ ekosisteminin korunması için büyük önem taşır. Bu alanın korunması, birçok endemik türün ve dağ ekosisteminin sürdürebilirliğini sağlar.
 
 ## Ziyaret Bilgileri

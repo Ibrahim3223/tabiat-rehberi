@@ -1,7 +1,7 @@
 ---
 title: "Çömlekköy Hamamı"
 date: "2026-01-09T23:49:09.132Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739239"
 
 # Çömlekköy Hamamı
 
-Çömlekköy Hamamı, Lalapaşa ilçesinde, Edirne'nin doğal güzelliklerinin arasında yer alır. Bu alan, yaklaşık 140 hektarlık büyüklüğüyle, 200 futbol sahası büyüklüğünde bir alanı kaplar. Lalapaşa'nın güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Çömlekköy Hamamı, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Lalapaşa'nın turistik noktalarından biri olan bu hamam, ziyaretçilerini bekliyor.
+Çömlekköy Hamamı, Lalapaşa ilçesinde, Edirne'nin doğal güzelliklerinin arasında yer alır. Lalapaşa'nın güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Çömlekköy Hamamı, hem doğal güzelliği hem de tarihi geçmişiyle dikkat çeker. Lalapaşa'nın turistik noktalarından biri olan bu hamam, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ wikidata_id: "Q131739239"
 
 ## Coğrafya
 
-Çömlekköy Hamamı, Marmara Bölgesi'nin Lalapaşa ilçesinde yer alır. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahiptir. Hamamın bulunduğu alan, yaklaşık 140 hektarlık bir alanı kaplar ve bu alan, 200 futbol sahası büyüklüğündedir. Lalapaşa'nın coğrafi yapısı, bu hamamın güzelliğini daha da arttırmaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Çömlekköy Hamamı, Lalapaşa'nın güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Bu hamamın etrafında, çeşitli su kaynakları ve doğal güzellikler bulunmaktadır.
+Çömlekköy Hamamı, Marmara Bölgesi'nin Lalapaşa ilçesinde yer alır. Bu bölge, coğrafi olarak oldukça zengin bir yapıya sahiptir. Lalapaşa'nın coğrafi yapısı, bu hamamın güzelliğini daha da arttırmaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Çömlekköy Hamamı, Lalapaşa'nın güzelliklerini keşfetmek isteyenler için ideal bir noktadır. Bu hamamın etrafında, çeşitli su kaynakları ve doğal güzellikler bulunmaktadır.
 
 ## Flora ve Fauna
 
-Çömlekköy Hamamı, Lalapaşa'nın doğal güzelliklerinin arasında yer alır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu hamamın etrafında, farklı mevsimlerde farklı renklerde çiçekler açar ve bu, régionun güzelliğini daha da arttırmaktadır. Çömlekköy Hamamı, Lalapaşa'nın ekolojik dengesini korumak için önemli bir noktadır. Bu hamamın etrafında, çeşitli hayvan türleri ve bitkiler bulunmaktadır ve bu, bölge halkı için önemli bir kaynak teşkil etmektedir.
+Çömlekköy Hamamı, Lalapaşa'nın doğal güzelliklerinin arasında yer alır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu hamamın etrafında, farklı mevsimlerde farklı renklerde çiçekler açar ve bu, bölgenin güzelliğini daha da arttırmaktadır. Çömlekköy Hamamı, Lalapaşa'nın ekolojik dengesini korumak için önemli bir noktadır. Bu hamamın etrafında, çeşitli hayvan türleri ve bitkiler bulunmaktadır ve bu, bölge halkı için önemli bir kaynak teşkil etmektedir.
 
 ## Ziyaret Bilgileri
 

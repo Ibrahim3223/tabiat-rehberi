@@ -33,7 +33,7 @@ Muğla'nın doğal güzellikleriyle dolu coğrafyasında, ziyaretçilerini bekle
 
 ## Tarihçe
 
-Muğla bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Bu bölge, tarih boyunca çeşitli uygarlıkların hakimiyetine girmiş ve her biri kendi kültürel izini bırakmıştır. Likya, Karya ve Roma uygarlıkları gibi medeniyetler, Muğla'nın zengin tarihini şekillendirmişlerdir.
+Muğla bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Bu bölge, tarih boyunca çeşitli uygarlıkların hakimiyetine girmiş ve her biri kendi kültürel izini bırakmıştır. Likya, Karya ve Roma uygarlıkları gibi medeniyetler, Muğla'nın zengin tarihini şekillendirmişlerdir.
 
 Doğal güzellikleri ve stratejik konumuyla, Muğla ve çevresindeki dağlar, insanların yaşamında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgenin tarihi boyunca süre gelen faaliyetler arasındadır. İnsanların doğayla uyum içinde yaşadıkları bu coğrafyada, Ali Dağı gibi doğal alanlar, önemli birer durak noktası olarak görev görmüşlerdir.
 
@@ -64,6 +64,6 @@ Ali Dağı, Muğla'nın doğal güzelliklerini keşfetmek isteyenler için ideal
 - Ali Dağı, Muğla ilinin Datça yarımadasında yer alan bir dağdır.
 - Dağın yüksekliği yaklaşık 1.315 metredir.
 - Ali Dağı, Datça Yarımadası'nın en yüksek noktasıdır.
-- Dağın eteklerinde históriki Marmaris kentine ulaşma mümkündür.
+- Dağın eteklerinde tarihi Marmaris kentine ulaşma mümkündür.
 - Ali Dağı'nın etrafında birçok antik kent kalıntıları bulunmaktadır.
 - Dağın zirvesinden Akdeniz ve Ege Denizi manzaraları izlenebilir.

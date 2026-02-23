@@ -32,11 +32,11 @@ Balıkesir'in sakin sularında gizlenen Kumru Adası, Türkiye'nin batı kıyıs
 
 ## Tarihçe
 
-Balıkesir, Türkiye'nin kuzeybatı kıyısında yer alan bir ilidir ve tarihi M.Ö. 3000'lere kadar uzanır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuştur. Antik Çağ'da, Lidya ve Pers İmparatorluğu'nun egemenliği altına girmiş, daha sonra da Roma ve Bizans İmparatorluğu'nun bir parçası haline gelmiştir. 
+Balıkesir, Türkiye'nin kuzeybatı kıyısında yer alan bir ilidir ve tarihi M.Ö. 3000'lere kadar uzanır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuştur. Antik Çağ'da, Lidya ve Pers İmparatorluğu'nun egemenliği altına girmiş, daha sonra da Roma ve Bizans İmparatorluğu'nun bir parçası haline gelmiştir.
 
-Kumru Adası, Balıkesir'in sahil şeridinin bir parçası olarak, bölgenin doğal ve kültürel mirasının önemli bir bileşenini oluşturur. Türkiye'de, özellikle Ege ve Marmara bölgelerinde, benzer doğal alanlar tarih boyunca insanların yaşamlarının önemli bir parçası olmuştur. Bu alanlar, yaylacılık, hayvancılık ve ticaret yolları için stratejik noktalardır. 
+Kumru Adası, Balıkesir'in sahil şeridinin bir parçası olarak, bölgenin doğal ve kültürel mirasının önemli bir bileşenini oluşturur. Türkiye'de, özellikle Ege ve Marmara bölgelerinde, benzer doğal alanlar tarih boyunca insanların yaşamlarının önemli bir parçası olmuştur. Bu alanlar, yaylacılık, hayvancılık ve ticaret yolları için stratejik noktalardır.
 
-İnsanların bu tür doğal alanlarla ilişkisi, bölgenin coğrafi özellikleri ve iklimi nedeniyle şekillenmiştir. Yaylacılık ve hayvancılık faaliyetleri, bu alanların ekonomi ve kültür açısından önemini vurgular. Ayrıca, ticaret yolları üzerindeki konumu, Kumru Adası ve benzeri doğal alanların histórik öneminin bir başka boyutunu oluşturur. Bu bağlamda, Kumru Adası, sadece bir doğal güzellik değil, aynı zamanda tarihsel ve kültürel bir miras olarak da değerlendirilebilir.
+İnsanların bu tür doğal alanlarla ilişkisi, bölgenin coğrafi özellikleri ve iklimi nedeniyle şekillenmiştir. Yaylacılık ve hayvancılık faaliyetleri, bu alanların ekonomi ve kültür açısından önemini vurgular. Ayrıca, ticaret yolları üzerindeki konumu, Kumru Adası ve benzeri doğal alanların tarihi öneminin bir başka boyutunu oluşturur. Bu bağlamda, Kumru Adası, sadece bir doğal güzellik değil, aynı zamanda tarihsel ve kültürel bir miras olarak da değerlendirilebilir.
 
 ## Coğrafya
 

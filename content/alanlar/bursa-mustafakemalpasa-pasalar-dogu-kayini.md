@@ -22,7 +22,7 @@ wikidata_id: "Q108227781"
 
 # Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini
 
-Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, Marmara Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekolojik bölgelerinden biri olarak kabul edilir. Bu alan, doğa severlerin ve bilim insanlarının ilgisini çeken bir bölge olup, birçok bitki ve hayvan türüne ev sahipliği yapmaktadır. Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, aynı zamanda bölgenin tarihi ve kültürel geçmişi hakkında da önemli bilgiler sunmaktadır.
+Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, Marmara Bölgesi'nin en önemli doğal alanlarından biridir. Bu alan, doğa severlerin ve bilim insanlarının ilgisini çeken bir bölge olup, birçok bitki ve hayvan türüne ev sahipliği yapmaktadır. Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, aynı zamanda bölgenin tarihi ve kültürel geçmişi hakkında da önemli bilgiler sunmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini'nin tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, Marmara Bölgesi'nin kuzeybatısında yer almaktadır. Bu bölge, 140 hektarlık bir yeşil alan olup, yaklaşık 200 futbol sahası büyüklüğündedir. Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, bölgenin en önemli ekolojik bölgelerinden biri olarak kabul edilir. Bu alan, birçok bitki ve hayvan türüne ev sahipliği yapmaktadır. Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini'nin coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir. Bu bölge, birçok dere ve çay tarafından çevrelenmiştir. Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini'nin iklimi, ılıman ve yağışlı bir iklimdir. Bu bölge, yıl boyunca birçok mevsimsel değişime uğrar. Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, aynı zamanda bölgenin en önemli su kaynaklarından biri olarak kabul edilir.
+Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, Marmara Bölgesi'nin kuzeybatısında yer almaktadır. Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, bölgenin en önemli ekolojik bölgelerinden biri olarak kabul edilir. Bu alan, birçok bitki ve hayvan türüne ev sahipliği yapmaktadır. Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini'nin coğrafi yapısı, dağlık ve engebeli bir araziye sahiptir. Bu bölge, birçok dere ve çay tarafından çevrelenmiştir. Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini'nin iklimi, ılıman ve yağışlı bir iklimdir. Bu bölge, yıl boyunca birçok mevsimsel değişime uğrar. Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini, aynı zamanda bölgenin en önemli su kaynaklarından biri olarak kabul edilir.
 
 ## Flora ve Fauna
 

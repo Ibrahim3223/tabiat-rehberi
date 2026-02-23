@@ -1,7 +1,7 @@
 ---
 title: "Sümmani Baba Türbesi"
 date: "2026-01-10T07:07:06.914Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390807"
 
 # Sümmani Baba Türbesi
 
-Sümmani Baba Türbesi, Narman ilçesi sınırları içerisinde yer alan, tarihi ve doğal güzellikleri ile dikkat çeken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte, ziyaretçilerine hem tarihin izlerini hem de doğanın güzelliğini sunuyor. Bu bölge, Doğu Anadolu Bölgesi'nin coğrafi zenginliklerini ve kültürel mirasını yansıtan önemli bir nokta olarak görülüyor. Sümmani Baba Türbesi, ziyaretçilerini hem tarihi açıdan hem de doğal güzellikleri ile etkileyerek, unutulmaz bir deneyim sunuyor.
+Sümmani Baba Türbesi, Narman ilçesi sınırları içerisinde yer alan, tarihi ve doğal güzellikleri ile dikkat çeken bir destinasyon. Bu bölge, Doğu Anadolu Bölgesi'nin coğrafi zenginliklerini ve kültürel mirasını yansıtan önemli bir nokta olarak görülüyor. Sümmani Baba Türbesi, ziyaretçilerini hem tarihi açıdan hem de doğal güzellikleri ile etkileyerek, unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

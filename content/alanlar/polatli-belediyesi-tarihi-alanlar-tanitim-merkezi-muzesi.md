@@ -1,7 +1,7 @@
 ---
 title: "Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi"
 date: "2026-01-10T15:12:09.691Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q132950113"
 
 # Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi
 
-Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi, Ankara'nın kalbinde yer alan bir kültür ve tarih merkezidir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir tarihi ve kültürel zenginlik sunar. Bu müze, İç Anadolu Bölgesi'nin tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçilerin tarihi eserleri ve sergileri incelemesi, bölgenin geçmişini ve günümüzdeki önemini anlaması mümkündür.
+Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi, Ankara'nın kalbinde yer alan bir kültür ve tarih merkezidir. Bu müze, İç Anadolu Bölgesi'nin tarihini ve kültürünü keşfetmek isteyenler için ideal bir destinasyondur. Ziyaretçilerin tarihi eserleri ve sergileri incelemesi, bölgenin geçmişini ve günümüzdeki önemini anlaması mümkündür.
 
 ## Tarihçe
 

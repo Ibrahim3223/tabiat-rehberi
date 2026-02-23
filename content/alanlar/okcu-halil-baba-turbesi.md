@@ -1,7 +1,7 @@
 ---
 title: "Okçu Halil Baba Türbesi"
 date: "2026-01-10T05:23:08.195Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391753"
 
 # Okçu Halil Baba Türbesi
 
-Okçu Halil Baba Türbesi, Ege Bölgesi'nin güzide illerinden biri olan Denizli'nin Babadağ ilçesinde yer alan tarihi bir türbe ve plajdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir yeşil alan sunar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir açık alan deneyimi sunar. Okçu Halil Baba Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir destinasyon olarak dikkat çeker. Bu türbe, bölgenin önemli tarihi ve kültürel değerlerinden biri olarak kabul edilir ve ziyaretçilerini tarihin derinliklerine götürmeyi vaat eder.
+Okçu Halil Baba Türbesi, Ege Bölgesi'nin güzide illerinden biri olan Denizli'nin Babadağ ilçesinde yer alan tarihi bir türbe ve plajdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir yeşil alan sunar. Okçu Halil Baba Türbesi, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir destinasyon olarak dikkat çeker. Bu türbe, bölgenin önemli tarihi ve kültürel değerlerinden biri olarak kabul edilir ve ziyaretçilerini tarihin derinliklerine götürmeyi vaat eder.
 
 ## Tarihçe
 

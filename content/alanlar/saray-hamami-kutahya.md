@@ -1,7 +1,7 @@
 ---
 title: "Saray Hamamı, Kütahya"
 date: "2026-01-09T23:56:16.887Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q133245813"
 
 # Saray Hamamı, Kütahya
 
-Kütahya'nın merkezinde yer alan Saray Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan tarihi bir yapıdır. Bu yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alana yayılmış ve şehrin önemli tarihi noktalarından biridir. Saray Hamamı, Kütahya'nın zengin tarihini ve kültürel mirasını yansıtan önemli bir yapıttır. İnsanların bu yapıyı ziyaret etmelerinin ardında, tarihi geçmişini keşfetme ve doğal güzelliklerini görme arzusu yatmaktadır. Saray Hamamı, Kütahya'nın önemli turizm noktalarından biri olarak kabul edilmektedir.
+Kütahya'nın merkezinde yer alan Saray Hamamı, yaklaşık 140 hektarlık bir alanı kaplayan tarihi bir yapıdır. Saray Hamamı, Kütahya'nın zengin tarihini ve kültürel mirasını yansıtan önemli bir yapıttır. İnsanların bu yapıyı ziyaret etmelerinin ardında, tarihi geçmişini keşfetme ve doğal güzelliklerini görme arzusu yatmaktadır. Saray Hamamı, Kütahya'nın önemli turizm noktalarından biri olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Saray Hamamı, yıl boyunca ziyaret edilebilecek bir yapıdır. Ziyaretçiler, S
 ## İlginç Bilgiler
 
 - Saray Hamamı, Kütahya'nın en önemli tarihi yapılarından biridir.
-- Saray Hamamı, yaklaşık 200 futbol sahası büyüklüğünde bir alana yayılmıştır.
+
 - Saray Hamamı, Kütahya'nın kültür ve mirasının önemli bir parçasıdır.
 - Saray Hamamı, yıl boyunca ziyaret edilebilecek bir yapıdır.
 - Saray Hamamı, Kütahya'nın coğrafi özelliklerini taşımakta ve çevresindeki doğa güzellikleriyle dikkat çekmektedir.

@@ -34,7 +34,7 @@ Kumluca'nın doğal güzelliklerinin arasında gizli bir hazine olarak bulunan U
 
 ## Tarihçe
 
-Ulu Burun, Antalya'nın zengin doğal mirasının önemli bir parçasını oluşturan bir kuş cenneti. Bu bölge, tarihin sâu izlerini taşıyan bir coğrafyanın içerisinde yer alıyor. Antalya, tarihi boyuncaVarious uygarlıkların yerleşim yeri olmuş; Likyalılar, Romalılar ve Selçuklular gibi medeniyetler bu topraklarda yaşamış. Bu bölgenin stratejik konumu, tarihi trade yollarının kesişme noktasında bulunması, Ulu Burun gibi doğal alanların da insan faaliyetleri ile etkileşim içinde olmasını sağlamış.
+Ulu Burun, Antalya'nın zengin doğal mirasının önemli bir parçasını oluşturan bir kuş cenneti. Bu bölge, tarihin derin izlerini taşıyan bir coğrafyanın içerisinde yer alıyor. Antalya, tarihi boyuncaVarious uygarlıkların yerleşim yeri olmuş; Likyalılar, Romalılar ve Selçuklular gibi medeniyetler bu topraklarda yaşamış. Bu bölgenin stratejik konumu, tarihi trade yollarının kesişme noktasında bulunması, Ulu Burun gibi doğal alanların da insan faaliyetleri ile etkileşim içinde olmasını sağlamış.
 
 Türkiye'de, Ulu Burun gibi doğal alanlar, sadece biyolojik çeşitlilik açısından değil, aynı zamanda kültürel miras açısından da önemli. Bu tür alanlar, yüzyıllar boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sunmuş, yaylacılık, hayvancılık ve tarım gibi faaliyetlerin merkezinde yer almış. Ayrıca, tarihi ticaret yolları üzerinde bulunan bu bölge, insanların ve ürünlerin hareketi için önemli bir uğrak noktası olmuştur. Ulu Burun'un tarihsel bağlamı, bu zengin kültürel ve doğal mirası koruma altına almak için büyük bir önem taşıyor. Bu alanın korunması, sadece doğal yaşamın muhafazası değil, aynı zamanda bu topraklarda yaşayan insanların kültürel kimliklerinin de korunması anlamına geliyor.
 
@@ -50,7 +50,7 @@ Ulu Burun, çevresindeki ekosistem ile güçlü bir bağlantı içinde bulunuyor
 
 ## Flora ve Fauna
 
-Ulu Burun, Antalya'nın step bitki örtüsüne ev sahipliği yapan bir "kuş cenneti". Bu 1200 hektarlık yeşil cennet, ilkbaharla birlikte rengarenk çiçeklerle donanır. Step bitkileri, kuraklığa adapte olmuş türler, bozkırın karakteristik bitkileri olarak bu bölgede hakimdir. 
+Ulu Burun, Antalya'nın step bitki örtüsüne ev sahipliği yapan bir "kuş cenneti". Bu 1200 hektarlık yeşil cennet, ilkbaharla birlikte rengarenk çiçeklerle donanır. Step bitkileri, kuraklığa adapte olmuş türler, bozkırın karakteristik bitkileri olarak bu bölgede hakimdir.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Kuşlar, özellikle sonbaharda göç ederken bu bölgeyi önemli bir uğrak noktası olarak kullanır. Step bitkileri arasında dolaşan yaban keçileri ve tilkiler, bölgenin ekolojik dengesini korur.
 

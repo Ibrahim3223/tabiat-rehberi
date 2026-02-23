@@ -49,7 +49,7 @@ Mevsimsel değişimler açısından, Aslan Dağı'nın iklim karakteri, bölgeni
 
 ## Flora ve Fauna
 
-Aslan Dağı, Hakkari'nin yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Aslan Dağı, Hakkari'nin yüksek dağ ekolojisini ve alpin çayırlarını barındıran bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünü oluşturan hakim türler, mevsimsel değişimlere göre değişkenlik gösterir. İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göç eden kuşlar bu dağları geçiş noktaları olarak kullanır. Alpin flora, dağların yükseklik zonlarına uyum sağlamış özel bitkilerle karakterizedir.
 

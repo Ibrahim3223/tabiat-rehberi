@@ -1,7 +1,7 @@
 ---
 title: "Cemal Bey Hamamı"
 date: "2026-01-09T23:07:51.326Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738897"
 
 # Cemal Bey Hamamı
 
-Ege Bölgesi'nin Efeler ilçesinde yer alan Cemal Bey Hamamı, doğa severlerin keyifle ziyaret ettiği bir doğal plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir kumsal sunuyor. Bu güzel plaj, Ege Bölgesi'nin güzelliğini gözler önüne seren bir doğa harikası. Efeler'in merkezine yakın konumuyla da kolay ulaşılabilir. Cemal Bey Hamamı, Ege Bölgesi'nin güzelliklerini deneyimlemek isteyenler için ideal bir destinasyon.
+Ege Bölgesi'nin Efeler ilçesinde yer alan Cemal Bey Hamamı, doğa severlerin keyifle ziyaret ettiği bir doğal plajdır. Bu güzel plaj, Ege Bölgesi'nin güzelliğini gözler önüne seren bir doğa harikası. Efeler'in merkezine yakın konumuyla da kolay ulaşılabilir. Cemal Bey Hamamı, Ege Bölgesi'nin güzelliklerini deneyimlemek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

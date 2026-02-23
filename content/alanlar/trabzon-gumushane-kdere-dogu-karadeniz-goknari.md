@@ -22,7 +22,7 @@ wikidata_id: "Q108227593"
 
 # Trabzon-Gumushane-K.dere Dogu Karadeniz Goknari
 
-Trabzon-Gumushane-K.dere Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle dolu. Bu milli park, aynı zamanda yerel halkın geleneksel yaşam tarzını koruma altına almak amacıyla kurulmuş ve bu amaçla önemli adımlar atılmış. Doğal güzelliği ve zengin fauna çeşitliliği ile ziyaretçilerini büyüleyen bu alan, Karadeniz Bölgesi'nin turizm potansiyelini artırıyor.
+Trabzon-Gumushane-K.dere Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu milli park, aynı zamanda yerel halkın geleneksel yaşam tarzını koruma altına almak amacıyla kurulmuş ve bu amaçla önemli adımlar atılmış. Doğal güzelliği ve zengin fauna çeşitliliği ile ziyaretçilerini büyüleyen bu alan, Karadeniz Bölgesi'nin turizm potansiyelini artırıyor.
 
 ## Tarihçe
 

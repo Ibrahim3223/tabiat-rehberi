@@ -48,11 +48,11 @@ Bölgenin su kaynakları ve ekosistem bağlantıları, Kaşıklı Tepe'nin çevr
 
 ## Flora ve Fauna
 
-Kaşıklı Tepe, Mardin'in yarı kurak ikliminde, step ve ova ekolojisine ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kaşıklı Tepe, Mardin'in yarı kurak ikliminde, step ve ova ekolojisine ev sahipliği yapan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Sonbaharda ise, göçmen kuşların ziyaretleri bu alanı canlı bir hale getiriyor. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği de görülebiliyor. 
+Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Sonbaharda ise, göçmen kuşların ziyaretleri bu alanı canlı bir hale getiriyor. Yükseklik zonlarına bağlı olarak, alpin flora çeşitliliği de görülebiliyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenler ile zengin bir çeşitlilik sunuyor. Bu dağ ekosisteminde, yükseklik zonlarına adapte olmuş canlılar, yaşam alanlarıyla birlikte gözlemlenebiliyor. Ekolojik ilişkiler, bu dağda yaşayan canlıların birbirine bağımlılığını gösteriyor. Örneğin, bazı bitkiler belirli hayvan türlerine bağımlı olarak yetişirken, bazı hayvanlar da bu bitkilerin varlığına bağlı olarak yaşamlarını sürdürüyor. Bu nedenle, Kaşıklı Tepe'nin korunması, bölgenin ekolojik dengesini korumak açısından büyük önem taşıyor.
+Yaban hayatı, memeliler, kuşlar ve sürüngenler ile zengin bir çeşitlilik sunuyor. Bu dağ ekosisteminde, yükseklik zonlarına adapte olmuş canlılar, yaşam alanlarıyla birlikte gözlemlenebiliyor. Ekolojik ilişkiler, bu dağda yaşayan canlıların birbirine bağımlılığını gösteriyor. Örneğin, bazı bitkiler belirli hayvan türlerine bağımlı olarak yetişirken, bazı hayvanlar da bu bitkilerin varlığına bağlı olarak yaşamlarını sürdürüyor.
 
 ## Ziyaret Bilgileri
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228580"
 
 # Antalya-Korkuteli-Yazir-Atlas Sakizi
 
-Antalya-Korkuteli-Yazir-Atlas Sakızı Milli Parkı, Akdeniz Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, özellikle Atlas sakızı ağacı türleri ile bilinir ve bölgenin ekolojik dengesine önemli katkılar sağlar. Parkın sunduğu manzaralar ve doğal güzellikler, ziyaretçilerini büyülenecek bir deneyime davet ediyor.
+Antalya-Korkuteli-Yazir-Atlas Sakızı Milli Parkı, Akdeniz Bölgesi'nin güzide mekanlarından biri olarak dikkat çekiyor. Bu milli park, özellikle Atlas sakızı ağacı türleri ile bilinir ve bölgenin ekolojik dengesine önemli katkılar sağlar. Parkın sunduğu manzaralar ve doğal güzellikler, ziyaretçilerini büyülenecek bir deneyime davet ediyor.
 
 ## Tarihçe
 

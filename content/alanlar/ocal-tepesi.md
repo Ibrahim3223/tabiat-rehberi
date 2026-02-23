@@ -29,7 +29,7 @@ wikidata_id: "Q34829657"
 
 # Öcal Tepesi
 
-Öcal Tepesi, Samsun'un Karadeniz Bölgesi'nde yer alan ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir tepe. Bu bölge, doğa severlerin ve trekkingDoing sevenlerin uğrak noktalarından biri. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Öcal Tepesi'ne çıkarak Samsun'un muhteşem manzarasını izleyebilirsiniz. Tepenin yüksekliği ve geniş görünümü, ziyaretçilere benzersiz bir deneyim sunuyor. Öcal Tepesi, hem doğa hem de tarih açısından önemli bir nokta.
+ Bu bölge, doğa severlerin ve trekkingDoing sevenlerin uğrak noktalarından biri. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Öcal Tepesi'ne çıkarak Samsun'un muhteşem manzarasını izleyebilirsiniz. Tepenin yüksekliği ve geniş görünümü, ziyaretçilere benzersiz bir deneyim sunuyor. Öcal Tepesi, hem doğa hem de tarih açısından önemli bir nokta.
 
 ## Tarihçe
 

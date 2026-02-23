@@ -1,7 +1,7 @@
 ---
 title: "Nebi Yahya Nebi Hamza Türbesi"
 date: "2026-01-10T05:26:29.898Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Hatay"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391734"
 
 # Nebi Yahya Nebi Hamza Türbesi
 
-Samandağ'da yer alan Nebi Yahya Nebi Hamza Türbesi, Akdeniz Bölgesi'nin önemli dini merkezlerinden biri olarak kabul edilir. Bu tarihi mekan, yaklaşık 140 hektarlık bir alanda yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Nebi Yahya Nebi Hamza Türbesi, ziyaretçilerini tarihi ve dini önemi ile çekiyor. Bu mekan, özellikle dini açıdan önemli bir merkez olarak biliniyor.
+Samandağ'da yer alan Nebi Yahya Nebi Hamza Türbesi, Akdeniz Bölgesi'nin önemli dini merkezlerinden biri olarak kabul edilir. Bu tarihi mekan, yaklaşık 140 hektarlık bir alanda yer alıyor. Nebi Yahya Nebi Hamza Türbesi, ziyaretçilerini tarihi ve dini önemi ile çekiyor. Bu mekan, özellikle dini açıdan önemli bir merkez olarak biliniyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Nebi Yahya Nebi Hamza Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekill
 
 ## Coğrafya
 
-Nebi Yahya Nebi Hamza Türbesi, Samandağ'da yer alıyor. Bu mekan, Akdeniz Bölgesi'nin önemli dini merkezlerinden biri. Coğrafi olarak, bu alan, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Türbe, deniz seviyesinden belirli bir yükseklikte yer alıyor. İklim, Akdeniz iklimi özellikleri gösteriyor. Bu mekan, yeşilin ve mavinin birleştiği bir noktada yer alıyor. Deniz ve dağ manzaraları, ziyaretçilere eşsiz bir görünüm sunuyor. Nebi Yahya Nebi Hamza Türbesi, coğrafi konumu ile ziyaretçilerini çekiyor.
+Nebi Yahya Nebi Hamza Türbesi, Samandağ'da yer alıyor. Bu mekan, Akdeniz Bölgesi'nin önemli dini merkezlerinden biri. Türbe, deniz seviyesinden belirli bir yükseklikte yer alıyor. İklim, Akdeniz iklimi özellikleri gösteriyor. Bu mekan, yeşilin ve mavinin birleştiği bir noktada yer alıyor. Deniz ve dağ manzaraları, ziyaretçilere eşsiz bir görünüm sunuyor. Nebi Yahya Nebi Hamza Türbesi, coğrafi konumu ile ziyaretçilerini çekiyor.
 
 ## Flora ve Fauna
 
@@ -52,5 +52,5 @@ Nebi Yahya Nebi Hamza Türbesi'ni ziyaret etmek, özellikle dini açıdan öneml
 - Nebi Yahya Nebi Hamza Türbesi, Samandağ'da yer alıyor.
 - Bu mekan, Akdeniz Bölgesi'nin önemli dini merkezlerinden biri.
 - Türbe, yaklaşık 140 hektarlık bir alanda yer alıyor.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Nebi Yahya Nebi Hamza Türbesi, dini açıdan önemli bir merkez olarak biliniyor.

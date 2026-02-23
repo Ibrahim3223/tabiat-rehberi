@@ -1,7 +1,7 @@
 ---
 title: "Soğucak Türbesi"
 date: "2026-01-10T04:58:13.495Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aydın"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391541"
 
 # Soğucak Türbesi
 
-Soğucak Türbesi, Kuşadası'nın en çok ziyaret edilen yerlerinden biridir. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Soğucak Türbesi, hem doğal güzellikleri hem de tarihi önemi ile dikkat çeker. Burada, tarihi bir türbe ve çevresindeki doğa, ziyaretçilere benzersiz bir deneyim sunar. Soğucak Türbesi, Ege Bölgesi'nin turizm açısından önemli bir noktasıdır ve her yıl binlerce ziyaretçi tarafından tercih edilir.
+Soğucak Türbesi, Kuşadası'nın en çok ziyaret edilen yerlerinden biridir. Soğucak Türbesi, hem doğal güzellikleri hem de tarihi önemi ile dikkat çeker. Burada, tarihi bir türbe ve çevresindeki doğa, ziyaretçilere benzersiz bir deneyim sunar. Soğucak Türbesi, Ege Bölgesi'nin turizm açısından önemli bir noktasıdır ve her yıl binlerce ziyaretçi tarafından tercih edilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Soğucak Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu türb
 
 ## Coğrafya
 
-Soğucak Türbesi, Kuşadası'nın en güzel doğal alanlarından birinde yer alır. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Soğucak Türbesi'nin bulunduğu alan, 140 hektarlık bir yeşil alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Bu bölge, yüksek bir konumda yer alır. Soğucak Türbesi, Kuşadası'nın merkezine uzun bir mesafe uzaklıkta yer alır. Bu türbe, çevredeki dağlarla çevrili bir vadide yer alır ve doğal güzellikleri ile dikkat çeker. Soğucak Türbesi'nin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, sıcak ve kurudır. Bu bölgede, yaz aylarında sıcaklık 30 dereceye kadar çıkabilirken, kış aylarında 10 dereceye kadar düşebilir. Soğucak Türbesi, doğal güzellikleri ve tarihi önemi ile önemli bir turizm merkezi olarak hizmet vermeye devam etmektedir.
+Soğucak Türbesi, Kuşadası'nın en güzel doğal alanlarından birinde yer alır. Bu bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bu bölge, yüksek bir konumda yer alır. Soğucak Türbesi, Kuşadası'nın merkezine uzun bir mesafe uzaklıkta yer alır. Bu türbe, çevredeki dağlarla çevrili bir vadide yer alır ve doğal güzellikleri ile dikkat çeker. Soğucak Türbesi'nin iklimi, Ege Bölgesi'nin karakteristik iklimine uygun olarak, sıcak ve kurudır. Bu bölgede, yaz aylarında sıcaklık 30 dereceye kadar çıkabilirken, kış aylarında 10 dereceye kadar düşebilir. Soğucak Türbesi, doğal güzellikleri ve tarihi önemi ile önemli bir turizm merkezi olarak hizmet vermeye devam etmektedir.
 
 ## Flora ve Fauna
 

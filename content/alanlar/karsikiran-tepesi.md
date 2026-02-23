@@ -28,7 +28,7 @@ wikidata_id: "Q31516924"
 
 # Karşıkıran Tepesi
 
-Konya'nın İç Anadolu Bölgesi'nde yer alan Karşıkıran Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan ve yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğanın güzelliği ile karşılar. Bu tepe, Konya'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Karşıkıran Tepesi, Konya'nın merkezine uzun bir mesafe uzaklıkta yer almaktadır. Bu tepe, özellikle doğa yürüyüşleri ve fotoğrafçılık için ideal bir yerdir.
+ Bu tepe, Konya'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Karşıkıran Tepesi, Konya'nın merkezine uzun bir mesafe uzaklıkta yer almaktadır. Bu tepe, özellikle doğa yürüyüşleri ve fotoğrafçılık için ideal bir yerdir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Karşıkıran Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği 
 
 ## Coğrafya
 
-Karşıkıran Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu tepe, Konya'nın merkezine uzun bir mesafe uzaklıkta yer alır. Karşıkıran Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlar. Bu tepe, Konya'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Karşıkıran Tepesi, Konya'nın iklimini ve coğrafi yapısını yansıtan önemli bir noktadır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir alan sunar.
+Karşıkıran Tepesi, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir tepe olup, yaklaşık 140 hektarlık bir alanı kaplar. Bu tepe, Konya'nın merkezine uzun bir mesafe uzaklıkta yer alır. Karşıkıran Tepesi, özellikle ilkbahar ve sonbahar aylarında ziyaretçilerini ağırlar. Bu tepe, Konya'nın coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Karşıkıran Tepesi, Konya'nın iklimini ve coğrafi yapısını yansıtan önemli bir noktadır.
 
 ## Flora ve Fauna
 

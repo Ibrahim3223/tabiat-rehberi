@@ -33,7 +33,7 @@ Diyarbakır'ın tarihi dokusu içinde yer alan Kale Tepe, şehrin önemli doğal
 
 ## Tarihçe
 
-Diyarbakır, tarihin sâu izlerini taşıyan bir bölgedir. Binlerce yıl önce, bu topraklarda Urartular, Asurlar ve Persler gibi uygarlıklar yaşamıştır. Kale Tepe de, bu zengin tarihin bir parçasını oluşturan doğa harikalarından biridir. Türkiye'de benzer doğal alanlar, insanlık tarihinin önemli bölümünü şekillendirmiştir. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomisini ve kültürünü etmiştir.
+Diyarbakır, tarihin derin izlerini taşıyan bir bölgedir. Binlerce yıl önce, bu topraklarda Urartular, Asurlar ve Persler gibi uygarlıklar yaşamıştır. Kale Tepe de, bu zengin tarihin bir parçasını oluşturan doğa harikalarından biridir. Türkiye'de benzer doğal alanlar, insanlık tarihinin önemli bölümünü şekillendirmiştir. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomisini ve kültürünü etmiştir.
 
 Diyarbakır bölgesinin coğrafi konumu, tarihi İpek Yolu'nun önemli bir bölümünü oluşturmuş ve bölgeyi ticaret merkezine çevirmiştir. Bu durum, Kale Tepe gibi doğal alanların da insan faaliyetleri açısından önemli hale gelmesine neden olmuştur. İnsanların bu alanlarla ilişkisi, yalnızca ekonomik değil, aynı zamanda kültürel ve sosyal boyutlara da sahiptir. Bu bölgeler, insanların doğayla iç içe yaşadığı ve doğal güzelliklerin önemli bir parçası haline geldiği yerlerdir. Kale Tepe, Diyarbakır'ın doğal ve tarihsel zenginliklerini bir araya getiren önemli bir noktadır.
 

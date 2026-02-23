@@ -28,7 +28,7 @@ wikidata_id: "Q31580533"
 
 # Kirzeytin Dağı
 
-Muğla'nın doğal güzelliklerinin arasında yer alan Kirzeytin Dağı, ziyaretçilerini cezbeden bir destinasyon. Bu dağ, Muğla'nın zengin coğrafyasının bir parçası olarak karşımıza çıkıyor. Bölgenin doğal yapısını keşfetmek isteyenler için ideal bir nokta olan Kirzeytin Dağı, Muğla'nın çeşitli ilçelerinde bulunan diğer doğal güzellikleriyle birlikte bir bütün olarak değerlendiriliyor. Muğla'nın sunduğu bu doğal imkân, ziyaretçilerine unutulmaz anlar vaat ediyor.
+Muğla'nın doğal güzelliklerinin arasında yer alan Kirzeytin Dağı, ziyaretçilerini cezbeden bir destinasyon. Bu dağ, Muğla'nın zengin coğrafyasının bir parçası olarak karşımıza çıkıyor. Bölgenin doğal yapısını keşfetmek isteyenler için ideal bir nokta olan Kirzeytin Dağı, Muğla'nın çeşitli ilçelerinde bulunan diğer doğal güzellikleriyle birlikte bir bütün olarak değerlendiriliyor.
 
 ## Tarihçe
 

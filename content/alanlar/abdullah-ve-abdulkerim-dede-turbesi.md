@@ -1,7 +1,7 @@
 ---
 title: "Abdullah ve Abdülkerim Dede Türbesi"
 date: "2026-01-10T07:55:22.142Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,11 +29,11 @@ wikidata_id: "Q135582366"
 
 # Abdullah ve Abdülkerim Dede Türbesi
 
-Abdullah ve Abdülkerim Dede Türbesi, Ankara'nın Mamak ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölgede, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Tarihi türbe, doğal güzelliği ve tarihi önemiyle dikkat çekiyor. Ziyaretçiler, hem tarihi değerleri öğrenebiliyor hem de doğanın güzelliğini keşfedebiliyor.
+Abdullah ve Abdülkerim Dede Türbesi, Ankara'nın Mamak ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Tarihi türbe, doğal güzelliği ve tarihi önemiyle dikkat çekiyor. Ziyaretçiler, hem tarihi değerleri öğrenebiliyor hem de doğanın güzelliğini keşfedebiliyor.
 
 ## Tarihçe
 
-Abdullah ve Abdülkerim Dede Türbesi, tarihsel geçmişi ile dikkat çekiyor. Bu türbe, yüzyıllar boyunca önemli bir dini merkez olarak kabul edilmiştir. Tarihi hakkında detaylı bilgi bulunmasa da, bu bölgenin uzun yıllardır önemli bir kültürel ve dini merkez olduğu biliniyor. Türbenin inşa tarihi tam olarak bilinmese de, bölgenin histórik önemi tartışılmaz. Ziyaretçiler, türbenin tarihi atmosferini ve doğal güzelliğini deneyimleyebiliyor.
+Abdullah ve Abdülkerim Dede Türbesi, tarihsel geçmişi ile dikkat çekiyor. Bu türbe, yüzyıllar boyunca önemli bir dini merkez olarak kabul edilmiştir. Tarihi hakkında detaylı bilgi bulunmasa da, bu bölgenin uzun yıllardır önemli bir kültürel ve dini merkez olduğu biliniyor. Türbenin inşa tarihi tam olarak bilinmese de, bölgenin tarihi önemi tartışılmaz. Ziyaretçiler, türbenin tarihi atmosferini ve doğal güzelliğini deneyimleyebiliyor.
 
 ## Coğrafya
 
@@ -41,7 +41,7 @@ Abdullah ve Abdülkerim Dede Türbesi, İç Anadolu Bölgesi'nin coğrafi güzel
 
 ## Flora ve Fauna
 
-Abdullah ve Abdülkerim Dede Türbesi ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşuyor. Bölgenin flora ve fauna zenginliği, ziyaretçilerin ilgisini çekiyor. Mevsimsel değişimlerle birlikte, farklı bitki türleri ve hayvanlar bu bölgede yaşamlarını sürdürüyor. Bahar ve yaz aylarında, çiçekler ve yeşillikler bölgenin güzelliğini artırırken, sonbahar ve kış aylarında farklı bir atmosfer vytváranıyor. Ziyaretçiler, doğanın güzelliğini ve canlıların çeşitliliğini gözlemleyebiliyor.
+Abdullah ve Abdülkerim Dede Türbesi ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşuyor. Bölgenin flora ve fauna zenginliği, ziyaretçilerin ilgisini çekiyor. Mevsimsel değişimlerle birlikte, farklı bitki türleri ve hayvanlar bu bölgede yaşamlarını sürdürüyor. Bahar ve yaz aylarında, çiçekler ve yeşillikler bölgenin güzelliğini artırırken, sonbahar ve kış aylarında farklı bir atmosfer yaratılıyor. Ziyaretçiler, doğanın güzelliğini ve canlıların çeşitliliğini gözlemleyebiliyor.
 
 ## Ziyaret Bilgileri
 

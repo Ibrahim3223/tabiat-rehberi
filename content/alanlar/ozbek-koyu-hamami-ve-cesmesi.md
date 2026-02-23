@@ -1,7 +1,7 @@
 ---
 title: "Özbek Köyü Hamamı ve Çeşmesi"
 date: "2026-01-09T23:02:41.913Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale (ilçe)"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738844"
 
 # Özbek Köyü Hamamı ve Çeşmesi
 
-Özbek Köyü Hamamı ve Çeşmesi, Çanakkale'nin merkezinde, uzun bir mesafe uzaklıkta bulunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle büyülüyor. Köyün girişinde bulunan hamam ve çeşme, tarihi geçmişi ile dikkat çekiyor. Bu tarihi yapılar, yüzyıllar boyunca köyün önemli merkezleri olarak hizmet vermiş. Köyün doğası, çeşitli bitki türleri ve zengin fauna ile dolu. Ziyaretçiler, köyün sokaklarını dolaşarak tarihi evleri ve geleneksel yaşam tarzını deneyimleyebilir.
+Özbek Köyü Hamamı ve Çeşmesi, Çanakkale'nin merkezinde, uzun bir mesafe uzaklıkta bulunuyor. Köyün girişinde bulunan hamam ve çeşme, tarihi geçmişi ile dikkat çekiyor. Bu tarihi yapılar, yüzyıllar boyunca köyün önemli merkezleri olarak hizmet vermiş. Köyün doğası, çeşitli bitki türleri ve zengin fauna ile dolu. Ziyaretçiler, köyün sokaklarını dolaşarak tarihi evleri ve geleneksel yaşam tarzını deneyimleyebilir.
 
 ## Tarihçe
 

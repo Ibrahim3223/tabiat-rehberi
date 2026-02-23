@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Hasan Nurani Türbesi"
 date: "2026-01-10T05:28:22.848Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391664"
 
 # Şeyh Hasan Nurani Türbesi
 
-Şeyh Hasan Nurani Türbesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinin Çınar ilçesinde bulunan önemli bir dini mekan. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Burada, ziyaretçiler hem dinî hem de doğayla iç içe bir deneyim yaşayabilirler. Şeyh Hasan Nurani Türbesi, bölge halkı tarafından büyük bir saygı ve hürmet gören önemli bir figürün anısını yaşatmaktadır. Türbenin etrafı, çeşitli bitki türleriyle dolu, zengin bir flora sunmaktadır. Ziyaretçiler, buraya gelerek hem dinî bir deneyim sngayabilir hem de doğanın güzelliğini keşfedebilir.
+Şeyh Hasan Nurani Türbesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinin Çınar ilçesinde bulunan önemli bir dini mekan. Burada, ziyaretçiler hem dinî hem de doğayla iç içe bir deneyim yaşayabilirler. Şeyh Hasan Nurani Türbesi, bölge halkı tarafından büyük bir saygı ve hürmet gören önemli bir figürün anısını yaşatmaktadır. Türbenin etrafı, çeşitli bitki türleriyle dolu, zengin bir flora sunmaktadır. Ziyaretçiler, buraya gelerek hem dinî bir deneyim sngayabilir hem de doğanın güzelliğini keşfedebilir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391664"
 
 ## Coğrafya
 
-Şeyh Hasan Nurani Türbesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinin Çınar ilçesinde bulunmaktadır. Bu bölge, coğrafî olarak oldukça zengin bir yapıya sahiptir. Türbenin etrafı, çeşitli bitki türleriyle dolu, zengin bir flora sunmaktadır. Bölge, aynı zamanda zengin bir fauna ile de dikkat çekmektedir. Ziyaretçiler, buraya gelerek hem dinî bir deneyim yaşayabilir hem de doğanın güzelliğini keşfedebilir. Şeyh Hasan Nurani Türbesi, yaklaşık 140 hektarlık bir alanı kaplayan geniş bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere hem dinî bir deneyim yaşama hem de doğayla iç içe bir deneyim yaşama fırsatı sunmaktadır. Bölgenin iklimi, genellikle sıcak ve kurudur. Ancak, türbenin etrafındaki yeşil alan, ziyaretçilere serin ve huzurlu bir ortam sunmaktadır.
+Şeyh Hasan Nurani Türbesi, Güneydoğu Anadolu Bölgesi'nin Diyarbakır ilinin Çınar ilçesinde bulunmaktadır. Bu bölge, coğrafî olarak oldukça zengin bir yapıya sahiptir. Türbenin etrafı, çeşitli bitki türleriyle dolu, zengin bir flora sunmaktadır. Bölge, aynı zamanda zengin bir fauna ile de dikkat çekmektedir. Ziyaretçiler, buraya gelerek hem dinî bir deneyim yaşayabilir hem de doğanın güzelliğini keşfedebilir. Bu geniş alan, ziyaretçilere hem dinî bir deneyim yaşama hem de doğayla iç içe bir deneyim yaşama fırsatı sunmaktadır. Bölgenin iklimi, genellikle sıcak ve kurudur. Ancak, türbenin etrafındaki yeşil alan, ziyaretçilere serin ve huzurlu bir ortam sunmaktadır.
 
 ## Flora ve Fauna
 

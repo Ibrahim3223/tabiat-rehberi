@@ -28,7 +28,7 @@ wikidata_id: "Q31389095"
 
 # Yarımca Tepesi
 
-Yarımca Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve bölgeye özgü flora ve fauna çeşitliliği sunan bir tepe olarak dikkat çeker. Bu tepe, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğa alanı sunar. Yarımca Tepesi, aynı zamanda bölgenin tarihçesi ve kültürel zenginliği hakkında da bilgi edinilebilecek bir destinasyon olarak karşımıza çıkar. Burada, yüzyıllar boyunca şekillenen coğrafi yapı ve doğa güzellikleri bir arada bulunmakta.
+Yarımca Tepesi, Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan ve bölgeye özgü flora ve fauna çeşitliliği sunan bir tepe olarak dikkat çeker. Yarımca Tepesi, aynı zamanda bölgenin tarihçesi ve kültürel zenginliği hakkında da bilgi edinilebilecek bir destinasyon olarak karşımıza çıkar. Burada, yüzyıllar boyunca şekillenen coğrafi yapı ve doğa güzellikleri bir arada bulunmakta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yarımca Tepesi'nin tarihi geçmişi, bölgenin genel tarihçesi ile paralel ola
 
 ## Coğrafya
 
-Yarımca Tepesi, coğrafi olarak Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölgenin genel yapısı gibi, tepe de volcanic ve sedimentatif kayaçlardan oluşmaktadır. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Çevre, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. Tepe, bölgenin su kaynaklarına da katkıda bulunur ve etraflarındaki vadiler ve ovaların sulanmasında önemli bir rol oynar. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğa alanı sunar. Coğrafi konumu, flora ve fauna çeşitliliği ile dikkat çeker.
+Yarımca Tepesi, coğrafi olarak Doğu Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölgenin genel yapısı gibi, tepe de volcanic ve sedimentatif kayaçlardan oluşmaktadır. İklim, karasal iklim özellikleri gösterir ve mevsimsel değişimler belirgindir. Çevre, çeşitli bitki türleri ve fauna ile zenginleştirilmiştir. Tepe, bölgenin su kaynaklarına da katkıda bulunur ve etraflarındaki vadiler ve ovaların sulanmasında önemli bir rol oynar. Coğrafi konumu, flora ve fauna çeşitliliği ile dikkat çeker.
 
 ## Flora ve Fauna
 

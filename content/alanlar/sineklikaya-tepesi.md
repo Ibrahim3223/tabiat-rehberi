@@ -28,11 +28,11 @@ wikidata_id: "Q31388588"
 
 # Sineklikaya Tepesi
 
-Sineklikaya Tepesi, Doğu Anadolu Bölgesi'nin en güzel doğal alanlarından biridir. Erzurum'un merkezine yakın bir konumda bulunan bu tepe, 1400 metrelik yüksekliği ile hem şehir merkezini hem de dağları panoramik olarak seyretmeye olanak tanır. Sineklikaya Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bu genişlik, ziyaretçilere geniş bir görüş açısı sunar. Bu tepe, hem yerel halk hem de turistler için bir çekim merkezi olmuştur. Ziyaretçiler, Sineklikaya Tepesi'ne tırmanarak, şehir merkezini ve dağları izleyebilirler.
+Sineklikaya Tepesi, Doğu Anadolu Bölgesi'nin en güzel doğal alanlarından biridir. Erzurum'un merkezine yakın bir konumda bulunan bu tepe, 1400 metrelik yüksekliği ile hem şehir merkezini hem de dağları panoramik olarak seyretmeye olanak tanır. Bu tepe, hem yerel halk hem de turistler için bir çekim merkezi olmuştur. Ziyaretçiler, Sineklikaya Tepesi'ne tırmanarak, şehir merkezini ve dağları izleyebilirler.
 
 ## Tarihçe
 
-Sineklikaya Tepesi'nin tarihi geçmişi, binlerce yıl öncesine dayanır. Bu bölge, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış ve her bir uygarlık, buraya kendi kültürünü ve izlerini bırakmıştır. Sineklikaya Tepesi, Erzurum'un tarihi ve kültürel zenginliklerini yansıtan önemli bir noktadır. Bu tepe, aynı zamanda çeşitli efsanelere ve rivayetlere de konu olmuştur. Burada, ziyaretçiler, hem histórik bir gezi hem de doğal güzellikler arasında bir gün geçirebilirler.
+Sineklikaya Tepesi'nin tarihi geçmişi, binlerce yıl öncesine dayanır. Bu bölge, yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yapmış ve her bir uygarlık, buraya kendi kültürünü ve izlerini bırakmıştır. Sineklikaya Tepesi, Erzurum'un tarihi ve kültürel zenginliklerini yansıtan önemli bir noktadır. Bu tepe, aynı zamanda çeşitli efsanelere ve rivayetlere de konu olmuştur. Burada, ziyaretçiler, hem tarihi bir gezi hem de doğal güzellikler arasında bir gün geçirebilirler.
 
 ## Coğrafya
 
@@ -49,7 +49,7 @@ Sineklikaya Tepesi'ni ziyaret etmek, ziyaretçiler için bir doğa deneyimi suna
 ## İlginç Bilgiler
 
 - Sineklikaya Tepesi, 1400 metrelik yüksekliği ile panoramik bir görüş açısı sunar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
+
 - Sineklikaya Tepesi, tarihi geçmişi ile önemli bir kultur merkezi olarak kabul edilir.
 - Bu tepe, çeşitli efsanelere ve rivayetlere de konu olmuştur.
 - Sineklikaya Tepesi, doğa severler için bir çekim merkezi olarak kabul edilir.

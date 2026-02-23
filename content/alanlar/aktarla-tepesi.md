@@ -28,7 +28,7 @@ wikidata_id: "Q31390736"
 
 # Aktarla Tepesi
 
-Aktarla Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan ve ziyaretçilerini cezbeden bir doğa harikasıdır. Bu tepe, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Yaklaşık 200 futbol sahası büyüklüğündeki bu yeşil alan, birçok bitki türüne ev sahipliği yapar. Ayrıca, tepe çevresindeki manzaralar da ziyaretçilerin ilgisini çeker. Doğal güzelliği ve panoramik manzarasıyla Aktarla Tepesi, her yıl birçok ziyaretçiyi ağırlar.
+Aktarla Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan ve ziyaretçilerini cezbeden bir doğa harikasıdır. Bu tepe, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar. Ayrıca, tepe çevresindeki manzaralar da ziyaretçilerin ilgisini çeker. Doğal güzelliği ve panoramik manzarasıyla Aktarla Tepesi, her yıl birçok ziyaretçiyi ağırlar.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32139190"
 
 # Gümülek Tepesi
 
-Gümülek Tepesi, Adana'nın muhteşem manzarasına ev sahipliği yapan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğayla baş başa bırakmaya davet ediyor. Güneşin doğuşu ile birlikte tepenin eteklerinde oluşan sis perdesi, günün ilk ışıklarıyla birlikte yavaş yavaş kalkıyor ve Gümülek Tepesi'nin güzelliği ortaya çıkıyor. Bu alan, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennet.
+Gümülek Tepesi, Adana'nın muhteşem manzarasına ev sahipliği yapan bir doğa harikasıdır. Güneşin doğuşu ile birlikte tepenin eteklerinde oluşan sis perdesi, günün ilk ışıklarıyla birlikte yavaş yavaş kalkıyor ve Gümülek Tepesi'nin güzelliği ortaya çıkıyor. Bu alan, hem doğa severler hem de fotoğraf tutkunları için gerçek bir cennet.
 
 ## Tarihçe
 

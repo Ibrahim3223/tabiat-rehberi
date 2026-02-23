@@ -1,7 +1,7 @@
 ---
 title: "Karşıyaka Dedesi Türbesi"
 date: "2026-01-10T07:16:42.747Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390901"
 
 # Karşıyaka Dedesi Türbesi
 
-Karşıyaka Dedesi Türbesi, Kütahya ilinin Simav ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin önemli tarihi mekanlarından biridir. Bu alan, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmektedir. Ziyaretçiler, hem türbeyi gezebilmekte hem de plajda dinlenebilmektedir.
+Karşıyaka Dedesi Türbesi, Kütahya ilinin Simav ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. Bu alan, hem tarihi açıdan hem de doğal güzelliği ile dikkat çekmektedir. Ziyaretçiler, hem türbeyi gezebilmekte hem de plajda dinlenebilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karşıyaka Dedesi Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmak
 
 ## Coğrafya
 
-Karşıyaka Dedesi Türbesi, Simav ilçesinin güneyinde, Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu bölge, genellikle m ve serin iklim özellikleri ile tanınır. Türbenin bulunduğu alan, 140 hektarlık geniş bir yeşil alan ile çevrilidir ve yaklaşık 200 futbol sahası büyüklüğündedir. Plaj alanı, geniş kumsalları ve temiz suyu ile ziyaretçilerini cezbeden bir yerdir. Bölge, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Türbenin ve plajın bulunduğu bölge, doğal güzelliği ile ziyaretçilerini etkilemektedir.
+Karşıyaka Dedesi Türbesi, Simav ilçesinin güneyinde, Ege Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu bölge, genellikle m ve serin iklim özellikleri ile tanınır. Plaj alanı, geniş kumsalları ve temiz suyu ile ziyaretçilerini cezbeden bir yerdir. Bölge, aynı zamanda çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Türbenin ve plajın bulunduğu bölge, doğal güzelliği ile ziyaretçilerini etkilemektedir.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Baba Türbesi"
 date: "2026-01-10T07:01:49.884Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karabük"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390845"
 
 # Yıldız Baba Türbesi
 
-Yıldız Baba Türbesi, Karadeniz Bölgesi'nin Safranbolu ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Yıldız Baba Türbesi, tarihi ve kültürel önemi ile birlikte, muhteşem doğal manzarasıyla da dikkat çekiyor. Bu bölge, özellikle tarihi ve doğa severler için önemli bir gezi noktası olarak kabul ediliyor. Yıldız Baba Türbesi, Safranbolu'nun merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay.
+Yıldız Baba Türbesi, Karadeniz Bölgesi'nin Safranbolu ilçesinde yer alan bir tarihi ve doğal güzellik noktasıdır. Yıldız Baba Türbesi, tarihi ve kültürel önemi ile birlikte, muhteşem doğal manzarasıyla da dikkat çekiyor. Bu bölge, özellikle tarihi ve doğa severler için önemli bir gezi noktası olarak kabul ediliyor. Yıldız Baba Türbesi, Safranbolu'nun merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 

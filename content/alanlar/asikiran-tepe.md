@@ -50,9 +50,9 @@ Mevsimsel değişimler, Aşıkıran Tepe'nin iklim karakterini belirler. Kış a
 
 ## Flora ve Fauna
 
-Aşıkıran Tepe, Van'ın yüksek dağ ekosistemine ev sahipliği yapan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle dolar. Alpin flora, yükseklik zonlarına bağlı olarak değişir. 
+Aşıkıran Tepe, Van'ın yüksek dağ ekosistemine ev sahipliği yapan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle dolar. Alpin flora, yükseklik zonlarına bağlı olarak değişir.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağ çayırı habitatlarında yaşamlarını sürdürürken, kartallar ve diğer yırtıcı kuşlar bu bölgelerde yuva yapar. Sürüngenler de yükseklik zonlarına bağlı olarak farklı türlerle temsil edilir. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, dağ çayırı habitatlarında yaşamlarını sürdürürken, kartallar ve diğer yırtıcı kuşlar bu bölgelerde yuva yapar. Sürüngenler de yükseklik zonlarına bağlı olarak farklı türlerle temsil edilir.
 
 Bu bölge, endemik türlerin varlığı nedeniyle ekolojik olarak büyük önem taşır. Yüksek dağ ekolojisi, alpin çayırlar ve endemik türlerin bir arada yaşadığı bu bölge, doğa severler için bir cennet niteliğindedir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Yörük Dede Türbesi, Altındağ"
 date: "2026-01-10T06:34:10.529Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,11 +29,11 @@ wikidata_id: "Q135582401"
 
 # Yörük Dede Türbesi, Altındağ
 
-Yörük Dede Türbesi, Ankara'nın Altındağ ilçesinde yer alan önemli bir tarihi mekan. Bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılamakta. Türbenin bulunduğu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir alan sunmakta. Yörük Dede Türbesi, tarihi geçmişi ve doğal güzellikleriyle Ankara'nın önemli turistik mekanlarından biri.
+Yörük Dede Türbesi, Ankara'nın Altındağ ilçesinde yer alan önemli bir tarihi mekan. Bu türbe, yaklaşık 140 hektarlık bir alanda kurulmuş ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılamakta. Yörük Dede Türbesi, tarihi geçmişi ve doğal güzellikleriyle Ankara'nın önemli turistik mekanlarından biri.
 
 ## Tarihçe
 
-Yörük Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmakta. Bu türbe, yörenin önemli dini figürlerinden biri olan Yörük Dede'nin anısına inşa edilmiş. Yörük Dede, bölgede yaşayan halkın saygı ve sevgisini kazanmış bir kişi ve türbesi de bu nedenle önemli bir tarihi mekan olarak kabul edilmekte. Türbenin tarihi geçmişi, ziyaretçilere bölgenin kültürel ve dini Mirasını anlatmakta. Yörük Dede Türbesi, Ankara'nın tarihi mekanları arasında önemli bir yer tutmakta ve ziyaretçilerine zengin bir história sunmakta.
+Yörük Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine dayanmakta. Bu türbe, yörenin önemli dini figürlerinden biri olan Yörük Dede'nin anısına inşa edilmiş. Yörük Dede, bölgede yaşayan halkın saygı ve sevgisini kazanmış bir kişi ve türbesi de bu nedenle önemli bir tarihi mekan olarak kabul edilmekte. Türbenin tarihi geçmişi, ziyaretçilere bölgenin kültürel ve dini Mirasını anlatmakta. Yörük Dede Türbesi, Ankara'nın tarihi mekanları arasında önemli bir yer tutmakta ve ziyaretçilerine zengin bir tarihi sunmakta.
 
 ## Coğrafya
 

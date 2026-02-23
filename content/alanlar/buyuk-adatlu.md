@@ -42,7 +42,7 @@ Büyük Adatlu Dağı ve çevresi, bu tür faaliyetlerin merkezi olmuştur. Böl
 
 Doğunun gizli-corner'larından biri olan Büyük Adatlu, 39.8766°K ve 44.3420°D koordinatlarında yer alıyor. Bu konum, Iğdır ilinin dağlık bölgesinde, çevredeki dağlarla çevrili bir alanı işaret ediyor. Erişim konusunda, bölgeye ulaşmak için Iğdır şehir merkezinden yaklaşık 30 kilometrelik bir yolculuk gerekiyor. Bu yolculuk, bölgenin coğrafi olarak dağlık ve engebeli bir yapısı olduğunu gösteriyor.
 
-Dağların arasında yer alan Büyük Adatlu, boyutları hakkında kesin bilgiler olmasa da, jeolojik açıdan interessan bir yapıya sahip. Bölgenin jeolojisi, volkani ve sedimentary kayaçlardan oluşuyor. Bu kayaçlar, milyonlarca yıl önce oluşmuş ve bölgeyi şekillendirmiş. Büyük Adatlu'nun coğrafi yapısı, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor, ancak bu küçük alan, zengin bir jeolojik história sahip.
+Dağların arasında yer alan Büyük Adatlu, boyutları hakkında kesin bilgiler olmasa da, jeolojik açıdan interessan bir yapıya sahip. Bölgenin jeolojisi, volkani ve sedimentary kayaçlardan oluşuyor. Bu kayaçlar, milyonlarca yıl önce oluşmuş ve bölgeyi şekillendirmiş. Büyük Adatlu'nun coğrafi yapısı, Monaco'nun küçük bir bölümü kadar bir alanı kaplıyor, ancak bu küçük alan, zengin bir jeolojik tarihi sahip.
 
 Mevsimsel özellikler açısından, Büyük Adatlu'nun iklimi, bölgenin coğrafi konumuna göre değişiyor. Kış aylarında, bölgede kar yağışı görülürken, yaz aylarında sıcaklık 20 derecelere ulaşıyor. Bu mevsimsel değişiklikler, bölgenin flora ve fauna'sını etkiliyor. Hava durumu, bölgenin yüksekliği ve coğrafi konumu nedeniyle, oldukça değişken olabiliyor.
 

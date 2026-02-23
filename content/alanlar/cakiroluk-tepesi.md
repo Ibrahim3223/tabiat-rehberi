@@ -28,7 +28,7 @@ wikidata_id: "Q34827829"
 
 # Çakıroluk Tepesi
 
-Çakıroluk Tepesi, Denizli'nin gözde noktalarından biri olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Denizli'nin coğrafi yapısını anlamak için önemli bir nokta olan Çakıroluk Tepesi, aynı zamanda doğa severler için bir cennet. Burada yapılan yürüyüşler ve manzaranın tadını çıkarmak, ziyaretçilerin keyif alacağı aktiviteler arasında yer alıyor.
+Çakıroluk Tepesi, Denizli'nin gözde noktalarından biri olarak dikkat çekiyor. Denizli'nin coğrafi yapısını anlamak için önemli bir nokta olan Çakıroluk Tepesi, aynı zamanda doğa severler için bir cennet. Burada yapılan yürüyüşler ve manzaranın tadını çıkarmak, ziyaretçilerin keyif alacağı aktiviteler arasında yer alıyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31551443"
 
 # Katin Tepesi
 
-Katin Tepesi, Mardin'in zengin tarihini ve doğal güzelliklerini bir araya getiren özel bir bölgedir. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, लगभग 200 futbol sahası büyüklüğünde bir alanı temsil eder. Burada, tarihi geçmişi ve doğal güzellikleri keşfetme mümkündür. Katin Tepesi, ziyaretçilerini Mardin'in eşsiz manzaraları ile baş başa bırakırken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunar.
+Katin Tepesi, Mardin'in zengin tarihini ve doğal güzelliklerini bir araya getiren özel bir bölgedir. Burada, tarihi geçmişi ve doğal güzellikleri keşfetme mümkündür. Katin Tepesi, ziyaretçilerini Mardin'in eşsiz manzaraları ile baş başa bırakırken, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini de keşfetme fırsatı sunar.
 
 ## Tarihçe
 

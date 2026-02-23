@@ -28,7 +28,7 @@ wikidata_id: "Q34827987"
 
 # Çalboğazı Tepesi
 
-Çalboğazı Tepesi, Sinop ilinin sınırları içinde yer alır ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Çalboğazı Tepesi, ziyaretçilerine bölge hakkında bilgi edinme ve Karadeniz Bölgesi'nin eşsiz manzarasını seyretme fırsatı sunar.
+Çalboğazı Tepesi, Sinop ilinin sınırları içinde yer alır ve Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Çalboğazı Tepesi, ziyaretçilerine bölge hakkında bilgi edinme ve Karadeniz Bölgesi'nin eşsiz manzarasını seyretme fırsatı sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ wikidata_id: "Q34827987"
 
 ## Coğrafya
 
-Çalboğazı Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını temsil eder. Bu tepe, bölgenin en yüksek noktalarından biridir ve Karadeniz Bölgesi'nin doğal güzelliklerini sunar. Çalboğazı Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Bu tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Çalboğazı Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, ziyaretçilere bölge hakkında bilgi edinme ve Karadeniz Bölgesi'nin eşsiz manzarasını seyretme fırsatı sunar. Çalboğazı Tepesi'nin coğrafi konumu, bölgenin doğal güzelliklerini korumak için önemli bir rol oynar.
+Çalboğazı Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını temsil eder. Bu tepe, bölgenin en yüksek noktalarından biridir ve Karadeniz Bölgesi'nin doğal güzelliklerini sunar. Bu tepenin coğrafi konumu, bölgenin iklimini ve bitki örtüsünü etkiler. Çalboğazı Tepesi, Karadeniz Bölgesi'nin coğrafi yapısını temsil eden önemli bir noktadır. Bu tepe, ziyaretçilere bölge hakkında bilgi edinme ve Karadeniz Bölgesi'nin eşsiz manzarasını seyretme fırsatı sunar. Çalboğazı Tepesi'nin coğrafi konumu, bölgenin doğal güzelliklerini korumak için önemli bir rol oynar.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ wikidata_id: "Q34827987"
 
 ## Ziyaret Bilgileri
 
-Çalboğazı Tepesi, ziyaretçilere bölge hakkında bilgi edinme ve Karadeniz Bölgesi'nin eşsiz manzarasını seyretme fırsatı sunar. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsar ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Çalboğazı Tepesi'ne ulaşım, Sinop il merkezinden kolayca sağlanabilir. Bu tepe, ziyaretçilere bölge hakkında bilgi edinme ve Karadeniz Bölgesi'nin eşsiz manzarasını seyretme fırsatı sunar.
+Çalboğazı Tepesi, ziyaretçilere bölge hakkında bilgi edinme ve Karadeniz Bölgesi'nin eşsiz manzarasını seyretme fırsatı sunar. Çalboğazı Tepesi'ne ulaşım, Sinop il merkezinden kolayca sağlanabilir. Bu tepe, ziyaretçilere bölge hakkında bilgi edinme ve Karadeniz Bölgesi'nin eşsiz manzarasını seyretme fırsatı sunar.
 
 ## İlginç Bilgiler
 

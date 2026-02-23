@@ -33,11 +33,11 @@ wikidata_id: "Q35729058"
 
 ## Tarihçe
 
-Boz Tepe, Çorum'un tarihi zenginliklerine ev sahipliği yapan bir bölge içinde yer alır. Bu bölge, tarihin sâu sayfalarında Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşır. Çorum, tarihi ticaret yollarının kesişme noktasında bulunması nedeniyle, sempre önemli bir merkez olmuştur.
+Boz Tepe, Çorum'un tarihi zenginliklerine ev sahipliği yapan bir bölge içinde yer alır. Bu bölge, tarihin derin sayfalarında Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşır. Çorum, tarihi ticaret yollarının kesişme noktasında bulunması nedeniyle, sempre önemli bir merkez olmuştur.
 
 Doğal güzellikleri ile dikkat çeken Boz Tepe, Türkiye'nin diğer dağlık bölgeleri gibi, yüzyıllar boyunca insanların yaşamlarını sürdürdüğü bir alan olmuştur. Yaylacılık ve hayvancılık, bu bölgede yaşayan insanların temel geçim kaynaklarından olmuştur. Ayrıca, bölgenin coğrafi konumu, tarihi ticaret yollarının geçiş noktası olması nedeniyle, insanların birbirleriyle etkileşimini de sağlamıştır.
 
-Bu tür doğal alanlar, Türkiye'nin kültürel ve tarihi mirasının önemli bir parçasını oluşturur. İnsanların doğayla iç içe yaşadığı, geleneksel yaşam biçimleri sürdürdüğü bu alanlar, aynı zamanda ülkenin biyolojik çeşitliliğinin korunmasına da katkıda bulunurlar. Boz Tepe, Çorum'un tarihi ve kültürel zenginliklerini yansıtan bir bölge olarak, ziyaretçilerini tarihin sâu sayfalarına götürmeye hazır beklemektedir.
+Bu tür doğal alanlar, Türkiye'nin kültürel ve tarihi mirasının önemli bir parçasını oluşturur. İnsanların doğayla iç içe yaşadığı, geleneksel yaşam biçimleri sürdürdüğü bu alanlar, aynı zamanda ülkenin biyolojik çeşitliliğinin korunmasına da katkıda bulunurlar. Boz Tepe, Çorum'un tarihi ve kültürel zenginliklerini yansıtan bir bölge olarak, ziyaretçilerini tarihin derin sayfalarına götürmeye hazır beklemektedir.
 
 ## Coğrafya
 
@@ -55,7 +55,7 @@ Boz Tepe, Çorum'un göbeğinde yer alan 1200 hektarlık bu yeşil cennet, İsta
 
 Bitki Örtüsü bölümünde, ilkbaharın renkli çiçekleriyle süslenen dağ yamaçlarını, yazın yeşilin farklı tonlarını, sonbaharda ise sarı, turuncu ve kırmızının dansını görebilirsiniz. Dağın yükseklik zonlarına göre değişen alpin flora, bu bölgenin benzersiz özelliklerinden biridir.
 
-Yaban Hayatı bölümünde, dağ keçileri, ayılar ve kurtlar gibi memelilerin yanı sıra, kartallar, şahinler ve çeşitli ötücü kuşlar gibi kuş türleri görülebilir. Sürüngenler ve amfibiler de bu dağ ekosisteminin bir parçası olarak yaşamaktadır. 
+Yaban Hayatı bölümünde, dağ keçileri, ayılar ve kurtlar gibi memelilerin yanı sıra, kartallar, şahinler ve çeşitli ötücü kuşlar gibi kuş türleri görülebilir. Sürüngenler ve amfibiler de bu dağ ekosisteminin bir parçası olarak yaşamaktadır.
 
 Ekolojik Değer olarak, bu dağ ekosisteminin yüksek biyoçeşitliliği ve nemli iklimi, birçok canlı türünün yaşaması için elverişli koşullar sağlar. Bu nedenle, koruma altına alınması ve sürdürülebilir kullanımının sağlanması büyük önem taşır.
 

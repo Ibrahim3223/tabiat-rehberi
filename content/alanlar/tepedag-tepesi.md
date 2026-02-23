@@ -28,7 +28,7 @@ wikidata_id: "Q31389722"
 
 # Tepedağ Tepesi
 
-Tepedağ Tepesi, Kastamonu'nun güzide mekanlarından biri olarak Karadeniz Bölgesi'nin kalbinde yer alıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplayan Tepedağ Tepesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Tepedağ Tepesi, ziyaretçilerine hem doğa güzelliği hem de tarihi zenginlik sunan bir destinasyon olarak karşımıza çıkıyor. Bu tepe, Kastamonu'nun önemli turizm noktalarından biri olarak dikkat çekiyor.
+Tepedağ Tepesi, Kastamonu'nun güzide mekanlarından biri olarak Karadeniz Bölgesi'nin kalbinde yer alıyor. Tepedağ Tepesi, ziyaretçilerine hem doğa güzelliği hem de tarihi zenginlik sunan bir destinasyon olarak karşımıza çıkıyor. Bu tepe, Kastamonu'nun önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

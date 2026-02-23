@@ -28,7 +28,7 @@ wikidata_id: "Q31535176"
 
 # Moturklu Tepesi
 
-Moturklu Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Bu tepenin etrafında yer alan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Moturklu Tepesi'nin eteklerinde yer alan köyler, tarihi ve kültürel değerleri ile dikkat çekiyor. Tepenin zirvesinden ise Akdeniz Bölgesi'nin önemli bir bölümünü gözler önüne seren manzaralar sunuyor.
+Moturklu Tepesi, Hatay ilinin sınırları içerisinde yer alan ve Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak bilinen bir tepe. Moturklu Tepesi'nin eteklerinde yer alan köyler, tarihi ve kültürel değerleri ile dikkat çekiyor. Tepenin zirvesinden ise Akdeniz Bölgesi'nin önemli bir bölümünü gözler önüne seren manzaralar sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Moturklu Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetler
 
 ## Coğrafya
 
-Moturklu Tepesi, Hatay ilinin sınırları içerisinde yer alan bir tepe. Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısını gösteren önemli bir doğal güzellik. Moturklu Tepesi'nin etrafında yer alan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tepenin zirvesi, Akdeniz Bölgesi'nin önemli bir bölümünü gözler önüne seren manzaralar sunuyor. Moturklu Tepesi'nin eteklerinde yer alan köyler, tarihi ve kültürel değerleri ile dikkat çekiyor. Tepenin etrafındaki köyler, Moturklu Tepesi'ne ulaşım için önemli bir role sahip. Moturklu Tepesi, coğrafi yapısı ile birlikte önemli bir turizm merkezi olarak da biliniyor.
+Moturklu Tepesi, Hatay ilinin sınırları içerisinde yer alan bir tepe. Bu tepe, Akdeniz Bölgesi'nin coğrafi yapısını gösteren önemli bir doğal güzellik. Tepenin zirvesi, Akdeniz Bölgesi'nin önemli bir bölümünü gözler önüne seren manzaralar sunuyor. Moturklu Tepesi'nin eteklerinde yer alan köyler, tarihi ve kültürel değerleri ile dikkat çekiyor. Tepenin etrafındaki köyler, Moturklu Tepesi'ne ulaşım için önemli bir role sahip. Moturklu Tepesi, coğrafi yapısı ile birlikte önemli bir turizm merkezi olarak da biliniyor.
 
 ## Flora ve Fauna
 
@@ -44,10 +44,10 @@ Moturklu Tepesi, Akdeniz Bölgesi'nin flora ve faunasını gösteren önemli bir
 
 ## Ziyaret Bilgileri
 
-Moturklu Tepesi'ne ulaşım, Hatay ilinin merkezinden sağlanıyor. Tepenin etrafındaki köyler, ulaşım için önemli bir role sahip. Moturklu Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları olarak biliniyor. Tepenin zirvesi, Akdeniz Bölgesi'nin önemli bir bölümünü gözler önüne seren manzaralar sunuyor. Moturklu Tepesi, ziyaretçilerine história ve kültürel değerleri ile birlikte önemli bir turizm merkezi olarak da biliniyor.
+Moturklu Tepesi'ne ulaşım, Hatay ilinin merkezinden sağlanıyor. Tepenin etrafındaki köyler, ulaşım için önemli bir role sahip. Moturklu Tepesi'ni ziyaret etmek için en uygun zaman, ilkbahar ve sonbahar ayları olarak biliniyor. Tepenin zirvesi, Akdeniz Bölgesi'nin önemli bir bölümünü gözler önüne seren manzaralar sunuyor. Moturklu Tepesi, ziyaretçilerine tarihi ve kültürel değerleri ile birlikte önemli bir turizm merkezi olarak da biliniyor.
 
 ## İlginç Bilgiler
 
 - Moturklu Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri.
-- Tepenin etrafında yer alan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Moturklu Tepesi'nin eteklerinde yer alan köyler, tarihi ve kültürel değerleri ile dikkat çekiyor.

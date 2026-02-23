@@ -1,7 +1,7 @@
 ---
 title: "Emin Sinan Türbesi"
 date: "2026-01-10T07:47:55.553Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391171"
 
 # Emin Sinan Türbesi
 
-Emin Sinan Türbesi, İstanbul'un tarihi mekanlarından biridir ve Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunur. Bu tarihi yer, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde. Emin Sinan Türbesi, tarihi geçmişi ve mimari yapısı ile dikkat çeker. Türbenin çevresinde çeşitli bitkiler ve ağaçlar bulunur. Bu tarihi mekan, ziyaretçilerini geçmişe götürerek tarihi bir atmosfer sunar.
+Emin Sinan Türbesi, İstanbul'un tarihi mekanlarından biridir ve Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunur. Emin Sinan Türbesi, tarihi geçmişi ve mimari yapısı ile dikkat çeker. Türbenin çevresinde çeşitli bitkiler ve ağaçlar bulunur. Bu tarihi mekan, ziyaretçilerini geçmişe götürerek tarihi bir atmosfer sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Emin Sinan Türbesi, tarihi geçmişi ile dikkat çeker. Bu türbe, Osmanlı dö
 
 ## Coğrafya
 
-Emin Sinan Türbesi, Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunur. Bu tarihi yer, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde. Türbenin çevresinde çeşitli bitkiler ve ağaçlar bulunur. Bu tarihi mekan, deniz seviyesinden yüksek bir konumda yer alır. Emin Sinan Türbesi, İstanbul'un şehir merkezi yakınlarında yer alır ve ulaşımı kolaydır. Türbenin çevresinde, tarihi binalar ve camiler bulunur. Bu tarihi mekan, ziyaretçilerine tarihi bir atmosfer sunar. Emin Sinan Türbesi, Marmara Bölgesi'nin coğrafi özellikleri ile dikkat çeker. Bölge, deniz ikliminin etkisi altındadır ve dört mevsim belirgin olarak yaşanır. Türbenin konumu, ziyaretçilere yılın her dönemi ziyaret imkanı sunar.
+Emin Sinan Türbesi, Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunur. Türbenin çevresinde çeşitli bitkiler ve ağaçlar bulunur. Bu tarihi mekan, deniz seviyesinden yüksek bir konumda yer alır. Emin Sinan Türbesi, İstanbul'un şehir merkezi yakınlarında yer alır ve ulaşımı kolaydır. Türbenin çevresinde, tarihi binalar ve camiler bulunur. Bu tarihi mekan, ziyaretçilerine tarihi bir atmosfer sunar. Emin Sinan Türbesi, Marmara Bölgesi'nin coğrafi özellikleri ile dikkat çeker. Bölge, deniz ikliminin etkisi altındadır ve dört mevsim belirgin olarak yaşanır. Türbenin konumu, ziyaretçilere yılın her dönemi ziyaret imkanı sunar.
 
 ## Flora ve Fauna
 

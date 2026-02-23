@@ -30,7 +30,7 @@ wikidata_id: "Q131844302"
 
 # Emir Bayındır Kümbeti
 
-Emir Bayındır Kümbeti, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak karşımıza çıkıyor. Ahlat, Bitlis'te bulunan bu özel yer, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Emir Bayındır Kümbeti, tarihi ve kültürel önemi ile ziyaretçilerini cezbediyor. Bu özel yer, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Emir Bayındır Kümbeti, ziyaretçilerine eşsiz bir deneyim sunuyor.
+Emir Bayındır Kümbeti, Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği bir nokta olarak karşımıza çıkıyor. Ahlat, Bitlis'te bulunan bu özel yer, yaklaşık 140 hektarlık bir alanı kaplıyor. Emir Bayındır Kümbeti, tarihi ve kültürel önemi ile ziyaretçilerini cezbediyor. Bu özel yer, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Emir Bayındır Kümbeti, ziyaretçilerine eşsiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Emir Bayındır Kümbeti, tarihi geçmişi ile dikkat çekiyor. Bu özel yer, y�
 
 ## Coğrafya
 
-Emir Bayındır Kümbeti, Ahlat, Bitlis'te bulunuyor. Bu özel yer, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunuyor. Emir Bayındır Kümbeti, 140 hektarlık bir alanı kaplıyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. Emir Bayındır Kümbeti, doğa severlerin ilgisini çekiyor. Bu özel yer, coğrafi güzellikleriyle ziyaretçilerini etkiliyor. Emir Bayındır Kümbeti, ziyaretçilerine eşsiz bir deneyim sunuyor. Bu özel yer, coğrafi konumu ile dikkat çekiyor. Emir Bayındır Kümbeti, Ahlat, Bitlis'te bulunan bir doğa harikası olarak biliniyor.
+Emir Bayındır Kümbeti, Ahlat, Bitlis'te bulunuyor. Bu özel yer, Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini sunuyor. Emir Bayındır Kümbeti, 140 hektarlık bir alanı kaplıyor. Emir Bayındır Kümbeti, doğa severlerin ilgisini çekiyor. Bu özel yer, coğrafi güzellikleriyle ziyaretçilerini etkiliyor. Emir Bayındır Kümbeti, ziyaretçilerine eşsiz bir deneyim sunuyor. Bu özel yer, coğrafi konumu ile dikkat çekiyor. Emir Bayındır Kümbeti, Ahlat, Bitlis'te bulunan bir doğa harikası olarak biliniyor.
 
 ## Flora ve Fauna
 

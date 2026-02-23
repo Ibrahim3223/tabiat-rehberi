@@ -28,7 +28,7 @@ wikidata_id: "Q31390219"
 
 # İptakmaz Tepesi
 
-İptakmaz Tepesi, Burdur'un eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık geniş bir alanı kapsıyor ve böylece yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil ediyor. İptakmaz Tepesi, coğrafi konumu itibariyle ziyaretçilerini cezbeden bir doğal alan olarak dikkat çekiyor. Burada doğa severlerin keyiflenebileceği birçok nokta mevcut.
+İptakmaz Tepesi, Burdur'un eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. İptakmaz Tepesi, coğrafi konumu itibariyle ziyaretçilerini cezbeden bir doğal alan olarak dikkat çekiyor. Burada doğa severlerin keyiflenebileceği birçok nokta mevcut.
 
 ## Tarihçe
 

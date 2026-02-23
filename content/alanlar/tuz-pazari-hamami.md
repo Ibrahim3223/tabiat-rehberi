@@ -1,7 +1,7 @@
 ---
 title: "Tuz Pazarı Hamamı"
 date: "2026-01-09T22:33:18.195Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Merzifon İlçesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738736"
 
 # Tuz Pazarı Hamamı
 
-Merzifon ilçe merkezinde yer alan Tuz Pazarı Hamamı, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir saha olarak dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Tuz Pazarı Hamamı, Merzifon'un merkezi bölgesinde, şehrin kalabalığından uzaklaşmak isteyenler için keyifli bir kaçış noktası olarak hizmet veriyor. Bu bölge, özellikle yaz aylarında serinleme ve doğayı gözlemlemek isteyenler için popüler bir destinasyon olarak biliniyor.
+Merzifon ilçe merkezinde yer alan Tuz Pazarı Hamamı, yaklaşık 140 hektarlık bir alanı kapsayan geniş bir saha olarak dikkat çekiyor. Tuz Pazarı Hamamı, Merzifon'un merkezi bölgesinde, şehrin kalabalığından uzaklaşmak isteyenler için keyifli bir kaçış noktası olarak hizmet veriyor. Bu bölge, özellikle yaz aylarında serinleme ve doğayı gözlemlemek isteyenler için popüler bir destinasyon olarak biliniyor.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Tepecik Hamamı"
 date: "2026-01-09T23:20:44.008Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738988"
 
 # Tepecik Hamamı
 
-Tepecik Hamamı, Muğla'nın Bodrum ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliği sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak düşünülebilir. Bu bölge, sakin atmosferi ve doğal güzelliği ile ziyaretçilerini cezbediyor. Tepecik Hamamı, denizin maviliği ve güneşin sıcaklığı ile birlikte, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Tepecik Hamamı, Muğla'nın Bodrum ilçesinde yer alan ve Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliği sunuyor. Bu bölge, sakin atmosferi ve doğal güzelliği ile ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tepecik Hamamı'nın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Tepecik Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliği sunuyor. Bu bölge, Bodrum'un merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Tepecik Hamamı, 140 hektarlık bir yeşil alan olarak düşünülebilir ve bu alanda çeşitli bitki türleri ve zengin fauna bulunuyor. Bölgenin coğrafi konumu, ziyaretçilerine deniz, güneş ve doğanın güzelliğini birlikte sunuyor. Tepecik Hamamı, sakin atmosferi ve doğal güzelliği ile birlikte, ziyaretçilerine unutulmaz bir deneyim sunuyor. Bu bölge, Ege Bölgesi'nin ikliminin karakteristik özelliklerini taşıyor ve ziyaretçilerine yılın her döneminde farklı bir deneyim sunuyor.
+Tepecik Hamamı, Ege Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliği sunuyor. Bu bölge, Bodrum'un merkezine yakın bir konumda yer alıyor ve ulaşımı oldukça kolay. Tepecik Hamamı, 140 hektarlık bir yeşil alan olarak düşünülebilir ve bu alanda çeşitli bitki türleri ve zengin fauna bulunuyor. Bölgenin coğrafi konumu, ziyaretçilerine deniz, güneş ve doğanın güzelliğini birlikte sunuyor. Bu bölge, Ege Bölgesi'nin ikliminin karakteristik özelliklerini taşıyor ve ziyaretçilerine yılın her döneminde farklı bir deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -45,12 +45,12 @@ Tepecik Hamamı, zengin bir flora ve fauna sunuyor. Bu bölge, çeşitli bitki t
 
 ## Ziyaret Bilgileri
 
-Tepecik Hamamı, ziyaretçilerine yılın her döneminde farklı bir deneyim sunuyor. Bu bölge, sakin atmosferi ve doğal güzelliği ile birlikte, ziyaretçilerine unutulmaz bir deneyim sunuyor. Tepecik Hamamı'na ulaşım oldukça kolay ve ziyaretçileri, Bodrum'un merkezine yakın bir konumda yer alan bu bölgeyi kolayca keşfedebilir. Tepecik Hamamı, ziyaretçilerine deniz, güneş ve doğanın güzelliğini birlikte sunuyor ve onların doğa ile iç içe bir deneyim yaşamasını sağlıyor.
+Tepecik Hamamı, ziyaretçilerine yılın her döneminde farklı bir deneyim sunuyor. Tepecik Hamamı'na ulaşım oldukça kolay ve ziyaretçileri, Bodrum'un merkezine yakın bir konumda yer alan bu bölgeyi kolayca keşfedebilir. Tepecik Hamamı, ziyaretçilerine deniz, güneş ve doğanın güzelliğini birlikte sunuyor ve onların doğa ile iç içe bir deneyim yaşamasını sağlıyor.
 
 ## İlginç Bilgiler
 
 - Tepecik Hamamı, 140 hektarlık bir yeşil alan olarak düşünülebilir.
 - Bu bölge, Bodrum'un merkezine yakın bir konumda yer alıyor.
-- Tepecik Hamamı, sakin atmosferi ve doğal güzelliği ile birlikte, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+
 - Bu bölge, Ege Bölgesi'nin ikliminin karakteristik özelliklerini taşıyor.
 - Tepecik Hamamı, ziyaretçilerine yılın her döneminde farklı bir deneyim sunuyor.

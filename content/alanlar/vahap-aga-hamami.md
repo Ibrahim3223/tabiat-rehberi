@@ -1,7 +1,7 @@
 ---
 title: "Vahap Ağa Hamamı"
 date: "2026-01-09T22:12:15.454Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q87768671"
 
 # Vahap Ağa Hamamı
 
-Diyarbakır'ın tarihi plajlarından biri olan Vahap Ağa Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe olabilecekleri bir ortam sunuyor. Vahap Ağa Hamamı, Diyarbakır'ın merkezine yakın bir konumda yer alıyor. Bu durum, ziyaretçilerin hem şehrin tarihi zenginliklerini keşfetmelerini hem de doğanın güzelliğini deneyimlemelerini sağlıyor. Vahap Ağa Hamamı, özellikle yerel halk tarafından sıkça ziyaret ediliyor ve bölgenin önemli bir turizm merkezi olarak kabul ediliyor.
+ Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe olabilecekleri bir ortam sunuyor. Vahap Ağa Hamamı, Diyarbakır'ın merkezine yakın bir konumda yer alıyor. Bu durum, ziyaretçilerin hem şehrin tarihi zenginliklerini keşfetmelerini hem de doğanın güzelliğini deneyimlemelerini sağlıyor. Vahap Ağa Hamamı, özellikle yerel halk tarafından sıkça ziyaret ediliyor ve bölgenin önemli bir turizm merkezi olarak kabul ediliyor.
 
 ## Tarihçe
 

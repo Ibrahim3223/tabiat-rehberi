@@ -1,7 +1,7 @@
 ---
 title: "Piri Paşa Hamamı"
 date: "2026-01-09T22:48:46.813Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,19 +30,19 @@ wikidata_id: "Q131738589"
 
 # Piri Paşa Hamamı
 
-Piri Paşa Hamamı, İstanbul'un Beyoğlu ilçesinde bulunan ve tarihin sâu izlerini taşıyan bir hamamdır. 140 hektarlık geniş yeşil alanın içinde yer alan bu tarihi yapı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğal güzelliği ve tarihi önemiyle dikkat çeken Piri Paşa Hamamı, ziyaretçilerini geçmişe götürmeye hazırdır. Yeşil alanın içinde yürüyüşdoing possibilities, temiz hava ve doğayla iç içe olmak isteyenler için ideal bir destinasyon olarak karşımıza çıkar.
+Piri Paşa Hamamı, İstanbul'un Beyoğlu ilçesinde bulunan ve tarihin derin izlerini taşıyan bir hamamdır. Doğal güzelliği ve tarihi önemiyle dikkat çeken Piri Paşa Hamamı, ziyaretçilerini geçmişe götürmeye hazırdır. Yeşil alanın içinde yürüyüşdoing possibilities, temiz hava ve doğayla iç içe olmak isteyenler için ideal bir destinasyon olarak karşımıza çıkar.
 
 ## Tarihçe
 
-Piri Paşa Hamamı'nın tarihi geçmişine baktığımızda, yüzyıllar boyunca önemli bir rol oynadığını görürüz. Tarihi geçmişiyle birlikte, bu hamam İstanbul'un kültürel mirasının bir parçası haline gelmiştir. Geçmişte önemli olaylara tanıklık eden bu hamam, bugün ziyaretçilerine geçmişin izlerini sunmaktadır. Tarihin sâu izlerini taşıyan bu hamam, ziyaretçilerini geçmişe götürerek, tarihi bir atmosferde dinlenmek isteyenler için önemli bir destinasyon olarak ortaya çıkar.
+Piri Paşa Hamamı'nın tarihi geçmişine baktığımızda, yüzyıllar boyunca önemli bir rol oynadığını görürüz. Tarihi geçmişiyle birlikte, bu hamam İstanbul'un kültürel mirasının bir parçası haline gelmiştir. Geçmişte önemli olaylara tanıklık eden bu hamam, bugün ziyaretçilerine geçmişin izlerini sunmaktadır. Tarihin derin izlerini taşıyan bu hamam, ziyaretçilerini geçmişe götürerek, tarihi bir atmosferde dinlenmek isteyenler için önemli bir destinasyon olarak ortaya çıkar.
 
 ## Coğrafya
 
-Piri Paşa Hamamı, İstanbul'un Beyoğlu ilçesinde, Marmara Bölgesi'nde yer alır. Bu bölge, doğal güzelliği ve tarihi önemiyle dikkat çeker. Hamamın bulunduğu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilerine geniş yürüyüş yolları, temiz hava ve doğayla iç içe olmak için ideal bir ortam sunar. Bölgenin coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine ve tarihi bir atmosferde dinlenmelerine olanak tanır. Yeşil alanın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğal bir ortamda dinlenmek için olanak sağlar.
+Piri Paşa Hamamı, İstanbul'un Beyoğlu ilçesinde, Marmara Bölgesi'nde yer alır. Bu bölge, doğal güzelliği ve tarihi önemiyle dikkat çeker. Bölgenin coğrafi yapısı, ziyaretçilerin doğayı keşfetmelerine ve tarihi bir atmosferde dinlenmelerine olanak tanır. Yeşil alanın içinde, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğal bir ortamda dinlenmek için olanak sağlar.
 
 ## Flora ve Fauna
 
-Piri Paşa Hamamı'nın bulunduğu yeşil alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu doğal ortam, ziyaretçilere mevsimsel değişimleri gözlemleme fırsatı tanır. Bahar aylarında çiçeklerin açması, yaz aylarında yeşilin hakim olması, sonbahar aylarında yaprakların sararması ve kış aylarında karın beyazlığı, ziyaretçilere dört mevsimi yaşayan bir doğa harikasını sunar. Zengin fauna, ziyaretçilere doğada canlıları gözlemleme fırsatı tanır. Bu doğal ortam, ziyaretçilere doğayla iç içe olma ve dinlenmek için ideal bir alan sağlar.
+ Bu doğal ortam, ziyaretçilere mevsimsel değişimleri gözlemleme fırsatı tanır. Bahar aylarında çiçeklerin açması, yaz aylarında yeşilin hakim olması, sonbahar aylarında yaprakların sararması ve kış aylarında karın beyazlığı, ziyaretçilere dört mevsimi yaşayan bir doğa harikasını sunar. Zengin fauna, ziyaretçilere doğada canlıları gözlemleme fırsatı tanır. Bu doğal ortam, ziyaretçilere doğayla iç içe olma ve dinlenmek için ideal bir alan sağlar.
 
 ## Ziyaret Bilgileri
 
@@ -52,6 +52,5 @@ Piri Paşa Hamamı'nı ziyaret etmek isteyenler, Beyoğlu'na ulaşarak hamamın 
 
 - Piri Paşa Hamamı, İstanbul'un en eski hamamlarından birisidir.
 - Hamam, 140 hektarlık yeşil alanın içinde yer alır.
-- Yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar.
-- Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Piri Paşa Hamamı, yıl boyunca açık olup, her mevsim farklı bir güzelliği sunar.

@@ -28,7 +28,7 @@ wikidata_id: "Q31534983"
 
 # Yellibel Tepesi
 
-Yellibel Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak iliyor. Gaziantep'in merkezinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Yellibel Tepesi, ziyaretçilerine eşsiz manzaralar sunuyor ve bölgenin kültürel zenginliğini yansıtıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu özellikler, Yellibel Tepesini doğal güzellik açısından önemli bir destinasyon haline getiriyor.
+Yellibel Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak iliyor. Gaziantep'in merkezinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Yellibel Tepesi, ziyaretçilerine eşsiz manzaralar sunuyor ve bölgenin kültürel zenginliğini yansıtıyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Bu özellikler, Yellibel Tepesini doğal güzellik açısından önemli bir destinasyon haline getiriyor.
 
 ## Tarihçe
 

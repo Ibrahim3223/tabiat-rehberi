@@ -48,10 +48,10 @@ Mevsimsel değişikliklerle birlikte karakteri değişen Hazil Dağı, yaz aylar
 
 ## Flora ve Fauna
 
-Hazil Dağı, Gaziantep'in yarı kurak ikliminin hakim olduğu bölgesinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Hazil Dağı, Gaziantep'in yarı kurak ikliminin hakim olduğu bölgesinde yer alan bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki örtüsüne baktığımızda, ilkbaharın gelmesiyle birlikte dağ yamaçlarını renklendiren çiçekler ve otsu bitkiler göze çarpıyor. Sonbaharın yaklaşmasıyla birlikte, bu bitkiler yerini kuraklığa dayanıklı step bitkilerine bırakıyor. Dağın yüksek zonlarında, alpin flora hakimiyetini kuruyor.
 
-Yaban hayatı açısından zengin olan Hazil Dağı, memeliler, kuşlar ve sürüngenler için önemli bir yaşam alanı sunuyor. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşamlarını sürdürüyor. Kuşlar ise, özellikle sonbahar aylarında göç ettikleri sırada bu bölgeden geçiriyorlar. 
+Yaban hayatı açısından zengin olan Hazil Dağı, memeliler, kuşlar ve sürüngenler için önemli bir yaşam alanı sunuyor. Dağın yüksek kesimlerinde, dağ keçileri ve yaban keçileri yaşamlarını sürdürüyor. Kuşlar ise, özellikle sonbahar aylarında göç ettikleri sırada bu bölgeden geçiriyorlar.
 Hazil Dağı, bölgenin ekolojik dengesi için önemli bir rol oynuyor. Bu dağ ekosisteminin korunması, sadece burada yaşayan canlıları değil, aynı zamanda bölgenin su kaynaklarını ve toprağını da koruyor.
 
 ## Ziyaret Bilgileri

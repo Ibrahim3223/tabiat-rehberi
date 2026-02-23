@@ -28,7 +28,7 @@ wikidata_id: "Q31385331"
 
 # Zoktepeleri
 
-Şanlıurfa'nın güneydoğusunda yer alan Zoktepeleri, yaklaşık 140 hektarlık alanı ile dikkat çekiyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü flora ve faunayı barındırıyor. Zoktepeleri, ziyaretçilerini doğanın kucağına davet ediyor. Ziyaretçiler, bu eşsiz coğrafyada doğa yürüyüşü yapabilir, çevre güzelliğini keşfedebilir ve tarihi geçmişi hakkında bilgi edinebilir. Zoktepeleri, Şanlıurfa'nın önemli turizm noktalarından biri olarak ön plana çıkıyor.
+Şanlıurfa'nın güneydoğusunda yer alan Zoktepeleri, yaklaşık 140 hektarlık alanı ile dikkat çekiyor. Zoktepeleri, ziyaretçilerini doğanın kucağına davet ediyor. Ziyaretçiler, bu eşsiz coğrafyada doğa yürüyüşü yapabilir, çevre güzelliğini keşfedebilir ve tarihi geçmişi hakkında bilgi edinebilir. Zoktepeleri, Şanlıurfa'nın önemli turizm noktalarından biri olarak ön plana çıkıyor.
 
 ## Tarihçe
 

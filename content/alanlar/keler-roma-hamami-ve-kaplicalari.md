@@ -1,7 +1,7 @@
 ---
 title: "Keler Roma Hamamı ve Kaplıcaları"
 date: "2026-01-09T23:18:41.395Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738953"
 
 # Keler Roma Hamamı ve Kaplıcaları
 
-Keler Roma Hamamı ve Kaplıcaları, İzmir'in Menderes ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir termal tesis olarak bilinir. Bu alan, yaklaşık 140 hektarlık bir arazide kurulmuş olup, 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğal güzelliği ve tarihi zenginliği bir arada sunan Keler Roma Hamamı ve Kaplıcaları, ziyaretçilerine hem şifa hem de huzur sunar. Tesisin etrafı, çeşitli bitki türleriyle çevrilidir ve zengin fauna çeşitliliği de bu bölgenin dikkat çekici özelliklerinden biridir. Tarihi Roma hamamlarının kalıntıları, bu bölgenin geçmişinin bir parçası olarak karşımıza çıkar.
+Keler Roma Hamamı ve Kaplıcaları, İzmir'in Menderes ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir termal tesis olarak bilinir. Doğal güzelliği ve tarihi zenginliği bir arada sunan Keler Roma Hamamı ve Kaplıcaları, ziyaretçilerine hem şifa hem de huzur sunar. Tesisin etrafı, çeşitli bitki türleriyle çevrilidir ve zengin fauna çeşitliliği de bu bölgenin dikkat çekici özelliklerinden biridir. Tarihi Roma hamamlarının kalıntıları, bu bölgenin geçmişinin bir parçası olarak karşımıza çıkar.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Büklü Baba Sultan Türbesi"
 date: "2026-01-10T07:01:58.681Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390851"
 
 # Büklü Baba Sultan Türbesi
 
-Büklü Baba Sultan Türbesi, Karaman'ın Sarıveliler ilçesinde yer alan bir türbe ve plaj alanı olarak dikkat çekmektedir. Bu alan, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir destinasyon olarak ziyaretçilerini beklemektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunmaktadır. Büklü Baba Sultan Türbesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini etkilemektedir.
+Büklü Baba Sultan Türbesi, Karaman'ın Sarıveliler ilçesinde yer alan bir türbe ve plaj alanı olarak dikkat çekmektedir. Bu alan, hem tarihi hem de doğal güzellikleri bir araya getiren özel bir destinasyon olarak ziyaretçilerini beklemektedir. Büklü Baba Sultan Türbesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini etkilemektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Büklü Baba Sultan Türbesi, tarihi geçmişi ile dikkat çekmektedir. Ancak, t
 
 ## Coğrafya
 
-Büklü Baba Sultan Türbesi, Karaman'ın Sarıveliler ilçesinde, İç Anadolu Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak geniş ovalar ve dağlık alanlarla çevrilidir. Türbe, bir plaj alanı olarak da hizmet vermektedir ve ziyaretçilerine geniş bir açık alan sunmaktadır. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçmektedir. Çevre, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Büklü Baba Sultan Türbesi, çevresindeki doğal güzellikler ile ziyaretçilerini çekmektedir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunmaktadır.
+Büklü Baba Sultan Türbesi, Karaman'ın Sarıveliler ilçesinde, İç Anadolu Bölgesi'nde yer almaktadır. Bu bölge, coğrafi olarak geniş ovalar ve dağlık alanlarla çevrilidir. Türbe, bir plaj alanı olarak da hizmet vermektedir ve ziyaretçilerine geniş bir açık alan sunmaktadır. İklimi, İç Anadolu Bölgesi'nin genel iklimine benzer şekilde karasal bir yapıya sahiptir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve karlı geçmektedir. Çevre, çeşitli bitki türleri ve fauna ile zengin bir ekosisteme sahiptir. Büklü Baba Sultan Türbesi, çevresindeki doğal güzellikler ile ziyaretçilerini çekmektedir.
 
 ## Flora ve Fauna
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228731"
 
 # EĞİRDİR
 
-Eğirdir, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerini doğanın kucağına davet ediyor. Fiziki verileriyle de dikkat çeken Eğirdir, coğrafyasıyla da ziyaretçilerini etkiliyor. Eğirdir Gölü'nün kıyısında yer alan bu milli park, uzun bir mesafelik bir yürüyüş parkuru sunuyor. Bu parkur, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı veriyor. Eğirdir'in doğal güzellikleri, ziyaretçilerini büyülüyor ve bu bölge, doğal güzellikleriyle dikkat çekiyor.
+Eğirdir, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Fiziki verileriyle de dikkat çeken Eğirdir, coğrafyasıyla da ziyaretçilerini etkiliyor. Eğirdir Gölü'nün kıyısında yer alan bu milli park, uzun bir mesafelik bir yürüyüş parkuru sunuyor. Bu parkur, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı veriyor. Eğirdir'in doğal güzellikleri, ziyaretçilerini büyülüyor ve bu bölge, doğal güzellikleriyle dikkat çekiyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Eğirdir'in tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izler
 
 ## Coğrafya
 
-Eğirdir, İç Anadolu Bölgesi'nin coğrafyasını yansıtan bir bölge olarak dikkat çekiyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, coğrafyasıyla da ziyaretçilerini etkiliyor. Eğirdir Gölü'nün kıyısında yer alan bu milli park, uzun bir mesafelik bir yürüyüş parkuru sunuyor. Bu parkur, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı veriyor. Eğirdir'in coğrafyası, dağlık ve engebeli bir yapıya sahip ve bu bölge, ziyaretçilerine çeşitli manzaralar sunuyor. Eğirdir'in iklimi, karasal iklim özellikleri taşıyor ve bu bölge, ziyaretçilerine dört mevsimin güzelliklerini yaşatmaya olanak tanıyor. Eğirdir'in coğrafyası, ziyaretçilerini büyülüyor ve bu bölge, doğal güzellikleriyle dikkat çekiyor.
+Eğirdir, İç Anadolu Bölgesi'nin coğrafyasını yansıtan bir bölge olarak dikkat çekiyor. Eğirdir Gölü'nün kıyısında yer alan bu milli park, uzun bir mesafelik bir yürüyüş parkuru sunuyor. Bu parkur, ziyaretçilere doğanın güzelliklerini keşfetme fırsatı veriyor. Eğirdir'in coğrafyası, dağlık ve engebeli bir yapıya sahip ve bu bölge, ziyaretçilerine çeşitli manzaralar sunuyor. Eğirdir'in iklimi, karasal iklim özellikleri taşıyor ve bu bölge, ziyaretçilerine dört mevsimin güzelliklerini yaşatmaya olanak tanıyor. Eğirdir'in coğrafyası, ziyaretçilerini büyülüyor ve bu bölge, doğal güzellikleriyle dikkat çekiyor.
 
 ## Flora ve Fauna
 

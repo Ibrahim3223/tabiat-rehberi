@@ -28,15 +28,15 @@ wikidata_id: "Q31386503"
 
 # Metelik Tepesi
 
-Metelik Tepesi, Hatay'ın güzide bir bölgesinde yer alan ve doğal güzellikleriyle dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal değerlerinden biri. Bu tepe, ziyaretçilere Hatay'ın tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Ziyaretçiler, Metelik Tepesi'ne çıkarak bölgenin muhteşem manzarasını izleme şansına sahip.
+Metelik Tepesi, Hatay'ın güzide bir bölgesinde yer alan ve doğal güzellikleriyle dikkat çeken bir tepe. Bu tepe, ziyaretçilere Hatay'ın tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Ziyaretçiler, Metelik Tepesi'ne çıkarak bölgenin muhteşem manzarasını izleme şansına sahip.
 
 ## Tarihçe
 
-Metelik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin kültürel mirasını oluşturmuştur. Bu tepenin tarihi hakkında detaylı bilgi bulunmasa da, bölgenin genel tarihi geçmişi, Metelik Tepesi'nin de bir parçası olduğu anlaşılıyor. Hatay'ın tarihi ve kültürel zenginlikleri, Metelik Tepesi'nin ziyaretçilerini bekliyor. Ziyaretçiler, bu tepeye çıkarak bölgenin histórik değerlerini keşfetme fırsatı buluyor.
+Metelik Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bölgenin kültürel mirasını oluşturmuştur. Bu tepenin tarihi hakkında detaylı bilgi bulunmasa da, bölgenin genel tarihi geçmişi, Metelik Tepesi'nin de bir parçası olduğu anlaşılıyor. Hatay'ın tarihi ve kültürel zenginlikleri, Metelik Tepesi'nin ziyaretçilerini bekliyor. Ziyaretçiler, bu tepeye çıkarak bölgenin tarihi değerlerini keşfetme fırsatı buluyor.
 
 ## Coğrafya
 
-Metelik Tepesi, Hatay'ın coğrafi yapısını oluşturan önemli bir bölgede yer alıyor. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde ve 140 hektarlık alanıyla dikkat çekiyor. Tepenin coğrafi yapısı, bölgenin iklimini ve bitki örtüsünü şekillendirmiş. Metelik Tepesi'nin etrafı, çeşitli bitki türleriyle kaplı ve ziyaretçilere doğanın güzelliklerini sunuyor. Tepenin manzarası, Hatay'ın tarihi ve kültürel değerlerini keşfetmek isteyenler için ideal bir gözlem noktası.
+Metelik Tepesi, Hatay'ın coğrafi yapısını oluşturan önemli bir bölgede yer alıyor. Tepenin coğrafi yapısı, bölgenin iklimini ve bitki örtüsünü şekillendirmiş. Metelik Tepesi'nin etrafı, çeşitli bitki türleriyle kaplı ve ziyaretçilere doğanın güzelliklerini sunuyor. Tepenin manzarası, Hatay'ın tarihi ve kültürel değerlerini keşfetmek isteyenler için ideal bir gözlem noktası.
 
 ## Flora ve Fauna
 

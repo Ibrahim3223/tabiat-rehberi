@@ -1,7 +1,7 @@
 ---
 title: "Roma Dönemi İzmir Liman Hamamı"
 date: "2026-01-10T04:31:08.127Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q118378363"
 
 # Roma Dönemi İzmir Liman Hamamı
 
-Roma Dönemi İzmir Liman Hamamı, İzmir'in Konak ilçesinde yer alan ve Ege Bölgesi'nin önemli turistik noktalarından biri olan bir tarihi güzelliktir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Roma Dönemi'nde inşa edilen bu hamam, o dönemin mimari özelliklerini taşıyan bir yapı olarak dikkat çeker. İzmir Liman Hamamı, şehrin tarihini ve kültürünü keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir.
+Roma Dönemi İzmir Liman Hamamı, İzmir'in Konak ilçesinde yer alan ve Ege Bölgesi'nin önemli turistik noktalarından biri olan bir tarihi güzelliktir. Roma Dönemi'nde inşa edilen bu hamam, o dönemin mimari özelliklerini taşıyan bir yapı olarak dikkat çeker. İzmir Liman Hamamı, şehrin tarihini ve kültürünü keşfetmek isteyenler için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 

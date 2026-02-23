@@ -1,7 +1,7 @@
 ---
 title: "Murtaza Baba Türbesi"
 date: "2026-01-10T05:42:17.245Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391779"
 
 # Murtaza Baba Türbesi
 
-Murtaza Baba Türbesi, Tarsus'un merkezine yakın bir konumda yer alır ve tarihi geçmişi ile dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda hem tarihi yapılar hem de doğal güzellikler bulunmakta. Tarsus'un tarihi ve doğal güzelliklerinin birleştiği bu noktada, ziyaretçiler hem tarihe hem de doğaya dair özel anlar yaşayabilirler. Murtaza Baba Türbesi'nin etrafı, yeşilliklerle çevrili ve bu yeşillikler arasında yürüyüş yapma imkanı sunar. Ayrıca, plajın yakınlığı, ziyaretçilere deniz ve güneşin keyfini çıkarma fırsatı verir.
+Murtaza Baba Türbesi, Tarsus'un merkezine yakın bir konumda yer alır ve tarihi geçmişi ile dikkat çeker. Tarsus'un tarihi ve doğal güzelliklerinin birleştiği bu noktada, ziyaretçiler hem tarihe hem de doğaya dair özel anlar yaşayabilirler. Murtaza Baba Türbesi'nin etrafı, yeşilliklerle çevrili ve bu yeşillikler arasında yürüyüş yapma imkanı sunar. Ayrıca, plajın yakınlığı, ziyaretçilere deniz ve güneşin keyfini çıkarma fırsatı verir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Murtaza Baba Türbesi, yüzyıllar boyunca önemli bir dini merkez olarak kabul 
 
 ## Coğrafya
 
-Murtaza Baba Türbesi, Tarsus'un merkezine yakın bir konumda yer alır ve Akdeniz Bölgesi'nin güzelliklerini sunar. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda hem tarihi yapılar hem de doğal güzellikler bulunur. Tarsus'un coğrafi yapısı, deniz seviyesinden itibaren yükselen bir araziye sahiptir ve Murtaza Baba Türbesi de bu arazinin üzerinde yer alır. Bölgenin iklimi, Akdeniz ikliminin característicasını taşır ve ziyaretçilere sıcak yazlar ve ılıman kışlar sunar. Murtaza Baba Türbesi'nin etrafı, yeşilliklerle çevrili ve bu yeşillikler arasında yürüyüş yapma imkanı sunar. Plajın yakınlığı, ziyaretçilere deniz ve güneşin keyfini çıkarma fırsatı verir. Ayrıca, bölgenin coğrafi yapısı, birçok doğal güzelliği barındırır ve ziyaretçilere keşfetme imkanı sunar.
+Murtaza Baba Türbesi, Tarsus'un merkezine yakın bir konumda yer alır ve Akdeniz Bölgesi'nin güzelliklerini sunar. Tarsus'un coğrafi yapısı, deniz seviyesinden itibaren yükselen bir araziye sahiptir ve Murtaza Baba Türbesi de bu arazinin üzerinde yer alır. Bölgenin iklimi, Akdeniz ikliminin característicasını taşır ve ziyaretçilere sıcak yazlar ve ılıman kışlar sunar. Murtaza Baba Türbesi'nin etrafı, yeşilliklerle çevrili ve bu yeşillikler arasında yürüyüş yapma imkanı sunar. Plajın yakınlığı, ziyaretçilere deniz ve güneşin keyfini çıkarma fırsatı verir. Ayrıca, bölgenin coğrafi yapısı, birçok doğal güzelliği barındırır ve ziyaretçilere keşfetme imkanı sunar.
 
 ## Flora ve Fauna
 

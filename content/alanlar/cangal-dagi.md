@@ -34,7 +34,7 @@ Sinop'un doğal güzelliklerinin arasında yer alan Çangal Dağı, doğa severl
 
 Sinop bölgesinin tarihi, binlerce yıl öncesine uzanmaktadır. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri olmuş ve önemli bir kültür merkezi olarak kabul edilmiştir. Hitit, Pers, Roma ve Bizans gibi medeniyetler, Sinop'un stratejik konumundan yararlanarak burada ticaret ve yerleşim merkezleri kurmuşlardır.
 
-Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Çangal Dağı da, bu tarihsel sürecin bir parçasıdır. Türkiye'de bulunan birçok doğal alan gibi, Çangal Dağı da insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde yer almıştır. Yaylacılık ve hayvancılık, bölgede uzun yıllardır sürdürülen geleneksel faaliyetlerdir. Ayrıca, históriki ticaret yolları da bu bölgeyi önemli bir geçiş noktası haline getirmiştir.
+Doğal güzellikleri ve coğrafi konumuyla dikkat çeken Çangal Dağı da, bu tarihsel sürecin bir parçasıdır. Türkiye'de bulunan birçok doğal alan gibi, Çangal Dağı da insan yerleşimlerinin ve ekonomik faaliyetlerin merkezinde yer almıştır. Yaylacılık ve hayvancılık, bölgede uzun yıllardır sürdürülen geleneksel faaliyetlerdir. Ayrıca, tarihi ticaret yolları da bu bölgeyi önemli bir geçiş noktası haline getirmiştir.
 
 Bu doğal alanların korunması ve sürdürülebilirliği, Türkiye'nin kültürel ve ekonomik zenginliğinin devamı için önemlidir. Çangal Dağı, Sinop bölgesinin doğal güzelliklerini ve tarihsel önemini yansıtan bir örnektir. Bu bölge, ziyaretçilerini tarihin depthsine götürürken, aynı zamanda doğal güzelliklerinin korunmasına dikkat çekmektedir.
 

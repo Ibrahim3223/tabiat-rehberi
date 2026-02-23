@@ -1,7 +1,7 @@
 ---
 title: "Çikolata Müzesi"
 date: "2026-01-10T15:18:50.325Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q132949525"
 
 # Çikolata Müzesi
 
-İstanbul'un merkezinde, 140 hektarlık bir alanda kurulmuş Çikolata Müzesi, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Bu tatlı dünyayı keşfetmek, çikolatanın tarihini ve üretim sürecini öğrenmek için ideal bir yer. Çikolata Müzesi, çikolata severlerin ve ailelerin keyif alacağı bir destinasyon.
+ Bu tatlı dünyayı keşfetmek, çikolatanın tarihini ve üretim sürecini öğrenmek için ideal bir yer. Çikolata Müzesi, çikolata severlerin ve ailelerin keyif alacağı bir destinasyon.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q132949525"
 
 ## Coğrafya
 
-Çikolata Müzesi, İstanbul'un merkezinde, 140 hektarlık bir alanda kurulmuş. Müzenin çevresinde, çeşitli bitkiler ve ağaçlar bulunan bir yeşil alan mevcut. Çikolata Müzesi, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor ve ziyaretçilerine geniş bir açık alan sunuyor. Müzenin içi, modern ve ferah bir tasarıma sahip. Çikolata Müzesi, ziyaretçilerine konforlu ve keyifli bir gezi deneyimi sunuyor.
+Çikolata Müzesi, İstanbul'un merkezinde, 140 hektarlık bir alanda kurulmuş. Müzenin çevresinde, çeşitli bitkiler ve ağaçlar bulunan bir yeşil alan mevcut. Müzenin içi, modern ve ferah bir tasarıma sahip. Çikolata Müzesi, ziyaretçilerine konforlu ve keyifli bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

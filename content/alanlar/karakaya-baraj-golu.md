@@ -53,7 +53,7 @@ Karakaya Baraj Gölü, çevresindeki ekosistemi önemli şekilde etkiliyor. Göl
 
 Karakaya Baraj Gölü, Diyarbakır'ın yarı kurak ikliminde, step ve ova ekolojisinin birleştiği benzersiz bir noktada yer alır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-**Bitki Örtüsü:** İlkbaharla birlikte, göl çevresinde çeşitli sulak alan bitkileri ve otsu türler ortaya çıkar. Bu bitkiler, su seviyesinin değişimine uyum sağlayarak, gölün ekosistemini destekler. 
+**Bitki Örtüsü:** İlkbaharla birlikte, göl çevresinde çeşitli sulak alan bitkileri ve otsu türler ortaya çıkar. Bu bitkiler, su seviyesinin değişimine uyum sağlayarak, gölün ekosistemini destekler.
 
 **Yaban Hayatı:** Göl, çeşitli su kuşlarına ev sahipliği yapar. Sonbaharda, göçmen kuşlar buraya uğradıklarında, gölün havası farklı seslerle dolar. Balıklar da gölün su altı ekosistemini oluşturan önemli bir bileşendir.
 

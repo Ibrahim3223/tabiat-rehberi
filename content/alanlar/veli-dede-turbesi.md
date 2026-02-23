@@ -1,7 +1,7 @@
 ---
 title: "Veli Dede Türbesi"
 date: "2026-01-10T05:57:54.432Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390475"
 
 # Veli Dede Türbesi
 
-Veli Dede Türbesi, Edirne'nin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Bu önemli tarihi mekan, Marmara Bölgesi'nin kalbinde yer alıyor ve ziyaretçilerine zengin bir deneyim sunuyor. Veli Dede Türbesi, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor ve Edirne'nin önemli ziyaret noktalarından biri olarak kabul ediliyor.
+Veli Dede Türbesi, Edirne'nin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir nokta. Bu önemli tarihi mekan, Marmara Bölgesi'nin kalbinde yer alıyor ve ziyaretçilerine zengin bir deneyim sunuyor. Veli Dede Türbesi, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor ve Edirne'nin önemli ziyaret noktalarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 

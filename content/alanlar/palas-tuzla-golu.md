@@ -34,7 +34,7 @@ Kayseri'nin merkezi ilçesinde bulunan Palas Tuzla Gölü, şehrin kalbinde bir 
 
 ## Tarihçe
 
-Kayseri bölgesi, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, birçok uygarlığın izlerini taşıyan zengin bir kültürel mirasa sahiptir. Hititler, Romalılar, Bizanslılar ve Selçuklular gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel dokusunu şekillendirmiştir.
+Kayseri bölgesi, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bu bölge, birçok uygarlığın izlerini taşıyan zengin bir kültürel mirasa sahiptir. Hititler, Romalılar, Bizanslılar ve Selçuklular gibi medeniyetler, bu topraklarda yaşamış ve bölgenin kültürel dokusunu şekillendirmiştir.
 
 Doğal alanlar, Türkiye'nin tarihsel tarihinde önemli bir yer tutmaktadır. Bu alanlar, insanların yaşamını sürdürdüğü, tarım ve hayvancılık yaptığı, ticaret yollarının kesiştiği önemli merkezler olarak görev yapmıştır. Palas Tuzla Gölü de, bu doğal alanlardan biridir. İnsanların bu tür alanlarla ilişkisi, yaylacılık, hayvancılık ve tarım gibi faaliyetlerle şekillenmiştir.
 
@@ -52,9 +52,9 @@ Doğal yapısını inceleyecek olursak, Palas Tuzla Gölü'nün bir şehir bloğ
 
 ## Flora ve Fauna
 
-Palas Tuzla Gölü, Kayseri'nin kurak bozkır ortamında bir oaz olarak öne çıkıyor. Bu 1200 hektarlık yeşil cennet, step bitki örtüsünün hakim olduğu bir bölgede yer alıyor. İlkbaharla birlikte, göl çevresi renkli çiçeklerle donanıyor ve sulak alan bitkileri suyun kenarlarında yeşeriyor. 
+Palas Tuzla Gölü, Kayseri'nin kurak bozkır ortamında bir oaz olarak öne çıkıyor. Bu 1200 hektarlık yeşil cennet, step bitki örtüsünün hakim olduğu bir bölgede yer alıyor. İlkbaharla birlikte, göl çevresi renkli çiçeklerle donanıyor ve sulak alan bitkileri suyun kenarlarında yeşeriyor.
 
-Göl, su kuşları için önemli bir yaşam alanı sunuyor. Göç mevsimlerinde, binlerce su kuşu burada konaklıyor. Balıklarla dolu sular, bu kuşların beslenmesini sağlıyor. 
+Göl, su kuşları için önemli bir yaşam alanı sunuyor. Göç mevsimlerinde, binlerce su kuşu burada konaklıyor. Balıklarla dolu sular, bu kuşların beslenmesini sağlıyor.
 Gölün ekosistemi, su kuşları, balıklar ve sulak alan bitkileri arasında kurulan denge üzerine kuruluyor. Bu dengenin korunması, gölün canlı çeşitliliğinin devamı için çok önemli.
 
 ## Ziyaret Bilgileri

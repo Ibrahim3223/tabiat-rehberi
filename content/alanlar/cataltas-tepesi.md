@@ -28,7 +28,7 @@ wikidata_id: "Q34828618"
 
 # Çataltaş Tepesi
 
-Çataltaş Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Çataltaş Tepesi, Muğla'nın en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found. Bu tepe, doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer.
+Çataltaş Tepesi, Muğla'nın Ege Bölgesi'nde yer alan bir doğa harikasıdır. Çataltaş Tepesi, Muğla'nın en önemli doğal güzelliklerinden biri olarak kabul ediliyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found. Bu tepe, doğa severlerin ve gezi tutkunlarının mutlaka ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

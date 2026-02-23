@@ -62,7 +62,7 @@ Kilis'e yakın Haçlar Tepe, doğa severler için bir cennet. Sabah erken gitmen
 
 - Haçlar Tepe, Kilis ilinin kuzeydoğu kesiminde yer alır.
 - Kilis il merkezi ile Haçlar Tepe arasındaki mesafe yaklaşık 25 kilometredir.
-- Haçlar Tepe'nin coğrafi konumu, históriki ve kültürel zenginlikleri bakımından önemlidir.
+- Haçlar Tepe'nin coğrafi konumu, tarihi ve kültürel zenginlikleri bakımından önemlidir.
 - Kilis ilinin toplam yüzölçümü 1.642 kilometre kare iken, Haçlar Tepe'nin bulunduğu bölge önemli bir yer kaplar.
 - Haçlar Tepe'nin yüksekliği hakkında kesin bir veri bulunmamaktadır, ancak Kilis ilinin ortalama yüksekliği 590 metredir.
 - Kilis ilinin nüfusu 2020 yılında yaklaşık 142.000 olarak kayıtlara geçmiştir.

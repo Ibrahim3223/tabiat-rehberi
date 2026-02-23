@@ -1,7 +1,7 @@
 ---
 title: "Sefalık Hamamı"
 date: "2026-01-09T22:35:42.493Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ordu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738728"
 
 # Sefalık Hamamı
 
-Sefalık Hamamı, Karadeniz Bölgesi'nin Ordu ilinin Aybastı ilçesinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alan kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Sefalık Hamamı, denize girilebilece ve güneşlenebilecek bir yer olarak bilinir. Ayrıca, çevresi ormanlarla kaplı olan bu plaj, doğa severler için ideal bir noktadır. Sefalık Hamamı'na gidenler, genellikle plajın güzel kumlarına ve temiz denizine hayran kalırlar. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlar.
+Sefalık Hamamı, Karadeniz Bölgesi'nin Ordu ilinin Aybastı ilçesinde yer alan bir plajdır. Sefalık Hamamı, denize girilebilece ve güneşlenebilecek bir yer olarak bilinir. Ayrıca, çevresi ormanlarla kaplı olan bu plaj, doğa severler için ideal bir noktadır. Sefalık Hamamı'na gidenler, genellikle plajın güzel kumlarına ve temiz denizine hayran kalırlar. Bu plaj, özellikle yaz aylarında ziyaretçilerini ağırlar.
 
 ## Tarihçe
 

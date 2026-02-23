@@ -32,7 +32,7 @@ wikidata_id: "Q34822851"
 
 ## Tarihçe
 
-Çanakkale bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşamına ev sahipliği yapmış bir coğrafyadır. Zor Dağı da bu bölgenin bir parçasını oluşturur. Tarih boyunca, bu bölgeyi Truva, Pers, Roma ve Osmanlı gibi medeniyetler etkilemiştir. 
+Çanakkale bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşamına ev sahipliği yapmış bir coğrafyadır. Zor Dağı da bu bölgenin bir parçasını oluşturur. Tarih boyunca, bu bölgeyi Truva, Pers, Roma ve Osmanlı gibi medeniyetler etkilemiştir.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel geçmişiçerisinde önemli bir rol oynamıştır. Yayla ve dağlık bölgeler, insan yerleşimlerinin yanı sıra, hayvancılık ve yaylacılık faaliyetlerine de ev sahipliği yapmıştır. Ayrıca, tarihsel ticaret yolları da bu bölgelerden geçmiş, bu da bölgeye ekonomi ve kültürel zenginlik katmıştır.
 

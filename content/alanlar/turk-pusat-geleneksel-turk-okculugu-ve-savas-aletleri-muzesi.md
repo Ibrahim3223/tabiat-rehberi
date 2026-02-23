@@ -1,7 +1,7 @@
 ---
 title: "Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi"
 date: "2026-01-10T15:17:15.522Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Ankara"

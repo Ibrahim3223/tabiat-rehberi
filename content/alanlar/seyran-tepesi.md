@@ -28,7 +28,7 @@ wikidata_id: "Q31390077"
 
 # Seyran Tepesi
 
-Seyran Tepesi, Ankara'nın önemli doğal güzelliklerinden biridir. Şehir merkezine yakın konumuyla dikkat çeker. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu tepede, Ankara'nın panoramik manzarasını izleme mümkün. Seyran Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon.
+Seyran Tepesi, Ankara'nın önemli doğal güzelliklerinden biridir. Şehir merkezine yakın konumuyla dikkat çeker. Bu tepede, Ankara'nın panoramik manzarasını izleme mümkün. Seyran Tepesi, hem doğa severler hem de şehri keşfetmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Taşgun Baba Türbesi"
 date: "2026-01-10T06:27:16.944Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391832"
 
 # Taşgun Baba Türbesi
 
-Taşgun Baba Türbesi, Konya'nın Altınekin ilçesinde yer alan tarihi bir mekan. 140 hektarlık yeşil alanı yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere huzurlu bir ortam sunuyor. Türbenin etrafı, çeşitli ağaçlar ve bitkilerle çevrili. Bu mekan, hem tarihi hem de doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, burada hem tarihi bir türbeyi ziyaret ediyor hem de doğal güzelliğin keyfini çıkarıyor.
+Taşgun Baba Türbesi, Konya'nın Altınekin ilçesinde yer alan tarihi bir mekan. Bu geniş alan, ziyaretçilere huzurlu bir ortam sunuyor. Türbenin etrafı, çeşitli ağaçlar ve bitkilerle çevrili. Bu mekan, hem tarihi hem de doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, burada hem tarihi bir türbeyi ziyaret ediyor hem de doğal güzelliğin keyfini çıkarıyor.
 
 ## Tarihçe
 
@@ -37,11 +37,11 @@ Taşgun Baba Türbesi, tarihi geçmişiyle dikkat çekiyor. Bu türbenin tam ola
 
 ## Coğrafya
 
-Taşgun Baba Türbesi, İç Anadolu Bölgesi'nde, Konya'nın Altınekin ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde. Türbenin etrafı, çeşitli ağaçlar ve bitkilerle çevrili. Bu mekan, doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, burada hem tarihi bir türbeyi ziyaret ediyor hem de doğal güzelliğin keyfini çıkarıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Yaz ayları sıcak ve kuru, kış ayları soğuk ve karlı geçiyor. Bu nedenle, ziyaretçiler, mevsime göre uygun giyinerek gelmeliler.
+Taşgun Baba Türbesi, İç Anadolu Bölgesi'nde, Konya'nın Altınekin ilçesinde yer alıyor. Bu bölge, coğrafi olarak zengin bir yapıya sahip. Türbenin etrafı, çeşitli ağaçlar ve bitkilerle çevrili. Bu mekan, doğal güzelliği ile dikkat çekiyor. Ziyaretçiler, burada hem tarihi bir türbeyi ziyaret ediyor hem de doğal güzelliğin keyfini çıkarıyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer. Yaz ayları sıcak ve kuru, kış ayları soğuk ve karlı geçiyor. Bu nedenle, ziyaretçiler, mevsime göre uygun giyinerek gelmeliler.
 
 ## Flora ve Fauna
 
-Taşgun Baba Türbesi, doğal güzelliği ile dikkat çekiyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, çeşitli bitkiler ve ağaçlarla çevrili. Ziyaretçiler, burada doğal güzelliğin keyfini çıkarıyorlar. Bölgenin flora ve fauna zenginliği, dikkat çekiyor. çeşitli bitki türleri ve hayvanlar, bu bölgede yaşıyor. Ziyaretçiler, burada hem doğal güzelliğin keyfini çıkarıyor hem de bölgenin flora ve faunasını inceleyerek, bilgi ediniyorlar.
+Taşgun Baba Türbesi, doğal güzelliği ile dikkat çekiyor. Bu geniş alan, çeşitli bitkiler ve ağaçlarla çevrili. Ziyaretçiler, burada doğal güzelliğin keyfini çıkarıyorlar. Bölgenin flora ve fauna zenginliği, dikkat çekiyor. çeşitli bitki türleri ve hayvanlar, bu bölgede yaşıyor. Ziyaretçiler, burada hem doğal güzelliğin keyfini çıkarıyor hem de bölgenin flora ve faunasını inceleyerek, bilgi ediniyorlar.
 
 ## Ziyaret Bilgileri
 

@@ -32,13 +32,13 @@ Diyarbakır'ın zengin tarihi ve kültürel mirasının arasında yer alan Boraz
 
 ## Tarihçe
 
-Diyarbakır bölgesi, tarihin derinliklerinden gelen bir geçmişe sahiptir. Bu topraklar, Hititler, Asurlular, Persler, Romalılar ve Bizanslılar gibi birçok uygarlığa ev sahipliği yapmış, zengin bir kültürel mirası barındırmaktadır. Borazlı Tepe, bu tarihsel zenginliğin bir parçası olarak görülebilir. Türkiye'nin doğusunda yer alan bu bölge, históriki ticaret yollarının kesişme noktasında bulunmakta, insanları ve kültürleri bir araya getirmiştir.
+Diyarbakır bölgesi, tarihin derinliklerinden gelen bir geçmişe sahiptir. Bu topraklar, Hititler, Asurlular, Persler, Romalılar ve Bizanslılar gibi birçok uygarlığa ev sahipliği yapmış, zengin bir kültürel mirası barındırmaktadır. Borazlı Tepe, bu tarihsel zenginliğin bir parçası olarak görülebilir. Türkiye'nin doğusunda yer alan bu bölge, tarihi ticaret yollarının kesişme noktasında bulunmakta, insanları ve kültürleri bir araya getirmiştir.
 
 Bu tür doğal alanlar, Türkiye'de önemli bir yer tutmaktadır. Yaylacılık ve hayvancılık faaliyetleri, bölge halkının yaşam tarzı olmuştur. Borazlı Tepe'nin eteklerinde ve çevresinde, insanların doğayla iç içe yaşadığı bir manzara ortaya çıkarmaktadır. İnsanların bu alanla ilişkisi, sadece ekonomik faaliyetlerle sınırlı kalmamış, aynı zamanda kültürel ve sosyal bağları da güçlendirmiştir. Borazlı Tepe, bu bağlamda, Diyarbakır bölgesinin tarihini ve kültürünü anlamak için önemli bir noktadır.
 
 ## Coğrafya
 
-Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için, Diyarbakır'ın Borazlı Tepe dağının bulunduğu bölge, önemli bir destinasyon olarak dikkat çekiyor. 37.9233°K, 40.5753°D koordinatlarında yer alan bu dağ, Diyarbakır kentinin yakınında, bölgenin históri ve kültürel dokusunu oluşturan bir coğrafyada bulunuyor. Borazlı Tepe, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren bir konumda yer alıyor.
+Güneydoğu Anadolu Bölgesi'nin coğrafi zenginliklerini keşfetmek isteyenler için, Diyarbakır'ın Borazlı Tepe dağının bulunduğu bölge, önemli bir destinasyon olarak dikkat çekiyor. 37.9233°K, 40.5753°D koordinatlarında yer alan bu dağ, Diyarbakır kentinin yakınında, bölgenin tarihi ve kültürel dokusunu oluşturan bir coğrafyada bulunuyor. Borazlı Tepe, Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren bir konumda yer alıyor.
 
 Jeolojik açıdan incelendiğinde, Borazlı Tepe'nin fiziksel yapısı hakkında detaylı bilgi bulunmasa da, bölgenin genel coğrafyası, Güneydoğu Anadolu Bölgesi'nin karakteristik özelliklerini taşıyor. Bu dağ, bölgenin geniş ve çeşitli coğrafi yapısının bir parçası olarak, farklı yüksekli ve eğimlere sahip bir arazide yer alıyor. Monaco'nun küçük bir bölümü kadar bir alanı kaplayan Borazlı Tepe, bölgenin coğrafi çeşitliliğini temsil ediyor.
 

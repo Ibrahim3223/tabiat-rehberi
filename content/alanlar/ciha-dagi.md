@@ -28,11 +28,11 @@ wikidata_id: "Q31592091"
 
 # Ciha Dağı
 
-Türkiye'nin doğa harikalarından biri olan Ciha Dağı, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Ciha Dağı, Türkiye'nin çeşitli illerinden ulaşılabilen bir konumda yer alır. Bu dağ, özellikle doğa severlerin ilgisini çeker. Ciha Dağı'nın güzelliği, ziyaretçilerine unutulmaz anlar yaşatır.
+Türkiye'nin doğa harikalarından biri olan Ciha Dağı, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Ciha Dağı, Türkiye'nin çeşitli illerinden ulaşılabilen bir konumda yer alır. Bu dağ, özellikle doğa severlerin ilgisini çeker.
 
 ## Tarihçe
 
-Ciha Dağı, Türkiye'nin doğa harikalarından biri olarak karşımıza çıkıyor. Bu bölge, tarihin sâu sayfalarında gizli olan bir geçmişe sahip. Anadolu'nun zengin tarihi, çeşitli uygarlıkların izlerini taşıyor. Hititlerden, Roma ve Bizans'a; Selçuklu ve Osmanlı'ya kadar birçok medeniyet, bu topraklarda yaşamış ve izler bırakmış.
+Ciha Dağı, Türkiye'nin doğa harikalarından biri olarak karşımıza çıkıyor. Bu bölge, tarihin derin sayfalarında gizli olan bir geçmişe sahip. Anadolu'nun zengin tarihi, çeşitli uygarlıkların izlerini taşıyor. Hititlerden, Roma ve Bizans'a; Selçuklu ve Osmanlı'ya kadar birçok medeniyet, bu topraklarda yaşamış ve izler bırakmış.
 
 Doğal alanlar, Türkiye'nin tarihsel geçmişinde önemli bir yere sahip. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve kültürel hayatın merkezinde olmasını sağlamış. Ciha Dağı da, bu bağlamda insanların yaşamlarına dokunan bir bölge olarak dikkat çekiyor. İnsanlar, bu dağların eteklerinde yerleşim yerleri kurmuş, tarım ve hayvancılıkla uğraşmışlar.
 

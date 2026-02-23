@@ -1,7 +1,7 @@
 ---
 title: "Çaltılı Hamamı"
 date: "2026-01-10T03:41:17.609Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Balıkesir"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245872"
 
 # Çaltılı Hamamı
 
-Çaltılı Hamamı, Marmara Bölgesi'nin güzide illerinden Balıkesir'in Savaştepe ilçesinde bulunan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüleyici mekan, ziyaretçilerini doğanın kucağına davet ediyor. Çaltılı Hamamı, doğa severler için bir cennet, tarihi geçmişi ve coğrafi güzelliği ile dikkat çekiyor. Bu alan, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
+ Bu büyüleyici mekan, ziyaretçilerini doğanın kucağına davet ediyor. Çaltılı Hamamı, doğa severler için bir cennet, tarihi geçmişi ve coğrafi güzelliği ile dikkat çekiyor. Bu alan, ziyaretçilerine hem dinlenme hem de keşif imkanı sunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q133245872"
 
 ## Coğrafya
 
-Çaltılı Hamamı, Marmara Bölgesi'nin coğrafi güzelliği ile dikkat çekiyor. Bu bölge, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Çaltılı Hamamı, yüksek bir konumda bulunuyor. Bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunuyor. Çaltılı Hamamı, çevredeki dağlarla çevrili ve bu da bu bölgenin coğrafi güzelliğini artırıyor. Bu bölgenin iklimi, genellikle ılıman ve ziyaretçilerine rahat bir gezi imkanı sunuyor. Çaltılı Hamamı, çevresi ile birlikte, ziyaretçilerine doğanın güzelliğini gösteriyor.
+Çaltılı Hamamı, Marmara Bölgesi'nin coğrafi güzelliği ile dikkat çekiyor. Çaltılı Hamamı, yüksek bir konumda bulunuyor. Bu bölgenin coğrafi yapısı, ziyaretçilerine çeşitli manzaralar sunuyor. Çaltılı Hamamı, çevredeki dağlarla çevrili ve bu da bu bölgenin coğrafi güzelliğini artırıyor. Bu bölgenin iklimi, genellikle ılıman ve ziyaretçilerine rahat bir gezi imkanı sunuyor. Çaltılı Hamamı, çevresi ile birlikte, ziyaretçilerine doğanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

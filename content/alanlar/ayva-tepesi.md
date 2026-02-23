@@ -28,7 +28,7 @@ wikidata_id: "Q31386564"
 
 # Ayva Tepesi
 
-Ayva Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, bölgenin en önemli coğrafi özelliklerinden biri. Ayva Tepesi, doğal güzelliği ve tarihi geçmişi ile dikkat çekiyor. Bu tepe, aynı zamanda bölgenin flora ve fauna çeşitliliği açısından da önemli bir yer. Ayva Tepesi'ni ziyaret edenler, burada çeşitli bitki türleri ve hayvanları görmek imkanına sahip oluyor.
+Ayva Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan bir tepe. Ayva Tepesi, doğal güzelliği ve tarihi geçmişi ile dikkat çekiyor. Bu tepe, aynı zamanda bölgenin flora ve fauna çeşitliliği açısından da önemli bir yer. Ayva Tepesi'ni ziyaret edenler, burada çeşitli bitki türleri ve hayvanları görmek imkanına sahip oluyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Ayva Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin y
 
 ## Coğrafya
 
-Ayva Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Bu tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde. Ayva Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu. Bu tepe, aynı zamanda bölgenin iklimi açısından da önemli bir yer. Ayva Tepesi, bölgenin yüksek noktalarından biri olarak kabul ediliyor. Bu tepe, aynı zamanda bölgenin su kaynakları açısından da önemli bir yer. Ayva Tepesi, bölgenin coğrafi özellikleri açısından önemli bir yer olarak kabul ediliyor. Ayva Tepesi'nin coğrafi yapısı, çeşitli jeolojik oluşumları içeriyor. Bu tepe, aynı zamanda bölgenin doğal güzelliği açısından da önemli bir yer.
+Ayva Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alıyor. Ayva Tepesi'nin coğrafi yapısı, çeşitli bitki türleri ve hayvanlarla dolu. Bu tepe, aynı zamanda bölgenin iklimi açısından da önemli bir yer. Ayva Tepesi, bölgenin yüksek noktalarından biri olarak kabul ediliyor. Bu tepe, aynı zamanda bölgenin su kaynakları açısından da önemli bir yer. Ayva Tepesi, bölgenin coğrafi özellikleri açısından önemli bir yer olarak kabul ediliyor. Ayva Tepesi'nin coğrafi yapısı, çeşitli jeolojik oluşumları içeriyor. Bu tepe, aynı zamanda bölgenin doğal güzelliği açısından da önemli bir yer.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Ayva Tepesi'ni ziyaret etmek, bölgenin doğal güzelliği ve tarihi geçmişi h
 
 ## İlginç Bilgiler
 
-- Ayva Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Bu tepe, bölgenin en önemli coğrafi özelliklerinden biri.
 - Ayva Tepesi, doğal güzelliği ve tarihi geçmişi ile dikkat çekiyor.
 - Bu tepe, aynı zamanda bölgenin flora ve fauna çeşitliliği açısından da önemli bir yer.

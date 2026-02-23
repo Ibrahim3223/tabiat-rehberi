@@ -22,7 +22,7 @@ wikidata_id: "Q119442765"
 
 # Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası
 
-Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu bölge, yaklaşık 140 hektarlık bir alanı kapsıyor ki, bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Sahanın coğrafi konumu, hem flora hem de fauna açısından zengin bir çeşitlilik sunuyor. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarını koruma altına alınmış olarak bulunduruyor. Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası, aynı zamanda yaban hayvanlarının korunması ve yaşamının sürdürülmesi için önemli bir merkez olarak görev yapıyor.
+Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası, İç Anadolu Bölgesi'nin güzide noktalarından biri olarak karşımıza çıkıyor. Sahanın coğrafi konumu, hem flora hem de fauna açısından zengin bir çeşitlilik sunuyor. Burada, çeşitli bitki türleri ve hayvanlar, doğal yaşam alanlarını koruma altına alınmış olarak bulunduruyor. Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası, aynı zamanda yaban hayvanlarının korunması ve yaşamının sürdürülmesi için önemli bir merkez olarak görev yapıyor.
 
 ## Tarihçe
 

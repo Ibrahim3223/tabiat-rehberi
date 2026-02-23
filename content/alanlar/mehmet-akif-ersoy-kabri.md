@@ -29,7 +29,7 @@ wikidata_id: "Q134728115"
 
 # Mehmet Akif Ersoy Kabri
 
-Mehmet Akif Ersoy Kabri, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir mekan. Bu yer, Türkiye'nin millî şairi olarak bilinen Mehmet Akif Ersoy'un sonsuz uykuya yatığı yer. 140 hektarlık bir yeşil alanın içinde bulunan kabir, yaklaşık 200 futbol sahası büyüklüğünde bir arazide ziyaretçilerini ağırlıyor. Bu mekan, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbediyor. Mehmet Akif Ersoy Kabri, aynı zamanda bir plaj olarak da bilinir ve ziyaretçiler burada hem manzarayı seyretmek hem de denize girmek için gelirler.
+Mehmet Akif Ersoy Kabri, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir mekan. Bu yer, Türkiye'nin millî şairi olarak bilinen Mehmet Akif Ersoy'un sonsuz uykuya yatığı yer. Bu mekan, hem doğal güzelliği hem de tarihi önemiyle ziyaretçilerini cezbediyor. Mehmet Akif Ersoy Kabri, aynı zamanda bir plaj olarak da bilinir ve ziyaretçiler burada hem manzarayı seyretmek hem de denize girmek için gelirler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Mehmet Akif Ersoy Kabri, Türkiye'nin millî şairi olarak bilinen Mehmet Akif E
 
 ## Coğrafya
 
-Mehmet Akif Ersoy Kabri, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir mekan. Bu yer, 140 hektarlık bir yeşil alanın içinde bulunmakta ve yaklaşık 200 futbol sahası büyüklüğünde bir arazide ziyaretçilerini ağırlıyor. Kabir, denize yakın bir konumda yer almakta ve ziyaretçiler burada hem manzarayı seyretmek hem de denize girmek için gelirler. Mehmet Akif Ersoy Kabri'nin etrafı, çeşitli bitki türleriyle çevrilidir ve ziyaretçiler buraya geldiğinde doğal güzelliğin keyfini çıkarabilirler. Mekan, İstanbul'un merkezi bir bölgesinde yer almakta ve ulaşım açısından kolaylık sağlamaktadır. İstanbul'un diğer önemli mekanlarına da yakın mesafede bulunmakta ve ziyaretçiler buradan diğer önemli yerleri de ziyaret edebilirler.
+Mehmet Akif Ersoy Kabri, Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir mekan. Kabir, denize yakın bir konumda yer almakta ve ziyaretçiler burada hem manzarayı seyretmek hem de denize girmek için gelirler. Mehmet Akif Ersoy Kabri'nin etrafı, çeşitli bitki türleriyle çevrilidir ve ziyaretçiler buraya geldiğinde doğal güzelliğin keyfini çıkarabilirler. Mekan, İstanbul'un merkezi bir bölgesinde yer almakta ve ulaşım açısından kolaylık sağlamaktadır. İstanbul'un diğer önemli mekanlarına da yakın mesafede bulunmakta ve ziyaretçiler buradan diğer önemli yerleri de ziyaret edebilirler.
 
 ## Flora ve Fauna
 

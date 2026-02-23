@@ -28,7 +28,7 @@ wikidata_id: "Q34873083"
 
 # Güllükçalı Tepesi
 
-Güllükçalı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin. Güllükçalı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
+Güllükçalı Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Tepenin etrafı, çeşitli bitki türleriyle kaplı ve yaban hayatı açısından zengin. Güllükçalı Tepesi, hem doğa severlerin hem de tarih meraklılarının ilgisini çekiyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31388860"
 
 # Yanıktepe
 
-Yanıktepe, Kırklareli ilinin Marmara Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve bu yönüyle yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Yanıktepe, ziyaretçiler için bir çekim noktası oluşturuyor. Bu tepe, özellikle doğa severlerin ilgisini çekiyor ve çeşitli faaliyetler için uygun bir ortam sunuyor. Yanıktepe'nin etrafı, zengin bir flora ve fauna ile kaplı olup, bu yönüyle de önemli bir ekolojik değer taşıyor.
+Yanıktepe, Kırklareli ilinin Marmara Bölgesi'nde yer alan bir tepe olarak dikkat çekiyor. Doğal güzellikleri ve coğrafi özellikleri ile dikkat çeken Yanıktepe, ziyaretçiler için bir çekim noktası oluşturuyor. Bu tepe, özellikle doğa severlerin ilgisini çekiyor ve çeşitli faaliyetler için uygun bir ortam sunuyor. Yanıktepe'nin etrafı, zengin bir flora ve fauna ile kaplı olup, bu yönüyle de önemli bir ekolojik değer taşıyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Yanıktepe'nin tarihi geçmişi, oldukça eskiye dayanır. Bu bölge, yüzyılla
 
 ## Coğrafya
 
-Yanıktepe, coğrafi olarak Marmara Bölgesi'nin Kırklareli ilinde yer alıyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve bu yönüyle yaklaşık 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Bölgenin coğrafi yapısı, genellikle tepeli ve engebeli arazilerden oluşuyor. Yanıktepe'nin etrafı, zengin bir flora ile kaplı olup, çeşitli ağaç türleri ve bitki örtüsü ile dikkat çekiyor. İklim olarak, bölgenin karakteristik özellikleri, Marmara Bölgesi'nin genel iklim yapısına uygun olarak değişkenlik gösteriyor. Kış ayları genellikle soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkiliyor ve bu yönüyle de önemli bir ekolojik değer taşıyor. Yanıktepe, coğrafi konumu ve doğal güzellikleri ile birlikte, ziyaretçileri için önemli bir gezi noktası olarak dikkat çekiyor.
+Yanıktepe, coğrafi olarak Marmara Bölgesi'nin Kırklareli ilinde yer alıyor. Bölgenin coğrafi yapısı, genellikle tepeli ve engebeli arazilerden oluşuyor. Yanıktepe'nin etrafı, zengin bir flora ile kaplı olup, çeşitli ağaç türleri ve bitki örtüsü ile dikkat çekiyor. İklim olarak, bölgenin karakteristik özellikleri, Marmara Bölgesi'nin genel iklim yapısına uygun olarak değişkenlik gösteriyor. Kış ayları genellikle soğuk ve yağışlı, yaz ayları ise sıcak ve kurak geçiyor. Bu iklim özellikleri, bölgenin flora ve fauna çeşitliliğini etkiliyor ve bu yönüyle de önemli bir ekolojik değer taşıyor. Yanıktepe, coğrafi konumu ve doğal güzellikleri ile birlikte, ziyaretçileri için önemli bir gezi noktası olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

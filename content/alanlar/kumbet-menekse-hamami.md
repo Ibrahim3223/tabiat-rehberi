@@ -1,7 +1,7 @@
 ---
 title: "Kümbet Menekşe Hamamı"
 date: "2026-01-09T22:27:28.453Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738437"
 
 # Kümbet Menekşe Hamamı
 
-Kümbet Menekşe Hamamı, Sivas'ın merkezinde yer alan ve yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğimiz. Bu doğal alan, ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılar. İlkbaharın yeşilliği, yazın sıcakklığı, sonbaharın renk cümbüşü ve kışın karlı manzarasıyla, her mevsim ziyaretçilerini bekleyen bu güzel yer, Sivas'ın önemli turizm merkezlerinden biri.
+ Bu doğal alan, ziyaretçilerini dört mevsim boyunca farklı güzelliklerle karşılar. İlkbaharın yeşilliği, yazın sıcakklığı, sonbaharın renk cümbüşü ve kışın karlı manzarasıyla, her mevsim ziyaretçilerini bekleyen bu güzel yer, Sivas'ın önemli turizm merkezlerinden biri.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Kümbet Menekşe Hamamı, çeşitliliği yüksek bir flora ve fauna zenginliğin
 
 ## Ziyaret Bilgileri
 
-Kümbet Menekşe Hamamı'na ulaşım, Sivas şehir merkezinden oldukça kolay. Özel araçlarla veya toplu taşıma araçlarını kullanarak, bu doğal güzelliğe rahatlıkla ulaşabilirsiniz. Gezi için en uygun thi, ilkbahar ve sonbahar ayları. Bu aylarda, hava koşulları daha uygun ve régionun doğal güzelliği daha da artıyor.
+Kümbet Menekşe Hamamı'na ulaşım, Sivas şehir merkezinden oldukça kolay. Özel araçlarla veya toplu taşıma araçlarını kullanarak, bu doğal güzelliğe rahatlıkla ulaşabilirsiniz. Gezi için en uygun thi, ilkbahar ve sonbahar ayları. Bu aylarda, hava koşulları daha uygun ve bölgenin doğal güzelliği daha da artıyor.
 
 ## İlginç Bilgiler
 

@@ -1,7 +1,7 @@
 ---
 title: "Şehit Hacı Yakup Efendi Türbesi"
 date: "2026-01-10T05:21:46.969Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391754"
 
 # Şehit Hacı Yakup Efendi Türbesi
 
-Şehit Hacı Yakup Efendi Türbesi, Osmangazi, Bursa'da yer alan bir tarihi türbe ve plaj alanıdır. Bu bölge, Marmara Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getirmesiyle dikkat çekmektedir. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alana sahiptir ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplamaktadır. Şehit Hacı Yakup Efendi Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini beklemektedir.
+Şehit Hacı Yakup Efendi Türbesi, Osmangazi, Bursa'da yer alan bir tarihi türbe ve plaj alanıdır. Bu bölge, Marmara Bölgesi'nin zengin tarihi ve doğal güzelliklerini bir araya getirmesiyle dikkat çekmektedir. Şehit Hacı Yakup Efendi Türbesi, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini beklemektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131391754"
 
 ## Coğrafya
 
-Şehit Hacı Yakup Efendi Türbesi, Osmangazi, Bursa'da yer almaktadır ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle ılıman bir iklime sahip olup, yazları sıcak ve kışları serin geçer. Türbenin bulunduğu alan, 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu alan, ziyaretçilere geniş bir açık alan sunar ve aynı zamanda birçok bitki türüne ev sahipliği yapar. Şehit Hacı Yakup Efendi Türbesi'nin coğrafi konumu, ziyaretçilerin rahatça ulaşabileceği bir yerdir ve çevresinde birçok tarihi ve doğal güzellik bulunur.
+Şehit Hacı Yakup Efendi Türbesi, Osmangazi, Bursa'da yer almaktadır ve Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bu bölge, genellikle ılıman bir iklime sahip olup, yazları sıcak ve kışları serin geçer. Bu alan, ziyaretçilere geniş bir açık alan sunar ve aynı zamanda birçok bitki türüne ev sahipliği yapar. Şehit Hacı Yakup Efendi Türbesi'nin coğrafi konumu, ziyaretçilerin rahatça ulaşabileceği bir yerdir ve çevresinde birçok tarihi ve doğal güzellik bulunur.
 
 ## Flora ve Fauna
 

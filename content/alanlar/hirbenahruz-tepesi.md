@@ -28,7 +28,7 @@ wikidata_id: "Q31554167"
 
 # Hırbenahruz Tepesi
 
-Hırbenahruz Tepesi, Mardin ilinin güneydoğu kesiminde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğal alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğal güzellikleriyle karşılar. Hırbenahruz Tepesi, Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta olup, bu bölgede yaban hayatı da oldukça zengin bir yapıya sahiptir.
+Hırbenahruz Tepesi, Mardin ilinin güneydoğu kesiminde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğal alandır. Hırbenahruz Tepesi, Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta olup, bu bölgede yaban hayatı da oldukça zengin bir yapıya sahiptir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hırbenahruz Tepesi'nin tarihi geçmişi, Mardin'in tarihi ile iç içe geçmiş
 
 ## Coğrafya
 
-Hırbenahruz Tepesi, Mardin'in güneydoğu kesiminde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kapsar. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğal güzellikleriyle karşılar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta olup, bu bölgede yaban hayatı da oldukça zengin bir yapıya sahiptir. Hırbenahruz Tepesi, Mardin'in coğrafi yapısını oluşturan önemli bir parça olup, bölgenin iklimini ve çevresini etkileyen önemli bir faktördür. Tepenin çevresinde ve eteklerinde yapılan araştırmalar, bu bölgenin coğrafi önemini daha da vurgulamaktadır.
+Hırbenahruz Tepesi, Mardin'in güneydoğu kesiminde yer alan bir tepe olup, yaklaşık 140 hektarlık bir alanı kapsar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta olup, bu bölgede yaban hayatı da oldukça zengin bir yapıya sahiptir. Hırbenahruz Tepesi, Mardin'in coğrafi yapısını oluşturan önemli bir parça olup, bölgenin iklimini ve çevresini etkileyen önemli bir faktördür. Tepenin çevresinde ve eteklerinde yapılan araştırmalar, bu bölgenin coğrafi önemini daha da vurgulamaktadır.
 
 ## Flora ve Fauna
 
@@ -44,12 +44,12 @@ Hırbenahruz Tepesi, çeşitli bitki türleri ve yaban hayatı ile zengin bir do
 
 ## Ziyaret Bilgileri
 
-Hırbenahruz Tepesi, Mardin ilinin güneydoğu kesiminde yer alan bir doğal alandır. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğal güzellikleriyle karşılar. Hırbenahruz Tepesi'ni ziyaret etmek isteyenler, Mardin iline ulaşarak buradan tepeye giden yolu takip edebilirler. Tepenin eteklerinde ve çevresinde yapılan araştırmalar, bu bölgenin tarihi ve kültürel önemini daha da vurgulamaktadır.
+Hırbenahruz Tepesi, Mardin ilinin güneydoğu kesiminde yer alan bir doğal alandır. Hırbenahruz Tepesi'ni ziyaret etmek isteyenler, Mardin iline ulaşarak buradan tepeye giden yolu takip edebilirler. Tepenin eteklerinde ve çevresinde yapılan araştırmalar, bu bölgenin tarihi ve kültürel önemini daha da vurgulamaktadır.
 
 ## İlginç Bilgiler
 
 - Hırbenahruz Tepesi, Mardin ilinin güneydoğu kesiminde yer alan bir doğal alandır.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğal güzellikleriyle karşılar.
+
 - Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunmakta olup, bu bölgede yaban hayatı da oldukça zengin bir yapıya sahiptir.
 - Hırbenahruz Tepesi, Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyondur.
 - Tepenin çevresinde ve eteklerinde yapılan araştırmalar, bu bölgenin coğrafi ve tarihi önemini daha da vurgulamaktadır.

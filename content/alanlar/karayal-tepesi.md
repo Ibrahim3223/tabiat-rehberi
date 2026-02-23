@@ -28,7 +28,7 @@ wikidata_id: "Q31387100"
 
 # Karayal Tepesi
 
-Karayal Tepesi, Kars ilinin güzide noktalarından biri olarak bilinir. Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir nokta olan bu tepe, aynı zamanda ziyaretçilerini tarihi ve kültürel zenginlikleriyle de cezbeder. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli doğal güzelliklerinden biridir. Karayal Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişin izlerini sunar.
+Karayal Tepesi, Kars ilinin güzide noktalarından biri olarak bilinir. Doğu Anadolu Bölgesi'nin coğrafi yapısını gözlemlemek için ideal bir nokta olan bu tepe, aynı zamanda ziyaretçilerini tarihi ve kültürel zenginlikleriyle de cezbeder. Karayal Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişin izlerini sunar.
 
 ## Tarihçe
 
@@ -44,12 +44,12 @@ Karayal Tepesi, zengin bir flora ve fauna çeşitliliğine sahiptir. Tepenin ete
 
 ## Ziyaret Bilgileri
 
-Karayal Tepesi'ni ziyaret etmek, hem doğal güzellikleri hem de tarihi geçmişi keşfetmek için idealdir. Tepenin zirvesine ulaşmak için, ziyaretçiler yaklaşık 2-3 saatlik bir yürüyüş yapabilir. Yürüyüş sırasında, bölgenin flora ve fauna çeşitliliğini gözlemleme mümkündür. Tepenin zirvesinden, geniş bir manzara sunan Karayal Tepesi, ziyaretçilerine unutulmaz bir deneyim sunar. Ziyaret için en iyi mevsim, ilkbahar ve yaz aylarıdır. Bu dönemde, tepe ve çevresinde daha çok canlılık görülür ve ziyaretçiler, bölgenin güzelliklerini daha iyi gözlemleyebilir.
+Karayal Tepesi'ni ziyaret etmek, hem doğal güzellikleri hem de tarihi geçmişi keşfetmek için idealdir. Tepenin zirvesine ulaşmak için, ziyaretçiler yaklaşık 2-3 saatlik bir yürüyüş yapabilir. Yürüyüş sırasında, bölgenin flora ve fauna çeşitliliğini gözlemleme mümkündür. Ziyaret için en iyi mevsim, ilkbahar ve yaz aylarıdır. Bu dönemde, tepe ve çevresinde daha çok canlılık görülür ve ziyaretçiler, bölgenin güzelliklerini daha iyi gözlemleyebilir.
 
 ## İlginç Bilgiler
 
 - Karayal Tepesi, Kars ilinin en yüksek noktalarından biridir.
 - Tepenin eteklerinde, çeşitli bitki türleri bulunur.
 - Karayal Tepesi, bölgenin iklimini etkiler.
-- Tepenin zirvesinden, geniş bir manzara sunan Karayal Tepesi, ziyaretçilerine unutulmaz bir deneyim sunar.
+
 - Karayal Tepesi, doğa severler için önemli bir destinasyondur.

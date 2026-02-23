@@ -1,7 +1,7 @@
 ---
 title: "İbrahim Paşa Türbesi"
 date: "2026-01-10T07:46:26.479Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391123"
 
 # İbrahim Paşa Türbesi
 
-İbrahim Paşa Türbesi, İstanbul'un tarihi merkezi Fatih'te yer alan ve bölgenin önemli kültürel miraslarından biri olan bir türbedir. Marmara Bölgesi'nin kalbinde bulunan bu tarihi mekan, ziyaretçilerini İstanbul'un zengin tarihsel geçmişiyle baş başa bırakıyor. İbrahim Paşa Türbesi, yaklaşık 140 hektarlık bir alan içerisinde yer alıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, hem tarihi hem de doğal güzelliklerin bir araya geldiği özel bir nokta olarak dikkat çekiyor.
+İbrahim Paşa Türbesi, İstanbul'un tarihi merkezi Fatih'te yer alan ve bölgenin önemli kültürel miraslarından biri olan bir türbedir. Marmara Bölgesi'nin kalbinde bulunan bu tarihi mekan, ziyaretçilerini İstanbul'un zengin tarihsel geçmişiyle baş başa bırakıyor. Bu geniş alan, hem tarihi hem de doğal güzelliklerin bir araya geldiği özel bir nokta olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391123"
 
 ## Coğrafya
 
-İbrahim Paşa Türbesi, Marmara Bölgesi'nin kalbinde, İstanbul'un tarihi merkezi Fatih'te yer alıyor. Bu bölge, coğrafi olarak Boğaz'ın güneyinde ve Haliç'in batısında konumlanmış bulunuyor. Türbe, yaklaşık 140 hektarlık bir alan içerisinde yer alıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, hem tarihi hem de doğal güzelliklerin bir araya geldiği özel bir nokta olarak dikkat çekiyor. İbrahim Paşa Türbesi'nin etrafı, tarihi binalar, camiler ve diğer kültürel yapılarla çevrilidir. Bu bölge, İstanbul'un en eski ve en tarihi ilçelerinden biri olan Fatih'in kalbinde yer alır ve ziyaretçilere zengin bir tarihi ve kültürel deneyim sunar. İklim olarak, Marmara Bölgesi'nin karakteristik karasal iklimine sahiptir ve bn mevsimi yaşayan bir bölgedir. Bahar ve yaz ayları, ziyaretçiler için en uygun zamanlar olarak kabul edilir.
+İbrahim Paşa Türbesi, Marmara Bölgesi'nin kalbinde, İstanbul'un tarihi merkezi Fatih'te yer alıyor. Bu bölge, coğrafi olarak Boğaz'ın güneyinde ve Haliç'in batısında konumlanmış bulunuyor. Bu geniş alan, hem tarihi hem de doğal güzelliklerin bir araya geldiği özel bir nokta olarak dikkat çekiyor. İbrahim Paşa Türbesi'nin etrafı, tarihi binalar, camiler ve diğer kültürel yapılarla çevrilidir. Bu bölge, İstanbul'un en eski ve en tarihi ilçelerinden biri olan Fatih'in kalbinde yer alır ve ziyaretçilere zengin bir tarihi ve kültürel deneyim sunar. İklim olarak, Marmara Bölgesi'nin karakteristik karasal iklimine sahiptir ve bn mevsimi yaşayan bir bölgedir. Bahar ve yaz ayları, ziyaretçiler için en uygun zamanlar olarak kabul edilir.
 
 ## Flora ve Fauna
 

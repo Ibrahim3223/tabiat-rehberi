@@ -32,11 +32,11 @@ Samsun'un yeşille mavinin buluştuğu noktalarından biri olan Altınkaya Baraj
 
 ## Tarihçe
 
-Samsun bölgesi, tarih boyunca çeşitli uygarlıklara ev sahipliği yapmış zengin bir coğrafyadır. Altınkaya Baraj Gölü'nün bulunduğu bölge, Karadeniz Bölgesi'nin en önemli yerleşim merkezlerinden biri olan Samsun'un kalbinde yer alır. Bölge, antik dönemde Pontus Krallığı'nın bir parçası iken, daha sonra Roma ve Bizans İmparatorluğu'nun egemenliğine geçmiştir. 
+Samsun bölgesi, tarih boyunca çeşitli uygarlıklara ev sahipliği yapmış zengin bir coğrafyadır. Altınkaya Baraj Gölü'nün bulunduğu bölge, Karadeniz Bölgesi'nin en önemli yerleşim merkezlerinden biri olan Samsun'un kalbinde yer alır. Bölge, antik dönemde Pontus Krallığı'nın bir parçası iken, daha sonra Roma ve Bizans İmparatorluğu'nun egemenliğine geçmiştir.
 
-Bu bölgedeki doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçasıdır. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal alanlarla ilişkisini şekillendirmiş, bölgenin ekonomi ve sosyal yapısını etkilemiştir. Altınkaya Baraj Gölü, Samsun'un doğal güzelliklerinin bir parçası olarak, bölgenin tarihi ve kültürel değerinin korunmasına katkıda bulunmaktadır. 
+Bu bölgedeki doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçasıdır. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu doğal alanlarla ilişkisini şekillendirmiş, bölgenin ekonomi ve sosyal yapısını etkilemiştir. Altınkaya Baraj Gölü, Samsun'un doğal güzelliklerinin bir parçası olarak, bölgenin tarihi ve kültürel değerinin korunmasına katkıda bulunmaktadır.
 
-Bölgenin coğrafi konumu ve iklimi, insan yerleşimini ve ekonomik faaliyetleri etkilemiştir. Altınkaya Baraj Gölü, Samsun'un doğal ve kültürel mirasının önemli bir bileşeni olarak, ziyaretçilere bölgenin tarihini ve kültürünü keşfetme fırsatı sunmaktadır.
+Bölgenin coğrafi konumu ve iklimi, insan yerleşimini ve ekonomik faaliyetleri etkilemiştir.
 
 ## Coğrafya
 
@@ -52,7 +52,7 @@ Mevsimsel olarak bakıldığında, Altınkaya Baraj Gölü'nün iklimi ılıman 
 
 Altınkaya Baraj Gölü, Samsun'un nemli ikliminde, gür ormanların arasında yer alan bir göldür. Bu bölge, yüksek biyoçeşitliliğe sahiptir ve su kuşları, balıklar, sulak alan bitkileri gibi çeşitli canlılarla doludur.
 
-Bitki Örtüsü olarak, çevredeki ormanlar ilkbaharda çiçek açan ağaçlar ve sonbaharda renk değiştiren yapraklarla kaplıdır. Gölün kıyılarında sulak alan bitkileri bulunur, bunlar suyun seviyesine göre değişen bir yaşam alanı sunar. 
+Bitki Örtüsü olarak, çevredeki ormanlar ilkbaharda çiçek açan ağaçlar ve sonbaharda renk değiştiren yapraklarla kaplıdır. Gölün kıyılarında sulak alan bitkileri bulunur, bunlar suyun seviyesine göre değişen bir yaşam alanı sunar.
 
 Yaban Hayatı olarak, gölde çeşitli su kuşları yuva yapar, balıklar ve diğer su canlıları bulunur. Memeliler ve sürüngenler de bu bölgede yaşamaktadır. Sonbaharda, göç eden kuşlar gölde konaklar ve beslenir.
 

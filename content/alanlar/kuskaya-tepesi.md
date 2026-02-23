@@ -29,7 +29,7 @@ wikidata_id: "Q31511540"
 
 # Kuşkaya Tepesi
 
-Kuşkaya Tepesi, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitki türleriyle kaplı. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Kuşkaya Tepesi, aynı zamanda régionun coğrafi yapısını anlamak için önemli bir nokta. Burada, bölgenin jeolojik geçmişini ve oluşumunu anlama mümkün. Kuşkaya Tepesi, doğa severler ve coğrafya meraklıları için bir çekim merkezi olarak kabul edilebilir.
+Kuşkaya Tepesi, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir yeşil alan olarak dikkat çekiyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Kuşkaya Tepesi, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir nokta. Burada, bölgenin jeolojik geçmişini ve oluşumunu anlama mümkün. Kuşkaya Tepesi, doğa severler ve coğrafya meraklıları için bir çekim merkezi olarak kabul edilebilir.
 
 ## Tarihçe
 

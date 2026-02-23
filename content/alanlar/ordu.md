@@ -23,7 +23,7 @@ wikidata_id: "Q108228641"
 
 # ORDU
 
-İç Anadolu Bölgesi'nde yer alan ORDU milli parkı, 140 hektarlık bir alan kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğal güzellikleriyle karşılar. İnsanlık tarihinin önemli bir bölümü, bu coğrafyada şekillenmiştir. ORDU milli parkı, hem tarihi hem de coğrafi açıdan zengin bir bölgedir. Ziyaretçiler, burada yer alan çeşitli bitki türleri ve hayvanlarılemek için gelenler, aynı zamanda tarih öncesi dönemlerden kalan kalıntıları keşfetme fırsatı bulur.
+İç Anadolu Bölgesi'nde yer alan ORDU milli parkı, 140 hektarlık bir alan kapsar. İnsanlık tarihinin önemli bir bölümü, bu coğrafyada şekillenmiştir. ORDU milli parkı, hem tarihi hem de coğrafi açıdan zengin bir bölgedir. Ziyaretçiler, burada yer alan çeşitli bitki türleri ve hayvanlarılemek için gelenler, aynı zamanda tarih öncesi dönemlerden kalan kalıntıları keşfetme fırsatı bulur.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ ORDU milli parkının tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-ORDU milli parkı, İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi açıdan zengin bir bölgedir. ORDU milli parkı, 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğal güzellikleriyle karşılar. Bölge, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahiptir. İklim, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını şekillendirmiştir. ORDU milli parkı, coğrafi açıdan zengin bir bölgedir ve ziyaretçilerini, doğal güzellikleriyle karşılar.
+ORDU milli parkı, İç Anadolu Bölgesi'nde yer alır. Bu bölge, coğrafi açıdan zengin bir bölgedir. ORDU milli parkı, 140 hektarlık bir alanı kapsar. Bölge, çeşitli bitki türleri ve hayvanlarla dolu bir ekosisteme sahiptir. İklim, İç Anadolu Bölgesi'nin karakteristik iklimine uygun olarak, karasal bir yapıya sahiptir. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Bu iklim, bölgenin flora ve faunasını şekillendirmiştir. ORDU milli parkı, coğrafi açıdan zengin bir bölgedir ve ziyaretçilerini, doğal güzellikleriyle karşılar.
 
 ## Flora ve Fauna
 

@@ -22,11 +22,11 @@ wikidata_id: "Q21211122"
 
 # Dabatsvril
 
-Doğanın gizli hazinelerinden biri olan Dabatsvril, Artvin'in dağlık bölgesinde yer almaktadır. Bu doğal alan, ilin zengin tarihi ve kültürel mirasının yanı sıra, turistlerin ziyaret etmek isteyeceği bir destinasyon olarak dikkat çekmektedir. Artvin'in eşsiz doğal güzellikleri arasında yer alan Dabatsvril, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla baş başa kalmaya davet ediyor. Dabatsvril'in sakin ve huzurlu atmosferi, ziyaretçilerine unutulmaz bir deneyim sunuyor.
+Doğanın gizli hazinelerinden biri olan Dabatsvril, Artvin'in dağlık bölgesinde yer almaktadır. Bu doğal alan, ilin zengin tarihi ve kültürel mirasının yanı sıra, turistlerin ziyaret etmek isteyeceği bir destinasyon olarak dikkat çekmektedir. Artvin'in eşsiz doğal güzellikleri arasında yer alan Dabatsvril, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla baş başa kalmaya davet ediyor.
 
 ## Tarihçe
 
-Artvin'in dağlık bölgesinde yer alan Dabatsvril Golü, tarihin sâu izlerini taşıyan bir coğrafyanın parçası. Artvin ve çevresinin tarihi, binlerce yıl öncesine uzanan bir geçmişe sahip. Tunç Çağı'ndan itibaren çeşitli uygarlıkların etkisi altında kalan bu bölge, antik Çağlarda Kolhis Krallığı'nın bir parçası olmuştur. Daha sonra Roma ve Bizans dönemlerini yaşayan Artvin, 11. yüzyılda Türklerin hakimiyetine girmiştir.
+Artvin'in dağlık bölgesinde yer alan Dabatsvril Golü, tarihin derin izlerini taşıyan bir coğrafyanın parçası. Artvin ve çevresinin tarihi, binlerce yıl öncesine uzanan bir geçmişe sahip. Tunç Çağı'ndan itibaren çeşitli uygarlıkların etkisi altında kalan bu bölge, antik Çağlarda Kolhis Krallığı'nın bir parçası olmuştur. Daha sonra Roma ve Bizans dönemlerini yaşayan Artvin, 11. yüzyılda Türklerin hakimiyetine girmiştir.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel zenginliğinin önemli bir parçasını oluşturur. Yayla ve dağlık bölgeler, yüzyıllar boyunca insanların yaşamlarına yön vermiş, yaylacılık ve hayvancılık faaliyetleri bu bölgelerin ekonomisine büyük katkılar sağlamışlardır. Ayrıca, tarihi ticaret yollarının bir kısmının da bu coğrafyadan geçmesi, bölgenin stratejik önemini artırmıştır. Dabatsvril Golü ve çevresinin, bu geniş tarihsel bağlam içinde, insanların yaşamlarına ve kültürlerine nasıl katkıda bulunduğu, bölgenin derin tarihini anlamak için önemli bir noktadır.
 
@@ -42,11 +42,11 @@ Doğal güzelliği ile dikkat çeken Dabatsvril Gol, yaklaşık olarak birkaç o
 
 ## Flora ve Fauna
 
-Dabatsvril, nemli iklimin ve gür ormanların hakim olduğu bir bölgede, 1200 hektarlık bir yeşil cennet olarak karşımıza çıkıyor. Bu 1200 hektarlık alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Dabatsvril, nemli iklimin ve gür ormanların hakim olduğu bir bölgede, 1200 hektarlık bir yeşil cennet olarak karşımıza çıkıyor. Bu 1200 hektarlık alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 1. **Bitki Örtüsü**: Ilkbaharla birlikte, gölün etrafındaki sulak alan bitkileri çiçek açmaya başlar. Bu dönemde, renk cümbüşü içinde bir manzara ortaya çıkar. Sonbaharda ise, yaprakların sararmasıyla birlikte, gölün etrafı bir altın örtüye bürünür.
 
-2. **Yaban Hayatı**: Göl, su kuşları ve balıklar için bir cennet niteliğindedir. Su kuşları, gölün sakin sularında yuvalarını kurarken, balıklar ise gölün derinliklerinde yaşamaktadır. 
+2. **Yaban Hayatı**: Göl, su kuşları ve balıklar için bir cennet niteliğindedir. Su kuşları, gölün sakin sularında yuvalarını kurarken, balıklar ise gölün derinliklerinde yaşamaktadır.
 
 3. **Ekolojik Değer**: Dabatsvril, yüksek biyoçeşitliliğin bir sonucu olarak, birçok canlıya ev sahipliği yapar. Bu ekosistem, su kuşları ve balıkların yaşam döngülerini destekler ve bölgenin ekolojik dengesini korur.
 

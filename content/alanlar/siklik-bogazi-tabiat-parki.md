@@ -29,7 +29,7 @@ wikidata_id: "Q108228143"
 
 # Sıklık Boğazı Tabiat Parkı
 
-Sıklık Boğazı Tabiat Parkı, Karadeniz Bölgesi'nin güzel illerinden biri olan Çorum'da yer alıyor. Park, yaklaşık 140 hektarlık alanı ile dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Sıklık Boğazı Tabiat Parkı, ziyaretçilerini doğal güzellikleri ile karşılamak için hazır. Parka gelen ziyaretçiler, burada yer alan çeşitli bitki türleri ve zengin faunayı keşfetme fırsatı buluyorlar. Sıklık Boğazı Tabiat Parkı, doğa severler ve çevreciler için gerçek bir cennet olarak tanımlanıyor.
+Sıklık Boğazı Tabiat Parkı, Karadeniz Bölgesi'nin güzel illerinden biri olan Çorum'da yer alıyor. Park, yaklaşık 140 hektarlık alanı ile dikkat çekiyor. Sıklık Boğazı Tabiat Parkı, ziyaretçilerini doğal güzellikleri ile karşılamak için hazır. Parka gelen ziyaretçiler, burada yer alan çeşitli bitki türleri ve zengin faunayı keşfetme fırsatı buluyorlar. Sıklık Boğazı Tabiat Parkı, doğa severler ve çevreciler için gerçek bir cennet olarak tanımlanıyor.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Mersin'in doğal güzelliklerini keşfetmek isteyenler için Şamlar Dağı, ön
 
 ## Tarihçe
 
-Mersin bölgesi, tarihin sâu sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hititlerin, Fenikelilerin ve Romalıların izlerini taşıyan bu topraklar, ticaret ve kültür merkezi olarak görev görmüştür. Şamlar Dağı da, bu tarihsel sürecin bir parçası olarak karşımıza çıkar.
+Mersin bölgesi, tarihin derin sayfalarında önemli bir yer tutar. Binlerce yıl önce, Hititlerin, Fenikelilerin ve Romalıların izlerini taşıyan bu topraklar, ticaret ve kültür merkezi olarak görev görmüştür. Şamlar Dağı da, bu tarihsel sürecin bir parçası olarak karşımıza çıkar.
 
 Doğal güzellikleri ve stratejik konumuyla, Şamlar Dağı ve çevresindeki alanlar, insanların yaşamına ev sahipliği yapmış olmalı. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgenin ekonomi ve sosyal yaşamının önemli bileşenleri arasında yer almıştır. Türkiye'nin doğa harikaları, tarihin her döneminde insanların yerleşim yerlerine, ticaret yollarına ve yaşam alanlarına temel olmuştur. Bu açıdan, Şamlar Dağı da, Mersin bölgesinin zengin tarihsel mirasının bir parçası olarak görülebilir.
 
@@ -67,4 +67,4 @@ Yaban hayatı açısından zengin olan Şamlar Dağı, çeşitli memeli, kuş ve
 - Şamlar Dağı, Toros Dağları'nın bir parçasıdır.
 - Dağ, flora ve fauna açısından zengin bir alandır.
 - Şamlar Dağı, trekking ve doğa yürüyüşü için elverişli bir bölgedir.
-- Dağın eteklerinde, histórik yerleşim yerleri ve antik kalıntılar bulunur.
+- Dağın eteklerinde, tarihi yerleşim yerleri ve antik kalıntılar bulunur.

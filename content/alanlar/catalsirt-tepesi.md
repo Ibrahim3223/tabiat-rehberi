@@ -28,11 +28,11 @@ wikidata_id: "Q34824288"
 
 # Çatalsırt Tepesi
 
-Çatalsırt Tepesi, Ankara'nın merkezinde yer alan ve şehrin tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak olarak hizmet ediyor. Tepenin eteklerinde yer alan tarihi yapılar ve çevreyle bütünleşen modern mimari, bu bölgenin neden Ankara'nın en önemli turistik noktalarından biri olduğunu gösteriyor. Çatalsırt Tepesi, hem doğal güzellikleri hem de tarihi değerleri ile ziyaretçilerine zengin bir deneyim sunuyor.
+Çatalsırt Tepesi, Ankara'nın merkezinde yer alan ve şehrin tarihi ile doğal güzelliklerinin birleştiği bir nokta olarak dikkat çekiyor. Tepenin eteklerinde yer alan tarihi yapılar ve çevreyle bütünleşen modern mimari, bu bölgenin neden Ankara'nın en önemli turistik noktalarından biri olduğunu gösteriyor. Çatalsırt Tepesi, hem doğal güzellikleri hem de tarihi değerleri ile ziyaretçilerine zengin bir deneyim sunuyor.
 
 ## Tarihçe
 
-Çatalsırt Tepesi, tarihin sâu derinliklerinden gelen bir geçmişe sahip. Tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu bölgede yer alan tarihi yapılar, Ankara'nın zengin kültürel mirasını yansıtıyor. Tepenin eteklerinde bulunan tarihi kalıntılar, geçmişin izlerini taşıyor ve ziyaretçilere bir zaman yolculuğu sunuyor. Çatalsırt Tepesi, Ankara'nın tarihini ve kültürünü anlamak için önemli bir merkez olarak kabul ediliyor. Tepenin tarihi değerleri, sadece Ankara'nın değil, tüm Türkiye'nin kültürel mirasına katkıda bulunuyor.
+Çatalsırt Tepesi, tarihin derin derinliklerinden gelen bir geçmişe sahip. Tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Bu bölgede yer alan tarihi yapılar, Ankara'nın zengin kültürel mirasını yansıtıyor. Tepenin eteklerinde bulunan tarihi kalıntılar, geçmişin izlerini taşıyor ve ziyaretçilere bir zaman yolculuğu sunuyor. Çatalsırt Tepesi, Ankara'nın tarihini ve kültürünü anlamak için önemli bir merkez olarak kabul ediliyor. Tepenin tarihi değerleri, sadece Ankara'nın değil, tüm Türkiye'nin kültürel mirasına katkıda bulunuyor.
 
 ## Coğrafya
 

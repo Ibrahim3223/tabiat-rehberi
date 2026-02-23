@@ -48,7 +48,7 @@ Darlık Baraj Gölü, İstanbul'un doğal güzelliklerinden biri olarak, geçiş
 
 Bitki Örtüsü olarak, ilkbahar aylarında göl çevresinde çiçeklerin açtığı görülür. Mevsimsel değişimlerle birlikte, sonbaharda gölün etrafındaki yaprakların dökülmesi ve gölün su seviyesinin değişmesiyle birlikte farklı türlerde su bitkileri ortaya çıkar.
 
-Yaban Hayatı açısından, su kuşları ve balıklar gölün ekosistemini oluşturan önemli canlılardır. Göçmen kuş rotası üzerinde olan bu alan, özellikle sonbahar ve ilkbahar aylarında birçok kuş türünün uğrak noktasıdır. 
+Yaban Hayatı açısından, su kuşları ve balıklar gölün ekosistemini oluşturan önemli canlılardır. Göçmen kuş rotası üzerinde olan bu alan, özellikle sonbahar ve ilkbahar aylarında birçok kuş türünün uğrak noktasıdır.
 
 Ekolojik Değer olarak, Darlık Baraj Gölü'nün koruma durumu büyük önem taşır. Bu alanın korunması, hem su kuşları hem de diğer canlıların yaşam alanlarını güvence altına alır. Bu nedenle, gölün doğal dengesinin korunmasına özen gösterilmelidir.
 

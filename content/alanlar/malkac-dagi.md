@@ -51,7 +51,7 @@ Malkaç Dağı'nın iklim karakteri, Ege Bölgesi'nin genel iklim özellikleri i
 
 ## Flora ve Fauna
 
-Malkaç Dağı, bozkır ve step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır ve bu manzara, sonbahara kadar devam eder. 
+Malkaç Dağı, bozkır ve step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak, benzersiz bir flora ve fauna çeşitliliğine ev sahipliği yapar. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır ve bu manzara, sonbahara kadar devam eder.
 
 Dağın yükseklik zonlarına çıkıldıkça, alpin flora hakim olmaya başlar. Bu bölgede, kuraklığa adapte olmuş bitkiler ve çalılar bulunur. Mevsimsel değişimlerle birlikte, dağda yaşayan hayvanlar da değişir. Kış aylarında, bazı kuş türleri göç ederken, ilkbaharla birlikte dağda yeni yaşam belirtileri görülür.
 

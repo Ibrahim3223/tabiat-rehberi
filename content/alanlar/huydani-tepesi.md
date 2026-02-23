@@ -28,7 +28,7 @@ wikidata_id: "Q31550965"
 
 # Huydani Tepesi
 
-Huydani Tepesi, Güneydoğu Anadolu Bölgesi'nin güzide illerinden Mardin'de yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ve 200 futbol sahası büyüklüğünde bir alan olarak düşünülebilir. Huydani Tepesi, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir konumda bulunuyor. Ziyaretçilerin ilgisini çeken bu tepe, hem doğa severlerin hem de tarih meraklılarının ziyaret edebileceği bir yer.
+Huydani Tepesi, Güneydoğu Anadolu Bölgesi'nin güzide illerinden Mardin'de yer alan bir tepe. Huydani Tepesi, Mardin'in tarihi ve doğal güzellikleri arasında önemli bir konumda bulunuyor. Ziyaretçilerin ilgisini çeken bu tepe, hem doğa severlerin hem de tarih meraklılarının ziyaret edebileceği bir yer.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108227059"
 
 # Domaniç-Kaşalıç
 
-Domaniç-Kaşalıç milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal güzelliği keşfederken, bölgenin zengin florası ve faunası ile karşılaşacaksınız. 140 hektarlık bu alan, ziyaretçilerine doğanın tüm güzelliklerini sunuyor. Konum itibariyle, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alıyor, böylece kolayca ulaşım sağlanabiliyor.
+ Bu doğal güzelliği keşfederken, bölgenin zengin florası ve faunası ile karşılaşacaksınız. 140 hektarlık bu alan, ziyaretçilerine doğanın tüm güzelliklerini sunuyor. Konum itibariyle, İç Anadolu Bölgesi'nin merkezi bir noktasında yer alıyor, böylece kolayca ulaşım sağlanabiliyor.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Domaniç-Kaşalıç milli parkının tarihi geçmişi, yüzyıllar boyunca şeki
 
 ## Coğrafya
 
-Domaniç-Kaşalıç milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğal alandır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin coğrafi çeşitliliğini sergiler. Parkın coğrafi konumu, ziyaretçilere farklı iklim koşulları sunar. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu milli parkta da görülür. Bölgenin iklimi, karasal iklim özellikleri gösterir ve ziyaretçilere dört mevsimi deneyimleme fırsatı sunar. Çevre, doğal güzellikler ve zengin fauna ile dolu bu milli park, ziyaretçilerine benzersiz bir deneyim sunar.
+Domaniç-Kaşalıç milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısını yansıtan bir doğal alandır. Parkın coğrafi konumu, ziyaretçilere farklı iklim koşulları sunar. İç Anadolu Bölgesi'nin karakteristik coğrafi özellikleri, bu milli parkta da görülür. Bölgenin iklimi, karasal iklim özellikleri gösterir ve ziyaretçilere dört mevsimi deneyimleme fırsatı sunar. Çevre, doğal güzellikler ve zengin fauna ile dolu bu milli park, ziyaretçilerine benzersiz bir deneyim sunar.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Ümmi Kemal Türbesi"
 date: "2026-01-10T06:06:51.399Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bolu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390708"
 
 # Ümmi Kemal Türbesi
 
-Ümmi Kemal Türbesi, Bolu ilinin merkezinde yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir mekandır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini kendine hayran bırakıyor. Bu özel mekan, hem Bolu'nun hem de Karadeniz Bölgesi'nin önemli kültürel miraslarından biri olarak kabul ediliyor. Ümmi Kemal Türbesi, sadece tarihi değerleri ile değil, aynı zamanda a güzellikleri ile de dikkat çekiyor. Ziyaretçiler, bu mekanın huzur veren atmosferini keşfetmek için buraya geliyor.
+Ümmi Kemal Türbesi, Bolu ilinin merkezinde yer alan ve tarihi ile doğal güzelliklerini bir araya getiren özel bir mekandır. Bu özel mekan, hem Bolu'nun hem de Karadeniz Bölgesi'nin önemli kültürel miraslarından biri olarak kabul ediliyor. Ümmi Kemal Türbesi, sadece tarihi değerleri ile değil, aynı zamanda a güzellikleri ile de dikkat çekiyor. Ziyaretçiler, bu mekanın huzur veren atmosferini keşfetmek için buraya geliyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ wikidata_id: "Q131390708"
 
 ## Coğrafya
 
-Ümmi Kemal Türbesi, Bolu ilinin merkezinde yer alan ve Karadeniz Bölgesi'nin önemli coğrafi noktalarından birini oluşturuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini kendine hayran bırakıyor. Bu özel mekan, hem Bolu'nun hem de Karadeniz Bölgesi'nin önemli coğrafi noktalarından biri olarak kabul ediliyor. Ümmi Kemal Türbesi, doğal güzellikleri ile dikkat çekiyor. Bu mekanın etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Ümmi Kemal Türbesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bu bölgenin iklimi, genellikle ılıman ve yağışlı olarak tanımlanıyor. Ümmi Kemal Türbesi'nin coğrafi konumu, ziyaretçilerine özel bir deneyim sunuyor.
+Ümmi Kemal Türbesi, Bolu ilinin merkezinde yer alan ve Karadeniz Bölgesi'nin önemli coğrafi noktalarından birini oluşturuyor. Bu özel mekan, hem Bolu'nun hem de Karadeniz Bölgesi'nin önemli coğrafi noktalarından biri olarak kabul ediliyor. Ümmi Kemal Türbesi, doğal güzellikleri ile dikkat çekiyor. Bu mekanın etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Ümmi Kemal Türbesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşıyor. Bu bölgenin iklimi, genellikle ılıman ve yağışlı olarak tanımlanıyor. Ümmi Kemal Türbesi'nin coğrafi konumu, ziyaretçilerine özel bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

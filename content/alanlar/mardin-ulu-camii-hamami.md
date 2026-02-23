@@ -1,7 +1,7 @@
 ---
 title: "Mardin Ulu Camii Hamamı"
 date: "2026-01-09T22:38:13.137Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738758"
 
 # Mardin Ulu Camii Hamamı
 
-Mardin Ulu Camii Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli tarihi merkezlerinden biri olan Artuklu'da yer alıyor. Bu tarihi hamam, yaklaşık 140 hektarlık alanın içerisinde, Mardin'in merkezi bölgesinde bulunmakta. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir gezi alanı sunuyor. Mardin Ulu Camii Hamamı, Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Mardin Ulu Camii Hamamı, Güneydoğu Anadolu Bölgesi'nin önemli tarihi merkezlerinden biri olan Artuklu'da yer alıyor. Bu tarihi hamam, yaklaşık 140 hektarlık alanın içerisinde, Mardin'in merkezi bölgesinde bulunmakta. Mardin Ulu Camii Hamamı, Mardin'in tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 

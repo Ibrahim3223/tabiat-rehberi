@@ -1,7 +1,7 @@
 ---
 title: "Isparta-Golhisar-Golova Karacam"
 date: "2026-01-09T18:38:20.219Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Isparta"
@@ -22,7 +22,7 @@ wikidata_id: "Q108227943"
 
 # Isparta-Golhisar-Golova Karacam
 
-Isparta-Golhisar-Golova Karacam milli parkı, Isparta ilinin Golhisar ilçesinde yer alan 140 hektarlık bir yeşil alanı kapsamaktadır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir doğa deneyimi sunmaktadır. Milli park, zengin fauna çeşitliliği ve güzel manzaraları ile dikkat çekmektedir. Isparta'nın önemli turizm noktalarından biri olan milli park, yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir. Milli parkın konumu, ziyaretçilerin doğa ile iç içe olmasını sağlar ve burada geçirilen zaman, unutulmaz bir deneyim olarak hatırlanır.
+Isparta-Golhisar-Golova Karacam milli parkı, Isparta ilinin Golhisar ilçesinde yer alan 140 hektarlık bir yeşil alanı kapsamaktadır. Milli park, zengin fauna çeşitliliği ve güzel manzaraları ile dikkat çekmektedir. Isparta'nın önemli turizm noktalarından biri olan milli park, yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir. Milli parkın konumu, ziyaretçilerin doğa ile iç içe olmasını sağlar ve burada geçirilen zaman, unutulmaz bir deneyim olarak hatırlanır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Isparta-Golhisar-Golova Karacam milli parkının tarihi geçmişi, yüzyıllar b
 
 ## Coğrafya
 
-Isparta-Golhisar-Golova Karacam milli parkı, Isparta ilinin Golhisar ilçesinde yer almaktadır. Milli park, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunar. Bölge, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Milli parkın konumu, ziyaretçilerin doğa ile iç içe olmasını sağlar ve burada geçirilen zaman, unutulmaz bir deneyim olarak hatırlanır. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösterir ve ziyaretçilere uygun koşullar sağlar. Milli parkın çevresi, zengin fauna çeşitliliği ve güzel manzaralar ile dikkat çekmektedir. Milli parkın coğrafi konumu, Isparta ilinin turizm potansiyelini artırmak amacıyla yapılan çalışmaların sonucudur. Isparta-Golhisar-Golova Karacam milli parkı, ziyaretçilere geniş bir doğa deneyimi sunar ve yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir.
+Isparta-Golhisar-Golova Karacam milli parkı, Isparta ilinin Golhisar ilçesinde yer almaktadır. Bölge, Akdeniz Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Milli parkın konumu, ziyaretçilerin doğa ile iç içe olmasını sağlar ve burada geçirilen zaman, unutulmaz bir deneyim olarak hatırlanır. Milli parkın iklimi, Akdeniz ikliminin özellikleri gösterir ve ziyaretçilere uygun koşullar sağlar. Milli parkın çevresi, zengin fauna çeşitliliği ve güzel manzaralar ile dikkat çekmektedir. Milli parkın coğrafi konumu, Isparta ilinin turizm potansiyelini artırmak amacıyla yapılan çalışmaların sonucudur. Isparta-Golhisar-Golova Karacam milli parkı, ziyaretçilere geniş bir doğa deneyimi sunar ve yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Isparta-Golhisar-Golova Karacam milli parkını ziyaret etmek, yıl boyunca bir�
 
 ## İlginç Bilgiler
 
-- Milli parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunar.
 - Isparta-Golhisar-Golova Karacam milli parkı, zengin fauna çeşitliliği ile dikkat çekmektedir.
 - Milli parkın flora çeşitliliği, mevsimsel değişimlere göre farklılık gösterir.
 - Milli parkın ekosistemi, doğal dengenin korunmasına yönelik çabaların sonucudur.

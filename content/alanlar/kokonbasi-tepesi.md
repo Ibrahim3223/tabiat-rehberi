@@ -28,7 +28,7 @@ wikidata_id: "Q31547919"
 
 # Kokonbaşı Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin Siirt ilinde bulunan Kokonbaşı Tepesi, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu büyüklük, ziyaretçilere geniş bir alan sunar ve doğayı keşfetme fırsatı verir. Kokonbaşı Tepesi, bölgenin coğrafi özelliklerini ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Ziyaretçiler, bu tepeyi ziyaret ederek hem bölgenin tarihini hem de güzelliklerini keşfedebilirler.
+ Bu büyüklük, ziyaretçilere geniş bir alan sunar ve doğayı keşfetme fırsatı verir. Kokonbaşı Tepesi, bölgenin coğrafi özelliklerini ve doğal güzelliklerini gözlemlemek için ideal bir noktadır. Ziyaretçiler, bu tepeyi ziyaret ederek hem bölgenin tarihini hem de güzelliklerini keşfedebilirler.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Kokonbaşı Tepesi'ni ziyaret etmek, bölgeyi keşfetme ve doğal güzellikleri 
 ## İlginç Bilgiler
 
 - Kokonbaşı Tepesi, 140 hektarlık geniş bir alanı kapsar.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Kokonbaşı Tepesi, tarihsel olarak önemli bir bölgede yer alır.
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetlerin yaşadığı bir nokta olarak kabul edilir.
 - Kokonbaşı Tepesi, bölgenin coğrafi özelliklerini yansıtan bir bölgedir.

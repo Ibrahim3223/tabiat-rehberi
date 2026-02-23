@@ -32,7 +32,7 @@ Karaman ilinin doğusunda yükselen Yelattı Dağı, bölgenin önemli coğrafi 
 
 ## Tarihçe
 
-Karaman bölgesi, tarihin sâu izlerini taşıyan bir coğrafyadır. Yelattı Dağı gibi doğal güzellikler, bu bölgenin zengin tarihini anlamak için önemli birer parçadır. Karaman, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir bölgedir. Bu bölgede yaşanan uygarlıkların her biri, kendi kültürlerini ve yaşam şekillerini bırakmışlardır.
+Karaman bölgesi, tarihin derin izlerini taşıyan bir coğrafyadır. Yelattı Dağı gibi doğal güzellikler, bu bölgenin zengin tarihini anlamak için önemli birer parçadır. Karaman, Hitit, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bir bölgedir. Bu bölgede yaşanan uygarlıkların her biri, kendi kültürlerini ve yaşam şekillerini bırakmışlardır.
 
 Doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Bu tür alanlar, insanların yaşamlarını sürdürmeleri, hayvanlarını otlatmaları ve ticaret yollarını belirlemeleri için her zaman önemli olmuştur. Yelattı Dağı ve benzeri dağlar, bölgenin coğrafi yapısını şekillendirmiş ve insanların yerleşim yerlerini, tarım alanlarını ve ticaret yollarını belirlemiştir.
 
@@ -50,7 +50,7 @@ Mevsimsel değişimler, Yelattı Dağı'nın iklim karakterini şekillendiriyor.
 
 ## Flora ve Fauna
 
-Yelattı Dağı, Karaman'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker. 
+Yelattı Dağı, Karaman'ın step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen flora ve fauna çeşitliliği dikkat çeker.
 
 İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Step bitkileri ve kuraklığa adapte olmuş türler, bu mevsimde en güzel hallerini gösterir. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçer ve bu bölgede kısa bir süre konaklar.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q32138559"
 
 # Görhorlak Tepesi
 
-Görhorlak Tepesi, Afyonkarahisar'ın gözde mekanlarından biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile ziyaretçilerini büyülüyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu özellikleriyle Görhorlak Tepesi, hem doğa severlerin hem de coğrafya meraklılarının ilgisini çekiyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor ve bu manzara, özellikle gün batımında görülmeye değer.
+Görhorlak Tepesi, Afyonkarahisar'ın gözde mekanlarından biri olarak dikkat çekiyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta. Bu özellikleriyle Görhorlak Tepesi, hem doğa severlerin hem de coğrafya meraklılarının ilgisini çekiyor. Tepenin yüksekliği ve genişliği, ziyaretçilere geniş bir manzara sunuyor ve bu manzara, özellikle gün batımında görülmeye değer.
 
 ## Tarihçe
 

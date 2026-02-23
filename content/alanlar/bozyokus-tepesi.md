@@ -28,7 +28,7 @@ wikidata_id: "Q31391108"
 
 # Bozyokuş Tepesi
 
-Bozyokuş Tepesi, Sivas ilinin İç Anadolu Bölgesi'nde yer alan önemli bir coğrafi noktadır. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğal güzelliği ve tarihi geçmişiyle dikkat çeker. Sivas'ın coğrafi yapısını şekillendiren Bozyokuş Tepesi, bölgenin önemli bir parçası olarak kabul edilir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu özellikleriyle, hem doğa severler hem de tarih meraklıları için çekici bir destinasyon olarak görünür.
+Bozyokuş Tepesi, Sivas ilinin İç Anadolu Bölgesi'nde yer alan önemli bir coğrafi noktadır. Doğal güzelliği ve tarihi geçmişiyle dikkat çeker. Sivas'ın coğrafi yapısını şekillendiren Bozyokuş Tepesi, bölgenin önemli bir parçası olarak kabul edilir. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bu özellikleriyle, hem doğa severler hem de tarih meraklıları için çekici bir destinasyon olarak görünür.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Bozyokuş Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu 
 
 ## Coğrafya
 
-Bozyokuş Tepesi, Sivas ilinin coğrafi yapısını şekillendiren önemli bir noktadır. Tepenin yüksekliği, çevresindeki ovalardan belirgin bir şekilde ayrılır. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri gösterir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Bozyokuş Tepesi, Sivas'ın coğrafi yapısını şekillendiren ve bölgenin güzelliğine katkıda bulunan önemli bir coğrafi noktadır. Tepenin manzarası, özellikle gün batımında çok güzeldir. Ayrıca, tepe ve çevresindeki köyler, geleneksel Türk mimarisinin güzel örneklerini sunar.
+Bozyokuş Tepesi, Sivas ilinin coğrafi yapısını şekillendiren önemli bir noktadır. Tepenin yüksekliği, çevresindeki ovalardan belirgin bir şekilde ayrılır. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunur. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri gösterir. Yaz ayları sıcak ve kurak, kış ayları ise soğuk ve kar yağışlı geçer. Bozyokuş Tepesi, Sivas'ın coğrafi yapısını şekillendiren ve bölgenin güzelliğine katkıda bulunan önemli bir coğrafi noktadır. Tepenin manzarası, özellikle gün batımında çok güzeldir. Ayrıca, tepe ve çevresindeki köyler, geleneksel Türk mimarisinin güzel örneklerini sunar.
 
 ## Flora ve Fauna
 

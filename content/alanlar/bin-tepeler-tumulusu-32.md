@@ -29,11 +29,11 @@ wikidata_id: "Q134728355"
 
 # Bin Tepeler Tümülüsü 32
 
-Bin Tepeler Tümülüsü 32, Manisa'nın Salihli ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir alandır. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplayan 140 hektarlık bir yeşil alan olarak düşünülebilir. Burada, doğa severlerin ve tarih meraklılarının ortak noktada buluşabileceği bir ortam sunar. Bin Tepeler Tümülüsü 32, ziyaretçilerine hem doğanın güzelliklerini hem de tarihin ini keşfetme fırsatı sunar.
+Bin Tepeler Tümülüsü 32, Manisa'nın Salihli ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir alandır. Burada, doğa severlerin ve tarih meraklılarının ortak noktada buluşabileceği bir ortam sunar. Bin Tepeler Tümülüsü 32, ziyaretçilerine hem doğanın güzelliklerini hem de tarihin ini keşfetme fırsatı sunar.
 
 ## Tarihçe
 
-Bin Tepeler Tümülüsü 32'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölgede, çeşitli uygarlıkların izleri bulunmakta ve her birini farklı bir dönemden kalma izler olarak görme mümkündür. Tarihi belgelerde, bu bölgenin önemli bir yerleşim yeri olarak bahsedildiği görülür. Bin Tepeler Tümülüsü 32, ziyaretçilerine tarihin sayfalarını açma ve geçmişin sâu noktalarına inme fırsatı sunar. Burada, tarihi yapılar ve kalıntılar, ziyaretçilere bu bölgenin zengin geçmişini anlatır.
+Bin Tepeler Tümülüsü 32'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölgede, çeşitli uygarlıkların izleri bulunmakta ve her birini farklı bir dönemden kalma izler olarak görme mümkündür. Tarihi belgelerde, bu bölgenin önemli bir yerleşim yeri olarak bahsedildiği görülür. Bin Tepeler Tümülüsü 32, ziyaretçilerine tarihin sayfalarını açma ve geçmişin derin noktalarına inme fırsatı sunar. Burada, tarihi yapılar ve kalıntılar, ziyaretçilere bu bölgenin zengin geçmişini anlatır.
 
 ## Coğrafya
 

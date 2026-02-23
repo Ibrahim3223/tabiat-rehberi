@@ -28,7 +28,7 @@ wikidata_id: "Q31551609"
 
 # Şingilti Tepesi
 
-Mardin'in eşsiz manzarasına sahip Şingilti Tepesi, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Mardin'in merkezi bölgesinde yer alan Şingilti Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle tarihsel açıdan zengin bir geçmişe sahiptir. Tepenin etrafında, Mardin'in geleneksel mimarisine uygun olarak inşa edilmiş tarihi evler ve camiler bulunur.
+ Bu tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Mardin'in merkezi bölgesinde yer alan Şingilti Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve bu nedenle tarihsel açıdan zengin bir geçmişe sahiptir. Tepenin etrafında, Mardin'in geleneksel mimarisine uygun olarak inşa edilmiş tarihi evler ve camiler bulunur.
 
 ## Tarihçe
 

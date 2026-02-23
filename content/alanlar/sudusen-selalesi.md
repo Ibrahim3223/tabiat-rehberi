@@ -29,7 +29,7 @@ wikidata_id: "Q97320238"
 
 # Sudüşen Şelalesi
 
-Marmara Bölgesi'nin en güzel şelalelerinden biri olan Sudüşen Şelalesi, Yalova ilinde yer alır ve 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin bitki örtüsüne sahiptir. Şelalenin güzelliği, çevredeki dağların ve ormanların arasında saklı kalmış gibi görünür. Ziyaretçiler, şelaleye giderken güzel manzaralar ve temiz hava keyfi yaşayabilirler. Sudüşen Şelalesi, hem doğa severlerin hem de fotoğraf tutkunlarının ilgi odağıdır.
+Marmara Bölgesi'nin en güzel şelalelerinden biri olan Sudüşen Şelalesi, Yalova ilinde yer alır ve 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar. Şelalenin güzelliği, çevredeki dağların ve ormanların arasında saklı kalmış gibi görünür. Ziyaretçiler, şelaleye giderken güzel manzaralar ve temiz hava keyfi yaşayabilirler. Sudüşen Şelalesi, hem doğa severlerin hem de fotoğraf tutkunlarının ilgi odağıdır.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sudüşen Şelalesi'nin tarihi geçmişi hakkındalı bilgi bulunmamaktadır, an
 
 ## Coğrafya
 
-Sudüşen Şelalesi, Yalova ilinin güneybatısında, Marmara Bölgesi'nin en yeşil alanlarından birinde yer alır. Şelale, 140 hektarlık bir yeşil alan içerisinde, çevredeki dağların ve ormanların arasında saklı kalmış gibi görünür. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin bitki örtüsüne sahiptir. Şelalenin yüksekliği, yaklaşık 10 metre civarındadır ve şelalenin suyu, çevredeki dağlardan gelen derenin devamıdır. Şelalenin çevresi, çeşitli bitki türleri ve ağaçlarla kaplıdır ve bu bölge, birçok hayvan türünün yaşadığı bir ekosistemi oluşturur. Şelale, çevredeki dağların ve ormanların arasında yer aldığı için, ziyaretçiler, şelaleye giderken güzel manzaralar ve temiz hava keyfi yaşayabilirler. Sudüşen Şelalesi, Marmara Bölgesi'nin en güzel şelalelerinden biri olarak bilinir ve ziyaretçilerini, güzelliği ve zenginliğiyle karşılar.
+Sudüşen Şelalesi, Yalova ilinin güneybatısında, Marmara Bölgesi'nin en yeşil alanlarından birinde yer alır. Şelale, 140 hektarlık bir yeşil alan içerisinde, çevredeki dağların ve ormanların arasında saklı kalmış gibi görünür. Şelalenin yüksekliği, yaklaşık 10 metre civarındadır ve şelalenin suyu, çevredeki dağlardan gelen derenin devamıdır. Şelalenin çevresi, çeşitli bitki türleri ve ağaçlarla kaplıdır ve bu bölge, birçok hayvan türünün yaşadığı bir ekosistemi oluşturur. Şelale, çevredeki dağların ve ormanların arasında yer aldığı için, ziyaretçiler, şelaleye giderken güzel manzaralar ve temiz hava keyfi yaşayabilirler. Sudüşen Şelalesi, Marmara Bölgesi'nin en güzel şelalelerinden biri olarak bilinir ve ziyaretçilerini, güzelliği ve zenginliğiyle karşılar.
 
 ## Flora ve Fauna
 

@@ -1,7 +1,7 @@
 ---
 title: "Hoca Hasan Hamamı"
 date: "2026-01-09T22:14:49.171Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Elazığ"
@@ -30,7 +30,7 @@ wikidata_id: "Q125418000"
 
 # Hoca Hasan Hamamı
 
-Hoca Hasan Hamamı, Elazığ şehrinin merkezinde yer alan bir tarihi ve doğal güzellik noktasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası sunuyor. Bu alan, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekici bir yer. Hoca Hasan Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve onlara doğayla iç içe bir deneyim sunmaya hazırlanıyor.
+Hoca Hasan Hamamı, Elazığ şehrinin merkezinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu alan, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekici bir yer. Hoca Hasan Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştırmaya ve onlara doğayla iç içe bir deneyim sunmaya hazırlanıyor.
 
 ## Tarihçe
 

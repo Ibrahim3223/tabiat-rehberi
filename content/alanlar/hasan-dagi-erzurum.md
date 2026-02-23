@@ -33,7 +33,7 @@ Erzurum'un tarihi ve kültürel zenginliklerinin yanı sıra, doğal güzellikle
 
 ## Tarihçe
 
-Erzurum bölgesi, tarihin sâu sayfalarında önemli bir yere sahiptir. Binlerce yıl önce, bu bölgeyi various uygarlıklar mesken tutmuş, her biri kendi kültürünü ve izini bırakmıştır. Doğu Anadolu Bölgesi'nin kalbinde yer alan Erzurum, tarihi İpek Yolu'nun önemli bir durağı olarak dikkat çekmiştir. Bu yol, Asya ile Avrupa arasındaki ticaretin can damarı olmuş ve bölgenin stratejik önemini artırmıştır.
+Erzurum bölgesi, tarihin derin sayfalarında önemli bir yere sahiptir. Binlerce yıl önce, bu bölgeyi various uygarlıklar mesken tutmuş, her biri kendi kültürünü ve izini bırakmıştır. Doğu Anadolu Bölgesi'nin kalbinde yer alan Erzurum, tarihi İpek Yolu'nun önemli bir durağı olarak dikkat çekmiştir. Bu yol, Asya ile Avrupa arasındaki ticaretin can damarı olmuş ve bölgenin stratejik önemini artırmıştır.
 
 Doğal güzellikleri ile dikkat çeken Hasan Dağı da, bu tarihsel zenginliğin bir parçasını oluşturur. Türkiye'de benzer doğal alanlar, binlerce yıllık bir geçmişe sahip olup, insan yaşamının önemli bir bileşenini temsil eder. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomisine ve kültürüne katkıda bulunmuştur. Erzurum'un coğrafi konumu, insanların bu bölgeyi önemli bir geçiş noktası olarak kullanmasına neden olmuştur. Bu nedenle, Hasan Dağı ve benzeri doğal alanlar, sadece doğal güzellikleri ile değil, aynı zamanda tarihsel ve kültürel önemleri ile de dikkat çeker.
 

@@ -28,7 +28,7 @@ wikidata_id: "Q130366621"
 
 # Şimadoz Şelalesi
 
-Şimadoz Şelalesi, Rize ilinin Karadeniz Bölgesi'ndeki doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak karşımıza çıkıyor. Bu bölgede yer alan Şimadoz Şelalesi, yüksekten dökülen suyun oluşturduğu muhteşem manzarasıyla ziyaretçilerini büyülüyor. Şelalenin etrafında yer alan ormanlık alanlar ve çayır çimenlik bölgeler, ziyaretçilere doğayla iç içe bir ortam sunuyor.
+Şimadoz Şelalesi, Rize ilinin Karadeniz Bölgesi'ndeki doğal güzelliklerinden biridir. Bu bölgede yer alan Şimadoz Şelalesi, yüksekten dökülen suyun oluşturduğu muhteşem manzarasıyla ziyaretçilerini büyülüyor. Şelalenin etrafında yer alan ormanlık alanlar ve çayır çimenlik bölgeler, ziyaretçilere doğayla iç içe bir ortam sunuyor.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228602"
 
 # SULTANGAZİ MİMAR SİNAN
 
-Sultangazi Mimar Sinan Milli Parkı, İç Anadolu Bölgesi'nin en önemli doğal ve tarihi alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte ziyaretçilerine çeşitli olanaklar sunuyor. Parkın içinde yer alan tarihi eserler, doğal güzellikler ve zengin flora, ziyaretçileri bu güzel bölgeye çekiyor. Burada, tarihi geçmişi ve doğal güzellikleri bir arada görebileceğiniz ender yerlerden biri olarak Sultangazi Mimar Sinan Milli Parkı, gezi severlerin ilgisini çekmeyi başarıyor.
+Sultangazi Mimar Sinan Milli Parkı, İç Anadolu Bölgesi'nin en önemli doğal ve tarihi alanlarından biri olarak karşımıza çıkıyor. Parkın içinde yer alan tarihi eserler, doğal güzellikler ve zengin flora, ziyaretçileri bu güzel bölgeye çekiyor. Burada, tarihi geçmişi ve doğal güzellikleri bir arada görebileceğiniz ender yerlerden biri olarak Sultangazi Mimar Sinan Milli Parkı, gezi severlerin ilgisini çekmeyi başarıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sultangazi Mimar Sinan Milli Parkı'nın tarihi geçmişi, yüzyıllar öncesine
 
 ## Coğrafya
 
-Sultangazi Mimar Sinan Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile örtüşen bir yapıya sahip. 140 hektarlık alanı, ziyaretçilere geniş bir açık alan sunuyor. Parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla zenginleştirilmiş. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Çevre, doğal güzellikleri ve tarihi eserleri ile dikkat çekiyor. Parkın coğrafi konumu, ziyaretçilere doğa ile iç içe bir gezi deneyimi sunuyor. Burada, doğal güzelliklerin yanı sıra, tarihi eserleri de görme mümkün. Parkın toplam alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte ziyaretçilerine çeşitli olanaklar sunuyor.
+Sultangazi Mimar Sinan Milli Parkı, İç Anadolu Bölgesi'nin coğrafi özellikleri ile örtüşen bir yapıya sahip. 140 hektarlık alanı, ziyaretçilere geniş bir açık alan sunuyor. Parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla zenginleştirilmiş. İklim, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. Çevre, doğal güzellikleri ve tarihi eserleri ile dikkat çekiyor. Parkın coğrafi konumu, ziyaretçilere doğa ile iç içe bir gezi deneyimi sunuyor. Burada, doğal güzelliklerin yanı sıra, tarihi eserleri de görme mümkün.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Sultangazi Mimar Sinan Milli Parkı, ziyaretçilere çeşitli olanaklar sunuyor.
 
 ## İlginç Bilgiler
 
-- Parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkta, çeşitli bitki türleri ve hayvanlar mevcut.
 - Parkın tarihi geçmişi, yüzyıllar öncesine dayanıyor.
 - Park, İç Anadolu Bölgesi'nin en önemli doğal ve tarihi alanlarından biri.

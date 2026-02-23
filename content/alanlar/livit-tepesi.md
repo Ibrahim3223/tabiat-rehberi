@@ -28,7 +28,7 @@ wikidata_id: "Q31388086"
 
 # Livit Tepesi
 
-Bitlis'in güzide noktalarından biri olan Livit Tepesi, doğa severlerin ve tarih meraklılarının ziyaret ettiği önemli bir destinasyon. Doğu Anadolu Bölgesi'nin coğrafi güzelliklerini ve tarihi zenginliklerini bir arada sunan Livit Tepesi, 140 hektarlık alanı yaklaşık 200 futbol sahası büyüklüğünde. Bu alanda çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Livit Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunarak unutulmaz bir deneyim sunuyor.
+Bitlis'in güzide noktalarından biri olan Livit Tepesi, doğa severlerin ve tarih meraklılarının ziyaret ettiği önemli bir destinasyon. Bu alanda çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Livit Tepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi değerleri sunarak unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

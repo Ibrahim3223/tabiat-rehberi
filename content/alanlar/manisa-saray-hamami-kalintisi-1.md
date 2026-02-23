@@ -1,7 +1,7 @@
 ---
 title: "Manisa Saray Hamamı Kalıntısı (1)"
 date: "2026-01-09T22:37:03.218Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -21,7 +21,7 @@ aktiviteler: ["tarihî eserleri ziyaret","doğa yürüyüşü","fotografcılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Manisa Saray Hamamı Kalıntısı (1)","caption":"Manisa Saray Hamamı Kalıntısı (1)","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manisa%20Saray%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1%20(1)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738744","tip":"genel"}]
-description: "Manisa'da histórik bir eser: Saray Hamamı Kalıntısı"
+description: "Manisa'da tarihi bir eser: Saray Hamamı Kalıntısı"
 keywords: ["Manisa","Saray Hamamı","tarih","kalıntı","Ege Bölgesi","Şehzadeler","eser"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131738744"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738744"
 
 # Manisa Saray Hamamı Kalıntısı (1)
 
-Manisa Saray Hamamı Kalıntısı, Ege Bölgesi'nin önemli tarihî eserlerinden biridir. Şehzadeler ilçesinde bulunan bu kalıntı, geçmişin izlerini günümüze taşır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Bu büyüklük, eserlerin ne kadar önemli ve geniş bir alana yayıldığını gösterir. Saray Hamamı Kalıntısı, Manisa'nın tarihî zenginliğini gözler önüne serer. Bu kalıntıların her bir parçası, geçmişte yaşamışin hikayelerini anlatır.
+Manisa Saray Hamamı Kalıntısı, Ege Bölgesi'nin önemli tarihî eserlerinden biridir. Şehzadeler ilçesinde bulunan bu kalıntı, geçmişin izlerini günümüze taşır. Bu büyüklük, eserlerin ne kadar önemli ve geniş bir alana yayıldığını gösterir. Saray Hamamı Kalıntısı, Manisa'nın tarihî zenginliğini gözler önüne serer. Bu kalıntıların her bir parçası, geçmişte yaşamışin hikayelerini anlatır.
 
 ## Tarihçe
 

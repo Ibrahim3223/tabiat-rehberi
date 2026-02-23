@@ -1,7 +1,7 @@
 ---
 title: "Tacettin Sultan Türbesi"
 date: "2026-01-10T05:23:53.765Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391694"
 
 # Tacettin Sultan Türbesi
 
-Tacettin Sultan Türbesi, Ankara'nın Altındağ ilçesinde bulunan bir tarihi ve kültürel mekândır. Bu türbe, yaklaşık 140 hektarlık bir alanda yer alan tarihi bir yapıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tarihi geçmişiyle dikkat çeken bu türbe, Ankara'nın önemli turistik noktalarından biridir. Tacettin Sultan Türbesi, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkarır. Burada, geçmişin izlerini taşıyan tarihi yapılar, geleneksel mimari örnekleri ve kültürel etkinlikler ziyaretçileri bekliyor.
+Tacettin Sultan Türbesi, Ankara'nın Altındağ ilçesinde bulunan bir tarihi ve kültürel mekândır. Bu türbe, yaklaşık 140 hektarlık bir alanda yer alan tarihi bir yapıdır. Tarihi geçmişiyle dikkat çeken bu türbe, Ankara'nın önemli turistik noktalarından biridir. Tacettin Sultan Türbesi, ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkarır. Burada, geçmişin izlerini taşıyan tarihi yapılar, geleneksel mimari örnekleri ve kültürel etkinlikler ziyaretçileri bekliyor.
 
 ## Tarihçe
 

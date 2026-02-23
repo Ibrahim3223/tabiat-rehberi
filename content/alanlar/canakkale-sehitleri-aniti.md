@@ -30,19 +30,19 @@ wikidata_id: "Q8077504"
 
 # Çanakkale Şehitleri Anıtı
 
-Çanakkale Şehitleri Anıtı, Seddülbahir/Eceabat ilçesinde, Çanakkale Savaşı'nın yaşandığı coğrafyanın kalbinde yer alan bir anıt. Bu anıt, Çanakkale Savaşı'nda şehit olan Türk askerlerini anmak içinşa edilmiştir. Anıtın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilere hem tarihi bir deneyim, hem de doğanın güzelliğini sunuyor. Anıt, Seddülbahir'in merkezinde yer alıyor ve ziyaretçilerin kolayca ulaşabileceği bir konumda.
+Çanakkale Şehitleri Anıtı, Seddülbahir/Eceabat ilçesinde, Çanakkale Savaşı'nın yaşandığı coğrafyanın kalbinde yer alan bir anıt. Bu anıt, Çanakkale Savaşı'nda şehit olan Türk askerlerini anmak içinşa edilmiştir. Bu alan, ziyaretçilere hem tarihi bir deneyim, hem de doğanın güzelliğini sunuyor. Anıt, Seddülbahir'in merkezinde yer alıyor ve ziyaretçilerin kolayca ulaşabileceği bir konumda.
 
 ## Tarihçe
 
-Çanakkale Şehitleri Anıtı, Çanakkale Savaşı'nın yaşandığı tarihsel geçmişe sahip. Çanakkale Savaşı, 1915 yılının Şubat ayında başlayan ve yaklaşık bir yıl süren bir çatışmaydı. Bu savaş, Osmanlı İmparatorluğu'nun Birinci Dünya Savaşı'na katılımının önemli bir parçasıydı. Çanakkale Şehitleri Anıtı, bu savaşta şehit olan Türk askerlerini anmak içinşa edildi. Anıtın hikayesi, Çanakkale Savaşı'nın história geçmişiyle iç içe geçmiş durumda. Çanakkale Savaşı, tarihte önemli bir yer tutuyor ve bu anıt, bu savaşın hatırasını yaşatmak için önemli bir görev üstleniyor. Çanakkale Şehitleri Anıtı, Seddülbahir'in tarihinde önemli bir yere sahip ve ziyaretçilere bu tarihsel geçmişin bir parçası olmak için bir fırsat sunuyor.
+Çanakkale Şehitleri Anıtı, Çanakkale Savaşı'nın yaşandığı tarihsel geçmişe sahip. Çanakkale Savaşı, 1915 yılının Şubat ayında başlayan ve yaklaşık bir yıl süren bir çatışmaydı. Bu savaş, Osmanlı İmparatorluğu'nun Birinci Dünya Savaşı'na katılımının önemli bir parçasıydı. Çanakkale Şehitleri Anıtı, bu savaşta şehit olan Türk askerlerini anmak içinşa edildi. Anıtın hikayesi, Çanakkale Savaşı'nın tarihi geçmişiyle iç içe geçmiş durumda. Çanakkale Savaşı, tarihte önemli bir yer tutuyor ve bu anıt, bu savaşın hatırasını yaşatmak için önemli bir görev üstleniyor. Çanakkale Şehitleri Anıtı, Seddülbahir'in tarihinde önemli bir yere sahip ve ziyaretçilere bu tarihsel geçmişin bir parçası olmak için bir fırsat sunuyor.
 
 ## Coğrafya
 
-Çanakkale Şehitleri Anıtı, Seddülbahir/Eceabat ilçesinde, Çanakkale'nin coğrafi güzelliğinin ortasında yer alıyor. Anıtın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilere hem tarihi bir deneyim, hem de doğanın güzelliğini sunuyor. Anıt, Seddülbahir'in merkezinde yer alıyor ve ziyaretçilerin kolayca ulaşabileceği bir konumda. Çanakkale Şehitleri Anıtı, Çanakkale Körfezi'nin güzel manzarasını sunuyor ve ziyaretçilere bu bölgeyi keşfetme fırsatı veriyor. Anıtın çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Bu coğrafi konumu, ziyaretçilere hem tarihi, hem de doğal güzellikleri bir arada sunuyor.
+Çanakkale Şehitleri Anıtı, Seddülbahir/Eceabat ilçesinde, Çanakkale'nin coğrafi güzelliğinin ortasında yer alıyor. Bu alan, ziyaretçilere hem tarihi bir deneyim, hem de doğanın güzelliğini sunuyor. Anıt, Seddülbahir'in merkezinde yer alıyor ve ziyaretçilerin kolayca ulaşabileceği bir konumda. Çanakkale Şehitleri Anıtı, Çanakkale Körfezi'nin güzel manzarasını sunuyor ve ziyaretçilere bu bölgeyi keşfetme fırsatı veriyor. Anıtın çevresi, çeşitli bitki türleri ve zengin fauna ile dolu. Bu coğrafi konumu, ziyaretçilere hem tarihi, hem de doğal güzellikleri bir arada sunuyor.
 
 ## Flora ve Fauna
 
-Çanakkale Şehitleri Anıtı, Seddülbahir/Eceabat ilçesinde, çeşitli bitki türleri ve zengin fauna ile dolu bir coğrafi konumda yer alıyor. Anıtın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, ziyaretçilere hem tarihi bir deneyim, hem de doğanın güzelliğini sunuyor. Anıtın çevresi, mevsimsel değişimlere göre farklı renkler ve güzellikler sunuyor. İlkbahar ve yaz aylarında, anıtın çevresi renkli çiçekler ve yeşilliklerle dolu. Sonbahar ve kış aylarında, anıtın çevresi farklı bir güzelliğe bürünüyor. Bu mevsimsel değişimler, ziyaretçilere doğanın güzelliğini farklı açılardan deneyimleme fırsatı veriyor.
+Çanakkale Şehitleri Anıtı, Seddülbahir/Eceabat ilçesinde, çeşitli bitki türleri ve zengin fauna ile dolu bir coğrafi konumda yer alıyor. Bu alan, ziyaretçilere hem tarihi bir deneyim, hem de doğanın güzelliğini sunuyor. Anıtın çevresi, mevsimsel değişimlere göre farklı renkler ve güzellikler sunuyor. İlkbahar ve yaz aylarında, anıtın çevresi renkli çiçekler ve yeşilliklerle dolu. Sonbahar ve kış aylarında, anıtın çevresi farklı bir güzelliğe bürünüyor. Bu mevsimsel değişimler, ziyaretçilere doğanın güzelliğini farklı açılardan deneyimleme fırsatı veriyor.
 
 ## Ziyaret Bilgileri
 
@@ -52,6 +52,6 @@ wikidata_id: "Q8077504"
 
 - Çanakkale Şehitleri Anıtı, Seddülbahir/Eceabat ilçesinde, Çanakkale Savaşı'nın yaşandığı coğrafyanın kalbinde yer alıyor.
 - Anıt, Çanakkale Savaşı'nda şehit olan Türk askerlerini anmak içinşa edildi.
-- Anıtın bulunduğu alan, yaklaşık 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Anıtın çevresi, çeşitli bitki türleri ve zengin fauna ile dolu.
 - Çanakkale Şehitleri Anıtı, ziyaretçilere hem tarihi, hem de doğal güzellikleri bir arada sunuyor.

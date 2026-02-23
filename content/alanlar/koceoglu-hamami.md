@@ -1,7 +1,7 @@
 ---
 title: "Köçeoğlu Hamamı"
 date: "2026-01-10T04:30:59.582Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q115630149"
 
 # Köçeoğlu Hamamı
 
-Köçeoğlu Hamamı, İstanbul'un en eski ve en önemli plajlarından biri olarak kabul edilir. Kadıköy'de bulunan bu plaj, yaklaşık 140 hektarlık bir alanda yer alır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alana karşılık gelir. Köçeoğlu Hamamı, denize girilebilen, kumsalın keyfini çıkarabileceğiniz bir plaj olarak bilinir. Burada, güneşin keyfini çıkarabilir, denizde yüzme gibi faaliyetleri gerçekleştirebilirsiniz. Plajın etrafında, tarihi yapılar ve doğal güzellikler bulunur.
+Köçeoğlu Hamamı, İstanbul'un en eski ve en önemli plajlarından biri olarak kabul edilir. Kadıköy'de bulunan bu plaj, yaklaşık 140 hektarlık bir alanda yer alır. Köçeoğlu Hamamı, denize girilebilen, kumsalın keyfini çıkarabileceğiniz bir plaj olarak bilinir. Burada, güneşin keyfini çıkarabilir, denizde yüzme gibi faaliyetleri gerçekleştirebilirsiniz. Plajın etrafında, tarihi yapılar ve doğal güzellikler bulunur.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Köçeoğlu Hamamı, zengin bir flora ve fauna çeşitliliğine sahiptir. Plajı
 
 ## Ziyaret Bilgileri
 
-Köçeoğlu Hamamı, ziyaretçilerin denize girip, kumsalın keyfini çıkarmak için ideal bir yerdir. Plaja, çeşitli ulaşım seçenekleri ile gidilebilir. Plajın etrafında, tarihi yapılar ve doğal güzellikler bulunur. Ziyaretçiler, plajda güneşin keyfini çıkarabilir, denizde yüzme gibi faaliyetleri gerçekleştirebilir. Köçeoğlu Hamamı, ziyaretçilere, denize girilebilen, kumsalın keyfini çıkarabileceğiniz bir plaj olarak bilinir. Ziyaretçiler, plajda, históriki yapıları gezerek, plajın tarihini öğrenebilir.
+Köçeoğlu Hamamı, ziyaretçilerin denize girip, kumsalın keyfini çıkarmak için ideal bir yerdir. Plaja, çeşitli ulaşım seçenekleri ile gidilebilir. Plajın etrafında, tarihi yapılar ve doğal güzellikler bulunur. Ziyaretçiler, plajda güneşin keyfini çıkarabilir, denizde yüzme gibi faaliyetleri gerçekleştirebilir. Köçeoğlu Hamamı, ziyaretçilere, denize girilebilen, kumsalın keyfini çıkarabileceğiniz bir plaj olarak bilinir. Ziyaretçiler, plajda, tarihi yapıları gezerek, plajın tarihini öğrenebilir.
 
 ## İlginç Bilgiler
 

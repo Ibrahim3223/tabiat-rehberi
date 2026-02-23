@@ -1,7 +1,7 @@
 ---
 title: "Mülayim Dede Türbesi (Dedebali)"
 date: "2026-01-10T07:38:24.436Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391224"
 
 # Mülayim Dede Türbesi (Dedebali)
 
-Mülayim Dede Türbesi, Tavşanlı, Kütahya'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir destinasyondur. Bu alan, yaklaşık 140 hektarlık bir yeşil alan olarak, 200 futbol sahası büyüklüğünde bir alanı kaplar. Tavşanlı'nın merkezine yakın konumuyla ziyaretçiler için kolay ulaşılabilir bir noktadır. Mülayim Dede Türbesi, sadece bir tarihi mekan değil, aynı zamanda çevresi ile birlikte bir doğa harikasıdır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar. Bu mekan, hem Kütahya'nın hem de Ege Bölgesi'nin önemli kültür ve doğa varlıklarından biridir.
+Mülayim Dede Türbesi, Tavşanlı, Kütahya'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir destinasyondur. Tavşanlı'nın merkezine yakın konumuyla ziyaretçiler için kolay ulaşılabilir bir noktadır. Mülayim Dede Türbesi, sadece bir tarihi mekan değil, aynı zamanda çevresi ile birlikte bir doğa harikasıdır. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar. Bu mekan, hem Kütahya'nın hem de Ege Bölgesi'nin önemli kültür ve doğa varlıklarından biridir.
 
 ## Tarihçe
 

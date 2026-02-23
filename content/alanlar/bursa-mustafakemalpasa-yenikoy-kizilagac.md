@@ -22,7 +22,7 @@ wikidata_id: "Q108228471"
 
 # Bursa-Mustafakemalpasa-Yenikoy-Kizilagac
 
-Bursa-Mustafakemalpasa-Yenikoy-Kizilagac milli parkı, Marmara Bölgesi'nin en güzel doğa alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgenin en önemli turizm merkezlerinden biridir. Milli parkın güzelliği ve zengin doğası, ziyaretçilerini büyülemeye devam etmektedir. Bursa'nın Mustafakemalpaşa ilçesine bağlı Yeniköy ve Kızılcağaç köyleri arasındaki bu milli park, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir.
+Bursa-Mustafakemalpasa-Yenikoy-Kizilagac milli parkı, Marmara Bölgesi'nin en güzel doğa alanlarından biridir. Milli parkın güzelliği ve zengin doğası, ziyaretçilerini büyülemeye devam etmektedir. Bursa'nın Mustafakemalpaşa ilçesine bağlı Yeniköy ve Kızılcağaç köyleri arasındaki bu milli park, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Bursa-Mustafakemalpasa-Yenikoy-Kizilagac milli parkının tarihi geçmişi, yüz
 
 ## Coğrafya
 
-Bursa-Mustafakemalpasa-Yenikoy-Kizilagac milli parkı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Milli park, 140 hektarlık bir alan üzerinde kurulmuştur ve yaklaşık 200 futbol sahası büyüklüğündedir. Milli parkın coğrafi konumu, Mustafakemalpaşa ilçesine bağlı Yeniköy ve Kızılcağaç köyleri arasında yer almaktadır. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzemektedir. Milli parkın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunmaktadır. Milli parkın yüksekliği, deniz seviyesinden yaklaşık 100 metre yukarıdadır ve bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkilemektedir.
+Bursa-Mustafakemalpasa-Yenikoy-Kizilagac milli parkı, Marmara Bölgesi'nin coğrafi yapısını yansıtan bir bölgedir. Milli parkın coğrafi konumu, Mustafakemalpaşa ilçesine bağlı Yeniköy ve Kızılcağaç köyleri arasında yer almaktadır. Bu bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzemektedir. Milli parkın çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Milli parkın coğrafi yapısı, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunmaktadır. Milli parkın yüksekliği, deniz seviyesinden yaklaşık 100 metre yukarıdadır ve bu yükseklik, bölgenin iklimini ve bitki örtüsünü etkilemektedir.
 
 ## Flora ve Fauna
 
@@ -42,7 +42,6 @@ Bursa-Mustafakemalpasa-Yenikoy-Kizilagac milli parkına ziyaretçiler, Mustafake
 
 ## İlginç Bilgiler
 
-- Milli parkın alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Milli park, Mustafakemalpaşa ilçesine bağlı Yeniköy ve Kızılcağaç köyleri arasında yer almaktadır.
 - Milli parkın iklimi, Marmara Bölgesi'nin genel iklimine benzemektedir.
 - Milli parkın flora ve fauna'sı, çeşitli bitki ve hayvan türleri ile zenginleştirilmiştir.

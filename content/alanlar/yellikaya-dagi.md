@@ -50,7 +50,7 @@ Doğal olarak, Yellikaya Dağı'nın çevresi, komşu dağlık alanlar ve su kay
 
 ## Flora ve Fauna
 
-Yellikaya Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, zengin bir flora ve faunaya ev sahipliği yapar. 
+Yellikaya Dağı, Mersin'in kıyı ekosisteminin bir parçası olarak, zengin bir flora ve faunaya ev sahipliği yapar.
 
 Bitki Örtüsü olarak, maki bitki örtüsünün hakim olduğu bu dağ, ilkbaharda çiçeklerle renklendirilir. Yükseklik zonlarına bağlı olarak, alpin flora da burada yer alır. Kuraklığa dayanıklı türler, bu dağ ekosisteminin önemli bir bileşenidir.
 

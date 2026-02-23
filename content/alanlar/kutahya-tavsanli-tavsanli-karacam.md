@@ -22,7 +22,7 @@ wikidata_id: "Q108228560"
 
 # Kutahya-Tavsanli-Tavsanli-Karacam
 
-Kutahya-Tavsanli-Tavsanli-Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Bu bölge, zengin flora ve faunası ile ziyaretçilerini cezbediyor. Konum itibariyle de kolay ulaşılabilir olan bu park, hem doğa yürüyüşleri hem de fotoğrafçılık için ideal bir destinasyon.
+Kutahya-Tavsanli-Tavsanli-Karacam milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu bölge, zengin flora ve faunası ile ziyaretçilerini cezbediyor. Konum itibariyle de kolay ulaşılabilir olan bu park, hem doğa yürüyüşleri hem de fotoğrafçılık için ideal bir destinasyon.
 
 ## Tarihçe
 

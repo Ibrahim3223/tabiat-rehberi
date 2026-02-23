@@ -28,7 +28,7 @@ wikidata_id: "Q31389868"
 
 # Soğukoluk Tepesi
 
-Soğukoluk Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Sinop'ta yer alır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve çevresi çeşitli bitki türleriyle dolu bir ormanla çevrilidir. Soğukoluk Tepesi'ne çıkarken, yol boyunca karşılaştığınız manzaralar ve temiz hava, ziyaretçilere unutulmaz bir deneyim sunar. Tepenin zirvesine ulaştığınızda, Sinop'un muhteşem manzarasını izleme fırsatına sahip olacaksınız.
+Soğukoluk Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri olan Sinop'ta yer alır. Soğukoluk Tepesi'ne çıkarken, yol boyunca karşılaştığınız manzaralar ve temiz hava, ziyaretçilere unutulmaz bir deneyim sunar. Tepenin zirvesine ulaştığınızda, Sinop'un muhteşem manzarasını izleme fırsatına sahip olacaksınız.
 
 ## Tarihçe
 

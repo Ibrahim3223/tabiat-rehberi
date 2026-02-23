@@ -28,11 +28,11 @@ wikidata_id: "Q31390458"
 
 # Dedeği Tepe
 
-Dedeği Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve doğal alan olarak dikkat çekiyor. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu bölge, hem güzellikleri hem de coğrafi özellikleri ile ziyaretçilerini çekiyor. Dedeği Tepe, Konya'nın merkezine yaklaşık olarak 20 kilometre uzaklıkta bulunuyor ve bu bölgede yer alan diğer doğal güzelliklere de yakın mesafede. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
+Dedeği Tepe, Konya'nın İç Anadolu Bölgesi'nde yer alan bir tepe ve doğal alan olarak dikkat çekiyor. Dedeği Tepe, Konya'nın merkezine yaklaşık olarak 20 kilometre uzaklıkta bulunuyor ve bu bölgede yer alan diğer doğal güzelliklere de yakın mesafede. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün.
 
 ## Tarihçe
 
-Dedeği Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılması ile şekillenmiştir. Bu bölgede, histórik dönemlerden kalan kalıntılar ve izler bulunmakla birlikte, Dedeği Tepe'nin tam olarak ne zaman ve kimler tarafından keşfedildiği bilinmemektedir. Ancak, bölgenin coğrafi konumu ve doğal güzellikleri, buranın tarih boyunca insanların ilgisini çektiğini gösteriyor. Dedeği Tepe, Konya ve çevresinin históri ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul ediliyor.
+Dedeği Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların yerleşim yeri olarak kullanılması ile şekillenmiştir. Bu bölgede, tarihi dönemlerden kalan kalıntılar ve izler bulunmakla birlikte, Dedeği Tepe'nin tam olarak ne zaman ve kimler tarafından keşfedildiği bilinmemektedir. Ancak, bölgenin coğrafi konumu ve doğal güzellikleri, buranın tarih boyunca insanların ilgisini çektiğini gösteriyor. Dedeği Tepe, Konya ve çevresinin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon olarak kabul ediliyor.
 
 ## Coğrafya
 
@@ -40,7 +40,7 @@ Dedeği Tepe, coğrafi olarak Konya'nın İç Anadolu Bölgesi'nde yer alıyor. 
 
 ## Flora ve Fauna
 
-Dedeği Tepe, flora ve fauna açısından oldukça zengin bir bölge. Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mevsimsel değişimlere bağlı olarak, bazı bitki türleri ve hayvanlar daha çok görülürken, diğerleri daha az görülüyor. Dedeği Tepe'de, step bitkileri ve otsu bitkiler hakim iken, bazı ağaç türleri de bulunabiliyor. Hayvanlar açısından, bu bölgede, çeşitli kuş türleri, memeliler ve sürüngenler yaşamaktadır. Dedeği Tepe'nin ekolojik dengesi, buranın doğal güzelliklerini korumak için önemli.
+ Burada, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Mevsimsel değişimlere bağlı olarak, bazı bitki türleri ve hayvanlar daha çok görülürken, diğerleri daha az görülüyor. Dedeği Tepe'de, step bitkileri ve otsu bitkiler hakim iken, bazı ağaç türleri de bulunabiliyor. Hayvanlar açısından, bu bölgede, çeşitli kuş türleri, memeliler ve sürüngenler yaşamaktadır. Dedeği Tepe'nin ekolojik dengesi, buranın doğal güzelliklerini korumak için önemli.
 
 ## Ziyaret Bilgileri
 
@@ -48,7 +48,6 @@ Dedeği Tepe'yi ziyaret etmek, Konya ve çevresini keşfetmek isteyenler için �
 
 ## İlginç Bilgiler
 
-- Dedeği Tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Dedeği Tepe, Konya'nın merkezine yaklaşık olarak 20 kilometre uzaklıkta.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır.
 - Dedeği Tepe, coğrafi olarak Konya'nın İç Anadolu Bölgesi'nde yer alıyor.

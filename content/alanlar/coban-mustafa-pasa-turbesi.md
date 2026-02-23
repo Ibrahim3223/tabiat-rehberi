@@ -1,7 +1,7 @@
 ---
 title: "Çoban Mustafa Paşa Türbesi"
 date: "2026-01-10T07:33:08.351Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kocaeli"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391268"
 
 # Çoban Mustafa Paşa Türbesi
 
-Çoban Mustafa Paşa Türbesi, Gebze'nin tarihi ve doğal güzellikleri bir arada sunan önemli bir destinasyon. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli tarihi noktalarından biri. Bu türbe, bölgenin geçmişini ve kültürel zenginliğini yansıtan bir yapı olarak dikkat çekiyor. Ziyaretçiler, hem tarihi bilgileri öğrenmek hem de doğal güzellikleri keşfetmek için burayı tercih ediyorlar. Gebze'nin merkezine yakın konumuyla da ulaşım açısından kolaylık sağlıyor.
+Çoban Mustafa Paşa Türbesi, Gebze'nin tarihi ve doğal güzellikleri bir arada sunan önemli bir destinasyon. Bu türbe, bölgenin geçmişini ve kültürel zenginliğini yansıtan bir yapı olarak dikkat çekiyor. Ziyaretçiler, hem tarihi bilgileri öğrenmek hem de doğal güzellikleri keşfetmek için burayı tercih ediyorlar. Gebze'nin merkezine yakın konumuyla da ulaşım açısından kolaylık sağlıyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391268"
 
 ## Coğrafya
 
-Çoban Mustafa Paşa Türbesi, Marmara Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Gebze ilçesi, Kocaeli ilinin önemli merkezlerinden biri ve burada bulunan türbe, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Bölgenin coğrafi özellikleri, ziyaretçilere geniş bir alan sunuyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada çeşitli bitki türleri bulunabiliyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim livedir. Kış aylarında serin ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakim. Bu coğrafi özellikler, ziyaretçilere yıl boyunca farklı deneyimler sunuyor. Türbenin etrafındaki çevre, tarihi ve doğal güzelliklerin bir arada bulunmasıyla dikkat çekiyor. Ziyaretçiler, hem türbenin tarihi önemini hem de bölgenin doğal güzelliklerini keşfedebiliyorlar.
+Çoban Mustafa Paşa Türbesi, Marmara Bölgesi'nin coğrafi açıdan zengin bir bölgesinde yer alıyor. Gebze ilçesi, Kocaeli ilinin önemli merkezlerinden biri ve burada bulunan türbe, doğa severlerin ve tarih meraklılarının ilgisini çekiyor. Bölgenin coğrafi özellikleri, ziyaretçilere geniş bir alan sunuyor. Bölgenin iklimi, Marmara Bölgesi'nin genel iklimine benzer ve dört mevsim livedir. Kış aylarında serin ve yağışlı, yaz aylarında ise sıcak ve nemli bir hava hakim. Bu coğrafi özellikler, ziyaretçilere yıl boyunca farklı deneyimler sunuyor. Türbenin etrafındaki çevre, tarihi ve doğal güzelliklerin bir arada bulunmasıyla dikkat çekiyor. Ziyaretçiler, hem türbenin tarihi önemini hem de bölgenin doğal güzelliklerini keşfedebiliyorlar.
 
 ## Flora ve Fauna
 

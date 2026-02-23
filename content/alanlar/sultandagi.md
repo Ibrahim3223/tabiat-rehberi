@@ -23,7 +23,7 @@ wikidata_id: "Q108227816"
 
 # Sultandagi
 
-Sultandagi Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alan sunar. Bu muhteşem park, ziyaretçilerine doğanın güzelliğini ve sakinliğini sunar. Sultandagi Milli Parkı, yaban hayatının çeşitliliği ve doğal güzelliği ile dikkat çeker. Ziyaretçiler, bu eşsiz ortamda doğayla iç içe olmanın keyfini çıkarabilirler.
+Sultandagi Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Bu muhteşem park, ziyaretçilerine doğanın güzelliğini ve sakinliğini sunar. Sultandagi Milli Parkı, yaban hayatının çeşitliliği ve doğal güzelliği ile dikkat çeker. Ziyaretçiler, bu eşsiz ortamda doğayla iç içe olmanın keyfini çıkarabilirler.
 
 ## Tarihçe
 
@@ -43,7 +43,6 @@ Sultandagi Milli Parkı, ziyaretçilere benzersiz bir deneyim sunar. Ziyaretçil
 
 ## İlginç Bilgiler
 
-- Sultandagi Milli Parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde.
 - Park, İç Anadolu Bölgesi'nin merkezi konumunda yer alır.
 - Sultandagi Milli Parkı, çeşitli bitki türleri ve zengin fauna ile karakterizedir.
 - Parkın iklimi, İç Anadolu Bölgesi'nin genel iklimine benzer.

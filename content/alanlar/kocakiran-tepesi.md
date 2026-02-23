@@ -28,7 +28,7 @@ wikidata_id: "Q31388347"
 
 # Kocakıran Tepesi
 
-Kocakıran Tepesi, Aydın'da bulunan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir görünüm sunuyor. Kocakıran Tepesi, özellikle doğa severlerin ilgisini çekiyor ve bölgede yapılan geziler sırasında sıklıkla ziyaret ediliyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa gözlemcileri için ideal bir yer haline getiriyor.
+Kocakıran Tepesi, Aydın'da bulunan ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak kabul edilen bir tepe. Kocakıran Tepesi, özellikle doğa severlerin ilgisini çekiyor ve bölgede yapılan geziler sırasında sıklıkla ziyaret ediliyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunmakta, bu da burayı doğa gözlemcileri için ideal bir yer haline getiriyor.
 
 ## Tarihçe
 

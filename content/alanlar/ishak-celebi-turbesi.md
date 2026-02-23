@@ -1,7 +1,7 @@
 ---
 title: "İshak Çelebi Türbesi"
 date: "2026-01-10T07:12:03.836Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390915"
 
 # İshak Çelebi Türbesi
 
-Manisa'nın Şehzadeler ilçesinde bulunan İshak Çelebi Türbesi, Ege Bölgesi'nin önemli tarihi ve kültürel mekanlarından biridir. 140 hektarlık bir alanın içinde yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir arazide kurulmuştur. İshak Çelebi Türbesi, mimari yapısı ve tarihi önemi ile dikkat çekmektedir. Türbenin etrafında bulunan yeşillik alanlar ve tarihi yapılar, ziyaretçilere güzel bir atmosfer sunmaktadır.
+Manisa'nın Şehzadeler ilçesinde bulunan İshak Çelebi Türbesi, Ege Bölgesi'nin önemli tarihi ve kültürel mekanlarından biridir. İshak Çelebi Türbesi, mimari yapısı ve tarihi önemi ile dikkat çekmektedir. Türbenin etrafında bulunan yeşillik alanlar ve tarihi yapılar, ziyaretçilere güzel bir atmosfer sunmaktadır.
 
 ## Tarihçe
 

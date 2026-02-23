@@ -28,7 +28,7 @@ wikidata_id: "Q31549121"
 
 # Geliyebena Tepesi
 
-Geliyebena Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt şehrinde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri ve zengin fauna, bu bölgeyi doğa severler için bir cennet haline getirir. Geliyebena Tepesi, Siirt'in merkezine yakın bir konumda yer alır, bu nedenle şehri ziyaret edenler için kolay ulaşılabilir bir noktada bulunur.
+Geliyebena Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt şehrinde yer alan ve ziyaretçilerini doğal güzellikleriyle büyüleyen bir destinasyondur. Tepenin eteklerinde ve zirvesinde bulunan çeşitli bitki türleri ve zengin fauna, bu bölgeyi doğa severler için bir cennet haline getirir. Geliyebena Tepesi, Siirt'in merkezine yakın bir konumda yer alır, bu nedenle şehri ziyaret edenler için kolay ulaşılabilir bir noktada bulunur.
 
 ## Tarihçe
 

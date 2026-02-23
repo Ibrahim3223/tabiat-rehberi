@@ -1,7 +1,7 @@
 ---
 title: "Antalya-Döşemealtı Fistik Cami"
 date: "2026-01-09T19:04:49.484Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Antalya"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228006"
 
 # Antalya-Döşemealtı Fistik Cami
 
-Antalya-Döşemealtı Fistik Cami, Antalya'nın tarihi ve doğal güzelliklerini bir araya getiren özel bir alandır. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu da yaklaşık 200 futbol sahası büyüklüğüne eşittir. Fistik Cami, Antalya'nın Döşemealtı ilçesinde bulunur ve ziyaretçilerini tarihi ve doğal güzelliklerle büyüler. Ziyaretçiler, bu alanda hem tarihi yapıları inceleyebilir hem de doğal güzellikleri keşfedebilir. Bu bölge, aynı zamanda zengin flora ve faunaya da ev sahipliği yapar.
+Antalya-Döşemealtı Fistik Cami, Antalya'nın tarihi ve doğal güzelliklerini bir araya getiren özel bir alandır. Fistik Cami, Antalya'nın Döşemealtı ilçesinde bulunur ve ziyaretçilerini tarihi ve doğal güzelliklerle büyüler. Ziyaretçiler, bu alanda hem tarihi yapıları inceleyebilir hem de doğal güzellikleri keşfedebilir. Bu bölge, aynı zamanda zengin flora ve faunaya da ev sahipliği yapar.
 
 ## Tarihçe
 
@@ -34,7 +34,7 @@ Antalya-Döşemealtı Fistik Cami, coğrafi olarak oldukça zengin bir bölgede 
 
 ## Flora ve Fauna
 
-Antalya-Döşemealtı Fistik Cami, flora ve fauna açısından oldukça zengin bir bölgedir. Bu bölgede, çeşitli bitki türleri ve ağaçlar bulunur. Özellikle Fistik ağaçları, bu bölgenin önemli bir parçasıdır. Ziyaretçiler, bu bölgede hem mevsimsel değişimleri gözlemleyebilir hem de çeşitli bitki türlerini keşfedebilir. Bu bölgede, aynı zamanda zengin fauna çeşitliliğine de ev sahipliği yapılır. Ziyaretçiler, bu bölgede çeşitli hayvan türleriyle karşılaşabilir. Mevsimsel değişimler, bu bölgenin flora ve faunasını etkiler. Kış aylarında, bazı bitki türleri soyulurken, yaz aylarında ise yeşillenir. Bu bölgede, aynı zamanda çeşitli ekolojik sistemler de bulunur.
+ Bu bölgede, çeşitli bitki türleri ve ağaçlar bulunur. Özellikle Fistik ağaçları, bu bölgenin önemli bir parçasıdır. Ziyaretçiler, bu bölgede hem mevsimsel değişimleri gözlemleyebilir hem de çeşitli bitki türlerini keşfedebilir. Bu bölgede, aynı zamanda zengin fauna çeşitliliğine de ev sahipliği yapılır. Ziyaretçiler, bu bölgede çeşitli hayvan türleriyle karşılaşabilir. Mevsimsel değişimler, bu bölgenin flora ve faunasını etkiler. Kış aylarında, bazı bitki türleri soyulurken, yaz aylarında ise yeşillenir. Bu bölgede, aynı zamanda çeşitli ekolojik sistemler de bulunur.
 
 ## Ziyaret Bilgileri
 

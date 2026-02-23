@@ -28,7 +28,7 @@ wikidata_id: "Q34813508"
 
 # Topakçal Tepesi
 
-Topakçal Tepesi, Ankara'nın kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu doğal ve tarihi bölge, hem Ankara'nın hem de İç Anadolu Bölgesi'nin önemli bir parçası. Topakçal Tepesi, ziyaretçilerini Ankara'nın tarihi ve doğal güzelliklerinin birleştiği bir noktaya davet ediyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
+ Bu doğal ve tarihi bölge, hem Ankara'nın hem de İç Anadolu Bölgesi'nin önemli bir parçası. Topakçal Tepesi, ziyaretçilerini Ankara'nın tarihi ve doğal güzelliklerinin birleştiği bir noktaya davet ediyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Topakçal Tepesi'nin tarihi geçmişi, yüzyıllar boyunca farklı uygarlıklar�
 
 ## Coğrafya
 
-Topakçal Tepesi, Ankara'nın coğrafi yapısında önemli bir yer tutuyor. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Tepenin coğrafi konumu, Ankara'nın şehir merkezine yakın oluşu ve ulaşım kolaylığı, burayı ziyaretçiler için çekici kılıyor. Topakçal Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Topakçal Tepesi, Ankara'nın coğrafi ve ekolojik zenginliklerini deneyimlemek isteyenler için önemli bir destinasyon.
+Topakçal Tepesi, Ankara'nın coğrafi yapısında önemli bir yer tutuyor. Tepenin coğrafi konumu, Ankara'nın şehir merkezine yakın oluşu ve ulaşım kolaylığı, burayı ziyaretçiler için çekici kılıyor. Topakçal Tepesi, Ankara'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunmakta. Topakçal Tepesi, Ankara'nın coğrafi ve ekolojik zenginliklerini deneyimlemek isteyenler için önemli bir destinasyon.
 
 ## Flora ve Fauna
 

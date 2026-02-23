@@ -1,7 +1,7 @@
 ---
 title: "Sefer Baba Türbesi"
 date: "2026-01-10T07:22:46.000Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,11 +30,11 @@ wikidata_id: "Q131390989"
 
 # Sefer Baba Türbesi
 
-İstanbul'un tarihi semtlerinden Beyoğlu'nda, Marmara Bölgesi'nin kalbinde yer alan Sefer Baba Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi tarihi yapılarla dolu. Bu mekan, hem doğal güzellikleri hem de tarihi önemini korumayı başarmış bir bölgedir. Doğal güzelliklerinin yanı sıra, tarihi yapıları ve ziyaretçilerini ağırlayan konaklama tesisleriyle de dikkat çeker. Sefer Baba Türbesi, İstanbul'un kalbinde bir doğa ve tarih cenneti olarak ziyaretçilerini bekliyor.
+İstanbul'un tarihi semtlerinden Beyoğlu'nda, Marmara Bölgesi'nin kalbinde yer alan Sefer Baba Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu mekan, hem doğal güzellikleri hem de tarihi önemini korumayı başarmış bir bölgedir. Doğal güzelliklerinin yanı sıra, tarihi yapıları ve ziyaretçilerini ağırlayan konaklama tesisleriyle de dikkat çeker. Sefer Baba Türbesi, İstanbul'un kalbinde bir doğa ve tarih cenneti olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
-Sefer Baba Türbesi, tarihi geçmişiyle dikkat çeken bir mekan. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmış ve bu etkiler, günümüze kadar ulaşmış. Tarihi yapılar, bu bölgenin zengin geçmişini yansıtan önemli kanıtlar. Sefer Baba Türbesi, ziyaretçilerine bu tarihi geçmişi ve kültürel zenginliği sunarken, aynı zamanda doğal güzellikleriyle de büyüler. Bu bölgenin tarihi önemiı, Türk tarihinde önemli bir yer tutar ve ziyaretçilerini tarihin sâu sayfalarına götürür. Tarihi mekanların yanı sıra, bölgeye özgü geleneksel etkinlikler ve festivaller de ziyaretçilerin ilgisini çeker.
+Sefer Baba Türbesi, tarihi geçmişiyle dikkat çeken bir mekan. Bu bölgenin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin etkisi altında kalmış ve bu etkiler, günümüze kadar ulaşmış. Tarihi yapılar, bu bölgenin zengin geçmişini yansıtan önemli kanıtlar. Sefer Baba Türbesi, ziyaretçilerine bu tarihi geçmişi ve kültürel zenginliği sunarken, aynı zamanda doğal güzellikleriyle de büyüler. Bu bölgenin tarihi önemiı, Türk tarihinde önemli bir yer tutar ve ziyaretçilerini tarihin derin sayfalarına götürür. Tarihi mekanların yanı sıra, bölgeye özgü geleneksel etkinlikler ve festivaller de ziyaretçilerin ilgisini çeker.
 
 ## Coğrafya
 

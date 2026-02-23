@@ -28,7 +28,7 @@ wikidata_id: "Q31388862"
 
 # Ceviz Tepe
 
-Ceviz Tepe, Marmara Bölgesi'nin gözde illerinden Kırklareli'de yer alan bir doğa harikası. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Ceviz Tepe, hem yerlilerin hem de turistlerin ziyaret ettiği bir nokta ve buranın güzelliği, görenleri büyülüyor. Doğa severlerin keyifleneceği bu tepe, Kırklareli'nin en önemli güzelliklerinden biri olarak biliniyor.
+Ceviz Tepe, Marmara Bölgesi'nin gözde illerinden Kırklareli'de yer alan bir doğa harikası. Ceviz Tepe, hem yerlilerin hem de turistlerin ziyaret ettiği bir nokta ve buranın güzelliği, görenleri büyülüyor. Doğa severlerin keyifleneceği bu tepe, Kırklareli'nin en önemli güzelliklerinden biri olarak biliniyor.
 
 ## Tarihçe
 

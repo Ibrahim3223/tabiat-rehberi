@@ -33,7 +33,7 @@ Antalya'nın turkuaz sularında gizlenen Aşırlı Adası, ziyaretçilerini Akde
 
 ## Tarihçe
 
-Aşırlı Adası, Türkiye'nin Güney kıyılarında, Antalya bölgesinde yer alan bir ada. Bu bölge, tarihin sâu sayfalarına kadar uzanan bir geçmişe sahiptir. Antalya, tarihi boyunca çeşitli uygarlıkların hakimiyetine girmiş; Hititler, Lidyalılar, Persler, Romalılar ve Osmanlılar gibi büyük medeniyetler bu topraklarda yaşamıştır.
+Aşırlı Adası, Türkiye'nin Güney kıyılarında, Antalya bölgesinde yer alan bir ada. Bu bölge, tarihin derin sayfalarına kadar uzanan bir geçmişe sahiptir. Antalya, tarihi boyunca çeşitli uygarlıkların hakimiyetine girmiş; Hititler, Lidyalılar, Persler, Romalılar ve Osmanlılar gibi büyük medeniyetler bu topraklarda yaşamıştır.
 
 Doğal güzellikleri ve stratejik konumuyla dikkat çeken Aşırlı Adası, Türkiye'nin diğer doğal alanları gibi tarihsel olarak önemli bir role sahiptir. Bu tür doğal alanlar, insanların yaşamında her zaman önemli bir yer tutmuş; yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler için tercih edilen noktalar olmuşlardır. Antalya bölgesinin coğrafi özellikleri, insanların bu bölgeye yerleşmesine ve çeşitli ekonomik faaliyetlerde bulunmasına olanak sağlamıştır.
 

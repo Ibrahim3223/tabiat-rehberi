@@ -22,7 +22,7 @@ wikidata_id: "Q108228853"
 
 # Çalı Gölü Sulak Alanı
 
-Çalı Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin ekolojik dengesini koruyan önemli bir sulak alandır. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Özellikle kuş gözlemcilerinin favori mekanlarından biri olan Çalı Gölü Sulak Alanı, birçok kuş türüne ev sahipliği yapmaktadır. Alanda yapılan çalışmalar, bu sulak alanın bölge için ne kadar önemli olduğunu göstermektedir.
+Çalı Gölü Sulak Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerinden biridir. Bu alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekmektedir. Özellikle kuş gözlemcilerinin favori mekanlarından biri olan Çalı Gölü Sulak Alanı, birçok kuş türüne ev sahipliği yapmaktadır. Alanda yapılan çalışmalar, bu sulak alanın bölge için ne kadar önemli olduğunu göstermektedir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Yunus Türbesi"
 date: "2026-01-10T06:56:46.973Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Karaman"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390849"
 
 # Şeyh Yunus Türbesi
 
-Şeyh Yunus Türbesi, Karaman ilinin merkezinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölgede, 140 hektarlık geniş bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve kültürel bir yolculuğa çıkarır. Şeyh Yunus Türbesi, Karaman'ın önemli tarihi ve dini yapılardan biri olarak kabul edilir ve bölgeyi ziyaret edenler için önemli bir çekim noktasıdır. Bu türbe, aynı zamanda şehrin kültürel ve tarihi mirasının önemli bir parçasıdır.
+Şeyh Yunus Türbesi, Karaman ilinin merkezinde yer alan bir tarihi ve doğal güzellik alanıdır. Şeyh Yunus Türbesi, Karaman'ın önemli tarihi ve dini yapılardan biri olarak kabul edilir ve bölgeyi ziyaret edenler için önemli bir çekim noktasıdır. Bu türbe, aynı zamanda şehrin kültürel ve tarihi mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 

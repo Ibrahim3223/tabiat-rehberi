@@ -1,7 +1,7 @@
 ---
 title: "Tarihi Tahtalı Hamamı"
 date: "2026-01-09T22:27:53.923Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Malatya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738468"
 
 # Tarihi Tahtalı Hamamı
 
-Tarihi Tahtalı Hamamı, Doğu Anadolu Bölgesi'nin önemli şehri Malatya'nın Battalgazi ilçesinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Tarihi Tahtalı Hamamı, ziyaretçilerini büyüleyen bir doğal güzelliktir ve birçok insanın gezi planlarında önemli bir yer tutar.
+Tarihi Tahtalı Hamamı, Doğu Anadolu Bölgesi'nin önemli şehri Malatya'nın Battalgazi ilçesinde yer alan bir plajdır. Tarihi Tahtalı Hamamı, ziyaretçilerini büyüleyen bir doğal güzelliktir ve birçok insanın gezi planlarında önemli bir yer tutar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Tarihi Tahtalı Hamamı, yüzyıllar boyunca birçok medeniyete ev sahipliği ya
 
 ## Coğrafya
 
-Tarihi Tahtalı Hamamı, Malatya'nın Battalgazi ilçesinde yer alan bir plajdır. Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder. Tarihi Tahtalı Hamamı, yüksek bir konumda yer alır ve bu nedenle, ziyaretçileri tarafından çok sevilen bir yerdir. Bu plajın coğrafi konumu, ziyaretçilerine birçok avantaj sağlar. Örneğin, bu plajın yakınlarında birçok otel ve restoran bulunur ve ziyaretçiler, kolaylıkla konaklama ve yemek hizmetlerinden yararlanabilirler. Ayrıca, Tarihi Tahtalı Hamamı'nın coğrafi konumu, birçok doğal güzelliğe de yakındır. Örneğin, bu plajın yakınlarında birçok dağ ve orman bulunur ve ziyaretçiler, kolaylıkla doğa yürüyüşleri ve diğer açık hava etkinliklerine katılabilirler.
+Tarihi Tahtalı Hamamı, Malatya'nın Battalgazi ilçesinde yer alan bir plajdır. Tarihi Tahtalı Hamamı, yüksek bir konumda yer alır ve bu nedenle, ziyaretçileri tarafından çok sevilen bir yerdir. Bu plajın coğrafi konumu, ziyaretçilerine birçok avantaj sağlar. Örneğin, bu plajın yakınlarında birçok otel ve restoran bulunur ve ziyaretçiler, kolaylıkla konaklama ve yemek hizmetlerinden yararlanabilirler. Ayrıca, Tarihi Tahtalı Hamamı'nın coğrafi konumu, birçok doğal güzelliğe de yakındır. Örneğin, bu plajın yakınlarında birçok dağ ve orman bulunur ve ziyaretçiler, kolaylıkla doğa yürüyüşleri ve diğer açık hava etkinliklerine katılabilirler.
 
 ## Flora ve Fauna
 
@@ -50,6 +50,6 @@ Tarihi Tahtalı Hamamı, ziyaretçilerine birçok olanak sunar. Bu plaj, özelli
 ## İlginç Bilgiler
 
 - Tarihi Tahtalı Hamamı, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış bir plajdır.
-- Bu plaj, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı temsil eder.
+
 - Tarihi Tahtalı Hamamı, yüksek bir konumda yer alır.
 - Bu plaj, birçok doğal güzelliğe de yakındır.

@@ -29,7 +29,7 @@ wikidata_id: "Q134728286"
 
 # Ankara Frig Tümülüsü 6, Emniyet
 
-Ankara Frig Tümülüsü 6, Emniyet, İç Anadolu Bölgesi'nin kalbinde, Yenimahalle'de yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere hem tarih hem de doğa hakkında bilgi veren bir destinasyon olarak hizmet vermektedir. Bu önemli tümülüs, bölgenin tarihi ve kültürel mirasının bir parçası olarak dikkat çekmektedir. Ziyaretçiler, tümülüsün geniş alanında dolaşarak, tarihi yapıları ve çevreyi keşfedebilirler.
+Ankara Frig Tümülüsü 6, Emniyet, İç Anadolu Bölgesi'nin kalbinde, Yenimahalle'de yer alan bir tarihi ve doğal güzellik alanıdır. Bu önemli tümülüs, bölgenin tarihi ve kültürel mirasının bir parçası olarak dikkat çekmektedir. Ziyaretçiler, tümülüsün geniş alanında dolaşarak, tarihi yapıları ve çevreyi keşfedebilirler.
 
 ## Tarihçe
 

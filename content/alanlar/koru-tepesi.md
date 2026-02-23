@@ -28,7 +28,7 @@ wikidata_id: "Q31388498"
 
 # Koru Tepesi
 
-Koru Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi veriyor. Koru Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor.
+Koru Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Doğu Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu tepe, aynı zamanda bölgenin tarihi geçmişi hakkında da bilgi veriyor. Koru Tepesi, Erzurum'un merkezine uzun bir mesafe uzaklıkta yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor.
 
 ## Tarihçe
 

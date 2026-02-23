@@ -1,7 +1,7 @@
 ---
 title: "Hamamcıoğlu Hamamı"
 date: "2026-01-09T22:21:01.918Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"

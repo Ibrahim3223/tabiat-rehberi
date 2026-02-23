@@ -28,7 +28,7 @@ wikidata_id: "Q31386578"
 
 # Tirşin Tepesi
 
-Tirşin Tepesi, Doğu Anadolu Bölgesi'nin Van kentinde yer alan ve coğrafi güzelliği ile dikkat çeken bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve buna karşılık yaklaşık 200 futbol sahası büyüklüğünde. Tirşin Tepesi, zengin fauna çeşitliliği ve coğrafi güzelliği ile ziyaretçilerini cezbediyor. Bu tepe, özellikle doğa severler ve coğrafya meraklıları için bir çekim merkezi. Tirşin Tepesi'ni ziyaret edenler, burada yer alan çeşitli bitki türleri ve hayvanları gözlemleyebilirler. Ayrıca, tepe çevresinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel yaşam kültürünü tanıma fırsatı sunuyor.
+Tirşin Tepesi, Doğu Anadolu Bölgesi'nin Van kentinde yer alan ve coğrafi güzelliği ile dikkat çeken bir nokta. Tirşin Tepesi, zengin fauna çeşitliliği ve coğrafi güzelliği ile ziyaretçilerini cezbediyor. Bu tepe, özellikle doğa severler ve coğrafya meraklıları için bir çekim merkezi. Tirşin Tepesi'ni ziyaret edenler, burada yer alan çeşitli bitki türleri ve hayvanları gözlemleyebilirler. Ayrıca, tepe çevresinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel yaşam kültürünü tanıma fırsatı sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tirşin Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetleri
 
 ## Coğrafya
 
-Tirşin Tepesi, Van kentinde yer alan bir coğrafi oluşum. Bu tepe, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tirşin Tepesi, coğrafi güzelliği ile dikkat çeken bir nokta. Bu tepe, özellikle doğa severler ve coğrafya meraklıları için bir çekim merkezi. Tirşin Tepesi'ni ziyaret edenler, burada yer alan çeşitli bitki türleri ve hayvanları gözlemleyebilirler. Ayrıca, tepe çevresinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel yaşam kültürünü tanıma fırsatı sunuyor. Tirşin Tepesi, coğrafi olarak zengin bir bölge. Bu tepe, dağlar, ovalar ve nehirler ile çevrilidir. Tirşin Tepesi'ni ziyaret edenler, burada yer alan coğrafi güzelliği ve zengin fauna çeşitliliği ile karşılaşacaklar. Bu tepe, ziyaretçilerine zengin bir coğrafi deneyim sunuyor.
+Tirşin Tepesi, Van kentinde yer alan bir coğrafi oluşum. Tirşin Tepesi, coğrafi güzelliği ile dikkat çeken bir nokta. Bu tepe, özellikle doğa severler ve coğrafya meraklıları için bir çekim merkezi. Tirşin Tepesi'ni ziyaret edenler, burada yer alan çeşitli bitki türleri ve hayvanları gözlemleyebilirler. Ayrıca, tepe çevresinde yer alan köyler ve kasabalar, ziyaretçilere geleneksel yaşam kültürünü tanıma fırsatı sunuyor. Tirşin Tepesi, coğrafi olarak zengin bir bölge. Bu tepe, dağlar, ovalar ve nehirler ile çevrilidir. Tirşin Tepesi'ni ziyaret edenler, burada yer alan coğrafi güzelliği ve zengin fauna çeşitliliği ile karşılaşacaklar. Bu tepe, ziyaretçilerine zengin bir coğrafi deneyim sunuyor.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Tirşin Tepesi'ni ziyaret etmek isteyenler, Van kentinde yer alan bu tepeye ula�
 ## İlginç Bilgiler
 
 - Tirşin Tepesi, 140 hektarlık bir alanı kaplıyor.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Tirşin Tepesi, coğrafi güzelliği ile dikkat çeken bir nokta.
 - Bu tepe, özellikle doğa severler ve coğrafya meraklıları için bir çekim merkezi.
 - Tirşin Tepesi'ni ziyaret edenler, burada yer alan çeşitli bitki türleri ve hayvanları gözlemleyebilirler.

@@ -28,7 +28,7 @@ wikidata_id: "Q31388099"
 
 # Karapınar Tepesi
 
-Karapınar Tepesi, Denizli'nin güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Karapınar Tepesi, ziyaretçilerini Ege Bölgesi'nin eşsiz manzaralarıyla baş başa bırakıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliklerini sunuyor. Karapınar Tepesi, sadece doğa severlerin değil, aynı zamanda tarihe meraklı olanların da ilgisini çekiyor.
+Karapınar Tepesi, Denizli'nin güzide noktalarından biri olarak karşımıza çıkıyor. Karapınar Tepesi, ziyaretçilerini Ege Bölgesi'nin eşsiz manzaralarıyla baş başa bırakıyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna found, ziyaretçilere doğanın güzelliklerini sunuyor. Karapınar Tepesi, sadece doğa severlerin değil, aynı zamanda tarihe meraklı olanların da ilgisini çekiyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Karapınar Tepesi, coğrafi olarak Ege Bölgesi'nin önemli noktalarından biri.
 
 ## Flora ve Fauna
 
-Karapınar Tepesi, flora ve fauna açısından oldukça zengin. Tepenin eteklerinde, çeşitli bitki türleri found. Bu bitkiler, mevsimsel değişimlere göre renk değiştiriyor ve tepenin güzelliğini artırıyor. Tepenin fauna açısından da zengin olduğunu söyleme mümkün. Çeşitli hayvan türleri, Karapınar Tepesi'nin eteklerinde ve tepesinde yaşamlarını sürdürüyor. Bu hayvanlar, tepenin ekolojik dengesini sağlıyor. Mevsimsel değişimler, Karapınar Tepesi'nin flora ve faunasını etkiliyor. İlkbahar ve yaz aylarında, bitkiler daha yeşil ve canlı, hayvanlar ise daha aktif.
+ Tepenin eteklerinde, çeşitli bitki türleri found. Bu bitkiler, mevsimsel değişimlere göre renk değiştiriyor ve tepenin güzelliğini artırıyor. Tepenin fauna açısından da zengin olduğunu söyleme mümkün. Çeşitli hayvan türleri, Karapınar Tepesi'nin eteklerinde ve tepesinde yaşamlarını sürdürüyor. Bu hayvanlar, tepenin ekolojik dengesini sağlıyor. Mevsimsel değişimler, Karapınar Tepesi'nin flora ve faunasını etkiliyor. İlkbahar ve yaz aylarında, bitkiler daha yeşil ve canlı, hayvanlar ise daha aktif.
 
 ## Ziyaret Bilgileri
 

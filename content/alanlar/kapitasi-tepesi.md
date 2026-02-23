@@ -28,7 +28,7 @@ wikidata_id: "Q31389361"
 
 # Kapıtaşı Tepesi
 
-Mersin'de yer alan Kapıtaşı Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alana sahiptir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Kapıtaşı Tepesi, Mersin'in önemli turizm noktalarından biri olarak bilinir. Burada, doğal güzellikleri yakındanleme mümkündür. Ayrıca, bu tepe, Mersin'in tarihî ve kültürel zenginliklerini de içinde barındırır. Kapıtaşı Tepesi, hem doğal güzellikleri hem de tarihî zenginlikleriyle ziyaretçilerini büyüler.
+Mersin'de yer alan Kapıtaşı Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan geniş bir yeşil alana sahiptir. Kapıtaşı Tepesi, Mersin'in önemli turizm noktalarından biri olarak bilinir. Burada, doğal güzellikleri yakındanleme mümkündür. Ayrıca, bu tepe, Mersin'in tarihî ve kültürel zenginliklerini de içinde barındırır. Kapıtaşı Tepesi, hem doğal güzellikleri hem de tarihî zenginlikleriyle ziyaretçilerini büyüler.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ Kapıtaşı Tepesi, çeşitli bitki türleri ve zengin fauna ile doludur. Bu tep
 
 ## Ziyaret Bilgileri
 
-Kapıtaşı Tepesi'ni ziyaret etmek, Mersin'in önemli turizm noktalarından biri olarak bilinir. Bu tepe, ziyaretçilerine geniş bir yeşil alan sunar ve çeşitli bitki türleri ile doludur. Kapıtaşı Tepesi'ni ziyaret etmek için, Mersin'e ulaşmak necessário. Mersin'e ulaştıktan sonra, Kapıtaşı Tepesi'ne ulaşma mümkün. Kapıtaşı Tepesi, Mersin'in önemli bir noktası olarak bilinir ve ziyaretçilerini doğal güzellikleri ile büyüler. Kapıtaşı Tepesi'ni ziyaret etmek, Mersin'in tarihî ve kültürel zenginliklerini yakından 관lemek için önemli bir fırsattır.
+Kapıtaşı Tepesi'ni ziyaret etmek, Mersin'in önemli turizm noktalarından biri olarak bilinir. Bu tepe, ziyaretçilerine geniş bir yeşil alan sunar ve çeşitli bitki türleri ile doludur. Kapıtaşı Tepesi'ni ziyaret etmek için, Mersin'e ulaşmak gerekli. Mersin'e ulaştıktan sonra, Kapıtaşı Tepesi'ne ulaşma mümkün. Kapıtaşı Tepesi, Mersin'in önemli bir noktası olarak bilinir ve ziyaretçilerini doğal güzellikleri ile büyüler. Kapıtaşı Tepesi'ni ziyaret etmek, Mersin'in tarihî ve kültürel zenginliklerini yakından 관lemek için önemli bir fırsattır.
 
 ## İlginç Bilgiler
 

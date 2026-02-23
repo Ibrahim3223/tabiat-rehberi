@@ -1,7 +1,7 @@
 ---
 title: "Selçuklu Evliya Türbesi"
 date: "2026-01-10T05:15:24.786Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kars"

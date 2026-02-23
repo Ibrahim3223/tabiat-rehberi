@@ -1,7 +1,7 @@
 ---
 title: "Ulvi Sultan Mescidi ve Türbesi"
 date: "2026-01-10T05:46:38.874Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582266"
 
 # Ulvi Sultan Mescidi ve Türbesi
 
-Meram'ın tarihi dokusu içinde yer alan Ulvi Sultan Mescidi ve Türbesi, Konya'nın doğal güzellikleri ve tarihi önemi bir arada sunan özel bir mekan. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükte bir alanın sunduğu tüm olanakları barındırıyor. Doğal güzellikleri ve tarihi önemi bir arada sunan bu mekan, ziyaretçilerini kendine hayran bırakıyor. Ulvi Sultan Mescidi ve Türbesi, Konya'nın Meram ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin önemli tarihi mekanlarından biri olarak kabul ediliyor.
+Meram'ın tarihi dokusu içinde yer alan Ulvi Sultan Mescidi ve Türbesi, Konya'nın doğal güzellikleri ve tarihi önemi bir arada sunan özel bir mekan. Doğal güzellikleri ve tarihi önemi bir arada sunan bu mekan, ziyaretçilerini kendine hayran bırakıyor. Ulvi Sultan Mescidi ve Türbesi, Konya'nın Meram ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin önemli tarihi mekanlarından biri olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Ulvi Sultan Mescidi ve Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekil
 
 ## Coğrafya
 
-Ulvi Sultan Mescidi ve Türbesi, Konya'nın Meram ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Mekan, 140 hektarlık bir yeşil alan içerisinde yer alıyor ve bu büyüklükte bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi konumu itibariyle, mekanın etrafı çeşitli bitki türleri ve ağaçlarla çevrili ve bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Mekan, doğu-batı yönünde uzanan bir vadide yer alıyor ve bu coğrafi özellik, mekanın iklimini ve doğasını etkiliyor. Ulvi Sultan Mescidi ve Türbesi, Konya'nın coğrafi özelliklerini taşıyan ve doğal güzellikleri ile dikkat çeken bir mekan.
+Ulvi Sultan Mescidi ve Türbesi, Konya'nın Meram ilçesinde yer alıyor ve İç Anadolu Bölgesi'nin coğrafi özelliklerini taşıyor. Coğrafi konumu itibariyle, mekanın etrafı çeşitli bitki türleri ve ağaçlarla çevrili ve bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Mekan, doğu-batı yönünde uzanan bir vadide yer alıyor ve bu coğrafi özellik, mekanın iklimini ve doğasını etkiliyor. Ulvi Sultan Mescidi ve Türbesi, Konya'nın coğrafi özelliklerini taşıyan ve doğal güzellikleri ile dikkat çeken bir mekan.
 
 ## Flora ve Fauna
 
-Ulvi Sultan Mescidi ve Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Mekan, 140 hektarlık bir yeşil alan içerisinde yer alıyor ve bu büyüklükte bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyüklükte bir alanda, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Mekan, mevsimsel değişimlere göre, farklı bitki türleri ve hayvanlar ile ziyaretçilerini ağırlıyor. Ulvi Sultan Mescidi ve Türbesi, Konya'nın flora ve fauna çeşitliliği ile dikkat çeken bir mekan.
+Ulvi Sultan Mescidi ve Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu büyüklükte bir alanda, çeşitli bitki türleri ve ağaçlar yer alıyor ve bu doğal güzellikler, ziyaretçilere unutulmaz bir deneyim sunuyor. Mekan, mevsimsel değişimlere göre, farklı bitki türleri ve hayvanlar ile ziyaretçilerini ağırlıyor. Ulvi Sultan Mescidi ve Türbesi, Konya'nın flora ve fauna çeşitliliği ile dikkat çeken bir mekan.
 
 ## Ziyaret Bilgileri
 

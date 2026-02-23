@@ -50,9 +50,9 @@ Yerçekimi ve yükseklik farklılıkları, Kırtepe'nin iklim karakterini etkile
 
 ## Flora ve Fauna
 
-Kırtepe Dağı, yükseklik zonları ile çeşitlenen bir dağ ekosistemi sunar. Bu bölgede step bitki örtüsü ve bozkırın hakimiyeti, kuraklığa adapte olmuş türlerin zenginliğini gösterir. İlkbaharın gelmesiyle, dağ yamaçları renklendirilir; çiçekler açar ve dağ ekosisteminin canlılığını ortaya koyar. 
+Kırtepe Dağı, yükseklik zonları ile çeşitlenen bir dağ ekosistemi sunar. Bu bölgede step bitki örtüsü ve bozkırın hakimiyeti, kuraklığa adapte olmuş türlerin zenginliğini gösterir. İlkbaharın gelmesiyle, dağ yamaçları renklendirilir; çiçekler açar ve dağ ekosisteminin canlılığını ortaya koyar.
 
-Dağların yüksek kesimlerinde, alpin flora hüküm sürer. Bu bölgede, mevsimsel değişimler canlıları etkiler. Sonbaharda, göç eden kuşlar bu dağları geçiş noktası olarak kullanır. 
+Dağların yüksek kesimlerinde, alpin flora hüküm sürer. Bu bölgede, mevsimsel değişimler canlıları etkiler. Sonbaharda, göç eden kuşlar bu dağları geçiş noktası olarak kullanır.
 
 Yaban hayatında, memeliler ve kuşlar dağların çeşitli yaşam alanlarını paylaşır. Sürüngenler, kaya ve taşlık alanlarda yaşamlarını sürdürür. Bu dağ ekosisteminin ekolojik değeri, çeşitliliği ve koruma durumu önemlidir. Bu alanın korunması, doğal dengenin korunmasına katkıda bulunur.
 

@@ -1,7 +1,7 @@
 ---
 title: "Hatunlar Türbesi"
 date: "2026-01-10T05:35:41.000Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sinop"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391652"
 
 # Hatunlar Türbesi
 
-Sinop'un merkezinde yer alan Hatunlar Türbesi, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Türbenin tarihi geçmişi, ziyaretçilerini cezbeden en önemli özelliklerinden biridir. Sinop'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Hatunlar Türbesi, ziyaretçilerine zengin bir deneyim sunar. Türbenin yakınında bulunan plaj, deniz severlerin keyif alacağı bir noktadır. Hatunlar Türbesi, Sinop'un en önemli turistik noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından keşfedilir.
+Sinop'un merkezinde yer alan Hatunlar Türbesi, yaklaşık 140 hektarlık bir alan üzerine kurulmuştur. Türbenin tarihi geçmişi, ziyaretçilerini cezbeden en önemli özelliklerinden biridir. Sinop'un tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Hatunlar Türbesi, ziyaretçilerine zengin bir deneyim sunar. Türbenin yakınında bulunan plaj, deniz severlerin keyif alacağı bir noktadır. Hatunlar Türbesi, Sinop'un en önemli turistik noktalarından biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından keşfedilir.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Çobandede Türbesi"
 date: "2026-01-10T06:02:08.009Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adana"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390504"
 
 # Çobandede Türbesi
 
-Adana'nın Çukurova bölgesinde yer alan Çobandede Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir mekan. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Bu mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Çobandede Türbesi, Akdeniz Bölgesi'nin en önemli plajlarından biri olarak biliniyor ve her yıl binlerce ziyaretçi çekiyor. Bu bölge, zengin tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor.
+Adana'nın Çukurova bölgesinde yer alan Çobandede Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir mekan. Bu mekan, hem tarihi hem de doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Çobandede Türbesi, Akdeniz Bölgesi'nin en önemli plajlarından biri olarak biliniyor ve her yıl binlerce ziyaretçi çekiyor. Bu bölge, zengin tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q34827817"
 
 # Çakır Tepesi
 
-Çakır Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Çakır Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Burada, doğanın seslerini dinleyebilir, yaban hayatını gözlemleyebilir ve bölgenin zengin flora ve faunasını keşfedebilirsiniz. Çakır Tepesi, hem doğa severler hem de macera tutkunları için ideal bir destinasyon.
+Çakır Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Çakır Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. Burada, doğanın seslerini dinleyebilir, yaban hayatını gözlemleyebilir ve bölgenin zengin flora ve faunasını keşfedebilirsiniz. Çakır Tepesi, hem doğa severler hem de macera tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 

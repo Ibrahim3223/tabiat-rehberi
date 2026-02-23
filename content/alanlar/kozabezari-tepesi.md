@@ -28,7 +28,7 @@ wikidata_id: "Q31386812"
 
 # Kozabezari Tepesi
 
-Kozabezari Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Batman'ın merkezinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal çekim merkezlerinden biri olarak kabul ediliyor. Kozabezari Tepesi, ziyaretçilerine hem doğal güzellikleri hem de bölgenin tarihi zenginliklerini sunuyor.
+Kozabezari Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olarak karşımıza çıkıyor. Batman'ın merkezinde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Kozabezari Tepesi, ziyaretçilerine hem doğal güzellikleri hem de bölgenin tarihi zenginliklerini sunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kozabezari Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bö
 
 ## Coğrafya
 
-Kozabezari Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin en önemli noktalarından biri olarak kabul ediliyor. Batman'ın merkezinde yer alan tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Kozabezari Tepesi'nin coğrafyası, ziyaretçilerine hem doğal güzellikleri hem de bölgenin coğrafi özelliklerini sunuyor. Tepe, farklı mevsimlerde çeşitli renkler ve manzaralar sunuyor ve bu nedenle, her mevsim ziyaret edilebilir. Kozabezari Tepesi, coğrafi konumu itibariyle, bölgenin en önemli güzelliklerinden biri olarak kabul ediliyor.
+Kozabezari Tepesi, coğrafi olarak Güneydoğu Anadolu Bölgesi'nin en önemli noktalarından biri olarak kabul ediliyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Kozabezari Tepesi'nin coğrafyası, ziyaretçilerine hem doğal güzellikleri hem de bölgenin coğrafi özelliklerini sunuyor. Tepe, farklı mevsimlerde çeşitli renkler ve manzaralar sunuyor ve bu nedenle, her mevsim ziyaret edilebilir. Kozabezari Tepesi, coğrafi konumu itibariyle, bölgenin en önemli güzelliklerinden biri olarak kabul ediliyor.
 
 ## Flora ve Fauna
 

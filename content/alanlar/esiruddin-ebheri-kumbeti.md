@@ -29,7 +29,7 @@ wikidata_id: "Q135582195"
 
 # Esirüddin Ebheri Kümbeti
 
-Afyonkarahisar'ın Çay ilçesinde yer alan Esirüddin Ebheri Kümbeti, yüzyılların gizemini taşıyan birHistorik yapıdır. 140 hektarlık bir alan üzerinde bulunan kümbet, yaklaşık 200 futbol sahası büyüklüğünde bir arazide yer alır. Bu tarihi yapı, ziyaretçilerini geçmişin derinliklerine götürerek, bir zaman yolculuğuna çıkarır. Esirüddin Ebheri Kümbeti, Afyonkarahisar'ın tarihi ve kültürel mirasının önemli bir parçasıdır.
+Afyonkarahisar'ın Çay ilçesinde yer alan Esirüddin Ebheri Kümbeti, yüzyılların gizemini taşıyan birHistorik yapıdır. Bu tarihi yapı, ziyaretçilerini geçmişin derinliklerine götürerek, bir zaman yolculuğuna çıkarır. Esirüddin Ebheri Kümbeti, Afyonkarahisar'ın tarihi ve kültürel mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 
@@ -41,7 +41,7 @@ Esirüddin Ebheri Kümbeti, Afyonkarahisar'ın Çay ilçesinde yer alır. Bu bö
 
 ## Flora ve Fauna
 
-Esirüddin Ebheri Kümbeti'nin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bu bölge, mevsimsel değişimlerle birlikte, farklı canlı türlerine ev sahipliği yapar. Bahar aylarında, çevredeki bitki türleri renklenerek, bir doğa harikası sunar. Kış aylarında ise, karla kaplanan bölge, bir kış masalı gibi görünür. Bu değişimlerle birlikte, bölge, ziyaretçilerine her mevsim farklı bir güzellik sunar.
+ Bu bölge, mevsimsel değişimlerle birlikte, farklı canlı türlerine ev sahipliği yapar. Bahar aylarında, çevredeki bitki türleri renklenerek, bir doğa harikası sunar. Kış aylarında ise, karla kaplanan bölge, bir kış masalı gibi görünür. Bu değişimlerle birlikte, bölge, ziyaretçilerine her mevsim farklı bir güzellik sunar.
 
 ## Ziyaret Bilgileri
 
@@ -51,6 +51,6 @@ Esirüddin Ebheri Kümbeti'ni ziyaret etmek, geçmişin gizemini keşfetmek iste
 
 - Esirüddin Ebheri Kümbeti, Afyonkarahisar'ın tarihi ve kültürel mirasının önemli bir parçasıdır.
 - Kümbet, yüzyılların gizemini taşıyan birHistorik yapıdır.
-- Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker.
+
 - Esirüddin Ebheri Kümbeti, ziyaretçilerine bir zaman yolculuğuna çıkarır.
-- Kümbet, yaklaşık 200 futbol sahası büyüklüğünde bir arazide yer alır.
+

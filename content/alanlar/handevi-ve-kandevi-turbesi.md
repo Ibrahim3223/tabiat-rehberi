@@ -1,7 +1,7 @@
 ---
 title: "Handevi ve Kandevi Türbesi"
 date: "2026-01-10T06:56:22.675Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390883"
 
 # Handevi ve Kandevi Türbesi
 
-Handevi ve Kandevi Türbesi, İç Anadolu Bölgesi'nin kalbinde, Konya'nın Ilgın ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin önemli tarihi ve kültürel miraslarından biridir. Bu türbe, aynı zamanda bölgenin önemli dini merkezlerinden biri olarak kabul edilmektedir. Ilgın'ın merkezi ile türbe arasındaki uzun bir mesafelik mesafe, ziyaretçilerin kolayca ulaşabilmesini sağlamaktadır.
+Handevi ve Kandevi Türbesi, İç Anadolu Bölgesi'nin kalbinde, Konya'nın Ilgın ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu türbe, aynı zamanda bölgenin önemli dini merkezlerinden biri olarak kabul edilmektedir. Ilgın'ın merkezi ile türbe arasındaki uzun bir mesafelik mesafe, ziyaretçilerin kolayca ulaşabilmesini sağlamaktadır.
 
 ## Tarihçe
 

@@ -30,7 +30,7 @@ wikidata_id: "Q1560106"
 
 # Gülhane Parkı
 
-Gülhane Parkı, İstanbul'un kalbinde, Fatih ilçesinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Parkın tarihi geçmişine bakıldığında, Topkapı Sarayı'nın avlusunun bir parçası olduğu ve zaman içinde çeşitli değişikliklere uğradığı görülür. Günümüzde ise hem İstanbul halkının hem de turistlerin ziyaret etmekten keyif aldığı bir destinasyondur.
+Gülhane Parkı, İstanbul'un kalbinde, Fatih ilçesinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir parktır. Parkın tarihi geçmişine bakıldığında, Topkapı Sarayı'nın avlusunun bir parçası olduğu ve zaman içinde çeşitli değişikliklere uğradığı görülür. Günümüzde ise hem İstanbul halkının hem de turistlerin ziyaret etmekten keyif aldığı bir destinasyondur.
 
 ## Tarihçe
 
@@ -52,6 +52,6 @@ Gülhane Parkı, yılın her döneminde ziyaret edilebilir. İlkbahar ve yaz ayl
 
 - Gülhane Parkı, İstanbul'un en eski parklarından biridir.
 - Parkta, Topkapı Sarayı'nın tarihi anıtları bulunur.
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Park, yılın her döneminde ziyaret edilebilir.
 - Parkta, çeşitli bitki ve hayvan türleri bulunur.

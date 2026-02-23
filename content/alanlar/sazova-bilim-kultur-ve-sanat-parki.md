@@ -34,7 +34,7 @@ Eskişehir'in kalbinde, bilim ve sanatın bir araya geldiği Sazova Bilim Kült�
 
 ## Tarihçe
 
-Eskişehir, tarihin sâu sayfalarında yer alan bir bölge. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, her dönemde önemli bir yerleşim ve ticaret merkezi olarak görev üstlendi. Sazova Bilim Kültür ve Sanat Parkı, bu zengin tarihsel mirasın bir parçası olarak, Eskişehir'in doğa severler için önemli bir çekim merkezi haline geldi.
+Eskişehir, tarihin derin sayfalarında yer alan bir bölge. Hitit, Frig, Roma ve Osmanlı gibi uygarlıkların izlerini taşıyan bu topraklar, her dönemde önemli bir yerleşim ve ticaret merkezi olarak görev üstlendi. Sazova Bilim Kültür ve Sanat Parkı, bu zengin tarihsel mirasın bir parçası olarak, Eskişehir'in doğa severler için önemli bir çekim merkezi haline geldi.
 
 Türkiye'de botanik bahçeleri ve doğal alanlar, uzun bir geçmişe sahip. Bu tür alanlar, sadece doğal güzelliklerinin yanı sıra, bilim ve eğitim için de önemli merkezler olarak kabul ediliyor. İnsanların doğa ile ilişkisi, tarih boyunca various şekillerde devam etti. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu bölgeyle olan bağını güçlendirdi. Sazova Bilim Kültür ve Sanat Parkı, bu bağlamda, Eskişehir'in kültürel ve doğal zenginliklerini bir araya getiren bir merkez olarak ortaya çıktı. Bu park, ziyaretçilere hem doğal güzellikleri keşfetme hem de bilim ve sanatla iç içe olma fırsatı sunuyor.
 
@@ -50,9 +50,9 @@ Sazova Bilim Kültür ve Sanat Parkı, çevresindeki ekosistemle güçlü bir ba
 
 ## Flora ve Fauna
 
-Sazova Bilim Kültür ve Sanat Parkı, Eskişehir'in kalbinde yer alan 1200 hektarlık bir botanik bahçesi olarak, step bitki örtüsüne özgü kuraklığa adapte türlerle dolu bir cennet sunuyor. İlkbahar aylarında, bozkırın rengarenk çiçekleriyle süsleniyor; sarı, pembe ve mor renklere bürünen bu manzara, ziyaretçilere büyüleyici bir deneyim sunuyor. 
+Sazova Bilim Kültür ve Sanat Parkı, Eskişehir'in kalbinde yer alan 1200 hektarlık bir botanik bahçesi olarak, step bitki örtüsüne özgü kuraklığa adapte türlerle dolu bir cennet sunuyor. İlkbahar aylarında, bozkırın rengarenk çiçekleriyle süsleniyor; sarı, pembe ve mor renklere bürünen bu manzara, ziyaretçilere büyüleyici bir deneyim sunuyor.
 
-Bu bölgede, bozkırın karakteristik bitkileri gibi otlar ve dikenli çalılar hakimdir. Step bitkilerinin mevsimsel değişimlerine tanık olma mümkün; yaz aylarında kuraklığa dayanıklı bitkiler, sonbaharda ise göçmen kuşların konakladığı yerler olarak işlev görüyorlar. 
+Bu bölgede, bozkırın karakteristik bitkileri gibi otlar ve dikenli çalılar hakimdir. Step bitkilerinin mevsimsel değişimlerine tanık olma mümkün; yaz aylarında kuraklığa dayanıklı bitkiler, sonbaharda ise göçmen kuşların konakladığı yerler olarak işlev görüyorlar.
 
 Parkın yaban hayatı, memelilerden kuşlara, sürüngenlere kadar çeşitlilik gösterir. Bu ekosistemde, bitkiler ve hayvanlar arasında güçlü bir ilişki mevcut; bazı bitkiler belirli kuş türlerinin beslenmesi için gerekli tohumları sağlarken, diğerleri memelilerin barınma alanlarını oluşturuyor. Bu denge, Sazova Bilim Kültür ve Sanat Parkı'nın ekolojik değerini vurguluyor.
 

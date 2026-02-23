@@ -30,7 +30,7 @@ wikidata_id: "Q190210"
 
 # Mykonos
 
-Mikonos belediyesi, Türkiye'nin en güzel köşelerinden biri olan Mikonos ilçesinde yer alıyor. Mikonos, Ege Denizi'nin mavilikleri ve históriki dokusuyla dikkat çekiyor. Mikonos ilçesinde bulunan bu bölge, ziyaretçilerini geçmişin izleriyle dolu sokaklarına davet ediyor. Mikonos belediyesi, Mikonos ilçesinin kalbinde yer alan önemli bir yerleşim merkezi konumunda.
+Mikonos belediyesi, Türkiye'nin en güzel köşelerinden biri olan Mikonos ilçesinde yer alıyor. Mikonos, Ege Denizi'nin mavilikleri ve tarihi dokusuyla dikkat çekiyor. Mikonos ilçesinde bulunan bu bölge, ziyaretçilerini geçmişin izleriyle dolu sokaklarına davet ediyor. Mikonos belediyesi, Mikonos ilçesinin kalbinde yer alan önemli bir yerleşim merkezi konumunda.
 
 ## Tarihçe
 

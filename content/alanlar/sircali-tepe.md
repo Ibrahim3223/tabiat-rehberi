@@ -50,7 +50,7 @@ Sırçalı Tepe, çevresindeki su kaynakları ve ekosistem ile önemli bir iliş
 
 ## Flora ve Fauna
 
-Sırçalı Tepe, Yozgat'ın bozkır manzarasına hakim bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Sırçalı Tepe, Yozgat'ın bozkır manzarasına hakim bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Bitki örtüsü olarak step ve bozkır türleri hakim. İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanıyor. Sonbaharda ise, göç eden kuş sürüleri bu dağları geçiş noktası olarak kullanıyor.
 
 Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin. Dağ keçileri, yaban domuzları ve tilkiler, bu bölgenin memeli temsilcileri. Kuşlar arasında, göçmen türler ve yerli türler bir arada yaşıyor. Sürüngenler, özellikle yılan ve kertenkele türleri, kuraklığa adapte olmuş türler.
@@ -63,7 +63,7 @@ Sırçalı Tepe, Yozgat'ın gizli bir incisi. Buraya gitmeden önce, Yozgat merk
 
 ## İlginç Bilgiler
 
-- Yozgat ili sınırları içerisinde yer alan Sırçalı Tepe, históri ve coğrafi açıdan önemli bir bölgedir.
+- Yozgat ili sınırları içerisinde yer alan Sırçalı Tepe, tarihi ve coğrafi açıdan önemli bir bölgedir.
 - Sırçalı Tepe, Yozgat'ın merkezine yaklaşık 5 kilometre uzaklıktadır.
 - Bu bölge, özellikle tarihi eserler ve arkeolojik kazılar açısından zengin bir alandır.
 - Sırçalı Tepe, Yozgat ilinin önemli turizm noktalarından biridir.

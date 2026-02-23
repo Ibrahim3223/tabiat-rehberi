@@ -1,7 +1,7 @@
 ---
 title: "Demircili Aşağı Anıt Mezar"
 date: "2026-01-10T03:52:36.912Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mersin"
@@ -29,7 +29,7 @@ wikidata_id: "Q134728151"
 
 # Demircili Aşağı Anıt Mezar
 
-Demircili Aşağı Anıt Mezar, Mersin'in Silifke ilçesinde bulunan tarihi bir anıt mezar olarak dikkat çekiyor. Bu alan, yaklaşık 140 hektarlık bir yeşil alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne karşılık geliyor. Tarihî geçmişi ile dikkat çeken bu mezar, ziyaretçilerini geçmişe götürmeyi başarıyor. Silifke'nin tarihi zenginliklerini keşfetmek isteyenler için Demircili Aşağı Anıt Mezar, önemli bir durak olarak karşımıza çıkıyor.
+Demircili Aşağı Anıt Mezar, Mersin'in Silifke ilçesinde bulunan tarihi bir anıt mezar olarak dikkat çekiyor. Tarihî geçmişi ile dikkat çeken bu mezar, ziyaretçilerini geçmişe götürmeyi başarıyor. Silifke'nin tarihi zenginliklerini keşfetmek isteyenler için Demircili Aşağı Anıt Mezar, önemli bir durak olarak karşımıza çıkıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Demircili Aşağı Anıt Mezar, tarihin derinliklerine ışık tutan bir geçmi�
 
 ## Coğrafya
 
-Demircili Aşağı Anıt Mezar, Mersin'in Silifke ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Coğrafî olarak, bu bölge, yeşilin ve mavinin bir arada olduğu benzersiz bir güzelliğe sahip. Mezarın bulunduğu alan, 140 hektarlık bir yeşil alan olarak dikkat çekiyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne karşılık geliyor. Bu bölgenin coğrafyası, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Silifke'nin coğrafî konumu, ziyaretçilerin diğer tarihi ve doğal güzelliklere de kolayca ulaşabilmesini sağlıyor. Mezarın etrafı, zengin flora ve fauna ile ilmiş durumda ve bu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
+Demircili Aşağı Anıt Mezar, Mersin'in Silifke ilçesinde, Akdeniz Bölgesi'nde yer alıyor. Coğrafî olarak, bu bölge, yeşilin ve mavinin bir arada olduğu benzersiz bir güzelliğe sahip. Bu bölgenin coğrafyası, ziyaretçilere hem tarihi hem de doğal güzellikleri keşfetme fırsatı sunuyor. Silifke'nin coğrafî konumu, ziyaretçilerin diğer tarihi ve doğal güzelliklere de kolayca ulaşabilmesini sağlıyor. Mezarın etrafı, zengin flora ve fauna ile ilmiş durumda ve bu, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor.
 
 ## Flora ve Fauna
 

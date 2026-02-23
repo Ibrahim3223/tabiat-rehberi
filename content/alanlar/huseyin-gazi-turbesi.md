@@ -1,7 +1,7 @@
 ---
 title: "Hüseyin Gazi Türbesi"
 date: "2026-01-10T07:49:16.495Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391192"
 
 # Hüseyin Gazi Türbesi
 
-Hüseyin Gazi Türbesi, Ankara'nın Mamak ilçesinde yer alan tarihi bir türbe ve plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli ağaçlar ve bitkiler bulunur. Bu alan, hem tarihi açıdan hem de doğası ile dikkat çekmektedir. Hüseyin Gazi Türbesi, birçok ziyaretçi tarafından hem tarihi önemi hem de doğal güzelliği nedeniyle tercih edilmektedir. Türbenin çevresinde,historik öneme sahip yapılar ve anıtlar da bulunmaktadır.
+Hüseyin Gazi Türbesi, Ankara'nın Mamak ilçesinde yer alan tarihi bir türbe ve plajdır. Bu alan, hem tarihi açıdan hem de doğası ile dikkat çekmektedir. Hüseyin Gazi Türbesi, birçok ziyaretçi tarafından hem tarihi önemi hem de doğal güzelliği nedeniyle tercih edilmektedir. Türbenin çevresinde,historik öneme sahip yapılar ve anıtlar da bulunmaktadır.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hüseyin Gazi Türbesi, tarihsel geçmişi ile dikkat çekmektedir. Tarihi olduk
 
 ## Coğrafya
 
-Hüseyin Gazi Türbesi, İç Anadolu Bölgesi'nde, Ankara'nın Mamak ilçesinde yer almakta ve coğrafi olarak önemli bir konuma sahiptir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresinde çeşitli ağaçlar ve bitkiler bulunur. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir ve karasal iklim özellikleri görülür. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Hüseyin Gazi Türbesi ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölge, doğal güzelliği ile dikkat çekmekte ve birçok ziyaretçi tarafından tercih edilmektedir. Ayrıca, türbenin yakınında, Ankara'nın önemli doğal ve tarihi yerleri de bulunmaktadır.
+Hüseyin Gazi Türbesi, İç Anadolu Bölgesi'nde, Ankara'nın Mamak ilçesinde yer almakta ve coğrafi olarak önemli bir konuma sahiptir. Bu bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösterir ve karasal iklim özellikleri görülür. Kışlar soğuk ve kar yağışlı, yazlar ise sıcak ve kurudur. Hüseyin Gazi Türbesi ve çevresinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Bu bölge, doğal güzelliği ile dikkat çekmekte ve birçok ziyaretçi tarafından tercih edilmektedir. Ayrıca, türbenin yakınında, Ankara'nın önemli doğal ve tarihi yerleri de bulunmaktadır.
 
 ## Flora ve Fauna
 

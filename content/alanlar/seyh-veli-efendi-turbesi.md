@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Veli Efendi Türbesi"
 date: "2026-01-10T07:06:05.071Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Isparta"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390829"
 
 # Şeyh Veli Efendi Türbesi
 
-Isparta'nın Atabey ilçesinde, Akdeniz Bölgesi'nin güzide noktalarından biri olan Şeyh Veli Efendi Türbesi, hem tarihi hem de doğal güzelliklerin birleştiği özel bir yer. Bu alan, yaklaşık 140 hektarlık bir genişliğe sahip ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne denk geliyor. Şeyh Veli Efendi Türbesi, ziyaretçilerini hem tarihi zenginliklerle hem de doğal güzelliklerle karşılayacak bir destinasyon. Burada, tarihi geçmişi ve doğal güzelliği bir arada keşfetme mümkün.
+Isparta'nın Atabey ilçesinde, Akdeniz Bölgesi'nin güzide noktalarından biri olan Şeyh Veli Efendi Türbesi, hem tarihi hem de doğal güzelliklerin birleştiği özel bir yer. Şeyh Veli Efendi Türbesi, ziyaretçilerini hem tarihi zenginliklerle hem de doğal güzelliklerle karşılayacak bir destinasyon. Burada, tarihi geçmişi ve doğal güzelliği bir arada keşfetme mümkün.
 
 ## Tarihçe
 
@@ -46,7 +46,7 @@ Isparta'nın Atabey ilçesinde, Akdeniz Bölgesi'nin güzide noktalarından biri
 
 ## Ziyaret Bilgileri
 
-Şeyh Veli Efendi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini keşfetmek için ideal bir fırsat. Buraya ulaşmak için, Atabey ilçesine gelme ve ardından türbeye giden yol izlenmeli. Ziyaretçiler, türbenin histórik yapısını ve çevredeki doğal güzelliği keşfedebilir. Şeyh Veli Efendi Türbesi, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları, daha ılıman bir iklim sunuyor. Ziyaret süresi, ziyaretçinin ilgisine ve gezi planına göre değişebilir.
+Şeyh Veli Efendi Türbesi'ni ziyaret etmek, hem tarihi hem de doğal güzelliklerini keşfetmek için ideal bir fırsat. Buraya ulaşmak için, Atabey ilçesine gelme ve ardından türbeye giden yol izlenmeli. Ziyaretçiler, türbenin tarihi yapısını ve çevredeki doğal güzelliği keşfedebilir. Şeyh Veli Efendi Türbesi, yılın her dönemi ziyaret edilebilir, ancak ilkbahar ve sonbahar ayları, daha ılıman bir iklim sunuyor. Ziyaret süresi, ziyaretçinin ilgisine ve gezi planına göre değişebilir.
 
 ## İlginç Bilgiler
 

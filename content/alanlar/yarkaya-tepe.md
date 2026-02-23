@@ -28,7 +28,7 @@ wikidata_id: "Q31387538"
 
 # Yarkaya Tepe
 
-Yarkaya Tepe, Çanakkale'nin önemli güzelliklerinden biridir. Marmara Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeye karşılık gelir. Bu bölge, hem doğal güzelliği hem de çevreye olan etkileri nedeniyle dikkat çekicidir. Yarkaya Tepe, ziyaretçilerine geniş bir manzara sunar ve çeşitli bitki türleri ile zengin bir ekosisteme sahiptir.
+Yarkaya Tepe, Çanakkale'nin önemli güzelliklerinden biridir. Marmara Bölgesi'nde yer alan bu tepe, yaklaşık 140 hektarlık bir alanı kaplar. Bu bölge, hem doğal güzelliği hem de çevreye olan etkileri nedeniyle dikkat çekicidir. Yarkaya Tepe, ziyaretçilerine geniş bir manzara sunar ve çeşitli bitki türleri ile zengin bir ekosisteme sahiptir.
 
 ## Tarihçe
 

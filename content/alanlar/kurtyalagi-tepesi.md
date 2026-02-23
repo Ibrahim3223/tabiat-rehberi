@@ -28,7 +28,7 @@ wikidata_id: "Q31511864"
 
 # Kurtyalağı Tepesi
 
-Kurtyalağı Tepesi, Tunceli'nin doğal güzelliklerini barındıran bir bölge olarak dikkat çekiyor. Doğu Anadolu Bölgesi'nin bu güzel köşesinde, 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alan, doğa severlerin ilgisini çekiyor. Kurtyalağı Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor ve bu bölge, hem doğa hem de tarih açısından önemli bir konumda yer alıyor. Bu tepe, Tunceli'nin önemli noktalarından biri olarak biliniyor ve doğa severler için bir cennet olarak düşünülüyor.
+Kurtyalağı Tepesi, Tunceli'nin doğal güzelliklerini barındıran bir bölge olarak dikkat çekiyor. Kurtyalağı Tepesi, ziyaretçilerini doğal güzellikleriyle büyülüyor ve bu bölge, hem doğa hem de tarih açısından önemli bir konumda yer alıyor. Bu tepe, Tunceli'nin önemli noktalarından biri olarak biliniyor ve doğa severler için bir cennet olarak düşünülüyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kurtyalağı Tepesi, tarihi geçmişi ile de dikkat çekiyor. Bu bölge, yüzyı
 
 ## Coğrafya
 
-Kurtyalağı Tepesi, coğrafi olarak Tunceli'nin merkezi bir bölgesinde yer alıyor. Bu tepe, doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerini büyülüyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu alan, doğa severlerin ilgisini çekiyor. Kurtyalağı Tepesi, Tunceli'nin coğrafi yapısını oluşturan dağlar ve vadiler ile çevrili bir bölgede yer alıyor. Bu bölge, iklim açısından da dikkat çekiyor ve ziyaretçilerine dört mevsim farklı güzellikler sunuyor. Kurtyalağı Tepesi, coğrafi konumu itibari ile, doğa severler için bir cennet olarak düşünülüyor.
+Kurtyalağı Tepesi, coğrafi olarak Tunceli'nin merkezi bir bölgesinde yer alıyor. Bu tepe, doğal güzellikleri ile dikkat çekiyor ve ziyaretçilerini büyülüyor. Kurtyalağı Tepesi, Tunceli'nin coğrafi yapısını oluşturan dağlar ve vadiler ile çevrili bir bölgede yer alıyor. Bu bölge, iklim açısından da dikkat çekiyor ve ziyaretçilerine dört mevsim farklı güzellikler sunuyor. Kurtyalağı Tepesi, coğrafi konumu itibari ile, doğa severler için bir cennet olarak düşünülüyor.
 
 ## Flora ve Fauna
 

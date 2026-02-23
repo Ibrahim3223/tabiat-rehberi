@@ -1,7 +1,7 @@
 ---
 title: "Hamam 2"
 date: "2026-01-09T23:18:48.567Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738972"
 
 # Hamam 2
 
-Hamam 2 plajı, İzmir'in Selçuk ilçesinde yer alan ve Ege Bölgesi'nin güzide noktalarından biri olan bir destinasyon. Bu plaj, yaklaşık 140 hektarlık bir alanda, güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir nokta. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu özelliği ile geniş bir alan sunuyor. Burada, denizin serinliği ve güneşin sıcaklığını bir arada deneyimleme mümkün.
+Hamam 2 plajı, İzmir'in Selçuk ilçesinde yer alan ve Ege Bölgesi'nin güzide noktalarından biri olan bir destinasyon. Bu plaj, yaklaşık 140 hektarlık bir alanda, güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir nokta. Burada, denizin serinliği ve güneşin sıcaklığını bir arada deneyimleme mümkün.
 
 ## Tarihçe
 

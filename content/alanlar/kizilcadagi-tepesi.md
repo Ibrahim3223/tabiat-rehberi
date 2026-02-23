@@ -28,7 +28,7 @@ wikidata_id: "Q31512696"
 
 # Kızılcadağı Tepesi
 
-Kızılcadağı Tepesi, İzmir'in güzide mekanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için bir sığınak görevi görür. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu zengin flora, ziyaretçilere doğanın güzelliğini gösterir. Kızılcadağı Tepesi, hem doğa severler hem de tarih meraklıları tarafından ziyaret edilen bir yerdir. Tepenin etrafında tarihi kalıntılar ve anıtlar vardır ve bunlar, bölgenin zengin geçmişini anlatır.
+Kızılcadağı Tepesi, İzmir'in güzide mekanlarından biridir. Tepenin eteklerinde çeşitli bitki türleri bulunur ve bu zengin flora, ziyaretçilere doğanın güzelliğini gösterir. Kızılcadağı Tepesi, hem doğa severler hem de tarih meraklıları tarafından ziyaret edilen bir yerdir. Tepenin etrafında tarihi kalıntılar ve anıtlar vardır ve bunlar, bölgenin zengin geçmişini anlatır.
 
 ## Tarihçe
 

@@ -49,11 +49,11 @@ Doğal bir çekim merkezi olan Köklüce Dağı, çevresindeki alanlarla da yak�
 
 ## Flora ve Fauna
 
-Köklüce Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Ilkbaharın gelmesiyle birlikte, 1200 metre yükseklikteki zirvelerinde alpin flora çeşitliliği ortaya çıkarken, dağ eteklerinde bozkırın kuraklığa adapte olmuş türleri görülüyor. 
+Köklüce Dağı, step bitki örtüsünün hakim olduğu bir dağ ekosistemi olarak dikkat çekiyor. Ilkbaharın gelmesiyle birlikte, 1200 metre yükseklikteki zirvelerinde alpin flora çeşitliliği ortaya çıkarken, dağ eteklerinde bozkırın kuraklığa adapte olmuş türleri görülüyor.
 
-Bitki örtüsünün mevsimsel değişimine tanık olma mümkün; ilkbaharda renkli çiçekler açarken, sonbaharda sararan otların arasında göçmen kuşlar görülebiliyor. 
+Bitki örtüsünün mevsimsel değişimine tanık olma mümkün; ilkbaharda renkli çiçekler açarken, sonbaharda sararan otların arasında göçmen kuşlar görülebiliyor.
 
-Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zenginleştiriliyor. Dağ keçileri ve yaban keçileri gibi memeliler, yükseklik zonlarında yaşamını sürdürürken, kartallar ve şahinler gibi yırtıcı kuşlar, gökyüzünde süzülerek avlarını bekliyor. 
+Yaban hayatı ise memeliler, kuşlar ve sürüngenlerle zenginleştiriliyor. Dağ keçileri ve yaban keçileri gibi memeliler, yükseklik zonlarında yaşamını sürdürürken, kartallar ve şahinler gibi yırtıcı kuşlar, gökyüzünde süzülerek avlarını bekliyor.
 
 Köklüce Dağı, bu ekolojik çeşitliliğiyle önemli bir koruma alanı olarak dikkat çekiyor. Dağ ekosisteminin korunması, sadece burada yaşayan türlerin değil, aynı zamanda bölgenin su döngüsünün ve topra verimliliğinin de korunmasını sağlıyor. Bu nedenle, Köklüce Dağı, ekolojik değerini korumak için önemli bir bölge olarak kabul ediliyor.
 

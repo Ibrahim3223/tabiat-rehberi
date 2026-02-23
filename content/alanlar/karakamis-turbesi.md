@@ -1,7 +1,7 @@
 ---
 title: "Karakamış Türbesi"
 date: "2026-01-10T05:14:59.716Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sakarya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391605"
 
 # Karakamış Türbesi
 
-Karakamış Türbesi, Marmara Bölgesi'nin Sakarya iline bağlı Adapazarı'nda yer alan tarihi ve doğal güzellikleriyle dikkat çekici bir mekan. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde. Karakamış Türbesi, hem tarihi hem de doğal güzellikleri nedeniyle ziyaretçilerini cezbediyor. Bu bölge, Sakarya ilinin önemli turizm noktalarından biri olarak biliniyor.
+Karakamış Türbesi, Marmara Bölgesi'nin Sakarya iline bağlı Adapazarı'nda yer alan tarihi ve doğal güzellikleriyle dikkat çekici bir mekan. Karakamış Türbesi, hem tarihi hem de doğal güzellikleri nedeniyle ziyaretçilerini cezbediyor. Bu bölge, Sakarya ilinin önemli turizm noktalarından biri olarak biliniyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Karakamış Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu
 
 ## Coğrafya
 
-Karakamış Türbesi, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu bölgenin coğrafyası, ziyaretçilerine doğal güzellikler sunuyor. 180 hektarlık bir alana yayılan bu bölge, yaklaşık 250 futbol sahası büyüklüğünde. İklim olarak, Karakamış Türbesi ve çevresinde, Marmara Bölgesi'nin tipik iklimi hakim. Bu bölgede, çeşitli mevsimlerde farklı doğa güzellikleri yaşanıyor. Coğrafi konumu, Karakamış Türbesi'ni özel bir yer haline getiriyor.
+Karakamış Türbesi, Marmara Bölgesi'nin coğrafi yapısına uygun olarak, çeşitli bitki türleri ve zengin fauna ile çevrili. Bu bölgenin coğrafyası, ziyaretçilerine doğal güzellikler sunuyor. İklim olarak, Karakamış Türbesi ve çevresinde, Marmara Bölgesi'nin tipik iklimi hakim. Bu bölgede, çeşitli mevsimlerde farklı doğa güzellikleri yaşanıyor. Coğrafi konumu, Karakamış Türbesi'ni özel bir yer haline getiriyor.
 
 ## Flora ve Fauna
 

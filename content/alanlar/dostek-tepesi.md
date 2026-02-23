@@ -28,7 +28,7 @@ wikidata_id: "Q31549071"
 
 # Dostek Tepesi
 
-Dostek Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve doğa severlerin ilgi odağı olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Dostek Tepesi, ziyaretçilerini farklı manzaralar ve doğal güzelliklerle karşılar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bu bitki türleri, bölgenin ekolojik dengesini korur ve canlılara yaşam alanı sağlar. Dostek Tepesi, aynı zamanda tarihsel bir geçmişe sahip. Tarihi geçmişi, bölgenin kültürel zenginliğini gösterir.
+Dostek Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan ve doğa severlerin ilgi odağı olan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor. Dostek Tepesi, ziyaretçilerini farklı manzaralar ve doğal güzelliklerle karşılar. Tepenin eteklerinde ve çevresinde çeşitli bitki türleri bulunur. Bu bitki türleri, bölgenin ekolojik dengesini korur ve canlılara yaşam alanı sağlar. Dostek Tepesi, aynı zamanda tarihsel bir geçmişe sahip. Tarihi geçmişi, bölgenin kültürel zenginliğini gösterir.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31387742"
 
 # Kurunlar Tepesi
 
-Kurunlar Tepesi, Erzurum'un görkemli manzaralarına tanıklık eden bir doğal güzelliğimiz. Bu tepenin bulunduğu Doğu Anadolu Bölgesi, ülkemizin en önemli coğrafi bölgelerinden biri. Kurunlar Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Tepenin yüksekliği ve genişliği, burayı bir gözlem noktası haline getirerek, etraftaki dağları ve vadileri izlemeye olanak tanıyor.
+Kurunlar Tepesi, Erzurum'un görkemli manzaralarına tanıklık eden bir doğal güzelliğimiz. Bu tepenin bulunduğu Doğu Anadolu Bölgesi, ülkemizin en önemli coğrafi bölgelerinden biri. Bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Tepenin yüksekliği ve genişliği, burayı bir gözlem noktası haline getirerek, etraftaki dağları ve vadileri izlemeye olanak tanıyor.
 
 ## Tarihçe
 

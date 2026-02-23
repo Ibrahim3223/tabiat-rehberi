@@ -28,7 +28,7 @@ wikidata_id: "Q31535113"
 
 # Kurtyoce Tepesi
 
-Gaziantep'in doğal güzelliklerini keşfetmek isteyenler için Kurtyoce Tepesi, önemli bir destinasyon. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve ziyaretçilere geniş bir manzara sunar. Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini gözlemlemek için ideal bir nokta olan Kurtyoce Tepesi, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir durak.
+Gaziantep'in doğal güzelliklerini keşfetmek isteyenler için Kurtyoce Tepesi, önemli bir destinasyon. Güneydoğu Anadolu Bölgesi'nin coğrafi özelliklerini gözlemlemek için ideal bir nokta olan Kurtyoce Tepesi, aynı zamanda bölgenin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir durak.
 
 ## Tarihçe
 

@@ -29,15 +29,15 @@ wikidata_id: "Q134728240"
 
 # Ermenek Karapınar Örenyeri
 
-Ermenek Karapınar Örenyeri, Karaman'ın Ermenek ilçesinde yer alan ve tarihi ile doğal güzelliklerini bir arada sunan özel bir bölge. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Doğal güzelliği ve tarihi önemi ile dikkat çeken bu ören yeri, aynı zamanda bölgenin kültürel mirasının önemli bir parçasını oluşturuyor. Ziyaretçiler, burada hem doğanın güzelliğini keşfedebilir hem de tarihi yapıları inceleyerek bölgenin geçmişini öğrenebilirler.
+Ermenek Karapınar Örenyeri, Karaman'ın Ermenek ilçesinde yer alan ve tarihi ile doğal güzelliklerini bir arada sunan özel bir bölge. Doğal güzelliği ve tarihi önemi ile dikkat çeken bu ören yeri, aynı zamanda bölgenin kültürel mirasının önemli bir parçasını oluşturuyor. Ziyaretçiler, burada hem doğanın güzelliğini keşfedebilir hem de tarihi yapıları inceleyerek bölgenin geçmişini öğrenebilirler.
 
 ## Tarihçe
 
-Ermenek Karapınar Örenyeri'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyor. Bu bölge, tarihin farklı dönemlerinde önemli bir yerleşim ve ticaret merkezi olarak görev yaptı. Tarihi yapılar ve kalıntılar, bu ören yerinin geçmişinin zenginliğini ve çeşitliliğini gösteriyor. Ziyaretçiler, bu tarihi alanları gezerken, geçmişin izlerini takip ederek, o dönemlerin kültürel ve sosyal yaşamını öğrenebilirler. Ermenek Karapınar Örenyeri, Karaman'ın tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor ve ziyaretçilere zengin bir tarihî expérience sunuyor.
+Ermenek Karapınar Örenyeri'nin tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların izlerini taşıyor. Bu bölge, tarihin farklı dönemlerinde önemli bir yerleşim ve ticaret merkezi olarak görev yaptı. Tarihi yapılar ve kalıntılar, bu ören yerinin geçmişinin zenginliğini ve çeşitliliğini gösteriyor. Ziyaretçiler, bu tarihi alanları gezerken, geçmişin izlerini takip ederek, o dönemlerin kültürel ve sosyal yaşamını öğrenebilirler. Ermenek Karapınar Örenyeri, Karaman'ın tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor ve ziyaretçilere zengin bir tarihî deneyim sunuyor.
 
 ## Coğrafya
 
-Ermenek Karapınar Örenyeri, Karaman'ın Ermenek ilçesinde, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Ören yerinin coğrafi yapısı, dağlık ve ovalık alanların bir arada bulunması ile karakterize ediliyor. Bu coğrafi çeşitlilik, ziyaretçilere farklı doğa güzelliklerini keşfetme fırsatı sunuyor. Ayrıca, bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. kışın soğukk, yazın sıcakk olan bu iklim, ziyaretçilere mevsimsel olarak değişen bir doğa güzelliği sunuyor.
+Ermenek Karapınar Örenyeri, Karaman'ın Ermenek ilçesinde, İç Anadolu Bölgesi'nin coğrafi yapısı içinde yer alıyor. Bu bölge, coğrafi olarak çeşitli doğal güzelliklere sahip. Ören yerinin coğrafi yapısı, dağlık ve ovalık alanların bir arada bulunması ile karakterize ediliyor. Bu coğrafi çeşitlilik, ziyaretçilere farklı doğa güzelliklerini keşfetme fırsatı sunuyor. Ayrıca, bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklim özellikleri ile benzerlik gösteriyor. kışın soğukk, yazın sıcakk olan bu iklim, ziyaretçilere mevsimsel olarak değişen bir doğa güzelliği sunuyor.
 
 ## Flora ve Fauna
 

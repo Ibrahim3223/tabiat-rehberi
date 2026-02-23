@@ -1,7 +1,7 @@
 ---
 title: "Kurdunos Hamamı"
 date: "2026-01-09T23:44:01.616Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Niğde"
@@ -29,11 +29,11 @@ wikidata_id: "Q131739198"
 
 # Kurdunos Hamamı
 
-Kurdunos Hamamı, Niğde'nin güzide plajlarından biri olarak, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor. Bu doğal güzellik, İç Anadolu Bölgesi'nin en önemli turizm merkezlerinden biri olarak biliniyor. Kurdunos Hamamı, plajın yanı sıra, zengin flora ve fauna çeşitliliği ile de dikkat çekiyor. Ziyaretçiler, burada hem denize girerek hem de doğa yürüyüşleri yaparak keyifli anlar geçirebiliyorlar.
+ Bu doğal güzellik, İç Anadolu Bölgesi'nin en önemli turizm merkezlerinden biri olarak biliniyor. Kurdunos Hamamı, plajın yanı sıra, zengin flora ve fauna çeşitliliği ile de dikkat çekiyor. Ziyaretçiler, burada hem denize girerek hem de doğa yürüyüşleri yaparak keyifli anlar geçirebiliyorlar.
 
 ## Tarihçe
 
-Kurdunos Hamamı'nın tarihi geçmişi, yüzyıllar boyunca farklı uygarlıkların etkisi altında kalmıştır. Bu bölge, tarih boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmıştır. Kurdunos Hamamı, özellikle İslami dönemlerde önemli bir merkez olarak bilinmiştir. Bu bölgenin tarihi zenginliği, ziyaretçileri için önemli bir çekim merkezi oluşturmaktadır. Kurdunos Hamamı, tarihi ve doğal güzellikleri ile birlikte, ziyaretçilerine unutulmaz anlar yaşatmaktadır. Bu özel mekan, Niğde'nin turizm potansiyelini artırmaya devam etmektedir.
+Kurdunos Hamamı'nın tarihi geçmişi, yüzyıllar boyunca farklı uygarlıkların etkisi altında kalmıştır. Bu bölge, tarih boyunca çeşitli medeniyetlerin yerleşim yeri olarak kullanılmıştır. Kurdunos Hamamı, özellikle İslami dönemlerde önemli bir merkez olarak bilinmiştir. Bu bölgenin tarihi zenginliği, ziyaretçileri için önemli bir çekim merkezi oluşturmaktadır. Bu özel mekan, Niğde'nin turizm potansiyelini artırmaya devam etmektedir.
 
 ## Coğrafya
 

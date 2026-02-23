@@ -36,7 +36,7 @@ Mardin, tarihin derin izlerini taşıyan bir bölgedir. Binlerce yıllık geçmi
 
 Doğal güzelliği ve jeolojik özellikleri ile dikkat çeken bu mağara, Türkiye'nin önemli jeoparklarından biridir. Türkiye'de, benzer doğal alanlar tarih boyunca insanların yaşam alanları, ticaret yolları ve yaylaklar olarak kullanılmıştır. İnsanlar, bu bölgelerde hayvancılık ve tarım faaliyetleri gerçekleştirmiş, ayrıca bu doğal güzelliklerinspiritüel önemi nedeniyle kutsal mekanlar olarak da değerlendirmişlerdir.
 
-Bölgenin coğrafi özellikleri, histórik ticaret yollarının geçiş noktası olmasını sağlamıştır. İnsanlar, bu yollar boyunca seyahat ederken, doğal alanları konaklama noktaları olarak kullanmışlardır. Hatun Mağarası da, bu tarihi ticaret yollarının yakınlarında yer almaktadır. Bu nedenle, bu mağara ve benzeri doğal alanlar, sadece jeolojik açıdan değil, aynı zamanda tarihsel ve kültürel açıdan da önemli birer mirastır.
+Bölgenin coğrafi özellikleri, tarihi ticaret yollarının geçiş noktası olmasını sağlamıştır. İnsanlar, bu yollar boyunca seyahat ederken, doğal alanları konaklama noktaları olarak kullanmışlardır. Hatun Mağarası da, bu tarihi ticaret yollarının yakınlarında yer almaktadır. Bu nedenle, bu mağara ve benzeri doğal alanlar, sadece jeolojik açıdan değil, aynı zamanda tarihsel ve kültürel açıdan da önemli birer mirastır.
 
 ## Coğrafya
 

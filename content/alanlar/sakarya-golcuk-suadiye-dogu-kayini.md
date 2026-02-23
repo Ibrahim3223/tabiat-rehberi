@@ -22,7 +22,7 @@ wikidata_id: "Q108227771"
 
 # Sakarya-Gölcük-Suadiye Dogu Kayini
 
-Sakarya-Gölcük-Suadiye Doğu Kayını, Marmara Bölgesi'nin saklı cenneti olarak bilinen bir milli parktır. Bu 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Burada, doğanın güzelliğini ve çeşitliliğini keşfetme mümkün. Milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. Sakarya-Gölcük-Suadiye Doğu Kayını, doğa severler için bir cennet olarak düşünülebilir.
+Sakarya-Gölcük-Suadiye Doğu Kayını, Marmara Bölgesi'nin saklı cenneti olarak bilinen bir milli parktır. Burada, doğanın güzelliğini ve çeşitliliğini keşfetme mümkün. Milli park, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini büyülüyor. Sakarya-Gölcük-Suadiye Doğu Kayını, doğa severler için bir cennet olarak düşünülebilir.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Sakarya-Gölcük-Suadiye Doğu Kayını'nın tarihi geçmişi, yüzyıllar boyun
 
 ## Coğrafya
 
-Sakarya-Gölcük-Suadiye Doğu Kayını, Marmara Bölgesi'nde yer alan bir milli parktır. Bu bölge, coğrafi olarak 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Milli park, Gölcük ve Suadiye gibi önemli yerleşim merkezlerine yakındır. Coğrafi olarak bakıldığında, bu bölgeyi çevreleyen dağlar ve ormanlar, ziyaretçilere eşsiz bir manzara sunar. İklim olarak, Sakarya-Gölcük-Suadiye Doğu Kayını, Marmara Bölgesi'nin ılıman iklimine sahiptir. Bu, ziyaretçilerin yıl boyunca doğanın güzelliğini keşfetmeleri için ideal koşullar sağlar. Milli park, ziyaretçilerini doğanın kucağına davet eder ve onlara unutulmaz bir deneyim sunar.
+Sakarya-Gölcük-Suadiye Doğu Kayını, Marmara Bölgesi'nde yer alan bir milli parktır. Milli park, Gölcük ve Suadiye gibi önemli yerleşim merkezlerine yakındır. Coğrafi olarak bakıldığında, bu bölgeyi çevreleyen dağlar ve ormanlar, ziyaretçilere eşsiz bir manzara sunar. İklim olarak, Sakarya-Gölcük-Suadiye Doğu Kayını, Marmara Bölgesi'nin ılıman iklimine sahiptir. Bu, ziyaretçilerin yıl boyunca doğanın güzelliğini keşfetmeleri için ideal koşullar sağlar. Milli park, ziyaretçilerini doğanın kucağına davet eder ve onlara unutulmaz bir deneyim sunar.
 
 ## Flora ve Fauna
 

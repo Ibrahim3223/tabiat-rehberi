@@ -32,7 +32,7 @@ Sivas'ın doğa harikalarına ev sahipliği yapan coğrafyasında, Büyükkızı
 
 ## Tarihçe
 
-Sivas bölgesinde yer alan Büyükkızıldağ, tarihin derinliklerine uzanan bir coğrafyanın parçası. Bu bölge, binlerce yıllık bir geçmişe sahip ve çeşitli uygarlıkların izlerini taşır. Hitit, Roma ve Selçuklu gibi medeniyetler, Sivas'ı ve çevresini önemli bir merkez olarak görmüşlerdir. 
+Sivas bölgesinde yer alan Büyükkızıldağ, tarihin derinliklerine uzanan bir coğrafyanın parçası. Bu bölge, binlerce yıllık bir geçmişe sahip ve çeşitli uygarlıkların izlerini taşır. Hitit, Roma ve Selçuklu gibi medeniyetler, Sivas'ı ve çevresini önemli bir merkez olarak görmüşlerdir.
 
 Doğal güzellikleri ve stratejik konumuyla, bu bölge tarih boyunca insanların dikkatini çekmiştir. Yaylacılık ve hayvancılık, bölgenin ekonomisinde önemli bir yer tutmuş, insanların bu doğal alanlarla ilişkisi yüzyıllar boyu sürmüştür. Ayrıca, tarihi İpek Yolu gibi önemli ticaret yolları, Sivas'ı ve çevresiniiyet ve kültürel etkileşimin merkezi haline getirmiştir.
 

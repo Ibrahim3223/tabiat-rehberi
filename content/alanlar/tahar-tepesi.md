@@ -28,7 +28,7 @@ wikidata_id: "Q31556892"
 
 # Tahar Tepesi
 
-Tahar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle kaplı. Tahar Tepesi, ziyaretçilerine doğayla iç içe bir gezi deneyimi sunuyor. Tepenin eteklerinde ve çevresinde, zengin bir fauna çeşitliliği göze çarpmakta. Bu tepenin güzelliği, sadece doğal güzelliğinden değil, aynı zamanda tarihi ve kültürel öneminden de kaynaklanıyor.
+Tahar Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Tahar Tepesi, ziyaretçilerine doğayla iç içe bir gezi deneyimi sunuyor. Tepenin eteklerinde ve çevresinde, zengin bir fauna çeşitliliği göze çarpmakta. Bu tepenin güzelliği, sadece doğal güzelliğinden değil, aynı zamanda tarihi ve kültürel öneminden de kaynaklanıyor.
 
 ## Tarihçe
 

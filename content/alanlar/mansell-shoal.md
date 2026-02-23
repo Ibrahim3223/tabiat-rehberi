@@ -33,7 +33,7 @@ Mansell Shoal, Türkiye'nin kıyılarında yer alan bir ada. Türkiye'de precise
 
 ## Tarihçe
 
-"Mansell Shoal" adasının bulunduğu bölge, tarihin derinliklerinde çeşitli uygarlıkların izlerini taşımaktadır. Bu bölgede, antik dönemlerden beri insan yerleşimleri ve ticaret yolları bulunmaktadır. Türkiye'nin zengin tarihsel mirası, doğal alanların da önemli bir parçası olarak karşımıza çıkmaktadır. 
+"Mansell Shoal" adasının bulunduğu bölge, tarihin derinliklerinde çeşitli uygarlıkların izlerini taşımaktadır. Bu bölgede, antik dönemlerden beri insan yerleşimleri ve ticaret yolları bulunmaktadır. Türkiye'nin zengin tarihsel mirası, doğal alanların da önemli bir parçası olarak karşımıza çıkmaktadır.
 
 Doğal güzellikleri ve stratejik konumuyla, bu bölge yüzyıllar boyunca farklı kültürlerin etkileşimine sahne olmuştur. İnsanlar, bu tür doğal alanları yaylacılık, hayvancılık ve ticaret için kullanmış, bu bölgelerin önemini günümüze taşımışlardır. Türkiye'nin coğrafi çeşitliliği, tarihi boyunca çeşitli medeniyetlerin gelişmesine ve bir arada yaşamasına olanak tanımıştır.
 

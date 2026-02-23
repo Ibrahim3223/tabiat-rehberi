@@ -1,7 +1,7 @@
 ---
 title: "Hafsa Sultan Hamamı"
 date: "2026-01-09T22:49:27.665Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738669"
 
 # Hafsa Sultan Hamamı
 
-Hafsa Sultan Hamamı, Manisa'nın Şehzadeler ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir plajdır. Bu güzel plaj, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Hafsa Sultan Hamamı, ziyaretçilerine hem tarihi bir atmosfer hem de doğal güzellikler sunuyor. Plajın etrafında bulunan tarihi yapılar, ziyaretçilerin ilgisini çekiyor. Burada, denizin serinliği ve güneşin sıcaklığını bir arada yaşama mümkün.
+Hafsa Sultan Hamamı, Manisa'nın Şehzadeler ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir plajdır. Hafsa Sultan Hamamı, ziyaretçilerine hem tarihi bir atmosfer hem de doğal güzellikler sunuyor. Plajın etrafında bulunan tarihi yapılar, ziyaretçilerin ilgisini çekiyor. Burada, denizin serinliği ve güneşin sıcaklığını bir arada yaşama mümkün.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hafsa Sultan Hamamı, tarihsel olarak önemli bir geçmişe sahip. Bu plaj, yüz
 
 ## Coğrafya
 
-Hafsa Sultan Hamamı, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nde yer alıyor. Bu plaj, 140 hektarlık bir alanda, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Plajın etrafında, tarihi yapılar ve doğal güzellikler bulunuyor. Hafsa Sultan Hamamı, ziyaretçilerine hem tarihi bir atmosfer hem de doğal güzellikler sunuyor. Plajın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Hafsa Sultan Hamamı, Ege Bölgesi'nin güzelliklerini ziyaretçileriyle buluşturan önemli bir mekan.
+Hafsa Sultan Hamamı, Manisa'nın Şehzadeler ilçesinde, Ege Bölgesi'nde yer alıyor. Plajın etrafında, tarihi yapılar ve doğal güzellikler bulunuyor. Hafsa Sultan Hamamı, ziyaretçilerine hem tarihi bir atmosfer hem de doğal güzellikler sunuyor. Plajın coğrafi konumu, ziyaretçilerin kolayca ulaşabilmesini sağlıyor. Hafsa Sultan Hamamı, Ege Bölgesi'nin güzelliklerini ziyaretçileriyle buluşturan önemli bir mekan.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Hafsa Sultan Hamamı, yılın her döneminde ziyaret edilebilir. Plaj, ziyaretç
 ## İlginç Bilgiler
 
 - Hafsa Sultan Hamamı, 140 hektarlık bir alanda yer alıyor.
-- Plaj, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor.
+
 - Hafsa Sultan Hamamı, tarihi geçmişi ile dikkat çeken bir plajdır.
 - Plaj, yaban hayatı açısından önemli bir bölge.
 - Hafsa Sultan Hamamı, Ege Bölgesi'nin güzelliklerini ziyaretçileriyle buluşturan önemli bir mekan.

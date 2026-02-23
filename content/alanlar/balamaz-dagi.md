@@ -52,7 +52,7 @@ Balamaz Dağı, nemli iklimin hâkim olduğu bir bölge olup, gür ormanlar ve y
 
 Bitki örtüsü olarak, ilkbaharın gelmesiyle birlikte dağ yamaçları rengârenk çiçeklerle süslüyor. Sonbaharın yaklaşmasıyla birlikte, yaprak döken ağaçlar sarı, turuncu ve kırmızı renklerle dağ manzarasını renklendiriyor. Dağın yüksek kesimlerinde, alpin flora hakim olup, bu türler zor koşullara adapte olmuş durumda.
 
-Yaban hayatı olarak, memeliler, kuşlar ve sürüngenler dağda yaşamlarını sürdürüyor. Memeliler, ormanlık alanlarda ve yüksek kesimlerde yaşamını sürdürürken, kuşlar göç mevsimlerinde dağ üzerinden geçiş yapıyor. Sürüngenler ise, genellikle kaya ve taşlık alanlarda görülebiliyor. 
+Yaban hayatı olarak, memeliler, kuşlar ve sürüngenler dağda yaşamlarını sürdürüyor. Memeliler, ormanlık alanlarda ve yüksek kesimlerde yaşamını sürdürürken, kuşlar göç mevsimlerinde dağ üzerinden geçiş yapıyor. Sürüngenler ise, genellikle kaya ve taşlık alanlarda görülebiliyor.
 
 Bu dağ ekosisteminin korunması büyük önem taşıyor. Yüksek biyoçeşitlili ve ekolojik dengenin korunması için, bu alanın doğal yapısına zarar vermemek gerekiyor.
 

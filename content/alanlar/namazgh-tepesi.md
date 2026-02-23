@@ -28,7 +28,7 @@ wikidata_id: "Q34884730"
 
 # Namazgâh Tepesi
 
-Namazgâh Tepesi, Isparta'nın merkezinde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini büyüleyen bir doğal güzelliğimizdir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Namazgâh Tepesi, aynı zamanda şehrin tarihi ve kültürel zenginliklerini de gözler önüne seren önemli bir noktadır. Tepenin üzerinde bulunan tarihi eserler ve anıtlar, ziyaretçilere şehrin geçmişini anlatan bir kaynak olarak hizmet vermektedir.
+Namazgâh Tepesi, Isparta'nın merkezinde yer alan ve yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini büyüleyen bir doğal güzelliğimizdir. Namazgâh Tepesi, aynı zamanda şehrin tarihi ve kültürel zenginliklerini de gözler önüne seren önemli bir noktadır. Tepenin üzerinde bulunan tarihi eserler ve anıtlar, ziyaretçilere şehrin geçmişini anlatan bir kaynak olarak hizmet vermektedir.
 
 ## Tarihçe
 

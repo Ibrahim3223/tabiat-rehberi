@@ -32,7 +32,7 @@ Antalya'nın görkemli coğrafyası, doğaseverlerin hayal dünyasını süsleye
 
 ## Tarihçe
 
-Antalya bölgesi, tarihin sâu sayfalarında yer alan uygarlıkların izlerini taşıyan zengin bir coğrafyadır. Çıkrıklı Tepe, bu bölgenin önemli doğal alanlarından biridir. Antalya, tarih boyunca Likya, Pamfilya ve Roma uygarlıklarının etkisini görmüştür. Bu uygarlıklar, bölgenin stratejik konumu nedeniyle ticaret yolları üzerinde kurulmuş ve gelişmiştir.
+Antalya bölgesi, tarihin derin sayfalarında yer alan uygarlıkların izlerini taşıyan zengin bir coğrafyadır. Çıkrıklı Tepe, bu bölgenin önemli doğal alanlarından biridir. Antalya, tarih boyunca Likya, Pamfilya ve Roma uygarlıklarının etkisini görmüştür. Bu uygarlıklar, bölgenin stratejik konumu nedeniyle ticaret yolları üzerinde kurulmuş ve gelişmiştir.
 
 Doğal güzellikleri ile ön plana çıkan bu bölge, insanların yaşam alanı olarak da önemli bir role sahiptir. Yaylacılık ve hayvancılık, bölgenin ekonomik faaliyetlerinin temelini oluşturur. Çıkrıklı Tepe gibi doğal alanlar, bu faaliyetler için elverişli koşullar sunar. Ayrıca, tarihi ticaret yollarının güzergahı üzerinde yer alan bu bölge, insanların ve malların hareketi için önemli bir kavşak noktası olarak hizmet vermiştir.
 

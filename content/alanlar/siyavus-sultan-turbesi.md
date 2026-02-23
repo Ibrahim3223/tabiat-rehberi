@@ -1,7 +1,7 @@
 ---
 title: "Siyavuş Sultan Türbesi"
 date: "2026-01-10T06:37:14.164Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582407"
 
 # Siyavuş Sultan Türbesi
 
-Siyavuş Sultan Türbesi, Karatay, Konya'da yer alan tarihi bir türbe ve plaj alanı olarak dikkat çekiyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşillik alanı sunuyor. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Siyavuş Sultan Türbesi, aynı zamanda bir kültür merkezi olarak da işlev görüyor ve birçok önemli etkinliğe ev sahipliği yapıyor. Bu nedenle, hem tarih severler hem de doğaşığı olanlar için ideal bir gezi noktası olarak görünüyor.
+Siyavuş Sultan Türbesi, Karatay, Konya'da yer alan tarihi bir türbe ve plaj alanı olarak dikkat çekiyor. Bu bölge, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbediyor. Siyavuş Sultan Türbesi, aynı zamanda bir kültür merkezi olarak da işlev görüyor ve birçok önemli etkinliğe ev sahipliği yapıyor. Bu nedenle, hem tarih severler hem de doğaşığı olanlar için ideal bir gezi noktası olarak görünüyor.
 
 ## Tarihçe
 

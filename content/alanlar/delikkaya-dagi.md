@@ -50,8 +50,8 @@ Mevsimsel değişimlerin etkisi altında kalan Delikkaya Dağı, iklimsel açıd
 
 ## Flora ve Fauna
 
-Delikkaya Dağı, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-1. Bitki Örtüsü: Dağın yükseklik zonlarına bağlı olarak, ilkbaharda çiçek açan alpin flora, yaz aylarında ise otlaklar yeşeriyor. 
+Delikkaya Dağı, Ağrı'nın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+1. Bitki Örtüsü: Dağın yükseklik zonlarına bağlı olarak, ilkbaharda çiçek açan alpin flora, yaz aylarında ise otlaklar yeşeriyor.
 2. Yaban Hayatı: Dağ keçileri, yaban keçileri ve ayılar gibi memeliler, kartallar ve doğan gibi yırtıcı kuşlar, dağların yükseklik zonlarına adapte olmuş canlılar.
 3. Ekolojik Değer: Delikkaya Dağı, endemik türlerin yaşadığı ve yüksek dağ ekolojisinin önemli bir parçası. Bu alanın korunması, bölgenin ekolojik dengesini korumak için büyük önem taşıyor.
 

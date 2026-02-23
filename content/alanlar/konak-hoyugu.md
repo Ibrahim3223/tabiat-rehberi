@@ -28,7 +28,7 @@ wikidata_id: "Q32199483"
 
 # Konak Höyüğü
 
-Konak Höyüğü, Yozgat'ın tarihî zenginliğini gözler önüne seren önemli bir höyüktür. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölge için önemli bir kültürel mirastır. Höyüğün eteklerinde, İnce Delik Mağarası gibi doğal güzellikler de bulunmaktadır. Bu bölgede, tarihî ve doğal güzellikleri bir arada görme mümkündür. Konak Höyüğü, ziyaretçiler için hem tarihî açıdan hem de doğal güzellikleri keşfetmek açısından önemli bir destinasyondur.
+Konak Höyüğü, Yozgat'ın tarihî zenginliğini gözler önüne seren önemli bir höyüktür. Höyüğün eteklerinde, İnce Delik Mağarası gibi doğal güzellikler de bulunmaktadır. Bu bölgede, tarihî ve doğal güzellikleri bir arada görme mümkündür. Konak Höyüğü, ziyaretçiler için hem tarihî açıdan hem de doğal güzellikleri keşfetmek açısından önemli bir destinasyondur.
 
 ## Tarihçe
 

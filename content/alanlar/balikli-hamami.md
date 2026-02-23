@@ -1,7 +1,7 @@
 ---
 title: "Balıklı Hamamı"
 date: "2026-01-09T22:29:00.698Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kütahya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738435"
 
 # Balıklı Hamamı
 
-Kütahya'nın merkezinde yer alan Balıklı Hamamı, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir yeşil alanı sunuyor. Bu alan, şehrin kalabalığından kaçmak isteyenler için bir nefes alma yeri olarak hizmet veriyor. Balıklı Hamamı, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Burada, geçmişten günümüze ulaşan izleri görme mümkün. Bu nedenle, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon olan Balıklı Hamamı, ziyaretçilerini bekliyor.
+ Bu alan, şehrin kalabalığından kaçmak isteyenler için bir nefes alma yeri olarak hizmet veriyor. Balıklı Hamamı, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Burada, geçmişten günümüze ulaşan izleri görme mümkün. Bu nedenle, hem doğa severler hem de tarih meraklıları için ideal bir destinasyon olan Balıklı Hamamı, ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Balıklı Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. B
 
 ## Coğrafya
 
-Balıklı Hamamı, Kütahya'nın merkezinde yer alıyor ve Ege Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerle karakterize ediliyor. Balıklı Hamamı'nın bulunduğu alan, 140 hektarlık bir yeşil alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu yeşil alan, ziyaretçilere geniş açık alanlar sunuyor ve doğayla iç içe olmak isteyenler için ideal bir ortam yaratıyor. Balıklı Hamamı'nın coğrafi konumu, aynı zamanda iklimi de etkiliyor. Bu bölgenin iklimi, genellikle ılıman ve yağışlı geçiyor. Ancak, mevsimsel değişimler, bu bölgenin güzelliğini ve çekiciliğini artırıyor. Bahar ve yaz aylarında, Balıklı Hamamı'nın yeşilliği ve rengarenk çiçekleri, ziyaretçilere unutulmaz bir manzara sunuyor.
+Balıklı Hamamı, Kütahya'nın merkezinde yer alıyor ve Ege Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölgenin coğrafyası, genellikle dağlık ve engebeli arazilerle karakterize ediliyor. Bu yeşil alan, ziyaretçilere geniş açık alanlar sunuyor ve doğayla iç içe olmak isteyenler için ideal bir ortam yaratıyor. Balıklı Hamamı'nın coğrafi konumu, aynı zamanda iklimi de etkiliyor. Bu bölgenin iklimi, genellikle ılıman ve yağışlı geçiyor. Ancak, mevsimsel değişimler, bu bölgenin güzelliğini ve çekiciliğini artırıyor. Bahar ve yaz aylarında, Balıklı Hamamı'nın yeşilliği ve rengarenk çiçekleri, ziyaretçilere unutulmaz bir manzara sunuyor.
 
 ## Flora ve Fauna
 

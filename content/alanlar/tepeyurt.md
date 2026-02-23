@@ -28,7 +28,7 @@ wikidata_id: "Q31387357"
 
 # Tepeyurt
 
-Tepeyurt, Samsun'un güzide bir bölgesinde yer alan, 140 hektarlık bir yeşil alandır. Yaklaşık 200 futbol sahası büyüklüğündeki bu alan, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur. Tepeyurt'un coğrafi konumu, ziyaretçilerine zengin bir flora ve fauna sunar. Bu bölge, hem doğa severler hem de tarihi geçmişi keşfetmek isteyenler için önemli bir merkezdir. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla Tepeyurt, ziyaretçilerini bekleyen bir hazine gibidir.
+Tepeyurt, Samsun'un güzide bir bölgesinde yer alan, 140 hektarlık bir yeşil alandır. Tepeyurt'un coğrafi konumu, ziyaretçilerine zengin bir flora ve fauna sunar. Bu bölge, hem doğa severler hem de tarihi geçmişi keşfetmek isteyenler için önemli bir merkezdir. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla Tepeyurt, ziyaretçilerini bekleyen bir hazine gibidir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tepeyurt'un tarihi geçmişi, Karadeniz Bölgesi'nin zengin tarihine bağlıdır
 
 ## Coğrafya
 
-Tepeyurt, Samsun'un Karadeniz Bölgesi'nde yer alan bir tepe olarak, coğrafi konumu itibariyle önemli bir alandır. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerine geniş bir yeşil alan sunar. Tepeyurt'un coğrafi yapısı, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, dağlık ve engebeli bir araziye sahiptir ve iklimi, Karadeniz iklimi olarak bilinen ılıman ve yağışlı bir iklimdir. Tepeyurt'un etrafı, çeşitli bitki türleriyle çevrilidir ve bu bitki türleri, ziyaretçilerine doğal bir güzellik sunar. Bu tepe, aynı zamanda zengin bir fauna sahiptir ve ziyaretçilerine, çeşitli hayvan türlerini gözlemleme fırsatı sunar. Tepeyurt'un coğrafi konumu, ziyaretçilerine doğal güzellikleri keşfetme ve tarihi geçmişi öğrenme fırsatı sunar.
+Tepeyurt, Samsun'un Karadeniz Bölgesi'nde yer alan bir tepe olarak, coğrafi konumu itibariyle önemli bir alandır. Tepeyurt'un coğrafi yapısı, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, dağlık ve engebeli bir araziye sahiptir ve iklimi, Karadeniz iklimi olarak bilinen ılıman ve yağışlı bir iklimdir. Tepeyurt'un etrafı, çeşitli bitki türleriyle çevrilidir ve bu bitki türleri, ziyaretçilerine doğal bir güzellik sunar. Bu tepe, aynı zamanda zengin bir fauna sahiptir ve ziyaretçilerine, çeşitli hayvan türlerini gözlemleme fırsatı sunar. Tepeyurt'un coğrafi konumu, ziyaretçilerine doğal güzellikleri keşfetme ve tarihi geçmişi öğrenme fırsatı sunar.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Tepeyurt, ziyaretçilerine doğal güzellikleri keşfetme ve tarihi geçmişi ö
 ## İlginç Bilgiler
 
 - Tepeyurt, Samsun'un Karadeniz Bölgesi'nde yer alan bir tepe olarak, coğrafi konumu itibariyle önemli bir alandır.
-- Bu tepe, 140 hektarlık bir yeşil alana sahiptir ve yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Tepeyurt'un coğrafi yapısı, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır.
 - Bu tepe, zengin bir flora ve fauna sahiptir ve ziyaretçilerine doğal bir güzellik sunar.
 - Tepeyurt, tarihi geçmişi hakkında detaylı bilgiler bulunmasa da, Karadeniz Bölgesi'nin zengin tarihine bağlıdır.

@@ -1,7 +1,7 @@
 ---
 title: "15 Temmuz Şehitler Köprüsü"
 date: "2026-01-09T22:06:38.057Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q4484"
 
 # 15 Temmuz Şehitler Köprüsü
 
-15 Temmuz Şehitler Köprüsü, İstanbul'un Boğaziçi Köprüsü olarak da bilinen önemli bir geçiş noktası. Bu köprü, yaklaşık 1560 metre uzunluğu ve 33,40 metre genişliği ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. İstanbul'un iki yakasını bağlayan bu köprü, şehrin önemli bir parçası.
+15 Temmuz Şehitler Köprüsü, İstanbul'un Boğaziçi Köprüsü olarak da bilinen önemli bir geçiş noktası. Bu köprü, yaklaşık 1560 metre uzunluğu ve 33,40 metre genişliği ile dikkat çekiyor. İstanbul'un iki yakasını bağlayan bu köprü, şehrin önemli bir parçası.
 
 ## Tarihçe
 

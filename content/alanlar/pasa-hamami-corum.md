@@ -1,7 +1,7 @@
 ---
 title: "Paşa Hamamı (Çorum)"
 date: "2026-01-10T04:31:56.836Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çorum"
@@ -28,7 +28,7 @@ wikidata_id: "Q118395884"
 
 # Paşa Hamamı (Çorum)
 
-Paşa Hamamı, Çorum'un merkezinde yer alan ve tarihi geçmişi ile bilinen bir doğal alan. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine doğanın güzelliklerini sunuyor. Çorum'un tarihi dokusu ile doğal güzellikleri bir araya getiren Paşa Hamamı, ziyaretçiler için önemli bir çekim merkezi.
+Paşa Hamamı, Çorum'un merkezinde yer alan ve tarihi geçmişi ile bilinen bir doğal alan. Çorum'un tarihi dokusu ile doğal güzellikleri bir araya getiren Paşa Hamamı, ziyaretçiler için önemli bir çekim merkezi.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Paşa Hamamı, ziyaretçiler için önemli bir çekim merkezi. Bu doğal alan, �
 ## İlginç Bilgiler
 
 - Paşa Hamamı, 140 hektarlık bir doğal alan.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Paşa Hamamı, Çorum'un merkezinde yer alıyor.
 - Bu doğal alan, Karadeniz Bölgesi'nin coğrafi özelliklerine sahip.
 - Paşa Hamamı, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosistem oluşturuyor.

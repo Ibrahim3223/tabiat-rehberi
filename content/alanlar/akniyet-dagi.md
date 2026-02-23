@@ -48,9 +48,9 @@ Jeolojik açıdan incelendiğinde, Akniyet Dağı'nın fiziksel yapısı hakkın
 
 ## Flora ve Fauna
 
-Akniyet Dağı, Bayburt'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çekicidir. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçeklerin renkli bir şöleni başlar. Gür ormanlar, mevsimsel değişimlere bağlı olarak farklı görünümde ortaya çıkar. 
+Akniyet Dağı, Bayburt'un nemli ikliminin hakim olduğu bir bölgede yer alır. Bu dağ ekosisteminde, yükseklik zonlarına göre değişen flora ve fauna çeşitliliği dikkat çekicidir. İlkbaharın gelmesiyle birlikte, dağ yamaçlarında çiçeklerin renkli bir şöleni başlar. Gür ormanlar, mevsimsel değişimlere bağlı olarak farklı görünümde ortaya çıkar.
 
-Yaban hayatı açısından zengin bir bölge olan Akniyet Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağların yüksek kesimlerinde, alpin flora ve fauna çeşitliliği bulunur. Sürüngenler ve diğer küçük hayvanlar, bu dağ ekosisteminin önemli bir parçasını oluşturur. 
+Yaban hayatı açısından zengin bir bölge olan Akniyet Dağı, çeşitli memeli ve kuş türlerine ev sahipliği yapar. Dağların yüksek kesimlerinde, alpin flora ve fauna çeşitliliği bulunur. Sürüngenler ve diğer küçük hayvanlar, bu dağ ekosisteminin önemli bir parçasını oluşturur.
 
 Akniyet Dağı'nın ekolojik değeri, yüksek biyoçeşitliliğinden ve bölgenin ekolojik dengesindeki rolünden kaynaklanır. Bu dağ, çevredeki ekosistemlerin korunması açısından önemli bir bölgedir.
 

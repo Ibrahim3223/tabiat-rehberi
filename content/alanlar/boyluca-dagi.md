@@ -32,7 +32,7 @@ Erzurum'un dağlık coğrafyasında, birçok doğal güzelliğe ev sahipliği ya
 
 ## Tarihçe
 
-Boyluca Dağı, Erzurum'un tarihi ve kültürel zenginlikleriyle dolu coğrafyasında yer alıyor. Bu bölgede, tarihin sâu izleri bulunuyor. Erzurum, tarih boyunca Urartular, Roma ve Bizans İmparatorluğu gibi farklı uygarlıkların hakimiyetine girmiş bir bölge. Bu zengin tarihi miras, doğal güzelliklerle birleşerek, Boyluca Dağı gibi alanların önemini artırıyor.
+Boyluca Dağı, Erzurum'un tarihi ve kültürel zenginlikleriyle dolu coğrafyasında yer alıyor. Bu bölgede, tarihin derin izleri bulunuyor. Erzurum, tarih boyunca Urartular, Roma ve Bizans İmparatorluğu gibi farklı uygarlıkların hakimiyetine girmiş bir bölge. Bu zengin tarihi miras, doğal güzelliklerle birleşerek, Boyluca Dağı gibi alanların önemini artırıyor.
 
 Türkiye'de, özellikle Doğu Anadolu Bölgesi'nde yer alan dağlar ve yaylalar, binlerce yıl boyunca insanların yaşamlarının merkezinde yer almış. Bu alanlar, yaylacılık ve hayvancılıkla uğraşan halk için önemli geçim kaynakları oluşturmuş. Ayrıca, tarihi ticaret yolları üzerinde bulunan bu bölgeler, farklı kültürlerin etkileşimine de sahne olmuş.
 

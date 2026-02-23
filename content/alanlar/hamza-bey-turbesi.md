@@ -1,7 +1,7 @@
 ---
 title: "Hamza Bey Türbesi"
 date: "2026-01-10T07:35:38.720Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391231"
 
 # Hamza Bey Türbesi
 
-Hamza Bey Türbesi, Osmangazi, Bursa'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir mekan. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Tarihi geçmişi ile dikkat çeken bu mekan, aynı zamanda bölgenin coğrafi özelliklerini de yansıtıyor. Hamza Bey Türbesi, Marmara Bölgesi'nin önemli noktalarından biri olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından tercih ediliyor.
+Hamza Bey Türbesi, Osmangazi, Bursa'da yer alan ve tarihi ile doğal güzelliklerinin birleştiği özel bir mekan. Tarihi geçmişi ile dikkat çeken bu mekan, aynı zamanda bölgenin coğrafi özelliklerini de yansıtıyor. Hamza Bey Türbesi, Marmara Bölgesi'nin önemli noktalarından biri olarak kabul ediliyor ve her yıl birçok ziyaretçi tarafından tercih ediliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hamza Bey Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve b�
 
 ## Coğrafya
 
-Hamza Bey Türbesi, Osmangazi, Bursa'da yer alan bir mekan ve coğrafi olarak önemli bir konuma sahip. Bu mekan, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Coğrafi olarak bakıldığında, Hamza Bey Türbesi'nin bulunduğu bölge, Marmara Bölgesi'nin característicasını taşıyor. Bölgenin iklimi ve coğrafi özellikleri, bu türbenin etrafındaki doğayı şekillendirmiş ve ziyaretçilere çeşitli mevsimlerde farklı güzellikler sunuyor. Hamza Bey Türbesi'nin coğrafi konumu, aynı zamanda bölgenin flora ve faunasının çeşitliliğini de etkiliyor. Bu mekanın etrafındaki çevre, ziyaretçilere geniş bir yeşil alan ve çeşitli bitki türleri sunuyor.
+Hamza Bey Türbesi, Osmangazi, Bursa'da yer alan bir mekan ve coğrafi olarak önemli bir konuma sahip. Coğrafi olarak bakıldığında, Hamza Bey Türbesi'nin bulunduğu bölge, Marmara Bölgesi'nin característicasını taşıyor. Bölgenin iklimi ve coğrafi özellikleri, bu türbenin etrafındaki doğayı şekillendirmiş ve ziyaretçilere çeşitli mevsimlerde farklı güzellikler sunuyor. Hamza Bey Türbesi'nin coğrafi konumu, aynı zamanda bölgenin flora ve faunasının çeşitliliğini de etkiliyor. Bu mekanın etrafındaki çevre, ziyaretçilere geniş bir yeşil alan ve çeşitli bitki türleri sunuyor.
 
 ## Flora ve Fauna
 

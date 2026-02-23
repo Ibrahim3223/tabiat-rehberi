@@ -28,7 +28,7 @@ wikidata_id: "Q31511881"
 
 # Kurtlukar Tepesi
 
-Kurtlukar Tepesi, Erzincan'ın güzelliklerini sunan bir doğa harikasıdır. Bu tepe, yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor. Burada, doğa yürüyüşleri yapabilir, çevreyi keşfedebilir ve tarihi geçmişi hakkında bilgi edinebilirsiniz. Kurtlukar Tepesi, Erzincan'ın önemli turizm noktalarından biri olarak dikkat çekiyor.
+Kurtlukar Tepesi, Erzincan'ın güzelliklerini sunan bir doğa harikasıdır. Burada, doğa yürüyüşleri yapabilir, çevreyi keşfedebilir ve tarihi geçmişi hakkında bilgi edinebilirsiniz. Kurtlukar Tepesi, Erzincan'ın önemli turizm noktalarından biri olarak dikkat çekiyor.
 
 ## Tarihçe
 

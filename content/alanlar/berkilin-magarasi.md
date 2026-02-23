@@ -28,7 +28,7 @@ wikidata_id: "Q49319066"
 
 # Berkilin Mağarası
 
-Diyarbakır'ın tarihi ve kültürel zenginlikleri arasında gizli bir hazine olarak bulunan Berkinin Mağarası, ziyaretçilerini Türkiye'nin güneydoğusundaki bu güzel ilin doğal güzelliklerine davet ediyor. Bu jeopark, Diyarbakır'ın eşsiz coğrafyasının bir parçası olarak dikkat çekiyor. Berkinin Mağarası, ilin zengin tarihi ve doğası ile birlikte, ziyaretçilerine unutulmaz bir deneyim sunuyor. Diyarbakır'ın sunduğu bu doğal güzellik, ilin doğal ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
+Diyarbakır'ın tarihi ve kültürel zenginlikleri arasında gizli bir hazine olarak bulunan Berkinin Mağarası, ziyaretçilerini Türkiye'nin güneydoğusundaki bu güzel ilin doğal güzelliklerine davet ediyor. Bu jeopark, Diyarbakır'ın eşsiz coğrafyasının bir parçası olarak dikkat çekiyor. Diyarbakır'ın sunduğu bu doğal güzellik, ilin doğal ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Doğal bir oluşum olan Berkinin Mağarası, yaklaşık olarak bir şehir bloğu
 
 ## Flora ve Fauna
 
-Berkilin Mağarası, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir jeoparktır. Bu bölge, step ve ova ekolojisinin karakteristik özelliklerini taşır. 
+Berkilin Mağarası, Diyarbakır'ın yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir jeoparktır. Bu bölge, step ve ova ekolojisinin karakteristik özelliklerini taşır.
 
 Bitki örtüsü açısından, ilkbahar aylarında bölgenin renkli bir hal almasıyla birlikte, çeşitli çiçek türleri ortaya çıkar. Sonbahar mevsiminde ise, bölgeninstep característicası daha belirgin hale gelir. Özel bitkiler arasında, kuraklığa dayanıklı türler bulunur.
 

@@ -1,7 +1,7 @@
 ---
 title: "Erenler Sultan Türbesi"
 date: "2026-01-10T06:48:24.066Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582724"
 
 # Erenler Sultan Türbesi
 
-Erenler Sultan Türbesi, Tokat ilinin merkezinde yer alan bir tarih ve doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar. Bu alan, yüzyıllar boyunca önemli bir merkez olarak hizmet vermiş ve birçok önemli olaya şahitlik etmiştir. Erenler Sultan Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekmektedir.
+Erenler Sultan Türbesi, Tokat ilinin merkezinde yer alan bir tarih ve doğa harikasıdır. Bu alan, yüzyıllar boyunca önemli bir merkez olarak hizmet vermiş ve birçok önemli olaya şahitlik etmiştir. Erenler Sultan Türbesi, ziyaretçilerine hem tarihi hem de doğal güzellikleri bir arada sunmasıyla dikkat çekmektedir.
 
 ## Tarihçe
 

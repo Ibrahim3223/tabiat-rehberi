@@ -23,7 +23,7 @@ wikidata_id: "Q108228466"
 
 # Ayıkayası
 
-Ayıkayası, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık bir alanı kapsayan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Ayıkayası, doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul ediliyor. Bu bölge, yaban hayatının çeşitliliği ve doğanın güzelliği ile ziyaretçilerini büyülüyor. Ayıkayası, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ve doğal güzellikleri hakkında bilgi edinmek isteyenler için ideal bir destinasyon.
+Ayıkayası, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak dikkat çekiyor. Ayıkayası, doğa severler ve fotoğraf tutkunları için bir cennet olarak kabul ediliyor. Bu bölge, yaban hayatının çeşitliliği ve doğanın güzelliği ile ziyaretçilerini büyülüyor. Ayıkayası, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ve doğal güzellikleri hakkında bilgi edinmek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Ayıkayası'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu böl
 
 ## Coğrafya
 
-Ayıkayası, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ile dikkat çekiyor. Milli park, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Bu bölge, yüksekli ve eğim açısından çeşitlilik gösteren bir coğrafi yapıya sahiptir. Ayıkayası, iklimi ve bitki örtüsü ile birlikte, yaban hayatının çeşitliliğiçin uygun bir ortam sunuyor. Milli parkın coğrafi konumu, bölgenin jeolojik oluşumuna kadar uzanan bir geçmişe sahiptir. Ayıkayası, coğrafi konumu ve doğal kaynakları nedeniyle, insan yerleşimlerine ev sahipliği yapmış ve birçok kültürü bir araya getirmiştir. Milli parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, fotoğraf çekimi ve doğa gözlemi gibi çeşitli aktiviteler için ideal bir ortam sağlar.
+Ayıkayası, İç Anadolu Bölgesi'nin coğrafi çeşitliliği ile dikkat çekiyor. Bu bölge, yüksekli ve eğim açısından çeşitlilik gösteren bir coğrafi yapıya sahiptir. Ayıkayası, iklimi ve bitki örtüsü ile birlikte, yaban hayatının çeşitliliğiçin uygun bir ortam sunuyor. Milli parkın coğrafi konumu, bölgenin jeolojik oluşumuna kadar uzanan bir geçmişe sahiptir. Ayıkayası, coğrafi konumu ve doğal kaynakları nedeniyle, insan yerleşimlerine ev sahipliği yapmış ve birçok kültürü bir araya getirmiştir. Milli parkın coğrafi yapısı, ziyaretçilere doğa yürüyüşleri, fotoğraf çekimi ve doğa gözlemi gibi çeşitli aktiviteler için ideal bir ortam sağlar.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Ayıkayası, doğa severler ve fotoğraf tutkunları için bir cennet olarak kab
 ## İlginç Bilgiler
 
 - Ayıkayası, 140 hektarlık bir alanı kapsıyor.
-- Milli park, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor.
+
 - Ayıkayası, yaban hayatının çeşitliliği ile dikkat çekiyor.
 - Milli park, flora ve fauna çeşitliliği ile birlikte, ekoloji hakkında bilgi edinmek isteyenler için ideal bir destinasyon.
 - Ayıkayası, coğrafi konumu ve doğal kaynakları nedeniyle, insan yerleşimlerine ev sahipliği yapmış ve birçok kültürü bir araya getirmiştir.

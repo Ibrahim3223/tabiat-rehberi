@@ -1,7 +1,7 @@
 ---
 title: "Zeytinlik Camii"
 date: "2026-01-10T05:41:50.989Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q135512221"
 
 # Zeytinlik Camii
 
-İç Anadolu Bölgesi'nin merkezinde yer alan Zeytinlik Camii, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayan özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir alan sunuyor. Zeytinlik Camii, hem doğal hem de tarihi açıdan önemli bir yer. Burada, tarihi yapılar ve doğal güzellikler bir arada bulunuyor.
+İç Anadolu Bölgesi'nin merkezinde yer alan Zeytinlik Camii, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılayan özel bir mekan. Zeytinlik Camii, hem doğal hem de tarihi açıdan önemli bir yer. Burada, tarihi yapılar ve doğal güzellikler bir arada bulunuyor.
 
 ## Tarihçe
 

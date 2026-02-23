@@ -1,7 +1,7 @@
 ---
 title: "Fatih Hamamı"
 date: "2026-01-09T22:59:40.716Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Trabzon"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738824"
 
 # Fatih Hamamı
 
-Fatih Hamamı, Trabzon'un Ortahisar ilçesinde bulunan ve Karadeniz'in en güzel plajlarından biri olarak bilinen bir yer. Bu plaj, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Fatih Hamamı, ziyaretçilerine temiz ve berrak denizi, kumlu plajı ve güneşin keyfini çıkarmak için ideal bir ortam sunuyor. Burada, denize girerek serinleyebilir, güneşin tadını çıkarabilir veya plajda çeşitli oyunlar oynayabilirsiniz. Fatih Hamamı, hem yerli hem de yabancı turistler için bir çekim merkezi haline gelmiş durumda.
+Fatih Hamamı, Trabzon'un Ortahisar ilçesinde bulunan ve Karadeniz'in en güzel plajlarından biri olarak bilinen bir yer. Fatih Hamamı, ziyaretçilerine temiz ve berrak denizi, kumlu plajı ve güneşin keyfini çıkarmak için ideal bir ortam sunuyor. Burada, denize girerek serinleyebilir, güneşin tadını çıkarabilir veya plajda çeşitli oyunlar oynayabilirsiniz. Fatih Hamamı, hem yerli hem de yabancı turistler için bir çekim merkezi haline gelmiş durumda.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Fatih Hamamı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge
 
 ## Coğrafya
 
-Fatih Hamamı, Trabzon'un Ortahisar ilçesinde, Karadeniz kıyısında bulunuyor. Bu plaj, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Fatih Hamamı, Karadeniz'in en güzel plajlarından biri olarak bilinir ve temiz, berrak denizi ile ziyaretçilerini cezbediyor. Bu plaj, kumlu bir kumsala sahip ve denize girerek serinleyebileceğiniz veya güneşin tadını çıkarabileceğinizideal bir ortam sunuyor. Fatih Hamamı'nın çevresinde, çeşitli restoranlar, kafeler ve alışveriş yerleri bulunuyor. Bu plaj, hem yerli hem de yabancı turistler için bir çekim merkezi haline gelmiş durumda. Fatih Hamamı, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor.
+Fatih Hamamı, Trabzon'un Ortahisar ilçesinde, Karadeniz kıyısında bulunuyor. Fatih Hamamı, Karadeniz'in en güzel plajlarından biri olarak bilinir ve temiz, berrak denizi ile ziyaretçilerini cezbediyor. Bu plaj, kumlu bir kumsala sahip ve denize girerek serinleyebileceğiniz veya güneşin tadını çıkarabileceğinizideal bir ortam sunuyor. Fatih Hamamı'nın çevresinde, çeşitli restoranlar, kafeler ve alışveriş yerleri bulunuyor. Bu plaj, hem yerli hem de yabancı turistler için bir çekim merkezi haline gelmiş durumda. Fatih Hamamı, Karadeniz Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor.
 
 ## Flora ve Fauna
 

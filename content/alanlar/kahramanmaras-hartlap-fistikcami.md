@@ -1,7 +1,7 @@
 ---
 title: "Kahramanmaras-Hartlap Fistikcami"
 date: "2026-01-09T17:20:39.033Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"

@@ -29,7 +29,7 @@ wikidata_id: "Q134728106"
 
 # Alacahöyük Tunç Çağı Mezarları
 
-Alacahöyük Tunç Çağı Mezarları, Çorum'un Alaca ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir arkeolojik alandır. Bu mezarlar, Tunç Çağı'na ait olup, o dönemden kalan önemli kültürel mirasları barındırmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir tarihî panorama sunmaktadır. Alacahöyük, Karadeniz Bölgesi'nin önemli kültür ve tarih merkezlerinden biri olarak bilinmektedir.
+Alacahöyük Tunç Çağı Mezarları, Çorum'un Alaca ilçesinde yer alan ve tarihi geçmişi ile dikkat çeken bir arkeolojik alandır. Bu mezarlar, Tunç Çağı'na ait olup, o dönemden kalan önemli kültürel mirasları barındırmaktadır. Alacahöyük, Karadeniz Bölgesi'nin önemli kültür ve tarih merkezlerinden biri olarak bilinmektedir.
 
 ## Tarihçe
 

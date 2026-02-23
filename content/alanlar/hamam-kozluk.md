@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Kozluk"
 date: "2026-01-09T22:39:28.981Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Batman"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738750"
 
 # Hamam, Kozluk
 
-Hamam, Kozluk, Güneydoğu Anadolu Bölgesi'nin Batman iline bağlı bir plaj olarak bilinir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Kozluk'un merkezine uzun bir mesafe uzaklıkta bulunan bu plaj, her yıl birçok turist tarafından ziyaret edilmektedir. Hamam, Kozluk'un tarihi geçmişi, doğal güzelliği ve turizm potansiyeli ile dikkat çekmektedir. Bölge, zengin fauna ve flora çeşitliliği ile doğa severlerin ilgisini çekmektedir.
+Hamam, Kozluk, Güneydoğu Anadolu Bölgesi'nin Batman iline bağlı bir plaj olarak bilinir. Kozluk'un merkezine uzun bir mesafe uzaklıkta bulunan bu plaj, her yıl birçok turist tarafından ziyaret edilmektedir. Hamam, Kozluk'un tarihi geçmişi, doğal güzelliği ve turizm potansiyeli ile dikkat çekmektedir. Bölge, zengin fauna ve flora çeşitliliği ile doğa severlerin ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Hamam, Kozluk'un tarihi geçmişi, yüzyıllar boyunca çeşitli uygarlıkların
 
 ## Coğrafya
 
-Hamam, Kozluk, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer almaktadır. Bölge, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Kozluk'un merkezine uzun bir mesafe uzaklıkta bulunan bu plaj, doğal güzelliği ile dikkat çekmektedir. Hamam, Kozluk'un coğrafyası, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır. Coğrafi konumu itibariyle, Hamam, Kozluk, turizm potansiyeli yüksek bir bölgedir. İklimi, genellikle sıcak ve kurudur. Bölge, yaz aylarında turizm faaliyetleri için uygun bir yerdir.
+Hamam, Kozluk, coğrafi olarak Güneydoğu Anadolu Bölgesi'nde yer almaktadır. Kozluk'un merkezine uzun bir mesafe uzaklıkta bulunan bu plaj, doğal güzelliği ile dikkat çekmektedir. Hamam, Kozluk'un coğrafyası, zengin flora ve fauna çeşitliliği ile dikkat çekmektedir. Bölge, çeşitli bitki türleri ve hayvanlara ev sahipliği yapmaktadır. Coğrafi konumu itibariyle, Hamam, Kozluk, turizm potansiyeli yüksek bir bölgedir. İklimi, genellikle sıcak ve kurudur. Bölge, yaz aylarında turizm faaliyetleri için uygun bir yerdir.
 
 ## Flora ve Fauna
 

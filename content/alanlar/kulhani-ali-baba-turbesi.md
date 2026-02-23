@@ -1,7 +1,7 @@
 ---
 title: "Külhani Ali Baba Türbesi"
 date: "2026-01-10T06:10:28.844Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Aksaray"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390645"
 
 # Külhani Ali Baba Türbesi
 
-Külhani Ali Baba Türbesi, Aksaray ilinin merkezinde yer alan ve tarihi geçmişi ile dikkat çeken önemli bir turizm destinasyonudur. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alanda ziyaretçiler hem tarihi hem de doğal güzellikleri keşfedebilir. Türbenin etrafında bulunan yeşillikler ve çiçekler, ziyaretçilere huzur verici bir atmosfer sunar. Külhani Ali Baba Türbesi, Aksaray'ın önemli simgelerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
+Külhani Ali Baba Türbesi, Aksaray ilinin merkezinde yer alan ve tarihi geçmişi ile dikkat çeken önemli bir turizm destinasyonudur. Türbenin etrafında bulunan yeşillikler ve çiçekler, ziyaretçilere huzur verici bir atmosfer sunar. Külhani Ali Baba Türbesi, Aksaray'ın önemli simgelerinden biri olarak kabul edilir ve her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir.
 
 ## Tarihçe
 

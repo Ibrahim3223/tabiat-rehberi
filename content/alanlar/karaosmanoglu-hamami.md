@@ -1,7 +1,7 @@
 ---
 title: "Karaosmanoğlu Hamamı"
 date: "2026-01-09T23:15:52.461Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Manisa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739035"
 
 # Karaosmanoğlu Hamamı
 
-Karaosmanoğlu Hamamı, Manisa'nın Akhisar ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir hamam. Bu hamam, yaklaşık 140 hektarlık bir alanda yer alıyor ve bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzelliği ve tarihi önemiyle birlikte, ziyaretçilerini çekiyor. Karaosmanoğlu Hamamı, Ege Bölgesi'nin önemli turistik noktalarından biri olarak biliniyor. Burada, ziyaretçiler hem tarihi bir hamamın güzelliğini görebiliyor hem de doğal güzelliklerin keyfini çıkarabiliyor. Bu nedenle, Karaosmanoğlu Hamamı, gezginler için önemli bir destinasyon olarak kabul ediliyor.
+Karaosmanoğlu Hamamı, Manisa'nın Akhisar ilçesinde bulunan ve tarihi geçmişiyle dikkat çeken bir hamam. Doğal güzelliği ve tarihi önemiyle birlikte, ziyaretçilerini çekiyor. Karaosmanoğlu Hamamı, Ege Bölgesi'nin önemli turistik noktalarından biri olarak biliniyor. Burada, ziyaretçiler hem tarihi bir hamamın güzelliğini görebiliyor hem de doğal güzelliklerin keyfini çıkarabiliyor. Bu nedenle, Karaosmanoğlu Hamamı, gezginler için önemli bir destinasyon olarak kabul ediliyor.
 
 ## Tarihçe
 

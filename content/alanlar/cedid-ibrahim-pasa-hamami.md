@@ -1,7 +1,7 @@
 ---
 title: "Cedid İbrahim Paşa Hamamı"
 date: "2026-01-09T22:55:28.030Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738585"
 
 # Cedid İbrahim Paşa Hamamı
 
-Cedid İbrahim Paşa Hamamı, İstanbul'un en önemli tarihi eserlerinden biridir. Beşiktaş'ta bulunan bu hamam, Marmara Bölgesi'nin kültür mirasını yansıtan önemli bir yapıdır. 140 hektarlık bir alanın içinde yer alan hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Cedid İbrahim Paşa Hamamı, tarihi dokusu ve mimari yapısı ile dikkat çeker. Bu hamam, İstanbul'un tarihi alanlarından biri olarak ziyaretçilerini bekliyor.
+Cedid İbrahim Paşa Hamamı, İstanbul'un en önemli tarihi eserlerinden biridir. Beşiktaş'ta bulunan bu hamam, Marmara Bölgesi'nin kültür mirasını yansıtan önemli bir yapıdır. Cedid İbrahim Paşa Hamamı, tarihi dokusu ve mimari yapısı ile dikkat çeker. Bu hamam, İstanbul'un tarihi alanlarından biri olarak ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Cedid İbrahim Paşa Hamamı'nın tarihi oldukça eskidir. Bu hamam, yüzyıllar
 
 ## Coğrafya
 
-Cedid İbrahim Paşa Hamamı, Beşiktaş'ta bulunan bir tarihi hamamdır. Marmara Bölgesi'nde yer alan bu hamam, İstanbul'un önemli bir kültür merkezi olarak hizmet vermiştir. 140 hektarlık bir alanın içinde yer alan hamam, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Cedid İbrahim Paşa Hamamı, tarihi dokusu ve mimari yapısı ile dikkat çeker. Bu hamam, İstanbul'un tarihi alanlarından biri olarak ziyaretçilerini bekliyor. Cedid İbrahim Paşa Hamamı, Marmara Bölgesi'nin kültür mirasını yansıtan önemli bir yapıdır. İstanbul'un en önemli tarihi eserlerinden biri olan bu hamam, yüzyıllar boyunca İstanbul'un önemli bir kültür merkezi olarak hizmet vermiştir.
+Cedid İbrahim Paşa Hamamı, Beşiktaş'ta bulunan bir tarihi hamamdır. Marmara Bölgesi'nde yer alan bu hamam, İstanbul'un önemli bir kültür merkezi olarak hizmet vermiştir. Cedid İbrahim Paşa Hamamı, tarihi dokusu ve mimari yapısı ile dikkat çeker. Bu hamam, İstanbul'un tarihi alanlarından biri olarak ziyaretçilerini bekliyor. Cedid İbrahim Paşa Hamamı, Marmara Bölgesi'nin kültür mirasını yansıtan önemli bir yapıdır. İstanbul'un en önemli tarihi eserlerinden biri olan bu hamam, yüzyıllar boyunca İstanbul'un önemli bir kültür merkezi olarak hizmet vermiştir.
 
 ## Flora ve Fauna
 

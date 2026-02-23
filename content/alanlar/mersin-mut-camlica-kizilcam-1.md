@@ -22,7 +22,7 @@ wikidata_id: "Q108228441"
 
 # Mersin-Mut-Çamlıca-Kızılçam 1
 
-Mersin-Mut-Çamlıca-Kızılçam 1 milli parkı, Akdeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş alan, ziyaretçilerine doğayla iç içe olmak için mükemmel bir fırsat sunuyor. Milli parkın konumu, Mersin'in Mut ilçesine yakın olmasıyla dikkat çekiyor. Doğal güzelliği, zengin florası ve faunasıyla ziyaretçilerini bekliyor.
+Mersin-Mut-Çamlıca-Kızılçam 1 milli parkı, Akdeniz Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu geniş alan, ziyaretçilerine doğayla iç içe olmak için mükemmel bir fırsat sunuyor. Milli parkın konumu, Mersin'in Mut ilçesine yakın olmasıyla dikkat çekiyor. Doğal güzelliği, zengin florası ve faunasıyla ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

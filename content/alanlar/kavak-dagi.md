@@ -51,7 +51,7 @@ Bölgenin su kaynakları açısından zengin olması, Kavak Dağı'nın çevrese
 
 Kavak Dağı, yüksek dağ ekolojisinin tüm güzelliğini sergiler. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, alpin çayırlar renkli çiçeklerle donanır. Sonbaharda, dağ yamaçlarındaki bitkiler sarı, kahverengi ve kırmızı tonlara bürünür.
 
-Bitki örtüsünün hakim türleri arasında yükseklik zonlarına özgü bitkiler bulunur. Bu bitkiler, dağların zorlu koşullarına adapte olmuşlardır. Mevsimsel değişimlerle birlikte, dağların eteklerinde ve zirvelerinde farklı türler ortaya çıkar. 
+Bitki örtüsünün hakim türleri arasında yükseklik zonlarına özgü bitkiler bulunur. Bu bitkiler, dağların zorlu koşullarına adapte olmuşlardır. Mevsimsel değişimlerle birlikte, dağların eteklerinde ve zirvelerinde farklı türler ortaya çıkar.
 
 Kavak Dağı, aynı zamanda çeşitli yaban hayvanlarına ev sahipliği yapar. Dağ keçileri, ayılar ve kurtlar gibi memeliler, dağların zorlu koşullarına adapte olmuşlardır. Kuşlar, özellikle sonbaharda göç ettikleri sırada dağları ziyaret ederler. Sürüngenler ve amfibiler de dağların çeşitli yaşam alanlarında bulunurlar.
 

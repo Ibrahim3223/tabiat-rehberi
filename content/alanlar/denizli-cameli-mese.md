@@ -22,7 +22,7 @@ wikidata_id: "Q108228476"
 
 # Denizli-Cameli-Mese
 
-Denizli-Cameli-Mese milli parkı, Ege Bölgesi'nin en önemli güzelliklerinden biridir. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Bu büyük alan, ziyaretçilerine geniş bir açık alan sunar. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunması, ziyaretçilerin doğayı yakından tanımasına olanak sağlar. Ayrıca, parkın etrafındaki dağlar ve vadiler, ziyaretçilere eşsiz bir manzara sunar.
+Denizli-Cameli-Mese milli parkı, Ege Bölgesi'nin en önemli güzelliklerinden biridir. Bu büyük alan, ziyaretçilerine geniş bir açık alan sunar. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunması, ziyaretçilerin doğayı yakından tanımasına olanak sağlar. Ayrıca, parkın etrafındaki dağlar ve vadiler, ziyaretçilere eşsiz bir manzara sunar.
 
 ## Tarihçe
 
@@ -42,7 +42,6 @@ Denizli-Cameli-Mese milli parkı, ziyaretçilerine çeşitli gezi ve keşif fır
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
 - Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunması, ziyaretçilerin doğayı yakından tanımasına olanak sağlar.
 - Parkın etrafındaki dağlar ve vadiler, ziyaretçilere eşsiz bir manzara sunar.
 - Parkın tarihi geçmişi, zengin kültürel mirası ile ziyaretçileri cezbeder.

@@ -28,7 +28,7 @@ wikidata_id: "Q31386286"
 
 # Kotomandağı Tepesi
 
-Kotomandağı Tepesi, Kilis ilinin güneydoğu kesiminde yer alan bir tepe olup, bölgenin coğrafi yapısını önemli ölçüde etkileyen bir doğal oluşumdur. Yaklaşık 140 hektarlık bir alanı kaplayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Bölgenin flora ve faunasını önemli ölçüde etkileyen bu tepe, aynı zamanda bölgede yaşayan halk için önemli bir doğal kayna ve ziyaret noktasıdır. Kotomandağı Tepesi, ziyaretçilerini bölgeye özgü bitkiler ve hayvanlar ile buluşturur.
+Kotomandağı Tepesi, Kilis ilinin güneydoğu kesiminde yer alan bir tepe olup, bölgenin coğrafi yapısını önemli ölçüde etkileyen bir doğal oluşumdur. Bölgenin flora ve faunasını önemli ölçüde etkileyen bu tepe, aynı zamanda bölgede yaşayan halk için önemli bir doğal kayna ve ziyaret noktasıdır. Kotomandağı Tepesi, ziyaretçilerini bölgeye özgü bitkiler ve hayvanlar ile buluşturur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kotomandağı Tepesi'nin tarihi geçmişi, bölgeye yerleşen ilk insanların ya
 
 ## Coğrafya
 
-Kotomandağı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını önemli ölçüde etkileyen bir doğal oluşumdur. Tepenin coğrafi konumu, bölgenin iklimini, flora ve faunasını önemli ölçüde etkiler. Kotomandağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar. Tepenin yüksekliği, bölgenin coğrafi yapısını önemli ölçüde etkiler ve bölgenin iklimini şekillendirir. Kotomandağı Tepesi, bölgenin flora ve faunasını önemli ölçüde etkileyen bir doğal kayna ve ziyaret noktasıdır. Tepenin coğrafi konumu, bölgenin önemli bir doğal güzelliği olmasını sağlar.
+Kotomandağı Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını önemli ölçüde etkileyen bir doğal oluşumdur. Tepenin coğrafi konumu, bölgenin iklimini, flora ve faunasını önemli ölçüde etkiler. Tepenin yüksekliği, bölgenin coğrafi yapısını önemli ölçüde etkiler ve bölgenin iklimini şekillendirir. Kotomandağı Tepesi, bölgenin flora ve faunasını önemli ölçüde etkileyen bir doğal kayna ve ziyaret noktasıdır. Tepenin coğrafi konumu, bölgenin önemli bir doğal güzelliği olmasını sağlar.
 
 ## Flora ve Fauna
 

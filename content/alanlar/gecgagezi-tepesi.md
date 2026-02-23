@@ -28,7 +28,7 @@ wikidata_id: "Q31545689"
 
 # Gecgagezi Tepesi
 
-Gecgagezi Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri. Batman şehrinin yakınlarında bulunan bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğanın tüm güzelliğini sunuyor. Gecgagezi Tepesi, doğa severlerin ve macera arayanların gözdesi haline gelmeye devam ediyor. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir olanak sunuyor. Gecgagezi Tepesi, aynı zamanda bölgede yer alan diğer doğal güzelliklere de yakın mesafede bulunuyor.
+Gecgagezi Tepesi, Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri. Bu geniş alan, ziyaretçilere doğanın tüm güzelliğini sunuyor. Gecgagezi Tepesi, doğa severlerin ve macera arayanların gözdesi haline gelmeye devam ediyor. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir olanak sunuyor. Gecgagezi Tepesi, aynı zamanda bölgede yer alan diğer doğal güzelliklere de yakın mesafede bulunuyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gecgagezi Tepesi, tarihsel geçmişe sahip önemli bir bölge. Tepenin tarihi ge
 
 ## Coğrafya
 
-Gecgagezi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir olanak sunuyor. Gecgagezi Tepesi, aynı zamanda bölgede yer alan diğer doğal güzelliklere de yakın mesafede bulunuyor. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini tanıma fırsatı sunuyor. Gecgagezi Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere doğanın tüm güzelliğini sunuyor. Tepenin iklimi, bölgeye özgü olarak sıcak ve kurak bir iklim. Gecgagezi Tepesi, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini bekliyor.
+Gecgagezi Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak önemli bir noktasında bulunuyor. Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir olanak sunuyor. Gecgagezi Tepesi, aynı zamanda bölgede yer alan diğer doğal güzelliklere de yakın mesafede bulunuyor. Tepenin coğrafi konumu, ziyaretçilere bölgenin doğal güzelliğini tanıma fırsatı sunuyor. Bu geniş alan, ziyaretçilere doğanın tüm güzelliğini sunuyor. Tepenin iklimi, bölgeye özgü olarak sıcak ve kurak bir iklim. Gecgagezi Tepesi, coğrafi konumu ve doğal güzelliği ile ziyaretçilerini bekliyor.
 
 ## Flora ve Fauna
 
@@ -48,7 +48,6 @@ Gecgagezi Tepesi, ziyaretçilerine çeşitli olanaklar sunuyor. Tepenin geniş a
 
 ## İlginç Bilgiler
 
-- Gecgagezi Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin yüksekliği ve genişliği, ziyaretçilere bölgeyi keşfetmek için geniş bir olanak sunuyor.
 - Gecgagezi Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 - Tepenin flora ve fauna çeşitliliği, ziyaretçilere bölgenin doğal güzelliğini tanıma fırsatı sunuyor.

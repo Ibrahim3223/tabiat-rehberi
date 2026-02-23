@@ -23,15 +23,15 @@ wikidata_id: "Q108228201"
 
 # Kartaltepe Tabiat Parkı (Tekirdağ)
 
-Kartaltepe Tabiat Parkı, Tekirdağ'ın güzide mekanlarından biri olarak öne çıkıyor. 140 hektarlık bu büyük yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmakta. Ziyaretçiler, parkın içinde yürüyüş yapabilir, doğanın güzelliğini keşfedebilir. Bu park, Tekirdağ'ın önemli turizm merkezlerinden biri olarak kabul ediliyor. Parkın güzelliği, ziyaretçilerini büyüleyici bir doğa deneyimi sunuyor.
+Kartaltepe Tabiat Parkı, Tekirdağ'ın güzide mekanlarından biri olarak öne çıkıyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunmakta. Ziyaretçiler, parkın içinde yürüyüş yapabilir, doğanın güzelliğini keşfedebilir. Bu park, Tekirdağ'ın önemli turizm merkezlerinden biri olarak kabul ediliyor. Parkın güzelliği, ziyaretçilerini büyüleyici bir doğa deneyimi sunuyor.
 
 ## Tarihçe
 
-Kartaltepe Tabiat Parkı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölgede, insanların yaşadığı ve doğayı koruma altına aldığı biliniyor. Parkın kuruluşu, uzun bir sürecin ardından gerçekleşti. Bu süreçte, doğa koruma çalışmaları ve çevre düzenlemeleri yapıldı. Parkın establishmentı, bölgeye canlılık kazandırdı. Bugün, Kartaltepe Tabiat Parkı, Tekirdağ'ın en önemli doğal alanlarından biri olarak kabul ediliyor. Parkın história, ziyaretçilerini etkileyen bir geçmişe sahip.
+Kartaltepe Tabiat Parkı'nın tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölgede, insanların yaşadığı ve doğayı koruma altına aldığı biliniyor. Parkın kuruluşu, uzun bir sürecin ardından gerçekleşti. Bu süreçte, doğa koruma çalışmaları ve çevre düzenlemeleri yapıldı. Parkın establishmentı, bölgeye canlılık kazandırdı. Bugün, Kartaltepe Tabiat Parkı, Tekirdağ'ın en önemli doğal alanlarından biri olarak kabul ediliyor. Parkın tarihi, ziyaretçilerini etkileyen bir geçmişe sahip.
 
 ## Coğrafya
 
-Kartaltepe Tabiat Parkı, Marmara Bölgesi'nde, Tekirdağ ilinde yer alıyor. Park, 140 hektarlık bir alanı kapsıyor. Bu büyük yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Parkın iklimi, Marmara Bölgesi'nin ılıman iklimi ile benzerlik gösteriyor. Parkın çevresi, doğa güzelliği ile çevrili. Parka ulaşım, Tekirdağ merkezinden kolayca sağlanabiliyor. Parkın coğrafi konumu, ziyaretçilerine geniş bir görünüm sunuyor.
+Kartaltepe Tabiat Parkı, Marmara Bölgesi'nde, Tekirdağ ilinde yer alıyor. Park, 140 hektarlık bir alanı kapsıyor. Parkın coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterize ediliyor. Parkın iklimi, Marmara Bölgesi'nin ılıman iklimi ile benzerlik gösteriyor. Parkın çevresi, doğa güzelliği ile çevrili. Parka ulaşım, Tekirdağ merkezinden kolayca sağlanabiliyor. Parkın coğrafi konumu, ziyaretçilerine geniş bir görünüm sunuyor.
 
 ## Flora ve Fauna
 

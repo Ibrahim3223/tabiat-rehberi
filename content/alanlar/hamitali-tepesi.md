@@ -28,11 +28,11 @@ wikidata_id: "Q31385770"
 
 # Hamitali Tepesi
 
-Hamitali Tepesi, Diyarbakır'ın eşsiz manzarasına ev sahipliği yapan bir tepe olarak biliniyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde yer alıyor. Tepenin eteklerinde bulunan yerleşim yerleri, tarihi yapılar ve doğal güzellikler, ziyaretçilere zengin bir gezi deneyimi sunuyor. Hamitali Tepesi, yılın her dönemi ziyaret edilebiliyor ve her mevsim farklı bir güzelliğe sahip.
+Hamitali Tepesi, Diyarbakır'ın eşsiz manzarasına ev sahipliği yapan bir tepe olarak biliniyor. Tepenin eteklerinde bulunan yerleşim yerleri, tarihi yapılar ve doğal güzellikler, ziyaretçilere zengin bir gezi deneyimi sunuyor. Hamitali Tepesi, yılın her dönemi ziyaret edilebiliyor ve her mevsim farklı bir güzelliğe sahip.
 
 ## Tarihçe
 
-Hamitali Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçmiş durumda. Tepenin eteklerinde bulunan tarihi yapılar ve kalıntılar, bölgenin zengin kültürel mirasını yansıtıyor. Tarihi geçmişi yüzyıllar öncesine dayanan bu tepe, çeşitli medeniyetlerin izlerini taşıyor. Tepenin adı, bölgenin histórik önemini vurguluyor ve ziyaretçilere bir zaman yolculuğu fırsatı sunuyor. Hamitali Tepesi, Diyarbakır'ın tarihi ve kültürel kimliğinin önemli bir parçasıdır.
+Hamitali Tepesi'nin tarihi geçmişi, Diyarbakır'ın tarihi ile iç içe geçmiş durumda. Tepenin eteklerinde bulunan tarihi yapılar ve kalıntılar, bölgenin zengin kültürel mirasını yansıtıyor. Tarihi geçmişi yüzyıllar öncesine dayanan bu tepe, çeşitli medeniyetlerin izlerini taşıyor. Tepenin adı, bölgenin tarihi önemini vurguluyor ve ziyaretçilere bir zaman yolculuğu fırsatı sunuyor. Hamitali Tepesi, Diyarbakır'ın tarihi ve kültürel kimliğinin önemli bir parçasıdır.
 
 ## Coğrafya
 

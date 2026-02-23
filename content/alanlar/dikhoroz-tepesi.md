@@ -28,7 +28,7 @@ wikidata_id: "Q31390477"
 
 # Dikhoroz Tepesi
 
-Dikhoroz Tepesi, Konya'nın güzide noktalarından biri olarak karşımıza çıkıyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Konya'nın coğrafi yapısına uygun olarak, Dikhoroz Tepesi de İç Anadolu Bölgesi'nin karakteristik özellikleri taşıyor. Burada, doğal güzellikler ve tarihi geçmişi bir araya geliyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
+Dikhoroz Tepesi, Konya'nın güzide noktalarından biri olarak karşımıza çıkıyor. Konya'nın coğrafi yapısına uygun olarak, Dikhoroz Tepesi de İç Anadolu Bölgesi'nin karakteristik özellikleri taşıyor. Burada, doğal güzellikler ve tarihi geçmişi bir araya geliyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 
@@ -36,15 +36,15 @@ Dikhoroz Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu t
 
 ## Coğrafya
 
-Dikhoroz Tepesi, Konya'nın coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nin karakteristik özellikleri taşıyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Tepenin yüksekliği ve konumu, bölgenin iklimini etkiliyor. Dikhoroz Tepesi'nin eteklerinde ve çevresinde, çeşitli bitki türleri yerine, çeşitli bitki türleri ve zengin fauna bulunmakta. Tepenin doğusunda ve batısında, farklı coğrafi oluşumlar görülmekte. Ayrıca, Dikhoroz Tepesi, bölgenin hidrolojik yapısına da katkıda bulunmakta. Tepenin etrafında, su kaynakları ve akarsular bulunmakta. Bu su kaynakları, bölgenin tarımı ve hayvancılığı için önemli.
+Dikhoroz Tepesi, Konya'nın coğrafi yapısına uygun olarak, İç Anadolu Bölgesi'nin karakteristik özellikleri taşıyor. Tepenin yüksekliği ve konumu, bölgenin iklimini etkiliyor. Dikhoroz Tepesi'nin eteklerinde ve çevresinde, çeşitli bitki türleri yerine, çeşitli bitki türleri ve zengin fauna bulunmakta. Tepenin doğusunda ve batısında, farklı coğrafi oluşumlar görülmekte. Ayrıca, Dikhoroz Tepesi, bölgenin hidrolojik yapısına da katkıda bulunmakta. Tepenin etrafında, su kaynakları ve akarsular bulunmakta. Bu su kaynakları, bölgenin tarımı ve hayvancılığı için önemli.
 
 ## Flora ve Fauna
 
-Dikhoroz Tepesi, doğal güzellikleri ve zengin fauna ile dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri bulunmakta. Mevsimsel değişimlere bağlı olarak, bitki türleri değişiyor. İlkbahar ve yaz aylarında, tepenin etrafında, yeşillikler hakim oluyor. Sonbahar ve kış aylarında, ise bitki türleri, mevsime uygun olarak değişiyor. Ayrıca, Dikhoroz Tepesi, zengin fauna ile dikkat çekiyor. Tepenin etrafında, çeşitli hayvan türleri bulunmakta. Bunlar, bölgenin ekolojik dengesini sağlamakta.
+Dikhoroz Tepesi, doğal güzellikleri ve zengin fauna ile dikkat çekiyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri bulunmakta. Mevsimsel değişimlere bağlı olarak, bitki türleri değişiyor. İlkbahar ve yaz aylarında, tepenin etrafında, yeşillikler hakim oluyor. Sonbahar ve kış aylarında, ise bitki türleri, mevsime uygun olarak değişiyor. Ayrıca, Dikhoroz Tepesi, zengin fauna ile dikkat çekiyor. Tepenin etrafında, çeşitli hayvan türleri bulunmakta. Bunlar, bölgenin ekolojik dengesini sağlamakta.
 
 ## Ziyaret Bilgileri
 
-Dikhoroz Tepesi, ziyaretçilere doğanın güzelliklerini sunuyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ve 200 futbol sahası büyüklüğünde. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Ziyaretçiler, Dikhoroz Tepesi'ni gezerken, doğal güzellikleri ve tarihi geçmişi hakkında bilgi edinebilirler. İlkbahar ve yaz ayları, Dikhoroz Tepesi'ni ziyaret etmek için en uygun zaman. Bu mevsimlerde, tepenin etrafında, yeşillikler hakim oluyor ve hava sıcaklığı uygun.
+Dikhoroz Tepesi, ziyaretçilere doğanın güzelliklerini sunuyor. Tepenin eteklerinde ve çevresinde, çeşitli bitki türleri ve zengin fauna bulunmakta. Ziyaretçiler, Dikhoroz Tepesi'ni gezerken, doğal güzellikleri ve tarihi geçmişi hakkında bilgi edinebilirler. İlkbahar ve yaz ayları, Dikhoroz Tepesi'ni ziyaret etmek için en uygun zaman. Bu mevsimlerde, tepenin etrafında, yeşillikler hakim oluyor ve hava sıcaklığı uygun.
 
 ## İlginç Bilgiler
 

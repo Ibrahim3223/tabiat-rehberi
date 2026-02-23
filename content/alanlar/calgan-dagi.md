@@ -34,7 +34,7 @@ Sivas'ın doğusunda yükselen Çalgan Dağı, bölgeye hakim bir konuma sahip. 
 
 Sivas bölgesinin tarihi, binlerce yıl öncesine uzanır. Bu bölge, tarih boyunca Hitit, Pers, Roma ve Osmanlı gibi pek çok uygarlığa ev sahipliği yapmış, önemli ticaret yollarının kesişme noktası olmuştur. Çalgan Dağı da, bu tarihsel zenginliğin bir parçasıdır. Türkiye'de doğal alanlar, sadece ekolojik önemlerinin yanı sıra, kültürel ve tarihi değerleriyle de ön plana çıkar. Yaylacılık ve hayvancılık gibi geleneksel faaliyetler, bu bölgelerin ekonomi ve sosyal yaşamında önemli rol oynamıştır.
 
-Sivas'ın coğrafi konumu, tarih boyunca çeşitli medeniyetlerin geçiş noktası olmasını sağlamıştır. Bu bölgede yer alan doğal güzellikler, insan yerleşimlerinin ve ekonomik faaliyetlerin şekillenmesinde etkili olmuştur. Çalgan Dağı gibi alanlar, sadece doğal güzelliği ile değil, aynı zamanda históri ve kültürel önemleriyle de dikkat çeker. Bu tür bölgelerin korunması ve sürdürülebilir kullanımı, gelecek nesiller için önemli bir sorumluluk teşkil eder.
+Sivas'ın coğrafi konumu, tarih boyunca çeşitli medeniyetlerin geçiş noktası olmasını sağlamıştır. Bu bölgede yer alan doğal güzellikler, insan yerleşimlerinin ve ekonomik faaliyetlerin şekillenmesinde etkili olmuştur. Çalgan Dağı gibi alanlar, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel önemleriyle de dikkat çeker. Bu tür bölgelerin korunması ve sürdürülebilir kullanımı, gelecek nesiller için önemli bir sorumluluk teşkil eder.
 
 ## Coğrafya
 

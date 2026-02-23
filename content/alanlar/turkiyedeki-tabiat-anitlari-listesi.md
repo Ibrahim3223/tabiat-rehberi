@@ -22,7 +22,7 @@ schema_type: "TouristAttraction"
 
 # Türkiye'deki tabiat anıtları listesi
 
-Tabiat anıtı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biri. Doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor. Ziyaretçiler, bu alanda doğa yürüyüşü yapabilir, piknik yapabilir ve bölgenin tarihi geçmişi hakkında bilgi edinebilirler.
+Tabiat anıtı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor. Doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor. Ziyaretçiler, bu alanda doğa yürüyüşü yapabilir, piknik yapabilir ve bölgenin tarihi geçmişi hakkında bilgi edinebilirler.
 
 ## Tarihçe
 

@@ -1,7 +1,7 @@
 ---
 title: "Kethüda Canfeda Hatun Hamamı"
 date: "2026-01-09T23:40:17.321Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739136"
 
 # Kethüda Canfeda Hatun Hamamı
 
-Kethüda Canfeda Hatun Hamamı, İstanbul'un tarihi ve kültürel mirasının önemli bir parçasıdır. Beykoz'da bulunan hamam, yaklaşık 140 hektarlık bir alanda yer almaktadır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hamamın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. Kethüda Canfeda Hatun Hamamı, sadece bir hamam değil, aynı zamanda bir kültürel ve tarihi mekândır. Ziyaretçiler, bu tarihi mekânı gezerken, geçmişin izlerini keşfedebilirler.
+Kethüda Canfeda Hatun Hamamı, İstanbul'un tarihi ve kültürel mirasının önemli bir parçasıdır. Beykoz'da bulunan hamam, yaklaşık 140 hektarlık bir alanda yer almaktadır. Hamamın tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşımaktadır. Kethüda Canfeda Hatun Hamamı, sadece bir hamam değil, aynı zamanda bir kültürel ve tarihi mekândır. Ziyaretçiler, bu tarihi mekânı gezerken, geçmişin izlerini keşfedebilirler.
 
 ## Tarihçe
 

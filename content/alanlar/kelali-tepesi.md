@@ -28,7 +28,7 @@ wikidata_id: "Q31390186"
 
 # Kelali Tepesi
 
-Kelali Tepesi, Burdur'un gözde noktalarından biri olarak karşımıza çıkıyor. Bu bölgenin güzelliği, özellikle Akdeniz Bölgesi'nin coğrafi özelliklerine uygun olarak şekillenmiştir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir doğa alanı sunuyor. Kelali Tepesi, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekiyor. Burada, tarihi geçmişi ve eşsiz manzarasıyla ziyaretçilerini büyülüyor.
+Kelali Tepesi, Burdur'un gözde noktalarından biri olarak karşımıza çıkıyor. Bu bölgenin güzelliği, özellikle Akdeniz Bölgesi'nin coğrafi özelliklerine uygun olarak şekillenmiştir. Kelali Tepesi, hem doğa severlerin hem de tarihe meraklı olanların ilgisini çekiyor. Burada, tarihi geçmişi ve eşsiz manzarasıyla ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

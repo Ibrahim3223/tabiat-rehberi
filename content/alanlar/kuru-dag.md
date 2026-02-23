@@ -29,7 +29,7 @@ wikidata_id: "Q31511801"
 
 # Kuru Dağ
 
-Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini barındıran Malatya ilinde, Kuru Dağ eteklerinde kurulmuş olan yerleşim yerleri, ziyaretçilerini doğal güzellikleri ile karşılar. Malatya'nın coğrafi yapısı, Kuru Dağ'ın eteklerinde oluşan verimli ovaları ve dağlık alanları içerir. Kuru Dağ, Malatya'nın önemli doğal oluşumlarından biri olup, bölgenin jeolojik yapısını şekillendirmiştir. Bu dağ, Malatya'nın il sınırları içerisinde yer alır ve régionun doğal güzelliklerini sergiler.
+Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini barındıran Malatya ilinde, Kuru Dağ eteklerinde kurulmuş olan yerleşim yerleri, ziyaretçilerini doğal güzellikleri ile karşılar. Malatya'nın coğrafi yapısı, Kuru Dağ'ın eteklerinde oluşan verimli ovaları ve dağlık alanları içerir. Kuru Dağ, Malatya'nın önemli doğal oluşumlarından biri olup, bölgenin jeolojik yapısını şekillendirmiştir. Bu dağ, Malatya'nın il sınırları içerisinde yer alır ve bölgenin doğal güzelliklerini sergiler.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Bölgenin ekosistem bağlamında, Kuru Dağ su kaynaklarına yakınlığıyla di
 
 ## Flora ve Fauna
 
-Kuru Dağ, Malatya'nın yüksek dağ ekolojisinin hakim olduğu bir bölge. Bu 1200 hektarlık alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Kuru Dağ, Malatya'nın yüksek dağ ekolojisinin hakim olduğu bir bölge. Bu 1200 hektarlık alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsüne baktığımızda, ilkbahar aylarında dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin çayırlar, bölgenin karakteristik özelliklerinden biri. Sonbaharda ise, yaprak döken ağaçlar sarı, turuncu ve kırmızılara bürünüyor.
 

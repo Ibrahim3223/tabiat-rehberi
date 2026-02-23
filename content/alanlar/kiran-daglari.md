@@ -48,7 +48,7 @@ Mevsimsel değişikliklere göre iklim karakteri değişen Kıran Dağları, yaz
 
 ## Flora ve Fauna
 
-Kıran Dağları, İzmir'in doğal güzelliklerinin bir parçası olarak karşımıza çıkıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği göze çarpmaktadır. 
+Kıran Dağları, İzmir'in doğal güzelliklerinin bir parçası olarak karşımıza çıkıyor. Bu dağ ekosisteminde, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliği göze çarpmaktadır.
 
 Bitki örtüsünü oluşturan zeytinlikler ve çam ormanları, Akdeniz ikliminin karakteristik özelliklerini taşıyor. İlkbahar aylarında, dağ yamaçları renkli çiçeklerle donanırken, sonbahar mevsiminde bu bölgeyi göçmen kuşlar ziyaret ediyor.
 

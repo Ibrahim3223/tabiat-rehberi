@@ -23,7 +23,7 @@ wikidata_id: "Q65219886"
 
 # Halgent Şelalesi
 
-Halgent Şelalesi, Gümüşhane ve Bayburt'un sınırında, Karadeniz Bölgesi'nin doğal güzelliğini keşfedeceğiniz bir destinasyon. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerini doğanın kucağına davet ediyor. Şelalenin güzelliği, çevresindeki ormanlarla birlikte, ziyaretçilere unutulmaz bir deneyim sunuyor. Bu bölge, hem doğa severler hem de fotoğraf tutkunları için bir cennet.
+Halgent Şelalesi, Gümüşhane ve Bayburt'un sınırında, Karadeniz Bölgesi'nin doğal güzelliğini keşfedeceğiniz bir destinasyon. Şelalenin güzelliği, çevresindeki ormanlarla birlikte, ziyaretçilere unutulmaz bir deneyim sunuyor. Bu bölge, hem doğa severler hem de fotoğraf tutkunları için bir cennet.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Halgent Şelalesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bö
 
 ## Coğrafya
 
-Halgent Şelalesi, Gümüşhane ve Bayburt'un sınırında, Karadeniz Bölgesi'nin coğrafi olarak en güzel noktalarından birinde yer alıyor. Bu bölge, 140 hektarlık yeşil alanıyla birlikte, yaklaşık 200 futbol sahası büyüklüğünde ve bu alan, ziyaretçilere geniş bir doğa alanı sunuyor. Şelale, çevredeki ormanlarla birlikte, bir doğa harikası olarak kabul ediliyor ve bu regionun iklimi, ziyaretçilere yılın her döneminde farklı deneyimler sunuyor. Bölgenin coğrafi yapısı, şelalenin oluşumunu da etkilemiş ve bu doğal oluşum, bölgeye özgü bir güzellik katıyor.
+Halgent Şelalesi, Gümüşhane ve Bayburt'un sınırında, Karadeniz Bölgesi'nin coğrafi olarak en güzel noktalarından birinde yer alıyor. Şelale, çevredeki ormanlarla birlikte, bir doğa harikası olarak kabul ediliyor ve bu regionun iklimi, ziyaretçilere yılın her döneminde farklı deneyimler sunuyor. Bölgenin coğrafi yapısı, şelalenin oluşumunu da etkilemiş ve bu doğal oluşum, bölgeye özgü bir güzellik katıyor.
 
 ## Flora ve Fauna
 

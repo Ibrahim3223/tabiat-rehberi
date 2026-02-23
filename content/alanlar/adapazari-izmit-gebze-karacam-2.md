@@ -22,7 +22,7 @@ wikidata_id: "Q108227924"
 
 # Adapazari-Izmit-Gebze Karacam 2
 
-Adapazari-Izmit-Gebze Karacam 2 milli-parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş yeşil alanlar sunar. Burada doğa severler, güzel manzaraların tadını çıkarabilir ve çeşitli bitki türleri ile karşılaşabilir. Milli-park, hem yerel halk hem de ziyaretçiler için keyifli bir kaçış noktasıdır. Alanın büyüklüğü ve doğal güzelliği, onu bölgenin önemli çekim merkezlerinden biri haline getirir. Ziyaretçiler, bu güzel milli-parkı keşfetmek için çeşitli yollar kullanabilir ve doğa ile iç içe bir gün geçirebilir.
+Adapazari-Izmit-Gebze Karacam 2 milli-parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biridir. Burada doğa severler, güzel manzaraların tadını çıkarabilir ve çeşitli bitki türleri ile karşılaşabilir. Milli-park, hem yerel halk hem de ziyaretçiler için keyifli bir kaçış noktasıdır. Alanın büyüklüğü ve doğal güzelliği, onu bölgenin önemli çekim merkezlerinden biri haline getirir. Ziyaretçiler, bu güzel milli-parkı keşfetmek için çeşitli yollar kullanabilir ve doğa ile iç içe bir gün geçirebilir.
 
 ## Tarihçe
 

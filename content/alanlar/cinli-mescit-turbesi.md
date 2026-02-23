@@ -1,7 +1,7 @@
 ---
 title: "Cinli Mescit Türbesi"
 date: "2026-01-10T05:13:40.959Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391563"
 
 # Cinli Mescit Türbesi
 
-Cinli Mescit Türbesi, İzmir'in Bayındır ilçesinde yer alan bir plajdır. Bu bölge, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Cinli Mescit Türbesi, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Bu alan, hem tarihi türbesi hem de geniş plajı ile ziyaretçilerini çekmektedir. Cinli Mescit Türbesi, İzmir'in turizm noktalarından biri olarak dikkat çekmektedir.
+Cinli Mescit Türbesi, İzmir'in Bayındır ilçesinde yer alan bir plajdır. Cinli Mescit Türbesi, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Bu alan, hem tarihi türbesi hem de geniş plajı ile ziyaretçilerini çekmektedir. Cinli Mescit Türbesi, İzmir'in turizm noktalarından biri olarak dikkat çekmektedir.
 
 ## Tarihçe
 

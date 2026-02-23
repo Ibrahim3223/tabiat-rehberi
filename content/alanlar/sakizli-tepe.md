@@ -28,7 +28,7 @@ wikidata_id: "Q31387520"
 
 # Sakizli Tepe
 
-Sakizli Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile önemli bir doğa alanı. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş bir açık alan sunuyor. Tepe, eteklerinde yer alan yerleşim yerleri ile birlikte, tarihi ve doğal güzellikleri bir araya getiren önemli bir bölge.
+Sakizli Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile önemli bir doğa alanı. Tepe, eteklerinde yer alan yerleşim yerleri ile birlikte, tarihi ve doğal güzellikleri bir araya getiren önemli bir bölge.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sakizli Tepe'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin 
 
 ## Coğrafya
 
-Sakizli Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile önemli bir doğa alanı. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş bir açık alan sunuyor. Tepe, eteklerinde yer alan yerleşim yerleri ile birlikte, tarihi ve doğal güzellikleri bir araya getiren önemli bir bölge. Tepe ve çevresinin iklimi, Marmara Bölgesi'nin genel iklimine benzer. Bölge, genellikle ılıman ve nemli bir iklim özelliği gösteriyor. Sakizli Tepe, ziyaretçilerine, geniş açık alanları, tarihi güzellikleri ve doğal çevreyi bir araya getiren bir gezi deneyimi sunuyor.
+Sakizli Tepe, Çanakkale'nin Marmara Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık alanı ile önemli bir doğa alanı. Tepe, eteklerinde yer alan yerleşim yerleri ile birlikte, tarihi ve doğal güzellikleri bir araya getiren önemli bir bölge. Tepe ve çevresinin iklimi, Marmara Bölgesi'nin genel iklimine benzer. Bölge, genellikle ılıman ve nemli bir iklim özelliği gösteriyor. Sakizli Tepe, ziyaretçilerine, geniş açık alanları, tarihi güzellikleri ve doğal çevreyi bir araya getiren bir gezi deneyimi sunuyor.
 
 ## Flora ve Fauna
 

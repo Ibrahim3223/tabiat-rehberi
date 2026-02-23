@@ -28,7 +28,7 @@ wikidata_id: "Q31551048"
 
 # Sırtaşevla Tepesi
 
-Sırtaşevla Tepesi, Güneydoğu Anadolu Bölgesi'nin Mardin şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal güzelliği ve tarihi önemi ile dikkat çekiyor. Mardin'in tarihi geçmişi, bu tepe ile birlikte anlaşılabilir. Sırtaşevla Tepesi, şehrin merkezine uzun bir mesafe uzaklıkta bulunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor.
+Sırtaşevla Tepesi, Güneydoğu Anadolu Bölgesi'nin Mardin şehrinde yer alan bir tepe. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu bölge, doğal güzelliği ve tarihi önemi ile dikkat çekiyor. Mardin'in tarihi geçmişi, bu tepe ile birlikte anlaşılabilir. Sırtaşevla Tepesi, şehrin merkezine uzun bir mesafe uzaklıkta bulunuyor. Tepenin eteklerinde, çeşitli bitki türleri ve zengin fauna bulunuyor.
 
 ## Tarihçe
 

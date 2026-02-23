@@ -51,13 +51,13 @@ Mevsimsel olarak bakıldığında, Güzelbaba Dağı'nın iklim karakteri, Doğu
 
 ## Flora ve Fauna
 
-Güzelbaba Dağı, step bitki örtüsüne ve bozkırın kuraklığına adapte olmuş türlerle dolu bir dağ ekosistemi sunar. 
-İlkbaharla birlikte, 1200 metre yükseklikte çiçekler açarak dağ yüzünü renklendirir. 
-Sonbaharda ise, göç eden kuşlar dağların üzerinde konaklar. 
-Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. 
-Dağ keçileri ve yaban keçileri, kayalık alanlarda yaşar. 
-Kuşlar, özellikle kartallar ve şahinler, dağların yüksek kesimlerinde yuvalanır. 
-Güzelbaba Dağı, ekolojik olarak önemli bir alandır ve koruma altına alınması gerekmektedir. 
+Güzelbaba Dağı, step bitki örtüsüne ve bozkırın kuraklığına adapte olmuş türlerle dolu bir dağ ekosistemi sunar.
+İlkbaharla birlikte, 1200 metre yükseklikte çiçekler açarak dağ yüzünü renklendirir.
+Sonbaharda ise, göç eden kuşlar dağların üzerinde konaklar.
+Dağın yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker.
+Dağ keçileri ve yaban keçileri, kayalık alanlarda yaşar.
+Kuşlar, özellikle kartallar ve şahinler, dağların yüksek kesimlerinde yuvalanır.
+Güzelbaba Dağı, ekolojik olarak önemli bir alandır ve koruma altına alınması gerekmektedir.
 Bu dağ, bölgenin ekolojik dengesini korumada önemli bir role sahiptir.
 
 ## Ziyaret Bilgileri

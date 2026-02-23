@@ -1,7 +1,7 @@
 ---
 title: "Yabalı Dede Mehmet Efendi Türbesi"
 date: "2026-01-10T05:08:57.647Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391618"
 
 # Yabalı Dede Mehmet Efendi Türbesi
 
-Düzce'nin merkezinde yer alan Yabalı Dede Mehmet Efendi Türbesi, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerini doğanın kucağına davet ediyor. Tarihi geçmişi ve kültürel önemi ile ön plana çıkan bu mekan, aynı zamanda bölgenin florası ve faunasını keşfetmek için ideal bir nokta.
+Düzce'nin merkezinde yer alan Yabalı Dede Mehmet Efendi Türbesi, hem tarihi hem de doğal güzellikleriyle dikkat çekiyor. Tarihi geçmişi ve kültürel önemi ile ön plana çıkan bu mekan, aynı zamanda bölgenin florası ve faunasını keşfetmek için ideal bir nokta.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Yabalı Dede Mehmet Efendi Türbesi'nin tarihi geçmişi, yüzyıllar boyunca ol
 
 ## Coğrafya
 
-Yabalı Dede Mehmet Efendi Türbesi, Düzce'nin merkezinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yeşilin ve mavinin birleştiği bir noktada bulunuyor ve ziyaretçilerini muhteşem manzaralarla karşılıyor. Coğrafi olarak, 140 hektarlık bir alanı kaplayan bu point, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere doğayı keşfetmek için geniş bir imkan sunuyor. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik özellikleri taşıyor ve bu, flora ve fauna için zengin bir çeşitlilik yaratıyor.
+Yabalı Dede Mehmet Efendi Türbesi, Düzce'nin merkezinde yer alıyor ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyor. Bu bölge, yeşilin ve mavinin birleştiği bir noktada bulunuyor ve ziyaretçilerini muhteşem manzaralarla karşılıyor. Bölgenin iklimi, Karadeniz Bölgesi'nin karakteristik özellikleri taşıyor ve bu, flora ve fauna için zengin bir çeşitlilik yaratıyor.
 
 ## Flora ve Fauna
 
@@ -45,7 +45,7 @@ Yabalı Dede Mehmet Efendi Türbesi'nin bulunduğu bölgenin florası, çeşitli
 
 ## Ziyaret Bilgileri
 
-Yabalı Dede Mehmet Efendi Türbesi'ni ziyaret etmek, hem dinî bir expérience hem de doğal bir gezi anlamına geliyor. Ziyaretçiler, türbenin tarihi öneminin yanı sıra, çevredeki doğal güzellikleri de keşfedebilirler. Bu pointe nasıl gidileceği konusunda, ziyaretçiler için çeşitli ulaşım seçenekleri bulunmakta. Türbeyi ziyaret etmek için en iyi mevsim, ilkbahar ve yaz ayları olarak biliniyor, çünkü bu dönemde doğa en güzel haliyle ziyaretçilerini karşılıyor.
+Yabalı Dede Mehmet Efendi Türbesi'ni ziyaret etmek, hem dinî bir deneyim hem de doğal bir gezi anlamına geliyor. Ziyaretçiler, türbenin tarihi öneminin yanı sıra, çevredeki doğal güzellikleri de keşfedebilirler. Bu pointe nasıl gidileceği konusunda, ziyaretçiler için çeşitli ulaşım seçenekleri bulunmakta. Türbeyi ziyaret etmek için en iyi mevsim, ilkbahar ve yaz ayları olarak biliniyor, çünkü bu dönemde doğa en güzel haliyle ziyaretçilerini karşılıyor.
 
 ## İlginç Bilgiler
 

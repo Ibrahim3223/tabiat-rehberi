@@ -28,7 +28,7 @@ wikidata_id: "Q31388015"
 
 # Kır Tepesi
 
-Kır Tepesi, İç Anadolu Bölgesi'nin geniş ve verimli ovasının ortasında yükselen bir tepe olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ki bu, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kır Tepesi, hem coğrafi konumu hem de tarihi geçmişi ile önemli bir konumda bulunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna encontrado. Ayrıca, tepe çevresinde yerleşim yerleri ve tarihi kalıntılar da mevcut.
+Kır Tepesi, İç Anadolu Bölgesi'nin geniş ve verimli ovasının ortasında yükselen bir tepe olarak dikkat çekiyor. Kır Tepesi, hem coğrafi konumu hem de tarihi geçmişi ile önemli bir konumda bulunuyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna encontrado. Ayrıca, tepe çevresinde yerleşim yerleri ve tarihi kalıntılar da mevcut.
 
 ## Tarihçe
 

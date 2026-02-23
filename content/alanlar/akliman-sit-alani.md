@@ -22,7 +22,7 @@ wikidata_id: "Q108226184"
 
 # Aklıman Sit Alanı
 
-Aklıman Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğal alan olarak ön plana çıkıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgeye özgü bitkilerle kaplı. Aklıman Sit Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin ilk durağı oluyor. Burada, doğal güzellikler içinde kaybolma ve şehrin gürültüsünden uzaklaşma mümkün. Aklıman Sit Alanı, aynı zamanda bölgenin tarihi ve kültürel mirasını da koruma altına alıyor.
+Aklıman Sit Alanı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğal alan olarak ön plana çıkıyor. Aklıman Sit Alanı, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak isteyenlerin ilk durağı oluyor. Burada, doğal güzellikler içinde kaybolma ve şehrin gürültüsünden uzaklaşma mümkün. Aklıman Sit Alanı, aynı zamanda bölgenin tarihi ve kültürel mirasını da koruma altına alıyor.
 
 ## Tarihçe
 

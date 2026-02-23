@@ -28,7 +28,7 @@ wikidata_id: "Q31557236"
 
 # Kayayatak Tepesi
 
-Kayayatak Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, ziyaretçilerini doğal güzellikleriyle karşılar. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlar. Kayayatak Tepesi, yılın her mevsiminde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. İlkbahar ve sonbahar aylarında, tepeye tırmanmak daha kolay ve keyiflidir, çünkü hava sıcaklığı daha uygundur.
+Kayayatak Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir doğa harikası. Tepenin etrafında çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlar. Kayayatak Tepesi, yılın her mevsiminde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. İlkbahar ve sonbahar aylarında, tepeye tırmanmak daha kolay ve keyiflidir, çünkü hava sıcaklığı daha uygundur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kayayatak Tepesi'nin tarihi geçmişi hakkında detaylı bilgi bulunmamaktadır,
 
 ## Coğrafya
 
-Kayayatak Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Bu tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlar. Kayayatak Tepesi, yılın her mevsiminde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. Tepenin yüksekliği hakkında detaylı bilgi bulunmamaktadır, ancak tepeye tırmanmak isteyen ziyaretçiler, tepeye çıkan patikaları ve yolları kullanabilirler. Tepenin etrafındaki coğrafya, genel olarak düz ve açık arazilerden oluşur, ancak bazı noktalarda hafif eğimler ve tepecikler bulunabilir.
+Kayayatak Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir tepe. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna found, ziyaretçilerin doğayla iç içe olmasını sağlar. Kayayatak Tepesi, yılın her mevsiminde ziyaret edilebilir ve her mevsim farklı bir güzelliğe sahiptir. Tepenin yüksekliği hakkında detaylı bilgi bulunmamaktadır, ancak tepeye tırmanmak isteyen ziyaretçiler, tepeye çıkan patikaları ve yolları kullanabilirler. Tepenin etrafındaki coğrafya, genel olarak düz ve açık arazilerden oluşur, ancak bazı noktalarda hafif eğimler ve tepecikler bulunabilir.
 
 ## Flora ve Fauna
 

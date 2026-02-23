@@ -50,9 +50,9 @@ Mevsimsel özellikler açısından bakıldığında, Aruh Dağı ve çevresinin 
 
 ## Flora ve Fauna
 
-Aruh Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamacında binlerce çiçek açar ve rengarenk bir manzara sunar. 
+Aruh Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamacında binlerce çiçek açar ve rengarenk bir manzara sunar.
 
-Bitki örtüsünü oluşturan çayırlar ve endemik türler, bu yükseklikte yaşamın devamını sağlar. Yaban hayatı da bir o kadar renkli; dağ keçileri, kurtlar ve ayılar bu bölgenin önemli memeli türleridir. Kuşlar ise özellikle sonbaharda göç ederken, dağların üzerinde büyük sürüler halinde görülebilir. 
+Bitki örtüsünü oluşturan çayırlar ve endemik türler, bu yükseklikte yaşamın devamını sağlar. Yaban hayatı da bir o kadar renkli; dağ keçileri, kurtlar ve ayılar bu bölgenin önemli memeli türleridir. Kuşlar ise özellikle sonbaharda göç ederken, dağların üzerinde büyük sürüler halinde görülebilir.
 
 Bu dağ ekosisteminin korunması büyük önem taşır. Yüksek dağ ekolojisine ev sahipliği yapan Aruh Dağı, bölgenin ekolojik dengesini eder ve biyolojik çeşitliliğin devamını sağlar.
 

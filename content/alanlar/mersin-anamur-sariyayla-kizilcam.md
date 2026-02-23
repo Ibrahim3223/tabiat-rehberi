@@ -22,7 +22,7 @@ wikidata_id: "Q108227660"
 
 # Mersin-Anamur-Sariyayla Kızılçam
 
-Mersin-Anamur-Sariyayla Kızılçam milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, Mersin'in Anamur ilçesinde yer alıyor ve Sariyayla mevkii ile çevrili. Burada, kızılçam ağaçlarının hakim olduğu ormanlar, ziyaretçilere huzur verici bir atmosfer sunuyor. Milli parkın sunduğu doğal güzellikler, ziyaretçilerin doğa ile iç içe olmasını sağlıyor.
+Mersin-Anamur-Sariyayla Kızılçam milli parkı, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir. Bu milli park, Mersin'in Anamur ilçesinde yer alıyor ve Sariyayla mevkii ile çevrili. Burada, kızılçam ağaçlarının hakim olduğu ormanlar, ziyaretçilere huzur verici bir atmosfer sunuyor. Milli parkın sunduğu doğal güzellikler, ziyaretçilerin doğa ile iç içe olmasını sağlıyor.
 
 ## Tarihçe
 

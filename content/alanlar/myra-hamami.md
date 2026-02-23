@@ -1,7 +1,7 @@
 ---
 title: "Myra Hamamı"
 date: "2026-01-09T23:29:00.916Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739098"
 
 # Myra Hamamı
 
-Myra Hamamı, Demre/Antalya'da yer alan ve doğal güzelliği ile dikkat çeken bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini cezbeden bir güzelliğe sahiptir. Myra Hamamı, tarihi geçmişi ve doğal güzelliklerinin birleşmesiyle ziyaretçilerine benzersiz bir deneyim sunuyor. Bu alan, aynı zamanda Antalya'nın önemli turizm merkezlerinden biri olarak dikkat çekiyor.
+Myra Hamamı, Demre/Antalya'da yer alan ve doğal güzelliği ile dikkat çeken bir plajdır. Myra Hamamı, tarihi geçmişi ve doğal güzelliklerinin birleşmesiyle ziyaretçilerine benzersiz bir deneyim sunuyor. Bu alan, aynı zamanda Antalya'nın önemli turizm merkezlerinden biri olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Myra Hamamı'nın tarihi geçmişi, Likya Uygarlığı'na kadar uzanıyor. Bu b�
 
 ## Coğrafya
 
-Myra Hamamı, Demre/Antalya'da yer alıyor ve Akdeniz Bölgesi'nin en güzel plajlarından biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini cezbeden bir güzelliğe sahiptir. Myra Hamamı, deniz, kum ve güneşin birleşmesiyle ziyaretçilerine mükemmel bir deneyim sunuyor. Plajın etrafı, yeşilliklerle çevrili ve bu yeşillikler, ziyaretçilere serinli ve huzur sunuyor. Myra Hamamı, aynı zamanda zengin fauna ve florasıyla dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor ve bu canlılar, ziyaretçilere doğanın güzelliğini gösteriyor.
+Myra Hamamı, Demre/Antalya'da yer alıyor ve Akdeniz Bölgesi'nin en güzel plajlarından biri olarak dikkat çekiyor. Myra Hamamı, deniz, kum ve güneşin birleşmesiyle ziyaretçilerine mükemmel bir deneyim sunuyor. Plajın etrafı, yeşilliklerle çevrili ve bu yeşillikler, ziyaretçilere serinli ve huzur sunuyor. Myra Hamamı, aynı zamanda zengin fauna ve florasıyla dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşiyor ve bu canlılar, ziyaretçilere doğanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

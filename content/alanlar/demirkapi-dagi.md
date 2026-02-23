@@ -64,5 +64,5 @@ Demirkapı Dağı'na gitmek isteyenler için bazı praktik ipuçları vereceğim
 - Demirkazı Dağı ile birlikte aynı dağ silsilesinde yer alır.
 - Dağın yüksekliği ve coğrafi konumu hakkında spesifik bilgi bulunmamaktadır.
 - Demirkapı Dağı, Mersin ilinin Silifke ilçesi sınırları içerisinde yer alır.
-- Dağın eteklerinde ve yakın çevresinde histórik kalıntılara rastlanmıştır.
+- Dağın eteklerinde ve yakın çevresinde tarihi kalıntılara rastlanmıştır.
 - Demirkapı Dağı, yöresel flora ve fauna açısından zengin bir alandır.

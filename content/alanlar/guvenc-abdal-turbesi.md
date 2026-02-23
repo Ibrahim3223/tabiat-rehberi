@@ -1,7 +1,7 @@
 ---
 title: "Güvenç Abdal Türbesi"
 date: "2026-01-10T07:55:31.505Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Nevşehir"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582367"
 
 # Güvenç Abdal Türbesi
 
-Güvenç Abdal Türbesi, İç Anadolu Bölgesi'nin kalbinde, Hacıbektaş/Nevşehir'de yer alan tarihi bir türbe ve plajdır. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açıdan bölgeyi keşfetme fırsatı sunar. Tarihi geçmişi ve doğal güzellikleri ile Güvenç Abdal Türbesi, hem tarih meraklıları hem de doğa severler için önemli bir destinasyondur. İç Anadolu Bölgesi'nin coğrafi çeşitliliği ve tarihsel zenginliği, bu bölgeyi ziyaretçilere benzersiz bir deneyim sunar.
+Güvenç Abdal Türbesi, İç Anadolu Bölgesi'nin kalbinde, Hacıbektaş/Nevşehir'de yer alan tarihi bir türbe ve plajdır. Tarihi geçmişi ve doğal güzellikleri ile Güvenç Abdal Türbesi, hem tarih meraklıları hem de doğa severler için önemli bir destinasyondur. İç Anadolu Bölgesi'nin coğrafi çeşitliliği ve tarihsel zenginliği, bu bölgeyi ziyaretçilere benzersiz bir deneyim sunar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Güvenç Abdal Türbesi'nin tarihi geçmişi, bölgenin önemli dini ve kültür
 
 ## Coğrafya
 
-Güvenç Abdal Türbesi, Hacıbektaş/Nevşehir'de, İç Anadolu Bölgesi'nin coğrafi çeşitliliğinin zengin olduğu bir bölgede yer almaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve geniş bir yeşil alan sunar. Türbenin çevresi, bölgeye özgü bitki türleri ve ağaçlar ile kaplıdır. İklim, İç Anadolu Bölgesi'nin karakteristik karasal iklimine uygun olarak yazları sıcak ve kurak, kışları soğuk ve kar yağışlıdır. Bu coğrafi özellikler, bölgenin flora ve faunasını şekillendirmiş ve Güvenç Abdal Türbesi'nin doğal güzelliklerini daha da önemli hale getirmiştir. Türbenin yakınında, tarihi ve doğal güzellikleri ile ünlü birçok destinasyon bulunmaktadır. Bu sayede, ziyaretçiler Güvenç Abdal Türbesi'ni ziyaret ederken aynı zamanda bölgenin diğer önemli noktalarını da keşfetme fırsatı bulabilirler.
+Güvenç Abdal Türbesi, Hacıbektaş/Nevşehir'de, İç Anadolu Bölgesi'nin coğrafi çeşitliliğinin zengin olduğu bir bölgede yer almaktadır. Türbenin çevresi, bölgeye özgü bitki türleri ve ağaçlar ile kaplıdır. İklim, İç Anadolu Bölgesi'nin karakteristik karasal iklimine uygun olarak yazları sıcak ve kurak, kışları soğuk ve kar yağışlıdır. Bu coğrafi özellikler, bölgenin flora ve faunasını şekillendirmiş ve Güvenç Abdal Türbesi'nin doğal güzelliklerini daha da önemli hale getirmiştir. Türbenin yakınında, tarihi ve doğal güzellikleri ile ünlü birçok destinasyon bulunmaktadır. Bu sayede, ziyaretçiler Güvenç Abdal Türbesi'ni ziyaret ederken aynı zamanda bölgenin diğer önemli noktalarını da keşfetme fırsatı bulabilirler.
 
 ## Flora ve Fauna
 

@@ -51,11 +51,11 @@ Balan Dağı'nın çevresel ilişkileri, özellikle komşu alanlar ve su kaynakl
 
 ## Flora ve Fauna
 
-Balan Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi sunar. İklim, Akdeniz'in karakteristik sıcak ve kurak yazları ile ılıman kışları arasında değişir. 
+Balan Dağı, Muğla'nın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi sunar. İklim, Akdeniz'in karakteristik sıcak ve kurak yazları ile ılıman kışları arasında değişir.
 
-Bitki örtüsünde çam ağaçları hakimdir ve ilkbaharda dağ yamaçlarını renkli çiçekler süsler. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünür. 
+Bitki örtüsünde çam ağaçları hakimdir ve ilkbaharda dağ yamaçlarını renkli çiçekler süsler. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünür.
 
-Yaban hayatı, dağ keçileri, tilkiler ve çeşitli kuş türleri ile zenginleştirir. Göç mevsimlerinde, dağ yolları çeşitli kuş türlerinin geçiş güzergahı olur. Sürüngenler, kayalık alanlarda yaşamlarını sürdürür. 
+Yaban hayatı, dağ keçileri, tilkiler ve çeşitli kuş türleri ile zenginleştirir. Göç mevsimlerinde, dağ yolları çeşitli kuş türlerinin geçiş güzergahı olur. Sürüngenler, kayalık alanlarda yaşamlarını sürdürür.
 
 Balan Dağı'nın ekolojik değeri, bu çeşitli türlerin bir arada yaşamasını sağlayan dağ ekosisteminin korunmasına bağlıdır. Bu alan, bölgenin biyolojik çeşitliliğini desteklemektedir.
 

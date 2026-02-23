@@ -22,7 +22,7 @@ wikidata_id: "Q108227183"
 
 # Örümcek Ormani Ladini 1
 
-Örümcek Ormani Ladini 1, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık geniş bir alanı kaplayan bu milli park, yaklaşık 200 futbol sahası büyüklüğünde. Bu alanda çeşitli bitki türleri ve zengin fauna encontrabilir. Ziyaretçiler, bu doğal güzelliği keşfetmek için buraya akın ediyor. Milli parkın büyüklüğü, ziyaretçilere geniş bir alan sunuyor ve burada doğa yürüyüşleri, fotoğrafçılık gibi aktiviteler yapma imkanı tanıyor.
+Örümcek Ormani Ladini 1, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Bu alanda çeşitli bitki türleri ve zengin fauna encontrabilir. Ziyaretçiler, bu doğal güzelliği keşfetmek için buraya akın ediyor. Milli parkın büyüklüğü, ziyaretçilere geniş bir alan sunuyor ve burada doğa yürüyüşleri, fotoğrafçılık gibi aktiviteler yapma imkanı tanıyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ wikidata_id: "Q108227183"
 
 ## Coğrafya
 
-Örümcek Ormani Ladini 1, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş. Milli park, 140 hektarlık geniş bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alanda, çeşitli bitki türleri ve zengin fauna encontrabilir. Coğrafi konumu, ziyaretçilere geniş bir alan sunuyor ve burada doğa yürüyüşleri, fotoğrafçılık gibi aktiviteler yapma imkanı tanıyor. Milli parkın coğrafi yapısı, ziyaretçilere bu doğal güzelliği keşfetme imkanı tanıyor. İklimi, flora ve fauna, ziyaretçilere bu doğal alanın güzelliğini gösteriyor.
+Örümcek Ormani Ladini 1, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş. Bu alanda, çeşitli bitki türleri ve zengin fauna encontrabilir. Coğrafi konumu, ziyaretçilere geniş bir alan sunuyor ve burada doğa yürüyüşleri, fotoğrafçılık gibi aktiviteler yapma imkanı tanıyor. Milli parkın coğrafi yapısı, ziyaretçilere bu doğal güzelliği keşfetme imkanı tanıyor. İklimi, flora ve fauna, ziyaretçilere bu doğal alanın güzelliğini gösteriyor.
 
 ## Flora ve Fauna
 

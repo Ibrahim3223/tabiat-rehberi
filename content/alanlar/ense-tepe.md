@@ -48,11 +48,11 @@ Bölgenin su kaynaklarına bakıldığında, Ense Tepe'nin yakınında beberapa 
 
 ## Flora ve Fauna
 
-Ense Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Ense Tepe, Mardin'in yarı kurak ikliminde yer alan bir dağ ekosistemi olarak, zengin bir flora ve faunaya ev sahipliği yapar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına göre değişen alpin flora, ziyaretçilere benzersiz manzaralar sunar. 
+Bitki Örtüsü bölümünde, ilkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Step ve ova ekolojisinin hakim olduğu bu bölgede, yükseklik zonlarına göre değişen alpin flora, ziyaretçilere benzersiz manzaralar sunar.
 
-Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler gibi çeşitli canlılar, dağ ekosisteminin bir parçası olarak karşımıza çıkar. Sonbaharın gelmesiyle birlikte, göç eden kuşlar, bu dağları konaklama noktaları olarak kullanır. 
+Yaban Hayatı bölümünde, memeliler, kuşlar ve sürüngenler gibi çeşitli canlılar, dağ ekosisteminin bir parçası olarak karşımıza çıkar. Sonbaharın gelmesiyle birlikte, göç eden kuşlar, bu dağları konaklama noktaları olarak kullanır.
 
 Ekolojik Değer bölümünde, Ense Tepe'nin neden önemli olduğu ve koruma durumuna değinilir. Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesinin korunması için büyük önem taşır.
 

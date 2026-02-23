@@ -50,11 +50,11 @@ Mevsimsel değişimlerin ışığında, Abbas Ağa Parkı, İstanbul'un ılıman
 
 ## Flora ve Fauna
 
-Abbas Ağa Parkı, 1200 hektarlık bir botanik bahçesi olarak, İstanbul'un kalbinde bir oază benzeri bir alan sunar. Step bitki örtüsüne ev sahipliği yapan bu park, kuraklığa adapte türlerle dolu bir ekosistemdir. 
+Abbas Ağa Parkı, 1200 hektarlık bir botanik bahçesi olarak, İstanbul'un kalbinde bir oază benzeri bir alan sunar. Step bitki örtüsüne ev sahipliği yapan bu park, kuraklığa adapte türlerle dolu bir ekosistemdir.
 
-İlkbaharda, parkın çayırları rengarenk çiçeklerle donanır. Bu mevsimde, bozkırın karakteristik bitkileri, such as çayırlar ve otlar, yeşerir. Sonbaharda ise, göçmen kuşlar parkı ziyaret eder, ağaçların dallarında konaklar. 
+İlkbaharda, parkın çayırları rengarenk çiçeklerle donanır. Bu mevsimde, bozkırın karakteristik bitkileri, such as çayırlar ve otlar, yeşerir. Sonbaharda ise, göçmen kuşlar parkı ziyaret eder, ağaçların dallarında konaklar.
 
-Parkın fauna çeşitliliği, memeliler, kuşlar ve sürüngenlerle dolu bir yaban hayatı sunar. Memeliler, çayırların arasında yaşarken, kuşlar ağaçların dallarında yuvalanır. Sürüngenler ise, parkın kuru ve taşlık alanlarında yaşamayı tercih eder. Bu canlılar, parkın ekolojik dengesini korur, birbirleriyle olan ilişkileri, doğanın döngüsünü sağlar. 
+Parkın fauna çeşitliliği, memeliler, kuşlar ve sürüngenlerle dolu bir yaban hayatı sunar. Memeliler, çayırların arasında yaşarken, kuşlar ağaçların dallarında yuvalanır. Sürüngenler ise, parkın kuru ve taşlık alanlarında yaşamayı tercih eder. Bu canlılar, parkın ekolojik dengesini korur, birbirleriyle olan ilişkileri, doğanın döngüsünü sağlar.
 
 Abbas Ağa Parkı, İstanbul'un ekolojik değerinin korunması açısından önemli bir role sahiptir. Bu park, kentleşmenin etkisiyle yok olma tehlikesiyle karşı karşıya olan step bitki örtüsünü korur, aynı zamanda yaban hayatına yaşam alanı sağlar.
 

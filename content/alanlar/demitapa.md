@@ -32,9 +32,9 @@ Iğdır'ın dağlık bölgesinde yer alan Demitapa, Türkiye'nin doğu sınırı
 
 ## Tarihçe
 
-Demitapa, Iğdır'ın dağlık bölgesinde yer alan bir doğal güzellik. Bu bölge, tarihin sâu sayfalarında önemli bir yere sahip. Iğdır, Urartular, Persler, Romalılar ve Selçuklular gibi birçok uygarlığın izlerini taşıyor. Bu bölgede, insan yerleşimleri ve ticari faaliyetler binlerce yıl önce başlamış. 
+Demitapa, Iğdır'ın dağlık bölgesinde yer alan bir doğal güzellik. Bu bölge, tarihin derin sayfalarında önemli bir yere sahip. Iğdır, Urartular, Persler, Romalılar ve Selçuklular gibi birçok uygarlığın izlerini taşıyor. Bu bölgede, insan yerleşimleri ve ticari faaliyetler binlerce yıl önce başlamış.
 
-Doğal güzellikleri ve stratejik konumuyla, Demitapa gibi alanlar Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Bu tür doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sağlamış. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu bölgelerle ilişkisini şekillendirmiş. 
+Doğal güzellikleri ve stratejik konumuyla, Demitapa gibi alanlar Türkiye'nin tarihsel dokusunda önemli bir yer tutuyor. Bu tür doğal alanlar, tarih boyunca insanların yaşamlarını sürdürmeleri için gerekli kaynaklar sağlamış. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu bölgelerle ilişkisini şekillendirmiş.
 
 Tarih boyunca, Iğdır bölgesi, ticaret yollarının kesişme noktası olarak önemli bir role sahip olmuş. İnsanlar, bu bölgeyi geçere veya burada yerleşerek, kültürel ve ekonomik alışverişler yapmış. Demitapa, bu tarihsel bağlam içinde, bölgenin doğal ve kültürel zenginliklerini temsil ediyor. Bu dağlık alan, binlerce yıllık tarihin bir parçası olarak, günümüzde hala önemli bir doğal güzelli ve kültürel miras olarak korunuyor.
 

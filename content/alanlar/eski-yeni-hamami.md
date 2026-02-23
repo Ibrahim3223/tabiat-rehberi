@@ -1,7 +1,7 @@
 ---
 title: "Eski Yeni Hamamı"
 date: "2026-01-09T22:50:35.158Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131738652"
 
 # Eski Yeni Hamamı
 
-Eski Yeni Hamamı, Bursa'nın Osmangazi ilçesinde yer alan 140 hektarlık bir yeşil alandır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Eski Yeni Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak olarak düşünülebilir. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkündür. Eski Yeni Hamamı, özellikle hafta sonları ve tatil günlerinde ziyaret edilmesi önerilen bir yerdir.
+Eski Yeni Hamamı, Bursa'nın Osmangazi ilçesinde yer alan 140 hektarlık bir yeşil alandır. Eski Yeni Hamamı, ziyaretçilerini şehrin gürültüsünden uzaklaştıran bir sığınak olarak düşünülebilir. Burada, doğanın güzelliğini ve sakinliğini deneyimleme mümkündür. Eski Yeni Hamamı, özellikle hafta sonları ve tatil günlerinde ziyaret edilmesi önerilen bir yerdir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Eski Yeni Hamamı'nın tarihi geçmişi hakkında detaylı bilgi bulunmamaktadı
 
 ## Coğrafya
 
-Eski Yeni Hamamı, Bursa'nın Osmangazi ilçesinde yer alan bir yeşil alandır. Bu alan, 140 hektarlık bir büyüklüğe sahiptir ve yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Eski Yeni Hamamı, Marmara Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bu bölgede, genellikle ılıman bir iklim hüküm sürer ve yazlar sıcak, kışlar ılımandır. Eski Yeni Hamamı'nın coğrafi konumu, ziyaretçilerin doğayı deneyimlemek için ideal bir yer olmasını sağlar. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
+Eski Yeni Hamamı, Bursa'nın Osmangazi ilçesinde yer alan bir yeşil alandır. Eski Yeni Hamamı, Marmara Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir. Bu bölgede, genellikle ılıman bir iklim hüküm sürer ve yazlar sıcak, kışlar ılımandır. Eski Yeni Hamamı'nın coğrafi konumu, ziyaretçilerin doğayı deneyimlemek için ideal bir yer olmasını sağlar. Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Eski Yeni Hamamı, hafta sonları ve tatil günleri için ideal bir gezi yeridir
 ## İlginç Bilgiler
 
 - Eski Yeni Hamamı, 140 hektarlık bir yeşil alandır.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır.
+
 - Eski Yeni Hamamı, Marmara Bölgesi'nin karakteristik coğrafi özelliklerine sahiptir.
 - Bu alan, çeşitli bitki türleri ve zengin fauna ile kaplıdır.
 - Eski Yeni Hamamı, hafta sonları ve tatil günleri için ideal bir gezi yeridir.

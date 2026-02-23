@@ -47,7 +47,7 @@ Jeolojik açıdan bakıldığında, Kızıl Dağ'ın fiziksel yapısı oldukça 
 
 Mevsimsel olarak bakıldığında, Kızıl Dağ'ın iklim karakteri Konya'nın genel iklim yapısına benzerlik gösteriyor. Konya, İç Anadolu Bölgesi'nin karakteristik karasal iklimine sahip. Bu, kışların soğuk ve kar yağışlı, yazların ise sıcak ve kurak geçtiği anlamına geliyor. Kızıl Dağ, bu iklim koşullarına uygun bir şekilde, mevsimlerin değişimine uyum sağlayan bir ekosistem sunuyor.
 
-Doğal çevreye bakıldığında, Kızıl Dağ'ın çevresel ilişkileri oldukça önemli. Konya ilinin su kaynakları ve ekosistem bağlantıları açısından zengin bir bölge olması, Kızıl Dağ'ın bu açıdan kritik bir role sahip olduğunu gösteriyor. Bu dağ, bölgenin ekolojik dengesini korumanın yanı sıra, aynı zamanda doğal güzellikleri ve biyolojik çeşitliliği bảo tồn ediyor.
+Doğal çevreye bakıldığında, Kızıl Dağ'ın çevresel ilişkileri oldukça önemli. Konya ilinin su kaynakları ve ekosistem bağlantıları açısından zengin bir bölge olması, Kızıl Dağ'ın bu açıdan kritik bir role sahip olduğunu gösteriyor. Bu dağ, bölgenin ekolojik dengesini korumanın yanı sıra, aynı zamanda doğal güzellikleri ve biyolojik çeşitliliği koruma tồn ediyor.
 
 ## Flora ve Fauna
 
@@ -68,4 +68,4 @@ Kızıl Dağ, Konya'nın doğal güzelliklerini keşfetmek isteyenler için hari
 - Kızıl Dağ, İç Anadolu Bölgesi'nin önemli dağ silsilelerinden biridir.
 - İlde yıllık ortalama sıcaklık 11,5°C'dir.
 - Konya, nüfusu 2,2 milyona yaklaşan büyük bir şehirdir.
-- Kızıl Dağ'ın eteklerinde, históriki önem taşıyan birçok höyük ve antik yerleşim yerleri bulunur.
+- Kızıl Dağ'ın eteklerinde, tarihi önem taşıyan birçok höyük ve antik yerleşim yerleri bulunur.

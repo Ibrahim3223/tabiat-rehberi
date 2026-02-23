@@ -1,7 +1,7 @@
 ---
 title: "Zincirliçeşme Tepesi"
 date: "2026-01-10T13:53:30.745Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "tepe"
 il: "Ankara"
@@ -28,7 +28,7 @@ wikidata_id: "Q32196335"
 
 # Zincirliçeşme Tepesi
 
-Ankara'nın İç Anadolu Bölgesi'nde yer alan Zincirliçeşme Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu tepe, Ankara'nın merkezinde yer alan bir bölge olup, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar. Ayrıca, tepe üzerinde bulunan tarihi yapılar, ziyaretçilerin tarihte bir yolculuğa çıkmasını sağlar.
+ Bu tepe, Ankara'nın merkezinde yer alan bir bölge olup, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini sunar. Ayrıca, tepe üzerinde bulunan tarihi yapılar, ziyaretçilerin tarihte bir yolculuğa çıkmasını sağlar.
 
 ## Tarihçe
 

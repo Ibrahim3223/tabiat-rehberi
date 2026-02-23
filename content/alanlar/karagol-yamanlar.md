@@ -23,7 +23,7 @@ wikidata_id: "Q108227877"
 
 # Karagol Yamanlar
 
-Karagol Yamanlar Milli Parkı, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. Parkın etrafı, çeşitli bitki türleriyle çevrili ve zengin fauna ile dolu. Bu doğal alan, hem doğa yürüyüşleri hem de piknik için ideal bir yer.
+Karagol Yamanlar Milli Parkı, İç Anadolu Bölgesi'nin gizli bir incisi olarak karşımıza çıkıyor. Parkın etrafı, çeşitli bitki türleriyle çevrili ve zengin fauna ile dolu. Bu doğal alan, hem doğa yürüyüşleri hem de piknik için ideal bir yer.
 
 ## Tarihçe
 

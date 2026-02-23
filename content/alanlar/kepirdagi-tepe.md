@@ -50,11 +50,11 @@ Komşu alanlar ve su kaynakları açısından bakıldığında, Kepirdağı Tepe
 
 ## Flora ve Fauna
 
-Kepirdağı Tepe, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir doğa harikası. 
+Kepirdağı Tepe, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu dağlık alan, alpin çayırlar ve endemik türlerle dolu bir doğa harikası.
 
 Bitki Örtüsü: İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanırken, yazın yüksek yerlerde alpin otları ve çalılar hakimiyet kurar. Sonbaharda, yaprak döken ağaçlar sarı, turuncu ve kırmızı tonlara bürünür.
 
-Yaban Hayatı: Dağ keçileri, tilkiler ve ayılar bu dağların memeli sakinleridir. Kuşlar ise, özellikle göç mevsimlerinde dağları doldurur. 
+Yaban Hayatı: Dağ keçileri, tilkiler ve ayılar bu dağların memeli sakinleridir. Kuşlar ise, özellikle göç mevsimlerinde dağları doldurur.
 Sürüngenler ve amfibiler de bu dağların yükseklik zonlarında yaşamlarını sürdürür.
 
 Ekolojik Değer: Bu dağ ekosistemi, yükseklik zonları ve alpin flora ile birlikte, endemik türlerin yaşam alanıdır. Koruma altına alınması gereken bir doğa mirasıdır.

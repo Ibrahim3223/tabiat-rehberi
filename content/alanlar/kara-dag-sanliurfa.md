@@ -51,11 +51,11 @@ Doğal güzellikleri ve coğrafi özellikleri açısından değerlendirildiğind
 
 ## Flora ve Fauna
 
-Kara Dağ, Şanlıurfa'nın yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir dağ ekosistemi. 1200 metre yükseklikte, step ve ova ekolojisi ile çevrili bu dağ, benzersiz bir flora ve faunaya ev sahipliği yapıyor. 
+Kara Dağ, Şanlıurfa'nın yarı kurak ikliminin hakim olduğu bir bölgede yer alan bir dağ ekosistemi. 1200 metre yükseklikte, step ve ova ekolojisi ile çevrili bu dağ, benzersiz bir flora ve faunaya ev sahipliği yapıyor.
 
-İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Step ve ova bitkileri, dağ ekosisteminin yükseklik zonlarına uyum sağlıyor. Bu yükseklik zonalarında, alpin flora hakim oluyor. 
+İlkbaharın gelmesiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Step ve ova bitkileri, dağ ekosisteminin yükseklik zonlarına uyum sağlıyor. Bu yükseklik zonalarında, alpin flora hakim oluyor.
 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, tilkiler ve diğer memeliler, bu dağların eteklerinde ve yamaçlarında yaşamlarını sürdürüyor. Kuşlar ise, özellikle sonbahar aylarında, göç yolları üzerinde bulunan bu dağlarda önemli bir durak noktası oluşturuyor. Sürüngenler de, dağların kayalık ve kuru bölgelerinde yaşamlarını sürdürüyor. 
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, tilkiler ve diğer memeliler, bu dağların eteklerinde ve yamaçlarında yaşamlarını sürdürüyor. Kuşlar ise, özellikle sonbahar aylarında, göç yolları üzerinde bulunan bu dağlarda önemli bir durak noktası oluşturuyor. Sürüngenler de, dağların kayalık ve kuru bölgelerinde yaşamlarını sürdürüyor.
 
 Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesi için son derece önemli. Kara Dağ, bölgenin su kaynaklarının korunması ve toprak erozyonunun önlenmesi açısından kritik bir rol oynuyor.
 

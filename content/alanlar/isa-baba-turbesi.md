@@ -1,7 +1,7 @@
 ---
 title: "İsa Baba Türbesi"
 date: "2026-01-10T05:08:40.826Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391607"
 
 # İsa Baba Türbesi
 
-İsa Baba Türbesi, İzmir'in Tire ilçesinde yer alan ve hem doğal güzelliği hem de tarihi önemi ile dikkat çeken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini Ege Bölgesi'nin güzelliklerine davet ediyor. İsa Baba Türbesi, özellikle plaj severlerin ve doğaşığıların ziyaret ettiği bir yer olarak biliniyor. Bu alanın güzelliği, sadece genişliği ve büyüklüğü ile değil, aynı zamanda tarihi ve kültürel önemi ile de ölçülüyor.
+İsa Baba Türbesi, İzmir'in Tire ilçesinde yer alan ve hem doğal güzelliği hem de tarihi önemi ile dikkat çeken bir destinasyon. İsa Baba Türbesi, özellikle plaj severlerin ve doğaşığıların ziyaret ettiği bir yer olarak biliniyor. Bu alanın güzelliği, sadece genişliği ve büyüklüğü ile değil, aynı zamanda tarihi ve kültürel önemi ile de ölçülüyor.
 
 ## Tarihçe
 

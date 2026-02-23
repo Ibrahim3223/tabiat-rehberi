@@ -29,7 +29,7 @@ wikidata_id: "Q108228211"
 
 # Ahatlar Tabiat Parkı
 
-Ahatlar Tabiat Parkı, Bartın'ın Amasra ilçesinde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir yeşil alandır. Bu park, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar. Parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrabilir. Ahatlar Tabiat Parkı, hem doğa severler hem de turistler için ideal bir destinasyondur. Parkın büyüklüğü ve güzelliği, ziyaretçilerini büyüler.
+ Bu park, ziyaretçilerine doğanın güzelliğini ve zenginliğini keşfetme fırsatı sunar. Parkın içerisinde çeşitli bitki türleri ve zengin fauna encontrabilir. Ahatlar Tabiat Parkı, hem doğa severler hem de turistler için ideal bir destinasyondur. Parkın büyüklüğü ve güzelliği, ziyaretçilerini büyüler.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ahatlar Tabiat Parkı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmişti
 
 ## Coğrafya
 
-Ahatlar Tabiat Parkı, Amasra'nın coğrafi yapısı içerisinde yer alır. Park, İç Anadolu Bölgesi'nin kuzeybatı kesiminde, Karadeniz kıyı şeridinin immediate hinterlandında bulunur. Parkın coğrafi konumu, iklimini ve bitki örtüsünü etkiler. Ahatlar Tabiat Parkı, 140 hektarlık bir alana yayılır ve yaklaşık 200 futbol sahası büyüklüğündedir. Parkın coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam sağlar. Parkın iklimi, Karadeniz ikliminin etkisinde olup, yağışlı ve nemlidir.
+Ahatlar Tabiat Parkı, Amasra'nın coğrafi yapısı içerisinde yer alır. Park, İç Anadolu Bölgesi'nin kuzeybatı kesiminde, Karadeniz kıyı şeridinin immediate hinterlandında bulunur. Parkın coğrafi konumu, iklimini ve bitki örtüsünü etkiler. Parkın coğrafi yapısı, çeşitli bitki türleri ve fauna için uygun bir ortam sağlar. Parkın iklimi, Karadeniz ikliminin etkisinde olup, yağışlı ve nemlidir.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Ahatlar Tabiat Parkı, ziyaretçilerine çeşitli etkinlikler sunar. Parkı gezm
 ## İlginç Bilgiler
 
 - Ahatlar Tabiat Parkı, 140 hektarlık bir alana yayılır.
-- Park, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Parkın flora ve fauna çeşitliliği, mevsimsel değişimlere göre değişir.
 - Park, doğa severler ve bilim insanları için önemli bir araştırma alanıdır.
 - Parkın iklimi, Karadeniz ikliminin etkisinde olup, yağışlı ve nemlidir.

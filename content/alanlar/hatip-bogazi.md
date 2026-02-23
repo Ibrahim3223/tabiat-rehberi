@@ -50,7 +50,7 @@ Jeolojik açıdan incelendiğinde, Hatip Boğazı'nın oluşumu milyonlarca yıl
 
 ## Flora ve Fauna
 
-Hatip Boğazı, Çorum'un nemli ikliminin ve gür ormanlarının hakim olduğu bir kanyon alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlbahar mevsiminde, bölgenin bitki örtüsü rengarenk çiçeklerle kaplanır. Gür ormanlar, mevsimsel değişimlere göre farklı ren ve tekstürlere bürünür. 
+Hatip Boğazı, Çorum'un nemli ikliminin ve gür ormanlarının hakim olduğu bir kanyon alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlbahar mevsiminde, bölgenin bitki örtüsü rengarenk çiçeklerle kaplanır. Gür ormanlar, mevsimsel değişimlere göre farklı ren ve tekstürlere bürünür.
 
 Bu bölgede, çeşitli memeli türleri, özellikle yaban domuzları ve geyikler yaşamaktadır. Kuşlar, özellikle göç mevsimlerinde, bölgenin gökyüzünü renkli bir şölene çevirir. Sürüngenler de, kanyonun kayalık duvarlarında ve orman zemininde yaşamlarını sürdürür. Ekolojik olarak, bu bölge, yüksek biyoçeşitliliğinin korunması açısından önemlidir.
 

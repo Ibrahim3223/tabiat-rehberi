@@ -1,7 +1,7 @@
 ---
 title: "Bey Hamamı"
 date: "2026-01-09T22:21:27.436Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Isparta"
@@ -30,15 +30,15 @@ wikidata_id: "Q131738486"
 
 # Bey Hamamı
 
-Bey Hamamı, Isparta'nın merkezinde yer alan ve 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bir doğal güzelliktir. Bu alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bey Hamamı, Isparta'nın tarihi ve doğal güzelliklerini bir arada sunan özel bir yerdir. Şehir merkezine yakın konumuyla ziyaretçilerin kolayca ulaşabileceği bir noktadır. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle zengin bir floranın ev sahipliğini yapar.
+ Bu alan, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bey Hamamı, Isparta'nın tarihi ve doğal güzelliklerini bir arada sunan özel bir yerdir. Şehir merkezine yakın konumuyla ziyaretçilerin kolayca ulaşabileceği bir noktadır. 140 hektarlık bu yeşil alan, çeşitli bitki türleriyle zengin bir floranın ev sahipliğini yapar.
 
 ## Tarihçe
 
-Bey Hamamı'nın tarihi geçmişi, Isparta'nın tarihi ile iç içedir. Isparta, yüzyıllar boyunca verschillı medeniyetlere ev sahipliği yapmış ve her bir medeniyet, şehre kendi kültürünü bırakmıştır. Bey Hamamı da, bu kültürel mirasın bir parçasıdır. Tarihi kaynaklara göre, bu bölge, eski zamanlarda önemli bir ticaret merkezi olarak bilinirdi. Ancak, günümüzde Bey Hamamı olarak bilinen bu yer, daha çok doğal güzellikleri ve tarihi önemi ile tanınır. Isparta'nın tarihi geçmişi, Bey Hamamı'nın oluşumunda önemli bir rol oynamıştır. Şehir, yüzyıllar boyunca çeşitli uygarlıkların hakimiyetine girmiş ve her biri, şehre kendi izini bırakmıştır. Bey Hamamı da, bu histórik sürecin birผลı olarak ortaya çıkmıştır. Isparta'nın tarihi zenginliği, Bey Hamamı'nın oluşumunda önemli bir etken olmuştur.
+Bey Hamamı'nın tarihi geçmişi, Isparta'nın tarihi ile iç içedir. Isparta, yüzyıllar boyunca verschillı medeniyetlere ev sahipliği yapmış ve her bir medeniyet, şehre kendi kültürünü bırakmıştır. Bey Hamamı da, bu kültürel mirasın bir parçasıdır. Tarihi kaynaklara göre, bu bölge, eski zamanlarda önemli bir ticaret merkezi olarak bilinirdi. Ancak, günümüzde Bey Hamamı olarak bilinen bu yer, daha çok doğal güzellikleri ve tarihi önemi ile tanınır. Isparta'nın tarihi geçmişi, Bey Hamamı'nın oluşumunda önemli bir rol oynamıştır. Şehir, yüzyıllar boyunca çeşitli uygarlıkların hakimiyetine girmiş ve her biri, şehre kendi izini bırakmıştır. Bey Hamamı da, bu tarihi sürecin birผลı olarak ortaya çıkmıştır. Isparta'nın tarihi zenginliği, Bey Hamamı'nın oluşumunda önemli bir etken olmuştur.
 
 ## Coğrafya
 
-Bey Hamamı, Isparta'nın merkezinde yer alan bir doğal güzelliktir. 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu yer, şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktasıdır. Bu alan, çeşitli bitki türleriyle zengin bir floranın ev sahipliğini yapar. Isparta'nın iklimi, Akdeniz ikliminin karakteristik özellikleri taşır. Kışları ılıman, yazları sıcak ve kurak olan bu iklim, Bey Hamamı'nın doğal güzelliklerini daha da vurgular. Bu doğal güzellik, Isparta'nın coğrafi yapısına uygun olarak, şehrin merkezinde yer alır. Isparta'nın coğrafi konumu, Bey Hamamı'nın oluşumunda önemli bir rol oynamıştır. Şehir, Akdeniz Bölgesi'nde yer alır ve bu bölge, çeşitli coğrafi oluşumların bir arada bulunduğu bir alandır. Bey Hamamı da, bu coğrafi oluşumların bir parçası olarak ortaya çıkmıştır. Isparta'nın coğrafi yapısı, Bey Hamamı'nın doğal güzelliklerini daha da zenginleştirmiştir.
+Bey Hamamı, Isparta'nın merkezinde yer alan bir doğal güzelliktir. Bu alan, çeşitli bitki türleriyle zengin bir floranın ev sahipliğini yapar. Isparta'nın iklimi, Akdeniz ikliminin karakteristik özellikleri taşır. Kışları ılıman, yazları sıcak ve kurak olan bu iklim, Bey Hamamı'nın doğal güzelliklerini daha da vurgular. Bu doğal güzellik, Isparta'nın coğrafi yapısına uygun olarak, şehrin merkezinde yer alır. Isparta'nın coğrafi konumu, Bey Hamamı'nın oluşumunda önemli bir rol oynamıştır. Şehir, Akdeniz Bölgesi'nde yer alır ve bu bölge, çeşitli coğrafi oluşumların bir arada bulunduğu bir alandır. Bey Hamamı da, bu coğrafi oluşumların bir parçası olarak ortaya çıkmıştır. Isparta'nın coğrafi yapısı, Bey Hamamı'nın doğal güzelliklerini daha da zenginleştirmiştir.
 
 ## Flora ve Fauna
 

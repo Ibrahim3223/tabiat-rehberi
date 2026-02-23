@@ -28,7 +28,7 @@ wikidata_id: "Q31386623"
 
 # Telmağrun
 
-Telmağrun, Şanlıurfa'nın güneydoğusunda yer alan bir tepe olarak, bölgeye gelen ziyaretçilerin dikkatini çekmektedir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreyi kuşatan doğal güzelliği ile ön plana çıkmaktadır. Telmağrun, Şanlıurfa'nın tarihî ve kültürel zenginliklerini bir araya getiren önemli bir noktadır. Burada, geçmişin izlerini taşıyan tarihi kalıntılar, ziyaretçilere bölgenin zengin tarihini anlatmaktadır. Telmağrun, aynı zamanda doğa severler için de ideal bir destinasyon olarak, çeşitli bitki türleri ve zengin faunası ile dikkat çekmektedir.
+Telmağrun, Şanlıurfa'nın güneydoğusunda yer alan bir tepe olarak, bölgeye gelen ziyaretçilerin dikkatini çekmektedir. Telmağrun, Şanlıurfa'nın tarihî ve kültürel zenginliklerini bir araya getiren önemli bir noktadır. Burada, geçmişin izlerini taşıyan tarihi kalıntılar, ziyaretçilere bölgenin zengin tarihini anlatmaktadır. Telmağrun, aynı zamanda doğa severler için de ideal bir destinasyon olarak, çeşitli bitki türleri ve zengin faunası ile dikkat çekmektedir.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Telmağrun'un tarihi geçmişi, Şanlıurfa'nın tarihî sürecine paralel olara
 
 ## Coğrafya
 
-Telmağrun, Şanlıurfa'nın güneydoğusunda yer alan bir tepe olarak, coğrafî olarak önemli bir konuma sahiptir. Bu tepe, çevreyi kuşatan doğal güzelliği ile dikkat çekmekte ve 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde olarak ziyaretçilere geniş bir alan sunmaktadır. Telmağrun'un coğrafyası, çeşitli bitki türleri ve zengin faunası ile karakterizedir. Bu bölge, aynı zamanda iklim olarak, Güneydoğu Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir iklim hüküm sürer. Telmağrun'un coğrafyası, ziyaretçilere bölge hakkında değerli bilgiler sunar ve bölgenin güzelliğini ön plana çıkarmaktadır. Ayrıca, Telmağrun'un konumu, bölgenin tarihî ve kültürel zenginliklerini de bir araya getirmektedir. Bu bölge, farklı medeniyetlerin izlerini taşıyan tarihi kalıntılar ile ziyaretçilere bölge hakkında bilgi sunmaktadır.
+Telmağrun, Şanlıurfa'nın güneydoğusunda yer alan bir tepe olarak, coğrafî olarak önemli bir konuma sahiptir. Telmağrun'un coğrafyası, çeşitli bitki türleri ve zengin faunası ile karakterizedir. Bu bölge, aynı zamanda iklim olarak, Güneydoğu Anadolu Bölgesi'nin genel iklim özelliklerini taşır. Yaz aylarında sıcak ve kuru, kış aylarında ise soğuk ve yağışlı bir iklim hüküm sürer. Telmağrun'un coğrafyası, ziyaretçilere bölge hakkında değerli bilgiler sunar ve bölgenin güzelliğini ön plana çıkarmaktadır. Ayrıca, Telmağrun'un konumu, bölgenin tarihî ve kültürel zenginliklerini de bir araya getirmektedir. Bu bölge, farklı medeniyetlerin izlerini taşıyan tarihi kalıntılar ile ziyaretçilere bölge hakkında bilgi sunmaktadır.
 
 ## Flora ve Fauna
 

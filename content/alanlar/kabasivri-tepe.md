@@ -28,7 +28,7 @@ wikidata_id: "Q31390427"
 
 # Kabasivri Tepe
 
-Konya'nın tarihi ve doğal güzellikleri arasında yer alan Kabasivri Tepe, ziyaretçiler için önemli bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, Konya'nın coğrafi yapısını ve tarihi geçmişini anlaşılır kılma konusunda önemli bir role sahip. Ziyaretçiler, bu tepeye çıkarak Konya'nın geniş düzlüklerini ve tarihi alanlarını gözler önüne seren manzarayı izleme fırsatı buluyorlar. Kabasivri Tepe, aynı zamanda bölgenin flora ve faunasını keşfetmek için ideal bir nokta.
+Konya'nın tarihi ve doğal güzellikleri arasında yer alan Kabasivri Tepe, ziyaretçiler için önemli bir destinasyon. Bu tepe, Konya'nın coğrafi yapısını ve tarihi geçmişini anlaşılır kılma konusunda önemli bir role sahip. Ziyaretçiler, bu tepeye çıkarak Konya'nın geniş düzlüklerini ve tarihi alanlarını gözler önüne seren manzarayı izleme fırsatı buluyorlar. Kabasivri Tepe, aynı zamanda bölgenin flora ve faunasını keşfetmek için ideal bir nokta.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kabasivri Tepe'nin tarihi geçmişi, Konya'nın tarihine paralel olarak şekille
 
 ## Coğrafya
 
-Kabasivri Tepe, Konya'nın coğrafi yapısını ve doğal güzelliklerini gözler önüne seren önemli bir nokta. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu tepe, Konya'nın geniş düzlüklerini ve tarihi alanlarını gözler önüne seren manzarayı sunuyor. Bu bölgenin coğrafi yapısı, İç Anadolu Bölgesi'nin genel característicasını taşıyor. İklim, karasal iklim özellikleri gösteriyor ve bu, bölgenin flora ve faunasını belirliyor. Kabasivri Tepe'nin çevre alanı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, aynı zamanda bölgenin su kaynaklarını ve toprak yapısını anlamak için önemli bir nokta. Coğrafi konumu, Konya'nın ticaret ve yerleşim merkezlerini bağlayan önemli bir geçiş noktası olarak hizmet vermiş.
+Kabasivri Tepe, Konya'nın coğrafi yapısını ve doğal güzelliklerini gözler önüne seren önemli bir nokta. Bu bölgenin coğrafi yapısı, İç Anadolu Bölgesi'nin genel característicasını taşıyor. İklim, karasal iklim özellikleri gösteriyor ve bu, bölgenin flora ve faunasını belirliyor. Kabasivri Tepe'nin çevre alanı, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu tepe, aynı zamanda bölgenin su kaynaklarını ve toprak yapısını anlamak için önemli bir nokta. Coğrafi konumu, Konya'nın ticaret ve yerleşim merkezlerini bağlayan önemli bir geçiş noktası olarak hizmet vermiş.
 
 ## Flora ve Fauna
 

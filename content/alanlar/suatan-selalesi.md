@@ -23,7 +23,7 @@ wikidata_id: "Q123562407"
 
 # Suatan Şelalesi
 
-Suatan Şelalesi, Karadeniz Bölgesi'nin en gözde mekanlarından biri olarak kabul edilen Artvin ilinin merkezinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Şelalenin etrafındaki ormanlık alan, çeşitli bitki türleriyle dolu ve yaban hayatı açısından oldukça zengin. Bu şelale, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini büyülüyor.
+Suatan Şelalesi, Karadeniz Bölgesi'nin en gözde mekanlarından biri olarak kabul edilen Artvin ilinin merkezinde yer alıyor. Şelalenin etrafındaki ormanlık alan, çeşitli bitki türleriyle dolu ve yaban hayatı açısından oldukça zengin. Bu şelale, hem doğal güzelliği hem de tarihi geçmişiyle ziyaretçilerini büyülüyor.
 
 ## Tarihçe
 

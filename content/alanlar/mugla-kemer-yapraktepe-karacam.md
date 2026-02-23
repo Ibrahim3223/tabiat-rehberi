@@ -22,7 +22,7 @@ wikidata_id: "Q108228811"
 
 # Mugla-Kemer-Yapraktepe Karacam
 
-Mugla-Kemer-Yapraktepe Karacam, Muğla'nın Ege Bölgesi'nde yer alan 140 hektarlık bir milli parktır. Bu büyüleyici alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerini doğanın içlerine davet ediyor. Milli parkın zengin flora ve fauna çeşitliliği, ziyaretçilerin doğa ile iç içe olması için mükemmel bir ortam sunuyor. 140 hektarlık bu yeşil alan, yaklaşık olarak 200 futbol sahası büyüklüğünde ve bu büyük alan, ziyaretçiler için keşfedilecek çok şey sunuyor.
+Mugla-Kemer-Yapraktepe Karacam, Muğla'nın Ege Bölgesi'nde yer alan 140 hektarlık bir milli parktır. Milli parkın zengin flora ve fauna çeşitliliği, ziyaretçilerin doğa ile iç içe olması için mükemmel bir ortam sunuyor.
 
 ## Tarihçe
 

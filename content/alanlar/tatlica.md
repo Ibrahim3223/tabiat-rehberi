@@ -23,7 +23,7 @@ wikidata_id: "Q108228346"
 
 # Tatlıca
 
-Tatlıca, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu güzel mekan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın güzelliği ile baş başa bırakır. Tatlıca, doğa severlerin ve gezi tutkunlarının vazgeçilmez adreslerinden biri haline gelmiştir. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve kendinizi yenileyebilirsiniz.
+Tatlıca, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Bu güzel mekan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, doğanın güzelliği ile baş başa bırakır. Tatlıca, doğa severlerin ve gezi tutkunlarının vazgeçilmez adreslerinden biri haline gelmiştir. Burada, doğanın seslerini dinleyerek, stresinizi atabilir ve kendinizi yenileyebilirsiniz.
 
 ## Tarihçe
 

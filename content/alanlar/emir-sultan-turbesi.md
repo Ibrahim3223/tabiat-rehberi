@@ -1,7 +1,7 @@
 ---
 title: "Emir Sultan Türbesi"
 date: "2026-01-10T05:56:56.474Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390468"
 
 # Emir Sultan Türbesi
 
-Emir Sultan Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel merkezlerinden biri olan Yıldırım, Bursa'da yer alır. Bu türbe, 140 hektarlık bir alan içerisinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içinde bulunmaktadır. Emir Sultan Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir ortama davet etmektedir. Türbenin mimarisi, Osmanlı dönemine ait önemli özellikler taşımaktadır. Tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya şahitlik etmiş olan bu türbe, aynı zamanda bölgenin önemli bir kültürel merkezi olarak kabul edilmektedir.
+Emir Sultan Türbesi, Marmara Bölgesi'nin önemli tarihi ve kültürel merkezlerinden biri olan Yıldırım, Bursa'da yer alır. Emir Sultan Türbesi, ziyaretçilerini tarihi ve doğal güzelliklerinin birleştiği bir ortama davet etmektedir. Türbenin mimarisi, Osmanlı dönemine ait önemli özellikler taşımaktadır. Tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya şahitlik etmiş olan bu türbe, aynı zamanda bölgenin önemli bir kültürel merkezi olarak kabul edilmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Emir Sultan Türbesi'nin tarihi geçmişi, yüzyıllar boyunca birçok önemli o
 
 ## Coğrafya
 
-Emir Sultan Türbesi, Marmara Bölgesi'nin coğrafi özellikleri içerisinde yer almaktadır. Türbe, 140 hektarlık bir alan içerisinde, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içinde bulunmaktadır. Bu yeşil alan, çeşitli bitki türleri ile zengin bir flora sahiptir. Bölgenin iklimi, ılıman ve nemlidir. Emir Sultan Türbesi, çevresindeki doğal güzelliklerle birlikte, bir bütün olarak değerlendirilmelidir. Türbe, Marmara Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıttır. Bölgenin coğrafi özellikleri, Emir Sultan Türbesi'nin güzelliğini artırmaktadır. Türbenin konumu, Marmara Bölgesi'nin önemli bir merkezi olarak kabul edilmektedir.
+Emir Sultan Türbesi, Marmara Bölgesi'nin coğrafi özellikleri içerisinde yer almaktadır. Bu yeşil alan, çeşitli bitki türleri ile zengin bir flora sahiptir. Bölgenin iklimi, ılıman ve nemlidir. Emir Sultan Türbesi, çevresindeki doğal güzelliklerle birlikte, bir bütün olarak değerlendirilmelidir. Türbe, Marmara Bölgesi'nin coğrafi özelliklerini yansıtan bir yapıttır. Bölgenin coğrafi özellikleri, Emir Sultan Türbesi'nin güzelliğini artırmaktadır. Türbenin konumu, Marmara Bölgesi'nin önemli bir merkezi olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 

@@ -29,7 +29,7 @@ wikidata_id: "Q32138481"
 
 # Göller Tepesi
 
-Göller Tepesi, Erzurum'un kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzak bir kaçış noktası sunuyor. Tepenin eteklerinde yer alan göller, manzaranın güzelliğini daha da artırıyor. Göller Tepesi, hem doğa severler hem de şehirden uzaklaşmak isteyenler için ideal bir destinasyon.
+Göller Tepesi, Erzurum'un kalbinde yer alan bir doğa harikasıdır. Tepenin eteklerinde yer alan göller, manzaranın güzelliğini daha da artırıyor. Göller Tepesi, hem doğa severler hem de şehirden uzaklaşmak isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227482"
 
 # Balikesir-Alacam-Degirmenegrek Karacam 1
 
-Balikesir-Alacam-Degirmenegrek Karacam 1 milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini geniş yeşil alanlarıyla karşıiliyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna ziyaretçileri bekliyor. Burada doğa yürüyüşleri, fotoğrafçılık ve doğayı keşfetme mümkün. Balikesir-Alacam-Degirmenegrek Karacam 1 milli parkı, hem doğa severler hem de huzur arayanlar için mükemmel bir seçim.
+Balikesir-Alacam-Degirmenegrek Karacam 1 milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Parkın içerisinde çeşitli bitki türleri ve zengin fauna ziyaretçileri bekliyor. Burada doğa yürüyüşleri, fotoğrafçılık ve doğayı keşfetme mümkün. Balikesir-Alacam-Degirmenegrek Karacam 1 milli parkı, hem doğa severler hem de huzur arayanlar için mükemmel bir seçim.
 
 ## Tarihçe
 

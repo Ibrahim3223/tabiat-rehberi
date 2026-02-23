@@ -1,7 +1,7 @@
 ---
 title: "Güzelce Ali Paşa Türbesi"
 date: "2026-01-10T05:55:02.004Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Beşiktaş"
@@ -30,7 +30,7 @@ wikidata_id: "Q122980110"
 
 # Güzelce Ali Paşa Türbesi
 
-Güzelce Ali Paşa Türbesi, İç Anadolu Bölgesi'nin Yıldız/Beşiktaş ilçesinde yer alan tarihi bir türbe ve plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbetmektedir. Tarihi geçmişi ve kültürel önemiyle dikkat çeker. Güzelce Ali Paşa Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Burada, denize girme imkanı sunan plajın yanı sıra, doğa yürüyüşleri ve picnic alanları da bulunmaktadır. Bu sayede, ziyaretçiler hem tarihi bir türbeyi ziyaret edebiliyor hem de doğal güzelliklerin tadını çıkarabiliyorlar.
+Güzelce Ali Paşa Türbesi, İç Anadolu Bölgesi'nin Yıldız/Beşiktaş ilçesinde yer alan tarihi bir türbe ve plajdır. Bu bölge, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini cezbetmektedir. Tarihi geçmişi ve kültürel önemiyle dikkat çeker. Güzelce Ali Paşa Türbesi, aynı zamanda bir plaj olarak da hizmet vermektedir. Burada, denize girme imkanı sunan plajın yanı sıra, doğa yürüyüşleri ve picnic alanları da bulunmaktadır. Bu sayede, ziyaretçiler hem tarihi bir türbeyi ziyaret edebiliyor hem de doğal güzelliklerin tadını çıkarabiliyorlar.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Güzelce Ali Paşa Türbesi'nin tarihi geçmişi, Osmanlı dönemine kadar uzanm
 
 ## Coğrafya
 
-Güzelce Ali Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Türbenin çevresinde, dağlar ve tepeler yer almakta ve bu sayede, ziyaretçiler doğal güzelliklerin tadını çıkarabiliyorlar. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklime sahiptir. Bu nedenle, ziyaretçiler, mevsime göre uygun giysiler giymelidir. Güzelce Ali Paşa Türbesi, coğrafi olarak zengin bir bölgede yer almakta ve ziyaretçilerine çeşitli doğal güzellikler sunmaktadır.
+Güzelce Ali Paşa Türbesi, İç Anadolu Bölgesi'nin coğrafi olarak zengin bir bölgesinde yer almaktadır. Bu bölgede, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Türbenin çevresinde, dağlar ve tepeler yer almakta ve bu sayede, ziyaretçiler doğal güzelliklerin tadını çıkarabiliyorlar. Bölge, yaz aylarında sıcak ve kurak, kış aylarında ise soğuk ve karlı bir iklime sahiptir. Bu nedenle, ziyaretçiler, mevsime göre uygun giysiler giymelidir. Güzelce Ali Paşa Türbesi, coğrafi olarak zengin bir bölgede yer almakta ve ziyaretçilerine çeşitli doğal güzellikler sunmaktadır.
 
 ## Flora ve Fauna
 

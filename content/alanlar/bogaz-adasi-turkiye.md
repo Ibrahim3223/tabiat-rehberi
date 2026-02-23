@@ -32,7 +32,7 @@ wikidata_id: "Q49633823"
 
 ## Tarihçe
 
-Boğaz Adası, İzmir'in eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu ada, tarihin sâu izlerini taşıyan bir bölge olan İzmir'in kıyılarında yer alıyor. İzmir, binlerce yıldır çeşitli uygarlıkların yaşamına ev sahipliği yapmış bir şehir. Antik Çağ'da İyonya Uygarlığı'nın önemli merkezlerinden biri olan İzmir, Roma ve Bizans dönemlerinde de önemli bir ticaret ve kültür merkezi olarak varlık göstermiştir.
+Boğaz Adası, İzmir'in eşsiz doğal güzelliklerinden biri olarak karşımıza çıkıyor. Bu ada, tarihin derin izlerini taşıyan bir bölge olan İzmir'in kıyılarında yer alıyor. İzmir, binlerce yıldır çeşitli uygarlıkların yaşamına ev sahipliği yapmış bir şehir. Antik Çağ'da İyonya Uygarlığı'nın önemli merkezlerinden biri olan İzmir, Roma ve Bizans dönemlerinde de önemli bir ticaret ve kültür merkezi olarak varlık göstermiştir.
 
 Bu tür doğal alanlar, Türkiye'de tarihsel olarak önemli bir role sahip olmuşlardır. Yayla ve ormanlık bölgeler, insanların yaşamını sürdürmeleri için gerekli kaynakları sağlarken, aynı zamanda ticaret yolları ve göç güzergahları olarak da hizmet etmişlerdir. İnsanlar, bu doğal alanları kullanarak hayvancılık, tarım ve avcılık gibi faaliyetlerle geçimlerini sağlamışlardır.
 

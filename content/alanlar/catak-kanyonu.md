@@ -33,7 +33,7 @@ Van'ın Başkale ilçesinde, Türkiye'nin doğusunun gizli bir hazine gibi sakla
 
 ## Tarihçe
 
-Çatak Kanyonu, Türkiye'nin doğusunda yer alan bir doğal harikadır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Çatak Kanyonu'nun bulunduğu bölge, histórik olarak çeşitli uygarlıkların yaşadığı bir coğrafyada yer alır. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüşlerdir.
+Çatak Kanyonu, Türkiye'nin doğusunda yer alan bir doğal harikadır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Çatak Kanyonu'nun bulunduğu bölge, tarihi olarak çeşitli uygarlıkların yaşadığı bir coğrafyada yer alır. Hitit, Roma ve Osmanlı gibi büyük imparatorluklar, bu topraklarda hüküm sürmüşlerdir.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel mirasının önemli bir parçasıdır. Yüzyıllar boyunca, insanlar bu alanları yaylacılık, hayvancılık ve ticaret yolları için kullanmışlardır. Çatak Kanyonu da, bu amaçlarla kullanılmış olabilecek bir bölgedir. Bölgenin coğrafi konumu, insanların geçiş yolları ve ticaret merkezleri için önemli bir kavşak noktası oluşturmuştur.
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228066"
 
 # Kokulu Ardic 2
 
-Kokulu Ardic 2 milli parkı, İç Anadolu Bölgesi'nin doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş açık alanlar sunuyor. Parkın konumu, ziyaretçilerin doğayı yakından keşfetmesine olanak tanıyan bir konumda yer alıyor. Burada, doğal güzelliğin tadını çıkarabilir ve iç huzura kavuşabilirsiniz. Kokulu Ardic 2 milli parkı, hem doğa severler hem de huzur arayanlar için bir cennet.
+Kokulu Ardic 2 milli parkı, İç Anadolu Bölgesi'nin doğal güzelliğini keşfetmek isteyenler için ideal bir destinasyon. Parkın konumu, ziyaretçilerin doğayı yakından keşfetmesine olanak tanıyan bir konumda yer alıyor. Burada, doğal güzelliğin tadını çıkarabilir ve iç huzura kavuşabilirsiniz. Kokulu Ardic 2 milli parkı, hem doğa severler hem de huzur arayanlar için bir cennet.
 
 ## Tarihçe
 

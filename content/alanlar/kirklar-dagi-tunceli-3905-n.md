@@ -48,7 +48,7 @@ Kırklar Dağı, Tunceli'nin su kaynaklarına da önemli katkılar sağlamaktad�
 
 ## Flora ve Fauna
 
-Kırklar Dağı, Tunceli'nin yüksek dağ ekolojisinin hakim olduğu bir bölgedir. 39.05 kuzey enleminde yer alan bu dağ, alpin çayırlar ve endemik türlerle zengin bir flora ve fauna sunar. 
+Kırklar Dağı, Tunceli'nin yüksek dağ ekolojisinin hakim olduğu bir bölgedir. 39.05 kuzey enleminde yer alan bu dağ, alpin çayırlar ve endemik türlerle zengin bir flora ve fauna sunar.
 
 Bitki Örtüsü: İlkbaharda, dağ yamaçları renkli çiçeklerle donanır. Yükseklik zonlarına göre değişen bitki türleri, dağın ekolojik çeşitliliğini artırır. Alpin flora, dağların zor koşullarına adapte olmuş özel bitkilerle temsil edilir.
 

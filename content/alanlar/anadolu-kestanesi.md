@@ -30,7 +30,7 @@ wikidata_id: "Q30598340"
 
 # Anadolu Kestanesi
 
-Anadolu Kestanesi, İzmir'in Ödemiş ilçesinde yer alan 140 hektarlık bir yeşil alan olarak yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe bir ortam sunuyor. Anadolu Kestanesi'nin tarihi geçmişi, ziyaretçilerini cezbeden önemli bir nokta. İnsanlar, bu doğal güzellikleri ve tarihi zenginlikleri görmek için burayı ziyaret ediyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor ve ziyaretçilerine geniş bir doğa ortamı sunuyor.
+ Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe bir ortam sunuyor. Anadolu Kestanesi'nin tarihi geçmişi, ziyaretçilerini cezbeden önemli bir nokta. İnsanlar, bu doğal güzellikleri ve tarihi zenginlikleri görmek için burayı ziyaret ediyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Anadolu Kestanesi'nin tarihi geçmişi, insanları burayı ziyaret etmeye çekiy
 
 ## Coğrafya
 
-Anadolu Kestanesi, İzmir'in Ödemiş ilçesinde yer alıyor. 140 hektarlık yeşil alanı, ziyaretçilerine geniş bir doğa ortamı sunuyor. Bu alan, Ege Bölgesi'ndeki önemli doğal güzelliklerden biri olarak kabul ediliyor. İklimi, ziyaretçilerine uygun koşullar sunuyor. Çevre, doğal güzellikleri ile dikkat çekiyor. Anadolu Kestanesi, ziyaretçilerine hem doğal güzellikler hem de tarihi zenginlikler sunuyor. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe bir ortam sunuyor.
+Anadolu Kestanesi, İzmir'in Ödemiş ilçesinde yer alıyor. 140 hektarlık yeşil alanı, ziyaretçilerine geniş bir doğa ortamı sunuyor. Bu alan, Ege Bölgesi'ndeki önemli doğal güzelliklerden biri olarak kabul ediliyor. İklimi, ziyaretçilerine uygun koşullar sunuyor. Çevre, doğal güzellikleri ile dikkat çekiyor. Anadolu Kestanesi, ziyaretçilerine hem doğal güzellikler hem de tarihi zenginlikler sunuyor. Bu geniş yeşil alan, ziyaretçilerine doğayla iç içe bir ortam sunuyor.
 
 ## Flora ve Fauna
 
@@ -54,4 +54,4 @@ Anadolu Kestanesi'ni ziyaret etmek için, İzmir'in Ödemiş ilçesine gidilmesi
 - Bu alan, Ege Bölgesi'ndeki önemli doğal güzelliklerden biri olarak kabul ediliyor.
 - İnsanlar, bu doğal güzellikleri ve tarihi zenginlikleri görmek için burayı ziyaret ediyor.
 - Anadolu Kestanesi, ziyaretçilerine hem doğal güzellikler hem de tarihi zenginlikler sunuyor.
-- 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor.
+

@@ -1,7 +1,7 @@
 ---
 title: "Şeyh İmameddin Türbesi"
 date: "2026-01-10T07:52:49.703Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582875"
 
 # Şeyh İmameddin Türbesi
 
-Şeyh İmameddin Türbesi, Güneydoğu Anadolu Bölgesi'nin Mardin ilinin Artuklu ilçesinde yer alan tarihi bir mekan. 140 hektarlık bir alan üzerinde konumlanmış olan bu mekan, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Şeyh İmameddin Türbesi, çevresi ile birlikte yüksek bir konumda bulunuyor ve bu yükseklik, ziyaretçilere geniş bir görüş açısı sunuyor. Bu yükseklikte, Mardin'in tarihi dokusunu ve Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını gözlemleme mümkün.
+Şeyh İmameddin Türbesi, Güneydoğu Anadolu Bölgesi'nin Mardin ilinin Artuklu ilçesinde yer alan tarihi bir mekan. Şeyh İmameddin Türbesi, çevresi ile birlikte yüksek bir konumda bulunuyor ve bu yükseklik, ziyaretçilere geniş bir görüş açısı sunuyor. Bu yükseklikte, Mardin'in tarihi dokusunu ve Güneydoğu Anadolu Bölgesi'nin coğrafi yapısını gözlemleme mümkün.
 
 ## Tarihçe
 

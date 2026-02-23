@@ -51,7 +51,7 @@ Kumalar Dağı'nın fiziksel yapısı, bölgenin jeolojik özelliklerini yansıt
 
 ## Flora ve Fauna
 
-Kumalar Dağı, Afyonkarahisar'ın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Çam ağaçlarının arasında, çeşitli otsu bitkiler ve çalı türleri yaygındır. 
+Kumalar Dağı, Afyonkarahisar'ın zeytinlikler ve çam ormanları ile çevrili bir dağ ekosistemi olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelişiyle birlikte, dağ yamaçları renkli çiçeklerle donanıyor. Çam ağaçlarının arasında, çeşitli otsu bitkiler ve çalı türleri yaygındır.
 
 Dağın yükseklik zonlarına çıkıldıkça, alpin flora hakim olmaya başlıyor. Bu bölgede, farklı yüksekliklerde yaşayan çeşitli bitki türleri bulunabilir. Yaban hayatı da oldukça zengin; dağ keçileri, tavşanlar ve çeşitli kuş türleri bu bölgede yaşamlarını sürdürüyor. Göç mevsiminde, birçok kuş türü buradan geçerken, sürüngenler de dağların kayalık bölgelerinde yaşamını sürdürüyor. Kumalar Dağı, bu ekolojik çeşitliliği koruduğu için önemli bir doğal alan olarak kabul ediliyor.
 

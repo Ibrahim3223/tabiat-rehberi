@@ -22,7 +22,7 @@ wikidata_id: "Q108227355"
 
 # Ağılı Ardic
 
-Ağılı Ardic, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin doğal güzelliklerini koruyan önemli bir mekân. Ağılı Ardic'in etrafı dağlarla çevrilidir ve burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu milli park, doğa severlerin ziyaret etmesi gereken bir destinasyon olarak dikkat çekmektedir.
+Ağılı Ardic, İç Anadolu Bölgesi'nin kalbinde yer alan bir milli parktır. Ağılı Ardic'in etrafı dağlarla çevrilidir ve burada çeşitli bitki türleri ve zengin fauna bulunmaktadır. Bu milli park, doğa severlerin ziyaret etmesi gereken bir destinasyon olarak dikkat çekmektedir.
 
 ## Tarihçe
 

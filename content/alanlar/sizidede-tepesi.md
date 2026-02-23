@@ -28,7 +28,7 @@ wikidata_id: "Q31386952"
 
 # Sızıdede Tepesi
 
-Sızıdede Tepesi, Marmara Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak Balıkesir'de yer alır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve bölgeye özgü flora ve fauna ile çevrilidir. Sızıdede Tepesi, ziyaretçilerini hem doğal güzelliği hem de tarihi zenginliği ile büyüler. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir noktadır.
+Sızıdede Tepesi, Marmara Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olarak Balıkesir'de yer alır. Sızıdede Tepesi, ziyaretçilerini hem doğal güzelliği hem de tarihi zenginliği ile büyüler. Bu tepe, aynı zamanda bölgenin coğrafi yapısını anlamak için önemli bir noktadır.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Sızıdede Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu
 
 ## Coğrafya
 
-Sızıdede Tepesi, Marmara Bölgesi'nin coğrafi yapısını anlamak için çok önemli bir noktadır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar ve bölgeye özgü flora ve fauna ile çevrilidir. Sızıdede Tepesi'nin coğrafi konumu, Marmara Denizi'ne yakınlığı ve çevresindeki dağlarla birlikte benzersiz bir doğal güzellik sunar. Bu tepe, aynı zamanda bölgenin iklimini anlamak için önemli bir noktadır. Sızıdede Tepesi'nin çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çeker.
+Sızıdede Tepesi, Marmara Bölgesi'nin coğrafi yapısını anlamak için çok önemli bir noktadır. Sızıdede Tepesi'nin coğrafi konumu, Marmara Denizi'ne yakınlığı ve çevresindeki dağlarla birlikte benzersiz bir doğal güzellik sunar. Bu tepe, aynı zamanda bölgenin iklimini anlamak için önemli bir noktadır. Sızıdede Tepesi'nin çevresinde, çeşitli bitki türleri ve hayvanlar bulunur. Bu tepe, bölgenin coğrafi yapısını ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olarak dikkat çeker.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Sızıdede Tepesi'ni ziyaret etmek, Marmara Bölgesi'nin doğal güzelliklerini 
 ## İlginç Bilgiler
 
 - Sızıdede Tepesi, Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olarak kabul edilir.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar.
+
 - Sızıdede Tepesi, bölgenin coğrafi yapısını anlamak için önemli bir noktadır.
 - Bu tepe, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşır.
 - Sızıdede Tepesi, bölgenin flora ve fauna açısından zengin bir çeşitliliğe sahiptir.

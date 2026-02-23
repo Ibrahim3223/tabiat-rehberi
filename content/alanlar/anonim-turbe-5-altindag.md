@@ -1,7 +1,7 @@
 ---
 title: "Anonim Türbe-5, Altındağ"
 date: "2026-01-10T05:38:07.932Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582347"
 
 # Anonim Türbe-5, Altındağ
 
-Ankara'nın kalbinde, Altındağ ilçesinde yer alan Anonim Türbe-5, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden özel bir mekan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezinde yeşilin hüküm sürdüğü bir nokta. Bu bölge, Ankara'nın tarihi geçmişi ile modern yüzünü bir araya getiren önemli bir kültürel miras. Anonim Türbe-5, ziyaretçilerine hem dinlenme hem de kültürel keşif imkanı sunuyor. Burada, tarihi yapılar, yeşilin bol olduğu alanlar ve şehrin panoramik manzaraları bir araya geliyor. Anonim Türbe-5, Ankara'nın merkezinde yer alan ve hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi.
+Ankara'nın kalbinde, Altındağ ilçesinde yer alan Anonim Türbe-5, hem tarihi hem de doğal güzellikleri ile ziyaretçilerini cezbeden özel bir mekan. Bu bölge, Ankara'nın tarihi geçmişi ile modern yüzünü bir araya getiren önemli bir kültürel miras. Anonim Türbe-5, ziyaretçilerine hem dinlenme hem de kültürel keşif imkanı sunuyor. Burada, tarihi yapılar, yeşilin bol olduğu alanlar ve şehrin panoramik manzaraları bir araya geliyor. Anonim Türbe-5, Ankara'nın merkezinde yer alan ve hem yerel halk hem de ziyaretçiler için önemli bir çekim merkezi.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Ankara'nın tarihi geçmişi, Anonim Türbe-5'in de bir parçası. Bu bölge, y�
 
 ## Coğrafya
 
-Anonim Türbe-5, coğrafi konumu itibariyle Ankara'nın merkezinde yer alıyor. Bu bölge, şehrin kalabalık ve gürültülü ortamlarından uzak, sakin ve yeşil bir alan. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezinde yeşilin hüküm sürdüğü bir nokta. Anonim Türbe-5'in coğrafi konumu, ziyaretçilerine şehrin panoramik manzaralarını seyretme imkanı sunuyor. Bu bölge, Ankara'nın coğrafi güzelliklerini bir araya getiren önemli bir nokta. Anonim Türbe-5, ziyaretçilerine hem dinlenme hem de kültürel keşif imkanı sunuyor. Burada, tarihi yapılar, yeşilin bol olduğu alanlar ve şehrin panoramik manzaraları bir araya geliyor.
+Anonim Türbe-5, coğrafi konumu itibariyle Ankara'nın merkezinde yer alıyor. Bu bölge, şehrin kalabalık ve gürültülü ortamlarından uzak, sakin ve yeşil bir alan. Anonim Türbe-5'in coğrafi konumu, ziyaretçilerine şehrin panoramik manzaralarını seyretme imkanı sunuyor. Bu bölge, Ankara'nın coğrafi güzelliklerini bir araya getiren önemli bir nokta. Anonim Türbe-5, ziyaretçilerine hem dinlenme hem de kültürel keşif imkanı sunuyor. Burada, tarihi yapılar, yeşilin bol olduğu alanlar ve şehrin panoramik manzaraları bir araya geliyor.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Anonim Türbe-5, ziyaretçilerine hem dinlenme hem de kültürel keşif imkanı 
 ## İlginç Bilgiler
 
 - Anonim Türbe-5, Ankara'nın tarihi geçmişi ile modern yüzünü bir araya getiren önemli bir kültürel miras.
-- Bu bölge, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Anonim Türbe-5, flora ve fauna açısından zengin bir bölge.
 - Bu bölgede, çeşitli bitki türleri ve hayvanlar yer alıyor.
 - Anonim Türbe-5, ziyaretçilerine doğayı keşfetme imkanı sunuyor.

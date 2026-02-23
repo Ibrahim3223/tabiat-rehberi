@@ -1,7 +1,7 @@
 ---
 title: "Çınarlı Hamam"
 date: "2026-01-09T23:15:05.907Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738956"
 
 # Çınarlı Hamam
 
-Çınarlı Hamam, Ege Bölgesi'nin en güzel noktalarından biri olan Bergama'da yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok farklı aktivite ve gezi imkanı sunuyor. Çınarlı Hamam, Bergama'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu bölge, hem deniz hem de çevre güzelliği ile ziyaretçilerini çekiyor. Çınarlı Hamam'da, denizin serinliğini ve güneşin sıcaklığını bir arada hissedebilirsiniz.
+Çınarlı Hamam, Ege Bölgesi'nin en güzel noktalarından biri olan Bergama'da yer alıyor. Çınarlı Hamam, Bergama'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu bölge, hem deniz hem de çevre güzelliği ile ziyaretçilerini çekiyor. Çınarlı Hamam'da, denizin serinliğini ve güneşin sıcaklığını bir arada hissedebilirsiniz.
 
 ## Tarihçe
 

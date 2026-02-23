@@ -29,13 +29,13 @@ wikidata_id: "Q49319088"
 
 # Büyük Mağara
 
-Çanakkale'nin tarih kokan topraklarında, doğa harikaları da ziyaretçilerini bekliyor. Büyük Mağara, bu ilin gizli bir köşesinde yer alan jeopark, ziyaretçilerine unutulmaz bir deneyim sunuyor. Çanakkale'nin eşsiz coğrafyası, bu mağaranın oluşumunda önemli bir rol oynamış gibi görünüyor. Büyük Mağara, Çanakkale'nin doğal güzellikleri arasında önemli bir yere sahip.
+Çanakkale'nin tarih kokan topraklarında, doğa harikaları da ziyaretçilerini bekliyor. Çanakkale'nin eşsiz coğrafyası, bu mağaranın oluşumunda önemli bir rol oynamış gibi görünüyor. Büyük Mağara, Çanakkale'nin doğal güzellikleri arasında önemli bir yere sahip.
 
 ## Tarihçe
 
-Çanakkale bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, binlerce yıl önce çeşitli uygarlıkların yaşamına ev sahipliği yapmış, önemli ticaret yollarının kesişme noktası olmuştur. Truva Antik Kenti gibi tarihi siteler, bölgenin zengin tarihsel mirasını gözler önüne serer. 
+Çanakkale bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, binlerce yıl önce çeşitli uygarlıkların yaşamına ev sahipliği yapmış, önemli ticaret yollarının kesişme noktası olmuştur. Truva Antik Kenti gibi tarihi siteler, bölgenin zengin tarihsel mirasını gözler önüne serer.
 
-Doğal güzellikleri ve stratejik konumuyla dikkat çeken Çanakkale, tarih boyunca insan yerleşimlerine ve faaliyetlerine sahne olmuştur. Yaylacılık ve hayvancılık, bölgenin coğrafi yapısına uygun olarak gelişen geleneksel faaliyetler arasındadır. İnsanlar, bu doğal alanları sadece ekonomik faaliyetler için değil, aynı zamanda dinlenme ve doğayla iç içe olma amacıyla da kullanmışlardır. 
+Doğal güzellikleri ve stratejik konumuyla dikkat çeken Çanakkale, tarih boyunca insan yerleşimlerine ve faaliyetlerine sahne olmuştur. Yaylacılık ve hayvancılık, bölgenin coğrafi yapısına uygun olarak gelişen geleneksel faaliyetler arasındadır. İnsanlar, bu doğal alanları sadece ekonomik faaliyetler için değil, aynı zamanda dinlenme ve doğayla iç içe olma amacıyla da kullanmışlardır.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel ve kültürel dokusunda önemli bir yer tutar. İnsanların doğayla olan bağlantısını güçlendiren bu alanlar, aynı zamanda kültürel mirasın korunmasına da katkıda bulunur. "Büyük Mağara" gibi jeoparklar, sadece doğal güzelliği ile değil, aynı zamanda taşıdığı tarihsel ve kültürel önemle de dikkat çeker. Bu alanlar, geçmişin izlerini günümüze taşıyan önemli birer kültür mirası olarak kabul edilir.
 
@@ -51,11 +51,11 @@ Mevsimsel değişikliklere bağlı olarak, "Büyük Mağara" jeoparkı farklı b
 
 ## Flora ve Fauna
 
-Çanakkale'deki "Büyük Mağara" jeoparkı, geçiş ikliminin etkisi altında, karma ormanların zenginliklerini barındırıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Çanakkale'deki "Büyük Mağara" jeoparkı, geçiş ikliminin etkisi altında, karma ormanların zenginliklerini barındırıyor. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
-İlkbaharda, orman tabanı çiçeklerle donanıyor; sonbaharda ise göçmen kuşlar bu bölgeden geçerken, gökyüzü renklendiriyor. Hakim türler arasında geniş yapraklı ağaçlar ve iğne yapraklı ağaçlar yer alıyor. Mevsimsel değişimlerle birlikte, orman memelileri ve çeşitli kuş türleri de bu ekosistemin bir parçası oluyor. 
+İlkbaharda, orman tabanı çiçeklerle donanıyor; sonbaharda ise göçmen kuşlar bu bölgeden geçerken, gökyüzü renklendiriyor. Hakim türler arasında geniş yapraklı ağaçlar ve iğne yapraklı ağaçlar yer alıyor. Mevsimsel değişimlerle birlikte, orman memelileri ve çeşitli kuş türleri de bu ekosistemin bir parçası oluyor.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösteriyor. Orman memelileri, ağaçların gölgesinde yaşamını sürdürürken, çeşitli kuş türleri ağaçlarda yuvalanıyor. Sürüngenler ise, orman tabanında ve kayalık alanlarda yaşamlarını sürdürüyor. Bu jeopark, göçmen kuş rotası üzerinde yer aldığı için, sonbaharda ve ilkbaharda çok sayıda kuş türüne ev sahipliği yapıyor. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösteriyor. Orman memelileri, ağaçların gölgesinde yaşamını sürdürürken, çeşitli kuş türleri ağaçlarda yuvalanıyor. Sürüngenler ise, orman tabanında ve kayalık alanlarda yaşamlarını sürdürüyor. Bu jeopark, göçmen kuş rotası üzerinde yer aldığı için, sonbaharda ve ilkbaharda çok sayıda kuş türüne ev sahipliği yapıyor.
 
 Ekolojik değerinin yüksek olmasının nedenlerinden biri, bu bölgenin doğal yaşamın döngüsünü desteklemesi. Ancak, koruma durumuyla ilgili çalışmalar devam ediyor. Bu bölge, doğanın güzelliğini ve canlı çeşitliliğini korumak için önemli bir alan.
 

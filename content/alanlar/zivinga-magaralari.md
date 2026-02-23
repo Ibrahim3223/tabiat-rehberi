@@ -32,7 +32,7 @@ Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Zivinga Mağaral
 
 ## Tarihçe
 
-Batman bölgesinin zengin tarihsel geçmişi, çeşitli uygarlıkların izlerini taşır. Bölge, tarihin farklı dönemlerinde Hititler, Asurlular, Persler ve Romalılar gibi medeniyetlerin hakimiyetine girmiştir. Bu geniş coğrafya, ticaret yollarının kesişme noktası olarak önemli bir konumda yer almıştır. 
+Batman bölgesinin zengin tarihsel geçmişi, çeşitli uygarlıkların izlerini taşır. Bölge, tarihin farklı dönemlerinde Hititler, Asurlular, Persler ve Romalılar gibi medeniyetlerin hakimiyetine girmiştir. Bu geniş coğrafya, ticaret yollarının kesişme noktası olarak önemli bir konumda yer almıştır.
 
 Doğal güzellikleri ve jeolojik oluşumları ile dikkat çeken Zivinga Mağaraları, Türkiye'nin jeopark alanları arasında özel bir yere sahiptir. Türkiye'de benzer doğal alanlar, tarih boyunca insanların yerleşim, hayvancılık ve yaylacılık faaliyetleri için tercih edilen bölgeler olmuştur. Bu tür alanlar, aynı zamanda önemli ticaret yolları üzerinde bulunmuş ve bölge halkının ekonomik faaliyetlerine katkıda bulunmuştur.
 

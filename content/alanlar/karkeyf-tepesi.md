@@ -28,7 +28,7 @@ wikidata_id: "Q31548301"
 
 # Karkeyf Tepesi
 
-Karkeyf Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan, doğa severlerin ve trekking tutkunlarının ziyaret etmekten keyif alacağı bir destinasyon. Bu tepe, yaklaşık 140 hektarlık alanı kaplayan rng bir yeşil alan, aynı zamanda yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Karkeyf Tepesi, ziyaretçilerine geniş ve ferah bir ortam sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Bu özelliğiyle Karkeyf Tepesi, hem doğayı korumak hem de doğal güzellikleri keşfetmek isteyenler için ideal bir yer.
+Karkeyf Tepesi, Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan, doğa severlerin ve trekking tutkunlarının ziyaret etmekten keyif alacağı bir destinasyon. Karkeyf Tepesi, ziyaretçilerine geniş ve ferah bir ortam sunuyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Bu özelliğiyle Karkeyf Tepesi, hem doğayı korumak hem de doğal güzellikleri keşfetmek isteyenler için ideal bir yer.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Karkeyf Tepesi, Güneydoğu Anadolu Bölgesi'nin coğrafi olarak en dikkat çeki
 
 ## Flora ve Fauna
 
-Karkeyf Tepesi, flora ve fauna açısından oldukça zengin bir bölge. Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunuyor. Bu bölgede, özellikle ilkbahar mevsiminde, renkli çiçekler açıyor ve tepe, bir çiçek denizi gibi görünüyor. Tepenin fauna açısından zengin oluşu, birçok hayvanın bu bölgede yaşamasına olanak sağlıyor. Karkeyf Tepesi, aynı zamanda birçok kuş türünün yuvalanma alanı olarak da kullanılıyor. Bu tepe, doğa severler için bir cennet gibi ve ziyaretçilerine, doğal güzellikleri keşfetme fırsatı sunuyor.
+ Tepenin etrafında, çeşitli bitki türleri ve hayvanlar bulunuyor. Bu bölgede, özellikle ilkbahar mevsiminde, renkli çiçekler açıyor ve tepe, bir çiçek denizi gibi görünüyor. Tepenin fauna açısından zengin oluşu, birçok hayvanın bu bölgede yaşamasına olanak sağlıyor. Karkeyf Tepesi, aynı zamanda birçok kuş türünün yuvalanma alanı olarak da kullanılıyor. Bu tepe, doğa severler için bir cennet gibi ve ziyaretçilerine, doğal güzellikleri keşfetme fırsatı sunuyor.
 
 ## Ziyaret Bilgileri
 

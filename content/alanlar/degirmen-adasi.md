@@ -32,7 +32,7 @@ Muğla'nın büyüleyici kıyı şeridinde, Ege Denizi'nin sakin sularında yer 
 
 ## Tarihçe
 
-Muğla bölgesi, tarihi boyunca çeşitli uygarlıkların hükümranlığı altında kalmıştır. Likya, Karya ve Roma uygarlıkları, bu bölgeye izlerini bırakmışlardır. Değirmen Adası da, bu zengin tarihsel mirasın bir parçasıdır. Türkiye'de, doğal alanlar her zaman insan yaşamının önemli bir parçası olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve sosyal açıdan değerini artırmıştır. 
+Muğla bölgesi, tarihi boyunca çeşitli uygarlıkların hükümranlığı altında kalmıştır. Likya, Karya ve Roma uygarlıkları, bu bölgeye izlerini bırakmışlardır. Değirmen Adası da, bu zengin tarihsel mirasın bir parçasıdır. Türkiye'de, doğal alanlar her zaman insan yaşamının önemli bir parçası olmuştur. Yaylacılık, hayvancılık ve ticaret yolları, bu bölgelerin ekonomi ve sosyal açıdan değerini artırmıştır.
 Muğla bölgesindeki doğal güzellikler, yüzyıllar boyunca insanların yaşamını şekillendirmiş, ticaret ve kültür alışverişine zemin hazırlamıştır. Bu tür doğal alanlar, Türkiye'nin kültürel ve tarihi zenginliğinin önemli bir bileşenidir. Değirmen Adası da, bu zenginliğin bir parçası olarak, bölgenin tarihi ve kültürel dokusuna katkıda bulunmaktadır.
 
 ## Coğrafya

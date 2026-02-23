@@ -51,9 +51,9 @@ Doğal güzellikleri ile dikkat çeken bu bölge, Konya'nın coğrafi çeşitlil
 
 ## Flora ve Fauna
 
-Küpe Dağı, Konya'nın step bitki örtüsünün hakim olduğu bozkır bölgesinde yer alan bir dağ ekosistemi. Bu yükseklik zonlarında, alpin flora çeşitliliği dikkat çekiyor. İlkbahar aylarında, dağ yamaçları renklendirici çiçeklerle donanıyor. 
+Küpe Dağı, Konya'nın step bitki örtüsünün hakim olduğu bozkır bölgesinde yer alan bir dağ ekosistemi. Bu yükseklik zonlarında, alpin flora çeşitliliği dikkat çekiyor. İlkbahar aylarında, dağ yamaçları renklendirici çiçeklerle donanıyor.
 
-Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirilmiş. Göç mevsiminde, çeşitli kuş türleri bu bölgeden geçiş yapıyor. Dağ keçileri ve diğer memeliler, dağlık arazinin zor koşullarına adapte olmuş. 
+Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle zenginleştirilmiş. Göç mevsiminde, çeşitli kuş türleri bu bölgeden geçiş yapıyor. Dağ keçileri ve diğer memeliler, dağlık arazinin zor koşullarına adapte olmuş.
 
 Küpe Dağı, ekolojik değerini koruma altına almak açısından önemli bir bölge. Bu dağ ekosisteminin korunması, bölgenin flora ve faunasının sürdürülebilirliğiçin hayati.
 

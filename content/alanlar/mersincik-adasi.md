@@ -50,7 +50,7 @@ Mevsimsel olarak bakıldığında, Mersincik Adası'nın iklim karakteri, Ege De
 
 ## Flora ve Fauna
 
-Mersincik Adası, Muğla'nın zeytinli ve çam ormanlarıyla çevrili bir bölgede yer alan bir ada. Bu ada ekosistemi, izole popülasyonlara ve çeşitli deniz kuşlarına ev sahipliği yapıyor. 
+Mersincik Adası, Muğla'nın zeytinli ve çam ormanlarıyla çevrili bir bölgede yer alan bir ada. Bu ada ekosistemi, izole popülasyonlara ve çeşitli deniz kuşlarına ev sahipliği yapıyor.
 
 Bitki örtüsüne bakıldığında, ilkbaharın gelmesiyle birlikte ada, renkli çiçeklerle donanıyor. Çam ormanları ve zeytinlikler, adanın temel bitki örtüsünü oluşturuyor. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler ve çalılar bulunuyor.
 

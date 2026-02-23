@@ -1,7 +1,7 @@
 ---
 title: "Hamam, Karainebeyli"
 date: "2026-01-09T23:54:46.233Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Çanakkale"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245788"
 
 # Hamam, Karainebeyli
 
-Hamam, Karainebeyli, Çanakkale'nin Gelibolu ilçesinde yer alan ve Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir deniz ve kumsal keyfi sunar. Plajın etrafı, yeşilliklerle çevrili ve denizin güzelliği ile birleşen bu manzara, ziyaretçilere huzur dolu anlar yaşatır. Hamam, Karainebeyli, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel zenginlikleri ile de dikkat çeker. Ziyaretçiler, bu güzel plajda denize girerken, aynı zamanda çevredeki tarihi mekanları da keşfetme fırsatı bulurlar.
+Hamam, Karainebeyli, Çanakkale'nin Gelibolu ilçesinde yer alan ve Marmara Bölgesi'nin en güzel plajlarından biri olarak bilinen bir destinasyondur. Plajın etrafı, yeşilliklerle çevrili ve denizin güzelliği ile birleşen bu manzara, ziyaretçilere huzur dolu anlar yaşatır. Hamam, Karainebeyli, sadece doğal güzelliği ile değil, aynı zamanda tarihi ve kültürel zenginlikleri ile de dikkat çeker. Ziyaretçiler, bu güzel plajda denize girerken, aynı zamanda çevredeki tarihi mekanları da keşfetme fırsatı bulurlar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hamam, Karainebeyli'nin tarihi geçmişi, yüzyıllar öncesine dayanır. Bu bö
 
 ## Coğrafya
 
-Hamam, Karainebeyli, Çanakkale'nin Gelibolu ilçesinde yer alır ve Marmara Bölgesi'nin en güzel coğrafi noktalarından biridir. Bu plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Plajın etrafı, yeşilliklerle çevrili ve denizin güzelliği ile birleşen bu manzara, ziyaretçilere huzur dolu anlar yaşatır. Hamam, Karainebeyli, aynı zamanda çevresindeki dağların ve ormanların güzelliği ile de dikkat çeker. Bu doğal güzellikler, plajın güzelliği ile birleşerek, ziyaretçilere benzersiz bir deneyim sunar. İklim olarak, Hamam, Karainebeyli, Akdeniz ikliminin özellikleri gösterir ve yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Bu nedenle, plajı ziyaret etmek için en uygun zaman, Mayıs ve Eylül ayları arasındaki dönemdir.
+Hamam, Karainebeyli, Çanakkale'nin Gelibolu ilçesinde yer alır ve Marmara Bölgesi'nin en güzel coğrafi noktalarından biridir. Plajın etrafı, yeşilliklerle çevrili ve denizin güzelliği ile birleşen bu manzara, ziyaretçilere huzur dolu anlar yaşatır. Hamam, Karainebeyli, aynı zamanda çevresindeki dağların ve ormanların güzelliği ile de dikkat çeker. Bu doğal güzellikler, plajın güzelliği ile birleşerek, ziyaretçilere benzersiz bir deneyim sunar. İklim olarak, Hamam, Karainebeyli, Akdeniz ikliminin özellikleri gösterir ve yaz aylarında sıcak ve kurak, kış aylarında ise ılık ve yağışlı bir hava hüküm sürer. Bu nedenle, plajı ziyaret etmek için en uygun zaman, Mayıs ve Eylül ayları arasındaki dönemdir.
 
 ## Flora ve Fauna
 

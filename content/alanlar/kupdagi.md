@@ -50,7 +50,7 @@ Bölgenin çevresel ilişkileri açısından bakıldığında, Küpdağı'nın k
 
 ## Flora ve Fauna
 
-Küpdağı, Zonguldak'ta yer alan nemli iklimli bir dağ ekosistemi, gür ormanlar ve yüksek biyoçeşitlili ile büyüleyici bir dünyayı ziyaretçilerine sunar. 
+Küpdağı, Zonguldak'ta yer alan nemli iklimli bir dağ ekosistemi, gür ormanlar ve yüksek biyoçeşitlili ile büyüleyici bir dünyayı ziyaretçilerine sunar.
 
 İlkbaharla birlikte, dağ yamaçları rengarenk çiçeklerle kaplanır. Sonbaharda ise, göçmen kuşlar dağların üzerinden geçerken, renkli bir şölen sunar. Dağın yükseklik zonalarında, alpin flora hakimdir ve bu flora, dağ hayvanlarının yaşamını destekler.
 

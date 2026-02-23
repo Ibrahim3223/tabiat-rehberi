@@ -1,7 +1,7 @@
 ---
 title: "Sadrettin Konevi Türbesi"
 date: "2026-01-10T07:44:40.048Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391198"
 
 # Sadrettin Konevi Türbesi
 
-Sadrettin Konevi Türbesi, Doğu Anadolu Bölgesi'nin Yakutiye ilçesinde yer alan tarihi bir türbe ve plajdır. 140 hektarlık bir alana kurulan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişiyle dikkat çeken bu türbe, hem dini hem de turistik anlamda önemli bir destinasyondur. Sadrettin Konevi Türbesi, ziyaretçilerini büyüleyici bir atmosfere davet eden bir yerdir.
+Sadrettin Konevi Türbesi, Doğu Anadolu Bölgesi'nin Yakutiye ilçesinde yer alan tarihi bir türbe ve plajdır. Tarihi geçmişiyle dikkat çeken bu türbe, hem dini hem de turistik anlamda önemli bir destinasyondur. Sadrettin Konevi Türbesi, ziyaretçilerini büyüleyici bir atmosfere davet eden bir yerdir.
 
 ## Tarihçe
 

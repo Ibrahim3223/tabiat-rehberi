@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Şüca Türbesi"
 date: "2026-01-10T05:30:32.856Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Antalya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391385"
 
 # Şeyh Şüca Türbesi
 
-Şeyh Şüca Türbesi, Antalya'nın Muratpaşa ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Bu alan, yaklaşık 140 hektarlık bir alanı kaplamakta ve yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsar. Şeyh Şüca Türbesi, çevresindeki yeşilliklerle ve denizle çevrili bir konumda bulunur ve ziyaretçilerini história ve doğa ile iç içe bir deneyim sunar. Bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çekmekte ve ziyaretçilerini bekliyor.
+Şeyh Şüca Türbesi, Antalya'nın Muratpaşa ilçesinde yer alan bir tarihi ve doğal güzellik alanıdır. Şeyh Şüca Türbesi, çevresindeki yeşilliklerle ve denizle çevrili bir konumda bulunur ve ziyaretçilerini tarihi ve doğa ile iç içe bir deneyim sunar. Bu bölge, hem tarihi hem de doğal güzellikleri ile dikkat çekmekte ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ wikidata_id: "Q131391385"
 
 ## Coğrafya
 
-Şeyh Şüca Türbesi, Antalya'nın Muratpaşa ilçesinde, Akdeniz Bölgesi'nde yer alır. Bu bölge, yeşilliklerle ve denizle çevrili bir konumda bulunur ve ziyaretçilerine doğal güzellikler sunar. Şeyh Şüca Türbesi, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kapsar. Bu bölge, coğrafi olarak önemli bir konumda bulunur ve ziyaretçilerine çeşitli doğal güzellikler sunar. Şeyh Şüca Türbesi, çevresindeki dağlar ve denizle birlikte, ziyaretçilerine bir doğa harikası sunar. Bu bölge, iklimi ve coğrafi konumu ile birlikte, ziyaretçilerine yıl boyunca çeşitli doğal güzellikler sunar.
+Şeyh Şüca Türbesi, Antalya'nın Muratpaşa ilçesinde, Akdeniz Bölgesi'nde yer alır. Bu bölge, yeşilliklerle ve denizle çevrili bir konumda bulunur ve ziyaretçilerine doğal güzellikler sunar. Bu bölge, coğrafi olarak önemli bir konumda bulunur ve ziyaretçilerine çeşitli doğal güzellikler sunar. Şeyh Şüca Türbesi, çevresindeki dağlar ve denizle birlikte, ziyaretçilerine bir doğa harikası sunar. Bu bölge, iklimi ve coğrafi konumu ile birlikte, ziyaretçilerine yıl boyunca çeşitli doğal güzellikler sunar.
 
 ## Flora ve Fauna
 

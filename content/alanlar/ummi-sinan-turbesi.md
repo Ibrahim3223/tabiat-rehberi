@@ -1,7 +1,7 @@
 ---
 title: "Ümmi Sinan Türbesi"
 date: "2026-01-10T07:21:51.739Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391004"
 
 # Ümmi Sinan Türbesi
 
-Ümmi Sinan Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik noktasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsıyor. Bu bölge, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Ümmi Sinan Türbesi, tarihi geçmişi ve doğal güzelliği ile birlikte, ziyaretçilere unutulmaz bir deneyim sunuyor.
+Ümmi Sinan Türbesi, İstanbul'un Eyüpsultan ilçesinde, Marmara Bölgesi'nin kalbinde yer alan bir tarihi ve doğal güzellik noktasıdır. Bu bölge, hem tarihi açıdan hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Ümmi Sinan Türbesi, tarihi geçmişi ve doğal güzelliği ile birlikte, ziyaretçilere unutulmaz bir deneyim sunuyor.
 
 ## Tarihçe
 

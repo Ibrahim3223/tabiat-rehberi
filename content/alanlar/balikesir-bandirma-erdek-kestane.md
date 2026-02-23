@@ -22,7 +22,7 @@ wikidata_id: "Q108227722"
 
 # Balikesir-Bandirma-Erdek Kestane
 
-Balikesir-Bandirma-Erdek Kestane milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile karşılamaktadır. Bu milli park, kestane ağaçlarıyla ünlü olup, aynı zamanda çeşitli bitki türlerine ev sahipliği yapmaktadır. Ziyaretçiler, bu güzel ortamda doğayı keşfedebilir ve yaban hayatını gözlemleyebilirler.
+Balikesir-Bandirma-Erdek Kestane milli parkı, İç Anadolu Bölgesi'nde yer alan bir doğa harikasıdır. Bu milli park, kestane ağaçlarıyla ünlü olup, aynı zamanda çeşitli bitki türlerine ev sahipliği yapmaktadır. Ziyaretçiler, bu güzel ortamda doğayı keşfedebilir ve yaban hayatını gözlemleyebilirler.
 
 ## Tarihçe
 

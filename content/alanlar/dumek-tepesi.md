@@ -28,7 +28,7 @@ wikidata_id: "Q34914025"
 
 # Dümek Tepesi
 
-Dümek Tepesi, Karabük'ün merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerinden biri. Dümek Tepesi, ziyaretçilerine Karabük'ün panoramik manzarasını sunarken, aynı zamanda doğa yürüyüşü ve piknik gibi faaliyetler için de uygun bir ortam sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta.
+Dümek Tepesi, Karabük'ün merkezinde yer alan ve şehre hakim bir konumda bulunan bir tepe. Dümek Tepesi, ziyaretçilerine Karabük'ün panoramik manzarasını sunarken, aynı zamanda doğa yürüyüşü ve piknik gibi faaliyetler için de uygun bir ortam sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunmakta.
 
 ## Tarihçe
 

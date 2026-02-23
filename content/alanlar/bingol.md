@@ -23,7 +23,7 @@ wikidata_id: "Q108228668"
 
 # BİNGÖL
 
-Bingöl, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğayla iç içe vakit geçirmesine olanak tanıyor. Bingöl, hem doğa severler hem de tarihi geçmişe ilgi duyanlar için önemli bir merkez.
+Bingöl, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu bölgede, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin doğayla iç içe vakit geçirmesine olanak tanıyor. Bingöl, hem doğa severler hem de tarihi geçmişe ilgi duyanlar için önemli bir merkez.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Bingöl'ün tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izler
 
 ## Coğrafya
 
-Bingöl, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölgenin coğrafi yapısını oluşturan dağlar, ovalar ve nehirler, ziyaretçilere doğanın güzelliğini sunuyor. İklim, genel olarak karasal ve bu da bölgenin flora ve faunasını şekillendiriyor. Bingöl'ün coğrafi konumu, ziyaretçilere çeşitli doğa aktivitelerine katılım imkanı tanıyor. Bölgenin coğrafi yapısı, ziyaretçilerin doğayla iç içe vakit geçirmesine olanak tanıyor ve bu da Bingöl'ü doğa severler için ideal bir destinasyon haline getiriyor.
+Bingöl, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir konumda yer alıyor. İklim, genel olarak karasal ve bu da bölgenin flora ve faunasını şekillendiriyor. Bingöl'ün coğrafi konumu, ziyaretçilere çeşitli doğa aktivitelerine katılım imkanı tanıyor. Bölgenin coğrafi yapısı, ziyaretçilerin doğayla iç içe vakit geçirmesine olanak tanıyor ve bu da Bingöl'ü doğa severler için ideal bir destinasyon haline getiriyor.
 
 ## Flora ve Fauna
 
@@ -44,7 +44,7 @@ Bingöl'ü ziyaret etmek, doğa severler ve tarihi geçmişe ilgi duyanlar için
 ## İlginç Bilgiler
 
 - Bingöl, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon.
-- 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Bölge, çeşitli bitki türleri ve zengin fauna ile ziyaretçilere doğayla iç içe vakit geçirmesine olanak tanıyor.
 - Bingöl'ün tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor.
 - Bölge, coğrafi olarak önemli bir konumda yer alıyor ve ziyaretçilere doğanın güzelliğini sunuyor.

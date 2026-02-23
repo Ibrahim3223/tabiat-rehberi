@@ -32,7 +32,7 @@ Rize'nin yeşil doğası, Demir Dağı'nın eteklerinde farklı bir güzelliğe 
 
 ## Tarihçe
 
-Demir Dağı, Rize'nin yeşil örtüsünün bir parçası olarak, tarihin sâu sayfalarında gizli bir hazine gibi saklı duruyor. Rize bölgesi, tarihi boyunca çeşitli uygarlıkların izlerini taşımış bir coğrafya. Antik Çağ'da Pontus Krallığı'nın bir parçası olan bu bölge, daha sonra Roma ve Bizans'ın egemenliğine girmiş. Osmanlı Devleti'nin 15. yüzyılda bölgeyi fethetmesiyle birlikte, Rize'nin tarihi yeni bir döneme girmiş.
+Demir Dağı, Rize'nin yeşil örtüsünün bir parçası olarak, tarihin derin sayfalarında gizli bir hazine gibi saklı duruyor. Rize bölgesi, tarihi boyunca çeşitli uygarlıkların izlerini taşımış bir coğrafya. Antik Çağ'da Pontus Krallığı'nın bir parçası olan bu bölge, daha sonra Roma ve Bizans'ın egemenliğine girmiş. Osmanlı Devleti'nin 15. yüzyılda bölgeyi fethetmesiyle birlikte, Rize'nin tarihi yeni bir döneme girmiş.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel öneminin önemli bir parçasını oluşturuyor. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini belirleyen temel faaliyetler. Rize bölgesinde, özellikle yaylacılık geleneği, yüzyıllar boyu devam eden bir gelenek. İnsan ve doğa arasındaki bu güçlü bağ, Demir Dağı gibi alanların korunması ve gelecek nesiller için saklanması gerektiğini vurguluyor. Bu doğal cennetler, sadece güzellikleri ile değil, aynı zamanda tarihsel ve kültürel önemleri ile değer taşıyor.
 

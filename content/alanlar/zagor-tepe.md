@@ -32,7 +32,7 @@ Mardin'in köklü tarihi ve kültürel zenginliği, Zağor Tepe gibi doğal güz
 
 ## Tarihçe
 
-Mardin'in tarihi zenginliği, Zagor Tepe'nin eteklerinde de hissedilir. Bu bölge, tarihin sâu sayfalarında, Sümerler, Asurlar ve Persler gibi uygarlıkların izlerini taşır. Mardin, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişiçin bir merkez olmuştur.
+Mardin'in tarihi zenginliği, Zagor Tepe'nin eteklerinde de hissedilir. Bu bölge, tarihin derin sayfalarında, Sümerler, Asurlar ve Persler gibi uygarlıkların izlerini taşır. Mardin, tarihi İpek Yolu'nun önemli bir durağı olarak, ticaret ve kültür alışverişiçin bir merkez olmuştur.
 
 Doğu Anadolu Bölgesi'nde yer alan Zagor Tepe, bölgenin coğrafi  ve iklim koşulları nedeniyle, yaylacılık ve hayvancılık için elverişli bir alan sunar. Bölgede yaşayan halk, yüzyıllardır bu doğal kaynakları kullanarak, geleneksel yaşam tarzlarını sürdürmüşlerdir. Zagor Tepe, aynı zamanda önemli ticaret yollarının kavşak noktasında yer alır, bu da bölgeye ticari ve kültürel açıdan önemli bir konum kazandırır.
 
@@ -64,7 +64,7 @@ Zağor Tepe, Mardin'in güzide noktalarından biri. Sabah erken gitmenizi öneri
 
 - Mardin ilinin merkezine yaklaşık 15 kilometre uzaklıktadır.
 - Zağor Tepe, Mardin'in tarihi ve kültürel öneme sahip bölgelerinden biridir.
-- Bu bölgede histórik kalıntılar ve höyükler bulunmaktadır.
+- Bu bölgede tarihi kalıntılar ve höyükler bulunmaktadır.
 - Zağor Tepe ve çevresi, özellikle tarih ve arkeoloji meraklıları tarafından ziyaret edilmektedir.
 - Mardin'in coğrafi konumu ve iklimi, Zagor Tepe'nin flora ve faunasını zenginleştirmektedir.
 - Zağor Tepe, Mardin'in turizm potansiyeli açısından önemli bir noktadır.

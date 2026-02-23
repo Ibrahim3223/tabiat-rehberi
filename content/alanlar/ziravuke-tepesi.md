@@ -28,7 +28,7 @@ wikidata_id: "Q31552328"
 
 # Ziravuke Tepesi
 
-Mardin'in eşsiz manzarasına sahip Ziravuke Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Bu tepenin büyüklüğü, yaklaşık 200 futbol sahası büyüklüğüne eşit. Ziravuke Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Burada, hem tarihi değerleri hem de doğal güzellikleri keşfedebilirsiniz. Ziravuke Tepesi, Mardin'in önemli turizm merkezlerinden biri olarak dikkat çekiyor. Bu tepe, Mardin'in zengin tarihini ve kültürünü yansıtan önemli bir nokta.
+Mardin'in eşsiz manzarasına sahip Ziravuke Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Ziravuke Tepesi, Mardin'in tarihi ve doğal güzelliklerinin birleştiği özel bir nokta. Burada, hem tarihi değerleri hem de doğal güzellikleri keşfedebilirsiniz. Ziravuke Tepesi, Mardin'in önemli turizm merkezlerinden biri olarak dikkat çekiyor. Bu tepe, Mardin'in zengin tarihini ve kültürünü yansıtan önemli bir nokta.
 
 ## Tarihçe
 

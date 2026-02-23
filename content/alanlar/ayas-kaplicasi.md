@@ -28,7 +28,7 @@ wikidata_id: "Q49741889"
 
 # Ayaş Kaplıcası
 
-Ayaş Kaplıcası, Ankara'nın Ayaş ilçesinde yer alan ve termal kaynakları ile bilinen bir destinasyondur. Bu kaplıca, yaklaşık 140 hektarlık bir alan üzerinde kurulmuş olup, 200 futbol sahası büyüklüğünde bir yeşil alan sunar. Ayaş Kaplıcası, doğal güzellikleri ve tarihi geçmişi ile birlikte, sağlık turizmi açısından önemli bir merkezdir. Ziyaretçiler, kaplıcanın sıca ve mineralli sularının yanı sıra, çevresindeki doğal güzellikleri keşfetme fırsatı bulurlar.
+Ayaş Kaplıcası, Ankara'nın Ayaş ilçesinde yer alan ve termal kaynakları ile bilinen bir destinasyondur. Ayaş Kaplıcası, doğal güzellikleri ve tarihi geçmişi ile birlikte, sağlık turizmi açısından önemli bir merkezdir. Ziyaretçiler, kaplıcanın sıca ve mineralli sularının yanı sıra, çevresindeki doğal güzellikleri keşfetme fırsatı bulurlar.
 
 ## Tarihçe
 

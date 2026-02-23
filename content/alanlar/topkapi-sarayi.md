@@ -1,7 +1,7 @@
 ---
 title: "Topkapı Sarayı"
 date: "2026-01-09T22:05:36.617Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q170495"
 
 # Topkapı Sarayı
 
-Topkapı Sarayı, İstanbul'un Eminönü ilçesinde yer alan, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu devasa alan, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Sarayın tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiş. Topkapı Sarayı, sadece İstanbul'un değil, Türkiye'nin de önemli bir kültürel ve tarihi mirası olarak kabul ediliyor.
+ Bu devasa alan, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Sarayın tarihi geçmişi, yüzyıllar boyunca birçok önemli olaya tanıklık etmiş. Topkapı Sarayı, sadece İstanbul'un değil, Türkiye'nin de önemli bir kültürel ve tarihi mirası olarak kabul ediliyor.
 
 ## Tarihçe
 
@@ -38,15 +38,15 @@ Topkapı Sarayı'nın tarihi geçmişi, yüzyıllar boyunca birçok önemli olay
 
 ## Coğrafya
 
-Topkapı Sarayı, İstanbul'un Eminönü ilçesinde, Boğaziçi'nin kıyısında yer alıyor. Saray, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu devasa alan, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Sarayın coğrafi konumu, birçok önemli noktaya yakın mesafede bulunuyor. Saray, Boğaziçi Köprüsü'ne, Topkapı kapılarına, Ayasofya'ya ve birçok diğer önemli noktaya yakın mesafede yer alıyor. Sarayın coğrafi konumu, ziyaretçilerin birçok önemli noktayı fácil bir şekilde ziyaret etmesini sağlıyor.
+Topkapı Sarayı, İstanbul'un Eminönü ilçesinde, Boğaziçi'nin kıyısında yer alıyor. Bu devasa alan, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri olarak dikkat çekiyor. Sarayın coğrafi konumu, birçok önemli noktaya yakın mesafede bulunuyor. Saray, Boğaziçi Köprüsü'ne, Topkapı kapılarına, Ayasofya'ya ve birçok diğer önemli noktaya yakın mesafede yer alıyor. Sarayın coğrafi konumu, ziyaretçilerin birçok önemli noktayı kolay bir şekilde ziyaret etmesini sağlıyor.
 
 ## Flora ve Fauna
 
-Topkapı Sarayı, birçok çeşitli bitki türünü barındırıyor. Saray, 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu devasa alan, birçok bitki türünün yaşamasına olanak sağlıyor. Saray, aynı zamanda birçok hayvan türünü de barındırıyor. Saray, birçok kuş türüne, kelebeklere, böceklere ve diğer birçok hayvan türüne ev sahipliği yapıyor. Sarayın flora ve fauna zenginliği, ziyaretçilerin birçok çeşitli bitki ve hayvan türünü görmesine olanak sağlıyor.
+Topkapı Sarayı, birçok çeşitli bitki türünü barındırıyor. Bu devasa alan, birçok bitki türünün yaşamasına olanak sağlıyor. Saray, aynı zamanda birçok hayvan türünü de barındırıyor. Saray, birçok kuş türüne, kelebeklere, böceklere ve diğer birçok hayvan türüne ev sahipliği yapıyor. Sarayın flora ve fauna zenginliği, ziyaretçilerin birçok çeşitli bitki ve hayvan türünü görmesine olanak sağlıyor.
 
 ## Ziyaret Bilgileri
 
-Topkapı Sarayı, ziyaretçilerin birçok önemli noktayı fácil bir şekilde ziyaret etmesini sağlıyor. Saray, Boğaziçi Köprüsü'ne, Topkapı kapılarına, Ayasofya'ya ve birçok diğer önemli noktaya yakın mesafede yer alıyor. Sarayı ziyaret etmek için, birçok farklı ulaşım seçeneği bulunuyor. Ziyaretçiler, toplu taşıma araçlarını, taksileri veya özel araçlarını kullanarak saraya ulaşabilirler. Sarayı ziyaret etmek için en iyi zaman, bahar ve yaz ayları olarak kabul ediliyor.
+Topkapı Sarayı, ziyaretçilerin birçok önemli noktayı kolay bir şekilde ziyaret etmesini sağlıyor. Saray, Boğaziçi Köprüsü'ne, Topkapı kapılarına, Ayasofya'ya ve birçok diğer önemli noktaya yakın mesafede yer alıyor. Sarayı ziyaret etmek için, birçok farklı ulaşım seçeneği bulunuyor. Ziyaretçiler, toplu taşıma araçlarını, taksileri veya özel araçlarını kullanarak saraya ulaşabilirler. Sarayı ziyaret etmek için en iyi zaman, bahar ve yaz ayları olarak kabul ediliyor.
 
 ## İlginç Bilgiler
 

@@ -29,7 +29,7 @@ wikidata_id: "Q31386053"
 
 # Ankar Dağı
 
-Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Ankar Dağı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülemektedir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, hem doğal güzelliği hem de coğrafi özellikleri ile dikkat çekmektedir. Ankar Dağı, Adıyaman ilinin önemli tepe noktalarından biri olarak bilinmektedir. Dağın yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunmaktadır.
+Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Ankar Dağı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülemektedir. Ankar Dağı, Adıyaman ilinin önemli tepe noktalarından biri olarak bilinmektedir. Dağın yüksekliği ve konumu, ziyaretçilere geniş bir manzara sunmaktadır.
 
 ## Tarihçe
 

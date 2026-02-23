@@ -28,7 +28,7 @@ wikidata_id: "Q31387969"
 
 # Karaoğlan Tepesi
 
-Karaoğlan Tepesi, Tunceli'nin merkezi bir konumunda yer alan, yaklaşık 140 hektarlık bir alana yayılmış bir tepe olarak dikkat çekiyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir nokta. Karaoğlan Tepesi, hem şehrin manzarasını izlemek hem de doğanın içinde huzur bulmak isteyenlerin tercih ettiği bir destinasyon. Tunceli'nin coğrafi yapısını ve tarihi geçmişi düşünüldüğünde, bu tepe şehrin önemli bir parçası olarak görülüyor.
+Karaoğlan Tepesi, Tunceli'nin merkezi bir konumunda yer alan, yaklaşık 140 hektarlık bir alana yayılmış bir tepe olarak dikkat çekiyor. Karaoğlan Tepesi, hem şehrin manzarasını izlemek hem de doğanın içinde huzur bulmak isteyenlerin tercih ettiği bir destinasyon. Tunceli'nin coğrafi yapısını ve tarihi geçmişi düşünüldüğünde, bu tepe şehrin önemli bir parçası olarak görülüyor.
 
 ## Tarihçe
 

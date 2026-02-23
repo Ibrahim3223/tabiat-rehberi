@@ -28,7 +28,7 @@ wikidata_id: "Q31389660"
 
 # Aykız Tepesi
 
-Aykız Tepesi, Kastamonu'nun güzide bir bölgesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için mükemmel bir kaçış noktası. Aykız Tepesi, Kastamonu'nun tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta. Tepenin etrafında yer alan köyler ve kasabalar, yöresel lezzetler ve el sanatları ile ziyaretçilerini ağırlıyor. Aykız Tepesi, doğa severler ve tarih meraklıları için bir hazine.
+Aykız Tepesi, Kastamonu'nun güzide bir bölgesinde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir tepe. Aykız Tepesi, Kastamonu'nun tarihi ve kültürel zenginliklerini yansıtan önemli bir nokta. Tepenin etrafında yer alan köyler ve kasabalar, yöresel lezzetler ve el sanatları ile ziyaretçilerini ağırlıyor. Aykız Tepesi, doğa severler ve tarih meraklıları için bir hazine.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Aykız Tepesi'nin tarihi geçmişi, Kastamonu'nun tarihine paralel olarak şekil
 
 ## Coğrafya
 
-Aykız Tepesi, Kastamonu'nun kuzeyinde yer alan ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir tepe. Tepenin coğrafi yapısı, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Aykız Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve 200 futbol sahası büyüklüğünde bir alana sahiptir. Tepenin etrafında yer alan dağlar ve vadiler, bölgenin coğrafi zenginliklerini oluşturur. Aykız Tepesi, Karadeniz Bölgesi'nin iklim koşullarını taşır ve bölgenin flora ve faunası, bu iklim koşullarına uyum sağlamış durumdadır. Tepenin yüksekliği ve coğrafi konumu, bölgenin hava koşullarını etkiler ve Aykız Tepesi, Kastamonu'nun coğrafi zenginliklerini yansıtan önemli bir nokta.
+Aykız Tepesi, Kastamonu'nun kuzeyinde yer alan ve Karadeniz Bölgesi'nin coğrafi özelliklerini taşıyan bir tepe. Tepenin coğrafi yapısı, Karadeniz Bölgesi'nin karakteristik özelliklerini taşır. Tepenin etrafında yer alan dağlar ve vadiler, bölgenin coğrafi zenginliklerini oluşturur. Aykız Tepesi, Karadeniz Bölgesi'nin iklim koşullarını taşır ve bölgenin flora ve faunası, bu iklim koşullarına uyum sağlamış durumdadır. Tepenin yüksekliği ve coğrafi konumu, bölgenin hava koşullarını etkiler ve Aykız Tepesi, Kastamonu'nun coğrafi zenginliklerini yansıtan önemli bir nokta.
 
 ## Flora ve Fauna
 

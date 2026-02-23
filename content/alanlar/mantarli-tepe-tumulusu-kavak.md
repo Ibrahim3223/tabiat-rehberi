@@ -29,7 +29,7 @@ wikidata_id: "Q134728395"
 
 # Mantarlı Tepe Tümülüsü Kavak
 
-Mantarlı Tepe Tümülüsü Kavak, Karadeniz Bölgesi'nin Samsun iline bağlı Kavak'ta yer alan bir tarihi ve doğal güzellik alanıdır. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Mantarlı Tepe Tümülüsü, tarihi önemini korurken aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Kavak'ın merkezine yakın konumuyla ziyaretçiler için kolay ulaşılabilir bir nokta.
+Mantarlı Tepe Tümülüsü Kavak, Karadeniz Bölgesi'nin Samsun iline bağlı Kavak'ta yer alan bir tarihi ve doğal güzellik alanıdır. Mantarlı Tepe Tümülüsü, tarihi önemini korurken aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Kavak'ın merkezine yakın konumuyla ziyaretçiler için kolay ulaşılabilir bir nokta.
 
 ## Tarihçe
 

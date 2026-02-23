@@ -1,7 +1,7 @@
 ---
 title: "Eflaki Dede Türbesi"
 date: "2026-01-10T07:53:13.959Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q135582371"
 
 # Eflaki Dede Türbesi
 
-Eflaki Dede Türbesi, Karatay, Konya'da yer alan tarihi ve doğal güzelliklerin bir arada bulunduğu özel bir mekan olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini büyüleyen bir atmosfere sahip. Bu özel mekan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Eflaki Dede Türbesi, ziyaretçilerine zengin bir deneyim sunuyor ve Karatay, Konya'nın en önemli turistik mekanlarından biri olarak biliniyor.
+Eflaki Dede Türbesi, Karatay, Konya'da yer alan tarihi ve doğal güzelliklerin bir arada bulunduğu özel bir mekan olarak dikkat çekiyor. Bu özel mekan, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor. Eflaki Dede Türbesi, ziyaretçilerine zengin bir deneyim sunuyor ve Karatay, Konya'nın en önemli turistik mekanlarından biri olarak biliniyor.
 
 ## Tarihçe
 

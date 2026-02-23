@@ -28,7 +28,7 @@ wikidata_id: "Q31510751"
 
 # Melik Tepesi
 
-Melik Tepesi, Van ilinin sınırları içerisinde yer alan ve ziyaretçilerini etkileyen bir doğal güzelliğimiz. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Melik Tepesi, Van'ın coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta. Doğal güzelliği ve tarihi önemiyle birlikte, bu bölge, hem yerli hem de yabancı ziyaretçiler için büyük bir çekim merkezi oluşturuyor. Melik Tepesi, Van'ın şehir merkezine uzun bir mesafe uzaklıkta bulunuyor ve ulaşımı oldukça kolay.
+Melik Tepesi, Van ilinin sınırları içerisinde yer alan ve ziyaretçilerini etkileyen bir doğal güzelliğimiz. Melik Tepesi, Van'ın coğrafi yapısını ve tarihi geçmişini yansıtan önemli bir nokta. Doğal güzelliği ve tarihi önemiyle birlikte, bu bölge, hem yerli hem de yabancı ziyaretçiler için büyük bir çekim merkezi oluşturuyor. Melik Tepesi, Van'ın şehir merkezine uzun bir mesafe uzaklıkta bulunuyor ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 

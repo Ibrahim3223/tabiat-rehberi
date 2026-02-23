@@ -50,11 +50,11 @@ Mevsimsel olarak, İnağzı Mağarası'nın bulunduğu bölge, karasal iklimin h
 
 ## Flora ve Fauna
 
-İnağzı Mağarası ve çevresindeki step bitki örtüsü, kuraklığa adapte olmuş türlerle dolu bir ekosistem sunar. İlkbaharın gelmesiyle, bu alan çiçeklerle donanır ve renkli bir manzara oluşur. 
+İnağzı Mağarası ve çevresindeki step bitki örtüsü, kuraklığa adapte olmuş türlerle dolu bir ekosistem sunar. İlkbaharın gelmesiyle, bu alan çiçeklerle donanır ve renkli bir manzara oluşur.
 
-Bitki örtüsünün hakim türleri arasında bozkır otları ve kuraklığa dayanıklı çalılar bulunur. Bu bitkiler, bölgenin kurak iklimine adapte olmuş ve suyun az olduğu dönemlerde bile hayatta kalabilen türlerdir. 
+Bitki örtüsünün hakim türleri arasında bozkır otları ve kuraklığa dayanıklı çalılar bulunur. Bu bitkiler, bölgenin kurak iklimine adapte olmuş ve suyun az olduğu dönemlerde bile hayatta kalabilen türlerdir.
 
-Yaban hayatı ise bu bitkilerin arasında yaşayan memeliler, kuşlar ve sürüngenlerle dolu. Memeliler arasında küçük kemirgenler ve böcekçiller bulunurken, kuşlar arasında step ve bozkır türleri görülür. Sürüngenler ise çoğunlukla güneşli günlerde kayaların üzerinde ısınan türlerdir. 
+Yaban hayatı ise bu bitkilerin arasında yaşayan memeliler, kuşlar ve sürüngenlerle dolu. Memeliler arasında küçük kemirgenler ve böcekçiller bulunurken, kuşlar arasında step ve bozkır türleri görülür. Sürüngenler ise çoğunlukla güneşli günlerde kayaların üzerinde ısınan türlerdir.
 
 Bu ekosistemin ekolojik değeri, çeşitlili ve adaptasyondur. Bu alan, kuraklığa adapte olmuş türlerin yaşadığı ender yerlerden biridir. Koruma durumu ise, bu türlerin hayatta kalabilmesi için önemlidir. Bu nedenle, İnağzı Mağarası ve çevresi, ekolojik açıdan önemli bir alandır.
 

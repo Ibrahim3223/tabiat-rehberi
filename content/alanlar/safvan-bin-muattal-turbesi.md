@@ -1,7 +1,7 @@
 ---
 title: "Safvan Bin Muattal Türbesi"
 date: "2026-01-10T06:14:59.288Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Adıyaman"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390541"
 
 # Safvan Bin Muattal Türbesi
 
-Safvan Bin Muattal Türbesi, Güneydoğu Anadolu Bölgesi'nin Adıyaman iline bağlı Samsat ilçesinde yer alıyor. Bu tarihi türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir görüş açısı sunuyor. Safvan Bin Muattal Türbesi, bölgenin önemli tarihi ve dini merkezlerinden biri olarak kabul ediliyor. Tarihi değerlerinin yanı sıra, çevresindeki doğal güzelliklerle de dikkat çekiyor. Türbenin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
+Safvan Bin Muattal Türbesi, Güneydoğu Anadolu Bölgesi'nin Adıyaman iline bağlı Samsat ilçesinde yer alıyor. Bu tarihi türbe, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur. Safvan Bin Muattal Türbesi, bölgenin önemli tarihi ve dini merkezlerinden biri olarak kabul ediliyor. Tarihi değerlerinin yanı sıra, çevresindeki doğal güzelliklerle de dikkat çekiyor. Türbenin bulunduğu bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir.
 
 ## Tarihçe
 

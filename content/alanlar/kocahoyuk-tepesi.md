@@ -28,7 +28,7 @@ wikidata_id: "Q32197783"
 
 # Kocahöyük Tepesi
 
-Kocahöyük Tepesi, Edirne'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde olan bu tepe, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biri. Tepenin eteklerinde yer alan köyler, bölgenin tarihini ve kültürünü yansıtan önemli yerleşim merkezleri. Kocahöyük Tepesi, hem tarih severler hem de doğa tutkunları için kaçırılmayacak bir gezi noktası.
+Kocahöyük Tepesi, Edirne'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan. Tepenin eteklerinde yer alan köyler, bölgenin tarihini ve kültürünü yansıtan önemli yerleşim merkezleri. Kocahöyük Tepesi, hem tarih severler hem de doğa tutkunları için kaçırılmayacak bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kocahöyük Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği ya
 
 ## Coğrafya
 
-Kocahöyük Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Tepenin 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde yer alan köyler, bölgenin tarım ve hayvancılık faaliyetlerine ev sahipliği yapıyor. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor; yazları sıcak ve kurak, kışları ise ılıman ve yağışlı. Kocahöyük Tepesi, ziyaretçilere bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor. Tepenin manzarası, özellikle gün batımında, ziyaretçilere unutulmaz bir deneyim sağlıyor.
+Kocahöyük Tepesi, Marmara Bölgesi'nin coğrafi olarak önemli bir noktasında yer alıyor. Bu geniş alan, çeşitli bitki türleri ve zengin fauna ile kaplı. Tepenin eteklerinde yer alan köyler, bölgenin tarım ve hayvancılık faaliyetlerine ev sahipliği yapıyor. İklim, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor; yazları sıcak ve kurak, kışları ise ılıman ve yağışlı. Kocahöyük Tepesi, ziyaretçilere bölgenin coğrafi güzelliklerini keşfetme fırsatı sunuyor. Tepenin manzarası, özellikle gün batımında, ziyaretçilere unutulmaz bir deneyim sağlıyor.
 
 ## Flora ve Fauna
 

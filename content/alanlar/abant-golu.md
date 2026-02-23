@@ -34,7 +34,7 @@ Mudurnu ilçe merkezi yakınlarında, Bolu'nun doğal güzelliklerine ev sahipli
 
 ## Tarihçe
 
-Abant Gölü, Türkiye'nin kuzeybatısında, Bolu ilinin sınırları içerisinde yer alan bir doğa harikasıdır. Bölge, tarihin sâu sayfalarında çeşitli uygarlıkların izlerini taşır. Hitit, Frig, Galat, Roma ve Bizans uygarlıkları, zaman içinde bu topraklarda yaşamış ve bölgeye kendi kültürlerini bırakmışlardır.
+Abant Gölü, Türkiye'nin kuzeybatısında, Bolu ilinin sınırları içerisinde yer alan bir doğa harikasıdır. Bölge, tarihin derin sayfalarında çeşitli uygarlıkların izlerini taşır. Hitit, Frig, Galat, Roma ve Bizans uygarlıkları, zaman içinde bu topraklarda yaşamış ve bölgeye kendi kültürlerini bırakmışlardır.
 
 Türkiye'de doğal alanlar, tarihsel olarak önemli ticaret yolları ve yerleşim merkezleri arasında yer almıştır. Bu bölgeler, insan yerleşimlerinin yanı sıra, yaylacılık ve hayvancılık faaliyetleri için de önemli olmuştur. Abant Gölü ve çevresindeki dağlar, yüzyıllar boyunca insanların yaşamlarını sürdürdükleri, ekonomilerini oluşturdukları ve kültürlerini geliştirdikleri bir alan olarak dikkat çeker.
 

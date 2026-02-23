@@ -29,7 +29,7 @@ wikidata_id: "Q134728246"
 
 # Banaz Şehitliği
 
-Banaz Şehitliği, Uşak'ın Banaz ilçesinde yer alan ve lchçe ile doğanın birleştiği özel bir alan olarak dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehitlik olarak kullanılan bu mekan, aynı zamanda ziyaretçilerini doğanın güzelliği ile buluşturuyor. Banaz Şehitliği, Ege Bölgesi'nin zengin tarihini ve doğal güzelliklerini bir arada sunuyor. Bu özel mekan, hem tarih severler hem de doğaşığı olanlar için önemli bir gezi durağı olarak karşımıza çıkıyor.
+Banaz Şehitliği, Uşak'ın Banaz ilçesinde yer alan ve lchçe ile doğanın birleştiği özel bir alan olarak dikkat çekiyor. Banaz Şehitliği, Ege Bölgesi'nin zengin tarihini ve doğal güzelliklerini bir arada sunuyor. Bu özel mekan, hem tarih severler hem de doğaşığı olanlar için önemli bir gezi durağı olarak karşımıza çıkıyor.
 
 ## Tarihçe
 

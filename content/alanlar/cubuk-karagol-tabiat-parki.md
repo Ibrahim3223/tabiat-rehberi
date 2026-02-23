@@ -23,7 +23,7 @@ wikidata_id: "Q108228185"
 
 # Çubuk Karagöl Tabiat Parkı
 
-İç Anadolu Bölgesi'nde yer alan Çubuk Karagöl Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor. Bu bölge, yaban hayatı ve doğal güzelliği ile ziyaretçilerini büyülüyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunması, burada geçirilecek zamanın keyifli ve bilgilendirici olmasını sağlıyor. Çubuk Karagöl Tabiat Parkı, hem doğa severlerin hem de yaban hayatı ile ilgilenenlerin ilgi odağı oluyor.
+ Bu bölge, yaban hayatı ve doğal güzelliği ile ziyaretçilerini büyülüyor. Parkın içerisinde çeşitli bitki türleri ve zengin fauna bulunması, burada geçirilecek zamanın keyifli ve bilgilendirici olmasını sağlıyor. Çubuk Karagöl Tabiat Parkı, hem doğa severlerin hem de yaban hayatı ile ilgilenenlerin ilgi odağı oluyor.
 
 ## Tarihçe
 
@@ -44,7 +44,7 @@ wikidata_id: "Q108228185"
 ## İlginç Bilgiler
 
 - Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunmakta.
-- Park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde.
+
 - İç Anadolu Bölgesi'nin gizli cenneti olarak bilinir.
 - Park, yaban hayatı ve doğal güzelliği ile ziyaretçilerini çekiyor.
 - Parkın tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.

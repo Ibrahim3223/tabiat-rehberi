@@ -23,7 +23,7 @@ wikidata_id: "Q108227349"
 
 # Melodere Dogu Ladini
 
-Melodere Dogu Ladini milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli ekosistemlerinden birini oluşturuyor. Parkın eşsiz güzelliği, ziyaretçilerini doğanın derinliklerine götürerek, unutulmaz bir deneyim sunuyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Her mevsim farklı bir güzelliğe bürünen Melodere Dogu Ladini, doğa severlerin buluşma noktası haline gelmiş durumda.
+Melodere Dogu Ladini milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikasıdır. Parkın eşsiz güzelliği, ziyaretçilerini doğanın derinliklerine götürerek, unutulmaz bir deneyim sunuyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilerin ilgisini çekiyor. Her mevsim farklı bir güzelliğe bürünen Melodere Dogu Ladini, doğa severlerin buluşma noktası haline gelmiş durumda.
 
 ## Tarihçe
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108227779"
 
 # Bolu-Yigilca-Bogabeli Dogu Kayini 1
 
-Bolu-Yigilca-Bogabeli Dogu Kayini 1 milli parkı, Karadeniz Bölgesi'nin en önemli doğa alanlarından biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yaban hayatı çeşitliliği sunuyor. Bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Milli park, özellikle doğa severler ve yaban hayatı ile ilgilenenler için bir cennet olarak tanımlanabilir. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşma mümkün. Milli parkın konumu, Karadeniz Bölgesi'nin en güzel yerlerinden biri olan Bolu'da bulunuyor.
+Bolu-Yigilca-Bogabeli Dogu Kayini 1 milli parkı, Karadeniz Bölgesi'nin en önemli doğa alanlarından biri olarak karşımıza çıkıyor. Bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor. Milli park, özellikle doğa severler ve yaban hayatı ile ilgilenenler için bir cennet olarak tanımlanabilir. Burada, çeşitli bitki türleri ve hayvanlar ile karşılaşma mümkün. Milli parkın konumu, Karadeniz Bölgesi'nin en güzel yerlerinden biri olan Bolu'da bulunuyor.
 
 ## Tarihçe
 

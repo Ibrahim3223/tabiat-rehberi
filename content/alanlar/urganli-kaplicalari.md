@@ -28,7 +28,7 @@ wikidata_id: "Q31189587"
 
 # Urganlı Kaplıcaları
 
-Manisa'nın Ege Bölgesi'nde yer alan Urganlı Kaplıcaları, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor. Bu termal kaynak, sağlık ve turizm açısından önemli bir merkez olarak bilinir. Tarihi geçmişi ile birlikte Urganlı Kaplıcaları, hem doğal güzellikleri hem de kültürel zenginlikleri ile dikkat çekiyor. Konumu itibarıyla ulaşımın kolay olduğu bu alanda, ziyaretçiler hem dinlenebiliyor hem de sağlıklarına katkıda bulunabiliyor.
+ Bu termal kaynak, sağlık ve turizm açısından önemli bir merkez olarak bilinir. Tarihi geçmişi ile birlikte Urganlı Kaplıcaları, hem doğal güzellikleri hem de kültürel zenginlikleri ile dikkat çekiyor. Konumu itibarıyla ulaşımın kolay olduğu bu alanda, ziyaretçiler hem dinlenebiliyor hem de sağlıklarına katkıda bulunabiliyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Urganlı Kaplıcaları'nın tarihi geçmişi, yüzyıllar boyunca devam eden bir
 
 ## Coğrafya
 
-Urganlı Kaplıcaları, Manisa'nın Ege Bölgesi'nde yer alır ve coğrafi olarak 140 hektarlık yeşil bir alan üzerine kurulmuştur. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan olarak ziyaretçilerini ağırlar. Coğrafi konumu itibarıyla ulaşım kolaydır ve ziyaretçiler, bu termal kaynağa gelerek hem dinlenebiliyor hem de sağlıklarına katkıda bulunabiliyor. Urganlı Kaplıcaları'nın coğrafyası, ziyaretçilerine hem doğal güzellikler hem de sağlık açısından önemli bir merkez sunar. İklimi ılımandır ve bu özelliği ile birlikte Urganlı Kaplıcaları, dört mevsim ziyaret edilebilir bir yer olarak bilinir. Çevre, doğal güzellikleri ile birlikte ziyaretçilerin ilgisini çekmektedir.
+Urganlı Kaplıcaları, Manisa'nın Ege Bölgesi'nde yer alır ve coğrafi olarak 140 hektarlık yeşil bir alan üzerine kurulmuştur. Coğrafi konumu itibarıyla ulaşım kolaydır ve ziyaretçiler, bu termal kaynağa gelerek hem dinlenebiliyor hem de sağlıklarına katkıda bulunabiliyor. Urganlı Kaplıcaları'nın coğrafyası, ziyaretçilerine hem doğal güzellikler hem de sağlık açısından önemli bir merkez sunar. İklimi ılımandır ve bu özelliği ile birlikte Urganlı Kaplıcaları, dört mevsim ziyaret edilebilir bir yer olarak bilinir. Çevre, doğal güzellikleri ile birlikte ziyaretçilerin ilgisini çekmektedir.
 
 ## Flora ve Fauna
 

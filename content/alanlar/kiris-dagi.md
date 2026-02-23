@@ -51,7 +51,7 @@ Doğal bir oluşum olarak, Kırış Dağı'nın fiziksel yapısı hakkında deta
 
 ## Flora ve Fauna
 
-Kırış Dağı, Muğla'nın zeytinli ve çam ormanları ile çevrili bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. İlkbaharla birlikte, dağ eteklerinde zeytin ağaçları çiçek açarken, çam ormanları yeşillenir. Yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker. 
+Kırış Dağı, Muğla'nın zeytinli ve çam ormanları ile çevrili bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar. İlkbaharla birlikte, dağ eteklerinde zeytin ağaçları çiçek açarken, çam ormanları yeşillenir. Yükseklik zonlarında, alpin flora çeşitliliği dikkat çeker.
 
 Dağın yaban hayatı, memeliler, kuşlar ve sürüngenlerle renklenir. Göç mevsiminde, çeşitli kuş türleri dağ üzerinden geçer. Çam ormanları, çeşitli memeli ve sürüngen türlerine ev sahipliği yapar. Dağın ekolojik değeri, bu çeşitliliği koruma altına almasıdır. Bu doğal alan, bölgenin ekosistem dengesini sağlar ve biyolojik çeşitliliğin korunmasına katkıda bulunur.
 

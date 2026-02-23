@@ -1,7 +1,7 @@
 ---
 title: "Yesari Baba Türbesi"
 date: "2026-01-10T05:14:51.715Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sinop"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391622"
 
 # Yesari Baba Türbesi
 
-Yesari Baba Türbesi, Sinop'un kalbinde yer alan tarihi ve doğal güzelliklerin birleştiği bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş alan, ziyaretçilere doğanın güzelliğini keşfetme fırsatı sunuyor. Yesari Baba Türbesi, Karadeniz Bölgesi'nin gizli cenneti olarak bilinen Sinop'un en önemli mekanlarından biridir. Bu mekan, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla ziyaretçilerini cezbediyor.
+Yesari Baba Türbesi, Sinop'un kalbinde yer alan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Yesari Baba Türbesi, Karadeniz Bölgesi'nin gizli cenneti olarak bilinen Sinop'un en önemli mekanlarından biridir. Bu mekan, hem tarihi hem de doğal güzellikleri bir arada sunmasıyla ziyaretçilerini cezbediyor.
 
 ## Tarihçe
 

@@ -23,7 +23,7 @@ wikidata_id: "Q108228675"
 
 # ORDÜZÜ
 
-ORDÜZÜ, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğayla baş başa bırakıyor. Bölgenin coğrafi özellikleri, iklimi ve bitki örtüsü, bu alanın eşsiz bir ekosistem olmasını sağlıyor. ORDÜZÜ, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
+ORDÜZÜ, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir doğa harikasıdır. Bölgenin coğrafi özellikleri, iklimi ve bitki örtüsü, bu alanın eşsiz bir ekosistem olmasını sağlıyor. ORDÜZÜ, hem doğa severler hem de macera arayanlar için ideal bir destinasyon.
 
 ## Tarihçe
 

@@ -28,7 +28,7 @@ wikidata_id: "Q31542573"
 
 # Sikeft Tepesi
 
-Sikeft Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin zengin tarihine davet ediyor. Tepenin eteklerinde tarihi yapılar ve kalıntılar yer alırken, tepe itself bir çok farklı türde bitki ve hayvan barındırır. Sikeft Tepesi, Diyarbakır'ın en önemli turistik noktalarından biri olarak kabul edilir ve yıl boyunca birçok ziyaretçi ağırlar.
+Sikeft Tepesi, Diyarbakır'ın merkezinde yer alan ve şehrin tarihi geçmişine ışık tutan önemli bir noktadır. Tepenin eteklerinde tarihi yapılar ve kalıntılar yer alırken, tepe itself bir çok farklı türde bitki ve hayvan barındırır. Sikeft Tepesi, Diyarbakır'ın en önemli turistik noktalarından biri olarak kabul edilir ve yıl boyunca birçok ziyaretçi ağırlar.
 
 ## Tarihçe
 

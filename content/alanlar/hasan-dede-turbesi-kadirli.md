@@ -1,7 +1,7 @@
 ---
 title: "Hasan Dede Türbesi, Kadirli"
 date: "2026-01-10T06:33:26.877Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Osmaniye"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582630"
 
 # Hasan Dede Türbesi, Kadirli
 
-Hasan Dede Türbesi, Kadirli, Akdeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahiptir, ki bu büyüklük yaklaşık 200 futbol sahası büyüklüğüne eşittir. Hasan Dede Türbesi, Kadirli'nin merkezine yakın bir konumda yer alır ve ziyaretçilerini tarihi ve doğal güzelliklerinin zenginliği ile karşılar. Bu türbe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor.
+Hasan Dede Türbesi, Kadirli, Akdeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir. Hasan Dede Türbesi, Kadirli'nin merkezine yakın bir konumda yer alır ve ziyaretçilerini tarihi ve doğal güzelliklerinin zenginliği ile karşılar. Bu türbe, yüzyıllar boyunca birçok medeniyete ev sahipliği yapmış ve her birinin izlerini taşıyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Hasan Dede Türbesi'nin tarihi geçmişi, yüzyıllar öncesine uzanır. Bu böl
 
 ## Coğrafya
 
-Hasan Dede Türbesi, Kadirli, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Coğrafi konumu itibariyle, türbe ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunar. Hasan Dede Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak tanır. Çevre, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosistemi destekler.
+Hasan Dede Türbesi, Kadirli, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşır. Bu bölge, genellikle sıcak ve kurak yazlar, ılık ve yağışlı kışlar ile karakterizedir. Coğrafi konumu itibariyle, türbe ve çevresi, çeşitli bitki türleri ve zengin fauna ile kaplıdır. Hasan Dede Türbesi'nin coğrafi konumu, ziyaretçilerin hem tarihi hem de doğal güzellikleri keşfetmesine olanak tanır. Çevre, çeşitli bitki türleri ve hayvanlar ile zengin bir ekosistemi destekler.
 
 ## Flora ve Fauna
 

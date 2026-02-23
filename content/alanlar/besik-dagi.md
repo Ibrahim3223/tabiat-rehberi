@@ -32,11 +32,11 @@ Güneydoğu Anadolu Bölgesi'nin en güzel köşelerinden biri olan Beşik Dağ�
 
 ## Tarihçe
 
-Kilis bölgesinde yer alan Beşik Dağı, tarihin sâu izlerini taşıyan bir coğrafyanın içinde bulunuyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri ve ticaret merkezlerinden biri olarak önemli bir rol oynamıştır. Hitit, Roma ve Osmanlı dönemlerinde bölgede yaşamış uygarlıklar, bölgenin stratejik konumu nedeniyle burayı tercih etmişlerdir.
+Kilis bölgesinde yer alan Beşik Dağı, tarihin derin izlerini taşıyan bir coğrafyanın içinde bulunuyor. Bu bölge, tarih boyunca çeşitli uygarlıkların yerleşim yeri ve ticaret merkezlerinden biri olarak önemli bir rol oynamıştır. Hitit, Roma ve Osmanlı dönemlerinde bölgede yaşamış uygarlıklar, bölgenin stratejik konumu nedeniyle burayı tercih etmişlerdir.
 
 Doğal güzelliği ve coğrafi konumuyla Beşik Dağı, insanlarla arasında özel bir bağın kurulmasına olanak tanımıştır. Yaylacılık ve hayvancılık, bu bölgede uzun yıllardır sürdürülen geleneksel faaliyetlerdir. Ayrıca, tarihi ticaret yollarının üzerinde bulunan bu bölge, farklı kültürlerin buluşma noktası olarak hizmet vermiştir.
 
-Beşik Dağı gibi doğal alanlar, Türkiye'de tarihsel olarak büyük öneme sahiptir. Bu alanlar, sadece doğal güzelliği ile değil, aynı zamanda kültürel ve tarihi değerleriyle de önemli birer miras olarak kabul edilirler. İnsanların bu alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşır. Bu nedenle, Beşik Dağı gibi doğal alanların korunması ve gelecek nesiller için bảo tồn edilmesi büyük bir önem taşımaktadır.
+Beşik Dağı gibi doğal alanlar, Türkiye'de tarihsel olarak büyük öneme sahiptir. Bu alanlar, sadece doğal güzelliği ile değil, aynı zamanda kültürel ve tarihi değerleriyle de önemli birer miras olarak kabul edilirler. İnsanların bu alanlarla kurduğu ilişki, sadece ekonomik değil, aynı zamanda kültürel ve sosyal bir boyut da taşır. Bu nedenle, Beşik Dağı gibi doğal alanların korunması ve gelecek nesiller için koruma tồn edilmesi büyük bir önem taşımaktadır.
 
 ## Coğrafya
 

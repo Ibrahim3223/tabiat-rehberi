@@ -23,11 +23,11 @@ wikidata_id: "Q108227196"
 
 # Küre Daglari
 
-Küre Daglari, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açık alan sunuyor. Bu bölgede, doğal güzellikleri ve tarihi değerleri bir arada keşfetme mümkün. Kür Daglari, hem doğa severler hem de tarihi eserlere ilgi duyanlar için bir cennet. Burada, doğal yaşamın içinde yürüyüşler yapabilir, tarihi yapılara ziyaret edebilir ve bölgenin eşsiz güzelliklerini keşfedebilirsiniz.
+Küre Daglari, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek için ideal bir destinasyon. Bu bölgede, doğal güzellikleri ve tarihi değerleri bir arada keşfetme mümkün. Kür Daglari, hem doğa severler hem de tarihi eserlere ilgi duyanlar için bir cennet. Burada, doğal yaşamın içinde yürüyüşler yapabilir, tarihi yapılara ziyaret edebilir ve bölgenin eşsiz güzelliklerini keşfedebilirsiniz.
 
 ## Tarihçe
 
-Küre Daglari'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, çeşitli medeniyetlere ev sahipliği yapmış ve her biri buraya ayrı bir iz bırakmıştır. Tarihi yapılar, antik kalıntılar ve doğal güzellikler, bu bölgenin zengin geçmişini yansıtıyor. Kür Daglari, tarihi ve doğal güzelliklerinin yanı sıra, ziyaretçilerine unutulmaz bir deneyim sunuyor. Burada, hem tarihin izlerine rastlayabilir hem de doğal güzelliklerin tadını çıkarabilirsiniz. Kür Daglari'nin tarihi geçmişi, ziyaretçilerini zamanda yolculuğa çıkarıyor ve bölgenin eşsiz atmosferini keşfetme fırsatı sunuyor.
+Küre Daglari'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölge, çeşitli medeniyetlere ev sahipliği yapmış ve her biri buraya ayrı bir iz bırakmıştır. Tarihi yapılar, antik kalıntılar ve doğal güzellikler, bu bölgenin zengin geçmişini yansıtıyor. Burada, hem tarihin izlerine rastlayabilir hem de doğal güzelliklerin tadını çıkarabilirsiniz. Kür Daglari'nin tarihi geçmişi, ziyaretçilerini zamanda yolculuğa çıkarıyor ve bölgenin eşsiz atmosferini keşfetme fırsatı sunuyor.
 
 ## Coğrafya
 

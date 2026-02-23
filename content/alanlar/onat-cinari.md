@@ -22,7 +22,7 @@ wikidata_id: "Q108228069"
 
 # Onat Cinari
 
-Onat Cinari, İç Anadolu Bölgesi'nin merkezinde yer alan bir milli parktır. 140 hektarlık geniş alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Onat Cinari, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz.
+Onat Cinari, İç Anadolu Bölgesi'nin merkezinde yer alan bir milli parktır. Bu yeşil alan, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak, sakin ve huzurlu bir atmosfere davet ediyor. Onat Cinari, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmiştir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşabilirsiniz.
 
 ## Tarihçe
 

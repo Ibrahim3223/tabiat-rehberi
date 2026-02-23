@@ -1,7 +1,7 @@
 ---
 title: "Kızlar Sarayı Hamamı"
 date: "2026-01-09T23:12:43.281Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Amasya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738864"
 
 # Kızlar Sarayı Hamamı
 
-Amasya'nın merkezinde yer alan Kızlar Sarayı Hamamı, şehrin tarihi ve doğal güzelliklerinin birleştiği bir nokta. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en önemli turizm merkezlerinden biri. Bu tarihi ve doğal güzelliğin birleştiği noktada, ziyaretçiler hem şehrin tarihi hakkında bilgi sahibi olabilirler hem de güzel doğayı keşfedebilirler. Amasya'nın tarihi geçmişi, Kızlar Sarayı Hamamı'nda hissedilir. Bu özel mekan, şehrin kültürel ve tarihi mirasının önemli bir parçasıdır.
+Amasya'nın merkezinde yer alan Kızlar Sarayı Hamamı, şehrin tarihi ve doğal güzelliklerinin birleştiği bir nokta. Bu tarihi ve doğal güzelliğin birleştiği noktada, ziyaretçiler hem şehrin tarihi hakkında bilgi sahibi olabilirler hem de güzel doğayı keşfedebilirler. Amasya'nın tarihi geçmişi, Kızlar Sarayı Hamamı'nda hissedilir. Bu özel mekan, şehrin kültürel ve tarihi mirasının önemli bir parçasıdır.
 
 ## Tarihçe
 

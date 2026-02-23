@@ -28,7 +28,7 @@ wikidata_id: "Q31557459"
 
 # Otlubel Tepesi
 
-Otlubel Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 200 futbol sahası büyüklüğündeki 140 hektarlık yeşil alanıyla dikkat çekiyor. Bu alan, ziyaretçilerine geniş ve ferah bir ortam sunuyor. Otlubel Tepesi, doğa severlerin ve yürüyüş yapanların tercih ettiği bir nokta olarak biliniyor. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, bu bölgeyi özel kılıyor.
+ Bu alan, ziyaretçilerine geniş ve ferah bir ortam sunuyor. Otlubel Tepesi, doğa severlerin ve yürüyüş yapanların tercih ettiği bir nokta olarak biliniyor. Tepenin etrafında bulunan çeşitli bitki türleri ve zengin fauna, bu bölgeyi özel kılıyor.
 
 ## Tarihçe
 

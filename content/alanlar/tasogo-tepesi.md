@@ -28,7 +28,7 @@ wikidata_id: "Q31551362"
 
 # Tasogo Tepesi
 
-Tasogo Tepesi, Mardin'in eşsiz manzarasına sahip bir coğrafi oluşum olarak dikkat çekiyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kaplıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunuyor ve bölgenin tarihi zenginliklerini keşfetmek için ideal bir nokta olarak kabul ediliyor. Tasogo Tepesi, ziyaretçilerini bölgenin doğal güzellikleri ve tarihi değerleriyle tanıştırmaya hazırlanıyor.
+Tasogo Tepesi, Mardin'in eşsiz manzarasına sahip bir coğrafi oluşum olarak dikkat çekiyor. Bu geniş alan, ziyaretçilere geniş bir görüş açısı sunuyor ve bölgenin tarihi zenginliklerini keşfetmek için ideal bir nokta olarak kabul ediliyor. Tasogo Tepesi, ziyaretçilerini bölgenin doğal güzellikleri ve tarihi değerleriyle tanıştırmaya hazırlanıyor.
 
 ## Tarihçe
 
@@ -40,7 +40,7 @@ Tasogo Tepesi, coğrafi konumu itibariyle Mardin şehrinin önemli bir bölümü
 
 ## Flora ve Fauna
 
-Tasogo Tepesi, flora ve fauna açısından oldukça zengin bir bölgedir. Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor ve her mevsim, farklı bir güzelliğe sahip. İlkbahar ve yaz aylarında, tepenin etrafı yeşilleniyor ve çeşitli çiçekler açıyor. Sonbahar ve kış aylarında ise, tepe, soğuk hava koşullarına uygun bitki türleri ile kaplanıyor. Tasogo Tepesi, Mardin'in i zenginliklerini keşfetmek için önemli bir nokta olarak kabul ediliyor.
+ Bu tepe, çeşitli bitki türleri ve hayvanlara ev sahipliği yapıyor ve her mevsim, farklı bir güzelliğe sahip. İlkbahar ve yaz aylarında, tepenin etrafı yeşilleniyor ve çeşitli çiçekler açıyor. Sonbahar ve kış aylarında ise, tepe, soğuk hava koşullarına uygun bitki türleri ile kaplanıyor. Tasogo Tepesi, Mardin'in i zenginliklerini keşfetmek için önemli bir nokta olarak kabul ediliyor.
 
 ## Ziyaret Bilgileri
 

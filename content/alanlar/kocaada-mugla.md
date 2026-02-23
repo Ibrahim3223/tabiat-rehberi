@@ -28,7 +28,7 @@ wikidata_id: "Q6031817"
 
 # Kocaada, Muğla
 
-Muğla'nın sahillerinde, Ege Denizi'nin mavi sularında gizlenen Kocaada, ziyaretçilerini doğanın sakinliğiyle karşılar. Bu küçük ada, Muğla ilinin turizm merkezlerinden biridir. Kocaada, Muğla'nın doğal güzelliği ile tanınan bir bölgesinde yer alır. 
+Muğla'nın sahillerinde, Ege Denizi'nin mavi sularında gizlenen Kocaada, ziyaretçilerini doğanın sakinliğiyle karşılar. Bu küçük ada, Muğla ilinin turizm merkezlerinden biridir. Kocaada, Muğla'nın doğal güzelliği ile tanınan bir bölgesinde yer alır.
 Doğal güzelliği ve sakin atmosferi ile Kocaada, tatilcilerin ilgisini çeker.
 
 ## Tarihçe

@@ -23,7 +23,7 @@ wikidata_id: "Q108228075"
 
 # Piribaba Mesesi
 
-Piribaba Mesesi, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak bilinir. Yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bu yeşil alan, ziyaretçilerini doğanın içine çekerek güzelliklerini sunar. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşabilir, doğanın seslerini dinleyerek huzur bulabilirsiniz. Piribaba Mesesi, doğa severlerin ve macera arayanların ziyaret edebileceği bir yer olarak dikkat çeker.
+Piribaba Mesesi, İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olarak bilinir. Bu bölgede, çeşitli bitki türleri ve zengin fauna ile karşılaşabilir, doğanın seslerini dinleyerek huzur bulabilirsiniz. Piribaba Mesesi, doğa severlerin ve macera arayanların ziyaret edebileceği bir yer olarak dikkat çeker.
 
 ## Tarihçe
 

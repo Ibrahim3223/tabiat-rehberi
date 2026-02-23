@@ -28,7 +28,7 @@ wikidata_id: "Q31516830"
 
 # Kartaltaşı Tepesi
 
-Kartaltaşı Tepesi, Mardin'in eşsiz doğa güzelliklerinden biri olarak ziyaretçilerini bekliyor. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Mardin'in tarihi ve kültürel zenginliklerine yakınlığıyla dikkat çekiyor. Doğal güzelliği, tarihi önemi ve coğrafi konumuyla Kartaltaşı Tepesi, Mardin'i ziyaret edenler için önemli bir destinasyon olarak öne çıkıyor. Doğa severler, tarih meraklıları ve macera arayanlar için ideal bir yer olan Kartaltaşı Tepesi, Mardin'in turizm potansiyelini gösteren önemli bir nokta olarak gösteriliyor.
+Kartaltaşı Tepesi, Mardin'in eşsiz doğa güzelliklerinden biri olarak ziyaretçilerini bekliyor. Doğal güzelliği, tarihi önemi ve coğrafi konumuyla Kartaltaşı Tepesi, Mardin'i ziyaret edenler için önemli bir destinasyon olarak öne çıkıyor. Doğa severler, tarih meraklıları ve macera arayanlar için ideal bir yer olan Kartaltaşı Tepesi, Mardin'in turizm potansiyelini gösteren önemli bir nokta olarak gösteriliyor.
 
 ## Tarihçe
 

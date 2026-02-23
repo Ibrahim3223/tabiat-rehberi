@@ -1,7 +1,7 @@
 ---
 title: "Şah Sultan Türbesi"
 date: "2026-01-10T05:54:36.937Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q122195565"
 
 # Şah Sultan Türbesi
 
-Şah Sultan Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan ve tarihi önem taşıyan bir mekan. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerine kurulmuş ve tarihi geçmişi ile ziyaretçilerini büyülüyor. Şah Sultan Türbesi, İstanbul'un önemli dini ve tarihi noktalarından biri olarak biliniyor. Bu türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Ziyaretçiler, bu mekanın tarihi ve doğal güzelliklerini keşfetme fırsatı buluyor.
+Şah Sultan Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan ve tarihi önem taşıyan bir mekan. Şah Sultan Türbesi, İstanbul'un önemli dini ve tarihi noktalarından biri olarak biliniyor. Bu türbenin etrafında, çeşitli bitki türleri ve zengin fauna bulunuyor. Ziyaretçiler, bu mekanın tarihi ve doğal güzelliklerini keşfetme fırsatı buluyor.
 
 ## Tarihçe
 

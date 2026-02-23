@@ -33,7 +33,7 @@ Hakkâri'nin dağlık arazisi, Karacadağ'ın heybetli varlığıyla şekillenir
 
 ## Tarihçe
 
-Hakkâri bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölge, Mezopotamya'nın kuzeybatı ucunda, Anadolu'nun güneydoğu köşesinde bulunmaktadır. Tarih boyunca, çeşitli uygarlıkların etkisini hissetmiştir. Urartular, Medler, Persler, Romalılar ve Osmanlılar gibi medeniyetler, bu topraklarda izlerini bırakmışlardır.
+Hakkâri bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölge, Mezopotamya'nın kuzeybatı ucunda, Anadolu'nun güneydoğu köşesinde bulunmaktadır. Tarih boyunca, çeşitli uygarlıkların etkisini hissetmiştir. Urartular, Medler, Persler, Romalılar ve Osmanlılar gibi medeniyetler, bu topraklarda izlerini bırakmışlardır.
 
 Doğal güzellikleri ve stratejik konumuyla, Hakkâri bölgesi ticaret yollarının kesişme noktasında yer almıştır. İnsanlar, yüzyıllar boyu bu coğrafyada yaşamış, yaylacılık ve hayvancılıkla uğraşmışlardır. Karacadağ gibi doğal alanlar, bu bölgenin ekolojik dengesini korurken, aynı zamanda insan hayatının bir parçası haline gelmiştir.
 

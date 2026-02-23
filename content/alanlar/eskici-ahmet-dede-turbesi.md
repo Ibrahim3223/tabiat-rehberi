@@ -1,7 +1,7 @@
 ---
 title: "Eskici Ahmet Dede Türbesi"
 date: "2026-01-10T06:53:03.501Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Düzce"
@@ -29,15 +29,15 @@ wikidata_id: "Q131390778"
 
 # Eskici Ahmet Dede Türbesi
 
-Eskici Ahmet Dede Türbesi, Karadeniz Bölgesi'nin güzide ilçesi Akçakoca'da bulunan bir tarihi mekan. Bu mekan, ziyaretçilerini tarihi ve doğal güzellikleriyle bekliyor. 140 hektarlık bir alana yayılmış olan Eskici Ahmet Dede Türbesi, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, ziyaretçilerin rahatça dolaşmasına ve tarihi yapıları incelemesine imkân tanıyor. Tarihi ve kültürel açıdan önemli bir mekan olan Eskici Ahmet Dede Türbesi, aynı zamanda doğal güzellikleriyle de dikkat çekiyor.
+Eskici Ahmet Dede Türbesi, Karadeniz Bölgesi'nin güzide ilçesi Akçakoca'da bulunan bir tarihi mekan. Bu mekan, ziyaretçilerini tarihi ve doğal güzellikleriyle bekliyor. Bu büyük alan, ziyaretçilerin rahatça dolaşmasına ve tarihi yapıları incelemesine imkân tanıyor. Tarihi ve kültürel açıdan önemli bir mekan olan Eskici Ahmet Dede Türbesi, aynı zamanda doğal güzellikleriyle de dikkat çekiyor.
 
 ## Tarihçe
 
-Eskici Ahmet Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu mekan, tarihi olaylara ve kültürel etkileşimlere tanıklık etmiş. Tarihçiler, bu mekanın história hakkında geniş araştırmalar yapmış ve önemli bilgiler elde etmiş. Eskici Ahmet Dede Türbesi, Türk kültürü ve tarihi açısından önemli bir mekan olarak kabul ediliyor. Bu mekanın tarihi, ziyaretçilere önemli bilgiler veriyor ve Türk kültürünü tanımak isteyenler için önemli bir kaynak oluşturuyor. Tarihi olaylar ve kültürel etkileşimler, bu mekanın tarihini zenginleştirmiş ve ziyaretçilere geniş bir perspektif sunmuş.
+Eskici Ahmet Dede Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu mekan, tarihi olaylara ve kültürel etkileşimlere tanıklık etmiş. Tarihçiler, bu mekanın tarihi hakkında geniş araştırmalar yapmış ve önemli bilgiler elde etmiş. Eskici Ahmet Dede Türbesi, Türk kültürü ve tarihi açısından önemli bir mekan olarak kabul ediliyor. Bu mekanın tarihi, ziyaretçilere önemli bilgiler veriyor ve Türk kültürünü tanımak isteyenler için önemli bir kaynak oluşturuyor. Tarihi olaylar ve kültürel etkileşimler, bu mekanın tarihini zenginleştirmiş ve ziyaretçilere geniş bir perspektif sunmuş.
 
 ## Coğrafya
 
-Eskici Ahmet Dede Türbesi, Karadeniz Bölgesi'nin güzide ilçesi Akçakoca'da bulunuyor. Bu mekan, coğrafi açıdan önemli bir konumda yer alıyor. 140 hektarlık bir alana yayılmış olan Eskici Ahmet Dede Türbesi, yaklaşık 200 futbol sahası büyüklüğünde. Bu büyük alan, ziyaretçilerin rahatça dolaşmasına ve tarihi yapıları incelemesine imkân tanıyor. Coğrafi açıdan önemli bir mekan olan Eskici Ahmet Dede Türbesi, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Bu mekan, ziyaretçilere geniş bir perspektif sunuyor ve coğrafi açıdan önemli bir konumda yer alıyor. İklimi ve çevre koşulları, bu mekanın güzelliğini daha da artırıyor.
+Eskici Ahmet Dede Türbesi, Karadeniz Bölgesi'nin güzide ilçesi Akçakoca'da bulunuyor. Bu mekan, coğrafi açıdan önemli bir konumda yer alıyor. Bu büyük alan, ziyaretçilerin rahatça dolaşmasına ve tarihi yapıları incelemesine imkân tanıyor. Coğrafi açıdan önemli bir mekan olan Eskici Ahmet Dede Türbesi, aynı zamanda doğal güzellikleriyle de dikkat çekiyor. Bu mekan, ziyaretçilere geniş bir perspektif sunuyor ve coğrafi açıdan önemli bir konumda yer alıyor. İklimi ve çevre koşulları, bu mekanın güzelliğini daha da artırıyor.
 
 ## Flora ve Fauna
 

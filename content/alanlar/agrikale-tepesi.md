@@ -28,7 +28,7 @@ wikidata_id: "Q31390107"
 
 # Ağrıkale Tepesi
 
-Ağrıkale Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan 140 hektarlık geniş bir alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde bir bölgeyi kaplar. Tepenin yüksekliği ve genişliği, ziyaretçilere güzel bir manzara sunar. Doğal güzelliği ve coğrafi konumuyla, Ağrıkale Tepesi ziyaretçiler için önemli bir destinasyondur. Tepenin çevresi, çeşitli bitki türleriyle kaplıdır ve zengin fauna sahiptir. Bu özellikleriyle, Ağrıkale Tepesi doğa severler için bir cennettir.
+Ağrıkale Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan 140 hektarlık geniş bir alana sahiptir. Tepenin yüksekliği ve genişliği, ziyaretçilere güzel bir manzara sunar. Doğal güzelliği ve coğrafi konumuyla, Ağrıkale Tepesi ziyaretçiler için önemli bir destinasyondur. Tepenin çevresi, çeşitli bitki türleriyle kaplıdır ve zengin fauna sahiptir. Bu özellikleriyle, Ağrıkale Tepesi doğa severler için bir cennettir.
 
 ## Tarihçe
 

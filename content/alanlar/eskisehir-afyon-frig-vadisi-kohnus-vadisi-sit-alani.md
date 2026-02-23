@@ -22,7 +22,7 @@ wikidata_id: "Q108226112"
 
 # ESKISEHIR AFYON FRIG VADISI Köhnüş Vadisi Sit Alanı
 
-ESKISEHIR AFYON FRIG VADISI Köhnüş Vadisi Sit Alanı, İç Anadolu Bölgesi'nin natuur güzelliklerini ve tarihi zenginliklerini bir araya getiren özel bir destinasyondur. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal sit alanlarından biridir. Köhnüş Vadisi, tarihi ve doğal güzelliklerinin yanı sıra, bölgede yaşayan halkın kültürel mirasını da koruma altına almaktadır. Bu alanda yapılan araştırmalar, bölgenin yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yaptığını göstermektedir.
+ESKISEHIR AFYON FRIG VADISI Köhnüş Vadisi Sit Alanı, İç Anadolu Bölgesi'nin natuur güzelliklerini ve tarihi zenginliklerini bir araya getiren özel bir destinasyondur. Köhnüş Vadisi, tarihi ve doğal güzelliklerinin yanı sıra, bölgede yaşayan halkın kültürel mirasını da koruma altına almaktadır. Bu alanda yapılan araştırmalar, bölgenin yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yaptığını göstermektedir.
 
 ## Tarihçe
 

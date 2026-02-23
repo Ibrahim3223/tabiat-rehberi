@@ -48,7 +48,7 @@ Mevsimsel olarak, Postlubaba Dağı'nın iklimi, karasal iklim özellikleri gös
 
 ## Flora ve Fauna
 
-Postlubaba Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Postlubaba Dağı, yüksek dağ ekolojisinin tüm güzelliğini sunan bir doğa harikasıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 Dağın yükseklik zonlarına göre değişen flora, ilkbaharda renkli çiçeklerle donanırken, sonbaharda gökyüzünü göç eden kuş sürüleri süsler. Alpin çayırlar, çeşitli otsu bitkilerle kaplıdır ve endemik türler, bu dağ ekosisteminin benzersizliğini vurgular.
 
 Yaban hayatı, dağ keçileri, kartallar ve diğer yüksek dağ hayvanlarıyla zenginleştirir. Bu canlılar, dağların zorlu koşullarına adapte olmuş ve birbirleriyle ekolojik ilişkiler içinde yaşar. Dağın ekolojik değeri, yüksek dağ ekosisteminin korunması açısından önemlidir. Bu nedenle, Postlubaba Dağı'nın koruma durumu, gelecekteki nesiller için büyük bir önem taşır.
@@ -63,5 +63,5 @@ Postlubaba Dağı, Erzurum'un doğal güzelliklerinin başında geliyor. Sabah e
 - Dağın yüksekliği yaklaşık 2.800 metredir.
 - Postlubaba Dağı, Palandöken Dağları'nın bir parçasıdır.
 - Bu dağ, Erzurum'un kış turizmi için önemli merkezlerinden biridir.
-- Dağın eteklerinde, histórik significance sahip Oltu ilçesi bulunmaktadır.
+- Dağın eteklerinde, tarihi significance sahip Oltu ilçesi bulunmaktadır.
 - Postlubaba Dağı, 2013 yılında doğal sit alanı olarak ilan edilmiştir.

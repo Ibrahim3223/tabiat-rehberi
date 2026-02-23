@@ -28,7 +28,7 @@ wikidata_id: "Q31386544"
 
 # Gora Rashid
 
-Gora Rashid, Hatay'ın güzelliklerini bir araya getiren özel bir nokta. 140 hektarlık yeşil alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu bölge, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla baş başa bırakıyor. Gora Rashid'in hikayesi, yüzyıllar önceye dayanıyor ve bu bölge, zaman içinde birçok medeniyete ev sahipliği yapmış. Bu tepe, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Gora Rashid'i ziyaret ettiğinizde, kendinizi doğanın içinde, şehrin kalabalığından uzakta hissedeceksiniz.
+Gora Rashid, Hatay'ın güzelliklerini bir araya getiren özel bir nokta. Gora Rashid'in hikayesi, yüzyıllar önceye dayanıyor ve bu bölge, zaman içinde birçok medeniyete ev sahipliği yapmış. Bu tepe, hem tarihi hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Gora Rashid'i ziyaret ettiğinizde, kendinizi doğanın içinde, şehrin kalabalığından uzakta hissedeceksiniz.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gora Rashid'in tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu bölge, bi
 
 ## Coğrafya
 
-Gora Rashid, Hatay'ın Akdeniz Bölgesi'nde yer alıyor. Bu tepe, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla baş başa bırakıyor. Gora Rashid'in coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, yaban hayatın korunduğu ve doğanın güzelliğinin sergilendiği özel bir yer. Gora Rashid'in iklimi, Akdeniz iklimi özellikleri taşıyor ve bu bölge, yıl boyunca ziyaretçilerini ağırlıyor. Gora Rashid'i ziyaret ettiğinizde, bu bölgeye dair birçok coğrafi özelliği keşfedeceksiniz.
+Gora Rashid, Hatay'ın Akdeniz Bölgesi'nde yer alıyor. Gora Rashid'in coğrafyası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Bu bölge, yaban hayatın korunduğu ve doğanın güzelliğinin sergilendiği özel bir yer. Gora Rashid'in iklimi, Akdeniz iklimi özellikleri taşıyor ve bu bölge, yıl boyunca ziyaretçilerini ağırlıyor. Gora Rashid'i ziyaret ettiğinizde, bu bölgeye dair birçok coğrafi özelliği keşfedeceksiniz.
 
 ## Flora ve Fauna
 

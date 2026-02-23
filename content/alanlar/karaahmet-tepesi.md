@@ -20,7 +20,7 @@ aktiviteler: ["manzara izleme","doğa yürüyüşü","fotoğraf çekimi","tarih 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Karaahmet Tepesi","caption":"Karaahmet Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaahmet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386351","tip":"genel"}]
-description: "Gaziantep'in históri ve doğal güzelliklerini keşfedin. Karaahmet Tepesi, şehrin önemli bir noktası"
+description: "Gaziantep'in tarihi ve doğal güzelliklerini keşfedin. Karaahmet Tepesi, şehrin önemli bir noktası"
 keywords: ["Karaahmet Tepesi","Gaziantep","doğa","tarih","gezi","tepe","manzara","güneydoğu anadolu","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386351"
@@ -28,7 +28,7 @@ wikidata_id: "Q31386351"
 
 # Karaahmet Tepesi
 
-Karaahmet Tepesi, Gaziantep'in önemli bir doğal ve histórik alanlarından biri olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve Gaziantep'in tarihi ve kültürel mirasının bir parçası olarak kabul ediliyor. Tepenin üstünden Gaziantep'in güzel manzarasını izleme mümkün. Karaahmet Tepesi, aynı zamanda şehrin önemli bir turizm noktası olarak ziyaretçilerini ağırlıyor.
+Karaahmet Tepesi, Gaziantep'in önemli bir doğal ve tarihi alanlarından biri olarak dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplıyor ve Gaziantep'in tarihi ve kültürel mirasının bir parçası olarak kabul ediliyor. Tepenin üstünden Gaziantep'in güzel manzarasını izleme mümkün. Karaahmet Tepesi, aynı zamanda şehrin önemli bir turizm noktası olarak ziyaretçilerini ağırlıyor.
 
 ## Tarihçe
 

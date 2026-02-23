@@ -1,7 +1,7 @@
 ---
 title: "Ya Vedûd Türbesi"
 date: "2026-01-10T07:19:35.159Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391006"
 
 # Ya Vedûd Türbesi
 
-Ya Vedûd Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan tarihi bir mekan olarak dikkat çeker. Bu türbenin etrafındaki 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana karşılık gelir. Tarihi geçmişi ile birlikte, ziyaretçilerini bir zaman yolculuğuna çıkarır. İstanbul'un kalbinde yer alan bu türbe, şehrin karmaşasından uzak bir kaçış noktası olarak hizmet eder.
+Ya Vedûd Türbesi, İstanbul'un Eyüpsultan ilçesinde bulunan tarihi bir mekan olarak dikkat çeker. Tarihi geçmişi ile birlikte, ziyaretçilerini bir zaman yolculuğuna çıkarır. İstanbul'un kalbinde yer alan bu türbe, şehrin karmaşasından uzak bir kaçış noktası olarak hizmet eder.
 
 ## Tarihçe
 
@@ -51,7 +51,7 @@ Ya Vedûd Türbesi'ni ziyaret etmek, İstanbul'un tarihi geçmişi ile ilgili bi
 ## İlginç Bilgiler
 
 - Türbenin mimari yapısı, Osmanlı dönemine ait özellikleri taşır.
-- 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Türbenin etrafındaki bölge, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış.
 - Bölgede, çeşitli bitki türleri ve zengin bir fauna bulunur.
 - Türbe, Eyüpsultan'ın sembollerinden biri olarak kabul edilir.

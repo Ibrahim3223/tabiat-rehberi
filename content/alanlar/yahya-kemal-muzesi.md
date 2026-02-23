@@ -1,7 +1,7 @@
 ---
 title: "Yahya Kemal Müzesi"
 date: "2026-01-10T15:15:21.661Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "Türkiye"
@@ -29,7 +29,7 @@ wikidata_id: "Q123784333"
 
 # Yahya Kemal Müzesi
 
-Yahya Kemal Müzesi, İç Anadolu Bölgesi'nin zengin kültürel mirasını yansıtan önemli bir destinasyon. Bu müzenin bulunduğu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Müzenin etrafındaki peyzaj, bölgenin doğal güzelliğini vurguluyor ve ziyaretçilere huzurlu bir atmosfer sunuyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu müzeyi ziyaret etmek, hem tarihi hem de kültürel açıdan zengin bir deneyim sunuyor.
+Yahya Kemal Müzesi, İç Anadolu Bölgesi'nin zengin kültürel mirasını yansıtan önemli bir destinasyon. Müzenin etrafındaki peyzaj, bölgenin doğal güzelliğini vurguluyor ve ziyaretçilere huzurlu bir atmosfer sunuyor. İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bu müzeyi ziyaret etmek, hem tarihi hem de kültürel açıdan zengin bir deneyim sunuyor.
 
 ## Tarihçe
 

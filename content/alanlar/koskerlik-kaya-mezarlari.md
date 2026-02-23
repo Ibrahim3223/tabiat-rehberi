@@ -29,7 +29,7 @@ wikidata_id: "Q134728189"
 
 # Köskerlik Kaya Mezarları
 
-Karaman'ın Ayrancı ilçesinde yer alan Köskerlik Kaya Mezarları, bölgenin tarihi ve kültürel zenginliklerini yansıtan önemli bir destinasyon. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve ziyaretçilerini geçmişe götürüyor. Köskerlik Kaya Mezarları, özellikle tarih ve doğa severler için bir çekim merkezi olarak dikkat çekiyor. Mezarların bulunduğu kayalık alan, aynı zamanda bölgenin jeolojik yapısını da sergiliyor.
+Karaman'ın Ayrancı ilçesinde yer alan Köskerlik Kaya Mezarları, bölgenin tarihi ve kültürel zenginliklerini yansıtan önemli bir destinasyon. Köskerlik Kaya Mezarları, özellikle tarih ve doğa severler için bir çekim merkezi olarak dikkat çekiyor. Mezarların bulunduğu kayalık alan, aynı zamanda bölgenin jeolojik yapısını da sergiliyor.
 
 ## Tarihçe
 

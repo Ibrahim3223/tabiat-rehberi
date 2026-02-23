@@ -23,7 +23,7 @@ wikidata_id: "Q108228636"
 
 # BAYBURT
 
-Bayburt milli parkı, yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık alanıyla, ziyaretçilerini büyülemektedir. Bu bölge, doğal güzellikleri ve tarihi ile dikkat çekmektedir. 140 hektarlık yeşil alan, ziyaretçilere huzur dolu bir ortam sunmaktadır. Ayrıca, bu milli parkta çeşitli bitki türleri ve zengin fauna bulunmaktadır.
+ Bu bölge, doğal güzellikleri ve tarihi ile dikkat çekmektedir. 140 hektarlık yeşil alan, ziyaretçilere huzur dolu bir ortam sunmaktadır. Ayrıca, bu milli parkta çeşitli bitki türleri ve zengin fauna bulunmaktadır.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ Bayburt'un tarihi geçmişi, yüzyıllar boyunca devam eden bir süreci içermek
 
 ## Coğrafya
 
-Bayburt milli parkı, İç Anadolu Bölgesi'nde bulunmaktadır. Bu bölge, coğrafi olarak çeşitli özellikler taşımaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçilere geniş bir yeşil alan sunmaktadır. Parkın coğrafi yapısı, ziyaretçilerin doğayı yakından tanımasına olanak tanımaktadır. Ayrıca, bu bölgede iklim, mevsimsel değişimlere göre farklılık göstermektedir. Parkın coğrafi konumu, ziyaretçilere birçok olanak sunmaktadır.
+Bayburt milli parkı, İç Anadolu Bölgesi'nde bulunmaktadır. Bu bölge, coğrafi olarak çeşitli özellikler taşımaktadır. Parkın coğrafi yapısı, ziyaretçilerin doğayı yakından tanımasına olanak tanımaktadır. Ayrıca, bu bölgede iklim, mevsimsel değişimlere göre farklılık göstermektedir. Parkın coğrafi konumu, ziyaretçilere birçok olanak sunmaktadır.
 
 ## Flora ve Fauna
 

@@ -22,7 +22,7 @@ wikidata_id: "Q108228784"
 
 # EĞİL PEYGAMBERLER_TP
 
-İç Anadolu Bölgesi'nin kalbinde yer alan EĞİL PEYGAMBERLER_TP, ziyaretçilerini yaklaşık 140 hektarlık bir yeşil alana davet ediyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severler için bir cennet. İnsanın doğayla iç içe olabileceği, çam ağaçlarının gölgesinde dinlenebileceği, çeşitli bitki türleriyle karşılaşabileceği bir mekan. EĞİL PEYGAMBERLER_TP, hem doğa tutkunları hem de tarih meraklıları için bir hazine. Bu milli park, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor.
+İç Anadolu Bölgesi'nin kalbinde yer alan EĞİL PEYGAMBERLER_TP, ziyaretçilerini yaklaşık 140 hektarlık bir yeşil alana davet ediyor. İnsanın doğayla iç içe olabileceği, çam ağaçlarının gölgesinde dinlenebileceği, çeşitli bitki türleriyle karşılaşabileceği bir mekan. EĞİL PEYGAMBERLER_TP, hem doğa tutkunları hem de tarih meraklıları için bir hazine. Bu milli park, ziyaretçilerine hem doğal güzellikleri hem de tarihi zenginlikleri sunuyor.
 
 ## Tarihçe
 

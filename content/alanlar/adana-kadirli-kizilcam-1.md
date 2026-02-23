@@ -22,11 +22,11 @@ wikidata_id: "Q108227830"
 
 # Adana-Kadirli Kızılçam 1
 
-Adana-Kadirli Kızılçam 1 milli parkı, yaklaşık 140 hektarlık alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplar. Bu alan, ziyaretçilerini doğayla baş başa bırakmak için ideal bir ortam sunar. Doğal güzelliği, zengin fauna ve flora çeşitliliği ile dikkat çeker. Ziyaretçiler, burada yer alan yürüyüş yollarını kullanarak doğayı yakından keşfedebilirler. Ayrıca, bu milli park, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet eder.
+ Bu alan, ziyaretçilerini doğayla baş başa bırakmak için ideal bir ortam sunar. Doğal güzelliği, zengin fauna ve flora çeşitliliği ile dikkat çeker. Ziyaretçiler, burada yer alan yürüyüş yollarını kullanarak doğayı yakından keşfedebilirler. Ayrıca, bu milli park, çeşitli bitki türleri ve hayvanların yaşam alanı olarak hizmet eder.
 
 ## Tarihçe
 
-Adana-Kadirli Kızılçam 1 milli parkının tarihi geçmişi, yüzyıllar boyunca devam eden ekolojik dengenin korunmasına dayanır. Bu bölge, uzun yıllardan beri doğal güzelliği ve zenginlikleriyle dikkat çekmiştir. Milli parkın kurulma amacı, bu doğal güzelliği koruma ve gelecek nesiller için saklamaktır. Tarihi boyunca, bu bölge, çeşitli doğal olaylara ve insan faaliyetlerine rağmen, doğal dengesini korumayı başarmıştır. Bu nedenle, milli park, doğal güzelliği ve histórik geçmişiyle önemli bir turizm merkezi haline gelmiştir.
+Adana-Kadirli Kızılçam 1 milli parkının tarihi geçmişi, yüzyıllar boyunca devam eden ekolojik dengenin korunmasına dayanır. Bu bölge, uzun yıllardan beri doğal güzelliği ve zenginlikleriyle dikkat çekmiştir. Milli parkın kurulma amacı, bu doğal güzelliği koruma ve gelecek nesiller için saklamaktır. Tarihi boyunca, bu bölge, çeşitli doğal olaylara ve insan faaliyetlerine rağmen, doğal dengesini korumayı başarmıştır. Bu nedenle, milli park, doğal güzelliği ve tarihi geçmişiyle önemli bir turizm merkezi haline gelmiştir.
 
 ## Coğrafya
 

@@ -1,7 +1,7 @@
 ---
 title: "Karabey Hamamı"
 date: "2026-01-09T23:35:48.217Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Isparta"
@@ -29,7 +29,7 @@ wikidata_id: "Q131739139"
 
 # Karabey Hamamı
 
-Karabey Hamamı, Isparta'nın Uluborlu ilçesinde bulunan ve Akdeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliğidir. Yaklaşık 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu büyüklükteki alan, ziyaretçilere geniş bir açık alan sunar. Bu plaj, sığ ve temiz denizi ile özellikle aileler ve çocuklu aileler için ideal bir seçenektir. Karabey Hamamı, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini büyüler.
+Karabey Hamamı, Isparta'nın Uluborlu ilçesinde bulunan ve Akdeniz Bölgesi'nin en güzel plajlarından biri olarak bilinen bir doğal güzelliğidir. Bu plaj, sığ ve temiz denizi ile özellikle aileler ve çocuklu aileler için ideal bir seçenektir. Karabey Hamamı, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini büyüler.
 
 ## Tarihçe
 

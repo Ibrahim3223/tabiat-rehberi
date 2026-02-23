@@ -36,7 +36,7 @@ Göbel Tepesi'nin tarihi geçmişi, Çorum'un tarihi ile iç içe geçmiş durum
 
 ## Coğrafya
 
-Göbel Tepesi, Çorum'un merkezi bir konumunda yer alan bir tepe olup, Karadeniz Bölgesi'nin coğrafi özellikleri ile uyumludur. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar ve bölgenin en yüksek noktalarından biridir. Göbel Tepesi'nin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Tepenin eteklerinde ve etrafında, küçük akarsular ve dereler bulunur. Göbel Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bu tepe, bölgenin iklimini ve coğrafi yapısını anlamak için ziyaretçilere geniş bir perspektif sunar. Göbel Tepesi'nin coğrafi konumu, bölgenin zengin doğal kaynaklarını ve güzel manzaralarını keşfetmek isteyenler için ideal bir noktadır. Bu tepe, Çorum'un güzide tepeleri arasında yer alır ve bölgenin coğrafi çeşitliliğini yansıtır.
+Göbel Tepesi, Çorum'un merkezi bir konumunda yer alan bir tepe olup, Karadeniz Bölgesi'nin coğrafi özellikleri ile uyumludur. Göbel Tepesi'nin etrafı, çeşitli bitki türleri ve ağaçlarla kaplıdır. Tepenin eteklerinde ve etrafında, küçük akarsular ve dereler bulunur. Göbel Tepesi, Karadeniz Bölgesi'nin karakteristik coğrafi özelliklerini taşır. Bu tepe, bölgenin iklimini ve coğrafi yapısını anlamak için ziyaretçilere geniş bir perspektif sunar. Göbel Tepesi'nin coğrafi konumu, bölgenin zengin doğal kaynaklarını ve güzel manzaralarını keşfetmek isteyenler için ideal bir noktadır. Bu tepe, Çorum'un güzide tepeleri arasında yer alır ve bölgenin coğrafi çeşitliliğini yansıtır.
 
 ## Flora ve Fauna
 

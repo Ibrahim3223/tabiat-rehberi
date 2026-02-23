@@ -1,7 +1,7 @@
 ---
 title: "Sekizgen Hamam"
 date: "2026-01-09T23:14:31.036Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Denizli"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738940"
 
 # Sekizgen Hamam
 
-Sekizgen Hamam, Pamukkale'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleri ile kaplı. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Sekizgen Hamam, Ege Bölgesi'nin en önemli turistik noktalarından biri olarak kabul ediliyor. Burada, doğanın güzelliği ve tarihi değerler bir arada bulunmakta.
+Sekizgen Hamam, Pamukkale'nin doğal güzelliklerini keşfetmek isteyenler için bir cennet. Bu bölge, hem yerli hem de yabancı turistlerin ilgisini çekiyor. Sekizgen Hamam, Ege Bölgesi'nin en önemli turistik noktalarından biri olarak kabul ediliyor. Burada, doğanın güzelliği ve tarihi değerler bir arada bulunmakta.
 
 ## Tarihçe
 

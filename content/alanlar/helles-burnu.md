@@ -52,9 +52,9 @@ Gelibolu Yarımadası'nın diğer bölgeleri gibi, Helles Burnu da, komşu alanl
 
 ## Flora ve Fauna
 
-Helles Burnu, Türkiye'nin önemli kuş cennetlerinden biri olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, step bitki örtüsü ve bozkırın hakim olduğu bir bölgede yer alıyor. İlkbaharın gelmesiyle birlikte, bu alanda çeşitli çiçekler açarak renkli bir manzara oluşturuyor. 
+Helles Burnu, Türkiye'nin önemli kuş cennetlerinden biri olarak dikkat çekiyor. Bu 1200 hektarlık yeşil cennet, step bitki örtüsü ve bozkırın hakim olduğu bir bölgede yer alıyor. İlkbaharın gelmesiyle birlikte, bu alanda çeşitli çiçekler açarak renkli bir manzara oluşturuyor.
 
-Step bitkileri, kuraklığa adapte olmuş türler ve bozkırın karakteristik bitkileri bu bölgenin flora yapısını oluşturuyor. Bu bitkiler, bölgenin ekosistemini destekleyen temel öğelerdir. 
+Step bitkileri, kuraklığa adapte olmuş türler ve bozkırın karakteristik bitkileri bu bölgenin flora yapısını oluşturuyor. Bu bitkiler, bölgenin ekosistemini destekleyen temel öğelerdir.
 
 Yaban hayatı açısından zengin bir bölge olan Helles Burnu, çeşitli memeliler, kuşlar ve sürüngenlere ev sahipliği yapıyor. Kuşlar, özellikle göç mevsimlerinde bu bölgeye akın ediyorlar. Bu bölge, ekolojik açıdan önemli bir koruma alanını temsil ediyor ve koruma çalışmaları yürütülüyor.
 

@@ -50,10 +50,10 @@ Jeolojik açıdan incelendiğinde, Bincevan Dağı'nın oluşumu bölgenin karma
 
 ## Flora ve Fauna
 
-Bincevan Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Bincevan Dağı, Van'ın yüksek dağ ekolojisine ev sahipliği yapan bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 İlkbaharda, dağ yamaçları rengarenk çiçeklerle donanır. Alpin flora, yükseklik zonlarına göre değişkenlik gösterir. Dağ keçileri ve yaban keçileri, bu çayırlarda otlarken görülebilir.
 
-Sonbaharda, göçmen kuşlar dağları geçerek kışlaklarına ulaşırlar. Bu dönemde, dağların yüksek kesimlerinde, kartallar ve şahinler gibi yırtıcı kuşlar görülebilir. Sürüngenler, kayalık alanlarda ve otlaklarda yaşamlarını sürdürürler. 
+Sonbaharda, göçmen kuşlar dağları geçerek kışlaklarına ulaşırlar. Bu dönemde, dağların yüksek kesimlerinde, kartallar ve şahinler gibi yırtıcı kuşlar görülebilir. Sürüngenler, kayalık alanlarda ve otlaklarda yaşamlarını sürdürürler.
 Bölgenin yüksek dağ ekolojisi, endemik türlerin yaşam alanıdır. Bu türler, yalnızca bu bölgede bulunur ve korunmaları önemlidir. Bincevan Dağı, ekolojik değerini koruma altına almak için önemli bir alandır.
 
 ## Ziyaret Bilgileri

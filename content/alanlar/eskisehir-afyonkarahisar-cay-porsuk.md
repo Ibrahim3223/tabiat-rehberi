@@ -1,7 +1,7 @@
 ---
 title: "Eskisehir-Afyonkarahisar-Cay-Porsuk"
 date: "2026-01-09T20:14:03.503Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108228530"
 
 # Eskisehir-Afyonkarahisar-Cay-Porsuk
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Eskisehir-Afyonkarahisar-Cay-Porsuk milli parkı, 140 hektarlık geniş bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu bölge, doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Milli parkın konumu, ziyaretçilere geniş bir alan sunuyor ve burada çeşitli bitki türleri ile karşılaşma mümkün. Porsu ve çay gibi su kaynaklarının varlığı, bu bölgenin ekolojik dengesini koruyor ve canlılara yaşam alanı sağlıyor.
+ Bu bölge, doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çekiyor. Milli parkın konumu, ziyaretçilere geniş bir alan sunuyor ve burada çeşitli bitki türleri ile karşılaşma mümkün. Porsu ve çay gibi su kaynaklarının varlığı, bu bölgenin ekolojik dengesini koruyor ve canlılara yaşam alanı sağlıyor.
 
 ## Tarihçe
 

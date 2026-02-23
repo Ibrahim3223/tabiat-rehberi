@@ -33,7 +33,7 @@ Bolu'nun dağlık arazisinde, doğanın güzelliğini gözler önüne seren Kır
 
 ## Tarihçe
 
-Kıraz Dağı, Türkiye'nin kuzeybatısında, Bolu ilinin sınırları içerisinde yer alan bir dağlık alandır. Bu bölge, tarihin sâu sayfalarına uzanan bir geçmişe sahiptir. Bolu, tarih boyunca çeşitli uygarlıkların uğrak yeri olmuş; Hititler, Frigler, Romalılar ve Osmanlılar gibi medeniyetler bu topraklarda yaşamışlardır. 
+Kıraz Dağı, Türkiye'nin kuzeybatısında, Bolu ilinin sınırları içerisinde yer alan bir dağlık alandır. Bu bölge, tarihin derin sayfalarına uzanan bir geçmişe sahiptir. Bolu, tarih boyunca çeşitli uygarlıkların uğrak yeri olmuş; Hititler, Frigler, Romalılar ve Osmanlılar gibi medeniyetler bu topraklarda yaşamışlardır.
 
 Doğal güzellikleri ve stratejik konumuyla, Kıraz Dağı ve çevresindeki dağlık alanlar, insan yerleşimlerinin ve ekonomik faaliyetlerin önemli merkezleri arasında yer almıştır. Yaylacılık ve hayvancılık, bu bölgede binlerce yıl boyunca sürdürülen geleneksel faaliyetlerdir. Ayrıca, tarihi İpek Yolu ve diğer önemli ticaret yolları, bu dağlık alanlardan geçerek, bölgeyi ticari ve kültürel alışverişlerin merkezi haline getirmiştir.
 
@@ -51,9 +51,9 @@ Kıraz Dağı, çevresindeki diğer coğrafi oluşumlarla güçlü bir bağlant�
 
 ## Flora ve Fauna
 
-Kıraz Dağı, Bolu'nun nemli ikliminin etkisi altında, gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, özellikle ilkbahar ve yaz aylarında yeşil bir örtü oluştururken, sonbaharda renk değiştirerek dağ manzarasını renklendirir. 
-Yaban hayatı, memeliler, kuşlar ve sürüngenler gibi çeşitli türlerle zenginleştirilmiştir. Göçmen kuşlar, özellikle sonbahar aylarında dağ üzerinden geçer. 
+Kıraz Dağı, Bolu'nun nemli ikliminin etkisi altında, gür ormanlarla kaplı bir dağ ekosistemi sunar. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki örtüsünü oluşturan geniş yapraklı ağaçlar, özellikle ilkbahar ve yaz aylarında yeşil bir örtü oluştururken, sonbaharda renk değiştirerek dağ manzarasını renklendirir.
+Yaban hayatı, memeliler, kuşlar ve sürüngenler gibi çeşitli türlerle zenginleştirilmiştir. Göçmen kuşlar, özellikle sonbahar aylarında dağ üzerinden geçer.
 Kıraz Dağı, yüksek biyoçeşitliliği ve dağ ekosisteminin korunmasını sağlayan önemli bir ekosistemdir. Bu alanın korunması, bölgenin doğal dengesinin korunmasına katkıda bulunur.
 
 ## Ziyaret Bilgileri

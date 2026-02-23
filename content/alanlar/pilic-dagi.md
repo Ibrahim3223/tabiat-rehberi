@@ -56,7 +56,7 @@ Piliç Dağı, step bitki örtüsünün hakim olduğu bir bozkır bölgesinde ye
 
 Dağın yükseklik zonalarında, alpin flora çeşitliliği dikkat çeker. Kuraklığa adapte olmuş türler, dağların zorlu koşullarına uyum sağlamışlardır. Step bitkileri, dağ yamaçlarını kaplar ve yaban hayatı için önemli bir yaşam alanı sağlar.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri, yaban keçileri ve tavşanları, dağların sarp yamaçlarında yaşamını sürdürür. Kuşlar, dağların yükseklik zonalarında yuvalanır ve avlanmak için aşağılara iner. Sürüngenler, kayalık alanlarda ve step bitkileri arasında yaşamlarını sürdürür. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle zengin bir çeşitlilik gösterir. Dağ keçileri, yaban keçileri ve tavşanları, dağların sarp yamaçlarında yaşamını sürdürür. Kuşlar, dağların yükseklik zonalarında yuvalanır ve avlanmak için aşağılara iner. Sürüngenler, kayalık alanlarda ve step bitkileri arasında yaşamlarını sürdürür.
 
 Bu dağ ekosistemi, bölgenin ekolojik dengesini korur ve canlılara yaşam alanı sağlar. Piliç Dağı, doğanın güzelliğini ve canlı çeşitliliğini koruma altına almak için önemli bir alandır.
 

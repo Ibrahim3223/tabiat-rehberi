@@ -23,7 +23,7 @@ wikidata_id: "Q85971875"
 
 # Karagöl Yaylası Sarıçamı
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Karagöl Yaylası Sarıçamı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir. Bu muhteşem yayla, doğa severlerin ve gezginlerin favori destinasyonlarından biridir. Karagöl Yaylası Sarıçamı, ziyaretçilerini yeşilin her tonuna şahit olacakları bir dünyaya davet ediyor. Yayla, zengin flora ve fauna çeşitliği ile dikkat çekiyor ve doğal güzelliklerinin yanı sıra tarihi geçmişiyle de ilgi görüyor.
+ Bu muhteşem yayla, doğa severlerin ve gezginlerin favori destinasyonlarından biridir. Karagöl Yaylası Sarıçamı, ziyaretçilerini yeşilin her tonuna şahit olacakları bir dünyaya davet ediyor. Yayla, zengin flora ve fauna çeşitliği ile dikkat çekiyor ve doğal güzelliklerinin yanı sıra tarihi geçmişiyle de ilgi görüyor.
 
 ## Tarihçe
 

@@ -32,7 +32,7 @@ Gümüşhane'nin doğusunda yer alan Deveboynu Dağı, doğa severlerin ilgi oda
 
 ## Tarihçe
 
-Gümüşhane bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Bu bölgede, Hititlerden Roma İmparatorluğu'na, Selçuklular'dan Osmanlı Devleti'ne kadar birçok uygarlık hüküm sürmüştür. Deveboynu Dağı da bu zengin tarihsel mirasın bir parçası olarak, yüzyıllar boyu insanların yaşamlarına tanıklık etmiştir.
+Gümüşhane bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Bu bölgede, Hititlerden Roma İmparatorluğu'na, Selçuklular'dan Osmanlı Devleti'ne kadar birçok uygarlık hüküm sürmüştür. Deveboynu Dağı da bu zengin tarihsel mirasın bir parçası olarak, yüzyıllar boyu insanların yaşamlarına tanıklık etmiştir.
 
 Türkiye'de doğal alanlar, tarihin her döneminde önemli bir rol oynamıştır. Bu alanlar, yalnızca doğal güzellikleriyle değil, aynı zamanda insanların yaşamlarını sürdürmeleri için gerekli kaynakları sağladıkları için değerlidir. Yaylacılık, hayvancılık ve ticaret yolları gibi faaliyetler, bu doğal alanların insanlarla olan bağlantısını güçlendirmiştir.
 
@@ -50,7 +50,7 @@ Doğal güzelliklerin bir arada bulunduğu bu bölge, coğrafi olarak dağlık b
 
 ## Flora ve Fauna
 
-Deveboynu Dağı, Gümüşhane'nin nemli ikliminde gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Deveboynu Dağı, Gümüşhane'nin nemli ikliminde gür ormanlarla kaplı bir dağ ekosistemi sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki Örtüsü olarak, ilkbaharda dağ yamaçları rengarenk çiçeklerle donanırken, sonbaharda ağaçların sararması ile birlikte bir renk cümbüşü yaşanır. Dağın yükseklik zonlarına göre değişen flora, alpin bitkiler ile birlikte dağların karakteristik özelliklerini taşır.
 

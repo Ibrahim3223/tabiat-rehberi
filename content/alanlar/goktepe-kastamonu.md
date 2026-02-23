@@ -35,7 +35,7 @@ Kastamonu'nun dağlık bölgesinde yer alan Göktepe Dağı, tarihi ve doğal g�
 
 Kastamonu bölgesi, tarihin en eski dönemlerinden beri çeşitli uygarlıkların yaşamına ev sahipliği yapmış zengin bir coğrafyadır. Göktepe Dağı, bu bölgenin önemli doğal alanlarından biridir. Bölgenin tarihi, Hitit, Roma ve Bizans dönemlerine kadar uzanır. Daha sonra, 11. yüzyılda Türklerin bölgeye yerleşmesiyle birlikte, Kastamonu, Selçuklu ve Osmanlı İmparatorluğu'nun önemli merkezlerinden biri haline gelmiştir.
 
-Bu tür doğal alanlar, Türkiye'de tarihsel olarak büyük önem taşımıştır. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendirmiş, bölge halkının yaşamını ve kültürünü etkilemiştir. Kastamonu bölgesinde de, históriki ticaret yolları ve yaylacılık faaliyetleri, bölgenin ekonomi ve sosyal yapısını belirlemiştir. Göktepe Dağı ve çevresindeki diğer doğal alanlar, bu bölgenin tarihsel öneminin bir parçasını oluşturur ve bölge halkının yaşamında önemli bir role sahiptir.
+Bu tür doğal alanlar, Türkiye'de tarihsel olarak büyük önem taşımıştır. Yaylacılık, hayvancılık ve ticaret yolları, insanların bu alanlarla ilişkisini şekillendirmiş, bölge halkının yaşamını ve kültürünü etkilemiştir. Kastamonu bölgesinde de, tarihi ticaret yolları ve yaylacılık faaliyetleri, bölgenin ekonomi ve sosyal yapısını belirlemiştir. Göktepe Dağı ve çevresindeki diğer doğal alanlar, bu bölgenin tarihsel öneminin bir parçasını oluşturur ve bölge halkının yaşamında önemli bir role sahiptir.
 
 ## Coğrafya
 

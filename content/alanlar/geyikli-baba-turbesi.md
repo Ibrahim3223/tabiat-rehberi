@@ -1,7 +1,7 @@
 ---
 title: "Geyikli Baba Türbesi"
 date: "2026-01-10T06:25:41.926Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"
@@ -30,7 +30,7 @@ wikidata_id: "Q131390723"
 
 # Geyikli Baba Türbesi
 
-Geyikli Baba Türbesi, Bursa'nın Kestel ilçesinde yer alan ve Marmara Bölgesi'nin önemli turizm noktalarından biridir. Bu bölge, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Geyikli Baba Türbesi'nin hikayesi, bölgeye gelen ziyaretçilerin dikkatini çekmektedir. Tarihi geçmişi ve coğrafi özellikleri ile Geyikli Baba Türbesi, doğa severlerin ve tarih meraklılarının ilgisini çekmektedir.
+Geyikli Baba Türbesi, Bursa'nın Kestel ilçesinde yer alan ve Marmara Bölgesi'nin önemli turizm noktalarından biridir. Geyikli Baba Türbesi'nin hikayesi, bölgeye gelen ziyaretçilerin dikkatini çekmektedir. Tarihi geçmişi ve coğrafi özellikleri ile Geyikli Baba Türbesi, doğa severlerin ve tarih meraklılarının ilgisini çekmektedir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Geyikli Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir
 
 ## Coğrafya
 
-Geyikli Baba Türbesi, Bursa'nın Kestel ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Bölge, 140 hektarlık bir yeşil alan üzerine kurulmuş olup, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Geyikli Baba Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi kolayca ulaşabilmesini sağlar. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Geyikli Baba Türbesi'nin iklimi, Marmara Bölgesi'nin iklimine uygun olarak değişkenlik gösterir. Bölge, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir iklim özelliği taşır.
+Geyikli Baba Türbesi, Bursa'nın Kestel ilçesinde yer almaktadır. Bu bölge, Marmara Bölgesi'nin coğrafi özelliklerini taşır. Geyikli Baba Türbesi'nin coğrafi konumu, ziyaretçilerin bölgeyi kolayca ulaşabilmesini sağlar. Bölge, çeşitli bitki türleri ve zengin fauna ile çevrilidir. Geyikli Baba Türbesi'nin iklimi, Marmara Bölgesi'nin iklimine uygun olarak değişkenlik gösterir. Bölge, yaz aylarında sıcak ve nemli, kış aylarında ise soğuk ve yağışlı bir iklim özelliği taşır.
 
 ## Flora ve Fauna
 

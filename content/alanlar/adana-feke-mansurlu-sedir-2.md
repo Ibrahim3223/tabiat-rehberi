@@ -22,7 +22,7 @@ wikidata_id: "Q108227203"
 
 # Adana-Feke-Mansurlu Sedir 2
 
-Adana-Feke-Mansurlu Sedir 2 milli parkı, Akdeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, zengin bitki çeşitliliği ve çeşitli hayvan türleriyle doğa severlerin cenneti. Konum olarak Adana iline bağlı Feke ilçesinde bulunan Mansurlu Sedir 2, misafirlerini güler yüzlü bir şekilde karşılamak için hazır.
+Adana-Feke-Mansurlu Sedir 2 milli parkı, Akdeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Bu milli park, zengin bitki çeşitliliği ve çeşitli hayvan türleriyle doğa severlerin cenneti. Konum olarak Adana iline bağlı Feke ilçesinde bulunan Mansurlu Sedir 2, misafirlerini güler yüzlü bir şekilde karşılamak için hazır.
 
 ## Tarihçe
 
@@ -30,11 +30,11 @@ Tarihçesi hakkında konkrét bilgiler bulunmasa da, Adana-Feke-Mansurlu Sedir 2
 
 ## Coğrafya
 
-Adana-Feke-Mansurlu Sedir 2 milli parkı, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu. İklim olarak Akdeniz ikliminin özellikleri görülmektedir. Bu milli park, ziyaretçilerini güneşli günlerde doğanın güzelliği ile baş başa bırakmak için ideal bir ortam sunuyor. Ayrıca, Mansurlu Sedir 2'nin coğrafi konumu, ziyaretçilerin diğer turistik alanlara ulaşımını kolaylaştırıyor.
+Adana-Feke-Mansurlu Sedir 2 milli parkı, coğrafi olarak Akdeniz Bölgesi'nin karakteristik özelliklerini taşıyor. Milli parkın coğrafyası, çeşitli bitki türleri ve hayvanlarla dolu. İklim olarak Akdeniz ikliminin özellikleri görülmektedir. Bu milli park, ziyaretçilerini güneşli günlerde doğanın güzelliği ile baş başa bırakmak için ideal bir ortam sunuyor. Ayrıca, Mansurlu Sedir 2'nin coğrafi konumu, ziyaretçilerin diğer turistik alanlara ulaşımını kolaylaştırıyor.
 
 ## Flora ve Fauna
 
-Adana-Feke-Mansurlu Sedir 2 milli parkı, flora ve fauna açısından oldukça zengindir. Bu milli park, çeşitli bitki türleri ve hayvanlarla dolu. Mevsimsel değişimler, milli parkın güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında, doğanın renkleri ziyaretçileri karşılar. Kış aylarında ise, milli parkın güzelliği farklı bir boyuta ulaşır. Bu milli park, doğa severlerin ve bilim insanlarının nghiên cu alanı olarak da önemli bir rol oynuyor. Ziyaretçiler, milli parkın flora ve faunasını gözlemleyerek, doğanın güzelliğini keşfedebilirler.
+ Bu milli park, çeşitli bitki türleri ve hayvanlarla dolu. Mevsimsel değişimler, milli parkın güzelliğini daha da artırıyor. İlkbahar ve yaz aylarında, doğanın renkleri ziyaretçileri karşılar. Kış aylarında ise, milli parkın güzelliği farklı bir boyuta ulaşır. Bu milli park, doğa severlerin ve bilim insanlarının nghiên cu alanı olarak da önemli bir rol oynuyor. Ziyaretçiler, milli parkın flora ve faunasını gözlemleyerek, doğanın güzelliğini keşfedebilirler.
 
 ## Ziyaret Bilgileri
 
@@ -46,4 +46,4 @@ Adana-Feke-Mansurlu Sedir 2 milli parkını ziyaret etmek, doğa severler için 
 - Akdeniz Bölgesi'nde bulunmaktadır.
 - Adana iline bağlı Feke ilçesinde bulunur.
 - Mansurlu Sedir 2, doğa severlerin cenneti olarak bilinir.
-- Milli park, flora ve fauna açısından oldukça zengindir.
+

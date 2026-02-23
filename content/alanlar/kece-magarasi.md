@@ -27,7 +27,7 @@ Türkiye'nin güneydoğu kesiminde, Kahramanmaraş'ın Elbistan ilçesinde yer a
 
 ## Tarihçe
 
-Kahramanmaraş, tarihin sâu izlerini taşıyan bir bölge. Hitit, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmış bu topraklar, zengin bir kültürel mirası barındırıyor. Keçe Mağarası da, bu bölgenin doğal güzelliklerinin bir parçası olarak dikkat çekiyor. Türkiye'de benzer doğal oluşumlar, tarih boyunca insanların yerleşim, tarım ve ticaret faaliyetleri için önemli merkezler olmuşlardır. 
+Kahramanmaraş, tarihin derin izlerini taşıyan bir bölge. Hitit, Roma ve Osmanlı gibi uygarlıkların etkisi altında kalmış bu topraklar, zengin bir kültürel mirası barındırıyor. Keçe Mağarası da, bu bölgenin doğal güzelliklerinin bir parçası olarak dikkat çekiyor. Türkiye'de benzer doğal oluşumlar, tarih boyunca insanların yerleşim, tarım ve ticaret faaliyetleri için önemli merkezler olmuşlardır.
 
 Bu mağaranın bulunduğu bölge, tarihi İpek Yolu'nun güzergahında yer alıyor. İnsanlar, yüzyıllar boyunca bu coğrafyada yaylacılık, hayvancılık ve ticaret yaparak yaşamını sürdürmüş. Doğal güzellikleri ve stratejik konumu, bölgeyi önemli bir merkez haline getirmiş. Keçe Mağarası, bu tarihsel bağlam içinde, insan yaşamının bir parçası olarak görülebilir. Mağaranın oluşumu ve özellikleri, Türkiye'nin jeolojik tarihini anlamak için önemli bir kaynak olabilir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Sadır Sultan Türbesi"
 date: "2026-01-10T05:28:14.143Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391374"
 
 # Sadır Sultan Türbesi
 
-Sadır Sultan Türbesi, Konya'nın Karatay ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Konya'nın önemli turizm merkezlerinden biridir. Türbe, Sadır Sultan adına inşa edilmiştir ve tarihi geçmişi ile dikkat çekmektedir. Bu alan, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir yerdir. Plaj alanında çeşitli etkinlikler düzenlenmekte ve ziyaretçiler tarafından sıklıkla tercih edilmektedir.
+Sadır Sultan Türbesi, Konya'nın Karatay ilçesinde yer alan tarihi bir türbe ve plaj alanıdır. Türbe, Sadır Sultan adına inşa edilmiştir ve tarihi geçmişi ile dikkat çekmektedir. Bu alan, hem tarihi önemi hem de doğal güzelliği ile ziyaretçilerini cezbeden bir yerdir. Plaj alanında çeşitli etkinlikler düzenlenmekte ve ziyaretçiler tarafından sıklıkla tercih edilmektedir.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sadır Sultan Türbesi, tarihi geçmişi ile dikkat çekmektedir. Türbenin inş
 
 ## Coğrafya
 
-Sadır Sultan Türbesi, Konya'nın Karatay ilçesinde yer almaktadır. Türbe ve plaj alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step iklimi ile karakterizedir ve yazları sıcak, kışları soğuk geçer. Sadır Sultan Türbesi, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Plaj alanı, ziyaretçilere geniş ve ferah bir mekan sunar. Türbe ve plaj bölgesinin coğrafi konumu, ziyaretçilerin hem tarihi önemi hem de doğal güzelliği ile karşılaşmasına olanak sağlar. Bölge, Konya'nın önemli turizm merkezlerinden biri olarak kabul edilmektedir.
+Sadır Sultan Türbesi, Konya'nın Karatay ilçesinde yer almaktadır. Türbe ve plaj alanı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, genellikle step iklimi ile karakterizedir ve yazları sıcak, kışları soğuk geçer. Plaj alanı, ziyaretçilere geniş ve ferah bir mekan sunar. Türbe ve plaj bölgesinin coğrafi konumu, ziyaretçilerin hem tarihi önemi hem de doğal güzelliği ile karşılaşmasına olanak sağlar. Bölge, Konya'nın önemli turizm merkezlerinden biri olarak kabul edilmektedir.
 
 ## Flora ve Fauna
 

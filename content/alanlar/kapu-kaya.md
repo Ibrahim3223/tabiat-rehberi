@@ -32,7 +32,7 @@ Sinop'un büyüleyici doğası, ziyaretçilerini kendine hayran bırakıyor. Kap
 
 ## Tarihçe
 
-Kapu Kaya, Sinop'un histórik zenginlikleri içinde yer alan bir doğal güzelliktir. Bu bölge, tarihin sâu sayfalarında birçok uygarlığa ev sahipliği yapmış ve önemli ticaret yollarının kavşak noktası olmuştur. Sinop, antik dönemde M.Ö. 7. yüzyılda kurulmuş ve tarihin çeşitli dönemlerinde Pers, Roma ve Bizans gibi güçlü uygarlıkların etkisi altında kalmıştır.
+Kapu Kaya, Sinop'un tarihi zenginlikleri içinde yer alan bir doğal güzelliktir. Bu bölge, tarihin derin sayfalarında birçok uygarlığa ev sahipliği yapmış ve önemli ticaret yollarının kavşak noktası olmuştur. Sinop, antik dönemde M.Ö. 7. yüzyılda kurulmuş ve tarihin çeşitli dönemlerinde Pers, Roma ve Bizans gibi güçlü uygarlıkların etkisi altında kalmıştır.
 
 Bu tür doğal alanlar, Türkiye'nin tarihsel dokusunda önemli bir yer tutar. Yaylacılık ve hayvancılık, bu bölgelerde yaşayan halkların geleneksel geçim kaynaklarından biri olmuştur. Ayrıca, tarihi ticaret yolları da bu doğal güzelliklerin etrafından geçerek, bölgenin ekonomi ve kültürel zenginliğine katkıda bulunmuştur. Kapu Kaya da, bu tarihi ve kültürel mirasın bir parçası olarak, ziyaretçilerini tarihin derinliklerine götürmeye davet ediyor.
 
@@ -48,11 +48,11 @@ Mevsimsel değişikliklere bakıldığında, Kapu Kaya'nın iklim karakteri Kara
 
 ## Flora ve Fauna
 
-Kapu Kaya, Sinop'un nemli ikliminin etkisiyle gür ormanlarla kaplı bir dağ ekosistemidir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçlarında çiçekler açarken, sonbaharda göç eden kuşlar buraya uğrar. 
+Kapu Kaya, Sinop'un nemli ikliminin etkisiyle gür ormanlarla kaplı bir dağ ekosistemidir. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharda, dağ yamaçlarında çiçekler açarken, sonbaharda göç eden kuşlar buraya uğrar.
 
-Bitki örtüsünde hakim türler olarak geniş yapraklı ağaçlar ve iğne yapraklı ağaçlar bulunur. Bu ormanlar, yüksek biyoçeşitlilikleriyle dikkat çeker. Mevsimsel değişimlere bağlı olarak, bu bitkiler yaşam döngülerini sürdürürler. 
+Bitki örtüsünde hakim türler olarak geniş yapraklı ağaçlar ve iğne yapraklı ağaçlar bulunur. Bu ormanlar, yüksek biyoçeşitlilikleriyle dikkat çeker. Mevsimsel değişimlere bağlı olarak, bu bitkiler yaşam döngülerini sürdürürler.
 
-Yaban hayatı da oldukça çeşitlidir. Memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin birer parçasıdır. Dağ keçileri ve ayılar gibi büyük memeliler, ormanların derinliklerinde yaşarken, çeşitli kuş türleri ağaçlarda yuva yapar. Sürüngenler de, bu dağların kayalık ve sıcak bölgelerinde bulunur. 
+Yaban hayatı da oldukça çeşitlidir. Memeliler, kuşlar ve sürüngenler bu dağ ekosisteminin birer parçasıdır. Dağ keçileri ve ayılar gibi büyük memeliler, ormanların derinliklerinde yaşarken, çeşitli kuş türleri ağaçlarda yuva yapar. Sürüngenler de, bu dağların kayalık ve sıcak bölgelerinde bulunur.
 
 Bu dağ ekosisteminin ekolojik değeri, yüksek biyoçeşitlili ve doğal yaşam alanlarının korunmasıdır. Bu nedenle, koruma altına alınması büyük önem taşır.
 

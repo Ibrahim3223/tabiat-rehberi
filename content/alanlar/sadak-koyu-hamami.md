@@ -1,7 +1,7 @@
 ---
 title: "Sadak Köyü Hamamı"
 date: "2026-01-09T22:37:31.147Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gümüşhane"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738722"
 
 # Sadak Köyü Hamamı
 
-Sadak Köyü Hamamı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olan Kelkit ilçesinde, Gümüşhane'nın doğal güzelliklerini sunan özel bir yer. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Sadak Köyü Hamamı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri olarak, her yıl binlerce turisti ağırlıyor. Bu bölge, hem doğal güzelliği hem de tarihi değerleri ile dikkat çekiyor.
+Sadak Köyü Hamamı, Karadeniz Bölgesi'nin en güzel köşelerinden biri olan Kelkit ilçesinde, Gümüşhane'nın doğal güzelliklerini sunan özel bir yer. Sadak Köyü Hamamı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri olarak, her yıl binlerce turisti ağırlıyor. Bu bölge, hem doğal güzelliği hem de tarihi değerleri ile dikkat çekiyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Sadak Köyü Hamamı'nın tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve
 
 ## Coğrafya
 
-Sadak Köyü Hamamı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biri olan Kelkit ilçesinde yer alıyor. Bu bölge, Gümüşhane'nin coğrafi güzelliklerini sunan özel bir yer. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Sadak Köyü Hamamı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri olarak, her yıl binlerce turisti ağırlıyor. Bu bölge, hem doğal güzelliği hem de coğrafi konumu ile dikkat çekiyor. Bölge, Karadeniz Bölgesi'nin iklimine uygun olarak, yeşilin çeşitli tonlarını sunuyor. Sadak Köyü Hamamı, ziyaretçilerine doğanın güzelliğini sunan özel bir yer.
+Sadak Köyü Hamamı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biri olan Kelkit ilçesinde yer alıyor. Bu bölge, Gümüşhane'nin coğrafi güzelliklerini sunan özel bir yer. Sadak Köyü Hamamı, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri olarak, her yıl binlerce turisti ağırlıyor. Bu bölge, hem doğal güzelliği hem de coğrafi konumu ile dikkat çekiyor. Bölge, Karadeniz Bölgesi'nin iklimine uygun olarak, yeşilin çeşitli tonlarını sunuyor. Sadak Köyü Hamamı, ziyaretçilerine doğanın güzelliğini sunan özel bir yer.
 
 ## Flora ve Fauna
 

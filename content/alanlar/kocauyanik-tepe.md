@@ -48,11 +48,11 @@ Kocauyanık Tepe'nin iklim karakteri, Akdeniz ikliminin etkisi altındadır. Bu 
 
 ## Flora ve Fauna
 
-Kocauyanık Tepe, Burdur'un dağlık bölgesinde yer alan bir ekosistemdir. Bu 1200 hektarlık dağlık alan, maki bitki örtüsüne ev sahipliği yapar ve kuraklığa dayanıklı türler burada bulunur. İlkbaharda, dağ yamaçları renkli çiçeklerle kaplanır ve havada arıların vızıltısı duyulur. 
+Kocauyanık Tepe, Burdur'un dağlık bölgesinde yer alan bir ekosistemdir. Bu 1200 hektarlık dağlık alan, maki bitki örtüsüne ev sahipliği yapar ve kuraklığa dayanıklı türler burada bulunur. İlkbaharda, dağ yamaçları renkli çiçeklerle kaplanır ve havada arıların vızıltısı duyulur.
 
-Bitki örtüsünün hakim türü olan maki, kuraklığa karşı dayanıklıdır ve dağlık alanda yaygın olarak bulunur. Ayrıca, dağlık alanda alpin flora da bulunur ve bu flora, yükseklik zonlarına göre değişir. 
+Bitki örtüsünün hakim türü olan maki, kuraklığa karşı dayanıklıdır ve dağlık alanda yaygın olarak bulunur. Ayrıca, dağlık alanda alpin flora da bulunur ve bu flora, yükseklik zonlarına göre değişir.
 
-Yaban hayatı da oldukça çeşitlidir. Dağ keçileri, dağların yüksek kesimlerinde yaşar ve zor ulaşılabilir alanlarda bulunur. Kuşlar, göç mevsiminde buradan geçer ve dağların yüksek kesimlerinde yuvalanır. Sürüngenler de dağlık alanda bulunur ve özellikle sıcak günlerde aktivite gösterir. 
+Yaban hayatı da oldukça çeşitlidir. Dağ keçileri, dağların yüksek kesimlerinde yaşar ve zor ulaşılabilir alanlarda bulunur. Kuşlar, göç mevsiminde buradan geçer ve dağların yüksek kesimlerinde yuvalanır. Sürüngenler de dağlık alanda bulunur ve özellikle sıcak günlerde aktivite gösterir.
 
 Kocauyanık Tepe'nin ekolojik değeri, dağ ekosisteminin korunmasına bağlıdır. Bu alan, birçok canlıyaşam alanı sağlar ve ekosistemin dengesi için önemlidir. Koruma durumu ise, henüz yeterli düzeyde değildir ve bu alanın korunması için daha fazla çaba gereklidir.
 
@@ -66,5 +66,5 @@ Burdur'un gizli cenneti Kocauyanık Tepe'yi keşfetmek için sabah erken gitmeni
 - Burdur il merkezine yaklaşık 15 kilometre uzaklıktadır.
 - Yöre, genellikle step ve ova karakteri gösteren bir coğrafyaya sahiptir.
 - Bölgede, genellikle İç Anadolu Bölgesi'nin karakteristik bitki türleri bulunur.
-- Kocauyanık Tepe'nin çevresinde, histórik dönemlere ait çeşitli arkeolojik kalıntılar mevcuttur.
+- Kocauyanık Tepe'nin çevresinde, tarihi dönemlere ait çeşitli arkeolojik kalıntılar mevcuttur.
 - Bölgenin coğrafi yapısı, genellikle kırsal ve tarımsal faaliyetlere elverişlidir.

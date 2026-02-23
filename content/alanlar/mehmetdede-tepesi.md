@@ -28,7 +28,7 @@ wikidata_id: "Q31535525"
 
 # Mehmetdede Tepesi
 
-Mehmetdede Tepesi, Hatay ilinin göbeğinde yer alan ve ziyaretçilerini etkileyici manzarasıyla karşılayan bir doğal güzellik noktasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi zengin bitki türleriyle kaplıdır. Tepenin zirvesinden bakıldığında, Akdeniz Bölgesi'nin eşsiz manzarasını izleme mümkün. Mehmetdede Tepesi, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
+Mehmetdede Tepesi, Hatay ilinin göbeğinde yer alan ve ziyaretçilerini etkileyici manzarasıyla karşılayan bir doğal güzellik noktasıdır. Tepenin zirvesinden bakıldığında, Akdeniz Bölgesi'nin eşsiz manzarasını izleme mümkün. Mehmetdede Tepesi, hem doğa severler hem de fotoğraf tutkunları için ideal bir destinasyon.
 
 ## Tarihçe
 
@@ -48,7 +48,6 @@ Mehmetdede Tepesi'ni ziyaret etmek, doğa severler ve fotoğraf tutkunları içi
 
 ## İlginç Bilgiler
 
-- Mehmetdede Tepesi, yaklaşık 200 futbol sahası büyüklüğünde.
 - Tepenin yüksekliği, rüzgar ve hava akımlarının yönünü değiştirerek, çevredeki yerleşim yerlerinin iklimini şekillendiriyor.
 - Tepenin eteklerinde ve çevresinde, çeşitli arkeolojik kazılar yapılmış ve tarihi eserler bulunmuştur.
 - Mehmetdede Tepesi, Hatay ilinin coğrafi yapısında önemli bir yer tutuyor.

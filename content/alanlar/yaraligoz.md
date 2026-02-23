@@ -22,7 +22,7 @@ wikidata_id: "Q108228124"
 
 # Yaralıgöz
 
-Yaralıgöz, İç Anadolu Bölgesi'nde yer alan ve yaklaşık 200 futbol sahası büyüklüğünde olan 140 hektarlık bir yeşil alandır. Bu bölge, doğa severlerin ve macera arayanların ziyaret ettiği önemli bir destinasyondur. Yaralıgöz'ün doğal güzelliği, ziyaretçilerini büyülemektedir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Yaralıgöz, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunmaktadır.
+ Bu bölge, doğa severlerin ve macera arayanların ziyaret ettiği önemli bir destinasyondur. Yaralıgöz'ün doğal güzelliği, ziyaretçilerini büyülemektedir. Burada, çeşitli bitki türleri ve zengin fauna bulunmaktadır. Yaralıgöz, ziyaretçilerine hem dinlenme hem de keşif fırsatı sunmaktadır.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Yaralıgöz'ün tarihi geçmişi, yüzyıllar boyunca şekillenmiştir. Bu bölg
 
 ## Coğrafya
 
-Yaralıgöz, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Bu bölge, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir. Yaralıgöz'ün coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu bölge, ziyaretçilerine hem doğanın güzelliğini hem de coğrafi çeşitliliği sunmaktadır. Yaralıgöz'ün coğrafi konumu, ziyaretçilerini etkilemektedir. Burada, doğa ve coğrafya bir arada bulunmaktadır.
+Yaralıgöz, İç Anadolu Bölgesi'nin coğrafi olarak önemli bir bölgesinde yer almaktadır. Yaralıgöz'ün coğrafyası, çeşitli bitki türleri ve zengin fauna ile karakterizedir. Bu bölge, ziyaretçilerine hem doğanın güzelliğini hem de coğrafi çeşitliliği sunmaktadır. Yaralıgöz'ün coğrafi konumu, ziyaretçilerini etkilemektedir. Burada, doğa ve coğrafya bir arada bulunmaktadır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Yaralıgöz'ü ziyaret etmek, doğa severlerin ve macera arayanların için öne
 ## İlginç Bilgiler
 
 - Yaralıgöz, 140 hektarlık bir yeşil alana sahiptir.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Yaralıgöz, çeşitli bitki türleri ve zengin fauna ile karakterizedir.
 - Bu bölge, İç Anadolu Bölgesi'nin önemli kültür ve doğa merkezlerinden biridir.
 - Yaralıgöz, ziyaretçilerine hem doğanın güzelliğini hem de tarihin zenginliğini sunmaktadır.

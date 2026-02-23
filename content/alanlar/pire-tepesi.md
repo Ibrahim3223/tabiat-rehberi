@@ -29,7 +29,7 @@ wikidata_id: "Q31388856"
 
 # Pire Tepesi
 
-Pire Tepesi, Kırklareli'nin Marmara Bölgesi'nde yer alan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor. Pire Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle cezbediyor. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için ilgi çekici bir destinasyon.
+Pire Tepesi, Kırklareli'nin Marmara Bölgesi'nde yer alan bir tepe. Pire Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişiyle cezbediyor. Bu bölge, hem doğa severler hem de tarihe meraklı olanlar için ilgi çekici bir destinasyon.
 
 ## Tarihçe
 

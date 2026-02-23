@@ -28,7 +28,7 @@ wikidata_id: "Q21696926"
 
 # Davayatağ
 
-Kars'ın dağlık arazisinde gizli bir hazine olan Davayatağ, ziyaretçilerini doğanın sade güzelliği ile karşılar. Bu dağ, Kars ilinin sınırları içinde yer alır ve Türkiye'nin kuzeydoğu ucundaki doğal zenginliklerini temsil eder. Kars'ın coğrafi yapısının bir parçası olan Davayatağ, bölgenin kültürel ve tarihi mirasının önemli bir bileşenidir. Kars'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon olan Davayatağ, ziyaretçilerine unutulmaz bir deneyim sunar.
+Kars'ın dağlık arazisinde gizli bir hazine olan Davayatağ, ziyaretçilerini doğanın sade güzelliği ile karşılar. Bu dağ, Kars ilinin sınırları içinde yer alır ve Türkiye'nin kuzeydoğu ucundaki doğal zenginliklerini temsil eder. Kars'ın coğrafi yapısının bir parçası olan Davayatağ, bölgenin kültürel ve tarihi mirasının önemli bir bileşenidir.
 
 ## Tarihçe
 
@@ -52,7 +52,7 @@ Davayatağ, çevresindeki diğer doğal alanlar ile birlikte bir ekosistem oluş
 
 Davayatağ dağının yükseklik zonlarında, alpin çayırların hakim olduğu bir ekosistem bulunur. İlkbaharda, çayırlar rengarenk çiçeklerle kaplanır, enquanto sonbaharda, göçmen kuşlar bu bölgeyi geçiş noktası olarak kullanır. Dağın bitki örtüsünü, yüksekliklerine göre değişen türler oluşturur. Alpin flora, dağların yüksek kesimlerinde görülür ve bu bölgede endemik türler de bulunur.
 
-Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban keçileri, dağların dik yamaçlarında görülürken, kartallar ve şahinler gökyüzünde hüküm sürer. Sürüngenler, özellikle yüksek kesimlerde, kayalık alanlarda yaşar. 
+Yaban hayatı, memeliler, kuşlar ve sürüngenlerle çeşitlilik gösterir. Dağ keçileri ve yaban keçileri, dağların dik yamaçlarında görülürken, kartallar ve şahinler gökyüzünde hüküm sürer. Sürüngenler, özellikle yüksek kesimlerde, kayalık alanlarda yaşar.
 
 Bu dağ ekosisteminin ekolojik değeri, yüksek dağ ekolojisi ve alpin çayırların varlığından kaynaklanır. Bu alan, endemik türlerin korunması ve göçmen kuşların geçiş noktaları olması nedeniyle önemlidir.
 

@@ -1,7 +1,7 @@
 ---
 title: "Vezir Hamamı"
 date: "2026-01-09T22:28:35.092Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Şanlıurfa"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738450"
 
 # Vezir Hamamı
 
-Vezir Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde bulunan ve Güneydoğu Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir plajdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açıdan doğal güzelliği sunmaktadır. Bu plaj, bölgenin en önemli turizm noktalarından biri olup, birçok ziyaretçi tarafından tercih edilmektedir. Vezir Hamamı, Şanlıurfa'nın tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini de keşfetmek isteyenler için ideal bir destinasyon olarak görülür.
+Vezir Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde bulunan ve Güneydoğu Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan bir plajdır. Bu plaj, bölgenin en önemli turizm noktalarından biri olup, birçok ziyaretçi tarafından tercih edilmektedir. Vezir Hamamı, Şanlıurfa'nın tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini de keşfetmek isteyenler için ideal bir destinasyon olarak görülür.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Vezir Hamamı'nın tarihi geçmişi, Şanlıurfa'nın tarihi ile paralel olara i
 
 ## Coğrafya
 
-Vezir Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde yer alır ve Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak oluşmuştur. Bu plaj, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Vezir Hamamı'nın coğrafi konumu, ziyaretçilere geniş bir açıdan doğal güzelliği sunar. Bu plaj, bölgenin jeolojik oluşumları ve su kaynakları ile şekillenmiştir. Vezir Hamamı'nın çevresi, zengin bir flora ve fauna ile kaplıdır ve ziyaretçilere doğa ile iç içe bir deneyim sunar. Bu plaj, bölgenin iklimine uygun olarak, yaz aylarında sıca ve kış aylarında ılıman bir hava sunar. Vezir Hamamı, Şanlıurfa'nın tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini de keşfetmek isteyenler için ideal bir destinasyon olarak görülür.
+Vezir Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde yer alır ve Güneydoğu Anadolu Bölgesi'nin coğrafi yapısına uygun olarak oluşmuştur. Vezir Hamamı'nın coğrafi konumu, ziyaretçilere geniş bir açıdan doğal güzelliği sunar. Bu plaj, bölgenin jeolojik oluşumları ve su kaynakları ile şekillenmiştir. Vezir Hamamı'nın çevresi, zengin bir flora ve fauna ile kaplıdır ve ziyaretçilere doğa ile iç içe bir deneyim sunar. Bu plaj, bölgenin iklimine uygun olarak, yaz aylarında sıca ve kış aylarında ılıman bir hava sunar. Vezir Hamamı, Şanlıurfa'nın tarihi ve kültürel zenginliklerinin yanı sıra doğal güzelliklerini de keşfetmek isteyenler için ideal bir destinasyon olarak görülür.
 
 ## Flora ve Fauna
 

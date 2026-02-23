@@ -1,7 +1,7 @@
 ---
 title: "Zindan Baba Türbesi"
 date: "2026-01-10T05:02:52.697Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kırklareli"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391465"
 
 # Zindan Baba Türbesi
 
-Zindan Baba Türbesi, Marmara Bölgesi'nin güzelliklerini gözler önüne seren bir nokta olarak karşımıza çıkıyor. Lüleburgaz ilçesinde yer alan bu tarihi ve doğal güzellik, 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Zindan Baba Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor.
+Zindan Baba Türbesi, Marmara Bölgesi'nin güzelliklerini gözler önüne seren bir nokta olarak karşımıza çıkıyor. Lüleburgaz ilçesinde yer alan bu tarihi ve doğal güzellik, 140 hektarlık bir alanı kapsıyor. Zindan Baba Türbesi, hem tarihi hem de doğal güzellikleriyle ziyaretçilerini bekliyor.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Zindan Baba Türbesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiştir.
 
 ## Coğrafya
 
-Zindan Baba Türbesi, coğrafi olarak Marmara Bölgesi'nin güzelliklerini gösteriyor. Lüleburgaz ilçesinde yer alan bu alan, 140 hektarlık bir büyüklüğe sahip. Bu bölge, doğal güzellikleriyle ziyaretçilerini çekiyor. Coğrafi konumu itibariyle, Marmara Denizi'ne yakın bir konumda yer alıyor. İklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Zindan Baba Türbesi'nin çevresi, yeşilin farklı tonlarını barındırıyor. Bu coğrafi güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
+Zindan Baba Türbesi, coğrafi olarak Marmara Bölgesi'nin güzelliklerini gösteriyor. Bu bölge, doğal güzellikleriyle ziyaretçilerini çekiyor. Coğrafi konumu itibariyle, Marmara Denizi'ne yakın bir konumda yer alıyor. İklimi, Marmara Bölgesi'nin karakteristik özelliklerini taşıyor. Bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Zindan Baba Türbesi'nin çevresi, yeşilin farklı tonlarını barındırıyor. Bu coğrafi güzellikler, ziyaretçilere doğayla iç içe bir deneyim sunuyor.
 
 ## Flora ve Fauna
 

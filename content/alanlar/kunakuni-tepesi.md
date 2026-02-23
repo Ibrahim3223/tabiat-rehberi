@@ -50,7 +50,7 @@ Bölgenin ekosistem bağlantıları bakımından da önemli bir role sahip olan 
 
 Künakuni Tepesi, Batman'ın yarı kurak ikliminin hakim olduğu bir bölgede, step ve ova ekolojisinin birleştiği bir dağ ekosistemi sunar. 1200 metre yükseklikteki bu bölge, yükseklik zonlarına bağlı olarak değişen bir flora ve fauna çeşitliliğine sahiptir.
 
-Bitki Örtüsü bölümünde, ilkbaharın gelişiyle birlikte, dağ yamaçlarında çiçeklerin açtığını görürüz. Sonbaharın gelmesiyle, otlar ve çalılar sararıp kururken, dağ keçileri ve yaban keçilerinin yaşam alanlarını oluşturan.step ve ova bitkileri hala yeşilliklerini korur. 
+Bitki Örtüsü bölümünde, ilkbaharın gelişiyle birlikte, dağ yamaçlarında çiçeklerin açtığını görürüz. Sonbaharın gelmesiyle, otlar ve çalılar sararıp kururken, dağ keçileri ve yaban keçilerinin yaşam alanlarını oluşturan.step ve ova bitkileri hala yeşilliklerini korur.
 
 Yaban Hayatı bölümünde, dağ keçileri, yaban keçileri, tilkiler ve çakallar gibi memelilerin yanı sıra, kartallar, şahinler ve atmacalar gibi kuş türlerini görürüz. Sürüngenler de bu dağ ekosisteminin bir parçasını oluşturur.
 

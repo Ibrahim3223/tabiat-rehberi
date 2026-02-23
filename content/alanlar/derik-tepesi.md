@@ -28,7 +28,7 @@ wikidata_id: "Q31552119"
 
 # Derik Tepesi
 
-Derik Tepesi, Mardin'in Derik ilçesinde yer alan ve coğrafi güzelliği ile dikkat çeken bir tepe. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu tepe, bölgede yaşayan halkın yaşam tarzı ve kültürünü yansıtan önemli bir nokta. Derik Tepesi, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Burada yapılan araştırmalar, tepe ve çevresinin yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yaptığını gösteriyor. Bu bölge, doğa severler ve tarihe merakı olanlar için önemli bir gezi noktası.
+Derik Tepesi, Mardin'in Derik ilçesinde yer alan ve coğrafi güzelliği ile dikkat çeken bir tepe. Bu tepe, bölgede yaşayan halkın yaşam tarzı ve kültürünü yansıtan önemli bir nokta. Derik Tepesi, aynı zamanda tarihi geçmişiyle de dikkat çekiyor. Burada yapılan araştırmalar, tepe ve çevresinin yüzyıllar boyunca çeşitli uygarlıklara ev sahipliği yaptığını gösteriyor. Bu bölge, doğa severler ve tarihe merakı olanlar için önemli bir gezi noktası.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Derik Tepesi'nin tarihi geçmişi, Mardin'in tarihi geçmişiyle bağlantılı. 
 
 ## Coğrafya
 
-Derik Tepesi, Mardin'in Derik ilçesinde yer alıyor. Bu tepe, coğrafi güzelliği ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde. Derik Tepesi, bölgede yaşayan halkın yaşam tarzı ve kültürünü yansıtan önemli bir nokta. Bu tepe, aynı zamanda iklimi ve çevresi nedeniyle de dikkat çekiyor. Derik Tepesi, bölgenin iklimi ılıman ve kurak. Bu tepe, aynı zamanda çevresi tarafından da dikkat çekiyor. Derik Tepesi, bölgede yaşayan halkın yaşam tarzı ve kültürünü yansıtan önemli bir nokta. Bu tepe, aynı zamanda coğrafi konumu nedeniyle de dikkat çekiyor. Derik Tepesi, bölgenin stratejik konumu nedeniyle de önemli bir gezi noktası.
+Derik Tepesi, Mardin'in Derik ilçesinde yer alıyor. Bu tepe, coğrafi güzelliği ile dikkat çekiyor. Derik Tepesi, bölgede yaşayan halkın yaşam tarzı ve kültürünü yansıtan önemli bir nokta. Bu tepe, aynı zamanda iklimi ve çevresi nedeniyle de dikkat çekiyor. Derik Tepesi, bölgenin iklimi ılıman ve kurak. Bu tepe, aynı zamanda çevresi tarafından da dikkat çekiyor. Derik Tepesi, bölgede yaşayan halkın yaşam tarzı ve kültürünü yansıtan önemli bir nokta. Bu tepe, aynı zamanda coğrafi konumu nedeniyle de dikkat çekiyor. Derik Tepesi, bölgenin stratejik konumu nedeniyle de önemli bir gezi noktası.
 
 ## Flora ve Fauna
 
@@ -49,7 +49,7 @@ Derik Tepesi, Mardin'in Derik ilçesinde yer alıyor. Bu tepe, coğrafi güzelli
 ## İlginç Bilgiler
 
 - Derik Tepesi, 140 hektarlık bir alana sahip.
-- Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Derik Tepesi, Mardin'in Derik ilçesinde yer alıyor.
 - Bu tepe, coğrafi güzelliği ve tarihi geçmişiyle dikkat çekiyor.
 - Derik Tepesi, doğa severler ve tarihe merakı olanlar için önemli bir gezi noktası.

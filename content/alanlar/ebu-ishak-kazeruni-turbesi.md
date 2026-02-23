@@ -1,7 +1,7 @@
 ---
 title: "Ebu İshak Kazeruni Türbesi"
 date: "2026-01-10T06:58:22.922Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Erzurum"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390804"
 
 # Ebu İshak Kazeruni Türbesi
 
-Ebu İshak Kazeruni Türbesi, Erzurum'un Yakutiye ilçesinde yer alan tarihi bir dini merkez. Bu önemli türbe, yaklaşık 140 hektarlık bir alan içinde yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde. Ebu İshak Kazeruni Türbesi, hem dini hem de kültürel açıdan büyük bir önem taşıyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. Ebu İshak Kazeruni Türbesi, ziyaretçilerini tarihin sâuına götürmeye hazırlanıyor.
+Ebu İshak Kazeruni Türbesi, Erzurum'un Yakutiye ilçesinde yer alan tarihi bir dini merkez. Bu önemli türbe, yaklaşık 140 hektarlık bir alan içinde yer alıyor. Ebu İshak Kazeruni Türbesi, hem dini hem de kültürel açıdan büyük bir önem taşıyor. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. Ebu İshak Kazeruni Türbesi, ziyaretçilerini tarihin derinına götürmeye hazırlanıyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Ebu İshak Kazeruni Türbesi, çeşitli bitki türleri ve zengin fauna ile kapl�
 
 ## Ziyaret Bilgileri
 
-Ebu İshak Kazeruni Türbesi, ziyaretçilere yıl boyunca açık. Ziyaretçiler, türbeyi gezerek tarihin sâuına girebiliyorlar. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. Ziyaretçiler, mevsimsel değişimlere göre farklı bir deneyim yaşayabiliyorlar. Kışın, kar yağışlı ve soğuk bir hava hakimken, yazın ise sıcak ve kurak bir hava hakim. Ziyaretçiler, türbeyi ziyaret ederken, bölgenin doğal ve kültürel zenginliklerini keşfetme fırsatı buluyorlar.
+Ebu İshak Kazeruni Türbesi, ziyaretçilere yıl boyunca açık. Ziyaretçiler, türbeyi gezerek tarihin derinına girebiliyorlar. Türbenin etrafında, çeşitli bitki türleri ve zengin fauna encontrabilir. Ziyaretçiler, mevsimsel değişimlere göre farklı bir deneyim yaşayabiliyorlar. Kışın, kar yağışlı ve soğuk bir hava hakimken, yazın ise sıcak ve kurak bir hava hakim. Ziyaretçiler, türbeyi ziyaret ederken, bölgenin doğal ve kültürel zenginliklerini keşfetme fırsatı buluyorlar.
 
 ## İlginç Bilgiler
 

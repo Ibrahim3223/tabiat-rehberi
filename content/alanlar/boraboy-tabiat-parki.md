@@ -23,7 +23,7 @@ wikidata_id: "Q108228408"
 
 # Boraboy Tabiat Parkı
 
-Amasya'nın yeşil cenneti Boraboy Tabiat Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Bu muhteşem alan, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Boraboy Tabiat Parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak gösteriliyor. Parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Boraboy Tabiat Parkı, doğa severler için gerçek bir cennet olarak kabul ediliyor.
+ Bu muhteşem alan, ziyaretçilerine doğanın güzelliklerini keşfetme fırsatı sunuyor. Boraboy Tabiat Parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak gösteriliyor. Parkın içerisinde, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Boraboy Tabiat Parkı, doğa severler için gerçek bir cennet olarak kabul ediliyor.
 
 ## Tarihçe
 

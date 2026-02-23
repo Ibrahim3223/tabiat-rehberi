@@ -1,7 +1,7 @@
 ---
 title: "Gazanfer Ağa Türbesi"
 date: "2026-01-10T07:21:17.387Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391014"
 
 # Gazanfer Ağa Türbesi
 
-Gazanfer Ağa Türbesi, İstanbul'un tarihi ilçesi Fatih'te, Marmara Bölgesi'nin kalbinde yer alan bir türbe ve plaj alanıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un önemli tarihi noktalarından biridir. Gazanfer Ağa Türbesi, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. İstanbul'un kalabalık streetsinden uzak, sakin bir ortamda tarih ve doğayı bir arada deneyimlemek isteyenler için ideal bir destinasyon.
+Gazanfer Ağa Türbesi, İstanbul'un tarihi ilçesi Fatih'te, Marmara Bölgesi'nin kalbinde yer alan bir türbe ve plaj alanıdır. Gazanfer Ağa Türbesi, tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini bekliyor. İstanbul'un kalabalık streetsinden uzak, sakin bir ortamda tarih ve doğayı bir arada deneyimlemek isteyenler için ideal bir destinasyon.
 
 ## Tarihçe
 

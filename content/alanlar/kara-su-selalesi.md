@@ -45,7 +45,7 @@ Kara su şelalesi, bölgenin doğal güzellikleri arasında yer alır ve ziyaret
 
 ## Ziyaret Bilgileri
 
-Kara su şelalesi, yıl boyunca birçok ziyaretçi tarafından ziyaret edilir. Şelaleye ulaşım, Kars şehrinin merkezinden uzun bir mesafe uzaklıkta yer alan bir yol ile mümkündür. Ziyaretçilerin, şelaleye ulaşım için yaklaşık 30 dakika sürebilir. Şelale, ziyaretçilerine birçok aktivite sunar. Ziyaretçiler, şelalenin etrafında yürüyüş yapabilir, şelalenin suyunda balık tutabilir veya şelalenin yüksekliğine tırmanabilir. Kara su şelalesi, ziyaretçilerine unutulmaz bir deneyim sunar.
+Kara su şelalesi, yıl boyunca birçok ziyaretçi tarafından ziyaret edilir. Şelaleye ulaşım, Kars şehrinin merkezinden uzun bir mesafe uzaklıkta yer alan bir yol ile mümkündür. Ziyaretçilerin, şelaleye ulaşım için yaklaşık 30 dakika sürebilir. Şelale, ziyaretçilerine birçok aktivite sunar. Ziyaretçiler, şelalenin etrafında yürüyüş yapabilir, şelalenin suyunda balık tutabilir veya şelalenin yüksekliğine tırmanabilir.
 
 ## İlginç Bilgiler
 

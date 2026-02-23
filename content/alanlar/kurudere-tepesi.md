@@ -28,7 +28,7 @@ wikidata_id: "Q31385570"
 
 # Kurudere Tepesi
 
-Kurudere Tepesi, İç Anadolu Bölgesi'nin kalbinde, Niğde ilinde yer alan bir doğa harikasıdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennettir. Tepenin eteklerinde yer alan köyler, misafirlerine sıcak bir karşılama sunarken, tepeye tırmanırken manzaralar bir güzelleşir. Kurudere Tepesi, doğa severlerin ve macera arayanların gözdesidir. Burada, doğanın güzelliği ile birlikte, tarihin izlerini de görme mümkündür.
+Kurudere Tepesi, İç Anadolu Bölgesi'nin kalbinde, Niğde ilinde yer alan bir doğa harikasıdır. Tepenin eteklerinde yer alan köyler, misafirlerine sıcak bir karşılama sunarken, tepeye tırmanırken manzaralar bir güzelleşir. Kurudere Tepesi, doğa severlerin ve macera arayanların gözdesidir. Burada, doğanın güzelliği ile birlikte, tarihin izlerini de görme mümkündür.
 
 ## Tarihçe
 

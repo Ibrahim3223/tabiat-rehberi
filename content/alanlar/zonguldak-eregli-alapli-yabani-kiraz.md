@@ -22,7 +22,7 @@ wikidata_id: "Q108228263"
 
 # Zonguldak-Ereğli-Alaplı-Yabani kiraz
 
-Zonguldak-Ereğli-Alaplı-Yabani kiraz milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu geniş yeşil alanda çeşitli bitki türleri ve zengin fauna encontruyor. Milli parkın etrafı, yüksek dağlarla çevrili ve bu dağlar, ziyaretçilere eşsiz manzaralar sunuyor. Parkın içinde, yürüyüş yolları, piknik alanları ve göletler gibi birçok aktivite için uygun alanlar bulunuyor.
+Zonguldak-Ereğli-Alaplı-Yabani kiraz milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor. Milli parkın etrafı, yüksek dağlarla çevrili ve bu dağlar, ziyaretçilere eşsiz manzaralar sunuyor. Parkın içinde, yürüyüş yolları, piknik alanları ve göletler gibi birçok aktivite için uygun alanlar bulunuyor.
 
 ## Tarihçe
 

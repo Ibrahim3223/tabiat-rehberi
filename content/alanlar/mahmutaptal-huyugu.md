@@ -28,7 +28,7 @@ wikidata_id: "Q32124157"
 
 # Mahmutaptal Hüyüğü
 
-Mahmutaptal Hüyüğü, Hatay'ın zengin tarihi ve coğrafi güzelliklerini bir araya getiren özel bir yer. Bu alanda, yaklaşık 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde. Mahmutaptal Hüyüğü, Akdeniz Bölgesi'nin önemli kültür miraslarından biri olarak dikkat çekiyor. Bu tarihi tepe, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Mahmutaptal Hüyüğü'nü ziyaret etmek, tarihin derinliklerine bir yolculuk yapmak anlamına geliyor.
+Mahmutaptal Hüyüğü, Hatay'ın zengin tarihi ve coğrafi güzelliklerini bir araya getiren özel bir yer. Mahmutaptal Hüyüğü, Akdeniz Bölgesi'nin önemli kültür miraslarından biri olarak dikkat çekiyor. Bu tarihi tepe, yüzyıllar boyunca çeşitli medeniyetlerin izlerini taşıyor. Mahmutaptal Hüyüğü'nü ziyaret etmek, tarihin derinliklerine bir yolculuk yapmak anlamına geliyor.
 
 ## Tarihçe
 

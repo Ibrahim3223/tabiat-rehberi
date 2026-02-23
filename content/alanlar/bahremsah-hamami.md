@@ -1,7 +1,7 @@
 ---
 title: "Bahremşah Hamamı"
 date: "2026-01-09T22:34:00.298Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Sivas"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738708"
 
 # Bahremşah Hamamı
 
-Bahremşah Hamamı, Sivas'ın Divriği ilçesinde yer alan ve hem tarihi hem de doğal güzellikleriyle dikkat çeken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlik, ziyaretçilere geniş bir keşif alanı sunuyor. Bu alan, hem tarihi yapılarıyla hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Bahremşah Hamamı, ziyaretçilerine hem tarihî bir gezi hem de doğayla iç içe bir deneyim sunuyor.
+Bahremşah Hamamı, Sivas'ın Divriği ilçesinde yer alan ve hem tarihi hem de doğal güzellikleriyle dikkat çeken bir destinasyon. Bu alan, hem tarihi yapılarıyla hem de doğal güzelliği ile ziyaretçilerini cezbediyor. Bahremşah Hamamı, ziyaretçilerine hem tarihî bir gezi hem de doğayla iç içe bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -45,7 +45,7 @@ Bahremşah Hamamı, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor
 
 ## Ziyaret Bilgileri
 
-Bahremşah Hamamı, ziyaretçilere çeşitli deneyimler sunuyor. Ziyaretçiler, Bahremşah Hamamı'na nasıl gidileceği, ne zaman gidilmesi gerektiği ve ne yapılacağı hakkında bilgi sahibi olmak istiyorlar. Bahremşah Hamamı, ziyaretçilere hem tarihi bir gezi hem de doğayla iç içe bir deneyim sunuyor. Ziyaretçilerin, Bahremşah Hamamı'nı ziyaret etmeleri için en uygun zaman, ilkbahar ve yaz ayları olabilir. Bu dönemde, régionun doğal güzelliği daha belirgin oluyor. Bahremşah Hamamı, ziyaretçilere çeşitli faaliyetler sunuyor.
+Bahremşah Hamamı, ziyaretçilere çeşitli deneyimler sunuyor. Ziyaretçiler, Bahremşah Hamamı'na nasıl gidileceği, ne zaman gidilmesi gerektiği ve ne yapılacağı hakkında bilgi sahibi olmak istiyorlar. Bahremşah Hamamı, ziyaretçilere hem tarihi bir gezi hem de doğayla iç içe bir deneyim sunuyor. Ziyaretçilerin, Bahremşah Hamamı'nı ziyaret etmeleri için en uygun zaman, ilkbahar ve yaz ayları olabilir. Bu dönemde, bölgenin doğal güzelliği daha belirgin oluyor. Bahremşah Hamamı, ziyaretçilere çeşitli faaliyetler sunuyor.
 
 ## İlginç Bilgiler
 

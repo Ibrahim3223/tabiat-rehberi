@@ -28,7 +28,7 @@ wikidata_id: "Q35731366"
 
 # Büyükhüyük Tepesi
 
-Büyükhüyük Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde ve çevresi ile birlikte güzel bir manzara sunuyor. Büyükhüyük Tepesi, Ankara'nın merkezi bir konumunda yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor ve bu durum, bölgenin ekolojik zenginliğini gösteriyor. Büyükhüyük Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılıyor ve buradan Ankara'nın panoramik manzarasını izleme mümkün.
+Büyükhüyük Tepesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kaplayan bir tepe. Büyükhüyük Tepesi, Ankara'nın merkezi bir konumunda yer alıyor ve şehrin gürültüsünden uzaklaşmak isteyenler için ideal bir kaçış noktası. Tepenin eteklerinde çeşitli bitki türleri ve ağaçlar yer alıyor ve bu durum, bölgenin ekolojik zenginliğini gösteriyor. Büyükhüyük Tepesi, aynı zamanda bir gözlem noktası olarak da kullanılıyor ve buradan Ankara'nın panoramik manzarasını izleme mümkün.
 
 ## Tarihçe
 

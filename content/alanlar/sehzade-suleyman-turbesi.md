@@ -1,7 +1,7 @@
 ---
 title: "Şehzade Süleyman Türbesi"
 date: "2026-01-10T07:35:13.992Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Bursa"

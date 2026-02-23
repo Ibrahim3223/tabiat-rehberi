@@ -51,7 +51,7 @@ Fırat Yılmaz Çakıroğlu Parkı, İzmir'in şehir yaşamının içinde yer al
 
 ## Flora ve Fauna
 
-Fırat Yılmaz Çakıroğlu Parkı, İzmir'in kalbinde yer alan 1200 hektarlık bir botanik bahçesi olarak, step bitki örtüsünün ve bozkırın karakteristik özelliklerini taşıyor. İlkbaharın gelmesiyle birlikte, parkın çayırları rengarenk çiçeklerle kaplanıyor. Bu mevsimde, kuraklığa adapte olmuş bitki türleri, güneşin ılık ışıklarını emerek büyürler. 
+Fırat Yılmaz Çakıroğlu Parkı, İzmir'in kalbinde yer alan 1200 hektarlık bir botanik bahçesi olarak, step bitki örtüsünün ve bozkırın karakteristik özelliklerini taşıyor. İlkbaharın gelmesiyle birlikte, parkın çayırları rengarenk çiçeklerle kaplanıyor. Bu mevsimde, kuraklığa adapte olmuş bitki türleri, güneşin ılık ışıklarını emerek büyürler.
 
 Parkın yaban hayatı, bu ekosistemin çeşitliliğini gösteren bir zenginlik sunuyor. Memeliler ve kuşlar, bu step ve bozkır ortamında yaşamlarını sürdürürken, sürüngenler de güneşin sıcaklığını paylaşmak için ortaya çıkıyorlar. Sonbaharın gelmesiyle birlikte, bazı kuş türleri göç ederken, diğerleri bu bölgede kalır ve parkın canlılığını sürdürürler.
 

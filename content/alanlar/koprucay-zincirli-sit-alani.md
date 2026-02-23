@@ -1,7 +1,7 @@
 ---
 title: "Köprüçay Zincirli Sit Alanı"
 date: "2026-01-09T19:31:46.078Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"
@@ -22,7 +22,7 @@ wikidata_id: "Q108226651"
 
 # Köprüçay Zincirli Sit Alanı
 
-Köprüçay Zincirli Sit Alanı, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık geniş bir alana yayılmış bir doğa harikasıdır. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, hem ziyaretçilere hem de bölgedeki canlılara ev sahipliği yapıyor. Bu muhteşem sit alanı, yaban hayatının çeşitliliği ve doğal güzelliği ile ziyaretçilerini büyülüyor. Doğa severler, bu alanın sunduğu benzersiz deneyimle, anın güzelliğini keşfedebilirler.
+Köprüçay Zincirli Sit Alanı, İç Anadolu Bölgesi'nin kalbinde, 140 hektarlık geniş bir alana yayılmış bir doğa harikasıdır. Bu muhteşem sit alanı, yaban hayatının çeşitliliği ve doğal güzelliği ile ziyaretçilerini büyülüyor. Doğa severler, bu alanın sunduğu benzersiz deneyimle, anın güzelliğini keşfedebilirler.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Köprüçay Zincirli Sit Alanı, yüzyıllar boyunca bölgenin ekolojik dengesin
 
 ## Coğrafya
 
-Köprüçay Zincirli Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından birisidir. 140 hektarlık bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal sit alanlarından birisidir. Bu área, zengin fauna ve flora çeşitliliğiyle birlikte, ziyaretçilere benzersiz bir deneyim sunar. Alanın coğrafi konumu, çeşitli bitki türlerinin ve hayvanların yaşam alanı olarak hizmet eder. İklim, mevsimsel değişimlere göre farklılık gösterir ve bu da bölgenin ekolojik çeşitliliğini artırır. Köprüçay Zincirli Sit Alanı, ziyaretçilerini doğal güzelliği ve zengin ekosistemiyle büyüler.
+Köprüçay Zincirli Sit Alanı, İç Anadolu Bölgesi'nin coğrafi olarak en dikkat çekici noktalarından birisidir. Bu área, zengin fauna ve flora çeşitliliğiyle birlikte, ziyaretçilere benzersiz bir deneyim sunar. Alanın coğrafi konumu, çeşitli bitki türlerinin ve hayvanların yaşam alanı olarak hizmet eder. İklim, mevsimsel değişimlere göre farklılık gösterir ve bu da bölgenin ekolojik çeşitliliğini artırır. Köprüçay Zincirli Sit Alanı, ziyaretçilerini doğal güzelliği ve zengin ekosistemiyle büyüler.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,7 @@ Köprüçay Zincirli Sit Alanı, ziyaretçilerine benzersiz bir deneyim sunar. B
 ## İlginç Bilgiler
 
 - Köprüçay Zincirli Sit Alanı, 140 hektarlık bir alana yayılmıştır.
-- Bu alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Köprüçay Zincirli Sit Alanı, zengin fauna ve flora çeşitliliğine ev sahipliği yapar.
 - Bu sit alanı, doğa severler için bir cennettir.
 - Köprüçay Zincirli Sit Alanı, İç Anadolu Bölgesi'nin en önemli doğal sit alanlarından birisidir.

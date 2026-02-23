@@ -1,7 +1,7 @@
 ---
 title: "II. Selim Türbesi"
 date: "2026-01-10T07:50:38.793Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391103"
 
 # II. Selim Türbesi
 
-II. Selim Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi türbedir. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanın içinde bulunmaktadır. Türbenin konumu, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini sunmaktadır. 16. yüzyılda inşa edilen II. Selim Türbesi, Osmanlı mimarisinin önemli örneklerinden biridir. Türbenin çevresindeki yeşil alan, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunmaktadır.
+II. Selim Türbesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi türbedir. Türbenin konumu, ziyaretçilere hem tarihi bir deneyim hem de doğanın güzelliğini sunmaktadır. 16. yüzyılda inşa edilen II. Selim Türbesi, Osmanlı mimarisinin önemli örneklerinden biridir. Türbenin çevresindeki yeşil alan, ziyaretçilere dinlenme ve doğayı seyretme imkanı sunmaktadır.
 
 ## Tarihçe
 

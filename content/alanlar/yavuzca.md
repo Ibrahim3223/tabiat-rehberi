@@ -50,11 +50,11 @@ Mevsimsel açıdan bakıldığında, Yavuzca adası Ege Bölgesi'nin genel iklim
 
 ## Flora ve Fauna
 
-Yavuzca adası, Ege'nin göbeğinde yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Step bitki örtüsü ve bozkırın hakim olduğu bu ada, kuraklığa adapte olmuş türlerle dolu. 
+Yavuzca adası, Ege'nin göbeğinde yer alan bir doğa cenneti. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Step bitki örtüsü ve bozkırın hakim olduğu bu ada, kuraklığa adapte olmuş türlerle dolu.
 
-İlkbaharla birlikte, ada çiçeklerle donanıyor. Kıyı bitkileri, deniz kuşlarının yuvalarını oluşturmak için ideal bir ortam sağlıyor. Sonbaharda, göç eden kuşlar adayı ziyaret ediyor ve burada konaklıyorlar. 
+İlkbaharla birlikte, ada çiçeklerle donanıyor. Kıyı bitkileri, deniz kuşlarının yuvalarını oluşturmak için ideal bir ortam sağlıyor. Sonbaharda, göç eden kuşlar adayı ziyaret ediyor ve burada konaklıyorlar.
 
-Adanın yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. İzole popülasyonlar, adanın ekosisteminin benzersizliğini koruyor. Deniz kuşları, ada için hayatî önem taşıyor ve kıyı bitkileri, onların yuvalarını oluşturmak için gerekli ortamı sağlıyor. 
+Adanın yaban hayatı, memeliler, kuşlar ve sürüngenlerle dolu. İzole popülasyonlar, adanın ekosisteminin benzersizliğini koruyor. Deniz kuşları, ada için hayatî önem taşıyor ve kıyı bitkileri, onların yuvalarını oluşturmak için gerekli ortamı sağlıyor.
 
 Yavuzca adasının ekolojik değeri, burada yaşayan türlerin çeşitliliği ve adanın izole konumuyla açıklanabilir. Ada, deniz kuşları için önemli bir konaklama alanı ve kıyı bitkileri için bir yaşam ortamı sunuyor.
 

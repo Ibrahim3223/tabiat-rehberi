@@ -1,7 +1,7 @@
 ---
 title: "Gazi Atik Ali Paşa Camii Yangın Havuzu"
 date: "2026-01-09T09:51:56.042Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "gol"
 il: "İstanbul"

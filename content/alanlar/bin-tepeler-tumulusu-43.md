@@ -29,7 +29,7 @@ wikidata_id: "Q134728330"
 
 # Bin Tepeler Tümülüsü 43
 
-Bin Tepeler Tümülüsü 43, Ege Bölgesi'nin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir nokta. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip, ki bu yaklaşık 200 futbol sahası büyüklüğüne denk geliyor. Ziyaretçiler, buraya gelerek hem tarihi bir tümülüsle karşılaşma fırsatı buluyor hem de Ege'nin güneşli iklimini ve yeşilin her tonunu görebiliyorlar. Bin Tepeler Tümülüsü 43, Salihli'nin merkezine yakınlığıyla da dikkat çekiyor, bu sayede ziyaretçiler hem tarihi hem de modern yaşamın sunduğu olanaklardan yararlanabiliyorlar.
+Bin Tepeler Tümülüsü 43, Ege Bölgesi'nin tarihi ve doğal güzelliklerinin bir araya geldiği özel bir nokta. Ziyaretçiler, buraya gelerek hem tarihi bir tümülüsle karşılaşma fırsatı buluyor hem de Ege'nin güneşli iklimini ve yeşilin her tonunu görebiliyorlar. Bin Tepeler Tümülüsü 43, Salihli'nin merkezine yakınlığıyla da dikkat çekiyor, bu sayede ziyaretçiler hem tarihi hem de modern yaşamın sunduğu olanaklardan yararlanabiliyorlar.
 
 ## Tarihçe
 

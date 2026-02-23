@@ -1,7 +1,7 @@
 ---
 title: "Lazlar Hamamı"
 date: "2026-01-10T04:30:41.538Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Marmara Bölgesi"
@@ -29,7 +29,7 @@ wikidata_id: "Q118947930"
 
 # Lazlar Hamamı
 
-Lazlar Hamamı, Marmara Bölgesi'nin Karesi ilçesinde bulunan, 140 hektarlık geniş yeşil alanıyla dikkat çeken bir plajdır. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerine geniş bir etkinli ve dinlenme alanı sunar. Lazlar Hamamı, doğal güzelliği ve genişliğiyle, bölgenin önemli turizm noktalarından biri olarak kabul edilir. Burada, hem deniz hem de yeşil alanın keyfini çıkarabilirsiniz. Lazlar Hamamı, özellikle yaz aylarında, serinleme ve doğanın güzelliğini hissetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkar.
+Lazlar Hamamı, Marmara Bölgesi'nin Karesi ilçesinde bulunan, 140 hektarlık geniş yeşil alanıyla dikkat çeken bir plajdır. Lazlar Hamamı, doğal güzelliği ve genişliğiyle, bölgenin önemli turizm noktalarından biri olarak kabul edilir. Burada, hem deniz hem de yeşil alanın keyfini çıkarabilirsiniz. Lazlar Hamamı, özellikle yaz aylarında, serinleme ve doğanın güzelliğini hissetmek isteyenler için ideal bir destinasyon olarak karşımıza çıkar.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Lazlar Hamamı'nın tarihi geçmişi, bölgenin genel tarihine paralel olarak ş
 
 ## Coğrafya
 
-Lazlar Hamamı, Marmara Bölgesi'nin Karesi ilçesinde, deniz kıyısında yer alır. 140 hektarlık geniş bir yeşil alanla çevrili olan bu plaj, 200 futbol sahası büyüklüğündedir. Plajın coğrafi konumu, ziyaretçilerine geniş bir sahil şeridi sunar. Lazlar Hamamı, özellikle yaz aylarında, güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir destinasyon olarak bekannttır. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna found, bu da alanı, doğa severler için bir cennet haline getirir. Lazlar Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, ılıman ve yağışlıdır. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve güneşlidir. Bu iklim, plajın yeşillendirilmesini ve bitki çeşitliliğini destekler.
+Lazlar Hamamı, Marmara Bölgesi'nin Karesi ilçesinde, deniz kıyısında yer alır. Plajın coğrafi konumu, ziyaretçilerine geniş bir sahil şeridi sunar. Lazlar Hamamı, özellikle yaz aylarında, güneşin ve denizin keyfini çıkarmak isteyenler için ideal bir destinasyon olarak bekannttır. Plajın çevresinde, çeşitli bitki türleri ve zengin fauna found, bu da alanı, doğa severler için bir cennet haline getirir. Lazlar Hamamı'nın iklimi, Marmara Bölgesi'nin genel iklimine uygun olarak, ılıman ve yağışlıdır. Kış ayları soğuk ve yağışlı, yaz ayları ise sıcak ve güneşlidir. Bu iklim, plajın yeşillendirilmesini ve bitki çeşitliliğini destekler.
 
 ## Flora ve Fauna
 
@@ -50,7 +50,7 @@ Lazlar Hamamı, yılın her mevsiminde ziyaret edilebilir. Ancak, en iyi ziyaret
 ## İlginç Bilgiler
 
 - Lazlar Hamamı, 140 hektarlık bir yeşil alana sahiptir.
-- Plaj, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Lazlar Hamamı, Marmara Bölgesi'nin Karesi ilçesinde yer alır.
 - Plajın adı, bölgede yaşayan Laz toplumuna atıfta bulunmakta olup, kültürel ve tarihi bir significance taşır.
 - Lazlar Hamamı, yüzyıllar boyunca, bölgede yaşayan halkın önemli bir buluşma noktası olarak görev almış ve günümüze kadar ulaşan önemli bir miras olarak kabul edilir.

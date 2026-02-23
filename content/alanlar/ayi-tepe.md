@@ -28,7 +28,7 @@ wikidata_id: "Q31389412"
 
 # Ayı Tepe
 
-Ayı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor. Ayı Tepe, Mersin'in gizli cennetlerinden biri olarak bilinir ve doğa severleri kendine çekmektedir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayı Tepe, hem doğa tutkunları hem de macera arayışında olanların ziyaret etmesi gereken bir yer.
+Ayı Tepe, Mersin'in Akdeniz Bölgesi'nde yer alan ve yaklaşık 140 hektarlık bir alanı kapsayan bir doğa harikasıdır. Ayı Tepe, Mersin'in gizli cennetlerinden biri olarak bilinir ve doğa severleri kendine çekmektedir. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Ayı Tepe, hem doğa tutkunları hem de macera arayışında olanların ziyaret etmesi gereken bir yer.
 
 ## Tarihçe
 

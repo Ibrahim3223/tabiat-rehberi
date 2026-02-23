@@ -28,7 +28,7 @@ wikidata_id: "Q32139721"
 
 # Güvercinlik Tepesi
 
-Güvercinlik Tepesi, Tokat'ın merkezine yakın bir konumda yer alan ve şehrin önemli doğal güzelliklerinden biri olan bir tepe. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin panoramik manzarasını sunuyor. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için çekici kılıyor. Ayrıca, tepe üzerinde bulunan tarihi yapılar ve anıtlar, ziyaretçilerin ilgisini çekiyor.
+Güvercinlik Tepesi, Tokat'ın merkezine yakın bir konumda yer alan ve şehrin önemli doğal güzelliklerinden biri olan bir tepe. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunması, bu alanı doğa severler için çekici kılıyor. Ayrıca, tepe üzerinde bulunan tarihi yapılar ve anıtlar, ziyaretçilerin ilgisini çekiyor.
 
 ## Tarihçe
 

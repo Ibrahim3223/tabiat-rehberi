@@ -28,7 +28,7 @@ wikidata_id: "Q31387701"
 
 # Buzağı Tepesi
 
-Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un muhteşem manzaralarına ev sahipliği yapan Buzağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir açıklık sunuyor. Buzağı Tepesi, hem doğal güzelliği hem de coğrafi konumu ile dikkat çekici bir destinasyon olarak öne çıkıyor. Bu tepe, Erzurum'un önemli bir bölümünü kapsayan geniş bir görüş açısına sahip ve ziyaretçilerini büyüleyici bir manzara ile karşılıyor.
+Doğu Anadolu Bölgesi'nin kalbinde, Erzurum'un muhteşem manzaralarına ev sahipliği yapan Buzağı Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Buzağı Tepesi, hem doğal güzelliği hem de coğrafi konumu ile dikkat çekici bir destinasyon olarak öne çıkıyor. Bu tepe, Erzurum'un önemli bir bölümünü kapsayan geniş bir görüş açısına sahip ve ziyaretçilerini büyüleyici bir manzara ile karşılıyor.
 
 ## Tarihçe
 

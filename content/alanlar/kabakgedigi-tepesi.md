@@ -28,7 +28,7 @@ wikidata_id: "Q31536806"
 
 # Kabakgediği Tepesi
 
-Kilis ilinin güneydoğusunda yer alan Kabakgediği Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir. Kabakgediği Tepesi, ziyaretçilerine hem doğal güzelliğini hem de tarihi değerlerini sunar. Tepenin etrafında yer alan köyler ve kasabalar, bölgenin kültürel zenginliğini yansıtır. Kabakgediği Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak kabul edilir.
+Kilis ilinin güneydoğusunda yer alan Kabakgediği Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. Kabakgediği Tepesi, ziyaretçilerine hem doğal güzelliğini hem de tarihi değerlerini sunar. Tepenin etrafında yer alan köyler ve kasabalar, bölgenin kültürel zenginliğini yansıtır. Kabakgediği Tepesi, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 

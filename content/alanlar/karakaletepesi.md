@@ -28,7 +28,7 @@ wikidata_id: "Q31388027"
 
 # KarakaleTepesi
 
-KarakaleTepesi, Kütahya'nın Ege Bölgesi'nde yer alan bir tepe ve aynı zamanda çevresindeki yeşil alanı kapsayan bir doğa harikasıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu bölge, hem doğa severlerin hem de tarihe merakı olanların ilgisini çekecek bir destinasyon. KarakaleTepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişini sunuyor.
+KarakaleTepesi, Kütahya'nın Ege Bölgesi'nde yer alan bir tepe ve aynı zamanda çevresindeki yeşil alanı kapsayan bir doğa harikasıdır. Bu bölge, hem doğa severlerin hem de tarihe merakı olanların ilgisini çekecek bir destinasyon. KarakaleTepesi, ziyaretçilerine hem doğal güzellikleri hem de tarihi geçmişini sunuyor.
 
 ## Tarihçe
 

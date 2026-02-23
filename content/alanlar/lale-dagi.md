@@ -48,9 +48,9 @@ Lale Dağı, çevresindeki geniş ovaları ve su kaynaklarıyla birlikte bir eko
 
 ## Flora ve Fauna
 
-Lale Dağı, Konya'nın.step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde renkli çiçekler açar ve dağ ekosisteminin güzelliği ortaya çıkar. 
+Lale Dağı, Konya'nın.step bitki örtüsü ve bozkır ekosistemine ev sahipliği yapan bir dağdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ eteklerinde renkli çiçekler açar ve dağ ekosisteminin güzelliği ortaya çıkar.
 
-Bitki örtüsü olarak, step ve bozkır türleri hakimdir. Bu türler, kuraklığa adapte olmuş ve dağın yükseklik zonlarına göre çeşitlilik gösterir. Dağın yüksek kesimlerinde, alpin flora çeşitliliği dikkat çeker. 
+Bitki örtüsü olarak, step ve bozkır türleri hakimdir. Bu türler, kuraklığa adapte olmuş ve dağın yükseklik zonlarına göre çeşitlilik gösterir. Dağın yüksek kesimlerinde, alpin flora çeşitliliği dikkat çeker.
 
 Lale Dağı, yaban hayatı açısından da zengin bir alandır. Dağ keçileri, dağ kedileri gibi memeliler, kartallar, şahinler gibi kuşlar ve çeşitli sürüngenler bu bölgede yaşar. Bu canlılar, dağ ekosisteminin önemli bir parçasını oluşturur ve ekolojik dengenin korunmasına katkı sağlar.
 

@@ -67,4 +67,4 @@ Kartallık İni'ne gitmek için Mersin'den araçla yaklaşık 1 saatlik bir yolc
 - Kartallık İni, 2012 yılında jeopark olarak ilan edilmiştir.
 - Mersin'in turizm potansiyelini artıran doğal güzelliklerden biridir.
 - İni, doğa yürüyüşü ve mağara turizmi için elverişli bir bölgedir.
-- Kartallık İni, ziyaretçilerine históri ve jeolojik öneme sahip bir deneyim sunar.
+- Kartallık İni, ziyaretçilerine tarihi ve jeolojik öneme sahip bir deneyim sunar.

@@ -1,7 +1,7 @@
 ---
 title: "Aşıklı Sultan Türbesi"
 date: "2026-01-10T06:57:57.307Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Kastamonu"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390855"
 
 # Aşıklı Sultan Türbesi
 
-Aşıklı Sultan Türbesi, Kastamonu'nun merkezinde yer alan ve tarihi ile doğası birlikte bulunan özel bir plajdır. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezinden kolayca ulaşılabilir. Aşıklı Sultan Türbesi, Kastamonu'nun önemli tarihi mekanlarından biridir ve aynı zamanda doğal güzelliği ile de dikkat çekmektedir. Bu bölge, hem tarihin hem de doğanın bir arada bulunabileceği ender yerlerden biridir.
+Aşıklı Sultan Türbesi, Kastamonu'nun merkezinde yer alan ve tarihi ile doğası birlikte bulunan özel bir plajdır. Aşıklı Sultan Türbesi, Kastamonu'nun önemli tarihi mekanlarından biridir ve aynı zamanda doğal güzelliği ile de dikkat çekmektedir. Bu bölge, hem tarihin hem de doğanın bir arada bulunabileceği ender yerlerden biridir.
 
 ## Tarihçe
 

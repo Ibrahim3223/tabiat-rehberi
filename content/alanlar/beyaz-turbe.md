@@ -1,7 +1,7 @@
 ---
 title: "Beyaz Türbe"
 date: "2026-01-10T05:03:18.188Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Diyarbakır"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391499"
 
 # Beyaz Türbe
 
-Beyaz Türbe, Güneydoğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak Diyarbakır'ın Sur ilçesinde yer alıyor. Bu plaj, yaklaşık 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsıyor. Beyaz Türbe, güneşin ve denizin keyfini çıkarmak için ideal bir yer. Plajın kumları beyaz ve ince, suyu ise berra ve serin. Bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekiyor.
+Beyaz Türbe, Güneydoğu Anadolu Bölgesi'nin en güzel plajlarından biri olarak Diyarbakır'ın Sur ilçesinde yer alıyor. Beyaz Türbe, güneşin ve denizin keyfini çıkarmak için ideal bir yer. Plajın kumları beyaz ve ince, suyu ise berra ve serin. Bu plaj, hem yerli hem de yabancı turistlerin ilgisini çekiyor.
 
 ## Tarihçe
 

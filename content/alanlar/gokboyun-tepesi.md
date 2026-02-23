@@ -28,7 +28,7 @@ wikidata_id: "Q32223479"
 
 # Gökboyun Tepesi
 
-Gökboyun Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve ziyaretçilerini doğanın güzellikleriyle karşılayan bir tepe. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve doğa severlerin keyif alacağı bir mekan. Gökboyun Tepesi, manzarasıyla ve temiz havasıyla ziyaretçilerini cezbediyor. Bu tepe, doğa yürüyüşleri ve piknik için ideal bir yer.
+Gökboyun Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alan ve ziyaretçilerini doğanın güzellikleriyle karşılayan bir tepe. Gökboyun Tepesi, manzarasıyla ve temiz havasıyla ziyaretçilerini cezbediyor. Bu tepe, doğa yürüyüşleri ve piknik için ideal bir yer.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Gökboyun Tepesi'nin tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetle
 
 ## Coğrafya
 
-Gökboyun Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve coğrafi olarak önemli bir konuma sahip. Bu tepe, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Gökboyun Tepesi'nin coğrafyası, ziyaretçilerini güneşin doğuşunu ve batışını izleyebilecekleri manzaralar sunuyor. Bu tepe, deniz seviyesinden yüksekliği ve temiz havasıyla ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Gökboyun Tepesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu bölge, doğa severlerin keyif alacağı bir mekan.
+Gökboyun Tepesi, Mersin'in Akdeniz Bölgesi'nde yer alıyor ve coğrafi olarak önemli bir konuma sahip. Gökboyun Tepesi'nin coğrafyası, ziyaretçilerini güneşin doğuşunu ve batışını izleyebilecekleri manzaralar sunuyor. Bu tepe, deniz seviyesinden yüksekliği ve temiz havasıyla ziyaretçilerini doğanın güzellikleriyle baş başa bırakıyor. Gökboyun Tepesi'nin çevresi, çeşitli bitki türleri ve zengin fauna ile kaplı. Bu bölge, doğa severlerin keyif alacağı bir mekan.
 
 ## Flora ve Fauna
 

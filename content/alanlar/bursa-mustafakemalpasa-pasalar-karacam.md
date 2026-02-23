@@ -22,7 +22,7 @@ wikidata_id: "Q108227937"
 
 # Bursa-Mustafakemalpaşa-paşalar Karacam
 
-Bursa-Mustafakemalpaşa-paşalar Karacam milli parkı, Marmara Bölgesi'nin en güzel köşelerinden biri olarak karşımıza çıkıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak olarak düşünülebilir. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış gibi görünüyor. Yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ayrıca, tarihi geçmişi ile de ilgi çekici bir destinasyon olarak ön plana çıkıyor.
+Bursa-Mustafakemalpaşa-paşalar Karacam milli parkı, Marmara Bölgesi'nin en güzel köşelerinden biri olarak karşımıza çıkıyor. Bu milli park, ziyaretçilerini doğanın güzelliği ile baş başa bırakmak için tasarlanmış gibi görünüyor. Yemyeşil ormanları, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor. Ayrıca, tarihi geçmişi ile de ilgi çekici bir destinasyon olarak ön plana çıkıyor.
 
 ## Tarihçe
 

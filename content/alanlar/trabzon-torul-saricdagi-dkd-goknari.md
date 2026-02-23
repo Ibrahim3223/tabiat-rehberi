@@ -22,7 +22,7 @@ wikidata_id: "Q108228064"
 
 # Trabzon Torul saricdagi-DKD Goknari
 
-Trabzon Torul saricdagi-DKD Goknari milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu geniş yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak isteyenler için ideal bir kaçış noktası. Parkın içinde çeşitli bitki türleri ve zengin fauna encontruyor. Burada doğa severler, yaban hayatını gözlemleyerek, doğayla iç içe bir gün geçirebiliyorlar. Parkın güzelliği, özellikle mevsimsel değişimlerle birlikte daha da belirginleşiyor.
+Trabzon Torul saricdagi-DKD Goknari milli parkı, yaklaşık 140 hektarlık bir alanı kapsıyor. Parkın içinde çeşitli bitki türleri ve zengin fauna encontruyor. Burada doğa severler, yaban hayatını gözlemleyerek, doğayla iç içe bir gün geçirebiliyorlar. Parkın güzelliği, özellikle mevsimsel değişimlerle birlikte daha da belirginleşiyor.
 
 ## Tarihçe
 

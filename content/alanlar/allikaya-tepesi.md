@@ -28,7 +28,7 @@ wikidata_id: "Q31532186"
 
 # Allıkaya Tepesi
 
-Allıkaya Tepesi, Bursa'nın doğal güzelliklerini barındıran bir bölgede yer alan bir tepe. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Allıkaya Tepesi'nin etrafı, çeşitli bitki türleriyle dolu ve zengin fauna ile karşılaşma mümkün. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir yer. Allıkaya Tepesi, Bursa'nın önemli noktalarından biri olarak kabul ediliyor ve ziyaretçilerini bekliyor.
+Allıkaya Tepesi, Bursa'nın doğal güzelliklerini barındıran bir bölgede yer alan bir tepe. Allıkaya Tepesi'nin etrafı, çeşitli bitki türleriyle dolu ve zengin fauna ile karşılaşma mümkün. Bu bölge, hem doğa severlerin hem de tarih meraklılarının ilgisini çekecek bir yer. Allıkaya Tepesi, Bursa'nın önemli noktalarından biri olarak kabul ediliyor ve ziyaretçilerini bekliyor.
 
 ## Tarihçe
 

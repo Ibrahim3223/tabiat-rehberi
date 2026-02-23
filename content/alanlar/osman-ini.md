@@ -32,11 +32,11 @@ Karaman ilinin doğal güzelliklerinin arasında gizli bir hazine olan Osman İn
 
 ## Tarihçe
 
-Karaman bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Hititler, Frigler, Lidyalılar ve Romalılar gibi birçok uygarlık bu topraklarda yaşamıştır. Bölgenin tarihi önemini belirleyen ticaret yolları ve doğal kaynaklar, insanları bu bölgeye çekmiştir. 
+Karaman bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Hititler, Frigler, Lidyalılar ve Romalılar gibi birçok uygarlık bu topraklarda yaşamıştır. Bölgenin tarihi önemini belirleyen ticaret yolları ve doğal kaynaklar, insanları bu bölgeye çekmiştir.
 
-Osman İni Jeopark, bu tarihi coğrafyanın bir parçasıdır. Türkiye'de doğal alanlar, insan yaşamının önemli bir parçası olmuş, yaylacılık, hayvancılık ve avcılık gibi faaliyetlerle ekonomiye katkı sağlamışlardır. Karaman gibi bölgeler, bu faaliyetlerin merkezi olmuş ve insan yerleşimlerini çekmiştir. 
+Osman İni Jeopark, bu tarihi coğrafyanın bir parçasıdır. Türkiye'de doğal alanlar, insan yaşamının önemli bir parçası olmuş, yaylacılık, hayvancılık ve avcılık gibi faaliyetlerle ekonomiye katkı sağlamışlardır. Karaman gibi bölgeler, bu faaliyetlerin merkezi olmuş ve insan yerleşimlerini çekmiştir.
 
-Doğal güzellikleri ve tarihi zenginlikleriyle, Osman İni Jeopark, ziyaretçilerini tarihin sâu izlerine götürür. Bu bölgenin insan yaşamındaki önemi, sadece doğal güzellikleriyle sınırlı değildir; aynı zamanda tarihi ve kültürel değerlerini de barındırır. İnsan yaşamı, bu doğal alanlarla iç içe geçmiş, bölge insanının yaşam tarzı ve kültürü, bu coğrafyanın bir parçası haline gelmiştir.
+Doğal güzellikleri ve tarihi zenginlikleriyle, Osman İni Jeopark, ziyaretçilerini tarihin derin izlerine götürür. Bu bölgenin insan yaşamındaki önemi, sadece doğal güzellikleriyle sınırlı değildir; aynı zamanda tarihi ve kültürel değerlerini de barındırır. İnsan yaşamı, bu doğal alanlarla iç içe geçmiş, bölge insanının yaşam tarzı ve kültürü, bu coğrafyanın bir parçası haline gelmiştir.
 
 ## Coğrafya
 

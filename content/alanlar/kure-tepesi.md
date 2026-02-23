@@ -28,7 +28,7 @@ wikidata_id: "Q32210818"
 
 # Küre Tepesi
 
-Kilis'in güneydoğu kesiminde yer alan Küre Tepesi, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplar. Bu bölge, ziyaretçilerini doğal güzellikleriyle karşılar. Coğrafi olarak güneydoğu ankrajında yer alan bu tepe, Kilis'in önemli bir parçasıdır. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla dikkat çeker. 140 hektarlık bu yeşil alan, ziyaretçilerine geniş bir hareket alanı sunar.
+ Bu bölge, ziyaretçilerini doğal güzellikleriyle karşılar. Coğrafi olarak güneydoğu ankrajında yer alan bu tepe, Kilis'in önemli bir parçasıdır. Doğal güzellikleri, tarihi geçmişi ve coğrafi konumuyla dikkat çeker. 140 hektarlık bu yeşil alan, ziyaretçilerine geniş bir hareket alanı sunar.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kilis'in tarihi geçmişi, yüzyıllar boyunca çeşitli medeniyetlerin izlerini
 
 ## Coğrafya
 
-Küre Tepesi, coğrafi olarak güneydoğu ankrajında yer alır ve Kilis'in önemli bir doğal varlığıdır. Bu tepe, yaklaşık 200 futbol sahası büyüklüğünde 140 hektarlık bir alanı kaplar. Coğrafi konumu itibariyle, ziyaretçilerine geniş bir görüş açısı sunar. Çevresindeki doğal güzellikler, flora ve fauna çeşitliliği, ziyaretçilerin dikkatini çeker. Bu bölge, coğrafi olarak Kilis'in güneydoğu kesiminde yer alır ve doğal güzellikleriyle dikkat çeker. İklim olarak, bu bölge genellikle sıcak ve kurudur, ancak bazı mevsimlerde yağış görülür. Çevresindeki diğer doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunar.
+Küre Tepesi, coğrafi olarak güneydoğu ankrajında yer alır ve Kilis'in önemli bir doğal varlığıdır. Coğrafi konumu itibariyle, ziyaretçilerine geniş bir görüş açısı sunar. Çevresindeki doğal güzellikler, flora ve fauna çeşitliliği, ziyaretçilerin dikkatini çeker. Bu bölge, coğrafi olarak Kilis'in güneydoğu kesiminde yer alır ve doğal güzellikleriyle dikkat çeker. İklim olarak, bu bölge genellikle sıcak ve kurudur, ancak bazı mevsimlerde yağış görülür. Çevresindeki diğer doğal güzellikler, ziyaretçilere geniş bir gezi alanı sunar.
 
 ## Flora ve Fauna
 

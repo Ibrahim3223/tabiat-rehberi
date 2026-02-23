@@ -1,7 +1,7 @@
 ---
 title: "Has Yunus Paşa Türbesi"
 date: "2026-01-10T07:24:24.471Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391067"
 
 # Has Yunus Paşa Türbesi
 
-Has Yunus Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan önemli tarihi mekanlardan biridir. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alan üzerinde bulunur. İstanbul'un tarihi geçmişiçerisinde önemli bir yere sahip olan bu mekan, ziyaretçilerini bekliyor. Tarihi dokusu ve çevresindeki yapılarla birlikte, Has Yunus Paşa Türbesi, şehrin zengin kültürel mirasını yansıtan bir noktada bulunuyor.
+Has Yunus Paşa Türbesi, İstanbul'un Fatih ilçesinde yer alan önemli tarihi mekanlardan biridir. İstanbul'un tarihi geçmişiçerisinde önemli bir yere sahip olan bu mekan, ziyaretçilerini bekliyor. Tarihi dokusu ve çevresindeki yapılarla birlikte, Has Yunus Paşa Türbesi, şehrin zengin kültürel mirasını yansıtan bir noktada bulunuyor.
 
 ## Tarihçe
 
@@ -37,7 +37,7 @@ Has Yunus Paşa Türbesi, tarihsel geçmişi ile dikkat çeker. İstanbul'un fet
 
 ## Coğrafya
 
-Has Yunus Paşa Türbesi, İstanbul'un merkezi ilçelerinden biri olan Fatih'te yer alır. Bu türbe, çevresindeki tarihi yapılardan oluşan bir kompleksin parçası olarak düşünülebilir. Çevresindeki yapılar, İstanbul'un mimari tarihini yansıtan önemli örneklerdir. Türbenin bulunduğu alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alana sahiptir. Bu yeşil alan, ziyaretçilere dinlenme ve tarihi yapıları seyretme imkanı sunar. İstanbul'un coğrafi konumu, Has Yunus Paşa Türbesi'nin bulunduğu bölgeyi de etkiler. Bölge, şehir merkezine yakın bir konumda yer alır ve ulaşım açısından kolaylıklar sağlar. İstanbul'un iklimi, bu türbenin bulunduğu bölgede de hissedilir. İlkbahar ve sonbahar ayları, İstanbul'u ziyaret etmek için en uygun zamanlardır ve Has Yunus Paşa Türbesi'ni ziyaret etmek için de idealdir.
+Has Yunus Paşa Türbesi, İstanbul'un merkezi ilçelerinden biri olan Fatih'te yer alır. Bu türbe, çevresindeki tarihi yapılardan oluşan bir kompleksin parçası olarak düşünülebilir. Çevresindeki yapılar, İstanbul'un mimari tarihini yansıtan önemli örneklerdir. Bu yeşil alan, ziyaretçilere dinlenme ve tarihi yapıları seyretme imkanı sunar. İstanbul'un coğrafi konumu, Has Yunus Paşa Türbesi'nin bulunduğu bölgeyi de etkiler. Bölge, şehir merkezine yakın bir konumda yer alır ve ulaşım açısından kolaylıklar sağlar. İstanbul'un iklimi, bu türbenin bulunduğu bölgede de hissedilir. İlkbahar ve sonbahar ayları, İstanbul'u ziyaret etmek için en uygun zamanlardır ve Has Yunus Paşa Türbesi'ni ziyaret etmek için de idealdir.
 
 ## Flora ve Fauna
 

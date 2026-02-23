@@ -52,4 +52,4 @@ Koşapınar Tepesi'ni ziyaret etmek, doğa severler için bir hayaldir. Bu tepe,
 - Bu tepe, 200 futbol sahası büyüklüğünde bir alanı kapsar
 - Koşapınar Tepesi, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini etkiler
 - Bu tepe, doğa severler için bir cennet olup, ziyaretçilerine doğanın tüm güzelliğini sunar
-- Koşapınar Tepesi, histórik bir geçmişe sahiptir
+- Koşapınar Tepesi, tarihi bir geçmişe sahiptir

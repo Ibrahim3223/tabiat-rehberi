@@ -48,11 +48,11 @@ Doğal bir koridor olarak işlev gören Şap Dağı, komşu alanlarla ve su kayn
 
 ## Flora ve Fauna
 
-Şap Dağı, Balıkesir'in göbeğinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Geçiş ikliminin hüküm sürdüğü bu bölgede, karma ormanlar ve yükseklik zonları bir araya gelir. 
+Şap Dağı, Balıkesir'in göbeğinde yer alan bir doğa harikasıdır. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Geçiş ikliminin hüküm sürdüğü bu bölgede, karma ormanlar ve yükseklik zonları bir araya gelir.
 
-Bitki örtüsüne baktığımızda, ilkbahar mevsiminde dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar buraya uğradıkları için dağ, renkli bir kuş cennetine dönüşür. Dağ ekosisteminin yükseklik zonlarına bağlı olarak, alpin flora türleri de bu bölgede bulunur. 
+Bitki örtüsüne baktığımızda, ilkbahar mevsiminde dağ yamaçları rengarenk çiçeklerle donanır. Sonbaharda ise, göçmen kuşlar buraya uğradıkları için dağ, renkli bir kuş cennetine dönüşür. Dağ ekosisteminin yükseklik zonlarına bağlı olarak, alpin flora türleri de bu bölgede bulunur.
 
-Yaban hayatı ise, dağların yüksekliklerine ve ormanlık alanlarına bağlı olarak çeşitlilik gösterir. Memeliler, kuşlar ve sürüngenler bu dağlarda yaşamını sürdürür. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gibi kuşlar da bu bölgede yuvalanır. Sürüngenler ise, genellikle kayalık ve güneşli alanlarda görülür. 
+Yaban hayatı ise, dağların yüksekliklerine ve ormanlık alanlarına bağlı olarak çeşitlilik gösterir. Memeliler, kuşlar ve sürüngenler bu dağlarda yaşamını sürdürür. Dağ keçileri, yaban domuzları ve tilkiler gibi memeliler, dağların yüksek kesimlerinde yaşarken, kartallar ve şahinler gibi kuşlar da bu bölgede yuvalanır. Sürüngenler ise, genellikle kayalık ve güneşli alanlarda görülür.
 
 Şap Dağı, ekolojik açıdan büyük bir önem taşır. Göçmen kuş rotası üzerinde yer alan bu dağ, birçok kuş türünün yaşam alanı ve göç yolu olarak kullanılır. Ayrıca, dağların yükseklik zonları ve ormanlık alanları, birçok canlıyaşam alanı sağlar. Bu nedenle, Şap Dağı'nın korunması büyük önem taşır.
 
@@ -67,4 +67,4 @@ Yaban hayatı ise, dağların yüksekliklerine ve ormanlık alanlarına bağlı 
 - Şap Dağı, Bigadiç ve Gömeç ilçeleri arasında bulunmaktadır.
 - Dağın eteklerinde, çeşitli bitki türleri ve ormanlık alanlar bulunur.
 - Şap Dağı, trekking ve doğa yürüyüşü için popüler bir destinasyondur.
-- Dağın çevresinde, históri ve kültürel öneme sahip several köyler bulunmaktadır.
+- Dağın çevresinde, tarihi ve kültürel öneme sahip several köyler bulunmaktadır.

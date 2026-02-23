@@ -22,7 +22,7 @@ wikidata_id: "Q108228350"
 
 # Şehit Şerifebacı
 
-Şehit Şerifebacı Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alır ve 140 hektarlık bir alanı kaplar. Bu geniş alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğal ortam sunar. Parkın konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı verir. Şehit Şerifebacı Milli Parkı, doğa severler ve macera arayanlar için ideal bir destinasyondur.
+Şehit Şerifebacı Milli Parkı, İç Anadolu Bölgesi'nin kalbinde yer alır ve 140 hektarlık bir alanı kaplar. Parkın konumu, ziyaretçilere bölgenin doğal güzelliklerini keşfetme fırsatı verir. Şehit Şerifebacı Milli Parkı, doğa severler ve macera arayanlar için ideal bir destinasyondur.
 
 ## Tarihçe
 

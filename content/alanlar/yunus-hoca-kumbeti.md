@@ -29,7 +29,7 @@ wikidata_id: "Q132134482"
 
 # Yunus Hoca Kümbeti
 
-Yunus Hoca Kümbeti, Eskişehir'in Sivrihisar ilçesinde yer alan bir tarihi yapıdır. Bu yapı, yaklaşık 14. yüzyılda inşa edilmiştir. 140 hektarlık bir alanı kaplayan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsamaktadır. Tarihi geçmişi ve kültürel önemi ile dikkat çeken bu yer, ziyaretçilerini beklemektedir. Sivrihisar'ın merkezine yakın bir konumda yer alan bu kümbet, tarihi ve mimari açıdan önemli bir yapı olarak kabul edilmektedir.
+Yunus Hoca Kümbeti, Eskişehir'in Sivrihisar ilçesinde yer alan bir tarihi yapıdır. Bu yapı, yaklaşık 14. yüzyılda inşa edilmiştir. Tarihi geçmişi ve kültürel önemi ile dikkat çeken bu yer, ziyaretçilerini beklemektedir. Sivrihisar'ın merkezine yakın bir konumda yer alan bu kümbet, tarihi ve mimari açıdan önemli bir yapı olarak kabul edilmektedir.
 
 ## Tarihçe
 

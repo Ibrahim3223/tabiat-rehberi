@@ -1,7 +1,7 @@
 ---
 title: "Kalender Baba Türbesi"
 date: "2026-01-10T05:36:32.486Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Konya"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391375"
 
 # Kalender Baba Türbesi
 
-Kalender Baba Türbesi, Konya'nın Selçuklu ilçesinde yer alan bir türbe ve plaj alanıdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin merkezi bölgelerine oldukça yakındır. Bu tarihi türbe, yüzyıllar boyunca birçok kişinin ziyaret ettiği önemli bir dini merkez olmuştur. Ayrıca, çevresindeki doğal güzellikler ve plaj alanı, ziyaretçilere keyifli bir gün geçirmeleri için uygun bir ortam sunar.
+Kalender Baba Türbesi, Konya'nın Selçuklu ilçesinde yer alan bir türbe ve plaj alanıdır. Bu tarihi türbe, yüzyıllar boyunca birçok kişinin ziyaret ettiği önemli bir dini merkez olmuştur. Ayrıca, çevresindeki doğal güzellikler ve plaj alanı, ziyaretçilere keyifli bir gün geçirmeleri için uygun bir ortam sunar.
 
 ## Tarihçe
 

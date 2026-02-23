@@ -33,7 +33,7 @@ wikidata_id: "Q31540218"
 
 ## Tarihçe
 
-Kurt Dağı, Şırnak bölgesinin kalbinde yer alan bir doğa harikasıdır. Bu bölge, tarihin sâu sayfalarında önemli bir yer tutar. Şırnak, medeniyetlerin beşiği olarak bilinen Mezopotamya'nın immediate yakınında bulunur ve bu nedenle binlerce yıllık bir tarihe sahiptir. Bölge, Sümerler, Asurlular ve Persler gibi eski uygarlıkların etkisi altında kalmıştır.
+Kurt Dağı, Şırnak bölgesinin kalbinde yer alan bir doğa harikasıdır. Bu bölge, tarihin derin sayfalarında önemli bir yer tutar. Şırnak, medeniyetlerin beşiği olarak bilinen Mezopotamya'nın immediate yakınında bulunur ve bu nedenle binlerce yıllık bir tarihe sahiptir. Bölge, Sümerler, Asurlular ve Persler gibi eski uygarlıkların etkisi altında kalmıştır.
 
 Doğal güzellikleri ve coğrafi konumuyla, Şırna ve çevresindeki bölgeler tarihte önemli ticaret yollarının kavşak noktası olarak hizmet vermiştir. İnsanların bu alanla ilişkisi, yaylacılık ve hayvancılıkla başlar. Bölge halkı, yüzyıllar boyunca dağların ve ovaların sunduğu zengin doğal kaynaklardan faydalanmıştır. Türkiye'deki birçok doğal alan gibi, Kurt Dağı da insanların yaşamlarını sürdürmelerine olanak tanıyan bir ekosistemdir.
 

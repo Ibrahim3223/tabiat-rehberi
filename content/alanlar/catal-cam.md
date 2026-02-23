@@ -23,7 +23,7 @@ wikidata_id: "Q108227173"
 
 # Çatal Çam
 
-İç Anadolu Bölgesi'nin kalbinde yer alan Çatal Çam Milli Parkı, 140 hektarlık geniş bir yeşil alana sahiptir. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna found, doğa severler için bir cennet olarak kabul edilebilir. Çatal Çam'ın hikayesi, bölgenin tarihi geçmişi ve coğrafi yapısıyla iç içe geçer. Burada, hem doğa hem de tarihle iç içe geçerek, unutulmaz anlar yaşayabilirsiniz.
+İç Anadolu Bölgesi'nin kalbinde yer alan Çatal Çam Milli Parkı, 140 hektarlık geniş bir yeşil alana sahiptir. Parkın içerisinde, çeşitli bitki türleri ve zengin fauna found, doğa severler için bir cennet olarak kabul edilebilir. Çatal Çam'ın hikayesi, bölgenin tarihi geçmişi ve coğrafi yapısıyla iç içe geçer. Burada, hem doğa hem de tarihle iç içe geçerek, unutulmaz anlar yaşayabilirsiniz.
 
 ## Tarihçe
 
@@ -31,7 +31,7 @@ wikidata_id: "Q108227173"
 
 ## Coğrafya
 
-Çatal Çam Milli Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş bir yeşil alana sahiptir. Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile birlikte, doğa severler için bir cennet olarak kabul edilebilir. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklim özellikleri gösterir. Parkın etrafı, çeşitli dağlar ve tepelerle çevrilidir ve bu coğrafi yapı, parkın doğal güzelliğini artırır. Parkın içerisinde, çeşitli su kaynakları ve akarsular bulunur ve bu su kaynakları, parkın doğal güzelliğini daha da artırır.
+Çatal Çam Milli Parkı, İç Anadolu Bölgesi'nin coğrafi yapısına uygun olarak, geniş bir yeşil alana sahiptir. Parkın coğrafi yapısı, çeşitli bitki türleri ve zengin fauna ile birlikte, doğa severler için bir cennet olarak kabul edilebilir. Parkın iklimi, İç Anadolu Bölgesi'nin iklimine uygun olarak, karasal iklim özellikleri gösterir. Parkın etrafı, çeşitli dağlar ve tepelerle çevrilidir ve bu coğrafi yapı, parkın doğal güzelliğini artırır. Parkın içerisinde, çeşitli su kaynakları ve akarsular bulunur ve bu su kaynakları, parkın doğal güzelliğini daha da artırır.
 
 ## Flora ve Fauna
 
@@ -43,7 +43,6 @@ wikidata_id: "Q108227173"
 
 ## İlginç Bilgiler
 
-- Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde.
 - Parkın içerisinde, çeşitli bitki türleri ve zengin fauna bulunur.
 - Parkın coğrafi yapısı, çeşitli dağlar ve tepelerle çevrilidir.
 - Parkın içerisinde, çeşitli su kaynakları ve akarsular bulunur.

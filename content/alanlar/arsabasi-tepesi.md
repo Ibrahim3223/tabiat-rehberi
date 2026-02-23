@@ -28,7 +28,7 @@ wikidata_id: "Q31387973"
 
 # Arsabaşı Tepesi
 
-Arsabaşı Tepesi, Gümüşhane'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir ziyaret noktasıdır. Bu tepe, yaklaşık 140 hektarlık alanıyla, 200 futbol sahası büyüklüğünde bir alanı kapsar. Arsabaşı Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin en güzel manzaralarıyla karşılar. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Arsabaşı Tepesi, hem doğa severler hem de manzara tutkunları için ideal bir destinasyondur.
+Arsabaşı Tepesi, Gümüşhane'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir ziyaret noktasıdır. Arsabaşı Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin en güzel manzaralarıyla karşılar. Tepenin etrafında, çeşitli bitki türleri ve zengin fauna bulunur. Arsabaşı Tepesi, hem doğa severler hem de manzara tutkunları için ideal bir destinasyondur.
 
 ## Tarihçe
 

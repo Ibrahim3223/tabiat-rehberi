@@ -28,7 +28,7 @@ wikidata_id: "Q32196223"
 
 # Yürükmezarı Tepesi
 
-Yürükmezarı Tepesi, Kütahya'nın Ege Bölgesi'nde yer alan bir doğa harikası. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve burada doğa ile baş başa kalabileceğiniz bir ortam sunuyor. Bu tepe, özellikle yürüyüş severlerin ve doğaşığı olanların ziyaret etmesi gereken bir yer. Yürükmezarı Tepesi, Kütahya'nın zengin tarihi ve kültürel mirasını yansıtan bir bölge ve buradaki manzara, görenleri büyülüyor. Tepe, Kütahya'nın merkezine uzun bir mesafe uzaklıkta ve ulaşımı oldukça kolay.
+Yürükmezarı Tepesi, Kütahya'nın Ege Bölgesi'nde yer alan bir doğa harikası. Bu tepe, özellikle yürüyüş severlerin ve doğaşığı olanların ziyaret etmesi gereken bir yer. Yürükmezarı Tepesi, Kütahya'nın zengin tarihi ve kültürel mirasını yansıtan bir bölge ve buradaki manzara, görenleri büyülüyor. Tepe, Kütahya'nın merkezine uzun bir mesafe uzaklıkta ve ulaşımı oldukça kolay.
 
 ## Tarihçe
 

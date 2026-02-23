@@ -30,7 +30,7 @@ wikidata_id: "Q6055245"
 
 # Koza Hanı
 
-Koza Hanı, Bursa'nın kalbinde yer alan tarihi ve doğal güzelliklerin birleştiği bir noktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve birçok tarihi yapıyı barındırmaktadır. Bu bölge, Marmara Bölgesi'nin en önemli kültür ve doğa merkezlerinden biridir. Koza Hanı, ziyaretçilerine hem tarihin hem de doğanın güzelliklerini sunmaktadır. İnsanlar, bu bölgeyi ziyaret ederek hem tarihi yapıları görebilmekte hem de doğanın güzelliğini keşfedebilmektedir.
+Koza Hanı, Bursa'nın kalbinde yer alan tarihi ve doğal güzelliklerin birleştiği bir noktadır. Bu bölge, Marmara Bölgesi'nin en önemli kültür ve doğa merkezlerinden biridir. Koza Hanı, ziyaretçilerine hem tarihin hem de doğanın güzelliklerini sunmaktadır. İnsanlar, bu bölgeyi ziyaret ederek hem tarihi yapıları görebilmekte hem de doğanın güzelliğini keşfedebilmektedir.
 
 ## Tarihçe
 

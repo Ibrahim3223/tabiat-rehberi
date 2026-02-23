@@ -49,7 +49,7 @@ Jeolojik açıdan bakıldığında, Ilgar Dağı'nın fiziksel yapısı hakkınd
 
 ## Flora ve Fauna
 
-Ilgar Dağı, Ardahan'ın yüksek dağ ekolojisinin bir parçası olarak, alpin çayırlar ve endemik türlerle dolu bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
+Ilgar Dağı, Ardahan'ın yüksek dağ ekolojisinin bir parçası olarak, alpin çayırlar ve endemik türlerle dolu bir cennet. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
 
 Bitki örtüsünü oluşturan yüksek dağ çayırları, ilkbahar aylarında renkli çiçeklerle donanıyor. Sonbaharda ise, dağların sarı, kahverengi ve kırmızının tonlarını sergiliyor. Alpin flora, dağ ekosisteminin temel bileşenini oluşturuyor.
 

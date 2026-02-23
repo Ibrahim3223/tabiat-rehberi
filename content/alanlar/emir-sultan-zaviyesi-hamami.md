@@ -1,7 +1,7 @@
 ---
 title: "Emir Sultan Zaviyesi Hamamı"
 date: "2026-01-09T23:47:37.508Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İzmir"
@@ -29,7 +29,7 @@ wikidata_id: "Q133245780"
 
 # Emir Sultan Zaviyesi Hamamı
 
-İzmir'in Konak ilçesinde bulunan Emir Sultan Zaviyesi Hamamı, yaklaşık 140 hektarlık bir alanda yer alan tarihi bir hamamdır. Bu hamam, İzmir'in en önemli tarihi ve kültürel mekanlarından biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilerin gezebileceği geniş bir alanı kapsar. Emir Sultan Zaviyesi Hamamı, tarihi ve mimari özellikleri ile dikkat çekmektedir. Hamamın tarihi geçmişi, yüzyıllar boyunca çeşitli dönemlerde yaşandığından, ziyaretçiler için önemli bir kültürel deneyim sunmaktadır.
+İzmir'in Konak ilçesinde bulunan Emir Sultan Zaviyesi Hamamı, yaklaşık 140 hektarlık bir alanda yer alan tarihi bir hamamdır. Bu hamam, İzmir'in en önemli tarihi ve kültürel mekanlarından biridir. Emir Sultan Zaviyesi Hamamı, tarihi ve mimari özellikleri ile dikkat çekmektedir. Hamamın tarihi geçmişi, yüzyıllar boyunca çeşitli dönemlerde yaşandığından, ziyaretçiler için önemli bir kültürel deneyim sunmaktadır.
 
 ## Tarihçe
 

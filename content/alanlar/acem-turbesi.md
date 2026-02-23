@@ -1,7 +1,7 @@
 ---
 title: "Acem Türbesi"
 date: "2026-01-10T05:19:01.528Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Muğla"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391689"
 
 # Acem Türbesi
 
-Köyceğiz'in doğal güzelliklerinin başında gelen Acem Türbesi, ziyaretçilerini 140 hektarlık geniş bir alanda karşılar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, ziyaretçilere geniş bir mekan sunar. Acem Türbesi, Muğla'nın Ege Bölgesi'nde yer alır ve bölgenin önemli turizm noktalarından biridir. Bölge, doğal güzellikleri ve tarihi yapıları ile dikkat çeker. Acem Türbesi, plaj severlerin yanı sıra doğa yürüyüşü ve tarihi yerleri gezmek isteyenlerin de tercih ettiği bir noktadır.
+Köyceğiz'in doğal güzelliklerinin başında gelen Acem Türbesi, ziyaretçilerini 140 hektarlık geniş bir alanda karşılar. Acem Türbesi, Muğla'nın Ege Bölgesi'nde yer alır ve bölgenin önemli turizm noktalarından biridir. Bölge, doğal güzellikleri ve tarihi yapıları ile dikkat çeker. Acem Türbesi, plaj severlerin yanı sıra doğa yürüyüşü ve tarihi yerleri gezmek isteyenlerin de tercih ettiği bir noktadır.
 
 ## Tarihçe
 
@@ -38,11 +38,11 @@ Acem Türbesi'nin tarihi geçmişi, bölgenin zengin tarihine ışık tutar. Tar
 
 ## Coğrafya
 
-Acem Türbesi, Köyceğiz'in doğal güzelliklerinin merkezi bir noktasında yer alır. Bölge, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğünde bir alan sunar. Bu geniş alan, ziyaretçilere geniş bir mekan sağlar ve doğa yürüyüşü, plaj aktivititeleri ve tarihi yerleri gezmek için ideal bir ortam oluşturur. Bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve ziyaretçilere bu bölgeyi keşfetme fırsatı sunar. Acem Türbesi, Muğla'nın önemli turizm noktalarından biri olup, ziyaretçilere doğal güzellik, tarih ve kültür deneyimi sunar.
+Acem Türbesi, Köyceğiz'in doğal güzelliklerinin merkezi bir noktasında yer alır. Bu geniş alan, ziyaretçilere geniş bir mekan sağlar ve doğa yürüyüşü, plaj aktivititeleri ve tarihi yerleri gezmek için ideal bir ortam oluşturur. Bölge, Ege Bölgesi'nin karakteristik coğrafi özelliklerini taşır ve ziyaretçilere bu bölgeyi keşfetme fırsatı sunar. Acem Türbesi, Muğla'nın önemli turizm noktalarından biri olup, ziyaretçilere doğal güzellik, tarih ve kültür deneyimi sunar.
 
 ## Flora ve Fauna
 
-Acem Türbesi, çeşitli bitki türleri ve zengin fauna ile dikkat çeker. Bölge, mevsimsel değişimlere göre farklı bir görünüm sunar ve ziyaretçilere bu değişimleri gözlemleme fırsatı sunar. Bölgenin flora ve faunası, bölgenin ekolojik dengesini koruma altına alır ve ziyaretçilere bu dengenin önemini gösterir. Acem Türbesi, plaj severlerin yanı sıra doğa yürüyüşü ve faunaı yapanların da tercih ettiği bir noktadır. Bölge, ziyaretçilere doğal güzelli ve fauna deneyimini bir arada sunar.
+ Bölge, mevsimsel değişimlere göre farklı bir görünüm sunar ve ziyaretçilere bu değişimleri gözlemleme fırsatı sunar. Bölgenin flora ve faunası, bölgenin ekolojik dengesini koruma altına alır ve ziyaretçilere bu dengenin önemini gösterir. Acem Türbesi, plaj severlerin yanı sıra doğa yürüyüşü ve faunaı yapanların da tercih ettiği bir noktadır. Bölge, ziyaretçilere doğal güzelli ve fauna deneyimini bir arada sunar.
 
 ## Ziyaret Bilgileri
 

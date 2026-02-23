@@ -28,7 +28,7 @@ wikidata_id: "Q31388323"
 
 # Kerimoğlu Tepesi
 
-Kerimoğlu Tepesi, Kars'ın doğal güzelliklerine ev sahipliği yapan bir tepe. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet. Bu bölge, ziyaretçilerini doğanın kucağına alarak, şehrin gürültüsünden uzaklaştırıyor. Kerimoğlu Tepesi, özellikle doğa severlerin ve yürüyüş tutkunlarının ziyaret ettiği bir nokta. Burada, çeşitli bitki türleri ve hayvanlarla karşılaşma mümkün.
+Kerimoğlu Tepesi, Kars'ın doğal güzelliklerine ev sahipliği yapan bir tepe. Bu bölge, ziyaretçilerini doğanın kucağına alarak, şehrin gürültüsünden uzaklaştırıyor. Kerimoğlu Tepesi, özellikle doğa severlerin ve yürüyüş tutkunlarının ziyaret ettiği bir nokta. Burada, çeşitli bitki türleri ve hayvanlarla karşılaşma mümkün.
 
 ## Tarihçe
 

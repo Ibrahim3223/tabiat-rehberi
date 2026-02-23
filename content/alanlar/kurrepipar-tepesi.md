@@ -28,7 +28,7 @@ wikidata_id: "Q31553329"
 
 # Kurrepipar Tepesi
 
-Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan Kurrepipar Tepesi, zengin doğası ve tarihi geçmişiyle dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Kurrepipar Tepesi, ziyaretçilerini doğanın içine çekerek, şehrin gürültüsünden uzaklaşmalarını sağlıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Ayrıca, tepe, tarihsel açıdan önemli olup, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış.
+Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan Kurrepipar Tepesi, zengin doğası ve tarihi geçmişiyle dikkat çekiyor. Kurrepipar Tepesi, ziyaretçilerini doğanın içine çekerek, şehrin gürültüsünden uzaklaşmalarını sağlıyor. Burada, çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliğini gösteriyor. Ayrıca, tepe, tarihsel açıdan önemli olup, yüzyıllar boyunca farklı medeniyetlere ev sahipliği yapmış.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Kurrepipar Tepesi'nin tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu tep
 
 ## Coğrafya
 
-Kurrepipar Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Bu tepe, yaklaşık 140 hektarlık bir alanı kapsıyor ve bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer. Tepenin coğrafi yapısı, genellikle dağlık ve engebeli bir araziye sahip. Bu coğrafi yapı, tepe ve çevresinde çeşitli bitki türlerinin ve zengin faunanın oluşmasına katkıda bulunmuştur. Ayrıca, tepe, bölgenin iklimine de uygun bir şekilde, mevsimsel değişimlere uyum sağlayabilen bir yapıya sahiptir. Kurrepipar Tepesi, Batman şehrinin merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Tepenin çevresinde, çeşitli köyler ve kasabalar bulunmakta ve bu yerleşim yerleri, tepeye gelen ziyaretçilere konaklama ve yemek gibi hizmetler sunuyor.
+Kurrepipar Tepesi, Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alıyor. Tepenin coğrafi yapısı, genellikle dağlık ve engebeli bir araziye sahip. Bu coğrafi yapı, tepe ve çevresinde çeşitli bitki türlerinin ve zengin faunanın oluşmasına katkıda bulunmuştur. Ayrıca, tepe, bölgenin iklimine de uygun bir şekilde, mevsimsel değişimlere uyum sağlayabilen bir yapıya sahiptir. Kurrepipar Tepesi, Batman şehrinin merkezine uzun bir mesafe uzaklıkta yer alıyor ve ulaşımı oldukça kolay. Tepenin çevresinde, çeşitli köyler ve kasabalar bulunmakta ve bu yerleşim yerleri, tepeye gelen ziyaretçilere konaklama ve yemek gibi hizmetler sunuyor.
 
 ## Flora ve Fauna
 

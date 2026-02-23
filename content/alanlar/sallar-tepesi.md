@@ -28,7 +28,7 @@ wikidata_id: "Q31389032"
 
 # Sallar Tepesi
 
-Sallar Tepesi, Erzurum'un güzide noktalarından biri olarak karşımıza çıkıyor. 140 hektarlık bir alanı kapsayan bu yeşil cennet, ziyaretçilerini yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıyla karşılamakta. Burada, şehrin gürültüsünden uzaklaşarak doğayla baş başa kalma mümkün. Sallar Tepesi, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmeyi başarmış bir nokta.
+Sallar Tepesi, Erzurum'un güzide noktalarından biri olarak karşımıza çıkıyor. Burada, şehrin gürültüsünden uzaklaşarak doğayla baş başa kalma mümkün. Sallar Tepesi, doğa severlerin ve fotoğraf tutkunlarının gözdesi haline gelmeyi başarmış bir nokta.
 
 ## Tarihçe
 
@@ -49,7 +49,7 @@ Sallar Tepesi'ni ziyaret etmek için, Erzurum'a ulaşmak gerekiyor. Buraya ulaş
 ## İlginç Bilgiler
 
 - Sallar Tepesi, 140 hektarlık bir yeşil alanı kapsıyor.
-- Yaklaşık 200 futbol sahası büyüklüğünde.
+
 - Doğu Anadolu Bölgesi'nin güzide noktalarından biri.
 - Erzurum'un turizm açısından önemli bir cazibe merkezi.
 - Farklı mevsimlerde farklı bitki türleri görülebilmekte.

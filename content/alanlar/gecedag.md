@@ -52,9 +52,9 @@ Mevsimsel açıdan ele alındığında, Gecedağ'ın iklim karakteri kuzeydoğu 
 
 Gecedağ, Kars'ın yüksek dağ ekolojisine ev sahipliği yapan bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. İlkbaharın gelmesiyle birlikte, dağ yamaçları rengarenk çiçeklerle donanıyor. Alpin çayırlar, yüksek dağ ekosisteminin önemli bir parçasını oluşturuyor.
 
-Bitki örtüsünü oluşturan hakim türler, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, dağ çayırları çeşitli çiçek türleriyle dolu oluyor. Sonbaharın gelmesiyle birlikte, dağ yollarında göç eden kuşları görme mümkün. 
+Bitki örtüsünü oluşturan hakim türler, mevsimsel değişimlere göre farklılık gösteriyor. İlkbahar ve yaz aylarında, dağ çayırları çeşitli çiçek türleriyle dolu oluyor. Sonbaharın gelmesiyle birlikte, dağ yollarında göç eden kuşları görme mümkün.
 
-Yaban hayatı da aynı şekilde zengin. Memeliler ve kuşlar, dağ ekosisteminin önemli bileşenlerini oluşturuyor. Dağ keçileri ve dağ tavşanları, bu bölgenin önemli memeli türleri arasında yer alıyor. Sürüngenler de dağların kayalık bölgelerinde yaşamlarını sürdürüyor. 
+Yaban hayatı da aynı şekilde zengin. Memeliler ve kuşlar, dağ ekosisteminin önemli bileşenlerini oluşturuyor. Dağ keçileri ve dağ tavşanları, bu bölgenin önemli memeli türleri arasında yer alıyor. Sürüngenler de dağların kayalık bölgelerinde yaşamlarını sürdürüyor.
 
 Gecedağ, yüksek dağ ekolojisi ve endemik türler bakımından önemli bir bölge. Bu nedenle, koruma altına alınarak gelecek nesiller için korunması gerekiyor.
 

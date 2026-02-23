@@ -1,7 +1,7 @@
 ---
 title: "Şeyh Hamidi Türbesi"
 date: "2026-01-10T07:54:47.610Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Mardin"
@@ -29,7 +29,7 @@ wikidata_id: "Q135582872"
 
 # Şeyh Hamidi Türbesi
 
-Mardin'in Artuklu ilçesinde yer alan Şeyh Hamidi Türbesi, bölgenin tarihi ve kültürel zenginliğini yansıtan önemli bir mekandır. Bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda kurulmuştur. Şeyh Hamidi Türbesi, Mardin'in tarihi dokusunu korurken, aynı zamanda doğal güzelliği ile de ziyaretçilerini çekmektedir. Tarihi geçmişi ve kültürel önemiyle dikkat çeken bu türbe, bölgede önemli bir turistik destinasyondur.
+Mardin'in Artuklu ilçesinde yer alan Şeyh Hamidi Türbesi, bölgenin tarihi ve kültürel zenginliğini yansıtan önemli bir mekandır. Şeyh Hamidi Türbesi, Mardin'in tarihi dokusunu korurken, aynı zamanda doğal güzelliği ile de ziyaretçilerini çekmektedir.
 
 ## Tarihçe
 
@@ -50,7 +50,7 @@ Mardin'in Artuklu ilçesinde yer alan Şeyh Hamidi Türbesi, bölgenin tarihi ve
 ## İlginç Bilgiler
 
 - Şeyh Hamidi Türbesi, Mardin'in en önemli tarihi mekanlarından biridir.
-- Türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanda kurulmuştur.
+
 - Şeyh Hamidi, yöresel halk arasında saygı görmüş bir dini lider olarak bilinmektedir.
 - Türbe, zaman içinde restore edilmiş ve günümüzde de ibadete açık bir halde ziyaretçilerini ağırlamaktadır.
 - Şeyh Hamidi Türbesi, Mardin'in tarihi ve doğal güzelliğini bir araya getiren önemli bir destinasyondur.

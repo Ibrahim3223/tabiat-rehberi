@@ -22,7 +22,7 @@ wikidata_id: "Q108228766"
 
 # ISIRLIK_TP
 
-ISIRLIK_TP milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alan 140 hektarlık bir yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde. Bu geniş arazi, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın büyüklüğü ve doğal güzelliği, onu bölgenin önemli turizm merkezlerinden biri haline getiriyor. ISIRLIK_TP milli parkı, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Parkın girişinde, ziyaretçileri bir doğa harikası karşılıyor: 5 metre yüksekliğindeki dev bir ağaç, parkın simgesi olarak karşımıza çıkıyor. Bu ağaç, parkın tarihi geçmişi ve doğal zenginliği hakkında hikayeler anlatıyor.
+ Bu geniş arazi, çeşitli bitki türleri ve zengin fauna ile dolu. Parkın büyüklüğü ve doğal güzelliği, onu bölgenin önemli turizm merkezlerinden biri haline getiriyor. ISIRLIK_TP milli parkı, ziyaretçilere doğayla iç içe bir deneyim sunuyor. Parkın girişinde, ziyaretçileri bir doğa harikası karşılıyor: 5 metre yüksekliğindeki dev bir ağaç, parkın simgesi olarak karşımıza çıkıyor. Bu ağaç, parkın tarihi geçmişi ve doğal zenginliği hakkında hikayeler anlatıyor.
 
 ## Tarihçe
 

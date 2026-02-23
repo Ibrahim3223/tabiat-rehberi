@@ -28,7 +28,7 @@ wikidata_id: "Q34810505"
 
 # İnceöz Tepesi
 
-İnceöz Tepesi, Eskişehir'in merkezinde, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. Yaklaşık 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin en yüksek noktalarından biri. İnceöz Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor. Tepenin eteklerinde bulunan orman, çeşitli bitki türleri ve yaban hayatıyla ziyaretçilerini bekliyor. İnceöz Tepesi, aynı zamanda şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir nokta.
+İnceöz Tepesi, Eskişehir'in merkezinde, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon. İnceöz Tepesi, şehrin gürültüsünden uzaklaşmak isteyenler için sakin bir kaçış noktası sunuyor. Tepenin eteklerinde bulunan orman, çeşitli bitki türleri ve yaban hayatıyla ziyaretçilerini bekliyor. İnceöz Tepesi, aynı zamanda şehrin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de önemli bir nokta.
 
 ## Tarihçe
 

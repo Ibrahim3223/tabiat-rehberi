@@ -28,7 +28,7 @@ wikidata_id: "Q108227061"
 
 # Tekkoz-Kengerliduz
 
-Tekkoz-Kengerliduz milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreye uyum sağlayan benzersiz bir ekosistemi barındırır. Bu doğal alan, zengin flora ve fauna çeşitliliği ile dikkat çeker. İnsanlık tarihi boyunca, bu bölge çeşitli medeniyetlere ev sahipliği yapmış ve tarihi bir geçmişi vardır. Doğal güzellikleri ve tarihi önemi ile Tekkoz-Kengerliduz, ziyaretçilerini bekleyen bir hazine olarak durur.
+Tekkoz-Kengerliduz milli parkı, İç Anadolu Bölgesi'nin kalbinde yer alır. Bu doğal alan, zengin flora ve fauna çeşitliliği ile dikkat çeker. İnsanlık tarihi boyunca, bu bölge çeşitli medeniyetlere ev sahipliği yapmış ve tarihi bir geçmişi vardır. Doğal güzellikleri ve tarihi önemi ile Tekkoz-Kengerliduz, ziyaretçilerini bekleyen bir hazine olarak durur.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Tekkoz-Kengerliduz milli parkının tarihi geçmişi, yüzyıllar boyunca çeşi
 
 ## Coğrafya
 
-Tekkoz-Kengerliduz milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve çevreye uyum sağlayan benzersiz bir ekosistemi barındırır. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir flora ve fauna çeşitliliğine sahiptir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölgenin coğrafi yapısı, doğal güzellikleri ve ekosistemi, ziyaretçilere benzersiz bir deneyim sunar. Milli park, çevre dostu bir anlayışla yönetilir ve doğanın korunmasına büyük önem verilir.
+Tekkoz-Kengerliduz milli parkı, İç Anadolu Bölgesi'nin coğrafi özelliklerini taşır. Bölge, çeşitli bitki türleri ve hayvanlarla zengin bir flora ve fauna çeşitliliğine sahiptir. İklim olarak, İç Anadolu Bölgesi'nin karakteristik özelliklerini taşır. Bölgenin coğrafi yapısı, doğal güzellikleri ve ekosistemi, ziyaretçilere benzersiz bir deneyim sunar. Milli park, çevre dostu bir anlayışla yönetilir ve doğanın korunmasına büyük önem verilir.
 
 ## Flora ve Fauna
 

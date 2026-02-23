@@ -28,7 +28,7 @@ wikidata_id: "Q31553361"
 
 # Neşfikeft Tepesi
 
-Neşfikeft Tepesi, Güneydoğu Anadolu Bölgesi'nin en özel noktalarından biri olan Batman'da yer alıyor. Bu tepe, yaklaşık olarak 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Doğal güzelliği ile dikkat çeken Neşfikeft Tepesi, ziyaretçilerini büyüleyen bir manzaraya sahip. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Neşfikeft Tepesi, hem doğa severler hem de tarihi mekanlara ilgi duyanlar için wicht bir destinasyon.
+Neşfikeft Tepesi, Güneydoğu Anadolu Bölgesi'nin en özel noktalarından biri olan Batman'da yer alıyor. Doğal güzelliği ile dikkat çeken Neşfikeft Tepesi, ziyaretçilerini büyüleyen bir manzaraya sahip. Burada, çeşitli bitki türleri ve zengin fauna ile karşılaşma mümkün. Neşfikeft Tepesi, hem doğa severler hem de tarihi mekanlara ilgi duyanlar için wicht bir destinasyon.
 
 ## Tarihçe
 

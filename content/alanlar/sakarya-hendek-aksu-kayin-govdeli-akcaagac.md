@@ -22,7 +22,7 @@ wikidata_id: "Q108228049"
 
 # Sakarya-Hendek-Aksu Kayın Gövdeli Akcaagac
 
-Sakarya-Hendek-Aksu Kayın Gövdeli Akcaagac, Marmara Bölgesi'nin saklı cennetlerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğanın kucağına davet ediyor. Bu milli park, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için bir sığınak. Sakarya'nın doğal güzelliklerini keşfetmek isteyenler, bu parkın sunduğu olanaklardan yararlanabilir. Parkın içinde yürüyüş parkurları, piknik alanları ve çeşitli bitki türleri bulunuyor. Ziyaretçiler, burada doğanın güzelliğini keşfedebilir ve stresini atabilir.
+Sakarya-Hendek-Aksu Kayın Gövdeli Akcaagac, Marmara Bölgesi'nin saklı cennetlerinden biri. Bu milli park, şehrin gürültüsünden uzaklaşma ve doğayla baş başa kalmak isteyenler için bir sığınak. Sakarya'nın doğal güzelliklerini keşfetmek isteyenler, bu parkın sunduğu olanaklardan yararlanabilir. Parkın içinde yürüyüş parkurları, piknik alanları ve çeşitli bitki türleri bulunuyor. Ziyaretçiler, burada doğanın güzelliğini keşfedebilir ve stresini atabilir.
 
 ## Tarihçe
 

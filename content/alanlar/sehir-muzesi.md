@@ -1,7 +1,7 @@
 ---
 title: "Şehir Müzesi"
 date: "2026-01-10T15:19:42.892Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -30,15 +30,15 @@ wikidata_id: "Q132888623"
 
 # Şehir Müzesi
 
-140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve İstanbul'un kalbinde yer alıyor. Şehir Müzesi, tarihin ve kültürün buluştuğu bir noktada ziyaretçilerini ağırlıyor. Bu büyük alan, hem doğa severler hem de tarih meraklıları için bir hazine sunuyor. 140 hektarlık bu geniş alanda gezerken, ziyaretçiler hem doğanın güzelliğini hem de tarihin zenginliğini keşfedebiliyorlar.
+ Şehir Müzesi, tarihin ve kültürün buluştuğu bir noktada ziyaretçilerini ağırlıyor. Bu büyük alan, hem doğa severler hem de tarih meraklıları için bir hazine sunuyor. 140 hektarlık bu geniş alanda gezerken, ziyaretçiler hem doğanın güzelliğini hem de tarihin zenginliğini keşfedebiliyorlar.
 
 ## Tarihçe
 
-Şehir Müzesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bugün ziyaretçilere sunulan zengin koleksiyon, bu uzun geçmişin bir sonucu. Müzenin kuruluş hikayesi, İstanbul'un tarihini ve kültürel mirasını anlamak için önemli bir başlangıç noktası sunuyor. Şehir Müzesi, zaman içinde birçok değişim ve gelişime tanık olmuş ve her dönemden eserler barındırıyor. Bu eserler, ziyaretçilere İstanbul'un histórik geçmişini ve kültürel zenginliğini gösteriyor. Şehir Müzesi'nin tarihi ve kültürel önemi, yalnızca İstanbul için değil, tüm Türkiye için büyük bir değer taşıyor.
+Şehir Müzesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş ve bugün ziyaretçilere sunulan zengin koleksiyon, bu uzun geçmişin bir sonucu. Müzenin kuruluş hikayesi, İstanbul'un tarihini ve kültürel mirasını anlamak için önemli bir başlangıç noktası sunuyor. Şehir Müzesi, zaman içinde birçok değişim ve gelişime tanık olmuş ve her dönemden eserler barındırıyor. Bu eserler, ziyaretçilere İstanbul'un tarihi geçmişini ve kültürel zenginliğini gösteriyor. Şehir Müzesi'nin tarihi ve kültürel önemi, yalnızca İstanbul için değil, tüm Türkiye için büyük bir değer taşıyor.
 
 ## Coğrafya
 
-Şehir Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. Bu büyük alan, 140 hektarlık bir yeşil bölge ve yaklaşık 200 futbol sahası büyüklüğünde. Müze, çevresindeki doğal güzellikler ve tarihi yapılar ile birlikte, ziyaretçilere geniş bir coğrafi çeşitlilik sunuyor. Şehir Müzesi'nin coğrafi konumu, İstanbul'un tarihi ve kültürel merkezinde olması, ziyaretçilere şehir hakkında daha derin bir anlayış kazandırıyor. Müzenin etrafındaki çevre, hem doğal güzelliği hem de tarihi önemi ile ziyaretçileri cezbediyor. Şehir Müzesi, İstanbul'un coğrafi ve kültürel haritasında önemli bir yer tutuyor.
+Şehir Müzesi, İstanbul'un merkezinde, Marmara Bölgesi'nde yer alıyor. Müze, çevresindeki doğal güzellikler ve tarihi yapılar ile birlikte, ziyaretçilere geniş bir coğrafi çeşitlilik sunuyor. Şehir Müzesi'nin coğrafi konumu, İstanbul'un tarihi ve kültürel merkezinde olması, ziyaretçilere şehir hakkında daha derin bir anlayış kazandırıyor. Müzenin etrafındaki çevre, hem doğal güzelliği hem de tarihi önemi ile ziyaretçileri cezbediyor. Şehir Müzesi, İstanbul'un coğrafi ve kültürel haritasında önemli bir yer tutuyor.
 
 ## Flora ve Fauna
 

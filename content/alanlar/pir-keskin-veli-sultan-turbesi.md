@@ -1,7 +1,7 @@
 ---
 title: "Pir Keskin Veli Sultan Türbesi"
 date: "2026-01-10T05:20:01.218Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q131391687"
 
 # Pir Keskin Veli Sultan Türbesi
 
-Pir Keskin Veli Sultan Türbesi, İstanbul'un Pendik ilçesinde yer alan önemli bir tarihi ve kültürel mekân olarak dikkat çekiyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir açık alan sunuyor. Bu tarihi mekan, Marmara Bölgesi'nin zengin kültürel mirasının bir parçası olarak görenleri cezbediyor. Geçmişin izlerini taşıyan bu türbe, hem yerli hem de yabancı turistler için bir çekim merkezi olarak öne çıkıyor.
+Pir Keskin Veli Sultan Türbesi, İstanbul'un Pendik ilçesinde yer alan önemli bir tarihi ve kültürel mekân olarak dikkat çekiyor. Bu tarihi mekan, Marmara Bölgesi'nin zengin kültürel mirasının bir parçası olarak görenleri cezbediyor. Geçmişin izlerini taşıyan bu türbe, hem yerli hem de yabancı turistler için bir çekim merkezi olarak öne çıkıyor.
 
 ## Tarihçe
 

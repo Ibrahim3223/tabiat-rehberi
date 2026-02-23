@@ -1,7 +1,7 @@
 ---
 title: "Han Mağarası"
 date: "2026-01-09T10:06:46.100Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "jeopark"
 il: "Niğde"
@@ -29,11 +29,11 @@ wikidata_id: "Q49319225"
 
 # Han Mağarası
 
-Niğde'nin doğal güzelliklerinden biri olan Han Mağarası, ilin zengin jeolojik mirasını gözler önüne seriyor. Bu doğa harikası, ziyaretçilerini büyüleyici bir wereldgezegenin içinde bir yolculuğa çıkarıyor. Niğde'nin tarihi ve kültürel zenginliklerine ek olarak, Han Mağarası da bölgenin turizm potansiyelini artırıyor. Doğal güzelliği ve jeolojik özellikleri ile dikkat çeken bu mağara, Niğde'nin önemli bir turistik destinasyonu haline geliyor.
+Niğde'nin doğal güzelliklerinden biri olan Han Mağarası, ilin zengin jeolojik mirasını gözler önüne seriyor. Bu doğa harikası, ziyaretçilerini büyüleyici bir wereldgezegenin içinde bir yolculuğa çıkarıyor. Niğde'nin tarihi ve kültürel zenginliklerine ek olarak, Han Mağarası da bölgenin turizm potansiyelini artırıyor.
 
 ## Tarihçe
 
-Niğde bölgesi, tarihin sâu izlerini taşıyan bir coğrafyada yer alır. Hitit, Roma ve Bizans uygarlıklarının izlerini taşıyan bu topraklar, tarih boyunca önemli ticaret yollarının kesişme noktasında bulunmuştur. Han Mağarası, bu tarihsel zenginliğin bir parçasını oluşturan doğal bir hazine olarak karşımıza çıkar.
+Niğde bölgesi, tarihin derin izlerini taşıyan bir coğrafyada yer alır. Hitit, Roma ve Bizans uygarlıklarının izlerini taşıyan bu topraklar, tarih boyunca önemli ticaret yollarının kesişme noktasında bulunmuştur. Han Mağarası, bu tarihsel zenginliğin bir parçasını oluşturan doğal bir hazine olarak karşımıza çıkar.
 
 Türkiye'de doğal alanlar, tarih boyunca insanların yaşamlarında önemli bir rol oynamıştır. Yaylacılık, hayvancılık ve ticaret faaliyetleri, bu bölgelerin ekonomi ve kültürel önemini artırmıştır. Niğde bölgesinde de benzer bir şekilde, insanların doğal kaynaklara bağlı olarak yaşamlarını sürdürdükleri görülür. Han Mağarası, bu bölgede yer alan ve tarihin derinliklerine uzanan bir doğal oluşumdur. İnsanların bu mağarayla olan ilişkisi, bölgenin tarihini anlamak için önemli bir IPUCU sunar.
 

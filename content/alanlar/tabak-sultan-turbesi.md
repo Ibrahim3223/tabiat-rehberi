@@ -1,7 +1,7 @@
 ---
 title: "Tabak Sultan Türbesi"
 date: "2026-01-10T07:04:46.332Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390796"
 
 # Tabak Sultan Türbesi
 
-Tabak Sultan Türbesi, Edirne'nin merkezinde yer alan tarihi bir yapıdır. 140 hektarlık bir alan üzerinde kurulmuş olan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbeden bu mekan, Edirne'nin önemli turistik noktalarından biridir. Türbenin etrafında çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşma mümkün. Ziyaretçiler, bu tarihi yapıyı gezerken aynı zamanda doğal güzelliklere de tanık olabilir.
+Tabak Sultan Türbesi, Edirne'nin merkezinde yer alan tarihi bir yapıdır. Tarihi geçmişi ve doğal güzellikleri ile ziyaretçilerini cezbeden bu mekan, Edirne'nin önemli turistik noktalarından biridir. Türbenin etrafında çeşitli bitki türleri bulunur ve zengin fauna ile karşılaşma mümkün. Ziyaretçiler, bu tarihi yapıyı gezerken aynı zamanda doğal güzelliklere de tanık olabilir.
 
 ## Tarihçe
 

@@ -50,11 +50,11 @@ Doğal güzellikleri ve sakin atmosferi ile dikkat çeken İncir Adası, coğraf
 
 ## Flora ve Fauna
 
-İncir Adası, Kocaeli'nin kıyılarında yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ada, geçiş ikliminin etkisi altında kalıyor ve karma ormanlarla kaplıdır. 
+İncir Adası, Kocaeli'nin kıyılarında yer alan bir ada ekosistemidir. Bu 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Ada, geçiş ikliminin etkisi altında kalıyor ve karma ormanlarla kaplıdır.
 
-Bitki örtüsü olarak, ilkbahar aylarında ada, rengarenk çiçeklerle donanıyor. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler hakimdir. Sonbahar mevsiminde ise, ada göçmen kuşların önemli bir durağı haline geliyor. 
+Bitki örtüsü olarak, ilkbahar aylarında ada, rengarenk çiçeklerle donanıyor. Kıyı kesimlerinde, tuzlu suya dayanıklı bitkiler hakimdir. Sonbahar mevsiminde ise, ada göçmen kuşların önemli bir durağı haline geliyor.
 
-Yaban hayatı açısından, ada özellikle deniz kuşlarına ev sahipliği yapıyor. Ayrıca, ada ekosisteminin izole yapısı nedeniyle, bazı türlerin özel popülasyonları burada yaşamlarını sürdürüyor. 
+Yaban hayatı açısından, ada özellikle deniz kuşlarına ev sahipliği yapıyor. Ayrıca, ada ekosisteminin izole yapısı nedeniyle, bazı türlerin özel popülasyonları burada yaşamlarını sürdürüyor.
 
 Ekolojik değer olarak, İncir Adası'nın korunması büyük önem taşıyor. Ada, hem yerel hem de göçmen türler için önemli bir yaşam alanı sunuyor. Bu nedenle, ada ekosisteminin korunmasına yönelik çalışmalar yürütülüyor.
 

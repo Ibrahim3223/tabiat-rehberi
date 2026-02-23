@@ -1,7 +1,7 @@
 ---
 title: "Gençosman Hamamı"
 date: "2026-01-09T22:25:22.834Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Tokat"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738447"
 
 # Gençosman Hamamı
 
-Turhal, Tokat'ta bulunan Gençosman Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bu genişlikte birçok misafiri ağırlayabilecek kapasiteye sahiptir. Turhal'ın merkezine yakın konumuyla da dikkat çeker. Gençosman Hamamı, plaj severlerin ve doğa tutkunlarının keyif alabileceği bir mekan olarak bilinen bu güzel yer, ziyaretçilerini güler yüzlü bir şekilde karşılar.
+Turhal, Tokat'ta bulunan Gençosman Hamamı, Karadeniz Bölgesi'nin en güzel plajlarından biridir. Turhal'ın merkezine yakın konumuyla da dikkat çeker. Gençosman Hamamı, plaj severlerin ve doğa tutkunlarının keyif alabileceği bir mekan olarak bilinen bu güzel yer, ziyaretçilerini güler yüzlü bir şekilde karşılar.
 
 ## Tarihçe
 

@@ -28,11 +28,11 @@ wikidata_id: "Q31387326"
 
 # Alcam Tepesi
 
-Alcam Tepesi, Kastamonu'nun en yüksek noktalarından biri olarak bilinir. Bu tepe, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir alanı temsil eder. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken Alcam Tepesi, ziyaretçilerini etkileyici manzaralarıyla karşılar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve zengin fauna çeşitliliğiyle dikkat çeker. Alcam Tepesi, hem doğa hem de tarih severler için önemli bir destinasyon olarak kabul edilir.
+Alcam Tepesi, Kastamonu'nun en yüksek noktalarından biri olarak bilinir. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken Alcam Tepesi, ziyaretçilerini etkileyici manzaralarıyla karşılar. Tepenin eteklerinde çeşitli bitki türleri bulunur ve zengin fauna çeşitliliğiyle dikkat çeker. Alcam Tepesi, hem doğa hem de tarih severler için önemli bir destinasyon olarak kabul edilir.
 
 ## Tarihçe
 
-Alcam Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış tarihi bir bölgedir. Tarihi geçmişi, zengin kültürel mirasıyla dikkat çeker. Tepenin çevresinde bulunan tarihi kalıntılar, bölgenin önemini vurgular. Alcam Tepesi, ziyaretçilerine tarihin sâu sayfalarından sayfaları açar ve onları geçmişin atmosferine sokar. Tepenin tarihi, bölgenin stratejik konumuyla da bağlantılıdır. Bu nedenle, Alcam Tepesi hem tarih hem de coğrafya açısından önemli bir noktadır.
+Alcam Tepesi, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış tarihi bir bölgedir. Tarihi geçmişi, zengin kültürel mirasıyla dikkat çeker. Tepenin çevresinde bulunan tarihi kalıntılar, bölgenin önemini vurgular. Alcam Tepesi, ziyaretçilerine tarihin derin sayfalarından sayfaları açar ve onları geçmişin atmosferine sokar. Tepenin tarihi, bölgenin stratejik konumuyla da bağlantılıdır. Bu nedenle, Alcam Tepesi hem tarih hem de coğrafya açısından önemli bir noktadır.
 
 ## Coğrafya
 

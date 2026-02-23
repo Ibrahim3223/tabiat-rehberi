@@ -50,9 +50,9 @@ Mevsimsel açıdan incelendiğinde, Kepir Dağı'nın iklimi Doğu Anadolu Bölg
 
 ## Flora ve Fauna
 
-Kepir Dağı, Tunceli'nin yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. 
-Bitki örtüsünü oluşturan alpin çayırlar ve endemik türler, ilkbaharın gelmesiyle birlikte rengarenk bir hal alır. Bu mevsimde, dağ yamaçlarını kaplayan çiçekler, manzarayı bir tabloya çevirir. 
-Yaban hayatı da bir o kadar zengin. Dağ keçileri, yaban keçileri ve ayılar gibi memeliler, dağların yükseklik zonlarında yaşamlarını sürdürürler. Kuşlar ise, özellikle sonbaharın gelmesiyle birlikte, göç için burayı bir uğrak noktası olarak kullanır. 
+Kepir Dağı, Tunceli'nin yüksek dağ ekolojisinin tüm güzelliğini sergileyen bir bölge. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor.
+Bitki örtüsünü oluşturan alpin çayırlar ve endemik türler, ilkbaharın gelmesiyle birlikte rengarenk bir hal alır. Bu mevsimde, dağ yamaçlarını kaplayan çiçekler, manzarayı bir tabloya çevirir.
+Yaban hayatı da bir o kadar zengin. Dağ keçileri, yaban keçileri ve ayılar gibi memeliler, dağların yükseklik zonlarında yaşamlarını sürdürürler. Kuşlar ise, özellikle sonbaharın gelmesiyle birlikte, göç için burayı bir uğrak noktası olarak kullanır.
 Bu dağ ekosisteminin korunması, bölgenin ekolojik dengesi için çok önemlidir. Yüksek dağ ekolojisi, alpin çayırlar ve endemik türlerin bir arada yaşadığı bu bölge, bilim insanları ve doğa severler için bir cennet niteliğindedir.
 
 ## Ziyaret Bilgileri

@@ -1,7 +1,7 @@
 ---
 title: "İmzalı ve Birinci Baskı Kitaplar Müzesi"
 date: "2026-01-10T15:18:09.001Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "yayla"
 il: "İstanbul"
@@ -29,7 +29,7 @@ wikidata_id: "Q132949575"
 
 # İmzalı ve Birinci Baskı Kitaplar Müzesi
 
-İmzalı ve Birinci Baskı Kitaplar Müzesi, İstanbul'un kalbinde, kitap severlerin buluşma noktası olarak hizmet vermektedir. 140 hektarlık bir alan, yaklaşık 200 futbol sahası büyüklüğünde, ziyaretçilere geniş bir kitap koleksiyonu sunmaktadır. Müze, çeşitli kitap türlerine ev sahipliği yapmakta ve ziyaretçilere edebiyat ve sanat hakkında derinlemesine bilgi edinme fırsatı sunmaktadır. Kitap severler, bu müzeyi ziyaret ederek, imzalı ve birinci baskı kitapların güzelliğini yakından görebilmektedir.
+İmzalı ve Birinci Baskı Kitaplar Müzesi, İstanbul'un kalbinde, kitap severlerin buluşma noktası olarak hizmet vermektedir. Müze, çeşitli kitap türlerine ev sahipliği yapmakta ve ziyaretçilere edebiyat ve sanat hakkında derinlemesine bilgi edinme fırsatı sunmaktadır. Kitap severler, bu müzeyi ziyaret ederek, imzalı ve birinci baskı kitapların güzelliğini yakından görebilmektedir.
 
 ## Tarihçe
 

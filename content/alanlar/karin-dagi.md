@@ -52,7 +52,7 @@ Karın Dağı, Antalya'nın güzide bir doğal alanıdır. 1200 hektarlık bu da
 
 Dağın yükseklik zonalarında, alpin flora çeşitliliği göze çarpar. Kıyı ekosisteminin yakınlığı, bu bölgenin ekolojik zenginliğini artırır. Yaban hayatı da bir o kadar çeşitlidir; memeliler, kuşlar ve sürüngenler bu dağda yaşamlarını sürdürür. Sonbaharın gelmesiyle birlikte, göç eden kuşlar bu bölgeden geçer.
 
-Karın Dağı'nın ekolojik değeri, bu bölgenin koruma altına alınmasını gerektirir. Bu dağ, bölgenin ekosistem dengesini sağlayan önemli bir doğal alandır. Bu nedenle, Karın Dağı'nın korunması ve gelecek nesiller için bảo tồn edilmesi büyük önem taşır.
+Karın Dağı'nın ekolojik değeri, bu bölgenin koruma altına alınmasını gerektirir. Bu dağ, bölgenin ekosistem dengesini sağlayan önemli bir doğal alandır. Bu nedenle, Karın Dağı'nın korunması ve gelecek nesiller için koruma tồn edilmesi büyük önem taşır.
 
 ## Ziyaret Bilgileri
 

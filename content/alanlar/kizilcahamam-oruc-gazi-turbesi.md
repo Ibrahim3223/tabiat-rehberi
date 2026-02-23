@@ -1,7 +1,7 @@
 ---
 title: "Kızılcahamam Oruç Gazi Türbesi"
 date: "2026-01-10T06:18:04.511Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Ankara"
@@ -29,7 +29,7 @@ wikidata_id: "Q131390676"
 
 # Kızılcahamam Oruç Gazi Türbesi
 
-Kızılcahamam Oruç Gazi Türbesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir destinasyon olarak, hem tarihi hem de doğal güzellikleri bir arada sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor. Bu bölge, hem Ankara'nın tarihi geçmişini keşfetmek hem de doğayla iç içe bir gün geçirmek isteyenler için ideal bir seçim.
+Kızılcahamam Oruç Gazi Türbesi, Ankara'nın İç Anadolu Bölgesi'nde yer alan bir destinasyon olarak, hem tarihi hem de doğal güzellikleri bir arada sunuyor. Bu bölge, hem Ankara'nın tarihi geçmişini keşfetmek hem de doğayla iç içe bir gün geçirmek isteyenler için ideal bir seçim.
 
 ## Tarihçe
 

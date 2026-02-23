@@ -28,7 +28,7 @@ wikidata_id: "Q34829804"
 
 # Ören Tepesi
 
-Ören Tepesi, Erzurum'un kalbinde yer alan bir doğa harikasıdır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve bölgenin en önemli doğal güzelliklerinden biridir. Bu tepe, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak gibidir. Burada, doğanın sesini dinleyebilir, temiz havayı soluyabilir ve çevrenin güzelliğini izleyebilirsiniz. Ören Tepesi, aynı zamanda bir tarihi geçmişe sahiptir ve bölgenin kültürel zenginliğini keşfetmek için ideal bir noktadır.
+Ören Tepesi, Erzurum'un kalbinde yer alan bir doğa harikasıdır. Bu tepe, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak gibidir. Burada, doğanın sesini dinleyebilir, temiz havayı soluyabilir ve çevrenin güzelliğini izleyebilirsiniz. Ören Tepesi, aynı zamanda bir tarihi geçmişe sahiptir ve bölgenin kültürel zenginliğini keşfetmek için ideal bir noktadır.
 
 ## Tarihçe
 

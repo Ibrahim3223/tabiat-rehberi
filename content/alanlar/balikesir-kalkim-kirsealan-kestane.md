@@ -22,7 +22,7 @@ wikidata_id: "Q108227723"
 
 # Balıkesir-Kalkim-Kirsealan Kestane
 
-Balıkesir-Kalkim-Kirsealan Kestane milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan bu park, ziyaretçiler için eşsiz bir deneyim sunuyor. Parkın içerisinde yer alan kestane ağaçları, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Ayrıca, parkın zengin fauna yapısı, çeşitli yaban hayvanlarını da barındırıyor. Balıkesir-Kalkim-Kirsealan Kestane milli parkı, hem doğa severler hem de yaban hayatı ile ilgilenenler için ideal bir destinasyon olarak görünüyor.
+Balıkesir-Kalkim-Kirsealan Kestane milli parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri olarak dikkat çekiyor. Parkın içerisinde yer alan kestane ağaçları, ziyaretçilerin doğayla iç içe olmasını sağlıyor. Ayrıca, parkın zengin fauna yapısı, çeşitli yaban hayvanlarını da barındırıyor. Balıkesir-Kalkim-Kirsealan Kestane milli parkı, hem doğa severler hem de yaban hayatı ile ilgilenenler için ideal bir destinasyon olarak görünüyor.
 
 ## Tarihçe
 
@@ -30,7 +30,7 @@ Balıkesir-Kalkim-Kirsealan Kestane milli parkının tarihi geçmişi, yüzyıll
 
 ## Coğrafya
 
-Balıkesir-Kalkim-Kirsealan Kestane milli parkı, Marmara Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş. Parkın coğrafi konumu, ziyaretçilerin doğayı ve yaban hayatını yakından gözlemlemesine olanak tanıyor. Parkın 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde ve bu alan, ziyaretçilere geniş bir doğa alanı sunuyor. Parkın coğrafi yapısı, çeşitli yaban hayvanlarının yaşamasına uygun ve bu nedenle park, zengin bir fauna yapısına sahip. Ayrıca, parkın iklimi, ziyaretçilerin yılın her döneminde gezebilmesine olanak tanıyor. Parkın coğrafi konumu, Marmara Bölgesi'nin doğal güzelliklerini ziyaretçilerle buluşturuyor.
+Balıkesir-Kalkim-Kirsealan Kestane milli parkı, Marmara Bölgesi'nin coğrafi yapısına uygun olarak kurulmuş. Parkın coğrafi konumu, ziyaretçilerin doğayı ve yaban hayatını yakından gözlemlemesine olanak tanıyor. Parkın coğrafi yapısı, çeşitli yaban hayvanlarının yaşamasına uygun ve bu nedenle park, zengin bir fauna yapısına sahip. Ayrıca, parkın iklimi, ziyaretçilerin yılın her döneminde gezebilmesine olanak tanıyor. Parkın coğrafi konumu, Marmara Bölgesi'nin doğal güzelliklerini ziyaretçilerle buluşturuyor.
 
 ## Flora ve Fauna
 

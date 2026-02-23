@@ -28,7 +28,7 @@ wikidata_id: "Q31566682"
 
 # Hugut Tepesi
 
-Hugut Tepesi, Gümüşhane'nin Karadeniz Bölgesi'nde yer alan bir tepe. Bu alan, yaklaşık 140 hektarlık bir büyüklüğe sahip ve yaklaşık 200 futbol sahası büyüklüğünde. Hugut Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişi ile cezbediyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak dikkat çekiyor.
+Hugut Tepesi, Gümüşhane'nin Karadeniz Bölgesi'nde yer alan bir tepe. Hugut Tepesi, ziyaretçilerini doğal güzellikleri ve tarihi geçmişi ile cezbediyor. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Bu bölge, hem doğa severler hem de tarih meraklıları için önemli bir destinasyon olarak dikkat çekiyor.
 
 ## Tarihçe
 
@@ -36,7 +36,7 @@ Hugut Tepesi'nin tarihi geçmişi, yüzyıllar boyunca şekillenmiş. Bu bölge,
 
 ## Coğrafya
 
-Hugut Tepesi, Karadeniz Bölgesi'nin coğrafyasını yansıtan önemli bir alan. Bu bölge, 140 hektarlık bir alanı kapsıyor ve yaklaşık 200 futbol sahası büyüklüğünde. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Hugut Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle ziyaretçilerine geniş bir manzara sunuyor. Bu tepe, Karadeniz Bölgesi'nin coğrafyasını şekillendiren önemli bir unsur. Hugut Tepesi'nin coğrafyası, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebileceğiniz bu bölge, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor.
+Hugut Tepesi, Karadeniz Bölgesi'nin coğrafyasını yansıtan önemli bir alan. Tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunuyor. Hugut Tepesi, deniz seviyesinden yüksek bir konumda yer alıyor ve bu nedenle ziyaretçilerine geniş bir manzara sunuyor. Bu tepe, Karadeniz Bölgesi'nin coğrafyasını şekillendiren önemli bir unsur. Hugut Tepesi'nin coğrafyası, ziyaretçilerine farklı mevsimlerde farklı güzellikler sunuyor. İlkbahar ve yaz aylarında yeşilin tüm tonlarını görebileceğiniz bu bölge, sonbahar ve kış aylarında ise farklı bir güzelliğe bürünüyor.
 
 ## Flora ve Fauna
 

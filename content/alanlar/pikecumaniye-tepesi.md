@@ -28,7 +28,7 @@ wikidata_id: "Q31551117"
 
 # Pikecumaniye Tepesi
 
-Pikecumaniye Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir arada sunan özel bir nokta. Bu tepe, yaklaşık 140 hektarlık bir alan kaplıyor ve 200 futbol sahası büyüklüğünde. Pikecumaniye Tepesi, ziyaretçilere Mardin'in tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Tepenin eteklerinde bulunan tarihi yapılar ve kalıntılar, bu bölgenin zengin geçmişini anlatıyor. Pikecumaniye Tepesi, aynı zamanda doğa severler için de bir cennet. Tepenin etrafında çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliklerini sunuyor.
+Pikecumaniye Tepesi, Mardin'in tarihi ve doğal güzelliklerini bir arada sunan özel bir nokta. Pikecumaniye Tepesi, ziyaretçilere Mardin'in tarihi ve kültürel zenginliklerini keşfetme fırsatı sunuyor. Tepenin eteklerinde bulunan tarihi yapılar ve kalıntılar, bu bölgenin zengin geçmişini anlatıyor. Pikecumaniye Tepesi, aynı zamanda doğa severler için de bir cennet. Tepenin etrafında çeşitli bitki türleri ve zengin fauna, ziyaretçilere doğanın güzelliklerini sunuyor.
 
 ## Tarihçe
 

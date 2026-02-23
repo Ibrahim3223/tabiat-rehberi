@@ -22,7 +22,7 @@ wikidata_id: "Q108226405"
 
 # Kükürtlü Su Kaynağı Sit Alanı
 
-Kükürtlü Su Kaynağı Sit Alanı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. 140 hektarlık geniş bir yeşil alan sunan bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahip. Bu alan, yerli ve yabancı turistlerin ilgisini çeken önemli bir doğal güzellik olarak dikkat çekiyor. Kükürtlü Su Kaynağı Sit Alanı, hem doğa severler hem de tarihi ve kültürel zenginliklere meraklı olanlar için bir hazine olarak kabul edilebilir. Burada, çeşitli bitki türleri ve zengin fauna çeşitliliği, ziyaretçilere benzersiz bir deneyim sunuyor.
+Kükürtlü Su Kaynağı Sit Alanı, İç Anadolu Bölgesi'nin güzide mekanlarından biri olarak karşımıza çıkıyor. Bu alan, yerli ve yabancı turistlerin ilgisini çeken önemli bir doğal güzellik olarak dikkat çekiyor. Kükürtlü Su Kaynağı Sit Alanı, hem doğa severler hem de tarihi ve kültürel zenginliklere meraklı olanlar için bir hazine olarak kabul edilebilir. Burada, çeşitli bitki türleri ve zengin fauna çeşitliliği, ziyaretçilere benzersiz bir deneyim sunuyor.
 
 ## Tarihçe
 
@@ -43,7 +43,7 @@ Kükürtlü Su Kaynağı Sit Alanı, yıl boyunca ziyaret edilebilir. Ancak, en 
 ## İlginç Bilgiler
 
 - Kükürtlü Su Kaynağı Sit Alanı, 140 hektarlık bir alana yayılmıştır.
-- Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir.
+
 - Kükürtlü Su Kaynağı Sit Alanı, İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir.
 - Bu bölgede, çeşitli bitki türleri ve fauna çeşitliliği bulunur.
 - Ziyaretçiler, Kükürtlü Su Kaynağı Sit Alanı'nda doğa yürüyüşleri, fotoğraf çekimi ve piknik yapmak gibi faaliyetler yapabilir.

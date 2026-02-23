@@ -28,7 +28,7 @@ wikidata_id: "Q135714631"
 
 # Mount Sapanca
 
-Mount Sapanca, Sakarya'nın sınırları içinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir alan kaplıyor. Mount Sapanca, ziyaretçilerini doğal güzellikleriyle karşılayan bir destinasyon. Burada, doğanın içinde yürüyüş yapmak, manzaraları seyretme ve temiz hava alma mümkün.
+Mount Sapanca, Sakarya'nın sınırları içinde yer alan ve Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan bir tepe. Mount Sapanca, ziyaretçilerini doğal güzellikleriyle karşılayan bir destinasyon. Burada, doğanın içinde yürüyüş yapmak, manzaraları seyretme ve temiz hava alma mümkün.
 
 ## Tarihçe
 

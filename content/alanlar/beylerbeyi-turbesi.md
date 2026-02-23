@@ -1,7 +1,7 @@
 ---
 title: "Beylerbeyi Türbesi"
 date: "2026-01-10T07:36:22.488Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Edirne"
@@ -30,7 +30,7 @@ wikidata_id: "Q131391267"
 
 # Beylerbeyi Türbesi
 
-Beylerbeyi Türbesi, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tarihi yapı, yaklaşık 140 hektarlık alan üzerinde kurulmuş ve ziyaretçilerini tarihin sâu sayfalarına götürmeyi vaat ediyor. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş ve ferah bir ortam sunuyor. Beylerbeyi Türbesi, Edirne'nin merkezinde yer alıyor ve şehrin önemli simgelerinden biri olarak kabul ediliyor. Türbenin mimarisi, Osmanlı dönemi özellikleri taşıyor ve ziyaretçiler tarafından büyük ilgi görmekte.
+Beylerbeyi Türbesi, Edirne'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon. Bu tarihi yapı, yaklaşık 140 hektarlık alan üzerinde kurulmuş ve ziyaretçilerini tarihin derin sayfalarına götürmeyi vaat ediyor. 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilere geniş ve ferah bir ortam sunuyor. Beylerbeyi Türbesi, Edirne'nin merkezinde yer alıyor ve şehrin önemli simgelerinden biri olarak kabul ediliyor. Türbenin mimarisi, Osmanlı dönemi özellikleri taşıyor ve ziyaretçiler tarafından büyük ilgi görmekte.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Beylerbeyi Türbesi, tarihsel olarak önemli bir geçmişe sahip. Osmanlı İmpa
 
 ## Coğrafya
 
-Beylerbeyi Türbesi, Edirne'nin merkezinde yer alıyor ve şehrin coğrafi yapısını yansıtıyor. Türbenin bulunduğu alan, yaklaşık 140 hektarlık bir genişlikte ve 200 futbol sahası büyüklüğünde. Bu geniş alan, ziyaretçilere ferah ve huzurlu bir ortam sunuyor. Edirne, Marmara Bölgesi'nde yer alıyor ve bu bölge, Türkiye'nin kuzeybatı kesimini kapsıyor. Bölgenin coğrafi özellikleri, genellikle düz ovalar ve alçak tepelerden oluşuyor. Beylerbeyi Türbesi, bu coğrafi yapıları yansıtan bir mimariye sahip. Türbenin etrafı, yeşillik alanlarla çevrili ve ziyaretçiler, buradaki doğayı ve tarihi bir arada keşfedebiliyor. İklim olarak, Edirne ve çevresinin Karadeniz iklimi özellikleri göstermesi, bölgenin yeşilli ve su kaynakları açısından zengin olmasını sağlıyor.
+Beylerbeyi Türbesi, Edirne'nin merkezinde yer alıyor ve şehrin coğrafi yapısını yansıtıyor. Bu geniş alan, ziyaretçilere ferah ve huzurlu bir ortam sunuyor. Edirne, Marmara Bölgesi'nde yer alıyor ve bu bölge, Türkiye'nin kuzeybatı kesimini kapsıyor. Bölgenin coğrafi özellikleri, genellikle düz ovalar ve alçak tepelerden oluşuyor. Beylerbeyi Türbesi, bu coğrafi yapıları yansıtan bir mimariye sahip. Türbenin etrafı, yeşillik alanlarla çevrili ve ziyaretçiler, buradaki doğayı ve tarihi bir arada keşfedebiliyor. İklim olarak, Edirne ve çevresinin Karadeniz iklimi özellikleri göstermesi, bölgenin yeşilli ve su kaynakları açısından zengin olmasını sağlıyor.
 
 ## Flora ve Fauna
 

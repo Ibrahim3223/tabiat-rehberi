@@ -1,7 +1,7 @@
 ---
 title: "Keyvanbey Hamamı"
 date: "2026-01-09T22:21:51.877Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "Gaziantep"
@@ -29,7 +29,7 @@ wikidata_id: "Q131738471"
 
 # Keyvanbey Hamamı
 
-Keyvanbey Hamamı, Güneydoğu Anadolu Bölgesi'nin kalbinde, Gaziantep'in Şahinbey ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir mekan. Bu 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini tarihin derinliklerine götürmeye hazırlanıyor. Şahinbey'in merkezinde yer alan Keyvanbey Hamamı, ziyaretçilerine hem tarihin izlerini takip etme hem de doğanın güzelliklerini keşfetme fırsatı sunuyor. Keyvanbey Hamamı, Gaziantep'in tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor.
+Keyvanbey Hamamı, Güneydoğu Anadolu Bölgesi'nin kalbinde, Gaziantep'in Şahinbey ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir mekan. Şahinbey'in merkezinde yer alan Keyvanbey Hamamı, ziyaretçilerine hem tarihin izlerini takip etme hem de doğanın güzelliklerini keşfetme fırsatı sunuyor. Keyvanbey Hamamı, Gaziantep'in tarihi ve kültürel mirasının önemli bir parçası olarak kabul ediliyor.
 
 ## Tarihçe
 

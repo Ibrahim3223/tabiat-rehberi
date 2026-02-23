@@ -28,7 +28,7 @@ wikidata_id: "Q34872535"
 
 # Göngerçalı Tepesi
 
-Göngerçalı Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan ve doğa severlerin keyiflenebileceği bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzelliği ile büyülüyor. Bu tepe, hem doğa yürüyüşü hem de manzara izleme açısından ideal bir nokta.
+Göngerçalı Tepesi, Eskişehir'in İç Anadolu Bölgesi'nde yer alan ve doğa severlerin keyiflenebileceği bir destinasyon. Bu tepe, hem doğa yürüyüşü hem de manzara izleme açısından ideal bir nokta.
 
 ## Tarihçe
 

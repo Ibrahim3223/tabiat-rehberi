@@ -1,7 +1,7 @@
 ---
 title: "Yıldız Sarayı"
 date: "2026-01-10T04:18:05.366Z"
-draft: false
+draft: true
 type: "alan"
 alan_turu: "plaj"
 il: "İstanbul"
@@ -30,7 +30,7 @@ wikidata_id: "Q911734"
 
 # Yıldız Sarayı
 
-Yıldız Sarayı, İstanbul'un kalbinde, Beşiktaş ilçesinde yer alan bir tarihi ve turistik mekândır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin en önemli turistik noktalarından biridir. Bu muhteşem yapı, yüzyıllar boyunca birçok önemli olaya şahitlik etmiş ve günümüzdestill birçok ziyaretçiyi ağırlamaktadır. Yıldız Sarayı'nın tarihi ve kültürel önemi, onu İstanbul'un en önemli mekanlarından biri haline getirmiştir.
+Yıldız Sarayı, İstanbul'un kalbinde, Beşiktaş ilçesinde yer alan bir tarihi ve turistik mekândır. Bu muhteşem yapı, yüzyıllar boyunca birçok önemli olaya şahitlik etmiş ve günümüzdestill birçok ziyaretçiyi ağırlamaktadır. Yıldız Sarayı'nın tarihi ve kültürel önemi, onu İstanbul'un en önemli mekanlarından biri haline getirmiştir.
 
 ## Tarihçe
 
@@ -38,7 +38,7 @@ Yıldız Sarayı'nın tarihi geçmişi, Osmanlı İmparatorluğu'nun son döneml
 
 ## Coğrafya
 
-Yıldız Sarayı, Marmara Bölgesi'nin en önemli turistik noktalarından biridir. Saray, 140 hektarlık bir alanda yer alır ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir. Sarayın coğrafi konumu, İstanbul'un kalbinde yer alması ve Marmara Denizi'ne yakınlığıyla dikkat çekmektedir. Yıldız Sarayı'nın çevresi, birçok önemli tarihi ve turistik mekânla çevrilidir. Sarayın kuzeyinde, Marmara Denizi yer alır ve bu, saraya ayrı bir güzellik katmaktadır. Yıldız Sarayı'nın coğrafi konumu, onu İstanbul'un en önemli mekanlarından biri haline getirmiştir. Sarayın yapısı, Osmanlı mimarisinin önemli örneklerinden biridir ve birçok önemli mimari ögeyi bünyesinde barındırmaktadır.
+Yıldız Sarayı, Marmara Bölgesi'nin en önemli turistik noktalarından biridir. Sarayın coğrafi konumu, İstanbul'un kalbinde yer alması ve Marmara Denizi'ne yakınlığıyla dikkat çekmektedir. Yıldız Sarayı'nın çevresi, birçok önemli tarihi ve turistik mekânla çevrilidir. Sarayın kuzeyinde, Marmara Denizi yer alır ve bu, saraya ayrı bir güzellik katmaktadır. Yıldız Sarayı'nın coğrafi konumu, onu İstanbul'un en önemli mekanlarından biri haline getirmiştir. Sarayın yapısı, Osmanlı mimarisinin önemli örneklerinden biridir ve birçok önemli mimari ögeyi bünyesinde barındırmaktadır.
 
 ## Flora ve Fauna
 
@@ -51,7 +51,7 @@ Yıldız Sarayı, birçok önemli turistik mekanla çevrilidir ve bu, onu İstan
 ## İlginç Bilgiler
 
 - Yıldız Sarayı, Osmanlı İmparatorluğu'nun son dönemlerinde birçok önemli olaya şahitlik etmiştir.
-- Saray, 140 hektarlık bir alanda yer alır ve bu alan, yaklaşık 200 futbol sahası büyüklüğündedir.
+
 - Yıldız Sarayı'nın coğrafi konumu, İstanbul'un kalbinde yer alması ve Marmara Denizi'ne yakınlığıyla dikkat çekmektedir.
 - Sarayın yapısı, Osmanlı mimarisinin önemli örneklerinden biridir ve birçok önemli mimari ögeyi bünyesinde barındırmaktadır.
 - Yıldız Sarayı'nın flora ve fauna çeşitliliği, onu İstanbul'un en önemli doğa mekanlarından biri haline getirmiştir.
